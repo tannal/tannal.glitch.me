@@ -1,13 +1,25 @@
 # 2023-12-15
 
+```js
+const marked = new Marked(
+  markedHighlight({
+    langPrefix: 'hljs language-',
+    highlight(code, lang, info) {
+      const language = hljs.getLanguage(lang) ? lang : 'plaintext';
+      console.log(lang, info, language)
+      return hljs.highlight(code, { language }).value;
+    }
+  })
+);
+
+
 update
 
 update from server
 
 # 2023-12-14
 
-```sh
-
+```bash
 tree -L 2 .
 
 git init
