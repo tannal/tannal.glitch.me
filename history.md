@@ -1,3 +1,290 @@
+# 2023-12-15
+
+Resources
+https://tutflix.org/resources/
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+tannalapi - Project - Deploy
+https://dash.deno.com/projects/tannalapi/settings
+
+MarybethGasman/tannapi
+https://github.com/MarybethGasman/tannapi/tree/master
+
+Hello World!
+http://tannal.glitch.me/all/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[BUG] MaxListenersExceededWarning: Possible EventEmitter memory leak detected. (v10) · Issue #6763 · npm/cli
+https://github.com/npm/cli/issues/6763
+
+Hello World!
+https://tannal.glitch.me/all/
+
+cdn.jsdelivr.net/gh/PrismJS/prism@1/prism.min.js
+https://cdn.jsdelivr.net/gh/PrismJS/prism@1/prism.min.js
+
+Comparing zerodevx:main...tannal:main · zerodevx/zero-md
+https://github.com/zerodevx/zero-md/compare/main...tannal:zero-md:main
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+tannal (tannal)
+https://github.com/tannal
+
+(24) #general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Crash in WebGPU with WebGPU disabled · Issue #30843 · servo/servo
+https://github.com/servo/servo/issues/30843
+
+servo/components/constellation/constellation.rs at 589f2915237b39cdd6fd222d775737cb10f7b9b0 · servo/servo
+https://github.com/servo/servo/blob/589f2915237b39cdd6fd222d775737cb10f7b9b0/components/constellation/constellation.rs#L2047C27-L2047C38
+
+Web Graphics API Tester
+https://toji.github.io/webgpu-test/
+
+tannal.glitch.me
+http://localhost:5173/
+
+vite-plugin-wasm - npm
+https://www.npmjs.com/package/vite-plugin-wasm
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+tannapp/src/components/Zhihu/Zhihu.js at master · MarybethGasman/tannapp
+https://github.com/MarybethGasman/tannapp/blob/master/src/components/Zhihu/Zhihu.js
+
+LeaVerou/md-block: A custom element for rendering stylable (light DOM) Markdown
+https://github.com/LeaVerou/md-block?tab=readme-ov-file
+
+(2) WebComponents Will Outlive Your JavaScript Framework | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=1vF6puwX3bE
+
+Web Components Will Outlive Your JavaScript Framework | jakelazaroff.com
+https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/
+
+code highlight webcomponent - Google 搜索
+https://www.google.com/search?q=code+highlight+webcomponent&oq=code+highlight+webcomponent&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBCDkwNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+highlight js sh is not good - Google 搜索
+https://www.google.com/search?q=highlight+js+sh+is+not+good&oq=highlight+js+sh+is+not+good&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEIODk4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+shadowroot - Google 搜索
+https://www.google.com/search?q=shadowroot&sca_esv=591191718&sxsrf=AM9HkKlMwHBJO3dAwWt8N37sd0F_6_X0Lg%3A1702640377279&ei=-Tp8ZcvFEOmXseMP19-i0AY&ved=0ahUKEwiLpvjWrZGDAxXpS2wGHdevCGoQ4dUDCBA&uact=5&oq=shadowroot&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnNoYWRvd3Jvb3QyBRAAGIAEMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgoQABiABBjLARgKMg4QLhiABBjLARjHARivATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIux1Q4AdYzhhwAHgCkAEAmAHbAaABgA2qAQUwLjkuMbgBA8gBAPgBAcICBBAAGEfCAgoQABiABBiKBRhDwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA8ICCBAAGIAEGLEDwgIOEC4YgAQYsQMYxwEY0QPCAgsQLhiABBjHARjRA8ICChAjGIAEGIoFGCfCAgQQIxgnwgIMECMYgAQYigUYExgnwgIUEC4YgAQYigUYsQMYgwEYxwEY0QPCAhEQABiABBixAxiDARixAxiDAcICBRAuGIAEwgIQEC4YgAQYigUYQxjHARjRA8ICCxAuGIAEGMsBGNQCwgIIEC4YgAQYywHCAh8QLhiABBiKBRhDGMcBGNEDGJcFGNwEGN4EGOAE2AEB4gMEGAAgQYgGAZAGCroGBggBEAEYFA&sclient=gws-wiz-serp
+
+tannal.glitch.me
+http://localhost:5173/
+
+regex - Writing a syntax highlighter - Stack Overflow
+https://stackoverflow.com/questions/809423/writing-a-syntax-highlighter
+
+Goodbye, Prettify. Hello highlight.js! Swapping out our Syntax Highlighter - Meta Stack Exchange
+https://meta.stackexchange.com/questions/353983/goodbye-prettify-hello-highlight-js-swapping-out-our-syntax-highlighter
+
+No colors for `bash` and `shell` · Issue #1926 · highlightjs/highlight.js
+https://github.com/highlightjs/highlight.js/issues/1926
+
+highlight.js/src/languages/bash.js at 6317acd780bfe448f75393ea42d53c0149013274 · highlightjs/highlight.js
+https://github.com/highlightjs/highlight.js/blob/6317acd780bfe448f75393ea42d53c0149013274/src/languages/bash.js#L2
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+vscode/extensions/markdown-language-features/src/markdownEngine.ts at 1b27c60b387be23a46f5d9d0b0c20708c12bd68b · microsoft/vscode
+https://github.com/microsoft/vscode/blob/1b27c60b387be23a46f5d9d0b0c20708c12bd68b/extensions/markdown-language-features/src/markdownEngine.ts#L397
+
+highlight.js bash options color - Google 搜索
+https://www.google.com/search?q=highlight.js+bash+options+color&oq=highlight.js+bash+options+color&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDkxODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jamstack - Wikipedia
+https://en.wikipedia.org/wiki/Jamstack
+
+(1) Matt Biilmann (@biilmann) / X
+https://twitter.com/biilmann
+
+(1) Dan Vega on X: "As someone who has been deploying sites for 23 years now I can't tell you how enjoyable of a process Netlify makes this. I push code to my GitHub repo and boom 💥 https://t.co/h4nJlBrBJp" / X
+https://twitter.com/therealdanvega/status/1735341098623553553
+
+It's a webpack, Michael. What could possibly go wrong - Google 搜索
+https://www.google.com/search?q=It%27s+a+webpack%2C+Michael.+What+could+possibly+go+wrong&oq=It%27s+a+webpack%2C+Michael.+What+could+possibly+go+wrong&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+index.html – tannal
+https://glitch.com/edit/#!/tannal?path=all%2Findex.html%3A28%3A14
+
+Hello World!
+https://tannal.glitch.me/all/
+
+raw.githubusercontent.com/distcc/distcc/master/INSTALL
+https://raw.githubusercontent.com/distcc/distcc/master/INSTALL
+
+tannal (tannal)
+https://github.com/tannal
+
+tannapi - Project - Deploy
+https://dash.deno.com/projects/tannapi
+
+main.ts - tannapi [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannapi
+
+How to import module from Github · Issue #5543 · denoland/deno
+https://github.com/denoland/deno/issues/5543
+
+javascript - Deno Oak Disable Cors - Stack Overflow
+https://stackoverflow.com/questions/62301531/deno-oak-disable-cors
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+javascript - Trying to use fetch and pass in mode: no-cors - Stack Overflow
+https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors
+
+Static file server in Deno Oak | Tech Tonic
+https://medium.com/deno-the-complete-reference/static-file-server-in-deno-oak-241c69aac7e3
+
+Hello World!
+https://tannal.glitch.me/all/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+baseUrl with relative prefix not working as expected. · Issue #1466 · markedjs/marked
+https://github.com/markedjs/marked/issues/1466
+
+javascript - Force chrome to refresh a page while debugging with breakpoints - Stack Overflow
+https://stackoverflow.com/questions/22279615/force-chrome-to-refresh-a-page-while-debugging-with-breakpoints
+
+marked-base-url - npm
+https://www.npmjs.com/package/marked-base-url
+
+Tags · markedjs/marked
+https://github.com/markedjs/marked/tags?after=v9.1.1
+
+markedjs/marked: A markdown parser and compiler. Built for speed.
+https://github.com/markedjs/marked?tab=readme-ov-file
+
+Index of /
+http://124.223.112.154:8080/
+
+[Question] How to set cors headers? · Issue #308 · http-party/http-server
+https://github.com/http-party/http-server/issues/308
+
+Marked
+https://github.com/markedjs
+
+markedjs/marked: A markdown parser and compiler. Built for speed.
+https://github.com/markedjs/marked
+
+marked-base-url - npm
+https://www.npmjs.com/package/marked-base-url?activeTab=readme
+
+index.js - marked-base-url [GitHub] - Visual Studio Code - GitHub
+https://github.dev/markedjs/marked-base-url
+
+tannal-glitch-me.glitch.me/all.md
+https://tannal-glitch-me.glitch.me/all.md
+
+Hello World!
+https://tannal.glitch.me/all/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Hello World!
+http://tannal.glitch.me/all/
+
+git - How to add already cloned projects as submodules? - Stack Overflow
+https://stackoverflow.com/questions/16725107/how-to-add-already-cloned-projects-as-submodules
+
+continuous integration - How to trigger a pipeline when a submodule changes? - Stack Overflow
+https://stackoverflow.com/questions/58605172/how-to-trigger-a-pipeline-when-a-submodule-changes
+
+tannal (tannal)
+https://github.com/tannal
+
+Semisedlak.com
+https://www.semisedlak.com/highlight-your-code-syntax-with-prismjs
+
+How does React work under the hood ? The Overview of React internals
+https://jser.dev/2023-07-11-overall-of-react-internals
+
+shikijs/shiki: A beautiful Syntax Highlighter.
+https://github.com/shikijs/shiki
+
+Using Pro - Marked Documentation
+https://marked.js.org/using_pro#walk-tokens
+
+Issues · vitejs/vite
+https://github.com/vitejs/vite/issues?q=is%3Aissue+is%3Aopen+wasm
+
+shikijs/shiki: A beautiful Syntax Highlighter.
+https://github.com/shikijs/shiki
+
+Astro
+https://astro.build/
+
+tannal.glitch.me
+http://localhost:5173/
+
+Code search results
+https://github.com/search?q=repo%3Ashikijs%2Fshiki%20wasm&type=code
+
+marked-highlight - npm
+https://www.npmjs.com/package/marked-highlight
+
+tannal.glitch.me
+http://localhost:5173/
+
+Use marked and prism.js to parse markdown and add syntax highlighting in Node.js
+https://gist.github.com/lightpohl/f7786afa86ff2901ef40b1b1febf14e0
+
+TypeError: __require.resolve is not a function with svelte.config.cjs in an esm project · Issue #141 · sveltejs/vite-plugin-svelte
+https://github.com/sveltejs/vite-plugin-svelte/issues/141
+
+highlightjs/highlight.js: JavaScript syntax highlighter with language auto-detection and zero dependencies.
+https://github.com/highlightjs/highlight.js?tab=readme-ov-file#es6-modules--import
+
+javascript - How to use npm Marked with HighlightJS - Stack Overflow
+https://stackoverflow.com/questions/48843806/how-to-use-npm-marked-with-highlightjs
+
+highlight.js/src/styles at main · highlightjs/highlight.js
+https://github.com/highlightjs/highlight.js/tree/main/src/styles
+
+highlight js load language - Google 搜索
+https://www.google.com/search?q=highlight+js+load+language&oq=highlight+js+load+lang&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDcxNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1YKppuvepyp1uXXQ0ityg33gtji9UVS_FKLjdgiptH4M/edit
+
+Examples - highlight.js
+https://highlightjs.org/examples
+
+Plunker - y
+https://plnkr.co/edit/smWejiNw2dNd5QjrmZzm?p=preview&preview
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rustdoc: Asciidoctor vs Markdown - tools and infrastructure - Rust Internals
+https://internals.rust-lang.org/t/rustdoc-asciidoctor-vs-markdown/4161/26
+
+Getting started — Sphinx documentation
+https://www.sphinx-doc.org/en/master/tutorial/getting-started.html#setting-up-your-project-and-development-environment
+
+awesome-asciidoc.adoc · main · Eclipse Working Groups / AsciiDoc WG / asciidoc.org · GitLab
+https://gitlab.eclipse.org/eclipse-wg/asciidoc-wg/asciidoc.org/-/blob/main/awesome-asciidoc.adoc#author
+
+AsciiDoc - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode
+
 
 # 2023-12-14
 
