@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+    <title>Introduction to Computer Systems</title>
+    <link rel="stylesheet" href="./book.css" />
+  </head>
+  <body>
+    <page size="A4">
+      <header class="title">Introduction to Computer Systems</header>
+    </page>
+    <page size="A4">
+      <h1>Chapter 8</h1>
+      <h1>
+        Iterative Algorithms & Loop Invariants Abstractions, Techniques and
+        Theory
+      </h1>
+      <section>
+        <img
+          style="width: 5cm"
+          class="float-right"
+          src="https://cdn.glitch.global/c8d57c73-6044-4741-a71a-82aa74f41701/1d6f657d-8f9f-442f-a037-2c42e7561bb0.image.png?v=1701577259838"
+        />
+        <p>
+        A technique used in many algorithms is to start at the beginning and
+        take one step at a time towards the final destination.An algorithm that
+        proceeds in this way is referred to as an iterative algorithm.
+        </p>
+        <p>
+        Though
+        this sounds simple, designing, understanding, and describing such an
+        algorithm can still be a daunting task. It becomes less daunting if we
+        do not need to worry about the entire journey at once but can focus
+        separately on one step at a time.
+        </p>
+        <p>
+        The classic proverb advises us to
+        focus first on the first step. This, however, is difficult to do before
+        we know where we are going. Instead, I advise, first make a general
+        statement about the types of places that the computation might be during
+        its algorithmic journey. Then, given anyone such place, consider what
+        single step the computation should take from there. This is the method
+        of assertions and loop invariants.
+        </p>
+      </section>
+      <section>
+        <h2>
+          8.1 Assertions and Invariants as Boundaries between Parts
+        </h2>
+        <p>
+          Whether you are designing an algorithm, coding an algorithm, trying to understand someone else’s
+algorithm, describing an algorithm to someone else, or formally proving that an algorithm works,
+you do not want to do it all at once. It is much easier to first break the algorithm into clear welldefined pieces and then to separately design, code, understand, describe, or prove correct each of
+the pieces. Assertions provide clean boundaries between these parts. They state what the part can
+expect to have already been accomplished when the part begins and what must be accomplished
+when it completes. Invariants are the same, except they apply either to a loop that is executed
+many times or to object oriented data structure that has an ongoing life.
+        </p>
+              <p>
+          <b>
+            Assertions as Boundaries around a Part:
+        </b> An algorithm is broken into systems, subsystems,
+routines, and subroutines. You must be very clear about the goals of the overall algorithm and
+of each of these parts. Pre and postconditions are assertions that provide a clean boundary
+around each of these.
+        </p>
+      </section>
+    </page>
+    <page size="A4">
+
+      <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+      </ul>
+    </page>
+  </body>
+</html>
