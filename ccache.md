@@ -1,6 +1,6 @@
 # install and use ccache
 
-```sh
+```bash
 
 sudo apt install ccache
 

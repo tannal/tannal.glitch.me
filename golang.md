@@ -1,7 +1,7 @@
 
 
 
-```sh
+```bash
 
 sudo apt-get install gccgo
 GOROOT_BOOTSTRAP=/usr ./make.bash

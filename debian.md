@@ -1,6 +1,6 @@
 
 
-```sh
+```bash
 
 sudo mkdir -p /var/lib/shim-signed/mok/
 
@@ -57,7 +57,7 @@ mokutil --enable-validation
 BIOS security boot and guard will impact touchpad
 
 
-```sh
+```bash
 #deb cdrom:[Debian GNU/Linux 12.2.0 _Bookworm_ - Official amd64 NETINST with firmware 20231007-10:28]/ bookworm main non-free-firmware
 
 deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
@@ -80,7 +80,7 @@ deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non
 ```
 
 
-```sh
+```bash
 
 deb http://mirrors.163.com/debian/ bookworm main non-free non-free-firmware contrib
 
@@ -105,7 +105,7 @@ sudo apt install nvidia-cuda-dev nvidia-cuda-toolkit
 
 
 
-```sh
+```bash
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 

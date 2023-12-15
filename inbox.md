@@ -57,7 +57,7 @@ distcc
 
 # 2023-12-13
 
-```sh
+```bash
 
 sudo apt install linux-perf
 
@@ -70,7 +70,7 @@ export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
 ```
 
 
-```sh
+```bash
 
 du -sh WebKitBuild
 
@@ -84,7 +84,7 @@ sudo systemctl start ssh
 
 https://askahh.com/archives/26/
 
-```sh
+```bash
 Tools/Scripts/run-webkit-tests --gtk  http/tests/media/video-play-stall.html
 16:17
 MaybeParseValue
@@ -112,7 +112,7 @@ Tools/Scripts/update-webkitwpe-libs
 sudo ./stackcount  t:sched:sched_switch -P -dp 1873079
 ```
 
-```sh
+```bash
 
 tar -cf - test | xz - -9 -e > test.tar.gz
 
@@ -164,7 +164,7 @@ https://github.com/bytecodealliance/wasm-micro-runtime
 
 
 
-```sh
+```bash
 
 架构：                   x86_64
   CPU 运行模式：         32-bit, 64-bit
@@ -223,7 +223,7 @@ time make -j22
 
 
 
-```sh
+```bash
 cmake -G"Unix Makefiles" -DBUILD_SHARED_LIBS=ON
 ```
 
@@ -235,7 +235,7 @@ decrease size
 
 performance improvement
 
-```sh
+```bash
 
 sudo apt-get install gcc-multilib
 
@@ -279,7 +279,7 @@ A2 is true. XD
 
 
 
-```sh
+```bash
 4.0K drwxrwxr-x  20 a48 a48 4.0K 12月  8 21:08 bcc
 4.0K drwxrwxr-x   4 a48 a48 4.0K 11月 22 15:37 chromium
 4.0K drwxrwxr-x  59 a48 a48 4.0K 11月 22 13:34 chromium-clone
@@ -366,7 +366,7 @@ warning: variable does not need to be mutable
 
 # 2023-12-08
 
-```sh
+```bash
 # switch master to main
 git branch -m master main
 git fetch origin
@@ -905,7 +905,7 @@ create webassembly dataset from github
 
 # 2023-11-28
 
-```sh
+```bash
 # find all plain texts file in the current directory while exclude some subfixs
 find . -type f ! \( -name "*.pdf" -o -name "*.docx" -o -name "*.xlsx" \) -exec file {} \; | grep "text"
 
@@ -966,7 +966,7 @@ https://aha.betterexplained.com/
 
 # commands
 
-```sh
+```bash
 #nvm 和 nodejs
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 

@@ -1,7 +1,7 @@
 # 
 
 
-```sh
+```bash
 
 cp /usr/bin/raspi-config ~
 sed -i 's/mmcblk0p2/sda2/' ~/raspi-config                                                                              
@@ -17,7 +17,7 @@ https://forums.raspberrypi.com/viewtopic.php?p=129525#p129525
 
 
 
-```sh
+```bash
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 sudo apt update
 sudo apt install gcc-9

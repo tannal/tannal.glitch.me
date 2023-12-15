@@ -1,7 +1,7 @@
 # Webkit
 
 
-```sh
+```bash
 
 ./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands 
 

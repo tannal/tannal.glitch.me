@@ -7,7 +7,7 @@ need investigation
 
 ## install (build from source)
 
-```sh
+```bash
 
 git clone https://github.com/distcc/distcc
 
@@ -27,7 +27,7 @@ sudo make install
 
 ## start distccd on every machines
 
-```sh
+```bash
 
 pkill distccd
 
@@ -45,7 +45,7 @@ pump make -j8 CC=distcc
 
 ## build using distcc
 
-```sh
+```bash
 vim ~/.distcc/hosts
 
 127.0.0.1,cpp,lzo 192.168.43.xxx,cpp,lzo

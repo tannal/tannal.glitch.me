@@ -5,7 +5,7 @@ git pull --rebase
 
 gclient sync
 
-```sh
+```bash
 
 autoninja -C out/Default chrome
 

@@ -2,7 +2,7 @@
 
 1. Build LLVM-17
 
-```sh
+```bash
 
 sudo apt install ninja-build
 
@@ -33,7 +33,7 @@ ninja install
 
 2. Build zig
 
-```sh
+```bash
 mkdir build
 cd build
 cmake ..
@@ -43,7 +43,7 @@ make -j8
 3. run and test
 
 
-```sh
+```bash
 
 ./build/stage3/bin/zig
 

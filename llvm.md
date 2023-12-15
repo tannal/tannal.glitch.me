@@ -1,6 +1,6 @@
 # Build LLVM from source
 
-```sh
+```bash
 
 export PATH="/usr/lib/ccache/bin/:$PATH"
 
