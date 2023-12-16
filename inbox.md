@@ -1,5 +1,11 @@
 # 2023-12-16
 
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
+
+WebAssembly
+WebGPU
+Accessible Rich Internet Applications (ARIA) provides an ontology for enabling accessibility of arbitrary content.
+WebHID
 
 # ELF PE
 
@@ -91,7 +97,7 @@ projects/wabt/include/wabt/interp/interp.h
 type sections stores function 
 
 u32
- 
+
 ```
 // magic number & version & type section 
 00000000  00 61 73 6d 01 00 00 00  01 39 09 60 03 7f 7f 7f  |.asm.....9.`....|

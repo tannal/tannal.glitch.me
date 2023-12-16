@@ -1,5 +1,49 @@
 # from 2023-12-08
 
+Adam Barth https://twitter.com/adambarth flutter founder
+
+Eric Seidel https://twitter.com/_eseidel flutter founder ex-chrome now shorebirddev
+
+Emily Fortuna https://twitter.com/bouncingsheep flutter team
+
+Filip Hráček https://twitter.com/filiphracek flutter team
+
+Chris Sells https://twitter.com/csells flutter team
+
+Leigha Reid https://twitter.com/LeighaJarett PM flutter team
+
+Ander Dobo https://twitter.com/anderdobo PM flutter team
+
+Michael Thomsen https://twitter.com/MiSvTh PM flutter team
+
+Zoey Fan https://twitter.com/ZoeyFan723 PM flutter team
+
+John Ryan https://twitter.com/jryanio Advocate flutter team
+
+Craig Labenz https://twitter.com/craiglabenz Advocate flutter team
+
+Nilay https://twitter.com/nlycskn Advocate flutter team
+
+Andrew Brogdon https://twitter.com/redbrogdon Advocate flutter team
+
+zanderso https://twitter.com/zanderso Impeller 3D graphics flutter team
+
+Chinmay Garde https://twitter.com/chinmaygarde 3D graphics flutter team
+
+kevmoo https://twitter.com/kevmoo Web team at flutter team
+
+David Iglesias https://twitter.com/ditman Web team at flutter team
+
+Yegor Jbanov https://twitter.com/yegorjbanov Web team at flutter team
+
+JaYoung Lee https://twitter.com/jayounglee_ UX Researcher at flutter team
+
+Tao Dong https://twitter.com/taodong UX Researcher at flutter team
+
+Jonah Williams https://twitter.com/TechnicalKn0ck engineer at flutter team
+
+Dan Field https://twitter.com/dnfield engineer flutter team
+
 Sven Sauleau https://sauleau.com/ Webassembly.js webpack babel
 
 xuanwo https://twitter.com/OnlyXuanwo https://xuanwo.io/ rust storage system might in pingcap
