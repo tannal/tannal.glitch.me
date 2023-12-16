@@ -1,5 +1,7 @@
 # from 2023-12-08
 
+xuanwo https://xuanwo.io/ rust storage system might in pingcap
+
 Tomas Akenine-M¨oller https://twitter.com/inversepixel Real Time Rendering
 
 Niv Dayan https://www.nivdayan.net/ University of Toronto Databases & Data Structures
