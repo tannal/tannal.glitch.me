@@ -1,10 +1,12 @@
 # from 2023-12-08
 
-xuanwo https://xuanwo.io/ rust storage system might in pingcap
+Sven Sauleau https://sauleau.com/ Webassembly.js webpack babel
+
+xuanwo https://twitter.com/OnlyXuanwo https://xuanwo.io/ rust storage system might in pingcap
 
 Tomas Akenine-M¨oller https://twitter.com/inversepixel Real Time Rendering
 
-Niv Dayan https://www.nivdayan.net/ University of Toronto Databases & Data Structures
+Niv Dayan https://www.nivdayan.net/ Key-Value Store University of Toronto Databases & Data Structures
 
 https://twitter.com/JamesMcNellis windows system programmer
 
