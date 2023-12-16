@@ -1,6 +1,5 @@
 # 2023-12-16
 
-![](image.png)
 
 # ELF PE
 
@@ -91,8 +90,9 @@ projects/wabt/include/wabt/interp/interp.h
 
 type sections stores function 
 
-u32 
-
+u32
+ 
+```
 // magic number & version & type section 
 00000000  00 61 73 6d 01 00 00 00  01 39 09 60 03 7f 7f 7f  |.asm.....9.`....|
 
