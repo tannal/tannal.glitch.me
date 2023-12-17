@@ -1,3 +1,280 @@
+# 2023-12-16
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+bash - How to git clone dotfiles into my home directory with one command? - Stack Overflow
+https://stackoverflow.com/questions/15283971/how-to-git-clone-dotfiles-into-my-home-directory-with-one-command
+
+tannal (tannal)
+https://github.com/tannal
+
+Hello World!
+https://tannal.glitch.me/all/
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+servo/docs/HACKING_QUICKSTART.md at main · servo/servo
+https://github.com/servo/servo/blob/main/docs/HACKING_QUICKSTART.md#visual-studio-code
+
+Web Graphics API Tester
+https://thorium.rocks/misc/webgpu-test/
+
+Thorium Browser
+https://thorium.rocks/
+
+Web Graphics API Tester
+https://thorium.rocks/misc/webgpu-test/
+
+Roadmap · servo/servo Wiki
+https://github.com/servo/servo/wiki/Roadmap
+
+Site not found · GitHub Pages
+https://thorium.rocks/misc/webgpu-test/
+
+Crash in WebGPU with WebGPU disabled · Issue #30843 · servo/servo
+https://github.com/servo/servo/issues/30843
+
+sagudev (sagudev) / Repositories
+https://github.com/sagudev?tab=repositories&q=test&type=&language=&sort=
+
+servo/components/constellation/constellation.rs at 589f2915237b39cdd6fd222d775737cb10f7b9b0 · servo/servo
+https://github.com/servo/servo/blob/589f2915237b39cdd6fd222d775737cb10f7b9b0/components/constellation/constellation.rs#L2064
+
+servo/components/constellation/constellation.rs at 589f2915237b39cdd6fd222d775737cb10f7b9b0 · servo/servo
+https://github.com/servo/servo/blob/589f2915237b39cdd6fd222d775737cb10f7b9b0/components/constellation/constellation.rs#L2047C27-L2047C38
+
+WebGL examples don't work in Layout 2020 · Issue #29914 · servo/servo
+https://github.com/servo/servo/issues/29914
+
+WebGLSamples/WebGLSamples.github.io: WebGL Samples and Examples
+https://github.com/WebGLSamples/WebGLSamples.github.io
+
+servo/components/script/dom/htmlcanvaselement.rs at ccf0b739dfca312a65002c443fb09537aa27225b · servo/servo
+https://github.com/servo/servo/blob/ccf0b739dfca312a65002c443fb09537aa27225b/components/script/dom/htmlcanvaselement.rs#L260
+
+Javascript into exe · Issue #21600 · denoland/deno
+https://github.com/denoland/deno/issues/21600
+
+Compiling Executables | Deno Docs
+https://docs.deno.com/runtime/manual/tools/compiler
+
+use lld to build Node.js sources · Issue #37511 · nodejs/node
+https://github.com/nodejs/node/issues/37511
+
+The Little Things: Speeding up C++ compilation — The Coding Nest
+https://codingnest.com/the-little-things-speeding-up-c-compilation/
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+Changing the default branch - GitHub Docs
+https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch
+
+Wasm Introduction (Part 1): Binary Format | by CoinEx Smart Chain | Medium
+https://coinexsmartchain.medium.com/wasm-introduction-part-1-binary-format-57895d851580
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime+magic&type=code&p=2
+
+WebAssembly/wabt: The WebAssembly Binary Toolkit
+https://github.com/WebAssembly/wabt
+
+X 上的 Xuanwo：“开源躺平学：先糊一个能用的实现，然后等社区提改进。没有改进，说明没人用/没需求，躺；有改进，review 之后合并，躺。” / X
+https://twitter.com/OnlyXuanwo/status/1578198789931687937
+
+hexdump output order - Stack Overflow
+https://stackoverflow.com/questions/2847360/hexdump-output-order
+
+LEB128 - Wikipedia
+https://en.wikipedia.org/wiki/LEB128#Unsigned_LEB128
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=preamble&op=translate
+
+Hello World!
+https://tannal.glitch.me/all/
+
+WebAssembly Specification
+https://webassembly.github.io/spec/core/_download/WebAssembly.pdf
+
+LEB128 - Wikipedia
+https://en.wikipedia.org/wiki/LEB128
+
+numbers - How do I convert an integer to binary in JavaScript? - Stack Overflow
+https://stackoverflow.com/questions/9939760/how-do-i-convert-an-integer-to-binary-in-javascript
+
+@webassemblyjs/leb128 - npm
+https://www.npmjs.com/package/@webassemblyjs/leb128
+
+xtuc (Sven Sauleau)
+https://github.com/xtuc
+
+xtuc (Sven Sauleau)
+https://github.com/xtuc
+
+Sven Sauleau: Software Engineer - Lambda Calculus - Functional condition
+https://sauleau.com/notes/lambda-calculus.html
+
+About Me
+https://thorium.rocks/about
+
+Astro
+https://astro.build/
+
+Write your first Markdown blog post | Docs
+https://docs.astro.build/en/tutorial/2-pages/2/
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fmozjs+%22extern+%5C%22c%5C%22%22&type=code
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+Markdown & MDX | Docs
+https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown
+
+dlang/dmd: dmd D Programming Language compiler
+https://github.com/dlang/dmd
+
+Hello World!
+https://tannal.glitch.me/all/
+
+Web Components Will Outlive Your JavaScript Framework | jakelazaroff.com
+https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/
+
+Components | Docs
+https://docs.astro.build/en/core-concepts/astro-components/
+
+zerodevx/zero-md: Ridiculously simple zero-config markdown displayer
+https://github.com/zerodevx/zero-md/issues?q=base
+
+Resources
+https://tutflix.org/resources/
+
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+objects-printer.cc - v8 [GitHub] - Visual Studio Code - GitHub
+https://github.dev/v8/v8
+
+visual studio code - How can I export settings? - Stack Overflow
+https://stackoverflow.com/questions/35368889/how-can-i-export-settings
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Getting started with dotfiles
+https://www.webpro.nl/articles/getting-started-with-dotfiles
+
+webpro (Lars Kappert)
+https://github.com/webpro
+
+Lars Kappert
+https://www.webpro.nl/
+
+setup/.bashrc at master · MarybethGasman/setup
+https://github.com/MarybethGasman/setup/blob/master/.bashrc
+
+Resources
+https://tutflix.org/resources/
+
+(1) Xuanwo (@OnlyXuanwo) / X
+https://twitter.com/OnlyXuanwo
+
+Web Graphics API Tester
+https://thorium.rocks/misc/webgpu-test/
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+(1) Adam Barth (@adambarth) / X
+https://twitter.com/adambarth
+
+(1) Ian Hickson on X: "The thing this proposal is missing, though, is a catchy name. "Wasm ABIs for WebGPU, WebHID, and ARIA" doesn't really roll off the tongue. Anyone got any suggestions for a name and fancy logo for people to rally around? :-)" / X
+https://twitter.com/Hixie/status/1620704532748701697
+
+(1) Fujii Hironori (藤井宏憲) (@fujii0) / X
+https://twitter.com/fujii0
+
+变更集 270103 – WebKit
+https://trac.webkit.org/changeset/270103/webkit
+
+fujii.github.io | Fujii Hironori’s Random Notes
+https://fujii.github.io/
+
+Fuchsia 基础知识
+https://fuchsia.dev/fuchsia-src/get-started/learn?hl=zh-cn
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
+
+I think my attitude to this stuff evolved after seeing that even with all the wo... | Hacker News
+https://news.ycombinator.com/item?id=34622514
+
+Towards a Modern Web Stack (Ian 'Hixie' Hickson) | Hacker News
+https://news.ycombinator.com/item?id=34612696
+
+Combobox (Explainer) | Open UI
+https://open-ui.org/components/combobox.explainer/
+
+Flutter WasmGC Preview - Material demo
+https://flutterweb-wasm.web.app/
+
+Google 翻译
+https://translate.google.com/details?hl=zh-CN&sl=auto&tl=zh-CN&text=anathema&op=translate
+
+Tannal
+https://tannal.deno.dev/posts/people
+
+Rustup on Windows will soon give the option to auto install Visual Studio prerequisites : rust
+https://www.reddit.com/r/rust/comments/v9uciv/rustup_on_windows_will_soon_give_the_option_to/
+
+Help verify rustup 1.25.0 release - tools and infrastructure - Rust Internals
+https://internals.rust-lang.org/t/help-verify-rustup-1-25-0-release/16783
+
+new1 — Postimages
+https://postimg.cc/rKmJC7nd
+
+Tracking issue for RFC 2627: #[link(kind="raw-dylib")] · Issue #58713 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/58713
+
+Issues · rust-lang/rust
+https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor
+
+Ownership guided C to Rust translation : rust
+https://www.reddit.com/r/rust/comments/1204kjj/ownership_guided_c_to_rust_translation/
+
+[2303.10515] Ownership guided C to Rust translation
+https://arxiv.org/abs/2303.10515
+
+Getting started - Rust Programming Language
+https://www.rust-lang.org/learn/get-started
+
+How to uninstall Rust that was installed via rustup? - Stack Overflow
+https://stackoverflow.com/questions/52045966/how-to-uninstall-rust-that-was-installed-via-rustup
+
+Towards a modern Web stack by Hixie | Blog: timdream
+https://blog.timdream.org/posts/towards-a-modern-web-stack-by-hixie/
+
+(1) Anna Indiana (@AnnaIndianaAI) / X
+https://twitter.com/AnnaIndianaAI
+
+What's the best practice for caching compilation of Rust dependencies? : rust
+https://www.reddit.com/r/rust/comments/sunme5/whats_the_best_practice_for_caching_compilation/
+
+
+
 # 2023-12-15
 
 Resources
