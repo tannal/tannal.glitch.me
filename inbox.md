@@ -1,5 +1,7 @@
 # 2023-12-17
 
+Human are not good at linear data, like lists or table.
+People are good at graph data, like a network.
 
 
 # 2023-12-16
@@ -101,6 +103,54 @@ projects/wabt/include/wabt/interp/interp.h
 type sections stores function 
 
 u32
+
+# Section Type (id is 0x01)
+
+overall number (vector length)
+
+function type 0x60 , parameter length 0x03, parameters, result length 0x01, results
+
+In this example. we only have function type in our type section.
+
+# Section Import (id is 0x02)
+
+length of section
+
+length of module name, module name
+
+length of import name, import name
+
+importdesc 0x00 is typeidx followed by a typeidx
+
+
+# Section Function (id is 0x03)
+
+length of section
+
+function indices point to type section
+
+# Section Table (id is 4)
+
+length of section
+
+reftype (function ref 0x70)
+
+limits (0x01 0x05 0x05 {min: 0x05, max: 0x05})
+
+# Section Memory (id is 5)
+
+
+limits of the number of pages
+
+> page size in wasm is 64kb
+
+# Section Global (id is 6)
+
+type
+
+0x00 const 0x01 var
+
+initilize expr
 
 ```
 
