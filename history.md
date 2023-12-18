@@ -1,3 +1,288 @@
+
+# 2023-12-17
+
+Resources
+https://tutflix.org/resources/
+
+Firebase & Astro | Docs
+https://docs.astro.build/en/guides/backend/google-firebase/
+
+Resources
+https://tutflix.org/resources/
+
+ts no check - Google 搜索
+https://www.google.com/search?q=ts+no+check&oq=ts+no+check&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyCAgDEAAYChgeMgYIBBAAGB4yBggFEAAYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQgxODg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Site Not Found
+https://tannal.web.app/
+
+bitcask paper - Google 搜索
+https://www.google.com/search?q=bitcask+paper&oq=bitcask+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyODkwajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Wasm Research Day 2023 – Mats Brorsson and Sangeeta Kakati - YouTube
+https://www.youtube.com/watch?v=RUAvxmamFGw&list=PLTxJmWeyp02CbDpQ4aLPVNBSfyoB_uYtC
+
+github.com
+https://github.com/ggerganov/llama.cpp
+
+Zachary Yedidia
+https://zyedidia.github.io/
+
+yedidia_cv.pdf
+https://zyedidia.github.io/about/yedidia_cv.pdf
+
+zyedidia/micro: A modern and intuitive terminal-based text editor
+https://github.com/zyedidia/micro
+
+CS240: Advanced Topics in Operating Systems (Spring 2023) | Stanford CS240
+https://www.scs.stanford.edu/23sp-cs240/
+
+Rise of Worse Is Better
+https://www.dreamsongs.com/RiseOfWorseIsBetter.html
+
+Dawson Engler
+https://web.stanford.edu/~engler/
+
+Call for papers – ITiCSE 2024
+https://iticse.acm.org/2024/call-for-papers/
+
+Resources
+https://tutflix.org/resources/
+
+Udemy - Redis: The Complete Developer's Guide - TutFlix - Free Education Community
+https://tutflix.org/resources/redis-the-complete-developers-guide.7745/
+
+Redis: The Complete Developer's Guide Updated 12-2023.part3.rar - Google 云端硬盘
+https://drive.google.com/file/d/1teNcvTE0XquzeLzVn4JJAETI1CieaKkO/view
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.google.com/u/0/uc?id=1teNcvTE0XquzeLzVn4JJAETI1CieaKkO&export=download
+
+Error 404 (未找到)!!1
+https://drive.google.com/u/0/uc?id=1yHit5k0vE0EGODRsk7MjgmHe5UwZwEZ_&export=download
+
+Error 404 (未找到)!!1
+https://drive.google.com/u/0/uc?id=1M4NU0hQDJEX5idq4rUO_19oZXk_31rzX&export=download
+
+computational complexity - Confused with the definition of NP - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/836837/confused-with-the-definition-of-np
+
+肖邦夜曲精选集 (The Best of Chopin Nocturnes) - YouTube
+https://www.youtube.com/watch?v=7bw22wYLtwI
+
+Thomas Garrity – Mathematics & Statistics
+https://math.williams.edu/thomas-garrity/
+
+berkeley-problems-in-mathematics.pdf
+https://ravuthleang12.files.wordpress.com/2013/08/berkeley-problems-in-mathematics.pdf
+
+Richard P. Gabriel
+https://dreamsongs.com/RPG.html
+
+Richard P. Gabriel - Google 搜索
+https://www.google.com/search?q=Richard+P.+Gabriel&oq=Richard+P.+Gabriel&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD3SAQcxNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/d/93-wei-sha-wo-jin-bu-qu-xin-wikiya
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+en.wikipedia.org
+https://en.wikipedia.org/wiki/NewLISP
+
+en.wikipedia.org
+https://en.wikipedia.org/wiki/Linguistics
+
+Jan Bielak | About
+https://janbielak.com/
+
+github.com
+https://github.com/janekb04?tab=repositories
+
+Jan Bielak | About
+https://janbielak.com/
+
+The C++ Build Pipeline
+https://slides.com/janekb04/01-the-cpp-build-pipeline#/49
+
+lock free - What's the difference between lockless and lockfree? - Stack Overflow
+https://stackoverflow.com/questions/20467247/whats-the-difference-between-lockless-and-lockfree
+
+CppCon/CppCon2022: Slides and other materials from CppCon 2022
+https://github.com/CppCon/CppCon2022
+
+The HTML presentation framework | reveal.js
+https://revealjs.com/
+
+Pricing and Plans | Slides
+https://slides.com/pricing
+
+#Stylo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/417109-Stylo
+
+skia-sys - crates.io: Rust Package Registry
+https://crates.io/crates/skia-sys
+
+linux - Why does gcc generate verbose assembly code? - Stack Overflow
+https://stackoverflow.com/questions/12329626/why-does-gcc-generate-verbose-assembly-code
+
+pash:osdi:2022.pdf
+https://nikos.vasilak.is/p/pash:osdi:2022.pdf
+
+Konstantinos Kallas
+https://angelhof.github.io/#mentoring
+
+/bin/pash
+https://github.com/binpash
+
+Mayank Keoliya
+https://mkeoliya.github.io/
+
+resume.pdf
+https://mkeoliya.github.io/assets/pdf/resume.pdf
+
+Tianyu (Eric) Zhu
+https://ericz.me/
+
+tannal (tannal)
+https://github.com/tannal
+
+March 2023 - Jan Bielak
+https://janbielak.com/index.php/2023/03/
+
+Code search results
+https://github.com/search?q=repo%3Alove2d%2Flove%20debian&type=code
+
+David Churchill, Memorial University
+http://www.cs.mun.ca/~dchurchill/publications.shtml
+
+魔力红 - Google 搜索
+https://www.google.com/search?q=%E9%AD%94%E5%8A%9B%E7%BA%A2&oq=%E9%AD%94%E5%8A%9B%E7%BA%A2&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEC4YgAQyBwgJEC4YgATSAQg0MTcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+WebAssembly Specification
+https://webassembly.github.io/spec/core/_download/WebAssembly.pdf
+
+coinexsmartchain.medium.com
+https://coinexsmartchain.medium.com/wasm-introduction-part-1-binary-format-57895d851580
+
+linear data or net data - Google 搜索
+https://www.google.com/search?q=linear+data+or+net+data&oq=linear+data+or+net+data&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCDYxMTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+webassembly.github.io
+https://webassembly.github.io/spec/core/exec/instructions.html#exec-call-indirect
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+nicolo-ribaudo (Nicolò Ribaudo)
+https://github.com/nicolo-ribaudo
+
+nicolo-ribaudo/deno-docs: Docusaurus site for a unified Deno docs experience
+https://github.com/nicolo-ribaudo/deno-docs
+
+JavaScript ShadowRealm proposal integration by Ms2ger · Pull Request #9893 · whatwg/html
+https://github.com/whatwg/html/pull/9893
+
+tannal (tannal)
+https://github.com/tannal
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+Servo crash when loading servo.org · Issue #30878 · servo/servo
+https://github.com/servo/servo/issues/30878
+
+CSS Text Module Level 3
+https://www.w3.org/TR/css-text-3/#text-align-property
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+tannal - 添加应用 - Firebase 控制台
+https://console.firebase.google.com/project/tannal/overview?hl=zh-cn
+
+Google - Wikipedia
+https://en.wikipedia.org/wiki/Google
+
+console.firebase.google.com
+https://console.firebase.google.com/project/tannal/settings/general/web:YzU4MmU4MWEtNjIwNS00OTcxLTg2NDEtYjkwNzFkMjc3YTBi
+
+tannal/tannal.web.app: astro
+https://github.com/tannal/tannal.web.app
+
+tannal - 使用量和结算 - 详细信息和设置 - Firebase 控制台
+https://console.firebase.google.com/project/tannal/usage/details
+
+Firebase Pricing
+https://firebase.google.com/pricing?hl=zh&authuser=0&_gl=1*2ox5sh*_ga*MjAzNjgyMzY1LjE3MDI3Nzg4NTY.*_ga_CW55HF8NVT*MTcwMjc3ODg1NS4xLjEuMTcwMjc4MTc1NC40Ny4wLjA.
+
+functions: missing required API cloudbuild.googleapis.com. Enabling now... · Issue #764 · firebase/functions-samples
+https://github.com/firebase/functions-samples/issues/764
+
+tannal - Storage - Firebase 控制台
+https://console.firebase.google.com/project/tannal/storage/tannal.appspot.com/files
+
+Page Not Found
+https://tannal.web.app/posts/papers
+
+tannal - 使用量和结算 - 详细信息和设置 - Firebase 控制台
+https://console.firebase.google.com/project/tannal/usage/details
+
+correlation中文 - Google 搜索
+https://www.google.com/search?sca_esv=591586530&sxsrf=AM9HkKmupcPhYJdUXNGrkU8ZTL4Ut8rqPA:1702784186471&q=correlation%E4%B8%AD%E6%96%87&sa=X&ved=2ahUKEwjO-cC0xZWDAxW-hGMGHTh6C2oQ1QJ6BAg-EAE&biw=1280&bih=632&dpr=1.5
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+programming languages logo high quality - Google 搜索
+https://www.google.com/search?q=programming+languages+logo+high+quality&tbm=isch&ved=2ahUKEwii3IyOj5aDAxWVwKACHTnYAzcQ2-cCegQIABAA&oq=programming+languages+logo+high+quality&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQEzoICAAQBxAeEBM6BggAEB4QEzoICAAQBRAeEBM6BggAEAgQHlCkA1jkK2DlLWgBcAB4AIABiwGIAagPkgEEMC4xNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=Arp-ZaLTCJWBg8UPubCPuAM&bih=632&biw=1280
+
+Introduction to Immer | Immer
+https://immerjs.github.io/immer/
+
+webassembly logo - Google 搜索
+https://www.google.com/search?q=webassembly+logo&oq=webassembly+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgFGB7SAQgzNTgxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+windows logo - Google 搜索
+https://www.google.com/search?q=windows+logo&oq=windows+logo&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgkICRAAGAoYgATSAQgzMzM3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+x86_64 logo - Google 搜索
+https://www.google.com/search?q=x86_64+logo&oq=x86_64+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIICAgQABgFGB4yCAgJEAAYBRge0gEJMTE3NjdqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+os revolution - Google 搜索
+https://www.google.com/search?q=os+revolution&oq=os+revolu&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAoYHjIICAcQABgKGB4yCAgIEAAYChgeMgoICRAAGAUYChge0gEIMjgyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Mentorship Session: Debugging Linux Memory Management Subsystem - YouTube
+https://www.youtube.com/watch?v=fwLoPtTCmnw&list=PLbzoR-pLrL6o8cdq_JLTwsLfe2_DhNsDf&index=8
+
+Khalid Aziz - Google 搜索
+https://www.google.com/search?q=Khalid+Aziz&oq=Khalid+Aziz&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+love2d/love: LÖVE is an awesome 2D game framework for Lua.
+https://github.com/love2d/love
+
+Thank you for downloading Ubuntu MATE 22.04.3 LTS (arm64)
+https://ubuntu-mate.org/download/arm64/jammy/thanks/?method=direct
+
+windows 烧录 img.xz - Google 搜索
+https://www.google.com/search?q=windows+%E7%83%A7%E5%BD%95+img.xz&oq=windows+%E7%83%A7%E5%BD%95+img.xz&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDc0OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+
+
+
 # 2023-12-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

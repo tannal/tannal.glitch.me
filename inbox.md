@@ -1,5 +1,63 @@
 # 2023-12-17
 
+micro is a modern and intuitive terminal-based text editor based on golang.
+
+
+
+love2d is a 2d game engine
+
+on my debian12, I stuck on build
+
+```bash
+run ./platform/unix/automagic
+
+[automagic]  Copying files...
+[automagic]  Running genmodules...
+[automagic]  Running autoheader...
+[automagic]  Running libtoolize...
+[automagic]  Running aclocal...
+[automagic]  Running autoconf...
+configure.ac:38: warning: The macro `AC_HELP_STRING' is obsolete.
+configure.ac:38: You should run autoupdate.
+./lib/autoconf/general.m4:204: AC_HELP_STRING is expanded from...
+configure.ac:38: the top level
+configure.ac:46: warning: The macro `AC_HELP_STRING' is obsolete.
+configure.ac:46: You should run autoupdate.
+./lib/autoconf/general.m4:204: AC_HELP_STRING is expanded from...
+configure.ac:46: the top level
+configure.ac:62: warning: The macro `AC_HELP_STRING' is obsolete.
+configure.ac:62: You should run autoupdate.
+./lib/autoconf/general.m4:204: AC_HELP_STRING is expanded from...
+configure.ac:62: the top level
+configure.ac:63: warning: The macro `AC_HELP_STRING' is obsolete.
+configure.ac:63: You should run autoupdate.
+./lib/autoconf/general.m4:204: AC_HELP_STRING is expanded from...
+configure.ac:63: the top level
+configure.ac:118: warning: The macro `AC_HELP_STRING' is obsolete.
+configure.ac:118: You should run autoupdate.
+./lib/autoconf/general.m4:204: AC_HELP_STRING is expanded from...
+configure.ac:118: the top level
+configure:20637: error: possibly undefined macro: AM_PATH_SDL2
+      If this token and others are legitimate, please use m4_pattern_allow.
+      See the Autoconf documentation.
+[automagic]  Failed, sadface.
+[automagic]  This is generally a configuration error (I'm looking at you aclocal)
+
+```
+
+
+Android
+
+Google Cloud
+
+Google Search
+
+Google AI
+
+Google Chrome
+
+Flutter Dart firebase Go Chromium LevelDB 
+
 Human are not good at linear data, like lists or table.
 People are good at graph data, like a network.
 
@@ -2496,6 +2554,11 @@ npx wrangler pages deploy <directory>
 # powershell http proxy
 $env:HTTP_PROXY = "http://localhost:7890"
 $env:HTTPS_PROXY = "http://localhost:7890"
+
+# windows cmd proxy
+
+set http_proxy=http://127.0.0.1:7890
+set https_proxy=http://127.0.0.1:7890
 
 ```
 
