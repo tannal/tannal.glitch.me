@@ -1,4 +1,245 @@
 
+# 2023-12-18
+
+tannal (tannal)
+https://github.com/tannal/
+
+Bryant's home
+https://www.cs.cmu.edu/~bryant/
+
+Don Knuth's Home Page
+https://www-cs-faculty.stanford.edu/~knuth/
+
+cs.cmu.edu/~bryant/pubs.html
+https://www.cs.cmu.edu/~bryant/pubs.html
+
+Bryant's Teaching
+https://www.cs.cmu.edu/~bryant/teaching.html
+
+15-418/15-618: Parallel Computer Architecture and Programming, Fall 2023
+https://www.cs.cmu.edu/~418/
+
+Zhihao Jia
+https://www.cs.cmu.edu/~zhihaoj2/
+
+Dimitrios Skarlatos
+https://www.cs.cmu.edu/~dskarlat/
+
+CyLab Security & Privacy Institute
+https://www.cylab.cmu.edu/
+
+15-213/15-513/14-513 Introduction to Computer Systems
+https://www.cs.cmu.edu/~213/
+
+Brian Railing - Carnegie Mellon University
+https://www.cs.cmu.edu/~bpr/
+
+Elegant C
+https://elegantc.blogspot.com/
+
+Phillip B. Gibbons
+https://www.cs.cmu.edu/~gibbons/
+
+15-213 (18-213/15-513/15-513/18-613): Introduction to Computer Systems
+https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/
+
+(1) Excalidraw on X: "Create arbitrary shapes with background now on https://t.co/7GkYz8eEMs! https://t.co/FSIGC8uZpE" / X
+https://twitter.com/excalidraw/status/1248171184979685376
+
+(1) 尤雨溪 on X: "今天在看一个用户用 vue sfc playground 提供的重现的时候心想，我该给自己做个隐藏功能，快速把用户的重现复制到本地起的 playground 里。然后晚上想起来去实现的时候，发现我已经做过这个功能了，藏得太好自己都忘了... 😂" / X
+https://twitter.com/yuxiyou/status/1733123102056542418
+
+servo/python/servo/command_base.py at 5c8fc7309d54ae2ffb4fd1eed122d411d454b13c · servo/servo
+https://github.com/servo/servo/blob/5c8fc7309d54ae2ffb4fd1eed122d411d454b13c/python/servo/command_base.py#L1084
+
+program files x86 vs program files - Google 搜索
+https://www.google.com/search?q=program+files+x86+vs+program+files&oq=program+files+x86&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABNIBCDQxMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+poe.com/chat/el9zj0stabkc73t57
+https://poe.com/chat/el9zj0stabkc73t57
+
+gterzian (Gregory Terzian)
+https://github.com/gterzian
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(2) Facebook
+https://www.facebook.com/shiwulo
+
+A Commentary on the UNIX Operating System - Wikipedia
+https://en.wikipedia.org/wiki/A_Commentary_on_the_UNIX_Operating_System?fbclid=IwAR060sCJH_LIhOokvj0vBC2RyJbiwT6yYaltEWM3W3nd_j4l8vK5b7Cx0zE#%22You_are_not_expected_to_understand_this%22
+
+francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf
+https://github.com/francoismichel/ssh3?fbclid=IwAR0G5dnsQCR5y8ed4HQ6UkpObKk5_PmhJwx2RRIg5u6jIaGzO4hoL0mp4q0
+
+Towards SSH3: how HTTP/3 improves secure shells
+https://arxiv.org/pdf/2312.08396.pdf
+
+Line 2238 Unix V6 Comment: You are not expected to understand this.
+https://gist.github.com/FedericoPonzi/f026ff5c210e738ee03d271c8fc0f29b
+
+File: hash.h | Debian Sources
+https://sources.debian.org/src/linux/6.5.13-1/arch/parisc/include/asm/hash.h/?hl=115#L115
+
+Buildroot - Making Embedded Linux Easy
+https://buildroot.org/
+
+buildroot/buildroot: Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.
+https://github.com/buildroot/buildroot
+
+build root qemu - Google 搜索
+https://www.google.com/search?q=build+root+qemu&oq=build+root+qemu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgKGB4yDAgCEAAYBRgKGA8YHtIBCDM3NTlqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+QEMU + Buildroot - Peter Malmgren
+https://petermalmgren.com/qemu-buildroot/
+
+Buildroot, QEMU and Linux kernel for x86_64 - Qiang Liu's Homepage
+https://cyruscyliu.github.io/posts/2020-11-18-buildroot-qemu-x86_64/
+
+buildroot-qemu.md
+https://gist.github.com/sjaeckel/94120aeb2dacfa693b1dd360de451b89
+
+Arm System emulator — QEMU documentation
+https://www.qemu.org/docs/master/system/target-arm.html
+
+linux - QEMU Hangs At Boot Time - Stack Overflow
+https://stackoverflow.com/questions/60136854/qemu-hangs-at-boot-time
+
+embedded linux - Problem with running buildroot generated raspberry image on Qemu - Stack Overflow
+https://stackoverflow.com/questions/66968592/problem-with-running-buildroot-generated-raspberry-image-on-qemu
+
+.img is kernel or rootfs - Google 搜索
+https://www.google.com/search?q=.img+is+kernel+or+rootfs&oq=.img+is+kernel+or+rootfs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDQzNzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+romainreignier/minimal_raspberrypi_buildroot: Minimal Linux and Buildroot configurations for the Raspberry Pi 3
+https://github.com/romainreignier/minimal_raspberrypi_buildroot
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+raspi3b qemu - Google 搜索
+https://www.google.com/search?q=raspi3b+qemu&oq=rapi3b+q&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDRgeMgYIABBFGDkyCAgBEAAYDRgeMgoIAhAAGAgYDRge0gEINDYyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Emulate Raspberry Pi 3 using QEMU in 64 bit | emulate-raspberry-pi3-in-qemu
+https://farabimahmud.github.io/emulate-raspberry-pi3-in-qemu/
+
+About the disk space of QEMU image - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=13761
+
+QEmu and raspbian, how to increase image size. - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=42279
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+The HTML presentation framework | reveal.js
+https://revealjs.com/#/18
+
+Excalidraw
+https://excalidraw.com/
+
+Code search results
+https://github.com/search?q=repo%3Abminor%2Fglibc%20stdio.c&type=code
+
+gcc - libc or glibc in ubuntu? - Stack Overflow
+https://stackoverflow.com/questions/54053087/libc-or-glibc-in-ubuntu
+
+CSAPP_2016.pdf
+https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf
+
+Assembly Language
+https://pages.cs.wisc.edu/~rrahulnayar/cs252/Spring2017/lectures/Lecture8.pdf
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E9%87%91%E5%AD%97%E5%A1%94&op=translate
+
+Create the excalidraw logo with excalidraw · Issue #244 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues/244
+
+M. Douglas McIlroy
+https://www.cs.dartmouth.edu/~doug/
+
+External Data Representation - Wikipedia
+https://en.wikipedia.org/wiki/External_Data_Representation
+
+Prof. W. Kahan's Notes for Math. H110
+https://people.eecs.berkeley.edu/~wkahan/MathH110/index.html
+
+Hello World!
+http://tannal.glitch.me/all/
+
+CS240: Advanced Topics in Operating Systems (Spring 2023) | Stanford CS240
+https://www.scs.stanford.edu/23sp-cs240/
+
+eraser.pdf
+https://www.scs.stanford.edu/23sp-cs240/sched/readings/eraser.pdf
+
+Stefan Savage
+https://cseweb.ucsd.edu/~savage/
+
+Stefan Savage
+https://cseweb.ucsd.edu/~savage/
+
+Gautam Akiwate
+https://cs.stanford.edu/~gakiwate/
+
+CS249i: The Modern Internet
+https://cs249i.stanford.edu/
+
+lecture1
+https://cs249i.stanford.edu/lectures/lecture1.pdf
+
+Zakir Durumeric
+https://zakird.com/
+
+Index of /classes/fa23
+https://cseweb.ucsd.edu/classes/fa23/
+
+Michael Coblenz
+https://cseweb.ucsd.edu/~mcoblenz/
+
+Garbage Collection Makes Rust Easier to Use: A Randomized Controlled Trial of the Bronze Garbage Collector
+https://arxiv.org/pdf/2110.01098.pdf
+
+icse - Google 搜索
+https://www.google.com/search?q=icse&oq=icse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tracking Issue for garbage collection · Issue #12633 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/12633
+
+Cargo Garbage Collection - HackMD
+https://hackmd.io/@rust-cargo-team/SJT-p_rL2
+
+#general > Servo on stable Rust - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20on.20stable.20Rust
+
+Servo Experiments
+https://demo.servo.org/
+
+servo/python/servo/command_base.py at 5c8fc7309d54ae2ffb4fd1eed122d411d454b13c · servo/servo
+https://github.com/servo/servo/blob/5c8fc7309d54ae2ffb4fd1eed122d411d454b13c/python/servo/command_base.py#L1081
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+This year in Servo: over 1000 pull requests and beyond - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2023/12/18/this-year-in-servo/
+
+servo/python/servo/command_base.py at 5c8fc7309d54ae2ffb4fd1eed122d411d454b13c · servo/servo
+https://github.com/servo/servo/blob/5c8fc7309d54ae2ffb4fd1eed122d411d454b13c/python/servo/command_base.py#L1084
+
+servo/python/servo/command_base.py at 5c8fc7309d54ae2ffb4fd1eed122d411d454b13c · servo/servo
+https://github.com/servo/servo/blob/5c8fc7309d54ae2ffb4fd1eed122d411d454b13c/python/servo/command_base.py#L1084
+
+raspi3 disk size low - Google 搜索
+https://www.google.com/search?q=raspi3+disk+size+low&sca_esv=591861726&sxsrf=AM9HkKmmj1mNS6IWRDAkXqt6ir1_o8DMLA%3A1702909049377&ei=eVSAZfbHFp_04-EP9auGyAQ&ved=0ahUKEwi26OPHlpmDAxUf-jgGHfWVAUkQ4dUDCBA&uact=5&oq=raspi3+disk+size+low&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHJhc3BpMyBkaXNrIHNpemUgbG93MgoQABhHGNYEGLADSI8GUERYsQVwAXgBkAEAmAHhAaABxgaqAQUwLjEuM7gBA8gBAPgBAeIDBBgAIEGIBgGQBgE&sclient=gws-wiz-serp
+
+
+
 # 2023-12-17
 
 Resources

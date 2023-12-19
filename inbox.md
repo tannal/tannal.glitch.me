@@ -1,3 +1,56 @@
+
+# 2023-12-18
+
+Username: pi
+Password: raspberry
+
+tar xvJf disk.xz
+qemu raspi3b
+
+https://farabimahmud.github.io/emulate-raspberry-pi3-in-qemu/
+
+```bash
+sudo apt install snapd
+sudo snap install rpi-imager
+sudo apt install rpi-imager
+
+```
+
+modern processor (many cores)
+
+pipeline
+TLB cache
+branch prediction
+
+storage systems (register L1 L2 L3 memory disk)
+
+concurrency & paralleism (pros & cons)
+
+function call?
+
+calling convention
+
+may push stack
+
+jump 
+
+switch vs if-else ?
+
+bus transport blocks of words (32bit or 64bit)
+cpu register size is a word
+
+ISA vs Micro Architecture
+
+OS/360 Multics Honeywell
+
+An example of getpeername security problem in Freebsd
+
+copy_from_kernel 
+
+If a user space program see something it shouldn't see, then it is a security problem.
+
+not matter if it's been used to "attack"
+
 # 2023-12-17
 
 micro is a modern and intuitive terminal-based text editor based on golang.
