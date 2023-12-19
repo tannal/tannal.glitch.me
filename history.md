@@ -1,3 +1,216 @@
+# 2023-12-19
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux+stack_canary&type=code&p=2
+
+Bryant's home
+https://www.cs.cmu.edu/~bryant/
+
+David O'Hallaron (Dave O'Hallaron) (David OHallaron) (Dave OHallaron) Home Page
+https://www.cs.cmu.edu/~droh/
+
+15-410, Operating System Design and Implementation
+http://www.cs.cmu.edu/~410/
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+Randal Bryant - Wikipedia
+https://en.wikipedia.org/wiki/Randal_Bryant
+
+David R. O'Hallaron wikipedia - Google 搜索
+https://www.google.com/search?q=David+R.+O%27Hallaron+wikipedia&sca_esv=592044316&sxsrf=AM9HkKlmsaVUIluIexcwEPLjTvwivDYaWA%3A1702949965151&ei=TfSAZbXtCL2E4-EPuOqDqA0&ved=0ahUKEwj1x_j9rpqDAxU9wjgGHTj1ANUQ4dUDCBA&uact=5&oq=David+R.+O%27Hallaron+wikipedia&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIh1EYXZpZCBSLiBPJ0hhbGxhcm9uIHdpa2lwZWRpYTIHECEYoAEYCkikEVAAWNQQcAB4AZABAJgB8QGgAfkMqgEFMC44LjK4AQPIAQD4AQHCAgkQABgeGA0YiwPiAwQYACBBiAYB&sclient=gws-wiz-serp
+
+the map of computer science - Google 搜索
+https://www.google.com/search?q=the+map+of+computer+science&sca_esv=592044316&tbm=isch&sxsrf=AM9HkKn4IbnkHyEI5GLLkE7QT74_D68cnA:1702950054004&source=lnms&sa=X&ved=2ahUKEwi73Keor5qDAxUH-jgGHcc-D4EQ_AUoAXoECAMQAw&biw=1280&bih=632&dpr=1.5
+
+the map of computer science - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fiibawards-prod.s3.amazonaws.com%2Fprojects%2Fimages%2F000%2F002%2F333%2Flarge.png%3F1505504208&tbnid=3OXfFea2AVjlHM&vet=12ahUKEwiE5Z-pr5qDAxWQwKACHRzIB24QMygAegQIARBR..i&imgrefurl=https%3A%2F%2Fwww.informationisbeautifulawards.com%2Fshowcase%2F2333-map-of-computer-science&docid=e3lEUd_LYmSDhM&w=3840&h=2704&q=the%20map%20of%20computer%20science&ved=2ahUKEwiE5Z-pr5qDAxWQwKACHRzIB24QMygAegQIARBR
+
+Map of Computer Science — Information is Beautiful Awards
+https://www.informationisbeautifulawards.com/showcase/2333-map-of-computer-science
+
+arm desktop - Google 搜索
+https://www.google.com/search?q=arm+desktop&sca_esv=592113278&bih=632&biw=1280&hl=zh-CN&sxsrf=AM9HkKnv4uMKpPVegqqtUv69fTpaW3ed6A%3A1702970669960&ei=LUWBZcOaOvHv4-EPxpGO0Ag&oq=arm+desk&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGFybSBkZXNrKgIIAjIMECMYgAQYigUYExgnMgQQIxgnMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI55UBUKgEWKWLAXAIeAKQAQKYAe4BoAHUEKoBBjAuMTEuMrgBA8gBAPgBAagCE8ICBBAAGEfCAgcQIxjqAhgnwgIUEAAYgAQY4wQY6QQY6gIYtALYAQHCAgoQIxiABBiKBRgnwgIOEC4YgAQYsQMYxwEY0QPCAgUQABiABMICDhAuGIAEGMcBGNEDGNQCwgIREC4YgAQYigUYsQMYxwEY0QPCAgoQABiABBiKBRhDwgIOEAAYgAQYigUYsQMYgwHCAgsQLhiABBjHARjRA8ICBxAAGIAEGAzCAg4QLhiABBjLARjHARjRA8ICHRAuGIAEGMsBGMcBGNEDGJcFGNwEGN4EGOAE2AEC4gMEGAAgQYgGAZAGCroGBggBEAEYAboGBggCEAEYFA&sclient=gws-wiz-serp#ip=1
+
+map of math - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fletsplaymath.files.wordpress.com%2F2017%2F02%2Fmap-of-mathematics.jpg%3Fw%3D1200&tbnid=Pp5L35tUUTG-JM&vet=12ahUKEwij55HMr5qDAxWhbGwGHd1YC8UQMygAegQIARBP..i&imgrefurl=https%3A%2F%2Fdenisegaskins.com%2F2017%2F02%2F06%2Fa-map-of-mathematics%2F&docid=vh0Io4bpEZIgxM&w=1200&h=845&q=map%20of%20math&ved=2ahUKEwij55HMr5qDAxWhbGwGHd1YC8UQMygAegQIARBP
+
+A Map of Mathematics – Denise Gaskins' Let's Play Math
+https://denisegaskins.com/2017/02/06/a-map-of-mathematics/
+
+A Map of Mathematics – Denise Gaskins' Let's Play Math
+https://denisegaskins.com/2017/02/06/a-map-of-mathematics/
+
+Everything I've learned building the fastest Arm desktop | Jeff Geerling
+https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop
+
+Arm-based workstation - Google 搜索
+https://www.google.com/search?sca_esv=592044316&sxsrf=AM9HkKnNSWfdMnywrKEwxk_c4vjcoeMcJg:1702950465939&q=Arm-based+workstation&sa=X&ved=2ahUKEwjdm97ssJqDAxXU9DgGHd7vAekQ1QJ6BAgyEAE&biw=1280&bih=632&dpr=1.5
+
+amd arm chip - Google 搜索
+https://www.google.com/search?q=amd+arm+chip&oq=amd+arm+chip&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgoIAhAAGAgYExgeMgoIAxAAGAgYExge0gEIMjE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Intel arm pc chips - Google 搜索
+https://www.google.com/search?q=Intel+arm+pc+chips&oq=Intel+arm+pc+chips&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABge0gEIMzk4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Site Search
+https://www.amd.com/en/search/site-search.html#q=arm
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Excalidraw
+https://excalidraw.com/
+
+Shape Strategy (△, ⬡, +) · Issue #366 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues/366
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=c%27shu%27du&op=translate
+
+Human history - Wikipedia
+https://en.wikipedia.org/wiki/Human_history
+
+Long Code Blocks Get Cut Off on PDF Version · Issue #8 · ckirsch/book
+https://github.com/ckirsch/book/issues/8
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox
+
+The Learning Paradox reddit - Google 搜索
+https://www.google.com/search?q=The+Learning+Paradox+reddit&sca_esv=592055521&sxsrf=AM9HkKlDDyn1w_ddHBKHXl7wYAP6xMUmwA%3A1702952311854&ei=d_2AZajhM-ONseMPj6yKqA8&ved=0ahUKEwjo-Pfct5qDAxXjRmwGHQ-WAvUQ4dUDCBA&uact=5&oq=The+Learning+Paradox+reddit&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhtUaGUgTGVhcm5pbmcgUGFyYWRveCByZWRkaXQyBxAhGKABGApI-RdQsQRYixdwA3gAkAEAmAH4AaABvQ2qAQUwLjkuMbgBA8gBAPgBAcICCxAAGAcYHhgPGLADwgILEAAYgAQYywEYsAPCAgkQABgIGB4YsAPCAgcQIxiwAhgnwgIHEAAYHhiLA8ICBRAhGKAB4gMEGAEgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+Toward a Solution of the Learning Paradox on JSTOR
+https://www.jstor.org/stable/1170190
+
+Sci-Hub | Toward a Solution of the Learning Paradox. Review of Educational Research, 55(2), 201 | 10.2307/1170190
+https://sci-hub.se/https://doi.org/10.2307/1170190
+
+The Learning Paradox (Fodor 1980 - Google 搜索
+https://www.google.com/search?q=The+Learning+Paradox+(Fodor+1980&oq=The+Learning+Paradox+(Fodor+1980&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+C Bereiter learning paradox - Google 搜索
+https://www.google.com/search?q=C+Bereiter+learning+paradox&sca_esv=592055521&sxsrf=AM9HkKnaWLyYGx7Jo9Q-eNw2oII9ZvJ02Q%3A1702952748265&ei=LP-AZfHXD5jy4-EPw6emsAc&ved=0ahUKEwjxnYStuZqDAxUY-TgGHcOTCXYQ4dUDCBA&uact=5&oq=C+Bereiter+learning+paradox&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhtDIEJlcmVpdGVyIGxlYXJuaW5nIHBhcmFkb3gyBRAhGKABMgUQIRigAUizGFAcWO0XcAF4AZABAJgB1AGgAegUqgEGMC4xMi40uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCRAAGAgYHhiLA8ICBxAhGKABGAriAwQYACBBiAYBkAYB&sclient=gws-wiz-serp#ip=1
+
+ckirsch/book
+https://github.com/ckirsch/book?tab=readme-ov-file#recommended-readings-3
+
+chris Simmonds - Google 搜索
+https://www.google.com/search?q=chris+Simmonds&oq=chris+Simmonds&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM4NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nvidia arm cpu - Google 搜索
+https://www.google.com/search?q=nvidia+arm+cpu&sca_esv=592113278&sxsrf=AM9HkKlivhOVfWiqjfgaQJdyxJwjESAFDQ%3A1702971171943&ei=I0eBZZ-QOamWjuMPqYKeyAU&ved=0ahUKEwjfrZD-_ZqDAxUpi2MGHSmBB1kQ4dUDCBA&uact=5&oq=nvidia+arm+cpu&gs_lp=Egxnd3Mtd2l6LXNlcnAiDm52aWRpYSBhcm0gY3B1MggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYCBgeGApI4xVQuwNYlRRwAXgBkAEAmAGmAaABwA-qAQQwLjE0uAEDyAEA-AEBwgIHECMYsAMYJ8ICChAAGEcY1gQYsAPCAgQQIxgnwgIMECMYgAQYigUYExgnwgIQEC4YgAQYigUYQxjHARjRA8ICCBAAGIAEGLEDwgIKEAAYgAQYigUYQ8ICCxAuGIAEGLEDGIMBwgILEAAYgAQYsQMYgwHCAhMQLhiABBiKBRhDGLEDGMcBGNEDwgIFEAAYgATCAgoQABiABBjLARgKwgIEEAAYHuIDBBgAIEGIBgGQBgM&sclient=gws-wiz-serp
+
+Ampere Altra arm pc - Google 搜索
+https://www.google.com/search?q=Ampere+Altra+arm+pc&sca_esv=592113278&sxsrf=AM9HkKmo_-hU6De1aGW33nthj3B_sClhVA%3A1702971249132&ei=cUeBZcTcB9eO4-EP7amT-A0&ved=0ahUKEwiE2fei_pqDAxVXxzgGHe3UBN8Q4dUDCBA&uact=5&oq=Ampere+Altra+arm+pc&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhNBbXBlcmUgQWx0cmEgYXJtIHBjMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiPI1CZAljpIXAFeAGQAQGYAfUBoAHFEaoBBjAuMTQuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgQQIxgnwgIIEAAYgAQYywHCAgQQABgewgIFEAAYgATCAgUQIRigAcICBhAAGAgYHsICCRAAGAgYHhiLA8ICBxAAGIAEGA3CAgYQABgeGA3iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+ARM Cortex-A72 - Wikipedia
+https://en.wikipedia.org/wiki/ARM_Cortex-A72
+
+Dr James V Stone - Publications
+https://jamesstone.sites.sheffield.ac.uk/publications
+
+晓龙865 - Google 搜索
+https://www.google.com/search?q=%E6%99%93%E9%BE%99865&oq=%E6%99%93%E9%BE%99865&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDc1NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Blocked
+https://www.reddit.com/r/RISCV/comments/ssujor/are_there_raspberrypi_equivalents_that_use_riscv/
+
+ln python3 to python - Google 搜索
+https://www.google.com/search?q=ln+python3+to+python&sca_esv=592121269&sxsrf=AM9HkKkUfDTtDRxzYJvwxS8x6kxnbgIunQ%3A1702974564726&ei=ZFSBZaT7K8Cv4-EPnJqHkAI&oq=ln+python3+&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIgtsbiBweXRob24zICoCCAAyCBAAGIAEGMsBMgQQABgeMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgFGB4yCRAAGAUYHhiLA0i4Q1DuCVjoPXACeAGQAQCYAdABoAGSE6oBBjAuMTUuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgQQIxgnwgIFEAAYgATCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICEBAAGIAEGIoFGEMYsQMYgwHCAgUQLhiABMICDhAuGMcBGLEDGNEDGIAEwgIIEAAYgAQYsQPCAg4QLhiABBixAxjHARjRA8ICCBAuGIAEGLEDwgILEAAYgAQYsQMYgwHCAgsQLhiABBjHARjRA8ICBxAuGIAEGAzCAg0QABiABBgMGLEDGIMBwgIKEAAYgAQYDBixA8ICBxAAGIAEGAzCAg0QLhiABBgMGMcBGK8BwgIcEC4YgAQYDBjHARivARiXBRjcBBjeBBjgBNgBAcICCRAAGAgYHhiLA-IDBBgAIEGIBgGQBgq6BgYIARABGBQ&sclient=gws-wiz-serp
+
+What is a "failed to create a symbolic link: file exists" error? - Ask Ubuntu
+https://askubuntu.com/questions/543516/what-is-a-failed-to-create-a-symbolic-link-file-exists-error
+
+肖邦 - 夜曲 Op. 9 No. 1 (Chopin - Nocturne Op. 9 No. 1) - YouTube
+https://www.youtube.com/watch?v=2bvg232HOn8
+
+YouTube
+https://www.youtube.com/
+
+ElectricSQL - Sync for modern apps
+https://electric-sql.com/
+
+Code search results
+https://github.com/search?q=repo%3Aelectric-sql%2Felectric%20clock&type=code
+
+Polanyi reddit - Google 搜索
+https://www.google.com/search?q=Polanyi+reddit&oq=Polanyi+reddit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+What does everyone think of badeconomics' criticism of automation taking jobs and Basic Income? : Futurology
+https://www.reddit.com/r/Futurology/comments/3wx58t/what_does_everyone_think_of_badeconomics/
+
+Moravec's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Moravec%27s_paradox
+
+Resources
+https://tutflix.org/resources/
+
+Nouvelle AI - Wikipedia
+https://en.wikipedia.org/wiki/Nouvelle_AI
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=consensus&op=translate
+
+Moravec's paradox reddit - Google 搜索
+https://www.google.com/search?q=Moravec%27s+paradox+reddit&oq=Moravec%27s+paradox+reddit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDIyMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Is this field worth it anymore? : reinforcementlearning
+https://www.reddit.com/r/reinforcementlearning/comments/ss0vhq/is_this_field_worth_it_anymore/
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+(2) Facebook
+https://www.facebook.com/ccckmit
+
+is x86 dying? : buildapc
+https://www.reddit.com/r/buildapc/comments/semmde/is_x86_dying/
+
+are there raspberry-pi equivalents that use risc-v? : RISCV
+https://www.reddit.com/r/RISCV/comments/ssujor/are_there_raspberrypi_equivalents_that_use_riscv/
+
+RISC-V Developer Boards – RISC-V International
+https://riscv.org/risc-v-developer-boards/
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+23年双十一预算6000左右高性价比游戏台式电脑配置清单推荐及选购指南（13代i5+RTX4060Ti+1TB）打败95%以上的Steam游戏玩家！[1028更新] - 知乎
+https://zhuanlan.zhihu.com/p/425716462
+
+(1) 【Piano Cover】李榮浩 Ronghao Li - 年少有為/If I Were Young｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=YWgz3ABK9cI
+
+【Piano Cover】李榮浩 Ronghao Li - 年少有為/If I Were Young｜高還原純鋼琴版｜高音質/附譜/附歌詞 - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYWgz3ABK9cI
+
+YtMp3: YouTube to MP3 Converter
+https://ytmp3.nu/ANaQ/
+
+按下允许
+https://p.totalbeststories.com/?s=760936182816452833&ssk=213039694a4d3aadcba2c2c87c497fdc&svar=1702984842&z=6444276&pz=4662709&tb=4662728&l=WGYVPKNMPvY53zb
+
+头文字D - Google 搜索
+https://www.google.com/search?q=%E5%A4%B4%E6%96%87%E5%AD%97D&oq=%E5%A4%B4%E6%96%87%E5%AD%97D&gs_lcrp=EgZjaHJvbWUyEggAEEUYORiDARjjAhixAxiABDIQCAEQLhiDARjUAhixAxiABDIQCAIQLhiDARjUAhixAxiABDIJCAMQABgMGIAEMgcIBBAAGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgcICBAAGIAEMgcICRAAGIAEqAIAsAIA&sourceid=chrome&ie=UTF-8
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+
 
 # 2023-12-18
 

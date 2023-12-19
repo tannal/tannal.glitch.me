@@ -1,3 +1,21 @@
+# 2023-12-19
+
+x86 is dead, long live arm (for me)
+
+services on open source software (company idea)
+
+what do we need to create bea drawings?
+- line arrows text
+
+Programming & CSAPP
+
+Data Stucture & Alorithms & Computing theory (programming & computing)
+OS DB Emebeded Distbuted PL VM APP Internet Systems (systems)
+
+AI
+
+Engineering & Research
+
 
 # 2023-12-18
 
