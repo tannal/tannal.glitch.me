@@ -1,3 +1,29 @@
+# 2023-12-20
+
+211 5%
+people beijing 5%
+
+1.412 billion
+
+1412 000 000 * 5% = 70600000
+
+6000 000 000 * 5% = 300000000
+
+Logical Block Address
+
+
+UART to USB converter
+
+raspi3b
+
+FAT NTFS 
+
+ELF
+
+https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/binfmt_elf.c#L843
+
+https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/binfmt_elf.c#L855
+
 # 2023-12-19
 
 x86 is dead, long live arm (for me)
