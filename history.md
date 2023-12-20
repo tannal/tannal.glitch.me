@@ -1,3 +1,336 @@
+
+2023-12-20
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Hello World!
+http://tannal.glitch.me/all/
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+三中全会 知乎 - Google 搜索
+https://www.google.com/search?q=%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A+%E7%9F%A5%E4%B9%8E&sca_esv=592356204&sxsrf=AM9HkKnglrf5jq26hxmQgqgAnDnoSRNc4w%3A1703031748562&ei=xDOCZc3zIbaQnesPmtygwAM&ved=0ahUKEwjN5afT35yDAxU2SGcHHRouCDgQ4dUDCBA&uact=5&oq=%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhPkuInkuK3lhajkvJog55-l5LmOMgUQIRigAUjlIVCnA1iXIHAGeAKQAQCYAbwBoAGECaoBAzAuN7gBA8gBAPgBAcICBBAAGEfCAgcQABiABBgMwgIFEAAYgATCAggQABgEGB4YD8ICDxAAGAUYBBgeGAwYDxiLA8ICCxAAGAgYBBgeGIsDwgINEAAYCBgEGB4YDxiLA8ICCBAAGIAEGKIE4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+Google Never Stopped Trying to Go to China - Bloomberg
+https://www.bloomberg.com/news/features/2018-11-08/google-never-stopped-trying-to-go-to-china
+
+CS:APP3e, Bryant and O'Hallaron
+https://csapp.cs.cmu.edu/3e/papers.html
+
+CS:APP3e, Bryant and O'Hallaron
+https://csapp.cs.cmu.edu/3e/students.html
+
+CS:APP
+https://csappbook.blogspot.com/
+
+CS:APP3e, Bryant and O'Hallaron
+https://csapp.cs.cmu.edu/3e/code.html
+
+linux/fs/binfmt_elf.c at 55cb5f43689d7a9ea5bf35ef050f12334f197347 · torvalds/linux
+https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/binfmt_elf.c#L855
+
+linux/fs/exec.c at 55cb5f43689d7a9ea5bf35ef050f12334f197347 · torvalds/linux
+https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/exec.c#L1438
+
+elf interpreter - Google 搜索
+https://www.google.com/search?q=elf+interpreter&oq=elf+inter&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE5NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How programs get run: ELF binaries [LWN.net]
+https://lwn.net/Articles/631631/
+
+GuestArticles index [LWN.net]
+https://lwn.net/Archives/GuestIndex/#Drysdale_David
+
+binfmt_elf.c - fs/binfmt_elf.c - Linux source code (v3.18) - Bootlin
+https://elixir.bootlin.com/linux/v3.18/source/fs/binfmt_elf.c#L555
+
+CONFIG_STACK_GROWSUP identifier - Linux source code (v3.18) - Bootlin
+https://elixir.bootlin.com/linux/v3.18/K/ident/CONFIG_STACK_GROWSUP
+
+exec.c - fs/exec.c - Linux source code (v3.18) - Bootlin
+https://elixir.bootlin.com/linux/v3.18/source/fs/exec.c#L1054
+
+binfmt_elf.c - fs/binfmt_elf.c - Linux source code (v3.18) - Bootlin
+https://elixir.bootlin.com/linux/v3.18/source/fs/binfmt_elf.c#L626
+
+elf.h - arch/powerpc/boot/elf.h - Linux source code (v3.18) - Bootlin
+https://elixir.bootlin.com/linux/v3.18/source/arch/powerpc/boot/elf.h#L130
+
+Commit search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux+%22bad+ELF+interpreter%E2%80%9D&type=commits
+
+#general > Servo was terminated by signal 10 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20was.20terminated.20by.20signal.2010
+
+Support Vue.js · Issue #30880 · servo/servo
+https://github.com/servo/servo/issues/30880
+
+Fix a crash in WebGPU when WebGPU is disabled by lucasMontenegro · Pull Request #30888 · servo/servo
+https://github.com/servo/servo/pull/30888
+
+servo/CONTRIBUTING.md at main · servo/servo
+https://github.com/servo/servo/blob/main/CONTRIBUTING.md#running-tests-in-pull-requests
+
+毛泽东之死 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E4%B9%8B%E6%AD%BB#%E6%99%9A%E5%B9%B4%E7%97%85%E6%83%85
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+UART to USB converter - Google 搜索
+https://www.google.com/search?q=UART+to+USB+converter&oq=UART+to+USB+converter&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYBRgeMggICBAAGAUYHjIICAkQABgFGB7SAQcxNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux+%22ENOENT%22&type=code
+
+glibc/stdio-common/perror.c at 50bef9bd63e7fb94f1d2cc8b7809256ffc73b2ef · bminor/glibc
+https://github.com/bminor/glibc/blob/50bef9bd63e7fb94f1d2cc8b7809256ffc73b2ef/stdio-common/perror.c#L47
+
+ls - How do I find the inode of any directory? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/121829/how-do-i-find-the-inode-of-any-directory
+
+disk lba adress - Google 搜索
+https://www.google.com/search?q=disk+lba+adress&sca_esv=592504798&sxsrf=AM9HkKnTYUfJ92XPUYQyKtky-_m2GJXg5Q%3A1703077623988&ei=9-aCZZjdO9mE4-EP5eqz-AI&ved=0ahUKEwjYtLXGip6DAxVZwjgGHWX1DC8Q4dUDCBA&uact=5&oq=disk+lba+adress&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIg9kaXNrIGxiYSBhZHJlc3MyCxAAGAgYHhgNGIsDSMAWUABYyBVwAHgBkAEAmAHKAaABiBGqAQYwLjEzLjG4AQPIAQD4AQHCAgQQIxgnwgILEAAYgAQYsQMYgwHCAg4QLhjHARixAxjRAxiABMICERAuGIAEGLEDGIMBGMcBGNEDwgIKECMYgAQYigUYJ8ICDBAjGIAEGIoFGBMYJ8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAhAQABiABBiKBRhDGLEDGIMBwgIKEAAYgAQYigUYQ8ICCBAAGIAEGLEDwgIIEAAYgAQYywHCAg4QLhiABBjLARjHARivAcICChAAGIAEGMsBGArCAg0QLhiABBgMGMcBGNEDwgINEC4YDBjHARjRAxiABMICBxAAGIAEGAzCAhwQLhgMGMcBGNEDGIAEGJcFGNwEGN4EGOAE2AEBwgILEAAYgAQYywEYiwPCAggQABiABBiLA8ICBRAhGKABwgIJEAAYCBgeGIsD4gMEGAAgQYgGAboGBggBEAEYFA&sclient=gws-wiz-serp
+
+Home Page for David Drysdale
+https://www.lurklurk.org/
+
+Rust Result/Option Transformations - Google绘图
+https://docs.google.com/drawings/d/1EOPs0YTONo_FygWbuJGPfikO9Myt5HwtiFUHRuE1JVM/preview
+
+Beginner's Guide to Linkers
+https://www.lurklurk.org/linkers/linkers.html
+
+Introduction - Effective Rust
+https://www.lurklurk.org/effective-rust/intro.html
+
+Hector Barbossa - Google 搜索
+https://www.google.com/search?q=Hector+Barbossa&oq=Hector+Barbossa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQcxNDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+effective go pdf - Google 搜索
+https://www.google.com/search?q=effective+go+pdf&sca_esv=592521120&sxsrf=AM9HkKnOSCropXIoc4tv7Nm0AJSTGR9kpg%3A1703079059835&ei=k-yCZZ_JMvvOseMPjPCa2AM&ved=0ahUKEwjf3orzj56DAxV7Z2wGHQy4BjsQ4dUDCBA&uact=5&oq=effective+go+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIhBlZmZlY3RpdmUgZ28gcGRmMggQABiABBjLATIIEAAYgAQYywEyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIJEAAYBRgeGIsDSK4GUGhYugVwAXgBkAEAmAGJAqABtQWqAQUwLjMuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgcQIxixAhgnwgIFEAAYgATCAgsQLhiABBjLARjUAsICBBAAGB7CAgYQABgFGB7iAwQYACBBiAYBkAYH&sclient=gws-wiz-serp
+
+Something like a home page
+https://www.akkadia.org/drepper/
+
+cpucache-slides.pdf
+https://www.akkadia.org/drepper/cpucache-slides.pdf
+
+Drake, Nate linux - Google 搜索
+https://www.google.com/search?q=Drake%2C+Nate+linux&sca_esv=592521120&sxsrf=AM9HkKlM_c-BRLCuxWE90KsaMFQDM6j_3A%3A1703079859770&ei=s--CZd7XLoaMnesPubGh6AQ&ved=0ahUKEwie_cLwkp6DAxUGRmcHHblYCE0Q4dUDCBA&uact=5&oq=Drake%2C+Nate+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhFEcmFrZSwgTmF0ZSBsaW51eDIHECEYoAEYCjIHECEYoAEYCkiWC1C9A1ihCXABeACQAQCYAdQBoAGDCKoBBTAuNC4yuAEDyAEA-AEBwgIKEAAYgAQYDRiwA8ICCxAAGIAEGMsBGLADwgIJEAAYHhgNGLADwgIHEAAYHhiwA8ICBBAjGCfCAgcQABiABBgNwgIIEAAYgAQYywHCAgYQABgeGA3CAggQABgIGB4YDcICCxAAGAgYHhgNGIsDwgIFECEYoAHiAwQYASBBiAYBkAYK&sclient=gws-wiz-serp
+
+reactivated.net - home of Daniel Drake (dsd)
+https://reactivated.net/
+
+Fleming, Matt linux - Google 搜索
+https://www.google.com/search?q=Fleming%2C+Matt+linux&oq=Fleming%2C+Matt+linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDEyOTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Matt Fleming / Linux Plumbers Conference: Developing the Kernel, Libraries and Utilities / September 7-9, 2011 / Santa Rosa, CA
+https://blog.linuxplumbersconf.org/2011/ocw/users/321
+
+X 上的 Matt Fleming：“If anyone wants to get started with task isolation on Linux, here’s an article I wrote, https://t.co/g68Y7ybSkP” / X
+https://twitter.com/fleming_matt/status/1434064234074234885
+
+Tales of Linux micro-benchmarks | PPT
+https://www.slideshare.net/mattjfleming/tales-of-linux-microbenchmarks
+
+tiziano88 (Tiziano Santoro)
+https://github.com/tiziano88
+
+(10 条消息) 等疾风 - 知乎
+https://www.zhihu.com/people/debunkerszapfacts
+
+中国人口 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3&sca_esv=592529771&sxsrf=AM9HkKkqvHEUsdXUTuKb4eaSKLaymDCS1A%3A1703082920838&ei=qPuCZdfbMoGH4-EPyKOnyAY&ved=0ahUKEwjXz5Oknp6DAxWBwzgGHcjRCWkQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%8F%A3&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOS4reWbveS6uuWPozIKECMYgAQYigUYJzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQ0iLM1DZD1jeMXACeAGQAQGYAY0EoAGBDqoBCTAuNS4yLjUtMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgUQABiABMICDRAAGIAEGIoFGEMYsQPCAhAQABiABBiKBRhDGLEDGIMBwgILEAAYgAQYsQMYsQPCAhEQABiABBixAxiDARixAxiDAcICFxAuGIAEGLEDGIMBGLEDGIMBGMcBGNEDwgIFEC4YgATCAhAQABiABBixAxixAxhGGPsBwgIZEAAYgAQYsQMYRhj7ARiXBRiMBRjdBNgBAcICCBAAGIAEGKIE4gMEGAAgQYgGAZAGCroGBggBEAEYEw&sclient=gws-wiz-serp
+
+Something like a home page
+https://www.akkadia.org/drepper/
+
+ukuug2002slides.pdf
+https://www.akkadia.org/drepper/ukuug2002slides.pdf
+
+What Every Programmer Should Know About Memory
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Code search results
+https://github.com/search?q=repo%3AFFmpeg%2FFFmpeg+mp4&type=code
+
+陈良宇 习近平 - Google 搜索
+https://www.google.com/search?q=%E9%99%88%E8%89%AF%E5%AE%87+%E4%B9%A0%E8%BF%91%E5%B9%B3&sca_esv=592387319&sxsrf=AM9HkKnSpO_i37J4uNgoWFzllbPz3TR_8Q%3A1703039081003&ei=aFCCZcvvPLqO4-EPkbahkA8&ved=0ahUKEwjLw9j7-pyDAxU6xzgGHRFbCPIQ4dUDCBA&uact=5&oq=%E9%99%88%E8%89%AF%E5%AE%87+%E4%B9%A0%E8%BF%91%E5%B9%B3&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-mZiOiJr-WuhyDkuaDov5HlubMyBRAAGIAESNovUMQBWOwrcAV4AZABAJgBrgGgAZkOqgEEMC4xMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQABiABBiKBRhDwgIHEAAYgAQYDMICBxAAGIAEGA3iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+李强 (1959年) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BC%BA_(1959%E5%B9%B4)
+
+孙春兰 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AD%99%E6%98%A5%E5%85%B0
+
+李克强 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%85%8B%E5%BC%BA
+
+克强指数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%8B%E5%BC%BA%E6%8C%87%E6%95%B0
+
+File:Xi jinping and Li keqiang.jpg - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/File:Xi_jinping_and_Li_keqiang.jpg
+
+邓小平 - Google 搜索
+https://www.google.com/search?q=%E9%82%93%E5%B0%8F%E5%B9%B3&oq=%E9%82%93%E5%B0%8F%E5%B9%B3&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEC4YgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEC4YgAQyBwgJEAAYgASoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+陈良宇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%99%88%E8%89%AF%E5%AE%87
+
+中国制造2025 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A02025
+
+悼念李克强 - Google 搜索
+https://www.google.com/search?q=%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA&oq=%E6%82%BC%E5%BF%B5&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0MDlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+李克强去世：家乡悼念者络绎不绝 民众接受采访被阻止 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67307658
+
+“他赢得民心”——李克强家乡悼念者络绎不绝 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67296731
+
+李克强遗体在京火化 主政十年他给中国经济留下了什么？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67294320
+
+李克强逝世为何可能给习近平带来一场危机？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67239754
+
+新克强指数 - Google 搜索
+https://www.google.com/search?q=%E6%96%B0%E5%85%8B%E5%BC%BA%E6%8C%87%E6%95%B0&oq=%E6%96%B0%E5%85%8B%E5%BC%BA%E6%8C%87%E6%95%B0&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBBzE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+团派 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%9C%98%E6%B4%BE
+
+李克强之死 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%B9%8B%E6%AD%BB
+
+六四事件 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6
+
+Události_na_náměstí_Tian_an_men,_Čína_1989,_foto_Jiří_Tondl.jpg (299×199)
+https://upload.wikimedia.org/wikipedia/commons/e/e7/Ud%C3%A1losti_na_n%C3%A1m%C4%9Bst%C3%AD_Tian_an_men%2C_%C4%8C%C3%ADna_1989%2C_foto_Ji%C5%99%C3%AD_Tondl.jpg
+
+习近平 十里路不换肩 - Google 搜索
+https://www.google.com/search?q=%E4%B9%A0%E8%BF%91%E5%B9%B3+%E5%8D%81%E9%87%8C%E8%B7%AF%E4%B8%8D%E6%8D%A2%E8%82%A9&sca_esv=592403406&sxsrf=AM9HkKnG2ajbJsBIrxLflZ0WKzKEjbZE9A%3A1703044742586&ei=hmaCZcG1I-Cb4-EPvoyLgAQ&ved=0ahUKEwjBkKyHkJ2DAxXgzTgGHT7GAkAQ4dUDCBA&uact=5&oq=%E4%B9%A0%E8%BF%91%E5%B9%B3+%E5%8D%81%E9%87%8C%E8%B7%AF%E4%B8%8D%E6%8D%A2%E8%82%A9&gs_lp=Egxnd3Mtd2l6LXNlcnAiHOS5oOi_keW5syDljYHph4zot6_kuI3mjaLogqkyCBAAGIAEGKIEMggQABiABBiiBEiuWlCBA1joWHADeAGQAQCYAbIBoAGJI6oBBDAuMzC4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBRAhGKABwgIKECMYgAQYigUYJ8ICFhAAGIAEGIoFGEMYsQMYgwEYsQMYgwHCAhAQABiABBiKBRhDGLEDGLEDwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAzCAg0QABiABBgMGLEDGLEDwgIFEC4YgATCAggQABiJBRiiBOIDBBgAIEGIBgGQBgM&sclient=gws-wiz-serp
+
+陈良宇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%99%88%E8%89%AF%E5%AE%87
+
+中国人民解放军61889部队 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B61889%E9%83%A8%E9%98%9F
+
+团派 - Google 搜索
+https://www.google.com/search?q=%E5%9B%A2%E6%B4%BE&oq=%E5%9B%A2&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGEEyBggHEEUYQdIBCDIwODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+团派 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%9C%98%E6%B4%BE
+
+江泽民派系 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%B4%BE%E7%B3%BB
+
+小熊维尼 - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E7%86%8A%E7%BB%B4%E5%B0%BC&oq=%E5%B0%8F%E7%86%8A&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIJCAAQRRg5GIAEMgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIKCAMQLhjUAhiABDIKCAQQLhjUAhiABDIKCAUQLhjUAhiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQABiABDIHCAkQABiABNIBCDQwNjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+YtMp3: YouTube to MP3 Converter
+https://ytmp3.nu/ANaQ/
+
+(1) 周杰伦钢琴曲合辑 by Lei Piano - YouTube
+https://www.youtube.com/watch?v=27ZNWYaRjM8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=%E9%99%84%E8%BF%91%EF%BC%8C%E4%B8%80%E5%90%8D%E8%83%8C%E7%9D%80%E5%8C%85%E7%9A%84%E7%94%B7%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%9B%B4%E8%A7%82%E3%80%82%E4%BB%96%E8%AF%B4%EF%BC%8C%E4%BB%96%E4%B8%BA%E4%BA%86%E6%82%BC%E5%BF%B5%E6%9D%8E%E5%85%8B%E5%BC%BA%E8%80%8C%E4%BB%8E%E4%B8%8A%E6%B5%B7%E6%9D%A5%E5%88%B0%E5%AE%89%E5%BE%BD%EF%BC%8C%E2%80%9C%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%80%BB%E7%90%86%E5%9C%A8%E8%80%81%E7%99%BE%E5%A7%93%E5%BF%83%E4%B8%AD%EF%BC%8C%E4%BB%96%E6%98%AF%E8%AF%B4%E7%9C%9F%E8%AF%9D%E7%9A%84%E3%80%82%E2%80%9D%0A%0A%E2%80%9C%E4%BB%80%E4%B9%88%E5%9C%B0%E6%96%B9%E7%94%9F%E6%B4%BB%E8%89%B0%E8%8B%A6%EF%BC%8C%E4%BB%96%E5%B0%B1%E4%B8%8B%E6%9D%A5%E4%BA%86%E8%A7%A3%E4%BA%86%E8%A7%A3%EF%BC%8C%E7%A1%AE%E5%AE%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%83%85%E5%86%B5%E3%80%82%E2%80%9D%E5%9C%A8%E8%B0%88%E5%88%B0%E6%8E%A5%E6%9B%BF%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%8B%85%E4%BB%BB%E6%80%BB%E7%90%86%E7%9A%84%E6%9D%8E%E5%BC%BA%E6%97%B6%EF%BC%8C%E4%BB%96%E8%A1%A5%E5%85%85%E8%AF%B4%EF%BC%9A%E2%80%9C%E4%B8%8D%E5%83%8F%E6%9D%8E%E5%BC%BA%EF%BC%8C%E5%8F%AA%E4%BC%9A%E6%8B%8D%E9%A9%AC%E5%B1%81%E2%80%9D%E3%80%82%0A%0A%E5%BD%93%E6%88%91%E4%BB%AC%E5%90%91%E4%BB%96%E6%B1%82%E8%AF%81%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E8%AE%A4%E4%B8%BA%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%AF%94%E6%9D%8E%E5%BC%BA%E6%9B%B4%E5%A5%BD%E6%97%B6%EF%BC%8C%E4%BB%96%E5%9B%9E%E7%AD%94%E8%AF%B4%EF%BC%9A%E2%80%9C%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%E6%88%91%E6%9D%A5%E8%AE%B2%EF%BC%8C%E5%8F%AB%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%9D%A5%E8%AF%84%E4%BB%B7%E3%80%82%E2%80%9D&op=translate
+
+(1) C++20 Modules: The Packaging and Binary Redistribution Story - Luis Caro Campos - CppCon 2023 - YouTube
+https://www.youtube.com/watch?v=-p9lvvV8F-w
+
+(1) 作業系統設計與實作 - Lec 11 Filesystem and Block I/O - YouTube
+https://www.youtube.com/watch?v=SBD0j19jh_Q&list=PLj6E8qlqmkFvCxHVYYVYtnPuQb3NeOlUb&index=11
+
+(2) Facebook
+https://www.facebook.com/shiwulo
+
+tannal (tannal) / Repositories
+https://github.com/tannal?tab=repositories
+
+CSS 封装：2023 年！  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/css-wrapped-2023?hl=zh-cn
+
+温家宝 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%AE%B6%E5%AE%9D
+
+万里 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%87%E9%87%8C
+
+中共八大元老 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%85%B1%E5%85%AB%E5%A4%A7%E5%85%83%E8%80%81
+
+习仲勋 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B9%A0%E4%BB%B2%E5%8B%8B
+
+在树莓派上使用 GPIO Zero 控制 GPIO | 树莓派实验室
+https://shumeipai.nxez.com/2023/03/08/use-gpio-zero-to-control-gpio-on-the-raspberry-pi.html
+
+(2) How to connect Raspberry Pi to Laptop: Serial UART - YouTube
+https://www.youtube.com/watch?v=92U5orHkfIU
+
+the quartier - Google 搜索
+https://www.google.com/search?sca_esv=592521120&sxsrf=AM9HkKmYp2nUIV4ifHc2Zl5RN0ebHBkAJg:1703078265309&q=the+quartier&spell=1&sa=X&ved=2ahUKEwit15z4jJ6DAxXp8DgGHYGZDB8QBSgAegQIBxAC&biw=1280&bih=632&dpr=1.5
+
+Matt Fleming on X: "If anyone wants to get started with task isolation on Linux, here’s an article I wrote, https://t.co/g68Y7ybSkP" / X
+https://twitter.com/fleming_matt/status/1434064234074234885
+
+Resources
+https://tutflix.org/resources/
+
+中华人民共和国国籍法
+https://www.nia.gov.cn/n741440/n741547/c1013967/content.html
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=translate
+
+(1) Matt Fleming (@fleming_matt) / X
+https://twitter.com/fleming_matt
+
+(1) Pekka Enberg (@penberg) / X
+https://twitter.com/penberg
+
+(1) Jens Axboe (@axboe) / X
+https://twitter.com/axboe
+
+brick.kernel.dk/snaps/fio-3.36.shortlog.txt
+https://brick.kernel.dk/snaps/fio-3.36.shortlog.txt
+
+io_uring basics: Writing a file to disk | notes.eatonphil.com
+https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html
+
+io_uring与网络·2023 - 知乎
+https://zhuanlan.zhihu.com/p/661330392
+
+等疾风 - 知乎
+https://www.zhihu.com/people/debunkerszapfacts
+
+axboe/liburing Show And Tell · Discussions · GitHub
+https://github.com/axboe/liburing/discussions/categories/show-and-tell
+
+Easyperf Newsletter | Easyperf
+https://easyperf.net/newsletter/
+
+
+
+
 # 2023-12-19
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
