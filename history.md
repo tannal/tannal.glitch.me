@@ -1,3 +1,74 @@
+2023-12-21
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+README.md – tannal-glitch-me
+https://glitch.com/edit/#!/tannal-glitch-me?path=README.md%3A1%3A0
+
+Hello World!
+https://tannal.glitch.me/all/
+
+sqlite/sqlite at 0d7f0e49a405484b8fa7fcad76f55b648ad8574b
+https://github.com/sqlite/sqlite/tree/0d7f0e49a405484b8fa7fcad76f55b648ad8574b
+
+ubuntu qemu windows for gaming - Google 搜索
+https://www.google.com/search?q=ubuntu+qemu+windows+for+gaming&sca_esv=592805013&sxsrf=AM9HkKkjlR5nuR2pHd94SGiD-PVXzDeMSw%3A1703158520768&ei=-CKEZYyvLoDV4-EPrJqvyAY&ved=0ahUKEwiMi4H1t6CDAxWA6jgGHSzNC2kQ4dUDCBA&uact=5&oq=ubuntu+qemu+windows+for+gaming&gs_lp=Egxnd3Mtd2l6LXNlcnAiHnVidW50dSBxZW11IHdpbmRvd3MgZm9yIGdhbWluZzIIEAAYgAQYogQyCBAAGIAEGKIESJIUUABYwxFwAHgBkAEAmAHlAqABqRCqAQgxLjEwLjEuMbgBA8gBAPgBAcICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAgYHsICBRAhGKABwgIHECEYoAEYCuIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+可逆过程 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8F%AF%E9%80%86%E8%BF%87%E7%A8%8B
+
+麦克斯韦妖 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%BA%A6%E5%85%8B%E6%96%AF%E9%9F%A6%E5%A6%96
+
+拉普拉斯妖 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E5%A6%96
+
+哥本哈根诠释 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9%E8%A9%AE%E9%87%8B
+
+布赖斯·德威特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E6%96%AF%C2%B7%E5%BE%B7%E7%BB%B4%E7%89%B9
+
+实用主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89
+
+兰道尔原理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%98%AD%E9%81%93%E7%88%BE%E5%8E%9F%E7%90%86
+
+零一律 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9B%B6%E4%B8%80%E5%BE%8B
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=s%20within%20your%20reach%20if%20you%20know%20algebra%20and%20have%20a%20general%20interest%20in%0Amath.%20Not%20long%20ago%2C%20reading%20and%20writing%20were%20the%20work%20of%20trained%20scribes.%20Yet%0Atoday%20that%20can%20be%20handled%20by%20a%2010-year%20old.%20Why%3F&op=translate
+
+Publishing Failure in Science - Google 搜索
+https://www.google.com/search?q=Publishing+Failure+in+Science&sca_esv=592686156&sxsrf=AM9HkKnmiL4FqT2rdbjKv8IicBfSn7_cGg%3A1703122059616&ei=i5SDZZGKJZr2seMPheGq8Ag&ved=0ahUKEwjR-_yKsJ-DAxUae2wGHYWwCo4Q4dUDCBA&uact=5&oq=Publishing+Failure+in+Science&gs_lp=Egxnd3Mtd2l6LXNlcnAiHVB1Ymxpc2hpbmcgRmFpbHVyZSBpbiBTY2llbmNlMgUQIRigATIFECEYoAFI1QFQAFgAcAB4AZABAJgBvQGgAb0BqgEDMC4xuAEDyAEA-AEC-AEB4gMEGAAgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+日本 人口 自然增长率 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E6%9C%AC+%E4%BA%BA%E5%8F%A3+%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF%E7%8E%87&sca_esv=592696311&sxsrf=AM9HkKl_rfDt5SZXFZ3GA8oLAqdGKsZohg%3A1703125268189&ei=FKGDZYGNC5_NseMP9L2HeA&oq=%E6%97%A5%E6%9C%AC+%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhPml6XmnKwg6Ieq54S25aKe6ZW_KgIIATIHEAAYgAQYDDILEAAYCBgeGA8YiwNIlS1QAFjFIXAAeACQAQCYAbwBoAGJD6oBBDAuMTK4AQPIAQD4AQHCAgoQIxiABBiKBRgnwgILEC4YgAQYsQMYgwHCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgILEC4YgwEYsQMYgATCAgUQLhiABMICDhAAGIAEGIoFGLEDGIMBwgILEC4YgAQYxwEY0QPCAgUQABiABMICBBAjGCfCAgoQABiABBiKBRhDwgIKEC4YgAQYigUYQ8ICDRAAGIAEGAwYsQMYsQPCAhMQABiABBgMGLEDGIMBGLEDGIMBwgINEC4YgAQYDBjHARivAcICBxAuGIAEGAzCAgoQLhiABBgMGNQCwgIKEAAYgAQYDBiLA-IDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+c++ - /usr/bin/ld: cannot find -lc++ - Stack Overflow
+https://stackoverflow.com/questions/62612405/usr-bin-ld-cannot-find-lc
+
+valorant ubuntu - Google 搜索
+https://www.google.com/search?q=valorant+ubuntu&sca_esv=592805013&sxsrf=AM9HkKnqaBNyhGy07e3MQ6huagnw4eTKwQ%3A1703158762052&ei=6iOEZf_qAvXMseMP9PCKuAU&ved=0ahUKEwj_h4jouKCDAxV1ZmwGHXS4AlcQ4dUDCBA&uact=5&oq=valorant+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIg92YWxvcmFudCB1YnVudHUyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIGEAAYCBgeMgYQABgIGB4yCRAAGAUYHhiLAzIJEAAYBRgeGIsDSJMiUABYqx9wAngBkAEBmAGRAqABuxGqAQYwLjEzLjG4AQPIAQD4AQHCAgQQIxgnwgIKECMYgAQYigUYJ8ICDRAuGIAEGIoFGEMYsQPCAhEQLhiABBixAxiDARjHARjRA8ICDhAuGIAEGIoFGLEDGIMBwgIFEAAYgATCAgsQABiABBixAxiDAcICBRAuGIAEwgIcEC4YgAQYigUYQxixAxiXBRjcBBjeBBjgBNgBAcICChAAGIAEGMsBGArCAgYQABgeGArCAgYQABgFGB7iAwQYACBBiAYBugYGCAEQARgU&sclient=gws-wiz-serp
+
+Valorant Linux Support | Is Valorant available on Linux? - GameRevolution
+https://www.gamerevolution.com/guides/649952-valorant-linux-support-availability
+
+Blocked
+https://www.reddit.com/r/linux_gaming/comments/t19c8k/is_it_possible_to_play_valorant_on_linux/
+
+Blocked
+https://www.reddit.com/r/Ubuntu/comments/167jihz/how_to_run_valorant_on_ubuntu/
+
+因果 - Google 搜索
+https://www.google.com/search?q=%E5%9B%A0%E6%9E%9C&sca_esv=592965078&sxsrf=AM9HkKmzX-oWbIMiwrT3OFVdeSud-6TiDQ%3A1703205025795&ei=odiEZdaWMIWw4-EP0py2gA8&ved=0ahUKEwiW66qU5aGDAxUF2DgGHVKODfAQ4dUDCBA&uact=5&oq=%E5%9B%A0%E6%9E%9C&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuWboOaenDIKECMYgAQYigUYJzIKEAAYgAQYigUYQzIFEAAYgAQyChAAGIAEGIoFGEMyBRAAGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEinBVDIAVjIAXABeAGQAQCYAZsBoAGbAaoBAzAuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+tannal.glitch.me/history.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/history.md
+
 
 2023-12-20
 
