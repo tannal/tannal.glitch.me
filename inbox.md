@@ -1,3 +1,35 @@
+
+# 2023-12-21
+
+```bash
+
+sudo vim /etc/default/grub
+
+amdgpu.backlight=0
+
+sudo update-grub
+
+sudo reboot
+
+```
+
+servo docs need improvement
+
+```bash
+pip install virtualenv
+
+# sudo apt install libc++-dev libc++abi-dev
+# sudo apt install libc++-14-dev libc++abi-14-dev
+# sudo ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6 /usr/lib/x86_64-linux-gnu/libstdc++.so
+# sudo ln -s /usr/bin/c++ /usr/bin/clang++-libc++
+
+
+sudo apt install libstdc++-12-dev
+
+```
+
+remote & open source
+
 # 2023-12-20
 
 211 5%
