@@ -1,6 +1,190 @@
 2023-12-22
 
+(1) Bun on X: "more people should follow @thepaperdave" / X
+https://twitter.com/bunjavascript/status/1734090724151534053
 
+(1) dave caruso (@thepaperdave) / X
+https://twitter.com/thepaperdave
+
+Resources
+https://tutflix.org/resources/
+
+ckirsch/book
+https://github.com/ckirsch/book?tab=readme-ov-file#recommended-readings-5
+
+ckirsch (Christoph Kirsch)
+https://github.com/ckirsch
+
+cksystemsteaching/selfie: An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+https://github.com/cksystemsteaching/selfie
+
+Christoph Kirsch
+https://www.cs.uni-salzburg.at/~ck/
+
+ckirsch/book
+https://github.com/ckirsch/book/tree/main
+
+ckirsch/book
+https://github.com/ckirsch/book/tree/main#self-reference
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=Design%20is%20subjective%2C%20implementation%20is%20objective.&op=translate
+
+apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store
+https://github.com/apple/foundationdb
+
+Resources
+https://tutflix.org/resources/
+
+圣诞节 - Google 搜索
+https://www.google.com/search?sca_esv=592986270&sxsrf=AM9HkKlYE9uOVnFgEZBmeAQ8C7f7n7Xo-Q:1703214609376&q=%E5%9C%A3%E8%AF%9E%E8%8A%82&si=ALGXSla3mqDj12Ot3gziPiggnpjrKsZKotvvy01LR_nZMij7ZoegHyU_vUtz0ZuwfJrBFqVpaR8_t619lqG8AKIPWsKDqFBVw8VchzXL9DSYGJW8jizppJ-Ctak338ieNQTFjiaRO3EKuuOvVy_TW0nUBHduyCFFZcjStphJH2dRvMryczFCxYw%3D&sa=X&ved=2ahUKEwjgjJLuiKKDAxX08TgGHTg3Dc0Q6RN6BAg6EAE&biw=1280&bih=632&dpr=1.5
+
+腾讯游戏 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E9%81%8A%E6%88%B2
+
+腾讯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%85%BE%E8%AE%AF
+
+日本泡沫经济 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B3%A1%E6%B2%AB%E7%BB%8F%E6%B5%8E
+
+失去的十年 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%8D%81%E5%B9%B4
+
+收件箱 (393) - wcisafly@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+空气加湿器原理 - Google 搜索
+https://www.google.com/search?q=%E7%A9%BA%E6%B0%94%E5%8A%A0%E6%B9%BF%E5%99%A8%E5%8E%9F%E7%90%86&oq=%E7%A9%BA%E6%B0%94%E5%8A%A0%E6%B9%BF%E5%99%A8%E5%8E%9F%E7%90%86&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCTExMTM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+(3) Facebook
+https://www.facebook.com/ccckmit
+
+aidult/2024/02/sex/README.md at master · cccmag/aidult
+https://github.com/cccmag/aidult/blob/master/2024/02/sex/README.md?fbclid=IwAR3p4O-vWYIQdJ7TQjEC2Q82ukRCf8cQpVDe26Kd8qIKGmqF_vojZ5uzJeg
+
+国家卫生健康委办公厅关于印发消毒剂使用指南的通知
+http://www.nhc.gov.cn/zhjcj/s9141/202002/b9891e8c86d141a08ec45c6a18e21dc2
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+all.md – tannal-glitch-me
+https://glitch.com/edit/#!/tannal-glitch-me?path=all.md%3A1%3A0
+
+Building WebKit | WebKit
+https://webkit.org/building-webkit/
+
+客座评论：中共三中全会什么时候召开？ | 评论分析 | DW | 04.10.2023
+https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E4%B8%AD%E5%85%B1%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%AC%E5%BC%80/a-66995668
+
+Hello World!
+https://tannal.glitch.me/all/
+
+李克强 bbc - Google 搜索
+https://www.google.com/search?q=%E6%9D%8E%E5%85%8B%E5%BC%BA+bbc&sca_esv=593009583&sxsrf=AM9HkKl1JSrNlpnwLjowbOZ1IJX7KzWNag%3A1703222760384&ei=6B2FZdeDF_edseMPudeJ0Ac&ved=0ahUKEwjXl-ycp6KDAxX3TmwGHblrAnoQ4dUDCBA&uact=5&oq=%E6%9D%8E%E5%85%8B%E5%BC%BA+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIg3mnY7lhYvlvLogYmJjMgUQABiABDIIEAAYgAQYiwNIyQtQKljECnABeAGQAQCYAb8BoAGJBqoBAzAuNbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAhAQABiABBiKBRhDGLEDGLEDwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAzCAgcQABiABBgK4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+李克强逝世：被习近平边缘化的“弱势总理” - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67240396
+
+团派 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%9C%98%E6%B4%BE#%E5%9B%A2%E6%B4%BE%E6%A0%B8%E5%BF%83%E4%BA%BA%E7%89%A9
+
+江泽民派系 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%B4%BE%E7%B3%BB
+
+习近平派系 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BF%92%E8%BF%91%E5%B9%B3%E6%B4%BE%E7%B3%BB
+
+无畏契约高校福利大学生认证攻略图文 - 知乎
+https://zhuanlan.zhihu.com/p/665770205
+
+(88封未读) nenu.edu.cn
+https://mail.nenu.edu.cn/js6/main.jsp?sid=Y05A58i3I2TELCv0MOjw4pxhnd7ner-k&show_window=1&show_new=1&hl=zh_CN#module=read.ReadModule%7C%7B%22area%22%3A%22normal%22%2C%22isThread%22%3Afalse%2C%22viewType%22%3A%22%22%2C%22id%22%3A%22AIYALgBEGPLdLNL5w8BcF4o4%22%2C%22fid%22%3A1%7D
+
+Hello World!
+https://tannal.glitch.me/all/
+
+Static Stack-Preserving Intra-Procedural Slicing of WebAssembly Binaries
+https://soft.vub.ac.be/Publications/2022/vub-tr-soft-22-04.pdf
+
+Quentin Stiévenart - Research
+https://qstievenart.gitlab.io/
+
+Dave Binkley - Home
+https://dl.acm.org/profile/81100259861
+
+树莓派 3b+ 供电口难拔出来 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+3b%2B+%E4%BE%9B%E7%94%B5%E5%8F%A3%E9%9A%BE%E6%8B%94%E5%87%BA%E6%9D%A5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+3b%2B+%E4%BE%9B%E7%94%B5%E5%8F%A3%E9%9A%BE%E6%8B%94%E5%87%BA%E6%9D%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCTE3MzQ2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Program Analysis of WebAssembly Binaries
+https://elib.uni-stuttgart.de/bitstream/11682/12638/1/thesis.pdf
+
+Teaching - Software Lab - Department of Computer Science - University of Stuttgart
+https://software-lab.org/teaching.html
+
+lecture_introduction.pdf
+https://software-lab.org/teaching/winter2023/pa/lecture_introduction.pdf
+
+sola-st/DynaPyt: Dynamic analysis framework for Python
+https://github.com/sola-st/DynaPyt
+
+Coen De Roover
+http://soft.vub.ac.be/~cderoove/
+
+Continuing WebAssembly with Effect Handlers pdf - Google 搜索
+https://www.google.com/search?q=Continuing+WebAssembly+with+Effect+Handlers+pdf&oq=Continuing+WebAssembly+with+Effect+Handlers+pdf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDI4NzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+arXiv:2308.08347v3 [cs.PL] 13 Sep 2023
+https://arxiv.org/pdf/2308.08347.pdf
+
+webasembly spec - Google 搜索
+https://www.google.com/search?q=webasembly+spec&oq=webasembly+spec&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgNGB4yCAgEEAAYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRge0gEINDY0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+WebAssembly Specification
+https://webassembly.github.io/spec/core/_download/WebAssembly.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+2311.00646.pdf
+https://arxiv.org/pdf/2311.00646.pdf
+
+JN.1 肠道 - Google 搜索
+https://www.google.com/search?q=JN.1+%E8%82%A0%E9%81%93&sca_esv=593056060&sxsrf=AM9HkKmUqL2GsrJDb32m7k6NTDYSpgpsdA%3A1703241152885&ei=wGWFZbnLNZO84-EP-ICTsAk&ved=0ahUKEwi5q4nf66KDAxUT3jgGHXjABJYQ4dUDCBA&uact=5&oq=JN.1+%E8%82%A0%E9%81%93&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgtKTi4xIOiCoOmBkzIFECEYoAEyBRAhGKABMgUQIRigAUjgMlAAWMIxcAx4AJABAZgBrAGgAe4SqgEEMC4xNrgBA8gBAPgBAcICCBAAGIAEGMsBwgIEEAAYA8ICChAAGIAEGMsBGArCAgYQABgIGB7CAgYQABgeGArCAggQABgFGB4YCsICCBAAGAgYHhgKwgIKEAAYCBgeGA8YCsICCBAAGAUYHhgMwgIKEAAYCBgeGAwYCsICCxAAGAgYHhgKGIsDwgIHECEYoAEYCuIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+多国废水冠病病毒激增 变异株JN.1疑入侵肠道 | 联合早报
+https://www.zaobao.com.sg/news/world/story20231221-1457478
+
+jd1 - Google 搜索
+https://www.google.com/search?q=jd1&sca_esv=593056060&sxsrf=AM9HkKkzWuoA0fP3MteHY-RfWAdwApimyQ%3A1703241416248&ei=yGaFZbHgDt3Rg8UP2rCJsA0&ved=0ahUKEwix5NPc7KKDAxXd6KACHVpYAtYQ4dUDCBA&uact=5&oq=jd1&gs_lp=Egxnd3Mtd2l6LXNlcnAiA2pkMTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyBRAAGIAESLkZUMQDWO0XcAN4AJABAJgBnwGgAdUDqgEDMC4zuAEDyAEA-AEBqAIKwgIEECMYJ8ICChAjGIAEGIoFGCfCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGMcBGK8BwgIREC4YgAQYsQMYgwEYxwEY0QPCAggQABiABBixA8ICDhAAGIAEGIoFGLEDGIMBwgIHECMY6gIYJ8ICDhAuGIAEGLEDGMcBGNEDwgIOEC4YgAQYsQMYgwEY1ALCAgsQLhiABBixAxiDAcICBRAuGIAE4gMEGAEgQYgGAQ&sclient=gws-wiz-serp
+
+世卫：中国目前呼吸道感染病例激增数量没有冠病疫情前多 | 联合早报
+https://www.zaobao.com.sg/realtime/china/story20231127-1452639
+
+国家乡村振兴局 战“疫”科普 酒精浓度越高越好？能否直接对着空气喷洒？
+https://www.nrra.gov.cn/art/2020/2/20/art_3127_112283.html
+
+空气消杀 乙醇 - Google 搜索
+https://www.google.com/search?q=%E7%A9%BA%E6%B0%94%E6%B6%88%E6%9D%80+%E4%B9%99%E9%86%87&oq=%E7%A9%BA%E6%B0%94%E6%B6%88%E6%9D%80+%E4%B9%99%E9%86%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiiBBiJBdIBCDc3NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+病毒确实怕酒精 但使用方法影响消杀效果- 四川省人民政府网站
+https://www.sc.gov.cn/10462/scsfkzs/2020/2/13/8e3e85501373402582ee46076158fef2.shtml
+
+乙醇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B9%99%E9%86%87
+
+呼吸道黏膜 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%91%BC%E5%90%B8%E9%81%93%E9%BB%8F%E8%86%9C
+
+冬季酒精消毒，正确使用很重要
+https://www.cdctj.com.cn/system/2021/01/18/030043377.shtml
 
 
 
