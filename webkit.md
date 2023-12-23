@@ -3,6 +3,26 @@
 
 ```bash
 
+====================================================================
+ WebKit is now built (26m:16s). 
+ To run MiniBrowser with this newly-built code, use the
+ "Tools/Scripts/run-minibrowser" script.
+====================================================================
+
+real	26m16.267s
+user	0m0.365s
+sys	0m0.111s
+
+sudo apt-get -y install ninja-build
+
+
+# install or upgrade flatpak
+sudo apt install flatpak
+
+./Tools/Scripts/update-webkit-flatpak
+
+./Tools/Scripts/update-webkitgtk-libs
+
 ./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands 
 
 ./Tools/Scripts/run-minibrowser
