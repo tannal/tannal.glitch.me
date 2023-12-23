@@ -1,6 +1,8 @@
 
 # 2023-12-21
 
+
+
 ```bash
 
 sudo vim /etc/default/grub
