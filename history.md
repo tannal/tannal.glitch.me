@@ -1,4 +1,121 @@
-2023-12-22
+# 2023-12-23
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=operator&op=translate
+
+台积电 加班 两班倒 - Google 搜索
+https://www.google.com/search?q=%E5%8F%B0%E7%A7%AF%E7%94%B5+%E5%8A%A0%E7%8F%AD+%E4%B8%A4%E7%8F%AD%E5%80%92&sca_esv=593231940&sxsrf=AM9HkKl8LURRP52X0DM5RXx8RbkPs4Yjfg%3A1703322170990&ei=OqKGZbCKPJiZ4-EPuqW1qAs&ved=0ahUKEwiwj8LHmaWDAxWYzDgGHbpSDbUQ4dUDCBA&uact=5&oq=%E5%8F%B0%E7%A7%AF%E7%94%B5+%E5%8A%A0%E7%8F%AD+%E4%B8%A4%E7%8F%AD%E5%80%92&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhrlj7Dnp6_nlLUg5Yqg54-tIOS4pOePreWAkjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI7EZQ3wNYgEZwDngBkAEBmAHKAaABqReqAQYwLjE3LjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIHEAAYgAQYDMICBBAAGB7CAgYQABgIGB7CAgsQABgIGAQYHhiLA-IDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp#ip=1
+
+感染：细菌还是病毒？ - 妙佑医疗国际
+https://www.mayoclinic.org/zh-hans/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098
+
+抗病毒药物 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%8A%97%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9
+
+甲型流感病毒 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%94%B2%E5%9E%8B%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92
+
+抗细菌药 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%8A%97%E7%BB%86%E8%8F%8C%E8%8D%AF
+
+2023年中国呼吸道传染病疫情 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/2023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E7%96%AB%E6%83%85
+
+阿莫西林 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%98%BF%E8%8E%AB%E8%A5%BF%E6%9E%97
+
+布洛芬 - Google 搜索
+https://www.google.com/search?q=%E5%B8%83%E6%B4%9B%E8%8A%AC&oq=%E5%B8%83%E6%B4%9B%E8%8A%AC&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTIxM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+performance - Difference with Linux VmRSS and the total commited memory of Java NativeMemoryTraking (NMT) - Stack Overflow
+https://stackoverflow.com/questions/58430156/difference-with-linux-vmrss-and-the-total-commited-memory-of-java-nativememorytr
+
+Installing Express
+https://expressjs.com/en/starter/installing.html
+
+Express "Hello World" example
+https://expressjs.com/en/starter/hello-world.html
+
+#general > Transition to using `std::time` - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Transition.20to.20using.20.60std.3A.3Atime.60
+
+tannal/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials fork
+https://github.com/tannal/raspi3-tutorial
+
+nodemon - npm
+https://www.npmjs.com/package/nodemon
+
+zhuanlan.zhihu.com
+https://zhuanlan.zhihu.com/p/90330970
+
+WebAssembly/stack-switching: A repository for the stack switching proposal.
+https://github.com/WebAssembly/stack-switching
+
+Using WebAssembly in Deno | Deno Docs
+https://docs.deno.com/runtime/manual/runtime/webassembly/using_wasm
+
+WebAssembly/wabt: The WebAssembly Binary Toolkit
+https://github.com/WebAssembly/wabt
+
+Eric Christopher - Google 搜索
+https://www.google.com/search?q=Eric+Christopher&oq=Eric+Christopher&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDQ5NjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project%20LLVM_ENABLE_PROJECTS&type=code
+
+总加速师 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%B8%BD%E5%8A%A0%E9%80%9F%E5%B8%AB
+
+.bash_aliases - tannalwork [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannalwork
+
+ccache - Google 搜索
+https://www.google.com/search?q=ccache&oq=ccache&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQRRgTGCcYOxiABBiKBTIHCAIQABiABDINCAMQLhjHARjRAxiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGD3SAQgxMDc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+"Host compiler does not support '-fuse-ld=lld'" Error when running CMake command that used to work - Beginners - LLVM Discussion Forums
+https://discourse.llvm.org/t/host-compiler-does-not-support-fuse-ld-lld-error-when-running-cmake-command-that-used-to-work/68008/3
+
+Ccache - Google 搜索
+https://www.google.com/search?q=Ccache&sca_esv=593269269&sxsrf=AM9HkKmEg5TRHYcwL1lOhzF-NYklQGpmCw%3A1703339775804&ei=_-aGZdnRMIL_wAOvjK7ADg&ved=0ahUKEwiZzZKS26WDAxWCP3AKHS-GC-gQ4dUDCBA&uact=5&oq=Ccache&gs_lp=Egxnd3Mtd2l6LXNlcnAiBkNjYWNoZUiSAVAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEB4gMEGAAgQYgGAQ&sclient=gws-wiz-serp
+
+Introduction
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/lectures/L1-Intro.pdf
+
+Phillip B. Gibbons - Google 搜索
+https://www.google.com/search?q=Phillip+B.+Gibbons&oq=Phillip+B.+Gibbons&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Phillip B. Gibbons
+https://www.cs.cmu.edu/~gibbons/
+
+新冠 - Google 搜索
+https://www.google.com/search?q=%E6%96%B0%E5%86%A0&sca_esv=593269269&tbm=nws&sxsrf=AM9HkKnEJNqXaB8q8ascT6NoVqr1q4m7fQ:1703377705146&ei=KXuHZcLICJ6Xvr0PoqS20AM&start=10&sa=N&ved=2ahUKEwiCgaK46KaDAxWei68BHSKSDToQ8tMDegQIBBAE&biw=1280&bih=632&dpr=1.5
+
+防范“唱衰”经济，习近平动用国家机器围剿财经平台
+https://www.voachinese.com/a/prominent-chinese-business-analysts-are-starting-to-disappear-from-social-media-20231222/7408538.html
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+vmrss - Google 搜索
+https://www.google.com/search?q=vmrss&sca_esv=593247003&sxsrf=AM9HkKm1wP3ANRnusa4tzFgVw8-OrcRREA%3A1703329687373&ei=l7-GZYOsFprSjuMP96-qgAs&ved=0ahUKEwjD083HtaWDAxUaqWMGHfeXCrAQ4dUDCBA&uact=5&oq=vmrss&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXZtcnNzSNUBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQHiAwQYACBBiAYB&sclient=gws-wiz-serp
+
+javascript - How to annotate Express middlewares with JSDoc? - Stack Overflow
+https://stackoverflow.com/questions/27266857/how-to-annotate-express-middlewares-with-jsdoc
+
+Eric Christopher - Google 搜索
+https://www.google.com/search?q=Eric+Christopher+&sca_esv=593263867&sxsrf=AM9HkKlgpOIjDw_fZuT9KuA5vOfC9yrgEw%3A1703336746653&ei=KtuGZfanJ_bi2roPkYSRsAs&ved=0ahUKEwj25N3tz6WDAxV2sVYBHRFCBLYQ4dUDCBA&uact=5&oq=Eric+Christopher+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUVyaWMgQ2hyaXN0b3BoZXIgMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSIkhULEVWLEVcAF4AZABAJgBzAGgAcwBqgEDMi0xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp
+
+(1) Eric Christopher (@echristopher) / X
+https://twitter.com/echristopher
+
+
+# 2023-12-22
 
 (1) Bun on X: "more people should follow @thepaperdave" / X
 https://twitter.com/bunjavascript/status/1734090724151534053
@@ -189,7 +306,7 @@ https://www.cdctj.com.cn/system/2021/01/18/030043377.shtml
 
 
 
-2023-12-21
+# 2023-12-21
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me

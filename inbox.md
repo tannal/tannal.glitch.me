@@ -1,4 +1,148 @@
 
+# 2023-12-23
+
+Eric Christopher
+
+Johannes Dooerfert
+
+Intro LLVM
+
+llvm-project
+llvm-project/clang
+llvm-project/llvm
+llvm-project/{lld, lldb, ...}
+
+include/ lib/ tests/ utils/
+
+clang AST
+
+LLVM IR
+
+Selection DAG
+
+LLVM MIR
+
+Machine code
+
+clang opt llc llc llc Machine Code 
+
+
+```bash
+wabt
+sudo make install
+ninja -C out/clang/Debug/ install
+ninja: Entering directory `out/clang/Debug/'
+[25/26] Install the project...
+-- Install configuration: "Debug"
+-- Installing: /usr/local/lib/libwabt.a
+-- Up-to-date: /usr/local/include
+-- Installing: /usr/local/include/wabt
+-- Installing: /usr/local/include/wabt/apply-names.h
+-- Installing: /usr/local/include/wabt/generate-names.h
+-- Installing: /usr/local/include/wabt/tracing.h
+-- Installing: /usr/local/include/wabt/decompiler-ast.h
+-- Installing: /usr/local/include/wabt/validator.h
+-- Installing: /usr/local/include/wabt/resolve-names.h
+-- Installing: /usr/local/include/wabt/expr-visitor.h
+-- Installing: /usr/local/include/wabt/binary-writer.h
+-- Installing: /usr/local/include/wabt/ir-util.h
+-- Installing: /usr/local/include/wabt/lexer-source.h
+-- Installing: /usr/local/include/wabt/binary-reader-ir.h
+-- Installing: /usr/local/include/wabt/opcode.def
+-- Installing: /usr/local/include/wabt/result.h
+-- Installing: /usr/local/include/wabt/base-types.h
+-- Installing: /usr/local/include/wabt/token.h
+-- Installing: /usr/local/include/wabt/feature.h
+-- Installing: /usr/local/include/wabt/cast.h
+-- Installing: /usr/local/include/wabt/shared-validator.h
+-- Installing: /usr/local/include/wabt/sha256.h
+-- Installing: /usr/local/include/wabt/leb128.h
+-- Installing: /usr/local/include/wabt/string-format.h
+-- Installing: /usr/local/include/wabt/filenames.h
+-- Installing: /usr/local/include/wabt/interp
+-- Installing: /usr/local/include/wabt/interp/binary-reader-interp.h
+-- Installing: /usr/local/include/wabt/interp/interp-wasi.h
+-- Installing: /usr/local/include/wabt/interp/istream.h
+-- Installing: /usr/local/include/wabt/interp/interp-inl.h
+-- Installing: /usr/local/include/wabt/interp/interp-util.h
+-- Installing: /usr/local/include/wabt/interp/interp.h
+-- Installing: /usr/local/include/wabt/interp/interp-math.h
+-- Installing: /usr/local/include/wabt/decompiler-ls.h
+-- Installing: /usr/local/include/wabt/binary-reader-logging.h
+-- Installing: /usr/local/include/wabt/c-writer.h
+-- Installing: /usr/local/include/wabt/binary-reader-nop.h
+-- Installing: /usr/local/include/wabt/type.h
+-- Installing: /usr/local/include/wabt/utf8.h
+-- Installing: /usr/local/include/wabt/common.h
+-- Installing: /usr/local/include/wabt/range.h
+-- Installing: /usr/local/include/wabt/error.h
+-- Installing: /usr/local/include/wabt/option-parser.h
+-- Installing: /usr/local/include/wabt/ir.h
+-- Installing: /usr/local/include/wabt/token.def
+-- Installing: /usr/local/include/wabt/opcode-code-table.h
+-- Installing: /usr/local/include/wabt/string-util.h
+-- Installing: /usr/local/include/wabt/lexer-source-line-finder.h
+-- Installing: /usr/local/include/wabt/decompiler.h
+-- Installing: /usr/local/include/wabt/opcode.h
+-- Installing: /usr/local/include/wabt/binary-reader-stats.h
+-- Installing: /usr/local/include/wabt/literal.h
+-- Installing: /usr/local/include/wabt/wast-lexer.h
+-- Installing: /usr/local/include/wabt/binary-writer-spec.h
+-- Installing: /usr/local/include/wabt/binary-reader-objdump.h
+-- Installing: /usr/local/include/wabt/wast-parser.h
+-- Installing: /usr/local/include/wabt/binary-reader.h
+-- Installing: /usr/local/include/wabt/feature.def
+-- Installing: /usr/local/include/wabt/type-checker.h
+-- Installing: /usr/local/include/wabt/error-formatter.h
+-- Installing: /usr/local/include/wabt/stream.h
+-- Installing: /usr/local/include/wabt/color.h
+-- Installing: /usr/local/include/wabt/wat-writer.h
+-- Installing: /usr/local/include/wabt/intrusive-list.h
+-- Installing: /usr/local/include/wabt/binding-hash.h
+-- Installing: /usr/local/include/wabt/decompiler-naming.h
+-- Installing: /usr/local/include/wabt/binary.h
+-- Up-to-date: /usr/local/include
+-- Up-to-date: /usr/local/include/wabt
+-- Installing: /usr/local/include/wabt/config.h
+-- Installing: /usr/local/lib/libwasm-rt-impl.a
+-- Installing: /usr/local/include/wasm-rt.h
+-- Installing: /usr/local/include/wasm-rt-exceptions.h
+-- Installing: /usr/local/share/wabt/wasm2c/wasm-rt-impl.h
+-- Installing: /usr/local/share/wabt/wasm2c/wasm-rt-impl.c
+-- Installing: /usr/local/share/wabt/wasm2c/wasm-rt-exceptions-impl.c
+-- Installing: /usr/local/bin/wat2wasm
+-- Installing: /usr/local/bin/wast2json
+-- Installing: /usr/local/bin/wasm2wat
+-- Installing: /usr/local/bin/wasm2c
+-- Installing: /usr/local/bin/wasm-stats
+-- Installing: /usr/local/bin/wasm-objdump
+-- Installing: /usr/local/bin/wasm-interp
+-- Installing: /usr/local/bin/spectest-interp
+-- Installing: /usr/local/bin/wat-desugar
+-- Installing: /usr/local/bin/wasm-validate
+-- Installing: /usr/local/bin/wasm-strip
+-- Installing: /usr/local/bin/wasm-decompile
+-- Installing: /usr/local/share/man/man1
+-- Installing: /usr/local/share/man/man1/wat-desugar.1
+-- Installing: /usr/local/share/man/man1/wasm-validate.1
+-- Installing: /usr/local/share/man/man1/wasm-interp.1
+-- Installing: /usr/local/share/man/man1/wasm-stats.1
+-- Installing: /usr/local/share/man/man1/spectest-interp.1
+-- Installing: /usr/local/share/man/man1/wast2json.1
+-- Installing: /usr/local/share/man/man1/wat2wasm.1
+-- Installing: /usr/local/share/man/man1/wasm-strip.1
+-- Installing: /usr/local/share/man/man1/wasm-decompile.1
+-- Installing: /usr/local/share/man/man1/wasm2wat.1
+-- Installing: /usr/local/share/man/man1/wasm-objdump.1
+-- Installing: /usr/local/share/man/man1/wasm2c.1
+-- Installing: /usr/local/lib/cmake/wabt/wabt-targets.cmake
+-- Installing: /usr/local/lib/cmake/wabt/wabt-targets-debug.cmake
+-- Installing: /usr/local/lib/cmake/wabt/wabt-config.cmake
+-- Installing: /usr/local/lib/cmake/wabt/wabt-config-version.cmake
+
+```
+vmrss
+
 # 2023-12-21
 
 
