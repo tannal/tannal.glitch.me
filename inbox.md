@@ -1,5 +1,47 @@
 
+# 2023-12-24
+
+![Toit language for IOT](image-1.png)
+
+```bash
+
+cmake_minimum_required(VERSION 2.8.9)
+project (myproject)
+
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+file(GLOB SOURCES "*.cc")
+file(GLOB LIBRARIES "lib/*.a")
+message("LIBRARIES = ${LIBRARIES}")
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+add_executable(myproject ${SOURCES})
+target_link_libraries(myproject ${LIBRARIES})  
+
+
+cmake -S . -B build
+cmake --build build
+
+ln -s build/compile_commands.json compile_commands.json 
+
+```
+
 # 2023-12-23
+
+
+```bash
+
+https://github.com/google/leveldb.git
+
+mkdir -p build && cd build
+cmake -DCMAKE_BUILD_TYPE=Release .. && time cmake --build .
+
+real    0m44.458s
+user    0m40.343s
+sys     0m4.054s
+
+```
 
 Eric Christopher
 
