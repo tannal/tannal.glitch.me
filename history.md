@@ -1,3 +1,318 @@
+# 2023-12-24
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+vmrss - Google 搜索
+https://www.google.com/search?q=vmrss&sca_esv=593247003&sxsrf=AM9HkKm1wP3ANRnusa4tzFgVw8-OrcRREA%3A1703329687373&ei=l7-GZYOsFprSjuMP96-qgAs&ved=0ahUKEwjD083HtaWDAxUaqWMGHfeXCrAQ4dUDCBA&uact=5&oq=vmrss&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXZtcnNzSNUBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQHiAwQYACBBiAYB&sclient=gws-wiz-serp
+
+javascript - How to annotate Express middlewares with JSDoc? - Stack Overflow
+https://stackoverflow.com/questions/27266857/how-to-annotate-express-middlewares-with-jsdoc
+
+Eric Christopher - Google 搜索
+https://www.google.com/search?q=Eric+Christopher+&sca_esv=593263867&sxsrf=AM9HkKlgpOIjDw_fZuT9KuA5vOfC9yrgEw%3A1703336746653&ei=KtuGZfanJ_bi2roPkYSRsAs&ved=0ahUKEwj25N3tz6WDAxV2sVYBHRFCBLYQ4dUDCBA&uact=5&oq=Eric+Christopher+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUVyaWMgQ2hyaXN0b3BoZXIgMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSIkhULEVWLEVcAF4AZABAJgBzAGgAcwBqgEDMi0xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp
+
+(1) Eric Christopher (@echristopher) / X
+https://twitter.com/echristopher
+
+Which C++ extension should i choose: C/C++ or clangd? : vscode
+https://www.reddit.com/r/vscode/comments/1856p4b/which_c_extension_should_i_choose_cc_or_clangd/
+
+How to Force Clangd Work without compile_commands.json? : neovim
+https://www.reddit.com/r/neovim/comments/10oqtbz/how_to_force_clangd_work_without_compile/
+
+c++ - .clangd: use different compiler flags depending on file extension - Stack Overflow
+https://stackoverflow.com/questions/71472340/clangd-use-different-compiler-flags-depending-on-file-extension
+
+Leaving Google for a couple of devices | by Kasper Lund | The Toit Take
+https://blog.toit.io/building-for-billions-bcb48814d864
+
+how to raised funds - Google 搜索
+https://www.google.com/search?q=how+to+raised+funds&sca_esv=593374222&sxsrf=AM9HkKm7bkvY4OORHF4Tmg0lzwXFPDhN0g%3A1703399142389&ei=5s6HZbqjF-OWseMP4867kAQ&ved=0ahUKEwi6rqumuKeDAxVjS2wGHWPnDkIQ4dUDCBA&uact=5&oq=how+to+raised+funds&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2hvdyB0byByYWlzZWQgZnVuZHMyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBhAAGB4YDTIGEAAYHhgNSNsKUABYsQhwAHgAkAEAmAGkAaABrAiqAQMwLji4AQPIAQD4AQH4AQLCAgQQIxgnwgIMECMYgAQYigUYExgnwgIFEAAYgATCAggQABiABBixA8ICDhAuGIAEGLEDGMcBGNEDwgILEC4YgAQYxwEY0QPCAhEQLhiABBixAxiDARjHARjRA8ICChAjGIAEGIoFGCfCAhAQLhiABBiKBRhDGMcBGNEDwgILEAAYgAQYsQMYgwHCAgsQABiABBiKBRixA8ICBRAuGIAEwgIIEAAYgAQYywHiAwQYACBBiAYB&sclient=gws-wiz-serp#ip=1
+
+风险投资 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84#%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8(%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B)
+
+投资银行 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84%E9%93%B6%E8%A1%8C
+
+众筹 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BE%A4%E7%9C%BE%E5%8B%9F%E8%B3%87
+
+树莓派 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%A0%91%E8%8E%93%E6%B4%BE
+
+树莓派溢价 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE%E6%BA%A2%E4%BB%B7&oq=%E6%A0%91%E8%8E%93%E6%B4%BE%E6%BA%A2%E4%BB%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1OTdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//www.edatec.cn/cn/sbc/pi5.html
+
+树莓派 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%A0%91%E8%8E%93%E6%B4%BE
+
+ARM Cortex-A72 - Wikipedia
+https://en.wikipedia.org/wiki/ARM_Cortex-A72
+
+博通 (公司) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8D%9A%E9%80%9A_(%E5%85%AC%E5%8F%B8)
+
+ARM Cortex-A76 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/ARM_Cortex-A76
+
+让树莓派性能翻倍的华丽变身指南：SSD固态硬盘直接启动64位ubuntu server - 知乎
+https://zhuanlan.zhihu.com/p/350210166
+
+CSCI 1270
+https://sites.google.com/view/csci1270/home?authuser=2
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=I%27m%20rusty%20with%20recording%20in%20person&op=translate
+
+csci1270-fall-2023/dbms-projects-handout: Handout repo from which students pull new Go Assignment stencils from
+https://github.com/csci1270-fall-2023/dbms-projects-handout
+
+Brown CS: Computer Science Courses
+https://cs.brown.edu/courses/
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/#/lectures
+
+01Intro
+https://brown-cs1690.github.io/brown-cs167-s23/lectures/01IntroX.pdf
+
+(1) Andy Pavlo (@andy_pavlo@discuss.systems) on X: ".@CMUDB Intro Database Systems #01: Relational Model &amp; Relational Algebra: https://t.co/dwRFjkQsyV Slides: https://t.co/PvWQKBdHRg Notes: https://t.co/7TlymHBUER A student flipped out when I said I won't teach blockchain at 24:44. #Web3 is apparently the future of databases." / X
+https://twitter.com/andy_pavlo/status/1567500892764618756
+
+andy pavlo blockchain - Google 搜索
+https://www.google.com/search?q=andy+pavlo+block+chian&oq=andy+pavlo+block+chian&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEINzgwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+(1) Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+(1) [Ebook] Mobile System Design by Tjeerd - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-mobile-system-design-by-tjeerd.10415/
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.google.com/u/0/uc?id=1J1IEv1P17pDiZf8Cc4qfkPlhYX578cBd&export=download
+
+创作歌手 - Google 搜索
+https://www.google.com/search?q=%E5%88%9B%E4%BD%9C%E6%AD%8C%E6%89%8B&oq=%E5%88%9B%E4%BD%9C%E6%AD%8C%E6%89%8B&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIHCAMQABiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4ODBqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+广东省 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B9%BF%E4%B8%9C%E7%9C%81
+
+ubuntu mate raspberry pi - Google 搜索
+https://www.google.com/search?q=+ubuntu+mate+raspberry+pi&sca_esv=593389473&sxsrf=AM9HkKltG2N_4E1blyBO9frOErsh2hLjMg%3A1703406252508&ei=rOqHZf3ZHrmG4-EPzJKksA8&ved=0ahUKEwj939rk0qeDAxU5wzgGHUwJCfYQ4dUDCBA&uact=5&oq=+ubuntu+mate+raspberry+pi&gs_lp=Egxnd3Mtd2l6LXNlcnAiGSB1YnVudHUgbWF0ZSByYXNwYmVycnkgcGkyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIGEAAYBxgeSNoBUABYAHAAeAGQAQCYAZYBoAGWAaoBAzAuMbgBA8gBAPgBAeIDBBgAIEGIBgE&sclient=gws-wiz-serp#ip=1
+
+C22H48BrN - CAS号查询
+http://www.ichemistry.cn/cas/IHX_C22H48BrN.htm
+
+CAS:2390-68-3|双十烷基二甲基溴化铵_爱化学
+http://www.ichemistry.cn/chemistry/2390-68-3.htm
+
+Didecyldimethylammonium bromide - Google 搜索
+https://www.google.com/search?q=Didecyldimethylammonium+bromide&oq=Didecyldimethylammonium+bromide&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAE0gEHMjE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Linux(Ubuntu) 制作 Windows启动盘 - 知乎
+https://zhuanlan.zhihu.com/p/614746993
+
+WoeUSB/WoeUSB: A Microsoft Windows® USB installation media preparer for GNU+Linux
+https://github.com/WoeUSB/WoeUSB
+
+Releases · WoeUSB/WoeUSB
+https://github.com/WoeUSB/WoeUSB/releases
+
+Windows10启动盘制作 | 官方支持 | ASUS 中国
+https://www.asus.com.cn/support/FAQ/1045693/
+
+下载 Windows 10
+https://www.microsoft.com/zh-cn/software-download/windows10
+
+UltraISO - The Ultimate ISO CD/DVD Image Utility
+https://www.ultraiso.com/
+
+Download Windows 10
+https://www.microsoft.com/en-au/software-download/windows10
+
+linus torvalds - Google 搜索
+https://www.google.com/search?q=linus+torvalds&sca_esv=593418533&sxsrf=AM9HkKmXb5VLq-ZaSFpMdX3mEURhB01gpw%3A1703421213009&ei=HSWIZbwDxoLj4Q_UgrjQDw&gs_ssp=eJzj4tDP1TcwSc9LM2D04svJzCstVijJLypLzEkpBgBq1wjA&oq=linus+to&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGxpbnVzIHRvKgIIADIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBSNQaUN8MWK4ScAF4AZABAJgBrwWgAb8MqgEFNC0yLjG4AQPIAQD4AQHCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgoQABiABBjLARgK4gMEGAAgQYgGAZAGCboGBggBEAEYFA&sclient=gws-wiz-serp#ip=1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+宣传连花清瘟 新加坡 - Google 搜索
+https://www.google.com/search?q=%E5%AE%A3%E4%BC%A0%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F+%E6%96%B0%E5%8A%A0%E5%9D%A1&oq=%E5%AE%A3%E4%BC%A0lianhua&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgATSAQg5NTEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Toit documentation
+https://docs.toit.io/getstarted/device
+
+Jaguar: File watching and live reloading on an ESP32! - YouTube
+https://www.youtube.com/watch?v=cU7zr6_YBbQ
+
+toitlang/jaguar: Use live reloading over WiFI to turbo-charge developing for your ESP32.
+https://github.com/toitlang/jaguar
+
+Course | nivdayan
+https://www.nivdayan.net/database-system-technology-csc443
+
+Project Experimental Results Examples - Google 文档
+https://docs.google.com/document/d/1UcBDrfBbE1FSVqWF8AuHxe3I3glCXLERqeBmIq5TsGE/edit
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+ResearchStatement-NivDayan.pdf
+https://nivdayan.github.io/ResearchStatement-NivDayan.pdf
+
+monkeykeyvaluestore.pdf
+https://nivdayan.github.io/monkeykeyvaluestore.pdf
+
+llvm-project/clang/include/clang/Analysis/CFG.h at 0e07bf91f7e3d5a53f0a51309da12e91ea8accc9 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/0e07bf91f7e3d5a53f0a51309da12e91ea8accc9/clang/include/clang/Analysis/CFG.h#L488
+
+cargo install - The Cargo Book
+https://doc.rust-lang.org/cargo/commands/cargo-install.html
+
+webassembly print - Google 搜索
+https://www.google.com/search?q=webassembly+print&sca_esv=593339930&sxsrf=AM9HkKkvACoAjuR8sgSsj9Qp80M-tKm7Lg%3A1703381677173&ei=rYqHZfb4CZzQ2roPvrCR8A4&ved=0ahUKEwi2g6Oe96aDAxUcqFYBHT5YBO4Q4dUDCBA&uact=5&oq=webassembly+print&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhF3ZWJhc3NlbWJseSBwcmludDIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yCRAAGAUYHhiLAzIJEAAYBRgeGIsDSMIbUKYEWP8YcAF4AZABAJgBygGgAawHqgEFMC40LjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIFEAAYgATCAgYQABgFGB7CAgYQABgIGB7iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+WebAssembly/WASI: WebAssembly System Interface
+https://github.com/WebAssembly/WASI
+
+WASI |
+https://wasi.dev/
+
+wasmtime/docs/WASI-tutorial.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-tutorial.md#running-common-languages-with-wasi
+
+UNIX's "shutdown" has very strange semantics. Do you really want to keep UNIX's legacy? · Issue #547 · WebAssembly/WASI
+https://github.com/WebAssembly/WASI/issues/547
+
+wasmtime/docs/WASI-tutorial.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-tutorial.md#from-c
+
+wasmtime/docs/WASI-intro.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-intro.md
+
+wasmtime/docs/WASI-tutorial.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-tutorial.md#web-assembly-text-example
+
+循环系统 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BE%AA%E7%8E%AF%E7%B3%BB%E7%BB%9F
+
+人矿 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%9F%BF
+
+台积电 工人 知乎 - Google 搜索
+https://www.google.com/search?q=%E5%8F%B0%E7%A7%AF%E7%94%B5+%E5%B7%A5%E4%BA%BA+%E7%9F%A5%E4%B9%8E&sca_esv=593343855&sxsrf=AM9HkKmR_8kwezl4pgoGPKKY7SyjjeZQ_Q%3A1703383492581&ei=xJGHZa6JI7-Lvr0Pnai6qAs&ved=0ahUKEwiu-_b__aaDAxW_ha8BHR2UDrUQ4dUDCBA&uact=5&oq=%E5%8F%B0%E7%A7%AF%E7%94%B5+%E5%B7%A5%E4%BA%BA+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhflj7Dnp6_nlLUg5bel5Lq6IOefpeS5jjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIkFGKIESKwWULYDWKEVcAF4AJABAJgBwgGgAZAKqgEDMC43uAEDyAEA-AEBwgIKEAAYgAQYDBiwA8ICDBAAGAgYHhiwAxiLA8ICBxAAGIAEGAzCAgQQABgewgIJEAAYCBgeGIsD4gMEGAEgQYgGAZAGAw&sclient=gws-wiz-serp#ip=1
+
+Building a Log-Structured Merge Tree in Go - DEV Community
+https://dev.to/justinethier/log-structured-merge-trees-1jha
+
+leveldb/doc/index.md at main · google/leveldb
+https://github.com/google/leveldb/blob/main/doc/index.md
+
+google/leveldb: LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+https://github.com/google/leveldb/tree/main
+
+facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.
+https://github.com/facebook/rocksdb
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+Garth Gibson
+https://www.cs.cmu.edu/~garth/
+
+15-712 Syllabus
+https://www.cs.cmu.edu/~15712/syllabus.html
+
+hamming86.pdf
+https://www.cs.cmu.edu/~15712/papers//hamming86.pdf
+
+google/leveldb: LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+https://github.com/google/leveldb
+
+clangd vs c/c++ - Google 搜索
+https://www.google.com/search?q=clangd+vs+c%2Fc%2B%2B&oq=clangd+vs&gs_lcrp=EgZjaHJvbWUqBwgGEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQzMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How do I add a library path in cmake? - Stack Overflow
+https://stackoverflow.com/questions/28597351/how-do-i-add-a-library-path-in-cmake
+
+rocksdb/third-party/gcc at main · facebook/rocksdb
+https://github.com/facebook/rocksdb/tree/main/third-party/gcc
+
+Installing · Modern CMake
+https://cliutils.gitlab.io/modern-cmake/chapters/install/installing.html
+
+How do I configure cmake to link to prebuilt shared libraries? - Stack Overflow
+https://stackoverflow.com/questions/32980381/how-do-i-configure-cmake-to-link-to-prebuilt-shared-libraries
+
+include lib structure - Google 搜索
+https://www.google.com/search?q=include+lib+structure&oq=include+lib+structure+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY5MTJqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming
+https://github.com/raysan5/raylib
+
+c++ - How to use CMAKE_EXPORT_COMPILE_COMMANDS? - Stack Overflow
+https://stackoverflow.com/questions/20059670/how-to-use-cmake-export-compile-commands
+
+c++ - Define preprocessor macro through CMake? - Stack Overflow
+https://stackoverflow.com/questions/9017573/define-preprocessor-macro-through-cmake
+
+compilation - Build and reference my own local package in Go - Stack Overflow
+https://stackoverflow.com/questions/10416752/build-and-reference-my-own-local-package-in-go
+
+How to Write Go Code - The Go Programming Language
+https://go.dev/doc/code
+
+How to access nested modules (submodules) in Go? - Stack Overflow
+https://stackoverflow.com/questions/57806081/how-to-access-nested-modules-submodules-in-go
+
+Get familiar with workspaces - The Go Programming Language
+https://go.dev/blog/get-familiar-with-workspaces
+
+Toit - a modern framework for IoT by Florian Loitsch | Talk 1 - YouTube
+https://www.youtube.com/watch?v=xko5jLTjLb0
+
+facebookarchive/skybison: Instagram's experimental performance oriented greenfield implementation of Python.
+https://github.com/facebookarchive/skybison
+
+Florian Loitsch
+https://florian.loitsch.com/
+
+Syntax highlighting for Toit. Syntax highlighting is one of these… | by Florian Loitsch | Dec, 2023 | The Toit Take
+https://medium.com/the-toit-take/syntax-highlighting-for-toit-52b2f0fe71cd
+
+esp32 树莓派 - Google 搜索
+https://www.google.com/search?q=esp32+%E6%A0%91%E8%8E%93%E6%B4%BE&sca_esv=593368800&sxsrf=AM9HkKlkEDgcMajHRyNsEnMR46IOY-ysrA%3A1703397305912&ei=uceHZbWgN4GJ4-EPksSsqAI&ved=0ahUKEwj14NG6saeDAxWBxDgGHRIiCyUQ4dUDCBA&uact=5&oq=esp32+%E6%A0%91%E8%8E%93%E6%B4%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIg9lc3AzMiDmoJHojpPmtL4yCBAAGIAEGIsDSNoIUABYvgdwAHgBkAEAmAHqAaABngaqAQUwLjQuMbgBA8gBAPgBAcICCBAAGIAEGMsBwgIHEAAYgAQYDMICBRAAGIAE4gMEGAAgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+Hello World!
+https://tannal.glitch.me/all/
+
+key value store site: cmu.edu - Google 搜索
+https://www.google.com/search?q=key+value+store+site%3A+cmu.edu&oq=key+val&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg4IAhBFGCcYOxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPagCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+15-445/645 Database Systems (Fall 2023) - Lecture Notes - 01 Relational Model & Algebra
+https://15445.courses.cs.cmu.edu/fall2023/notes/01-relationalmodel.pdf
+
+CMU 15-445/645 Database Systems (Fall 2023) :: Relational Model & Algebra
+https://15445.courses.cs.cmu.edu/fall2023/slides/01-relationalmodel.pdf
+
+Log In | Gradescope
+https://www.gradescope.com/login
+
+[Vaccination 2022] RonDB: A Key-Value Store with SQL Capabilities and LATS Properties (Mikael Ronström) - Carnegie Mellon Database Group - Carnegie Mellon Database Group
+https://db.cs.cmu.edu/events/vaccination-2022-rondb-a-key-value-store-with-sql-capabilities-and-lats-properties-mikael-ronstrom/
+
+
 # 2023-12-23
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
