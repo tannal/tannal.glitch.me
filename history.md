@@ -1,3 +1,119 @@
+# 2023-12-25
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Ajustinethier%2Fkeyva%20key&type=code
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+CMU 15-445/645 Database Systems (Fall 2023:: Storage Models & Compression
+https://15445.courses.cs.cmu.edu/fall2023/slides/05-storage3.pdf
+
+Issues · google/btree
+https://github.com/google/btree/issues
+
+#general > Servo was terminated by signal 10 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20was.20terminated.20by.20signal.2010
+
+servo/components/webrender_surfman/Cargo.toml at 554b35b7050523e9cd668d7fbdaa6abbf8bc7746 · servo/servo
+https://github.com/servo/servo/blob/554b35b7050523e9cd668d7fbdaa6abbf8bc7746/components/webrender_surfman/Cargo.toml#L10
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20Latch&type=code
+
+MarybethGasman/servo at feat/cli-fullscreen-option
+https://github.com/MarybethGasman/servo/tree/feat/cli-fullscreen-option
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+10m/s 千兆 - Google 搜索
+https://www.google.com/search?q=10m%2Fs+%E5%8D%83%E5%85%86&oq=10m%2Fs+%E5%8D%83%E5%85%86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEINzE0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+千兆 - Google 搜索
+https://www.google.com/search?q=%E5%8D%83%E5%85%86&oq=%E5%8D%83%E5%85%86&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyDAgHEAAYQxiABBiKBTIMCAgQABhDGIAEGIoFMgcICRAAGIAE0gEIMTY1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+路由器vs手机热点 - Google 搜索
+https://www.google.com/search?q=%E8%B7%AF%E7%94%B1%E5%99%A8vs%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9&oq=%E8%B7%AF%E7%94%B1%E5%99%A8vs%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUwNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+(1 封私信 / 24 条消息) 现在手机都可以开热点了，移动wifi还有什么用呢？ - 知乎
+https://www.zhihu.com/question/295551199
+
+(1 封私信 / 24 条消息) TP–LINK路由器好还是华为路由器好？ - 知乎
+https://www.zhihu.com/question/62352222
+
+signal11 - Google 搜索
+https://www.google.com/search?q=signal11&oq=signal11&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMTQyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+bash - How can I pipe stderr, and not stdout? - Stack Overflow
+https://stackoverflow.com/questions/2342826/how-can-i-pipe-stderr-and-not-stdout
+
+surfman - Google 搜索
+https://www.google.com/search?q=surfman&oq=surfman&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyBggFEEUYPNIBCDE2MjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Posts :: WayNew — Yu-Wei Wu's blog
+https://wusyong.github.io/posts/
+
+Overview of Servo :: WayNew — Yu-Wei Wu's blog
+https://wusyong.github.io/posts/servo-01/
+
+servo/surfman: Accelerated offscreen graphics for WebGL
+https://github.com/servo/surfman
+
+Wayland - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Wayland
+
+go - How can I compare two files in golang? - Stack Overflow
+https://stackoverflow.com/questions/29505089/how-can-i-compare-two-files-in-golang/30038571#30038571
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+key value store site: cmu.edu - Google 搜索
+https://www.google.com/search?q=key+value+store+site%3A+cmu.edu&oq=key+valu&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5Mg4IAhBFGCcYOxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPagCALACAA&sourceid=chrome&ie=UTF-8
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+Hash keys key value store - Google 搜索
+https://www.google.com/search?q=Hash+keys+key+value+store&oq=Hash+keys+key+value+store&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDU5MzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+tannal (tannal) / Repositories
+https://github.com/tannal?tab=repositories
+
+remote job - Google 搜索
+https://www.google.com/search?q=remote+job&oq=remote+job&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTExMDgxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+位于Remote的Software Engineer招聘 | Indeed.com 新加坡
+https://sg.indeed.com/jobs?q=software+engineer&l=Remote&start=10&vjk=3e227317eb958d7a
+
+Web Developer (Shopify, Part-time) - Remote - Indeed.com
+https://sg.indeed.com/viewjob?jk=3e227317eb958d7a&tk=1hihotqqbk3to800&from=serp&vjs=3
+
+Front End Engineer (Enterprise Protocol) - Remote - Indeed.com
+https://sg.indeed.com/viewjob?jk=ac99423a815dc7a3&tk=1higeuk96k4fu800&from=serp&vjs=3
+
+Web Developer Intern - Remote - Indeed.com
+https://sg.indeed.com/viewjob?jk=b787247e8ef37057&tk=1higeuk96k4fu800&from=serp&vjs=3
+
+remote intern job - Google 搜索
+https://www.google.com/search?q=remote+intern+job&oq=remote+intern+job&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgIGB4yCAgGEAAYCBgeMgYIBxBFGD3SAQgzODM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Remote Work Internship的招聘职位 | Indeed.com 新加坡
+https://sg.indeed.com/jobs?q=remote+work+internship&start=10&vjk=4ba6668b6f6a3fad
+
+Software Engineer (Unity) Intern - Singapore 318996 - Indeed.com
+https://sg.indeed.com/viewjob?cmp=Hiverlab-Pte-Ltd&t=Software+Engineer+Intern&jk=6c15ca5d88d834e4&q=remote+work+internship&xpse=SoDG67I3GQWasvgbl70LbzkdCdPP&xkcb=SoAd67M3GQWcuYWdzR0IbzkdCdPP&vjs=3
+
 # 2023-12-24
 
 Poe - nvim definition
