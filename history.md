@@ -1,3 +1,243 @@
+
+# 2023-12-26
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1610.01178.pdf
+https://arxiv.org/pdf/1610.01178.pdf
+
+linux/arch/x86/um/mem_32.c at fbafc3e621c3f4ded43720fdb1d6ce1728ec664e · torvalds/linux
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/um/mem_32.c#L47
+
+tannal (tannal)
+https://github.com/tannal
+
+☂️ Node/npm compatibility issue for Q4 2023 · Issue #20851 · denoland/deno
+https://github.com/denoland/deno/issues/20851
+
+service.rs - deno [GitHub] - Visual Studio Code - GitHub
+https://github.dev/denoland/deno
+
+承德程序员 - Google 搜索
+https://www.google.com/search?q=%E6%89%BF%E5%BE%B7%E7%A8%8B%E5%BA%8F%E5%91%98&oq=chengde&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABDIHCAkQABiABNIBCDk5ODJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+承德 - Google 搜索
+https://www.google.com/search?q=%E6%89%BF%E5%BE%B7&sca_esv=593671130&sxsrf=AM9HkKl9hLgeCMdzaQXYP_tPhqDHfk0IMQ%3A1703557263710&ei=jziKZbD_Kr7x4-EPpMis8AY&ved=0ahUKEwjwgrushayDAxW--DgGHSQkC24Q4dUDCBA&uact=5&oq=%E6%89%BF%E5%BE%B7&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuaJv-W-tzIKECMYgAQYigUYJzIKECMYgAQYigUYJzIKEC4YgAQYigUYQzIFEAAYgAQyChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEj9BFCPA1iPA3ABeAGQAQCYAcIBoAHCAaoBAzAuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+承德市 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%89%BF%E5%BE%B7%E5%B8%82
+
+Arduino - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Arduino
+
+May 2011 – 杨贵福
+https://younggift.net/2011/05/
+
+用傅里叶级数大轮套小轮画任意函数曲线(2) – 杨贵福
+https://younggift.net/2023/10/15/%e7%94%a8%e5%82%85%e9%87%8c%e5%8f%b6%e7%ba%a7%e6%95%b0%e5%a4%a7%e8%bd%ae%e5%a5%97%e5%b0%8f%e8%bd%ae%e7%94%bb%e4%bb%bb%e6%84%8f%e5%87%bd%e6%95%b0%e6%9b%b2%e7%ba%bf2/
+
+ArduinoGraphics - Arduino Reference
+https://www.arduino.cc/reference/en/libraries/arduinographics/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+长白山天池海拔 - Google 搜索
+https://www.google.com/search?q=%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%B5%B7%E6%8B%94&sca_esv=593679243&sxsrf=AM9HkKldsBWSeaJDEfftkvpAgH-K26dcmg%3A1703564445771&ei=nVSKZdvTLpPeseMP4dScoAc&ved=0ahUKEwiblpGNoKyDAxUTb2wGHWEqB3QQ4dUDCBA&uact=5&oq=%E9%95%BF%E7%99%BD%E5%B1%B1%E5%A4%A9%E6%B1%A0%E6%B5%B7%E6%8B%94&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhXplb_nmb3lsbHlpKnmsaDmtbfmi5QyDRAAGIAEGIsDGEYY-wEyGRAAGIAEGIsDGEYY-wEYlwUYjAUY3QTYAQJIp0RQrRxYi0JwAngBkAEAmAGwAaAB1BaqAQQwLjE5uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgQQIxgnwgIIEAAYgAQYsQPCAggQLhixAxiABMICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAgsQLhiABBjHARivAcICDhAuGIAEGLEDGMcBGNEDwgIFEAAYgATCAgQQLhgDwgILEC4YgAQYsQMYgwHCAgsQLhivARjHARiABMICCxAuGIAEGMcBGNEDwgIFEC4YgATCAgQQABgDwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAzCAgcQLhiABBgMwgINEC4YgAQYDBjHARivAcICFhAuGIAEGAwYlwUY3AQY3gQY4ATYAQHCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICChAAGIAEGAwYiwPCAggQABiABBiiBMICDxAAGIAEGAwYiwMYRhj7AcICGxAAGIAEGAwYiwMYRhj7ARiXBRiMBRjdBNgBAuIDBBgAIEGIBgGQBgG6BgYIARABGBS6BgYIAhABGBM&sclient=gws-wiz-serp
+
+飞机飞行高度 - Google 搜索
+https://www.google.com/search?q=%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C%E9%AB%98%E5%BA%A6&oq=%E9%A3%9E%E6%9C%BA%E9%A3%9E%E8%A1%8C&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQzNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+致命公司 - Google 搜索
+https://www.google.com/search?q=%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8&oq=%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgDMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINDc2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Intel® Core™ i7-13700KF Processor
+https://www.intel.com/content/www/us/en/products/sku/230489/intel-core-i713700kf-processor-30m-cache-up-to-5-40-ghz/specifications.html
+
+8路组相连 - Google 搜索
+https://www.google.com/search?q=8%E8%B7%AF%E7%BB%84%E7%9B%B8%E8%BF%9E&oq=8%E8%B7%AF%E7%BB%84&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABNIBCTExMTU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+CSAPP_2016.pdf
+https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf
+
+8-way set associative - Google 搜索
+https://www.google.com/search?q=8-way+set+associative&oq=8-way+set+associative&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCggDEAAYBRgTGB7SAQcxNzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cache-types
+https://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf
+
+rtx3060 - Google 搜索
+https://www.google.com/search?q=rtx3060&oq=rtx3060&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGEMYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIJCAgQABgKGIAEMgcICRAAGIAE0gEIMjMxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+andrew s. tanenbaum - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwNC4oNmD0Ek7MSylKLVco1lMoScxLzUtKLM0FAJF8CgA&q=andrew+s.+tanenbaum&oq=Andrew+S.&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDczMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bjarne stroustrup - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwNE9KMWD0EkzKSizKS1UoLinKLwUSpQUAgMsJ1Q&q=bjarne+stroustrup&oq=Bjarne+s&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIGCAAQRRg5MgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgATSAQg2MDkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+alfred v. aho - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwNMwpNDZg9OJNzEkrSk1RKNNTSMzIBwBgJgeT&q=alfred+v.+aho&oq=Afred+V.+&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDRiABDIGCAAQRRg5MgkIARAuGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRge0gEINTY2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Brian W.Kernighan - Google 搜索
+https://www.google.com/search?q=Brian+W.Kernighan&oq=Brian+W.Kernighan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB7SAQg4MDk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+John E.hopcroft - Google 搜索
+https://www.google.com/search?q=John+E.hopcroft&oq=John+E.hopcroft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHtIBCDY3ODJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+John Hopcroft
+https://www.cs.cornell.edu/jeh/
+
+linux/arch/x86/mm/pgtable.c at fbafc3e621c3f4ded43720fdb1d6ce1728ec664e · torvalds/linux
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/pgtable.c#L563
+
+Linux中的页表实现 - 知乎
+https://zhuanlan.zhihu.com/p/67813716
+
+linux/arch/x86/mm/fault.c at fbafc3e621c3f4ded43720fdb1d6ce1728ec664e · torvalds/linux
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/fault.c#L1239
+
+Search — The Linux Kernel documentation
+https://docs.kernel.org/search.html?q=%22gate%20area%22
+
+linux/mm/memory-failure.c at fbafc3e621c3f4ded43720fdb1d6ce1728ec664e · torvalds/linux
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/mm/memory-failure.c#L510
+
+rust memory layout - Google 搜索
+https://www.google.com/search?q=rust+memory+layout&oq=rust+memory+layout&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMgoIBhAAGAgYChgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEIMzMzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Visualizing memory layout of Rust's data types [See description/first comment] - YouTube
+https://www.youtube.com/watch?v=rDoqT-a6UFg
+
+how rust manages memory - Google 搜索
+https://www.google.com/search?q=how+rust+manages+memory&oq=how+rust+man&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYCBgTGB4yCggDEAAYCBgTGB7SAQg5MjMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Understanding Memory Management in Rust | by Bijesh O S | Geek Culture | Medium
+https://medium.com/geekculture/understanding-memory-management-in-rust-a341cfce9807
+
+rust/library/alloc/src/string.rs at f6456285ddca7db0ffc663d02d9ecaf22d1f0d82 · rust-lang/rust
+https://github.com/rust-lang/rust/blob/f6456285ddca7db0ffc663d02d9ecaf22d1f0d82/library/alloc/src/string.rs#L4
+
+How Rust manages its memory?. Recently I start learning Rust language… | by Madhav Kothari | Dec, 2023 | Medium
+https://mdhvkothari.medium.com/how-rust-manages-its-memory-aeca7d2bbcf3
+
+From in std::convert - Rust
+https://doc.rust-lang.org/std/convert/trait.From.html
+
+Traits: Defining Shared Behavior - The Rust Programming Language
+https://doc.rust-lang.org/book/ch10-02-traits.html
+
+rust/library/core/src/convert/mod.rs at f6456285ddca7db0ffc663d02d9ecaf22d1f0d82 · rust-lang/rust
+https://github.com/rust-lang/rust/blob/f6456285ddca7db0ffc663d02d9ecaf22d1f0d82/library/core/src/convert/mod.rs#L579C1-L585C2
+
+From/Into - Rust By Practice
+https://practice.rs/type-conversions/from-into.html
+
+yolo - Google 搜索
+https://www.google.com/search?q=yolo&oq=yolo&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgwIBRAAGEMYgAQYigUyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxMDA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+caffe - Google 搜索
+https://www.google.com/search?q=caffe&oq=caffe&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABiSAxiABDINCAIQABiSAxiABBiKBTIPCAMQABhDGMkDGIAEGIoFMgoIBBAAGLEDGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAE0gEHODE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#general > Run servo on mac(using mach) - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Run.20servo.20on.20mac.28using.20mach.29
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Basic block - Wikipedia
+https://en.wikipedia.org/wiki/Basic_block
+
+yolo - Google 搜索
+https://www.google.com/search?q=yolo&oq=yolo&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTINCAQQABiDARixAxiABDIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINzc1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+YOLO详解 - 知乎
+https://zhuanlan.zhihu.com/p/25236464
+
+[1506.02640] You Only Look Once: Unified, Real-Time Object Detection
+https://arxiv.org/abs/1506.02640
+
+1506.02640.pdf
+https://arxiv.org/pdf/1506.02640.pdf
+
+(1) Resources
+https://tutflix.org/resources/
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+How to send signal from kernel to user space - Stack Overflow
+https://stackoverflow.com/questions/31646466/how-to-send-signal-from-kernel-to-user-space
+
+linux page fault handler site:stackoverflow.com - Google 搜索
+https://www.google.com/search?q=linux+page+fault+handler+site:stackoverflow.com&sca_esv=593723253&sxsrf=AM9HkKn6Xf7Ejs_cavHhALd_42Lmf-0Raw:1703578577332&sa=X&ved=2ahUKEwi0pcvf1KyDAxV9oGMGHTOXChoQrQIoBHoECDAQBQ&biw=1280&bih=632&dpr=1.5#ip=1
+
+lex fridman - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDOorCzMSSsxYPTizkmtUEgrykzJTcwDAIATCU4&q=lex+fridman&oq=lex+fri&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDcyMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+paper.dvi
+https://users.ece.cmu.edu/~franzf/papers/gttse07.pdf
+
+Srinivas Chellappa - Google 搜索
+https://www.google.com/search?q=Srinivas+Chellappa&oq=Srinivas+Chellappa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Sasa Misailovic Homepage
+https://misailo.web.engr.illinois.edu/
+
+CS 426: Compiler Construction
+https://misailo.web.engr.illinois.edu/courses/426-fa23/#schedule
+
+Intermediate Representations (SSA) pdf site: web.engr.illinois.edu/ - Google 搜索
+https://www.google.com/search?q=Intermediate+Representations+(SSA)+pdf+site%3A+web.engr.illinois.edu%2F&oq=Intermediate+Representations+(SSA)+pdf+site%3A+web.engr.illinois.edu%2F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTI4MDAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+SSA-based Compiler Design
+https://pfalcon.github.io/ssabook/latest/book.pdf
+
+pfalcon (Paul Sokolovsky)
+https://github.com/pfalcon
+
+Compiler code transformations for superscalar-based high performance systems | Proceedings of the 1992 ACM/IEEE conference on Supercomputing
+https://dl.acm.org/doi/10.5555/147877.148138
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+py2cs/A2-科學史/程式史/README.md at master · ccc112a/py2cs
+https://github.com/ccc112a/py2cs/blob/master/A2-%E7%A7%91%E5%AD%B8%E5%8F%B2/%E7%A8%8B%E5%BC%8F%E5%8F%B2/README.md?fbclid=IwAR035iCyFfF1x_u-0ZlUuko0ByVSdIYZG6p_3mFdFCOQNScrh4jS3fm8juA
+
+Sci-Hub: 对每个人的知识
+https://sci-hub.se/
+
+] K. P. Wadleigh and I. L. Crawford. Software Optimization for High-Performance Computing: Creating Faster Applications. Prentice Hall, 2000. - Google 搜索
+https://www.google.com/search?q=%5D+K.+P.+Wadleigh+and+I.+L.+Crawford.+Software+Optimization+for+High-Performance+Computing%3A+Creating+Faster+Applications.+Prentice+Hall%2C+2000.&oq=%5D+K.+P.+Wadleigh+and+I.+L.+Crawford.+Software+Optimization+for+High-Performance+Computing%3A+Creating+Faster+Applications.+Prentice+Hall%2C+2000.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQxMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Steven Stanley Muchnick ( - Google 搜索
+https://www.google.com/search?q=Steven+Stanley+Muchnick+%28&sca_esv=593758061&sxsrf=AM9HkKl0wVBoUGaEf1i5hIbnKL3dlKDiQA%3A1703594979678&ei=48uKZeGFKeGK4-EP6fKhoA0&ved=0ahUKEwihg-vska2DAxVhxTgGHWl5CNQQ4dUDCBA&uact=5&oq=Steven+Stanley+Muchnick+%28&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVN0ZXZlbiBTdGFubGV5IE11Y2huaWNrICgyBRAhGKABSK4LUOgHWOgHcAF4AZABAJgBtgGgAbYBqgEDMC4xuAEDyAEA-AEC-AEBwgIHECMYsAMYJ8ICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+温子仁 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%BA%AB%E5%AD%90%E4%BB%81
+
+rio package - Google 搜索
+https://www.google.com/search?q=rio+package&oq=rio+pa&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDINCAQQLhjHARjRAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQzMDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+O'Reilly Intel Threading Building Blocks OutFitting C++ for Multi-Core Processor Parallelism.pdf
+https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/C%2B%2B/O%27Reilly%20Intel%20Threading%20Building%20Blocks%20OutFitting%20C%2B%2B%20for%20Multi-Core%20Processor%20Parallelism.pdf
+
+(1) James Reinders (@JamesReinders) / X
+https://twitter.com/JamesReinders
+
+jamesreinders.com
+https://jamesreinders.com/
+
+Ladybird: A new cross-platform browser project – Andreas Kling – I like computers!
+https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
+
+15 Minutes Every Day – Andreas Kling – I like computers!
+https://awesomekling.github.io/15-minutes-every-day/
+
 # 2023-12-25
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

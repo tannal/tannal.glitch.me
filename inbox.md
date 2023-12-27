@@ -1,3 +1,44 @@
+# 2023-12-26
+
+do things
+
+
+rust From trait
+
+https://github.com/rust-lang/rust/blob/f6456285ddca7db0ffc663d02d9ecaf22d1f0d82/library/core/src/convert/mod.rs#L579C1-L585C2
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/fault.c#L1239
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/mm/memory-failure.c#L525
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/uapi/asm/signal.h#L4
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/asm/pgtable_types.h#L4
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/asm/pgtable.h
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/pgprot.c#L5
+
+https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/pgtable.c#L563
+
+64bit 
+
+2**40 TB
+
+64 52 48 32 
+
+Intel Core i7/Linux
+
+tag index offset
+
+page table entry -> pte -> unsigned long 
+
+physical page number
+
+63 62 52 51 12 11 9 8 7 6 5 4 3 2 1 0
+
+
+
 # 2023-12-25
 
 Buffer Management
