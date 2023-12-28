@@ -1,5 +1,8 @@
 # 
 
+
+RX TX GAND
+
 https://forums.raspberrypi.com/viewtopic.php?t=42279
 
 qemu-img resize disk.img +16G

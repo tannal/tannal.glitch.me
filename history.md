@@ -1,4 +1,180 @@
 
+# 2023-12-27
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Flexible Software Engineer Jobs in Remote | Indeed.com
+https://www.indeed.com/jobs?q=software+engineer&l=Remote&start=10&vjk=3e227317eb958d7a
+
+RET Software Research Engineer/Scientist - Returnship - Remote - Indeed.com
+https://www.indeed.com/viewjob?jk=6716b3e7a7e0e120&tk=1hikngujhkc3p800&from=serp&vjs=3
+
+Software Engineer - Remote - Indeed.com
+https://www.indeed.com/viewjob?jk=03b17125ddc739d1&tk=1hikngujhkc3p800&from=serp&vjs=3
+
+Frontend Engineer - Remote - Indeed.com
+https://www.indeed.com/viewjob?jk=8a9ba011259b3e46&tk=1hikngujhkc3p800&from=serp&vjs=3
+
+Staff Software Engineer (Remote) - Marietta, GA 30067 - Indeed.com
+https://www.indeed.com/viewjob?jk=903605b35c8c7ec5&tk=1hikngujhkc3p800&from=serp&vjs=3
+
+数据看中国vs世界：世界各国假期对比
+https://www.zhihu.com/tardis/zm/art/368041161?source_id=1003
+
+RangeError: Maximum call stack size exceeded when using z3-solver · Issue #21695 · denoland/deno
+https://github.com/denoland/deno/issues/21695
+
+deno/ext/node/polyfills/worker_threads.ts at 60da9d493c97fdfa026d163f80ddc25ee01a6e57 · denoland/deno
+https://github.com/denoland/deno/blob/60da9d493c97fdfa026d163f80ddc25ee01a6e57/ext/node/polyfills/worker_threads.ts#L133
+
+Support passing paths to `--watch` flag of `deno test` · Issue #21704 · denoland/deno
+https://github.com/denoland/deno/issues/21704
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+denoland/deno at e33c5eb704c22fad69876e87d9b852a4e5072a7a
+https://github.com/denoland/deno/tree/e33c5eb704c22fad69876e87d9b852a4e5072a7a
+
+中国年轻人 bbc - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA+bbc&sca_esv=593876914&sxsrf=AM9HkKn0TSS-WuYfMYcjtQF4Y49nVUTGkw%3A1703641498470&ei=moGLZdetHKOHjuMPxL6jqAI&ved=0ahUKEwjX4tySv66DAxWjg2MGHUTfCCUQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhPkuK3lm73lubTovbvkurogYmJjMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiaEVCeAlj9D3ABeAGQAQCYAaoBoAH0BqoBAzAuNrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgcQIxgnGIsDwgIEECMYJ8ICBRAAGIAEwgIHEAAYgAQYDMICChAAGIAEGAwYiwPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+白纸运动一周年：亲身参与的年轻人们怎么样了？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67529828
+
+躺平一族：为什么一些中国年轻人不再推崇努力工作 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-60400246
+
+中国打击“996”能否解决年轻人的“躺平”焦虑 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-58419492
+
+中國程序員抗議「996」加班走紅網絡 - BBC News 中文
+https://www.bbc.com/zhongwen/trad/chinese-news-47824716
+
+挑战“996”：中国90后互联网员工的梦想与挣扎 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-48009143
+
+挑战“996”：中国90后互联网员工的梦想与挣扎 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-48009143
+
+中国经济2024：如何丧失信心？又如何重建？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67801387
+
+穆迪看衰中国经济 政治局会议称要加码财政政策 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67660504
+
+李克强遗体在京火化 主政十年他给中国经济留下了什么？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67294320
+
+扎实推动共同富裕 - 求是网
+http://www.qstheory.cn/dukan/qs/2021-10/15/c_1127959365.htm
+
+Visualizing Performance - The Developers’ Guide to Flame Graphs • Brendan Gregg • YOW! 2022 - YouTube
+https://www.youtube.com/watch?v=VMpTU15rIZY
+
+tootyta/FlashBrowser2: A small browser capable of viewing/displaying pages with embedded flash content.
+https://github.com/tootyta/FlashBrowser2
+
+Epic Games Launcher Linux - Development / Platform & Builds - Epic Developer Community Forums
+https://forums.unrealengine.com/t/epic-games-launcher-linux/796052/6
+
+up to a point it is better to let the bugs be there than to spend such time in design - Google 搜索
+https://www.google.com/search?q=up+to+a+point+it+is+better+to+let+the+bugs+be+there+than+to+spend+such+time+in+design&oq=up+to+a+point+it+is+better+to+let+the+bugs+be+there+than+to+spend+such+time+in+design&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTQzNzM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+compile to llvm ir - Google 搜索
+https://www.google.com/search?q=compile+to+llvmir&oq=compile+to+llvmir&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgoIAhAAGAgYDRgeMgoIAxAAGAgYDRgeMgoIBBAAGAUYDRge0gEINTQ3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Compiling LLVM IR to Binary
+https://borretti.me/article/compiling-llvm-ir-binary
+
+hand writing llvm ir - Google 搜索
+https://www.google.com/search?q=hand+writing+llvm+ir&oq=hand+writing+llvm+ir&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB7SAQg3MDYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+goto in rust - Google 搜索
+https://www.google.com/search?q=goto+in+rust&oq=goto+in+rust&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMggIBBAAGBMYHjIICAUQABgTGB4yCAgGEAAYExgeMgoIBxAAGAgYExgeMgoICBAAGAgYExgeMgoICRAAGAUYExge0gEIMjU3NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+What's the difference? Arduino vs Raspberry Pi - YouTube
+https://www.youtube.com/watch?v=p40OetppIDg
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Arduino&op=translate
+
+arduino build library - Google 搜索
+https://www.google.com/search?q=arduino+build+library&sca_esv=593908511&sxsrf=AM9HkKm9sB9RRtnByv7gLWjAVwNSwyTXQw%3A1703654714297&ei=OrWLZfPiEfqE4-EPj5KF8Ak&oq=Arduino+build+libar&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhNBcmR1aW5vIGJ1aWxkIGxpYmFyKgIIADIGEAAYHhgNMgsQABgIGB4YDRiLA0jURFDnCliBPHAKeACQAQCYAbwBoAGQE6oBBDAuMTe4AQPIAQD4AQHCAgUQIRigAcICBBAjGCfCAggQABiABBjLAcICChAAGIAEGMsBGArCAgUQABiABMICChAjGIAEGIoFGCfCAgwQIxiABBiKBRgTGCfCAgQQABgewgIGEAAYCBgewgIIEAAYCBgeGArCAggQABgIGB4YD8ICCxAAGAgYHhgPGIsDwgIJEAAYCBgeGIsD4gMEGAEgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+LittleSkin - 快速、可靠的公益 Minecraft 皮肤站
+https://littleskin.cn/
+
+performance engineering site: cmu.edu - Google 搜索
+https://www.google.com/search?q=performance+engineering+site%3A+cmu.edu&sca_esv=593914606&sxsrf=AM9HkKlZ6q0uTa18VN7XGiSRaFU4YocwbQ%3A1703658199850&ei=18KLZYXGM7Cx4-EPtu-HoAc&ved=0ahUKEwjFjciu_a6DAxWw2DgGHbb3AXQQ4dUDCBA&uact=5&oq=performance+engineering+site%3A+cmu.edu&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIiVwZXJmb3JtYW5jZSBlbmdpbmVlcmluZyBzaXRlOiBjbXUuZWR1MgUQIRigAUjbJFCpA1iJIXABeAGQAQCYAfUBoAHfE6oBBjAuMTEuM7gBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICDhAuGIAEGMsBGMcBGK8BwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgPwgIGEAAYHhgPwgIJEAAYCBgeGIsD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+tannal (tannal) / Repositories
+https://github.com/tannal?tab=repositories
+
+Writing a Library for Arduino | Arduino Documentation
+https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide
+
+arduino gui library - Google 搜索
+https://www.google.com/search?q=arduino+gui+library&oq=Arduino+ui+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIICAAQRRgeGDkyCQgBEAAYChiABDIICAIQABgKGB4yCggDEAAYChgPGB4yCAgEEAAYCBgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINTY3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+use Arduino in java - Google 搜索
+https://www.google.com/search?q=use+Arduino+in+java&sca_esv=593908511&sxsrf=AM9HkKkdal2RV-YYhVbM8vo_5WBwJal5_g%3A1703655076739&ei=pLaLZdDcLKGYjuMP8qyToAc&ved=0ahUKEwjQvqzd8a6DAxUhjGMGHXLWBHQQ4dUDCBA&uact=5&oq=use+Arduino+in+java&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3VzZSBBcmR1aW5vIGluIGphdmEyBRAhGKABMgUQIRigAUjJKVDoBFjLJnABeAGQAQCYAbQBoAG6DqoBBDAuMTO4AQPIAQD4AQH4AQLCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAhQQLhiDARivARjHARixAxiABBiKBcICCxAuGIAEGMcBGNEDwgIEECMYJ8ICERAuGIMBGK8BGMcBGLEDGIAEwgIFEAAYgATCAgsQLhiABBjHARivAcICCBAAGIAEGMsBwgIHEAAYgAQYCsICBBAAGB7CAgYQABgIGB7iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Vector - Arduino Reference
+https://www.arduino.cc/reference/en/libraries/vector/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+云产品免费体验馆_云产品免费试用_个人云产品试用-腾讯云
+https://cloud.tencent.com/act/pro/free
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+raspi3b+ TX, RX, GND to the corresponding pins on rpi3 - Google 搜索
+https://www.google.com/search?q=raspi3b%2B++TX,+RX,+GND+to+the+corresponding+pins+on+rpi3&sca_esv=593961768&tbm=isch&sxsrf=AM9HkKnz1tZ41c0sDXNjH_tB6p7omqhDZA:1703675755170&source=lnms&sa=X&ved=2ahUKEwjL6Mvhvq-DAxX5zDgGHaJ7BNAQ_AUoAXoECAIQAw&biw=1280&bih=632&dpr=1.5#imgrc=xhm4nw7qcWwAAM
+
+raspi3b+ TX, RX, GND to the corresponding pins on rpi3 - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fen.opensuse.org%2Fimages%2F5%2F53%2FRaspberry-Pi-wire-TX-RX-GND.png&tbnid=h5Gl_NJQpMZV-M&vet=12ahUKEwidl4jlvq-DAxXrvGMGHSHCAOUQMygAegQIARBG..i&imgrefurl=https%3A%2F%2Fen.opensuse.org%2FHCL%3ARaspberry_Pi3_Serial_Console&docid=I5-w002rvBBj9M&w=1081&h=802&q=raspi3b%2B%20%20TX%2C%20RX%2C%20GND%20to%20the%20corresponding%20pins%20on%20rpi3&ved=2ahUKEwidl4jlvq-DAxXrvGMGHSHCAOUQMygAegQIARBG
+
+Raspberry Pi 3 B+ Pinout with GPIO functions, Schematic and Specs in detail
+https://www.etechnophiles.com/raspberry-pi-3-b-pinout-with-gpio-functions-schematic-and-specs-in-detail/
+
+command line - How do I connect to TTY/COM (/dev/ttyUSB0)? - Ask Ubuntu
+https://askubuntu.com/questions/40959/how-do-i-connect-to-tty-com-dev-ttyusb0
+
+screen is terminating - Google 搜索
+https://www.google.com/search?q=screen+is+terminating&oq=screen+is+terminating&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgzMDA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+树莓派act灯 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BEact%E7%81%AF&oq=%E6%A0%91%E8%8E%93%E6%B4%BEact%E7%81%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCTEwMTY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+树莓派 ACT LED 指示灯闪烁模式代表的状态 | 树莓派实验室
+https://shumeipai.nxez.com/2021/05/26/raspberry-pi-act-led-error-patterns.html
+
+树莓派LED指示灯状态的解释 | 树莓派实验室
+https://shumeipai.nxez.com/2014/09/30/raspberry-pi-led-status-detail.html
+
+(7) How to access your Raspberry Pi over Serial UART - YouTube
+https://www.youtube.com/watch?v=-kGc2H35tRs
+
+raspi3b serial console - Google 搜索
+https://www.google.com/search?q=raspi3b+serial+console&sca_esv=593975244&tbm=vid&sxsrf=AM9HkKmUy57Vo_Mfvz33qMKcqs1iwrT1VQ:1703679247138&source=lnms&sa=X&ved=2ahUKEwiVutjiy6-DAxVDSWwGHRByB1EQ_AUoAnoECAEQBA&biw=1280&bih=632&dpr=1.5
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
 # 2023-12-26
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

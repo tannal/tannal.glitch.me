@@ -2,7 +2,6 @@
 
 do things
 
-
 rust From trait
 
 https://github.com/rust-lang/rust/blob/f6456285ddca7db0ffc663d02d9ecaf22d1f0d82/library/core/src/convert/mod.rs#L579C1-L585C2
