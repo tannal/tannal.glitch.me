@@ -1,3 +1,215 @@
+# 2023-12-28
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+Resources
+https://tutflix.org/resources/
+
+天下无鱼 - 专注于矿业工程技术、矿业开发学习、工程软件、编程干货分享的小博客
+https://shikey.com/
+
+Vue2.x+ElementUI实现小区物业管理系统 (附项目源代码) - 天下无鱼
+https://shikey.com/2023/12/28/vue2-xelementui-implementation-of-community-property-management-system.html/comment-page-1#comment-210328
+
+560-Vue2.x+ElementUI实现小区物业管理系统 (附项目源代码)_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/s/18jgnNOY_uUI48yNxuhPczA#list/path=%2Fsharelink1103194460824-608622678244567%2F560-Vue2.x%2BElementUI%E5%AE%9E%E7%8E%B0%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20(%E9%99%84%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81)&parentPath=%2Fsharelink1103194460824-608622678244567
+
+Guy Davidson c++ - Google 搜索
+https://www.google.com/search?q=Guy+Davidson+c%2B%2B&sca_esv=594112619&sxsrf=AM9HkKkm1UQpSwa8A3r3gSThYhnMIS2KeA%3A1703725384893&ei=SMmMZcqZNuegg8UP0Jev2Ac&ved=0ahUKEwjK3fHS97CDAxVn0KACHdDLC3sQ4dUDCBA&uact=5&oq=Guy+Davidson+c%2B%2B&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEd1eSBEYXZpZHNvbiBjKysyCBAAGIAEGMsBSLAkUIcBWMYicAF4AZABAJgBtwGgAcgEqgEDMC40uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAAGB7CAgYQABgeGArCAgYQABgIGB7CAggQABgIGB4YD-IDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp#ip=1
+
+(3) Facebook
+https://www.facebook.com/shiwulo
+
+CSES
+https://cses.fi/
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+(3) Facebook
+https://www.facebook.com/ccckmit
+
+(3) Facebook
+https://www.facebook.com/ccckmit
+
+How many students are enrolled at Tokyo University? - Google 搜索
+https://www.google.com/search?q=How+many+students+are+enrolled+at+Tokyo+University%3F&sca_esv=594199241&sxsrf=AM9HkKln2f9v52mgrq9hnDkdzjFQnf-P9w%3A1703760649950&ei=CVONZZTROYvV1e8P3YadyAM&ved=0ahUKEwjU-cmC-7GDAxWLavUHHV1DBzkQ4dUDCBA&uact=5&oq=How+many+students+are+enrolled+at+Tokyo+University%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiM0hvdyBtYW55IHN0dWRlbnRzIGFyZSBlbnJvbGxlZCBhdCBUb2t5byBVbml2ZXJzaXR5P0gAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQHiAwQYACBB&sclient=gws-wiz-serp
+
+coldplay - Google 搜索
+https://www.google.com/search?q=coldplay&oq=coldplay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIOCAIQRRgnGDsYgAQYigUyBggDECMYJzIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE1OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(1) BKR | CEO of GTMX on X: "@ThePrimeagen nothing beats github issues AND game dev at the same time. Linux is truly the best community out there. https://t.co/oWocFAzCby" / X
+https://twitter.com/me_bkr_dev/status/1739735932599693312
+
+Absolutely a Waste of Time · Issue #1666 · google/googletest
+https://github.com/google/googletest/issues/1666
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+canvas drawpoint - Google 搜索
+https://www.google.com/search?q=canvas+drawpoint&sca_esv=594212558&sxsrf=AM9HkKmSdM7pfpNIbouTUmOKcbs9bG66Rw%3A1703764815058&ei=T2ONZcuUA_bi1e8P4dCVmAI&ved=0ahUKEwiL-NPEirKDAxV2cfUHHWFoBSMQ4dUDCBA&uact=5&oq=canvas+drawpoint&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGNhbnZhcyBkcmF3cG9pbnQyBRAAGIAEMgYQABgFGB4yBhAAGAUYHki-NlDCDFjCNXABeAGQAQCYAdgBoAG1F6oBBTAuNi45uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICCxAuGIAEGMcBGNEDwgIFEC4YgATCAgsQLhjHARjRAxiABMICGhAuGIAEGMcBGNEDGJcFGNwEGN4EGOAE2AEBwgIOEC4YgAQYywEYxwEY0QPCAggQABiABBjLAcICERAuGIAEGMsBGMcBGK8BGI4FwgIdEC4YgAQYywEYxwEY0QMYlwUY3AQY3gQY4ATYAQHCAhEQLhivARjHARjLARiABBiOBcICBBAAGB7CAgYQABgeGAriAwQYACBBiAYBkAYFugYGCAEQARgU&sclient=gws-wiz-serp
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+小米手机能接网线么？ - V2EX
+https://www.v2ex.com/t/678171
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres+fread%28&type=code
+
+postgres/src/backend/utils/misc/guc.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/utils/misc/guc.c#L5698
+
+postgres/src/backend/utils/cache/relcache.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/utils/cache/relcache.c#L6154
+
+postgres/src/backend/storage/file/buffile.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/storage/file/buffile.c#L585
+
+postgres/src/backend/postmaster/postmaster.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/postmaster/postmaster.c#L6248
+
+postgres/src/bin/psql/psqlscanslash.l at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/bin/psql/psqlscanslash.l#L796
+
+postgres/src/backend/utils/adt/genfile.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/utils/adt/genfile.c#L138
+
+postgres/src/backend/utils/time/snapmgr.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/utils/time/snapmgr.c#L1446
+
+postgres/src/backend/commands/extension.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/commands/extension.c#L3482
+
+Tomas Senart - Google 搜索
+https://www.google.com/search?q=Tomas+Senart&sca_esv=594112619&sxsrf=AM9HkKkCb84EiknUTi1HRBOENczzuBZMzQ%3A1703725826856&ei=AsuMZf34M8SQ4-EP4pi1wAs&ved=0ahUKEwj9gdGl-bCDAxVEyDgGHWJMDbgQ4dUDCBA&uact=5&oq=Tomas+Senart&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIgxUb21hcyBTZW5hcnQyBxAAGB4YiwNI_0ZQ7xdY7EVwAXgBkAEAmAHaAqABoxKqAQcwLjUuNC4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgwQIxiABBiKBRgTGCfCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIOEC4YgAQYsQMYxwEY0QPCAgoQLhiABBiKBRhDwgIREC4YgwEYxwEYsQMY0QMYgATCAgUQLhiABMICCBAAGIAEGMsBwgIIEC4YgAQYywHCAg4QLhiABBjLARjHARivAcICChAAGIAEGMsBGArCAhcQLhiABBjLARiXBRjcBBjeBBjfBNgBAcICChAuGIAEGMsBGArCAgQQABgewgIGEAAYHhgKwgIGEC4YHhgKwgIGEAAYCBgewgIIEAAYBRgeGArCAgYQABgFGB7iAwUSATEgKeIDBBgAIEGIBgGQBgi6BgYIARABGBQ&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%83%B3%E8%B1%A1%E5%8A%9B&op=translate
+
+postgres/src/backend/access/transam/xloginsert.c at 58054de2d0847c09ef091956f72ae5e9fb9a176e · postgres/postgres
+https://github.com/postgres/postgres/blob/58054de2d0847c09ef091956f72ae5e9fb9a176e/src/backend/access/transam/xloginsert.c#L475
+
+postgresql internals pdf - Google 搜索
+https://www.google.com/search?q=postgresql+internals+pdf&oq=postgresql+internn&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCDQ5OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tour.pdf
+https://www.postgresql.org/files/developer/tour.pdf
+
+Tom Lane (computer scientist) - Wikipedia
+https://en.wikipedia.org/wiki/Tom_Lane_(computer_scientist)
+
+PostgreSQL - Wikipedia
+https://en.wikipedia.org/wiki/PostgreSQL
+
+PGCon2011: Tom Lane
+https://www.pgcon.org/2011/schedule/speakers/202.en.html
+
+Excalidraw
+https://excalidraw.com/
+
+parallel processing - Multithreading vs Shared Memory - Stack Overflow
+https://stackoverflow.com/questions/58591487/multithreading-vs-shared-memory
+
+how to create shared memory in linux - Google 搜索
+https://www.google.com/search?q=how+to+create+shared+memory+in+linux&oq=how+to+creae+shaed+memory&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCggIEAAYDRgPGB4yCAgJEAAYDRge0gEINzgxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+sam altman - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1Tcwyq4wMMsxYPTiKk7MVUjMKclNzAMAVN0HWg&q=sam+altman&oq=sa&gs_lcrp=EgZjaHJvbWUqDAgBEC4YJxiABBiKBTIGCAAQRRg5MgwIARAuGCcYgAQYigUyCAgCEEUYJxg7MgYIAxBFGDsyEwgEEC4YgwEYxwEYsQMY0QMYgAQyBggFEEUYPDIGCAYQRRg9MgYIBxBFGD3SAQoxODI2OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+when is the case to use ccache? - Stack Overflow
+https://stackoverflow.com/questions/10136761/when-is-the-case-to-use-ccache
+
+User Delan Azabani - Stack Overflow
+https://stackoverflow.com/users/330644/delan-azabani
+
+Unix and C Programming - Google 幻灯片
+https://docs.google.com/presentation/d/1V0daPBXxOrxb4Ckrfhodf2QO-6Ag067y8am479oIjB0/edit#slide=id.g1681ad0a6d_1_10
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+cmake build examples - Google 搜索
+https://www.google.com/search?q=cmake+build+examples&oq=cmake+build+examples&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgIGB4yCAgDEAAYCBgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEIMzA3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+How to switch between terminals in Visual Studio Code? - Stack Overflow
+https://stackoverflow.com/questions/48440673/how-to-switch-between-terminals-in-visual-studio-code
+
+contribute to nodejs - Google 搜索
+https://www.google.com/search?q=contribute+to+nodejs&oq=contribute+to+nodejs&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIKCAMQABgPGBMYHjIICAQQABgTGB4yCggFEAAYBRgTGB7SAQkxMDE2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node/tree/main
+
+nodejs compilationdatabase - Google 搜索
+https://www.google.com/search?q=nodejs+compilationdatabase&sca_esv=594178564&sxsrf=AM9HkKmEfrhSY0BfcrN_bANmx68L3Igr8g%3A1703751258715&ei=Wi6NZbafK-_b1e8P_ciOgAM&oq=nodejs+compi+database&gs_lp=Egxnd3Mtd2l6LXNlcnAiFW5vZGVqcyBjb21waSBkYXRhYmFzZSoCCAAyChAhGKABGMMEGApIsB9QzwxY2xFwAngBkAEAmAGCAqABhgiqAQUwLjMuMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBiiBOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Node.js Core - Neovim Setup
+https://blog.rafaelgss.com.br/nodejs-core-neovim-setup
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8
+
+learning-ai/openai at main · danbev/learning-ai
+https://github.com/danbev/learning-ai/tree/main/openai
+
+cctest node core - Google 搜索
+https://www.google.com/search?q=cctest+node+core&sca_esv=594178564&sxsrf=AM9HkKlBe7SLFM_ZihTym-3GGQxdmwLlrQ%3A1703752659374&ei=0zONZa-5FoiWvr0PtZGa8AU&ved=0ahUKEwjv7q-g3bGDAxUIi68BHbWIBl4Q4dUDCBA&uact=5&oq=cctest+node+core&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGNjdGVzdCBub2RlIGNvcmVI5gdQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAOIDBBgBIEGIBgE&sclient=gws-wiz-serp
+
+On deps/v8 in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2019/06/08/on-deps-v8-in-node-js/
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+EnvironmentTest&type=issues&p=1
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+cctest&type=issues
+
+Hello World!
+https://tannal.glitch.me/all/
+
+九龙 - Google 搜索
+https://www.google.com/search?q=%E4%B9%9D%E9%BE%99&oq=%E4%B9%9D%E9%BE%99&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEC4YgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEC4YgATSAQgzNDA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How to use shared memory with Linux in C - Stack Overflow
+https://stackoverflow.com/questions/5656530/how-to-use-shared-memory-with-linux-in-c
+
+Web Jobs, Employment in Remote | Indeed.com
+https://www.indeed.com/jobs?q=web&l=Remote&vjk=c85102e9244f1114
+
+五十音图 - Google 搜索
+https://www.google.com/search?q=%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE&sca_esv=594185462&tbm=isch&sxsrf=AM9HkKmISNrWRU37l9mzATZ2u6MpS1M71Q:1703755169084&source=lnms&sa=X&ved=2ahUKEwj3sYzN5rGDAxVeb_UHHZHRBCQQ_AUoAXoECAIQAw&biw=1280&bih=632&dpr=1.5
+
+五十音图 - Google 搜索
+https://www.google.com/imgres?imgurl=http%3A%2F%2Fwsyt.oss-cn-beijing.aliyuncs.com%2Fimage%2F20180515%2Fb50974df20a14a1d6dbad95b916d2080.png&tbnid=JVHbgElKeLjOIM&vet=12ahUKEwiH57vO5rGDAxXKnFYBHZLxDVcQMygIegQIARBU..i&imgrefurl=http%3A%2F%2Fwww.wushiyintu.com%2Fwushiyintu%2F6218.html&docid=kjZorsQsQVl-7M&w=382&h=312&q=%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE&ved=2ahUKEwiH57vO5rGDAxXKnFYBHZLxDVcQMygIegQIARBU
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+fs: use private fields instead of symbols for `Dir` · nodejs/node@c141335
+https://github.com/nodejs/node/commit/c14133503acfab1048957ddb5c7914f983ee84de
+
+Canvas Circle Drawing
+http://localhost:8082/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 
 # 2023-12-27
 
