@@ -1,3 +1,75 @@
+# 2023-12-27
+
+
+```bash
+
+// CMake examples project every single file is a executable
+
+cmake_minimum_required(VERSION 3.0)
+
+project(MyProject)
+
+set(CMAKE_CXX_STANDARD 11)
+
+file(GLOB EXAMPLE_SOURCES "*.cc")
+
+foreach(EXAMPLE_SOURCE ${EXAMPLE_SOURCES})
+    get_filename_component(EXAMPLE_NAME ${EXAMPLE_SOURCE} NAME_WE)
+    add_executable(${EXAMPLE_NAME} ${EXAMPLE_SOURCE})
+endforeach()
+
+```
+
+Convenience wrapper for compiling V8 with gn/ninja and running tests.
+Sets up build output directories if they don't exist.
+Produces simulator builds for non-Intel target architectures.
+Uses Goma by default if it is detected (at output directory setup time).
+Expects to be run from the root of a V8 checkout.
+
+Usage:
+    gm.py [<arch>].[<mode>[-<suffix>]].[<target>] [testname...] [--flag]
+
+All arguments are optional. Most combinations should work, e.g.:
+    gm.py ia32.debug x64.release x64.release-my-custom-opts d8
+    gm.py android_arm.release.check --progress=verbose
+    gm.py x64 mjsunit/foo cctest/test-bar/*
+
+For a less automated experience, pass an existing output directory (which
+must contain an existing args.gn), e.g.:
+    gm.py out/foo unittests
+
+Flags are passed unchanged to the test runner. They must start with -- and must
+not contain spaces.
+
+<arch> can be any of: ia32 x64 arm arm64 mips64el ppc ppc64 riscv32 riscv64 s390 s390x android_arm android_arm64 loong64 fuchsia_x64 fuchsia_arm64
+<mode> can be any of: release rel debug dbg optdebug opt
+<target> can be any of:
+ - d8, cctest, v8_unittests, v8_fuzzers, wasm_api_tests, wee8, mkgrokdump, generate-bytecode-expectations, inspector-test, bigint_shell, wami (build respective binary)
+ - all (build all binaries)
+ - tests (build test binaries)
+ - check (build test binaries, run most tests)
+ - checkall (build all binaries, run more tests)
+
+3 year experience of software 
+
+postmaster dump
+
+associate is automatic
+
+logical -> imagination
+
+Learn -> doing creating making impact
+
+one way -> two way
+
+linear -> exponential
+
+general vague -> specilized highly needed
+
+write perfect code -> make things happen quickly
+
+
+
 # 2023-12-26
 
 do things
