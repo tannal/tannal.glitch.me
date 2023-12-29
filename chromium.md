@@ -7,6 +7,13 @@ gclient sync
 
 ```bash
 
+export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+
+
+mkdir chromium && cd chromium
+
+fetch chromium
+
 autoninja -C out/Default chrome
 
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json

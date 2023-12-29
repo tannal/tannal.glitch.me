@@ -1,3 +1,295 @@
+# 2023-12-29
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+Welcome to Astro.
+https://tannal.web.app/
+
+(1) Chris Bieneman (@thegreatbeanz) / X
+https://twitter.com/thegreatbeanz
+
+(1) Gokhan Avkarogullari (@gavkar) / X
+https://twitter.com/gavkar
+
+(1) Mishal Shah (@mishaldshah) / X
+https://twitter.com/mishaldshah
+
+(1) Dominik Witczak (@DomWitczak) / X
+https://twitter.com/DomWitczak
+
+clang is suboptimal for `log(pow(x, y))` with fast-math · Issue #76549 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/76549
+
+Compiler Explorer
+https://godbolt.org/z/1fvYPxY37
+
+reviews.llvm.org
+http://reviews.llvm.org/
+
+kitbarton (Kit Barton)
+https://github.com/kitbarton
+
+(1) Ted Kremenek (@tkremenek) / X
+https://twitter.com/tkremenek
+
+Epic Games Launcher Linux - Development / Platform & Builds - Epic Developer Community Forums
+https://forums.unrealengine.com/t/epic-games-launcher-linux/796052/2
+
+Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+Academind Pro - Go - The Complete Guide - TutFlix - Free Education Community
+https://tutflix.org/resources/academind-pro-go-the-complete-guide.10389/
+
+Academind Pro - Go - The Complete Guide Updated 12-2023.rar - Google 云端硬盘
+https://drive.google.com/file/d/1nuP3mmg5JncR4ZbIJfT6P5rIhC6DPATI/view
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.google.com/u/0/uc?id=1nuP3mmg5JncR4ZbIJfT6P5rIhC6DPATI&export=download
+
+tplink ac1200 下载速度 - Google 搜索
+https://www.google.com/search?q=tplink+ac1200+%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6&sca_esv=594381902&sxsrf=AM9HkKmvlTcD_ItilBfKbiDUciA6RQCi8g%3A1703834766905&ei=jnSOZePsNt7c4-EPlpOV4A8&ved=0ahUKEwjj66WQj7SDAxVe7jgGHZZJBfwQ4dUDCBA&uact=5&oq=tplink+ac1200+%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnRwbGluayBhYzEyMDAg5LiL6L296YCf5bqmMgkQIRigARgKGCpIwzZQnyVYzzVwAngBkAEAmAGbA6AB2ROqAQkwLjEuNC4zLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKEAAYgAQYywEYCsICCRAAGIAEGA0YE8ICCBAAGB4YDRgTwgIKEAAYCBgeGA0YE8ICBxAhGKABGArCAggQABgIGB4YDeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+TL-WDR6300
+http://192.168.1.1/
+
+(8) 2019 LLVM Developers’ Meeting: C. Bieneman & K. Barton “How to Contribute to LLVM ” - YouTube
+https://www.youtube.com/watch?v=C5Y977rLqpw&t=3057s
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+千兆宽带WIFI只跑620M啥问题呀，跪求大神指点！?
+https://www.zhihu.com/tardis/zm/ans/2687237685?source_id=1003
+
+Resources
+https://tutflix.org/resources/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/6532a0c4b3a3654015c116bd
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+buffer management in postgresql - Google 搜索
+https://www.google.com/search?q=buffer+management+in+postgresql&oq=buffer+management+in+post&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDkwNzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+The Internals of PostgreSQL : Chapter 8 Buffer Manager
+https://www.interdb.jp/pg/pgsql08.html
+
+The Internals of PostgreSQL : Chapter 5 Concurrency Control
+https://www.interdb.jp/pg/pgsql05.html#_5.3.4.
+
+Disruptive Programming Language Technologies Todd A. Proebsting Microsoft Research April 24, ppt download
+https://slideplayer.com/slide/3855960/
+
+Excalidraw
+https://excalidraw.com/
+
+(1) Jessica Paquette (@barrelshifter) / X
+https://twitter.com/barrelshifter
+
+kimono - Google 搜索
+https://www.google.com/search?q=kimono&oq=kimono&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTM2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+LLVM Language Reference Manual — LLVM 18.0.0git documentation
+https://llvm.org/docs/LangRef.html
+
+Compiler Explorer
+https://godbolt.org/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Million.js
+https://million.dev/
+
+Issues · aidenybai/million
+https://github.com/aidenybai/million/issues
+
+"High-school student makes React.js a million times faster" Will this make Notion faster?? : Notion
+https://www.reddit.com/r/Notion/comments/146n1as/highschool_student_makes_reactjs_a_million_times/
+
+python三大神器之virtualenv - 似是故人来~ - 博客园
+https://www.cnblogs.com/freely/p/8022923.html
+
+open source consulting companies - Google 搜索
+https://www.google.com/search?q=open+source+consulting+companies&sca_esv=594443261&sxsrf=AM9HkKlQ4UHTDJrU-y8lqBZa2yg1YOqdfQ%3A1703860826737&ei=WtqOZdnJLLGw4-EPv_aI2A0&oq=open+source+consulting+comp&gs_lp=Egxnd3Mtd2l6LXNlcnAiG29wZW4gc291cmNlIGNvbnN1bHRpbmcgY29tcCoCCAAyCBAAGIAEGMsBMggQABgIGB4YD0iUF1DuB1ieDXABeAGQAQCYAfoBoAGeB6oBBTAuNC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICDhAuGIAEGMsBGMcBGNEDwgIEEAAYHsICBhAAGB4YD8ICBhAAGAgYHsICCBAAGAUYHhgK4gMEGAAgQYgGAZAGBQ&sclient=gws-wiz-serp#ip=1
+
+Careers – Opensource Pte Ltd.
+https://www.opensource.com.sg/careers/
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+About -
+http://kroah.com/log/about/
+
+Getting a Job as a Kernel or Driver Developer : linux
+https://www.reddit.com/r/linux/comments/8v37y2/getting_a_job_as_a_kernel_or_driver_developer/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Get-the-code
+
+Flexible Software Engineer Jobs in Remote | Indeed.com
+https://www.indeed.com/jobs?q=software+engineer&l=Remote&radius=50&start=10&vjk=e588b325e1128040
+
+kdlp.underground.software/course/spring2023/assignments/A2.md
+https://kdlp.underground.software/course/spring2023/assignments/A2.md
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+LLVM - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/LLVM
+
+Chris Lattner - Google 搜索
+https://www.google.com/search?q=Chris+Lattner&oq=Chris+Lattner&gs_lcrp=EgZjaHJvbWUqEQgAEEUYOxhDGOMCGIAEGIoFMhEIABBFGDsYQxjjAhiABBiKBTIMCAEQLhhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgwICBAAGEMYgAQYigUyBwgJEAAYgATSAQc0NTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Vikram S. Adve
+https://vikram.cs.illinois.edu/
+
+Evan Cheng llvm - Google 搜索
+https://www.google.com/search?q=Evan+Cheng+llvm&oq=Evan+Cheng+llvm&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAE0gEIMTc3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+知乎日报 - 知乎
+https://daily.zhihu.com/story/9143841
+
+登录 X / X
+https://twitter.com/i/flow/login?redirect_after_login=%2Ftkremenek
+
+反馈 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8F%8D%E9%A6%88
+
+陶喆 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwLKxMKS4yYPRiezlz29NpbQBHvwgu&q=%E9%99%B6%E5%96%86&oq=%E9%99%B6&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQLhiABDINCAUQLhjHARjRAxiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABNIBCDQ1MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+瑞士教育: 瑞士教育制度简介
+http://ch.china-embassy.gov.cn/chn/zl/rsgk/201202/t20120206_3417573.htm
+
+登录 X / X
+https://twitter.com/i/flow/login?redirect_after_login=%2Ftkremenek
+
+[Preview] README.md - tannal.web.app [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.web.app
+
+The Firebase Blog
+https://firebase.blog/
+
+Install Astro with the Automatic CLI | Docs
+https://docs.astro.build/en/install/auto/
+
+• Discord | #help-and-questions | Supabase
+https://discord.com/channels/839993398554656828/1006358244786196510
+
+Steve Gardner - Make More Pointless Things - YouTube
+https://www.youtube.com/watch?v=q1qSxmfMIcI&list=PL58Wk5g77lF-UQ39pejLX2Zn5DxQyExBa&index=14
+
+React cosmos - Google 搜索
+https://www.google.com/search?q=React+cosmos&oq=React+cosmos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#general > JSDOM alternative reusing Servo's code? - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/JSDOM.20alternative.20reusing.20Servo's.20code.3F
+
+servo/components/script/dom at f77554bfa37ad9db085619363f769192b8141ea3 · servo/servo
+https://github.com/servo/servo/tree/f77554bfa37ad9db085619363f769192b8141ea3/components/script/dom
+
+gotty.edu
+http://gotty.edu/publications/digital/
+
+leaflet - Google 搜索
+https://www.google.com/search?q=leaflet&oq=leaflet&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQc5NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&sca_esv=594370659&sxsrf=AM9HkKn--mhr12fnXYuJAcQYmS_lZEJb6A%3A1703830696812&ei=qGSOZdScMePj1e8PipKx6Ak&oq=nvidia+nas&gs_lp=Egxnd3Mtd2l6LXNlcnAiCm52aWRpYSBuYXMqAggAMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUi1C1AAWIwFcAB4AZABAJgB5AKgAcsJqgEHMC4xLjMuMbgBA8gBAPgBAcICBBAjGCfCAgwQIxiABBiKBRgTGCfCAgoQABiABBiKBRhD4gMEGAAgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+TPE: 2357 - Google 搜索
+https://www.google.com/search?sca_esv=594370659&sxsrf=AM9HkKnL7elaIFqcR-P3bcdLM_8Reh1FSA:1703830699966&q=TPE:+2357&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNkrMris0qeBaxcoYEuFopGBmbmgMArDrHmkYAAAA&sa=X&ved=2ahUKEwjh0oP9_7ODAxUBiq8BHYY5COoQoe4JegQIFBAH
+
+fire生活方式 - Google 搜索
+https://www.google.com/search?q=fire%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F&sca_esv=594370659&sxsrf=AM9HkKl_hdZS6pYN5b9oeQ-cF57RiS6ngw%3A1703830882813&ei=YmWOZYKhMb_e1e8P8fu-gAM&oq=fire+life&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWZpcmUgbGlmZSoCCAQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIxRZQAFgAcAJ4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+Coldplay Greatest Hits Song Full Album | Coldplay Best Music Playlist - YouTube
+https://www.youtube.com/watch?v=A4HL0qrWjKA
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
+MarybethGasman/kerneldev: quickly set up kernel dev environment
+https://github.com/MarybethGasman/kerneldev
+
+Instant GraphQL APIs on your data | Built-in Authz & Caching
+https://hasura.io/
+
+gatsby netlify - Google 搜索
+https://www.google.com/search?q=gatsby+netlify+&sca_esv=594399591&sxsrf=AM9HkKnVuYeXQIodLZRPSfVgdTvCaXFRGA%3A1703842810108&ei=-pOOZaWaBo6Q4-EP__OdoA8&ved=0ahUKEwil_8uLrbSDAxUOyDgGHf95B_QQ4dUDCBA&uact=5&oq=gatsby+netlify+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2dhdHNieSBuZXRsaWZ5IDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IiyNQigVYwyFwAXgBkAEAmAGnAaAB7QWqAQMwLjW4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Seth Ladd - Web engineer
+https://sethladd.com/
+
+Better error message when missing `--unstable` · Issue #21712 · denoland/deno
+https://github.com/denoland/deno/issues/21712
+
+ThePrimeagen/rust-for-typescript-devs
+https://github.com/ThePrimeagen/rust-for-typescript-devs
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno%20.unwrap&type=code
+
+deno/cli/js.rs at 576b20aa005c233b95afe6e3692a899ae8f755f2 · denoland/deno
+https://github.com/denoland/deno/blob/576b20aa005c233b95afe6e3692a899ae8f755f2/cli/js.rs#L40
+
+node/lib/fs.js at 9fe0424baa862005327dd0e3318425a211632f92 · nodejs/node
+https://github.com/nodejs/node/blob/9fe0424baa862005327dd0e3318425a211632f92/lib/fs.js#L449
+
+File system | Node.js v21.5.0 Documentation
+https://nodejs.org/api/fs.html#file-system-flags
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=every%20other%20line&op=translate
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+postgres/src/include/storage/buf_internals.h at 541e8f14a185495f814ae0a0876a0d0c4118833a · postgres/postgres
+https://github.com/postgres/postgres/blob/541e8f14a185495f814ae0a0876a0d0c4118833a/src/include/storage/buf_internals.h#L93
+
+Florian Hahn
+https://fhahn.com/
+
+Jessica Paquette llvm - Google 搜索
+https://www.google.com/search?q=Jessica+Paquette+llvm&sca_esv=594424414&sxsrf=AM9HkKnPAL63tOEHQZ-OhSZQXqxlifoEfA%3A1703853890568&ei=Qr-OZZmfIsSD4-EPj_qayA4&ved=0ahUKEwiZyJWv1rSDAxXEwTgGHQ-9BukQ4dUDCBA&uact=5&oq=Jessica+Paquette+llvm&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhVKZXNzaWNhIFBhcXVldHRlIGxsdm1ImQtQ1ANYnwlwAHgCkAEAmAGnAaAByAWqAQMwLjW4AQPIAQD4AQHCAgQQABhHwgIIEAAYgAQYywHCAgsQABiABBjLARiLA-IDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp
+
+Language Support in Visual Studio Code
+https://code.visualstudio.com/docs/languages/overview
+
+Writing an LLVM Pass: 101 - LLVM 2019 tutorial
+https://llvm.org/devmtg/2019-10/slides/Warzynski-WritingAnLLVMPass.pdf
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+pred_empty%28&type=code
+
+lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+https://github.com/lukasz-madon/awesome-remote-job
+
+Red Hat Jobs | Opportunities are open
+https://www.redhat.com/en/jobs
+
+
+
 # 2023-12-28
 
 财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网

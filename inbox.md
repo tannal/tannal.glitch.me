@@ -1,5 +1,17 @@
 # 2023-12-29
 
+https://www.collabora.com/careers.html
+
+virtualenv --version
+
+virtualenv mypython
+
+source mypython/bin/activate
+
+buildroot openwrt yocto
+
+BuildRoot OpenWrt Yocto
+
 LLVM IR 
 
 instructions
@@ -93,6 +105,28 @@ Here are my preferred settings
 
 web intent
 
+React/Next/Typescript Flux Redux BootStrap, ANT Design, Tailwind Babel, Webpack, NPM
+
+Ideally worked on Web Applications like SaaS, doing React front-end components.
+
+React, GitHub, Java, Gradle, Groovy, MySQL, Snowflake, Docker, AWS, Slack, and JIRA
+
+NodeJS NestJS MySQL MongoDB ReactJS NextJS Bootstrap/Material REST APIs Docker TDD CI/CD JEST/ Mocha, Jenkins, Selenium Stripe, RabbitMQ, Redis, AWS Elasticsearch
+
+Use of Docker in local and production environments
+
+Python, Java, or C++ TensorFlow, Caffe, PyTorch, Keras, Scikit Learn, and Theano
+
+Python, Ruby on Rails, React.js or React Native
+
+Python, Django, React, AWS/OpenStack, MySQL, MongoDB, PostgreSQL, Debian Ubuntu Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker RabbitMQ, Redis & Elasticsearch IOS & Android
+
+NodeJS/Rails/django/go/elixir/java/flask/laravel
+
+Java, Kotlin and the Android SDK, Android Studio, Material Spec
+
+.NET, C#, SQL Server, IIS
+
 figma HTML CSS Next.js, Apollo GraphQL, React
 
 AWS, Azure, Google Cloud
@@ -151,6 +185,20 @@ Working knowledge of React and REST API’s
 Strong experience developing large-scale modern architectures in AWS
 Strong knowledge on RDMS and NoSQL database technologies in AWS
 Experience in data strategy – warehousing, ELT – Snowflake, RedShift, BigQuery
+
+Required
+
+Bachelor's degree and less than 2 years related experience.
+Knowledge of software QA / test methodologies and process.
+Familiarity with Java, Maven and Selenium.
+Familiarity with issue/bug tracking systems, such as JIRA.
+Excellent oral and written communication skills.
+Preferred
+
+Familiarity with one or more of the followings: Javascript, DOM HTML and React Native (or AngularJS).
+Knowledge of SQL, Shell scripting, Cloud platforms.
+Knowledge of API testing.
+Knowledge of working in agile product teams (Scrum and Kanban)
 
 ```bash
 No build type specified so assuming `--dev`.
