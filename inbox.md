@@ -1,4 +1,251 @@
-# 2023-12-27
+# 2023-12-29
+
+LLVM IR 
+
+instructions
+
+basic block can have a label consists of list of instructions
+
+last is terminator
+
+```llvm
+
+define i32 @foo(i32 %a) {
+  entry:
+    %sum = add i32 %a, 10
+    %cond = icmp eq i32 %sum, 99
+    br i1 %cond, label %bb1, label %bb2
+  bb1:
+    call void @use(i32 %sum, i32 %sum)
+    ret i32 %sum
+  bb2:
+    ret i32 0
+}
+
+```
+
+- opcode
+
+%sum = add i32 %a, 10
+
+call void @use(i32 %sum)
+
+buffer table & buffer descripter & buffer pool
+
+every other line 每隔一行
+
+String &str
+
+vec! HashSet HashMap
+
+{:?} debug print
+
+.iter().count().sum().filter().for_each().collect()
+
+enumerate skip take
+
+push based pull based iterator & generator & iter() & collect()
+
+push no collect
+
+pull has collect manually
+
+
+
+### TypeScript setup
+
+This should be easy enough. we will just use ts-node (feel free to use swc or
+whatever you want)
+
+```bash
+npm init -y
+npm install ts-node typescript @types/node
+npx tsc --init
+```
+
+<br />
+
+#### **Edit your tsconfig.json**
+
+We want things to be strict, so don't forget to turn on all the things.
+
+Here are my preferred settings
+
+```json
+"strict": true,
+"noImplicitAny": true,
+"strictNullChecks": true,
+"strictFunctionTypes": true,
+"strictBindCallApply": true,
+"strictPropertyInitialization": true,
+"noImplicitThis": true,
+"useUnknownInCatchVariables": true,
+"alwaysStrict": true,
+"noUnusedLocals": true,
+"noUnusedParameters": true,
+"exactOptionalPropertyTypes": true,
+"noImplicitReturns": true,
+"noFallthroughCasesInSwitch": true,
+"noUncheckedIndexedAccess": true,
+"noImplicitOverride": true,
+"noPropertyAccessFromIndexSignature": true,
+```
+
+web intent
+
+figma HTML CSS Next.js, Apollo GraphQL, React
+
+AWS, Azure, Google Cloud
+
+MySQL, PostgreSQL, MongoDB
+
+JavaScript and TypeScript
+
+Git Node.js Docker, Kubernetes
+
+Four or more years of experience in two or more of the following skill sets:
+Ruby (Rails)
+Go and related tooling
+JavaScript (React, TypeScript, Relay)
+MySQL and database management
+NodeJS development
+Design and build REST and/or GraphQL APIs
+Experience with CI/CD tools and automated pipelines
+Preferred Qualifications
+Experience with Git, GitHub , Actions & workflow platform for version control and collaborative development.
+Internals of web development frameworks, tools, and client performance optimization.
+Building developer tools and pipelines that streamline and automate software lifecycle, including development, testing and releasing, with focus on speed, reliability and scalability.
+Excellent written and verbal communication via async collaboration, documentation, and visibility of work
+Hands-on experience with distributed systems at global scale.
+Experience working with a remote, distributed team.
+Familiarity with SQL, Kusto Query Language, general database knowledge, Kubernetes, and/or cloud-native concepts
+Passionate about fostering effective Engineering practices and processes and contribute to open source software, engage with maintainers, and actively participate in community curation.
+Compensation Range: USD $104,400.00 - USD $276,900.00 /Yr.
+
+In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role.
+
+
+A bachelor/master in Informatics (or related);
+Proven professional experience in OO programming and web development;
+Attentive to details, delivering quality code which is maintainable, efficient and reliable;
+Experienced in MySQL, or other relational databases;
+Familiar with version-control and automated testing tools;
+Used to work in JSON/XML/CSV formats and have no issues with HTML/CSS;
+Experienced in Ruby or Ruby and Rails (the right candidate will be considered without this experience);
+Good in English communication and teamwork.
+
+1+ years of experience with a Javascript framework (VueJS, Alpine)
+
+MySQL
+Modern PHP: composer, PHPUnit, Laravel
+Javascript: VueJS, Alpine JS, Webpack, NPM, Node
+CSS, Tailwind
+Familiarity working with Bash/Shell, Git, Docker, Kubernetes, testing frameworks
+
+3+ years of software development experience
+Strong computer science fundamentals and programing skills
+Experience with IPASS platforms such as Mulesoft, Boomi and Workato
+Experience managing software development in an agile environment with CI/CD and automated testing – CirlceCI, Jenkins, CodePipeline, ElasticBeanstalk, GitHub Actions
+Proficiency in programming languages JavaScript/TypeScript, Python, SQL
+Working knowledge of React and REST API’s
+Strong experience developing large-scale modern architectures in AWS
+Strong knowledge on RDMS and NoSQL database technologies in AWS
+Experience in data strategy – warehousing, ELT – Snowflake, RedShift, BigQuery
+
+```bash
+No build type specified so assuming `--dev`.
+Caught signal 11 in thread "main"
+   0: servo::backtrace::print
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/backtrace.rs:18:5
+   1: servo::crash_handler::install::handler
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/crash_handler.rs:38:21
+   2: <unknown>
+   3: wl_list_insert
+   4: wl_proxy_create_wrapper
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: surfman::egl::Egl::Initialize
+             at /home/tannal/tannalwork/projects/servo/target/debug/build/surfman-368674826c3bff34/out/egl_bindings.rs:471:156
+   9: surfman::platform::unix::wayland::connection::Connection::from_wayland_display::{{closure}}
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/unix/wayland/connection.rs:140:22
+  10: std::thread::local::LocalKey<T>::try_with
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/thread/local.rs:270:16
+  11: std::thread::local::LocalKey<T>::with
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/thread/local.rs:246:9
+  12: surfman::platform::unix::wayland::connection::Connection::from_wayland_display
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/unix/wayland/connection.rs:128:9
+  13: surfman::platform::unix::wayland::connection::Connection::from_raw_display_handle
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/unix/wayland/connection.rs:189:13
+  14: surfman::platform::unix::wayland::implementation::connection::<impl surfman::connection::Connection for surfman::platform::unix::wayland::connection::Connection>::from_raw_display_handle
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/unix/wayland/../../../implementation/connection.rs:87:9
+  15: surfman::platform::generic::multi::connection::Connection<Def,Alt>::from_raw_display_handle
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/generic/multi/connection.rs:199:15
+  16: <surfman::platform::generic::multi::connection::Connection<Def,Alt> as surfman::connection::Connection>::from_raw_display_handle
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/generic/multi/connection.rs:329:9
+  17: surfman::platform::generic::multi::connection::Connection<Def,Alt>::from_raw_display_handle
+             at /home/tannal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/surfman-0.8.0/src/platform/generic/multi/connection.rs:199:15
+  18: servo::headed_window::Window::new
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/headed_window.rs:129:26
+  19: servo::app::App::run
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/app.rs:75:21
+  20: servo::main2::main
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/main2.rs:139:5
+  21: servo::main
+             at /home/tannal/tannalwork/projects/servo/ports/servoshell/main.rs:62:13
+  22: core::ops::function::FnOnce::call_once
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/core/src/ops/function.rs:250:5
+  23: std::sys_common::backtrace::__rust_begin_short_backtrace
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/sys_common/backtrace.rs:154:18
+  24: std::rt::lang_start::{{closure}}
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/rt.rs:166:18
+  25: core::ops::function::impls::<impl core::ops::function::FnOnce<A> for &F>::call_once
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/core/src/ops/function.rs:284:13
+      std::panicking::try::do_call
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panicking.rs:504:40
+      std::panicking::try
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panicking.rs:468:19
+      std::panic::catch_unwind
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panic.rs:142:14
+      std::rt::lang_start_internal::{{closure}}
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/rt.rs:148:48
+      std::panicking::try::do_call
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panicking.rs:504:40
+      std::panicking::try
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panicking.rs:468:19
+      std::panic::catch_unwind
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/panic.rs:142:14
+      std::rt::lang_start_internal
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/rt.rs:148:20
+  26: std::rt::lang_start
+             at /rustc/a28077b28a02b92985b3a3faecf92813155f1ea1/library/std/src/rt.rs:165:17
+  27: main
+  28: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  29: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:392:3
+  30: _start
+Servo was terminated by signal 11
+
+```
+
+12.23 - 1.6 chrismas
+
+discussion & docs & code review & fix bugs
+
+impact > learning
+
+most time in particip
+
+Jamstack Story book React Style guidist React cosmos
+
+Full Stack
+
+less time in side project
+
+wasm learning a lof of things from llvm
+
+# 2023-12-28
 
 
 ```bash

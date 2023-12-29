@@ -7,7 +7,14 @@ https://kdlp.underground.software/course/spring2023/assignments/A3.md
 
 https://farabimahmud.github.io/emulate-raspberry-pi3-in-qemu/
 
+```bash
 
+sudo apt-get install -y bison flex libelf-dev cpio build-essential libssl-dev
+cp /boot/config-$(uname -r)* .config
+make olddefconfig
+make kernelversion
+time make -j20
+```
 
 
 ```patch
