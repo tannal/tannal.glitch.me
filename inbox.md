@@ -1,4 +1,18 @@
+# 2023-12-30
+
+Realtime process 0-99
+
+Normal process 100-139
+
+Nice -20-19
+
+PR_new = PR_old + Nice
+
+Priority
+
+
 # 2023-12-29
+
 
 https://www.collabora.com/careers.html
 
@@ -7,6 +21,8 @@ virtualenv --version
 virtualenv mypython
 
 source mypython/bin/activate
+
+pip freeze
 
 buildroot openwrt yocto
 
