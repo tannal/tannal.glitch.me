@@ -1,5 +1,97 @@
 # 2023-12-30
 
+```bash
+
+git clone https://github.com/MarybethGasman/tiktok.git
+
+mvnw
+
+chmod +x mvnw
+
+./mvnw install
+./mvnw deploy
+
+```
+
+
+```bash
+
+git clone https://github.com/redis/redis.git
+cd redis/
+time make -j20
+
+real	0m38.028s
+user	2m28.108s
+sys	0m17.239s
+
+git clone https://github.com/memcached/memcached.git
+
+sudo apt-get install autotools-dev automake libevent-dev
+
+After that you can build memcached binary using automake
+
+cd memcached
+./autogen.sh
+./configure
+time make -j20
+
+real	0m1.496s
+user	0m18.721s
+sys	0m1.818s
+
+make test
+
+```
+
+```bash
+
+TODO
+
+kubectl get node
+E1230 10:07:55.915576   17811 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": context deadline exceeded - error from a previous attempt: EOF
+E1230 10:08:27.917669   17811 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": context deadline exceeded - error from a previous attempt: EOF
+
+sudo curl -fsSL https://get.docker.com |bash
+
+sudo groupadd docker
+
+sudo usermod -aG docker $USER
+
+docker run hello-world
+
+# k8s
+
+curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+
+chmod +x kubectl
+mkdir -p ~/.local/bin
+mv ./kubectl ~/.local/bin/kubectl
+
+# minikube
+
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+sudo install minikube-linux-amd64 /usr/local/bin/minikube
+
+minikube start --driver docker
+
+minikube status
+
+kubectl config view
+minikube start
+
+kubectl get node
+
+oc get pods
+
+kubctl get pods
+
+```
+
+```bash
+sudo apt-get install linux-tools-common linux-tools-generic linux-tools-`uname -r`
+
+```
+
 Realtime process 0-99
 
 Normal process 100-139
@@ -10,11 +102,15 @@ PR_new = PR_old + Nice
 
 Priority
 
+python fabric
+
 
 # 2023-12-29
 
 
 https://www.collabora.com/careers.html
+
+```bash
 
 virtualenv --version
 
@@ -22,7 +118,11 @@ virtualenv mypython
 
 source mypython/bin/activate
 
+deactivate
+
 pip freeze
+
+```
 
 buildroot openwrt yocto
 
