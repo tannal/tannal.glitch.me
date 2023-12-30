@@ -1,5 +1,136 @@
 # 2023-12-30
 
+STM32MP1 platform boot
+
+https://github.com/rust-lang/rust/blob/8d76d076665f862ec9619f2de68d6d9ca1db4601/library/core/src/option.rs#L570
+
+2 copy 256kb
+
+```bash
+
+[[example]]
+name = "example1"
+path = "src/example1.rs"
+
+```
+
+
+
+```bash
+
+git clone https://git.yoctoproject.org/poky -b dunfell
+
+git clone -b dunfell \
+    git://git.yoctoproject.org/poky.git
+
+git clone -b dunfell \
+    git://git.yoctoproject.org/meta-raspberrypi.git
+
+git clone -b dunfell \
+    git://git.openembedded.org/meta-openembedded
+
+source poky/oe-init-build-env
+
+```
+
+telnet 127.0.0.1 11211
+
+stats
+
+^] ^D exit telnet
+
+```bash
+
+set lisi 0 0  3    3       #插入一个数据
+aaa              #插入的数据为aaa
+STORED             #返回“STORED”则表示插入成功
+get lisi                  #查询插入的数据
+VALUE lisi 0 3          
+aaa
+END
+set lisi 0 0 4          #修改“lisi”这个key的值为bbbb
+bbbb
+STORED
+get lisi          #再次查看，确定更改成功
+VALUE lisi 0 4
+bbbb
+
+```
+
+
+```bash
+
+sudo apt-get install build-essential kmod linux-headers-`uname -r`
+
+
+obj-m += hello.o
+
+.PHONY: build clean load unload
+
+build:
+	make -C /lib/modules/$(shell uname -r)/build modules M=$(shell pwd)
+
+clean:
+	make -C /lib/modules/$(shell uname -r)/build clean M=$(shell pwd)
+
+load:
+	sudo insmod hello.ko
+unload:
+	-sudo rmmod hello
+
+
+#include <linux/init.h>
+#include <linux/module.h>
+
+MODULE_LICENSE("GPL");
+
+static int hello_init(void)
+{
+    printk(KERN_ALERT "Hello, world\n");
+    return 0;
+}
+
+static void hello_exit(void)
+{
+    printk(KERN_ALERT "Goodbye, cruel world\n");
+}
+
+module_init(hello_init);
+module_exit(hello_exit);
+
+```
+
+singer keyboard guitar bass drummer
+
+You need to fight with environment
+
+It sucks, but everyone suffer from it
+
+
+&self no mut
+
+https://github.com/rust-lang/rust/blob/8d76d076665f862ec9619f2de68d6d9ca1db4601/library/core/src/option.rs#L570
+
+https://llvm.org/OpenProjects.html#gsoc23
+
+https://www.outreachy.org/
+
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+https://www.igalia.com/coding-experience/
+
+deno
+
+servo
+
+v8 llvm-project node linux
+
+
+
+```bash
+
+```
+
 ```bash
 
 git clone https://github.com/MarybethGasman/tiktok.git

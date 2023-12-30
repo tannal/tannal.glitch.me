@@ -14,7 +14,13 @@ mkdir chromium && cd chromium
 
 fetch chromium
 
-autoninja -C out/Default chrome
+cd src
+
+./build/install-build-deps.sh
+
+gn gen out/Default
+
+time autoninja -C out/Default chrome
 
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
