@@ -1,6 +1,42 @@
 # 2023-12-30
 
 
+
+```bash
+
+$env:HTTP_PROXY = "http://192.168.43.1:7890"
+$env:HTTPS_PROXY = "http://192.168.43.1:7890"
+
+set http_proxy=http://192.168.43.1:7890
+set https_proxy=http://192.168.43.1:7890
+
+$progressPreference = 'silentlyContinue'
+Write-Information "Downloading WinGet and its dependencies..."
+Invoke-WebRequest -Uri https://aka.ms/getwinget -OutFile Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+Invoke-WebRequest -Uri https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx -OutFile Microsoft.VCLibs.x64.14.00.Desktop.appx
+Invoke-WebRequest -Uri https://github.com/microsoft/microsoft-ui-xaml/releases/download/v2.7.3/Microsoft.UI.Xaml.2.7.x64.appx -OutFile Microsoft.UI.Xaml.2.7.x64.appx
+Add-AppxPackage Microsoft.VCLibs.x64.14.00.Desktop.appx
+Add-AppxPackage Microsoft.UI.Xaml.2.7.x64.appx
+Add-AppxPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+
+winget install -e --id Google.Chrome
+winget install --id Git.Git -e --source winget
+winget install -e --id Corel.WinZip
+winget install -e --id Kitware.CMake
+winget install -e --id Python.Python.3.10
+winget install ChristianSchenk.MiKTeX
+winget install -e --id Logitech.OptionsPlus
+winget install --id chocolatey.chocolatey
+
+
+https://datsuka-qwerty.hatenablog.com/entry/latex/windows_install
+
+https://tug.org/texlive/windows.html#install
+
+
+```
+
+
 amdgpu-install -y --accept-eula --opencl=rocr --opengl=mesa --vulkan=pro
 
 sudo update-grub2
