@@ -22,6 +22,13 @@ gn gen out/Default
 
 time autoninja -C out/Default chrome
 
+ninja: Entering directory `out/Default'
+[57719/57719] LINK ./chrome
+
+real	106m52.983s
+user	2379m13.189s
+sys	146m59.666s
+
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
 ```

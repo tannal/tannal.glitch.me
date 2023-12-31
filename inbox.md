@@ -1,5 +1,104 @@
 # 2023-12-30
 
+
+amdgpu-install -y --accept-eula --opencl=rocr --opengl=mesa --vulkan=pro
+
+sudo update-grub2
+
+shutdown -h 0
+
+// main.cpp
+#include <iostream>
+#include <uv.h>
+#include <v8.h>
+
+void on_uv_walk(uv_handle_t* handle, void* arg) {
+    if (!uv_is_closing(handle)) {
+        uv_close(handle, nullptr);
+    }
+}
+
+void on_uv_close(uv_handle_t* handle) {
+    if (handle->data) {
+        delete static_cast<v8::Isolate*>(handle->data);
+        handle->data = nullptr;
+    }
+}
+
+void on_uv_read(uv_stream_t* stream, ssize_t nread, const uv_buf_t* buf) {
+    if (nread > 0) {
+        std::cout << "Received data: " << std::string(buf->base, nread) << std::endl;
+    }
+    if (nread < 0) {
+        if (nread != UV_EOF) {
+            std::cerr << "Read error: " << uv_strerror(nread) << std::endl;
+        }
+        uv_close(reinterpret_cast<uv_handle_t*>(stream), nullptr);
+    }
+    delete[] buf->base;
+}
+
+void on_uv_connection(uv_stream_t* server, int status) {
+    if (status < 0) {
+        std::cerr << "Connection error: " << uv_strerror(status) << std::endl;
+        return;
+    }
+
+    uv_tcp_t* client = new uv_tcp_t;
+    uv_tcp_init(uv_default_loop(), client);
+
+    if (uv_accept(server, reinterpret_cast<uv_stream_t*>(client)) == 0) {
+        uv_read_start(reinterpret_cast<uv_stream_t*>(client),
+                      [](uv_handle_t* handle, size_t suggested_size, uv_buf_t* buf) {
+                          *buf = uv_buf_init(new char[suggested_size], suggested_size);
+                      },
+                      on_uv_read);
+    } else {
+        uv_close(reinterpret_cast<uv_handle_t*>(client), nullptr);
+        delete client;
+    }
+}
+
+int main() {
+    v8::V8::InitializeICUDefaultLocation("");
+    v8::V8::InitializeExternalStartupData("");
+    v8::V8::InitializePlatform(v8::platform::CreateDefaultPlatform());
+    v8::V8::Initialize();
+
+    v8::Isolate::CreateParams create_params;
+    v8::Isolate* isolate = v8::Isolate::New(create_params);
+
+    uv_tcp_t server;
+    uv_tcp_init(uv_default_loop(), &server);
+
+    sockaddr_in bind_addr;
+    uv_ip4_addr("0.0.0.0", 3000, &bind_addr);
+    uv_tcp_bind(&server, reinterpret_cast<const sockaddr*>(&bind_addr), 0);
+
+    int res = uv_listen(reinterpret_cast<uv_stream_t*>(&server), 128, on_uv_connection);
+    if (res < 0) {
+        std::cerr << "Listen error: " << uv_strerror(res) << std::endl;
+        return 1;
+    }
+
+    uv_run(uv_default_loop(), UV_RUN_DEFAULT);
+
+    uv_walk(uv_default_loop(), on_uv_walk, nullptr);
+    uv_run(uv_default_loop(), UV_RUN_DEFAULT);
+    uv_loop_close(uv_default_loop());
+
+    isolate->Dispose();
+    v8::V8::Dispose();
+    v8::V8::ShutdownPlatform();
+
+    return 0;
+}
+
+
+include/v8.h
+
+servo surfman webrender 
+
 STM32MP1 platform boot
 
 https://github.com/rust-lang/rust/blob/8d76d076665f862ec9619f2de68d6d9ca1db4601/library/core/src/option.rs#L570

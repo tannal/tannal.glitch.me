@@ -1,3 +1,359 @@
+# 2023-12-30
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+百度网盘 请输入提取码
+https://pan.baidu.com/share/init?surl=8jgnNOY_uUI48yNxuhPczA#list/path=%2Fsharelink1103194460824-608622678244567%2F560-Vue2.x%2BElementUI%E5%AE%9E%E7%8E%B0%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%20(%E9%99%84%E9%A1%B9%E7%9B%AE%E6%BA%90%E4%BB%A3%E7%A0%81)&parentPath=%2Fsharelink1103194460824-608622678244567
+
+五十音图 - Google 搜索
+https://www.google.com/search?q=%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE&sca_esv=594185462&tbm=isch&sxsrf=AM9HkKmISNrWRU37l9mzATZ2u6MpS1M71Q:1703755169084&source=lnms&sa=X&ved=2ahUKEwj3sYzN5rGDAxVeb_UHHZHRBCQQ_AUoAXoECAIQAw&biw=1280&bih=632&dpr=1.5#imgrc=z6mOYiG0VOs1lM
+
+python三大神器之virtualenv - 似是故人来~ - 博客园
+https://www.cnblogs.com/freely/p/8022923.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+fabric/fabric: Simple, Pythonic remote execution and deployment.
+https://github.com/fabric/fabric
+
+Run Redis Stack on Docker | Redis
+https://redis.io/docs/install/install-stack/docker/
+
+Deploying and Managing Redis on Kubernetes [Ultimate Guide]
+https://www.dragonflydb.io/guides/redis-kubernetes
+
+Deploy to Production - Node, Postgres, Redis, React - with Render - YouTube
+https://www.youtube.com/watch?v=hGYNW8-_c3U
+
+Redis Dev, Test, and Production with OpenShift Service Catalog - YouTube
+https://www.youtube.com/watch?v=ZfeMNkBdG5Q
+
+Running on Kubernetes | Redis Documentation Center
+https://docs.redis.com/latest/rdi/installation/install-k8s/
+
+redis kubernetes - Google 搜索
+https://www.google.com/search?q=redis+kubernetes&sca_esv=594508589&tbm=vid&sxsrf=AM9HkKlh9df9ZyMZfZ2LM8h6VuwxnNCMEQ:1703899457514&source=lnms&sa=X&ved=2ahUKEwiGppePgLaDAxWs7zgGHUr6BDkQ_AUoAnoECAIQBA&biw=1280&bih=632&dpr=1.5
+
+Redis on Kubernetes for beginners - YouTube
+https://www.youtube.com/watch?v=JmCn7k0PlV4
+
+marcel-dempers/docker-development-youtube-series
+https://github.com/marcel-dempers/docker-development-youtube-series
+
+Kubernetes Crash Course for Absolute Beginners [NEW] - YouTube
+https://www.youtube.com/watch?v=s_o8dwzRlu4
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/OpenProjects.html#gsoc23
+
+Install and Set Up kubectl on Linux | Kubernetes
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+
+minikube start | minikube
+https://minikube.sigs.k8s.io/docs/start/
+
+docker run hello-world - Google 搜索
+https://www.google.com/search?q=docker+run+hello-world&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyODczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+restart docker - Google 搜索
+https://www.google.com/search?q=restart+docker&oq=restart+docker&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTgzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+How to fix issue of 'Unable to connect to the server: EOF' Kubernetes - Kubectl - Stack Overflow
+https://stackoverflow.com/questions/48928330/how-to-fix-issue-of-unable-to-connect-to-the-server-eof-kubernetes-kubectl
+
+redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/redis
+
+Code search results
+https://github.com/search?q=repo%3Amemcached%2Fmemcached+stats+language%3AC&type=code&l=C
+
+LFX Mentorship | The Linux Foundation
+https://lfx.linuxfoundation.org/tools/mentorship/
+
+The Linux Foundation
+https://sso.linuxfoundation.org/login/?state=hKFo2SBOalR5OWN5ZXpuY1BlLXJvZ0lIdlZjeU5pTmxBajhBNKFupWxvZ2luo3RpZNkgS0lwTjB3TDY4NzdEZXlzQ0JZNHN5dWZqdjNmNXFWWlGjY2lk2SBGS2ZNRzEyT1A3Z3U1WjAxcHR0M2hOa2YyQmRrUFBjMQ&client=FKfMG12OP7gu5Z01ptt3hNkf2BdkPPc1&protocol=oauth2&redirect_uri=https:%2F%2Fmentorship.lfx.linuxfoundation.org&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=V2lsNmIuXzdmT29WYm9GQVZ2ZWU3c3lwbWxufnNNUy5mUUdoeVBmMkUwMg%3D%3D&code_challenge=3efCtjeuA4dnD_8JOtyHeZbmT7EHXgeRB6FY_DXPEPY&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMTMuMCJ9
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Apply to Outreachy - Outreachy
+https://www.outreachy.org/apply/
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+LFX Mentorship | The Linux Foundation
+https://lfx.linuxfoundation.org/tools/mentorship/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_all
+
+The Linux Foundation
+https://sso.linuxfoundation.org/login/?state=hKFo2SBGLV90cnlfekdmZlZ0V3k3cFdlelk1Mmh0WS1VRVRjYaFupWxvZ2luo3RpZNkgaEhfVzVfeHJsSjVObjJiSU1yTnNwNXNjWVAya1ZmZzmjY2lk2SBGS2ZNRzEyT1A3Z3U1WjAxcHR0M2hOa2YyQmRrUFBjMQ&client=FKfMG12OP7gu5Z01ptt3hNkf2BdkPPc1&protocol=oauth2&redirect_uri=https:%2F%2Fmentorship.lfx.linuxfoundation.org%3FprojectId%3D958fe36a-d763-4422-81af-c5ecf2465957&scope=openid%20profile%20email&response_type=code&response_mode=query&nonce=SHRVQUNZTUNCY3lNSFRqQjd2fjIxaXVlajhGTn5mZlFDUERBTE9MWFEwaw%3D%3D&code_challenge=JOFm-TexWwEeykxmRVSMys4qwPV-ZyxVo34-69b-Nds&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMTMuMCJ9
+
+酷玩乐团 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%85%B7%E7%8E%A9%E6%A8%82%E5%9C%98
+
+一体共和 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%85%B1%E5%92%8C%E4%B8%96%E4%BB%A3
+
+#general > Servo was terminated by signal 11 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20was.20terminated.20by.20signal.2011
+
+go enum - Google 搜索
+https://www.google.com/search?q=go+enum&oq=go+emnu&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEINjA4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Grzegorz Bazior linux kernel - Google 搜索
+https://www.google.com/search?q=Grzegorz+Bazior+linux+kernel&oq=Grzegorz+Bazior+linux+kernel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDI1NDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+rust/library/core/src at 8d76d076665f862ec9619f2de68d6d9ca1db4601 · rust-lang/rust
+https://github.com/rust-lang/rust/tree/8d76d076665f862ec9619f2de68d6d9ca1db4601/library/core/src
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md
+
+The Linux Kernel Module Programming Guide
+https://sysprog21.github.io/lkmpg/#kernel-module-package
+
+Memcached 常用指令-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1584086
+
+日语 中文 拼音区别 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E8%AF%AD+%E4%B8%AD%E6%96%87+%E6%8B%BC%E9%9F%B3%E5%8C%BA%E5%88%AB&sca_esv=594554241&tbm=vid&sxsrf=AM9HkKk-YiY4wwZHmrn34ISFkV1xje--2A:1703921770568&source=lnms&sa=X&ved=2ahUKEwj1_e-e07aDAxWWbGwGHVDrD3QQ_AUoAnoECAEQBA&biw=1280&bih=632&dpr=1.5
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%81%A0%E3%81%A7%E3%81%A2%E3%81%A9%E3%81%A5&op=translate
+
+607968 - Investigate using LLD on Linux - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=607968
+
+size_t in cpp include header - Google 搜索
+https://www.google.com.hk/search?q=size_t+in+cpp+include+header&oq=size_t+in+cpp+include+header&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUwMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - Which header should I include for `size_t`? - Stack Overflow
+https://stackoverflow.com/questions/36594569/which-header-should-i-include-for-size-t
+
+rust-lang/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/rust-lang/rust
+
+servo/surfman: Accelerated offscreen graphics for WebGL
+https://github.com/servo/surfman
+
+#general > Servo was terminated by signal 11 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20was.20terminated.20by.20signal.2011
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+%22v8.h%22&type=code
+
+myownnode/recorded/capivara/v8/include at main · ErickWendel/myownnode
+https://github.com/ErickWendel/myownnode/tree/main/recorded/capivara/v8/include
+
+Most common C++ project directory structure convention with respect to third-party libraries - Stack Overflow
+https://stackoverflow.com/questions/27912687/most-common-c-project-directory-structure-convention-with-respect-to-third-par
+
+Dependency management in CMake, part 2 | by Jakub Neruda | Medium
+https://medium.com/@nerudaj/dependency-management-in-cmake-part-2-478f63794eb5
+
+树莓派 5 评测：Maker 们的新宠 | 树莓派实验室
+https://shumeipai.nxez.com/2023/09/29/raspberry-pi-5-review-a-new-standard-for-makers.html
+
+Behind the Scenes of a C++ Build System - Jussi Pakkanen - CppCon 2019 - YouTube
+https://www.youtube.com/watch?v=34KzT2yvQuM
+
+V8
+https://github.com/v8
+
+v8 llvm - Google 搜索
+https://www.google.com.hk/search?q=v8+llvm&oq=v8+llvm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+v8 using llvm backend？
+https://groups.google.com/a/chromium.org/g/blink-dev/c/prTdVrS98sU
+
+v8-users - Google 网上论坛
+https://groups.google.com/g/v8-users
+
+自己动手使用树莓派搭建家用NAS和流媒体服务器 | 网络热度
+https://www.packetmania.net/2021/12/19/RPi-NAS-Plex/
+
+基于树莓派和硬盘柜搭建一个几十TB的家用NAS
+http://www.360doc.com/content/23/1125/14/49655403_1105249902.shtml
+
+amd radeon r460 - Google 搜索
+https://www.google.com.hk/search?q=amd+radeon+r460&oq=amd+r460&gs_lcrp=EgZjaHJvbWUqCAgBEAAYCBgeMgYIABBFGDkyCAgBEAAYCBge0gEINDc4NGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Installing or Uninstalling the AMDGPU stack — amdgpu graphics and compute stack unknown-build documentation
+https://amdgpu-install.readthedocs.io/en/latest/install-installing.html
+
+Is there a definitive way to install amdgpu graphics drivers on Ubuntu 22.04? - Ask Ubuntu
+https://askubuntu.com/questions/1481761/is-there-a-definitive-way-to-install-amdgpu-graphics-drivers-on-ubuntu-22-04
+
+Newest 'installation' Questions - Super User
+https://superuser.com/questions/tagged/installation
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+便宜机场汇总 - Askahh机场测速
+https://askahh.com/archives/26/
+
+性价比机场
+https://xn--6nq44r2uh9rhj7f.com/#/dashboard
+
+在 Linux 系统中安装并设置 kubectl | Kubernetes
+https://kubernetes.io/zh-cn/docs/tasks/tools/install-kubectl-linux/#verify-kubectl-configuration
+
+收件箱 (12) - tannal.cn@gmail.com - Gmail
+https://mail.google.com/mail/u/1/#inbox
+
+segfault when running cargo test · Issue #21439 · denoland/deno
+https://github.com/denoland/deno/issues/21439
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/6532a0c4b3a3654015c116bd
+
+LFX Mentorship | The Linux Foundation
+https://lfx.linuxfoundation.org/tools/mentorship/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Shuah Khan linux kernel - Google 搜索
+https://www.google.com/search?q=Shuah+Khan+linux+kernel&oq=Shuah+Khan+linux+kernel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDIyMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+joelsavitz.com
+https://joelsavitz.com/
+
+kdlp.underground.software/course/fall2023/index.md
+https://kdlp.underground.software/course/fall2023/index.md
+
+kdlp.underground.software/slides_src/memory_allocation.md at v2-master · underground-software/kdlp.underground.software
+https://github.com/underground-software/kdlp.underground.software/blob/v2-master/slides_src/memory_allocation.md
+
+,ch07.9142
+https://static.lwn.net/images/pdf/LDD3/ch07.pdf
+
+gsoc:google-summer-code-2023 [Wiki]
+https://wiki.linuxfoundation.org/gsoc/google-summer-code-2023
+
+(3) Facebook
+https://www.facebook.com/
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+%22%26mut+self%22&type=code
+
+type systems site: cmu.edu - Google 搜索
+https://www.google.com/search?q=type+systems+site%3A+cmu.edu&oq=type+systems+site%3A+cmu.edu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Robert Harper's Home Page
+https://www.cs.cmu.edu/~rwh/
+
+Practical Foundations for Programming Languages
+https://www.cs.cmu.edu/~rwh/pfpl.html
+
+login.cmu.edu
+https://login.cmu.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2
+
+OPLSS 2023 | University of Oregon
+https://www.cs.uoregon.edu/research/summerschool/summer23/
+
+Type system - Wikipedia
+https://en.wikipedia.org/wiki/Type_system
+
+Wayback Machine
+https://web.archive.org/web/20171114202221/http://gallium.inria.fr/~remy/mpri/cours1.pdf
+
+type systems site: cmu.edu - Google 搜索
+https://www.google.com/search?q=type+systems+site%3A+cmu.edu&oq=type+systems&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDsyCAgBEEUYJxg7MgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yCAgIEAAYDxgeMgYICRAAGB7SAQg3ODI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+15-814 Types and Programming Languages
+https://www.cs.cmu.edu/~rwh/courses/typesys/
+
+Mehant Kammakomati linux kernel - Google 搜索
+https://www.google.com/search?q=Mehant+Kammakomati+linux+kernel&oq=Mehant+Kammakomati+linu&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDnSAQgxMjc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Build minial image for Raspberry Pi - Code Inside Out
+https://www.codeinsideout.com/blog/yocto/raspberry-pi/
+
+Yocto build for Raspberry Pi 3 B+ board. - Google 搜索
+https://www.google.com/search?q=Yocto+build+for+Raspberry+Pi+3+B%2B+board.&oq=Yocto+build+for+Raspberry+Pi+3+B%2B+board.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBBzc4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Create your own Linux image for the Raspberry pi board using Yocto Project.
+https://tutorialadda.com/yocto/create-your-own-linux-image-for-the-raspberry-pi-board-using-yocto-project
+
+The Yocto Project
+https://github.com/yoctoproject
+
+树莓派5 价格 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE5+%E4%BB%B7%E6%A0%BC&sca_esv=594558718&sxsrf=AM9HkKlqInYOM-XiCSeK72jvZ7JGJgH35Q%3A1703923057456&ei=cc2PZa2-G-jT1e8P-9OU2A8&oq=%E6%A0%91%E8%8E%93%E6%B4%BE5+&gs_lp=Egxnd3Mtd2l6LXNlcnAiC-agkeiOk-a0vjUgKgIIATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIhBNQlgRYlgRwAXgBkAEAmAFzoAFzqgEDMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Vue2.x+ElementUI实现小区物业管理系统 (附项目源代码) - 天下无鱼
+https://shikey.com/2023/12/28/vue2-xelementui-implementation-of-community-property-management-system.html
+
+560-Vue2.x+ElementUI实现小区物业管理系统 (附项目源代码)_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/s/18jgnNOY_uUI48yNxuhPczA#list/path=%2F&parentPath=%2Fsharelink1103194460824-608622678244567
+
+gin gorm github - Google 搜索
+https://www.google.com.hk/search?q=gin+gorm+github&oq=gin+gorm+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY5MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+stream.eventNames() broken on 21.2.0+ · Issue #51302 · nodejs/node
+https://github.com/nodejs/node/issues/51302
+
+stream: pre-allocate _events by ronag · Pull Request #50428 · nodejs/node
+https://github.com/nodejs/node/pull/50428/files
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node
+
+cmake - Add external libraries to CMakeList.txt c++ - Stack Overflow
+https://stackoverflow.com/questions/24570916/add-external-libraries-to-cmakelist-txt-c
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed#advanced-guide
+
+v8 compilation database - Google 搜索
+https://www.google.com.hk/search?q=v8+compilation+database&oq=v8+compilation+database&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwNjAzajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+tools/run-clang-tidy.py - v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git/+/refs/heads/main/tools/run-clang-tidy.py
+
+node/src/node_url.cc at 461ffcadffa9ebc075cd2df3dff99931a2001ba1 · nodejs/node
+https://github.com/nodejs/node/blob/461ffcadffa9ebc075cd2df3dff99931a2001ba1/src/node_url.cc#L403
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20uv_ip4_addr&type=code
+
+V8 Torque user manual · V8
+https://v8.dev/docs/torque
+
+Chromium V8 JavaScript引擎远程代码执行漏洞分析讨论
+https://blog.noah.360.net/chromium_v8_remote_code_execution_vulnerability_analysis/
+
+(1) Gengming Liu (@dmxcsnsbh) / X
+https://twitter.com/dmxcsnsbh
+
+amdgpu driver install - Google 搜索
+https://www.google.com/search?q=amdgpu+driver+install&sca_esv=594599342&sxsrf=AM9HkKkPcfZL_qsVGKgQdno6hpWFgz7Esg%3A1703944272043&ei=UCCQZZ6hAs3t-Aadx6yABw&ved=0ahUKEwieibWIp7eDAxXNNt4KHZ0jC3AQ4dUDCBA&uact=5&oq=amdgpu+driver+install&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWFtZGdwdSBkcml2ZXIgaW5zdGFsbDIIEAAYgAQYywEyBhAAGAgYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjMCVCEA1i1CHACeAGQAQCYAY0BoAHxBqoBAzAuN7gBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+Is there a definitive way to install amdgpu graphics drivers on Ubuntu 22.04? - Ask Ubuntu
+https://askubuntu.com/questions/1481761/is-there-a-definitive-way-to-install-amdgpu-graphics-drivers-on-ubuntu-22-04
+
 # 2023-12-29
 
 财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
