@@ -23,6 +23,22 @@ sudo apt-get -y install m4
 sudo apt install mesa-utils
 DRI_PRIME=1 glxinfo | grep "OpenGL renderer" 
 
+```bash
+
+https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.16.5-stable.zip
+
+android studio
+cmdtools
+
+
+flutter doctor --android-licenses
+
+
+```
+
+注意: The Chocolatey CLI MSI is intended for installation only! If upgrading from 5.x of Licensed Extension, or 1.x of other Chocolatey products, see the upgrade guide at https://ch0.co/upv2v6 before continuing. Otherwise, run `choco upgrade chocolatey`.
+
+https://github.com/flutter/flutter/issues/57674
 
 ```bash
 
@@ -43,13 +59,23 @@ Add-AppxPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
 
 winget install -e --id Google.Chrome
 winget install --id Git.Git -e --source winget
-winget install -e --id Corel.WinZip
+# winget install -e --id Corel.WinZip
+# winget uninstall -e --id Corel.WinZip
+winget install -e --id RARLab.WinRAR
+winget install -e --id Unity.Unity.2022
 winget install -e --id Kitware.CMake
 winget install -e --id Python.Python.3.10
 winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
+winget install -e --id Microsoft.VisualStudioCode
 
+winget install dart-sdk
+
+winget install -e --id GoLang.Go.1.20
+
+latex-utilities
+latex-workshop
 
 https://datsuka-qwerty.hatenablog.com/entry/latex/windows_install
 
