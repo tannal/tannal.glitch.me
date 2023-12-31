@@ -1,3 +1,378 @@
+# 2023-12-31
+
+
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Use the winget tool to install and manage applications | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+Download and install CMake with winget
+https://winget.run/pkg/Kitware/CMake
+
+protobuf installer for winget · Issue #7537 · protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf/issues/7537
+
+Release Protocol Buffers v25.1 · protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf/releases/tag/v25.1
+
+Download and install WinZip with winget
+https://winget.run/pkg/Corel/WinZip
+
+Download and install Python 3.10 with winget
+https://winget.run/pkg/Python/Python.3.10
+
+winget install pip - Google 搜索
+https://www.google.com/search?q=winget+install+pip&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+pip&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgKGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzA2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+winget install latex - Google 搜索
+https://www.google.com/search?q=winget+install+latex&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg5MgYIAhBFGDsyBggDEEUYO9IBCDMwOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+LaTeX環境構築と、Snippet設定、Todo Treeへの対応 ~Windows, VSCode編~ - どっかの高専生の技術備忘録
+https://datsuka-qwerty.hatenablog.com/entry/latex/windows_install
+
+Windows - TeX Live - TeX Users Group
+https://tug.org/texlive/windows.html#install
+
+microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository
+https://github.com/microsoft/winget-pkgs
+
+Search results | winget.run
+https://winget.run/search?query=texlive
+
+Download and install Microsoft Visual Studio Code with winget
+https://winget.run/pkg/Microsoft/VisualStudioCode
+
+tannal/mozjs: Servo's SpiderMonkey fork
+https://github.com/tannal/mozjs
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+mozjs+language%3Atoml&type=code
+
+Download and install Go Programming Language with winget
+https://winget.run/pkg/GoLang/Go.1.20
+
+Start building Flutter Android apps on Windows | Flutter
+https://docs.flutter.dev/get-started/install/windows/mobile?tab=download
+
+下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://developer.android.com/studio?hl=zh-cn
+
+Start building Flutter Android apps on Windows | Flutter
+https://docs.flutter.dev/get-started/install/windows/mobile?tab=download
+
+Download and install WinRAR with winget
+https://winget.run/pkg/RARLab/WinRAR
+
+Using Flutter in China | Flutter
+https://docs.flutter.dev/community/china
+
+Download and install Unity 2022 with winget
+https://winget.run/pkg/Unity/Unity.2022
+
+Download and install Unity Hub with winget
+https://winget.run/pkg/Unity/UnityHub
+
+libopts apt install - Google 搜索
+https://www.google.com/search?q=libopts+apt+install&sca_esv=594732458&rlz=1C1GCEA_enJP1090JP1090&ei=3VGRZeLJGYDX1e8Pi_e9sAU&ved=0ahUKEwiirKO7yrmDAxWAa_UHHYt7D1YQ4dUDCBE&uact=5&oq=libopts+apt+install&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2xpYm9wdHMgYXB0IGluc3RhbGwyBRAhGKABMgUQIRigAUjtHlCMA1jeHXADeACQAQCYAdcBoAGcEKoBBTAuOC4zuAEDyAEA-AEBwgIJEAAYBxgeGLADwgILEAAYBxgeGA8YsAPCAggQABiABBiwA8ICBxAAGB4YsAPCAgYQABgeGAzCAgQQABgewgIIEAAYHhgMGA_CAgcQIRigARgK4gMEGAEgQYgGAZAGCg&sclient=gws-wiz-serp
+
+mozilla/sccache: sccache is ccache with cloud storage
+https://github.com/mozilla/sccache
+
+The Chainsmokers - YouTube
+https://www.youtube.com/@THECHAINSMOKERS/videos
+
+维兹·卡利法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BB%B4%E5%85%B9%C2%B7%E5%8D%A1%E5%88%A9%E6%B3%95
+
+The Chainsmokers - Closer ft. Halsey | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=VRFqRphIPRc
+
+The Chainsmokers & Coldplay - Google 搜索
+https://www.google.com/search?q=The+Chainsmokers+%26+Coldplay&rlz=1C1GCEA_enJP1090JP1090&oq=The+Chainsmokers+%26+Coldplay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPdIBBzczMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+servoshell: add fullscreen option by MarybethGasman · Pull Request #30614 · servo/servo
+https://github.com/servo/servo/pull/30614/files
+
+linux pipe get first column - Google 搜索
+https://www.google.com.hk/search?q=linux+pipe+get+first+column&sca_esv=594742070&rlz=1C1GCEA_enJP1090JP1090&ei=yGqRZdXYBK6evr0PzdmLuAw&oq=linux+pipe+get+first+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWxpbnV4IHBpcGUgZ2V0IGZpcnN0ICoCCAEyBxAAGIAEGBMyBhAAGB4YE0iZOVAAWPoscAV4AJABAJgBigGgAZYXqgEEMS4yNbgBA8gBAPgBAagCA8ICChAAGIAEGIoFGEPCAgUQABiABMICBRAuGIAEwgIKEC4YgAQYigUYQ8ICEBAuGIAEGIoFGEMYxwEY0QPCAiAQABiABBiKBRjlAhjlAhjqAhi0AhiKAxi3AxjUA9gBAcICCxAuGMcBGNEDGIAEwgILEC4YgAQYxwEY0QPCAgcQABiABBgMwgIGEAAYHhgMwgIIEAAYHhgMGArCAgoQABgeGAwYDxgKwgIKEAAYBRgeGAwYCsICCBAAGAUYHhgMwgIMEAAYBRgeGAwYDxgKwgIEEAAYHsICCRAAGIAEGA0YE8ICCBAAGAgYHhgTwgIKEAAYCBgeGBMYCsICChAAGAgYHhgPGBPiAwQYACBBiAYBugYECAEYBw&sclient=gws-wiz-serp
+
+shell script - parse first column of command output, get corresponding second column value - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/214628/parse-first-column-of-command-output-get-corresponding-second-column-value
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+chromium - Google 搜索
+https://www.google.com/search?q=chromium&rlz=1C1GCEA_enJP1090JP1090&oq=chromium&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQIxgnMgYIAhAjGCcyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjAyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+v8/v8.dev: The source code of v8.dev, the official website of the V8 project.
+https://github.com/v8/v8.dev/tree/main
+
+trampolines function - Google 搜索
+https://www.google.com/search?q=trampolines+function&rlz=1C1GCEA_enJP1090JP1090&oq=trampolines+function&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyODBqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+An internship on laziness: lazy unlinking of deoptimized functions · V8
+https://v8.dev/blog/lazy-unlinking
+
+Lazy deoptimization without code patching - Google 文档
+https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/edit?pli=1
+
+Benedikt Meurer - Google 搜索
+https://www.google.com.hk/search?q=Benedikt+Meurer&rlz=1C1GCEA_enJP1090JP1090&oq=Benedikt+Meurer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+Toit programming language
+https://toitlang.org/
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+Toit programming language
+https://toitlang.org/
+
+Release v2.0.0-alpha.126 · toitlang/toit
+https://github.com/toitlang/toit/releases/tag/v2.0.0-alpha.126
+
+Kasper Lund - Google 搜索
+https://www.google.com/search?q=Kasper+Lund&sca_esv=594752233&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlhPOwRBs5ODu0CxaSrUmDqz_wwHw%3A1704033730587&ei=wn2RZYmvI5Dd2roP24yB2AE&ved=0ahUKEwiJmMmp9LmDAxWQrlYBHVtGABsQ4dUDCBA&uact=5&oq=Kasper+Lund&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgtLYXNwZXIgTHVuZDIKEAAYRxjWBBiwA0jnFVBfWOYTcAR4AZABAJgBtgGgAcsDqgEDMC4zuAEDyAEA-AEBwgIIEC4YgAQYywHCAggQABiABBjLAcICBBAAGB7CAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICBhAAGAgYHsICCRAAGAgYHhiLA8ICBRAhGKAB4gMEGAAgQYgGAZAGAboGBggBEAEYFA&sclient=gws-wiz-serp
+
+Hello World!
+https://tannal.glitch.me/people/
+
+v8 javascript engine github site:github.com - Google 搜索
+https://www.google.com/search?q=v8+javascript+engine+github+site:github.com&sca_esv=594752233&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKle0AM-RO9j3l96vaa0afRVTll0nQ:1704033908944&sa=X&ved=2ahUKEwj1ic_-9LmDAxV4rlYBHakvDlcQrAN6BAgOEAE&biw=1536&bih=747&dpr=1.25#ip=1
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8
+
+bellard/quickjs: Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+https://github.com/bellard/quickjs
+
+V8 Torque user manual · V8
+https://v8.dev/docs/torque
+
+Taming architecture complexity in V8 — the CodeStubAssembler · V8
+https://v8.dev/blog/csa
+
+Self-hosting (compilers) - Wikipedia
+https://en.wikipedia.org/wiki/Self-hosting_(compilers)
+
+c++ trampolines code - Google 搜索
+https://www.google.com.hk/search?q=c%2B%2B+trampolines+code&rlz=1C1GCEA_enJP1090JP1090&oq=c%2B%2B+trampolines+code&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDM5NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+trampoline c++ v8 - Google 搜索
+https://www.google.com.hk/search?q=trampoline+c%2B%2B+v8&rlz=1C1GCEA_enJP1090JP1090&oq=trampoline+c%2B%2B+v8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDYxODRqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[v8-dev] What does JSEntryTrampoline builtin do?
+https://www.mail-archive.com/v8-dev@googlegroups.com/msg158363.html
+
+trampoline
+https://www.mail-archive.com/search?q=trampoline&l=v8-dev%40googlegroups.com
+
+linux kernel mailing list - Google 搜索
+https://www.google.com.hk/search?q=linux+kernel+mailing+list&rlz=1C1GCEA_enJP1090JP1090&oq=linux+kernel+mail&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMgYICBAAGB4yCAgJEAAYCBge0gEIMjk3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+linux kernel mailing list archive - Google 搜索
+https://www.google.com.hk/search?q=linux+kernel+mailing+list+archive&rlz=1C1GCEA_enJP1090JP1090&oq=linux+kernel+mailing+list+ar&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgIGB4yBggDEEUYPDIGCAQQRRg8MgYIBRBFGD3SAQg0ODkwajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+6.S081——陷阱部分(一文读懂xv6系统调用)——xv6源码完全解析系列(5)_xv6源码分析-CSDN博客
+https://blog.csdn.net/zzy980511/article/details/130255251
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Use the winget tool to install and manage applications | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/package-manager/winget/
+
+Download and install CMake with winget
+https://winget.run/pkg/Kitware/CMake
+
+protobuf installer for winget · Issue #7537 · protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf/issues/7537
+
+Release Protocol Buffers v25.1 · protocolbuffers/protobuf
+https://github.com/protocolbuffers/protobuf/releases/tag/v25.1
+
+Download and install WinZip with winget
+https://winget.run/pkg/Corel/WinZip
+
+Download and install Python 3.10 with winget
+https://winget.run/pkg/Python/Python.3.10
+
+winget install pip - Google 搜索
+https://www.google.com/search?q=winget+install+pip&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+pip&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgKGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzA2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+winget install latex - Google 搜索
+https://www.google.com/search?q=winget+install+latex&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg5MgYIAhBFGDsyBggDEEUYO9IBCDMwOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+LaTeX環境構築と、Snippet設定、Todo Treeへの対応 ~Windows, VSCode編~ - どっかの高専生の技術備忘録
+https://datsuka-qwerty.hatenablog.com/entry/latex/windows_install
+
+Windows - TeX Live - TeX Users Group
+https://tug.org/texlive/windows.html#install
+
+microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository
+https://github.com/microsoft/winget-pkgs
+
+Search results | winget.run
+https://winget.run/search?query=texlive
+
+Download and install Microsoft Visual Studio Code with winget
+https://winget.run/pkg/Microsoft/VisualStudioCode
+
+tannal/mozjs: Servo's SpiderMonkey fork
+https://github.com/tannal/mozjs
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+mozjs+language%3Atoml&type=code
+
+Download and install Go Programming Language with winget
+https://winget.run/pkg/GoLang/Go.1.20
+
+Start building Flutter Android apps on Windows | Flutter
+https://docs.flutter.dev/get-started/install/windows/mobile?tab=download
+
+下载 Android Studio 和应用工具 - Android 开发者  |  Android Developers
+https://developer.android.com/studio?hl=zh-cn
+
+Start building Flutter Android apps on Windows | Flutter
+https://docs.flutter.dev/get-started/install/windows/mobile?tab=download
+
+Download and install WinRAR with winget
+https://winget.run/pkg/RARLab/WinRAR
+
+Using Flutter in China | Flutter
+https://docs.flutter.dev/community/china
+
+Download and install Unity 2022 with winget
+https://winget.run/pkg/Unity/Unity.2022
+
+Download and install Unity Hub with winget
+https://winget.run/pkg/Unity/UnityHub
+
+libopts apt install - Google 搜索
+https://www.google.com/search?q=libopts+apt+install&sca_esv=594732458&rlz=1C1GCEA_enJP1090JP1090&ei=3VGRZeLJGYDX1e8Pi_e9sAU&ved=0ahUKEwiirKO7yrmDAxWAa_UHHYt7D1YQ4dUDCBE&uact=5&oq=libopts+apt+install&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2xpYm9wdHMgYXB0IGluc3RhbGwyBRAhGKABMgUQIRigAUjtHlCMA1jeHXADeACQAQCYAdcBoAGcEKoBBTAuOC4zuAEDyAEA-AEBwgIJEAAYBxgeGLADwgILEAAYBxgeGA8YsAPCAggQABiABBiwA8ICBxAAGB4YsAPCAgYQABgeGAzCAgQQABgewgIIEAAYHhgMGA_CAgcQIRigARgK4gMEGAEgQYgGAZAGCg&sclient=gws-wiz-serp
+
+mozilla/sccache: sccache is ccache with cloud storage
+https://github.com/mozilla/sccache
+
+The Chainsmokers - YouTube
+https://www.youtube.com/@THECHAINSMOKERS/videos
+
+维兹·卡利法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BB%B4%E5%85%B9%C2%B7%E5%8D%A1%E5%88%A9%E6%B3%95
+
+The Chainsmokers - Closer ft. Halsey | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=VRFqRphIPRc
+
+The Chainsmokers & Coldplay - Google 搜索
+https://www.google.com/search?q=The+Chainsmokers+%26+Coldplay&rlz=1C1GCEA_enJP1090JP1090&oq=The+Chainsmokers+%26+Coldplay&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPdIBBzczMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+servoshell: add fullscreen option by MarybethGasman · Pull Request #30614 · servo/servo
+https://github.com/servo/servo/pull/30614/files
+
+linux pipe get first column - Google 搜索
+https://www.google.com.hk/search?q=linux+pipe+get+first+column&sca_esv=594742070&rlz=1C1GCEA_enJP1090JP1090&ei=yGqRZdXYBK6evr0PzdmLuAw&oq=linux+pipe+get+first+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWxpbnV4IHBpcGUgZ2V0IGZpcnN0ICoCCAEyBxAAGIAEGBMyBhAAGB4YE0iZOVAAWPoscAV4AJABAJgBigGgAZYXqgEEMS4yNbgBA8gBAPgBAagCA8ICChAAGIAEGIoFGEPCAgUQABiABMICBRAuGIAEwgIKEC4YgAQYigUYQ8ICEBAuGIAEGIoFGEMYxwEY0QPCAiAQABiABBiKBRjlAhjlAhjqAhi0AhiKAxi3AxjUA9gBAcICCxAuGMcBGNEDGIAEwgILEC4YgAQYxwEY0QPCAgcQABiABBgMwgIGEAAYHhgMwgIIEAAYHhgMGArCAgoQABgeGAwYDxgKwgIKEAAYBRgeGAwYCsICCBAAGAUYHhgMwgIMEAAYBRgeGAwYDxgKwgIEEAAYHsICCRAAGIAEGA0YE8ICCBAAGAgYHhgTwgIKEAAYCBgeGBMYCsICChAAGAgYHhgPGBPiAwQYACBBiAYBugYECAEYBw&sclient=gws-wiz-serp
+
+shell script - parse first column of command output, get corresponding second column value - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/214628/parse-first-column-of-command-output-get-corresponding-second-column-value
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+chromium - Google 搜索
+https://www.google.com/search?q=chromium&rlz=1C1GCEA_enJP1090JP1090&oq=chromium&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQIxgnMgYIAhAjGCcyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjAyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+v8/v8.dev: The source code of v8.dev, the official website of the V8 project.
+https://github.com/v8/v8.dev/tree/main
+
+trampolines function - Google 搜索
+https://www.google.com/search?q=trampolines+function&rlz=1C1GCEA_enJP1090JP1090&oq=trampolines+function&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyODBqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+An internship on laziness: lazy unlinking of deoptimized functions · V8
+https://v8.dev/blog/lazy-unlinking
+
+Lazy deoptimization without code patching - Google 文档
+https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/edit?pli=1
+
+Benedikt Meurer - Google 搜索
+https://www.google.com.hk/search?q=Benedikt+Meurer&rlz=1C1GCEA_enJP1090JP1090&oq=Benedikt+Meurer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+Toit programming language
+https://toitlang.org/
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+Toit programming language
+https://toitlang.org/
+
+Release v2.0.0-alpha.126 · toitlang/toit
+https://github.com/toitlang/toit/releases/tag/v2.0.0-alpha.126
+
+Kasper Lund - Google 搜索
+https://www.google.com/search?q=Kasper+Lund&sca_esv=594752233&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlhPOwRBs5ODu0CxaSrUmDqz_wwHw%3A1704033730587&ei=wn2RZYmvI5Dd2roP24yB2AE&ved=0ahUKEwiJmMmp9LmDAxWQrlYBHVtGABsQ4dUDCBA&uact=5&oq=Kasper+Lund&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgtLYXNwZXIgTHVuZDIKEAAYRxjWBBiwA0jnFVBfWOYTcAR4AZABAJgBtgGgAcsDqgEDMC4zuAEDyAEA-AEBwgIIEC4YgAQYywHCAggQABiABBjLAcICBBAAGB7CAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICBhAAGAgYHsICCRAAGAgYHhiLA8ICBRAhGKAB4gMEGAAgQYgGAZAGAboGBggBEAEYFA&sclient=gws-wiz-serp
+
+Hello World!
+https://tannal.glitch.me/people/
+
+v8 javascript engine github site:github.com - Google 搜索
+https://www.google.com/search?q=v8+javascript+engine+github+site:github.com&sca_esv=594752233&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKle0AM-RO9j3l96vaa0afRVTll0nQ:1704033908944&sa=X&ved=2ahUKEwj1ic_-9LmDAxV4rlYBHakvDlcQrAN6BAgOEAE&biw=1536&bih=747&dpr=1.25#ip=1
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8
+
+bellard/quickjs: Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+https://github.com/bellard/quickjs
+
+V8 Torque user manual · V8
+https://v8.dev/docs/torque
+
+Taming architecture complexity in V8 — the CodeStubAssembler · V8
+https://v8.dev/blog/csa
+
+Self-hosting (compilers) - Wikipedia
+https://en.wikipedia.org/wiki/Self-hosting_(compilers)
+
+c++ trampolines code - Google 搜索
+https://www.google.com.hk/search?q=c%2B%2B+trampolines+code&rlz=1C1GCEA_enJP1090JP1090&oq=c%2B%2B+trampolines+code&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDM5NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+trampoline c++ v8 - Google 搜索
+https://www.google.com.hk/search?q=trampoline+c%2B%2B+v8&rlz=1C1GCEA_enJP1090JP1090&oq=trampoline+c%2B%2B+v8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDYxODRqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[v8-dev] What does JSEntryTrampoline builtin do?
+https://www.mail-archive.com/v8-dev@googlegroups.com/msg158363.html
+
+trampoline
+https://www.mail-archive.com/search?q=trampoline&l=v8-dev%40googlegroups.com
+
+linux kernel mailing list - Google 搜索
+https://www.google.com.hk/search?q=linux+kernel+mailing+list&rlz=1C1GCEA_enJP1090JP1090&oq=linux+kernel+mail&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMgYICBAAGB4yCAgJEAAYCBge0gEIMjk3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+linux kernel mailing list archive - Google 搜索
+https://www.google.com.hk/search?q=linux+kernel+mailing+list+archive&rlz=1C1GCEA_enJP1090JP1090&oq=linux+kernel+mailing+list+ar&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgIGB4yBggDEEUYPDIGCAQQRRg8MgYIBRBFGD3SAQg0ODkwajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+6.S081——陷阱部分(一文读懂xv6系统调用)——xv6源码完全解析系列(5)_xv6源码分析-CSDN博客
+https://blog.csdn.net/zzy980511/article/details/130255251
+
 # 2023-12-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

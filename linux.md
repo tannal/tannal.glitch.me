@@ -46,3 +46,10 @@ index e219fcfa112d..bd402c7c8209 100644
 
 
 ```
+
+
+# community
+
+messages for searching
+
+https://lore.kernel.org/lkml/?q=the+scheduler

@@ -8,17 +8,6 @@ sudo fdisk -l
 
 sudo fdisk /dev/sda
 
-  101  sudo fdisk /dev/sda 
-  102  lsblk
-  103  sudo umount /dev/sda
-  104  lsblk
-  105  sudo umount /dev/sda
-  106  lsblk
-  107  ls /dev/sda 
-  108  sudo umount /dev/sda 
-  109  sudo mkfs.vfat /dev/sda 
-  110  sudo fsck /dev/sda
-
 sudo apt-get -y install m4
 sudo apt install mesa-utils
 DRI_PRIME=1 glxinfo | grep "OpenGL renderer" 
@@ -69,6 +58,8 @@ winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
 winget install -e --id Microsoft.VisualStudioCode
+
+winget install -e --id Unity.UnityHub
 
 winget install dart-sdk
 
