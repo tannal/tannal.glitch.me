@@ -1,7 +1,4 @@
-# 2023-12-30
-
-
-
+# 2023-12-31
 ```bash
 
 $env:HTTP_PROXY = "http://192.168.43.1:7890"
@@ -36,6 +33,7 @@ https://tug.org/texlive/windows.html#install
 
 ```
 
+# 2023-12-30
 
 amdgpu-install -y --accept-eula --opencl=rocr --opengl=mesa --vulkan=pro
 
