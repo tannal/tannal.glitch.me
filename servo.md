@@ -1,5 +1,11 @@
 
 
+jsdom jest
+
+take advantage of dom implementation of servo
+
+create 
+
 Q: Where does the code change window sizing
 
 
