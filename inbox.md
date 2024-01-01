@@ -64,6 +64,7 @@ winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
 winget install -e --id Microsoft.VisualStudioCode
+winget install Microsoft.OpenJDK.21
 
 winget install -e --id Unity.UnityHub
 

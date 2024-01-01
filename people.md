@@ -1,3 +1,16 @@
+# Google
+
+Marissa Mayer
+
+larry schwimmer
+
+# Sun Microsystems
+
+William Nelson Joy
+
+Vaughan Pratt
+
+
 # from 2023-12-08
 
 Adam Barth https://twitter.com/adambarth flutter founder

@@ -1,5 +1,142 @@
-# 2023-12-31
+# 2024-1-1
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+博客 - Win系统远程桌面连接教程/查询用户名和密码
+https://www.cnblogs.com/xiaohu--/p/16260872.html
+
+ladybird browser - Google 搜索
+https://www.google.com.hk/search?q=ladybird+browser&rlz=1C1GCEA_enJP1090JP1090&oq=ladbird+bro&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCDUyODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+SerenityOS
+https://github.com/SerenityOS
+
+Unstable Feature Flags | Deno Docs
+https://docs.deno.com/runtime/manual/tools/unstable_flags
+
+Deno
+https://github.com/orgs/denoland/repositories?q=example&type=all&language=&sort=
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Paul Rouget - Goodbye Mozilla
+https://paulrouget.com/bye_mozilla.html
+
+Paul Rouget (@paulrouget2) / X
+https://twitter.com/paulrouget2
+
+Mozilla Hacks - YouTube
+https://www.youtube.com/@mozhacks/videos
+
+wayland change window size - Google 搜索
+https://www.google.com.hk/search?q=wayland+change+window+size&rlz=1C1GCEA_enJP1090JP1090&oq=wayland+change+windo&gs_lcrp=EgZjaHJvbWUqCQgCECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEINDgyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Resize window to specific size (Wayland)? : r/kde
+https://www.reddit.com/r/kde/comments/x9ofd3/resize_window_to_specific_size_wayland/?rdt=59752
+
+surfman mozilla - Google 搜索
+https://www.google.com.hk/search?q=surfman+mozilla&rlz=1C1GCEA_enJP1090JP1090&oq=surfman+moz&gs_lcrp=EgZjaHJvbWUqBwgDECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDQwNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Revamped Parallel Layout in Servo – pcwalton – pcwalton's blog
+https://pcwalton.github.io/_posts/2014-02-25-revamped-parallel-layout-in-servo.html
+
+layout: Guess the width of block formatting contexts so that we can speculatively lay them out in parallel by pcwalton · Pull Request #2256 · servo/servo
+https://github.com/servo/servo/pull/2256
+
+larsbergstrom (Lars Bergstrom)
+https://github.com/larsbergstrom
+
+kmcallister (Keegan McAllister)
+https://github.com/kmcallister
+
+Skywave by KM6PNI
+https://kmcallister.github.io/skywave/
+
+SimonSapin (Simon Sapin)
+https://github.com/SimonSapin
+
+What's the status of Servo right now? : r/firefox
+https://www.reddit.com/r/firefox/comments/yvd1f0/whats_the_status_of_servo_right_now/
+
+2009 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2009/
+
+mozilla/neqo: Neqo, an implementation of QUIC written in Rust
+https://github.com/mozilla/neqo
+
+Dart
+https://github.com/orgs/dart-lang/repositories
+
+why dart language - Google 搜索
+https://www.google.com/search?q=why+dart+language&rlz=1C1GCEA_enJP1090JP1090&oq=why+dart+lang&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgIGB4yCAgDEAAYCBge0gEINTM1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Commits · openjdk/jdk
+https://github.com/openjdk/jdk/commits/master/
+
+Sun Microsystems - Wikipedia
+https://en.wikipedia.org/wiki/Sun_Microsystems
+
+Search results | winget.run
+https://winget.run/search?query=openjdk
+
+openjdk - Google 搜索
+https://www.google.com/search?q=openjdk&rlz=1C1GCEA_enJP1090JP1090&oq=openjdk&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIMCAEQIxgnGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Sun Microsystems - Google 搜索
+https://www.google.com/search?q=Sun+Microsystems&rlz=1C1GCEA_enJP1090JP1090&oq=Sun+Microsystems&gs_lcrp=EgZjaHJvbWUyEQgAEEUYORhDGOMCGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8
+
+William Nelson Joy - Google 搜索
+https://www.google.com/search?q=William+Nelson+Joy&sca_esv=594813947&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkBDYBzAif7XouqKDsrRy3nZ-pawg%3A1704073342540&ei=fhiSZci8IKbhseMP09eeyAk&ved=0ahUKEwjI84Lyh7uDAxWmcGwGHdOrB5kQ4dUDCBE&uact=5&oq=William+Nelson+Joy&gs_lp=Egxnd3Mtd2l6LXNlcnAiEldpbGxpYW0gTmVsc29uIEpveTIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAUjMAVAAWABwAHgAkAEAmAGkAaABpAGqAQMwLjG4AQPIAQD4AQL4AQHiAwQYACBBiAYBugYGCAEQARgU&sclient=gws-wiz-serp
+
+史考特·麥克里尼 - Google 搜索
+https://www.google.com/search?sca_esv=594813947&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkKnLBzUBx0X-wKfKl-90i3D5U3eA:1704073329428&q=%E5%8F%B2%E8%80%83%E7%89%B9%C2%B7%E9%BA%A5%E5%85%8B%E9%87%8C%E5%B0%BC&si=ALGXSlYh1-GEPndq7qMo--O-TPixQtNN4JMroSxgItz5kq0stIj1pXPMzZxzcPQrA2822JzxVTfdB7NTXP3aVz-CKf2lz64eZxVKOOXl0HEpTRtF-Iwy-UGgiIqSUT3mZUpC-7LV3ez5iu1ysU1REw0GfmPatJ_vcOlUMemtQ4XEg_aYPbWN2NT_y5CWlcmnI_QrsM2ys0BXvoTz2SEhLCelJdPq2iR62B6Fm9HgLiIhIuSIIuVtaVmGPAXew0xJWj-c2zwcGU-ZoDia-1zkXKa5ndbqJOlqFg%3D%3D&sa=X&sqi=2&ved=2ahUKEwigkuHrh7uDAxXV2jQHHRPVCtgQmxMoA3oECEUQBQ
+
+Andy Bechtolsheim - Google 搜索
+https://www.google.com/search?q=Andy+Bechtolsheim&sca_esv=594813947&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlWoW_mItYMEYrbN4cMXJlHM-2kTg%3A1704073348619&ei=hBiSZba2JeuWseMPxsyl6AY&ved=0ahUKEwi2iPb0h7uDAxVrS2wGHUZmCW0Q4dUDCBE&uact=5&oq=Andy+Bechtolsheim&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUFuZHkgQmVjaHRvbHNoZWltMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIXEC4YgAQYywEYlwUY3AQY3gQY3wTYAQFIvgFQAFgAcAB4AJABAJgBjAGgAYwBqgEDMC4xuAEDyAEA-AEC-AEB4gMEGAAgQYgGAboGBggBEAEYFA&sclient=gws-wiz-serp
+
+google first 100 employees - Google 搜索
+https://www.google.com/search?q=google+first+100+employees&sca_esv=594813947&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKloEC3jVuvN9qdJ8GpOYUzWTeX7zg%3A1704073582234&ei=bhmSZc7zDbuXseMPiuaN2Ao&oq=google+first+100+&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhFnb29nbGUgZmlyc3QgMTAwICoCCAAyCBAAGIAEGMsBMgkQABgIGB4YiwNIgVJQ5jNYzklwAXgBkAEAmAGaAaAB0xCqAQQwLjE3uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgoQIxiABBiKBRgnwgIQEAAYgAQYigUYQxixAxiDAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAg4QLhiABBixAxjHARjRA8ICDRAAGIAEGIoFGEMYsQPCAgoQABiABBiKBRhDwgIQEAAYgAQYigUYQxixAxixA8ICFhAAGIAEGIoFGEMYsQMYgwEYsQMYgwHCAgUQABiABMICCBAuGIAEGMsBwgIHECMYsQIYJ8ICChAAGIAEGMsBGArCAgYQABgeGA_CAgYQABgIGB7CAgsQABiABBjLARiLA8ICCRAAGB4YDxiLA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Craig Silverstein google - Google 搜索
+https://www.google.com.hk/search?q=Craig+Silverstein+google&newwindow=1&sca_esv=594818074&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmsxX-xYujsOdJxN0u02mbOW43zng%3A1704074379084&ei=ixySZaroBMH5hwO3s4eYCw&ved=0ahUKEwjq2aTgi7uDAxXB_GEKHbfZAbMQ4dUDCBA&uact=5&oq=Craig+Silverstein+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiGENyYWlnIFNpbHZlcnN0ZWluIGdvb2dsZTIIEC4YgAQYywEyFxAuGIAEGMsBGJcFGNwEGN4EGN8E2AEBSNUIUFhY1AdwAXgBkAEAmAHAAaAB1geqAQMwLja4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEC4YywEYgATCAggQABiABBjLAcICBBAAGB7CAhcQLhjLARiABBiXBRjcBBjeBBjfBNgBAeIDBBgAIEGIBgGQBgS6BgYIARABGBQ&sclient=gws-wiz-serp
+
+Craig Silverstein - Wikipedia
+https://en.wikipedia.org/wiki/Craig_Silverstein
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Jim%20Reese%20was%20an%20engineer%20at%20Google.%20He%20was%20once%20knocked%20out%20by%20a%20200-pound%20metal%20beam%20in%20a%20data%20center%20that%20Google%20was%20leasing.&op=translate
+
+Jim Reese google - Google 搜索
+https://www.google.com.hk/search?q=Jim+Reese+google&rlz=1C1GCEA_enJP1090JP1090&oq=Jim+Reese+google&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCQgFEAAYExiABDIGCAYQRRg8MgYIBxBFGDzSAQgxNzM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+I'm Feeling Lucky: The Confessions of Google Employee Number 59 - Douglas Edwards - Google 图书
+https://books.google.com.hk/books?id=zdlZ2rrcZWEC&lpg=PA35&ots=SCNT0h0HoZ&dq=i%27m+feeling+lucky+urs&pg=PA35&redir_esc=y#v=onepage&q=i'm%20feeling%20lucky%20urs&f=false
+
+I'm Feeling Lucky (book) - Wikipedia
+https://en.wikipedia.org/wiki/I'm_Feeling_Lucky_(book)
+
+Amit Patel google - Google 搜索
+https://www.google.com/search?q=Amit+Patel+google&sca_esv=594818074&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlUXwjasctz2FmOEyDmnAEm0kJkVA%3A1704074210706&ei=4huSZa3LKuSc0-kP89260A0&ved=0ahUKEwitxP-Pi7uDAxVkzjQHHfOuDtoQ4dUDCBE&uact=5&oq=Amit+Patel+google&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhFBbWl0IFBhdGVsIGdvb2dsZTIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUiaC1ClA1iFCXABeAGQAQCYAZIBoAHqBqoBAzAuN7gBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQLhiABBjLAcICBhAAGAgYHsICCRAAGAUYHhiLA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Harry Cheung google - Google 搜索
+https://www.google.com.hk/search?q=Harry+Cheung+google&newwindow=1&sca_esv=594818074&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnm13scFFD4TGbWpzgiFNVFNLFeZQ%3A1704074270101&ei=HhySZdbgBdaMvr0Pg4iggAU&ved=0ahUKEwjW56isi7uDAxVWhq8BHQMECFAQ4dUDCBA&uact=5&oq=Harry+Cheung+google&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIhNIYXJyeSBDaGV1bmcgZ29vZ2xlMgsQABiABBjLARiLAzILEAAYgAQYywEYiwNI6AlQlwFY4gdwAXgBkAEAmAGzAaABmAeqAQMwLje4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABge4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp
+
+Five Key Hires to Google's Success | The Org
+https://theorg.com/iterate/five-key-hires-to-googles-success
+
+ray sidney google - Google 搜索
+https://www.google.com.hk/search?q=ray+sidney+google&rlz=1C1GCEA_enJP1090JP1090&oq=Ray+Sidney+google&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEAAYHjIGCAIQABgeMgYIAxBFGDwyBggEEEUYPDIGCAUQRRg80gEINjM1M2owajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+
+# 2023-12-31
 
 v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me

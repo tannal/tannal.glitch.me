@@ -1,4 +1,10 @@
 
+# Get the code, build, run, debug, logging, lsp
+
+mercurial
+
+mach
+
 
 ```bash
 
@@ -13,4 +19,25 @@ cd mozilla-unified
 hg up -C central
 ./mach build
 
+./mach ide vscode
+
+
+./mach build-backend --backend=CompileDB
+
+./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json
+
+find . -name compile_commands.json
+
+ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.json 
+
 ```
+
+
+
+# directory structure
+
+gfx/
+
+servo/
+
+python/
