@@ -1,6 +1,12 @@
+# 2024-1-1
+
 
 
 # 2023-12-31
+
+net user
+
+net Administrator 123456789
 
 按F1键，进入bios，把改Intel VMD Comtroller为disabled
 

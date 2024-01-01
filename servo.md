@@ -1,5 +1,37 @@
 
 
+Q: Where does the code change window sizing
+
+
+
+window
+  headed_window
+  headless_window
+
+browser
+  window: Rc<Window>
+
+compositor
+  window: Rc<Window, Global>
+
+
+constellation: Constellation<Message, LTF, STF, SWF>
+  window_size: 
+
+
+```rust
+#0  servo::headed_window::Window::new
+    (win_size=..., events_loop=0x7fffffff8290, no_native_titlebar=false, device_pixel_ratio_override=...) at ports/servoshell/headed_window.rs:145
+#1  0x0000555556085f98 in servo::app::App::run
+    (no_native_titlebar=false, device_pixel_ratio_override=..., user_agent=..., url=...) at ports/servoshell/app.rs:75
+#2  0x000055555609360d in servo::main2::main ()
+    at ports/servoshell/main2.rs:139
+#3  0x0000555556164c16 in servo::main () at ports/servoshell/main.rs:62
+
+```
+
+components/servo/lib.rs
+
 style/
 
 script/ mozjs
