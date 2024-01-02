@@ -1,5 +1,16 @@
 # 2024-1-2
 
+
+sudo apt update
+sudo apt install gh
+gh auth login
+
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+git config --global http.sslverify false 
+git config --global imap.sslverify false
+
 .\vcpkg\bootstrap-vcpkg.bat
 
 .\vcpkg integrate install

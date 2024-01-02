@@ -5,6 +5,10 @@ git pull --rebase
 
 gclient sync
 
+skia
+
+
+
 ```bash
 
 export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
