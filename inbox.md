@@ -1,5 +1,24 @@
 # 2024-1-1
 
+sudo tcpdump -w /tmp/memcached.pcap -i any -A -vv 'port 11211'
+
+sudo tcpdump -i any -AX -vv 'port 11211'
+
+netstat -tuln
+
+sudo apt install socat
+
+socat - TCP-LISTEN:2222,crlf
+
+socat - TCP::2222
+
+sudo tcpdump -i enp5s0 tcp port 11211
+
+sudo tcpdump -Xi enp5s0 port 2222
+
+
+https://github.com/nodejs/node/blob/5fb630597196cd5f3a8b7febdea3108fb89f067b/src/node.cc#L784
+
 qemu-system-riscv64 -machine virt -bios none -kernel kernel/kernel -m 128M -smp 3 -nographic -drive file=fs.img,if=none,format=raw,id=x0 -device virtio-blk-device,drive=x0,bus=virtio-mmio-bus.0
 
 sudo apt install qemu-system-misc gcc-aarch64-linux-gnu
@@ -378,6 +397,7 @@ stats
 
 ```bash
 
+// TODO tcpdump wireshark 
 set lisi 0 0  3    3       #插入一个数据
 aaa              #插入的数据为aaa
 STORED             #返回“STORED”则表示插入成功
@@ -502,6 +522,8 @@ cd memcached
 ./autogen.sh
 ./configure
 time make -j20
+
+./memcached
 
 real	0m1.496s
 user	0m18.721s
