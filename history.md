@@ -1,3 +1,201 @@
+# 2024-1-2
+
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+kdlp.underground.software/slides_src/memory_allocation.md at v2-master · underground-software/kdlp.underground.software
+https://github.com/underground-software/kdlp.underground.software/blob/v2-master/slides_src/memory_allocation.md
+
+6.S081——陷阱部分(一文读懂xv6系统调用)——xv6源码完全解析系列(5)_xv6源码分析-CSDN博客
+https://blog.csdn.net/zzy980511/article/details/130255251
+
+node/src/node.cc at 5fb630597196cd5f3a8b7febdea3108fb89f067b · nodejs/node
+https://github.com/nodejs/node/blob/5fb630597196cd5f3a8b7febdea3108fb89f067b/src/node.cc#L784
+
+%d and %i should use parseInt() all the time · Issue #21427 · denoland/deno
+https://github.com/denoland/deno/issues/21427
+
+open-gpu-kernel-modules/src/nvidia at main · NVIDIA/open-gpu-kernel-modules
+https://github.com/NVIDIA/open-gpu-kernel-modules/tree/main/src/nvidia
+
+tcpdump - Google 搜索
+https://www.google.com/search?q=tcpdump&rlz=1C1GCEA_enJP1090JP1090&oq=tcpdump&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE4NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+networking - tcpdump doesn't appear to be capturing any data, why? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/155869/tcpdump-doesnt-appear-to-be-capturing-any-data-why
+
+Using TCPDUMP to capture Memcached packets
+https://gist.github.com/fabrizioc1/5036383
+
+Astro
+https://astro.build/
+
+Images | Docs
+https://docs.astro.build/en/guides/images/#_top
+
+Releases · nvm-sh/nvm
+https://github.com/nvm-sh/nvm/releases
+
+192.168.43.95:4321/posts/inbox
+http://192.168.43.95:4321/posts/inbox
+
+tannapi - Project - Deploy
+https://dash.deno.com/projects/tannapi
+
+tannal/tannapi
+https://github.com/tannal/tannapi
+
+Firebase CLI 参考文档  |  Firebase 文档
+https://firebase.google.com/docs/cli?hl=zh-cn#linux
+
+Firebase & Astro | Docs
+https://docs.astro.build/en/guides/backend/google-firebase/#adding-firebase-credentials
+
+node.js - Firebaseapperror: failed to parse private key: error: invalid pem formatted message - Stack Overflow
+https://stackoverflow.com/questions/70281140/firebaseapperror-failed-to-parse-private-key-error-invalid-pem-formatted-mess
+
+Could not find Sharp. | Docs
+https://docs.astro.build/en/reference/errors/missing-sharp/
+
+tannal.web.app/posts/inbox/
+https://tannal.web.app/posts/inbox/
+
+How do people make up the problems? - Codeforces
+https://codeforces.com/blog/entry/91499
+
+On problemsetting - Codeforces
+https://codeforces.com/blog/entry/70178
+
+Way of problemsetter - Codeforces
+https://codeforces.com/blog/entry/12642
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+solving puzzles is like hide and seek - Google 搜索
+https://www.google.com/search?q=solving+puzzles+is+like+hide+and+seek&rlz=1C1GCEA_enJP1090JP1090&oq=solving+puzzles+is+like+hide+and+seek&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBBzIyN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Updating a C / C++ library using vcpkg - [Raylib 4.0] - YouTube
+https://www.youtube.com/watch?v=qZbsHVkOtXc
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Hymn For The weekend- KRYSO Mashup - YouTube
+https://www.youtube.com/watch?v=-9He4_270zE
+
+microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS
+https://github.com/microsoft/vcpkg
+
+C++ Easy Mode -- Getting Started with C++ (Using VCPKG) - YouTube
+https://www.youtube.com/watch?v=iZeK3Ie5Fz0
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS
+https://github.com/microsoft/vcpkg
+
+overleaf.com
+https://overleaf.com/
+
+felipeerias (Felipe Erias)
+https://github.com/felipeerias
+
+Darker Ink Felipe Erias | Darker Ink
+https://darker.ink/
+
+Members · People · Igalia
+https://github.com/orgs/Igalia/people?page=2
+
+Chromium Embedded Framework
+https://github.com/chromiumembedded
+
+捡垃圾 篇二：红米2安装PostmarketOS体验原生Linux_软件应用_什么值得买
+https://post.smzdm.com/p/aox8w99r/
+
+Vcpkg tutorial - Install C and C++ libraries for Visual Studio 2017 on Windows 10 - YouTube
+https://www.youtube.com/watch?v=wRnjahwxZ8A
+
+How to Set up Visual Studio Code for C and C++ Programming - YouTube
+https://www.youtube.com/watch?v=77v-Poud_io
+
+vcpkg cppcon - Google 搜索
+https://www.google.com/search?q=vcpkg+cppcon&rlz=1C1GCEA_enJP1090JP1090&oq=vcpkg+cppcon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDvSAQg0NzI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+C++ Package Manager - C++ Dependencies Don't Have To Be Painful! - Augustin Popa - YouTube
+https://www.youtube.com/watch?v=Ae9EePOIouU
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Install WPS Office with winget - winstall
+https://winstall.app/apps/Kingsoft.WPSOffice
+
+C++ Easy Mode -- Getting Started with C++ (Using VCPKG) - YouTube
+https://www.youtube.com/watch?v=iZeK3Ie5Fz0
+
+Install cpp libraries and include them in vscode using vcpkg and cmake (windows ,MSVC compiler ) - YouTube
+https://www.youtube.com/watch?v=MaBL_hmt7VU
+
+My new favorite way to do C++ Libs on Windows. [vcpkg, cmake, manifest, project local, portable] - YouTube
+https://www.youtube.com/watch?v=FDk6i6b7bgU
+
+cairographics.org
+https://cairographics.org/
+
+roundedrectangles
+https://cairographics.org/cookbook/roundedrectangles/
+
+cli/docs/install_linux.md at trunk · cli/cli
+https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+
+tannal.web.app/posts/inbox/
+https://tannal.web.app/posts/inbox/
+
+Get Started with C++ and MinGW-w64 in Visual Studio Code
+https://code.visualstudio.com/docs/cpp/config-mingw
+
+AlexandraKemperMS (Alexandra Kemper)
+https://github.com/AlexandraKemperMS
+
+How Visual Studio Code Helps You Develop More Efficiently in C++ - Alexandra Kemper and Sinem Akinci - YouTube
+https://www.youtube.com/watch?v=Soy3RjGYUJw
+
+raylib - examples
+https://www.raylib.com/examples.html
+
+vcpkg not copying DLLs to target directory · Issue #4311 · microsoft/vcpkg
+https://github.com/Microsoft/vcpkg/issues/4311
+
+endless-sky/endless-sky: Space exploration, trading, and combat game.
+https://github.com/endless-sky/endless-sky
+
+Endless Sky, an open source space trading and combat game.
+https://endless-sky.github.io/
+
+networking - How do I find out which process is eating up my bandwidth? - Ask Ubuntu
+https://askubuntu.com/questions/2411/how-do-i-find-out-which-process-is-eating-up-my-bandwidth
+
+c++ - What is CLANG indexing and why is it slow? - Stack Overflow
+https://stackoverflow.com/questions/75045121/what-is-clang-indexing-and-why-is-it-slow
+
+How to Install Libraries in C++ (via CMake and Vcpkg) [READ DESC] - YouTube
+https://www.youtube.com/watch?v=FeBzSYiWkEU
+
+c++ - cmake cannot find libraries installed with vcpkg - Stack Overflow
+https://stackoverflow.com/questions/55496611/cmake-cannot-find-libraries-installed-with-vcpkg
+
+Google
+https://www.google.com/
+
+
 # 2024-1-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

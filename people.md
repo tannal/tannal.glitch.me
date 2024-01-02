@@ -13,6 +13,10 @@ Vaughan Pratt
 
 # from 2023-12-08
 
+Alexandra Kemper Visual Studio Code PM
+
+Sinem Akinci https://twitter.com/sinem__akinci VisualStudio (Code) PM
+
 Adam Barth https://twitter.com/adambarth flutter founder
 
 Eric Seidel https://twitter.com/_eseidel flutter founder ex-chrome now shorebirddev

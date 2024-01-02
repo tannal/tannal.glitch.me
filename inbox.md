@@ -1,5 +1,25 @@
 # 2024-1-2
 
+![Alt text](./image-2.png)
+
+vcpkg cmake
+
+devtContainers
+
+vscode profiles
+
+sudo apt-get install nethogs
+
+sudo nethogs
+
+set(CMAKE_PREFIX_PATH "C:/Users/tannal/tannalwork/projects/vcpkg/installed/x64-windows/share")
+
+clangd indexer sucks not only eating CPU but also I/O network bandwidth needs improvement i think
+
+https://github.com/endless-sky
+
+https://endless-sky.github.io/
+
 
 sudo apt update
 sudo apt install gh
