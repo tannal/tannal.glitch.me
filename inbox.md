@@ -1057,7 +1057,7 @@ https://github.com/postgres/postgres/tree/0a93f803f45f45f39473e2c61923c4b4777bc8
 
 # 2023-12-24
 
-![Toit language for IOT](image-1.png)
+![Toit language for IOT](./image-1.png)
 
 ```bash
 
