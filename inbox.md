@@ -1,4 +1,40 @@
-# 2024-1-1
+# 2024-1-2
+
+.\vcpkg\bootstrap-vcpkg.bat
+
+.\vcpkg integrate install
+
+vcpkg list raylib
+vcpkg search raylib
+vcpkg install raylib
+
+https://github.com/Uchiha-Peng/lavender-sailfish-ubuntutouch
+
+git clone https://github.com/microsoft/vcpkg.git
+
+Extended Reality (XR)
+
+Wolvic browser
+
+mi spot is faster than router tplink ax3000 no idea why
+
+solving puzzles is like hide and seek
+
+npm install -g firebase-tools
+
+firebase login
+
+firebase init
+
+https://console.firebase.google.com/project/tannal/settings/general/web:YzU4MmU4MWEtNjIwNS00OTcxLTg2NDEtYjkwNzFkMjc3YTBi
+
+https://pagespeed.web.dev/analysis/https-tannal-web-app-posts-inbox/to312vfwgu?form_factor=mobile
+
+firebase deploy --only hosting
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+git clone https://www.github.com/tannal/tannal.web.app
 
 sudo tcpdump -w /tmp/memcached.pcap -i any -A -vv 'port 11211'
 
@@ -10,12 +46,13 @@ sudo apt install socat
 
 socat - TCP-LISTEN:2222,crlf
 
-socat - TCP::2222
+socat - TCP:localhost:2222
 
 sudo tcpdump -i enp5s0 tcp port 11211
 
 sudo tcpdump -Xi enp5s0 port 2222
 
+# 2024-1-1
 
 https://github.com/nodejs/node/blob/5fb630597196cd5f3a8b7febdea3108fb89f067b/src/node.cc#L784
 
@@ -238,6 +275,7 @@ winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
 winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id Microsoft.vcpkg
 winget install Microsoft.OpenJDK.21
 
 winget install -e --id Unity.UnityHub
