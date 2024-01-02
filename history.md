@@ -1,5 +1,86 @@
 # 2024-1-1
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+6.S081——陷阱部分(一文读懂xv6系统调用)——xv6源码完全解析系列(5)_xv6源码分析-CSDN博客
+https://blog.csdn.net/zzy980511/article/details/130255251
+
+jsdom/lib/jsdom/living/helpers/html-constructor.js at b7683ed68ebe259cd2c68e5faf12d484a785f45f · jsdom/jsdom
+https://github.com/jsdom/jsdom/blob/b7683ed68ebe259cd2c68e5faf12d484a785f45f/lib/jsdom/living/helpers/html-constructor.js#L50
+
+2009 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2009/
+
+WebGL goes mobile - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2009/12/webgl-goes-mobile/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Grant Account Access
+https://phabricator.services.mozilla.com/conduit/login/
+
+tannal (tannal)
+https://github.com/tannal
+
+Download and install NVM for Windows with winget
+https://winget.run/pkg/CoreyButler/NVMforWindows
+
+美国经济史 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E5%8F%B2#%E6%92%A4%E9%8A%B7%E7%AE%A1%E5%88%B6%EF%BC%9A1981%E5%B9%B4%E2%80%931992%E5%B9%B4
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+python - UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown plt.show() - Stack Overflow
+https://stackoverflow.com/questions/77507580/userwarning-figurecanvasagg-is-non-interactive-and-thus-cannot-be-shown-plt-sh
+
+Gross Domestic Product of the United States (US GDP) - Dataset - DataHub - Frictionless Data
+https://datahub.io/core/gdp-us#resource-year
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%A2%9E%E9%95%BF%E7%8E%87&op=translate
+
+gdp-us - DataHub - Frictionless Data
+https://datahub.io/core/gdp-us/view/0
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Servo should support using OpenXR on Linux via Monado · Issue #192 · servo/webxr
+https://github.com/servo/webxr/issues/192
+
+deno_dom@v0.1.43 | Deno
+https://deno.land/x/deno_dom@v0.1.43
+
+b-fuze/deno-dom: Browser DOM & HTML parser in Deno
+https://github.com/b-fuze/deno-dom
+
+jsdom/lib/jsdom/living/helpers/create-element.js at b7683ed68ebe259cd2c68e5faf12d484a785f45f · jsdom/jsdom
+https://github.com/jsdom/jsdom/blob/b7683ed68ebe259cd2c68e5faf12d484a785f45f/lib/jsdom/living/helpers/create-element.js#L168
+
+Code search results
+https://github.com/search?q=repo%3Ajestjs%2Fjest+jsdom+language%3ATypeScript&type=code&l=TypeScript&p=1
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/custom-elements.html#concept-already-constructed-marker
+
+winget install deno - Google 搜索
+https://www.google.com.hk/search?q=winget+install+deno&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+deno&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIGCAkQABge0gEIMjIxOGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Asian Boss - Wikipedia
+https://en.wikipedia.org/wiki/Asian_Boss
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Current%20and%20Chained%20LevelsCurrent%20and%20Chained%20Levels&op=translate
+
+MIT6.828/lab1.md at master · MarybethGasman/MIT6.828
+https://github.com/MarybethGasman/MIT6.828/blob/master/lab1.md
+
+raspi3-tutorial/00_crosscompiler at master · tannal/raspi3-tutorial
+https://github.com/tannal/raspi3-tutorial/tree/master/00_crosscompiler
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

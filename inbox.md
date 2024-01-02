@@ -1,5 +1,9 @@
 # 2024-1-1
 
+qemu-system-riscv64 -machine virt -bios none -kernel kernel/kernel -m 128M -smp 3 -nographic -drive file=fs.img,if=none,format=raw,id=x0 -device virtio-blk-device,drive=x0,bus=virtio-mmio-bus.0
+
+sudo apt install qemu-system-misc gcc-aarch64-linux-gnu
+
 
 
 https://vis.csail.mit.edu/classes/6.859/
@@ -9,7 +13,7 @@ https://www.cs171.org/2023/resources/
 ```py
 
 // us_gdp.csv
-// https://datahub.io/core/gdp-us#resource-year
+// https://datahub.io/core/gdp-us#resource-yea  r
 date,level-current,level-chained,change-current,change-chained
 1930,92.2,966.7,-16.0,-6.4
 1931,77.4,904.8,-23.1,-12.9
