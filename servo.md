@@ -1,4 +1,22 @@
+```bash
+sudo apt update
 
+sudo apt install git
+
+git clone https://www.github.com/tannal/tannalwork/
+
+git submodule update --init .
+
+git clone https://www.github.com/servo/servo
+
+
+# sudo apt install python3-pip python-is-python3l
+
+pip install virtualenv --break-system-packages
+
+
+
+```
 
 dependency bot update dependecies version
 

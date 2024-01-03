@@ -1,5 +1,13 @@
 # 2024-1-3
 
+
+https://en.wikichip.org/wiki/arm_holdings/microarchitectures/cortex-a76
+
+arm raspi5 arm cortext A76 
+
+
+
+
 ```bash
 
 virtualenv yxl python=python3.8
