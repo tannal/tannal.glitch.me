@@ -1,7 +1,11 @@
 # 2024-1-3
 
 
+```bash
 
+sudo shutdown
+
+```
 
 I generated builds for node using default, ninja and ccache enabled, here is what I found:
 

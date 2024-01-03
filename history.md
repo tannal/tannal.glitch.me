@@ -1,4 +1,167 @@
+# 2024-1-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+C++ Package Manager - C++ Dependencies Don't Have To Be Painful! - Augustin Popa - YouTube
+https://www.youtube.com/watch?v=rrcngYMAJ-w
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+outreachy.org/apply/eligibility/
+https://www.outreachy.org/apply/eligibility/
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#outreachy-schedule
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Outreachy Alums, December 2023 to March 2024
+https://www.outreachy.org/alums/2023-12/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Edit: Ellipse
+https://slides.com/mengtan/ellipse/edit
+
+(8) #general > WebGPU adapter when not available - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebGPU.20adapter.20when.20not.20available
+
+WebGPU: fail request for adapter when not available. · Issue #30895 · servo/servo
+https://github.com/servo/servo/issues/30895
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+tannal (tannal)
+https://github.com/tannal
+
+What's the future of Servo? · servo/servo · Discussion #27575
+https://github.com/servo/servo/discussions/27575
+
+After the restructuring, is this repo still maintained ? · servo/servo · Discussion #27584
+https://github.com/servo/servo/discussions/27584#discussioncomment-51146
+
+netsurf.git - NetSurf Browser
+http://source.netsurf-browser.org/netsurf.git/tree/
+
+Talent Directory
+https://talentdirectory.mozilla.org/
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+source.netsurf-browser.org/netsurf.git/plain/docs/quick-start.md
+https://source.netsurf-browser.org/netsurf.git/plain/docs/quick-start.md
+
+Getting the Code | WebKit
+https://webkit.org/getting-the-code/
+
+chromium/chromium: The official GitHub mirror of the Chromium source
+https://github.com/chromium/chromium
+
+tannal (tannal)
+https://github.com/tannal/
+
+Java in Visual Studio Code
+https://code.visualstudio.com/docs/languages/java
+
+java maven gradle vscode - Google 搜索
+https://www.google.com/search?q=java+maven+gradle+vscode&rlz=1C1GCEA_enJP1090JP1090&oq=java+maven+gradle+vscode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc3MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+octref (Pine)
+https://github.com/octref
+
+waldyrious (Waldir Pimenta)
+https://github.com/waldyrious
+
+gitspective
+https://connectionrequired.com/gitspective/#/timeline/waldyrious
+
+Waldir Pimenta vscode youtube - Google 搜索
+https://www.google.com/search?q=Waldir+Pimenta+vscode+youtube&sca_esv=595244089&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmoRA4wvT-NaD_RXGdNEXs9aYwjGg%3A1704248573340&ei=_cSUZa60FMPE1e8P6u6V2Ag&ved=0ahUKEwjupsrWlMCDAxVDYvUHHWp3BYsQ4dUDCBA&uact=5&oq=Waldir+Pimenta+vscode+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiHVdhbGRpciBQaW1lbnRhIHZzY29kZSB5b3V0dWJlSIkJUCJYlQhwAXgAkAEAmAHGBKABkRCqAQU0LTIuMrgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp#ip=1
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit/
+
+How to enable logging
+https://www.chromium.org/for-testers/enable-logging/
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+反恐精英Online官方网站 ; 世纪天成
+https://csol.tiancity.com/homepage/v6/
+
+世纪天成 - 官网首页
+https://www.tiancity.com/homepage/
+
+上海邮通科技 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%82%AE%E9%80%9A%E7%A7%91%E6%8A%80
+
+NEXON - Google 搜索
+https://www.google.com/search?q=NEXON&rlz=1C1GCEA_enJP1090JP1090&oq=NEXON&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMTQ1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Video games in South Korea - Wikipedia
+https://en.wikipedia.org/wiki/Video_games_in_South_Korea
+
+Google
+https://www.google.com/
+
+Clangd – WebKit
+https://trac.webkit.org/wiki/Clangd
+
+webkit compilation database linux - Google 搜索
+https://www.google.com/search?q=webkit+compilation+database+linux&sca_esv=595292778&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm12_s2QMgUvH9QxB0d6A1UVfpV1w%3A1704267254169&ei=9g2VZbD_CeTw1e8Pm--IeA&ved=0ahUKEwiw0qWi2sCDAxVkePUHHZs3Ag8Q4dUDCBA&uact=5&oq=webkit+compilation+database+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXdlYmtpdCBjb21waWxhdGlvbiBkYXRhYmFzZSBsaW51eEidDFBAWLALcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp
+
+webkit generating compile_commands.json linux - Google 搜索
+https://www.google.com/search?q=webkit+generating+compile_commands.json+linux&sca_esv=595292778&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlvj2FrHXuk5DiNOFuQL8PrAtrl3g%3A1704267840557&ei=QBCVZb7PIcSMvr0PqNkc&ved=0ahUKEwi-7_O53MCDAxVEhq8BHagsBwAQ4dUDCBA&uact=5&oq=webkit+generating+compile_commands.json+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiLXdlYmtpdCBnZW5lcmF0aW5nIGNvbXBpbGVfY29tbWFuZHMuanNvbiBsaW51eDIHECEYoAEYCkjGC1AHWMQJcAF4AJABAJgBqAKgAZoKqgEDMi01uAEDyAEA-AEBwgIFECEYoAHiAwQYASBBiAYB&sclient=gws-wiz-serp
+
+[webkit-dev] Generating compile_commands.json when building WebKit on MacOS
+https://lists.webkit.org/pipermail/webkit-dev/2020-July/031310.html
+
+www.mail-archive.com
+https://www.mail-archive.com/webkit-dev@lists.webkit.org/msg29598.html
+
+171632 – [Tools] Add support for clang-tidy
+https://bugs.webkit.org/show_bug.cgi?id=171632
+
+webkit gtk commands compilation database - Google 搜索
+https://www.google.com/search?q=webkit+gtk+commands++compilation+database&sca_esv=595303506&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnOiBLNdcLrburplSn0AVoJrlsetQ%3A1704269124415&ei=RBWVZaP9GK_i1e8P9Ya-qAg&ved=0ahUKEwijr4ye4cCDAxUvcfUHHXWDD4UQ4dUDCBA&uact=5&oq=webkit+gtk+commands++compilation+database&gs_lp=Egxnd3Mtd2l6LXNlcnAiKXdlYmtpdCBndGsgY29tbWFuZHMgIGNvbXBpbGF0aW9uIGRhdGFiYXNlMggQABiABBiiBDIIEAAYgAQYogRIlCNQvARYrRlwA3gAkAEAmAGrAqAB1BWqAQQyLTExuAEDyAEA-AEB4gMEGAEgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+Blaming webkit-tools/compile_commands.sh at master · eocanha/webkit-tools
+https://github.com/eocanha/webkit-tools/blame/master/compile_commands.sh
+
+webkit compile_commands.json linux site:lists.webkit.org - Google 搜索
+https://www.google.com/search?q=webkit+compile_commands.json+linux+site%3Alists.webkit.org&sca_esv=595303506&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=738&sxsrf=AM9HkKmmIrv-4wfIk8DAaSEsM5viiUrqVg%3A1704269971850&ei=kxiVZf7DM5bs1e8PuaKd8As&ved=0ahUKEwi-2Zey5MCDAxUWdvUHHTlRB74Q4dUDCBA&uact=5&oq=webkit+compile_commands.json+linux+site%3Alists.webkit.org&gs_lp=Egxnd3Mtd2l6LXNlcnAiOHdlYmtpdCBjb21waWxlX2NvbW1hbmRzLmpzb24gbGludXggc2l0ZTpsaXN0cy53ZWJraXQub3JnSIYQUPMDWPUNcAF4AJABAJgBlASgAZQEqgEDNS0xuAEDyAEA-AEB4gMEGAEgQYgGAQ&sclient=gws-wiz-serp
+
+webkit gtk clangd not working - Google 搜索
+https://www.google.com/search?q=webkit+gtk+clangd+not+working&rlz=1C1GCEA_enJP1090JP1090&oq=webkit+gtk+clangd+not+working&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhBFGDvSAQg4NDM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Setting up VisualStudio code to work with WebKitGTK using clangd – Alicia's blog
+https://blogs.igalia.com/aboya/2021/10/02/setting-up-visualstudio-code-to-work-with-webkitgtk-using-clangd/
+
+Looking for a 'cmake clean' command to clear up CMake output - Stack Overflow
+https://stackoverflow.com/questions/9680420/looking-for-a-cmake-clean-command-to-clear-up-cmake-output
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+Cmake cache unable to load error · Issue #4522 · conan-io/conan
+https://github.com/conan-io/conan/issues/4522
+
+世界各国圣诞放假时间以及哪些国家不过圣诞 - 知乎
+https://zhuanlan.zhihu.com/p/449344050
+
+
 # 2024-1-2
+
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
