@@ -1,5 +1,15 @@
 # notes on chromium
 
+
+```bash
+
+
+
+VLOG(1) << "Hello World" << std::endl;
+
+
+```
+
 git checkout master
 git pull --rebase
 
@@ -38,7 +48,12 @@ sys	146m59.666s
 
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
+./out/Default/chrome --enable-logging=stderr --v=1
+
 ```
+
+class Document
+provided by "third_party/blink/renderer/core/dom/document.h"
 
 ## src/net/socket/ssl_client_socket_impl.cc 
 

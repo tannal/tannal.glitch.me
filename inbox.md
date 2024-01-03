@@ -1,5 +1,78 @@
 # 2024-1-3
 
+```bash
+
+virtualenv yxl python=python3.8
+
+
+virtualenv yxl --python=python3.8
+
+Set-ExecutionPolicy Unrestricted -Force
+
+set-executionpolicy remotesigned
+
+Activate yxl/bin/activate
+
+yxl/Scripts/activate
+
+../yxl/Scripts/activate
+
+pip freeze
+
+
+
+
+pip install torch==1.2.0
+
+
+git clone https://github.com/ultralytics/ultralytics.git
+
+
+pip install .
+
+
+
+nvidia-smi
+CUDA Version: 12.2
+
+pip install torch==2.0.1 torchvision==0.15+cu111 torchaudio==2.0.2
+
+PyTorch	TorchAudio	Python
+2.0.1	2.0.2	>=3.8 , <=3.11
+2.0.0	2.0.1	>=3.8 , <=3.11
+1.13.1	0.13.1	>=3.7 , <=3.10
+1.13.0	0.13.0	>=3.7 , <=3.10
+
+pip install ultralytics
+
+
+```
+
+
+https://github.com/octref
+https://github.com/waldyrious
+
+https://github.com/microsoft/vscode-docs
+
+code analysis lsp highlighting eta
+
+lsp is pretty damn important
+
+c/c++ clangd compilation database bear/cmake compile_commads.json
+
+python no idea
+
+java no idea
+
+go go
+
+rust rust-analyer
+
+
+
+perl/ruby/tcl/erlang/scala/
+
+
 https://www.netsurf-browser.org/
 
 ```bash
