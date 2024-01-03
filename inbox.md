@@ -1,9 +1,24 @@
 # 2024-1-3
 
 
+
+
+I generated builds for node using default, ninja and ccache enabled, here is what I found:
+
+command used: make -j6
+physical cpu cores: 6
+
+    default config: 27 minutes , incremental builds: ~21 seconds
+    default config + ccache enabled: 52 minutes, incremental builds: ~22 seconds
+    ninja: 31 minutes, incremental builds: ~1 second
+    ninja + ccache enabled: 32 minutes, incremental builds: ~1 second
+
+
 https://en.wikichip.org/wiki/arm_holdings/microarchitectures/cortex-a76
 
-arm raspi5 arm cortext A76 
+arm raspi5 arm cortext A76
+
+
 
 
 
@@ -302,6 +317,8 @@ https://pagespeed.web.dev/analysis/https-tannal-web-app-posts-inbox/to312vfwgu?f
 firebase deploy --only hosting
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+nvm 
 
 git clone https://www.github.com/tannal/tannal.web.app
 

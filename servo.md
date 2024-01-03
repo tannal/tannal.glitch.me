@@ -1,4 +1,6 @@
 ```bash
+
+
 sudo apt update
 
 sudo apt install git
@@ -13,7 +15,25 @@ git clone https://www.github.com/servo/servo
 # sudo apt install python3-pip python-is-python3l
 
 pip install virtualenv --break-system-packages
+curl --proto 'ls=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
+./mach bootstrap
+
+sudo apt install m4
+
+time ./mach build
+
+
+
+# on my arm cortex A76 raspi 5
+
+real	10m56.115s
+user	32m57.548s
+sys	3m14.510s
+
+
+./mach build
+./mach run
 
 
 ```
