@@ -1,5 +1,121 @@
 # 2024-1-2
 
+
+https://github.com/nodejs/node/pull/50899/files
+
+
+```bash
+
+winget install --id=Kingsoft.WPSOffice  -e
+
+
+```
+gitpod
+
+
+```bash
+
+
+c/c++ on windows
+
+# configuration json
+"cmake.configureSettings": {
+    "CMAKE_TOOLCHAIN_FILE": "C:/Users/tannal/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake",
+    "VCPKG_TARGET_TRIPLET": "x64-windows"
+},
+
+# CMakeLists.txt
+
+cmake_minimum_required(VERSION 3.0.0)
+project(ray VERSION 0.1.0 LANGUAGES C CXX)
+
+include(CTest)
+enable_testing()
+
+set(CPACK_PROJECT_NAME ${PROJECT_NAME})
+set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
+include(CPack)
+
+file(GLOB EXAMPLE_SOURCES "*.cc")
+find_package(raylib CONFIG REQUIRED)
+
+
+foreach(EXAMPLE_SOURCE ${EXAMPLE_SOURCES})
+    get_filename_component(EXAMPLE_NAME ${EXAMPLE_SOURCE} NAME_WE)
+    add_executable(${EXAMPLE_NAME} ${EXAMPLE_SOURCE})
+    target_link_libraries(${EXAMPLE_NAME} PRIVATE raylib)
+endforeach()
+
+# main.cc
+/*******************************************************************************************
+*
+*   raylib [core] example - Basic window
+*
+*   Welcome to raylib!
+*
+*   To test examples, just press F6 and execute raylib_compile_execute script
+*   Note that compiled executable is placed in the same folder as .c file
+*
+*   You can find all basic examples on C:\raylib\raylib\examples folder or
+*   raylib official webpage: www.raylib.com
+*
+*   Enjoy using raylib. :)
+*
+*   Example originally created with raylib 1.0, last time updated with raylib 1.0
+*
+*   Example licensed under an unmodified zlib/libpng license, which is an OSI-certified,
+*   BSD-like license that allows static linking with closed source software
+*
+*   Copyright (c) 2013-2023 Ramon Santamaria (@raysan5)
+*
+********************************************************************************************/
+
+#include "raylib.h"
+//------------------------------------------------------------------------------------
+// Program main entry point
+//------------------------------------------------------------------------------------
+int main(void)
+{
+    // Initialization
+    //--------------------------------------------------------------------------------------
+    const int screenWidth = 800;
+    const int screenHeight = 450;
+
+    InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
+
+    SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
+    //--------------------------------------------------------------------------------------
+
+    // Main game loop
+    while (!WindowShouldClose())    // Detect window close button or ESC key
+    {
+        // Update
+        //----------------------------------------------------------------------------------
+        // TODO: Update your variables here
+        //----------------------------------------------------------------------------------
+
+        // Draw
+        //----------------------------------------------------------------------------------
+        BeginDrawing();
+
+            ClearBackground(RAYWHITE);
+
+            DrawText("Congrats! You created your first window!", 190, 200, 20, LIGHTGRAY);
+
+        EndDrawing();
+        //----------------------------------------------------------------------------------
+    }
+
+    // De-Initialization
+    //--------------------------------------------------------------------------------------
+    CloseWindow();        // Close window and OpenGL context
+    //--------------------------------------------------------------------------------------
+
+    return 0;
+}
+
+```
+
 ![Alt text](./image-2.png)
 
 vcpkg cmake

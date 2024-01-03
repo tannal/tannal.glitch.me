@@ -1,5 +1,56 @@
 # 2024-1-2
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GitHub Features Every C++ Developer Should Know - Michael Price - CppCon 2022 - YouTube
+https://www.youtube.com/watch?v=Mo8MeVzzdE8
+
+How Visual Studio Code Helps You Develop More Efficiently in C++ - Alexandra Kemper and Sinem Akinci - YouTube
+https://www.youtube.com/watch?v=Soy3RjGYUJw
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+vscode-cmake-tools/docs/README.md at main · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/README.md
+
+Meet the World's Fastest PC: The new HP Z6 G5A Workstation - YouTube
+https://www.youtube.com/watch?v=IiD7AojZw_E
+
+Intel Core i9-13900KS - Google 搜索
+https://www.google.com/search?q=Intel+Core+i9-13900KS&rlz=1C1GCEA_enJP1090JP1090&oq=Intel+Core+i9-13900KS&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHNTMwajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+PassMark CPU Benchmarks - New Desktop CPUs Performance
+https://www.cpubenchmark.net/desktop.html
+
+AMD Ryzen™ 9 7950X Desktop Processors | AMD
+https://www.amd.com/en/products/cpu/amd-ryzen-9-7950x
+
+英特尔® 酷睿™ i9-13900KS 处理器
+https://www.intel.cn/content/www/cn/zh/products/sku/232167/intel-core-i913900ks-processor-36m-cache-up-to-6-00-ghz/specifications.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=cute%20diffnical%20techniculties&op=translate
+
+Don't use VSCode - YouTube
+https://www.youtube.com/watch?v=GUovhZYNO-M
+
+Install WPS Office with winget - winstall
+https://winstall.app/apps/Kingsoft.WPSOffice
+
+James Smith vscode - Google 搜索
+https://www.google.com/search?q=James+Smith+vscode&sca_esv=595080543&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlpQhrSkj7yvyJFpcWNVA7lEtmNuQ%3A1704201760117&ei=IA6UZa7UBvDe2roPkI-h2AY&ved=0ahUKEwiu5KWk5r6DAxVwr1YBHZBHCGsQ4dUDCBA&uact=5&oq=James+Smith+vscode&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkphbWVzIFNtaXRoIHZzY29kZTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkjjSFCAAVjoR3AFeAGQAQCYAZcBoAG6CqoBBDAuMTC4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIOEC4YgAQYywEYxwEYrwHCAggQABiABBjLAcICCBAuGIAEGMsBwgIdEC4YgAQYywEYxwEYrwEYlwUY3AQY3gQY4ATYAQHCAgQQABgewgIGEAAYCBgewgIFECEYoAHiAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Tannal
+https://tannal.deno.dev/posts/people
+
+Sinem Akinci youtube - Google 搜索
+https://www.google.com/search?sca_esv=595213416&rlz=1C1GCEA_enJP1090JP1090&tbm=vid&sxsrf=AM9HkKm7x_7jV3dM2cOd0dmtBrQgr8axVQ:1704240860550&q=Sinem+Akinci+youtube&sa=X&ved=2ahUKEwig8-r497-DAxWkfWwGHbTWAqgQ8ccDegQICxAH&biw=1536&bih=738&dpr=1.25
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

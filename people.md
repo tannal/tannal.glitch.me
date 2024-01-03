@@ -13,6 +13,8 @@ Vaughan Pratt
 
 # from 2023-12-08
 
+Marian Luparu mluparu https://twitter.com/mluparu PM
+
 Alexandra Kemper Visual Studio Code PM
 
 Sinem Akinci https://twitter.com/sinem__akinci VisualStudio (Code) PM
