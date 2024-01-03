@@ -15,6 +15,7 @@ sys	0m0.111s
 
 sudo apt-get -y install ninja-build
 
+git clone https://github.com/WebKit/WebKit
 
 # install or upgrade flatpak
 sudo apt install flatpak

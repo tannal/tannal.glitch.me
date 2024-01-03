@@ -1,3 +1,42 @@
+# 2024-1-3
+
+https://www.netsurf-browser.org/
+
+```bash
+
+git clone git://git.netsurf-browser.org/netsurf.git
+
+wget https://git.netsurf-browser.org/netsurf.git/plain/docs/env.sh
+unset HOST
+source env.sh
+
+ns-package-install
+
+rm env.sh
+
+cd ~/dev-netsurf/workspace
+
+cd netsurf
+
+https://source.netsurf-browser.org/netsurf.git/plain/docs/quick-start.md
+
+
+```
+
+https://talentdirectory.mozilla.org/
+
+deno servo node llvm-project raspi chromium webkit app
+
+posts
+
+https://www.outreachy.org/alums/2023-12/
+
+https://www.outreachy.org/docs/applicant/#outreachy-schedule
+
+We understand you may be applying to many jobs. If you receive a job or internship offer, please notify Outreachy organizers immediately.
+
+the exams for your last school term must end before Jan. 20, 2024. 
+
 # 2024-1-2
 
 
@@ -130,7 +169,9 @@ sudo nethogs
 
 set(CMAKE_PREFIX_PATH "C:/Users/tannal/tannalwork/projects/vcpkg/installed/x64-windows/share")
 
-clangd indexer sucks not only eating CPU but also I/O network bandwidth needs improvement i think
+clangd indexer sucks not only eating CPU
+
+remote desktop eat too much I/O network bandwidth needs improvement i think
 
 https://github.com/endless-sky
 
