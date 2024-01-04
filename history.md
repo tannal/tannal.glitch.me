@@ -42,6 +42,195 @@ https://www.google.com/search?q=%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84arm%E5%A4%84
 手機裡頭的 ARM 處理器：系列講座 - HackMD
 https://hackmd.io/@sysprog/arm-architecture
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+This year in Servo: over 1000 pull requests and beyond - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2023/12/18/this-year-in-servo/
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+#general > WebGPU adapter when not available - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebGPU.20adapter.20when.20not.20available
+
+linux poweroff command - Google 搜索
+https://www.google.com/search?q=linux+poweroff+command&rlz=1C1GCEA_enJP1090JP1090&oq=linux+poweroff+command&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDcwNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Quantum mechanics - Wikipedia
+https://en.wikipedia.org/wiki/Quantum_mechanics
+
+notes_quantum_cookbook.pdf
+https://oyc.yale.edu/sites/default/files/notes_quantum_cookbook.pdf
+
+rust - How do I change the default rustc / Cargo linker? - Stack Overflow
+https://stackoverflow.com/questions/57812916/how-do-i-change-the-default-rustc-cargo-linker
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Issues · denoland/fresh
+https://github.com/denoland/fresh/issues
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Compilers and Programming languages | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/technology/compilers
+
+Reporting Bugs | WebKit
+https://webkit.org/reporting-bugs/
+
+Simple Search
+https://bugs.webkit.org/query.cgi?format=specific&product=WebKit
+
+v8-dev - Google 网上论坛
+https://groups.google.com/g/v8-dev
+
+tannal (tannal)
+https://github.com/tannal/
+
+Issue search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+os.machine&type=issues
+
+Welcome to Astro.
+https://tannal.web.app/
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+node/CONTRIBUTING.md at 084d761dfc1aa9ca0549e7c4d769e30b34347f69 · nodejs/node
+https://github.com/nodejs/node/blob/084d761dfc1aa9ca0549e7c4d769e30b34347f69/CONTRIBUTING.md
+
+Contribute to nodejs/node
+https://github.com/nodejs/node/contribute
+
+Issues · microsoft/vscode-remote-release
+https://github.com/microsoft/vscode-remote-release/issues
+
+typescript - Error upon starting tsserver in VS Code: "TSServer exited. Code: null. Signal: SIGTERM" - Stack Overflow
+https://stackoverflow.com/questions/76978579/error-upon-starting-tsserver-in-vs-code-tsserver-exited-code-null-signal-s
+
+gterzian (Gregory Terzian)
+https://github.com/gterzian
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox
+
+Random Things By Tannal
+https://tannal.github.io/blog/
+
+Running Targets (with arguments) Without a Debugger · Issue #1177 · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/issues/1177
+
+16.04 - Start SSH automatically on boot - Ask Ubuntu
+https://askubuntu.com/questions/892447/start-ssh-automatically-on-boot
+
+wireless - Connect to WiFi network through Ubuntu terminal - Ask Ubuntu
+https://askubuntu.com/questions/294257/connect-to-wifi-network-through-ubuntu-terminal
+
+AI
+https://tannal.github.io/blog/ai/
+
+AI
+https://tannal.github.io/blog/ai/
+
+YouTube
+https://www.youtube.com/
+
+Tannal
+https://tannal.deno.dev/posts/cs-foundation
+
+Simon Says – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2023-Fall/assignments/u3gmqz/problems/simonsays
+
+Simon Says - Kattis simonsays - Virtual Judge
+https://vjudge.net/problem/Kattis-simonsays
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=simonsays&res=0&orderBy=run_id&language=
+
+蜗牛（周杰伦创作的歌曲）_百度百科
+https://baike.baidu.com/item/%E8%9C%97%E7%89%9B/8578273
+
+tannal (tannal) / December 2023
+https://github.com/tannal/
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+This year in Servo: over 1000 pull requests and beyond - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2023/12/18/this-year-in-servo/
+
+W3C TPAC 2023 - YouTube
+https://www.youtube.com/playlist?list=PLNhYw8KaLq2WR4WvAUpj3qlIWQgY3pAZv
+
+mozilla 2020 layoff - Google 搜索
+https://www.google.com.hk/search?q=mozilla+2020+layoff&rlz=1C1GCEA_enJP1090JP1090&oq=mozilla+2020+layoff&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDQ5MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Mozilla is laying off 250 people and planning a ‘new focus’ on making money - The Verge
+https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus
+
+Changing World, Changing Mozilla
+https://blog.mozilla.org/en/mozilla/changing-world-changing-mozilla/
+
+servo layout engine reports - Google 搜索
+https://www.google.com.hk/search?q=servo+layout+engine+reports&rlz=1C1GCEA_enJP1090JP1090&oq=servo+layout+engine+reports&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINzI2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+servo github - Google 搜索
+https://www.google.com.hk/search?q=servo+github&rlz=1C1GCEA_enJP1090JP1090&oq=servo+github&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Blog - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/
+
+Servo WPT CSS scores
+https://wpt.servo.org/
+
+acid test servo - Google 搜索
+https://www.google.com.hk/search?q=acid+test+servo&rlz=1C1GCEA_enJP1090JP1090&oq=acid+test+servo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgFGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDM0MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Another Big Milestone for Servo—Acid2 - Mozilla Research
+https://research.mozilla.org/2014/04/17/another-big-milestone-for-servo-acid2/
+
+Jack Moffitt servo - Google 搜索
+https://www.google.com/search?q=Jack+Moffitt+servo&sca_esv=595675452&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm256JZgKyKd73PHCEY7PtJKEaeEg%3A1704377628020&ei=HL2WZcJY7tHaug-H7674CA&ved=0ahUKEwjC1tK49cODAxXuqFYBHYe3C48Q4dUDCBA&uact=5&oq=Jack+Moffitt+servo&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkphY2sgTW9mZml0dCBzZXJ2b0ioCFBCWJIGcAF4AZABAJgBlAGgAY8GqgEDMC42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGB4YCsICBhAAGAgYHuIDBBgAIEGIBgGQBgE&sclient=gws-wiz-serp
+
+杰克·莫菲特 - Google 搜索
+https://www.google.com/search?sca_esv=595675452&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm256JZgKyKd73PHCEY7PtJKEaeEg:1704377628020&q=%E6%9D%B0%E5%85%8B%C2%B7%E8%8E%AB%E8%8F%B2%E7%89%B9+(Jack+Moffitt)+%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6&si=ALGXSlbESP-7_bf5BUuT-cCAQePusEM7dZkBwYdsZWe7b2pHQekFScd5g7Z9p1cexIlIhN9_y-a0RyZOgMdDGZ4V8Gk6DhbJDAmgMkw5Fwd_e9n0Kb5d6nN-N_C64OnihnBleXso3o841xvmfmweMSOTyeVJ6TPzN-cL3snbcm5tmt31e8gxaNH3C_2-6itKxHswcZT31mgfllfhD3NGOrVpA66_V0vc5lOs0HvHdCwrl2wQJ24Tj_o%3D&sa=X&sqi=2&ved=2ahUKEwjC1tK49cODAxXuqFYBHYe3C48Q6RN6BAgxEAE
+
+Rust程序交叉编译到aarch64目标 | 一点沉吟 | Kaay's Blog
+https://kkua.github.io/post/cross-compile-rust-to-aarch64/
+
+WebGPU Endgame of Life
+https://demo.servo.org/experiments/webgpu-game-of-life/
+
+Releases · servo/servo
+https://github.com/servo/servo
+
+Add compile_commands.json to .gitignore by gaborbernat · Pull Request #20568 · python/cpython
+https://github.com/python/cpython/pull/20568
+
+compiledb · PyPI
+https://pypi.org/project/compiledb/
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+手機裡頭的 ARM 處理器：系列講座 - HackMD
+https://hackmd.io/@sysprog/arm-architecture
+
+Mike Muller arm - Google 搜索
+https://www.google.com/search?q=Mike+Muller+arm&sca_esv=595675452&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm8IxQUxsi2D1T4GWWRD7Qux0kuEg%3A1704380623632&ei=z8iWZfaUJur04-EP-PexoAs&ved=0ahUKEwi2uIjNgMSDAxVq-jgGHfh7DLQQ4dUDCBA&uact=5&oq=Mike+Muller+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiD01pa2UgTXVsbGVyIGFybTIIEC4YgAQYywEyCBAAGIAEGMsBMhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAUiPB1A6WNwFcAF4AZABAJgBwAGgAcUGqgEDMC41uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICChAAGIAEGMsBGArCAgQQABgewgIGEAAYCBge4gMEGAAgQYgGAZAGB7oGBggBEAEYFA&sclient=gws-wiz-serp
+
+arm nasdaq - Google 搜索
+https://www.google.com/search?q=arm+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=arm+nas&gs_lcrp=EgZjaHJvbWUqEQgBEEUYJxg7GJ0CGIAEGIoFMgYIABBFGDkyEQgBEEUYJxg7GJ0CGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjk5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 
 # 2024-1-3
 
