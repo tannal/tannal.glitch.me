@@ -97,6 +97,51 @@ native fullscreen
 fullscreen web api
 
 
+## GPT-QA
+
+## CSS 2
+
+style.rs: This file defines the core data structures and algorithms for CSS styling in Servo. Understanding how styles are computed and applied is crucial for adding new CSS2 features.
+
+dom.rs: This file contains the implementation of the Document Object Model (DOM) in Servo. The DOM represents the structure of web pages, and modifying it correctly is essential for supporting new CSS2 features.
+
+layout.rs: This file encompasses the layout engine of Servo. It handles the positioning and rendering of elements on the web page. Understanding layout is crucial for implementing new CSS2 features that affect the visual rendering of elements.
+
+parser.rs: This file deals with parsing CSS and HTML in Servo. Familiarizing yourself with the parsing logic is important for correctly handling new CSS2 features in terms of syntax and structure.
+
+properties.rs: This file defines the various CSS properties supported by Servo. Adding new CSS2 features often involves extending or modifying the existing property definitions.
+
+style_traits.rs: This file contains trait definitions and helper functions for working with CSS styles in Servo. It provides a foundation for implementing and manipulating CSS2 features.
+
+selectors.rs: This file handles CSS selector matching and specificity calculations. Understanding how selectors are processed is important for supporting new CSS2 selectors.
+
+paint.rs: This file deals with painting and rendering operations in Servo. Depending on the CSS2 feature you want to add, you may need to modify the painting logic to achieve the desired visual effect.
+
+computed_values.rs: This file defines the computed values for CSS properties. Understanding how computed values are derived and used is important for correctly implementing new CSS2 features.
+
+style_builder.rs: This file contains the logic for building the style tree in Servo. It handles cascading, inheritance, and applying styles to elements. Understanding the style building process is crucial for correctly handling new CSS2 features.
+
+## Multiple concurrent top-level browsing contexts
+
+browser.rs: This file represents the browser context in Servo and manages the top-level browsing contexts. Understanding how the browser context is created, managed, and interacts with other components is crucial for implementing multiple concurrent top-level browsing contexts.
+
+document.rs: This file represents the web document in Servo and handles the construction, modification, and layout of the document. Understanding how documents are managed and how they relate to browsing contexts is important for enabling multiple concurrent top-level browsing contexts.
+
+frame_tree.rs: This file represents the frame tree structure in Servo, which organizes the hierarchy of frames within a browsing context. Understanding how frames are structured and how they relate to browsing contexts is crucial for implementing multiple concurrent top-level browsing contexts.
+
+script_thread.rs: This file handles the execution of JavaScript and manages the event loop in Servo. Understanding how scripts are executed and how events are processed is important for enabling concurrent execution and event handling across multiple browsing contexts.
+
+layout.rs: This file contains the layout engine of Servo, responsible for positioning and rendering elements. Understanding how layout is performed and how it interacts with browsing contexts is important for ensuring proper rendering across multiple concurrent top-level browsing contexts.
+
+dom.rs: This file contains the implementation of the Document Object Model (DOM) in Servo. Familiarizing yourself with the DOM structure and how it relates to browsing contexts is crucial for enabling multiple concurrent top-level browsing contexts.
+
+parser.rs: This file deals with parsing HTML and CSS in Servo. Understanding how parsing is performed and how it relates to browsing contexts is important for correctly handling and managing the creation of multiple concurrent top-level browsing contexts.
+
+window.rs: This file represents the windowing system integration in Servo. Understanding how Servo interacts with the windowing system is important for managing multiple concurrent top-level browsing contexts and their associated windows.
+
+ipc.rs: This file handles inter-process communication in Servo. Depending on the implementation approach for multiple concurrent top-level browsing contexts, you may need to modify the IPC mechanisms to ensure proper communication between the browsing contexts.
+
+glue.rs: This file contains various glue code that connects different parts of Servo. Understanding the glue code related to browsing contexts and their interactions will help you grasp the overall architecture and integration of multiple concurrent top-level browsing contexts.
 
 # code search
 
@@ -112,7 +157,7 @@ RUST_LOG="debug" ./mach run -d -- -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee
 llvm git cmake python python-virtualenv wixtoolset ninja vs2019
 
 
-sudo apt install libopts25-dev
+sudo apt install libopts25-dev m4
 
 
 ```bash

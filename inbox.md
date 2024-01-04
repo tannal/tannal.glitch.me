@@ -1,5 +1,7 @@
 # 2024-1-4
 
+Python, Scheme, Ruby, LuaJIT, GCC, LLVM, GDB, and Factor
+
 Test262 conformance tests
 
 A example of security bug v is that you can open jishiben in chrome using js
@@ -326,7 +328,7 @@ https://console.firebase.google.com/project/tannal/settings/general/web:YzU4MmU4
 
 https://pagespeed.web.dev/analysis/https-tannal-web-app-posts-inbox/to312vfwgu?form_factor=mobile
 
-firebase deploy --only hosting
+pnpm build && firebase deploy --only hosting
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
