@@ -1,5 +1,13 @@
 # 2024-1-4
 
+gmail ajax
+
+重型挖掘机玩泥巴
+
+JCR Licklider Douglas Engelbart
+
+postScript
+
 Python, Scheme, Ruby, LuaJIT, GCC, LLVM, GDB, and Factor
 
 Test262 conformance tests
@@ -515,6 +523,9 @@ nvm use 20.10.0
 
 # 2023-12-31
 
+sudo apt install solaar
+solaar
+
 net user
 
 net Administrator 123456789
@@ -524,6 +535,17 @@ net Administrator 123456789
 sudo fdisk -l
 
 sudo fdisk /dev/sda
+
+sudo fdisk /dev/sda 
+lsblk
+sudo umount /dev/sda
+lsblk
+sudo umount /dev/sda
+lsblk
+ls /dev/sda 
+sudo umount /dev/sda 
+sudo mkfs.vfat /dev/sda 
+sudo fsck /dev/sda
 
 sudo apt-get -y install m4
 sudo apt install mesa-utils
@@ -548,11 +570,19 @@ https://github.com/flutter/flutter/issues/57674
 
 ```bash
 
-$env:HTTP_PROXY = "http://192.168.43.1:7890"
-$env:HTTPS_PROXY = "http://192.168.43.1:7890"
+
+$env:HTTP_PROXY = "http://127.0.0.1:7890"
+$env:HTTPS_PROXY = "http://127.0.0.1:7890"
 
 set http_proxy=http://192.168.43.1:7890
 set https_proxy=http://192.168.43.1:7890
+
+$env:HTTP_PROXY = "http://192.168.43.1:7890"
+$env:HTTPS_PROXY = "http://192.168.43.1:7890"
+
+
+$env:HTTP_PROXY = "http://127.0.0.1:7890"
+$env:HTTPS_PROXY = "http://127.0.0.1:7890"
 
 $progressPreference = 'silentlyContinue'
 Write-Information "Downloading WinGet and its dependencies..."
@@ -575,6 +605,7 @@ winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
 winget install -e --id Microsoft.VisualStudioCode
+
 winget install -e --id Microsoft.vcpkg
 winget install Microsoft.OpenJDK.21
 

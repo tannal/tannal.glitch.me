@@ -1,3 +1,48 @@
+# 2024-1-4
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Windows 10: How to Bind 4-Finger Left/Right Swipe Gesture to Keyboard Shortcut - Super User
+https://superuser.com/questions/1490468/windows-10-how-to-bind-4-finger-left-right-swipe-gesture-to-keyboard-shortcut
+
+Programming in Modern C with a Sneak Peek into C23 - Dawid Zalewski - ACCU 2023 - YouTube
+https://www.youtube.com/watch?v=lLv1s7rKeCM
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
+linux kernel commands json - Google 搜索
+https://www.google.com/search?q=linux+kernel+commands+json&oq=linux+kernel+commands+json&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg4NTc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+c - Linux Kernel generate compile-commands.json for module - Stack Overflow
+https://stackoverflow.com/questions/59324820/linux-kernel-generate-compile-commands-json-for-module
+
+scripts: add a tool to produce a compile_commands.json file - Patchwork
+https://patchwork.kernel.org/project/linux-kbuild/patch/20181206222318.218157-1-tmroeder@google.com/
+
+Douglas Carl Engelbart - Google 搜索
+https://www.google.com/search?q=Douglas+Carl+Engelbart&oq=Douglas+Carl+Engelbart&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3OGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+JCR Licklider - Google 搜索
+https://www.google.com/search?q=JCR+Licklider&oq=JCR+Licklider&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUzOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+postScript - Google 搜索
+https://www.google.com/search?q=postScript&oq=postScript&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzM1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+风险投资 - Google 搜索
+https://www.google.com/search?q=%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84&oq=%E9%A3%8E%E9%99%A9%E6%8A%95%E8%B5%84&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIJCAEQABgKGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAuGIAEMgcICRAuGIAE0gEINDQ5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.facebook.com
+https://www.facebook.com/
+
+手机里的arm处理器 - Google 搜索
+https://www.google.com/search?q=%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84arm%E5%A4%84%E7%90%86%E5%99%A8&oq=%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84arm%E5%A4%84%E7%90%86%E5%99%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY3MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+手機裡頭的 ARM 處理器：系列講座 - HackMD
+https://hackmd.io/@sysprog/arm-architecture
+
+
 # 2024-1-3
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

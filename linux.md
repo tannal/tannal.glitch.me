@@ -1,5 +1,6 @@
 # build linux kernel
 
+
 https://blog.jm233333.com/linux-kernel/build-and-run-a-tiny-linux-kernel-on-qemu/#generate-a-initramfs-with-busybox
 
 
@@ -9,11 +10,23 @@ https://farabimahmud.github.io/emulate-raspberry-pi3-in-qemu/
 
 ```bash
 
+git clone https://github.com/torvalds/linux.git
+
 sudo apt-get install -y bison flex libelf-dev cpio build-essential libssl-dev
 cp /boot/config-$(uname -r)* .config
 make olddefconfig
 make kernelversion
+
+CONFIG_SYSTEM_TRUSTED_KEYS=""
+CONFIG_SYSTEM_REVOCATION_KEYS=""
+
+
 time make -j20
+
+scripts/clang-tools/gen_compile_commands.py
+
+
+
 ```
 
 
@@ -53,3 +66,8 @@ index e219fcfa112d..bd402c7c8209 100644
 messages for searching
 
 https://lore.kernel.org/lkml/?q=the+scheduler
+
+
+# reference
+
+https://patchwork.kernel.org/project/linux-kbuild/patch/20181206222318.218157-1-tmroeder@google.com/
