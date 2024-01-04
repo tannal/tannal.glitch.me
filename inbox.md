@@ -1,5 +1,11 @@
 # 2024-1-4
 
+https://github.com/microsoft/winget-cli/issues/1812
+
+winget install -e --id TorProject.TorBrowser
+
+winget install -e --id Google.Chrome.Canary
+
 gmail ajax
 
 重型挖掘机玩泥巴

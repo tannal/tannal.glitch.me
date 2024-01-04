@@ -1,3 +1,25 @@
+
+
+
+cross platform windows linux macos android
+
+embeddedable dioxus tauri Delta chat
+
+servo is experimental
+
+controlled environment
+
+- Embeddedable
+
+2012-2020 
+
+
+- Memory Safe
+- Independence
+- 
+
+
+
 ```bash
 
 
