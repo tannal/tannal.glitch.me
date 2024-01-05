@@ -9,6 +9,13 @@ cat /proc/kallsyms
 
 sudo cat /sys/kernel/debug/tracing/available_filter_functions | grep tcp_recv
 
+
+sudo ./kprobe -p 43077 r:ksys_write
+
+sudo ./funcgraph -p 43077 ksys_write -m 2
+
+sudo cat /sys/kernel/debug/tracing/available_filter_functions | grep write
+
 sudo ./kprobe -s 'p:icmp_out_count type=%si'
 
 

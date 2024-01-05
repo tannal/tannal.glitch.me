@@ -2,6 +2,64 @@
 
 ```bash
 
+git clone https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
+
+sudo apt-get install build-essential git pkg-config -y
+    sudo apt-get install libtracefs-dev libtraceevent-dev -y
+
+make; make doc
+
+sudo ./tracecmd/trace-cmd  record  -e syscalls -F ../a.out
+
+./tracecmd/trace-cmd report
+
+
+```
+
+high performance datacenter networking
+
+user-space stack traces
+
+smart NIC & nic
+
+https://www.linaro.org/careers/
+
+eXpress Data Path
+
+ebpf datacenter networking smartNIC
+
+xdp load balancer & 4 layer & 7 layer & dns load balancer
+
+```bash
+corepack enable
+
+pnpm i express
+
+
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+    console.log('Hello')
+    res.send('Hello World!')
+})
+
+app.listen(port, () => {
+
+    console.log(`Example app listening on port ${port}`)
+})
+
+if (process.pid) {
+    console.log('This process is your pid ' + process.pid);
+}
+
+sudo ./funcgraph -p 47889 tcp_update_skb_after_send -m 2
+
+```
+
+```bash
+
 Ed25519 algorithm
 
 rsa algorithm
@@ -157,6 +215,8 @@ CTRL-Z as sending EOF
 infra + product
 
 # 2024-1-4
+
+winget install -e --id Rustlang.Rustup
 
 ```bash
 
@@ -2589,6 +2649,7 @@ zstd
 
 ```
 
+>>>>>>> f630427f6769f0e1b9ffbaa4bd92c01681e717b5
 https://github.com/microsoft/winget-cli/issues/1812
 
 winget install -e --id TorProject.TorBrowser
