@@ -1,3 +1,78 @@
+# 2024-1-5
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+smalltalk - Google 搜索
+https://www.google.com/search?q=smalltalk&oq=smalltalk&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI2NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Strongtalk - Wikipedia
+https://en.wikipedia.org/wiki/Strongtalk
+
+AI
+https://tannal.github.io/blog/ai/
+
+jserv/talks: schedule and materials about my presentations
+https://github.com/jserv/talks
+
+arm server - Google 搜索
+https://www.google.com/search?q=arm+server&oq=arm+server&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyMjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+microsoft/PowerToys: Windows system utilities to maximize productivity
+https://github.com/microsoft/PowerToys
+
+Careers at Linaro | Software Careers | Linaro
+https://www.linaro.org/careers/
+
+Senior/Principal C++ Software Engineer, HPC Tools - Linaro Limited
+https://careers.linaro.org/en-GB/jobs/2993871-senior-principal-c-software-engineer-hpc-tools?utm_campaign=jobs-widget&utm_source=careers.linaro.org&utm_content=jobs&utm_medium=web&_gl=1*ha2frm*_ga*MTAzODQ5ODYxNS4xNzA0NDU2MjI4*_ga_E12E6FXFVK*MTcwNDQ1NjIyOC4xLjEuMTcwNDQ1NjI0Ny4wLjAuMA..
+
+Linaro_Interns_v3
+https://static.linaro.org/assets/Linaro_Interns_Brochure.pdf?_gl=1*16b58qn*_ga*MTAzODQ5ODYxNS4xNzA0NDU2MjI4*_ga_E12E6FXFVK*MTcwNDQ1NjIyOC4xLjAuMTcwNDQ1NjIyOC4wLjAuMA..
+
+ebpf tracing user call stack - Google 搜索
+https://www.google.com/search?q=ebpf+tracing+user+call+stack&sca_esv=595946801&sxsrf=AM9HkKkJk8ZwMOIbIVgLMKcmlvbLCXao8g%3A1704456886660&ei=tvKXZbH2J_nY1e8PydmTgAk&ved=0ahUKEwixqY7anMaDAxV5bPUHHcnsBJAQ4dUDCBA&uact=5&oq=ebpf+tracing+user+call+stack&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGVicGYgdHJhY2luZyB1c2VyIGNhbGwgc3RhY2syBxAhGAoYoAFInhVQygNYiBRwAXgBkAEAmAH2AaABgxmqAQQyLTE1uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIFEAAYgATCAgQQABgewgIGEAAYCBgewgIGEAAYBRgewgIIEAAYCBgeGArCAgUQIRigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Learn eBPF Tracing: Tutorial and Examples
+https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
+
+bcc/docs/tutorial.md at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/docs/tutorial.md
+
+Linux eBPF Stack Trace Hack
+https://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html
+
+user space program tracing call stack - Google 搜索
+https://www.google.com/search?q=user+space+program+tracing+call+stack&oq=user+space+program+tracing+call+stack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDg1NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+4.3. User-Space Stack Backtraces
+https://sourceware.org/systemtap/SystemTap_Beginners_Guide/ustack.html
+
+Reliable user-space stack traces with SFrame [LWN.net]
+https://lwn.net/Articles/932209/
+
+How to print the userspace stack trace in linux kernelspace - Stack Overflow
+https://stackoverflow.com/questions/10199130/how-to-print-the-userspace-stack-trace-in-linux-kernelspace
+
+The Linux Storage, Filesystem, Memory Management & BPF Summit @ OSS NA 2023 - YouTube
+https://www.youtube.com/playlist?list=PLbzoR-pLrL6rlmdpJ3-oMgU_zxc1wAhjS
+
+Log in | Slides
+https://slides.com/users/sign_in
+
+tplink ax3000 下载速度 - Google 搜索
+https://www.google.com/search?q=tplink+ax3000+%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6&oq=tplink+ax3000+%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgkIBRAAGAoYgAQyBwgGEAAYgAQyBwgHEAAYgAQyCQgIEAAYChiABDIHCAkQABiABNIBCDc2NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Steven Rostedt - Learning the Linux Kernel with tracing - YouTube
+https://www.youtube.com/watch?v=JRyrhsx-L5Y
+
+trace-cmd/trace-cmd.git - Official home of trace-cmd
+https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
+
+
 # 2024-1-4
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
