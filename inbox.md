@@ -1,5 +1,8 @@
 # 2024-1-5
 
+
+
+
 ```bash
 
 git clone https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
@@ -21,6 +24,9 @@ high performance datacenter networking
 user-space stack traces
 
 smart NIC & nic
+
+
+Multics & memex
 
 https://www.linaro.org/careers/
 

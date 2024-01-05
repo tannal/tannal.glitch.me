@@ -10,3 +10,5 @@ js_module_
 js_load_
 
 js_print
+
+JSStackFrame *sf

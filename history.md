@@ -72,6 +72,213 @@ https://www.youtube.com/watch?v=JRyrhsx-L5Y
 trace-cmd/trace-cmd.git - Official home of trace-cmd
 https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Home | nivdayan
+https://www.nivdayan.net/
+
+Publications | nivdayan
+https://www.nivdayan.net/publications
+
+monkeykeyvaluestore.pdf
+https://nivdayan.github.io/monkeykeyvaluestore.pdf
+
+Monkey: Optimal Navigable Key-Value Store - Teaser - YouTube
+https://www.youtube.com/watch?v=auI8BTws-f8
+
+Disruptive Programming Language Technologies Todd A. Proebsting Microsoft Research April 24, ppt download
+https://slideplayer.com/slide/3855960/
+
+Join Strings – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2023-Fall/assignments/u3gmqz/problems/joinstrings
+
+Join Strings - Kattis joinstrings - Virtual Judge
+https://vjudge.net/problem/Kattis-joinstrings
+
+手機裡頭的 ARM 處理器：系列講座 - HackMD
+https://hackmd.io/@sysprog/arm-architecture
+
+手機裡的 ARM 處理器: 系列講座導論 - YouTube
+https://www.youtube.com/watch?v=nvX5AF6pOzw
+
+回顧 ARM 架構 - HackMD
+https://hackmd.io/tv2qzMGXQ42QCOMoqDoQsg?view
+
+Historic ARM Presentation to Apple Computer - 1992 - YouTube
+https://www.youtube.com/watch?v=ZV1NdS_w4As
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+Layout Overview · servo/servo Wiki
+https://github.com/servo/servo/wiki/Layout-Overview
+
+css2 spec - Google 搜索
+https://www.google.com.hk/search?q=css2+spec&rlz=1C1GCEA_enJP1090JP1090&oq=css2+spec&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABge0gEINjkxM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Cascading Style Sheets, Level 2
+https://www.w3.org/TR/1998/REC-CSS2-19980512/
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=crossed%20out&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+windows eof ctrl - Google 搜索
+https://www.google.com/search?q=windows+eof+ctrl&rlz=1C1GCEA_enJP1090JP1090&oq=windows+eof+ctrl&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc4MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+debugging - Ctrl+D (EOF) in debug mode VSCode - Stack Overflow
+https://stackoverflow.com/questions/69869026/ctrld-eof-in-debug-mode-vscode
+
+debugging - How to programmatically detect debug mode in nodejs? - Stack Overflow
+https://stackoverflow.com/questions/6889470/how-to-programmatically-detect-debug-mode-in-nodejs
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+javascript - What is the correct JSDoc syntax for a local variable? - Stack Overflow
+https://stackoverflow.com/questions/38708777/what-is-the-correct-jsdoc-syntax-for-a-local-variable
+
+美國禁止 Intel 出口 KNL 到中國 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E5%9C%8B%E7%A6%81%E6%AD%A2+Intel+%E5%87%BA%E5%8F%A3+KNL+%E5%88%B0%E4%B8%AD%E5%9C%8B&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E5%9C%8B%E7%A6%81%E6%AD%A2+Intel+%E5%87%BA%E5%8F%A3+KNL+%E5%88%B0%E4%B8%AD%E5%9C%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBBzQyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Excalidraw
+https://excalidraw.com/
+
+AI
+https://tannal.github.io/blog/ai/
+
+fabrice bellard - Google 搜索
+https://www.google.com.hk/search?q=fabrice+bellard&newwindow=1&sca_esv=595856825&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnTJJ-Ts5zHVB91YXTUdFnON-xXtQ%3A1704426125846&ei=jXqXZcmjM_iXjuMP6razgAk&oq=fabric&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmZhYnJpYyoCCAAyChAjGIAEGIoFGCcyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI_xdQ2wZY0xFwAXgBkAEAmAGtAaABwgeqAQMwLja4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEECMYJ8ICChAuGIAEGIoFGEPCAgsQLhiABBjHARjRA8ICChAAGIAEGIoFGEPCAhAQLhiABBiKBRhDGMcBGNEDwgIFEAAYgATCAgUQLhiABOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+bellard/quickjs: Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+https://github.com/bellard/quickjs
+
+配置vscode 远程开发+ 免密登录 - 知乎
+https://zhuanlan.zhihu.com/p/222452460
+
+[linux-aarch64] clangd: The current platform is unsupported. · Issue #2159 · NvChad/NvChad
+https://github.com/NvChad/NvChad/issues/2159
+
+JSContext - Google 搜索
+https://www.google.com/search?q=JSContext&rlz=1C1GCEA_enJP1090JP1090&oq=JSContext&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMTk1N2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+深入理解JSCore - 美团技术团队
+https://tech.meituan.com/2018/08/23/deep-understanding-of-jscore.html
+
+TCC : Tiny C Compiler
+https://bellard.org/tcc/
+
+TinyGL : a Small, Free and Fast Subset of OpenGL*
+https://bellard.org/TinyGL/
+
+Downloading and Unpacking — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/download.html
+
+課程進度和公告 - HackMD
+https://hackmd.io/@sysprog/info2023/https%3A%2F%2Fhackmd.io%2F%40sysprog%2FS11ooE4Rh
+
+小Lin说 - YouTube
+https://www.youtube.com/@xiao_lin_shuo/videos
+
+ChatGPT
+https://chat.openai.com/
+
+Connect over SSH with Visual Studio Code
+https://code.visualstudio.com/docs/remote/ssh-tutorial
+
+Key–value database - Wikipedia
+https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+
+apt - What are the GPG signatures - Ask Ubuntu
+https://askubuntu.com/questions/179209/what-are-the-gpg-signatures
+
+Generating a new GPG key - GitHub Docs
+https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+
+Edit
+https://slides.com/mengtan/deck-ec6193/edit
+
+key value store site: cmu.edu - Google 搜索
+https://www.google.com/search?q=key+value+store+site%3A+cmu.edu&rlz=1C1GCEA_enJP1090JP1090&oq=key+value+store+site%3A+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg70gEIMzI5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+jserv youtube - Google 搜索
+https://www.google.com/search?q=jserv+youtube&sca_esv=595960337&rlz=1C1GCEA_enJP1090JP1090&tbm=vid&sxsrf=AM9HkKl_q_JDrvDIHkKDQrzniVixfNwplw:1704461883728&ei=OwaYZZCILLPf1e8Px_KboAE&start=20&sa=N&ved=2ahUKEwjQkfOor8aDAxWzb_UHHUf5BhQ4ChDy0wN6BAgBEAc&biw=1536&bih=738&dpr=1.25
+
+Desktop environment - Wikipedia
+https://en.wikipedia.org/wiki/Desktop_environment
+
+Zig SHOWTIME - YouTube
+https://www.youtube.com/@ZigSHOWTIME/videos
+
+Home - Zig SHOWTIME
+https://zig.show/
+
+multics - Google 搜索
+https://www.google.com/search?q=multics&rlz=1C1GCEA_enJP1090JP1090&oq=multics&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMhEIAhAuGAoYQxjUAhiABBiKBTIRCAMQLhgKGEMY1AIYgAQYigUyEQgEEC4YChhDGNQCGIAEGIoFMg0IBRAuGMcBGNEDGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjAxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+memex - Google 搜索
+https://www.google.com/search?q=memex&sca_esv=595960337&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKleFi4reaVKfz2JS9WieQxLa4FKbw%3A1704462488938&ei=mAiYZdXyOKiB1e8P9NSfkAY&ved=0ahUKEwjVnr7JscaDAxWoQPUHHXTqB2IQ4dUDCBA&uact=5&oq=memex&gs_lp=Egxnd3Mtd2l6LXNlcnAiBW1lbWV4MgUQABiABDIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgKMgUQLhiABDIFEAAYgAQyBRAAGIAESOgXUABYhBdwBHgBkAEAmAHnAaAByA2qAQMyLTi4AQPIAQD4AQGoAgDCAgQQIxgnwgIKECMYgAQYigUYJ8ICCxAuGIAEGMcBGNEDwgIaEC4YgAQYxwEY0QMYlwUY3AQY3gQY4ATYAQHCAhAQLhiABBiKBRhDGMcBGNEDwgIKEAAYgAQYigUYQ8ICDBAAGIAEGIoFGEMYCuIDBBgAIEGIBgG6BgYIARABGBQ&sclient=gws-wiz-serp
+
+pl/1 - Google 搜索
+https://www.google.com/search?q=pl%2F1&rlz=1C1GCEA_enJP1090JP1090&oq=pl%2F1+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxBFGDrSAQgyNTUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+strongtalk - Google 搜索
+https://www.google.com/search?q=strongtalk&rlz=1C1GCEA_enJP1090JP1090&oq=strong&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIJCAEQRRg5GIAEMgwIAhAuGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8
+
+dblp: Todd A. Proebsting
+https://dblp.org/pid/p/TAProebsting.html
+
+Best Practices in Code Generation - YouTube
+https://www.youtube.com/watch?v=UbPpydNokyE
+
+50 New Education Features - The Keyword
+https://blog.google/outreach-initiatives/education/learning-with-google/
+
+键-值存储 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%94%AE-%E5%80%BC%E5%AD%98%E5%82%A8
+
+Key–value database - Wikipedia
+https://en.wikipedia.org/wiki/Key%E2%80%93value_database
+
+Ordered Key-Value Store - Wikipedia
+https://en.wikipedia.org/wiki/Ordered_Key-Value_Store
+
+Wayback Machine
+https://web.archive.org/web/20240000000000*/https://rust-lang.org/
+
+Working in Japan - Google 搜索
+https://www.google.com/search?sca_esv=595971146&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlagPuYEHFzzHhPFE2OymTzAVxOKQ:1704466667946&q=Working+in+Japan&sa=X&ved=2ahUKEwiH05iSwcaDAxXhcPUHHXIlCfoQ1QJ6BAhAEAE&biw=1536&bih=738&dpr=1.25#ip=1
+
+redis/src at unstable · redis/redis
+https://github.com/redis/redis/tree/unstable/src
+
+monkeykeyvaluestore.pdf
+https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+
+MyRocks | A RocksDB storage engine with MySQL | MyRocks
+https://myrocks.io/
+
+莱斯利·兰波特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%8E%B1%E6%96%AF%E5%88%A9%C2%B7%E5%85%B0%E6%B3%A2%E7%89%B9
+
+NoSQL - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/NoSQL#cite_note-11
+
+404 Not Found
+https://cs.uwaterloo.ca/~c15zhang/
+
 
 # 2024-1-4
 
