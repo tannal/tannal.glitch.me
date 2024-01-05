@@ -1,3 +1,161 @@
+# 2024-1-5
+
+```bash
+
+Ed25519 algorithm
+
+rsa algorithm
+
+vim ~/.ssh/authorized_keys
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDeryWc8zLoFzIIG1CaTRPD/WEY3ca6mqiLTpYSdPcYq tannal@ubuntu
+
+
+ssh-keygen -t ed25519
+
+```
+
+Things like understanding the full source code isn't possible for most large projects and people.
+
+But it might be posible for small project
+
+
+
+Your job is looking at what you done before, try to figure out what to do next, then do it, NOW.
+
+FPSR (Floating-Point Status Register):
+
+FPCR (Floating-Point Control Register):
+
+TPIDR (Thread Pointer Identifier Register):
+
+TPIDR2 (Thread Pointer Identifier Register 2):
+
+```bash
+
+disassemble
+
+
+info registers
+
+   0x0000aaaaaaaa0774 <+0>:     stp     x29, x30, [sp, #-16]!
+   0x0000aaaaaaaa0778 <+4>:     mov     x29, sp
+=> 0x0000aaaaaaaa077c <+8>:     adrp    x0, 0xaaaaaaaa0000
+   0x0000aaaaaaaa0780 <+12>:    add     x0, x0, #0x7b0
+   0x0000aaaaaaaa0784 <+16>:    bl      0xaaaaaaaa0630 <puts@plt>
+   0x0000aaaaaaaa0788 <+20>:    mov     w0, #0x0                        // #0
+   0x0000aaaaaaaa078c <+24>:    ldp     x29, x30, [sp], #16
+   0x0000aaaaaaaa0790 <+28>:    ret
+
+  sp             0xffffffffeda0      0xffffffffeda0
+  pc             0xaaaaaaaa077c      0xaaaaaaaa077c <main+8>
+  cpsr           0x80001000          [ EL=0 BTYPE=0 SSBS N ]
+  fpsr           0x0                 [ ]
+  fpcr           0x0                 [ Len=0 Stride=0 RMode=0 ]
+  tpidr          0xfffff7ff8600      0xfffff7ff8600
+  tpidr2         0x0                 0x0
+
+```
+
+R0-R15
+
+R13 stack pointer
+
+R14 br ret address
+
+R15 program counter
+
+```js
+
+// create a array
+
+const crossedOut = new Array(n + 1).fill(false);
+
+  for (let i = 2; i <= n; i++) {
+    if (!crossedOut[i]) {
+      // Cross out i and multiples of i
+      for (let j = i; j <= n; j += i) {
+        if (!crossedOut[j]) {
+
+```
+
+diff <(./vjudge.js < input) output
+
+```js
+
+#!/home/tannal/.nvm/versions/node/v20.10.0/bin/node
+
+const rl = require("readline").createInterface({ input: process.stdin });
+const iter = rl[Symbol.asyncIterator]();
+const readline = async () => (await iter.next()).value;
+const inspector = require('inspector');
+const debug = inspector.url() !== undefined
+
+console.debug = (...args) => {
+  if(debug) {
+    console.log(...args)
+  }
+}
+/**
+ * 
+ * @param {string[]} sayings 
+ */
+const solve = (sayings) => {
+  console.debug(sayings)
+
+  sayings.forEach((saying, i) => {
+    if(saying.includes("Simon says")) {
+
+      const start = saying.indexOf("Simon says") + 11
+  
+      console.log(saying.slice(start))
+    }
+  })
+
+}
+
+void async function () {
+  // Write your code heres
+  let line
+  let lines = []
+  while ((line = await readline()) !== undefined) {
+    lines.push(line);
+  }
+  console.debug(lines)
+  lines.shift()
+  solve(lines)
+}()
+
+
+
+
+
+```
+
+strace -e execve node
+
+node detect is debug in program
+
+```js
+
+const inspector = require('inspector');
+const debug = inspector.url() !== undefined
+
+// print only when debugging
+console.debug = (...args) => {
+  if(debug) {
+    console.log(args)
+  }
+}
+
+```
+
+context (real time analogy joke) -> computing problem 
+
+CTRL-Z as sending EOF
+
+infra + product
+
 # 2024-1-4
 
 ```bash
@@ -7,7 +165,6 @@ rustup target list
 rustup target add aarch64-unknown-linux-gnu
 
 ```
-
 
 https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
 
