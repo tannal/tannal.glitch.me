@@ -25,7 +25,58 @@ time make -j20
 
 scripts/clang-tools/gen_compile_commands.py
 
+new features
 
+custom driversz
+
+custom security & access control
+
+fix bugs & vulnerabilities
+
+optimize for specific harware
+
+debugging
+
+```
+
+
+
+# kernel config
+
+```bash
+
+make menuconfig
+
+make xconfig
+
+make oldconfig
+
+make defconfig
+
+make kernelversion
+
+```
+
+# Testing and Debugging
+
+printk dmesg logs
+
+https://github.com/linux-test-project/ltp
+
+Linux Kernel Selftests (kselftests) part of the Linux Kernel
+
+```bash
+
+git clone https://github.com/linux-test-project/ltp.git
+cd ltp
+make autotools
+./configure
+
+./build.sh
+
+cd testcases/kernel/syscalls/
+make
+PATH=$PATH:$PWD ./foo01
 
 ```
 
@@ -231,6 +282,9 @@ https://patchwork.kernel.org/project/linux-kbuild/patch/20181206222318.218157-1-
 
 https://nxw.name/2022/linux-network-stack
 
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#processes-and-threads
+
+https://kernelnewbies.org/KernelBuild
 
 # tracing point
 

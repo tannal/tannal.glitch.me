@@ -69,3 +69,24 @@ func main() {
 }
 
 ```
+# c
+
+# c++
+
+# java
+
+# python
+
+# golang
+
+# rust
+
+# kotlin
+
+# scala
+
+# ocaml
+
+# racket
+
+# 

@@ -1,5 +1,56 @@
 # 2024-1-6
 
+https://www.codingninjas.com/studio/library/linux-kernel-mentorship-program
+
+Entry Level / Intern Embedded Linux / Yocto Engineer
+Konsulko Group has an entry level or intern opening for an embedded Linux and/or Yocto build
+system engineer. Join and learn from a team of Linux engineers with a history of Linux development
+dating back to the mid 90s.
+The position is ideally based at our engineering center in Sofia, Bulgaria, but other locations will be
+considered as well.
+Job Requirements:
+• A Passion for Linux
+• B.S. or MS in Computer Science or similar major
+• Experience in using Linux as a development platform
+• Proficient in C programming
+• Some Yocto Project, bash, or Python experience a plus
+• Bonus points for having developed or debugged any kernel drivers, and any community
+contributions
+• Familiarity with Git
+• Strong analytical and problem-solving skills
+• Good English verbal and written skills
+Please send your CV or resume in pdf form to careers@konsulko.com. 
+
+Senior Embedded Linux/Yocto Engineer
+Konsulko Group is looking for an experienced candidate with background in embedded Linux and
+Yocto/OE to help migrate, develop, and maintain Yocto-based platforms. The candidate will be
+responsible for tracking Yocto Project, various versions and packages, as well as engage with the
+Open Source community to upstream any specific changes. The candidate must have experience
+with embedded systems, device drivers, kernel modifications, and boot loaders.
+The position may be based at our engineering centers in Sofia, Bulgaria or Malmö, Sweden, or the
+Senior Engineer may choose to live in his/her home country, or elsewhere in North America, Europe
+or Asia.
+Primary Responsibilities:
+• Develop and migrate existing products to Yocto-based platforms.
+• Work closely with Konsulko’s customers to track and integrate specific Linux/Kernel
+infrastructure and any third-party drivers in their software stacks.
+• Maintain and support Yocto build system in a continuous integration environment including
+packaging and deployment of software images.
+• Write and maintain scripts
+• Configure, modify and integrate the kernel and embedded boot loaders.
+Job Requirements:
+• A Passion for Linux
+• B.S. in Computer Science and 7 years related work, or M.S. in Computer Science and 5 years
+related work experience.
+• 3+ years of Embedded Linux Systems experience.
+• Proficient in C programming.
+• Substantial experience with Yocto Project
+• Experience with Bash scripting and Python programming.
+• Experience developing and debugging kernel drivers for Embedded Linux would be a plus
+• Familiarity with Git.
+• Strong analytical and problem-solving skills.
+• Excellent English verbal, written, and documentation skills.
+Please send your CV or resume in pdf form to careers@konsulko.com. 
 
 sudo snap install go --classic
 
@@ -31,9 +82,6 @@ strace -e execve ld
 sudo update-alternatives --config java
 
 Rust is bigger than Mozilla
-
-
-
 
 ```
 
