@@ -1,5 +1,7 @@
 # 2024-1-6
 
+
+
 what you see is pointless. It's just what it is.
 
 ```bash
@@ -9,6 +11,9 @@ sudo apt install lld
 sudo rm /usr/bin/ld
 
 sudo ln -s /usr/bin/lld /usr/bin/ld
+
+
+sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
 
 strace -e execve lld
 strace -e execve ld
