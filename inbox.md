@@ -1,6 +1,8 @@
 # 2024-1-6
 
 
+sudo snap install go --classic
+
 
 what you see is pointless. It's just what it is.
 
@@ -11,6 +13,9 @@ sudo apt install lld
 sudo rm /usr/bin/ld
 
 sudo ln -s /usr/bin/lld /usr/bin/ld
+sudo ln -s x86 /usr/bin/ld
+
+
 
 
 sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld

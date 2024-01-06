@@ -3,6 +3,8 @@
 
 git clone --depth 1 https://github.com/brendangregg/perf-tools
 
+
+cd ~/tannalwork/projects/perf-tools/bin
 cd perf-tools/bin
 
 cat /proc/kallsyms
@@ -92,5 +94,15 @@ Brendan Gregg
 
 ## Further learning
 
+
+
+# traceable function easy to hit
+
+```bash
+
+sudo ./kprobe -s 'p:submit_bio'
+
+
+```
 
 

@@ -1,5 +1,209 @@
 # 2024-1-6
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Concurrency is not Parallelism by Rob Pike - YouTube
+https://www.youtube.com/watch?v=oV9rvDllKEg
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+coldplay something just like this - Google 搜索
+https://www.google.com/search?q=coldplay+something+just+like+this+&sca_esv=596142289&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKldKiNgxqz5lqIgmOjLZEXozZbxKw%3A1704520758314&ei=NuyYZabsEp-Ovr0P7u-n2Ao&ved=0ahUKEwim377SisiDAxUfh68BHe73CasQ4dUDCBA&uact=5&oq=coldplay+something+just+like+this+&gs_lp=Egxnd3Mtd2l6LXNlcnAiImNvbGRwbGF5IHNvbWV0aGluZyBqdXN0IGxpa2UgdGhpcyAyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI3wNQuwJYuwJwAngBkAEAmAEAoAEAqgEAuAEDyAEA-AEB4gMEGAAgQYgGAZAGCQ&sclient=gws-wiz-serp
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+crypto: use EVP_MD_fetch and cache EVP_MD for hashes · nodejs/node@57c22e4
+https://github.com/nodejs/node/commit/57c22e4a2268ea74025d9ce84635a95e95f4fb80
+
+servo/docs/HACKING_QUICKSTART.md at main · servo/servo
+https://github.com/servo/servo/blob/main/docs/HACKING_QUICKSTART.md#visual-studio-code
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+Implement ResizeObserver · Issue #31006 · servo/servo
+https://github.com/servo/servo/issues/31006
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+WebGPU: fail request for adapter when not available. · Issue #30895 · servo/servo
+https://github.com/servo/servo/issues/30895
+
+Implement ResizeObserver · Issue #31006 · servo/servo
+https://github.com/servo/servo/issues/31006
+
+Implement ResizeObserver · Issue #31006 · servo/servo
+https://github.com/servo/servo/issues/31006
+
+Support Xterm JS · Issue #30822 · servo/servo
+https://github.com/servo/servo/issues/30822
+
+Resize Observer
+https://drafts.csswg.org/resize-observer/#resize-observer-interface
+
+Implement Event.composedPath · Issue #31007 · servo/servo
+https://github.com/servo/servo/issues/31007
+
+Implement ResizeObserver · Issue #31006 · servo/servo
+https://github.com/servo/servo/issues/31006
+
+Building · servo/servo Wiki
+https://github.com/servo/servo/wiki/Building#troubleshooting-the-windows-build
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+How to Get the Size of a Directory in Linux | Linuxize
+https://linuxize.com/post/how-get-size-of-file-directory-linux/
+
+Building for Android · servo/servo Wiki
+https://github.com/servo/servo/wiki/Building-for-Android
+
+steve Sanderson - Google 搜索
+https://www.google.com/search?q=steve+Sanderson&rlz=1C1GCEA_enJP1090JP1090&oq=steve+Sanderson&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCTEyODE4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Student projects · servo/servo Wiki
+https://github.com/servo/servo/wiki/Student-projects
+
+Error trying to boostrap servo for android · Issue #23063 · servo/servo
+https://github.com/servo/servo/issues/23063
+
+update alternatives java - Google 搜索
+https://www.google.com/search?q=update+alternatives+java&rlz=1C1GCEA_enJP1090JP1090&oq=update+&gs_lcrp=EgZjaHJvbWUqDAgBECMYJxiABBiKBTIGCAAQRRg5MgwIARAjGCcYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgYIBRBFGD0yBggGEEUYPTIGCAcQRRg90gEIMjQwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+mozilla layoff servo team - Google 搜索
+https://www.google.com/search?q=mozilla+layoff+servo+team&sca_esv=596150050&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKml8bCkSnwa0s4PAFTOdn-BEMgzSA%3A1704525984979&ei=oACZZdqpO_He2roPjb6u-Ak&ved=0ahUKEwja-eCOnsiDAxVxr1YBHQ2fC58Q4dUDCBA&uact=5&oq=mozilla+layoff+servo+team&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW1vemlsbGEgbGF5b2ZmIHNlcnZvIHRlYW0yBRAhGKABMgUQIRigAUidBlCCBFiCBHABeAGQAQCYAeoBoAHqAaoBAzItMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYB&sclient=gws-wiz-serp
+
+"Much" of the Rust/Wasmtime team hit by layoffs at Mozilla | Hacker News
+https://news.ycombinator.com/item?id=24143819
+
+Profile: mcqueenjordan | Hacker News
+https://news.ycombinator.com/user?id=mcqueenjordan
+
+Amazon invest rust - Google 搜索
+https://www.google.com/search?q=Amazon+invest+rust&rlz=1C1GCEA_enJP1090JP1090&oq=Amazon+invest+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgKGAwYHtIBCDI3OTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+microsoft invest rust - Google 搜索
+https://www.google.com/search?q=microsoft+invest+rust&rlz=1C1GCEA_enJP1090JP1090&oq=microsoft+invest+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYCBge0gEINDQzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+X 上的 Brad Smith：“The increasing speed, scale, and sophistication of cyberattacks is beyond anything we’ve seen before. Today Microsoft is launching our Secure Future Initiative to pursue the next generation of cybersecurity protection and a new world of security for our customers and industry.…” / X
+https://twitter.com/BradSmi/status/1720098321816256642
+
+blogs.microsoft.com
+https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/
+
+ProssimoISRG youtube - Google 搜索
+https://www.google.com/search?q=ProssimoISRG+youtube&sca_esv=596150050&rlz=1C1GCEA_enJP1090JP1090&tbm=vid&sxsrf=AM9HkKlK71FCoYp8RItbgMIFdl24NDw-bg:1704526394482&source=lnms&sa=X&ved=2ahUKEwiejoPSn8iDAxX0slYBHUUaAYoQ_AUoAXoECAEQAw&biw=1536&bih=738&dpr=1.25
+
+Rust (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Rust_(programming_language)#cite_note-moderation-41
+
+Entire Rust moderation team resigns • The Register
+https://www.theregister.com/2021/11/23/rust_moderation_team_quits/
+
+Entire Rust moderation team resigns • The Register
+https://www.theregister.com/2021/11/23/rust_moderation_team_quits/
+
+It’s time to give Firefox another chance | TechCrunch
+https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/
+
+Programming language Rust: Mozilla job cuts have hit us badly but here's how we'll survive | ZDNET
+https://www.zdnet.com/article/programming-language-rust-mozilla-job-cuts-have-hit-us-badly-but-heres-how-well-survive/
+
+Profile: steveklabnik | Hacker News
+https://news.ycombinator.com/user?id=steveklabnik
+
+Compiling and running the Servo web browser engine - YouTube
+https://www.youtube.com/watch?v=PyfY82-NDCM
+
+Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/
+
+jm.dev/jp
+https://jm.dev/jp
+
+CS is not about computers
+https://jm.dev/cs-is-not-about-computers
+
+jmqd (Jordan McQueen)
+https://github.com/jmqd
+
+who wrote wikipedia - Google 搜索
+https://www.google.com/search?q=who+wrote+wikipedia&rlz=1C1GCEA_enJP1090JP1090&oq=who+wrote+wiki&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB7SAQg0OTExajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Anderson Tim rust - Google 搜索
+https://www.google.com/search?q=Anderson+Tim+rust&sca_esv=596168599&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkwxfkzvbPPxwlByBdz5zY8Ucm0zQ%3A1704529267449&ei=cw2ZZYyFG9_i2roPnZuPsA0&ved=0ahUKEwjMivurqsiDAxVfsVYBHZ3NA9YQ4dUDCBA&uact=5&oq=Anderson+Tim+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUFuZGVyc29uIFRpbSBydXN0SLYeUOwFWMkdcAN4AZABAJgBlAOgAa0OqgEJMC4zLjQuMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAggQABgHGB4YCsICCBAuGIAEGMsBwgIIEAAYgAQYywHCAg4QLhiABBjLARjHARivAcICBhAAGAcYHsICCBAAGAgYBxgewgIEEAAYHsICBhAAGAUYHsICBhAAGAgYHuIDBBgAIEGIBgGQBgk&sclient=gws-wiz-serp
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+why so many cults in korea - Google 搜索
+https://www.google.com/search?q=why+so+many+cults+in+korea&rlz=1C1GCEA_enJP1090JP1090&oq=why+so+many+cults&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCQgCEAAYExiABDIJCAMQABgTGIAEMgoIBBAAGAgYExgeqAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Why%20are%20there%20so%20many%20Cults%20and%20Sects%20in%20South%20Korea%3F&op=translate
+
+Shading Language — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/shading.html
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+symbol link ld to lld - Google 搜索
+https://www.google.com/search?q=symbol+link+ld+to+lld&rlz=1C1GCEA_enJP1090JP1090&oq=symbol+link+ld+to+lld&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgoIAxAAGAoYDxgeMggIBBAAGAoYHjIICAUQABgKGB4yCggGEAAYBRgKGB4yCAgHEAAYCBgeMgoICBAAGAoYDxgeMgoICRAAGAUYChge0gEIMzYzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Linking with LLD · Issue #39915 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/39915
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cargo test - The Cargo Book
+https://doc.rust-lang.org/cargo/commands/cargo-test.html
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fjavy%20quickjs&type=code
+
+ChatGPT
+https://chat.openai.com/c/4f0bb9d2-9d35-440d-adc2-edb2a979c88f
+
+Pull latest changes for all git submodules - Stack Overflow
+https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules
+
+Gophers Lab - Global Leader in Digital Engineering Services
+https://gopherslab.com/
+
+发展改革工作-国家发展和改革委员会
+https://www.ndrc.gov.cn/fggz/index_1.html
+
+数据 - 国家统计局
+https://www.stats.gov.cn/sj/
+
+国家统计局新闻发言人就2023年11月份国民经济运行情况答记者问 - 国家统计局
+https://www.stats.gov.cn/sj/sjjd/202312/t20231215_1945605.html
+
+国家统计局
+https://www.stats.gov.cn/
+
+国家数据
+https://data.stats.gov.cn/easyquery.htm?cn=A01
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+Linux debugging
+https://e-labworks.com/en/training/ldb/
+
+What's new in AOSP 14? - YouTube
+https://www.youtube.com/watch?v=rRRLs8F1Caw
+
+ldd3.pdf
+https://bootlin.com/doc/books/ldd3.pdf
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
