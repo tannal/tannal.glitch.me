@@ -1,4 +1,73 @@
 
+
+# inbox
+
+https://www.youtube.com/watch?v=PyfY82-NDCM
+
+
+
+# Vscode setup
+
+```json
+// .vscode/settings.json
+{
+    "rust-analyzer.check.overrideCommand": [
+        "./mach", "check", "--message-format=json" ],
+    "rust-analyzer.cargo.buildScripts.overrideCommand": [
+        "./mach", "check", "--message-format=json" ],
+    "rust-analyzer.rustfmt.overrideCommand": [ "./mach", "fmt" ],
+}
+
+```
+
+# servo people
+
+igalia delan rego robinson
+
+(ex-)mozilia
+
+jdm
+
+
+other contributors
+
+
+
+# servo docs/wiki is outdated
+
+many errors and troubleshooting need to do when go through the docs on computer.
+
+I'm planning to improve some docs.
+
+need some feedback from the servo team.
+
+# good first issues
+
+https://github.com/servo/servo/issues/31006
+
+https://github.com/servo/servo/issues/31007
+
+# issue tags
+
+E-candidate-for-mentoring
+
+A-content/script
+
+# issues
+
+Implement ResizeObservers
+
+
+
+
+```bash
+
+./mach test-wpt --production _webgpu
+
+
+
+```
+
 https://servo.org/blog/
 
 https://wpt.servo.org/
@@ -121,6 +190,7 @@ event system
 native fullscreen
 
 fullscreen web api
+
 
 
 ## GPT-QA

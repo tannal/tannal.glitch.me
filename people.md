@@ -1,10 +1,15 @@
-# Google
+# people around rust
+
+Steve Klabnik https://steveklabnik.com/
+
+
+# Google early employee
 
 Marissa Mayer
 
 larry schwimmer
 
-# Sun Microsystems
+# Sun Microsystems early employee
 
 William Nelson Joy
 

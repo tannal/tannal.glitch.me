@@ -1,8 +1,51 @@
 # 2024-1-6
 
+what you see is pointless. It's just what it is.
+
+```bash
+
+sudo apt install lld
+
+sudo rm /usr/bin/ld
+
+sudo ln -s /usr/bin/lld /usr/bin/ld
+
+strace -e execve lld
+strace -e execve ld
+
+```
+
+
+```bash
+
+sudo update-alternatives --config java
+
+Rust is bigger than Mozilla
+
+
+
+
+```
+
+web history
+
+1990-2005 Server-rendered HTML /cgi-bin php django ASP.NET pearl
+2005-2010 Server html scattered js jquery ajax
+2010-2015 Early client rendering backbone.js knockout angular ember
+2015-2024 Modern Client rendering (SPA) react vue angular 
+2024-future Server + Client Components NEXT.js Nuxt.js Astro svelte blazor
+
+SSR enhanced dev
+
 git log --grep="facebook"
 
 
+
+```bash
+
+du -sh target
+
+```
 
 & in shell
 
