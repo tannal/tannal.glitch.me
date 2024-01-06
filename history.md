@@ -1,3 +1,224 @@
+# 2024-1-6
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+monkeykeyvaluestore.pdf
+https://nivdayan.github.io/monkeykeyvaluestore.pdf
+
+ChatGPT
+https://chat.openai.com/c/c8121da0-5be7-4942-83cb-293182eb4c1f
+
+分布式键值对存储系统的设计与实现 - 豆丁网
+https://www.docin.com/p-2279373056.html
+
+分布式键值对存储系统的设计与实现 - 豆丁网
+https://www.docin.com/p-2279373056.html
+
+SLIK：高扩展、低延时的键值存储索引实现（RAMCloud）_语言 & 开发_王豪迈_InfoQ精选文章
+https://www.infoq.cn/article/slik-key-value-store-index-ramcloud
+
+ramcloud.stanford.edu
+https://ramcloud.stanford.edu/wiki/download/attachments/11960661/slik.pdf?version=1&modificationDate=1399661916366
+
+基于LSM-Tree的键值存储引擎的优化研究与实现 - 豆丁网
+https://www.docin.com/p-2325322129.html
+
+分布式键值对存储系统的设计与实现 - 豆丁网
+https://www.docin.com/p-2279373056.html
+
+构建新型高性能与高可用的键值数据库系统
+https://www.jos.org.cn/jos/article/abstract/6023
+
+导出引用信息
+https://www.jos.org.cn/jos/article/export/6023
+
+Microsoft Word - 6023新_朱阅岸,16页_.txt
+https://www.jos.org.cn/jos/article/pdf/6023
+
+key value store site: cmu.edu - Google 搜索
+https://www.google.com/search?q=key+value+store+site%3A+cmu.edu&sca_esv=596091470&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKk7KdUDUEBwyYOr0l_m9dp8sxRghg%3A1704499531325&ei=S5mYZa7FE5Sfvr0Pkd-RIA&oq=key+value+store+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGtleSB2YWx1ZSBzdG9yZSAqAggAMgQQIxgnMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSLsQUDpYOnABeAGQAQCYAdcBoAHXAaoBAzItMbgBA8gBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+Michael Kaminsky
+https://www.cs.cmu.edu/~kaminsky/
+
+Dave Andersen
+https://www.cs.cmu.edu/~dga/
+
+Dave's Data
+https://da-data.blogspot.com/
+
+‪David G. Andersen‬ - ‪Google 学术搜索‬
+https://scholar.google.com/citations?user=wUArfPgAAAAJ
+
+nsdi14-paper-lim.pdf
+https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-lim.pdf
+
+Bin Fan's Homepage
+https://www.cs.cmu.edu/~binfan/
+
+efficient/cuckoofilter
+https://github.com/efficient/cuckoofilter
+
+conext14_cuckoofilter.pdf
+https://www.cs.cmu.edu/~binfan/papers/conext14_cuckoofilter.pdf
+
+c++ - How do I install the OpenSSL libraries on Ubuntu? - Stack Overflow
+https://stackoverflow.com/questions/3016956/how-do-i-install-the-openssl-libraries-on-ubuntu
+
+core-avx2 arm - Google 搜索
+https://www.google.com/search?q=core-avx2+arm&sca_esv=596100147&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmafrzfPH4OlIByDodLfjCilmVefA%3A1704500688808&ei=0J2YZaT9MPT01e8Poq-S4A8&ved=0ahUKEwikpc3wv8eDAxV0evUHHaKXBPwQ4dUDCBA&uact=5&oq=core-avx2+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWNvcmUtYXZ4MiBhcm0yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUjgBFBDWLADcAF4AZABAJgB2wGgAeEEqgEFMC4xLjK4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBhAAGAgYHsICBhAAGAUYHsICCBAAGAUYHhgP4gMEGAAgQYgGAZAGBw&sclient=gws-wiz-serp
+
+Advanced Cloud Computing (15-719) - Google 搜索
+https://www.google.com/search?q=Advanced+Cloud+Computing+(15-719)&rlz=1C1GCEA_enJP1090JP1090&oq=Advanced+Cloud+Computing+(15-719)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+15-719 Advanced Cloud Computing: Syllabus
+https://www.cs.cmu.edu/~15719/old/spring2019/syllabus.html
+
+719_S19-L19_Networking
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L19_Networking.pdf
+
+computer science research currently area - Google 搜索
+https://www.google.com/search?q=computer+science+research+currently+area&sca_esv=596100147&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnSRzmu-IQkhImHPQ-M5cQVuTVlBQ%3A1704501174432&ei=tp-YZeP9GYjK1e8P6cyhsAM&ved=0ahUKEwjjsJXYwceDAxUIZfUHHWlmCDYQ4dUDCBA&uact=5&oq=computer+science+research+currently+area&gs_lp=Egxnd3Mtd2l6LXNlcnAiKGNvbXB1dGVyIHNjaWVuY2UgcmVzZWFyY2ggY3VycmVudGx5IGFyZWEyBRAhGKABMgUQIRigAUiaVlCgCliIVXABeAKQAQCYAYgCoAHLQKoBBzAuMTMuMje4AQPIAQD4AQHCAgQQABhHwgIKECMYgAQYigUYJ8ICBBAjGCfCAgoQLhiABBiKBRhDwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIFEC4YgATCAgwQIxiABBiKBRgTGCfCAgsQLhiABBjHARjRA8ICCBAAGIAEGMsBwgIOEC4YgAQYywEYxwEY0QPCAgQQABgewgIGEAAYCBgewgIIEAAYCBgeGA3CAggQABiABBiiBMICCBAAGIkFGKIE4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Future Directions and Recent Trends in Computer Science | Next Big Thing AG
+https://nextbigthing.ag/blog/the-ever-evolving-world-of-ai-future-directions-and-recent-trends-in-computer-science/
+
+Currently, what are the most active research areas in Computer Science in 2019? - Quora
+https://www.quora.com/Currently-what-are-the-most-active-research-areas-in-Computer-Science-in-2019
+
+Key-Value Storage Engines
+https://scholar.harvard.edu/files/stratos/files/keyvaluestorageengines.pdf
+
+Publications - Carnegie Mellon Database Group - Carnegie Mellon Database Group
+https://db.cs.cmu.edu/publications/
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2023/toyear/2024/index?all&world
+
+CMU 15-721 :: Database Systems (Spring 2024)
+https://15721.courses.cs.cmu.edu/spring2024/
+
+Phillip B. Gibbons
+http://www.cs.cmu.edu/~gibbons/
+
+dblp: Graham Neubig
+https://dblp.org/pid/03/8155.html
+
+dblp: ACL 2023
+https://dblp.org/db/conf/acl/acl2023-1.html
+
+dblp: Xiaokang Yang
+https://dblp.org/pid/06/3071.html
+
+Xinbing Wang | Publication
+https://www.cs.sjtu.edu.cn/~wang-xb/publication.html
+
+Dr. Minyi Guo's Home Page
+https://cs.sjtu.edu.cn/~guo-my/
+
+Kang Chen, Computer Science Professor, Tsinghua University
+https://madsys.cs.tsinghua.edu.cn/~kangchen/
+
+dblp: Tianyin Xu
+https://dblp.org/pid/90/7566.html
+
+Towards GPU Memory Efficiency for Distributed Training at Scale
+https://sampalomad.github.io/paper/cheng2023towards.pdf
+
+dblp: Ioannis Gkioulekas
+https://dblp.org/pid/36/8845.html
+
+acl nlp - Google 搜索
+https://www.google.com/search?q=acl+nlp&rlz=1C1GCEA_enJP1090JP1090&oq=acl+nlp&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIICAYQABgIGB7SAQgxNTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+中国 23年 12月 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+23%E5%B9%B4+12%E6%9C%88+cpi&sca_esv=596100147&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlIP7XLCFnMV2hiO82dzJddXH6Awg%3A1704501881227&ei=eaKYZfHIDeC7vr0P7M-tuAI&ved=0ahUKEwix6ZipxMeDAxXgna8BHexnCycQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+23%E5%B9%B4+12%E6%9C%88+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuS4reWbvSAyM-W5tCAxMuaciCBjcGlI9gtQkwFY-gpwAXgAkAEAmAHFAaABhgOqAQMwLjK4AQPIAQD4AQHiAwQYASBBiAYB&sclient=gws-wiz-serp
+
+uiuc so many chinese - Google 搜索
+https://www.google.com/search?q=uiuc+so+many+chinese&rlz=1C1GCEA_enJP1090JP1090&oq=uiuc+so+many+chinese&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDYxMzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中国财政收入组成 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5%E7%BB%84%E6%88%90&sca_esv=596100147&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmNiyT_t53Oq1sTO48K_K8GTxnKXg%3A1704503274007&ei=6qeYZYYBsd3aug__hZWADQ&oq=%E4%B8%AD%E5%9B%BD+%E8%B4%A2%E6%94%BF%E6%94%B6%E5%85%A5&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-S4reWbvSDotKLmlL_mlLblhaUqAggEMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMSLD2BFCPCliu3gRwAngBkAEBmAGNBaABmzCqAQwwLjUuMTMuMi4wLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBBAjGCfCAgoQABiABBiKBRhDwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGMcBGNEDwgIQEC4YgAQYigUYQxjHARjRA8ICDRAuGAwYxwEY0QMYgATCAhwQLhgMGMcBGNEDGIAEGJcFGNwEGN4EGOAE2AEBwgIIEAAYgAQYogTCAgcQABiABBgNwgIGEAAYHhgNwgIIEAAYHhgNGA_CAggQABgIGB4YDcICChAAGAgYHhgNGA_iAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+2023年一季度财政收支情况_部门动态_中国政府网
+https://www.gov.cn/lianbo/2023-04/18/content_5752069.htm
+
+Tannal
+https://tannal.deno.dev/posts/people
+
+John Ousterhout
+https://web.stanford.edu/~ouster/cgi-bin/home.php
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+acl nlp - Google 搜索
+https://www.google.com/search?q=acl+nlp&rlz=1C1GCEA_enJP1090JP1090&oq=acl+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MgYIAhBFGDkyDAgDEAAYQxiABBiKBTIJCAQQABgMGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHODgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+acl acceptance rate - Google 搜索
+https://www.google.com/search?q=acl+acceptance+rate&rlz=1C1GCEA_enJP1090JP1090&oq=acl+acc&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU4MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%8D%95%E5%90%91%E7%9A%84&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Rust Programming Language
+https://www.rust-lang.org/
+
+The Go Programming Language
+https://go.dev/
+
+schwag - Google 搜索
+https://www.google.com/search?q=schwag&rlz=1C1GCEA_enJP1090JP1090&oq=schwag&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQLhgKGIAE0gEIMTYzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Rust maintains a backward compatibility policy - Google 搜索
+https://www.google.com/search?q=+Rust+maintains+a+backward+compatibility+policy&sca_esv=596118168&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlrUUYV7xRPBSbV81ZA3hhi0FdYPQ%3A1704508359240&ei=x7uYZdipDu-Svr0PsoOE6A8&ved=0ahUKEwiYqZO63MeDAxVvia8BHbIBAf0Q4dUDCBA&uact=5&oq=+Rust+maintains+a+backward+compatibility+policy&gs_lp=Egxnd3Mtd2l6LXNlcnAiLyBSdXN0IG1haW50YWlucyBhIGJhY2t3YXJkIGNvbXBhdGliaWxpdHkgcG9saWN5SOECUABYAHAAeAGQAQCYAfEBoAHxAaoBAzItMbgBA8gBAPgBAvgBAeIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+x/tools/gopls/internal/test/integration/misc: TestRenamePackage_NestedModule failures · Issue #64984 · golang/go
+https://github.com/golang/go/issues/64984
+
+lamport.azurewebsites.net/science.pdf
+https://lamport.azurewebsites.net/science.pdf
+
+Concurrency is not Parallelism by Rob Pike - YouTube
+https://www.youtube.com/watch?v=oV9rvDllKEg
+
+Communicating sequential processes
+https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+%22leveldb%22&type=commits&p=3
+
+Solomon Hykes - Google 搜索
+https://www.google.com/search?sca_esv=596130221&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKk7ToN8IlQzEOwrmnUawiyO7tgYWQ:1704512222292&q=Solomon+Hykes&stick=H4sIAAAAAAAAAONgVuLVT9c3NEwqNylLMbUoWMTKG5yfk5-bn6fgUZmdWgwAsR3VMSEAAAA&sa=X&ved=2ahUKEwjFqZns6seDAxWDs1YBHeKPCFcQmxMoAXoECDYQAw&biw=1536&bih=738&dpr=1.25
+
+225934 - LocalStorage: switch to leveldb as the backing store.
+https://bugs.chromium.org/p/chromium/issues/detail?id=225934
+
+[chrome] Contents of /trunk/src/webkit/common/dom_storage/dom_storage_types.h
+https://src.chromium.org/viewvc/chrome/trunk/src/webkit/common/dom_storage/dom_storage_types.h?pathrev=215402
+
+webkit/common/dom_storage/dom_storage_types.h - Issue 21680002: Up the window.localstorage limit to 10M from 5M. - Code Review
+https://chromiumcodereview.appspot.com/21680002/patch/11001/12001
+
+LocalStorage: switch to leveldb as the backing store - Google 搜索
+https://www.google.com/search?q=LocalStorage%3A+switch+to+leveldb+as+the+backing+store&rlz=1C1GCEA_enJP1090JP1090&oq=LocalStorage%3A+switch+to+leveldb+as+the+backing+store&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg6MgYIAhBFGD3SAQc4ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How to do a Git log search - Gun.io
+https://gun.io/news/2017/02/git-search-log/
+
+chromium/chromium: The official GitHub mirror of the Chromium source
+https://github.com/chromium/chromium
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit+%2210+*+1024+*+1024%22&type=code
+
 # 2024-1-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

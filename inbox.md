@@ -1,3 +1,65 @@
+# 2024-1-6
+
+git log --grep="facebook"
+
+
+
+& in shell
+
+LocalStorage SessionStorage leveldb instead of sqlite https://bugs.chromium.org/p/chromium/issues/detail?id=225934
+
+concurrency is a way to structure the software, once you structure it properly, you can get parallesim for free.
+
+go routine
+
+select channel
+
+async await
+
+You don't need to accept it, but you need to understand it.
+
+The sccessful of the go programming language
+
+- schwag logo symbol community open
+
+- cross platform
+
+- backward compatibility
+
+- library tools 
+
+Software is for machine to run, not for people to read.
+
+Don't try to read large project source code without a specific goal , it's basicaly a waste of time.
+
+No one can understand every details in big projects like postgresql, linux kernel, eta.
+
+If you want to learn something, try to communicate with someone who know/invent it.
+
+Reading is communication, it's just one-way. 
+
+But two-way, feedback-rich communication can help you more.
+
+
+
+0.X breaking changes prototype creativity move fast and break things
+
+1.0 stable compatibility don't break user's code
+
+Rust Backward Compatibility
+
+
+
+
+```bash
+
+git clone https://github.com/efficient/cuckoofilter.git
+
+cuckoofilter
+
+```
+
+
 # 2024-1-5
 
 
