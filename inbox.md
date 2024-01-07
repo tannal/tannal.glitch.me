@@ -1,8 +1,14 @@
 # 2024-1-7
 
+tensorflow is dead, long live pytorch
+
+https://rustacean-station.org/episode/josh-matthews/
+
 F G A B C D E
 
 F G Gb Ab B Cb Db E
+
+https://www.joshmatthews.net/fosdem/#slide-6
 
 kernel/irq/manage.c@request_threaded_irq
 
@@ -13,6 +19,7 @@ codec encoder decoder
 export https_proxy=http://192.168.43.1:7890
 export http_proxy=http://192.168.43.1:7890
 
+date --universal --iso-8601=s
 
 cd src/pages/posts/
 

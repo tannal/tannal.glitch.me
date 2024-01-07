@@ -84,7 +84,10 @@ int main() {
 
 ```
 
+```
+// writer reader
 
+```
 # c
 
 # c++

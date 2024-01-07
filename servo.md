@@ -249,6 +249,8 @@ sudo apt install moreutils
 
 RUST_LOG="debug" ./mach run -d -- -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
 
+RUST_LOG="debug" ./mach run -d -- -i -y 1  2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
 
 llvm git cmake python python-virtualenv wixtoolset ninja vs2019
 

@@ -50,6 +50,26 @@ mod tests {}
 
 ```
 
+# layout 2020
+
+
+box tree
+                -> stacking context tree -> WebRender display list
+fragment tree
+
+For example, when a text sequence is broken into multiple lines or a block is broken across columns or pages, it yields multiple fragments in the tree.
+
+```rust
+
+
+
+pub struct DisplayList {
+    pub list: Vec<DisplayItem>,
+    pub clip_scroll_nodes: Vec<ClipScrollNode>,
+}
+
+
+```
 
 # debug in vscode
 

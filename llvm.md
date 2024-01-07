@@ -4,10 +4,110 @@ llvm optimization remarks https://www.youtube.com/watch?v=qmEsx4MbKoc
 
 FAROS https://github.com/LLNL/FAROS
 
+llvm pass analysis tranformation
+
+remove dead instructions
+
+pass managers record what's preserved
+
+opt ninja's best friend
+
+.ll -> .ll optimization same sematics
+
+opt add.ll -dot-cfg -o output.ll
+
+opt -aa-pipeline=basic-aa -passes='print<memoryssa>' -dot-cfg-mssa=out.dot < add.ll 2>&1 > /dev/null
+
+cl::opt<bool>
+
+cfg
+
+```c
+// clang -emit-llvm -c example.c -o example.bc
+// opt -dot-cfg example.bc -o /dev/null
+#include <stdio.h>
+
+int main() {
+    int a = 5;
+    int b = 10;
+    int c;
+
+    if (a < b) {
+        c = a + b;
+    } else {
+        c = a - b;
+    }
+
+    for (int i = 0; i < 5; i++) {
+        c += i;
+    }
+
+    printf("Result: %d\n", c);
+
+    return 0;
+}
+
+
+```
+# LLVM tutor
+
+```bash
+
+wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
+sudo apt-add-repository "deb http://apt.llvm.org/jammy/ llvm-toolchain-jammy-17 main"
+sudo apt-get update
+sudo apt-get install -y llvm-17 llvm-17-dev llvm-17-tools clang-17
+
+git clone https://github.com/banach-space/llvm-tutor.git
+
+dpkg -L llvm
+
+cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
+
+
+ninja clean -C build
+ninja -C build
+
+ln -s /build/compile_commands.json compile_commands.json
+
+
+clang -emit-llvm -S -O1 ../../cp/add.ll
+
+/usr/lib/llvm-17/bin/opt -load-pass-plugin lib/libHelloWorld.so -passes=hello-world,hello-world --disable-output ../input_for_hello.ll
+
+PassInfoMixin
+
+```
+# MLIR
+
+https://github.com/llvm/torch-mlir
+
 
 
 
 # Build LLVM from source
+
+# Tests
+
+```bash
+
+ninja check-llvm-unit
+
+llvm/unittests
+
+```
+
+Google Test
+
+FileCheck
+
+Lit
+
+Google Benchmark
+
+LNT
+
+Build Bots
 
 ```bash
 
@@ -20,11 +120,13 @@ git clone --depth 1 https://github.com/llvm/llvm-project.git
 
 # cmake -S llvm -B build -G Unix Makefiles
 
-cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Release' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld
+cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Release' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 
 cd build
 
 ninja
+
+ln -s /build/compile_commands.json compile_commands.json
 
 clang-format, clang-tidy clang-modernize, ..
 
@@ -75,7 +177,15 @@ static void getPredecessors(BasicBlock &BB, SmallVectorImpl<BasicBlock *> &Prede
 
 # LLVM IR
 
-llvm bitcode
+A pass operates on some unit of IR (e.g. Module or Function)
+
+Transformation pass will modify it
+
+Analysis pass will generate some high level information
+
+
+
+llvm bitcode 
 
 clang -emit-llvm main.c -c -o main.bc
 
@@ -84,6 +194,18 @@ llvm bc
 -save-temps + llvm-extract
 
 opt -O3 main.bc | llvm-bcanalyzer
+
+```llvm
+
+clang -S -emit-llvm -O1 add.c -o add.ll
+
+define dso_local i32 @add(i32 noundef %0, i32 noundef %1) local_unnamed_addr #0 {
+  %3 = add nsw i32 %1, %0
+  ret i32 %3
+}
+
+
+```
 
 ## Examples
 
@@ -190,3 +312,8 @@ sync-ups
 office hours
 
 meetups
+
+# appendix
+
+
+llvm/lib/IR/AsmWriter.cpp@ AssemblyWriter::printFunction

@@ -232,6 +232,39 @@ Err:          0
 
 # Kernel Virtual Machine
 
+since 2.6.20
+
+every vm is a regular linux process.
+
+scheduled by the standard linux scheduler
+
+qemu is part of kvm tiny code generator or kvm
+
+domain0 privileged domU user
+
+egrep --count '^flags.*(vmx|svm)' /proc/cpuinfo
+
+
+```bash
+
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+
+systemctl start libvirtd
+
+lsmod | egrep 'kvm_*(amd|intel)'
+
+sudo usermod --append --groups=kvm,libvirt ${USER}
+
+cat /etc/group | egrep "^(kvm|libvirt).*${USER}"
+
+cp /etc/libvirt/qemu.conf /etc/libvirt/qemu.conf.original
+
+sed --in-place \
+	
+
+systemctl enable libvirtd
+
+```
 
 
 # EBPF & tracing

@@ -41,3 +41,9 @@ gfx/
 servo/
 
 python/
+
+
+# community
+
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
