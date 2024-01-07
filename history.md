@@ -1,5 +1,140 @@
 # 2024-1-7
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+learning-v8/notes/intro.md at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/notes/intro.md
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+Layout 2020 · servo/servo Wiki
+https://github.com/servo/servo/wiki/Layout-2020
+
+Install KVM on Ubuntu 20.04 {+ Create a Virtual Machine}
+https://phoenixnap.com/kb/ubuntu-install-kvm
+
+~bryanb/bootloaders-101 (canon): bootloaders-101-slides.pdf - sourcehut git
+https://git.sr.ht/~bryanb/bootloaders-101/tree/canon/item/bootloaders-101-slides.pdf
+
+super sampling anti-aliasing - Google 搜索
+https://www.google.com/search?q=super+sampling+anti-aliasing&rlz=1C1GCEA_enJP1090JP1090&oq=super+sampling&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDILCAMQABgKGAwYgATSAQkxMTAwMmoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+surface normal - Google 搜索
+https://www.google.com/search?q=surface+normal&rlz=1C1GCEA_enJP1090JP1090&oq=surface+normal&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+sub in markdown - Google 搜索
+https://www.google.com/search?q=sub+in+markdown&rlz=1C1GCEA_enJP1090JP1090&oq=sub+in+mark&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCggCEAAYCBgTGB4yCggDEAAYCBgTGB4yCggEEAAYCBgTGB4yCggFEAAYCBgTGB4yCggGEAAYCBgTGB4yCggHEAAYCBgTGB4yCggIEAAYCBgTGB4yCggJEAAYBRgTGB7SAQg1Nzc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Theta - Wikipedia
+https://en.wikipedia.org/wiki/Theta
+
+barycentric coordinates - Google 搜索
+https://www.google.com/search?q=barycentric+coordinates&rlz=1C1GCEA_enJP1090JP1090&oq=barycentric+coordinates&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDRg5GIAEMgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEINTUzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+josh matthews mozilla - Google 搜索
+https://www.google.com/search?q=josh+matthews+mozilla&sca_esv=596329513&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkR0AzHwClty97_VfQP9i6me-R8nA%3A1704616785611&ei=UWOaZb7iJIbf1e8PlcM1&ved=0ahUKEwj-zu-v8MqDAxWGb_UHHZVhDQAQ4dUDCBA&uact=5&oq=josh+matthews+mozilla&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWpvc2ggbWF0dGhld3MgbW96aWxsYTIHECEYChigATIHECEYChigAUj-H1DwA1ijH3AAeAKQAQCYAfoBoAGYC6oBBTAuNC4zuAEDyAEA-AEBwgIEEAAYR8ICCBAAGIAEGMsBwgIKEC4YywEYgAQYCsICBBAAGB7CAgYQABgIGB7CAgUQIRigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Writing code for Firefox
+https://www.joshmatthews.net/fosdem/#slide-12
+
+Bugzilla Main Page
+https://bugzilla.mozilla.org/home
+
+Element [1] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+832411 - a> nsIGeolocationProvider::SetHighAccuracy does not get called from nsgeolocation service for all cases.
+https://bugzilla.mozilla.org/show_bug.cgi?id=832411
+
+FOSDEM 2020 - Andrzej Warzynski
+https://archive.fosdem.org/2020/schedule/speaker/andrzej_warzynski/
+
+FOSDEM 2020 - Debugging with LLVM
+https://archive.fosdem.org/2020/schedule/event/debugging_with_llvm/
+
+archive.fosdem.org/2020/schedule/event/debugging_with_llvm/attachments/slides/4146/export/events/attachments/debugging_with_llvm/slides/4146/Andrzej_Graham.pdf
+https://archive.fosdem.org/2020/schedule/event/debugging_with_llvm/attachments/slides/4146/export/events/attachments/debugging_with_llvm/slides/4146/Andrzej_Graham.pdf
+
+banach-space/llvm-tutor: A collection of out-of-tree LLVM passes for teaching and learning
+https://github.com/banach-space/llvm-tutor
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+ChatGPT
+https://chat.openai.com/c/cf2a126b-df7f-4f80-891a-1c1a47200389
+
+Using the New Pass Manager — LLVM 18.0.0git documentation
+https://llvm.org/docs/NewPassManager.html#invoking-opt
+
+Go is Dying - Long Live Python? WUT | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=onDdWlK_ZsA
+
+ld path linux - Google 搜索
+https://www.google.com/search?q=ld+path+linux&rlz=1C1GCEA_enJP1090JP1090&oq=ld+path+linux&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgkIARAAGAoYgAQyCAgCEAAYBRgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYBRge0gEIMjIyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+opt load-pass-plugin lib - Google 搜索
+https://www.google.com/search?q=opt+load-pass-plugin+lib&rlz=1C1GCEA_enJP1090JP1090&oq=opt+load-pass-plugin+lib&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABge0gEJMTAwNjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+llvm/torch-mlir: The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
+https://github.com/llvm/torch-mlir
+
+tensorflow is dead - Google 搜索
+https://www.google.com/search?q=tensorflow+is+dead&rlz=1C1GCEA_enJP1090JP1090&oq=tensorflow+is+dead&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDMyNjZqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+The State of Competitive Machine Learning | ML Contests
+https://mlcontests.com/state-of-competitive-machine-learning-2022/
+
+monkeykeyvaluestore.pdf
+https://nivdayan.github.io/monkeykeyvaluestore.pdf
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva
+
+How do I configure go command to use a proxy? - Stack Overflow
+https://stackoverflow.com/questions/10383299/how-do-i-configure-go-command-to-use-a-proxy
+
+huandu/skiplist: Fast and easy-to-use skip list for Go.
+https://github.com/huandu/skiplist
+
+debugging · golang/vscode-go Wiki
+https://github.com/golang/vscode-go/wiki/debugging
+
+c - Use input (stdin) in debug console VScode - Stack Overflow
+https://stackoverflow.com/questions/64786161/use-input-stdin-in-debug-console-vscode
+
+go routine crash - Google 搜索
+https://www.google.com/search?q=go+routine+crash&rlz=1C1GCEA_enJP1090JP1090&oq=go+routine+crash&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yCggCEAAYBRgNGB4yBggDEEUYQNIBCDgwNDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+undodb - Google 搜索
+https://www.google.com/search?q=undodb&rlz=1C1GCEA_enJP1090JP1090&oq=undodb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyDAgFEC4YQxiABBiKBTIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDExMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+valgrind - Google 搜索
+https://www.google.com/search?q=valgrind&sca_esv=596368808&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmC_lpIJDRjun7-Cf3AnRVAbUigvA%3A1704636798755&ei=frGaZfS_Lfns2roP6o6ekAc&ved=0ahUKEwj09vD2usuDAxV5tlYBHWqHB3IQ4dUDCBA&uact=5&oq=valgrind&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHZhbGdyaW5kMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMgUQABiABEi1IVCwC1j-H3ABeAGQAQCYAdkBoAGaC6oBBTAuMS42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgoQIxiABBiKBRgnwgIFEC4YgATiAwQYACBBiAYBkAYF&sclient=gws-wiz-serp
+
+lib curses - Google 搜索
+https://www.google.com/search?q=lib+curses&rlz=1C1GCEA_enJP1090JP1090&oq=lib+curses&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgwIARAAGAoYDBgTGB4yCggCEAAYDBgTGB4yCggDEAAYDBgTGB4yDAgEEAAYChgMGBMYHjIKCAUQABgMGBMYHjIMCAYQABgKGAwYExgeMgwIBxAAGAoYDBgTGB4yCggIEAAYDBgTGB4yDAgJEAAYChgMGBMYHtIBCDM2OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+banging rocks - Google 搜索
+https://www.google.com/search?q=banging+rocks&rlz=1C1GCEA_enJP1090JP1090&oq=banging+rocks&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMg8IAhAuGA0YrwEYxwEYgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDczMTZqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=banging%20rocks&op=translate
+
+Rust In Linux Kernel 2
+https://feneshi.co/Rust_In_Linux_Kernel_2/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,9 @@
 # 2024-1-7
 
+curses
+
+full lto vs thinlto
+
 tensorflow is dead, long live pytorch
 
 https://rustacean-station.org/episode/josh-matthews/

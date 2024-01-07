@@ -267,6 +267,15 @@ systemctl enable libvirtd
 ```
 
 
+# rust for linux kernel
+
+```bash
+
+make LLVM=1 rustavailable -j20
+
+
+```
+
 # EBPF & tracing
 
 # file system (disk driver)
