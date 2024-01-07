@@ -275,6 +275,10 @@ messages for searching
 
 https://lore.kernel.org/lkml/?q=the+scheduler
 
+https://bugzilla.kernel.org/show_bug.cgi?id=218334
+
+https://subspace.kernel.org/vger.kernel.org.html
+
 
 # reference
 
@@ -298,3 +302,5 @@ sudo ./kprobe -s 'p:el0t_64_sync_handler'
 
 
 ```
+
+

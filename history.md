@@ -1,5 +1,116 @@
 # 2024-1-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+linux-test-project/ltp: Linux Test Project http://linux-test-project.github.io/
+https://github.com/linux-test-project/ltp
+
+KernelBuild - Linux Kernel Newbies
+https://kernelnewbies.org/KernelBuild
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+meshery/meshery: Meshery, the cloud native manager
+https://github.com/meshery/meshery
+
+Concurrency is not Parallelism by Rob Pike - YouTube
+https://www.youtube.com/watch?v=oV9rvDllKEg
+
+Concurrency is not Parallelism
+https://go.dev/talks/2012/waza.slide#45
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+kernel.org/doc/Documentation/filesystems/configfs/configfs.txt
+https://www.kernel.org/doc/Documentation/filesystems/configfs/configfs.txt
+
+2. Data Structures and Algorithms — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v4.19/filesystems/ext4/ondisk/index.html
+
+exportfs linux - Google 搜索
+https://www.google.com/search?q=exportfs+linux&sca_esv=596193189&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnP3tD1sWgsxIUhkiCK8FuvjwEJpg%3A1704541135857&ei=zzuZZZ34M_za1e8PtaK68A8&ved=0ahUKEwjdm6HH1siDAxV8bfUHHTWRDv4Q4dUDCBA&uact=5&oq=exportfs+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmV4cG9ydGZzIGxpbnV4MggQABiABBjLATIEEAAYHjIEEAAYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSL0HUBxY1wZwAXgBkAEAmAGNAqAB5gaqAQUwLjEuM7gBA8gBAPgBAcICChAAGEcY1gQYsAPCAgYQABgeGA_iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Linux 内核网络栈 - Xuewei's Blog
+https://nxw.name/2022/linux-network-stack
+
+电影院购票小程序需求
+https://chat.openai.com/c/4f0bb9d2-9d35-440d-adc2-edb2a979c88f
+
+linux kernel - Determining value of PAGE_OFFSET? - Stack Overflow
+https://stackoverflow.com/questions/19371784/determining-value-of-page-offset
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Workflow runs · tannal/servo
+https://github.com/tannal/servo/actions
+
+64bit 48bit - Google 搜索
+https://www.google.com/search?q=64bit+48bit&rlz=1C1GCEA_enJP1090JP1090&oq=64bit+48bit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgPGB4yCggCEAAYCBgKGB4yDAgDEAAYCBgKGA8YHjIKCAQQABgIGA8YHtIBCDMwNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+pci pcie - Google 搜索
+https://www.google.com/search?q=pci+pcie&rlz=1C1GCEA_enJP1090JP1090&oq=pci+pcie&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgzOTYyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+nvidia mm linux kernel - Google 搜索
+https://www.google.com/search?q=nvidia+mm+linux+kernel&sca_esv=596205809&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm0izBZFeqL7RbQayRm0n0Bwq68gg%3A1704545771255&ei=602ZZeqWD6Cm2roP0eeTsAo&ved=0ahUKEwiquMvp58iDAxUgk1YBHdHzBKYQ4dUDCBA&uact=5&oq=nvidia+mm+linux+kernel&gs_lp=Egxnd3Mtd2l6LXNlcnAiFm52aWRpYSBtbSBsaW51eCBrZXJuZWwyBRAhGKABMgUQIRigAUiKIVC6DVjiH3ADeAGQAQCYAd0BoAG7E6oBBjAuMi4xMLgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgcQABiABBgMwgIHECEYChigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+operating system - MMU and Page Table - Stack Overflow
+https://stackoverflow.com/questions/39652549/mmu-and-page-table
+
+DEC Alpha - Wikipedia
+https://en.wikipedia.org/wiki/DEC_Alpha
+
+c-sky
+https://github.com/c-sky
+
+Linux C-SKY Introduction: | C-SKY Linux Arch by c-sky
+https://c-sky.github.io/
+
+caching - cache miss, a TLB miss and page fault - Stack Overflow
+https://stackoverflow.com/questions/37825859/cache-miss-a-tlb-miss-and-page-fault
+
+Parallel vs. Sequential Execution: A Dive into Multithreading in Go | by Parv Jain | Medium
+https://medium.com/@parvjn616/parallel-vs-sequential-execution-a-dive-into-multithreading-in-go-1a73c91479ac
+
+science.pdf
+https://lamport.azurewebsites.net/tla/science.pdf
+
+glibc/hurd/hurdmalloc.c at 520b1df08de68a3de328b65a25b86300a7ddf512 · bminor/glibc
+https://github.com/bminor/glibc/blob/520b1df08de68a3de328b65a25b86300a7ddf512/hurd/hurdmalloc.c#L200
+
+Submit a Resume for a Career at Konsulko Group
+https://www.konsulko.com/careers
+
+SO2 Lecture 03 - Processes — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#processes-and-threads
+
+Sisteme de Operare 2 [CS Open CourseWare]
+https://ocw.cs.pub.ro/courses/so2
+
+kelsey steele microsoft - Google 搜索
+https://www.google.com/search?q=kelsey+steele+microsoft&sca_esv=596216867&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKm7bF3dduifEF4AssTRAkFKPPIQGw%3A1704551784502&ei=aGWZZa-lHu7p1e8PnJqA2A0&oq=kelsey+steele+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmtlbHNleSBzdGVlbGUgKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYBRgeSIEQUIkBWIkBcAF4AZABAJgBvgGgAb4BqgEDMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgE&sclient=gws-wiz-serp
+
+Kelsey Steele - Open Source Summit North America 2023
+https://ossna2023.sched.com/speaker/kelseysteele2
+
+Linux Kernel Mentorship Program - Coding Ninjas
+https://www.codingninjas.com/studio/library/linux-kernel-mentorship-program
+
+Linux Kernel Mentorship Program - Coding Ninjas
+https://www.codingninjas.com/studio/library/linux-kernel-mentorship-program
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Statement%20of%20Purpose%20letter&op=translate
+
+linux-test-project/ltp: Linux Test Project http://linux-test-project.github.io/
+https://github.com/linux-test-project/ltp
+
+tannal (tannal)
+https://github.com/tannal
+
 linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
