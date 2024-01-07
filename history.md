@@ -1,3 +1,209 @@
+# 2024-1-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug List
+https://bugzilla.kernel.org/buglist.cgi?chfield=%5BBug%20creation%5D&chfieldfrom=7d
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+1.75.0 pre-release testing | Inside Rust Blog
+https://blog.rust-lang.org/inside-rust/2023/12/21/1.75.0-prerelease.html
+
+Directory listing of /?prefix=dist/2023-12-21&marker=dist/2023-12-21/rust-std-1.75.0-x86_64-unknown-linux-gnu.tar.gz.asc
+https://dev-static.rust-lang.org/dist/2023-12-21/index.html
+
+Rust 1.75.0 pre-release testing - announcements - Rust Internals
+https://internals.rust-lang.org/t/rust-1-75-0-pre-release-testing/20068
+
+This Week in Rust 528 · This Week in Rust
+https://this-week-in-rust.org/blog/2024/01/03/this-week-in-rust-528/
+
+All messages - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#all_messages
+
+Governance - Rust Programming Language
+https://www.rust-lang.org/governance
+
+golang/website: [mirror] Home of the go.dev and golang.org websites
+https://github.com/golang/website
+
+[Build Go from source] #go #golang #compile #source
+https://gist.github.com/Integralist/af300f602fa4da8cc14863f36a24bd1e
+
+电影院购票小程序需求
+https://chat.openai.com/c/4f0bb9d2-9d35-440d-adc2-edb2a979c88f
+
+note/vscode_debug_go_self.md at master · vikyd/note
+https://github.com/vikyd/note/blob/master/vscode_debug_go_self.md
+
+go/src/cmd/go/internal/modload/query_test.go at master · golang/go
+https://github.com/golang/go/blob/master/src/cmd/go/internal/modload/query_test.go#L123
+
+Google
+https://www.google.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+How do I add Git submodule to a sub-directory? - Stack Overflow
+https://stackoverflow.com/questions/9035895/how-do-i-add-git-submodule-to-a-sub-directory
+
+linus torvalds - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwSc9LM2D04svJzCstVijJLypLzEkpBgBq1wjA&q=linus+torvalds&rlz=1C1GCEA_enJP1090JP1090&oq=linus+tor&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIGCAAQRRg5MgwIARAuGEMYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQ0MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+linux device drivers - Google 搜索
+https://www.google.com/search?q=linux+device+drivers&rlz=1C1GCEA_enJP1090JP1090&oq=linux+device+drivers+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQRRgnGDsYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMTk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Greg Kroah-Hartman - Google 搜索
+https://www.google.com/search?q=Greg+Kroah-Hartman&rlz=1C1GCEA_enJP1090JP1090&oq=Greg+Kroah-Hartman&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEHMjUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Alison Chaiken | Opensource.com
+https://opensource.com/users/chaiken
+
+Alison Chaiken's Embedded Linux Resources
+http://she-devel.com/
+
+Joel Fermands - Google 搜索
+https://www.google.com/search?q=Joel+Fermands&rlz=1C1GCEA_enJP1090JP1090&oq=Joel+Fermands&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDY4ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[PATCH] KVM: arm/arm64: The GIC is dead, long live the GIC - Marc Zyngier
+https://lore.kernel.org/kvm/1467394713-21772-1-git-send-email-marc.zyngier@arm.com/
+
+adeos linux kernel - Google 搜索
+https://www.google.com/search?q=adeos+linux+kernel&sca_esv=596275536&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkMByrrYiSNbuhPJeqWoXZlsjbVcQ%3A1704588991222&ei=v_aZZeqcDZ6A1e8P7KK9qAY&ved=0ahUKEwiq-LzqiMqDAxUeQPUHHWxRD2UQ4dUDCBA&uact=5&oq=adeos+linux+kernel&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFkZW9zIGxpbnV4IGtlcm5lbDIHECEYChigATIHECEYChigATIHECEYChigAUi4EVDfBViWEHACeAGQAQCYAdgBoAHgEKoBBTAuOS4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIGEAAYHhgKwgIEEAAYHsICBhAAGAgYHsICCBAAGAUYHhgMwgIFECEYoAHiAwQYACBBiAYBkAYC&sclient=gws-wiz-serp
+
+openmp - Google 搜索
+https://www.google.com/search?q=openmp&rlz=1C1GCEA_enJP1090JP1090&oq=openmp&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIxMzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cmu mach windows mac - Google 搜索
+https://www.google.com/search?q=cmu+mach+windows+mac&rlz=1C1GCEA_enJP1090JP1090&oq=cmu+mach+windows+mac&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCDg1MzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Why did Apple switch from Mach (the kernel of NeXT) to FreeBSD's NetBSD's OpenBSD's and finally to Linux for its new operating systems (macOS, iOS)? - Quora
+https://www.quora.com/Why-did-Apple-switch-from-Mach-the-kernel-of-NeXT-to-FreeBSDs-NetBSDs-OpenBSDs-and-finally-to-Linux-for-its-new-operating-systems-macOS-iOS
+
+c++ - LTO with LLVM and CMake - Stack Overflow
+https://stackoverflow.com/questions/35922966/lto-with-llvm-and-cmake
+
+XNU - Wikipedia
+https://en.wikipedia.org/wiki/XNU
+
+kees (Kees Cook)
+https://github.com/kees
+
+Kees Cook :tux: (@kees@fosstodon.org) - Fosstodon
+https://fosstodon.org/@kees
+
+Julia Evans: "debugging strategy: use a debu…" - Mastodon
+https://mastodon.social/@b0rk/109326109575525571
+
+Debugging with rr: Start at the End - YouTube
+https://www.youtube.com/watch?v=S6EQiSu_zNI
+
+llvm optimization remarks - Google 搜索
+https://www.google.com/search?q=llvm+optimization+remarks&rlz=1C1GCEA_enJP1090JP1090&oq=llvm+optimization+remarks&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+javascript - How can I see the machine code generated by v8? - Stack Overflow
+https://stackoverflow.com/questions/277423/how-can-i-see-the-machine-code-generated-by-v8
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+book/README.md at main · ckirsch/book
+https://github.com/ckirsch/book/blob/main/README.md?plain=1
+
+Compiler Explorer
+https://godbolt.org/
+
+(1) #general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+How to run a specific unit test in Rust? - Stack Overflow
+https://stackoverflow.com/questions/54585804/how-to-run-a-specific-unit-test-in-rust
+
+fix(ext/console): log format specifiers parsing by tannal · Pull Request #21442 · denoland/deno
+https://github.com/denoland/deno/pull/21442/files#diff-ac4017dad34750a4702a2faf38049000586d02f8c72dbbf742f217222c224333
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+error: the 'cargo' binary, normally provided by the 'cargo' component, is not applicable to the '1.75.0-x86_64-unknown-linux-gnu' toolchain - Google 搜索
+https://www.google.com/search?q=error%3A+the+%27cargo%27+binary%2C+normally+provided+by+the+%27cargo%27+component%2C+is+not+applicable+to+the+%271.75.0-x86_64-unknown-linux-gnu%27+toolchain&rlz=1C1GCEA_enJP1090JP1090&oq=error%3A+the+%27cargo%27+binary%2C+normally+provided+by+the+%27cargo%27+component%2C+is+not+applicable+to+the+%271.75.0-x86_64-unknown-linux-gnu%27+toolchain&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTY2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Components occasionally become corrupted after rustup upgrade · Issue #2704 · rust-lang/rustup
+https://github.com/rust-lang/rustup/issues/2704
+
+software installation - How to install "perf" monitoring tool? - Ask Ubuntu
+https://askubuntu.com/questions/50145/how-to-install-perf-monitoring-tool
+
+fix: deno info should respect import map by vedant-pandey · Pull Request #19781 · denoland/deno
+https://github.com/denoland/deno/pull/19781/files
+
+debug rust in vscode - Google 搜索
+https://www.google.com/search?q=debug+rust+in+vscode&rlz=1C1GCEA_enJP1090JP1090&oq=debug+rust+in+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIICAkQABgIGB7SAQgyMTIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Setting Up VSCode to Debug Rust - YouTube
+https://www.youtube.com/watch?v=TlfGs7ExC0A
+
+Launch configuration for debugging Rust code inside VS Code with LLDB
+https://gist.github.com/xorxornop/28d022786a5126c2e4a28335a78e0325
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal.web.app/posts/inbox/
+https://tannal.web.app/posts/inbox/
+
+莫扎特第三小提琴协奏曲 - Google 搜索
+https://www.google.com/search?q=%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%89%E5%B0%8F%E6%8F%90%E7%90%B4%E5%8D%8F%E5%A5%8F%E6%9B%B2&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%8E%AB%E6%89%8E%E7%89%B9%E7%AC%AC%E4%B8%89&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABNIBCDQ1NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c - How to make clang compile to llvm IR - Stack Overflow
+https://stackoverflow.com/questions/9148890/how-to-make-clang-compile-to-llvm-ir
+
+Issue search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+%22also-emit-llvm%22&type=issues
+
+clang llvm bit code - Google 搜索
+https://www.google.com/search?q=clang+llvm+bit+code&rlz=1C1GCEA_enJP1090JP1090&oq=clang+llvm+bit+code&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDQ0MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How to generate LLVM bitcode - Stack Overflow
+https://stackoverflow.com/questions/16782184/how-to-generate-llvm-bitcode
+
+How to set up VS Code for LLVM development | Blog | Linaro
+https://www.linaro.org/blog/how-to-set-up-vs-code-for-llvm-development/
+
+llvm-vscode-configs/.vscode/launch.json at master · omjavaid/llvm-vscode-configs
+https://github.com/omjavaid/llvm-vscode-configs/blob/master/.vscode/launch.json
+
+llvm tutorial youtube - Google 搜索
+https://www.google.com/search?q=llvm+tutorial+yotuube&sca_esv=596298580&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkgjdbDWUeoHSvGnKySRZDOkwg0jA%3A1704604254951&ei=XjKaZf3iOdqp1e8PvImFwAw&ved=0ahUKEwj9ieXYwcqDAxXaVPUHHbxEAcgQ4dUDCBA&uact=5&oq=llvm+tutorial+yotuube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWxsdm0gdHV0b3JpYWwgeW90dXViZTIHECEYChigATIHECEYChigAUj8CFAAWJMIcAB4AZABAJgB4QKgAb0NqgEHMC41LjIuMbgBA8gBAPgBAcICCBAAGIAEGMsBwgIEEAAYHsICBRAhGKAB4gMEGAAgQYgGAQ&sclient=gws-wiz-serp
+
+visual studio code - How to search for extensions created by Microsoft - Stack Overflow
+https://stackoverflow.com/questions/71575652/how-to-search-for-extensions-created-by-microsoft
+
+llvm-bcanalyzer - LLVM bitcode analyzer — LLVM 18.0.0git documentation
+https://llvm.org/docs/CommandGuide/llvm-bcanalyzer.html
+
+处理器间中断 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%A4%84%E7%90%86%E5%99%A8%E9%97%B4%E4%B8%AD%E6%96%AD#cite_note-1
+
+Is there a shortcut to move focus to the sidebar in Visual Studio Code? - Stack Overflow
+https://stackoverflow.com/questions/49662075/is-there-a-shortcut-to-move-focus-to-the-sidebar-in-visual-studio-code
+
+Alison Chaiken - Google 搜索
+https://www.google.com/search?q=Alison+Chaiken&rlz=1C1GCEA_enJP1090JP1090&oq=alison+chai&gs_lcrp=EgZjaHJvbWUqEAgAEEUYExgnGDsYgAQYigUyEAgAEEUYExgnGDsYgAQYigUyBggBEEUYOTIJCAIQLhgTGIAEMgkIAxAAGBMYgAQyCQgEEAAYExiABDIJCAUQABgTGIAEMgYIBhBFGD0yBggHEEUYPNIBCDIwNTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Codec - Wikipedia
+https://en.wikipedia.org/wiki/Codec
+
 # 2024-1-6
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
