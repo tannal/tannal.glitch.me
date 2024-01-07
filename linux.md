@@ -124,6 +124,16 @@ User space memory can not typically be used for DMA.
 
 # Interrupt & Exception
 
+void handle_IPI(int ipinr, struct pt_regs *regs)
+
+non-maskable interrupt 
+
+arm fast interrupt reQuest dedicated registers
+
+fiq_debugger
+
+ps axl | grep irq
+
 General power controller
 
 generic interrupt controller
@@ -221,6 +231,8 @@ Err:          0
 # Real Time Linux
 
 # Kernel Virtual Machine
+
+
 
 # EBPF & tracing
 

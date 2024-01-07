@@ -4,7 +4,9 @@ F G A B C D E
 
 F G Gb Ab B Cb Db E
 
+kernel/irq/manage.c@request_threaded_irq
 
+codec encoder decoder
 
 ```bash
 
