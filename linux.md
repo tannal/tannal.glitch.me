@@ -124,6 +124,14 @@ User space memory can not typically be used for DMA.
 
 # Interrupt & Exception
 
+General power controller
+
+generic interrupt controller
+
+gpio-mxc
+
+inter processor interrupt
+
 IRQS head-IRQ softirqs tasklets RT vs no-RT kprobes event tracing mpstat ebpf
 
 NAPI vs eth IRQS

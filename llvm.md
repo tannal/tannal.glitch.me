@@ -73,7 +73,20 @@ static void getPredecessors(BasicBlock &BB, SmallVectorImpl<BasicBlock *> &Prede
 
 
 
-# Example LLVM IR
+# LLVM IR
+
+llvm bitcode
+
+clang -emit-llvm main.c -c -o main.bc
+
+llvm bc
+
+-save-temps + llvm-extract
+
+opt -O3 main.bc | llvm-bcanalyzer
+
+## Examples
+
 
 ```bash
 // code.c

@@ -1,5 +1,31 @@
 # 2024-1-7
 
+F G A B C D E
+
+F G Gb Ab B Cb Db E
+
+
+
+```bash
+
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+
+cd src/pages/posts/
+
+git pull 
+
+cd ../../../
+
+pnpm build
+
+firebase deploy --only hosting
+
+```
+
+godbolt.org
+
 find . -type f -executable
 
 reversible debugger
@@ -25,9 +51,13 @@ sudo apt install numactl
 
 ```bash
 
+sudo apt-get install linux-tools-common linux-tools-generic linux-tools-`uname -r`
+
 sudo apt install linux-tools-common linux-tools-6.5.0-1008-raspi
 
 sudo perf record --call-graph=fp ./a.out -s 50
+
+sudo perf record  --call-graph=fp target/debug/deno info zzazz.comd
 
 sudo perf report
 
