@@ -82,6 +82,9 @@ PATH=$PATH:$PWD ./foo01
 
 # memory management (memory driver)
 
+M = N / PAGE_SIZE
+
+
 handle_mm_fault page fault
 
 user space memory mapping is changed when context switching
@@ -279,6 +282,12 @@ https://bugzilla.kernel.org/show_bug.cgi?id=218334
 
 https://subspace.kernel.org/vger.kernel.org.html
 
+
+# team lead
+
+Greg Kroah-Hartman device driver
+
+linus torvalds
 
 # reference
 

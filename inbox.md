@@ -1,3 +1,11 @@
+# 2024-1-7
+
+find . -type f -executable
+
+sudo apt install numactl
+
+
+
 # 2024-1-6
 
 https://www.codingninjas.com/studio/library/linux-kernel-mentorship-program
