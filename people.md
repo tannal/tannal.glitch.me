@@ -17,7 +17,11 @@ Vaughan Pratt
 
 # from 2024-1-7
 
-https://mbbroberg.fun/
+Joel Fermands https://www.joelfernandes.org/ Linux Kernel
+
+https://mbbroberg.fun/ golang pythonlang
+
+http://she-devel.com/ Linux Kernel
 
 # from 2023-12-08
 

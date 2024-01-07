@@ -122,7 +122,99 @@ A page is a unit of memory sized and aligned at the page size.
 
 User space memory can not typically be used for DMA.
 
+# Interrupt & Exception
 
+IRQS head-IRQ softirqs tasklets RT vs no-RT kprobes event tracing mpstat ebpf
+
+NAPI vs eth IRQS
+
+```bash
+# raspi5 Linux tannal-desktop 6.5.0-1008-raspi #11-Ubuntu SMP PREEMPT_DYNAMIC Wed Nov 22 19:08:26 UTC 2023 aarch64 aarch64 aarch64 GNU/Linux
+
+cat /proc/interrupts
+
+sudo apt install sysstat
+
+mpstat -A
+
+top half the hard IRQ
+
+IR interruput Q 
+
+arch/x86/kernel/irq.c
+
+
+bottom half the soft IRQ
+
+# IPIS NMIS atomic operations softirqs rt current task in softirq
+
+# threaded IRQS hard IRQ NAPI
+
+
+
+           CPU0       CPU1       CPU2       CPU3       
+  9:          0          0          0          0     GICv2  25 Level     vgic
+ 11:          0          0          0          0     GICv2  30 Level     kvm guest ptimer
+ 12:          0          0          0          0     GICv2  27 Level     kvm guest vtimer
+ 13:     130282     239972     132960     173648     GICv2  26 Level     arch_timer
+ 14:      34307          0          0          0     GICv2  65 Level     107c013880.mailbox
+ 21:          0          0          0          0     GICv2 118 Level     DMA IRQ
+ 22:          0          0          0          0     GICv2 119 Level     DMA IRQ
+ 23:          0          0          0          0     GICv2 120 Level     DMA IRQ
+ 24:          0          0          0          0     GICv2 121 Level     DMA IRQ
+ 33:          0          0          0          0     GICv2  48 Level     arm-pmu
+ 34:          0          0          0          0     GICv2  49 Level     arm-pmu
+ 35:          0          0          0          0     GICv2  50 Level     arm-pmu
+ 36:          0          0          0          0     GICv2  51 Level     arm-pmu
+ 37:          0          0          0          0  intc@7d508380   1 Level     107d508200.i2c
+ 39:          0          0          0          0  intc@7d508380   2 Level     107d508280.i2c
+ 40:          0          0          0          0  107d508500.gpio  20 Edge      pwr_button
+ 41:       2655          0          0          0     GICv2 308 Level     ttyS0
+ 42:          0          0          0          0     GICv2 150 Level     107d004000.spi
+ 44:          0          0          0          0     GICv2 261 Level     PCIe PME, aerdrv
+112:          0          0          0          0  rp1_irq_chip   6 Level     eth0
+114:          0          0          0          0  rp1_irq_chip   8 Level     1f00074000.i2c
+137:       1315          0          0          0  rp1_irq_chip  31 Edge      xhci-hcd:usb1
+142:          0          0          0          0  rp1_irq_chip  36 Edge      xhci-hcd:usb3
+167:     330042          0          0          0     GICv2 306 Level     mmc1
+168:      63698          0          0          0     GICv2 305 Level     mmc0
+169:          0          0          0          0     GICv2 281 Level     v3d_core0
+170:          0          0          0          0     GICv2 282 Level     v3d_hub
+171:          0          0          0          0     GICv2 104 Level     pispbe
+172:          0          0          0          0     GICv2 130 Level     1000800000.codec
+173:          0          0          0          0  interrupt-controller@7c502000   2 Level     107c580000.hvs
+174:          0          0          0          0  interrupt-controller@7c502000   9 Level     107c580000.hvs
+175:          0          0          0          0  interrupt-controller@7c502000  16 Level     107c580000.hvs
+176:          0          0          0          0  interrupt-controller@7d510600   7 Level     vc4 hdmi hpd connected
+177:          0          0          0          0  interrupt-controller@7d510600   8 Level     vc4 hdmi hpd disconnected
+178:          0          0          0          0  interrupt-controller@7d510600   2 Level     vc4 hdmi cec rx
+179:          0          0          0          0  interrupt-controller@7d510600   1 Level     vc4 hdmi cec tx
+180:          0          0          0          0  interrupt-controller@7d510600  14 Level     vc4 hdmi hpd connected
+181:          0          0          0          0  interrupt-controller@7d510600  15 Level     vc4 hdmi hpd disconnected
+182:          0          0          0          0  interrupt-controller@7d510600  12 Level     vc4 hdmi cec rx
+183:          0          0          0          0  interrupt-controller@7d510600  11 Level     vc4 hdmi cec tx
+184:          0          0          0          0  interrupt-controller@7c502000   1 Level     107c500000.mop
+185:          0          0          0          0  interrupt-controller@7c502000   0 Level     107c501000.moplet
+186:          0          0          0          0     GICv2 133 Level     vc4 crtc
+187:          0          0          0          0     GICv2 142 Level     vc4 crtc
+IPI0:      2854       4059       3773       4542       Rescheduling interrupts
+IPI1:     70366     178796     121577     102446       Function call interrupts
+IPI2:         0          0          0          0       CPU stop interrupts
+IPI3:         0          0          0          0       CPU stop (for crash dump) interrupts
+IPI4:         0          0          0          0       Timer broadcast interrupts
+IPI5:     40208      zonzon      44032      51457       IRQ work interrupts
+IPI6:         0          0          0          0       CPU wake-up interrupts
+Err:          0
+
+
+
+```
+
+# Real Time Linux
+
+# Kernel Virtual Machine
+
+# EBPF & tracing
 
 # file system (disk driver)
 
@@ -202,6 +294,8 @@ pgtable_t pgtable aka struct page *pgtable
 
 # appendix
 
+
+kvm_reset_vcpu
 
 ```c
 

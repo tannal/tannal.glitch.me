@@ -2,7 +2,49 @@
 
 find . -type f -executable
 
+reversible debugger
+
+```bash
+sudo apt insall rr
+
+kernel.perf_event_paranoid = 1
+
+sudo vim /etc/sysctl.d/10-rr.conf
+
+sudo sysctl -p /etc/sysctl.d/10-rr.conf
+
+
+rr record ./a.out
+```
+
+debugger is for program/code not software/system
+
+It's hard to use debugger "debug" a system/software.
+
 sudo apt install numactl
+
+```bash
+
+sudo apt install linux-tools-common linux-tools-6.5.0-1008-raspi
+
+sudo perf record --call-graph=fp ./a.out -s 50
+
+sudo perf report
+
+```
+
+open mp
+
+A: False, that is completely incorrect
+
+Apple purchased NeXT and started the transition of its classic macOS operating system (Apple System 1 though Apple System 9) to Apple Darwin based operating system in 1999
+NeXT had created the neXTStep operating system which Apple inherited when they purchased NeXT
+NeXT had system apps from FreeBSD and they had implemented the MACH microkernel which was co-created by Avie Trevanian who now was the chief engineer for NeXT, so he brought the MACH microkernel and finished it in NeXTStep
+Apple implemented NeXTStep as the foundation for its next generation Apple macOS (originally called Apple Mac OS X)
+Over the years Apple upgraded every component in NeXTStep/OS X until it peached Apple macOS Catalina, at which time there was no source code from NeXTStep left at all, it was now all Apple source code
+At the same time, Apple evolved the MACH microkernel and created the free open source Apple XNU hybrid kernel
+At that point Apple operating systems were completely made of Apple source code
+What confuses the internet is that Apple operating systems are modular and one module runs UNIX apps natively (Apple macOS is in fact a certified UNIX), which Apple populates with FreeBSD apps, but which the user can populate with any UNIX apps they choose to use
 
 
 

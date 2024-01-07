@@ -69,6 +69,22 @@ func main() {
 }
 
 ```
+
+```c
+// segfault example
+
+#include <stdio.h>
+
+int main() {
+    char *str = "hello world";
+    str[0] = 'H'; // Attempt to modify a read-only memory
+    printf("%s\n", str);
+    return 0;
+}
+
+```
+
+
 # c
 
 # c++

@@ -1,3 +1,12 @@
+# inbox
+
+llvm optimization remarks https://www.youtube.com/watch?v=qmEsx4MbKoc
+
+FAROS https://github.com/LLNL/FAROS
+
+
+
+
 # Build LLVM from source
 
 ```bash
@@ -11,7 +20,13 @@ git clone --depth 1 https://github.com/llvm/llvm-project.git
 
 # cmake -S llvm -B build -G Unix Makefiles
 
-cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE=Debug -DLLVM_USE_LINKER=lld
+cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Release' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld
+
+cd build
+
+ninja
+
+clang-format, clang-tidy clang-modernize, ..
 
 CFG
 
@@ -142,8 +157,23 @@ attributes #0 = { nounwind uwtable "frame-pointer"="none" "min-legal-vector-widt
 
 
 
+
 # reference
 
 Getting Started With LLVM by Florian Hahn and Jessica Paquette
 
 Writing a LLVM Pass: 101
+
+# community
+
+forum/mailing list
+
+discord
+
+irc
+
+sync-ups
+
+office hours
+
+meetups
