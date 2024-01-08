@@ -1,4 +1,183 @@
 # 2024-1-8
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+monkeykeyvaluestore.pdf
+https://nivdayan.github.io/monkeykeyvaluestore.pdf
+
+Monkey: Optimal Navigable Key-Value Store - Teaser - YouTube
+https://www.youtube.com/watch?v=auI8BTws-f8
+
+设计电影购票小程序
+https://chat.openai.com/c/1627b049-7c1b-4e5d-a8d2-1fc9ac5e7106
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=backbone&op=translate
+
+兴奋 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%85%B4%E5%A5%8B
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+copy paste across devices - Google 搜索
+https://www.google.com/search?q=copy+paste+across+devices&rlz=1C1GCEA_enJP1090JP1090&oq=copy+paste+ac&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxBFGDzSAQg3MTE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+peofessional image editing ubuntu 2023 site: askubuntu.com - Google 搜索
+https://www.google.com/search?q=peofessional+image+editing+ubuntu+2023+site%3A+askubuntu.com&sca_esv=596487516&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09xiN4CwANhlVpw5SOHfGWPohR8Uw%3A1704701094644&ei=pqybZYzsJoytseMPlbShkAw&ved=0ahUKEwiM18a5qs2DAxWMVmwGHRVaCMIQ4dUDCBA&uact=5&oq=peofessional+image+editing+ubuntu+2023+site%3A+askubuntu.com&gs_lp=Egxnd3Mtd2l6LXNlcnAiOnBlb2Zlc3Npb25hbCBpbWFnZSBlZGl0aW5nIHVidW50dSAyMDIzIHNpdGU6IGFza3VidW50dS5jb20yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIl1ZQvQJY9FRwAngAkAECmAHoBaAB-3eqAQwyLTYuNy41LjE0LjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIFECEYoAHCAgcQIRgKGKAB4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Pop!_OS by System76
+https://pop.system76.com/
+
+Media Production (Pop!_OS) - System76 Support
+https://support.system76.com/articles/media-production-on-pop
+
+image editing software wikipedia - Google 搜索
+https://www.google.com/search?q=image+editing+software+wikipedia&rlz=1C1GCEA_enJP1090JP1090&oq=image+editing+software+wiki&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigAdIBCDc3NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Comparison of image viewers - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_image_viewers
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+pinta alternative - Google 搜索
+https://www.google.com/search?q=pinta+alternative&rlz=1C1GCEA_enJP1090JP1090&oq=pinta+al&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQLhge0gEIMzU0M2owajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+How to install GIMP 2.10 on Ubuntu or Debian Linux - nixCraft
+https://www.cyberciti.biz/faq/how-to-install-gimp-on-ubuntu-debian-linux/
+
+How to make Image background transparent in Python? [BACKGROUND SUBSTRACTOR] - YouTube
+https://www.youtube.com/watch?v=41DhgDNPtio
+
+pillow · PyPI
+https://pypi.org/project/pillow/
+
+redis logo - Google 搜索
+https://www.google.com/search?q=redis+logo&sca_esv=596495099&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKknincqDpvwjarzNvMo3UWsdpUPVA%3A1704703065266&ei=WbSbZaXeD-Hj1e8P292h4Ag&ved=0ahUKEwjl7pvlsc2DAxXhcfUHHdtuCIwQ4dUDCBA&uact=5&oq=redis+logo&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnJlZGlzIGxvZ28yCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBhAAGAUYHjIGEAAYBRgeSOwFUABYqgRwAHgBkAEBmAGQA6AB8QqqAQkwLjQuMS4wLjG4AQPIAQD4AQHCAgQQIxgnwgIKECMYgAQYigUYJ8ICEBAuGIAEGIoFGEMYxwEY0QPCAgoQABiABBiKBRhDwgIHEAAYgAQYDOIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+Gimp: Remove The Background And Make It Transparent - YouTube
+https://www.youtube.com/watch?v=C0tg2mRroSY
+
+www.google.com
+https://www.google.com/search?q=image+magical+select&rlz=1C1GCEA_enJP1090JP1090&oq=image+magical+select&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYyOTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+gimp clear is dark - Google 搜索
+https://www.google.com/search?q=gimp+clear+is+dark&rlz=1C1GCEA_enJP1090JP1090&oq=gimp+clear+is+dark&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE1MjU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+RGB Color Codes Chart 🎨
+https://www.rapidtables.com/web/color/RGB_Color.html
+
+gimp: how to make a transparent background | Thomas Cokelaer's blog
+https://thomas-cokelaer.info/blog/2016/09/gimp-how-to-make-a-transparent-background/
+
+leveldb logo - Google 搜索
+https://www.google.com/search?q=leveldb+logo&rlz=1C1GCEA_enJP1090JP1090&oq=leveldb+logo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+rocksdb logo - Google 搜索
+https://www.google.com/search?q=rocksdb+logo&sca_esv=596495099&rlz=1C1GCEA_enJP1090JP1090&tbm=isch&sxsrf=AM9HkKk94-LU2bDkoV_ldNYg53nfj1tOeQ:1704705456879&source=lnms&sa=X&sqi=2&ved=2ahUKEwjgqtDZus2DAxUesVYBHew3DgAQ_AUoAXoECAEQAw&biw=1536&bih=738&dpr=1.25
+
+nsdi13-final170_update.pdf
+https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
+
+Understanding Bitcask - A Log-Structured fast KV store
+https://arpitbhayani.me/blogs/bitcask/
+
+bitcask-intro.pdf
+https://riak.com/assets/bitcask-intro.pdf
+
+LevelDB - Wikipedia
+https://en.wikipedia.org/wiki/LevelDB#cite_note-8
+
+Riak - Wikipedia
+https://en.wikipedia.org/wiki/Riak
+
+Riak Documentation
+https://docs.riak.com/riak/kv/kv/2.2.3/setup/planning/backend/leveldb.1.html
+
+PUBLICATIONS LIST:
+https://www.cs.umb.edu/~poneil/publist.html
+
+in-memory databases wikipedia - Google 搜索
+https://www.google.com/search?q=in-memory+databases+wikipedia&sca_esv=596495099&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKkfG-5g-UPreTYq09uR34peUk2llg%3A1704710060550&ei=rM-bZYmZIbT41e8Pzvuu8AI&oq=in-memory+databases+wiki&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGluLW1lbW9yeSBkYXRhYmFzZXMgd2lraSoCCAAyBRAhGKABSK0SUB5YwwpwAXgBkAEAmAGFAqAB4geqAQUwLjQuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBBAAGB7CAgYQABgeGArCAgYQABgeGA_iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+IndexedDB API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+
+15719-S17-KV-stores.pdf
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-KV-stores.pdf
+
+使用 IndexedDB  |  Articles  |  web.dev
+https://web.dev/articles/indexeddb?hl=zh-cn
+
+Updates to Storage Policy | WebKit
+https://www.webkit.org/blog/14403/updates-to-storage-policy/
+
+Course | nivdayan
+https://www.nivdayan.net/database-system-technology-csc443
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+MyRocks | A RocksDB storage engine with MySQL | MyRocks
+https://myrocks.io/
+
+lsmtree - Google 搜索
+https://www.google.com/search?q=lsmtree&sca_esv=596527358&rlz=1C1GCEA_enJP1090JP1090&tbm=isch&sxsrf=AM9HkKmgnDcC1SeoYhPvNDlRbpLI3tezBg:1704712285335&source=lnms&sa=X&ved=2ahUKEwiDstiR1M2DAxVpia8BHdIFD6IQ_AUoAXoECAEQAw&biw=1536&bih=738&dpr=1.25#imgrc=PUC5Rno2uoBFsM
+
+lsm tree site: cmu.edu - Google 搜索
+https://www.google.com/search?sca_esv=596527358&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlm2Et6lwPv4eF6UUXdclgvOgDqIw:1704712303631&q=lsm+tree+site:+cmu.edu&spell=1&sa=X&ved=2ahUKEwiig7Wa1M2DAxU5hK8BHcSEAmEQBSgAegQIBxAC&biw=1536&bih=738&dpr=1.25
+
+Log-Structured Merge Trees (LSMs)
+https://www.andrew.cmu.edu/course/14-848/applications/ln/LSMsEtc.pdf
+
+lsmtree - Google 搜索
+https://www.google.com/search?q=lsmtree&sca_esv=596527358&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlkA13_TFypVsGDLdpVzLIB1fIsEg%3A1704713702487&ei=5t2bZeG1HfuGvr0P-t-SSA&ved=0ahUKEwjhwLi12c2DAxV7g68BHfqvBAkQ4dUDCBA&uact=5&oq=lsmtree&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2xzbXRyZWUyBBAjGCcyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAxI9xBQAFiCEHADeACQAQCYAckCoAHhDKoBBzAuMS41LjG4AQPIAQD4AQGoAgrCAgoQIxiABBiKBRgnwgIQEC4YgAQYigUYQxjHARjRA8ICBRAAGIAEwgIIEC4YgAQY1ALCAgUQLhiABMICCxAuGIAEGMcBGNEDwgIKEAAYgAQYigUYQ8ICBxAjGOoCGCfCAhAQLhiABBjLARjHARjRAxgKwgIGEAAYHhgKwgIKEAAYgAQYywEYCuIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+深入理解什么是LSM-Tree-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1441835
+
+MyRocks - Google 搜索
+https://www.google.com/search?q=MyRocks&rlz=1C1GCEA_enJP1090JP1090&oq=myrocks&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQIxgnMgwIAhAAGEMYgAQYigUyDQgDEC4YxwEY0QMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyDQgGEC4YxwEY0QMYgAQyBggHEEUYPNIBCDExMzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bigtable google - Google 搜索
+https://www.google.com/search?q=bigtable+google&sca_esv=596527358&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnuavTR6Cx_k-S7nOwooydHLxdtXw%3A1704714037295&ei=Nd-bZc_QEfaTvr0P8JW74Ao&ved=0ahUKEwiPv4vV2s2DAxX2ia8BHfDKDqwQ4dUDCBA&uact=5&oq=bigtable+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2JpZ3RhYmxlIGdvb2dsZTIIEAAYgAQYywEyCBAAGIAEGMsBMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjlDFA1WNQLcAF4AZABAJgB4QGgAasJqgEFMC40LjK4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEC4YgAQYywHCAgUQABiABMICBxAAGIAEGAziAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+sst level - Google 搜索
+https://www.google.com/search?q=sst+level&rlz=1C1GCEA_enJP1090JP1090&oq=sst+level&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgxNTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+redis key integer - Google 搜索
+https://www.google.com/search?q=redis+key+integer&rlz=1C1GCEA_enJP1090JP1090&oq=redis+key+integer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB7SAQg4MjY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+serialization - How do you serialize an object in C++? - Stack Overflow
+https://stackoverflow.com/questions/523872/how-do-you-serialize-an-object-in-c
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+opaque blob - Google 搜索
+https://www.google.com/search?q=opaque+blob&rlz=1C1GCEA_enJP1090JP1090&oq=opaque+blob&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMjAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=upsert&op=translate
+
+LSMtree.Acta.Inf.Pat
+https://www.cs.umb.edu/~poneil/lsmtree.pdf
+
+QQ邮箱 - 写信
+https://mail.qq.com/cgi-bin/frame_html?sid=F8L0R_MMGvJp5Usu&r=b3ec342977097744acf7e04d38b53a1b&lang=zh
+
+Update DurationFormat and FormatToParts tests · tc39/test262@b17b941
+https://github.com/tc39/test262/commit/b17b9411e0c5ffc3aa4c47248c7342941170205c
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me

@@ -1,9 +1,48 @@
 
 # 2024-1-8
 
+https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
+
+how google use leveldb
+
+https://www.vectorlogo.zone/
+
+1. Open your image.
+2. Select the area you want to make transparent.
+Select the appropriate selection tool from the Tool window or the Tools – Selection Tools menu on the Layer window. I usually use the magic wand/fuzzy select (Select contiguous region) tool or the Select regions by color tool.
+Click in the region you want selected. Use shift-click to add more regions/colors.Tip: It’s easier if you zoom in (View – Zoom menu) to see finer details of exactly what you’re selecting.
+3. In the Layer window (the one showing your image), select Layer – Transparency – Add Alpha Channel.If this is blanked out then it’s already done. This makes sure your image can store transparency data
+4. Select Edit – Clear. This makes the selection transparent.
+5. Save the file. Note: If you save it as a PNG file, be sure to select the ‘Save colour values from transparent pixels’ option in the Save as PNG dialog box.
+
+image layer
+
+gimp ubuntu install
+
+sudo apt install gimp
+
+
+yjs shared clipboard yjs example done
+
+```bash
+
+git clone https://github.com/yjs/yjs-demos.git
+cd yjs-demos/${demo-directory}
+pnpm install
+pnpm start
+
+```
+
+https://en.wikipedia.org/wiki/Comparison_of_video_editing_software
+
+
 I only accept less than 50 words answer, so please phrase your sentence well.
 
 https://webkit.org/getting-started/#staying-in-touch
+
+http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/
+
+https://en.wikipedia.org/wiki/Comparison_of_image_viewers
 
 parabola
 
