@@ -1,3 +1,40 @@
+
+# 2024-1-8
+
+I only accept less than 50 words answer, so please phrase your sentence well.
+
+https://webkit.org/getting-started/#staying-in-touch
+
+parabola
+
+how to c t p l
+
+1T1C Cell 
+
+2**11 * 2**16 * 2**5 4GB
+
+4 * 4 = 16GB
+4 * 4 = 16GB
+
+32gb memory
+
+bank row decoder back section address input bank group bank control bank selection column multiplexer 
+
+
+video editing https://www.remotion.dev/ kdenlive
+
+
+sudo apt-get install kdenlive kde-runtime frei0r-plugins
+
+sata ssd nvmessd
+
+git clone https://github.com/tsoding/musializer.git
+
+https://github.com/vadimcn/codelldb/wiki/Breakpoints-are-not-getting-hit
+
+"breakpointMode": "file"
+
+
 # 2024-1-7
 
 curses
@@ -2911,7 +2948,6 @@ zstd
 
 ```
 
->>>>>>> f630427f6769f0e1b9ffbaa4bd92c01681e717b5
 https://github.com/microsoft/winget-cli/issues/1812
 
 winget install -e --id TorProject.TorBrowser

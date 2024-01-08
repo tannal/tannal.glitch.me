@@ -1,3 +1,185 @@
+# 2024-1-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8?tab=readme-ov-file#address
+
+learning-v8/notes/microtasks.md at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/notes/microtasks.md
+
+learning-v8/lib/task.js at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/lib/task.js
+
+ECMAScript® 2024 Language Specification
+https://tc39.es/ecma262/#sec-source-text-module-records
+
+tannal/node at dev
+https://github.com/tannal/node/tree/dev
+
+vcbuild vcpkg - Google 搜索
+https://www.google.com/search?q=vcbuild+vcpkg&sca_esv=596428686&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKnQ4_pGSbj2Pm1qj9U1Zu0k_q5Dlw%3A1704673552328&ei=EEGbZZXaE63m1e8P5YC8mA0&ved=0ahUKEwiVoq3sw8yDAxUtc_UHHWUAD9MQ4dUDCBA&uact=5&oq=vcbuild+vcpkg&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXZjYnVpbGQgdmNwa2cyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFI6AtQAFiGC3ABeAGQAQCYAdEBoAGQCaoBBTEuNC4yuAEDyAEA-AEBwgIEEAAYHsICCBAAGAgYHhgKwgIGEAAYCBgewgIFECEYoAHiAwQYACBBiAYB&sclient=gws-wiz-serp
+
+tsoding/musializer: Music Visualizer
+https://github.com/tsoding/musializer
+
+电影院购票小程序需求
+https://chat.openai.com/c/4f0bb9d2-9d35-440d-adc2-edb2a979c88f
+
+Debug symbol - Wikipedia
+https://en.wikipedia.org/wiki/Debug_symbol
+
+debugging - How to check if program was compiled with debug symbols? - Stack Overflow
+https://stackoverflow.com/questions/3284112/how-to-check-if-program-was-compiled-with-debug-symbols
+
+Breakpoints are not getting hit · vadimcn/codelldb Wiki
+https://github.com/vadimcn/codelldb/wiki/Breakpoints-are-not-getting-hit
+
+NVM Express - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/NVM_Express
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87&op=translate
+
+youtube - I need the best film production video editor - Ask Ubuntu
+https://askubuntu.com/questions/718377/i-need-the-best-film-production-video-editor
+
+Edit: Desk
+https://slides.com/mengtan/desk/edit
+
+Gary Kennedy - YouTube
+https://www.youtube.com/user/garykennedy
+
+How to Install KdenLive in Ubuntu 20.04
+https://linuxhint.com/install_kdenlive_ubuntu/
+
+扫一扫
+https://mo.wps.cn/common-problem/v8/how_to_use_scan_code.html
+
+Google 幻灯片：在线幻灯片制作工具 | Google Workspace
+https://www.google.com/slides/about/
+
+Google 幻灯片
+https://docs.google.com/presentation/u/0/?ec=asw-slides-hero-goto
+
+key value store - Google 搜索
+https://www.google.com/search?q=key+value+store&rlz=1C1GCEA_enJP1090JP1090&oq=key+va&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIOCAEQRRgnGDsYgAQYigUyBggCEEUYOzIGCAMQRRg5MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMjM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+why use key value store - Google 搜索
+https://www.google.com/search?q=why+use+key+value+store&sca_esv=596438640&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKmkPgYwwozyuK11bO1f-8QXsAvcQA%3A1704678975629&ei=P1abZduAJuyl2roP9eaxsAU&ved=0ahUKEwibnLGG2MyDAxXsklYBHXVzDFYQ4dUDCBA&uact=5&oq=why+use+key+value+store&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3doeSB1c2Uga2V5IHZhbHVlIHN0b3JlMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSIE4UPETWJ03cAF4AZABAJgB4AGgAaghqgEGMC45LjEyuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgUQABiABMICChAjGIAEGIoFGCfCAgwQIxiABBiKBRgTGCfCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIIEC4Y1AIYgATCAgcQLhiABBgMwgIHEAAYgAQYDMICChAuGAwY1AIYgATCAggQABiABBjLAcICBBAAGB7CAgYQABgeGA_CAgYQABgIGB7CAgUQIRigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+Key–value database - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Key%E2%80%93value_database&oldid=535210964
+
+User:Altered Walter - Wikipedia
+https://en.wikipedia.org/wiki/User:Altered_Walter
+
+Add a key-value store implementation · Issue #7040 · godotengine/godot-proposals
+https://github.com/godotengine/godot-proposals/issues/7040
+
+wikipedia - Google 搜索
+https://www.google.com/search?q=wikipedia+&sca_esv=596438640&rlz=1C1GCEA_enJP1090JP1090&sxsrf=AM9HkKlbQkvo6GcPzt7SOSQcPU3LTdXv7A%3A1704679381085&ei=1VebZbzsBI2Q2roPtauE4Ao&ved=0ahUKEwj8qtzH2cyDAxUNiFYBHbUVAawQ4dUDCBA&uact=5&oq=wikipedia+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCndpa2lwZWRpYSAyChAjGIAEGIoFGCcyChAAGIAEGIoFGEMyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUjAJ1CuJViuJXAEeAGQAQCYAdoBoAHaAaoBAzItMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Redis: Revision history - Wikipedia
+https://en.wikipedia.org/w/index.php?title=Redis&action=history&dir=prev
+
+Redis - Wikipedia
+https://en.wikipedia.org/wiki/Redis
+
+how to create a animation video - Google 搜索
+https://www.google.com/search?q=how+to+create+a+animation+video&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+create+a+animation&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDILCAAQRRgTGDkYgAQyCQgBEAAYExiABDIJCAIQABgTGIAEMgkIAxAAGBMYgAQyCQgEEAAYExiABDIJCAUQABgTGIAEMgkIBhAAGBMYgAQyCQgHEAAYExiABDIJCAgQABgTGIAEMgkICRAAGBMYgATSAQg3ODU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal.glitch.me/index.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/index.md
+
+overleaf.com
+https://overleaf.com/
+
+Brilliant (website) - Wikipedia
+https://en.wikipedia.org/wiki/Brilliant_(website)
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+大学生如何办 Visa 信用卡？ - 知乎
+https://zhuanlan.zhihu.com/p/523687013
+
+有妖气 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%9C%89%E5%A6%96%E6%B0%94
+
+银联卡介绍 | 中国银联
+https://cn.unionpay.com/upowhtml/cn/templates/cardList/cardList.html
+
+brilliant.org
+https://brilliant.org/courses/
+
+Comparison of video editing software - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_video_editing_software
+
+This video was made with code. But how? - YouTube
+https://www.youtube.com/watch?v=deg8bOoziaE
+
+Remotion | Make videos programmatically
+https://www.remotion.dev/
+
+remotion-dev/remotion: 🎥 Make videos programmatically with React
+https://github.com/remotion-dev/remotion
+
+UI Design Trends Everyone Is Talking About in 2023 - YouTube
+https://www.youtube.com/watch?v=BZ0QER_0ZWI
+
+the art of lie - Google 搜索
+https://www.google.com/search?q=the+art+of+lie&rlz=1C1GCEA_enJP1090JP1090&oq=the+art+of+lie&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgKGAwYHjIGCAIQABgeMgoIAxAAGAoYDBgeMgoIBBAAGAoYDBgeMgoIBRAAGAoYDBgeMggIBhAAGAwYHjIKCAcQABgKGAwYHjIKCAgQABgKGAwYHjIGCAkQABge0gEINDg2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=ja&text=linux%20kernel&op=translate
+
+その1: CPU and Linux - YouTube
+https://www.youtube.com/watch?v=etZrDmrD5Q0
+
+OSカーネルに興味がある人におすすめの参考資料 - YouTube
+https://www.youtube.com/watch?v=XXtZy6OhjUI
+
+Introduction · Linux Inside
+https://0xax.gitbooks.io/linux-insides/content/
+
+Brilliant | Learn interactively
+https://brilliant.org/
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+WebKit on GitHub! | WebKit
+https://webkit.org/blog/13140/webkit-on-github/
+
+Getting Started | WebKit
+https://webkit.org/getting-started/#staying-in-touch
+
+webkit-dev Info Page
+https://lists.webkit.org/mailman/listinfo/webkit-dev
+
+Rate of Change | Brilliant
+https://brilliant.org/courses/calculus-nutshell/derivatives-in-a-nutshell/rate-of-change-update/3/?from_llp=advanced-math
+
+毕业答辩PPT模板_毕业论文答辩PPT模板下载 - 第一PPT
+https://www.1ppt.com/xiazai/dabian/
+
+白色方框背景的毕业论文答辩PPT模板下载 - 第一PPT
+https://www.1ppt.com/article/115484.html#xiazai
+
+白色方框背景的毕业论文答辩PPT模板下载 - 第一PPT
+https://www.1ppt.com/article/115484.html
+
+白色方框背景的毕业论文答辩PPT模板下载
+https://www.1ppt.com/plus/download.php?open=0&aid=115484&cid=3
+
+redis - Google 搜索
+https://www.google.com/search?q=redis&rlz=1C1GCEA_enJP1090JP1090&oq=redis&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc4MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 # 2024-1-7
 
 linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
