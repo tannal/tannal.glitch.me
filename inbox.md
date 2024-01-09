@@ -2,7 +2,11 @@
 
 
 
+
 # 2024-1-9  1 | 0
+
+vscode search @builtin extensions
+
 
 ```bash
 
