@@ -279,10 +279,67 @@ make LLVM=1 rustavailable -j20
 # EBPF & tracing
 
 # file system (disk driver)
+# virtual file system
 
-# scheduler (cpu driver)
+# process management scheduler (cpu driver)
+
+## process
+
+```c
+for_each_process(task) {
+	
+}
+// get task from pid
+task = get_pid_task(hpriv->taskpid, PIDTYPE_PID);
+
+// current macro get current task on this cpu
+// 
+static inline struct task_struct *get_task_struct(struct task_struct *t)
+{
+	refcount_inc(&t->usage);
+	return t;
+}
+
+set_current_state(TASK_RUNNING);
+
+prev->__state
+
+// get running queue on 
+cpu = smp_processor_id();
+rq = cpu_rq(cpu);
+prev = rq->curr;
+
+/* Context switch counts: */
+unsigned long			nvcsw;
+unsigned long			nivcsw;
+
+
+```
+
+# data structures
+
+radixtree
+
+rbtree
+
+queue
+
+
+
+
+An address space task->mm
+One or more threads
+Opened files	task->files
+Sockets
+Semaphores
+Shared memory regions
+Timers
+Signal handlers 	task->signal
+Many other resources and status information
 
 # networking stack
+
+# arch specific logic
 
 # Linux Kernel Device Driver
 

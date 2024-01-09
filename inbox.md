@@ -1,9 +1,8 @@
+# 2024-1-9  1+1+1+1+1 | 1
 
+kdb/kgdb
 
-
-
-
-# 2024-1-9  1 | 0
+kernel.org/doc/html/
 
 vscode search @builtin extensions
 

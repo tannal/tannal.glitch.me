@@ -1,4 +1,6 @@
-# from 2024-1-7
+# inbox
+
+## from 2024-1-7
 
 Joel Fermands https://www.joelfernandes.org/ Linux Kernel
 
@@ -6,7 +8,7 @@ https://mbbroberg.fun/ golang pythonlang
 
 http://she-devel.com/ Linux Kernel
 
-# from 2023-12-08
+## from 2023-12-08
 
 Marian Luparu mluparu https://twitter.com/mluparu PM
 
@@ -70,26 +72,8 @@ https://twitter.com/JamesMcNellis windows system programmer
 
 https://twitter.com/_gsathya meta react google v8
 
-# people around rust
 
-Steve Klabnik https://steveklabnik.com/
-
-
-# Google early employee
-
-Marissa Mayer
-
-larry schwimmer
-
-# Sun Microsystems early employee
-
-William Nelson Joy
-
-Vaughan Pratt
-
-
-
-# from 2023-11-20
+## from 2023-11-20
 
 Kathryn S McKinley https://www.cs.utexas.edu/users/mckinley/courses.html os compiler memory management professor
 
@@ -139,13 +123,13 @@ title: People To Follow
 published_at: 2023-10-04
 ---
 
-# Stage 6 (from 2023-11-10)
+## Stage 6 (from 2023-11-10)
 
 QiuYiZhang https://twitter.com/JoyeeCheung node/v8 igalian
 
 Niklaus Wirth https://people.inf.ethz.ch/wirth/
 
-# Stage 5 (from 2023-10-21)
+## Stage 5 (from 2023-10-21)
 
 Kentaro Hara https://haraken.info/ Google Chrome blink team
 
@@ -219,7 +203,7 @@ Joey Arhar https://twitter.com/josepharhar engineer working on HTML and DOM Goog
 
 Eric Seidel https://twitter.com/_eseidel ex-chrome team now flutter team
 
-# Stage 4 (from 2023-10-04)
+## Stage 4 (from 2023-10-04)
 
 Yusuke SUZUKI https://constellation.slowstart.org webkit japanese
 
@@ -305,7 +289,7 @@ Ben L. Titzer https://twitter.com/TitzerBL Webassembly V8 compiler
 
 Chris Dickinson https://www.neversaw.us/ git-rs nodejs webassembly
 
-# Stage 3 (from 2023-09-17)
+## Stage 3 (from 2023-09-17)
 
 Julia Evans https://jvns.ca/
 
@@ -365,7 +349,7 @@ Peter Bengtsson https://www.peterbe.com/about
  
 Jake Archibald https://jakearchibald.com/
 
-# Stage 2 (from 2023-07-04)
+## Stage 2 (from 2023-07-04)
 
 Josh Marinacci https://joshondesign.com/ canvas
 
@@ -441,26 +425,8 @@ Sophie https://localghost.dev/
 
 Zach Leatherman https://www.zachleat.com/ netlify
 
-# Node JS Team
 
-Erick Wendel
-
-Colin Ihrig
-
-RAFAEL GONZAGA https://rafaelgss.dev/
-
-# TypeScript Team
-
-Jake Bailey https://www.linkedin.com/in/jakebbailey/
-
-Ryan Cavanaugh SSE https://www.linkedin.com/in/ryan-cavanaugh-aa4a37106/
-
-Anders Hejlsberg
-
-Daniel Rosenwasser PM Typescript
-
-Nick Nisi https://nicknisi.com/
-# Stage 1 (from 2023-06-14)
+## Stage 1 (from 2023-06-14)
 
 Nikita Popov https://www.npopov.com/aboutMe.html LLVM RedHat
 
@@ -505,3 +471,51 @@ Nick Nisi https://nicknisi.com/
 Chen Hui Jing https://chenhuijing.com/
 
 Dan Abramov https://twitter.com/dan_abramov
+
+
+# By Projects
+
+## VSCode
+
+Martin Aeschlimann https://github.com/aeschli
+
+## Rust language
+
+Steve Klabnik https://steveklabnik.com/
+
+## NodeJS
+
+Erick Wendel
+
+Colin Ihrig
+
+RAFAEL GONZAGA https://rafaelgss.dev/
+
+## TypeScript
+
+Jake Bailey https://www.linkedin.com/in/jakebbailey/
+
+Ryan Cavanaugh SSE https://www.linkedin.com/in/ryan-cavanaugh-aa4a37106/
+
+Anders Hejlsberg
+
+Daniel Rosenwasser PM Typescript
+
+Nick Nisi https://nicknisi.com/
+
+# By orgranizations
+
+## Google early employee
+
+Marissa Mayer
+
+larry schwimmer
+
+## Sun Microsystems early employee
+
+William Nelson Joy
+
+Vaughan Pratt
+
+
+
