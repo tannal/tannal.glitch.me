@@ -1,9 +1,23 @@
+# 2024-1-9
+
+The code is sucks, the people are great. Always so, no matter in/out side cn.
+
+We should always focus on people around.
+
+Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor
 
 # 2024-1-8
+
+
+
 
 https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
 
 how google use leveldb
+
+Sanity cms
+
+gif
 
 https://www.vectorlogo.zone/
 
@@ -265,6 +279,8 @@ web history
 SSR enhanced dev
 
 git log --grep="facebook"
+
+git show --stat --name-only
 
 
 

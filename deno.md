@@ -1,5 +1,11 @@
 # rust toolchain
 
+# team
+
+Deno, where there are only about 25 full-time employees.
+
+having what I do every day visibly contribute to the company’s trajectory.
+
 ```bash
 
 rustup show
@@ -47,29 +53,49 @@ cargo test module::module::
 mod tests {}
 
 
+cargo test node
+cargo test lsp
+cargo test tsc
+
+```
+# deno lsp
+
+
+
+
+```bash
+
+Starting Deno language server...
+  version: 1.39.2 (debug, x86_64-unknown-linux-gnu)
+  executable: /home/tannal/tannalwork/projects/deno/target/debug/deno
+Connected to "Visual Studio Code" 1.85.1
+Enabling import suggestions for: https://deno.land
+Download https://deno.land/.well-known/deno-import-intellisense.json
+Hit the language server document preload limit of 1000 file system entries. You may want to use the "deno.enablePaths" configuration setting to only have Deno partially enable a workspace or increase the limit via "deno.documentPreloadLimit". In cases where Deno ends up using too much memory, you may want to lower the limit.
+Could not set npm package requirements. Error getting response at https://registry.npmjs.org/@types/node for package "@types/node": An npm specifier not found in cache: "@types/node", --cached-only is specified.
+Server ready.
 
 ```
 
-# layout 2020
 
+# rust
 
-box tree
-                -> stacking context tree -> WebRender display list
-fragment tree
+std::fmt::Result
 
-For example, when a text sequence is broken into multiple lines or a block is broken across columns or pages, it yields multiple fragments in the tree.
+std::error::Error
 
-```rust
+fn create_and_run_current_thread_inner<F, R>(
+  future: F,
+  metrics_enabled: bool,
+) -> R
+where
+  F: std::future::Future<Output = R> + 'static,
+  R: Send + 'static,
 
+future is like promise
 
+The + 'static lifetime ensures that the future can live for the duration of the program.
 
-pub struct DisplayList {
-    pub list: Vec<DisplayItem>,
-    pub clip_scroll_nodes: Vec<ClipScrollNode>,
-}
-
-
-```
 
 # debug in vscode
 
@@ -108,3 +134,9 @@ pub struct DisplayList {
 }
 
 ```
+
+
+
+# community
+
+https://discord.com/channels/684898665143206084/684911491035430919

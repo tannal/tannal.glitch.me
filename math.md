@@ -50,11 +50,14 @@ differential geometry
 
 ## changes
 
-calculars
+
+### calculus
+
+
 
 differential equations
 
-vector calculars
+vector calculus
 
 dynamical systems
 
