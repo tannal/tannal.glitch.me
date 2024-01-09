@@ -3,6 +3,174 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+deno.land/.well-known/deno-import-intellisense.json
+https://deno.land/.well-known/deno-import-intellisense.json
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+Rate of Change | Brilliant
+https://brilliant.org/courses/calculus-nutshell/derivatives-in-a-nutshell/rate-of-change-update/3/?from_llp=advanced-math
+
+muddlebee (Anwesh)
+https://github.com/muddlebee
+
+Bumblebee | Transformers Movie Wiki | Fandom
+https://michaelbaystransformers.fandom.com/wiki/Bumblebee
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+kennysliding (kenny the :/) / December 2023
+https://github.com/kennysliding?tab=overview&from=2023-12-01&to=2023-12-31
+
+#general > WebGPU adapter when not available - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebGPU.20adapter.20when.20not.20available
+
+bootstrap: Improve pip dependency resolution by mrobinson · Pull Request #31026 · servo/servo
+https://github.com/servo/servo/pull/31026
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+设计电影购票小程序
+https://chat.openai.com/c/1627b049-7c1b-4e5d-a8d2-1fc9ac5e7106
+
+Debugging in VSCode is significantly slower than using command line #4514 · Issue #132025 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/132025
+
+vscode cursor previous position shortcut - Google 搜索
+https://www.google.com/search?q=vscode+cursor+previous+position+shortcut&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+cursor+previous+position+shortcut&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg3MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+return an error in rust - Google 搜索
+https://www.google.com/search?q=return+an+error+in+rust&rlz=1C1GCEA_enJP1090JP1090&oq=return+an+error+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg5MgYIAhBFGDsyBggDEEUYO9IBCDQwMTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Prisma gives an error on push/migrate · Issue #21841 · denoland/deno
+https://github.com/denoland/deno/issues/21841
+
+std::fmt::Error - Rust
+https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/std/fmt/struct.Error.html
+
+reference to value in rust - Google 搜索
+https://www.google.com/search?q=reference+to+value+in+rust&rlz=1C1GCEA_enJP1090JP1090&oq=reference+to+value+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBge0gEINTkwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Subtyping and Variance - The Rustonomicon
+https://doc.rust-lang.org/nomicon/subtyping.html
+
+How to implement inheritance-like feature for Rust? - community - The Rust Programming Language Forum
+https://users.rust-lang.org/t/how-to-implement-inheritance-like-feature-for-rust/31159/5
+
+testing - Run `cargo test --workspace` and exclude one test - Stack Overflow
+https://stackoverflow.com/questions/66755529/run-cargo-test-workspace-and-exclude-one-test
+
+testing - Run `cargo test --workspace` and exclude one test - Stack Overflow
+https://stackoverflow.com/questions/66755529/run-cargo-test-workspace-and-exclude-one-test
+
+fix(ext/node): implement AES GCM cipher by littledivy · Pull Request #20368 · denoland/deno
+https://github.com/denoland/deno/pull/20368/files
+
+Git: How can I list the changed files in a commit, including the SHA-1 hash for each file (blob)? - Stack Overflow
+https://stackoverflow.com/questions/51963396/git-how-can-i-list-the-changed-files-in-a-commit-including-the-sha-1-hash-for
+
+signOneShot - Google 搜索
+https://www.google.com/search?q=signOneShot&rlz=1C1GCEA_enJP1090JP1090&oq=signOneShot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBBzIzNmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Why is there no node:fs.lchown and why is there no substitute for it? · Issue #21260 · denoland/deno
+https://github.com/denoland/deno/issues/21260
+
+WebR - R in the Browser
+https://docs.r-wasm.org/webr/latest/
+
+denoland/vscode_deno: Visual Studio Code plugin for Deno
+https://github.com/denoland/vscode_deno
+
+github.com
+https://github.com/denoland/deno
+
+Contributing | Deno Docs
+https://docs.deno.com/runtime/manual/references/contributing/
+
+Deno (software) - Wikipedia
+https://en.wikipedia.org/wiki/Deno_(software)
+
+Job Application for Senior Software Engineer (Node/GraphQL) at Netlify
+https://boards.greenhouse.io/netlify/jobs/6975477002
+
+Job Application for Your Chance to Join Our Talent Community! at Netlify
+https://boards.greenhouse.io/netlify/jobs/4224129002
+
+The 2023 State of Web Development Report | Netlify Survey Blog
+https://www.netlify.com/blog/unveiling-the-state-of-web-development-and-predictions-for-2024-and-beyond/
+
+The 2023 State of Web Development Report | Netlify Survey
+https://www.netlify.com/resources/ebooks/the-state-of-web-development-2023/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Will%20you%20need%20an%20accommodation%20for%20your%20interview%3F&op=translate
+
+netlify Talent Community - Google 搜索
+https://www.google.com/search?q=netlify+Talent+Community&rlz=1C1GCEA_enJP1090JP1090&oq=netlify+Talent+Community&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQIxgTGCcYgAQYigUyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIGCAYQRRg8MgYIBxBFGDzSAQgyMjg5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Node.js fs. lchown() Method - GeeksforGeeks
+https://www.geeksforgeeks.org/node-js-fs-lchown-method/
+
+deno/cli/main.rs at main · denoland/deno
+https://github.com/denoland/deno/blob/main/cli/main.rs#L260
+
+what would question mark do in rust - Google 搜索
+https://www.google.com/search?q=what+would+question+mark+do+in+rust&rlz=1C1GCEA_enJP1090JP1090&oq=what+would+question+mark+do+in+rust&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCDc0MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Operator expressions - The Rust Reference
+https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/reference/expressions/operator-expr.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=drawing%20a%20parallel&op=translate
+
+tokio task - Google 搜索
+https://www.google.com/search?q=tokio+task&rlz=1C1GCEA_enJP1090JP1090&oq=tokio+task&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE4MTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+task rust - Google 搜索
+https://www.google.com/search?q=task+rust&rlz=1C1GCEA_enJP1090JP1090&oq=task+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyDAgHEAAYQxiABBiKBTIHCAgQABiABDIHCAkQABiABNIBCDIwNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+here is something or here are something - Google 搜索
+https://www.google.com/search?q=here+is+something+or+here+are+something&rlz=1C1GCEA_enJP1090JP1090&oq=here+is+something+or+here+are+som&gs_lcrp=EgZjaHJvbWUqCQgCECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKABMgkIBBAhGAoYoAEyCQgFECEYChigAdIBCTEwNDg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+I forgot my Password! Where can I set a new one? – Discord
+https://support.discord.com/hc/en-us/articles/218410947-I-forgot-my-Password-Where-can-I-set-a-new-one-
+
+Discord
+https://discord.com/login
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Things I enjoyed in 2023 - Josh Collinsworth blog
+https://joshcollinsworth.com/blog/enjoyed-in-2023
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=trajectory&op=translate
+
+Glitch: The friendly community where everyone builds the web
+https://glitch.com/
+
+Editing tannal/data/posts/cs-foundation.md at master · MarybethGasman/tannal
+https://github.com/MarybethGasman/tannal/edit/master/data/posts/cs-foundation.md
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
