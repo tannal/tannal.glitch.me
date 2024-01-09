@@ -1,4 +1,15 @@
-# 2024-1-9
+
+
+
+
+# 2024-1-9  1 | 0
+
+```bash
+
+# gif
+winget install -e --id ShareX.ShareX
+
+```
 
 The code is sucks, the people are great. Always so, no matter in/out side cn.
 
