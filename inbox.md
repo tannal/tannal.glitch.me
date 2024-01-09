@@ -6,6 +6,8 @@ We should always focus on people around.
 
 Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor
 
+
+
 # 2024-1-8
 
 
