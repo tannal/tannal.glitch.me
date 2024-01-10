@@ -868,7 +868,7 @@ grub-mkrescue -o mylinux-core-glibc.iso ./iso
 
 qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
 
-qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G -S -gdb tcp::6666
+qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G -S -gdb tcp::6666 -kernel ./linux-6.7/arch/x86/boot/bzImage -append "nokaslr"
 
 CONFIG_GDB_SCRIPTS=y
 CONFIG_DEBUG_INFO=y
