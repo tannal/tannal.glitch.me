@@ -1,3 +1,10 @@
+
+# inbox
+
+active directory fs/ include/linux/ include/net/ kernel/cgroup/ kernel/ mm/ net/ tools/testing/selftests/ sound/soc/ io_uring/
+
+drivers/ arch/ Documentation/
+
 # build linux kernel
 
 
@@ -40,6 +47,96 @@ debugging
 ```
 
 
+# qemu launch kernel
+
+```bash
+
+export BUSYBOX_VERSION=1.35.0
+wget -q -c https://busybox.net/downloads/busybox-$BUSYBOX_VERSION.tar.bz2
+[ -e busybox-$BUSYBOX_VERSION ] || tar xjf busybox-$BUSYBOX_VERSION.tar.bz2
+
+make -C busybox-$BUSYBOX_VERSION defconfig
+sed -i 's/# CONFIG_STATIC is not set/CONFIG_STATIC=y/g' busybox-$BUSYBOX_VERSION/.config
+make -C busybox-$BUSYBOX_VERSION -j20
+make -C busybox-$BUSYBOX_VERSION install
+
+# cpio_list
+
+dir /dev 0755 0 0
+nod /dev/console 0600 0 0 c 5 1
+dir /root 0700 0 0
+
+nod /dev/null 0666 0 0 c 1 3
+nod /dev/zero 0666 0 0 c 1 5
+
+dir /proc 0755 0 0
+dir /sys  0755 0 0
+dir /mnt  0755 0 0
+
+file /init ./init.sh 0755 0 0
+
+# initramfs.sh
+
+export BUSYBOX_VERSION=1.35.0
+mkdir -p fs
+mkdir -p share
+cd fs
+mkdir -p bin sbin etc proc sys usr/bin usr/sbin root home/tan
+cd ..
+cp -a busybox-$BUSYBOX_VERSION/_install/* fs
+
+#
+# modules
+#
+
+# echo "[+] Building modules..."
+# cd src
+# make
+# cd ..
+# cp src/*.ko fs/
+
+cd ../linux
+cp ../kerneldev/init.sh .
+chmod +x init.sh
+./usr/gen_initramfs.sh -o ../kerneldev/initramfs.img ../kerneldev/fs ../kerneldev/cpio_list
+../linux/usr/gen_initramfs.sh -o ./initramfs.img ./fs ./cpio_list
+
+ln -s ../linux ./linux
+
+# sudo apt-get update
+# sudo apt-get install -y bison flex libelf-dev cpio build-essential libssl-dev qemu-system-x86
+# launch
+qemu-system-x86_64 \
+    -kernel ../linux/arch/x86/boot/bzImage \
+    -initrd initramfs.img \
+    -append "console=ttyS0 root=/dev/ram ip=dhcp" \
+    -fsdev local,security_model=passthrough,id=fsdev0,path=share \
+    -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare \
+    -m 4G \
+	-nographic 
+
+# debug
+# target remote 127.0.0.1:6666
+qemu-system-x86_64 \
+    -kernel ../linux/arch/x86/boot/bzImage \
+    -initrd initramfs.img \
+    -append "console=ttyS0 root=/dev/ram ip=dhcp" \
+    -fsdev local,security_model=passthrough,id=fsdev0,path=share \
+    -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare \
+	-nographic \
+	-monitor none \
+	-S -gdb tcp::6666 -append "console=ttyS0 nokaslr ip=dhcp" \
+	-m 4G \
+    -serial mon:stdio
+
+# share.sh
+
+mkdir -p /share
+mount -t 9p -o trans=virtio,version=9p2000.L hostshare /share
+
+
+
+```
 
 # kernel config
 
@@ -512,6 +609,26 @@ https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#pr
 
 https://kernelnewbies.org/KernelBuild
 
+
+# linux kernel labs
+
+```bash
+
+git clone https://github.com/linux-kernel-labs/linux.git
+
+cd tools/labs
+
+make docker-docs
+
+make -j20
+
+sudo apt install screen
+
+screen /dev/pts/8
+
+
+```
+
 # tracing point
 
 ```bash
@@ -524,5 +641,3 @@ sudo ./kprobe -s 'p:el0t_64_sync_handler'
 
 
 ```
-
-

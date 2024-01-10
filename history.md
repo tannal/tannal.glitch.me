@@ -1,3 +1,143 @@
+# 2024-1-10
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Pull requests · denoland/deno-docs
+https://github.com/denoland/deno-docs/pulls
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+(1) error : could not compile `deno_runtime` (lib) · Issue #21865 · denoland/deno
+https://github.com/denoland/deno/issues/21865
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+tannal - Project - Deploy
+https://dash.deno.com/projects/tannal
+
+aeschli (Martin Aeschlimann)
+https://github.com/aeschli
+
+serial connector - Google 搜索
+https://www.google.com/search?q=serial+connector&sca_esv=596866593&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09rF_AgMVI9iUIX3t6s6g2GqF1v1g%3A1704800341814&ei=VTCdZYWiMYG5vr0P-seUsA8&ved=0ahUKEwjFoKWWnNCDAxWBnK8BHfojBfYQ4dUDCBA&uact=5&oq=serial+connector&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHNlcmlhbCBjb25uZWN0b3IyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSOcwUABY4C9wBXgBkAEAmAH1AaAB9iGqAQYwLjUuMTa4AQPIAQD4AQHCAgQQIxgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICCxAuGIAEGMcBGNEDwgIMECMYgAQYigUYExgnwgIFEC4YgATCAhAQLhiABBjLARjHARjRAxgKwgIOEC4YgAQYywEYxwEY0QPCAggQLhiABBjLAcICChAAGIAEGMsBGArCAgsQABiABBjLARjJA8ICCxAAGIAEGIoFGJID4gMEGAAgQYgGAQ&sclient=gws-wiz-serp
+
+The Linux Kernel documentation — The Linux Kernel documentation
+https://kernel.org/doc/html/latest/
+
+Kernel Maintainer Handbook — The Linux Kernel documentation
+https://kernel.org/doc/html/latest/maintainer/index.html
+
+Introduction — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/labs/introduction.html
+
+SO2 Lecture 03 - Processes — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#processes-and-threads
+
+fresh_template
+https://tannal.deno.dev/
+
+Rate of Change | Brilliant
+https://brilliant.org/courses/calculus-nutshell/derivatives-in-a-nutshell/rate-of-change-update/5/?from_llp=advanced-math
+
+linux-kernel-labs/linux: Linux kernel source tree
+https://github.com/linux-kernel-labs/linux
+
+linux-kernel-labs/linux: Linux kernel source tree
+https://github.com/linux-kernel-labs/linux
+
+电影院购票小程序需求
+https://chat.openai.com/c/4f0bb9d2-9d35-440d-adc2-edb2a979c88f
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=We%27ve%20found%20the%20average%20rate%20of%20change%20between%20side%20lengths%20%0A0%0A0%20and%20%0A1%0A1%20and%20again%20between%20side%20lengths%20%0A1%0A1%20and%20%0A2.%0A2&op=translate
+
+Contributing | Deno Docs
+https://docs.deno.com/runtime/manual/references/contributing/
+
+rust field method same name - Google 搜索
+https://www.google.com/search?q=rust++field+method+same+name&sca_esv=596880998&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09pMMtWsJcw3LPB_w1FcpILtGw94A%3A1704805642105&ei=CkWdZY2NBpq3vr0P0Nei6AY&ved=0ahUKEwiNutX1r9CDAxWam68BHdCrCG0Q4dUDCBA&uact=5&oq=rust++field+method+same+name&gs_lp=Egxnd3Mtd2l6LXNlcnAiHHJ1c3QgIGZpZWxkIG1ldGhvZCBzYW1lIG5hbWUyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIiSJQzQJY9CBwAngAkAEAmAGHAqABmB6qAQYwLjguMTG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIGEAAYBxgewgIIEAAYgAQYywHCAgUQABiABMICBhAAGB4YDMICBhAAGAgYHsICBRAhGKAB4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+discord edit message add image - Google 搜索
+https://www.google.com/search?q=discord+edit+message+add+image&rlz=1C1GCEA_enJP1090JP1090&oq=discord+&gs_lcrp=EgZjaHJvbWUqEAgAEEUYExgnGDsYgAQYigUyEAgAEEUYExgnGDsYgAQYigUyDggBEEUYJxg7GIAEGIoFMgYIAhBFGDkyDAgDEAAYQxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+How to install Docker Compose in Ubuntu | Docker - YouTube
+https://www.youtube.com/watch?v=qj3Y7GoGLc0
+
+Install the Compose plugin | Docker Docs
+https://docs.docker.com/compose/install/linux/#install-the-plugin-manually
+
+How to allow enable Desktop Sharing automatically after reboot - Google 搜索
+https://www.google.com/search?q=How+to+allow+enable+Desktop+Sharing+automatically+after+reboot&sca_esv=596880998&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09pDJtphqzl9Gbtz_015qtWMMWTKA%3A1704806989183&ei=TUqdZc_qCsmn2roPw-mEsAY&ved=0ahUKEwiPxYD4tNCDAxXJk1YBHcM0AWYQ4dUDCBA&uact=5&oq=How+to+allow+enable+Desktop+Sharing+automatically+after+reboot&gs_lp=Egxnd3Mtd2l6LXNlcnAiPkhvdyB0byBhbGxvdyBlbmFibGUgRGVza3RvcCBTaGFyaW5nIGF1dG9tYXRpY2FsbHkgYWZ0ZXIgcmVib290MgQQIRgKSPUMUABYkQxwAHgAkAEAmAHtAqABkA2qAQUyLTYuMbgBA8gBAPgBAvgBAcICBRAhGKABwgIHECEYChigAeIDBBgAIEGIBgE&sclient=gws-wiz-serp
+
+Blocked
+https://www.reddit.com/r/Ubuntu/comments/8p3zy8/how_to_allow_enable_desktop_sharing_automatically/
+
+reboot - Screen Sharing in unusable state after rebooting - Ask Ubuntu
+https://askubuntu.com/questions/1296932/screen-sharing-in-unusable-state-after-rebooting
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+Docker extension for Visual Studio Code
+https://code.visualstudio.com/docs/containers/overview
+
+kerneldev/dbg.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/dbg.sh
+
+SO2 Lecture 03 - Processes — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#processes-and-threads
+
+Debugging in Visual Studio Code
+https://code.visualstudio.com/docs/editor/debugging
+
+TypeScript debugging with Visual Studio Code
+https://code.visualstudio.com/docs/typescript/typescript-debugging
+
+codelldb attach gdb server - Google 搜索
+https://www.google.com/search?q=codelldb+attach+gdb+server&rlz=1C1GCEA_enJP1090JP1090&oq=codelldb+attach+gdb+server&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCDQ3ODlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+jquery - What is reference path in vscode - Stack Overflow
+https://stackoverflow.com/questions/30136319/what-is-reference-path-in-vscode
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+isUtf8(buffer, start?, end?) · nodejs · Discussion #51405
+https://github.com/orgs/nodejs/discussions/51405
+
+tannal (tannal)
+https://github.com/tannal/
+
+imo stands for - Google 搜索
+https://www.google.com/search?q=imo+stands+for&rlz=1C1GCEA_enJP1090JP1090&oq=IMO+stans+for&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMggIBBAAGA0YHjIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGA0YHjIICAgQABgNGB4yCggJEAAYCBgNGB7SAQg0OTAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+deno/cli/tools/info.rs at 741afc4b94427588c628925fef464623d373430f · denoland/deno
+https://github.com/denoland/deno/blob/741afc4b94427588c628925fef464623d373430f/cli/tools/info.rs#L425-L431
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+Dependency Inspector | Deno Docs
+https://docs.deno.com/runtime/manual/tools/dependency_inspector
+
+how to cancel vscode launch - Google 搜索
+https://www.google.com/search?q=how+to+cancel+vscode+launch&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+cancel+vscode+launch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTU0MDA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal
+
 # 2024-1-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,4 +1,55 @@
-# 2024-1-9  1+1+1+1+1 | 1
+# 2024-1-10 
+
+
+324234
+
+4234234# 2024-1-9  1+1+1+1+1 | 1+1+1
+
+
+## x86 registers 
+
+%eax %ebx %esp
+
+%edi %esi
+
+```c
+
+struct nsproxy {
+        atomic_t                   count;                /*     0     4 */
+        struct uts_namespace *     uts_ns;               /*     4     4 */
+        struct ipc_namespace *     ipc_ns;               /*     8     4 */
+        struct mnt_namespace *     mnt_ns;               /*    12     4 */
+        struct pid_namespace *     pid_ns_for_children;  /*    16     4 */
+        struct net *               net_ns;               /*    20     4 */
+        struct time_namespace *    time_ns;              /*    24     4 */
+        struct time_namespace *    time_ns_for_children; /*    28     4 */
+        struct cgroup_namespace *  cgroup_ns;            /*    32     4 */
+
+        /* size: 36, cachelines: 1, members: 9 */
+        /* last cacheline: 36 bytes */
+};
+
+```
+
+pahole -C task_struct vmlinux
+pahole -C nsproxy vmlinux
+
+docker & docker-compose
+
+
+```bash
+
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+sudo apt  install docker-compose
+
+# DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+# mkdir -p $DOCKER_CONFIG/cli-plugins
+# curl -SL https://github.com/docker/compose/releases/download/v2.23.3/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
+
+```
+
+astro storyblok vercel netlify sentry
 
 kdb/kgdb
 
@@ -18,11 +69,7 @@ The code is sucks, the people are great. Always so, no matter in/out side cn.
 
 We should always focus on people around.
 
-Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor
-
-
-
-# 2024-1-8
+Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor# 2024-1-8
 
 
 
@@ -102,7 +149,6 @@ git clone https://github.com/tsoding/musializer.git
 https://github.com/vadimcn/codelldb/wiki/Breakpoints-are-not-getting-hit
 
 "breakpointMode": "file"
-
 
 # 2024-1-7
 
@@ -194,6 +240,7 @@ Over the years Apple upgraded every component in NeXTStep/OS X until it peached 
 At the same time, Apple evolved the MACH microkernel and created the free open source Apple XNU hybrid kernel
 At that point Apple operating systems were completely made of Apple source code
 What confuses the internet is that Apple operating systems are modular and one module runs UNIX apps natively (Apple macOS is in fact a certified UNIX), which Apple populates with FreeBSD apps, but which the user can populate with any UNIX apps they choose to use
+
 
 
 
@@ -360,8 +407,6 @@ git clone https://github.com/efficient/cuckoofilter.git
 cuckoofilter
 
 ```
-
-
 # 2024-1-5
 
 
@@ -7292,6 +7337,3 @@ set https_proxy=http://127.0.0.1:7890
 ```
 
 ![](https://cdn.glitch.global/c8d57c73-6044-4741-a71a-82aa74f41701/341a5aa7-9173-4257-bc96-b52001cd033b.image.png?v=1701158847856)
-
-
-
