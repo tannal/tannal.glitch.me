@@ -1,5 +1,170 @@
 # 2024-1-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+msmd-linux/run.sh at main · maksimKorzh/msmd-linux
+https://github.com/maksimKorzh/msmd-linux/blob/main/run.sh
+
+Discord
+https://discord.com/login?redirect_to=%2Fchannels%2F%40me
+
+Neural Networks | Brilliant
+https://brilliant.org/courses/intro-neural-networks/introduction-65/neural-nets-2/2/?from_llp=computer-science
+
+Variables | Brilliant
+https://brilliant.org/courses/thinking-in-code/chapter-4/variables-8/2/?from_llp=computer-science
+
+わたし - Google 搜索
+https://www.google.com/search?q=%E3%82%8F%E3%81%9F%E3%81%97&oq=%E3%82%8F%E3%81%9F%E3%81%97&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDcxMjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+日本語情報科学専攻の超詳細ガイド - Zhihu
+https://zhuanlan.zhihu.com/p/434323608
+
+Google 翻译
+https://translate.google.com/?sl=zh-TW&tl=ja&text=solely%20rely%20on%20&op=translate
+
+情報(じょうほう)とは？ 意味や使い方 - コトバンク
+https://kotobank.jp/word/%E6%83%85%E5%A0%B1-79825
+
+じょうほう - Google 搜索
+https://www.google.com/search?q=%E3%81%98%E3%82%87%E3%81%86%E3%81%BB%E3%81%86&oq=%E3%81%98%E3%82%87%E3%81%86%E3%81%BB%E3%81%86&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAjGCcYgAQYigUyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgYIBxBFGD3SAQk0NzQxN2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+dlss - Google 搜索
+https://www.google.com/search?q=dlss&oq=dlss&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQIxgTGCcYgAQYigUyDAgCECMYJxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhjHARjRAxiABDIHCAcQABiABDINCAgQLhjHARjRAxiABDINCAkQLhjHARjRAxiABNIBBzc0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+のみにはい - Google 搜索
+https://www.google.com/search?q=%E3%81%AE%E3%81%BF%E3%81%AB%E3%81%AF%E3%81%84&sca_esv=597188272&sxsrf=ACQVn0_uMxjkb__1gO_6JKQs1DSuNt_ACQ%3A1704886964948&ei=tIKeZa--OZ2cvr0PgO67iAE&ved=0ahUKEwiv6LXv3tKDAxUdjq8BHQD3DhEQ4dUDCBA&uact=5&oq=%E3%81%AE%E3%81%BF%E3%81%AB%E3%81%AF%E3%81%84&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-OBruOBv-OBq-OBr-OBhDIIEAAYiQUYogRI9hlQugdYqhVwAXgBkAEAmAHZAaAB_ASqAQMyLTO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIGEAAYBBgewgIIEAAYBBgeGAriAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+self reference recursion and human brain - Google 搜索
+https://www.google.com/search?q=self+reference+recursion+and+human+brian&oq=self+reference+recursion+and+human+brian&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEJMzIzMTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+plausible - Google 搜索
+https://www.google.com/search?q=plausible&oq=plausible+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgwIAxAAGEMYgAQYigUyDAgEEAAYQxiABBiKBTIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQxOTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+plausible reasoning machine - Google 搜索
+https://www.google.com/search?q=plausible+reasoning+machine&oq=plausible+reasoning+machine&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCggFEAAYCBgPGB7SAQgzOTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference - Judea Pearl - Google 图书
+https://books.google.co.jp/books?hl=zh-CN&lr=&id=AvNID7LyMusC&oi=fnd&pg=PA1&dq=plausible+reasoning+machine&ots=F0VNYmnA-c&sig=571u790F2V7jmfkryXHQWNncNbI#v=onepage&q=plausible%20reasoning%20machine&f=false
+
+Judea Pearl - Google 搜索
+https://www.google.com/search?q=Judea+Pearl&oq=Judea+Pearl&gs_lcrp=EgZjaHJvbWUyEQgAEEUYORhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEHMjc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+dblp: Search for "Judea Pearl"
+https://dblp.org/search?q=Judea+Pearl
+
+Judea Pearl google scholar - Google 搜索
+https://www.google.com/search?q=Judea+Pearl+google+scholar&sca_esv=597188272&sxsrf=ACQVn089S3kNMjAslKlCsk4yqzclMuyK0A%3A1704887977275&ei=qYaeZf_HDPvd2roP4tinoAM&ved=0ahUKEwi_wI3S4tKDAxX7rlYBHWLsCTQQ4dUDCBA&uact=5&oq=Judea+Pearl+google+scholar&gs_lp=Egxnd3Mtd2l6LXNlcnAiGkp1ZGVhIFBlYXJsIGdvb2dsZSBzY2hvbGFyMggQLhiABBjLATIXEC4YgAQYywEYlwUY3AQY3gQY3wTYAQFI-TFQgQNY6DBwBngBkAEAmAHuAaAB5xaqAQYwLjMuMTG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAggQLhjLARiABMICBBAAGB7CAgYQABgIGB7CAgUQIRigAeIDBBgAIEGIBgGQBgG6BgYIARABGBQ&sclient=gws-wiz-serp
+
+bayes.cs.ucla.edu/jp_home.html
+http://bayes.cs.ucla.edu/jp_home.html
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+fresh/www/data/showcase.json at main · denoland/fresh
+https://github.com/denoland/fresh/blob/main/www/data/showcase.json
+
+Netlify Authorization
+https://api.netlify.com/auth/done?code=f30e7dfe6dd6f9421ab8&state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaWQiOiI1NmMzZjE1MDcxZTIwYTE4ZGIwMDAwMGYiLCJleHAiOjE3MDQ4OTA1NjEsImxvZ2luIjp0cnVlfQ.b2flRGpCb8-oXKaUtWSICI4_WuDdO1DOtnTY46blRlA
+
+[PATCHSET v5] sched: Implement BPF extensible scheduler class - Tejun Heo
+https://lore.kernel.org/lkml/20231111024835.2164816-1-tj@kernel.org/
+
+qemu copy paste linux - Google 搜索
+https://www.google.com/search?q=qemu+copy+paste+linux&oq=qemu+copy+paste+linux&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg50gEINTU2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Dimitrios Skarlatos
+https://www.cs.cmu.edu/~dskarlat/
+
+CMU CAOS | Computer Architecture and Operating Systems Group at CMU
+https://www.cs.cmu.edu/~caos/
+
+tannal.web.app/posts/people/
+https://tannal.web.app/posts/people/
+
+Booting from an ISO image using qemu - Administration - Linux Tips
+https://linux-tips.com/t/booting-from-an-iso-image-using-qemu/136
+
+news.ycombinator.com
+https://news.ycombinator.com/item?id=36327892
+
+Peter Zijlstra: From DOS to kernel hacking [LWN.net]
+https://lwn.net/Articles/286244/
+
+GDB: The GNU Project Debugger
+https://www.sourceware.org/gdb/
+
+Improve Writing Quality Focus
+https://chat.openai.com/c/f72f05d4-f77d-4cb8-80c3-5c83ca48991b
+
+russell king linux - Google 搜索
+https://www.google.com/search?q=russell+king+linux&oq=russel+king&gs_lcrp=EgZjaHJvbWUqCQgDEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIICAYQABgKGB4yCAgHEAAYChgeMggICBAAGAoYHjIICAkQABgKGB7SAQg0NTEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Artem Kuzin huawei - Google 搜索
+https://www.google.com/search?q=Artem+Kuzin+huawei&sca_esv=597209220&sxsrf=ACQVn0-IaRyeKEvIuZycZ0Qc7xtuCVEUlw%3A1704892952900&ei=GJqeZZjKNrmm2roP3YC1KA&ved=0ahUKEwiYttmW9dKDAxU5k1YBHV1ADQUQ4dUDCBA&uact=5&oq=Artem+Kuzin+huawei&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkFydGVtIEt1emluIGh1YXdlaTIHECEYChigATIHECEYChigAUiyFVD1AViZE3ABeACQAQCYAd8CoAGSDqoBBTItNi4xuAEDyAEA-AEBwgILEAAYgAQYywEYsAPCAgkQABgeGA0YsAPCAgQQABgewgIGEAAYHhgNwgIJECEYChigARgK4gMEGAEgQYgGAZAGBA&sclient=gws-wiz-serp
+
+How to edit and re-build the GCC libstdc++ C++ standard library source? - Stack Overflow
+https://stackoverflow.com/questions/21872229/how-to-edit-and-re-build-the-gcc-libstdc-c-standard-library-source
+
+InstallingGCC - GCC Wiki
+https://gcc.gnu.org/wiki/InstallingGCC
+
+Installing GCC: Configuration - GNU Project
+https://gcc.gnu.org/install/configure.html
+
+Installing GCC - GNU Project
+https://gcc.gnu.org/install/index.html
+
+ｗｉｎ１０自带的输入法输入的字体有错误，英文字符和数字之间的间隔很大，不知道啥问题，有时出现有时不出现 - Microsoft Community
+https://answers.microsoft.com/zh-hans/windows/forum/all/%EF%BD%97%EF%BD%89%EF%BD%8E%EF%BC%91%EF%BC%90/26c88fb6-295d-45c6-82ca-c2ca73f0367b
+
+Index of /software/gcc/releases/gcc-13.2.0/
+https://ftp.tsukuba.wide.ad.jp/software/gcc/releases/gcc-13.2.0/
+
+Ryan Roberts linux arm - Google 搜索
+https://www.google.com/search?q=Ryan+Roberts+linux+arm&sca_esv=597209220&sxsrf=ACQVn09a-dP0cxWU81EyGLyfPvv0pyF5pw%3A1704893729891&ei=IZ2eZceENs-l1e8Ppueu6AI&ved=0ahUKEwiHmZmJ-NKDAxXPUvUHHaazCy0Q4dUDCBA&uact=5&oq=Ryan+Roberts+linux+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiFlJ5YW4gUm9iZXJ0cyBsaW51eCBhcm0yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUi9EFDeAVi2D3ABeAGQAQCYAYUCoAGEEKoBBTAuMS44uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAuGMsBGIAEwgIIEAAYgAQYywHCAhcQLhjLARiABBiXBRjcBBjeBBjfBNgBAcICBBAAGB7iAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+ChinaLinuxKernel
+https://github.com/ChinaLinuxKernel
+
+Pankaj Raghav linux kernel - Google 搜索
+https://www.google.com/search?q=Pankaj+Raghav+linux+kernel&sca_esv=597209220&sxsrf=ACQVn0-NEWO9Msec7lTHD2yUw1lz5hfh8A%3A1704893929793&ei=6Z2eZdOAMJOYvr0P8pIf&ved=0ahUKEwiTmcLo-NKDAxUTjK8BHXLJBwAQ4dUDCBA&uact=5&oq=Pankaj+Raghav+linux+kernel&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlBhbmthaiBSYWdoYXYgbGludXgga2VybmVsMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSP0RUP0BWLwQcAF4AJABAJgBggKgAdcUqgEGMC4xLjExuAEDyAEA-AEBwgILEAAYgAQYywEYsAPCAgQQABgewgIFECEYoAHiAwQYASBBiAYBkAYB&sclient=gws-wiz-serp
+
+Rust-GCC/gccrs: GCC Front-End for Rust
+https://github.com/Rust-GCC/gccrs
+
+Manual Installation - shadcn/ui
+https://ui.shadcn.com/docs/installation/manual
+
+Documentation/Networking - QEMU
+https://wiki.qemu.org/Documentation/Networking#Linux
+
+tannal.web.app/posts/inbox/
+https://tannal.web.app/posts/inbox/
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en
+
+bazel - Google 搜索
+https://www.google.com/search?q=bazel&sca_esv=597219834&sxsrf=ACQVn0_tBm9xWcvr2C_022Gw0ev2nWN_TQ%3A1704897149692&ei=faqeZbPUKeri1e8Pg8eTiAs&ved=0ahUKEwjzhvHnhNODAxVqcfUHHYPjBLEQ4dUDCBA&uact=5&oq=bazel&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWJhemVsMgoQABiABBiKBRhDMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSO4dUOITWPUYcAF4AZABAJgB_gGgAcwIqgEFMC4yLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIMECMYgAQYigUYExgnwgIKECMYgAQYigUYJ8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAgQQIxgnwgIKEC4YgAQYigUYQ8ICCxAuGIAEGMcBGK8BwgIFEC4YgATiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+svelte/packages/svelte/src/easing at main · sveltejs/svelte
+https://github.com/sveltejs/svelte/tree/main/packages/svelte/src/easing
+
+v0 by Vercel
+https://v0.dev/
+
+Login – Vercel
+https://vercel.com/login?next=%2Fapi%2Fvercel-auth%3FredirectUrl%3Dhttps%253A%252F%252Fv0.dev%252Fapi%252Fauth%252Fcallback%26disableSAML%3D1%26qs%3Dutm_source%253Dv0-site%2526utm_medium%253Djoin-popup%2526utm_campaign%253Dsignup&disableSAML=1
+
+科兴疫苗 停产 - Google 搜索
+https://www.google.com/search?q=%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97+%E5%81%9C%E4%BA%A7&oq=%E7%A7%91%E5%85%B4%E7%96%AB%E8%8B%97+%E5%81%9C%E4%BA%A7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzMzU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 (3) 2023 年系統軟體系列課程討論區 | Facebook
 https://www.facebook.com/groups/system.software2023
 
