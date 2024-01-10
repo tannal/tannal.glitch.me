@@ -1,5 +1,152 @@
 # 2024-1-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/ef07a2bd-8ec6-4b7e-bcc0-3de191e01ff3
+
+ThinkOpenly/sail-riscv at JSON
+https://github.com/ThinkOpenly/sail-riscv/tree/JSON
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/a658f72f-c2e9-44a5-8f2f-76da3892644a
+
+ee-uet/UETRV-PCore: Linux Capable 32-bit RISC-V based SoC
+https://github.com/ee-uet/UETRV-PCore
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Apply to Outreachy - Outreachy
+https://www.outreachy.org/apply/
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#application-prep
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/#project-skills-key
+
+Setting Your Career Through Open Source - YouTube
+https://www.youtube.com/watch?v=Tb4zFB5XENI
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/
+
+Discord
+https://discord.com/login?redirect_to=%2Fchannels%2F%40me
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+label%3AE-candidate-for-mentoring
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+Projects - Deploy
+https://dash.deno.com/projects
+
+utc 3pm to gmt+8 - Google 搜索
+https://www.google.com/search?q=utc+3pm+to+gmt%2B8&sca_esv=596768218&sxsrf=ACQVn0-kWNXcZcbOvdVxINIb2k1g6botPQ%3A1704786633110&ei=yfqcZcv_Be7j1e8PmoaCgA0&oq=utc+3pm+to&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnV0YyAzcG0gdG8qAggEMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB5IgytQrRJY3BxwAXgBkAEAmAHRAaAB6ASqAQUwLjEuMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgYQABgIGB7iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+东北师范大学校历_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E4%B8%9C%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%8E%86&fenlei=256&rsv_pq=0xd563f4140003aeb8&rsv_t=1d99HS6hsMOcWgiSSySv%2BFzIHzAhURpbf2LlcJndKzNchqAEyZ%2Bv3ztMS%2Buw&rqlang=en&rsv_enter=1&rsv_dl=ib&rsv_sug3=24&rsv_sug1=18&rsv_sug7=100
+
+东师校历-教务处
+https://jwc.nenu.edu.cn/ggmb/list2.jsp?b240830bt=2&b240830bc=10&urltype=tree.TreeTempUrl&wbtreeid=1666
+
+Discord
+https://discord.com/login?redirect_to=%2Fchannels%2F%40me
+
+outreachy.org/apply/eligibility/
+https://www.outreachy.org/apply/eligibility/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+What is the Difference Between W-9 vs W-8 Forms? | Papaya Global
+https://www.papayaglobal.com/blog/w-9-vs-w-8-forms/
+
+W-8 forms - Google 搜索
+https://www.google.com/search?q=W-8+forms&sca_esv=596768218&tbm=isch&sxsrf=ACQVn08pGL2riCHDiCepOJf4HSuofDASLw:1704788320876&source=lnms&sa=X&ved=2ahUKEwiFxKGy78-DAxVRcPUHHRR2AMsQ_AUoAXoECAIQAw&biw=1280&bih=593&dpr=1.5
+
+W-8 forms - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.investopedia.com%2Fthmb%2F7GwAWbYAQJAYodn3yvQMq_ewC4g%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2FFormW-8BEN-5ec8ec73a56e4581874640da3dd45425.jpeg&tbnid=hlUTESw80BloYM&vet=12ahUKEwjfs_-178-DAxXOka8BHdslDocQMygAegQIARBT..i&imgrefurl=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fw%2Fw8form.asp&docid=cRvI2jfsmNMX_M&w=1034&h=1370&q=W-8%20forms&ved=2ahUKEwjfs_-178-DAxXOka8BHdslDocQMygAegQIARBT
+
+W-8BEN: When to Use It and Other Types of W-8 Tax Forms
+https://www.investopedia.com/terms/w/w8form.asp
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+(3) Better cursor location when hit enter at a folded line. · Issue #202060 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/202060
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Browsers Developer (Chromium focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_chromium_position#application
+
+github.com
+https://github.com/denoland/deno/pulls?author=MarybethGasman&q=is%3Aopen+is%3Apr+author%3Atannal&author=MarybethGasman
+
+Adding Hyperlinks in LaTeX | Baeldung on Computer Science
+https://www.baeldung.com/cs/latex-hyperref-url-hyperlinks
+
+hyperref - Making hyperlinks appear in blue - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/364133/making-hyperlinks-appear-in-blue
+
+hyperref - Different colors for \url and \href commands? - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/552530/different-colors-for-url-and-href-commands
+
+ChatGPT
+https://chat.openai.com/c/241eebf0-a735-4dc0-95a9-cbfa0c090cd6
+
+ShareX - The best free and open source screenshot tool for Windows
+https://getsharex.com/
+
+gstreamer.freedesktop.org/projects/outreach.html
+https://gstreamer.freedesktop.org/projects/outreach.html
+
+GStreamer Conference 2023
+https://gstreamer.freedesktop.org/conference/2023/
+
+Outreachy - GNOME Wiki!
+https://wiki.gnome.org/Outreachy#Submit_an_Application
+
+Download and install ShareX with winget
+https://winget.run/pkg/ShareX/ShareX
+
+fold title in vscode - Google 搜索
+https://www.google.com/search?q=fold+title+in+vscode&oq=fold+title+in+vscode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB7SAQgzMjI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Show list of builtin extensions in the sidebar · Issue #12524 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/12524
+
+Projects - Deploy
+https://dash.deno.com/projects
+
+Blocked
+https://www.reddit.com/r/Ubuntu/comments/8p3zy8/how_to_allow_enable_desktop_sharing_automatically/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+microsoft/vscode: Visual Studio Code
+https://github.com/microsoft/vscode
+
 linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
