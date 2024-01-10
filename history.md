@@ -1,5 +1,209 @@
 # 2024-1-10
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Index of /downloads
+https://busybox.net/downloads/
+
+Index of /downloads
+https://busybox.net/downloads/
+
+Index of /gnu/glibc
+https://ftp.gnu.org/gnu/glibc/
+
+Index of /pub/linux/kernel/v6.x/
+https://cdn.kernel.org/pub/linux/kernel/v6.x/
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+#general > http_loader - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/http_loader
+
+Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/
+
+Servo On Raspberry Pi - YouTube
+https://www.youtube.com/watch?v=oDqDrvxLxyI
+
+ChatGPT
+https://chat.openai.com/c/a4c1670c-33e9-4411-8116-0866257aab0e
+
+native debug vscode rust - Google 搜索
+https://www.google.com/search?q=native+debug+vscode+rust&rlz=1C1GCEA_enJP1090JP1090&oq=native+debug+vscode+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEINjMwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+rust/library/std/src/lib.rs at master · rust-lang/rust
+https://github.com/rust-lang/rust/blob/master/library/std/src/lib.rs
+
+Rust — How to step into std library in VSCode | by TechHara | Medium
+https://medium.com/@techhara/rust-how-to-step-into-std-library-in-vscode-31d2da3b7e04
+
+Missing auto-load script in gdb · Issue #33159 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/33159
+
+arm - qemu doesn't recognize block device file - Stack Overflow
+https://stackoverflow.com/questions/60988342/qemu-doesnt-recognize-block-device-file
+
+qemu的drive参数解释 - honpey - 博客园
+https://www.cnblogs.com/honpey/p/8505550.html
+
+linux - can't open /dev/tty(2,3,4). No such file or directory - Stack Overflow
+https://stackoverflow.com/questions/55057641/cant-open-dev-tty2-3-4-no-such-file-or-directory
+
+busybox dynamic linker - Google 搜索
+https://www.google.com/search?q=busybox+dynamic+linker&sca_esv=597084762&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08X4opgMAbxjDMpFUZqECmuF8n3Bg%3A1704852684480&ei=zPydZdX2HK7v1e8P48-R-Ag&oq=busybox+dyna&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGJ1c3lib3ggZHluYSoCCAAyBBAAGB4yBBAAGB5IvRRQ2QJYzA1wAHgBkAEAmAHbAaABqgmqAQUwLjQuMrgBA8gBAPgBAcICBBAAGEfCAgcQIxixAhgnwgIKEAAYgAQYigUYQ8ICCBAAGIAEGMsBwgIFEAAYgATiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+How to build linux distro from scratch | glibc, busybox & networking support - YouTube
+https://www.youtube.com/watch?v=0vOEcw_sPaM
+
+msmd-linux/config/grub.cfg at main · maksimKorzh/msmd-linux
+https://github.com/maksimKorzh/msmd-linux/blob/main/config/grub.cfg
+
+msmd-linux/config/kernel.cfg at main · maksimKorzh/msmd-linux
+https://github.com/maksimKorzh/msmd-linux/blob/main/config/kernel.cfg
+
+Busybox as the init - HackMD
+https://hackmd.io/@starnight/Busbox_as_the_init
+
+embedded linux - busybox start init script after bootup - Stack Overflow
+https://stackoverflow.com/questions/12552494/busybox-start-init-script-after-bootup
+
+Busy Box init - Embedded Linux Systems - Halo Linux Services
+https://www.halolinux.us/embedded-systems/busybox-init.html
+
+Boot QEMU virtual machine and get IP from hosts' DHCP server
+https://gist.github.com/pojntfx/25c611c64d89ef9bc5c76074a460bf44
+
+raspi3-tutorial/00_crosscompiler at master · tannal/raspi3-tutorial
+https://github.com/tannal/raspi3-tutorial/tree/master/00_crosscompiler
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+sharp in latex - Google 搜索
+https://www.google.com/search?q=sharp+in+latex&rlz=1C1GCEA_enJP1090JP1090&oq=sharp+in+latex&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGAgYExgeMgoIAhAAGAgYExge0gEINTk2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Train - Ultralytics YOLOv8 Docs
+https://docs.ultralytics.com/modes/train/#usage-examples
+
+COCO - Common Objects in Context
+https://cocodataset.org/#home
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%AE%89%E5%85%A8%E5%B8%BD&op=translate
+
+识别 Linux上的设备（磁盘）类型 - SammyLiu - 博客园
+https://www.cnblogs.com/sammyliu/p/5729026.html
+
+virtual machines - kvmtool: guest OS fails: mounting /dev/vda on /root failed: No such device - Server Fault
+https://serverfault.com/questions/912372/kvmtool-guest-os-fails-mounting-dev-vda-on-root-failed-no-such-device
+
+mount .img file vda - Google 搜索
+https://www.google.com/search?q=mount+.img+file+vda&rlz=1C1GCEA_enJP1090JP1090&oq=mount+.img+file+vda&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIJCAQQABgTGIAEMggIBRAAGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIICAkQABgTGB7SAQg4MDg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Kernel I built from Debian sources doesn't see QEMU /dev/vda despite same setup working for prebuilt Debian kernels - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/631343/kernel-i-built-from-debian-sources-doesnt-see-qemu-dev-vda-despite-same-setup
+
+What does "make oldconfig" do exactly in the Linux kernel makefile? - Stack Overflow
+https://stackoverflow.com/questions/4178526/what-does-make-oldconfig-do-exactly-in-the-linux-kernel-makefile
+
+ubuntu - How to save files directely on local computer? - Super User
+https://superuser.com/questions/1772584/how-to-save-files-directely-on-local-computer
+
+Ubuntu全盘备份与恢复，亲自总结，实测可靠 | 攀岩之鹿
+https://baize.cc/posts/58b2.html
+
+system installation - How do I install ubuntu 22.04 without erasing my /home folder - Ask Ubuntu
+https://askubuntu.com/questions/1406798/how-do-i-install-ubuntu-22-04-without-erasing-my-home-folder
+
+UbuntuReinstallation - Community Help Wiki
+https://help.ubuntu.com/community/UbuntuReinstallation
+
+DiskSpace - Community Help Wiki
+https://help.ubuntu.com/community/DiskSpace
+
+DiskSpace - Community Help Wiki
+https://help.ubuntu.com/community/DiskSpace
+
+[SOLVED] HOWTO reinstall Ubuntu without loosing configs (even if /home not separate)
+https://ubuntuforums.org/showthread.php?p=11770332#post11770332
+
+ubuntu reserved bios boot area - Google 搜索
+https://www.google.com/search?q=ubuntu+reserved+bios+boot+area&sca_esv=597118812&rlz=1C1GCEA_enJP1090JP1090&tbm=isch&sxsrf=ACQVn0_Z8yy-Z3k5Qt4zLOVY4M1utVYxcA:1704865607675&source=lnms&sa=X&ved=2ahUKEwjvsb2nj9KDAxWalK8BHSXGDX0Q_AUoAXoECAIQAw&biw=1536&bih=738&dpr=1.25
+
+ubuntu reserved bios boot area - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.itzgeek.com%2Fwp-content%2Fuploads%2F2022%2F04%2FCreate-Reserved-BIOS-boot-Area.png&tbnid=tEwP5P5oUvwWPM&vet=12ahUKEwirlJOsj9KDAxVxja8BHUodD5IQMygCegQIARBW..i&imgrefurl=https%3A%2F%2Fwww.itzgeek.com%2Fhow-tos%2Flinux%2Fubuntu-how-tos%2Fhow-to-install-ubuntu-22-04-lts.html&docid=F0K9t5E109zpHM&w=1475&h=820&q=ubuntu%20reserved%20bios%20boot%20area&ved=2ahUKEwirlJOsj9KDAxVxja8BHUodD5IQMygCegQIARBW
+
+How to Install Ubuntu 22.04 LTS (Jammy Jellyfish) On UEFI and Legacy BIOS System
+https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-ubuntu-22-04-lts.html
+
+ubuntu reserved bios boot area - Google 搜索
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FD79tF.jpg&tbnid=J1gGBitUQflK8M&vet=12ahUKEwirlJOsj9KDAxVxja8BHUodD5IQMygAegQIARBQ..i&imgrefurl=https%3A%2F%2Faskubuntu.com%2Fquestions%2F458947%2Fshould-i-create-the-reserved-bios-boot-area-partition&docid=pEYKckBPPaDS2M&w=2560&h=1920&q=ubuntu%20reserved%20bios%20boot%20area&ved=2ahUKEwirlJOsj9KDAxVxja8BHUodD5IQMygAegQIARBQ
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=untick%20the%20%22Format%22%20checkbox&op=translate
+
+Linux show partition - Google 搜索
+https://www.google.com/search?sca_esv=597118812&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09Zhzk9nsxIackqyicQD_aGFVsGpg:1704866021579&q=Linux+show+partition&sa=X&ved=2ahUKEwi3_evskNKDAxXIsFYBHVmTAk4Q1QJ6BAggEAE&biw=1536&bih=738&dpr=1.25#ip=1
+
+12.04 - Reinstalling Ubuntu without formatting partition - what folders are deleted? - Ask Ubuntu
+https://askubuntu.com/questions/142925/reinstalling-ubuntu-without-formatting-partition-what-folders-are-deleted
+
+BusyBox
+https://busybox.net/
+
+busybox github - Google 搜索
+https://www.google.com/search?q=busybox+github&rlz=1C1GCEA_enJP1090JP1090&oq=busybox+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQIxgnMgwIAhAjGCcYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTgwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#include <linux/limits.h> - Google 搜索
+https://www.google.com/search?q=%23include+%3Clinux%2Flimits.h%3E&rlz=1C1GCEA_enJP1090JP1090&oq=%23include+%3Clinux%2Flimits.h%3E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAUYHjIKCAMQABgIGA8YHjIMCAQQABgIGAoYDxge0gEHNjY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+linux/limits.h: No such file or directory - Google 搜索
+https://www.google.com/search?q=linux%2Flimits.h%3A+No+such+file+or+directory&rlz=1C1GCEA_enJP1090JP1090&oq=linux%2Flimits.h%3A+No+such+file+or+directory&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+sudo apt install libc-dev - Google 搜索
+https://www.google.com/search?q=sudo+apt+install+libc-dev&sca_esv=597127733&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-nqgiigdFe2Nu2ZBk95yslSRI2KA%3A1704869589311&ei=1T6eZbbGErzd2roP5qGNwA8&ved=0ahUKEwj2hImSntKDAxW8rlYBHeZQA_gQ4dUDCBA&uact=5&oq=sudo+apt+install+libc-dev&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXN1ZG8gYXB0IGluc3RhbGwgbGliYy1kZXYyBxAhGAoYoAEyBxAhGAoYoAFI3ghQrQRY7wdwAXgBkAEAmAHgAaAB9wSqAQMyLTO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgPwgIFECEYoAHiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+mirror/busybox: BusyBox mirror
+https://github.com/mirror/busybox
+
+cross compiling - Linux Building - CROSS_COMPILE BusyBox: limits.h: No such file or directory - Stack Overflow
+https://stackoverflow.com/questions/63363947/linux-building-cross-compile-busybox-limits-h-no-such-file-or-directory
+
+How do I install kernel header files? - Ask Ubuntu
+https://askubuntu.com/questions/75709/how-do-i-install-kernel-header-files
+
+embedded linux - When we build a kernel and busy box, we need toolchain only for busybox not for kernel? - Stack Overflow
+https://stackoverflow.com/questions/17785208/when-we-build-a-kernel-and-busy-box-we-need-toolchain-only-for-busybox-not-for
+
+[SOLVED] grub-mkrescue fails because it can't find xorriso / Newbie Corner / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=250474
+
+qemu nurses option - Google 搜索
+https://www.google.com/search?q=qemu+nurses+option&sca_esv=597139008&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08UiGXWFSbHdVVrHhT7oPFOfSSp2g%3A1704874535466&ei=J1KeZceDHPG22roPxdCXqAo&ved=0ahUKEwiHs8rIsNKDAxVxm1YBHUXoBaUQ4dUDCBA&uact=5&oq=qemu+nurses+option&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnFlbXUgbnVyc2VzIG9wdGlvbjIFECEYoAEyBRAhGKABSOcJULIBWJ0IcAF4AZABAJgB5gGgAd0KqgEFMC42LjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIHECEYChigAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Booting from an ISO image using qemu - Administration - Linux Tips
+https://linux-tips.com/t/booting-from-an-iso-image-using-qemu/136
+
+(oﾟvﾟ)ノ Hi - Linux配置/etc/resolv.conf详解
+https://www.cnblogs.com/yuhaohao/p/13889240.html
+
+What is Linux native debugging symbols format? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/219550/what-is-linux-native-debugging-symbols-format
+
+kerneldev/linux-build.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/linux-build.sh
+
+gdb调试出现“no debugging symbols found”_no debugging symbols found in t_server_c-6.1.0-CSDN博客
+https://blog.csdn.net/zhuyong006/article/details/89244203
+
+Jonathan Eyolfson –
+https://eyolfson.com/static/cv.pdf
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

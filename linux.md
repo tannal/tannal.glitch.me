@@ -868,8 +868,16 @@ grub-mkrescue -o mylinux-core-glibc.iso ./iso
 
 qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
 
-qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
+qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G -S -gdb tcp::6666
 
+CONFIG_GDB_SCRIPTS=y
+CONFIG_DEBUG_INFO=y
+CONFIG_DEBUG_INFO_REDUCED=n
+CONFIG_DEBUG_INFO_SPLIT=n
+CONFIG_DEBUG_FS=y
+CONFIG_DEBUG_INFO_DWARF4=y
+CONFIG_DEBUG_INFO_BTF=y
+CONFIG_FRAME_POINTER=y
 
 
 ```
