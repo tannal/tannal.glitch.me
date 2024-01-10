@@ -14,3 +14,8 @@ zulipchat
 discord
 
 overleaf
+
+netlify
+
+sliname
+

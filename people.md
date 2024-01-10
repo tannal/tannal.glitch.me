@@ -118,10 +118,7 @@ Oscar Dadfar http://graphics.cs.cmu.edu/people/odadfar/ CMU Graphics
 Scott Aaronson https://www.scottaaronson.com/ Computing Complexity
 
 
----
-title: People To Follow
-published_at: 2023-10-04
----
+
 
 ## Stage 6 (from 2023-11-10)
 
@@ -474,6 +471,15 @@ Dan Abramov https://twitter.com/dan_abramov
 
 
 # By Projects
+
+
+## Linux Kernel
+
+Tejun Heo facebook cgroup KERNFS per-cpu memory allocator workqueue
+
+https://www.cs.cmu.edu/~dskarlat/
+
+https://www.cs.cmu.edu/~caos/
 
 ## VSCode
 

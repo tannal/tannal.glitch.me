@@ -1,7 +1,42 @@
-# 2024-1-10 
+# 2024-1-10
+
+Judea Pearl's home page.
+
+all human inteligence is just a kind of memory, no logic, no "think", no anything.
+
+There is no other things than memory.
+
+It's all about how many and how fast you can "memory" things.
+
+base cases -> plausible reasoning -> truth or false
+
+self reference, recursion, and human brian
+
+given something -> create more things
 
 
-# reinstalling ubuntu 
+のみに　依存　する　仅仅依靠
+nomini izon suru
+じょうほう 情報
+jo u ho u
+
+nvidia dlss scaling to 4k 
+
+CUDA/Shading cores run graphics rendering pipeline
+ray tracing cores
+tensor cores
+
+ray tracing cores
+
+Tensor Cores dlss
+
+talk is cheap
+
+This explosion in computing power has let scientists build ANNs that learn to identify people in images, play chess, and even help doctors make medical diagnoses.
+
+still weak AI identify things in 
+
+## reinstalling ubuntu 
 
 ```bash
 

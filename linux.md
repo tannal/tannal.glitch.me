@@ -1,6 +1,14 @@
 
 # inbox
 
+NACk
+
+Russell King ARM Linux
+
+linaro 
+
+https://lore.kernel.org/lkml/20231111024835.2164816-1-tj@kernel.org/
+
 active directory fs/ include/linux/ include/net/ kernel/cgroup/ kernel/ mm/ net/ tools/testing/selftests/ sound/soc/ io_uring/
 
 drivers/ arch/ Documentation/
