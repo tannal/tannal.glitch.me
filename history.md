@@ -1,5 +1,110 @@
 # 2024-1-10
 
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+Chrome Canary 版
+https://www.google.com/chrome/canary/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0
+
+winget install chrome canvary - Google 搜索
+https://www.google.com.hk/search?q=winget+install+chrome+canvary&oq=winget+install+chrome+canvary&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDQ4NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Download and install Google Chrome Canary with winget
+https://winget.run/pkg/Google/Chrome.Canary
+
+winget hash does not match - Google 搜索
+https://www.google.com.hk/search?q=winget+hash+does+not+match&rlz=1C1GCEA_enCN1091CN1091&oq=winget+hash+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIKCAAQRRgTGB4YOTIJCAEQABgTGIAEMggIAhAAGBMYHjIICAMQABgTGB4yCggEEAAYCBgTGB4yCggFEAAYCBgTGB4yCggGEAAYCBgTGB4yCggHEAAYCBgTGB4yDAgIEAAYCBgKGBMYHjIKCAkQABgIGBMYHtIBCDQ1NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+`winget upgrade --force` does not continue if checksum validation fails · Issue #1812 · microsoft/winget-cli · GitHub
+https://github.com/microsoft/winget-cli/issues/1812
+
+winget install tor browser - Google 搜索
+https://www.google.com/search?q=winget+install+tor+browser&rlz=1C1GCEA_enCN1091CN1091&oq=winget+install+tor+browser&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKAB0gEINTE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Download and install Tor Browser with winget
+https://winget.run/pkg/TorProject/TorBrowser
+
+ShaderToy-Chrome-Plugin/CHANGELOG.md at master · patuwwy/ShaderToy-Chrome-Plugin · GitHub
+https://github.com/patuwwy/ShaderToy-Chrome-Plugin/blob/master/CHANGELOG.md
+
+Niklaus Wirth - Google 搜索
+https://www.google.com.hk/search?q=Niklaus+Wirth&rlz=1C1GCEA_enCN1091CN1091&oq=Niklaus+Wirth&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+尼克劳斯·维尔特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E5%8A%B3%E6%96%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%89%B9
+
+Oberon - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Oberon
+
+Tannal
+https://tannal.deno.dev/posts/people
+
+winget install rust - Google 搜索
+https://www.google.com/search?q=winget+install+rust&rlz=1C1GCEA_enCN1091CN1091&oq=winget+install+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyEwgFEC4YgwEYxwEYsQMY0QMYgAQyBwgGEAAYgAQyCggHEAAYsQMYgAQyEwgIEC4YgwEYxwEYsQMY0QMYgAQyDQgJEAAYgwEYsQMYgATSAQgyMTAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Download and install packages by The Rust Project Developers with winget
+https://winget.run/pkg/Rustlang
+
+Charles' View
+https://charlestsao.blogspot.com/
+
+Express "Hello World" example
+https://expressjs.com/en/starter/hello-world.html
+
+node.js - NODEJS process info - Stack Overflow
+https://stackoverflow.com/questions/15471555/nodejs-process-info
+
+linux networking stack tcp - Google 搜索
+https://www.google.com/search?q=linux+networking+stack+tcp&sca_esv=595946801&rlz=1C1GCEA_enCN1091CN1091&sxsrf=AM9HkKmF2am323EFGi2zLhm0jN6WlLc97A%3A1704458537633&ei=KfmXZfqeJpi1vr0P3O-GgAc&ved=0ahUKEwi6163tosaDAxWYmq8BHdy3AXAQ4dUDCBA&uact=5&oq=linux+networking+stack+tcp&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmxpbnV4IG5ldHdvcmtpbmcgc3RhY2sgdGNwMgUQIRigATIFECEYoAEyBRAhGKABSOUfUJoZWIgecAN4AZABAJgB3AKgAYkGqgEFMi0yLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIGEAAYCBge4gMEGAAgQYgGAZAGBw&sclient=gws-wiz-serp
+
+Linux kernel v2.6.20 network stackを読んでみる - IP受信編 #Linux - Qiita
+https://qiita.com/IK_PE/items/4d868e8940885f46e0da
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+tcp_output.c - net/ipv4/tcp_output.c - Linux source code (v6.7-rc8) - Bootlin
+https://elixir.bootlin.com/linux/v6.7-rc8/source/net/ipv4/tcp_output.c#L1242
+
+meson - Google 搜索
+https://www.google.com/search?q=meson&rlz=1C1GCEA_enCN1091CN1091&oq=meson&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHNjQ2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(1) Search results for query: "brilliant"
+https://tutflix.org/search/2094639/?q=%22brilliant%22&o=date
+
+(1) [EBook] The Ray Tracer Challenge - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-the-ray-tracer-challenge.8735/
+
+Subscribe | Brilliant
+https://brilliant.org/subscribe/?close_path=/welcome/where-to-start/
+
+10,464 riyuan - Google 搜索
+https://www.google.com/search?q=10%2C464+riyuan&sca_esv=596454746&rlz=1C1GCEA_enCN1091CN1091&sxsrf=AM9HkKkEWiUzgWU7MkIn6_OKzxVS70xBSQ%3A1704689548491&ei=jH-bZajPHcri2roP4b-CcA&ved=0ahUKEwioxfW3_8yDAxVKsVYBHeGfAA4Q4dUDCBA&uact=5&oq=10%2C464+riyuan&gs_lp=Egxnd3Mtd2l6LXNlcnAiDTEwLDQ2NCByaXl1YW5I1CVQoQxYxiJwAngAkAEAmAHsAaABvw2qAQUwLjEuN7gBA8gBAPgBAcICBhAAGAgYHsICBBAAGB7CAgYQABgFGB7CAgUQIRigAeIDBBgBIEGIBgE&sclient=gws-wiz-serp
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+192.168.43.95
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+Browsers Developer (Chromium focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_chromium_position#application
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=translate
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/6532a0c4b3a3654015c116bd
+
+tannall - Project - Deploy
+https://dash.deno.com/projects/tannall/settings
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
