@@ -1,6 +1,18 @@
 
 # inbox
 
+Luis Chamberlain Qualcomm
+
+Pankaj Raghav Samsung Electronics
+
+SGI Christoph Lameter
+
+Ryan Roberts - Director of Software Architecture - Arm
+
+https://github.com/ChinaLinuxKernel
+
+
+
 NACk
 
 Russell King ARM Linux

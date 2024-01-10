@@ -1,5 +1,40 @@
 # 2024-1-10
 
+Bazel CMake ninja auto-ninja 
+
+CMake -> ninja
+
+Cmake -> make
+
+Cmake -> bazel
+
+
+https://risingstars.js.org/2023/en
+
+Windows 10 微软输入法输入时，字母或数字之间间隔较大的问题。
+
+根据您的描述，这可能是输入法全半角设置的缘故导致的，
+
+您可以尝试右击任务栏输入法中英文切换图标，选择”全半角(半角)“，切换当前为”半角“，
+
+```bash
+
+sudo cp /lib/x86_64-linux-gnu/libgcc_s.so.1 lib/
+
+```
+
+```bash
+
+# build gcc
+
+wget https://ftp.tsukuba.wide.ad.jp/software/gcc/releases/gcc-13.2.0/gcc-13.2.0.tar.xz
+
+tar gcc-13.2.0.tar.xz
+
+
+
+```
+
 Judea Pearl's home page.
 
 all human inteligence is just a kind of memory, no logic, no "think", no anything.
