@@ -1,4 +1,8 @@
-# 2024-1-10
+# 2024-1-11
+
+lots of good information but no claims of any accuracy do your own research
+
+# 2024-1-10 1 | 1
 
 Bazel CMake ninja auto-ninja 
 
