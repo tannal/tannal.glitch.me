@@ -103,13 +103,15 @@ chmod +x init.sh
 
 ln -s ../linux ./linux
 
+cd ../kerneldev/
+
 # sudo apt-get update
 # sudo apt-get install -y bison flex libelf-dev cpio build-essential libssl-dev qemu-system-x86
 # launch
 qemu-system-x86_64 \
     -kernel ../linux/arch/x86/boot/bzImage \
     -initrd initramfs.img \
-    -append "console=ttyS0 root=/dev/ram ip=dhcp" \
+	-append "console=ttyS0 root=/dev/sr0 ip=dhcp" \
     -fsdev local,security_model=passthrough,id=fsdev0,path=share \
     -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare \
     -m 4G \
@@ -128,6 +130,24 @@ qemu-system-x86_64 \
 	-S -gdb tcp::6666 -append "console=ttyS0 nokaslr ip=dhcp" \
 	-m 4G \
     -serial mon:stdio
+
+
+qemu-img create -f qcow2 mydisk.img 20G
+
+
+qemu-system-x86_64 \
+    -kernel ../linux/arch/x86/boot/bzImage \
+    -initrd initramfs.img \
+    -append "console=ttyS0 root=/dev/ram ip=dhcp" \
+    -fsdev local,security_model=passthrough,id=fsdev0,path=share \
+    -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare \
+    -nographic \
+    -monitor none \
+    -S -gdb tcp::6666 -append "console=ttyS0 nokaslr ip=dhcp" \
+    -m 4G \
+    -serial mon:stdio \
+    -drive file=mydisk.img,format=qcow2
+
 
 # share.sh
 
@@ -626,6 +646,233 @@ sudo apt install screen
 
 screen /dev/pts/8
 
+
+```
+
+# build your own linux distro
+
+```bash
+
+
+wget https://cdn.kernel.org/pub/linux/kernel/v6.x/linux-6.7.tar.xz
+
+tar xvf linux-6.7.tar.xz
+
+cd linux-6.7
+
+https://github.com/maksimKorzh/msmd-linux/blob/main/config/kernel.cfg
+
+make oldconfig
+
+# glibc
+
+wget https://ftp.gnu.org/gnu/glibc/glibc-2.38.tar.gz
+
+tar xvf glibc-2.38.tar.gz
+
+cd glibc-2.38
+
+
+
+mkdir build
+mkdir GLIBC
+
+cd build
+
+sudo apt install gawk
+
+# llvm lld is not support for compiling glic
+sudo rm /usr/bin/ld
+sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
+
+
+../configure --prefix=
+
+make -j20
+
+make install DESTDIR=../GLIBC
+
+# sysroot
+
+cd /home/tannal/tannalwork/projects/distro
+
+mkdir sysroot
+
+cd sysroot
+
+mkdir usr
+
+cd ..
+
+cp -r glibc-2.38/GLIBC/* sysroot/
+
+ls sysroot/
+bin  etc  include  lib  libexec  sbin  share  var
+
+cp -r GLIBC/include/* sysroot/include/
+cp -r GLIBC/lib/* sysroot/lib/
+
+mkdir sysroot/usr
+rsync -a /usr/include sysroot
+
+ln -s ../include sysroot/usr/include
+ln -s ../lib sysroot/usr/lib
+
+cd /home/tannal/tannalwork/projects/distro
+
+
+git clone https://git.busybox.net/busybox/
+
+https://busybox.net/downloads/
+
+wget https://git.busybox.net/busybox/snapshot/busybox-1_36_1.tar.bz2
+
+tar xvjf busybox-1_36_1.tar.bz2
+
+cd busybox-1_36_1
+
+make defconfig
+
+CONFIG_SYSROOT="../sysroot"
+CONFIG_EXTRA_CFLAGS="-L../sysroot/lib"
+
+make CONFIG_PREFIX=$PWD/BUSYBOX install
+
+cd /home/tannal/tannalwork/projects/distro
+mkdir root
+
+cp -r sysroot/* root/
+
+
+rsync -a busybox-1_36_1/BUSYBOX/ root
+# rsync -a busybox-1_36_1/_install/ root
+
+cd root
+vim usr/bin/ldd
+
+#!/bin/sh
+
+rm linuxrc
+
+mkdir dev proc sys
+
+vim init
+
+cd etc
+
+vim network.sh
+touch inittab
+touch shell.sh
+touch resolv.conf
+history
+
+```bash
+# root/init
+#!/bin/sh
+
+dmesg -n 1
+
+clear
+
+echo "hello from init"
+
+mount -t devtmpfs none /dev
+mount -t proc none /proc
+mount -t sysfs none /sys
+
+for NETDEV in /sys/class/net/* ; do
+    DEV_NAME=$(basename "$NETDEV")
+    echo "Found network device $DEV_NAME"
+    ip link set "$DEV_NAME" up
+    [ "$DEV_NAME" != "lo" ] && udhcpc -b -i "$DEV_NAME" -s /etc/network.sh
+done
+
+exec /sbin/init
+
+
+# etc/network.sh
+
+#!/bin/sh
+
+ip addr add $ip/$mask dev $interface
+if [ "$router" ]; then
+	ip route add default via $router dev $interface
+fi
+
+if [ "$ip" ]; then
+	echo -e "DHCP configuration for device $interface"
+	echo -e "IP: \\e[1m$ip\\e[0m"
+	echo -e "mask: \\e[1m$mask\\e[0m"
+	echo -e "router: \\e[1m$router\\e[0m"
+fi
+
+
+# etc/inittab
+
+::sysinit:cat /etc/logo.txt
+::restart:/sbin/init
+::shutdown:sync
+::shutdown:umount -a
+::ctrlaltdel:/sbin/reboot
+::respawn:/bin/cttyhack /etc/shell.sh
+
+# etc/shell.sh
+
+sh
+
+# etc/resolv.conf
+namesever 8.8.8.8
+namesever 8.8.4.4
+nameserver 202.102.192.68
+nameserver 202.102.192.69
+
+ln -s lib lib64
+
+# grub
+
+mkdir -p iso/boot/grub
+touch iso/boot/grub/grub.cfg
+
+# grub.cfg
+
+set default=0
+set timeout=10
+insmod efi_gop
+insmod font
+if loadfont /boot/grub/fonts/unicode.pf2
+then
+  insmod gfxterm
+  set gfxmode-auto
+  set gfxpayload=keep
+  terminal_output gfxterm
+fi
+menuentry 'MONKEY SEE, MONKEY DO LINUX' --class os {
+  insmod gzio
+  insmod part_msdos
+  linux /boot/bzImage
+  initrd /boot/root.cpio.gz
+}
+
+cp linux-6.7/arch/x86_64/boot/bzImage iso/boot/
+
+cd root
+
+find . | cpio -o -H newc | gzip > ../iso/boot/root.cpio.gz
+
+
+cd ..
+
+sudo apt install xorriso mtools qemu-system-x86
+
+grub-mkrescue -o mylinux-core-glibc.iso ./iso
+
+qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
+
+qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
+
+
+
+```
 
 ```
 
