@@ -3,6 +3,84 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Google 翻译
+https://translate.google.com/?sl=zh-TW&tl=ja&op=translate
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+ChatGPT
+https://chat.openai.com/
+
+zando - Google 搜索
+https://www.google.com/search?q=zando&oq=zando+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzA3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Marco Porcaro android - Google 搜索
+https://www.google.com/search?q=Marco+Porcaro+android&sca_esv=597423413&sxsrf=ACQVn0_bWGQFyBZsjKokzVz1hqs5hcdEhg%3A1704950496921&ei=4HqfZf7lN_nd2roP0KiswAk&ved=0ahUKEwj-1enFy9SDAxX5rlYBHVAUC5gQ4dUDCBA&uact=5&oq=Marco+Porcaro+android&gs_lp=Egxnd3Mtd2l6LXNlcnAiFU1hcmNvIFBvcmNhcm8gYW5kcm9pZDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSPYNUJQDWOwMcAF4AJABAJgBkwKgAZwLqgEDMi02uAEDyAEA-AEBwgILEC4YgAQYywEYsAPCAgcQABgeGLADwgIEEAAYHuIDBBgBIEGIBgGQBgM&sclient=gws-wiz-serp#ip=1
+
+Chet Haase & Romain Guy: Modern Android Development - YouTube
+https://www.youtube.com/watch?v=QTs_eDAXksY&list=PL4ebO4PmeAi7MUNicINnxXjSo7l_gi--D&index=1
+
+Marton Braun - Google 搜索
+https://www.google.com/search?q=Marton+Braun&oq=Marton+Braun&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCQgJEAAYDRiABNIBCDM5NzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jobs at NVIDIA | NVIDIA Careers
+https://www.nvidia.com/en-us/about-nvidia/careers/
+
+Internships, University Recruiting, and Roles for New Grads | NVIDIA
+https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/
+
+CAREERS AT NVIDIA
+https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7
+
+CAREERS AT NVIDIA
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Computer-Architecture-Intern_JR1970235-1?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7
+
+Benefits for Interns | NVIDIA Benefits
+https://www.nvidia.com/en-us/benefits/interns/
+
+CAREERS AT NVIDIA
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern---Compiler-Technology_JR1976454?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7
+
+CAREERS AT NVIDIA
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Graphics-Tools-Software-Engineer-Intern_JR1973137?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&workerSubType=ab40a98049581037a3ada55b087049b7
+
+Cash App
+https://github.com/cashapp
+
+Cash App - Do more with your money
+https://cash.app/
+
+Discord
+https://discord.com/login?redirect_to=%2Fchannels%2F%40me
+
+telemetry协议 - Google 搜索
+https://www.google.com/search?q=telemetry%E5%8D%8F%E8%AE%AE&sca_esv=597423413&sxsrf=ACQVn0-my7fpn98uub4B20lqJs3IernyVA%3A1704951722926&ei=qn-fZYuXOOyOvr0PnseN6AY&oq=telemetry&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXRlbGVtZXRyeSoCCAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANImhZQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+我们如何招聘
+https://www.nvidia.cn/about-nvidia/careers/how-we-hire/
+
+Search our Job Opportunities at Intel - Intel Careers
+https://jobs.intel.com/en/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.ExperienceLevel%22,%22value%22:%22Intern%22%7D]
+
+Graduate Internship - Computer Engineering (MS/PhD) Job in Phoenix at Intel
+https://jobs.intel.com/en/job/phoenix/graduate-internship-computer-engineering-ms-phd/41147/59808895728
+
+Nvidia面试高频题汇总 Software Engineer - 2022 - 淘帖 | 一亩三分地
+https://www.1point3acres.com/bbs/forum.php?mod=collection&action=view&ctid=234508
+
+NVIDIA 电话面试小记（Compute Arch 方向） – Chuanqiz’s blog
+https://www.zangcq.com/2017/08/23/nvidia-%E7%94%B5%E8%AF%9D%E9%9D%A2%E8%AF%95%E5%B0%8F%E8%AE%B0%EF%BC%88compute-arch-%E6%96%B9%E5%90%91%EF%BC%89/
+
+英伟达 牛客 - Google 搜索
+https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE+%E7%89%9B%E5%AE%A2&oq=%E8%8B%B1%E4%BC%9F%E8%BE%BE+%E7%89%9B%E5%AE%A2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPdIBCDMyMjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+英伟达交流讨论-牛客网
+https://www.nowcoder.com/enterprise/930/discussion
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Outreachy | Internships Supporting Diversity in Tech - Outreachy
 https://www.outreachy.org/
 

@@ -1,5 +1,45 @@
 # 2024-1-11
 
+nodejs core concepts
+
+blocking non-blocking
+
+Node.js Event Loop, Timers, and process.nextTick()
+
+Don't block the Event Loop(or the Workder Pool)
+
+Timers in Node.js
+
+libuv c++ v8
+
+
+intel
+
+haigui
+
+Application Engineer
+SoC Design Engineer
+System Validation Engineer
+Data Scientist
+Software Engineer
+Cloud Software Engineer
+Graphics Software Engineer
+DevOps Software Development Engineer
+AI Software Solutions Engineer
+
+
+
+nvidia 
+Graphics Tools Software Engineer Intern
+Software Engineering Intern - Compiler Technology
+NVIDIA 2024 Internships: Computer Architecture Intern
+
+https://www.zangcq.com/2017/08/23/nvidia-%E7%94%B5%E8%AF%9D%E9%9D%A2%E8%AF%95%E5%B0%8F%E8%AE%B0%EF%BC%88compute-arch-%E6%96%B9%E5%90%91%EF%BC%89/
+
+telemetry协议
+
+https://aospandaaos.github.io/
+
 deno run -A --unstable server.ts
 
 import { core, internals, primordials } from "ext:core/mod.js";
