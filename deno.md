@@ -1,4 +1,9 @@
-# rust toolchain
+# inbox
+
+Deno[Deno.internal]
+
+@Luca can't code so you can't cross-compile Deno (or Node, I guess) because the build involves making V8 pre-compile the JS code that comes built into Deno (that implements the Deno APIs, for example), and the result is platform-specific
+so Deno releases versions for the platforms Github Actions supports, plus a Mac M2 build that has to be done manually with every release by someone in the Deno core team
 
 # team
 
@@ -23,6 +28,10 @@ rm -rf ~/.rustup/toolchains/1.75.0-x86_64-unknown-linux-gnu/
 # directory structure
 
 tools/ deno subcommand ex tools/info.rs -> deno info
+
+cli/ It's responsible for overseeing tasks such as module loading, security checks, and runtime environment management.
+
+![Alt text](image-3.png)
 
 # build run testing logging
 
@@ -76,6 +85,7 @@ Could not set npm package requirements. Error getting response at https://regist
 Server ready.
 
 ```
+
 
 
 # rust

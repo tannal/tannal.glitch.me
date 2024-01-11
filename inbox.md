@@ -1,5 +1,75 @@
 # 2024-1-11
 
+deno run -A --unstable server.ts
+
+import { core, internals, primordials } from "ext:core/mod.js";
+
+keep eyes on deno arm
+
+thinking is come up other ways to solve a problem when the previous attempt wasn't work.
+
+1. ask a question / or try it -> No
+
+2. ask another question/ or try another things
+
+then you are thinking between time 1 and time 2.
+Actually we don't care what's going on in your brain, we only care about what you did and what you ask and what you say and what you write.
+
+I think this is why people like chatgpt.
+
+Deno[Deno.internal]
+keep in mind that docs/classes/books/article/posts is always outdated.
+
+Andy Wingo, Igalia
+
+Ampere Computing By Renee James working on arm based server/workstation
+
+https://amperecomputing.com/careers/apply?p=job/ob7pqfwR&nl=1
+https://amperecomputing.com/careers/apply?p=job/oFNIqfwk&nl=1
+https://amperecomputing.com/careers/apply?p=job/obDHofwD&nl=1
+
+How to raise money/funding for a product? 
+
+```
+Can you help me go through some of the most used feature about future in rust with a example.
+
+explain the most important things, keep answer as short as posiible, please phrase your sentence well.
+
+```
+
+embedded networking linux kernel networking browser networking gaming networking datacenter networking
+
+raw cpu computing os computing language abstraction programming framework programming application programming
+
+parallel programming gpu programming graphics programming
+
+often startup needs to talk to client frequently, they feedback quick.
+
+and they will give talks about their product, which demenstrate the core ideas of the product(aka selling point)
+
+in the case of open source junior can learn a lot from it.
+
+CI has TIMEOUT [expected FAIL] which could be flake or CI problem.
+
+sudo apt install minicom
+
+minicom -D serial.pts
+
+diassemble /m
+
+0xc1698f80
+
+^x a
+
+pip install requests -U
+
+"TypeError: HTTPConnection.request() got an unexpected keyword argument 'chunked'" error while running AlphaFold
+
+change docker-compose to docker compose
+
+# 2024-1-10 
+# 2024-1-11
+
 lots of good information but no claims of any accuracy do your own research
 
 # 2024-1-10 1 | 1
