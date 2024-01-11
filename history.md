@@ -3,6 +3,168 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Outreachy | Opportunities with Sponsors - Outreachy
+https://www.outreachy.org/opportunities/
+
+Careers | DigitalOcean
+https://www.digitalocean.com/careers#anchor--current-openings
+
+tannal (tannal)
+https://github.com/tannal/
+
+Embedded Linux
+https://e-labworks.com/en/training/lem/
+
+Training
+https://e-labworks.com/en/training/
+
+Blog do Sergio Prado | Sistemas embarcados, Linux embarcado, Android e RTOS
+https://sergioprado.org/
+
+Can't get gdb to stop at breakpoint in Linux kernel running under Qemu - Stack Overflow
+https://stackoverflow.com/questions/61568572/cant-get-gdb-to-stop-at-breakpoint-in-linux-kernel-running-under-qemu
+
+Debugging linux kernel with GDB and Qemu · Yulistic.com
+https://yulistic.gitlab.io/2018/12/debugging-linux-kernel-with-gdb-and-qemu/
+
+gdb - how to prevent some values from being optimized out in linux kernel debugging? - Stack Overflow
+https://stackoverflow.com/questions/69447357/how-to-prevent-some-values-from-being-optimized-out-in-linux-kernel-debugging
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=discrepancy&op=translate
+
+linux内核禁止优化的设置_gdb 避免被编译优化-CSDN博客
+https://blog.csdn.net/liuyinggui163/article/details/126877114
+
+[2/4] kernel hacking: new config NO_AUTO_INLINE to disable compiler auto-inline optimizations - Patchwork
+https://patchwork.kernel.org/project/linux-arm-kernel/patch/20181018162548.6399-3-changbin.du@gmail.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+6.9 Sync OPs - The Internals of Deno
+https://choubey.gitbook.io/internals-of-deno/import-and-ops/5.8-sync-op#js-part
+
+SO2 Lecture 02 - System calls — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec2-syscalls.html
+
+Python (pip) - RequestsDependencyWarning: urllib3 (1.9.1) or chardet (2.3.0) doesn't match a supported version - Stack Overflow
+https://stackoverflow.com/questions/50202238/python-pip-requestsdependencywarning-urllib3-1-9-1-or-chardet-2-3-0-doe
+
+运行 AlphaFold 时出现“TypeError: HTTPConnection.request() 出现意外的关键字参数‘chunked’”错误 · 问题 #853 · google-deepmind/alphafold · GitHub
+https://github-com.translate.goog/google-deepmind/alphafold/issues/853?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=sc
+
+"TypeError: HTTPConnection.request() got an unexpected keyword argument 'chunked'" error while running AlphaFold · Issue #853 · google-deepmind/alphafold
+https://github.com/google-deepmind/alphafold/issues/853
+
+Symbol not defined when using gdb to debug the kernel. · Issue #329 · linux-kernel-labs/linux
+https://github.com/linux-kernel-labs/linux/issues/329
+
+Audience - The Internals of Deno
+https://choubey.gitbook.io/internals-of-deno/audience
+
+Linux下GDB简明教程（包括GUI模式）_gdbgui 修改代码-CSDN博客
+https://blog.csdn.net/whahu1989/article/details/85205905
+
+Improve Writing Quality Focus
+https://chat.openai.com/c/f72f05d4-f77d-4cb8-80c3-5c83ca48991b
+
+GDB Command Reference - disassemble command
+https://visualgdb.com/gdbreference/commands/disassemble
+
+Chromium OS Docs - Linux System Call Table
+https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+
+create-react-app/packages/babel-preset-react-app at main · facebook/create-react-app
+https://github.com/facebook/create-react-app/tree/main/packages/babel-preset-react-app
+
+npm color log - Google 搜索
+https://www.google.com/search?q=npm+color+log&rlz=1C1GCEA_enJP1090JP1090&oq=npm+color&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDYxNjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+#general > Flaky `paint-api` tests - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Flaky.20.60paint-api.60.20tests
+
+flaky tests - Google 搜索
+https://www.google.com/search?sca_esv=597380833&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-_upfUbAvWVB8doKKHsOHaRtXo6Q:1704934736578&q=flaky+tests&spell=1&sa=X&ved=2ahUKEwiv3trqkNSDAxWLm68BHf76APUQBSgAegQICBAC&biw=1536&bih=738&dpr=1.25
+
+denoland/deno-docs: Docusaurus site for a unified Deno docs experience
+https://github.com/denoland/deno-docs
+
+GitHub - Wikipedia
+https://en.wikipedia.org/wiki/GitHub
+
+• Discord | #general | Deno
+https://discord.com/channels/684898665143206084/684898665151594506/1038554912688193606
+
+Not implemented: Http2Session.socket · Issue #20903 · denoland/deno
+https://github.com/denoland/deno/issues/20903
+
+Building for arm64 · Issue #1846 · denoland/deno
+https://github.com/denoland/deno/issues/1846
+
+Releases · LukeChannings/deno-arm64
+https://github.com/LukeChannings/deno-arm64/releases
+
+ADLINK’s Ampere® Altra® Developer Platform suffices all-around cloud-to-edge computing with up to 80 Arm v8.2 64-bit cores
+https://www.adlinktech.com/en/News/com-hpc-ampere-altra-developer-platform-arm-sr
+
+Apply
+https://amperecomputing.com/careers/apply?p=search%3Fc%3D%26l%3D%26q%3D
+
+Apply
+https://amperecomputing.com/careers/apply?p=job/oFNIqfwk&nl=1
+
+Apply
+https://amperecomputing.com/careers/apply?p=job/ob7pqfwR&nl=1
+
+Apply
+https://amperecomputing.com/careers/apply?p=job/obDHofwD&nl=1
+
+Cross-Platform Mobile App igalia - Google 搜索
+https://www.google.com/search?q=Cross-Platform+Mobile+App+igalia&sca_esv=597380833&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=738&tbm=vid&sxsrf=ACQVn0-9iizZIGz0HtcuYLqPrOyGOprY9A%3A1704939051510&ei=K06fZZPoHqKzvr0Ph_-A8AE&ved=0ahUKEwjTqZ30oNSDAxWima8BHYc_AB4Q4dUDCA0&uact=5&oq=Cross-Platform+Mobile+App+igalia&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIiBDcm9zcy1QbGF0Zm9ybSBNb2JpbGUgQXBwIGlnYWxpYTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSLYHUABYxAZwAHgAkAEBmAGwAqABlwmqAQcwLjEuMy4xuAEDyAEA-AEBwgIEECMYJ8ICCBAAGIAEGMsBwgIEEAAYHogGAQ&sclient=gws-wiz-video
+
+Cross-platform UI Engines Rendering Performance - Andy Wingo, Igalia - YouTube
+https://www.youtube.com/watch?v=r6ctxZphtkI
+
+192.168.43.95
+http://192.168.43.95:3000/runtime/manual/references/contributing/
+
+deno/ext/console at v1.20 · denoland/deno
+https://github.com/denoland/deno/tree/v1.20/ext/console
+
+chore(tools): Add core import-map by aapoalas · Pull Request #19346 · denoland/deno
+https://github.com/denoland/deno/pull/19346
+
+fix(repl): remove stray debug log by bartlomieju · Pull Request #21635 · denoland/deno
+https://github.com/denoland/deno/pull/21635/files
+
+denoland/rusty_v8: Rust bindings for the V8 JavaScript engine
+https://github.com/denoland/rusty_v8
+
+Building for arm64 · Issue #1846 · denoland/deno
+https://github.com/denoland/deno/issues/1846
+
+crowlKats (Leo Kettmeir)
+https://github.com/crowlKats?tab=repositories
+
+Releases · crowlKats/deno
+https://github.com/crowlKats/deno
+
+Index of /
+http://192.168.43.95:8080/
+
+run arm on x86 docker - Google 搜索
+https://www.google.com/search?q=run+arm+on+x86+docker&rlz=1C1GCEA_enJP1090JP1090&oq=run+arm+on+x86+docker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBge0gEIOTc5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 msmd-linux/run.sh at main · maksimKorzh/msmd-linux
 https://github.com/maksimKorzh/msmd-linux/blob/main/run.sh
 
