@@ -1,4 +1,18 @@
-# 2024-1-12 0 | 0
+# 2024-1-12 1 | 1
+
+corpus 
+
+ls /include/ -lash
+
+Why AI need "so many data" training, because human has evolved approximately 200,000 years.
+
+And the default prarameter for human is in their DNA.
+
+thoughts on replace the default yjs-demo use contenteditable for local sharing
+
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+text and images 
 
 https://twitter.com/servodev
 

@@ -1,5 +1,161 @@
 # 2024-1-11
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Rebase Master Branch Git
+https://chat.openai.com/c/834e648a-4354-4dbc-bd43-8559937e8411
+
+(4) Home / X
+https://twitter.com/home
+
+Next AI News
+https://next-ai-news.vercel.app/search?q=remote
+
+Next AI News
+https://next-ai-news.vercel.app/item/TL3eA636JndT
+
+(3) Facebook
+https://www.facebook.com/shiwulo
+
+• Discord | #announcements | Zig Programming Language
+https://discord.com/channels/605571803288698900/1022628803329142816
+
+irbull (Ian Bull)
+https://github.com/irbull
+
+(4) Servo (@ServoDev) / X
+https://twitter.com/servodev
+
+(4) Linux Foundation Europe (@LF_Europe) / X
+https://twitter.com/LF_Europe
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Rust, not Firefox, is Mozilla's greatest industry contribution | TechRepublic
+https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/
+
+Reddit - Dive into anything
+https://www.reddit.com/?signup_survey=true
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+(2) #general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79b
+
+Heap in mozjs_sys::jsgc - Rust
+https://doc.servo.org/mozjs_sys/jsgc/struct.Heap.html#method.boxed
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Remove create_typed_array from dom/bindings · Issue #31050 · servo/servo
+https://github.com/servo/servo/issues/31050
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files
+
+WebIDL impl: Replace use of NonNull<JSObject> with TypedArray · Issue #30889 · servo/servo
+https://github.com/servo/servo/issues/30889
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79bR231
+
+servo/components/script/dom/xrview.rs at 355567186400d0531657d0eedda7625de9d0e93a · servo/servo
+https://github.com/servo/servo/blob/355567186400d0531657d0eedda7625de9d0e93a/components/script/dom/xrview.rs#L28
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2023-12-01&to=2023-12-31
+
+Implement Clipboard API and events · Issue #31024 · servo/servo
+https://github.com/servo/servo/issues/31024
+
+Stack Overflow Developer Survey 2023
+https://survey.stackoverflow.co/2023/#ai
+
+Intro to Language Models | Brilliant
+https://brilliant.org/courses/how-llms-work/chapter-1/intro-to-language-models/2/?courseSlug=how-llms-work&chapterSlug=chapter-1&lessonSlug=intro-to-language-models
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+how long human history is - Google 搜索
+https://www.google.com/search?q=how+long+human+history+is&sca_esv=597734025&sxsrf=ACQVn08Uri_LxBpev4NOf47gQKdyHX_APA%3A1705042164994&ei=9OCgZfSkPI7e2roP8c-z4AI&ved=0ahUKEwj07siEodeDAxUOr1YBHfHnDCwQ4dUDCBA&uact=5&oq=how+long+human+history+is&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWhvdyBsb25nIGh1bWFuIGhpc3RvcnkgaXMyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjQK1D8CFjRKnACeAGQAQCYAccBoAG1DaoBAzAuObgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICCBAAGAgYHhgK4gMEGAAgQYgGAZAGAQ&sclient=gws-wiz-serp
+
+Generative artificial intelligence - Wikipedia
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+how to reset course progress brilliant - Google 搜索
+https://www.google.com/search?q=how+to+reset+course+progress+brilliant&sca_esv=597734025&sxsrf=ACQVn09sJjuZiO-FtROLRGrMRQ_bTboZ-g%3A1705042767144&ei=T-OgZf69CKuXvr0PkeO6kAY&oq=How+To+Reset+Course+Progress+br&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0hvdyBUbyBSZXNldCBDb3Vyc2UgUHJvZ3Jlc3MgYnIqAggAMgcQIRgKGKABMgcQIRgKGKABSP0aUMgCWNURcAF4AZABAJgBrwKgAdEHqgEFMi0zLjG4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIFECEYoAHiAwQYACBBiAYBkAYJ&sclient=gws-wiz-serp
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+servo/fontsan: Sanitiser for untrusted font files
+https://github.com/servo/fontsan#29e879c8
+
+Ppaste - A simple pastebin
+https://ppaste.deno.dev/
+
+native-toolkit/libtinyfiledialogs
+https://github.com/native-toolkit/libtinyfiledialogs
+
+apt autoremove - Google 搜索
+https://www.google.com/search?q=apt+autoremove&sca_esv=597744388&sxsrf=ACQVn0-WGnuMB4L8CIrwTRYjhmJKY892nw%3A1705044475039&ei=-umgZd3mOqfM1e8PwLydoAU&ved=0ahUKEwjdy4bSqdeDAxUnZvUHHUBeB1QQ4dUDCBA&uact=5&oq=apt+autoremove&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmFwdCBhdXRvcmVtb3ZlMgoQABiABBiKBRhDMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSOeuA1DgmANYkK4DcAJ4AZABAJgB3gGgAd4UqgEFMC40Ljm4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBBAjGCfCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIOEC4YgAQYxwEY0QMY1ALCAhAQLhiABBiKBRhDGMcBGNEDwgIHEAAYgAQYDOIDBBgAIEGIBgGQBgY&sclient=gws-wiz-serp
+
+how do I eliminate unused packages in version 15.04 - Ask Ubuntu
+https://askubuntu.com/questions/630787/how-do-i-eliminate-unused-packages-in-version-15-04
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+what does /include do - Google 搜索
+https://www.google.com/search?q=what+does+%2Finclude+do&oq=what+does+%2Finclude+do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHtIBCDc0MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How to query the default include paths of clang++? - Stack Overflow
+https://stackoverflow.com/questions/23654168/how-to-query-the-default-include-paths-of-clang
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+intellij idea - How can I fix unused imports in Rust automatically? - Stack Overflow
+https://stackoverflow.com/questions/61077692/how-can-i-fix-unused-imports-in-rust-automatically
+
+Compare · servo/servo
+https://github.com/servo/servo/compare
+
+Reset Progress on a Course, Path, or Exercise – Codecademy Help Center
+https://help.codecademy.com/hc/en-us/articles/220444588-Reset-Progress-on-a-Course-Path-or-Exercise
+
+corpus - Google 搜索
+https://www.google.com/search?q=corpus&oq=corpus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+servo/mozjs: Servo's SpiderMonkey fork
+https://github.com/servo/mozjs
+
+pdfgrep
+https://pdfgrep.org/
+
 (3) 2023 年系統軟體系列課程討論區 | Facebook
 https://www.facebook.com/groups/system.software2023
 
