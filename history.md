@@ -1,3 +1,86 @@
+# 2024-1-11
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+Judea Pearl (@yudapearl) / X
+https://twitter.com/yudapearl
+
+Transmission Control Protocol - Wikipedia
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+
+htejun (Tejun Heo)
+https://github.com/htejun
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+QEMU/Options - Gentoo Wiki
+https://wiki.gentoo.org/wiki/QEMU/Options#Hard_drive
+
+create your own debian distro - Google 搜索
+https://www.google.com/search?q=create+your+own+debian+distro&rlz=1C1GCEA_enCN1091CN1091&oq=create+your+own+debian+d&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQg1Nzk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+How to easily build your own Linux Distro? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/87011/how-to-easily-build-your-own-linux-distro
+
+Read LFS Online
+https://www.linuxfromscratch.org/lfs/read.html
+
+index | Alpine Linux
+https://www.alpinelinux.org/
+
+Linux Tutorial: POSIX Threads
+https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
+
+Node.js HTTP Module
+https://www.w3schools.com/nodejs/nodejs_http.asp
+
+Márton Braun @zsmb13@androiddev.social (@zsmb13) / X
+https://twitter.com/zsmb13
+
+Retrofit meets coroutines - zsmb.co
+https://zsmb.co/retrofit-meets-coroutines/
+
+aosp event comunity - Google 搜索
+https://www.google.com/search?q=aosp+event+comunity&rlz=1C1GCEA_enCN1091CN1091&oq=aosp+event+comunity&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEJMTI3NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+About | The AOSP and AAOS Meetup
+https://aospandaaos.github.io/
+
+RPC Binder - AOSP/AAOS meetup (July 2023)
+https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-dbrazdil-rpc-binder.pdf
+
+编译 aosp - Google 搜索
+https://www.google.com/search?q=%E7%BC%96%E8%AF%91+aosp&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BC%96%E8%AF%91+aosp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMggIAhAAGAUYHjIICAMQABgFGB4yCggEEAAYBRgMGB4yCAgFEAAYBRgeMggIBhAAGAUYHjIKCAcQABgFGAwYHjIICAgQABgIGB4yCggJEAAYCBgKGB7SAQgyNDc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+史上最简最全，Android AOSP源码阅读+编译环境这一篇就够了 - 知乎
+https://zhuanlan.zhihu.com/p/574856795
+
+(2) Resources
+https://tutflix.org/resources/
+
+(2) DesignCourse - Advanced Frontends by Gary Simon - TutFlix - Free Education Community
+https://tutflix.org/resources/designcourse-advanced-frontends-by-gary-simon.10462/
+
+Loading... | Linkvertise
+https://linkvertise.com/238030/advanced-frontend?o=sharing
+
+Reddit - Dive into anything
+https://www.reddit.com/
+
+MarybethGasman (Gasman)
+https://github.com/MarybethGasman
+
+Node.jsでTop-Level Awaitを試す #JavaScript - Qiita
+https://qiita.com/n0bisuke/items/b2236f56437f71db8aff
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+(2) meng Alan (@mengAlan1) / X
+https://twitter.com/mengAlan1
+
 # 2024-1-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

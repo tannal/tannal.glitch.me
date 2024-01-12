@@ -1,9 +1,16 @@
 # 2024-1-12 0 | 0
 
+All software eventually died or become legacy.
+
+3 5 8 10
+
+The better you design it when it's not large(there is no so much devs around this project) determine how far it can go.
 
 w3c css working group whatwg
 
-os syscall -> std library -> thirdparty library -> framework -> application
+os syscall -> std library -> thirdparty library -> framework -> application C/C++/
+
+os syscall -> prgramming language runtime -> std library -> thirdparty libarary -> framework -> application 
 
 It's all about how much you can get. logical reasoning is useless, pointless, and useless.
 
