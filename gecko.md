@@ -1,7 +1,9 @@
 
 # Get the code, build, run, debug, logging, lsp
 
-mercurial
+firefox use mercurial instead of git for versioning control.
+
+https://survey.stackoverflow.co/2023/
 
 mach
 

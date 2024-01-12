@@ -1,6 +1,12 @@
 # 2024-1-12 0 | 0
 
+https://twitter.com/servodev
+
 All software eventually died or become legacy.
+
+https://www.infinitech-intl.com/en/page/careers
+
+https://next-ai-news.vercel.app/search?q=remote
 
 3 5 8 10
 
