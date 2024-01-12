@@ -1,5 +1,22 @@
 # 2024-1-12 0 | 0
 
+focus on things change slowly in 3-5 years cuda pytorch stable things matter
+
+don't working on things would complete change in a year. eg. js frameworks
+
+low level language C and assembly and machine code (knowledge of computer systems)
+
+high level language C++ Rust Golang (knowledge of language abstractions and computer systems)
+
+This is /run/systemd/resolve/stub-resolv.conf managed by man:systemd-resolved(8).
+
+https://en.wikipedia.org/wiki/Systemd
+https://github.com/systemd/systemd
+systemd.io
+
+
+so I can say that systemd has a service for dns lookup
+
 ```bash
 
 git switch main

@@ -5,11 +5,10 @@ Deno[Deno.internal]
 @Luca can't code so you can't cross-compile Deno (or Node, I guess) because the build involves making V8 pre-compile the JS code that comes built into Deno (that implements the Deno APIs, for example), and the result is platform-specific
 so Deno releases versions for the platforms Github Actions supports, plus a Mac M2 build that has to be done manually with every release by someone in the Deno core team
 
-# team
-
 Deno, where there are only about 25 full-time employees.
 
 having what I do every day visibly contribute to the company’s trajectory.
+
 
 ```bash
 
@@ -25,6 +24,13 @@ rustup default nightly
 rm -rf ~/.rustup/toolchains/1.75.0-x86_64-unknown-linux-gnu/
 
 ```
+
+
+feat(lsp): allow to connect V8 inspector (denoland#21482)
+https://github.com/tannal/deno/commit/cdbf902499dc62a4fb9f8cbf2a47a7b446623929
+
+
+
 # directory structure
 
 tools/ deno subcommand ex tools/info.rs -> deno info
