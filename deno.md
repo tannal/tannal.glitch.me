@@ -69,6 +69,17 @@ cargo test tsc
 ```
 # deno lsp
 
+deno_tsc 00_typescript.js
+
+vscode_deno/client/src/commands.ts startLanguageServer
+
+vscode has language client and many interrnal language server
+
+vscode_deno use the deno cli is a language server
+
+
+extensions/typescript-language-features
+extensions/css-language-features/client/src/browser/cssClientMain.ts
 
 
 

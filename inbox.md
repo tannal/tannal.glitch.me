@@ -1,4 +1,20 @@
-# 2024-1-11
+# 2024-1-12 0 | 0
+
+```bash
+
+git switch main
+git pull
+
+git switch dev
+git stash
+git rebase main
+
+```
+
+cloudflare images
+
+# 2024-1-11 0 | 0
+
 
 nodejs core concepts
 
@@ -40,6 +56,7 @@ telemetry协议
 
 https://aospandaaos.github.io/
 
+>>>>>>> 4b33400aa78a61c6a5edb2ec9b49d7134381e14d
 deno run -A --unstable server.ts
 
 import { core, internals, primordials } from "ext:core/mod.js";
