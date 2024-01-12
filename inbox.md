@@ -1,5 +1,77 @@
 # 2024-1-12 0 | 0
 
+
+w3c css working group whatwg
+
+os syscall -> std library -> thirdparty library -> framework -> application
+
+It's all about how much you can get. logical reasoning is useless, pointless, and useless.
+
+```bash
+
+
+> tannal-web-app@0.0.1 build /home/tannal/tannalwork/projects/tannal.web.app
+> astro check && astro build
+
+16:16:37 [check] Getting diagnostics for Astro files in /home/tannal/tannalwork/projects/tannal.web.app...
+src/firebase/client.ts:21:7 - warning ts(6133): 'analytics' is declared but its value is never read.
+
+21 const analytics = getAnalytics(app);
+         ~~~~~~~~~
+
+Result (13 files): 
+- 0 errors
+- 0 warnings
+- 1 hint
+
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/LICENSE found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/firebase-debug.log found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-1.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-2.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-3.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-4.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [build] output: "static"
+16:16:39 [build] directory: /home/tannal/tannalwork/projects/tannal.web.app/dist/
+16:16:39 [build] Collecting build info...
+16:16:39 [build] ✓ Completed in 15ms.
+16:16:39 [build] Building static entrypoints...
+[Shiki] The language "llvm" doesn't exist, falling back to "plaintext".
+[Shiki] The language "patch" doesn't exist, falling back to "plaintext".
+[Shiki] The language "llvm" doesn't exist, falling back to "plaintext".
+16:16:42 [ERROR] [vite] [vite]: Rollup failed to resolve import "image-4.png" from "/home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/node.md".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+[vite]: Rollup failed to resolve import "image-4.png" from "/home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/node.md".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+  Stack trace:
+    at viteWarn (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/vite@5.0.10/node_modules/vite/dist/node/chunks/dep-R0I0XnyH.js:66953:27)
+    at onwarn (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/vite@5.0.10/node_modules/vite/dist/node/chunks/dep-R0I0XnyH.js:66698:13)
+    at Object.logger [as onLog] (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/rollup@4.9.0/node_modules/rollup/dist/es/shared/node-entry.js:19023:9)
+    at file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/rollup@4.9.0/node_modules/rollup/dist/es/shared/node-entry.js:17927:26
+ ELIFECYCLE  Command failed with exit code 1.
+
+```
+
+testing error handling logging 
+
+```sh
+vim .bashrc
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+```
+
+
+
+astro vite rollup -> 
+
+vscode ssh tunning port forwarding
+
+
 focus on things change slowly in 3-5 years cuda pytorch stable things matter
 
 don't working on things would complete change in a year. eg. js frameworks
@@ -33,6 +105,7 @@ cloudflare images
 # 2024-1-11 0 | 0
 
 
+>>>>>>> 2f88cdb624e2648c960ce93d394c89ba080e0e00
 nodejs core concepts
 
 blocking non-blocking
