@@ -1,4 +1,26 @@
-# 2024-1-13 1+1 | 1+1
+# 2024-1-13 1+1+1 | 1+1
+
+
+
+.td files are processed by TableGen to generate C++ code
+
+https://github.com/llvm/llvm-project/pull/73249/files/79d0d90084ac97b9b94dbc2097ec5af5a3175caa#diff-2deca338e2f37069696eec352bba6457e98cdbe46c767245b92343a7a5fbaf48
+
+lldb is slow than gdb https://stackoverflow.com/questions/59734549/lldb-breakpoints-performance-what-should-i-expect
+
+math judge math things
+
+math things is tiny of the reality (very small subset)
+
+https://web.stanford.edu/class/archive/cs/cs110/cs110.1182/autumn-2017/lectures/
+
+https://web.stanford.edu/class/archive/cs/cs110/cs110.1182/autumn-2017/slides-handouts.html
+
+cat /proc/sys/fs/inotify/max_user_watches
+
+sudo sysctl -w fs.inotify.max_user_watches=131072
+
+sudo swapoff -a
 
 .debug_str 
 .debug_line
@@ -734,13 +756,13 @@ sudo apt install lld
 
 sudo rm /usr/bin/ld
 
-sudo ln -s /usr/bin/lld /usr/bin/ld
+sudo ln -sfn /usr/bin/lld /usr/bin/ld
 sudo ln -s x86 /usr/bin/ld
 
 
 
 
-sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
+sudo ln -sfn x86_64-linux-gnu-ld /usr/bin/ld
 
 strace -e execve lld
 strace -e execve ld
