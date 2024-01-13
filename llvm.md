@@ -122,9 +122,15 @@ git clone --depth 1 https://github.com/llvm/llvm-project.git
 
 cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Release' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 
-cd build
 
-ninja
+cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Debug' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DLLVM_BUILD_LLVM_DYLIB=ON -DLLVM_LINK_LLVM_DYLIB=ON -DCMAKE_C_FLAGS_DEBUG="-g3 -Og" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -Og"
+
+
+ninja -C build
+
+# add_flag_if_supported("-fno-lifetime-dse" CMAKE_CXX_FLAGS)
+
+helpful diagnostics
 
 ln -s /build/compile_commands.json compile_commands.json
 

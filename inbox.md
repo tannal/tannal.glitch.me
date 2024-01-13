@@ -1,5 +1,11 @@
 # 2024-1-13 1+1 | 1+1
 
+.debug_str 
+.debug_line
+.debug_abbrev 
+.debug_info 
+.debug_aranges
+
 There is no perfect people.
 
 sometimes ai knows, sometime ai doesn't, it's like human.
