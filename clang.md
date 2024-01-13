@@ -4,6 +4,15 @@
 
 
 
+clang/include/clang/Basic/TokenKinds.def
+
+clang/include/clang/Parse/Parser.h
+
+
+C99_KEYWORD(inline                      , KEYCXX|KEYGNU)
+KEYWORD 
+
+
 ```cpp
 // add.c
 
@@ -40,7 +49,9 @@ sudo apt install gcc g++
 
 mkdir -p out/debug
 
-cmake -S llvm -B out/debug -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Debug' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DLLVM_BUILD_LLVM_DYLIB=ON -DLLVM_LINK_LLVM_DYLIB=ON -DCMAKE_C_FLAGS_DEBUG="-g3 -Og" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -Og"
+cmake -S llvm -B out/debug -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Debug' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DLLVM_BUILD_LLVM_DYLIB=ON -DLLVM_LINK_LLVM_DYLIB=ON -DCMAKE_C_FLAGS_DEBUG="-g3 -Og" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -Og"
+
+ninja -C out/debug clean
 
 ninja -C out/debug
 

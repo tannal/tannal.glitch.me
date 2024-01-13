@@ -1,5 +1,158 @@
 # 2024-1-12
 
+clang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+Remove create_typed_array from dom/bindings · Issue #31050 · servo/servo
+https://github.com/servo/servo/issues/31050
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076
+
+mozjs/mozjs/src/typedarray.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs/src/typedarray.rs#L146
+
+WebIDL: use TypedArray · Issue #31064 · servo/servo
+https://github.com/servo/servo/issues/31064
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077/files
+
+• Discord | #announcements | Vite Land
+https://discord.com/channels/804011606160703521/861595956143587369
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Preprocessing | Brilliant
+https://brilliant.org/courses/how-llms-work/chapter-2/pre-tokenization/2/
+
+EleutherAI/pythia-12b · Hugging Face
+https://huggingface.co/EleutherAI/pythia-12b
+
+Tmux has forever changed the way I write code. - YouTube
+https://www.youtube.com/watch?v=DzNmUNvnB04
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=Plagiarism%20detection&op=translate
+
+naming is creativity - Google 搜索
+https://www.google.com/search?q=naming+is+creativity&oq=naming+is+creati&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE1NjMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+3.pdf
+https://web.stanford.edu/~jurafsky/slp3/3.pdf
+
+(PDF) A Corpus-driven Analysis of Taylor Swift’s Song Lyrics
+https://www.researchgate.net/publication/371175281_A_Corpus-driven_Analysis_of_Taylor_Swift's_Song_Lyrics
+
+Plagiarism detection - Google 搜索
+https://www.google.com/search?q=Plagiarism+detection&oq=Plagiarism+detection&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(4) takahiro(John Smith) (@superhoge) / X
+https://twitter.com/superhoge
+
+(4) Wu Yuwei 吳昱緯 on X: "After three years, three versions of Visual Studio tools, two LLVMs, tons of pythons, and same pip packages in different paths. I finally built spider monkey on Windows that can be used by Servo. Building C++ project surely is something. 😂 https://t.co/wGrgp0NB7T" / X
+https://twitter.com/Yu_Wei_Wu/status/1743572507171623270
+
+feat: add `MOZJS_MIRROR` and `MOZJS_CREATE_MIRROR` env variables by wusyong · Pull Request #445 · servo/mozjs
+https://github.com/servo/mozjs/pull/445
+
+Takahiro
+https://takahirox.github.io/
+
+tannal.web.app/posts/people/
+https://tannal.web.app/posts/people/
+
+树莓派串口的使用 - 知乎
+https://zhuanlan.zhihu.com/p/106904186
+
+swc-project/swc: Rust-based platform for the Web
+https://github.com/swc-project/swc
+
+swc
+https://github.com/swc-project
+
+• Discord | #compiler-devel | Zig Programming Language
+https://discord.com/channels/605571803288698900/785499283368706060
+
+Intro to 2D Gamedev with Mach Engine - SYCL.it
+https://sycl.it/agenda/workshops/intro-to-2d-gamedev/
+
+Getting Started – SWC
+https://swc.rs/docs/getting-started
+
+AST explorer
+https://astexplorer.net/
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en
+
+ChatGPT
+https://chat.openai.com/c/94888f2f-7275-402c-ba3b-9ba0ab456151
+
+pnpm/pnpm: Fast, disk space efficient package manager
+https://github.com/pnpm/pnpm
+
+hexops/mach: zig game engine & graphics toolkit
+https://github.com/hexops/mach
+
+消費者物価指数 2023 - Google 搜索
+https://www.google.com/search?sca_esv=598025872&sxsrf=ACQVn0-id6KNm--a5oJzaAQ3XN_v1rw52g:1705119902166&q=%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0+2023&sa=X&ved=2ahUKEwirqMXQwtmDAxUeslYBHVA4AQoQ1QJ6BAgoEAE&biw=1280&bih=593&dpr=1.5
+
+我国 12 月 CPI 同比降 0.3%，全年涨 0.2%，PPI 同比降 2.7%，如何解读？ - 知乎
+https://www.zhihu.com/question/639164159
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Build error with clang: unknown argument: '-flifetime-dse=1' · Issue #113 · RcppCore/RcppParallel
+https://github.com/RcppCore/RcppParallel/issues/113
+
+c++ - clang: error: unknown argument: '-fno-leading-underscore' - Stack Overflow
+https://stackoverflow.com/questions/63301504/clang-error-unknown-argument-fno-leading-underscore
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+• Discord | #clang | LLVM
+https://discord.com/channels/636084430946959380/636732781086638081
+
+debuginfo - Google 搜索
+https://www.google.com/search?q=debuginfo&sca_esv=598048361&tbm=vid&sxsrf=ACQVn09uQtnZgucWTdnLeU0rrOQfAB1zYw:1705125358513&source=lnms&sa=X&ved=2ahUKEwinqqr61tmDAxXhi68BHUnKD7QQ_AUoBHoECAIQBg&biw=1280&bih=593&dpr=1.5
+
+Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All? - Greg Law - CppCon 2022 - YouTube
+https://www.youtube.com/watch?v=l3h7F9za_pc
+
+GCC -g 参数 - GCC 简明教程 | 宅学部落
+https://www.zhaixue.cc/gcc/gcc-g.html
+
+Building LLVM with CMake — LLVM 18.0.0git documentation
+https://llvm.org/docs/CMake.html
+
+does golang need preprocessing - Google 搜索
+https://www.google.com/search?q=does+golang+need+preprocessing&oq=does+golang+need+preprocc&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEINTczNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?q=is%3Aissue+is%3Aopen+%5BOpenMP%5D+build+error
+
+红米手机录音文件夹 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E5%A4%B9&sca_esv=598058618&sxsrf=ACQVn09pUGdr-hhCWdbs6sysDvObCRziPQ%3A1705127591301&ei=py6iZfaFEuP01e8PgsSN2AY&ved=0ahUKEwi29YCj39mDAxVjevUHHQJiA2sQ4dUDCBA&uact=5&oq=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E5%A4%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-e6ouexs-aJi-acuuW9lemfs-aWh-S7tuWkuTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI6RZQ3gVY6hRwAXgBkAEAmAHhAaABpQ2qAQMyLTi4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYiQUYogTiAwQYACBBiAYBkAYD&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
