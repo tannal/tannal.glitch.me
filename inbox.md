@@ -1,6 +1,20 @@
 # 2024-1-13 1+1+1 | 1+1
 
+javascript spidermoney javascriptcore v8 quickjs babel
 
+typescript swc twc tsc
+
+C/C++ gcc clang
+
+rust rustcc
+
+go go
+
+markdown
+
+HTML/CSS 
+
+https://astexplorer.net/
 
 .td files are processed by TableGen to generate C++ code
 

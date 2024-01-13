@@ -1,5 +1,16 @@
 
 
+int[] ArrayType
+
+int* Pointertype
+
+int BuiltinType
+
+
+clang -c -Xclang -ast-dump local/add.c
+
+AST is mostly immutable. exception c++ template
+
 sudo apt install libc++-12-dev libstdc++-12-dev
 
 provide helpful Diagnostics message is important for comipler frontend

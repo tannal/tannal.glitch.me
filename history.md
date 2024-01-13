@@ -1,5 +1,161 @@
 # 2024-1-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+the scheduler - search results
+https://lore.kernel.org/lkml/?q=the+scheduler
+
+Linux syscall speed -- was X15 rootin-tootin webserver - Michael Rothwell
+https://lore.kernel.org/lkml/988856961.6355.1.camel@gromit/
+
+Ubuntu 20.04 LTS 关闭 Swap 分区_ubuntu20.04上怎样关闭分区-CSDN博客
+https://blog.csdn.net/yilovexing/article/details/120163308
+
+(2) Resources
+https://tutflix.org/resources/
+
+• Discord | #help | Deno
+https://discord.com/channels/684898665143206084/1022163295895027722
+
+clang: lib/Parse/ParseTentative.cpp Source File
+https://clang.llvm.org/doxygen/ParseTentative_8cpp_source.html
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+GCC, the GNU Compiler Collection - GNU Project
+https://gcc.gnu.org/
+
+GCC devroom at FOSDEM 2024: Call for Participation open - David Malcolm
+https://inbox.sourceware.org/gcc/36fadb0549c3dca716eb3b923d66a11be2c67a61.camel@redhat.com/
+
+node.js - Nodemon Error: "System limit for number of file watchers reached" - Stack Overflow
+https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-number-of-file-watchers-reached
+
+No source file named main.c. gdb break point setting - Stack Overflow
+https://stackoverflow.com/questions/19151643/no-source-file-named-main-c-gdb-break-point-setting
+
+#general > License compatibility - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/License.20compatibility
+
+Relational operator - Wikipedia
+https://en.wikipedia.org/wiki/Relational_operator
+
+Node.js and package.json interaction
+https://chat.openai.com/c/94888f2f-7275-402c-ba3b-9ba0ab456151
+
+c - Debugging child process after fork (follow-fork-mode child configured) - Stack Overflow
+https://stackoverflow.com/questions/15126925/debugging-child-process-after-fork-follow-fork-mode-child-configured
+
+debugging - How to attach to remote gdb with vscode? - Stack Overflow
+https://stackoverflow.com/questions/53519668/how-to-attach-to-remote-gdb-with-vscode
+
+[GDB] follow-fork-mode child · Issue #511 · microsoft/vscode-cpptools
+https://github.com/microsoft/vscode-cpptools/issues/511
+
+Automatically attach gdb to child processes · Issue #11052 · microsoft/vscode-cpptools
+https://github.com/microsoft/vscode-cpptools/issues/11052
+
+native debug attach gdb to child processes - Google 搜索
+https://www.google.com/search?q=native+debug+attach+gdb+to+child+processes&sca_esv=598080030&biw=1280&bih=593&sxsrf=ACQVn0-YaO2oPqMh8-xHPei16rVAfVApDw%3A1705133430862&ei=dkWiZY2aNP6k2roPiIu74Aw&ved=0ahUKEwiNrcOD9dmDAxV-klYBHYjFDswQ4dUDCBA&uact=5&oq=native+debug+attach+gdb+to+child+processes&gs_lp=Egxnd3Mtd2l6LXNlcnAiKm5hdGl2ZSBkZWJ1ZyBhdHRhY2ggZ2RiIHRvIGNoaWxkIHByb2Nlc3NlczIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI0yxQnwZYpCtwAXgBkAEAmAHxAaABygOqAQMyLTK4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Issues · WebFreak001/code-debug
+https://github.com/WebFreak001/code-debug/issues?q=is%3Aissue+is%3Aopen+child+process
+
+gdb+gdbserver远程调试技术（一）——调试环境搭建_gdbserver 远程调试-CSDN博客
+https://blog.csdn.net/zhaoxd200808501/article/details/77838933
+
+fast system call - Google 搜索
+https://www.google.com/search?q=fast+system+call&sca_esv=598080030&sxsrf=ACQVn0_9BdpXOvHufxZWeXIsk2gKqxyz6g%3A1705133738222&ei=qkaiZbeUDc3c2roPuPWWuAM&ved=0ahUKEwi3kYuW9tmDAxVNrlYBHbi6BTcQ4dUDCBA&uact=5&oq=fast+system+call&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGZhc3Qgc3lzdGVtIGNhbGwyCBAAGIAEGMsBMggQABgIGB4YDzIIEAAYgAQYogQyCBAAGIAEGKIEMgYQABgFGB4yCBAAGIAEGKIESL0XUJoFWKoWcAF4AZABAJgBggKgAb0aqgEEMi0xNbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAgQQIxgnwgINEC4YgAQYigUYQxjUAsICDRAuGEMY1AIYgAQYigXCAgcQABiABBgMwgIOEC4YgAQYywEYxwEY0QPCAggQLhiABBjLAcICChAAGIAEGMsBGArCAg4QLhiABBjLARjHARivAcICBBAAGB7CAggQABgeGAwYCsICBhAAGAgYHuIDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp#ip=1
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+How do I change the URI (URL) for a remote Git repository? - Stack Overflow
+https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues
+
+debugging - LLDB Breakpoints performance - what should I expect? - Stack Overflow
+https://stackoverflow.com/questions/59734549/lldb-breakpoints-performance-what-should-i-expect
+
+tannal (tannal)
+https://github.com/tannal
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+1505689 - linux clang packaging fails with aarch64-unknown-linux-gnu/libclang_rt.hwasan.so link error "unrecognised emulation mode: aarch64linux" - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=1505689
+
+Revert "[llvm] Disable HandleLLVMOptions in runtimes mode (#73031)" · llvm/llvm-project@ea64047
+https://github.com/llvm/llvm-project/commit/ea640472a2f1b851a5edf653c5257767d7fedd70
+
+[OpenMP] Remove unwanted dependency on libstdc++ for libomp by tgymnich · Pull Request #73249 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73249
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+[OpenMP] Remove unwanted dependency on libstdc++ for libomp by tgymnich · Pull Request #73249 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73249/files/79d0d90084ac97b9b94dbc2097ec5af5a3175caa#diff-2deca338e2f37069696eec352bba6457e98cdbe46c767245b92343a7a5fbaf48
+
+• Discord | #openmp | LLVM
+https://discord.com/channels/636084430946959380/646982209286307850
+
+tannal (tannal)
+https://github.com/tannal
+
+quilljs/quill: Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+https://github.com/quilljs/quill
+
+Is quill dead? · Issue #3359 · quilljs/quill
+https://github.com/quilljs/quill/issues/3359
+
+Tiptap - Dev Toolkit Editor Suite
+https://tiptap.dev/
+
+• Discord | #general | Tiptap
+https://discord.com/channels/818568566479257641/818568567095033948
+
+(2) Resources
+https://tutflix.org/resources/
+
+(2) Let's Get Rusty - The Rust Developer Bootcamp - TutFlix - Free Education Community
+https://tutflix.org/resources/lets-get-rusty-the-rust-developer-bootcamp.10464/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#RfNKfXIQLQrn12QgC9APG683azLPi38FUHAjZYwEZ+Kl2OXuJCSqhDTbjII1ENZOCoSQFz7SgOfxaPH1Aw==
+
+tannal (tannal)
+https://github.com/tannal/
+
+clang: Class Hierarchy
+https://clang.llvm.org/doxygen/inherits.html
+
+Microsoft
+https://github.com/orgs/microsoft/repositories
+
+AST explorer
+https://astexplorer.net/
+
+remarkjs/remark: markdown processor powered by plugins part of the @unifiedjs collective
+https://github.com/remarkjs/remark
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+Microsoft
+https://github.com/orgs/microsoft/repositories
+
 clang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
