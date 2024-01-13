@@ -40,8 +40,16 @@ decide what to keep in register in each point
 
 # 2024-1-12 1+1 | 1+1
 
+why people can create new words.
+
+naming things
+
 stable things will remain stable, rapidly chaning things will remain rapdily changes which will blow your mind.
 corpus 
+
+Chatbots, predictive text, and virtual assistants all use language models.
+
+N-gram model
 
 ls /include/ -lash
 
