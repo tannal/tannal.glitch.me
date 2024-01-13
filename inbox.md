@@ -1,8 +1,4 @@
-# 2024-1-13 1+1+1 | 1+1
-
-
-# 2024-1-13 1+1 | 1+1
-
+# 2024-1-13 1+1+1+1+1+1 | 1+1+1
 
 android ndk can compile c/c++ for antroid target
 
