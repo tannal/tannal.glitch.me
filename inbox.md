@@ -1,5 +1,15 @@
 # 2024-1-13 1+1+1 | 1+1
 
+
+# 2024-1-13 1+1 | 1+1
+
+
+android ndk can compile c/c++ for antroid target
+
+bun to zig is like servo to rust
+
+automate generation of instruction selectors code generation
+
 javascript spidermoney javascriptcore v8 quickjs babel
 
 typescript swc twc tsc

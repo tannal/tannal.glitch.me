@@ -3,6 +3,186 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+doc.dvi
+http://web.cs.ucla.edu/~palsberg/course/cs132/color-lecturenotes.pdf
+
+tannal (tannal)
+https://github.com/tannal/
+
+WASI/preview2 at main · WebAssembly/WASI
+https://github.com/WebAssembly/WASI/tree/main/preview2
+
+Microsoft PowerPoint - 28.ppt [Compatibility Mode]
+https://people.cs.umass.edu/~moss/610-slides/28.pdf
+
+生猪价格_今日猪价_生猪价格走势_2024年生猪价格行情_生猪价格预测-中国养猪网猪价,中国最权威的猪价平台!生猪价格_今日猪价_生猪价格走势_2024年生猪价格行情_生猪价格预测-中国养猪网猪价,中国最权威的猪价平台!
+https://zhujia.zhuwang.cc/
+
+servo.zulipchat.com
+https://servo.zulipchat.com/#reload:468930962331
+
+• Discord | #compiler-devel | Zig Programming Language
+https://discord.com/channels/605571803288698900/785499283368706060
+
+feat(unstable): fast subset type checking of JSR dependencies by dsherret · Pull Request #21873 · denoland/deno
+https://github.com/denoland/deno/pull/21873
+
+GCC Projects?
+https://gcc.gnu.org/pipermail/gcc/1997-August/000559.html
+
+Per's blog
+https://per.bothner.com/blog/index.html
+
+TSC/WORKING_GROUPS.md at 8a291ba2a1a51b5cfdd1815825841376039ef9f0 · nodejs/TSC
+https://github.com/nodejs/TSC/blob/HEAD/WORKING_GROUPS.md#streams
+
+TSC/WORKING_GROUPS.md at 8a291ba2a1a51b5cfdd1815825841376039ef9f0 · nodejs/TSC
+https://github.com/nodejs/TSC/blob/HEAD/WORKING_GROUPS.md#streams
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+Stack Overflow Developer Survey 2023
+https://survey.stackoverflow.co/2023/#section-most-popular-technologies-other-tools
+
+José Valim - Google 搜索
+https://www.google.com/search?q=Jos%C3%A9+Valim&rlz=1C1GCEA_enJP1090JP1090&oq=Jos%C3%A9+Valim&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yCAgDEAAYBRge0gEHNjAyajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+José Valim (@josevalim) / X
+https://twitter.com/josevalim
+
+BEAM (Erlang virtual machine) - Wikipedia
+https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)
+
+TSC/votes/2023-03-26-0.json at main · nodejs/TSC
+https://github.com/nodejs/TSC/blob/main/votes/2023-03-26-0.json
+
+Unclear error message when importing a module that does not exist from a data URL module · Issue #51444 · nodejs/node
+https://github.com/nodejs/node/issues/51444
+
+ChatGPT
+https://chat.openai.com/c/c69f73d0-a579-4ce8-a31a-58a19597b48f
+
+babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.
+https://github.com/babel/babel
+
+搜索 - BabelJS - Slack
+https://app.slack.com/client/T062L95S6/search
+
+登录 | Slack
+https://slack.com/signin#/confirmemail?redir=%2Fmessages%2Fdevelopment&domain=babeljs&domainLogin=1&email=tannal2409%40gmail.com
+
+[GitHub] A third-party OAuth application has been added to your account - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJcmZSlVGKFWQNClNgQsZkjWM
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+deno/cli/tools/info.rs at 741afc4b94427588c628925fef464623d373430f · denoland/deno
+https://github.com/denoland/deno/blob/741afc4b94427588c628925fef464623d373430f/cli/tools/info.rs#L425-L431
+
+development - BabelJS - Slack
+https://app.slack.com/client/T062L95S6/C062RC35M
+
+babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.
+https://github.com/babel/babel
+
+Babel (transcompiler) - Wikipedia
+https://en.wikipedia.org/wiki/Babel_(transcompiler)
+
+Releases · babel/babel
+https://github.com/babel/babel/releases
+
+acorn/acorn-walk at master · acornjs/acorn
+https://github.com/acornjs/acorn/tree/master/acorn-walk
+
+AST explorer
+https://astexplorer.net/
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+合并请求 · GStreamer / gstreamer · GitLab
+https://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests
+
+docs: explain how to watch files inside `node_modules` · Issue #154 · vitejs/docs-ja
+https://github.com/vitejs/docs-ja/issues/154
+
+facebook/react: The library for web and native user interfaces.
+https://github.com/facebook/react
+
+• Discord | #discussions | Vite Land
+https://discord.com/channels/804011606160703521/804011606160703524
+
+Outreachy Internships - YouTube
+https://www.youtube.com/@outreachyinternships
+
+llvm-project/clang at main · llvm/llvm-project
+https://github.com/llvm/llvm-project/tree/main/clang
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+servo/denate/src/bind.rs at 2a7387da6414eb3469df1fb15595100b3fbe1b84 · KnorpelSenf/servo
+https://github.com/KnorpelSenf/servo/blob/2a7387da6414eb3469df1fb15595100b3fbe1b84/denate/src/bind.rs#L58
+
+gmail.com
+https://gmail.com/
+
+tannal/mozjs: Servo's SpiderMonkey fork
+https://github.com/tannal/mozjs/tree/master
+
+Release LLVM 17.0.1 · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases/tag/llvmorg-17.0.1
+
+winget install clang for windows - Google 搜索
+https://www.google.com/search?q=winget+install+clang+for+windows&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+clang+for+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYO9IBCDM2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal/mozjs: Servo's SpiderMonkey fork
+https://github.com/tannal/mozjs
+
+Visual Studio Build Tools now include the VS2017 and VS2015 MSVC Toolsets - C++ Team Blog
+https://devblogs.microsoft.com/cppblog/visual-studio-build-tools-now-include-the-vs2017-and-vs2015-msvc-toolsets/
+
+マイクロソフト C++ ビルドツール 2017 （Build Tools for Visual Studio 2017） のインストール（Windows 上）
+https://www.kkaneko.jp/tools/win/buildtool2017.html
+
+Visual Studio 较旧的下载 - 2019、2017、2015 和以前的版本
+https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/#visual-studio-2017-and-other-products
+
+登录到您的帐户
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=499b84ac-1321-427f-aa17-267ca6975798&site_id=501454&response_mode=form_post&response_type=code+id_token&redirect_uri=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_signedin&nonce=73f6a605-4575-4a5c-a369-b857539e15f4&state=realm%3Dapp.vssps.visualstudio.com%26reply_to%3Dhttps%253A%252F%252Fapp.vssps.visualstudio.com%252F_signedin%26ht%3D3%26mkt%3Dzh-CN%26nonce%3D73f6a605-4575-4a5c-a369-b857539e15f4&resource=https%3A%2F%2Fmanagement.core.windows.net%2F&cid=73f6a605-4575-4a5c-a369-b857539e15f4&wsucxt=1&githubsi=true&msaoauth2=true&mkt=zh-CN
+
+[GitHub] A third-party OAuth application has been added to your account - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJcmZSlVGKFWQNClNgQsZkjWM
+
+Authorized OAuth Apps
+https://github.com/settings/applications
+
+Use command-line parameters to install Visual Studio | Microsoft Learn
+https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022
+
+Are Visual Studio 2017 Build Tools still available for download? - Stack Overflow
+https://stackoverflow.com/questions/57795314/are-visual-studio-2017-build-tools-still-available-for-download
+
+网络准入认证系统
+http://10.100.100.67/srun_portal_success?ac_id=1&theme=basic&srun_domain=
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 the scheduler - search results
 https://lore.kernel.org/lkml/?q=the+scheduler
 

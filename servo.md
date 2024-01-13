@@ -1,3 +1,10 @@
+set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\bin
+set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\
+set LIBCLANG_PATH=C:\Program Files\LLVM\lib
+
+
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars64
+
 WebIDL
 
 unsafe keyword in rust
