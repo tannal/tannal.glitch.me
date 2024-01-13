@@ -1,6 +1,88 @@
 
 
 ![Alt text](./image-4.png)
+ECMAScript Spec
+
+https://chat.openai.com/g/g-DTk1KpYjg-pdf-translator-gpt
+
+nodejs bun deno
+
+![Alt text](image-5.png)
+
+
+```js
+
+console.log('Hello World' + new Date().toISOString())
+
+```
+
+context isolate
+
+global object set key value
+
+Isolate* isolate = context->GetIsolate();
+EscapableHandleScope handle_scope(isolate);
+
+Local<Object> global = context->Global();
+
+void Print(const v8::FunctionCallbackInfo<v8::Value>& info);
+
+![Alt text](image-6.png)
+
+Local<Value> arg = info[i];
+
+```cpp
+
+// src/util.cc
+Local<v8::FunctionTemplate> NewFunctionTemplate(
+    v8::Isolate* isolate,
+    v8::FunctionCallback callback,
+    Local<v8::Signature> signature,
+    v8::ConstructorBehavior behavior,
+    v8::SideEffectType side_effect_type,
+    const v8::CFunction* c_function) {
+  return v8::FunctionTemplate::New(isolate,
+                                   callback,
+                                   Local<v8::Value>(),
+                                   signature,
+                                   0,
+                                   behavior,
+                                   side_effect_type,
+                                   c_function);
+}
+
+Local<FunctionTemplate> SocketAddressBlockListWrap::GetConstructorTemplate(
+    Environment* env) {
+  Local<FunctionTemplate> tmpl = env->blocklist_constructor_template();
+  if (tmpl.IsEmpty()) {
+    Isolate* isolate = env->isolate();
+    tmpl = NewFunctionTemplate(isolate, SocketAddressBlockListWrap::New);
+    tmpl->SetClassName(FIXED_ONE_BYTE_STRING(env->isolate(), "BlockList"));
+    tmpl->InstanceTemplate()->SetInternalFieldCount(kInternalFieldCount);
+    SetProtoMethod(isolate, tmpl, "addAddress", AddAddress);
+    SetProtoMethod(isolate, tmpl, "addRange", AddRange);
+    SetProtoMethod(isolate, tmpl, "addSubnet", AddSubnet);
+    SetProtoMethod(isolate, tmpl, "check", Check);
+    SetProtoMethod(isolate, tmpl, "getRules", GetRules);
+    env->set_blocklist_constructor_template(tmpl);
+  }
+  return tmpl;
+}
+
+// Store primordials setup by the per-context script in the environment.
+Local<Object> per_context_bindings =
+    GetPerContextExports(ctx).ToLocalChecked();
+Local<Value> primordials =
+    per_context_bindings->Get(ctx, env_->primordials_string())
+        .ToLocalChecked();
+CHECK(primordials->IsObject());
+set_primordials(primordials.As<Object>());
+
+```
+
+
+
+![Alt text](image-4.png)
 
 Event Loop is single thread
 

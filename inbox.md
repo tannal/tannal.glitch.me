@@ -1,5 +1,267 @@
-# 2024-1-11
+# 2024-1-13 1+1+1 | 1+1
 
+javascript spidermoney javascriptcore v8 quickjs babel
+
+typescript swc twc tsc
+
+C/C++ gcc clang
+
+rust rustcc
+
+go go
+
+markdown
+
+HTML/CSS 
+
+https://astexplorer.net/
+
+.td files are processed by TableGen to generate C++ code
+
+https://github.com/llvm/llvm-project/pull/73249/files/79d0d90084ac97b9b94dbc2097ec5af5a3175caa#diff-2deca338e2f37069696eec352bba6457e98cdbe46c767245b92343a7a5fbaf48
+
+lldb is slow than gdb https://stackoverflow.com/questions/59734549/lldb-breakpoints-performance-what-should-i-expect
+
+math judge math things
+
+math things is tiny of the reality (very small subset)
+
+https://web.stanford.edu/class/archive/cs/cs110/cs110.1182/autumn-2017/lectures/
+
+https://web.stanford.edu/class/archive/cs/cs110/cs110.1182/autumn-2017/slides-handouts.html
+
+cat /proc/sys/fs/inotify/max_user_watches
+
+sudo sysctl -w fs.inotify.max_user_watches=131072
+
+sudo swapoff -a
+
+.debug_str 
+.debug_line
+.debug_abbrev 
+.debug_info 
+.debug_aranges
+
+There is no perfect people.
+
+sometimes ai knows, sometime ai doesn't, it's like human.
+
+the future is the sum of all human behavior.
+
+the stock market is a subset of the future.
+
+what do we need around code?
+1. how to change the code? implementation
+2. how users can use the code? interface
+
+it's all about communication, like docs, books, turtorial, community.
+
+so the point is we need a community around the code itself. eg. mailing list, live chat, talks, conference, and connection (with people)
+
+all way go down to it's all about connection with people.
+
+more percisely is the connection between users(interface) and developers(implementation)
+
+and the connection between users and users 
+
+and the connection between developers and developers.
+
+connections means flow, someone leave and someon join.
+
+flow is life.
+
+pnpm, like npm and Yarn deal with package.json
+
+source code -> scanners -> tokens -> parser may throw errors
+
+Much of front end construction can be auto
+
+x = x + y -> <id, x> = <id, x> + <id, y>
+
+tokens: number, id, +, -, *, /
+
+context free syntax
+
+1. <expr> ::= <expr> <op> <term>
+2. | <term>
+
+3. <term> ::= number
+4.       |  id
+5. <op> ::= +
+6.      |-
+
+start symbol expr
+
+terminal number, id, +, -
+
+no-terminal <expr>, <term>
+
+production: 1, 2, 3
+
+AST are often used as IR between frontend(clang) and backend (llvm)
+
+backend -> instruction selection -> register allocation -> machine code may throw errors
+
+translate IR to machine code (eg. ast travesal)
+
+choose instruction for each IR op
+
+decide what to keep in register in each point
+
+![Alt text](image-7.png)
+
+# 2024-1-12 1+1 | 1+1
+
+why people can create new words.
+
+naming things
+
+stable things will remain stable, rapidly chaning things will remain rapdily changes which will blow your mind.
+corpus 
+
+Chatbots, predictive text, and virtual assistants all use language models.
+
+N-gram model
+
+ls /include/ -lash
+
+Why AI need "so many data" training, because human has evolved approximately 200,000 years.
+
+And the default prarameter for human is in their DNA.
+
+thoughts on replace the default yjs-demo use contenteditable for local sharing
+
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+text and images 
+
+https://twitter.com/servodev
+
+All software eventually died or become legacy.
+
+https://www.infinitech-intl.com/en/page/careers
+
+https://next-ai-news.vercel.app/search?q=remote
+
+3 5 8 10
+
+The better you design it when it's not large(there is no so much devs around this project) determine how far it can go.
+
+w3c css working group whatwg
+
+os syscall -> std library -> thirdparty library -> framework -> application C/C++/
+
+os syscall -> prgramming language runtime -> std library -> thirdparty libarary -> framework -> application 
+
+It's all about how much you can get. logical reasoning is useless, pointless, and useless.
+
+```bash
+
+
+> tannal-web-app@0.0.1 build /home/tannal/tannalwork/projects/tannal.web.app
+> astro check && astro build
+
+16:16:37 [check] Getting diagnostics for Astro files in /home/tannal/tannalwork/projects/tannal.web.app...
+src/firebase/client.ts:21:7 - warning ts(6133): 'analytics' is declared but its value is never read.
+
+21 const analytics = getAnalytics(app);
+         ~~~~~~~~~
+
+Result (13 files): 
+- 0 errors
+- 0 warnings
+- 1 hint
+
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/LICENSE found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/firebase-debug.log found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-1.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-2.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-3.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image-4.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [WARN] Unsupported file type /home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/image.png found. Prefix filename with an underscore (`_`) to ignore.
+16:16:39 [build] output: "static"
+16:16:39 [build] directory: /home/tannal/tannalwork/projects/tannal.web.app/dist/
+16:16:39 [build] Collecting build info...
+16:16:39 [build] ✓ Completed in 15ms.
+16:16:39 [build] Building static entrypoints...
+[Shiki] The language "llvm" doesn't exist, falling back to "plaintext".
+[Shiki] The language "patch" doesn't exist, falling back to "plaintext".
+[Shiki] The language "llvm" doesn't exist, falling back to "plaintext".
+16:16:42 [ERROR] [vite] [vite]: Rollup failed to resolve import "image-4.png" from "/home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/node.md".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+[vite]: Rollup failed to resolve import "image-4.png" from "/home/tannal/tannalwork/projects/tannal.web.app/src/pages/posts/node.md".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+  Stack trace:
+    at viteWarn (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/vite@5.0.10/node_modules/vite/dist/node/chunks/dep-R0I0XnyH.js:66953:27)
+    at onwarn (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/vite@5.0.10/node_modules/vite/dist/node/chunks/dep-R0I0XnyH.js:66698:13)
+    at Object.logger [as onLog] (file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/rollup@4.9.0/node_modules/rollup/dist/es/shared/node-entry.js:19023:9)
+    at file:///home/tannal/tannalwork/projects/tannal.web.app/node_modules/.pnpm/rollup@4.9.0/node_modules/rollup/dist/es/shared/node-entry.js:17927:26
+ ELIFECYCLE  Command failed with exit code 1.
+
+```
+
+testing error handling logging 
+
+```sh
+vim .bashrc
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+```
+
+
+
+astro vite rollup -> 
+
+vscode ssh tunning port forwarding
+
+
+focus on things change slowly in 3-5 years cuda pytorch stable things matter
+
+Daniel Bevenius - Principal Software Engineer - Red Hat
+
+highly care about 2024-2027 20-23 (*) and 2027-2030 23-26
+
+There are "popular" things that died quickly.
+
+focus on things change slowly in 3-5 years(more than three years life time after it get "popular") cuda pytorch stable things matter
+
+don't working on things would complete change in a year(short life less than three years). eg. js frameworks 
+
+low level language C and assembly and machine code (knowledge of computer systems)
+
+high level language C++ Rust Golang (knowledge of language abstractions and computer systems)
+
+This is /run/systemd/resolve/stub-resolv.conf managed by man:systemd-resolved(8).
+
+https://en.wikipedia.org/wiki/Systemd
+https://github.com/systemd/systemd
+systemd.io
+
+
+so I can say that systemd has a service for dns lookup
+
+```bash
+
+git switch main
+git pull
+
+git switch dev
+git stash
+git rebase main
+
+```
+
+cloudflare images
+
+# 2024-1-11 0 | 0
+
+
+>>>>>>> 2f88cdb624e2648c960ce93d394c89ba080e0e00
 nodejs core concepts
 
 blocking non-blocking
@@ -40,6 +302,7 @@ telemetry协议
 
 https://aospandaaos.github.io/
 
+>>>>>>> 4b33400aa78a61c6a5edb2ec9b49d7134381e14d
 deno run -A --unstable server.ts
 
 import { core, internals, primordials } from "ext:core/mod.js";
@@ -507,13 +770,13 @@ sudo apt install lld
 
 sudo rm /usr/bin/ld
 
-sudo ln -s /usr/bin/lld /usr/bin/ld
+sudo ln -sfn /usr/bin/lld /usr/bin/ld
 sudo ln -s x86 /usr/bin/ld
 
 
 
 
-sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
+sudo ln -sfn x86_64-linux-gnu-ld /usr/bin/ld
 
 strace -e execve lld
 strace -e execve ld

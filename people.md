@@ -2,6 +2,8 @@
 
 ## from 2024-1-7
 
+Daniel Bevenius - Principal Software Engineer - Red Hat https://github.com/danbev
+
 Joel Fermands https://www.joelfernandes.org/ Linux Kernel
 
 https://mbbroberg.fun/ golang pythonlang

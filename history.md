@@ -1,3 +1,875 @@
+# 2024-1-12
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+the scheduler - search results
+https://lore.kernel.org/lkml/?q=the+scheduler
+
+Linux syscall speed -- was X15 rootin-tootin webserver - Michael Rothwell
+https://lore.kernel.org/lkml/988856961.6355.1.camel@gromit/
+
+Ubuntu 20.04 LTS 关闭 Swap 分区_ubuntu20.04上怎样关闭分区-CSDN博客
+https://blog.csdn.net/yilovexing/article/details/120163308
+
+(2) Resources
+https://tutflix.org/resources/
+
+• Discord | #help | Deno
+https://discord.com/channels/684898665143206084/1022163295895027722
+
+clang: lib/Parse/ParseTentative.cpp Source File
+https://clang.llvm.org/doxygen/ParseTentative_8cpp_source.html
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+GCC, the GNU Compiler Collection - GNU Project
+https://gcc.gnu.org/
+
+GCC devroom at FOSDEM 2024: Call for Participation open - David Malcolm
+https://inbox.sourceware.org/gcc/36fadb0549c3dca716eb3b923d66a11be2c67a61.camel@redhat.com/
+
+node.js - Nodemon Error: "System limit for number of file watchers reached" - Stack Overflow
+https://stackoverflow.com/questions/53930305/nodemon-error-system-limit-for-number-of-file-watchers-reached
+
+No source file named main.c. gdb break point setting - Stack Overflow
+https://stackoverflow.com/questions/19151643/no-source-file-named-main-c-gdb-break-point-setting
+
+#general > License compatibility - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/License.20compatibility
+
+Relational operator - Wikipedia
+https://en.wikipedia.org/wiki/Relational_operator
+
+Node.js and package.json interaction
+https://chat.openai.com/c/94888f2f-7275-402c-ba3b-9ba0ab456151
+
+c - Debugging child process after fork (follow-fork-mode child configured) - Stack Overflow
+https://stackoverflow.com/questions/15126925/debugging-child-process-after-fork-follow-fork-mode-child-configured
+
+debugging - How to attach to remote gdb with vscode? - Stack Overflow
+https://stackoverflow.com/questions/53519668/how-to-attach-to-remote-gdb-with-vscode
+
+[GDB] follow-fork-mode child · Issue #511 · microsoft/vscode-cpptools
+https://github.com/microsoft/vscode-cpptools/issues/511
+
+Automatically attach gdb to child processes · Issue #11052 · microsoft/vscode-cpptools
+https://github.com/microsoft/vscode-cpptools/issues/11052
+
+native debug attach gdb to child processes - Google 搜索
+https://www.google.com/search?q=native+debug+attach+gdb+to+child+processes&sca_esv=598080030&biw=1280&bih=593&sxsrf=ACQVn0-YaO2oPqMh8-xHPei16rVAfVApDw%3A1705133430862&ei=dkWiZY2aNP6k2roPiIu74Aw&ved=0ahUKEwiNrcOD9dmDAxV-klYBHYjFDswQ4dUDCBA&uact=5&oq=native+debug+attach+gdb+to+child+processes&gs_lp=Egxnd3Mtd2l6LXNlcnAiKm5hdGl2ZSBkZWJ1ZyBhdHRhY2ggZ2RiIHRvIGNoaWxkIHByb2Nlc3NlczIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI0yxQnwZYpCtwAXgBkAEAmAHxAaABygOqAQMyLTK4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Issues · WebFreak001/code-debug
+https://github.com/WebFreak001/code-debug/issues?q=is%3Aissue+is%3Aopen+child+process
+
+gdb+gdbserver远程调试技术（一）——调试环境搭建_gdbserver 远程调试-CSDN博客
+https://blog.csdn.net/zhaoxd200808501/article/details/77838933
+
+fast system call - Google 搜索
+https://www.google.com/search?q=fast+system+call&sca_esv=598080030&sxsrf=ACQVn0_9BdpXOvHufxZWeXIsk2gKqxyz6g%3A1705133738222&ei=qkaiZbeUDc3c2roPuPWWuAM&ved=0ahUKEwi3kYuW9tmDAxVNrlYBHbi6BTcQ4dUDCBA&uact=5&oq=fast+system+call&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGZhc3Qgc3lzdGVtIGNhbGwyCBAAGIAEGMsBMggQABgIGB4YDzIIEAAYgAQYogQyCBAAGIAEGKIEMgYQABgFGB4yCBAAGIAEGKIESL0XUJoFWKoWcAF4AZABAJgBggKgAb0aqgEEMi0xNbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAgQQIxgnwgINEC4YgAQYigUYQxjUAsICDRAuGEMY1AIYgAQYigXCAgcQABiABBgMwgIOEC4YgAQYywEYxwEY0QPCAggQLhiABBjLAcICChAAGIAEGMsBGArCAg4QLhiABBjLARjHARivAcICBBAAGB7CAggQABgeGAwYCsICBhAAGAgYHuIDBBgAIEGIBgGQBgQ&sclient=gws-wiz-serp#ip=1
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+How do I change the URI (URL) for a remote Git repository? - Stack Overflow
+https://stackoverflow.com/questions/2432764/how-do-i-change-the-uri-url-for-a-remote-git-repository
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues
+
+debugging - LLDB Breakpoints performance - what should I expect? - Stack Overflow
+https://stackoverflow.com/questions/59734549/lldb-breakpoints-performance-what-should-i-expect
+
+tannal (tannal)
+https://github.com/tannal
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+1505689 - linux clang packaging fails with aarch64-unknown-linux-gnu/libclang_rt.hwasan.so link error "unrecognised emulation mode: aarch64linux" - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=1505689
+
+Revert "[llvm] Disable HandleLLVMOptions in runtimes mode (#73031)" · llvm/llvm-project@ea64047
+https://github.com/llvm/llvm-project/commit/ea640472a2f1b851a5edf653c5257767d7fedd70
+
+[OpenMP] Remove unwanted dependency on libstdc++ for libomp by tgymnich · Pull Request #73249 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73249
+
+[llvm] Disable HandleLLVMOptions in runtimes mode by jhuber6 · Pull Request #73031 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73031
+
+[OpenMP] Remove unwanted dependency on libstdc++ for libomp by tgymnich · Pull Request #73249 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/73249/files/79d0d90084ac97b9b94dbc2097ec5af5a3175caa#diff-2deca338e2f37069696eec352bba6457e98cdbe46c767245b92343a7a5fbaf48
+
+• Discord | #openmp | LLVM
+https://discord.com/channels/636084430946959380/646982209286307850
+
+tannal (tannal)
+https://github.com/tannal
+
+quilljs/quill: Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+https://github.com/quilljs/quill
+
+Is quill dead? · Issue #3359 · quilljs/quill
+https://github.com/quilljs/quill/issues/3359
+
+Tiptap - Dev Toolkit Editor Suite
+https://tiptap.dev/
+
+• Discord | #general | Tiptap
+https://discord.com/channels/818568566479257641/818568567095033948
+
+(2) Resources
+https://tutflix.org/resources/
+
+(2) Let's Get Rusty - The Rust Developer Bootcamp - TutFlix - Free Education Community
+https://tutflix.org/resources/lets-get-rusty-the-rust-developer-bootcamp.10464/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#RfNKfXIQLQrn12QgC9APG683azLPi38FUHAjZYwEZ+Kl2OXuJCSqhDTbjII1ENZOCoSQFz7SgOfxaPH1Aw==
+
+tannal (tannal)
+https://github.com/tannal/
+
+clang: Class Hierarchy
+https://clang.llvm.org/doxygen/inherits.html
+
+Microsoft
+https://github.com/orgs/microsoft/repositories
+
+AST explorer
+https://astexplorer.net/
+
+remarkjs/remark: markdown processor powered by plugins part of the @unifiedjs collective
+https://github.com/remarkjs/remark
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+Microsoft
+https://github.com/orgs/microsoft/repositories
+
+clang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+Remove create_typed_array from dom/bindings · Issue #31050 · servo/servo
+https://github.com/servo/servo/issues/31050
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076
+
+mozjs/mozjs/src/typedarray.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs/src/typedarray.rs#L146
+
+WebIDL: use TypedArray · Issue #31064 · servo/servo
+https://github.com/servo/servo/issues/31064
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077/files
+
+• Discord | #announcements | Vite Land
+https://discord.com/channels/804011606160703521/861595956143587369
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Preprocessing | Brilliant
+https://brilliant.org/courses/how-llms-work/chapter-2/pre-tokenization/2/
+
+EleutherAI/pythia-12b · Hugging Face
+https://huggingface.co/EleutherAI/pythia-12b
+
+Tmux has forever changed the way I write code. - YouTube
+https://www.youtube.com/watch?v=DzNmUNvnB04
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=Plagiarism%20detection&op=translate
+
+naming is creativity - Google 搜索
+https://www.google.com/search?q=naming+is+creativity&oq=naming+is+creati&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE1NjMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+3.pdf
+https://web.stanford.edu/~jurafsky/slp3/3.pdf
+
+(PDF) A Corpus-driven Analysis of Taylor Swift’s Song Lyrics
+https://www.researchgate.net/publication/371175281_A_Corpus-driven_Analysis_of_Taylor_Swift's_Song_Lyrics
+
+Plagiarism detection - Google 搜索
+https://www.google.com/search?q=Plagiarism+detection&oq=Plagiarism+detection&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(4) takahiro(John Smith) (@superhoge) / X
+https://twitter.com/superhoge
+
+(4) Wu Yuwei 吳昱緯 on X: "After three years, three versions of Visual Studio tools, two LLVMs, tons of pythons, and same pip packages in different paths. I finally built spider monkey on Windows that can be used by Servo. Building C++ project surely is something. 😂 https://t.co/wGrgp0NB7T" / X
+https://twitter.com/Yu_Wei_Wu/status/1743572507171623270
+
+feat: add `MOZJS_MIRROR` and `MOZJS_CREATE_MIRROR` env variables by wusyong · Pull Request #445 · servo/mozjs
+https://github.com/servo/mozjs/pull/445
+
+Takahiro
+https://takahirox.github.io/
+
+tannal.web.app/posts/people/
+https://tannal.web.app/posts/people/
+
+树莓派串口的使用 - 知乎
+https://zhuanlan.zhihu.com/p/106904186
+
+swc-project/swc: Rust-based platform for the Web
+https://github.com/swc-project/swc
+
+swc
+https://github.com/swc-project
+
+• Discord | #compiler-devel | Zig Programming Language
+https://discord.com/channels/605571803288698900/785499283368706060
+
+Intro to 2D Gamedev with Mach Engine - SYCL.it
+https://sycl.it/agenda/workshops/intro-to-2d-gamedev/
+
+Getting Started – SWC
+https://swc.rs/docs/getting-started
+
+AST explorer
+https://astexplorer.net/
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en
+
+ChatGPT
+https://chat.openai.com/c/94888f2f-7275-402c-ba3b-9ba0ab456151
+
+pnpm/pnpm: Fast, disk space efficient package manager
+https://github.com/pnpm/pnpm
+
+hexops/mach: zig game engine & graphics toolkit
+https://github.com/hexops/mach
+
+消費者物価指数 2023 - Google 搜索
+https://www.google.com/search?sca_esv=598025872&sxsrf=ACQVn0-id6KNm--a5oJzaAQ3XN_v1rw52g:1705119902166&q=%E6%B6%88%E8%B2%BB%E8%80%85%E7%89%A9%E4%BE%A1%E6%8C%87%E6%95%B0+2023&sa=X&ved=2ahUKEwirqMXQwtmDAxUeslYBHVA4AQoQ1QJ6BAgoEAE&biw=1280&bih=593&dpr=1.5
+
+我国 12 月 CPI 同比降 0.3%，全年涨 0.2%，PPI 同比降 2.7%，如何解读？ - 知乎
+https://www.zhihu.com/question/639164159
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Build error with clang: unknown argument: '-flifetime-dse=1' · Issue #113 · RcppCore/RcppParallel
+https://github.com/RcppCore/RcppParallel/issues/113
+
+c++ - clang: error: unknown argument: '-fno-leading-underscore' - Stack Overflow
+https://stackoverflow.com/questions/63301504/clang-error-unknown-argument-fno-leading-underscore
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+• Discord | #clang | LLVM
+https://discord.com/channels/636084430946959380/636732781086638081
+
+debuginfo - Google 搜索
+https://www.google.com/search?q=debuginfo&sca_esv=598048361&tbm=vid&sxsrf=ACQVn09uQtnZgucWTdnLeU0rrOQfAB1zYw:1705125358513&source=lnms&sa=X&ved=2ahUKEwinqqr61tmDAxXhi68BHUnKD7QQ_AUoBHoECAIQBg&biw=1280&bih=593&dpr=1.5
+
+Linux Debuginfo Formats - DWARF, ELF, dwo, dwp - What are They All? - Greg Law - CppCon 2022 - YouTube
+https://www.youtube.com/watch?v=l3h7F9za_pc
+
+GCC -g 参数 - GCC 简明教程 | 宅学部落
+https://www.zhaixue.cc/gcc/gcc-g.html
+
+Building LLVM with CMake — LLVM 18.0.0git documentation
+https://llvm.org/docs/CMake.html
+
+does golang need preprocessing - Google 搜索
+https://www.google.com/search?q=does+golang+need+preprocessing&oq=does+golang+need+preprocc&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEINTczNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?q=is%3Aissue+is%3Aopen+%5BOpenMP%5D+build+error
+
+红米手机录音文件夹 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E5%A4%B9&sca_esv=598058618&sxsrf=ACQVn09pUGdr-hhCWdbs6sysDvObCRziPQ%3A1705127591301&ei=py6iZfaFEuP01e8PgsSN2AY&ved=0ahUKEwi29YCj39mDAxVjevUHHQJiA2sQ4dUDCBA&uact=5&oq=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E5%A4%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-e6ouexs-aJi-acuuW9lemfs-aWh-S7tuWkuTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI6RZQ3gVY6hRwAXgBkAEAmAHhAaABpQ2qAQMyLTi4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYiQUYogTiAwQYACBBiAYBkAYD&sclient=gws-wiz-serp
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Element [1] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8?tab=readme-ov-file#handle
+
+danbev (Daniel Bevenius)
+https://github.com/danbev
+
+learning-v8/test/handle_test.cc at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/test/handle_test.cc
+
+axboe/liburing
+https://github.com/axboe/liburing
+
+兰新宇 - 知乎
+https://www.zhihu.com/people/lan-xin-yu
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+(1) Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+fast_check_benchmarks.md
+https://gist.github.com/dsherret/2cbf86f50cb688a557af3714c924f77a
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+servo/components/net/tests/http_loader.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/net/tests/http_loader.rs
+
+AndreuBotella.com
+https://preview-andreubotella-com.deno.dev/
+
+feat(lsp): allow to connect V8 inspector (#21482) · tannal/deno@cdbf902
+https://github.com/tannal/deno/commit/cdbf902499dc62a4fb9f8cbf2a47a7b446623929
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGPT
+https://chat.openai.com/c/834e648a-4354-4dbc-bd43-8559937e8411
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+(1) Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Tracking Issue: Priorities of Real World Zig Users · Issue #17144 · ziglang/zig
+https://github.com/ziglang/zig/issues/17144
+
+Deno Jobs
+https://jobs.ashbyhq.com/Deno
+
+vscode_deno/client/src/commands.ts at 43a135eda01d95548dd2b8b66f8687753cffa222 · denoland/vscode_deno
+https://github.com/denoland/vscode_deno/blob/43a135eda01d95548dd2b8b66f8687753cffa222/client/src/commands.ts#L151
+
+W3C TPAC 2023 - YouTube
+https://www.youtube.com/playlist?list=PLNhYw8KaLq2WR4WvAUpj3qlIWQgY3pAZv
+
+vscode/extensions/typescript-language-features at 6e9b9a45433997677d27fc2cedf4f87748ef7844 · microsoft/vscode
+https://github.com/microsoft/vscode/tree/6e9b9a45433997677d27fc2cedf4f87748ef7844/extensions/typescript-language-features
+
+tannal (tannal)
+https://github.com/tannal/
+
+Shu-yu Guo
+https://rfrn.org/~shu/
+
+doc.dvi
+http://web.cs.ucla.edu/~palsberg/course/cs132/color-lecturenotes.pdf
+
+Robby Findler
+https://users.cs.northwestern.edu/~robby/
+
+systemd - Wikipedia
+https://en.wikipedia.org/wiki/Systemd
+
+systemd/systemd: The systemd System and Service Manager
+https://github.com/systemd/systemd
+
+systemd-resolved | 今天我学了什么
+https://adoyle.me/Today-I-Learned/linux/systemd-resolved.html
+
+978067 - Line number information is missing in gdb for v8 after clang roll 361212:362913 - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=978067
+
+Daniel Bevenius - Google 搜索
+https://www.google.com/search?q=Daniel+Bevenius&rlz=1C1GCEA_enJP1090JP1090&oq=Daniel+Bevenius&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD3SAQcyOTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+gdb run function at breakpoint - Google 搜索
+https://www.google.com/search?q=gdb+run+function+at+breakpoint&rlz=1C1GCEA_enJP1090JP1090&oq=gdb+run+fun&gs_lcrp=EgZjaHJvbWUqBggDEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yBggDEAAYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBge0gEIOTU3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Commits · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/commits/main/
+
+(1) Discord | #🔤｜yjs-beta | Liveblocks
+https://discord.com/channels/913109211746009108/1123560088997728328
+
+Daniel Bevenius - Google 搜索
+https://www.google.com/search?q=Daniel+Bevenius&rlz=1C1GCEA_enJP1090JP1090&oq=Daniel+Bevenius&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPdIBBzMxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+New year, new offer, same job
+https://goose.icu/2024/
+
+1791079 - Add navigator.userActivation API to query user activation state
+https://bugzilla.mozilla.org/show_bug.cgi?id=1791079
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#tree-construction
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#tree-construction
+
+#general > Servo without SpiderMonkey - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20without.20SpiderMonkey
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+dudykr/public-stc: The fastest TypeScript type checker in the world
+https://github.com/dudykr/public-stc
+
+
+# 2024-1-11
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Rebase Master Branch Git
+https://chat.openai.com/c/834e648a-4354-4dbc-bd43-8559937e8411
+
+(4) Home / X
+https://twitter.com/home
+
+Next AI News
+https://next-ai-news.vercel.app/search?q=remote
+
+Next AI News
+https://next-ai-news.vercel.app/item/TL3eA636JndT
+
+(3) Facebook
+https://www.facebook.com/shiwulo
+
+• Discord | #announcements | Zig Programming Language
+https://discord.com/channels/605571803288698900/1022628803329142816
+
+irbull (Ian Bull)
+https://github.com/irbull
+
+(4) Servo (@ServoDev) / X
+https://twitter.com/servodev
+
+(4) Linux Foundation Europe (@LF_Europe) / X
+https://twitter.com/LF_Europe
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Rust, not Firefox, is Mozilla's greatest industry contribution | TechRepublic
+https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/
+
+Reddit - Dive into anything
+https://www.reddit.com/?signup_survey=true
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076/files
+
+mozjs/mozjs/src/typedarray.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs/src/typedarray.rs#L146
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076/files
+
+WebIDL: use FLoat32Array in XRRigidTransform · Issue #31047 · servo/servo
+https://github.com/servo/servo/issues/31047
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79bR231
+
+servo/components/script/dom/xrrigidtransform.rs at 355567186400d0531657d0eedda7625de9d0e93a · servo/servo
+https://github.com/servo/servo/blob/355567186400d0531657d0eedda7625de9d0e93a/components/script/dom/xrrigidtransform.rs#L137
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79b
+
+Heap in mozjs_sys::jsgc - Rust
+https://doc.servo.org/mozjs_sys/jsgc/struct.Heap.html#method.boxed
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Remove create_typed_array from dom/bindings · Issue #31050 · servo/servo
+https://github.com/servo/servo/issues/31050
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files
+
+WebIDL impl: Replace use of NonNull<JSObject> with TypedArray · Issue #30889 · servo/servo
+https://github.com/servo/servo/issues/30889
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79bR231
+
+servo/components/script/dom/xrview.rs at 355567186400d0531657d0eedda7625de9d0e93a · servo/servo
+https://github.com/servo/servo/blob/355567186400d0531657d0eedda7625de9d0e93a/components/script/dom/xrview.rs#L28
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2023-12-01&to=2023-12-31
+
+Implement Clipboard API and events · Issue #31024 · servo/servo
+https://github.com/servo/servo/issues/31024
+
+Stack Overflow Developer Survey 2023
+https://survey.stackoverflow.co/2023/#ai
+
+Intro to Language Models | Brilliant
+https://brilliant.org/courses/how-llms-work/chapter-1/intro-to-language-models/2/?courseSlug=how-llms-work&chapterSlug=chapter-1&lessonSlug=intro-to-language-models
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+how long human history is - Google 搜索
+https://www.google.com/search?q=how+long+human+history+is&sca_esv=597734025&sxsrf=ACQVn08Uri_LxBpev4NOf47gQKdyHX_APA%3A1705042164994&ei=9OCgZfSkPI7e2roP8c-z4AI&ved=0ahUKEwj07siEodeDAxUOr1YBHfHnDCwQ4dUDCBA&uact=5&oq=how+long+human+history+is&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWhvdyBsb25nIGh1bWFuIGhpc3RvcnkgaXMyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjQK1D8CFjRKnACeAGQAQCYAccBoAG1DaoBAzAuObgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICCBAAGAgYHhgK4gMEGAAgQYgGAZAGAQ&sclient=gws-wiz-serp
+
+Generative artificial intelligence - Wikipedia
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+how to reset course progress brilliant - Google 搜索
+https://www.google.com/search?q=how+to+reset+course+progress+brilliant&sca_esv=597734025&sxsrf=ACQVn09sJjuZiO-FtROLRGrMRQ_bTboZ-g%3A1705042767144&ei=T-OgZf69CKuXvr0PkeO6kAY&oq=How+To+Reset+Course+Progress+br&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0hvdyBUbyBSZXNldCBDb3Vyc2UgUHJvZ3Jlc3MgYnIqAggAMgcQIRgKGKABMgcQIRgKGKABSP0aUMgCWNURcAF4AZABAJgBrwKgAdEHqgEFMi0zLjG4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIFECEYoAHiAwQYACBBiAYBkAYJ&sclient=gws-wiz-serp
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+servo/fontsan: Sanitiser for untrusted font files
+https://github.com/servo/fontsan#29e879c8
+
+Ppaste - A simple pastebin
+https://ppaste.deno.dev/
+
+native-toolkit/libtinyfiledialogs
+https://github.com/native-toolkit/libtinyfiledialogs
+
+apt autoremove - Google 搜索
+https://www.google.com/search?q=apt+autoremove&sca_esv=597744388&sxsrf=ACQVn0-WGnuMB4L8CIrwTRYjhmJKY892nw%3A1705044475039&ei=-umgZd3mOqfM1e8PwLydoAU&ved=0ahUKEwjdy4bSqdeDAxUnZvUHHUBeB1QQ4dUDCBA&uact=5&oq=apt+autoremove&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmFwdCBhdXRvcmVtb3ZlMgoQABiABBiKBRhDMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSOeuA1DgmANYkK4DcAJ4AZABAJgB3gGgAd4UqgEFMC40Ljm4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBBAjGCfCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIOEC4YgAQYxwEY0QMY1ALCAhAQLhiABBiKBRhDGMcBGNEDwgIHEAAYgAQYDOIDBBgAIEGIBgGQBgY&sclient=gws-wiz-serp
+
+how do I eliminate unused packages in version 15.04 - Ask Ubuntu
+https://askubuntu.com/questions/630787/how-do-i-eliminate-unused-packages-in-version-15-04
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+what does /include do - Google 搜索
+https://www.google.com/search?q=what+does+%2Finclude+do&oq=what+does+%2Finclude+do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHtIBCDc0MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How to query the default include paths of clang++? - Stack Overflow
+https://stackoverflow.com/questions/23654168/how-to-query-the-default-include-paths-of-clang
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+intellij idea - How can I fix unused imports in Rust automatically? - Stack Overflow
+https://stackoverflow.com/questions/61077692/how-can-i-fix-unused-imports-in-rust-automatically
+
+Compare · servo/servo
+https://github.com/servo/servo/compare
+
+Reset Progress on a Course, Path, or Exercise – Codecademy Help Center
+https://help.codecademy.com/hc/en-us/articles/220444588-Reset-Progress-on-a-Course-Path-or-Exercise
+
+corpus - Google 搜索
+https://www.google.com/search?q=corpus&oq=corpus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+mozjs/mozjs/src/typedarray.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs/src/typedarray.rs#L146
+
+pdfgrep
+https://pdfgrep.org/
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+servo/components/script/dom/bindings/typedarrays.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/bindings/typedarrays.rs#L103
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Rebase Master Branch Git
+https://chat.openai.com/c/834e648a-4354-4dbc-bd43-8559937e8411
+
+(4) Home / X
+https://twitter.com/home
+
+Next AI News
+https://next-ai-news.vercel.app/search?q=remote
+
+Next AI News
+https://next-ai-news.vercel.app/item/TL3eA636JndT
+
+(3) Facebook
+https://www.facebook.com/shiwulo
+
+• Discord | #announcements | Zig Programming Language
+https://discord.com/channels/605571803288698900/1022628803329142816
+
+irbull (Ian Bull)
+https://github.com/irbull
+
+(4) Servo (@ServoDev) / X
+https://twitter.com/servodev
+
+(4) Linux Foundation Europe (@LF_Europe) / X
+https://twitter.com/LF_Europe
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Rust, not Firefox, is Mozilla's greatest industry contribution | TechRepublic
+https://www.techrepublic.com/article/rust-not-firefox-is-mozillas-greatest-industry-contribution/
+
+Reddit - Dive into anything
+https://www.reddit.com/?signup_survey=true
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+(2) #general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79b
+
+Heap in mozjs_sys::jsgc - Rust
+https://doc.servo.org/mozjs_sys/jsgc/struct.Heap.html#method.boxed
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Remove create_typed_array from dom/bindings · Issue #31050 · servo/servo
+https://github.com/servo/servo/issues/31050
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files
+
+WebIDL impl: Replace use of NonNull<JSObject> with TypedArray · Issue #30889 · servo/servo
+https://github.com/servo/servo/issues/30889
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990/files#diff-88b03ac9bcc2650883607d41bc374d7f3976567cfbee702cc124f14ce2fbc79bR231
+
+servo/components/script/dom/xrview.rs at 355567186400d0531657d0eedda7625de9d0e93a · servo/servo
+https://github.com/servo/servo/blob/355567186400d0531657d0eedda7625de9d0e93a/components/script/dom/xrview.rs#L28
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2023-12-01&to=2023-12-31
+
+Implement Clipboard API and events · Issue #31024 · servo/servo
+https://github.com/servo/servo/issues/31024
+
+Stack Overflow Developer Survey 2023
+https://survey.stackoverflow.co/2023/#ai
+
+Intro to Language Models | Brilliant
+https://brilliant.org/courses/how-llms-work/chapter-1/intro-to-language-models/2/?courseSlug=how-llms-work&chapterSlug=chapter-1&lessonSlug=intro-to-language-models
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+how long human history is - Google 搜索
+https://www.google.com/search?q=how+long+human+history+is&sca_esv=597734025&sxsrf=ACQVn08Uri_LxBpev4NOf47gQKdyHX_APA%3A1705042164994&ei=9OCgZfSkPI7e2roP8c-z4AI&ved=0ahUKEwj07siEodeDAxUOr1YBHfHnDCwQ4dUDCBA&uact=5&oq=how+long+human+history+is&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWhvdyBsb25nIGh1bWFuIGhpc3RvcnkgaXMyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjQK1D8CFjRKnACeAGQAQCYAccBoAG1DaoBAzAuObgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICCBAAGAgYHhgK4gMEGAAgQYgGAZAGAQ&sclient=gws-wiz-serp
+
+Generative artificial intelligence - Wikipedia
+https://en.wikipedia.org/wiki/Generative_artificial_intelligence
+
+how to reset course progress brilliant - Google 搜索
+https://www.google.com/search?q=how+to+reset+course+progress+brilliant&sca_esv=597734025&sxsrf=ACQVn09sJjuZiO-FtROLRGrMRQ_bTboZ-g%3A1705042767144&ei=T-OgZf69CKuXvr0PkeO6kAY&oq=How+To+Reset+Course+Progress+br&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0hvdyBUbyBSZXNldCBDb3Vyc2UgUHJvZ3Jlc3MgYnIqAggAMgcQIRgKGKABMgcQIRgKGKABSP0aUMgCWNURcAF4AZABAJgBrwKgAdEHqgEFMi0zLjG4AQPIAQD4AQL4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIFECEYoAHiAwQYACBBiAYBkAYJ&sclient=gws-wiz-serp
+
+`deno info` should return proper exit codes · Issue #21829 · denoland/deno
+https://github.com/denoland/deno/issues/21829
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+servo/fontsan: Sanitiser for untrusted font files
+https://github.com/servo/fontsan#29e879c8
+
+Ppaste - A simple pastebin
+https://ppaste.deno.dev/
+
+native-toolkit/libtinyfiledialogs
+https://github.com/native-toolkit/libtinyfiledialogs
+
+apt autoremove - Google 搜索
+https://www.google.com/search?q=apt+autoremove&sca_esv=597744388&sxsrf=ACQVn0-WGnuMB4L8CIrwTRYjhmJKY892nw%3A1705044475039&ei=-umgZd3mOqfM1e8PwLydoAU&ved=0ahUKEwjdy4bSqdeDAxUnZvUHHUBeB1QQ4dUDCBA&uact=5&oq=apt+autoremove&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmFwdCBhdXRvcmVtb3ZlMgoQABiABBiKBRhDMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSOeuA1DgmANYkK4DcAJ4AZABAJgB3gGgAd4UqgEFMC40Ljm4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBBAjGCfCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIOEC4YgAQYxwEY0QMY1ALCAhAQLhiABBiKBRhDGMcBGNEDwgIHEAAYgAQYDOIDBBgAIEGIBgGQBgY&sclient=gws-wiz-serp
+
+how do I eliminate unused packages in version 15.04 - Ask Ubuntu
+https://askubuntu.com/questions/630787/how-do-i-eliminate-unused-packages-in-version-15-04
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+what does /include do - Google 搜索
+https://www.google.com/search?q=what+does+%2Finclude+do&oq=what+does+%2Finclude+do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHtIBCDc0MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How to query the default include paths of clang++? - Stack Overflow
+https://stackoverflow.com/questions/23654168/how-to-query-the-default-include-paths-of-clang
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+intellij idea - How can I fix unused imports in Rust automatically? - Stack Overflow
+https://stackoverflow.com/questions/61077692/how-can-i-fix-unused-imports-in-rust-automatically
+
+Compare · servo/servo
+https://github.com/servo/servo/compare
+
+Reset Progress on a Course, Path, or Exercise – Codecademy Help Center
+https://help.codecademy.com/hc/en-us/articles/220444588-Reset-Progress-on-a-Course-Path-or-Exercise
+
+corpus - Google 搜索
+https://www.google.com/search?q=corpus&oq=corpus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+servo/mozjs: Servo's SpiderMonkey fork
+https://github.com/servo/mozjs
+
+pdfgrep
+https://pdfgrep.org/
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+Judea Pearl (@yudapearl) / X
+https://twitter.com/yudapearl
+
+Transmission Control Protocol - Wikipedia
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+
+htejun (Tejun Heo)
+https://github.com/htejun
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+QEMU/Options - Gentoo Wiki
+https://wiki.gentoo.org/wiki/QEMU/Options#Hard_drive
+
+create your own debian distro - Google 搜索
+https://www.google.com/search?q=create+your+own+debian+distro&rlz=1C1GCEA_enCN1091CN1091&oq=create+your+own+debian+d&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQg1Nzk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+How to easily build your own Linux Distro? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/87011/how-to-easily-build-your-own-linux-distro
+
+Read LFS Online
+https://www.linuxfromscratch.org/lfs/read.html
+
+index | Alpine Linux
+https://www.alpinelinux.org/
+
+Linux Tutorial: POSIX Threads
+https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
+
+Node.js HTTP Module
+https://www.w3schools.com/nodejs/nodejs_http.asp
+
+Márton Braun @zsmb13@androiddev.social (@zsmb13) / X
+https://twitter.com/zsmb13
+
+Retrofit meets coroutines - zsmb.co
+https://zsmb.co/retrofit-meets-coroutines/
+
+aosp event comunity - Google 搜索
+https://www.google.com/search?q=aosp+event+comunity&rlz=1C1GCEA_enCN1091CN1091&oq=aosp+event+comunity&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEJMTI3NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+About | The AOSP and AAOS Meetup
+https://aospandaaos.github.io/
+
+RPC Binder - AOSP/AAOS meetup (July 2023)
+https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-dbrazdil-rpc-binder.pdf
+
+编译 aosp - Google 搜索
+https://www.google.com/search?q=%E7%BC%96%E8%AF%91+aosp&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BC%96%E8%AF%91+aosp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMggIAhAAGAUYHjIICAMQABgFGB4yCggEEAAYBRgMGB4yCAgFEAAYBRgeMggIBhAAGAUYHjIKCAcQABgFGAwYHjIICAgQABgIGB4yCggJEAAYCBgKGB7SAQgyNDc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+史上最简最全，Android AOSP源码阅读+编译环境这一篇就够了 - 知乎
+https://zhuanlan.zhihu.com/p/574856795
+
+(2) Resources
+https://tutflix.org/resources/
+
+(2) DesignCourse - Advanced Frontends by Gary Simon - TutFlix - Free Education Community
+https://tutflix.org/resources/designcourse-advanced-frontends-by-gary-simon.10462/
+
+Loading... | Linkvertise
+https://linkvertise.com/238030/advanced-frontend?o=sharing
+
+Reddit - Dive into anything
+https://www.reddit.com/
+
+MarybethGasman (Gasman)
+https://github.com/MarybethGasman
+
+Node.jsでTop-Level Awaitを試す #JavaScript - Qiita
+https://qiita.com/n0bisuke/items/b2236f56437f71db8aff
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+(2) meng Alan (@mengAlan1) / X
+https://twitter.com/mengAlan1
+
 # 2024-1-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
