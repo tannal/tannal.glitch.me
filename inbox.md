@@ -1,5 +1,6 @@
 # 2024-1-12 1+1 | 1+1
 
+stable things will remain stable, rapidly chaning things will remain rapdily changes which will blow your mind.
 corpus 
 
 ls /include/ -lash
@@ -101,7 +102,15 @@ vscode ssh tunning port forwarding
 
 focus on things change slowly in 3-5 years cuda pytorch stable things matter
 
-don't working on things would complete change in a year. eg. js frameworks
+Daniel Bevenius - Principal Software Engineer - Red Hat
+
+highly care about 2024-2027 20-23 (*) and 2027-2030 23-26
+
+There are "popular" things that died quickly.
+
+focus on things change slowly in 3-5 years(more than three years life time after it get "popular") cuda pytorch stable things matter
+
+don't working on things would complete change in a year(short life less than three years). eg. js frameworks 
 
 low level language C and assembly and machine code (knowledge of computer systems)
 

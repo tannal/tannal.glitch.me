@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=PyfY82-NDCM
 
 
 
+
 # Vscode setup
 
 ```json
@@ -104,9 +105,6 @@ A-content/script
 # issues
 
 Implement ResizeObservers
-
-
-
 
 ```bash
 
@@ -241,7 +239,7 @@ fullscreen web api
 
 
 
-## GPT-QA
+# GPT-QA
 
 ## CSS 2
 
@@ -312,6 +310,10 @@ sudo apt install libots-dev
 handle_resize_inactive_msg
 
 ```
+
+
+build errors on windows
+
 
 ```bash
 
