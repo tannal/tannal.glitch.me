@@ -1,4 +1,34 @@
-# 2024-1-13 | 
+# 2024-1-13 1+1 | 1+1
+
+There is no perfect people.
+
+sometimes ai knows, sometime ai doesn't, it's like human.
+
+the future is the sum of all human behavior.
+
+the stock market is a subset of the future.
+
+what do we need around code?
+1. how to change the code? implementation
+2. how users can use the code? interface
+
+it's all about communication, like docs, books, turtorial, community.
+
+so the point is we need a community around the code itself. eg. mailing list, live chat, talks, conference, and connection (with people)
+
+all way go down to it's all about connection with people.
+
+more percisely is the connection between users(interface) and developers(implementation)
+
+and the connection between users and users 
+
+and the connection between developers and developers.
+
+connections means flow, someone leave and someon join.
+
+flow is life.
+
+pnpm, like npm and Yarn deal with package.json
 
 source code -> scanners -> tokens -> parser may throw errors
 
