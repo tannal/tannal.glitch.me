@@ -1,3 +1,43 @@
+# 2024-1-13 | 
+
+source code -> scanners -> tokens -> parser may throw errors
+
+Much of front end construction can be auto
+
+x = x + y -> <id, x> = <id, x> + <id, y>
+
+tokens: number, id, +, -, *, /
+
+context free syntax
+
+1. <expr> ::= <expr> <op> <term>
+2. | <term>
+
+3. <term> ::= number
+4.       |  id
+5. <op> ::= +
+6.      |-
+
+start symbol expr
+
+terminal number, id, +, -
+
+no-terminal <expr>, <term>
+
+production: 1, 2, 3
+
+AST are often used as IR between frontend(clang) and backend (llvm)
+
+backend -> instruction selection -> register allocation -> machine code may throw errors
+
+translate IR to machine code (eg. ast travesal)
+
+choose instruction for each IR op
+
+decide what to keep in register in each point
+
+![Alt text](image-7.png)
+
 # 2024-1-12 1+1 | 1+1
 
 stable things will remain stable, rapidly chaning things will remain rapdily changes which will blow your mind.

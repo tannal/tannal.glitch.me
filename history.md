@@ -1,3 +1,147 @@
+# 2024-1-12
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Element [1] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8?tab=readme-ov-file#handle
+
+danbev (Daniel Bevenius)
+https://github.com/danbev
+
+learning-v8/test/handle_test.cc at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/test/handle_test.cc
+
+axboe/liburing
+https://github.com/axboe/liburing
+
+兰新宇 - 知乎
+https://www.zhihu.com/people/lan-xin-yu
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+(1) Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+fast_check_benchmarks.md
+https://gist.github.com/dsherret/2cbf86f50cb688a557af3714c924f77a
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+servo/components/net/tests/http_loader.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/net/tests/http_loader.rs
+
+AndreuBotella.com
+https://preview-andreubotella-com.deno.dev/
+
+feat(lsp): allow to connect V8 inspector (#21482) · tannal/deno@cdbf902
+https://github.com/tannal/deno/commit/cdbf902499dc62a4fb9f8cbf2a47a7b446623929
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGPT
+https://chat.openai.com/c/834e648a-4354-4dbc-bd43-8559937e8411
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+(1) Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Tracking Issue: Priorities of Real World Zig Users · Issue #17144 · ziglang/zig
+https://github.com/ziglang/zig/issues/17144
+
+Deno Jobs
+https://jobs.ashbyhq.com/Deno
+
+vscode_deno/client/src/commands.ts at 43a135eda01d95548dd2b8b66f8687753cffa222 · denoland/vscode_deno
+https://github.com/denoland/vscode_deno/blob/43a135eda01d95548dd2b8b66f8687753cffa222/client/src/commands.ts#L151
+
+W3C TPAC 2023 - YouTube
+https://www.youtube.com/playlist?list=PLNhYw8KaLq2WR4WvAUpj3qlIWQgY3pAZv
+
+vscode/extensions/typescript-language-features at 6e9b9a45433997677d27fc2cedf4f87748ef7844 · microsoft/vscode
+https://github.com/microsoft/vscode/tree/6e9b9a45433997677d27fc2cedf4f87748ef7844/extensions/typescript-language-features
+
+tannal (tannal)
+https://github.com/tannal/
+
+Shu-yu Guo
+https://rfrn.org/~shu/
+
+doc.dvi
+http://web.cs.ucla.edu/~palsberg/course/cs132/color-lecturenotes.pdf
+
+Robby Findler
+https://users.cs.northwestern.edu/~robby/
+
+systemd - Wikipedia
+https://en.wikipedia.org/wiki/Systemd
+
+systemd/systemd: The systemd System and Service Manager
+https://github.com/systemd/systemd
+
+systemd-resolved | 今天我学了什么
+https://adoyle.me/Today-I-Learned/linux/systemd-resolved.html
+
+978067 - Line number information is missing in gdb for v8 after clang roll 361212:362913 - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=978067
+
+Daniel Bevenius - Google 搜索
+https://www.google.com/search?q=Daniel+Bevenius&rlz=1C1GCEA_enJP1090JP1090&oq=Daniel+Bevenius&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD3SAQcyOTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+gdb run function at breakpoint - Google 搜索
+https://www.google.com/search?q=gdb+run+function+at+breakpoint&rlz=1C1GCEA_enJP1090JP1090&oq=gdb+run+fun&gs_lcrp=EgZjaHJvbWUqBggDEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yBggDEAAYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBge0gEIOTU3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Commits · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/commits/main/
+
+(1) Discord | #🔤｜yjs-beta | Liveblocks
+https://discord.com/channels/913109211746009108/1123560088997728328
+
+Daniel Bevenius - Google 搜索
+https://www.google.com/search?q=Daniel+Bevenius&rlz=1C1GCEA_enJP1090JP1090&oq=Daniel+Bevenius&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPdIBBzMxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+New year, new offer, same job
+https://goose.icu/2024/
+
+1791079 - Add navigator.userActivation API to query user activation state
+https://bugzilla.mozilla.org/show_bug.cgi?id=1791079
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en
+
+Yjs Prosemirror Example
+http://192.168.43.95:3000/prosemirror/prosemirror.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#tree-construction
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#tree-construction
+
+#general > Servo without SpiderMonkey - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20without.20SpiderMonkey
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+dudykr/public-stc: The fastest TypeScript type checker in the world
+https://github.com/dudykr/public-stc
+
+
 # 2024-1-11
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
