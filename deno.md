@@ -31,7 +31,7 @@ tools/ deno subcommand ex tools/info.rs -> deno info
 
 cli/ It's responsible for overseeing tasks such as module loading, security checks, and runtime environment management.
 
-![Alt text](image-3.png)
+![Alt text](./image-3.png)
 
 # build run testing logging
 
