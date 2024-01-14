@@ -1,10 +1,24 @@
 
 # inbox
 
+interface high level desc nature language
+
+implementation details class/structs property/function data structure algorithms
+
+name space wrap some system global resource to provide resource isolation
+
+
+hostname uname syscall
+mount point list
+ipc
+pid namespace
+
+
 ETIMEDOUT
 
 ECONNREFUSED
 
+p sk->__sk_common->skc_state
 
 if (th->rst) {
 			tcp_reset(sk, skb);
@@ -18,6 +32,12 @@ tcp_v4_connect
 
 tcp_finish_connect
     tcp_set_state(sk, TCP_ESTABLISHED);
+
+
+
+tcp_reset
+tcp_done
+	tcp_set_state(sk, TCP_CLOSE);
 
 
 hash value of

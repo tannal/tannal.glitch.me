@@ -1,5 +1,15 @@
 # 2024-1-14
 
+
+
+There are many books write by (technical) writer not engineers.
+
+sudo netstat -tlpen
+
+lsof -i -a -p 11520
+
+sudo netstat --all --program | grep '11520'
+
 postgreSQL in the only database which is not use direct I/O O_DIRECT
 
 blk-mq each cpu can have each i/o queue

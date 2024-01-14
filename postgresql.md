@@ -26,6 +26,9 @@ BEGIN
     END LOOP;
 END $$;
 
+SELECT count(*) FROM my_table;
+
+
 sudo ./funccount '*vfs*'
 sudo ./funccount '*ext4*'
 sudo ./funccount '*blk_mq*'
@@ -36,6 +39,13 @@ sudo ./kprobe -s 'p:blk_mq_init_sched'
 
 createdb mydb
 psql -d mydb
+
+
+psql -U postgres -d postgres -h localhost -d mydb
+
+
+
+\password postgres
 \conninfo
 
 
