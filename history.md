@@ -1,5 +1,158 @@
 # 2024-1-12
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Linux 内核网络栈 - Xuewei's Blog
+https://nxw.name/2022/linux-network-stack
+
+阿里二面：没有 accept，能建立 TCP 连接吗？
+https://mp.weixin.qq.com/s/oPX_JoZUaLn6sW54yppfvA
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Log in
+https://www.outreachy.org/login/?next=/apply/
+
+Markdown & MDX | Docs
+https://docs.astro.build/en/guides/markdown-content/
+
+• Discord | #clang | LLVM
+https://discord.com/channels/636084430946959380/636732781086638081
+
+Vite PWA
+https://github.com/vite-pwa
+
+Images | Docs
+https://docs.astro.build/en/guides/images/#images-in-markdown-files
+
+Image Service API | Docs
+https://docs.astro.build/en/reference/image-service-reference/
+
+ast visitor site:cs.cmu.edu - Google 搜索
+https://www.google.com/search?q=ast+visitor+site%3Acs.cmu.edu&sca_esv=598129589&sxsrf=ACQVn0_L0JTcVdvgxe_dCoYMz6pryoKDQg%3A1705147185801&ei=MXuiZcbLMLqgvr0Ps6mb6AE&ved=0ahUKEwiGqLKiqNqDAxU6kK8BHbPUBh0Q4dUDCBA&uact=5&oq=ast+visitor+site%3Acs.cmu.edu&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2FzdCB2aXNpdG9yIHNpdGU6Y3MuY211LmVkdUiZB1DTBVjTBXABeAGQAQCYAbMBoAGzAaoBAzAuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Microsoft PowerPoint - 01-introduction.pptx
+https://www.cs.cmu.edu/~aldrich/courses/17-355-17sp/notes/01-introduction.pdf
+
+Node.js and package.json interaction
+https://chat.openai.com/c/94888f2f-7275-402c-ba3b-9ba0ab456151
+
+Jonathan Aldrich - Home
+https://www.cs.cmu.edu/~aldrich/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%27t%20be%20snarky&op=translate
+
+withastro/astro: The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
+https://github.com/withastro/astro
+
+Issue search results
+https://github.com/search?q=repo%3Awithastro%2Fastro+%22externalize+this%22&type=issues
+
+VSCode New Version (1.79) Supports Pasting Images in Markdown - DEV Community
+https://dev.to/francecil/vscode-new-version-179-supports-pasting-images-in-markdown-1fd2
+
+tannal.web.app/posts/clang/
+https://tannal.web.app/posts/clang/
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+tannal (tannal)
+https://github.com/tannal
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+throughput and latency - Google 搜索
+https://www.google.com/search?q=throughput+and+latency&oq=thoughput+and+la&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMggIBBAAGA0YHjIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGAoYHjIICAgQABgNGB4yCAgJEAAYDRge0gEINDUwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+How To Install PostgreSQL on Ubuntu 22.04 LTS (Linux) - YouTube
+https://www.youtube.com/watch?v=tducLYZzElo
+
+linux vfs page cache pdf - Google 搜索
+https://www.google.com/search?q=linux+vfs+page+cache+pdf&sca_esv=598290981&sxsrf=ACQVn097-UoLvNdTFXbrkhvEVRXFDcJAUg%3A1705210155251&ei=K3GjZcr6DpDn2roP5NSz2Ao&ved=0ahUKEwiKvMjsktyDAxWQs1YBHWTqDKsQ4dUDCBA&uact=5&oq=linux+vfs+page+cache+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGxpbnV4IHZmcyBwYWdlIGNhY2hlIHBkZjIFECEYoAEyBRAhGKABSO4KUOEEWM4JcAF4AZABAJgB5QGgAfEEqgEFMC4yLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICCBAAGIAEGKIE4gMEGAAgQYgGAZAGBg&sclient=gws-wiz-serp#ip=1
+
+Linux.Kernel.Write.Procedure.pdf
+https://lrita.github.io/images/posts/filesystem/Linux.Kernel.Write.Procedure.pdf
+
+postgre version `GLIBC_2.25' not found - Google 搜索
+https://www.google.com/search?q=postgre+version+%60GLIBC_2.25%27+not+found&oq=postgre+version+%60GLIBC_2.25%27+not+found&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDM5ODdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+/lib/aarch64-linux-gnu/libc.so.6: version `GLIBC_2.25' not found · Issue #1857 · Ylianst/MeshCentral
+https://github.com/Ylianst/MeshCentral/issues/1857
+
+How To Install PostgreSQL on Ubuntu 22.04 LTS (Linux) - YouTube
+https://www.youtube.com/watch?v=tducLYZzElo
+
+PostgreSQL: Downloads
+https://www.postgresql.org/download/
+
+PostgreSQL: Linux downloads (Ubuntu)
+https://www.postgresql.org/download/linux/ubuntu/
+
+Wrong ownership on bind mount · Issue #1010 · docker-library/postgres
+https://github.com/docker-library/postgres/issues/1010
+
+Configure NGINX as a Reverse Proxy - YouTube
+https://www.youtube.com/watch?v=lZVAI3PqgHc
+
+FRP-内网穿透-frps服务端-WEB管理面板-Dashboard_frp服务端控制面板-CSDN博客
+https://blog.csdn.net/m0_37969197/article/details/114581834
+
+(3) Facebook
+https://www.facebook.com/shiwulo
+
+Give me 15 minutes and I'll change your view of Linux tracing - YouTube
+https://www.youtube.com/watch?v=GsMs3n8CB6g
+
+An eBPF overview, part 5: Tracing user processes
+https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/
+
+Code search results
+https://github.com/search?q=org%3Apostgres%20%22O_DIRECT%22&type=code
+
+字节三面，答的不满意-今日头条
+https://www.toutiao.com/article/7126061925317919267/?wid=1705218698721
+
+sk_buff封装和解封装网络数据包的过程详解-阿里云开发者社区
+https://developer.aliyun.com/article/493743
+
+steal a socket from an sk_buff - Google 搜索
+https://www.google.com/search?q=steal+a+socket+from+an+sk_buff&oq=steal+a+socket+from+an+sk_buff&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiiBBiJBdIBBzI5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+TCP实现之：L3的IP协议_ip_rcv_finish_core-CSDN博客
+https://blog.csdn.net/qq_17045267/article/details/117961770
+
+Remote Debugging using gdbserver - GNAT User's Guide
+https://gcc.gnu.org/onlinedocs/gcc-4.6.4/gnat_ugn_unw/Remote-Debugging-using-gdbserver.html
+
+高性能网络编程3----TCP消息的接收 | 个人笔记
+https://www.taohui.tech/2016/01/26/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B3-tcp%E6%B6%88%E6%81%AF%E7%9A%84%E6%8E%A5%E6%94%B6/
+
+Is there a quick way to display the source code at a breakpoint in gdb? - Stack Overflow
+https://stackoverflow.com/questions/34139946/is-there-a-quick-way-to-display-the-source-code-at-a-breakpoint-in-gdb
+
+Connection refused · Debian Code Search
+https://codesearch.debian.net/search?q=Connection+refused&literal=1
+
+Code search results
+https://github.com/search?q=repo%3Amirror%2Fwget%20ETIMEDOUT&type=code
+
+dafny turing lecture - Google 搜索
+https://www.google.com/search?q=dafny+turing+lecture&oq=dafny+turing+lec&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDgxNzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Abminor%2Fglibc%20ECONNREFUSED&type=code
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
