@@ -1,4 +1,148 @@
-# 2024-1-12
+# 2024-1-13
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#outreachy-schedule
+
+Outreachy Internships - YouTube
+https://www.youtube.com/@outreachyinternships/streams
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+c - Find original owning process of a Linux socket - Stack Overflow
+https://stackoverflow.com/questions/2358518/find-original-owning-process-of-a-linux-socket
+
+bash - How to find ports opened by process ID in Linux? - Stack Overflow
+https://stackoverflow.com/questions/942824/how-to-find-ports-opened-by-process-id-in-linux
+
+ChatGPT
+https://chat.openai.com/c/a349ea4a-4f77-40bd-80fd-111961d45fe7
+
+tcpdump PostgreSQL
+https://www.manniwood.com/2016_12_29/tcpdump_pg.html
+
+windows - What is the default password for Postgres - Stack Overflow
+https://stackoverflow.com/questions/27107557/what-is-the-default-password-for-postgres
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20openssl&type=code
+
+OpenSSL - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/OpenSSL#GmSSL
+
+guanzhi (Zhi Guan)
+https://github.com/guanzhi
+
+reverse_bits( · Debian Code Search
+https://codesearch.debian.net/search?q=reverse_bits%28&literal=1
+
+openssl/openssl: TLS/SSL and crypto library
+https://github.com/openssl/openssl
+
+Docker 50% performance hit on cpu intensive code - Stack Overflow
+https://stackoverflow.com/questions/60840320/docker-50-performance-hit-on-cpu-intensive-code
+
+Michael Kerrisk :: Understanding Linux user namespaces - YouTube
+https://www.youtube.com/watch?v=XgThPoL9mPE
+
+docker using linux namespace - Google 搜索
+https://www.google.com/search?q=docker+using+linux+namespace&sca_esv=598359895&tbm=vid&sxsrf=ACQVn0_klkpttUWdvln21VcvkGiSIndDFg:1705231214007&source=lnms&sa=X&ved=2ahUKEwjP-5Sm4dyDAxUTaPUHHakkAv4Q_AUoAXoECAIQAw&biw=1280&bih=593&dpr=1.5
+
+Kernel Internals | namespaces | cgroups | Containers | Docker - YouTube
+https://www.youtube.com/watch?v=-I2PnsyUou4
+
+Cgroups, namespaces, and beyond: what are containers made from? - YouTube
+https://www.youtube.com/watch?v=sK5i-N34im8
+
+Linux Container Primitives: cgroups, namespaces, and more! - YouTube
+https://www.youtube.com/watch?v=x1npPrzyKfs
+
+Containerd: Project Update and Deep Dive - Maksym Pavlenko, Apple & Samuel Karp, Google - YouTube
+https://www.youtube.com/watch?v=a1-9lIZszVU
+
+Deprecation Warnings in containerd - Getting Ready for 2.0!
+https://samuel.karp.dev/blog/2024/01/deprecation-warnings-in-containerd-getting-ready-for-2.0/
+
+containerd vs docker - Google 搜索
+https://www.google.com/search?q=containerd+vs+docker&sca_esv=598359895&sxsrf=ACQVn09W6lRhRCRRRF7VM9CMylEVTsPpYQ%3A1705231440043&ei=UMSjZa-hAtbi1e8PsdGwqAg&ved=0ahUKEwivifmR4tyDAxVWcfUHHbEoDIUQ4dUDCBA&uact=5&oq=containerd+vs+docker&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNvbnRhaW5lcmQgdnMgZG9ja2VyMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUjUEVCfBFi1EHABeAGQAQCYAaACoAGAD6oBBTAuMS44uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIHEAAYgAQYDOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Linux Foundation Mentorship Program — Gayathri Venkatesh | by Anubhava - IIIT Bangalore's Career Blog | Medium
+https://medium.com/@iiitbanubhava/linux-foundation-mentorship-program-gayathri-venkatesh-25c63fabaea
+
+(4) Bartłomiej Płotka (@bwplotka) / X
+https://twitter.com/bwplotka/status/1742923845273825465/photo/1
+
+(4) Ganesh Vernekar (@_codesome) / X
+https://twitter.com/_codesome?lang=en
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Prometheus&op=translate
+
+lshort.pdf
+https://ftp.kddilabs.jp/CTAN/info/lshort/english/lshort.pdf
+
+LaTeX for Complete Novices
+https://www.dickimaw-books.com/latex/novices/
+
+Home | Bookdown
+https://bookdown.org/
+
+moderndive/ModernDive_book: Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
+https://github.com/moderndive/ModernDive_book
+
+R Markdown
+https://rmarkdown.rstudio.com/
+
+tectonic-typesetting/tectonic: A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
+https://github.com/tectonic-typesetting/tectonic
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Writing in Typst – Typst Documentation
+https://typst.app/docs/tutorial/writing-in-typst/
+
+• Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+vscode/extensions/markdown-math at 12443ca030f93843ca5e9dfb5682ad92d2c6400c · microsoft/vscode
+https://github.com/microsoft/vscode/tree/12443ca030f93843ca5e9dfb5682ad92d2c6400c/extensions/markdown-math
+
+\tag not honored in MathML output · Issue #3783 · KaTeX/KaTeX
+https://github.com/KaTeX/KaTeX/issues/3783
+
+Temml - Convert TeX to MathML
+https://temml.org/
+
+Temml Functions
+https://temml.org/docs/en/supported
+
+KaTeX – The fastest math typesetting library for the web
+https://katex.org/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+errors - What does the phrase "Underfull \hbox (badness 10000) in paragraph" actually mean? - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/334246/what-does-the-phrase-underfull-hbox-badness-10000-in-paragraph-actually-mea
+
+denoland/webgpu-examples
+https://github.com/denoland/webgpu-examples
+
+Supabase Javascript Client - Sign in a user through OAuth
+https://supabase.com/docs/reference/javascript/db-abortsignal
+
+v0 by Vercel
+https://v0.dev/
+
+Vercel – Vercel
+https://vercel.com/tannals-projects
 
 linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
@@ -293,6 +437,8 @@ https://github.com/KnorpelSenf/servo/blob/2a7387da6414eb3469df1fb15595100b3fbe1b
 
 gmail.com
 https://gmail.com/
+
+# 2024-1-12
 
 tannal/mozjs: Servo's SpiderMonkey fork
 https://github.com/tannal/mozjs/tree/master

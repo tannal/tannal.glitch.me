@@ -1,3 +1,20 @@
+
+$ v := vec(x_1, x_2, x_3) $
+
+
+```bash
+
+git clone https://github.com/servo/servo/
+
+mach bootstrap
+
+mach build
+
+```
+
+
+
+
 set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\bin
 set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\
 set LIBCLANG_PATH=C:\Program Files\LLVM\lib

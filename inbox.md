@@ -2,6 +2,16 @@
 
 
 
+The biggest truth I found is that, there is no "truth". The world it's just random people doing random things.
+
+find interesting projects and make it more useful impresive amazing beautiful.
+
+We normal don't talk to users directly as a software engineer.
+
+As a software engineer, we ususally talk to product manager or project manager, not the user.
+
+open source project allow us to directly talk to our users and get feedback.
+
 There are many books write by (technical) writer not engineers.
 
 sudo netstat -tlpen
@@ -338,7 +348,6 @@ cloudflare images
 # 2024-1-11 0 | 0
 
 
->>>>>>> 2f88cdb624e2648c960ce93d394c89ba080e0e00
 nodejs core concepts
 
 blocking non-blocking
@@ -379,7 +388,6 @@ telemetry协议
 
 https://aospandaaos.github.io/
 
->>>>>>> 4b33400aa78a61c6a5edb2ec9b49d7134381e14d
 deno run -A --unstable server.ts
 
 import { core, internals, primordials } from "ext:core/mod.js";
