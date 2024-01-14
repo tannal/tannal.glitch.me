@@ -84,6 +84,30 @@ make it impressive amazing
 
 # 2024-1-13 1+1+1+1+1+1 | 1+1+1
 
+
+
+RAM
+
+Disk
+
+os (Linux/windows/macos)
+DB 
+
+► Computer architecture	
+► Computer networks	
+► Computer security	
+► Databases	
+► Design automation	
+► Embedded & real-time systems  	
+► High-performance computing	
+► Mobile computing	
+► Measurement & perf. analysis 	
+► Operating systems	
+► Programming languages	
+► Software engineering
+
+https://marabos.nl/atomics/
+
 android ndk can compile c/c++ for antroid target
 
 bun to zig is like servo to rust

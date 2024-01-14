@@ -1,4 +1,29 @@
 
+## windows
+
+```
+choco install python311
+
+setx PYTHON3 "C:\Python11\python.exe" /m
+
+vs_BuildTools.exe^
+    --add Microsoft.VisualStudio.Component.Roslyn.Compiler^
+    --add Microsoft.Component.MSBuild^
+    --add Microsoft.VisualStudio.Component.CoreBuildTools^
+    --add Microsoft.VisualStudio.Workload.MSBuildTools^
+    --add Microsoft.VisualStudio.Component.Windows10SDK^
+    --add Microsoft.VisualStudio.Component.Windows10SDK.20348^
+    --add Microsoft.VisualStudio.Component.VC.CoreBuildTools^
+    --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64^
+    --add Microsoft.VisualStudio.Component.VC.Redist.14.Latest^
+    --add Microsoft.VisualStudio.Component.VC.ATL^
+    --add Microsoft.VisualStudio.Component.VC.ATLMFC^
+    --add Microsoft.VisualStudio.Component.TextTemplating^
+    --add Microsoft.VisualStudio.Component.VC.CoreIde^
+    --add Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core^
+    --add Microsoft.VisualStudio.Workload.VCTools
+
+
 $ v := vec(x_1, x_2, x_3) $
 
 
@@ -25,8 +50,8 @@ set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\bin
 set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\
 set LIBCLANG_PATH=C:\Program Files\LLVM\lib
 
+```
 
-C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars64
 
 WebIDL
 
