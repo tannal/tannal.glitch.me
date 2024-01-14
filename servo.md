@@ -6,6 +6,12 @@ $ v := vec(x_1, x_2, x_3) $
 
 git clone https://github.com/servo/servo/
 
+sudo apt install python3.10-venv
+
+export PIP_EXTRA_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
 mach bootstrap
 
 mach build

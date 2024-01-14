@@ -1,6 +1,12 @@
 # 2024-1-14
 
+smalltalk strongtalk self
 
+v8 dart
+
+toit
+
+https://news.ycombinator.com/threads?id=mraleph
 
 The biggest truth I found is that, there is no "truth". The world it's just random people doing random things.
 
@@ -888,6 +894,8 @@ web history
 SSR enhanced dev
 
 git log --grep="facebook"
+
+git log --grep="Josh Miller"
 
 git show --stat --name-only
 

@@ -1,5 +1,12 @@
 # inbox
 
+Mark Larson, Brian Rakowski, Darin Fisher, and Ben Goodger
+
+
+Kasper Lund Lars Bak
+
+Remove ben and darin from OWNERS files to make it clear they're not doing reviews.
+
 https://html.spec.whatwg.org/C#event-loop third_party/blink/renderer/platform/scheduler/public/event_loop.h
 
 
