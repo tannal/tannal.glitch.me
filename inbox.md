@@ -1,3 +1,61 @@
+# 2024-1-14
+
+postgreSQL in the only database which is not use direct I/O O_DIRECT
+
+blk-mq each cpu can have each i/o queue
+
+Linux kernel's SCSI subsystem,
+
+CFQ deadline noop none PCIe SSds SAN disk arrays
+
+scp -i C:\Users\tanna\Downloads\first.pem compile_commands.json 124.223.112.154@ubuntu:/home/tannal/tannalwork/projects/linux/compile_commands.json
+
+chmod 400 /home/tannal/tannalwork/projects/llvm-project/first.pem
+
+scp -i /home/tannal/tannalwork/projects/llvm-project/first.pem compile_commands.json ubuntu@124.223.112.154:/home/ubuntu/tannalwork/projects/linux/compile_commands.json
+
+
+ldd --version
+
+sudo snap remove postgres
+
+
+/home/ubuntu/.config/clash/config.yaml
+
+~/setup/clash/clash-linux-amd64-v1.14.0
+
+https://lrita.github.io/images/posts/filesystem/Linux.Kernel.Write.Procedure.pdf
+maximize throughput betwween memory and disks
+rotating disk vs ssd
+
+database memory
+direct IO / VFS / Page Cache
+EXT4
+BIO Layer request layer (i/o scheduler)
+
+block device interface
+disks
+
+sorts hashing worst-case fsyncs
+
+shared memory can be very large flush can cayse hugh IO (TB memory)
+
+checkpoint
+
+WAL need fast and safe because we have log for every transaction.
+
+
+it easy to "fool" people.
+
+short video
+
+find a sweet spot at nenu
+back to cn social media
+rmeote & open source / typical cn company / cn startup
+make sure 1.01 theory
+no restriction ways
+make it impressive amazing 
+
 # 2024-1-13 1+1+1+1+1+1 | 1+1+1
 
 android ndk can compile c/c++ for antroid target
@@ -217,6 +275,9 @@ vim .bashrc
 export https_proxy=http://192.168.43.1:7890
 export http_proxy=http://192.168.43.1:7890
 
+
+export https_proxy=http://127.0.0.1:7890
+export http_proxy=http://127.0.0.1:7890
 ```
 
 

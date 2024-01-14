@@ -1,6 +1,35 @@
 
 # inbox
 
+ETIMEDOUT
+
+ECONNREFUSED
+
+
+if (th->rst) {
+			tcp_reset(sk, skb);
+consume:
+			__kfree_skb(skb);
+			return 0;
+		}
+
+tcp_v4_connect
+	tcp_set_state(sk, TCP_SYN_SENT);
+
+tcp_finish_connect
+    tcp_set_state(sk, TCP_ESTABLISHED);
+
+
+hash value of
+source and destination IP addresses, source and destination port numbers, and the transport protocol (e.g., TCP, UDP).
+
+__inet_lookup_skb  函数首先查找连接建立状态的socket（__inet_lookup_established）
+ 在没有命中的情况下，才会查找监听套接口 _inet_lookup_listener
+
+根据目的地址和目的端口算出一个哈希值，然后在哈希表找到对应监听该端口的 socket
+
+tcpv4_send_reset
+
 Luis Chamberlain Qualcomm
 
 Pankaj Raghav Samsung Electronics
@@ -888,7 +917,14 @@ grub-mkrescue -o mylinux-core-glibc.iso ./iso
 
 qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G
 
-qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G -S -gdb tcp::6666 -kernel ./linux-6.7/arch/x86/boot/bzImage -append "nokaslr"
+qemu-system-x86_64 -boot d -cdrom mylinux-core-glibc.iso -enable-kvm -m 4G -S -gdb tcp::6666
+
+ -append "nokaslr"
+
+gdb ./linux-6.7/vmlinux
+
+target remote localhost:6666
+
 
 CONFIG_GDB_SCRIPTS=y
 CONFIG_DEBUG_INFO=y
