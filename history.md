@@ -1,3 +1,151 @@
+# 2024-1-14
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · golang/go
+https://github.com/golang/go/issues
+
+Can pip.conf specify two index-url at the same time? - Stack Overflow
+https://stackoverflow.com/questions/30889494/can-pip-conf-specify-two-index-url-at-the-same-time
+
+pip永久配置清华源镜像-阿里云开发者社区
+https://developer.aliyun.com/article/1144501
+
+mraleph (Slava Egorov)
+https://github.com/mraleph
+
+Improved V8 external arrays support and nodejs Buffer type
+https://mrale.ph/blog/2011/03/30/external-arrays-and-nodejs.html
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+Connecting the dots · Benedikt Meurer
+https://benediktmeurer.de/2017/10/05/connecting-the-dots/
+
+(4) V8 on X: "During her “internship on laziness”, @jupvfranco implemented lazy unlinking of deoptimized functions in V8 🔥 https://t.co/r6JW3WkyTr" / X
+https://twitter.com/v8js/status/915473224187760640
+
+(4) V8 on X: "During her “internship on laziness”, @jupvfranco implemented lazy unlinking of deoptimized functions in V8 🔥 https://t.co/r6JW3WkyTr" / X
+https://twitter.com/v8js/status/915473224187760640
+
+Lazy deoptimization without code patching - Google 文档
+https://docs.google.com/document/d/1ELgd71B6iBaU6UmZ_lvwxf_OrYYnv0e4nuzZpK05-pg/edit?pli=1
+
+(4) Rick Byers on X: "The diversity of investment in Chromium is on a steady decline. IMHO this is bad for the resiliency of the open web. Great BlinkOn talk by Shruthi with some ideas and discussion of what we, the Chromium open source community, might want to do about it. https://t.co/Xlj6HZK8RZ https://t.co/0wBhDZPZWA" / X
+https://twitter.com/RickByers/status/1715568535731155100
+
+Dominique Hazael-Massieux: "@npdoty @RickByers @torgo @dba…" - w3c.social
+https://w3c.social/@dontcallmeDOM/111166015860995897
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%83%80%E3%83%81%E3%83%A7%E3%82%A6&op=translate
+
+ChatGPT
+https://chat.openai.com/c/b39e2f6e-4b9a-4ec5-9290-392ead7ec5a3
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Google
+https://www.google.com/
+
+(4) Josh Miller (@joshm) / X
+https://twitter.com/joshm
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+Inside look at modern web browser (part 1)  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/inside-browser-part1
+
+(4) Ilya Grigorik (@igrigorik) / X
+https://twitter.com/igrigorik
+
+lex - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Lex
+
+Lesk Home Page
+https://www.lesk.com/
+
+cm.bell-labs.com
+http://cm.bell-labs.com/cm/cs/who/dmr/chist.html
+
+おっと 夫 - Google 搜索
+https://www.google.com/search?q=%E3%81%8A%E3%81%A3%E3%81%A8+%E5%A4%AB&sca_esv=598384587&sxsrf=ACQVn0-AC_QkzI1Vjp-vjek9YhPp4s4-yg%3A1705239835662&ei=G-WjZcWIKOP01e8PgsSN2AY&oq=%E3%81%8A%E3%81%A3%E3%81%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCeOBiuOBo-OBqCoCCAEyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI1A9QAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Ted Choc google chrome - Google 搜索
+https://www.google.com/search?q=Ted+Choc+google+chrome&oq=Ted+Choc+google+chrome&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDc0NTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+ulan (Ulan Degenbaev)
+https://github.com/ulan
+
+dart-lang/language: Design of the Dart language
+https://github.com/dart-lang/language
+
+Code search results
+https://github.com/search?q=repo%3Adart-lang%2Fsdk%20llvm&type=code
+
+does dart use llvm - Google 搜索
+https://www.google.com/search?q=does+dart+use+llvm&oq=does+dart+use+llvm&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAE0gEIMzg3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Google discussed teaming up with Tencent to buy Epic Games
+https://www.tweaktown.com/news/94472/google-discussed-teaming-up-with-tencent-to-buy-epic-games/index.html
+
+Lars Bak (computer programmer) - Wikipedia
+https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)#cite_note-Schenker-1
+
+v8 dart toit - Google 搜索
+https://www.google.com/search?q=v8+dart+toit&oq=v8+dart+toit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDM2MzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+capableweb's comments | Hacker News
+https://news.ycombinator.com/threads?id=capableweb
+
+polyglotfacto2's comments | Hacker News
+https://news.ycombinator.com/threads?id=polyglotfacto2
+
+Gregory Terzian – Medium
+https://medium.com/@polyglot_factotum
+
+Processes and Concurrency | Python for Youngsters
+https://medium.com/python-for-children-and-anyone-else-who-wants-to/python-for-children-4661030cc88
+
+Build your first app | Serverpod
+https://docs.serverpod.dev/tutorials/first-app
+
+(4) Jake Wharton on X: "@ImNadeem786 @JimSproch Flutter is a manifestation of everything wrong with Google as a company. A language that should have (and did) fail but kept alive. Control of the two most popular platforms on the planet and failing to unify them while allowing a third to be created that actively undermines both" / X
+https://twitter.com/JakeWharton/status/1421139368467632136
+
+Flutter: The Best Way to Build for Mobile? • Kasper Lund • GOTO 2017 - YouTube
+https://www.youtube.com/watch?app=desktop&v=1BXg4wfB9pA
+
+Self (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Self_(programming_language)
+
+五分钟看懂 Smalltalk 语言 - 知乎
+https://zhuanlan.zhihu.com/p/423372660
+
+Get started with Compose Multiplatform — tutorial | Kotlin Multiplatform Development Documentation
+https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html#join-the-community
+
+Kotlin Slack Sign-up
+https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
+
+kotlinlang #announcements
+https://slack-chats.kotlinlang.org/?utm_campaign=slack_promo&utm_medium=survey&utm_source=alchemer
+
+Kotlin Slack Sign-up
+https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
+
+kotlinlang #announcements
+https://slack-chats.kotlinlang.org/?utm_campaign=slack_promo&utm_medium=survey&utm_source=alchemer
+
+Build your own linux distribution
+https://tannal.github.io/blog/build-your-own-distro/
+
 # 2024-1-13
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

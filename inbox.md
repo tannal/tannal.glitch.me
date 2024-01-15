@@ -1,5 +1,9 @@
 # 2024-1-15 | 1+1
 
+Devops github actions or gitlab ci/cd
+
+semantic versioning https://semver.org/
+
 https://css-tricks.com/snippets/css/typewriter-effect/
 
 Engineer tipically don't write docs, If you find some engineers/researchers write about themselves, follow them.
