@@ -1,5 +1,103 @@
 # 2024-1-15 | 1+1
 
+
+```bash
+
+wget https://github.com/fatedier/frp/releases/download/v0.53.2/frp_0.53.2_linux_arm64.tar.gz
+
+tar xvf frp_0.53.2_linux_arm64.tar.gz
+
+wget https://github.com/fatedier/frp/releases/download/v0.53.2/frp_0.53.2_linux_amd64.tar.gz
+
+sudo vim /etc/systemd/system/frps.service
+
+[Unit]
+# 服务名称，可自定义
+Description = frp server
+After = network.target syslog.target
+Wants = network.target
+
+[Service]
+Type = simple
+# 启动frps的命令，需修改为您的frps的安装路径
+ExecStart = /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps -c /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps.toml
+
+[Install]
+WantedBy = multi-user.target
+
+# 启动frp
+sudo systemctl start frps
+# 停止frp
+sudo systemctl stop frps
+# 重启frp
+sudo systemctl restart frps
+# 查看frp状态
+sudo systemctl status frps
+
+
+sudo systemctl enable frps
+
+
+sudo vim /etc/systemd/system/frpc.service
+[Unit]
+# 服务名称，可自定义
+Description = frpc
+After = network.target syslog.target
+Wants = network.target
+
+[Service]
+Type = simple
+# 启动frps的命令，需修改为您的frps的安装路径
+ExecStart = /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_arm64/frpc -c /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_arm64/frpc.toml
+
+[Install]
+WantedBy = multi-user.target
+
+sudo systemctl enable frpc
+
+journalctl -u frpc.service
+
+
+tar xvf frp_0.53.2_linux_amd64.tar.gz
+
+./frps -c frps.toml
+
+
+@todo clash systemctl
+
+```
+
+microservices grpc computing nodes shared network grpc trpc protocol buffers
+
+buildah podman
+
+webapplication client code & server code & mysql/postgresql & redis & middleware
+
+docker compose can compose them together in a yaml file and run in one container
+but still create separate image for each dockerfile
+
+docker-compose build
+docker-compose run
+
+docker image read only template, recreate when change
+
+sudo ls /var/lib/docker
+
+buildkit  containers  engine-id  image  network  overlay2  plugins  runtimes  swarm  tmp  volumes
+
+docker info
+
+```dockerfile
+
+FROM alpine
+CMD ["echo", "Hello World!"]
+
+
+docker build -f Dockerfile -t alpine:helloworld
+
+
+```
+
 Devops github actions or gitlab ci/cd
 
 semantic versioning https://semver.org/
