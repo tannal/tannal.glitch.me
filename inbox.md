@@ -1,5 +1,12 @@
 # 2024-1-15 | 1+1
 
+https://css-tricks.com/snippets/css/typewriter-effect/
+
+Engineer tipically don't write docs, If you find some engineers/researchers write about themselves, follow them.
+
+Mdn docs is mainly written by tech writer and advocate (in mozilla). keep this in mind.
+
+
 guide the people who read your words to a good direction.
 
 

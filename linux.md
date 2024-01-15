@@ -741,8 +741,6 @@ tar xvf glibc-2.38.tar.gz
 
 cd glibc-2.38
 
-
-
 mkdir build
 mkdir GLIBC
 
