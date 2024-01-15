@@ -1,5 +1,125 @@
 # 2024-1-14
 
+github.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+WebIDL: use TypedArray · Issue #31064 · servo/servo
+https://github.com/servo/servo/issues/31064
+
+webidl - Google 搜索
+https://www.google.com/search?q=webidl&sca_esv=598520719&tbm=vid&sxsrf=ACQVn08XYjHoGuC461zXy2VUtCbETgv5sg:1705308663097&source=lnms&sa=X&ved=2ahUKEwiPmOLogd-DAxUUhlYBHaRYCBwQ_AUoBHoECAIQBg&biw=1280&bih=593&dpr=1.5
+
+[Linux.conf.au 2013] - Web IDL Defining Web APIs and Implementing Javascript Bindings - YouTube
+https://www.youtube.com/watch?v=kcopiMcWUGc
+
+Cameron McCormack - Apple - Google 搜索
+https://www.google.com/search?q=Cameron+McCormack+-+Apple&sca_esv=598520719&sxsrf=ACQVn0_hU_ceF7j_V7cn7zU8MLomEJ5H-Q%3A1705308755508&ei=U_KkZb7MHqfx1e8Pq-aSmAY&ved=0ahUKEwj-weqUgt-DAxWnePUHHSuzBGMQ4dUDCBA&uact=5&oq=Cameron+McCormack+-+Apple&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUNhbWVyb24gTWNDb3JtYWNrIC0gQXBwbGVIpARQxwJYxwJwAHgAkAEAmAHLAaABywGqAQMyLTG4AQPIAQD4AQL4AQHiAwQYACBBiAYB&sclient=gws-wiz-serp
+
+(4) Cameron McCormack (@heycam) / X
+https://twitter.com/heycam
+
+omg idl - Google 搜索
+https://www.google.com/search?q=omg+idl&oq=omg+idl&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQLhhDGNQCGIAEGIoFMg8IAhAuGEMY1AIYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyDQgHEC4YxwEY0QMYgAQyBwgIEAAYgATSAQgxMjg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/6a97d941-a9d2-4c56-8745-9b95873b314f
+
+登录 - Google 账号
+https://accounts.google.com/signin/oauth/oauthchooseaccount?gsiwebsdk=3&client_id=741522628706-7vi2fujgcb4mmul06o8isdb6on2lobui.apps.googleusercontent.com&scope=email%20profile&redirect_uri=https%3A%2F%2Fpoe.com%2Fgoogle_callback&prompt=consent&state=eyJwZXJtcyI6ICIiLCAiY3NyZiI6ICI5YzAxZjNmNTFmM2Q2ZmVlYTlmMDgxM2EwMTU5NjY5NiIsICJwbGF0Zm9ybSI6ICJ3ZWIiLCAidGFyZ2V0IjogIiIsICJjdXJyZW50X3VybCI6ICIvbG9naW4ifQ%3D%3D&access_type=offline&response_type=code&include_granted_scopes=false&enable_granular_consent=true&service=lso&o2v=2&theme=glif&flowName=GeneralOAuthFlow
+
+Web IDL Standard
+https://webidl.spec.whatwg.org/
+
+osdi23_full_proceedings_interior.pdf
+https://www.usenix.org/system/files/osdi23_full_proceedings_interior.pdf
+
+litl-Paper-Recurrent/LITL复现第三题.md at master · DavidBeckham07/litl-Paper-Recurrent
+https://github.com/DavidBeckham07/litl-Paper-Recurrent/blob/master/LITL%E5%A4%8D%E7%8E%B0%E7%AC%AC%E4%B8%89%E9%A2%98.md
+
+gts3.org (SSLab@Gatech)
+https://github.com/sslab-gatech
+
+Teaching - Systems Software and Security Lab
+https://gts3.org/pages/teaching.html
+
+Lab — CS-3210, Spring 2020 1 documentation
+https://tc.gts3.org/cs3210/2020/spring/lab.html
+
+Replace time with std::time in components/net by Taym95 · Pull Request #31079 · servo/servo
+https://github.com/servo/servo/pull/31079
+
+Upload files · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/upload/main
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+winit/Cargo.toml at master · rust-windowing/winit
+https://github.com/rust-windowing/winit/blob/master/Cargo.toml
+
+cargo run example - Google 搜索
+https://www.google.com/search?q=cargo+run+example&sca_esv=598529675&sxsrf=ACQVn09D22HIk5ChgqrJ34jji1c4MtYRxA%3A1705310712522&ei=-PmkZZ23H7vl1e8P9IKqsAQ&oq=cargo+run+exampl&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGNhcmdvIHJ1biBleGFtcGwqAggAMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIGEAAYBRgeSLcpUMcLWMYjcAB4ApABAZgBqQKgAaMbqgEGMC4zLjEzuAEDyAEA-AEBwgIEEAAYR8ICBBAjGCfCAgoQIxiABBiKBRgnwgIFEAAYgATCAgUQLhiABMICChAAGIAEGIoFGEPCAgsQLhjHARjRAxiABMICCxAuGIAEGMcBGNEDwgIOEC4YgAQYywEYxwEYrwHCAggQIRiABBjLAcICBRAhGIAEwgIFECEYoAHCAgQQABge4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Search Results | Protocol Buffers Documentation
+https://protobuf.dev/search/?q=vscode
+
+How to structure Go application to produce multiple binaries? - Stack Overflow
+https://stackoverflow.com/questions/50904560/how-to-structure-go-application-to-produce-multiple-binaries
+
+golang/go: The Go programming language
+https://github.com/golang/go
+
+go - Custom package is not in golang std - Stack Overflow
+https://stackoverflow.com/questions/77162842/custom-package-is-not-in-golang-std
+
+go/src/cmd/go/internal/modload/import.go at 7abeefd2b1a03932891e581f1f90656ffebebce4 · golang/go
+https://github.com/golang/go/blob/7abeefd2b1a03932891e581f1f90656ffebebce4/src/cmd/go/internal/modload/import.go#L60
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+* multiplatform - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/C3PQML5NU
+
+* multiplatform - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/C3PQML5NU
+
+(3) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2024/
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+Andre Almeida igalia - Google 搜索
+https://www.google.com/search?q=Andre+Almeida+igalia&sca_esv=598561868&sxsrf=ACQVn09APbgJj6coRxfqa_9miQhdMogljw%3A1705320219716&ei=Gx-lZeatK_3K1e8Pzc6y8AI&ved=0ahUKEwimp7LvrN-DAxV9ZfUHHU2nDC4Q4dUDCBA&uact=5&oq=Andre+Almeida+igalia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFEFuZHJlIEFsbWVpZGEgaWdhbGlhMgYQIRgeGA0yBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFI7gxQkQVYhgxwAXgBkAEAmAHhAaAB_weqAQUwLjMuMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgsQLhiABBjLARjUAsICCxAuGMsBGNQCGIAEwgIIEAAYgAQYywHCAhoQLhiABBjLARjUAhiXBRjcBBjeBBjfBNgBAcICBBAAGB7CAgYQABgeGA3CAgYQABgIGB7CAggQABiABBiiBOIDBBgAIEGIBgGQBgK6BgYIARABGBQ&sclient=gws-wiz-serp
+
+Creating symbol table for gdb using cmake - Stack Overflow
+https://stackoverflow.com/questions/7990844/creating-symbol-table-for-gdb-using-cmake
+
+tannal/cc-examples
+https://github.com/tannal/cc-examples
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL impl: remove unsafe JSObject from return value of Document::NamedGetter · Issue #30890 · servo/servo
+https://github.com/servo/servo/issues/30890
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+compudj (Mathieu Desnoyers)
+https://github.com/compudj
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
