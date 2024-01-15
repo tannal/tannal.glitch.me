@@ -87,6 +87,7 @@ In components/script, remove unsafe JS related code
 
 https://www.youtube.com/watch?v=PyfY82-NDCM
 
+https://github.com/servo/servo/issues/30862
 
 
 

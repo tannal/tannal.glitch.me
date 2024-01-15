@@ -1,6 +1,14 @@
 
 # inbox
 
+```c
+printk(KERN_INFO "Dumping call stack:\n");
+dump_stack();
+pr_info("Entering tcp_rcv_state_process, sk_state: %d, sk: %p\n", sk->sk_state, sk);
+pr_info("Socket refcount: %d, flags: %lx\n", refcount_read(&sk->sk_refcnt), sk->sk_flags);
+
+```
+
 interface high level desc nature language
 
 implementation details class/structs property/function data structure algorithms

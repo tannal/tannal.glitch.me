@@ -1,4 +1,179 @@
 # 2024-1-14
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(2) Resources
+https://tutflix.org/resources/
+
+Create "Machine A/B" Screenshot
+https://chat.openai.com/c/c36e37fe-c182-4cf8-a651-25a1c82468ed
+
+semantic versioning - Google 搜索
+https://www.google.com/search?q=semantic+versioning&oq=semantic+versioning&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+go/src/database/sql/sql_test.go at master · golang/go
+https://github.com/golang/go/blob/master/src/database/sql/sql_test.go
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal/kakapo
+https://github.com/tannal/kakapo
+
+Pavlo pg Golub
+https://pashagolub.github.io/
+
+assert package - github.com/stretchr/testify/assert - Go Packages
+https://pkg.go.dev/github.com/stretchr/testify@v1.8.2/assert
+
+Lambert the Coder
+https://lambert.wang/
+
+(2) Resources
+https://tutflix.org/resources/
+
+(2) Let's Get Rusty - The Rust Developer Bootcamp - TutFlix - Free Education Community
+https://tutflix.org/resources/lets-get-rusty-the-rust-developer-bootcamp.10464/
+
+letsgetrusty/bootcamp
+https://github.com/letsgetrusty/bootcamp
+
+rust-learning-guide-dev/src/SUMMARY.md at main · letsgetrusty/rust-learning-guide-dev
+https://github.com/letsgetrusty/rust-learning-guide-dev/blob/main/src/SUMMARY.md
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+(3) Facebook
+https://www.facebook.com/ccckmit
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+frp/conf/frps_full_example.toml at 1e8806d26b6c1ca5ee683deb38f64f89fe60c1fe · fatedier/frp
+https://github.com/fatedier/frp/blob/1e8806d26b6c1ca5ee683deb38f64f89fe60c1fe/conf/frps_full_example.toml#L121
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+使用 systemd | frp
+https://gofrp.org/zh-cn/docs/setup/systemd/
+
+systemd - How to see full log from systemctl status service? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service
+
+SystemdClash/clash@.service at master · Sitoi/SystemdClash
+https://github.com/Sitoi/SystemdClash/blob/master/clash%40.service
+
+Yjs Quill Example
+http://192.168.43.95:3000/quill/quill.html
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+web editing api - Google 搜索
+https://www.google.com/search?q=web+editing+api&oq=web+editing+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDQxODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=contenteditable&sort=byPopularity&type=story
+
+Why ContentEditable is Terrible. Or: How the Medium Editor Works | by Nick Santos | Medium Engineering
+https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480
+
+Why ContentEditable is Terrible. Or: How the Medium Editor Works | by Nick Santos | Medium Engineering
+https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Code search results
+https://github.com/search?q=repo%3Ayjs%2Fyjs%20lamport&type=code
+
+蔡徐坤表情包 - Google 搜索
+https://www.google.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E8%A1%A8%E6%83%85%E5%8C%85&tbm=isch&hl=zh-CN&sa=X&ved=2ahUKEwiV88q-z96DAxWUgFYBHf9SCO4QrNwCKAB6BAgBEHo&biw=1263&bih=593
+
+quill js video - Google 搜索
+https://www.google.com/search?q=quill+js+video&oq=quill+js+video&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExMzgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#general > use FLoat32Array in XRRigidTransform - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/use.20FLoat32Array.20in.20XRRigidTransform
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#xrview-obtain-the-projection-matrix
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#dom-xrview-projectionmatrix
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#ref-for-dom-xrview-projectionmatrix%E2%91%A1
+
+WebIDL: use FLoat32Array in XRView · Issue #31046 · servo/servo
+https://github.com/servo/servo/issues/31046
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077/files
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#xrview-obtain-the-projection-matrix
+
+XRView: projectionMatrix property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/XRView/projectionMatrix
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#view-projection-matrix
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#xrview-obtain-the-projection-matrix
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076
+
+Use FLoat32Array in XRRigidTransform by Taym95 · Pull Request #31076 · servo/servo
+https://github.com/servo/servo/pull/31076/files
+
+markdown---中划线---删除线的用法 - 简书
+https://www.jianshu.com/p/99999a9bd40d
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+WebIDL: use FLoat32Array by gterzian · Pull Request #30990 · servo/servo
+https://github.com/servo/servo/pull/30990
+
+WebXR Device API
+https://immersive-web.github.io/webxr/#xrview-obtain-the-projection-matrix
+
+Web IDL Standard
+https://webidl.spec.whatwg.org/#es-platform-objects
+
+(4) Slava Egorov (@mraleph) / X
+https://twitter.com/mraleph
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

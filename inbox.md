@@ -1,5 +1,98 @@
-# 2024-1-15 | 1+1
+# 2024-1-15 1 | 1+1+1
 
+mutex mutual exclusion sleepable preemptable context switch futex
+critical section is very short, but context switch can be very expensive.
+
+we need spinlock with
+
+preemption preempt_disable
+interrupt interrupt_disable
+
+syscall procfs
+
+uAPI, rseq syscalls
+
+```bash
+
+cmake -S . -B out/release
+cmake --build out/release
+
+
+
+
+```
+
+mutexes, spinlocks, semaphores, barriers, rwlock
+kernel rcu seqcount per-cpu lockless strucures and algorithms
+
+```bash
+
+pyo3 rust-cpython cffi bin
+
+cargo add libc
+
+pip install maturin
+
+maturin init test
+
+maturin develop
+
+```
+
+https://github.com/golang/go/blob/7abeefd2b1a03932891e581f1f90656ffebebce4/src/cmd/go/internal/modload/import.go#L60
+
+```bash
+
+sudo apt install protobuf-codegen protobuf-compiler
+
+cargo add tonic protobuf
+
+protoc --rust_out=./examples --proto_path=./proto ./proto/hello.proto
+
+```
+
+given something great to you, how you can do the next amazing stuff?
+
+given -> output
+
+post things that you can't find on the internet.
+
+dom 1998 IDL interface define language
+
+https://tc.gts3.org/cs3210/2020/spring/lab.html
+
+https://github.com/DavidBeckham07/litl-Paper-Recurrent/blob/master/LITL%E5%A4%8D%E7%8E%B0%E7%AC%AC%E4%B8%89%E9%A2%98.md
+
+define api 
+
+ShflLock google leveldb 
+
+if you want contributors, a typical way is to add good first issue tag on some issues.
+or even better you can write down how to fix (step by step) driectly for someone to actually create their first patch.
+If someone make them first patch, it's a lot easier for them to contribute next patch.
+
+I know why we need cross compile
+
+git pull --ff-only
+git pull --rebase
+
+If you want something, you should ask for it.
+don't wait someone to offer it to you.
+
+If you done something well, find the sponsor to maintain the work.
+If not, find the way to improve it or start over.
+
+show the right work to the right person at the right time.
+
+there aren't so many smart guy, and you don't need to be one to be sccessfully.
+just show up, and do something useful to others
+
+For everyone who want to contribute to open source projects
+You just need to show up, and find a position in the community.
+(anything else doesn't matter)
+
+I know I never be able to create the prfect things.
+I just need to know how i can built with these fasinating tools.
 
 ```bash
 
@@ -10,6 +103,8 @@ tar xvf frp_0.53.2_linux_arm64.tar.gz
 wget https://github.com/fatedier/frp/releases/download/v0.53.2/frp_0.53.2_linux_amd64.tar.gz
 
 sudo vim /etc/systemd/system/frps.service
+
+config https://github.com/fatedier/frp/blob/1e8806d26b6c1ca5ee683deb38f64f89fe60c1fe/conf/frps_full_example.toml#L121
 
 [Unit]
 # 服务名称，可自定义
@@ -2954,6 +3049,7 @@ sudo reboot
 servo docs need improvement
 
 ```bash
+sudo apt install python3-virtualenv
 pip install virtualenv
 
 # sudo apt install libc++-dev libc++abi-dev
