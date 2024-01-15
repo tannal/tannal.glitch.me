@@ -1,6 +1,15 @@
-# 2024-1-14
+# 2024-1-15 | 1+1
 
-smalltalk strongtalk self
+guide the people who read your words to a good direction.
+
+
+# 2024-1-14 | 1+1
+
+ask question make them think.
+
+you
+
+smalltalk self strongtalk Java(hotspot engine)
 
 v8 dart
 
