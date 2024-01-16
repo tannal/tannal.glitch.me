@@ -1,3 +1,11 @@
+
+
+macro_rules! bail {
+    ($msg:literal $(,)?) => { ... };
+    ($err:expr $(,)?) => { ... };
+    ($fmt:expr, $($arg:tt)*) => { ... };
+}
+
 # 2024-1-15 1 | 1+1+1
 
 mutex mutual exclusion sleepable preemptable context switch futex
