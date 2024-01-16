@@ -44,9 +44,8 @@ mach build
 ```
 
 
+https://starters.servo.org/
 
-
-set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\bin
 set MOZTOOLS_PATH=C:\Users\tannal\Downloads\moztools-4.0\moztools-4.0\
 set LIBCLANG_PATH=C:\Program Files\LLVM\lib
 

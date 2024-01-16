@@ -1,3 +1,146 @@
+# 2024-1-15
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+msmd-linux/config/kernel.cfg at main · maksimKorzh/msmd-linux
+https://github.com/maksimKorzh/msmd-linux/blob/main/config/kernel.cfg
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Servo Starters - Whet your appetite with these easy Servo tasks
+https://starters.servo.org/
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+Building · servo/servo Wiki
+https://github.com/servo/servo/wiki/Building#manual-build-setup
+
+#general > ✔ License compatibility - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20License.20compatibility
+
+• Discord | #help-and-questions | Supabase
+https://discord.com/channels/839993398554656828/1006358244786196510
+
+Wu Yuwei 吳昱緯 (@Yu_Wei_Wu) / X
+https://twitter.com/Yu_Wei_Wu
+
+wusyong/resume.typ: Resume template for Typst. Mirror to https://typst.app/project/rVVa3y9vXemUKyvNKnabKV
+https://github.com/wusyong/resume.typ
+
+frameworks - Android Code Search
+https://cs.android.com/android/platform/superproject/main/+/main:frameworks/?hl=zh-cn
+
+Rust Atomics and Locks by Mara Bos
+https://marabos.nl/atomics/
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2023/toyear/2024/index?all&world
+
+denoland/webgpu-examples
+https://github.com/denoland/webgpu-examples
+
+albedo/examples/gpu_picking/shader.wgsl at main · albedo-engine/albedo
+https://github.com/albedo-engine/albedo/blob/main/examples/gpu_picking/shader.wgsl
+
+gfx-rs/wgpu: Cross-platform, safe, pure-rust graphics api.
+https://github.com/gfx-rs/wgpu
+
+WebGPU
+https://gpuweb.github.io/gpuweb/
+
+Chrome ships WebGPU | Hacker News
+https://news.ycombinator.com/item?id=35465729
+
+linebender/druid: A data-first Rust-native UI design toolkit.
+https://github.com/linebender/druid
+
+Meta Research
+https://github.com/facebookresearch
+
+ChatGPT
+https://chat.openai.com/
+
+Typewriter Effect | CSS-Tricks - CSS-Tricks
+https://css-tricks.com/snippets/css/typewriter-effect/
+
+gpt output too long to read - Google 搜索
+https://www.google.com/search?q=gpt+output+too+long+to+read&rlz=1C1GCEA_enJP1090JP1090&oq=gpt+output+too+long+to+read&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDU1MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+WebGPU API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API
+
+WebGPU API docs by chrisdavidmills · Pull Request #24202 · mdn/content
+https://github.com/mdn/content/pull/24202
+
+mdn/content: The content behind MDN Web Docs
+https://github.com/mdn/content
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Outreachy Initial Application
+https://www.outreachy.org/eligibility/
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#initial-application-documentation-needed
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#essay-questions
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#essay-tips
+
+(4 封私信 / 72 条消息) 中国人留学，名字如何处理？ - 知乎
+https://www.zhihu.com/question/40399320/answer/2452580352
+
+Styles & CSS | Docs
+https://docs.astro.build/en/guides/styling/
+
+Showcase | Astro
+https://astro.build/showcase/3/
+
+Random thoughts
+https://tannal.github.io/
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+Navigation — Eleventy
+https://www.11ty.dev/docs/plugins/navigation/
+
+Build your own linux distribution
+http://localhost:8080/blog/build-your-own-distro/
+
+Build your own linux distribution
+https://tannal.github.io/blog/build-your-own-distro/
+
+Deno panic using JSX · Issue #21927 · denoland/deno
+https://github.com/denoland/deno/issues/21927
+
+bail in anyhow - Rust
+https://docs.rs/anyhow/latest/anyhow/macro.bail.html
+
+穿越火线-CF-官方网站-腾讯游戏-兄弟，下把一起
+https://cf.qq.com/main.shtml
+
+下载游戏-穿越火线官方网站-腾讯游戏
+https://cf.qq.com/web201105/download.shtml
+
+Practice Thinking In Code | Brilliant
+https://brilliant.org/courses/thinking-in-code/precision/?from_llp=computer-science
+
+Google 翻译
+https://translate.google.com/details?sl=en&tl=zh-CN&text=corpus%20&op=translate
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
 # 2024-1-14
 
 github.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

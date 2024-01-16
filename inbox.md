@@ -1,4 +1,24 @@
+# 2024-1-16  | 1
 
+computer just do two things moving bits and flip bits
+
+computer has "infinite" bits to flip and move, so it can "fool" people.
+
+learning is like eating
+
+build tokens from characters
+
+don't go back, keep forward.
+
+Byte-Pair Encoding
+
+By recognizing the pattern, you can easily write a program that collects all of the coins with just a few commands.
+
+Review and reflect
+
+Whitespace tokenization
+
+underline blue links
 
 macro_rules! bail {
     ($msg:literal $(,)?) => { ... };

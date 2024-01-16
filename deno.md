@@ -29,7 +29,7 @@ rm -rf ~/.rustup/toolchains/1.75.0-x86_64-unknown-linux-gnu/
 feat(lsp): allow to connect V8 inspector (denoland#21482)
 https://github.com/tannal/deno/commit/cdbf902499dc62a4fb9f8cbf2a47a7b446623929
 
-
+Pythia 12B
 
 # directory structure
 
