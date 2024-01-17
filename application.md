@@ -24,6 +24,40 @@ impact
 
 ## 
 
+Northeast Normal University
+
+https://en.nenu.edu.cn/index.htm
+
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=8035
+
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=7824
+
+Bachelor of Computer Science
+
+Fall 2023
+
+2023/08/28
+2023/09/04
+
+age (*)
+body size (*)
+caste
+disability
+ethnicity
+gender identity and expression
+socio-economic status
+nationality
+personal appearance
+race
+religion
+sexual identity and orientation
+
+
+Spring 2024
+
+
+2024/02/20
+
 tannal
 
 Meng Tan

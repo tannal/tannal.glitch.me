@@ -1,6 +1,69 @@
+
+# 2024-1-17 | 1
+
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+
+export https_proxy=http://127.0.0.1:7890
+export http_proxy=http://127.0.0.1:7890
+
+cmake -S . -B build
+cmake --build build
+
+
+cmake -S . -B aarch64 -DCMAKE_CXX_FLAGS="-mtune=cortex-a76" -DCMAKE_C_FLAGS="-mtune=cortex-a76"
+cmake --build aarch64 --config Release
+
+dnf Fedora 
+
 # 2024-1-16  | 1
 
+
+winget install --id=Mobatek.MobaXterm  -e
 computer just do two things moving bits and flip bits
+
+sudo apt install git-lfs
+
+git lfs pull
+
+# Make sure you have git-lfs installed (https://git-lfs.com)
+git lfs install
+git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF
+
+# if you want to clone without large files – just their pointers
+# prepend your git clone with the following env var:
+GIT_LFS_SKIP_SMUDGE=1
+
+
+git lfs install
+git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-Predictor
+
+./build/bin/main -m ./ReluLLaMA-7B-PowerInfer-GGUF/llama-7b-relu.powerinfer.gguf -n 1000 -t 2- -p "we have a super"
+
+
+./build/bin/main -m ./ReluLLaMA-7B-PowerInfer-GGUF/llama-7b-relu.powerinfer.gguf -n 128 -t 8 -p "Once upon a time" --vram-budget 8
+
+focus on taking some risk
+ask for what you want
+
+how many good people you know?
+
+personal connections self believe
+
+co founder co wowrker
+
+as *mut string
+as *const string
+
+unsafe dereference a raw pointer call an unsafe function impl unsafe trait access/modify mutable static variable
+
+macro_rules!
+
+unsafe async procedure macro 
+
+
+
 
 computer has "infinite" bits to flip and move, so it can "fool" people.
 
@@ -44,9 +107,6 @@ uAPI, rseq syscalls
 
 cmake -S . -B out/release
 cmake --build out/release
-
-
-
 
 ```
 
@@ -280,6 +340,10 @@ scp -i C:\Users\tanna\Downloads\first.pem compile_commands.json 124.223.112.154@
 chmod 400 /home/tannal/tannalwork/projects/llvm-project/first.pem
 
 scp -i /home/tannal/tannalwork/projects/llvm-project/first.pem compile_commands.json ubuntu@124.223.112.154:/home/ubuntu/tannalwork/projects/linux/compile_commands.json
+
+
+scp /home/ubuntu/setup/clash-linux-amd64-v1.14.0 /root/tannalwork/clash-linux-amd64-v1.14.0
+
 
 
 ldd --version
@@ -560,17 +624,6 @@ If you do want to externalize this module explicitly add it to
 ```
 
 testing error handling logging 
-
-```sh
-vim .bashrc
-export https_proxy=http://192.168.43.1:7890
-export http_proxy=http://192.168.43.1:7890
-
-
-export https_proxy=http://127.0.0.1:7890
-export http_proxy=http://127.0.0.1:7890
-```
-
 
 
 astro vite rollup -> 
@@ -988,9 +1041,6 @@ kernel/irq/manage.c@request_threaded_irq
 codec encoder decoder
 
 ```bash
-
-export https_proxy=http://192.168.43.1:7890
-export http_proxy=http://192.168.43.1:7890
 
 date --universal --iso-8601=s
 
@@ -1786,9 +1836,6 @@ sudo apt update
 sudo apt install gh
 gh auth login
 
-export https_proxy=http://192.168.43.1:7890
-export http_proxy=http://192.168.43.1:7890
-
 git config --global http.sslverify false 
 git config --global imap.sslverify false
 
@@ -2087,6 +2134,7 @@ winget install -e --id RARLab.WinRAR
 winget install -e --id Unity.Unity.2022
 winget install -e --id Kitware.CMake
 winget install -e --id Python.Python.3.10
+winget install -e --id Python.Python.3.11
 winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey

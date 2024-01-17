@@ -6,6 +6,8 @@ choco install python311
 
 setx PYTHON3 "C:\Python11\python.exe" /m
 
+setx PYTHON3 "C:\Python12\python.exe" /m
+
 vs_BuildTools.exe^
     --add Microsoft.VisualStudio.Component.Roslyn.Compiler^
     --add Microsoft.Component.MSBuild^
