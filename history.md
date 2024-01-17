@@ -1,3 +1,149 @@
+# 2024-1-16
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Outreachy Initial Application
+https://www.outreachy.org/eligibility/
+
+Sanctions Programs and Country Information | Office of Foreign Assets Control
+https://ofac.treasury.gov/sanctions-programs-and-country-information
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+详解美国出口管制新规，对中国企业影响深远 - Lexology
+https://www.lexology.com/library/detail.aspx?g=59944854-823a-4575-9a02-9e8aa23cde72
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=socio-economic%20status&op=translate
+
+东北师范大学-主站英文
+https://en.nenu.edu.cn/index.htm
+
+2023年春季学期校历-教务处
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=7824
+
+Rseq and uapi Syscalls Example
+https://chat.openai.com/c/6a97d941-a9d2-4c56-8745-9b95873b314f
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+AI
+https://tannal.github.io/blog/ai/
+
+David marcus - Google 搜索
+https://www.google.com/search?q=David+marcus&oq=David+marcus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQLhiABDIHCAgQABiABNIBCDkzNzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Video samples
+https://au.gmented.com/p/video/test.html
+
+中国 12月 ppi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+12%E6%9C%88+ppi&sca_esv=598701233&sxsrf=ACQVn0-stv2V6HibPE8C2a6vz-kKkD_WFw%3A1705381184282&ei=QA2mZcPsEPyo2roPiriF4Ac&ved=0ahUKEwjDjMj9j-GDAxV8lFYBHQpcAXwQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+12%E6%9C%88+ppi&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOS4reWbvSAxMuaciCBwcGkyCBAAGIAEGKIESJoRUNwFWN0PcAF4AZABAJgBzwGgAdMKqgEFMC42LjG4AQPIAQD4AQHCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgcQABiABBgMwgIGEAAYCBge4gMEGAAgQYgGAZAGBA&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Support FinalizationRegistry · Issue #31072 · servo/servo
+https://github.com/servo/servo/issues/31072
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Writing Error Messages to Standard Error Instead of Standard Output - The Rust Programming Language
+https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF
+
+PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF?clone=true
+
+SparseLLM/ReluLLaMA-7B · Hugging Face
+https://huggingface.co/SparseLLM/ReluLLaMA-7B?clone=true
+
+PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF at main
+https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF/tree/main
+
+PowerInfer/ReluLLaMA-7B-Predictor · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-7B-Predictor?clone=true
+
+PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF?clone=true
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Quill - Your powerful rich text editor
+https://quilljs.com/
+
+带有大文件的 GitHub 项目的创建与拉取——使用 Git Large File Storage (LFS) | 朝花夕拾
+https://blog.shipengx.com/archives/af0e9080.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+mobaxterm - Google 搜索
+https://www.google.com/search?q=mobaxterm&oq=moba&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIOCAAQRRg5GEMYgAQYigUyDAgBEAAYQxiABBiKBTIMCAIQABhDGIAEGIoFMgwIAxAAGEMYgAQYigUyDAgEEAAYQxiABBiKBTIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgkICRAAGAoYgATSAQgyOTc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Install MobaXterm with winget - winstall
+https://winstall.app/apps/Mobatek.MobaXterm
+
+cuda rust nvidia - Google 搜索
+https://www.google.com/search?q=cuda+rust+nvidia&sca_esv=598813290&sxsrf=ACQVn09erRVQzLuyBX9_Xk6Fz2OkCQoD_g%3A1705416449553&ei=AZemZZmrIbynvr0P_72voAo&ved=0ahUKEwjZr62tk-KDAxW8k68BHf_eC6QQ4dUDCBA&uact=5&oq=cuda+rust+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGN1ZGEgcnVzdCBudmlkaWEyBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBEiRGFDECVj7FnABeAGQAQCYAdoDoAH_B6oBBzItMi4wLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgUQABiABMICBBAAGB7CAgYQABgeGA_CAgYQABgeGArCAgYQABgFGB7iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Kitware/CMake: Mirror of CMake upstream repository
+https://github.com/Kitware/CMake
+
+Intel(R) Xeon(R) Silver 4314 CPU @ 2.40GHz - Google 搜索
+https://www.google.com/search?q=Intel(R)+Xeon(R)+Silver+4314+CPU+%40+2.40GHz&oq=Intel(R)+Xeon(R)+Silver+4314+CPU+%40+2.40GHz&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDvSAQczMjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+dnf install - Google 搜索
+https://www.google.com/search?q=dnf+install&oq=dnf+install&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQLhhDGIAEGIoFMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgATSAQgyOTE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+arm - cmake -D CMAKE_CXX_FLAGS="-march=armv8-a" for aarch64 compiling - Stack Overflow
+https://stackoverflow.com/questions/56433258/cmake-d-cmake-cxx-flags-march-armv8-a-for-aarch64-compiling
+
+cmake cross compile aarch64 - Google 搜索
+https://www.google.com/search?q=cmake+cross+compile+aarch64&sca_esv=598932482&tbm=vid&sxsrf=ACQVn09clGAYI7LzrACvq8KwNKFjn7W2xg:1705451593842&source=lnms&sa=X&ved=2ahUKEwi50LqjluODAxUBja8BHWhNA1sQ_AUoAnoECAEQBA&biw=1280&bih=593&dpr=1.5
+
+Andreas Reischuck "Cross Compiling with CMake" - YouTube
+https://www.youtube.com/watch?v=rgWwrzZLVR8
+
+CUDA教程-如何用CMake编译CUDA代码 - 掘金
+https://juejin.cn/post/7219216676507402297
+
+command line - How to get the GPU info? - Ask Ubuntu
+https://askubuntu.com/questions/5417/how-to-get-the-gpu-info
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Introduction | Brilliant
+https://brilliant.org/courses/reinforcement-learning/introduction-84/reinforcement-learning-introduction-1-v2/3/
+
+dnf package manager - Google 搜索
+https://www.google.com/search?q=dnf+package+manager&oq=dnf+package+man&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGA8YHtIBCDM4MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+python - How do I remove all packages installed by pip? - Stack Overflow
+https://stackoverflow.com/questions/11248073/how-do-i-remove-all-packages-installed-by-pip
+
 # 2024-1-15
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

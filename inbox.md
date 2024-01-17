@@ -1,6 +1,14 @@
 
 # 2024-1-17 | 1
 
+dnf package manager
+
+pip freeze | cut -d "@" -f1 | xargs pip uninstall -y
+
+apt snap pacman brew winget vcpkg
+
+Hqroot123@
+
 export https_proxy=http://192.168.43.1:7890
 export http_proxy=http://192.168.43.1:7890
 
