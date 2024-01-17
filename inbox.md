@@ -1,6 +1,22 @@
 
 # 2024-1-17 | 1
 
+
+
+git config --global http.sslVerify false
+git config --global imap.sslverify false
+
+log_info!(println!("Hello!")); -> println!("Hello!")
+
+cargo run -Z macro-backtrace
+
+cargo add quote chrono syn
+
+#[proc_macro]
+pub fn log_info(input: TokenStream) ->TokenStream {
+    input
+}
+
 dnf package manager
 
 pip freeze | cut -d "@" -f1 | xargs pip uninstall -y
@@ -33,24 +49,18 @@ sudo apt install git-lfs
 
 git lfs pull
 
-# Make sure you have git-lfs installed (https://git-lfs.com)
-git lfs install
 git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF
 
-# if you want to clone without large files – just their pointers
-# prepend your git clone with the following env var:
 GIT_LFS_SKIP_SMUDGE=1
 
 
-git lfs install
 git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-Predictor
 
 ./build/bin/main -m ./ReluLLaMA-7B-PowerInfer-GGUF/llama-7b-relu.powerinfer.gguf -n 1000 -t 2- -p "we have a super"
 
-
 ./build/bin/main -m ./ReluLLaMA-7B-PowerInfer-GGUF/llama-7b-relu.powerinfer.gguf -n 128 -t 8 -p "Once upon a time" --vram-budget 8
 
-focus on taking some risk
+focus on is taking some risk
 ask for what you want
 
 how many good people you know?
@@ -67,9 +77,6 @@ unsafe dereference a raw pointer call an unsafe function impl unsafe trait acces
 macro_rules!
 
 unsafe async procedure macro 
-
-
-
 
 computer has "infinite" bits to flip and move, so it can "fool" people.
 
@@ -5447,9 +5454,6 @@ git config --global user.email "2934482133@qq.com"
 
 git config --global user.name "tannal"
 git config --global user.email "tannal2409@gmail.com"
-
-git config --global http.sslVerify false
-git config --global imap.sslverify false
 
 # clangd server
 sudo apt-get install clangd-12
