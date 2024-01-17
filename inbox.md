@@ -1,7 +1,71 @@
 
 # 2024-1-17 | 1
 
+git reset HEAD^1
 
+```yml
+name: sync-fork
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: { }
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - run: gh repo sync $REPOSITORY -b $BRANCH_NAME
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          BRANCH_NAME: ${{ github.ref_name }}
+```
+
+
+import sys
+
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
+
+## .github/workflows/example.yml
+
+name: Merge upstream branches
+on:
+  schedule:
+     # actually, ~5 minutes is the highest
+     # effective frequency you will get
+    - cron:  '* * * * *'
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Merge upstream
+        run: |
+          git config --global user.name 'your-name'
+          git config --global user.email 'your-username@users.noreply.github.com'
+
+          # "git checkout master" is unnecessary, already here by default
+          git pull --unshallow  # this option is very important, you would get
+                                # complains about unrelated histories without it.
+                                # (but actions/checkout@v2 can also be instructed
+                                # to fetch all git depth right from the start)
+
+          git remote add upstream https://github.com/example/test.git
+          git fetch upstream
+
+          # Neither forget the -b opt,
+          # the feature/x ref is ambiguous at this stage
+          git checkout -b feature/x origin/feature/x
+          git merge --no-edit upstream/feature/x
+          git push origin feature/x
+
+          git checkout master
+          git merge --no-edit upstream/master
+          git push origin master
+
+          # etc
 
 git config --global http.sslVerify false
 git config --global imap.sslverify false
@@ -401,8 +465,6 @@ no restriction ways
 make it impressive amazing 
 
 # 2024-1-13 1+1+1+1+1+1 | 1+1+1
-
-
 
 RAM
 

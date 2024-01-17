@@ -1,4 +1,12 @@
 
+
+# inbox
+
+https://www.youtube.com/watch?v=PyfY82-NDCM
+
+https://github.com/servo/servo/issues/30862
+
+
 ## windows
 
 ```
@@ -84,14 +92,6 @@ In components/script, remove unsafe JS related code
 
 ```
 
-# inbox
-
-https://www.youtube.com/watch?v=PyfY82-NDCM
-
-https://github.com/servo/servo/issues/30862
-
-
-
 # Vscode setup
 
 ```json
@@ -149,15 +149,15 @@ need some feedback from the servo team.
 
 # good first issues
 
-https://github.com/servo/servo/issues/31006
+https://github.com/servo/servo/issues/31006 
 
 https://github.com/servo/servo/issues/31007
 
 # issue tags
 
-E-candidate-for-mentoring
+E-candidate-for-mentoring https://github.com/servo/servo/labels/E-candidate-for-mentoring
 
-A-content/script
+A-content/script https://github.com/servo/servo/labels/A-content%2Fscript
 
 # issues
 
@@ -166,7 +166,6 @@ Implement ResizeObservers
 ```bash
 
 ./mach test-wpt --production _webgpu
-
 
 
 ```
