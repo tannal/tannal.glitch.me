@@ -1,11 +1,57 @@
 
 # 2024-1-17 | 1
 
-lsmtree
+tokio::main tokio::spawn
 
-memtable
+triangles (a, b) (c, d) find 
 
-sorted string table
+grid squares that are surrounded by at least one of the given rectangles.
+
+timeout 1 node time.js
+
+```js
+
+const rows = 3
+const cols = 5
+
+const nestedArray = Array.from(Array(rows), _ => Array(cols).fill(false));
+nestedArray[0][1] = true;
+console.log(nestedArray)
+
+```
+
+prev next vs current rest
+
+rephrase this problem in a short and easy to understand way
+
+728abdaa-e5af-4886-a19b-22f6d3ae144a
+
+just one test
+
+each line is a single test case
+lines.forEach(v => solve(...v.split(' ').map(v => +v)))
+
+clk.h https://www.kernel.org/doc/Documentation/clk.txt clk_register
+
+cpu speed eternal bus speed (I2C, SPI, UART)
+
+video pixel frequency
+
+Clock harware software linux
+
+signal width period => frequency
+
+rising edge falling edge period duty cycle jitter
+
+cristal oscillators plls dividers gates muxes clock synchronization
+
+phase comparator loop filter voltage controlled oscillator
+
+enable clock latch gated clock
+
+git reset --hard HEAD~2
+
+lsmtree memtable sorted string table
 
 REPL
 
