@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Issues · SJTU-IPADS/PowerInfer
+https://github.com/SJTU-IPADS/PowerInfer/issues?q=is%3Aissue+is%3Aopen+
+
+PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF at main
+https://huggingface.co/PowerInfer/ReluLLaMA-70B-PowerInfer-GGUF/tree/main
+
+PowerInfer/ReluLLaMA-13B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-13B-PowerInfer-GGUF
+
+PowerInfer/ReluLLaMA-70B-Predictor · Hugging Face
+https://huggingface.co/PowerInfer/ReluLLaMA-70B-Predictor
+
+PowerInfer/ReluFalcon-40B-PowerInfer-GGUF at main
+https://huggingface.co/PowerInfer/ReluFalcon-40B-PowerInfer-GGUF/tree/main
+
+Thanos - Kattis thanos - Virtual Judge
+https://vjudge.net/problem/Kattis-thanos
+
+tannal – Kattis, Kattis
+https://open.kattis.com/users/tannal
+
+Thanos – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/us9ksp/problems/thanos
+
+Issues · servo/servo
+https://github.com/servo/servo/labels/A-content%2Fscript
+
+Issues · servo/servo
+https://github.com/servo/servo/labels/E-candidate-for-mentoring
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Can forks be synced automatically in GitHub? - Stack Overflow
+https://stackoverflow.com/questions/23793062/can-forks-be-synced-automatically-in-github
+
+Easy GitHub workflow for keeping a fork in sync with upstream
+https://gist.github.com/DewaldDeJager/518f6814049a0f7763642ec02f62cabf
+
+printing - How do I print to stderr in Python? - Stack Overflow
+https://stackoverflow.com/questions/5574702/how-do-i-print-to-stderr-in-python
+
+Debugging configurations for Python apps in Visual Studio Code
+https://code.visualstudio.com/docs/python/debugging
+
+cpu天梯图 - Google 搜索
+https://www.google.com/search?q=cpu%E5%A4%A9%E6%A2%AF%E5%9B%BE&sca_esv=599014582&sxsrf=ACQVn0-BSJTpwXjK-zccEpsIgv3IAFqTXQ%3A1705461133794&ei=jUWnZd-NMMWG4-EP85qI6A0&oq=cpu&gs_lp=Egxnd3Mtd2l6LXNlcnAiA2NwdSoCCAEyChAjGIAEGIoFGCcyCxAAGIAEGLEDGIMBMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIgRZQpwZY9ApwAXgBkAEAmAGdAaAB0QSqAQMwLjS4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYsQPCAhEQLhiABBixAxiDARjHARjRA8ICCBAuGLEDGIAEwgIEECMYJ8ICERAuGIMBGMcBGLEDGNEDGIAE4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Rseq and uapi Syscalls Example
+https://chat.openai.com/c/6a97d941-a9d2-4c56-8745-9b95873b314f
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+git - How to skip GitHub Actions job on push event? - Stack Overflow
+https://stackoverflow.com/questions/59759921/how-to-skip-github-actions-job-on-push-event
+
+rs232 - Google 搜索
+https://www.google.com/search?q=rs232+&sca_esv=599024087&biw=1280&bih=593&tbm=vid&sxsrf=ACQVn08TmdA6SNww3ganCwgyyzrRheTBoA%3A1705465746639&ei=klenZdvHJsi64-EP59GE6As&ved=0ahUKEwjb2ISAy-ODAxVI3TgGHecoAb04ChDh1QMIDQ&uact=5&oq=rs232+&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgZyczIzMiAyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSNMXUP0QWP0QcAF4AJABAJgBfqAB-wGqAQMwLjK4AQPIAQD4AQGIBgE&sclient=gws-wiz-video
+
+rs232 三排 - Google 搜索
+https://www.google.com/search?q=rs232+%E4%B8%89%E6%8E%92&oq=rs232+%E4%B8%89%E6%8E%92&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKAB0gEIOTI4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Add `cargo new --workspace` to create a workspace · Issue #8365 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/8365
+
+Anatomy of Cross-Compilation Toolchains - YouTube
+https://www.youtube.com/watch?v=Pbt330zuNPc
+
+Keynote | Things you didn’t know about Go and how to become an expert - Roberto Clapis - YouTube
+https://www.youtube.com/watch?v=GtsSzbs-xb8
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+liteide - My go binaries end up in the src folder - Stack Overflow
+https://stackoverflow.com/questions/25137667/my-go-binaries-end-up-in-the-src-folder
+
+read eval print loop - Does Go provide REPL? - Stack Overflow
+https://stackoverflow.com/questions/8513609/does-go-provide-repl
+
+Go Playground - The Go Programming Language
+https://go.dev/play/
+
+vito/go-repl: A Go REPL. Builds up a source .go file over time, compiles it for output.
+https://github.com/vito/go-repl
+
+x-motemen/gore: Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+https://github.com/x-motemen/gore
+
+Issues · chzyer/readline
+https://github.com/chzyer/readline/issues
+
+[OpenMP] build error: undefined reference to `std::__glibcxx_assert_fail` · Issue #73248 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/73248
+
+• Discord | #help | Deno
+https://discord.com/channels/684898665143206084/1022163295895027722
+
+donald trump - Google 搜索
+https://www.google.com/search?q=donlad+trump&oq=donlad+trump&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美国大选2024：为何特朗普仍然如此受共和党人欢迎 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/world-68003668
+
+美国大选2024：如果特朗普再当选总统，会做什么？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/world-67320005
+
+中国经济：2023年增幅5.2%，人口净减208万，青年失业率14.9%不计在校生 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-68002869
+
+中国人口历史性负增长：街访了解民众减少生育的原因 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-64317273
+
+#general > TSC Meeting January 2024 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/TSC.20Meeting.20January.202024
+
+Servo TSC Meeting January 2024 · Issue #80 · servo/project
+https://github.com/servo/project/issues/80
+
+100 Go Mistakes and How to Avoid Them PDF - Google 搜索
+https://www.google.com/search?q=100+Go+Mistakes+and+How+to+Avoid+Them+PDF&sca_esv=599112852&sxsrf=ACQVn0_VocHmyDNJObuFKr74g1636ceigw%3A1705492207576&ei=776nZfjoItSQ4-EPlfGf2AE&ved=0ahUKEwi4nMzJreSDAxVUyDgGHZX4BxsQ4dUDCBA&uact=5&oq=100+Go+Mistakes+and+How+to+Avoid+Them+PDF&gs_lp=Egxnd3Mtd2l6LXNlcnAiKTEwMCBHbyBNaXN0YWtlcyBhbmQgSG93IHRvIEF2b2lkIFRoZW0gUERGMggQIRiABBjLATIIECEYgAQYywEyBRAhGIAEMgoQIRiABBiKBRhDMgUQIRiABDIEECEYHjIEECEYHjIFECEYoAEyBRAhGKABMgUQIRigAUiSDFC0AliMC3ABeAGQAQCYAeIBoAGjBaoBBTAuMy4xuAEDyAEA-AEC-AEBwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIIEC4YgAQYywHCAgUQABiABMICChAAGIAEGIoFGEPCAgQQABge4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+teivah/100-go-mistakes: 📖 100 Go Mistakes and How to Avoid Them
+https://github.com/teivah/100-go-mistakes
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Outreachy Initial Application
 https://www.outreachy.org/eligibility/
 

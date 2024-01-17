@@ -1,7 +1,37 @@
 
 # 2024-1-17 | 1
 
+lsmtree
+
+memtable
+
+sorted string table
+
+REPL
+
+go get -u github.com/google/btree
+go get -u github.com/chzyer/readline
+
+
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/us9ksp
+
 git reset HEAD^1
+
+link time optimization graphite optimizations
+
+different binary code format means
+
+different CPU arch ABI different operating system different C libaray
+
+autoconf configure script --build --host --taget
+
+unknown vendor
+
+arm-foo-none-abi arm-unknown-linux-gnuabihf
+
+glibc uclibc musl
+
+binutils gcc linux kernel headers c library
 
 ```yml
 name: sync-fork
