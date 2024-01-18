@@ -1,3 +1,169 @@
+# 2024-1-18
+
+twitter.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Commitfest 2024-03
+https://commitfest.postgresql.org/47/
+
+Victory Through Synergy – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/avgeeh/problems/victorythroughsynergy
+
+The Rectangles Are Surrounding Us! - Kattis rectanglesurrounding - Virtual Judge
+https://vjudge.net/problem/Kattis-rectanglesurrounding
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=rectanglesurrounding&res=0&orderBy=run_id&language=
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=victorythroughsynergy&res=0&orderBy=run_id&language=
+
+Workbooks - Virtual Judge
+https://vjudge.net/workbook
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+PowerInfer/ReluLLaMA-13B-PowerInfer-GGUF at main
+https://huggingface.co/PowerInfer/ReluLLaMA-13B-PowerInfer-GGUF/tree/main
+
+go test log level - Google 搜索
+https://www.google.com/search?q=go+test+log+level&oq=go+test+log&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIICAgQABgIGB4yCAgJEAAYCBge0gEIMzc2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Servo TSC Meeting January 2024 · Issue #80 · servo/project
+https://github.com/servo/project/issues/80
+
+ChatGPT
+https://chat.openai.com/c/5f6686f9-f473-415c-a7f2-637349153352
+
+Sizeof struct in Go - Stack Overflow
+https://stackoverflow.com/questions/2113751/sizeof-struct-in-go
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Git ignore binary files
+https://gist.github.com/chichunchen/970a7e97c74a253a4503
+
+tannal/kakapo
+https://github.com/tannal/kakapo
+
+git - How to rollback the two previous commits? - Stack Overflow
+https://stackoverflow.com/questions/4762906/how-to-rollback-the-two-previous-commits
+
+tannal (tannal)
+https://github.com/tannal
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=league&op=translate
+
+jitter - Google 搜索
+https://www.google.com/search?q=jitter&oq=jitter&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgkIARAAGAwYgAQyBwgCEAAYgAQyDAgDEAAYQxiABBiKBTIJCAQQABgMGIAEMgcIBRAAGIAEMgkIBhAAGAwYgAQyDAgHEAAYQxiABBiKBTIHCAgQABiABNIBCDE2NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+kernel.org/doc/Documentation/clk.txt
+https://www.kernel.org/doc/Documentation/clk.txt
+
+Initialize a two-dimensional array in JavaScript - Stack Overflow
+https://stackoverflow.com/questions/50002593/initialize-a-two-dimensional-array-in-javascript
+
+bash timeout - Google 搜索
+https://www.google.com/search?q=bash+timeout&sca_esv=599133334&tbm=vid&sxsrf=ACQVn0_iUcol0vZWCprRRktxN2Cgp4pqkg:1705501816649&source=lnms&sa=X&ved=2ahUKEwjdw8ev0eSDAxXIRWwGHa_MCc8Q_AUoAnoECAEQBA&biw=1280&bih=593&dpr=1.5
+
+Resources
+https://tutflix.org/resources/
+
+Current Semester CS Courses - Department of Computer Science - Purdue University
+https://www.cs.purdue.edu/academic-programs/courses/index.html
+
+CS252
+https://www.cs.purdue.edu/homes/cs252/
+
+CS252-LB01-Malloc-separate-free-alloc-hdr-multiple-free-lists-optimized-split-left-AddEndOfList-List0-16bytes - Google 文档
+https://docs.google.com/document/d/1oXRP6smBt0WjC4rf346TvuSm6vdWkqfGDDU31Rblkc0/edit
+
+CS252-Slides-Spring2023.pdf - Google 云端硬盘
+https://drive.google.com/file/d/1dC2ehVA9FOuXh84Hc4R1rRhfZfN3X9yF/view?pli=1
+
+cs.purdue.edu/homes/cs240/
+https://www.cs.purdue.edu/homes/cs240/
+
+CS250
+https://www.cs.purdue.edu/homes/cs250/
+
+Project5 - Writing SimpleC Compiler - Google 文档
+https://docs.google.com/document/d/1L-QjOvSTEkZuElH8b2LMASzzDgxlLhxr1pN3GvZJbVg/edit#heading=h.ewkhjmt78yju
+
+Resources
+https://tutflix.org/resources/
+
+ENVE -- 2D Animation Software (Free & Open Source!) - YouTube
+https://www.youtube.com/watch?v=OfzX12EwiT0
+
+Introduction | Brilliant
+https://brilliant.org/courses/reinforcement-learning/introduction-84/reinforcement-learning-introduction-1-v2/4/
+
+tannal.web.app/posts/cs-foundation/
+https://tannal.web.app/posts/cs-foundation/
+
+活动 - AcWing
+https://www.acwing.com/activity/content/introduction/11/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Brown CS: Computer Science Courses
+https://cs.brown.edu/courses/
+
+Brown CS: CSCI2470
+https://cs.brown.edu/courses/info/csci2470/
+
+CS1470 - Deep Learning | Brown University
+https://brown-deep-learning.github.io/dl-website-s23/#lectures
+
+20230301_CSCI1470_LanguageModels.pptx
+https://brown-deep-learning.github.io/dl-website-s23/slides/lecture15.pdf
+
+CS1470 - Deep Learning | Brown University
+https://brown-deep-learning.github.io/dl-website-s23/#labs
+
+Google Colab Guide - HackMD
+https://hackmd.io/@BrownDeepLearningS23/BkIT3sW6s
+
+HW4 Programming: Language Models - HackMD
+https://hackmd.io/@BrownDeepLearningS23/hw4p?utm_source=preview-mode&utm_medium=rec
+
+Brown Deep Learning Spring 2023 - HackMD
+https://hackmd.io/@BrownDeepLearningS23?utm_source=preview-mode&utm_medium=rec
+
+HW6 Programming: Variational Autoencoders - HackMD
+https://hackmd.io/@BrownDeepLearningS23/hw6p
+
+CS1470 - Deep Learning | Brown University
+https://brown-deep-learning.github.io/dl-website-s23/#assignments
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/#/assignments
+
+uthreads · brown-cs1690/handout Wiki
+https://github.com/brown-cs1690/handout/wiki/uthreads
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/
+
+michaelpq/home: Home, Michael Paquier's general Linux/OSX/Windows home as a GIT repository
+https://github.com/michaelpq/home/
+
+(4) Michael Paquier (@michaelpq) / X
+https://twitter.com/michaelpq
+
+# 2024-1-17
+
 # 2024-1-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

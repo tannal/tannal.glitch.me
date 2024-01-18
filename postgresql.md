@@ -1,5 +1,9 @@
 kyber/bfq io sch
 
+mailing lists
+
+pgsql-hackers pgsql-bugs pgsql-docs postgresql.org/list/
+
 ```bash
 
 sudo sh -c 'echo "deb https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'

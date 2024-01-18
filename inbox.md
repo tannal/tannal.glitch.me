@@ -1,5 +1,36 @@
 
+# 2024-1-18 | 
+
+july, sept, nov, jan, march
+feature freeze in april
+major version in september october
+
+git format-patch -1 -vN
+
+discuss first, never rush writing code. (may be this is why i'm not a extrodinary programmer)
+
+https://commitfest.postgresql.org
+
+security packagers
+
+might love reasearch (not write academic paper) may be blogs/posts/turtorial/video/audio
+
+when you do research, you read and understand, then write it down.
+
+when you do programming, you have a goal and make a program that achieve the goal
+
+might not love programming 
+
+phase locked loop
+
+clock oxygen silicon piezoelectric effect invertor clock
+
+battery crystal oscillator integrated circuit electromagnet gear train
+
+
+
 # 2024-1-17 | 1
+
 
 tokio::main tokio::spawn
 

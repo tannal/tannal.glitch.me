@@ -1,3 +1,21 @@
+
+# programming exercises
+
+## write a malloc in C/C++/Rust
+
+https://docs.google.com/document/d/1oXRP6smBt0WjC4rf346TvuSm6vdWkqfGDDU31Rblkc0/edit
+
+## key value store binary data <--> struct design
+
+
+
+## write your own user level thread package
+
+https://github.com/brown-cs1690/handout/wiki/uthreads
+
+## 
+
+
 # programming abstraction
 
 
@@ -88,6 +106,7 @@ int main() {
 // writer reader
 
 ```
+
 # c
 
 # c++
