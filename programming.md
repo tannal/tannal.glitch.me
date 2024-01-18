@@ -13,6 +13,10 @@ https://docs.google.com/document/d/1oXRP6smBt0WjC4rf346TvuSm6vdWkqfGDDU31Rblkc0/
 
 https://github.com/brown-cs1690/handout/wiki/uthreads
 
+in the industry this kind of software is typically provided by language runtimes
+
+phread, java threads, C# threads, Go routines, green threads, multiprocessing
+
 ## 
 
 

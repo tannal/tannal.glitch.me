@@ -1,5 +1,116 @@
 # 2024-1-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+home/.gitconfig at main · michaelpq/home
+https://github.com/michaelpq/home/blob/main/.gitconfig
+
+How do I alias commands in git? - Stack Overflow
+https://stackoverflow.com/questions/2553786/how-do-i-alias-commands-in-git
+
+Serialize SstEntry to Disk
+https://chat.openai.com/c/5f6686f9-f473-415c-a7f2-637349153352
+
+AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL
+https://www.autodl.com/home
+
+PostgreSQL Patch Tester
+http://cfbot.cputube.org/
+
+#general > Windows build bustage - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Windows.20build.20bustage
+
+docker - What does running the multiarch/qemu-user-static does before building a container? - Stack Overflow
+https://stackoverflow.com/questions/72444103/what-does-running-the-multiarch-qemu-user-static-does-before-building-a-containe
+
+qemu-user-static youtube - Google 搜索
+https://www.google.com/search?q=qemu-user-static+youtube&oq=qemu-user-static+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwMDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+vinyl audio record - Google 搜索
+https://www.google.com/search?q=vinyl+audio+record&oq=vinyl+audio+record&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDUwMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Presentations by Meng Tan
+https://slides.com/mengtan
+
+Implement requestIdleCallback · Issue #31023 · servo/servo
+https://github.com/servo/servo/issues/31023
+
+servo/components/script/dom/bindings/codegen/CodegenRust.py at 340a86c37584079e6387fe7dec8b8bbf3c722411 · servo/servo
+https://github.com/servo/servo/blob/340a86c37584079e6387fe7dec8b8bbf3c722411/components/script/dom/bindings/codegen/CodegenRust.py
+
+Support Xterm JS · Issue #30822 · servo/servo
+https://github.com/servo/servo/issues/30822
+
+#general > Windows build bustage - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Windows.20build.20bustage
+
+servo/python/servo/command_base.py at 5c8fc7309d54ae2ffb4fd1eed122d411d454b13c · servo/servo
+https://github.com/servo/servo/blob/5c8fc7309d54ae2ffb4fd1eed122d411d454b13c/python/servo/command_base.py#L52
+
+search vscode window by name - Google 搜索
+https://www.google.com/search?q=search+vscode+window+by+name&oq=search+vscode+window+by+name&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTEyMDM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=bustage&op=translate
+
+Request a discount - GitHub Education
+https://education.github.com/discount_requests/13294801/additional_information
+
+(89封未读) nenu.edu.cn
+https://mail.nenu.edu.cn/js6/main.jsp?sid=206Ad803e2MEvCu0fn73CyRYi4cee-Fy&show_window=1&show_new=1&hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
+
+tannal (tannal)
+https://github.com/tannal
+
+Github学生认证及学生包保姆级申请指南 - 知乎
+https://zhuanlan.zhihu.com/p/578964972
+
+Request a discount - GitHub Education
+https://education.github.com/discount_requests/13294937/completed
+
+Request a discount - GitHub Education
+https://education.github.com/discount_requests/application
+
+查看个人信息_学信网
+https://account.chsi.com.cn/account/account!show.action
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xj/show.action?trnd=55335466571989709094868097860219
+
+Ministry of Education Student Status Online Verification Report_China Higher Education Student Information Network (Xuexin.com)
+https://www.chsi.com.cn/xlcx/bg.do?vcode=AW2DLX5LWLCZRJ89&trnd=61750232985291608505683377747491&srcid=archive
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xj/show.action?trnd=00323578518355694622709879147512
+
+在线验证报告_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/xlcx/bg.do?vcode=AW2DLX5LWLCZRJ89&trnd=67119485108630394413511071574092&srcid=archive
+
+Ministry of Education Student Status Online Verification Report_China Higher Education Student Information Network (Xuexin.com)
+https://www.chsi.com.cn/xlcx/bg.do?vcode=AW2DLX5LWLCZRJ89&trnd=35107333009127537099884418027414&srcid=archive
+
+学信档案
+https://my.chsi.com.cn/archive/index.jsp#hzsq
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xj/show.action
+
+如何使用在线验证报告_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/xlcx/rhsy.jsp
+
+查看个人信息_学信网
+https://account.chsi.com.cn/account/account!show.action
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xj/show.action
+
+Ministry of Education Student Status Online Verification Report_China Higher Education Student Information Network (Xuexin.com)
+https://www.chsi.com.cn/xlcx/bg.do?vcode=AW2DLX5LWLCZRJ89&trnd=71869351822116380132042226873100&srcid=archive
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
 twitter.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

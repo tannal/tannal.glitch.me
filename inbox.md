@@ -1,8 +1,54 @@
 
 # 2024-1-18 | 
 
+remotely https://githubnext.com/
 
+CPU(A8040) MAC (PPv2.2) PHY(88X3110) Connector
 
+CPU MAC PHY Connector Unk
+
+macchiatobin.net
+
+RUSTFLAGS="-C force-frame-pointers=yes" cargo build --example thread
+
+sudo perf record --call-graph=fp ./target/debug/examples/thread
+sudo perf report
+
+rx/tx of unstructured data, converts the digital data into a signal(e.g. electrical, radio, optical)
+
+data link layer layer two Ethernet
+
+network layer IP
+
+Transport layer reliability, flow control, Qos, ordering, segmentation
+
+intro
+
+programming languages & environment & runtime
+
+datastructures and algorithms
+
+computer networking
+
+operating systems
+
+clay tablets pen and paper ink and parchment 
+
+vinyl audio record film photography
+
+punch cards drum memory magnetic core memory
+
+core rope memory ploppy disks
+
+optical media
+
+magnetic tape storage hard disk drives flash memory
+
+DNA 5D Optical data storage time crystals
+
+docker qemu user static
+
+https://www.autodl.com/home
 
 some software use the old technology (Makefile, autoconf) but long live.
 
