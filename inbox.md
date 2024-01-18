@@ -1,6 +1,17 @@
 
 # 2024-1-18 | 
 
+namesilo domain names
+
+sudo apt install libdrm-tests
+
+DRI DRM KMS FB
+
+Direct Rendering Kernel Mode setting driving a display
+
+sudo apt update
+sudo apt install ethtool
+
 remotely https://githubnext.com/
 
 CPU(A8040) MAC (PPv2.2) PHY(88X3110) Connector

@@ -1,5 +1,7 @@
 
+slack
 
+slides.com
 
 github
 

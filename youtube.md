@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=sK5i-N34im8
 Linux Container Primitives: cgroups, namespaces, and more! - YouTube
 https://www.youtube.com/watch?v=x1npPrzyKfs
 
+Trading fbdev for DRM, No Returns Accepted - Geert Uytterhoeven, Glider bv - YouTube
+https://www.youtube.com/watch?v=9a9IJQJf8PQ
