@@ -1,5 +1,25 @@
 
-# 2024-1-18 | 
+# 2024-1-18 |
+
+![Alt text](./image-9.png)
+
+component testing end testing unit testing are framework ignostic
+
+things you heard most and easy found on the internet must be used widely, you need to use it well.
+
+github actions travis circle ci jekins
+
+Testing Library vitest playwright cypress playwright
+
+shopee shopify entropy
+
+https://aosabook.org/en/
+
+https://aosabook.org/en/v1/llvm.html
+
+https://www.composables.com/material3
+
+reward signal
 
 namesilo domain names
 

@@ -3,6 +3,93 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Value Functions | Brilliant
+https://brilliant.org/courses/reinforcement-learning/foundations-3/reinforcement-learning-value-functions-2-v2/3/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/participate/mentee?projectId=df065cf2-c9d2-453f-8624-7d84654d6352
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+登录_学信档案
+https://account.chsi.com.cn/passport/login?service=https%3A%2F%2Fmy.chsi.com.cn%2Farchive%2Fj_spring_cas_security_check
+
+Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+tannal (tannal)
+https://github.com/tannal/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Trading fbdev for DRM, No Returns Accepted - Geert Uytterhoeven, Glider bv - YouTube
+https://www.youtube.com/watch?v=9a9IJQJf8PQ
+
+Excalidraw | Hand-drawn look & feel • Collaborative • Secure
+https://excalidraw.com/
+
+XDC 2023 | October 19 | Wayland Shells for Embedded Systems | Michael Tretter - YouTube
+https://www.youtube.com/watch?v=QhGJL4nKfAg
+
+ChatGPT
+https://chat.openai.com/c/5f6686f9-f473-415c-a7f2-637349153352
+
+Resources | Page 10
+https://tutflix.org/resources/?page=10
+
+Udemy - Figma UI UX Design Advanced - Daniel Scott - TutFlix - Free Education Community
+https://tutflix.org/resources/figma-ui-ux-design-advanced-daniel-scott.10279/
+
+Udemy - Kotlin Multiplatform Masterclass - KMP - TutFlix - Free Education Community
+https://tutflix.org/resources/kotlin-multiplatform-masterclass-kmp.10381/
+
+George Moller - +80 slides on UI/UX best practices - TutFlix - Free Education Community
+https://tutflix.org/resources/george-moller-80-slides-on-ui-ux-best-practices.10273/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+带有负权边的最短路径问题 - hyserendipity - 博客园
+https://www.cnblogs.com/hyserendipity/p/8559241.html
+
+shopee - Google 搜索
+https://www.google.com/search?q=shopee&sca_esv=599390440&sxsrf=ACQVn0-JXB8EwMVXUitPgBInBO8RwysHfQ%3A1705566757852&ei=JeKoZbLFM6u64-EPy4WsyAo&gs_ssp=eJzj4tVP1zc0TM8wTss2NilSYDRgdGDwYivOyC9ITQUAY3oHUQ&oq=shopp&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXNob3BwKgIIADIQEC4YgAQYywEYxwEY0QMYCjIKEAAYgAQYigUYQzIKEAAYgAQYywEYCjISEC4YgAQYigUYQxjHARjRAxgKMggQABiABBjLATIKEAAYgAQYigUYQzIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyHxAuGIAEGMsBGMcBGNEDGAoYlwUY3AQY3gQY4ATYAQFI6ERQsThY6TxwAHgCkAEAmAGrAaABjAaqAQMwLjW4AQPIAQD4AQHCAgQQABhHwgIQEC4YxwEY0QMYgAQYigUYJ8ICBBAjGCfCAgoQIxiABBiKBRgnwgIQEC4YgAQYigUYQxjHARjRA8ICEBAAGIAEGIoFGEMYsQMYgwHCAhYQLhiABBiKBRhDGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAh0QLhjHARjRAxiABBiKBRiXBRjcBBjeBBjgBNgBAcICHBAuGIAEGIoFGEMYsQMYgwEYsQMYgwEYxwEY0QPCAhQQLhiABBiKBRixAxiDARjHARjRA8ICERAuGIAEGLEDGIMBGMcBGNEDwgIFEAAYgATiAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+nameslio - Google 搜索
+https://www.google.com/search?q=nameslio&oq=nameslio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Tacit knowledge - Wikipedia
+https://en.wikipedia.org/wiki/Tacit_knowledge
+
+(4) Jason Chen (@jhchen) / X
+https://twitter.com/jhchen
+
+Jetpack Compose Material 3 Compose library – Composables
+https://www.composables.com/material3
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+temporal.io
+https://github.com/temporalio
+
+first name last name中文 - Google 搜索
+https://www.google.com/search?q=first+name+last+name%E4%B8%AD%E6%96%87&oq=first+name+la&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMxNTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal/cuda-examples
+https://github.com/tannal/cuda-examples
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+[css-pseudo] highlights and decoration propagation · Issue #6829 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/6829#issuecomment-1098255113
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 home/.gitconfig at main · michaelpq/home
 https://github.com/michaelpq/home/blob/main/.gitconfig
 
