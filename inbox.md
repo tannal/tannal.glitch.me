@@ -1,6 +1,75 @@
 
 # 2024-1-18 | 
 
+
+
+
+some software use the old technology (Makefile, autoconf) but long live.
+
+some software use the shiny new rising stars technology but died very quickly.
+
+Learning is that you find something useful but at that time you don't fully understand it. And as time go on, you get more and more confidence why it works.
+
+That's how learning works, not by logical reasoning.
+
+#--------------------------------------------------------------------------
+# .gitconfig
+#	GIT global settings
+#	Copyright (c) 2010-2024, Michael Paquier
+#--------------------------------------------------------------------------
+[alias]
+	# Check whitespaces
+	check-whitespace = !git diff-tree --check $(git hash-object -t tree /dev/null) HEAD
+	# Shorten diff for copied, renamed and deleted files
+	diff-short = diff --find-renames --irreversible-delete --break-rewrites --find-copies
+	# Execution of raw command
+	exec = "!exec "
+	# Shorten copied, renamed and deleted files for a patch generated
+	format-patch-short = format-patch --find-renames --irreversible-delete --break-rewrites --find-copies
+	# Print graph of git commit history
+	graph = log --graph --date-order -C -M --pretty=format:\"<%h> %cd [%cn] %Cgreen%d%Creset %s\" --all --date=short
+	# List files part of a commit.  Can be easily combined with git add.
+	# This needs a single commit number at its tail.
+	list-files = diff-tree --no-commit-id --name-only -r
+	# Shorten log information for copied, renamed and deleted files
+	log-short = log --find-renames --irreversible-delete --break-rewrites --find-copies -p
+	# Show top level repository
+	root = rev-parse --show-toplevel
+	# Remove last commit
+	undo = reset --hard HEAD~1
+	# Remove last commit
+	undo-soft = reset --soft HEAD~1
+[color]
+	# Print output in color if possible
+	ui = auto
+[core]
+	# 4 spaces per tab when using the pager
+	pager = less --tabs=4
+	# Exclusion of several file types
+	excludesfile = ~/.gitconfig_excludes
+[diff]
+	# Detect files renamed as well as copies
+	renames = copies
+	algorithm = histogram
+	# Ordering of files in diffs, for PostgreSQL
+	# XXX: If this becomes annoying for other projects, this had better
+	# live as a local setting.
+	orderFile = ~/.gitconfig_orderfile
+[format]
+	pretty = format:%C(blue)commit: %<(14,trunc)%H%C(reset)%n%C(green)author: %aN <%aE>%C(reset)%n%C(green)date: %aD%C(reset)%n%C(yellow)committer: %cN <%ce>%C(reset)%n%C(yellow)date: %cD%C(reset)%n%B
+[log]
+	# Do not use any mailmap file to map author name and emails.
+	mailmap = false
+[push]
+	# Push branches having same name remotely and locally
+	default = matching
+[include]
+	# Private parameters, done at the end to override other values
+	# if necessary
+	path = .gitconfig_extra
+
+
+
 july, sept, nov, jan, march
 feature freeze in april
 major version in september october

@@ -1,3 +1,5 @@
+# inbox
+
 kyber/bfq io sch
 
 mailing lists
@@ -81,3 +83,25 @@ ps -aux | grep postgres
 
 
 ```
+
+# compliation
+
+-DENFORCE_REGRESSION_TEST_NAME_RESTRICTIONS
+
+-DWRITE_READ_PARSE_PLAN_TREES
+
+-DCOPY_PARSE_PLAN_TREES
+
+-DRAW_EXPRESSION_COVERAGE_TEST
+
+-Og -ggdb -g3, for gdb
+
+-fno-omit-frame-pointer, for perf profiles
+
+use with care
+
+-DCLOBBER_CACHE_ALWAYS
+-DRELCACHE_FORCE_RELEASE -DCATCACHE_FORCE_RELEASE
+
+menson/ninja
+
