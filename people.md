@@ -2,6 +2,8 @@
 
 ## from 2024-1-7
 
+region
+
 André Almeida https://andrealmeid.com/ https://twitter.com/andrealmeid_
 
 Michael Kerrisk The Linux Programming Interface

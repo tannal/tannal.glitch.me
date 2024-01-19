@@ -1,6 +1,8 @@
 
 # 2024-1-19 1+1 |
 
+https://fedoraproject.org/wiki/Test_Day:2024-01-21_Kernel_6.7_Test_Week
+
 usb over ip adb android
 sudo ./funcgraph "send_sig" -m 2
 sudo ./funccount "*fault**"
@@ -506,6 +508,7 @@ dnf Fedora
 
 # 2024-1-16  | 1
 
+https://www.youtube.com/watch?v=ttebJcN5bgQ
 
 winget install --id=Mobatek.MobaXterm  -e
 computer just do two things moving bits and flip bits

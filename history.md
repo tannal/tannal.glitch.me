@@ -1,5 +1,155 @@
 # 2024-1-19
 
+deno.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+PowerInfer/ReluFalcon-40B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluFalcon-40B-PowerInfer-GGUF
+
+perf-tools/bin at master · brendangregg/perf-tools
+https://github.com/brendangregg/perf-tools/tree/master/bin
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+home/.gitconfig_orderfile at main · michaelpq/home
+https://github.com/michaelpq/home/blob/main/.gitconfig_orderfile
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+ChatGPT
+https://chat.openai.com/c/18b21b3e-7ec6-4ca4-b51d-fe26785ce5ea
+
+Chromium Docs - Session History
+https://chromium.googlesource.com/chromium/src/+/master/docs/session_history.md
+
+segfault when running cargo test · Issue #21439 · denoland/deno
+https://github.com/denoland/deno/issues/21439
+
+Memory Protection Keys — The Linux Kernel documentation
+https://www.kernel.org/doc/html/next/core-api/protection-keys.html
+
+How to send signal from kernel to user space - Stack Overflow
+https://stackoverflow.com/questions/31646466/how-to-send-signal-from-kernel-to-user-space
+
+Linux eBPF Stack Trace Hack
+https://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html
+
+bcc/INSTALL.md at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/INSTALL.md#ubuntu---binary
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=false&query=&sort=byPopularity&type=story
+
+What's New in WebGPU (Chrome 121)  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/new-in-webgpu-121
+
+youtube.com François Beaufort - Google 搜索
+https://www.google.com/search?q=youtube.com+Fran%C3%A7ois+Beaufort&oq=youtube.com+Fran%C3%A7ois+Beaufort&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDMwNzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+François Beaufort youtube - Google 搜索
+https://www.google.com/search?sca_esv=599728183&sxsrf=ACQVn08pDShHiD9MxBgr-dUVTP4ydyRpJw:1705652658959&q=Fran%C3%A7ois+Beaufort+youtube&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi-vuOmg-mDAxVdxjgGHQ8nAfIQ0pQJegQICxAB&biw=1280&bih=593&dpr=1.5
+
+What you can do with WebGPU? By Corentin Wallez, François Beaufort - YouTube
+https://www.youtube.com/watch?v=RR4FZ9L4AF4
+
+dawn - Git at Google
+https://dawn.googlesource.com/dawn
+
+Dawn Graphics - Google 网上论坛
+https://groups.google.com/g/dawn-graphics
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Outreachy Internship Application Process. - YouTube
+https://www.youtube.com/watch?v=UiNLbOqlZ_o
+
+chinese working culture bbc - Google 搜索
+https://www.google.com/search?q=chinese+working+culture+bbc&sca_esv=599728183&sxsrf=ACQVn0_RILQQJvAcoJZqO5U52oY1Tnge7A%3A1705653214171&ei=3jOqZfaJCtKb4-EPzcWMkA8&ved=0ahUKEwj28MKvhemDAxXSzTgGHc0iA_IQ4dUDCBA&uact=5&oq=chinese+working+culture+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2NoaW5lc2Ugd29ya2luZyBjdWx0dXJlIGJiYzIFECEYoAFIvwtQ-AFYrwpwAXgBkAEAmAG1AaAB-gOqAQMwLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTiAwQYACBBiAYBkAYJ&sclient=gws-wiz-serp
+
+outreachy internship experience - Google 搜索
+https://www.google.com/search?q=outreachy+internship+experience&oq=outreachy+internship+exp&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCDk1NjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Bioconductor community blog - Our Journey as Outreachy Interns with Bioconductor
+https://blog.bioconductor.org/posts/2023-07-14-OutreachyInternshipExperience/
+
+Inside Outreachy: My experience as an Intern with Oppia - Bamgboye Pelumi
+https://bamgboyepelumi.com/outreachy-x-oppia/
+
+outreachy internship essays - Google 搜索
+https://www.google.com/search?q=outreachy+internship+essays&oq=outreachy+internship+essays&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCTExODc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Advice for students applying to InterMine through Outreachy | Internships @ InterMine
+http://intermine.org/internships/guidance/students-applying-outreachy/
+
+Getting started with Outreachy
+https://tanny411.github.io/2020/12/01/Getting-Started-With-Outreachy/
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/#qemu
+
+Mboalab - Google 搜索
+https://www.google.com/search?q=Mboalab&oq=Mboalab&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAE0gEHMjk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+qemu - Google 搜索
+https://www.google.com/search?q=qemu&oq=qemu&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgYIARBFGDsyBggCECMYJzIGCAMQIxgnMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQgxNTU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+校友 英文 - Google 搜索
+https://www.google.com/search?q=%E6%A0%A1%E5%8F%8B+%E8%8B%B1%E6%96%87&oq=iaoyou&gs_lcrp=EgZjaHJvbWUqCQgDEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMg8IBxAAGA0YgwEYsQMYgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEIMzQ2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+LLaMA - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/LLaMA
+
+Meta训练Llama 2大概花了多少钱？ : WMWtech
+https://www.reddit.com/r/WMWtech/comments/17623yn/meta%E8%AE%AD%E7%BB%83llama_2%E5%A4%A7%E6%A6%82%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1/
+
+meta-llama (Meta Llama 2)
+https://huggingface.co/meta-llama
+
+Llama 2 - Meta AI
+https://ai.meta.com/llama/
+
+Kernel 6.7 Test Week
+https://testdays.fedoraproject.org/events/173
+
+Test Day:2024-01-21 Kernel 6.7 Test Week - Fedora Project Wiki
+https://fedoraproject.org/wiki/Test_Day:2024-01-21_Kernel_6.7_Test_Week
+
+ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++
+https://github.com/ggerganov/llama.cpp
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+GopherCon 2017: Marty Schoch - Building a High-Performance Key/Value Store in Go - YouTube
+https://www.youtube.com/watch?v=ttebJcN5bgQ
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+#general > Windows build bustage - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Windows.20build.20bustage
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
