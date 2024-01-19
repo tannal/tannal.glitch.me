@@ -1,8 +1,18 @@
-# 2024-1-19 1 |
 
+# 2024-1-19 1+1 |
+
+usb over ip adb android
 sudo ./funcgraph "send_sig" -m 2
 sudo ./funccount "*fault**"
 sudo ./stackcount  send_sig -P -K
+
+C:\Users\tannal\AppData\Local\Android\Sdk
+
+editor live edit
+
+adb devices
+adb tcpip 5555
+adb connect 192.168.43.58:5555
 
 sudo stackcount-bpfcc send_sig -K
 
@@ -1805,7 +1815,6 @@ if (process.pid) {
 }
 
 sudo ./funcgraph -p 47889 tcp_update_skb_after_send -m 2
-
 
 ```
 
