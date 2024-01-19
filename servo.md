@@ -19,33 +19,15 @@ https://github.com/servo/servo/issues/30862
 
 # threads & subproccesses
 
-
 ```
-
-  Id   Target Id                                           Frame 
-  1    Thread 0x7fc1400066c0 (LWP 29349) "servo"           0x00007fc140725c3e in epoll_wait (epfd=4, events=0x7ffe72917a98, maxevents=32, timeout=-1)
-    at ../sysdeps/unix/sysv/linux/epoll_wait.c:30
-  2    Thread 0x7fc1337ff640 (LWP 29358) "servo:cs0"       __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x5588a6b2a868) at ./nptl/futex-internal.c:57
-  3    Thread 0x7fc132ebd640 (LWP 29359) "servo:disk$0"    __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x5588a6b9d9d8) at ./nptl/futex-internal.c:57
-  4    Thread 0x7fc1326bc640 (LWP 29360) "servo:sh0"       __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x5588a6b34fc8) at ./nptl/futex-internal.c:57
-  5    Thread 0x7fc131ebb640 (LWP 29361) "servo:shlo0"     __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x5588a6b3553c) at ./nptl/futex-internal.c:57
-  6    Thread 0x7fc131285640 (LWP 29362) "servo:gdrv0"     __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x7fc131286588) at ./nptl/futex-internal.c:57
-  7    Thread 0x7fc130842640 (LWP 29364) "servo"           0x00007fc1407189df in __GI___poll (fds=0x7fc13083add0, nfds=1, timeout=-1)
-    at ../sysdeps/unix/sysv/linux/poll.c:29
-  8    Thread 0x7fc11bfff640 (LWP 29365) "servo:sh1"       __futex_abstimed_wait_common64 (private=0, cancel=true, abstime=0x0, op=393, expected=0, 
-    futex_word=0x5588a6b34fc8) at ./nptl/futex-internal.c:57
-  9    Thread 0x7fc11b7fe640 (LWP 29366) "smithay-clipboa" 0x00007fc1406e57f8 in __GI___clock_nanosleep (clock_id=clock_id@entry=0, flags=flags@entry=0, 
-    req=0x7fc11b7f6e90, rem=0x7fc11b7f6e90) at ../sysdeps/unix/sysv/linux/clock_nanosleep.c:78
-  10   Thread 0x7fc11ae7c640 (LWP 29368) "TimeProfiler"    __recvmsg_syscall (flags=1073741824, msg=0x7fc11ae755f8, fd=15) at ../sysdeps/unix/sysv/linux/recvmsg.c:27
-  11   Thread 0x7fc11ac7b640 (LWP 29369) "MemoryProfiler"  __recvmsg_syscall (flags=1073741824, msg=0x7fc11ac74588, fd=17) at ../sysdeps/unix/sysv/linux/recvmsg.c:27
-  12   Thread 0x7fc11aa7a640 (LWP 29370) "servo"           0x00007fc140725c3e in epoll_wait (epfd=24, events=0x7fc11a201000, maxevents=10, timeout=-1)
-    at ../sysdeps/unix/sysv/linux/epoll_wait.c:30
-  13   Thread 0x7fc119cc9640 (LWP 29371) "servo:sh2" 
+"servo" 
+"servo:cs0"
+"servo:disk$0"
+"servo:sh0"   
+"servo:shlo0" 
+"servo:gdrv0" 
+"servo:sh1"   
+"servo:sh2" 
 ```
 
 ![Alt text](./image-10.png)
