@@ -1,8 +1,18 @@
 # inbox
 
+lsp::diagnostic
+
+#6  0x0000555561307161 in v8::isolate::Isolate::new (params=...) at src/isolate.rs:581
+#7  0x0000555560cc9169 in deno_core::runtime::jsruntime::JsRuntime::new_inner (
+    options=..., will_snapshot=false) at runtime/jsruntime.rs:769
+#8  0x0000555560cc74a1 in deno_core::runtime::jsruntime::JsRuntime::new (options=...)
+    at runtime/jsruntime.rs:595
+#9  0x000055555a4d0dcb in deno::lsp::tsc::run_tsc_thread (request_rx=..., performance=..., 
+    cache=..., specifier_map=..., maybe_inspector_server=...) at cli/lsp/tsc.rs:4082
+#10 0x000055555ac643ab in deno::lsp::tsc::{impl#2}::start::{closure#1} ()
+    at cli/lsp/tsc.rs:271
 
 tokio::spawn
-
 
 Deno[Deno.internal]
 

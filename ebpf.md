@@ -1,5 +1,6 @@
 
 ```bash
+sudo apt-get install bpfcc-tools linux-headers-$(uname -r)
 
 git clone --depth 1 https://github.com/brendangregg/perf-tools
 

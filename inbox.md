@@ -1,6 +1,31 @@
-
 # 2024-1-19 1 |
 
+sudo ./funcgraph "send_sig" -m 2
+sudo ./funccount "*fault**"
+sudo ./stackcount  send_sig -P -K
+
+sudo stackcount-bpfcc send_sig -K
+
+Tracing 1 functions for "send_sig"... Hit Ctrl-C to end.
+^C
+  b'send_sig'
+  b'__kernel_write_iter'
+  b'__kernel_write'
+  b'dump_emit'
+  b'writenote'
+  b'elf_core_dump'
+  b'do_coredump'
+  b'get_signal'
+  b'arch_do_signal_or_restart'
+  b'exit_to_user_mode_loop'
+  b'exit_to_user_mode_prepare'
+  b'irqentry_exit_to_user_mode'
+  b'irqentry_exit'
+  b'exc_page_fault'
+  b'asm_exc_page_fault'
+    1
+
+https://www.kernel.org/doc/html/next/core-api/protection-keys.html
 
 ```
 
@@ -1780,6 +1805,7 @@ if (process.pid) {
 }
 
 sudo ./funcgraph -p 47889 tcp_update_skb_after_send -m 2
+
 
 ```
 
