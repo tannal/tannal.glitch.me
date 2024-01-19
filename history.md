@@ -1,5 +1,35 @@
 # 2024-1-18
 
+Udemy - Figma UI UX Design Advanced - Daniel Scott - TutFlix - Free Education Community
+https://tutflix.org/resources/figma-ui-ux-design-advanced-daniel-scott.10279/
+
+George Moller ui-ux-free-slides-bundle.zip - Google 云端硬盘
+https://drive.google.com/file/d/1ac8Eo5zLNAi5nu6mooSfYrLLOrSvpUgy/view
+
+George Moller ui-ux-free-slides-bundle.zip - Google 云端硬盘
+https://drive.google.com/file/d/1ac8Eo5zLNAi5nu6mooSfYrLLOrSvpUgy/view?afp=ui-ux-free-slides-bundle%2F8%20ux%20writing%20best%20practices%2F8%20ux%20writing%20best%20practices.pdf&afmt=application%2Fpdf
+
+Figma UI UX Design Advanced.rar - Google 云端硬盘
+https://drive.google.com/file/d/1p_Fvmhhn2HJDGN22qmTzr7JkQ17hSIt_/view
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=1p_Fvmhhn2HJDGN22qmTzr7JkQ17hSIt_&export=download&authuser=0
+
+Udemy - Figma UI UX Design Advanced - Daniel Scott - TutFlix - Free Education Community
+https://tutflix.org/resources/figma-ui-ux-design-advanced-daniel-scott.10279/
+
+[UDEMY] Svelte.js - The Complete Guide (incl. Sapper.js).part1.rar - Google 云端硬盘
+https://drive.google.com/file/d/1ljVIoeS99vQVnlHdt1pZ7KtNQu0OqGRX/view
+
+2022 JavaScript Rising Stars
+https://risingstars.js.org/2022/en
+
+shopify - Google 搜索
+https://www.google.com/search?q=shopify&rlz=1C1GCEA_enCN1091CN1091&oq=shopify&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxODU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+shoppe - Google 搜索
+https://www.google.com/search?q=shoppe&rlz=1C1GCEA_enCN1091CN1091&oq=shoppe&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIYCAEQLhhDGIMBGMcBGLEDGNEDGIAEGIoFMg4IAhAjGBMYJxiABBiKBTIMCAMQABhDGIAEGIoFMhgIBBAuGEMYgwEYxwEYsQMY0QMYgAQYigUyDAgFEAAYQxiABBiKBTIMCAYQABhDGIAEGIoFMhMIBxAuGIMBGMcBGLEDGNEDGIAEMg0ICBAAGIMBGLEDGIAEMg0ICRAuGMcBGNEDGIAE0gEHNzMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

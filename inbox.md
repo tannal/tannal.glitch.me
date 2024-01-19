@@ -1,5 +1,60 @@
 
+# 2024-1-19 1 |
+
+display window system client content (GPU, media, etc)
+
+self reference
+
+Client wayland compositor wayland compositor
+
+OpenGL ES EGL GBM
+
+DRM DRM(KMS)
+
+create_proc_entry
+
+DRM
+
+file vmlinux
+
+arm-linux-addr2line -f -e vmlinux
+
+edu.pl
+
+FOSSASIA
+
+https://students.mimuw.edu.pl/ZSO/index_en.html
+
+6000
+https://pdxlinux.org/
+
+Apache Hadoop
+Apache Kafka
+Apache Cassandra
+Apache Spark
+Apache HTTP Server
+Apache Tomcat
+Apache Lucene
+Apache Maven
+Apache Ant
+Apache Airflow
+
+https://hn.algolia.com/
+
+https://eel.is/c++draft/conv#general-1.2
+
+SPIR-V instruction set
+
+https://llvm.org/OpenProjects.html#gsoc24
+
 # 2024-1-18 |
+
+
+gaming in linux valve proton wine
+
+Case-insensitive filesystems
+
+btrfs indentical fs ids
 
 ![Alt text](./image-9.png)
 
@@ -2440,10 +2495,6 @@ set https_proxy=http://192.168.43.1:7890
 
 $env:HTTP_PROXY = "http://192.168.43.1:7890"
 $env:HTTPS_PROXY = "http://192.168.43.1:7890"
-
-
-$env:HTTP_PROXY = "http://127.0.0.1:7890"
-$env:HTTPS_PROXY = "http://127.0.0.1:7890"
 
 $progressPreference = 'silentlyContinue'
 Write-Information "Downloading WinGet and its dependencies..."

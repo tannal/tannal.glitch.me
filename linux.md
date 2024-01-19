@@ -706,6 +706,8 @@ https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#pr
 
 https://kernelnewbies.org/KernelBuild
 
+https://courses.cs.washington.edu/courses/cse451/01wi/TLKCopy/tlk.html
+
 
 # linux kernel labs
 
