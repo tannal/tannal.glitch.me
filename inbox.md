@@ -1,6 +1,43 @@
 
 # 2024-1-19 1 |
 
+
+```
+
+name: sync-fork
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: { }
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - run: gh repo sync $REPOSITORY -b $BRANCH_NAME
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          BRANCH_NAME: ${{ github.ref_name }}
+
+```
+
+gitconfig_orderfile
+
+```
+
+[diff]
+	# Detect files renamed as well as copies
+	renames = copies
+	algorithm = histogram
+	# Ordering of files in diffs, for PostgreSQL
+	# XXX: If this becomes annoying for other projects, this had better
+	# live as a local setting.
+	# orderFile = ~/.gitconfig_orderfile
+
+```
+
 amdgpu_get_vblank_counter_kms
 
 sudo ./funccount '*kms*'
