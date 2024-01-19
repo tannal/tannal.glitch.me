@@ -1,3 +1,137 @@
+# 2024-1-19
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+PowerInfer/ReluFalcon-40B-PowerInfer-GGUF · Hugging Face
+https://huggingface.co/PowerInfer/ReluFalcon-40B-PowerInfer-GGUF
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+(1) Resources | Page 3
+https://tutflix.org/resources/?page=3
+
+(1) Flat Pack Fx - Animation Master - TutFlix - Free Education Community
+https://tutflix.org/resources/flat-pack-fx-animation-master.10473/
+
+www.google.com.hk
+https://www.google.com.hk/search?q=valorant+ubuntu&newwindow=1&sca_esv=599479785&sxsrf=ACQVn0-XP-sGS1CzaLZO6xkzid_6BXiszA%3A1705589214203&ei=3jmpZYuLDPPa1e8P1t6wiAs&oq=valorant+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXZhbG9yYW50ICoCCAAyChAjGIAEGIoFGCcyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFItKTJEVDo1MgRWM-ayRFwAngBkAEAmAH6AaAB3hCqAQYwLjEzLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEECMYJ8ICEBAuGIAEGIoFGEMYxwEY0QPCAg0QLhiABBiKBRhDGLEDwgIKEAAYgAQYigUYQ8ICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAhYQLhiABBiKBRhDGLEDGIMBGMcBGNEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAgUQABiABMICCxAuGIAEGMcBGNEDwgIHEC4YgAQYCsICChAAGIAEGMsBGArCAgoQLhiABBjLARgKwgIQEC4YgAQYywEYxwEY0QMYCsICChAuGIAEGIoFGEPCAggQLhiABBjLAeIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+software installation - How to install Valorant on Ubuntu 20.04 - Ask Ubuntu
+https://askubuntu.com/questions/1270424/how-to-install-valorant-on-ubuntu-20-04
+
+Guilherme G. Piccoli | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/gpiccoli
+
+#general > Windows build bustage - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Windows.20build.20bustage
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+• Discord | #fresh | Deno
+https://discord.com/channels/684898665143206084/991511118524715139
+
+[conv]
+https://eel.is/c++draft/conv#general-1.2
+
+spir-v sun microsystems - Google 搜索
+https://www.google.com/search?q=spir-v+sun+microsystems&sca_esv=599632514&sxsrf=ACQVn09zixwFCBjqyNoy8kIVr4JinA4qtQ%3A1705623848521&ei=KMGpZam6H72NnesP-NC_sAw&oq=SPIR-V+sun+microsys&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1NQSVItViBzdW4gbWljcm9zeXMqAggAMgUQIRigAUinVFCqBVjPTXACeAGQAQCYAZ8BoAHmFKoBBDAuMTm4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgcQABiABBgMwgIGEAAYHhgMwgIEEAAYHsICCBAAGB4YDBgKwgIIEAAYgAQYogTCAggQABiJBRiiBMICBxAhGAoYoAHiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=sun%20microsystems&sort=byPopularity&type=story
+
+Apache Famous Projects
+https://chat.openai.com/c/14ec00bb-9c80-4980-8d92-77b08f876faf
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Linux bootcamp: From casual Linux user to kernel hacker - Part 1 - YouTube
+https://www.youtube.com/watch?v=lhauShD2jA4
+
+The Chainsmokers & Coldplay - Something Just Like This (Live at the BRITs) - YouTube
+https://www.youtube.com/watch?v=4u6bWs-ZG0o
+
+Episode 006: Zig and Rust - YouTube
+https://www.youtube.com/watch?v=VJsPd24gByY
+
+Advanced Operating Systems, Institut of Informatics, University of Warsaw
+https://students.mimuw.edu.pl/ZSO/index_en.html
+
+ProcessScheduling2.pdf
+https://students.mimuw.edu.pl/ZSO/Wyklady/15_CPUschedulers2/ProcessScheduling2.pdf
+
+ZSO 2022/2023: materiały do laboratorium — zso 2021 documentation
+https://students.mimuw.edu.pl/ZSO/PUBLIC-SO/2022-2023/
+
+Janina Mincer-Daszkiewicz
+https://www.mimuw.edu.pl/~jmd/
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+twitter.com/Yu_Wei_Wu
+https://twitter.com/Yu_Wei_Wu
+
+Slides :: WayNew — Yu-Wei Wu's blog
+https://wusyong.github.io/slides/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+linux kernel site:edu. - Google 搜索
+https://www.google.com/search?q=linux+kernel+site%3Aedu.&oq=linux+kernel+site%3Aedu.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY5MjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+The Linux Kernel
+https://courses.cs.washington.edu/courses/cse451/01wi/TLKCopy/tlk.html
+
+procfs-guide.pdf
+https://www.cs.cmu.edu/afs/grand.central.org/archive/twiki/pub/Main/SumitKumar/procfs-guide.pdf
+
+Llama 2 - Meta AI
+https://ai.meta.com/llama/
+
+kdlp.underground.software/course/spring2023/index.md
+https://kdlp.underground.software/course/spring2023/index.md
+
+underground-software/orbit: KDLP in the palm of your docker container
+https://github.com/underground-software/orbit
+
+postgres/src/fe_utils/archive.c at master · postgres/postgres
+https://github.com/postgres/postgres/blob/master/src/fe_utils/archive.c
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/OpenProjects.html#gsoc24
+
+Eric Emerson Schmidt - Google 搜索
+https://www.google.com/search?q=Eric+Emerson+Schmidt&sca_esv=599664238&sxsrf=ACQVn0_C--Z55Maks_8kqvR8OVvE9odbag%3A1705630476856&ei=DNupZbP4M6LA4-EP_Z-3iAc&ved=0ahUKEwizrsPVsOiDAxUi4DgGHf3PDXEQ4dUDCBA&uact=5&oq=Eric+Emerson+Schmidt&gs_lp=Egxnd3Mtd2l6LXNlcnAiFEVyaWMgRW1lcnNvbiBTY2htaWR0MggQLhiABBjLATIFEAAYgAQyCBAAGIAEGMsBMgQQABgeMgQQABgeMhcQLhiABBjLARiXBRjcBBjeBBjfBNgBAUioDFCaBFiaBHABeAGQAQCYAbcBoAG3AaoBAzAuMbgBA8gBAPgBAvgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+EGL 介绍和使用-CSDN博客
+https://blog.csdn.net/afei__/article/details/84867104
+
+(89封未读) nenu.edu.cn
+https://mail.nenu.edu.cn/js6/main.jsp?sid=m0JA*853L2MEyC-01GuUMmdgRtMZKltn&show_window=1&show_new=1&hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
+
+图显系统DRM CRTC完全解析-CSDN博客
+https://blog.csdn.net/weixin_43644245/article/details/120255137
+
 # 2024-1-18
 
 Udemy - Figma UI UX Design Advanced - Daniel Scott - TutFlix - Free Education Community

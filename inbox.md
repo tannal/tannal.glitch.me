@@ -1,6 +1,27 @@
 
 # 2024-1-19 1 |
 
+amdgpu_get_vblank_counter_kms
+
+sudo ./funccount '*kms*'
+
+framebuffer plane CRTC
+
+wireframe of all your geometry within the scene
+
+give them some texture images you want paint to them
+
+and some shader programs to do cool effects and tell you how to paint them
+only do rendering
+
+EGL & WSI bridge
+
+DRM CRTC generate generate a pixel stream for the displays
+
+framebuffers set of pixels
+
+DRM/KMS Object tree
+
 display window system client content (GPU, media, etc)
 
 self reference
@@ -1807,53 +1828,57 @@ const crossedOut = new Array(n + 1).fill(false);
 diff <(./vjudge.js < input) output
 
 ```js
-
 #!/home/tannal/.nvm/versions/node/v20.10.0/bin/node
 
-const rl = require("readline").createInterface({ input: process.stdin });
-const iter = rl[Symbol.asyncIterator]();
-const readline = async () => (await iter.next()).value;
+const readline = require('readline');
+const rl = readline.createInterface({
+  input: process.stdin,
+});
+
 const inspector = require('inspector');
 const debug = inspector.url() !== undefined
 
 console.debug = (...args) => {
-  if(debug) {
+  if (debug) {
     console.log(...args)
   }
 }
-/**
- * 
- * @param {string[]} sayings 
- */
-const solve = (sayings) => {
-  console.debug(sayings)
 
-  sayings.forEach((saying, i) => {
-    if(saying.includes("Simon says")) {
+function solve(/** @type {number[]} */ balloons) {
+  console.debug(balloons)
+  let count = 0
 
-      const start = saying.indexOf("Simon says") + 11
-  
-      console.log(saying.slice(start))
+  let current = []
+
+  for(let i = 0; i < balloons.length; i++) {
+    if(current.some(v => v === balloons[i])) {  
+      let idx = current.findIndex(v => v === balloons[i])
+      current[idx]--
+    }else {   
+      count++
+      current.push(balloons[i] - 1)
     }
-  })
-
+  }
+  console.log(count)
 }
 
-void async function () {
-  // Write your code heres
-  let line
-  let lines = []
-  while ((line = await readline()) !== undefined) {
+const processInput = (lines) => {
+    let n = +lines.shift()
+    let balloons = lines.shift()
+    solve(balloons.split(' ').map(v => +v))
+};
+
+const readInputLines = async () => {
+  const lines = [];
+  for await (const line of rl) {
     lines.push(line);
   }
-  console.debug(lines)
-  lines.shift()
-  solve(lines)
-}()
+  return lines;
+};
 
-
-
-
+readInputLines().then(lines => {
+  processInput(lines);
+});
 
 ```
 
