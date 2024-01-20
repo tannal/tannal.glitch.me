@@ -1,3 +1,236 @@
+# 2024-1-20
+
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+chromium/net/url_request/url_request.h at 371bdba790b9e1b96baf7dedc923237303274a28 · chromium/chromium
+https://github.com/chromium/chromium/blob/371bdba790b9e1b96baf7dedc923237303274a28/net/url_request/url_request.h#L93
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL: use TypedArray · Issue #31064 · servo/servo
+https://github.com/servo/servo/issues/31064
+
+RefCell<Option<Heap<T>>> is easy to misuse · Issue #25726 · servo/servo
+https://github.com/servo/servo/issues/25726
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1778696 - WatchdogMain seems to have a bogus manager->ForAllActiveContexts loop condition
+https://bugzilla.mozilla.org/show_bug.cgi?id=1778696
+
+Element [1] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+Chet Haase & Romain Guy: Modern Android Development - YouTube
+https://www.youtube.com/watch?v=QTs_eDAXksY&list=PL4ebO4PmeAi7MUNicINnxXjSo7l_gi--D&index=2
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
+
+`deno run` does not support ts syntax when executing redirected input content · Issue #21996 · denoland/deno
+https://github.com/denoland/deno/issues/21996
+
+dprint-plugin-wgsl/src/lib.rs at main · littledivy/dprint-plugin-wgsl
+https://github.com/littledivy/dprint-plugin-wgsl/blob/main/src/lib.rs
+
+ChatGPT
+https://chat.openai.com/c/d2b8d5be-817c-441a-954d-ee938475fa2f
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+deno_core/core/runtime/jsruntime.rs at main · denoland/deno_core
+https://github.com/denoland/deno_core/blob/main/core/runtime/jsruntime.rs#L972
+
+segfault when running cargo test · Issue #21439 · denoland/deno
+https://github.com/denoland/deno/issues/21439
+
+cpuflags kpu - Google 搜索
+https://www.google.com/search?q=cpuflags+kpu&rlz=1C1GCEA_enJP1090JP1090&oq=cpuflags+kpu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDIyNzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Slack - * 搜索 - BabelJS
+https://app.slack.com/client/T062L95S6/search
+
+the-super-tiny-compiler/the-super-tiny-compiler.js at master · jamiebuilds/the-super-tiny-compiler
+https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js
+
+tannal (tannal)
+https://github.com/tannal/
+
+Android开发，使用Wifi调试真机_友开发 不能连接wifi-CSDN博客
+https://blog.csdn.net/listeners_Gao/article/details/51485669
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+解决：android stuido 安装成功后，adb命令不存在的问题_android studio adb not found-CSDN博客
+https://blog.csdn.net/gufenchen/article/details/91356748
+
+microsoft/ebpf-for-windows: eBPF implementation that runs on top of Windows
+https://github.com/microsoft/ebpf-for-windows
+
+eCHO episode 10: eBPF for Windows - YouTube
+https://www.youtube.com/watch?v=LrrV-eo6fug
+
+ebpf-for-windows/docs/GettingStarted.md at main · microsoft/ebpf-for-windows
+https://github.com/microsoft/ebpf-for-windows/blob/main/docs/GettingStarted.md
+
+ebpf-for-windows/docs/tutorial.md at main · microsoft/ebpf-for-windows
+https://github.com/microsoft/ebpf-for-windows/blob/main/docs/tutorial.md
+
+discord send code - Google 搜索
+https://www.google.com/search?q=discord+send+code&rlz=1C1GCEA_enJP1090JP1090&oq=discord+send+code&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEINDM0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+USB/IP protocol — The Linux Kernel documentation
+https://docs.kernel.org/usb/usbip_protocol.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Bottom Navigation Bar With Badges - UX With Material3 - YouTube
+https://www.youtube.com/watch?v=c8XP_Ee7iqY&list=PLQkwcJG4YTCT1LkjokmzZUFFyFVVWPuKk&index=6
+
+How to search method in a file in Android Studio - Stack Overflow
+https://stackoverflow.com/questions/28340664/how-to-search-method-in-a-file-in-android-studio
+
+pikestyle.pdf
+http://www.literateprogramming.com/pikestyle.pdf
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+macos - Android Studio basic auto completion shortcut not working - Stack Overflow
+https://stackoverflow.com/questions/31856121/android-studio-basic-auto-completion-shortcut-not-working
+
+Amazing Android Studio Shortcuts every Android Developer should know | Team MAST - YouTube
+https://www.youtube.com/watch?v=mHjzLJH6MXQ
+
+android studio auto complete shortcut - Google 搜索
+https://www.google.com/search?q=android+studio+auto+complete+shortcut&rlz=1C1GCEA_enJP1090JP1090&oq=android+studio+auto+complete+shortcut&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHtIBCDg0NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+androidx - Android Code Search
+https://cs.android.com/android/platform/superproject/main/+/main:prebuilts/sdk/current/androidx/?hl=zh-cn
+
+Compose  |  Jetpack  |  Android Developers
+https://developer.android.com/jetpack/androidx/releases/compose?hl=zh-cn
+
+RoundRect  |  Android Developers
+https://developer.android.com/reference/kotlin/androidx/compose/ui/geometry/RoundRect
+
+Compose Foundation  |  Jetpack  |  Android Developers
+https://developer.android.com/jetpack/androidx/releases/compose-foundation?hl=zh-cn
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=steve%20jobs&sort=byPopularity&type=story
+
+Random thoughts
+https://tannal.github.io/
+
+How do I run specific golang test using go test -run - Stack Overflow
+https://stackoverflow.com/questions/48465080/how-do-i-run-specific-golang-test-using-go-test-run
+
+Writing out large arrays in Go: binary.Write is inefficient for large arrays – Daniel Lemire's blog
+https://lemire.me/blog/2022/03/18/writing-out-large-arrays-in-go-binary-write-is-inefficient-for-large-arrays/
+
+Encoding Data with the Go Binary Package | by Vladimir Vivien | Learning the Go Programming Language | Medium
+https://medium.com/learning-the-go-programming-language/encoding-data-with-the-go-binary-package-42c7c0eb3e73
+
+How do you print in a Go test using the "testing" package? - Stack Overflow
+https://stackoverflow.com/questions/23205419/how-do-you-print-in-a-go-test-using-the-testing-package
+
+#general > TSC Meeting January 2024 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/TSC.20Meeting.20January.202024
+
+Servo TSC Meeting January 2024 · Issue #80 · servo/project
+https://github.com/servo/project/issues/80
+
+weolar/v8-internals: 面向编译器开发人员的V8内部实现文档
+https://github.com/weolar/v8-internals
+
+plctlab/v8-internals: 面向编译器开发人员的V8内部实现文档
+https://github.com/plctlab/v8-internals
+
+v8-internals/slides/03-v8-build-system-part2.pdf at master · plctlab/v8-internals
+https://github.com/plctlab/v8-internals/blob/master/slides/03-v8-build-system-part2.pdf
+
+Handling of ports · V8
+https://v8.dev/docs/ports
+
+Evan Martin (@evmar) / X
+https://twitter.com/evmar
+
+Tech Notes: Chrome, 10 years later
+https://neugierig.org/software/blog/2022/12/chrome.html
+
+The Verge
+https://www.theverge.com/
+
+Official Google Blog: New Firefox extensions
+https://googleblog.blogspot.com/2005/12/new-firefox-extensions.html
+
+ImperialViolet - Posts index - ImperialViolet.org
+https://www.imperialviolet.org/posts-index.html
+
+Chrome devs deny Jeff Nelson's role in the creation of Chrome OS | Hacker News
+https://news.ycombinator.com/item?id=5219765
+
+Chromium Notes: Plugins diagram
+https://neugierig.org/software/chromium/notes/2009/05/plugins-diagram.html
+
+gHacks Technology News and Advice
+https://www.ghacks.net/
+
+Chromium Notes: archive
+https://neugierig.org/software/chromium/notes/archive.html
+
+Brad Fitzpatrick [bradfitz.com]
+https://www.bradfitz.com/
+
+LLVM - Wikipedia
+https://en.wikipedia.org/wiki/LLVM#cite_note-63
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/devmtg/2007-05/
+
+Bob Archer adobe - Google 搜索
+https://www.google.com/search?q=Bob+Archer+adobe&sca_esv=600053872&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08WlVoUNOa9Mn1Qo2Hg9qYyO0UbVQ%3A1705750230338&ei=1q6rZcOfFNmV4-EP3Le4sAk&ved=0ahUKEwjD4rfk7uuDAxXZyjgGHdwbDpYQ4dUDCBA&uact=5&oq=Bob+Archer+adobe&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEJvYiBBcmNoZXIgYWRvYmUyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIwxpQxwVYxhlwBngAkAEAmAHoAaAB4weqAQUwLjUuMbgBA8gBAPgBAcICCxAAGIAEGKIEGLADwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTCAgUQIRigAeIDBBgBIEGIBgGQBgI&sclient=gws-wiz-serp
+
+May | 2014 | Random programming
+http://www.randomprogramming.com/2014/05/
+
+E.W. Dijkstra Archive: Why numbering should start at zero (EWD 831)
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html
+
+George Forsythe - Google 搜索
+https://www.google.com/search?q=George+Forsythe&rlz=1C1GCEA_enJP1090JP1090&oq=George+Forsythe&gs_lcrp=EgZjaHJvbWUyDggAEEUYExg5GOMCGIAEMgkIARAuGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCQgFEAAYExiABDIICAYQABgTGB4yCggHEAAYBRgTGB4yCggIEAAYCBgTGB4yCggJEAAYBRgTGB7SAQczMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Simultaneous multithreading - Wikipedia
+https://en.wikipedia.org/wiki/Simultaneous_multithreading
+
+Emil Eklund google - Google 搜索
+https://www.google.com/search?q=Emil+Eklund+google&rlz=1C1GCEA_enJP1090JP1090&oq=Emil+Eklund+google&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDEyNTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Incomplete List of Mistakes in the Design of CSS [CSS Working Group Wiki]
+https://wiki.csswg.org/ideas/mistakes
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=I%20mention%20all%20of%20this%20also%20to%20reflect%20on%20one%20especially%20weird%20part%20of%20all%20of%20this.%20At%20some%20point%20I%20was%20told%20to%20not%20offer%20jobs%20to%20anyone%20at%20Apple.%20The%20rumor%20was%20that%20we%20had%20successfully%20recruited%20someone%20important%20from%20the%20WebKit%20team%20and%20Steve%20Jobs%20personally%20flipped%20his%20lid%20about%20it.%20Years%20later%20I%20learned%20this%20was%20part%20of%20an%20industry%20wide%20illegal%20agreement.%20I%20eventually%20got%20a%20class%20action%20settlement%20check%20for%20something%20like%20%2412k%20that%20I%20guess%20was%20meant%20to%20cover%20the%20wages%20I%27d%20lost.&op=translate
+
 # 2024-1-19
 
 deno.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
