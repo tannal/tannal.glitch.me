@@ -1,4 +1,203 @@
 
+# 2024-1-20 |
+
+ls /usr/sbin/ | grep bpfcc
+
+```
+
+argdist-bpfcc
+bashreadline-bpfcc
+bindsnoop-bpfcc
+biolatency-bpfcc
+biolatpcts-bpfcc
+biopattern-bpfcc
+biosnoop-bpfcc
+biotop-bpfcc
+bitesize-bpfcc
+bpflist-bpfcc
+btrfsdist-bpfcc
+btrfsslower-bpfcc
+cachestat-bpfcc
+cachetop-bpfcc
+capable-bpfcc
+cobjnew-bpfcc
+compactsnoop-bpfcc
+cpudist-bpfcc
+cpuunclaimed-bpfcc
+criticalstat-bpfcc
+dbslower-bpfcc
+dbstat-bpfcc
+dcsnoop-bpfcc
+dcstat-bpfcc
+deadlock-bpfcc
+dirtop-bpfcc
+drsnoop-bpfcc
+execsnoop-bpfcc
+exitsnoop-bpfcc
+ext4dist-bpfcc
+ext4slower-bpfcc
+filegone-bpfcc
+filelife-bpfcc
+fileslower-bpfcc
+filetop-bpfcc
+funccount-bpfcc
+funcinterval-bpfcc
+funclatency-bpfcc
+funcslower-bpfcc
+gethostlatency-bpfcc
+hardirqs-bpfcc
+inject-bpfcc
+javacalls-bpfcc
+javaflow-bpfcc
+javagc-bpfcc
+javaobjnew-bpfcc
+javastat-bpfcc
+javathreads-bpfcc
+killsnoop-bpfcc
+klockstat-bpfcc
+kvmexit-bpfcc
+llcstat-bpfcc
+mdflush-bpfcc
+memleak-bpfcc
+mountsnoop-bpfcc
+mysqld_qslower-bpfcc
+netqtop-bpfcc
+nfsdist-bpfcc
+nfsslower-bpfcc
+nodegc-bpfcc
+nodestat-bpfcc
+offcputime-bpfcc
+offwaketime-bpfcc
+oomkill-bpfcc
+opensnoop-bpfcc
+perlcalls-bpfcc
+perlflow-bpfcc
+perlstat-bpfcc
+phpcalls-bpfcc
+phpflow-bpfcc
+phpstat-bpfcc
+pidpersec-bpfcc
+ppchcalls-bpfcc
+profile-bpfcc
+pythoncalls-bpfcc
+pythonflow-bpfcc
+pythongc-bpfcc
+pythonstat-bpfcc
+readahead-bpfcc
+reset-trace-bpfcc
+rubycalls-bpfcc
+rubyflow-bpfcc
+rubygc-bpfcc
+rubyobjnew-bpfcc
+rubystat-bpfcc
+runqlat-bpfcc
+runqlen-bpfcc
+runqslower-bpfcc
+shmsnoop-bpfcc
+slabratetop-bpfcc
+sofdsnoop-bpfcc
+softirqs-bpfcc
+solisten-bpfcc
+sslsniff-bpfcc
+stackcount-bpfcc
+statsnoop-bpfcc
+syncsnoop-bpfcc
+syscount-bpfcc
+tclcalls-bpfcc
+tclflow-bpfcc
+tclobjnew-bpfcc
+tclstat-bpfcc
+tcpaccept-bpfcc
+tcpcong-bpfcc
+tcpconnect-bpfcc
+tcpconnlat-bpfcc
+tcpdrop-bpfcc
+tcplife-bpfcc
+tcpretrans-bpfcc
+tcprtt-bpfcc
+tcpstates-bpfcc
+tcpsubnet-bpfcc
+tcpsynbl-bpfcc
+tcptop-bpfcc
+tcptracer-bpfcc
+threadsnoop-bpfcc
+tplist-bpfcc
+trace-bpfcc
+ttysnoop-bpfcc
+vfscount-bpfcc
+vfsstat-bpfcc
+virtiostat-bpfcc
+wakeuptime-bpfcc
+xfsdist-bpfcc
+xfsslower-bpfcc
+zfsdist-bpfcc
+zfsslower-bpfcc
+
+```
+
+sudo systemctl start frpc
+sudo apt install wiringpi
+sudo gpio readall
+
+がいこく　ひと
+
+難民
+
+https://drive.google.com/drive/folders/1XoZ3a5ZgC9qmX74Oz8xhavBNzpbYvVnI
+
+nvm use 20.11.0
+
+feedback interaction loop state action state fastest
+
+winget install -e --id CoreyButler.NVMforWindows
+
+```bash
+
+npm i canvas-sketch-cli -g
+
+canvas-sketch-cli sketch.js --new --open
+
+shapes rectangles polygons circles text
+
+```
+
+
+```js
+const canvasSketch = require('canvas-sketch')
+
+const settings = {
+  dimensions: [2048, 2048]
+}
+
+const sketch = () => {
+  return ({context, width, height}) => {
+    context.filStyle = 'orange';
+    context.fillRect(0, 0, width, height);
+  }
+};
+
+canvasSketch(sketch, settings);
+
+
+```
+
+C++AMP OpenMP OpenACC vulkan compute low level submission API
+
+SYCL Khronos Standard OpenMP / OpenCL kernels codeplay
+
+online offline compilation IR finalization
+
+AMD HIP Heterogeneous https://github.com/ROCm/HIP
+OpenCL 
+
+AI/ML Tensorflow / pytorch
+HPC
+Scientific
+
+cuda closed
+cuDNN BLAS
+
+
 # 2024-1-19 1+1 |
 
 https://fedoraproject.org/wiki/Test_Day:2024-01-21_Kernel_6.7_Test_Week
