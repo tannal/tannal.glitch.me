@@ -1,7 +1,16 @@
 # inbox
 
+https://www.theverge.com/
+
+max redirect limit in chromium is 20 net::URLRequest::kMaxRedirects;
+
+https://github.com/chromium/chromium/blob/371bdba790b9e1b96baf7dedc923237303274a28/net/url_request/url_request.h#L93
+
+https://fetch.spec.whatwg.org/#http-redirect-fetch
+
 Mark Larson, Brian Rakowski, Darin Fisher, and Ben Goodger
 
+OS-level sandbox isolation between pages
 
 Kasper Lund Lars Bak
 
@@ -14,7 +23,7 @@ https://html.spec.whatwg.org/C#event-loop third_party/blink/renderer/platform/sc
 
 
 
-VLOG(1) << "Hello World" << std::endl;
+LOG(INFO) << "Hello World" << std::endl;
 
 
 ```
@@ -58,6 +67,11 @@ sys	146m59.666s
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
 ./out/Default/chrome --enable-logging=stderr --v=1
+
+./out/Default/chrome --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+
+
 
 ```
 

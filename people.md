@@ -1,8 +1,14 @@
 # inbox
 
+https://llvm.org/devmtg/2007-05/
+
+
+
 ## from 2024-1-7
 
-region
+https://hachyderm.io/@arv
+
+Jeff Nelson https://www.linkedin.com/in/jeffnelsonjeffnelson https://twitter.com/_jeff_nelson chromeos
 
 André Almeida https://andrealmeid.com/ https://twitter.com/andrealmeid_
 

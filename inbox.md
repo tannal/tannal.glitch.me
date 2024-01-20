@@ -1,5 +1,44 @@
 
-# 2024-1-20 |
+# 2024-1-20  |
+
+Things are not like you doing a test/problem, you neither pass or failed.
+
+Problems would change in the real world.If you do it right in the past, that doesn't mean you would do it right in the same way now.
+
+You always have bugs, and you need constantly changing.
+
+https://www.imperialviolet.org/posts-index.html
+
+https://www.ghacks.net/
+
+https://www.databricks.com/company/careers/open-positions
+
+Azul Systems
+
+[]byte("bar")
+
+国内APP不符合Android UI、基本像chao IOS 的设计。
+
+Foreground Services workManager Uris Content Providers
+
+std::for_each std::transform
+
+https://github.com/plctlab/v8-internals/blob/master/slides/03-v8-build-system-part2.pdf
+
+
+Broadcast & Broadcast Recievers
+
+Intent Intent Filters
+
+resources qualifier res
+
+activity application service
+
+tasks(process) backstack standard single top single task single instance
+
+view model per screen mvvm 
+
+context App betwwen Android OS (system & other app)
 
 ls /usr/sbin/ | grep bpfcc
 
@@ -199,6 +238,31 @@ cuDNN BLAS
 
 
 # 2024-1-19 1+1 |
+
+https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary?hl=en#NavigationBar(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.ui.unit.Dp,androidx.compose.foundation.layout.WindowInsets,kotlin.Function1)
+
+Card Text 
+
+alt enter
+CTRL+P - show parameters of method when cursor inside parameters;
+CTRL+ALT+P - extract parameter from method;
+CTRL+ALT+V - select any statement and extract it to variable;
+CTRL+SHIFT+J - join lines;
+ALT+J - multiline selection;
+CTRL+ALT+T - surround with menu (useful for adding try/catch blocks);
+CTRL+ALT+SHIFT+T - refactor code menu;
+ALT+INSERT - generate code menu (override/implement methods, generate toString()/hash() methods);
+CTRL+ALT+L - reformat code according language code convention (i press this shortcut every time code is changed); 
+CTRL+ALT+O - delete unused imports;
+SHIFT+F6 - rename anything renamable;
+CTRL+/ - comment/uncomment line;
+CTRL+SHIFT+/ - comment/uncomment selection;
+CTRL+W- select statement around cursor or selection and CTRL+SHIFT+W - unselect selection;
+and many more you can find.
+
+Activity
+
+nigerian
 
 https://fedoraproject.org/wiki/Test_Day:2024-01-21_Kernel_6.7_Test_Week
 
