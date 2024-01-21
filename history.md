@@ -167,6 +167,141 @@ https://news.ycombinator.com/item?id=27129858
 
 # 2024-1-20
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Writing code for Firefox
+https://www.joshmatthews.net/fosdem/#slide-2
+
+jdm (Josh Matthews)
+https://github.com/jdm/
+
+ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++
+https://github.com/ggerganov/llama.cpp
+
+llama.cpp/gguf-py at master · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/tree/master/gguf-py
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+ROCm/HIP: HIP: C++ Heterogeneous-Compute Interface for Portability
+https://github.com/ROCm/HIP
+
+llama - Google 搜索
+https://www.google.com/search?q=llama&oq=&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg0IARAuGIMBGLEDGIAEMg4IAhBFGCcYORiABBiKBTIICAMQRRgnGDsyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQcxNzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Llama 2: Open Foundation and Fine-Tuned Chat Models | Research - AI at Meta
+https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/
+
+10000000_662098952474184_2584067087619170692_n.pdf
+https://scontent-xsp1-1.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=SZIAh1QMGYQAX_-cGO2&_nc_ht=scontent-xsp1-1.xx&oh=00_AfAOFj4hGr1Zi-1bzBR3vyswuj0761o1xkvbuCFyrEmCAg&oe=65AFA97F
+
+2024年SD存储卡/内存卡/TF卡选购攻略，教你轻松避坑选对存储卡
+https://www.zhihu.com/tardis/zm/art/339102415?source_id=1003
+
+falcon language model - Google 搜索
+https://www.google.com/search?q=falcon+language+model&sca_esv=599994442&sxsrf=ACQVn08MLwooyLmYcY-UYBjPBI4gPb7ztg%3A1705724847683&ei=r0urZeCuKaa14-EP1Jq0mAo&oq=Falcon+lang&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0ZhbGNvbiBsYW5nKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBhAAGB4YD0iaHFC3BVjTEnABeAGQAQCYAccCoAHoCKoBBzAuMi4yLjG4AQPIAQD4AQHCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAg4QLhivARjHARjLARiABMICCBAuGIAEGMsBwgIOEC4YgAQYywEYxwEYrwHCAgcQIxixAhgnwgILEAAYgAQYywEYxwPCAg4QLhiABBjLARjHARjRA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only
+https://arxiv.org/pdf/2306.01116.pdf
+
+Falcon gihtub - Google 搜索
+https://www.google.com/search?q=Falcon+gihtub&oq=Falcon+gihtub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyBwgDEC4YgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNTEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+ChatGPT
+https://chat.openai.com/c/50e0d68f-7e2a-479e-b840-e90c894d1b10
+
+blender - Google 搜索
+https://www.google.com/search?sca_esv=599994442&sxsrf=ACQVn0__X5WTNbN4EN4VgKaZHrOR26XAjg:1705725075240&q=blender&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj_tcaJkeuDAxWMi2MGHVh9CLoQ0pQJegQIFRAB&biw=1280&bih=593&dpr=1.5
+
+Blender Day 1 - Absolute Basics - Introduction Series for Beginners ( compatible with 4.0) - YouTube
+https://www.youtube.com/watch?v=At9qW8ivJ4Q
+
+blender opengl - Google 搜索
+https://www.google.com/search?q=blender+opengl&sca_esv=599994442&sxsrf=ACQVn08lcWh28V4PDBHFnwRxASE0xSrdiA%3A1705725182480&ei=_kyrZfP1HJXw4-EP_qGtwAg&ved=0ahUKEwjz7Ne8keuDAxUV-DgGHf5QC4gQ4dUDCBA&uact=5&oq=blender+opengl&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmJsZW5kZXIgb3BlbmdsMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUjgWlC9DlidWXAIeACQAQKYAYoCoAGFH6oBBjAuNy4xMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgUQABiABMICBxAAGIAEGAzCAgUQIRigAcICChAjGIAEGIoFGCfiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+Updating Variables | Brilliant
+https://brilliant.org/courses/creative-coding/variables/setting-and-updating-variables/2/
+
+(89封未读) nenu.edu.cn
+https://mail.nenu.edu.cn/js6/main.jsp?sid=v0pAq8H392SElCL0PGbLMkFleAr83rNq&show_window=1&show_new=1&hl=zh_CN#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D
+
+脱氧核糖核酸 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%84%B1%E6%B0%A7%E6%A0%B8%E7%B3%96%E6%A0%B8%E9%85%B8#%E5%9F%BA%E5%9B%A0%E7%B5%84%E7%B5%90%E6%A7%8B
+
+Getting started with GitHub Copilot - GitHub Docs
+https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot#installing-the-github-copilot-extension-in-visual-studio-code
+
+Blog
+https://blog.aixcopilot.com/
+
+immigrants - Google 搜索
+https://www.google.com/search?q=immigrants&oq=immigrants&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIPCAIQABgKGIMBGLEDGIAEMgkIAxAAGAoYgAQyCQgEEAAYChiABDIJCAUQABgKGIAEMgkIBhAAGAoYgAQyCQgHEAAYChiABDIJCAgQABgKGIAEMgkICRAAGAoYgATSAQgxOTY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+MPT model - Google 搜索
+https://www.google.com/search?q=MPT+model&oq=MPT+model&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDI5NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(1) Udemy - The Complete Android 12 & Kotlin Development Masterclass - TutFlix - Free Education Community
+https://tutflix.org/resources/the-complete-android-12-kotlin-development-masterclass.6400/
+
+がいこく - Google 搜索
+https://www.google.com/search?q=%E3%81%8C%E3%81%84%E3%81%93%E3%81%8F&sca_esv=600017421&sxsrf=ACQVn091SKC2D05tYHEoCFopndhhYZL8CA%3A1705733792234&ei=oG6rZZvzDfGw4-EP15GBmA8&ved=0ahUKEwibw5HGseuDAxVx2DgGHddIAPMQ4dUDCBA&uact=5&oq=%E3%81%8C%E3%81%84%E3%81%93%E3%81%8F&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOOBjOOBhOOBk-OBjzIJEAAYgAQYChgqMgYQABgEGB4yBhAAGAQYHjIGEAAYBBgeMgYQABgEGB4yBhAAGAQYHjIGEAAYBBgeMgYQABgEGB4yBhAAGAQYHjIGEAAYBBgeSLebAVCREFjncXADeAGQAQCYAZ4BoAGrC6oBBDAuMTC4AQPIAQD4AQGoAgrCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICBBAjGCfCAgsQABiABBixAxiDAcICERAuGIAEGLEDGIMBGMcBGNEDwgIIEAAYgAQYsQPCAgUQABiABMICBxAjGOoCGCfiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+22.04 - Remote Desktop Sharing authentication password changes every reboot - Ask Ubuntu
+https://askubuntu.com/questions/1403943/22-04-remote-desktop-sharing-authentication-password-changes-every-reboot
+
+Android Speech to Text Tutorial. In this article, we will learn how to… | by Abhinav Singh | Voice Tech Podcast | Medium
+https://medium.com/voice-tech-podcast/android-speech-to-text-tutorial-8f6fa71606ac
+
+ている的6个用法，你用对了吗？ - 知乎
+https://zhuanlan.zhihu.com/p/126745580
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+user space ebpf - Google 搜索
+https://www.google.com/search?q=user+space+ebpf&oq=user+space+ebpf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgIGB7SAQgyODgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Bring DTrace/eBPF support back · Issue #44550 · nodejs/node
+https://github.com/nodejs/node/issues/44550
+
+iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+https://github.com/iovisor/bcc
+
+eBPF 学习笔记 – SS's Trace
+https://sst.st/p/2250#funccount
+
+what can i do for mozilla - Google 搜索
+https://www.google.com/search?q=what+can+i+do+for+mozilla&oq=what+can+i+do+for+moz&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgATSAQg0NDg3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#firefox-contributors-quick-reference
+
+How to start contributing to firefox | by colin cazabet | Medium
+https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+c - What does opening a file actually do? - Stack Overflow
+https://stackoverflow.com/questions/33495283/what-does-opening-a-file-actually-do
+
+c - mmap( ) vs read( ) - Stack Overflow
+https://stackoverflow.com/questions/5588605/mmap-vs-read
+
+sketch.js
+http://192.168.43.62:9966/
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
