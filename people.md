@@ -10,6 +10,14 @@ https://infrequently.org/
 
 ## from 2024-1-7
 
+https://brendaneich.com/
+
+https://tomdale.net/about-me/
+
+https://annevankesteren.nl/ mozilla apple
+
+https://samth.github.io/
+
 https://blog.domenic.me/
 
 https://chriseppstein.github.io/blog/

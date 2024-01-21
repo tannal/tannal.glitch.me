@@ -107,3 +107,10 @@ VariableDeclaration
 
 ## further reading
 
+
+
+# community
+
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+https://groups.google.com/a/chromium.org/g/blink-dev

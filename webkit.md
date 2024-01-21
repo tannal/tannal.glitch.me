@@ -93,6 +93,8 @@ rm compile_commands.json
 
 ln -s ./WebKitBuild/GTK/Debug/DeveloperTools/compile_commands.json compile_commands.json 
 
+import-w3c-tests web-platform-tests/[testsDir] -l -s [wptParentDir] --clean-dest-dir
+
 ```
 
 # GPT QA

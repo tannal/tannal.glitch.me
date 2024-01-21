@@ -1,7 +1,15 @@
 
 # 2024-1-21  |
 
+![Alt text](./image-11.png)
+
 continuations
+
+https://ci.chromium.org/ui/
+
+consistency
+
+https://flutter.dev/community#community-grid
 
 # 2024-1-20  |
 

@@ -30,3 +30,8 @@ export PATH=/home/tannal/tannalwork/projects/go/bin:$PATH
 git clone https://github.com/golang/website.git golang-website
 
 ```
+
+
+# community
+
+https://groups.google.com/g/golang-dev
