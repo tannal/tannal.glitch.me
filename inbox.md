@@ -1,6 +1,10 @@
 
 # 2024-1-21  |
 
+sudo apt-get install -y kernelshark
+
+https://github.com/y-crdt
+
 ![Alt text](./image-11.png)
 
 continuations

@@ -1,3 +1,170 @@
+# 2024-1-21
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tech Notes: Taking a break
+https://neugierig.org/software/blog/2022/09/break.html
+
+Chromium Notes: Data visualization and d3
+https://neugierig.org/software/chromium/notes/2011/07/datavis.html
+
+Chromium Notes
+https://neugierig.org/software/chromium/notes/
+
+Chromium Notes: Thread restrictions: preventing unintentional IO
+https://neugierig.org/software/chromium/notes/2010/11/thread-restrictions.html
+
+Chromium Notes: The end
+https://neugierig.org/software/chromium/notes/2012/02/the-end.html
+
+Chromium-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+get_toolchain_if_necessary.py - Chromium Code Search
+https://source.chromium.org/chromium/chromium/tools/depot_tools/+/main:win_toolchain/get_toolchain_if_necessary.py;l=532
+
+Figma Blog | Shortcut
+https://www.figma.com/blog/
+
+268537 - Retina cursors are not actually 2x resolution - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=268537
+
+The Extensible Web Manifesto
+https://extensiblewebmanifesto.org/
+
+Dropping the F-Bomb on Web Standards | briankardell
+https://briankardell.wordpress.com/2013/05/17/dropping-the-f-bomb/
+
+CSS Fonts Module Level 3
+https://www.w3.org/TR/css-fonts-3/#font-rend-props
+
+platform_android.c « dri2 « drivers « egl « src - mesa/mesa - The Mesa 3D Graphics Library (mirrored from https://gitlab.freedesktop.org/mesa/mesa)
+https://cgit.freedesktop.org/mesa/mesa/tree/src/egl/drivers/dri2/platform_android.c
+
+evmar/cms: tiny content management system I use for my website, unlikely of interest to anyone else
+https://github.com/evmar/cms
+
+Troy Hunt: Here's Why Your Static Website Needs HTTPS
+https://www.troyhunt.com/heres-why-your-static-website-needs-https/
+
+Choose Your Google Toolbar Configuration
+https://web.archive.org/web/20220403221317/https://toolbar.google.com/prdlg.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=repulsive&op=translate
+
+Elliot Tuck figma - Google 搜索
+https://www.google.com/search?q=Elliot+Tuck+figma&rlz=1C1GCEA_enJP1090JP1090&oq=Elliot+Tuck+figma&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDc2NjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Charles Reiss
+https://www.cs.virginia.edu/~cr4bd/
+
+CS3330: Schedule
+https://www.cs.virginia.edu/~cr4bd/3330/F2022/schedule.html
+
+c - Does mmap really copy data to the memory? - Stack Overflow
+https://stackoverflow.com/questions/12383900/does-mmap-really-copy-data-to-the-memory
+
+c - When to use mmap vs when to use read and write with cache layer? - Stack Overflow
+https://stackoverflow.com/questions/39280264/when-to-use-mmap-vs-when-to-use-read-and-write-with-cache-layer
+
+Figma
+https://github.com/figma
+
+y-crdt
+https://github.com/y-crdt
+
+Home - Matthew Weidner
+https://mattweidner.com/
+
+404 - Page not found
+https://tannal.deno.dev/posts/people
+
+tannal/data/posts/papers.md at master · MarybethGasman/tannal
+https://github.com/MarybethGasman/tannal/blob/master/data/posts/papers.md
+
+Rich Text · Issue #11 · josephg/diamond-types
+https://github.com/josephg/diamond-types/issues/11
+
+adobe acquire figma - Google 搜索
+https://www.google.com/search?q=adobe+acquire+figma&rlz=1C1GCEA_enJP1090JP1090&oq=adobe+aquire&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMggIBBAAGA0YHjIICAUQABgNGB4yCAgGEAAYDRgeMggIBxAAGA0YHjIICAgQABgNGB4yCAgJEAAYDRge0gEINjgwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The University of Virginia - Google 搜索
+https://www.google.com/search?q=The+University+of+Virginia&sca_esv=600137143&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09pwLFicBQ6Xku3UcUf9zjviTxkeA%3A1705798030374&ei=jmmsZfK-Ft_AjuMPpKqLyA4&ved=0ahUKEwjyvaLtoO2DAxVfoGMGHSTVAukQ4dUDCBA&uact=5&oq=The+University+of+Virginia&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlRoZSBVbml2ZXJzaXR5IG9mIFZpcmdpbmlhMgcQIxiwAhgnMgcQABiABBgNMgcQABiABBgNMgcQABiABBgNMgcQABiABBgNMgYQABgeGA0yCBAAGB4YDRgPMgYQABgeGA0yCBAAGB4YDRgPMggQABgeGA0YD0irB1AAWPYFcAB4AZABAJgBowKgAaMCqgEDMi0xuAEDyAEA-AEB-AEC4gMEGAAgQQ&sclient=gws-wiz-serp#ip=1
+
+isaacs (isaacs)
+https://github.com/isaacs
+
+Element [1] | tapjs
+https://app.element.io/#/room/#tapjs:matrix.org
+
+About - Paul Irish
+https://www.paulirish.com/about/
+
+dave herman mozilla - Google 搜索
+https://www.google.com/search?q=dave+herman+mozilla&sca_esv=600142611&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-9bZNzJgl5SGl1JzsCUmz2OCQwwQ%3A1705799420109&ei=_G6sZbWkBo7sg8UPuPSPuAQ&oq=Dave+Herman&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0RhdmUgSGVybWFuKgIIADIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jcC1AAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEA4gMEGAAgQYgGAZAGAw&sclient=gws-wiz-serp#ip=1
+
+Effective JavaScript
+http://effectivejs.com/
+
+Hidden Variables
+https://blog.domenic.me/
+
+Sam Tobin-Hochstadt
+https://samth.github.io/
+
+Anne’s Blog
+https://annevankesteren.nl/
+
+About Me - tomdale.net
+https://tomdale.net/about-me/
+
+Alex Russell - Google 搜索
+https://www.google.com/search?q=Alex+Russell&rlz=1C1GCEA_enJP1090JP1090&oq=Alex+Russell&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Brendan Eich
+https://brendaneich.com/
+
+Josip Sokcevic - Software Engineer
+https://sokac.net/
+
+golang-dev - Google 网上论坛
+https://groups.google.com/g/golang-dev
+
+Community
+https://flutter.dev/community#community-grid
+
+Uftrace_-_TracingSummit_2016.pdf
+https://tracingsummit.org/ts/2016/files/Uftrace_-_TracingSummit_2016.pdf
+
+namhyung/uftrace: Function graph tracer for C/C++/Rust/Python
+https://github.com/namhyung/uftrace
+
+• Discord | #general | uftrace
+https://discord.com/channels/977562434707554324/1008782420906102926
+
+google/kmsan: KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel
+https://github.com/google/kmsan
+
+宋宝华：当Linux内核遭遇鲨鱼—kernelshark-CSDN博客
+https://blog.csdn.net/21cnbao/article/details/108414081
+
+How to install kernelshark ubuntu package on Ubuntu 20.04/Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04
+https://zoomadmin.com/HowToInstall/UbuntuPackage/kernelshark
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Members · People · servo
+https://github.com/orgs/servo/people
+
+tannal (tannal)
+https://github.com/tannal/
+
+Google Docs will now use canvas based rendering | Hacker News
+https://news.ycombinator.com/item?id=27129858
+
 # 2024-1-20
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
