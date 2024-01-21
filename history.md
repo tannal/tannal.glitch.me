@@ -167,6 +167,90 @@ https://news.ycombinator.com/item?id=27129858
 
 # 2024-1-20
 
+(1) Mobile Development | Page 5
+https://tutflix.org/resources/categories/mobile-development.7/?page=5
+
+19 - Where To Go Now - Google 云端硬盘
+https://drive.google.com/drive/folders/11HG1JO2nui21cPGOdWS7xcFjMjfDfKF1
+
+(1) Search results for query: android
+https://tutflix.org/search/2128824/?q=android&o=date
+
+(1) Udemy - Android Retrofit 2 complete course in Kotlin - TutFlix - Free Education Community
+https://tutflix.org/resources/android-retrofit-2-complete-course-in-kotlin.7126/
+
+(1) [Ebook] The Design Manual (770+ pages and free bonuses) - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-the-design-manual-770-pages-and-free-bonuses.10242/
+
+The UI Professional’s Design Manual.rar - Google 云端硬盘
+https://drive.google.com/file/d/1cWZPj2-mvnXO_ItusEuRxYM-01HyaHX_/view
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#i3FQyBHiSYwV2TNxbMZSVls9E4t4PEDfNE2eAn79CyHR5Zd6aO4R/L5ecFVjuOlwDmVcl+OheNhgdUM41A==
+
+字节序及 Go encoding/binary 库 - 知乎
+https://zhuanlan.zhihu.com/p/35326716
+
+btcd/wire at 01f26a142be8a55b06db04da906163cd9c31be2b · btcsuite/btcd
+https://github.com/btcsuite/btcd/tree/01f26a142be8a55b06db04da906163cd9c31be2b/wire
+
+compose create your own component - Google 搜索
+https://www.google.com/search?sca_esv=600017421&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ACQVn0-RWdyMFXyXHlMV729LAqCFDMQkCQ:1705732695714&q=compose+create+your+own+component&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiaqKO7reuDAxWhyzgGHd0VA1IQ0pQJegQICBAB&biw=1280&bih=593&dpr=1.5
+
+(55) Charfaoui Younes - YouTube
+https://www.youtube.com/@CharfaouiYounes/playlists
+
+(55) Implement your own design system with Jetpack Compose by François Blavoet, Instacart EN - YouTube
+https://www.youtube.com/watch?v=AoALjJ3sAX8
+
+graphql server - Google 搜索
+https://www.google.com/search?q=graphql+serever&sca_esv=600017421&rlz=1C1GCEA_enCN1091CN1091&biw=1280&bih=593&tbm=vid&sxsrf=ACQVn0-UIueVr19jnyxKZVOjbVOkUZSgnA%3A1705735817652&ei=iXarZea0Jqnm4-EP0eOx-Ao&ved=0ahUKEwimnfaLueuDAxUp8zgGHdFxDK8Q4dUDCA0&uact=5&oq=graphql+serever&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIg9ncmFwaHFsIHNlcmV2ZXIyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1Itw5QrgFYqg1wAHgAkAEAmAGQAaABxwmqAQMwLjm4AQPIAQD4AQHCAgQQIxgnwgIIEAAYgAQYywHCAgoQABiABBiKBRhDwgIHEAAYgAQYDMICBRAAGIAEwgIGEAAYHhgMwgIKEAAYBRgeGAwYCogGAQ&sclient=gws-wiz-video
+
+(55) Building a Scalable GraphQL Server with Node.js, Express, and Apollo Server in 2023 - YouTube
+https://www.youtube.com/watch?v=jYYjIWXG1_A
+
+linux内核调试（七）使用kdb/kgdb调试内核 - 知乎
+https://zhuanlan.zhihu.com/p/546416941
+
+树莓派串口的使用 - 知乎
+https://zhuanlan.zhihu.com/p/106904186
+
+Underground Software
+https://github.com/orgs/underground-software/repositories
+
+kdlp.underground.software/slides_src at v2-master · underground-software/kdlp.underground.software
+https://github.com/underground-software/kdlp.underground.software/tree/v2-master/slides_src
+
+kdlp.underground.software/course/index.md
+https://kdlp.underground.software/course/index.md
+
+Introduction to Operating Systems (ENG EC 440) - Red Hat Research
+https://research.redhat.com/blog/courses/introduction-to-operating-systems-eng-ec-440/
+
+COMP.3085 Introduction to Linux Kernel Development | UMass Lowell
+https://www.uml.edu/catalog/courses/comp/3085
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+(4) Emil A Eklund (@eae) / X
+https://twitter.com/eae
+
+emil.eae.net
+http://emil.eae.net/
+
+Incomplete List of Mistakes in the Design of CSS [CSS Working Group Wiki]
+https://wiki.csswg.org/ideas/mistakes
+
+(4) Servo (@ServoDev) / X
+https://twitter.com/ServoDev
+
+Tauri update: embedding prototype, offscreen rendering, multiple webviews, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2024/01/19/embedding-update/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
