@@ -1,7 +1,49 @@
 
 # 2024-1-21  |
 
+106.7 rmb / hour
+
+15 $ / hour
+
+https://github.com/franneck94
+
+```bash
+
+sudo apt install uftrace
+
+
+```
+
+```bash
 sudo apt-get install -y kernelshark
+sudo apt-get install -y trace-cmd
+sudo apt install qtwayland5
+
+sudo perf sched record -a
+
+sudo perf timechart
+
+sudo trace-cmd record -e 'sched_wakeup*' -e sched_switch -e 'sched_migrate*'
+
+git clone https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
+
+kernelshark trace.dat
+QT_QPA_PLATFORM=wayland kernelshark trace.dat
+
+
+```
+
+git submodule external/ deps/ third_party/
+
+fmt spdlog cxxopts catch2
+
+dependency graph cmake projects
+```bash
+
+
+
+```
+
 
 https://github.com/y-crdt
 
