@@ -3,6 +3,186 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+Uftrace_-_TracingSummit_2016.pdf
+https://tracingsummit.org/ts/2016/files/Uftrace_-_TracingSummit_2016.pdf
+
+宋宝华：当Linux内核遭遇鲨鱼—kernelshark-CSDN博客
+https://blog.csdn.net/21cnbao/article/details/108414081
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer/tree/main
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+H100.eps
+https://arxiv.org/pdf/2312.12456.pdf
+
+sparse operators - Google 搜索
+https://www.google.com/search?q=sparse+operators&rlz=1C1GCEA_enJP1090JP1090&oq=sparse+operators&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Members [IPADS]
+https://ipads.se.sjtu.edu.cn/pub/members
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2023/toyear/2024/index?all&world
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2023/toyear/2024/index?all&world
+
+dblp: Yixin Song
+https://dblp.org/pid/201/5459.html
+
+emeryberger/CSrankings: A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
+https://github.com/emeryberger/CSRankings
+
+CSStipendRankings: CS PhD Stipend Rankings
+https://csstipendrankings.org/
+
+Mozilla 的志愿者机会 — Mozilla
+https://www.mozilla.org/zh-CN/contribute/
+
+论文数量 知乎 - Google 搜索
+https://www.google.com/search?q=%E8%AE%BA%E6%96%87%E6%95%B0%E9%87%8F+%E7%9F%A5%E4%B9%8E&sca_esv=600189765&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=738&sxsrf=ACQVn0-EIDO-IqzVTRjNDfZc8PE-Y6Thqg%3A1705823490667&ei=As2sZfKtKM6N4-EPidmO6A8&oq=%E8%AE%BA%E6%96%87%E6%95%B0%E9%87%8F+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDeiuuuaWh-aVsOmHjyAqAggAMgYQABgeGA8yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGAUYHhgPSPMgUM0HWIwacAF4AJABAJgBjwGgAewLqgEEMC4xMbgBA8gBAPgBAcICBBAjGCfCAgoQIxiABBiKBRgnwgIREC4YgAQYsQMYgwEYxwEY0QPCAhEQLhiDARjHARixAxjRAxiABMICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICCxAuGIAEGMcBGNEDwgIFEAAYgATCAgUQLhiABMICCBAuGIAEGLEDwgIdEC4YgAQYsQMYxwEY0QMYlwUY3AQY3gQY4ATYAQHCAg4QABiABBiKBRixAxiDAcICChAAGIAEGIoFGEPiAwQYASBBiAYBugYGCAEQARgU&sclient=gws-wiz-serp#ip=1
+
+(3 封私信 / 80 条消息) 如何看待天津大学研究生赵永贵一年发表 17 篇 SCI 论文？ - 知乎
+https://www.zhihu.com/question/39226986
+
+install trace-cmd - Google 搜索
+https://www.google.com/search?q=install+trace-cmd&rlz=1C1GCEA_enJP1090JP1090&oq=install+trace-cmd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgFGA8YHjIICAIQABgFGB7SAQg0OTMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+204195 – Segfault in kernelshark when scrolling in graph window with empty file
+https://bugzilla.kernel.org/show_bug.cgi?id=204195
+
+ubuntu - qt.qpa.plugin: Could not find the Qt platform plugin "wayland" - Stack Overflow
+https://stackoverflow.com/questions/69994530/qt-qpa-plugin-could-not-find-the-qt-platform-plugin-wayland
+
+namhyung/uftrace: Function graph tracer for C/C++/Rust/Python
+https://github.com/namhyung/uftrace
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+ChatGPT
+https://chat.openai.com/c/ccb31740-2667-4bc0-9da8-5d717c90a9d5
+
+Minimum wage by state U.S. 2023 | Statista
+https://www.statista.com/statistics/238997/minimum-wage-by-us-state/
+
+franneck94/CProjectTemplate: C project template with unit-tests, documentation, ci-testing and workflows.
+https://github.com/franneck94/CProjectTemplate
+
+git clone just files no history gi - Google 搜索
+https://www.google.com/search?q=git+clone+just+files+no+history+gi&rlz=1C1GCEA_enJP1090JP1090&oq=git+clone+just+files+no+history+gi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIODQ0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Index of /bin/
+http://192.168.43.95:8080/bin/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%E3%81%B8%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E5%8F%8D%E5%BF%9C%E3%81%A8%E8%A8%80%E3%81%86%E3%82%82%E3%81%AE%E3%81%AF%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%97%E3%81%A6%E3%81%A7%E3%81%AF%E3%81%84%E3%81%8F%E3%81%A4%E3%81%8B%E8%B3%AA%E5%95%8F%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84&op=translate
+
+node.js - Are there any precompiled binaries for V8? - Stack Overflow
+https://stackoverflow.com/questions/4818966/are-there-any-precompiled-binaries-for-v8
+
+Codecov - The Leading Code Coverage Solution
+https://about.codecov.io/
+
+deno/.github/workflows/ci.yml at main · denoland/deno
+https://github.com/denoland/deno/blob/main/.github/workflows/ci.yml
+
+uftrace - Google 搜索
+https://www.google.com/search?q=uftrace&rlz=1C1GCEA_enJP1090JP1090&oq=uftrace&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMggIARAAGBMYHjIICAIQABgTGB4yCAgDEAAYExgeMgoIBBAAGA8YExgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg90gEIMTg1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Japanese React To The US Healthcare Costs | Street Interview - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fyoutu.be%2FxMKKy5tsUX4%3Fsi%3D5_fnoC3DJyV7tq6R
+
+COMP4300 - Game Programming - Lecture 04 - Assignment 1 - YouTube
+https://www.youtube.com/watch?v=dNry2pOiAn4
+
+uftrace was crashed while trace the nodejs when use verbose option more than 2. · Issue #603 · namhyung/uftrace
+https://github.com/namhyung/uftrace/issues/603
+
+namhyung (Namhyung Kim)
+https://github.com/namhyung
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%E3%81%B8%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%AE%E5%8F%8D%E5%BF%9C%0A%0A%E3%81%A8%E3%81%84%E3%81%86%E3%81%AF%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%97%E3%81%A6%E3%81%AF%E8%B3%AA%E5%95%8F%E3%81%95%E3%81%9B%0A%0A%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%9F%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%91%E3%82%8C%E3%81%A9%E3%82%82%E3%81%A7%E3%81%AF%E3%81%BE%E3%81%9A%0A%0A%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AF%E3%81%A9%E3%82%8C%0A&op=translate
+
+Namhyung Kim youtube - Google 搜索
+https://www.google.com/search?q=Namhyung+Kim+youtube&sca_esv=600201190&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-mEZb5f06nz_fXAbPGHwkRMHvUMQ%3A1705831320417&ei=mOusZfuPGYu84-EP04KDkAU&ved=0ahUKEwj7u5nvnO6DAxUL3jgGHVPBAFIQ4dUDCBA&uact=5&oq=Namhyung+Kim+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFE5hbWh5dW5nIEtpbSB5b3V0dWJlMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjyDFCgAliaCXABeAGQAQCYAawBoAHnCKoBAzAuOLgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBBAAGB7CAgYQABgeGArCAgUQIRigAcICBxAhGAoYoAHiAwQYACBBiAYBkAYB&sclient=gws-wiz-serp
+
+namhyung/uftrace: Function graph tracer for C/C++/Rust/Python
+https://github.com/namhyung/uftrace
+
+• Discord | #general | uftrace
+https://discord.com/channels/977562434707554324/1008782420906102926
+
+The new dynamic user space tracing feature in LTTng — LTTng
+https://lttng.org/blog/2019/10/15/new-dynamic-user-space-tracing-in-lttng/
+
+Using user-space tracepoints with BPF [LWN.net]
+https://lwn.net/Articles/753601/
+
+bcc/tools/tplist.py at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/tools/tplist.py
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+fix: disable V8 PKU feature for 'deno test' and 'deno bench' by bartlomieju · Pull Request #20491 · denoland/deno
+https://github.com/denoland/deno/pull/20491/commits/5639614c5bdb7d452f3fb7cf68d7d4d7317cdda9
+
+An eBPF overview, part 5: Tracing user processes
+https://www.collabora.com/news-and-blog/blog/2019/05/14/an-ebpf-overview-part-5-tracing-user-processes/
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+Collabora - Mesa/Graphics Software Developer (Remote/Anywhere)
+https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c/apply
+
+bcc/tools/lib/uflow_example.txt at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/tools/lib/uflow_example.txt
+
+gcc - Why doesn't `-finstrument-functions` work for me? - Stack Overflow
+https://stackoverflow.com/questions/6176284/why-doesnt-finstrument-functions-work-for-me
+
+OPT
+https://huggingface.co/docs/transformers/model_doc/opt
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+PowerInfer faster Inference than llama cpp. · Issue #4542 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/4542
+
+Better offload? · ggerganov/llama.cpp · Discussion #4534
+https://github.com/ggerganov/llama.cpp/discussions/4534
+
+DejaVu/sparse_predictor at master · FMInference/DejaVu
+https://github.com/FMInference/DejaVu/tree/master/sparse_predictor
+
+[Review] Merge PowerInfer with llama.cpp mainline by chsasank · Pull Request #4543 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/pull/4543
+
+MLC LLM | Home
+https://llm.mlc.ai/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Tech Notes: Taking a break
 https://neugierig.org/software/blog/2022/09/break.html
 

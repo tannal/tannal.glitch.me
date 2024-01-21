@@ -1,5 +1,7 @@
 # inbox
 
+https://github.com/denoland/deno/pull/20491/commits/5639614c5bdb7d452f3fb7cf68d7d4d7317cdda9
+
 lsp::diagnostic
 
 #6  0x0000555561307161 in v8::isolate::Isolate::new (params=...) at src/isolate.rs:581
