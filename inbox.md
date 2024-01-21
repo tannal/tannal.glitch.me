@@ -1,5 +1,26 @@
 
+# 2024-1-21  |
+
+continuations
+
 # 2024-1-20  |
+
+
+adobe acquired figma
+
+https://extensiblewebmanifesto.org/
+
+https://github.com/y-crdt/ypy/issues/148
+
+mmap vs open
+
+git log --grep="figma"
+
+https://stackoverflow.com/questions/12383900/does-mmap-really-copy-data-to-the-memory
+
+https://boringtechnology.club/
+
+Hopefully with all of the above terms fresh in your memory the FAQ will make a lot more sense to you; I know it did for me. (For example, Wayland relies on EGL because it's the only GL platform interface on Linux that doesn't itself rely on Xlib; because Nvidia's driver targets GLX, it won't work with Wayland.)
 
 Things are not like you doing a test/problem, you neither pass or failed.
 

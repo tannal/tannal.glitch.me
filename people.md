@@ -2,9 +2,37 @@
 
 https://llvm.org/devmtg/2007-05/
 
+https://extensiblewebmanifesto.org/
+
+https://infrequently.org/
+
 
 
 ## from 2024-1-7
+
+https://blog.domenic.me/
+
+https://chriseppstein.github.io/blog/
+
+https://brson.github.io/blog/index.html
+
+https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor
+
+http://calculist.org/
+
+https://www.paulirish.com/about/
+
+https://github.com/tabatkins
+
+https://www.torgo.com/blog/
+
+https://blog.izs.me/
+
+https://wirfs-brock.com/allen/about
+
+https://smus.com/
+
+Yehuda Katz https://yehudakatz.com/about/ ecmascript emberjs cargo 
 
 https://hachyderm.io/@arv
 
