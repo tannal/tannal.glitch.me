@@ -1,5 +1,82 @@
 
+# 2024-1-22  |
+
+Many great things isn't that hard, it's just nobody even thought about it.
+
+https://github.com/ggerganov
+
+offline no internet
+
+https://github.com/ggerganov/whisper.cpp speech to text
+
+convolutions, activation functions and
+tensor transformations
+
+tensor operations
+
+automatic differentiation
+
+algorithms
+
+Numerical Symbolic Automatic
+
+operations such as transposition and
+// permutation.
+
+tensor transformations
+
+Reshaping
+
+Transposing
+
+Slicing Concatenation Permutation Element-wise Operations Broadcasting Tensor Product Norm Eigenvalues and Eigenvectors
+
+Diagonalization Rank of a Tensor Tensor Decompositions Batch Processing Gradients and Differential Operators
+
+Tensor Networks
+
 # 2024-1-21  |
+
+```bash
+
+llvm-as a.ll -o a.bc
+llc a.bc -o a.o
+clang a.o -o a.out
+
+
+lli llc 
+
+objdump a.o
+history
+
+```
+
+https://github.com/ggerganov/ggml -> https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022 -> llama.cpp -> 
+
+dl.acm.org/citation.cfm?id=977673
+https://llvm.org/pubs/2003-09-30-LifelongOptimizationTR.pdf
+
+```bash
+sudo apt install node-gyp
+
+cd local/
+
+../deps/npm/bin/node-gyp-bin/node-gyp configure
+../deps/npm/bin/node-gyp-bin/node-gyp configure -- -f compile_commands_json
+
+
+../deps/npm/bin/node-gyp-bin/node-gyp build
+
+
+cd ..
+ls
+./node local/addon.js 
+../node addon.js 
+history
+
+```
+
+https://github.com/github-copilot/free_signup?utm_medium=editor&utm_source=vscode
 
 OPT llama falcon
 

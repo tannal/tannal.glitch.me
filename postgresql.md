@@ -1,5 +1,55 @@
 # inbox
 
+```bash
+
+#!/bin/bash
+
+BRANCH="$1"
+
+if [ -z "$BRANCH" ]; then
+    echo "Usage: $0 <branch>"
+    exit 1
+fi
+
+# change path to your source code!!
+
+SOURCE="/home/postgres/git/pg/dev/$BRANCH"
+BUILD="/home/postgres/git/pg/dev/build/$BRANCH"
+INSTALL="/home/postgres/git/pg/dev/install/$BRANCH"
+
+if [ -d "$BUILD" ]; then
+        rm -r "$BUILD"
+fi
+
+mkdir -p "$BUILD"
+
+if [ -d "$INSTALL" ]; then
+        rm -r "$INSTALL"/*
+else
+  mkdir "$INSTALL"
+fi
+
+(cd "$BUILD" && \
+ CFLAGS="-pg -I/usr/include/mit-krb5 -I/usr/include/python3.8/ -fuse-ld=gold -ggdb -Og -g3 -fno-omit-frame-pointer -U HAVE_POSIX_FADVISE" LDFLAGS=-L/usr/lib/x86_64-linux-gnu/mit-krb5 "$SOURCE"/configure --silent --prefix="$INSTALL" --with-openssl --with-tcl --with-tclconfig=/usr/lib/tcl8.6 --with-perl --w
+ith-libxml --with-libxslt --with-python --with-gssapi --with-systemd --with-ldap --enable-nls --enable
+-debug --enable-cassert --enable-tap-tests --enable-depend && \
+ # CFLAGS="-I/usr/include/mit-krb5 -fuse-ld=gold -ggdb -Og -g3 -fno-omit-frame-pointer -U HAVE_POSIX_F
+ADVISE" LDFLAGS=-L/usr/lib/x86_64-linux-gnu/mit-krb5 "$SOURCE"/configure --silent --prefix="$INSTALL"
+--with-ssl=nss --with-tcl --with-tclconfig=/usr/lib/tcl8.6 --with-perl --with-libxml --with-libxslt --with-python --with-gssapi --with-systemd --with-ldap --enable-nls --enable-debug --enable-cassert --enable-tap-tests --enable-depend && \
+ make -s -j4 PG_TEST_EXTRA='kerberos ssl' && \
+ make -s -j4 install PG_TEST_EXTRA='kerberos ssl' && \
+ make -s -j4 check PG_TEST_EXTRA='kerberos ssl' && \
+ make -s -j4 world PG_TEST_EXTRA='kerberos ssl' && \
+ make -s -j4 install-world PG_TEST_EXTRA='kerberos ssl' && \
+ make -s -j4 check-world PG_TEST_EXTRA='kerberos ssl' -O PROVE_FLAGS=-j4 \
+)
+
+echo
+echo "Branch: $BRANCH run completed."
+
+
+```
+
 git worktree list
 
 git cherry-pick master, stable
@@ -58,12 +108,9 @@ psql -d mydb
 psql -U postgres -d postgres -h localhost -d mydb
 
 
-
 \password postgres
 \conninfo
 
-
-sudo perf record  --call-graph=fp target/debug/deno info zzazz.comd
 
 /usr/lib/postgresql/15/bin/postgres -D /var/lib/postgresql/15/main -c config_file=/etc/postgresql/15/main/postgresql.conf
 
@@ -81,13 +128,33 @@ sudo snap install postgresql
 
 git clone https://github.com/postgres/postgres
 
-initdb -d data
+./configure
+
+mkdir _install
+
+./configure --prefix="/home/tannal/tannalwork/projects/postgres/_install"  --enable-debug 
+
+sudo apt install libreadline-dev
+
+make -j20
+
+make -j20 install
+
+cd src/bin/initdb
+
+
+
+./initdb -d data
+
+pg_ctl -D data -l logfile start
 
 ./postgres -D data/
 
 ps -aux | grep postgres
 
-./psql -U a48 -w -d postgres
+./psql -U tannal -w -d postgres
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
 
 
 ```

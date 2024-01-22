@@ -10,6 +10,8 @@ https://infrequently.org/
 
 ## from 2024-1-7
 
+https://ggerganov.github.io/ machine learning cpp 
+
 https://brendaneich.com/
 
 https://tomdale.net/about-me/
