@@ -1,6 +1,14 @@
 
 # 2024-1-22  |
 
+
+
+https://zknill.io/about/
+
+https://news.ycombinator.com/item?id=38289327
+
+toBe toBeCloseTo toBeInstanceOf toBeUndefined toContain toThrow toThrowError
+
 research and insdustry/engineer is two worlds
 
 toEqual shallow equal

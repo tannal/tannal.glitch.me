@@ -3,6 +3,108 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/participate/mentee?projectId=df065cf2-c9d2-453f-8624-7d84654d6352
+
+tannal/cc-examples: Single file programs for quick testing
+https://github.com/tannal/cc-examples
+
+Billing
+https://github.com/settings/billing/summary
+
+Billing
+https://github.com/settings/billing/summary
+
+GitHub Student Developer Pack - GitHub Education
+https://education.github.com/pack
+
+Codespaces
+https://github.com/codespaces
+
+math.js - node-examples [Codespaces: improved fiesta] - Visual Studio Code
+https://improved-fiesta-r444qvxrg9xjfx94q.github.dev/
+
+Create new codespace
+https://github.com/codespaces/new
+
+Get 6 months free of Frontend Masters membership by enrolling in the GitHub Student Developer Pack. | Frontend Masters
+https://frontendmasters.com/welcome/github-student-developers/
+
+Primer: Codespaces - GitHub Education
+https://education.github.com/experiences/primer_codespaces#engagement-component
+
+tannal/node-examples
+https://github.com/tannal/node-examples
+
+stevekinney/enterprise-ui-dev
+https://github.com/stevekinney/enterprise-ui-dev
+
+ivmm/Student-resources: 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
+https://github.com/ivmm/Student-resources
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+kdlp.underground.software/course/spring2023/index.md
+https://kdlp.underground.software/course/spring2023/index.md
+
+ChatGPT
+https://chat.openai.com/c/23482967-e20c-4bf1-bb8f-82e86105e9fb
+
+活动 - AcWing
+https://www.acwing.com/activity/content/11/
+
+AcWing 785. 快速排序 - AcWing
+https://www.acwing.com/video/227/
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+y crdt with quill - Google 搜索
+https://www.google.com/search?q=y+crdt+with+quill&rlz=1C1GCEA_enJP1090JP1090&oq=y+crdt+with+quill&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINDc4NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+You don't need a CRDT to build a collaborative experience | Hacker News
+https://news.ycombinator.com/item?id=38289327
+
+about - /dev/knill
+https://zknill.io/about/
+
+Yjs + Quill 实现文档多人协同编辑器开发（基础+实战）_yjs库开发教程-CSDN博客
+https://blog.csdn.net/weixin_47746452/article/details/132402713
+
+文档多人协同编辑底层算法是如何实现的？-CSDN博客
+https://blog.csdn.net/React_Community/article/details/123492567?ops_request_misc=&request_id=8b5abc92fb054595a0802262034ada07&biz_id=&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~koosearch~default-6-123492567-null-null.268%5Ev1%5Econtrol&utm_term=Yjs%E5%8D%8F%E5%90%8C%E7%BC%96%E8%BE%91%E5%99%A8&spm=1018.2226.3001.4450
+
+velotiotech/collab-edit-poc
+https://github.com/velotiotech/collab-edit-poc
+
+react quill yjs - Google 搜索
+https://www.google.com/search?sca_esv=600330433&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-TrtS7nhRgsT4P4i_q2fmk_JuZWg:1705902808544&q=react+quill+yjs&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiEobKXp_CDAxWiSWwGHcz_CJ8Q0pQJegQIChAB&biw=1536&bih=738&dpr=1.25
+
+Yjs Community - Discuss shared editing
+https://discuss.yjs.dev/
+
+Document
+http://localhost:5173/
+
+joebobmiles/y-react: React bindings for Yjs.
+https://github.com/joebobmiles/y-react#readme
+
+yjs/y-quill: Quill Editor binding for Yjs
+https://github.com/yjs/y-quill
+
+yjs-demos/quill/quill.html at main · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/blob/main/quill/quill.html
+
+Yjs Quill Example
+https://demos.yjs.dev/quill/quill.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 1610.01178.pdf
 https://arxiv.org/pdf/1610.01178.pdf
 
