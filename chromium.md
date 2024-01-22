@@ -64,6 +64,14 @@ real	106m52.983s
 user	2379m13.189s
 sys	146m59.666s
 
+ninja: Entering directory `out/Default'
+[0/1] Regenerating ninja files
+[53694/53694] LINK ./chrome
+
+real    102m34.204s
+user    2292m7.163s
+sys     142m41.843s
+
 tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
 ./out/Default/chrome --enable-logging=stderr --v=1
@@ -72,6 +80,10 @@ tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
 
 ./out/Default/chrome --headless --disable-gpu --remote-debugging-port=9222 https://www.chromestatus.com
+
+tar -czvf postgresql_x86-64_linux.tar.gz default
+
+tar -czvf ../build/chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz Default/
 
 
 ```

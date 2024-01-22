@@ -1,6 +1,10 @@
 
 # 2024-1-22  |
 
+git config --global lfs.largefilewarning false
+
+huggingface-cli lfs-enable-largefiles .
+
 curl -x 124.223.112.154:7890 http://google.com
 
 shell lsof -p 3666998
