@@ -1,6 +1,17 @@
 
 # 2024-1-22  |
 
+https://google.github.io/comprehensive-rust/memory-management/approaches.html
+
+v8 pku feature
+
+don't think when you can experiement
+
+Flowchart PieChart Schematic Diagram
+c/c++ OpenCV graphviz
+golang gonum/plot
+rust dot graphviz graphviz
+
 Many great things isn't that hard, it's just nobody even thought about it.
 
 https://github.com/ggerganov

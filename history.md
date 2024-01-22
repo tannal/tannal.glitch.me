@@ -3,6 +3,183 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+1610.01178.pdf
+https://arxiv.org/pdf/1610.01178.pdf
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+1610.01178.pdf
+https://arxiv.org/pdf/1610.01178.pdf
+
+Segmentation fault with postgres · Issue #1470 · namhyung/uftrace
+https://github.com/namhyung/uftrace/issues/1470
+
+The Architecture of Open Source Applications (Volume 1)LLVM
+https://aosabook.org/en/v1/llvm.html
+
+Get Started with the Future of Coding: GitHub Copilot - YouTube
+https://www.youtube.com/watch?v=Fi3AJZZregI
+
+10 Free GitHub Copilot Alternatives for VS Code 2023 - Bito
+https://bito.ai/blog/free-github-copilot-alternatives-for-vs-code/
+
+(3 封私信 / 80 条消息) node-gyp的作用是什么? - 知乎
+https://www.zhihu.com/question/36291768
+
+build VSCode got stuck in node-gyp · Issue #160864 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/160864
+
+学习笔记
+https://blog.haohtml.com/
+
+Use Clang on Windows · Issue #2295 · nodejs/node-gyp
+https://github.com/nodejs/node-gyp/issues/2295
+
+How to generate compile_commands.json file? · Issue #1526 · nodejs/node-gyp
+https://github.com/nodejs/node-gyp/issues/1526
+
+Github Copilot in-Line Chat command (CTRL + I don't work - General - Cursor Community Forum
+https://forum.cursor.sh/t/github-copilot-in-line-chat-command-ctrl-i-dont-work/2009/3
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Introduction to LLVM Building simple program analysis tools and instrumentation - YouTube
+https://www.youtube.com/watch?v=VKIv_Bkp4pk
+
+paper.dvi
+https://llvm.org/pubs/2003-09-30-LifelongOptimizationTR.pdf
+
+Android App — mlc-llm 0.1.0 documentation
+https://llm.mlc.ai/docs/deploy/android.html
+
+Transfer learning enables predictions in network biology | Nature
+https://www.nature.com/articles/s41586-023-06139-9
+
+ctheodoris/Genecorpus-30M at main
+https://huggingface.co/datasets/ctheodoris/Genecorpus-30M/tree/main
+
+ctheodoris/Geneformer at main
+https://huggingface.co/ctheodoris/Geneformer/tree/main/geneformer
+
+ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++
+https://github.com/ggerganov/llama.cpp
+
+Pending · ggml : roadmap
+https://github.com/users/ggerganov/projects/7/views/1
+
+What is the meaning of hacked? · Issue #33 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/33
+
+ggml/include/ggml/ggml.h at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/master/include/ggml/ggml.h
+
+C++ and stuff | Short posts about simple tools I’m working on. Mostly C++ related
+https://ggerganov.github.io/
+
+ImTui Emscripten example
+https://imtui.ggerganov.com/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+assembly - Error: Unknown Directive .type func, @function - Stack Overflow
+https://stackoverflow.com/questions/20907946/error-unknown-directive-type-func-function
+
+Automatically download symbols and sources in GDB | Hacker News
+https://news.ycombinator.com/item?id=23444893
+
+InitDB: Bad system call
+https://pgsql-general.postgresql.narkive.com/ANDtJnch/initdb-bad-system-call
+
+sudo apt install readline - Google 搜索
+https://www.google.com/search?q=sudo+apt+install+readline&rlz=1C1GCEA_enJP1090JP1090&oq=sudo+apt+install+readline&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg50gEINDAzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+[llvm-dev] Inconsistency in -march option between llc and clang
+https://lists.llvm.org/pipermail/llvm-dev/2016-August/104225.html
+
+gcc - How Does The Debugging Option -g Change the Binary Executable? - Stack Overflow
+https://stackoverflow.com/questions/89603/how-does-the-debugging-option-g-change-the-binary-executable
+
+postgresql - psql: symbol lookup error: psql: undefined symbol: PQsetErrorContextVisibility - Stack Overflow
+https://stackoverflow.com/questions/52303275/psql-symbol-lookup-error-psql-undefined-symbol-pqseterrorcontextvisibility
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+惠普 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%83%A0%E6%99%AE
+
+Non-volatile random-access memory - Wikipedia
+https://en.wikipedia.org/wiki/Non-volatile_random-access_memory
+
+What is Automatic Differentiation? - YouTube
+https://www.youtube.com/watch?v=wG_nF1awSSY
+
+Ari Seff Academic Website
+https://www.ariseff.com/
+
+ChatGPT
+https://chat.openai.com/c/d9a0ddb8-debb-4cef-853b-6822e5187257
+
+Schematic Diagram - Google 搜索
+https://www.google.com/search?q=Schematic+Diagram&rlz=1C1GCEA_enJP1090JP1090&oq=Schematic+Diagram&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzI4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+why we need super computers stackoverflow - Google 搜索
+https://www.google.com/search?q=why+we+need+super+computers+stackoverflow&sca_esv=600299551&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-qctaU9aFYLbl6Lmaw71ASGWNvRQ%3A1705884164074&ei=BLqtZeecBM7kseMPg5-G-As&oq=why+we+need+super+computers+stackover&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXdoeSB3ZSBuZWVkIHN1cGVyIGNvbXB1dGVycyBzdGFja292ZXIqAggAMgcQIRgKGKABSLIWUP8CWK0RcAF4AZABAJgB9QGgAa8NqgEFMC43LjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEAAYCBgeGA3iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Introduction to Tensor Networks (Tutorial) by Philippe Corboz - YouTube
+https://www.youtube.com/watch?v=xt09nKMKd6M
+
+Llama 2: Open Source LLM for Research and Commercial Applications by Meta AI - YouTube
+https://www.youtube.com/watch?v=nn0cQ1Z-tqM
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&op=translate
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2020/toyear/2024/index?all&world
+
+block based graphics - Google 搜索
+https://www.google.com/search?q=block+based+graphics&sca_esv=600316937&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-IQApYtI8efMMawVl5avFeKtjNuw%3A1705895703666&ei=F-etZZOXKK-s4-EPpv2ckAU&ved=0ahUKEwjT_sLbjPCDAxUv1jgGHaY-B1IQ4dUDCBA&uact=5&oq=block+based+graphics&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGJsb2NrIGJhc2VkIGdyYXBoaWNzMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8bUBUJ0FWL2MAXAIeAGQAQCYAZcCoAHnEaoBBTAuNS42uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAggQABiABBjLAcICBhAAGB4YD8ICCBAAGAgYHhgKwgIIEAAYiQUYogTCAggQABgIGB4YDcICBRAhGKAB4gMEGAAgQYgGAZAGAw&sclient=gws-wiz-serp
+
+Approaches to Memory Management - Comprehensive Rust 🦀
+https://google.github.io/comprehensive-rust/memory-management/approaches.html?search=
+
+Home | Microsoft Open Source
+https://opensource.microsoft.com/
+
+Apple
+https://github.com/apple/
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Re: [denoland/deno] segfault when running cargo test (Issue #21439) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJmLJfcGgTbjjhqhWzMCmHBSD
+
+segfault when running cargo test · Issue #21439 · denoland/deno
+https://github.com/denoland/deno/issues/21439#issuecomment-1902487669
+
+Digifox03 (Alessandro Cosentino)
+https://github.com/Digifox03
+
+fix: disable V8 PKU feature for 'deno test' and 'deno bench' by bartlomieju · Pull Request #20491 · denoland/deno
+https://github.com/denoland/deno/pull/20491/files
+
+rogchap/v8go: Execute JavaScript from Go
+https://github.com/rogchap/v8go
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
 https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
 
