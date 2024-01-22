@@ -1,5 +1,9 @@
 # inbox
 
+git lfs install
+git lfs track "*.iso"
+git lfs track "*.tar.gz"
+
 ```bash
 
 #!/bin/bash
@@ -130,9 +134,14 @@ git clone https://github.com/postgres/postgres
 
 ./configure
 
+
+
 mkdir _install
 
 ./configure --prefix="/home/tannal/tannalwork/projects/postgres/_install"  --enable-debug 
+
+./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix="/home/tannal/tannalwork/projects/postgres/_install" 
+
 
 sudo apt install libreadline-dev
 
@@ -156,8 +165,55 @@ ps -aux | grep postgres
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
 
+sudo apt install meson
+
+make distclean
+
+meson setup build
+meson setup --prefix=/desired/install/path build
+
+ln -sfn ./build/compile_commands.json compile_commands.json 
+
+set follow-fork-mode child
+
+gdb ./_install/bin/postgres
+set follow-fork-mode child
+attach
+
+b epoll_wait
+
+src/backend/storage/buffer/bufmgr.c
+
+
+tar -czvf postgresql_x86-64_linux.tar.gz _install
+
+tar -czvf ../build/postgresql_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz _install/
 
 ```
+
+# internals
+
+caller knows more than callee
+
+buf_table.c
+bufmgr.c
+
+nbtpage.c
+nbtsearch.c
+nbtree.c
+indexam.c
+
+genam.c general Index Access Methods
+catcache.c  System Catalog Cache
+syscache.c
+miscinit.c
+postinit.c
+
+postmaster.c postmaster ServerLoop
+
+parallel.c
+bgworker.c
+main.c
 
 # compliation
 
@@ -180,3 +236,11 @@ use with care
 
 menson/ninja
 
+
+
+
+# reference
+
+https://peter.eisentraut.org/blog/2024/01/03/using-clangd-for-postgresql-development
+
+https://wiki.postgresql.org/wiki/Developer_FAQ#What_debugging_features_are_available.3F

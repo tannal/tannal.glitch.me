@@ -1,6 +1,17 @@
 
 # 2024-1-22  |
 
+pip install huggingface_hub
+huggingface-cli login
+
+git lfs install
+git add .
+git push
+
+
+tar -cvf mydir-$(date +%Y%m%d-%H%M%S).tar mydir/
+
+tar -cvf mydir-$(git rev-parse --short HEAD).tar mydir/
 
 
 https://zknill.io/about/
@@ -6215,6 +6226,8 @@ LD_LIBRARY_PATH=/usr/local/lib
 Tools/Scripts/update-webkitwpe-libs
 
 sudo ./stackcount  t:sched:sched_switch -P -dp 1873079
+
+sudo stackcount-bpfcc  t:sched:* -Pdp 71362
 ```
 
 ```bash

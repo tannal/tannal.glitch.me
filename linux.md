@@ -510,6 +510,26 @@ unsigned long			nivcsw;
 
 ```
 
+## scheduler
+
+cpu bound process scheduler
+
+  b'update_curr'
+  b'update_curr'
+  b'task_tick_fair'
+  b'scheduler_tick'
+  b'update_process_times'
+  b'tick_sched_handle'
+  b'tick_sched_timer'
+  b'__hrtimer_run_queues'
+  b'hrtimer_interrupt'
+  b'__sysvec_apic_timer_interrupt'
+  b'sysvec_apic_timer_interrupt'
+  b'asm_sysvec_apic_timer_interrupt'
+    --
+    b'clang++' [145292]
+    305
+
 # data structures
 
 radixtree

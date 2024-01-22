@@ -71,6 +71,7 @@ tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 ./out/Default/chrome --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
 
 
+./out/Default/chrome --headless --disable-gpu --remote-debugging-port=9222 https://www.chromestatus.com
 
 
 ```
