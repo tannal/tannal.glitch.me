@@ -1,5 +1,7 @@
 # inbox
 
+postmaster.pid
+
 git lfs install
 git lfs track "*.iso"
 git lfs track "*.tar.gz"
@@ -164,6 +166,7 @@ ps -aux | grep postgres
 ./psql -U tannal -w -d postgres
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/tannalwork/projects/postgres/_install/lib/
 
 sudo apt install meson
 

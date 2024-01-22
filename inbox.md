@@ -1,6 +1,20 @@
 
 # 2024-1-22  |
 
+curl -x 124.223.112.154:7890 http://google.com
+
+shell lsof -p 3666998
+
+ls -lash /proc/3666998/fd
+
+git lfs pull https://example.com/path/to/large_file.bin
+
+git clone https://huggingface.co/tannal/build
+git lfs install
+git lfs pull
+
+tar zcvf 
+
 pip install huggingface_hub
 huggingface-cli login
 
@@ -1898,12 +1912,14 @@ sudo vim /etc/systemd/system/frpc.service
 # 服务名称，可自定义
 Description = frpc
 After = network.target syslog.target
-Wants = network.target
+After=network-online.target
+Wants=network-online.target systemd-networkd-wait-online.service
 
 [Service]
 Type = simple
 # 启动frps的命令，需修改为您的frps的安装路径
-ExecStart = /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_arm64/frpc -c /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_arm64/frpc.toml
+ExecStart = /home/tannal/tannalwork/projects/frp_0.53.2_linux_arm64/frpc -c /home/tannal/tannalwork/projects/frp_0.53.2_linux_arm64/frpc.toml
+Restart=always
 
 [Install]
 WantedBy = multi-user.target
