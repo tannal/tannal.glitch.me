@@ -1,7 +1,27 @@
 
 # 2024-1-22  |
 
-https://google.github.io/comprehensive-rust/memory-management/approaches.html
+research and insdustry/engineer is two worlds
+
+toEqual shallow equal
+
+npx vitest --run --reporter=verbose
+npx vitest --run --reporter=dot
+npx vitest --ui
+
+webpack jest
+
+vite vitest
+
+it expect test
+
+happydom jsdom servo-rustdom vitest 
+
+fail runIf skipIf
+
+process.env.NODE_ENV .test .spec
+
+https://google.github.io/comprehensive-rust/memory-management/approaches.html 
 
 v8 pku feature
 
