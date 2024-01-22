@@ -13,7 +13,9 @@ shell lsof -p 3666998
 
 ls -lash /proc/3666998/fd
 
-git lfs pull https://example.com/path/to/large_file.bin
+git pull
+
+git lfs pull https://huggingface.co/tannal/build/blob/main/chrome_x86-64_linux_debug_20240122-200744_8ce02cc725870.tar.gz
 
 git clone https://huggingface.co/tannal/build
 git lfs install

@@ -237,6 +237,7 @@ Implement ResizeObservers
 
 ./mach test-wpt --production _webgpu
 
+./mach test-wpt tests/wpt/tests/dom/events/relatedTarget.window.js
 
 ```
 

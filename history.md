@@ -1,5 +1,200 @@
 # 2024-1-21
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+v8-dev - Google 网上论坛
+https://groups.google.com/g/v8-dev
+
+1515833 - Loading issue... - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=1515833
+
+Issues · v8/v8.dev
+https://github.com/v8/v8.dev/issues
+
+c - Debugging child process after fork (follow-fork-mode child configured) - Stack Overflow
+https://stackoverflow.com/questions/15126925/debugging-child-process-after-fork-follow-fork-mode-child-configured
+
+Billing
+https://github.com/settings/billing/summary
+
+Codespaces
+https://github.com/codespaces
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+petere (Peter Eisentraut)
+https://github.com/petere
+
+ChatGPT
+https://chat.openai.com/c/19488929-2769-490b-ad6b-db1989cdca30
+
+Developer FAQ - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/Developer_FAQ#What_debugging_features_are_available.3F
+
+operating system - List all Processes & Threads under processes from Linux core dump using gdb - Stack Overflow
+https://stackoverflow.com/questions/5246185/list-all-processes-threads-under-processes-from-linux-core-dump-using-gdb
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+#general > ✔ Running test-wpt for JS file - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Running.20test-wpt.20for.20JS.20file
+
+#general > 📢 Announcements - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.93.A2.20Announcements
+
+git lfs - Google 搜索
+https://www.google.com/search?q=git+lfs&rlz=1C1GCEA_enJP1090JP1090&oq=git+lfs&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMg4IARBFGCcYOxiABBiKBTIICAIQRRgnGDsyCQgDEEUYOxiABDIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg90gEIMTUwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+无头 Chrome 使用入门  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/headless-chrome?hl=zh-cn
+
+关于 Git Large File Storage - GitHub 文档
+https://docs.github.com/zh/repositories/working-with-files/managing-large-files/about-git-large-file-storage
+
+Huggingface上传自己的模型 - 掘金
+https://juejin.cn/post/7081452948550746148
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/tokens
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/build at main
+https://huggingface.co/tannal/build/tree/main
+
+linux下把文件夹压缩成tar.gz的命令_打包成tar.gz的命令-CSDN博客
+https://blog.csdn.net/wusecaiyun/article/details/46984201
+
+io bound starvation process - Google 搜索
+https://www.google.com/search?q=io+bound+starvation+process&sca_esv=600376160&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08Cme3Rlc2m02mfcLkNcINq07q7_A%3A1705919428002&ei=w0OuZbTiPIWa4-EPhtKI6Ao&ved=0ahUKEwj0z5WM5fCDAxUFzTgGHQYpAq0Q4dUDCBA&uact=5&oq=io+bound+starvation+process&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2lvIGJvdW5kIHN0YXJ2YXRpb24gcHJvY2VzczIHECEYChigATIHECEYChigATIHECEYChigAUj3GlDmEFiCGnABeACQAQGYAdwBoAHgCaoBBTAuNy4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAhGKABwgIEECEYCuIDBBgAIEGIBgGQBgE&sclient=gws-wiz-serp#ip=1
+
+Scheduling 2: Starvation
+https://inst.eecs.berkeley.edu/~cs162/su20/static/lectures/12.pdf
+
+#general > 📢 Announcements - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.93.A2.20Announcements
+
+git lfs 下载单个文件-掘金
+https://juejin.cn/s/git%20lfs%20%E4%B8%8B%E8%BD%BD%E5%8D%95%E4%B8%AA%E6%96%87%E4%BB%B6
+
+哭，腾讯云服务器被封了😭 - V2EX
+https://www.v2ex.com/t/969585
+
+gdb: howto list open files - Stack Overflow
+https://stackoverflow.com/questions/2231460/gdb-howto-list-open-files
+
+systemctl 命令设置开机自启动失败 - 咸鱼Linux运维 - 博客园
+https://www.cnblogs.com/edisonfish/p/17304057.html
+
+Auto-restart a crashed service in systemd
+https://ma.ttias.be/auto-restart-crashed-service-systemd/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Duplicating a repository - GitHub Docs
+https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+
+Cannot read properties of undefined (reading 'getModelColumnOfViewPosition') · Issue #200117 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/200117
+
+China suspends youth unemployment data after record high - BBC News
+https://www.bbc.com/news/business-66506132
+
+normal university - Google 搜索
+https://www.google.com/search?q=normal+university&rlz=1C1GCEA_enJP1090JP1090&oq=normal+univ&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIGCAcQRRg90gEIMTg2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+"Encountered 1 file(s) that may not have been copied correctly on Windows" on Ubuntu 20.04.5 LTS · Issue #5310 · git-lfs/git-lfs
+https://github.com/git-lfs/git-lfs/issues/5310
+
+仙剑四 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BB%99%E5%89%91%E5%9B%9B
+
+(4 封私信 / 80 条消息) 移动欠费多少会停机？停机后还会继续扣费吗？ - 知乎
+https://www.zhihu.com/question/323643214
+
+git lfs pull 指定文件 - Google 搜索
+https://www.google.com/search?q=git+lfs+pull+%E6%8C%87%E5%AE%9A%E6%96%87%E4%BB%B6&rlz=1C1GCEA_enJP1090JP1090&oq=git+lfs+pull+&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEINjk1N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+git lfs 新上传 没有检测到 - Google 搜索
+https://www.google.com/search?q=git+lfs+%E6%96%B0%E4%B8%8A%E4%BC%A0+%E6%B2%A1%E6%9C%89%E6%A3%80%E6%B5%8B%E5%88%B0&sca_esv=600400644&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09J0VP8ct7PACEGQURgF3YI1B2LqQ%3A1705930868595&ei=dHCuZdrmI7iQnesPtMKCsAM&ved=0ahUKEwja8Lvbj_GDAxU4SGcHHTShADYQ4dUDCBA&uact=5&oq=git+lfs+%E6%96%B0%E4%B8%8A%E4%BC%A0+%E6%B2%A1%E6%9C%89%E6%A3%80%E6%B5%8B%E5%88%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiIWdpdCBsZnMg5paw5LiK5LygIOayoeacieajgOa1i-WIsEiJggFQ7wFYoIEBcAZ4AZABAJgBvAGgAfUmqgEEMC4zNrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgQQIxgnwgIKECMYgAQYigUYJ8ICCBAAGIAEGMsBwgIFEAAYgATCAggQABiABBiiBMICBRAhGKAB4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Xuanwo
+https://bento.me/xuanwo
+
+Xuanwo/Xuanwo: Learn, work and think in an open-source way!
+https://github.com/Xuanwo/Xuanwo
+
+Databend Labs
+https://github.com/datafuselabs
+
+compio - Google 搜索
+https://www.google.com/search?q=compio&rlz=1C1GCEA_enJP1090JP1090&oq=compio&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIJCAEQABgKGIAEMgkIAhAuGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAuGAoYgAQyCQgGEC4YChiABDIGCAcQRRg80gEIMTM0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+sccache - Google 搜索
+https://www.google.com/search?q=sccache&rlz=1C1GCEA_enJP1090JP1090&oq=sccache&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQkyNjA5M2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tracking issues of OpenDAL in 2023 · Issue #1301 · apache/opendal
+https://github.com/apache/opendal/issues/1301
+
+wu-sheng (吴晟 Wu Sheng)
+https://github.com/wu-sheng
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Re: [denoland/deno] segfault when running cargo test (Issue #21439) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJmLJfcGgTbjjhqhWzMCmHBSD
+
+segfault when running cargo test · Issue #21439 · denoland/deno
+https://github.com/denoland/deno/issues/21439
+
+fix: disable V8 PKU feature for 'deno test' and 'deno bench' by bartlomieju · Pull Request #20491 · denoland/deno
+https://github.com/denoland/deno/pull/20491/commits/5639614c5bdb7d452f3fb7cf68d7d4d7317cdda9#diff-db5319f71440efff413960289e9c5673d02e17ff68ce2e3b675b4f6220a2b9f7
+
+cargo test skip - Google 搜索
+https://www.google.com/search?q=cargo+test+skip&rlz=1C1GCEA_enJP1090JP1090&oq=cargo+test+skip&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGB4yBggCEAAYHtIBCDI5MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Node.js 新计划：使用 V8 snapshot 将启动速度提升 8 倍 - 知乎
+https://zhuanlan.zhihu.com/p/31139813
+
+(4 封私信 / 80 条消息) justjavac - 知乎
+https://www.zhihu.com/people/justjavac.com/posts
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//docs.google.com/document/d/1YEIBdH7ocJfm6PWISKw03szNAgnstA2B3e8PZr_-Gp4/edit%23heading%3Dh.1v0pvnoifuah
+
+justjavac (迷渡)
+https://github.com/justjavac
+
+axetroy (Axetroy) / November 2023
+https://github.com/axetroy?tab=overview&from=2023-11-01&to=2023-11-30
+
+• Discord | #general | Deno
+https://discord.com/channels/684898665143206084/684898665151594506/701751565530431498
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
