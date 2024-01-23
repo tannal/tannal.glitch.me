@@ -1,9 +1,16 @@
 
 # 2024-1-23  |
 
+find out/Default -maxdepth 1 -type f -print0 | tar --null --files-from=- -cvf chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz
+
+find out/Default -maxdepth 1 \( -type f -executable -o -name "*.so" -o -name "*.dll" -o -name "*.dylib" \) -print0 | tar --null --files-from=- -cvf chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz
+
+make PREFIX=../redis install
+
+
 sudo apt install tldr
 
-tldr -u
+tldr
 
 GIT_LFS_SKIP_SMUDGE=1 git pull
 git lfs pull -I chrome_x86-64_linux_debug_20240122-200744_8ce02cc725870.tar.gz

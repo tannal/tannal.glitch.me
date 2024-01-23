@@ -309,6 +309,8 @@ Writing a LLVM Pass: 101
 
 forum/mailing list
 
+https://clang.llvm.org/OpenProjects.html
+
 discord
 
 irc
