@@ -1,6 +1,16 @@
 
 # 2024-1-23  |
 
+
+sudo apt install fzf
+sudo apt install ripgrep
+fzf
+
+super_block
+- super_operations
+
+dhcp
+
 sudo apt install ifupdown
 
 ifup eth0
@@ -39,7 +49,7 @@ socket_alloc
   - struct inode vfs_inode
 
 ext4_inode on disk
-ext4_inode_info in memory
+ext4_inode_info in memory vfs_node
 inode vfs_inode
 
 struct inode *inode = iget_locked(sb, inode_number);
