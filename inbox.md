@@ -1,6 +1,63 @@
 
 # 2024-1-23  |
 
+sudo apt install ifupdown
+
+ifup eth0
+ifocnfig eth0 up
+
+sudo service network-manager restart
+
+/etc/init.d/
+
+inode dentry file super_block vfsmount
+
+block i/o subsystem
+
+net_families
+net_proto_family
+  - family
+  - create
+  - module *owner
+
+create state(field, action) destory
+
+sock_alloc_inode
+
+socket
+  - state
+  - type
+  - flags
+  - wq
+  - file
+  - sock(sk)
+    - sk_prot (tcp_prot, udp_prot)
+  - proto_ops ops
+
+socket_alloc
+  - struct socket socket
+  - struct inode vfs_inode
+
+ext4_inode on disk
+ext4_inode_info in memory
+inode vfs_inode
+
+struct inode *inode = iget_locked(sb, inode_number);
+
+socketfs inode ext4_alloc_inode keme_cache_alloc ext4_inode_info(ei) vfs_inode
+
+```bash
+
+nc -l 1234
+
+nc 127.0.0.1 1234
+
+ps -ef | grep nc
+ll /proc/40846/fd
+grep -i "297957" /proc/net/tcp
+
+```
+
 super_block inode inode table
 
 hard link symobic link linux kernel
@@ -2047,6 +2104,7 @@ Wants = network.target
 Type = simple
 # 启动frps的命令，需修改为您的frps的安装路径
 ExecStart = /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps -c /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps.toml
+Restart=always
 
 [Install]
 WantedBy = multi-user.target
