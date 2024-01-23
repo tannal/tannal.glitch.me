@@ -1,6 +1,13 @@
 
 # 2024-1-23  |
 
+sudo apt install tldr
+
+tldr -u
+
+GIT_LFS_SKIP_SMUDGE=1 git pull
+git lfs pull -I chrome_x86-64_linux_debug_20240122-200744_8ce02cc725870.tar.gz
+
 
 sudo apt install fzf
 sudo apt install ripgrep

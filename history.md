@@ -1,3 +1,131 @@
+# 2024-1-23
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal/build at main
+https://huggingface.co/tannal/build/tree/main
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva
+
+redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/redis
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - improved fiesta
+https://github.com/codespaces/improved-fiesta-r444qvxrg9xjfx94q?editor=vscode
+
+Docker - Ubuntu - bash: ping: command not found - Stack Overflow
+https://stackoverflow.com/questions/39901311/docker-ubuntu-bash-ping-command-not-found
+
+ChatGPT
+https://chat.openai.com/c/d4b60dcc-7616-4856-8d97-c52d94e37cc7
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+腾讯云 - 控制台
+https://console.cloud.tencent.com/workorder/detail?ticketId=202401238515
+
+腾讯云 - 控制台
+https://console.cloud.tencent.com/workorder/auth/service?ticketId=12032787&authToolId=2&uid=46223668-f612-4c44-a6b6-50f94a5d4ab0
+
+腾讯云 - 控制台
+https://console.cloud.tencent.com/workorder/auth/service/success?AuthTime=72&ConversationId=&Ticket=12032787&ToolId=2&Uid=46223668-f612-4c44-a6b6-50f94a5d4ab0&uin=100023548931&ownerUin=100023548931
+
+ubuntu18.04手动安装网卡驱动，重启系统后，驱动消失的解决方案_ubuntu重启网卡不见了-CSDN博客
+https://blog.csdn.net/weixin_40735291/article/details/130264738
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+腾讯云 - 控制台
+https://console.cloud.tencent.com/workorder/detail?ticketId=202401238305
+
+Tencent Cloud VNC - 10.0.12.15
+https://workbench.cloud.tencent.com/vnc?regionId=4&instanceId=lhins-55wyqhpe&source=lighthouse&InstanceVncUrl=wss%3A%2F%2Fshvnc.qcloud.com%3A26789%2Fvnc%3Fs%3DN2xCMlhNMXlCQ3E0NlA5SjZtYmpIQmRsbXhXTkZwQW1SMmttM3ZuODBKUEc5M0JsYVVLWkJBY0RaY044WlRlbDBmbWpLYXVCYjh3SkFvbjd6L2FOOFFveVpBMERrN000Y1FrS0dUcndMbFU9%26password%3D%26isWindows%3Dfalse%26isUbuntu%3Dtrue
+
+tree-sitter/cli/src/parse.rs at master · tree-sitter/tree-sitter
+https://github.com/tree-sitter/tree-sitter/blob/master/cli/src/parse.rs
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Outreachy Internships - YouTube
+https://www.youtube.com/@outreachyinternships
+
+日本读研指南
+https://sagiriwiki.web.app/countries/graduate/
+
+software installation - How to install a package that contains Ubuntu kernel debug symbols? - Ask Ubuntu
+https://askubuntu.com/questions/197016/how-to-install-a-package-that-contains-ubuntu-kernel-debug-symbols
+
+Frp的安全之路 - 掘金
+https://juejin.cn/post/7130640908298485768
+
+super block - Google 搜索
+https://www.google.com/search?q=super+block&rlz=1C1GCEA_enJP1090JP1090&oq=super+block&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDILCAEQABgKGAwYgAQyBwgCEAAYgAQyBwgDEAAYgAQyCQgEEAAYChiABDIJCAUQABgKGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjkzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+关于struct file 结构下 private_data 数据结构z作用_struct private_data结构体-CSDN博客
+https://blog.csdn.net/A8316124/article/details/78320326
+
+eventfd 入门 | 程序员的冷浪漫
+https://forrestsu.github.io/posts/linux/eventfd-introduction/
+
+程序员的冷浪漫 | 专注于异步, 高并发, 低延时, 高吞吐, 分布式服务, 软件架构C++/Golang
+https://forrestsu.github.io/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Linux 中如何启用和禁用网卡？ - 知乎
+https://zhuanlan.zhihu.com/p/65480107
+
+如何在Linux上设置systemd-networked - A5互联 - 博客园
+https://www.cnblogs.com/a5idc/p/13733709.html
+
+How to restart the networking service? - Ask Ubuntu
+https://askubuntu.com/questions/230698/how-to-restart-the-networking-service
+
+腾讯云太恶心了，非常不安全 - V2EX
+https://www.v2ex.com/t/909154
+
+The LINUX File System, Boot Block, Super Block, Inode Table - UNIX/LINUX Tutorials for beginners - YouTube
+https://www.youtube.com/watch?v=aDssfYbr10s
+
+filesystems - Why do special device files have inodes? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/384488/why-do-special-device-files-have-inodes
+
+Ext2-inode - inode pointer structure - Wikipedia
+https://en.wikipedia.org/wiki/Inode_pointer_structure#/media/File:Ext2-inode.svg
+
+DHCP　理论及命令操作_51CTO博客_dhcp基本配置命令步骤
+https://blog.51cto.com/u_15382727/4254279
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/redis
+
+huggingface 下载链接 - Google 搜索
+https://www.google.com/search?q=huggingface+%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5&rlz=1C1GCEA_enJP1090JP1090&oq=huggingface+%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDU3NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
 # 2024-1-22
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
