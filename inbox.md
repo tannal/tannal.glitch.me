@@ -1,6 +1,38 @@
 
 # 2024-1-23  |
 
+super_block inode inode table
+
+hard link symobic link linux kernel
+
+files_fdtable(task->files)->fd[i]
+
+sudo echo 0 > /proc/sys/kernel/randomize_va_space
+
+sudo apt-get install linux-image-`uname -r`-dbgsym
+
+lay next
+refresh
+
+info address mmap_min_addr
+
+p /x mmap_min_addr
+
+struct file {
+  struct paht f_path;
+
+}
+
+struct path {
+  
+}
+
+memory_
+
+files_fdtable
+
+https://linktr.ee/sagiriizumi
+
 distributed query execution
 
 workers nodes shuffle nodes worker nodes
