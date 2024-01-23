@@ -1,4 +1,45 @@
 
+# 2024-1-23  |
+
+https://github.com/postgresml
+
+https://www.vldb.org/pvldb/vol16/p2679-pedreira.pdf
+
+https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
+
+ML
+
+LakeHouse systems
+
+gl context
+
+shared disk engines databricks druid object stores cloud data lake
+
+OLAP OLTP monolithic DBMs data cubes
+
+data warehouses FPGA accelarater
+
+know how to ignore things
+
+problem hole idea hole code
+
+ROC Curve
+Line Graph
+Bar Chart
+Box Plot 
+
+Scatter Plot
+Heatmap for Classification
+Hierarchical Clustering Heatmap
+Venn Diagram
+Density Plot
+Box Plot
+Grouped Box Plot
+
+Draw.io / diagrams.net: LaTeX (with TikZ package) Microsoft Visio: Lucidchart: Graphviz Python (with matplotlib or Graphviz library): PlantUML Mermaid.js
+
+
+
 # 2024-1-22  |
 
 tobias koppers
