@@ -1,6 +1,12 @@
 
 # 2024-1-23  |
 
+distributed query execution
+
+workers nodes shuffle nodes worker nodes
+
+DAG Tree
+
 https://github.com/postgresml
 
 https://www.vldb.org/pvldb/vol16/p2679-pedreira.pdf

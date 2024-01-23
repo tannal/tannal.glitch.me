@@ -1,5 +1,83 @@
 # 2024-1-22
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+p2679-pedreira.pdf
+https://www.vldb.org/pvldb/vol16/p2679-pedreira.pdf
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer/tree/main
+
+Transfer learning enables predictions in network biology | Nature
+https://www.nature.com/articles/s41586-023-06139-9
+
+fix: disable V8 PKU feature for 'deno test' and 'deno bench' by bartlomieju · Pull Request #20491 · denoland/deno
+https://github.com/denoland/deno/pull/20491/commits/5639614c5bdb7d452f3fb7cf68d7d4d7317cdda9#diff-db5319f71440efff413960289e9c5673d02e17ff68ce2e3b675b4f6220a2b9f7
+
+Issue: SIGSEGV on sequential unit tests · Issue #1381 · denoland/rusty_v8
+https://github.com/denoland/rusty_v8/issues/1381
+
+denoland/rusty_v8: Rust bindings for the V8 JavaScript engine
+https://github.com/denoland/rusty_v8
+
+tannal (tannal)
+https://github.com/tannal
+
+Codespaces
+https://github.com/codespaces
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Grouped Box Plot - Google 搜索
+https://www.google.com/search?q=Grouped+Box+Plot&rlz=1C1GCEA_enJP1090JP1090&oq=Grouped+Box+Plot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBBzMwNGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/29fba09f-73b9-4490-8e5a-678be18ff84a
+
+H100.eps
+https://arxiv.org/pdf/2312.12456.pdf
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+notes-v1.pdf
+https://www.eecs.yorku.ca/course_archive/2011-12/W/3101/notes-v1.pdf
+
+CSE 3101, Winter 2012
+https://www.eecs.yorku.ca/course_archive/2011-12/W/3101/
+
+活动 - AcWing
+https://www.acwing.com/activity/content/31/
+
+LeetCode 4. 寻找两个正序数组的中位数（LeetCode究极班） - AcWing
+https://www.acwing.com/video/1320/
+
+3. 无重复字符的最长子串 - 力扣（LeetCode）
+https://leetcode.cn/problems/longest-substring-without-repeating-characters/submissions/497624887/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+data cubes - Google 搜索
+https://www.google.com/search?q=data+cubes&rlz=1C1GCEA_enJP1090JP1090&oq=data+cubes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDILCAcQABgKGAwYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyMDg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics
+https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf
+
+PostgresML
+https://github.com/postgresml
+
+美国大选 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E5%9B%BD&gs_lcrp=EgZjaHJvbWUqDggCEEUYJxg7GIAEGIoFMgYIABBFGDkyBwgBEC4YgAQyDggCEEUYJxg7GIAEGIoFMgYIAxAjGCcyDQgEEAAYgwEYsQMYgAQyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQgyNDEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+p2679-pedreira.pdf
+https://www.vldb.org/pvldb/vol16/p2679-pedreira.pdf
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&action=DescribeInstanceVncUrl
+
 # 2024-1-21
 
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
