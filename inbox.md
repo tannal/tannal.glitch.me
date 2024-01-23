@@ -188,6 +188,76 @@ Tensor Networks
 
 # 2024-1-21  |
 
+cmake --build build --target clean
+cmake --build build
+
+CMAKE_BUILD_TYPE=Release
+CMAKE_BUILD_TYPE=Debug
+CMAKE_BINARY_DIR
+set(name value)
+option(name explain default)
+"Visual Studio 16 2019"
+
+```
+
+// CMakeLists.txt
+
+cmake_minimum_required(VERSION 3.22)
+
+project(
+    template
+    VERSION 1.0.0
+    LANGUAGES C CXX
+)
+if (WIN32)
+    set (CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS TRUE)
+    set (BUILD_SHARED_LIBS TRUE)
+endif ()
+
+add_subdirectory(add)
+
+
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+option(COMPILE_EXECUTABLE "hooooooooo" OFF)
+
+set(LIBRARY_NAME add)
+set(EXECUTABLE_NAME a.out)
+
+
+if(COMPILE_EXECUTABLE)
+    add_executable(a.out main.cc)
+    target_link_libraries(a.out PUBLIC add)
+    target_include_directories(add PUBLIC "./add")
+endif()
+
+
+// add/CMakeLists.txt
+
+# add_library(add STATIC add.cc)
+add_library(add SHARED add.cc)
+
+```
+
+https://krtirtho.dev/
+
+$Env:PATH = ".\build\add\" + $Env:PATH
+.\build\a.out.exe
+
+static single assignment
+
+Hans Wennborg
+
+cmake --build build --target clean
+cmake -S . -B build -G Ninja
+cmake --build build 
+
+wsl
+
+chocolatey winget
+
 ```bash
 
 llvm-as a.ll -o a.bc

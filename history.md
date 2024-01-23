@@ -1,5 +1,146 @@
 # 2024-1-22
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs + Quill 实现文档多人协同编辑器开发（基础+实战）_yjs库开发教程-CSDN博客
+https://blog.csdn.net/weixin_47746452/article/details/132402713
+
+yjs-demos/quill/quill.css at main · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/blob/main/quill/quill.css
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/#outreachy-schedule
+
+Outreachy Internships - YouTube
+https://www.youtube.com/@outreachyinternships/videos
+
+Element
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+Writing code for Firefox
+https://www.joshmatthews.net/fosdem/#slide-11
+
+Dysfunctional Programming » Page not found
+https://www.joshmatthews.net/blog/2018/09/bugs-ahoy-the-next-generation/
+
+mxr.mozilla.org
+http://mxr.mozilla.org/mozilla-central/
+
+sketch.js
+http://192.168.43.62:9966/
+
+josh matthews leave mozilla - Google 搜索
+https://www.google.com/search?q=josh+matthews+leave+mozilla&oq=josh+matthews+leave+mozilla&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDc4MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Integrating Stylo: Rust APIs — The Story of Stylo
+https://www.joshmatthews.net/rbr17/#integrating5.4
+
+Spotlight on Josh Matthews – about:community
+https://blog.mozilla.org/community/2012/06/25/spotlight-on-josh-matthews/
+
+jdm/foxinabox: A quickstart Firefox dev VM
+https://github.com/jdm/foxinabox
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Benjamin Smedberg - Google 搜索
+https://www.google.com/search?q=Benjamin+Smedberg&oq=Benjamin+Smedberg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+gecko-dev/servo/ports/geckolib/glue.rs at 85679f95a634d08307e115fb365ea287198bd4d2 · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/blob/85679f95a634d08307e115fb365ea287198bd4d2/servo/ports/geckolib/glue.rs#L310
+
+ChatGPT
+https://chat.openai.com/c/332d1dd5-46cd-4a74-bac1-af57c4c37dff
+
+活动 - AcWing
+https://www.acwing.com/activity/content/16/
+
+1015. 摘花生 - AcWing题库
+https://www.acwing.com/problem/content/1017/
+
+Code search results
+https://github.com/search?q=repo%3AKitware%2FCMake%20cmake_minimum_required&type=code
+
+bernardoduarte/awesome-version-managers: A curated list of awesome Version Managers
+https://github.com/bernardoduarte/awesome-version-managers?tab=readme-ov-file#go
+
+Looking for a 'cmake clean' command to clear up CMake output - Stack Overflow
+https://stackoverflow.com/questions/9680420/looking-for-a-cmake-clean-command-to-clear-up-cmake-output
+
+LLVM/Clang on Windows - Hans Wennborg - YouTube
+https://www.youtube.com/watch?v=RxE5LB16yCg
+
+404 Not Found
+https://www.hanshq.net/files/foocafe_oct_2014.pdf.%C3%AF%C2%BB%C2%BF
+
+get started with llvm - Google 搜索
+https://www.google.com/search?sca_esv=600164613&sxsrf=ACQVn09VaFQkgWIMNjRusc1SzgYSKh7O8Q:1705811868818&q=get+started+with+llvm&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjD3Pmz1O2DAxXD1zgGHUh5C1UQ0pQJegQIDRAB&biw=1280&bih=593&dpr=1.5
+
+Introduction to LLVM Building simple program analysis tools and instrumentation - YouTube
+https://www.youtube.com/watch?v=VKIv_Bkp4pk
+
+Portfolio | Kingkor Roy Tirtho
+https://krtirtho.dev/
+
+cmake shared library link error windows - Google 搜索
+https://www.google.com/search?q=cmake+shared+library+link+error+windows&oq=cmake+shared+library+link+error+windows&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCTExNzA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+c++ - CMake shared dll not working after compiling - Stack Overflow
+https://stackoverflow.com/questions/65943580/cmake-shared-dll-not-working-after-compiling
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+tannal/node-examples
+https://github.com/tannal/node-examples
+
+Yjs Quill Example
+http://127.0.0.1:5173/
+
+Yjs Quill Example
+https://demos.yjs.dev/quill/quill.html
+
+yjs/y-websocket: Websocket Connector for Yjs
+https://github.com/yjs/y-websocket
+
+Is quill dead? · Issue #3359 · quilljs/quill
+https://github.com/quilljs/quill/issues/3359
+
+ueberdosis/tiptap: The headless rich text editor framework for web artisans.
+https://github.com/ueberdosis/tiptap
+
+Collaboration - CodeSandbox
+https://codesandbox.io/p/devbox/collaboration-4stk94?file=%2Fsrc%2FEditor.js%3A124%2C7-124%2C15
+
+So I'm just at the tail end of a project where I'm attempting to build a collabo... | Hacker News
+https://news.ycombinator.com/item?id=32510771
+
+Yjs Demo
+http://localhost:5174/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Yjs Demo
+http://localhost:5173/
+
+Yjs Demo
+http://localhost:5173/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Codespaces
+https://github.com/codespaces
+
+(3) 2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
