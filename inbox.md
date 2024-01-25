@@ -1,3 +1,22 @@
+# 2024-1-25 | 
+
+typeform
+
+netlify fly.io aws vercel aliyun heroku gcp digital ocean deno deploy microsoft azure
+
+redis mongoDB CockroachDB None Firebase DenoKV PostgreSQL Cassandra sqlite Memcached MySQL
+
+sentry splunk datadog Open Telemetry Zipkin New Relic Logstash Prometheus grafana
+
+Prisma Mongoose Oakdex
+
+Infrastructure As Code Terraform Plulumi Puppet Ansible AWS Cloud Formation Chef
+
+message brokers RabbitMQ SQS Kafka GCP Cloud Tasks other 
+
+identity management Okta OAuth2 JWT Firebase Auth0 Authy 
+
+CDN providers Akamai BunnyCDN Limelight Networks Fastly CDN77 Cloudflare
 
 # 2024-1-24 |
 
