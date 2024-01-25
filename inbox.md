@@ -1,5 +1,19 @@
 # 2024-1-25 | 
 
+GNOME Mboalab MDAnalysis OCaml ODK-X Oppia QEMU
+
+$env:HTTP_PROXY = "http://127.0.0.1:7890"
+$env:HTTPS_PROXY = "http://127.0.0.1:7890"
+
+set http_proxy=http://192.168.43.1:7890
+set https_proxy=http://192.168.43.1:7890
+
+set http_proxy=hhttp://127.0.0.1:7890
+set https_proxy=http://127.0.0.1:7890
+
+$env:HTTP_PROXY = "http://192.168.43.1:7890"
+$env:HTTPS_PROXY = "http://192.168.43.1:7890"
+
 typeform
 
 netlify fly.io aws vercel aliyun heroku gcp digital ocean deno deploy microsoft azure

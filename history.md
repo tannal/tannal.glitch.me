@@ -1,3 +1,143 @@
+# 2024-1-25
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[PATCH v2 1/4] util/uri: Remove uri_string_unescape()
+https://lists.nongnu.org/archive/html/qemu-trivial/2024-01/msg00126.html
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+• Discord | #help | Deno
+https://discord.com/channels/684898665143206084/1022163295895027722
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Google Summer of Code 2024 Mentor Organization Applications Now Open | Google Open Source Blog
+https://opensource.googleblog.com/2024/01/google-summer-of-code-2024-mentor-organization-applications-now-open.html
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+An introduction to Google Summer of Code - YouTube
+https://www.youtube.com/watch?v=7jD2tChhrWM
+
+Runtime APIs | Deno
+https://deno.land/api@v1.40.0
+
+Deno Runtime User Survey - Jan 2024
+https://unf275cfh14.typeform.com/to/R5ZVVniH?typeform-source=deno.land
+
+Bun's priorities · Issue #798 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/798
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Codespaces
+https://github.com/codespaces
+
+ChatGPT
+https://chat.openai.com/c/1dd4a1eb-d867-43c2-bf33-451dd4ff69c4
+
+Billing
+https://github.com/settings/billing/summary
+
+活动 - AcWing
+https://www.acwing.com/activity/content/punch_the_clock/31/
+
+LeetCode 5. 最长回文子串 - AcWing
+https://www.acwing.com/activity/content/problem/content/2330/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+fix(cli): add exit code for deno info ci by muddlebee · Pull Request #21952 · denoland/deno
+https://github.com/denoland/deno/pull/21952/files
+
+Deno Status
+https://denostatus.com/
+
+Deno Runtime User Survey - Jan 2024
+https://unf275cfh14.typeform.com/to/R5ZVVniH?typeform-source=deno.com
+
+typeform - Google 搜索
+https://www.google.com/search?q=typeform&rlz=1C1GCEA_enJP1090JP1090&oq=typeform&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxNjk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=deno&sort=byPopularity&type=story
+
+❮λ❯ Elefunc 🌐 (@Elefunc) / X
+https://twitter.com/Elefunc
+
+google layoff - Google 搜索
+https://www.google.com/search?q=google+layoff&rlz=1C1GCEA_enJP1090JP1090&oq=google+layoff&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyODYzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Deno (software) - Wikipedia
+https://en.wikipedia.org/wiki/Deno_(software)
+
+• Discord | #help-and-questions | Supabase
+https://discord.com/channels/839993398554656828/1006358244786196510
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Contribute - QEMU
+https://wiki.qemu.org/Contribute
+
+[2014] New to QEMU: A Developer's Guide to Contributing by Jeff Cody - YouTube
+https://www.youtube.com/watch?v=yjBid6iF4LE
+
+git-scripts/git-compile-check at master · codyprime/git-scripts
+https://github.com/codyprime/git-scripts/blob/master/git-compile-check
+
+Contribute - QEMU
+https://wiki.qemu.org/Contribute
+
+Contribute - QEMU
+https://wiki.qemu.org/Contribute
+
+Qemu-trivial Info Page
+https://lists.nongnu.org/mailman/listinfo/qemu-trivial
+
+QEMU · GitLab
+https://gitlab.com/qemu-project/
+
+Contribute/MailingLists - QEMU
+https://wiki.qemu.org/Contribute/MailingLists
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Welcome [Savannah]
+http://savannah.nongnu.org/
+
+qemu-devel Archives
+https://lists.gnu.org/archive/html/qemu-devel/
+
+斯坦 李 - Google 搜索
+https://www.google.com/search?q=%E6%96%AF%E5%9D%A6+%E6%9D%8E&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%96%AF%E5%9D%A6+%E6%9D%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQLhgMGIAEMgkIAhAAGAwYgAQyCggDEAAYDBgPGB7SAQg4NTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+4. 寻找两个正序数组的中位数 - 力扣（LeetCode）
+https://leetcode.cn/problems/median-of-two-sorted-arrays/
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+deno_core/core at main · denoland/deno_core
+https://github.com/denoland/deno_core/tree/main/core
+
+fix: Fix segmentation fault in tests on CPUs with PKU support by Digifox03 · Pull Request #471 · denoland/deno_core
+https://github.com/denoland/deno_core/pull/471
+
+localhost:8080/bitcask/get?key=h
+http://localhost:8080/bitcask/get?key=h
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
 # 2024-1-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
