@@ -1,4 +1,21 @@
 
+# 2024-1-24 |
+
+https://github.com/oracle/truffleruby
+
+static data-flow graphs
+
+discriminator generator GAN
+
+binary cross entropy 
+
+nn
+
+nn.Sequential
+nn.Linear
+nn.LeakyReLU
+nn.Sigmod
+
 # 2024-1-23  |
 
 find out/Default -maxdepth 1 -type f -print0 | tar --null --files-from=- -cvf chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz
@@ -1935,7 +1952,6 @@ apt snap pacman brew winget vcpkg
 
 export https_proxy=http://192.168.43.1:7890
 export http_proxy=http://192.168.43.1:7890
-
 
 export https_proxy=http://127.0.0.1:7890
 export http_proxy=http://127.0.0.1:7890

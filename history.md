@@ -1,3 +1,105 @@
+# 2024-1-24
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Clang - Open Projects
+https://clang.llvm.org/OpenProjects.html
+
+Torchy: A Tracing JIT Compiler for PyTorch
+https://web.ist.utl.pt/nuno.lopes/pubs/torchy-cc23.pdf
+
+oracle/truffleruby: A high performance implementation of the Ruby programming language, built on GraalVM.
+https://github.com/oracle/truffleruby
+
+llvm-project/mlir/utils/spirv at main · llvm/llvm-project
+https://github.com/llvm/llvm-project/tree/main/mlir/utils/spirv
+
+TableGen Overview — LLVM 18.0.0git documentation
+https://llvm.org/docs/TableGen/
+
+GSOC 2024: call for mentors and projects! - Community / GSoC - LLVM Discussion Forums
+https://discourse.llvm.org/t/gsoc-2024-call-for-mentors-and-projects/76284
+
+tar 压缩指定目录 - Google 搜索
+https://www.google.com/search?q=tar+%E5%8E%8B%E7%BC%A9%E6%8C%87%E5%AE%9A%E7%9B%AE%E5%BD%95&sca_esv=600701484&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-qDdJpu8BxpZbO2wBNSQFdCubxQA%3A1706010618530&ei=-qevZeLuH_Pd4-EP3YKa-A8&oq=tar+%E5%8E%8B%E7%BC%A9+%E6%8C%87%E5%AE%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXRhciDljovnvKkg5oyH5a6aKgIIADIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIGEAAYBRgeSOs0UKABWKswcAF4AZABAJgBlwOgAZoaqgEKMC4xNy4yLjAuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgUQIRigAcICBBAjGCfCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICFhAAGIAEGIoFGEMYsQMYgwEYsQMYgwHCAgUQABiABMICCBAAGIAEGMsBwgIIEAAYgAQYogTiAwQYACBBiAYBkAYJ&sclient=gws-wiz-serp#ip=1
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+ChatGPT
+https://chat.openai.com/c/dd7573de-71ce-44f0-b08c-1e3000b51e04
+
+tannal.glitch.me/ml-sys.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/ml-sys.md
+
+What is the meaning of hacked? · Issue #33 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/33
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+2023年秋季学期校历-教务处
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=8035
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+Chinese Military Companies Sanctions | Office of Foreign Assets Control
+https://ofac.treasury.gov/sanctions-programs-and-country-information/chinese-military-companies-sanctions
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/tokens
+
+northeast normal university - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLiivzDFg9JLOyy8qyUhNLC5RALJyE3MUSvMyy1KLijNLKgEWuA6n&q=northeast+normal+university&rlz=1C1GCEA_enJP1090JP1090&oq=Northeast+normal&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIICAEQRRgnGDsyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBggIEAAYHjIGCAkQABge0gEINTM4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%A4%AA%E7%98%A6%E4%BA%86&op=translate
+
+China: urban and rural population 2023 | Statista
+https://www.statista.com/statistics/278566/urban-and-rural-population-of-china/
+
+2023年秋季学期校历-教务处
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=8035
+
+2023年春季学期校历-教务处
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=7824
+
+2023年春季学期校历-教务处
+https://jwc.nenu.edu.cn/global_template/jiaowugailanContent.jsp?urltype=news.NewsContentUrl&wbtreeid=1666&wbnewsid=7824
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=If%20your%20university%20is%20on%20strike&op=translate
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/
+
+binary cross entropy - Google 搜索
+https://www.google.com/search?q=binary+cross+entropy&rlz=1C1GCEA_enJP1090JP1090&oq=binary+cross+entropy&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzE5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google
+https://www.google.com/
+
+
 # 2024-1-23
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
