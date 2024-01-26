@@ -1,4 +1,125 @@
+# 2024-1-26 | 
+
+
+
 # 2024-1-25 | 
+
+
+
+func Chdir(dir string) error
+func Chmod(name string, mode FileMode) error
+func Chown(name string, uid, gid int) error
+func Chtimes(name string, atime time.Time, mtime time.Time) error
+func Clearenv()
+func DirFS(dir string) fs.FS
+func Environ() []string
+func Executable() (string, error)
+func Exit(code int)
+func Expand(s string, mapping func(string) string) string
+func ExpandEnv(s string) string
+func Getegid() int
+func Getenv(key string) string
+func Geteuid() int
+func Getgid() int
+func Getgroups() ([]int, error)
+func Getpagesize() int
+func Getpid() int
+func Getppid() int
+func Getuid() int
+func Getwd() (dir string, err error)
+func Hostname() (name string, err error)
+func IsExist(err error) bool
+func IsNotExist(err error) bool
+func IsPathSeparator(c uint8) bool
+func IsPermission(err error) bool
+func IsTimeout(err error) bool
+func Lchown(name string, uid, gid int) error
+func Link(oldname, newname string) error
+func LookupEnv(key string) (string, bool)
+func Mkdir(name string, perm FileMode) error
+func MkdirAll(path string, perm FileMode) error
+func MkdirTemp(dir, pattern string) (string, error)
+func NewSyscallError(syscall string, err error) error
+func Pipe() (r *File, w *File, err error)
+func ReadFile(name string) ([]byte, error)
+func Readlink(name string) (string, error)
+func Remove(name string) error
+func RemoveAll(path string) error
+func Rename(oldpath, newpath string) error
+func SameFile(fi1, fi2 FileInfo) bool
+func Setenv(key, value string) error
+func Symlink(oldname, newname string) error
+func TempDir() string
+func Truncate(name string, size int64) error
+func Unsetenv(key string) error
+func UserCacheDir() (string, error)
+func UserConfigDir() (string, error)
+func UserHomeDir() (string, error)
+func WriteFile(name string, data []byte, perm FileMode) error
+type DirEntry
+func ReadDir(name string) ([]DirEntry, error)
+type File
+func Create(name string) (*File, error)
+func CreateTemp(dir, pattern string) (*File, error)
+func NewFile(fd uintptr, name string) *File
+func Open(name string) (*File, error)
+func OpenFile(name string, flag int, perm FileMode) (*File, error)
+func (f *File) Chdir() error
+func (f *File) Chmod(mode FileMode) error
+func (f *File) Chown(uid, gid int) error
+func (f *File) Close() error
+func (f *File) Fd() uintptr
+func (f *File) Name() string
+func (f *File) Read(b []byte) (n int, err error)
+func (f *File) ReadAt(b []byte, off int64) (n int, err error)
+func (f *File) ReadDir(n int) ([]DirEntry, error)
+func (f *File) ReadFrom(r io.Reader) (n int64, err error)
+func (f *File) Readdir(n int) ([]FileInfo, error)
+func (f *File) Readdirnames(n int) (names []string, err error)
+func (f *File) Seek(offset int64, whence int) (ret int64, err error)
+func (f *File) SetDeadline(t time.Time) error
+func (f *File) SetReadDeadline(t time.Time) error
+func (f *File) SetWriteDeadline(t time.Time) error
+func (f *File) Stat() (FileInfo, error)
+func (f *File) Sync() error
+func (f *File) SyscallConn() (syscall.RawConn, error)
+func (f *File) Truncate(size int64) error
+func (f *File) Write(b []byte) (n int, err error)
+func (f *File) WriteAt(b []byte, off int64) (n int, err error)
+func (f *File) WriteString(s string) (n int, err error)
+type FileInfo
+func Lstat(name string) (FileInfo, error)
+func Stat(name string) (FileInfo, error)
+type FileMode
+type LinkError
+func (e *LinkError) Error() string
+func (e *LinkError) Unwrap() error
+type PathError
+type ProcAttr
+type Process
+func FindProcess(pid int) (*Process, error)
+func StartProcess(name string, argv []string, attr *ProcAttr) (*Process, error)
+func (p *Process) Kill() error
+func (p *Process) Release() error
+func (p *Process) Signal(sig Signal) error
+func (p *Process) Wait() (*ProcessState, error)
+type ProcessState
+func (p *ProcessState) ExitCode() int
+func (p *ProcessState) Exited() bool
+func (p *ProcessState) Pid() int
+func (p *ProcessState) String() string
+func (p *ProcessState) Success() bool
+func (p *ProcessState) Sys() any
+func (p *ProcessState) SysUsage() any
+func (p *ProcessState) SystemTime() time.Duration
+func (p *ProcessState) UserTime() time.Duration
+type Signal
+type SyscallError
+func (e *SyscallError) Error() string
+func (e *SyscallError) Timeout() bool
+func (e *SyscallError) Unwrap() error
+
+Github Actions can auto deploy my blog.
 
 GNOME Mboalab MDAnalysis OCaml ODK-X Oppia QEMU
 
