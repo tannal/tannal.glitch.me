@@ -1,5 +1,10 @@
 # inbox
 
+pg_wal
+
+pidfile.h
+
+ls data/pg_wal/ -lash
 
 
 postmaster.pid

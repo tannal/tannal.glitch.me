@@ -1,5 +1,18 @@
 # 2024-1-26 | 
 
+https://github.com/HMCL-dev/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar
+
+serverAddr = "124.223.112.154"
+serverPort = 10086
+
+[[proxies]]
+name = "test-tcp"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 3000
+remotePort = 13000
+
+
 pathname(string) -> dentry
 
 namei pathname -> inode

@@ -1,3 +1,171 @@
+# 2024-1-26
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/languages/go
+
+Replace time with std::time in components/gfx by devjos · Pull Request #31168 · servo/servo
+https://github.com/servo/servo/pull/31168
+
+Issues · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues
+
+1846976 - Intermittent FATAL ERROR: Non-local network connections are disabled and a connection attempt to aus5.mozilla.org (35.244.181.201) was made. | mozilla::net::nsHttpChannel::OnStartRequest(nsIRequest*) /builds/worker/checkouts/gecko/netwerk/protocol/http/ns
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846976
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/participate/mentee?projectId=df065cf2-c9d2-453f-8624-7d84654d6352
+
+活动 - AcWing
+https://www.acwing.com/activity/content/31/
+
+LeetCode 6. Z 字形变换（LeetCode究极班） - AcWing
+https://www.acwing.com/video/1322/
+
+5. 最长回文子串 - 力扣（LeetCode）
+https://leetcode.cn/problems/longest-palindromic-substring/submissions/498423005/
+
+ChatGPT
+https://chat.openai.com/c/9d13fb97-bbb1-4952-a845-8c4dcc5fe32e
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+Standard library - Go Packages
+https://pkg.go.dev/std
+
+Rust-GCC/bottleboard: Where we bottle all the testsuite results together
+https://github.com/Rust-GCC/bottleboard
+
+Building a Monorepo in Golang - Earthly Blog
+https://earthly.dev/blog/golang-monorepo/
+
+go - Is it possible to get the current root of package structure as a string in golang test? - Stack Overflow
+https://stackoverflow.com/questions/31873396/is-it-possible-to-get-the-current-root-of-package-structure-as-a-string-in-golan
+
+Issues · golang/go
+https://github.com/golang/go/issues
+
+Semantics Consulting, Inc.
+https://stevedewhurst.com/once_weakly.html#ow20170328
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=ki%0A&op=translate
+
+dawid zalewski - Google 搜索
+https://www.google.com/search?q=dawid+zalewski&rlz=1C1GCEA_enJP1090JP1090&oq=Dawid+Zalewski&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMggIBRAAGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIICAkQABgTGB7SAQg0MzU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Loading numpy package in kernel freezes · Issue #22025 · denoland/deno
+https://github.com/denoland/deno/issues/22025
+
+Alon Wolf
+https://a10nw01f.github.io/
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/getting-started.html
+
+Contributing to Mozilla projects — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contributing_to_mozilla.html?utm_source=mozilla.org-contribute&utm_medium=referral&utm_campaign=contribute-page&_gl=1*iux7ta*_ga*MTM0MjIxMjQ1LjE3MDQwNzUxMjU.*_ga_MQ7767QQQW*MTcwNjIzODY1Ny4zLjAuMTcwNjIzODY1OC4wLjAuMA..
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+Contributing to Mozilla projects — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contributing_to_mozilla.html?utm_source=mozilla.org-contribute&utm_medium=referral&utm_campaign=contribute-page&_gl=1*1glvcgw*_ga*MTM0MjIxMjQ1LjE3MDQwNzUxMjU.*_ga_MQ7767QQQW*MTcwNjI0Mjg0MC40LjEuMTcwNjI0NDMyMS4wLjAuMA..
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+outreachy/fossy-2023-keynote: FOSSY 2023 keynote on the Outreachy 1,000 intern celebration and history of Outreachy.
+https://github.com/outreachy/fossy-2023-keynote
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codespaces
+https://github.com/codespaces
+
+Linux系统产生随机数/dev/random 和 /dev/urandom - 周人假的 - 博客园
+https://www.cnblogs.com/zhouhbing/p/5820899.html
+
+Programming Challenges - 30 - B-Tree Search/Insertion (C) - YouTube
+https://www.youtube.com/watch?v=mHI-7bCgDtM
+
+Overview of the Linux Virtual File System — The Linux Kernel documentation
+https://www.kernel.org/doc/html/next/filesystems/vfs.html
+
+Linux kprobe调试技术使用 - ArnoldLu - 博客园
+https://www.cnblogs.com/arnoldlu/p/9752061.html
+
+Linux内核调试技术——kprobe使用与实现_linux kprobe-CSDN博客
+https://blog.csdn.net/luckyapple1028/article/details/52972315
+
+namei linux - Google 搜索
+https://www.google.com/search?q=namei+linux&sca_esv=601657676&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-3K7e4YaPJoKxJlZ9tJewA4qYYow%3A1706252410388&ei=elizZY6wF-CPseMP6r6m2AM&ved=0ahUKEwiO1cXGvfqDAxXgR2wGHWqfCTsQ4dUDCBA&uact=5&oq=namei+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiC25hbWVpIGxpbnV4MgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMggQABiABBjLATIIEAAYCBgHGB4yBhAAGAgYHjIGEAAYCBgeMggQABgIGB4YDzIKEAAYBRgHGB4YDzIKEAAYBRgHGB4YD0jWB1C5AlidBnABeACQAQCYAZ8BoAGwBqoBAzAuNrgBA8gBAPgBAcICCRAAGAgYHhiwA8ICBxAjGLECGCfiAwQYASBBiAYBkAYB&sclient=gws-wiz-serp
+
+ImportError: cannot import name BPF · Issue #2278 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/2278
+
+【BPF入门系列-10】使用 tracepoint 跟踪文件 open 系统调用 | 深入浅出 eBPF
+https://www.ebpf.top/post/open_tracepoint_trace/
+
+DavadDi/bpf_study: bpf 学习仓库
+https://github.com/DavadDi/bpf_study
+
+DavadDi/skbtracer: skbtracer on ebpf
+https://github.com/DavadDi/skbtracer
+
+ebpf-skbtracer
+https://gist.github.com/chendotjs/194768c411f15ecfec11e7235c435fa0
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20pg_wal&type=code
+
+Postgres WAL Files and Sequence Numbers | Crunchy Data Blog
+https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+两元店
+https://xn--5hqx9equq.com/#/dashboard
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+https://github.com/fatedier/frp
+
+Misleading:MacOS/FRP.A!MTB threat description - Microsoft Security Intelligence
+https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=Misleading%3AMacOS%2FFRP.A!MTB&threatid=361239
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Tannal
+https://tannall.deno.dev/posts/mc-server
+
+Release release-3.5.5 · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/releases/tag/release-3.5.5
+
+
 # 2024-1-25
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
