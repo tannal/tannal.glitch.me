@@ -1,6 +1,56 @@
 # 2024-1-26 | 
 
+pathname(string) -> dentry
 
+namei pathname -> inode
+
+LL LL(k) LR LR(k) LALR GLR
+
+type File
+func (f *File) DataOffset() (offset int64, err error)
+func (f *File) Open() (io.ReadCloser, error)
+func (f *File) OpenRaw() (io.Reader, error)
+type FileHeader
+func FileInfoHeader(fi fs.FileInfo) (*FileHeader, error)
+func (h *FileHeader) FileInfo() fs.FileInfo
+func (h *FileHeader) ModTime() time.TimeDEPRECATED
+func (h *FileHeader) Mode() (mode fs.FileMode)
+func (h *FileHeader) SetModTime(t time.Time)DEPRECATED
+func (h *FileHeader) SetMode(mode fs.FileMode)
+type ReadCloser
+func OpenReader(name string) (*ReadCloser, error)
+func (rc *ReadCloser) Close() error
+type Reader
+func NewReader(r io.ReaderAt, size int64) (*Reader, error)
+func (r *Reader) Open(name string) (fs.File, error)
+func (r *Reader) RegisterDecompressor(method uint16, dcomp Decompressor)
+type Writer
+func NewWriter(w io.Writer) *Writer
+func (w *Writer) Close() error
+func (w *Writer) Copy(f *File) error
+func (w *Writer) Create(name string) (io.Writer, error)
+func (w *Writer) CreateHeader(fh *FileHeader) (io.Writer, error)
+func (w *Writer) CreateRaw(fh *FileHeader) (io.Writer, error)
+func (w *Writer) Flush() error
+func (w *Writer) RegisterCompressor(method uint16, comp Compressor)
+func (w *Writer) SetComment(comment string) error
+func (w *Writer) SetOffset(n int64)
+
+type Format
+func (f Format) String() string
+type Header
+func FileInfoHeader(fi fs.FileInfo, link string) (*Header, error)
+func (h *Header) FileInfo() fs.FileInfo
+type Reader
+func NewReader(r io.Reader) *Reader
+func (tr *Reader) Next() (*Header, error)
+func (tr *Reader) Read(b []byte) (int, error)
+type Writer
+func NewWriter(w io.Writer) *Writer
+func (tw *Writer) Close() error
+func (tw *Writer) Flush() error
+func (tw *Writer) Write(b []byte) (int, error)
+func (tw *Writer) WriteHeader(hdr *Header) error
 
 # 2024-1-25 | 
 

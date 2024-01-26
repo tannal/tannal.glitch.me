@@ -187,6 +187,9 @@ attach
 
 b epoll_wait
 
+ls -lash /proc/3666998/fd
+
+
 src/backend/storage/buffer/bufmgr.c
 
 

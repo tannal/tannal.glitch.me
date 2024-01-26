@@ -5,11 +5,27 @@
 
 git clone https://github.com/iovisor/bcc.git
 
+
 ```
 
 
 ```bash
 sudo apt-get install bpfcc-tools linux-headers-$(uname -r)
+sudo stackcount-bpfcc  "simple_lookup" -Pd -i 1
+
+sudo apt install linux-tools-common
+sudo apt install bpftrace
+
+
+sudo cat /sys/kernel/debug/tracing/events/tcp/tcp_retransmit_skb/format
+
+sudo bpftrace -e '
+tracepoint:tcp:tcp_retransmit_skb {
+    // Access fields using tracepoint:tcp:tcp_retransmit_skb format
+    // Replace 'field1', 'field2', etc., with actual field names
+    printf("TCP retransmit - field1: %d, field2: %d\n", args->state, args->family);
+}
+'
 
 git clone --depth 1 https://github.com/brendangregg/perf-tools
 

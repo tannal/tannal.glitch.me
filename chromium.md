@@ -81,8 +81,6 @@ tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
 
 ./out/Default/chrome --headless --disable-gpu --remote-debugging-port=9222 https://www.chromestatus.com
 
-tar -czvf postgresql_x86-64_linux.tar.gz default
-
 tar -czvf ../../../build/chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz Default/
 
 
