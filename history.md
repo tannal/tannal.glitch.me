@@ -1,3 +1,167 @@
+# 2024-1-27
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Dmitry Soshnikov - Education
+http://dmitrysoshnikov.com/
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/OpenProjects.html#gsoc23
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1874260 - document.referrer is empty string on localhost when coming from secure site
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874260
+
+1630325 - livelog does not delete its temp files
+https://bugzilla.mozilla.org/show_bug.cgi?id=1630325
+
+Authlib Injector | Blessing Skin 用户手册
+https://blessing.netlify.app/yggdrasil-api/authlib-injector.html#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%99%A8
+
+稳定版更新日志 - Hello Minecraft! Launcher 帮助文档
+https://docs.hmcl.net/changelog/stable.html
+
+authlib-injector - Google 搜索
+https://www.google.com/search?sca_esv=b2f7435107116244&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09aaPWjtiRNgKpMs37_XKtEzUhenw:1706284107116&q=authlib-injector&sa=X&ved=2ahUKEwjKq9zQs_uDAxWQSGcHHc-CAOMQ1QJ6BAgeEAE&biw=1536&bih=738&dpr=1.25
+
+bangbang93正在创作bmclapi | 爱发电
+https://afdian.net/a/bangbang93
+
+Releases · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/releases
+
+BMCLAPI - Google 搜索
+https://www.google.com/search?q=BMCLAPI&rlz=1C1GCEA_enJP1090JP1090&oq=BMCLAPI&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGDzSAQc2NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Outreachy Alums, December 2023 to March 2024
+https://www.outreachy.org/alums/2023-12/
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+小米流量卡 - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B5%81%E9%87%8F%E5%8D%A1&sca_esv=601903426&sxsrf=ACQVn0_iP3Rt5OHiK3wLZWM95th8zFyJhA%3A1706322752313&source=hp&ei=QGu0ZbfSEI7n4-EP4MyMwAw&iflsig=ANes7DEAAAAAZbR5UEQjJPTEenVN_3VVx5uydpqCcRx7&ved=0ahUKEwi38pXMw_yDAxWO8zgGHWAmA8gQ4dUDCA0&uact=5&oq=%E5%B0%8F%E7%B1%B3%E6%B5%81%E9%87%8F%E5%8D%A1&gs_lp=Egdnd3Mtd2l6Ig_lsI_nsbPmtYHph4_ljaEyBRAAGIAESIYtUABYnCxwBHgAkAEAmAGbAaABsA6qAQQwLjE0uAEDyAEA-AEBqAIKwgIMEC4YgAQYigUYExgnwgIEECMYJ8ICChAjGIAEGIoFGCfCAggQABiABBixA8ICDhAuGIAEGIoFGLEDGIMBwgIIEC4YsQMYgATCAhEQLhiABBixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEYrwHCAg4QLhiABBixAxjHARjRA8ICBxAjGOoCGCfCAgsQLhiABBixAxiDAcICDhAuGIMBGLEDGIAEGIoFwgIOEAAYgAQYigUYsQMYgwHCAggQLhiABBixA8ICBRAuGIAEwgIOEC4YgAQYywEYxwEY0QPCAggQABiABBjLAcICCxAuGMcBGNEDGIAE&sclient=gws-wiz
+
+Getting Started with the LLVM System — LLVM 19.0.0git documentation
+https://llvm.org/docs/GettingStarted.html
+
+'vcpkg install zlib' CMake integration test failed · Issue #4817 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/4817
+
+Building gollvm on Windows 10 (i386): unable to determine host target triple; string sub-command REGEX, mode MATCH needs at least 5 arguments; Unknown architecture host - Usage - CMake Discourse
+https://discourse.cmake.org/t/building-gollvm-on-windows-10-i386-unable-to-determine-host-target-triple-string-sub-command-regex-mode-match-needs-at-least-5-arguments-unknown-architecture-host/1654/5
+
+unix - Time command equivalent in PowerShell - Stack Overflow
+https://stackoverflow.com/questions/19976046/time-command-equivalent-in-powershell
+
+Embedded LLD not working - Beginners - LLVM Discussion Forums
+https://discourse.llvm.org/t/embedded-lld-not-working/75227/2
+
+Build error while linking `lib/libomp.so` when using FullLTO on llvm-git · Issue #63830 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/63830
+
+The future of ccache's support for running on Windows · ccache/ccache · Discussion #447
+https://github.com/ccache/ccache/discussions/447
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+SingleStore Labs
+https://github.com/singlestore-labs
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+2023 LLVM Dev Mtg - Starting LLVM Development in Visual Studio on Windows - YouTube
+https://www.youtube.com/watch?v=zlD2MpU7XIw
+
+Starting LLVM Development in Visual Studio on Windows
+https://llvm.org/devmtg/2023-10/slides/tutorials/Smith-StartingLLVMDevelopmentinVisualStudioOnWindows.pdf
+
+Building the Bootstrap Clang - YouTube
+https://www.youtube.com/watch?v=T8zDXvBvaiU
+
+justechol github - Google 搜索
+https://www.google.com/search?q=justechol+github&rlz=1C1GCEA_enJP1090JP1090&oq=justechol+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCAgDEAAYExgeMgoIBBAAGA8YExgeMggIBRAAGBMYHjIICAYQABgTGB4yCggHEAAYDxgTGB4yCAgIEAAYExgeMggICRAAGBMYHtIBCDI0NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jonathan Smith github llvm - Google 搜索
+https://www.google.com/search?q=Jonathan+Smith+github+llvm&sca_esv=601961117&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-WjzIb5X0Phl8v2kAMfE0XwuBQqw%3A1706343949471&ei=Db60ZamoHL2Z4-EP5OKy-Ak&ved=0ahUKEwjp4uPHkv2DAxW9zDgGHWSxDJ8Q4dUDCBA&uact=5&oq=Jonathan+Smith+github+llvm&gs_lp=Egxnd3Mtd2l6LXNlcnAiGkpvbmF0aGFuIFNtaXRoIGdpdGh1YiBsbHZtMggQABiABBiiBDIIEAAYgAQYogRIlQdQU1iCBXABeACQAQCYAccBoAGUBqoBAzAuNbgBA8gBAPgBAcICBRAhGKABwgIHECEYChigAeIDBBgBIEGIBgE&sclient=gws-wiz-serp
+
+visual studio - Building LLVM with CMake error: NMake Makefiles does not support toolset specification - Stack Overflow
+https://stackoverflow.com/questions/69976611/building-llvm-with-cmake-error-nmake-makefiles-does-not-support-toolset-specifi
+
+parallel link jobs - Google 搜索
+https://www.google.com/search?q=parallel+link+jobs&rlz=1C1GCEA_enJP1090JP1090&oq=parallel+link+jobs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGAUYChgeMggIAxAAGAUYHtIBCDUxMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+c++ - How to setup VS Code project for LLVM building - Stack Overflow
+https://stackoverflow.com/questions/68947981/how-to-setup-vs-code-project-for-llvm-building
+
+Remote LLVM development with VS Code | Red Hat Developer
+https://developers.redhat.com/blog/2021/04/22/remote-llvm-development-with-visual-studio-code#launching_the_configuration_for_llvm_lit
+
+cmake/config-ix.cmake:401 (get_host_triple) error when trying to build LLVM with CMake on Windows - Stack Overflow
+https://stackoverflow.com/questions/66087509/cmake-config-ix-cmake401-get-host-triple-error-when-trying-to-build-llvm-with
+
+banach-space/llvm-tutor: A collection of out-of-tree LLVM passes for teaching and learning
+https://github.com/banach-space/llvm-tutor
+
+How to Install and Configure a Network File System (NFS) Server and Client on Ubuntu Server - YouTube
+https://www.youtube.com/watch?v=-6UIi-LIABk
+
+(4 封私信 / 80 条消息) 做浏览器内核开发，你们公司给你配了什么样的开发机器？ - 知乎
+https://www.zhihu.com/question/300896224
+
+Goma for Chromium contributors
+https://chromium.googlesource.com/infra/goma/client/+/HEAD/doc/early-access-guide.md
+
+Distcc: A fast, free distributed C/C++ compiler | Hacker News
+https://news.ycombinator.com/item?id=36148475
+
+#general > iOS in EU now allows for alternative Browser Engines - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/iOS.20in.20EU.20now.20allows.20for.20alternative.20Browser.20Engines
+
+Using alternative browser engines in the European Union - Support - Apple Developer
+https://developer.apple.com/support/alternative-browser-engines/
+
+Fully Implement Gamepad API · Issue #31179 · servo/servo
+https://github.com/servo/servo/issues/31179
+
+Releases · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases
+
+LLVM Debian/Ubuntu packages
+https://apt.llvm.org/
+
+auth0.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid email profile offline_access model.request model.read organization.read organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchat.openai.com%2Fapi%2Fauth%2Fcallback%2Fauth0&audience=https%3A%2F%2Fapi.openai.com%2Fv1&prompt=login&state=iHaou14HvuOVgGHxlRN9hEm8dqjpzf-Zug6TjhNHMLs&code_challenge=1-Pn40wXwSHzBDXcl2RdHnA9RBhbChgUZN27NS_2t1c&code_challenge_method=S256
+https://auth0.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchat.openai.com%2Fapi%2Fauth%2Fcallback%2Fauth0&audience=https%3A%2F%2Fapi.openai.com%2Fv1&prompt=login&state=iHaou14HvuOVgGHxlRN9hEm8dqjpzf-Zug6TjhNHMLs&code_challenge=1-Pn40wXwSHzBDXcl2RdHnA9RBhbChgUZN27NS_2t1c&code_challenge_method=S256
+
+Dmitry Soshnikov - Education
+http://dmitrysoshnikov.com/
+
+[3/383] Linking CXX shared library bin\LLVM-19git.dll FAILED: bin/LLVM-19git.dll lib/LLVM-19git.lib - Google 搜索
+https://www.google.com/search?q=%5B3%2F383%5D+Linking+CXX+shared+library+bin%5CLLVM-19git.dll+FAILED%3A+bin%2FLLVM-19git.dll+lib%2FLLVM-19git.lib&rlz=1C1GCEA_enJP1090JP1090&oq=%5B3%2F383%5D+Linking+CXX+shared+library+bin%5CLLVM-19git.dll+FAILED%3A+bin%2FLLVM-19git.dll+lib%2FLLVM-19git.lib&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Mastering the NDK with Android Studio 1.3+ and the gradle experimental plugin - Hallade Xavier - YouTube
+https://www.youtube.com/watch?v=GbTe0BTuNaU
+
+LLVM Language Reference Manual — LLVM 19.0.0git documentation
+https://llvm.org/docs/LangRef.html#langref-datalayout
+
 # 2024-1-26
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,5 +1,27 @@
 # 2024-1-27 | 
 
+llvm-config 
+
+sudo update-alternatives --list cc
+
+llvm.org/docs/LangRef.html
+https://llvm.org/docs/LangRef.html#langref-datalayout
+
+type means which operation to apply and how much memory to allocate
+
+```ave
+
+(+ 5 10)
+
+(set x 15)
+
+(if (> x 10)
+
+  (print "ok"))
+  (print "err")
+
+```
+
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
 sudo ./llvm.sh <version number>

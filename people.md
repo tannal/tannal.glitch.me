@@ -10,7 +10,7 @@ https://infrequently.org/
 
 ## from 2024-1-7
 
-http://dmitrysoshnikov.com/ pl llvm interpreter
+ http://dmitrysoshnikov.com/ pl llvm interpreter
 
 https://ggerganov.github.io/ machine learning cpp 
 
