@@ -1,3 +1,33 @@
+# 2024-1-27 | 
+
+wget https://apt.llvm.org/llvm.sh
+chmod +x llvm.sh
+sudo ./llvm.sh <version number>
+
+sudo apt install nfs-kernel-server
+systemctl status nfs-server
+
+/home/tannal/ 192.168.43.246(rw, sync, no_subtree_check)
+
+deb http://apt.llvm.org/bookworm/ llvm-toolchain-bookworm-18 main
+deb-src http://apt.llvm.org/bookworm/ llvm-toolchain-bookworm-18 main
+
+
+CMakePresets.json – project-provided
+CMakeUserPresets.json – user-specific
+
+"LLVM_INCLUDE_BENCHMARKS": false,
+ "LLVM_INCLUDE_EXAMPLES": false,
+ "LLVM_INCLUDE_RUNTIMES": false,
+ "LLVM_INCLUDE_TESTS": false,
+ "LLVM_ENABLE_PROJECTS": "clang;lld",
+ "LLVM_PARALLEL_LINK_JOBS": "1",
+ "LLVM_TARGETS_TO_BUILD": "X86"
+
+llvm compilers
+plrt v8 jsc toit dart spidermonkey cpython
+
+
 # 2024-1-26 | 
 
 https://github.com/HMCL-dev/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar
