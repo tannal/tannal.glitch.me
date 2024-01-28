@@ -1,3 +1,12 @@
+# 2024-1-28 | 
+
+export CC=/usr/bin/clang
+export CXX=/usr/bin/clang++
+
+cmake -S . -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE=Debug -G Ninja -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -DCMAKE_C_COMPILER=/usr/bin/clang
+
+
+
 # 2024-1-27 | 
 
 llvm-config 
