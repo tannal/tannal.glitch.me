@@ -1,5 +1,84 @@
 # 2024-1-28 | 
 
+https://www.mingw-w64.org/
+
+https://github.com/skeeto/w64devkit
+
+https://duckdb.org/
+
+winget install --id=mesonbuild.meson  -e
+
+src/include/storage/table/tuple.h
+
+src/include/storage/page/page.h
+
+```
+	#lang racket
+(define email (foldl string-append "" '("me" "." "pm" "@" "ipnon")))
+
+(define zero "If you can imagine a society in which the computer-robot is the only menial, you can imagine anything.")
+
+(define one "War is the best game and the worst life.")
+
+(define two "For I know of nothing as profoundly exciting as to glimpse for the first time some new and basic truth.")
+
+(define three "When I got to Cambridge, I was faced with the problem of looking at a question to which no one knew the answer—but I wasn’t willing to face it. When I left Cambridge, I didn’t know how to face it very well, but I understood that this was my job; this was the change that occurred that year.")
+
+(define four "So here is an even more striking statistic: 0% of that first batch had a terrible experience. They had ups and downs, like every startup, but I don't think any would have traded it for a job in a cubicle. And that statistic is probably not an anomaly. Whatever our long-term success rate ends up being, I think the rate of people who wish they'd gotten a regular job will stay close to 0%.")
+
+(define five "They asked me how well I understood theoretical physics. I said I had a theoretical degree in physics. They said welcome aboard.")
+
+(define six "Always with you what cannot be done.")
+
+(define seven "But whoever is acquainted with such a change in men, and can render a man humid and dry, hot and cold by regimen, could also cure this disease, if he recognizes the proper season for administering his remedies, without minding purifications, spells, and all other illiberal practices of a like kind.")
+
+(define eight "松茸やかぶれた程は松の形")
+
+(define nine "This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinguishes the humanity we hold within ourselves?")
+
+(define ten "If you chase two rabbits, you will lose them both.")
+
+(define eleven "Clear and plain and coming through fine. I'm coming through fine too, eh? Good, then. Well then as you say we're both coming through fine. Good. Well it's good that you're fine and I'm fine. I agree with you. It's great to be fine.")
+
+(define twelve "And he came and found them asleep again: for their eyes were heavy.")
+
+(define thirteen "I believe that men are here to grow themselves into the full, into the best good that they can be, at least this is what I want to do. This is my belief: We are supposed to, I'm supposed to grow into the best good that I can get to. As I'm going there, becoming this, and when I become and forever become, this will just come out of the horn. Whatever that's going to be, that's what it will be. I'm not so much interested in trying to say what it's going to be, I don't know, but I just hope; I realize good can only bring good.")
+
+(define fourteen "You can always tell a Harvard man, but you can't tell him much.")
+
+(define fifteen "Live in the future, then build what’s missing.")
+
+(define sixteen "Don’t you find that there’s a certain mad beauty in unorthodoxy?")
+
+(define seventeen "From the first day we met, it was surprising to find that there were so many similarities in our thinking … the day I met Isamu Noguchi I realized that he was a man who was nearly as strange and opinionated as I was.")
+
+(define eighteen "Nothing can exist in isolation. Architecture and garden, garden and sculpture, sculpture and people, people and community … must each be closely and mutually related. In these connections may lie a new ethics for artists.")
+
+(define nineteen "I solemnly swear that I am up to no good.")
+
+(define twenty "Heaven forbid! That would be the greatest misfortune of all! To find a man agreeable whom one is determined to hate! Do not wish me such an evil.")
+
+(define twenty-one "What good is a philosopher who doesn't hurt anybody's feelings?")
+
+(define twenty-two "In my whole life, I have known no wise people (over a broad subject area) who didn't read all the time--none.")
+
+(define twenty-three "Please put me out of my Missouri.")
+```
+
+https://news.ycombinator.com/from?site=glandium.org
+
+https://calendar.perfplanet.com/2023/
+
+RTT from Dong Guan, GuangDong to ShangHai is around 92 80 69 63
+
+RTT from Dong Guan, GuangDong to BeiJing is around 103 71 79 80
+
+RTT from Dong Guan, GuangDong to Washington is around 236 352 280 188
+
+https://hpbn.co/
+
+If you look at the final part of the book “Browser APIs and Protocols” it includes WebSockets and WebRTC. It looks completely up to date. You can handle practically any Web network problem with some combination of XHR, WebSockets and WebRTC.
+
 https://github.com/google-deepmind/alphageometry
 
 export CC=/usr/bin/clang

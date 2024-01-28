@@ -1,3 +1,173 @@
+# 2024-1-28
+
+postgresql.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+DavadDi (DavadDi) / Repositories
+https://github.com/DavadDi?tab=repositories
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGPT
+https://chat.openai.com/c/1a40e54f-bed4-48a2-8564-5d42d507b462
+
+Courses | Brilliant
+https://brilliant.org/courses/
+
+tannal (tannal)
+https://github.com/tannal/
+
+IP Address Lookup | Geolocation
+https://www.iplocation.net/ip-lookup
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+15445645 at Carnegie Mellon University | Piazza
+https://piazza.com/cmu/fall2023/15445645
+
+Project #0 - C++ Primer | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/project0/
+
+cmu-db/bustub: The BusTub Relational Database Management System (Educational)
+https://github.com/cmu-db/bustub
+
+Switching between GCC and Clang/LLVM using CMake - Stack Overflow
+https://stackoverflow.com/questions/7031126/switching-between-gcc-and-clang-llvm-using-cmake
+
+c++ - CMAKE_C_COMPILER not set, after EnableLanguage - Stack Overflow
+https://stackoverflow.com/questions/70524164/cmake-c-compiler-not-set-after-enablelanguage
+
+bash - How to get the pid of the last executed command in shell script? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/30370/how-to-get-the-pid-of-the-last-executed-command-in-shell-script
+
+tannal (tannal)
+https://github.com/tannal/
+
+• Discord | #help | Vite Land
+https://discord.com/channels/804011606160703521/1019670660856942652
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+(4 封私信 / 80 条消息) 如何评价英特尔终止 Optane 持久内存业务？学术圈的研究是否还可持续？ - 知乎
+https://www.zhihu.com/question/545901435
+
+Google - Site Reliability Engineering
+https://sre.google/sre-book/data-integrity/
+
+Yellowbrick Data Warehouse | The Modern Enterprise Cloud Data Warehouse
+https://yellowbrick.com/
+
+scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra
+https://github.com/scylladb/scylladb
+
+WiredTiger Storage Engine — MongoDB Manual
+https://www.mongodb.com/docs/manual/core/wiredtiger/
+
+CS 144: Introduction to Computer Networking
+https://cs144.github.io/
+
+15441 641 youtube - Google 搜索
+https://www.google.com/search?q=15441+641+youtube&sca_esv=602116154&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08mg5QNUqHq4gdkQG-x0UJpvM-9Yw%3A1706431315788&ei=UxO2ZfHWL5Wr4-EPpoSaiAI&ved=0ahUKEwixzKSD2P-DAxWV1TgGHSaCBiEQ4dUDCBA&uact=5&oq=15441+641+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiETE1NDQxIDY0MSB5b3V0dWJlSLhZUAtYpFdwAngAkAEAmAGcAaABxQiqAQMwLji4AQPIAQD4AQHCAggQABiABBiiBMICBBAhGAriAwQYASBBiAYB&sclient=gws-wiz-serp#ip=1
+
+Fan Pu Zeng
+https://fanpu.io/
+
+CMU Online | Fan Pu Zeng
+https://fanpu.io/cmu-online/
+
+CMU 15-441/641: Networking and the Internet, Fall 2021
+https://computer-networks.github.io/fa21/schedule.html
+
+黄能富 - 导师评价
+https://www.yankong.org/review?professor=870cd498d6883f68075ca5764be9a67dc60557f4
+
+This is my third post.
+https://tannal.github.io/blog/thirdpost/
+
+High Performance Browser Networking | Hacker News
+https://news.ycombinator.com/item?id=35937554
+
+Planet Performance
+https://www.perfplanet.com/
+
+Andy Davies – Web Performance Consultant
+https://andydavies.me/
+
+Gitea Diaries: Part 1 — Developer Blog
+https://code.blender.org/2022/07/gitea-diaries-part-1/
+
+HTTP/2 push is tougher than I thought - JakeArchibald.com
+https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/
+
+About - Systems Approach
+https://systemsapproach.substack.com/about
+
+Larry L. Peterson | Office of the Dean of the Faculty
+https://dof.princeton.edu/people/larry-l-peterson
+
+Bruce Davie
+http://nms.csail.mit.edu/~bdavie/
+
+Hari Balakrishnan
+http://nms.csail.mit.edu/~hari/
+
+Hari Balakrishnan
+http://nms.csail.mit.edu/~hari/
+
+SlidePlayer - Upload and Share your PowerPoint presentations
+https://slideplayer.com/slide/download/
+
+DuckDB - An in-process SQL OLAP database management system
+https://duckdb.org/
+
+Portable Database Image - Wikipedia
+https://en.wikipedia.org/wiki/Portable_Database_Image
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+operating system - Are pages only secondary memory like hard drives, or are they used for RAM too? - Stack Overflow
+https://stackoverflow.com/questions/36831970/are-pages-only-secondary-memory-like-hard-drives-or-are-they-used-for-ram-too
+
+debug event server - Google 搜索
+https://www.google.com/search?q=debug+event+server&sca_esv=602134022&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-JWYARurolx6hVYPOFGsiFH7WKbg%3A1706438299961&ei=my62ZbzpOfP04-EPrdWOgAo&ved=0ahUKEwj8osyF8v-DAxVz-jgGHa2qA6AQ4dUDCBA&uact=5&oq=debug+event+server&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmRlYnVnIGV2ZW50IHNlcnZlcjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYHhgPSKghUOsMWKkgcAF4AZABAJgBtQGgAdsNqgEEMC4xMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBRAAGIAEwgIEEAAYHsICBhAAGB4YCsICBhAAGAUYHsICDBAAGAUYHhgMGA8YCuIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+c - Debugging child process after fork (follow-fork-mode child configured) - Stack Overflow
+https://stackoverflow.com/questions/15126925/debugging-child-process-after-fork-follow-fork-mode-child-configured
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Tencent Cloud VNC - 10.0.12.15
+https://workbench.cloud.tencent.com/vnc?regionId=4&instanceId=lhins-55wyqhpe&source=lighthouse&InstanceVncUrl=wss%3A%2F%2Fshvnc.qcloud.com%3A26789%2Fvnc%3Fs%3DUjhKQ0xiWE1QMjM4RDJWTzV3OStLZXl0Z3d1MnpEd2RCOVJHc0RJY055bmFjWXRjM0JRc01LSFhNL3hUbkNRcjBmbWpLYXVCYjh3SkFvbjd6L2FOOFFveVpBMERrN000Y1FrS0dUcndMbFU9%26password%3D%26isWindows%3Dfalse%26isUbuntu%3Dtrue
+
+Release 1.21.0 · skeeto/w64devkit
+https://github.com/skeeto/w64devkit/releases/tag/v1.21.0
+
+Getting Meson
+https://mesonbuild.com/Getting-meson.html
+
+[Package Request]: mingw-w64 · Issue #122962 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/122962
+
+What is considered best practice to get LLVM working on Windows? : r/Compilers
+https://www.reddit.com/r/Compilers/comments/qm0fft/what_is_considered_best_practice_to_get_llvm/
+
+Building Zig on Windows · ziglang/zig Wiki
+https://github.com/ziglang/zig/wiki/Building-Zig-on-Windows
+
+Codespaces
+https://github.com/codespaces
+
 # 2024-1-27
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

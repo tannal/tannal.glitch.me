@@ -1,5 +1,45 @@
 # inbox
 
+chrome://omnibox/
+
+
+```
+Thread 2.1 "postgres" hit Breakpoint 1, heapgetpage (sscan=sscan@entry=0x55ea73aae8f0, block=block@entry=0) at heapam.c:378
+378     heapam.c: No such file or directory.
+(gdb) bt
+#0  heapgetpage (sscan=sscan@entry=0x55ea73aae8f0, block=block@entry=0) at heapam.c:378
+#1  0x000055ea72380b2f in heapgettup_pagemode (scan=scan@entry=0x55ea73aae8f0, dir=ForwardScanDirection, nkeys=1, 
+    key=0x55ea73aae250) at heapam.c:879
+#2  0x000055ea7238165d in heap_getnextslot (sscan=0x55ea73aae8f0, direction=<optimized out>, slot=0x55ea73aae4a0)
+    at heapam.c:1142
+#3  0x000055ea7239808f in table_scan_getnextslot (slot=<optimized out>, direction=ForwardScanDirection, 
+    sscan=<optimized out>) at ../../../../src/include/access/tableam.h:1066
+#4  systable_getnext (sysscan=sysscan@entry=0x55ea73aaddc0) at genam.c:533
+#5  0x000055ea7288ec59 in SearchCatCacheMiss (cache=cache@entry=0x55ea73a7a680, nkeys=nkeys@entry=1, 
+    hashValue=hashValue@entry=3830081846, hashIndex=hashIndex@entry=2, v1=v1@entry=403, v2=v2@entry=0, v3=0, v4=0)
+    at catcache.c:1431
+#6  0x000055ea7288efc2 in SearchCatCacheInternal (cache=0x55ea73a7a680, nkeys=nkeys@entry=1, v1=403, 
+    v2=v2@entry=0, v3=v3@entry=0, v4=v4@entry=0) at catcache.c:1351
+#7  0x000055ea7288fae6 in SearchCatCache1 (cache=<optimized out>, v1=<optimized out>) at catcache.c:1219
+--Type <RET> for more, q to quit, c to continue without paging--
+#8  0x000055ea728a4529 in SearchSysCache1 (cacheId=cacheId@entry=2, key1=<optimized out>) at syscache.c:827
+#9  0x000055ea7289f82a in RelationInitIndexAccessInfo (relation=relation@entry=0x7f2b24e36f88) at relcache.c:1456
+#10 0x000055ea728a00a8 in RelationBuildDesc (targetRelId=2965, insertIt=insertIt@entry=true) at relcache.c:1208
+#11 0x000055ea728a1389 in RelationIdGetRelation (relationId=<optimized out>, relationId@entry=2965)
+    at relcache.c:2109
+```
+
+vacuum garbage collection reorder page sweep clean up
+
+heapam heap access method
+
+```c
+void
+heap_insert(Relation relation, HeapTuple tup, CommandId cid,
+			int options, BulkInsertState bistate)
+
+```
+
 pg_wal
 
 pidfile.h
@@ -152,6 +192,10 @@ mkdir _install
 ./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix="/home/tannal/tannalwork/projects/postgres/_install" 
 
 
+sudo apt install bison
+
+./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix="/home/ubuntu/tannalwork/projects/postgres/_install" 
+
 sudo apt install libreadline-dev
 
 make -j20
@@ -171,16 +215,17 @@ pg_ctl -D data -l logfile start
 ps -aux | grep postgres
 
 ./psql -U tannal -w -d postgres
+./psql -U ubuntu -w -d postgres
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/tannalwork/projects/postgres/_install/lib/
 
-sudo apt install meson
+sudo apt install meson bison flex
 
 make distclean
 
 meson setup build
-meson setup --prefix=/desired/install/path build
+meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
 
 ln -sfn ./build/compile_commands.json compile_commands.json 
 
