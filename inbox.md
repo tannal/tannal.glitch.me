@@ -1,5 +1,8 @@
 # 2024-1-28 | 
 
+include("C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake")
+
+
 https://www.mingw-w64.org/
 
 https://github.com/skeeto/w64devkit
@@ -4151,6 +4154,7 @@ git config --global http.sslverify false
 git config --global imap.sslverify false
 
 .\vcpkg\bootstrap-vcpkg.bat
+.\bootstrap-vcpkg.bat
 
 .\vcpkg integrate install
 
