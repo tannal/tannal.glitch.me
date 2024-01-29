@@ -26,7 +26,7 @@ llama利用了C++实现的ggml机器学习库
 
 > Overall I think right now the best investment of my time is to simply focus on the basics: faster matrix multiplication, more efficient quantization, and better training code.
 
-# reference
+# Reference
 
 https://github.com/ggerganov/ggml Tensor library for machine learning
 
@@ -36,7 +36,7 @@ https://github.com/ggerganov/llama.cpp/discussions/4534#discussioncomment-791166
 
 https://github.com/ggerganov/llama.cpp/issues/33
 
-# mi
+# Miscellaneous
 
 static computational graphs
 
