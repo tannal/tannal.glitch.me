@@ -1,5 +1,83 @@
 # 2024-1-29
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+404 Not Found
+http://www.mat.unb.br/clausahm/area/AnAlg-07.2d/Referencias/HowToThinkAboutAlgorithms-Edmonds.pdf
+
+Roadmap
+https://neetcode.io/roadmap
+
+LeetCode - The World's Leading Online Programming Learning Platform
+https://leetcode.com/
+
+404 - Page not found
+https://www.thecodinginterview.com/
+
+Stevey's Blog Rants: Get that job at Google
+https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+
+502 Proxy Error
+https://www.cs.princeton.edu/courses/archive/spring23/cos226/
+
+labuladong/fucking-algorithm at english
+https://github.com/labuladong/fucking-algorithm/tree/english?tab=readme-ov-file
+
+Hard questions don't usually show up in interviews
+https://leetcodetherapy.com/hard-questions
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china
+
+(1) AlgoExpert - 160 Coding Interview Questions - TutFlix - Free Education Community
+https://tutflix.org/threads/algoexpert-160-coding-interview-questions.26854/page-8#post-130056
+
+Revisions to How to Deal with Algorithm/Data Structures Problems in Interview Process? [closed] - Stack Overflow
+https://stackoverflow.com/posts/1499613/revisions
+
+Introduction to the Theory of Computation: Sipser, Michael: 9780534950972: Amazon.com: Books
+https://www.amazon.com/dp/0534950973
+
+Home Page For Umesh Vazirani
+https://people.eecs.berkeley.edu/~vazirani/
+
+Mathematics and Plausible Reasoning - Wikipedia
+https://en.wikipedia.org/wiki/Mathematics_and_Plausible_Reasoning
+
+Review: [Untitled] on JSTOR
+https://www.jstor.org/stable/2310741?origin=crossref
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=plausible%20reasoning&sort=byPopularity&type=story
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox#Moravec's_paradox
+
+Meno - Wikipedia
+https://en.wikipedia.org/wiki/Meno
+
+There Is No Thinking without Memorizing - Public Discourse
+https://www.thepublicdiscourse.com/2023/02/87069/
+
+Moravec's paradox | Hacker News
+https://news.ycombinator.com/item?id=4923299
+
+isbn:0805078533 - Google 搜索
+https://www.google.com/search?hl=zh-CN&tbo=p&tbm=bks&q=isbn:0805078533
+
+Scientists See Advances in Deep Learning, a Part of Artificial Intelligence - The New York Times
+https://www.nytimes.com/2012/11/24/science/scientists-see-advances-in-deep-learning-a-part-of-artificial-intelligence.html
+
+Separable processing of consonants and vowels | Nature
+https://www.nature.com/articles/35000206
+
 1610.01178.pdf
 https://arxiv.org/pdf/1610.01178.pdf
 
