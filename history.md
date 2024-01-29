@@ -1,3 +1,152 @@
+# 2024-1-29
+
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+clang: Class Hierarchy
+https://clang.llvm.org/doxygen/inherits.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+多领域开发兴趣者
+https://chat.openai.com/c/1a40e54f-bed4-48a2-8564-5d42d507b462
+
+Courses | Brilliant
+https://brilliant.org/courses/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+The Unreal Masterclass - TutFlix - Free Education Community
+https://tutflix.org/resources/the-unreal-masterclass.10534/
+
+Rainer Stropek - Leonding, Österreich, software architects, Higher Technical School for MIS, Leonding, University of Derby | about.me
+https://rainerstropek.me/
+
+COMP4300 - Game Programming - Lecture 06 - EntityManager + Game Math - YouTube
+https://www.youtube.com/watch?v=iPJ0EETgIuQ&list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK&index=7
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+tcp and udp port 1194 - Google 搜索
+https://www.google.com/search?q=tcp+and+udp+port+1194&rlz=1C1GCEA_enJP1090JP1090&oq=tcp+and+udp+port+1&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDxgeMgYIABBFGDkyCAgBEAAYDxgeMggIAhAAGA8YHtIBCDYwOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+IP Address Lookup | Geolocation
+https://www.iplocation.net/ip-lookup
+
+frp/client/proxy/udp.go at 8023d147b0b4782d89935802329270c629f0f5d2 · fatedier/frp
+https://github.com/fatedier/frp/blob/8023d147b0b4782d89935802329270c629f0f5d2/client/proxy/udp.go#L128
+
+fatedier/frp at 8023d147b0b4782d89935802329270c629f0f5d2
+https://github.com/fatedier/frp/tree/8023d147b0b4782d89935802329270c629f0f5d2
+
+udp 端口测试 - Google 搜索
+https://www.google.com/search?q=udp+%E7%AB%AF%E5%8F%A3%E6%B5%8B%E8%AF%95&rlz=1C1GCEA_enJP1090JP1090&oq=udp+&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjA3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+udpdump - Google 搜索
+https://www.google.com/search?q=udpdump&rlz=1C1GCEA_enJP1090JP1090&oq=udpdump&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMggIBRAAGBMYHjIICAYQABgTGB4yCggHEAAYChgTGB4yCggIEAAYChgTGB4yCggJEAAYChgTGB7SAQgxNDQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+• Discord | #clang | LLVM
+https://discord.com/channels/636084430946959380/636732781086638081
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Excalidraw
+https://excalidraw.com/
+
+FSCloud
+https://web.fscloud.cc/#/login
+
+百度一下，你就知道
+https://www.baidu.com/
+
+FSCloud
+https://web.fscloud.cc/#/plan/1
+
+pip install gdown - Google 搜索
+https://www.google.com/search?q=pip+install+gdown&rlz=1C1GCEA_enJP1090JP1090&oq=pip+install+gdown&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB6oAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Resources
+https://tutflix.org/resources/
+
+texture wikipedia - Google 搜索
+https://www.google.com/search?q=texture+wikipedia&sca_esv=602237750&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn099m3eu2mrtaYkqjmv_d7IY4818mg%3A1706497652153&ei=dBa3ZZ_9CKi-juMPsqmB8AM&oq=texture+wikip&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXRleHR1cmUgd2lraXAqAggAMggQABiABBjLATIKEAAYHhgNGA8YCjIGEAAYCBgeMgYQABgIGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB5IqCpQAFiHI3AAeACQAQCYAf0BoAGNCaoBBTAuNS4yuAEDyAEA-AEBwgIHECMYsQIYJ8ICChAAGIAEGMsBGArCAgoQABiABBiKBRhDwgIOEC4YgAQYywEYxwEYrwHCAggQABgeGA8YCuIDBBgAIEE&sclient=gws-wiz-serp#ip=1
+
+yjs-demos/quill/quill.html at main · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/blob/main/quill/quill.html
+
+18.04 - Systemd service, Working Directory not change the directory - Ask Ubuntu
+https://askubuntu.com/questions/1063153/systemd-service-working-directory-not-change-the-directory
+
+editor - How do I move to end of line in Vim? - Stack Overflow
+https://stackoverflow.com/questions/105721/how-do-i-move-to-end-of-line-in-vim
+
+linux - Failed at step EXEC spawning: No such file or directory - Super User
+https://superuser.com/questions/1321750/failed-at-step-exec-spawning-no-such-file-or-directory
+
+Chatgpt_web 部署 | 小袁爱散步的杂文博客
+https://yuanshisen.com/Chatgpt_web%20%E9%83%A8%E7%BD%B2/index.html
+
+node.js - Running npm start from ExecStart in systemctl service file - Stack Overflow
+https://stackoverflow.com/questions/64353905/running-npm-start-from-execstart-in-systemctl-service-file
+
+linux - Current directory of process changes when initiated as a service - Super User
+https://superuser.com/questions/1661128/current-directory-of-process-changes-when-initiated-as-a-service
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+centos - Set PATH for a systemd unit - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/347873/set-path-for-a-systemd-unit
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+deno/.devcontainer/devcontainer.json at main · denoland/deno
+https://github.com/denoland/deno/blob/main/.devcontainer/devcontainer.json
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+symbolic link - Does Windows have the ln -s or equivalent? - Super User
+https://superuser.com/questions/182553/does-windows-have-the-ln-s-or-equivalent
+
+ChatGPT
+https://chat.openai.com/c/dbf59da1-4314-4340-b262-b9dc809b433c
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+windows - How can I run a command with administrator rights with Visual Studio code terminal? - Stack Overflow
+https://stackoverflow.com/questions/37700536/how-can-i-run-a-command-with-administrator-rights-with-visual-studio-code-termin
+
+Recommend the use of compilation database for VS Code · Issue #19401 · qmk/qmk_firmware
+https://github.com/qmk/qmk_firmware/issues/19401
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - sturdy couscous
+https://github.com/codespaces/sturdy-couscous-7vvv64xrvv57f96r?editor=vscode
+
+MLIR介绍（一）概览 - 知乎
+https://zhuanlan.zhihu.com/p/465464378
+
+Codespaces
+https://github.com/codespaces
+
+mesonbuild/meson: The Meson Build System
+https://github.com/mesonbuild/meson
+
 # 2024-1-28
 
 postgresql.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

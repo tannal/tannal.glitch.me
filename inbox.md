@@ -1,4 +1,70 @@
+# 2024-1-29 | 
+
+Set-ExecutionPolicy Unrestricted
+
+even-better-toml
+
+New-Item -ItemType SymbolicLink -Name compile_commands.json -Target .\build\compile_commands.json
+
+mklink /d compile_commands.json .\build\compile_commands.json
+
+sudo vim /etc/systemd/system/docs.service
+
+/proc/28647/environ
+
+sudo systemctl daemon-reload
+sudo systemctl restart docs.service
+
+systemctl status docs.service
+sudo journalctl -u docs
+
+
+[Unit]
+# 服务名称，可自定义
+Description = docs
+
+[Service]
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/projects/yjs-demos/
+ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.10.0/bin/:$PATH pnpm start'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+game loop
+handle user input
+change state
+draw a frame
+
+We say a tool is successful when a ordinary people can use it without knowing how it works.
+
+std::tuple
+
+std::component
+
+entity components systems composition oriented design
+
+Object Orient Design
+
+combox tab imGui 
+
+pip install gdown
+
+gdown --id
+
 # 2024-1-28 | 
+
+nc -u 127.0.0.1 14000
+
+sudo tcpdump -i any udp port 14000
+
+https://www.youtube.com/watch?v=G4wpDNa5Bm4&list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK
+
+allowPorts = [
+  { start = 10000, end = 110000 },
+  { start = 27015, end = 27015 }
+]
 
 include("C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake")
 

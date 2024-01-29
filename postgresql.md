@@ -194,7 +194,7 @@ mkdir _install
 
 sudo apt install bison
 
-./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix="/home/ubuntu/tannalwork/projects/postgres/_install" 
+./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix=`pwd`/_install
 
 sudo apt install libreadline-dev
 
@@ -226,6 +226,7 @@ make distclean
 
 meson setup build
 meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
+meson setup --prefix=`pwd`/_install build
 
 ln -sfn ./build/compile_commands.json compile_commands.json 
 
