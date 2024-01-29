@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=x1npPrzyKfs
 
 Trading fbdev for DRM, No Returns Accepted - Geert Uytterhoeven, Glider bv - YouTube
 https://www.youtube.com/watch?v=9a9IJQJf8PQ
+
+
+https://www.youtube.com/@petrmitrichev

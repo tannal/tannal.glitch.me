@@ -1,5 +1,182 @@
 # 2024-1-29
 
+1610.01178.pdf
+https://arxiv.org/pdf/1610.01178.pdf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Status - Codeforces Round 887 (Div. 1) - Codeforces
+https://codeforces.com/contest/1852/status
+
+Problem - B - Codeforces
+https://codeforces.com/contest/1852/problem/B
+
+Better offload? · ggerganov/llama.cpp · Discussion #4534
+https://github.com/ggerganov/llama.cpp/discussions/4534
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+A Trip to Kernels: Understanding PyTorch’s Internal Architecture | by Huan Xu | Medium
+https://medium.com/@hxu296/a-trip-to-kernels-understanding-pytorchs-internal-architecture-fc955aafd54c
+
+PyTorch 源码解读系列 - 知乎
+https://zhuanlan.zhihu.com/p/328674159
+
+OpenMMLab - Google 搜索
+https://www.google.com/search?q=OpenMMLab&rlz=1C1GCEA_enJP1090JP1090&oq=OpenMMLab&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzIwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+ChatGPT
+https://chat.openai.com/c/3719f902-8b69-4ad1-94c1-d3f9326a8630
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+#general > Style features - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Style.20features
+
+Codespaces
+https://github.com/codespaces
+
+Mats Lundgren - Google 搜索
+https://www.google.com/search?q=Mats+Lundgren&rlz=1C1GCEA_enJP1090JP1090&oq=Mats+Lundgren&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgTGB4yCAgCEAAYExgeMggIAxAAGBMYHjIICAQQABgTGB4yCAgFEAAYExgeMggIBhAAGBMYHjIICAcQABgTGB4yCAgIEAAYExgeMggICRAAGBMYHtIBCDEyMTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Tensor software - Wikipedia
+https://en.wikipedia.org/wiki/Tensor_software
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%23define%20GGML_F32x4_STORE(p%2C%20r)%20%20vec_xst(r%2C%200%2C%20p)%0A%23define%20GGML_F32x4_FMA(a%2C%20b%2C%20c)%20vec_madd(b%2C%20c%2C%20a)%0A%23define%20GGML_F32x4_ADD%20%20%20%20%20%20%20%20%20%20vec_add%0A%23define%20GGML_F32x4_MUL%20%20%20%20%20%20%20%20%20%20vec_mul%0A%23define%20GGML_F32x4_REDUCE(res%2C%20x)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20int%20offset%20%3D%20GGML_F32_ARR%20%3E%3E%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20vec_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%20%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20offset%20%3E%3E%3D%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20vec_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%20%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20offset%20%3E%3E%3D%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20vec_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%20%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20res%20%3D%20vec_extract(x%5B0%5D%2C%200)%20%2B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20vec_extract(x%5B0%5D%2C%201)%20%2B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20vec_extract(x%5B0%5D%2C%202)%20%2B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20vec_extract(x%5B0%5D%2C%203)%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%7D%0A%0A%23define%20GGML_F32_VEC%20%20%20%20%20%20%20%20GGML_F32x4%0A%23define%20GGML_F32_VEC_ZERO%20%20%20GGML_F32x4_ZERO%0A%23define%20GGML_F32_VEC_SET1%20%20%20GGML_F32x4_SET1%0A%23define%20GGML_F32_VEC_LOAD%20%20%20GGML_F32x4_LOAD%0A%23define%20GGML_F32_VEC_STORE%20%20GGML_F32x4_STORE%0A%23define%20GGML_F32_VEC_FMA%20%20%20%20GGML_F32x4_FMA%0A%23define%20GGML_F32_VEC_ADD%20%20%20%20GGML_F32x4_ADD%0A%23define%20GGML_F32_VEC_MUL%20%20%20%20GGML_F32x4_MUL%0A%23define%20GGML_F32_VEC_REDUCE%20GGML_F32x4_REDUCE%0A%0A%2F%2F%20F16%20POWER9%0A%23define%20GGML_F16_STEP%20%20%20%20%20%20%20GGML_F32_STEP%0A%23define%20GGML_F16_EPR%20%20%20%20%20%20%20%20GGML_F32_EPR%0A%23define%20GGML_F16_VEC%20%20%20%20%20%20%20%20GGML_F32x4%0A%23define%20GGML_F16_VEC_ZERO%20%20%20GGML_F32x4_ZERO%0A%23define%20GGML_F16_VEC_SET1%20%20%20GGML_F32x4_SET1%0A%23define%20GGML_F16_VEC_FMA%20%20%20%20GGML_F32x4_FMA%0A%23define%20GGML_F16_VEC_REDUCE%20GGML_F32x4_REDUCE%0A%2F%2F%20Use%20vec_xl%2C%20not%20vec_ld%2C%20in%20case%20the%20load%20address%20is%20not%20aligned.%0A%23define%20GGML_F16_VEC_LOAD(p%2C%20i)%20(i%20%26%200x1)%20%3F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20vec_extract_fp32_from_shorth(vec_xl(0%2C%20p%20-%20GGML_F16_EPR))%20%3A%20%5C%0A%20%20vec_extract_fp32_from_shortl(vec_xl(0%2C%20p))%0A%23define%20GGML_ENDIAN_BYTE(i)%20((unsigned%20char%20*)%26(uint16_t)%7B1%7D)%5Bi%5D%0A%23define%20GGML_F16_VEC_STORE(p%2C%20r%2C%20i)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20if%20(i%20%26%200x1)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20vec_xst(vec_pack_to_short_fp32(r%5Bi%20-%20GGML_ENDIAN_BYTE(1)%5D%2C%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20r%5Bi%20-%20GGML_ENDIAN_BYTE(0)%5D)%2C%20%5C%0A%20%20%20%20%20%20%20%20%20%20%20%200%2C%20p%20-%20GGML_F16_EPR)%0A%0A%23elif%20defined(__wasm_simd128__)%0A%0A%23define%20GGML_SIMD%0A%0A%2F%2F%20F32%20WASM%0A%0A%23define%20GGML_F32_STEP%2016%0A%23define%20GGML_F32_EPR%20%204%0A%0A%23define%20GGML_F32x4%20%20%20%20%20%20%20%20%20%20%20%20%20%20v128_t%0A%23define%20GGML_F32x4_ZERO%20%20%20%20%20%20%20%20%20wasm_f32x4_splat(0.0f)%0A%23define%20GGML_F32x4_SET1(x)%20%20%20%20%20%20wasm_f32x4_splat(x)%0A%23define%20GGML_F32x4_LOAD%20%20%20%20%20%20%20%20%20wasm_v128_load%0A%23define%20GGML_F32x4_STORE%20%20%20%20%20%20%20%20wasm_v128_store%0A%23define%20GGML_F32x4_FMA(a%2C%20b%2C%20c)%20wasm_f32x4_add(wasm_f32x4_mul(b%2C%20c)%2C%20a)%0A%23define%20GGML_F32x4_ADD%20%20%20%20%20%20%20%20%20%20wasm_f32x4_add%0A%23define%20GGML_F32x4_MUL%20%20%20%20%20%20%20%20%20%20wasm_f32x4_mul%0A%23define%20GGML_F32x4_REDUCE(res%2C%20x)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20int%20offset%20%3D%20GGML_F32_ARR%20%3E%3E%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20wasm_f32x4_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20offset%20%3E%3E%3D%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20wasm_f32x4_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20offset%20%3E%3E%3D%201%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20for%20(int%20i%20%3D%200%3B%20i%20%3C%20offset%3B%20%2B%2Bi)%20%7B%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20x%5Bi%5D%20%3D%20wasm_f32x4_add(x%5Bi%5D%2C%20x%5Boffset%2Bi%5D)%3B%20%20%5C%0A%20%20%20%20%7D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5C%0A%20%20%20%20res%20%3D%20wasm_f32x4_extract_lane(x%5B0%5D%2C%200)%20%2B%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20wasm_f32x4_extract_lane(x%5B0%5D%2C%201)%20%2B%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20wasm_f32x4_extract_lane(x%5B0%5D%2C%202)%20%2B%20%20%20%20%20%20%20%5C%0A%20%20%20%20%20%20%20%20%20%20wasm_f32x4_extract_lane(x%5B0%5D%2C%203)%3B%20%20%20%20%20%20%20%20%5C%0A%7D%0A%0A%23define%20GGML_F32_VEC%20%20%20%20%20%20%20%20GGML_F32x4%0A%23define%20GGML_F32_VEC_ZERO%20%20%20GGML_F32x4_ZERO%0A%23define%20GGML_F32_VEC_SET1%20%20%20GGML_F32x4_SET1%0A%23define%20GGML_F32_VEC_LOAD%20%20%20GGML_F32x4_LOAD%0A%23define%20GGML_F32_VEC_STORE%20%20GGML_F32x4_STORE%0A%23define%20GGML_F32_VEC_FMA%20%20%20%20GGML_F32x4_FMA%0A%23define%20GGML_F32_VEC_ADD%20%20%20%20GGML_F32x4_ADD%0A%23define%20GGML_F32_VEC_MUL%20%20%20%20GGML_F32x4_MUL%0A%23define%20GGML_F32_VEC_REDUCE%20GGML_F32x4_REDUCE%0A%0A%2F%2F%20F16%20WASM%0A%0A%23define%20GGML_F16_STEP%2016%0A%23define%20GGML_F16_EPR%20%204%0A%0Ainline%20static%20v128_t%20__wasm_f16x4_load(const%20ggml_fp16_t%20*%20p)%20%7B%0A%20%20%20%20float%20tmp%5B4%5D%3B%0A%0A%20%20%20%20tmp%5B0%5D%20%3D%20GGML_FP16_TO_FP32(p%5B0%5D)%3B%0A%20%20%20%20tmp%5B1%5D%20%3D%20GGML_FP16_TO_FP32(p%5B1%5D)%3B%0A%20%20%20%20tmp%5B2%5D%20%3D%20GGML_FP16_TO_FP32(p%5B2%5D)%3B%0A%20%20%20%20tmp%5B3%5D%20%3D%20GGML_FP16_TO_FP32(p%5B3%5D)%3B%0A%0A%20%20%20%20return%20wasm_v128_load(tmp)%3B%0A%7D%0A%0Ainline%20static%20void%20__wasm_f16x4_store(ggml_fp16_t%20*%20p%2C%20v128_t%20x)%20%7B%0A%20%20%20%20float%20tmp%5B4%5D%3B%0A%0A%20%20%20%20wasm_v128_store(tmp%2C%20x)%3B%0A%0A%20%20%20%20p%5B0%5D%20%3D%20GGML_FP32_TO_FP16(tmp%5B0%5D)%3B%0A%20%20%20%20p%5B1%5D%20%3D%20GGML_FP32_TO_FP16(tmp%5B1%5D)%3B%0A%20%20%20%20p%5B2%5D%20%3D%20GGML_FP32_TO_FP16(tmp%5B2%5D)%3B%0A%20%20%20%20p%5B3%5D%20%3D%20GGML_FP32_TO_FP16(tmp%5B3%5D)%3B%0A%7D%0A%0A%23define%20GGML_F16x4%20%20%20%20%20%20%20%20%20%20%20%20%20v128_t%0A%23define%20GGML_F16x4_ZERO%20%20%20%20%20%20%20%20wasm_f32x4_splat(0.0f)%0A%23define%20GGML_F16x4_SET1(x)%20%20%20%20%20wasm_f32x4_splat(x)%0A%23define%20&op=translate
+
+bash - How can I split a large text file into smaller files with an equal number of lines? - Stack Overflow
+https://stackoverflow.com/questions/2016894/how-can-i-split-a-large-text-file-into-smaller-files-with-an-equal-number-of-lin
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+Recent conversations - Servo - Zulip
+https://servo.zulipchat.com/
+
+A Tour of TensorFlow - Google 搜索
+https://www.google.com/search?q=A+Tour+of+TensorFlow&rlz=1C1GCEA_enJP1090JP1090&oq=A+Tour+of+TensorFlow&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQcxODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+昨夜，大超预期！
+https://www.stcn.com/article/detail/1090128.html
+
+A Tour of TensorFlow - Google 搜索
+https://www.google.com/search?q=A+Tour+of+TensorFlow&rlz=1C1GCEA_enJP1090JP1090&oq=A+Tour+of+TensorFlow&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGEAyBggCEEUYQNIBBzE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+A Promenade of PyTorch – Peter Goldsborough
+https://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+pytorch/aten/src/ATen/cpu/vec/vec256/vec256_float.h at ee3dfbbe470822a50516310384ecce071ec79f7c · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/ee3dfbbe470822a50516310384ecce071ec79f7c/aten/src/ATen/cpu/vec/vec256/vec256_float.h
+
+Code search results
+https://github.com/search?q=repo%3Apytorch%2Fpytorch%20ATen&type=code
+
+aten pytorch - Google 搜索
+https://www.google.com/search?q=aten+pytorch&rlz=1C1GCEA_enJP1090JP1090&oq=ATen+py&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8
+
+bash - How can I count all the lines of code in a directory recursively? - Stack Overflow
+https://stackoverflow.com/questions/1358540/how-can-i-count-all-the-lines-of-code-in-a-directory-recursively
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Knuth's Optimization - Algorithms for Competitive Programming
+https://cp-algorithms.com/dynamic_programming/knuth-optimization.html
+
+PyRival/pyrival/geometry/convex_hull.py at master · cheran-senthil/PyRival
+https://github.com/cheran-senthil/PyRival/blob/master/pyrival/geometry/convex_hull.py
+
+dustin-miao (Dustin Miao)
+https://github.com/dustin-miao
+
+adamant-pwn (Oleksandr Kulkov)
+https://github.com/adamant-pwn
+
+michael hayter algorithm - Google 搜索
+https://www.google.com/search?q=michael+hayter+algorithm&sca_esv=602301773&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_aC2LQwFLPr6F04_SFkzgXFepkkA%3A1706524318182&ei=nn63Ze7bCv6I4-EP1pCXiA0&oq=Michael+Hayter+alg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEk1pY2hhZWwgSGF5dGVyIGFsZyoCCAAyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSPopUABYqx9wAngAkAEAmAHiAqABngqqAQcwLjUuMS4xuAEDyAEA-AEBwgIIEAAYgAQYywHCAgQQABge4gMEGAAgQQ&sclient=gws-wiz-serp#ip=1
+
+ChatGPT
+https://chat.openai.com/c/9e4f7403-9908-4083-aa95-c3fbcfdcb67a
+
+MAXimal :: about
+https://e-maxx.ru/about.php
+
+Participants from Russia - Competitive Programming Hall Of Fame
+https://cphof.org/country/RUS
+
+Profile of Vladislav Isenbaev - Competitive Programming Hall Of Fame
+https://cphof.org/profile/topcoder:UdH-WiNGeR
+
+Codeforces Nebius Welcome Round screencast - YouTube
+https://www.youtube.com/watch?v=aXT6u4s1rLs&t=3608s
+
+Codeforces Educational Round #92 - YouTube
+https://www.youtube.com/watch?v=TAebE-ZmQAU
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+Competitive programming coaching - Codeforces
+https://codeforces.com/blog/entry/125227
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Stack Overflow vs. Competitive Programming Questions - Red-Green-Code
+https://www.redgreencode.com/stack-overflow-vs-competitive-programming-questions/
+
+kth-competitive-programming/kactl: KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
+https://github.com/kth-competitive-programming/kactl/tree/main
+
+algorithmica/content/english/hpc at master · algorithmica-org/algorithmica
+https://github.com/algorithmica-org/algorithmica/tree/master/content/english/hpc
+
+Ask HN: What are some cool but obscure data structures you know about? | Hacker News
+https://news.ycombinator.com/item?id=32186203
+
+Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology): Ericson, Christer: 9781558607323: Amazon.com: Books
+https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323
+
+Andrew Lock | .NET Escapades
+https://andrewlock.net/
+
+Gerth Stølting Brodal
+https://cs.au.dk/~gerth/
+
+Memory Bandwidth - Algorithmica
+https://en.algorithmica.org/hpc/cpu-cache/bandwidth/
+
+algorithmica-org/algorithmica: A computer science textbook
+https://github.com/algorithmica-org/algorithmica
+
+Algorithms for Modern Hardware - Algorithmica
+https://en.algorithmica.org/hpc/
+
+Erik Demaine
+https://erikdemaine.org/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=The%20tale%20of%20the%20Sudoku%20solver%20%5B1%5D%20is%20salutatory%20here&op=translate
+
+Google 翻译
+https://translate.google.com/
+
+EntropyIncreaser (Baitian Li)
+https://github.com/EntropyIncreaser
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

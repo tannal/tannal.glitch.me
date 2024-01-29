@@ -1,5 +1,21 @@
 # 2024-1-29 | 
 
+https://twitter.com/cHHillee
+
+https://github.com/MrDHat
+
+https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323
+
+Chess players don't base their play on pure problem solving either. They memorize and train specific plays.
+The original AI for chess is actually doing problem "solving".
+
+https://github.com/kth-competitive-programming/kactl/tree/main
+
+https://blog.mitrichev.ch/
+Egor Kulikov
+
+https://codeforces.com/profile/PavelKunyavskiy
+
 split -l 1000 ggml.c
 
 GELU (Gaussian Error Linear Unit), a popular activation function in neural networks.
