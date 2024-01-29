@@ -4,42 +4,10 @@ split -l 1000 ggml.c
 
 GELU (Gaussian Error Linear Unit), a popular activation function in neural networks.
 
+https://github.com/pytorch/pytorch/blob/ee3dfbbe470822a50516310384ecce071ec79f7c/test/inductor/test_torchinductor.py#L2439
 
-```c
-gguf_set_tensor_data(struct gguf_context * ctx, const char * name, const void * data, size_t size)
-gguf_buf_init(size_t size)
-gguf_buf_free(struct gguf_buf buf)
-gguf_buf_grow(struct gguf_buf * buf, size_t size)
-gguf_bwrite_str(struct gguf_buf * buf, const struct gguf_str * val)
-gguf_bwrite_el(struct gguf_buf * buf, const void * val, size_t el_size)
-gguf_write_to_buf(const struct gguf_context * ctx, struct gguf_buf * buf, bool only_meta)
-gguf_write_to_file(const struct gguf_context * ctx, const char * fname, bool only_meta)
-gguf_get_meta_size(const struct gguf_context * ctx)
-gguf_get_meta_data(const struct gguf_context * ctx, void * data)
-ggml_cpu_has_avx(void)
-ggml_cpu_has_avx_vnni(void)
-ggml_cpu_has_avx2(void)
-ggml_cpu_has_avx512(void)
-ggml_cpu_has_avx512_vbmi(void)
-ggml_cpu_has_avx512_vnni(void)
-ggml_cpu_has_fma(void)
-ggml_cpu_has_neon(void)
-ggml_cpu_has_arm_fma(void)
-ggml_cpu_has_metal(void)
-ggml_cpu_has_f16c(void)
-ggml_cpu_has_fp16_va(void)
-ggml_cpu_has_wasm_simd(void)
-ggml_cpu_has_blas(void)
-ggml_cpu_has_cublas(void)
-ggml_cpu_has_clblast(void)
-ggml_cpu_has_vulkan(void)
-ggml_cpu_has_sycl(void)
-ggml_cpu_has_gpublas(void)
-ggml_cpu_has_sse3(void)
-ggml_cpu_has_ssse3(void)
-ggml_cpu_has_vsx(void)
-
-```
+cloc --exclude-lang=DTD,Lua,make .
+cloc --include-lang=Python,C++ .
 
 Tensor library for machine learning
 
