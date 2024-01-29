@@ -1,32 +1,69 @@
 # inbox
 
-chrome://omnibox/
+TableScanDesc
 
-
-```
-Thread 2.1 "postgres" hit Breakpoint 1, heapgetpage (sscan=sscan@entry=0x55ea73aae8f0, block=block@entry=0) at heapam.c:378
-378     heapam.c: No such file or directory.
-(gdb) bt
-#0  heapgetpage (sscan=sscan@entry=0x55ea73aae8f0, block=block@entry=0) at heapam.c:378
-#1  0x000055ea72380b2f in heapgettup_pagemode (scan=scan@entry=0x55ea73aae8f0, dir=ForwardScanDirection, nkeys=1, 
-    key=0x55ea73aae250) at heapam.c:879
-#2  0x000055ea7238165d in heap_getnextslot (sscan=0x55ea73aae8f0, direction=<optimized out>, slot=0x55ea73aae4a0)
-    at heapam.c:1142
-#3  0x000055ea7239808f in table_scan_getnextslot (slot=<optimized out>, direction=ForwardScanDirection, 
-    sscan=<optimized out>) at ../../../../src/include/access/tableam.h:1066
-#4  systable_getnext (sysscan=sysscan@entry=0x55ea73aaddc0) at genam.c:533
-#5  0x000055ea7288ec59 in SearchCatCacheMiss (cache=cache@entry=0x55ea73a7a680, nkeys=nkeys@entry=1, 
-    hashValue=hashValue@entry=3830081846, hashIndex=hashIndex@entry=2, v1=v1@entry=403, v2=v2@entry=0, v3=0, v4=0)
-    at catcache.c:1431
-#6  0x000055ea7288efc2 in SearchCatCacheInternal (cache=0x55ea73a7a680, nkeys=nkeys@entry=1, v1=403, 
-    v2=v2@entry=0, v3=v3@entry=0, v4=v4@entry=0) at catcache.c:1351
-#7  0x000055ea7288fae6 in SearchCatCache1 (cache=<optimized out>, v1=<optimized out>) at catcache.c:1219
+```bash
+#0  heapgetpage (sscan=0x555555ffa8c0, block=0) at heapam.c:378
+#1  0x0000555555690c9e in heapgettup_pagemode (scan=0x555555ffa8c0, 
+    dir=ForwardScanDirection, nkeys=1, key=0x555555ffa2f0)
+    at heapam.c:879
+#2  0x0000555555691ab1 in heap_getnextslot (sscan=0x555555ffa8c0, 
+    direction=<optimized out>, slot=0x555555ffa500) at heapam.c:1142
+#3  0x00005555556a86ce in table_scan_getnextslot (slot=<optimized out>, 
+    direction=ForwardScanDirection, sscan=<optimized out>)
+    at ../../../../src/include/access/tableam.h:1066
+#4  systable_getnext (sysscan=sysscan@entry=0x555555ff9e60)
+    at genam.c:533
+#5  0x0000555555baa772 in SearchCatCacheMiss (
+    cache=cache@entry=0x555555fc5b00, nkeys=nkeys@entry=1, 
+    hashValue=hashValue@entry=3830081846, hashIndex=hashIndex@entry=2, 
 --Type <RET> for more, q to quit, c to continue without paging--
-#8  0x000055ea728a4529 in SearchSysCache1 (cacheId=cacheId@entry=2, key1=<optimized out>) at syscache.c:827
-#9  0x000055ea7289f82a in RelationInitIndexAccessInfo (relation=relation@entry=0x7f2b24e36f88) at relcache.c:1456
-#10 0x000055ea728a00a8 in RelationBuildDesc (targetRelId=2965, insertIt=insertIt@entry=true) at relcache.c:1208
-#11 0x000055ea728a1389 in RelationIdGetRelation (relationId=<optimized out>, relationId@entry=2965)
-    at relcache.c:2109
+    v1@entry=403, v2=v2@entry=0, v3=0, v4=0) at catcache.c:1431
+#6  0x0000555555bab7d8 in SearchCatCacheInternal (v4=0, v3=0, v2=0, 
+    v1=403, nkeys=1, cache=0x555555fc5b00) at catcache.c:1351
+#7  SearchCatCache1 (cache=0x555555fc5b00, v1=403) at catcache.c:1219
+#8  0x0000555555bc0779 in SearchSysCache1 (cacheId=cacheId@entry=2, 
+    key1=<optimized out>) at syscache.c:225
+#9  0x0000555555bbbbe5 in RelationInitIndexAccessInfo (
+    relation=relation@entry=0x7fffec5cae88)
+    at ../../../../src/include/postgres.h:254
+#10 0x0000555555bbc463 in RelationBuildDesc (targetRelId=2965, 
+    insertIt=insertIt@entry=true) at relcache.c:1208
+#11 0x0000555555bbd733 in RelationIdGetRelation (
+    relationId=<optimized out>, relationId@entry=2965) at relcache.c:2109
+#12 0x000055555563ec96 in relation_open (
+    relationId=relationId@entry=2965, lockmode=lockmode@entry=1)
+    at relation.c:59
+#13 0x00005555556a8e2e in index_open (relationId=relationId@entry=2965, 
+    lockmode=lockmode@entry=1) at indexam.c:137
+#14 0x00005555556a840c in systable_beginscan (
+    heapRelation=heapRelation@entry=0x7fffec5c9918, 
+    indexId=indexId@entry=2965, indexOK=indexOK@entry=true, 
+    snapshot=snapshot@entry=0x555555ffa0c0, nkeys=nkeys@entry=2, 
+    key=key@entry=0x7fffffffc720) at genam.c:399
+#15 0x0000555555757402 in ApplySetting (
+    snapshot=snapshot@entry=0x555555ffa0c0, 
+    databaseid=databaseid@entry=5, roleid=roleid@entry=10, 
+    relsetting=relsetting@entry=0x7fffec5c9918, 
+    source=source@entry=PGC_S_DATABASE_USER) at pg_db_role_setting.c:238
+#16 0x0000555555bd986d in process_settings (databaseid=5, roleid=10)
+    at postinit.c:1330
+#17 0x0000555555bd9feb in InitPostgres (in_dbname=in_dbname@entry=0x0, 
+    dboid=<optimized out>, dboid@entry=5, username=username@entry=0x0, 
+    useroid=useroid@entry=0, flags=flags@entry=0, 
+    out_dbname=out_dbname@entry=0x7fffffffc9c0 "postgres")
+    at postinit.c:1207
+#18 0x00005555559b3850 in AutoVacWorkerMain (argc=argc@entry=0, 
+    argv=argv@entry=0x0) at autovacuum.c:1683
+#19 0x00005555559b39ca in StartAutoVacWorker () at autovacuum.c:1478
+#20 0x00005555559bc233 in StartAutovacuumWorker () at postmaster.c:5443
+#21 0x00005555559bc646 in process_pm_pmsignal () at postmaster.c:5150
+#22 0x00005555559bc97c in ServerLoop () at postmaster.c:1767
+--Type <RET> for more, q to quit, c to continue without paging--
+#23 0x00005555559bdf8b in PostmasterMain (argc=3, argv=<optimized out>)
+    at postmaster.c:1475
+#24 0x00005555558d36cd in main (argc=3, argv=0x555555f65050)
+    at main.c:198
 ```
 
 vacuum garbage collection reorder page sweep clean up
@@ -216,6 +253,7 @@ ps -aux | grep postgres
 
 ./psql -U tannal -w -d postgres
 ./psql -U ubuntu -w -d postgres
+./psql -U codespace -w -d postgres
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/tannalwork/projects/postgres/_install/lib/
