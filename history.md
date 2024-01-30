@@ -1,3 +1,173 @@
+# 2024-1-30
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Polanyi%27s%20paradox&sort=byPopularity&type=story
+
+Order force: the old grammar rule we all obey without realising | Tim Dowling | The Guardian
+https://www.theguardian.com/commentisfree/2016/sep/13/sentence-order-adjectives-rule-elements-of-eloquence-dictionary
+
+sci-hub.ru/https://psycnet.apa.org/doi/10.1111/j.1939-0025.1948.tb05122.x
+https://sci-hub.ru/https://psycnet.apa.org/doi/10.1111/j.1939-0025.1948.tb05122.x
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox
+
+Sci-Hub | Learning theory and the neurotic paradox. American Journal of Orthopsychiatry, 18(4), 571–610 | 10.1111/j.1939-0025.1948.tb05122.x
+https://sci-hub.ru/https://psycnet.apa.org/doi/10.1111/j.1939-0025.1948.tb05122.x
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+#general > IPC between embedder and script - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/IPC.20between.20embedder.20and.20script
+
+Tags · servo/servo-nightly-builds
+https://github.com/servo/servo-nightly-builds/tags
+
+Comparing servo:main...wusyong:mozjs_download · servo/mozjs
+https://github.com/servo/mozjs/compare/main...wusyong:mozjs:mozjs_download
+
+Implement a Servo-based runtime · Issue #7379 · servo/servo
+https://github.com/servo/servo/issues/7379
+
+Alan Watts' "the way of Zen" - Google 搜索
+https://www.google.com/search?q=Alan+Watts%27+%22the+way+of+Zen%22&rlz=1C1GCEA_enJP1090JP1090&oq=Alan+Watts%27+%22the+way+of+Zen%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+登录 Facebook
+https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&lwv=120&lwc=1348092
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%AC%B2%E6%9C%9B&op=translate
+
+why human have desire - Google 搜索
+https://www.google.com/search?q=why+human+have+desire&rlz=1C1GCEA_enJP1090JP1090&oq=why+Humandesire&gs_lcrp=EgZjaHJvbWUqCggBEAAYCBgNGB4yBggAEEUYOTIKCAEQABgIGA0YHtIBCDU0OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Clang use ld default rather than use lld to link objects - Beginners - LLVM Discussion Forums
+https://discourse.llvm.org/t/clang-use-ld-default-rather-than-use-lld-to-link-objects/70665/2
+
+CPU Cache Line Size
+https://chat.openai.com/c/b43f1083-8ab3-45ca-8878-83190fcedafc
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?page=2&q=is%3Aissue+is%3Aopen+build
+
+• Discord | #lld | LLVM
+https://discord.com/channels/636084430946959380/636732801042874388
+
+Cmake and ninja: passing arguments to targets · Issue #1466 · ninja-build/ninja
+https://github.com/ninja-build/ninja/issues/1466
+
+Releases · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases
+
+lld-link: warning: ignoring unknown argument '-Bsymbolic-functions' lld-link: warning: ignoring unknown argument '--version-script' lld-link: warning: ignoring unknown argument '--whole-archive' lld-link: warning: ignoring unknown argument '--no-whole-archive - Google 搜索
+https://www.google.com/search?q=lld-link%3A+warning%3A+ignoring+unknown+argument+%27-Bsymbolic-functions%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--version-script%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--whole-archive%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--no-whole-archive&rlz=1C1GCEA_enJP1090JP1090&oq=lld-link%3A+warning%3A+ignoring+unknown+argument+%27-Bsymbolic-functions%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--version-script%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--whole-archive%27+lld-link%3A+warning%3A+ignoring+unknown+argument+%27--no-whole-archive&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHNDc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+LLD and GNU linker incompatibilities | MaskRay
+https://maskray.me/blog/2020-12-19-lld-and-gnu-linker-incompatibilities
+
+build llvm windows ninja cmake - Google 搜索
+https://www.google.com/search?q=build+llvm+windows+ninja+cmake&sca_esv=602360094&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-oCJbsxmPnpDxoMYOaVgrB-T38dQ%3A1706540019586&ei=87u3ZaWwI8yx4-EP4cuN2AQ&ved=0ahUKEwjl9aX97IKEAxXM2DgGHeFlA0sQ4dUDCBA&uact=5&oq=build+llvm+windows+ninja+cmake&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmJ1aWxkIGxsdm0gd2luZG93cyBuaW5qYSBjbWFrZTIHECMYsAIYJ0i4C1CPBVi7CnABeACQAQCYAdUBoAGeB6oBBTAuNS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+Building LLVM with CMake — LLVM 19.0.0git documentation
+https://llvm.org/docs/CMake.html
+
+cmake select compiler vscode - Google 搜索
+https://www.google.com/search?q=cmake+select+compiler+vscode&sca_esv=602360094&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_6bT_JcURyyn_GxFDRaOeLuKADNw%3A1706540995969&ei=w7-3ZYXlOvSd4-EPsq2IkAw&ved=0ahUKEwjF0u_O8IKEAxX0zjgGHbIWAsIQ4dUDCBA&uact=5&oq=cmake+select+compiler+vscode&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGNtYWtlIHNlbGVjdCBjb21waWxlciB2c2NvZGUyBhAAGAgYHkjGHVBCWN8ccAN4AJABAJgBvQGgAY4LqgEEMC4xMLgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQIxiABBiKBRgnwgIIEAAYgAQYywHCAgQQABgewgIGEAAYBRge4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+msbuild.exe - Google 搜索
+https://www.google.com/search?sca_esv=602360094&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-MzytC6IO1KwW8fxTXeUrRKGW0ow:1706541326633&q=msbuild.exe&sa=X&ved=2ahUKEwiT58Xs8YKEAxXFxjgGHSeeA7QQ1QJ6BAg-EAE&biw=1536&bih=738&dpr=1.25
+
+cmake vs2019 how to build - Google 搜索
+https://www.google.com/search?q=cmake+vs2019+how+to+build&rlz=1C1GCEA_enJP1090JP1090&oq=cmake+vs2019+how+to+build&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDcyNzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+can you learn without memorising - Google 搜索
+https://www.google.com/search?q=can+you+learn+without+memorising&sca_esv=602548947&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09tXHTdzlf1JPVB9O51RK9TE6qdPQ%3A1706581640946&ei=iF64ZZWyOZDAjuMPyLyBwAc&oq=you+can%27t+learn+without+mem&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3lvdSBjYW4ndCBsZWFybiB3aXRob3V0IG1lbSoCCAEyCBAAGAgYHhgNMggQABgIGB4YDUjMoAFQ6QhYp4sBcAh4AZABAZgB_AGgAYwnqgEGMC4yOC4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgwQIxiABBiKBRgTGCfCAhEQLhiDARjHARixAxjRAxiABMICBRAAGIAEwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA8ICChAjGIAEGIoFGCfCAhYQLhhDGIMBGMcBGLEDGNEDGIAEGIoFwgIIEAAYgAQYsQPCAhMQLhgMGIMBGMcBGLEDGNEDGIAEwgINEAAYgAQYDBixAxiDAcICChAAGIAEGAwYsQPCAhAQABiABBiKBRgMGLEDGIMBwgINEC4YgAQYDBjHARivAcICBxAuGIAEGAzCAgcQABiABBgMwgIiEC4YDBiDARjHARixAxjRAxiABBiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGMsBwgILEC4YgAQYywEY1ALCAggQLhiABBjLAcICCxAuGMsBGNQCGIAEwgIaEC4YywEY1AIYgAQYlwUY3AQY3gQY4ATYAQHCAgoQLhjLARiABBgKwgIKEC4YgAQYywEYCsICChAAGIAEGMsBGArCAgYQABgeGA3CAgYQABgeGArCAggQABgFGB4YDcICCBAAGAgYHhgKwgIHECEYChigAcICCRAAGIAEGA0YE8ICChAAGAgYHhgNGBPCAgwQABgIGB4YDRgTGAriAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp#ip=1
+
+Can one learn a language without memorization? : r/languagelearning
+https://www.reddit.com/r/languagelearning/comments/ueshb9/can_one_learn_a_language_without_memorization/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+3. 无重复字符的最长子串 - 力扣（LeetCode）
+https://leetcode.cn/problems/longest-substring-without-repeating-characters/
+
+map size javascript - Google 搜索
+https://www.google.com/search?q=map+size+javascript&rlz=1C1GCEA_enJP1090JP1090&oq=map+size+ja&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yCAgDEAAYBRgeMggIBBAAGAUYHjIICAUQABgFGB4yCAgGEAAYBRgeMggIBxAAGAUYHjIICAgQABgFGB4yCAgJEAAYBRge0gEIMzg0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+DioxusLabs/dioxus: Fullstack GUI library for desktop, web, mobile, and more.
+https://github.com/dioxuslabs/dioxus
+
+活动 - AcWing
+https://www.acwing.com/activity/content/31/
+
+LeetCode 6. Z 字形变换（LeetCode究极班） - AcWing
+https://www.acwing.com/video/1322/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+cacheline length - Google 搜索
+https://www.google.com/search?q=cacheline+length&rlz=1C1GCEA_enJP1090JP1090&oq=cacheline+length&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAE0gEIMzA0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Data structure size and cache-line accesses – Daniel Lemire's blog
+https://lemire.me/blog/2022/06/06/data-structure-size-and-cache-line-accesses/
+
+c++ - Programmatically get the cache line size? - Stack Overflow
+https://stackoverflow.com/questions/794632/programmatically-get-the-cache-line-size
+
+gradle中文乱码问题解决方案 - alexanderzjs - 博客园
+https://www.cnblogs.com/alexanderzjs/p/15867604.html
+
+Configuring the Build Environment
+https://docs.gradle.org/current/userguide/build_environment.html
+
+head of line blocking on chip network - Google 搜索
+https://www.google.com/search?q=head+of+line+blocking+on+chip+network&sca_esv=213bf1ba865ab4e8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_PGWMVxQJV0NpLUYjZyP0iYmTVZQ%3A1706596233583&ei=iZe4ZYKhI6iq4-EPusmlwAk&ved=0ahUKEwjCiZyyvoSEAxUo1TgGHbpkCZgQ4dUDCBA&uact=5&oq=head+of+line+blocking+on+chip+network&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWhlYWQgb2YgbGluZSBibG9ja2luZyBvbiBjaGlwIG5ldHdvcmsyBRAhGKABSO4gULYEWK4fcAF4AZABAJgBzQGgAbwVqgEGMC4xNC4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIFEAAYgATCAgQQABgewgIHECEYChigAeIDBBgAIEGIBgGQBgk&sclient=gws-wiz-serp#ip=1
+
+频道号码 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%A2%91%E9%81%93%E5%8F%B7%E7%A0%81
+
+Code search results
+https://github.com/search?q=repo%3Arust-lang%2Frust-analyzer%20%22Failed%20to%20run%20build%20scripts%20fo%22&type=code
+
+error 1 is not a valid win32 application rust analyzer - Google 搜索
+https://www.google.com/search?q=error+1+is+not+a+valid+win32+application+rust+analyzer&sca_esv=213bf1ba865ab4e8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0__wHjMKB-bq-YVOa-SqBpZxCokbw%3A1706596520131&ei=qJi4ZZrNB5i_juMPq8mK8Ao&oq=ERROR%3A+%251+is+not+a+valid+Win32+application+rust+analyz&gs_lp=Egxnd3Mtd2l6LXNlcnAiNkVSUk9SOiAlMSBpcyBub3QgYSB2YWxpZCBXaW4zMiBhcHBsaWNhdGlvbiBydXN0IGFuYWx5eioCCAAyBxAhGAoYoAFIlyJQAFj0FnAAeACQAQCYAZACoAHsEqoBBTAuOC41uAEDyAEA-AEC-AEBwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIGEAAYBRgewgIFECEYoAHCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp
+
+network on chip - Google 搜索
+https://www.google.com/search?sca_esv=213bf1ba865ab4e8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-NqmsWbhfUGB6sGqOauUGGeZENmQ:1706596845055&q=network+on+chip&tbm=vid&source=lnms&sa=X&sqi=2&ved=2ahUKEwiDqeXVwISEAxXmwjgGHVJ_AJQQ0pQJegQIDRAB&biw=1536&bih=738&dpr=1.25
+
+create something they don't even understand - Google 搜索
+https://www.google.com/search?q=create+something+they+don%27t+even+understand&rlz=1C1GCEA_enJP1090JP1090&oq=create+something+they+don%27t+even+understand&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKAB0gEJMTg5MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Ask HN: How does a CPU communicate with a GPU? | Hacker News
+https://news.ycombinator.com/item?id=30860259
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox
+
+Implicit learning - Wikipedia
+https://en.wikipedia.org/wiki/Implicit_learning#cite_note-1
+
+tannal (tannal)
+https://github.com/tannal/
+
 # 2024-1-29
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
