@@ -1,5 +1,82 @@
+# 2024-1-30 | 
+
+https://en.wikipedia.org/wiki/Implicit_learning#cite_note-1
+
+How does a CPU communicate with a GPU? https://news.ycombinator.com/item?id=30860259
+
+What I cannot create, I do not understand
+What I can create, I also do not understand
+
+Once I can understand, but I can not create it anymore.
+
+NAND2TETRIS
+CS61C
+Computer Architecture: A Quantitative Approach and Computer Organization and Design: RISC-V edition
+Onur Mutlu's lectures
+
+
+people can create something they don't quite understand it.
+
+winget install -e --id GoLang.Go
+
+$env:ANDROID_HOME="C:\Users\tannal\AppData\Local\Android\Sdk"
+[System.Environment]::SetEnvironmentVariable('ANDROID_HOME', 'C:\Users\tannal\AppData\Local\Android\Sdk', [System.EnvironmentVariableTarget]::User)
+
+set ANDROID_HOME=C:\Users\tannal\AppData\Local\Android\Sdk
+
+
+_install/include/pgtypes_numeric.h
+
+PGTYPESnumeric_add
+
+typedef unsigned char NumericDigit;
+typedef struct
+{
+	int			ndigits;		/* number of digits in digits[] - can be 0! */
+	int			weight;			/* weight of first digit */
+	int			rscale;			/* result scale */
+	int			dscale;			/* display scale */
+	int			sign;			/* NUMERIC_POS, NUMERIC_NEG, or NUMERIC_NAN */
+	NumericDigit *buf;			/* start of alloc'd space for digits[] */
+	NumericDigit *digits;		/* decimal digits */
+} numeric;
+
+```bash
+
+git clone https://github.com/MetaCubeX/ClashMetaForAndroid
+
+git submodule update --init --recursive
+
+gradlew.bat app:assembleMeta-AlphaRelease -Dfile.encoding=GBK
+
+gradlew.bat app:assembleMeta-AlphaRelease --scan -Dfile.encoding=GBK
+
+gradlew.bat app:assembleMeta-AlphaRelease
+
+
+
+```
+
+
+getconf LEVEL1_DCACHE_LINESIZE
+
+LEVEL1_DCACHE_LINESIZE
+
+
 # 2024-1-29 | 
 
+<<<<<<< HEAD
+
+export CC=/usr/bin/clang
+export CXX=/usr/bin/clang++
+
+$env:VERBOSE = "TRUE"
+$env:CC = "TRUE"
+$env:CXX = "TRUE"
+
+cmake --build build
+
+=======
 https://www.cs.cornell.edu/courses/cs6120/2023fa/schedule/
 
 https://lec.inf.ethz.ch/DA/2017/slides/daLecture3.en.handout.4x4.pdf
@@ -34,6 +111,7 @@ text editor rich text editor design tools figma
 
 multimedia image & video & audio
 
+>>>>>>> d6fed2421966a7c845bc6f3553896d8d1809445f
 https://twitter.com/cHHillee
 
 https://github.com/MrDHat

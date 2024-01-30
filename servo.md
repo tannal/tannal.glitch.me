@@ -174,6 +174,16 @@ In components/script, remove unsafe JS related code
     "rust-analyzer.rustfmt.overrideCommand": [ "./mach", "fmt" ],
 }
 
+
+{
+    "rust-analyzer.check.overrideCommand": [
+        "./mach.bat", "check", "--message-format=json" ],
+    "rust-analyzer.cargo.buildScripts.overrideCommand": [
+        "./mach.bat", "check", "--message-format=json" ],
+    "rust-analyzer.rustfmt.overrideCommand": [ "./mach.bat", "fmt" ],
+}
+
+
 ```
 
 # servo people
