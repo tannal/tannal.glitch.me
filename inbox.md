@@ -1,5 +1,127 @@
 # 2024-1-29 | 
 
+https://www.cs.cornell.edu/courses/cs6120/2023fa/schedule/
+
+https://lec.inf.ethz.ch/DA/2017/slides/daLecture3.en.handout.4x4.pdf
+
+https://www.cs.cornell.edu/~eva/
+https://www.cs.cornell.edu/home/kleinber/
+
+core team (0-20) other roles
+
+
+GitHub Copilot, Tabnine, AWS CodeWhisperer, Other (please specify), Synk Code, Codeium, Whispr AI, Replit Ghostwriter, Mintlify, Adrenaline, Rubber Duck.AI.
+
+ChatGPT, Bing AI, WolframAlpha, Google Bard AI, Phind, You.com, Other (please specify), Perplexity AI, Quora Poe, Neeva AI, Andi, Metaphor.
+
+Udemy Coursera Codecademy Pluralsight edX Udacity Skillsoft
+
+PostgreSQL MySQL SQLite MongoDB Microsoft SQL Server Redis MariaDB Elasticsearch Oracle
+Dynamodb BigQuery H2 Cosmos DB Supabase InfluxDB Cassandra Snowflake Neo4J IBM DB2
+Solr Firebird Couch DB Clickhouse Cockroachdb Couchbase DuckDB Datomic RavenDB TiDB
+
+
+Amazon Web Services (AWS), Microsoft Azure, Google Cloud, Firebase, Cloudflare, Digital Ocean, Heroku, Vercel, Netlify, VMware, Hetzner, Linode (now Akamai), Managed Hosting, OVH, Oracle Cloud Infrastructure (OCI), OpenShift, Fly.io, Vultr, Render, OpenStack, IBM Cloud Or Watson, Scaleway, Colocation.
+
+
+Docker, npm, Pip, Homebrew, Yarn, Webpack, Make, Kubernetes, NuGet, Maven, Gradle, Vite, Visual Studio Solution, CMake, Cargo, GNU GCC, Terraform, MSBuild, Ansible, Chocolatey, Composer, LLVM's Clang, APT, Unity 3D, Pacman, pnpm, MSVC, Podman, Ninja, Unreal Engine, Godot, Ant, Google Test, Nix, Meson, QMake, Puppet, Dagger, Chef, Catch2, Pulumi, Bun, Wasmer, doctest, SCons, bandit, cppunit, Boost.Test, build2, tunit, lest, snitch, CUTE, ELFspy, liblittletest.
+
+
+Visual Studio Code, Visual Studio, IntelliJ IDEA, Notepad++, Vim, Android Studio, PyCharm, Sublime Text, Jupyter Notebook/JupyterLab, Neovim, Xcode, Eclipse, Nano, WebStorm, PhpStorm, Rider, DataGrip, Atom, CLion, Emacs, IPython, Goland, VSCodium, Netbeans, Rad Studio (Delphi, C++ Builder), Qt Creator, RStudio, Fleet, Code::Blocks, RubyMine, Helix, Kate, Spyder, BBEdit, Geany, TextMate, Micro, Nova, condo.
+
+text editor code editor IDE
+text editor rich text editor design tools figma
+
+multimedia image & video & audio
+
+https://twitter.com/cHHillee
+
+https://github.com/MrDHat
+
+https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323
+
+Chess players don't base their play on pure problem solving either. They memorize and train specific plays.
+The original AI for chess is actually doing problem "solving".
+
+https://github.com/kth-competitive-programming/kactl/tree/main
+
+https://blog.mitrichev.ch/
+Egor Kulikov
+
+https://codeforces.com/profile/PavelKunyavskiy
+
+split -l 1000 ggml.c
+
+GELU (Gaussian Error Linear Unit), a popular activation function in neural networks.
+
+https://github.com/pytorch/pytorch/blob/ee3dfbbe470822a50516310384ecce071ec79f7c/test/inductor/test_torchinductor.py#L2439
+
+cloc --exclude-lang=DTD,Lua,make .
+cloc --include-lang=Python,C++ .
+
+Tensor library for machine learning
+
+chrome://omnibox/
+
+https://github.com/ggerganov/ggml
+
+./examples/gpt-2/download-ggml-model.sh 117M
+
+./build/bin/gpt-2 -m models/gpt-2-117M/ggml-model.bin -p "This is an example"
+
+```bash
+
+git clone https://github.com/ggerganov/ggml
+cmake -S . -B build -G Ninja
+
+ninja -C build
+
+```
+
+https://twitter.com/cHHillee
+
+https://github.com/MrDHat
+
+https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323
+
+Chess players don't base their play on pure problem solving either. They memorize and train specific plays.
+The original AI for chess is actually doing problem "solving".
+
+https://github.com/kth-competitive-programming/kactl/tree/main
+
+https://blog.mitrichev.ch/
+Egor Kulikov
+
+https://codeforces.com/profile/PavelKunyavskiy
+
+split -l 1000 ggml.c
+
+GELU (Gaussian Error Linear Unit), a popular activation function in neural networks.
+
+https://github.com/pytorch/pytorch/blob/ee3dfbbe470822a50516310384ecce071ec79f7c/test/inductor/test_torchinductor.py#L2439
+
+cloc --exclude-lang=DTD,Lua,make .
+cloc --include-lang=Python,C++ .
+
+Tensor library for machine learning
+
+chrome://omnibox/
+
+https://github.com/ggerganov/ggml
+
+./examples/gpt-2/download-ggml-model.sh 117M
+
+./build/bin/gpt-2 -m models/gpt-2-117M/ggml-model.bin -p "This is an example"
+
+```bash
+
+git clone https://github.com/ggerganov/ggml
+cmake -S . -B build -G Ninja
+
+ninja -C build
+
+```
+
 https://twitter.com/cHHillee
 
 https://github.com/MrDHat

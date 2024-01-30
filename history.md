@@ -1,5 +1,155 @@
 # 2024-1-29
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Windows下如何查看某个端口被谁占用 | 菜鸟教程
+https://www.runoob.com/w3cnote/windows-finds-port-usage.html
+
+JetBrains - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/JetBrains
+
+Valentin Kipiatkov - Google 搜索
+https://www.google.com/search?q=Valentin+Kipiatkov&oq=Valentin+Kipiatkov&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(4) Eugene Belyaev (@eugenebelyaev) / X
+https://twitter.com/eugenebelyaev
+
+Sergey Dmitriev - Google 搜索
+https://www.google.com/search?q=Sergey+Dmitriev&oq=Sergey+Dmitriev&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDIzMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Eclipse
+https://www.google.com/search?sca_esv=3c9560cf55c01e70&sxsrf=ACQVn09Kskvst8WW404FM_aiiPkLaJG1tA:1706494441646&q=Eclipse&stick=H4sIAAAAAAAAAONgFuLUz9U3MEwrNkxRQjC1BIMzU1LLEyuL_VIrSoJLUguKF7GyuybnZBYUp-5gZQQA3Y1msDgAAAA&sa=X&ved=2ahUKEwjuoYWYw4GEAxVAU2wGHWHwCzEQzTooAXoECFsQAg&biw=1280&bih=593&dpr=1.5
+
+Editing - Wikipedia
+https://en.wikipedia.org/wiki/Editing
+
+cos() function with example in C++
+https://www.includehelp.com/cpp-tutorial/cos-function-with-example.aspx
+
+FSCloud
+https://web.fscloud.cc/#/login
+
+百度一下，你就知道
+https://www.baidu.com/
+
+Google 翻译
+https://translate.google.com/
+
+Cloud Service Providers List
+https://chat.openai.com/c/8b27f2eb-9556-4920-8906-34c5157cd93a
+
+wasmerio/wasmer: 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+https://github.com/wasmerio/wasmer
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+servo/components/script/dom/gamepad.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/gamepad.rs
+
+2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2023
+
+wp_495.pdf
+https://ris.utwente.nl/ws/portalfiles/portal/5134989/wp_495.pdf
+
+Jon Kleinberg's Homepage
+https://www.cs.cornell.edu/home/kleinber/
+
+INFO 1260 / CS 1340: Choices and Consequences in Computing
+https://courses.cs.cornell.edu/cs1340/2022sp/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=selfish&op=translate
+
+openai microsoft - Google 搜索
+https://www.google.com/search?q=openai+microsoft&oq=openai+microsoft&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDUzMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+self programming language - Google 搜索
+https://www.google.com/search?q=self+programming+language&oq=self+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgYIAhAjGCcyBggDEEUYOzIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPNIBCDIzODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+CS 6120: An Efficient Implementation of Self
+https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/self/
+
+self.pdf
+https://www.cs.cmu.edu/~aldrich/courses/819/self.pdf
+
+About
+https://dubroy.com/blog/about/
+
+800017.800542
+https://dl.acm.org/doi/pdf/10.1145/800017.800542
+
+CS 6120: Self-Confidence: How SELF Became a High-Performance Language
+https://www.cs.cornell.edu/courses/cs6120/2020fa/blog/self/
+
+Xerox PARC, Software Concepts Group - Google 搜索
+https://www.google.com/search?q=Xerox+PARC%2C+Software+Concepts+Group&oq=Xerox+PARC%2C+Software+Concepts+Group&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzI0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Xerox Corporation pc - Google 搜索
+https://www.google.com/search?q=Xerox+Corporation+pc&sca_esv=602266585&sxsrf=ACQVn098Z7LioLFNqHudeNwEVzi3lKb2oA%3A1706508871640&ei=R0K3ZZ_YJrvDjuMP8Y2BsAI&ved=0ahUKEwjfl-b4-IGEAxW7oWMGHfFGACYQ4dUDCBA&uact=5&oq=Xerox+Corporation+pc&gs_lp=Egxnd3Mtd2l6LXNlcnAiFFhlcm94IENvcnBvcmF0aW9uIHBjMgUQIRigATIFECEYoAFI9AZQ2AJYjQVwAXgBkAEAmAHdAaAB_QOqAQUwLjIuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBBAAGB7CAgYQABgIGB7iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Allan M. Schiffman - Google 搜索
+https://www.google.com/search?q=Allan+M.+Schiffman&oq=Allan+M.+Schiffman&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBBzIyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+大衛·溫加爾 - Google 搜索
+https://www.google.com/search?sca_esv=602266585&sxsrf=ACQVn0-MrrDA7d_EDECqA3soeEifa1MrrQ:1706508977202&q=%E5%A4%A7%E8%A1%9B%C2%B7%E6%BA%AB%E5%8A%A0%E7%88%BE&si=AKbGX_quRqsihyZnuL2RSSiE_ZUeFL6dL21SwuP52mndAnFYXPza5Q-NfFXzCDP_Pzvxq88UuSRyKRnualxAKYfwqUgGnQmRSLg3BmGauungvAcgsS_lfeunoQbvDvpHRejNN1-pxgVHB3-I1eAaLKsszgVVqwBA6aVrUDv1VuCCDWwPYgLzSyVdQcejgnrEDXRzJvaWvAMr&sa=X&ved=2ahUKEwjZmZGr-YGEAxXGxzgGHRniBA0Q6RN6BAgiEAE&biw=1280&bih=593&dpr=1.5
+
+CS 6120: Schedule
+https://www.cs.cornell.edu/courses/cs6120/2019fa/schedule/
+
+CS 6120: Representing Programs
+https://www.cs.cornell.edu/courses/cs6120/2023fa/lesson/2/
+
+sampsyo/bril: an educational compiler intermediate representation
+https://github.com/sampsyo/bril
+
+Randall B. Smith - Google 搜索
+https://www.google.com/search?q=Randall+B.+Smith&oq=Randall+B.+Smith&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Dijkstra's algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
+Algorithm 360: shortest-path forest with topological ordering [H] | Communications of the ACM
+https://dl.acm.org/doi/10.1145/363269.363610
+
+Clean Coder Blog
+https://blog.cleancoder.com/uncle-bob/2016/10/26/DijkstrasAlg.html
+
+Edsger W. Dijkstra - Wikipedia
+https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+
+Jan L. A. van de Snepscheut - Wikipedia
+https://en.wikipedia.org/wiki/Jan_L._A._van_de_Snepscheut#cite_note-4
+
+Dijkstra's algorithm revisited: the dynamic programming connexion
+https://www.infona.pl/resource/bwmeta1.element.baztech-article-BAT5-0013-0005/tab/summary
+
+Algorithms and Data Structures: The Basic Toolbox | SpringerLink
+https://link.springer.com/book/10.1007/978-3-540-77978-0
+
+Kurt Mehlhorn - Google 搜索
+https://www.google.com/search?q=Kurt+Mehlhorn&oq=Kurt+Mehlhorn&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAUYHjIICAcQABgFGB7SAQc4MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+peter sanders kit - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNMqrKjDPM2D0EixILUktUihOzEtJLSpWyM4sAQCiAQqV&q=peter+sanders+kit&oq=Peter+Sanders&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOzIHCAEQLhiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMTI3MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+What Computing Is All About Jan L. A. van de Snepscheut - Google 搜索
+https://www.google.com/search?sca_esv=602274207&sxsrf=ACQVn0_7xjbu6VyxlhFOjUvYUQbjBU4x8Q:1706513490765&q=What+Computing+Is+All+About+%E6%8F%9A%C2%B7L%C2%B7A%C2%B7%E8%8C%83%C2%B7%E5%BE%B7%C2%B7%E6%96%AF%E5%85%A7%E6%99%AE%E8%82%96%E7%89%B9%E7%9A%84%E4%B9%A6%E7%B1%8D&si=AKbGX_p368Bd27TGf6JTqZ4kpW3-r_nCnnzHJTxCR8SmfogB-eblg3FU9aPk5RblNXbD64QdiO7g-3kjBk0n5uLVC69tXz171VyMTJAyDBhiKENFapIoJu4-qwmvqOPE7C2Qf2W89IoVwYx31N0xth9GhBfkqA7LZWjahoqMDYxu4i02oMYg2PS1wm38IoxZAlnjrf9rVh4UvuHOm0kRCRJflkCiFGKpwulwRZhzCja8_CKvhCGILbG9-E5P2bTMrycOf8HP81iV&sa=X&ved=2ahUKEwiBj6-TioKEAxXR4DgGHf8_CL4Q6RN6BAhREAE&biw=1280&bih=593&dpr=1.5#ip=1
+
+Facebook
+https://www.facebook.com/ccckmit
+
+奥创 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%89%B5
+
+奥创 高清 - Google 搜索
+https://www.google.com/search?q=%E5%A5%A5%E5%88%9B+%E9%AB%98%E6%B8%85&tbm=isch&ved=2ahUKEwjRvIT65IKEAxUYSGwGHZX9B8IQ2-cCegQIABAA&oq=%E5%A5%A5%E5%88%9B+%E9%AB%98%E6%B8%85&gs_lcp=CgNpbWcQAzoECCMQJzoHCAAQgAQQDDoJCAAQgAQQDBAYUPkDWK4TYMEUaABwAHgBgAHLAogBoguSAQcwLjMuMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=ibO3ZZHUD5iQseMPlfufkAw&bih=593&biw=1280
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
