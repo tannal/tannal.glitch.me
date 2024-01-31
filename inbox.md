@@ -1,4 +1,32 @@
+# 2024-1-31 | 
+
+前奏 主歌A1 A2 副歌B1 B2 间奏1 主歌A2 副歌 B1 B2 间奏2/桥段 副歌 B1 B2 尾奏
+
+intro verse chorus Interlude verse chorus bridge chorus outro
+
+If you have a constant N, computer still can handle it not matter how big it is.
+But if the N is not a constant, it changes over time(or other things), that does sucks. 
+
+When to give up?
+
+1. When you run out of ideas.
+2. things just don't work
+
+don't really give up, write down your attempt and most time you will come back to it in the future.
+
+
+redshift
+
 # 2024-1-30 | 
+
+winget install Microsoft.OpenJDK.17
+winget install Microsoft.OpenJDK.11
+
+https://www.andrew.cmu.edu/user/mm6/95-733/iot/The_Computer_For_The_21st_Century.pdf
+
+https://github.com/pdf2htmlEX/pdf2htmlEX
+
+You don't need to explain when no one ask for an explaination.
 
 https://en.wikipedia.org/wiki/Implicit_learning#cite_note-1
 
@@ -43,6 +71,9 @@ typedef struct
 
 ```bash
 
+set http_proxy=http://192.168.43.1:7890
+set https_proxy=http://192.168.43.1:7890
+
 git clone https://github.com/MetaCubeX/ClashMetaForAndroid
 
 git submodule update --init --recursive
@@ -65,7 +96,6 @@ LEVEL1_DCACHE_LINESIZE
 
 # 2024-1-29 | 
 
-<<<<<<< HEAD
 
 export CC=/usr/bin/clang
 export CXX=/usr/bin/clang++
@@ -76,7 +106,6 @@ $env:CXX = "TRUE"
 
 cmake --build build
 
-=======
 https://www.cs.cornell.edu/courses/cs6120/2023fa/schedule/
 
 https://lec.inf.ethz.ch/DA/2017/slides/daLecture3.en.handout.4x4.pdf
@@ -111,7 +140,6 @@ text editor rich text editor design tools figma
 
 multimedia image & video & audio
 
->>>>>>> d6fed2421966a7c845bc6f3553896d8d1809445f
 https://twitter.com/cHHillee
 
 https://github.com/MrDHat
@@ -4763,6 +4791,7 @@ winget install -e --id Microsoft.VisualStudioCode
 
 winget install -e --id Microsoft.vcpkg
 winget install Microsoft.OpenJDK.21
+winget install Microsoft.OpenJDK.17
 
 winget install -e --id Unity.UnityHub
 

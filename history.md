@@ -1,3 +1,194 @@
+# 2024-1-31
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox#cite_note-:1-2
+
+Machine perception - Wikipedia
+https://en.wikipedia.org/wiki/Machine_perception
+
+Robotic sensing - Wikipedia
+https://en.wikipedia.org/wiki/Robotic_sensing
+
+The Tacit Dimension pdf - Google 搜索
+https://www.google.com/search?q=The+Tacit+Dimension+pdf&sca_esv=213bf1ba865ab4e8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09VSeUzwkpHAxT3ul3Vr39mhzjeLQ%3A1706597942296&ei=Np64ZbnYEYyq4-EPkfqgqAs&ved=0ahUKEwi5y__gxISEAxUM1TgGHRE9CLUQ4dUDCBA&uact=5&oq=The+Tacit+Dimension+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiF1RoZSBUYWNpdCBEaW1lbnNpb24gcGRmMggQABiABBjLATIGEAAYCBgeSJUFUGhY-ANwAXgBkAEAmAHGAaABjQSqAQMwLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIFEAAYgATCAgQQABge4gMEGAAgQYgGAZAGAw&sclient=gws-wiz-serp#ip=1
+
+Polanyi, Michael (May 2009). The Tacit Dimension. Chicago: University of Chicago Press. pp - Google 搜索
+https://www.google.com/search?q=Polanyi%2C+Michael+(May+2009).+The+Tacit+Dimension.+Chicago%3A+University+of+Chicago+Press.+pp&rlz=1C1GCEA_enJP1090JP1090&oq=Polanyi%2C+Michael+(May+2009).+The+Tacit+Dimension.+Chicago%3A+University+of+Chicago+Press.+pp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+The Tacit Dimension - Michael Polanyi, Amartya Sen - Google 图书
+https://books.google.com.sg/books?redir_esc=y&hl=zh-CN&id=zfsb-eZHPy0C&q=piano#v=onepage&q=piano&f=false
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+The Tacit Dimension - Google 搜索
+https://www.google.com/search?q=The+Tacit+Dimension&sca_esv=213bf1ba865ab4e8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09tGe_Cbhgan1MlLjDVVUEjFQW7Ig%3A1706599102749&ei=vqK4ZZmoLeOv4-EPn6KgiA4&ved=0ahUKEwiZ_6uKyYSEAxXj1zgGHR8RCOEQ4dUDCBA&uact=5&oq=The+Tacit+Dimension&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RoZSBUYWNpdCBEaW1lbnNpb24yChAjGIAEGIoFGCcyChAjGIAEGIoFGCcyBBAjGCcyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHkj_BVDbAliFBHABeAGQAQCYAcUBoAHuAqoBAzAuMrgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp
+
+The_Computer_For_The_21st_Century.pdf
+https://www.andrew.cmu.edu/user/mm6/95-733/iot/The_Computer_For_The_21st_Century.pdf
+
+Browse Results
+https://www.andrew.cmu.edu/cgi-bin/search?type=4&name=18
+
+18-667: Algorithms for Large-scale ML
+https://www.andrew.cmu.edu/course/18-667/
+
+deeplearningbook.org/contents/ml.html
+https://www.deeplearningbook.org/contents/ml.html
+
+Introduction to Computer Systems 15-213/18-243, spring 2009
+https://www.andrew.cmu.edu/course/18-613/lectures/19-ecf-procs.pdf
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+pdf2htmlEX/pdf2htmlEX: Convert PDF to HTML without losing text or format.
+https://github.com/pdf2htmlEX/pdf2htmlEX
+
+迈克尔·波兰尼 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%B3%A2%E5%85%B0%E5%B0%BC
+
+约翰·查尔斯·波拉尼 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E6%B3%A2%E6%8B%89%E5%B0%BC
+
+Why run 'gradle clean build' instead of 'gradle build'? - Stack Overflow
+https://stackoverflow.com/questions/29028748/why-run-gradle-clean-build-instead-of-gradle-build
+
+The Tacit Dimension - Google 搜索
+https://www.google.com/search?q=The+Tacit+Dimension&rlz=1C1GCEA_enJP1090JP1090&oq=The+Tacit+Dimension&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIOCAMQRRgnGDsYgAQYigUyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc2NzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[BUG] Compile error on Java 21, Unsupported class file major version 65 · Issue #3492 · projectlombok/lombok
+https://github.com/projectlombok/lombok/issues/3492
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+java version manager windows - Google 搜索
+https://www.google.com/search?q=java+version+manager+windows&sca_esv=251b1afa33144db8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-pDM80mrA4w2RN4Q0AnUgwnHj_3g%3A1706601861048&ei=ha24ZYCQAuW_juMP1YCH8Ak&ved=0ahUKEwjA5syt04SEAxXln2MGHVXAAZ4Q4dUDCBA&uact=5&oq=java+version+manager+windows&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGphdmEgdmVyc2lvbiBtYW5hZ2VyIHdpbmRvd3MyCBAAGIAEGMsBSPgOUJMGWIgOcAF4AJABAJgBtgGgAYsKqgEDMC44uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIEEAAYHsICBhAAGAUYHsICBhAAGAgYHuIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Tone.js
+https://tonejs.github.io/
+
+audio.js
+https://github.com/audiojs
+
+Tone.js Piano sampler & Step sequencer
+https://codepen.io/jend-codes/pen/PoNbGGX
+
+gecko-dev build for android - Google 搜索
+https://www.google.com/search?q=gecko-dev+build+for+android&sca_esv=1988b3a509d1e210&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Cj4OJxtzjBq02XaslykpcJf-Lug%3A1706615928318&ei=eOS4ZdOGE7yc4-EP8Yav-A8&ved=0ahUKEwjTorPhh4WEAxU8zjgGHXHDC_8Q4dUDCBA&uact=5&oq=gecko-dev+build+for+android&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2dlY2tvLWRldiBidWlsZCBmb3IgYW5kcm9pZDIFECEYoAFI2y1QpwRY5ixwCHgAkAEBmAHpAaABrhqqAQYwLjIzLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBhAAGAgYHsICBxAhGAoYoAHCAgkQIRgKGKABGAriAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=octave&op=translate
+
+Chord progression - Wikipedia
+https://en.wikipedia.org/wiki/Chord_progression
+
+ChatGPT
+https://chat.openai.com/c/78a1ddcd-9cfc-44ac-aed9-2a39240ba1ab
+
+(3 封私信 / 80 条消息) 音乐中的的一拍大概是多长时间？ - 知乎
+https://www.zhihu.com/question/39977804
+
+Chords in C Progression
+https://chat.openai.com/c/78a1ddcd-9cfc-44ac-aed9-2a39240ba1ab
+
+Top-level await is not available in the configured target environment ("chrome87", "edge88", "es2019", "firefox78", "safari13.1") · Issue #6985 · vitejs/vite
+https://github.com/vitejs/vite/issues/6985
+
+宋冬野 - 安和橋『代替夢想的...也只能是勉為其難。』【動態歌詞Lyrics】 - YouTube
+https://www.youtube.com/watch?v=ClN61mkP0Rs
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+(51) #general > GitHub Actions for publishing Mozjs releases - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/GitHub.20Actions.20for.20publishing.20Mozjs.20releases
+
+linebender/skribo: A Rust library for low-level text layout.
+https://github.com/linebender/skribo
+
+Community Verification of Tauri & Servo Integration · Issue #1153 · tauri-apps/wry
+https://github.com/tauri-apps/wry/issues/1153
+
+project/governance/tsc/tsc-2024-01-29.md at main · servo/project
+https://github.com/servo/project/blob/main/governance/tsc/tsc-2024-01-29.md
+
+redshift - Google 搜索
+https://www.google.com/search?q=redshift&rlz=1C1GCEA_enJP1090JP1090&oq=redshift&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE4MTFqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+AMD Ryzen™ Threadripper™ 3970X Drivers & Support | AMD
+https://www.amd.com/en/support/cpu/amd-ryzen-processors/amd-ryzen-threadripper-processors/amd-ryzen-threadripper-3970x
+
+andy and javascript programmer - Google 搜索
+https://www.google.com/search?q=andy+and+javascript+programmer&rlz=1C1GCEA_enJP1090JP1090&oq=andy+and+javascript+programmer&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDY4NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Chord progression - Wikipedia
+https://en.wikipedia.org/wiki/Chord_progression
+
+javascript - How do I clear all intervals? - Stack Overflow
+https://stackoverflow.com/questions/8635502/how-do-i-clear-all-intervals
+
+主副歌与韵脚-简化与拓展版
+https://www.zhihu.com/tardis/zm/art/436152149?source_id=1003
+
+一百瓦一小时多少度电 - Google 搜索
+https://www.google.com/search?q=%E4%B8%80%E7%99%BE%E7%93%A6%E4%B8%80%E5%B0%8F%E6%97%B6%E5%A4%9A%E5%B0%91%E5%BA%A6%E7%94%B5&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%80%E7%99%BE%E7%93%A6%E4%B8%80%E5%B0%8F%E6%97%B6%E5%A4%9A%E5%B0%91%E5%BA%A6%E7%94%B5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCTE2MzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+b23.tv/uMavugSr
+https://b23.tv/uMavugSr
+
+Windows的hosts文件在哪里？-CSDN博客
+https://blog.csdn.net/cc1949/article/details/78411865
+
+家居环境智能检测系统 | 毕业设计 | ESP32C3 | Arduino | Vue3 | 微信小程序_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1nY411N75X/?spm_id_from=333.337.search-card.all.click
+
+MQTT.js
+https://github.com/mqttjs
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+Index of /
+http://124.223.112.154:8080/
+
+Cloud
+http://124.223.112.154:14000/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos/tree/main
+
+Yjs Prosemirror Example
+http://124.223.112.154:13000/prosemirror/prosemirror.html
+
+ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+https://github.com/ckeditor/ckeditor5?tab=readme-ov-file#editing-and-collaboration-features
+
+Collaboration overview | CKEditor 5 Documentation
+https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/collaboration.html
+
 # 2024-1-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
