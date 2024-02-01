@@ -1,3 +1,215 @@
+# 2024-2-1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Web Editing APIs - W3C Wiki
+https://www.w3.org/wiki/Web_Editing_APIs
+
+Merge (version control) - Wikipedia
+https://en.wikipedia.org/wiki/Merge_(version_control)
+
+WebDAV - Wikipedia
+https://en.wikipedia.org/wiki/WebDAV
+
+Etherpad - Wikipedia
+https://en.wikipedia.org/wiki/Etherpad
+
+Selection API
+https://w3c.github.io/selection-api/
+
+Etherpad - Wikipedia
+https://en.wikipedia.org/wiki/Etherpad
+
+Google Docs - Wikipedia
+https://en.wikipedia.org/wiki/Google_Docs
+
+ayg (Aryeh Gregor)
+https://github.com/ayg
+
+JefMari/awesome-wysiwyg-editors: A curated list of awesome WYSIWYG Editors.
+https://github.com/JefMari/awesome-wysiwyg-editors
+
+Collaborative editing – Tiptap
+https://tiptap.dev/docs/editor/guide/collaborative-editing
+
+ueberdosis/tiptap: The headless rich text editor framework for web artisans.
+https://github.com/ueberdosis/tiptap
+
+yjs/y-webrtc: WebRTC Connector for Yjs
+https://github.com/yjs/y-webrtc
+
+Is quill dead? · Issue #3359 · quilljs/quill
+https://github.com/quilljs/quill/issues/3359
+
+General Memory leaks when using the quill editor · Issue #3749 · quilljs/quill
+https://github.com/quilljs/quill/issues/3749
+
+HTML video Tag
+https://www.w3schools.com/tags/tag_video.asp
+
+Public video url for your test
+https://gist.github.com/SeunghoonBaek/f35e0fd3db80bf55c2707cae5d0f7184
+
+How to Insert Video in HTML - Learn HTML | W3Docs
+https://www.w3docs.com/snippets/html/how-to-insert-video-in-html.html
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit%20contenteditable&type=code
+
+(50) #general > Focus areas in WPT - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Focus.20areas.20in.20WPT
+
+Servo WPT CSS scores
+https://wpt.servo.org/
+
+Google Launches Plugin That Fuses Microsoft Office With Google Docs | TechCrunch
+https://techcrunch.com/2010/11/22/google-launches-plugin-that-fuses-microsoft-office-with-google-docs/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=google%20docs&sort=byPopularity&type=story
+
+convert any files to text - Google 搜索
+https://www.google.com/search?q=convert+any+files+to+text&rlz=1C1GCEA_enJP1090JP1090&oq=convert+any+files+to+text&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCTE3OTE4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+ChatGPT
+https://chat.openai.com/c/b828f775-9b8b-431f-baa5-b8db067fd4e9
+
+(3 封私信 / 80 条消息) 小米手机一次只能复制粘贴一千字，安装其他输入法也不能扩充字数，应该怎么解决？ - 知乎
+https://www.zhihu.com/question/604582204/answer/3226523899
+
+Base64 在线编码解码 | Base64 加密解密 - Base64.us
+https://base64.us/
+
+How to set executable permissions on a file in Android to execute using "Runtime.getRuntime().exec(..)" - Stack Overflow
+https://stackoverflow.com/questions/22789269/how-to-set-executable-permissions-on-a-file-in-android-to-execute-using-runtime
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+mp4 stream url - Google 搜索
+https://www.google.com/search?q=mp4+stream+url&rlz=1C1GCEA_enJP1090JP1090&oq=mp4+stre&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDk0ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Termux-setup-storage - Termux Wiki
+https://wiki.termux.com/wiki/Termux-setup-storage
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+node.js - 'CANNOT LINK EXECUTABLE "node": library "libcrypto.so.3" not found - Stack Overflow
+https://stackoverflow.com/questions/71337612/cannot-link-executable-node-library-libcrypto-so-3-not-found
+
+Release v0.118.0 · termux/termux-app
+https://github.com/termux/termux-app/releases/tag/v0.118.0
+
+小米手机怎么设置关闭应用安装安全检查-百度经验
+https://jingyan.baidu.com/article/54b6b9c095d3226c583b47df.html
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Index of /storage/
+http://192.168.150.217:8080/storage/
+
+Index of /Camera/
+http://124.223.112.154:18080/Camera/
+
+Document - Yjs | Liveblocks documentation
+https://liveblocks.io/docs/products/document/yjs
+
+p2p网络 - Google 搜索
+https://www.google.com/search?q=+p2p%E7%BD%91%E7%BB%9C+&sca_esv=3fe0b148ff4f6c90&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08AuRfj3TZ5GXBL65bfEwZ7y0cS7g%3A1706700211639&ei=sy26Zf7YJpCM4-EPxJi6wAY&ved=0ahUKEwi-_ujewYeEAxUQxjgGHUSMDmgQ4dUDCBA&uact=5&oq=+p2p%E7%BD%91%E7%BB%9C+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCyBwMnDnvZHnu5wgMgYQABgHGB4yBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIkj9QqQtYvjNwA3gBkAEAmAGBA6AB5AiqAQcwLjUuMC4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAhGKABGMME4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+个人电信宽带申请公网IP地址方法 - 知乎
+https://zhuanlan.zhihu.com/p/475398360
+
+Index of /storage/shared/Pictures/
+http://192.168.150.217:8080/storage/shared/Pictures/
+
+Briar | F-Droid - Free and Open Source Android App Repository
+https://f-droid.org/en/packages/org.briarproject.briar.android/
+
+ShaderEditor/app/src/debug/res at master · markusfisch/ShaderEditor
+https://github.com/markusfisch/ShaderEditor/tree/master/app/src/debug/res
+
+PurpleI2P/i2pd-android: i2pd for Android
+https://github.com/PurpleI2P/i2pd-android
+
+meshenger-app/meshenger-android: P2P Voice/Video phone App for local networks.
+https://github.com/meshenger-app/meshenger-android
+
+element-hq/element-android: A glossy Matrix collaboration client for Android.
+https://github.com/element-hq/element-android
+
+Issues · meshenger-app/meshenger-android
+https://github.com/meshenger-app/meshenger-android/issues
+
+(1) F-Droid Forum
+https://forum.f-droid.org/
+
+Telegram: Join Group Chat
+https://t.me/joinchat/AlRQekvjWDTuQrCgMYSNVA
+
+Casual • Markus Fisch
+http://markusfisch.de/games-casual.html
+
+music
+http://localhost:5173/
+
+Sequence
+https://tonejs.github.io/docs/14.7.77/Sequence.html
+
+you could save us why you don't do something more? - Google 搜索
+https://www.google.com/search?q=you+could+save+us+why+you+don%27t+do+something+more%3F&rlz=1C1GCEA_enJP1090JP1090&oq=you+could+save+us+why+you+don%27t+do+something+more%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIGCAUQRRhAMgYIBhBFGDwyBggHEEUYPNIBBzYzOWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+briar 无线局域网 - Google 搜索
+https://www.google.com/search?q=briar+%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91&rlz=1C1GCEA_enJP1090JP1090&oq=briar+%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQzMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+没有应用程序正在运行 - Google 搜索
+https://www.google.com/search?q=%E6%B2%A1%E6%9C%89%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%AD%A3%E5%9C%A8%E8%BF%90%E8%A1%8C&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%B2%A1%E6%9C%89%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%AD%A3%E5%9C%A8%E8%BF%90%E8%A1%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBNIBCDk4NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+meshenger-android/app/src/main/kotlin/d/d/meshenger/call/RTCCall.kt at 670d9c60a2b7142c308e7fe78dad2b43316e247f · meshenger-app/meshenger-android
+https://github.com/meshenger-app/meshenger-android/blob/670d9c60a2b7142c308e7fe78dad2b43316e247f/app/src/main/kotlin/d/d/meshenger/call/RTCCall.kt#L275
+
+红米手机看ip地址 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E7%9C%8Bip%E5%9C%B0%E5%9D%80&sca_esv=35124072aa3934e9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09TO0R0T4D5oJxDIv5MCOFwWePFyQ%3A1706763836137&ei=PCa7ZfqACLKy4-EP4a6n6AQ&ved=0ahUKEwj6jqzhromEAxUy2TgGHWHXCU0Q4dUDCBA&uact=5&oq=%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E7%9C%8Bip%E5%9C%B0%E5%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-e6ouexs-aJi-acuueci2lw5Zyw5Z2AMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYiQUYogRIhSNQogRY5CFwAXgBkAEAmAG6AaAB9x2qAQQwLjI2uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgoQIxiABBiKBRgnwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA8ICCBAAGIAEGLEDwgIMECMYgAQYigUYExgnwgIREC4YgwEYxwEYsQMY0QMYgATCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIFEC4YgATCAgsQLhiABBixAxiDAcICIBAuGIMBGMcBGLEDGNEDGIAEGJcFGNwEGN4EGOAE2AEBwgIOEAAYgAQYigUYsQMYgwHCAgsQLhiABBixAxjUAsICCBAAGIAEGMsBwgIOEC4YgAQYywEYxwEYrwHCAgoQABiABBjLARgKwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAziAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+javascript - Node.js - forward all traffic from port A to port B - Stack Overflow
+https://stackoverflow.com/questions/6490898/node-js-forward-all-traffic-from-port-a-to-port-b
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+TURN 服务器  |  WebRTC
+https://webrtc.org/getting-started/turn-server?hl=zh-cn
+
+meshenger-android/app/src/main/kotlin/d/d/meshenger/call/RTCCall.kt at 670d9c60a2b7142c308e7fe78dad2b43316e247f · meshenger-app/meshenger-android
+https://github.com/meshenger-app/meshenger-android/blob/670d9c60a2b7142c308e7fe78dad2b43316e247f/app/src/main/kotlin/d/d/meshenger/call/RTCCall.kt#L20
+
+coturn/coturn: coturn TURN server project
+https://github.com/coturn/coturn
+
+android configure values - Google 搜索
+https://www.google.com/search?q=android+configure+values&rlz=1C1GCEA_enJP1090JP1090&oq=android+configure+values&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDk2MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Android Studio连接真机无法识别解决方案 - 知乎
+https://zhuanlan.zhihu.com/p/122180787
+
+WebRTC - STUN/TURN服务器的搭建（使用coturn） - Brisk - 博客园
+https://www.cnblogs.com/brisk/p/17033862.html
+
+Trickle ICE
+https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+
 # 2024-1-31
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

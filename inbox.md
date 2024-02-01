@@ -1,4 +1,67 @@
+# 2024-2-1 | 
+
+sudo apt install coturn
+turnserver --log-file stdout -p 10088
+
+sudo systemctl daemon-reload
+
+
+sudo mkdir /etc/coturn/
+sudo vim /etc/turnserver.conf
+systemctl status coturn
+sudo systemctl restart coturn
+sudo journalctl -u coturn
+
+sudo openssl req -x509 -newkey rsa:1024 -keyout /etc/turn_server_key.pem -out /etc/turn_server_cert.pem -days 9999 -nodes
+
+```bash
+listening-ip=0.0.0.0
+
+listening-port=13478　　#STUN/TURN服务的端口 对应UDP和TCP的端口都要打开
+
+tls-listening-port=15349　　#TURN服务器的tls端口
+
+relay-ip=10.0.12.15 服务器内网IP地址
+
+external-ip=124.223.112.154 服务器公网IP地址
+
+lt-cred-mech　　# 开启密码验证
+
+cert=/etc/turn_cert.pem　　#证书地址
+
+pkey=/etc/turn_key.pem　　#密钥地址
+
+no-cli　　# 关闭CLI支持
+
+user=tannal:tannal　　# 设置ICE时所用的用户名和密码
+```
+
+lsof -i:10088
+
 # 2024-1-31 | 
+
+beat per minute
+
+wget https://f-droid.org/F-Droid.apk
+
+https://wiki.termux.com/wiki/Installation
+https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
+
+http-server storage/shared/DCIM/
+
+pkg upgrade && pkg update
+
+termux-change-repo
+
+pkg install nodejs
+
+npm i -g http-server
+
+http-server
+
+termux-setup-storage
+
+cd storage
 
 前奏 主歌A1 A2 副歌B1 B2 间奏1 主歌A2 副歌 B1 B2 间奏2/桥段 副歌 B1 B2 尾奏
 
@@ -330,6 +393,7 @@ gdown --id
 nc -u 127.0.0.1 14000
 
 sudo tcpdump -i any udp port 14000
+sudo tcpdump -i any tcp port 10001
 
 https://www.youtube.com/watch?v=G4wpDNa5Bm4&list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK
 
@@ -2182,6 +2246,11 @@ editor live edit
 adb devices
 adb tcpip 5555
 adb connect 192.168.43.58:5555
+
+
+adb disconnect 192.168.43.58
+
+
 
 sudo stackcount-bpfcc send_sig -K
 
