@@ -2,6 +2,11 @@
 
 
 
+1. You hacks around to get things works.
+2. As time goes on, you find you are doing something wrong.
+3. You throw all the crap away and rewrite the shit.
+4. goto 2
+
 # 2024-2-1 | 
 
 在gradle.properties 文件中添加如下指令：
@@ -90,6 +95,11 @@ don't really give up, write down your attempt and most time you will come back t
 redshift
 
 # 2024-1-30 | 
+
+
+create table schema catalog
+
+reinterpret_cask<int32_t*> (address)
 
 winget install Microsoft.OpenJDK.17
 winget install Microsoft.OpenJDK.11

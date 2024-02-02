@@ -1,5 +1,143 @@
 # 2024-2-2
 
+便宜机场汇总 - Askahh机场测速
+https://askahh.com/archives/26/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+(1) Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+(1) DesignCourse - Advanced Frontends by Gary Simon - TutFlix - Free Education Community
+https://tutflix.org/resources/designcourse-advanced-frontends-by-gary-simon.10462/
+
+designcourse
+https://github.com/designcourse
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+JefMari/awesome-wysiwyg-editors: A curated list of awesome WYSIWYG Editors.
+https://github.com/JefMari/awesome-wysiwyg-editors
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&text=grind%0A&op=translate
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+how to take whole ubuntu 16.04 system backup into external hard disk - Ask Ubuntu
+https://askubuntu.com/questions/963021/how-to-take-whole-ubuntu-16-04-system-backup-into-external-hard-disk
+
+eunomia-bpf/bpftime: Userspace eBPF runtime for fast Uprobe & Syscall hook & Extensions
+https://github.com/eunomia-bpf/bpftime
+
+[2311.07923] bpftime: userspace eBPF Runtime for Uprobe, Syscall and Kernel-User Interactions
+https://arxiv.org/abs/2311.07923
+
+Computer Science authors/titles recent submissions
+https://arxiv.org/list/cs/recent
+
+2401.08858.pdf
+https://arxiv.org/pdf/2401.08858.pdf
+
+arxiv year - Google 搜索
+https://www.google.com/search?q=arxiv+year&rlz=1C1GCEA_enCN1091CN1091&oq=arxiv+year+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINzcyN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Alex Conway
+https://ajhconway.com/
+
+ajhconway (Alex Conway)
+https://github.com/ajhconway
+
+Ainesh Bakshi
+https://aineshbakshi.com/
+
+Arghya Bhattacharya
+https://www3.cs.stonybrook.edu/~argbhattacha/
+
+Research-Talk-Arghya-Bhattacharya-Google.pdf
+https://www.dropbox.com/scl/fi/yve554p0bj21tlw5sj8t1/Research-Talk-Arghya-Bhattacharya-Google.pdf?rlkey=ivu12d4fpb23vpgq5b6t0hf8v&dl=0
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+eBPF 入门开发实践教程二：Hello World，基本框架和开发流程
+https://mp.weixin.qq.com/s/YUbaBSTfSsg57lPzw34Hrw
+
+iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+https://github.com/iovisor/bcc
+
+Code search results
+https://github.com/search?q=repo%3Acilium%2Febpf%20libebpf&type=code
+
+libbpf/libbpf: Automated upstream mirror for libbpf stand-alone build.
+https://github.com/libbpf/libbpf
+
+2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/598186762133482
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589/?multi_permalinks=1532951214149438&hoisted_section_header_type=recently_seen&paipv=0&eav=Afby70mjaWyNBgLA00w-ArW1PgpK6VH0e6TzGjb-XwEJSho6QTFFSaY_3fAczx9ew2Q&_rdr
+
+stclib/STC: A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
+https://github.com/stclib/STC?fbclid=IwAR2g8cpkqhVaEaw5VqzoarM3FgjX1gN68AEfEpr19cpZBMNNwsOJLif0Wa0
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me/
+
+Code search results
+https://github.com/search?q=repo%3Agoogle%2Fleveldb%20mmap&type=code
+
+write your own mmap - Google 搜索
+https://www.google.com/search?q=write+your+own+mmap&oq=write+your+own+mmap&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB7SAQgzMDk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(1) Resources
+https://tutflix.org/resources/
+
+Michael Polanyi - Wikipedia
+https://en.wikipedia.org/wiki/Michael_Polanyi
+
+Post-critical - Wikipedia
+https://en.wikipedia.org/wiki/Post-critical
+
+michael polanyi books - Google 搜索
+https://www.google.com/search?q=michael+polanyi+books&oq=Michael+Polanyi+boo&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyBggCEEUYPDIGCAMQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8#wgvs=e
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=endeavour&op=translate
+
+Touch Pianist | Hacker News
+https://news.ycombinator.com/item?id=37431644
+
+mudcube/MIDI.js: :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing.
+https://github.com/mudcube/MIDI.js#api
+
+midi.js - Sequencing in Javascript.
+https://sunebear.github.io/midi.js/MIDIPlayer.html
+
+Tone.js
+https://tonejs.github.io/
+
+ronyeh/piano: JavaScript Piano
+https://github.com/ronyeh/piano?tab=readme-ov-file
+
+ronyeh (Ron B. Yeh) / December 2023
+https://github.com/ronyeh?tab=overview&from=2023-12-01&to=2023-12-31
+
+Tone.js Piano sampler & Step sequencer
+https://codepen.io/jend-codes/pen/PoNbGGX
+
+tonejs.github.io/audio/salamander/Ds1.mp3
+https://tonejs.github.io/audio/salamander/Ds1.mp3
+
+C++ Stories
+https://www.cppstories.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
