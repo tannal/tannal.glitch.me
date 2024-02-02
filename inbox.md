@@ -1,6 +1,170 @@
-# 2024-2-2 | 
+# 2024-2-2 1 | 1
+
+git pull
+
+vcpkg update
 
 
+```bash
+
+git clone https://github.com/ggerganov/whisper.cpp.git
+
+```
+
+![Alt text](./image-12.png)
+
+![Alt text](./image-13.png)
+
+![Alt text](image-14.png)
+
+# Build WasmT
+
+```bash
+
+git checkout upstream/hydai/0.13.5_ggml_lts
+
+
+git status
+
+# cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Release -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_METAL=ON -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF .
+
+cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Release -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF .
+
+cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Debug -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF -DCMAKE_INSTALL_PREFIX=`pwd`/_install .
+
+ninja -C build
+
+cmake --install build
+
+mkdir -p local
+
+cd local/
+
+curl -LO https://github.com/second-state/LlamaEdge/releases/latest/download/llama-api-server.wasm
+
+curl -LO https://huggingface.co/second-state/Llama-2-7B-Chat-GGUF/resolve/main/Llama-2-7b-chat-hf-Q5_K_M.gguf
+
+gdb wasmedge
+
+b ggml.cpp:415
+
+r --dir . --nn-preload default:GGML:AUTO:llama-2-7b-chat.Q5_K_M.gguf llama-api-server.wasm -p llama-2-chat
+
+wasmedge --dir . --nn-preload default:GGML:AUTO:Llama-2-7b-chat-hf-Q5_K_M.gguf llama-api-server.wasm  -p llama-2-chat
+
+apt update && apt install httpie lsof htop jq
+
+apt-get install linux-tools-common linux-tools-generic linux-tools-`uname -r` 
+
+http POST http://localhost:8080/v1/models Accept:application/json
+
+echo '{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a helpful assistant."
+    },
+    {
+      "role": "user",
+      "content": "Who is Taylor Swift?"
+    }
+  ],
+  "model": "llama-2-chat"
+}' | http POST http://localhost:8080/v1/chat/completions Accept:application/json Content-Type:application/json
+
+
+
+echo '{"prompt":["To be or not to be, "], "model":"tinyllama"}' | http POST http://localhost:8080/v1/completions Accept:application/json Content-Type:application/json
+
+
+
+
+
+```
+
+
+```bash
+$env:HTTP_PROXY = "http://192.168.43.1:7890"
+$env:HTTPS_PROXY = "http://192.168.43.1:7890"
+
+
+set http_proxy=http://192.168.43.1:7890
+set https_proxy=http://192.168.43.1:7890
+
+git clone https://github.com/WasmEdge/WasmEdge.git -b hydai/0.13.5_ggml_lts
+
+$env:LLVM_DIR = "C:\\Program Files\\LLVM\\lib\\cmake"
+$env:LLVM_DIR = "C:/Program Files/LLVM/lib/cmake"
+
+cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Release -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_METAL=ON -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF .
+
+
+```
+
+
+std::promise
+
+fwrite
+
+fsync flush dirty pages blocking
+
+direct kernel bypass
+
+direct page cache
+
+linux page cache clock lru-k dustbin
+
+if (buf_state & BM_DIRTY) flush out
+
+index auery background
+
+priority hints
+
+https://dbdb.io/stats
+
+multiple pools pre fetch scan sharing buffer pool bypass
+
+per database buffer pool
+
+per page type buffer pool
+
+frame[]
+
+frame (buffer for postgresql) write through cache write back cache write ahead log
+
+FlushBuffer
+
+latch vs lock
+
+page table vs page directory
+
+lock is protect user's concept (logical contents for user, transactions)
+latch is used protect interrnal structure in database. (typical mutex)
+
+```c
+/*
+ * Record structure holding the to be exposed cache data.
+ */
+typedef struct
+{
+	uint32		bufferid;
+	RelFileNumber relfilenumber;
+	Oid			reltablespace;
+	Oid			reldatabase;
+	ForkNumber	forknum;
+	BlockNumber blocknum;
+	bool		isvalid;
+	bool		isdirty;
+	uint16		usagecount;
+
+	/*
+	 * An int32 is sufficiently large, as MAX_BACKENDS prevents a buffer from
+	 * being pinned by too many backends and each backend will only pin once
+	 * because of bufmgr.c's PrivateRefCount infrastructure.
+	 */
+	int32		pinning_backends;
+} BufferCachePagesRec;
+```
 
 1. You hacks around to get things works.
 2. As time goes on, you find you are doing something wrong.

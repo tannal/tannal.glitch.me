@@ -141,6 +141,213 @@ https://www.cppstories.com/
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/participate/mentee?projectId=a5c2cc3e-a8fe-4fcb-b74f-be74b65a6385
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Contributors to google/btree
+https://github.com/google/btree/graphs/contributors
+
+gconnell (Graeme Connell)
+https://github.com/gconnell
+
+Graeme Connell google - Google 搜索
+https://www.google.com/search?q=Graeme+Connell+google&sca_esv=35767be6b3fc61cd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-RqlMrRLkllyLd5Q-uvkLGN7221Q%3A1706846888058&ei=qGq8Zd6PA7aH4-EPkZiFwAk&ved=0ahUKEwjeg8uT5IuEAxW2wzgGHRFMAZgQ4dUDCBA&uact=5&oq=Graeme+Connell+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUdyYWVtZSBDb25uZWxsIGdvb2dsZTIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIGEAAYCBgeMgYQABgIGB5I7QZQAFiABnAAeAGQAQCYAZEBoAGIAqoBAzAuMrgBA8gBAPgBAeIDBBgAIEE&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGPT
+https://chat.openai.com/c/90063362-fdb0-4998-bd84-48ad9cfc6016
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Andy Pavlo - Carnegie Mellon University
+https://www.cs.cmu.edu/~pavlo/
+
+tikv/tikv: Distributed transactional key-value database, originally created to complement TiDB
+https://github.com/tikv/tikv
+
+Thread: LRU and full table scans : Postgres Professional
+https://postgrespro.com/list/thread-id/1613637
+
+Mike Mascari postgres - Google 搜索
+https://www.google.com/search?q=Mike+Mascari+postgres&sca_esv=c59b207cb3deb01a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-oEIn4fB2p18-RHHbIIG--LSL_Jw%3A1706851320381&ei=-Hu8ZZf0FuadseMP_YqV-Ag&ved=0ahUKEwiX0IrV9IuEAxXmTmwGHX1FBY8Q4dUDCBA&uact=5&oq=Mike+Mascari+postgres&gs_lp=Egxnd3Mtd2l6LXNlcnAiFU1pa2UgTWFzY2FyaSBwb3N0Z3JlczIFECEYoAEyBRAhGKABSI8SUE9YjhFwAngAkAEAmAHPAqABoA2qAQcwLjYuMi4xuAEDyAEA-AEBwgILEAAYgAQYywEYsAPCAgcQABgeGLADwgIIEAAYgAQYywHCAgQQABgewgIHECEYChigAeIDBBgBIEGIBgGQBgM&sclient=gws-wiz-serp
+
+Microsoft SQL Server - Wikipedia
+https://en.wikipedia.org/wiki/Microsoft_SQL_Server
+
+what db does android use - Google 搜索
+https://www.google.com/search?q=what+db+does+android+use&rlz=1C1GCEA_enJP1090JP1090&oq=what+db+does+android+use&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDc0OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fsync Errors - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/Fsync_Errors
+
+Fsyncgate: Errors on fsync are unrecoverable (2018) | Hacker News
+https://news.ycombinator.com/item?id=20491965
+
+Fsyncgate: errors on fsync are unrecovarable
+https://danluu.com/fsyncgate/
+
+Submissions from danluu.com | Hacker News
+https://news.ycombinator.com/from?site=danluu.com
+
+What to learn
+https://danluu.com/learn-what/
+
+• Discord | #ideas | Deno
+https://discord.com/channels/684898665143206084/1022186953527021669
+
+Russ Cox (@_rsc) / X
+https://twitter.com/_rsc
+
+xed/datafiles at main · intelxed/xed
+https://github.com/intelxed/xed/tree/main/datafiles
+
+research!rsc: Our Software Dependency Problem
+https://research.swtch.com/deps
+
+Knuth: Recent News
+https://www-cs-faculty.stanford.edu/~knuth/news22.html#v4b
+
+tannal (tannal)
+https://github.com/tannal/
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182
+
+WasmEdge-WASINN-examples/wasmedge-ggml-llama-interactive at master · second-state/WasmEdge-WASINN-examples
+https://github.com/second-state/WasmEdge-WASINN-examples/tree/master/wasmedge-ggml-llama-interactive
+
+derekwin/LFX_3172
+https://github.com/derekwin/LFX_3172
+
+Page not found · GitHub
+https://github.com/zxc12523/LFX-Mentorship-2024-01-Pre-test
+
+WasmEdge-WASINN-examples/wasmedge-ggml-llama-interactive/wasmedge-ggml-llama-interactive.wasm at master · second-state/WasmEdge-WASINN-examples
+https://github.com/second-state/WasmEdge-WASINN-examples/blob/master/wasmedge-ggml-llama-interactive/wasmedge-ggml-llama-interactive.wasm
+
+Build with WASI-nn Plug-in | WasmEdge Developer Guides
+https://wasmedge.org/docs/contribute/source/plugin/wasi_nn/#build-wasmedge-with-wasi-nn-llamacpp-backend
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+LlamaEdge/api-server at main · second-state/LlamaEdge
+https://github.com/second-state/LlamaEdge/tree/main/api-server
+
+Create codespace
+https://github.com/codespaces/new/tannal/WasmEdge?auto_init=1&resume=1
+
+Build with WASI-nn Plug-in | WasmEdge Developer Guides
+https://wasmedge.org/docs/contribute/source/plugin/wasi_nn/#build-wasmedge-with-wasi-nn-llamacpp-backend
+
+cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+LFX-Mentorship-WasmEdge-2024-01-Pre-test/README.md at main · cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test/blob/main/README.md
+
+Build with WASI-nn Plug-in | WasmEdge Developer Guides
+https://wasmedge.org/docs/contribute/source/plugin/wasi_nn/#prerequisites
+
+hashData github - Google 搜索
+https://www.google.com/search?q=hashData+github&rlz=1C1GCEA_enJP1090JP1090&oq=hashData+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzMDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+酷克数据CEO简丽荣：云原生数据库产业爆发将至-电子工程专辑
+https://www.eet-china.com/mp/a148180.html
+
+(12) #general > Embedding API and rendering - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Embedding.20API.20and.20rendering
+
+For Applicants - LF Networking - LF Networking Confluence
+https://wiki.lfnetworking.org/display/LN/For+Applicants
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=prio&op=translate
+
+Install OpenVINO™ Development Tools — OpenVINO™ documentationCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboardCopy to clipboard — Version(2023.3)
+https://docs.openvino.ai/2023.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools
+
+windows - How to write a multiline command? - Stack Overflow
+https://stackoverflow.com/questions/605686/how-to-write-a-multiline-command
+
+How to print environment variables to the console in PowerShell? - Stack Overflow
+https://stackoverflow.com/questions/50861082/how-to-print-environment-variables-to-the-console-in-powershell
+
+Codespaces
+https://github.com/codespaces
+
+`git fetch` a remote branch - Stack Overflow
+https://stackoverflow.com/questions/9537392/git-fetch-a-remote-branch
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - effective enigma
+https://github.com/codespaces/effective-enigma-4jjj59rgj7jwh55pq?editor=vscode
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+cmake instal prefix - Google 搜索
+https://www.google.com/search?q=cmake+instal+prefix&rlz=1C1GCEA_enJP1090JP1090&oq=cmake+instal+pre&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQkxNTgzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+lsof command apt install - Google 搜索
+https://www.google.com/search?q=lsof+command+apt+install&rlz=1C1GCEA_enJP1090JP1090&oq=lsof+command+apt+install&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU1NTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D20c605531acbd207:TM%3D1706870552:C%3Dr:IP%3D2400:8901::f03c:94ff:fe3e:6774-:S%3DQ_Jqtyn8HH9TB5RMLUJ-WuM%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DFri,+02-Feb-2024+13:42:32+GMT
+
+Provide pre-built binaries through GitHub action · Issue #14995 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/14995
+
+software installation - How to install "perf" monitoring tool? - Ask Ubuntu
+https://askubuntu.com/questions/50145/how-to-install-perf-monitoring-tool
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+httpie format response json - Google 搜索
+https://www.google.com/search?q=httpie+format+response+json&rlz=1C1GCEA_enJP1090JP1090&oq=httpie+format+response+json&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDU0MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Best JSON Pretty Print Online
+https://jsonformatter.org/json-pretty-print
+
+目录英文 - Google 搜索
+https://www.google.com/search?q=%E7%9B%AE%E5%BD%95%E8%8B%B1%E6%96%87&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%9B%AE%E5%BD%95%E8%8B%B1%E6%96%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiiBBiJBdIBCDUwMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+linux - Make install, but not to default directories? - Stack Overflow
+https://stackoverflow.com/questions/3239343/make-install-but-not-to-default-directories
+
+[LLD] please support MSVC ABI in GNU toolchain and support GNU ABI in MSVC toolchain · Issue #60847 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/60847
+
+w64devkit-i686-1.18.0 dll linking in win10 64bit · Issue #51 · skeeto/w64devkit
+https://github.com/skeeto/w64devkit/issues/51
+
+SDL/mingw/pkg-support/cmake at main · libsdl-org/SDL
+https://github.com/libsdl-org/SDL/tree/main/mingw/pkg-support/cmake
+
+linux - SDL 2 C Compiler Flags - Stack Overflow
+https://stackoverflow.com/questions/65365306/sdl-2-c-compiler-flags
+
+github.com
+https://github.com/ggerganov/whisper.cpp/blob/master/.github/workflows/build.yml#L117-L144
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+广东省东莞市石碣镇 邮政编码 - Google 搜索
+https://www.google.com/search?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%9F%B3%E7%A2%A3%E9%95%87+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81&sca_esv=9b2ea68d9d861c72&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08Ntu-lEq3_mewgwnpnqo7mBkYjbw%3A1706877551227&ei=b-K8ZeS3DYnvseMP6eSYsAo&ved=0ahUKEwikq_aw1oyEAxWJd2wGHWkyBqYQ4dUDCBA&uact=5&oq=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%9F%B3%E7%A2%A3%E9%95%87+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiKOW5v-S4nOecgeS4nOiOnuW4guefs-eio-mVhyDpgq7mlL_nvJbnoIEyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI4x1Q2QJY5xxwAXgBkAEAmAHvAaAB_giqAQUwLjYuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgQQABgewgIIEAAYiQUYogTiAwQYACBBiAYBkAYH&sclient=gws-wiz-serp
+
+dongguang - Google 搜索
+https://www.google.com/search?q=dongguang&rlz=1C1GCEA_enJP1090JP1090&oq=dongguang&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 部署私有的turn/stun服务器_coturn 日志-CSDN博客
 https://blog.csdn.net/wzmde007/article/details/109496714
 
