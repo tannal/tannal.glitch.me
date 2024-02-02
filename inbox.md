@@ -1,39 +1,48 @@
+# 2024-2-2 | 
+
+
+
 # 2024-2-1 | 
 
+在gradle.properties 文件中添加如下指令：
+
+android.injected.testOnly=false
+
 sudo apt install coturn
+
+sudo vim /etc/turnserver.conf
 turnserver --log-file stdout -p 10088
 
 sudo systemctl daemon-reload
 
 
-sudo mkdir /etc/coturn/
-sudo vim /etc/turnserver.conf
 systemctl status coturn
 sudo systemctl restart coturn
 sudo journalctl -u coturn
 
 sudo openssl req -x509 -newkey rsa:1024 -keyout /etc/turn_server_key.pem -out /etc/turn_server_cert.pem -days 9999 -nodes
+sudo openssl req -x509 -newkey rsa:1024 -keyout /etc/turn_key.pem -out /etc/turn_cert.pem -days 9999 -nodes
+sudo openssl req -x509 -newkey rsa:1024 -keyout /usr/local/etc/turn_server_pkey.pem -out /usr/local/etc/turn_server_cert.pem -days 9999 -nodes
 
+
+/usr/local/etc/turn_server_pkey.pem
 ```bash
-listening-ip=0.0.0.0
+listening-ip=10.0.12.15
 
-listening-port=13478　　#STUN/TURN服务的端口 对应UDP和TCP的端口都要打开
+listening-port=13478
 
-tls-listening-port=15349　　#TURN服务器的tls端口
+tls-listening-port=15349
 
-relay-ip=10.0.12.15 服务器内网IP地址
+relay-ip=10.0.12.15
 
-external-ip=124.223.112.154 服务器公网IP地址
+external-ip=124.223.112.154
+realm=haha
 
-lt-cred-mech　　# 开启密码验证
+lt-cred-mech
 
-cert=/etc/turn_cert.pem　　#证书地址
+no-cli
 
-pkey=/etc/turn_key.pem　　#密钥地址
-
-no-cli　　# 关闭CLI支持
-
-user=tannal:tannal　　# 设置ICE时所用的用户名和密码
+user=tannal:tannal
 ```
 
 lsof -i:10088

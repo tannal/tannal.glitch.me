@@ -1,3 +1,128 @@
+# 2024-2-2
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+部署私有的turn/stun服务器_coturn 日志-CSDN博客
+https://blog.csdn.net/wzmde007/article/details/109496714
+
+Trickle ICE
+https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+
+The server returned an error with code=701: STUN/TURN allocate request timed out. · Issue #678 · coturn/coturn
+https://github.com/coturn/coturn/issues/678
+
+ipv6 ice failure - Google 搜索
+https://www.google.com/search?q=ipv6+ice+failure&rlz=1C1GCEA_enJP1090JP1090&oq=ipv6+ice+failure&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+The server returned an error with code=701: STUN/TURN allocate request timed out. · Issue #678 · coturn/coturn
+https://github.com/coturn/coturn/issues/678
+
+sockets - IPv6: Is `::' equivalent to `0.0.0.0' when listening for connections? - Stack Overflow
+https://stackoverflow.com/questions/27480094/ipv6-is-equivalent-to-0-0-0-0-when-listening-for-connections
+
+stun-turn服务器搭建 | 常丁方的博客
+http://www.changdingfang.com/2020/09/19/notes/linux/stun-turn/
+
+Know our Products: Video RTC · Blog
+https://blog.ivrpowers.com/post/products/video-rtc/
+
+Code search results
+https://github.com/search?q=repo%3Ameshenger-app%2Fmeshenger-android+%22EXTRA_CONTACT_PUBLICKEY%22&type=code
+
+STUN/TURN快速指南 | WebRTC中文网-最权威的RTC实时通信平台
+https://webrtc.org.cn/stunturn_quick_guide/
+
+腾讯云服务器怎么使用ipv6-服务器知识
+https://www.west.cn/docs/444158.html
+
+轻量服务器能有ipv6地址吗？-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/ask/245173
+
+实际中的WebRTC：STUN，TURN以及信令（五） | WebRTC中文网-最权威的RTC实时通信平台
+https://webrtc.org.cn/real-world-webrtc-5/
+
+How to convert String to Int in Kotlin? - Stack Overflow
+https://stackoverflow.com/questions/50570262/how-to-convert-string-to-int-in-kotlin
+
+git restore all exclude - Google 搜索
+https://www.google.com/search?q=git+restore+all+exclude&rlz=1C1GCEA_enJP1090JP1090&oq=git+restore+all+exclude&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQg2MTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+android - @layout/activity_main does not contain a declaration with id tvDescription - Stack Overflow
+https://stackoverflow.com/questions/73934289/layout-activity-main-does-not-contain-a-declaration-with-id-tvdescription
+
+java - Save serializable object in persistent storage (android) - Stack Overflow
+https://stackoverflow.com/questions/31215882/save-serializable-object-in-persistent-storage-android
+
+虾皮 - Google 搜索
+https://www.google.com/search?q=%E8%99%BE%E7%9A%AE&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%99%BE%E7%9A%AE&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyMDA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+zyitc.cn
+http://zyitc.cn/
+
+CKKS Part1：普通编码和解码 - PamShao - 博客园
+https://www.cnblogs.com/pam-sh/p/15856470.html
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(44) #general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+script: Try to conform a bit more to "The event loop processing model" by emilio · Pull Request #13864 · servo/servo
+https://github.com/servo/servo/pull/13864
+
+新加坡 Shopee，不加班，使用 golang，可内推 | Go | Go 技术论坛
+https://learnku.com/go/t/46180
+
+应用是非正式发布版本, 当前设备不支持安装。_应用是非正式发布版本,当前设备不支持安装-CSDN博客
+https://blog.csdn.net/RELY_ON_YOURSELF/article/details/122856844
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+Transfer a file
+https://webrtc.github.io/samples/src/content/datachannel/filetransfer/
+
+Send messages with datachannel
+https://webrtc.github.io/samples/src/content/datachannel/messaging/
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+Send messages with datachannel
+https://webrtc.github.io/samples/src/content/datachannel/messaging/
+
+WebRTC samples
+https://webrtc.github.io/samples/
+
+WebRTC
+https://github.com/webrtc
+
+Orphis (Florent Castelli)
+https://github.com/Orphis
+
+Jan-Ivar Bruaroey (@jibrewery) / X
+https://twitter.com/jibrewery
+
+https://groups.google.com/g/discuss-webrtc/c/pkAtJEF_unM
+https://www.google.com/sorry/index?continue=https://groups.google.com/g/discuss-webrtc/c/pkAtJEF_unM&q=EhAkAIkBAAAAAPA8lP_-Pmd0GKu58a0GIjD8o5k6XX-s_dS07A8NcuLjv303gkHvxbbiUugo6bZf9ZENuWD2nFesZ5Uy7rgVPxEyAXJaAUM
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
 # 2024-2-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
