@@ -1,6 +1,39 @@
-# 2024-2-3 | 
+# 2024-2-3 1 | 
+
+
+```bash
+
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+
+sudo apt-get install build-essential vim git cscope libncurses-dev libssl-dev bison flex
+
+sudo apt-get install git-email
+
+git commit -s -m "KBuild: change kernel version"
+
+scripts/decode_stacktrace.sh ./vmlinux < panic_trace.txt
+
+```
+![Alt text](image-15.png)
+
+[PATCH RFC]
+
+git format-patch -1 --pretty=fuller 3a38e874d70b
+
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+https://github.com/servo/servo/pull/31108
 
 bits transfer
+
+
+```bash
+
+wasmedge --dir .:. \
+  --nn-preload default:GGML:AUTO:llama-2-7b-chat.Q5_K_M.gguf \
+  wasmedge-ggml-llama-interactive.wasm default
+
+```
 
 # 2024-2-2 1 | 1
 
@@ -4815,8 +4848,6 @@ https://github.com/nodejs/node/blob/5fb630597196cd5f3a8b7febdea3108fb89f067b/src
 qemu-system-riscv64 -machine virt -bios none -kernel kernel/kernel -m 128M -smp 3 -nographic -drive file=fs.img,if=none,format=raw,id=x0 -device virtio-blk-device,drive=x0,bus=virtio-mmio-bus.0
 
 sudo apt install qemu-system-misc gcc-aarch64-linux-gnu
-
-
 
 https://vis.csail.mit.edu/classes/6.859/
 
