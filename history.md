@@ -3,6 +3,162 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+kernel/git/shuah/linux-kselftest.git - Kselftest Framework
+https://git.kernel.org/pub/scm/linux/kernel/git/shuah/linux-kselftest.git/refs/heads
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+Support Xterm JS · Issue #30822 · servo/servo
+https://github.com/servo/servo/issues/30822
+
+Implement ResizeObserver by gterzian · Pull Request #31108 · servo/servo
+https://github.com/servo/servo/pull/31108
+
+Support clang plugins on Windows - Community / GSoC - LLVM Discussion Forums
+https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408
+
+llvm-test-suite/CTMark at main · llvm/llvm-test-suite
+https://github.com/llvm/llvm-test-suite/tree/main/CTMark
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+second-state/WasmEdge-WASINN-examples
+https://github.com/second-state/WasmEdge-WASINN-examples/
+
+(1) Resources
+https://tutflix.org/resources/
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+Codespaces
+https://github.com/codespaces
+
+Billing
+https://github.com/settings/billing/summary
+
+ChatGPT
+https://chat.openai.com/c/29bc8763-df4e-45a4-a50d-009584e58554
+
+tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+Codespaces
+https://github.com/codespaces
+
+kdlp.underground.software/course/spring2023/assignments/A2.md
+https://kdlp.underground.software/course/spring2023/assignments/A2.md
+
+Implement requestIdleCallback · Issue #31023 · servo/servo
+https://github.com/servo/servo/issues/31023
+
+Support Xterm JS · Issue #30822 · servo/servo
+https://github.com/servo/servo/issues/30822
+
+东莞市石碣镇邮编 - Google 搜索
+https://www.google.com/search?q=%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%9F%B3%E7%A2%A3%E9%95%87%E9%82%AE%E7%BC%96&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%9F%B3%E7%A2%A3%E9%95%87%E9%82%AE%E7%BC%96&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDUzOTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=consent&op=translate
+
+已删除邮件 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#trash
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/applied
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+(27) #general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+(27) #general > Embedding API and rendering - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Embedding.20API.20and.20rendering
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Mentorship Session: Kernel Validation With Kselftest - YouTube
+https://www.youtube.com/watch?v=mpO_iDEMqWQ
+
+(1) Resources
+https://tutflix.org/resources/
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal (tannal)
+https://github.com/tannal/
+
+The correct way to clear downloads and buildtrees? · Issue #2538 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/2538
+
+My Portal
+https://trainingportal.linuxfoundation.org/learn/dashboard
+
+48bb1d5c-b01d-45a3-9418-adb6aad89af9-tannal-tannal-bff5e69d-c1c6-4a73-973f-957eea54e9b5-certificate.pdf
+https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/48bb1d5c-b01d-45a3-9418-adb6aad89af9-tannal-tannal-bff5e69d-c1c6-4a73-973f-957eea54e9b5-certificate.pdf
+
+48bb1d5c-b01d-45a3-9418-adb6aad89af9-tannal-tannal-bff5e69d-c1c6-4a73-973f-957eea54e9b5-certificate.pdf
+https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/48bb1d5c-b01d-45a3-9418-adb6aad89af9-tannal-tannal-bff5e69d-c1c6-4a73-973f-957eea54e9b5-certificate.pdf
+
+LFD103 Course Completion Survey
+https://www.surveymonkey.com/r/lfd103
+
+OFTC - Home
+https://www.oftc.net/
+
+cregit/cregit
+https://github.com/cregit/cregit
+
+net · cregit
+https://cregit.linuxsources.org/code/6.6/net/
+
+kernel.org/doc/linux/MAINTAINERS
+https://www.kernel.org/doc/linux/MAINTAINERS
+
+Shuah Khan's Linux Kernel Blogs
+http://www.gonehiking.org/ShuahLinuxBlogs/
+
+Shuah Khan lkml - Google 搜索
+https://www.google.com/search?q=Shuah+Khan+lkml&sca_esv=2275670e6b2072af&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08q90zAte6ISoQGbKDrzlGlX9GnKQ%3A1706947505290&ei=sfO9ZZyvEfnCjuMPpb2CWA&ved=0ahUKEwjcy8_92o6EAxV5oWMGHaWeAAsQ4dUDCBA&uact=5&oq=Shuah+Khan+lkml&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1NodWFoIEtoYW4gbGttbDIFECEYoAEyBRAhGKABMgUQIRigAUjTGFD7BliSF3ABeAGQAQCYAawDoAGECKoBBzAuNC40LTG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBxAhGAoYoAHiAwQYACBBiAYBkAYB&sclient=gws-wiz-serp
+
+twitter.com/fagiolinux
+https://twitter.com/fagiolinux
+
+Linux HWMON - Patchwork
+https://patchwork.kernel.org/project/linux-hwmon/list/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Projects | Johannes Berg
+https://johannes.sipsolutions.net/Projects/
+
+linux-kselftest git - Google 搜索
+https://www.google.com/search?q=linux-kselftest+git&sca_esv=2275670e6b2072af&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08E070e8OzXTUUCBKPHd5dQ4ytEgg%3A1706949240204&ei=ePq9ZfmKDJn24-EP37KK6A4&ved=0ahUKEwj5pvK44Y6EAxUZ-zgGHV-ZAu0Q4dUDCBA&uact=5&oq=linux-kselftest+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2xpbnV4LWtzZWxmdGVzdCBnaXQyBBAAGB4yBBAAGB5InQZQAFiHBHAAeACQAQCYAeUBoAHUBqoBBTAuMy4yuAEDyAEA-AEBwgIGEAAYHhgPwgIGEAAYCBgewgIIEAAYHhgPGArCAgYQABgFGB7iAwQYACBB&sclient=gws-wiz-serp
+
+checkpatch.pl WARNING: Do not use whitespace before Signed-off-by:
+https://linux-media.vger.kernel.narkive.com/tReRUDSq/checkpatch-pl-warning-do-not-use-whitespace-before-signed-off-by
+
+How to do a git commit with a subject line and message body? - Stack Overflow
+https://stackoverflow.com/questions/40505643/how-to-do-a-git-commit-with-a-subject-line-and-message-body
+
+Submitting patches: the essential guide to getting your code into the kernel — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v4.10/process/submitting-patches.html
+
+[LFX Metorship pre task] Boot the upstream kernel - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#sent/QgrcJHsbjqjzBnghXjBsMphSljRfNZJpjDG
+
+Sign Up to Accept Your New Badge' - Credly
+https://www.credly.com/badges/7525980b-659d-4487-943a-110b4d17a689/accept_via_choose_sign_up
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
 https://github.com/cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
 
