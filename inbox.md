@@ -1,3 +1,7 @@
+# 2024-2-3 | 
+
+bits transfer
+
 # 2024-2-2 1 | 1
 
 git pull
@@ -8,6 +12,12 @@ vcpkg update
 ```bash
 
 git clone https://github.com/ggerganov/whisper.cpp.git
+
+main -m models/ggml-base.en.bin -f samples/jfk.wav
+
+
+WHISPER_CUBLAS=1 make stream -j 4
+stream -m ./models/ggml-base.en.bin -t 8 --step 500 --length 5000
 
 ```
 

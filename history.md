@@ -1,3 +1,86 @@
+# 2024-2-3
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/cr7258/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182
+
+tannal/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/tannal/WasmEdge
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Deno 1.x to 2.x Migration Guide | Deno Docs
+https://docs.deno.com/runtime/manual/advanced/migrate_deprecations
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Re: [PATCH] eventfs: Have inodes have unique inode numbers - Steven Rostedt
+https://lore.kernel.org/all/20240126162626.31d90da9@gandalf.local.home/
+
+ftrace - Wikipedia
+https://en.wikipedia.org/wiki/Ftrace
+
+sam altman - Google 搜索
+https://www.google.com/search?q=sam+altman&sca_esv=c55caad1bf05249f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-zgAW4lHm7-_VFwTqKyCTR4SEHDA%3A1706923754143&ei=6pa9ZYawCMyc4-EP-_u6YA&gs_ssp=eJzj4tLP1Tcwyq4wMMsxYPTiKk7MVUjMKclNzAMAVN0HWg&oq=Sam+Al&gs_lp=Egxnd3Mtd2l6LXNlcnAiBlNhbSBBbCoCCAIyChAjGIAEGIoFGCcyBBAjGCcyBRAuGIAEMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEAAYgAQyCxAuGIAEGMcBGK8BMgUQABiABDIUEC4YgAQYlwUY3AQY3gQY3wTYAQFI_idQwxBYhBtwAXgBkAEBmAHaCqABoRiqAQcwLjQuNy0yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICERAuGIAEGLEDGIMBGMcBGNEDwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICERAuGIMBGMcBGLEDGNEDGIAEwgIOEAAYgAQYigUYsQMYgwHCAgsQABiABBiKBRixA8ICCxAuGIAEGLEDGIMBwgIWEC4YgAQYigUYQxixAxiDARjHARjRA8ICEBAuGIAEGIoFGEMYxwEY0QPiAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+i'm doing this because i love it "sam altman" - Google 搜索
+https://www.google.com/search?q=i%27m+doing+this+because+i+love+it+%22sam+altman%22&sca_esv=c55caad1bf05249f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08BsoxtGbSUjyOcKF48UFpdo3Kqvw%3A1706923947938&ei=q5e9Zab0OIGbjuMP6fK_2As&ved=0ahUKEwjm9cycg46EAxWBjWMGHWn5D7sQ4dUDCBA&uact=5&oq=i%27m+doing+this+because+i+love+it+%22sam+altman%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiLWknbSBkb2luZyB0aGlzIGJlY2F1c2UgaSBsb3ZlIGl0ICJzYW0gYWx0bWFuIkj4J1AAWKYmcAB4AJABAJgBuwGgAaINqgEEMS4xMrgBA8gBAPgBAcICBRAhGKABwgIHECEYChigAeIDBBgAIEE&sclient=gws-wiz-serp
+
+rob pike - Google 搜索
+https://www.google.com/search?q=rob+pike&rlz=1C1GCEA_enJP1090JP1090&oq=rob+pike&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgcIARAuGIAEMhAIAhBFGBMYJxg7GIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgYIBhBFGDwyBggHEEUYPdIBCDE4NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Russ cox - Google 搜索
+https://www.google.com/search?q=Russ+cox&rlz=1C1GCEA_enJP1090JP1090&oq=rus+&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzIJCAMQABgMGIAEMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzNDczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Releases · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/releases
+
+Support for realtime audio input · Issue #10 · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/issues/10
+
+404 – Hugging Face
+https://huggingface.co/datasets/ggerganov
+
+Mp3 Downloads – Taylor Swift Music World
+https://taylorswiftmusicworld.com/mp3downloads
+
+Taylor Swift - You Belong With Me (Taylor's Version) (Lyric Video) - YouTube
+https://www.youtube.com/watch?v=vwp8Ur6tO-8
+
+YtMp3 - YouTube to MP3 Converter
+https://ytmp3.nu/e1Fq/
+
+Articles.OnlineSearches.Today - Save Money Everyday By Comparing The Best Personal Finance Deals
+https://articles.onlinesearches.today/a-guide-to-checking-accounts?q=mt5+brokers&visitor_id=777469533308064261&target_id=6444276&campaign_id=7893749&link_key=a1cd6312ded93c0869356f8f2f7a5b22
+
+下载您的文件 — Convertio
+https://convertio.co/zh/download/ff9263e2bd286b2416eaa8d00c75961103bd13/
+
+Releases · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/releases
+
+openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+https://github.com/openai/whisper
+
+md
+http://md/
+
+md
+http://md/
+
 # 2024-2-2
 
 便宜机场汇总 - Askahh机场测速
