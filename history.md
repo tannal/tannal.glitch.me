@@ -1,5 +1,206 @@
 # 2024-2-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Brown CS: Computer Science Courses
+https://cs.brown.edu/courses/
+
+Labs | CSCI 0200 Spring 2024
+https://brown-csci0200.github.io/labs.html
+
+brown-cs500.github.io/labs/sorting/
+https://brown-cs500.github.io/labs/sorting/
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182
+
+(4 封私信 / 80 条消息) 沈树镛 - 搜索结果 - 知乎
+https://www.zhihu.com/search?hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A545396428%7D&hybrid_search_source=Entity&q=%E6%B2%88%E6%A0%91%E9%95%9B&search_source=Entity&type=content
+
+Working at SUSE | Jobs and Careers at SUSE
+https://jobs.suse.com/us/en
+
+中国科学院研究生院硕士学位论文 - 道客巴巴
+https://www.doc88.com/p-68039037755835.html
+
+x86保护模式——全局描述符表GDT详解_gdt全局描述符表 作用-CSDN博客
+https://blog.csdn.net/abc123lzf/article/details/109289567
+
+Re: [PATCH 00/17] Rust support - Christoph Hellwig
+https://lore.kernel.org/lkml/YOVNJuA0ojmeLvKa@infradead.org/
+
+suse - Google 搜索
+https://www.google.com/search?q=suse&rlz=1C1GCEA_enJP1090JP1090&oq=suse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDvSAQc2MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+I got robbed of my first kernel contribution | Hacker News
+https://news.ycombinator.com/item?id=37671991
+
+ChatGPT
+https://chat.openai.com/c/bc92219b-03af-479a-b0ed-80ec6835055b
+
+L4Linux
+http://l4linux.org/people.shtml
+
+urugang/l4linux
+https://github.com/urugang/l4linux
+
+tannal (tannal)
+https://github.com/tannal/
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+rfeet.qrk
+https://pdos.csail.mit.edu/6.824/papers/mapreduce.pdf
+
+The Go Programming Language and Environment | May 2022 | Communications of the ACM
+https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext
+
+pdos.csail.mit.edu/6.824/papers/go-faq.txt
+https://pdos.csail.mit.edu/6.824/papers/go-faq.txt
+
+Lecture 5: Fault Tolerance: Raft (1) - YouTube
+https://www.youtube.com/watch?v=R2-9bsKmEbo
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+How Strong Passwords Work | Brilliant
+https://brilliant.org/courses/how-computers-work/algos-1/how-strong-passwords-work/2/
+
+How does QEMU emulate a kernel without a bootloader? - Stack Overflow
+https://stackoverflow.com/questions/68949890/how-does-qemu-emulate-a-kernel-without-a-bootloader
+
+User Michael Petch - Stack Overflow
+https://stackoverflow.com/users/3857942/michael-petch
+
+frans kaashoek - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwTs8yqSwwYPTiSytKzCtWyE5MLM7IT80GAHt9CTs&q=frans+kaashoek&rlz=1C1GCEA_enJP1090JP1090&oq=frans&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCQgAEEUYORiABDIHCAEQLhiABDIKCAIQLhjUAhiABDIHCAMQLhiABDIJCAQQLhgKGIAEMgcIBRAuGIAEMgcIBhAAGIAEMgcIBxAuGIAEMgcICBAAGIAE0gEIMjI4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+UCB CS170: Efficient Algorithms and Intractable Problems - csdiy.wiki
+https://csdiy.wiki/en/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS170/
+
+504 Gateway Time-out
+http://www.standards.com.cn/
+
+MIT 6.824 Distributed Systems labs rewritten in Go | Hacker News
+https://news.ycombinator.com/item?id=5192650
+
+Adam Lac Korzynski - Google 搜索
+https://www.google.com/search?q=Adam+Lac+Korzynski&sca_esv=ed897b2776f2f88d&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=738&sxsrf=ACQVn0-pfbFIuJDPz92wHbq0q8fJZ47V9Q%3A1707031950826&ei=jj2_ZZ-KMteF4-EPn7Cf0AE&ved=0ahUKEwifibLIlZGEAxXXwjgGHR_YBxoQ4dUDCBA&uact=5&oq=Adam+Lac+Korzynski&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkFkYW0gTGFjIEtvcnp5bnNraTIEECMYJ0j9BFDqAljqAnABeACQAQCYAYcBoAGHAaoBAzAuMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mit%206.8&sort=byPopularity&type=story
+
+mapreduce golang - Google 搜索
+https://www.google.com/search?q=mapreduce+golang&rlz=1C1GCEA_enJP1090JP1090&oq=mapreduce+golang&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEAAYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQgyNzc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+6.829 - Google 搜索
+https://www.google.com/search?q=6.829&rlz=1C1GCEA_enJP1090JP1090&oq=6.829&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMggIAxAAGA8YHjIGCAQQRRg8MgYIBRBFGDzSAQg1MTQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+file - Distributed filesystem in Ubuntu - Stack Overflow
+https://stackoverflow.com/questions/11130432/distributed-filesystem-in-ubuntu
+
+vksysd/mrgo: Map Reduce implementation using golang
+https://github.com/vksysd/mrgo/tree/master
+
+logging has adapter - Google 搜索
+https://www.google.com/search?sca_esv=ed897b2776f2f88d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08mWs3Hz1OoBYqVUvlO7sk4CS4arw:1707033101431&q=logging+has+adapter&spell=1&sa=X&ved=2ahUKEwjJroXtmZGEAxVizzgGHUsmCg0QBSgAegQIBxAC&biw=1536&bih=738&dpr=1.25
+
+Percentile - Wikipedia
+https://en.wikipedia.org/wiki/Percentile
+
+Semester at MIT in a Nutshell | 6.033 | Hacker News
+https://news.ycombinator.com/item?id=2574857
+
+Debugging and Profiling · Missing Semester
+https://missing.csail.mit.edu/2020/debugging-profiling/
+
+hashicorp/go-plugin: Golang plugin system over RPC.
+https://github.com/hashicorp/go-plugin
+
+RandomCoderOrg/ubuntu-on-android: Run Ubuntu with pre-installed Desktop Environments in android/termux with ease! Everything is preinstalled so just download install and done🚀🚀
+https://github.com/RandomCoderOrg/ubuntu-on-android
+
+About Me -
+https://yzddmr6.com/about/
+
+postmarkOS - Google 搜索
+https://www.google.com/search?q=postmarkOS&rlz=1C1GCEA_enJP1090JP1090&oq=postmarkOS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+(4 封私信 / 80 条消息) 如何给Android手机刷Linux或BSD？ - 知乎
+https://www.zhihu.com/question/435340526
+
+README - postgres [GitHub] - Visual Studio Code - GitHub
+https://github.dev/postgres/postgres
+
+What exactly is Datum in PostgreSQL C Language functions? - Stack Overflow
+https://stackoverflow.com/questions/53543909/what-exactly-is-datum-in-postgresql-c-language-functions
+
+The Ubiquitous B-Tree (1979) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=9808871
+
+Google Code Archive - Long-term storage for Google Code Project Hosting.
+https://code.google.com/archive/about
+
+Bidding farewell to Google Code | Google Open Source Blog
+https://opensource.googleblog.com/2015/03/farewell-to-google-code.html
+
+Phil Leman database - Google 搜索
+https://www.google.com/search?q=Phil+Leman+database+&sca_esv=37f724872de16756&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-x7P2xWRjfWJaXG31qks3A_OtiXQ%3A1707038815728&ei=X1i_ZbqDLNOa4-EP0qKAgA0&ved=0ahUKEwj6ruqRr5GEAxVTzTgGHVIRANAQ4dUDCBA&uact=5&oq=Phil+Leman+database+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFFBoaWwgTGVtYW4gZGF0YWJhc2UgMgUQIRigATIFECEYoAEyBRAhGKABSOYVUP0EWJURcAF4AJABAJgBgAagAeoeqgELMC40LjEuNS0zLjK4AQPIAQD4AQHCAgsQABiABBjLARiwA8ICBxAAGB4YsAPCAgcQIRgKGKABwgIIEAAYgAQYogTiAwQYASBBiAYBkAYC&sclient=gws-wiz-serp
+
+Why recursive data structures? | Hacker News
+https://news.ycombinator.com/item?id=13304487
+
+Submissions from raganwald.com | Hacker News
+https://news.ycombinator.com/from?site=raganwald.com
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=code%20generation&sort=byPopularity&type=story
+
+Just-in-time code generation within WebAssembly | Hacker News
+https://news.ycombinator.com/item?id=32511420
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+v8's precise field-logging remembered set — wingolog
+https://wingolog.org/archives/2024/01/05/v8s-precise-field-logging-remembered-set
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Today%2C%20a%20middle-aged%20note%3A%20when%20you%20are%20young%2C%20unless%20you%20been%20failed%20by%20The%20System%2C%20you%20enjoy%20a%20radiant%20confidence%3A%20everything%20you%20say%20burns%20with%20rightness%20and%20righteousness%2C%20that%20the%20world%20Actually%20Is%20This%20Way%2C%20You%20See%2C%20and%20if%20you%20think%20about%20it%2C%20it%20Actually%20Should%20Be%20This%20Other%20Specific%20Way.%20This%20is%20how%20you%20get%20the%20fervent%20young%20communists%20and%20Scala%20enthusiasts%20and%20ecologists%20and%20Ayn%20Randians.%20The%20ideas%20are%20so%20right%20that%20you%20become%20an%20evangelist%2C%20a%20prophet%2C%20a%20truth-speaker%3B%20a%20youtuber%2C%20perhaps.%0A%0AThen%2C%20with%20luck%2C%20you%20meet%20the%20world%3A%20you%20build%2C%20you%20organize%2C%20you%20invest%2C%20you%20double%20down.%20And%20in%20that%20doubling%2C%20the%20ideas%20waver%2C%20tremble%2C%20resonate%2C%20imperceptibly%20at%20first%2C%20reinforced%20in%20some%20ways%2C%20impeded%20in%20others.%20The%20world%20works%20in%20specific%20ways%2C%20too%2C%20and%20you%20don%E2%80%99t%20really%20know%20them%20in%20the%20beginning%3A%20not%20in%20the%20bones%2C%20anyway.%20The%20unknowns%20become%20known%2C%20enumerate%20themselves%2C%20dragons%20everywhere%3B%20and%20in%20the%20end%2C%20what%20can%20you%20say%20about%20them%3F%20Do%20you%20stand%20in%20a%20spot%20that%20can%20see%20anything%20at%20all%3F%20Report%2C%20observe%2C%20yes%3B%20analyze%2C%20maybe%2C%20eventually%3B%20prophesize%2C%20never.%20Not%20any%20more.%0A%0AAnd%20then%2C%20years%20later%2C%20you%20are%20still%20here.%20The%20things%20you%20see%2C%20the%20things%20you%20know%2C%20other%20people%20don%E2%80%99t%3A%20they%20can%E2%80%99t.%20They%20weren%E2%80%99t%20here.%20They%20aren%E2%80%99t%20here.%20They%20hear%20(and%20retell)%20stories%2C%20back-stories%2C%20back-back-stories%2C%20a%20whole%20cinematic%20universe%20of%20narrative%2C%20and%20you%20know%20that%20it%E2%80%99s%20powerful%20and%20generative%20and%20yet%20unhinged%2C%20essentially%20unmoored%20and%20distinct%20from%20reality%2C%20right%20and%20even%20righteous%20in%20some%20ways%2C%20but%20wrong%20in%20others.%20This%20happen%20in%20all%20domains%3A%20macroeconomics%2C%20programming%20languages%2C%20landscape%20design%2C%20whatever.%20But%20you%20see.%20You%20see%20through%20stories%2C%20their%20construction%20and%20relation%20to%20the%20past%2C%20on%20a%20meta%20level%2C%20in%20a%20way%20that%20was%20not%20apparent%20when%20you%20were%20young.%0A%0AI%20tell%20this%20story%20(everything%20is%20story)%20as%20an%20inexorable%20progression%2C%20a%20Hegelian%20triptych%20of%20thesis-antithesis-synthesis%3B%20a%20conceit.%20But%20there%20are%20structures%20that%20can%20to%20get%20you%20to%20synthesis%20more%20efficiently.%20PhD%20programs%20try%3A%20they%20break%20you%20down%20to%20allow%20you%20to%20build.%20They%20do%20it%20too%20quickly%2C%20perhaps%3B%20you%20probably%20have%20to%20do%20it%20again%20in%20your%20next%20phase%2C%20academia%20or%20industry%2C%20though%20I%20imagine%20it%E2%80%99s%20easier%20the%20second%20time%20around.%20Some%20corporate%20hierarchies%20also%20manage%20to%20do%20this%2C%20in%20which%20when%20you%20become%20Staff%20Engineer%2C%20you%20become%20the%20prophet.%0A%0AOf%20course%2C%20synthesis%20is%20not%20inexorable%3B%20you%20can%20stop%20turning%20the%20crank%20anywhere.%20Perhaps%20you%20never%20move%20from%20ideal%20to%20real.%20Perhaps%2C%20unmoored%2C%20you%20drift%2C%20painter%20rippling%20the%20waters.%20But%20what%20do%20you%20do%20when%20the%20crank%20comes%20around%3F%20Where%20to%20next%3F%0A%0AAnyway%2C%20all%20this%20is%20to%20say%20that%20I%20have%20lately%20been%20backing%20away%20from%20bashfulness%20in%20a%20professional%20context%3A%20there%20are%20some%20perspectives%20that%20I%20see%20that%20can%E2%80%99t%20be%20seen%20or%20expressed%20by%20others.%20It%20feel%20very%20strange%20to%20write%20it%2C%20but%20I%20am%20even%20trying%20to%20avoid%20self-deprecation%20and%20hedging%3B%20true%2C%20I%20might%20not%20possess%20the%20authoritative%20truth%20on%2C%20I%20don%E2%80%99t%20know%2C%20WebAssembly%2C%20or%20Scheme%20language%20development%2C%20but%20nobody%20else%20does%20either%2C%20and%20I%20might%20as%20well%20just%20say%20what%20I%20think%20as%20if%20it%E2%80%99s%20true.%0A%0A*%20*%20*%0A%0AGetting%20old%20is%20not%20so%20bad.%20You%20say%20very%20cheesy%20things%2C%20you%20feel%20cheesy%2C%20but%20it%20is%20a%20kind%20of%20new%20youth%20too%2C%20reclaiming%20a%20birthday-right%20of%20being%20earnest.%20I%20am%20doubling%20down%20on%20Dad%20energy.%20(Yes%2C%20there%20is%20a%20similar%20kind%20of%20known-tenuous%20confidence%20necessary%20to%20raise%20kids.%20I%20probably%20would%20have%20forced%20into%20this%20position%20earlier%20if%20I%20had%20kids%20younger.%20But%2C%20I%20don%E2%80%99t%20mean%20to%20take%20the%20metaphor%20fa(r)ther%3B%20responsible%20community%20care%20for%20the%20young%20is%20by%20far%20not%20the%20sole%20province%20of%20the%20family%20man.)%0A%0ASo%2C%20for%20the%20near%20future%2C%20I%20embrace%20the%20cheese.%20And%20then%2C%20where%20to%3F%20I%20suspect%20excessive%20smarm.%20But%20if%20I%20manage%20to%20succeed%20in%20avoiding%20that%2C%20I%20look%20forward%20to%20writing%20about%20ignorance%20in%20another%205%20years.%20Until%20then%2C%20happy%20hacking%20to%20all%2C%20and%20thank%20you%20for%20your%20forbearance!&op=translate
+
+Lecture 8: Plausible Reasoning - YouTube
+https://www.youtube.com/watch?v=BVF1jTcp2fU
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+write code to write code - Google 搜索
+https://www.google.com/search?q=write+code+to+write+code&rlz=1C1GCEA_enJP1090JP1090&oq=write+code+to+write+code&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDQ5MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+元编程 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%85%83%E7%BC%96%E7%A8%8B
+
+Hi! Can you explain why is B wrong and A is correct? : r/EnglishLearning
+https://www.reddit.com/r/EnglishLearning/comments/1449opw/hi_can_you_explain_why_is_b_wrong_and_a_is_correct/
+
+404: Page Not Found | University of San Francisco
+https://www.usfca.edu/~galles/
+
+(33) #general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Using the Gamepad API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API
+
+https://groups.google.com/a/chromium.org/g/blink-dev
+https://www.google.com/sorry/index?continue=https://groups.google.com/a/chromium.org/g/blink-dev&q=EhAkAIkBAAAAAPA8lP_-Pmd0GJPP_a0GIjAvGeD9lY7WqK9Zq7CFB9YmMOTsGXd86FDP41_dN0tKPPocoaXDf58oN_QWX_afhDEyAXJaAUM
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

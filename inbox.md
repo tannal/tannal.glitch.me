@@ -1,5 +1,48 @@
 # 2024-2-4 | 
 
+Because program are limited, if you only need to handle small amount of cases.
+
+Examples that demostrate idea are useful.
+
+/usr/lib/xscreensaver/blitspin
+
+master failure
+
+Go plugin https://pkg.go.dev/plugin
+
+```bash
+
+cd src/main
+
+go run mrworker.go wc.so
+
+go build -buildmode=plugin ../mrapps/wc.go && go run mrmaster.go pg-*.txt
+
+
+```
+
+tail latency
+
+availability replication
+
+recoverability logging
+
+Don't think unless you are enough familiar with the things you think about.
+
+does the get return the value of the last put?
+
+mapreduce
+
+replication raft libaray
+
+replicated key value storage
+
+shared key value service
+
+x86 gdt
+
+Redhat，SUSE，Cannonical
+
 
 "js/ts.implicitProjectConfig.checkJs": true
 

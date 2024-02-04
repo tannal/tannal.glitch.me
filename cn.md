@@ -1,4 +1,13 @@
 
+
+https://yzddmr6.com/about/
+
+https://github.com/teawater
+
+https://en.wikipedia.org/wiki/Theodore_Ts%27o
+
+茶水 朱辉
+
 https://www.zhihu.com/people/coly-li
 
 https://forrestsu.github.io/
