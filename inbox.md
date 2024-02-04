@@ -1,5 +1,7 @@
 # 2024-2-4 | 
 
+https://dblp.org/pid/g/GoetzGraefe.html
+
 Because program are limited, if you only need to handle small amount of cases.
 
 Examples that demostrate idea are useful.

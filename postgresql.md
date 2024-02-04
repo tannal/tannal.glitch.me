@@ -1,4 +1,47 @@
+# run 
+
+```bash
+./initdb -d data
+
+pg_ctl -D data -l logfile start
+
+./postgres -D data/
+
+ps -aux | grep postgres
+
+./psql -U tannal -w -d postgres
+./psql -U ubuntu -w -d postgres
+./psql -U codespace -w -d postgres
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/tannalwork/projects/postgres/_install/lib/
+
+```
+
+# postgresql
+
+CREATE TABLE my_table (
+    id serial PRIMARY KEY,
+    data text
+);
+
+BEGIN;
+DO $$ 
+DECLARE
+    i integer := 1;
+BEGIN
+    WHILE i <= 1000000 LOOP
+        INSERT INTO my_table (data) VALUES ('Row ' || i);
+        i := i + 1;
+    END LOOP;
+END $$;
+
+SELECT count(*) FROM my_table;
+
+
 # inbox
+
+
 
 TableScanDesc
 
@@ -164,25 +207,6 @@ sudo apt-get -y install postgresql
 sudo -i -u postgres
 psql
 
-CREATE TABLE my_table (
-    id serial PRIMARY KEY,
-    data text
-);
-
-BEGIN;
-DO $$ 
-DECLARE
-    i integer := 1;
-BEGIN
-    WHILE i <= 1000000 LOOP
-        INSERT INTO my_table (data) VALUES ('Row ' || i);
-        i := i + 1;
-    END LOOP;
-END $$;
-
-SELECT count(*) FROM my_table;
-
-
 sudo ./funccount '*vfs*'
 sudo ./funccount '*ext4*'
 sudo ./funccount '*blk_mq*'
@@ -240,23 +264,6 @@ make -j20
 make -j20 install
 
 cd src/bin/initdb
-
-
-
-./initdb -d data
-
-pg_ctl -D data -l logfile start
-
-./postgres -D data/
-
-ps -aux | grep postgres
-
-./psql -U tannal -w -d postgres
-./psql -U ubuntu -w -d postgres
-./psql -U codespace -w -d postgres
-
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/tannal/tannalwork/projects/postgres/_install/lib/
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/tannalwork/projects/postgres/_install/lib/
 
 sudo apt install meson bison flex
 
