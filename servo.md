@@ -1,6 +1,9 @@
 
 # inbox
 
+
+CodegenRust.py
+
 Custom Attribute
 
 https://github.com/servo/servo/issues/30822
@@ -439,6 +442,13 @@ sudo apt install moreutils
 RUST_LOG="debug" ./mach run -d -- -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
 
 RUST_LOG="debug" ./mach run -d -- -i -y 1  2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+$env:RUST_LOG="debug" # Setting environment variable
+./mach run -d -- -i -y 1 2>&1 | % {
+    # Adding timestamp using Get-Date and formatting output
+    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
+} | Tee-Object -FilePath "log.txt"
+
 
 ./mach test-wpt tests/wpt/tests/dom/events/relatedTarget.window.js
 

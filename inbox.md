@@ -1,4 +1,29 @@
-# 2024-2-3 1 | 
+# 2024-2-4 | 
+
+
+"js/ts.implicitProjectConfig.checkJs": true
+
+
+Introduction to Algorithms, A creative approach
+
+Introduction to Algorithms.
+
+http://www.algorithmsilluminated.org/
+
+
+If your goal is to be good at LeetCode, then save yourself the time and just go straight to LeetCode. Nobody cares if you actually understand the stuff. They just want you to come in and do the dance (recognize the problem archetype, talk through your thought process for solving it, and adjust based on whatever twists they've thrown in).
+
+
+# 2024-2-3 1+1 | 
+
+Lua Roberto Ierusalimschy
+Waldemar Celes
+Luiz Henrique de Figueiredo
+
+https://pismin.com/
+
+winget install --id=Neovim.Neovim  -e
+
 
 
 ```bash

@@ -1,3 +1,221 @@
+# 2024-2-4
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+servo/components/servo/lib.rs at dd0149d95374593f3c613716284fe584a2324cbb · servo/servo
+https://github.com/servo/servo/blob/dd0149d95374593f3c613716284fe584a2324cbb/components/servo/lib.rs#L575
+
+xterm.js/src/common/TaskQueue.ts at fb2c39cb5748e071e0a1ed49824590aafd45e65e · xtermjs/xterm.js
+https://github.com/xtermjs/xterm.js/blob/fb2c39cb5748e071e0a1ed49824590aafd45e65e/src/common/TaskQueue.ts#L128
+
+Home | nivdayan
+https://www.nivdayan.net/
+
+Niv Dayan's Personal Meeting Room - Zoom
+https://utoronto.zoom.us/rec/play/UEXg5kxQPFl88FNu2eaXA7avynbKJUW8fmfKGQHlAbJbNdNvf_jOnPncDgeOAN-THJ9EScKQ3UwJZilu.TtjMaAIwbgPF-aJk?canPlayFromShare=true&from=share_recording_detail&startTime=1695150373000&componentName=rec-play&originRequestUrl=https%3A%2F%2Futoronto.zoom.us%2Frec%2Fshare%2FIpO11WKwBBUl-hBjqsOt7JUI9uubUwFANIPzfd86Mqifx_xfhRyQawXOHogeH2iJ.H_OKeYAiwkaTNoQe%3FstartTime%3D1695150373000
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Raghu Ramakrishnan - Google 搜索
+https://www.google.com/search?q=Raghu+Ramakrishnan&rlz=1C1GCEA_enJP1090JP1090&oq=Raghu+Ramakrishnan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Johannes Gehrke's Homepage
+https://www.cs.cornell.edu/johannes/
+
+Is it possible to print a backtrace in Rust without panicking? - Stack Overflow
+https://stackoverflow.com/questions/56558321/is-it-possible-to-print-a-backtrace-in-rust-without-panicking
+
+github copilot ctrl i - Google 搜索
+https://www.google.com/search?q=github+copilot+ctrl+i&rlz=1C1GCEA_enJP1090JP1090&oq=github+copilot+ctrl&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yBggDEEUYQNIBCDUxNjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+servo/components/script/dom/bindings/codegen/CodegenRust.py at b2fe66f7e4a74eaf9a92c63a062ce67c4d9cc2a5 · servo/servo
+https://github.com/servo/servo/blob/b2fe66f7e4a74eaf9a92c63a062ce67c4d9cc2a5/components/script/dom/bindings/codegen/CodegenRust.py#L42
+
+winstall.app
+https://winstall.app/apps/Neovim.Neovim
+
+A guide on Neovim's LSP client | Devlog
+https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/
+
+Lua
+https://github.com/lua
+
+Lua: authors
+https://www.lua.org/authors.html
+
+Recent Publications
+https://www.inf.puc-rio.br/%7Eroberto/cvpub.html
+
+Luiz Henrique de Figueiredo - State of Rio de Janeiro, Brazil | about.me
+https://about.me/lhfig
+
+Luiz Henrique de Figueiredo: Cursos
+https://lhf.impa.br/cursos/
+
+Sci-Hub 2024
+https://pismin.com/
+
+Journal of Computer Languages dblp - Google 搜索
+https://www.google.com/search?q=Journal+of+Computer+Languages+dblp&sca_esv=59a29399512378e1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-pjqgShfp5ipATPcMOYj95DeS7Kg%3A1706970931411&ei=M0--Ze_gGNyN4-EPx7qg8AM&ved=0ahUKEwivxoigso-EAxXcxjgGHUcdCD4Q4dUDCBA&uact=5&oq=Journal+of+Computer+Languages+dblp&gs_lp=Egxnd3Mtd2l6LXNlcnAiIkpvdXJuYWwgb2YgQ29tcHV0ZXIgTGFuZ3VhZ2VzIGRibHAyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEj5EFAAWLcPcAJ4AZABAJgB7wagAcUUqgEJMC4yLjUtMS4yuAEDyAEA-AEB-AECqAIKwgIHECMY6gIYJ8ICChAAGEcY1gQYsAPCAggQABiABBjLAcICBRAhGKAB4gMEGAAgQYgGAZAGCA&sclient=gws-wiz-serp
+
+Issues · neovim/neovim
+https://github.com/neovim/neovim/issues
+
+williamboman/mason.nvim: Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+https://github.com/williamboman/mason.nvim
+
+wbthomason/packer.nvim: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+https://github.com/wbthomason/packer.nvim
+
+neovim config file location windows - Google 搜索
+https://www.google.com/search?q=neovim+config+file+location+windows&rlz=1C1GCEA_enJP1090JP1090&oq=neovim+config+file+wind&gs_lcrp=EgZjaHJvbWUqCggCEAAYCBgTGB4yCQgAEAAYExiABDIGCAEQRRg5MgoIAhAAGAgYExge0gEINDI3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+header - How to create include files in Lua language? - Stack Overflow
+https://stackoverflow.com/questions/2932172/how-to-create-include-files-in-lua-language
+
+Rust and Neovim - A Thorough Guide and Walkthrough | the trait
+https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/#prerequisites
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=data%20structures&sort=byPopularity&type=story
+
+hash table
+https://xlinux.nist.gov/dads//HTML/hashtab.html
+
+CIS Department > Tutorials > Software Design Using C++ > Hash Tables
+https://cis.stvincent.edu/html/tutorials/swd/hash/hash.html
+
+Data Structures – Stepik
+https://stepik.org/course/579/promo
+
+Algorithms by Jeff Erickson
+https://jeffe.cs.illinois.edu/teaching/algorithms/
+
+Aho/Ullman Foundations of Computer Science
+http://i.stanford.edu/~ullman/focs.html
+
+Tim Roughgarden's Online Courses
+https://timroughgarden.org/videos.html
+
+The Algorithms Illuminated Book Series
+http://www.algorithmsilluminated.org/
+
+Programming Challenges
+http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+
+Open Data Structures
+http://opendatastructures.org/ods-cpp.pdf
+
+Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+https://algs4.cs.princeton.edu/home/
+
+Main | CS 61B Fall 2023
+https://fa23.datastructur.es/
+
+[61B FA23] Lecture 21 - Data Structures 5: Priority Queues and Heaps - Google 幻灯片
+https://docs.google.com/presentation/d/1tNPwVvUTAE8qHtGE1HqOThKlTHtASW6lf-345hXLARE/edit#slide=id.g11ecaeaf49_0_293
+
+[61B FA23] Lecture 39 - Computability - Google 幻灯片
+https://docs.google.com/presentation/d/1V31U-KceDkOq820lBrdGEniTM4_z3j3NyebmlXHCekg/edit#slide=id.g26263cb0bbf_0_407
+
+Blog - Austin Z. Henley
+https://austinhenley.com/blog.html
+
+Challenging algorithms and data structures every programmer should try | Hacker News
+https://news.ycombinator.com/item?id=34118450
+
+ds.algorithms - Core algorithms deployed - Theoretical Computer Science Stack Exchange
+https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773
+
+linux/include/linux/hashtable.h at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/include/linux/hashtable.h
+
+User Vijay D - Theoretical Computer Science Stack Exchange
+https://cstheory.stackexchange.com/users/4155/vijay-d
+
+linux/include/linux/list.h at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/include/linux/list.h
+
+linux/lib/llist.c at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/lib/llist.c
+
+ds.algorithms - Algorithms from the Book - Theoretical Computer Science Stack Exchange
+https://cstheory.stackexchange.com/questions/189/algorithms-from-the-book
+
+linux/include/linux/prio_heap.h at b3a3a9c441e2c8f6b6760de9331023a7906a4ac6 · torvalds/linux
+https://github.com/torvalds/linux/blob/b3a3a9c441e2c8f6b6760de9331023a7906a4ac6/include/linux/prio_heap.h
+
+User Vijay D - Stack Exchange
+https://stackexchange.com/users/523184/vijay-d
+
+Huck Bennett
+https://home.cs.colorado.edu/~hbennett/#teaching-anchor
+
+Introduction-to-Algorithms-A-Creative-Approach.pdf
+https://bayanbox.ir/view/5593452708017877904/Introduction-to-Algorithms-A-Creative-Approach.pdf
+
+I.M.Gelfand - Google 搜索
+https://www.google.com/search?q=I.M.Gelfand&rlz=1C1GCEA_enJP1090JP1090&oq=I.M.Gelfand&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Algorithms by Jeff Erickson
+https://jeffe.cs.illinois.edu/teaching/algorithms/
+
+node-examples/packages/unit-tests/test1.test.js at main · tannal/node-examples
+https://github.com/tannal/node-examples/blob/main/packages/unit-tests/test1.test.js
+
+Is Jest still faster than Vitest? : r/reactjs
+https://www.reddit.com/r/reactjs/comments/10zyse3/is_jest_still_faster_than_vitest/
+
+oop - Does JavaScript have the interface type (such as Java's 'interface')? - Stack Overflow
+https://stackoverflow.com/questions/3710275/does-javascript-have-the-interface-type-such-as-javas-interface
+
+__xchg 函数的用法___asm__ xchgl-CSDN博客
+https://blog.csdn.net/wh8_2011/article/details/52557612
+
+ChatGPT
+https://chat.openai.com/c/018e458d-8094-4d64-8e14-baf7b98f25d3
+
+Vijay D berkeley - Google 搜索
+https://www.google.com/search?q=Vijay+D+berkeley&rlz=1C1GCEA_enJP1090JP1090&oq=Vijay+D+berkeley&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDI1MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+01-recursion.pdf
+https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+PostgreSQL WAL 代码解析 —— File Layout
+https://zhjwpku.com/2023/04/15/postgres-wal-code-analysis-file-layout.html
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - humble xylophone
+https://github.com/codespaces/humble-xylophone-g444jwp5qgqr3vvvr?editor=vscode
+
+How to find name of a shared object that contains given function in GDB? - Stack Overflow
+https://stackoverflow.com/questions/69538606/how-to-find-name-of-a-shared-object-that-contains-given-function-in-gdb
+
+compiling - Where do executables look for shared objects at runtime? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/22926/where-do-executables-look-for-shared-objects-at-runtime
+
+Linux中pkg-config的使用 | Ivanzz
+https://ivanzz1001.github.io/records/post/linux/2017/09/08/linux-pkg-config
+
+How to install pkg-config ubuntu package on Ubuntu 20.04/Ubuntu 18.04/Ubuntu 19.04/Ubuntu 16.04
+https://zoomadmin.com/HowToInstall/UbuntuPackage/pkg-config
+
+gcc - How to link to a shared library without lib* prefix in a different directory? - Stack Overflow
+https://stackoverflow.com/questions/1305266/how-to-link-to-a-shared-library-without-lib-prefix-in-a-different-directory
+
+linux - How to find function from lib .so files? - Stack Overflow
+https://stackoverflow.com/questions/39117649/how-to-find-function-from-lib-so-files
+
+ubuntu - gdb: Can't list shared library source/symbols - Stack Overflow
+https://stackoverflow.com/questions/61662520/gdb-cant-list-shared-library-source-symbols
+
 # 2024-2-3
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
