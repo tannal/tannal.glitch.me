@@ -1,3 +1,209 @@
+# 2024-2-5
+
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+get cacheline length - Google 搜索
+https://www.google.com/search?q=get+cacheline+length&sca_esv=37f724872de16756&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_zKL2IJcR2TdgLjHknZhwhUpSGDg%3A1707045654001&ei=FXO_ZbPbPLyz4-EP4cim-Aw&ved=0ahUKEwjzucnOyJGEAxW82TgGHWGkCc8Q4dUDCBA&uact=5&oq=get+cacheline+length&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdldCBjYWNoZWxpbmUgbGVuZ3RoMgoQIRgKGKABGMMEMgoQIRgKGKABGMMESOMQUIkJWPwOcAF4AJABAJgBmQGgAbIFqgEDMC41uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBxAAGIAEGA3iAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Gallery of Processor Cache Effects
+http://igoro.com/archive/gallery-of-processor-cache-effects/
+
+Using Threads to Run Code Simultaneously - The Rust Programming Language
+https://doc.rust-lang.org/book/ch16-01-threads.html
+
+postgres/src/backend at master · postgres/postgres
+https://github.com/postgres/postgres/tree/master/src/backend
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+btree/btree.go at master · google/btree
+https://github.com/google/btree/blob/master/btree.go
+
+Plausible reasoning - Wikipedia
+https://en.wikipedia.org/wiki/Plausible_reasoning
+
+book.pdf
+https://bayes.wustl.edu/etj/prob/book.pdf
+
+乔治·波利亚 - Google 搜索
+https://www.google.com/search?sca_esv=37f724872de16756&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09advYMs1ARdahEQMXEPjbUNji4zg:1707044580211&q=%E4%B9%94%E6%B2%BB%C2%B7%E6%B3%A2%E5%88%A9%E4%BA%9A&si=AKbGX_raWIFNw13DlLd-NRpqigeNogIFWRGbuRL4C0kfMIeIkm6B42BPF2WmwuJ6FF1Hof1P-YINCh5_v9nPlASZienxdOU8fyj7FR7Xk1Hsp2PKnqvnj6sKlx5gb4q8hCWmvUP-PJawkLiuGH1KJ3trYK02Nwv-lmfGgvcCCo0-7TpZL0XQTlw%3D&sa=X&ved=2ahUKEwjRucbOxJGEAxXszjgGHaMEA28Q6RN6BAhJEAE&biw=1536&bih=738&dpr=1.25
+
+dblp: Goetz Graefe
+https://dblp.org/pid/g/GoetzGraefe.html
+
+c++ - Programmatically get the cache line size? - Stack Overflow
+https://stackoverflow.com/questions/794632/programmatically-get-the-cache-line-size
+
+cortex a76 cache line size - Google 搜索
+https://www.google.com/search?q=cortex+a76+cache+line+size&sca_esv=37f724872de16756&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09AVslu5NZ4Vl9A23002l1M5yreog%3A1707045870639&ei=7nO_ZeHWJuzi4-EP7oed8AE&ved=0ahUKEwjhhfC1yZGEAxVs8TgGHe5DBx4Q4dUDCBA&uact=5&oq=cortex+a76+cache+line+size&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmNvcnRleCBhNzYgY2FjaGUgbGluZSBzaXplMgUQIRigAUicBlAAWPQEcAB4AZABAJgB7wGgAbkFqgEFMC4zLjG4AQPIAQD4AQHiAwQYACBB&sclient=gws-wiz-serp
+
+Why Threads are a Bad Idea (for most purposes) (1995) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=14547063
+
+Communicating Sequential Processes, by C. A. R. Hoare (PDF Version)
+http://www.usingcsp.com/
+
+C++Now 2017: Niko Matsakis "Rust: Hack Without Fear!" - YouTube
+https://www.youtube.com/watch?v=lO1z-7cuRYI
+
+Mechanical Sympathy
+https://www.infoq.com/presentations/mechanical-sympathy/
+
+Preston L. Bannister
+https://bannister.us/weblog/about/
+
+dblp: Search for "John Ousterhout"
+https://dblp.org/search?q=John%20Ousterhout
+
+don't use thread - Google 搜索
+https://www.google.com/search?q=don%27t+use+thread&rlz=1C1GCEA_enJP1090JP1090&oq=don%27t+use+thread&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgKGB4yCggCEAAYBRgNGB7SAQgyNTIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Martin Thompson - Google 搜索
+https://www.google.com/search?q=Martin+Thompson&rlz=1C1GCEA_enJP1090JP1090&oq=Martin+Thompson&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+postgresql - select row number for given record id with postgres row_number() function - Stack Overflow
+https://stackoverflow.com/questions/60007545/select-row-number-for-given-record-id-with-postgres-row-number-function
+
+tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+YouTube
+https://www.youtube.com/
+
+(1) Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+#general > IPC between embedder and script - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/IPC.20between.20embedder.20and.20script
+
+addScriptMessageHandlerWithReply:contentWorld:name: | Apple Developer Documentation
+https://developer.apple.com/documentation/webkit/wkusercontentcontroller/3585113-addscriptmessagehandlerwithreply?language=objc
+
+User content: WebKitGTK Reference Manual
+https://webkitgtk.org/reference/webkit2gtk/2.25.2/webkit2gtk-4.0-WebKitUserContent.html
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+Run layout sequentially on script thread by jdm · Pull Request #28708 · servo/servo
+https://github.com/servo/servo/pull/28708/files#diff-c72818d49684a0255e958b3da3861bcae5f933475fdec58cb26d87adfb3307f3
+
+Nico Burns | Software Engineer
+https://nicoburns.com/
+
+18-618: Smart Grids and Future Electric Energy Systems - Electrical and Computer Engineering - College of Engineering - Carnegie Mellon University
+https://courses.ece.cmu.edu/18618
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fggml%20simd&type=code
+
+Andy Pavlo - Carnegie Mellon University
+https://www.cs.cmu.edu/~pavlo/
+
+(1) Resources
+https://tutflix.org/resources/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=swizzling&op=translate
+
+pointer wizzling - Google 搜索
+https://www.google.com/search?q=pointer+wizzling&rlz=1C1GCEA_enJP1090JP1090&oq=pointer+wizzling&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIKCAMQABgNGA8YHjIKCAQQABgNGA8YHjIKCAUQABgNGA8YHjIMCAYQABgFGA0YDxgeMgwIBxAAGAgYDRgPGB7SAQgzNzE4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+YouTube
+https://www.youtube.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bulk%20insert&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - sturdy lamp
+https://github.com/codespaces/sturdy-lamp-5grxw9v6jx5c4rq9?editor=vscode
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=csranking&sort=byPopularity&type=story
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+• Discord | #jsr | Deno
+https://discord.com/channels/684898665143206084/1203185670508515399
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pthread&sort=byPopularity&type=story
+
+Object-Oriented Programming With ANSI-C
+https://www.cs.rit.edu/~ats/books/ooc.pdf
+
+Plausible reasoning - Wikipedia
+https://en.wikipedia.org/wiki/Plausible_reasoning
+
+Mathematics and Plausible Reasoning I - Polya G.pdf
+https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf
+
+乔治·波利亚 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%96%AC%E6%B2%BB%C2%B7%E6%B3%A2%E5%88%A9%E4%BA%9E
+
+controversial - Google 搜索
+https://www.google.com/search?q=controversial&rlz=1C1GCEA_enJP1090JP1090&oq=controv&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE5MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+にほんこく - Google 搜索
+https://www.google.com/search?q=%E3%81%AB%E3%81%BB%E3%82%93%E3%81%93%E3%81%8F&sca_esv=37b0f93034b69209&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-3xr-L6R4KFjrNeX8rHcmG5sn6Kg%3A1707106619030&ei=O2HAZfu7AYKZseMPuK-fkAE&ved=0ahUKEwi7xfvcq5OEAxWCTGwGHbjXBxIQ4dUDCBA&uact=5&oq=%E3%81%AB%E3%81%BB%E3%82%93%E3%81%93%E3%81%8F&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-OBq-OBu-OCk-OBk-OBj0j3IlDMFVicHXABeAGQAQCYAaEBoAGfBKoBAzAuNLgBA8gBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIGEAAYBBgewgIEECMYJ-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+ん - Google 搜索
+https://www.google.com/search?q=%E3%82%93&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%82%93&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+china - Google 搜索
+https://www.google.com/search?q=china&rlz=1C1GCEA_enJP1090JP1090&oq=china&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIGCAIQIxgnMgYIAxAjGCcyCggEEAAYsQMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+人类发展指数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E5%8F%91%E5%B1%95%E6%8C%87%E6%95%B0
+
+韩国 - Google 搜索
+https://www.google.com/search?q=%E9%9F%A9%E5%9B%BD&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%9F%A9%E5%9B%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhiDARixAxiABDIHCAIQABiABDINCAMQLhiDARixAxiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDIHCAcQABiABDINCAgQABiDARixAxiABDIHCAkQABiABNIBCDEwOTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+北欧模式 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E6%AC%A7%E6%A8%A1%E5%BC%8F&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8C%97%E6%AC%A7%E6%A8%A1%E5%BC%8F&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yCAgFEAAYDxgeMgYIBhAAGB4yCAgHEAAYDxgeMgYICBAAGB4yBggJEAAYHtIBCDU3NDBqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Concurrency of Operations.pdf
+https://pages.cs.wisc.edu/~david/courses/cs758/Fall2007/papers/Concurrency%20of%20Operations.pdf
+
+readings in operating systems - Google 搜索
+https://www.google.com/search?q=readings+in+operating+systems&rlz=1C1GCEA_enJP1090JP1090&oq=readings+in+operating+systems&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDQ2MzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+birrell-intro-to-threads.pdf
+https://student.cs.uwaterloo.ca/~cs350/common/birrell-intro-to-threads.pdf
+
+slides.dvi
+https://www.cl.cam.ac.uk/teaching/1011/OpSystems/os1a-slides.pdf
+
+Distributed Systems | readings
+https://www.andrew.cmu.edu/course/15-440/readings/
+
+x600-book-v0903.pdf
+https://www.khoury.northeastern.edu/~pjd/x600-book-v0903.pdf
+
+IPC in PostgreSQL: Thomas Munro - PGCon 2023 - YouTube
+https://www.youtube.com/watch?v=hZvkvfYgHIg
+
+Chromium的IPC消息发送、接收和分发机制分析_chromium io 线程 socket-CSDN博客
+https://blog.csdn.net/Luoshengyang/article/details/47822689
+
+Main | PostgreSQL Person of the Week
+https://postgresql.life/
+
+ads' corner | Andreas 'ads' Scherbaum
+https://andreas.scherbaum.la/
+
 # 2024-2-4
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,4 +1,34 @@
+# 2024-2-5 | 
+
+
+
+std::shared_mutex pthread_rwlock
+
+https://www.cs.rit.edu/~ats/books/ooc.pdf
+
+You do more things, which means you know more information.
+
+You know more information, which means you can do more things.
+
+pointer wizzling
+
+open source guys Linux postgresql
+
+commerical guys windows oracle
+
+std::mutex pthread_mutex futex
+
+fast user mutex or heavy mutex os
+
+
+
 # 2024-2-4 | 
+
+Do the right shit down with a foolish mind.
+
+getconf LEVEL1_DCACHE_LINESIZE
+
+/sys/devices/system/cpu/cpu0/cache/
 
 https://dblp.org/pid/g/GoetzGraefe.html
 
