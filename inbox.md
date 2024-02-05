@@ -1,5 +1,80 @@
 # 2024-2-5 | 
 
+winget install -e --id WireGuard.WireGuard
+
+sudo vim /etc/wireguard/wg0.conf
+
+sudo apt install wireguard-tools
+sudo apt install wireguard-go
+sudo apt install resolvconf
+
+#以下是配置文件
+[Interface]
+PrivateKey = 8APocBKyPt185rC9a6Sn78jhJ/Uhsqt+REDXTH8mOUo=
+Address = 10.0.8.1
+
+PostUp   = iptables -A FORWARD -i wg0 -j ACCEPT; iptables -A FORWARD -o wg0 -j ACCEPT; iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+PostDown = iptables -D FORWARD -i wg0 -j ACCEPT; iptables -D FORWARD -o wg0 -j ACCEPT; iptables -t nat -D POSTROUTING -o eth0 -j MASQUERADE
+#注意eth0需要为本机网卡名称
+
+ListenPort = 444 # 监听端口 可修改
+DNS = 8.8.8.8
+MTU = 1500
+[Peer]
+PublicKey = pInyIleVxjBZU623GTlEzY92oSVUXKoDil5xaKVVJHA=
+
+AllowedIPs = 10.0.8.10/32 #客户端所使用的IP
+
+[Peer]
+PublicKey = Gv+dyaWWaxSsYjTe0p76+G6E9MyUyvRUYGg1Pl+6/k8=
+AllowedIPs = 10.0.8.11/32 #客户端Client2所使用的IP
+
+[Peer]
+PublicKey = NNdpv5fx/V6fcExYQLQzhMHfnwmqYC7O0Y9UzrBTwQI=
+AllowedIPs = 10.0.8.12/32 #客户端Client2所使用的IP
+
+wg-quick up wg0 #wg启动命令
+wg-quick down wg0 #wg关闭命令
+
+ttl.sh
+
+sudo apt-get install build-essential
+
+nvm install 20.11.0
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+
+sudo vim /etc/systemd/system/docs.service
+
+[Unit]
+# 服务名称，可自定义
+Description = docs
+
+[Service]
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/projects/yjs-demos/
+ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.11.0/bin/:$PATH pnpm start'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+sudo apt install golang-go
+
+```bash
+
+wget https://github.com/second-state/LlamaEdge/releases/download/0.2.14/llama-simple.wasm
+
+```
+
+arp -a
+
+C:\\Users\\tannal/.ssh/known_hosts:1
 
 ```bash
 cd /

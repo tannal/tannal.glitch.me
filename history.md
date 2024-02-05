@@ -6,6 +6,213 @@ https://github.dev/tannal/tannal.glitch.me
 6.5840 Schedule: Spring 2024
 https://pdos.csail.mit.edu/6.824/schedule.html
 
+Lecture 2: RPC and Threads - YouTube
+https://www.youtube.com/watch?v=oZR76REwSyA
+
+SeaweedFS
+https://github.com/seaweedfs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Native linux on android devices : r/linuxquestions
+https://www.reddit.com/r/linuxquestions/comments/q2cmvk/native_linux_on_android_devices/
+
+PostmarketOS - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/PostmarketOS
+
+骁龙865（红米K30 PRO）Linux下跑分 - 哔哩哔哩
+https://www.bilibili.com/read/cv5378114/
+
+termux performance - Google 搜索
+https://www.google.com/search?q=termux+performance&rlz=1C1GCEA_enJP1090JP1090&oq=termux+per&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg0MDM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+CALINYARA
+https://calinyara.github.io/technology/2020/06/08/raspberry-cluster.html
+
+K3s
+https://k3s.io/
+
+2022 年，ARM Windows 笔记本能用了吗？ - 少数派
+https://sspai.com/post/76849
+
+Raspberry Pi 5 aangekondigd met snellere processor - Nieuws - Circuits Online
+https://www.circuitsonline.net/nieuws/251/raspberry-pi-5-aangekondigd-met-snellere-processor.html
+
+【树莓派4B】八、树莓派软路由，Ubuntu18.04配置路由转发_ubuntu 软路由-CSDN博客
+https://blog.csdn.net/qq_42820594/article/details/107375029
+
+小米8 linux - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E7%B1%B38+linux&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%B0%8F%E7%B1%B38+linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDQyOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+clone - SD card cloning using the dd command - Ask Ubuntu
+https://askubuntu.com/questions/227924/sd-card-cloning-using-the-dd-command
+
+(4 封私信 / 80 条消息) 没有显示器可以使用树莓派么，初次安装过程中呢？ - 知乎
+https://www.zhihu.com/question/20764621
+
+tannal (tannal)
+https://github.com/tannal/
+
+docker windows without wsl - Google 搜索
+https://www.google.com/search?q=docker+windows+without+wsl&rlz=1C1GCEA_enJP1090JP1090&oq=docker+windows+without+wsl&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgcIARAAGIAEMggIAhAAGAgYHjIICAMQABgFGB4yCAgEEAAYBRgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHtIBCDU4NzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+OpenDAL quickstart cannot read on Deno · Issue #4064 · apache/opendal
+https://github.com/apache/opendal/issues/4064
+
+[napi] Support Deno FFI · Issue #900 · napi-rs/napi-rs
+https://github.com/napi-rs/napi-rs/issues/900
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=SeaweedFS&sort=byPopularity&type=story
+
+WasmEdge Runtime
+https://github.com/WasmEdge
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wasmedge&sort=byPopularity&type=story
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime/issues
+
+Second State
+https://github.com/second-state
+
+Install Rust - Rust Programming Language
+https://www.rust-lang.org/tools/install
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+Index of /etc/systemd/system/
+http://192.168.43.183:8080/etc/systemd/system/
+
+Release v0.54.0 · fatedier/frp
+https://github.com/fatedier/frp/releases/tag/v0.54.0
+
+Create Tar Backup Command
+https://chat.openai.com/c/a846130e-2756-49a3-af5c-7bd1da4fa334
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+docker.sh - a really cool domain parked on Park.io
+http://docker.sh/
+
+docker push image for testing - Google 搜索
+https://www.google.com/search?q=docker+push+image+for+testing&sca_esv=c8032146a3e65808&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09ZbymJl4Z-LYlPhCfK7RDXiy3uwQ%3A1707131017135&ei=icDAZZzfB5uSseMPqNGtsAw&ved=0ahUKEwjcx_HOhpSEAxUbSWwGHahoC8YQ4dUDCBA&uact=5&oq=docker+push+image+for+testing&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWRvY2tlciBwdXNoIGltYWdlIGZvciB0ZXN0aW5nMgcQIRgKGKABSIhDUNoBWJZCcA14AZABAJgBqgGgAYcOqgEEMC4xM7gBA8gBAPgBAcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICBRAhGKAB4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+docker one time image - Google 搜索
+https://www.google.com/search?q=docker+one+time+image&rlz=1C1GCEA_enJP1090JP1090&oq=docker+one+time+image&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDU1MzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+ESM>CDN
+https://esm.sh/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+124.223.112.154
+http://124.223.112.154:13000/quill/quill.html
+
+install gnu make ubuntu - Google 搜索
+https://www.google.com/search?q=install+gnu+make+ubuntu&sca_esv=c8032146a3e65808&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-K-spAVKAz-1U3rZ4R2UJpBKPaaQ%3A1707131374188&ei=7sHAZZj8CsTa4-EPyeyW4Aw&ved=0ahUKEwiYq5L5h5SEAxVE7TgGHUm2BcwQ4dUDCBA&uact=5&oq=install+gnu+make+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2luc3RhbGwgZ251IG1ha2UgdWJ1bnR1MggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBhAAGAgYHkj_B1AAWNwGcAB4AJABAZgBxQOgAf8MqgEJMC42LjAuMS4xuAEDyAEA-AEBwgIFEAAYgATiAwQYACBB&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E4%B8%80%E6%AC%A1&op=translate
+
+docker image registry - Google 搜索
+https://www.google.com/search?q=docker+image+registry&sca_esv=c8032146a3e65808&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-VpqZ-9Y5l5mGqFyCjGWHPlmXfEA%3A1707131605373&ei=1cLAZdGyFqaW4-EPk7mn8Ak&oq=docker+image+regi&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWRvY2tlciBpbWFnZSByZWdpKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIlUdQgQtYikBwCHgBkAEAmAHdBqABxh6qAQswLjcuNC0yLjEuMrgBA8gBAPgBAcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIMECMYgAQYigUYExgnwgIKECMYgAQYigUYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICBBAAGB7CAgYQABgeGA_CAgYQABgIGB7CAggQABgIGB4YDcICBRAhGKAB4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ttl.sh&sort=byPopularity&type=story
+
+ttl.sh
+https://ttl.sh/
+
+设置树莓派wifi的几种方式 - 知乎
+https://zhuanlan.zhihu.com/p/136463580
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+2017398956/011 Android 查看各个 app 的 UID.md at master · 2017398956/2017398956
+https://github.com/2017398956/2017398956/blob/master/011%20Android%20%E6%9F%A5%E7%9C%8B%E5%90%84%E4%B8%AA%20app%20%E7%9A%84%20UID.md
+
+protocols/BQP.md · master · briar / briar-spec · GitLab
+https://code.briarproject.org/briar/briar-spec/blob/master/protocols/BQP.md
+
+ttl.sh
+https://ttl.sh/
+
+Code search results
+https://github.com/search?q=repo%3Abriar%2Fbriar+43887&type=code
+
+Tor - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Tor
+
+android studio tcp network inspector - Google 搜索
+https://www.google.com/search?sca_esv=30ba42da69d2c19f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08_1ge_-t-EFqOYQYzMmy2PewAkvA:1707141047526&q=android+studio+tcp+network+inspector&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj0mOD9q5SEAxXP4jgGHZ_DADIQ0pQJegQIDBAB&biw=1536&bih=738&dpr=1.25
+
+网络层 内网穿透 - Google 搜索
+https://www.google.com/search?q=%E7%BD%91%E7%BB%9C%E5%B1%82+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BD%91%E7%BB%9C%E5%B1%82+%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCTEyMzA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+内网穿透你真的了解吗？ - 知乎
+https://zhuanlan.zhihu.com/p/594928131
+
+内网隧道穿透 - Geekby's Blog
+https://www.geekby.site/2020/08/%E5%86%85%E7%BD%91%E9%9A%A7%E9%81%93%E7%A9%BF%E9%80%8F/#5-%E7%BD%91%E7%BB%9C%E5%B1%82
+
+ICMP tunnel - Wikipedia
+https://en.wikipedia.org/wiki/ICMP_tunnel
+
+(4 封私信 / 80 条消息) 如何组建超过1KM远距离局域网？ - 知乎
+https://www.zhihu.com/question/342083507
+
+使用VPN组建局域网打通工作和家庭网络
+https://blog.d0zingcat.dev/p/vpn-connect-work-home/
+
+基于Wireguard实现多地域设备异地组网 | AI柠檬
+https://blog.ailemon.net/2023/10/25/wg-based-net-connection-bettwen-multi-region/
+
+软路由器 手机热点 - Google 搜索
+https://www.google.com/search?q=%E8%BD%AF%E8%B7%AF%E7%94%B1%E5%99%A8+%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9&sca_esv=5f32bda464ccee7b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09Zn0zJrf3WJ2xGSoUQQlo-ASIXIA%3A1707143327985&ei=n_DAZZvrO7-Z4-EPkveIuA0&ved=0ahUKEwjbtpS9tJSEAxW_zDgGHZI7AtcQ4dUDCBA&uact=5&oq=%E8%BD%AF%E8%B7%AF%E7%94%B1%E5%99%A8+%E6%89%8B%E6%9C%BA%E7%83%AD%E7%82%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiGei9r-i3r-eUseWZqCDmiYvmnLrng63ngrkyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIiRNQAFiLEnAAeAGQAQGYAbUDoAGMDaoBCTAuNS4xLjEuMbgBA8gBAPgBAcICBxAjGLECGCfCAgwQABiABBiKBRhDGArCAgoQABiABBiKBRhDwgIHEAAYgAQYDOIDBBgAIEE&sclient=gws-wiz-serp
+
+使用Wireguard进行异地组网 - 知乎
+https://zhuanlan.zhihu.com/p/601848839
+
+wireguard android - Google 搜索
+https://www.google.com/search?q=wireguard+android&rlz=1C1GCEA_enJP1090JP1090&oq=Wireguard+andro&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIzNTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+IP Address Lookup | Geolocation
+https://www.iplocation.net/ip-lookup#google_vignette
+
+如何搭建一个DNS服务器
+https://ghh3809.github.io/2021/03/17/create-dns-server/
+
+How To Set Up WireGuard on Ubuntu 20.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+ip /24意思 - Google 搜索
+https://www.google.com/search?q=ip+%2F24%E6%84%8F%E6%80%9D&sca_esv=1e69a4e84dfc1d5f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08kuAnK-LfLvLXU8GVMGlAJXO_XbA%3A1707146666547&ei=qv3AZfzmINaXseMP68e1wAg&ved=0ahUKEwj84431wJSEAxXWS2wGHetjDYgQ4dUDCBA&uact=5&oq=ip+%2F24%E6%84%8F%E6%80%9D&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGlwIC8yNOaEj-aAnTIFEAAYgAQyBhAAGAgYHkj1DFCZA1isC3ABeAGQAQGYAaUFoAHCDKoBCTAuMS4xLjUtMrgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Download and install WireGuard with winget
+https://winget.run/pkg/WireGuard/WireGuard
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
 IPC in chromium - Google 搜索
 https://www.google.com/search?q=IPC+in+chromium&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCECMYJ9IBCDE2OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
 
