@@ -1,5 +1,173 @@
 # 2024-2-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+IPC in chromium - Google 搜索
+https://www.google.com/search?q=IPC+in+chromium&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCECMYJ9IBCDE2OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+How Chromium Got its Mojo? | Gyuyoung Weblog
+https://blogs.igalia.com/gyuyoung/2020/05/11/how-chromium-got-its-mojo/
+
+All Posts | 柯幽
+https://keyou.github.io/blog/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+Lecture 3: GFS - YouTube
+https://www.youtube.com/watch?v=6ETFk1-53qU
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=4&prefix=true&query=mit%206&sort=byPopularity&type=story
+
+About | Battlecode
+https://battlecode.org/about.html
+
+Programming for the Puzzled | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/6-s095-programming-for-the-puzzled-january-iap-2018/
+
+MIT 6.S191: Text-to-Image Generation - YouTube
+https://www.youtube.com/watch?v=SA-v6Op2kL4
+
+dancrossnyc/rxv64: xv6 OS
+https://github.com/dancrossnyc/rxv64
+
+黑客新闻 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%BB%91%E5%AE%A2%E6%96%B0%E9%97%BB
+
+永恒九月 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B0%B8%E6%81%92%E4%B9%9D%E6%9C%88
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=stanford%20cs&sort=byPopularity&type=story
+
+Stanford pilots Intro to CS course taught in JavaScript instead of Java | Hacker News
+https://news.ycombinator.com/item?id=13770275
+
+X 上的 Mekka 💉x7 @mekkaokereke@hachyderm.io：“I asked the Google SWE: 👨🏿: Did you know that there is literally a class in Stanford's CS curriculum, that is basically "How to pass Google's Interview?" 👨🏼: Wait... what?! Really? 👨🏿: Yep! They spend the semester practicing. Here's the course details: https://t.co/2xtsb0Trur” / X
+https://twitter.com/mekkaokerekebye/status/1135981938437632001
+
+Index of /class/cs9/slides
+https://web.stanford.edu/class/cs9/slides/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=cmu%201&sort=byPopularity&type=story
+
+bws_book.pdf
+https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf
+
+Concept maps from the book No Bullshit Guide to Math and Physics
+https://minireference.com/static/conceptmaps/math_and_physics_concepts.pdf
+
+infdesc.pdf · master · Clive Newstead / infdesc · GitLab
+https://gitlab.com/cnewstead/infdesc/-/blob/master/infdesc.pdf?ref_type=heads
+
+18-645: How to Write Fast Code
+http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/course.html
+
+How to Write Fast Code 18-645, spring 2008 1st Lecture, Jan. 14th
+http://users.ece.cmu.edu/~pueschel/teaching/18-645-CMU-spring08/material/class02.pdf
+
+paper.dvi
+https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf
+
+What is CRDT in Distributed Systems? - Stack Overflow
+https://stackoverflow.com/questions/34192283/what-is-crdt-in-distributed-systems
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+tannal (tannal)
+https://github.com/tannal
+
+Google File System及其继任者Colossus | Blog - Levy's Ink
+https://levy.at/blog/22
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%20Storage%20Systems&sort=byPopularity&type=story
+
+18-746 Storage Systems (Fall 2023): Syllabus
+https://course.ece.cmu.edu/~ece746/schedule.html
+
+18-746 Storage Systems (Fall 2023): Syllabus
+https://course.ece.cmu.edu/~ece746/schedule.html
+
+18746 at Carnegie Mellon University | Piazza
+https://piazza.com/cmu/fall2023/18746
+
+nfs ubuntu - Google 搜索
+https://www.google.com/search?q=nfs+ubuntu&sca_esv=8b8ea157cf45523f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_25kl1LXQnJmSECgbBDwliVm6pJg%3A1707116744391&ei=yIjAZc-9F4bX4-EPquezmA8&ved=0ahUKEwjPwY650ZOEAxWG6zgGHarzDPMQ4dUDCBA&uact=5&oq=nfs+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiCm5mcyB1YnVudHUyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSK4NUABY2wtwAHgBkAECmAHJA6ABpwuqAQkwLjMuMS4xLjG4AQPIAQD4AQHCAgYQABgeGAriAwQYACBB&sclient=gws-wiz-serp
+
+120-l13.ppt
+https://cseweb.ucsd.edu/classes/fa05/cse120/lectures/120-l13.pdf
+
+【MIT 6.824】学习笔记 3: GFS - 知乎
+https://zhuanlan.zhihu.com/p/354450124
+
+hdfs使用.md
+https://xuzhongcn.github.io/hadoop/02/hdfs.html
+
+file - Distributed filesystem in Ubuntu - Stack Overflow
+https://stackoverflow.com/questions/11130432/distributed-filesystem-in-ubuntu
+
+Unionfs: A Stackable Unification File System
+https://www.filesystems.org/project-unionfs.html
+
+bigtable-osdi06.pdf
+https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/bigtable-osdi06.pdf
+
+Comparison of distributed file systems - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
+
+Distributed Mode | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/for_distributed
+
+InterPlanetary File System - Wikipedia
+https://en.wikipedia.org/wiki/InterPlanetary_File_System
+
+storj/storj: Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
+https://github.com/storj/storj
+
+simple small fast distributed file system - Google 搜索
+https://www.google.com/search?q=simple+small+fast+distributed+file+system&rlz=1C1GCEA_enJP1090JP1090&oq=simple+small+fast+distributed+file+system&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCTExNTkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+network file system fault tolerance 2023 - Google 搜索
+https://www.google.com/search?q=network+file+system+fault+tolerance+2023&sca_esv=8b8ea157cf45523f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08R_hAaAfBPStD_n6Sn-ccPUB9nsQ%3A1707118081414&ei=AY7AZcvwGNjk4-EPppSmqAE&ved=0ahUKEwiL9dO21pOEAxVY8jgGHSaKCRUQ4dUDCBA&uact=5&oq=network+file+system+fault+tolerance+2023&gs_lp=Egxnd3Mtd2l6LXNlcnAiKG5ldHdvcmsgZmlsZSBzeXN0ZW0gZmF1bHQgdG9sZXJhbmNlIDIwMjMyBBAAGEdIkA5QywNYhg1wAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEB4gMEGAAgQYgGAZAGAQ&sclient=gws-wiz-serp
+
+Setting Up A Highly Available NFS Server
+https://www.howtoforge.com/high_availability_nfs_drbd_heartbeat
+
+pnfs.com
+http://www.pnfs.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=distributed%20file%20system&sort=byPopularity&type=story
+
+seaweedfs/seaweedfs: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+https://github.com/seaweedfs/seaweedfs?tab=readme-ov-file#table-of-contents
+
+Releases · seaweedfs/seaweedfs
+https://github.com/seaweedfs/seaweedfs/releases
+
+BackupYourSystem/TAR - Community Help Wiki
+https://help.ubuntu.com/community/BackupYourSystem/TAR
+
+clonezilla - Google 搜索
+https://www.google.com/search?q=clonezilla&rlz=1C1GCEA_enJP1090JP1090&oq=clonezilla&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/a846130e-2756-49a3-af5c-7bd1da4fa334
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

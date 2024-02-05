@@ -1,6 +1,34 @@
 # 2024-2-5 | 
 
 
+```bash
+cd /
+
+sudo tar -cvpzf backup.tar.gz --exclude=/backup.tar.gz --exclude=/proc --exclude=/tmp --exclude=/mnt --exclude=/dev --exclude=/sys --exclude=/run --exclude=/media --exclude=/var/log --exclude=/var/cache/apt/archives --exclude=/usr/src/linux-headers* --exclude=/home/*/.gvfs --exclude=/home/*/.cache --exclude=/home/*/.local/share/Trash /
+
+
+
+sudo tar -xvpzf /path/to/backup.tar.gz -C /media/whatever --numeric-owner
+
+mkdir /proc /sys /mnt /media
+
+```
+
+distributed file system
+```bash
+
+export PATH=/home/tannal/go/bin:$PATH
+
+go install github.com/seaweedfs/seaweedfs/weed@latest
+
+weed server -dir=.
+
+weed volume -dir="." -mserver="192.168.43.27:9333" -port=9433
+
+```
+
+https://github.com/seaweedfs/seaweedfs/releases
+
 
 std::shared_mutex pthread_rwlock
 
