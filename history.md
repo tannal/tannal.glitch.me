@@ -1,5 +1,191 @@
 # 2024-2-6
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Join Strings - Kattis joinstrings - Virtual Judge
+https://vjudge.net/problem/Kattis-joinstrings
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=joinstrings&res=0&orderBy=run_id&language=
+
+Submission 12871188 – Kattis, Kattis
+https://open.kattis.com/submissions/12871188
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=joinstrings&res=0&orderBy=run_id&language=
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+15-465 and 60-414 Schedule
+https://www.cs.cmu.edu/~jkh/aat_s09/schedule.html
+
+Minchen Li
+https://www.cs.cmu.edu/~minchenl/#sec_teaching
+
+Dave Andersen
+https://www.cs.cmu.edu/~dga/
+
+Phillip B. Gibbons
+https://www.cs.cmu.edu/~gibbons/
+
+Materials | 6.172/6.871 : Performance Engineering of Software Systems | MIT Learning Modules
+https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/fa16/6.172#materials
+
+15-712 Syllabus
+http://www.cs.cmu.edu/afs/cs/academic/class/15712-f15/www/syllabus.html
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+02-deep-learning-programming-abstraction.pdf
+https://mlsyscourse.org/slides/02-deep-learning-programming-abstraction.pdf
+
+06-CUDA-programming.pdf
+https://mlsyscourse.org/slides/06-CUDA-programming.pdf
+
+Dave Andersen cmu youtube - Google 搜索
+https://www.google.com/search?q=Dave+Andersen+cmu+youtube&sca_esv=ea470e4985ed4d8d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_yQ51ja2589bOWgKtVh5Yy0b3dOQ%3A1707193858795&ei=ArbBZYuLML_3seMPg9mkiAk&ved=0ahUKEwiLlJDc8JWEAxW_e2wGHYMsCZEQ4dUDCBA&uact=5&oq=Dave+Andersen+cmu+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiGURhdmUgQW5kZXJzZW4gY211IHlvdXR1YmUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIgRBQyANY5g5wAngAkAEAmAGiAaAByguqAQQwLjExuAEDyAEA-AEBwgIIEAAYgAQYywHCAgQQABgewgIFECEYoAHCAgcQIRgKGKAB4gMEGAEgQYgGAQ&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=best%20programmer&sort=byPopularity&type=story
+
+Ask HN: Who is the best programmer in the world right now? | Hacker News
+https://news.ycombinator.com/item?id=7850666
+
+John Carmack - Wikipedia
+https://en.wikipedia.org/wiki/John_Carmack
+
+Josh Parnell's Online Portfolio
+http://joshparnell.com/
+
+news.ycombinator.com/item?id=22669743
+https://news.ycombinator.com/item?id=22669743
+
+Programmer as wizard, programmer as engineer
+https://www.tedinski.com/2018/03/20/wizarding-vs-engineering.html
+
+Ted Kaminski
+https://www.tedinski.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=I%20think%20one%20of%20the%20overarching%20goals%20of%20compute%20science%20is%20to%20make%20more%20programming%20like%20wizarding.%20We%20want%20our%20computers%20to%20be%20human-amplifiers.&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mit%206&sort=byPopularity&type=story
+
+MIT 6.172: Performance Engineering of Software Systems | Hacker News
+https://news.ycombinator.com/item?id=25626315
+
+https://www.youtube.com/watch?t=2721&v=ZusiKXcz_ac&feature=youtu.be
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Ft%3D2721%26v%3DZusiKXcz_ac%26feature%3Dyoutu.be&q=EhAkAIkBAAAAAPA8lP_-PuvyGODEh64GIjCOrbUbyUHiuPns8al6opQXVqbJA6EHZxTalc3SVe_--5B0md1pfA6vVHrJU23UAvMyAXJaAUM
+
+Lecture 1 Outline | Computer System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare
+https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/week-1/lecture-1-outline/
+
+Codespaces
+https://github.com/codespaces
+
+Billing
+https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
+
+Learning To Learn: Intuition Isn’t Optional – BetterExplained
+https://betterexplained.com/articles/intuition-isnt-optional/
+
+ChatGPT
+https://chat.openai.com/c/2d048b97-9344-441c-90e0-e8637d33f6f7
+
+Steve Wozniak - Google 搜索
+https://www.google.com/search?q=Steve+Wozniak&rlz=1C1GCEA_enJP1090JP1090&oq=Steve+Wozniak&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Case Study: Union-Find
+https://algs4.cs.princeton.edu/15uf/
+
+Case Study: Union-Find
+https://algs4.cs.princeton.edu/15uf/
+
+Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne
+https://algs4.cs.princeton.edu/home/
+
+Lecture Slides
+https://algs4.cs.princeton.edu/lectures/
+
+About – Control.Monad.Writer
+https://donsbot.com/about/
+
+Fenwick Tree - Algorithms for Competitive Programming
+https://cp-algorithms.com/data_structures/fenwick.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=algorithm%204th&sort=byPopularity&type=story
+
+Ask HN: Help me choose the best first book for Algorithms | Hacker News
+https://news.ycombinator.com/item?id=10038600
+
+CS 61B: Data Structures - Shewchuk - UC Berkeley
+https://people.eecs.berkeley.edu/~jrs/61b/
+
+Jonathan Richard Shewchuk
+https://people.eecs.berkeley.edu/~jrs/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Berkeley&sort=byPopularity&type=story
+
+Tell HN: UC Berkeley has the best set of free introductory programming courses | Hacker News
+https://news.ycombinator.com/item?id=36197223
+
+Main | CS 61B Spring 2023
+https://sp23.datastructur.es/
+
+cs61b 2023 lec17 ds3 2-3 trees, 2-3-4 trees - Google 幻灯片
+https://docs.google.com/presentation/d/1mNAtzfc7Mna1rpVzoTcrn9p8ejWIh72QBuEqOJwQzbk/edit#slide=id.g4fe50d0bd7_3_0
+
+Home | CS 61C Spring 2023
+https://inst.eecs.berkeley.edu/~cs61c/sp23/
+
+Running 64- and 32-bit RISC-V Linux on QEMU — RISC-V - Getting Started Guide
+https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+
+anu university - Google 搜索
+https://www.google.com/search?q=anu+university&rlz=1C1GCEA_enJP1090JP1090&oq=anu+university&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyNzYxajBqOagCALACAA&sourceid=chrome&ie=UTF-8
+
+Join Strings – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/mzr4m9/problems/joinstrings
+
+dyson physicist - Google 搜索
+https://www.google.com/search?q=dyson+physicist&rlz=1C1GCEA_enJP1090JP1090&oq=dyson+phy&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYBRgeMggICRAAGAUYHtIBCDU4MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Bret Victor - Wikipedia
+https://en.wikipedia.org/wiki/Bret_Victor
+
+Advait Shinde - Google 搜索
+https://www.google.com/search?q=Advait+Shinde&rlz=1C1GCEA_enJP1090JP1090&oq=Advait+Shinde&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDUyNTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+oliver heaviside - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwLbRMMWD0EsjPySxLLVLISE0syyzOTEkFAHj5CT8&q=oliver+heaviside&rlz=1C1GCEA_enJP1090JP1090&oq=oliver+Heavis&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHtIBCDI5ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=Bret%20Victor&sort=byPopularity&type=story
+
+Choc - Bret Victor's 'Learnable Programming' implemented in Javascript
+https://www.newline.co/choc/
+
+tannal – Kattis, Purdue University
+https://purdue.kattis.com/users/tannal
+
+Adjacency matrix meaning and definition in DSA - GeeksforGeeks
+https://www.geeksforgeeks.org/adjacency-matrix-meaning-and-definition-in-dsa/
+
+Node.js: printing to console without a trailing newline? - Stack Overflow
+https://stackoverflow.com/questions/6157497/node-js-printing-to-console-without-a-trailing-newline
+
+c++ - 'ios' : is not a class or namespace name - Stack Overflow
+https://stackoverflow.com/questions/12548273/ios-is-not-a-class-or-namespace-name
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

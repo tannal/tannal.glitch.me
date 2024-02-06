@@ -1,6 +1,20 @@
 # 2024-2-6 | 
 
+Get-Content input | node vj.js
 
+process.stdout.write
+
+The great representations that enable people think about these ideas.
+
+explore 
+
+I need it.
+
+programming vs engineering
+
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/
+
+https://mlsyscourse.org/schedule
 
 # 2024-2-5 | 
 
