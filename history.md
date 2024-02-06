@@ -1,3 +1,167 @@
+# 2024-2-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+WireGuard 组网 两个对端服务访问异常 - V2EX
+https://www.v2ex.com/t/899244
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=mit%206&sort=byPopularity&type=story
+
+6.1420: Fine-Grained Algorithms and Complexity
+https://people.csail.mit.edu/virgi/6.1420/
+
+Operating Systems: Three Easy Pieces
+https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+MAC OS X Internals: A Systems Approach: 9780321278548: Computer Science Books @ Amazon.com
+https://www.amazon.com/gp/product/0321278542/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321278542&linkCode=as2&tag=opesysthrea0a-20&linkId=H33SAF42MNIRYKV5
+
+single.dvi
+https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf
+
+operating system site: cs.purdue.edu - Google 搜索
+https://www.google.com/search?q=operating+system+site%3A+cs.purdue.edu&rlz=1C1GCEA_enJP1090JP1090&oq=operating+system+site%3A+cs.purdue.edu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg4ODFqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+N=1 (marcua’s blog) | I’m the Co-Founder and CTO of B12, where we’re building a better future of creative and analytical work. Before that, I was Director of Data at Locu, a startup that was acquired by GoDaddy. I went to grad school at MIT’s CSAIL. One time in Jerusalem I ate a whole tub of hummus on my own. I don’t regret that day.
+https://blog.marcua.net/
+
+6.S081 / Fall 2021
+https://pdos.csail.mit.edu/6.S081/2021/schedule.html
+
+Susan Fowler - Google 搜索
+https://www.google.com/search?q=Susan+Fowler&rlz=1C1GCEA_enJP1090JP1090&oq=Susan+Fowler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=harvard%20cs&sort=byPopularity&type=story
+
+Harvard CS197: AI Research Experiences – The Course Book - Google 文档
+https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#heading=h.w86ci8t15ru3
+
+Harvard CS197 Lecture 3 Notes - Google 文档
+https://docs.google.com/document/d/1bPhwNdCCKkm1_adD0rx1YV6r2JG98qYmTxutT5gdAdQ/edit#heading=h.qotknb42dmr1
+
+CS109 Data Science
+http://cs109.org/
+
+Main
+http://rush-nlp.com/
+
+Functional Pearl: A SQL to C Compiler in 500 Lines of Code
+https://www.cs.purdue.edu/homes/rompf/papers/rompf-icfp15.pdf
+
+jf12_AJVMDoesWhat.pdf
+https://www.cs.purdue.edu/homes/hosking/661-12/jf12_AJVMDoesWhat.pdf
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+Tsung Tai Yeh
+https://people.cs.nycu.edu.tw/~ttyeh/course/2023_Spring/IOC5226/outline.html
+
+Microsoft PowerPoint - lecture-6
+https://people.cs.nycu.edu.tw/~ttyeh/course/2023_Spring/IOC5226/slide/lecture-3.pdf
+
+Cliff Click (@cliff_click) / X
+https://twitter.com/cliff_click
+
+X。尽是新鲜事 / X
+https://twitter.com/
+
+March 2007 - Cliff Click's BlogCliff Click's Blog
+http://cliffc.org/blog/2007/03/
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2020/toyear/2024/index?all&us
+
+University of Illinois Chicago - Google 搜索
+https://www.google.com/search?q=University+of+Illinois+Chicago&sca_esv=ea470e4985ed4d8d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08p23sMx6VZerW87PC4yi-LUKLj_w%3A1707185244174&ei=XJTBZainCp_MseMPlZCjiAk&ved=0ahUKEwioxa3Q0JWEAxUfZmwGHRXICJEQ4dUDCBA&uact=5&oq=University+of+Illinois+Chicago&gs_lp=Egxnd3Mtd2l6LXNlcnAiHlVuaXZlcnNpdHkgb2YgSWxsaW5vaXMgQ2hpY2FnbzIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBSNwBUABYAHAAeAGQAQCYAZYBoAGWAaoBAzAuMbgBA8gBAPgBAvgBAeIDBBgAIEG6BgYIARABGBQ&sclient=gws-wiz-serp
+
+Ask HN: Resources to learn filesystems/storage | Hacker News
+https://news.ycombinator.com/item?id=15746351
+
+A few thoughts on CSRankings.org – A Few Thoughts on Cryptographic Engineering
+https://blog.cryptographyengineering.com/2017/11/08/a-few-thoughts-on-csrankings-org/
+
+CS Theory Ranking
+http://projects.csail.mit.edu/dnd/ranking/
+
+Why I Don't Recommend CSRankings.org: Know the Values You are Ranking On | blog@CACM | Communications of the ACM
+https://cacm.acm.org/blogs/blog-cacm/248078-why-i-dont-recommend-csrankingsorg-know-the-values-you-are-ranking-on/fulltext
+
+computer science open rankings
+https://drafty.cs.brown.edu/csopenrankings/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+operator execution - Google 搜索
+https://www.google.com/search?q=operator+execution&rlz=1C1GCEA_enJP1090JP1090&oq=operator+execution&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYBRgeMggIBBAAGAUYHjIICAUQABgFGB4yCAgGEAAYBRgeMgoIBxAAGAUYChgeMggICBAAGAUYHjIICAkQABgFGB7SAQg3NzM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+sam altman - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1Tcwyq4wMMsxYPTiKk7MVUjMKclNzAMAVN0HWg&q=sam+altman&rlz=1C1GCEA_enJP1090JP1090&oq=sam+al&gs_lcrp=EgZjaHJvbWUqDAgBEC4YJxiABBiKBTIGCAAQRRg5MgwIARAuGCcYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyDQgEEC4YxwEY0QMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgyMzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+openai - Google 搜索
+https://www.google.com/search?q=openai&rlz=1C1GCEA_enJP1090JP1090&oq=openai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhhDGMcBGNEDGIAEGIoFMgYIAhBFGDsyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg90gEIMTcwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+18-746 Storage Systems (Fall 2023): Syllabus
+https://course.ece.cmu.edu/~ece746/schedule.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=18%20746&sort=byPopularity&type=story
+
+Storage Systems fall2023 - Google 搜索
+https://www.google.com/search?q=Storage+Systems+fall2023&rlz=1C1GCEA_enJP1090JP1090&oq=Storage+Systems+fall2023&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBge0gEIMjM5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+GREG GANGER
+http://users.ece.cmu.edu/~ganger/index.html#Teaching
+
+15-719 Advanced Cloud Computing: Syllabus
+https://www.cs.cmu.edu/~15719/schedule.html
+
+DATA 604 - Working with Data at Scale - Fall 2023 | Haskayne School of Business | University of Calgary
+https://haskayne.ucalgary.ca/haskayne_info/courses/f23/DATA604?destination=profiles%2F102-2297%2Fcourses%3Fthickbox%3D1
+
+COMP 362 - Operating Systems - Fall 2023 - Schedule of Classes - CSU Channel Islands
+https://ciapps.csuci.edu/ScheduleOfClasses/SOC/ClassInformation/Fall-2023/2308/Operating-Systems
+
+Syllabus-Comp7212-Spring24
+https://www.memphis.edu/cs/courses/syllabi/7212.pdf
+
+01b_workloads.pdf
+https://www.csd.uoc.gr/~hy647/lectures/01b_workloads.pdf
+
+Fall 2023 CS262a: Course Schedule and Lectures
+https://people.eecs.berkeley.edu/~kubitron/cs262/index_lectures.html
+
+Prof. John Kubiatowicz's Talks
+https://people.eecs.berkeley.edu/~kubitron/courses/index.html
+
+CS 598 RAP - Storage Systems Theory and Practice
+https://ramn.web.illinois.edu/courses/fall22/cs598/schedule.html
+
+Jignesh Patel's homepage
+https://jigneshpatel.org/
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20relation&type=code
+
+dblp: John Kubiatowicz
+https://dblp.org/pid/k/JohnKubiatowicz.html
+
+Index of /~15719/old/spring2019/lectures
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/
+
 # 2024-2-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

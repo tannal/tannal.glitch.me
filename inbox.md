@@ -1,4 +1,14 @@
+# 2024-2-6 | 
+
+
+
 # 2024-2-5 | 
+
+sudo vim /etc/sysctl.conf
+
+net.ipv4.ip_forward = 1
+
+sysctl -p /etc/sysctl.conf
 
 winget install -e --id WireGuard.WireGuard
 
