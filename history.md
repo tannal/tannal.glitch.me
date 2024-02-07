@@ -1,3 +1,92 @@
+# 2024-2-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+btree/btree.go at master · google/btree
+https://github.com/google/btree/blob/master/btree.go
+
+Main | CS 61B Spring 2023
+https://sp23.datastructur.es/
+
+c61b 2023 lec18 ds4 balanced search trees - Google 幻灯片
+https://docs.google.com/presentation/d/1GP_5y1hpfF7SfUz4rfwcP7uXIYZ4cNRREFyz6IDfWhg/edit#slide=id.g4694c9844_01081
+
+33BalancedSearchTrees
+https://www.cs.princeton.edu/courses/archive/fall18/cos226/lectures/33BalancedSearchTrees.pdf
+
+cs61b 2023 lec17 ds3 2-3 trees, 2-3-4 trees - Google 幻灯片
+https://docs.google.com/presentation/d/1mNAtzfc7Mna1rpVzoTcrn9p8ejWIh72QBuEqOJwQzbk/edit#slide=id.g508ece10b0_1_678
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - improved fiesta
+https://github.com/codespaces/improved-fiesta-r444qvxrg9xjfx94q?editor=vscode
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Advent of Code 2023
+https://adventofcode.com/
+
+Stanford University – Kattis, Kattis
+https://open.kattis.com/universities/stanford.edu
+
+btree - Google 搜索
+https://www.google.com/search?q=btree&rlz=1C1GCEA_enJP1090JP1090&oq=btree&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINDM1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+postgres/src/backend/access/nbtree/nbtree.c at master · postgres/postgres
+https://github.com/postgres/postgres/blob/master/src/backend/access/nbtree/nbtree.c
+
+nbtree An Architectrual Perspective - Peter Geoghegan - YouTube
+https://www.youtube.com/watch?v=p5RaATILoiE
+
+Peter Geoghegan's blog
+https://pgeoghegan.blogspot.com/
+
+b tree leetcode - Google 搜索
+https://www.google.com/search?q=b+tree+leetcode&rlz=1C1GCEA_enJP1090JP1090&oq=b+tree+leetcode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBCDM0NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fixing B-Tree Implementation
+https://chat.openai.com/c/cfee115e-2e11-4b72-8944-82732c940425
+
+javascript - How to insert an item into an array at a specific index? - Stack Overflow
+https://stackoverflow.com/questions/586182/how-to-insert-an-item-into-an-array-at-a-specific-index
+
+B-tree - Wikipedia
+https://en.wikipedia.org/wiki/B-tree
+
+database - What is the degree of B-Tree in Sqlite? - Stack Overflow
+https://stackoverflow.com/questions/59469714/what-is-the-degree-of-b-tree-in-sqlite
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182#discussioncomment-8378275
+
+B-Tree Visualization
+https://www.cs.usfca.edu/~galles/visualization/BTree.html
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-55wyqhpe
+
+tannal (tannal)
+https://github.com/tannal
+
+124.223.112.154
+http://124.223.112.154:1883/
+
+cloc alternative - Google 搜索
+https://www.google.com/search?q=cloc+alternative&sca_esv=9999544beb0795a1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08L1X6-Bvas61Z8SvDa3P7xwWMU4Q%3A1707224607455&ei=Hy7CZZeqG6KJ4-EPseKMkAQ&oq=cloc+al&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2Nsb2MgYWwqAggAMggQABiABBjLATIKEAAYgAQYywEYCjIGEAAYHhgMMgYQABgeGAwyBhAAGB4YDDIGEAAYHhgMMgYQABgeGAwyCBAAGB4YDBgKMgYQABgeGAwyCBAAGB4YDBgKSP0nUABY2iFwAXgBkAEBmAGSCaABqCOqAQ8wLjQuMC4xLjIuMS4xLjG4AQPIAQD4AQHCAgoQIxiABBiKBRgnwgIEECMYJ8ICChAAGIAEGIoFGEPCAg0QABiABBiKBRhDGLEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAhAQABiABBiKBRhDGLEDGIMBwgIIEC4YsQMYgATCAgoQLhiABBiKBRhDwgIWEC4YgAQYigUYQxixAxiDARjHARjRA8ICCBAAGIAEGLEDwgIMECMYgAQYigUYExgnwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICBRAAGIAEwgILEC4YgAQYxwEYrwHCAgsQLhivARjHARiABMICBRAuGIAEwgIIEC4YgAQYsQPCAg4QLhiABBjLARjHARivAeIDBBgAIEE&sclient=gws-wiz-serp
+
+XAMPPRocky/tokei: Count your code, quickly.
+https://github.com/XAMPPRocky/tokei
+
+node-examples/packages at main · tannal/node-examples
+https://github.com/tannal/node-examples/tree/main/packages
+
 # 2024-2-6
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

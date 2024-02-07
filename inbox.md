@@ -1,4 +1,11 @@
+# 2024-2-7 | 
+
+
 # 2024-2-6 | 
+
+tokei
+
+winget install XAMPPRocky.tokei
 
 Get-Content input | node vj.js
 
