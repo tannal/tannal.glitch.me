@@ -1,3 +1,200 @@
+# 2024-2-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+LLVM ABI Annotations by tstellar · Pull Request #67502 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/67502
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+Lecture 2: RPC and Threads - YouTube
+https://www.youtube.com/watch?v=oZR76REwSyA
+
+Lecture 2: RPC and Threads - YouTube
+https://www.youtube.com/watch?v=gA4YXUJX7t8
+
+(1) Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+scalability - Conflict-free Replicated Data Types (CRDT) vs Paxos or Raft - Stack Overflow
+https://stackoverflow.com/questions/11254318/conflict-free-replicated-data-types-crdt-vs-paxos-or-raft
+
+distributed computing - Is there a relationship between CRDTs and the RAFT protocol - or are they orthogonal? - Stack Overflow
+https://stackoverflow.com/questions/34434011/is-there-a-relationship-between-crdts-and-the-raft-protocol-or-are-they-orthog?rq=3
+
+CockroachDB - YouTube
+https://www.youtube.com/@cockroachdb/videos
+
+#general > HTMLImageElement decode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTMLImageElement.20decode
+
+servo/components/script/dom/gpucanvascontext.rs at b62d169f0f2b31d87dcfe0fd20389e26e89d4269 · servo/servo
+https://github.com/servo/servo/blob/b62d169f0f2b31d87dcfe0fd20389e26e89d4269/components/script/dom/gpucanvascontext.rs#L98
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/embedded-content.html#dom-img-decode
+
+servo/components/script/dom/gpu.rs at ba1803d30ad822250ac9827f35331250cec5fbf6 · servo/servo
+https://github.com/servo/servo/blob/ba1803d30ad822250ac9827f35331250cec5fbf6/components/script/dom/gpu.rs#L52
+
+servo/components - mozsearch
+https://searchfox.org/mozilla-central/source/servo/components
+
+韦伯-费希纳定理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%8B%E4%BC%AF-%E8%B2%BB%E5%B8%8C%E7%B4%8D%E5%AE%9A%E7%90%86
+
+vectorwise - Google 搜索
+https://www.google.com/search?q=vectorwise&rlz=1C1GCEA_enJP1090JP1090&oq=vectorwise&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgPGB4yBggGEAAYHjIGCAcQABgeMgoICBAAGAoYDxgeMggICRAAGAUYHtIBCDY2MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/OpenProjects.html#gsoc24
+
+Support clang plugins on Windows - Community / GSoC - LLVM Discussion Forums
+https://discourse.llvm.org/t/support-clang-plugins-on-windows/76408
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Epic Games - Wikipedia
+https://en.wikipedia.org/wiki/Epic_Games
+
+虚幻引擎 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8E#%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8E4
+
+原神 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8E%9F%E7%A5%9E
+
+Unity (game engine) - Wikipedia
+https://en.wikipedia.org/wiki/Unity_(game_engine)
+
+反恐精英：全球攻势 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B1%EF%BC%9A%E5%85%A8%E7%90%83%E6%94%BB%E5%8A%BF
+
+Valve - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Valve
+
+雷神之锤引擎 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4%E5%BC%95%E6%93%8E
+
+Unity (game engine) - Wikipedia
+https://en.wikipedia.org/wiki/Unity_(game_engine)
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+nasdaq+&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg3MjIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+CUDA - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/CUDA
+
+中国河南等省爆出GDP增速“改降为升” “数据注水”的背后原因 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-68153559
+
+TSMC founder Morris Chang on the evolution of the semiconductor industry - YouTube
+https://www.youtube.com/watch?v=r_8XClnnvIk
+
+University of Illinois Urbana-Champaign - Wikipedia
+https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign
+
+伊利诺伊大学厄巴纳-尚佩恩分校 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%A4%A7%E5%AD%A6%E5%8E%84%E5%B7%B4%E7%BA%B3-%E9%A6%99%E6%A7%9F%E5%88%86%E6%A0%A1
+
+庚子赔款 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BA%9A%E5%AD%90%E8%B5%94%E6%AC%BE
+
+姚期智 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwLCosMTVg9OJ8unzWsznzn83cBQBY3QnQ&q=%E5%A7%9A%E6%9C%9F%E6%99%BA&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%A7%9A%E6%9C%9F&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTEyNzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Fixing Node.js vm APIs, part 4 - hitting the compilation cache again | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2023/12/31/fixing-nodejs-vm-apis-4/
+
+Joyee Cheung | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/qzhang
+
+mrego (Manuel Rego Casasnovas)
+https://github.com/mrego
+
+登录 X / X
+https://twitter.com/i/flow/login?redirect_after_login=%2Fmeeple_
+
+servo/servo: The Servo Browser Engine
+https://github.com/servo/servo
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+Courses | Brilliant
+https://brilliant.org/courses/#/math/logic-and-deduction
+
+Why am I switching to Flutter in 2024 - YouTube
+https://www.youtube.com/watch?v=3WAEQ-zKAqg
+
+Chopin - Nocturne in E flat major Op.9 No.2 Classical music relaxing 蕭邦 降E大調夜曲 古典音樂 放鬆音樂 - YouTube
+https://www.youtube.com/watch?v=49zqp4wG5x0
+
+杰伦 即兴 - Google 搜索
+https://www.google.com/search?q=%E6%9D%B0%E4%BC%A6+%E5%8D%B3%E5%85%B4&sca_esv=539627831b1f95ed&rlz=1C1GCEA_enJP1090JP1090&tbm=vid&prmd=isvmnbtz&sxsrf=ACQVn0-xVhdrFSN9Gee6soY3W0QOaPkZUw:1707300373283&ei=FVbDZcn4EPeS4-EPr8au6AI&start=20&sa=N&ved=2ahUKEwiJ15jC_ZiEAxV3yTgGHS-jCy04ChDy0wN6BAgPEAc&biw=1536&bih=738&dpr=1.25
+
+mongodb - Google 搜索
+https://www.google.com/search?q=mongodb&rlz=1C1GCEA_enJP1090JP1090&oq=mongodb&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjQ2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SingleStore - Wikipedia
+https://en.wikipedia.org/wiki/SingleStore
+
+蓝色多瑙河 钢琴 - Google 搜索
+https://www.google.com/search?gs_ssp=eJwBKQDW_woNL2cvMTF0Ml9nbXhzODABShbok53oibLlpJrnkZnmsrMg6ZKi55C0SRcT7g&q=%E8%93%9D%E8%89%B2%E5%A4%9A%E7%91%99%E6%B2%B3+%E9%92%A2%E7%90%B4&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%93%9D%E8%89%B2%E5%A4%9A&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEwNzMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+amsl - Google 搜索
+https://www.google.com/search?q=amsl&rlz=1C1GCEA_enJP1090JP1090&oq=amsl&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgwIAhAjGCcYgAQYigUyEAgDEC4YxwEYsQMY0QMYgAQyBwgEEAAYgAQyEAgFEAAYgwEYsQMYgAQYigUyDQgGEAAYgwEYsQMYgAQyDQgHEC4YxwEY0QMYgAQyEwgIEC4YgwEYxwEYsQMY0QMYgAQyEAgJEC4YxwEYsQMY0QMYgATSAQgxMDQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+北欧 模式 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E6%AC%A7+%E6%A8%A1%E5%BC%8F&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8C%97%E6%AC%A7+%E6%A8%A1%E5%BC%8F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgkIAhAuGAwYgAQyDwgDEC4YDBjHARjRAxiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyCQgJEAAYDBiABNIBCDk3MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=go%20net%20rpc&sort=byPopularity&type=story
+
+Custom encoding: Go implementation in net/rpc vs grpc and why we switched - Dgraph Blog
+https://dgraph.io/blog/post/rpc-vs-grpc/
+
+FlutterFlow - Build beautiful, modern apps incredibly fast
+https://flutterflow.io/
+
+webflow - Google 搜索
+https://www.google.com/search?q=webflow&rlz=1C1GCEA_enJP1090JP1090&oq=webflow&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Go Playground - The Go Programming Language
+https://go.dev/play/
+
+Go by Example: Goroutines
+https://gobyexample.com/goroutines
+
+go - How to wait for all goroutines to finish without using time.Sleep? - Stack Overflow
+https://stackoverflow.com/questions/18207772/how-to-wait-for-all-goroutines-to-finish-without-using-time-sleep
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+ChatGPT
+https://chat.openai.com/
+
+(1) Discord | @bhumi_Singh
+https://discord.com/channels/@me/1204485301377179648
+
+计算机蠕虫 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E8%A0%95%E8%9F%B2
+
+MIT CSAIL Parallel and Distributed Operating Systems Group
+https://pdos.csail.mit.edu/publications/
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Andy%20Pavlo&sort=byPopularity&type=story
+
 # 2024-2-7
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
