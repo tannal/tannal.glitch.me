@@ -1,5 +1,54 @@
 # 2024-2-8 | 
 
+sudo apt install liblld-16-dev
+
+sudo ln -sfn aarch64-linux-gnu-ld /usr/bin/ld
+sudo ln -sfn /usr/bin/lld /usr/bin/ld
+
+
+sudo rm /var/lib/apt/lists/* -vf
+sudo apt-get update
+
+sudo rm -vf /var/lib/apt/lists/*
+
+sudo apt-get update
+
+include(CMakePrintHelpers)
+
+cmake_print_variables(LLD_DIR)
+
+sudo apt install cmake ninja-build llvm dstat htop lld
+
+```bash
+
+sudo apt install nfs-kernel-server
+sudo systemctl start nfs-kernel-server.service
+
+sudo vim /etc/exports
+/home *(rw,sync,no_subtree_check)
+
+sudo exportfs -a
+
+```
+
+sudo apt install build-essential
+
+sudo vim  /etc/network/interfaces
+
+auto wlan0
+iface wlan0 inet static
+address 192.168.43.246
+netmask 255.255.255.0
+gateway 192.168.43.1
+wireless-essid 小米手机
+wireless-key 9711eeb1f089
+
+sudo vim /etc/init.d/wifi
+chmod +x /etc/init.d/wifi
+
+wpa_supplicant -B -i wlan0 -Dwext -c /home/ubuntu/wifi_pwd.conf
+dhclient wlan0
+
 https://pdos.csail.mit.edu/6.S081/2023/schedule.html
 
 https://css.csail.mit.edu/6.858/2023/
@@ -361,6 +410,9 @@ git status
 cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Release -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF .
 
 cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Debug -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF -DCMAKE_INSTALL_PREFIX=`pwd`/_install .
+
+cmake -GNinja -Bbuild -DCMAKE_BUILD_TYPE=Debug -DWASMEDGE_PLUGIN_WASI_NN_BACKEND="GGML" -DWASMEDGE_PLUGIN_WASI_NN_GGML_LLAMA_BLAS=OFF -DLLVM_DIR="C:\Users\tannal\Downloads\llvm-18.1.0rc2.src\llvm-18.1.0rc2.src\cmake" -DCMAKE_INSTALL_PREFIX=`pwd`/_install .
+
 
 ninja -C build
 

@@ -1,3 +1,182 @@
+# 2024-2-9
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (tannal)
+https://github.com/tannal
+
+• Discord | @bhumi_Singh
+https://discord.com/channels/@me/1204485301377179648
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge/tree/master
+
+LLVM in VCPKG and painful update - LLVM Project - LLVM Discussion Forums
+https://discourse.llvm.org/t/llvm-in-vcpkg-and-painful-update/68051/4
+
+microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS
+https://github.com/microsoft/vcpkg
+
+lib llvm windows - Google 搜索
+https://www.google.com/search?q=lib+llvm+windows&rlz=1C1GCEA_enJP1090JP1090&oq=lib+llvm+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzk1N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+C++ - Speed up installs using vcpkg - Stack Overflow
+https://stackoverflow.com/questions/54955623/c-speed-up-installs-using-vcpkg
+
+vcpkg/docs/users/integration.md at e251b22f266cfd9115d784c34bf7294b3cc41137 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/blob/e251b22f266cfd9115d784c34bf7294b3cc41137/docs/users/integration.md#export
+
+package manager cpp - Google 搜索
+https://www.google.com/search?sca_esv=d9a618c90834fc8a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_evO-ZcUvb_cws_MLmszqqPJpd6g:1707376880165&q=package+manager+cpp&tbm=vid&source=lnms&prmd=visnbmtz&sa=X&ved=2ahUKEwiWlcLDmpuEAxWFxzgGHVYxAhcQ0pQJegQIDBAB&biw=1536&bih=738&dpr=1.25
+
+C++ Package Manager - C++ Dependencies Don't Have To Be Painful! - Augustin Popa - YouTube
+https://www.youtube.com/watch?v=rrcngYMAJ-w
+
+Releases · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases
+
+install llvm library on windows - Google 搜索
+https://www.google.com/search?q=install+llvm+library+on+windows&rlz=1C1GCEA_enJP1090JP1090&oq=install+llvm+library+on+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYCBge0gEJMTExMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+Yjs Shared Editing
+https://yjs.dev/#demos
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+(4 封私信 / 80 条消息) 树莓派重启之后不能连接wifi怎么办？ - 知乎
+https://www.zhihu.com/question/389875863
+
+如何优雅地实现Ubuntu无界面开机自启动连接WiFi - 简书
+https://www.jianshu.com/p/bab8784df6b2
+
+Automatically connect to a wireless network using CLI - Ask Ubuntu
+https://askubuntu.com/questions/412325/automatically-connect-to-a-wireless-network-using-cli
+
+File not found
+https://github.com/slowrunner/ROS2-GoPiGo3/blob/main/Setup_1_Ubuntu22.04_LTS_Server.md
+
+[ubuntu] How to connect to wifi on boot?
+https://ubuntuforums.org/showthread.php?t=1963404
+
+wireless essid - Google 搜索
+https://www.google.com/search?q=wireless+essid&rlz=1C1GCEA_enJP1090JP1090&oq=wireless+essid&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIKCAMQABgKGBMYHjIICAQQABgTGB4yCggFEAAYChgTGB4yCAgGEAAYExge0gEINDg0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/5f664d5b-c3bb-4cad-b6eb-99d5e9d1bac7
+
+Is it possible to export your distro as it is to an ISO file? : r/linuxquestions
+https://www.reddit.com/r/linuxquestions/comments/odfjp4/is_it_possible_to_export_your_distro_as_it_is_to/
+
+Clonezilla - Google 搜索
+https://www.google.com/search?sca_esv=ce23d2a92bbd9b37&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn087VQPmfthVW6PfO2w6z1OTyBDciQ:1707379630225&q=Clonezilla&tbm=vid&source=lnms&prmd=isvnmbtz&sa=X&ved=2ahUKEwjQx-zipJuEAxX61jgGHST8BgYQ0pQJegQIExAB&biw=1536&bih=738&dpr=1.25
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Augustin Popa - Google 搜索
+https://www.google.com/search?q=Augustin+Popa&rlz=1C1GCEA_enJP1090JP1090&oq=Augustin+Popa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Releases · awakecoding/llvm-prebuilt
+https://github.com/awakecoding/llvm-prebuilt/releases
+
+choco install llvm - Google 搜索
+https://www.google.com/search?q=choco+install+llvm&rlz=1C1GCEA_enJP1090JP1090&oq=choco+install+llvm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyEAgDEC4YgwEYsQMYgAQYigUyCggEEC4YsQMYgAQyDQgFEC4YgwEYsQMYgAQyBwgGEC4YgAQyCggHEC4YsQMYgAQyEAgIEAAYgwEYsQMYgAQYigUyCQgJEAAYChiABNIBCDMyNDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Conan 2.0: C and C++ Open Source Package Manager
+https://conan.io/
+
+C++ Package Manager - A detailed introduction to Conan - YouTube
+https://www.youtube.com/watch?v=T6RZ5On3xz8
+
+llvm-openmp - Conan 2.0: C and C++ Open Source Package Manager
+https://conan.io/center/recipes/llvm-openmp?version=17.0.6
+
+Network File System (NFS) | Ubuntu
+https://ubuntu.com/server/docs/service-nfs
+
+tannal/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/tannal/WasmEdge
+
+c++ - How to print variables in CMake? - Stack Overflow
+https://stackoverflow.com/questions/68139352/how-to-print-variables-in-cmake
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+Codespaces
+https://github.com/codespaces
+
+Releases · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases
+
+Error: can't resolve .LFE32260 - .LFB32260 - Google 搜索
+https://www.google.com/search?q=Error%3A+can%27t+resolve+.LFE32260+-+.LFB32260&rlz=1C1GCEA_enJP1090JP1090&oq=Error%3A+can%27t+resolve+.LFE32260+-+.LFB32260&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHODYyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Policy CMP0053 is not set · Issue #361 · robotology/idyntree
+https://github.com/robotology/idyntree/issues/361
+
+How do I set a cmake policy? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/512681/how-do-i-set-a-cmake-policy
+
+apt - How do I fix a "Problem with MergeList" or "status file could not be parsed" error when trying to do an update? - Ask Ubuntu
+https://askubuntu.com/questions/30072/how-do-i-fix-a-problem-with-mergelist-or-status-file-could-not-be-parsed-err
+
+cpi - Google 搜索
+https://www.google.com/search?q=cpi&rlz=1C1GCEA_enJP1090JP1090&oq=cpi+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMTA1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+中国 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi&sca_esv=06eaa6fe2699486c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09-Cl7nzpidLFt6zZRPIGTWVFI1mw%3A1707387714597&ei=QqvEZdCIJNqjvr0PooSioAE&ved=0ahUKEwjQsePxwpuEAxXaka8BHSKCCBQQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGkyChAjGIAEGIoFGCcyBBAjGCcyBBAjGCcyBxAAGIAEGAwyBxAAGIAEGAwyBhAAGAcYHjIGEAAYBxgeMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMSOkXUKsCWIUWcAV4AJABAJgBgQKgAZ8IqgEFMC4yLjO4AQPIAQD4AQHCAggQABgIGAcYHuIDBBgBIEGIBgE&sclient=gws-wiz-serp#ip=1
+
+中国 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi&sca_esv=06eaa6fe2699486c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-0-DCxTWnw27uHNkEg6ZnPh8QCxg%3A1707387908097&ei=BKzEZdq3Baql2roP646C0AI&ved=0ahUKEwjayYXOw5uEAxWqklYBHWuHACoQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGkyChAjGIAEGIoFGCcyBBAjGCcyBBAjGCcyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyChAAGIAEGIoFGEMyBxAAGIAEGAwyBxAAGIAEGAwyBRAAGIAESKVCUPsSWItBcBJ4AJABAJgBlQKgAYsVqgEFMC43Lja4AQPIAQD4AQGoAgDCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICChAuGIAEGIoFGEPCAgsQLhiABBjHARjRA8ICCBAuGIAEGNQCwgIFEC4YgATCAhkQLhiABBiKBRhDGJcFGNwEGN4EGOAE2AEBwgIIEAAYgAQYywHCAggQLhiABBjLAcICEBAuGIAEGIoFGEMYxwEY0QPCAgcQLhiABBgM4gMEGAAgQYgGAZAGBroGBggBEAEYFA&sclient=gws-wiz-serp
+
+Switching between GCC and Clang/LLVM using CMake - Stack Overflow
+https://stackoverflow.com/questions/7031126/switching-between-gcc-and-clang-llvm-using-cmake
+
+https://www.youtube.com/watch?v=r_8XClnnvIk
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dr_8XClnnvIk&q=EhAkBtoUGhxzADncrfwANy0FGOyek64GIjBAU3995wOrAdDCJiiNjjMP7xVvtkkeTbGueVurBeDboYUIyUy1RP68gbhyYBYZMD0yAXJaAUM
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Implement HTMLImageElement decode by Taym95 · Pull Request #31269 · servo/servo
+https://github.com/servo/servo/pull/31269/files
+
+• Discord | @bhumi_Singh
+https://discord.com/channels/@me/1204485301377179648
+
+NFS服务器搭建与配置 | 曹世宏的博客
+https://cshihong.github.io/2018/10/16/NFS%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E4%B8%8E%E9%85%8D%E7%BD%AE/
+
+在Windows上配置NFS客户端-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1840455
+
+Install and Configure NFS Client on Windows - Power Sysadmin Blog
+https://poweradm.com/configure-nfs-client-windows/
+
 # 2024-2-8
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
