@@ -1,5 +1,11 @@
 # 2024-2-8 | 
 
+make
+
+sudo make load
+
+sudo make unload
+
 sudo apt install liblld-16-dev
 
 sudo ln -sfn aarch64-linux-gnu-ld /usr/bin/ld
@@ -361,6 +367,11 @@ https://mentorship.lfx.linuxfoundation.org/#my-tasks
 https://github.com/servo/servo/pull/31108
 
 bits transfer
+<<<<<<< HEAD
+sudo make modules_install
+sudo make install
+sudo reboot
+=======
 
 
 ```bash
@@ -371,6 +382,7 @@ wasmedge --dir .:. \
 
 ```
 
+>>>>>>> fec74cb40adf3562f923c5a380235bcfbe1ef914
 # 2024-2-2 1 | 1
 
 git pull
@@ -381,6 +393,11 @@ vcpkg update
 ```bash
 
 git clone https://github.com/ggerganov/whisper.cpp.git
+
+
+sudo apt update && sudo apt install libsdl2-dev
+
+bash ./models/download-ggml-model.sh base.en
 
 main -m models/ggml-base.en.bin -f samples/jfk.wav
 
@@ -4458,9 +4475,12 @@ sudo apt install lld
 
 sudo rm /usr/bin/ld
 
+sudo ln -s /usr/bin/lld /usr/bin/ld
+sudo ln -s /usr/bin/ld.lld /usr/bin/ld
 sudo ln -sfn /usr/bin/lld /usr/bin/ld
 sudo ln -s x86 /usr/bin/ld
 
+sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
 
 
 

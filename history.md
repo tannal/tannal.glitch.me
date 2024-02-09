@@ -3,6 +3,63 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Linux Kernel patch submission checklist — The Linux Kernel documentation
+https://docs.kernel.org/process/submit-checklist.html?highlight=patch
+
+Yjs Quill Example
+http://124.223.112.154:13000/quill/quill.html
+
+tannal.glitch.me/servo.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/servo.md
+
+musializer/resources/shaders at master · tsoding/musializer
+https://github.com/tsoding/musializer/tree/master/resources/shaders
+
+apt install nasm - Google Search
+https://www.google.com/search?client=firefox-b-e&q=apt+install+nasm
+
+neovim/neovim: Vim-fork focused on extensibility and usability
+https://github.com/neovim/neovim?tab=readme-ov-file
+
+Element * | Neovim
+https://app.element.io/#/room/#neovim:matrix.org
+
+tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+tannal.glitch.me/inbox.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/inbox.md
+
+How To Set Up an NFS Mount on Ubuntu 20.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nfs-mount-on-ubuntu-20-04
+
+tannal.glitch.me/inbox.md at main · tannal/tannal.glitch.me
+https://github.com/tannal/tannal.glitch.me/blob/main/inbox.md
+
+GitHub
+https://github.com/
+
+Documentation for Visual Studio Code
+https://code.visualstudio.com/docs/?dv=linux64_deb
+
+Export Tabs URLs – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+
+orbit/docs/slides_src/writing_modules.md at master · underground-software/orbit
+https://github.com/underground-software/orbit/blob/master/docs/slides_src/writing_modules.md
+
+selftest github - Google Search
+https://www.google.com/search?q=selftest+github&client=firefox-b-e&sca_esv=251625fef293e270&ei=gKLFZePxHpqLvr0P_dCawAQ&ved=0ahUKEwjjsdXWrp2EAxWaha8BHX2oBkgQ4dUDCA8&uact=5&oq=selftest+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3NlbGZ0ZXN0IGdpdGh1YjIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGA0jwF1DoBliJF3ABeACQAQGYAcMCoAGtFKoBCDAuMTIuMS4xuAEDyAEA-AEBwgIOEAAYgAQYigUYhgMYsAPCAgsQABiABBiKBRiRAsICCxAuGIAEGMcBGNEDwgIFEAAYgATCAgoQABiABBiKBRhDwgIOEC4YgAQYxwEYrwEYjgXCAgUQLhiABMICBxAAGIAEGArCAg0QLhiABBgKGMcBGNEDwgIIEAAYCBgeGA3CAgcQABiABBgN4gMEGAEgQYgGAZAGAQ&sclient=gws-wiz-serp
+
+hluk/CopyQ: Clipboard manager with advanced features
+https://github.com/hluk/CopyQ
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 tannal (tannal)
 https://github.com/tannal
 
