@@ -3,6 +3,78 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+2023 - Resources
+https://www.cs171.org/2023/resources/
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google Docs
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
+
+The Algorithms Illuminated Book Series
+http://www.algorithmsilluminated.org/
+
+5 3 Correctness of Quicksort Review Optional 11 min - YouTube
+https://www.youtube.com/watch?v=Colb_4jAy8A&list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_&index=37
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+124.223.112.154:13000/quill/quill.html
+http://124.223.112.154:13000/quill/quill.html
+
+orbit/docs/slides_src/writing_modules.md at master · underground-software/orbit
+https://github.com/underground-software/orbit/blob/master/docs/slides_src/writing_modules.md
+
+orbit/docs/slides_src/writing_modules.md at master · underground-software/orbit
+https://github.com/underground-software/orbit/blob/master/docs/slides_src/writing_modules.md
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+orbit/docs/slides_src/writing_character_drivers.md at master · underground-software/orbit
+https://github.com/underground-software/orbit/blob/master/docs/slides_src/writing_character_drivers.md
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Kansas&op=translate
+
+replicatedhq/ttl.sh: An anonymous & ephemeral Docker image registry
+https://github.com/replicatedhq/ttl.sh
+
+How to configure and use `git send-email` to work with gmail to email patches to developers - Stack Overflow
+https://stackoverflow.com/questions/68238912/how-to-configure-and-use-git-send-email-to-work-with-gmail-to-email-patches-to
+
+mentorship linux foundation - Google Search
+https://www.google.com/search?client=firefox-b-e&q=mentorship+linux+foundation
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Kselftest github - Google Search
+https://www.google.com/search?client=firefox-b-e&q=Kselftest+github
+
+tannal/node-examples
+https://github.com/tannal/node-examples
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+Eleventy Action · Actions · GitHub Marketplace
+https://github.com/marketplace/actions/eleventy-action
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+F-Droid
+https://github.com/f-droid
+
+love2d/love: LÖVE is an awesome 2D game framework for Lua.
+https://github.com/love2d/love
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Linux Kernel patch submission checklist — The Linux Kernel documentation
 https://docs.kernel.org/process/submit-checklist.html?highlight=patch
 
