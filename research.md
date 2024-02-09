@@ -1,4 +1,214 @@
 
+# Machine Learning Systems
+
+ggml whisper.cpp
+
+# WASM
+
+### WASM research groups
+
+- CMU Webassembly group @Ben L. Titzer
+
+- fastly research
+
+- Quentin Stiévenart
+
+https://qstievenart.gitlab.io/
+
+- Coen De Roover
+
+http://soft.vub.ac.be/~cderoove/
+
+### Features
+
+- Static Stack-Preserving Intra-Procedural Slicing of WebAssembly Binaries.
+
+- Continuing WebAssembly with Effect Handlers.
+
+implement non-local control flow features such as async/await, generators/iterators, lightweight threads, first-class
+continuations, etc for wasm.
+
+### reports, talks, notes, books
+
+- Program analysis of WebAssembly binaries.
+
+- Foundations of WebAssembly (Dagstuhl Seminar 23101).
+
+### Developer Experience
+
+- Understanding the Issues and Causes in WebAssembly Application Development: A Mining-based Study. [*]
+
+### Effeciency
+
+- WebAssembly versus JavaScript: Energy and Runtime Performance.
+
+- Comparing the Energy Efficiency of WebAssembly and JavaScript in Web Applications on Android Mobile Devices.
+  JS vs Wasm with Energy Efficiency  on mobile
+
+- A Fast In-Place Interpreter for WebAssembly.
+
+- Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.
+
+benchmark suits
+
+- WasmSlim: Optimizing WebAssembly Binary Distribution via Automatic Module Splitting.
+
+reduce startup time and binary size
+
+- Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing.
+
+- Exploring Missed Optimizations in WebAssembly Optimizers
+
+- Demystifying Web-based Mobile Extended Reality Accelerated by
+WebAssembly.
+
+performance improvement in WebXR using wasm
+
+- A Systematic Review of WebAssembly VS Javascript Performance Comparison. 
+
+- Preventing EFail Attacks with Client-Side WebAssembly: The Case of Swiss Post’s IncaMail.
+
+repalce js to wasm gained up to 14x performance improvement
+
+
+### Safety
+
+- Developers Struggle with Authentication in Blazor WebAssembly.
+
+- WATZ: A Trusted WebAssembly Runtime Environment with Remote Attestation for TrustZone.
+
+- Towards securely migrating webassembly enclaves.
+
+- Avengers, Assemble! Survey of WebAssembly Security Solutions.
+
+- Isolation without Taxation Near-Zero-Cost Transitions for WebAssembly and SFI.
+
+- A Study of Timing Side-Channel Attacks and Countermeasures on JavaScript and WebAssembly.
+
+- Wasmati: An efficient static vulnerability scanner for WebAssembly.
+
+- Static Semantics Reconstruction for Enhancing JavaScript-WebAssembly Multilingual Malware Detection.
+
+- WASM-MUTATE: Fast and Effective Binary Diversification for WebAssembly.
+
+- WASMixer: Binary Obfuscation for WebAssembly.
+
+Wasm binary obfuscator
+
+- Characterizing and Detecting WebAssembly Runtime Bugs
+
+- A Comprehensive Study of WebAssembly Runtime Bugs.
+
+- User Models as Digital Twins: Using Webassembly Techniques to ensure Privacy, Transparency and Control in Personalization.
+
+- WaVe: a verifiably secure WebAssembly sandboxing runtime
+
+wasi secure, isolation impl for os resources like fs socket etc.
+
+- Comparing Security in eBPF and WebAssembly.
+
+- POSTER: Leveraging eBPF to enhance sandboxing of WebAssembly runtimes. FileSystem Access Control
+
+- malicious site detection A Tool for generating wasm dataset from real world websites
+JABBERWOCK: A Tool for WebAssembly Dataset Generation towards Malicious Website Detection.
+
+
+### Mechanising and Verifying and implementing the WebAssembly Specification
+
+- WasmRef-Isabelle: A Verified Monadic Interpreter and Industrial Fuzzing Oracle for WebAssembly.
+
+### Program analysis
+
+![](https://cdn.glitch.global/c8d57c73-6044-4741-a71a-82aa74f41701/thumbnails%2F4f904f5e-217b-4a82-9c75-d861e0b8f9fc.image.png?1701242907364)
+
+- REWasm: A General Static Binary Rewriting Framework for WebAssembly. 
+
+#### Formal Verification
+
+- Iris-Wasm: Robust and Modular Verification of WebAssembly Programs.
+
+formally verify functional correctness of WebAssembly programs
+
+#### Static Analysis
+
+- WasmA: A Static WebAssembly Analysis Framework for Everyone.
+
+- Modular Abstract Definitional Interpreters for WebAssembly. 
+
+static analysis for webassembly binaries (improve performance and secure programs against vulnerabilities)
+
+- That's a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly.
+
+call graph construction
+
+- Eunomia: Enabling User-specified Fine-Grained Search in
+Symbolically Executing WebAssembly Binaries
+
+symbolically executing
+
+### Application
+
+
+#### High performance Computing
+
+- Exploring the Use of WebAssembly in HPC.
+
+#### Embedded Systems
+
+- Support for Just-in-Time Compilation of WebAssembly for Embedded Systems.
+
+#### IOT
+
+- WebAssembly in IoT: Beyond Toy Examples. 
+
+Explore Wasm in IoT
+
+- On the Energy Consumption and Performance of WebAssembly
+Binaries across Programming Languages and Runtimes in IoT.
+
+- Autonomous Choreography of WebAssembly Workloads in the Federated Cloud-Edge-IoT Continuum.
+
+#### serveless
+
+- WebAssembly as a Common Layer for the Cloud-edge Continuum. 
+
+- Pushing Serverless to the Edge with WebAssembly Runtimes.
+
+- WebAssembly for Edge Computing: Potential and Challenges.
+
+- Wasm as a runtime in serverless computing.
+
+- WebAssembly Orchestration in the Context of Serverless Computing.
+
+- WebAssembly as an Enabler for Next Generation Serverless Computing.
+
+https://fanpu.io/blog/2023/advanced-operating-systems-course-review/
+
+https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search
+
+### App
+
+Domain Specific Application developed by Wasm
+
+- Rendering Medical Images using WebAssembly.
+
+- WebAssembly-based Delta Sync for Cloud Storage Services.
+
+- Powering single-cell analyses in the browser with WebAssembly.
+
+
+
+#### misc
+
+- Automated WebAssembly Function Purpose Identification With Semantics-Aware Analysis.
+
+- Wasmizer: Curating WebAssembly-driven Projects on GitHub.
+
+- User Models as Digital Twins: Using Webassembly Techniques to ensure Privacy, Transparency and Control in Personalization.
+
+create webassembly dataset from github
+
+
 # Educational Systems
 
 - machine (isa)

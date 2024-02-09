@@ -2,6 +2,14 @@
 
 https://cs.brown.edu/courses/
 
+https://pdos.csail.mit.edu/6.S081/2023/schedule.html
+
+https://css.csail.mit.edu/6.858/2023/
+
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/
+
+https://mlsyscourse.org/schedule
+
 # 编译器和程序语言
 
 https://dijkstra.eecs.umich.edu/eecs483/cool.php
