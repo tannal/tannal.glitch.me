@@ -1,5 +1,137 @@
 # 2024-2-10
 
+Facebook
+https://www.facebook.com/shiwulo
+
+Wikipedia
+https://www.wikipedia.org/
+
+Issues · attractivechaos/plb2
+https://github.com/attractivechaos/plb2/issues
+
+tannal (tannal)
+https://github.com/tannal
+
+简介 - Clash.Meta Wiki
+https://docs.metacubex.one/
+
+Telegram: Contact @ClashMeta
+https://t.me/ClashMeta
+
+Tutorials | EMQX Documentation
+https://www.emqx.io/docs/en/latest/tutorial/tutorial.html
+
+Download EMQX
+https://www.emqx.io/downloads?os=Windows
+
+MQTTX CLI: A Powerful and Easy-to-use MQTT CLI Tool
+https://mqttx.app/cli
+
+XAMPPRocky/tokei: Count your code, quickly.
+https://github.com/XAMPPRocky/tokei
+
+Download and install MQTTX with winget
+https://winget.run/pkg/emqx/mqttx
+
+[Feature] Winget installation is still on 1.7.3 · Issue #1035 · emqx/MQTTX
+https://github.com/emqx/MQTTX/issues/1035
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+How it works - Briar
+https://briarproject.org/how-it-works/
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Download EMQX
+https://www.emqx.io/downloads?os=Windows
+
+Download and install MQTTX with winget
+https://winget.run/pkg/emqx/mqttx
+
+_PORT · 搜索 · GitLab
+https://code.briarproject.org/search?group_id=1037&nav_source=navbar&project_id=1&repository_ref=master&search=_PORT&search_code=true
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=merge%20sort&sort=byPopularity&type=story
+
+BonzaiThePenguin/WikiSort: Fast and stable sort algorithm that uses O(1) memory. Public domain.
+https://github.com/BonzaiThePenguin/WikiSort
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+(4) Colin Percival on X: "FreeBSD (HEAD) no longer spends time running a bubblesort on its SYSINITs. We're now running a mergesort which is ~100x faster: https://t.co/1F8Yodedh3" / X
+https://twitter.com/cperciva/status/1693127769901969772
+
+src - FreeBSD source tree
+https://cgit.freebsd.org/src/commit/?id=9a7add6d01f3c5f7eba811e794cf860d2bce131d
+
+Network File System (NFS) | Ubuntu
+https://ubuntu.com/server/docs/service-nfs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=spidermonkey&sort=byPopularity&type=story
+
+731110 - IonMonkey and type inference for PowerPC (OS X ABI)
+https://bugzilla.mozilla.org/show_bug.cgi?id=731110
+
+phillbush/jvm: simple java virtual machine
+https://github.com/phillbush/jvm
+
+@rhysd
+https://rhysd.github.io/
+
+rhysd (Linda_pp)
+https://github.com/rhysd
+
+Raverie
+https://github.com/raverie-us
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E5%9F%B7%E7%AD%86&op=translate
+
+rui314/chibicc: A small C compiler
+https://github.com/rui314/chibicc
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Linux リテラシ - 第4回 デーモン
+https://rat.cis.k.hosei.ac.jp/article/rat/linuxliteracy/2005/daemon.html
+
+Undefined Behavior in C++: What Every Programmer Should Know and Fear - Fedor Pikus - CppCon 2023 - YouTube
+https://www.youtube.com/watch?v=k9N8OrhrSZw
+
+Building a container from scratch in Go - Liz Rice (Microscaling Systems) - YouTube
+https://www.youtube.com/watch?v=Utf-A4rODH8
+
+Liz Rice - Google 搜索
+https://www.google.com/search?q=Liz+Rice&oq=Liz+Rice&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxBFGD3SAQgyNjQ0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(4) Liz Rice 🐝 (@lizrice) / X
+https://twitter.com/lizrice
+
+ebpf-advent/day1 at main · lizrice/ebpf-advent
+https://github.com/lizrice/ebpf-advent/tree/main/day1
+
+Containers
+https://github.com/orgs/containers/repositories
+
+VS Code For Web 深入浅出 -- Server 模块设计篇 - 知乎
+https://zhuanlan.zhihu.com/p/581156071
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
