@@ -1,5 +1,7 @@
 # 2024-2-10 | 
 
+https://danielanderson.net/
+
 https://users.cs.utah.edu/~aburtsev/5460/2023-spring/
 
 https://www.cs.virginia.edu/~evans/
