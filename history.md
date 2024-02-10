@@ -1,5 +1,86 @@
 # 2024-2-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+xv6 qemu - Google Search
+https://www.google.com/search?client=firefox-b-e&q=xv6+qemu#ip=1
+
+Research | Gerald Soosairaj
+https://geraldsoosairaj.github.io/research.html
+
+Job Talk - UCSD - Google Slides
+https://docs.google.com/presentation/d/1Z7zWx6PWZ4lJiHovNc2KOToIa7dSuQI4JEdQVTosCjQ/edit#slide=id.p8
+
+Matthew Lentz - Duke University - Teaching
+https://users.cs.duke.edu/~mlentz/teaching.html
+
+CS4414: Operating Systems
+https://www.cs.virginia.edu/~cr4bd/4414/S2022/
+
+Courseware - KAIST OS Lab
+https://oslab.kaist.ac.kr/courseware/
+
+Course Information - KAIST OS Lab
+https://oslab.kaist.ac.kr/ee488-fall-2020/
+
+Tom Anderson | Paul G. Allen School of Computer Science & Engineering
+https://www.cs.washington.edu/people/faculty/tom/students
+
+week5.pdf
+https://courses.cs.washington.edu/courses/csep551/17wi/week5.pdf
+
+CS3130: Computer Systems and Organization
+https://www.cs.virginia.edu/~cr4bd/3130/S2024/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+javascript - How to remove and clear all localStorage data - Stack Overflow
+https://stackoverflow.com/questions/10710674/how-to-remove-and-clear-all-localstorage-data
+
+clean indexdb firefox - Google Search
+https://www.google.com/search?q=clean+indexdb+firefox&client=firefox-b-e&sca_esv=89401e48948f66be&ei=bX7HZZjZFYfw4-EPhYqz0A0&ved=0ahUKEwjYw4DH9KCEAxUH-DgGHQXFDNoQ4dUDCBA&uact=5&oq=clean+indexdb+firefox&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWNsZWFuIGluZGV4ZGIgZmlyZWZveDIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0iSD1DFAViEDnAAeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQHiAwQYACBB4gMFEgExIECIBgGQBgg&sclient=gws-wiz-serp#ip=1
+
+The University of Virginia - Google Search
+https://www.google.com/search?q=The+University+of+Virginia&client=firefox-b-e&sca_esv=b3d23d16f8701820&ei=-4HHZctO443j4Q_E_4Zg&ved=0ahUKEwiLuOH496CEAxXjxjgGHcS_AQwQ4dUDCBA&uact=5&oq=The+University+of+Virginia&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlRoZSBVbml2ZXJzaXR5IG9mIFZpcmdpbmlhMgsQLhiRAhiABBiKBTIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIaEC4YkQIYgAQYigUYlwUY3AQY3gQY4ATYAQFIowJQAFgAcAB4AZABAJgBrwGgAa8BqgEDMC4xuAEDyAEA-AEC-AEB4gMEGAAgQboGBggBEAEYFA&sclient=gws-wiz-serp#ip=1
+
+debian os git - Google Search
+https://www.google.com/search?q=debian+os+git&client=firefox-b-e&sca_esv=b3d23d16f8701820&ei=0oLHZa2qOpia4-EPtb-9iAE&ved=0ahUKEwit293f-KCEAxUYzTgGHbVfDxEQ4dUDCBA&uact=5&oq=debian+os+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWRlYmlhbiBvcyBnaXQyBhAAGBYYHjIGEAAYFhgeMgsQABiABBiKBRiGA0jlJlDzDFjhIHABeAGQAQGYAZgNoAGdGaoBCzItMy4xLjEuOC0xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCxAAGIAEGIoFGJECwgIFEAAYgATiAwQYACBBiAYBkAYI&sclient=gws-wiz-serp
+
+Explore projects · GitLab
+https://salsa.debian.org/public
+
+Minix - Wikipedia
+https://en.wikipedia.org/wiki/Minix
+
+MINIX conf - Google Search
+https://www.google.com/search?client=firefox-b-e&q=MINIX+conf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mach%20kernel&sort=byPopularity&type=story
+
+git.minix3.org Git - minix.git/summary
+https://git.minix3.org/index.cgi?p=minix.git;a=summary
+
+How old is our kernel? [LWN.net]
+https://lwn.net/Articles/374574/
+
+Jonathan Corbet - Google Search
+https://www.google.com/search?client=firefox-b-e&q=Jonathan+Corbet#ip=1
+
+"Those Who Do Not Learn History Are Doomed To Repeat It." Really? - Big Think
+https://bigthink.com/culture-religion/those-who-do-not-learn-history-doomed-to-repeat-it-really/
+
+tannal/ball
+https://github.com/tannal/ball
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/fromyear/2020/toyear/2024/index?all&world
+
+CMake is not a package manager or package repository, though. CMake can discover... | Hacker News
+https://news.ycombinator.com/item?id=14269040
+
 2024 年系統軟體系列課程討論區 | Facebook
 https://www.facebook.com/groups/1531876370923589
 

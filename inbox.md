@@ -1,5 +1,21 @@
 # 2024-2-10 | 
 
+Those Who Do Not Learn History Are Doomed To Repeat It.
+
+https://salsa.debian.org/public
+
+https://courses.cs.washington.edu/courses/csep551/17wi/week5.pdf
+
+https://oslab.kaist.ac.kr/courseware/
+
+localStorage.clear();
+
+objdump -S kernel > kernel.asm
+objdump -t kernel | sed '1,/SYMBOL TABLE/d; s/ .* / /; /^$/d' > kernel.sym
+dd if=/dev/zero of=xv6.img count=10000
+dd if=bootblock of=xv6.img conv=notrunc
+dd if=kernel of=xv6.img seek=1 conv=notrunc
+
 http://www.cs.cmu.edu/~15451-f23/schedule.html
 
 https://danielanderson.net/
