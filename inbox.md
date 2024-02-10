@@ -6,6 +6,10 @@ https://www.cs.virginia.edu/~evans/
 
 https://uvatoc.github.io/post/page/4/
 
+https://pdos.csail.mit.edu/6.S081/2023/schedule.html
+
+https://css.csail.mit.edu/6.858/2023/
+
 # 2024-2-9 | 
 
 
