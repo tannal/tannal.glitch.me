@@ -1,5 +1,38 @@
 # 2024-2-10
 
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Building Weston
+https://wayland.freedesktop.org/building.html
+
+bnb-chain/greenfield: Greenfield is a decentralized storage platform.
+https://github.com/bnb-chain/greenfield
+
+uDev.be
+https://github.com/udevbe
+
+udev.be
+http://udev.be/
+
+(2) Smarter Cpp Atomic Smart Pointers - Efficient Concurrent Memory Management - Daniel Anderson CppCon - YouTube
+https://www.youtube.com/watch?v=OS7Asaa6zmY
+
+Daniel Anderson - Carnegie Mellon University
+https://danielanderson.net/
+
+CMU 15-451/651: Algorithm Design and Analysis, Fall 2023: Schedule
+http://www.cs.cmu.edu/~15451-f23/schedule.html
+
+Algorithm Design and Analysis
+http://www.cs.cmu.edu/~15451-f23/lectures/lecture01-slides.pdf
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=auto&tl=zh-CN&op=translate
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Facebook
 https://www.facebook.com/shiwulo
 

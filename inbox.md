@@ -1,5 +1,7 @@
 # 2024-2-10 | 
 
+http://www.cs.cmu.edu/~15451-f23/schedule.html
+
 https://danielanderson.net/
 
 https://users.cs.utah.edu/~aburtsev/5460/2023-spring/
