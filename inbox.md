@@ -1,11 +1,22 @@
+# 2024-2-10 | 
+
+https://users.cs.utah.edu/~aburtsev/5460/2023-spring/
+
+https://www.cs.virginia.edu/~evans/
+
+https://uvatoc.github.io/post/page/4/
+
+# 2024-2-9 | 
+
+
+
+
 # 2024-2-8 | 
 
 
 don't repeat yourself.
 
 https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfc103/
-
-
 
 ```bash
 

@@ -1,3 +1,149 @@
+# 2024-2-10
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+Clang plugins on Windows - Clang Frontend - LLVM Discussion Forums
+https://discourse.llvm.org/t/clang-plugins-on-windows/2262/6
+
+Summary - compnerd - LLVM Discussion Forums
+https://discourse.llvm.org/u/compnerd/summary
+
+tstellar - LLVM Discussion Forums
+https://discourse.llvm.org/u/tstellar/profile-hidden
+
+tannal (tannal)
+https://github.com/tannal/
+
+Anton Burtsev's Homepage
+https://users.cs.utah.edu/~aburtsev/
+
+Recent Publications | Mars Research Group
+https://mars-research.github.io/publications/
+
+Reading Group | Mars Research Group
+https://mars-research.github.io/reading-group/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Redshift&sort=byPopularity&type=story
+
+福岛核废水排放问题 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%A6%8F%E5%B3%B6%E6%A0%B8%E5%BB%A2%E6%B0%B4%E6%8E%92%E6%94%BE%E5%95%8F%E9%A1%8C#%E5%9C%8B%E9%9A%9B%E5%8F%8D%E6%87%89
+
+don't be evil - Google 搜索
+https://www.google.com/search?q=don%27t+be+evil&rlz=1C1GCEA_enJP1090JP1090&oq=don%27t+be+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEC4YChiABDIJCAMQLhgKGIAEMgkIBBAAGAoYgAQyCQgFEC4YChiABDIJCAYQLhgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQLhgKGIAE0gEINjQyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=don%27t%20be%20evil&sort=byPopularity&type=story
+
+Google in China: When ‘Don’t Be Evil’ Met the Great Firewall | Hacker News
+https://news.ycombinator.com/item?id=18408386
+
+The making of an opioid epidemic | Hacker News
+https://news.ycombinator.com/item?id=18405775
+
+珍珠港事件 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%8F%8D%E7%8F%A0%E6%B8%AF%E4%BA%8B%E4%BB%B6
+
+黃仁勳 - Google 搜索
+https://www.google.com/search?sca_esv=ba2f71a3923bd7cb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08ftyrwUmqCP8eIrUJvlx7uqs--_g:1707443077412&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXvGwF5gZavXQq48K0tZ4QcucwaPeaRR5vXD4bXJLSuDPLfJehuBg8kZsWcxA1T8DcrB4e9eJElN5s_UatiKIdzWjQDQd8IcH6BUoQ1YKlvvfA7KNAC3d1fTXNuHmNIpivctXX-neYfHl_L3FPjb43OFzC51QHYjYy8UpZ7tl4HWwRkEw5rzU3X0xyuC0VRsXr-5wtQHPUsjolxojBQxgsSphJTvZ3_xammCobswqhesj60PjwPN4Scl7kGLU_P4XH-fm1Ow%3D&q=%E9%BB%83%E4%BB%81%E5%8B%B3&sa=X&ved=2ahUKEwi1tumQkZ2EAxVgtFYBHYsEDOMQs9oBKAJ6BAhOEAQ&biw=1536&bih=738&dpr=1.25#ip=1
+
+second-state/WasmEdge-WASINN-examples
+https://github.com/second-state/WasmEdge-WASINN-examples/tree/master
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Saleem Abdulrasool (@compnerd) / X
+https://twitter.com/compnerd
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+How to configure and use `git send-email` to work with gmail to email patches to developers - Stack Overflow
+https://stackoverflow.com/questions/68238912/how-to-configure-and-use-git-send-email-to-work-with-gmail-to-email-patches-to
+
+应用专用密码
+https://myaccount.google.com/apppasswords?utm_source=google-account&utm_medium=myaccountsecurity&utm_campaign=tsv-settings&rapt=AEjHL4NXpiKqI2GsonU7JrMxqj6b5HCGazuK11K7-iS9na7EsyVLI5aXR08gJ22mPbUVEBvBjmTFUJpFZjStVSkl0IUQFvQI8jXBAV8LR3JnbQ4lKGnUCN8
+
+Google 账号
+https://myaccount.google.com/?rapt=AEjHL4PR9TifIhJUdf0QXZQ5oBrqU8rNE0e3txl7bk9sW1Cm3OIZv9WdpbC0KAUfjXbFyYdlOTNZLhW6ufFcG_CsmLLGtRy2xqpl-Iedgrc8Lh9sBg88Sjc
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+Anton Burtsev's Homepage
+https://ics.uci.edu/~aburtsev/
+
+林俊杰 - Google 搜索
+https://www.google.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%9E%97%E4%BF%8A%E6%9D%B0&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEC4YxwEY0QMYgAQyBwgJEAAYgATSAQc5ODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+复仇者联盟2 - Google 搜索
+https://www.google.com/search?q=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F2&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F2&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyBwgFEAAYgAQyCQgGEAAYDBiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+cs5460/cs6460
+https://users.cs.utah.edu/~aburtsev/5460/2023-spring/
+
+cs5460/cs6460
+https://users.cs.utah.edu/~aburtsev/5460/
+
+lecture03-x86-asm.pdf
+https://users.cs.utah.edu/~aburtsev/5460/lectures/lecture03-x86-asm/lecture03-x86-asm.pdf
+
+Yale FLINT Group: Home
+https://flint.cs.yale.edu/
+
+Ken Thompson - Google 搜索
+https://www.google.com/search?q=Ken+Thompson&rlz=1C1GCEA_enJP1090JP1090&oq=Ken+Thompson&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+go team google - Google 搜索
+https://www.google.com/search?sca_esv=884448dcb0ad80d4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08GCeHKmwivodrOyoR5kaicqtoZ-A:1707479281663&q=go+team+google&tbm=vid&source=lnms&prmd=ivnsbmtz&sa=X&ved=2ahUKEwjwwq2AmJ6EAxWFsVYBHbdsB10Q0pQJegQIDBAB&biw=1536&bih=738&dpr=1.25
+
+贝尔实验室 - Google 搜索
+https://www.google.com/search?q=%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4&gs_lcrp=EgZjaHJvbWUqDAgAEAAYDBjjAhiABDIMCAAQABgMGOMCGIAEMg8IARAuGAwYxwEY0QMYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgcIBBAAGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIzMjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+plorefice/rv6: Educational kernel inspired by xv6 with a (present) focus on the RISC-V architecture
+https://github.com/plorefice/rv6
+
+monster song - Google 搜索
+https://www.google.com/search?q=monster+song&sca_esv=cc28994e032c69f9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08b8_66WM1bEpSgGCC4wO5vUzF8Ug%3A1707482192975&ei=UBzGZayUO5m_vr0PiducgAE&ved=0ahUKEwis_Mnsop6EAxWZn68BHYktBxAQ4dUDCBA&uact=5&oq=monster+song&gs_lp=Egxnd3Mtd2l6LXNlcnAiDG1vbnN0ZXIgc29uZzIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGMsBGIAEMggQABiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIkhJQlgZY_Q5wAXgCkAEAmAH2AaAB5waqAQUwLjEuM7gBA8gBAPgBAcICBBAAGEfCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&sclient=gws-wiz-serp
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+• Discord | @bhumi_Singh
+https://discord.com/channels/@me/1204485301377179648
+
+David Evans Home Page
+https://www.cs.virginia.edu/~evans/
+
+Class 1: What is an Operating System?
+https://www.rust-class.org/class-1-what-is-an-operating-system.html
+
+Posts | Theory of Computation
+https://uvatoc.github.io/post/page/4/
+
+class2.pdf
+https://www.dropbox.com/s/70p02wh0v60jhjx/class2.pdf?e=1&dl=0
+
+| Security Research Group
+https://uvasrg.github.io/prospective/
+
+Security Research Group
+https://uvasrg.github.io/
+
+#general > ✔ Missing issue - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Missing.20issue
+
+ChatGPT
+https://chat.openai.com/c/ca353319-cf29-4bc6-82c3-f64c502a269e
+
 # 2024-2-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
