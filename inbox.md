@@ -1,4 +1,32 @@
+# 2024-2-12 | 
+
+https://git-scm.com/book/en/v2
+
+Nick hengeveld Git 2005 9.26
+
+git config --global alias.staash 'stash --all'
+
+git config --global alias.bb !better-branch.sh
+
 # 2024-2-10 | 
+
+you need to initialise a window before you can load a texture (OpenGL needs a current context!)
+
+winget install --id=SoftwareFreedomConservancy.QEMU  -e
+
+```bash
+
+git clone https://github.com/mit-pdos/xv6-public.git
+
+```
+
+entity components systems
+
+joma youtube tech lear
+
+vcpkg install sdl2:x64-windows
+
+vcpkg list --triplet x64-windows
 
 Those Who Do Not Learn History Are Doomed To Repeat It.
 

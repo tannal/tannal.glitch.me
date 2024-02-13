@@ -1,3 +1,137 @@
+# 2024-2-13
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+clang-cl.pdf
+https://llvm.org/devmtg/2014-04/PDFs/Talks/clang-cl.pdf
+
+Hans Wennborg (@hansw2000) / X
+https://twitter.com/hansw2000
+
+vcpkg cannot find package - Google 搜索
+https://www.google.com/search?q=vcpkg+cannot+find+package&rlz=1C1GCEA_enJP1090JP1090&oq=vcpkg+can&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAgYHtIBCDM4OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+VCPKG_TARGET_TRIPLET x64 - Google 搜索
+https://www.google.com/search?q=VCPKG_TARGET_TRIPLET+x64&rlz=1C1GCEA_enJP1090JP1090&oq=VCPKG_TARGET_TRIPLET+x64&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIzMTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Code search results
+https://github.com/search?q=repo%3Araysan5%2Fraylib%20WindowShouldClose&type=code
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Codespaces
+https://github.com/codespaces
+
+Billing
+https://github.com/settings/billing/summary?open_metered_usage_report=true#usage
+
+#pragma once - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Pragma_once
+
+[JSC] Spew strict-eq Baseline JIT code with constant strings · WebKit/WebKit@a36c251
+https://github.com/WebKit/WebKit/commit/a36c2519d4eed1a1764f6f050ee77e30dfa58b8c
+
+educ8s/CPP-Space-Invaders-Game-with-raylib: A C++ Space Invaders game developed with the Raylib library using OOP principles.
+https://github.com/educ8s/CPP-Space-Invaders-Game-with-raylib
+
+c - How to copy directory from source tree to binary tree? - Stack Overflow
+https://stackoverflow.com/questions/697560/how-to-copy-directory-from-source-tree-to-binary-tree
+
+财经数据 _ 工业品出厂价格指数(PPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/ppi.html
+
+[textures] LoadTexture segfault master tip · Issue #1130 · raysan5/raylib
+https://github.com/raysan5/raylib/issues/1130
+
+joma youtube - Google 搜索
+https://www.google.com/search?q=joma+youtube&sca_esv=1bb3d75ff6cac5b0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn094Uou01YXh43av7I-kRfZ26fspsg%3A1707566493760&ei=nWXHZd7vLfSbseMPuseN0AI&ved=0ahUKEwiesqny3KCEAxX0TWwGHbpjAyoQ4dUDCBE&uact=5&oq=joma+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGpvbWEgeW91dHViZTIIEAAYgAQYywEyBRAAGIAEMgQQABgeMggQABgIGB4YCjIGEAAYCBgeMgYQABgIGB5IhglQCFiGCHABeAGQAQCYAeoCoAG8C6oBBzAuNC4yLjG4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIQEC4YgAQYywEYxwEY0QMYCuIDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+Big Tech - Wikipedia
+https://en.wikipedia.org/wiki/Big_Tech
+
+奈飞 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwNC9Ki1dgNGB0YPBie7q04-XieQBKiQfM&q=%E5%A5%88%E9%A3%9E&rlz=1C1GCEA_enJP1090JP1090&oq=naifei&gs_lcrp=EgZjaHJvbWUqEAgBEC4YxwEYsQMY0QMYgAQyBggAEEUYOTIQCAEQLhjHARixAxjRAxiABDIKCAIQABixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDUzNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGPT
+https://chat.openai.com/c/89d995cb-eae1-41aa-9c3e-303cd83b5773
+
+pytorch/.clang-tidy at main · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/main/.clang-tidy
+
+xv6 qemu - Google 搜索
+https://www.google.com/search?q=xv6+qemu&rlz=1C1GCEA_enJP1090JP1090&oq=xv6+qemu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIICAQQABgPGB4yBggFEAAYHjIICAYQABgIGB4yBggHEEUYPdIBCDM0MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+xv6-multiarch / xv6 · GitLab
+https://gitlab.com/xv6-multiarch/xv6
+
+Department of Computer Science, Department of Computer Science | University of Otago
+https://www.otago.ac.nz/computer-science
+
+chococandy63/LFX-WasmEdge-Pre-test--3172
+https://github.com/chococandy63/LFX-WasmEdge-Pre-test--3172
+
+templeOs - Google 搜索
+https://www.google.com/search?q=templeOs&rlz=1C1GCEA_enJP1090JP1090&oq=templeOs&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+
+TempleOS 知乎 - Google 搜索
+https://www.google.com/search?q=TempleOS+%E7%9F%A5%E4%B9%8E&rlz=1C1GCEA_enJP1090JP1090&oq=TempleOS+%E7%9F%A5%E4%B9%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDM0NDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+• Discord | #lld | LLVM
+https://discord.com/channels/636084430946959380/636732801042874388
+
+#general > ✔ webgpu test - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20webgpu.20test
+
+Run layout sequentially on script thread by jdm · Pull Request #28708 · servo/servo
+https://github.com/servo/servo/pull/28708/files
+
+(2) Accessibility Infra · Issue #31321 · servo/servo
+https://github.com/servo/servo/issues/31321
+
+WebIDL: Use `ArrayBuffer` instead of raw `JSObject` in bindings by Taym95 · Pull Request #31202 · servo/servo
+https://github.com/servo/servo/pull/31202/files
+
+Add support for mac arm (m1) runners by sagudev · Pull Request #31234 · servo/servo
+https://github.com/servo/servo/pull/31234/files
+
+中国1月CPI同比下降0.8% 知乎 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD1%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0.8%25+%E7%9F%A5%E4%B9%8E&sca_esv=927b80db3c1f0319&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-dR1_ZPaV1NW0ue7i2qZ3EYO8sdw%3A1707610281564&ei=qRDIZfCSIt2gseMPweeH-As&ved=0ahUKEwiwi_2BgKKEAxVdUGwGHcHzAb8Q4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD1%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0.8%25+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiJOS4reWbvTHmnIhDUEnlkIzmr5TkuIvpmY0wLjglIOefpeS5jjIEECMYJzIEECMYJ0iaF1AAWKcWcAJ4AZABAJgBnAKgAcIFqgEFMC4zLjG4AQPIAQD4AQL4AQHCAgUQIRigAcICCBAAGIAEGKIE4gMEGAAgQQ&sclient=gws-wiz-serp#ip=1
+
+中国1月cpi同比下降0.8% 知乎 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD1%E6%9C%88cpi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0.8%25+%E7%9F%A5%E4%B9%8E&sca_esv=ed9d5bce5adbada5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_iozLP-SNGa2KkQNqbczcd6_YizA%3A1707611685948&ei=JRbIZcW1OfefseMP2-KyuAk&ved=0ahUKEwiF3NGfhaKEAxX3T2wGHVuxDJcQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD1%E6%9C%88cpi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0.8%25+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiJOS4reWbvTHmnIhjcGnlkIzmr5TkuIvpmY0wLjglIOefpeS5jjIEECMYJ0ikFlDbE1jbE3ABeACQAQCYAY0BoAGNAaoBAzAuMbgBA8gBAPgBAvgBAcICChAAGIAEGAwYsAPiAwQYASBBiAYBkAYB&sclient=gws-wiz-serp
+
+HKG: 0700 - Google 搜索
+https://www.google.com/search?sa=X&sca_esv=da1597cd81ffa23f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08w1A4huY6SvLq1945A2P_NIRio9Q:1707620342336&q=HKG:+0700&stick=H4sIAAAAAAAAAONgecRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uXj10_UNDZOSzXJTLNOKeRaxcnp4u1spGJgbGAAAiFQXsUkAAAA&ved=2ahUKEwjF6am_paKEAxXCe2wGHVREDmsQoe4JegQIGhAF&biw=1536&bih=738&dpr=1.25
+
+陈良宇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%99%88%E8%89%AF%E5%AE%87#%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E5%8F%8A%E6%89%A9%E5%A4%A7%E5%BC%80%E6%94%BE
+
+#general > WPT Tests on M1 Mac - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WPT.20Tests.20on.20M1.20Mac
+
+陈良宇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%99%88%E8%89%AF%E5%AE%87
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=envious&op=translate
+
+saint matthew - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwNTOtMGD04i1OzMwrUchNLCnJSC0HAFpxB-c&q=saint+matthew&rlz=1C1GCEA_enJP1090JP1090&oq=saint+Matthew&gs_lcrp=EgZjaHJvbWUqBwgAEC4YgAQyBwgAEC4YgAQyDAgBEEUYORjjAhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDY1NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Git - Book
+https://git-scm.com/book/en/v2
+
+nickh (Nick Hengeveld)
+https://github.com/nickh
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
 # 2024-2-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

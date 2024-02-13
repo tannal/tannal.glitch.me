@@ -16,7 +16,6 @@ sudo stackcount-bpfcc  "simple_lookup" -Pd -i 1
 sudo apt install linux-tools-common
 sudo apt install bpftrace
 
-
 sudo cat /sys/kernel/debug/tracing/events/tcp/tcp_retransmit_skb/format
 
 sudo bpftrace -e '
@@ -125,9 +124,7 @@ Brendan Gregg
 # traceable function easy to hit
 
 ```bash
-
 sudo ./kprobe -s 'p:submit_bio'
-
 
 ```
 
