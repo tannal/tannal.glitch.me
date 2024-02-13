@@ -1,3 +1,113 @@
+## Research ideas on WebAssembly
+
+### backgrouond
+
+Webassembly is a solution not a problem.
+
+I think the main reason wasm exists is that
+
+People don't write javascript today. 
+
+People write their code in other languages like typescript or Java, then compile to javascript.
+
+But javascript is designed for people to program.
+
+Javascipt is not designed as a compilation target.
+
+"We don't blame users" as we all know.
+
+So browser vendor come up wasm as a compilation target that are better than javascript.
+
+But it try to solve some problems describle below.
+
+So we want to do research around webassembly.
+
+We are essentially built research upon the webassembly paper(2017).
+
+We also assume many things:
+
+1. The problems that webassembly try to solve is valid, important, and valuable.
+
+2. The solutions(aka wasm) is approaching the goals it set.(We shouldn't care about wasm if it doesn't solve the problems)
+
+Why we assume them is true? Beacause it's widely support in all major browers and nobody disprove them.(may be you can try and i think it's hard)
+
+So our goals are simple. Just make wasm meet their goals.(or help others make wasm meet the goals)
+
+There are possible ideas for reasearch papers in webassembly.
+
+- Investiage how much does the goal achieved in 2023? aka the status of webassembly
+
+- Analysis memory leaking/consuming in webassembly (and compare to js)
+
+- What language should you choose when you want you apps/systems to target webassembly?
+
+- webassembly js coummications
+
+- how it be used today and how it can be used in the future
+
+### Problems (the goal of wasm)
+
+- performance improvement
+
+- run C/C++/Rust/Go any languages in the web.
+
+- runtime itself is embededable
+
+- wasm on server side
+
+- sandbox & safety grant
+
+#### make web faster
+
+#### make web protable further
+
+#### safe by design
+
+
+### Solutions
+
+## research idea
+
+- area summary collecting problems and solutions that already exists. Try to challage it.
+
+- case study to verify some guess or opinion.
+
+- propose a idea/system to solve a problem.
+
+- analysis/benmark/compare the existing solutions to better understand what's going on? .
+
+- find problems in existing solutions.
+
+- Come up problems and show it's not solved and show it is important and attempt to solve it.
+
+## A problems & solutions perspective
+
+### problem side
+
+What are the problems researchers/industry/developers/normal people already care about?
+
+Once you have problems, ask
+
+Are they valid? important? valuable?
+
+Are they solved?
+
+Are they
+
+what are the problems they should care?
+
+what are the problems they shouldn't care?
+
+### solution side
+
+How the currently solutions works?
+
+Can you generlize the idea of the solution?
+
+What's the limitations of the current solutions?
+
+How can you build upon the solutions? 
 
 # Machine Learning Systems
 

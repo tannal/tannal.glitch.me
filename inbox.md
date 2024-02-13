@@ -1,3 +1,8 @@
+# 2024-2-13 | 
+
+I still should try weird things courageously.
+
+
 # 2024-2-12 | 
 
 https://git-scm.com/book/en/v2
@@ -876,7 +881,7 @@ src/include/storage/table/tuple.h
 src/include/storage/page/page.h
 
 ```
-	#lang racket
+#lang racket
 (define email (foldl string-append "" '("me" "." "pm" "@" "ipnon")))
 
 (define zero "If you can imagine a society in which the computer-robot is the only menial, you can imagine anything.")
@@ -1031,184 +1036,11 @@ namei pathname -> inode
 
 LL LL(k) LR LR(k) LALR GLR
 
-type File
-func (f *File) DataOffset() (offset int64, err error)
-func (f *File) Open() (io.ReadCloser, error)
-func (f *File) OpenRaw() (io.Reader, error)
-type FileHeader
-func FileInfoHeader(fi fs.FileInfo) (*FileHeader, error)
-func (h *FileHeader) FileInfo() fs.FileInfo
-func (h *FileHeader) ModTime() time.TimeDEPRECATED
-func (h *FileHeader) Mode() (mode fs.FileMode)
-func (h *FileHeader) SetModTime(t time.Time)DEPRECATED
-func (h *FileHeader) SetMode(mode fs.FileMode)
-type ReadCloser
-func OpenReader(name string) (*ReadCloser, error)
-func (rc *ReadCloser) Close() error
-type Reader
-func NewReader(r io.ReaderAt, size int64) (*Reader, error)
-func (r *Reader) Open(name string) (fs.File, error)
-func (r *Reader) RegisterDecompressor(method uint16, dcomp Decompressor)
-type Writer
-func NewWriter(w io.Writer) *Writer
-func (w *Writer) Close() error
-func (w *Writer) Copy(f *File) error
-func (w *Writer) Create(name string) (io.Writer, error)
-func (w *Writer) CreateHeader(fh *FileHeader) (io.Writer, error)
-func (w *Writer) CreateRaw(fh *FileHeader) (io.Writer, error)
-func (w *Writer) Flush() error
-func (w *Writer) RegisterCompressor(method uint16, comp Compressor)
-func (w *Writer) SetComment(comment string) error
-func (w *Writer) SetOffset(n int64)
-
-type Format
-func (f Format) String() string
-type Header
-func FileInfoHeader(fi fs.FileInfo, link string) (*Header, error)
-func (h *Header) FileInfo() fs.FileInfo
-type Reader
-func NewReader(r io.Reader) *Reader
-func (tr *Reader) Next() (*Header, error)
-func (tr *Reader) Read(b []byte) (int, error)
-type Writer
-func NewWriter(w io.Writer) *Writer
-func (tw *Writer) Close() error
-func (tw *Writer) Flush() error
-func (tw *Writer) Write(b []byte) (int, error)
-func (tw *Writer) WriteHeader(hdr *Header) error
-
 # 2024-1-25 | 
-
-
-
-func Chdir(dir string) error
-func Chmod(name string, mode FileMode) error
-func Chown(name string, uid, gid int) error
-func Chtimes(name string, atime time.Time, mtime time.Time) error
-func Clearenv()
-func DirFS(dir string) fs.FS
-func Environ() []string
-func Executable() (string, error)
-func Exit(code int)
-func Expand(s string, mapping func(string) string) string
-func ExpandEnv(s string) string
-func Getegid() int
-func Getenv(key string) string
-func Geteuid() int
-func Getgid() int
-func Getgroups() ([]int, error)
-func Getpagesize() int
-func Getpid() int
-func Getppid() int
-func Getuid() int
-func Getwd() (dir string, err error)
-func Hostname() (name string, err error)
-func IsExist(err error) bool
-func IsNotExist(err error) bool
-func IsPathSeparator(c uint8) bool
-func IsPermission(err error) bool
-func IsTimeout(err error) bool
-func Lchown(name string, uid, gid int) error
-func Link(oldname, newname string) error
-func LookupEnv(key string) (string, bool)
-func Mkdir(name string, perm FileMode) error
-func MkdirAll(path string, perm FileMode) error
-func MkdirTemp(dir, pattern string) (string, error)
-func NewSyscallError(syscall string, err error) error
-func Pipe() (r *File, w *File, err error)
-func ReadFile(name string) ([]byte, error)
-func Readlink(name string) (string, error)
-func Remove(name string) error
-func RemoveAll(path string) error
-func Rename(oldpath, newpath string) error
-func SameFile(fi1, fi2 FileInfo) bool
-func Setenv(key, value string) error
-func Symlink(oldname, newname string) error
-func TempDir() string
-func Truncate(name string, size int64) error
-func Unsetenv(key string) error
-func UserCacheDir() (string, error)
-func UserConfigDir() (string, error)
-func UserHomeDir() (string, error)
-func WriteFile(name string, data []byte, perm FileMode) error
-type DirEntry
-func ReadDir(name string) ([]DirEntry, error)
-type File
-func Create(name string) (*File, error)
-func CreateTemp(dir, pattern string) (*File, error)
-func NewFile(fd uintptr, name string) *File
-func Open(name string) (*File, error)
-func OpenFile(name string, flag int, perm FileMode) (*File, error)
-func (f *File) Chdir() error
-func (f *File) Chmod(mode FileMode) error
-func (f *File) Chown(uid, gid int) error
-func (f *File) Close() error
-func (f *File) Fd() uintptr
-func (f *File) Name() string
-func (f *File) Read(b []byte) (n int, err error)
-func (f *File) ReadAt(b []byte, off int64) (n int, err error)
-func (f *File) ReadDir(n int) ([]DirEntry, error)
-func (f *File) ReadFrom(r io.Reader) (n int64, err error)
-func (f *File) Readdir(n int) ([]FileInfo, error)
-func (f *File) Readdirnames(n int) (names []string, err error)
-func (f *File) Seek(offset int64, whence int) (ret int64, err error)
-func (f *File) SetDeadline(t time.Time) error
-func (f *File) SetReadDeadline(t time.Time) error
-func (f *File) SetWriteDeadline(t time.Time) error
-func (f *File) Stat() (FileInfo, error)
-func (f *File) Sync() error
-func (f *File) SyscallConn() (syscall.RawConn, error)
-func (f *File) Truncate(size int64) error
-func (f *File) Write(b []byte) (n int, err error)
-func (f *File) WriteAt(b []byte, off int64) (n int, err error)
-func (f *File) WriteString(s string) (n int, err error)
-type FileInfo
-func Lstat(name string) (FileInfo, error)
-func Stat(name string) (FileInfo, error)
-type FileMode
-type LinkError
-func (e *LinkError) Error() string
-func (e *LinkError) Unwrap() error
-type PathError
-type ProcAttr
-type Process
-func FindProcess(pid int) (*Process, error)
-func StartProcess(name string, argv []string, attr *ProcAttr) (*Process, error)
-func (p *Process) Kill() error
-func (p *Process) Release() error
-func (p *Process) Signal(sig Signal) error
-func (p *Process) Wait() (*ProcessState, error)
-type ProcessState
-func (p *ProcessState) ExitCode() int
-func (p *ProcessState) Exited() bool
-func (p *ProcessState) Pid() int
-func (p *ProcessState) String() string
-func (p *ProcessState) Success() bool
-func (p *ProcessState) Sys() any
-func (p *ProcessState) SysUsage() any
-func (p *ProcessState) SystemTime() time.Duration
-func (p *ProcessState) UserTime() time.Duration
-type Signal
-type SyscallError
-func (e *SyscallError) Error() string
-func (e *SyscallError) Timeout() bool
-func (e *SyscallError) Unwrap() error
 
 Github Actions can auto deploy my blog.
 
 GNOME Mboalab MDAnalysis OCaml ODK-X Oppia QEMU
-
-$env:HTTP_PROXY = "http://127.0.0.1:7890"
-$env:HTTPS_PROXY = "http://127.0.0.1:7890"
-
-set http_proxy=http://192.168.43.1:7890
-set https_proxy=http://192.168.43.1:7890
-
-set http_proxy=hhttp://127.0.0.1:7890
-set https_proxy=http://127.0.0.1:7890
-
-$env:HTTP_PROXY = "http://192.168.43.1:7890"
-$env:HTTPS_PROXY = "http://192.168.43.1:7890"
 
 typeform
 
@@ -1673,674 +1505,6 @@ index 28522c9fbf..0c636aad3b 100644
 
 ```
 
-```yml
-# GENERATED BY ./ci.generate.ts -- DO NOT DIRECTLY EDIT
-
-name: ci
-on:
-  push:
-    branches:
-      - main
-    tags:
-      - '*'
-  pull_request:
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - ready_for_review
-concurrency:
-  group: '${{ github.workflow }}-${{ !contains(github.event.pull_request.labels.*.name, ''ci-test-flaky'') && github.head_ref || github.run_id }}'
-  cancel-in-progress: true
-jobs:
-  pre_build:
-    name: pre-build
-    runs-on: ubuntu-latest
-    outputs:
-      skip_build: '${{ steps.check.outputs.skip_build }}'
-    steps:
-      - name: Configure git
-        run: |-
-          git config --global core.symlinks true
-          git config --global fetch.parallel 32
-        if: github.event.pull_request.draft == true
-      - name: Clone repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 5
-          submodules: false
-        if: github.event.pull_request.draft == true
-      - id: check
-        run: |-
-          GIT_MESSAGE=$(git log --format=%s -n 1 ${{github.event.after}})
-          echo Commit message: $GIT_MESSAGE
-          echo $GIT_MESSAGE | grep '\[ci\]' || (echo 'Exiting due to draft PR. Commit with [ci] to bypass.' ; echo 'skip_build=true' >> $GITHUB_OUTPUT)
-        if: github.event.pull_request.draft == true
-  build:
-    name: '${{ matrix.job }} ${{ matrix.profile }} ${{ matrix.os_display_name }}'
-    needs:
-      - pre_build
-    if: '${{ needs.pre_build.outputs.skip_build != ''true'' }}'
-    runs-on: '${{ matrix.runner || matrix.os }}'
-    timeout-minutes: 120
-    defaults:
-      run:
-        shell: bash
-    strategy:
-      matrix:
-        include:
-          - os: macos-12
-            job: test
-            profile: debug
-            os_display_name: macos-x86_64
-          - os: macos-12
-            job: test
-            profile: release
-            skip: '${{ !contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'') }}'
-            runner: '${{ (!contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'')) && ''ubuntu-22.04'' || ''macos-12'' }}'
-            os_display_name: macos-x86_64
-          - os: macos-13-xlarge
-            job: test
-            profile: release
-            skip: '${{ !contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'' || github.ref == ''refs/heads/main'') }}'
-            runner: '${{ (!contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'' || github.ref == ''refs/heads/main'')) && ''ubuntu-22.04'' || ''macos-13-xlarge'' }}'
-            os_display_name: macos-aarch64
-          - os: windows-2022
-            job: test
-            profile: debug
-            os_display_name: windows-x86_64
-          - os: '${{ github.repository == ''denoland/deno'' && ''windows-2022-xl'' || ''windows-2022'' }}'
-            job: test
-            profile: release
-            skip: '${{ !contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'') }}'
-            runner: '${{ (!contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'')) && ''ubuntu-22.04'' || github.repository == ''denoland/deno'' && ''windows-2022-xl'' || ''windows-2022'' }}'
-            os_display_name: windows-x86_64
-          - os: '${{ github.repository == ''denoland/deno'' && ''ubuntu-22.04-xl'' || ''ubuntu-22.04'' }}'
-            job: test
-            profile: release
-            use_sysroot: true
-            wpt: '${{ !startsWith(github.ref, ''refs/tags/'') }}'
-            os_display_name: ubuntu-x86_64
-          - os: '${{ github.repository == ''denoland/deno'' && ''ubuntu-22.04-xl'' || ''ubuntu-22.04'' }}'
-            job: bench
-            profile: release
-            use_sysroot: true
-            skip: '${{ !contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'' && !contains(github.event.pull_request.labels.*.name, ''ci-bench'')) }}'
-            runner: '${{ (!contains(github.event.pull_request.labels.*.name, ''ci-full'') && (github.event_name == ''pull_request'' && !contains(github.event.pull_request.labels.*.name, ''ci-bench''))) && ''ubuntu-22.04'' || github.repository == ''denoland/deno'' && ''ubuntu-22.04-xl'' || ''ubuntu-22.04'' }}'
-            os_display_name: ubuntu-x86_64
-          - os: ubuntu-22.04
-            job: test
-            profile: debug
-            use_sysroot: true
-            os_display_name: ubuntu-x86_64
-          - os: ubuntu-22.04
-            job: lint
-            profile: debug
-            os_display_name: ubuntu-x86_64
-          - os: macos-12
-            job: lint
-            profile: debug
-            os_display_name: macos-x86_64
-          - os: windows-2022
-            job: lint
-            profile: debug
-            os_display_name: windows-x86_64
-      fail-fast: '${{ github.event_name == ''pull_request'' || (github.ref != ''refs/heads/main'' && !startsWith(github.ref, ''refs/tags/'')) }}'
-    env:
-      CARGO_TERM_COLOR: always
-      RUST_BACKTRACE: full
-      RUST_LIB_BACKTRACE: 0
-    steps:
-      - name: Reconfigure Windows Storage
-        if: '!(matrix.skip) && (startsWith(matrix.os, ''windows'') && !endsWith(matrix.os, ''-xl''))'
-        shell: pwsh
-        run: |-
-          New-Item -ItemType "directory" -Path "$env:TEMP/__target__"
-          New-Item -ItemType Junction -Target "$env:TEMP/__target__" -Path "D:/a/deno/deno"
-      - name: Configure git
-        run: |-
-          git config --global core.symlinks true
-          git config --global fetch.parallel 32
-        if: '!(matrix.skip)'
-      - name: Clone repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 5
-          submodules: false
-        if: '!(matrix.skip)'
-      - name: Clone submodule ./test_util/std
-        run: git submodule update --init --recursive --depth=1 -- ./test_util/std
-        if: '!(matrix.skip)'
-      - name: Clone submodule ./test_util/wpt
-        run: git submodule update --init --recursive --depth=1 -- ./test_util/wpt
-        if: '!(matrix.skip) && (matrix.wpt)'
-      - name: Clone submodule ./tools/node_compat/node
-        run: git submodule update --init --recursive --depth=1 -- ./tools/node_compat/node
-        if: '!(matrix.skip) && (matrix.job == ''lint'' && startsWith(matrix.os, ''ubuntu''))'
-      - name: 'Create source tarballs (release, linux)'
-        if: |-
-          !(matrix.skip) && (startsWith(matrix.os, 'ubuntu') &&
-          matrix.profile == 'release' &&
-          matrix.job == 'test' &&
-          github.repository == 'denoland/deno' &&
-          startsWith(github.ref, 'refs/tags/'))
-        run: |-
-          mkdir -p target/release
-          tar --exclude=".git*" --exclude=target --exclude=third_party/prebuilt \
-              -czvf target/release/deno_src.tar.gz -C .. deno
-      - uses: dsherret/rust-toolchain-file@v1
-        if: '!(matrix.skip)'
-      - if: '!(matrix.skip) && (matrix.job == ''lint'' || matrix.job == ''test'' || matrix.job == ''bench'')'
-        name: Install Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1.x
-      - name: Install Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.11
-        if: '!(matrix.skip) && (matrix.job != ''lint'')'
-      - name: Remove unused versions of Python
-        if: '!(matrix.skip) && (matrix.job != ''lint'' && (startsWith(matrix.os, ''windows'')))'
-        shell: pwsh
-        run: |-
-          $env:PATH -split ";" |
-            Where-Object { Test-Path "$_\python.exe" } |
-            Select-Object -Skip 1 |
-            ForEach-Object { Move-Item "$_" "$_.disabled" }
-      - if: '!(matrix.skip) && (matrix.job == ''bench'')'
-        name: Install Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - name: Install protoc
-        uses: arduino/setup-protoc@v2
-        with:
-          version: '21.12'
-          repo-token: '${{ secrets.GITHUB_TOKEN }}'
-        if: '!(matrix.skip)'
-      - if: |-
-          !(matrix.skip) && (matrix.profile == 'release' &&
-          matrix.job == 'test' &&
-          github.repository == 'denoland/deno' &&
-          (github.ref == 'refs/heads/main' ||
-          startsWith(github.ref, 'refs/tags/')))
-        name: Authenticate with Google Cloud
-        uses: google-github-actions/auth@v1
-        with:
-          project_id: denoland
-          credentials_json: '${{ secrets.GCP_SA_KEY }}'
-          export_environment_variables: true
-          create_credentials_file: true
-      - name: Setup gcloud (unix)
-        if: |-
-          !(matrix.skip) && (runner.os != 'Windows' &&
-          matrix.profile == 'release' &&
-          matrix.job == 'test' &&
-          github.repository == 'denoland/deno' &&
-          (github.ref == 'refs/heads/main' ||
-          startsWith(github.ref, 'refs/tags/')))
-        uses: google-github-actions/setup-gcloud@v1
-        with:
-          project_id: denoland
-      - name: Setup gcloud (windows)
-        if: |-
-          !(matrix.skip) && (runner.os == 'Windows' &&
-          matrix.profile == 'release' &&
-          matrix.job == 'test' &&
-          github.repository == 'denoland/deno' &&
-          (github.ref == 'refs/heads/main' ||
-          startsWith(github.ref, 'refs/tags/')))
-        uses: google-github-actions/setup-gcloud@v1
-        env:
-          CLOUDSDK_PYTHON: '${{env.pythonLocation}}\python.exe'
-        with:
-          project_id: denoland
-      - name: Configure canary build
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main')
-        run: echo "DENO_CANARY=true" >> $GITHUB_ENV
-      - if: '!(matrix.skip) && (matrix.use_sysroot)'
-        name: Set up incremental LTO and sysroot build
-        run: |-
-          # Avoid running man-db triggers, which sometimes takes several minutes
-          # to complete.
-          sudo apt-get remove --purge -y man-db
-          # Remove older clang before we install
-          sudo apt-get remove 'clang-12*' 'clang-13*' 'clang-14*' 'clang-15*' 'llvm-12*' 'llvm-13*' 'llvm-14*' 'llvm-15*' 'lld-12*' 'lld-13*' 'lld-14*' 'lld-15*'
-
-          # Install clang-XXX, lld-XXX, and debootstrap.
-          echo "deb http://apt.llvm.org/jammy/ llvm-toolchain-jammy-16 main" |
-            sudo dd of=/etc/apt/sources.list.d/llvm-toolchain-jammy-16.list
-          curl https://apt.llvm.org/llvm-snapshot.gpg.key |
-            gpg --dearmor                                 |
-          sudo dd of=/etc/apt/trusted.gpg.d/llvm-snapshot.gpg
-          sudo apt-get update
-          # this was unreliable sometimes, so try again if it fails
-          sudo apt-get install --no-install-recommends debootstrap clang-16 lld-16 clang-tools-16 clang-format-16 clang-tidy-16 || echo 'Failed. Trying again.' && sudo apt-get clean && sudo apt-get update && sudo apt-get install --no-install-recommends debootstrap clang-16 lld-16 clang-tools-16 clang-format-16 clang-tidy-16
-          # Fix alternatives
-          (yes '' | sudo update-alternatives --force --all) || true
-
-          # Create ubuntu-16.04 sysroot environment, which is used to avoid
-          # depending on a very recent version of glibc.
-          # `libc6-dev` is required for building any C source files.
-          # `file` and `make` are needed to build libffi-sys.
-          # `curl` is needed to build rusty_v8.
-          sudo debootstrap                                     \
-            --include=ca-certificates,curl,file,libc6-dev,make \
-            --no-merged-usr --variant=minbase xenial /sysroot  \
-            http://azure.archive.ubuntu.com/ubuntu
-          sudo mount --rbind /dev /sysroot/dev
-          sudo mount --rbind /sys /sysroot/sys
-          sudo mount --rbind /home /sysroot/home
-          sudo mount -t proc /proc /sysroot/proc
-
-          wget https://github.com/denoland/deno_third_party/raw/master/prebuilt/linux64/libdl/libdl.a
-          wget https://github.com/denoland/deno_third_party/raw/master/prebuilt/linux64/libdl/libdl.so.2
-
-          sudo ln -s libdl.so.2 /sysroot/lib/x86_64-linux-gnu/libdl.so
-          sudo ln -s libdl.a /sysroot/lib/x86_64-linux-gnu/libdl.a
-
-          # Configure the build environment. Both Rust and Clang will produce
-          # llvm bitcode only, so we can use lld's incremental LTO support.
-          cat >> $GITHUB_ENV << __0
-          CARGO_PROFILE_BENCH_INCREMENTAL=false
-          CARGO_PROFILE_BENCH_LTO=false
-          CARGO_PROFILE_RELEASE_INCREMENTAL=false
-          CARGO_PROFILE_RELEASE_LTO=false
-          RUSTFLAGS<<__1
-            -C linker-plugin-lto=true
-            -C linker=clang-16
-            -C link-arg=-fuse-ld=lld-16
-            -C link-arg=--sysroot=/sysroot
-            -C link-arg=-ldl
-            -C link-arg=-Wl,--allow-shlib-undefined
-            -C link-arg=-Wl,--thinlto-cache-dir=$(pwd)/target/release/lto-cache
-            -C link-arg=-Wl,--thinlto-cache-policy,cache_size_bytes=700m
-            --cfg tokio_unstable
-            ${{ env.RUSTFLAGS }}
-          __1
-          RUSTDOCFLAGS<<__1
-            -C linker-plugin-lto=true
-            -C linker=clang-16
-            -C link-arg=-fuse-ld=lld-16
-            -C link-arg=--sysroot=/sysroot
-            -C link-arg=-ldl
-            -C link-arg=-Wl,--allow-shlib-undefined
-            -C link-arg=-Wl,--thinlto-cache-dir=$(pwd)/target/release/lto-cache
-            -C link-arg=-Wl,--thinlto-cache-policy,cache_size_bytes=700m
-            ${{ env.RUSTFLAGS }}
-          __1
-          CC=clang-16
-          CFLAGS=-flto=thin --sysroot=/sysroot
-          __0
-      - name: Install aarch64 lld
-        run: ./tools/install_prebuilt.js ld64.lld
-        if: '!(matrix.skip) && (matrix.os == ''macos-13-xlarge'')'
-      - name: Install rust-codesign
-        run: |-
-          ./tools/install_prebuilt.js rcodesign
-          echo $GITHUB_WORKSPACE/third_party/prebuilt/mac >> $GITHUB_PATH
-        if: '!(matrix.skip) && ((matrix.os == ''macos-13-xlarge'' || matrix.os == ''macos-12''))'
-      - name: Log versions
-        run: |-
-          python --version
-          rustc --version
-          cargo --version
-          which dpkg && dpkg -l
-          if [[ "${{ matrix.job }}" == "lint" ]] || [[ "${{ matrix.job }}" == "test" ]]; then
-            deno --version
-          fi
-          if [ "${{ matrix.job }}" == "bench" ]
-          then
-            node -v
-            ./tools/install_prebuilt.js wrk hyperfine
-          fi
-        if: '!(matrix.skip)'
-      - name: Cache Cargo home
-        uses: actions/cache@v3
-        with:
-          path: |-
-            ~/.cargo/registry/index
-            ~/.cargo/registry/cache
-          key: '69-cargo-home-${{ matrix.os }}-${{ hashFiles(''Cargo.lock'') }}'
-          restore-keys: '69-cargo-home-${{ matrix.os }}'
-        if: '!(matrix.skip)'
-      - name: Restore cache build output (PR)
-        uses: actions/cache/restore@v3
-        if: '!(matrix.skip) && (github.ref != ''refs/heads/main'' && !startsWith(github.ref, ''refs/tags/''))'
-        with:
-          path: |-
-            ./target
-            !./target/*/gn_out
-            !./target/*/*.zip
-            !./target/*/*.tar.gz
-          key: never_saved
-          restore-keys: '69-cargo-target-${{ matrix.os }}-${{ matrix.profile }}-${{ matrix.job }}-'
-      - name: Apply and update mtime cache
-        if: '!(matrix.skip) && (!startsWith(github.ref, ''refs/tags/''))'
-        uses: ./.github/mtime_cache
-        with:
-          cache-path: ./target
-      - name: test_format.js
-        if: '!(matrix.skip) && (matrix.job == ''lint'' && startsWith(matrix.os, ''ubuntu''))'
-        run: deno run --unstable --allow-write --allow-read --allow-run --allow-net ./tools/format.js --check
-      - name: Lint PR title
-        if: '!(matrix.skip) && (matrix.job == ''lint'' && github.event_name == ''pull_request'' && startsWith(matrix.os, ''ubuntu''))'
-        env:
-          PR_TITLE: '${{ github.event.pull_request.title }}'
-        run: deno run ./tools/verify_pr_title.js "$PR_TITLE"
-      - name: lint.js
-        if: '!(matrix.skip) && (matrix.job == ''lint'')'
-        run: deno run --unstable --allow-write --allow-read --allow-run --allow-net ./tools/lint.js
-      - name: node_compat/setup.ts --check
-        if: '!(matrix.skip) && (matrix.job == ''lint'' && startsWith(matrix.os, ''ubuntu''))'
-        run: deno run --allow-write --allow-read --allow-run=git ./tools/node_compat/setup.ts --check
-      - name: Build debug
-        if: '!(matrix.skip) && (matrix.job == ''test'' && matrix.profile == ''debug'')'
-        run: |-
-          df -h
-          cargo build --locked --all-targets
-          df -h
-        env:
-          CARGO_PROFILE_DEV_DEBUG: 0
-      - name: Build release
-        if: |-
-          !(matrix.skip) && ((matrix.job == 'test' || matrix.job == 'bench') &&
-          matrix.profile == 'release' && (matrix.use_sysroot ||
-          github.repository == 'denoland/deno'))
-        run: |-
-          df -h
-          cargo build --release --locked --all-targets
-          df -h
-      - name: Upload PR artifact (linux)
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' &&
-          matrix.profile == 'release' && (matrix.use_sysroot ||
-          (github.repository == 'denoland/deno' &&
-          (github.ref == 'refs/heads/main' ||
-          startsWith(github.ref, 'refs/tags/')))))
-        uses: actions/upload-artifact@v3
-        with:
-          name: 'deno-${{ github.event.number }}'
-          path: target/release/deno
-      - name: Pre-release (linux)
-        if: |-
-          !(matrix.skip) && (startsWith(matrix.os, 'ubuntu') &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno')
-        run: |-
-          cd target/release
-          zip -r deno-x86_64-unknown-linux-gnu.zip deno
-          ./deno types > lib.deno.d.ts
-      - name: Pre-release (mac intel)
-        if: |-
-          !(matrix.skip) && (matrix.os == 'macos-12' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno')
-        env:
-          APPLE_CODESIGN_KEY: '${{ secrets.APPLE_CODESIGN_KEY }}'
-          APPLE_CODESIGN_PASSWORD: '${{ secrets.APPLE_CODESIGN_PASSWORD }}'
-        run: |-
-          echo "Key is $(echo $APPLE_CODESIGN_KEY | base64 -d | wc -c) bytes"
-          rcodesign sign target/release/deno --code-signature-flags=runtime --p12-password="$APPLE_CODESIGN_PASSWORD" --p12-file=<(echo $APPLE_CODESIGN_KEY | base64 -d) --entitlements-xml-file=cli/entitlements.plist
-          cd target/release
-          zip -r deno-x86_64-apple-darwin.zip deno
-      - name: Pre-release (mac aarch64)
-        if: |-
-          !(matrix.skip) && (matrix.os == 'macos-13-xlarge' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno')
-        env:
-          APPLE_CODESIGN_KEY: '${{ secrets.APPLE_CODESIGN_KEY }}'
-          APPLE_CODESIGN_PASSWORD: '${{ secrets.APPLE_CODESIGN_PASSWORD }}'
-        run: |-
-          echo "Key is $(echo $APPLE_CODESIGN_KEY | base64 -d | wc -c) bytes"
-          rcodesign sign target/release/deno --code-signature-flags=runtime --p12-password="$APPLE_CODESIGN_PASSWORD" --p12-file=<(echo $APPLE_CODESIGN_KEY | base64 -d) --entitlements-xml-file=cli/entitlements.plist
-          cd target/release
-          zip -r deno-aarch64-apple-darwin.zip deno
-      - name: Pre-release (windows)
-        if: |-
-          !(matrix.skip) && (startsWith(matrix.os, 'windows') &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno')
-        shell: pwsh
-        run: Compress-Archive -CompressionLevel Optimal -Force -Path target/release/deno.exe -DestinationPath target/release/deno-x86_64-pc-windows-msvc.zip
-      - name: Upload canary to dl.deno.land (unix)
-        if: |-
-          !(matrix.skip) && (runner.os != 'Windows' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main')
-        run: 'gsutil -h "Cache-Control: public, max-age=3600" cp ./target/release/*.zip gs://dl.deno.land/canary/$(git rev-parse HEAD)/'
-      - name: Upload canary to dl.deno.land (windows)
-        if: |-
-          !(matrix.skip) && (runner.os == 'Windows' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main')
-        env:
-          CLOUDSDK_PYTHON: '${{env.pythonLocation}}\python.exe'
-        run: 'gsutil -h "Cache-Control: public, max-age=3600" cp ./target/release/*.zip gs://dl.deno.land/canary/$(git rev-parse HEAD)/'
-      - name: Autobahn testsuite
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' && matrix.profile == 'release' &&
-          !startsWith(github.ref, 'refs/tags/') && startsWith(matrix.os, 'ubuntu'))
-        run: target/release/deno run -A --unstable ext/websocket/autobahn/fuzzingclient.js
-      - name: Test debug
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' && matrix.profile == 'debug' &&
-          !startsWith(github.ref, 'refs/tags/') && startsWith(matrix.os, 'ubuntu'))
-        run: cargo test --locked
-        env:
-          CARGO_PROFILE_DEV_DEBUG: 0
-      - name: Test debug (fast)
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' && matrix.profile == 'debug' &&
-          (startsWith(github.ref, 'refs/tags/') || !startsWith(matrix.os, 'ubuntu')))
-        run: |-
-          cargo test --locked --lib
-          cargo test --locked --test '*'
-        env:
-          CARGO_PROFILE_DEV_DEBUG: 0
-      - name: Test release
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' && matrix.profile == 'release' &&
-          (matrix.use_sysroot || (
-          github.repository == 'denoland/deno' &&
-          !startsWith(github.ref, 'refs/tags/'))))
-        run: cargo test --release --locked
-      - name: Check deno binary
-        if: '!(matrix.skip) && (matrix.profile == ''release'' && startsWith(github.ref, ''refs/tags/''))'
-        run: target/release/deno eval "console.log(1+2)" | grep 3
-        env:
-          NO_COLOR: 1
-      - name: Check deno binary (in sysroot)
-        if: '!(matrix.skip) && (matrix.profile == ''release'' && matrix.use_sysroot)'
-        run: sudo chroot /sysroot "$(pwd)/target/release/deno" --version
-      - name: Configure hosts file for WPT
-        if: '!(matrix.skip) && (matrix.wpt)'
-        run: ./wpt make-hosts-file | sudo tee -a /etc/hosts
-        working-directory: test_util/wpt/
-      - name: Run web platform tests (debug)
-        if: '!(matrix.skip) && (matrix.wpt && matrix.profile == ''debug'')'
-        env:
-          DENO_BIN: ./target/debug/deno
-        run: |-
-          deno run --allow-env --allow-net --allow-read --allow-run \
-                  --allow-write --unstable                         \
-                  --lock=tools/deno.lock.json                      \
-                  ./tools/wpt.ts setup
-          deno run --allow-env --allow-net --allow-read --allow-run \
-                   --allow-write --unstable                         \
-                   --lock=tools/deno.lock.json              \
-                   ./tools/wpt.ts run --quiet --binary="$DENO_BIN"
-      - name: Run web platform tests (release)
-        if: '!(matrix.skip) && (matrix.wpt && matrix.profile == ''release'')'
-        env:
-          DENO_BIN: ./target/release/deno
-        run: |-
-          deno run --allow-env --allow-net --allow-read --allow-run \
-                   --allow-write --unstable                         \
-                   --lock=tools/deno.lock.json                      \
-                   ./tools/wpt.ts setup
-          deno run --allow-env --allow-net --allow-read --allow-run \
-                   --allow-write --unstable                         \
-                   --lock=tools/deno.lock.json                      \
-                   ./tools/wpt.ts run --quiet --release             \
-                                      --binary="$DENO_BIN"          \
-                                      --json=wpt.json               \
-                                      --wptreport=wptreport.json
-      - name: Upload wpt results to dl.deno.land
-        continue-on-error: true
-        if: |-
-          !(matrix.skip) && (matrix.wpt &&
-          runner.os == 'Linux' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main' && !startsWith(github.ref, 'refs/tags/'))
-        run: |-
-          gzip ./wptreport.json
-          gsutil -h "Cache-Control: public, max-age=3600" cp ./wpt.json gs://dl.deno.land/wpt/$(git rev-parse HEAD).json
-          gsutil -h "Cache-Control: public, max-age=3600" cp ./wptreport.json.gz gs://dl.deno.land/wpt/$(git rev-parse HEAD)-wptreport.json.gz
-          echo $(git rev-parse HEAD) > wpt-latest.txt
-          gsutil -h "Cache-Control: no-cache" cp wpt-latest.txt gs://dl.deno.land/wpt-latest.txt
-      - name: Upload wpt results to wpt.fyi
-        continue-on-error: true
-        if: |-
-          !(matrix.skip) && (matrix.wpt &&
-          runner.os == 'Linux' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main' && !startsWith(github.ref, 'refs/tags/'))
-        env:
-          WPT_FYI_USER: deno
-          WPT_FYI_PW: '${{ secrets.WPT_FYI_PW }}'
-          GITHUB_TOKEN: '${{ secrets.DENOBOT_PAT }}'
-        run: |-
-          ./target/release/deno run --allow-all --lock=tools/deno.lock.json \
-              ./tools/upload_wptfyi.js $(git rev-parse HEAD) --ghstatus
-      - name: Run benchmarks
-        if: '!(matrix.skip) && (matrix.job == ''bench'' && !startsWith(github.ref, ''refs/tags/''))'
-        run: cargo bench --locked
-      - name: Post Benchmarks
-        if: |-
-          !(matrix.skip) && (matrix.job == 'bench' &&
-          github.repository == 'denoland/deno' &&
-          github.ref == 'refs/heads/main' && !startsWith(github.ref, 'refs/tags/'))
-        env:
-          DENOBOT_PAT: '${{ secrets.DENOBOT_PAT }}'
-        run: |-
-          git clone --depth 1 --branch gh-pages                             \
-              https://${DENOBOT_PAT}@github.com/denoland/benchmark_data.git \
-              gh-pages
-          ./target/release/deno run --allow-all --unstable \
-              ./tools/build_benchmark_jsons.js --release
-          cd gh-pages
-          git config user.email "propelml@gmail.com"
-          git config user.name "denobot"
-          git add .
-          git commit --message "Update benchmarks"
-          git push origin gh-pages
-      - name: Build product size info
-        if: '!(matrix.skip) && (matrix.job != ''lint'' && matrix.profile != ''debug'' && github.repository == ''denoland/deno'' && (github.ref == ''refs/heads/main'' || startsWith(github.ref, ''refs/tags/'')))'
-        run: |-
-          du -hd1 "./target/${{ matrix.profile }}"
-          du -ha  "./target/${{ matrix.profile }}/deno"
-      - name: Worker info
-        if: '!(matrix.skip) && (matrix.job == ''bench'')'
-        run: |-
-          cat /proc/cpuinfo
-          cat /proc/meminfo
-      - name: Upload release to dl.deno.land (unix)
-        if: |-
-          !(matrix.skip) && (runner.os != 'Windows' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          startsWith(github.ref, 'refs/tags/'))
-        run: 'gsutil -h "Cache-Control: public, max-age=3600" cp ./target/release/*.zip gs://dl.deno.land/release/${GITHUB_REF#refs/*/}/'
-      - name: Upload release to dl.deno.land (windows)
-        if: |-
-          !(matrix.skip) && (runner.os == 'Windows' &&
-          matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          startsWith(github.ref, 'refs/tags/'))
-        env:
-          CLOUDSDK_PYTHON: '${{env.pythonLocation}}\python.exe'
-        run: 'gsutil -h "Cache-Control: public, max-age=3600" cp ./target/release/*.zip gs://dl.deno.land/release/${GITHUB_REF#refs/*/}/'
-      - name: Create release notes
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          startsWith(github.ref, 'refs/tags/'))
-        run: |-
-          export PATH=$PATH:$(pwd)/target/release
-          ./tools/release/05_create_release_notes.ts
-      - name: Upload release to GitHub
-        uses: softprops/action-gh-release@v0.1.15
-        if: |-
-          !(matrix.skip) && (matrix.job == 'test' &&
-          matrix.profile == 'release' &&
-          github.repository == 'denoland/deno' &&
-          startsWith(github.ref, 'refs/tags/'))
-        env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        with:
-          files: |-
-            target/release/deno-x86_64-pc-windows-msvc.zip
-            target/release/deno-x86_64-unknown-linux-gnu.zip
-            target/release/deno-x86_64-apple-darwin.zip
-            target/release/deno-aarch64-apple-darwin.zip
-            target/release/deno_src.tar.gz
-            target/release/lib.deno.d.ts
-          body_path: target/release/release-notes.md
-          draft: true
-      - name: Save cache build output (main)
-        uses: actions/cache/save@v3
-        if: '!(matrix.skip) && ((matrix.job == ''test'' || matrix.job == ''lint'') && github.ref == ''refs/heads/main'')'
-        with:
-          path: |-
-            ./target
-            !./target/*/gn_out
-            !./target/*/*.zip
-            !./target/*/*.tar.gz
-          key: '69-cargo-target-${{ matrix.os }}-${{ matrix.profile }}-${{ matrix.job }}-${{ github.sha }}'
-  publish-canary:
-    name: publish canary
-    runs-on: ubuntu-22.04
-    needs:
-      - build
-    if: github.repository == 'denoland/deno' && github.ref == 'refs/heads/main'
-    steps:
-      - name: Authenticate with Google Cloud
-        uses: google-github-actions/auth@v1
-        with:
-          project_id: denoland
-          credentials_json: '${{ secrets.GCP_SA_KEY }}'
-          export_environment_variables: true
-          create_credentials_file: true
-      - name: Setup gcloud
-        uses: google-github-actions/setup-gcloud@v1
-        with:
-          project_id: denoland
-      - name: Upload canary version file to dl.deno.land
-        run: |-
-          echo ${{ github.sha }} > canary-latest.txt
-          gsutil -h "Cache-Control: no-cache" cp canary-latest.txt gs://dl.deno.land/canary-latest.txt
-
-```
 
 ```bash
 
@@ -3356,77 +2520,6 @@ You just need to show up, and find a position in the community.
 I know I never be able to create the prfect things.
 I just need to know how i can built with these fasinating tools.
 
-```bash
-
-wget https://github.com/fatedier/frp/releases/download/v0.53.2/frp_0.53.2_linux_arm64.tar.gz
-
-tar xvf frp_0.53.2_linux_arm64.tar.gz
-
-wget https://github.com/fatedier/frp/releases/download/v0.53.2/frp_0.53.2_linux_amd64.tar.gz
-
-sudo vim /etc/systemd/system/frps.service
-
-config https://github.com/fatedier/frp/blob/1e8806d26b6c1ca5ee683deb38f64f89fe60c1fe/conf/frps_full_example.toml#L121
-
-[Unit]
-# 服务名称，可自定义
-Description = frp server
-After = network.target syslog.target
-Wants = network.target
-
-[Service]
-Type = simple
-# 启动frps的命令，需修改为您的frps的安装路径
-ExecStart = /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps -c /home/ubuntu/tannalwork/projects/frp_0.53.2_linux_amd64/frps.toml
-Restart=always
-
-[Install]
-WantedBy = multi-user.target
-
-# 启动frp
-sudo systemctl start frps
-# 停止frp
-sudo systemctl stop frps
-# 重启frp
-sudo systemctl restart frps
-# 查看frp状态
-sudo systemctl status frps
-
-
-sudo systemctl enable frps
-
-
-sudo vim /etc/systemd/system/frpc.service
-[Unit]
-# 服务名称，可自定义
-Description = frpc
-After = network.target syslog.target
-After=network-online.target
-Wants=network-online.target systemd-networkd-wait-online.service
-
-[Service]
-Type = simple
-# 启动frps的命令，需修改为您的frps的安装路径
-ExecStart = /home/tannal/tannalwork/projects/frp_0.53.2_linux_arm64/frpc -c /home/tannal/tannalwork/projects/frp_0.53.2_linux_arm64/frpc.toml
-Restart=always
-
-[Install]
-WantedBy = multi-user.target
-
-sudo systemctl enable frpc
-
-journalctl -u frpc.service
-
-
-tar xvf frp_0.53.2_linux_amd64.tar.gz
-
-./frps -c frps.toml
-
-
-@todo clash systemctl
-
-```
-
 microservices grpc computing nodes shared network grpc trpc protocol buffers
 
 buildah podman
@@ -3446,17 +2539,6 @@ sudo ls /var/lib/docker
 buildkit  containers  engine-id  image  network  overlay2  plugins  runtimes  swarm  tmp  volumes
 
 docker info
-
-```dockerfile
-
-FROM alpine
-CMD ["echo", "Hello World!"]
-
-
-docker build -f Dockerfile -t alpine:helloworld
-
-
-```
 
 Devops github actions or gitlab ci/cd
 
@@ -3520,8 +2602,6 @@ scp -i /home/tannal/tannalwork/projects/llvm-project/first.pem compile_commands.
 
 
 scp /home/ubuntu/setup/clash-linux-amd64-v1.14.0 /root/tannalwork/clash-linux-amd64-v1.14.0
-
-
 
 ldd --version
 
@@ -3875,7 +2955,6 @@ DevOps Software Development Engineer
 AI Software Solutions Engineer
 
 
-
 nvidia 
 Graphics Tools Software Engineer Intern
 Software Engineering Intern - Compiler Technology
@@ -3991,8 +3070,6 @@ sudo cp /lib/x86_64-linux-gnu/libgcc_s.so.1 lib/
 wget https://ftp.tsukuba.wide.ad.jp/software/gcc/releases/gcc-13.2.0/gcc-13.2.0.tar.xz
 
 tar gcc-13.2.0.tar.xz
-
-
 
 ```
 
@@ -4116,9 +3193,6 @@ We should always focus on people around.
 
 Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor# 2024-1-8
 
-
-
-
 https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
 
 how google use leveldb
@@ -4142,7 +3216,6 @@ image layer
 gimp ubuntu install
 
 sudo apt install gimp
-
 
 yjs shared clipboard yjs example done
 
@@ -4181,9 +3254,7 @@ how to c t p l
 
 bank row decoder back section address input bank group bank control bank selection column multiplexer 
 
-
 video editing https://www.remotion.dev/ kdenlive
-
 
 sudo apt-get install kdenlive kde-runtime frei0r-plugins
 
@@ -4245,7 +3316,6 @@ kernel.perf_event_paranoid = 1
 sudo vim /etc/sysctl.d/10-rr.conf
 
 sudo sysctl -p /etc/sysctl.d/10-rr.conf
-
 
 rr record ./a.out
 ```
@@ -4342,31 +3412,7 @@ Please send your CV or resume in pdf form to careers@konsulko.com.
 
 sudo snap install go --classic
 
-
 what you see is pointless. It's just what it is.
-
-```bash
-
-sudo apt install lld
-
-sudo rm /usr/bin/ld
-
-sudo ln -s /usr/bin/lld /usr/bin/ld
-sudo ln -s /usr/bin/ld.lld /usr/bin/ld
-sudo ln -sfn /usr/bin/lld /usr/bin/ld
-sudo ln -s x86 /usr/bin/ld
-
-sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
-
-
-
-sudo ln -sfn x86_64-linux-gnu-ld /usr/bin/ld
-
-strace -e execve lld
-strace -e execve ld
-
-```
-
 
 ```bash
 
@@ -4444,9 +3490,6 @@ But two-way, feedback-rich communication can help you more.
 
 Rust Backward Compatibility
 
-
-
-
 ```bash
 
 git clone https://github.com/efficient/cuckoofilter.git
@@ -4488,34 +3531,15 @@ ebpf datacenter networking smartNIC
 
 xdp load balancer & 4 layer & 7 layer & dns load balancer
 
-```bash
-
-Ed25519 algorithm
-
-rsa algorithm
-
-vim ~/.ssh/authorized_keys
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDeryWc8zLoFzIIG1CaTRPD/WEY3ca6mqiLTpYSdPcYq tannal@ubuntu
-
-ssh-keygen -t ed25519
-
-```
-
 Things like understanding the full source code isn't possible for most large projects and people.
 
 But it might be posible for small project
 
-
-
 Your job is looking at what you done before, try to figure out what to do next, then do it, NOW.
 
 FPSR (Floating-Point Status Register):
-
 FPCR (Floating-Point Control Register):
-
 TPIDR (Thread Pointer Identifier Register):
-
 TPIDR2 (Thread Pointer Identifier Register 2):
 
 ```bash
@@ -4547,9 +3571,7 @@ info registers
 R0-R15
 
 R13 stack pointer
-
 R14 br ret address
-
 R15 program counter
 
 ```js
@@ -4557,12 +3579,6 @@ R15 program counter
 // create a array
 
 const crossedOut = new Array(n + 1).fill(false);
-
-  for (let i = 2; i <= n; i++) {
-    if (!crossedOut[i]) {
-      // Cross out i and multiples of i
-      for (let j = i; j <= n; j += i) {
-        if (!crossedOut[j]) {
 
 ```
 
@@ -4579,8 +3595,6 @@ CTRL-Z as sending EOF
 infra + product
 
 # 2024-1-4
-
-winget install -e --id Rustlang.Rustup
 
 ```bash
 
@@ -4608,10 +3622,6 @@ gcc -fverbose-asm -S main.c
 ```
 https://github.com/microsoft/winget-cli/issues/1812
 
-winget install -e --id TorProject.TorBrowser
-
-winget install -e --id Google.Chrome.Canary
-
 gmail ajax
 
 重型挖掘机玩泥巴
@@ -4625,8 +3635,6 @@ Python, Scheme, Ruby, LuaJIT, GCC, LLVM, GDB, and Factor
 Test262 conformance tests
 
 A example of security bug v is that you can open jishiben in chrome using js
-
- 
 
 # 2024-1-3
 
@@ -4652,56 +3660,6 @@ https://en.wikichip.org/wiki/arm_holdings/microarchitectures/cortex-a76
 
 arm raspi5 arm cortext A76
 
-
-```bash
-
-virtualenv yxl python=python3.8
-
-
-virtualenv yxl --python=python3.8
-
-Set-ExecutionPolicy Unrestricted -Force
-
-set-executionpolicy remotesigned
-
-Activate yxl/bin/activate
-
-yxl/Scripts/activate
-
-../yxl/Scripts/activate
-
-pip freeze
-
-
-
-
-pip install torch==1.2.0
-
-
-git clone https://github.com/ultralytics/ultralytics.git
-
-
-pip install .
-
-
-
-nvidia-smi
-CUDA Version: 12.2
-
-pip install torch==2.0.1 torchvision==0.15+cu111 torchaudio==2.0.2
-
-PyTorch	TorchAudio	Python
-2.0.1	2.0.2	>=3.8 , <=3.11
-2.0.0	2.0.1	>=3.8 , <=3.11
-1.13.1	0.13.1	>=3.7 , <=3.10
-1.13.0	0.13.0	>=3.7 , <=3.10
-
-pip install ultralytics
-
-
-```
-
-
 https://github.com/octref
 https://github.com/waldyrious
 
@@ -4720,8 +3678,6 @@ java no idea
 go go
 
 rust rust-analyer
-
-
 
 perl/ruby/tcl/erlang/scala/
 
@@ -4765,18 +3721,9 @@ the exams for your last school term must end before Jan. 20, 2024.
 
 # 2024-1-2
 
-
 https://github.com/nodejs/node/pull/50899/files
 
-
-```bash
-
-winget install --id=Kingsoft.WPSOffice  -e
-
-
-```
 gitpod
-
 
 ```bash
 
@@ -4790,98 +3737,6 @@ c/c++ on windows
     "CMAKE_TOOLCHAIN_FILE": "C:/Users/tannal/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake",
     "VCPKG_TARGET_TRIPLET": "x64-windows"
 },
-
-# CMakeLists.txt
-
-cmake_minimum_required(VERSION 3.0.0)
-project(ray VERSION 0.1.0 LANGUAGES C CXX)
-
-include(CTest)
-enable_testing()
-
-set(CPACK_PROJECT_NAME ${PROJECT_NAME})
-set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
-include(CPack)
-
-file(GLOB EXAMPLE_SOURCES "*.cc")
-find_package(raylib CONFIG REQUIRED)
-
-
-foreach(EXAMPLE_SOURCE ${EXAMPLE_SOURCES})
-    get_filename_component(EXAMPLE_NAME ${EXAMPLE_SOURCE} NAME_WE)
-    add_executable(${EXAMPLE_NAME} ${EXAMPLE_SOURCE})
-    target_link_libraries(${EXAMPLE_NAME} PRIVATE raylib)
-endforeach()
-
-# main.cc
-/*******************************************************************************************
-*
-*   raylib [core] example - Basic window
-*
-*   Welcome to raylib!
-*
-*   To test examples, just press F6 and execute raylib_compile_execute script
-*   Note that compiled executable is placed in the same folder as .c file
-*
-*   You can find all basic examples on C:\raylib\raylib\examples folder or
-*   raylib official webpage: www.raylib.com
-*
-*   Enjoy using raylib. :)
-*
-*   Example originally created with raylib 1.0, last time updated with raylib 1.0
-*
-*   Example licensed under an unmodified zlib/libpng license, which is an OSI-certified,
-*   BSD-like license that allows static linking with closed source software
-*
-*   Copyright (c) 2013-2023 Ramon Santamaria (@raysan5)
-*
-********************************************************************************************/
-
-#include "raylib.h"
-//------------------------------------------------------------------------------------
-// Program main entry point
-//------------------------------------------------------------------------------------
-int main(void)
-{
-    // Initialization
-    //--------------------------------------------------------------------------------------
-    const int screenWidth = 800;
-    const int screenHeight = 450;
-
-    InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
-
-    SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
-    //--------------------------------------------------------------------------------------
-
-    // Main game loop
-    while (!WindowShouldClose())    // Detect window close button or ESC key
-    {
-        // Update
-        //----------------------------------------------------------------------------------
-        // TODO: Update your variables here
-        //----------------------------------------------------------------------------------
-
-        // Draw
-        //----------------------------------------------------------------------------------
-        BeginDrawing();
-
-            ClearBackground(RAYWHITE);
-
-            DrawText("Congrats! You created your first window!", 190, 200, 20, LIGHTGRAY);
-
-        EndDrawing();
-        //----------------------------------------------------------------------------------
-    }
-
-    // De-Initialization
-    //--------------------------------------------------------------------------------------
-    CloseWindow();        // Close window and OpenGL context
-    //--------------------------------------------------------------------------------------
-
-    return 0;
-}
-
-```
 
 ![Alt text](./image-2.png)
 
@@ -4985,8 +3840,6 @@ https://github.com/jsdom/jsdom/blob/b7683ed68ebe259cd2c68e5faf12d484a785f45f/lib
 pip install pandas matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 nvm list available
-
-winget install -e --id CoreyButler.NVMforWindows
 
 nvm install 20.10.0
 
@@ -5137,7 +3990,7 @@ It sucks, but everyone suffer from it
 
 https://github.com/rust-lang/rust/blob/8d76d076665f862ec9619f2de68d6d9ca1db4601/library/core/src/option.rs#L570
 
-https://llvm.org/OpenProjects.html#gsoc23
+https://llvm.org/OpenProjects.html#gsoc24
 
 https://www.outreachy.org/
 
@@ -5328,20 +4181,6 @@ push based pull based iterator & generator & iter() & collect()
 push no collect
 
 pull has collect manually
-
-
-### TypeScript setup
-
-This should be easy enough. we will just use ts-node (feel free to use swc or
-whatever you want)
-
-<br />
-
-#### **Edit your tsconfig.json**
-
-We want things to be strict, so don't forget to turn on all the things.
-
-Here are my preferred settings
 
 web intent
 
@@ -6476,118 +5315,6 @@ https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html
 
 https://www.cs.columbia.edu/~hgs/etc/writing-style.html
 
-## Research ideas on WebAssembly
-
-### backgrouond
-
-Webassembly is a solution not a problem.
-
-I think the main reason wasm exists is that
-
-People don't write javascript today. 
-
-People write their code in other languages like typescript or Java, then compile to javascript.
-
-But javascript is designed for people to program.
-
-Javascipt is not designed as a compilation target.
-
-"We don't blame users" as we all know.
-
-So browser vendor come up wasm as a compilation target that are better than javascript.
-
-But it try to solve some problems describle below.
-
-So we want to do research around webassembly.
-
-We are essentially built research upon the webassembly paper(2017).
-
-We also assume many things:
-
-1. The problems that webassembly try to solve is valid, important, and valuable.
-
-2. The solutions(aka wasm) is approaching the goals it set.(We shouldn't care about wasm if it doesn't solve the problems)
-
-Why we assume them is true? Beacause it's widely support in all major browers and nobody disprove them.(may be you can try and i think it's hard)
-
-So our goals are simple. Just make wasm meet their goals.(or help others make wasm meet the goals)
-
-There are possible ideas for reasearch papers in webassembly.
-
-- Investiage how much does the goal achieved in 2023? aka the status of webassembly
-
-- Analysis memory leaking/consuming in webassembly (and compare to js)
-
-- What language should you choose when you want you apps/systems to target webassembly?
-
-- webassembly js coummications
-
-- how it be used today and how it can be used in the future
-
-### Problems (the goal of wasm)
-
-- performance improvement
-
-- run C/C++/Rust/Go any languages in the web.
-
-- runtime itself is embededable
-
-- wasm on server side
-
-- sandbox & safety grant
-
-#### make web faster
-
-#### make web protable further
-
-#### safe by design
-
-
-### Solutions
-
-## research idea
-
-- area summary collecting problems and solutions that already exists. Try to challage it.
-
-- case study to verify some guess or opinion.
-
-- propose a idea/system to solve a problem.
-
-- analysis/benmark/compare the existing solutions to better understand what's going on? .
-
-- find problems in existing solutions.
-
-- Come up problems and show it's not solved and show it is important and attempt to solve it.
-
-## A problems & solutions perspective
-
-### problem side
-
-What are the problems researchers/industry/developers/normal people already care about?
-
-Once you have problems, ask
-
-Are they valid? important? valuable?
-
-Are they solved?
-
-Are they
-
-what are the problems they should care?
-
-what are the problems they shouldn't care?
-
-### solution side
-
-How the currently solutions works?
-
-Can you generlize the idea of the solution?
-
-What's the limitations of the current solutions?
-
-How can you build upon the solutions? 
-
-
 # 2023-12-01
 
 ## how browser works
@@ -6666,395 +5393,3 @@ https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-20
 # better explained
 
 https://aha.betterexplained.com/
-
-# commands
-
-```bash
-#nvm 和 nodejs
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
-
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-nvm ls-remote --lts
-
-nvm list available
-
-#pnpm
-corepack enable
-
-#deno
-curl -fsSL https://deno.land/x/install/install.sh | sh
-#国内
-curl -fsSL https://x.deno.js.cn/install.sh | sh
-export DENO_INSTALL="/home/ubuntu/.deno"
-export PATH="$DENO_INSTALL/bin:$PATH"
-
-
-#配置git
-git config --global user.name "MarybethGasman"
-git config --global user.email "2934482133@qq.com"
-
-git config --global user.name "tannal"
-git config --global user.email "tannal2409@gmail.com"
-
-# clangd server
-sudo apt-get install clangd-12
-
-sudo update-alternatives --install /usr/bin/clangd clangd /usr/bin/clangd-12 100
-
-
-#Linux kernel 国内镜像git，非常快
-https://kernel.source.codeaurora.cn/
-
-#最新jdk
-wget https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.deb
-
-sudo apt-get -qqy install ./jdk-19_linux-x64_bin.deb
-
-sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-19/bin/java 1919
-
-# Mysql
-sudo apt install mysql-server
-CREATE USER 'tan'@'%' IDENTIFIED WITH mysql_native_password BY 'tanm146';
-GRANT CREATE, ALTER, DROP, INSERT, UPDATE, INDEX, DELETE, SELECT, REFERENCES, RELOAD on *.* TO 'tan'@'%' WITH GRANT OPTION;
-## Mysql改配置
-sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
-# 重启mysql
-sudo systemctl restart mysql
-# 关闭mysql
-sudo /etc/init.d/mysql stop
-
-#Go的开发环境
-sudo snap install go --classic
-go env -w GOPROXY=https://goproxy.cn
-
-
-# trace-cmd
-git clone https://kernel.source.codeaurora.cn/pub/scm/utils/trace-cmd/trace-cmd.git
-
-
-# 编译linux内核安装
-sudo apt-get install libssl-dev bison flex libelf-dev
-
-# git pull (would clobber existing tag)
-git fetch --tags --force
-
-
-#编译内核的权限key问题
-https://blog.csdn.net/qq_36393978/article/details/118157426
-
-https://blog.csdn.net/m0_47696151/article/details/121574718
-
-#新建swap分区
-sudo fallocate -l 3G /swapfile
-sudo chmod 600 /swapfile
-sudo mkswap /swapfile
-sudo swapon /swapfile
-sudo swapon --show
-
-
-#qemu
-qemu-system-x86_64 -nographic -m 1024 \
-    -kernel arch/x86_64/boot/bzImage \
-    -initrd initramfs.img \
-    -append 'console=ttyS0' \
-    -nographic
-
-# rust
-export RUSTUP_DIST_SERVER=https://mirrors.ustc.edu.cn/rust-static
-export RUSTUP_UPDATE_ROOT=https://mirrors.ustc.edu.cn/rust-static/rustup
-curl https://sh.rustup.rs -sSf | sh
-source $HOME/.cargo/env
-
-code ~/.cargo/config
-
-[source.crates-io]
-registry = "https://github.com/rust-lang/crates.io-index"
-replace-with = 'ustc'
-[source.ustc]
-registry = "git://mirrors.ustc.edu.cn/crates.io-index"
-
-
-
-# npm 腾讯云
-npm config set registry http://mirrors.cloud.tencent.com/npm/
-
-# 一些环境变量的配置
-sudo update-alternatives --config java
-
-# android sdk
-sudo apt install sdkmanager
-sudo sdkmanager "platform-tools;34.0.3" "build-tools;33.0.2" "platforms;android-28" "tools;26.1.1"
-sudo sdkmanager "build-tools;28.0.3" "platforms;android-29"
-mv $ANDROID_HOME/tools $ANDROID_HOME/cmdline-tools/latest/
-sudo chown -R ubuntu /opt/android-sdk/
-export ANDROID_HOME="/opt/android-sdk/"
-export PATH="$PATH:$ANDROID_HOME/tools/bin"
-export NO_PROXY=localhost,127.0.0.1,::1
-flutter doctor --android-licenses
-
-# flutter release
-systemProp.http.proxyHost=127.0.0.1
-systemProp.http.proxyPort=7890
-systemProp.https.proxyHost=127.0.0.1
-systemProp.https.proxyPort=7890
-
-#java
-sudo apt install openjdk-17-jdk
-
-# bpf
-sudo apt install libbpf-dev llvm linux-tools-5.15.0-56-generic
-## 编译安装bpftool
-git clone https://github.com/libbpf/bpftool.git
-git submodule update --init
-cd src && make
-sudo make install
-
-
-#android
-https://juejin.cn/post/7019992544444416037#heading-5
-
-
-
-#git clone慢
-git config --global url."https://gitclone.com/".insteadOf https://
-
-git config --global --unset url."https://gitclone.com/"
-
-
-# nvim
-
-wget https://github.com/neovim/neovim/releases/download/nightly/nvim.appimage
-./nvim.appimage --appimage-extract
-alias vim=~/tannalwork/squashfs-root/usr/bin/nvim
-
-# clash网页
-
-git clone -b gh-pages --depth 1 https://github.com/Dreamacro/clash-dashboard
-external-ui: clash-dashboard/
-
-
-
-# docker
-
-
-sudo curl -fsSL https://get.docker.com |bash
-
-sudo groupadd docker
-sudo usermod -aG docker $USER
-
-# docker-compose
-
-sudo apt  install docker-compose
-
-# docker管理
-
-docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
-
-
-#  Nginx Proxy Manager
-
-docker-compose up -d
-
-version: '3.8'
-services:
-  app:
-    image: 'jc21/nginx-proxy-manager:latest'
-    restart: unless-stopped
-    ports:
-      - '80:80'
-      - '81:81'
-      - '443:443'
-    volumes:
-      - ./data:/data
-      - ./letsencrypt:/etc/letsencrypt
-
-# vaultwarden密码管理工具
-
-docker run -d --name vaultwarden -v /vw-data/:/data/ -p 82:80 vaultwarden/server:latest
-
-# uptime 网页可用性监控
-
-docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
-
-# dashy
-docker run -p 8080:80 lissy93/dashy
-
-
-
-# vscode 导出扩展
-
-code --list-extensions | xargs -L 1
-
-# 推荐拓展
-"remote.SSH.defaultExtensions": [
-  "bradlc.vscode-tailwindcss",
-  "christian-kohler.npm-intellisense",
-  "christian-kohler.path-intellisense",
-  "eamodio.gitlens",
-  "golang.go",
-  "Gruntfuggly.todo-tree",
-  "llvm-vs-code-extensions.vscode-clangd",
-  "MS-CEINTL.vscode-language-pack-zh-hans",
-  "ms-python.isort",
-  "ms-python.python",
-  "ms-python.vscode-pylance",
-  "ms-toolsai.jupyter",
-  "ms-toolsai.jupyter-keymap",
-  "ms-toolsai.jupyter-renderers",
-  "ms-toolsai.vscode-jupyter-cell-tags",
-  "ms-toolsai.vscode-jupyter-slideshow",
-  "ms-vscode.hexeditor",
-  "mutantdino.resourcemonitor",
-  "ocamllabs.ocaml-platform",
-  "PolyMeilex.wgsl",
-  "redhat.java",
-  "rust-lang.rust-analyzer",
-  "vadimcn.vscode-lldb",
-  "VisualStudioExptTeam.intellicode-api-usage-examples",
-  "VisualStudioExptTeam.vscodeintellicode",
-  "vscjava.vscode-java-debug",
-  "vscjava.vscode-java-dependency",
-  "vscjava.vscode-java-pack",
-  "vscjava.vscode-java-test",
-  "vscjava.vscode-maven",
-  "Vue.volar",
-  "Vue.vscode-typescript-vue-plugin",
-  "ziglang.vscode-zig"
-];
-
-
-# 下载google drive里的文件
-pip install gdown -i https://pypi.tuna.tsinghua.edu.cn/simple
-
-
-
-export PATH="$HOME/.local/bin:$PATH"
-
-
-
-gdown --id 11DcV01Xjy1HA-nFR3HmDcFM_udWwmQ9l
-
-# 无GUI的chrome
-
-sudo apt-get -y install libxss1 libappindicator1 libindicator7
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo dpkg -i google-chrome*.deb  # Might show "errors", fixed by next line
-sudo apt-get install -f
-
-
-
-# Selenium WebDriver for JavaScript
-
-
-sudo apt install chromium-chromedrivers
-
-
-
-# install fastline for reactnative
-sudo apt-get update
-sudo apt -y install build-essential ruby ruby-dev
-
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
-sudo gem install google-api-client
-sudo gem install fastlane -NV
-
-
-# traggo
-
-docker run -p 80:3030 -v /opt/traggo/data:/opt/traggo/data traggo/server:latest --env TRAGGO_DEFAULT_USER_NAME=admin -e TRAGGO_DEFAULT_USER_PASS=admin
-
-
-# ReactNative build
-
-npm install --global expo-cli eas-cli
-expo login
-"start": "expo start",
-"android": "expo start --android",
-"ios": "expo start --ios",
-"web": "expo start --web",
-
-
-
-
-# flutter
-sudo snap install flutter --classic
-
-# release apk
-flutter build apk --release
-
-flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000
-
-sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
-
-sudo apt install -y openjdk-11-jdk
-
-sudo add-apt-repository ppa:maarten-fonville/android-studio
-
-sudo apt update
-
-sudo apt install android-studio -y
-
-# cmdtools
-wget https://dl.google.com/android/repository/commandlinetools-linux-6609375_latest.zip ~/Android
-unzip commandlinetools-linux-6609375_latest.zip && mv tools cmdline-tools
-export ANDROID_HOME="/home/ubuntu/Android"
-mkdir -p $ANDROID_HOME
-export PATH="$ANDROID_HOME/cmdline-tools/bin/:$PATH"
-export PATH="$ANDROID_HOME/emulator/:$PATH"
-export PATH="$ANDROID_HOME/platform-tools/:$PATH"
-
-
-# sdkmanager
-
-sudo apt install sdkmanager
-
-
-
-# netlify
-
-npm install netlify-cli -g
-netlify deploy --prod
-netlify dev
-netlify dev --edgeInspect
-netlify dev --edgeInspect=127.0.0.1:9229
-netlify dev --edgeInspectBrk
-netlify dev --edgeInspectBrk=127.0.0.1:9229
-
-
-# 除去零长字符
-
-sed -i "s/$(echo -ne '\u200b')//g" input
-
-
-sudo apt install opam
-
-
-# risc-v
-
-wget https://github.com/stnolting/riscv-gcc-prebuilt/releases/download/rv32i-4.0.0/riscv32-unknown-elf.gcc-12.1.0.tar.gz
-sudo mkdir /opt/riscv
-
-sudo tar -xzf riscv32-unknown-elf.gcc-12.1.0.tar.gz -C /opt/riscv/
-export PATH=$PATH:/opt/riscv/bin
-
-
-# cloudfare pages cli
-npx wrangler pages deploy <directory>
-
-
-# powershell http proxy
-$env:HTTP_PROXY = "http://localhost:7890"
-$env:HTTPS_PROXY = "http://localhost:7890"
-
-# windows cmd proxy
-
-set http_proxy=http://127.0.0.1:7890
-set https_proxy=http://127.0.0.1:7890
-
-```
-
-![](https://cdn.glitch.global/c8d57c73-6044-4741-a71a-82aa74f41701/341a5aa7-9173-4257-bc96-b52001cd033b.image.png?v=1701158847856)

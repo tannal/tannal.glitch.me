@@ -1,6 +1,11 @@
 
 # Software install
 
+winget install -e --id Rustlang.Rustup
+winget install -e --id TorProject.TorBrowser
+winget install -e --id Google.Chrome.Canary
+winget install --id=Kingsoft.WPSOffice  -e
+winget install -e --id CoreyButler.NVMforWindows
 winget install -e --id Google.Chrome
 winget install --id Git.Git -e --source winget
 # winget install -e --id Corel.WinZip
