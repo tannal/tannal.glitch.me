@@ -1,3 +1,203 @@
+# 2024-2-14
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/devtools?project%3DConsole
+
+1731635 - Add a setting to disable split console
+https://bugzilla.mozilla.org/show_bug.cgi?id=1731635
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+The LLVM Compiler Infrastructure Project
+https://llvm.org/OpenProjects.html#gsoc23
+
+• Discord | #beginners📝 | WasmEdge
+https://discord.com/channels/846973236280950824/938093534584655954
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Richard Hamming: Learning to Learn | Hacker News
+https://news.ycombinator.com/item?id=9111216
+
+Randy Pausch Last Lecture: Achieving Your Childhood Dreams - YouTube
+https://www.youtube.com/watch?v=ji5_MqicxSo
+
+Untitled Document
+http://www-stat.wharton.upenn.edu/~steele/Rants/HammingBelcor.html
+
+tannal (tannal)
+https://github.com/tannal
+
+Code search results
+https://github.com/search?q=repo%3Araysan5%2Fraylib%20%22%23define%20TRACELOG%22&type=code
+
+(1) Resources
+https://tutflix.org/resources/
+
+微博搜索
+https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD1%E6%9C%88CPI%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0.8%25%23
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGPT
+https://chat.openai.com/c/49b76237-6574-4836-8b6c-8027a9341a75
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=scrollr%20IT%20employee&op=translate
+
+scrollr it - Google 搜索
+https://www.google.com/search?q=scrollr+it&sca_esv=1f5b816482ae199a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08M1WmWv9Jcagp7kwcLdj-hpWsWqg%3A1707810975913&ei=nyDLZY-sN4mG4-EP1vqWsAE&ved=0ahUKEwjP97_U66eEAxUJwzgGHVa9BRYQ4dUDCBA&uact=5&oq=scrollr+it&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnNjcm9sbHIgaXQyBxAAGIAEGA0yBxAAGIAEGA0yBhAAGB4YDTIGEAAYHhgNMgYQABgeGA0yCBAAGB4YDRgPMggQABgeGA0YDzIGEAAYHhgNMgYQABgeGA0yBhAAGB4YDUisC1AAWJQKcAB4AZABAJgBlwGgAbwHqgEDMC43uAEDyAEA-AEBwgIIEAAYgAQYywHCAgoQIxiABBiKBRgnwgIKEAAYgAQYywEYCsICBxAAGIAEGAzCAgYQABgeGAzCAggQABgeGAwYCuIDBBgAIEE&sclient=gws-wiz-serp#ip=1
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+两元店
+https://liangyuandian.xyz/#/order
+
+test - Google 搜索
+https://www.google.com/search?q=test&sca_esv=40ad471a4e6b196f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08gDSftzMOKoLoE2cQBaYBeP9wP5w%3A1707822517783&ei=tU3LZeCoL5baseMPg8-ikA8&ved=0ahUKEwig14vUlqiEAxUWbWwGHYOnCPIQ4dUDCBA&uact=5&oq=test&gs_lp=Egxnd3Mtd2l6LXNlcnAiBHRlc3QyBxAjGLADGCcyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIphFQAFj2DXACeAGQAQKYAekCoAG8BaoBBzAuMi4wLjG4AQPIAQD4AQGoAgrCAgcQIxjqAhgnwgIHEC4Y6gIYJ8ICChAjGIAEGIoFGCfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICCxAAGIAEGLEDGIMBwgIFEAAYgATCAggQABiABBixA-IDBBgAIEGIBgGQBgo&sclient=gws-wiz-serp
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+#general > Building servo for OpenHarmony - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Building.20servo.20for.20OpenHarmony
+
+open in file explorer from terminal - Google 搜索
+https://www.google.com/search?q=open+in+file+explorer+from+terminal&rlz=1C1GCEA_enJP1090JP1090&oq=open+in+file+explorer+&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgkIARAAGBMYgAQyCggCEEUYExgeGDkyCQgDEAAYExiABDIJCAQQABgTGIAEMgkIBRAAGBMYgAQyCAgGEAAYExgeMggIBxAAGBMYHjIICAgQABgTGB4yCAgJEAAYExge0gEJMTMwNzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+julioromano/skeleton-android: Template skeleton for quick bootstrap of an Android app
+https://github.com/julioromano/skeleton-android
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+两元店
+https://liangyuandian.xyz/#/node
+
+Edoardo Vacchi (@evacchi) / X
+https://twitter.com/evacchi
+
+Middle of Nowhere
+https://evacchi.github.io/
+
+tetratelabs/wazero: wazero: the zero dependency WebAssembly runtime for Go developers
+https://github.com/tetratelabs/wazero
+
+Google 地球
+https://earth.google.com/web/@33.10961183,110.95503024,387.56082443a,170188.11760426d,35y,342.44851727h,0t,0r/data=OgMKATA
+
+Fermyon • Experience the next wave of cloud computing.
+https://www.fermyon.com/
+
+envoyproxy/envoy: Cloud-native high-performance edge/middle/service proxy
+https://github.com/envoyproxy/envoy
+
+wasmtime/docs/WASI-tutorial.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/docs/WASI-tutorial.md
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+is:open - Chromium
+https://issues.chromium.org/issues?q=is:open
+
+Panagiotis Astithas
+https://astithas.com/
+
+Using Firefox to debug web apps on any device
+https://astithas.com/talks/fosdem2015/index.html#/11
+
+JSConf.eu 2015 - Valence - Google 幻灯片
+https://docs.google.com/presentation/d/1iupwcPNaN3JqsNROmhWAZOaGdHUCFDSNODQCK8rRxUY/pub?start=false&loop=false&delayms=3000&slide=id.ge16ff22ad_0_9
+
+fgmccabe (Francis McCabe)
+https://github.com/fgmccabe
+
+Firefox DevTools User Docs — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools-user/
+
+c++ - Error "undefined reference to 'std::cout'" - Stack Overflow
+https://stackoverflow.com/questions/28236870/error-undefined-reference-to-stdcout
+
+Sam Altman
+https://blog.samaltman.com/?page=11
+
+Arm三天涨超90% 母公司软银股价创两年半新高 孙正义财富激增53亿美元- CFi.CN 中财网
+https://stock.cfi.cn/p20240214000019.html
+
+arm nasdaq - Google 搜索
+https://www.google.com/search?q=arm+nasdaq&sca_esv=20512a2fd83683ee&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-s6o4ddxyVawD7dTcCbacJt_0YcA%3A1707876303460&ei=zx_MZabaG7_h4-EPuMmbgAg&ved=0ahUKEwjm_YyD36mEAxW_8DgGHbjkBoAQ4dUDCBE&uact=5&oq=arm+nasdaq&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmFybSBuYXNkYXFIoAJQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEE&sclient=gws-wiz-serp#ip=1
+
+Investor Relations – Arm®
+https://investors.arm.com/
+
+nasdaq 一次买多少 - Google 搜索
+https://www.google.com/search?q=nasdaq+%E4%B8%80%E6%AC%A1%E4%B9%B0%E5%A4%9A%E5%B0%91&rlz=1C1GCEA_enJP1090JP1090&oq=nasdaq+%E4%B8%80%E6%AC%A1&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigAdIBCTIzMjkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+(3 封私信 / 80 条消息) 富途证券类似的互联网证券公司安全吗？ - 知乎
+https://www.zhihu.com/question/30660126
+
+YouTube
+https://www.youtube.com/
+
+富途牛牛官网-港股行情_美股行情_A股行情
+https://www.futunn.com/
+
+Arm Holdings - Wikipedia
+https://en.wikipedia.org/wiki/Arm_Holdings
+
+Arm Product Filter – Arm®
+https://www.arm.com/product-filter?families=cortex-a&showall=true
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E8%B4%A2%E6%8A%A5&op=translate
+
+Quarterly Results – Arm®
+https://investors.arm.com/financials/quarterly-annual-results
+
+187d293b-42eb-48b0-b82f-e78bce4da9e4
+https://investors.arm.com/static-files/187d293b-42eb-48b0-b82f-e78bce4da9e4
+
+Nvidia and AMD plan to launch Arm PC chips as soon as 2025, Reuters reports - The Verge
+https://www.theverge.com/2023/10/23/23929240/nvidia-amd-cpu-arm-pc-chips-2025-release-rumors
+
+apple vision pro arm chip - Google 搜索
+https://www.google.com/search?q=apple+vision+pro+arm+chip&sca_esv=20512a2fd83683ee&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_ghCnfgJQHgnqO4pc6Tt96k_GMdQ%3A1707882803694&ei=MznMZYX-KbWVseMP1diduAk&ved=0ahUKEwjF49Oe96mEAxW1SmwGHVVsB5cQ4dUDCBA&uact=5&oq=apple+vision+pro+arm+chip&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWFwcGxlIHZpc2lvbiBwcm8gYXJtIGNoaXAyBRAhGKABMgUQIRigATIFECEYoAFI2wdQRViDBnABeAGQAQCYAcwCoAH3CaoBAzMtNLgBA8gBAPgBAcICChAAGEcY1gQYsAPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/
+
+• Discord | 好友
+https://discord.com/channels/@me
+
+富途牛牛 大陆开户 - Google 搜索
+https://www.google.com/search?q=%E5%AF%8C%E9%80%94%E7%89%9B%E7%89%9B+%E5%A4%A7%E9%99%86%E5%BC%80%E6%88%B7&sca_esv=20512a2fd83683ee&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_o0vzX9VaZ6L0WEfHiiYaKEry8Bg%3A1707885029346&ei=5UHMZcHZFNSO4-EP-v-FuA0&ved=0ahUKEwiB4PbD_6mEAxVUxzgGHfp_AdcQ4dUDCBA&uact=5&oq=%E5%AF%8C%E9%80%94%E7%89%9B%E7%89%9B+%E5%A4%A7%E9%99%86%E5%BC%80%E6%88%B7&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeWvjOmAlOeJm-eJmyDlpKfpmYblvIDmiLcyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIyw9Q0AZYjw5wAXgBkAEAmAHOAqAB4Q6qAQMzLTa4AQPIAQD4AQHiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+#general > ✔ Missing issue - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Missing.20issue
+
+Ask HN: Where is the ARM desktop PC? | Hacker News
+https://news.ycombinator.com/item?id=33161158
+
+詹睿妮 - Google 搜索
+https://www.google.com/search?sca_esv=sca_esv_fallback&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_V_IuF5MSQErSPz5G17i1wzEM-yg:1707887936651&q=%E8%A9%B9%E7%9D%BF%E5%A6%AE&si=AKbGX_qWtsfHufXsq_1jeDkJp50FstNngDxsch3EVTUjn7imcOyaFg1hCDrpyAHimALe5vjWCQttj9bNHe43w1bbJ2rHH_oinIbHHJL4w6DH3DI8FJWfbseakJsibzmXJJA32zd6aKg0JiwLd_kRPfh9QP_dFa6Pg2L6gLQFaengnQrymLEwO-oO1KFs33e8MsbNjY5sOEYT9dGuRz7Bt6PfVj4Jkja6dA%3D%3D&sa=X&ved=2ahUKEwi4y56uiqqEAxVs8zgGHX3oCGAQmxMoAXoECFQQAw&biw=1536&bih=738&dpr=1.25#ip=1
+
+鲲鹏920芯片 | 海思官网
+https://www.hisilicon.com/cn/products/kunpeng/huawei-kunpeng/huawei-kunpeng-920
+
+X 上的 Manuel Rego：“CSS Grid Layout is just around the corner! @CSSConf video highlighting @Bloomberg &amp; @igalia collaboration results https://t.co/cVjRtohiMl” / X
+https://twitter.com/regocas/status/614092524387368960
+
 # 2024-2-13
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
