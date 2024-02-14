@@ -1,5 +1,19 @@
 # 2024-2-14 | 
 
+https://github.com/gregjopa
+
+https://github.com/gregjopa/piano-flash-cards.git
+
+https://vexflow.com/
+
+https://archive.org/details/SalamanderGrandPianoV3
+
+codesandbox
+
+https://investor.nvidia.com/financial-info/financial-reports/
+
+https://www.intc.com/financial-info/financial-results
+
 https://investors.arm.com/financials/quarterly-annual-results
 
 # 2024-2-13 | 

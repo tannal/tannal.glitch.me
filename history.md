@@ -3,6 +3,150 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Issues · Anduin2017/HowToCook
+https://github.com/Anduin2017/HowToCook/issues
+
+(1) DesignCourse - Advanced Frontends by Gary Simon - TutFlix - Free Education Community
+https://tutflix.org/resources/designcourse-advanced-frontends-by-gary-simon.10462/
+
+af-project-files/4 - Text Effects/1 - splitType/After/index.html at main · designcourse/af-project-files
+https://github.com/designcourse/af-project-files/blob/main/4%20-%20Text%20Effects/1%20-%20splitType/After/index.html
+
+(1) [Ebook] learnk8s - Kubernetes courses - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-learnk8s-kubernetes-courses.10565/
+
+MEGA
+https://mega.nz/start
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+Github Pages deployment not up to date · Issue #132 · 11ty/eleventy-base-blog
+https://github.com/11ty/eleventy-base-blog/issues/132
+
+11ty/eleventy-base-blog at gh-pages
+https://github.com/11ty/eleventy-base-blog/tree/gh-pages
+
+Random thoughts
+https://tannal.github.io/blog/
+
+How do you host an 11ty site on GitHub pages? · 11ty/eleventy · Discussion #1455
+https://github.com/11ty/eleventy/discussions/1455
+
+Eleventy and Github pages
+https://www.linkedin.com/pulse/eleventy-github-pages-lea-tortay/
+
+.nojekyll - Google 搜索
+https://www.google.com/search?q=.nojekyll&oq=.nojekyll&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIICAYQABgFGB4yBggHEEUYPNIBBzIyN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Bypassing Jekyll on GitHub Pages - The GitHub Blog
+https://github.blog/2009-12-29-bypassing-jekyll-on-github-pages/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Ubuntu+QEMU+Xv6环境搭建 - AlexAlex - 博客园
+https://www.cnblogs.com/wanpengcoder/p/11768500.html
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Introducing local register allocation for the tier-1 JIT compiler by qwe661234 · Pull Request #341 · sysprog21/rv32emu
+https://github.com/sysprog21/rv32emu/pull/341?fbclid=IwAR3o1Dry4VZsZjGyNVyXsgmE9gsrvHknc4YKRDcbTzKwQn-q0ZEdh0tLw04
+
+Building a baseline JIT for Lua automatically |
+https://sillycross.github.io/2023/05/12/2023-05-12/?fbclid=IwAR3C16n53gutQcNvlsYQ3B55lbgZaqxqtGllPw2OUz9ttV5KAN-ztyKQ5ww
+
+GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://github.com/python/cpython/pull/113465?fbclid=IwAR0svfw8x9JcNHrCpu5xHhF2QD5QPsrkwfDWjQKaDi2PxSwiiBwjtlT3OfE
+
+https://www.youtube.com/watch?v=HxSHIpEQRjs&feature=youtu.be
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DHxSHIpEQRjs%26feature%3Dyoutu.be&q=EhAkAIkBAAAAAPA8lP_-hkO6GIajsa4GIjA4Ohz0ISJ7SSv3KJ1u7bCGSr6z6fcHmlUvkd2877tLwKoJ2_W04oqDRneba_LevhwyAXJaAUM
+
+Python 3.13 gets a JIT
+https://tonybaloney.github.io/posts/python-gets-a-jit.html?fbclid=IwAR2BD74nVQ8QDa8IAKH0MikAPoTWyZMkNekyzS-onv8eSdSu1Nv31Cps4fY
+
+GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://github.com/python/cpython/pull/113465?fbclid=IwAR0svfw8x9JcNHrCpu5xHhF2QD5QPsrkwfDWjQKaDi2PxSwiiBwjtlT3OfE
+
+eclipse-threadx/threadx: Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+https://github.com/eclipse-threadx/threadx
+
+Willian Lamie - Google 搜索
+https://www.google.com/search?q=Willian+Lamie&oq=Willian+Lamie&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Understanding Garbage Collection in JavaScriptCore From Scratch | WebKit
+https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/
+
+Building a baseline JIT for Lua automatically |
+https://sillycross.github.io/2023/05/12/2023-05-12/
+
+Manuel Rego (@regocas) / X
+https://twitter.com/regocas
+
+FOSDEM 2024 - Embedding Servo in Rust projects
+https://fosdem.org/2024/schedule/event/fosdem-2024-2321-embedding-servo-in-rust-projects/
+
+Weird things engineers believe about Web development - Brian Birtles’ Blog
+https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/
+
+在您管理的 Facebook 小组中管理垃圾信息 | Facebook 帮助中心
+https://www.facebook.com/help/938172370267447?helpref=faq_content
+
+Rakhi (@atbrakhi) / X
+https://twitter.com/atbrakhi
+
+Personal website
+https://atbrakhi.com/
+
+Programming (music) - Wikipedia
+https://en.wikipedia.org/wiki/Programming_(music)
+
+LC programming language - Google 搜索
+https://www.google.com/search?q=LC+programming+language&oq=LC+programming+language&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMzk2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Web Audio API 使用入门  |  Articles  |  web.dev
+https://web.dev/articles/webaudio-intro?hl=zh-cn
+
+Welcome | Boris Smus
+https://smus.com/
+
+serene-diffie-n5jfzz - CodeSandbox
+https://codesandbox.io/p/sandbox/serene-diffie-n5jfzz?file=%2Fmain.js%3A26%2C44
+
+HTML + CSS
+https://n5jfzz.csb.app/
+
+Playing Piano Sounds with the Web Audio API | Greg Jopa
+https://www.gregjopa.com/2023/03/piano-sounds-with-web-audio-api
+
+gregjopa/piano-flash-cards: Music note flash cards for learning piano
+https://github.com/gregjopa/piano-flash-cards/tree/main
+
+gregjopa (Greg Jopa)
+https://github.com/gregjopa
+
+Salamander Grand Piano V3 : Alexander Holm : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/SalamanderGrandPianoV3
+
+VexFlow - HTML5 Music Engraving
+https://vexflow.com/
+
+0xfe (Mohit Cheppudira)
+https://github.com/0xfe
+
+ChatGPT
+https://chat.openai.com/c/73dbae2e-a97e-4180-8a6e-05d7693c2547
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Codetribute
 https://codetribute.mozilla.org/projects/devtools?project%3DConsole
 
