@@ -1,5 +1,11 @@
 # inbox
 
+https://astithas.com/
+
+https://github.com/fgmccabe
+
+https://twitter.com/evacchi wasmzero
+
 https://llvm.org/devmtg/2007-05/
 
 https://extensiblewebmanifesto.org/

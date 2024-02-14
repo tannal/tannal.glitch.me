@@ -1,4 +1,13 @@
 
+# startup
+
+https://www.fermyon.com/
+
+https://github.com/envoyproxy/envoy
+
+Tetrate
+
+Fastly
 
 # Linux Foundation Mentorship
 

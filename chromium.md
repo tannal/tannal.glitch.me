@@ -1,5 +1,13 @@
 # inbox
 
+https://issues.chromium.org/issues?q=is:open
+
+WebAssembly WebGPU
+
+WasmGC Wasm Multimemory
+
+Clipboard API
+
 https://www.theverge.com/
 
 max redirect limit in chromium is 20 net::URLRequest::kMaxRedirects;

@@ -1,7 +1,16 @@
+# 2024-2-14 | 
+
+
 # 2024-2-13 | 
 
-I still should try weird things courageously.
 
+start .
+
+https://github.com/julioromano/skeleton-android
+
+interface vs implementation
+
+I still should try weird things courageously.
 
 # 2024-2-12 | 
 
@@ -16,8 +25,6 @@ git config --global alias.bb !better-branch.sh
 # 2024-2-10 | 
 
 you need to initialise a window before you can load a texture (OpenGL needs a current context!)
-
-winget install --id=SoftwareFreedomConservancy.QEMU  -e
 
 ```bash
 

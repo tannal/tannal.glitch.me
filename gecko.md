@@ -37,6 +37,7 @@ python3 bootstrap.py
 
 cd mozilla-unified
 hg up -C central
+
 ./mach build
 
 ./mach ide vscode
@@ -74,6 +75,5 @@ https://chat.mozilla.org/#/room/#introduction:mozilla.org
 https://codetribute.mozilla.org/projects/devtools
 
 # reference
-
 
 https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
