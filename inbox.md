@@ -1,5 +1,13 @@
 # 2024-2-15 | 
 
+https://github.com/thaytan/gst-tutorial-lca2018
+
+Perfetto
+
+https://fluendo.talentclue.com/en/node/102174096/4590
+
+https://fluendo.com/en/careers/#jobs
+
 
 https://github.com/lpinca
 

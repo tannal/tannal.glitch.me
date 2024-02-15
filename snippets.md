@@ -1,6 +1,7 @@
 # Automatic Diffe
 
 ```go
+
 package main
 
 import (
