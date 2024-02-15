@@ -1,5 +1,7 @@
 # 2024-2-15 | 
 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/
+
 https://syzkaller.appspot.com./upstream
 https://github.com/thaytan/gst-tutorial-lca2018
 

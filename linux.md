@@ -223,6 +223,7 @@ qemu-system-x86_64 \
 
 
 qemu-img create -f qcow2 mydisk.img 20G
+qemu-img create -f qcow2 mydisk.img 10G
 
 
 qemu-system-x86_64 \
@@ -796,6 +797,7 @@ sudo rm /usr/bin/ld
 sudo ln -s x86_64-linux-gnu-ld /usr/bin/ld
 
 
+../configure --prefix=`pwd`/GLIBC
 ../configure --prefix=
 
 make -j20
@@ -824,6 +826,8 @@ cp -r GLIBC/lib/* sysroot/lib/
 
 mkdir sysroot/usr
 rsync -a /usr/include sysroot
+
+sudo apt-get install rsync
 
 ln -s ../include sysroot/usr/include
 ln -s ../lib sysroot/usr/lib
@@ -856,6 +860,8 @@ cp -r sysroot/* root/
 
 rsync -a busybox-1_36_1/BUSYBOX/ root
 # rsync -a busybox-1_36_1/_install/ root
+
+rsync -a busybox-1.35.0/_install/ root
 
 cd root
 vim usr/bin/ldd
