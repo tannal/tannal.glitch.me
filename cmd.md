@@ -1,3 +1,6 @@
+# list all usb devices
+
+wmic path Win32_USBControllerDevice get Dependent
 
 # Software install
 

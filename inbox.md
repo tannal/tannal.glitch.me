@@ -1,6 +1,12 @@
 # 2024-2-15 | 
 
+https://syzkaller.appspot.com./upstream
 https://github.com/thaytan/gst-tutorial-lca2018
+
+gcc [0] has a list of maintainers, which features a lot of redhat email addresses. The ruby maintainer is employed by Heroku. CPython is maintained by a RH employee. The linux kernel is mostly comprised of people paid to develop by their employers.
+
+https://www.fermyon.com/
+
 
 Perfetto
 
