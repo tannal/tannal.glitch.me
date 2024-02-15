@@ -3,6 +3,180 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+CMU 15-445/645 Database Systems (Fall 2023) :: Join Algorithms
+https://15445.courses.cs.cmu.edu/fall2023/slides/11-joins.pdf
+
+Expose `createErrDiff` for diffing objects · Issue #51740 · nodejs/node
+https://github.com/nodejs/node/issues/51740
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20scriptsdecode_stacktrace.sh&sort=byPopularity&type=story
+
+https://www.youtube.com/watch?v=-h1_DvsOq3s
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D-h1_DvsOq3s&q=EhAkAIkBAAAAAPA8lP_-hkO6GKigt64GIjCR9bCF-Sh9HaaDVhPOQRS2TTdwQfYCwJIHiPuBUl6JqXVdj7EJ73kutlkjuShiutYyAXJaAUM
+
+Linux Kernel Selftests — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v5.11/dev-tools/kselftest.html
+
+How Go taught me to love building apps again - Andrew Williams - YouTube
+https://www.youtube.com/watch?v=8s44rtTJsrs
+
+Ampere arm 知乎 - Google 搜索
+https://www.google.com/search?q=Ampere+arm+%E7%9F%A5%E4%B9%8E&sca_esv=sca_esv_fallback&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09I-En8rcbBH6S2y7OqxRBV3nGlBA%3A1707890987094&ei=K1nMZbKiBZmC4-EP3ceMkAQ&ved=0ahUKEwjy4-bclaqEAxUZwTgGHd0jA0IQ4dUDCBE&uact=5&oq=Ampere+arm+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUFtcGVyZSBhcm0g55-l5LmOSPAPUJcLWNgOcAN4AJABAJgB1gKgAdIHqgEDMy0zuAEDyAEA-AEB4gMEGAEgQYgGAQ&sclient=gws-wiz-serp
+
+WebIDL: Use Uint8ClampedArray instead of raw JSObject in bindings by Taym95 · Pull Request #31317 · servo/servo
+https://github.com/servo/servo/pull/31317/files
+
+Open Tide
+https://open-tide.com/
+
+Simeon Yordanov Grancharov - Google 搜索
+https://www.google.com/search?q=Simeon+Yordanov+Grancharov&rlz=1C1GCEA_enJP1090JP1090&oq=Simeon+Yordanov+Grancharov&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMjY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Golang Redis client
+https://redis.uptrace.dev/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+hax0kartik (Kartik) / January 2024
+https://github.com/hax0kartik?tab=overview&from=2024-01-01&to=2024-01-31
+
+redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/redis
+
+Install Redis from Source | Redis
+https://redis.io/docs/install/install-redis/install-redis-from-source/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=inner%20relation&sort=byPopularity&type=story
+
+tatiyants.com Postgres Query Plan Visualization - tatiyants.com
+http://tatiyants.com/postgres-query-plan-visualization/
+
+What’s new in the Postgres 16 query planner / optimizer
+https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/
+
+Citus Data
+https://github.com/citusdata
+
+Demystifying JOIN Algorithms
+https://felipe.rs/2019/01/29/demystifying-join-algorithms/
+
+Runtime Checks
+https://felipe.rs/
+
+Join Voltron Data | Voltron Data
+https://voltrondata.com/careers
+
+Job Application for Senior C++ Storage Engineer at Voltron Data
+https://boards.greenhouse.io/voltrondata/jobs/4002909006
+
+apache/arrow: Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+https://github.com/apache/arrow
+
+Query Plan Execution Summary
+https://chat.openai.com/c/521dc5ac-abd2-4514-a2dd-be2f3dc8870f
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1MpzFIHxFM6fmyS84lepFCw3M15fmLBxuAjf47IR1kwM/edit
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/14jpcJQCobVNHD-eu4MqEnzbIWl8x9Wiw2t4P6c1GJz8/edit
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20hashjoin.h&type=code
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Demystifying JOIN Algorithms
+https://felipe.rs/2019/01/29/demystifying-join-algorithms/
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+lkmp [Wiki]
+https://wiki.linuxfoundation.org/lkmp
+
+Jihyung Song menter - Google 搜索
+https://www.google.com/search?q=Jihyung+Song+menter&sca_esv=f685e4e4fadb486b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn085J5SnAZuR5laaPRY15rISvTOvxw%3A1707963551590&ei=n3TNZerFI6CWseMP1IW7iAc&ved=0ahUKEwiqkaCGpKyEAxUgS2wGHdTCDnEQ4dUDCBA&uact=5&oq=Jihyung+Song+menter&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0ppaHl1bmcgU29uZyBtZW50ZXIyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIyyFQ7gRYiB9wAXgAkAEBmAGVBKABhQyqAQkwLjUuMS41LTG4AQPIAQD4AQHCAgwQABiABBgNGBMYsAPCAgsQABgeGA0YExiwA8ICDRAAGAgYHhgNGBMYsAPCAgYQABgeGA3CAggQABgeGA0YCsICCBAAGAgYHhgNwgIGEAAYCBgeiAYBkAYE&sclient=gws-wiz-serp
+
+Web Editor
+https://chromewebstore.google.com/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm?pli=1
+
+mozilla 2020 layoff - Google 搜索
+https://www.google.com/search?q=mozilla+2020+layoff&rlz=1C1GCEA_enJP1090JP1090&oq=mozilla+2020+&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIICAAQRRgeGDkyCAgBEAAYCBgeMggIAhAAGAgYHjIGCAMQRRg7MgYIBBBFGDzSAQg1NDM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=layoff&sort=byPopularity&type=story
+
+Mozilla layoff again today : firefox
+https://old.reddit.com/r/firefox/comments/1apzkxg/mozilla_layoff_again_today/
+
+Submissions from techcrunch.com | Hacker News
+https://news.ycombinator.com/from?site=techcrunch.com
+
+steveklabnik (Steve Klabnik)
+https://github.com/steveklabnik
+
+X 上的 Till Schneidereit：“Much of the team I used to manage was part of the Mozilla layoffs on Tuesday. That team was Mozilla's Rust team, and Mozilla's Wasmtime team. I thought I'd know how to talk about it by now, but I don't. It's heartbreaking, incomprehensible, and staggering in its impact.” / X
+https://twitter.com/tschneidereit/status/1293868141953667074
+
+WebAssembly/wasi-sdk: WASI-enabled WebAssembly C/C++ toolchain
+https://github.com/WebAssembly/wasi-sdk
+
+Fermyon • Experience the next wave of cloud computing.
+https://www.fermyon.com/
+
+Job Listings at Red Hat
+https://careers-redhat.icims.com/jobs/search?pr=1&schemaId=&o=
+
+Andrew Williams golang - Google 搜索
+https://www.google.com/search?q=Andrew+Williams+golang&sca_esv=6f385edbb76f958f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-ozJKmkeC8N54-2LCWKTWAy2wORw%3A1707965734793&ei=Jn3NZazvL_CRseMPyYuD6Ak&ved=0ahUKEwismqSXrKyEAxXwSGwGHcnFAJ0Q4dUDCBA&uact=5&oq=Andrew+Williams+golang&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkFuZHJldyBXaWxsaWFtcyBnb2xhbmdIhgVQmAFYlwRwAXgAkAEAmAHiAqABwQWqAQMzLTK4AQPIAQD4AQHCAgsQABiABBjLARiwA8ICBxAAGB4YsAPCAgkQABgIGB4YsAPCAgQQABgewgIGEAAYCBgeiAYBkAYK&sclient=gws-wiz-serp
+
+fyne/go.mod at master · fyne-io/fyne
+https://github.com/fyne-io/fyne/blob/master/go.mod
+
+Dominik Honnef
+https://honnef.co/
+
+(3 封私信 / 80 条消息) 中国人如何炒美股，开户攻略？ - 知乎
+https://www.zhihu.com/question/36837406
+
+Apache Arrow简介 - 知乎
+https://zhuanlan.zhihu.com/p/339132159
+
+apache guacamole 使用 - Google 搜索
+https://www.google.com/search?q=apache+guacamole+%E4%BD%BF%E7%94%A8&rlz=1C1GCEA_enJP1090JP1090&oq=apache+gua&gs_lcrp=EgZjaHJvbWUqBwgGEAAYgAQyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgcIAxAAGIAEMgkIBBAAGAwYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTEwMDU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+apache nifi - Google 搜索
+https://www.google.com/search?q=apache+nifi&sca_esv=e97242b43092e88d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn090mVWwrZtbAymhrSfUgcbVf5stMQ%3A1707982910935&ei=PsDNZfTbOIKM4-EP8uu6mAE&ved=0ahUKEwj08sCV7KyEAxUCxjgGHfK1DhMQ4dUDCBA&uact=5&oq=apache+nifi&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2FwYWNoZSBuaWZpMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUi7PVDyBVi-O3ABeAGQAQCYAYkDoAGTC6oBAzMtNLgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgoQIxiABBiKBRgnwgIEECMYJ8ICChAAGIAEGIoFGEPiAwQYACBBiAYBkAYK&sclient=gws-wiz-serp
+
+lspci命令详解 - 马昌伟 - 博客园
+https://www.cnblogs.com/machangwei-8/p/10403495.html
+
+syzbot
+https://syzkaller.appspot.com./upstream/manager/ci-qemu-upstream
+
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+debugging - How to use decode_stacktrace.sh? - Stack Overflow
+https://stackoverflow.com/questions/72725315/how-to-use-decode-stacktrace-sh
+
+www.google.com
+https://www.google.com/search?q=Thibault+Saunier&rlz=1C1GCEA_enJP1090JP1090&oq=Thibault+Saunier&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkwMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Piano Flash Cards
 http://localhost:5173/piano-flash-cards
 
