@@ -1,4 +1,18 @@
+# 2024-2-15 | 
+
+src/include/executor/hashjoin.h query execution
+
+Nested Loop Join sort-merge hash join
+
+https://www.citusdata.com/jobs microsoft
+
+https://github.com/apache/arrow
+
+https://github.com/citusdata/citus
+
 # 2024-2-14 | 
+
+cmake -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DENABLE_EXAMPLES=ON '&&' ninja -v
 
 https://github.com/gregjopa
 

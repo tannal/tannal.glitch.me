@@ -12,6 +12,8 @@ https://extensiblewebmanifesto.org/
 
 https://infrequently.org/
 
+https://felipe.rs/
+
 
 
 ## from 2024-1-7

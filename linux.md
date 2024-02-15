@@ -1,6 +1,19 @@
 
 # inbox
 
+
+kernel selftests
+
+```bash
+
+make -C tools/testing/selftests
+
+make -C tools/testing/selftests run_tests
+
+make kselftest
+
+```
+
 ```c
 printk(KERN_INFO "Dumping call stack:\n");
 dump_stack();
