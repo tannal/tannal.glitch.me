@@ -3,6 +3,87 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Piano Flash Cards
+http://localhost:5173/piano-flash-cards
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Releases · mstorsjo/llvm-mingw
+https://github.com/mstorsjo/llvm-mingw/releases
+
+GNonlin - Google 搜索
+https://www.google.com/search?q=GNonlin&oq=GNonlin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgoIAhAAGAoYExgeMgoIAxAAGAoYExgeMgwIBBAAGAoYDxgTGB4yBggFEAUYLDIGCAYQBRgsMggIBxAFGAoYLNIBCTE0NTMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+Collabora - Mesa/Graphics Software Developer (Remote/Anywhere)
+https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c
+
+Fluendo - Careers
+https://fluendo.com/en/careers/#jobs
+
+Multimedia Engineer (GStreamer)
+https://fluendo.talentclue.com/en/node/102174096/4590
+
+Careers | Pexip
+https://www.pexip.com/careers
+
+BambooHR
+https://pexip.bamboohr.com/careers/437
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=freedesktop.org&sort=byPopularity&type=story
+
+Freedesktop.org: its past and its future [LWN.net]
+https://lwn.net/Articles/767258/
+
+浏览群组 · GitLab
+https://gitlab.freedesktop.org/explore/groups
+
+GStreamer系列 - 基本介绍 - John.Leng - 博客园
+https://www.cnblogs.com/xleng/p/10948838.html
+
+GStreamer基础教程05 - 播放时间控制 - John.Leng - 博客园
+https://www.cnblogs.com/xleng/p/11239667.html
+
+Android 系统使用 Perfetto 抓取 trace 教程 - 知乎
+https://zhuanlan.zhihu.com/p/508526020
+
+google/perfetto: Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+https://github.com/google/perfetto
+
+pygame - Google 搜索
+https://www.google.com/search?q=pygame&oq=pygame&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgkIARAAGAwYgAQyCQgCEAAYDBiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgMGIAEMgwIBxAAGEMYgAQYigUyDAgIEAAYQxiABBiKBTIJCAkQABgMGIAEqAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+gstreamer - Google 搜索
+https://www.google.com/search?sca_esv=f33756533c234e6e&sxsrf=ACQVn08zKVG6M9i1f4JSLFwVL3opl6aYZQ:1707989741257&q=gstreamer&tbm=vid&source=lnms&sa=X&ved=2ahUKEwjp0brOha2EAxUR4TgGHd9TAdEQ0pQJegQIFBAB&biw=1280&bih=593&dpr=1.5
+
+Using GStreamer - YouTube
+https://www.youtube.com/watch?v=ZphadMGufY8
+
+Jan Schmidt - Google 搜索
+https://www.google.com/search?q=Jan+Schmidt&oq=Jan+Schmidt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzcwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+thaytan/gst-tutorial-lca2018: LCA2018 GStreamer tutorial
+https://github.com/thaytan/gst-tutorial-lca2018
+
+thaytan (Jan Schmidt)
+https://github.com/thaytan
+
+gregjopa (gregjopa) / Repositories
+https://github.com/gregjopa?tab=repositories
+
+go-gst/go-gst: Gstreamer bindings and utilities for golang
+https://github.com/go-gst/go-gst
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 redis/src/commands/set.json at c1d2ac2a733b87458697ff85d3ca396a28a0d56a · redis/redis
 https://github.com/redis/redis/blob/c1d2ac2a733b87458697ff85d3ca396a28a0d56a/src/commands/set.json#L8
 
