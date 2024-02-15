@@ -1,3 +1,116 @@
+# 2024-2-15
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Piano Flash Cards
+http://localhost:5173/piano-flash-cards
+
+cmd.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Courses in Computer Science and Engineering | Paul G. Allen School of Computer Science & Engineering
+https://www.cs.washington.edu/education/courses/
+
+CSE 521 Design and Analysis of Algorithms I
+https://courses.cs.washington.edu/courses/cse521/23au/
+
+CSE 544: Principles of Data Management
+https://courses.cs.washington.edu/courses/cse544/24wi/
+
+CSE 352
+https://courses.cs.washington.edu/courses/cse352/15sp/
+
+dslabs · GitLab
+https://gitlab.cs.washington.edu/csep552-24wi/dslabs
+
+Web Page for CSE501 wi19
+https://docs.google.com/document/u/1/d/e/2PACX-1vTPc9EKdR9oTSOjbcB5jtMEK5iWTlW-mxS-Wnwq_3B3fJc-sy-B7SyLMC_NmWiICERPOVto14PhONN-/pub#h.770ofu5g2swp
+
+p2-rompf.pdf
+https://www.dropbox.com/s/3pc3hhd79l101pf/p2-rompf.pdf?e=1&dl=0
+
+Prob_Stat_for_CS_Book.pdf
+https://www.alextsun.com/files/Prob_Stat_for_CS_Book.pdf#section*.3
+
+[Probability] 1.1 So You Think You Can Count? - Google 幻灯片
+https://docs.google.com/presentation/d/1zM5VytJwr30_Y0GHuuqxXACuqXpRyCrwHxhFOhr5nNU/edit#slide=id.g8189cfd6e4_0_2172
+
+Resources
+https://tutflix.org/resources/
+
+string - How to check if character is a letter in Javascript? - Stack Overflow
+https://stackoverflow.com/questions/9862761/how-to-check-if-character-is-a-letter-in-javascript
+
+Element: keydown event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event
+
+scripting - How can I add a keyboard shortcut to an existing JavaScript Function? - Stack Overflow
+https://stackoverflow.com/questions/2511388/how-can-i-add-a-keyboard-shortcut-to-an-existing-javascript-function
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+HN Search | Settings
+https://hn.algolia.com/settings
+
+Let’s implement a Bloom Filter | Extremely random blog posts from Onat
+https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
+
+distrentic/plum: A standard Bloom Filter implementation
+https://github.com/distrentic/plum
+
+Burton Howard Bloom - Google 搜索
+https://www.google.com/search?q=+Burton+Howard+Bloom&sca_esv=e9f20963bd783d14&sxsrf=ACQVn08L6ogm8zrKh7ez6O_fcCsCeF1Pog%3A1707971923943&ei=U5XNZZGROYeeseMPvZSq4Ag&ved=0ahUKEwjRhsCew6yEAxUHT2wGHT2KCowQ4dUDCBA&uact=5&oq=+Burton+Howard+Bloom&gs_lp=Egxnd3Mtd2l6LXNlcnAiFCBCdXJ0b24gSG93YXJkIEJsb29tSPkBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQE&sclient=gws-wiz-serp
+
+Lecture-11-bloom-filters-A.pdf
+https://courses.cs.washington.edu/courses/cse312/22sp/slides/Lecture-11-bloom-filters-A.pdf
+
+tannal (tannal)
+https://github.com/tannal/
+
+UW Computer Sciences User Pages
+https://pages.cs.wisc.edu/
+
+grace hash join - Google 搜索
+https://www.google.com/search?q=grace+hash+join&oq=grace+hash+join&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgFGB4yCAgFEAAYBRge0gEINDk5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+04-automatic-differentiation.pdf
+https://mlsyscourse.org/slides/04-automatic-differentiation.pdf
+
+Mojang
+https://github.com/Mojang
+
+UCB CS Course List
+https://chat.openai.com/c/6218c2cd-d7d9-49b9-b19b-e4255c3dc1ad
+
+CS 330 Deep Multi-Task and Meta Learning
+https://cs330.stanford.edu/
+
+arm nasdaq - Google 搜索
+https://www.google.com/search?q=arm+nasdaq&oq=arm+nas&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEqAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=volcano%20model&sort=byPopularity&type=story
+
+Probabilistic reasoning site: cmu.edu - Google 搜索
+https://www.google.com/search?q=Probabilistic+reasoning+site%3A+cmu.edu&sca_esv=494ad8d51e49c0bb&sxsrf=ACQVn09c0Skhf4yxWqTJC5KZHte_BkjaAw%3A1707975392410&ei=4KLNZYTTGImX4-EP9oSJkAE&ved=0ahUKEwiEw7KU0KyEAxWJyzgGHXZCAhIQ4dUDCBA&uact=5&oq=Probabilistic+reasoning+site%3A+cmu.edu&gs_lp=Egxnd3Mtd2l6LXNlcnAiJVByb2JhYmlsaXN0aWMgcmVhc29uaW5nIHNpdGU6IGNtdS5lZHUyBRAhGKABSOYgUOMFWPMecAF4AJABAJgBzQOgAeEmqgEFMy04LjW4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIIEC4YywEYgATCAggQABiABBjLAcICFxAuGMsBGIAEGJcFGNwEGN4EGOAE2AEBwgIGEAAYHhgPwgIGEAAYCBgewgIGEAAYBRgewgIIEAAYBRgeGA_iAwQYACBBiAYBkAYKugYGCAEQARgU&sclient=gws-wiz-serp
+
+Prof. James F. O'Brien
+https://people.eecs.berkeley.edu/~job/
+
+James F. O'Brien - Publications - U.C. Berkeley Computer Graphics Research
+http://graphics.berkeley.edu/people/jObrien-publications.html
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
 # 2024-2-14
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

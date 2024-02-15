@@ -1,6 +1,7 @@
 
 # Software install
 
+winget install -e --id GoLang.Go.1.22
 winget install --id=SoftwareFreedomConservancy.QEMU  -e
 winget install -e --id Rustlang.Rustup
 winget install -e --id TorProject.TorBrowser

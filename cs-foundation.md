@@ -1,5 +1,7 @@
 # From 2023-09-03
 
+https://www.cs.washington.edu/education/courses/
+
 https://cs.brown.edu/courses/
 
 https://pdos.csail.mit.edu/6.S081/2023/schedule.html

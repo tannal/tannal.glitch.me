@@ -1,5 +1,21 @@
 # 2024-2-15 | 
 
+http://graphics.berkeley.edu/people/jObrien-publications.html
+
+Now you are a cs professor, I give you slides one by one, you expain the point and great idea in it.
+
+ucb cs 169 126 188 162 186 170 182 161 189
+cs 169 
+
+cs 186 database systems
+cs 162 operating systems
+cs 188 intro to AI
+
+
+https://www.cs.cmu.edu/~zhihaoj2/#teaching
+
+https://courses.cs.washington.edu/courses/cse312/22sp/slides/
+
 src/include/executor/hashjoin.h query execution
 
 Nested Loop Join sort-merge hash join
