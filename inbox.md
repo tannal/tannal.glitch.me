@@ -1,5 +1,14 @@
 # 2024-2-15 | 
 
+
+https://github.com/lpinca
+
+https://www.youtube.com/watch?v=aKDWWICgfA0
+
+rust apache eclipse mozilla
+
+apache kafka
+
 http://graphics.berkeley.edu/people/jObrien-publications.html
 
 Now you are a cs professor, I give you slides one by one, you expain the point and great idea in it.

@@ -3,6 +3,57 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+redis/src/commands/set.json at c1d2ac2a733b87458697ff85d3ca396a28a0d56a · redis/redis
+https://github.com/redis/redis/blob/c1d2ac2a733b87458697ff85d3ca396a28a0d56a/src/commands/set.json#L8
+
+rabbitmq/rabbitmq-server: Open source RabbitMQ: core server and tier 1 (built-in) plugins
+https://github.com/rabbitmq/rabbitmq-server
+
+apache/rocketmq: Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+https://github.com/apache/rocketmq
+
+apache/tvm: Open deep learning compiler stack for cpu, gpu and specialized accelerators
+https://github.com/apache/tvm
+
+Code Walkthrough: How the Redis event loop is implemented | CodeCrafters
+https://app.codecrafters.io/walkthroughs/redis-event-loop
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=apache&sort=byPopularity&type=story
+
+Apache Arrow | Apache Arrow
+https://arrow.apache.org/
+
+About Michael
+https://www.michael-noll.com/about/
+
+Gently Down the Stream
+http://www.gentlydownthe.stream/#/3
+
+[meta] embedding · Issue #30593 · servo/servo
+https://github.com/servo/servo/issues/30593
+
+How to Install Apache Kafka on Windows | Hands-on Kafka using CLI - YouTube
+https://www.youtube.com/watch?v=aKDWWICgfA0
+
+Releases · apache/kafka
+https://github.com/apache/kafka/releases
+
+RabbitMQ Crash Course - YouTube
+https://www.youtube.com/watch?v=Cie5v59mrTg
+
+lpinca (Luigi Pinca)
+https://github.com/lpinca
+
+Sign in - Google Accounts
+https://accounts.google.com/v3/signin/challenge/pwd?TL=ADg0xR1urTr4zUCctnyzGmhvcWZJesLTuZ4LYPEeguoe9zSP7_z8m85yge7A21Lo&checkConnection=youtube%3A1128&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S-1241199246%3A1707985499742427&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=ATuJsjy-rl3BeDheNU-EwEY4mfK8ADSYQCK9_zHamMijGos1brkdwlOLzUjHAW9cLS4BWgM64yDAzA&osid=1&pstMsg=1&theme=glif
+
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Piano Flash Cards
 http://localhost:5173/piano-flash-cards
 
