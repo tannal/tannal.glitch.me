@@ -1,3 +1,73 @@
+# Automatic Diffe
+
+```go
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+// Define a struct to hold the value and derivative
+type AD struct {
+	Value, Derivative float64
+}
+
+// Define operations for automatic differentiation
+func (ad AD) Multiply(other AD) AD {
+	return AD{
+		Value:      ad.Value * other.Value,
+		Derivative: ad.Value*other.Derivative + ad.Derivative*other.Value,
+	}
+}
+
+func (ad AD) Add(other AD) AD {
+	return AD{
+		Value:      ad.Value + other.Value,
+		Derivative: ad.Derivative + other.Derivative,
+	}
+}
+
+func (ad AD) Subtract(other AD) AD {
+	return AD{
+		Value:      ad.Value - other.Value,
+		Derivative: ad.Derivative - other.Derivative,
+	}
+}
+
+func Log(ad AD) AD {
+	return AD{
+		Value:      math.Log(ad.Value),
+		Derivative: ad.Derivative / ad.Value,
+	}
+}
+
+func Sin(ad AD) AD {
+	return AD{
+		Value:      math.Sin(ad.Value),
+		Derivative: ad.Derivative * math.Cos(ad.Value),
+	}
+}
+
+func main() {
+	// Initialize x1 and x2 with their values and derivatives
+	// Since we are differentiating with respect to x1, its derivative is 1
+	x1 := AD{Value: 2, Derivative: 1}
+	// x2 is treated as a constant with respect to x1, so its derivative is 0
+	x2 := AD{Value: 5, Derivative: 0}
+
+	// Compute the function and its derivative using the chain rule
+	v3 := Log(x1)
+	v4 := x1.Multiply(x2)
+	v5 := Sin(x2)
+	v6 := v3.Add(v4)
+	v7 := v6.Subtract(v5)
+
+	fmt.Printf("The value of the function is: %.3f\n", v7.Value)
+	fmt.Printf("The derivative of the function with respect to x1 is: %.3f\n", v7.Derivative)
+}
+
+```
 
 # http proxy
 
