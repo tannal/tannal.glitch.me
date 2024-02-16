@@ -1,5 +1,19 @@
 # 2024-2-16 | 
 
+context for coding
+context for thinking
+
+https://www.bilibili.com/video/av89085561?t=121
+
+https://www.youtube.com/watch?v=JLCIzZ1jrx8&t=5m20s
+
+https://www.youtube.com/watch?v=sh6AYvMBERE&&t=32m40s
+
+install debug symbols for bpf user space stack trace
+
+https://askubuntu.com/questions/487222/how-to-install-debug-symbols-for-installed-packages
+
+https://www.gnu-linux.rocks/
 
 https://www.berrange.com/
 

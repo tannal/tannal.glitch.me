@@ -1,3 +1,63 @@
+
+# linux system programming wav file reading
+
+```c
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+ 
+typedef struct WaveHeader{
+    int riff_id;
+    int riff_sz;
+    int riff_fmt;
+    int fmt_id;
+    int fmt_sz;
+    short audio_fmt;
+    short num_chn;
+    int sample_rate;
+    int byte_rate;                                                                                                                                                                                          
+    short block_align;
+    short bits_per_sample;
+    int data_id;
+    int data_sz;
+} WaveHeader;
+ 
+int main(void)
+{
+	FILE *stream;
+	WaveHeader wh;
+ 
+	memset(&wh, 0x00, sizeof(wh));
+ 
+	printf("sizeof(WaveHeader) = %ld.\n", sizeof(WaveHeader));
+ 
+	if((stream=fopen("startup.wav","ro"))==NULL)
+	{
+		fprintf(stderr,"Can not open file.\n");
+		return 0;
+	}
+	printf("open success.\n");
+ 
+	fseek(stream, 0, SEEK_SET);
+ 
+	fread(&wh,1,sizeof(wh),stream);
+ 
+	fclose(stream);
+	
+	printf("riff_id %d,\n" \
+			"riff_size %d\n" \
+			"num_chn %d.\n" \
+			"sample_rate %d.\n" \
+			"byte_rate %d.\n" \
+			"block_align %d.\n" \
+			, wh.riff_id, wh.riff_sz, wh.num_chn, wh.sample_rate, wh.byte_rate, wh.block_align);
+ 
+	return 0;
+}
+
+```
+
 # cuda example
 
 #include <iostream>
