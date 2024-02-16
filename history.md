@@ -1,7 +1,100 @@
 # 2024-2-16
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
 
+✔ VexFlow 2 - JavaScript Music Notation and Guitar Tab
+https://www.vexflow.com/tests/
 
+Issues · 0xfe/vexflow
+https://github.com/0xfe/vexflow/issues
+
+AaronDavidNewman.github.io | CDN site for my projects
+https://aarondavidnewman.github.io/
+
+opensheetmusicdisplay/opensheetmusicdisplay: OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
+https://github.com/opensheetmusicdisplay/opensheetmusicdisplay
+
+deemaagog/piano-blues-maker: An interactive piano blues builder
+https://github.com/deemaagog/piano-blues-maker/tree/master
+
+BandPad
+https://school.menagenet.co.il/
+
+Blues maker
+https://deemaagog.github.io/piano-blues-maker/
+
+Using EasyScore · 0xfe/vexflow Wiki
+https://github.com/0xfe/vexflow/wiki/Using-EasyScore
+
+Code search results
+https://github.com/search?q=repo%3A0xfe%2Fvexflow%20score.voice&type=code
+
+0xfe/vexchords: JavaScript Chord Charts
+https://github.com/0xfe/vexchords
+
+Resources
+https://tutflix.org/resources/
+
+Integrating Vexflow with Gatsby.js | Greg Jopa
+https://www.gregjopa.com/2020/03/integrating-vexflow-with-gatsby-js
+
+ChatGPT
+https://chat.openai.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Piano Flash Cards
+http://localhost:5173/scores.html
+
+tonal - npm
+https://www.npmjs.com/package/tonal
+
+tonaljs
+https://github.com/tonaljs
+
+vexflow npm - Google 搜索
+https://www.google.com/search?q=vexflow+npm&oq=vexflow+npm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=epfl%20course&sort=byPopularity&type=story
+
+404 Not Found
+https://users.encs.concordia.ca/~grogono/CourseNotes/epl.pdf
+
+POCS - Dependable Systems Lab
+https://dslab.epfl.ch/teaching/pocs/
+
+https://www.youtube.com/watch?v=3LVeEjsn8Ts&t=2183s
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D3LVeEjsn8Ts%26t%3D2183s&q=EhAkAIkBAAAAAPA8lP_-hkO6GLvJuK4GIjBsFiVMPNSOxr8ycE1waeeDjYba-z0O5Y8DEmi3JDUwRB91tM0_orrJH2zxxzjCOpgyAXJaAUM
+
+Search | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/search/?q=M.+Frans+Kaashoek
+
+Notice | Moodle
+https://moodle.epfl.ch/course/CS-470
+
+loss-cc.eps
+https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Wischik.pdf
+
+dlc-slides-1-1-from-anns-to-deep-learning.pdf
+https://fleuret.org/dlc/materials/dlc-slides-1-1-from-anns-to-deep-learning.pdf
+
+Publications
+https://www.cl.cam.ac.uk/~djw1005/Research/publications.html
+
+Costin Raiciu's Homepage
+http://nets.cs.pub.ro/~costin/
+
+doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf
+https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf
+
+A New Golden Age for Computer Architecture (2020) [video] | Hacker News
+https://news.ycombinator.com/item?id=31060210
+
+https://www.youtube.com/watch?v=kFT54hO1X8M
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DkFT54hO1X8M&q=EhAkAIkBAAAAAPA8lP_-hkO6GMzKuK4GIjCjBJoleZgRCuiotcOrEN-c5Kaf4edfFGNlNZyT3p5RsmP9StdXkXqGYMKc1klWWCsyAXJaAUM
 
 # 2024-2-15
 
