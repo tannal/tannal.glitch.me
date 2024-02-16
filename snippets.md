@@ -1,3 +1,74 @@
+# cuda example
+
+#include <iostream>
+
+// Kernel definition
+__global__ void matrixAdd(const float* A, const float* B, float* C, int Nx, int Ny) {
+    int i = blockIdx.x * blockDim.x + threadIdx.x;
+    int j = blockIdx.y * blockDim.y + threadIdx.y;
+    if (i < Nx && j < Ny) {
+        int index = j * Nx + i;
+        C[index] = A[index] + B[index];
+    }
+}
+
+int main() {
+    // Matrix dimensions
+    const int Nx = 12;
+    const int Ny = 6;
+
+    // Allocate host memory
+    float* h_A = new float[Nx * Ny];
+    float* h_B = new float[Nx * Ny];
+    float* h_C = new float[Nx * Ny];
+
+    // Initialize host arrays
+    // ... (code to fill in h_A and h_B with data)
+
+    // Allocate device memory
+    float *d_A, *d_B, *d_C;
+    cudaMalloc(&d_A, Nx * Ny * sizeof(float));
+    cudaMalloc(&d_B, Nx * Ny * sizeof(float));
+    cudaMalloc(&d_C, Nx * Ny * sizeof(float));
+
+    // Copy data from host to device
+    cudaMemcpy(d_A, h_A, Nx * Ny * sizeof(float), cudaMemcpyHostToDevice);
+    cudaMemcpy(d_B, h_B, Nx * Ny * sizeof(float), cudaMemcpyHostToDevice);
+
+    // Kernel launch
+    dim3 threadsPerBlock(4, 3);
+    dim3 numBlocks((Nx + threadsPerBlock.x - 1) / threadsPerBlock.x,
+                   (Ny + threadsPerBlock.y - 1) / threadsPerBlock.y);
+    matrixAdd<<<numBlocks, threadsPerBlock>>>(d_A, d_B, d_C, Nx, Ny);
+
+    // Copy result back to host
+    cudaMemcpy(h_C, d_C, Nx * Ny * sizeof(float), cudaMemcpyDeviceToHost);
+
+    // Free device memory
+    cudaFree(d_A);
+    cudaFree(d_B);
+    cudaFree(d_C);
+
+    // Free host memory
+    delete[] h_A;
+    delete[] h_B;
+    delete[] h_C;
+
+    return 0;
+}
+
+cmake_minimum_required(VERSION 3.8 FATAL_ERROR)
+project(matrix_add LANGUAGES CXX CUDA)
+
+# Specify the executable and its source file
+add_executable(matrix_add matrix_add.cu)
+
+# Specify the C++ standard
+set_target_properties(matrix_add PROPERTIES
+                      CUDA_SEPARABLE_COMPILATION ON
+                      CXX_STANDARD 14
+                      CXX_STANDARD_REQUIRED ON)
+
 
 # hash join
 
