@@ -1,5 +1,37 @@
 # 2024-2-16 | 
 
+
+https://www.berrange.com/
+
+https://github.com/yifengyou
+
+vcpkg remove zlib
+
+https://github.com/meemknight/
+
+```bash
+
+git clone https://github.com/meemknight/ourCraft.git
+
+```
+
+```bash
+
+git clone https://github.com/zpl-c/enet.git
+
+cmake -B build -DENET_SHARED=1 -DCMAKE_BUILD_TYPE=Release
+
+cmake --build build
+
+
+vcpkg install enet
+
+# this is heuristically generated, and may not be correct
+find_package(unofficial-enet CONFIG REQUIRED)
+target_link_libraries(main PRIVATE unofficial::enet::enet)
+
+```
+
 https://salsa.debian.org/kernel-team/
 
 https://twitter.com/paulmckrcu
