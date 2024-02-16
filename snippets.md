@@ -1,3 +1,104 @@
+
+# hash join
+
+```go
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define the struct for table rows
+type TableRowR struct {
+	id    int
+	value int
+}
+
+type TableRowS struct {
+	id    int
+	cdate string
+	value int
+}
+
+// Define the struct for the join result
+type JoinResult struct {
+	R_id    int
+	S_cdate string
+}
+
+// Mock data for tables R and S
+var tableR = []TableRowR{
+	{id: 1, value: 50},
+	{id: 2, value: 120},
+	{id: 3, value: 150},
+}
+
+var tableS = []TableRowS{
+	{id: 2, cdate: "2024-02-16", value: 200},
+	{id: 3, cdate: "2024-02-15", value: 90},
+	{id: 4, cdate: "2024-02-14", value: 300},
+}
+
+// Step 1: Projection
+func projectR(rows []TableRowR) []int {
+	var projection []int
+	for _, row := range rows {
+		projection = append(projection, row.id)
+	}
+	return projection
+}
+
+// Step 2: Build hash table for the join
+func buildHashTable(rows []TableRowR) map[int]TableRowR {
+	hashTable := make(map[int]TableRowR)
+	for _, row := range rows {
+		hashTable[row.id] = row
+	}
+	return hashTable
+}
+
+// Step 3: Perform the join
+func hashJoin(rHashTable map[int]TableRowR, sRows []TableRowS) []JoinResult {
+	var results []JoinResult
+	for _, sRow := range sRows {
+		if rRow, ok := rHashTable[sRow.id]; ok {
+			results = append(results, JoinResult{R_id: rRow.id, S_cdate: sRow.cdate})
+		}
+	}
+	return results
+}
+
+// Step 4: Filter S by value
+func filterS(rows []TableRowS) []TableRowS {
+	var filtered []TableRowS
+	for _, row := range rows {
+		if row.value > 10 {
+			filtered = append(filtered, row)
+		}
+	}
+	return filtered
+}
+
+func main() {
+
+	// Materialize hash table of R based on projection
+	rHashTable := buildHashTable(tableR)
+
+	// Materialize filtered S
+	filteredS := filterS(tableS)
+
+	// Perform join and materialize the result
+	joinResults := hashJoin(rHashTable, filteredS)
+
+	// Print the join results
+	for _, result := range joinResults {
+		fmt.Printf("R.id: %d, S.cdate: %s\n", result.R_id, result.S_cdate)
+	}
+}
+
+```
+
 # Automatic Diffe
 
 ```go
