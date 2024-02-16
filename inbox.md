@@ -1,5 +1,28 @@
 # 2024-2-16 | 
 
+https://salsa.debian.org/kernel-team/
+
+https://twitter.com/paulmckrcu
+
+https://investor.apple.com/investor-relations/default.aspx
+
+15-20 people
+
+
+Eric Schmidt
+Carol Bartz
+Bill Joy
+
+https://github.com/vosen/ZLUDA
+
+https://ir.bilibili.com/en/financial-information/#hkex
+
+https://ir.baidu.com/financial-reports/
+
+https://www.tencent.com/en-us/investors/financial-reports.html
+
+https://www.alibabagroup.com/en-US/ir-financial-reports-financial-results
+
 Best user is great than best coder/implementer.
 
 # 2024-2-15 | 

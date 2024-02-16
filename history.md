@@ -3,6 +3,177 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Careers at Linaro | Software Careers | Linaro
+https://www.linaro.org/careers/
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+07-machine-learning-compilation.pdf
+https://mlsyscourse.org/slides/07-machine-learning-compilation.pdf
+
+build debian kernel from source - Google 搜索
+https://www.google.com/search?q=build+debian+kernel+from+source&sca_esv=85ac6a756d1f0a52&biw=1280&bih=593&tbm=vid&sxsrf=ACQVn08-Ql90OXVDpnNdnzGZhsXlQ7Chrw%3A1708061362211&ei=svLOZaatDPHx4-EPlPmKmAE&ved=0ahUKEwimzv61kK-EAxXx-DgGHZS8AhMQ4dUDCA0&uact=5&oq=build+debian+kernel+from+source&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIh9idWlsZCBkZWJpYW4ga2VybmVsIGZyb20gc291cmNlMgQQABgeMgYQABgIGB5Iz1RQwQNY-VNwAHgAkAEAmAGBAqAB5xGqAQYwLjEwLjO4AQPIAQD4AQHCAgQQIxgnwgIIEAAYgAQYywGIBgE&sclient=gws-wiz-video
+
+Peeking into VALORANT's Netcode | Riot Games Technology
+https://technology.riotgames.com/news/peeking-valorants-netcode
+
+Work With Us | Riot Games
+https://www.riotgames.com/en/work-with-us?_gl=1*1r478tv*_ga*NzU0MzE3Mzk3LjE3MDgwNjE0Njc.*_ga_7VLGVTHBTW*MTcwODA2MTQ2Ni4xLjAuMTcwODA2MTQ2Ni4wLjAuMA..
+
+Reinventing Minecraft world generation by Henrik Kniberg - YouTube
+https://www.youtube.com/watch?v=ob3VwY4JyzE
+
+Ask HN: Why are Apache projects so Java-centric? | Hacker News
+https://news.ycombinator.com/item?id=9249913
+
+projects.apache.org/indexes/language.html
+https://projects.apache.org/indexes/language.html
+
+Henrik Kniberg (@henrikkniberg) / X
+https://twitter.com/henrikkniberg
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ggml&sort=byPopularity&type=story
+
+ggml.ai
+https://ggml.ai/
+
+Boxy SVG Editor
+https://boxy-svg.com/
+
+Boxy SVG - Demo - Circuit [Edited]
+https://boxy-svg.com/app/-LZTa9ZcpvUBMChd1-jc
+
+SVG - Wikipedia
+https://en.wikipedia.org/wiki/SVG
+
+SVG-Edit/svgedit: Powerful SVG-Editor for your browser
+https://github.com/SVG-Edit/svgedit
+
+Yjs Prosemirror Example
+http://192.168.43.183:3000/prosemirror/prosemirror.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=ja&text=5&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cuda&sort=byPopularity&type=story
+
+CUDA full GPU acceleration, KV cache in VRAM by JohannesGaessler · Pull Request #1827 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/pull/1827/files
+
+How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown] - YouTube
+https://www.youtube.com/watch?v=d86ws7mQYIg
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2024
+
+[PATCH 0/4] PM: hibernate: LZ4 compression support
+https://lore.kernel.org/lkml/cover.1696410298.git.quic_nprakash@quicinc.com/T/?fbclid=IwAR1Es5ik204xcpbSw2cmYPukoicJfUn6WJFr88F-0aNPfT3fUYDV2DDQ0Y0#m84669b0a645950ff0b1a9c8cd214d3806ab66fb9
+
+ChatGPT
+https://chat.openai.com/c/91efdab1-d8d8-4995-ab60-1ab9face584e
+
+Resources
+https://tutflix.org/resources/
+
+vinod khosla - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDAsMTZg9OIpy8zLT1HIzsgvzkkEAFtbB8k&q=vinod+khosla&oq=vinod+&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDINCAgQLhjHARjRAxiABNIBCDY4NzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=vinod%20khosla&sort=byPopularity&type=story
+
+vosen/ZLUDA: CUDA on AMD GPUs
+https://github.com/vosen/ZLUDA
+
+QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu
+
+bugzilla-attachments.redhat.com/attachment.cgi?id=1969620
+https://bugzilla-attachments.redhat.com/attachment.cgi?id=1969620
+
+Submitting a Patch — QEMU documentation
+https://www.qemu.org/docs/master/devel/submitting-a-patch.html#if-you-cannot-send-patch-emails
+
+Peter Maydell - Google 搜索
+https://www.google.com/search?q=Peter+Maydell&oq=Peter+Maydell&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGBMYHjIKCAIQABgIGBMYHjIKCAMQABgIGBMYHjIKCAQQABgIGBMYHtIBBzIxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+First Google Employees: Where Are They Now?
+https://www.businessinsider.com/first-google-employees-where-are-they-now-2016-11
+
+Where Facebook's First Employees Are Today
+https://www.slashgear.com/1405974/where-facebooks-first-employees-are-now/
+
+Carol Bartz - Wikipedia
+https://en.wikipedia.org/wiki/Carol_Bartz
+
+Andreas Bechtolsheim | Stanford University School of Engineering
+https://engineering.stanford.edu/about/heroes/2012-heroes/andreas-bechtolsheim
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+NVIDIA Corporation - Financial Reports
+https://investor.nvidia.com/financial-info/financial-reports/default.aspx
+
+Investor Relations - Apple
+https://investor.apple.com/investor-relations/default.aspx
+
+Jens Axboe (@axboe) / X
+https://twitter.com/axboe
+
+liburing/debian at master · axboe/liburing
+https://github.com/axboe/liburing/tree/master/debian
+
+1. Introduction - How to build Linux From Scratch (LFS) 12.0 Tutorial - YouTube
+https://www.youtube.com/watch?v=685qdaX9YQc
+
+Linux From Scratch
+https://www.linuxfromscratch.org/lfs/view/development/
+
+浏览群组 · GitLab
+https://salsa.debian.org/explore/groups?page=6
+
+xmake
+https://xmake.io/#/
+
+linux_6.6.9-1_source.changes ACCEPTED into unstable
+https://lists.debian.org/debian-kernel/2024/01/msg00018.html
+
+Debian Linux Kernel Handbook
+https://kernel-team.pages.debian.net/kernel-handbook/
+
+Gitlab self hosting : selfhosted
+https://www.reddit.com/r/selfhosted/comments/12fyh00/gitlab_self_hosting/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Debian%20kernel%20team&sort=byPopularity&type=story
+
+DebConf
+https://www.debconf.org/
+
+DebConf Videos - YouTube
+https://www.youtube.com/@DebConfVideos/videos
+
+Igor Sysoev (@isysoev) / X
+https://twitter.com/isysoev
+
+Игорь Сысоев
+http://sysoev.ru/
+
+Maxim Konovalov - Google 搜索
+https://www.google.com/search?q=Maxim+Konovalov&oq=Maxim+Konovalov&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 ✔ VexFlow 2 - JavaScript Music Notation and Guitar Tab
 https://www.vexflow.com/tests/
 
