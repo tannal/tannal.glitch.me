@@ -129,6 +129,69 @@ https://github.com/iovisor/gobpf
 
 # 2024-2-16
 
+qemu for linux kernel developers - Google Search
+https://www.google.com/search?client=firefox-b-e&q=qemu+for+linux+kernel+developers
+
+Speed up your kernel development cycle with QEMU – Kernel Recipes 2015
+https://kernel-recipes.org/en/2015/talks/speed-up-your-kernel-development-cycle-with-qemu/
+
+QEMU for Linux kernel developers - YouTube
+https://www.youtube.com/watch?v=LyWlpuntdU4
+
+rootfs sr0 bad option qemu - Google Search
+https://www.google.com/search?client=firefox-b-e&q=rootfs+sr0+bad+option+qemu
+
+errno.h - Wikipedia
+https://en.wikipedia.org/wiki/Errno.h
+
+kernel.org/doc/Documentation/admin-guide/init.rst
+https://www.kernel.org/doc/Documentation/admin-guide/init.rst
+
+The kernel’s command-line parameters — The Linux Kernel documentation
+https://www.kernel.org/doc/html/v4.14/admin-guide/kernel-parameters.html
+
+Busybox as the init - HackMD
+https://hackmd.io/@starnight/Busbox_as_the_init
+
+BINFMT_SCRIPT - Google Search
+https://www.google.com/search?client=firefox-b-e&q=BINFMT_SCRIPT
+
+build busybox static linked - Google Search
+https://www.google.com/search?client=firefox-b-e&q=build+busybox+static+linked
+
+kerneldev/initramfs.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/initramfs.sh
+
+dynamic linking busybox - Google Search
+https://www.google.com/search?q=dynamic+linking+busybox&client=firefox-b-e&sca_esv=a74a00dabe12077a&ei=lzLPZZ3xDLqK4-EPztyAwA4&ved=0ahUKEwjdmM-tza-EAxU6xTgGHU4uAOgQ4dUDCA8&uact=5&oq=dynamic+linking+busybox&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2R5bmFtaWMgbGlua2luZyBidXN5Ym94MgYQABgWGB4yCxAAGIAEGIoFGIYDMgsQABiABBiKBRiGAzILEAAYgAQYigUYhgNIiCBQZljmHnACeAGQAQCYAfEBoAGtD6oBBjAuMTIuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgIFEAAYgATCAgoQABiABBiKBRhDwgIIEAAYFhgeGA_CAgUQIRigAcICBRAhGJ8FwgIKEAAYFhgeGA8YCogGAZAGCg&sclient=gws-wiz-serp
+
+linux kernel - Qemu fails to load when my initrd (cpio) is large ~80 mb - Stack Overflow
+https://stackoverflow.com/questions/42872992/qemu-fails-to-load-when-my-initrd-cpio-is-large-80-mb
+
+Booting a Custom Linux Kernel in QEMU and Debugging It With GDB
+https://nickdesaulniers.github.io/blog/2018/10/24/booting-a-custom-linux-kernel-in-qemu-and-debugging-it-with-gdb/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Fall%202023%20%5Bvideo%5D&sort=byPopularity&type=story
+
+https://www.youtube.com/watch?v=Xt4p5gk24ss
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DXt4p5gk24ss&q=EhAkAIkBAAAAAPA8lP_-uYM4GLbvvK4GIjDF0N1IGkOCqZqDUrossQ_QpYaeMIJsh-SSI8zqGP2FiXxxYCldr0HWe3SQpiyHva4yAXJaAUM
+
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+debian rootfs - Google Search
+https://www.google.com/search?client=firefox-b-e&q=debian+rootfs+
+
+Using "git diff" and "git apply" to share small changes. - DEV Community
+https://dev.to/nickfun/using-git-diff-and-git-apply-to-share-small-changes-3c0e
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
