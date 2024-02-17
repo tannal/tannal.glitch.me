@@ -5,6 +5,8 @@ wmic path Win32_USBControllerDevice get Dependent
 
 # Software install
 
+winget install --id Typst.Typst
+
 sudo apt install chromium
 
 winget install -e --id GoLang.Go

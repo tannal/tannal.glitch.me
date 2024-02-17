@@ -4,6 +4,12 @@
 
 # 2024-2-16 | 
 
+
+
+typst
+
+https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor
+
 context for coding
 context for thinking
 
