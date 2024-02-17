@@ -1,3 +1,132 @@
+# 2024-2-17
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+复仇者联盟2 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TfIMzRNtyg0YPQSeLqk98nu9hcNrS8apzyfPd8IALOdDfg&q=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F2&rlz=1C1GCEA_enJP1090JP1090&oq=fucz&gs_lcrp=EgZjaHJvbWUqBwgEEC4YgAQyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQLhiABDIHCAYQLhiABDIHCAcQLhiABDIHCAgQABiABDIHCAkQABiABNIBCDg2NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+电影《复仇者联盟2：奥创纪元》1080P在线观看-清风影院-免费高清海外华人在线影院
+https://www.mcoun.com/vodplay/5913-1-1.html
+
+qemu drive not found in dev - Google 搜索
+https://www.google.com/search?q=qemu+drive+not+found+in+dev&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+drive+not+found+in+dev&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBge0gEJMTI2OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cpio list dev sda - Google 搜索
+https://www.google.com/search?q=cpio+list+dev+sda&rlz=1C1GCEA_enJP1090JP1090&oq=cpio+list+dev+sda&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCTEyNzc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+rsync apt install - Google 搜索
+https://www.google.com/search?q=rsync+apt+install&sca_esv=dc4da4efb85aac0a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08sHux1rJRLQyjq6xoOAIcrHvm-0g%3A1708005113579&ei=-RbOZZTwIu-NseMPrfGx2AE&ved=0ahUKEwjU0Mbwvq2EAxXvRmwGHa14DBsQ4dUDCBA&uact=5&oq=rsync+apt+install&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXJzeW5jIGFwdCBpbnN0YWxsMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSIp1UPUzWP9zcAV4AZABAJgBAKABAKoBALgBA8gBAPgBAYgGAZAGCg&sclient=gws-wiz-serp
+
+登录 - 新浪
+https://passport.weibo.com/sso/signin?entry=general&source=heimao&url=https%3A%2F%2Ftousu.sina.com.cn%2Fcomplaint%2Fview%2F17370139038
+
+kerneldev/share.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/share.sh
+
+(3 封私信 / 80 条消息) 怎样有效投诉中国移动? - 知乎
+https://www.zhihu.com/question/317540232
+
+Working with “initramfs” and “initrd” in Linux | by Ahmed Mansouri | Medium
+https://medium.com/@ahmedmansouri/working-with-initramfs-and-initrd-in-linux-bd0fe955609a
+
+a new golden age for computer architecture youtube - Google 搜索
+https://www.google.com/search?q=a+new+golden+age+for+computer+architecture+youtube&sca_esv=ed467975128c7ac9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-haU-8idcpApga-eNlQWt3wXVtbg%3A1708008794693&ei=WiXOZfDxKdTVseMProat4Ak&ved=0ahUKEwjwhuzLzK2EAxXUamwGHS5DC5wQ4dUDCBA&uact=5&oq=a+new+golden+age+for+computer+architecture+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmEgbmV3IGdvbGRlbiBhZ2UgZm9yIGNvbXB1dGVyIGFyY2hpdGVjdHVyZSB5b3V0dWJlMgQQABhHMgQQABhHSOQXUIQIWJQVcAB4A5ABAJgBAKABAKoBALgBA8gBAPgBAYgGAZAGAg&sclient=gws-wiz-serp#ip=1
+
+Sora
+https://openai.com/sora#capabilities
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=query%20execution%20emit&sort=byPopularity&type=story
+
+(2) #general > Tauri integration as default port - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Tauri.20integration.20as.20default.20port
+
+Switching the Linux graphics stack from GLX to EGL – Mozilla Gfx Team Blog
+https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+arm nasdaq - Google 搜索
+https://www.google.com/search?q=arm+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=arm+n&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTY3NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Go Playground - The Go Programming Language
+https://go.dev/play/
+
+北京市区号 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%BA%E5%8F%B7&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8C%BA%E5%8F%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDcxMTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Iterator Model in SQL.
+https://chat.openai.com/c/3e1baa7a-ea66-44ee-a240-69306860f87d
+
+zpl-c/enet: ⚡️ ENet reliable UDP networking library
+https://github.com/zpl-c/enet
+
+ourCraft/CMakeLists.txt at master · meemknight/ourCraft
+https://github.com/meemknight/ourCraft/blob/master/CMakeLists.txt
+
+vcpkg remove package - Google 搜索
+https://www.google.com/search?q=vcpkg+remove+package&rlz=1C1GCEA_enJP1090JP1090&oq=vcpkg+remove&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg0NzM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+visual studio - Setting the MSVC runtime in CMake - Stack Overflow
+https://stackoverflow.com/questions/10113017/setting-the-msvc-runtime-in-cmake
+
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+Debian Live Manual
+https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html
+
+build your own distribution - Google 搜索
+https://www.google.com/search?q=build+your+own+distribution&sca_esv=f5f2bc2e5380d47d&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=738&tbm=vid&sxsrf=ACQVn0_9jQB9ndmkvvvKZglDKa7P5xF76w%3A1708055876399&ei=RN3OZaGFGLnaseMPuNSZ4AI&ved=0ahUKEwiht5P--66EAxU5bWwGHThqBiwQ4dUDCA0&uact=5&oq=build+your+own+distribution&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIhtidWlsZCB5b3VyIG93biBkaXN0cmlidXRpb24yBhAAGAcYHjIGEAAYBxgeSKMaUMQQWJQVcAF4AJABAJgBnwGgAbQFqgEDMC41uAEDyAEA-AEBwgIEECMYJ4gGAQ&sclient=gws-wiz-video
+
+Daniel P. Berrangé
+https://www.berrange.com/
+
+How to easily build your own Linux Distro? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/87011/how-to-easily-build-your-own-linux-distro
+
+Download LFS
+https://www.linuxfromscratch.org/lfs/download.html
+
+initramfs with apt - Google 搜索
+https://www.google.com/search?q=initramfs+with+apt&rlz=1C1GCEA_enJP1090JP1090&oq=initramfs+with+apt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDI3NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CUDA · Modern CMake
+https://cliutils.gitlab.io/modern-cmake/chapters/packages/CUDA.html
+
+cuda-examples/CMakeLists.txt at main · tannal/cuda-examples
+https://github.com/tannal/cuda-examples/blob/main/CMakeLists.txt
+
+How to make working CUDA 11.6 with CMake 3.23 and MSVC 2019 - Stack Overflow
+https://stackoverflow.com/questions/71739732/how-to-make-working-cuda-11-6-with-cmake-3-23-and-msvc-2019
+
+Why vcpkg always downloads cuda although it has already been installed by official installer? · Issue #16355 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/16355
+
+CUDA Toolkit 12.3 Update 2 Downloads | NVIDIA Developer
+https://developer.nvidia.com/cuda-downloads
+
+Download and install NVIDIA CUDA Toolkit with winget
+https://winget.run/pkg/Nvidia/CUDA
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+egl使用 - Google 搜索
+https://www.google.com/search?q=egl%E4%BD%BF%E7%94%A8&sca_esv=a74a00dabe12077a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09i5OMqiIMVRegfuiz4eYxv2yMglw%3A1708079353917&ei=-TjPZcnLN_Ke4-EP9cik2AE&oq=egl&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIgNlZ2wqAggAMgcQIxiwAxgnMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMg0QABhHGNYEGLADGIsDSM4JUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+iovisor/gobpf: Go bindings for creating BPF programs.
+https://github.com/iovisor/gobpf
+
+
 # 2024-2-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
