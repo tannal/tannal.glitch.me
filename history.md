@@ -3,6 +3,159 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+zeux/niagara: A Vulkan renderer written from scratch on stream
+https://github.com/zeux/niagara
+
+ssloy/tinyrenderer: A brief computer graphics / rendering course
+https://github.com/ssloy/tinyrenderer
+
+Advanced Computer Graphics | RGL
+https://rgl.epfl.ch/courses/ACG17
+
+wjakob (Wenzel Jakob)
+https://github.com/wjakob
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.a5aaep4zlnxp
+
+tannal (tannal)
+https://github.com/tannal/
+
+QEMU for Linux kernel developers - YouTube
+https://www.youtube.com/watch?v=LyWlpuntdU4
+
+Johannes 4GNU_Linux - YouTube
+https://www.youtube.com/@johannes4gnu_linux96/videos
+
+Johannes' personal Website
+https://www.gnu-linux.rocks/
+
+Speakers – Kernel Recipes 2015
+https://kernel-recipes.org/en/2015/speakers/
+
+Kernel Recipes 2015 - Speed up your kernel development cycle with QEMU - Stefan Hajnoczi - YouTube
+https://www.youtube.com/watch?v=PBY9l97-lto
+
+c++ - How to setup a shared ccache - Stack Overflow
+https://stackoverflow.com/questions/119999/how-to-setup-a-shared-ccache
+
+CCACHE(1)
+https://ccache.dev/manual/3.7.11.html#_sharing_a_cache
+
+Mozilla
+https://github.com/mozilla
+
+Mozilla
+https://github.com/mozilla
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fgithub.com%2Fmozilla&sort=byPopularity&type=story
+
+rust-lang/rust-forge: Information useful to people contributing to Rust
+https://github.com/rust-lang/rust-forge
+
+Rust通过sccache-dist配置分布式编译 - 知乎
+https://zhuanlan.zhihu.com/p/556552321
+
+Build failed due to SCCACHE_IDLE_TIMEOUT being too short · Issue #24510 · servo/servo
+https://github.com/servo/servo/issues/24510
+
+5 ways to increase your productivity in Rust - YouTube
+https://www.youtube.com/watch?v=vAObcndWaBY
+
+Resources
+https://tutflix.org/resources/
+
+New storage backend model · Issue #1214 · ccache/ccache
+https://github.com/ccache/ccache/issues/1214
+
+Vlastimil Babka The rise and fall of kernel slab allocators - YouTube
+https://www.youtube.com/watch?v=OM-bEHQweHY
+
+使用音频分析工具audacity分析wave文件_audacity查看采样率-CSDN博客
+https://blog.csdn.net/tugouxp/article/details/115863221
+
+debugging - How to install debug symbols for installed packages? - Ask Ubuntu
+https://askubuntu.com/questions/487222/how-to-install-debug-symbols-for-installed-packages
+
+live patching suse - Google 搜索
+https://www.google.com/search?q=live+patching+suse&oq=live+patching+suse+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgoIAhAAGAUYExgeMgoIAxAAGAgYExgeMgoIBBAAGAgYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgoIBxAAGAgYExgeMgoICBAAGAgYExge0gEIODMwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Open Source Solutions for Enterprise Servers & Cloud | SUSE
+https://www.suse.com/
+
+Working at SUSE | Jobs and Careers at SUSE
+https://jobs.suse.com/us/en
+
+分享B站视频时如何定位到具体时间 - Hexo
+https://moreant.gitee.io/post/8085.html
+
+libeigen / eigen · GitLab
+https://gitlab.com/libeigen/eigen
+
+Numerical Methods for Visual Computing and Machine Learning | RGL
+https://rgl.epfl.ch/courses/NMVC22
+
+Portals are misunderstood.
+https://c0de517e.com/011_portals.htm
+
+Valve Hammer Editor - Valve Developer Community
+https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor
+
+Valve - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Valve
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=docs.google.com&sort=byPopularity&type=story
+
+Google Docs Alternative : linuxmasterrace
+https://www.reddit.com/r/linuxmasterrace/comments/1257gvh/google_docs_alternative/
+
+ONLYOFFICE - Secure Online Office | ONLYOFFICE
+https://www.onlyoffice.com/
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+• Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+Markup language - Typst Examples Book
+https://sitandr.github.io/typst-examples-book/book/basics/tutorial/markup.html
+
+Typst, a new markup-based typesetting system, is now open source | Hacker News
+https://news.ycombinator.com/item?id=35250210
+
+ChatGPT
+https://chat.openai.com/c/0f29f01f-44e8-4110-80d8-0080651c8856
+
+nvarner/typst-lsp: A brand-new language server for Typst, plus a VS Code extension
+https://github.com/nvarner/typst-lsp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fdocs.google.com%2Fdocument%2F&sort=byPopularity&type=story
+
+Powershell: What is pwsh.exe
+https://powershellexplained.com/2017-12-29-Powershell-what-is-pwsh/
+
+TGA Viewer
+https://schmittl.github.io/tgajs/
+
+mozilla/sccache: Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.
+https://github.com/mozilla/sccache
+
+Welcome to Apache OpenDAL | Hacker News
+https://news.ycombinator.com/item?id=38717725
+
+Add support to the Memcached authentication · Issue #4177 · apache/opendal
+https://github.com/apache/opendal/issues/4177
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Mentorship
 https://mentorship.lfx.linuxfoundation.org/#my-tasks
 

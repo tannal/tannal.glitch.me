@@ -1,5 +1,8 @@
 # 2024-2-17 | 
 
+git clone https://github.com/zeux/niagara.git --recursive
+
+git clone https://github.com/ssloy/tinyrenderer.git
 
 
 # 2024-2-16 | 
