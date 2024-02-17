@@ -4,6 +4,9 @@ git clone https://github.com/zeux/niagara.git --recursive
 
 git clone https://github.com/ssloy/tinyrenderer.git
 
+https://www.youtube.com/watch?v=RCbxOZ9qYBw&6m50s
+
+
 
 # 2024-2-16 | 
 
