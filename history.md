@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+A tour of V8: object representation — jayconrod.com
+https://www.jayconrod.com/posts/52/a-tour-of-v8--object-representation
+
+V8 之旅：对象表示 – NewHTML
+http://newhtml.net/v8-object-representation/
+
+Machine learning and compiler optimization — jayconrod.com
+https://www.jayconrod.com/posts/94/machine-learning-and-compiler-optimization
+
+inside javascriptcore's low-level interpreter — wingolog
+https://wingolog.org/archives/2012/06/27/inside-javascriptcores-low-level-interpreter
+
+Edges (GNU Compiler Collection (GCC) Internals)
+https://gcc.gnu.org/onlinedocs/gccint/Edges.html#Edges
+
+Apps/Web/Development - GNOME Wiki!
+https://wiki.gnome.org/Apps/Web/Development
+
+GNOME / Epiphany · GitLab
+https://gitlab.gnome.org/GNOME/epiphany/
+
+HACKING.md · master · GNOME / Epiphany · GitLab
+https://gitlab.gnome.org/GNOME/epiphany/blob/master/HACKING.md
+
+static single assignment for functional programmers — wingolog
+https://wingolog.org/archives/2011/07/12/static-single-assignment-for-functional-programmers/
+
+关于我们 – NewHTML
+http://newhtml.net/category/about-us/
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+tannal/kakapo
+https://github.com/tannal/kakapo
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+go - How to get all dependency files for a program - Stack Overflow
+https://stackoverflow.com/questions/32758235/how-to-get-all-dependency-files-for-a-program
+
+liuyanghejerry - Google 搜索
+https://www.google.com/search?q=liuyanghejerry&oq=liuyanghejerry&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBBzc3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Implementing a b-tree and being to clever : golang
+https://www.reddit.com/r/golang/comments/jhrtjn/implementing_a_btree_and_being_to_clever/
+
+b package - modernc.org/b - Go Packages
+https://pkg.go.dev/modernc.org/b
+
+Adding and Removing dependency in Go modules - Eternal Dev | Learn Web development
+https://eternaldev.com/blog/adding-and-removing-dependency-in-go-modules
+
+数组Array · Go语言中文文档
+https://www.topgoer.com/go%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84Array.html
+
+How to convert an int value to string in Go? - Stack Overflow
+https://stackoverflow.com/questions/10105935/how-to-convert-an-int-value-to-string-in-go
+
+string - Reading a file line by line in Go - Stack Overflow
+https://stackoverflow.com/questions/8757389/reading-a-file-line-by-line-in-go
+
+幻兽帕鲁 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LEorTi5JS483YPTiebpz99PWvU93TH25qREAqTIN4g&q=%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81&oq=huanshou&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyBggAEEUYOTIKCAEQLhixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDcxNDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How do I run specific golang test using go test -run - Stack Overflow
+https://stackoverflow.com/questions/48465080/how-do-i-run-specific-golang-test-using-go-test-run
+
+go test enable logging - Google 搜索
+https://www.google.com/search?q=go+test+enable+logging&sca_esv=46c8910781d6518e&sxsrf=ACQVn08bifCV7-reTDl8jlmmXLKF5ZhcJA%3A1708145409578&ei=ATvQZYH0Itur4-EP9P-22AY&ved=0ahUKEwjB-PLCybGEAxXb1TgGHfS_DWsQ4dUDCBA&uact=5&oq=go+test+enable+logging&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhZnbyB0ZXN0IGVuYWJsZSBsb2dnaW5nMggQABiABBjLAUiaG1DZA1igGnACeACQAQCYAfIBoAHJGaoBBjAuMTQuNbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAg0QABhHGNYEGLADGIsDwgIKECMYgAQYigUYJ8ICBRAAGIAEwgIEECMYJ8ICBhAAGB4YDMICBBAAGB7CAgcQABiABBgNwgIGEAAYHhgNwgIIEAAYBRgeGA3CAgYQABgIGB6IBgGQBgQ&sclient=gws-wiz-serp
+
+log package - log - Go Packages
+https://pkg.go.dev/log
+
+go - Golang "Access is denied" error on trying to write to file with io.WriteString - Stack Overflow
+https://stackoverflow.com/questions/31967717/golang-access-is-denied-error-on-trying-to-write-to-file-with-io-writestring
+
+golang append file at start position - Google 搜索
+https://www.google.com/search?q=golang+append+file+at+start+position&oq=golang+append+file+at+start+position&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDkwNTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+read file from end to start golang - Google 搜索
+https://www.google.com/search?q=read+file+from+end+to+start+golang&oq=read+file+from+end+to+start+golang&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCDc4NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+go - Read log file from the end and get the offset of a particular string - Stack Overflow
+https://stackoverflow.com/questions/46764241/read-log-file-from-the-end-and-get-the-offset-of-a-particular-string/46767098#46767098
+
+read file line by line from end to beginning golang site:stackoverflow.com - Google 搜索
+https://www.google.com/search?q=read+file+line+by+line+from+end+to+beginning+golang+site:stackoverflow.com&sca_esv=17a68768bff6222b&sxsrf=ACQVn0_HYHPvqd0OcLtLLjVC326AExWTcA:1708148060204&sa=X&ved=2ahUKEwjUpOiy07GEAxXin2MGHcieCeUQrQIoBHoECBgQBQ&biw=1280&bih=593&dpr=1.5#ip=1
+
+golang-nuts - Google 网上论坛
+https://groups.google.com/g/golang-nuts
+
+curio package - github.com/extemporalgenome/curio - Go Packages
+https://pkg.go.dev/github.com/extemporalgenome/curio#example-Match--Reverse
+
+extemporalgenome/curio: golang io utilities
+https://github.com/extemporalgenome/curio
+
+os.truncate() not work golang - Google 搜索
+https://www.google.com/search?q=os.truncate()+not+work+golang&oq=os.Truncate()+not+wor&gs_lcrp=EgZjaHJvbWUqCQgCECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigAdIBCDMyMjhqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+WebKit/PerformanceTests/RexBench/OfflineAssembler/LowLevelInterpreter64.asm at e1b69e3d4f52bbd35fe60e310459e2cc0ba1ba7a · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/e1b69e3d4f52bbd35fe60e310459e2cc0ba1ba7a/PerformanceTests/RexBench/OfflineAssembler/LowLevelInterpreter64.asm#L1694
+
+GNOME/epiphany: Read-only mirror of https://gitlab.gnome.org/GNOME/epiphany
+https://github.com/GNOME/epiphany
+
+GNOME / Epiphany · GitLab
+https://gitlab.gnome.org/GNOME/epiphany
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Epiphany%20browser&sort=byPopularity&type=story
+
+paolosimone (Paolo Simone)
+https://github.com/paolosimone
+
+Blog of Julian Andres Klode
+https://blog.jak-linux.org/page/2/
+
+illume (René Dudfield)
+https://github.com/illume
+
+John Cowan - Google 搜索
+https://www.google.com/search?q=John+Cowan&oq=John+Cowan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.hpl.hp.com
+http://www.hpl.hp.com/hpjournal/dtj/vol9num1/vol9num1art1.pdf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
 https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
 

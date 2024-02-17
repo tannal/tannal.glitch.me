@@ -1,5 +1,6 @@
 # 2024-2-17 | 
 
+go test -run TestSearchOnDisk -v
 
 ```bash
 
@@ -39,7 +40,7 @@ https://www.youtube.com/watch?v=RCbxOZ9qYBw&6m50s
 
 
 # 2024-2-16 | 
-
+f
 
 
 typst

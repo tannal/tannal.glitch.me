@@ -21,6 +21,9 @@ export PATH=/home/tannal/tannalwork/projects/go/bin:$PATH
 
 ```
 
+# community
+
+https://groups.google.com/g/golang-nuts
 
 
 # docs
