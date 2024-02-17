@@ -1,5 +1,35 @@
 # 2024-2-17 | 
 
+
+```bash
+
+git clone https://github.com/ggerganov/ggml
+cd ggml
+# Install python dependencies in a virtual environment
+python -m venv ggml_env
+
+.\ggml_env\Scripts\activate
+source ./ggml_env/bin/activate
+
+pip install -r requirements.txt
+
+# Build the examples
+cmake -B build -G ninja
+
+ninja -C build -j4 mnist-cnn mnist
+
+minist.exe
+
+python examples/mnist/mnist-cnn.py train mnist-cnn-model
+
+
+
+```
+
+https://lmsys.org/about/
+
+https://learning-systems.notion.site/learning-systems/AI-Systems-LLM-Edition-294-162-Fall-2023-661887583bd340fa851e6a8da8e29abb
+
 git clone https://github.com/zeux/niagara.git --recursive
 
 git clone https://github.com/ssloy/tinyrenderer.git

@@ -1,5 +1,7 @@
 # inbox
 
+https://people.eecs.berkeley.edu/~istoica/#Teaching
+
 https://astithas.com/
 
 https://github.com/fgmccabe
