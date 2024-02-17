@@ -2,7 +2,10 @@
 
 wmic path Win32_USBControllerDevice get Dependent
 
+
 # Software install
+
+sudo apt install chromium
 
 winget install -e --id GoLang.Go
 winget install -e --id GoLang.Go.1.22
