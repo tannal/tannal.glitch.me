@@ -1,5 +1,10 @@
 # 2024-2-18 | 
 
+
+https://sec-wiki.com/
+
+not by design, you have to hack very hard.
+
  1998  git apply --whitespace=
  1999  git apply --whitespace= 
  2000  ls
@@ -12,6 +17,8 @@
 You can use $_ or !$ to recall the last argument of the previous 
 
 tar -czvf boa.tar.gz boa
+
+nc -w 3 192.168.43.183 1234 < boa.tar.gz
 
 nc -l 192.168.43.26 1234 | uncompress -c | tar xvfp -
 nc -l -p 1234 | uncompress -c | tar xvfp -
