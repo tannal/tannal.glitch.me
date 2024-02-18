@@ -1,5 +1,53 @@
 # 2024-2-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Releases · skeeto/w64devkit
+https://github.com/skeeto/w64devkit/releases
+
+typst/docs/dev/architecture.md at main · typst/typst
+https://github.com/typst/typst/blob/main/docs/dev/architecture.md
+
+qjcg (John Gosset)
+https://github.com/qjcg
+
+ljgago/typst-chords: A package to write song lyrics with chord diagrams in Typst
+https://github.com/ljgago/typst-chords
+
+cse231 - Google 搜索
+https://www.google.com/search?q=cse231&oq=cse231&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgKGB4yBggCEAAYHjIICAMQABgKGB4yCAgEEAAYChgeMgYIBRAAGB4yBggGEAAYHjIICAcQABgFGB7SAQgyNDAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+CSE 231
+https://cseweb.ucsd.edu/classes/sp00/cse231/
+
+Compiler Construction - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/
+
+gcsurvey.pdf
+https://ucsd-compilers-s23.github.io/week67/gcsurvey.pdf
+
+Baskin Engineering Courses
+https://courses.engineering.ucsc.edu/courses/cse231/
+
+15-411 Compiler Design / Schedule
+https://www.cs.cmu.edu/~fp/courses/15411-f14/schedule.html
+
+Week 2 - Boa - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/week2/index.html
+
+adder-dyn/src/main.rs at main · compilers-course-materials/adder-dyn
+https://github.com/compilers-course-materials/adder-dyn/blob/main/src/main.rs
+
+rsync between two computers on LAN - Ask Ubuntu
+https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
+
+Compiler Construction - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/
+
+lecture1/Makefile at lecture3 · ucsd-compilers-s23/lecture1
+https://github.com/ucsd-compilers-s23/lecture1/blob/lecture3/Makefile
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

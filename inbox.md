@@ -1,5 +1,7 @@
 # 2024-2-18 | 
 
+https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
+
 open source guys
 commercial guys
 research guys
