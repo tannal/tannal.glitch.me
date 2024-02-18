@@ -1,5 +1,14 @@
 # 2024-2-18 | 
 
+ 1998  git apply --whitespace=
+ 1999  git apply --whitespace= 
+ 2000  ls
+ 2001  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd tiny-initrd.img -append "console=ttyS0 ip=dhcp debug init=/init"
+ 2002  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic
+ 2003  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic -m 1G
+ 2004  history
+
+
 You can use $_ or !$ to recall the last argument of the previous 
 
 tar -czvf boa.tar.gz boa

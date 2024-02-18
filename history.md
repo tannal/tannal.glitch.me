@@ -1,5 +1,59 @@
 # 2024-2-18
 
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (tannal)
+https://github.com/tannal/
+
+memcached/memcached: memcached development tree
+https://github.com/memcached/memcached
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+ggml/src/ggml.c at 6b14d738d9100c50c199a3b1aaa960f633904476 · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/6b14d738d9100c50c199a3b1aaa960f633904476/src/ggml.c#L14783-L14812
+
+How to generate a kernel oops or panic crash in Linux kernel code? - Stack Overflow
+https://stackoverflow.com/questions/23484147/how-to-generate-a-kernel-oops-or-panic-crash-in-linux-kernel-code
+
+利用buildroot(内置qemu)和vscode开发调试linux - 园友1683564 - 博客园
+https://www.cnblogs.com/qmjc/p/14647615.html
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+cse231 - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=cse231
+
+Compiler Construction - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/#schedule
+
+Week 2 - Boa - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/week2/index.html
+
+compilers-course-materials/adder-dyn
+https://github.com/compilers-course-materials/adder-dyn/tree/main
+
+arm nasdaq - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=arm+nasdaq
+
+Open core dump in mac using vscode-lldb · Issue #24 · vadimcn/codelldb
+https://github.com/vadimcn/codelldb/issues/24
+
+How_to_copy_files_FAST2020 - fast20_slides_conway.pdf
+https://www.usenix.org/sites/default/files/conference/protected-files/fast20_slides_conway.pdf
+
+bash last paramet last command - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=bash+last+paramet+last+command
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
