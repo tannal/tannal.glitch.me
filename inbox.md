@@ -8,6 +8,8 @@ research guys
 
 # 2024-2-17 | 
 
+https://www.cs.cmu.edu/~fp/courses/15411-f14/schedule.html
+
 go test -run TestSearchOnDisk -v
 
 ```bash
