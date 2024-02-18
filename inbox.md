@@ -1,5 +1,28 @@
 # 2024-2-18 | 
 
+获得在留资格认定证明以后，在日本驻外使领馆申请签证时，一般需要以下文件：
+
+(1)	
+护照
+
+(2)	
+签证申请书
+
+(3)	
+证件照(1～2张)(长4.5cm×宽4.5cm)* 也有要求宽3.5cm的日本驻外使领馆
+
+(4)	
+在留资格认定证明及复印件
+
+IPA的各类资格https://www.jitec.ipa.go.jp/Lpic
+
+https://www.lpi.org/ja/AWS/GCP/Azure相关，首推AWS其中IPA的资格里除了iパス以外都是国家资格，可以在申请高度人才时获得加分（1个5分，多个10分）有拿永驻身份的需求的话，推荐IPA的资格
+
+https://www.zhihu.com/question/379943332
+
+
+236964.57
+
 https://www.youtube.com/watch?v=_enXuIxuNV4&t=25m33s
 
 https://sec-wiki.com/

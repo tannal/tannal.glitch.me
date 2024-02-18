@@ -1,5 +1,164 @@
 # 2024-2-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+試験情報 | IPA 独立行政法人 情報処理推進機構
+https://www.ipa.go.jp/shiken/index.html
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+Graphics Programming Projects
+https://graphicscodex.com/projects/projects/
+
+GAMES202: 高质量实时渲染
+https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html
+
+CS180: Introduction to Computer Graphics
+https://sites.cs.ucsb.edu/~lingqi/teaching/cs180.html
+
+GAMES101: 现代计算机图形学入门
+https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+
+Home | UCSB Computer Science
+https://cs.ucsb.edu/
+
+Nori: an educational ray tracer
+https://www.cs.cornell.edu/courses/cs6630/2012sp/nori/
+
+CS6630: Realistic Image Synthesis
+https://www.cs.cornell.edu/courses/cs6630/2022fa/
+
+Courses | RGL
+https://rgl.epfl.ch/courses
+
+Steve Marschner
+https://www.cs.cornell.edu/~srm/
+
+Compiler Construction - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/
+
+UCSD-Compilers-S23-Week2-Monday.pdf - Google 云端硬盘
+https://drive.google.com/file/d/15xYXbx9VVfXv9-xuKqH8lcMLKt8gP4cu/view
+
+rustc link library windows - Google 搜索
+https://www.google.com/search?q=rustc+link+library+windows&oq=rustc+link+library+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDYwMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+windows linking cppcon - Google 搜索
+https://www.google.com/search?q=windows+linking+cppcon&sca_esv=7b0f93fa5c4aa642&sxsrf=ACQVn08FZUGz1BqJYlvmIl6IgUDPwzzGUw%3A1708225954325&ei=onXRZb6vE8Xv4-EPzveS4Ao&ved=0ahUKEwi-iNDJ9bOEAxXF9zgGHc67BKwQ4dUDCBA&uact=5&oq=windows+linking+cppcon&gs_lp=Egxnd3Mtd2l6LXNlcnAiFndpbmRvd3MgbGlua2luZyBjcHBjb24yBRAhGKABMgUQIRigAUiAIFAAWNUecAB4AJABAJgB2gGgAcAaqgEGMC4yMC4yuAEDyAEA-AEBwgIKECMYgAQYigUYJ8ICEBAAGIAEGIoFGEMYsQMYgwHCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIEECMYJ8ICDRAAGIAEGIoFGEMYsQPCAgoQABiABBiKBRhDwgIOEC4YgAQYsQMYxwEY0QPCAgUQABiABMICDhAuGIAEGMsBGMcBGK8BwgIIEAAYgAQYywHCAgoQABiABBjLARgKwgIEEAAYHsICBhAAGB4YD8ICBhAAGAUYHsICBhAAGAgYHsICCBAAGAgYHhgP&sclient=gws-wiz-serp#ip=1
+
+Linkers, Loaders and Shared Libraries in Windows, Linux, and C++ - Ofek Shilon - CppCon 2023 - YouTube
+https://www.youtube.com/watch?v=_enXuIxuNV4
+
+CppCon/CppCon2023: Slides and other materials from CppCon 2023
+https://github.com/CppCon/CppCon2023
+
+CppCon2023/Presentations/Shared_Librariess_CppCon_2023.pdf at main · CppCon/CppCon2023
+https://github.com/CppCon/CppCon2023/blob/main/Presentations/Shared_Librariess_CppCon_2023.pdf
+
+How to link external symbols at runtime in windows? - help - The Rust Programming Language Forum
+https://users.rust-lang.org/t/how-to-link-external-symbols-at-runtime-in-windows/103615/4
+
+how to find out which native libraries to link in buiding C-mixed Rust static library - Stack Overflow
+https://stackoverflow.com/questions/75623606/how-to-find-out-which-native-libraries-to-link-in-buiding-c-mixed-rust-static-li
+
+rustc windows - Google 搜索
+https://www.google.com/search?q=rustc+windows&oq=rustc+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIGCAcQRRg80gEIMzk0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+(1) Facebook
+https://www.facebook.com/ccckmit
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+世界人口 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E5%8F%A3#%E4%BA%BA%E5%8F%A3%E7%88%86%E7%82%B8
+
+中国经济：2023年增幅5.2%，人口净减208万，青年失业率14.9%不计在校生 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-68002869
+
+Yjs Quill Example
+http://192.168.43.183:3000/quill/quill.html
+
+https://www.youtube.com/watch?v=_enXuIxuNV4
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D_enXuIxuNV4&q=EhAkAIkBAAAAAPA8lP_-uYM4GMnhxq4GIjDKhT2UaVMeaMHMBUnl0UIFOPEmeBjNbdUPaDcrhh7vLJdEr7SOEBnsRsMu_DvWwDgyAXJaAUM
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Linkers%2C%20Loaders%20and%20Shared%20Libraries%20in%20Windows&sort=byPopularity&type=story
+
+assembly - Any tool/software in windows for viewing ELF file format? - Stack Overflow
+https://stackoverflow.com/questions/2221806/any-tool-software-in-windows-for-viewing-elf-file-format
+
+objdump的使用方法和 symbol table的每列的含义 - 写程序的⑨ - 博客园
+https://www.cnblogs.com/tlm1992/p/3790195.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+新币兑人民币 - Google 搜索
+https://www.google.com/search?q=%E6%96%B0%E5%B8%81%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&oq=%E6%96%B0%E5%B8%81&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyCQgAEEUYORiABDINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIHCAQQABiABDIKCAUQABixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDINCAgQABiDARixAxiABDIHCAkQABiABNIBCTQ3Njk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+gavin wood - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDMqic8tNCswYPTiSk8sy8xTKM_PTwEAcfIIoQ&q=gavin+wood&oq=Gavin+&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABNIBCDc1MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fizz buzz - Wikipedia
+https://en.wikipedia.org/wiki/Fizz_buzz
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E7%BE%8E%E8%81%94%E5%82%A8&op=translate
+
+fed interest rate - Google 搜索
+https://www.google.com/search?q=fed+interest+rate&oq=fed+inter&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyDAgEEAAYQxiABBiKBTIHCAUQABiABDIMCAYQABhDGIAEGIoFMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINDQ0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Federal Funds Rate History 1990 to 2023 – Forbes Advisor
+https://www.forbes.com/advisor/investing/fed-funds-rate-history/
+
+fed interest rate 2024 - Google 搜索
+https://www.google.com/search?q=fed+interest+rate+2024&oq=fed+interest+rate&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyDggAEEUYJxg7GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzM4NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+(1) Resources
+https://tutflix.org/resources/
+
+McGuire Computer Graphics Archive
+https://casual-effects.com/data/
+
+Bedroom - Download Free 3D model by fhernand (@fhernand) [869e6ec]
+https://sketchfab.com/3d-models/bedroom-869e6ec859a84240b9a099ae829f47fa
+
+raylib [models] example - models loading
+https://www.raylib.com/examples/models/loader.html?name=models_loading
+
+1日元等于多少人民币 - Google 搜索
+https://www.google.com/search?q=1%E6%97%A5%E5%85%83%E7%AD%89%E4%BA%8E%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%B0%91%E5%B8%81&oq=1+%E6%97%A5%E5%85%83+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEINTMwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+2.4 就业资格的种类 | 第二章 签证（visa）・在留资格 - 网点设立信息 - 对日投资 - JETRO
+https://www.jetro.go.jp/sc/invest/setting_up/section2/page4/
+
+Issues · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues
+
+2.12 促进外国人材的引进 | 第二章 签证（visa）・在留资格 - 网点设立信息 - 对日投资 - JETRO
+https://www.jetro.go.jp/sc/invest/setting_up/section2/page12.html
+
+在日本有哪些值得报考的IT资格考试? - 知乎
+https://www.zhihu.com/question/379943332
+
+16500日元 - Google 搜索
+https://www.google.com/search?q=16500%E6%97%A5%E5%85%83&oq=16500%E6%97%A5%E5%85%83&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyBwgCEAAYgATSAQg0ODA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 Yjs Quill Example
 http://192.168.43.183:3000/quill/quill.html
 
