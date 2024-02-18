@@ -1,5 +1,7 @@
 # 2024-2-18 | 
 
+sudo apt-get install gcc-arm-none-eabi
+
 获得在留资格认定证明以后，在日本驻外使领馆申请签证时，一般需要以下文件：
 
 (1)	
