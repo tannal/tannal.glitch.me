@@ -1,3 +1,167 @@
+# 2024-2-18
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Full Lecture Schedule | Lecture List
+https://learning-systems.notion.site/9a6bfb4a9cc242b0918154c12e2cdfd3?v=fea4910d5dbe43a890b69c3e9de16869&p=c6a6fe21682243fea788ea11e34c0067&pm=s
+
+Andrej Karpathy - YouTube
+https://www.youtube.com/@AndrejKarpathy/videos
+
+Let’s implement a Bloom Filter | Extremely random blog posts from Onat
+https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
+
+distrentic/plum: A standard Bloom Filter implementation
+https://github.com/distrentic/plum
+
+192.168.43.183
+http://192.168.43.183:3000/quill/quill.html
+
+Thomas Zimmermann The Linux Graphics Stack in a Nutshell - YouTube
+https://www.youtube.com/watch?v=RCbxOZ9qYBw
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+• Discord | #seeking-something-to-contribute-to | WasmEdge
+https://discord.com/channels/846973236280950824/1116992829919600700
+
+Wrong translation for "Online" pt-PT by chicoferreira · Pull Request #135 · typst/hayagriva
+https://github.com/typst/hayagriva/pull/135/files
+
+github dev import export - Google 搜索
+https://www.google.com/search?q=github+dev+inport+export&rlz=1C1GCEA_enJP1090JP1090&oq=github+dev+inport+export&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINzAxMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+A Tour of Webassembly – Typst
+https://typst.app/project/pxHpNkF6svUwbWLuJvNyQS
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1oV8hb2xgT7gUy2c7N1Df9SSCXSiMt8hoMC1_3O6w-fY/edit
+
+Easily Format and Highlight Your Code in Google Docs | by Duncan Lew | Medium
+https://duncanlew.medium.com/easily-format-and-highlight-your-code-in-google-docs-c51cbc0ce430
+
+boot - Capture kernel panic console messages? - Ask Ubuntu
+https://askubuntu.com/questions/1441575/capture-kernel-panic-console-messages
+
+lkmp [Wiki]
+https://wiki.linuxfoundation.org/lkmp
+
+Linux kernel Bug Fixing Spring Unpaid 2024 - Guidance to solve the given Tasks — Linux Foundation Forums
+https://forum.linuxfoundation.org/discussion/864528/linux-kernel-bug-fixing-spring-unpaid-2024-guidance-to-solve-the-given-tasks
+
+Linux-kernel-mentees Info Page
+https://lists.linuxfoundation.org/mailman/listinfo/linux-kernel-mentees
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/kakapo
+https://github.com/tannal/kakapo
+
+benchmark 基准测试 | Go 语言高性能编程 | 极客兔兔
+https://geektutu.com/post/hpg-benchmark.html
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Pass WPT tests for Gamepad · Issue #31362 · servo/servo
+https://github.com/servo/servo/issues/31362
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Poe - nvim definition
+https://poe.com/chat/el9zj0stabkc73t57
+
+www.google.com
+https://www.google.com/sorry/index?continue=https://groups.google.com/g/golang-nuts&q=EhAkAIkBAAAAAPA8lP_-uV2VGObCwa4GIjAnB_KvvAhoLLUNucUWuVu7FIiCtgFTfrfobqCkzUdOy3JlH-_mxt2cmP_AOm7jnz4yAXJaAUM
+
+Modular
+https://github.com/modularml
+
+ehsanmok (Ehsan M. Kermani)
+https://github.com/ehsanmok
+
+nvarner/typst-lsp: A brand-new language server for Typst, plus a VS Code extension
+https://github.com/nvarner/typst-lsp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Sophomore&op=translate
+
+Luca Palmieri
+https://www.lpalmieri.com/
+
+ggml/examples/mnist at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/mnist
+
+ggml 知乎 - Google 搜索
+https://www.google.com/search?q=ggml+%E7%9F%A5%E4%B9%8E&sca_esv=130c2c2530734d82&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-VGHfEOTTy-s3hIpSy5VVHZllyww%3A1708153812883&ei=1FvQZcS6NZ-p4-EPxJGMiAM&ved=0ahUKEwjE9PPp6LGEAxWf1DgGHcQIAzEQ4dUDCBA&uact=5&oq=ggml+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2dnbWwg55-l5LmOMgUQABiABEi7C1AXWIEJcAF4AZABAJgBkgGgAYQHqgEDMC43uAEDyAEA-AEBwgIHECMYsAMYJ8ICChAAGEcY1gQYsAPCAgQQIxgnwgIIEAAYgAQYywHCAgoQABiABBiKBRhDwgIHEAAYgAQYDMICCRAAGIAEGAwYCogGAZAGCg&sclient=gws-wiz-serp#ip=1
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+mlsyscourse
+https://github.com/mlsyscourse
+
+07-machine-learning-compilation.pdf
+https://mlsyscourse.org/slides/07-machine-learning-compilation.pdf
+
+ggml/examples/mnist at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/mnist
+
+ggml/examples/mnist at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/mnist
+
+Full Lecture Schedule | Lecture List
+https://learning-systems.notion.site/9a6bfb4a9cc242b0918154c12e2cdfd3?v=fea4910d5dbe43a890b69c3e9de16869
+
+01_intro_and_big_ideas_in_ai_systems
+https://ucbrise.github.io/cs294-ai-sys-sp22/assets/lectures/lec01/01_intro_and_big_ideas_in_ai_systems.pdf
+
+Ion Stoica's Home Page
+https://people.eecs.berkeley.edu/~istoica/#Teaching
+
+Eric Xing's Teaching
+https://www.cs.cmu.edu/%7Eepxing/teaching.html
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst?tab=readme-ov-file
+
+What is GGUF and GGML?. GGUF and GGML are file formats used for… | by Phillip Gimmi | Medium
+https://medium.com/@phillipgimmi/what-is-gguf-and-ggml-e364834d241c
+
+读取mnist数据集方法大全（train-images-idx3-ubyte.gz，train-labels.idx1-ubyte等）（python读取gzip文件）_python读取不了train-labels.idx1-ubyte-CSDN博客
+https://blog.csdn.net/qq_34769162/article/details/108766073
+
+gdb - Visual Studio Code, debugging child process not working - Stack Overflow
+https://stackoverflow.com/questions/46627758/visual-studio-code-debugging-child-process-not-working
+
+Why are my breakpoints not being hit when debugging Google Unit Test with LLDB in Visual Code C++? - Stack Overflow
+https://stackoverflow.com/questions/76248957/why-are-my-breakpoints-not-being-hit-when-debugging-google-unit-test-with-lldb-i
+
+Debugging Rust in VSCode, no debug symbols on library, but debug symbols on example - Stack Overflow
+https://stackoverflow.com/questions/62036312/debugging-rust-in-vscode-no-debug-symbols-on-library-but-debug-symbols-on-exam
+
+Is it possible to print a backtrace in Rust without panicking? - Stack Overflow
+https://stackoverflow.com/questions/56558321/is-it-possible-to-print-a-backtrace-in-rust-without-panicking
+
+typst/docs/dev/architecture.md at main · typst/typst
+https://github.com/typst/typst/blob/main/docs/dev/architecture.md
+
+python - Prepend line to beginning of a file - Stack Overflow
+https://stackoverflow.com/questions/5914627/prepend-line-to-beginning-of-a-file
+
+tannal (tannal)
+https://github.com/tannal/
+
+reknih (Martin Haug)
+https://github.com/reknih
+
 # 2024-2-17
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

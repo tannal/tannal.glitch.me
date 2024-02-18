@@ -1,3 +1,11 @@
+# 2024-2-18 | 
+
+open source guys
+commercial guys
+research guys
+
+
+
 # 2024-2-17 | 
 
 go test -run TestSearchOnDisk -v
