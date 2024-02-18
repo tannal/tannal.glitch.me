@@ -1,5 +1,9 @@
 # 2024-2-18 | 
 
+tar -czvf boa.tar.gz boa
+
+nc -l 192.168.43. 1234 > boa.tar.gz
+
 dumpbin /exports /symbols runtime\our_code.lib
 
 https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
