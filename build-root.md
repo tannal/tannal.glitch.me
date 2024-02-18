@@ -7,6 +7,7 @@ cd buildroot
 ls configs
 
 make raspberrypi3_64_defconfig -j20
+make qemu_x86_64_defconfig
 
 
 make menuconfig

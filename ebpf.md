@@ -10,6 +10,9 @@ git clone https://github.com/iovisor/bcc.git
 
 
 ```bash
+
+sudo apt-get install bpfcc-tools linux-headers-6.1.0-18-amd64 
+
 sudo apt-get install bpfcc-tools linux-headers-$(uname -r)
 sudo stackcount-bpfcc  "simple_lookup" -Pd -i 1
 
