@@ -1,7 +1,11 @@
 # 2024-2-18 | 
 
+You can use $_ or !$ to recall the last argument of the previous 
+
 tar -czvf boa.tar.gz boa
 
+nc -l 192.168.43.26 1234 | uncompress -c | tar xvfp -
+nc -l -p 1234 | uncompress -c | tar xvfp -
 nc -l 192.168.43. 1234 > boa.tar.gz
 
 dumpbin /exports /symbols runtime\our_code.lib
