@@ -1,4 +1,14 @@
 
+
+
+https://maskray.me/blog/2013-12-31-summary
+
+https://liutos.github.io/
+
+
+https://coderemixer.com/ 天下所有歌曲都是 Remix，音符、和弦、调式、编曲模式都不是你发明的，但你把他们组合起来让它听起来好听。
+
+
 https://github.com/StudyingLover
 
 

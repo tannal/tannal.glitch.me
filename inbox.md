@@ -1,5 +1,6 @@
 # 2024-2-18 | 
 
+https://www.youtube.com/watch?v=_enXuIxuNV4&t=25m33s
 
 https://sec-wiki.com/
 
@@ -78,8 +79,6 @@ https://www.youtube.com/watch?v=RCbxOZ9qYBw&6m50s
 
 
 # 2024-2-16 | 
-f
-
 
 typst
 
