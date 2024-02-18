@@ -1,5 +1,7 @@
 # 2024-2-18 | 
 
+dumpbin /exports /symbols runtime\our_code.lib
+
 https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
 
 open source guys
