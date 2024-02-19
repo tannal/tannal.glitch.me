@@ -1,5 +1,9 @@
 # 2024-2-19 | 
 
+![Alt text](image-16.png)
+![Alt text](image-17.png)
+![Alt text](image-18.png)
+
 https://www.cs.columbia.edu/~blei/fogm/2023F/readings.html
 
 # 2024-2-18 | 
