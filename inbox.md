@@ -1,19 +1,19 @@
+# 2024-2-19 | 
+
+https://www.cs.columbia.edu/~blei/fogm/2023F/readings.html
+
 # 2024-2-18 | 
+
+https://twitter.com/ylecun
 
 sudo apt-get install gcc-arm-none-eabi
 
 获得在留资格认定证明以后，在日本驻外使领馆申请签证时，一般需要以下文件：
 
-(1)	
-护照
+护照 签证申请书
 
-(2)	
-签证申请书
-
-(3)	
 证件照(1～2张)(长4.5cm×宽4.5cm)* 也有要求宽3.5cm的日本驻外使领馆
-
-(4)	
+	
 在留资格认定证明及复印件
 
 IPA的各类资格https://www.jitec.ipa.go.jp/Lpic
@@ -31,13 +31,10 @@ https://sec-wiki.com/
 
 not by design, you have to hack very hard.
 
- 1998  git apply --whitespace=
- 1999  git apply --whitespace= 
- 2000  ls
- 2001  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd tiny-initrd.img -append "console=ttyS0 ip=dhcp debug init=/init"
- 2002  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic
- 2003  qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic -m 1G
- 2004  history
+git apply --whitespace=
+git apply --whitespace= 
+ls
+qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic -m 1G
 
 
 You can use $_ or !$ to recall the last argument of the previous 
@@ -86,8 +83,6 @@ ninja -C build -j4 mnist-cnn mnist
 minist.exe
 
 python examples/mnist/mnist-cnn.py train mnist-cnn-model
-
-
 
 ```
 

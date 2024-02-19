@@ -1,3 +1,162 @@
+# 2024-2-19
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+About | LMSYS Org
+https://lmsys.org/about/
+
+• Discord | #updates | LMSys Community
+https://discord.com/channels/1077285712241623050/1094077707291213934
+
+Chat with Open Large Language Models
+https://chat.lmsys.org/
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+Math typesetting library · HandmadeNetwork/wishlist · Discussion #3
+https://github.com/HandmadeNetwork/wishlist/discussions/3
+
+GPU architectures_10_4_19.pdf - Google 云端硬盘
+https://drive.google.com/file/d/12ahbqGXNfY3V-1Gj5cvne2AH4BFWZHGD/view
+
+Clapeysron/MiniSQL: ZJU Database Project by Clapeysron / Schwarzwald / Melody
+https://github.com/Clapeysron/MiniSQL
+
+(1) Facebook
+https://www.facebook.com/ccckmit
+
+py2cs/A2-歷史 at master · ccc112b/py2cs
+https://github.com/ccc112b/py2cs/tree/master/A2-%E6%AD%B7%E5%8F%B2
+
+STC library
+https://github.com/stclib
+
+eclipse-threadx/threadx: Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+https://github.com/eclipse-threadx/threadx
+
+Arm GNU Toolchain Downloads – Arm Developer
+https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads
+
+apple m3 - Google 搜索
+https://www.google.com/search?q=apple+m3&oq=apple+m3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE4MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+STC/docs/hmap_api.md at master · stclib/STC
+https://github.com/stclib/STC/blob/master/docs/hmap_api.md
+
+ubuntu 安装 arm-none-eabi-gcc 的几种方式 - schips - 博客园
+https://www.cnblogs.com/schips/p/12345870.html
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Graphics Programmer at Sony Playstation
+https://gamejobs.co/Graphics-Programmer-at-Sony-Playstation-5830
+
+MLSys 2024
+https://mlsys.org/
+
+Jennifer Chayes - Google 搜索
+https://www.google.com/search?q=Jennifer+Chayes&oq=Jennifer+Chayes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Bill Dally - Google 搜索
+https://www.google.com/search?q=Bill+Dally&oq=Bill+Dally&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBBzIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Michael I. Jordan's Home Page
+https://people.eecs.berkeley.edu/~jordan/
+
+cs.columbia.edu/~blei/fogm/2023F/readings.html
+https://www.cs.columbia.edu/~blei/fogm/2023F/readings.html
+
+Yann LeCun (@ylecun) / X
+https://twitter.com/ylecun
+
+dblp: Search for "mlsys"
+https://dblp.org/
+
+Mastering reveal.js | reveal.js
+https://revealjs.com/course/
+
+Mastering reveal.js | reveal.js
+https://revealjs.com/course/#table-of-contents
+
+Gumroad – Sell what you know and see what sticks
+https://gumroad.com/
+
+revealjs youtube - Google 搜索
+https://www.google.com/search?q=revealjs+youtube&sca_esv=95374ddcdb4e68e2&sxsrf=ACQVn0-Rb75IJqviSty5MrsJVIAZbTvbcA%3A1708304402992&ei=EqjSZfOKPOWN4-EP67i2qAs&ved=0ahUKEwjz2-7ombaEAxXlxjgGHWucDbUQ4dUDCBA&uact=5&oq=revealjs+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhByZXZlYWxqcyB5b3V0dWJlMgcQIRgKGKABMgcQIRgKGKABSJ4SUNcCWO8QcAF4AZABAJgBzQGgAfcJqgEFMC41LjK4AQPIAQD4AQHCAgoQABhHGNYEGLADwgINEAAYRxjWBBiwAxiLA8ICCBAAGIAEGMsBwgIKEAAYgAQYywEYCsICBhAAGAUYHsICCBAAGAgYHhgNiAYBkAYH&sclient=gws-wiz-serp#ip=1
+
+revealjs - Google 搜索
+https://www.google.com/search?q=revealjs&oq=revea&gs_lcrp=EgZjaHJvbWUqEAgAEEUYExgnGDsYgAQYigUyEAgAEEUYExgnGDsYgAQYigUyCAgBEEUYJxg7MgYIAhBFGDkyBwgDEAAYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE3OTBqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Reveal.js: HTML presentation framework | Hacker News
+https://news.ycombinator.com/item?id=25233136
+
+Confreaks - YouTube
+https://www.youtube.com/@Confreaks/videos
+
+Jon Macey's WebPages
+https://nccastaff.bournemouth.ac.uk/jmacey/
+
+Markdown | reveal.js
+https://revealjs.com/markdown/
+
+hakimel/reveal.js: The HTML Presentation Framework
+https://github.com/hakimel/reveal.js
+
+• Discord | #support | Typst
+https://discord.com/channels/1054443721975922748/1088372909111783525
+
+connachermurphy/typst-slides: Slides template for Typst
+https://github.com/connachermurphy/typst-slides
+
+Roadmap – Typst Documentation
+https://typst.app/docs/roadmap/
+
+postgresql architecture - Google 搜索
+https://www.google.com/search?q=postgresql+architecture&sca_esv=95374ddcdb4e68e2&tbm=isch&sxsrf=ACQVn08AJgs8i2DLgW63Zk5LzOxJoHf1Ig%3A1708306453111&source=hp&biw=1280&bih=593&ei=FbDSZe2MBcWHg8UP4oSzwAM&iflsig=ANes7DEAAAAAZdK-JcOdxO2Slapwki5pzvit_zFwIY9N&oq=postgresql+ar&gs_lp=EgNpbWciDXBvc3RncmVzcWwgYXIqAggAMgUQABiABDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgcQABiABBgYMgcQABiABBgYMgYQABgIGB5I1h1QwANYnBhwDHgAkAEAmAGHAaABjAKqAQMwLjK4AQPIAQD4AQGKAgtnd3Mtd2l6LWltZ6gCCsICBxAjGOoCGCfCAgQQIxgn&sclient=img#imgrc=_aeym0_Rbc1sIM
+
+Issues · typst/typst
+https://github.com/typst/typst/issues?q=is%3Aissue+image
+
+svg - Google 搜索
+https://www.google.com/search?q=svg&oq=svg&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAjGCcYgAQYigUyDggCEEUYOxhDGIAEGIoFMgwIAxAjGCcYgAQYigUyDAgEEAAYQxiABBiKBTIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDM1MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=reveal.js&sort=byPopularity&type=story
+
+hakimel/reveal.js: The HTML Presentation Framework
+https://github.com/hakimel/reveal.js
+
+raylib slides - Google 搜索
+https://www.google.com/search?q=raylib+slides&sca_esv=0ecad74c06ff5026&sxsrf=ACQVn08PQ5UYcBiPw6kNSBvqEmZwEfgHww%3A1708308034732&ei=QrbSZc6eLKiRseMPmO6PiAI&ved=0ahUKEwjOx86sp7aEAxWoSGwGHRj3AyEQ4dUDCBA&uact=5&oq=raylib+slides&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXJheWxpYiBzbGlkZXMyBRAhGKABSPUaUABY7RRwAHgBkAEAmAHZAqAB4xOqAQcwLjkuMy4xuAEDyAEA-AEBwgIMECMYgAQYigUYExgnwgIEECMYJ8ICChAAGIAEGIoFGEPCAgsQABiABBixAxiDAcICCxAuGIAEGLEDGIMBwgIREC4YgAQYsQMYgwEYxwEY0QPCAggQABiABBixA8ICChAjGIAEGIoFGCfCAg4QLhiABBixAxjHARjRA8ICCxAuGIAEGMcBGNEDwgIFEAAYgATCAgUQLhiABMICDhAuGK8BGMcBGMsBGIAEwgIIEAAYgAQYywHCAg4QLhiABBjLARjHARjRAw&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=how%20do%20you%20make%20presentations&sort=byPopularity&type=story
+
+Edit: deck
+https://slides.com/mengtan/deck/edit
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=slides.com&sort=byPopularity&type=story
+
+concise JavaScript
+https://slides.com/concise/js/fullscreen#/12
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=figma%20slides&sort=byPopularity&type=story
+
+Google 幻灯片
+https://docs.google.com/presentation/u/0/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=google%20docs&sort=byPopularity&type=story
+
+
 # 2024-2-18
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
