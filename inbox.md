@@ -1,5 +1,31 @@
 # 2024-2-19 | 
 
+JAX/Pytorch
+
+https://github.com/soulteary/tenant-point
+
+language model
+
+model (AI algoirthms)
+train & evaluate (dataset loss refine reforcement)
+a model file
+
+runtime eat model file then do the magical controlled by the model parameters
+
+salesforce nvidia
+
+model = keras.Sequential
+model.summary()
+model.compile()
+model.fit()
+model.evaluate()
+model.save()
+
+train keras.datasets.mnist.load_data()
+convert
+
+
+
 ![Alt text](image-16.png)
 ![Alt text](image-17.png)
 ![Alt text](image-18.png)
