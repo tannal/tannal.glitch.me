@@ -1,4 +1,99 @@
-# 2024-2-19fM
+# 2024-2-20
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+homework2/mlsys_hw2.ipynb at main · mlsyscourse/homework2
+https://github.com/mlsyscourse/homework2/blob/main/mlsys_hw2.ipynb
+
+dblp: Search for "mlsys"
+https://dblp.org/search?q=mlsys
+
+Pathways: Asynchronous Distributed Dataflow for ML
+https://proceedings.mlsys.org/paper_files/paper/2022/file/37385144cac01dff38247ab11c119e3c-Paper.pdf
+
+ggml/examples/mnist/mnist-cnn.py at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/master/examples/mnist/mnist-cnn.py
+
+(1) Resources
+https://tutflix.org/resources/
+
+Facebook
+https://www.facebook.com/shiwulo
+
+两元店
+https://liangyuandian.xyz/#/node
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gguf&sort=byPopularity&type=story
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+Running Hugging Face GGUF Models Locally with Ollama [video] | Hacker News
+https://news.ycombinator.com/item?id=38336362
+
+Elon Musk on X: "Over the entrance of @OpenAI https://t.co/ca3ZFdgmFe" / X
+https://twitter.com/elonmusk/status/763283865238577153
+
+Job Application for Infrastructure Engineer at xAI
+https://boards.greenhouse.io/xai/jobs/4099452007
+
+MNIST Dataset
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
+Hugging Face - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Hugging_Face
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Hugging%20Face%20gguf&sort=byPopularity&type=story
+
+ChatGPT - ScholarAI
+https://chat.openai.com/g/g-L2HknCZTC-scholarai
+
+ScholarAI | Home
+https://scholarai.io/
+
+minst - Google 搜索
+https://www.google.com/search?q=minst&oq=minst&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+soulteary/tenant-point: 租房要点，适用于北上广深杭，欢迎补充。
+https://github.com/soulteary/tenant-point
+
+ShareX/ShareX: ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+https://github.com/ShareX/ShareX
+
+Suno AI
+https://www.suno.ai/
+
+Suno
+https://app.suno.ai/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+酷玩乐团 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%85%B7%E7%8E%A9%E6%A8%82%E5%9C%98
+
+File:Coldplay - Global-Citizen-Festival Hamburg 14.jpg - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/File:Coldplay_-_Global-Citizen-Festival_Hamburg_14.jpg
+
+国家开发银行 延期 申请_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%9B%BD%E5%AE%B6%E5%BC%80%E5%8F%91%E9%93%B6%E8%A1%8C%20%E5%BB%B6%E6%9C%9F%20%E7%94%B3%E8%AF%B7&fenlei=256&rsv_pq=0xccaea1d200196d67&rsv_t=e70aCWD84W6dOmcXnFEjZfE0YbrQRcdpOKGCY%2FAvm1G15DvJitw1hwXGAFI&rqlang=en&rsv_dl=tb&rsv_sug3=31&rsv_sug1=14&rsv_sug7=101&rsv_enter=1&rsv_sug2=0&rsv_btype=i&inputT=14595&rsv_sug4=14595
+
+(1) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Andrea Righi (@arighi) / X
+https://twitter.com/arighi
+
+David Vernet (@byte_lab) / X
+https://twitter.com/byte_lab
+
+Chill stream -- hacking on sched_ext, reading some technical articles, chatting - Twitch
+https://www.twitch.tv/videos/2065150462
+
+# 2024-2-19
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me

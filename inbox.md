@@ -1,4 +1,18 @@
+# 2024-2-20 | 
+
+https://www.twitch.tv/videos/2065150462
+
+https://twitter.com/arighi
+
 # 2024-2-19 | 
+
+infinite cases
+finite try
+how to get something useful?
+
+don't be fansion
+
+大學不是職訓所, 未必要跟在企業後面跑, 基本功學扎實更能應付未來的新領域!
 
 JAX/Pytorch
 
