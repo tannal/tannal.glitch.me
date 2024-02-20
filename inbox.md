@@ -1,5 +1,236 @@
 # 2024-2-20 | 
 
+Inter-Operator (Vertical)
+```go
+package main
+
+import (
+	"fmt"
+	"sync"
+)
+
+// Define the structs for R and S relations
+type R struct {
+	id   int
+	name string
+}
+
+type S struct {
+	id    int
+	value string
+	cdate string
+}
+
+// Define the struct for the joined results
+type JoinedResult struct {
+	RId   int
+	Name  string
+	Value string
+}
+
+// Hash function to partition the relations
+func hashFunction(id int, numPartitions int) int {
+	return id % numPartitions
+}
+
+// Function to partition data
+func partitionData[T any](data []T, numPartitions int, hashFunc func(int, int) int) [][]T {
+	partitions := make([][]T, numPartitions)
+	for i := 0; i < numPartitions; i++ {
+		partitions[i] = []T{}
+	}
+
+	for _, item := range data {
+		var id int
+		switch v := any(item).(type) {
+		case R:
+			id = v.id
+		case S:
+			id = v.id
+		default:
+			panic("unknown data type")
+		}
+		partition := hashFunc(id, numPartitions)
+		partitions[partition] = append(partitions[partition], item)
+	}
+
+	return partitions
+}
+
+// Parallel hash join
+func parallelHashJoin(partitionsR [][]R, partitionsS [][]S, numPartitions int) []JoinedResult {
+	var wg sync.WaitGroup
+	results := make(chan JoinedResult, 10) // Buffered channel to collect results
+	finalResults := []JoinedResult{}
+
+	// Join partitions in parallel
+	for i := 0; i < numPartitions; i++ {
+		wg.Add(1)
+		go func(partitionR []R, partitionS []S) {
+			defer wg.Done()
+			hashTableS := make(map[int]S)
+			for _, s := range partitionS {
+				hashTableS[s.id] = s
+			}
+			for _, r := range partitionR {
+				if s, found := hashTableS[r.id]; found {
+					results <- JoinedResult{RId: r.id, Name: r.name, Value: s.value}
+				}
+			}
+		}(partitionsR[i], partitionsS[i])
+	}
+
+	// Close results channel when all goroutines are done
+	go func() {
+		wg.Wait()
+		close(results)
+	}()
+
+	// Collect results
+	for result := range results {
+		finalResults = append(finalResults, result)
+	}
+
+	return finalResults
+}
+
+func main() {
+	// Example relations
+	relationR := []R{{1, "Alice"}, {2, "Bob"}, {3, "Charlie"}}
+	relationS := []S{{1, "Value1", "2024-02-20"}, {2, "Value2", "2024-02-21"}, {3, "Value3", "2024-02-22"}}
+
+	// Number of partitions
+	numPartitions := 2 // For simplicity
+
+	// Partition data
+	partitionsR := partitionData(relationR, numPartitions, hashFunction)
+	partitionsS := partitionData(relationS, numPartitions, hashFunction)
+
+	// Perform parallel hash join
+	joinedResults := parallelHashJoin(partitionsR, partitionsS, numPartitions)
+
+	// Print results
+	for _, result := range joinedResults {
+		fmt.Printf("RId: %d, Name: %s, Value: %s\n", result.RId, result.Name, result.Value)
+	}
+}
+
+```
+
+Intra-Operator (Horizontal)
+```go
+package main
+
+import (
+	"fmt"
+	"sync"
+)
+
+// Define the structs for R and S relations
+type R struct {
+	id   int
+	name string
+}
+
+type S struct {
+	id    int
+	value string
+	cdate string
+}
+
+// Hash function to partition the relations
+func hashFunction(id int, numPartitions int) int {
+	return id % numPartitions
+}
+
+// Function to build the hash table from a relation R or S
+func buildHashTable(relation interface{}, numPartitions int) []map[int]interface{} {
+	hashTables := make([]map[int]interface{}, numPartitions)
+	for i := range hashTables {
+		hashTables[i] = make(map[int]interface{})
+	}
+
+	switch rel := relation.(type) {
+	case []R:
+		for _, tuple := range rel {
+			partition := hashFunction(tuple.id, numPartitions)
+			hashTables[partition][tuple.id] = tuple
+		}
+	case []S:
+		for _, tuple := range rel {
+			partition := hashFunction(tuple.id, numPartitions)
+			hashTables[partition][tuple.id] = tuple
+		}
+	}
+
+	return hashTables
+}
+
+// Worker to perform the join on one partition
+func joinWorker(htR, htS map[int]interface{}, results chan<- []string) {
+	for id, rTuple := range htR {
+		if sTuple, exists := htS[id]; exists {
+			// Assuming we want to join on the 'id' and print 'name' and 'value'
+			r := rTuple.(R)
+			s := sTuple.(S)
+			results <- []string{r.name, s.value}
+		}
+	}
+}
+
+func main() {
+	// Example relations
+	// Create more test data to test the join
+	relationR := []R{
+		{1, "A"},
+		{2, "B"},
+		{3, "C"},
+		{4, "D"},
+		{5, "E"},
+	}
+
+	relationS := []S{
+		{1, "X", "2020-01-01"},
+		{2, "Y", "2020-01-02"},
+		{3, "Z", "2020-01-03"},
+		{4, "W", "2020-01-04"},
+		{5, "V", "2020-01-05"},
+	}
+
+	// Number of partitions
+	numPartitions := 2 // for simplicity
+
+	// Build hash tables for each partition
+	htR := buildHashTable(relationR, numPartitions)
+	htS := buildHashTable(relationS, numPartitions)
+
+	results := make(chan []string)
+	var wg sync.WaitGroup
+
+	// Launch a worker for each partition
+	for i := 0; i < numPartitions; i++ {
+		wg.Add(1)
+		go func(partition int) {
+			defer wg.Done()
+			joinWorker(htR[partition], htS[partition], results)
+		}(i)
+	}
+
+	// Close the results channel when all workers are done
+	go func() {
+		wg.Wait()
+		close(results)
+	}()
+
+	// Collect results
+	for result := range results {
+		fmt.Println(result)
+	}
+}
+
+
+```
+
 https://www.twitch.tv/videos/2065150462
 
 https://twitter.com/arighi
