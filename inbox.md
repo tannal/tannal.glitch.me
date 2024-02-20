@@ -1,3 +1,7 @@
+# 2024-2-21 | 
+
+
+
 # 2024-2-20 | 
 
 When you found a problem, the first thing you do is ask someone.

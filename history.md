@@ -1,3 +1,173 @@
+# 2024-2-21
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+twitter.com/i/flow/login?redirect_after_login=%2Farighi
+https://twitter.com/i/flow/login?redirect_after_login=%2Farighi
+
+Thomas Zimmermann The Linux Graphics Stack in a Nutshell - YouTube
+https://www.youtube.com/watch?v=RCbxOZ9qYBw
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+pdos.csail.mit.edu/6.824/notes/l01.txt
+https://pdos.csail.mit.edu/6.824/notes/l01.txt
+
+Victory Through Synergy – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/mzr4m9/problems/victorythroughsynergy
+
+Dobra - Kattis dobra - Virtual Judge
+https://vjudge.net/problem/Kattis-Dobra
+
+2024-Spring – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring
+
+便宜机场汇总 - Askahh机场测速
+https://askahh.com/archives/26/
+
+192.168.43.183
+http://192.168.43.183:3000/monaco/monaco.html
+
+Concurrency is not Parallelism by Rob Pike - YouTube
+https://www.youtube.com/watch?v=oV9rvDllKEg
+
+19. Rob Pike - What We Got Right, What We Got Wrong | GopherConAU 2023 - YouTube
+https://www.youtube.com/watch?v=yE5Tpp2BSGw
+
+Lecture 2: RPC and Threads - YouTube
+https://www.youtube.com/watch?v=oZR76REwSyA
+
+Advanced Topics in Programming Languages:... - YouTube
+https://www.youtube.com/watch?v=HmxnCEa8Ctw
+
+Wireless Plans: Cell Phone Plan, Data Only, 5G & Family Plans | AT&T Wireless
+https://www.att.com/plans/wireless/
+
+your-tools/rusync: Minimalist rsync implementation in Rust
+https://github.com/your-tools/rusync
+
+How to use Rsync on Windows using SSH connection? | by Arun Kumar | Medium
+https://arunkrsoam.medium.com/how-to-use-rsync-on-windows-using-ssh-connection-835190e72ae0
+
+winstall.app
+https://winstall.app/apps/Rclone.Rclone
+
+rclone/rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+https://github.com/rclone/rclone
+
+Using Netcat for File Transfers
+https://nakkaya.com/2009/04/15/using-netcat-for-file-transfers/
+
+Sora
+https://openai.com/sora
+
+ChatGPT
+https://chat.openai.com/c/eacc5cf9-142d-4b4d-a049-d1e50e9c1fb4
+
+wal mart - Google 搜索
+https://www.google.com/search?q=wal+mart&rlz=1C1GCEA_enJP1090JP1090&oq=wal+mart&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGEMYgAQYigUyCQgCEAAYChiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyDwgIEC4YChjHARjRAxiABDIJCAkQABgKGIAE0gEINjE4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+mitmproxy - an interactive HTTPS proxy
+https://mitmproxy.org/
+
+stl for c github - Google 搜索
+https://www.google.com/search?q=stl+for+c+github&sca_esv=ea40fa98181f2f3e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-otSi_L-RK5X9aCMc6nB50ST092Q%3A1708265873359&ei=kRHSZfSvFbqw4-EP8K-84Ak&ved=0ahUKEwi0vMCkirWEAxU62DgGHfAXD5wQ4dUDCBA&uact=5&oq=stl+for+c+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHN0bCBmb3IgYyBnaXRodWIyCBAAGIAEGKIEMggQABiABBiiBEjsCVBAWOYHcAF4AZABAJgBvAGgAcgJqgEDMC43uAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBBAAGB7CAgoQABgeGAwYDxgKwgIFECEYoAHCAgcQIRgKGKABiAYBkAYK&sclient=gws-wiz-serp
+
+apple m3 - Google 搜索
+https://www.google.com/search?q=apple+m3&rlz=1C1GCEA_enJP1090JP1090&oq=apple+m3&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI2MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+两元店
+https://liangyuandian.xyz/#/plan
+
+便宜机场 - Google 搜索
+https://www.google.com/search?q=%E4%BE%BF%E5%AE%9C%E6%9C%BA%E5%9C%BA&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%BE%BF%E5%AE%9C&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTMzMzU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Log in | Slides
+https://slides.com/users/sign_in
+
+tensorflow/tensorflow/python/keras/layers/__init__.py at master · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/keras/layers/__init__.py
+
+tf.keras.layers.MaxPooling2D  |  TensorFlow v2.15.0.post1
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPooling2D
+
+keras/keras/layers/pooling/max_pooling2d.py at v2.15.0 · keras-team/keras
+https://github.com/keras-team/keras/blob/v2.15.0/keras/layers/pooling/max_pooling2d.py#L26-L167
+
+Excalidraw
+https://excalidraw.com/
+
+中国政府债务 bbc - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1+bbc&sca_esv=1b23332890ff0c63&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09uN8SmPRMYWBwuMlKGQuY2HovwDg%3A1708322181586&ei=he3SZev9Is6Vg8UP9vOmqAY&ved=0ahUKEwir1K2G3LaEAxXOyqACHfa5CWUQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%BA%E5%8A%A1+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuS4reWbveaUv-W6nOWAuuWKoSBiYmMyCBAAGIAEGKIEMggQABiABBiiBEiiF1CJBljXEnABeAGQAQCYAe4FoAGkFaoBCTMtMi4wLjIuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAgcQABiABBgMiAYBkAYK&sclient=gws-wiz-serp#ip=1
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+tannal/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/tannal/WasmEdge
+
+Recent conversations - Servo - Zulip
+https://servo.zulipchat.com/
+
+Implement ResizeObserver by gterzian · Pull Request #31108 · servo/servo
+https://github.com/servo/servo/pull/31108/files
+
+#general > ✔ Tauri integration as default port - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Tauri.20integration.20as.20default.20port
+
+gilrs / gilrs · GitLab
+https://gitlab.com/gilrs-project/gilrs
+
+Support Xterm JS · Issue #30822 · servo/servo
+https://github.com/servo/servo/issues/30822
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+cpp piar se fi - Google 搜索
+https://www.google.com/search?q=cpp+piar+se+fi&rlz=1C1GCEA_enJP1090JP1090&oq=cpp+piar+se+fi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAuGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzI3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+异地组建局域网，10年老网工总结的八种解决方案，你是否都懂了 - 知乎
+https://zhuanlan.zhihu.com/p/393539594
+
+通过使用 OpenVPN 协议连接到 VPN Gate
+https://www.vpngate.net/cn/howto_openvpn.aspx
+
+Dioxus Labs
+https://github.com/DioxusLabs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Robert%20Morris&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Support for Permissions Policy · Issue #31394 · servo/servo
+https://github.com/servo/servo/issues/31394
+
+install libudev-dev required by gamepad API by mukilan · Pull Request #31376 · servo/servo
+https://github.com/servo/servo/pull/31376
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+• Discord | "LFX Mentorship (Mar-May, 2024): Integrate MLX as a new WASI-NN backend#3168" | WasmEdge
+https://discord.com/channels/846973236280950824/1199060322938519604
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182
+
 # 2024-2-20
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
