@@ -1,5 +1,14 @@
 # 2024-2-20 | 
 
+
+```bash
+
+objdump -d test/plus.run --disassemble=our_code_starts_here
+
+
+
+```
+
 Inter-Operator (Vertical)
 ```go
 package main
