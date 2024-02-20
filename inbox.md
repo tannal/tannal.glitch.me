@@ -1,5 +1,12 @@
 # 2024-2-20 | 
 
+When you found a problem, the first thing you do is ask someone.
+
+It's skill and connection issue to know someone who can answer your question.
+
+Hard Work alone doesn't get you what you want.
+You have to make something good.
+
 
 ```bash
 
