@@ -8,6 +8,28 @@ https://hsmemo.github.io/
 
 # 2024-2-20 | 
 
+する suru
+
+想定 soutei 
+
+はじめに 介绍
+
+入門 nyuumon 介绍
+
+作成　sakusei 创造
+
+ため　tame 为了
+
+人の　hito no
+
+コンパイラ Konpaira compiler
+
+低レイヤ Tei reiya
+
+知りたい shiritai
+
+https://people.eecs.berkeley.edu/~matei/#teaching
+
 When you found a problem, the first thing you do is ask someone.
 
 It's skill and connection issue to know someone who can answer your question.
