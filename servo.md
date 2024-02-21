@@ -199,6 +199,11 @@ igalia delan rego robinson
 
 jdm
 
+Daniel Adams Gamepad API
+
+Gregory Terzian
+
+https://github.com/sagudev
 
 other contributors
 

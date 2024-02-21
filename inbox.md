@@ -1,6 +1,10 @@
 # 2024-2-21 | 
 
+https://knoxxs.github.io/assets/garbageCollection2/a_generational_mostly_concurrent_garbage_collector.pdf
 
+https://knoxxs.github.io/chat/architecture/real-time/2015/11/23/chat-architecture-everywhere/
+
+https://hsmemo.github.io/
 
 # 2024-2-20 | 
 
