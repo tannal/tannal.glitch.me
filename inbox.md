@@ -1,5 +1,44 @@
 # 2024-2-21 | 
 
+https://acl.inf.ethz.ch/teaching/
+https://acl.inf.ethz.ch/teaching/fastcode/2023/
+
+Machine Learning
+Database Software
+Computer Graphics and Games
+
+Dense Linear Algebra
+Sparse Linear Algebra
+Spectral Methods
+N-Body Methods
+Structured Grids
+Unstructured Grids
+Monte Carlo
+
+https://www.cs.cornell.edu/~bindel/
+
+https://www.cs.cornell.edu/courses/cs4220/2023sp/schedule.html
+
+https://patterns.eecs.berkeley.edu/
+
+Krste Asanovic
+Ras Bodik
+Bryan Christopher Catanzaro
+Joseph James Gebis
+Parry Husbands
+Kurt Keutzer
+David A. Patterson
+William Lester Plishker
+John Shalf
+Samuel Webb Williams
+Katherine A. Yelick
+
+V = sum of all value people think you (or your work) have
+
+https://ucb-wsc-fa23.github.io/#weekly-schedule
+
+https://slack-chats.kotlinlang.org/?utm_campaign=slack_promo&utm_medium=survey&utm_source=alchemer
+
 https://knoxxs.github.io/assets/garbageCollection2/a_generational_mostly_concurrent_garbage_collector.pdf
 
 https://knoxxs.github.io/chat/architecture/real-time/2015/11/23/chat-architecture-everywhere/
