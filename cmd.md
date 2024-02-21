@@ -1,5 +1,7 @@
 # list all usb devices
 
+winget install Helix.Helix
+
 wmic path Win32_USBControllerDevice get Dependent
 
 

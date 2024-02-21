@@ -3,6 +3,132 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Pull requests · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/pulls
+
+6.824 Schedule: Spring 2021
+http://nil.csail.mit.edu/6.824/2021/schedule.html
+
+Lecture 3: GFS - YouTube
+https://www.youtube.com/watch?v=6ETFk1-53qU
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=mit%206.&sort=byPopularity&type=story
+
+MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman
+https://deeplearning.mit.edu/
+
+Explore / X
+https://twitter.com/explore
+
+Lecture 3: GFS - YouTube
+https://www.youtube.com/watch?v=EpIgvowZr00&t=11s
+
+6.5840 Schedule: Spring 2024
+https://pdos.csail.mit.edu/6.824/schedule.html
+
+Lecture 9: Zookeeper - YouTube
+https://www.youtube.com/watch?v=HYTDDLo2vSE
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+(2) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+086.pdf
+https://eprint.iacr.org/2016/086.pdf
+
+Victor Costan - Google 搜索
+https://www.google.com/search?q=Victor+Costan&oq=Victor+Costan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Victor Costan (龍望) (@pwnall) / X
+https://twitter.com/pwnall
+
+Victor Costan
+https://blog.costan.us/
+
+Srini Devadas
+https://people.csail.mit.edu/devadas/
+
+Programming for the Puzzled
+https://mitpress.mit.edu/9780262534307/
+
+6.5660 / Spring 2023
+https://css.csail.mit.edu/6.858/2023/
+
+Panopto
+https://mit.hosted.panopto.com/Panopto/Pages/Auth/Login.aspx?Auth=SessionView&panoptoState=2f57d0ec-93aa-4ba8-bdeb-b11d00d8f867
+
+css.csail.mit.edu/6.858/2023/lec/l05-isolation.txt
+https://css.csail.mit.edu/6.858/2023/lec/l05-isolation.txt
+
+Digging into Linux namespaces - part 1
+https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=imitate%20&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=datacenter%20&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Andrew%20Tanenbaum&sort=byPopularity&type=story
+
+Andrew S. Tanenbaum, Professor at the Vrije Universiteit
+https://www.cs.vu.nl/~ast/home/faq.html
+
+"FS: bogus child for forking" - Google 搜索
+https://www.google.com/search?q=%22FS%3A+bogus+child+for+forking%22&oq=%22FS%3A+bogus+child+for+forking%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEyNzgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+如何看待英特尔管理引擎(Intel ME)被爆出运行在 Minix3 操作系统？ - 知乎
+https://www.zhihu.com/question/67749141
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/
+
+Welcome Gemma - Google’s new open LLM
+https://huggingface.co/blog/gemma
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+helix/book/src/install.md at cad0209e202a7513105639daa36c82578db4032d · helix-editor/helix
+https://github.com/helix-editor/helix/blob/cad0209e202a7513105639daa36c82578db4032d/book/src/install.md?plain=1#L18
+
+Helix: a post-modern modal text editor | Hacker News
+https://news.ycombinator.com/item?id=27358479
+
+Keymap
+https://docs.helix-editor.com/keymap.html#view-mode
+
+hrvach/deskhop: Fast Desktop Switching Device
+https://github.com/hrvach/deskhop
+
+PowerSnail/ScoreInUrl: Display and edit music score using ABC notations, and encode it in the URL
+https://github.com/PowerSnail/ScoreInUrl
+
+Score in URL
+https://powersnail.com/ScoreInUrl/?s=VDogUGFydGl0YSBJSUkgLSBQcmVsdWRpbwpDOiBKLlMuIEJhY2gKUTogMS80PTEyMApNOiAzLzQKTDogMS8xNgpLOiBFbWFqCnoyIGUnZCcgZScyYjJnMmIyIHwgKGVmZWQgZTIpQjJHMkIyIHwgRUJGQiBHQkFCIEdCRkIgfApFZWRjIEJlZGMgQkFHRiAgICB8IEVCRkIgR0JBQiBHQkZCICB8IEVlZGMgQmVkYyBCQUdGIHwKRUZHQSBCY2RlIGZnYWYgICAgfCBnYmVmIGdhYmMnIGQnZSdjJ2QnICB8IGUnYmFiIGdiYWIgZ2JmYiB8CmVlJ2QnYycgYmVjJ2UgYmVhZXwgZ2JmYiBnYmFiIGdiZmIgIHwgZWUnZCdjJyBiZWMnZSBiZWFlIHwKZ2VlZWRlZWVmZWRlIHwgZWVnZWZlZ2VhZWZlIHwgZ2VlZWRlZWVmZWRlIHwKZWVnZWZlZ2VhZWZlIHwgZ2VnZSBnZWdlIGdlZ2UgfCBnZWdkIGdlZ2QgZ2VnZCB8CmdlZz1kIGdlZ2QgZ2VnZCB8IGFlYWMgYWVhYyBhZWFjIHwgYWVhQiBhZWFCIGFlYUIgfApnZWdCIGdlZ0IgZ2VnQiB8IGdlZ0EgZ2VnQSBnZWdBIHwgZmVmQSBmZWZBIGZlZkEgfApmZWZHIGZlZkcgZmVmRyB8IGVlZUcgZWVlRyBlZWVHIHwgZWVlRiBlZWVGIGVlZUYgfApkZWRGIGRlZEYgZGVkRiB8IEVGRUYgR0JFRiBHQkVGIHwgR0FHQSBCZUdBIEJlR0EgfA%3D%3D
+
+abcjs
+https://www.abcjs.net/
+
+List of posts - <antirez>
+http://antirez.com/latest/0
+
+- 尼普学种花
+https://kneep.github.io/about/
+
+NVIDIA/TensorRT: NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.
+https://github.com/NVIDIA/TensorRT
+
+moturus
+https://github.com/moturus
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Pass Manager @ LLVM Conference
 https://llvm.org/devmtg/2007-05/03-Patel-Passmanager.pdf
 

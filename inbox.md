@@ -1,5 +1,33 @@
 # 2024-2-21 | 
 
+
+ggml https://github.com/NVIDIA/TensorRT
+
+
+https://docs.helix-editor.com/keymap.html#view-mode
+
+http://antirez.com/latest/0
+
+https://github.com/hrvach/deskhop
+
+bootstrap processor & application processor idle wait
+
+https://www.zhihu.com/question/67749141
+
+Intel Management Engine (ME) 32bit cpu 1.7MB DMA NIC
+
+pci bus / pcie bus / memory bus
+
+pch sata usb nic pcie attached ssd
+
+
+
+https://eprint.iacr.org/2016/086.pdf
+
+![Alt text](image-19.png)
+
+https://people.csail.mit.edu/devadas/
+
 February 21st until April 3rd
 
 https://gitlab.gnome.org/GNOME
