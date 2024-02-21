@@ -1,5 +1,17 @@
 # 2024-2-21 | 
 
+https://timilearning.com/posts/mit-6.824/lecture-3-gfs/
+
+Ceph
+
+https://aods.cryingpotato.com/
+https://.github.io/Pages/
+https://ferd.ca/
+
+Beyond good grades, good GRE scores, and positive recommendation letters, the one thing that can improve a student's chances of admission into our program is a track record of research publication. A publication in a reputable conference really makes an application stand out.
+
+DeepScale Tesla
+
 https://acl.inf.ethz.ch/teaching/
 https://acl.inf.ethz.ch/teaching/fastcode/2023/
 
@@ -22,7 +34,7 @@ https://www.cs.cornell.edu/courses/cs4220/2023sp/schedule.html
 https://patterns.eecs.berkeley.edu/
 
 Krste Asanovic
-Ras Bodik
+Ras Bodik https://homes.cs.washington.edu/~bodik/index.html
 Bryan Christopher Catanzaro
 Joseph James Gebis
 Parry Husbands

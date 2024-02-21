@@ -3,6 +3,141 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+A tour of V8: Garbage Collection — jayconrod.com
+https://www.jayconrod.com/posts/55/a-tour-of-v8--garbage-collection
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
+
+NVIDIA Corporation - Financial Reports
+https://investor.nvidia.com/financial-info/financial-reports/
+
+PowerPoint Presentation
+https://s201.q4cdn.com/141608511/files/doc_financials/2024/q2/nvda-f2q24-investor-presentation-final-1.pdf
+
+(1) Resources
+https://tutflix.org/resources/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Using JSR with Vite - Docs - JSR
+https://jsr.io/docs/with/vite
+
+• Discord | #riscv-backend | Zig Programming Language
+https://discord.com/channels/605571803288698900/1205579281518952469
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+#general > Clipboard Events API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Clipboard.20Events.20API
+
+msub2 (Daniel Adams)
+https://github.com/msub2
+
+m₂ | Home
+https://www.msub2.com/
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pull/31234/files
+
+Presentations :: Intel Corporation (INTC)
+https://www.intc.com/news-events/presentations
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%A9%9F%E6%A2%B0%E8%AA%9E%E3%81%A8%E3%82%A2%E3%82%BB%E3%83%B3%E3%83%96%E3%83%A9&op=translate
+
+g1-paper-ismm.dvi
+http://cs.williams.edu/~dbarowy/cs334s18/assets/p37-detlefs.pdf
+
+joyeecheung (joyeecheung) / Repositories
+https://github.com/joyeecheung?tab=repositories
+
+talks/sysu/node.js&v8_m$.pdf at master · joyeecheung/talks
+https://github.com/joyeecheung/talks/blob/master/sysu/node.js&v8_m$.pdf
+
+markdog12's comments | Hacker News
+https://news.ycombinator.com/threads?id=markdog12
+
+BrutalCoding/aub.ai: AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app.
+https://github.com/brutalcoding/aub.ai
+
+mraleph's comments | Hacker News
+https://news.ycombinator.com/threads?id=mraleph
+
+kotlinlang #announcements
+https://slack-chats.kotlinlang.org/?utm_campaign=slack_promo&utm_medium=survey&utm_source=alchemer
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=risc-v&sort=byPopularity&type=story
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%201&sort=byPopularity&type=story
+
+Pat Virtue
+https://www.cs.cmu.edu/~pvirtue/
+
+Advanced Systems Lab - Spring 2023
+https://acl.inf.ethz.ch/teaching/fastcode/2023/
+
+Teaching
+https://acl.inf.ethz.ch/teaching/
+
+ETH Zürich/CS: Design of Parallel and High-Performance Computing
+https://spcl.inf.ethz.ch/Teaching/2022-dphpc/
+
+EECS-2006-183.pdf
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf
+
+CS294-252: Architectures and Systems for Warehouse-Scale Computers, Fall 2023, UC Berkeley | CS294-252
+https://ucb-wsc-fa23.github.io/#weekly-schedule
+
+Dense Linear Algebra - Google 搜索
+https://www.google.com/search?q=Dense+Linear+Algebra&rlz=1C1GCEA_enJP1090JP1090&oq=Dense+Linear+Algebra&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI5OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+blas - Google 搜索
+https://www.google.com/search?q=blas&rlz=1C1GCEA_enJP1090JP1090&oq=blas&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/eded6d6d-ad17-4b79-9a4b-6d842912c714
+
+Ras Bodik - Google 搜索
+https://www.google.com/search?q=Ras+Bodik&rlz=1C1GCEA_enJP1090JP1090&oq=Ras+Bodik&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Ras Bodik
+https://simons.berkeley.edu/people/ras-bodik
+
+homes.cs.washington.edu/~bodik/index.html
+https://homes.cs.washington.edu/~bodik/index.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=distributed%20systems&sort=byPopularity&type=story
+
+Distributed Systems Course
+https://www.distributedsystemscourse.com/
+
+ferd.ca
+https://ferd.ca/
+
+MIT 6.824: Lecture 3 - GFS
+https://timilearning.com/posts/mit-6.824/lecture-3-gfs/
+
+Distributed Systems Reading List
+https://dancres.github.io/Pages/
+
+Advent of Distributed Systems
+https://aods.cryingpotato.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 twitter.com/i/flow/login?redirect_after_login=%2Farighi
 https://twitter.com/i/flow/login?redirect_after_login=%2Farighi
 
