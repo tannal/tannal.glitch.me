@@ -3,6 +3,153 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Pass Manager @ LLVM Conference
+https://llvm.org/devmtg/2007-05/03-Patel-Passmanager.pdf
+
+[ACM Press the third ACM SIGPLAN conference - San Diego, California (2007.06.09-2007.06.10)] Proceedings of the third ACM SIGPLAN conference on History of programming languages - HOPL III - Self | 10.1145/1238844.1238853_Science Hub
+https://www.tesble.com/10.1145/1238844.1238853
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Advent of Distributed Systems
+https://aods.cryingpotato.com/
+
+jepsen-io/maelstrom: A workbench for writing toy implementations of distributed systems.
+https://github.com/jepsen-io/maelstrom/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%201&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=stanford%20cs&sort=byPopularity&type=story
+
+https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D0rZtSwNOTQo%26list%3DPLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&q=EgSs6VVDGL_n1q4GIjDmNdeb8qWpuXVcrKR0LaU901hmq_ATru8yNmhDzfhshbF3ok9_400uLNZ7rHK6mQMyAXJaAUM
+
+Stanford University CS224d: Deep Learning for Natural Language Processing
+https://cs224d.stanford.edu/syllabus.html
+
+Profile: Rochus | Hacker News
+https://news.ycombinator.com/user?id=Rochus
+
+Self | Proceedings of the third ACM SIGPLAN conference on History of programming languages
+https://dl.acm.org/doi/10.1145/1238844.1238853?dl=GUIDE&WantType=Proceedings&coll=GUIDE&part=series&CFTOKEN=60061704&title=HOPL&type=series&idx=SERIES003&CFID=32568898
+
+UC Berkeley Webcast Videos : Free Movies : Free Download, Borrow and Streaming : Internet Archive
+https://archive.org/details/ucberkeley-webcast
+
+ERL-M85-95.pdf
+https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+
+sci hub - Google 搜索
+https://www.google.com/search?q=sci+hub&rlz=1C1GCEA_enJP1090JP1090&oq=sci+hub&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEHOTExajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gitlen&sort=byPopularity&type=story
+
+Is there a plugin similar to GitLens for VS Code? : IntelliJIDEA
+https://www.reddit.com/r/IntelliJIDEA/comments/ezsftr/is_there_a_plugin_similar_to_gitlens_for_vs_code/
+
+GitLess - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=maattdd.gitless
+
+GitLens Pro Features
+https://www.gitkraken.com/gitlens/pro-features
+
+Rochus Keller's Website | About me and what I do
+http://rochus-keller.ch/
+
+(1) Resources
+https://tutflix.org/resources/
+
+ChatGPT
+https://chat.openai.com/c/25ab6719-0340-4ad0-8e93-58e7be084e67
+
+YOLO: Real-Time Object Detection
+https://pjreddie.com/darknet/yolo/
+
+How To Debug A Program With Arguments In VSCode - YouTube
+https://www.youtube.com/watch?v=zSljcz54pYQ
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=search%20engine&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20browser%20company&sort=byPopularity&type=story
+
+The world needs Cliqz. The world needs more search engines.
+https://www.0x65.dev/blog/2019-12-01/the-world-needs-cliqz-the-world-needs-more-search-engines.html
+
+reddit search - Google 搜索
+https://www.google.com/search?q=reddit+search&rlz=1C1GCEA_enJP1090JP1090&oq=reddit+search&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDU1MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Posts containing 'berkely cs' - Stack Overflow
+https://stackoverflow.com/search?q=Berkely+CS
+
+Search the Stack Exchange Network of Sites
+https://stackexchange.com/search?q=Jeff+dean&page=2
+
+HackerNews/API: Documentation and Samples for the Official HN API
+https://github.com/HackerNews/API
+
+Hacker News Official API | Hacker News
+https://news.ycombinator.com/item?id=32540883
+
+HN Search API | HN Search powered by Algolia
+https://hn.algolia.com/api
+
+json to relational model - Google 搜索
+https://www.google.com/search?sca_esv=e96a0e7e0d01906d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_7NsLelKdB6Ii22HmrKBkjosPvew:1708511280162&q=json+to+relational+model&spell=1&sa=X&ved=2ahUKEwj-k8u_nLyEAxU9xDgGHTtPB4YQBSgAegQIBhAC&biw=1536&bih=738&dpr=1.25
+
+Outreachy celebrates the 1K interns milestone. This is how it went! - YouTube
+https://www.youtube.com/watch?v=QrV3huC4UTo
+
+Outreachy Internships (@outreachy) / X
+https://twitter.com/outreachy
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+OpenTelemetry - CNCF
+https://github.com/open-telemetry
+
+QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu
+
+Submitting a Patch — QEMU documentation
+https://www.qemu.org/docs/master/devel/submitting-a-patch.html
+
+systemd/systemd: The systemd System and Service Manager
+https://github.com/systemd/systemd
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+people class discrimination - Google 搜索
+https://www.google.com/search?q=people+class+discrimination&rlz=1C1GCEA_enJP1090JP1090&oq=people+class+discrimination&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEJMTMxMzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+OS Revolution - Google 搜索
+https://www.google.com/search?q=OS+Revolution&rlz=1C1GCEA_enJP1090JP1090&oq=OS+Revolution&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Revolution OS - Wikipedia
+https://en.wikipedia.org/wiki/Revolution_OS
+
+Pitivi — Contributing
+https://www.pitivi.org/contribute/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 15-442/15-642 | Schedule
 https://mlsyscourse.org/schedule
 

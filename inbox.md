@@ -1,5 +1,16 @@
 # 2024-2-21 | 
 
+February 21st until April 3rd
+
+https://gitlab.gnome.org/GNOME
+https://www.qemu.org/docs/master/devel/submitting-a-patch.html
+https://github.com/systemd/systemd
+https://github.com/open-telemetry
+
+https://news.ycombinator.com/item?id=32540883
+
+executing + rendering remote code in a sandboxed window
+
 data data structure proceducre
 fastpath slowpath typical case edge case
 
@@ -9,7 +20,7 @@ ptmalloc tcmalloc jemalloc
 arena malloc_state linked list
 malloc_chunk double linked list
 bins bitmap of bins
-fastbins smallbins largebins unsortedbins top chunk
+fastbins smallbins unsorted bins largebins unsortedbins top chunk
 malloc free
 
 ..\..\build\bin\yolov3-tiny -m yolov3-tiny.gguf -i dog.jpg
