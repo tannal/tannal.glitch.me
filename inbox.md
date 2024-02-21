@@ -1,5 +1,28 @@
 # 2024-2-21 | 
 
+data data structure proceducre
+fastpath slowpath typical case edge case
+
+mmap brk 4kb page
+memory allocator
+ptmalloc tcmalloc jemalloc
+arena malloc_state linked list
+malloc_chunk double linked list
+bins bitmap of bins
+fastbins smallbins largebins unsortedbins top chunk
+malloc free
+
+..\..\build\bin\yolov3-tiny -m yolov3-tiny.gguf -i dog.jpg
+
+Invoke-WebRequest -Uri https://pjreddie.com/media/files/yolov3-tiny.weights -OutFile yolov3-tiny.weights
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/pjreddie/darknet/master/data/dog.jpg -OutFile dog.jpg
+
+https://cs224d.stanford.edu/syllabus.html
+
+https://www.tesble.com/10.1145/1238844.1238853
+
+https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+
 https://timilearning.com/posts/mit-6.824/lecture-3-gfs/
 
 Ceph
