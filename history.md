@@ -1,3 +1,125 @@
+# 2024-2-22
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+• Discord | #📣｜announcements | Liveblocks
+https://discord.com/channels/913109211746009108/913157532619526164
+
+086.pdf
+https://eprint.iacr.org/2016/086.pdf
+
+Victor Costan - Google 搜索
+https://www.google.com/search?q=Victor+Costan&rlz=1C1GCEA_enJP1090JP1090&oq=Victor+Costan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pushdown&sort=byPopularity&type=story
+
+gscept/nebula: Nebula is an open-source and free-to-use modern C++ game engine.
+https://github.com/gscept/nebula
+
+2023 · master · Hengfeng Wei / compilers-lectures · GitLab
+https://git.nju.edu.cn/hengxin/compilers-lectures/-/tree/master/2023?ref_type=heads
+
+after effects - Google 搜索
+https://www.google.com/search?q=after+effects&rlz=1C1GCEA_enJP1090JP1090&oq=after+effects&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0OTU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Airbnb
+https://github.com/airbnb
+
+kroggen/mamba.c: Inference of Mamba models in pure C
+https://github.com/kroggen/mamba.c
+
+karpathy/llama2.c: Inference Llama 2 in one file of pure C
+https://github.com/karpathy/llama2.c
+
+cubzh/cubzh
+https://github.com/cubzh/cubzh
+
+Cubzh
+https://github.com/cubzh
+
+A first dip into OS kernel development with xv6 and the 6.1810 labs | Jannes' place on the web
+https://jannestimm.com/posts/xv6/
+
+6.1810 / Fall 2023
+https://pdos.csail.mit.edu/6.828/2023/index.html
+
+6.5810 Fall 2023
+https://kaashoek.github.io/65810-2023/
+
+mit-pdos/sigmaos
+https://github.com/mit-pdos/sigmaos
+
+ROCm/HIP: HIP: C++ Heterogeneous-Compute Interface for Portability
+https://github.com/ROCm/HIP
+
+arpitingle/gpu-alpha
+https://github.com/arpitingle/gpu-alpha
+
+How GPU Computing Works | GTC 2021 - YouTube
+https://www.youtube.com/watch?v=3l10o0DYJXg
+
+stephen jones nvidia - Google 搜索
+https://www.google.com/search?q=stephen+jones+nvidia&rlz=1C1GCEA_enJP1090JP1090&oq=stephen+jones+nvidia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMzOTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+foldl/chatllm.cpp: Pure C++ implementation of several models for real-time chatting on your computer (CPU)
+https://github.com/foldl/chatllm.cpp
+
+foldl (Judd)
+https://github.com/foldl
+
+Issues · StractOrg/stract
+https://github.com/StractOrg/stract/issues
+
+Stract: Open-souce, non-profit search engine | Hacker News
+https://news.ycombinator.com/item?id=39254172
+
+gaia github - Google 搜索
+https://www.google.com/search?q=gaia+github&rlz=1C1GCEA_enJP1090JP1090&oq=gaia+github+&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgcIARAAGIAEMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYBRgeMggICBAAGAUYHjIICAkQABgIGB7SAQgzNDUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Terraform - Google 搜索
+https://www.google.com/search?q=Terraform&rlz=1C1GCEA_enJP1090JP1090&oq=Terraform&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDY0NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CSRT-NTUA/AlgoPlus: AlgoPlus is a C++17 library for complex data structures and algorithms
+https://github.com/CSRT-NTUA/AlgoPlus
+
+AlgoPlus: Algoplus{BETA Version}
+https://csrt-ntua.github.io/AlgoPlus/
+
+Dhravya/notty: An open source, minimal AI powered note taking app and powerful markdown editor
+https://github.com/Dhravya/notty?tab=readme-ov-file
+
+About | LMSYS Org
+https://lmsys.org/about/
+
+Issues · astral-sh/uv
+https://github.com/astral-sh/uv/issues
+
+sts10 (Sam Schlinkert)
+https://github.com/sts10/
+
+symao (Shuyuan Mao)
+https://github.com/symao/
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzNTU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+DAXPY Operation Explained
+https://chat.openai.com/c/ddd9ad08-0833-4114-900d-b0e793b5155c
+
+memory latency - Google 搜索
+https://www.google.com/search?q=memory+latency&rlz=1C1GCEA_enJP1090JP1090&oq=memory+latency&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4NjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+www.google.com
+https://www.google.com/search?q=Ampere+A100+GPU&rlz=1C1GCEA_enJP1090JP1090&oq=Ampere+A100+GPU&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2024-2-21
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,5 +1,44 @@
-# 2024-2-21 | 
+# 2024-2-22 | 
 
+machine learning models, simulations, and graphical rendering
+
+Streaming Multiprocessors
+registers
+L1 cache and shared memory per SM
+a large L2 cache of 40MB that is shared across all SMs
+80GB of HBM (High Bandwidth Memory)
+
+Ampere A100 GPU
+
+GPU memory high latency and high bandwidth
+
+Nvidia A100 thread 221,184
+AMD Rome 7742 24,888
+Intel Xeon 8280 12,727
+
+memory latency
+
+GigaFlops Memory Bandwidth compute indensity
+
+computing indensity = flops / data rate
+
+stephen jones nvidia
+
+https://github.com/sts10/
+
+https://github.com/symao/
+
+https://github.com/ROCm/HIP
+
+https://github.com/airbnb
+
+Adobe After Effects
+
+https://git.nju.edu.cn/hengxin/compilers-lectures/-/tree/master/2023?ref_type=heads
+
+projection push down
+
+# 2024-2-21 | 
 
 ggml https://github.com/NVIDIA/TensorRT
 
