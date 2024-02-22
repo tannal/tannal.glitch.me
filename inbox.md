@@ -1,5 +1,77 @@
 # 2024-2-22 | 
 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\Tools\Microsoft.VisualStudio.DevShell.dll
+
+$vsPath = "C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\"
+Import-Module (Join-Path $vsPath "Common7\Tools\Microsoft.VisualStudio.DevShell.dll")
+Enter-VsDevShell -VsInstallPath $vsPath -SkipAutomaticLocation -DevCmdArguments "-arch=x64 -host_arch=x64 -winsdk=10.0.17763.0"
+LLVM-16.0.6-win64/lib/cmake/llvm/LLVMExports.cmake
+
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0
+
+set_target_properties(LLVMDebugInfoPDB PROPERTIES
+  INTERFACE_LINK_LIBRARIES "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/DIA SDK/lib/amd64/diaguids.lib;LLVMBinaryFormat;LLVMObject;LLVMSupport;LLVMDebugInfoCodeView;LLVMDebugInfoMSF"
+)
+
+
+```bash
+
+{
+    "version": 2,
+    "configurePresets": [
+        {
+            "name": "wasmedge",
+            "displayName": "Clang 17.0.6 x86_64-pc-windows-msvc",
+            "description": "Using compilers: C = C:\\Program Files\\LLVM\\bin\\clang.exe, CXX = C:\\Program Files\\LLVM\\bin\\clang++.exe",
+            "binaryDir": "${sourceDir}/out/build/${presetName}",
+            "generator": "Ni",
+            "cacheVariables": {
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}",
+                "CMAKE_C_COMPILER": "C:/Program Files/LLVM/bin/clang.exe",
+                "CMAKE_CXX_COMPILER": "C:/Program Files/LLVM/bin/clang++.exe",
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_SYSTEM_VERSION": "10.0.19041.0",
+                "CMAKE_MSVC_RUNTIME_LIBRARY": "MultiThreadedDLL",
+                "LLVM_DIR": "C:\\Users\\tannal\\Downloads\\LLVM-16.0.6-win64\\lib\\cmake\\llvm",
+                "WASMEDGE_BUILD_TESTS": "ON",
+                "WASMEDGE_BUILD_PACKAGE": "ZIP"
+            }
+        }
+    ]
+}
+
+```
+
+https://lexi-lambda.github.io/about.html
+
+```bash
+
+$llvm = "LLVM-16.0.6-win64-MultiThreadedDLL.zip"
+curl -sLO https://github.com/WasmEdge/llvm-windows/releases/download/llvmorg-16.0.6/LLVM-16.0.6-win64-MultiThreadedDLL.zip -o $llvm
+Expand-Archive -Path $llvm
+
+$llvm_dir = "C:\Users\tannal\Downloads\LLVM-16.0.6-win64\lib\cmake\llvm"
+# Use clang-cl as the compiler.
+# Comment out the following two lines to use MSVC.
+$Env:CC = "clang-cl"
+$Env:CXX = "clang-cl"
+
+$Env:CC = "clang"
+$Env:CXX = "clang"
+
+
+cmake -Bbuild -GNinja -DCMAKE_MSVC_RUNTIME_LIBRARY=MultiThreadedDLL "-DLLVM_DIR=$llvm_dir" -DWASMEDGE_BUILD_TESTS=ON -DWASMEDGE_BUILD_PACKAGE="ZIP" .
+
+cmake --build build
+
+```
+
+Documentation is not supposed to change frequently.
+
+If it does, means that your interface change a lot and the API is not stable yet.
+
+
+
 https://hackmd.io/@sysprog/ByLJ8DUFT?fbclid=IwAR2ZXqV3Ddv3nSurZcdZINEBv46R-jpZCxa3_cYJa56gCV1j-iNvhLyQSjs
 
 https://twitter.com/jimkxa

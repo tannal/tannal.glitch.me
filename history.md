@@ -1,5 +1,140 @@
 # 2024-2-22
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tech Notes: Graphics stack
+https://neugierig.org/software/blog/2011/11/graphics-stack.html
+
+Rust Loop +2 Increment
+https://chat.openai.com/c/f31cc1eb-1573-4807-b0ef-52f1fa988685
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Courses | Brilliant
+https://brilliant.org/courses/#/math/mathematical-thinking#/math/mathematical-thinking
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+a-nikolaev/study-in-scarlet: A simple Unix-friendly toolkit for plagiarism detection.
+https://github.com/a-nikolaev/study-in-scarlet
+
+ComodoSecurity/openedr: Open EDR public repository
+https://github.com/ComodoSecurity/openedr
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=baking%20contest&op=translate
+
+logic - Are Mathematicians Pluralists About Math? - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/2816393/are-mathematicians-pluralists-about-math
+
+snapchat - Google 搜索
+https://www.google.com/search?q=snapchat&sca_esv=15f8c5997f1624f4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_iWV0Mr7I-DOYgzgW8Xn577KPMLg%3A1708592023681&ei=lwvXZdb2KK_R2roP-vqdwAQ&ved=0ahUKEwiWnoylyb6EAxWvqFYBHXp9B0gQ4dUDCBA&uact=5&oq=snapchat&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIghzbmFwY2hhdDIKECMYgAQYigUYJzIKECMYgAQYigUYJzIKECMYgAQYigUYJzIQEC4YgAQYigUYQxjHARjRAzIKEAAYgAQYigUYQzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPUJUFVY-whwAXgBkAEAmAGnBKABpAiqAQM1LTK4AQPIAQD4AQHCAhMQABhHGNYEGLADGIsDGKYDGKgDwgIKEAAYRxjWBBiwA4gGAZAGCg&sclient=gws-wiz-serp
+
+Continuum Hypothesis better explained - Google 搜索
+https://www.google.com/search?q=Continuum+Hypothesis+better+explained&sca_esv=15f8c5997f1624f4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-ZwW63jUfVkDaJ_IGSioDpcuerwA%3A1708592127120&ei=_wvXZc7zBuvf2roPno2boAk&ved=0ahUKEwiO77XWyb6EAxXrr1YBHZ7GBpQQ4dUDCBA&uact=5&oq=Continuum+Hypothesis+better+explained&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIiVDb250aW51dW0gSHlwb3RoZXNpcyBiZXR0ZXIgZXhwbGFpbmVkMgcQIRgKGKABSM87UOsJWMY6cAF4AZABAZgBsQigAYo_qgENMi0xLjMuMy42LjEuMbgBA8gBAPgBAcICChAAGEcY1gQYsAPCAg0QABhHGNYEGLADGIsDwgIIEAAYgAQYywHCAgYQABgeGA_CAgYQABgFGB7CAggQABgIGB4YD8ICBRAhGKABiAYBkAYI&sclient=gws-wiz-serp
+
+下载您的文件 — Convertio
+https://convertio.co/zh/download/fef38f4a3177a25f7155a9291d430d0d017200/
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=logicians%20math&sort=byPopularity&type=story
+
+Computational Complexity: Disproving the Myth that many early logicians were a few axioms short of a complete set
+https://blog.computationalcomplexity.org/2011/07/disproofing-myth-that-many-early.html
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=open%20source%20office&sort=byPopularity&type=story
+
+Install LibreOffice with winget - winstall
+https://winstall.app/apps/TheDocumentFoundation.LibreOffice
+
+The Document Foundation - The House of LibreOffice and Document Liberation Project — The Document Foundation
+https://www.documentfoundation.org/
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+Farama-Foundation/Gymnasium: An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+https://github.com/Farama-Foundation/Gymnasium
+
+Issues · raysan5/raylib
+https://github.com/raysan5/raylib/issues?q=is%3Aissue+is%3Aopen+drag
+
+wps - 搜索结果 - 果核剥壳
+https://www.ghxi.com/?s=wps
+
+雅达利 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9B%85%E9%81%94%E5%88%A9
+
+WebAssembly
+https://github.com/WebAssembly
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+WebAssembly/wasi-nn: Neural Network proposal for WASI
+https://github.com/WebAssembly/wasi-nn
+
+Bytecode Alliance
+https://github.com/bytecodealliance?q=wasmtime&type=all&language=&sort=
+
+语音生成新纪元：揭秘 Suno 公司的开源文本到音频转换项目 Bark - 知乎
+https://zhuanlan.zhihu.com/p/625042103
+
+suno-ai/bark: 🔊 Text-Prompted Generative Audio Model
+https://github.com/suno-ai/bark
+
+WasmEdge/docs/book/en/src/contribute/build_from_src/windows.md at ca9c32372c5ef382f4681ad2ef6d5703ef73b0d7 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/ca9c32372c5ef382f4681ad2ef6d5703ef73b0d7/docs/book/en/src/contribute/build_from_src/windows.md?plain=1#L2
+
+how to instal dev packages on windows - Google 搜索
+https://www.google.com/search?q=how+to+instal+dev+packages+on+windows&sca_esv=b378cbf59b0b044f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-AE1HFaF1nKygrJegR4vrQcW-z1Q%3A1708604171818&ei=CzvXZfqxMfu_vr0Pyqut0AM&ved=0ahUKEwi64-PF9r6EAxX7n68BHcpVCzoQ4dUDCBA&uact=5&oq=how+to+instal+dev+packages+on+windows&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWhvdyB0byBpbnN0YWwgZGV2IHBhY2thZ2VzIG9uIHdpbmRvd3MyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIj0NQAFj7QXAAeACQAQOYAcQGoAHgW6oBDDItOC4xMy40LjMuMrgBA8gBAPgBAcICChAjGIAEGIoFGCfCAgUQABiABMICCxAuGIAEGMcBGNEDwgIEECMYJ8ICBRAuGIAEwgIIEAAYgAQYywHCAgsQLhiABBjLARjUAsICChAAGIAEGMsBGArCAggQABgeGA8YCsICBhAAGAgYHsICCBAAGAgYHhgKwgIIEAAYCBgeGA_CAgUQIRigAQ&sclient=gws-wiz-serp
+
+Build on Windows 10 | WasmEdge Developer Guides
+https://wasmedge.org/docs/contribute/source/os/windows/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+terminal not playing audio cues anymore · Issue #205974 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/205974
+
+xv6-public/bootasm.S at master · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/master/bootasm.S
+
+About me
+https://lexi-lambda.github.io/about.html
+
+vscode-cmake-tools/docs/cmake-settings.md at main · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/cmake-settings.md
+
+vscode-cmake-tools/docs/cmake-presets.md at main · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/blob/main/docs/cmake-presets.md
+
+CMake Tools 1.13.40 fails to pick up CMakeUserPresets.json (only on first start after updating?) · Issue #2952 · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/issues/2952
+
+WasmEdge-WASINN-examples/wasmedge-ggml at master · second-state/WasmEdge-WASINN-examples
+https://github.com/second-state/WasmEdge-WASINN-examples/tree/master/wasmedge-ggml
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge/issues
+
+Build on Windows 10 | WasmEdge Developer Guides
+https://wasmedge.org/docs/zh-tw/contribute/source/os/windows/
+
+bug: Windows 10 action failed · Issue #1290 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/1290#issuecomment-1056784554
+
+Use the Microsoft C++ toolset from the command line | Microsoft Learn
+https://learn.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-170
+
+无法解析的外部符号 - Google 搜索
+https://www.google.com/search?q=%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90%E7%9A%84%E5%A4%96%E9%83%A8%E7%AC%A6%E5%8F%B7&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%97%A0%E6%B3%95%E8%A7%A3%E6%9E%90&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
