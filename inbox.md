@@ -1,5 +1,16 @@
 # 2024-2-22 | 
 
+https://github.com/kennykerr
+
+https://kennykerrca.wordpress.com/courses/
+
+https://github.com/microsoft/windows-rs
+
+https://canonical.com/careers/engineering
+
+fractal
+
+chain rule
 
 What you get when you reading.
 

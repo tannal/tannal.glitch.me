@@ -3,6 +3,159 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+abcjs basic demo
+https://www.abcjs.net/abcjs-basic
+
+abc | home
+https://abcnotation.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gnu%20project&sort=byPopularity&type=story
+
+GNU Project
+https://lists.gnu.org/archive/html/info-gnu/2019-09/msg00008.html
+
+• Discord | #general | uftrace
+https://discord.com/channels/977562434707554324/1008782420906102926
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+https://github.com/tannal/LFX-Mentorship-WasmEdge-2024-01-Pre-test
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Rust Loop +2 Increment
+https://chat.openai.com/c/f31cc1eb-1573-4807-b0ef-52f1fa988685
+
+genetic life time - Google 搜索
+https://www.google.com/search?q=genetic+life+time&sca_esv=b22eb09c7ac02542&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08vlpgwESrKxT-HaPLFoRnZYuG0DQ:1708571045619&source=lnms&sa=X&ved=2ahUKEwiypP2R-72EAxV6cvUHHXJBDzAQ0pQJegQIAxAC&biw=1536&bih=738&dpr=1.25
+
+Structs - Rust By Example
+https://doc.rust-lang.org/rust-by-example/scope/lifetime/struct.html
+
+Validating References with Lifetimes - The Rust Programming Language
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html?highlight=lifetime#lifetime-elision
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rust%20lifetime&sort=byPopularity&type=story
+
+rust-blog/posts/common-rust-lifetime-misconceptions.md at master · pretzelhammer/rust-blog
+https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md
+
+Github Copilot vscode keyboard shortcut conflict (Ctrl + Enter) · community · Discussion #7255
+https://github.com/orgs/community/discussions/7255
+
+Windows support · Issue #5394 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5394
+
+paulrosen/abcjs: javascript for rendering abc music notation
+https://github.com/paulrosen/abcjs/tree/main
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+Recursive definition - Wikipedia
+https://en.wikipedia.org/wiki/Recursive_definition#Prime_numbers
+
+Blog – Joachim Breitner's Homepage
+https://www.joachim-breitner.de/blog
+
+Mathematical Fundamentals | Brilliant
+https://brilliant.org/courses/math-fundamentals/?just_completed=fractions
+
+Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche | Science Advances
+https://www.science.org/doi/10.1126/sciadv.aaw2594
+
+tannal (tannal)
+https://github.com/tannal/
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+gitpod-io/gitpod: The developer platform for on-demand cloud development environments to create software faster and more securely.
+https://github.com/gitpod-io/gitpod
+
+tannal/cc-examples: Single file programs for quick testing
+https://github.com/tannal/cc-examples
+
+GPU渲染管线之旅|01 软件调用栈 - 知乎
+https://zhuanlan.zhihu.com/p/158686137
+
+The ryg blog | When I grow up I'll be an inventor.
+https://fgiesen.wordpress.com/
+
+Introduction — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/index.html
+
+Process Address Space
+https://www.kernel.org/doc/gorman/html/understand/understand007.html
+
+KPTI - Kernel Page Table Isolation - CTF Wiki
+https://ctf-wiki.org/pwn/linux/kernel-mode/defense/isolation/user-kernel/kpti/
+
+Starknet Provisions: Allocating STRK Tokens to the Community
+https://provisions.starknet.io/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+tannal/cc-examples: Single file programs for quick testing
+https://github.com/tannal/cc-examples
+
+Engineering | Careers
+https://canonical.com/careers/engineering
+
+kvm vcpu site: edu - Google 搜索
+https://www.google.com/search?q=kvm+vcpu+site%3A+edu&sca_esv=dcfe5edb8f188ebf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_i--GomOSlCPmCi039eQLxCHbZEg%3A1708585295368&ei=T_HWZYuAFuPh2roPp-SpwAU&ved=0ahUKEwjL4-ScsL6EAxXjsFYBHSdyClgQ4dUDCBA&uact=5&oq=kvm+vcpu+site%3A+edu&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmt2bSB2Y3B1IHNpdGU6IGVkdTIFECEYoAEyBRAhGKABMgUQIRigAUiqQFD7AVj6PnAAeAOQAQCYAYwEoAHGGKoBCTItMi4yLjMuMbgBA8gBAPgBAcICBBAAGEfCAgQQIxgnwgIIEAAYgAQYywHCAgQQABgewgIGEAAYHhgKwgIGEAAYHhgMwgIGEAAYCBgewgIIEAAYCBgeGAzCAgoQABgIGB4YDxgKwgIIEAAYCBgeGAqIBgGQBgU&sclient=gws-wiz-serp
+
+vcpu · 搜索 · GitLab
+https://gitlab.com/search?search=vcpu&nav_source=navbar&project_id=11167699&group_id=3038080&search_code=true&repository_ref=master
+
+An Intuitive Guide To Exponential Functions & e – BetterExplained
+https://betterexplained.com/articles/an-intuitive-guide-to-exponential-functions-e/
+
+stdlib cppcon - Google 搜索
+https://www.google.com/search?q=stdlib+cppcon&sca_esv=dcfe5edb8f188ebf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_IbXHSc9pYgKaBlVqonvHpFHqsQQ:1708586142571&source=lnms&sa=X&ved=2ahUKEwjE3eGws76EAxVsiFYBHe3RA38Q0pQJegQIAhAC&biw=1536&bih=738&dpr=1.25
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=stdlib%20c%2B%2B&sort=byPopularity&type=story
+
+Ask HN: Should I leave my company (Samsung)? | Hacker News
+https://news.ycombinator.com/item?id=11449432
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ubuntu%20snap&sort=byPopularity&type=story
+
+Debian 计划新闻 - 目录
+https://www.debian.org/News/weekly/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=windows-sys%20&sort=byPopularity&type=story
+
+Courses | Kenny Kerr
+https://kennykerrca.wordpress.com/courses/
+
+microsoft/windows-rs: Rust for Windows
+https://github.com/microsoft/windows-rs
+
+kennykerr (Kenny Kerr)
+https://github.com/kennykerr
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mesa&sort=byPopularity&type=story
+
+mesa - Google 搜索
+https://www.google.com/search?q=mesa&rlz=1C1GCEA_enJP1090JP1090&oq=mesa&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDIyODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
 
