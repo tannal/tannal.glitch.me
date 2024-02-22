@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+(1) Resources
+https://tutflix.org/resources/
+
+Live Q&A for Outreachy Applicants - Contribution Period Tips - YouTube
+https://www.youtube.com/watch?v=UGgiMU4krhE
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Install LibreOffice with winget - winstall
+https://winstall.app/apps/TheDocumentFoundation.LibreOffice
+
+Nigeria - Google 搜索
+https://www.google.com/search?q=Nigeria&oq=Nigeria&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+(2) 劉安齊 | Facebook
+https://www.facebook.com/groups/1531876370923589/user/100004481229641/
+
+🎉 CNCF is accepted to Google Summer of Code 2024 · cncf/mentoring · Discussion #1186
+https://github.com/cncf/mentoring/discussions/1186
+
+mentoring/programs/summerofcode/2024.md at main · cncf/mentoring
+https://github.com/cncf/mentoring/blob/main/programs/summerofcode/2024.md
+
+Perplexity
+https://www.perplexity.ai/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Benoit%20Schillings&sort=byPopularity&type=story
+
+OpenWave - Google 搜索
+https://www.google.com/search?q=OpenWave&oq=OpenWave&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tigercosmos (Liu, An-Chi)
+https://github.com/tigercosmos
+
+tigercosmos/lets-build-dbms: A book, Let's build a DBMS: StellarSQL -- a minimal SQL DBMS written in Rust
+https://github.com/tigercosmos/lets-build-dbms
+
+(2) Facebook
+https://www.facebook.com/CodingNeutrino/
+
+Neutrino's Blog: 在 PyCon APAC 2023 貢獻了第一支 CPython Pull Request
+https://tigercosmos.xyz/post/2023/11/python/2023pycon-apac-sprint/?fbclid=IwAR2s37xVbg0iZ0StyiQaX_8YdJDryEIIL_NoIdH0hYM91Gp0h0_4PtAcTac
+
+Neutrino's Blog: About
+https://tigercosmos.xyz/about/
+
+#general > Am I missing JS? - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Am.20I.20missing.20JS.3F
+
+servo/ports/libsimpleservo2/api/src/lib.rs at phil-ss2-headless · philip-lamb/servo
+https://github.com/philip-lamb/servo/blob/phil-ss2-headless/ports/libsimpleservo2/api/src/lib.rs#L285-L336
+
+philip-lamb (Philip Lamb)
+https://github.com/philip-lamb
+
+Error streaming response body: UnexpectedEof on wpt https tests. · Issue #31407 · servo/servo
+https://github.com/servo/servo/issues/31407
+
+Run layout sequentially on script thread by jdm · Pull Request #28708 · servo/servo
+https://github.com/servo/servo/pull/28708/files#diff-5cd1c48aaad7d9da84a35ce08ec0c0dca8c57ba933660462322c5e4ad348291d
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/semantics/embedded-content/the-canvas-element/imagedata.html?label=experimental&label=master&aligned&q=imagedata.html
+
+ImageData with that has a partial view on an underlying buffer doesn’t structurally clone [40676978] - Chromium
+https://issues.chromium.org/issues/40676978
+
+doc-1iv0-1ivg-issuetracker.googleusercontent.com/attachments/kc7eu567pksi0u9a1bnf6bomkfbp1d7c/4valvp7emaocdi7cfc8n6s5p2kb3s1ac/1708597800000/1456769/*/40676978::53116713::1456769?q=AN9yeQLJR8lHsxs-ej79yZueAg4DNdHScJETGt4Z3r0xw0SSHt8HNBDlU-_rlxMH8HTw9iJsq87dfCxHdFp8JwOS4oOu&download=false
+https://doc-1iv0-1ivg-issuetracker.googleusercontent.com/attachments/kc7eu567pksi0u9a1bnf6bomkfbp1d7c/4valvp7emaocdi7cfc8n6s5p2kb3s1ac/1708597800000/1456769/*/40676978::53116713::1456769?q=AN9yeQLJR8lHsxs-ej79yZueAg4DNdHScJETGt4Z3r0xw0SSHt8HNBDlU-_rlxMH8HTw9iJsq87dfCxHdFp8JwOS4oOu&download=false
+
+[wptrunner] Log which browser (PID) ran each test (#44716) · web-platform-tests/wpt@eb8b11e
+https://github.com/web-platform-tests/wpt/commit/eb8b11ea03
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Web%20Platform%20Tests&sort=byPopularity&type=story
+
+web-platform-tests
+https://github.com/web-platform-tests
+
+(2) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+2024 年開放原始碼專案協作 - HackMD
+https://hackmd.io/@sysprog/ByLJ8DUFT?fbclid=IwAR2ZXqV3Ddv3nSurZcdZINEBv46R-jpZCxa3_cYJa56gCV1j-iNvhLyQSjs
+
+WebKitGTK Moving To Skia For 2D Rendering To Yield Better Performance - Phoronix
+https://www.phoronix.com/news/WebKitGTK-To-Use-Skia-2D
+
+WebKitGTK and WPEWebKit Switching to Skia for 2D Graphics Rendering | Carlos Garcia Campos
+https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/
+
+Jim Keller (@jimkxa) / X
+https://twitter.com/jimkxa
+
+🎉 CNCF is accepted to Google Summer of Code 2024 · cncf/mentoring · Discussion #1186
+https://github.com/cncf/mentoring/discussions/1186
+
+mentoring/programs/summerofcode/2024.md at main · cncf/mentoring
+https://github.com/cncf/mentoring/blob/main/programs/summerofcode/2024.md
+
+feat: Enabling LLM fine tuning in the WASI-NN ggml plugin · Issue #3209 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3209
+
+noah github microsoft - Google 搜索
+https://www.google.com/search?q=noah+github+microsoft&oq=noah+github+microsoft&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDY2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+second-state/wasmedge-wasi-nn: High-level bindings for wasi-nn system calls
+https://github.com/second-state/wasmedge-wasi-nn
+
+bytecodealliance/wasi-nn: High-level bindings for wasi-nn system calls
+https://github.com/bytecodealliance/wasi-nn
+
+second-state/wasmedge-wasi-nn: High-level bindings for wasi-nn system calls
+https://github.com/second-state/wasmedge-wasi-nn
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jserv&sort=byPopularity&type=story
+
+Another Mini ARM C Compiler with JIT Support | Hacker News
+https://news.ycombinator.com/item?id=11411124
+
+Profile: tptacek | Hacker News
+https://news.ycombinator.com/user?id=tptacek
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 abcjs basic demo
 https://www.abcjs.net/abcjs-basic
 

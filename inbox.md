@@ -1,5 +1,15 @@
 # 2024-2-22 | 
 
+https://hackmd.io/@sysprog/ByLJ8DUFT?fbclid=IwAR2ZXqV3Ddv3nSurZcdZINEBv46R-jpZCxa3_cYJa56gCV1j-iNvhLyQSjs
+
+https://twitter.com/jimkxa
+
+https://github.com/cncf/mentoring/tree/main/programs
+
+https://github.com/philip-lamb
+
+https://tigercosmos.xyz/post/2023/11/python/2023pycon-apac-sprint/?fbclid=IwAR2s37xVbg0iZ0StyiQaX_8YdJDryEIIL_NoIdH0hYM91Gp0h0_4PtAcTac
+
 https://github.com/kennykerr
 
 https://kennykerrca.wordpress.com/courses/
