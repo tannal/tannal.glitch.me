@@ -1,5 +1,28 @@
 # 2024-2-22 | 
 
+
+What you get when you reading.
+
+Math is all about understanding why patterns arise.
+
+odd even odd even
+
+I'm always right even if small wrong.
+
+The sum of the first n odd numbers is n^2
+The sum of the first n even numbers is n^2
+
+
+https://github.com/zed-industries/zed?tab=readme-ov-file
+
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html?highlight=lifetime#lifetime-elision
+
+every reference in Rust has a lifetime
+
+s: Scanner<'s>
+
+The <'s> part is a lifetime specifier. It tells the Rust compiler that instances of Scanner will contain references that are valid for the lifetime 's. This is part of Rust's borrow checker system, which ensures that references do not outlive the data they point to.
+
 machine learning models, simulations, and graphical rendering
 
 Streaming Multiprocessors
