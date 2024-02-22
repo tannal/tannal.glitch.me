@@ -8,7 +8,7 @@ wmic path Win32_USBControllerDevice get Dependent
 # Software install
 
 winget install --id Typst.Typst
-
+winget install --id=TheDocumentFoundation.LibreOffice  -e
 sudo apt install chromium
 
 winget install -e --id GoLang.Go
