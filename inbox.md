@@ -1,3 +1,21 @@
+# 2024-2-23 | 
+
+https://jakstys.lt/2023/microsoft-git/
+
+
+
+```bash
+
+git clone https://github.com/bytecodealliance/wasmtime.git
+
+git submodule --update -init .
+
+cargo build
+
+cargo install --path .
+
+```
+
 # 2024-2-22 | 
 
 https://github.com/servo/servo/commits?author=Loirooriol

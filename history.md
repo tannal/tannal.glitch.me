@@ -1,3 +1,155 @@
+# 2024-2-23
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(1) Resources
+https://tutflix.org/resources/
+
+(2) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Contributors to chromium/chromium
+https://github.com/chromium/chromium/graphs/contributors
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=servo&sort=byPopularity&type=story
+
+bholley - Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox
+https://bholley.net/blog/2017/stylo.html
+
+What's the future of Servo? · servo/servo · Discussion #27575
+https://github.com/servo/servo/discussions/27575
+
+Mozilla Lifeboat | Hacker News
+https://news.ycombinator.com/item?id=24135032
+
+Mozilla Software Engineer Salary | $181K-$364K+ | Levels.fyi
+https://www.levels.fyi/companies/mozilla/salaries/software-engineer?country=254
+
+X
+https://twitter.com/arubin/status/27808662429?locale=hi
+
+Talent Directory
+https://talentdirectory.mozilla.org/
+
+EME/DRM - Google 搜索
+https://www.google.com/search?q=EME%2FDRM&oq=EME%2FDRM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTg3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Rust%20is%20a%20big%20leap%20forward%20for%20the%20industry%2C%20and%20should%20make%20its%20creators%20proud.%20But%20the%20grand%20plan%20for%20Firefox%20required%20a%20second%20moonshot%2C%20Servo%2C%20with%20an%20even%20steeper%20path%20to%20success.&op=translate
+
+wasm32 wasm64 - Google 搜索
+https://www.google.com/search?q=wasm32+wasm64&oq=wasm32+wasm&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MggIARAAGA0YHjIGCAIQABgeMggIAxAAGA0YHjIICAQQABgNGB4yBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg0ODczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Bytecode Alliance
+https://bytecodealliance.org/
+
+cargo install - The Cargo Book
+https://doc.rust-lang.org/cargo/commands/cargo-install.html
+
+• Discord | #help | Vite Land
+https://discord.com/channels/804011606160703521/1019670660856942652
+
+/tools/format.js not working · Issue #22541 · denoland/deno
+https://github.com/denoland/deno/issues/22541
+
+linux kernel programming site: *.edu - Google 搜索
+https://www.google.com/search?q=linux+kernel+programming+site%3A+*.edu&sca_esv=dfe26d33caab7b7d&sxsrf=ACQVn0-7Jcog87gQRtrhjrVFDh7AY8uJHA%3A1708647868073&ei=vOXXZciRBKifvr0PyPOzwAo&ved=0ahUKEwjI3-OpmcCEAxWoj68BHcj5DKgQ4dUDCBA&uact=5&oq=linux+kernel+programming+site%3A+*.edu&gs_lp=Egxnd3Mtd2l6LXNlcnAiJGxpbnV4IGtlcm5lbCBwcm9ncmFtbWluZyBzaXRlOiAqLmVkdTIHECMYsAMYJzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0isBVDQA1jQA3ABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGIBgGQBgo&sclient=gws-wiz-serp#ip=1
+
+ECE 4984 / 5984 - Linux Kernel Programming
+https://www.ssrg.ece.vt.edu/lkp/resources.html
+
+Node.js compat roadmap February 2024 · Issue #22337 · denoland/deno
+https://github.com/denoland/deno/issues/22337
+
+Bug in Node compatability: minecraft-protocol · Issue #22466 · denoland/deno
+https://github.com/denoland/deno/issues/22466
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=v8%20snapshot&sort=byPopularity&type=story
+
+(1) TutFlix - Free Education Community
+https://tutflix.org/
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Page not found · GitHub
+https://github.com/bytecodealliance/wasmtime-wasi
+
+wasmtime/crates/wasi-nn/src/wit.rs at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/crates/wasi-nn/src/wit.rs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=3&prefix=true&query=2024&sort=byPopularity&type=story
+
+Thoughts on PostgreSQL in 2024 | Jonathan Katz
+https://jkatz05.com/post/postgres/postgresql-2024/
+
+Ask HN: Those making $500+/month on side projects in 2024 – Show and tell | Hacker News
+https://news.ycombinator.com/item?id=38935714
+
+A new blog for 2024 | Chris Nicholas | Developer experience at Liveblocks
+https://chrisnicholas.dev/blog/a-new-blog-for-2024
+
+Zig Software Foundation 2024 Financial Report and Fundraiser | Hacker News
+https://news.ycombinator.com/item?id=39042139
+
+This conversation totally didn't happen at Microsoft - Motiejus Jakštys Public Record
+https://jakstys.lt/2023/microsoft-git/
+
+AJ ONeal - YouTube
+https://www.youtube.com/@coolaj86/playlists
+
+AJ ONeal
+https://coolaj86.com/
+
+How Uber Uses Zig - Motiejus Jakštys Public Record
+https://jakstys.lt/2022/how-uber-uses-zig/
+
+Comparison of browser engines - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_browser_engines#cite_note-statuses-1
+
+Pale Moon future roadmap
+https://www.palemoon.org/roadmap.shtml
+
+Ask HN: Who is hiring? (February 2024) | Hacker News
+https://news.ycombinator.com/item?id=39217310
+
+Open positions | Grafana Labs
+https://grafana.com/about/careers/open-positions/
+
+Work With Us – Systems Engineering
+https://automattic.com/work-with-us/job/systems-engineering/?utm_source=hackernews&utm_medium=online&utm_campaign=who-is-hiring
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+SerpApi: Google Search API
+https://serpapi.com/
+
+Breeding Insight
+https://github.com/Breeding-Insight/
+
+Benaco — 联系我们
+https://benaco.com/contact
+
+www.unre.ai
+https://www.unre.ai/
+
+github chrisnicholas - Google 搜索
+https://www.google.com/search?q=github+chrisnicholas&oq=github+chrisnicholas&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMTUwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2024-2-22
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
