@@ -1,5 +1,13 @@
 # inbox
 
+```cpp
+
+if (env->options()->debug_options().break_first_line) {
+  env->inspector_agent()->PauseOnNextJavascriptStatement("Break on start");
+}
+
+```
+
 https://github.com/nodejs/node/pulls/joyeecheung
 
 ![Alt text](./image-4.png)

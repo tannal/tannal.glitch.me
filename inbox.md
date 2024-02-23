@@ -1,4 +1,10 @@
+# 2024-2-24 | 
+
+
+
 # 2024-2-23 | 
+
+npx create-next-app -e with-supabase todo-base
 
 https://smallcultfollowing.com/babysteps/blog/
 
