@@ -1,5 +1,15 @@
 # 2024-2-23 | 
 
+Abstraction Discipline
+
+Three Hi
+
+senior means old
+
+While work is making money for a bussiness, why should they work for free?
+
+The more innovations happens in a field, the less people who in the field know.
+
 https://jakstys.lt/2023/microsoft-git/
 
 

@@ -1,5 +1,146 @@
 # 2024-2-23
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
+
+A new blog for 2024 | Chris Nicholas | Developer experience at Liveblocks
+https://chrisnicholas.dev/blog/a-new-blog-for-2024
+
+Introducing Catalyst: A modern UI kit for React - Tailwind CSS
+https://tailwindcss.com/blog/introducing-catalyst
+
+Issues · KhronosGroup/VK-GL-CTS
+https://github.com/KhronosGroup/VK-GL-CTS/issues
+
+• Discord | #riscv-backend | Zig Programming Language
+https://discord.com/channels/605571803288698900/1205579281518952469
+
+Outreachy Internships - YouTube
+https://www.youtube.com/@outreachyinternships
+
+#general > Am I missing JS? - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Am.20I.20missing.20JS.3F
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 05 - Linking and Loading (continued) - YouTube
+https://www.youtube.com/watch?v=sMQKO65pDYI
+
+Anton Burtsev's Homepage
+https://users.cs.utah.edu/~aburtsev/
+
+Assembly Language Call Instruction
+https://chat.openai.com/c/afb56ef4-e2de-4d5b-8cb7-92583eda335c
+
+The Models Resource
+https://www.models-resource.com/
+
+Newly created NextJS code wont work on any browsers except Firefox. · Issue #61405 · vercel/next.js
+https://github.com/vercel/next.js/issues/61405
+
+vite-to-nextjs/src/vite-env.d.ts at main · inngest/vite-to-nextjs
+https://github.com/inngest/vite-to-nextjs/blob/main/src/vite-env.d.ts
+
+layout: Add initial support for `text-transform` (#31396) · tannal/servo@d8b3265
+https://github.com/tannal/servo/commit/d8b326528b3d0646ef08714b87958f701cf89c88#diff-0d10132cff487cdfe3ff6776d6d77929e1d38b08a097ff593f398ce8b8b4e2cf
+
+leerob/leerob.io: ✨ My portfolio built with Next.js, Tailwind, and Vercel.
+https://github.com/leerob/leerob.io
+
+servo | Lee Robinson
+http://localhost:3000/blog/servo#threads-and-subproccesses
+
+Welcome to my new blog
+https://ributzka.com/blog/welcome/
+
+Jürgen's Blog
+https://ributzka.com/
+
+The Astro Blog | Astro
+https://astro.build/blog/
+
+tannal.web.app/posts/inbox/
+https://tannal.web.app/posts/inbox/
+
+Sierpinski - Google 搜索
+https://www.google.com/search?q=Sierpinski&rlz=1C1GCEA_enJP1090JP1090&oq=Sierpinski&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMjkxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Sierpinski - Google 搜索
+https://www.google.com/search?q=Sierpinski&rlz=1C1GCEA_enJP1090JP1090&oq=Sierpinski&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDEwODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+The Art of Code - Dylan Beattie - YouTube
+https://www.youtube.com/watch?v=6avJHaC3C2U
+
+mandelbrot - Google 搜索
+https://www.google.com/search?q=mandelbrot&rlz=1C1GCEA_enJP1090JP1090&oq=mandel&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIGCAAQRRg5MgwIARAuGEMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQLhhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAuGIAEMgcIBxAuGIAEMgkICBAAGAoYgATSAQgyNTE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Towards%20a%20modern%20Web%20stack&sort=byPopularity&type=story
+
+Search Results | Skia
+https://skia.org/search/?q=sk_sp%3CSkSurface%3E
+
+SkCanvas Overview | Skia
+https://skia.org/docs/user/api/skcanvas_overview/
+
+Canvas Creation — skia-python 121.0b6 documentation
+https://kyamagu.github.io/skia-python/tutorial/canvas.html
+
+File: SkiaHelper.cxx | Debian Sources
+https://sources.debian.org/src/libreoffice/4:24.2.0-1/vcl/skia/SkiaHelper.cxx/?hl=553#L553
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=skia&sort=byPopularity&type=story
+
+WebKitGTK and WPEWebKit Switching to Skia for 2D Graphics Rendering | Carlos Garcia Campos
+https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/
+
+[Skia] Add support for multi-threaded CPU rendering by nikolaszimmermann · Pull Request #24498 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/24498/files
+
+aperezdc (Adrian Perez)
+https://github.com/aperezdc
+
+Scratch - Imagine, Program, Share
+https://scratch.mit.edu/projects/editor/?tutorial=getStarted
+
+electric balgool - Google 搜索
+https://www.google.com/search?q=electric+balgool&rlz=1C1GCEA_enJP1090JP1090&oq=electric+balgool&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGA8YHjIGCAIQRRhA0gEINjI5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Microsoft Power Fx overview - Power Platform | Microsoft Learn
+https://learn.microsoft.com/en-us/power-platform/power-fx/overview
+
+glew - Google 搜索
+https://www.google.com/search?q=glew&rlz=1C1GCEA_enJP1090JP1090&oq=glew&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nigels-com/glew: The OpenGL Extension Wrangler Library
+https://github.com/nigels-com/glew/
+
+tannal/cc-examples: Single file programs for quick testing
+https://github.com/tannal/cc-examples
+
+start [Digital Design and Computer Architecture - Spring 2024]
+https://safari.ethz.ch/ddca/spring2024/doku.php
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=sabbatical&op=translate
+
+Excalidraw
+https://excalidraw.com/
+
+layout: Add initial support for `text-transform` (#31396) · servo/servo@d8b3265
+https://github.com/servo/servo/commit/d8b326528b3d0646ef08714b87958f701cf89c88#diff-15fe6b59e49a854e995c478bd8f50166b602c2ff2f0493dc277b5d4cdc70e1f7
+
+occamy - Google 搜索
+https://www.google.com/search?q=occamy&rlz=1C1GCEA_enJP1090JP1090&oq=occamy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Occamy | Harry Potter Wiki | Fandom
+https://harrypotter.fandom.com/wiki/Occamy
+
+YouTube
+https://www.youtube.com/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
