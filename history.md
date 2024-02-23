@@ -1,5 +1,122 @@
 # 2024-2-23
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+A new blog for 2024 | Chris Nicholas | Developer experience at Liveblocks
+https://chrisnicholas.dev/blog/a-new-blog-for-2024
+
+CTNicholas (CTNicholas) / Repositories
+https://github.com/CTNicholas?tab=repositories
+
+A new blog for 2024 | Chris Nicholas | Developer experience at Liveblocks
+https://chrisnicholas.dev/blog/a-new-blog-for-2024
+
+Build Scripts - The Cargo Book
+https://doc.rust-lang.org/cargo/reference/build-scripts.html
+
+frasercrmck (Fraser Cormack)
+https://github.com/frasercrmck
+
+pasaulais (pasaulais) / Repositories
+https://github.com/pasaulais?tab=repositories
+
+Codeplay Software Ltd
+https://codeplay.com/
+
+Repositories
+https://github.com/orgs/codeplaysoftware/repositories
+
+leerob/leerob.io: ✨ My portfolio built with Next.js, Tailwind, and Vercel.
+https://github.com/leerob/leerob.io
+
+How I'm Writing CSS in 2024 | Lee Robinson
+https://leerob.io/blog/css
+
+Lee Robinson (@leeerob) / X
+https://twitter.com/leeerob
+
+StyleX
+https://stylexjs.com/
+
+Lightning CSS
+https://lightningcss.dev/
+
+parcel-bundler/lightningcss: An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+https://github.com/parcel-bundler/lightningcss
+
+ftl-llvm-2014-final.key
+https://llvm.org/devmtg/2014-10/Slides/Trick-FTL.pdf
+
+ferhaterata (Ferhat Erata)
+https://github.com/ferhaterata
+
+CPSC 722 Advanced Systems Topics
+https://caslab.csl.yale.edu/courses/CPSC722/14-15a/
+
+ributzka (ributzka) / Repositories
+https://github.com/ributzka?tab=repositories
+
+Lang Hames - Google 搜索
+https://www.google.com/search?q=Lang+Hames&oq=Lang+Hames&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Repositories
+https://github.com/orgs/CMU-SAFARI/repositories
+
+Get 6 months free of Frontend Masters membership by enrolling in the GitHub Student Developer Pack. | Frontend Masters
+https://frontendmasters.com/welcome/github-student-developers/
+
+(1) Search results for query: frontendmaster
+https://tutflix.org/search/2230646/?q=frontendmaster&o=date
+
+聊聊知乎一直存在的一个问题-36氪
+https://36kr.com/p/1665785157818372
+
+聊聊知乎一直存在的一个问题
+https://mp.weixin.qq.com/s?__biz=MjM5NDkyNTUzOA==&mid=2657925925&idx=1&sn=01ad4cb66e407f77d4bb547229b3ad39&chksm=bd1845a88a6fccbe52614b54eade694d98b0d5b2034dfc2bae0d46c552c269525fd8d372186e#rd
+
+lhames (Lang Hames)
+https://github.com/lhames
+
+dtolnay (David Tolnay)
+https://github.com/dtolnay
+
+(2) Facebook
+https://www.facebook.com/
+
+patchpoint webkit - Google 搜索
+https://www.google.com/search?q=patchpoint+webkit&oq=patchpoint+webkit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2NzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+LLVM JIT 的运用：WebKit FTL JIT - 知乎
+https://zhuanlan.zhihu.com/p/422237262
+
+(1 封私信 / 4 条消息) 左沙 - 知乎
+https://www.zhihu.com/people/badaccess
+
+A New Bytecode Format for JavaScriptCore | WebKit
+https://webkit.org/blog/9329/a-new-bytecode-format-for-javascriptcore/
+
+小倉唯 on X: "https://t.co/vSbczyb4T7 Probably this is a good time to share ;) Apple WebKit JavaScriptCore, the one of the fastest JS engine with full-fledged JIT compiler, has a position now. Please apply if you’re interested in JS VM implementation!" / X
+https://twitter.com/Constellation/status/1666148700794798081
+
+Jarred Sumner (@jarredsumner) / X
+https://twitter.com/jarredsumner
+
+Livro de WebAssembly - Casa do Código
+https://www.casadocodigo.com.br/products/livro-webassembly
+
+The Verse Programming Language | GDC 2023 - YouTube
+https://www.youtube.com/watch?v=5prkKOIilJg
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=The%20Verse%20Programming%20Language&sort=byPopularity&type=story
+
+A taste of Haskell
+https://simon.peytonjones.org/assets/pdfs/haskell-exchange-22.pdf
+
+Beyond Functional Programming: The Verse Programming Language [pdf] | Hacker News
+https://news.ycombinator.com/item?id=33946933
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
