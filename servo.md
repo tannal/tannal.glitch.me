@@ -1,6 +1,9 @@
 
 # inbox
 
+servo/components/shared/embedder
+/resources.rs
+
 HTML5 Forms
 
 HTMLInputElement
