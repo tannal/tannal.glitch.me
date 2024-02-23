@@ -1,5 +1,152 @@
 # 2024-2-23
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+layout: Add initial support for `text-transform` (#31396) · servo/servo@d8b3265
+https://github.com/servo/servo/commit/d8b326528b3d0646ef08714b87958f701cf89c88
+
+Onur Mutlu Lectures - YouTube
+https://www.youtube.com/@OnurMutluLectures/streams
+
+Digital Design & Computer Architecture - Lecture 1: Introduction & Basics (Spring 2024) - YouTube
+https://www.youtube.com/watch?v=0U2OMvvsyl8
+
+ChatGPT
+https://chat.openai.com/c/431d0587-c7b9-461e-8c9c-56f888566460
+
+Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+verilog - Google 搜索
+https://www.google.com/search?q=verilog&rlz=1C1GCEA_enJP1090JP1090&oq=verilog&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+[Package Request]: Verilog.IcarusVerilog · Issue #131576 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/131576
+
+Icarus Verilog for Windows
+https://bleyer.org/icarus/
+
+ferrandi/PandA-bambu: PandA-bambu public repository
+https://github.com/ferrandi/PandA-bambu
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Icarus%20Verilog&sort=byPopularity&type=story
+
+steveicarus/iverilog: Icarus Verilog
+https://github.com/steveicarus/iverilog
+
+Icarus Verilog — Icarus Verilog documentation
+https://steveicarus.github.io/iverilog/
+
+Nand to Tetris in Verilog Part 1 - Icarus | Hackaday.io
+https://hackaday.io/project/160759-nand-to-tetris-in-verilog-part-1-icarus
+
+project_T/Unreal Engine 4 源码阅读体验 [0].md at master · secondwtq/project_T
+https://github.com/secondwtq/project_T/blob/master/Unreal%20Engine%204%20%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%BD%93%E9%AA%8C%20%5B0%5D.md
+
+Unreal Engine on GitHub
+https://www.unrealengine.com/en-US/ue-on-github
+
+CSS Text Module Level 4
+https://www.w3.org/TR/css-text-4/#text-transform-property
+
+servo/components/layout_2020/flow/line.rs at 4849ba901efab9304d71b316ec9e0d7e98e1993b · servo/servo
+https://github.com/servo/servo/blob/4849ba901efab9304d71b316ec9e0d7e98e1993b/components/layout_2020/flow/line.rs#L59
+
+⚙ D142418 Bug 1762088 - Allow to derive Parse/ToCss/SpecifiedValueInfo on bitflags. r=#style,#layout-reviewers
+https://phabricator.services.mozilla.com/D142418
+
+rayon-core - crates.io: Rust Package Registry
+https://crates.io/crates/rayon-core
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+rayon-rs/rayon: Rayon: A data parallelism library for Rust
+https://github.com/rayon-rs/rayon
+
+All Posts · baby steps
+https://smallcultfollowing.com/babysteps/blog/
+
+nikomatsakis (Niko Matsakis)
+https://github.com/nikomatsakis
+
+Add initial support for sticky positioning for non-legacy layout by mrobinson · Pull Request #30686 · servo/servo
+https://github.com/servo/servo/pull/30686
+
+#general > ✔ Tauri integration as default port - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Tauri.20integration.20as.20default.20port
+
+Support Vue.js · Issue #30880 · servo/servo
+https://github.com/servo/servo/issues/30880
+
+Test search | LUCI
+https://ci.chromium.org/ui/p/chromium/test-search
+
+Chromium Dash
+https://chromiumdash.appspot.com/commits?platform=FuchsiaWebEngine
+
+LUCI Analysis
+https://luci-analysis.appspot.com/
+
+Chromium Dash
+https://chromiumdash.appspot.com/serving-builds?deviceCategory=ChromeOS
+
+css features list usage - Google 搜索
+https://www.google.com/search?q=css+features+list+usage&sca_esv=9b92f6e0a86a4776&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09XXwKq1tGbhpN8mD1XJKSJZysYkg%3A1708691490476&ei=IpDYZbPfHOvCvr0Pqb-riAM&ved=0ahUKEwiz-Mfqu8GEAxVroa8BHanfCjEQ4dUDCBA&uact=5&oq=css+features+list+usage&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2NzcyBmZWF0dXJlcyBsaXN0IHVzYWdlMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSPgIUMkBWOEHcAF4AZABAJgB-gKgAfoJqgEFMi0xLjO4AQPIAQD4AQHCAgoQABhHGNYEGLADwgIEEAAYHsICBRAhGKABiAYBkAYK&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=css%20feature&sort=byPopularity&type=story
+
+Home
+https://www.chromium.org/chromium-projects/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=chromium.org&sort=byPopularity&type=story
+
+css properties rank - Google 搜索
+https://www.google.com/search?q=css+properties+rank&sca_esv=9b92f6e0a86a4776&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08fTmtWYiLyrNAvEsfPuwiab8UKAw%3A1708691897966&ei=uZHYZb3ROq29vr0P7b60gAQ&ved=0ahUKEwj9ke-svcGEAxWtnq8BHW0fDUAQ4dUDCBA&uact=5&oq=css+properties+rank&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2NzcyBwcm9wZXJ0aWVzIHJhbmsyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkjQP1DMCFiTPnABeAKQAQGYAfMDoAG2IqoBBzItNS40LjS4AQPIAQD4AQHCAgQQABhHwgIKEAAYgAQYigUYQ8ICChAAGIAEGMsBGArCAgYQABgIGB7CAgYQABgFGB7CAggQABgFGB4YD8ICBRAhGKABiAYBkAYK&sclient=gws-wiz-serp
+
+cssdb - CSS Database
+https://cssdb.org/
+
+Chrome Platform Status
+https://chromestatus.com/metrics/feature/popularity
+
+enums.xml - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:tools/metrics/histograms/enums.xml
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+tannal (tannal)
+https://github.com/tannal/
+
+The TCP/IP Guide -- Contact Information
+http://tcpipguide.com/contact.htm
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=The%20tcp%2Fip%20guide&sort=byPopularity&type=story
+
+RustDesk – The Open Source Remote Desktop Access Software
+https://rustdesk.com/
+
+rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust
+https://github.com/lapce/lapce
+
+Ferdinand Mütsch
+https://muetsch.io/
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

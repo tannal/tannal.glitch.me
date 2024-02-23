@@ -1,5 +1,10 @@
 # 2024-2-23 | 
 
+https://smallcultfollowing.com/babysteps/blog/
+
+style -> layout -> render
+
+SpecialCasing.txt
 Abstraction Discipline
 
 Three Hi

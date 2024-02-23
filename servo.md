@@ -1,6 +1,43 @@
 
 # inbox
 
+HTML5 Forms
+
+HTMLInputElement
+
+components\script\dom\htmlinputelement.rs
+
+./mach run --pref dom.svg.enabled https://vuejsfeed.com/
+./mach run --pref dom.svg.enabled https://hn.algolia.com/ -i -y 1 2>&1 | % {
+    # Adding timestamp using Get-Date and formatting output
+    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
+} | Out-File -FilePath "log.txt"
+
+box and interator in rust
+
+Top level functions & functions always appear in the bottom callstack
+components/layout_2020/flow/construct.rs BlockContainer Builder finish()
+
+let collapsed_string: String = collapsed.collect();
+
+ifc Inline formating context
+
+components\style\values\specified\text.rs
+
+match_ignore_ascii_case!
+
+./mach run -d -- -i -y 1 2>&1 | % {
+    # Adding timestamp using Get-Date and formatting output
+    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
+} | Out-File -FilePath "log.txt"
+
+
+$env:RUST_LOG="debug" # Setting environment variable
+./mach run -d -- ./tests/wpt/tests/css/CSS2/text/text-transform-001.xht -i -y 1 2>&1 | % {
+    # Adding timestamp using Get-Date and formatting output
+    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
+} | Tee-Object -FilePath "log.txt"
+
 
 CodegenRust.py
 
@@ -258,6 +295,11 @@ Implement ResizeObservers
 ./mach test-wpt --production _webgpu
 
 ./mach test-wpt tests/wpt/tests/dom/events/relatedTarget.window.js
+
+./mach test-wpt tests/wpt/tests/dom/events/relatedTarget.window.js
+
+
+./mach test-wpt ./tests/wpt/meta/css/CSS2/text/text-transform* 
 
 ```
 
