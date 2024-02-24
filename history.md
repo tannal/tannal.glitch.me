@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+GitHub Copilot · Your AI pair programmer
+https://github.com/features/copilot
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+09-ML-parallelization-part1.pdf
+https://mlsyscourse.org/slides/09-ML-parallelization-part1.pdf
+
+🎉 CNCF is accepted to Google Summer of Code 2024 · cncf/mentoring · Discussion #1186
+https://github.com/cncf/mentoring/discussions/1186
+
+Jim Keller (@jimkxa) / X
+https://twitter.com/jimkxa
+
+style: Remove dependency on servo_config (was #31409) (#31411) · servo/servo@e078a99
+https://github.com/servo/servo/commit/e078a9981768d7523abba57b6e86f4874dcbf2fd
+
+#general > Interpreting failing ImageData wpt test - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Interpreting.20failing.20ImageData.20wpt.20test
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/semantics/embedded-content/the-canvas-element/imagedata.html?label=master&label=experimental&aligned&q=imagedata.html
+
+ImageData Tests
+https://wpt.live/html/semantics/embedded-content/the-canvas-element/imagedata.html
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/CSS2/text/text-transform-002.xht?run_id=5081236528168960
+
+(1) Resources
+https://tutflix.org/resources/
+
+the best of Tony Stark (IRON MAN) - YouTube
+https://www.youtube.com/watch?v=W54Y0cn78NY
+
+(2) Facebook
+https://www.facebook.com/ccckmit
+
+(2) Facebook
+https://www.facebook.com/mopcon
+
+Tri Dao
+https://tridao.me/
+
+state-spaces/mamba
+https://github.com/state-spaces/mamba
+
+Rice Ken Kennedy Institute - YouTube
+https://www.youtube.com/@RiceKenKennedyInstitute/videos
+
+Rice University
+https://www.rice.edu/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=pope&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Dunning-Kruger&sort=byPopularity&type=story
+
+Jim Keller - Google 搜索
+https://www.google.com/search?q=Jim+Keller&oq=Jim+Keller&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEHMjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+linux kernel subsystem
+https://www.perplexity.ai/search/linux-kernel-subsystem-QQitUMVURESRVgy.ncRUcw
+
+Mastering Linux Kernel Development
+https://subscription.packtpub.com/book/cloud-and-networking/9781785883057/1/ch01lvl1sec13/kernel-threads
+
+Mastering Linux Kernel Development
+https://subscription.packtpub.com/book/cloud-and-networking/9781785883057/1/ch01lvl1sec13/kernel-threads
+
+• Discord | #💗│sharing | Perplexity
+https://discord.com/channels/1047197230748151888/1054944216876331118
+
+ps show all kernel thread
+https://www.perplexity.ai/search/ps-show-all-L5J.o4VvSjepUh270xq12g
+
+How to fine tune it? · Issue #8 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/8
+
+whisper.cpp/models at master · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/tree/master/models#fine-tuned-models
+
+implement 8 of 14 missing backward pass operations used by llama · xaedes/llama.cpp@757de70
+https://github.com/xaedes/llama.cpp/commit/757de70af8baeab9ce64a71b3ef56edf87289382
+
+A Small Open Source Game In C++
+https://preshing.com/20201126/a-small-open-source-game-in-cpp/
+
+arc80/FlapHero: A small C++ game built using Plywood
+https://github.com/arc80/FlapHero
+
+Strike Freedom
+https://strikefreedom.top/
+
+Go has removed all uses of blacklist/whitelist and master/slave : golang
+https://www.reddit.com/r/golang/comments/gy9ylr/comment/fte1zk0/
+
+research!rsc: Go Proposal Process: Large Changes (Go Proposals, Part 3)
+https://research.swtch.com/proposals-large#checklist
+
+go Git repositories - Git at Google
+https://go.googlesource.com/?format=HTML
+
+cmd/compile: fix typo in findIndVar (566436) · Gerrit Code Review
+https://go-review.googlesource.com/c/go/+/566436
+
+research!rsc: Go Proposals
+https://research.swtch.com/proposals
+
+go/version: fix package to accept go1.21.0-bigcorp · golang/go@7973821
+https://github.com/golang/go/commit/79738217d53f6b2d06d47a2233e51cc859d69e8d
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=junior%20dev&sort=byPopularity&type=story
+
+Why nobody hires junior developers anymore
+https://www.notonlycode.org/nobody-hires-juniors/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hire%20junior&sort=byPopularity&type=story
+
+Domain error
+https://error.ghost.org/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 提交 · main · GStreamer / gstreamer · GitLab
 https://gitlab.freedesktop.org/gstreamer/gstreamer/-/commits/main?ref_type=heads
 

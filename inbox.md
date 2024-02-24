@@ -1,5 +1,9 @@
 # 2024-2-24 | 
 
+https://github.com/kubernetes/kubernetes/issues/96564
+
+If you don't believe it, you can't understand it.
+
 Flap Hero relies on several excellent third-party libraries: Assimp to load 3D models, SoLoud for audio, stb to load textures and fonts, and GLFW for desktop windowing & input.
 
 RCU grace periods

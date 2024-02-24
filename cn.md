@@ -1,5 +1,13 @@
 
 
+https://www.zhihu.com/people/andy_pan
+
+https://www.zhihu.com/people/rqy-77
+
+https://www.zhihu.com/people/MrAir/
+
+https://www.zhihu.com/people/Kurenai_Misuzu/
+
 https://www.zhihu.com/people/badaccess
 
 https://zqzhang.github.io/resume/
