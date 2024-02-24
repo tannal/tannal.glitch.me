@@ -1,5 +1,15 @@
 # inbox
 
+65:42.06 If you are building Firefox often, SCCache can save you a lot of time. You can learn more h
+ere: https://firefox-source-docs.mozilla.org/setup/configuring_build_options.html#sccache
+To take your build for a test drive, run: |mach run|
+For more information on what to do now, see https://firefox-source-docs.mozilla.org/setup/contributi
+ng_code.html
+
+
+$env:RUST_LOG="debug"
+
+
 Make use of Cargo dependencies, but vendor them in monorepo.
 
 Continuous integration can't rely on external network.
@@ -53,6 +63,7 @@ ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.js
 
 
 RUST_LOG="debug" obj-x86_64-unknown-linux-gnu/dist/bin/firefox -no-remote -P
+RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
 
 ```
 

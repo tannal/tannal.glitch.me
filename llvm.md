@@ -1,5 +1,7 @@
 # inbox
 
+https://github.com/llvm/llvm-project/commits/main/?author=lhames
+
 llvm optimization remarks https://www.youtube.com/watch?v=qmEsx4MbKoc
 
 FAROS https://github.com/LLNL/FAROS
