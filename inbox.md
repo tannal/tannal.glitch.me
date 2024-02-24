@@ -1,5 +1,11 @@
 # 2024-2-24 | 
 
+https://www.kxxt.dev/about/
+
+https://spencerwoo.com/about
+
+https://github.com/bcardosolopes
+
 https://boards.greenhouse.io/skydio
 
 https://nikhilism.com/resume

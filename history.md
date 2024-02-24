@@ -1,5 +1,77 @@
 # 2024-2-24
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug 1880676 [wpt PR 44631] - HighlightRegister was renamed to Highlig… · mozilla/gecko-dev@59936ed
+https://github.com/mozilla/gecko-dev/commit/59936ed9c1c14e10b2ef65e60ec217f5b71baccc
+
+Mercurial repositories index
+https://hg.mozilla.org/
+
+Joining Mozilla
+https://goose.icu/joining-mozilla/
+
+Lovely Trees
+https://bkardell.com/blog/LovelyTrees.html
+
+StyleSheet Parfait
+https://bkardell.com/blog/parfait.html
+
+Just a moment...
+https://codepen.io/briankardell/fullembedgrid/ExMdWdq?animations=run&type=embed
+
+Open Shadow Root Stying Library
+https://shadow-boxing.glitch.me/
+
+DOM/Core - MozillaWiki
+https://wiki.mozilla.org/DOM/Core
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+fix(console): add missing AssertionError to js by CanadaHonk · Pull Request #1 · CanadaHonk/deno
+https://github.com/CanadaHonk/deno/pull/1/files
+
+Shadow: New browser engine made almost entirely in JavaScript | Hacker News
+https://news.ycombinator.com/item?id=38043033
+
+canadahonk's comments | Hacker News
+https://news.ycombinator.com/threads?id=canadahonk
+
+LibWasm Spec Test results
+https://serenityos.github.io/libjs-website/wasm/
+
+rust_lua/src/parser.rs at master · avandolder/rust_lua
+https://github.com/avandolder/rust_lua/blob/master/src/parser.rs
+
+Bruno Cardoso Lopes - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=Bruno+Cardoso+Lopes
+
+bcardosolopes (Bruno Cardoso Lopes)
+https://github.com/bcardosolopes
+
+llvm/Polygeist: C/C++ frontend for MLIR. Also features polyhedral optimizations, parallel optimizations, and more!
+https://github.com/llvm/Polygeist/tree/main
+
+29401356 (JPEG Image, 460 × 460 pixels)
+https://avatars.githubusercontent.com/u/29401356?v=4
+
+My Friends – Lancern's Blog
+https://lancern.xyz/friends/
+
+About - Spencer Woo
+https://spencerwoo.com/about
+
+llvm-www/SummerOfCode at main · bcardosolopes/llvm-www
+https://github.com/bcardosolopes/llvm-www/tree/main/SummerOfCode
+
+mpark/wg21: Framework for Writing C++ Committee Papers
+https://github.com/mpark/wg21
+
+LLVM
+https://github.com/llvm
+
 go-lang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
