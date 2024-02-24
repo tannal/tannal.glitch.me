@@ -1,5 +1,10 @@
 # 2024-2-24 | 
 
+https://boards.greenhouse.io/skydio
+
+https://nikhilism.com/resume
+
+
 apport-unpack /var/crash/ .
 gdb ../a.out CoreDump
 
