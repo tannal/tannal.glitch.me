@@ -1,5 +1,28 @@
 # 2024-2-24 | 
 
+apport-unpack /var/crash/ .
+gdb ../a.out CoreDump
+
+sudo apt -y install linux-image-$(uname -r)-dbgsym --allow-unauthenticated
+
+sudo apt install linux-crashdump crash
+
+sudo vim ~/.config/apport/settings
+
+[main]
+unpackaged=true
+
+cat /proc/sys/kernel/core_pattern 
+
+https://www.codethink.co.uk/join-us.html
+
+https://blog.reverberate.org/
+
+https://github.com/haberman
+
+https://lucumr.pocoo.org/about/
+
+https://github.com/kevin-lesenechal
 
 sudo chmod -R g+w
 
