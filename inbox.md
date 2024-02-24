@@ -1,5 +1,8 @@
 # 2024-2-24 | 
 
+
+sudo chmod -R g+w
+
 https://github.com/kubernetes/kubernetes/issues/96564
 
 If you don't believe it, you can't understand it.

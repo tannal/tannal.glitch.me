@@ -1,6 +1,9 @@
 
 # inbox
 
+git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/
+
+https://github.com/search?q=repo%3Atorvalds%2Flinux%20Kmemleak&type=code
 
 kernel selftests
 
