@@ -1,6 +1,11 @@
 
 # inbox
 
+
+
+
+sudo apt install moreutils
+
 servo/components/shared/embedder
 /resources.rs
 
