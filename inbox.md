@@ -1,6 +1,12 @@
 # 2024-2-24 | 
 
+https://www.centricular.com/contact/
 
+Please Take A Look. PTAL
+
+https://xkcd.com/927/
+
+SMI heap integer
 
 # 2024-2-23 | 
 

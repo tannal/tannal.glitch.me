@@ -1,3 +1,155 @@
+# 2024-2-24
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+提交 · main · GStreamer / gstreamer · GitLab
+https://gitlab.freedesktop.org/gstreamer/gstreamer/-/commits/main?ref_type=heads
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/introduction/slide_36
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/introduction/slide_36
+
+Track Time in Terminal.app – Without Start/Stop Timers!
+https://timingapp.com/terminal-time-tracking
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+%22could+not+load%22&type=code
+
+servo/components/shared/embedder/resources.rs at e078a9981768d7523abba57b6e86f4874dcbf2fd · servo/servo
+https://github.com/servo/servo/blob/e078a9981768d7523abba57b6e86f4874dcbf2fd/components/shared/embedder/resources.rs#L84
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+src: simplify embedder entry point execution · nodejs/node@f29d2b7
+https://github.com/nodejs/node/commit/f29d2b7053e88517414dd419ed3a18df54a509fb
+
+src: simplify direct queries of env vars in C++ land by joyeecheung · Pull Request #51829 · nodejs/node
+https://github.com/nodejs/node/pull/51829
+
+fix(node/fs): promises not exporting fs constants (#21997) · denoland/deno@6927382
+https://github.com/denoland/deno/commit/692738232b0668c35fcc572cb651fe543a8b87f9#diff-33ba6e6e5e3b6ce2a5772da3e9da6f07507ecd8597bc23767da9e75ed1ae8942
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+66ba3e9cb169c2f7ac5d7a08df1a72453e324a45 - v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git/+/66ba3e9cb169c2f7ac5d7a08df1a72453e324a45
+
+Commits · v8/v8
+https://github.com/v8/v8/commits/main/?author=joyeecheung&before=bbdcc772ffe10f6dbf841a1146551bde55acccee+35
+
+gguf : add input validation, prevent integer overflows (#709) · ggerganov/ggml@aec8550
+https://github.com/ggerganov/ggml/commit/aec8550d966c82d3e6f10dd7de309afe5c424857
+
+Commits · WebKit/WebKit
+https://github.com/WebKit/WebKit/commits/main/?author=rniwa
+
+Tannal
+https://tannall.deno.dev/posts/people
+
+R. Niwa
+https://rniwa.com/
+
+Ryosuke Niwa github - Google 搜索
+https://www.google.com/search?q=Ryosuke+Niwa+github&rlz=1C1GCEA_enJP1090JP1090&oq=Ryosuke+Niwa++github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyNzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077/checks
+
+hw/intc/grlib_irqmp: implements multicore irq (0fa5cd4a) · 提交 · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/commit/0fa5cd4a6016c0dc13c2882f63b58787cf3283bb
+
+cl.cam.ac.uk
+http://cl.cam.ac.uk/research/security/ctsrd/cheri
+
+Next.js and Supabase Starter Kit
+http://localhost:3000/notes
+
+Issues · supabase/supabase
+https://github.com/supabase/supabase/issues
+
+SQL | Supabase
+https://supabase.com/dashboard/project/ytowlmygnfxpjymdybka/sql/99ca5d8b-f984-4955-a1f9-aab25610cd9d
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+continuous profiling - Google 搜索
+https://www.google.com/search?q=continuous+profiling&rlz=1C1GCEA_enJP1090JP1090&oq=continues+profiling&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABNIBCDk2NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Code search results
+https://github.com/search?q=repo%3Atannal%2Fnode%20schedulePauseOnNextStatement&type=code
+
+IFC Confusion in CSSWG
+https://chat.openai.com/c/431d0587-c7b9-461e-8c9c-56f888566460
+
+Debugging over the V8 Inspector Protocol · V8
+https://v8.dev/docs/inspector
+
+v8/v8.dev: The source code of v8.dev, the official website of the V8 project.
+https://github.com/v8/v8.dev
+
+[inspector] Mark %GetPrivateMember as side effect free. · v8/v8@5cf4ebc
+https://github.com/v8/v8/commit/5cf4ebca7dcce5c0ce9179a712045f661fb4093b
+
+owner:machenbach@chromium.org · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:machenbach@chromium.org
+
+[class] support out-of-scope private member access in debug-evaluate (4020267) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4020267
+
+Access to out-of-scope private class members in the DevTools console - Google 文档
+https://docs.google.com/document/d/1Va89BKHjCDs9RccDWhuZBb6LyRMAd6BXM3-p25oHd8I/edit#heading=h.n1atlriavj6v
+
+mathiasbynens (mathiasbynens) / Repositories
+https://github.com/mathiasbynens?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mathiasbynens&sort=byPopularity&type=story
+
+MakePython ESP32 Dev Kit - Google 文档
+https://docs.google.com/document/d/1K-TYea7jbYfj2ecMUmr0T0zd4JDpk5lo0mJNOLPUrhc/edit#heading=h.glllzfs9h4ke
+
+Toit documentation
+https://docs.toit.io/tutorials
+
+Commits · v8/v8
+https://github.com/v8/v8/commits/main/?author=verwaest
+
+verwaest (Toon Verwaest)
+https://github.com/verwaest
+
+LeszekSwirski (Leszek Swirski)
+https://github.com/LeszekSwirski
+
+Commits · v8/v8
+https://github.com/v8/v8/commits/main/?author=LeszekSwirski
+
+[maglev] Inline the TypedArray.prototype.length accessor · v8/v8@f6fbef2
+https://github.com/v8/v8/commit/f6fbef25f12c1ba754a6cfecba9933c9678a6615
+
+Commits · v8/v8
+https://github.com/v8/v8/commits?author=syg
+
+Nirbheek Chauhan
+https://nirbheek.in/
+
+Centricular · Open Source Expertise · Contact
+https://www.centricular.com/contact/
+
 # 2024-2-23
 
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
