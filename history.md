@@ -1,5 +1,71 @@
 # 2024-2-24
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Perplexity Blog
+https://blog.perplexity.ai/
+
+unreferenced object 0xffff896302b45800 (size 1024): is there something in the k...
+https://www.perplexity.ai/search/unreferenced-object-0xffff896302b45-VK4Z_8zdRKK07O7pgXh07Q
+
+Week 1 - Adder - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/week1/index.html
+
+Lecture 3: Let-bindings and simple stack allocations
+https://maxsnew.com/teaching/eecs-483-fa23/lec_let-and-stack_notes.html
+
+UCSD-Compilers-S23-Week2-Friday.pdf - Google 云端硬盘
+https://drive.google.com/file/d/1--oHIGna7kRj0w7yYmtHYsX7Iprjhvj1/view
+
+UCSD-Compilers-S23-Week2-Wednesday.pdf - Google 云端硬盘
+https://drive.google.com/file/d/1pyn-5AhrBKH4nE4V4g3VWKDD-HM9J3R5/view
+
+ucsd-compilers-s23/lecture1
+https://github.com/ucsd-compilers-s23/lecture1
+
+UCSD-Compilers-S23-Week2-Monday.pdf - Google 云端硬盘
+https://drive.google.com/file/d/15xYXbx9VVfXv9-xuKqH8lcMLKt8gP4cu/view?pli=1
+
+reference in rust can be null - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=reference+in+rust+can+be+null#ip=1
+
+HW2: X86lite — EECS 483 Winter 2024
+http://maxsnew.com/teaching/eecs-483-wn24/hw2/doc/hw2-x86lite.html
+
+eclipse-threadx/getting-started: This Getting Started guide is a series of tutorials that shows device developers how to connect to Azure IoT using Eclipse ThreadX.
+https://github.com/eclipse-threadx/getting-started
+
+ubuntu 安装 arm-none-eabi-gcc 的几种方式 - schips - 博客园
+https://www.cnblogs.com/schips/p/12345870.html
+
+ChatGPT
+https://chat.openai.com/auth/login
+
+References and Borrowing
+https://doc.rust-lang.org/1.8.0/book/references-and-borrowing.html
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2015
+
+You can't turn off the borrow checker for references, but Rust also provides raw... | Hacker News
+https://news.ycombinator.com/item?id=22391810
+
+unable to link old permission denid - Google 搜索
+https://www.google.com/search?client=firefox-b-e&q=unable+to+link+old+permission+denid
+
+Git push error: Unable to unlink old (Permission denied) - Stack Overflow
+https://stackoverflow.com/questions/11774397/git-push-error-unable-to-unlink-old-permission-denied
+
+drm/amd/display: Fix memory leak in dm_sw_fini() - kernel/git/torvalds/linux.git - Linux kernel source tree
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=bae67893578d608e35691dcdfa90c4957debf1d3
+
+kernel/git/torvalds/linux.git - Linux kernel source tree
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/
+
+Code search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux%20Kmemleak&type=code
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
