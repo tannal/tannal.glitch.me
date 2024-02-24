@@ -1,5 +1,47 @@
 # 2024-2-24 | 
 
+Flap Hero relies on several excellent third-party libraries: Assimp to load 3D models, SoLoud for audio, stb to load textures and fonts, and GLFW for desktop windowing & input.
+
+RCU grace periods
+
+https://github.com/arc80/FlapHero
+
+```bash
+
+UID PID PPID C STIME TTY TIME CMD
+root 1 0 0 22:43 ? 00:00:01 /sbin/init splash
+root 2 0 0 22:43 ? 00:00:00 [kthreadd]
+root 3 2 0 22:43 ? 00:00:00 [ksoftirqd/0]
+root 4 2 0 22:43 ? 00:00:00 [kworker/0:0]
+root 5 2 0 22:43 ? 00:00:00 [kworker/0:0H]
+root 7 2 0 22:43 ? 00:00:01 [rcu_sched]
+root 8 2 0 22:43 ? 00:00:00 [rcu_bh]
+root 9 2 0 22:43 ? 00:00:00 [migration/0]
+root 10 2 0 22:43 ? 00:00:00 [watchdog/0]
+root 11 2 0 22:43 ? 00:00:00 [watchdog/1]
+root 12 2 0 22:43 ? 00:00:00 [migration/1]
+root 13 2 0 22:43 ? 00:00:00 [ksoftirqd/1]
+root 15 2 0 22:43 ? 00:00:00 [kworker/1:0H]
+root 16 2 0 22:43 ? 00:00:00 [watchdog/2]
+root 17 2 0 22:43 ? 00:00:00 [migration/2]
+root 18 2 0 22:43 ? 00:00:00 [ksoftirqd/2]
+root 20 2 0 22:43 ? 00:00:00 [kworker/2:0H]
+root 21 2 0 22:43 ? 00:00:00 [watchdog/3]
+root 22 2 0 22:43 ? 00:00:00 [migration/3]
+root 23 2 0 22:43 ? 00:00:00 [ksoftirqd/3]
+root 25 2 0 22:43 ? 00:00:00 [kworker/3:0H]
+root 26 2 0 22:43 ? 00:00:00 [kdevtmpfs]
+
+```
+
+ps --ppid 2 -p 2 --deselect
+
+https://wpt.live/html/semantics/embedded-content/the-canvas-element/imagedata.html
+
+https://wpt.fyi/results/html/semantics/embedded-content/the-canvas-element/imagedata.html?label=master&label=experimental&aligned&q=imagedata.html
+
+https://blog.perplexity.ai/careers
+
 https://www.centricular.com/contact/
 
 Please Take A Look. PTAL
