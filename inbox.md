@@ -1,3 +1,16 @@
+# 2024-2-25 | 
+
+get one thing down
+
+Godbolt https://drive.google.com/file/d/119mLhxQryX7uu7ORaQNT_ri1QLhFqkVj/view
+
+LLVM OPT Pipeline Viewer
+Link: https://godbolt.org/z/xa7q4GToz
+
+https://www.fsf.org/community/
+
+FSF/GNU
+
 # 2024-2-24 | 
 
 https://www.kxxt.dev/about/

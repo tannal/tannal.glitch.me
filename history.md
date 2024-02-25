@@ -1,3 +1,206 @@
+# 2024-2-25
+
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Getting Started with Perplexity
+https://blog.perplexity.ai/getting-started
+
+build gecko-dev on windows
+https://www.perplexity.ai/search/build-geckodev-on-sNL7ydn7QkukIli2KxqzMA
+
+Building gecko
+https://gist.github.com/ChunMinChang/bd39852e96f39fce328de812e64a5b3c
+
+Nazariglez/notan: Cross-platform multimedia layer
+https://github.com/Nazariglez/notan
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#application
+
+提交 · main · GStreamer / gstreamer · GitLab
+https://gitlab.freedesktop.org/gstreamer/gstreamer/-/commits/main?ref_type=heads
+
+tannal (tannal)
+https://github.com/tannal/
+
+ChatGPT
+https://chat.openai.com/c/cbac691b-6399-4409-9f5c-3a824f735ccb
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=libpython%20&sort=byPopularity&type=story
+
+Igalia/wolvic: A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
+https://github.com/Igalia/wolvic
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/
+
+igalia mrego - Google 搜索
+https://www.google.com/search?q=igalia+mrego&rlz=1C1GCEA_enJP1090JP1090&oq=igalia+mrego&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEAAYHjIGCAcQRRg80gEINjQyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Update behavior of CSS Grid Layout percentage row tracks and gutters - Chrome Platform Status
+https://chromestatus.com/feature/6708326821789696
+
+Manuel Rego Casasnovas on CodePen
+https://codepen.io/mrego/pens/popular
+
+Servo at FOSDEM 2024
+https://blogs.igalia.com/mrego/servo-at-fosdem-2024/
+
+q66 (q66)
+https://github.com/q66
+
+FOSDEM 2024 - Building a Linux distro with LLVM
+https://fosdem.org/2024/schedule/event/fosdem-2024-2555-building-a-linux-distro-with-llvm/
+
+chimera_fosdem_2024_llvm_DIVbHby.pdf
+https://fosdem.org/2024/events/attachments/fosdem-2024-2555-building-a-linux-distro-with-llvm/slides/22812/chimera_fosdem_2024_llvm_DIVbHby.pdf
+
+Manuel Rego | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/mrego
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Building Firefox On Windows — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/setup/windows_build.html#building-firefox-on-windows
+
+0voice
+https://github.com/0voice
+
+MewPurPur/GodSVG: An application in early development for creating simple vector graphics. Built in Godot.
+https://github.com/MewPurPur/GodSVG
+
+ling0322/libllm: Efficient inference of large language models.
+https://github.com/ling0322/libllm
+
+RustROver - Google 搜索
+https://www.google.com/search?q=RustROver&rlz=1C1GCEA_enJP1090JP1090&oq=RustROver&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY5OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Kdenlive - Video Editing Freedom
+https://kdenlive.org/en/
+
+KDE - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/KDE
+
+GIMP - Digital B&W Conversion
+https://www.gimp.org/tutorials/Digital_Black_and_White_Conversion/
+
+KDE - Wikipedia
+https://en.wikipedia.org/wiki/KDE#KDE_Projects
+
+Dave Hyatt - Google 搜索
+https://www.google.com/search?q=Dave+Hyatt&rlz=1C1GCEA_enJP1090JP1090&oq=Dave+Hyatt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.phind.com
+https://www.phind.com/search?cache=up9gd7w3404ek7k3f8ympgw0
+
+Fix a truly strange triple in testcase · llvm/llvm-project@750981f
+https://github.com/llvm/llvm-project/commit/750981f1a2c6069cded709b75cc87d7abd05277a
+
+Commits · llvm/llvm-project
+https://github.com/llvm/llvm-project/commits/main/?author=lhames
+
+[TargetParser] Expose Triple::getArchPointerBitWidth. by lhames · Pull Request #82086 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/82086/files
+
+Commits · llvm/llvm-project
+https://github.com/llvm/llvm-project/commits/main/?author=joker-eph&after=60a904b2ad9842b93cc5fa0ad5bda5e22c550b7e+34
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Gamepad: Align closer to spec and implement missing slots by msub2 · Pull Request #31385 · servo/servo
+https://github.com/servo/servo/pull/31385
+
+Chimera Linux - Development
+https://chimera-linux.org/development/
+
+Chimera Linux
+https://github.com/chimera-linux
+
+Element
+https://app.element.io/#/login
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+script_traits&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=on%20stack%20replacement&sort=byPopularity&type=story
+
+CS 6120: Bril JIT with On-Stack Replacement
+https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/bril-osr/
+
+Next.js and Supabase Starter Kit
+http://localhost:3000/
+
+C-Reduce | Introduction to Common Compiler Tools #5 - YouTube
+https://www.youtube.com/watch?v=HsH7dbtEuBg&list=PLIShwgr315-APrdzkJ2YGSLp-aWjY0qmE&index=5
+
+creduce - Google 幻灯片
+https://docs.google.com/presentation/d/1xLI1BVLTs_TS817Yl313v7-sYKTKb126Uv6rYyIk8QY/edit#slide=id.g393f2b358b3e7fa2_40
+
+Common Compiler Tools 4 - Godbolt.pdf - Google 云端硬盘
+https://drive.google.com/file/d/119mLhxQryX7uu7ORaQNT_ri1QLhFqkVj/view
+
+Compiler Explorer
+https://godbolt.org/
+
+Compiler Explorer
+https://godbolt.org/z/K55Y6EMPx
+
+introduction_to_llvm_project_tools - Google 幻灯片
+https://docs.google.com/presentation/d/15CKpbQb8zLtxhmmGNymC4LmvfH2K0u-9sYz3M-XCK_c/edit#slide=id.g205454d3a893d285_106
+
+Running the LLVM Tools - YouTube
+https://www.youtube.com/watch?v=Je4tjHmACgI
+
+technologies_enabled_by_llvm - Google 幻灯片
+https://docs.google.com/presentation/d/1zflWMMZ59A8WAPu76hd6mYAgoYa6iBFcnH0gLFkfXaY/edit#slide=id.g25c8741875d_0_31
+
+Getting Involved — LLVM 19.0.0git documentation
+https://llvm.org/docs/GettingInvolved.html#office-hours
+
+LLVM Weekly - #528, February 19th 2024
+https://llvmweekly.org/issue/529
+
+Latest gsoc2024 topics - LLVM Discussion Forums
+https://discourse.llvm.org/tag/gsoc2024
+
+phoebewang (Phoebe Wang)
+https://github.com/phoebewang
+
+Community Resources — Free Software Foundation — Working together for free software
+https://www.fsf.org/community/
+
+Haswell微架构 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Haswell%E5%BE%AE%E6%9E%B6%E6%A7%8B
+
+regehr (John Regehr)
+https://github.com/regehr
+
+(1 封私信 / 2 条消息) 陈硕 - 知乎
+https://www.zhihu.com/people/giantchen/posts
+
+Shuo Chen's Notes
+https://chenshuo.com/notes/
+
+gperftools/docs/cpuprofile.html at master · gperftools/gperftools
+https://github.com/gperftools/gperftools/blob/master/docs/cpuprofile.html
+
+(1 封私信 / 2 条消息) 中国人很聪明，为什么现代科学却起源于西方？ - 知乎
+https://www.zhihu.com/question/587050508
+
+bloomberg - Google 搜索
+https://www.google.com/search?q=bloomberg&rlz=1C1GCEA_enJP1090JP1090&oq=bloo&gs_lcrp=EgZjaHJvbWUqCggCEAAYsQMYgAQyBggAEEUYOTINCAEQLhiDARixAxiABDIKCAIQABixAxiABDIGCAMQRRg9MgYIBBBFGD0yBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzNzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+(1 封私信 / 2 条消息) Steven Wang - 知乎
+https://www.zhihu.com/people/silverwzw
+
+(1 封私信 / 2 条消息) SuperSodaSea - 知乎
+https://www.zhihu.com/people/supersodasea/posts
+
 # 2024-2-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,4 +1,9 @@
 
+https://www.zhihu.com/people/supersodasea/
+
+https://www.zhihu.com/people/silverwzw
+
+https://www.zhihu.com/people/giantchen
 
 https://www.zhihu.com/people/andy_pan
 

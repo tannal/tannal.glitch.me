@@ -1,6 +1,18 @@
 
 # inbox
 
+C:\Users\tannal\tannalwork\projects\servo\components\shared\embedder\lib.rs
+impl EmbedderProxy {
+    pub fn send(&self, msg: (Option<TopLevelBrowsingContextId>, EmbedderMsg)) {
+        // Send a message and kick the OS event loop awake.
+        if let Err(err) = self.sender.send(msg) {
+            warn!("Failed to send response ({:?}).", err);
+        }
+        self.event_loop_waker.wake();
+    }
+}
+
+script_thread handle_msg from xxx 
 
 
 

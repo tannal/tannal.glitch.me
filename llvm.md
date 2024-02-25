@@ -1,5 +1,11 @@
 # inbox
 
+https://github.com/regehr
+
+https://discourse.llvm.org/tag/gsoc2024
+
+https://llvmweekly.org/issue/529
+
 https://github.com/llvm/llvm-project/commits/main/?author=lhames
 
 llvm optimization remarks https://www.youtube.com/watch?v=qmEsx4MbKoc
