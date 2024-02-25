@@ -1,6 +1,18 @@
 
 # inbox
 
+https://github.com/search?q=repo%3Aservo%2Fservo%20pub%20struct%20EventTarget&type=code
+
+pub struct Element {
+    node: Node,
+
+}
+
+pub struct Node {
+    /// The JavaScript reflector for this node.
+    eventtarget: EventTarget,
+
+
 C:\Users\tannal\tannalwork\projects\servo\components\shared\embedder\lib.rs
 impl EmbedderProxy {
     pub fn send(&self, msg: (Option<TopLevelBrowsingContextId>, EmbedderMsg)) {

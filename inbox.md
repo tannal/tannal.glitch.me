@@ -1,5 +1,46 @@
 # 2024-2-25 | 
 
+
+goal -> approaching -> something goes wrong (else seems good) -> stop
+
+https://cloud.google.com/tpu tpu is a money maker for google cloud
+
+digital archive for research
+computational linguistics NLP
+
+model, code
+
+model -> linear algebra ->  output
+
+model -> linear algebra -> output -> loss -> change model parameter one by one by differential * learning rate
+
+
+
+.\vcpkg install tcmalloc
+.\vcpkg remove --outdated
+
+https://paperswithcode.com/about
+
+A unsolved problem and a solution is a achievement.
+
+Popular problems/field are definitly not hard.
+Real hard problems people never think about them.
+
+AI workloads ML Optimized Hardware(training infer)
+
+Image classification standford ImageNet Computer Vision
+
+speech recognization
+https://www.openslr.org/12
+
+slido.com
+
+sudo apt-get install google-perftools graphviz
+
+Gperf tools
+
+nagoya 名古屋市
+
 https://codesearch.debian.net/
 
 vector search
