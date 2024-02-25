@@ -1,5 +1,9 @@
 # 2024-2-25 | 
 
+https://codesearch.debian.net/
+
+vector search
+
 https://github.com/asb
 
 get one thing down

@@ -1,5 +1,101 @@
 # 2024-2-25
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+: public llvm::SectionMemoryManager { package:\Qswiftlang\E · Debian Code Search
+https://codesearch.debian.net/search?q=%3A+public+llvm%3A%3ASectionMemoryManager+%7B+package%3A%5CQswiftlang%5CE&literal=1
+
+feat: LLM inference libraries support plan · Issue #3124 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3124
+
+TabbyML/tabby: Self-hosted AI coding assistant
+https://github.com/TabbyML/tabby
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+facebookarchive/BOLT: Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries
+https://github.com/facebookarchive/BOLT
+
+Add __builtin_stack_address to clang to increase compatibility to gcc · Issue #82632 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/82632
+
+note/tinytools/cpp at master · simonzgx/note
+https://github.com/simonzgx/note/tree/master/tinytools/cpp
+
+Add __builtin_stack_address to clang to increase compatibility to gcc · Issue #82632 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/82632
+
+Pull requests · llvm/llvm-project
+https://github.com/llvm/llvm-project/pulls?page=1&q=is%3Apr+author%3Adtcxzyw+is%3Aclosed
+
+dtcxzyw (Yingwei Zheng)
+https://github.com/dtcxzyw
+
+dtcxzyw/cmmc: An unofficial reference implementation of the C Minus Minus Compiler
+https://github.com/dtcxzyw/cmmc
+
+cmmc/docs/CMMC-SUSTech-slides-v3.pdf at main · dtcxzyw/cmmc
+https://github.com/dtcxzyw/cmmc/blob/main/docs/CMMC-SUSTech-slides-v3.pdf
+
+infiWang (gns)
+https://github.com/infiWang
+
+(1) Resources
+https://tutflix.org/resources/
+
+SUSTech - Google 搜索
+https://www.google.com/search?q=SUSTech&oq=SUSTech&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+(3) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+list: Use WRITE_ONCE() when initializing list_head structures · torvalds/linux@2f07384
+https://github.com/torvalds/linux/commit/2f073848c3cc8aff2655ab7c46d8c0de90cf4e50?fbclid=IwAR3yWrgyNUtoZoDxvEPgkkT24odNxEgXM1dy9_7xjPck4pVl6b0uqJ79uD8
+
+What is Google Summer of Code? | Google Summer of Code Guides
+https://google.github.io/gsocguides/student/?fbclid=IwAR1dPLoBbJeO0rDFxJKFgbKXRXQl8nLaSVzTAmYvjtJSB6vG-nyTeTRs4mc
+
+Google Summer-of-Code 2024 - Ian Rogers
+https://lore.kernel.org/linux-perf-users/CAP-5=fWALQGhqNqh+hsEDZ9p1O3uS=0T4_hqx-fz_VNQF96Zzg@mail.gmail.com/?fbclid=IwAR08py1eKs-Y8sD4FZ8yttrTmoyyan-Bv3zordYfB-VoPIPqtupRkoaCjAY
+
+gsoc:google-summer-code-2024 [Wiki]
+https://wiki.linuxfoundation.org/gsoc/google-summer-code-2024?fbclid=IwAR01DMcozIGv9ltqhUxHLG583gX7TKC4xW4No0zpf_IEP_RyC7pZ9DDkOV0
+
+並行程式設計: Atomics 操作 - HackMD
+https://hackmd.io/@sysprog/concurrency-atomics?fbclid=IwAR1OER5Q51MqeBYjTYGkohDCuG7DHgieEFHP5spD1UfZdfKfcEYHWLzrreI
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jeaf%20dean&sort=byPopularity&type=story
+
+BayLearn15-Keynote3 - YouTube
+https://www.youtube.com/watch?v=90-S1M7Ny_o&t=1262s
+
+Jeff Dean: Trends in Machine Learning [video] | Hacker News
+https://news.ycombinator.com/item?id=39435320
+
+Ask Youtube - Ask Youtube Anything
+https://www.askyoutube.ai/
+
+The EASIEST way to RUN Llama2 like LLMs on CPU!!! - YouTube
+https://www.youtube.com/watch?v=NZzQ8zgKpK8&t=7s
+
+GGML vs GPTQ in Simple Words - YouTube
+https://www.youtube.com/watch?v=y7h_0Rfowz4&t=24s
+
+ChatGPT
+https://chat.openai.com/c/02fb227b-03b1-4114-91f6-e0d74ac7b480
+
+vector search - Google 搜索
+https://www.google.com/search?q=vector+search&oq=vector+search&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+IST-DASLab/gptq: Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
+https://github.com/IST-DASLab/gptq
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
