@@ -1,6 +1,13 @@
 
 # inbox
 
+#[dom_struct]
+pub struct Event {
+    reflector_: Reflector,
+    current_target: MutNullableDom<EventTarget>,
+    target: MutNullableDom<EventTarget>,
+}
+
 constellation send event ot script thread
 
 script_thread handle_event -> document.dispatch

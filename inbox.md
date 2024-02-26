@@ -1,5 +1,7 @@
 # 2024-2-26 | W
 
+http://ollehost.dk/blog/
+
 https://github.com/bitshifter
 
 https://github.com/SuperAuguste
