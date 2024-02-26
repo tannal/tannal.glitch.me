@@ -1,5 +1,7 @@
 # 2024-2-26 | W
 
+https://github.com/bitshifter
+
 https://github.com/SuperAuguste
 https://github.com/rust-lang/rust/commits/master/
 https://github.com/paperdave

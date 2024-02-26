@@ -1,6 +1,13 @@
 
 # inbox
 
+constellation send event ot script thread
+
+script_thread handle_event -> document.dispatch
+
+Event self.getTarget -> Node -> Node -> VirtualMethod -> htmlinputelement
+
+
 rust-gdb
 
 script::dom::htmlinputelement::HTMLInputElement
