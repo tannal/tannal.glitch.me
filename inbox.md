@@ -1,5 +1,26 @@
+# 2024-2-26 | 
+
+https://herbsutter.com/
+
 # 2024-2-25 | 
 
+sudo perf record -g ./a.out
+
+sudo perf report
+
+
+
+
+```bash
+
+git clone https://github.com/gperftools/gperftools
+cd gperftools
+./autogen.sh
+./configure
+make
+sudo make install
+
+```
 
 goal -> approaching -> something goes wrong (else seems good) -> stop
 

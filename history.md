@@ -1,3 +1,167 @@
+# 2024-2-26
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (tannal)
+https://github.com/tannal/
+
+[RISCV][test] Add test coverage for RISCVInstrInfo::isCopyInstrImpl · llvm/llvm-project@455c396
+https://github.com/llvm/llvm-project/commit/455c3966cd7305b40d6941b544a16c22120b4512
+
+muxup/muxup-site: Content, generator scripts, and produced artifacts for https://muxup.com
+https://github.com/muxup/muxup-site
+
+Muxup implementation notes - Muxup
+https://muxup.com/2022q3/muxup-implementation-notes
+
+Commits · llvm/llvm-project
+https://github.com/llvm/llvm-project/commits/main/
+
+youtube 视频默认倍速 - Google 搜索
+https://www.google.com/search?q=youtube+%E8%A7%86%E9%A2%91%E9%BB%98%E8%AE%A4%E5%80%8D%E9%80%9F&rlz=1C1GCEA_enJP1090JP1090&oq=youtube+%E8%A7%86%E9%A2%91%E9%BB%98%E8%AE%A4%E5%80%8D%E9%80%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINjkzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Creating Rust Threads: Basics
+https://chat.openai.com/c/3de58a7c-02c4-41ec-b576-4c026eb519da
+
+2019 LLVM Developers’ Meeting: Homerding & Kruse “Getting Started with the LLVM Testing Infra..” - YouTube
+https://www.youtube.com/watch?v=isVQ8kYqaSA
+
+An Intro to GPU Architecture and Programming Models I Tim Warburton, Virginia Tech - YouTube
+https://www.youtube.com/watch?v=lGmPy8xpT4E
+
+Test_Infrastructure_Tutorial_Review
+https://llvm.org/devmtg/2019-10/slides/Homerding-Kruse-LLVMTestingInfrastructureTutorial.pdf
+
+gtest 过滤 选择部分测试用例执行_gtest排除用例-CSDN博客
+https://blog.csdn.net/u011481289/article/details/110631102
+
+llvm-project/llvm/unittests/CMakeLists.txt at cc53707a5c104eb7789829ecdb2e3ae2be1a42da · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/cc53707a5c104eb7789829ecdb2e3ae2be1a42da/llvm/unittests/CMakeLists.txt#L5
+
+gperftools对程序进行分析 - gary_123 - 博客园
+https://www.cnblogs.com/gary-guo/p/10607514.html
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools/
+
+google/pprof: pprof is a tool for visualization and analysis of profiling data
+https://github.com/google/pprof
+
+nagoya - Google 搜索
+https://www.google.com/search?q=nagoya&rlz=1C1GCEA_enJP1090JP1090&oq=nagoya&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Element - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo%20pub%20struct%20EventTarget&type=code
+
+(1 封私信 / 2 条消息) 陈硕 - 知乎
+https://www.zhihu.com/people/giantchen/posts
+
+CppCon2016/Presentations/Lifetime Safety By Default - Making Code Leak-Free by Construction at master · CppCon/CppCon2016
+https://github.com/CppCon/CppCon2016/tree/master/Presentations/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction
+
+Sutter’s Mill – Herb Sutter on software development
+https://herbsutter.com/
+
+如何实现：从0到n-1中随机等概率输出m个不同的数？ - 知乎
+https://zhuanlan.zhihu.com/p/26640671
+
+(1 封私信 / 4 条消息) 白如冰 - 知乎
+https://www.zhihu.com/people/bai-ru-bing-58/posts
+
+RoFormer
+https://arxiv.org/pdf/2104.09864.pdf
+
+google/pprof: pprof is a tool for visualization and analysis of profiling data
+https://github.com/google/pprof
+
+船长的资料室 - [gperftools]一行不改，多链个库，程序提速40%
+https://www.tiger2doudou.com/doku.php/coding:cpp:usage_and_cmake_of_gperftools
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools
+
+GPerfTools | Profiling with GPerfTools | RidgeRun
+https://developer.ridgerun.com/wiki/index.php/Profiling_with_GPerfTools
+
+Embedded Linux | GStreamer Support | RidgeRun Developer
+https://developer.ridgerun.com/wiki/index.php/Main_Page
+
+Careers | RidgeRun
+https://www.ridgerun.com/careers
+
+Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jeff%20dean&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB&op=translate
+
+About Papers With Code | Papers With Code
+https://paperswithcode.com/about
+
+openslr.org
+https://www.openslr.org/12
+
+张量处理单元 (TPU) | Google Cloud
+https://cloud.google.com/tpu
+
+ACL Anthology - ACL Anthology
+https://aclanthology.org/
+
+www.phind.com
+https://www.phind.com/search?cache=mmbnysjoore0c5ub2cnw88zo
+
+ilya sutskever - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDYoSTKvis82YPTiy8ypTFQoLi0pzk4tSy0CAJg7Cmc&q=ilya+sutskever&rlz=1C1GCEA_enJP1090JP1090&oq=Ilya&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCQgAEEUYORiABDIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQLhiABDIHCAgQABiABDIHCAkQABiABNIBCTE1NTg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&op=translate
+
+palm language model - Google 搜索
+https://www.google.com/search?q=palm+language+model&rlz=1C1GCEA_enJP1090JP1090&oq=PaLM+lang&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yCAgIEAAYChgeMgYICRAAGB7SAQg5MTA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+OpenAI
+https://openai.com/
+
+OpenAI Platform
+https://platform.openai.com/apps
+
+OpenAI Red Teaming Network application
+https://openai.com/form/red-teaming-network
+
+使用 CMakePresets.json 简化 CMake 项目初始化繁杂步骤-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/2348379
+
+tannal (tannal)
+https://github.com/tannal/
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Issues · typst/typst
+https://github.com/typst/typst/issues
+
+Modern cmake by craffael · Pull Request #104 · google/tcmalloc
+https://github.com/google/tcmalloc/pull/104
+
+pprof - Google 搜索
+https://www.google.com/search?q=pprof+&sca_esv=c3a80dd4fcf8e910&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn080o3kNMa1LLhw-3-0uaSstBHFvTg%3A1708872143109&ei=z1HbZe2mBq3g4-EP67-B2AM&ved=0ahUKEwityrno3MaEAxUt8DgGHetfADsQ4dUDCBA&uact=5&oq=pprof+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnBwcm9mIDIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jjFVCSE1iSE3AEeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgSgAg2YAwCIBgGQBgqSBwE0&sclient=gws-wiz-serp
+
+你不知道的 Go 之 pprof - 大俊的博客
+https://darjun.github.io/2021/06/09/youdontknowgo/pprof/
+
+Tim Warburton | Department of Mathematics | Virginia Tech
+https://math.vt.edu/people/faculty/warburton-tim.html.html
+
 # 2024-2-25
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
