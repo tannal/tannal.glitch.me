@@ -1,5 +1,179 @@
 # 2024-2-26
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Servo WPT CSS scores
+https://wpt.servo.org/
+
+China's Economy Amid US Rate Hike
+https://chat.openai.com/c/83ebbd8a-3cb9-4e50-8eff-4f1eb5d3080c
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#%E7%B0%A1%E5%8D%98%E3%81%AA%E4%BE%8B
+
+layout: Place absolutes in IFCs at their hypothetical static position… · servo/servo@0d4e474
+https://github.com/servo/servo/commit/0d4e4748c432e1ce1555e2f4ebb759c631038313
+
+Google 翻译
+https://translate.google.com/details?sl=auto&tl=en&text=C%E3%80%80%E3%82%B3%E3%83%BC%E3%83%89%E3%80%80%E3%81%A8%20%E3%80%80%E3%81%9D%E3%82%8C%E3%81%AB%20%E5%AF%BE%E5%BF%9C%E3%80%80%E3%81%99%E3%82%8B%E3%80%80%E3%82%A2%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AA%20%E3%82%B3%E3%83%BC%E3%83%89%E3%80%80%E3%82%92%20%E6%AF%94%E8%BC%83%20%E3%80%80%E3%81%97%E3%81%A6%E3%80%80%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%0A%0AC%20%E3%82%B3%E3%83%BC%E3%83%89%E3%80%80%E3%81%A8%E3%80%80%E3%81%9D%E3%82%8C%E3%81%AB%E3%80%80%E5%AF%BE%E5%BF%9C%E3%80%80%E3%81%99%E3%82%8B%E3%80%80%E3%82%A2%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AA%E3%80%80%E3%82%B3%E3%83%BC%E3%83%89%E3%80%80%E3%81%8A%E3%80%80%E6%AF%94%E8%BC%83%E3%80%80%E3%81%97%E3%81%A6%E3%80%80%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86&op=translate
+
+CSS 2
+https://drafts.csswg.org/css2/#abs-non-replaced-width
+
+は - Google 搜索
+https://www.google.com/search?q=%E3%81%AF&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%81%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBzEyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+discord.com
+https://discord.com/channels/839993398554656828/873008373291941919
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Servo TSC Meeting February 2024 · Issue #82 · servo/project
+https://github.com/servo/project/issues/82
+
+osmos/osmos-nn/src at master · jerryshell/osmos
+https://github.com/jerryshell/osmos/tree/master/osmos-nn/src
+
+Japanese input method - Wikipedia
+https://en.wikipedia.org/wiki/Japanese_input_method
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+node/src/node_modules.h at fc0f2cf4750aea865e6260c67c3ac974788f2782 · nodejs/node
+https://github.com/nodejs/node/blob/fc0f2cf4750aea865e6260c67c3ac974788f2782/src/node_modules.h#L28
+
+v8/include/v8-wasm.h at main · v8/v8
+https://github.com/v8/v8/blob/main/include/v8-wasm.h
+
+lucshi (Lei Shi) / January 2024
+https://github.com/lucshi
+
+jaz/src/interpreter/Interpreter.zig at main · zig-java/jaz
+https://github.com/zig-java/jaz/blob/main/src/interpreter/Interpreter.zig
+
+Adjust Behaviour of `read_dir` and `ReadDir` in Windows Implementation: Check Whether Path to Search In Exists by HTGAzureX1212 · Pull Request #120373 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/120373/commits
+
+Commits · rust-lang/rust
+https://github.com/rust-lang/rust/commits/master/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=andy&sort=byPopularity&type=story
+
+Team | Qubes OS
+https://www.qubes-os.org/team/
+
+USENIX ATC '21/OSDI '21 Joint Keynote Address-It's Time for Operating Systems to Rediscover Hardware - YouTube
+https://www.youtube.com/watch?v=36myc8wQhLo
+
+servo/components/script/textinput.rs at ef8a0b7f7be8dce5a09f771822c112692a0f9921 · servo/servo
+https://github.com/servo/servo/blob/ef8a0b7f7be8dce5a09f771822c112692a0f9921/components/script/textinput.rs#L837
+
+Debugging Rust
+https://bitshifter.github.io/rr+rust/index.html#21
+
+remarkjs/remark: markdown processor powered by plugins part of the @unifiedjs collective
+https://github.com/remarkjs/remark
+
+TouchEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent
+
+bitshifter (Cameron Hart)
+https://github.com/bitshifter
+
+robert Griesemer - Google 搜索
+https://www.google.com/search?q=robert+Griesemer&rlz=1C1GCEA_enJP1090JP1090&oq=robert+Griesemer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExMTcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+github.com
+https://github.com/golang/go
+
+Olle Jonsson's blog – Against entropy.
+http://ollehost.dk/blog/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · npm/cli
+https://github.com/npm/cli/issues
+
+Top CS venues
+https://www.cs.cornell.edu/andru/csconf.html
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+npm
+https://github.com/npm/
+
+Releases · WasmEdge/llvm-windows
+https://github.com/WasmEdge/llvm-windows/releases
+
+Issues · microsoft/vscode-cmake-tools
+https://github.com/microsoft/vscode-cmake-tools/issues?q=is%3Aissue+is%3Aopen+path
+
+Is it possible to add a directory to DLL search path from a batch file or cmd script? - Stack Overflow
+https://stackoverflow.com/questions/518228/is-it-possible-to-add-a-directory-to-dll-search-path-from-a-batch-file-or-cmd-sc
+
+lld-link: error: could not open 'LLVM.lib': no such file or directory - Google 搜索
+https://www.google.com/search?q=lld-link%3A+error%3A+could+not+open+%27LLVM.lib%27%3A+no+such+file+or+directory&rlz=1C1GCEA_enJP1090JP1090&oq=lld-link%3A+error%3A+could+not+open+%27LLVM.lib%27%3A+no+such+file+or+directory&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+lld-link's /winsysroot: doesn't handle system libraries passed on command line · Issue #54409 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/54409
+
+[lld][COFF] Retry failed paths to take advantage of winsysroot search… · llvm/llvm-project@c8ea669
+https://github.com/llvm/llvm-project/commit/c8ea66937bdf2f11e5c4f884e3164c98cc6520bb
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+
+
+user agent shadow dom - Google 搜索
+https://www.google.com/search?q=user+agent+shadow+dom&rlz=1C1GCEA_enJP1090JP1090&oq=user+agent+shadow+dom&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIICAEQABgPGB4yCAgCEAAYBRgeMggIAxAAGAUYHjIICAQQABgFGB4yCAgFEAAYBRgeMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDY0MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/input.html#dom-input-type
+
+rust lib cell - Google 搜索
+https://www.google.com/search?sca_esv=6c5046f2664a05af&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09kSInsZEznusWKbO8rtsNTK0wqIg:1708943129752&q=rust+lib+cell&spell=1&sa=X&ved=2ahUKEwjxp8Kh5ciEAxWrTWwGHVjKBgEQBSgAegQICBAC&biw=1536&bih=703&dpr=1.25
+
+DOM Standard
+https://dom.spec.whatwg.org/#concept-element-shadow-root
+
+tannal (tannal)
+https://github.com/tannal/
+
+【微前端】在造一个微前端轮子之前，你需要知道这些~ - 掘金
+https://juejin.cn/post/7210747150815936569#heading-36
+
+将微前端做到极致-无界微前端方案 - 掘金
+https://juejin.cn/post/7125646119727529992?from=search-suggest
+
+html5 forms - Google 搜索
+https://www.google.com/search?q=html5+forms&rlz=1C1GCEA_enJP1090JP1090&oq=html5+&gs_lcrp=EgZjaHJvbWUqEAgAEEUYExgnGDsYgAQYigUyEAgAEEUYExgnGDsYgAQYigUyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMTc5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+chromium/third_party/blink at main · chromium/chromium
+https://github.com/chromium/chromium/tree/main/third_party/blink
+
+chromium/third_party/blink/renderer/core/html/forms/html_input_element.cc at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/html/forms/html_input_element.cc
+
+Igalia/wpe-android: WPE WebKit for Android
+https://github.com/Igalia/wpe-android
+
+zhani (Jani Hautakangas)
+https://github.com/zhani
+
+Chrome Platform Status
+https://chromestatus.com/metrics/feature/popularity#FormElement
+
+HTMLFormElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

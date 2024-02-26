@@ -1,4 +1,84 @@
-# 2024-2-26 | W
+# 2024-2-26 1 | W
+
+https://ferjm.github.io/about/
+https://github.com/zhani
+
+The status of HTML5 Forms in servo.
+
+Rust lib Cell
+
+use std::cell::Cell;
+
+interface HTMLInputElement : HTMLElement {
+  [HTMLConstructor] constructor();
+
+  [CEReactions] attribute DOMString accept;
+  [CEReactions] attribute DOMString alt;
+  [CEReactions] attribute DOMString autocomplete;
+  [CEReactions] attribute boolean defaultChecked;
+  attribute boolean checked;
+  [CEReactions] attribute DOMString dirName;
+  [CEReactions] attribute boolean disabled;
+  readonly attribute HTMLFormElement? form;
+  attribute FileList? files;
+  [CEReactions] attribute USVString formAction;
+  [CEReactions] attribute DOMString formEnctype;
+  [CEReactions] attribute DOMString formMethod;
+  [CEReactions] attribute boolean formNoValidate;
+  [CEReactions] attribute DOMString formTarget;
+  [CEReactions] attribute unsigned long height;
+  attribute boolean indeterminate;
+  readonly attribute HTMLDataListElement? list;
+  [CEReactions] attribute DOMString max;
+  [CEReactions] attribute long maxLength;
+  [CEReactions] attribute DOMString min;
+  [CEReactions] attribute long minLength;
+  [CEReactions] attribute boolean multiple;
+  [CEReactions] attribute DOMString name;
+  [CEReactions] attribute DOMString pattern;
+  [CEReactions] attribute DOMString placeholder;
+  [CEReactions] attribute boolean readOnly;
+  [CEReactions] attribute boolean required;
+  [CEReactions] attribute unsigned long size;
+  [CEReactions] attribute USVString src;
+  [CEReactions] attribute DOMString step;
+  [CEReactions] attribute DOMString type;
+  [CEReactions] attribute DOMString defaultValue;
+  [CEReactions] attribute [LegacyNullToEmptyString] DOMString value;
+  attribute object? valueAsDate;
+  attribute unrestricted double valueAsNumber;
+  [CEReactions] attribute unsigned long width;
+
+  undefined stepUp(optional long n = 1);
+  undefined stepDown(optional long n = 1);
+
+  readonly attribute boolean willValidate;
+  readonly attribute ValidityState validity;
+  readonly attribute DOMString validationMessage;
+  boolean checkValidity();
+  boolean reportValidity();
+  undefined setCustomValidity(DOMString error);
+
+  readonly attribute NodeList? labels;
+
+  undefined select();
+  attribute unsigned long? selectionStart;
+  attribute unsigned long? selectionEnd;
+  attribute DOMString? selectionDirection;
+  undefined setRangeText(DOMString replacement);
+  undefined setRangeText(DOMString replacement, unsigned long start, unsigned long end, optional SelectionMode selectionMode = "preserve");
+  undefined setSelectionRange(unsigned long start, unsigned long end, optional DOMString direction);
+
+  undefined showPicker();
+
+  // also has obsolete members
+};
+
+
+HTMLInputElement includes PopoverInvokerElement;
+
+$env:PATH = "C:\Users\tannal\Downloads\LLVM-16.0.6-win64\lib\" + $env:PATH
+
 
 http://ollehost.dk/blog/
 
