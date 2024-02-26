@@ -1,4 +1,30 @@
-# 2024-2-26 | 
+# 2024-2-26 | W
+
+https://github.com/SuperAuguste
+https://github.com/rust-lang/rust/commits/master/
+https://github.com/paperdave
+
+C コード(ko-do)　と(to)　それに　対応　する　アセンブリ　コード　お　比較　して　みましょう
+
+C　コンパイラ(konpaira compiler)　が(ga)　どの(dono)　よう(yo)　な(na)　出力(Shutsuryoku)　お(o) 生成(seisei)
+
+して(shite)　いる(lru)　の(no)　か(ka)　と(to)　いう(lu)　イメージ(Imeji image)　お(o)　掴む(Tsukamu)
+
+ため(tame)　に(ni)
+
+簡単(kantan)　な例(narei 例子)
+
+C と　それ(sore)　に(ni)　対応(taio 对应)　する(suru 　アセンブラ
+
+アセンブラ と(to) は(wa ha)
+
+アセンブラ(asenbura)　と　
+
+CPU と メモリ(memori) cpu and memory memori
+
+機械語　と(to) アセンブラ(asenbura) 机器语言 and assembler
+
+著者　に　ついて　作者 に 关于
 
 https://herbsutter.com/
 

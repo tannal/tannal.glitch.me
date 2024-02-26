@@ -1,6 +1,12 @@
 
 # inbox
 
+rust-gdb
+
+script::dom::htmlinputelement::HTMLInputElement
+script::script_thread::ScriptThread::handle_msgs
+
+
 https://github.com/search?q=repo%3Aservo%2Fservo%20pub%20struct%20EventTarget&type=code
 
 pub struct Element {
