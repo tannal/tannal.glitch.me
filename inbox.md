@@ -1,5 +1,22 @@
 # 2024-2-26 1 | W
 
+WasmEdge::Host::WASI::INode::pathCreateDirectory
+
+Executor::execute
+
+Wasmtime, Wasmer, WAMR, and Wasmi
+
+wasmedge --dir=. target/wasm32-wasi/debug/bug.wasm
+
+https://github.com/gabime/spdlog C++ logging lib
+
+export PATH=/home/tannal/tannalwork/projects/WasmEdge/_install/bin/:$PATH
+
+
+Serde is a framework for serializing and deserializing Rust data structures efficiently and generically. 
+
+wasmedge 2019
+
 https://ferjm.github.io/about/
 https://github.com/zhani
 
@@ -309,7 +326,7 @@ https://jakstys.lt/2023/microsoft-git/
 
 git clone https://github.com/bytecodealliance/wasmtime.git
 
-git submodule --update -init .
+git submodule update --init .
 
 cargo build
 
