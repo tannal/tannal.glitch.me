@@ -1,5 +1,78 @@
 # 2024-2-27 | W
 
+https://blog.trailofbits.com/
+
+https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024
+
+libClang
+libTooling
+Clang Plugins
+
+
+Lint is the computer science term for a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs. The term originates from a Unix utility that examined C language source code
+Static Code Analysis tool is the analysis of computer programs performed without executing them
+Dynamic Code Analysis on the other hand is performed during execution of the program (like Sanitizers, Code Coverage, Valgrind etc)
+
+
+llvm-reduce
+mlir-reduce
+
+
+llvm bugpoint
+Crash debugger
+Codegen debugger
+Miscompilation debugger
+
+optimizer crashes
+miscompilations by optimizers
+bad native code generation (including problems in the static and JIT compilers).
+
+
+c reduce cvise
+
+https://users.cs.utah.edu/~regehr/
+
+Convolutional Layers
+Fully-Connected (Dense) Layers
+Pooling Layers
+Activation Functions
+Normalization Layers
+Dropout Layers
+Output Layer
+
+Classification Retrieval Detection Segmentation Self-Driving Synthesis
+
+Another approach is to use Docker containers, where base images can be shared across projects, and only layers that change (e.g., project-specific dependencies) are duplicated. This can save space when multiple projects share a common base.
+
+As of my last update in April 2023, pip does not natively support a system similar to Yarn PnP, but the Python community continuously evolves, and it's possible that new tools or improvements to existing tools could address this issue in the future. For the latest practices and tools, one would need to check the current state of Python packaging tools and community recommendations.
+
+function linear(matrix, vector) {
+}
+
+function relu(matrix) {
+}
+
+function linear_relu(input, weights) {
+  const linearResult = linear(weights, input);
+  return relu(linearResult);
+}
+
+Tensor model parallelism
+pipeline model parallelism
+
+model parallelism 
+
+scale the training process
+
+parameter getting bigger -> training is expensive
+
+infer is expensive
+
+Partition Training Data into Batches
+
+scale the training process
+
+
 https://github.com/WasmEdge/WasmEdge/commit/5e8a06e09f9f167fd87ab1777a21f2fdc5fec4ae#diff-5bbd40f71eadf8454723a9d5b392d1df85fce606926b09936d607569b24820c2
 
 https://chameleoncg.com/careers#job_listing

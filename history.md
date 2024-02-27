@@ -3,6 +3,183 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+07-machine-learning-compilation.pdf
+https://mlsyscourse.org/slides/07-machine-learning-compilation.pdf
+
+10-ML-parallelization-part2.pdf
+https://mlsyscourse.org/slides/10-ML-parallelization-part2.pdf
+
+(3) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Start a Developer Blog: Hashnode - Custom Domain, Sub-path, Hosted/Headless CMS.
+https://hashnode.com/
+
+H-Store: Next Generation OLTP Database Research
+https://hstore.cs.brown.edu/
+
+Summer 2024 intern summary | by Jhan | Feb, 2024 | Medium
+https://medium.com/@jhan1998/summer-2024-intern-summary-b6ab14d0c253
+
+CUDA Learning Notes — Day 1 | by Jhan | Medium
+https://medium.com/@jhan1998/cuda-learning-notes-day-1-41b1edb9f846
+
+(1) Resources
+https://tutflix.org/resources/
+
+(4) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+ChatGPT
+https://chat.openai.com/c/3ed5521b-6fbf-4308-8a29-d4264264f511
+
+pnpm, but for Python? - DEV Community
+https://dev.to/ghost/pnpm-but-for-python-3hb3
+
+Issues · pypa/pip
+https://github.com/pypa/pip/issues?q=is%3Aissue+pnpm+is%3Aclosed
+
+线性整流函数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BA%BF%E6%80%A7%E6%95%B4%E6%B5%81%E5%87%BD%E6%95%B0
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=incubator%20project%0A&op=translate
+
+Visualizing and Understanding Convolutional Networks
+https://arxiv.org/pdf/1311.2901.pdf
+
+PmWiki - Teaching
+https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php?n=PmWiki.Teaching
+
+cs.nyu.edu/~fergus/teaching/vision/index.html
+https://cs.nyu.edu/~fergus/teaching/vision/index.html
+
+1_Intro.pdf
+https://cs.nyu.edu/~fergus/teaching/vision/1_Intro.pdf
+
+chris lattner - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwTjEuyK00YPTiTc4oyixWyEksKclLLQIAcjwI6w&q=chris+lattner&oq=chris+latt&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDM2NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Commits · llvm/llvm-project
+https://github.com/llvm/llvm-project/commits/main/
+
+lattner (Chris Lattner)
+https://github.com/lattner
+
+lex fridman - Google 搜索
+https://www.google.com/search?q=lex+fridman&oq=lex+fridman&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEIMzY2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+object code emission youtube - Google 搜索
+https://www.google.com/search?q=object+code+emission+youtube&oq=object+code+emission+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDc1OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2009 LLVM Developers’ Meeting: B. Lopes “Object Code Emission and llvm-mc” - YouTube
+https://www.youtube.com/watch?v=VPyZBi39Ymw
+
+Lopes_ObjectCodeEmission.pdf
+https://llvm.org/devmtg/2009-10/Lopes_ObjectCodeEmission.pdf
+
+bcardosolopes (Bruno Cardoso Lopes) / January 2024
+https://github.com/bcardosolopes?tab=overview&from=2024-01-01&to=2024-01-31
+
+Commits · llvm/clangir
+https://github.com/llvm/clangir/commits/main/?author=bcardosolopes
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=unreal%20engine%20open%20source&sort=byPopularity&type=story
+
+[CodeGen][X86] Fix lowering of tailcalls when `-ms-hotpatch` is used … · llvm/llvm-project@bb28442
+https://github.com/llvm/llvm-project/commit/bb28442c0b9790473363cbca2867630262358018
+
+aya-rs
+https://github.com/aya-rs
+
+Code Coverage | Introduction to Common Compiler Tools #7 - YouTube
+https://www.youtube.com/watch?v=WHAam9NaCnI
+
+Common Compiler Tools 7 - Code Coverage.pdf - Google 云端硬盘
+https://drive.google.com/file/d/1owCCCyntnal9QlCNyfVlLpFT4hvhU5_f/view
+
+Using LLDB and GDB | Introduction to Common Compiler Tools #8 - YouTube
+https://www.youtube.com/watch?v=lEr3sTLih8U
+
+Give me 60 mins & I will change your view of GDB/LLDB - Google 幻灯片
+https://docs.google.com/presentation/d/1k8tBF7T1m9Q9Ra3d5JmSWrrHKiXF-v-xQn9DmimY8mQ/edit#slide=id.g243aa2ce02d_2_121
+
+Finding Bugs With Sanitizers | Introduction to Common Compiler Tools #9 - YouTube
+https://www.youtube.com/watch?v=iZyitk5hK9c
+
+LLVM Social Bangalore - YouTube
+https://www.youtube.com/@llvmsocialbangalore6067/videos
+
+clang_format_and_clang_tidy - Google 幻灯片
+https://docs.google.com/presentation/d/1gsMzR71P4tzzUHcb7O85Y-hNFWXEY45cmrZ2OmEwqaw/edit#slide=id.g2763e322007_2_56
+
+trailofbits/vast: VAST is an experimental compiler pipeline designed for program analysis of C and C++. It provides a tower of IRs as MLIR dialects to choose the best fit representations for a program analysis or further program abstraction.
+https://github.com/trailofbits/vast
+
+Trail of Bits Blog
+https://blog.trailofbits.com/
+
+Code browser - Explore C++ code on the web
+https://codebrowser.dev/
+
+C++ Best Practices
+https://github.com/cpp-best-practices
+
+Compiler Explorer
+https://godbolt.org/z/hsKP7ebPM
+
+EuroLLVM Lifetime talk by Gábor Horváth and Matthias Gehre – Sutter’s Mill
+https://herbsutter.com/2019/05/03/eurollvm-lifetime-talk-by-gabor-horvath-and-matthias-gehre/
+
+[analyzer] An in-depth look at Liveness Analysis in the Static Analyzer - Clang Frontend / Static Analyzer - LLVM Discussion Forums
+https://discourse.llvm.org/t/analyzer-an-in-depth-look-at-liveness-analysis-in-the-static-analyzer/56008
+
+Compiler Explorer
+https://godbolt.org/
+
+Compiler Explorer
+https://godbolt.org/z/fnMjsvean
+
+Compiler Explorer
+https://godbolt.org/z/dras7Gnqb
+
+creduce - Google 幻灯片
+https://docs.google.com/presentation/d/1xLI1BVLTs_TS817Yl313v7-sYKTKb126Uv6rYyIk8QY/edit#slide=id.g1a5f7839c00150aa_5
+
+Embedded in Academia – John Regehr, Professor of Computer Science, University of Utah, USA
+https://blog.regehr.org/
+
+schwarzschild-radius/creduce_demo: Examles from the C-Reduce talk at LLVM Social Bangalore
+https://github.com/schwarzschild-radius/creduce_demo/
+
+marxin/cvise: Super-parallel Python port of the C-Reduce
+https://github.com/marxin/cvise
+
+csmith-project/csmith: Csmith, a random generator of C programs
+https://github.com/csmith-project/csmith
+
+jxyang (Xuejun Yang)
+https://github.com/jxyang
+
+Raised “default argument references parameter …” error, then internally crashed · Issue #61316 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/61316
+
+An Overview of Clang
+https://llvm.org/devmtg/2019-10/slides/ClangTutorial-Stulova-vanHaastregt.pdf
+
+React Labs: What We've Been Working On – February 2024 – React
+https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 mentoring/mentors at main · cncf/mentoring
 https://github.com/cncf/mentoring/tree/main/mentors#readme
 
