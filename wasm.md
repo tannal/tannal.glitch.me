@@ -16,6 +16,20 @@ wasm
 wasi
 
 
+wasi filesystem resolution
+
+no global absolute path
+
+
+# platforms
+
+Linux 
+
+Freebsd
+
+
+
+
 
 # promising ideas
 

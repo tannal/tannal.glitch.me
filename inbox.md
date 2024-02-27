@@ -1,3 +1,27 @@
+# 2024-2-27 | W
+
+https://github.com/WasmEdge/WasmEdge/commit/5e8a06e09f9f167fd87ab1777a21f2fdc5fec4ae#diff-5bbd40f71eadf8454723a9d5b392d1df85fce606926b09936d607569b24820c2
+
+https://chameleoncg.com/careers#job_listing
+
+You can make faults, but people can fix it. It's not a big deal.
+
+achievement always comes with risk.
+
+cmake --install build
+
+r --dir=. target/wasm32-wasi/debug/bug.wasm
+
+
+get_path_filestat
+
+__GI___fstatat64
+
+https://github.com/WebAssembly/wasi-filesystem?tab=readme-ov-file
+
+https://github.com/emilio
+
+
 # 2024-2-26 1 | W
 
 WasmEdge::Host::WASI::INode::pathCreateDirectory

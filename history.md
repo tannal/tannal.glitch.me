@@ -1,3 +1,186 @@
+# 2024-2-27
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+mentoring/mentors at main · cncf/mentoring
+https://github.com/cncf/mentoring/tree/main/mentors#readme
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+project/governance/tsc/tsc-2024-01-29.md at main · servo/project
+https://github.com/servo/project/blob/main/governance/tsc/tsc-2024-01-29.md
+
+tauri-apps/wry: Cross-platform WebView library in Rust for Tauri.
+https://github.com/tauri-apps/wry
+
+tannal (tannal)
+https://github.com/tannal/
+
+• Discord | #discussions | WasmEdge
+https://discord.com/channels/846973236280950824/1136257212088582164
+
+feat: Enabling LLM fine tuning in the WASI-NN ggml plugin · Issue #3209 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3209
+
+WasmEdge/plugins/wasi_nn/ggml.h at master · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/master/plugins/wasi_nn/ggml.h
+
+feat: allow redirect of stdin, stdout, and stderr in C SDK · Issue #2936 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/2936
+
+(1) Bug: (WASI) Failed to create directory with trailing backslash · Issue #3231 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3231
+
+Issue search results
+https://github.com/search?q=repo%3AWasmEdge%2FWasmEdge+%3A%3Amkdirat&type=issues
+
+layout: make `AxisResult`, `Anchor` & `AbsoluteAxisSolver` use `Au` (… · servo/servo@304ab9b
+https://github.com/servo/servo/commit/304ab9b09c0beace5ac08c073c957060621d4056
+
+WasmEdge
+https://wasmedge.org/
+
+2309.12167.pdf
+https://arxiv.org/pdf/2309.12167.pdf
+
+Announcing Docker+Wasm Technical Preview 2 | Docker
+https://www.docker.com/blog/announcing-dockerwasm-technical-preview-2/
+
+Wasm and Containers Deep Dive by Djordje Lukic @ Wasm I/O 2023 - YouTube
+https://www.youtube.com/watch?v=v-ywwN4_KQE
+
+GTC 2022 - How CUDA Programming Works - Stephen Jones, CUDA Architect, NVIDIA - YouTube
+https://www.youtube.com/watch?v=QQceTDjA4f4
+
+ChatGPT
+https://chat.openai.com/c/29b719b7-9f68-4518-93ca-b72e2df79067
+
+Home - Qualcomm® AI Hub
+https://aihub.qualcomm.com/
+
+c - Mmap a block device on Mac OS X? - Stack Overflow
+https://stackoverflow.com/questions/24520474/mmap-a-block-device-on-mac-os-x
+
+serde - Google 搜索
+https://www.google.com/search?q=serde&sca_esv=9a737bfe16c9f4f6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09C46dHqrf8w13OSAks7GLWcAXq_A%3A1708951930790&ei=eoncZfb4L9uPseMP6_OQ4Ag&ved=0ahUKEwj2nZeGhsmEAxXbR2wGHes5BIwQ4dUDCBA&uact=5&oq=serde&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXNlcmRlMgQQIxgnMhAQLhiABBiKBRhDGLEDGIMBMgoQLhiABBiKBRhDMg4QLhiDARixAxiABBiKBTIFEAAYgAQyBRAuGIAEMgsQLhiABBixAxiDATILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMggQABiABBixA0j7BlAAWPMFcAB4AZABAJgB7AKgAa8IqgEDMy0zuAEDyAEA-AEBmAIDoAK_CMICChAjGIAEGIoFGCfCAhEQLhiABBixAxiDARjHARjRA8ICFBAuGIAEGIoFGLEDGIMBGMcBGNEDwgILEC4YgAQYxwEY0QPCAg4QABiABBiKBRixAxiDAcICCxAuGIAEGMcBGK8BwgIOEC4YgAQYigUYsQMYgwGYAwCSBwMzLTM&sclient=gws-wiz-serp
+
+WasmEdge/lib/executor/engine/engine.cpp at f5cf26c66e4bbb9bca00497fce5c814aac7d56fa · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/f5cf26c66e4bbb9bca00497fce5c814aac7d56fa/lib/executor/engine/engine.cpp#L90
+
+gabime (Gabi Melman)
+https://github.com/gabime
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+#wasi - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/219900-wasi
+
+#general > ✏️ TSC Meeting Minutes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.8F.EF.B8.8F.20TSC.20Meeting.20Minutes
+
+Security Vulnerablity Report · Issue #31193 · servo/servo
+https://github.com/servo/servo/issues/31193
+
+layout: make `AxisResult`, `Anchor` & `AbsoluteAxisSolver` use `Au` (… · servo/servo@304ab9b
+https://github.com/servo/servo/commit/304ab9b09c0beace5ac08c073c957060621d4056
+
+web-platform-tests dashboard
+https://wpt.fyi/interop-2024
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+emilio (Emilio Cobos Álvarez)
+https://github.com/emilio
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo/issues
+
+CSS 2
+https://drafts.csswg.org/css2/#min-max-heights
+
+WasmEdge/lib/host/wasi/vinode.cpp at f5cf26c66e4bbb9bca00497fce5c814aac7d56fa · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/f5cf26c66e4bbb9bca00497fce5c814aac7d56fa/lib/host/wasi/vinode.cpp
+
+国外兑换人民币 - Google 搜索
+https://www.google.com/search?q=%E5%9B%BD%E5%A4%96%E5%85%91%E6%8D%A2%E4%BA%BA%E6%B0%91%E5%B8%81&sca_esv=cbfd67036d7e3dce&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_Zi1B9r2_O6fpOkfbsa0NvpxsUsg%3A1709007387757&ei=G2LdZZTkLYW4vr0P5omuKA&ved=0ahUKEwjU3Y_S1MqEAxUFnK8BHeaECwUQ4dUDCBA&uact=5&oq=%E5%9B%BD%E5%A4%96%E5%85%91%E6%8D%A2%E4%BA%BA%E6%B0%91%E5%B8%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeWbveWkluWFkeaNouS6uuawkeW4gUjRHVCSAVjZHHABeAGQAQCYAaEFoAH1MKoBCTItNy40LjMuM7gBA8gBAPgBAZgCCqAC1xfCAgoQABhHGNYEGLADwgIEECMYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGKIEwgIIEAAYiQUYogSYAwCIBgGQBgqSBwkxLjAuNS4xLjM&sclient=gws-wiz-serp#ip=1
+
+美元兑人民币 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E5%85%83%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E5%85%83&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIOCAAQRRg5GEMYgAQYigUyDAgBEAAYQxiABBiKBTIMCAIQABhDGIAEGIoFMgwIAxAAGEMYgAQYigUyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg4MTk5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Describe wasi-filesystem's path sandboxing behavior (#127) · WebAssembly/wasi-filesystem@5afa325
+https://github.com/WebAssembly/wasi-filesystem/commit/5afa325bb8b5264df2d111f695ceac60901b9eb8#diff-e428aae9d0d7fadce50586a175860086785a9dff96aace05fad89bd628cb18c0
+
+guybedford (Guy Bedford)
+https://github.com/guybedford
+
+sunfishcode (Dan Gohman)
+https://github.com/sunfishcode
+
+rust-lang/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/rust-lang/rust
+
+• Discord | #seeking-something-to-contribute-to | WasmEdge
+https://discord.com/channels/846973236280950824/1116992829919600700
+
+wasmtime/crates/wasi-common/src at 36fb62ca3bea7dd1456f12ead03084e2ceb48cda · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/36fb62ca3bea7dd1456f12ead03084e2ceb48cda/crates/wasi-common/src
+
+Pull requests · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pulls
+
+david mackenzie linux - Google 搜索
+https://www.google.com/search?q=david+mackenzie+linux&sca_esv=c651947b4c13b510&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn091FsyImC4Ntcu1n4gsrjuE5H4aMA%3A1709015156686&ei=dIDdZcfIKcGovr0Pir2koAs&oq=David+MacKenzie&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIg9EYXZpZCBNYWNLZW56aWUqAggAMgoQABhHGNYEGLADMg0QABhHGNYEGLADGIsDSJIUUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgKYAwCIBgGQBgKSBwEx&sclient=gws-wiz-serp
+
+Chameleon Consulting Group
+https://chameleoncg.com/careers#job_listing
+
+Herndon - Google 搜索
+https://www.google.com/search?q=Herndon&rlz=1C1GCEA_enJP1090JP1090&oq=Herndon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+co-op是什么意思 - Google 搜索
+https://www.google.com/search?sca_esv=c651947b4c13b510&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08ICM1y-AkJy7eGDOomPqDy6Wj85w:1709015374279&q=co-op%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D&sa=X&ved=2ahUKEwiUurKy8sqEAxV4kK8BHe7JBqkQ1QJ6BAgpEAE&biw=1536&bih=703&dpr=1.25
+
+[WASI] Remove unused VFS object · WasmEdge/WasmEdge@1f6ebb0
+https://github.com/WasmEdge/WasmEdge/commit/1f6ebb020bdc5c2a0736dea5c0390a69fec5c4f6#diff-5bbd40f71eadf8454723a9d5b392d1df85fce606926b09936d607569b24820c2
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+Issues · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues
+
+Pull requests · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pulls
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+WasmEdge | Hacker News
+https://news.ycombinator.com/item?id=33792322
+
+tannal/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/tannal/wasmtime
+
+Wasmtime: Add a `gc` cargo feature (#7975) · bytecodealliance/wasmtime@dd0364d
+https://github.com/bytecodealliance/wasmtime/commit/dd0364d367c579abc8f572d2a056aca6cd286887
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cranelift&sort=byPopularity&type=story
+
+Add cg_clif as optional codegen backend by bjorn3 · Pull Request #77975 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/77975
+
+Bytecode Alliance — Cranelift Progress in 2022
+https://bytecodealliance.org/articles/cranelift-progress-2022
+
+
 # 2024-2-26
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
