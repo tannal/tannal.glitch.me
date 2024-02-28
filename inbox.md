@@ -1,5 +1,20 @@
 # 2024-2-28 | W
 
+300000
+
+
+
+https://www.mlsys.ai/
+
+https://mlsys.stanford.edu/
+
+main HPC languages. 
+
+How to build a compiler with llvm and MLIR
+https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5
+
+https://www.sigplan.org/LongTermMentoring/
+
 30/100
 
 https://www.igalia.com/coding-experience/

@@ -1,5 +1,197 @@
 # 2024-2-28
 
+llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Technologies Enabled by LLVM | Introduction to Common Compiler Tools #2 - YouTube
+https://www.youtube.com/watch?v=7gJ70QGZACg&list=PLIShwgr315-APrdzkJ2YGSLp-aWjY0qmE&index=2
+
+technologies_enabled_by_llvm - Google 幻灯片
+https://docs.google.com/presentation/d/1zflWMMZ59A8WAPu76hd6mYAgoYa6iBFcnH0gLFkfXaY/edit#slide=id.g25c282ad0c7_0_11
+
+c++ - What's the use of LLVM in Android NDK Toolchains? - Stack Overflow
+https://stackoverflow.com/questions/54785091/whats-the-use-of-llvm-in-android-ndk-toolchains
+
+mstorsjo (Martin Storsjö)
+https://github.com/mstorsjo
+
+llvm-mingw/.github/workflows at master · mstorsjo/llvm-mingw
+https://github.com/mstorsjo/llvm-mingw/tree/master/.github/workflows
+
+User shizhen - Stack Overflow
+https://stackoverflow.com/users/8034839/shizhen
+
+Arophix
+https://arophix.com/
+
+compiler_engineer_career - Google 幻灯片
+https://docs.google.com/presentation/d/1PfJjCMHuQ4pSNB14LjpfdG_UxXtXCQTRQdOGK5U5NnI/edit#slide=id.g259dd732f56_1_44
+
+Contributing to GCC - GNU Project
+https://gcc.gnu.org/contribute.html
+
+Internship Program
+https://www.graalvm.org/community/internship/
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
+
+[OpenMP] Metadirective uses default for non-const user condition · Issue #82754 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/82754
+
+[CodeGen] Refactor MachineInstr findRegisterDefOperandIdx/findRegisterDefOperand etc. to stop missing TRI args · Issue #82659 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/82659
+
+Incorrect configuration snippets for some AlignConsecutive... option sets · Issue #83207 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/83207
+
+CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area
+https://mgaudet.github.io/CompilerJobs/
+
+Don't Help the Compiler - YouTube
+https://www.youtube.com/watch?v=AKtHxKJRwp4
+
+[WASI] fix special case in vinode path resolving by tannal · Pull Request #3246 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pull/3246/files
+
+SIGPLAN-M
+https://www.sigplan.org/LongTermMentoring/
+
+ninja-build/ninja: a small build system with a focus on speed
+https://github.com/ninja-build/ninja
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+jit: Add support for LLVM 12. · postgres/postgres@6c57f2e
+https://github.com/postgres/postgres/commit/6c57f2ed16e1281067e3dde7e006e2d1cab72116
+
+danielgustafsson (Daniel Gustafsson)
+https://github.com/danielgustafsson
+
+anarazel (Andres Freund)
+https://github.com/anarazel
+
+PostgreSQL: BUG #18313: No error triggered when subtracting an interval from a timestamp
+https://www.postgresql.org/message-id/18313-64d2c8952d81e84b@postgresql.org
+
+How to build a compiler with LLVM and MLIR - 14 JIT Basics - YouTube
+https://www.youtube.com/watch?v=cPBezPIdS7g
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rust%20llvm&sort=byPopularity&type=story
+
+jauhien/iron-kaleidoscope: LLVM tutorial in Rust language
+https://github.com/jauhien/iron-kaleidoscope?tab=readme-ov-file#the-abstract-syntax-tree-ast
+
+jauhien (Jauhien Piatlicki)
+https://github.com/jauhien
+
+How to build a compiler with LLVM and MLIR - YouTube
+https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5
+
+Polyhedral Compilation - Google 搜索
+https://www.google.com/search?q=Polyhedral+Compilation&rlz=1C1GCEA_enJP1090JP1090&oq=Polyhedral+Compilation&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+intro-to-polyhedral-model.pdf
+https://www.cse.iitk.ac.in/users/swarnendu/courses/autumn2020-cs610/intro-to-polyhedral-model.pdf
+
+CS 6120: Implementing the Polyhedral Model
+https://www.cs.cornell.edu/courses/cs6120/2023fa/blog/polyhedral/
+
+Sanket Tavarager - Google 搜索
+https://www.google.com/search?q=Sanket+Tavarager&rlz=1C1GCEA_enJP1090JP1090&oq=Sanket+Tavarager&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Michael Paquier - PostgreSQL committer
+https://paquier.xyz/
+
+Using clangd for PostgreSQL development | Peter Eisentraut
+https://peter.eisentraut.org/blog/2024/01/03/using-clangd-for-postgresql-development
+
+Rust Magazine
+https://github.com/RustMagazine
+
+hlinnaka (Heikki Linnakangas)
+https://github.com/hlinnaka
+
+ChatGPT
+https://chat.openai.com/c/20b6bdb5-3aab-43f7-942f-25863d0e816f
+
+Write Skew
+https://write-skew.blogspot.com/
+
+AI-Sys Sp22
+https://ucbrise.github.io/cs294-ai-sys-sp22/#projects
+
+01_intro_and_big_ideas_in_ai_systems
+https://ucbrise.github.io/cs294-ai-sys-sp22/assets/lectures/lec01/01_intro_and_big_ideas_in_ai_systems.pdf
+
+Stanford MLSys Seminar – Stanford MLSys Seminar Series
+https://mlsys.stanford.edu/
+
+Foundation Models on Consumer Devices - Tianqi Chen | Stanford MLSys #85 - YouTube
+https://www.youtube.com/watch?v=InoNMvjs_vo
+
+MIT MLSys Discussion Group
+https://www.mlsys.ai/
+
+codewars - Google 搜索
+https://www.google.com/search?q=codewars&rlz=1C1GCEA_enJP1090JP1090&oq=codewars&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQ0NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Sign in | Codewars
+https://www.codewars.com/users/sign_in
+
+Remove code points < 0x80 from character conversion tables. · postgres/postgres@2c09c93
+https://github.com/postgres/postgres/commit/2c09c93ce1b80a417b7c372c43f5089c0d691749
+
+The Architecture of Open Source Applications
+https://aosabook.org/en/
+
+The Architecture of Open Source Applications (Volume 2)Firefox Release Engineering
+https://aosabook.org/en/v2/ffreleng.html
+
+Ilya Grigorik
+https://ilya.grigorik.com/
+
+about:khuey
+https://blog.kylehuey.com/
+
+Blog – Clint Talbert
+https://clinttalbert.com/blog/
+
+hlinnaka (Heikki Linnakangas)
+https://github.com/hlinnaka
+
+Commits · llvm/llvm-project
+https://github.com/llvm/llvm-project/commits?author=kuhar
+
+mstorsjo/llvm-mingw: An LLVM/Clang/LLD based mingw-w64 toolchain
+https://github.com/mstorsjo/llvm-mingw
+
+mingw-w64
+https://github.com/mingw-w64
+
+How to install MinGW-w64 (LLVM-MinGW toolchain) and how to compile and run C/C++ on windows 10 - YouTube
+https://www.youtube.com/watch?v=qIGlFxP3qeg
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=llvm%20cuda&sort=byPopularity&type=story
+
+NVIDIA CUDA 4.1 Compiler Now Built on LLVM - The LLVM Project Blog
+https://blog.llvm.org/2011/12/nvidia-cuda-41-compiler-now-built-on.html
+
+alpha74/CUDA_basics: NVCC CUDA programs for begineers.
+https://github.com/alpha74/CUDA_basics
+
+Is NVCC open source? - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums
+https://forums.developer.nvidia.com/t/is-nvcc-open-source/8233
+
+Index of /
+http://download.nvidia.com/
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+nasdaq&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMxODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

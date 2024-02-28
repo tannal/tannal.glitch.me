@@ -1,6 +1,13 @@
 
 
 
+
+华为
+PingCAP
+蚂蚁集团
+溪塔科技
+国汽智控
+
 https://github.com/jerryshell/
 
 https://www.zhihu.com/people/bai-ru-bing-58/posts

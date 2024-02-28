@@ -1,5 +1,7 @@
 # inbox
 
+MLIR https://github.com/llvm/llvm-project/commits?author=kuhar
+
 https://github.com/llvm/clangir/commits/main/?author=bcardosolopes
 
 https://github.com/llvm/llvm-project/commits?author=asb RSIC-V iaglian
