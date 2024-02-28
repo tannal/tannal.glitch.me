@@ -1,4 +1,45 @@
+# 2024-2-28 | W
+
+30/100
+
+https://www.igalia.com/coding-experience/
+
+reddit StackOverflow hackernews youtube twitter
+
+CMake Autotools Meson Bazel
+
+2.19 2.28
+
+https://github.com/congcoi123/tenio
+
+Microsoft's XInput API
+
+MemoryAllocator
+June.dll, log.dll, MemoryAllocator.dll, ScriptManager.dll, tcls.dll, tenbase.dll, TenBaseForCross.dll, TenFact.dll, TPFAdapter.dll, TPFCustom.dll, VFS.dll, vfs_config.ini
+
+@tencent - This is likely related to Tencent, a major Chinese technology company. The "@" prefix suggests that this could be a namespaced package, possibly from a package manager like npm (Node Package Manager) for JavaScript.
+
+leveldown - This is typically associated with a low-level database binding for LevelDB, which is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
+sqlite3
+win-version-info - This directory could contain a library for retrieving Windows version information from an executable file in Node.js applications.
+
+ig9icd64.dll  Intel Graphics Installable Client Driver
+
+neofetch
+
+nixos
+
+A program is a proof of some theory.
+
+Remote Application Interface Layer 
+
+
 # 2024-2-27 | W
+
+qbblink
+
+QQ browser blink
 
 https://github.com/tokio-rs
 

@@ -1,3 +1,149 @@
+# 2024-2-28
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Olive.c
+https://tsoding.github.io/olive.c/
+
+tsoding/olive.c: Simple 2D Graphics Library for C
+https://github.com/tsoding/olive.c
+
+Olive.c
+https://tsoding.github.io/olive.c/
+
+Path Resolution in VFS
+https://chat.openai.com/c/08c503f1-c43c-47df-b219-7cacaadb419d
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352#Mentees
+
+Victormeriqui/Consol3: A graphics engine that executes entirely on the CPU
+https://github.com/Victormeriqui/Consol3
+
+icecc/icecream: Distributed compiler with a central scheduler to share build load
+https://github.com/icecc/icecream
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=icecc&sort=byPopularity&type=story
+
+Makefile Tutorial By Example
+https://makefiletutorial.com/
+
+More about Chase
+https://blog.chaselambda.com/about/
+
+increbuild - Google 搜索
+https://www.google.com/search?q=increbuild&sca_esv=adc163b9ad584203&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09MoTyvKQYLRZxLv88YYoU-OlVpcg%3A1709090021642&ei=5aTeZYnjJrOt4-EP6rSYmA0&ved=0ahUKEwjJ6YO9iM2EAxWz1jgGHWoaBtMQ4dUDCBA&uact=5&oq=increbuild&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmluY3JlYnVpbGQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIthFQAFgAcAF4AJABAJgB5gKgAeYCqgEDMy0xuAEDyAEAmAIBoAIEmAMAiAYBkAYKkgcBMQ&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+bazelbuild/bazel-buildfarm: Bazel remote caching and execution service
+https://github.com/bazelbuild/bazel-buildfarm
+
+Distcc: A fast, free distributed C/C++ compiler | Hacker News
+https://news.ycombinator.com/item?id=36148475
+
+distcc: a fast, free distributed C/C++ compiler
+https://www.distcc.org/
+
+sourcefrog/cargo-mutants: :zombie: Inject bugs and see if your tests catch them!
+https://github.com/sourcefrog/cargo-mutants
+
+GNU Parallel - GNU Project - Free Software Foundation
+https://www.gnu.org/software/parallel/
+
+How to distribute CMake build load onto other computers connected to the network? : r/cmake
+https://www.reddit.com/r/cmake/comments/188jus7/how_to_distribute_cmake_build_load_onto_other/
+
+c++ - Using compiler prefix command(s) with CMake (distcc, ccache) - Stack Overflow
+https://stackoverflow.com/questions/32752446/using-compiler-prefix-commands-with-cmake-distcc-ccache
+
+cmake - clang + icecc + ccache - Stack Overflow
+https://stackoverflow.com/questions/15787570/clang-icecc-ccache
+
+Home – Embedded bits and pixels
+https://ortogonal.github.io/
+
+krf (Kevin Funk)
+https://github.com/krf
+
+Personal Blog of Kevin Funk
+https://kfunk.org/
+
+distcc
+https://github.com/distcc
+
+符号人工智能 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%AC%A6%E8%99%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+
+The Death of Quanta Magazine | Hacker News
+https://news.ycombinator.com/item?id=33828602
+
+nfs symbolic link - Google 搜索
+https://www.google.com/search?q=nfs+symbolic+link&rlz=1C1GCEA_enJP1090JP1090&oq=nfs+symbol&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDILCAAQRRgTGDkYgAQyCQgBEAAYExiABDIICAIQABgTGB4yCAgDEAAYExgeMgoIBBAAGAgYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgoIBxAAGAUYExgeMgoICBAAGAUYExgeMgoICRAAGAUYExge0gEJMTY2MTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Excalidraw
+https://excalidraw.com/
+
+graph neural networks - Google 搜索
+https://www.google.com/search?q=graph+neural+networks&sca_esv=adc163b9ad584203&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn091UyaLOPTZnwVK0he3zIqRx_UZzQ%3A1709092016884&ei=sKzeZa_NNfu5juMPvvirUA&ved=0ahUKEwiv5bf0j82EAxX7nGMGHT78CgoQ4dUDCBA&uact=5&oq=graph+neural+networks&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWdyYXBoIG5ldXJhbCBuZXR3b3JrczIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jsmQFQAFgAcAF4AJABAJgB7wKgAe8CqgEDMy0xuAEDyAEAmAIBoAIFmAMAiAYBkAYKkgcBMQ&sclient=gws-wiz-serp#ip=1
+
+#general > Servo equivalent for PersistentRooted - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20equivalent.20for.20PersistentRooted
+
+Spider-Man: Across the Spider-Verse - Wikipedia
+https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse
+
+MicrosoftEdge/WebView2Samples: Microsoft Edge WebView2 samples
+https://github.com/MicrosoftEdge/WebView2Samples
+
+Impact - Sony Interactive Entertainment
+https://sonyinteractive.com/en/impact/
+
+History for servo/components - mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits/master/servo/components
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=emilio
+
+tiaanl (Tiaan Louw)
+https://github.com/tiaanl
+
+Bug 1805727 - Part 1: Support transition-behavior longhand in style. … · mozilla/gecko-dev@9f6a2b2
+https://github.com/mozilla/gecko-dev/commit/9f6a2b20411986b793258c3831cbbdaf033fe34e#diff-74848a8dd4628a90a9a2b5d08e3cace5b00115cdf53530cf26c7731350477b8a
+
+Bug 1805727 - Part 1: Support transition-behavior longhand in style. … · mozilla/gecko-dev@9f6a2b2
+https://github.com/mozilla/gecko-dev/commit/9f6a2b20411986b793258c3831cbbdaf033fe34e#diff-74848a8dd4628a90a9a2b5d08e3cace5b00115cdf53530cf26c7731350477b8a
+
+1805727 - [css-transitions-2] Support transition-behavior property
+https://bugzilla.mozilla.org/show_bug.cgi?id=1805727
+
+Transition discrete properties specified in transition-property list. [40249922] - Chromium
+https://issues.chromium.org/issues/40249922
+
+CSS transition-behavior property - Chrome Platform Status
+https://chromestatus.com/feature/5071230636392448
+
+JS Bin
+https://output.jsbin.com/buquher/quiet
+
+[css-transitions-2] Start transitions on discrete animation types · Issue #4441 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/4441
+
+hober (Theresa O'Connor)
+https://github.com/hober
+
+Commits · browserengineering/book
+https://github.com/browserengineering/book/commits/main/
+
+LFX Mentorship 2024-01 Pre-test · WasmEdge/WasmEdge · Discussion #3182
+https://github.com/WasmEdge/WasmEdge/discussions/3182
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
 # 2024-2-27
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
