@@ -1,5 +1,17 @@
 # inbox
 
+sqlite
+perf
+skia
+tflite
+devtools frontend
+v8
+dawn
+webgpu-cts
+
+angle vk gl
+Chrome uses ANGLE for all graphics rendering on Windows, including the accelerated Canvas2D implementation and the Native Client sandbox environment.
+
 https://issues.chromium.org/issues?q=is:open
 
 WebAssembly WebGPU
@@ -40,6 +52,8 @@ git checkout master
 git pull --rebase
 
 gclient sync
+
+gclient sync -D
 
 skia
 

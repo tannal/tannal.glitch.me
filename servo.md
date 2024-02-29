@@ -1,6 +1,13 @@
 
 # inbox
 
+https://github.com/servo/servo/commits?author=sagudev CI
+
+
+rust default allocator is jemalloc
+
+The reference to use-system-allocator = ["libc"] seems to be a configuration snippet possibly from a Cargo.toml file for a Rust project, specifying a dependency feature. In Rust projects, this line would indicate that a crate is configured to use the system's allocator (typically provided by libc) instead of Rust's default allocator. 
+
 https://github.com/servo/servo/commits/?author=atbrakhi
 
 #[dom_struct]

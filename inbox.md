@@ -1,3 +1,36 @@
+# 2024-2-29 | W
+
+utilBlake3
+spdlog
+wasmedgeCommon
+wasmedgeSystem
+wasmedgeAOT
+wasmedgeLLVM
+wasmedgeLoaderFileMgr
+wasmedgePO
+wasmedgePlugin
+wasmedgeLoader
+wasmedgeValidator
+wasmedgeExecutor
+wasmedgeHostModuleWasi
+wasmedgeVM
+wasmedgeDriver
+wasmedgeCAPI
+wasmedge_shared
+
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
+
+I am currently a master's student at National Taiwan University, dept. of CSIE. Since I enrolled in the AI program, my graduate paper has to be relevant to Artificial Intelligence. Also, I am interested in the implementation of VM. Therefore, I think WasmEdge might be a great starting point. I am excited about what WasmEdge enables developers to do, particularly on embedded devices. My previous project was focus on system performance, in which I use a Linux kernel infrastructure called eBPF to implement it. By participating in WasmEdge, I might be able to juxtapose the VM design between eBPF and WasmEdge, which could benefit my career path.
+
+- I like writing in C++, following Hacker News and experimenting with tech tutorials.
+- 3 years of experience writing in C++ and Python through hobby projects at University, internship experience and contributing to qutip-qip (python), scikit-image (python), ns-3(cpp).
+
+I am very interested in playing around with LLMs!
+
+I am a fourth-grade university student studying at the National Tsing Hua University. I have a double major, one is computer science and another is quantitative finance.
+I enrolled in this program goal is to help me improve my technique. Besides that, I want to join an open source project to learn how the modern software development process. I am interested in how to improve CPU performance. This has many attractive topics, and this has many benchmarks to compare. So I think I can through this program learn many things.
+I have many Competition Programming experiences like regional ICPC silver and I joined High Performance Computing competition. For the hardware field, I won the top 10 at the 2023 ICCAD contest. Those competitions gave me more understanding of the computer science field.
+
 # 2024-2-28 | W
 
 300000
