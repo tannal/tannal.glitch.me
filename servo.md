@@ -3,6 +3,11 @@
 
 https://github.com/servo/servo/commits?author=sagudev CI
 
+./mach run -d -- --debug help
+
+
+./mach run -d -- --debug dump-display-list test.html -z
+
 
 rust default allocator is jemalloc
 
@@ -98,6 +103,13 @@ $env:RUST_LOG="debug" # Setting environment variable
     # Adding timestamp using Get-Date and formatting output
     "$(Get-Date -Format "HH:mm:ss.fff"): $_"
 } | Tee-Object -FilePath "log.txt"
+
+./mach run -d -- ./tests/wpt/tests/css/CSS2/linebox/crashtests/dir-change-simplifed-crash.html
+
+./mach run -d -- ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/intrinsic_sizes.htm
+
+./mach run -d -- ./tests/wpt/tests/html/canvas/element/text/parent-style-relative-units.htm
+
 
 
 CodegenRust.py

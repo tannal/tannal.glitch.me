@@ -1,3 +1,140 @@
+# 2024-2-29
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/95074422-1740-4cf8-bcce-917798c3f840
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/a5c2cc3e-a8fe-4fcb-b74f-be74b65a6385
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/8b592388-6a17-4a8f-82e4-121131c217d0
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/16b35930-5b29-43af-b02c-cdf851069c85
+
+CUST taiwan - Google 搜索
+https://www.google.com/search?q=CUST+taiwan&sca_esv=b01ed0ac0a141652&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09FW-MWOrdt_RRg3GB_UfHx897oGQ%3A1709190494895&ei=Xi3gZeOiM9-p1e8Pg7qXgAE&ved=0ahUKEwjjybHi_s-EAxXfVPUHHQPdBRAQ4dUDCBE&uact=5&oq=CUST+taiwan&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0NVU1QgdGFpd2FuMgcQIRgKGKABMgcQIRgKGKABSLgPUBdYiA5wAngBkAEAmAHLAqABhg6qAQcwLjEuNi4xuAEDyAEA-AEBmAIIoAKDC8ICChAAGEcY1gQYsAPCAggQLhjLARiABMICCBAAGIAEGMsBwgIXEC4YywEYgAQYlwUY3AQY3gQY4ATYAQHCAggQLhiABBjLAcICChAAGIAEGMsBGArCAgYQABgeGAzCAgYQABgeGArCAggQABgIGB4YCsICBRAhGKABmAMAiAYBkAYKugYGCAEQARgUkgcHMi4wLjUuMQ&sclient=gws-wiz-serp
+
+derekwin (JaceLau)
+https://github.com/derekwin
+
+derekwin/LFX_3172
+https://github.com/derekwin/LFX_3172
+
+undefined symbol main cmake - Google 搜索
+https://www.google.com/search?q=undefined+symbol+main+cmake&sca_esv=42c6136335be6116&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_HCg2ZDwwDR9UORrg7UKE7WMVZLA%3A1709197958004&ei=hUrgZfbpPP-A2roP9o-tqAs&ved=0ahUKEwi2wIzJmtCEAxV_gFYBHfZHC7UQ4dUDCBA&uact=5&oq=undefined+symbol+main+cmake&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3VuZGVmaW5lZCBzeW1ib2wgbWFpbiBjbWFrZTIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5Iug1Q4QFY5wxwA3gBkAEAmAHJAqAB6AaqAQUyLTIuMbgBA8gBAPgBAZgCBqAC9wbCAgoQABhHGNYEGLADwgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgKSBwczLjAuMi4x&sclient=gws-wiz-serp
+
+Build wasmedge-sys error from scratch · Issue #1552 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/1552
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+%22browsing+contexts%22&type=code
+
+angle vl gl chromium - Google 搜索
+https://www.google.com/search?q=angle+vl+gl+chromium&sca_esv=42c6136335be6116&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08N1nq_oeY1wTHr-DOS2Gkwgs0w6A%3A1709199492232&ei=hFDgZbzVDa7O2roP6OOMqA0&ved=0ahUKEwi8p9akoNCEAxUup1YBHegxA9UQ4dUDCBE&uact=5&oq=angle+vl+gl+chromium&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGFuZ2xlIHZsIGdsIGNocm9taXVtMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSMUTUD1YlxJwAXgAkAEAmAHRBKABpQyqAQU0LTEuMrgBA8gBAPgBAZgCA6ACqgzCAggQABiABBiiBJgDAIgGAZIHAzQtMw&sclient=gws-wiz-serp
+
+CMake与Ninja构建
+https://chat.openai.com/c/07b0706e-8b4e-49a6-99d4-e754b369e322
+
+chromium/sandbox at main · chromium/chromium
+https://github.com/chromium/chromium/tree/main/sandbox
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/
+
+Chromium Docs - Sandbox
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/design/sandbox.md
+
+scummvm/scummvm: ScummVM main repository
+https://github.com/scummvm/scummvm
+
+Commits · servo/servo
+https://github.com/servo/servo/commits/main/
+
+Commits · servo/servo
+https://github.com/servo/servo/commits/main/
+
+mach: Do not use unstable rust for `rustfmt` (#31441) · servo/servo@98bd306
+https://github.com/servo/servo/commit/98bd306816f8c3d3e7569032b9b6ace76892d963
+
+layout: Turn on synthetic small-caps for layout 2020 (#31435) · servo/servo@5ba29c2
+https://github.com/servo/servo/commit/5ba29c20ac3d048efb2ae266d6f876829f0d632e
+
+layout: Add an implementation of `process_resolved_font_style_query` … · servo/servo@5c87fe9
+https://github.com/servo/servo/commit/5c87fe940e74c286d7b7d11257407e4a1ed1917f
+
+khodzha (Shamir Khodzha)
+https://github.com/khodzha
+
+fix invalid video poster image loading from panicking (#31447) · servo/servo@51b3313
+https://github.com/servo/servo/commit/51b331385488f42b5b3263e6e4e7f4af39e1ecf1
+
+Layout sizes for video elements are too simplistic · Issue #31416 · servo/servo
+https://github.com/servo/servo/issues/31416
+
+intrinsic_sizes.htm - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/embedded-content/the-video-element/intrinsic_sizes.htm
+
+Implement <details> element in Layout 2020 · Issue #29769 · servo/servo
+https://github.com/servo/servo/issues/29769
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element
+
+rust default allocator - Google 搜索
+https://www.google.com/search?q=rust+default+allocator&rlz=1C1GCEA_enJP1090JP1090&oq=rust+default+alloca&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgIGB7SAQgzNzg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+树莓派4B配置U盘启动 - 夸克之书
+https://www.quarkbook.com/?p=638
+
+最佳实践树莓派usb固态硬盘安装ubuntu操作系统 - wuch - 博客园
+https://www.cnblogs.com/haozi0804/p/17851248.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Intermittent&op=translate
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+耶稣 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A8%A3
+
+User Guide
+https://profiler.firefox.com/docs/#/Connect
+
+firefox-devtools/profiler: Firefox Profiler — Web app for Firefox performance analysis
+https://github.com/firefox-devtools/profiler
+
+firefox-devtools/profiler: Firefox Profiler — Web app for Firefox performance analysis
+https://github.com/firefox-devtools/profiler
+
+Buy a Raspberry Pi 27W USB-C Power Supply – Raspberry Pi
+https://www.raspberrypi.com/products/27w-power-supply/?resellerType=industry
+
+Raspberry Pi Documentation - Raspberry Pi 5
+https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html#usb-boot-and-power-supplies
+
+Powering the Raspberry Pi 5. - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=357129
+
+• Discord | #build-systems | LLVM
+https://discord.com/channels/636084430946959380/713151137812840459
+
 # 2024-2-28
 
 llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
