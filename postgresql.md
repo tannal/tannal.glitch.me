@@ -280,6 +280,7 @@ sudo apt install meson bison flex
 make distclean
 
 meson setup build
+meson setup --reconfigure --prefix=/home/tannal/tannalwork/projects/postgres/_install build
 meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
 meson setup --prefix=`pwd`/_install build
 
