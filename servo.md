@@ -5,6 +5,15 @@ https://github.com/servo/servo/commits?author=sagudev CI
 
 ./mach run -d -- --debug help
 
+$env:RUST_LOG="debug" # Setting environment variable
+
+./mach run -d -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
+
+r ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
+
+b components/layout_2020/table/layout.rs:411
+
+./mach run --debugger=rr -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
 
 ./mach run -d -- --debug dump-display-list test.html -z
 

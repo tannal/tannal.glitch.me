@@ -1,3 +1,15 @@
+# 2024-3-1 | W
+
+Allgather Allreduce
+his arrangement can be used to perform reduction operations in a distributed manner, such as summing values or finding the maximum, where each node contributes its local data to the operation.
+
+block
+threads
+registers
+shared memory
+
+global memory
+
 # 2024-2-29 | W
 
 utilBlake3
