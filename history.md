@@ -1,3 +1,167 @@
+# 2024-3-1
+
+postgresql.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Using clangd for PostgreSQL development | Peter Eisentraut
+https://peter.eisentraut.org/blog/2024/01/03/using-clangd-for-postgresql-development
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+11-memory-optimization.pdf
+https://mlsyscourse.org/slides/11-memory-optimization.pdf
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Run ctest filter: one test
+https://chat.openai.com/c/8f9cfd05-c480-42e6-9a02-b77b09f3a6e3
+
+• Discord | #editors | Astro Lounge
+https://discord.com/channels/830184174198718474/878341752799494154
+
+#general > HTMLImageElement decode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTMLImageElement.20decode
+
+Fix percentages in CSS tables (#31454) · servo/servo@5f39913
+https://github.com/servo/servo/commit/5f399139ae1749d8f13b7200d120f7adcd057d8a
+
+table-width-redistribution.html - servo [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/servo
+
+Commits · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/commits/master/
+
+Manuel Rego | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/mrego
+
+[LayoutNG] Don't resolve unresolvable percentage min-height and max-h… · chromium/chromium@0956bea
+https://github.com/chromium/chromium/commit/0956beaf373e226398934ce6c5a006867595c855#diff-85cbba16f0f205a767609cb983b5eb002b1f8a1f18d97acf401faf571d340d61
+
+Visual formatting model details
+https://www.w3.org/TR/CSS22/visudet.html#min-max-heights
+
+Notify the flow thread about style change for inlines as well. · chromium/chromium@234e35e
+https://github.com/chromium/chromium/commit/234e35eb3ae4fa77f193065dd35e7f083f71077b#diff-67bcf93456f4ebbe5c5ec26d596c8d5dcce1e2dbb818688f6bcc9e32c64a3768
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Fix a DCHECK in ListMarker::InlineMarginsForOutside() · chromium/chromium@757f32f
+https://github.com/chromium/chromium/commit/757f32f2f8f87d1db9faa3331ab74ba6c8b1a37d
+
+Layout: Fix a crash in AppendText() · chromium/chromium@9cbf1e9
+https://github.com/chromium/chromium/commit/9cbf1e9a2afe301ed78e08a97cd532e846c71289
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=saturated%20to&op=translate
+
+Testing in Chromium - docs/testing/testing_in_chromium.md
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/testing_in_chromium.md
+
+Coverage Summary for chromium/src - 6046afc - //third_party/blink/
+https://analysis.chromium.org/coverage/p/chromium/dir?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=6046afcc87040c3b54b2c48838f0b797c71f510c&path=//third_party/blink/&platform=linux&test_suite_type=any&modifier_id=0
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=exemplary&op=translate
+
+Testing in Chromium - Code Coverage in Gerrit
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/code_coverage_in_gerrit.md
+
+WasmEdge/test/executor/ExecutorTest.cpp at 7ca04edb0f5fd898e74500002aa6b6371967bac6 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/7ca04edb0f5fd898e74500002aa6b6371967bac6/test/executor/ExecutorTest.cpp#L42
+
+[WASI] fix special case in vinode path resolving · WasmEdge/WasmEdge@a7d4713
+https://github.com/WasmEdge/WasmEdge/actions/runs/8066637276/job/22035185422?pr=3246
+
+[WASI] fix special case in vinode path resolving by tannal · Pull Request #3246 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pull/3246
+
+[WASI] fix lastpart special case in resolve path · WasmEdge/WasmEdge@a7d4713
+https://github.com/WasmEdge/WasmEdge/actions/runs/8066637276/workflow?pr=3246#L46
+
+[WASI] fix special case in vinode path resolving · WasmEdge/WasmEdge@a7d4713
+https://github.com/WasmEdge/WasmEdge/actions/runs/8066637299/job/22035210543?pr=3246#step:8:74
+
+update · tannal/tannal.glitch.me@df5449d
+https://github.com/tannal/tannal.glitch.me/commit/df5449dd2c59e6d55f402a71b8e83fbf1c4cc636
+
+c# - How to find vswhere exe path? - Stack Overflow
+https://stackoverflow.com/questions/54305638/how-to-find-vswhere-exe-path
+
+Move more helper functions to PageTestBase · chromium/chromium@e08748f
+https://github.com/chromium/chromium/commit/e08748f1f4efc66b026e50b8b195656100c6a7a4
+
+Move more helper functions to PageTestBase (784660) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/784660
+
+chromium/third_party/blink/renderer/core/html/html_element.h at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/html/html_element.h
+
+[TrustedTypes] Remove (Set)Inner/outerHTMLFromString in element and s… · chromium/chromium@180ff2a
+https://github.com/chromium/chromium/commit/180ff2a68b16b9a69f957ac8093f4be78805957f
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+GLFW: Input guide
+https://www.glfw.org/docs/3.3/input_guide.html
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+How to disable wifi power save to prevent disconnects - Tutorials - clockworkpi
+https://forum.clockworkpi.com/t/how-to-disable-wifi-power-save-to-prevent-disconnects/933
+
+Ubuntu 18.04 通过网线共享网络(转载) | 哆啦 C 梦
+https://dora-cmon.github.io/posts/6ff9e8ef/
+
+Code search results
+https://github.com/search?q=repo%3AWasmEdge%2FWasmEdge%20ctest&type=code
+
+ctest filter - Google 搜索
+https://www.google.com/search?q=ctest+filter&rlz=1C1GCEA_enJP1090JP1090&oq=ctest+filter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEC4YxwEY0QMYgAQyBwgJEC4YgATSAQgxNzE0ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8
+
+networking - Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?) on VirtualBox - Ask Ubuntu
+https://askubuntu.com/questions/1002680/clearsigned-file-isnt-valid-got-nosplit-does-the-network-require-authentica
+
+Testing With CMake and CTest — Mastering CMake
+https://cmake.org/cmake/help/book/mastering-cmake/chapter/Testing%20With%20CMake%20and%20CTest.html
+
+ChatGPT
+https://chat.openai.com/c/8f9cfd05-c480-42e6-9a02-b77b09f3a6e3
+
+run CI on macOS · Issue #36 · WebAssembly/wasi-testsuite
+https://github.com/WebAssembly/wasi-testsuite/issues/36
+
+tamasfe/taplo: A TOML toolkit written in Rust
+https://github.com/tamasfe/taplo
+
+git - Unable to find current origin/master revision in submodule path - Stack Overflow
+https://stackoverflow.com/questions/40987847/unable-to-find-current-origin-master-revision-in-submodule-path
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+#general > HTMLImageElement decode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTMLImageElement.20decode
+
+Implement HTMLImageElement decode by Taym95 · Pull Request #31269 · servo/servo
+https://github.com/servo/servo/pull/31269/files
+
+tannal/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/tannal/WasmEdge/tree/master
+
+rust backtrace - Google 搜索
+https://www.google.com/search?q=rust+backtrace&rlz=1C1GCEA_enJP1090JP1090&oq=rust+backtra&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB6oAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ninja build install - Google 搜索
+https://www.google.com/search?q=ninja+build+install&rlz=1C1GCEA_enJP1090JP1090&oq=ninja+build+install&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 # 2024-2-29
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

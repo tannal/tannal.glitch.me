@@ -1,7 +1,11 @@
 # inbox
 
+export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+
+
 autoninja -C out/Default blink_unittests
 out/Default/blink_unittests --gtest_filter='InlineNodeTest.SetTextWithOffsetWithTextTransform'
+out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_filter='ListMarkerTest.FallbackToTextWhenImagesDisable'
 
 gtest
 browser test

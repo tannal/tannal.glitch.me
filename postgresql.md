@@ -283,6 +283,9 @@ meson setup build
 meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
 meson setup --prefix=`pwd`/_install build
 
+ninja -C build
+ninja install -C build
+
 ln -sfn ./build/compile_commands.json compile_commands.json 
 
 set follow-fork-mode child

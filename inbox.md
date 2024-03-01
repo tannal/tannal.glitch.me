@@ -1,5 +1,23 @@
 # 2024-3-1 | W
 
+There are three tests failed.
+1. Wasi testsuite (macos)
+Test pwrite-with-append failed (this one also fails on my ubuntu machine)
+Test path_link failed
+
+2. CTest on windows server 2022
+wasmedgeLLVMCoreTests
+
+Can I access the log files?
+https://github.com/WasmEdge/WasmEdge/actions/runs/8066637299/job/22035210543?pr=3246#step:8:74
+Cause I only have a ubuntu machine for local testing.
+testsuite
+
+iw wlan0 get power_save
+
+
+iw wlan0 set power_save off
+
 Allgather Allreduce
 his arrangement can be used to perform reduction operations in a distributed manner, such as summing values or finding the maximum, where each node contributes its local data to the operation.
 
