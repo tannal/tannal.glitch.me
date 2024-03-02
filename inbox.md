@@ -1,5 +1,10 @@
 # 2024-3-1 | W
 
+https://github.com/SaschaWillems/Vulkan
+git clone --recursive https://github.com/SaschaWillems/Vulkan.git
+git submodule init
+git submodule update
+
 sudo fallocate -l 4G /swapfile
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
@@ -9,6 +14,7 @@ sudo swapon --show
 sudo apt install libgl-dev libglew-dev
 
 cat /proc/sys/vm/swappiness
+sudo sysctl vm.swappiness=10
 sudo vim /etc/sysctl.conf
 vm.swappiness=10
 
