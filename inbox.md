@@ -1,5 +1,18 @@
 # 2024-3-1 | W
 
+sudo fallocate -l 4G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+sudo swapon --show
+
+sudo apt install libgl-dev libglew-dev
+
+cat /proc/sys/vm/swappiness
+sudo vim /etc/sysctl.conf
+vm.swappiness=10
+
+
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 export PATH="$PATH":`pwd`/depot_tools
 
