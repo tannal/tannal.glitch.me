@@ -1,5 +1,155 @@
 # 2024-3-2
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+mraleph's comments | Hacker News
+https://news.ycombinator.com/threads?id=mraleph
+
+Dreamer - Kattis dreamer - Virtual Judge
+https://vjudge.net/problem/Kattis-Dreamer
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=dobra&res=0&orderBy=run_id&language=
+
+Kattis, Purdue University
+https://purdue.kattis.com/courses
+
+ChatGPT
+https://chat.openai.com/c/c590594c-47ec-4cd2-a50d-a28322541e4a
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+Introduction - Vulkan Tutorial
+https://vulkan-tutorial.com/
+
+Vulkan/BUILD.md at master · SaschaWillems/Vulkan
+https://github.com/SaschaWillems/Vulkan/blob/master/BUILD.md
+
+ubuntu 频繁卡死解决办法_ubuntu经常卡住-CSDN博客
+https://blog.csdn.net/zhangman0702/article/details/90212063
+
+Linux swappiness参数设置与内存交换-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1503835
+
+16.04 - fallocate: fallocate failed: Text file busy in Ubuntu 17.04? - Ask Ubuntu
+https://askubuntu.com/questions/920595/fallocate-fallocate-failed-text-file-busy-in-ubuntu-17-04
+
+rust - How to use less memory when compiling to avoid killing the build? - Stack Overflow
+https://stackoverflow.com/questions/71962406/how-to-use-less-memory-when-compiling-to-avoid-killing-the-build
+
+rust - How do I change the default rustc / Cargo linker? - Stack Overflow
+https://stackoverflow.com/questions/57812916/how-do-i-change-the-default-rustc-cargo-linker
+
+Building V8 on an M1 MacBook | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2021/08/27/binding-v8-on-an-m1-macbook/
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Comparison of browser engines - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_browser_engines#cite_note-20
+
+Mozilla Mixed Reality Blog
+https://blog.mozvr.com/
+
+Welcome to Wolvic
+https://wolvic.com/en/
+
+servo/webrender: A GPU-based renderer for the web
+https://github.com/servo/webrender
+
+GPU Accelerated Compositing in Chrome
+https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome/
+
+Chromium Code Search
+https://source.chromium.org/chromium#chromium/src/third_party/WebKit/Source/core/rendering/RenderBoxModelObject.h
+
+OpenGL Wiki
+https://www.khronos.org/opengl/wiki/
+
+OpenGL - Introduction
+https://open.gl/
+
+Learn OpenGL, extensive tutorial resource for learning Modern OpenGL
+https://learnopengl.com/
+
+Joey de Vries - Resume
+https://joeydevries.com/#resume
+
+下载虚幻引擎源代码 | 虚幻引擎文档
+https://docs.unrealengine.com/4.27/zh-CN/ProgrammingAndScripting/ProgrammingWithCPP/DownloadingSourceCode/
+
+GitHub上的虚幻引擎 - Unreal Engine
+https://www.unrealengine.com/zh-CN/ue-on-github
+
+how many line of code does unreal engine have - Google 搜索
+https://www.google.com/search?q=how+many+line+of+code+does+unreal+engine+have&rlz=1C1GCEA_enJP1090JP1090&oq=how+many+line+of+code+does+unreal&gs_lcrp=EgZjaHJvbWUqBwgCECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE0NjA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+how many line of code does chromium have - Google 搜索
+https://www.google.com/search?q=how+many+line+of+code+does+chromium+have&rlz=1C1GCEA_enJP1090JP1090&oq=how+many+line+of+code+does+chromium+have&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQIRigARjDBNIBCDQyMjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general > HTMLImageElement decode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTMLImageElement.20decode
+
+Implement HTMLImageElement decode by Taym95 · Pull Request #31269 · servo/servo
+https://github.com/servo/servo/pull/31269/files#diff-bdfe8180d92cbaa5bb7a0e2d84748143822364772097abc33cd9dcda0e4a32b1
+
+Implement HTMLImageElement decode by Taym95 · Pull Request #31269 · servo/servo
+https://github.com/servo/servo/pull/31269
+
+Workflow runs · Taym95/servo
+https://github.com/Taym95/servo/actions
+
+XAMPPRocky/tokei: Count your code, quickly.
+https://github.com/XAMPPRocky/tokei
+
+How do I install Vulkan on Ubuntu 20.04 LTS? : r/linux_gaming
+https://www.reddit.com/r/linux_gaming/comments/ouzzes/how_do_i_install_vulkan_on_ubuntu_2004_lts/
+
+Wolvic (Igalia’s Stewardship of Firefox Reality) | Hacker News
+https://news.ycombinator.com/item?id=31246224
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Enable WebXR VR immersive experience on an Apple Vision Pro emulator 2024 - YouTube
+https://www.youtube.com/watch?v=2OaQYc59n2w
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fgithub.com%2Fservo%2Fwebrender&sort=byPopularity&type=story
+
+saschawillems.de/?p=1886
+https://www.saschawillems.de/?p=1886
+
+Overview of all pages with the tag #Tags -
+https://www.saschawillems.de/tags/
+
+halogenica/beautifulhugo: Theme for the Hugo static website generator
+https://github.com/halogenica/beautifulhugo
+
+gohugoio/hugo: The world’s fastest framework for building websites.
+https://github.com/gohugoio/hugo
+
+除三害 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LDPIrTTJya00YPTifDlzyZMdnU_XbQYAevQLZg&q=%E9%99%A4%E4%B8%89%E5%AE%B3&rlz=1C1GCEA_enJP1090JP1090&oq=chusanhai&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5MTQwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+• Discord | #app-showcase | FlutterDev
+https://discord.com/channels/420324994703163402/438500604046868480
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=firefox&sort=byPopularity&type=story
+
+compose-samples/Jetchat at main · android/compose-samples
+https://github.com/android/compose-samples/tree/main/Jetchat
+
+mozilla-mobile/firefox-ios: Firefox for iOS
+https://github.com/mozilla-mobile/firefox-ios
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

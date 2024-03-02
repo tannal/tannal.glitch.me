@@ -1,5 +1,7 @@
 # 2024-3-1 | W
 
+Get-Content input | node vj.js 
+
 https://github.com/SaschaWillems/Vulkan
 git clone --recursive https://github.com/SaschaWillems/Vulkan.git
 git submodule init
