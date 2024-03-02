@@ -1,3 +1,188 @@
+# 2024-3-2
+
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+Testing in Chromium - Web Tests (formerly known as Layout Tests or LayoutTests)
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/web_tests.md#Debugging-Web-Tests
+
+Notify the flow thread about style change for inlines as well. · chromium/chromium@234e35e
+https://github.com/chromium/chromium/commit/234e35eb3ae4fa77f193065dd35e7f083f71077b#diff-60d07a3459b439e3b8fa0cfc1b24b0d1a7c809d540d463316c0c5610f833918e
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Dawn Graphics - Google 网上论坛
+https://groups.google.com/g/dawn-graphics
+
+- Murena
+https://murena.io/s/cRSmPcLGb8t4qe3
+
+- Murena
+https://murena.io/s/zLEJL4JZkmotoc8
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+Commits · tannal/WasmEdge
+https://github.com/tannal/WasmEdge/commits/fix/create-directory/
+
+Run ctest filter: one test
+https://chat.openai.com/c/8f9cfd05-c480-42e6-9a02-b77b09f3a6e3
+
+Event Handling
+https://www.chromium.org/developers/design-documents/aura/event-handling/
+
+RenderingNG 架构概览  |  Chromium  |  Chrome for Developers
+https://developer.chrome.com/docs/chromium/renderingng-architecture?hl=zh-cn
+
+深入了解现代网络浏览器（第 3 部分）  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/inside-browser-part3?hl=zh-cn
+
+[InstCombine] Fix fail to fold (A >> C1) Pred C2 if shr is used multple times #83430 by SahilPatidar · Pull Request #83563 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/83563
+
+XSharp/XSharpRuntime at main · XChy/XSharp
+https://github.com/XChy/XSharp/tree/main/XSharpRuntime
+
+Machines lacking AND-NOT should transform `(a & x) | (~a & y)` -> `(a & (x ^ y)) ^ y` · Issue #83637 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/83637
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
+Up and running with OpenGL On Ubuntu // OpenGL Beginners Series - YouTube
+https://www.youtube.com/watch?v=h2cP6sQYdf0
+
+How to compile GLUT + OpenGL project with CMake and Kdevelop in linux? - Stack Overflow
+https://stackoverflow.com/questions/9460242/how-to-compile-glut-opengl-project-with-cmake-and-kdevelop-in-linux
+
+• Discord | #build-systems | LLVM
+https://discord.com/channels/636084430946959380/713151137812840459
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+golang/go: The Go programming language
+https://github.com/golang/go
+
+树莓派输出声音 - 知乎
+https://zhuanlan.zhihu.com/p/297199184
+
+Disillusioned with Deno | Hacker News
+https://news.ycombinator.com/item?id=39507758
+
+Disillusioned with Deno – Baldur Bjarnason
+https://www.baldurbjarnason.com/2024/disillusioned-with-deno/
+
+tannal (tannal)
+https://github.com/tannal
+
+rr-debugger/rr: Record and Replay Framework
+https://github.com/rr-debugger/rr
+
+Time travel debugging with the rr debugger - YouTube
+https://www.youtube.com/watch?v=l8QuZLAFCjk
+
+rr on Intel Meteor Lake chips · Issue #3683 · rr-debugger/rr
+https://github.com/rr-debugger/rr/issues/3683
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md
+
+Testing in Chromium - Running Web Platform Tests with run_wpt_tests.py
+https://chromium.googlesource.com/chromium/src/+/master/docs/testing/run_web_platform_tests.md
+
+Chromium Docs - Tips for debugging on Linux
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/linux/debugging.md
+
+chromium/third_party/blink/renderer/core/layout/layout_box_model_object.cc at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/layout/layout_box_model_object.cc
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/?after=8680c905a92b1a6d91e4d861da6f31798d881581+104
+
+Intent to Ship: Used color scheme root scrollbars
+https://groups.google.com/a/chromium.org/g/blink-dev/c/UdOQkoMJYnY
+
+Used color scheme root scrollbars - Chrome Platform Status
+https://chromestatus.com/feature/5089486318075904
+
+keyboard shortcuts - How can I navigate back to the last cursor position in Visual Studio Code? - Stack Overflow
+https://stackoverflow.com/questions/35424367/how-can-i-navigate-back-to-the-last-cursor-position-in-visual-studio-code
+
+estark github chromium - Google 搜索
+https://www.google.com/search?q=estark+github+chromium&sca_esv=6e8c819a630d1523&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_cjGilNSK3bcwejA3FivJ15vamnA%3A1709304726556&ei=luvhZYizIfK80-kPyu-V2AU&ved=0ahUKEwiI1qeoqNOEAxVy3jQHHcp3BVsQ4dUDCBA&uact=5&oq=estark+github+chromium&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmVzdGFyayBnaXRodWIgY2hyb21pdW0yBxAhGAoYoAFIpxtQN1jGGXAFeAGQAQCYAZcCoAHbDqoBBTAuMi43uAEDyAEA-AEBmAIOoAL6DsICChAAGEcY1gQYsAPCAgYQABgeGA3CAggQABgFGB4YDZgDAIgGAZAGCpIHBTUuMi43&sclient=gws-wiz-serp#ip=1
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=delan
+
+sanitizer-api/explainer.md at main · WICG/sanitizer-api
+https://github.com/WICG/sanitizer-api/blob/main/explainer.md
+
+paint-order also applies to HTML content (not only SVG) · Issue #32236 · mdn/content
+https://github.com/mdn/content/issues/32236
+
+…/inline_text_box_painter.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3199752/3/third_party/blink/renderer/core/paint/inline_text_box_painter.cc#b855
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/css-fill-stroke/paint-order-001.tentative.html?label=experimental&label=master&aligned
+
+javascript - How to show the "Are you sure you want to navigate away from this page?" when changes committed? - Stack Overflow
+https://stackoverflow.com/questions/1119289/how-to-show-the-are-you-sure-you-want-to-navigate-away-from-this-page-when-ch
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=tentative&op=translate
+
+小作幸子 chromium - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E4%BD%9C%E5%B9%B8%E5%AD%90+chromium&sca_esv=3248254e93e9ddf0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_xfcENNEaIQnaIuR2Zh9MSO4lZew%3A1709340143424&ei=73XiZYOZF_fe2roPoNmf4A0&ved=0ahUKEwjDzK-grNSEAxV3r1YBHaDsB9wQ4dUDCBA&uact=5&oq=%E5%B0%8F%E4%BD%9C%E5%B9%B8%E5%AD%90+chromium&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeWwj-S9nOW5uOWtkCBjaHJvbWl1bTIIEAAYgAQYogQyCBAAGIAEGKIESIMLUABY_AlwAHgBkAEAmAGWA6AB0hCqAQkwLjYuMS4wLjK4AQPIAQD4AQGYAgmgAuEQmAMAkgcJMC42LjEuMC4y&sclient=gws-wiz-serp#ip=1
+
+scroll in raylib - Google 搜索
+https://www.google.com/search?q=scroll+in+raylib&rlz=1C1GCEA_enJP1090JP1090&oq=scroll+in+raylib&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABge0gEIMjgyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+raylib [textures] example - background scrolling
+https://www.raylib.com/examples/textures/loader.html?name=textures_background_scrolling
+
+OpenGL Mouse Scroll Button Input Basic System Class Upgrade GLSL Fragment Shader Programming - YouTube
+https://www.youtube.com/watch?v=-xKFa8PjP9Y
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Ext4 vs Ext3: Understanding File System Differences
+https://www.howto-do.it/ext4-vs-ext3/
+
+[css-scroll-snap-2] Implement snapchanging for user scrolls · chromium/chromium@ee94a1c
+https://github.com/chromium/chromium/commit/ee94a1c8655cd64a69729e191c68ce891864d2d9
+
+[PATCH net-next v10 0/4] GVE Raw Addressing - David Awogbemila
+https://lore.kernel.org/all/20201207224526.95773-1-awogbemila@google.com/
+
+[css-scroll-snap-2] Prioritize targeted snap areas · chromium/chromium@2d55910
+https://github.com/chromium/chromium/commit/2d55910d36e50c1c9d3a786587faa04a0163dc12
+
+<blend-mode> - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/blend-mode
+
+Omnibox
+https://www.chromium.org/user-experience/omnibox/
+
+太阳辐射 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E8%BC%BB%E5%B0%84
+
+[GridNG] Clamp auto-placement to subgrid area · chromium/chromium@31b0e7e
+https://github.com/chromium/chromium/commit/31b0e7e9a6c48715a6352e4ef0b21ccb0bd8b6f0
+
+chromium diable hang monitor - Google 搜索
+https://www.google.com/search?q=chromium+diable+hang+monitor&rlz=1C1GCEA_enJP1090JP1090&oq=chromium+diable+hang+monitor&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigAdIBCDU0OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+61149 – [debug feature] WTFString should have show() method
+https://bugs.webkit.org/show_bug.cgi?id=61149
+
 # 2024-3-1
 
 postgresql.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

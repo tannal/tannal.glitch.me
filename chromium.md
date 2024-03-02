@@ -1,7 +1,118 @@
 # inbox
 
+git log --grep "David Awogbemila"
+
+out/Default/chrome --disable-hang-monitor third_party/blink/web_tests/external/wpt/css/css-scroll-snap/snap-after-relayout/multiple-aligned-targets/positioned-target-iframe.html
+
+StyleEngine take DOM CSSOM to ComputedStyle to the layoutobject in the layout tree GetDocument()
+
+
+```cpp
+
+const ComputedStyle& style = StyleRef();
+
+const ComputedStyle& style = GetLayoutObject().StyleRef();
+// A newly created snap container may need to be made aware of snap areas
+// within it which are targeted or contain a targeted element. Such a
+// container may also change the snap areas associated with snap containers
+// higher in the DOM.
+if (!style.GetScrollSnapType().is_none) {
+    if (Element* css_target = GetLayoutObject().GetDocument().CssTarget()) {
+    css_target->SetTargetedSnapAreaIdsForSnapContainers();
+    }
+}
+
+```
+
+APIs, & HTML/CSS parsing
+
+Input: HTML, CSS, JavaScript, other resources.
+Output: DOM, Stylesheets.
+DOM (Document Object Model)
+
+Input: HTML after being parsed.
+Output: A tree structure that represents the content of the page.
+Stylesheets
+
+Input: CSS after being parsed.
+Output: CSSOM (CSS Object Model), a tree structure that represents the style information for the page.
+Animate
+
+Input: DOM, CSSOM, and animation definitions (e.g., from CSS animations or Web Animations API).
+Output: Changes to properties over time that should be reflected in the style and layout.
+Style
+
+Input: DOM, CSSOM.
+Output: Computed Styles, which are the styles that are actually applied to the DOM elements after resolving all the CSS rules.
+Layout
+
+Input: DOM, Computed Styles.
+Output: Layout tree (also known as a box tree or render tree), which is a representation of the layout boxes for each DOM element with size and position information.
+Pre-paint
+
+Input: Layout tree, any pending style changes or updates.
+Output: Paint records (instructions for painting) and updates to the Property Trees if necessary.
+Scroll
+
+Input: User interaction, current scroll position.
+Output: Updated scroll position that will be reflected in the layout and paint.
+Paint
+
+Input: Paint records, images, and other resources.
+Output: Draw commands that are ready to be rasterized.
+Commit
+
+Input: Draw commands, any updates that require synchronizing with the compositor.
+Output: Layers prepared and sent to the compositor for the final screen rendering.
+Layerize
+
+Input: Layers that need to be composited, possibly from different parts of the rendering pipeline.
+Output: A layer list that the compositor can work with to produce the final image.
+Property Trees
+
+Input: Hierarchical properties such as transforms, clips, effects.
+Output: A set of property trees (transform tree, clip tree, effect tree) that are used to efficiently manage these properties across the rendering pipeline.
+Composited Layer List
+
+Input: The layers that have been prepared during the commit phase.
+Output: A list of layers in the order they should be composited to create the final frame.
+Immutable Fragment Tree
+
+Input: Output from the layout phase.
+Output: A tree structure that represents parts of the page that do not change, which allows for optimization in the rendering process.
+Decoded & Sized Textures
+
+Input: Raw image data and videos.
+Output: Images and videos that have been decoded, sized, and formatted into textures for use by the GPU.
+Display Lists
+
+Input: All the painting commands that have been generated.
+Output: A list of instructions that the GPU will use to draw the final image to the screen.
+
+blink::PaintLayerPainter::Paint(blink::GraphicsContext&, unsigned int)
+
+paint layer compositor
+renderer process handles rendering, animation, scrolling, and input for each website tab
+Viz process aggregates compositing from multiple render processes
+
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=Manuel%20Rego%20Casasnovas
+
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/layout/layout_box_model_object.cc
+
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/css-multicol/crashtests/
+inline-become-oof-container-make-oof-inflow.html
+
+echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
+
+css/CSS2/normal-flow/unresolvable-max-height.html
+
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html --no-sandbox --renderer-cmd-prefix='xterm -title renderer -e gdb \
+    -ex run --args'
+
 export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
 
+autoninja -C out/Default chrome_wpt_tests
 
 autoninja -C out/Default blink_unittests
 out/Default/blink_unittests --gtest_filter='InlineNodeTest.SetTextWithOffsetWithTextTransform'
