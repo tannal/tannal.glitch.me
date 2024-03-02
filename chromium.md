@@ -1,5 +1,7 @@
 # inbox
 
+printf "%s\n", text.Latin1().data()
+
 git log --grep "David Awogbemila"
 
 .Ascii().data()
