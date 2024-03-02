@@ -1,5 +1,15 @@
 # 2024-3-1 | W
 
+nc -w 3 192.168.43.246 1234 < patch
+nc -l 192.168.43.246 1234 > patch
+
+
+sudo crontab -l
+
+sudo crontab -e
+59 22 * * * /sbin/shutdown -h now
+
+
 Get-Content input | node vj.js 
 
 https://github.com/SaschaWillems/Vulkan
