@@ -1,3 +1,87 @@
+# 2024-3-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GPU Accelerated Compositing in Chrome
+https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome/
+
+Blink Compositing Update: Recap and Squashing - Google スライド
+https://docs.google.com/presentation/d/1WOhbWLkhMyo4vZUaHq-FO-mt0B2sejXw-lMwohD5iUo/edit#slide=id.g2a8a2080a_068
+
+HighlightInheritance: fix spelling/grammar feature checks · chromium/chromium@503f03b
+https://github.com/chromium/chromium/commit/503f03ba2cd69a9dd21142b27f6051f5ff40774d
+
+[css-scroll-snap-2] Implement snapchanging for user scrolls · chromium/chromium@ee94a1c
+https://github.com/chromium/chromium/commit/ee94a1c8655cd64a69729e191c68ce891864d2d9
+
+Try the new Commit Graph Feature Preview! · gitkraken/vscode-gitlens · Discussion #2158
+https://github.com/gitkraken/vscode-gitlens/discussions/2158
+
+auth0.openai.com/u/login/identifier?state=hKFo2SBlUlZoMExlWl9LVS1fZHd5QnJoVEk2b3dVX21mQ0ZkU6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHFOM0dmQ0JvREZBVVFid0pjajlsVnNKQ0lKc05FQjdvo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc&__cf_chl_rt_tk=CeXUX2eovvY3LbdaDoIlvi4ynDyTwWJVIljvY91CS9Y-1709431024-0.0.1.1-2154
+https://auth0.openai.com/u/login/identifier?state=hKFo2SBlUlZoMExlWl9LVS1fZHd5QnJoVEk2b3dVX21mQ0ZkU6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHFOM0dmQ0JvREZBVVFid0pjajlsVnNKQ0lKc05FQjdvo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc
+
+GitKraken Pricing - How Much Do GitKraken Tools Cost
+https://www.gitkraken.com/pricing
+
+gitkraken/vscode-gitlens: Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+https://github.com/gitkraken/vscode-gitlens
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+Xianzhu+Wang%2C&type=commits&p=2
+
+Hyowon Kim | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/hyowon
+
+How to make a GDB breakpoint only break after the point is reached a given number times? - Stack Overflow
+https://stackoverflow.com/questions/2956889/how-to-make-a-gdb-breakpoint-only-break-after-the-point-is-reached-a-given-numbe
+
+Slimming Paint (a.k.a. Redesigning Painting and Compositing) | Hacker News
+https://news.ycombinator.com/item?id=10880144
+
+https://www.youtube.com/watch?v=0Cozt1m4s8I&list=PL9ioqAuyl6UL0gUAPSsO-vm13ko33Vjwv&index=4
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D0Cozt1m4s8I%26list%3DPL9ioqAuyl6UL0gUAPSsO-vm13ko33Vjwv%26index%3D4&q=EgSs6VVDGO6wj68GIjBvpF47jY2s0qzhX68rWEdL-77MpST_3mEPWYIpvChK8KUW-6cix_tU6HoWUK3QXyIyAXJaAUM
+
+Slimming Paint (a.k.a. Redesigning Painting and Compositing)
+https://www.chromium.org/blink/slimming-paint/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=docs.google.com%2Fpresentation%2F&sort=byPopularity&type=story
+
+Vue 3.0 Updates - Google スライド
+https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview#slide=id.g42acc26207_0_156
+
+CPU usage even when idle (due to cursor rendering) · Issue #22900 · microsoft/vscode
+https://github.com/Microsoft/vscode/issues/22900
+
+more paulirish's comments | Hacker News
+https://news.ycombinator.com/threads?id=paulirish&next=34396896
+
+CVE-2020-19909 is everything that is wrong with CVEs | daniel.haxx.se
+https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/
+
+Populating the page: how browsers work (2020) | Hacker News
+https://news.ycombinator.com/item?id=37868388
+
+How browsers work
+http://taligarsiel.com/Projects/howbrowserswork1.htm
+
+Servo Layout Engines Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
+
+Populating the page: how browsers work - Web performance | MDN
+https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+
+Money Tree
+https://vrp-treemap.surge.sh/
+
+copy history firefox - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=copy+history+firefox
+
+Export Tabs URLs – 🦊 Firefox (ja) 向け拡張機能を入手
+https://addons.mozilla.org/ja/firefox/addon/export-tabs-urls-and-titles/
+
+
 # 2024-3-2
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

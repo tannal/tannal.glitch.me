@@ -1,3 +1,10 @@
+# 2024-3-3 | W
+
+https://news.ycombinator.com/user?id=paulirish
+
+# 2024-3-2 | W
+
+
 # 2024-3-1 | W
 
 nc -w 3 192.168.43.246 1234 < patch
