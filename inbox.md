@@ -1,5 +1,11 @@
 # 2024-3-3 | W
 
+
+sudo apt-get install alsa-base alsa-utils
+
+kdenlive
+gimp
+
 sudo vim config.txt
 usb_max_current_enable=1
 

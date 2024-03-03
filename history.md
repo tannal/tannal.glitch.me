@@ -1,5 +1,170 @@
 # 2024-3-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Revert "[wasm][flags] Add implications from --no-turbofan" · v8/v8@a8ed338
+https://github.com/v8/v8/commit/a8ed33877b95fafd0f7ec9fb1227c1ea7173f354
+
+[arm64] Use qword move to move float/double · v8/v8@ba69602
+https://github.com/v8/v8/commit/ba69602f6b5f1b6f79c0edabd6bad247fcdd16b8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[WASI] fix special case in vinode path resolving by tannal · Pull Request #3246 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pull/3246
+
+• Discord | #os-dev | Zig Programming Language
+https://discord.com/channels/605571803288698900/751157713135730761
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGPT
+https://chat.openai.com/
+
+low level programming minecraft clone - Google 搜索
+https://www.google.com/search?q=low+level+programming+mincraft+clone&rlz=1C1GCEA_enJP1090JP1090&oq=low+level+programming+mincraft+clone&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEIODY2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+meemknight/ourCraft: Yet another Minecraft clone.
+https://github.com/meemknight/ourCraft
+
+说了再见钢琴谱-周杰伦-琴艺谱
+https://www.qinyipu.com/gangqin/gangqinpudaquan/22803.html
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Marc Gregoire - Google 搜索
+https://www.google.com/search?q=Marc+Gregoire&rlz=1C1GCEA_enJP1090JP1090&oq=Marc+Gregoire&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg2MDAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Marc Gregoire | Most Valuable Professionals
+https://mvp.microsoft.com/en-US/mvp/profile/0ffb8fa8-3c9a-e411-93f2-9cb65495d3c4
+
+晴天钢琴谱-周杰伦-琴艺谱
+https://www.qinyipu.com/gangqin/gangqinpudaquan/80857.html
+
+“Damn”新梗爆火出圈，网易有道词典全球发音悄然走红 - 中国日报网
+https://tech.chinadaily.com.cn/a/202402/29/WS65e03fa6a3109f7860dd36ce.html
+
+有道翻译_文本、文档、网页、在线即时翻译
+https://fanyi.youdao.com/index.html#/AITranslate?keyfrom=fanyiweb_navigation
+
+有道翻译_文本、文档、网页、在线即时翻译
+https://fanyi.youdao.com/trans/#/home
+
+有道智云AI开放平台
+https://ai.youdao.com/?keyfrom=fanyi-new-nav#/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Outreachy eligibility results
+https://www.outreachy.org/eligibility-results/
+
+中国 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi&sca_esv=44b162d9710c0caf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Z5371yxhzXi5Z4Jvty6XAwfbumQ%3A1709445065652&ei=yQ_kZZO5J_Wpvr0P29iAiAk&ved=0ahUKEwjTwZqPs9eEAxX1lK8BHVssAJEQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGlI5gZQlQRYtwVwAXgAkAEAmAHgAaAB4AGqAQMyLTG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwA&sclient=gws-wiz-serp
+
+解决ubuntu的wifi无法连接问题 - 知乎
+https://zhuanlan.zhihu.com/p/360233273
+
+RPi5 no internet access - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=363877
+
+如何排查ubuntu下wifi问题 - 知乎
+https://zhuanlan.zhihu.com/p/80221247
+
+ubuntu wifi密码保存在哪里 - Google 搜索
+https://www.google.com/search?q=ubuntu+wifi%E5%AF%86%E7%A0%81%E4%BF%9D%E5%AD%98%E5%9C%A8%E5%93%AA%E9%87%8C&rlz=1C1GCEA_enJP1090JP1090&oq=ubuntu+wifi%E5%AF%86%E7%A0%81%E4%BF%9D%E5%AD%98%E5%9C%A8%E5%93%AA%E9%87%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCTExODkwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Raspberry Pi Hidden Settings - Setup Hostname, SSH and WiFi from the Pi Imager Application. - YouTube
+https://www.youtube.com/watch?v=om8gGB3gyT0
+
+networking - How can you forget a wi-fi connection you've used - Ask Ubuntu
+https://askubuntu.com/questions/1362390/how-can-you-forget-a-wi-fi-connection-youve-used
+
+rpi imager keep user files - Google 搜索
+https://www.google.com/search?q=rpi+imager+keep+user+files&rlz=1C1GCEA_enJP1090JP1090&oq=rpi+imager+keep+user+files&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwODg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Pi Imager does not include wifi settings in supplicant file, editing supplicant also does not work. : r/octoprint
+https://www.reddit.com/r/octoprint/comments/12s8iut/pi_imager_does_not_include_wifi_settings_in/
+
+Is setting `max_usb_current=1` to give more power to USB devices a bad idea? - Raspberry Pi Stack Exchange
+https://raspberrypi.stackexchange.com/questions/27708/is-setting-max-usb-current-1-to-give-more-power-to-usb-devices-a-bad-idea
+
+Help I have no idea how to fix my new raspberry pi 4 - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=294959
+
+mkfs fat system boot clusters bad cluster number 0 - Google 搜索
+https://www.google.com/search?q=mkfs+fat+system+boot+clusters+bad+cluster+number+0&rlz=1C1GCEA_enJP1090JP1090&oq=mkfs+fat+system+boot+clusters+bad+cluster+number+0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE0OTIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+进击的巨人背景音乐BGM-哔哩哔哩_Bilibili
+https://search.bilibili.com/all?keyword=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90BGM
+
+Silence - Marshmello ft. Khalid 钢琴乐谱（独奏） | 音乐 Musescore.com
+https://musescore-com.translate.goog/user/24563716/scores/4497481?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=sc
+
+《Call Of Silence,钢琴谱》泽野弘之|弹琴吧|钢琴谱|吉他谱|钢琴曲|乐谱|五线谱|简谱|高清免费下载|蛐蛐钢琴网
+https://www.tan8.com/yuepu-77493.html
+
+《Call Of Silence,钢琴谱》泽野弘之|弹琴吧|钢琴谱|吉他谱|钢琴曲|乐谱|五线谱|简谱|高清免费下载|蛐蛐钢琴网
+https://www.tan8.com/yuepu-77493.html
+
+ubuntu 22.04没有声音 - Google 搜索
+https://www.google.com.hk/search?sca_esv=65322ac989286f4e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08QPOFDW5R0SsiZ6Q3N1rcO9r66IA:1709448189750&q=ubuntu+22.04%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3&sa=X&ved=2ahUKEwi4l_LgvteEAxXBc_UHHXlYCKYQ1QJ6BAgoEAE&biw=1536&bih=703&dpr=1.25
+
+解决 Ubuntu 22.04 中的“声音不工作”问题
+https://cn.linux-console.net/?p=13929
+
+树莓派 音频 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+%E9%9F%B3%E9%A2%91&sca_esv=65322ac989286f4e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-FfXnyNe9_cC76wC6HuiAkhLtCcA%3A1709448249942&ei=ORzkZfOPOZDU1e8Pk9uIiA8&ved=0ahUKEwizkMz9vteEAxUQavUHHZMtAvEQ4dUDCBA&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+%E9%9F%B3%E9%A2%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOagkeiOk-a0viDpn7PpopEyBBAjGCcyBBAAGB5I5ApQkglYkglwAXgAkAEAmAHUAaABjQOqAQUwLjEuMbgBA8gBAPgBAZgCAqACvwHCAgoQABhHGNYEGLADmAMAiAYBkAYEkgcDMS4x&sclient=gws-wiz-serp
+
+dca 音频输出 - Google 搜索
+https://www.google.com/search?q=dca+%E9%9F%B3%E9%A2%91%E8%BE%93%E5%87%BA&sca_esv=65322ac989286f4e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Zn7mnZB9BTdxnzafOoYTzQsBAFQ%3A1709448316956&ei=fBzkZfn5Oamnvr0P68qSIA&ved=0ahUKEwj5p8adv9eEAxWpk68BHWulBAQQ4dUDCBA&uact=5&oq=dca+%E9%9F%B3%E9%A2%91%E8%BE%93%E5%87%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGRjYSDpn7PpopHovpPlh7oyCBAAGIAEGKIESIgZUJEDWKEYcAF4AJABAJgBhAKgAY4VqgEFMC43Lja4AQPIAQD4AQGYAgqgApsQwgIEECMYJ8ICBxAAGIAEGAzCAgoQABiABBiKBRhDwgIFEAAYgATCAgsQLhiABBjHARivAcICCBAAGIAEGMsBwgIFECEYoAGYAwCIBgGSBwUwLjYuNA&sclient=gws-wiz-serp#ip=1
+
+ubuntu 23.04 声卡驱动 - Google 搜索
+https://www.google.com.hk/search?q=ubuntu+23.04+%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8&newwindow=1&sca_esv=54bdbdfc1cb11477&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_PVwCeXOWDMgh7CR4GMeLd-d9Nfw%3A1709449302342&ei=ViDkZbuuFJTj2roPxZuDyAk&ved=0ahUKEwi7sbXzwteEAxWUsVYBHcXNAJkQ4dUDCBA&uact=5&oq=ubuntu+23.04+%E5%A3%B0%E5%8D%A1%E9%A9%B1%E5%8A%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXVidW50dSAyMy4wNCDlo7DljaHpqbHliqgyCBAAGIkFGKIEMggQABiABBiiBDIIEAAYiQUYogRIknJQrFhY-3BwBHgBkAEAmAHhAaABrAmqAQUwLjMuM7gBA8gBAPgBAZgCBqAC0wTCAgoQABhHGNYEGLADwgIFEAAYgASYAwCIBgGQBgqSBwUzLjIuMQ&sclient=gws-wiz-serp
+
+Ubuntu声卡驱动更新方法详解 - 小四LINUX
+https://linux.xiaosiseo.com/post/11772.html
+
+alsa 声卡 - Google 搜索
+https://www.google.com.hk/search?q=alsa+%E5%A3%B0%E5%8D%A1&rlz=1C1GCEA_enJP1090JP1090&oq=alsa+%E5%A3%B0%E5%8D%A1+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIGCAMQRRg9MgYIBBBFGD3SAQgyNTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+ALSA - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/ALSA
+
+Advanced Linux Sound Architecture - Google 搜索
+https://www.google.com.hk/search?q=Advanced+Linux+Sound+Architecture&rlz=1C1GCEA_enJP1090JP1090&oq=Advanced+Linux+Sound+Architecture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Advanced Linux Sound Architecture - Wikipedia
+https://en.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
+
+树莓派 没有声音 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+%E6%B2%A1%E6%9C%89%E5%A3%B0%E9%9F%B3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDU4MzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+解决树莓派4B 3.5MM耳机接口没有声音的方法_树莓派4b插耳机没声音-CSDN博客
+https://blog.csdn.net/luhengs/article/details/111826961
+
+树莓派开启声音及视频播放 – Code Studio
+https://www.nousbuild.org/codeu/raspberry-pi-audio-and-video/
+
+树莓派 扬声器 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+%E6%89%AC%E5%A3%B0%E5%99%A8&newwindow=1&sca_esv=54bdbdfc1cb11477&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09DAYi-fBSrOkWNjWRMNZn6PGOlag%3A1709449764052&ei=JCLkZanjAu3r1e8PnrmuoAw&ved=0ahUKEwiphcrPxNeEAxXtdfUHHZ6cC8QQ4dUDCBA&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+%E6%89%AC%E5%A3%B0%E5%99%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-agkeiOk-a0viDmiazlo7DlmagyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESI8XUIIDWMwVcAF4AJABAJgB2AGgAf0JqgEFMC42LjG4AQPIAQD4AQGYAgSgAtMFwgIEECMYJ8ICChAAGIAEGIoFGEPCAgUQABiABMICBxAAGIAEGAyYAwCIBgGSBwMwLjQ&sclient=gws-wiz-serp#ip=1
+
+叮当：一个开源的树莓派中文智能音箱项目 | 树莓派实验室
+https://shumeipai.nxez.com/2017/07/02/dingdang-an-open-source-chinese-smart-speaker-project.html
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
