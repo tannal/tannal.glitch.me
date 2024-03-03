@@ -1,6 +1,8 @@
 # inbox
 
 https://www.cnblogs.com/bigben0123
+
+content::ClipboardHostImpl::WriteText
 ClipboardHostImpl::WriteText
 
 
