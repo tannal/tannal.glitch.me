@@ -1,5 +1,10 @@
 # inbox
 
+ls out/Default/gen/third_party/blink/renderer/bindings/modules/v8/v8_document.cc :7657
+
+
+third_party/blink/renderer/core/dom/container_node.cc many dom api implemented here called by v8 document bindings
+
 Document::UpdateStyleAndLayoutTreeForThisDocument
 
 blink::WebFrameWidgetImpl::FocusChanged(blink::mojom::FocusState) IPC
