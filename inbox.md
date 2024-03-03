@@ -1,5 +1,31 @@
 # 2024-3-3 | W
 
+git clone https://github.com/cmu-db/bustub.git
+
+sudo apt-get install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
+
+export CC=/usr/bin/aarch64-linux-gnu-gcc
+export CXX=/usr/bin/aarch64-linux-gnu-g++
+
+cmake -B build -G Ninja
+
+cmake --build build
+
+tar -cvpzf build.tar.gz build
+tar -xvpzf build.tar.gz
+
+nc -l 1234 > build.tar.gz
+nc 192.168.43.246 1234 < build.tar.gz
+
+
+make it work
+make it correct
+make it fast
+
+The traditional way to prove that you’ve achieved code execution is by “popping a calc.” 
+
+Mesa is indeed a prominent open-source graphics library that provides implementations for APIs like OpenGL and Vulkan. However, it's primarily used in Unix-like operating systems such as Linux. Windows does not use Mesa by default; instead, it relies on proprietary drivers from hardware vendors like NVIDIA and AMD, as well as its own set of APIs like Direct3D, which are part of the DirectX suite for handling multimedia tasks, including video and game programming. These vendor-specific drivers are optimized for performance on Windows and provide direct support for the GPU hardware they are designed for.
+
 
 sudo apt-get install alsa-base alsa-utils
 
