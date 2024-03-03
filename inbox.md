@@ -1,8 +1,6 @@
 # 2024-3-3 | W
 
 https://hn.algolia.com/?dateRange=all&page=3&prefix=true&query=docs.google.com%2Fpresentation%2F&sort=byPopularity&type=story
-https://news.ycombinator.com/user?id=paulirish
-
 
 https://news.ycombinator.com/user?id=paulirish
 
