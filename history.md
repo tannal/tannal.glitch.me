@@ -1,5 +1,86 @@
 # 2024-3-3
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+《Call Of Silence,钢琴谱》泽野弘之|弹琴吧|钢琴谱|吉他谱|钢琴曲|乐谱|五线谱|简谱|高清免费下载|蛐蛐钢琴网
+https://www.tan8.com/yuepu-77493.html
+
+Cross-compile CMake for ARM.
+https://chat.openai.com/c/e8fcc2a7-51bc-4a3e-ad46-f54ca093fd1d
+
+Call Of Silence piano - Google 検索
+https://www.google.com/search?q=Call+Of+Silence+piano&client=ubuntu-sn&hs=g3O&sca_esv=65322ac989286f4e&channel=fs&ei=CRjkZdu8LMmrvr0P6YGxuA8&ved=0ahUKEwib5an-uteEAxXJla8BHelADPcQ4dUDCBA&uact=5&oq=Call+Of+Silence+piano&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUNhbGwgT2YgU2lsZW5jZSBwaWFubzIHEAAYgAQYBDIHEAAYgAQYBDIHEAAYgAQYBDIHEAAYgAQYBDIHEAAYgAQYBDIFEAAYgAQyBxAAGIAEGAQyChAAGIAEGIoFGEMyBBAAGB4yBBAAGB5Irw1Q5gNY7AtwAXgAkAEAmAHDAaAB-AmqAQMwLje4AQPIAQD4AQGYAgegAvkIwgIKEAAYRxjWBBiwA5gDAIgGAZAGCpIHBTEuNS4x&sclient=gws-wiz-serp
+
+【Piano cover】Call of Silence ‐ Gemie・澤野弘之『進撃の巨人』挿入歌 - YouTube
+https://www.youtube.com/watch?v=OdEQQvFd1qE
+
+libcef - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=libcef#ip=1
+
+cef-project/examples/message_router at master · chromiumembedded/cef-project
+https://github.com/chromiumembedded/cef-project/tree/master/examples/message_router
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chromium%20ipc&sort=byPopularity&type=story
+
+Ask HN: Do we still need Electron? | Hacker News
+https://news.ycombinator.com/item?id=37488397
+
+Review of Chromium IPC vulnerabilities | GitHub Security Lab
+https://securitylab.github.com/research/chromium-ipc-vulnerabilities/
+
+Cueing up a calculator: an introduction to exploit development on Linux - The GitHub Blog
+https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/
+
+opengl mesa - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=opengl+mesa
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=conjunction&op=translate
+
+Introduction — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/
+
+Mesa / drm · GitLab
+https://gitlab.freedesktop.org/mesa/drm
+
+Source Code Repository — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/repository.html
+
+Graphics Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/graphics_developer
+
+electron/electron: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+https://github.com/electron/electron
+
+Bug #2036595 “vulnerability in libcue affects tracker-extract (G...” : Bugs : libcue package : Ubuntu
+https://bugs.launchpad.net/ubuntu/+source/libcue/+bug/2036595
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+Cross-compile CMake for ARM.
+https://chat.openai.com/c/e8fcc2a7-51bc-4a3e-ad46-f54ca093fd1d
+
+cmu-db/bustub: The BusTub Relational Database Management System (Educational)
+https://github.com/cmu-db/bustub
+
+tannal/ft
+https://github.com/tannal/ft
+
+clang + cmake で aarch64 linux 向けに C/C++ アプリをクロスコンパイルするメモ #CMake - Qiita
+https://qiita.com/syoyo/items/5008aef05f0b51090393
+
+c++ - How do you find what version of libstdc++ library is installed on your linux machine? - Stack Overflow
+https://stackoverflow.com/questions/10354636/how-do-you-find-what-version-of-libstdc-library-is-installed-on-your-linux-mac
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,36 @@
 # 2024-3-3 | W
 
+/sbin/ldconfig -p | grep stdc++
+sudo apt install libstdc++-11-dev-arm64-cross
+
+```shell
+
+# aarch64-linux-gnu.cmake
+
+# Toolchain for cross-compiling to AArch64 Linux from x86_64 Linux
+
+set(CMAKE_SYSTEM_NAME Linux)
+set(CMAKE_SYSTEM_PROCESSOR aarch64)
+
+# Specify the cross compilers
+set(CMAKE_C_COMPILER aarch64-linux-gnu-gcc)
+set(CMAKE_CXX_COMPILER aarch64-linux-gnu-g++)
+
+# Set the sysroot (adjust the path to your sysroot location)
+set(CMAKE_SYSROOT /usr/aarch64-linux-gnu)
+
+# Configure the search paths for libraries and headers
+set(CMAKE_FIND_ROOT_PATH /usr/aarch64-linux-gnu/)
+
+# Adjust the default behavior of the FIND_* commands
+set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
+set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)
+set(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE ONLY)
+
+```
+
+../ft/target/debug/ft client 192.168.43.246:7878 build.tar.gz
+
 git clone https://github.com/cmu-db/bustub.git
 
 sudo apt-get install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
@@ -7,7 +38,7 @@ sudo apt-get install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
 export CC=/usr/bin/aarch64-linux-gnu-gcc
 export CXX=/usr/bin/aarch64-linux-gnu-g++
 
-cmake -B build -G Ninja
+cmake -B build -G Ninja -DCMAKE_TOOLCHAIN_FILE=aarch64-linux-gnu.cmake
 
 cmake --build build
 
