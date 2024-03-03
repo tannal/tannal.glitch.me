@@ -1,5 +1,13 @@
 # inbox
 
+
+tools/test.py test/parallel/test-stream2-transform.js
+
+make -C out BUILDTYPE=Release V=0
+make -C out BUILDTYPE=Debug V=0
+
+
+
 https://github.com/npm/
 
 ```cpp
