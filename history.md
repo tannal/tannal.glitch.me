@@ -3,6 +3,39 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+tannal (tannal)
+https://github.com/tannal/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Introducing Raspberry Pi Imager, our new imaging utility - Raspberry Pi
+https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/
+
+Google
+https://www.google.com/
+
+Ubuntu18.04下解决Qt出现qt.qpa.plugin:Could not load the Qt platform plugin “xcb“问题_qt.qpa.plugin: could not load the qt platform plug-CSDN博客
+https://blog.csdn.net/LOVEmy134611/article/details/107212845
+
+22.04 - How do you install qt on ubuntu22.04 - Ask Ubuntu
+https://askubuntu.com/questions/1404263/how-do-you-install-qt-on-ubuntu22-04
+
+Releases · raspberrypi/rpi-imager
+https://github.com/raspberrypi/rpi-imager
+
+GitHub
+https://github.com/
+
+raspbian - Prepare SD card for Wifi on Headless Pi - Raspberry Pi Stack Exchange
+https://raspberrypi.stackexchange.com/questions/10251/prepare-sd-card-for-wifi-on-headless-pi
+
+How to Use the Raspberry Pi Imager's Advanced Options
+https://www.makeuseof.com/how-to-use-raspberry-pi-imager-advanced-options/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 GPU Accelerated Compositing in Chrome
 https://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome/
 
