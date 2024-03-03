@@ -1,5 +1,17 @@
 # inbox
 
+https://www.cnblogs.com/bigben0123
+ClipboardHostImpl::WriteText
+
+
+The browser process has full system privilge like host clipboard access
+
+And the render process need to impc the browser process to get service (client server like)
+
+blink::mojom::ClipboardHost::WriteText
+
+ClipboardHost::WriteText
+
 ls out/Default/gen/third_party/blink/renderer/bindings/modules/v8/v8_document.cc :7657
 
 
@@ -16,6 +28,7 @@ printf "%s\n", text.Latin1().data()
 
 git log --grep "David Awogbemila"
 
+.Ascii().data()
 .Ascii().data()
 
 out/Default/chrome --disable-hang-monitor third_party/blink/web_tests/external/wpt/css/css-scroll-snap-2/snapchanging/snapchanging-after-layout-change.tentative.html

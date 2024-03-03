@@ -1,5 +1,86 @@
 # 2024-3-3
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Chromium Docs - Tips for debugging on Linux
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/linux/debugging.md
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=5&prefix=true&query=docs.google.com%2Fpresentation%2F&sort=byPopularity&type=story
+
+201402 QUIC @ Google Developers Live - Google スライド
+https://docs.google.com/presentation/d/13LSNCCvBijabnn1S4-Bb6wRlm79gN6hnPFHByEXXptk/present#slide=id.g2a9e7f5ea_194
+
+QUIC: next generation multiplexed transport over UDP - YouTube
+https://www.youtube.com/watch?v=hQZ-0mXFmk8
+
+Machine Learning for Web Developers (Web ML) - YouTube
+https://www.youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui
+
+Artifact Austin: Leaving Pixels Behind - Todd Parker - Google Slides
+https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/edit?forcehl=1&hl=en#slide=id.g272ed8bf3_037
+
+Life of a Pixel - Google スライド
+https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.ga884fe665f_64_1773
+
+talk: Mid-stack inlining in the Go compiler (external) - Google スライド
+https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.g1d00ad65a7_2_0
+
+cmd/compile: enable mid-stack inlining · Issue #19348 · golang/go
+https://github.com/golang/go/issues/19348
+
+David Lazar
+https://davidlazar.org/
+
+C++20, How Hard Could It Be - Google スライド
+https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw#slide=id.g12a6e17768a_0_34
+
+Changes between C++17 and C++20
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2131r0.html
+
+google/quiche
+https://github.com/google/quiche
+
+ChatGPT
+https://chat.openai.com/c/7bab19b1-cf7c-4c0c-95a9-f8feb56b164a
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Oilpan&sort=byPopularity&type=story
+
+Oilpan: A C++ garbage collection library for Chromium - Google ドキュメント
+https://docs.google.com/document/d/1Cv2IcsiokkGc2K_5FBTDKekNzTn3iTEUyi9fDOud9wU/edit
+
+Cobalt  |  Google for Developers
+https://developers.google.com/youtube/cobalt
+
+youtube/cobalt: Cobalt is a lightweight HTML5 application container
+https://github.com/youtube/cobalt
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cobalt%20engine&sort=byPopularity&type=story
+
+Wayland copy function - Google 検索
+https://www.google.com/search?q=Wayland+copy+function&client=ubuntu-sn&hs=xr2&sca_esv=b443c1934b97673f&channel=fs&ei=MAHkZYLfIea02roPqIG7qAE&ved=0ahUKEwiCt5yZpdeEAxVmmlYBHajADhUQ4dUDCBA&uact=5&oq=Wayland+copy+function&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVdheWxhbmQgY29weSBmdW5jdGlvbjIEECEYFUiaE1D_CFj0EXABeAGQAQCYAd8BoAHuC6oBBTAuNi4yuAEDyAEA-AEBmAIJoAKODMICChAAGEcY1gQYsAPCAgcQABiABBgTwgIGEAAYHhgTwgIIEAAYBRgeGBPCAggQABgIGB4YE8ICBBAAGB7CAgYQABgIGB7CAggQABiABBiiBMICCBAAGIkFGKIEwgIFECEYoAGYAwCIBgGQBgSSBwUxLjYuMg&sclient=gws-wiz-serp
+
+Wayland Free Public Library | Explore. Learn. Connect.
+https://waylandlibrary.org/
+
+clipboard 剪切板js chrom参考 - Bigben - 博客园
+https://www.cnblogs.com/bigben0123/p/13322489.html
+
+Bigben - 博客园
+https://www.cnblogs.com/bigben0123
+
+对 uri分析获取mime type和 raw data - Bigben - 博客园
+https://www.cnblogs.com/bigben0123/p/18047322
+
+oncopy event | copy event JavaScript
+http://help.dottoro.com/ljwexqxl.php
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
