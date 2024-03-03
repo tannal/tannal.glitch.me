@@ -67,6 +67,7 @@ nvm install 20.11.0
 nvm ls-remote --lts
 
 nvm install v20.11.1
+corepack enable
 
 winget install XAMPPRocky.tokei
 tokei

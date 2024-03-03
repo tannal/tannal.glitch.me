@@ -1,5 +1,71 @@
 # 2024-3-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Replace GamepadList with sequence<Gamepad?> for navigator.getGamepads() return value - Chrome Platform Status
+https://chromestatus.com/feature/5693119438782464
+
+Intent to Ship: replace GamepadList with sequence<Gamepad?> for navigator.getGamepads() return value
+https://groups.google.com/a/chromium.org/g/blink-dev/c/JG5ffk-itJk/m/nW0u1WxmDAAJ
+
+Cranelift: egraph rule subsumption is too aggressive · Issue #8004 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8004
+
+IP Address Lookup for 39.156.66.10 in Shanghai, China
+https://whatismyipaddress.com/ip/39.156.66.10
+
+Tutorial 6 : Keyboard and Mouse
+http://www.opengl-tutorial.org/beginners-tutorials/tutorial-6-keyboard-and-mouse/
+
+cmu-db/bustub: The BusTub Relational Database Management System (Educational)
+https://github.com/cmu-db/bustub
+
+tannal/ft
+https://github.com/tannal/ft
+
+c++ - /usr/bin/ld: cannot find /usr/lib64/libasan.so.0.0.0 on redhat - Stack Overflow
+https://stackoverflow.com/questions/56652211/usr-bin-ld-cannot-find-usr-lib64-libasan-so-0-0-0-on-redhat
+
+c - Cross compiling for RPi - error while loading shared libraries - Raspberry Pi Stack Exchange
+https://raspberrypi.stackexchange.com/questions/96177/cross-compiling-for-rpi-error-while-loading-shared-libraries
+
+Trying to cross-compile with Asan for AAarch64; missing libraries - Runtimes / Sanitizers - LLVM Discussion Forums
+https://discourse.llvm.org/t/trying-to-cross-compile-with-asan-for-aaarch64-missing-libraries/71227/2
+
+https://www.youtube.com/watch?v=StF77Cx7pz8
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DStF77Cx7pz8&q=EgSs6VVDGNntka8GIjDykCAJUOT87-ReXf7EmQaP67qT_59rzv_LhgXvzdpUNIHg6jQPnsuc8JA3F-1aPiMyAXJaAUM
+
+https://www.youtube.com/watch?v=StF77Cx7pz8
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DStF77Cx7pz8&q=EgSs6VVDGNvtka8GIjBVoKjTJfLcIrwVojfMJ9x7zPpqmq3Hhi4aE6mz3RfxlgbC3sIC8W4sS5Jk72aA8lAyAXJaAUM
+
+Fuchsia os - Google 検索
+https://www.google.com/search?q=Fuchsia+os&client=ubuntu-sn&hs=LuU&sca_esv=d45440ba098adee0&channel=fs&ei=3W_kZYaGMqmYvr0P_byJ6Ao&ved=0ahUKEwjG6MnfjtiEAxUpjK8BHX1eAq0Q4dUDCBA&uact=5&oq=Fuchsia+os&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkZ1Y2hzaWEgb3MyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkiJD1C_AVieDnABeAGQAQCYAbkBoAHnAqoBAzAuMrgBA8gBAPgBAZgCA6ACkAPCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ5gDAIgGAZAGCpIHAzEuMg&sclient=gws-wiz-serp
+
+fuchsia | Builder Groups | LUCI
+https://ci.chromium.org/ui/p/fuchsia
+
+Principles of Computer Graphics - Google 検索
+https://www.google.com/search?q=Principles+of+Computer+Graphics&client=ubuntu-sn&hs=WOV&sca_esv=ae0256cbc04b73df&channel=fs&ei=LHfkZb_rMZGC2roPvYel2Ag&ved=0ahUKEwi_sd7bldiEAxURgVYBHb1DCYsQ4dUDCBA&uact=5&oq=Principles+of+Computer+Graphics&gs_lp=Egxnd3Mtd2l6LXNlcnAiH1ByaW5jaXBsZXMgb2YgQ29tcHV0ZXIgR3JhcGhpY3NI4QRQgwNYgwNwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAiAYBkgcA&sclient=gws-wiz-serp
+
+L-G-0000000520-0002331073.pdf
+https://download.e-bookshelf.de/download/0000/0005/20/L-G-0000000520-0002331073.pdf
+
+Shalini Govil-Pai - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Shalini+Govil-Pai
+
+Berrysoft (王宇逸)
+https://github.com/Berrysoft
+
+Berrysoft.Pages
+https://berrysoft.github.io/
+
+Export Tabs URLs – 🦊 Firefox (ja) 向け拡張機能を入手
+https://addons.mozilla.org/ja/firefox/addon/export-tabs-urls-and-titles/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

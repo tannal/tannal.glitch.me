@@ -1,5 +1,8 @@
 # 2024-3-3 | W
 
+sudo apt install libasan8-arm64-cross
+sudo apt remove libasan8-arm64-cross
+
 /sbin/ldconfig -p | grep stdc++
 sudo apt install libstdc++-11-dev-arm64-cross
 
@@ -45,7 +48,7 @@ cmake --build build
 tar -cvpzf build.tar.gz build
 tar -xvpzf build.tar.gz
 
-nc -l 1234 > build.tar.gz
+nc -l 0.0.0.0 1234 > build.tar.gz
 nc 192.168.43.246 1234 < build.tar.gz
 
 
