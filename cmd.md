@@ -64,7 +64,9 @@ sudo apt-get install build-essential
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 nvm install 20.11.0
+nvm ls-remote --lts
 
+nvm install v20.11.1
 
 winget install XAMPPRocky.tokei
 tokei
