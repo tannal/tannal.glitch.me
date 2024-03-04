@@ -1,3 +1,221 @@
+# 2024-3-4
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
+
+snapdragon 8 gen 4 - Google 搜索
+https://www.google.com/search?q=snapdragon+8+gen+4&rlz=1C1GCEA_enJP1090JP1090&oq=snapdragon+8+gen+4&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+tannal (tannal)
+https://github.com/tannal/
+
+If Programming Was An Anime 2 - YouTube
+https://www.youtube.com/watch?v=OTfp2_SwxHk
+
+Free YouTube to MP4 Video Downloader - SsYouTube.com
+https://ssyoutube.com/en151hI/youtube-to-mp4
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+#general > HTMLImageElement decode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTMLImageElement.20decode
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+Rust Clipboard History Program
+https://chat.openai.com/c/5e94e15c-a6bf-4eec-bd09-420c9879e56e
+
+tcp copy file - Google 搜索
+https://www.google.com/search?q=tcp+copy+file&rlz=1C1GCEA_enJP1090JP1090&oq=tcp+copy+file+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB7SAQg2NTI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ncat transfer rate incredibly slow · Issue #1026 · nmap/nmap
+https://github.com/nmap/nmap/issues/1026
+
+Node.js
+https://github.com/nodejs/
+
+cross compile 树莓派 - Google 搜索
+https://www.google.com/search?q=cross+compile+%E6%A0%91%E8%8E%93%E6%B4%BE&rlz=1C1GCEA_enJP1090JP1090&oq=cross+compile+%E6%A0%91%E8%8E%93%E6%B4%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDQxMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+交叉编译树莓派应用 — Cloud Atlas beta 文档
+https://cloud-atlas.readthedocs.io/zh-cn/latest/arm/raspberry_pi/build/cross_compile_pi.html
+
+Issues · huataihuang/cloud-atlas
+https://github.com/huataihuang/cloud-atlas/issues
+
+从零到Raspberry 交叉编译 - 袁克波 - 博客园
+https://www.cnblogs.com/ezrealiu/p/cross-compile-from-0-to-raspberry.html
+
+Best practices for C/C++ cross-compilation to RPi4 ? - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=343710
+
+Where is the cron / crontab log? - Ask Ubuntu
+https://askubuntu.com/questions/56683/where-is-the-cron-crontab-log
+
+Kohshi Yamaguchi - Google 搜索
+https://www.google.com/search?q=Kohshi+Yamaguchi&rlz=1C1GCEA_enJP1090JP1090&oq=Kohshi+Yamaguchi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+beijing time zone - Google 搜索
+https://www.google.com/search?q=beijing+time+zone&rlz=1C1GCEA_enJP1090JP1090&oq=beijing+time+zone&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4NDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+endoffile signal - Google 搜索
+https://www.google.com/search?q=endoffile+signal&rlz=1C1GCEA_enJP1090JP1090&oq=endoffile+signal&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgKGB4yCAgDEAAYChgeMgYIBBAAGB4yCAgFEAAYChgeMgYIBhAAGB4yCAgHEAAYChgeMgoICBAAGAoYDxgeMggICRAAGAoYHtIBCDYzOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+20.04 - Is there a default clipboard history in Ubuntu? If there is, how can I access it? - Ask Ubuntu
+https://askubuntu.com/questions/1287410/is-there-a-default-clipboard-history-in-ubuntu-if-there-is-how-can-i-access-it
+
+CristianHenzel/ClipIt: ClipIt clipboard manager for GTK+
+https://github.com/CristianHenzel/ClipIt
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCECMYJzIMCAMQABhDGIAEGIoFMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyOTM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+• Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796/1192886937527259257
+
+syscall package - syscall - Go Packages
+https://pkg.go.dev/syscall@go1.21.6
+
+Go WebAssembly (Wasm) 简明教程 | 快速入门 | 极客兔兔
+https://geektutu.com/post/quick-go-wasm.html
+
+go exec - Google 搜索
+https://www.google.com/search?q=go+exec&rlz=1C1GCEA_enJP1090JP1090&oq=go+exec&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMjMyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Repositories
+https://github.com/orgs/shurcooL/repositories
+
+Go WASM Game
+http://localhost:9999/
+
+Intent to Prototype: WebGPU: ServiceWorker and SharedWorker support
+https://groups.google.com/a/chromium.org/g/blink-dev/c/t3V3J7a-lwc/m/TC6TUvGaAwAJ
+
+Remove CSSPictureInPicture stable blink feature · chromium/chromium@2570553
+https://github.com/chromium/chromium/commit/25705537e65f031d28c1a531046b11914055b7e6#diff-b5515c3c34a66da936d31d92fce23083b9b47188a6cb16242f23972a0c6b0992
+
+Remove CSSPictureInPicture stable blink feature · chromium/chromium@2570553
+https://github.com/chromium/chromium/commit/25705537e65f031d28c1a531046b11914055b7e6#diff-b5515c3c34a66da936d31d92fce23083b9b47188a6cb16242f23972a0c6b0992
+
+:playing - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/:playing
+
+hexops/vecty: Vecty lets you build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
+https://github.com/hexops/vecty
+
+About Hexops | Hexops - the next generation of games
+https://hexops.com/about/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webassembly&sort=byPopularity&type=story
+
+soffice
+https://lab.allotropia.de/wasm/
+
+LibreOffice running natively in the browser via WebAssembly | Hacker News
+https://news.ycombinator.com/item?id=30356020
+
+Bright Blue
+https://archive.fosdem.org/2022/schedule/event/lotech_lowa/attachments/slides/5218/export/events/attachments/lotech_lowa/slides/5218/fosdem_2022_wasm.pdf
+
+Fog of War
+https://robert.ocallahan.org/2004/12/fog-of-war_30.html
+
+Go WebAssembly Tutorial - Building a Calculator - YouTube
+https://www.youtube.com/watch?v=4kBvvk2Bzis
+
+Hyper efficient front end development with web assembly using Go and LLVM | by Richard Anaya | Medium
+https://richardanaya.medium.com/hyper-efficient-front-end-development-with-web-assembly-using-go-and-llvm-8e6a1ccdd2bc
+
+react+rust+webAssembly(wasm)示例 - 菩提树下的杨过 - 博客园
+https://www.cnblogs.com/yjmyzz/p/how-to-create-a-react-app-with-rust-and-wasm.html
+
+About - Tomohiro Kato / @tkat0
+https://www.tkat0.dev/about/
+
+ChatGPTについて調べた
+https://www.tkat0.dev/posts/chatgpt/
+
+yjmyzz/react-rust-wasm-demo: how to create a react app with rust and wasm
+https://github.com/yjmyzz/react-rust-wasm-demo
+
+Intent to Deprecate and Remove Web SQL
+https://groups.google.com/a/chromium.org/g/blink-dev/c/fWYb6evVA-w
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=inhibit&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=js%20to%20webassembly&sort=byPopularity&type=story
+
+Deploying SSR Apps
+https://book.leptos.dev/deployment/ssr.html?highlight=webassembly#deno--cloudflare-workers
+
+gomarkdown/markdown: markdown parser and HTML renderer for Go
+https://github.com/gomarkdown/markdown
+
+vscode-go/docs/debugging.md at master · golang/vscode-go
+https://github.com/golang/vscode-go/blob/master/docs/debugging.md
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+eleventy/package.json at main · 11ty/eleventy
+https://github.com/11ty/eleventy/blob/main/package.json
+
+Astro
+https://astro.build/
+
+Code search results
+https://github.com/search?q=repo%3Awithastro%2Fastro%20markdown-it&type=code
+
+Code search results
+https://github.com/search?q=repo%3Amicrosoft%2Fvscode%20markdown-it&type=code
+
+Code search results
+https://github.com/search?q=repo%3Agohugoio%2Fhugo%20markdown&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=you%20don%27t%20need%20that%20javascript%20library&sort=byPopularity&type=story
+
+Ask HN: Anybody still writing JavaScript that does not need to be transpiled? | Hacker News
+https://news.ycombinator.com/item?id=17665168
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=typst&sort=byPopularity&type=story
+
+Typst: Compose papers faster
+https://typst.app/
+
+Typst, a new markup-based typesetting system, is now open source | Hacker News
+https://news.ycombinator.com/item?id=35250210
+
+Typst: A Programmable Markup Language for Typesetting [pdf] | Hacker News
+https://news.ycombinator.com/item?id=34423590
+
+I rewrote my CV in Typst and I'll never look back | Hacker News
+https://news.ycombinator.com/item?id=38047224
+
+I Rewrote my CV in Typst and I'll Never Look Back
+https://mattrighetti.com/2023/10/25/i-rewrote-my-cv-in-typst
+
+programmable-markup-language-for-typesetting.pdf
+https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf
+
+TeXmacs - Google 搜索
+https://www.google.com/search?q=TeXmacs&rlz=1C1GCEA_enJP1090JP1090&oq=TeXmacs&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzcwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+mattrighetti (mattrighetti) / Repositories
+https://github.com/mattrighetti?page=2&tab=repositories
+
 # 2024-3-3
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

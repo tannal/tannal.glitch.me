@@ -1,3 +1,29 @@
+# 2024-3-4 | W
+
+について (ni tsui te) 关于
+調べ (shi ra be) 调查
+
+mozilla 1998
+2004 
+
+go install github.com/shurcooL/goexec
+
+goexec 'http.ListenAndServe(`:9999`, http.FileServer(http.Dir(`.`)))'
+
+$env:GOOS="js"; $env:GOARCH="wasm"; go build -o main.wasm main.go
+
+go get -u github.com/shurcooL/goexec
+
+cargo add clipboard crossterm
+
+I am pursuing a bachelor's degree in Computer Science and expect to graduate in 2025.
+
+Ever since I was young, I have had a deep interest in programming and tinkering. I started my programming journey by making open-source homebrew apps for the Nintendo 3DS which received 300K+ downloads. 
+
+My experience with the open-source community has helped me immensely in my career. In 2019, I participated and won Google Code-in. In 2023, I participated in Google Summer of Code and worked with an amazing open-source project - ScummVM.
+
+I am now looking forward to working with more large open-source projects so that I can further increase my knowledge and skills.
+
 # 2024-3-3 | W
 
 sudo apt install libasan8-arm64-cross
