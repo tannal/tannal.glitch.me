@@ -1,5 +1,38 @@
 # 2024-3-4 | W
 
+git clone https://github.com/cinderblock/node-gyp-test.git
+npm install
+npm run build
+npm --silent start
+
+Each platform has it's own webview control available as a shared library installed with the OS.
+
+MacOS has WKWebKit based on WebKit.
+
+Windows has WebView2 based on Edge/Chromium.
+
+Linux has webkit2gtk based on WebKit.
+
+Tools like Tauri use a simple cross-platform single-header abstraction called webview.h[1].
+
+Electron no longer allows Node.js to be called from renderer processes, all communication with Node.js is done via IPC.
+
+In this case, why do we still need Electron? Why does it have to be tied to V8/Node.js?
+
+The fact that Chromium Embedded Framework exists and is third-party makes me think that Chromium wasn't designed for being embedded, and Electron is filling that gap.
+
+This is elucidated here further here https://trac.webkit.org/wiki/WebKit2:
+
+> it's difficult to reuse their work...if another WebKit-based application or another port wanted to do multiprocess based on Chromium WebKit, it would be necessary to reinvent or cut & paste a great deal of code.
+
+It makes me think that perhaps WebKit was the better choice for embedding. The fact that Node used V8 made Chromium the choice, and that Node being called from the renderer was the original way of working. Maybe because WebKit didn't have a build for Windows was an issue too...
+
+But now that we have Bun, perhaps it's time that WebKit becomes that browser target of choice for desktop apps on macOS.
+
+Unless WebView2 for macOS arrives, which would have a more sane cross-platform story. WebView2 has a very large feature-set though which make take a while to implement for macOS.
+
+[1]: https://github.com/webview/webview/blob/master/webview.h
+
 について (ni tsui te) 关于
 調べ (shi ra be) 调查
 
