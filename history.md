@@ -3,6 +3,102 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Devconf.cz 2023: What's new in QEMU land?
+https://devconfcz2023.sched.com/event/1MYlj/whats-new-in-qemu-land
+
+Devconf.cz 2023: Schedule For Events @ Fakulta informačních technologií Vysokého učení technického v Brně, Božetěchova,
+https://devconfcz2023.sched.com/type/Linux+Distributions+and+Operating+Systems
+
+Devconf.cz 2023: Developing Modern eBPF Applications
+https://devconfcz2023.sched.com/event/1MYku/developing-modern-ebpf-applications
+
+Developing Modern eBPF Applications - DevConf 2023 - Developing Modern eBPF Applications.pdf
+https://static.sched.com/hosted_files/devconfcz2023/7d/Developing%20Modern%20eBPF%20Applications.pdf
+
+Devconf.cz 2023: If you wish to build a Linux image from...
+https://devconfcz2023.sched.com/event/1MYkT/if-you-wish-to-build-a-linux-image-from-scratch
+
+image-definitions-talk/resources at v1 · achilleas-k/image-definitions-talk
+https://github.com/achilleas-k/image-definitions-talk/tree/v1/resources
+
+Devconf.cz 2023: Tracing the Linux networking stack with...
+https://devconfcz2023.sched.com/event/1MYkZ/tracing-the-linux-networking-stack-with-retis
+
+qemu-devconf-2023.pdf
+https://static.sched.com/hosted_files/devconfcz2023/d2/qemu-devconf-2023.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+https://piqnt.com/stage.js/example/game-tictactoe
+https://piqnt.com/stage.js/example/game-tictactoe
+
+中文手册 · piqnt/stage.js Wiki
+https://github.com/piqnt/stage.js/wiki/%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C
+
+iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm
+https://github.com/iced-rs/iced
+
+Code search results
+https://github.com/search?q=repo%3Auutils%2Fcoreutils%20grep&type=code
+
+Andreas Kling – I like computers!
+https://awesomekling.github.io/
+
+Discord
+https://discord.com/invite/29gCcKsXkF
+
+Sponsor @awesomekling on GitHub Sponsors
+https://github.com/sponsors/awesomekling/
+
+taobao/nginx-book: Nginx开发从入门到精通
+https://github.com/taobao/nginx-book
+
+姚伟斌 - 深度探索开放源代码, 网络编程和网络建站
+https://yaoweibin.com/
+
+MySQL · RocksDB · 数据的读取(一) | pagefault
+http://www.pagefault.info/2018/11/13/mysql-%C2%B7-rocksdb-data-reading-1.html
+
+webview/webview: Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+https://github.com/webview/webview
+
+Ask HN: Do we still need Electron? | Hacker News
+https://news.ycombinator.com/item?id=37488397
+
+grumblingdev's comments | Hacker News
+https://news.ycombinator.com/threads?id=grumblingdev
+
+Tomek on Software
+https://tomasz.janczuk.org/about/
+
+Ask HN: Write once, run anywhere front ends failed. Thoughts? | Hacker News
+https://news.ycombinator.com/item?id=37794402
+
+retis-org/retis: Tracing packets in the Linux networking stack & friends
+https://github.com/retis-org/retis
+
+Excalidraw
+https://excalidraw.com/
+
+Issues · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues
+
+stream: fix cloned webstreams not being unref correctly by tsctx · Pull Request #51526 · nodejs/node
+https://github.com/nodejs/node/pull/51526/files#diff-17a94abae302e92146c8298483e5d62a8bc647b1d0140e8c77ecee66077eaf91
+
+https://private-user-images.githubusercontent.com/50089527/307644937-a4366b71-0353-4dff-8e3c-ee7879ac923a.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0NzY4MjUsIm5iZiI6MTcwOTQ3NjUyNSwicGF0aCI6Ii81MDA4OTUyNy8zMDc2NDQ5MzctYTQzNjZiNzEtMDM1My00ZGZmLThlM2MtZWU3ODc5YWM5MjNhLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE0MzUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3Njc0ODc1NmRhMzhlZjc3ZDYwMTI3YWYwYWMzNjRjMjA5ZjJiZGE1ZjExMDU4NTYwZmFlYzY3NDI4OGQyMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ymieO4kdyiWZuadfD7zapyQC_WawpC0LG56Uvxu3NoE
+https://private-user-images.githubusercontent.com/50089527/307644937-a4366b71-0353-4dff-8e3c-ee7879ac923a.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0NzY4MjUsIm5iZiI6MTcwOTQ3NjUyNSwicGF0aCI6Ii81MDA4OTUyNy8zMDc2NDQ5MzctYTQzNjZiNzEtMDM1My00ZGZmLThlM2MtZWU3ODc5YWM5MjNhLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDE0MzUyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3Njc0ODc1NmRhMzhlZjc3ZDYwMTI3YWYwYWMzNjRjMjA5ZjJiZGE1ZjExMDU4NTYwZmFlYzY3NDI4OGQyMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ymieO4kdyiWZuadfD7zapyQC_WawpC0LG56Uvxu3NoE
+
+cinderblock/node-gyp-test: Simple package that can be used as a skeleton or test package for a node-gyp based build
+https://github.com/cinderblock/node-gyp-test
+
+Antoine du Hamel | Curriculum Vitae
+https://aduh95.github.io/#en-US
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Vulkan/examples/triangle/triangle.cpp at master · SaschaWillems/Vulkan
 https://github.com/SaschaWillems/Vulkan/blob/master/examples/triangle/triangle.cpp#L1059
 
