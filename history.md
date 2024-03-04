@@ -3,6 +3,66 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Vulkan/examples/triangle/triangle.cpp at master · SaschaWillems/Vulkan
+https://github.com/SaschaWillems/Vulkan/blob/master/examples/triangle/triangle.cpp#L1059
+
+stream: fix cloned webstreams not being unref correctly by tsctx · Pull Request #51526 · nodejs/node
+https://github.com/nodejs/node/pull/51526/files#diff-59b4a07158ee935b7910c052dcbe6866bde974f48cc50ec0676fde987fd3d150
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+node test debug - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=node+test+debug
+
+Running tests node tools/test.py debug - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Running+tests+node+tools%2Ftest.py+debug
+
+tannal/mozjs: Servo's SpiderMonkey fork
+https://github.com/tannal/mozjs/tree/master
+
+New chat
+https://chat.openai.com/c/66c1ec93-eb01-48c4-902a-5b654aa4b9c7
+
+Welcome to Astro.
+http://localhost:4321/
+
+node/src/api/embed_helpers.cc at 2a33e950937a2645da9679f19bbdfe18f881dfa6 · nodejs/node
+https://github.com/nodejs/node/blob/2a33e950937a2645da9679f19bbdfe18f881dfa6/src/api/embed_helpers.cc#L22
+
+c - Need to load debugging symbols for shared library in GDB - Stack Overflow
+https://stackoverflow.com/questions/30281766/need-to-load-debugging-symbols-for-shared-library-in-gdb
+
+GDBの中級トピック
+https://doss.eidos.ic.i.u-tokyo.ac.jp/html/advanced_gdb.html
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=en&text=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&op=translate
+
+v8/AUTHORS at 8fcd3f809ba5c71f7a29bc6623c1f93a9eac72fe · v8/v8
+https://github.com/v8/v8/blob/8fcd3f809ba5c71f7a29bc6623c1f93a9eac72fe/AUTHORS#L207
+
+Pranay Prakash - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Pranay+Prakash
+
+Debug Symbol Packages - Ubuntu Wiki
+https://wiki.ubuntu.com/Debug%20Symbol%20Packages
+
+debugging - How to install debug symbols for installed packages? - Ask Ubuntu
+https://askubuntu.com/questions/487222/how-to-install-debug-symbols-for-installed-packages
+
+libvulkan_radeon ubuntu debug symbols - Google 検索
+https://www.google.com/search?q=libvulkan_radeon+ubuntu+debug+symbols&client=ubuntu-sn&hs=HTm&sca_esv=55a94ad99e6b3978&channel=fs&ei=l3flZeL9NbKAvr0PjqCX-AM&ved=0ahUKEwiipeWgitqEAxUygK8BHQ7QBT8Q4dUDCBA&uact=5&oq=libvulkan_radeon+ubuntu+debug+symbols&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWxpYnZ1bGthbl9yYWRlb24gdWJ1bnR1IGRlYnVnIHN5bWJvbHMyBRAhGKABMgQQIRgVSJIUUL8EWKUTcAF4AZABAJgBtQKgAZ8SqgEHMC40LjYuMbgBA8gBAPgBAZgCDKAC2hLCAgoQABhHGNYEGLADwgIHECEYChigAZgDAIgGAZAGApIHBzEuMy43LjE&sclient=gws-wiz-serp
+
+libvulkan_radeon.so debug symbol - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libvulkan_radeon.so+debug+symbol
+
+google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJpuKii9qEAxU9hlYBHdhPCukQFnoECBEQAQ&url=https%3A%2F%2Fvulkan.lunarg.com%2Fdoc%2Fview%2F1.3.236.0%2Flinux%2FLoaderDebugging.html&usg=AOvVaw0LkO-IpvxPCtof4c6VMLnr&opi=89978449
+https://vulkan.lunarg.com/doc/view/1.3.236.0/linux/LoaderDebugging.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Mentorship
 https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
 

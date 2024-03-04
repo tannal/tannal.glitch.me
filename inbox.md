@@ -1,10 +1,23 @@
 # 2024-3-4 | W
 
+sudo apt install debian-goodies
+find-dbgsym-packages [core_path|running_pid|binary_path]
+
+sudo apt install lib32stdc++6-12-dbg lib64stdc++6-12-dbg libstdc++6-12-dbg libx32stdc++6-12-dbg libxdmcp6-dbg
+
+sudo apt update && sudo apt install ubuntu-dbgsym-keyring
+
+vulkanExample = new VulkanExample();
+vulkanExample->initVulkan();
+vulkanExample->setupWindow();
+vulkanExample->prepare();
+vulkanExample->renderLoop();
+
 https://github.com/SaschaWillems/Vulkan
 git clone --recursive https://github.com/SaschaWillems/Vulkan.git
 git submodule init
 git submodule update
-cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 ln -sfn ./build/compile_commands.json compile_commands.json 
 
 
