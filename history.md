@@ -1,5 +1,149 @@
 # 2024-3-4
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Typst: A Programmable Markup Language for Typesetting [pdf] | Hacker News
+https://news.ycombinator.com/item?id=34423590
+
+Submissions from tu-berlin.de | Hacker News
+https://news.ycombinator.com/from?site=tu-berlin.de
+
+programmable-markup-language-for-typesetting.pdf
+https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf
+
+ChatGPTについて調べた
+https://www.tkat0.dev/posts/chatgpt/
+
+Google 翻译
+https://translate.google.com/details?sl=auto&tl=en&text=%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%81%A7%E3%80%81%E7%94%9F%E6%88%90AI%E3%81%AE%E4%B8%80%E7%A8%AE%E3%81%A7%E3%81%99%E3%80%82&op=translate
+
+Install Ubuntu debug symbols
+https://chat.openai.com/c/66c1ec93-eb01-48c4-902a-5b654aa4b9c7
+
+Google 翻译
+https://translate.google.com/details?sl=auto&tl=en&text=%E3%81%93%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E3%81%AFGPT-3%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E3%81%AA%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%A6%E3%81%8A%E3%82%8A&op=translate
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+(1 封私信 / 27 条消息) 为什么在电脑上看电子书看不下去，拿着实体书或者Pad，甚至是手机却能耐心的看呢？ - 知乎
+https://www.zhihu.com/question/20400814
+
+xposed github - Google 搜索
+https://www.google.com/search?q=xposed+github&rlz=1C1GCEA_enJP1090JP1090&oq=xposed+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIHCAYQABiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyBwgJEAAYgATSAQg0MjQ3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google
+https://www.google.com/
+
+(3) Search results for query: FrontendMasters
+https://tutflix.org/search/2258183/?q=FrontendMasters&o=date
+
+(3) FrontendMasters - You Don't Need that Library - TutFlix - Free Education Community
+https://tutflix.org/resources/frontendmasters-you-dont-need-that-library.9745/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#unCqC/Lknwf7GPOsF7qyq4mZMoQlYkRptSULMVmjyTQiJhjWytZIVRA1FIUviYKPo/bTXXMkmcVJuX6eeQ==
+
+firt | PWA, Performance, Mobile and Web consultant, trainer, author & speaker | Maximiliano Firtman
+https://firt.mobi/
+
+Talks and Workshops from Maximiliano Firtman
+https://firt.mobi/talks
+
+OS2018spring-projects-g06/mid_report.md at master · riscv-labs/OS2018spring-projects-g06
+https://github.com/riscv-labs/OS2018spring-projects-g06/blob/master/mid_report.md
+
+aclements (Austin Clements) / February 2024
+https://github.com/aclements?tab=overview&from=2024-02-01&to=2024-02-29
+
+404 Not Found
+https://os.cs.tsinghua.edu.cn/oscourse/OS2018spring/projects/g06
+
+开源操作系统研究组
+https://os.cs.tsinghua.edu.cn/
+
+rcore-os/rCore: Rust version of THU uCore OS. Linux compatible.
+https://github.com/rcore-os/rCore
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo%20text-transform&type=code
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+text-transform - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform#specifications
+
+CSS Text Module Level 3
+https://drafts.csswg.org/css-text/#text-transform
+
+Pull requests · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pulls
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+text-transform&type=commits
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=tkent-google
+
+Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+https://layoffs.fyi/
+
+scan line algorithm - Google 搜索
+https://www.google.com/search?q=scan+line+algorithm&rlz=1C1GCEA_enJP1090JP1090&oq=scan+line+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABNIBCDQ1NzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Consider using the remote protocol / Chrome DevTools Protocol · Issue #380 · openwpm/OpenWPM
+https://github.com/openwpm/OpenWPM/issues/380
+
+Web Install API (Cross-Origin) · Issue #323 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/323
+
+MicrosoftEdge/MSEdgeExplainers: Home for explainer documents originated by the Microsoft Edge team
+https://github.com/MicrosoftEdge/MSEdgeExplainers/tree/main
+
+MicrosoftEdge/DevTools: Feedback and discussions about Microsoft Edge Developer Tools
+https://github.com/MicrosoftEdge/DevTools
+
+whitefusionhq/esbuild-plugin-html-modules: An esbuild plugin to load HTML modules
+https://github.com/whitefusionhq/esbuild-plugin-html-modules
+
+annevk (Anne van Kesteren)
+https://github.com/annevk
+
+Web Monetization
+https://webmonetization.org/
+
+jfbrennan/single-file-web-component: Example of a Single File Web Component
+https://github.com/jfbrennan/single-file-web-component
+
+jfbrennan/single-file-web-component: Example of a Single File Web Component
+https://github.com/jfbrennan/single-file-web-component
+
+Poolside
+https://jordanbrennan.hashnode.dev/
+
+User Masoud - Stack Overflow
+https://stackoverflow.com/users/15087089/masoud
+
+openwpm/OpenWPM: A web privacy measurement framework
+https://github.com/openwpm/OpenWPM
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=html%20modules&sort=byPopularity&type=story
+
+Modularizing a static website with HTML Modules and PostHTML | The Official MailPace Blog
+https://blog.mailpace.com/blog/using-html-modules/
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
