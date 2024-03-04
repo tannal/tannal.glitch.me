@@ -1,6 +1,9 @@
 
 # inbox
 
+Fix support for the DevTools protocol in Servo
+
+
 Add support for language-specific `text-transform` behavior
 https://drafts.csswg.org/css-text/#text-transform
 https://github.com/chromium/chromium/commits?author=tkent-google
@@ -13,6 +16,11 @@ https://github.com/servo/servo/commits?author=sagudev CI
 
 $env:RUST_LOG="debug" # Setting environment variable
 
+rust-gdb ./target/debug/servo
+
+./target/debug/servo ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
+r ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
+./mach run -d -- ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
 ./mach run -d -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
 
 r ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
