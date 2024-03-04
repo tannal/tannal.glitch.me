@@ -1,5 +1,25 @@
 # 2024-3-4 | W
 
+edge case
+tipical case
+
+
+で(de)
+
+チャットボット(chattobotto)
+
+れ(re )
+た(ta )
+さ(sa )
+
+によって(ni yotte by)
+は(wa 是)
+
+によって(ni yotte)
+
+た(ta)
+
+
 git clone https://github.com/rcore-os/rCore.git
 git submodule update --init
 rustup component add rust-src llvm-tools-preview

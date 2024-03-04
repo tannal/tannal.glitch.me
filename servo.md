@@ -1,6 +1,12 @@
 
 # inbox
 
+Add support for language-specific `text-transform` behavior
+https://drafts.csswg.org/css-text/#text-transform
+https://github.com/chromium/chromium/commits?author=tkent-google
+https://github.com/search?q=repo%3Achromium%2Fchromium+text-transform&type=commits
+
+
 https://github.com/servo/servo/commits?author=sagudev CI
 
 ./mach run -d -- --debug help
