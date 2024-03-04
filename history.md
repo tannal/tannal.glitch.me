@@ -1,5 +1,68 @@
 # 2024-3-4
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Fix offset mapping from a DOM text to a rendered text with text-trans… · chromium/chromium@9225547
+https://github.com/chromium/chromium/commit/922554733407b74ef842ce294833baf2bf548852
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=tkent-google
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls?q=is%3Apr+is%3Aclosed
+
+lib: make sure close the net server by theanarkh · Pull Request #51929 · nodejs/node
+https://github.com/nodejs/node/pull/51929/files
+
+node/src/node_main_instance.cc at 2a33e950937a2645da9679f19bbdfe18f881dfa6 · nodejs/node
+https://github.com/nodejs/node/blob/2a33e950937a2645da9679f19bbdfe18f881dfa6/src/node_main_instance.cc#L124
+
+Install Ubuntu debug symbols
+https://chat.openai.com/c/66c1ec93-eb01-48c4-902a-5b654aa4b9c7
+
+what about the nodejs js lib, why i need to rebuilt nodejs when i change the lib
+https://www.phind.com/search?cache=rnliooxh9nzvt0jsycpyf8q1
+
+node/doc/contributing/primordials.md at main · nodejs/node
+https://github.com/nodejs/node/blob/main/doc/contributing/primordials.md
+
+firefox connect to debug inspector - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+connect+to+debug+inspector#ip=1
+
+about:debugging - Firefox Developer Tools
+https://udn.realityripple.com/docs/Tools/about:debugging
+
+v8 gyp build - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=v8+gyp+build#ip=1
+
+So you are lying, i said the lib/ directory js file in node source is compiled and into the node executable
+https://www.phind.com/search?cache=bk5b7x4o2nt52lk4kdu4y4jn
+
+How to Create a V8 Heap Snapshot of a Javascript File and Use It in Electron
+http://peterforgacs.github.io/2018/09/12/How-to-create-a-V8-snapshot-of-your-javascript-file/
+
+C++ addons | Node.js v21.6.2 Documentation
+https://nodejs.org/api/addons.html
+
+Unit 1: Divide and Conquer
+https://www.cs.unb.ca/~bremner/teaching/cs3383/lectures/unit01/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mksnapshot&sort=byPopularity&type=story
+
+The Great Features of KDE Workspaces and Applications Part III - KSnapshot - Marty's typepad
+https://martys.typepad.com/blog/2011/11/the-great-features-of-kde-workspaces-and-applications-part-iii-ksnapshot.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=attach%20layout&sort=byPopularity&type=story
+
+apex - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=apex
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

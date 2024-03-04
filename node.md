@@ -1,5 +1,27 @@
 # inbox
 
+ln -sfn ./out/Release/compile_commands.json .
+
+mksnapshot and requireBuiltin lib/internal/bootstrap/realm.js
+
+Addons are dynamically-linked shared objects written in C++. The require() function can load addons as ordinary Node.js modules. Addons provide an interface between JavaScript and C/C++ libraries.
+
+JNI in node binding.gyp
+
+--inspect-brk-node
+
+./configure --ninja --debug && make -j22
+
+./node --inspect-brk=0.0.0.0:9229 test/parallel/test-net-server-close-before-calling-lookup-callback.js
+
+ make -j4 test (UNIX), or vcbuild test (Windows) passes
+tests and/or benchmarks are includede
+documentation is changed or added
+commit message follows commit guidelines
+
+git reset --soft ec6ddcecbfdbd66c96d6f40fda8da5162544093e
+
+
 node threads
 PlatformWorkerThread 5 
 node::WorkerThreadsTaskRunner::DelayedTaskScheduler::Start() 1
