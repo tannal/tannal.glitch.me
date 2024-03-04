@@ -1,5 +1,14 @@
 # 2024-3-4 | W
 
+git clone https://github.com/rcore-os/rCore.git
+git submodule update --init
+rustup component add rust-src llvm-tools-preview
+git clone https://github.com/rcore-os/rCore.git --recursive
+cd rCore/user
+make sfsimg PREBUILT=1 ARCH=x86_64
+cd ../kernel
+make run ARCH=x86_64 LOG=info
+
 sudo apt install debian-goodies
 find-dbgsym-packages [core_path|running_pid|binary_path]
 
