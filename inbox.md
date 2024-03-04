@@ -1,5 +1,15 @@
 # 2024-3-4 | W
 
+https://github.com/SaschaWillems/Vulkan
+git clone --recursive https://github.com/SaschaWillems/Vulkan.git
+git submodule init
+git submodule update
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+ln -sfn ./build/compile_commands.json compile_commands.json 
+
+
+プログラム pur
+
 git clone https://github.com/cinderblock/node-gyp-test.git
 npm install
 npm run build
@@ -150,10 +160,8 @@ sudo crontab -e
 
 Get-Content input | node vj.js 
 
-https://github.com/SaschaWillems/Vulkan
-git clone --recursive https://github.com/SaschaWillems/Vulkan.git
-git submodule init
-git submodule update
+
+
 
 sudo fallocate -l 4G /swapfile
 sudo chmod 600 /swapfile

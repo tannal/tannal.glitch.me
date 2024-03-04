@@ -1,10 +1,25 @@
 # inbox
 
+node threads
+PlatformWorkerThread 5 
+node::WorkerThreadsTaskRunner::DelayedTaskScheduler::Start() 1
+
+gdb ./node
+
+r test/parallel/test-webstreams-clone-unref.js
+
+[js] stream: fix cloned webstreams not being unref correctly
+process doesn't exit
+https://github.com/nodejs/node/blob/2a33e950937a2645da9679f19bbdfe18f881dfa6/src/node_main_instance.cc#L124
+
+git commit --amend
+
+./node test/parallel/test-webstreams-clone-unref.js
 
 tools/test.py test/parallel/test-stream2-transform.js
 
-make -C out BUILDTYPE=Release V=0
-make -C out BUILDTYPE=Debug V=0
+make -C out BUILDTYPE=Release V=0 -j22
+make -C out BUILDTYPE=Debug V=0 -j22
 
 
 
