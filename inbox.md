@@ -1,5 +1,7 @@
 # 2024-3-5 | W
 
+chrome/edge/firefox/safari/webkit
+
 pulseaudio
 
 pacmd list-cards

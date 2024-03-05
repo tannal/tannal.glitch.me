@@ -3,6 +3,174 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+no libdl nor librt on OpenBSD · Issue #5390 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/5390
+
+Pipe IPC Node.js
+https://chat.openai.com/c/12c6abd2-d399-4672-9444-95f5968080ea
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+openbsd&type=code
+
+llvm-project/clang/lib/Frontend/CompilerInvocation.cpp at 662d821d44420566cd0bb649f30d7689562bdb88 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/662d821d44420566cd0bb649f30d7689562bdb88/clang/lib/Frontend/CompilerInvocation.cpp#L2120
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+美联储 降息 reddit - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+%E9%99%8D%E6%81%AF+reddit&newwindow=1&sca_esv=c5f02fd2b2be415a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_LCh_XxqGcNY5fsfgLY9L9lbAYSg%3A1709619454742&ei=_rjmZb_ZLJeo0-kP95CByA8&ved=0ahUKEwi_0LPivNyEAxUX1DQHHXdIAPkQ4dUDCBA&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8+%E9%99%8D%E6%81%AF+reddit&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-e-juiBlOWCqCDpmY3mga8gcmVkZGl0MggQABiABBiiBDIIEAAYgAQYogQyCBAAGIkFGKIEMggQABiABBiiBEjVDVCHA1ixDHABeACQAQCYAb8BoAG6CqoBAzAuObgBA8gBAPgBAZgCBqACigbCAgoQABiABBgMGLADwgIEECMYJ8ICBxAAGIAEGAyYAwCIBgGQBgGSBwMxLjWgB4MT&sclient=gws-wiz-serp#ip=1
+
+192.168.43.62:8080/0004_Part_4--%5BTutFlix.ORG%5D--.mp4
+http://192.168.43.62:8080/0004_Part_4--%5BTutFlix.ORG%5D--.mp4
+
+swc github - Google 搜索
+https://www.google.com.hk/search?q=swc+github&rlz=1C1GCEA_enJP1090JP1090&oq=swc+github&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCAgBEAAYCBgeMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYCBgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjg1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+swc-project/swc: Rust-based platform for the Web
+https://github.com/swc-project/swc
+
+cloudflare pages - Google 搜索
+https://www.google.com.hk/search?q=cloudflare+pages&rlz=1C1GCEA_enJP1090JP1090&oq=cloudf&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIGCAAQRRg5Mg0IARAuGMcBGNEDGIAEMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQkxMDQ2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Get started with Workers & Pages | Tannal2409@gmail.com's Account | Cloudflare
+https://dash.cloudflare.com/58750abf366718c2e2516713a8881344/workers-and-pages/create/pages
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+swc github - Google 搜索
+https://www.google.com.hk/search?q=swc+github&rlz=1C1GCEA_enJP1090JP1090&oq=swc+github&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIJCAEQABgMGIAEMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTk2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Getting Started – SWC
+https://swc.rs/docs/getting-started
+
+acron js - Google 搜索
+https://www.google.com.hk/search?q=acron+js&rlz=1C1GCEA_enJP1090JP1090&oq=acron+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBge0gEIMzE5NmowajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+swc crate - Google 搜索
+https://www.google.com.hk/search?q=swc+crate&rlz=1C1GCEA_enJP1090JP1090&oq=swc+crate&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+swc - crates.io: Rust Package Registry
+https://crates.io/crates/swc
+
+ESM>CDN
+https://esm.sh/#docs
+
+vscode esm code completion - Google 搜索
+https://www.google.com.hk/search?q=vscode+esm+code+completion&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+esm+code+completion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDk3MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fixing ES 6+ Import Autocompletion in Visual Studio Code : Adam Bien's Weblog
+https://www.adam-bien.com/roller/abien/entry/fixing_es_6_import_autocompletion
+
+Fixing ES 6+ Import Autocompletion in Visual Studio Code : Adam Bien's Weblog
+https://www.adam-bien.com/roller/abien/entry/fixing_es_6_import_autocompletion
+
+vite transpile - Google 搜索
+https://www.google.com.hk/search?q=vite+transpile&rlz=1C1GCEA_enJP1090JP1090&oq=vite+transpile&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINTg3N2owajSoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+how to transpile jsx to js - Google 搜索
+https://www.google.com.hk/search?q=how+to+transpile+jsx+to+js&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+transpile+jsx+to+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY4ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jsx%20to%20js&sort=byPopularity&type=story
+
+jsx - Google 搜索
+https://www.google.com.hk/search?q=jsx&rlz=1C1GCEA_enJP1090JP1090&oq=jsx&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQRRgnGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGD0yBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc0ODdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Introducing JSX – React
+https://legacy.reactjs.org/docs/introducing-jsx.html
+
+React Blog – React
+https://react.dev/blog
+
+babel - Google 搜索
+https://www.google.com.hk/search?q=babel&rlz=1C1GCEA_enJP1090JP1090&oq=babel&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMg8IARAuGEMY1AIYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE0MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Babel · Babel
+https://babeljs.io/
+
+babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.
+https://github.com/babel/babel
+
+firtman/coffeemasters-vanilla
+https://github.com/firtman/coffeemasters-vanilla
+
+Coffee Masters
+http://localhost:8080/order
+
+SWC Playground – SWC
+https://swc.rs/playground
+
+nodejs/node-addon-examples: Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
+https://github.com/nodejs/node-addon-examples
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Fix as many clippy problems as possible · Issue #31500 · servo/servo
+https://github.com/servo/servo/issues/31500
+
+`ImageData(buffer, w, opt h), Uint8ClampedArray argument type check` test fails for all browsers · Issue #44929 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/44929
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/semantics/embedded-content/the-canvas-element/imagedata.html?label=master&label=experimental&aligned&q=imagedata.html
+
+ImageData with that has a partial view on an underlying buffer doesn’t structurally clone [40676978] - Chromium
+https://issues.chromium.org/issues/40676978
+
+1056661 - ImageData with that has a partial view on an underlying buffer doesn’t structurally clone - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=1056661&no_tracker_redirect=1
+
+servo/intermittent-tracker: A live database of intermittent test failures based on github's webhook notifications.
+https://github.com/servo/intermittent-tracker
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+eerii (eerii) / Repositories
+https://github.com/eerii?tab=repositories
+
+IyesGames/iyes_progress: Bevy plugin to help track progress and perform state transitions
+https://github.com/IyesGames/iyes_progress
+
+High cpu usage and traffic when using windows named pipes · Issue #51968 · nodejs/node
+https://github.com/nodejs/node/issues/51968
+
+tannal (tannal)
+https://github.com/tannal/
+
+Coffee Masters
+http://localhost:8080/
+
+192.168.43.246:8080/0002_Part_2--%5BTutFlix.ORG%5D--.mp4
+http://192.168.43.246:8080/0002_Part_2--%5BTutFlix.ORG%5D--.mp4
+
+ubuntu 扬声器 没声音 知乎 - Google 搜索
+https://www.google.com/search?q=ubuntu+%E6%89%AC%E5%A3%B0%E5%99%A8+%E6%B2%A1%E5%A3%B0%E9%9F%B3+%E7%9F%A5%E4%B9%8E&sca_esv=c36154a2d2ecdf1d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0890d8aC0YTDHUII5EHn8VreGIEyw%3A1709633690880&ei=mvDmZZWxNaa-vr0P36WlmAU&ved=0ahUKEwiV5tzm8dyEAxUmn68BHd9SCVMQ4dUDCBA&uact=5&oq=ubuntu+%E6%89%AC%E5%A3%B0%E5%99%A8+%E6%B2%A1%E5%A3%B0%E9%9F%B3+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXVidW50dSDmiazlo7Dlmagg5rKh5aOw6Z-zIOefpeS5jjIIEAAYgAQYogQyCBAAGIAEGKIESMUoUIgGWM0ncAR4AZABAJgB8wGgAaUQqgEFMC4zLje4AQPIAQD4AQGYAgegAu4EwgIKEAAYRxjWBBiwA8ICDBAhGAoYoAEYwwQYKsICCBAhGKABGMMEmAMAiAYBkAYCkgcFNC4xLjKgB-UV&sclient=gws-wiz-serp#ip=1
+
+Ubuntu18.04没有声音的解决 - zjhgx - 博客园
+https://www.cnblogs.com/zjhgx/p/9196849.html
+
+【已解决】Ubuntu 23.04 刚安装时声卡有声音，更新后声卡无声音的问题。 - Ubuntu中文论坛
+https://forum.ubuntu.com.cn/viewtopic.php?style=9&t=494088
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 #Outreachy - Servo - Zulip
 https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
 
