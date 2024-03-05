@@ -1,5 +1,31 @@
 # 2024-3-5 | W
 
+sudo systemctl daemon-reload
+sudo systemctl restart yjs.service
+
+systemctl status yjs.service
+sudo journalctl -u yjs
+
+sudo vim /etc/systemd/system/yjs.service
+
+[Unit]
+# 服务名称，可自定义
+Description = docs
+
+[Service]
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/projects/yjs-demos/
+ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.11.1/bin/:$PATH pnpm start'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+
+
+pipx install gdown
+pipx ensurepath
+sudo apt install pipx
 spdlog
 
 Hiragana (ひらがな):
