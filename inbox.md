@@ -1,6 +1,12 @@
 # 2024-3-5 | W
 
-泽野弘之 call of silence
+spdlog
+
+Hiragana (ひらがな):
+Katakana (カタカナ):
+Kanji (漢字):
+
+泽野弘之(sa wa no Hiroyuki) call of silence
 
 bioconductor https://github.com/Bioconductor
 camicroscope https://github.com/camicroscope/caMicroscope
@@ -18,12 +24,12 @@ ocaml https://github.com/ocaml/ocaml
 odk-x https://github.com/odk-x
 openstack https://github.com/openstack
 oppia https://github.com/oppia/oppia
-parsl
+parsl https://github.com/Parsl/parsl
 perl
 qemu
 servo
 systemd
-ushahidi
+ushahidi https://github.com/ushahidi
 wikimedia
 
 

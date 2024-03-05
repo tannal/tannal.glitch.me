@@ -1,5 +1,158 @@
 # 2024-3-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+nurpeiis/LeakGAN-PyTorch: A simple implementation of LeakGAN in PyTorch
+https://github.com/nurpeiis/LeakGAN-PyTorch
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Open Source Projects Summary
+https://chat.openai.com/c/3c2b09a2-cdca-4da7-a8c9-1b7321ad172e
+
+tannal (tannal)
+https://github.com/tannal/
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Parsl/parsl: Parsl - a Python parallel scripting library
+https://github.com/Parsl/parsl
+
+Ushahidi
+https://github.com/ushahidi
+
+Wikimedia
+https://github.com/wikimedia
+
+They/Them Pronouns - 知乎
+https://zhuanlan.zhihu.com/p/351344450
+
+[𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 아늑한 밤, 지브리 피아노 수면음악 3시간 /relaxing, relief, studying, Studio Ghibli - YouTube
+https://www.youtube.com/watch?v=yzZ0HdzHOho
+
+Servo at FOSDEM 2024
+https://blogs.igalia.com/mrego/servo-at-fosdem-2024/
+
+lucshi/Lecture_SIMD: SIMD history, samples, profiling, in depth analysis for SSE.x, AVX, AVX2 and AVX512
+https://github.com/lucshi/Lecture_SIMD
+
+Importing module on filesystem from data URL throws `TypeError: Invalid URL` · Issue #51956 · nodejs/node
+https://github.com/nodejs/node/issues/51956
+
+v8/src/parsing/parser-base.h at ebf24454cf5b0615c4bec327c617120779341dc5 · v8/v8
+https://github.com/v8/v8/blob/ebf24454cf5b0615c4bec327c617120779341dc5/src/parsing/parser-base.h#L859
+
+AST explorer
+https://astexplorer.net/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+deno/runtime/js/13_buffer.js at d9fa2dd5505a773ac2c8eb6ca2a8bbd237aca35d · denoland/deno
+https://github.com/denoland/deno/blob/d9fa2dd5505a773ac2c8eb6ca2a8bbd237aca35d/runtime/js/13_buffer.js#L43
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+base64 url import - Google 搜索
+https://www.google.com/search?q=base64+url+import&sca_esv=c5f02fd2b2be415a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_RDGWvGxoVlwlFUKdarJrANkUIiQ%3A1709604266600&ei=qn3mZbGjJPHl2roP3vCXqAI&ved=0ahUKEwixoJGYhNyEAxXxslYBHV74BSUQ4dUDCBA&uact=5&oq=base64+url+import&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWJhc2U2NCB1cmwgaW1wb3J0MgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSPBbUMoGWP5acAR4AZABAJgB7gOgAdwMqgEHMi01LjAuMbgBA8gBAPgBAZgCCqACjA3CAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYCBgeGArCAggQABgFGB4YD8ICBRAhGKABmAMAiAYBkAYKkgcJNC4wLjUuMC4xoAf0EQ&sclient=gws-wiz-serp
+
+node/lib/internal/url.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/lib/internal/url.js
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+base64+import+language%3AJavaScript&type=code&l=JavaScript&p=2
+
+• Discord | #chinese | Bun
+https://discord.com/channels/876711213126520882/996381628702142485
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+What's the status with "Bun"? : r/node
+https://www.reddit.com/r/node/comments/189prv3/whats_the_status_with_bun/
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Support passing paths to `--watch` flag of `deno test` · Issue #21704 · denoland/deno
+https://github.com/denoland/deno/issues/21704
+
+localhost:8080
+http://localhost:8080/
+
+import() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/multipage/ecmascript-language-expressions.html#sec-import-calls
+
+module load is not a function - Google 搜索
+https://www.google.com/search?q=module+load+is+not+a+function&rlz=1C1GCEA_enJP1090JP1090&oq=module+load+is+not+a+function&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDgzOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[import-attributes] Deprecate 'assert' for dynamic import as well · v8/v8@26fd1df
+https://github.com/v8/v8/commit/26fd1dfa9cd6d56eae8ecfc7a136fd6709fba161
+
+Ultralight - Display Web Content Everywhere
+https://ultralig.ht/
+
+Building on ARM desktop Linux · servo/servo Wiki
+https://github.com/servo/servo/wiki/Building-on-ARM-desktop-Linux
+
+Positron Discontinued | Mykzilla
+https://mykzilla.org/2017/03/08/positron-discontinued/
+
+Embedding Projects | Mykzilla
+https://mykzilla.org/2016/12/23/embedding-projects/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=servo%20firefox&sort=byPopularity&type=story
+
+mmatyas (Mátyás Mustoha)
+https://github.com/mmatyas
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+RangeError when a file reaches around 120K lines of a simple repeating const variable · Issue #51961 · nodejs/node
+https://github.com/nodejs/node/issues/51961
+
+莱斯定理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%8E%B1%E6%96%AF%E5%AE%9A%E7%90%86
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Rice%27s%20theorem&sort=byPopularity&type=story
+
+Rice’s theorem | Busy Beavers!
+https://busy-beavers.tigyog.app/rice
+
+Neil Fraser
+https://neil.fraser.name/
+
+Blockly Glockenspiel
+https://glockenspiel.appspot.com/editor/index.html
+
+is halting problem np complete - Google 搜索
+https://www.google.com/search?q=is+halting+problem+np+complete&rlz=1C1GCEA_enJP1090JP1090&oq=is+halting&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEIOTY0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+TigYog
+https://tigyog.app/
+
+Add support to Buffer.indexOf(value, startOffset, endOffset) · Issue #51966 · nodejs/node
+https://github.com/nodejs/node/issues/51966
+
+`node:worker_threads` and WebAPI `Workers` don't terminate · Issue #22629 · denoland/deno
+https://github.com/denoland/deno/issues/22629
+
+colxi/midi-parser-js: JSON Human readable MIDI sequences. Read from ArrayBuffers, Base64 encoded strings, or FileInput Element in Browsers.
+https://github.com/colxi/midi-parser-js
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
