@@ -1,5 +1,12 @@
 # 2024-3-5 | W
 
+pulseaudio
+
+pacmd list-cards
+
+
+v8 Ulan Degenbaev, Alexei Filippov, Michael Lippautz, and Hannes Payer
+
 sudo systemctl daemon-reload
 sudo systemctl restart yjs.service
 

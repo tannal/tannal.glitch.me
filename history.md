@@ -1,5 +1,56 @@
 # 2024-3-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+Articles tagged "v8" — jayconrod.com
+https://www.jayconrod.com/tags/v8
+
+Pipe IPC Node.js
+https://chat.openai.com/c/12c6abd2-d399-4672-9444-95f5968080ea
+
+src: implement --trace-promises · nodejs/node@1e31a01
+https://github.com/nodejs/node/commit/1e31a01f898a3586faf01480928161f2f5ef965d
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+我在设置pulseaudio遇到严重问题 - 新手园地 - Debian中文论坛
+https://forums.debiancn.org/t/topic/3518/9
+
+hda intel pch ubuntu driver - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=hda+intel+pch+ubuntu+driver#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=v8%20--trace&sort=byPopularity&type=story
+
+gajus (Gajus Kuizinas)
+https://github.com/gajus
+
+Flexible, skills-based hiring platform | Contra
+https://contra.com/careers#account-executive-smb-job-listing
+
+Tracing from JS to the DOM and back again · V8
+https://v8.dev/blog/tracing-js-dom
+
+[runtime] Don't normalize JSGlobalProxy · v8/v8@46be10d
+https://github.com/v8/v8/commit/46be10d1881c7676ae918b43ac0e16acf45994f8
+
+[inspector] Don't allocate argv as v8::Local[] on the C++ heap. · v8/v8@6a4b071
+https://github.com/v8/v8/commit/6a4b0715a064093af7c70a6426d52694d99354ab
+
+GDB マニュアル - Source Path
+https://flex.phys.tohoku.ac.jp/texi/gdb-j/gdb-j_34.html
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

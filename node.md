@@ -1,5 +1,17 @@
 # inbox
 
+MaybeLocal<Value> LoadEnvironment(
+    Environment* env,
+    StartExecutionCallback cb) {
+  env->InitializeLibuv();
+  env->InitializeDiagnostics();
+
+  return StartExecution(env, cb);
+}
+
+src: implement --trace-promises
+https://github.com/nodejs/node/commit/1e31a01f898a3586faf01480928161f2f5ef965d
+
 ln -sfn ./out/Release/compile_commands.json .
 
 mksnapshot and requireBuiltin lib/internal/bootstrap/realm.js
