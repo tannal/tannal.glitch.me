@@ -1,3 +1,149 @@
+# 2024-3-5
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+eerii (eri)
+https://github.com/eerii
+
+clippy: Fix several warnings in component/devtools by eerii · Pull Request #31501 · servo/servo
+https://github.com/servo/servo/pull/31501/files#diff-402b3d3277a123aa2918c958d013c82dfe84a81f11a1a1883a208834298e9be9
+
+Issues · servo/servo
+https://github.com/servo/servo/labels/E-easy
+
+• Discord | #programming-discussion | Zig Programming Language
+https://discord.com/channels/605571803288698900/1023625686327492761/1179160526685736970
+
+Outreachy May Internship - Mentors/Projects/Support Needed - Community - LLVM Discussion Forums
+https://discourse.llvm.org/t/outreachy-may-internship-mentors-projects-support-needed/76201
+
+mentoring/programs/summerofcode/2024.md at main · cncf/mentoring
+https://github.com/cncf/mentoring/blob/main/programs/summerofcode/2024.md#wasmedge
+
+See WasmEdge Community Meeting at CNCF WasmEdgeRuntime Community
+https://community.cncf.io/events/details/cncf-wasmedgeruntime-community-presents-wasmedge-community-meeting-2024-03-05/
+
+超凡蜘蛛侠3 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1Tcoz05Pqig0YPQSeLGt9Wn7whdzZryYPfvJvgXGAMYqDw4&q=%E8%B6%85%E5%87%A1%E8%9C%98%E8%9B%9B%E4%BE%A03&rlz=1C1GCEA_enJP1090JP1090&oq=chaofan&gs_lcrp=EgZjaHJvbWUqBwgEEC4YgAQyBggAEEUYOTIKCAEQLhjUAhiABDIKCAIQLhjUAhiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQABiABNIBCTEwMTE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+[Outreachy] [Due Feb 16th] Community sign-up for May 2024 Outreachy internships
+https://lists.outreachy.org/pipermail/announce/2024-February/000070.html
+
+Getting started with Outreachy
+https://tanny411.github.io/2020/12/01/Getting-Started-With-Outreachy/#initial-application
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=outreachy%20intern&sort=byPopularity&type=story
+
+Bits from Debian - Blog from the Debian Project
+https://bits.debian.org/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+领英: 登录或注册
+https://www.linkedin.com/
+
+[X86] Regenerate constant-pool-sharing.ll with AVX test coverage · llvm/llvm-project@23e1b61
+https://github.com/llvm/llvm-project/commit/23e1b6159ea1a327fa8ee1fbaec5c503bdcdd518
+
+[component model] the least needed validation by dannypsnl · Pull Request #3179 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/pull/3179/files
+
+feat: Enabling LLM fine tuning in the WASI-NN ggml plugin · Issue #3209 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3209
+
+actor model - Google 搜索
+https://www.google.com/search?q=actor+model&rlz=1C1GCEA_enJP1090JP1090&oq=actor+model&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCwgFEAAYChgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjUyMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+My Experience as a Fedora Intern – Fedora Community Blog
+https://communityblog.fedoraproject.org/my-experience-as-a-fedora-intern/
+
+Discussion search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp+fine-tuning&type=discussions
+
+ChatGPT
+https://chat.openai.com/c/3c2b09a2-cdca-4da7-a8c9-1b7321ad172e
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+call of silence - Google 搜索
+https://www.google.com/search?q=call+of+silence&rlz=1C1GCEA_enJP1090JP1090&oq=call+of+silence&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIJCAIQRRg7GIAEMgwIAxAjGCcYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEIMzEyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%B3%BD%E9%87%8E%E5%BC%98%E4%B9%8B&op=translate
+
+Explore Packages - JSR
+https://jsr.io/packages
+
+Bioconductor
+https://github.com/Bioconductor
+
+camicroscope/caMicroscope: Digital pathology image viewer with support for human/machine generated annotations and markups.
+https://github.com/camicroscope/caMicroscope
+
+jaegertracing/jaeger: CNCF Jaeger, a Distributed Tracing Platform
+https://github.com/jaegertracing/jaeger
+
+Ersilia Open Source Initiative
+https://github.com/ersilia-os
+
+fedora · GitLab
+https://gitlab.com/fedora
+
+GNOME · GitLab
+https://gitlab.gnome.org/GNOME
+
+Humanitarian OpenStreetMap Team
+https://github.com/hotosm
+
+MDAnalysis/mdanalysis: MDAnalysis is a Python library to analyze molecular dynamics simulations.
+https://github.com/MDAnalysis/mdanalysis
+
+ModECI
+https://github.com/ModECI
+
+moja global
+https://github.com/moja-global
+
+ocaml/ocaml: The core OCaml system: compilers, runtime system, base libraries
+https://github.com/ocaml/ocaml
+
+ODK-X Tool Suite
+https://github.com/odk-x
+
+Mirrors of opendev.org/openstack
+https://github.com/openstack
+
+oppia/oppia: A free, online learning platform to make quality education accessible for all.
+https://github.com/oppia/oppia
+
+Parsl/parsl: Parsl - a Python parallel scripting library
+https://github.com/Parsl/parsl
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
 # 2024-3-4
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

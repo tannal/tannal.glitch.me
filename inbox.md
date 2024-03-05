@@ -1,3 +1,32 @@
+# 2024-3-5 | W
+
+泽野弘之 call of silence
+
+bioconductor https://github.com/Bioconductor
+camicroscope https://github.com/camicroscope/caMicroscope
+cncf-tracing https://github.com/jaegertracing/jaeger
+ersilia-open-source-initiative https://github.com/ersilia-os
+fedora https://gitlab.com/fedora
+gnome https://gitlab.gnome.org/GNOME
+humanitarian-openstreetmap-team https://github.com/hotosm
+linux-kernel
+llvm
+mdanalysis https://github.com/MDAnalysis/mdanalysis
+modeci https://github.com/ModECI
+moja-global https://github.com/moja-global
+ocaml https://github.com/ocaml/ocaml
+odk-x https://github.com/odk-x
+openstack https://github.com/openstack
+oppia https://github.com/oppia/oppia
+parsl
+perl
+qemu
+servo
+systemd
+ushahidi
+wikimedia
+
+
 # 2024-3-4 | W
 
 edge case
