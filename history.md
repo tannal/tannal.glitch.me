@@ -1,5 +1,164 @@
 # 2024-3-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Servo at FOSDEM 2024
+https://blogs.igalia.com/mrego/servo-at-fosdem-2024/
+
+Servo @ Fosdem 2024
+https://servo.org/slides/2024-02-fosdem/#/7
+
+[meta] embedding · Issue #30593 · servo/servo
+https://github.com/servo/servo/issues/30593
+
+• Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+mattfbacon/typst-bot: A discord bot to render Typst code
+https://github.com/mattfbacon/typst-bot
+
+Math – Typst Documentation
+https://typst.app/docs/reference/math/
+
+Makefile Tutorial By Example
+https://makefiletutorial.com/
+
+linux/Makefile at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/Makefile
+
+the art of computer programming - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwLzSqMGD0ki_JSFVILCpRyE9TSM7PLSgtSS1SKCjKTy9KzM3NzEsHACpPDuk&q=the+art+of+computer+programming&rlz=1C1GCEA_enJP1090JP1090&oq=the+art+&gs_lcrp=EgZjaHJvbWUqDAgCEC4YQxiABBiKBTIGCAAQRRg5Mg4IARBFGCcYOxiABBiKBTIMCAIQLhhDGIAEGIoFMgcIAxAAGIAEMgcIBBAuGIAEMgYIBRBFGD0yBggGEEUYPTIGCAcQRRg80gEIMzMyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Garbage Collection Handbook
+https://gchandbook.org/
+
+Richard Jones' Garbage Collection Bibliography
+https://www.cs.kent.ac.uk/people/staff/rej/gcbib/
+
+Gamma function - Wikipedia
+https://en.wikipedia.org/wiki/Gamma_function
+
+Improper integral - Wikipedia
+https://en.wikipedia.org/wiki/Improper_integral
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gamma%20function&sort=byPopularity&type=story
+
+Courses | Brilliant
+https://brilliant.org/courses/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20Lebesgue%20integral&sort=byPopularity&type=story
+
+Fermat's Library | On a generalization of the definite integral annotated/explained version.
+https://fermatslibrary.com/s/on-a-generalization-of-the-definite-integral
+
+Can't handwrite, any software alternative for math? | Hacker News
+https://news.ycombinator.com/item?id=30240883
+
+connorferster/handcalcs: Python library for converting Python calculations into rendered latex.
+https://github.com/connorferster/handcalcs
+
+阶乘 - Google 搜索
+https://www.google.com/search?q=%E9%98%B6%E4%B9%98&rlz=1C1GCEA_enJP1090JP1090&oq=jiecheng&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIKCAQQLhjUAhiABDIKCAUQLhjUAhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBCDY4MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How does the CPU know where to look for a given physical memory address? - Stack Overflow
+https://stackoverflow.com/questions/36192661/how-does-the-cpu-know-where-to-look-for-a-given-physical-memory-address
+
+Arm Cortex-A76 Core Technical Reference Manual r4p0
+https://developer.arm.com/documentation/100798/0400/etz1477585331163
+
+ARM Cortex-A72 - Wikipedia
+https://en.wikipedia.org/wiki/ARM_Cortex-A72
+
+树莓派3b+ arm cortex - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B+arm+cortex&sca_esv=abd209a31788d9aa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-OmTq0G3TnIJT6VP412eMaUqP3ng%3A1709689570304&ei=4srnZaOWErecseMP05S7uAo&ved=0ahUKEwijj478wd6EAxU3TmwGHVPKDqcQ4dUDCBA&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B+arm+cortex&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-agkeiOk-a0vjNiKyBhcm0gY29ydGV4MgkQIRgKGKABGCoyBxAhGAoYoAEyBxAhGAoYoAFI40ZQ2QRY30VwBHgBkAEAmAHfAaABmxCqAQYwLjEyLjG4AQPIAQD4AQGYAhGgAsoQwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIEEAAYHsICBRAhGKABmAMAiAYBkAYJkgcGNC4xMi4xoAedHw&sclient=gws-wiz-serp
+
+ChatGPT
+https://chat.openai.com/c/dc15f4ea-f1ee-4a2c-b18f-03d495deb966
+
+Blog | Neugebauer.cc
+https://neugebauer.cc/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+ChatGPT 官方推出分享、导入对话内容功能 - 知乎
+https://zhuanlan.zhihu.com/p/632337133
+
+SSH隧道连接MySQL
+https://chat.openai.com/share/34a90591-e198-4492-9279-f7aeb976429e
+
+ChatGPT 官方推出分享、导入对话内容功能 - 知乎
+https://zhuanlan.zhihu.com/p/632337133
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fchat.openai.com%2Fshare&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Algolia
+https://dashboard.algolia.com/signup/personal_information?utm_nooverride=1
+
+Full Text Search | Supabase Docs
+https://supabase.com/docs/guides/database/full-text-search
+
+PostgreSQL: Documentation: 12: 9.13. Text Search Functions and Operators
+https://www.postgresql.org/docs/12/functions-textsearch.html
+
+搜索引擎都在用的倒排索引——原理与实现 - 知乎
+https://zhuanlan.zhihu.com/p/324378430
+
+graphql full text search - Google 搜索
+https://www.google.com/search?q=graphql+full+text+search&rlz=1C1GCEA_enJP1090JP1090&oq=graphql+full+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDU3NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+第三方登录之 GitHub OAuth 的接入与使用 - 掘金
+https://juejin.cn/post/7128318034166415397
+
+GitHub OAuth example github - Google 搜索
+https://www.google.com/search?q=GitHub+OAuth+example+github&rlz=1C1GCEA_enJP1090JP1090&oq=GitHub+OAuth+example+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGBMYgAQyCggCEAAYCBgTGB4yCggDEAAYCBgTGB4yCggEEAAYCBgTGB4yCggFEAAYCBgTGB4yBggGEEUYQNIBCDk4NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+jsdom/jsdom: A JavaScript implementation of various web standards, for use with Node.js
+https://github.com/jsdom/jsdom
+
+chrome devtools headless - Google 搜索
+https://www.google.com/search?q=chrome+devtools+headless&rlz=1C1GCEA_enJP1090JP1090&oq=chrome+devtools+headless&gs_lcrp=EgZjaHJvbWUyCggAEEUYExgeGDkyCQgBEAAYExiABDIICAIQABgTGB4yCggDEAAYCBgTGB4yCggEEAAYCBgTGB4yCggFEAAYCBgTGB4yCggGEAAYCBgTGB4yCggHEAAYCBgTGB4yCggIEAAYCBgTGB4yCggJEAAYCBgTGB7SAQg3NzczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+sql - How to set auto increment primary key in PostgreSQL? - Stack Overflow
+https://stackoverflow.com/questions/7718585/how-to-set-auto-increment-primary-key-in-postgresql
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=american%20tiktok&sort=byPopularity&type=story
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+eerii (eri)
+https://github.com/eerii
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+taskcluster firefox - Google 搜索
+https://www.google.com/search?q=taskcluster+firefox&rlz=1C1GCEA_enJP1090JP1090&oq=taskcluster+firefox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDE4MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Orchestrators | Firefox Translations Training
+https://mozilla.github.io/firefox-translations-training/orchestrators.html
+
+Taskcluster - MozillaWiki
+https://wiki.mozilla.org/Taskcluster
+
+taskcluster/taskcluster-rfcs: Taskcluster team planning
+https://github.com/taskcluster/taskcluster-rfcs/
+
+Codetribute
+https://codetribute.netlify.app/projects/taskcluster
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

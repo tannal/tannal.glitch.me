@@ -1,5 +1,55 @@
 # 2024-3-6 | W
 
+Every one says no way until you actually did it.
+
+{
+  content: [
+    {
+      query: '',
+      answer: '',
+    },
+    {
+      query: '',
+      answer: '',
+    },
+  ]
+}
+
+CREATE TABLE chat (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  query TEXT,
+  answer TEXT
+);
+
+
+interface Content {
+  query: string;
+  answer: string;
+}
+
+interface DataType {
+  content: Content[];
+}
+
+
+{
+  content: [
+    {
+      query: '',
+      answer: '',
+    },
+    {
+      query: '',
+      answer: '',
+    },
+  ]
+}
+
+SSH端口转发（也称为SSH隧道）
+ssh -L 3307:localhost:3306 user@example.com
+
+AppleTalk Ftp nfs samba sshftp webdav
+
 Ceph GFS HDFS Swift Lustre
 
 我現在日常使用 AI 的工具選用原則是：
