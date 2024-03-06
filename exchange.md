@@ -50,6 +50,14 @@ SELECT * FROM chat
 WHERE query LIKE '%the%'
 OR answer LIKE '%the%';
 
+SELECT * FROM chat
+WHERE query LIKE '%How%'
+OR answer LIKE '%How%';
+
+
+SELECT * FROM chat
+WHERE query ILIKE '%postgresql%'
+OR answer ILIKE '%postgresql%';
 
 INSERT INTO chat (query, answer) VALUES
 ('How to write unit tests in JavaScript?', 'When writing unit tests in JavaScript, one can use frameworks like Jest or Mocha...'),
@@ -58,6 +66,9 @@ INSERT INTO chat (query, answer) VALUES
 ('How to improve SQL query performance?', 'To improve SQL query performance, one can use indexing, avoid SELECT *, and write efficient JOINs...'),
 ('Ways to prevent XSS attacks?', 'Preventing XSS attacks can be achieved by sanitizing user input, using Content Security Policy (CSP), and validating on the server-side...');
 
+
+sudo tcpdump -i any tcp port 8080
+\password tannal
 
 ```go
 
@@ -74,7 +85,7 @@ import (
 )
 
 const (
-    dbConnectionString = "your_connection_string"
+    dbConnectionString = "postgres://tannal:password@localhost:5432/exchange?sslmode=disable"
 )
 
 type RequestData struct {
