@@ -1,4 +1,20 @@
+# 2024-3-6 | W
+
+You know nothing, how can you think?
+
+Meta Facebook Instagram Messenger Oculus Threads
+
+special meanings
+
+
 # 2024-3-5 | W
+
+
+https://www.zhihu.com/people/jamesaslan/posts
+
+https://mp.weixin.qq.com/s/W4Dc-3ESWB9k6Z7nLsf8ag
+
+东海集团
 
 chrome/edge/firefox/safari/webkit
 

@@ -1,3 +1,167 @@
+# 2024-3-6
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Makefile Tutorial By Example
+https://makefiletutorial.com/
+
+• Discord | #everyone🥳 | WasmEdge
+https://discord.com/channels/846973236280950824/846973236280950827
+
+WasmEdge Community Meeting #28 Llava Demo, WasmEdge on Civo Talos K8s, GSoC - YouTube
+https://www.youtube.com/watch?v=7p4mY290oQ8
+
+Perplexity Labs
+https://labs.perplexity.ai/
+
+中国 2024 两会 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+2024+%E4%B8%A4%E4%BC%9A&sca_esv=b679d9581e4a3aee&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08CA5OpXW03_DgAI3sZk7BYfkVxlg%3A1709642298708&ei=OhLnZZLsKqXU1e8PjIylmAE&ved=0ahUKEwiS8aDvkd2EAxUlavUHHQxGCRMQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+2024+%E4%B8%A4%E4%BC%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuS4reWbvSAyMDI0IOS4pOS8mjIHEAAYgAQYDEiIYFAAWNlecAF4AJABAJgB-gGgAb8eqgEGMC4xNi40uAEDyAEA-AEBmAIUoAKIHcICChAjGIAEGIoFGCfCAgoQABiABBiKBRhDwgIQEC4YgAQYigUYQxjHARjRA8ICBRAAGIAEwgIFEC4YgATCAggQLhiABBjUAsICCxAuGIAEGMcBGNEDwgIHEAAYgAQYCsICBxAuGIAEGArCAgQQIxgnwgIJECEYChigARgqwgIFECEYoAGYAwCSBwYxLjEzLjagB9xU&sclient=gws-wiz-serp
+
+中国两会2024：北京能否为陷入困境的经济找到出路 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-68460996
+
+中国两会2024：GDP增速目标仍维持5% 分析称实现该目标更具挑战性 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-68476307
+
+焦虑的Z世代正在重塑“中国梦” - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67881163
+
+台湾成为全球半导体业超级巨星的半世纪历程与秘诀 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-67740951
+
+#general > outreachy discussion chat? - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/outreachy.20discussion.20chat.3F
+
+Coffee Masters
+http://localhost:8080/order
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+v2ex - Google 搜索
+https://www.google.com.hk/search?q=v2ex&rlz=1C1GCEA_enJP1090JP1090&oq=v2ex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+V2EX
+https://www.v2ex.com/
+
+v8 之父新作 Toit - V2EX
+https://www.v2ex.com/t/641564
+
+ChatGPT
+https://chat.openai.com/c/1347e901-c892-4a68-8ffd-5f597fac3ba0
+
+linux - Physical Address of a variable in processes - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/445173/physical-address-of-a-variable-in-processes
+
+User wrosecrans - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/users/2413/wrosecrans
+
+cortex 性能天梯图 - Google 搜索
+https://www.google.com/search?q=cortex+%E6%80%A7%E8%83%BD%E5%A4%A9%E6%A2%AF%E5%9B%BE&sca_esv=47a159505e5d460b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-OLYaqjzqs8xcnYFGWJITyIAyLBA%3A1709650264748&ei=WDHnZfW_KLOHjuMPw-qsqAQ&ved=0ahUKEwj1y9zFr92EAxWzg2MGHUM1C0UQ4dUDCBA&uact=5&oq=cortex+%E6%80%A7%E8%83%BD%E5%A4%A9%E6%A2%AF%E5%9B%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmNvcnRleCDmgKfog73lpKnmoq_lm75Ip64BUK4DWIKtAXACeAGQAQSYAbsCoAGsLqoBCDAuMzAuNC4xuAEDyAEA-AEBmAIXoAL8G6gCCsICChAAGEcY1gQYsAPCAgoQIxiABBiKBRgnwgIFEAAYgATCAggQABiABBjLAcICBxAjGOoCGCfCAhYQLhiABBiKBRhDGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA8ICChAuGIAEGIoFGEPCAhAQABiABBiKBRhDGLEDGIMBwgIEECMYJ8ICChAAGIAEGIoFGEPCAhQQLhiABBiKBRixAxiDARjHARjRA8ICCxAuGIAEGMcBGK8BwgIOEAAYgAQYigUYsQMYgwHCAg4QLhiABBiKBRixAxiDAcICCxAuGIAEGLEDGIMBwgIIEC4YgAQYsQPCAggQABiABBixA8ICDhAuGIAEGMsBGMcBGNEDwgIIEC4YgAQYywHCAgoQABiABBjLARgKwgIHEAAYgAQYDMICBxAAGIAEGArCAggQABiJBRiiBMICCBAAGIAEGKIEwgIFECEYoAGYAwSIBgGQBgqSBwgyLjE4LjIuMaAHgJkB&sclient=gws-wiz-serp#ip=1
+
+CPU性能天梯表_MaLu.me
+http://cdn.malu.me/cpu/
+
+Arm Product Filter – Arm®
+https://www.arm.com/product-filter?families=cortex-a&showall=true
+
+Cortex-A720 知乎 - Google 搜索
+https://www.google.com/search?q=Cortex-A720+%E7%9F%A5%E4%B9%8E&sca_esv=47a159505e5d460b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08GCzNHig-paxhITcyndAVmPjVTyw%3A1709650825445&ei=iTPnZdLfGrH3seMP9tePmAI&ved=0ahUKEwiSyI_Rsd2EAxWxe2wGHfbrAyMQ4dUDCBA&uact=5&oq=Cortex-A720+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkNvcnRleC1BNzIwIOefpeS5jjIFECEYoAFIjQ5Q4QVYkQ1wAXgBkAEAmAHLAaABrgeqAQUwLjUuMbgBA8gBAPgBAZgCBaAC9wTCAgoQABhHGNYEGLADmAMAiAYBkAYKkgcFMS4zLjGgB6gH&sclient=gws-wiz-serp#ip=1
+
+CPU 优化技术-NEON 自动向量化 - 极术社区 - 连接开发者与智能计算生态
+https://aijishu.com/a/1060000000276738
+
+极术社区 - 连接开发者与智能计算生态
+https://aijishu.com/
+
+编译入门那些事儿（4）：MLIR概述 - 极术社区 - 连接开发者与智能计算生态
+https://aijishu.com/a/1060000000452940
+
+YOLOv9开源 | 架构图&模块改进&正负样本匹配&损失函数解读，5分钟即可理解YOLOv9 - 极术社区 - 连接开发者与智能计算生态
+https://aijishu.com/a/1060000000452122
+
+编译入门那些事儿（4）：MLIR概述
+https://mp.weixin.qq.com/s/W4Dc-3ESWB9k6Z7nLsf8ag
+
+树莓派5、6、7、8都不会有RISC-V版本|内存|risc|arm|操作系统_网易订阅
+https://www.163.com/dy/article/H1T7KL8H0511CUMI.html
+
+开源中国点点滴滴 - OSCHINA - 中文开源技术交流社区
+http://oschina.cn/
+
+Eben Upton - Google 搜索
+https://www.google.com/search?q=Eben+Upton&rlz=1C1GCEA_enJP1090JP1090&oq=Eben+Upton&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+[WIP] module: support require()ing synchronous ESM graphs by joyeecheung · Pull Request #51977 · nodejs/node
+https://github.com/nodejs/node/pull/51977/files
+
+node.js - How do you find the stack trace of a JavaScript Promise that never resolves? - Stack Overflow
+https://stackoverflow.com/questions/78105189/how-do-you-find-the-stack-trace-of-a-javascript-promise-that-never-resolves
+
+Stalled top-level promise detection for TLA · Issue #42868 · nodejs/node
+https://github.com/nodejs/node/issues/42868
+
+Issues · devsnek/esvu
+https://github.com/devsnek/esvu/issues?q=is%3Aissue+is%3Aopen+arm
+
+engine262
+https://engine262.js.org/#code=A4JwlgdgLgFA5ACQKYBsUHsA0ACA6ukFAEwEI4BKAbgChaBnJKASWiRADd2BDFGGc7AF4AfNgDe1AL7kgA%3D%3D&mode=module&features=
+
+OpenTelemetry - CNCF
+https://github.com/open-telemetry
+
+OpenTelemetry - CNCF
+https://github.com/open-telemetry
+
+Stalled top-level promise detection for TLA · Issue #42868 · nodejs/node
+https://github.com/nodejs/node/issues/42868#issuecomment-1109802385
+
+[api] add v8::Module::GetStalledTopLevelAwaitMessage() (2341765) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/2341765
+
+[snapshot] support context embedder data serialization · v8/v8@b639938
+https://github.com/v8/v8/commit/b639938e99fa6b5ffa9c859b18c72a251fd56942
+
+[snapshot] support context embedder data serialization (5074252) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5074252
+
+build,tools: make addons tests work with GN by zcbenz · Pull Request #50737 · nodejs/node
+https://github.com/nodejs/node/pull/50737
+
+[api] add v8::Module::GetStalledTopLevelAwaitMessage() · v8/v8@dd6d96c
+https://github.com/v8/v8/commit/dd6d96c8cd560c1b17e32005ee0218bd8917f9bb
+
+node/doc/contributing/maintaining/maintaining-V8.md at d96606d9aab35baf9e5c77cf9312145c3ae6086b · nodejs/node
+https://github.com/nodejs/node/blob/d96606d9aab35baf9e5c77cf9312145c3ae6086b/doc/contributing/maintaining/maintaining-V8.md?plain=1#L75
+
+node/Makefile at main · tannal/node
+https://github.com/tannal/node/blob/main/Makefile
+
+192.168.43.246
+http://192.168.43.246:3000/
+
+utc 时间 - Google 搜索
+https://www.google.com/search?q=utc+%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc+%E6%97%B6%E9%97%B4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABgMGIMBGLEDGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyCQgJEAAYDBiABNIBCDE5ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+linux-kernel-labs
+https://github.com/linux-kernel-labs
+
+Linux Kernel Selftests_linux selftest 编译-CSDN博客
+https://blog.csdn.net/qq_22418329/article/details/109514029
+
+linux/Makefile at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/Makefile
+
+tannal (tannal)
+https://github.com/tannal/
+
+make - Bugs: bug #61463, private does not suppress... [Savannah]
+https://savannah.gnu.org/bugs/?61463
+
 # 2024-3-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
@@ -2690,7 +2854,8 @@ https://github.com/icecc/icecream
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=icecc&sort=byPopularity&type=story
 
-Makefile Tutorial By Example
+
+ Tutorial By Example
 https://makefiletutorial.com/
 
 More about Chase

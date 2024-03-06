@@ -1,5 +1,15 @@
 # inbox
 
+SourceTextModule->GetStalledTopLevelAwaitMessage
+
+v8 module
+
+src/node_contextify.cc
+if (ProcessEmitWarningSync(env,
+                            "(To load an ES module, set \"type\": "
+                            "\"module\" in the package.json "
+                            "or use the .mjs extension.)")
+
 MaybeLocal<Value> LoadEnvironment(
     Environment* env,
     StartExecutionCallback cb) {
