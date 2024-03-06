@@ -1,5 +1,12 @@
 # 2024-3-6 | W
 
+
+set debuginfod enabled on
+
+sudo systemctl enable yjs.service
+
+
+
 Every one says no way until you actually did it.
 
 {
