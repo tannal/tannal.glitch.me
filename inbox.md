@@ -88,6 +88,16 @@ special meanings
 
 # 2024-3-5 | W
 
+2004 2006 chrome
+
+Procedure Linkage Table
+
+https://walkingcat.github.io/ch9-index/
+
+lars bak & Dart v8 toit
+
+https://www.google.com/about/careers/applications/jobs/results/?q=chrome%20-os%20-sales%20-manager%20-customer%20-relations%20-writer
+
 
 https://www.zhihu.com/people/jamesaslan/posts
 

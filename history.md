@@ -1,5 +1,50 @@
 # 2024-3-6
 
+inbox.md (Incoming Changes ↔ Current Changes) (inbox.md) - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+Understanding V8’s Bytecode. V8 is Google’s open source JavaScript… | by Franziska Hinkelmann | DailyJS | Medium
+https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
+
+linux - v8 no local variables in debugger - Stack Overflow
+https://stackoverflow.com/questions/70199718/v8-no-local-variables-in-debugger
+
+https://stackoverflow.com/users/6036428/jmrk?tab=topactivity
+https://stackoverflow.com/users/6036428/jmrk?tab=topactivity
+
+clang++, ld: Undefined Symbols while running V8 sample application in MacOS 14.3 - Stack Overflow
+https://stackoverflow.com/questions/78010940/clang-ld-undefined-symbols-while-running-v8-sample-application-in-macos-14-3/78015945#78015945
+
+Play with V8 - build, debug and basics
+https://jackfromeast.site/2023-03/play-with-v8-build-debug-basics.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=lars%20bak&sort=byPopularity&type=story
+
+Keynote: Turning IoT Devices into Robust and Safe Computers (‹Programming› 2019 - Keynotes) - ‹Programming› 2019
+https://2019.programming-conference.org/details/programming-2019-Keynotes/2/Keynote-Turning-IoT-Devices-into-Robust-and-Safe-Computers
+
+Ask HN: How hard is it to get a job working on Chromium | Hacker News
+https://news.ycombinator.com/item?id=31857212
+
+Channel 9 Index
+https://walkingcat.github.io/ch9-index/
+
+How WSL accesses Linux files from Windows | Going Deep | Channel 9
+https://web.archive.org/web/20201112005354/https://channel9.msdn.com/Shows/Going+Deep/How-WSL-accesses-Linux-files-from-Windows
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=openai%20nextjs&sort=byPopularity&type=story
+
 exchange.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
