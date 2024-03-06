@@ -1,5 +1,25 @@
 # 2024-3-6 | W
 
+我現在日常使用 AI 的工具選用原則是：
+需要寫作，一律使用 Gemini
+需要事實，一律選擇 Perplexity 或 Devv
+需要程式，一律選擇 GitHub Copilot 或 ChatGPT 的自製 GPTs
+需要產圖，一律選擇 DALL-E 或 Microsoft Designer
+需要字幕，一律選擇 Whisper (本機) 或 WhisperX
+你也有自己愛用的 AI 工具組合嗎？歡迎留言分享交流！
+
+writing code, reading code, reviewing code, debugging, testing, standing around a whiteboard talking code and design, writing design docs, reviewing design docs
+
+How can you expect to make successful changes to a system you don’t understand?
+
+Sticking to your budget requires saying no. You’re a capable person, and a lot of people know that, so lots of folks are going to ask for your help with stuff. Sometimes, you’re going to need to guide them elsewhere. Or just say no outright. That doesn’t feel good, but if you always say yes to stuff that isn’t that important you can’t be surprised when you don’t get important stuff done.
+
+what I need to do to make my teams and projects successful
+
+the way I balance between the short- and long-term, and what I want to get done over time
+
+one-on-one.
+
 You know nothing, how can you think?
 
 Meta Facebook Instagram Messenger Oculus Threads
