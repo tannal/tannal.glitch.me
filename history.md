@@ -1,5 +1,74 @@
 # 2024-3-6
 
+exchange.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rcore-os/rCore: Rust version of THU uCore OS. Linux compatible.
+https://github.com/rcore-os/rCore
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rcore-os%20&sort=byPopularity&type=story
+
+Red Hat OpenShift enterprise Kubernetes container platform
+https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=devtools%20protocol&sort=byPopularity&type=story
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Log - refs/heads/main - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+log/refs/heads/main/third_party/blink/public/devtools_protocol/browser_protocol.pdl
+
+ca780c4b0540b72f05e59d893e33c130f5ab54d6 - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/ca780c4b0540b72f05e59d893e33c130f5ab54d6
+
+Diff - ca780c4b0540b72f05e59d893e33c130f5ab54d6^! - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/ca780c4b0540b72f05e59d893e33c130f5ab54d6%5E%21/#F5
+
+Profile: pabs3 | Hacker News
+https://news.ycombinator.com/user?id=pabs3
+
+Hyujun igalia - Google 検索
+https://www.google.com/search?q=Hyujun+igalia&client=ubuntu-sn&hs=qRV&sca_esv=04037f73e2d082db&channel=fs&ei=muTmZdHiD9OLvr0PoNawyA8&ved=0ahUKEwjRl8ut5tyEAxXTha8BHSArDPkQ4dUDCBA&uact=5&oq=Hyujun+igalia&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUh5dWp1biBpZ2FsaWEyBxAhGAoYoAFIyBlQmQpY0BhwA3gBkAEAmAHhAaABjQuqAQUwLjMuNLgBA8gBAPgBAZgCCqAC0AvCAgoQABhHGNYEGLADwgIHEAAYgAQYDcICBhAAGB4YDcICCBAAGB4YDRgKwgIIEAAYBRgeGA3CAgkQABiABBgNGBPCAggQABgeGA0YE8ICCBAAGIAEGKIEmAMA4gMFEgExIECIBgGQBgGSBwUzLjIuNaAHpg8&sclient=gws-wiz-serp
+
+south korea - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=south+korea
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+apt - Automate Updates and Upgrade? - Ask Ubuntu
+https://askubuntu.com/questions/1331557/automate-updates-and-upgrade
+
+Articles
+https://bonedaddy.net/pabs3/articles/
+
+north korea - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=north+korea
+
+cmake - Doxygen - Could NOT find FLEX (missing: FLEX_EXECUTABLE) - Stack Overflow
+https://stackoverflow.com/questions/50986047/doxygen-could-not-find-flex-missing-flex-executable
+
+after build, how to install? · Issue #1171 · ninja-build/ninja
+https://github.com/ninja-build/ninja/issues/1171
+
+psql list databases - Google Search
+https://www.google.com/search?q=psql+list+databases&client=ubuntu-sn&hs=G1n&sca_esv=4c62ad2466e8c9fa&channel=fs&ei=dvvnZaPfJOHNseMP1caZ0A8&oq=psql+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXBzcWwgKgIIADILEAAYgAQYigUYkQIyCxAAGIAEGIoFGJECMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAESJUlUOUHWOMLcAF4AZABAJgBrAGgAYkGqgEDMC41uAEDyAEA-AEBmAIGoALeBsICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgIMEAAYgAQYigUYQxgKwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARjRA5gDAIgGAZAGCpIHAzEuNaAHwBs&sclient=gws-wiz-serp
+
+postgresql set id auto increment - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=postgresql+set+id+auto+increment
+
+sql - Reset auto increment counter in postgres - Stack Overflow
+https://stackoverflow.com/questions/5342440/reset-auto-increment-counter-in-postgres
+
+sql - How to set auto increment primary key in PostgreSQL? - Stack Overflow
+https://stackoverflow.com/questions/7718585/how-to-set-auto-increment-primary-key-in-postgresql
+
+delete table in postgres - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=delete+table+in+postgres
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
