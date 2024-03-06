@@ -1,5 +1,7 @@
 # 2024-3-6 | W
 
+Ceph GFS HDFS Swift Lustre
+
 我現在日常使用 AI 的工具選用原則是：
 需要寫作，一律使用 Gemini
 需要事實，一律選擇 Perplexity 或 Devv

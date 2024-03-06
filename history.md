@@ -3,6 +3,66 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Comparison of distributed file systems - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_distributed_file_systems
+
+Advent of Distributed Systems
+https://aods.cryingpotato.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%20cs%2015&sort=byPopularity&type=story
+
+15-440: Distributed Systems Syllabus
+https://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html
+
+Operating a Large, Distributed System in a Reliable Way: Practices I Learned - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
+
+Ray: A Distributed System for AI – The Berkeley Artificial Intelligence Research Blog
+https://bair.berkeley.edu/blog/2018/01/09/ray/
+
+Robert Nishihara
+https://www.robertnishihara.com/
+
+Berkeley Artificial Intelligence Research Lab
+https://bair.berkeley.edu/
+
+Twisting Lids Off with Two Hands
+https://toruowo.github.io/bimanual-twist/
+
+Canonical Factors for Hybrid Neural Fields
+https://brentyi.github.io/tilted/
+
+Careers | PingCAP
+https://www.pingcap.com/careers/
+
+分布式存储 - Google 搜索
+https://www.google.com/search?q=%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8&oq=%E5%88%86%E5%B8%83%E5%BC%8F%E5%AD%98%E5%82%A8&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQwMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+五大主流分布式存储技术对比分析_SandStone杉岩数据
+https://www.szsandstone.com/technical/article/112.html
+
+Code search results
+https://github.com/search?q=repo%3Aceph%2Fceph+lamport+clock&type=code
+
+Intro to Ceph — Ceph Documentation
+https://docs.ceph.com/en/latest/start/intro/
+
+cephadm 安装部署 ceph 集群 - 知乎
+https://zhuanlan.zhihu.com/p/598832268
+
+Ceph Tutorials - Install Ceph Cluster from Scratch - YouTube
+https://www.youtube.com/watch?v=mgC488kLFuk
+
+14-736 Home Page
+https://www.andrew.cmu.edu/course/14-736-s20/index/lecture_index.html
+
+sylvinus/fsdfs: f***ing simple distributed file system / Old toy project, do not use :)
+https://github.com/sylvinus/fsdfs
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 百度一下，你就知道
 https://www.baidu.com/
 
