@@ -1,5 +1,178 @@
 # 2024-3-7 | W
 
+http.HandleFunc("/share", shareHandler(db))
+
+
+func shareHandler(db *sql.DB) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		// Set CORS headers for the preflight request
+		if r.Method == http.MethodOptions {
+			w.Header().Set("Access-Control-Allow-Origin", "*")
+			w.Header().Set("Access-Control-Allow-Methods", "GET")
+			w.WriteHeader(http.StatusOK)
+			return
+		}
+
+		// Set CORS headers for the main request
+		w.Header().Set("Access-Control-Allow-Origin", "*")
+
+		// get the share url from the request
+		shareURL := r.URL.Query().Get("url")
+
+		// Get the data from the OpenAI chat page
+		client := &http.Client{}
+		req, err := http.NewRequest("GET", shareURL, nil)
+		if err != nil {
+			log.Fatal(err)
+		}
+		resp, err := client.Do(req)
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer resp.Body.Close()
+		body, err := io.ReadAll(resp.Body)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		html := string(body)
+
+		start := strings.LastIndex(html, ">{")
+
+		end := strings.LastIndex(html, "}</script>")
+
+		data := html[start+1 : end+1]
+
+		var response Response
+		err = json.Unmarshal([]byte(data), &response)
+		if err != nil {
+			panic(err)
+		}
+
+		var query string
+		var answer string
+
+		for i, linearConversation := range response.Props.PageProps.ServerResponse.Data.LinearConversation {
+			for _, part := range response.Props.PageProps.ServerResponse.Data.Mapping[linearConversation.Id].Message.Content.Parts {
+				if i%2 == 0 {
+					query = part
+				} else {
+					answer = part
+					fmt.Println(query, answer)
+				}
+			}
+		}
+
+		// Insert the data into the database
+		if err := insertData(db, query, answer); err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+
+		// Send the data as the HTTP response
+		w.Header().Set("Content-Type", "application/json")
+		json.NewEncoder(w).Encode(data)
+	}
+}
+
+package main
+
+type Response struct {
+	Props Props `json:"props"`
+}
+
+type Props struct {
+	PageProps PageProps `json:"pageProps"`
+}
+
+type PageProps struct {
+	ServerPrimedAllowBrowserStorageValue bool           `json:"serverPrimedAllowBrowserStorageValue"`
+	IsStorageComplianceEnabled           bool           `json:"isStorageComplianceEnabled"`
+	SharedConversationId                 string         `json:"sharedConversationId"`
+	ServerResponse                       ServerResponse `json:"serverResponse"`
+}
+
+type ServerResponse struct {
+	Type string `json:"type"`
+	Data Data   `json:"data"`
+}
+type Data struct {
+	Title                   string               `json:"title"`
+	CreateTime              float64              `json:"create_time"`
+	UpdateTime              float64              `json:"update_time"`
+	Mapping                 map[string]Mapping   `json:"mapping"`
+	ModerationResults       []interface{}        `json:"moderation_results"`
+	CurrentNode             string               `json:"current_node"`
+	ConversationId          string               `json:"conversation_id"`
+	IsArchived              bool                 `json:"is_archived"`
+	SafeUrls                []interface{}        `json:"safe_urls"`
+	IsPublic                bool                 `json:"is_public"`
+	LinearConversation      []LinearConversation `json:"linear_conversation"`
+	HasUserEditableContext  bool                 `json:"has_user_editable_context"`
+	ContinueConversationUrl string               `json:"continue_conversation_url"`
+	Model                   Model                `json:"model"`
+	ModerationState         ModerationState      `json:"moderation_state"`
+}
+
+type LinearConversation struct {
+	Id       string   `json:"id"`
+	Children []string `json:"children"`
+}
+type Model struct {
+	Slug      string `json:"slug"`
+	MaxTokens int    `json:"max_tokens"`
+	Title     string `json:"title"`
+}
+type ModerationState struct {
+	HasBeenModerated     bool `json:"has_been_moderated"`
+	HasBeenBlocked       bool `json:"has_been_blocked"`
+	HasBeenAccepted      bool `json:"has_been_accepted"`
+	HasBeenAutoBlocked   bool `json:"has_been_auto_blocked"`
+	HasBeenAutoModerated bool `json:"has_been_auto_moderated"`
+}
+
+type Mapping struct {
+	Id       string   `json:"id"`
+	Message  Message  `json:"message"`
+	Parent   string   `json:"parent"`
+	Children []string `json:"children"`
+}
+
+type Message struct {
+	Id         string   `json:"id"`
+	Author     Author   `json:"author"`
+	CreateTime float64  `json:"create_time"`
+	Content    Content  `json:"content"`
+	Status     string   `json:"status"`
+	Weight     int      `json:"weight"`
+	Metadata   Metadata `json:"metadata"`
+	Recipient  string   `json:"recipient"`
+}
+
+type Author struct {
+	Role     string   `json:"role"`
+	Metadata struct{} `json:"metadata"`
+}
+
+type Content struct {
+	ContentType string   `json:"content_type"`
+	Parts       []string `json:"parts"`
+}
+
+type Metadata struct {
+	FinishDetails struct {
+		Type       string `json:"type"`
+		StopTokens []int  `json:"stop_tokens"`
+	} `json:"finish_details"`
+	Citations            []interface{} `json:"citations"`
+	IsComplete           bool          `json:"is_complete"`
+	ModelSlug            string        `json:"model_slug"`
+	ParentId             string        `json:"parent_id"`
+	RequestId            string        `json:"request_id"`
+	Timestamp            string        `json:"timestamp_"`
+	SharedConversationId string        `json:"shared_conversation_id"`
+}
+
 
 
 # 2024-3-6 | W
