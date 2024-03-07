@@ -45,6 +45,10 @@ CREATE TABLE chat (
 
 \list
 
+sudo apt install inotify-tools
+
+while inotifywait -e close_write server.go; do ./server.go; done
+
 
 SELECT * FROM chat
 WHERE query LIKE '%the%'
