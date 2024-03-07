@@ -1,6 +1,110 @@
 # 2024-3-7 | W
 
-pip install meson
+vim /etc/conf/rsyncd.conf
+
+```conf
+
+### rsyncd.conf 文件的配置
+[root@50_125 rsync]# vim rsyncd.conf
+# /etc/rsyncd: configuration file for rsync daemon mode
+# See rsyncd.conf man page for more options.
+# 传输文件使用的用户和用户组，如果是从服务器=>客户端，要保证www用户对文件有读取的权限；如果是从客户端=>服务端，要保证www对文件有写权限。
+uid = www
+gid = www
+# 允许chroot，提升安全性，客户端连接模块，首先chroot到模块path参数指定的目录下，chroot为yes时必须使用root权限，且不能备份path路径外的链接文件
+use chroot = yes
+# 只读
+read only = no
+# 只写
+write only = no
+# 设定白名单，可以指定IP段（172.18.50.1/255.255.255.0）,各个Ip段用空格分开
+hosts allow = 172.18.50.110 172.18.50.111
+hosts deny = *
+# 允许的客户端最大连接数
+max connections = 4
+# 欢迎文件的路径，非必须
+motd file = /etc/rsync/rsyncd.motd
+# pid文件路径
+pid file = /var/run/rsyncd.pid
+# 记录传输文件日志
+transfer logging = yes
+# 日志文件格式
+log format = %t %a %m %f %b
+# 指定日志文件
+log file = /var/log/rsync.log
+# 剔除某些文件或目录，不同步
+exclude = lost+found/
+# 设置超时时间
+timeout = 900
+ignore nonreadable = yes
+# 设置不需要压缩的文件
+dont compress   = *.gz *.tgz *.zip *.z *.Z *.rpm *.deb *.bz2
+
+# 模块，可以配置多个，使用如: sate@172.18.50.125::125to110
+[125to110]
+# 模块的根目录，同步目录，要注意权限
+path = /tmp/nginx
+# 是否允许列出模块内容
+list = no
+# 忽略错误
+ignore errors
+# 添加注释
+comment = ftp export area
+# 模块验证的用户名称，可使用空格或者逗号隔开多个用户名
+auth users = sate
+# 模块验证密码文件 可放在全局配置里
+secrets file = /etc/rsync/rsyncd.secrets
+# 剔除某些文件或目录，不同步
+exclude = lost+found/ conf/ man/
+
+```
+
+pip install torch==2.0.0
+pip install torchvision==0.14
+
+
+```bash
+
+(venv) [root@g08 starcoder2]# nvidia-smi
+Thu Mar  7 20:29:37 2024       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 520.61.07    Driver Version: 520.61.07    CUDA Version: 11.8     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA GeForce ...  On   | 00000000:51:00.0 Off |                  Off |
+| 30%   28C    P8    22W / 450W |      1MiB / 24564MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+
+```
+
+virtualenv --python="/root/tannalwork/cpython/python3.11/bin/python3.11" "venv"
+
+./configure --prefix=`pwd`/python3.11
+export PATH=/root/tannalwork/cpython/python3.11/bin:"$PATH"
+deactivate
+make -j14
+make install
+
+pip install numpy with 3.13 shouldn't work. That version is clearly marked for python 3.9, 3.10, 3.11 only.
+
+sudo dnf install clang
+export CC=/usr/bin/clang
+export CXX=/usr/bin/clang++
+
+pip install numpy -i https://mirrors.sustech.edu.cn/pypi/web/simple
+pip install meson -i https://mirrors.sustech.edu.cn/pypi/web/simple
 
 git clone https://github.com/mesonbuild/meson.git
 
@@ -91,7 +195,7 @@ git clone https://www.github.com/
 pip install git+https://github.com/huggingface/transformers.git
 
 python3 -m pip install virtualenv
-virtualenv venv python=python3.12
+virtualenv venv python=python3.11
 
 export HF_TOKEN=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
 

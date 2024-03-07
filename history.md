@@ -1,5 +1,182 @@
 # 2024-3-7
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+bigcode-project/starcoder2: Home of StarCoder2!
+https://github.com/bigcode-project/starcoder2
+
+New Issue · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=
+
+Failing to install numpy 1.26.0 on aarch64 with pypy39 · Issue #24768 · numpy/numpy
+https://github.com/numpy/numpy/issues/24768
+
+Issues · huggingface/transformers
+https://github.com/huggingface/transformers/issues
+
+numpy install meson error - Google 搜索
+https://www.google.com.hk/search?q=numpy+install+meson+error&rlz=1C1GCEA_enJP1090JP1090&oq=numpy&gs_lcrp=EgZjaHJvbWUqBggAECMYJzIGCAAQIxgnMg4IARBFGDkYQxiABBiKBTIOCAIQRRgnGDsYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTE3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Meson cannot build dependancies of numpy when python from msys2 is used · Issue #12547 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/12547
+
+dnf install openblas - Google 搜索
+https://www.google.com.hk/search?q=dnf+install+openblas&rlz=1C1GCEA_enJP1090JP1090&oq=dnf+install+openblas&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDk0OTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+pip mirrors - Google 搜索
+https://www.google.com.hk/search?q=pip+mirrors&rlz=1C1GCEA_enJP1090JP1090&oq=pip+mirrors&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABNIBCDI0NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+PyPI Mirror | SUSTech Open Source Mirrors
+https://mirrors.sustech.edu.cn/help/pypi.html
+
+install numpy from source - Google 搜索
+https://www.google.com.hk/search?q=install+numpy+from+source&rlz=1C1GCEA_enJP1090JP1090&oq=install+numpy+from&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM3NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Building from source — NumPy v1.26 Manual
+https://numpy.org/doc/stable/user/building.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Print a "current stack/callback/promise dump" from a running program · Issue #51980 · nodejs/node
+https://github.com/nodejs/node/issues/51980
+
+numpy python1.13 build error - Google 搜索
+https://www.google.com.hk/search?q=numpy+python1.13+build+error&rlz=1C1GCEA_enJP1090JP1090&oq=numpy+python1.13+build+error&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCTExODIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Pip module fails to build with Python 3.13 · Issue #24318 · numpy/numpy
+https://github.com/numpy/numpy/issues/24318
+
+change venv python version - Google 搜索
+https://www.google.com.hk/search?q=change+venv+python+version&rlz=1C1GCEA_enJP1090JP1090&oq=change+venv+pyt&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCQgFEAAYExiABDIICAYQABgTGB4yCggHEAAYCBgTGB4yCggIEAAYCBgTGB4yCggJEAAYCBgTGB7SAQgzNDk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Use different Python version with virtualenv - Stack Overflow
+https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
+
+virtualenv deactivate - Google 搜索
+https://www.google.com.hk/search?q=virtualenv+deactivate&rlz=1C1GCEA_enJP1090JP1090&oq=virtualenv+d&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMzM4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+change venv python version - Google 搜索
+https://www.google.com.hk/search?q=change+venv+python+version&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCECMYJzIGCAMQRRg7MgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEIMTYxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Use different Python version with virtualenv - Stack Overflow
+https://stackoverflow.com/questions/1534210/use-different-python-version-with-virtualenv
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Crash in /html/browsers/the-window-object/self-et-al.window.html · Issue #28298 · servo/servo
+https://github.com/servo/servo/issues/28298
+
+如何分辨机械硬盘和固态硬盘 ubuntu - Google 搜索
+https://www.google.com.hk/search?q=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98%E5%92%8C%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98+ubuntu&newwindow=1&sca_esv=a2de1c70e4a64dfa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn094lIt_MggPQsC-j44NgSkE7ydfWA%3A1709813656253&ei=mK_pZaf3Du232roPxpKp6AU&ved=0ahUKEwino_OckOKEAxXtm1YBHUZJCl0Q4dUDCBA&uact=5&oq=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E6%9C%BA%E6%A2%B0%E7%A1%AC%E7%9B%98%E5%92%8C%E5%9B%BA%E6%80%81%E7%A1%AC%E7%9B%98+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiLuWmguS9leWIhui-qOacuuaisOehrOebmOWSjOWbuuaAgeehrOebmCB1YnVudHUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEi3DVD1AliQC3ABeAGQAQCYAbcBoAHoCKoBAzAuN7gBA8gBAPgBAZgCB6AC7wfCAgoQABhHGNYEGLADwgIGECEYChgqmAMAiAYBkAYKkgcDMS42oAemEA&sclient=gws-wiz-serp
+
+ubuntu系统安全和防护-区分固态硬盘和机械硬盘_ubuntu如何查看磁盘是不是固态-CSDN博客
+https://blog.csdn.net/xkjscm/article/details/121247634
+
+电脑如何查看硬盘是固态还是机械？ - 知乎
+https://zhuanlan.zhihu.com/p/536299514
+
+nvidia 520 cuda11.8 pytorch version - Google 搜索
+https://www.google.com.hk/search?q=nvidia+520+cuda11.8+pytorch+version&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+520+cuda11.8+pytorchc&gs_lcrp=EgZjaHJvbWUqCQgCECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKAB0gEINDkxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+torch torchvision版本对应 - Google 搜索
+https://www.google.com.hk/search?q=torch+torchvision%E7%89%88%E6%9C%AC%E5%AF%B9%E5%BA%94&newwindow=1&sca_esv=a2de1c70e4a64dfa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_pcLevquFht8BltrcAWkQ1gfLgYA%3A1709814738911&ei=0rPpZaWJN52n2roPwJSo2AU&oq=torch+version&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXRvcmNoIHZlcnNpb24qAggBMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSK4NUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgWYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+PyTorch碎片：PyToch和Torchvision对应版本_pytorch对应的torchvision版本-CSDN博客
+https://blog.csdn.net/jorg_zhao/article/details/106883420
+
+brendan gregg linuxperf - Google 搜索
+https://www.google.com.hk/search?q=brendan+gregg+linuxperf&newwindow=1&sca_esv=a2de1c70e4a64dfa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09PvezqZ8Sj54xY5nV6BlPrhVhP7A%3A1709814883400&ei=Y7TpZeL4F_zl2roPxtm76AU&ved=0ahUKEwiitobmlOKEAxX8slYBHcbsDl0Q4dUDCBA&uact=5&oq=brendan+gregg+linuxperf&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2JyZW5kYW4gZ3JlZ2cgbGludXhwZXJmMgkQABiABBgNGBMyCBAAGB4YDRgTMgoQABgIGB4YDRgTSJMdUMMRWLYccAF4AZABAJgBwQGgAYYLqgEDMC45uAEDyAEA-AEBmAIKoAKiC8ICChAAGEcY1gQYsAPCAggQLhjLARiABMICCBAAGIAEGMsBwgILEC4YgAQYywEY1ALCAhcQLhjLARiABBiXBRjcBBjeBBjgBNgBAcICBBAAGB7CAgYQABgIGB6YAwCIBgGQBgO6BgYIARABGBSSBwMxLjmgB7of&sclient=gws-wiz-serp
+
+linux_observability_tools.png (2400×1800)
+https://www.brendangregg.com/Perf/linux_observability_tools.png
+
+opensnoop 使用 - Google 搜索
+https://www.google.com.hk/search?q=opensnoop+%E4%BD%BF%E7%94%A8&rlz=1C1GCEA_enJP1090JP1090&oq=opensnoop+%E4%BD%BF%E7%94%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bcc 之 opensnoop 工具的使用 - 如创科技
+https://www.rutron.net/posts/2203/bcc-opensnoop-usage/
+
+The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions
+https://benhoyt.com/writings/go-1brc/
+
+Linear-Algebra-Left-Undone/讲义/专题 at new · yhwu-is/Linear-Algebra-Left-Undone
+https://github.com/yhwu-is/Linear-Algebra-Left-Undone/tree/new/%E8%AE%B2%E4%B9%89/%E4%B8%93%E9%A2%98
+
+moritztng/fltr: Like grep but for natural language questions. Based on Mixtral 8x7B.
+https://github.com/moritztng/fltr
+
+给网站添加搜索功能 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BB%99%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BB%99%E7%BD%91%E7%AB%99%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDY2NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+个人博客网站添加文章搜索功能
+https://knightyun.github.io/2019/03/04/articles-search
+
+中国 2024 2月 cpi - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+2024+2%E6%9C%88+cpi&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BD&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7MgYIABBFGDkyDAgBEC4YQxiABBiKBTIICAIQRRgnGDsyBggDEEUYOzIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjY1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+postgresql 生产环境 备份 - Google 搜索
+https://www.google.com.hk/search?q=postgresql+%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83+%E5%A4%87%E4%BB%BD&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83+%E5%A4%87%E4%BB%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTExMTI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+postgresql 生产环境 容灾 - Google 搜索
+https://www.google.com.hk/search?q=postgresql+%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83+%E5%AE%B9%E7%81%BE&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83+%E5%AE%B9%E7%81%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2ODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+postgresql 自动备份 恢复 - Google 搜索
+https://www.google.com.hk/search?q=postgresql+%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD+%E5%9B%9E%E5%A4%8D&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+%E8%87%AA%E5%8A%A8%E5%A4%87%E4%BB%BD+%E5%9B%9E%E5%A4%8D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGAUYDxge0gEJMTMzODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+在线备份以及即时恢复(PITR)
+http://www.postgres.cn/docs/9.4/continuous-archiving.html
+
+PostgreSQL 13 定时备份、恢复 - 墨天轮
+https://www.modb.pro/db/230132
+
+rsync 文件夹 - Google 搜索
+https://www.google.com.hk/search?q=rsync+%E6%96%87%E4%BB%B6%E5%A4%B9&rlz=1C1GCEA_enJP1090JP1090&oq=rsync+%E6%96%87%E4%BB%B6%E5%A4%B9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM3MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+rsync 用法教程 - 阮一峰的网络日志
+https://www.ruanyifeng.com/blog/2020/08/rsync.html
+
+postgresql 主从复制 - Google 搜索
+https://www.google.com.hk/search?q=postgresql+%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+%E4%B8%BB%E4%BB%8E&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyBwgCEAAYgAQyBwgDEAAYgATSAQkxMTU0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+postgresql 主从复制原理 - 墨天轮
+https://www.modb.pro/db/337269
+
+postgresql 主从复制 - Google 搜索
+https://www.google.com.hk/search?q=postgresql+%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgYIARAjGCcyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQg0NzQ3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Postgresql 主从复制+主从切换（流复制）_postgresql 不同操作系统主从复制-CSDN博客
+https://blog.csdn.net/ziqibit/article/details/129732077
+
+rsync daemon配置 - Google 搜索
+https://www.google.com.hk/search?q=rsync+daemon%E9%85%8D%E7%BD%AE&rlz=1C1GCEA_enJP1090JP1090&oq=rsync+daemon&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyDggAEEUYJxg7GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgYIBhBFGDwyBggHEEUYPNIBCDE0NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+配置rsync daemon模式进行同步文件或目录_/usr/bin/rsync --daemon-CSDN博客
+https://blog.csdn.net/love666666shen/article/details/124788785
+
+rsync github - Google 搜索
+https://www.google.com.hk/search?q=rsync+github&rlz=1C1GCEA_enJP1090JP1090&oq=rsync+github&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAjGCcYgAQYigUyDAgCECMYJxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRg8MgYIBxBFGDzSAQg0NDA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+WayneD/rsync: An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+https://github.com/WayneD/rsync
+
+rsyncd conf配置 - Google 搜索
+https://www.google.com.hk/search?q=rsyncd+conf%E9%85%8D%E7%BD%AE&newwindow=1&sca_esv=850edfa7a76475f6&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ACQVn0_hLSdxstk163My4Xx5y_uwXXC3Lw%3A1709819414018&ei=FsbpZdNVwLm-vQ-i17iABw&ved=0ahUKEwjTuLXWpeKEAxXAnK8BHaIrDnAQ4dUDCBA&uact=5&oq=rsyncd+conf%E9%85%8D%E7%BD%AE&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXJzeW5jZCBjb25m6YWN572uMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABMgcQIRgKGKABSLUbUNUIWL8acAJ4AZABAZgB3gGgAdcPqgEFMC41LjW4AQPIAQD4AQGYAgmgApMLwgIKEAAYRxjWBBiwA8ICBxAjGLACGCfCAgcQABiABBgNwgIGEAAYHhgNwgIIEAAYgAQYogSYAwCIBgGQBgiSBwUyLjQuM6AHmCI&sclient=gws-wiz-serp
+
+Rsync 配置和使用 - 简书
+https://www.jianshu.com/p/bd3ae9d8069c
+
+rsyncd.conf(5) - Linux man page
+https://linux.die.net/man/5/rsyncd.conf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
