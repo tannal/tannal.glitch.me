@@ -1,5 +1,56 @@
 # 2024-3-7
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+knuth - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=knuth
+
+Structured programming - Wikipedia
+https://en.wikipedia.org/wiki/Structured_programming
+
+Edsger W. Dijkstra - Wikipedia
+https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+
+Donald Knuth - Wikipedia
+https://en.wikipedia.org/wiki/Donald_Knuth
+
+http://localhost:8080/search?query=%E4%BE%9D%E8%B5%96
+http://localhost:8080/search?query=%E4%BE%9D%E8%B5%96
+
+BRDF是二维的
+https://chat.openai.com/c/a90e7700-bbe8-4bce-bffb-d1755b406800
+
+ChatGPT Shared Links FAQ | OpenAI Help Center
+https://help.openai.com/en/articles/7925741-chatgpt-shared-links-faq
+
+http://localhost:8080/share?url=https://chat.openai.com/share/5acf958b-c7da-4d23-8276-09cae749c3f2
+http://localhost:8080/share?url=https://chat.openai.com/share/5acf958b-c7da-4d23-8276-09cae749c3f2
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fchat.openai.com%2Fshare&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Confirm your account recovery settings
+https://github.com/bigcode-project/starcoder2
+
+nvidia nasdaq - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nvidia+nasdaq
+
+linux rsync deamon - Google 検索
+https://www.google.com/search?q=linux+rsync+deamon&client=ubuntu-sn&hs=ZVI&sca_esv=850edfa7a76475f6&channel=fs&ei=PsXpZaaKEpC4vr0PxZuPqAk&oq=rsyncd+linux+dea&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHJzeW5jZCBsaW51eCBkZWEqAggAMggQABgIGB4YDUj0LFC2EVjeI3ABeAGQAQCYAaMCoAHvB6oBBTAuMS4zuAEByAEA-AEBmAIFoAKFCMICChAAGEcY1gQYsAPCAgcQABiABBgNwgIGEAAYHhgNwgIJEAAYgAQYDRgTwgIIEAAYHhgNGBPCAggQABiABBiiBMICCBAAGIkFGKIEmAMA4gMFEgExIECIBgGQBgqSBwUxLjEuM6AHvA0&sclient=gws-wiz-serp#ip=1
+
+【 rsync 】コマンド（その1）――ファイルやディレクトリを同期する：Linux基本コマンドTips（82） - ＠IT
+https://atmarkit.itmedia.co.jp/ait/articles/1702/02/news031.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
