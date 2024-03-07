@@ -1,5 +1,11 @@
 # 2024-3-7 | W
 
+sudo apt install texlive
+
+rust proto prost capnp flatbuffer json bson spacejam/sled
+
+libqt5 kwayland dbus
+
 sudo systemctl daemon-reload
 sudo systemctl restart pg.service
 
