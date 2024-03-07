@@ -1,5 +1,202 @@
 # 2024-3-7 | W
 
+pip install meson
+
+git clone https://github.com/mesonbuild/meson.git
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"strconv"
+
+	"github.com/miekg/dns"
+)
+
+var records = map[string]string{
+	"test.service.": "192.168.0.2",
+}
+
+func parseQuery(m *dns.Msg) {
+	for _, q := range m.Question {
+		switch q.Qtype {
+		case dns.TypeA:
+			log.Printf("Query for %s\n", q.Name)
+			ip := records[q.Name]
+			if ip != "" {
+				rr, err := dns.NewRR(fmt.Sprintf("%s A %s", q.Name, ip))
+				if err == nil {
+					m.Answer = append(m.Answer, rr)
+				}
+			}
+		}
+	}
+}
+
+func handleDnsRequest(w dns.ResponseWriter, r *dns.Msg) {
+	m := new(dns.Msg)
+	m.SetReply(r)
+	m.Compress = false
+
+	switch r.Opcode {
+	case dns.OpcodeQuery:
+		parseQuery(m)
+	}
+
+	w.WriteMsg(m)
+}
+
+func main() {
+	// attach request handler func
+	dns.HandleFunc("service.", handleDnsRequest)
+
+	// start server
+	port := 5353
+	server := &dns.Server{Addr: ":" + strconv.Itoa(port), Net: "udp"}
+	log.Printf("Starting at %d\n", port)
+	err := server.ListenAndServe()
+	defer server.Shutdown()
+	if err != nil {
+		log.Fatalf("Failed to start server: %s\n ", err.Error())
+	}
+}
+
+```
+
+(Red Hat 8.5.0-10)
+sudo dnf install libffi-devel
+
+sudo dnf install openssl-devel
+git clone https://github.com/python/cpython.git
+./configure --prefix=`pwd`/_install
+./configure --help
+
+
+make
+make test
+make install
+
+export PATH=`pwd`/install/bin:"$PATH"
+export PATH=/root/tannalwork/cpython/_install/bin:"$PATH"
+export python=`pwd`/install/bin/python3
+alias python=`pwd`/install/bin/python3
+
+export https_proxy=http://10.90.115.200:7890
+export http_proxy=http://10.90.115.200:7890
+
+git clone https://www.github.com/
+
+pip install git+https://github.com/huggingface/transformers.git
+
+python3 -m pip install virtualenv
+virtualenv venv python=python3.12
+
+export HF_TOKEN=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
+
+
+const readline = require('readline');
+const rl = readline.createInterface({
+    input: process.stdin,
+});
+
+const inspector = require('inspector');
+
+const debug = inspector.url() !== undefined
+
+console.debug = (...args) => {
+    if (debug) {
+        console.log(...args)
+    }
+}
+
+class Trie {
+    constructor() {
+        this.root = {}
+    }
+
+    insert(word) {
+        let node = this.root
+        for (let c of word) {
+            if (!node[c]) {
+                node[c] = {}
+            }
+            node = node[c]
+        }
+        // node['*'] = true
+        node.count = (node.count || 0) + 1
+    }
+
+    search(word) {
+        let node = this.root
+        for (let c of word) {
+            console.debug(node)
+            if (!node[c]) {
+                return false
+            }
+            node = node[c]
+        }
+        return node.count !== undefined
+    }
+
+    countPrefixes(prefix) {
+        let node = this.root
+        let count = 0
+        for (let c of prefix) {
+            console.debug(node)
+            if (!node[c]) {
+                return 0
+            }
+            count += node[c].count || 0
+            node = node[c]
+        }
+        return count
+    }
+}
+
+// Given N strings S1, S2…SN, then there will be M queries. For each query, a string T is given, and the task is to find out how many strings among S1 to SN are prefixes of T. The total length of the input strings does not exceed 106 and consists only of lowercase letters.
+// A string S1 (let's assume its length is n) is called a prefix of another string S2 if and only if: the length of S2 is not less than n, and the string formed by the first n characters of S2 is completely identical to S1.
+function solve(/** @type {string[]} */ players,/**@type {string[]} */ qeurys) {
+    // console.debug(players, qeurys)
+    const trie = new Trie();
+    players.forEach(player => trie.insert(player));
+    return qeurys.map(query => trie.countPrefixes(query)).join('\n');
+}
+
+
+// Given N strings S1, S2…SN, then there will be M queries. For each query, a string T is given, and the task is to find out how many strings among S1 to SN are prefixes of T. The total length of the input strings does not exceed 106 and consists only of lowercase letters.
+// A string S1 (let's assume its length is n) is called a prefix of another string S2 if and only if: the length of S2 is not less than n, and the string formed by the first n characters of S2 is completely identical to S1.
+// input
+// 3 2
+// ab
+// bc
+// abc
+// abc
+// efg
+const processInput = (lines) => {
+    const [n, m] = lines[0].split(' ').map(Number);
+    const strings = lines.slice(1, n + 1);
+    const querys = lines.slice(n + 1);
+
+    console.log(solve(strings, querys));
+};
+
+const readInputLines = async () => {
+    const lines = [];
+    for await (const line of rl) {
+        lines.push(line);
+    }
+    return lines;
+};
+
+readInputLines().then(lines => {
+    processInput(lines);
+});
+
+$env:FLASK_DEBUG=1
+python -m intermittent_tracker.flask_server
+
 http.HandleFunc("/share", shareHandler(db))
 
 

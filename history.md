@@ -1,5 +1,206 @@
 # 2024-3-7
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1610.01178.pdf
+https://arxiv.org/pdf/1610.01178.pdf
+
+便宜机场汇总 - Askahh机场测速
+https://askahh.com/archives/26/
+
+192.168.43.95
+http://192.168.43.95:8080/search?query=%E6%B3%95%E7%BA%BF
+
+ChatGPT
+https://chat.openai.com/c/1fdea0bb-dfe4-443a-888f-5c5146a449cc
+
+192.168.43.95
+http://192.168.43.95:8080/share?url=https://chat.openai.com/share/1b332a11-bf7b-4804-89a5-2c4717c5bbb0
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=lars%20bak&sort=byPopularity&type=story
+
+Marginalia Search - lars bak
+https://search.marginalia.nu/search?query=lars+bak&js=default&adtech=default&searchTitle=default&profile=corpo&recent=default
+
+How fast is Javascript compared to Java? - Stack Overflow
+https://stackoverflow.com/questions/3723374/how-fast-is-javascript-compared-to-java
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=search%20engine&sort=byPopularity&type=story
+
+A search engine in 80 lines of Python
+https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html
+
+Postgres Full-Text Search: A Search Engine in a... | Crunchy Data Blog
+https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
+
+Postgres: The batteries included database | Crunchy Data Blog
+https://www.crunchydata.com/blog/postgres-the-batteries-included-database
+
+Postgres Full-Text Search: A search engine in a database | Hacker News
+https://news.ycombinator.com/item?id=27973497
+
+Fast Full-Text Search in PostgreSQL - Austin G. Walters
+https://austingwalters.com/fast-full-text-search-in-postgresql/
+
+PostgreSQL: Documentation: 9.1: GiST and GIN Index Types
+https://www.postgresql.org/docs/9.1/textsearch-indexes.html
+
+The world needs Cliqz. The world needs more search engines.
+https://www.0x65.dev/blog/2019-12-01/the-world-needs-cliqz-the-world-needs-more-search-engines.html
+
+Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine | FindThatMeme.com Blog
+https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html
+
+Option to view all the testcases - LeetCode Discuss
+https://leetcode.com/discuss/general-discussion/635684/option-to-view-all-the-testcases
+
+登录/注册 - 力扣（LeetCode）
+https://leetcode.cn/accounts/login/?next=%2Fproblemset%2F
+
+Full-text search — Zulip 9.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/subsystems/full-text-search.html
+
+zsaskk 的个人中心 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/user/134640#following
+
+Victory Through Synergy - Kattis victorythroughsynergy - Virtual Judge
+https://vjudge.net/problem/Kattis-victorythroughsynergy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Jason Savard - 热衷于环保事业的程序猿
+https://jasonsavard.com/zh-CN/
+
+首页 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+image.png (935×767)
+https://servo.zulipchat.com/user_uploads/30542/Dftf1tQSMKEnj4Y0r4onnkqn/image.png
+
+servo/intermittent-tracker: A live database of intermittent test failures based on github's webhook notifications.
+https://github.com/servo/intermittent-tracker
+
+localhost:5000
+http://localhost:5000/
+
+• Discord | #support | Typst
+https://discord.com/channels/1054443721975922748/1088372909111783525
+
+starcoder2 - Google 搜索
+https://www.google.com/search?q=starcoder2&sca_esv=a83cf3ab82d90a13&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08TvhrWEHCwM2x5YRP4ipxd8tLIhw%3A1709805485652&ei=rY_pZc-nJ__L2roPksSpyAU&ved=0ahUKEwiPsu3k8eGEAxX_pVYBHRJiClkQ4dUDCBA&uact=5&oq=starcoder2&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnN0YXJjb2RlcjIyCBAAGIAEGMsBSKUJUKsFWKoGcAF4AZABAJgBqQKgAaIEqgEDMi0yuAEDyAEA-AEBmAICoAL-AcICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwUxLjAuMaAHxgM&sclient=gws-wiz-serp
+
+bigcode/starcoder2-15b · Hugging Face
+https://huggingface.co/bigcode/starcoder2-15b
+
+bigcode-project/starcoder2: Home of StarCoder2!
+https://github.com/bigcode-project/starcoder2
+
+bigcode/the-stack-v2 · Datasets at Hugging Face
+https://huggingface.co/datasets/bigcode/the-stack-v2
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/tokens
+
+How to create a python virtual environment on Ubuntu 22.04. | by Agnes Mbiti | Medium
+https://medium.com/@AgnesMbiti/creating-a-python-virtual-environment-on-ubuntu-22-04-5efc173ce655
+
+python/cpython: The Python programming language
+https://github.com/python/cpython
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+如何搭建一个DNS服务器
+https://ghh3809.github.io/2021/03/17/create-dns-server/#21-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+两元店
+https://liangyuandian.xyz/#/node
+
+ARNING: pip is configured with locations that require TLS/SSL, however the ssl module in Python is not available. - Google 搜索
+https://www.google.com.hk/search?q=ARNING%3A+pip+is+configured+with+locations+that+require+TLS%2FSSL%2C+however+the+ssl+module+in+Python+is+not+available.&rlz=1C1GCEA_enJP1090JP1090&oq=ARNING%3A+pip+is+configured+with+locations+that+require+TLS%2FSSL%2C+however+the+ssl+module+in+Python+is+not+available.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+pip is configured with locations that require TLS/SSL, however the ssl module in Python is not available - Stack Overflow
+https://stackoverflow.com/questions/45954528/pip-is-configured-with-locations-that-require-tls-ssl-however-the-ssl-module-in
+
+dnf install libssl-dev - Google 搜索
+https://www.google.com.hk/search?q=dnf+install+libssl-dev&rlz=1C1GCEA_enJP1090JP1090&oq=dnf+install+lib&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgzNjk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+no module named _ctypes - Google 搜索
+https://www.google.com.hk/search?q=no+module+named+_ctypes&rlz=1C1GCEA_enJP1090JP1090&oq=no+module+named+_ctypes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgzMzg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+python - Python3: ImportError: No module named '_ctypes' when using Value from module multiprocessing - Stack Overflow
+https://stackoverflow.com/questions/27022373/python3-importerror-no-module-named-ctypes-when-using-value-from-module-mul
+
+golang dns server github - Google 搜索
+https://www.google.com.hk/search?q=golang+dns+server+github&rlz=1C1GCEA_enJP1090JP1090&oq=dns+server+golang+gihtub&gs_lcrp=EgZjaHJvbWUqCggBEAAYCBgNGB4yBggAEEUYOTIKCAEQABgIGA0YHtIBCDQ5NjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Simple Golang DNS Server
+https://gist.github.com/walm/0d67b4fb2d5daf3edd4fad3e13b162cb
+
+www.google.com
+https://www.google.com/search?q=redhat+8&rlz=1C1GCEA_enJP1090JP1090&oq=redhat+8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI5MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+android dns - Google 搜索
+https://www.google.com.hk/search?q=android+dns&newwindow=1&sca_esv=933bea1e6b916c89&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-qxmwUfAQUx1UNFzEz5uE09tioAA%3A1709809428379&ei=FJ_pZaDJFqHe2roPg92B4AU&ved=0ahUKEwigo_K8gOKEAxUhr1YBHYNuAFwQ4dUDCBA&uact=5&oq=android+dns&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2FuZHJvaWQgZG5zMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKPCBFCtBViDwQRwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIFmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+meson github - Google 搜索
+https://www.google.com.hk/search?q=meson+github&rlz=1C1GCEA_enJP1090JP1090&oq=meson+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIKCAQQABgIGA8YHjIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDIyNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+New Issue · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=
+
+numpy github - Google 搜索
+https://www.google.com.hk/search?q=numpy+github&rlz=1C1GCEA_enJP1090JP1090&oq=numpy+github&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyBwgFEAAYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTc4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+numpy/meson.build at maintenance/1.26.x · numpy/numpy
+https://github.com/numpy/numpy/blob/maintenance/1.26.x/meson.build
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Do not spawn dedicated thread to decode image · Issue #31504 · servo/servo
+https://github.com/servo/servo/issues/31504
+
+eerii (eerii) / Repositories
+https://github.com/eerii?tab=repositories
+
+Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?q=Peter+Goldsborough&rlz=1C1GCEA_enJP1090JP1090&oq=Peter+Goldsborough&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDzSAQgzNDU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Why We Should Encourage Cheating On Exams – Peter Goldsborough
+http://www.goldsborough.me/education/thoughts/2020/11/21/23-55-01-why_we_should_encourage_cheating_on_exams/
+
+Finland Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?q=Finland+Peter+Goldsborough&rlz=1C1GCEA_enJP1090JP1090&oq=Finland+Peter+Goldsborough&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDc1MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Deep Learning In Audio for Absolute Beginners: From No Experience & No Datasets to a Deployed Model - YouTube
+https://www.youtube.com/watch?v=L4GOmYPPqn8
+
+meson build github - Google 搜索
+https://www.google.com.hk/search?q=meson+build+github&rlz=1C1GCEA_enJP1090JP1090&oq=meson+build+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMzcxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+mesonbuild/meson: The Meson Build System
+https://github.com/mesonbuild/meson
+
+numpy install meson error - Google 搜索
+https://www.google.com.hk/search?q=numpy+install+meson+error&rlz=1C1GCEA_enJP1090JP1090&oq=numpy+install+meson+error&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigAdIBCDg0MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Meson cannot build dependancies of numpy when python from msys2 is used · Issue #12547 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/12547
+
 (4) Search results for query: FrontendMasters | Page 9
 https://tutflix.org/search/2261010/?page=9&q=FrontendMasters&o=date
 
