@@ -20,7 +20,12 @@ cd _install/bin
 
 vim data/postgresql.conf
 
-pg_ctl -D data -l logfile start
+pkill postgres
+./pg_ctl -D data -l logfile start
+
+vim data/postgresql.conf
+
+listen-address
 
 ./psql -U tannal -w -d postgres
 ./psql -U tannal -w -d exchange

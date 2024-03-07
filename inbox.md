@@ -1,5 +1,29 @@
 # 2024-3-7 | W
 
+sudo systemctl daemon-reload
+sudo systemctl restart pg.service
+
+systemctl status pg.service
+sudo journalctl -u pg
+
+sudo vim /etc/systemd/system/pg.service
+
+[Unit]
+Description = postgresql
+
+[Service]
+User = tannal
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/projects/postgres/_install/bin
+ExecStart = /bin/bash -c 'PATH=/home/tannal/tannalwork/projects/postgres/_install/bin:$PATH pg_ctl -D data -l logfile start'
+ExecReload= /bin/bash -c 'PATH=/home/tannal/tannalwork/projects/postgres/_install/bin:$PATH pg_ctl -D data -l logfile restart'
+ExecStop= /bin/bash -c 'PATH=/home/tannal/tannalwork/projects/postgres/_install/bin:$PATH pg_ctl -D data -l logfile stop'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+
 vim /etc/conf/rsyncd.conf
 
 ```conf
