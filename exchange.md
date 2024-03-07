@@ -67,7 +67,7 @@ INSERT INTO chat (query, answer) VALUES
 ('Ways to prevent XSS attacks?', 'Preventing XSS attacks can be achieved by sanitizing user input, using Content Security Policy (CSP), and validating on the server-side...');
 
 
-sudo tcpdump -i any tcp port 8080
+sudo tcpdump -i any -A -vv tcp port 8080
 
 sudo tcpdump -i any -A -vv 'tcp port 5432 and (src host 192.168.43.27 or dst host 192.168.43.27)'
 

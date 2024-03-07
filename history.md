@@ -1,5 +1,50 @@
 # 2024-3-7
 
+exchange.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Running Visual Studio Code on Linux
+https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Go database/sql の操作ガイドあったんかい
+https://sourjp.github.io/posts/go-db/
+
+linux - How to execute a command whenever a file changes? - Super User
+https://superuser.com/questions/181517/how-to-execute-a-command-whenever-a-file-changes
+
+guard - Go Auto-Recompile and Reload Server on file change - Stack Overflow
+https://stackoverflow.com/questions/19605076/go-auto-recompile-and-reload-server-on-file-change
+
+How to switch between terminals in Visual Studio Code? - Stack Overflow
+https://stackoverflow.com/questions/48440673/how-to-switch-between-terminals-in-visual-studio-code
+
+Java 堆数据结构
+https://chat.openai.com/c/088927a0-66be-45c3-aff6-0520db948735
+
+Golang Html tokenizer - DEV Community
+https://dev.to/dave3130/golang-html-tokenizer-5fh7
+
+godom package - github.com/siongui/godom - Go Packages
+https://pkg.go.dev/github.com/siongui/godom
+
+siongui/godom: Make DOM manipulation in Go as similar to JavaScript as possible. (via GopherJS or WebAssembly)
+https://github.com/siongui/godom?tab=readme-ov-file#code-example
+
+Frontend Programming in Go
+https://siongui.github.io/2017/12/04/frontend-programming-in-go/
+
+Java 堆数据结构
+https://chat.openai.com/share/8bd7c72a-1c21-4afa-bd3e-eeb5d4396a61
+
+stack in golang - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=stack+in+golang#ip=1
+
+Visual Studio CodeでGo言語のデバッグ環境を整える #Go - Qiita
+https://qiita.com/momotaro98/items/7fbcad57a9d8488fe999
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
