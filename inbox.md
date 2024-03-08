@@ -1,4 +1,98 @@
+# 2024-3-8 | 
+
+人感知環境70%的資訊量來自腳底，20%來自聽覺，10%來自視覺。
+長期處於對外界的觸覺剝奪狀態令人精神渙散、遊離，是我們喜歡做白日夢的決定性因素。赤腳主義者有一項共識，即人人赤腳可以帶來世界和平。科學研究表明，在學校中推行赤腳學生明顯整體更加安靜且和平。說赤腳能帶來人際關係的和平一點都不誇張，它會提供給我們無條件的幸福感。赤腳生活可以令人無條件活在當下。
+
+Thinking is about come up with a idea that probably correct or not.
+If it's absolutely correct, then it's useless.
+
+The XOR Largest Pair
+
+
+rocksdb surrealdb echodb rusqlite
+
+sudo dnf install texlive-latex
+
+中国2月CPI同比数据
+
+中国2月PPI同比数据
+
+中国2月M0/ M1/ M2货币供应同比
+
+中国2月社会融资规模增量(亿元人民币)
+
+中国2月新增人民币贷款(亿元人民币)
+
+nmap -sV -p- -T5 10.90.163.134
+
+inet 10.68.136.133  netmask 255.255.255.128  broadcast 10.68.136.255
+
+nmap -A -T4
+
+nmap -sP 10.68.136.0/24  
+
+export https_proxy=http://10.90.163.134:7890
+export http_proxy=http://10.90.163.134:7890
+
 # 2024-3-7 | W
+
+
+10.68.136.130-138
+
+10.68.162.201
+
+Linux4.18
+
+ens9f0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.68.136.133  netmask 255.255.255.128  broadcast 10.68.136.255
+        inet6 fe80::632:1ff:fe5d:ce6a  prefixlen 64  scopeid 0x20<link>
+        ether 04:32:01:5d:ce:6a  txqueuelen 1000  (Ethernet)
+        RX packets 26269946  bytes 29307580721 (27.2 GiB)
+        RX errors 0  dropped 810865  overruns 0  frame 0
+        TX packets 10293932  bytes 813444793 (775.7 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 18  
+
+ens9f1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 04:32:01:5d:ce:6b  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 19  
+
+ens9f2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 04:32:01:5d:ce:6c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 18  
+
+ens9f3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 04:32:01:5d:ce:6d  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 19  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 486753  bytes 52014979 (49.6 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 486753  bytes 52014979 (49.6 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+virbr0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 192.168.122.1  netmask 255.255.255.0  broadcast 192.168.122.255
+        ether 52:54:00:64:3b:3b  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 sudo apt install texlive
 
