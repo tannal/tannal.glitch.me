@@ -1,3 +1,38 @@
+# 2024 3-8
+
+创建流复制用户
+启动数据库监听
+
+CREATE ROLE replica REPLICATION LOGIN PASSWORD '123456';
+data/pg_hba.con
+
+# 允许从库通过replica用户连接主库
+host   replication      replica       192.168.0.101/32          md
+
+data/postgresql.conf
+
+listen_addresses = '*' 
+port = 5432
+max_connections = 100 
+max_wal_size = 1GB
+min_wal_size = 80MB
+log_timezone = 'Asia/Shanghai'
+archive_mode = on
+archive_command = 'test ! -f /var/lib/pgsql/13/archivelog/%f && cp %p /var/lib/pgsql/13/archivelog/%f'
+wal_level = replica
+max_wal_senders = 10
+wal_sender_timeout = 60s
+
+initdb -D $PGDATA -E UTF8 -k -U postgres -X /pg/pg_wal --wal-segsize=16
+
+参数解释:
+-D: 指定的默认数据库集簇的目录 
+-E:数据库默认编码
+-k: 启用页面校验（用于从节点流复制中的切换操作,pg_rewind）
+-U:指定数据库的超级用户，如果不指定，默认以初始化执行的操作系统用户作为默认的超级用户
+-X: 指定数据库 pg_wal 的日志目录
+--wal-segsize: 指定单个 wal 段文件的大小，默认为16MB
+
 # postgresql
 
 sudo apt install flex bison
