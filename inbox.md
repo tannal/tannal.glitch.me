@@ -1,5 +1,11 @@
 # 2024-3-8 | 
 
+Exec=env QT_QPA_PLATFORM=xcb copyq
+
+rsync -r data tannal@192.168.43.95:/home/tannal/tannalwork/projects/postgres/_install/
+rsync -re ~/Desktop/key.txt data tannal@192.168.43.95:/home/tannal/tannalwork/projects/postgres/_install/
+rsync -re ~/Desktop/key.txt data tannal@192.168.43.246:/home/tannal/tannalwork/projects/postgres/_install/
+
 
 export https_proxy=http://10.90.113.228:7890
 export http_proxy=http://10.90.113.228:7890
