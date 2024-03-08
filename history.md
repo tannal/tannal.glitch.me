@@ -1,5 +1,101 @@
 # 2024-3-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Problems - Virtual Judge
+https://vjudge.net/problem
+
+how to compile racket program - Google 搜索
+https://www.google.com.hk/search?q=how+to+compile+racket+program&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+compile+racket+program&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDcwMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+1.3 The Reader
+https://docs.racket-lang.org/reference/reader.html#%28idx._%28gentag._94._%28lib._scribblings%2Freference%2Freference..scrbl%29%29%29
+
+helpful: providing suggestions on unbound identifier error.
+https://docs.racket-lang.org/helpful/index.html
+
+• Discord | #help-and-questions | Supabase
+https://discord.com/channels/839993398554656828/1006358244786196510
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+shellJS.exec() or child_process.exec() not executing callback function · Issue #51985 · nodejs/node
+https://github.com/nodejs/node/issues/51985
+
+Install Meson Build System with winget - winstall
+https://winstall.app/apps/mesonbuild.meson
+
+Run `quack` from REPL.
+https://chat.openai.com/c/85524c29-9a40-40f6-b746-c61b53a7e983
+
+Download and install Strawberry Perl with winget
+https://winget.run/pkg/StrawberryPerl/StrawberryPerl
+
+PostgreSQL: Documentation: 16: 18.1. Building with Visual C++ or the Microsoft Windows SDK
+https://www.postgresql.org/docs/current/install-windows-full.html#INSTALL-WINDOWS-FULL-REQUIREMENTS
+
+MSYS2
+https://www.msys2.org/
+
+Install MSYS2 Installer with winget - winstall
+https://winstall.app/apps/MSYS2.MSYS2
+
+Install Racket with winget - winstall
+https://winstall.app/apps/Racket.Racket
+
+Missed optimization: x*(x||(b&&c)) => x · Issue #84432 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/84432
+
+Compiler Explorer
+https://godbolt.org/z/sYzY84En5
+
+Compiler Explorer
+https://godbolt.org/z/sYzY84En5
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+#Outreachy > Fix support for the devtools protocol - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Fix.20support.20for.20the.20devtools.20protocol
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+易拉罐英文 - Google 搜索
+https://www.google.com/search?q=%E6%98%93%E6%8B%89%E7%BD%90%E8%8B%B1%E6%96%87&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%98%93%E6%8B%89%E7%BD%90%E8%8B%B1%E6%96%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAE0gEIMjQ2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+PostgreSQL主从配置 - 头痛不头痛 - 博客园
+https://www.cnblogs.com/zydev/p/16039565.html
+
+fast20-zhan.pdf
+https://www.usenix.org/system/files/fast20-zhan.pdf
+
+WayneD/rsync: An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
+https://github.com/WayneD/rsync
+
+rsync examples
+https://rsync.samba.org/examples.html
+
+LLaMA 7B GPU Memory Requirement - 🤗Transformers - Hugging Face Forums
+https://discuss.huggingface.co/t/llama-7b-gpu-memory-requirement/34323/2
+
+postgresql 主从版本不一致 - Google 搜索
+https://www.google.com/search?q=postgresql+%E4%B8%BB%E4%BB%8E%E7%89%88%E6%9C%AC%E4%B8%8D%E4%B8%80%E8%87%B4&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+%E4%B8%BB%E4%BB%8E%E7%89%88%E6%9C%AC%E4%B8%8D%E4%B8%80%E8%87%B4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg0NjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+3 Questions: You Don't Know JavaScript | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=flzlEmyxMs8
+
+(WSL2) Pipelines loaded with `torch_dtype=torch.float16` cannot run with `cpu` device. It is not recommended to move them to `cpu` as running them will fail. Please make sure to use an accelerator to run the pipeline in inference, due to the lack of support for`float16` operations on this device in PyTorch. Please, remove the `torch_dtype=torch.float16` argument, or use another device for inference. · Issue #1659 · huggingface/diffusers
+https://github.com/huggingface/diffusers/issues/1659
+
+convert-hf-to-ggml.py CUDA out of memory · Issue #35 · bigcode-project/starcoder.cpp
+https://github.com/bigcode-project/starcoder.cpp/issues/35
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
