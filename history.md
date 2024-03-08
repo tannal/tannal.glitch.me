@@ -3,6 +3,209 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+bigcode-project/starcoder2: Home of StarCoder2!
+https://github.com/bigcode-project/starcoder2?tab=readme-ov-file#model-usage-and-memory-footprint
+
+斷舍離篇：毫無阻礙的生活狀態
+https://sagiriwiki.web.app/meta/minimalism.html
+
+ubuntu clipboard history - Google 搜索
+https://www.google.com.hk/search?q=ubuntu+clipboard+history&rlz=1C1GCEA_enJP1090JP1090&oq=ubuntu+clipboard+hist&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCTExNjc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+20.04 - Is there a default clipboard history in Ubuntu? If there is, how can I access it? - Ask Ubuntu
+https://askubuntu.com/questions/1287410/is-there-a-default-clipboard-history-in-ubuntu-if-there-is-how-can-i-access-it
+
+copyq使用 - Google 搜索
+https://www.google.com.hk/search?q=copyq%E4%BD%BF%E7%94%A8&newwindow=1&sca_esv=850edfa7a76475f6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09XMCsDUITT8rE4tE1kDpfY3_IoHg%3A1709820892682&ei=3MvpZb6dKaei2roPqNCU6AU&oq=copyq&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWNvcHlxKgIIADIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jMCVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIFmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+CopyQ 简单介绍
+https://jpliu.github.io/copyq.html
+
+copyq 没有用 - Google 搜索
+https://www.google.com.hk/search?q=copyq+%E6%B2%A1%E6%9C%89%E7%94%A8&newwindow=1&sca_esv=850edfa7a76475f6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08htYktRB907kykeyKnkqL_pZxLzA%3A1709821102098&ei=rszpZYXMBYGC2roP9YGN4AU&ved=0ahUKEwiF2637q-KEAxUBgVYBHfVAA1wQ4dUDCBA&uact=5&oq=copyq+%E6%B2%A1%E6%9C%89%E7%94%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2NvcHlxIOayoeacieeUqDIIEAAYgAQYogQyCBAAGIkFGKIEMggQABiABBiiBDIIEAAYgAQYogRIggpQlgJYkQlwAXgBkAEAmAGjBKAB5waqAQczLTEuMC4xuAEDyAEA-AEBmAIDoALtBsICChAAGEcY1gQYsAOYAwCIBgGQBgiSBwcxLjMtMS4xoAfrAg&sclient=gws-wiz-serp#ip=1
+
+有没有介绍 CopyQ 深入使用的文章 - V2EX
+https://de.v2ex.com/t/908546
+
+copyq not working - Google 搜索
+https://www.google.com.hk/search?q=copyq+not+working&rlz=1C1GCEA_enJP1090JP1090&oq=copyq+not+working&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDQxNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+clipboard manager - CopyQ global shortcut not working on Ubuntu 21.04 - Ask Ubuntu
+https://askubuntu.com/questions/1344833/copyq-global-shortcut-not-working-on-ubuntu-21-04
+
+CopyQ not working with Wayland : r/pop_os
+https://www.reddit.com/r/pop_os/comments/mvhtox/copyq_not_working_with_wayland/
+
+copyq wayland - Google 搜索
+https://www.google.com.hk/search?q=copyq+wayland&rlz=1C1GCEA_enJP1090JP1090&oq=copyq+wayland&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgYIARBFGDzSAQgzMTkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Wayland: No clipboard content · Issue #1243 · hluk/CopyQ
+https://github.com/hluk/CopyQ/issues/1243
+
+check wayland or x11 - Google 搜索
+https://www.google.com.hk/search?q=check+wayland+or+x11&rlz=1C1GCEA_enJP1090JP1090&oq=check+wayland&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMggICBAAGA8YHjIGCAkQABge0gEJMTI5OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+typst - Google 搜索
+https://www.google.com.hk/search?q=typst&newwindow=1&sca_esv=3add410d07b2a008&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn092fqLWbKfgUBK_tL08wc3-0qG2lw%3A1709822081944&ei=gdDpZcudOa2yvr0P4ce88Ao&ved=0ahUKEwiL4srOr-KEAxUtma8BHeEjD64Q4dUDCBA&uact=5&oq=typst&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXR5cHN0MgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjJDFAAWLwLcAB4AZABAJgBzQKgAc0HqgEHMC4xLjIuMbgBA8gBAPgBAZgCBKAC3QfCAgwQIxiABBiKBRgTGCfCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICCxAuGIAEGMcBGNEDwgIFEC4YgASYAwCSBwUyLTMuMaAHnRc&sclient=gws-wiz-serp
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+philipsd6/typst-yearly-planner
+https://github.com/philipsd6/typst-yearly-planner
+
+Servo - Zulip
+https://servo.zulipchat.com/#reload:426427299790
+
+tsoding latex - Google 搜索
+https://www.google.com.hk/search?q=tsoding+latex&rlz=1C1GCEA_enJP1090JP1090&oq=tsoding+latex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU3ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+LaTeX is The Best Thing to Explain Computer Graphics (Olive.c Ep.12 - Math Behind 3D Projection) - YouTube
+https://www.youtube.com/watch?v=J39D-OTiyeY
+
+kishimisu - YouTube
+https://www.youtube.com/@kishimisu/videos
+
+@kishimisu
+https://www.kishimisu.art/
+
+spacejam/sled - Google 搜索
+https://www.google.com.hk/search?q=spacejam%2Fsled&rlz=1C1GCEA_enJP1090JP1090&oq=spacejam%2Fsled&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTgxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+spacejam/sled: the champagne of beta embedded databases
+https://github.com/spacejam/sled
+
+bigcode/starcoder2-15b - Google 搜索
+https://www.google.com.hk/search?q=bigcode%2Fstarcoder2-15b&rlz=1C1GCEA_enJP1090JP1090&oq=bigcode%2Fstarcoder2-15b&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg6MgYIAhBFGDzSAQc0MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+404 – Hugging Face
+https://huggingface.co/bigcode/starcoder2
+
+红旗计算机 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BA%A2%E6%97%97%E8%AE%A1%E7%AE%97%E6%9C%BA&newwindow=1&sca_esv=3add410d07b2a008&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn089yXJ9SkW6xNtng8laKqcDR5yh9g%3A1709824520842&ei=CNrpZdj-Mua00-kP56OK4AU&ved=0ahUKEwjYosXZuOKEAxVm2jQHHeeRAlwQ4dUDCBA&uact=5&oq=%E7%BA%A2%E6%97%97%E8%AE%A1%E7%AE%97%E6%9C%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-e6ouaXl-iuoeeul-acujIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIlBBQ8ANYig9wAXgAkAEAmAGgA6ABpBCqAQcyLTIuMi4yuAEDyAEA-AEBmAIFoALwDcICBBAjGCfCAgoQABiABBiKBRhDwgIKEC4YgAQYigUYQ8ICBRAAGIAEwgIFEC4YgASYAwCIBgGSBwcyLTIuMS4yoAeNFw&sclient=gws-wiz-serp
+
+红旗Linux - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%B4%85%E6%97%97Linux
+
+局域网主机扫描 - Google 搜索
+https://www.google.com.hk/search?q=%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%BB%E6%9C%BA%E6%89%AB%E6%8F%8F&newwindow=1&sca_esv=3add410d07b2a008&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09vlIiszs1YYPwGCIwm7R-quXkhDA%3A1709824731770&ei=29rpZdy8LuCR2roPzYG78AU&ved=0ahUKEwiclo--ueKEAxXgiFYBHc3ADl4Q4dUDCBA&uact=5&oq=%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%BB%E6%9C%BA%E6%89%AB%E6%8F%8F&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeWxgOWfn-e9keS4u-acuuaJq-aPjzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRImlhQvzhY11ZwAXgBkAEAmAH1B6AB2ymqAQ8wLjYuNS4xLjEuMS4xLjG4AQPIAQD4AQGYAhCgAowiwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAgQQIxgnwgIKECMYgAQYigUYJ8ICBRAuGIAEwgINEC4YgAQYxwEY0QMYCsICCxAuGIAEGMcBGK8BwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAyYAwCIBgGQBgqSBwsxLjYuNC4yLjIuMaAH-EQ&sclient=gws-wiz-serp
+
+利用nmap扫描整个局域网活动主机的IP-MAC和Port - DVwei - 博客园
+https://www.cnblogs.com/dvwei/archive/2013/03/22/2976249.html
+
+nmap 扫描端口 - Google 搜索
+https://www.google.com.hk/search?q=nmap+%E6%89%AB%E6%8F%8F%E7%AB%AF%E5%8F%A3&rlz=1C1GCEA_enJP1090JP1090&oq=nmap&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEIMzEzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+每天学习一个命令：nmap 扫描开放端口 | Verne in GitHub
+https://einverne.github.io/post/2017/01/nmap.html
+
+校园网 网段 划分 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%A1%E5%9B%AD%E7%BD%91+%E7%BD%91%E6%AE%B5+%E5%88%92%E5%88%86&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%A1%E5%9B%AD%E7%BD%91+%E7%BD%91%E6%AE%B5+%E5%88%92%E5%88%86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDY1ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+关于学校的子网划分_学校应该建立不同的子网-CSDN博客
+https://blog.csdn.net/weixin_44050153/article/details/123861922
+
+安卓手机 靶机 - Google 搜索
+https://www.google.com.hk/search?q=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+%E9%9D%B6%E6%9C%BA&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA+%E9%9D%B6%E6%9C%BA+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTExNTU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+一个易受攻击的Android靶场 - 知乎
+https://zhuanlan.zhihu.com/p/106239624
+
+[转]渗透测试实战-Android4靶机_安卓靶机镜像-CSDN博客
+https://blog.csdn.net/zgy956645239/article/details/88047434
+
+445/tcp filtered microsoft-ds 3389/tcp filtered ms-wbt-server - Google 搜索
+https://www.google.com.hk/search?q=445%2Ftcp+filtered+microsoft-ds+3389%2Ftcp+filtered+ms-wbt-server&rlz=1C1GCEA_enJP1090JP1090&oq=445%2Ftcp++filtered+microsoft-ds+3389%2Ftcp+filtered+ms-wbt-server&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+chat.openai.com
+https://chat.openai.com/
+
+networking - I need help closing up some ports on a debian 10 server - Super User
+https://superuser.com/questions/1747247/i-need-help-closing-up-some-ports-on-a-debian-10-server
+
+证书自签名 双开 - Google 搜索
+https://www.google.com.hk/search?q=%E8%AF%81%E4%B9%A6%E8%87%AA%E7%AD%BE%E5%90%8D+%E5%8F%8C%E5%BC%80&newwindow=1&sca_esv=7fb4d62672696752&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_MnRs1k_Uf2D906VIJd9tYhc27SA%3A1709855446942&ei=1lLqZeeWOcafseMPprajgA4&ved=0ahUKEwjn2aD0q-OEAxXGT2wGHSbbCOAQ4dUDCBA&uact=5&oq=%E8%AF%81%E4%B9%A6%E8%87%AA%E7%AD%BE%E5%90%8D+%E5%8F%8C%E5%BC%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuivgeS5puiHquetvuWQjSDlj4zlvIAyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYiQUYogQyCBAAGIAEGKIEMggQABiABBiiBEimUFAAWKdPcAp4AZABAJgB1wGgAdknqgEGMC4zNS4xuAEDyAEA-AEBmAItoALSJ8ICBBAjGCfCAgoQIxiABBiKBRgnwgIFEAAYgATCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIIEC4YgAQY1ALCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGMsBwgIIEC4YgAQYywHCAg4QLhivARjHARjLARiABMICChAuGIAEGMsBGArCAhAQLhiABBjLARjHARjRAxgKwgILEC4YgAQYxwEYrwHCAhkQLhiABBjLARgKGJcFGNwEGN4EGN8E2AEBwgIIEC4YywEYgATCAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICChAuGMsBGIAEGArCAgoQABiABBjLARgKwgIQEC4YgAQYywEYxwEYrwEYCsICGRAuGMsBGIAEGAoYlwUY3AQY3gQY3wTYAQHCAgoQABiABBiKBRhDwgIHEAAYgAQYDJgDALoGBggBEAEYFJIHBzEwLjM0LjGgB4r-AQ&sclient=gws-wiz-serp
+
+tcpwrapped - Google 搜索
+https://www.google.com.hk/search?q=tcpwrapped&rlz=1C1GCEA_enJP1090JP1090&oq=tcpwrapped&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgxMTEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+美元加息 全球通胀 日元贬值 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E5%85%83%E5%8A%A0%E6%81%AF+%E5%85%A8%E7%90%83%E9%80%9A%E8%83%80+%E6%97%A5%E5%85%83%E8%B4%AC%E5%80%BC&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E5%85%83%E5%8A%A0%E6%81%AF+%E5%85%A8%E7%90%83%E9%80%9A%E8%83%80+%E6%97%A5%E5%85%83%E8%B4%AC%E5%80%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCTEwMzY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+中国 2024 2月 cpi - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+2024+2%E6%9C%88+cpi&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BD&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7MgYIABBFGDkyDAgBEC4YQxiABBiKBTIICAIQRRgnGDsyBggDEEUYOzIGCAQQRRg7MgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEIMjQwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+一周前瞻｜2024年全国两会召开，中国2月金融、贸易、通胀数据出炉 - 21经济网
+https://www.21jingji.com/article/20240304/herald/0888e3b55715e4f0ddd325c5fb78bf25.html
+
+install latex package ubuntu - Google 搜索
+https://www.google.com.hk/search?q=install+latex+package+ubuntu&rlz=1C1GCEA_enJP1090JP1090&oq=install+latex+package+ubuntu&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMggIARAAGBMYHjIKCAIQABgIGBMYHjIKCAMQABgIGBMYHjIKCAQQABgIGBMYHjIKCAUQABgIGBMYHjIKCAYQABgIGBMYHtIBCTExMTc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+installing - How do I install an individual package on a Linux system? - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/73016/how-do-i-install-an-individual-package-on-a-linux-system
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=echodb&sort=byPopularity&type=story
+
+stream: do not defer construction by one microtick by mcollina · Pull Request #52005 · nodejs/node
+https://github.com/nodejs/node/pull/52005
+
+targos (Michaël Zasso)
+https://github.com/targos
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node/
+
+Supermarket - POJ 1456 - Virtual Judge
+https://vjudge.net/problem/POJ-1456
+
+foreach this undefined - Google 搜索
+https://www.google.com.hk/search?q=foreach+this+undefined&rlz=1C1GCEA_enJP1090JP1090&oq=foreach+this+undefined&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgoIARAAGAUYExgeMgoIAhAAGAUYExgeMgoIAxAAGAUYExge0gEIMzM1N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+javascript - Accessing this in a forEach loop results in undefined - Stack Overflow
+https://stackoverflow.com/questions/19445599/accessing-this-in-a-foreach-loop-results-in-undefined
+
+Google
+https://www.google.com.hk/
+
+两元店
+https://liangyuandian.xyz/#/node
+
+cuda out of memory - Google 搜索
+https://www.google.com/search?q=cuda+out+of+memory&rlz=1C1GCEA_enJP1090JP1090&oq=cuda+out&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+postgresql build on windows - Google 搜索
+https://www.google.com/search?q=postgresql+build+on+windows&sca_esv=be3ff3acc12850a5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09KRvRduPlkiS5CPWVlPbk1HSMyKA%3A1709874259637&ei=U5zqZamvJp2Mvr0Pk6yR0Ac&ved=0ahUKEwjppOz-8eOEAxUdhq8BHRNWBHoQ4dUDCBA&uact=5&oq=postgresql+build+on+windows&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Bvc3RncmVzcWwgYnVpbGQgb24gd2luZG93czIEEAAYHjIGEAAYCBgeSOoMUCNYhwtwAXgBkAEAmAGbAqABng6qAQUwLjYuM7gBA8gBAPgBAZgCBKACpwTCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgYQABgHGB7CAggQABgIGAcYHpgDAIgGAZAGCpIHAzEuM6AH0B8&sclient=gws-wiz-serp
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+bigcode/starcoder2-15b - Google 搜索
+https://www.google.com.hk/search?q=bigcode%2Fstarcoder2-15b&rlz=1C1GCEA_enJP1090JP1090&oq=bigcode%2Fstarcoder2-15b&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYOjIGCAMQRRg8MgYIBBBFGDzSAQcxNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+触觉 - Google 搜索
+https://www.google.com.hk/search?q=%E8%A7%A6%E8%A7%89&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%A7%A6%E8%A7%89&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMzNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+touch wikipedia - Google 搜索
+https://www.google.com.hk/search?q=touch+wikipedia&newwindow=1&sca_esv=be3ff3acc12850a5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_3c98JoKkQVLq4qexkTgColjgydA%3A1709874755327&ei=Q57qZce_E9TM1e8Pp6a04Ao&oq=touch+wiki&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRvdWNoIHdpa2kqAggAMggQABiABBjLATIIEAAYgAQYywEyBhAAGB4YCjIEEAAYHjIEEAAYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB5IoSJQlwNYwhpwA3gBkAEAmAG2AqAB9AiqAQcwLjYuMC4xuAEDyAEA-AEBmAIKoAKTCcICBxAjGLADGCfCAgoQABhHGNYEGLADwgIIEC4YgAQYywHCAg4QLhiABBjLARjHARjRA8ICCxAuGIAEGMsBGNQCwgIGEAAYCBgewgIIEAAYCBgeGArCAggQABgeGA8YCsICBxAAGIAEGA3CAgYQABgeGA2YAwCIBgGQBgqSBwczLjYuMC4xoAevJw&sclient=gws-wiz-serp
+
+Somatosensory system - Wikipedia
+https://en.wikipedia.org/wiki/Somatosensory_system
+
+The Brain Senses Touch beyond the Body | Scientific American
+https://www.scientificamerican.com/article/the-brain-senses-touch-beyond-the-body/
+
+how to compile racket program - Google 搜索
+https://www.google.com.hk/search?q=how+to+compile+racket+program&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+compile+racket+program&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDcwMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2 raco exe: Creating Stand-Alone Executables
+https://docs.racket-lang.org/raco/exe.html
+
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Sagiri Wiki
 https://sagiriwiki.web.app/
 
