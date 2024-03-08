@@ -1,3 +1,56 @@
+# 2024-3-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+11-memory-optimization.pdf
+https://mlsyscourse.org/slides/11-memory-optimization.pdf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+PostgreSQL主从配置 - 头痛不头痛 - 博客园
+https://www.cnblogs.com/zydev/p/16039565.html
+
+localhost:8080/search?query=技术
+http://localhost:8080/search?query=%E6%8A%80%E6%9C%AF
+
+How do I upgrade postgresl database - Google Search
+https://www.google.com/search?q=How+do+I+upgrade+postgresl+database&client=ubuntu-sn&hs=QnE&sca_esv=274934f892c43701&channel=fs&ei=0cPqZfCzKMGeseMP4eimoAw&ved=0ahUKEwiw4NfTl-SEAxVBT2wGHWG0CcQQ4dUDCBE&uact=5&oq=How+do+I+upgrade+postgresl+database&gs_lp=Egxnd3Mtd2l6LXNlcnAiI0hvdyBkbyBJIHVwZ3JhZGUgcG9zdGdyZXNsIGRhdGFiYXNlMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMg0QABiABBiKBRhDGLADSOUEUOECWOECcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACB5gDAIgGAZAGCZIHATGgBwA&sclient=gws-wiz-serp
+
+PostgreSQL: Documentation: 16: pg_upgrade
+https://www.postgresql.org/docs/current/pgupgrade.html
+
+The database cluster was initialized with CATALOG_VERSION_NO 202403052, but the server was compiled with CATALOG_VERSION_NO 202401131. - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=The+database+cluster+was+initialized+with+CATALOG_VERSION_NO+202403052%2C+but+the+server+was+compiled+with+CATALOG_VERSION_NO+202401131.
+
+postgresql - "The database cluster was initialized with CATALOG_VERSION_NO X, but the server was compiled with CATALOG_VERSION_NO Y." after aptitude upgrade - Stack Overflow
+https://stackoverflow.com/questions/33433088/the-database-cluster-was-initialized-with-catalog-version-no-x-but-the-server
+
+illinois cs system programming - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=illinois+cs+system+programming
+
+CS 341 · Schedule
+https://cs341.cs.illinois.edu/schedule.html
+
+CS 341 · Threads
+http://cs341.cs.illinois.edu/coursebook/Threads#pthread-functions
+
+CS 341 · Filesystems
+http://cs341.cs.illinois.edu/coursebook/Filesystems#what-is-a-filesystem?
+
+CS341-Lectures-SP24/code at main · angrave/CS341-Lectures-SP24
+https://github.com/angrave/CS341-Lectures-SP24/tree/main/code
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+c - How does glibc's write work? - Stack Overflow
+https://stackoverflow.com/questions/42633927/how-does-glibcs-write-work
+
 # 2024-3-7
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

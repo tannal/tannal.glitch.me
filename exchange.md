@@ -1,23 +1,27 @@
 # 2024 3-8
 
+./pg_basebackup -h 192.168.43.246 -U replica -D data -X stream -P
+
+
 创建流复制用户
 启动数据库监听
 
-CREATE ROLE replica REPLICATION LOGIN PASSWORD 'replica';
-
-vim data/pg_hba.conf
+CREATE ROLE replica REPLICATION LOGIN PASSWORD '123456';
+data/pg_hba.con
 
 # 允许从库通过replica用户连接主库
-host   replication      replica         192.168.43.*/32           md
+host   replication      replica       192.168.0.101/32          md
 
-vim data/postgresql.conf
+data/postgresql.conf
 
-listen_addresses = '0.0.0.0'            # what IP address(es) to listen on;
+listen_addresses = '*' 
+port = 5432
+max_connections = 100 
 max_wal_size = 1GB
 min_wal_size = 80MB
 log_timezone = 'Asia/Shanghai'
 archive_mode = on
-archive_command = 'test ! -f archivelog/%f && cp %p archivelog/%f'
+archive_command = 'test ! -f /var/lib/pgsql/13/archivelog/%f && cp %p /var/lib/pgsql/13/archivelog/%f'
 wal_level = replica
 max_wal_senders = 10
 wal_sender_timeout = 60s
