@@ -1,5 +1,101 @@
 # 2024-3-8
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+GitHub
+https://github.com/
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls?page=3&q=is%3Apr+is%3Aopen
+
+src: parse inspector profiles with simdjson by joyeecheung · Pull Request #51783 · nodejs/node
+https://github.com/nodejs/node/pull/51783
+
+watch should debounce the restart · Issue #51954 · nodejs/node
+https://github.com/nodejs/node/issues/51954
+
+Throws assertion with match delegation · Issue #52012 · nodejs/node
+https://github.com/nodejs/node/issues/52012
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues?page=1&q=is%3Aissue+is%3Aopen
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+Make HeapFloat32Array generic by Taym95 · Pull Request #31167 · servo/servo
+https://github.com/servo/servo/pull/31167
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fmozjs%20Make%20HeapFloat32Array%20generic%20(%2331167)&type=code
+
+Modular JS/execution engine · Issue #30863 · servo/servo
+https://github.com/servo/servo/issues/30863
+
+Migrate all builtin web globals to host objects · Issue #11118 · denoland/deno
+https://github.com/denoland/deno/issues/11118
+
+11927 - Custom ValueSerializer serialization for objects without embedder fields (non host objects) - v8
+https://bugs.chromium.org/p/v8/issues/detail?id=11927
+
+denoland/rusty_v8: Rust bindings for the V8 JavaScript engine
+https://github.com/denoland/rusty_v8
+
+Modular JS/execution engine · Issue #30863 · servo/servo
+https://github.com/servo/servo/issues/30863
+
+JavaScript Runtime (JSRT) Overview · chakra-core/ChakraCore Wiki
+https://github.com/chakra-core/ChakraCore/wiki/JavaScript-Runtime-%28JSRT%29-Overview
+
+[WIP] Generic script crate by hrvolapeter · Pull Request #21371 · servo/servo
+https://github.com/servo/servo/pull/21371
+
+Run Speedometer benchmark · Issue #16719 · servo/servo
+https://github.com/servo/servo/issues/16719
+
+WebKit/Speedometer: An open source repository for the Speedometer benchmark
+https://github.com/WebKit/Speedometer
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+
+Update outdated comment · Issue #31558 · servo/servo
+https://github.com/servo/servo/issues/31558
+
+script: Do not run layout in a thread by mrobinson · Pull Request #31346 · servo/servo
+https://github.com/servo/servo/pull/31346
+
+Replace common python-generated Rust code with equivalent hand-written code · Issue #31570 · servo/servo
+https://github.com/servo/servo/issues/31570
+
+Extract generated class constructor hook into handwritten functions · Issue #31571 · servo/servo
+https://github.com/servo/servo/issues/31571
+
+[meta] embedding · Issue #30593 · servo/servo
+https://github.com/servo/servo/issues/30593
+
+The minibrowser has a few pixels of unrendered space underneath the URL bar · Issue #31577 · servo/servo
+https://github.com/servo/servo/issues/31577
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ChakraCore&sort=byDate&type=comment
+
+Firefox finally outperforming Google Chrome in SunSpider | Hacker News
+https://news.ycombinator.com/item?id=37134092
+
+The truth about traditional JavaScript benchmarks · Benedikt Meurer
+https://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%20But%20it%20is%20sad%20seeing%20that%20fairly%20complete%20open%20source%20JIT%20JavaScript%20engine%20sit%20and%20rot.&op=translate
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=lingua%20franca&op=translate
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

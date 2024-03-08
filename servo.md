@@ -1,6 +1,10 @@
 
 # inbox
 
+Windowproxy
+#[no_trace]
+[allow(unsafe_code)]
+
 p *(char*)buf
 
 Promise.resolve()
