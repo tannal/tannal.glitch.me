@@ -3,6 +3,48 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Failed to activate Wayland clipboard - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=+Failed+to+activate+Wayland+clipboard
+
+Wayland: No clipboard content · Issue #1243 · hluk/CopyQ
+https://github.com/hluk/CopyQ/issues/1243
+
+copyq shortcuts - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=copyq+shortcuts
+
+texlive compile - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=texlive+compile
+
+compiling - How to compile a LaTeX document? - TeX - LaTeX Stack Exchange
+https://tex.stackexchange.com/questions/1596/how-to-compile-a-latex-document
+
+vim set tab to 4 spaces - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=vim+set+tab+to+4+spaces
+
+latex error file tikz.sty' not found ubuntu - Google 搜索
+https://www.google.com.hk/search?q=latex+error+file+tikz.sty%27+not+found+ubuntu&newwindow=1&client=ubuntu-sn&hs=VDe&sca_esv=3add410d07b2a008&channel=fs&ei=5dTpZf3JGuuu0-kP7LC9-AU&ved=0ahUKEwi90Kfms-KEAxVr1zQHHWxYD18Q4dUDCBA&uact=5&oq=latex+error+file+tikz.sty%27+not+found+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiK2xhdGV4IGVycm9yIGZpbGUgdGlrei5zdHknIG5vdCBmb3VuZCB1YnVudHUyBBAAGB5InyhQghlYhiZwA3gBkAEAmAHNAaAB9wSqAQUwLjMuMbgBA8gBAPgBAZgCB6ACpgXCAgoQABhHGNYEGLADwgIGEAAYHhgNmAMAiAYBkAYEkgcFMy4zLjGgB94G&sclient=gws-wiz-serp
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+PostgreSQL主从配置 - 头痛不头痛 - 博客园
+https://www.cnblogs.com/zydev/p/16039565.html
+
+rsync - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rsync
+
+How To Use Rsync to Sync Local and Remote Directories | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+ChatGPT
+https://chat.openai.com/auth/login
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 bigcode-project/starcoder2: Home of StarCoder2!
 https://github.com/bigcode-project/starcoder2?tab=readme-ov-file#model-usage-and-memory-footprint
 
