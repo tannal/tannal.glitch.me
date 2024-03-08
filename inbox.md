@@ -40,7 +40,7 @@ export http_proxy=http://10.90.163.134:7890
 10.68.136.130-138
 
 10.68.162.201
-
+ch
 Linux4.18
 
 ens9f0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500

@@ -1,12 +1,17 @@
 # list all usb devices
 
-winget install Helix.Helix
 
 wmic path Win32_USBControllerDevice get Dependent
 
 
 # Software install
 
+winget install --id=Racket.Racket  -e
+
+winget install --id=MSYS2.MSYS2  -e
+winget install --id=mesonbuild.meson  -e
+winget install -e --id StrawberryPerl.StrawberryPerl
+winget install Helix.Helix
 winget install --id Typst.Typst
 winget install --id=TheDocumentFoundation.LibreOffice  -e
 sudo apt install chromium

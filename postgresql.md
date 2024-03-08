@@ -1,5 +1,10 @@
 # inbox
 
+
+
+meson setup --prefix=C:/Users/tannal/tannalwork/projects/postgres/_install build
+
+
 https://github.com/RustMagazine
 https://github.com/hlinnaka
 
