@@ -3,6 +3,66 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Pawdroid/shadowrocket_for_android: A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
+https://github.com/Pawdroid/shadowrocket_for_android
+
+52324.52336.pdf
+https://dl.acm.org/doi/pdf/10.1145/52324.52336
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+systemd start multiple services - Google 検索
+https://www.google.com/search?q=systemd+start+multiple+services&client=ubuntu-sn&hs=sKg&sca_esv=01fd5b34e9d467a5&channel=fs&ei=VmHsZbvsGuijvr0Pw_uwwAc&oq=systemd+start+multi&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3N5c3RlbWQgc3RhcnQgbXVsdGkqAggAMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyCBAAGAgYHhgTMggQABgIGB4YEzIIEAAYBRgeGBNI_ktQjw9Y3kNwAXgBkAEAmAHHAaABuBuqAQQwLjE5uAEDyAEA-AEBmAIUoAKSHcICChAAGEcY1gQYsAPCAgYQABgDGATCAgoQABiABBgEGLEDwgINEAAYgAQYBBixAxiDAcICChAAGIAEGIoFGEPCAgUQABiABMICCBAAGIAEGLEDwgIHEAAYgAQYBMICBBAAGB7CAggQABgeGA8YE5gDAIgGAZAGCpIHBjEuMTQuNaAHiUE&sclient=gws-wiz-serp#ip=1
+
+daemon - Start N processes with one systemd service file - Server Fault
+https://serverfault.com/questions/730239/start-n-processes-with-one-systemd-service-file
+
+One Simple API Can Cause Hundreds of Bugs · Issue #2 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/2
+
+y-crdt/y-sync: Yjs/Yrs sync protocol implementation
+https://github.com/y-crdt/y-sync
+
+y-crdt/yrs-warp: Yrs web socket data exchange protocol implementation for tokio warp server
+https://github.com/y-crdt/yrs-warp
+
+Looking for maintainers 👀 · Issue #148 · y-crdt/ypy
+https://github.com/y-crdt/ypy/issues/148
+
+Extension initialization failure after 1.86 upgrade · Issue #204731 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/204731
+
+tannal (tannal)
+https://github.com/tannal/
+
+yrs - crates.io: Rust Package Registry
+https://crates.io/crates/yrs
+
+Home | Rustの日本語ドキュメント/Japanese Docs for Rust
+https://doc.rust-jp.rs/
+
+NLnet; Servo
+https://nlnet.nl/project/Servo/
+
+NLnet; NGI Zero Entrust
+https://nlnet.nl/entrust/
+
+NLnet; Welcome to NLnet Foundation
+https://nlnet.nl/
+
+NLnet; Current projects
+https://nlnet.nl/project/current.html
+
+NLnet; NGI Zero Entrust
+https://nlnet.nl/entrust/
+
+NLnet funding - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=NLnet+funding
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds · Issue #286 · dyweb/papers-notebook
 https://github.com/dyweb/papers-notebook/issues/286
 

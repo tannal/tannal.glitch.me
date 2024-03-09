@@ -1,5 +1,9 @@
 # 2024-3-9 | 
 
+[Error - 10:01:13 PM] Request textDocument/codeAction failed.
+  Message: Request textDocument/codeAction failed with message: too much recursion
+  Code: -32603 
+
 wasm-bindgen-shared v0.2.91
 wasm-bindgen-macro v0.2.91
 gloo-utils v0.2.0
