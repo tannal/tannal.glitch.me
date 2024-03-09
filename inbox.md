@@ -1,5 +1,10 @@
 # 2024-3-9 | 
 
+https://github.com/pentium3/sys_reading
+
+从动作中学习”（比如某个参数从小调到大）
+
+
 libgobject
 
 ```
