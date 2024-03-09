@@ -1,5 +1,60 @@
 # 2024-3-9 | 
 
+wasm-bindgen-shared v0.2.91
+wasm-bindgen-macro v0.2.91
+gloo-utils v0.2.0
+smallstr v0.3.0
+wasm-bindgen-backend v0.2.91
+ppv-lite86 v0.2.17
+wasm-bindgen-macro-support v0.2.91
+atomic_refcell v0.1.13
+thiserror v1.0.56
+quote v1.0.35
+getrandom v0.1.16
+log v0.4.20
+proc-macro2 v1.0.78
+thiserror-impl v1.0.56
+js-sys v0.3.68
+serde_derive v1.0.196
+serde_json v1.0.113
+serde v1.0.196
+syn v2.0.48
+console_error_panic_hook v0.1.7
+wasm-bindgen v0.2.91
+libc v0.2.153
+web-sys v0.3.68
+unicode-ident v1.0.12
+smallvec v1.13.1
+ryu v1.0.16
+rand_core v0.5.1
+rand v0.7.3
+once_cell v1.19.0
+itoa v1.0.10
+cfg-if v1.0.0
+bumpalo v3.14.0
+rand_chacha v0.2.2
+arc-swap v1.6.0
+
+sudo systemctl daemon-reload
+sudo systemctl restart y-websocket
+
+sudo vim /etc/systemd/system/y-websocket.service
+[Unit]
+# 服务名称，可自定义
+Description = docs
+
+[Service]
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/projects/yjs-demos/
+ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.11.1/bin/:$PATH pnpm start'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+
+HOST=0.0.0.0 PORT=1234 npx y-websocket -y
+
 https://notes.ekzhang.com/events/hsrg
 
 Named Pipes (FIFOs)
