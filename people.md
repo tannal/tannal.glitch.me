@@ -1,5 +1,7 @@
 # inbox
 
+https://www.ekzhang.com/writing
+
 https://people.eecs.berkeley.edu/~istoica/#Teaching
 
 https://astithas.com/

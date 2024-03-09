@@ -1,5 +1,39 @@
 # 2024-3-9 | 
 
+https://notes.ekzhang.com/events/hsrg
+
+Named Pipes (FIFOs)
+UNIX Domain Sockets read and write a same file
+Shared Memory
+RPC
+Message Queues
+os/exec Package
+
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf
+
+turbopack swc webpack rspack rollup rolldown turbopack esbuild
+
+https://news.ycombinator.com/threads?id=sondr3
+
+https://ceph.io/en/community/team/
+https://github.com/idryomov
+
+SOSP - Symposium on Operating Systems Principles
+OSDI - Symposium on Operating Systems Design and Implementation
+NSDI - Network Systems Design and Implementation
+FAST - Conference on File and Storage Technologies
+ASPLOS - Architectural Support for Programming Languages and Operating Systems
+ATC - USENIX Annual Technical Conference
+EuroSys
+SIGCOMM - Computer Communication
+SIGMETRICS - Computer/communication system performance
+ISCA - International Symposium on Computer Architecture
+HotOS - Hot Topics in Operating Systems Workshop
+IEEE S&P - Security & Privacy
+Usenix Security
+ACM CCS - Computer and Communications Security
+
+
 tannal@raspi:~/tannalwork/cans$ ls /dev/fuse 
 /dev/fuse
 tannal@raspi:~/tannalwork/cans$ lsmod | grep fuse

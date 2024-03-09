@@ -3,6 +3,165 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds · Issue #286 · dyweb/papers-notebook
+https://github.com/dyweb/papers-notebook/issues/286
+
+Mind the Gap | Proceedings of the ACM Symposium on Cloud Computing
+https://dl.acm.org/doi/10.1145/3472883.3486997
+
+RID. ACM SIGARCH Computer Architecture News, 44(2), 531 | 10.1145/2980024.2872389-Sci_hub
+https://www.wellesu.com/
+
+GaiaGPU: Sharing GPUs in Container Clouds · Issue #179 · dyweb/papers-notebook
+https://github.com/dyweb/papers-notebook/issues/179
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+(2) #Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Run `quack` from REPL.
+https://chat.openai.com/c/85524c29-9a40-40f6-b746-c61b53a7e983
+
+ad hoc mechanism - Google 搜索
+https://www.google.com/search?q=ad+hoc+mechanism&rlz=1C1GCEA_enJP1090JP1090&oq=ad+hoc+mechanism&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CSC2227S: Summer 2021
+https://www.cs.toronto.edu/~demke/2227/S.21/
+
+Grapevine: an exercise in distributed computing: Communications of the ACM: Vol 25, No 4
+https://dl.acm.org/doi/10.1145/358468.358487
+
+Grapevine
+https://dl.acm.org/doi/pdf/10.1145/358468.358487
+
+Computer Networks
+https://www.cs.ubc.ca/~bestchai/teaching/cs527_2017w1/index.html
+
+Computer Networks
+https://www.cs.ubc.ca/~bestchai/teaching/cs527_2017w1/index.html#schedule
+
+dblp: ACM Transactions on Computer Systems, Volume 41
+https://dblp.org/db/journals/tocs/tocs41.html
+
+servo/components/script/build.rs at 1f23ec2b27789c356a6283d9005079b6e9b1e66b · servo/servo
+https://github.com/servo/servo/blob/1f23ec2b27789c356a6283d9005079b6e9b1e66b/components/script/build.rs#L68
+
+dblp: SOSP 2023
+https://dblp.org/db/conf/sosp/sosp2023.html
+
+One Simple API Can Cause Hundreds of Bugs
+https://dl.acm.org/doi/pdf/10.1145/3600006.3613162
+
+RID: Finding Reference Count Bugs with Inconsistent Path Pair Checking: ACM SIGARCH Computer Architecture News: Vol 44, No 2
+https://dl.acm.org/doi/10.1145/2980024.2872389
+
+Paul E. McKenney - Google 搜索
+https://www.google.com/search?q=Paul+E.+McKenney&sca_esv=7e018ea08e96d11b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn098nlDvvSFpOar0OcCTaqvWoVbbhg%3A1709983689125&ei=yUfsZaasB4CRnesPkOKhKA&ved=0ahUKEwjmtPLSieeEAxWASGcHHRBxCAUQ4dUDCBA&uact=5&oq=Paul+E.+McKenney&gs_lp=Egxnd3Mtd2l6LXNlcnAiEFBhdWwgRS4gTWNLZW5uZXkyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIlUZQAFipQ3ACeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQH4AQKYAgKgAgWoAgrCAgcQIxjqAhgnmAMEiAYBkAYCkgcBMqAHAA&sclient=gws-wiz-serp
+
+refcnt.dvi
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2167.pdf
+
+atomic-instrumented.h « atomic « linux « include - kernel/git/torvalds/linux.git - Linux kernel source tree
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/include/linux/atomic/atomic-instrumented.h#n433
+
+idryomov (Ilya Dryomov)
+https://github.com/idryomov
+
+perfbook.2022.09.25a.pdf
+https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf
+
+Issues · rolldown-rs/rolldown
+https://github.com/rolldown-rs/rolldown/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rolldown&sort=byPopularity&type=story
+
+sondr3's comments | Hacker News
+https://news.ycombinator.com/threads?id=sondr3
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FIFO queues are all you need for cache eviction | Hacker News
+https://news.ycombinator.com/item?id=37288320
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=nursery&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=osdi&sort=byPopularity&type=story
+
+Shimin Chen's home page
+https://www.cs.cmu.edu/~chensm/
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+Pawdroid/shadowrocket_for_android: A V2Ray client for Android, builtin lots of available servers, 安卓小火箭官方库，内置大量免费节点，欢迎下载体验。
+https://github.com/Pawdroid/shadowrocket_for_android
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=reading%20group&sort=byPopularity&type=story
+
+Lab41 Reading Group: Skip-Thought Vectors | by Alex Gude | Gab41
+https://gab41.lab41.org/lab41-reading-group-skip-thought-vectors-fec68c05aa92#.qq3ck0nn8
+
+Spring Term Reading Group Papers: ##131-140 – Aleksey Charapko
+https://charap.co/spring-term-reading-group-papers-131-140/
+
+Page Not Found
+https://www.ibiblio.org/taocprg/
+
+HSRG
+https://notes.ekzhang.com/events/hsrg
+
+toydb/src/sql/parser at master · erikgrinaker/toydb
+https://github.com/erikgrinaker/toydb/tree/master/src/sql/parser
+
+Eric Zhang – Writing
+https://www.ekzhang.com/writing
+
+ekzhang/library: Advanced algorithm and data structure library in C++
+https://github.com/ekzhang/library
+
+Yjs Shared Editing
+https://yjs.dev/
+
+y-crdt
+https://github.com/y-crdt
+
+FSCloud
+https://web.fscloud.cc/#/profile
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+yjs/y-websocket: Websocket Connector for Yjs
+https://github.com/yjs/y-websocket
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+ChatGPT
+https://chat.openai.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 52324.52336.pdf
 https://dl.acm.org/doi/pdf/10.1145/52324.52336
 
