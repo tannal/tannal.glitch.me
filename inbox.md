@@ -1,5 +1,11 @@
 # 2024-3-9 | 
 
+tannal@raspi:~/tannalwork/cans$ ls /dev/fuse 
+/dev/fuse
+tannal@raspi:~/tannalwork/cans$ lsmod | grep fuse
+fuse                  159744  5
+tannal@raspi:~/tannalwork/cans$
+
 https://www.cnblogs.com/pdev/category/1510614.html
 
 export https_proxy=http://10.90.143.252:7890

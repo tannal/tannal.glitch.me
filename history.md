@@ -3,6 +3,87 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+52324.52336.pdf
+https://dl.acm.org/doi/pdf/10.1145/52324.52336
+
+Typst: A Programmable Markup Language for Typesetting [pdf] | Hacker News
+https://news.ycombinator.com/item?id=34423590
+
+programmable-markup-language-for-typesetting.pdf
+https://www.user.tu-berlin.de/laurmaedje/programmable-markup-language-for-typesetting.pdf
+
+starcoder.cpp/convert-hf-to-ggml.py at main · bigcode-project/starcoder.cpp
+https://github.com/bigcode-project/starcoder.cpp/blob/main/convert-hf-to-ggml.py
+
+cuda allocate memory in kernel - Google Search
+https://www.google.com/search?q=cuda+allocate+memory+in+kernel&client=ubuntu-sn&hs=Y5u&sca_esv=274934f892c43701&channel=fs&ei=O9LqZcKSMJKgseMP_qK3iAQ&oq=cuda+allocate&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWN1ZGEgYWxsb2NhdGUqAggDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgYQABgWGB5I4oYJUMSRCFiR8QhwAngBkAEAmAGZA6AB1x2qAQowLjIxLjEuMC4xuAEDyAEA-AEBmAIUoALbFqgCFMICChAAGEcY1gQYsAPCAgoQABiABBiKBRhDwgIUEAAYgAQYigUYkQIYsQMYgwEYsQPCAgsQABiABBiKBRiRAsICEBAAGIAEGIoFGEMYsQMYgwHCAhMQABiABBiKBRhDGLEDGIMBGLEDwgIFEC4YgATCAg0QABiABBgKGLEDGIMBwgIWEC4YgAQYigUYQxixAxiDARjHARjRA8ICCxAAGIAEGLEDGIMBwgIlEC4YgAQYigUYQxixAxiDARjHARjRAxiXBRjcBBjeBBjgBNgBAcICIBAAGIAEGIoFGOUCGOUCGOoCGLQCGIoDGLcDGNQD2AECwgIWEAAYAxiPARjlAhjqAhi0AhiMA9gBA8ICFhAuGAMYjwEY5QIY6gIYtAIYjAPYAQPCAg0QABiABBiKBRhDGLEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAhQQLhiABBiKBRixAxiDARjHARivAcICERAuGIAEGIoFGLEDGMcBGK8BwgIREAAYgAQYigUYkQIYsQMYgwGYAxCIBgGQBgi6BgYIARABGBS6BgQIAhgHugYGCAMQARgKkgcGMi4xNy4xoAfLeQ&sclient=gws-wiz-serp
+
+Dynamic memory allocation inside the kernel - CUDA / CUDA Programming and Performance - NVIDIA Developer Forums
+https://forums.developer.nvidia.com/t/dynamic-memory-allocation-inside-the-kernel/37347
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+llama : refactor the llm.build_xxx functions · ggml : roadmap
+https://github.com/users/ggerganov/projects/7/views/1?pane=issue&itemId=51758741
+
+Training Using WASM · Issue #5887 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/5887
+
+PhD Thesis: Cascading Style Sheets
+https://www.wiumlie.no/2006/phd/#h-168
+
+Håkon Wium Lie
+https://www.wiumlie.no/css
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+gtk4.0 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gtk4.0
+
+Gtk – 4.0: Using GTK with Wayland
+https://docs.gtk.org/gtk4/wayland.html
+
+wl_ · Search · GitLab
+https://gitlab.gnome.org/search?search=wl_&nav_source=navbar&project_id=665&group_id=8&search_code=true&repository_ref=main
+
+rust target cargo is big - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rust+target+cargo+is+big#ip=1
+
+Improving Rust compile times to enable adoption of memory safety | Hacker News
+https://news.ycombinator.com/item?id=34639070
+
+Swatinem/rust-cache: A GitHub Action that implements smart caching for rust/cargo projects
+https://github.com/Swatinem/rust-cache
+
+macos - Why is the target/debug/deps directory so big in rust - Stack Overflow
+https://stackoverflow.com/questions/72081919/why-is-the-target-debug-deps-directory-so-big-in-rust
+
+#Outreachy > Fix support for the devtools protocol - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Fix.20support.20for.20the.20devtools.20protocol
+
+Create a simple view that shows tests in order of number of failures · Issue #15 · servo/intermittent-tracker
+https://github.com/servo/intermittent-tracker/issues/15
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Google
+https://www.google.com/
+
+The design philosophy of the DARPA internet protocols · Issue #1 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/1
+
+Tannal
+https://tannall.deno.dev/posts/papers
+
+The design philosophy of the DARPA internet protocols | Symposium proceedings on Communications architectures and protocols
+https://dl.acm.org/doi/10.1145/52324.52336
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 光速不变原理 - 维基百科，自由的百科全书
 https://zh.wikipedia.org/wiki/%E5%85%89%E9%80%9F%E4%B8%8D%E5%8F%98%E5%8E%9F%E7%90%86
 
