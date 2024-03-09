@@ -1,3 +1,104 @@
+# 2024-3-9
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Create a new Gist
+https://gist.github.com/
+
+Modular JS/execution engine · Issue #30863 · servo/servo
+https://github.com/servo/servo/issues/30863
+
+chakra-core/ChakraCore: ChakraCore is an open source Javascript engine with a C API.
+https://github.com/chakra-core/ChakraCore
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+re-structure blob, structured serialization · servo/servo@6e8a854
+https://github.com/servo/servo/commit/6e8a85482c2068d4dbccb992954271f725570f91#diff-b560ffce0e44326091343483ac1b11dca0f88f06f16096e1e2e5974e3152f266
+
+servo/mozjs: Servo's SpiderMonkey fork
+https://github.com/servo/mozjs/tree/main
+
+Web IDL Standard
+https://webidl.spec.whatwg.org/#idl-unsigned-long-long
+
+webrender/webrender/src/composite.rs at 0b043e85e41a818021d1f8702a6e4e563c555430 · servo/webrender
+https://github.com/servo/webrender/blob/0b043e85e41a818021d1f8702a6e4e563c555430/webrender/src/composite.rs#L1151
+
+electron - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=electron#ip=1
+
+Blog | OpenJS Foundation
+https://openjsf.org/blog
+
+OpenJS Foundation - Public
+https://calendar.google.com/calendar/embed?src=linuxfoundation.org_fuop4ufv766f9avc517ujs4i0g%40group.calendar.google.com
+
+OpenJS Foundation - Wikipedia
+https://en.wikipedia.org/wiki/OpenJS_Foundation#cite_note-:2-4
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Chromium%20Microsoft%20Edge&sort=byPopularity&type=story
+
+MicrosoftEdge/MSEdge: Microsoft Edge
+https://github.com/MicrosoftEdge/MSEdge
+
+Chromium adoption in Microsoft Edge and future of ChakraCore · Issue #5865 · chakra-core/ChakraCore
+https://github.com/chakra-core/ChakraCore/issues/5865
+
+Enable Node.js to run with Microsoft's ChakraCore engine by kunalspathak · Pull Request #4765 · nodejs/node
+https://github.com/nodejs/node/pull/4765
+
+Rhino (JavaScript engine) - Wikipedia
+https://en.wikipedia.org/wiki/Rhino_(JavaScript_engine)
+
+neades
+https://github.com/neades
+
+iv/iv/ast.h at master · Constellation/iv
+https://github.com/Constellation/iv/blob/master/iv/ast.h
+
+Node.js Foundation and JS Foundation Merge to Form OpenJS Foundation - The Linux Foundation
+https://web.archive.org/web/20200803060425/https://www.linuxfoundation.org/press-release/2019/03/node-js-foundation-and-js-foundation-merge-to-form-openjs-foundation/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Microsoft%20Edge&sort=byPopularity&type=story
+
+Modernizing the DOM tree in Microsoft Edge - Microsoft Edge Blog
+https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/
+
+Internet Explorer Performance Lab: reliably measuring browser performance | Microsoft Learn
+https://learn.microsoft.com/en-us/archive/blogs/b8/internet-explorer-performance-lab-reliably-measuring-browser-performance
+
+Appendix B. Client API
+https://wayland.freedesktop.org/docs/html/apb.html
+
+rust foundation - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rust+foundation
+
+Issues · rust-lang/team
+https://github.com/rust-lang/team/issues
+
+Fix as many rustdoc errors as possible · Issue #31575 · servo/servo
+https://github.com/servo/servo/issues/31575
+
+libgio - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libgio#ip=1
+
+openSUSE Software
+https://software.opensuse.org/package/libgio-2_0-0
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+postgres network message - Google Search
+https://www.google.com/search?q=postgres++network+message&client=ubuntu-sn&hs=b9U&sca_esv=4c908fbc6c8bfb37&channel=fs&ei=b7nrZfawH_eu4-EPoqS4gAY&ved=0ahUKEwi2pJfygeaEAxV31zgGHSISDmAQ4dUDCBA&uact=5&oq=postgres++network+message&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXBvc3RncmVzICBuZXR3b3JrIG1lc3NhZ2UyBxAhGAoYoAEyBxAhGAoYoAFIvyBQwQdYxx9wAngBkAEAmAHlAaABswuqAQUwLjcuMrgBA8gBAPgBAZgCC6AC6AvCAgoQABhHGNYEGLADwgIGEAAYBxgewgIHEAAYgAQYCsICBhAAGBYYHsICCBAAGBYYHhgPwgILEAAYgAQYigUYhgPCAgUQIRigAZgDAIgGAZAGCJIHBTIuNy4yoAeAJQ&sclient=gws-wiz-serp
+
 # 2024-3-8
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

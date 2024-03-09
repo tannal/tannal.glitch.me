@@ -1,3 +1,41 @@
+# 2024-3-9 | 
+
+libgobject
+
+```
+
+#2  0x00007ffff6b4dccd in g_thread_new () at /lib/x86_64-linux-gnu/libglib-2.0.so.0
+#3  0x00007ffff6c73f2f in  () at /lib/x86_64-linux-gnu/libpangoft2-1.0.so.0
+#4  0x00007ffff7f79f83 in g_type_create_instance () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#5  0x00007ffff7f610ed in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#6  0x00007ffff7f6234d in g_object_new_with_properties () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#7  0x00007ffff7f62e51 in g_object_new () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#8  0x00007ffff742134d in pango_cairo_font_map_get_default () at /lib/x86_64-linux-gnu/libpangocairo-1.0.so.0
+#9  0x00007ffff7e7be2a in gdk_pango_context_get_for_screen () at /lib/x86_64-linux-gnu/libgdk-3.so.0
+#10 0x00007ffff79a6ad5 in gtk_widget_create_pango_context () at /lib/x86_64-linux-gnu/libgtk-3.so.0
+#11 0x00007ffff79a6bb0 in gtk_widget_get_pango_context () at /lib/x86_64-linux-gnu/libgtk-3.so.0
+#12 0x00007ffff79a6c1e in gtk_widget_create_pango_layout () at /lib/x86_64-linux-gnu/libgtk-3.so.0
+#13 0x00007ffff77babf7 in  () at /lib/x86_64-linux-gnu/libgtk-3.so.0
+#14 0x00007ffff77bb0e8 in  () at /lib/x86_64-linux-gnu/libgtk-3.so.0
+#15 0x00007ffff7f79fba in g_type_create_instance () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#16 0x00007ffff7f610ed in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#17 0x00007ffff7f6234d in g_object_new_with_properties () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#18 0x00007ffff7f62e51 in g_object_new () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#19 0x000055555555627d in activate (app=0x5555555720f0, user_data=0x0) at gtk.c:35
+#20 0x00007ffff7f50d2f in g_closure_invoke () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#21 0x00007ffff7f6cc36 in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#22 0x00007ffff7f6e614 in g_signal_emit_valist () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#23 0x00007ffff7f6e863 in g_signal_emit () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#24 0x00007ffff7507d68 in  () at /lib/x86_64-linux-gnu/libgio-2.0.so.0
+#25 0x00007ffff7507f46 in g_application_run () at /lib/x86_64-linux-gnu/libgio-2.0.so.0
+#26 0x000055555555659e in main (argc=1, argv=0x7fffffffdb38) at gtk.c:84
+
+```
+
+g_application_run 
+libgio-2.0.so.0
+
+
 # 2024-3-8 | 
 
 Exec=env QT_QPA_PLATFORM=xcb copyq
