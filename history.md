@@ -3,6 +3,204 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+光速不变原理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%89%E9%80%9F%E4%B8%8D%E5%8F%98%E5%8E%9F%E7%90%86
+
+faculty.cs.niu.edu/~berezin/463/Assns/clocks.html
+https://faculty.cs.niu.edu/~berezin/463/Assns/clocks.html
+
+1 ns to s - Google 搜索
+https://www.google.com/search?q=1+ns+to+s&rlz=1C1GCEA_enJP1090JP1090&oq=1+ns+&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPNIBCDUzOTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+That's completely false. The speed of light *today* already constrains processor... | Hacker News
+https://news.ycombinator.com/item?id=12384596
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=wayland&sort=byPopularity&type=story
+
+AI crap
+https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html
+
+drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html
+https://drewdevault.com/2021/02/02/Anti-Wayland-horseshit.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+中国 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi&sca_esv=3dab22cb58f70106&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn090LV9Dm30MmFmodPvK0Cvr8J2MxQ%3A1709951763462&ei=E8vrZZPwG7i4seMP1q6g-AM&ved=0ahUKEwjTxcbbkuaEAxU4XGwGHVYXCD8Q4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGkyChAjGIAEGIoFGCcyBBAjGCcyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBhAAGAcYHjIGEAAYBxgeSI8FUM4CWM4CcAF4AZABAJgBkAGgAZABqgEDMC4xuAEDyAEA-AEBmAICoAKWAcICBxAjGLADGCfCAgoQABhHGNYEGLADmAMAiAYBkAYKkgcDMS4xoAe2BQ&sclient=gws-wiz-serp#ip=1
+
+• Discord | #help | Bun
+https://discord.com/channels/876711213126520882/1006402902513946735
+
+breaking change in 21.7.0 when mocking fetch · Issue #52015 · nodejs/node
+https://github.com/nodejs/node/issues/52015
+
+lib: define FormData and fetch etc. in the built-in snapshot by joyeecheung · Pull Request #51598 · nodejs/node
+https://github.com/nodejs/node/pull/51598#issuecomment-1984341350
+
+Wayland To-Do List
+https://chat.openai.com/c/e39ac582-d113-4395-84a6-d808d6997a7e
+
+Justine Tunney (@JustineTunney) / X
+https://twitter.com/JustineTunney
+
+Make loading weights 10-100x faster by jart · Pull Request #613 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/pull/613
+
+jart (Justine Tunney)
+https://github.com/jart
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=swc%20project%20&sort=byPopularity&type=story
+
+feature(cli): don't block forever waiting on stdin by bcmyers · Pull Request #5017 · swc-project/swc
+https://github.com/swc-project/swc/pull/5017
+
+(1) #Outreachy > Introductions - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Introductions
+
+财经数据 _ 工业品出厂价格指数(PPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/ppi.html
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+两元店
+https://liangyuandian.xyz/#/order
+
+MLsys各方向综述 - 知乎
+https://zhuanlan.zhihu.com/p/104444471
+
+分布式系统 - 随笔分类 - Pentium.Labs - 博客园
+https://www.cnblogs.com/pdev/category/1510614.html
+
+Distributed Deep Learning - Pentium.Labs - 博客园
+https://www.cnblogs.com/pdev/p/11528359.html
+
+科普：分布式深度学习系统（二） - 知乎
+https://zhuanlan.zhihu.com/p/30976469
+
+科普：分布式深度学习系统（一） - 知乎
+https://zhuanlan.zhihu.com/p/29032307
+
+Paper Reading_System for ML - Pentium.Labs - 博客园
+https://www.cnblogs.com/pdev/p/12617015.html
+
+矩阵乘法与 SIMD | Chenfan Blog
+https://jcf94.com/2021/08/28/2021-08-28-simd/#more
+
+(2 封私信 / 46 条消息) 蓝色 - 知乎
+https://www.zhihu.com/people/lan-se-52-30/posts
+
+浮点峰值那些事儿 - 知乎
+https://zhuanlan.zhihu.com/p/28226956
+
+(2 封私信 / 46 条消息) 高洋 - 知乎
+https://www.zhihu.com/people/gao-yang-46
+
+TVM、MXNET、XGBoost作者陈天奇为你讲解机器学习系统论文 - 知乎
+https://zhuanlan.zhihu.com/p/95040793
+
+GaiaGPU: Sharing GPUs in Container Clouds · Issue #179 · dyweb/papers-notebook
+https://github.com/dyweb/papers-notebook/issues/179
+
+doocs/coding-interview: 😀 代码面试题集，包括剑指 Offer、编程之美等
+https://github.com/doocs/coding-interview
+
+hengqiali/AwesomeCpp: ---AWESOME--- C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等
+https://github.com/hengqiali/AwesomeCpp
+
+GcsSloop/AndroidNote: 安卓学习笔记
+https://github.com/GcsSloop/AndroidNote
+
+denysdovhan/wtfjs: 🤪 A list of funny and tricky JavaScript examples
+https://github.com/denysdovhan/wtfjs
+
+denysdovhan/wtfjs: 🤪 A list of funny and tricky JavaScript examples
+https://github.com/denysdovhan/wtfjs?tab=readme-ov-file#undefined-and-number
+
+庄周梦蝶
+http://blog.fnil.net/
+
+(2 封私信 / 46 条消息) Pentium PRO - 知乎
+https://www.zhihu.com/people/pdev/posts
+
+Forks · pentium3/sys_reading
+https://github.com/pentium3/sys_reading/forks
+
+MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving · Issue #319 · pentium3/sys_reading
+https://github.com/pentium3/sys_reading/issues/319
+
+marcoszh (Chengliang Zhang)
+https://github.com/marcoszh
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//www.1point3acres.com/bbs/thread-765759-1-1.html
+
+WukLab Home Page
+https://engineering.purdue.edu/WukLab/
+
+AI-Sys Sp19
+https://ucbrise.github.io/cs294-ai-sys-sp19/
+
+AI-Sys Sp22
+https://ucbrise.github.io/cs294-ai-sys-sp22/
+
+lec_02
+https://ucbrise.github.io/cs294-ai-sys-sp22/assets/lectures/lec02/lec_02.pdf
+
+AI-Sys Sp19
+https://ucbrise.github.io/cs294-ai-sys-sp19/
+
+Joseph E. Gonzalez: About
+https://people.eecs.berkeley.edu/~jegonzal/
+
+阿里PAI团队大规模算法组-Deep Learning团队实习生招聘帖 - 知乎
+https://zhuanlan.zhihu.com/p/36316064
+
+(2 封私信 / 46 条消息) 杨军 - 知乎
+https://www.zhihu.com/people/yang-jun-14/asks
+
+Add LINM (Loop Invariant Node Motion) optimization pass in GraphOptim… by minminsun · Pull Request #16306 · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow/pull/16306
+
+minminsun (Minmin Sun (孙敏敏))
+https://github.com/minminsun
+
+从零开始山寨Caffe·壹：仰望星空与脚踏实地 - Physcal - 博客园
+https://www.cnblogs.com/neopenx/p/5187586.html
+
+CS294: AI for Systems and Systems for AI (Spring 2019) - RISE Lab
+https://rise.cs.berkeley.edu/course/cs294-ai-for-systems-and-systems-for-ai-ai-sys/
+
+kubedl-io/kubedl: Run your deep learning workloads on Kubernetes more easily and efficiently.
+https://github.com/kubedl-io/kubedl
+
+Andrej Karpathy - Google 搜索
+https://www.google.com/search?q=Andrej+Karpathy&rlz=1C1GCEA_enJP1090JP1090&oq=Andrej+Karpathy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+192.168.43.246:8080/0002_Part_2--%5BTutFlix.ORG%5D--.mp4
+http://192.168.43.246:8080/0002_Part_2--%5BTutFlix.ORG%5D--.mp4
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+GPU usage monitoring (CUDA) - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/38560/gpu-usage-monitoring-cuda
+
+(1) #general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+VLDB github issue - Google 搜索
+https://www.google.com/search?q=VLDB+github+issue+&sca_esv=4a925da9862a794d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-xFCfjJvyNOJ_IxFVdzADKb_hiGQ%3A1709974722642&ei=wiTsZennJtm8seMPmYWcyAk&ved=0ahUKEwjp0Kuf6OaEAxVZXmwGHZkCB5kQ4dUDCBA&uact=5&oq=VLDB+github+issue+&gs_lp=Egxnd3Mtd2l6LXNlcnAiElZMREIgZ2l0aHViIGlzc3VlIDIFECEYoAEyBRAhGKABMgUQIRigAUiHCVDHAlidBnABeACQAQCYAa0BoAHNAqoBAzAuMrgBA8gBAPgBAZgCA6AC1gLCAgsQABiJBRiiBBiwA8ICCxAAGIAEGKIEGLADmAMAiAYBkAYEkgcDMS4yoAf0Aw&sclient=gws-wiz-serp#ip=1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 #Outreachy - Servo - Zulip
 https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
 

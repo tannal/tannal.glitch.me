@@ -1,5 +1,20 @@
 # 2024-3-9 | 
 
+https://www.cnblogs.com/pdev/category/1510614.html
+
+export https_proxy=http://10.90.143.252:7890
+export http_proxy=http://10.90.143.252:7890
+
+watch -d -n 0.5 nvidia-smi
+
+web
+GUI toolkit QT GTK & 3d rendering & Graphics & browser
+window API glfw winit 
+window system
+drm
+driver
+hardware
+
 https://github.com/pentium3/sys_reading
 
 从动作中学习”（比如某个参数从小调到大）
