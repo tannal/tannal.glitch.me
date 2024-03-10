@@ -1,5 +1,32 @@
 # inbox
 
+ringbuffer 
+
+b MacrotaskQueue::RunMacrotasks
+b MicrotaskQueue::RunMicrotasks
+
+```cpp
+
+void MicrotaskQueue::EnqueueMicrotask(Tagged<Microtask> microtask) {
+  if (size_ == capacity_) {
+    // Keep the capacity of |ring_buffer_| power of 2, so that the JIT
+    // implementation can calculate the modulo easily.
+    intptr_t new_capacity = std::max(kMinimumCapacity, capacity_ << 1);
+    ResizeBuffer(new_capacity);
+  }
+
+  DCHECK_LT(size_, capacity_);
+  ring_buffer_[(start_ + size_) % capacity_] = microtask.ptr();
+  ++size_;
+}
+
+V8's micro task queue
+  isolate->GetCurrentContext()->GetMicrotaskQueue()
+      ->EnqueueMicrotask(isolate, args[0].As<Function>());
+
+
+```
+
 SourceTextModule->GetStalledTopLevelAwaitMessage
 
 v8 module

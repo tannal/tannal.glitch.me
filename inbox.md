@@ -1,5 +1,27 @@
 # 2024-3-10 | 
 
+queueMicrotask(() => console.log(2));
+
+Graphics Memory Controller (GMC)
+understanding & familiar
+
+create
+improve
+
+
+x11 xcb_connect () from /lib/x86_64-linux-gnu/libxcb.so
+
+XCB
+Wayland
+DirectFB
+DirectToDisplay
+
+winit call wayland rust
+window system integrations
+
+is it alsa or is it pulse ? - Multimedia
+
+
 https://www.zhihu.com/people/yidui-fei-zhi/posts
 
 https://opendatalab.com/
