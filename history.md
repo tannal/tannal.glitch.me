@@ -1,5 +1,8 @@
 # 2024-3-10
 
+(2 封私信 / 50 条消息) ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？ - 知乎
+https://www.zhihu.com/question/596230048
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
