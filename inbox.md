@@ -1,5 +1,52 @@
 # 2024-3-10 | 
 
+pip install meson -i https://mirrors.sustech.edu.cn/pypi/web/simple
+
+
+https://github.com/ValveSoftware
+
+sudo apt-get update
+
+git clone https://gitlab.freedesktop.org/mesa/mesa.git
+sudo apt install glslang-tools
+sudo apt install zypper
+sudo zypper source-install --build-deps-only Mesa
+
+glxinfo
+glxgears
+
+
+```bash
+tannal@desktop:~/tannalwork/projects/v8/v8$ glxinfo | grep "OpenGL renderer"
+
+OpenGL renderer string: AMD Radeon RX 460 Graphics (polaris11, LLVM 15.0.7, DRM 3.49, 6.2.0-39-generic)
+```
+
+```bash
+tannal@desktop:~/tannalwork/projects/v8/v8$ lsmod | grep -i "amdgpu"
+amdgpu              14540800  44
+iommu_v2               24576  1 amdgpu
+drm_buddy              20480  1 amdgpu
+gpu_sched              61440  1 amdgpu
+drm_ttm_helper         16384  1 amdgpu
+ttm                   110592  2 amdgpu,drm_ttm_helper
+drm_display_helper    212992  1 amdgpu
+drm_kms_helper        249856  4 drm_display_helper,amdgpu
+i2c_algo_bit           16384  1 amdgpu
+drm                   700416  21 gpu_sched,drm_kms_helper,drm_display_helper,drm_buddy,amdgpu,drm_ttm_helper,ttm
+video                  73728  2 asus_wmi,amdgpu
+
+not open source
+```
+
+
+
+vkQueueSubmit
+libvulkan.so
+gdb ./build/bin/ssao
+
+vkQueueSubmit
+
 devices
 
 
