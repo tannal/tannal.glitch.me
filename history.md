@@ -1,3 +1,179 @@
+# 2024-3-10
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+NLnet; Servo
+https://nlnet.nl/project/Servo/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+ChatGPT
+https://chat.openai.com/c/35e84f99-8d7d-41d9-b081-f37bb1e1782b
+
+Cannot remove PowerShell environment variables - Stack Overflow
+https://stackoverflow.com/questions/69965728/cannot-remove-powershell-environment-variables
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=reading%20group&sort=byPopularity&type=story
+
+Paper #155. QuePaxa: Escaping the tyranny of timeouts in consensus. - YouTube
+https://www.youtube.com/watch?v=kZMma6jbhqM
+
+About Me – Aleksey Charapko
+https://charap.co/about-me/
+
+Christopher Meiklejohn
+https://christophermeiklejohn.com/
+
+Teaching - The Stanford Natural Language Processing Group
+https://nlp.stanford.edu/teaching/
+
+Murat Demirbas
+https://cse.buffalo.edu/~demirbas/
+
+My Distributed Systems Seminar reading list for Spring 2015
+https://muratbuffalo.blogspot.com/2015/01/my-distributed-systems-seminar-reading.html
+
+Spring Term Reading Group Papers: ##131-140 – Aleksey Charapko
+https://charap.co/spring-term-reading-group-papers-131-140/
+
+FUSEE: A Fully Memory-Disaggregated Key-Value Store | USENIX
+https://www.usenix.org/conference/fast23/presentation/shen
+
+fast23-shen.pdf
+https://www.usenix.org/system/files/fast23-shen.pdf
+
+y-websocket/src/y-websocket.js at master · yjs/y-websocket
+https://github.com/yjs/y-websocket/blob/master/src/y-websocket.js
+
+yrs - crates.io: Rust Package Registry
+https://crates.io/crates/yrs
+
+vim shell command - Google 搜索
+https://www.google.com/search?q=vim+shell+command&sca_esv=01fd5b34e9d467a5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09_hEALNldK3JjiirkrkhmRrwApLA%3A1709994446651&ei=znHsZcGqJ9eD0PEPnNGiiA4&oq=vim+shell&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXZpbSBzaGVsbCoCCAEyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI9wxQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACBpgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+neovim/neovim · Discussions · GitHub
+https://github.com/neovim/neovim/discussions
+
+You might not need a CRDT | Hacker News
+https://news.ycombinator.com/item?id=33865672
+
+drifting-in-space/aper: A Rust data structure library built on state machines.
+https://github.com/drifting-in-space/aper
+
+Online Word Processor | Create & Edit Documents Online - Writer
+https://www.zoho.com/writer/?zsrc=fromproduct
+
+Profile: eatonphil | Hacker News
+https://news.ycombinator.com/user?id=eatonphil
+
+Profile: jitl | Hacker News
+https://news.ycombinator.com/user?id=jitl
+
+You Might Not Need a CRDT: Document Sync in the Wild by Paul Butler - YouTube
+https://www.youtube.com/watch?v=0d73MdQkJOk
+
+NYC Systems - YouTube
+https://www.youtube.com/@NYCSystems/featured
+
+You might not need a CRDT | Drifting in Space
+https://driftingin.space/posts/you-might-not-need-a-crdt
+
+Plane – run WebSocket backends at scale
+https://plane.dev/
+
+How Mozilla’s Rust dramatically improved our server-side performance | Figma Blog
+https://www.figma.com/blog/rust-in-production-at-figma/
+
+Rust in production at Figma | Hacker News
+https://news.ycombinator.com/item?id=16977932
+
+word.red: fast-paced multiplayer word game
+https://word.red/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=predates&op=translate
+
+justjake (justjake) / Repositories
+https://github.com/justjake?tab=repositories
+
+EnterpriseDB 知乎 - Google 搜索
+https://www.google.com/search?q=EnterpriseDB+%E7%9F%A5%E4%B9%8E&sca_esv=59c13155e087bde1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08_u3aV__fKR34p4Zj7sk9lF9NcsA%3A1709997792717&ei=4H7sZZO0K7aD0PEP6rqtOA&ved=0ahUKEwiTpIGYvueEAxW2ATQIHWpdCwcQ4dUDCBA&uact=5&oq=EnterpriseDB+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0VudGVycHJpc2VEQiDnn6XkuY4yBRAhGKABMgUQIRigATIFECEYoAFIjhRQ6glYkBNwAXgBkAEBmAGVBKABgQ2qAQczLTIuMS4xuAEDyAEA-AEBmAIDoAK0BsICChAAGEcY1gQYsAPCAg4QLhiABBjLARjHARjRA8ICCBAAGIAEGMsBwgIOEC4YgAQYywEYxwEYrwHCAh0QLhiABBjLARjHARjRAxiXBRjcBBjeBBjgBNgBAZgDAIgGAZAGCboGBggBEAEYFJIHBzEuMy0xLjGgB7gO&sclient=gws-wiz-serp#ip=1
+
+Job Openings | EDB
+https://www.enterprisedb.com/careers/job-openings
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+WebSockets · Cloudflare Network settings docs
+https://developers.cloudflare.com/network/websockets/
+
+Robert Haas
+https://rhaas.blogspot.com/
+
+Michael Stonebraker - Wikipedia
+https://en.wikipedia.org/wiki/Michael_Stonebraker
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class3
+
+osdi23-meza.pdf
+https://www.usenix.org/system/files/osdi23-meza.pdf
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Flash HTTP server rewrite - umbrella issue · Issue #17146 · denoland/deno
+https://github.com/denoland/deno/issues/17146
+
+flash: `Deno.serve` drops response body chunks if empty chunk is enqueued · Issue #17194 · denoland/deno
+https://github.com/denoland/deno/issues/17194
+
+(oﾟvﾟ)ノ Hi - Tail Latency学习
+https://www.cnblogs.com/Rohn/p/15123758.html
+
+Recent Articles Reading: Machine Learning and LLM
+https://accelazh.github.io/ai/Recent-Articles-Reading-ML-LLM
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20tail%20at%20scale&sort=byPopularity&type=story
+
+zplizzi (Zack Polizzi)
+https://github.com/zplizzi
+
+rl-for-llms.md
+https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81
+
+PPO 算法 - Google 搜索
+https://www.google.com/search?q=PPO+%E7%AE%97%E6%B3%95&rlz=1C1GCEA_enJP1090JP1090&oq=PPO+%E7%AE%97%E6%B3%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgMGIAE0gEIMjE5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+1707.06347.pdf
+https://arxiv.org/pdf/1707.06347.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Proximal%20Policy%20Optimization%20Algorithms&sort=byPopularity&type=story
+
+The 37 Implementation Details of Proximal Policy Optimization · The ICLR Blog Track
+https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
 # 2024-3-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

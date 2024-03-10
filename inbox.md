@@ -1,4 +1,52 @@
+# 2024-3-10 | 
+
+https://www.zhihu.com/people/yidui-fei-zhi/posts
+
+https://opendatalab.com/
+
+Reinforcement Learning from Human Feedback
+
+single-process eventdriven (SPED) architecture
+
+Apache HTTP Server:
+Microsoft Internet Information Services (IIS)
+Netscape Enterprise Server:
+
+Enterprise Focus: Netscape Enterprise Server was developed by Netscape Communications Corporation. It was designed with an enterprise focus, aiming to meet the demands of large-scale websites and applications.
+Dynamic Content: Netscape Enterprise Server supported dynamic content through technologies like Server-Side JavaScript (SSJS) and server-side includes (SSI).
+CERN HTTPd:
+
+Early Pioneer: CERN HTTPd, developed at CERN (European Organization for Nuclear Research), was one of the earliest web servers. It played a crucial role in the early development of the World Wide Web.
+Single-Process Model: CERN HTTPd used a single-process, single-threaded model, handling one request at a time. While it was a simple and lightweight server, it had limitations in terms of scalability.
+
+asymmetric multi-process eventdriven (AMPED) architecture
+
 # 2024-3-9 | 
+
+Cloud Computing Systems class.
+The class covers the design principles behind systems the make up the cloud infrastructure and enable cloud applications.
+
+https://christophermeiklejohn.com/
+
+https://nlp.stanford.edu/teaching/
+
+https://cse.buffalo.edu/~demirbas/
+
+https://charap.co/spring-term-reading-group-papers-131-140/
+
+https://rhaas.blogspot.com/
+
+As part of this project we'll add support for more CSS features to the Servo layout. 
+The main areas of work on this project would be support for floats, writing modes and tables; 
+which will increase the number of web pages and applications render properly in Servo.
+
+https://www.enterprisedb.com/careers/job-openings
+
+working on Notion CRDT https://news.ycombinator.com/user?id=jitl
+
+Set-Location Env:
+rm Python3
+
 
 [Error - 10:01:13 PM] Request textDocument/codeAction failed.
   Message: Request textDocument/codeAction failed with message: too much recursion
