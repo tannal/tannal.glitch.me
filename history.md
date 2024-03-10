@@ -1,5 +1,86 @@
 # 2024-3-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+src/gallium/frontends · main · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/tree/main/src/gallium/frontends?ref_type=heads
+
+Yiwei Zhang · GitLab
+https://gitlab.freedesktop.org/zzyiwei
+
+CRDT Papers • Conflict-free Replicated Data Types
+https://crdt.tech/papers.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Can't use RSYNC daemon via SSH connection - Stack Overflow
+https://stackoverflow.com/questions/22726183/cant-use-rsync-daemon-via-ssh-connection
+
+V8 Micro Task Queue
+https://chat.openai.com/c/59d473e7-c306-44fb-9b9f-8d7ae0e4694c
+
+cloudflare/pingora: A library for building fast, reliable and evolvable network services.
+https://github.com/cloudflare/pingora
+
+redhat - rsync: @ERROR: auth failed on module tomcat_backup - Stack Overflow
+https://stackoverflow.com/questions/32301221/rsync-error-auth-failed-on-module-tomcat-backup
+
+Quoting In CMake - Crascit
+https://crascit.com/2022/01/25/quoting-in-cmake/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+compiling - Install Mesa3D on Debian - LIBDRM not found by configure autoconf - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/271522/install-mesa3d-on-debian-libdrm-not-found-by-configure-autoconf
+
+Build Error: Dependency "LLVMSPIRVLib" not found (#10695) · Issues · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/issues/10695
+
+compiling - llvm dev package missing libclangBasic - Ask Ubuntu
+https://askubuntu.com/questions/1220739/llvm-dev-package-missing-libclangbasic
+
+pkg config - Problem with Wayland - Ask Ubuntu
+https://askubuntu.com/questions/1177346/problem-with-wayland
+
+[WSL] opencv fails to install on ubuntu - fails to compile cairo · Issue #22338 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/22338
+
+Build issue: 'opencl-c-base.h' file not found · Issue #183 · intel/compute-runtime
+https://github.com/intel/compute-runtime/issues/183
+
+Compile Error: 'opencl-c-base.h' file not found (#10708) · Issues · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/issues/10708
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20pingora&sort=byPopularity&type=story
+
+Pingora, the proxy that connects Cloudflare to the Internet | Hacker News
+https://news.ycombinator.com/item?id=32836661
+
+cloudflare/pingora: A library for building fast, reliable and evolvable network services.
+https://github.com/cloudflare/pingora
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+zzyiwei github - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=zzyiwei+github
+
+zzyiwei chromium google - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=zzyiwei+chromium+google
+
+Yiwei Zhang chromim - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Yiwei+Zhang++chromim
+
+LUCI
+https://github.com/luci
+
+Yiwei Zhang chromium - Google Scholar
+https://scholar.google.co.jp/scholar?q=Yiwei+Zhang+chromium&hl=ja&as_sdt=0&as_vis=1&oi=scholart
+
 vj.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
