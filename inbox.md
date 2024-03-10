@@ -1,5 +1,116 @@
 # 2024-3-10 | 
 
+
+sudo systemctl daemon-reload
+sudo systemctl enable videos
+sudo systemctl restart videos
+
+sudo vim /etc/systemd/system/videos.service
+[Unit]
+Description = videos
+
+[Service]
+Type = simple
+WorkingDirectory=/home/tannal/tannalwork/videos/
+ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.11.1/bin/:$PATH http-server .'
+Restart=always
+
+[Install]
+WantedBy = multi-user.target
+
+
+
+sudo cp /usr/lib/clang/16/include/*.h /usr/include/
+
+```bash
+nv MESA_SHADER_CACHE_DISABLE=true 
+/home/tannal/tannalwork/projects/mesa/build/src/intel/compiler/intel_clc 
+--nir --gfx-version=12 --prefix gfx12_intel_shaders --in ../src/intel/shaders/libintel_shaders.h --in ../src/intel/shaders/generate.cl --in ../src/intel/shaders/generate_draws.cl --in ../src/intel/shaders/generate_draws_iris.cl --in ../src/intel/shaders/memcpy.cl --in ../src/intel/shaders/query_copy.cl -o src/intel/shaders/intel_gfx12_shaders_code.h -- -cl-std=cl2.0 -D__OPENCL_VERSION__=200 -DGFX_VERx10=120 -I/home/tannal/tannalwork/projects/mesa/src/intel/shaders/. -I/home/tannal/tannalwork/projects/mesa/src -I/home/tannal/tannalwork/projects/mesa/src/intel -I/home/tannal/tannalwork/projects/mesa/build/src/intel -I/home/tannal/tannalwork/projects/mesa/src/intel/genxml
+
+```
+
+Note that you can use https://packages.ubuntu.com/ to search which package might include a file.
+
+
+meson compile -C build
+sudo apt install libclang-common-15-dev
+
+```bash
+libarchive 3.7.2
+
+    regex support: glibc
+
+mesa 24.1.0-devel
+
+  Directories
+    prefix                       : /usr/local
+    libdir                       : lib/aarch64-linux-gnu
+    includedir                   : include
+
+  Common C and C++ arguments
+    c_cpp_args                   :
+
+  OpenGL
+    OpenGL                       : YES
+    ES1                          : YES
+    ES2                          : YES
+    Shared glapi                 : YES
+    GLVND                        : NO
+
+  DRI
+    Platform                     : drm
+    Driver dir                   : /usr/local/lib/aarch64-linux-gnu/dri
+
+  GLX
+    Enabled                      : YES
+    Provider                     : dri
+
+  EGL
+    Enabled                      : YES
+    Drivers                      : builtin:egl_dri2 builtin:egl_dri3
+    Platforms                    : x11 wayland surfaceless drm xcb
+
+  GBM
+    Enabled                      : YES
+    Backends path                : /usr/local/lib/aarch64-linux-gnu/gbm
+
+  Vulkan
+    Drivers                      : swrast intel
+    Platforms                    : x11 wayland surfaceless drm xcb
+    ICD dir                      : share/vulkan/icd.d
+    Intel Ray tracing            : NO
+
+  Video
+    Codecs                       : av1dec av1enc vp9dec
+    APIs                         : vulkan xa
+
+  LLVM
+    Enabled                      : YES
+    Version                      : 16.0.6
+
+  Gallium
+    Enabled                      : YES
+    Drivers                      : v3d vc4 freedreno etnaviv nouveau svga tegra
+                                   virgl lima panfrost swrast iris zink
+    Platforms                    : x11 wayland surfaceless drm xcb
+    Frontends                    : mesa xa
+    Off-screen rendering (OSMesa): NO
+    HUD lm-sensors               : NO
+
+  Perfetto
+    Enabled                      : NO
+
+  Teflon (TensorFlow Lite delegate)
+    Enabled                      : NO
+
+  Subprojects
+    libarchive                   : YES
+    lua                          : YES
+    wayland-protocols            : YES
+
+Found ninja-1.11.1 at /usr/bin/ninja
+```
+
 pip install meson -i https://mirrors.sustech.edu.cn/pypi/web/simple
 
 
@@ -8,7 +119,10 @@ https://github.com/ValveSoftware
 sudo apt-get update
 
 git clone https://gitlab.freedesktop.org/mesa/mesa.git
-sudo apt install glslang-tools
+sudo apt install glslang-tools libclc-17-dev libdrm-dev libllvmspirvlib-16-dev libclang-dev libwayland-dev libwayland-egl-backend-dev libx11-dev libxext-dev libxfixes-dev
+
+sudo apt install libx11-dev libxext-dev libxfixes-dev libx11-xcb-dev libxcb-keysyms1-dev libxcb-glx0-dev libxcb-dri2-0-dev libxcb-dri3-dev libxcb-present-dev libxcb-sync-dev libxcb-xfixes0-dev libxshmfence-dev libxxf86vm-dev libxrandr-dev
+
 sudo apt install zypper
 sudo zypper source-install --build-deps-only Mesa
 
