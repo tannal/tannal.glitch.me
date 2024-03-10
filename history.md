@@ -1,5 +1,196 @@
 # 2024-3-10
 
+vj.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Supermarket - POJ 1456 - Virtual Judge
+https://vjudge.net/problem/POJ-1456
+
+Status - Virtual Judge
+https://vjudge.net/status#google_vignette
+
+CS 341 · Malloc
+https://cs341.cs.illinois.edu/coursebook/Malloc#case-study:-buddy-allocator,-an-example-of-a-segregated-list
+
+Read-copy update: Using execution history to solve concurrency problems · Issue #3 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/3
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=4&prefix=true&query=reading%20group&sort=byPopularity&type=story
+
+pages.edmarferreira.com
+https://pages.edmarferreira.com/pytorch-study-group
+
+does my dream, my hope finishes here?
+https://groups.google.com/g/comp.lang.lisp/c/vIVxUZbtdjI/m/ESlz4N7sdBoJ
+
+Teach Yourself Programming in Ten Years
+https://www.norvig.com/21-days.html
+
+Home - Khoury College of Computer Sciences
+https://www.khoury.northeastern.edu/
+
+503 first byte timeout
+https://www.collectoral.com/group/hacker-news
+
+Erik Naggum - Google 搜索
+https://www.google.com/search?q=Erik+Naggum&rlz=1C1GCEA_enJP1090JP1090&oq=Erik+Naggum&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+C++ Working Draft
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/n4928.pdf
+
+ChatGPT
+https://chat.openai.com/c/087aae2a-20cd-4dee-b6de-abd9d10b350c
+
+Erik Naggum - Wikipedia
+https://en.wikipedia.org/wiki/Erik_Naggum
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Erik%20Naggum&sort=byPopularity&type=story
+
+https://groups.google.com/forum/m/
+https://www.google.com/sorry/index?continue=https://groups.google.com/forum/m/&q=EhAkAIkFAAAAAPA8lP_-DDA5GLyktK8GIjD_1Wr3Peo6QIdVDGQ2cNIYH-BmVf8qgOhhIq64gU3zEnlFW1tGep1UuvMiz8sw5E8yAXJaAUM#!msg/comp.lang.lisp/FMvNGxgd8Dk/_rN9cGrD9GAJ
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+About Crascit
+https://crascit.com/about/
+
+arm 服务器 - Google 搜索
+https://www.google.com/search?q=arm+%E6%9C%8D%E5%8A%A1%E5%99%A8&rlz=1C1GCEA_enJP1090JP1090&oq=arm+%E6%9C%8D%E5%8A%A1%E5%99%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQIxgnGJ0CGIAEGIoFMgwIAhAjGCcYgAQYigUyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgcICBAAGIAEMgkICRAAGAwYgATSAQgxOTczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Eplankton/EmbedRoadAndCSInEU: 嵌入式软件与欧陆CS留学工作
+https://github.com/Eplankton/EmbedRoadAndCSInEU
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+rsync - Rsyncd.secrets file linux permission: should not be read by group and others - Stack Overflow
+https://stackoverflow.com/questions/26007928/rsyncd-secrets-file-linux-permission-should-not-be-read-by-group-and-others
+
+How To Compile PostgreSQL for Windows 64bit - YouTube
+https://www.youtube.com/watch?v=-BJmuZT5IPE
+
+• Discord | #forge | Typst
+https://discord.com/channels/1054443721975922748/1175885362065834105
+
+Changelog – Typst Documentation
+https://staging.typst.app/docs/changelog
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cs.illinois.edu&sort=byPopularity&type=story
+
+Getting Started — Syncthing documentation
+https://docs.syncthing.net/intro/getting-started.html
+
+Qualcomm: Intelligent Computing Everywhere
+https://www.qualcomm.com/
+
+Qualcomm: Intelligent Computing Everywhere
+https://www.qualcomm.com/
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cs341&sort=byPopularity&type=story
+
+The University of Auckland - COMPSCI 340 S2 C - Lectures
+https://www.cs.auckland.ac.nz/courses/compsci340s2c/lectures/
+
+cs241.cs.illinois.edu
+http://cs241.cs.illinois.edu/
+
+RISC-V Interpreter
+https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/#
+
+riscv-spec-v2.2.pdf
+https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+
+Lambdas, Nested Functions, and Blocks, oh my! (C23 lambdas proposal) : r/C_Programming
+https://www.reddit.com/r/C_Programming/comments/omaup4/lambdas_nested_functions_and_blocks_oh_my_c23/
+
+n2892.pdf
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2892.pdf
+
+sort in c library - Google 搜索
+https://www.google.com/search?q=sort+in+c+library&sca_esv=8b94fdf9c54254b4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-mUxAZ11un9fCaUYd8BbsEae9UOw%3A1710060285440&ei=_XLtZYq-GrinseMP-7-l6Ac&oq=sort+in+c+lib&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXNvcnQgaW4gYyBsaWIqAggAMggQABiABBjLATIGEAAYCBgeMgYQABgIGB5IpRBQ4wJYtwdwAXgAkAEAmAGWAaABsAWqAQMwLjW4AQPIAQD4AQGYAgWgAsUEwgIKEAAYRxjWBBiwA8ICBBAAGB7CAgYQABgeGAzCAgYQABgFGB7CAggQABgFGB4YDJgDAIgGAZAGCpIHAzEuNKAHlhE&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=descending&op=translate
+
+Bobby Kotick - Google 搜索
+https://www.google.com/search?q=Bobby+Kotick&rlz=1C1GCEA_enJP1090JP1090&oq=Bobby+Kotick&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1MWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+A supermarket has a set Prod of products on sale. It earns a profit px for each product x∈Prod sold by a deadline dx that is measured as an integral number of time units starting from the moment the sale begins. - Google 搜索
+https://www.google.com/search?q=A+supermarket+has+a+set+Prod+of+products+on+sale.+It+earns+a+profit+px+for+each+product+x%E2%88%88Prod+sold+by+a+deadline+dx+that+is+measured+as+an+integral+number+of+time+units+starting+from+the+moment+the+sale+begins.&rlz=1C1GCEA_enJP1090JP1090&oq=A+supermarket+has+a+set+Prod+of+products+on+sale.+It+earns+a+profit+px+for+each+product+x%E2%88%88Prod+sold+by+a+deadline+dx+that+is+measured+as+an+integral+number+of+time+units+starting+from+the+moment+the+sale+begins.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBBzEzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+6.8300/1 Schedule
+https://advances-in-vision.github.io/schedule.html
+
+7_neural_nets.pdf - Google 云端硬盘
+https://drive.google.com/file/d/17p8X4PhqAobf2KtSY1qZaaTNQxiPHXaA/view
+
+Document
+http://localhost:8080/static/
+
+ESM>Playground
+https://code.esm.sh/
+
+esm-dev/esm.sh: A fast, smart, & global CDN for modern(es2015+) web development.
+https://github.com/esm-dev/esm.sh
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tsoding%20&sort=byPopularity&type=story
+
+rswinkle/PortableGL: An implementation of OpenGL 3.x-ish in clean C
+https://github.com/rswinkle/PortableGL
+
+树莓派5 usb 2 插不进去 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE5+usb+2+%E6%8F%92%E4%B8%8D%E8%BF%9B%E5%8E%BB&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE5+usb+2+%E6%8F%92%E4%B8%8D%E8%BF%9B%E5%8E%BB&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDY4NTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+X 上的 Тsфdiиg：“React devs who's telling me that create-react-app is deprecated and I should've not used it, etc, etc. Blame @DuckDuckGo not me. I'm just learning things as any normal human being would. ¯\_(ツ)_/¯ https://t.co/MRZXsSE2RX” / X
+https://twitter.com/tsoding/status/1723888124340666469
+
+windows environment variables - Google 搜索
+https://www.google.com/search?q=windows+environment+variables&rlz=1C1GCEA_enJP1090JP1090&oq=windows+env&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyNTI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How to Set Environment Variables in Windows 10 & 11 - YouTube
+https://www.youtube.com/watch?v=5BTnfpIq5mI
+
+servo/README.md at f44cefa8166955776c442c7636a159f8e582b469 · servo/servo
+https://github.com/servo/servo/blob/f44cefa8166955776c442c7636a159f8e582b469/README.md?plain=1#L206
+
+Building · servo/servo Wiki
+https://github.com/servo/servo/wiki/Building#windows
+
+Lit
+https://lit.dev/
+
+Getting Started – Lit
+https://lit.dev/docs/getting-started/
+
+Lit
+https://lit.dev/
+
+• Discord | #general | Modern Web
+https://discord.com/channels/944894512717770762/945061454116188210
+
+</> htmx ~ Documentation
+https://htmx.org/docs/#installing
+
+bigskysoftware/htmx: </> htmx - high power tools for HTML
+https://github.com/bigskysoftware/htmx
+
+
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
