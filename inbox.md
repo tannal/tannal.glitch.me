@@ -1,5 +1,6 @@
 # 2024-3-10 | 
 
+C lambda proposal https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2892.pdf
 
 sudo systemctl daemon-reload
 sudo systemctl enable videos
