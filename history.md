@@ -1,5 +1,71 @@
 # 2024-3-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+atherosai/ui: Simple UI examples from my social media
+https://github.com/atherosai/ui
+
+ZY546/lab3-SimpleFileManager: -lab6
+https://github.com/ZY546/lab3-SimpleFileManager
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Vulkan® 1.0.280 - A Specification (with all ratified extensions)
+https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/vkspec.html#fundamentals-host-environment
+
+gpu buffer object - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gpu+buffer+object
+
+5.3 - A Primer on Buffer Objects — LearnWebGL
+http://learnwebgl.brown37.net/rendering/buffer_object_primer.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ember graphql - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ember+graphql
+
+jira - Google 検索
+https://www.google.com/search?q=jira+&client=ubuntu-sn&hs=RkX&sca_esv=8b94fdf9c54254b4&channel=fs&ei=sxbtZZLnJaLV1e8P3bWpuAE&ved=0ahUKEwjSjJn9zuiEAxWiavUHHd1aChcQ4dUDCBA&uact=5&oq=jira+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWppcmEgMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgARI_AZQpQVYpQVwAHgCkAEAmAHOAaABzgGqAQMyLTG4AQPIAQD4AQGYAgKgAt8BwgIEEAAYR5gDAOIDBRIBMSBAiAYBkAYKkgcFMS4wLjGgB9QC&sclient=gws-wiz-serp
+
+VimConf 2023 Tiny
+https://vimconf.org/2023/
+
+[feat] Provide a standard way to get global and `npx` temporary `node_modules` · Issue #52021 · nodejs/node
+https://github.com/nodejs/node/issues/52021
+
+node/node.gyp at 575ced813988af00478aa1e6759487888c607238 · nodejs/node
+https://github.com/nodejs/node/blob/575ced813988af00478aa1e6759487888c607238/node.gyp#L137
+
+linuxwave: Using rsync without ssh
+https://www.linuxwave.info/2020/11/using-rsync-without-ssh.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=russ%20cox&sort=byPopularity&type=story
+
+BurntSushi/rsc-regexp: Translations of a simple C program to Rust.
+https://github.com/BurntSushi/rsc-regexp
+
+research!rsc: nothing to see here
+https://research.swtch.com/2010/12/visualizing-tcp.html/
+
+tmux shortcuts & cheatsheet
+https://gist.github.com/MohamedAlaa/2961058
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
 (2 封私信 / 50 条消息) ChatGPT 为什么不用 Reward-Model 的数据直接 fine-tune，而用 RL？ - 知乎
 https://www.zhihu.com/question/596230048
 

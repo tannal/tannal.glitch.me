@@ -1,5 +1,11 @@
 # 2024-3-10 | 
 
+devices
+
+
+rsync -r out/arm64.debug tannal@192.168.43.246:/home/tannal/tannalwork/projects/
+
+
 queueMicrotask(() => console.log(2));
 
 Graphics Memory Controller (GMC)
