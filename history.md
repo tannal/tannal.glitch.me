@@ -1,3 +1,188 @@
+# 2024-3-11
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[ACM Press the sixteenth international conference - Newport Beach, California, USA (2011.03.05-2011.03.11)] Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems - ASPLOS '11 - Rethinking the library OS from the top down | 10.1145/1950365.1950399_Scihub
+https://www.bothonce.com/10.1145/1950365.1950399
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class4
+
+atc14-paper-ongaro.pdf
+https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf
+
+Chromium-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+</> htmx ~ Documentation
+https://htmx.org/docs/#installing
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en#section-framework
+
+unpkg.com/htmx.org@1.9.10/dist/htmx.min.js
+https://unpkg.com/htmx.org@1.9.10/dist/htmx.min.js
+
+Document
+http://localhost:8080/static/
+
+Minified React error #299 – React
+https://react.dev/errors/299?invariant=299
+
+Add Shadow DOM support · Issue #997 · bigskysoftware/htmx
+https://github.com/bigskysoftware/htmx/issues/997
+
+Lit
+https://github.com/lit
+
+esm.sh/react@18.2.0
+https://esm.sh/react@18.2.0
+
+SWC Playground – SWC
+https://swc.rs/playground
+
+Plugin execution fails if plugin binary enables LTO · Issue #7479 · swc-project/swc
+https://github.com/swc-project/swc/issues/7479
+
+esm.sh/react-dom@18.2.0
+https://esm.sh/react-dom@18.2.0
+
+createRoot – React
+https://react.dev/reference/react-dom/client/createRoot
+
+markdown-it/markdown-it: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+https://github.com/markdown-it/markdown-it?tab=readme-ov-file#install
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Revisions · Servo build succeeded but throws access denied errors
+https://gist.github.com/oluwatobiss/34bf294c29692be1a646b56698b61721/revisions
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+Python3+language%3ARust&type=code&l=Rust
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Clippy Lints
+https://rust-lang.github.io/rust-clippy/master/index.html#/as_conversions
+
+Took me 30 min to track down the bug in this code : r/rust
+https://www.reddit.com/r/rust/comments/1bau1kl/took_me_30_min_to_track_down_the_bug_in_this_code/
+
+DefinitelyTyped/types/react/index.d.ts at master · DefinitelyTyped/DefinitelyTyped
+https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts
+
+tannal (tannal)
+https://github.com/tannal
+
+stdint.h - Google 搜索
+https://www.google.com/search?q=stdint.h&sca_esv=8a1200bb25fe336c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08UJbol3H4TfhCgEsoPACuFAkwFUA%3A1710074825135&ei=yavtZa7rB7_X1e8PrNmnoAU&oq=stdinit.h&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXN0ZGluaXQuaCoCCAAyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1Ivy5Q_wtYvxhwAXgBkAEAmAHsAaABlA6qAQUwLjUuNLgBA8gBAPgBAZgCCqACtA7CAgoQABhHGNYEGLADwgIEECMYJ8ICBRAAGIAEwgIKECMYgAQYigUYJ8ICDBAjGIAEGIoFGBMYJ8ICCxAuGIAEGMcBGNEDwgIKEAAYgAQYigUYQ8ICBRAuGIAEwgIIEAAYgAQYywHCAgcQABiABBgKwgIKEC4YgAQYywEYCpgDAIgGAZAGCpIHBTEuNC41oAfnNg&sclient=gws-wiz-serp
+
+V8 Micro Task Queue
+https://chat.openai.com/c/59d473e7-c306-44fb-9b9f-8d7ae0e4694c
+
+tinyufo - Rust
+https://docs.rs/TinyUFO/latest/tinyufo/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+zzyiwei chromium - Google 搜索
+https://www.google.com/search?q=zzyiwei+chromium&rlz=1C1GCEA_enJP1090JP1090&oq=zzyiwei+chromium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgKGA0YgAQyCQgCEAAYDRiABDIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIGCAYQRRg8MgYIBxBFGDzSAQgyOTMzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+zzyiwei%40chromium.org&type=commits
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=zhangyiwei
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=angle%20chromium&sort=byPopularity&type=story
+
+Chromium Blog: Introducing the ANGLE Project
+https://blog.chromium.org/2010/03/introducing-angle-project.html
+
+树莓派 5 评测：Maker 们的新宠 | 树莓派实验室
+https://shumeipai.nxez.com/2023/09/29/raspberry-pi-5-review-a-new-standard-for-makers.html
+
+树莓派的GPU，了解一下？ - 知乎
+https://zhuanlan.zhihu.com/p/665165922
+
+(3 封私信 / 52 条消息) 创客皮特 - 知乎
+https://www.zhihu.com/people/pi-te-60/posts
+
+Pi 5 drivers: Is it VideoCore 6 or 7? - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=357047
+
+lp_oreo的个人空间-lp_oreo个人主页-哔哩哔哩视频
+https://space.bilibili.com/171992156
+
+• Discord | #welcome | Lit
+https://discord.com/channels/1012791295170859069/1012800138449789038
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+树莓派5实时时钟RTC_树莓派5 rtc-CSDN博客
+https://blog.csdn.net/weixin_41589183/article/details/135073228
+
+libgl_always_software - Google 搜索
+https://www.google.com/search?q=libgl_always_software&rlz=1C1GCEA_enJP1090JP1090&oq=libgl+alw&gs_lcrp=EgZjaHJvbWUqCAgDEAAYExgeMgkIABAAGBMYgAQyBggBEEUYOTIICAIQABgTGB4yCAgDEAAYExgeMggIBBAAGBMYHjIKCAUQABgKGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIICAkQABgTGB7SAQg0MzMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+哥伦比亚影业 - Google 搜索
+https://www.google.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%BD%B1%E4%B8%9A&sca_esv=26a7465d6347b026&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08Aa6km7zHb5scoIVY9Vo9q2AMfSQ%3A1710081172778&ei=lMTtZbX6Lpml2roPjbW-4Ag&ved=0ahUKEwi1lNzm9OmEAxWZklYBHY2aD4wQ4dUDCBA&uact=5&oq=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%BD%B1%E4%B8%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuWTpeS8puavlOS6muW9seS4mjINEC4YgAQYDBjHARjRAzIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIcEC4YgAQYDBjHARjRAxiXBRjcBBjeBBjgBNgBAUjgOFC9GFiwN3ABeAGQAQCYAYYCoAHTFKoBBjAuMS4xMbgBA8gBAPgBAZgCDaACkBXCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICCxAuGIAEGMcBGNEDwgIFEAAYgATCAhoQLhiABBjHARjRAxiXBRjcBBjeBBjgBNgBAcICBBAjGCfCAgUQLhiABMICERAuGIAEGMcBGK8BGJgFGJkFwgIgEC4YgAQYxwEYrwEYmAUYmQUYlwUY3AQY3gQY4ATYAQHCAhQQLhiABBiXBRjcBBjeBBjgBNgBAZgDAIgGAZAGCroGBggBEAEYFJIHBjEuMS4xMaAH4nU&sclient=gws-wiz-serp
+
+哈里·考恩 - Google 搜索
+https://www.google.com/search?sca_esv=26a7465d6347b026&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08WHcUDrhmJasdXTSbZ68mmFcu7sQ:1710081186394&q=%E5%93%88%E9%87%8C%C2%B7%E8%80%83%E6%81%A9&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXiJEaMnwpD98Cqti5892GnGVz1LWQL1hbjVLpBBMqt6Kfq18IQSF2RPmPlO7W3kEppD9kIT73vD_Nu9vgAjOruUOF_0ru7AzUI5tpIkII7VLf4hU-8HvVX6VLWaeb1iQbPSxTDE90bLCHFjYzLlnmGAqwcD0_jUd-T8tYR6fP4T0FedRka4tsdZqY8zvg6gdM8Y_r0Ft7SzMsCIIKKayTp95EnSo7jsJ4jqlvRquAZFVFoiFbA%3D%3D&sa=X&ved=2ahUKEwjOp5vt9OmEAxUPsFYBHYPlBI8QmxMoAXoECEAQAw
+
+哥伦比亚影业 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E5%BD%B1%E6%A5%AD
+
+采访 (电影) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%87%87%E8%AE%BF_(%E7%94%B5%E5%BD%B1)
+
+webOS Open Source Edition
+https://github.com/webosose
+
+Jon Gjengset - YouTube
+https://www.youtube.com/c/jongjengset
+
+Failed to garbage collect finalized incremental compilation session directory · Issue #79532 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/79532
+
+Issue search results
+https://github.com/search?q=repo%3Aservo%2Fservo+css+float&type=issues
+
+Add a valgrind suppression file. by asajeffrey · Pull Request #9011 · servo/servo
+https://github.com/servo/servo/pull/9011#issuecomment-165663742
+
+In Search of an Understandable Consensus Algorithm · Issue #6 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/6
+
+52324.52336
+https://dl.acm.org/doi/pdf/10.1145/52324.52336
+
+Tannal
+https://tannall.deno.dev/posts/papers
+
+ongardie (Diego Ongaro)
+https://github.com/ongardie
+
+CSC2227S | Summer 2021 | Readings
+https://www.cs.toronto.edu/~demke/2227/S.21/readings.shtml
+
+Rethinking the library OS from the top down | Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems
+https://dl.acm.org/doi/10.1145/1950365.1950399
+
 # 2024-3-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

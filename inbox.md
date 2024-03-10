@@ -1,3 +1,18 @@
+# 2024-3-11 | 
+
+Desktop Window Manager
+
+Robert Kahn
+
+more CSS features to the Servo layout
+floats, writing modes and tables
+
+cat /sys/devices/platform/soc/soc:rpi_rtc/rtc/rtc0/battery_voltage
+
+Exynos SoCs typically integrate various components, including CPUs, GPUs, DSPs (Digital Signal Processors)
+
+graphics buffer manager
+
 # 2024-3-10 | 
 
 https://github.com/luci
