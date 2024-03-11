@@ -1,5 +1,12 @@
 # 2024-3-11 | 
 
+brcmf
+you own your data & language model & query
+
+reboot&inspire
+from scratch
+
+
 clang++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -stdlib=libc++ -nostdinc++ -lv8  -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX -Wl,-rpath=/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
 
 
