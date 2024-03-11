@@ -1,5 +1,90 @@
 # inbox
 
+```cpp
+
+// Tests that float children fragment correctly inside a parallel flow.
+TEST_F(BlockLayoutAlgorithmTest, DISABLED_FloatFragmentationParallelFlows) {
+  SetBodyInnerHTML(R"HTML(
+    <!DOCTYPE html>
+    <style>
+      #container {
+        width: 150px;
+        height: 50px;
+        display: flow-root;
+      }
+      #float1 {
+        width: 50px;
+        height: 200px;
+        float: left;
+      }
+      #float2 {
+        width: 75px;
+        height: 250px;
+        float: right;
+        margin: 10px;
+      }
+    </style>
+    <div id='container'>
+      <div id='float1'></div>
+      <div id='float2'></div>
+    </div>
+  )HTML");
+
+  LayoutUnit kFragmentainerSpaceAvailable(150);
+
+  BlockNode node(To<LayoutBlockFlow>(GetLayoutObjectByElementId("container")));
+  ConstraintSpace space = ConstructBlockLayoutTestConstraintSpace(
+      {WritingMode::kHorizontalTb, TextDirection::kLtr},
+      LogicalSize(LayoutUnit(1000), kIndefiniteSize),
+      /* stretch_inline_size_if_auto */ true,
+      node.CreatesNewFormattingContext(), kFragmentainerSpaceAvailable);
+
+  const PhysicalBoxFragment* fragment = RunBlockLayoutAlgorithm(node, space);
+  EXPECT_EQ(PhysicalSize(150, 50), fragment->Size());
+  EXPECT_TRUE(fragment->GetBreakToken());
+
+  FragmentChildIterator iterator(To<PhysicalBoxFragment>(fragment));
+
+  // First fragment of float1.
+  PhysicalOffset offset;
+  const auto* child = iterator.NextChild(&offset);
+  EXPECT_EQ(PhysicalSize(50, 150), child->Size());
+  EXPECT_EQ(PhysicalOffset(0, 0), offset);
+
+  // First fragment of float2.
+  child = iterator.NextChild(&offset);
+  EXPECT_EQ(PhysicalSize(75, 150), child->Size());
+  EXPECT_EQ(PhysicalOffset(65, 10), offset);
+
+  space = ConstructBlockLayoutTestConstraintSpace(
+      {WritingMode::kHorizontalTb, TextDirection::kLtr},
+      LogicalSize(LayoutUnit(1000), kIndefiniteSize),
+      /* stretch_inline_size_if_auto */ true,
+      node.CreatesNewFormattingContext(), kFragmentainerSpaceAvailable);
+
+  fragment = RunBlockLayoutAlgorithm(node, space, fragment->GetBreakToken());
+  EXPECT_EQ(PhysicalSize(150, 0), fragment->Size());
+  ASSERT_FALSE(fragment->GetBreakToken());
+
+  iterator.SetParent(To<PhysicalBoxFragment>(fragment));
+
+  // Second fragment of float1.
+  child = iterator.NextChild(&offset);
+  EXPECT_EQ(PhysicalSize(50, 50), child->Size());
+  EXPECT_EQ(PhysicalOffset(0, 0), offset);
+
+  // Second fragment of float2.
+  child = iterator.NextChild(&offset);
+  EXPECT_EQ(PhysicalSize(75, 100), child->Size());
+  EXPECT_EQ(PhysicalOffset(65, 0), offset);
+}
+
+```
+
+box model (top, left, width, height)
+
+LayoutBox implements the full CSS box model.
+
 https://github.com/search?q=repo%3Achromium%2Fchromium+Rune+Lillesveen&type=commits&p=2
 
 search ::AttachLayoutTree(AttachContext& context)
