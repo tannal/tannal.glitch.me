@@ -1,5 +1,62 @@
 # 2024-3-11
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Av8%2Fv8%20NewDefaultPlatform&type=code
+
+Code search results
+https://github.com/search?q=org%3Av8+sample&type=code&p=3
+
+cmake link library alreadly exists but error - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cmake+link+library+alreadly+exists+but+error
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed#advanced-guide
+
+embeded v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=embeded+v8#ip=1
+
+(2) The Rust Programming Language Forum
+https://users.rust-lang.org/
+
+install c++ 17 headers - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=install+c%2B%2B+17+headers
+
+ld: error: undefined symbol: v8::platform::NewDefaultPlatform - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ld%3A+error%3A+undefined+symbol%3A+v8%3A%3Aplatform%3A%3ANewDefaultPlatform
+
+XNEw6.jpg (JPEG Image, 1360 × 768 pixels)
+https://i.stack.imgur.com/XNEw6.jpg
+
+error LNK2001: unresolved external symbol v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/cvFGONOg_BY
+
+Aichi_B7A
+https://tedaliez.github.io/page/3/
+
+Archives | Aichi_B7A
+https://tedaliez.github.io/archives/
+
+Re: [v8-users] Specify toolchain when use_custom_libcxx=false?
+https://www.mail-archive.com/v8-users@googlegroups.com/msg14365.html
+
+undefined reference to 'v8::platform::NewDefaultPlatform · Issue #20 · NativeScript/android-v8
+https://github.com/NativeScript/android-v8/issues/20
+
+Undefined reference to v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/Jb1VSouy2Z0
+
+c++ - How to specify custom libc++ - Stack Overflow
+https://stackoverflow.com/questions/51839921/how-to-specify-custom-libc
+
+g++ custom libc++ - Google 検索
+https://www.google.com/search?q=g%2B%2B+custom+libc%2B%2B&client=ubuntu-sn&hs=sRN&sca_esv=f651d40197dd598b&channel=fs&ei=rejuZeGSEsLP1e8P_YWtoA8&ved=0ahUKEwihnfmui-yEAxXCZ_UHHf1CC_QQ4dUDCBA&uact=5&oq=g%2B%2B+custom+libc%2B%2B&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWcrKyBjdXN0b20gbGliYysrMgQQIRgVSKktULsVWJArcAN4AZABAJgBhAOgAb8YqgEHMC41LjUuM7gBA8gBAPgBAZgCEKACiBnCAgoQABhHGNYEGLADwgIFEAAYgATCAgcQABiABBgNwgIFECEYoAHCAgQQABgewgIIEAAYCBgeGA_CAgYQABgeGA3CAgkQABiABBgNGBPCAggQABgeGA0YE8ICChAAGAgYHhgNGBPCAgYQABgeGBPCAggQABgIGB4YDcICDBAAGAgYHhgNGA8YCsICCBAAGIAEGKIEmAMAiAYBkAYKkgcHMy40LjYuM6AHtiQ&sclient=gws-wiz-serp#ip=1
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

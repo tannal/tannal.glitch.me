@@ -1,5 +1,44 @@
 # 2024-3-11 | 
 
+clang++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -stdlib=libc++ -nostdinc++ -lv8  -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX -Wl,-rpath=/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
+
+
+use_glib=false 
+
+
+call gn gen out.gn/x64.release --args="is_debug=false use_glib=false is_component_build=true v8_use_external_startup_data=true v8_static_library=false is_clang = false v8_enable_i18n_support=false target_cpu=\"x64\""
+
+这里显然是不一样的。也就是说ndk的libc++实际上更改了命名空间到__ndk这个前缀上，而v8进行编译时使用的libc++是
+https://chromium.googlesource.com/chromium/llvm-project/libcxx
+二者的命名空间显然是不同的。但为什么我编译使用的是buildtools/third_party/libc++而非thrid_party/android_ndk/cxx-stl/llvm-libc++？这个我还没有答案
+
+clang++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -stdlib=libc++ -nostdinc++  -lv8  -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX -Wl,-rpath=/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
+
+
+https://users.rust-lang.org/
+
+ATA NVME SATA command Byte Block
+
+tools/dev/v8gen.py x64.release.sample
+gn args out.gn/x64.release.sample
+ninja -C out.gn/x64.release.sample v8_monolith
+
+g++ -I. -Iinclude samples/hello-world.cc -o hello_world -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -Lout.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
+
+g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
+
+g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
+
+
+g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
+
+
+
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
+c++filt _ZN2v88platform18NewDefaultPlatformEiNS0_15IdleTaskSupportENS0_21InProcessStackDumpingENSt4__Cr10unique_ptrINS_17TracingControllerENS3_14default_deleteIS5_EEEENS0_12PriorityModeE
+
 JsReciver
 
 behavioral economics digital
