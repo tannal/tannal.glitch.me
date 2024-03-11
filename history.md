@@ -6,6 +6,150 @@ https://github.dev/tannal/tannal.glitch.me
 [ACM Press the sixteenth international conference - Newport Beach, California, USA (2011.03.05-2011.03.11)] Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems - ASPLOS '11 - Rethinking the library OS from the top down | 10.1145/1950365.1950399_Scihub
 https://www.bothonce.com/10.1145/1950365.1950399
 
+chat.openai.com
+https://chat.openai.com/c/bc8c6088-a0e5-46e1-b620-e98a7afdef70
+
+The Unreasonable Effectiveness of Recurrent Neural Networks | Hacker News
+https://news.ycombinator.com/item?id=9584325
+
+Bach style chorale Emmy David Cope - YouTube
+https://www.youtube.com/watch?v=PczDLl92vlc
+
+ConvNetJS: Deep Learning in your browser
+https://cs.stanford.edu/people/karpathy/convnetjs/
+
+CS231n Convolutional Neural Networks for Visual Recognition
+https://cs231n.github.io/
+
+crl.ucsd.edu
+http://crl.ucsd.edu/~elman/
+
+Stanford University CS231n: Deep Learning for Computer Vision
+http://cs231n.stanford.edu/schedule.html
+
+Why is OpenAI API not supported in certain countries? - API - OpenAI Developer Forum
+https://community.openai.com/t/why-is-openai-api-not-supported-in-certain-countries/15395/29
+
+(3 封私信 / 54 条消息) ChatGPT 可能对未来哪些行业领域造成影响？ - 知乎
+https://www.zhihu.com/question/589640676
+
+(3 封私信 / 54 条消息) wuxiaojun - 知乎
+https://www.zhihu.com/people/wxj630
+
+The Unreasonable Effectiveness of Recurrent Neural Networks
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+Andrej Karpathy blog
+https://karpathy.github.io/
+
+karpathy/char-rnn: Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+https://github.com/karpathy/char-rnn
+
+usdt - Google 搜索
+https://www.google.com/search?q=usdt&rlz=1C1GCEA_enJP1090JP1090&oq=usdt&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgwIBBAAGEMYgAQYigUyEggFEAAYQxiDARixAxiABBiKBTIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDEwMzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Leaving Stripe
+https://blog.gregbrockman.com/leaving-stripe
+
+Oneflow-Inc/oneflow: OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
+https://github.com/OneFlow-Inc/oneflow
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Document
+http://localhost:8080/static/
+
+(3 封私信 / 54 条消息) 2024年疫情还严重吗，为什么为什么为什么为什么为什么为什么为什么为什么为什么为什么为什么为什么我? - 知乎
+https://www.zhihu.com/question/642704593
+
+liguodongiot/llm-action: 本项目旨在分享大模型相关技术原理以及实战经验。
+https://github.com/liguodongiot/llm-action
+
+从0到1复现斯坦福羊驼（Stanford Alpaca 7B） - 知乎
+https://zhuanlan.zhihu.com/p/618321077
+
+llm-action/train/alpaca at main · liguodongiot/llm-action
+https://github.com/liguodongiot/llm-action/tree/main/train/alpaca
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gleam&sort=byPopularity&type=story
+
+Gleam
+https://gleam.run/
+
+Launch an App · Fly
+https://fly.io/launchpad
+
+diffusion model - Google 搜索
+https://www.google.com/search?q=diffusion+model&sca_esv=9cbc8786b516d4ed&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_kxRgyuX92zamDxGoDjmjTK-bucA%3A1710119551152&ei=f1ruZdTzCM-Svr0Pjc2sgAs&oq=diffusion+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmRpZmZ1c2lvbiAqAggCMgoQABiABBiKBRhDMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAESMUWUO4HWO4HcAF4AZABAJgB2QGgAdkBqgEDMi0xuAEByAEA-AEBmAICoALoAcICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwUxLjAuMaAHsAM&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=diffusion%20model&sort=byPopularity&type=story
+
+Imagen: Text-to-Image Diffusion Models
+https://imagen.research.google/
+
+Imagen Video
+https://imagen.research.google/video/
+
+modularml/mojo: The Mojo Programming Language
+https://github.com/modularml/mojo
+
+huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+https://github.com/huggingface/transformers
+
+Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper? | Hacker News
+https://news.ycombinator.com/item?id=35977891
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=ja&text=attention%20is%20all%20you%20need&op=translate
+
+注意 is all you need - Google 搜索
+https://www.google.com/search?q=%E6%B3%A8%E6%84%8F+is+all+you+need&sca_esv=9cbc8786b516d4ed&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08219qiGBaPfS0YLnmkzRkuE306dQ%3A1710120280287&ei=WF3uZbKYEaa4vr0Pzayj-Ag&oq=%E6%B3%A8%E6%84%8F+is+all+you+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuazqOaEjyBpcyBhbGwgeW91ICoCCAAyBRAhGKABMgUQIRigAUjjRFDnBFjgP3ADeAGQAQCYAb4CoAGAIqoBCDAuMi4xNC4yuAEDyAEA-AEBmAIQoAL2GcICChAAGEcY1gQYsAPCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIGEAAYBxgewgIHEAAYgAQYDMICCBAAGAQYHhgMwgIJECEYChigARgqwgIHECEYChigAZgDAIgGAZAGCpIHCDIuMC4xMi4yoAeFJQ&sclient=gws-wiz-serp
+
+OpenAI no longer Open. "We were wrong [...] I fully expect that in a few years it’s going to be completely obvious to everyone that open-sourcing AI is just not wise." : r/OpenAI
+https://www.reddit.com/r/OpenAI/comments/11u1crf/openai_no_longer_open_we_were_wrong_i_fully/
+
+behavioral economics - Google 搜索
+https://www.google.com/search?q=behavioral+economics&rlz=1C1GCEA_enJP1090JP1090&oq=behavior+eco&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCQgFEAAYChiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEINTE3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Addiction psychology - Wikipedia
+https://en.wikipedia.org/wiki/Addiction_psychology
+
+chat.openai.com
+https://chat.openai.com/
+
+cass sunstein - Google 搜索
+https://www.google.com/search?q=cass+sunstein&sca_esv=9d8b55b512f67e6f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09wTMbv-MjUyCWaUe8myyYHzXfDWQ%3A1710122530347&ei=ImbuZYbqFNT41e8Pn42O-AQ&gs_ssp=eJzj4tTP1Tcwzig0zzFg9OJNTiwuViguzSsuSc3MAwBoAAiJ&oq=Cass+Sun&gs_lp=Egxnd3Mtd2l6LXNlcnAiCENhc3MgU3VuKgIIADIIEC4YgAQYywEyCBAAGIAEGMsBMgsQLhiABBjLARjUAjIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyFxAuGIAEGMsBGJcFGNwEGN4EGN8E2AEBSNFFUIUlWIw-cAJ4AZABAZgBsQKgAasNqgEFMi02LjG4AQPIAQD4AQGYAgigApEMwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgQQIxgnwgIKEAAYgAQYigUYQ8ICChAuGIAEGIoFGEPCAgUQABiABMICCxAuGIAEGMcBGNEDwgIOEC4YgAQYywEYxwEY0QPCAggQLhjLARiABMICHRAuGIAEGMsBGMcBGNEDGJcFGNwEGN4EGOAE2AEBwgIOEC4YgAQYywEYxwEYrwHCAhEQLhiABBjLARjHARivARiYBcICChAuGIAEGMsBGAqYAwCIBgGQBgq6BgYIARABGBSSBwcyLjAuNS4xoAf6pwE&sclient=gws-wiz-serp
+
+Richard thaler - Google 搜索
+https://www.google.com/search?q=Richard+thaler&rlz=1C1GCEA_enJP1090JP1090&oq=Richard+thaler&gs_lcrp=EgZjaHJvbWUyEQgAEEUYORhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg2Mzk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+nudge theory - Google 搜索
+https://www.google.com/search?q=nudge+theory&rlz=1C1GCEA_enJP1090JP1090&oq=nudge&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIOCAAQRRg5GEMYgAQYigUyDAgBEAAYQxiABBiKBTIHCAIQABiABDIHCAMQABiABDIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjI1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+启发法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%90%AF%E5%8F%91%E6%B3%95
+
+启发式 贪婪 - Google 搜索
+https://www.google.com/search?q=%E5%90%AF%E5%8F%91%E5%BC%8F+%E8%B4%AA%E5%A9%AA&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%90%AF%E5%8F%91%E5%BC%8F+%E8%B4%AA%E5%A9%AA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDQyMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+What Happens in an Internet Minute? [2024 Statistics]
+https://localiq.com/blog/what-happens-in-an-internet-minute/
+
+scarcity - Google 搜索
+https://www.google.com/search?q=scarcity&rlz=1C1GCEA_enJP1090JP1090&oq=scarcity&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINzQzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[ACM Press the sixteenth international conference - Newport Beach, California, USA (2011.03.05-2011.03.11)] Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems - ASPLOS '11 - Rethinking the library OS from the top down | 10.1145/1950365.1950399_Scihub
+https://www.bothonce.com/10.1145/1950365.1950399
+
 18-845: Internet Services (Carnegie Mellon University)
 https://course.ece.cmu.edu/~ece845/#class4
 
