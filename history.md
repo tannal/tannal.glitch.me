@@ -1,5 +1,50 @@
 # 2024-3-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#sec-literals-numeric-literals
+
+VulkanDevice:: · Debian Code Search
+https://codesearch.debian.net/search?q=VulkanDevice%3A%3A&literal=1
+
+Vulkan® 1.0.280 - A Specification (with all ratified extensions)
+https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/vkspec.html#fundamentals-host-environment
+
+Vulkan® 1.0.280 - A Specification (with all ratified extensions)
+https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/vkspec.html#vkQueueSubmit
+
+SaschaWillems (Sascha Willems)
+https://github.com/SaschaWillems
+
+vulkan/libvulkan/api.cpp - platform/frameworks/native - Git at Google
+https://android.googlesource.com/platform/frameworks/native/+/master/vulkan/libvulkan/api.cpp
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Valve sponsors Mesa development | Hacker News
+https://news.ycombinator.com/item?id=7864765
+
+Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/
+
+Compiling and Installing — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/install.html
+
+ValveSoftware/counter-strike: CS:GO
+https://github.com/ValveSoftware/counter-strike
+
+Valve Corporation
+https://www.valvesoftware.com/en/?job_cat=audio
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
