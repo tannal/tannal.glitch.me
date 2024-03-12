@@ -1,3 +1,20 @@
+# 2024-3-13 | 
+
+https://research.cs.wisc.edu/adsl/People/
+
+smss unix init
+
+win32k
+csrss
+
+api dll runtime dll inject at creation by windows kernel
+netdll.dll glibc
+kernel32.dll
+user32 gdi32
+ws2_32 network stack
+ole32 object linking and embedding
+
+
 # 2024-3-11 | 
 
 brcmf

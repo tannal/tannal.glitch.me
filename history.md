@@ -1,5 +1,182 @@
 # 2024-3-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Dobra - Kattis dobra - Virtual Judge
+https://vjudge.net/problem/Kattis-Dobra
+
+[ACM Press the sixteenth international conference - Newport Beach, California, USA (2011.03.05-2011.03.11)] Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems - ASPLOS '11 - Rethinking the library OS from the top down | 10.1145/1950365.1950399_Scihub
+https://www.bothonce.com/10.1145/1950365.1950399
+
+Rethinking the library OS from the top down | Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems
+https://dl.acm.org/doi/10.1145/1950365.1950399
+
+Dobra – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2024-Spring/assignments/mzr4m9/problems/dobra
+
+关于预训练大模型发展前景的一些思考和探讨
+https://liuquncn.github.io/talks/20211013-CCAI-NLP-Forum/Thoughts-of-Pretrained-Big-Models.pdf
+
+刘群, 自然语言处理, 机器翻译, 预训练语言模型, 中文信息处理
+https://liuquncn.github.io/index_zh.html
+
+#Outreachy > Introductions - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Introductions
+
+Supabase
+https://github.com/supabase
+
+Document Understanding With Large Language Models
+https://www.codemotion.com/magazine/ai-ml/document-understanding-large-language-models/
+
+Supabase Docs
+https://supabase.com/docs
+
+动手实现文档问答机器人 · LLM 应用开发实践笔记
+https://aitutor.liduos.com/02-langchain/02-4.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fdoi.org%2F&sort=byPopularity&type=story
+
+Hyperaide
+https://hyperaide.com/
+
+releasehub-com/gromit
+https://github.com/releasehub-com/gromit
+
+Supabase Clippy: ChatGPT for Supabase Docs
+https://supabase.com/blog/chatgpt-supabase-docs
+
+New Supabase Docs, built with Next.js
+https://supabase.com/blog/new-supabase-docs-built-with-nextjs
+
+Embeddings - OpenAI API
+https://platform.openai.com/docs/guides/embeddings/what-are-embeddings
+
+Query On Raspberry Pi 5 - 5G Wifi - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=360179
+
+saved network ubuntu - Google 搜索
+https://www.google.com/search?q=saved+network+ubuntu&sca_esv=1a8ff9d288a21f85&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-P1weDePKwHXOF1RIuDACWY3v28g%3A1710128232549&ei=aHzuZc_-IISl2roPvfW_iA0&ved=0ahUKEwjP0siOpOuEAxWEklYBHb36D9EQ4dUDCBA&uact=5&oq=saved+network+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHNhdmVkIG5ldHdvcmsgdWJ1bnR1MgYQABgIGB5IxwhQAFixB3AAeAGQAQCYAYMCoAGyC6oBBTAuNC4zuAEDyAEA-AEBmAIHoAK9C8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGB4YD8ICBhAAGAUYHsICBRAhGKABmAMAkgcFMC4zLjSgB_IL&sclient=gws-wiz-serp#ip=1
+
+wifi7 手机 - Google 搜索
+https://www.google.com/search?q=wifi7+%E6%89%8B%E6%9C%BA&sca_esv=1a8ff9d288a21f85&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_y95UHD4Vjjwdph7DF-LjjftbqoQ%3A1710128478856&ei=Xn3uZf3tM8Wp2roP8OeE2AE&ved=0ahUKEwj9lIKEpeuEAxXFlFYBHfAzARsQ4dUDCBA&uact=5&oq=wifi7+%E6%89%8B%E6%9C%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdpZmk3IOaJi-acujIFEAAYgAQyBxAAGIAEGAxInwhQAFi7B3AAeAGQAQCYAYMCoAHtDKoBBTAuNS4zuAEDyAEA-AEBmAIGoAL2CcICChAAGIAEGIoFGEPCAgoQABiABBjLARgKmAMAkgcFMC4zLjOgB_0N&sclient=gws-wiz-serp
+
+linux Wireless基础知识(cfg80211 mac80211 nl80211)_linuxwireless org-CSDN博客
+https://blog.csdn.net/liuxd3000/article/details/23761663
+
+Realtek wifi module for kernel 6.3 - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=355578
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+(3 封私信 / 54 条消息) Wi-Fi 网络中，2.4GHz 和 5GHz 各自有哪些优缺点？ - 知乎
+https://www.zhihu.com/question/20001576
+
+story of greg brockman - Google 搜索
+https://www.google.com/search?q=story+of+greg+brockman&rlz=1C1GCEA_enJP1090JP1090&oq=story+of+greg+brockman&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCTM0NzAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+https://www.youtube.com/watch?v=LSWy7nLDKRo
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLSWy7nLDKRo&q=EhAkAIkFAAAAAPA8lP_-DDA5GLuYuq8GIjDiJgk5z2HO4TlQPnf12sJHRJQClEXxRzwvXY7gBrY-X9gVYeJMkRupWetFfVGgy98yAXJaAUM
+
+ChatGPT
+https://chat.openai.com/c/6795c400-3188-453d-8529-069e3f72e1d7
+
+widows - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/widows
+
+艾莉丝 (生化危机) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%89%BE%E8%8E%89%E7%B5%B2_(%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1)
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=ja&op=translate
+
+tsoding react - Google 搜索
+https://www.google.com/search?q=tsoding+react&rlz=1C1GCEA_enJP1090JP1090&oq=tsoding+re&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQg3MDA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:f2f84bc8,vid:XAGCULPO_DE,st:217
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法-CSDN博客
+https://blog.csdn.net/weixin_33642697/article/details/116549502
+
+linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法-CSDN博客
+https://blog.csdn.net/weixin_33642697/article/details/116549502
+
+dconf-editor - Google 搜索
+https://www.google.com/search?sca_esv=3c0cd88929cc7700&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_IOi4USUu9nfjG6A1RuIMDiw-LfQ:1710166980214&q=dconf-editor&tbm=vid&source=lnms&sa=X&ved=2ahUKEwiPyvK6tOyEAxXhmK8BHQXtB6sQ0pQJegQIChAB&biw=1536&bih=703&dpr=1.25
+
+RenderingNG deep-dive: BlinkNG  |  Chromium  |  Chrome for Developers
+https://developer.chrome.com/docs/chromium/blinkng
+
+Display list - Wikipedia
+https://en.wikipedia.org/wiki/Display_list
+
+Web Neural Network API
+https://www.w3.org/TR/webnn/#usecase-noise-suppression
+
+web-platform-tests dashboard
+https://wpt.fyi/results/webnn?label=master&label=experimental&aligned&q=webnn
+
+webmachinelearning/webnn: 🧠 Web Neural Network API
+https://github.com/webmachinelearning/webnn
+
+css-multiple-display: Add support of parsing and serialization · chromium/chromium@7238cb3
+https://github.com/chromium/chromium/commit/7238cb34fb8251d21662a0b5b23db7cf0e1a5f20
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+display+list&type=commits
+
+Make DisplayItemList's discardable image metadata lazy. · chromium/chromium@fdd62a8
+https://github.com/chromium/chromium/commit/fdd62a825037ccbb0a8b0729267dd890c6f63e09#diff-a2cac7e32918cb730f5673cf26d9c853083d0217b47cbc642dc5543dddf591ba
+
+[sticky] Propagate sticky descendants when in fragmented out-of-flow. · chromium/chromium@dc2120b
+https://github.com/chromium/chromium/commit/dc2120bac78bd1a07b9f90d0830155469f63f721
+
+Print paint property trees after direct paint property updates · chromium/chromium@4e11229
+https://github.com/chromium/chromium/commit/4e1122951474611507571dd9b775624a909389d5
+
+Chrome OS：“比 Linux 更好的 Linux”，这样你就可以忘记 Windows - mdnice 墨滴
+https://mdnice.com/writing/5bbf9c82b58f49bd920ef5f6f6ead373
+
+How to compile GLUT + OpenGL project with CMake and Kdevelop in linux? - Stack Overflow
+https://stackoverflow.com/questions/9460242/how-to-compile-glut-opengl-project-with-cmake-and-kdevelop-in-linux
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+WebKit/LayoutTests/imported/w3c/resources/import-expectations.json at 804fa8cccadc4a085fb129fbe150913429f06d0b · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/804fa8cccadc4a085fb129fbe150913429f06d0b/LayoutTests/imported/w3c/resources/import-expectations.json#L354
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+COMP 730: Schedule
+https://www.cs.unc.edu/~porter/courses/comp730/s23/syllabus.html
+
+Initial commit with Linux · oscarlab/mosaic-asplos23-artifacts@4e5b5d3
+https://github.com/oscarlab/mosaic-asplos23-artifacts/commit/4e5b5d35f22da4aa533ae831844424896831076f#diff-5439b9e47bbd0fcd71dd46336406aaefd5afe87b6a740b7518aa276c46795878
+
+The ADvanced Systems Laboratory (ADSL)
+https://research.cs.wisc.edu/wind/
+
+L4.FA23.pdf
+https://courses.engr.illinois.edu/cs425/fa2023/L4.FA23.pdf
+
+silasbw (Silas Boyd-Wickizer)
+https://github.com/silasbw
+
+reubeno (reuben olinsky)
+https://github.com/reubeno
+
+Galen C. Hunt - Google 搜索
+https://www.google.com/search?q=Galen+C.+Hunt&rlz=1C1GCEA_enJP1090JP1090&oq=Galen+C.+Hunt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
