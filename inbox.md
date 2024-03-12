@@ -1,4 +1,30 @@
-# 2024-3-13 | 
+# 2024-3-13 0 | 0
+
+https://boyter.org/
+
+```bash
+
+git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+ls
+export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+git clone https://github.com/dj2/Dusk.git
+cd Dusk/
+ls
+gclient sync --jobs=4
+CC=clang CXX=clang++ cmake -GNinja -B build
+sudo apt install libxinerama
+sudo apt install libxinerama-dev 
+tokie
+tokei
+CC=clang CXX=clang++ cmake -GNinja -B build
+sudo apt-get install libxrandr-dev libxinerama-dev libxcursor-dev libx11-xcb-dev libxi-dev mesa-common-dev
+
+```
+
+
+Xinerama is an X11 extension which provides support for extending a desktop across multiple displays.
+
+w3c webgpu group Apple Google Mozilla intel cocos 
 
 
 Look ahead by one token

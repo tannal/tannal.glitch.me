@@ -1,3 +1,10 @@
+# inbox
+
+sudo apt install bpftrace
+
+sudo bpftrace -l 'tracepoint:syscalls:sys_enter_*'
+sudo bpftrace -e 'BEGIN { printf("hello world\n"); }'
+sudo bpftrace -e 'tracepoint:syscalls:sys_enter_openat { printf("%s %s\n", comm, str(args.filename)); }'
 
 # bpfcc-tools
 
