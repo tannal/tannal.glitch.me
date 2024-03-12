@@ -1,5 +1,36 @@
 # 2024-3-13 | 
 
+
+Look ahead by one token
+
+PoC proof of concept
+
+Understand the language of tokens (regular expressions) and parsers
+(context-free grammars)
+
+Entry point names are not special, but must match the entryPoint name specified at pipeline creation time.
+@vertex @fragment @compute @workgroup_size
+
+adobe apple microsoft google amazon
+
+https://bmcimmunol.biomedcentral.com/?_gl=1*d0g5bg*_up*MQ..&gclid=CjwKCAjw17qvBhBrEiwA1rU9w0d54IHM9ET-raS_C2M7iZv_vPOb8WwLdk-LNBJxNQkLOYPaAsVK4BoCNqIQAvD_BwE
+
+```cpp
+
+auto table_info = bustub->catalog_->CreateTable(nullptr, "maintable", *schema);
+
+auto rid1 = *table_info->table_->InsertTuple(TupleMeta{txn4->GetTransactionTempTs(), false},
+                                              Tuple{{Int(1), DoubleNull(), BoolNull()}, schema.get()});
+
+```
+
+ 大部分情况并不需要关心引入哪个头文件，而是保证头文件可以独立编译，即用一个空白CPP只引入一个头文件，也能编译成目标文件。编译器（预处理器）会管理好最被依赖的头文件最先被引入。我们只需要使用好include guard，保证不被重复引入。
+
+table_page 
+table_heap memory
+
+acess method intermedia table temp space
+
 20万元人民币的存款证明
 
 如果想把留学签证换成工作签证，本科学历的情况下，只要找到可以接收的公司就行了（你到日本就可以开始转就职了）。语言学校随时可以申请退学。但是有的语言学校就职学费是不退的。所以说，你语言学校转就职很方便，但是学费可能就没了。建议还是找个学费可以半年一交的语言学校，这样损失不大。

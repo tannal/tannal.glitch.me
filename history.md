@@ -1,5 +1,206 @@
 # 2024-3-12
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+book.pdf
+https://bayes.wustl.edu/etj/prob/book.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=access%20method&sort=byPopularity&type=story
+
+Learn about different I/O Access Methods and what we chose for ScyllaDB
+https://www.scylladb.com/2017/10/05/io-access-methods-scylla/
+
+junegunn/fzf.vim: fzf vim
+https://github.com/junegunn/fzf.vim
+
+Open selection of fzf command in vim. : r/archlinux
+https://www.reddit.com/r/archlinux/comments/7s5ez0/open_selection_of_fzf_command_in_vim/
+
+c++ - Is there any reason I should include a header in the associated cpp file if the former only provides declarations the latter defines? - Stack Overflow
+https://stackoverflow.com/questions/73248689/is-there-any-reason-i-should-include-a-header-in-the-associated-cpp-file-if-the
+
+linux - Can I resume an existing vim process? - Super User
+https://superuser.com/questions/335303/can-i-resume-an-existing-vim-process
+
+UDF Improvement Study
+https://chat.openai.com/c/0bb92a9a-6ef7-4c80-9cd0-7cf4409b1db9
+
+我终于理解了LISP『代码即数据|数据即代码』的含义 - cyendra - 博客园
+https://www.cnblogs.com/zinthos/p/4082446.html
+
+rocket lisp - Google 搜索
+https://www.google.com/search?q=rocket+lisp&rlz=1C1GCEA_enJP1090JP1090&oq=rocket+lisp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQLhgMGIAEMgkIAxAAGAoYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgkIBhAAGAoYgAQyCQgHEAAYDBiABDIJCAgQLhgMGIAEMgcICRAAGIAE0gEINzcxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Racket: Lisp for learning [LWN.net]
+https://lwn.net/Articles/795385/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=eval%20&sort=byPopularity&type=story
+
+"security vulnerability of meta programming" - Google 搜索
+https://www.google.com/search?q=%22security+vulnerability+of+meta+programming%22&sca_esv=92cdb23dca59aae9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09KJ1xD8Zpa37utLCQlG-zq6qRSoA%3A1710217032165&ei=SNfvZa_cCcSmvr0PrduB4Ag&ved=0ahUKEwivoMP17u2EAxVEk68BHa1tAIwQ4dUDCBA&uact=5&oq=%22security+vulnerability+of+meta+programming%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiLCJzZWN1cml0eSB2dWxuZXJhYmlsaXR5IG9mIG1ldGEgcHJvZ3JhbW1pbmciMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESK4VUNEHWJcScAF4AZABAJgBgQKgAc0DqgEDMi0yuAEDyAEA-AEBmAIDoALTA8ICChAAGEcY1gQYsAOYAwCIBgGQBgaSBwUxLjAuMqAHmAc&sclient=gws-wiz-serp#ip=1
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+tuple_test.cpp - bustub [GitHub] - Visual Studio Code - GitHub
+https://github.dev/cmu-db/bustub
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Home page | BMC Immunology
+https://bmcimmunol.biomedcentral.com/?_gl=1*d0g5bg*_up*MQ..&gclid=CjwKCAjw17qvBhBrEiwA1rU9w0d54IHM9ET-raS_C2M7iZv_vPOb8WwLdk-LNBJxNQkLOYPaAsVK4BoCNqIQAvD_BwE
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+Rust, not Firefox, is Mozilla's greatest industry contribution : r/rust
+https://www.reddit.com/r/rust/comments/mq68i7/rust_not_firefox_is_mozillas_greatest_industry/
+
+Issue search results
+https://github.com/search?q=repo%3Aservo%2Fservo+macro_rules&type=issues
+
+discord.com
+https://discord.com/channels/@me
+
+Share CSS property -> Rust identifier code in CSSStyleDeclaration with libstyle · Issue #4429 · servo/servo
+https://github.com/servo/servo/issues/4429
+
+Search results for 'servo' - The Rust Programming Language Forum
+https://users.rust-lang.org/search?q=servo
+
+Summary - mbrubeck - The Rust Programming Language Forum
+https://users.rust-lang.org/u/mbrubeck/summary
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+#cranelift - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift
+
+Bytecode Alliance
+https://github.com/bytecodealliance/
+
+An Introduction to Tracy Profiler in C++ - Marcos Slomp - CppCon 2023 - YouTube
+https://www.youtube.com/watch?v=ghXk3Bk5F2U
+
+An introduction to Shader Art Coding - YouTube
+https://www.youtube.com/watch?v=f4s1h2YETNY&t=1s
+
+webgpu-samples: helloTriangle
+http://localhost:8081/test.html
+
+https://www.youtube.com/watch?v=f4s1h2YETNY&t=1s
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Df4s1h2YETNY%26t%3D1s&q=EhAkAIkFAAAAAPA8lP_-DDA5GPfvv68GIjAPE4XIb3ZWnr5h9d2rRic0WFtKLL3cKBwQRlizxlneO9jdX5hUBdBO7JOosNNvnQAyAXJaAUM
+
+wolfpld (Bartosz Taudul)
+https://github.com/wolfpld
+
+gfx-rs/wgpu: Cross-platform, safe, pure-rust graphics api.
+https://github.com/gfx-rs/wgpu
+
+rust-gpu/examples/shaders/sky-shader/src/lib.rs at main · EmbarkStudios/rust-gpu
+https://github.com/EmbarkStudios/rust-gpu/blob/main/examples/shaders/sky-shader/src/lib.rs
+
+It's now possible to write GPU shaders in Rust, because why not? : r/programming
+https://www.reddit.com/r/programming/comments/k7x45d/its_now_possible_to_write_gpu_shaders_in_rust/
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html?label=master&label=experimental&aligned&q=webgpu
+
+"webgpu" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=webgpu
+
+GPUDevice: createShaderModule() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/GPUDevice/createShaderModule#browser_compatibility
+
+WebGPU API docs (#24202) · mdn/content@840132f
+https://github.com/mdn/content/commit/840132f789c57681781d874734edd33da9d5ab90
+
+您的第一个 WebGPU 应用
+https://codelabs.developers.google.com/your-first-webgpu-app?hl=zh-cn#8
+
+webgpu/webgpu-samples: WebGPU Samples
+https://github.com/webgpu/webgpu-samples
+
+WebGPU Samples
+https://webgpu.github.io/webgpu-samples/?sample=rotatingCube
+
+An Introduction to Tracy Profiler in C++ - Marcos Slomp - CppCon 2023 - YouTube
+https://www.youtube.com/watch?v=ghXk3Bk5F2U&t=1302s
+
+视频动画制作 - Google 搜索
+https://www.google.com/search?q=%E8%A7%86%E9%A2%91%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%A7%86%E9%A2%91%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1MjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Types | Tour of WGSL
+https://google.github.io/tour-of-wgsl/types/
+
+google/tour-of-wgsl
+https://github.com/google/tour-of-wgsl
+
+dj2 (dan sinclair)
+https://github.com/dj2
+
+dj2/Dusk: Dawn Native WebGPU Examples
+https://github.com/dj2/Dusk
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cocos&sort=byPopularity&type=story
+
+Cocos - 全球领先的2D&3D引擎，游戏/智能座舱/AR/VR/角色/教育
+https://www.cocos.com/about
+
+(1) CocosCreator 团队还在吗？ - 非技术 - Cocos中文社区
+https://forum.cocos.org/t/topic/156584/31
+
+Cocos
+https://github.com/cocos
+
+linshun (Shun Lin)
+https://github.com/linshun
+
+GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper)
+https://reeselevine.github.io/assets/pdf/gpuharbor.pdf
+
+Tyler Sorensen
+https://users.soe.ucsc.edu/~tsorensen/
+
+Languages, Systems, and Data Seminar (Fall 2023) | Languages, Systems, and Data Lab @ UCSC
+https://lsd-ucsc.github.io/lsd-seminar/2023fa/
+
+Homework Setup - CSE 211, Fall 2023
+https://sorensenucsc.github.io/CSE211-fa2023/homework-setup.html
+
+Projects - CSE 211, Fall 2023
+https://sorensenucsc.github.io/CSE211-fa2023/projects.html
+
+NuShell: Modifying Bash’s grammar to allow for saner syntax - CSE 211, Fall 2023
+https://sorensenucsc.github.io/CSE211-fa2023/projects/nushell/index.html
+
+Ant-28/NuShell: Customized Bash Syntax using antlr4
+https://github.com/Ant-28/NuShell
+
+Projects - CSE 211, Fall 2023
+https://sorensenucsc.github.io/CSE211-fa2023/projects.html
+
+Compiler Explorer
+https://godbolt.org/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=ja&op=translate
+
+tokenizer look ahead - Google 搜索
+https://www.google.com/search?q=tokenizer+look+ahead&rlz=1C1GCEA_enJP1090JP1090&oq=tokenizer+look+ahead&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY4NzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,3 +1,243 @@
+# tokenier in c
+
+```c
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
+
+// Token types
+typedef enum {
+    KEYWORD,
+    IDENTIFIER,
+    OPERATOR,
+    PUNCTUATION,
+    INCREMENT,
+} TokenType;
+
+// Token structure
+typedef struct {
+    TokenType type;
+    char value[50]; // Adjust the size as needed
+} Token;
+
+// Function to check if a string is a keyword
+int isKeyword(const char *word) {
+    const char *keywords[] = {"int", "void", "return", "if", "else", "while", "for"};
+    const int numKeywords = sizeof(keywords) / sizeof(keywords[0]);
+
+    for (int i = 0; i < numKeywords; i++) {
+        if (strcmp(word, keywords[i]) == 0) {
+            return 1; // It's a keyword
+        }
+    }
+
+    return 0; // Not a keyword
+}
+
+// Function to tokenize a C code
+void tokenize(const char *code) {
+    char buffer[50]; // Adjust the size as needed
+    int bufferIndex = 0;
+
+    for (size_t i = 0; i < strlen(code); i++) {
+        char currentChar = code[i];
+
+        if (isalnum(currentChar) || currentChar == '_') {
+            // Collect characters for keywords or identifiers
+            buffer[bufferIndex++] = currentChar;
+        } else {
+            // Handle non-alphanumeric characters
+            if (bufferIndex > 0) {
+                buffer[bufferIndex] = '\0';
+                Token token;
+
+                if (isKeyword(buffer)) {
+                    token.type = KEYWORD;
+                } else {
+                    token.type = IDENTIFIER;
+                }
+
+                strcpy(token.value, buffer);
+                printf("%s '%s'\n", token.type == KEYWORD ? "keyword" : "identifier", token.value);
+                // Reset buffer
+                bufferIndex = 0;
+            }
+
+            // Handle + - * / ( ) { } ; = characters
+            if (currentChar == '+' || currentChar == '-') {
+                // increment or decrement
+                if (code[i + 1] == currentChar) {
+                    Token token;
+                    token.type = INCREMENT;
+                    token.value[0] = currentChar;
+                    token.value[1] = currentChar;
+                    token.value[2] = '\0';
+                    printf("increment '%s'\n", token.value);
+                    i++;
+                } else {
+                    Token token;
+                    token.type = OPERATOR;
+                    token.value[0] = currentChar;
+                    token.value[1] = '\0';
+                    printf("operator '%s'\n", token.value);
+                }
+            } else if (currentChar == '(' || currentChar == ')' || currentChar == '{' || currentChar == '}' || currentChar == ';') {
+                Token token;
+                token.type = PUNCTUATION;
+                token.value[0] = currentChar;
+                token.value[1] = '\0';
+                printf("punctuation '%s'\n", token.value);
+            } else if (currentChar == '=') {
+                Token token;
+                token.type = OPERATOR;
+                token.value[0] = currentChar;
+                token.value[1] = '\0';
+                printf("operator '%s'\n", token.value);
+            } else if (currentChar == '+') {
+                Token token;
+                token.type = INCREMENT;
+                token.value[0] = currentChar;
+                token.value[1] = currentChar;
+                token.value[2] = '\0';
+                printf("increment '%s'\n", token.value);
+            }
+        }
+    }
+}
+
+int main() {
+    const char *inputCode = "int a, b;\nint c;\nvoid func(int x) {\n    a++;\n}";
+
+    // Tokenize the input code
+    tokenize(inputCode);
+
+    return 0;
+}
+
+```
+
+# WebGPU shader
+
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>webgpu-samples: helloTriangle</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+    }
+
+    html,
+    body {
+      margin: 0;
+      /* remove default margin */
+      height: 100%;
+      /* make body fill the browser window */
+      display: flex;
+      place-content: center center;
+    }
+
+    canvas {
+      width: 600px;
+      height: 600px;
+      max-width: 100%;
+      display: block;
+    }
+  </style>
+  <script type="module">
+    var triangleVertWGSL = `@vertex
+fn main(
+  @builtin(vertex_index) VertexIndex : u32
+) -> @builtin(position) vec4f {
+  var pos = array<vec2f, 3>(
+    vec2(0.0, 0.5),
+    vec2(-0.5, -0.5),
+    vec2(0.5, -0.5)
+  );
+
+  return vec4f(pos[VertexIndex], 0.0, 1.0);
+}
+`;
+
+    var redFragWGSL = `@fragment
+fn main() -> @location(0) vec4f {
+  return vec4(1.0, 0.0, 0.0, 1.0);
+}`;
+
+    const canvas = document.querySelector('canvas');
+    const adapter = await navigator.gpu.requestAdapter();
+    const device = await adapter.requestDevice();
+    const context = canvas.getContext('webgpu');
+    const devicePixelRatio = window.devicePixelRatio;
+    canvas.width = canvas.clientWidth * devicePixelRatio;
+    canvas.height = canvas.clientHeight * devicePixelRatio;
+    const presentationFormat = navigator.gpu.getPreferredCanvasFormat();
+    context.configure({
+      device,
+      format: presentationFormat,
+      alphaMode: 'premultiplied',
+    });
+    const pipeline = device.createRenderPipeline({
+      layout: 'auto',
+      vertex: {
+        module: device.createShaderModule({
+          code: triangleVertWGSL,
+        }),
+      },
+      fragment: {
+        module: device.createShaderModule({
+          code: redFragWGSL,
+        }),
+        targets: [
+          {
+            format: presentationFormat,
+          },
+        ],
+      },
+      primitive: {
+        topology: 'triangle-list',
+      },
+    });
+    function frame() {
+      const commandEncoder = device.createCommandEncoder();
+      const textureView = context.getCurrentTexture().createView();
+      const renderPassDescriptor = {
+        colorAttachments: [
+          {
+            view: textureView,
+            clearValue: { r: 0.0, g: 0.0, b: 0.0, a: 1.0 },
+            loadOp: 'clear',
+            storeOp: 'store',
+          },
+        ],
+      };
+      const passEncoder = commandEncoder.beginRenderPass(renderPassDescriptor);
+      passEncoder.setPipeline(pipeline);
+      passEncoder.draw(3);
+      passEncoder.end();
+      device.queue.submit([commandEncoder.finish()]);
+      requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+    //# sourceMappingURL=main.js.map
+
+  </script>
+</head>
+
+<body>
+  <canvas></canvas>
+</body>
+
+</html>
+
+```
+
 
 # linux system programming wav file reading
 
