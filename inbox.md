@@ -1,5 +1,14 @@
 # 2024-3-13 0 | 0
 
+https://github.com/webmachinelearning
+https://github.com/gpuweb
+
+https://www.w3.org/groups/wg/
+
+CSS Working Group
+
+W3C Verifiable Credentials Working Group
+
 go install github.com/boyter/scc@master
 scc
 ~/go/bin/scc 
@@ -28,7 +37,7 @@ sudo apt-get install libxrandr-dev libxinerama-dev libxcursor-dev libx11-xcb-dev
 
 Xinerama is an X11 extension which provides support for extending a desktop across multiple displays.
 
-w3c webgpu group Apple Google Mozilla intel cocos 
+w3c webgpu group Apple Google Mozilla intel cocos microsoft
 
 
 Look ahead by one token

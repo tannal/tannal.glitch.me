@@ -1,5 +1,86 @@
 # 2024-3-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+dj2/Dusk: Dawn Native WebGPU Examples
+https://github.com/dj2/Dusk
+
+Dusk — C++ API
+https://dj2.github.io/Dusk/api/cpp.html#structure-BindGroupLayoutDescriptor
+
+webgpu github - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=webgpu+github
+
+gpuweb
+https://github.com/gpuweb
+
+gpuweb
+https://github.com/gpuweb
+
+Cocos - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Cocos
+
+libxinerama - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libxinerama
+
+line of code counter rust - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=line+of+code+counter+rust
+
+boyter/scc: Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+https://github.com/boyter/scc
+
+Ben E. C. Boyter | Ben E. C. Boyter
+https://boyter.org/
+
+eBPF Tutorial by Example 0: Introduction to Core Concepts and Tools - eunomia
+https://eunomia.dev/tutorials/0-introduce/#introduction-to-ebpf-5-7h
+
+excute kprobe failed on ARM-64 · Issue #140 · libbpf/libbpf-bootstrap
+https://github.com/libbpf/libbpf-bootstrap/issues/140
+
+Make ARCH configurable. by ThinkerYzu1 · Pull Request #142 · libbpf/libbpf-bootstrap
+https://github.com/libbpf/libbpf-bootstrap/pull/142/files
+
+libbpf/libbpf-bootstrap: Scaffolding for BPF application development with libbpf and BPF CO-RE
+https://github.com/libbpf/libbpf-bootstrap
+
+eunomia-bpf
+https://github.com/eunomia-bpf
+
+JS Watchdog - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=JS+Watchdog
+
+How do I install kernel header files? - Ask Ubuntu
+https://askubuntu.com/questions/75709/how-do-i-install-kernel-header-files
+
+Repositories
+https://github.com/orgs/w3c/repositories?page=2
+
+web platform working group - Google 搜尋
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=web+platform+working+group
+
+Working Groups | Discover W3C groups | W3C
+https://www.w3.org/groups/wg/
+
+Working Groups | Discover W3C groups | W3C
+https://www.w3.org/groups/wg/
+
+Johannes Wilm - COPSAC
+https://copsac.com/home/about/staff/johannes-wilm/
+
+Fidus Writer | a semantic word processor for academics
+https://www.fiduswriter.org/
+
+Performance Timeline
+https://w3c.github.io/performance-timeline/
+
+Web Machine Learning
+https://github.com/webmachinelearning
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
