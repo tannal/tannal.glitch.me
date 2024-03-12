@@ -3,6 +3,102 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+zzyiwei - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=zzyiwei+
+
+exynos.c - Android Code Search
+https://cs.android.com/android/_/android/platform/external/minigbm/+/c1413ea43a116c9ce2a54de93fccc35f06acf15d:exynos.c
+
+error adding symbols: file in wrong format - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=error+adding+symbols%3A+file+in+wrong+format
+
+Buildroot | ninja build error | /usr/bin/ld:error adding symbols: file in wrong format · Issue #2112 · ninja-build/ninja
+https://github.com/ninja-build/ninja/issues/2112
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Embeddings - OpenAI API
+https://platform.openai.com/docs/guides/embeddings/use-cases
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+blink+float&type=commits
+
+[css-logical] Enable flow-relative values by default · chromium/chromium@5a5a19d
+https://github.com/chromium/chromium/commit/5a5a19d5e58d17312f78e53f8535c38d164152b1
+
+[css-logical] Enable flow-relative values by default · chromium/chromium@5a5a19d
+https://github.com/chromium/chromium/commit/5a5a19d5e58d17312f78e53f8535c38d164152b1
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=Loirooriol
+
+Loirooriol (Oriol Brufau)
+https://github.com/Loirooriol
+
+Loirooriol/tab-counter-plus: Tab Counter Plus - Shows the number of tabs in each window. Efficient and customizable.
+https://github.com/Loirooriol/tab-counter-plus
+
+[block-in-inline] Change |NGInlineItem::IsEmptyItem()| to false · chromium/chromium@67ccd00
+https://github.com/chromium/chromium/commit/67ccd0068a8f821a5841f92b4acf8dc1716e2204
+
+[block-in-inline] Change |NGInlineItem::IsEmptyItem()| to false · chromium/chromium@67ccd00
+https://github.com/chromium/chromium/commit/67ccd0068a8f821a5841f92b4acf8dc1716e2204
+
+Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification
+https://www.w3.org/TR/CSS21/
+
+WebNN: Decouple command list recording from execution for DirectML · chromium/chromium@e86d250
+https://github.com/chromium/chromium/commit/e86d250271e3550a73b9c2c128756e9e6774416a#diff-051039f2015c55d44ad2d89084952e460000cb34307144feaa1f3e595d22a330
+
+[balance-text] Move `PropagatedBreakTokens` out of `NGLineBreaker` · chromium/chromium@14bb002
+https://github.com/chromium/chromium/commit/14bb0028760449868c93170f7dd8b5fc86f732cc
+
+balance text - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=balance+text
+
+CSS text-wrap: balance  |  CSS and UI  |  Chrome for Developers
+https://developer.chrome.com/docs/css-ui/css-text-wrap-balance
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+%5Bbalance-text%5D+&type=commits&p=6
+
+[text-balance] Remove `-webkit-nowrap` · chromium/chromium@7387ad3
+https://github.com/chromium/chromium/commit/7387ad3fb3ab6e35c63c1fc9c0fe8a7fe6eef28d
+
+chromium/third_party/blink/renderer/core/css/css_properties.json5 at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/css/css_properties.json5
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+css_properties.json5&type=commits
+
+Use pyjson5 in json5_generator.py · chromium/chromium@1ede284
+https://github.com/chromium/chromium/commit/1ede28436f5755a4a0e4241955742e43fe19602a
+
+Add CSSValuePhase parameter to CSSValueFromComputedStyleInternal · chromium/chromium@01aeb7f
+https://github.com/chromium/chromium/commit/01aeb7fee40714a9dbf7944c00d03d890c7656fe
+
+Failed to create GLFW window - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Failed+to+create+GLFW+window
+
+c++ - Why do I fail to create a window with GLFW on Windows? - Stack Overflow
+https://stackoverflow.com/questions/23702397/why-do-i-fail-to-create-a-window-with-glfw-on-windows
+
+ubuntu check opengl version - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ubuntu+check+opengl+version
+
+Implementation Status · gpuweb/gpuweb Wiki
+https://github.com/gpuweb/gpuweb/wiki/Implementation-Status
+
+WebGPU MVP
+https://github.com/servo/servo/projects/24
+
+is chmod a system call - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=is+chmod+a+system+call
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Telemetry settings in Kibana | Kibana Guide [8.12] | Elastic
 https://www.elastic.co/guide/en/kibana/current/telemetry-settings-kbn.html
 
