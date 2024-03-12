@@ -3,6 +3,72 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Telemetry settings in Kibana | Kibana Guide [8.12] | Elastic
+https://www.elastic.co/guide/en/kibana/current/telemetry-settings-kbn.html
+
+(4) Brad Traversy - Next.js From Scratch 2024 - TutFlix - Free Education Community
+https://tutflix.org/resources/brad-traversy-next-js-from-scratch-2024.10629/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#cWymWUGVujQ+ODeDIIBTaBdZ8eCC3uMrHGHwok35TQFqmgg9Il3VNU8YPAm/hwUWgFObX+swt1TFH/1VXg==
+
+(8) Facebook
+https://www.facebook.com/shiwulo
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+和泉的大圖書館：工具站、書單和YouTube頻道列表
+https://sagiriwiki.web.app/meta/library.html
+
+Sleep inertia - Wikipedia
+https://en.wikipedia.org/wiki/Sleep_inertia
+
+消化系统 节律 - Google 搜索
+https://www.google.com/search?q=%E6%B6%88%E5%8C%96%E7%B3%BB%E7%BB%9F+%E8%8A%82%E5%BE%8B&sca_esv=374404a38fff13f2&sxsrf=ACQVn095J7BLsVFGD2v90t29DCAzBlAj-w%3A1709707402235&ei=ihDoZeT3DfnlseMP9bi0qAI&ved=0ahUKEwjk5ISzhN-EAxX5cmwGHXUcDSUQ4dUDCBA&uact=5&oq=%E6%B6%88%E5%8C%96%E7%B3%BB%E7%BB%9F+%E8%8A%82%E5%BE%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-a2iOWMluezu-e7nyDoioLlvosyCRAhGAoYoAEYKjIHECEYChigATIHECEYChigAUiLR1DnBViVRnABeAGQAQCYAZYCoAGVCaoBBTAuNS4xuAEDyAEA-AEBmAIHoALfCcICChAAGEcY1gQYsAPCAgoQABiABBiKBRhDwgIHEAAYgAQYDMICCBAAGIAEGKIEmAMAiAYBkAYKkgcFMS4yLjSgB50R&sclient=gws-wiz-serp#ip=1
+
+windows 晚上自动护眼 - Google 搜索
+https://www.google.com/search?q=windows+%E6%99%9A%E4%B8%8A%E8%87%AA%E5%8A%A8%E6%8A%A4%E7%9C%BC&oq=windows+%E6%99%9A%E4%B8%8A%E8%87%AA%E5%8A%A8%E6%8A%A4%E7%9C%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDcxMjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+消化系统中的生物钟,Nature Reviews Gastroenterology & Hepatology - X-MOL
+https://www.x-mol.com/paper/1356730048600981504/t
+
+法兰·艾伦 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%95%E5%85%B0%C2%B7%E8%89%BE%E4%BC%A6
+
+Scanned Document
+https://dominoweb.draco.res.ibm.com/reports/rc5767.pdf
+
+Jason Savard - 热衷于环保事业的程序猿
+https://jasonsavard.com/zh-CN/
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+百度一下，你就知道
+https://www.baidu.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=open%20source%20minecraft&sort=byPopularity&type=story
+
+GlowstoneMC/Glowstone: A fast, customizable and compatible open source server for Minecraft: Java Edition
+https://github.com/GlowstoneMC/Glowstone
+
+Moritz Zwerger / Minosoft · GitLab
+https://gitlab.bixilon.de/bixilon/minosoft
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 大局觀：人生的正確享用方法：你不需要上學上班！被動收入的重要性。
 https://sagiriwiki.web.app/crypto/slavery.html
 
