@@ -1,5 +1,7 @@
 # inbox
 
+HyPer uses Just-In-Time (JIT) compilation to generate LLVM codes for the incoming queries, which boosts the performance of the database and minimizes the memory traffic.
+
 MLIR https://github.com/llvm/llvm-project/commits?author=kuhar
 
 https://github.com/llvm/clangir/commits/main/?author=bcardosolopes

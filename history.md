@@ -1,5 +1,173 @@
 # 2024-3-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+大局觀：人生的正確享用方法：你不需要上學上班！被動收入的重要性。
+https://sagiriwiki.web.app/crypto/slavery.html
+
+Bullshit Jobs - Wikipedia
+https://en.wikipedia.org/wiki/Bullshit_Jobs
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+ChatGPT
+https://chat.openai.com/c/0bb92a9a-6ef7-4c80-9cd0-7cf4409b1db9
+
+p432-ramachandra.pdf
+https://www.vldb.org/pvldb/vol11/p432-ramachandra.pdf
+
+Karthik Ramachandra
+https://sites.google.com/site/karthiksramachandra/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Compiler Explorer
+https://apfel-db.cs.uni-tuebingen.de/
+
+apfel db - Google 搜索
+https://www.google.com/search?q=apfel+db&rlz=1C1GCEA_enJP1090JP1090&oq=apfel+db&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQLhiABDIJCAUQLhgKGIAEMgkIBhAuGAoYgAQyBggHEEUYPNIBCDE5MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+dblp: Thomas Neumann 0001
+https://dblp.org/pid/n/ThomasNeumann.html
+
+Schedule | CMU 15-721 :: Advanced Database Systems (Spring 2024)
+https://15721.courses.cs.cmu.edu/spring2024/schedule.html
+
+CONFERENCE: Generating Code for Holistic Query Evaluation
+https://15721.courses.cs.cmu.edu/spring2024/papers/07-compilation/krikellas-icde2010.pdf
+
+p539-neumann.pdf
+https://15721.courses.cs.cmu.edu/spring2024/papers/07-compilation/p539-neumann.pdf
+
+HyPer - Database of Databases
+https://dbdb.io/db/hyper
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Nudge theory - Wikipedia
+https://en.wikipedia.org/wiki/Nudge_theory
+
+Nudge (book) - Wikipedia
+https://en.wikipedia.org/wiki/Nudge_(book)#cite_note-auto-13
+
+[PDF] Feeding the behavioral revolution : Contributions of behavior analysis to nudging and vice versa | Semantic Scholar
+https://www.semanticscholar.org/paper/Feeding-the-behavioral-revolution-%3A-Contributions-Simon-Amarilli/6cd7fbed8bf7ac3aa058c4f59375b3b094ab3fac
+
+Title
+https://sabeconomics.org/wordpress/wp-content/uploads/JBEP-2-1-13.pdf
+
+[PDF] Feeding the behavioral revolution : Contributions of behavior analysis to nudging and vice versa | Semantic Scholar
+https://www.semanticscholar.org/paper/Feeding-the-behavioral-revolution-%3A-Contributions-Simon-Amarilli/6cd7fbed8bf7ac3aa058c4f59375b3b094ab3fac
+
+理查德·塞勒 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%A1%9E%E5%8B%92
+
+凯斯·桑斯坦 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%87%B1%E6%96%AF%C2%B7%E6%A1%91%E6%96%AF%E5%9D%A6#cite_note-7
+
+Journal of Behavioral Economics - Google 搜索
+https://www.google.com/search?q=Journal+of+Behavioral+Economics&sca_esv=3c569254cd59810a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08SgNlwXseW2zZuBHTY6KXGYURqLw%3A1710207733629&ei=9bLvZZuHJtT41e8PotGR2Ak&ved=0ahUKEwjb1dGjzO2EAxVUfPUHHaJoBJsQ4dUDCBA&uact=5&oq=Journal+of+Behavioral+Economics&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0pvdXJuYWwgb2YgQmVoYXZpb3JhbCBFY29ub21pY3NIhwFQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+Oslo Metropolitan University - Google 搜索
+https://www.google.com/search?q=Oslo+Metropolitan+University&rlz=1C1GCEA_enJP1090JP1090&oq=Oslo+Metropolitan+University&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB6oAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Faculty Directory | The University of Chicago Booth School of Business
+https://www.chicagobooth.edu/faculty/directory#sort=%40foldingchild%20ascending
+
+(2 封私信 / 56 条消息) 日本语言学校最短多就可以转工作签证？有什么条件？ - 知乎
+https://www.zhihu.com/question/447512701
+
+语言学校 知乎 - Google 搜索
+https://www.google.com/search?q=%E8%AF%AD%E8%A8%80%E5%AD%A6%E6%A0%A1+%E7%9F%A5%E4%B9%8E&sca_esv=0834010aaf4475dc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-1z-P-zF0SemsigZR_TaxX9wgUdg%3A1710209861556&ei=RbvvZa2_IYbn2roPz8ei0Aw&ved=0ahUKEwjt9aea1O2EAxWGs1YBHc-jCMoQ4dUDCBA&uact=5&oq=%E8%AF%AD%E8%A8%80%E5%AD%A6%E6%A0%A1+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-ivreiogOWtpuagoSDnn6XkuY5IhQ1QX1jvCXABeACQAQCYAfEBoAG9C6oBBTAuMi41uAEDyAEA-AEBmAIGoAKbCMICBxAjGLADGCfCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAzCAgUQABiABMICCBAAGIAEGKIEmAMAiAYBkAYKkgcFMS4xLjSgB5YS&sclient=gws-wiz-serp#ip=1
+
+日本 语言学校 费用 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E6%9C%AC+%E8%AF%AD%E8%A8%80%E5%AD%A6%E6%A0%A1+%E8%B4%B9%E7%94%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%97%A5%E6%9C%AC+%E8%AF%AD%E8%A8%80%E5%AD%A6%E6%A0%A1+%E8%B4%B9%E7%94%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyCQgJEAAYDBiABNIBCDkwNjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+（超全·选校篇）大阪有哪些靠谱的语言学校？ - 知乎
+https://zhuanlan.zhihu.com/p/447591970
+
+日元兑人民币 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E5%85%83%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%97%A5%E5%85%83%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgcIARAAGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQABiABDIJCAUQABgMGIAEMgcIBhAAGIAEMgkIBxAAGAwYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg3NDEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+BlazingDB/blazingsql: BlazingSQL is a lightweight, GPU accelerated, SQL engine for Python. Built on RAPIDS cuDF.
+https://github.com/BlazingDB/blazingsql
+
+“留学转工签”移居日本，你想知道的都在这了 - 知乎
+https://zhuanlan.zhihu.com/p/145902755
+
+申请经营管理签证的流程以及注意事项 | 外国人雇用・就労VISAサポートセンター
+https://hanna-visa.com/zh/business/%E3%80%8C%E7%B5%8C%E5%96%B6%E3%83%BB%E7%AE%A1%E7%90%86%E3%80%8D%E3%81%AE%E5%9C%A8%E7%95%99%E8%B3%87%E6%A0%BC%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%89%8B%E7%B6%9A/
+
+报名 | ISI日本语学校
+https://www.isi-education.com/zh-cn/apply
+
+资料下载 | ISI日本语学校
+https://www.isi-education.com/zh-cn/application/download/#longtermapplication
+
+日本经营管理签证的办理流程，分享下我个人经验 - 知乎
+https://zhuanlan.zhihu.com/p/168707838
+
+500万日元多少人民币 - Google 搜索
+https://www.google.com/search?q=500%E4%B8%87%E6%97%A5%E5%85%83%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%B0%91%E5%B8%81&rlz=1C1GCEA_enJP1090JP1090&oq=500%E4%B8%87%E6%97%A5%E5%85%83&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIJCAIQABgMGIAEMgcIAxAAGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM5MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+apache arrow - Google 搜索
+https://www.google.com/search?q=apache+arrow&rlz=1C1GCEA_enJP1090JP1090&oq=apache+arrow&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPNIBBzEyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Wes McKinney
+https://wesmckinney.com/
+
+nvidia rapids - Google 搜索
+https://www.google.com/search?q=nvidia+rapids&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+rapids&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Leading Designer and Builder of Enterprise Data Systems | Voltron Data
+https://voltrondata.com/
+
+Grammar of CSS 2.1
+https://www.w3.org/TR/CSS21/grammar.html#q25.0
+
+@charset - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/@charset
+
+丢番图逼近 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%9F%E7%95%AA%E5%9C%96%E9%80%BC%E8%BF%91
+
+Overleaf, Online LaTeX Editor
+https://www.overleaf.com/
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+A Tour of Webassembly – Typst
+https://typst.app/project/pxHpNkF6svUwbWLuJvNyQS
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Continued fraction - Wikipedia
+https://en.wikipedia.org/wiki/Continued_fraction
+
+定理逼近 - Google 搜索
+https://www.google.com/search?q=%E5%AE%9A%E7%90%86%E9%80%BC%E8%BF%91&sca_esv=43fd76e6b38462bb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn099uYwapHJ8pFH3Lsbf-si1p1aVbA%3A1710213922883&ei=IsvvZdDBNebh2roP4PC9kAc&ved=0ahUKEwjQ2vOq4-2EAxXmsFYBHWB4D3IQ4dUDCBA&uact=5&oq=%E5%AE%9A%E7%90%86%E9%80%BC%E8%BF%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOWumueQhumAvOi_kUicUFDSRFilT3ACeACQAQCYAb8CoAHEDqoBBzAuMS42LjG4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB68E&sclient=gws-wiz-serp
+
+近似算法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%BF%91%E4%BC%BC%E7%AE%97%E6%B3%95
+
+日本临时签证转工作签证 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%B4%E6%97%B6%E7%AD%BE%E8%AF%81%E8%BD%AC%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81&sca_esv=92cdb23dca59aae9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-QSiXSz8GFPOf6fTCBC9q1yyGjZw%3A1710215139608&ei=48_vZdDfJMqKxc8PysmvoAg&ved=0ahUKEwiQ3Yrv5-2EAxVKRfEDHcrkC4QQ4dUDCBA&uact=5&oq=%E6%97%A5%E6%9C%AC%E4%B8%B4%E6%97%B6%E7%AD%BE%E8%AF%81%E8%BD%AC%E5%B7%A5%E4%BD%9C%E7%AD%BE%E8%AF%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiIeaXpeacrOS4tOaXtuetvuivgei9rOW3peS9nOetvuivgTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIq1VQAFimVHAHeAGQAQGYAa0CoAHjQKoBCTAuMjQuMTYuMbgBA8gBAPgBAZgCK6AC8jrCAgQQIxgnwgILEC4YgAQYxwEY0QPCAgUQABiABMICChAjGIAEGIoFGCfCAgwQIxiABBiKBRgTGCfCAgUQLhiABMICChAAGIAEGIoFGEPCAgcQABiABBgMmAMAkgcJNi4yMS4xNS4xoAeJXg&sclient=gws-wiz-serp
+
+日本 技术移民签证 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E6%9C%AC+%E6%8A%80%E6%9C%AF%E7%A7%BB%E6%B0%91%E7%AD%BE%E8%AF%81&sca_esv=92cdb23dca59aae9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn091xb83OEW_LNI9PoqBTomL1UfnQA%3A1710215208080&ei=KNDvZa6_BLatxc8P2bOIqAw&ved=0ahUKEwiu892P6O2EAxW2VvEDHdkZAsUQ4dUDCBA&uact=5&oq=%E6%97%A5%E6%9C%AC+%E6%8A%80%E6%9C%AF%E7%A7%BB%E6%B0%91%E7%AD%BE%E8%AF%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeaXpeacrCDmioDmnK_np7vmsJHnrb7or4EyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI5AtQgQZYzgpwAXgBkAEAmAHjAaAB7waqAQMyLTS4AQPIAQD4AQGYAgGgAgKYAwCIBgGQBgqSBwExoAeJBg&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

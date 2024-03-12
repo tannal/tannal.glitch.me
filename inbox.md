@@ -1,5 +1,37 @@
 # 2024-3-13 | 
 
+20万元人民币的存款证明
+
+如果想把留学签证换成工作签证，本科学历的情况下，只要找到可以接收的公司就行了（你到日本就可以开始转就职了）。语言学校随时可以申请退学。但是有的语言学校就职学费是不退的。所以说，你语言学校转就职很方便，但是学费可能就没了。建议还是找个学费可以半年一交的语言学校，这样损失不大。
+
+interest fact(edge case) -> some theory & rules & princple -> apply & fix loop
+
+S space {s}			{return S;}
+
+CDO comment delimiters open/close
+
+nvidia rapids is a suite of GPU-accelerated data science and AI libraries with APIs that match popular open-source data tools.
+
+Wes McKinney https://wesmckinney.com/ apache arrow python pandas
+
+https://www.isi-education.com/zh-cn/application/download/#longtermapplication
+
+apache arrow python pandas
+
+33680.05 rmb * 2 = 67360.1
+
+报名费(1500)+学费(3w4w)
+
+若您符合条件的话（学士学位），可以在语言学校毕业后，或者，甚至还在读语言学校时也可以找到被录用的公司，申请就职签证。
+
+choice architecture
+
+nature is given to human
+
+jump in a random part figure out what's going on
+
+break into regions
+
 https://research.cs.wisc.edu/adsl/People/
 
 smss unix init
