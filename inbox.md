@@ -1,5 +1,9 @@
 # 2024-3-13 0 | 0
 
+go install github.com/boyter/scc@master
+scc
+~/go/bin/scc 
+
 https://boyter.org/
 
 ```bash

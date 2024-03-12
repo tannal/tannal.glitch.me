@@ -1,10 +1,26 @@
 # inbox
 
+sudo apt-get install linux-headers-$(uname -r)
+
 sudo apt install bpftrace
 
 sudo bpftrace -l 'tracepoint:syscalls:sys_enter_*'
 sudo bpftrace -e 'BEGIN { printf("hello world\n"); }'
 sudo bpftrace -e 'tracepoint:syscalls:sys_enter_openat { printf("%s %s\n", comm, str(args.filename)); }'
+sudo bpftrace -e 'tracepoint:raw_syscalls:sys_enter { @[comm] = count(); }'
+
+sudo bpftrace -e 'tracepoint:syscalls:sys_exit_read /pid == 18644/ { @bytes = hist(args.ret); }'
+sudo bpftrace -e 'kretprobe:vfs_read { @bytes = lhist(retval, 0, 2000, 200); }'
+sudo bpftrace -e 'kprobe:vfs_read { @start[tid] = nsecs; } kretprobe:vfs_read /@start[tid]/ { @ns[comm] = hist(nsecs - @start[tid]); delete(@start[tid]); }'
+
+sudo bpftrace -e 'tracepoint:sched:sched* { @[probe] = count(); } interval:s:5 { exit(); }'
+
+
+sudo bpftrace -e 'profile:hz:99 { @[kstack] = count(); }'
+
+sudo bpftrace -e 'tracepoint:sched:sched_switch { @[kstack] = count(); }'
+
+sudo bpftrace -e 'tracepoint:block:block_rq_issue { @ = hist(args.bytes); }'
 
 # bpfcc-tools
 
