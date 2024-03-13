@@ -1,5 +1,20 @@
 # 2024-3-13 0 | 0
 
+NSF: CAREER award support for exploring heterogeneous memory models
+
+Google: support for memory consistency testing work
+
+DARPA: support for irregular application acceleration (subcontracted from the DECADES project)
+
+data dependency graph
+
+Loop Unrolling and pipeline
+
+threadpool & webserver & key value storage & video audio & game engine
+
+egui glow bind_vertex_array
+火山引擎是字节跳动旗下的云服务平台
+
 https://github.com/webmachinelearning
 https://github.com/gpuweb
 

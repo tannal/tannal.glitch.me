@@ -1,3 +1,209 @@
+# 2024-3-13
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tyler Sorensen
+https://users.soe.ucsc.edu/~tsorensen/
+
+Schedule - CSE113, Winter 2023
+https://sorensenucsc.github.io/CSE113-wi2023/schedule.html
+
+CSE113Jan20_wi2023.pdf
+https://sorensenucsc.github.io/CSE113-wi2023/lectures/CSE113Jan20_wi2023.pdf
+
+CSE113Jan18_wi2023.pdf
+https://sorensenucsc.github.io/CSE113-wi2023/lectures/CSE113Jan18_wi2023.pdf
+
+Seeing through hardware counters: a journey to threefold performance increase | by Netflix Technology Blog | Netflix TechBlog
+https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
+
+CSE113Jan13_wi2023.pdf
+https://sorensenucsc.github.io/CSE113-wi2023/lectures/CSE113Jan13_wi2023.pdf
+
+CSE113Jan13_wi2023.pdf
+https://sorensenucsc.github.io/CSE113-wi2023/lectures/CSE113Jan13_wi2023.pdf
+
+LeftoverLocals: Listening to LLM Responses Through Leaked GPU Local Memory
+https://arxiv.org/pdf/2401.16603.pdf
+
+OpenCL matrix-multiplication SGEMM tutorial
+https://cnugteren.github.io/tutorial/pages/page4.html
+
+CNugteren/myGEMM: Code appendix to an OpenCL matrix-multiplication tutorial
+https://github.com/cnugteren/myGEMM
+
+mesa/src/amd/vulkan/radv_shader.c at 957009978ef6d7121fc0d710d03bc20097d4d46b · Mesa3D/mesa
+https://github.com/Mesa3D/mesa/blob/957009978ef6d7121fc0d710d03bc20097d4d46b/src/amd/vulkan/radv_shader.c#L709
+
+ChatGPT
+https://chat.openai.com/c/0af46882-5de4-4527-9213-43acfd93e19e
+
+[LoongArch] Switch to the Machine Scheduler (#83759) · llvm/llvm-project@a5c90e4
+https://github.com/llvm/llvm-project/commit/a5c90e48b6f11bc6db7344503589648f76b16d80
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=ja&text=fingerprint%20&op=translate
+
+Fix integer underflow in shared memory debugging · postgres/postgres@6fd144e
+https://github.com/postgres/postgres/commit/6fd144e3a9664ea545d10008c48dceb6c4e9d38a
+
+Cedric Nugteren | Home
+https://cnugteren.github.io/
+
+MLPerf Tiny 1.0 confirms: Plumerai’s inference engine is again the world’s fastest | Plumerai Blog
+https://blog.plumerai.com/2022/11/mlperf-tiny-1.0/
+
+Plumerai Inference Engine - World’s fastest and smallest inference engine
+https://plumerai.com/benchmark
+
+Plumerai - Google 搜索
+https://www.google.com/search?q=Plumerai+&sca_esv=31c11a842872212b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-BwqWbmmyEwZ7EPt29MgesLO7IJQ%3A1710235052857&ei=rB3wZdPzM9Gt4-EPt7262AY&ved=0ahUKEwjT-bqGsu6EAxXR1jgGHbeeDmsQ4dUDCBA&uact=5&oq=Plumerai+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCVBsdW1lcmFpIDIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMg4QLhiABBjLARjHARjRAzIIEAAYgAQYywFIgAJQAFgAcAB4AZABAJgBpwGgAacBqgEDMC4xuAEDyAEA-AEBmAIBoAKsAZgDAJIHAzAuMaAHmQs&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Plumerai&sort=byPopularity&type=story
+
+Eric Schmidt is working to launch a university | Hacker News
+https://news.ycombinator.com/item?id=23909604
+
+eBPF Tutorial by Example 0: Introduction to Core Concepts and Tools - eunomia
+https://eunomia.dev/tutorials/0-introduce/#understand-how-to-develop-ebpf-programs-10-15h
+
+The bpftrace One-Liner Tutorial - eunomia
+https://eunomia.dev/tutorials/bpftrace-tutorial/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ERROR: Include headers with missing type definitions or install BTF information to your system.l.com - Google 搜索
+https://www.google.com/search?q=ERROR%3A+Include+headers+with+missing+type+definitions+or+install+BTF+information+to+your+system.l.com&rlz=1C1GCEA_enJP1090JP1090&oq=ERROR%3A+Include+headers+with+missing+type+definitions+or+install+BTF+information+to+your+system.l.com&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+BTF：实践指南 | Head First eBPF
+https://www.ebpf.top/post/btf-bpf-type-format/
+
+bpftrace/INSTALL.md at master · bpftrace/bpftrace
+https://github.com/bpftrace/bpftrace/blob/master/INSTALL.md#package-install
+
+c - How to use the addr2line command in Linux? - Stack Overflow
+https://stackoverflow.com/questions/7648642/how-to-use-the-addr2line-command-in-linux
+
+nix linux 多设备协同 - Google 搜索
+https://www.google.com/search?q=nix+linux+%E5%A4%9A%E8%AE%BE%E5%A4%87%E5%8D%8F%E5%90%8C&rlz=1C1GCEA_enJP1090JP1090&oq=nix+linux+%E5%A4%9A%E8%AE%BE%E5%A4%87%E5%8D%8F%E5%90%8C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDY5MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+dawn webgpu - Google 搜索
+https://www.google.com/search?q=dawn+webgpu&rlz=1C1GCEA_enJP1090JP1090&oq=dawn+we&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMzUwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+火山引擎 - Google 搜索
+https://www.google.com/search?q=%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+alexander frozen github webgpu - Google 搜索
+https://www.google.com/search?q=alexander+frozen+github+webgpu&sca_esv=4b3e726407594cc1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_VOZKR0bw3fnl3TZNudq7sJjjSyg%3A1710244073459&ei=6UDwZaq3G-uz0-kPi7a8aA&ved=0ahUKEwjqz-jT0-6EAxXr2TQHHQsbDw0Q4dUDCBA&uact=5&oq=alexander+frozen+github+webgpu&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmFsZXhhbmRlciBmcm96ZW4gZ2l0aHViIHdlYmdwdUjmEFAAWIgPcAB4AZABAJgBtwGgAZcJqgEDMS44uAEDyAEA-AEBmAIHoAK9B8ICBRAhGKABwgIHECEYChigAZgDAJIHAzEuNqAH7BU&sclient=gws-wiz-serp
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+WebGPU as a cross-platform graphics API | Hacker News
+https://news.ycombinator.com/item?id=36830678
+
+WebGPU: the cross-platform graphics API of tomorrow  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/webgpu-cross-platform/
+
+spir-v glsl hlsl msl wgsl - Google 搜索
+https://www.google.com/search?q=spir-v+glsl+hlsl+msl+wgsl&rlz=1C1GCEA_enJP1090JP1090&oq=spir-v+glsl+hlsl+msl+wgsl&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzODM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+A Review of Shader Languages
+https://alain.xyz/blog/a-review-of-shader-languages#resources
+
+wgpu/naga/src/back at 4e6f873da5e25acef9898f0f3490591c8be2e0b6 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/tree/4e6f873da5e25acef9898f0f3490591c8be2e0b6/naga/src/back
+
+- gfx-rs nuts and bolts
+https://gfx-rs.github.io/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wgpu&sort=byPopularity&type=story
+
+About
+https://kvark.github.io/about/
+
+tannal (tannal)
+https://github.com/tannal/
+
+中国cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BDcpi&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BDcpi&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIHCAkQABiABNIBCDIwOTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+河南 gdp - Google 搜索
+https://www.google.com/search?q=%E6%B2%B3%E5%8D%97+gdp&sca_esv=1114ab6409594670&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-8kECd_Nj4xMwXCsYNRlEEuGwfgQ%3A1710248437039&ei=9VHwZfHyAea02roPtMqB0Aw&ved=0ahUKEwixwcT04-6EAxVmmlYBHTRlAMoQ4dUDCBA&uact=5&oq=%E6%B2%B3%E5%8D%97+gdp&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuays-WNlyBnZHAyChAAGIAEGIoFGEMyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIxQ9QWFirDXABeAGQAQCYAaIBoAGSBaoBAzAuNbgBA8gBAPgBAZgCBqACpwXCAgoQABhHGNYEGLADwgIKEC4YgAQYigUYQ8ICExAAGIAEGAwYsQMYgwEYsQMYgwHCAgcQLhiABBgMwgINEC4YgAQYDBjHARivAZgDAIgGAZAGCpIHAzEuNaAH_Ro&sclient=gws-wiz-serp#ip=1
+
+#general > Servo and Spidermonkey report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20and.20Spidermonkey.20report
+
+#general > (no topic) - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.28no.20topic.29
+
+• Discord | #forge | Typst
+https://discord.com/channels/1054443721975922748/1175885362065834105
+
+tannal (tannal)
+https://github.com/tannal/
+
+Google
+https://www.google.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+plumerai
+https://github.com/plumerai
+
+boom riscv - Google 搜索
+https://www.google.com/search?q=boom+riscv&rlz=1C1GCEA_enJP1090JP1090&oq=boom+r&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwMTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+所有聊天
+https://poe.com/chats
+
+Mistral-Large - Poe
+https://poe.com/Mistral-Large
+
+GPT-4的多模态能力是如何实现的？ - 知乎
+https://zhuanlan.zhihu.com/p/624336159
+
+多模态 ai - Google 搜索
+https://www.google.com/search?q=%E5%A4%9A%E6%A8%A1%E6%80%81+ai&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%A4%9A%E6%A8%A1%E6%80%81+ai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgATSAQgyMTU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shader%20language&sort=byPopularity&type=story
+
+A Review of Shader Languages
+https://alain.xyz/blog/a-review-of-shader-languages
+
+A Review of Shader Languages | Hacker News
+https://news.ycombinator.com/item?id=30340625
+
+Parts of a frame - Graphics in Plain Language
+https://renderdoc.org/blog/Graphics-in-Plain-Language/Part-2.html
+
+dns: remove `dns.lookup` and `dnsPromises.lookup` options type coercion · nodejs/node@08773e3
+https://github.com/nodejs/node/commit/08773e3c0498ff04395f0f8b10c5e8bda096b0bf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+uv_loop_t — Event loop - libuv documentation
+https://docs.libuv.org/en/v1.x/loop.html#c.uv_loop_alive
+
+node/src/api/embed_helpers.cc at 4c3e9659ed116e610d8da8aa0b692cc8c6abb6e4 · nodejs/node
+https://github.com/nodejs/node/blob/4c3e9659ed116e610d8da8aa0b692cc8c6abb6e4/src/api/embed_helpers.cc#L22
+
+node/lib/internal/dns/callback_resolver.js at 4c3e9659ed116e610d8da8aa0b692cc8c6abb6e4 · nodejs/node
+https://github.com/nodejs/node/blob/4c3e9659ed116e610d8da8aa0b692cc8c6abb6e4/lib/internal/dns/callback_resolver.js#L4
+
+dns.resolveTxt() with multiple strings · Issue #52053 · nodejs/node
+https://github.com/nodejs/node/issues/52053
+
+node/.github/workflows/build-windows.yml at main · nodejs/node
+https://github.com/nodejs/node/blob/main/.github/workflows/build-windows.yml
+
 # 2024-3-12
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
