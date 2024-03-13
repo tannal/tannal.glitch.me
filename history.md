@@ -1,5 +1,143 @@
 # 2024-3-13
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+Piotr Wozniak - supermemo.guru
+https://supermemo.guru/wiki/Piotr_Wozniak
+
+Problem with peer review - supermemo.guru
+https://supermemo.guru/wiki/Problem_with_peer_review
+
+Piotr Wozniak - supermemo.guru
+https://supermemo.guru/wiki/Piotr_Wozniak
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=youtube%20value&sort=byPopularity&type=story
+
+bilibili hkg - Google 搜索
+https://www.google.com/search?q=bilibili+hkg&rlz=1C1GCEA_enJP1090JP1090&oq=bilibili+hkg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgcIAxAAGIAEMgkIBBAAGAwYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyCQgJEAAYDBiABNIBCDQ5MzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+YouTube Jobs - Engineering
+https://www.youtube.com/jobs/engineering/
+
+Federal Reserve Board - Home
+https://www.federalreserve.gov/
+
+Astro DB
+https://astro.build/db/
+
+• Discord | #support-ai | Astro Lounge
+https://discord.com/channels/830184174198718474/1095492539085230272
+
+jonathanacross/astrodb
+https://github.com/jonathanacross/astrodb
+
+kapa.ai - Instant AI Answers to Technical Questions
+https://www.kapa.ai/
+
+Quickstart | kapa.ai docs
+https://docs.kapa.ai/quickstart
+
+DigitalOcean App Platform - Google 搜索
+https://www.google.com/search?q=DigitalOcean+App+Platform&rlz=1C1GCEA_enJP1090JP1090&oq=DigitalOcean+App+Platform&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Introduction | kapa.ai docs
+https://docs.kapa.ai/
+
+iguana - Google 搜索
+https://www.google.com/search?q=iguana&rlz=1C1GCEA_enJP1090JP1090&oq=iguana&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEC4YgAQyDQgHEC4YrwEYxwEYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNjE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Investor Updates - Alphabet Investor Relations
+https://abc.xyz/investor/
+
+flock 知乎 - Google 搜索
+https://www.google.com/search?q=flock+%E7%9F%A5%E4%B9%8E&sca_esv=52b056e1a97f92b3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09bun_1RLFAWVEzK4fO1rDb8YLsoA%3A1710294089383&ei=SQTxZaL5FpeM4-EP_am8sAI&ved=0ahUKEwjiwaL9jfCEAxUXxjgGHf0UDyYQ4dUDCBA&uact=5&oq=flock+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGZsb2NrIOefpeS5jjIFECEYoAFI1xFQfVirEHABeAGQAQCYAeABoAHBCaoBBTAuMy4zuAEDyAEA-AEBmAIGoAKkCMICChAAGEcY1gQYsAPCAg4QLhivARjHARjLARiABMICCBAAGIAEGMsBwgIIEC4YgAQYywHCAgUQABiABMICBxAAGIAEGAzCAgYQABgeGAzCAgQQABgewgIGEAAYHhgPwgIKEAAYgAQYRhj_AcICCBAAGB4YDBgKwgIKEAAYBRgeGAwYCsICCBAAGAUYHhgMwgIKEC4YBRgeGAwYCsICFhAAGIAEGEYY_wEYlwUYjAUY3QTYAQGYAwCIBgGQBgq6BgYIARABGBOSBwUxLjIuM6AH8xk&sclient=gws-wiz-serp#ip=1
+
+openai investor relations - Google 搜索
+https://www.google.com/search?q=openai+investor+relations&rlz=1C1GCEA_enJP1090JP1090&oq=openai+investor&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg1MDA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+一千万日元兑人民币 - Google 搜索
+https://www.google.com/search?q=%E4%B8%80%E5%8D%83%E4%B8%87%E6%97%A5%E5%85%83%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&sca_esv=52b056e1a97f92b3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_7b_Cvr1LDBWkm7WuslStRWurB7g%3A1710295645323&ei=XQrxZcyiE8v14-EPi6OB4Ag&ved=0ahUKEwiMxZnjk_CEAxXL-jgGHYtRAIwQ4dUDCBA&uact=5&oq=%E4%B8%80%E5%8D%83%E4%B8%87%E6%97%A5%E5%85%83%E5%85%91%E4%BA%BA%E6%B0%91%E5%B8%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-S4gOWNg-S4h-aXpeWFg-WFkeS6uuawkeW4gTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIwRBQ5AJYwQ9wAXgBkAEAmAGZAqAB5wqqAQUwLjYuMbgBA8gBAPgBAZgCB6ACvwnCAgoQABhHGNYEGLADwgIHEAAYgAQYDJgDAIgGAZAGCpIHBTEuNS4xoAfJCw&sclient=gws-wiz-serp#ip=1
+
+Gavin Zhou - YouTube
+https://www.youtube.com/gavinzhou
+
+(2 封私信 / 62 条消息) ChatGPT 背后的 OpenAI 是家怎样的公司？ - 知乎
+https://www.zhihu.com/question/583348944
+
+(2 封私信 / 62 条消息) Trinkle - 知乎
+https://www.zhihu.com/people/jiayi-weng/posts
+
+如何做到史上最快的基于CPU的通用强化学习环境并行模拟器？ - 知乎
+https://zhuanlan.zhihu.com/p/431543858
+
+(2 封私信 / 62 条消息) Trinkle - 知乎
+https://www.zhihu.com/people/jiayi-weng
+
+(2 封私信 / 62 条消息) 如何看待Timothy Roscoe在ATC/OSDI21上关于OS research 的talk? - 知乎
+https://www.zhihu.com/question/496332131/answer/2453409138
+
+Systems Software Research is Irrelevant - 知乎
+https://zhuanlan.zhihu.com/p/503430907
+
+(2 封私信 / 62 条消息) 孙挺Sunt - 知乎
+https://www.zhihu.com/people/sunt-ing/posts
+
+(2 封私信 / 62 条消息) 孙挺Sunt - 知乎
+https://www.zhihu.com/people/sunt-ing
+
+PyTorch显存管理介绍与源码解析（一） - 知乎
+https://zhuanlan.zhihu.com/p/680769942
+
+(2 封私信 / 62 条消息) kaiyuan - 知乎
+https://www.zhihu.com/people/xky7
+
+(2 封私信 / 62 条消息) 迟策 - 知乎
+https://www.zhihu.com/people/skyzh
+
+(2 封私信 / 62 条消息) 圆角骑士魔理沙 - 知乎
+https://www.zhihu.com/people/marisa.moe
+
+(2 封私信 / 62 条消息) 琉克 - 知乎
+https://www.zhihu.com/people/bie-shuo-tai-duo-i/posts
+
+skyzh (Alex Chi Z.)
+https://github.com/skyzh
+
+cv.pdf
+https://skyzh.github.io/files/cv.pdf
+
+Neon — Serverless, Fault-Tolerant, Branchable Postgres
+https://neon.tech/
+
+openai/gym3: Vectorized interface for reinforcement learning environments
+https://github.com/openai/gym3
+
+sail-sg/envpool: C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
+https://github.com/sail-sg/envpool
+
+TSAIL group
+https://github.com/thu-ml
+
+Systems Software Research is Irrelevant (2000) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=29709807
+
+ggml/src/ggml-cuda.cu at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/master/src/ggml-cuda.cu#L8849
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=facebook%20change%20name%20to&sort=byPopularity&type=story
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,13 @@
 # 2024-3-13 0 | 0
 
+cudaMalloc https://github.com/ggerganov/ggml/blob/master/src/ggml-cuda.cu#L8849
+
+threadpool+lock free queue
+
+https://www.youtube.com/gavinzhou
+
+Alphabet investors report https://abc.xyz/investor/
+
 NSF: CAREER award support for exploring heterogeneous memory models
 
 Google: support for memory consistency testing work
