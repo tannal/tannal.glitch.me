@@ -1,5 +1,25 @@
 # 2024-3-13 0 | 0
 
+ls /lib/modules/$(uname -r)/kernel/drivers/usb/serial
+
+WebGPU draws to textures (we happened to get a texture from the canvas)
+WebGPU works by encoding commands and then submitting them.
+
+git add  cans/main.c \
+	cans/path.bt \
+	cans/rm.js \
+	cans/test.js \
+	cans/texture \
+	cans/texture.cc
+
+git clone https://github.com/beaufortfrancois/webgpu-cross-platform-app.git
+cd webgpu-cross-platform-app/
+git submodule update --init
+
+cmake -B build && cmake --build build -j4
+
+
+
 node::WorkerThreadsTaskRunner::WorkerThreadsTaskRunner(int)
 
 for p in ./*; do echo $p; tokei "$p"; done
