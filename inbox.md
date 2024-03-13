@@ -1,5 +1,14 @@
 # 2024-3-13 0 | 0
 
+
+point-list line-list line-strip triangle-list triangle-strip
+
+createShaderModule one or more shader functions
+createRenderPipeline
+
+vertex shader will execute with index 0 1 ...
+
+
 Bernhard Riemann
 
 https://systems.ethz.ch/education/courses/2024-spring/ComputingPlatforms.html

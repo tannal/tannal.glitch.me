@@ -1,5 +1,176 @@
 # 2024-3-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CSE113Jan23_wi2023.pdf
+https://sorensenucsc.github.io/CSE113-wi2023/lectures/CSE113Jan23_wi2023.pdf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+• Discord | #forge | Typst
+https://discord.com/channels/1054443721975922748/1175885362065834105
+
+mozjs/mozjs-sys/build.rs at master · tannal/mozjs
+https://github.com/tannal/mozjs/blob/master/mozjs-sys/build.rs
+
+It's Time for Operating Systems to Rediscover Hardware | Hacker News
+https://news.ycombinator.com/item?id=28374523
+
+Profile: glangdale | Hacker News
+https://news.ycombinator.com/user?id=glangdale
+
+The Thirty Million Line Problem - YouTube
+https://www.youtube.com/watch?v=kZRE7HIO3vk
+
+抖音-记录美好生活
+https://www.douyin.com/
+
+open hardware - Google 搜索
+https://www.google.com/search?q=open+hardware&rlz=1C1GCEA_enJP1090JP1090&oq=open+hardware&gs_lcrp=EgZjaHJvbWUyDQgAEEUYChgMGDkYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCwgFEAAYChgMGIAEMgcIBhAAGIAEMgsIBxAAGAoYDBiABDIHCAgQABiABDIHCAkQABiABNIBCDI1NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=andy%20cmu%20scylladb&sort=byPopularity&type=story
+
+scylladb/schema/schema.hh at 3a734facc7476a949ecadf5f98bccb00f8d0c9cb · scylladb/scylladb
+https://github.com/scylladb/scylladb/blob/3a734facc7476a949ecadf5f98bccb00f8d0c9cb/schema/schema.hh#L49
+
+2024 Spring Semester – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/courses/2024-spring.html
+
+Advanced Operating Systems – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/courses/2024-spring/advanced-operating-systems-.html
+
+Cloud Computing Architecture – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/courses/2024-spring/cloud-computing-architecture.html
+
+CN 2024: Computer Networks Spring 2024 Lecture at ETH Zurich
+https://netsec.ethz.ch/courses/cn-2024/
+
+Heterogeneous Systems Seminar – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/courses/2024-spring/heterogeneous-systems-seminar.html
+
+Course Catalogue - ETH Zurich
+https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024S&ansicht=LERNMATERIALIEN&lerneinheitId=178341&lang=en
+
+Ghislain Fourny's lectures - YouTube
+https://www.youtube.com/@GhislainFournysLectures/videos
+
+SirixDB - An Evolutionary, Temporal, JSON Store
+https://sirix.io/
+
+Computing Platforms – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/courses/2024-spring/ComputingPlatforms.html
+
+Data Processing and New Hardware
+https://ethz.ch/content/dam/ethz/special-interest/infk/inst-cp/inst-cp-dam/education/courses/2024-spring/computing-platforms-seminar/Intro-Seminar.pdf
+
+polybox
+https://polybox.ethz.ch/index.php/s/65ToYJxjP01Mqdf
+
+polybox
+https://polybox.ethz.ch/index.php/s/65ToYJxjP01Mqdf
+
+Master's and Bachelor's Theses – Institute for Computing Platforms - Systems Group | ETH Zurich
+https://systems.ethz.ch/education/master-and-bachelor-theses.html
+
+awesome-hacking-lists/README.md at master · taielab/awesome-hacking-lists
+https://github.com/taielab/awesome-hacking-lists/blob/master/README.md
+
+(2 封私信 / 64 条消息) JamesTheZ - 知乎
+https://www.zhihu.com/people/JamesTheZ/posts
+
+Simphoni (Jingze Xing)
+https://github.com/Simphoni
+
+Ziji's Homepage
+https://zijishi.xyz/
+
+MLSys Singapore - YouTube
+https://www.youtube.com/@MLSysSingapore
+
+ChatGPT
+https://chat.openai.com/c/3a2c7bb9-899c-462b-907a-e2af04b4e11d
+
+Bernhard Riemann - Google 搜索
+https://www.google.com/search?q=Bernhard+Riemann&rlz=1C1GCEA_enJP1090JP1090&oq=Bernhard+Riemann&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+simdjson/simdjson: Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+https://github.com/simdjson/simdjson
+
+Pull request search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+simdjson&type=pullrequests&p=2
+
+Would it make sense to add something like simdjson in the future? - Google 搜索
+https://www.google.com/search?q=Would+it+make+sense+to+add+something+like+simdjson+in+the+future%3F&rlz=1C1GCEA_enJP1090JP1090&oq=Would+it+make+sense+to+add+something+like+simdjson+in+the+future%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Branch Free – … how empty is your pipeline?
+https://branchfree.org/
+
+I made JSON.parse() 2x faster • radex.io
+https://radex.io/react-native/json-parse/
+
+build: add GN build files by zcbenz · Pull Request #47637 · nodejs/node
+https://github.com/nodejs/node/pull/47637/files
+
+microsoft/aici: AICI: Prompts as (Wasm) Programs
+https://github.com/microsoft/aici
+
+农夫山泉 - Google 搜索
+https://www.google.com/search?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89&gs_lcrp=EgZjaHJvbWUqDAgAEAAYDBjjAhiABDIMCAAQABgMGOMCGIAEMg8IARAuGAwYxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyCQgGEAAYDBiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIyNzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+a11yconfigs - Google 搜索
+https://www.google.com/search?q=a11yconfigs&sca_esv=cc7d94c02e4b9cbf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09rtdTIYc3rwGlUy-ggpc8RELKWtA%3A1710312362254&ei=qkvxZcyTD9301e8P-5uVmAc&ved=0ahUKEwjMkLqG0vCEAxVdevUHHftNBXMQ4dUDCBA&uact=5&oq=a11yconfigs&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2ExMXljb25maWdzSMYBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+微博 – 随时随地发现新鲜事
+https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+
+微博搜索
+https://s.weibo.com/weibo?q=%23TikTok%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%87%BB%23&topic_ad=#_loginLayer_1710312669841
+
+微博 – 随时随地发现新鲜事
+https://weibo.com/
+
+RasPI3
+https://tannal.github.io/blog/raspi3/
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webgpu%20firefox&sort=byPopularity&type=story
+
+A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/
+
+webgpu-samples: helloTriangle
+http://localhost:8080/test.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Rviz教程（三）：Markers: Points and Lines (C++)_rviz上绘制直线-CSDN博客
+https://blog.csdn.net/zeuseign/article/details/73650108
+
+ros2/rviz: ROS 3D Robot Visualizer
+https://github.com/ros2/rviz
+
+WebGPU Inter-stage Variables
+https://webgpufundamentals.org/webgpu/lessons/webgpu-inter-stage-variables.html
+
+涌现 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%B6%8C%E7%8E%B0#cite_note-25
+
+相变 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%9B%B8%E8%AE%8A
+
+the infinite staircase - Google 搜索
+https://www.google.com/search?q=the+infinite+staircase&rlz=1C1GCEA_enJP1090JP1090&oq=the+infinite+stairase&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCAgCEAAYDRgeMggIAxAAGA0YHjIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCTExOTUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
