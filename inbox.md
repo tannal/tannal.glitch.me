@@ -1,5 +1,13 @@
 # 2024-3-13 0 | 0
 
+Bernhard Riemann
+
+https://systems.ethz.ch/education/courses/2024-spring/ComputingPlatforms.html
+
+https://github.com/scylladb/scylladb/blob/3a734facc7476a949ecadf5f98bccb00f8d0c9cb/schema/schema.hh#L49
+
+https://systems.ethz.ch/education/master-and-bachelor-theses.html
+
 cudaMalloc https://github.com/ggerganov/ggml/blob/master/src/ggml-cuda.cu#L8849
 
 threadpool+lock free queue

@@ -121,6 +121,7 @@ int main() {
 # WebGPU shader
 
 ```html
+
 <!DOCTYPE html>
 <html>
 
@@ -237,7 +238,6 @@ fn main() -> @location(0) vec4f {
 </html>
 
 ```
-
 
 # linux system programming wav file reading
 
