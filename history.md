@@ -1,5 +1,80 @@
 # 2024-3-13
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Excalidraw
+https://excalidraw.com/
+
+layoutengine - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=layoutengine
+
+XAMPPRocky/tokei: Count your code, quickly.
+https://github.com/XAMPPRocky/tokei
+
+Add --directories to allow for outputting summaries per directory · Issue #426 · XAMPPRocky/tokei
+https://github.com/XAMPPRocky/tokei/issues/426
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=graydon&sort=byPopularity&type=story
+
+intro-talk-2.pdf
+http://venge.net/graydon/talks/intro-talk-2.pdf
+
+graydon (graydon) / Repositories
+https://github.com/graydon?tab=repositories
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+tannalwork/cans at main · tannal/tannalwork
+https://github.com/tannal/tannalwork/tree/main/cans
+
+dns.resolveTxt() with multiple strings · Issue #52053 · nodejs/node
+https://github.com/nodejs/node/issues/52053
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Multithreading in Node.js with worker threads - LogRocket Blog
+https://blog.logrocket.com/multithreading-node-js-worker-threads/
+
+nodejs eventloop - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nodejs+eventloop
+
+Node.js C++ 层的任务管理 - 知乎
+https://zhuanlan.zhihu.com/p/588765215
+
+nodejs源码分析 - 知乎
+https://www.zhihu.com/column/c_1094251741922619392
+
+theanarkh (theanarkh)
+https://github.com/theanarkh
+
+Eagerly cast pointers in aarch64 relocation code to `usize` to avoid `unsafe` blocks in cranelift-jit · Issue #7588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/7588
+
+Welcome to Astro.
+http://localhost:4321/
+
+Servo - Open Collective
+https://opencollective.com/servo#category-BUDGET
+
+Sometimes, a billion laughs aren't so funny — improving CSS variables in WebKit
+https://twilco.github.io/posts/2021/06/04/improving-css-variables-in-webkit.html
+
+caracal-js/Incognito: Source code.
+https://github.com/caracal-js/Incognito
+
+doc: optimize the doc about Unix abstract socket by theanarkh · Pull Request #52043 · nodejs/node
+https://github.com/nodejs/node/pull/52043
+
+src: add uv_get_available_memory to report and process · nodejs/node@78be0d0
+https://github.com/nodejs/node/commit/78be0d0f1ccba3c7a29f7d46319d17939a0be13d#diff-a620898e27a71c39630083ade051be73a2fc99dcf5070617b428d85ecb08dfaa
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
