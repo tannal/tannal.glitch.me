@@ -1,3 +1,194 @@
+# 2024-3-14
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mathematics and Plausible Reasoning I - Polya G.pdf
+https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+Raspberry Pi Documentation - Configuration
+https://www.raspberrypi.com/documentation/computers/configuration.html
+
+WebGPU Samples
+https://webgpu.github.io/webgpu-samples/?sample=rotatingCube
+
+[RPi bring up] hello world! 树莓派底层编程裸机点亮led - 知乎
+https://zhuanlan.zhihu.com/p/519166136
+
+使用Rust在树莓派上编写操作系统 - 项目介绍 - 子实
+https://zlotus.github.io/2021/08/01/writing-os-in-rust-on-rpi_/
+
+rust-raspberrypi-OS-tutorials/README.md at 644474cc09f755249f9c55d99a5d1e07a2562fc7 · rust-embedded/rust-raspberrypi-OS-tutorials
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/blob/644474cc09f755249f9c55d99a5d1e07a2562fc7/README.md?plain=1#L124
+
+www.scielib.com
+https://www.scielib.com/ubuntu-serial-port.html
+
+linux - How do I connect to a terminal to a serial-to-USB device on Ubuntu 10.10 (Maverick Meerkat)? - Stack Overflow
+https://stackoverflow.com/questions/5347962/how-do-i-connect-to-a-terminal-to-a-serial-to-usb-device-on-ubuntu-10-10-maveri
+
+BCM2711 ARM Peripherals
+https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf
+
+树莓派 usb ttl - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+usb+ttl&sca_esv=c3f69c090f238cd5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08JFk_jBT6LfG_95_rqYeWozIJceQ%3A1710324253767&ei=HXrxZbS3LoWv2roPvvuXuAs&ved=0ahUKEwj0ueKs_vCEAxWFl1YBHb79BbcQ4dUDCBA&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+usb+ttl&gs_lp=Egxnd3Mtd2l6LXNlcnAiEeagkeiOk-a0viB1c2IgdHRsMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUjKFVDhAVilFHABeACQAQCYAfkBoAGnF6oBBTAuNS45uAEDyAEA-AEBmAIHoAKnDMICBBAjGCfCAgoQIxiABBiKBRgnwgIKEAAYgAQYigUYQ8ICBxAAGIAEGAzCAgUQABiABMICBBAAGB7CAgYQABgeGAzCAggQABgIGB4YD5gDAIgGAZIHBTAuMS42oAf3HQ&sclient=gws-wiz-serp#ip=1
+
+树莓派基础实验35：USB TO TTL模块实验-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1706084
+
+钱胜 (qsqya) - Gitee.com
+https://gitee.com/qsqya
+
+cloud-alibaba-framework: spring-cloud-alibaba框架集成
+https://gitee.com/qsqya/cloud-alibaba-framework
+
+ESP8266-Light: MQTT逻辑嵌入式示例，MCU点灯系统。 STM32+ESP8266+HAL 主要包含wifi驱动
+https://gitee.com/qsqya/esp8266-light
+
+串口跳线帽正确连接方法-抖音
+https://www.douyin.com/shipin/7321031620327426048
+
+usb ttl 连线 - Google 搜索
+https://www.google.com/search?q=usb+ttl+%E8%BF%9E%E7%BA%BF&sca_esv=562607b38f2994ce&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09KQTyC_LEkfln7xk1RXlnPwGwAzA%3A1710327797498&ei=9YfxZZTxHf7d2roP3NCWqAI&ved=0ahUKEwjUv8bGi_GEAxX-rlYBHVyoBSUQ4dUDCBA&uact=5&oq=usb+ttl+%E8%BF%9E%E7%BA%BF&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnVzYiB0dGwg6L-e57q_SO40UMcaWO8zcAF4AZABAJgBogKgAcAeqgEGMC4xLjE3uAEDyAEA-AEBmAIQoAKTGcICChAAGEcY1gQYsAPCAgQQIxgnwgIMECMYgAQYigUYExgnwgIOEC4YgAQYxwEYrwEYjgXCAgUQABiABMICCxAuGIAEGMcBGNEDwgIOEC4YrwEYxwEYgAQYjgXCAggQABiABBjLAcICBBAAGB7CAgYQABgeGA_CAgYQABgIGB7CAgUQIRigAcICBhAAGB4YDcICCBAAGAgYHhgNmAMAiAYBkAYHkgcGMS4wLjE1oAfORQ&sclient=gws-wiz-serp
+
+引脚 连接线 - Google 搜索
+https://www.google.com/search?q=%E5%BC%95%E8%84%9A+%E8%BF%9E%E6%8E%A5%E7%BA%BF&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%BC%95%E8%84%9A+%E8%BF%9E%E6%8E%A5%E7%BA%BF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDY0NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ch 340驱动 - Google 搜索
+https://www.google.com/search?q=ch+340%E9%A9%B1%E5%8A%A8&sca_esv=21105454922e231e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-DTFLgbBl1EHcad2Ntog-81XVp4g%3A1710328828525&ei=_IvxZcXYH6Dg1e8P4fOw6A4&ved=0ahUKEwjFxpeyj_GEAxUgcPUHHeE5DO0Q4dUDCBA&uact=5&oq=ch+340%E9%A9%B1%E5%8A%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNoIDM0MOmpseWKqDIHEAAYgAQYDTIHEAAYgAQYDUjWIlDWB1jQIXAHeAGQAQGYAfIBoAHjDaoBBTAuMi42uAEDyAEA-AEBmAINoAKsCsICChAAGEcY1gQYsAPCAgUQIRigAcICBxAhGAoYoAHCAgkQIRgKGKABGCqYAwCIBgGQBgqSBwU3LjEuNaAHvRQ&sclient=gws-wiz-serp
+
+usb ttl 连线 debian检测不到 - Google 搜索
+https://www.google.com/search?q=usb+ttl+%E8%BF%9E%E7%BA%BF+debian%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0&rlz=1C1GCEA_enJP1090JP1090&oq=usb+ttl+%E8%BF%9E%E7%BA%BF+debian%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCTE1NjY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ubuntu20.4系统安装CH340驱动并使用串口调试助手-CSDN博客
+https://blog.csdn.net/qq_27558597/article/details/117900705
+
+树莓派3B+ 引脚图说明_树莓派3 引脚-CSDN博客
+https://blog.csdn.net/zz531987464/article/details/100837652
+
+树莓派的指示灯含义 · 古德微机器人教案 v2
+https://gdwrobot.cn/courses/outline/commonProblems/indicatorLight.html
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues
+
+[C++] clang 17.0.1 - Wandbox
+https://wandbox.org/permlink/dYzozeVaEZVp4ZQo
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Why did Elon Musk leave OpenAI - Google 搜索
+https://www.google.com/search?sca_esv=a78ac98b1eba8173&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09Pair2dfYpeKuxkWcKkxPseEujTA:1710332573762&q=Why+did+Elon+Musk+leave+OpenAI&sa=X&ved=2ahUKEwjx0YasnfGEAxWlplYBHWa0ChYQ1QJ6BAhCEAE&biw=1536&bih=703&dpr=1.25
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+串口自动登录（ubuntu）-zzbok-ChinaUnix博客
+http://m.blog.chinaunix.net/uid-26119896-id-5868697.html
+
+使用串口登录Ubuntu - 老胡的博客
+http://iqotom.com/?p=146
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+notifypy - Google 搜索
+https://www.google.com/search?q=notifypy&rlz=1C1GCEA_enJP1090JP1090&oq=notifypy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+cs1.6 - Google 搜索
+https://www.google.com/search?q=cs1.6&rlz=1C1GCEA_enJP1090JP1090&oq=cs1.6&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNjgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+百度一下，你就知道
+https://www.baidu.com/
+
+百度热搜
+https://top.baidu.com/board?platform=pc&sa=pcindex_entry
+
+百度热搜
+https://top.baidu.com/board?platform=pc&sa=pcindex_entry
+
+周处除三害 电影_百度搜索
+https://www.baidu.com/s?wd=%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3+%E7%94%B5%E5%BD%B1&sa=fyb_hp_movie&rsv_dl=fyb_hp_movie
+
+微博 – 随时随地发现新鲜事
+https://weibo.com/
+
+getty images - Google 搜索
+https://www.google.com/search?q=getty+images&rlz=1C1GCEA_enJP1090JP1090&oq=getty+images&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyCwgIEAAYChgMGIAEMgsICRAAGAoYDBiABNIBCDE4MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+总理遗嘱 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%80%BB%E7%90%86%E9%81%97%E5%98%B1
+
+李文亮 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%9D%8E%E6%96%87%E4%BA%AE
+
+网络评论员 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E8%AF%84%E8%AE%BA%E5%91%98
+
+Chris Coyier – Web craftsman, blogger, author, speaker.
+https://chriscoyier.net/
+
+GPT-4.5 Turbo Leaked? Release in June 2024? Discussion? - Community - OpenAI Developer Forum
+https://community.openai.com/t/gpt-4-5-turbo-leaked-release-in-june-2024-discussion/679825
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+ジョージ・ポリア - Wikipedia
+https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%A2
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=George%20P%C3%B3lya&sort=byPopularity&type=story
+
+乔治·波利亚 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%96%AC%E6%B2%BB%C2%B7%E6%B3%A2%E5%88%A9%E4%BA%9E
+
+Experimental mathematics - Wikipedia
+https://en.wikipedia.org/wiki/Experimental_mathematics
+
+expmath-probs.pdf
+https://www.experimentalmath.info/books/expmath-probs.pdf
+
+• Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+数值积分 - OI Wiki
+https://oi-wiki.org/math/numerical/integral/
+
+Mathematics by Experiment: Plausible Reasoning in the 21st Century - Google 搜索
+https://www.google.com/search?q=Mathematics+by+Experiment%3A+Plausible+Reasoning+in+the+21st+Century&rlz=1C1GCEA_enJP1090JP1090&oq=Mathematics+by+Experiment%3A+Plausible+Reasoning+in+the+21st+Century&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=software%20for%20math&sort=byPopularity&type=story
+
+python中使用scipy.integrate求积分、二重积分、三重积分_使用python求解三重积分-CSDN博客
+https://blog.csdn.net/qq_39705870/article/details/79998359
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Notes on the Adaptive Simpson Quadrature Routine | 10.1145/321526.321537_Scihub
+https://www.bothonce.com/10.1145/321526.321537
+
 # 2024-3-13
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
