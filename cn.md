@@ -1,6 +1,8 @@
 
 
-https://www.zhihu.com/people/marisa.moe
+AIGC https://www.zhihu.com/people/xiaohuzc
+
+PL https://www.zhihu.com/people/marisa.moe
 
 https://www.zhihu.com/people/bie-shuo-tai-duo-i/posts
 

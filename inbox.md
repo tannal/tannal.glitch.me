@@ -1,5 +1,24 @@
 # 2024-3-14 0 | 0
 
+https://github.com/KillianLucas
+
+机器之心Synced是国内首家系统性关注人工智能的科技
+媒体
+
+Module 模式
+Config 模式 raylib-config.cmake raylibConfig.cmake
+
+<package>_DIR
+CMAKE_PREFIX_PATH
+CMAKE_FRAMEWORK_PATH
+CMAKE_APPBUNDLE_PATH
+PATH
+
+<prefix>/(lib/<arch>|lib|share)/cmake/<name>*/          (U)
+<prefix>/(lib/<arch>|lib|share)/<name>*/                (U)
+<prefix>/(lib/<arch>|lib|share)/<name>*/(cmake|CMake)/  (U)
+
+<package>Config.cmake或Find<package>.cmake
 
 企鹅影视 tencent
 上海阅文影视文化传播有限公司

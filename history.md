@@ -3,6 +3,183 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Perplexity Labs
+https://labs.perplexity.ai/
+
+(2 封私信 / 66 条消息) 琉克 - 知乎
+https://www.zhihu.com/people/bie-shuo-tai-duo-i/posts
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=empirical&op=translate
+
+• Discord | 好友
+https://discord.com/channels/@me
+
+TicTok/test.sh at main · GithubXxz/TicTok
+https://github.com/GithubXxz/TicTok/blob/main/test.sh
+
+(2 封私信 / 66 条消息) 多部门圈定 2024 年重点任务，「扩大内需」、「支持科技创新」、「防范风险」为三大关键词，如何解读？ - 知乎
+https://www.zhihu.com/question/637596113/answer/3347335758?utm_psn=1725608175406055424
+
+v2-8027ab02fd620daaf89700cdaede3f2d_720w.webp (720×686)
+https://pica.zhimg.com/80/v2-8027ab02fd620daaf89700cdaede3f2d_720w.webp?source=1def8aca
+
+财经数据 _ 采购经理人指数(PMI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/pmi.html
+
+财经数据 _ 工业品出厂价格指数(PPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/ppi.html
+
+流行语_网络用语_网络流行语大全
+https://www.gjcha.com/liuxingyu/
+
+(2 封私信 / 3 条消息) 中国PPI - 知乎
+https://www.zhihu.com/topic/27051724/hot
+
+Molly Rocket
+https://mollyrocket.com/
+
+使用find_package引入外部依赖包 | CMakeTutorial
+https://brightxiaohan.github.io/CMakeTutorial/FindPackage/
+
+cmake find_package路径详解 - 知乎
+https://zhuanlan.zhihu.com/p/50829542
+
+(2 封私信) 豌豆 - 知乎
+https://www.zhihu.com/people/meng-yan-shi/answers
+
+GPT-4的多模态能力是如何实现的？ - 知乎
+https://zhuanlan.zhihu.com/p/624336159
+
+(2 封私信) 小小将 - 知乎
+https://www.zhihu.com/people/xiaohuzc
+
+(2 封私信) 小小将 - 知乎
+https://www.zhihu.com/people/xiaohuzc/posts?page=3
+
+(2 封私信) 小小将 - 知乎
+https://www.zhihu.com/people/xiaohuzc/pins
+
+Stable Diffusion 3论文出来了！ - 知乎
+https://zhuanlan.zhihu.com/p/685368042
+
+Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
+https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf
+
+2204.14198.pdf
+https://arxiv.org/pdf/2204.14198.pdf
+
+aigc - Google 搜索
+https://www.google.com/search?q=aigc&rlz=1C1GCEA_enJP1090JP1090&oq=aigc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyBwgDEAAYgATSAQgyOTI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+知乎 小小将 - Google 搜索
+https://www.google.com/search?q=%E7%9F%A5%E4%B9%8E+%E5%B0%8F%E5%B0%8F%E5%B0%86&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%9F%A5%E4%B9%8E+%E5%B0%8F%E5%B0%8F%E5%B0%86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDM3NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+摸摸鱼热榜
+https://momoyu.cc/
+
+Introducing the next generation of Claude \ Anthropic
+https://www.anthropic.com/news/claude-3-family
+
+Claude \ Anthropic
+https://www.anthropic.com/claude
+
+机器之心 | 企业人工智能服务
+https://www.jiqizhixin.com/articles/2024-03-07-8
+
+Claude 3 账号 - Google 搜索
+https://www.google.com/search?q=Claude+3+%E8%B4%A6%E5%8F%B7&rlz=1C1GCEA_enJP1090JP1090&oq=Claude+3+%E8%B4%A6%E5%8F%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDI2ODdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Anthropic&sort=byPopularity&type=story
+
+Introducing the next generation of Claude \ Anthropic
+https://www.anthropic.com/news/claude-3-family
+
+anthropic - Google 搜索
+https://www.google.com/search?q=anthropic&rlz=1C1GCEA_enJP1090JP1090&oq=anthropic&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQczNTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Claude%203%20o&sort=byPopularity&type=story
+
+Model_Card_Claude_3.pdf
+https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf
+
+claude pro 订阅费用 - Google 搜索
+https://www.google.com/search?q=claude+pro+%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8&rlz=1C1GCEA_enJP1090JP1090&oq=claude+pro+%E8%AE%A2%E9%98%85%E8%B4%B9%E7%94%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc1ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Claude 3 深度探索：从提示技巧到高级 API 使用指南 - 知乎
+https://zhuanlan.zhihu.com/p/686224663
+
+(2 封私信) kate人不错 - 知乎
+https://www.zhihu.com/people/xu-rui-2007/posts
+
+KillianLucas (killian)
+https://github.com/KillianLucas
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Open%20Interpreter&sort=byPopularity&type=story
+
+LM Studio - Discover, download, and run local LLMs
+https://lmstudio.ai/
+
+The AI bubble - Google 搜索
+https://www.google.com/search?q=The+AI+bubble&sca_esv=9f1b0961bfe90652&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09LvAisY6ygpYi63jnjgHeKFEOnsw%3A1710383853248&ei=7WLyZc3fDvru1e8P3oCF2AQ&ved=0ahUKEwiNioKw3PKEAxV6d_UHHV5AAUsQ4dUDCBA&uact=5&oq=The+AI+bubble&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVRoZSBBSSBidWJibGUyCBAAGIAEGMsBMggQABiABBjLATIGEAAYCBgeMgYQABgIGB5ImB5QAFjiGXAAeAGQAQCYAcYCoAHJGKoBCDAuMS4xMS4xuAEDyAEA-AEBmAIMoAKRF8ICChAjGIAEGIoFGCfCAgoQABiABBiKBRhDwgIFEAAYgATCAhAQLhiABBiKBRhDGMcBGNEDwgIEECMYJ8ICCxAuGIAEGMcBGNEDwgIFEC4YgATCAgwQIxiABBiKBRgTGCfCAgoQLhiABBiKBRgnwgIOEC4YgAQYywEYxwEYrwHCAggQLhiABBjLAcICFxAuGIAEGIoFGJcFGNwEGN4EGOAE2AEBwgIGEAAYHhgMwgIEEAAYHsICBhAAGB4YDcICCBAAGAgYHhgNmAMAugYGCAEQARgUkgcIMC4xLjEwLjGgB4hs&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20ai%20bubble&sort=byPopularity&type=story
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&sca_esv=9f1b0961bfe90652&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-vmTSy_LQiKXILanys2uRIj0XzRQ%3A1710384043772&ei=q2PyZdDiLvCB1e8PtrO7uA8&ved=0ahUKEwiQ5O6K3fKEAxXwQPUHHbbZDvcQ4dUDCBA&uact=5&oq=nvidia+nasdaq&gs_lp=Egxnd3Mtd2l6LXNlcnAiDW52aWRpYSBuYXNkYXEyDRAjGIAEGIoFGCcYnQIyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI5RFQAFiSEHAAeAGQAQGYAbwDoAGeEKoBCTAuMS42LjAuMbgBA8gBAPgBAZgCB6ACig3CAgoQIxiABBiKBRgnwgIEECMYJ8ICChAAGIAEGIoFGEPCAgoQABiABBjLARgKmAMAkgcFMC4xLjagB9In&sclient=gws-wiz-serp
+
+(2 封私信) 英伟达市值一夜暴涨约 2 万亿元，涨出了一个奈飞，黄仁勋升至彭博亿万富豪 21 位，哪些信息值得关注？ - 知乎
+https://www.zhihu.com/question/645479358?write
+
+性能之殇（七）-- 分布式计算、超级计算机与神经网络共同的瓶颈 - 岁寒
+https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/498.html
+
+2312.12705.pdf
+https://arxiv.org/pdf/2312.12705.pdf
+
+LLM大模型训练与使用技巧
+https://techdiylife.github.io/big-model-training/deepspeed/LLM-state-of-GPT.html#%E9%97%AE%E9%A2%985%E5%8F%82%E6%95%B0%E9%87%8F%E5%A4%A7%E6%98%AF%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%BC%BA%E7%9A%84%E5%94%AF%E4%B8%80%E6%8C%87%E6%A0%87%E5%90%97
+
+Random thoughts
+https://tannal.github.io/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+Citing the ggml in a paper · Issue #642 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/642
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+cht - Google 搜索
+https://www.google.com/search?q=cht&rlz=1C1GCEA_enJP1090JP1090&oq=cht&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDzSAQc0MTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Static Class Cannot Instantiate
+https://chat.openai.com/c/a2027a5d-79ea-47be-acff-29753623e0bf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Mathematics and Plausible Reasoning I - Polya G.pdf
 https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf
 
