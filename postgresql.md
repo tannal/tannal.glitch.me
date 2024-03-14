@@ -1,5 +1,137 @@
 # inbox
 
+```c
+
+static PGresult *executeQuery(PGconn *conn, const char *query);
+PQexec
+libpq is the C application programmer's interface to PostgreSQL. libpq is a set of library functions that allow client programs to pass queries to the PostgreSQL backend server and to receive the results of these queries.
+
+typedef struct Query
+{
+	NodeTag		type;
+
+	CmdType		commandType;	/* select|insert|update|delete|merge|utility */
+
+	/* where did I come from? */
+	QuerySource querySource pg_node_attr(query_jumble_ignore);
+
+	/*
+	 * query identifier (can be set by plugins); ignored for equal, as it
+	 * might not be set; also not stored.  This is the result of the query
+	 * jumble, hence ignored.
+	 */
+	uint64		queryId pg_node_attr(equal_ignore, query_jumble_ignore, read_write_ignore, read_as(0));
+
+	/* do I set the command result tag? */
+	bool		canSetTag pg_node_attr(query_jumble_ignore);
+
+	Node	   *utilityStmt;	/* non-null if commandType == CMD_UTILITY */
+
+	/*
+	 * rtable index of target relation for INSERT/UPDATE/DELETE/MERGE; 0 for
+	 * SELECT.  This is ignored in the query jumble as unrelated to the
+	 * compilation of the query ID.
+	 */
+	int			resultRelation pg_node_attr(query_jumble_ignore);
+
+	/* has aggregates in tlist or havingQual */
+	bool		hasAggs pg_node_attr(query_jumble_ignore);
+	/* has window functions in tlist */
+	bool		hasWindowFuncs pg_node_attr(query_jumble_ignore);
+	/* has set-returning functions in tlist */
+	bool		hasTargetSRFs pg_node_attr(query_jumble_ignore);
+	/* has subquery SubLink */
+	bool		hasSubLinks pg_node_attr(query_jumble_ignore);
+	/* distinctClause is from DISTINCT ON */
+	bool		hasDistinctOn pg_node_attr(query_jumble_ignore);
+	/* WITH RECURSIVE was specified */
+	bool		hasRecursive pg_node_attr(query_jumble_ignore);
+	/* has INSERT/UPDATE/DELETE in WITH */
+	bool		hasModifyingCTE pg_node_attr(query_jumble_ignore);
+	/* FOR [KEY] UPDATE/SHARE was specified */
+	bool		hasForUpdate pg_node_attr(query_jumble_ignore);
+	/* rewriter has applied some RLS policy */
+	bool		hasRowSecurity pg_node_attr(query_jumble_ignore);
+	/* is a RETURN statement */
+	bool		isReturn pg_node_attr(query_jumble_ignore);
+
+	List	   *cteList;		/* WITH list (of CommonTableExpr's) */
+
+	List	   *rtable;			/* list of range table entries */
+
+	/*
+	 * list of RTEPermissionInfo nodes for the rtable entries having
+	 * perminfoindex > 0
+	 */
+	List	   *rteperminfos pg_node_attr(query_jumble_ignore);
+	FromExpr   *jointree;		/* table join tree (FROM and WHERE clauses);
+								 * also USING clause for MERGE */
+
+	List	   *mergeActionList;	/* list of actions for MERGE (only) */
+	/* whether to use outer join */
+	bool		mergeUseOuterJoin pg_node_attr(query_jumble_ignore);
+
+	/*
+	 * rtable index of target relation for MERGE to pull data. Initially, this
+	 * is the same as resultRelation, but after query rewriting, if the target
+	 * relation is a trigger-updatable view, this is the index of the expanded
+	 * view subquery, whereas resultRelation is the index of the target view.
+	 */
+	int			mergeTargetRelation pg_node_attr(query_jumble_ignore);
+
+	List	   *targetList;		/* target list (of TargetEntry) */
+
+	/* OVERRIDING clause */
+	OverridingKind override pg_node_attr(query_jumble_ignore);
+
+	OnConflictExpr *onConflict; /* ON CONFLICT DO [NOTHING | UPDATE] */
+
+	List	   *returningList;	/* return-values list (of TargetEntry) */
+
+	List	   *groupClause;	/* a list of SortGroupClause's */
+	bool		groupDistinct;	/* is the group by clause distinct? */
+
+	List	   *groupingSets;	/* a list of GroupingSet's if present */
+
+	Node	   *havingQual;		/* qualifications applied to groups */
+
+	List	   *windowClause;	/* a list of WindowClause's */
+
+	List	   *distinctClause; /* a list of SortGroupClause's */
+
+	List	   *sortClause;		/* a list of SortGroupClause's */
+
+	Node	   *limitOffset;	/* # of result tuples to skip (int8 expr) */
+	Node	   *limitCount;		/* # of result tuples to return (int8 expr) */
+	LimitOption limitOption;	/* limit type */
+
+	List	   *rowMarks;		/* a list of RowMarkClause's */
+
+	Node	   *setOperations;	/* set-operation tree if this is top level of
+								 * a UNION/INTERSECT/EXCEPT query */
+
+	/*
+	 * A list of pg_constraint OIDs that the query depends on to be
+	 * semantically valid
+	 */
+	List	   *constraintDeps pg_node_attr(query_jumble_ignore);
+
+	/* a list of WithCheckOption's (added during rewrite) */
+	List	   *withCheckOptions pg_node_attr(query_jumble_ignore);
+
+	/*
+	 * The following two fields identify the portion of the source text string
+	 * containing this query.  They are typically only populated in top-level
+	 * Queries, not in sub-queries.  When not set, they might both be zero, or
+	 * both be -1 meaning "unknown".
+	 */
+	/* start location, or -1 if unknown */
+	int			stmt_location;
+	/* length in bytes; 0 means "rest of string" */
+	int			stmt_len pg_node_attr(query_jumble_ignore);
+} Query;
+
+```
 
 
 meson setup --prefix=C:/Users/tannal/tannalwork/projects/postgres/_install build
