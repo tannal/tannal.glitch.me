@@ -1,5 +1,9 @@
 # inbox
 
+r -D data/
+./initdb -d data
+
+
 ```c
 
 	switch (nodeTag(parseTree))

@@ -1,5 +1,53 @@
 # 2024-3-15
 
+exchange.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=libvpx-vp9&sort=byPopularity&type=story
+
+AV1 beats x264 and libvpx-vp9 in practical use case - Engineering at Meta
+https://engineering.fb.com/2018/04/10/video-engineering/av1-beats-x264-and-libvpx-vp9-in-practical-use-case/
+
+Yu Liu, Engineering at Meta Author
+https://engineering.fb.com/author/yu-liu/
+
+Yu Liu | Papers With Code
+https://paperswithcode.com/search?q=author%3AYu+Liu&order_by=stars
+
+stream server github - Google 検索
+https://www.google.com/search?q=stream+server+github&client=ubuntu-sn&hs=11m&sca_esv=7f485625a55f820f&channel=fs&ei=wQv0ZZTxOPrK2roP7rGimAM&ved=0ahUKEwjU1Z_D8fWEAxV6pVYBHe6YCDMQ4dUDCBA&uact=5&oq=stream+server+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHN0cmVhbSBzZXJ2ZXIgZ2l0aHViMgQQABgeMgYQABgFGB4yBhAAGAUYHjIGEAAYCBgeMgYQABgIGB5I7SxQuQpYxitwA3gBkAEAmAGdAqAB3wqqAQMyLTa4AQPIAQD4AQGYAgmgAo4LwgIKEAAYRxjWBBiwA8ICCRAAGIAEGBMYCsICBxAAGIAEGBPCAgYQABgeGBPCAggQABgeGBMYCsICCBAAGAUYHhgKwgIIEAAYCBgeGArCAggQABgIGB4YDZgDAIgGAZAGCpIHBTMuMC42oAfyDw&sclient=gws-wiz-serp#ip=1
+
+video stream server github-掘金
+https://juejin.cn/s/video%20stream%20server%20github
+
+illuspas/Node-Media-Server: A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+https://github.com/illuspas/Node-Media-Server
+
+GStreamer/gstreamer: GStreamer open-source multimedia framework
+https://github.com/GStreamer/gstreamer
+
+stream server using gstreamer - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=stream+server+using+gstreamer
+
+Basic tutorial 12: Streaming
+https://gstreamer.freedesktop.org/documentation/tutorials/basic/streaming.html?gi-language=c
+
+localhost:8080/test.html
+http://localhost:8080/test.html
+
+c++ - Cannot evaluate function -- may be inlined - Stack Overflow
+https://stackoverflow.com/questions/22163730/cannot-evaluate-function-may-be-inlined
+
+Headless Chrome をさわってみた | CYOKODOG
+https://www.cyokodog.net/blog/headless-chrome/
+
+c++ - What does mean Thread 0x7fffc57fa700 (LWP 31671) exited] in gdb? - Stack Overflow
+https://stackoverflow.com/questions/56088460/what-does-mean-thread-0x7fffc57fa700-lwp-31671-exited-in-gdb
+
+Dump render tree in real time
+https://groups.google.com/a/chromium.org/g/blink-dev/c/WB7h_FqCtQ8
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,10 @@
 # inbox
 
+(gdb) p this->tree_->parser_content_policy_
+$10 = blink::kAllowScriptingContent
+
+thread entry RunLoop::Run
+
 libvpx Media Thread
 
 vpx video decoder
