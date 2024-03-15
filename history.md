@@ -1,5 +1,122 @@
 # 2024-3-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+• Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+feat: Implement QUIC by devsnek · Pull Request #21942 · denoland/deno
+https://github.com/denoland/deno/pull/21942
+
+devsnek (snek)
+https://github.com/devsnek
+
+engine262/src/parser/ParseNode.mts at main · engine262/engine262
+https://github.com/engine262/engine262/blob/main/src/parser/ParseNode.mts
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/
+
+[fastcall] fix options.data representation · v8/v8@6229eee
+https://github.com/v8/v8/commit/6229eee3657284cb6ad9b457d477925ad60bb743
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits/main/?author=devsnek&after=9a1e01c4ce868865da34024b0f49a0b7c709bd35+69
+
+搜索会话
+https://groups.google.com/g/golang-nuts/search?q=message%20queue
+
+nsqio/nsq: A realtime distributed messaging platform
+https://github.com/nsqio/nsq
+
+NSQ Docs 1.3.0 - Installing
+https://nsq.io/deployment/installing.html
+
+nats-io/nats-server: High-Performance server for NATS.io, the cloud and edge native messaging system.
+https://github.com/nats-io/nats-server
+
+devsnek (snek)
+https://github.com/devsnek
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+Dart Misc - Google 网上论坛
+https://groups.google.com/a/dartlang.org/g/misc
+
+搜索会话
+https://groups.google.com/g/android-ndk/search?q=opengl
+
+dawn | Builder Groups | LUCI
+https://ci.chromium.org/ui/p/dawn
+
+YouTube
+https://www.youtube.com/
+
+Wiz Khalifa & Charlie Puth - See You Again (Official Live Performance) Kobe Bryant Tribute - YouTube
+https://www.youtube.com/watch?v=l1Vf-fZoM_M
+
+Taylor Swift - style/love story/you belong with me # live reputation tour - YouTube
+https://www.youtube.com/watch?v=zEp3pfypft4
+
+Aimer - カタオモイ / THE FIRST TAKE - YouTube
+https://www.youtube.com/watch?v=Opp9nqiN5m0
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%81%A8%E3%81%A6%E3%82%82&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%81%97%E3%81%BE&op=translate
+
+[1706.03762] Attention Is All You Need
+https://arxiv.org/abs/1706.03762
+
+Ashish Vaswani - Google 搜索
+https://www.google.com/search?q=Ashish+Vaswani&rlz=1C1GCEA_enJP1090JP1090&oq=Ashish+Vaswani&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Noam Shazeer - Google 搜索
+https://www.google.com/search?q=Noam+Shazeer&rlz=1C1GCEA_enJP1090JP1090&oq=Noam+Shazeer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Niki Parmar - Google 搜索
+https://www.google.com/search?q=Niki+Parmar&rlz=1C1GCEA_enJP1090JP1090&oq=Niki+Parmar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Llion Jones - Google 搜索
+https://www.google.com/search?q=Llion+Jones&rlz=1C1GCEA_enJP1090JP1090&oq=Llion+Jones&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGAUYHtIBBzQ0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+[JIT] Specialize AutogradZero: merge AutogradAnyNonZero and Not(AutogradAnyNonZero) checks into one. by ZolotukhinM · Pull Request #44987 · pytorch/pytorch
+https://github.com/pytorch/pytorch/pull/44987
+
+About | static linux
+https://sta.li/
+
+Why has Plan 9 chosen statically linked binaries instead of dynamic ones? (2004) | Hacker News
+https://news.ycombinator.com/item?id=19169798
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Why all go binaries are "statically-linked" ? : r/golang
+https://www.reddit.com/r/golang/comments/53nl4b/why_all_go_binaries_are_staticallylinked/
+
+About | static linux
+https://sta.li/
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fggml%20softmax&type=code
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

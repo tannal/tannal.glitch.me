@@ -1,5 +1,15 @@
 # 2024-3-15 0 | 0
 
+Attension is All you need Ashish Vaswani - Essential AI Noam Shazeer - Character.AI Niki Parmar - Essential AI Llion Jones - Sakana AI
+
+しま 
+
+とても (totemo) 非常
+
+git clone https://github.com/nsqio/nsq
+cd nsq
+make
+
 https://twitter.com/ID_AA_Carmack
 
 Light Weight Process
