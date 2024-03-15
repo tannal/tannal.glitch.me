@@ -1302,6 +1302,47 @@ jobs:
 
 # docker and dockerfile
 
+docker container stop
+docker container kill
+docker container remove
+
+```dockerfile
+
+FROM alpine
+CMD ["echo", "Hello World!"]
+
+WORKDIR /usr/src
+
+RUN apt update && apt install -y python3 python3-pip
+
+RUN useradd --create-home appuser
+USER appuser
+
+COPY app.py .
+
+ENTRYPOINT ["python3", "-m", "http.server"]
+CMD ["8000"]
+
+LABEL maintainer="tannal"
+LABEL version = "1.0"
+LABEL description = "more garbage code"
+
+ENV API_KEY=hi_mom
+
+EXPOSE 8000
+
+HEALTHCHECK --interval=30s --timeout=10s \
+  CMD curl -f http://localhost:6969/health || exit 1
+
+VOLUME /db/data
+
+docker build . -t awesome
+
+docker build -f Dockerfile -t alpine:helloworld
+
+```
+
+
 ```dockerfile
 
 FROM alpine
