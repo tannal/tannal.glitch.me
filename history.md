@@ -1,5 +1,164 @@
 # 2024-3-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CS 341 · Schedule
+https://cs341.cs.illinois.edu/schedule.html
+
+CS 341 · Ideal Indirection
+https://cs341.cs.illinois.edu/assignments/ideal_indirection
+
+System Programming
+https://cs-education.github.io/sys/#/lessons
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Wasmer
+https://github.com/wasmerio
+
+winterjs/benchmark at main · wasmerio/winterjs
+https://github.com/wasmerio/winterjs/tree/main/benchmark
+
+wg/wrk: Modern HTTP benchmarking tool
+https://github.com/wg/wrk
+
+DBOS | A Database-Oriented Operating System
+https://dbos-project.github.io/
+
+twitter search - Google 搜索
+https://www.google.com/search?q=twitter+search&rlz=1C1GCEA_enJP1090JP1090&oq=twitter+search&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0MjMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webassembly&sort=byPopularity&type=story
+
+Level Up with WebAssembly Book
+https://www.levelupwasm.com/
+
+Wasm Labs at VMware OCTO
+https://wasmlabs.dev/
+
+X 上的 Solomon Hykes / @shykes@hachyderm.io：“If WASM+WASI existed in 2008, we wouldn't have needed to created Docker. That's how important it is. Webassembly on the server is the future of computing. A standardized system interface was the missing link. Let's hope WASI is up to the task!” / X
+https://twitter.com/solomonstre/status/1111004913222324225
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Static Roots: Objects with Compile-Time Constant Addresses · V8
+https://v8.dev/blog/static-roots
+
+Katelyn Gadd – Medium
+https://medium.com/@katelyngadd
+
+Why I Quit Google’s WebAssembly Team, and How It Made Me Sick | Hacker News
+https://news.ycombinator.com/item?id=31341442
+
+kripken (Alon Zakai)
+https://github.com/kripken
+
+kg (Katelyn Gadd)
+https://github.com/kg
+
+Katelyn Gadd | luminance.org
+https://luminance.org/
+
+Issues · dotnet/runtime
+https://github.com/dotnet/runtime/issues
+
+Introduction - PowerShell | Microsoft Learn
+https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.4
+
+search engine site: cs.illinois.edu - Google 搜索
+https://www.google.com/search?q=search+engine+site%3A+cs.illinois.edu&sca_esv=94cc259175ff0bb8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-WdjM2eftkchJlHvaPIm0leugvug%3A1710483829868&ei=denzZbfHNPuPvr0PuK6Y0AQ&oq=search+engine&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXNlYXJjaCBlbmdpbmUqAggAMgcQIxiwAxgnMgcQIxiwAxgnMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKYIUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgmYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp#ip=1
+
+Francis McCabe google - Google 搜索
+https://www.google.com/search?q=Francis+McCabe+google&sca_esv=94cc259175ff0bb8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-JDMgyffHGbpmtPTYYfr52u3LSKw%3A1710483944213&ei=6OnzZefZDJDBvr0Pp7qimAU&ved=0ahUKEwjn7Y2f0fWEAxWQoK8BHSedCFMQ4dUDCBA&uact=5&oq=Francis+McCabe+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUZyYW5jaXMgTWNDYWJlIGdvb2dsZTIHECEYChigATIHECEYChigAUjQCFAAWNkHcAB4AZABAJgBhAKgAf4LqgEFMC4zLjS4AQPIAQD4AQGYAgegApMMwgIIEAAYgAQYywHCAgQQABgewgIGEAAYBRgewgIFECEYoAGYAwCSBwUwLjIuNaAHkQ4&sclient=gws-wiz-serp
+
+fgmccabe (Francis McCabe)
+https://github.com/fgmccabe
+
+Keith Clark's Home Page
+https://www.doc.ic.ac.uk/~klc/
+
+raytracer/src/main.cc at master · thibaudmichaud/raytracer
+https://github.com/thibaudmichaud/raytracer/blob/master/src/main.cc
+
+brendandahl/jpgjs: JPEG/DCT data decoder
+https://github.com/brendandahl/jpgjs
+
+emscripten-core/emscripten: Emscripten: An LLVM-to-WebAssembly Compiler
+https://github.com/emscripten-core/emscripten
+
+java to wasm - Google 搜索
+https://www.google.com/search?q=java+to+wasm&rlz=1C1GCEA_enJP1090JP1090&oq=java+to+wasm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYBRgeMggIBRAAGAUYHjIICAYQABgFGB4yBggHEEUYPNIBCDQ2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Flue14a.pdf
+https://scg.unibe.ch/archive/masters/Flue14a.pdf
+
+v8-reviews - Google 网上论坛
+https://groups.google.com/g/v8-reviews
+
+Commit search results
+https://github.com/search?q=repo%3Av8%2Fv8++Olivier+Fl%C3%BCckiger&type=commits
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+两元店
+https://liangyuandian.xyz/#/plan
+
+go - http.ListenAndServe only works for localhost? - Stack Overflow
+https://stackoverflow.com/questions/40063120/http-listenandserve-only-works-for-localhost
+
+RedHat7防火墙设置以及开放端口设置写入内存_redhat防火墙配置文件添加开放端口-CSDN博客
+https://blog.csdn.net/xiaoyest/article/details/102685555
+
+PostgreSQL Parsing: Query Structure
+https://chat.openai.com/c/0650cd4e-8a0c-44c6-a7e2-2909c3c0a352
+
+carmack · GitHub Topics
+https://github.com/topics/carmack
+
+John Carmack (@ID_AA_Carmack) / X
+https://twitter.com/ID_AA_Carmack
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+command-not-found.com – clang
+https://command-not-found.com/clang
+
+Apple Buys DarwinAI Ahead of Major Generative AI Updates Coming in iOS 18 | Hacker News
+https://news.ycombinator.com/item?id=39709835
+
+Home | Computer Science Computing Facility | University of Waterloo
+https://uwaterloo.ca/computer-science-computing-facility/
+
+中国即将全面让出留学第一生源国地位，下滑趋势值得重视-中国教育在线
+https://news.eol.cn/zbzl/202401/t20240116_2554743.shtml
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=uwaterloo.ca&sort=byPopularity&type=story
+
+How do I search in all files of my project using VIM? - Stack Overflow
+https://stackoverflow.com/questions/38398787/how-do-i-search-in-all-files-of-my-project-using-vim
+
+David Soto - GStreamer Daemon - Building a media server under 30min.pdf
+https://gstreamer.freedesktop.org/data/events/gstreamer-conference/2017/David%20Soto%20-%20GStreamer%20Daemon%20-%20Building%20a%20media%20server%20under%2030min.pdf
+
+RidgeRun Embedded Solutions
+https://github.com/RidgeRun
+
+Issues · GStreamer · GitLab
+https://gitlab.freedesktop.org/groups/gstreamer/-/issues
+
+GtkWidget · 搜索 · GitLab
+https://gitlab.gnome.org/search?search=GtkWidget&nav_source=navbar&project_id=665&group_id=8&search_code=true
+
+Wasmer
+https://github.com/wasmerio
+
 exchange.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,7 @@
 # 2024-3-15 0 | 0
 
+https://twitter.com/ID_AA_Carmack
+
 Light Weight Process
 
 1- Spare Renderer
