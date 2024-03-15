@@ -1,5 +1,24 @@
 # 2024-3-15 0 | 0
 
+
+
+join Algorithms User Defined Functions Network Protocol Query Optimization
+
+https://mattbutrovi.ch/
+
+Remote direct memory access
+
+mysql+gzip mysql monetDB Postgres Oracle MongoDB DB2 Hive
+
+
+binary encoding protobuffers thrift flatbuffers
+
+compression lz4 gzip zstd oracle mysql snowflake bigquery
+
+columnar specific encoding adbc
+
+mysql postgres redis
+
 JDBC ODBC wrapper java 
 ODBC c api
 
