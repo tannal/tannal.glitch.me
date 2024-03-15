@@ -1,5 +1,7 @@
 # 2024-3-15 0 | 0
 
+补充一下，现在的 HarfBuzz (harfbuzz-ng) 主要是 Behdad Esfabod 独立完成的，有 Jonathan Kew 和 SIL 的一些开发人员的帮助。这个库和最早在 FreeType1 里的 OTF 排版库已经没有什么关系了，当时的这个库抽出来，主要是 Lars Knoll (KHTML 的创始人和 Qt 的主架构师) 和 Simon Hausmann (QtWebKit 的创始人) 合作开发的第一代 HarfBuzz，用在 Qt 和早期的 Chrome 里。(现在 Qt 和 Chrome 也都分别各自实现了基于 harfbuzz-ng 的排版。) 当然现在 FreeType 也开始用到了 harfbuzz-ng，开发者 Werner Lemberg 也对 harfbuzz-ng 有贡献。现在的 XeTeX 也已经可以不依赖 ICU 的排版功能，而单纯使用 harfbuzz-ng 了，这部分工作是 Khaled Hosny 完成的。
+
 Lin Clark emscripten
 
 being paid to work on open source

@@ -1,5 +1,122 @@
 # 2024-3-15
 
+amer - Google 搜索
+https://www.google.com/search?q=amer&sca_esv=ceb16510f626229b&sxsrf=ACQVn0_fuHupM1QJKbVPNP6oBdt3JvfBHw%3A1709966622653&ei=HgXsZfu9J4C3juMPt9CjWA#ip=1
+
+(4) Resources
+https://tutflix.org/resources/
+
+(4) UseGolang - Web Development with Go v2 - TutFlix - Free Education Community
+https://tutflix.org/resources/usegolang-web-development-with-go-v2.7476/
+
+(4) Brad Traversy - Next.js From Scratch 2024 - TutFlix - Free Education Community
+https://tutflix.org/resources/brad-traversy-next-js-from-scratch-2024.10629/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#rVyRKJiD6n6WEYNk21mCzDUl0SPr1YFLIDYyQWUpfTUWs40Mh495VeHnaxSbjBkvQqNaZiVZS08S+i4n/w==
+
+首页 - Google 云端硬盘
+https://drive.google.com/drive/home
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tsoding react - Google 搜索
+https://www.google.com/search?q=tsoding+react&rlz=1C1GCEA_enCN1091CN1091&oq=tsoding+react&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIHCAUQABiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEINDc0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&ip=1&vld=cid:f2f84bc8,vid:XAGCULPO_DE,st:3498
+
+open source minecraft - Google 搜索
+https://www.google.com/search?q=open+source+minecraft&rlz=1C1GCEA_enCN1091CN1091&oq=open+source+minecraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg0MjM3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+解决linux系统WIFI无法使用5GHz频率的问题_在linux下wifi的5g频道设置-CSDN博客
+https://blog.csdn.net/subfate/article/details/51882322
+
+grub2 - update-grub command not found - Ask Ubuntu
+https://askubuntu.com/questions/418666/update-grub-command-not-found
+
+(4) Resources
+https://tutflix.org/resources/
+
+(4) Brad Traversy - Next.js From Scratch 2024 - TutFlix - Free Education Community
+https://tutflix.org/resources/brad-traversy-next-js-from-scratch-2024.10629/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#cWymWUGVujQ+ODeDIIBTaBdZ8eCC3uMrHGHwok35TQFqmgg9Il3VNU8YPAm/hwUWgFObX+swt1TFH/1VXg==
+
+(4) Frontend Masters - The Hard Parts of Servers & Node.js - TutFlix - Free Education Community
+https://tutflix.org/resources/frontend-masters-the-hard-parts-of-servers-node-js.10655/
+
+Hard-Parts-Servers-Node.pdf
+https://static.frontendmasters.com/resources/2019-04-24-servers-node-js/Hard-Parts-Servers-Node.pdf
+
+MEGA
+https://mega.nz/folder/N6ciVDaQ
+
+Hard-Parts-Servers-Node.pdf
+https://static.frontendmasters.com/resources/2019-04-24-servers-node-js/Hard-Parts-Servers-Node.pdf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+(13) Facebook
+https://www.facebook.com/ccckmit
+
+Simon Hausmann 知乎 - Google 搜索
+https://www.google.com/search?q=Simon+Hausmann+%E7%9F%A5%E4%B9%8E&sca_esv=94cc259175ff0bb8&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ACQVn08TD_kAKW9_Lq9cV4t1USmqFHIMyQ%3A1710486895407&ei=b_XzZcbEGPaa2roP04a4oAk&ved=0ahUKEwiGuKye3PWEAxV2jVYBHVMDDpQQ4dUDCBA&uact=5&oq=Simon+Hausmann+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVNpbW9uIEhhdXNtYW5uIOefpeS5jjIHECEYChigATIHECEYChigAUisDFBdWMILcAF4AJABAJgBhwKgAd8KqgEDMi02uAEDyAEA-AEBmAIGoAKhCcICCxAAGIAEGMsBGLADwgIKEAAYgAQYsAMYCsICBxAAGB4YsAPCAgQQABgemAMAiAYBkAYFkgcFMS4wLjWgB6AR&sclient=gws-wiz-serp
+
+江疆 - 知乎
+https://www.zhihu.com/people/jjgod/answers
+
+erdengk/gsoc-analyse: 帮助新手参与开源
+https://github.com/erdengk/gsoc-analyse
+
+GSoC2023 - 参与开源
+https://erdengk.github.io/gsoc-analyse/cn/gsoc/GSoC2023/GSoC2023/
+
+Slint | Declarative GUI for Rust, C++ & JavaScript
+https://slint.dev/
+
+Demos
+https://slint.dev/demos
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+(12) Facebook
+https://www.facebook.com/ccckmit
+
+minidocker - Google 搜索
+https://www.google.com/search?q=minidocker&rlz=1C1GCEA_enCN1091CN1091&oq=minidocker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQLhjHARjRAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIKCAcQABixAxiABDIQCAgQABiDARixAxiABBiKBTIHCAkQABiABNIBCDEyODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Devin (the Developer)
+https://preview.devin.ai/
+
+Cognition
+https://www.cognition-labs.com/
+
+tannal (tannal) · GitHub
+https://github.com/tannal
+
+Devin: AI Software Engineer | Hacker News
+https://news.ycombinator.com/item?id=39679787
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+getty 使用 - Google 搜索
+https://www.google.com/search?q=getty+%E4%BD%BF%E7%94%A8&rlz=1C1GCEA_enCN1091CN1091&oq=getty+%E4%BD%BF%E7%94%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDI0MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+串口登陆类ubuntu系统设置方法
+https://seteuid0.com/posts/serail_console_login_ubuntu_howto/
+
+start command not found - Google 搜索
+https://www.google.com/search?q=start+command+not+found&rlz=1C1GCEA_enCN1091CN1091&oq=start+command&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgMGB4yBggFEAAYHjIGCAYQABgeMgYIBxBFGDzSAQgzMzUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
