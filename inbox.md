@@ -1,5 +1,30 @@
 # 2024-3-15 0 | 0
 
+
+1- Spare Renderer
+
+Chromium tries to put each web site in its own process, as much as possible, for security. (The actual rules for how sites are assigned to processes are complicated, because there are a lot of tradeoffs to make between security and performance.) The "spare renderer" is a process that's kept around ready to load a site into, for faster startup.
+
+2- Renderer
+
+This is a process that's currently loaded one or more web sites.
+
+3- utility: storage service
+
+This process manages access to web features that store data on disk (eg. Local Storage, IndexedDB). At least, that's what I assume from the name. I'm not an expert on this.
+
+4- Plugin Broker: Shockwave Flash [ I disabled flash ]
+
+Chrome 88 has Flash removed entirely so I assume when you upgrade to that, this will go away completely. I'm surprised this was loaded with Flash disabled in older versions, but maybe it's normal to keep the broker loaded but just not doing anything.
+
+5- utility: network service
+
+Manages the HTTP stack. When you go to http://example.com, this process will contact the example.com server and fetch the bytes from the net, then pass them off to whichever renderer process handles example.com for parsing.
+
+6- router service
+
+This one I don't know.
+
 补充一下，现在的 HarfBuzz (harfbuzz-ng) 主要是 Behdad Esfabod 独立完成的，有 Jonathan Kew 和 SIL 的一些开发人员的帮助。这个库和最早在 FreeType1 里的 OTF 排版库已经没有什么关系了，当时的这个库抽出来，主要是 Lars Knoll (KHTML 的创始人和 Qt 的主架构师) 和 Simon Hausmann (QtWebKit 的创始人) 合作开发的第一代 HarfBuzz，用在 Qt 和早期的 Chrome 里。(现在 Qt 和 Chrome 也都分别各自实现了基于 harfbuzz-ng 的排版。) 当然现在 FreeType 也开始用到了 harfbuzz-ng，开发者 Werner Lemberg 也对 harfbuzz-ng 有贡献。现在的 XeTeX 也已经可以不依赖 ICU 的排版功能，而单纯使用 harfbuzz-ng 了，这部分工作是 Khaled Hosny 完成的。
 
 Lin Clark emscripten

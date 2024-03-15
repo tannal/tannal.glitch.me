@@ -1,5 +1,59 @@
 # 2024-3-15
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+gist:874fad96a68edd1e9624dcf6d0355973
+https://gist.github.com/kleenpulse/874fad96a68edd1e9624dcf6d0355973
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=open%20collective%20&sort=byPopularity&type=story
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=dissolve&op=translate
+
+net git fetch with cli - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=net+git+fetch+with+cli
+
+Devin: AI Software Engineer | Hacker News
+https://news.ycombinator.com/item?id=39679787
+
+2403.04121.pdf
+https://arxiv.org/pdf/2403.04121.pdf
+
+scott_wu - Codeforces
+https://codeforces.com/profile/scott_wu
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+What is "Spare Renderer" task in Task Manager? - Chromebook Community
+https://support.google.com/chromebook/thread/86342450/what-is-spare-renderer-task-in-task-manager?hl=en
+
+ChromiumOS Discussion - Google Groups
+https://groups.google.com/a/chromium.org/g/chromium-os-discuss
+
+Re: [cros-discuss] several tasks in Task Manager, did not have them before
+https://groups.google.com/a/chromium.org/g/chromium-discuss/c/ooRekxW6usc/m/86NzXbqkBAAJ
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=spare%20renderer&sort=byPopularity&type=story
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+Joe+Mason&type=commits
+
+libvpx - Wikipedia
+https://en.wikipedia.org/wiki/Libvpx
+
+webmproject/libvpx: Mirror only. Please do not send pull requests.
+https://github.com/webmproject/libvpx
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

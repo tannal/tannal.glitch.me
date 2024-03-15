@@ -1,5 +1,18 @@
 # inbox
 
+libvpx Media Thread
+
+vpx video decoder
+
+https://github.com/search?q=repo%3Achromium%2Fchromium+Joe+Mason&type=commits
+
+process browser(priviliged) gpu network storage audio spare renderer
+
+gdb ./out/Default/chrome
+
+b NeedsRotate
+
+
 PrePaintTreeWalk
 
 physical_fragment
