@@ -1,5 +1,11 @@
 # inbox
 
+Brendan Dahl v8 team https://github.com/brendandahl
+
+Francis McCabe Go! v8 team https://github.com/fgmccabe
+
+Alon Zakai asm.js google webassembly https://github.com/kripken
+
 https://www.ekzhang.com/writing
 
 https://people.eecs.berkeley.edu/~istoica/#Teaching

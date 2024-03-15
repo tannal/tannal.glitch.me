@@ -1,5 +1,16 @@
 # 2024-3-15 0 | 0
 
+
+being paid to work on open source
+
+People like JF Bastien, Luke Wagner, Alon Zakai, Ben Titzer and countless others worked hard to put together the framework of something that would go on to be used by billions of people
+
+If you find your job is making it hard to sleep, making you feel on edge every day, or making you constantly question your own self-worth, I would encourage you to look for a new job.
+
+bussiness heavy
+
+js heavy(npm node bundle xxx engineering) or rendering heavy or UX heaving design heaving
+
 Each tab contains its own rendering context, which is used to display the content of the associated web page
 
 render their user interface, manage windows, and handle user input events
