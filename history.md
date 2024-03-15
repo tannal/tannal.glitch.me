@@ -1,5 +1,68 @@
 # 2024-3-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+webgpu - Google 搜尋
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=webgpu#ip=1
+
+WebGPU — All of the cores, none of the canvas — surma.dev
+https://surma.dev/things/webgpu/
+
+inigo quilez (@iquilezles) / X
+https://twitter.com/iquilezles
+
+How to add Monaco to a Next.js app and securely run untrusted user code
+https://deno.com/blog/monaco-nextjs
+
+WebGPU Inter-stage Variables
+https://webgpufundamentals.org/webgpu/lessons/webgpu-inter-stage-variables.html
+
+webgpu chrome developer - Google 搜尋
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=webgpu+chrome+developer
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebGPU: the cross-platform graphics API of tomorrow  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/webgpu-cross-platform/
+
+beaufortfrancois/webgpu-cross-platform-app: WebGPU cross-platform app with CMake/Emscripten
+https://github.com/beaufortfrancois/webgpu-cross-platform-app/
+
+Device Activation
+https://github.com/login/device/success
+
+http://192.168.43.27:8080/test.html
+http://192.168.43.27:8080/test.html
+
+Firefox flags
+https://gist.github.com/Janiczek/05aa25920f6965bfac0a6d894c4a5169
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=firefox%20webgpu&sort=byPopularity&type=story
+
+A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/
+
+Neural networks
+https://kvark.github.io/ai/2022/01/30/neural-networks.html
+
+Knights of the Order
+http://kvark.github.io/ideas/knights-of-the-order
+
+Slint
+https://github.com/slint-ui
+
+slint-ui/rust-skia: Safe Skia Bindings for Rust
+https://github.com/slint-ui/rust-skia
+
+failed to run custom build command for `openssl-sys v0.9.95` · Issue #2092 · sfackler/rust-openssl
+https://github.com/sfackler/rust-openssl/issues/2092
+
 amer - Google 搜索
 https://www.google.com/search?q=amer&sca_esv=ceb16510f626229b&sxsrf=ACQVn0_fuHupM1QJKbVPNP6oBdt3JvfBHw%3A1709966622653&ei=HgXsZfu9J4C3juMPt9CjWA#ip=1
 
