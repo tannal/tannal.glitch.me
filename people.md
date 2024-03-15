@@ -1,5 +1,7 @@
 # inbox
 
+Solomon Hykes one of the co-founders of Docker 
+
 Brendan Dahl v8 team https://github.com/brendandahl
 
 Francis McCabe Go! v8 team https://github.com/fgmccabe
