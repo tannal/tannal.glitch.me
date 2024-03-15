@@ -1,6 +1,8 @@
 # 2024-3-15 0 | 0
 
+Each tab contains its own rendering context, which is used to display the content of the associated web page
 
+render their user interface, manage windows, and handle user input events
 
 join Algorithms User Defined Functions Network Protocol Query Optimization
 

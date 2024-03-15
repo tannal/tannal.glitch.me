@@ -3,6 +3,198 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+Google I/O 2011: 3D Graphics on Android: Lessons learned from Google Body - YouTube
+https://www.youtube.com/watch?v=YLVbLVtjDDw
+
+(2 封私信 / 3 条消息) 圆角骑士魔理沙 - 知乎
+https://www.zhihu.com/people/marisa.moe/answers
+
+(2 封私信 / 6 条消息) 为什么经常听人说编译器比你聪明？ - 知乎
+https://www.zhihu.com/question/266812791/answer/2911226506
+
+(2 封私信 / 3 条消息) winograd - 搜索结果 - 知乎
+https://www.zhihu.com/search?hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3235962718%7D&hybrid_search_source=Entity&q=winograd&search_source=Entity&type=content
+
+详解卷积中的Winograd加速算法 - 知乎
+https://zhuanlan.zhihu.com/p/260109670
+
+详解Winograd变换矩阵生成原理
+https://mp.weixin.qq.com/s/_CKl1cdWHziUYYlG6tuQmA
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Don't Hold My Data Hostage – A Case For Client Protocol Redesign
+https://15721.courses.cs.cmu.edu/spring2018/papers/14-networking/p1022-muehleisen.pdf
+
+adbc - Google 搜索
+https://www.google.com/search?q=adbc&rlz=1C1GCEA_enJP1090JP1090&oq=adbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyEggDEC4YQxjHARjRAxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgcICRAAGIAE0gEIMTY0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Correlation - Google 搜索
+https://www.google.com/search?q=Correlation&rlz=1C1GCEA_enJP1090JP1090&oq=Correlation&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMTUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Matrix multiplication algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm#Sub-cubic_algorithms
+
+pytorch/caffe2/operators/lstm_utils.h at 3bc2bb678150e02bfa2552b82572d771a892d0c3 · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/3bc2bb678150e02bfa2552b82572d771a892d0c3/caffe2/operators/lstm_utils.h#L88
+
+PostgreSQL Parsing: Query Structure
+https://chat.openai.com/c/0650cd4e-8a0c-44c6-a7e2-2909c3c0a352
+
+朝夕光年解散了？？？_牛客网
+https://www.nowcoder.com/feed/main/detail/e909379d851a46458f44208a8d145e27
+
+陈少杰被捕 - Google 搜索
+https://www.google.com/search?q=%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%99%88%E5%B0%91%E6%9D%B0%E8%A2%AB%E6%8D%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+F-Stack/f-stack: F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+https://github.com/F-Stack/f-stack
+
+jens axboe - Google 搜索
+https://www.google.com/search?q=jens+axboe&rlz=1C1GCEA_enJP1090JP1090&oq=jens+Ax&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHqgCALACAA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=org%3Apostgres%20io_uring&type=code
+
+Matt Butrovich
+https://mattbutrovi.ch/
+
+Tigger: A Database Proxy That Bounces With User-Bypass
+https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf
+
+(2 封私信) 在数据库中，schema、catalog分别指的是什么？ - 知乎
+https://www.zhihu.com/question/20355738
+
+中国 2024 2月 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+2024+2%E6%9C%88+cpi&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BD+2024+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDsyCAgBEEUYJxg7MgYIAhBFGDsyBggDECMYJzIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDUxODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+EMQX Enterprise: Enterprise MQTT Platform At Scale
+https://www.emqx.com/en/products/emqx?utm_source=mqttx&utm_medium=referral&utm_campaign=mqttx-to-emqx
+
+Download and install packages by EMQX Team with winget
+https://winget.run/pkg/emqx
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+postgres/src/backend/catalog/heap.c at 071e3ad59d6fd2d6d1277b2bd9579397d10ded28 · postgres/postgres
+https://github.com/postgres/postgres/blob/071e3ad59d6fd2d6d1277b2bd9579397d10ded28/src/backend/catalog/heap.c#L1745
+
+catalog in postgresql - Google 搜索
+https://www.google.com/search?q=catalog+in+postgresql&rlz=1C1GCEA_enJP1090JP1090&oq=catalog+in+postgres&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCggCEAAYCBgTGB4yCggDEAAYBRgTGB4yCggEEAAYBRgTGB6oAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+google chrome - Google 搜索
+https://www.google.com/search?q=google+chrome&rlz=1C1GCEA_enJP1090JP1090&oq=google+chrome&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEIMTQ5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+external/github.com/nico/bloat - Git at Google
+https://chromium.googlesource.com/external/github.com/nico/bloat/
+
+nico (Nico Weber)
+https://github.com/nico/
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+Nico+Weber&type=commits
+
+google body - Google 搜索
+https://www.google.com/search?q=google+body&rlz=1C1GCEA_enJP1090JP1090&oq=google+body&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxBFGD3SAQgyODM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Try experiments in Search Labs - Computer - Google 搜索帮助
+https://support.google.com/websearch/answer/13572013?visit_id=638460722704079725-3336248310&p=search_labs&rd=1
+
+Ask HN: Which problem does WebGPU solve? | Hacker News
+https://news.ycombinator.com/item?id=31938527
+
+gdc 2011-android-opengl - Google 搜索
+https://www.google.com/search?q=gdc+2011-android-opengl&rlz=1C1GCEA_enJP1090JP1090&oq=gdc+2011+android+&gs_lcrp=EgZjaHJvbWUqCggBEAAYChgMGB4yBggAEEUYOTIKCAEQABgKGAwYHtIBCDUxMjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Hello World WebGL
+http://192.168.43.27:8080/test.html
+
+Three.js 101 : Hello World! (Part 1) | by @necsoft | Medium
+https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1
+
+src: support multi-line values for .env file by IlyasShabi · Pull Request #51289 · nodejs/node
+https://github.com/nodejs/node/pull/51289/files#diff-2fc0ed9917e736de80b7b7e1faeca427b3b4fa509ec06bdf11afd270f729a1a1
+
+Allow multiple readers to iterate over a stream at the same time · Issue #52086 · nodejs/node
+https://github.com/nodejs/node/issues/52086
+
+dotenv/lib/main.js at 2eed66b107229eb662a7edfe1ef31597c8d53023 · motdotla/dotenv
+https://github.com/motdotla/dotenv/blob/2eed66b107229eb662a7edfe1ef31597c8d53023/lib/main.js#L9
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=google%20&sort=byPopularity&type=story
+
+Did anyone else feel let down by Google IO? : r/singularity
+https://www.reddit.com/r/singularity/comments/13evq71/did_anyone_else_feel_let_down_by_google_io/
+
+Redact - Mass Delete Messages, Posts, Likes and More from 40+ Services
+https://redact.dev/
+
+node.js 18.3 native fetch request with a proxy - Stack Overflow
+https://stackoverflow.com/questions/72534539/node-js-18-3-native-fetch-request-with-a-proxy
+
+node.js 18.3 native fetch request with a proxy - Google 搜索
+https://www.google.com/search?q=node.js+18.3+native+fetch+request+with+a+proxy&rlz=1C1GCEA_enJP1090JP1090&oq=node.js+18.3+native+fetch+request+with+a+proxy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+两元店
+https://liangyuandian.xyz/#/node
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+Chromium OS - Compositor Pipeline - Google 幻灯片
+https://docs.google.com/presentation/d/1MZ0QtHPwxc5yBdfLmsPMgqIhNel5_Uyki-Mem2usW9s/htmlpresent
+
+高性能Web动画和渲染原理系列（4）“Compositor-Pipeline演讲PPT”学习摘要 - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/p/11862814.html
+
+高性能Web动画和渲染原理系列（5）合成层的生成条件和陷阱 - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/p/11885045.html
+
+Web高性能动画及渲染原理 - 随笔分类 - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/category/1567748.html
+
+高性能Web动画和渲染原理系列（3）——transform和opacity为什么高性能 - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/p/11741892.html
+
+Web高性能动画及渲染原理 - 随笔分类 - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/category/1567748.html
+
+GDG Xi'an DevFest 2019 闪电演讲 -《假如我是一个浏览器》PPT（经典多图，建议收藏） - 大史不说话 - 博客园
+https://www.cnblogs.com/dashnowords/p/11946246.html
+
+dashnowords (Dashnowords)
+https://github.com/dashnowords
+
+malaykeshav/facebook-programming-challenges: This is a compilation of possible questions to be solved in order to be hired by Facebook
+https://github.com/malaykeshav/facebook-programming-challenges
+
+DevTool Layers Panel - Supercharged - YouTube
+https://www.youtube.com/watch?v=6je49J67TQk
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+open+element+stack&type=commits
+
+Hello World WebGL
+http://localhost:8080/test.html
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 BOOKS | Chet Haase
 https://www.chethaase.com/books
 
