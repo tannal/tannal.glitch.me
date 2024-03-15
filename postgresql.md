@@ -2,6 +2,15 @@
 
 ```c
 
+	switch (nodeTag(parseTree))
+	{
+			/*
+			 * Optimizable statements
+			 */
+		case T_InsertStmt:
+			result = transformInsertStmt(pstate, (InsertStmt *) parseTree);
+			break;
+
 static PGresult *executeQuery(PGconn *conn, const char *query);
 PQexec
 libpq is the C application programmer's interface to PostgreSQL. libpq is a set of library functions that allow client programs to pass queries to the PostgreSQL backend server and to receive the results of these queries.

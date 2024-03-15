@@ -1,5 +1,18 @@
 # 2024-3-15 0 | 0
 
+JDBC ODBC wrapper java 
+ODBC c api
+
+
+postgres cursor
+DBMS Wire Protocol
+
+Direct Access
+Open Database Connectivity
+
+Java Database Connectivity
+Python PEP-2049
+HTTP/REST (dbms specific)
 
 # 2024-3-14 0 | 0
 

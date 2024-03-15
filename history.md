@@ -1,3 +1,188 @@
+# 2024-3-15
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+BOOKS | Chet Haase
+https://www.chethaase.com/books
+
+钱胜 (qsqya) - Gitee.com
+https://gitee.com/qsqya
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+钱胜/cloud-alibaba-framework - 码云 - 开源中国
+https://gitee.com/qsqya/cloud-alibaba-framework
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The webkit-wpe March 2024 Archive by thread
+https://lists.webkit.org/pipermail/webkit-wpe/2024-March/thread.html
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=browser%20in%20terminal&sort=byPopularity&type=story
+
+Page not found · GitHub Pages
+https://florian.mounier.dev/2014/02/28/butterfly.html
+
+Google 翻译
+https://translate.google.com/
+
+分享|使用命令行浏览器在 Linux 终端上网浏览
+https://linux.cn/article-12850-1.html
+
+tats (Tatsuya Kinoshita)
+https://github.com/tats
+
+upwork - Google 搜索
+https://www.google.com/search?q=upwork&rlz=1C1GCEA_enJP1090JP1090&oq=upwork&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE4MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/0650cd4e-8a0c-44c6-a7e2-2909c3c0a352
+
+postgres/src/backend/rewrite/rewriteDefine.c at 9c40db3b02a41e978ebeb2c61930498a36812bbf · postgres/postgres
+https://github.com/postgres/postgres/blob/9c40db3b02a41e978ebeb2c61930498a36812bbf/src/backend/rewrite/rewriteDefine.c#L663
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=ExecuteTruncate&op=translate
+
+1.4 PostgreSQL代码结构 · PostgreSQL数据库内核分析
+https://walleipt.gitbooks.io/postgresql/content/di-1-zhang-postgresql-xi-tong-gai-shu/14-postgresqldai-ma-jie-gou.html
+
+Query Tree.pdf
+https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/Psyduck/PostgreSQL/Query%20Tree.pdf
+
+PostgreSQL: Documentation: 16: Chapter 34. libpq — C Library
+https://www.postgresql.org/docs/current/libpq.html
+
+PostgreSQL源码学习笔记(6)-查询编译 - 知乎
+https://zhuanlan.zhihu.com/p/617714352
+
+跟我一起读postgresql源码(三)——Rewrite(查询重写模块) - 非我在 - 博客园
+https://www.cnblogs.com/flying-tiger/p/6048735.html
+
+Code search results
+https://github.com/search?q=org%3Apostgres+raw_parser+language%3AYacc&type=code&l=Yacc
+
+postgres/src/backend/catalog/pg_proc.c at 9c40db3b02a41e978ebeb2c61930498a36812bbf · postgres/postgres
+https://github.com/postgres/postgres/blob/9c40db3b02a41e978ebeb2c61930498a36812bbf/src/backend/catalog/pg_proc.c#L940
+
+Models - Hugging Face
+https://huggingface.co/models
+
+SJTU-IPADS/PowerInfer: High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+https://github.com/SJTU-IPADS/PowerInfer
+
+#general > HTML event-loop fix - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/HTML.20event-loop.20fix
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+mqtt - npm
+https://www.npmjs.com/package/mqtt
+
+Google I/O 2011: Fireside Chat with the Android Team - YouTube
+https://www.youtube.com/watch?v=gfiYUL2exT8
+
+I regret doing this... - YouTube
+https://www.youtube.com/watch?v=pmQMTfSABhw
+
+A Complete Waste of Time – Chet Haase - YouTube
+https://www.youtube.com/watch?v=Tz7vy2Atgks
+
+webassembly - Google 搜索
+https://www.google.com/search?q=webassembly&rlz=1C1GCEA_enJP1090JP1090&oq=webassembly+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD0yBggDEEUYPDIGCAQQRRg8MgYIBRBFGEEyBggGEEUYPDIGCAcQRRg80gEIMzI5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+apeterswu/Awesome-Bio-Foundation-Models: A collection of awesome bio-foundation models, including protein, RNA, DNA, gene, single-cell, and so on.
+https://github.com/apeterswu/Awesome-Bio-Foundation-Models
+
+yuanchenyang/smalldiffusion: Simple and readable code for training and sampling from diffusion models
+https://github.com/yuanchenyang/smalldiffusion
+
+Startup Playbook | Y Combinator
+https://www.ycombinator.com/blog/startup-playbook/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=made%20shit%20up&sort=byPopularity&type=story
+
+2305.08891.pdf
+https://arxiv.org/pdf/2305.08891.pdf
+
+ByteDance/SDXL-Lightning · Hugging Face
+https://huggingface.co/ByteDance/SDXL-Lightning
+
+Bits and Pieces
+https://blog.bitsrc.io/
+
+Implementing MQTT in C
+https://www.hivemq.com/blog/implementing-mqtt-in-c/
+
+Dan Bornstein google - Google 搜索
+https://www.google.com/search?q=Dan+Bornstein+google&sca_esv=990b066ce6362448&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09_eprSM8jEpOlOhMleyn-pA1pcTw%3A1710462602469&ei=ipbzZe6YHKfP1e8Pu56YwA8&ved=0ahUKEwjuhcnegfWEAxWnZ_UHHTsPBvgQ4dUDCBA&uact=5&oq=Dan+Bornstein+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiFERhbiBCb3Juc3RlaW4gZ29vZ2xlMgcQIRgKGKABSN8LUABYrApwAHgBkAEAmAH0AaABtQuqAQUwLjMuNLgBA8gBAPgBAZgCB6AC3AvCAg4QLhiABBjLARjHARivAcICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAUYHsICHRAuGIAEGMsBGMcBGK8BGJcFGNwEGN4EGOAE2AEBwgIFECEYoAGYAwC6BgYIARABGBSSBwUwLjMuNKAH0RI&sclient=gws-wiz-serp
+
+Dianne Hackborn - Google 搜索
+https://www.google.com/search?q=Dianne+Hackborn&rlz=1C1GCEA_enJP1090JP1090&oq=Dianne+Hackborn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+A while back, Dianne Hackborn famously said: "We often see questions from develo... | Hacker News
+https://news.ycombinator.com/item?id=12698026
+
+Google Workspace Updates: New community features for Google Chat and an update on Currents
+https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html
+
+Dianne Hackborn (@hackbod@mastodon.social) - Mastodon
+https://mastodon.social/@hackbod
+
+Everybody promised to disrupt the smartphone — and the smartphone outlasted them all - The Verge
+https://www.theverge.com/2022/11/23/23474090/smartphone-next-big-thing-ar-vr-metaverse-alexa
+
+Dan Morrill google - Google 搜索
+https://www.google.com/search?q=Dan+Morrill+google&rlz=1C1GCEA_enJP1090JP1090&oq=Dan+Morrill+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgoIABBFGBMYHhg7MggIARBFGCcYOzIJCAIQABgTGIAEMgkIAxAAGBMYgAQyCQgEEAAYExiABDIJCAUQABgTGIAEMgYIBhBFGDwyBggHEEUYPNIBCDE5NzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Dianne Hackborn google - Google 搜索
+https://www.google.com/search?q=Dianne+Hackborn+google&sca_esv=f3853d3f49e1b709&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09IusKvnbOY4tuvNic81XC8sq3eVw%3A1710464903216&ei=h5_zZdvnDLK1vr0PnI2AaA&ved=0ahUKEwibx9OnivWEAxWymq8BHZwGAA0Q4dUDCBA&uact=5&oq=Dianne+Hackborn+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkRpYW5uZSBIYWNrYm9ybiBnb29nbGUyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIuwpQnwFYywlwAXgBkAEBmAGfA6ABnAqqAQkwLjEuMy4wLjG4AQPIAQD4AQGYAgWgApAHwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBRAhGKABmAMAiAYBkAYDkgcFMS4xLjOgB_YN&sclient=gws-wiz-serp#ip=1
+
+a4ff0e8444ae589ac4095d4c20b8222eddfddf90 - kernel/common - Git at Google
+https://android.googlesource.com/kernel/common/+/a4ff0e8444ae589ac4095d4c20b8222eddfddf90
+
+postgres/src/include/nodes/parsenodes.h at 071e3ad59d6fd2d6d1277b2bd9579397d10ded28 · postgres/postgres
+https://github.com/postgres/postgres/blob/071e3ad59d6fd2d6d1277b2bd9579397d10ded28/src/include/nodes/parsenodes.h#L1900
+
+Chris DiBona google - Google 搜索
+https://www.google.com/search?q=Chris+DiBona+google&rlz=1C1GCEA_enJP1090JP1090&oq=Chris+DiBona+google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyNjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+What I use, 2023 edition – lpil.uk
+https://lpil.uk/blog/what-i-use-2023/
+
+ducaale/xh: Friendly and fast tool for sending HTTP requests
+https://github.com/ducaale/xh
+
+🚀 Getting Started | LazyVim
+https://www.lazyvim.org/
+
+Android Media Framework Overview
+https://people.cse.nitc.ac.in/jerrin/files/android_media_framework.pdf
+
+CSE People, NIT Calicut
+https://people.cse.nitc.ac.in/
+
+priya
+https://people.cse.nitc.ac.in/priya/
+
+Mastering the Android Media Framework, Dave Sparks, Google IO 2009 - Google 搜索
+https://www.google.com/search?q=Mastering+the+Android+Media+Framework%2C+Dave+Sparks%2C+Google+IO+2009&rlz=1C1GCEA_enJP1090JP1090&oq=Mastering+the+Android+Media+Framework%2C+Dave+Sparks%2C+Google+IO+2009&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2024-3-14
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
