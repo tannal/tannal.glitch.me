@@ -1,5 +1,26 @@
 # 2024-3-16
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Redis Pub/Sub | Redis
+https://redis.io/docs/interact/pubsub/
+
+(4) Resources
+https://tutflix.org/resources/
+
+LearningNotes/Golang/Golang进阶/14_Go操作消息队列/README.md at master · moxi624/LearningNotes
+https://github.com/moxi624/LearningNotes/blob/master/Golang/Golang%E8%BF%9B%E9%98%B6/14_Go%E6%93%8D%E4%BD%9C%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/README.md
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Go之NSQ简介,原理和使用 - 常见-youmen - 博客园
+https://www.cnblogs.com/you-men/p/13884645.html
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
