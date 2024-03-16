@@ -1,5 +1,12 @@
 # inbox
 
+hg pull && hg update
+
+mk_add_options AUTOCLOBBER=1
+vim mozconfig
+
+touch /home/tannal/tannalwork/projects/mozilla-unified/obj-x86_64-pc-linux-gnu/CLOBBER
+
 https://github.com/mozilla/gecko-dev/commits?author=emilio
 
 https://github.com/mozilla/gecko-dev/commits?author=tiaanl
