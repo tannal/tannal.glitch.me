@@ -1,5 +1,9 @@
 # 2024-3-16 0 | 0
 
+H.264 NALU
+
+ffmpeg -re -i "playlist.txt" -c copy -f flv "rtmp://127.0.0.1/stream/12345678"
+
 https://gitlab.gnome.org/GNOME/gnome-terminal
 
 https://gitlab.gnome.org/GNOME/nautilus/-/issues

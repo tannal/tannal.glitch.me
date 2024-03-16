@@ -1,5 +1,128 @@
 # 2024-3-16
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+KDLP
+https://kdlp.underground.software/course/index.md
+
+蘑菇社区 - 一个专注于技术分享的博客平台
+https://www.moguit.cn/#/
+
+2024新年快乐
+https://www.moguit.cn/info/1596
+
+蘑菇社区 - 一个专注于技术分享的博客平台 | 热搜
+https://www.moguit.cn/hot
+
+(oﾟvﾟ)ノ Hi - Go之NSQ简介,原理和使用
+https://www.cnblogs.com/you-men/p/13884645.html
+
+nsqadmin
+http://192.168.43.246:4171/nodes
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+golang nsq示例使用介绍 - 周伯通之草堂 - 博客园
+https://www.cnblogs.com/phpper/p/13408463.html
+
+消息队列系列---- Nsq
+https://kingjcy.github.io/post/middleware/mq/nsq/
+
+nsq (三) 消息传输的可靠性和持久化[一]-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1531987
+
+Zinc - A lightweight alternative to elasticsearch in Go : r/golang
+https://www.reddit.com/r/golang/comments/r7y3za/zinc_a_lightweight_alternative_to_elasticsearch/
+
+blugelabs/bluge: indexing library for Go
+https://github.com/blugelabs/bluge
+
+etcd-io/etcd: Distributed reliable key-value store for the most critical data of a distributed system
+https://github.com/etcd-io/etcd
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+networking - Connecting to 5 Ghz WiFi, whereas on 2.4 Ghz works just fine - Ask Ubuntu
+https://askubuntu.com/questions/1314390/connecting-to-5-ghz-wifi-whereas-on-2-4-ghz-works-just-fine
+
+Install QEMU with winget - winstall
+https://winstall.app/apps/SoftwareFreedomConservancy.QEMU
+
+your-tools/rusync: Minimalist rsync implementation in Rust
+https://github.com/your-tools/rusync
+
+wifi 5g no longer visible after update - Debian User Forums
+https://forums.debian.net/viewtopic.php?t=149899
+
+[Package Issue]: SoftwareFreedomConservancy.QEMU · Issue #131959 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/131959
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+underground-software/singularity: KDLP: Beyond the event horizon
+https://github.com/underground-software/singularity
+
+Podman
+https://podman.io/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Pure NDK app without using java/kotlin at all.
+https://groups.google.com/g/android-ndk/c/kCrAA721wz4
+
+cnlohr/rawdrawandroid: Build android apps without any java, entirely in C and Make
+https://github.com/cnlohr/rawdrawandroid
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+EastBay DuckDB: Duck-GPT -- Adding DuckDB Documents to an LLM
+https://duckdb.blogspot.com/2024/01/duck-gpt-adding-duckdb-documents-to-llm.html
+
+DuckDB - An in-process SQL OLAP database management system
+https://duckdb.org/
+
+duckdb/duckdb at 59ffac8af3fcc5e0a09225cc4614e5f167cc07e8
+https://github.com/duckdb/duckdb/tree/59ffac8af3fcc5e0a09225cc4614e5f167cc07e8
+
+duckduckgo - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqsorK05WYDRgdGDw4kopTc4G4fR8AHkdCMA&q=duckduckgo&rlz=1C1GCEA_enJP1090JP1090&oq=duckduck&gs_lcrp=EgZjaHJvbWUqDQgBEC4YxwEY0QMYgAQyBggAEEUYOTINCAEQLhjHARjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDMxMDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Matej Magat - Google 搜索
+https://www.google.com/search?q=Matej+Magat&rlz=1C1GCEA_enJP1090JP1090&oq=Matej+Magat&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Mark Raasveldt
+https://mytherin.github.io/
+
+Code search results
+https://github.com/search?q=repo%3AMytherin%2FPanther%20skia&type=code
+
+视频和视频帧：ffmpeg的RTMP推流 - 知乎
+https://zhuanlan.zhihu.com/p/73984438
+
+FFmpeg/FFmpeg: Mirror of https://git.ffmpeg.org/ffmpeg.git
+https://github.com/FFmpeg/FFmpeg
+
+rtmp js - Google 搜索
+https://www.google.com/search?q=rtmp+js&rlz=1C1GCEA_enJP1090JP1090&oq=rtmp+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDAgJEAAYQxiABBiKBdIBCDE3ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+树莓派6 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE6&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE6&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgcIAhAAGIAE0gEIMTYwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/83bb174e-8e7d-4f2d-8363-387b6c8f3b9b
+
+视频和视频帧：ffmpeg的RTMP推流 - 知乎
+https://zhuanlan.zhihu.com/p/73984438
+
+go-rtmp/example/server_demo/main.go at master · yutopp/go-rtmp
+https://github.com/yutopp/go-rtmp/blob/master/example/server_demo/main.go
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
