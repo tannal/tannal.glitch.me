@@ -1,5 +1,60 @@
 # inbox
 
+  b'__libc_pwrite'
+  b'(anonymous namespace)::BaseWrite(sqlite3_file*, void const*, int, long long)'
+  b'walWriteOneFrame'
+  b'pagerWalFrames'
+  b'sqlite3PagerCommitPhaseOne'
+  b'sqlite3BtreeCommitPhaseOne'
+  b'vdbeCommit'
+  b'sqlite3VdbeHalt'
+  b'sqlite3VdbeExec'
+  b'sqlite3_step'
+  b'mozilla::storage::Connection::stepStatement(sqlite3*, sqlite3_stmt*)'
+  b'mozilla::storage::AsyncExecuteStatements::executeStatement(mozilla::storage::StatementData&)'
+  b'mozilla::storage::AsyncExecuteStatements::executeAndProcessStatement(mozilla::storage::StatementData&, bool)'
+  b'mozilla::storage::AsyncExecuteStatements::Run()'
+  b'nsThread::ProcessNextEvent(bool, bool*)'
+  b'NS_ProcessNextEvent(nsIThread*, bool)'
+  b'mozilla::ipc::MessagePumpForNonMainThreads::Run(base::MessagePump::Delegate*)'
+  b'MessageLoop::Run()'
+  b'nsThread::ThreadFunc(void*)'
+  b'_pt_root'
+  b'set_alt_signal_stack_and_start(PthreadCreateParams*)'
+  b'start_thread'
+
+  b'entry_SYSCALL_64_after_hwframe'
+  b'__xstat64'
+  b'unixClose'
+  b'(anonymous namespace)::QuotaClose(sqlite3_file*)'
+  b'sqlite3PagerClose'
+  b'sqlite3BtreeClose'
+  b'sqlite3LeaveMutexAndCloseZombie'
+  b'sqlite3Close'
+  b'mozilla::storage::Connection::internalClose(sqlite3*)'
+  b'mozilla::dom::quota::CachingDatabaseConnection::Close()'
+  b'mozilla::dom::indexedDB::(anonymous namespace)::ConnectionPool::CloseConnectionRunnable::Run()'
+  b'nsThread::ProcessNextEvent(bool, bool*)'
+  b'NS_ProcessNextEvent(nsIThread*, bool)'
+  b'mozilla::dom::indexedDB::(anonymous namespace)::ConnectionPool::ThreadRunnable::Run()'
+  b'nsThread::ProcessNextEvent(bool, bool*)'
+  b'NS_ProcessNextEvent(nsIThread*, bool)'
+  b'mozilla::ipc::MessagePumpForNonMainThreads::Run(base::MessagePump::Delegate*)'
+  b'MessageLoop::Run()'
+  b'nsThread::ThreadFunc(void*)'
+  b'_pt_root'
+  b'set_alt_signal_stack_and_start(PthreadCreateParams*)'
+  b'start_thread'
+
+sudo stackcount-bpfcc -i 2 -p 152169 --debug "*amdgpu*"
+sudo stackcount-bpfcc -i 2 -p 152169 --debug "*tcp_recv*"
+
+sudo stackcount-bpfcc -p 152169 --debug "*tcp_connect*"
+
+info proc
+shell ls /proc/134785/fd/ -l
+head -n 1 /proc/134785/net/tcp; grep 526689 /proc/134785/net/tcp
+
 ./mach run --debug
 
 PR_Sleep(PR_SecondsToInterval(10));
