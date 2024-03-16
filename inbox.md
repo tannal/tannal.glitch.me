@@ -1,3 +1,7 @@
+# 2024-3-16 0 | 0
+
+about:config
+
 # 2024-3-15 0 | 0
 
 Attension is All you need Ashish Vaswani - Essential AI Noam Shazeer - Character.AI Niki Parmar - Essential AI Llion Jones - Sakana AI
