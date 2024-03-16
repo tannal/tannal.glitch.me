@@ -3,6 +3,7 @@
 sudo rsync --daemon
 
 rsync 192.168.43.246::tmp/projects/mylinux.iso
+rsync 192.168.43.95::tmp/projects/distro -r
 
 ```conf
 

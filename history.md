@@ -3,6 +3,54 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+firefox export password - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+export+password
+
+Export login data from Firefox | Firefox Help
+https://support.mozilla.org/en-US/kb/export-login-data-firefox
+
+apt with busybox - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=apt+with+busybox#ip=1
+
+第 5 章 パッケージシステム、ツールと基本原則
+http://l.github.io/debian-handbook/html/ja-JP/packaging-system.html
+
+How to install GCC and/or apt on embedded linux Raspberry Pi - Stack Overflow
+https://stackoverflow.com/questions/23933095/how-to-install-gcc-and-or-apt-on-embedded-linux-raspberry-pi
+
+djwillis (David-John Willis)
+https://github.com/djwillis
+
+laknoll (Lars Knoll)
+https://github.com/laknoll
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+servo/components/net/websocket_loader.rs at 525fc58ed9816d1cf43971c48f65266de9bd424e · servo/servo
+https://github.com/servo/servo/blob/525fc58ed9816d1cf43971c48f65266de9bd424e/components/net/websocket_loader.rs#L52
+
+servo/components/net/http_loader.rs at 525fc58ed9816d1cf43971c48f65266de9bd424e · servo/servo
+https://github.com/servo/servo/blob/525fc58ed9816d1cf43971c48f65266de9bd424e/components/net/http_loader.rs#L74
+
+Replace ws-rs with async-tungstenite. by jdm · Pull Request #27164 · servo/servo
+https://github.com/servo/servo/pull/27164/files#diff-61e97333cfb2db04b80e7ecf9e1420bafc5919eb5bb3b6a8483a620bcc388250
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648
+
+Commits · servo/servo
+https://github.com/servo/servo/commits/main/
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+crossbeam_channel - Rust
+https://docs.rs/crossbeam-channel/latest/crossbeam_channel/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 linuxwave: Using rsync without ssh
 https://www.linuxwave.info/2020/11/using-rsync-without-ssh.html
 
