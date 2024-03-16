@@ -3,6 +3,78 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+linux socket id - Google 検索
+https://www.google.com/search?q=linux+socket+id&client=ubuntu-sn&hs=lrU&sca_esv=ef10efbddd2a64f3&channel=fs&ei=nWf1ZayxF5Syvr0Pzaa4kAk&ved=0ahUKEwjs86SivfiEAxUUma8BHU0TDpIQ4dUDCBA&uact=5&oq=linux+socket+id&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2xpbnV4IHNvY2tldCBpZDIEEAAYHjIEEAAYHjIGEAAYCBgeSOwsUIwMWP0mcAF4AZABAZgBvQKgAfwZqgEHMC45LjUuMrgBA8gBAPgBAZgCEKACphjCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICEBAAGIAEGIoFGEMYsQMYgwHCAgsQABiABBixAxiDAcICBRAAGIAEwgIIEAAYgAQYsQPCAg0QABiABBiKBRhDGLEDwgIHEAAYgAQYBMICBxAAGIAEGBPCAgYQABgeGBPCAggQABgEGB4YE5gDAIgGAZAGCpIHBzEuOC42LjGgB8or&sclient=gws-wiz-serp#ip=1
+
+linux - What's the meaning of [socket:number] in /proc/pid/fd - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/604481/whats-the-meaning-of-socketnumber-in-proc-pid-fd
+
+/proc/PID/fd の socket の接続先を調べる方法
+https://blog.1q77.com/2020/10/socket-in-proc-pid-fd/
+
+Direct Rendering Manager - Wikipedia
+https://en.wikipedia.org/wiki/Direct_Rendering_Manager
+
+mozilla/glean: Modern cross-platform telemetry
+https://github.com/mozilla/glean
+
+(1) #general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+firefox use v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+use+v8
+
+Well, it wouldn't make sense for Firefox to adopt this: 1. It is tied to v8 (PDF... | Hacker News
+https://news.ycombinator.com/item?id=7782086
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+javascript - Is v8/firefox RegExp implementation based on finite automata or recursive backtrace? - Stack Overflow
+https://stackoverflow.com/questions/46767265/is-v8-firefox-regexp-implementation-based-on-finite-automata-or-recursive-backtr
+
+976446 - Replace YARR with irregexp
+https://bugzilla.mozilla.org/show_bug.cgi?id=976446
+
+Brian Hackett mozilla - Google 検索
+https://www.google.com/search?q=Brian+Hackett+mozilla&client=ubuntu-sn&hs=2Ys&sca_esv=0408ae9ee65735d4&channel=fs&ei=I5X1ZdDbEY64vr0Pze-neA&ved=0ahUKEwiQ-abX6PiEAxUOnK8BHc33CQ8Q4dUDCBA&uact=5&oq=Brian+Hackett+mozilla&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUJyaWFuIEhhY2tldHQgbW96aWxsYTIFECEYoAFInCdQsxBYzCZwA3gBkAEBmAHpAaABhQ6qAQUxLjUuNLgBA8gBAPgBAZgCDKACgw3CAgoQABhHGNYEGLADwgIHEAAYgAQYE8ICCRAAGIAEGA0YE8ICBhAAGB4YE8ICCBAAGAgYHhgTwgIEECEYFZgDAIgGAZAGCpIHBTQuMy41oAeIGQ&sclient=gws-wiz-serp#ip=1
+
+attach stub just in time compile - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=attach+stub+just+in+time+compile
+
+A crash course in just-in-time (JIT) compilers - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
+
+Anum Siddiqui – Medium
+https://medium.com/@asiddiqui0692
+
+bytecode-alliance-roadmap-part1-wasi-preview-2.png (PNG Image, 2863 × 1480 pixels) — Scaled (50%)
+https://bytecodealliance.org/articles/img/2023-07-24-roadmap/bytecode-alliance-roadmap-part1-wasi-preview-2.png
+
+abrown (Andrew Brown)
+https://github.com/abrown/
+
+Advanced Linux Sound Architecture - Wikipedia
+https://ja.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture
+
+Code search results
+https://github.com/search?q=repo%3Apostgres%2Fpostgres%20webassembly&type=code
+
+Wasm support for user-defined functions | ScyllaDB Docs
+https://opensource.docs.scylladb.com/stable/cql/wasm.html
+
+Commit search results
+https://github.com/search?q=repo%3Ascylladb%2Fscylladb+webassembly&type=commits&p=1
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 KDLP
 https://kdlp.underground.software/course/index.md
 
