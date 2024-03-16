@@ -3,6 +3,33 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+linuxwave: Using rsync without ssh
+https://www.linuxwave.info/2020/11/using-rsync-without-ssh.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+LearningNotes/Golang/Golang进阶/14_Go操作消息队列/README.md at master · moxi624/LearningNotes
+https://github.com/moxi624/LearningNotes/blob/master/Golang/Golang%E8%BF%9B%E9%98%B6/14_Go%E6%93%8D%E4%BD%9C%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/README.md
+
+nsqlookupd - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nsqlookupd
+
+nsqadmin
+http://localhost:4171/topics/topic_demo
+
+Eagerly cast pointers in aarch64 relocation code to `usize` to avoid `unsafe` blocks in cranelift-jit · Issue #7588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/7588
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime+build+from+source+NOT+language%3AMarkdown&type=code
+
+The harsh reality of good software - YouTube
+https://www.youtube.com/watch?v=NiljDyzAOcI
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 linux socket id - Google 検索
 https://www.google.com/search?q=linux+socket+id&client=ubuntu-sn&hs=lrU&sca_esv=ef10efbddd2a64f3&channel=fs&ei=nWf1ZayxF5Syvr0Pzaa4kAk&ved=0ahUKEwjs86SivfiEAxUUma8BHU0TDpIQ4dUDCBA&uact=5&oq=linux+socket+id&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2xpbnV4IHNvY2tldCBpZDIEEAAYHjIEEAAYHjIGEAAYCBgeSOwsUIwMWP0mcAF4AZABAZgBvQKgAfwZqgEHMC45LjUuMrgBA8gBAPgBAZgCEKACphjCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICEBAAGIAEGIoFGEMYsQMYgwHCAgsQABiABBixAxiDAcICBRAAGIAEwgIIEAAYgAQYsQPCAg0QABiABBiKBRhDGLEDwgIHEAAYgAQYBMICBxAAGIAEGBPCAgYQABgeGBPCAggQABgEGB4YE5gDAIgGAZAGCpIHBzEuOC42LjGgB8or&sclient=gws-wiz-serp#ip=1
 
