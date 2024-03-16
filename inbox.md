@@ -1,5 +1,9 @@
 # 2024-3-16 0 | 0
 
+https://gitlab.gnome.org/GNOME/gnome-terminal
+
+https://gitlab.gnome.org/GNOME/nautilus/-/issues
+
 sudo rsync --daemon
 
 rsync 192.168.43.246::tmp/projects/mylinux.iso

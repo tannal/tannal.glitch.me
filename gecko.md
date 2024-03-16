@@ -1,5 +1,12 @@
 # inbox
 
+./mach run --debug
+
+PR_Sleep(PR_SecondsToInterval(10));
+
+nsHtml5Parser
+
+
 hg pull && hg update
 
 mk_add_options AUTOCLOBBER=1

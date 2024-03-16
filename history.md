@@ -1,5 +1,56 @@
 # 2024-3-16
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issue search results
+https://github.com/search?q=org%3Aservo+Speedometer&type=issues
+
+Servo TSC Meeting March 2024 · Issue #84 · servo/project
+https://github.com/servo/project/issues/84
+
+Run Speedometer benchmark · Issue #16719 · servo/servo
+https://github.com/servo/servo/issues/16719
+
+#Performance > stream events - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance/topic/stream.20events
+
+Speedometer 3
+https://www.browserbench.org/Speedometer3.0/#running
+
+Repositories
+https://github.com/orgs/mozilla/repositories?page=2
+
+mozilla/protocol: A design system for Mozilla websites.
+https://github.com/mozilla/protocol
+
+feat: Implement QUIC by devsnek · Pull Request #21942 · denoland/deno
+https://github.com/denoland/deno/pull/21942/files#diff-8cbdcddede1d2e68893495c5af4172bcb9537b8c871747a9efcb4297475c902d
+
+browser - Why is Ubuntu shipped with firefox? - Ask Ubuntu
+https://askubuntu.com/questions/269472/why-is-ubuntu-shipped-with-firefox
+
+mozilla and netscape - Google 検索
+https://www.google.com/search?q=mozilla+and+netscape&client=ubuntu-sn&hs=n7o&sca_esv=ef10efbddd2a64f3&channel=fs&ei=f2H1ZavBHPP71e8Pz-2OMA&oq=mozilla+and+nets&gs_lp=Egxnd3Mtd2l6LXNlcnAiEG1vemlsbGEgYW5kIG5ldHMqAggAMgcQABiABBgTSOAvUMEGWLgocAB4ApABAJgB3wOgAeUbqgEJMC41LjEuMi40uAEDyAEA-AEBmAINoALzG8ICBBAAGEfCAg0QABiABBiKBRhDGLEDwgIKEAAYgAQYigUYQ8ICChAAGIAEGAQYsQPCAgcQABiABBgEwgIIEAAYgAQYsQPCAgUQABiABMICBBAAGB7CAgYQABgeGBPCAggQABgeGA8YE8ICCBAAGAgYHhgTmAMA4gMFEgExIECIBgGQBgSSBwkxLjUuMS4yLjSgB_Uc&sclient=gws-wiz-serp#ip=1
+
+does ubuntu support x11 and wayland both? - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=does+ubuntu+support+x11+and+wayland+both%3F
+
+Index of /ubuntu/ubuntu
+http://archive.ubuntu.com/ubuntu/ubuntu/
+
+ubuntu - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ubuntu
+
+Git : Code : Ubuntu
+https://code.launchpad.net/ubuntu
+
+GNOME · GitLab
+https://gitlab.gnome.org/GNOME
+
+meson.build · master · GNOME / gnome-terminal · GitLab
+https://gitlab.gnome.org/GNOME/gnome-terminal/-/blob/master/meson.build?ref_type=heads
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
