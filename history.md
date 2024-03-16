@@ -1,5 +1,170 @@
 # 2024-3-16
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Custom encoding: Go implementation in net/rpc vs grpc and why we switched - Dgraph Blog
+https://dgraph.io/blog/post/rpc-vs-grpc/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+• Discord | #android | FlutterDev
+https://discord.com/channels/420324994703163402/465280806924058654
+
+swc/crates/swc_ecma_preset_env/src/transform_data.rs at 0c180032c10bc8ea5f7737fc36ae907173e67f69 · swc-project/swc
+https://github.com/swc-project/swc/blob/0c180032c10bc8ea5f7737fc36ae907173e67f69/crates/swc_ecma_preset_env/src/transform_data.rs#L24-L192
+
+message queue - Google 搜索
+https://www.google.com/search?q=message+queue&rlz=1C1GCEA_enJP1090JP1090&oq=messa&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTISCAQQLhhDGMcBGNEDGIAEGIoFMgYIBRBFGD0yBggGEEUYPTIGCAcQRRg80gEIMTMwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Ask HN: How to choose a message queue? | Hacker News
+https://news.ycombinator.com/item?id=8191694
+
+IPC - Message Queues | Goodness’s blog
+https://goodyduru.github.io//os/2023/11/13/ipc-message-queues.html
+
+Zen 3.1 - Product. Data. Code
+https://zhen.org/blog/surgemq-mqtt-message-queue-750k-mps/
+
+Resume - Xe Iaso
+https://xeiaso.net/resume/
+
+(4) Resources
+https://tutflix.org/resources/
+
+(4) Ryan Higgins - IELTS Writing Course - TutFlix - Free Education Community
+https://tutflix.org/resources/ryan-higgins-ielts-writing-course.10647/
+
+Message Queues, or how you can make processes talk to each other · Applied Go
+https://appliedgo.net/messaging/
+
+nanomsg/nanomsg: nanomsg library
+https://github.com/nanomsg/nanomsg
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Servo Continues Pushing Forward | Hacker News
+https://news.ycombinator.com/item?id=9473481
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+bholley - Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox
+https://bholley.net/blog/2017/stylo.html
+
+Codetribute
+https://codetribute.mozilla.org/languages/go
+
+#Outreachy > Text-transform project - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Text-transform.20project
+
+nsCaseTransformTextRunFactory::TransformString (nsTextRunTransformations.cpp - mozsearch)
+https://searchfox.org/mozilla-central/rev/5f0a7ca8968ac5cef8846e1d970ef178b8b76dcc/layout/generic/nsTextRunTransformations.cpp#225
+
+text-transform - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+
+CSS Text Module Level 3
+https://drafts.csswg.org/css-text/#text-transform
+
+unicode.org/Public/UNIDATA/SpecialCasing.txt
+https://www.unicode.org/Public/UNIDATA/SpecialCasing.txt
+
+字母大小写 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99#cite_note-2
+
+UTN #26: On the Encoding of Latin, Greek, Cyrillic, and Han
+https://www.unicode.org/notes/tn26/
+
+(2 封私信 / 2 条消息) Unicode 和 UTF-8 有什么区别？ - 知乎
+https://www.zhihu.com/question/23374078
+
+(2 封私信 / 4 条消息) Belleve - 知乎
+https://www.zhihu.com/people/be5invis/posts
+
+unicode 大小写 - Google 搜索
+https://www.google.com/search?q=unicode+%E5%A4%A7%E5%B0%8F%E5%86%99&rlz=1C1GCEA_enJP1090JP1090&oq=unicode+%E5%A4%A7%E5%B0%8F%E5%86%99&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgn0gEIMjY0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+encoding - crates.io: Rust Package Registry
+https://crates.io/crates/encoding
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=zhangyiwei
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=igalia%20servo&sort=byPopularity&type=story
+
+The Servo project is joining Linux Foundation Europe | Igalia
+https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+char - Rust
+https://doc.rust-lang.org/std/primitive.char.html#method.to_uppercase
+
+Oriol Brufau | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/obrufau
+
+Loirooriol (Oriol Brufau)
+https://github.com/Loirooriol
+
+Unicode - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Unicode
+
+tannal (tannal)
+https://github.com/tannal/
+
+dyncall.org - calling C functions dynamically
+https://dyncall.org/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+javascript - WebGPU Firefox shows no triangle - Stack Overflow
+https://stackoverflow.com/questions/76518752/webgpu-firefox-shows-no-triangle
+
+Webgpu on firefox - Stack Overflow
+https://stackoverflow.com/questions/76689982/webgpu-on-firefox
+
+"snap" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=snap
+
+WebGPU status in Chrome, Firefox, Safari (MacOS) : r/wgpu
+https://www.reddit.com/r/wgpu/comments/zjxstc/webgpu_status_in_chrome_firefox_safari_macos/
+
+ubuntu20.4系统安装CH340驱动并使用串口调试助手-CSDN博客
+https://blog.csdn.net/qq_27558597/article/details/117900705
+
+n3088.pdf
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3088.pdf
+
+movw 指令 - Google 搜索
+https://www.google.com/search?q=movw+%E6%8C%87%E4%BB%A4&sca_esv=d8623174695cfe74&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_Wp3P2KvKI8rI5nF37mwLP-a6-eA%3A1710555492646&ei=ZAH1ZdqRJ97Z1e8P0IaIyAE&ved=0ahUKEwja04fk2_eEAxXebPUHHVADAhkQ4dUDCBA&uact=5&oq=movw+%E6%8C%87%E4%BB%A4&gs_lp=Egxnd3Mtd2l6LXNlcnAiC21vdncg5oyH5LukMgUQIRigATIFECEYoAFI9xFQAFjsEHAAeAGQAQCYAZEDoAHdD6oBCTAuNS4zLjAuMbgBA8gBAPgBAZgCCaAC8A_CAgcQABiABBgKwgIHEC4YgAQYCsICBxAAGIAEGAzCAggQABgIGB4YCpgDAJIHCTAuNS4zLjAuMaAH1BQ&sclient=gws-wiz-serp
+
+winget install emqx - Google 搜索
+https://www.google.com/search?q=winget+install+emqx&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+emqx&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPNIBCDM2MzhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+android studio - Google 搜索
+https://www.google.com/search?q=android+studio&rlz=1C1GCEA_enJP1090JP1090&oq=android+studio&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDyoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+zed/crates/gpui at main · zed-industries/zed
+https://github.com/zed-industries/zed/tree/main/crates/gpui
+
+阿里云域名解析到腾讯云服务器 - Google 搜索
+https://www.google.com/search?q=%E9%98%BF%E9%87%8C%E4%BA%91%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E5%88%B0%E8%85%BE%E8%AE%AF%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%98%BF%E9%87%8C%E4%BA%91%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E5%88%B0&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABNIBCDk1MDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+微信小程序 ip 域名 - Google 搜索
+https://www.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F+ip+%E5%9F%9F%E5%90%8D&sca_esv=a61c310cce8522af&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-3WTYeXgU__Kp6mtRyLcSgub67vg%3A1710558744997&ei=GA71ZZvCPN3o1e8PlsiaoAE&ved=0ahUKEwibrvPy5_eEAxVddPUHHRakBhQQ4dUDCBA&uact=5&oq=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F+ip+%E5%9F%9F%E5%90%8D&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeW-ruS_oeWwj-eoi-W6jyBpcCDln5_lkI0yBRAhGKABMgUQIRigAUiIXVAAWJpccAV4AZABAZgBtwKgAaUeqgEIMC4xMy41LjG4AQPIAQD4AQGYAhSgArAZwgIHEAAYgAQYDMICBRAAGIAEwgIGEAAYBBgewgIGEAAYCBgewgIEEAAYHsICBhAAGB4YDcICBxAAGIAEGA2YAwCSBwg0LjExLjQuMaAH1y4&sclient=gws-wiz-serp#ip=1
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
