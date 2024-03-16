@@ -1,3 +1,134 @@
+# 2024-3-17
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Advanced Computer Graphics | RGL
+https://rgl.epfl.ch/courses/ACG17
+
+Advanced Systems Lab - Spring 2023
+https://acl.inf.ethz.ch/teaching/fastcode/2023/
+
+How to Write Fast Numerical Code
+https://acl.inf.ethz.ch/teaching/fastcode/2023/slides/10-linear-algebra-MMM.pdf
+
+Galactic algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Galactic_algorithm
+
+15-850: CMU Advanced Algorithms, Spring 2024
+https://www.cs.cmu.edu/~15850/
+
+Alessandro Rinaldo
+https://arinaldo.github.io/
+
+Indexing and Iteration (3)
+https://arinaldo.github.io/Teaching/36350/F22/lectures/iteration_slides.html#(3)
+
+2.pdf
+https://disco.ethz.ch/courses/fs12/seminar/paper/Tobias/2.pdf
+
+Optimum branchings
+https://nvlpubs.nist.gov/nistpubs/jres/71b/jresv71bn4p233_a1b.pdf
+
+wpe.dvi
+https://www.cs.jhu.edu/~jason/papers/eisner.mst-tutorial.pdf
+
+15-719 Advanced Cloud Computing: Syllabus
+https://www.cs.cmu.edu/~15719/old/spring2023/schedule.html
+
+719_S19-L06_Storage_1_online
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L06_Storage_1.pdf
+
+Distributed Systems | readings
+https://www.andrew.cmu.edu/course/15-440/readings/
+
+howard1988-tocs.pdf
+https://www.andrew.cmu.edu/course/15-440/assets/READINGS/howard1988-tocs.pdf
+
+Index of /course/15-440/assets/PROBLEMSETS
+https://www.andrew.cmu.edu/course/15-440/assets/PROBLEMSETS/
+
+satya-podc-challenges-1996.pdf
+https://www.andrew.cmu.edu/course/15-440/assets/READINGS/satya-podc-challenges-1996.pdf
+
+CMU 15-451/651: Algorithm Design and Analysis, Fall 2023: Schedule
+https://www.cs.cmu.edu/~15451-f23/schedule.html
+
+Technologies Enabled by LLVM | Introduction to Common Compiler Tools #2 - YouTube
+https://www.youtube.com/watch?v=7gJ70QGZACg&list=PLIShwgr315-APrdzkJ2YGSLp-aWjY0qmE&index=3
+
+Dave Andersen
+https://www.cs.cmu.edu/~dga/
+
+Jan Newmarch
+https://jan.newmarch.name/courseware.html
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+Testing - Wasmtime
+https://docs.wasmtime.dev/contributing-testing.html
+
+Software Engineering for Systems Hackers [pdf] | Hacker News
+https://news.ycombinator.com/item?id=20690313
+
+Software Engineering for Systems Hackers
+https://www.cs.cmu.edu/~dga/systems-se.pdf
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime%20llvm&type=code
+
+M. Satyanarayanan - Google 搜索
+https://www.google.com/search?q=M.+Satyanarayanan&rlz=1C1GCEA_enJP1090JP1090&oq=M.+Satyanarayanan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+pnfs 使用 - Google 搜索
+https://www.google.com/search?q=pnfs+%E4%BD%BF%E7%94%A8&sca_esv=c9051185487faffc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09K6wY9ORS-6fLhjtQpfHBclI6Zxg%3A1710597058468&ei=wqP1Zez4G-uN2roPj5-4yA0&ved=0ahUKEwjs4ZfQ9viEAxXrhlYBHY8PDtkQ4dUDCBA&uact=5&oq=pnfs+%E4%BD%BF%E7%94%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3BuZnMg5L2_55SoMgoQABhHGNYEGLADSLwKUMUBWPAIcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACA5gDAIgGAZAGAZIHATGgBwA&sclient=gws-wiz-serp#ip=1
+
+What are Data Structures? | Brilliant
+https://brilliant.org/courses/data-structures/data-structures-intro/what-are-data-structs/2/?from_llp=computer-science
+
+719-S19_L21-diagnosis.key
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L21_Diagnosis.pdf
+
+FFTW - Google 搜索
+https://www.google.com/search?q=FFTW&rlz=1C1GCEA_enJP1090JP1090&oq=FFTW&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Matteo Frigo
+https://www.mfrigo.com/
+
+18065/psets/pset1.ipynb at main · mitmath/18065
+https://github.com/mitmath/18065/blob/main/psets/pset1.ipynb
+
+Lecture_04-Dense_Linear_Algebra.pdf
+http://courses.csail.mit.edu/18.337/2004/book/Lecture_04-Dense_Linear_Algebra.pdf
+
+Eigen
+https://eigen.tuxfamily.org/index.php?title=Main_Page
+
+QED six months - Google 搜索
+https://www.google.com/search?q=QED+six+months&rlz=1C1GCEA_enJP1090JP1090&oq=QED+six+months&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwMzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+David Wheeler - Google 搜索
+https://www.google.com/search?q=David+Wheeler&rlz=1C1GCEA_enJP1090JP1090&oq=David+Wheeler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTgyNDE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+hajime - Google 搜索
+https://www.google.com/search?q=hajime&rlz=1C1GCEA_enJP1090JP1090&oq=hajime&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMTI1N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Coding in PowerPoint - YouTube
+https://www.youtube.com/watch?v=aBwuPmY4lec
+
+MixMorris - YouTube
+https://www.youtube.com/@MixMorris/videos
+
+kubevirt - Google 搜索
+https://www.google.com/search?q=kubevirt&rlz=1C1GCEA_enJP1090JP1090&oq=kubevirt&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+openshft - Google 搜索
+https://www.google.com/search?q=openshft&rlz=1C1GCEA_enJP1090JP1090&oq=openshft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDI5ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
 # 2024-3-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
