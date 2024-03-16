@@ -1,5 +1,21 @@
 # 2024-3-16 0 | 0
 
+sudo rsync --daemon
+
+rsync 192.168.43.246::tmp/projects/mylinux.iso
+
+```conf
+
+
+
+```
+
+sudo vim /etc/rsyncd.conf
+
+rsync -r data tannal@192.168.43.246:/home/tannal/tannalwork/projects/postgres/_install/
+
+tar -czvf archive_name.tar.gz directory1 directory2 directory3
+
 about:config
 
 # 2024-3-15 0 | 0
