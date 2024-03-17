@@ -5,6 +5,8 @@ wmic path Win32_USBControllerDevice get Dependent
 
 
 # Software install
+
+winget install --id=MiKTeX.MiKTeX  -e
 winget install -e --id emqx.mqttx
 
 winget install --id=Racket.Racket  -e

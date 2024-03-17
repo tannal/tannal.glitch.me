@@ -1,6 +1,8 @@
 
 # inbox
 
+servo
+
 impl CompositorReceiver {
     pub fn try_recv_compositor_msg(&mut self) -> Option<CompositorMsg> {
         self.receiver.try_recv().ok()

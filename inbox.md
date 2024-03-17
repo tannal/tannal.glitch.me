@@ -1,3 +1,7 @@
+# 2024-3-18 0 | 0 W
+
+sudo apt install bpfcc-tools
+
 # 2024-3-17 0 | 0
 
 pip install setuptools

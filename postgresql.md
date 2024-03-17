@@ -1,5 +1,17 @@
 # inbox
 
+accessmtd (*accessMtd)(node) node.Seqscan.c SeqNext
+
+ScanState
+ProcState
+
+ExecScan(accessmtd, )
+ExecScanFech(node, accessmtd, recheckMtd)
+
+b XLog
+
+b PageAddItemExtended
+
 r -D data/
 ./initdb -d data
 
