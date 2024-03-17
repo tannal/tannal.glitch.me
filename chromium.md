@@ -1,5 +1,27 @@
 # inbox
 
+target_os = "android"
+target_cpu = "arm"
+is_debug = true
+
+enable_incremental_javac = true
+v8_use_external_startup_data = true
+fieldtrial_testing_like_official_build = true
+icu_use_data_file = false
+
+is_component_build = true
+symbol_level = 2
+
+https://source.chromium.org/chromium/chromium/src/+/main:docs/website/site/chromium-os/obsolete/quiche-notes/index.md;l=80?q=ftrace&sq=&ss=chromium%2Fchromium%2Fsrc:docs%2F
+
+printf "%s\n", html.Latin1().data()
+
+rbreak html_tokenizer.cc:.
+
+rbreak pthread_
+
+source tools/gdb/gdbinit
+
 (gdb) p this->tree_->parser_content_policy_
 $10 = blink::kAllowScriptingContent
 

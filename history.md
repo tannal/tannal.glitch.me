@@ -1,5 +1,41 @@
 # 2024-3-17
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GDB info locals does not work
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/uH9qBmpiqXs/m/Mw_IkDcJGgAJ
+
+0003_Part_3--[TutFlix.ORG]--.mp4
+http://192.168.43.246:8080/FrontendMasters%20-%20CSS%20Projects/0003_Part_3--%5BTutFlix.ORG%5D--.mp4
+
+chromium debug - Google 検索
+https://www.google.com/search?q=chromium+debug+&client=ubuntu-sn&hs=tt4&sca_esv=823ba9d4125687c6&channel=fs&ei=YE72ZdTQA4XR2roPpr-vgA0&ved=0ahUKEwjUgKWrmfqEAxWFqFYBHabfC9AQ4dUDCBA&uact=5&oq=chromium+debug+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2Nocm9taXVtIGRlYnVnIDIHEAAYgAQYEzIHEAAYgAQYEzIHEAAYgAQYEzIGEAAYHhgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyCBAAGB4YExgKMgYQABgeGBNItBBQ3Q5Y3Q5wAXgBkAEAmAHyAaABswOqAQUwLjEuMbgBA8gBAPgBAZgCA6AC1gHCAgQQABhHwgIKEAAYRxjWBBiwA5gDAIgGAZAGCpIHAzIuMaAH5go&sclient=gws-wiz-serp
+
+index.md - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:docs/website/site/chromium-os/obsolete/quiche-notes/index.md;l=80?q=ftrace&sq=&ss=chromium%2Fchromium%2Fsrc:docs%2F
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=groups.google.com&sort=byPopularity&type=story
+
+I want to write software that helps kill people.
+https://gist.github.com/zmaril/5326884#file-softwarehelpskill-md
+
+nodejs - Google Groups
+https://groups.google.com/g/nodejs
+
+gdb - How do I break on all functions that matches a pattern? - Stack Overflow
+https://stackoverflow.com/questions/24614062/how-do-i-break-on-all-functions-that-matches-a-pattern
+
+gdb - putting breakpoint in a file using "rbreak filename.c:." doesn't work - Stack Overflow
+https://stackoverflow.com/questions/9096624/putting-breakpoint-in-a-file-using-rbreak-filename-c-doesnt-work
+
+Using gdb stop the program when it is using any function from file X - Stack Overflow
+https://stackoverflow.com/questions/475283/using-gdb-stop-the-program-when-it-is-using-any-function-from-file-x
+
+ftrace
+https://sourceware.org/frysk/manpages/ftrace.1.html
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

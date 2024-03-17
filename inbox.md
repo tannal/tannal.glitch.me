@@ -1,5 +1,10 @@
 # 2024-3-17 0 | 0
 
+what we should do
+
+what we can do
+what we know
+
 https://groups.google.com/g/v8-users/search?q=Vyacheslav%20Egorov
 
 sudo stackcount-bpfcc -i 2 -p 10257 --debug "*mprotect*"
