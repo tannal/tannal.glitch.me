@@ -3,6 +3,126 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mozilla%20webassembly&sort=byPopularity&type=story
+
+Mozilla lays off 250 employees while it refocuses on commercial products | Hacker News
+https://news.ycombinator.com/item?id=24120336&p=5
+
+Tracking Prevention Policy | WebKit
+https://webkit.org/tracking-prevention-policy/
+
+naci - Google 搜索
+https://www.google.com/search?q=naci&sca_esv=e0298e710c2fa989&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09xBGdqUYycMsX375Rbi11ZsMaQQA%3A1710628698462&ei=Wh_2ZYDyG-TdseMP5aqfoA8&ved=0ahUKEwiAh6i_7PmEAxXkbmwGHWXVB_QQ4dUDCBE&uact=5&oq=naci&gs_lp=Egxnd3Mtd2l6LXNlcnAiBG5hY2kyDhAAGIAEGIoFGEMYChgqMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgoQABiABBiKBRhDMgUQABiABDIFEAAYgARIphFQ9QpY9QpwAXgAkAEAmAGnAaABnAKqAQMwLjK4AQPIAQD4AQGYAgKgAq8BwgIKEAAYRxjWBBiwA5gDAIgGAZAGApIHAzEuMaAHkgY&sclient=gws-wiz-serp
+
+ChatGPT
+https://chat.openai.com/c/4ff4e831-b369-4cd1-8ba3-ad21259ef529
+
+Alon Zakai (@kripken@fosstodon.org) - Fosstodon
+https://fosstodon.org/@kripken
+
+Chrome Platform Status
+https://chromestatus.com/metrics/feature/timeline/popularity/2237
+
+X
+https://twitter.com/kripken/status/1616148454769831936
+
+WebAssembly at Google - Google 幻灯片
+https://docs.google.com/presentation/d/1bnYntCeekIev8hZnizixvLPUV7ljfJ2hNO6vBOcnXlE/edit#slide=id.g269eb7dd4e7_0_23
+
+• Discord | #off-topic | FlutterDev
+https://discord.com/channels/420324994703163402/421444918276390912/1216179054357778543
+
+Building c++ apps for android without android studio or java : r/androiddev
+https://www.reddit.com/r/androiddev/comments/15l01m8/building_c_apps_for_android_without_android/
+
+google/XNNPACK: High-efficiency floating-point neural network inference operators for mobile, server, and Web
+https://github.com/google/XNNPACK
+
+使用 Skia 绘制 2D 图形 - 知乎
+https://zhuanlan.zhihu.com/p/602937278
+
+CanvasKit - Skia + WebAssembly | Skia
+https://skia.org/docs/user/modules/canvaskit/
+
+Rust (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Rust_(programming_language)#cite_note-20
+
+Publikationen der UdS: Understanding and evolving the Rust programming language
+https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/29647
+
+Understanding and Evolving the Rust Programming Language
+https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/29647/1/thesis-print.pdf
+
+Computer Scientist proves safety claims of th | EurekAlert!
+https://www.eurekalert.org/news-releases/610682
+
+lib.rs - Android Code Search
+https://cs.android.com/android/platform/superproject/main/+/main:trusty/user/base/lib/hwwsk/rust/src/lib.rs
+
+CanvasKit - Quickstart | Skia
+https://skia.org/docs/user/modules/quickstart/
+
+localhost:8080/test.html
+http://localhost:8080/test.html
+
+WebAssembly/wasi-sockets: WASI API proposal for managing sockets
+https://github.com/WebAssembly/wasi-sockets?tab=readme-ov-file#use-case-1
+
+implement basic TCP/UDP client support by dicej · Pull Request #477 · WebAssembly/wasi-libc
+https://github.com/WebAssembly/wasi-libc/pull/477
+
+WASI/preview2/README.md at main · WebAssembly/WASI
+https://github.com/WebAssembly/WASI/blob/main/preview2/README.md
+
+Add a new `wasm32-wasi-preview2` target by rylev · Pull Request #119616 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/119616
+
+#rust-toolchain > Proposal for a new `wasm32-wasi-preivew2` target - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/235408-rust-toolchain/topic/Proposal.20for.20a.20new.20.60wasm32-wasi-preivew2.60.20target/near/404454248
+
+Basic usage - The rustup book
+https://rust-lang.github.io/rustup/basics.html
+
+Add a new `wasm32-wasi-preview2` target by rylev · Pull Request #119616 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/119616
+
+Auto merge of #119616 - rylev:wasm32-wasi-preview2, r=petrochenkov,m-… · rust-lang/rust@ef32456
+https://github.com/rust-lang/rust/commit/ef324565d071c6d7e2477a195648549e33d6a465#diff-aa810a3be0834da891b171a8b04b09d0d3bbb76ac27c757cd232235099e062d2
+
+Channels - The rustup book
+https://rust-lang.github.io/rustup/concepts/channels.html
+
+update rust - Google 搜索
+https://www.google.com/search?q=update+rust&sca_esv=e0298e710c2fa989&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08f13eEQU9q44HJpntodrcgFq_m3Q%3A1710632190497&ei=_iz2Zdf1HYWG4-EP37egoAQ&ved=0ahUKEwjX7LjA-fmEAxUFwzgGHd8bCEQQ4dUDCBE&uact=5&oq=update+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3VwZGF0ZSBydXN0MgoQIxiABBiKBRgnMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSLkFUJcBWNsEcAF4AZABAJgBgwGgAYMEqgEDMC40uAEDyAEA-AEBmAIFoAKQBMICBxAjGLADGCfCAgoQABhHGNYEGLADmAMAiAYBkAYKkgcDMS40oAe_EQ&sclient=gws-wiz-serp
+
+wasm32-wasip2 - The rustc book
+https://doc.rust-lang.org/nightly/rustc/platform-support/wasm32-wasip2.html
+
+alexcrichton (alexcrichton) / Repositories
+https://github.com/alexcrichton?page=2&tab=repositories
+
+Targets - The rustc book
+https://doc.rust-lang.org/rustc/targets/index.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+What part of Rust compilation is the bottleneck? | Kobzol’s blog
+https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Advanced Computer Graphics | RGL
 https://rgl.epfl.ch/courses/ACG17
 

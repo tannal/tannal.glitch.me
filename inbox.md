@@ -1,5 +1,12 @@
-# 2024-3-16 0 | 0
+# 2024-3-17 0 | 0
 
+rustup update
+
+box2d Deltablue raytrace richards
+
+"two guys in a dorm"
+
+# 2024-3-16 0 | 0
 
 H.264 NALU
 
