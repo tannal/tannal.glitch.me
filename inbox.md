@@ -2,6 +2,8 @@
 
 sudo apt install bpfcc-tools
 
+sudo stackcount-bpfcc -i 2 -p 4407 --debug "sock*"
+
 # 2024-3-17 0 | 0
 
 pip install setuptools

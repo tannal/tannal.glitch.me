@@ -1,5 +1,8 @@
 # inbox
 
+sudo stackcount-bpfcc -i 2 -p 4407 --debug "ext4*"
+
+
 ext4_llseek
   invoke_syscall
   el0_svc_common.constprop.0
