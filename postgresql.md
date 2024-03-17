@@ -1,5 +1,55 @@
 # inbox
 
+ext4_llseek
+  invoke_syscall
+  el0_svc_common.constprop.0
+  do_el0_svc
+  el0_svc
+  el0t_64_sync_handler
+  el0t_64_sync
+  __GI___lseek
+  smgrnblocks
+  table_block_relation_size
+  RelationGetNumberOfBlocksInFork
+  initscan
+  heap_beginscan
+  SeqNext
+  ExecScan
+  standard_ExecutorRun
+  PortalRunSelect
+  PortalRun
+  PostgresMain
+  ServerLoop.isra.0
+  PostmasterMain
+
+ext4_llseek
+  invoke_syscall
+  el0_svc_common.constprop.0
+  do_el0_svc
+  el0_svc
+  el0t_64_sync_handler
+  el0t_64_sync
+  __GI___lseek
+  smgrnblocks
+  table_block_relation_size
+  RelationGetNumberOfBlocksInFork
+  table_block_relation_estimate_size
+  get_relation_info
+  build_simple_rel
+  add_base_rels_to_query
+  query_planner
+  grouping_planner
+  subquery_planner
+  standard_planner
+  pg_plan_query
+  pg_plan_queries
+  BuildCachedPlan
+  GetCachedPlan
+  PostgresMain
+  ServerLoop.isra.0
+  PostmasterMain
+  main
+
 accessmtd (*accessMtd)(node) node.Seqscan.c SeqNext
 
 ScanState
