@@ -1,5 +1,86 @@
 # 2024-3-17
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+chromium v8 not debug symbol - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=chromium+v8+not+debug+symbol#ip=1
+
+Understanding Chrome V8 — Chapter 15: Debugging in V8 More Easily | HackerNoon
+https://hackernoon.com/understanding-chrome-v8-chapter-15-debugging-in-v8-more-easily
+
+v8-JavaScript-Documents/chap8-0929 at main · v8blink/v8-JavaScript-Documents
+https://github.com/v8blink/v8-JavaScript-Documents/tree/main/chap8-0929
+
+https://groups.google.com/g/v8
+https://www.google.com/sorry/index?continue=https://groups.google.com/g/v8&q=EhAkAIkBAAAAAPA8lP_-DDCGGKr-2K8GIjA5whRvaaV_OsOrJSahfKFlkr-Q1CU7xaMnBa_i1aMwNFZlFGtsSlMFQtIqK64rjjkyAXJaAUM
+
+Is it just me who thinks cross platform dev is broken? | Hacker News
+https://news.ycombinator.com/item?id=30995372
+
+Celebrating 10 years of V8 · V8
+https://v8.dev/blog/10-years
+
+Chromium Blog: Irregexp, Google Chrome's New Regexp Implementation
+https://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html
+
+security implications of jit compilation — wingolog
+https://wingolog.org/archives/2011/06/21/security-implications-of-jit-compilation
+
+Sehr.pdf
+https://www.usenix.org/legacy/events/sec10/tech/full_papers/Sehr.pdf
+
+BHDC-2010-Paper.pdf
+http://www.semantiscope.com/research/BHDC2010/BHDC-2010-Paper.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=John%20Ousterhout&sort=byPopularity&type=story
+
+Internets of interest #2: John Ousterhout discusses a Philosophy of Software Design | Dave Cheney
+https://dave.cheney.net/2018/09/16/internets-of-interest-2-john-ousterhout-discusses-a-philosophy-of-software-design
+
+https://www.youtube.com/watch?v=bmSAYlu0NcY
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DbmSAYlu0NcY&q=EhAkAIkBAAAAAPA8lP_-DDCGGOqR2a8GIjCiDzsJyY-vUT3lhgRLygiGKi2sQNvGeao_3owuhpCYP8KdOyNuQrm4exxon8xaL90yAXJaAUM
+
+Internets of interest #2: John Ousterhout discusses a Philosophy of Software Design | Dave Cheney
+https://dave.cheney.net/2018/09/16/internets-of-interest-2-john-ousterhout-discusses-a-philosophy-of-software-design
+
+deep modules - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=deep+modules+
+
+Modular Design
+https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/lecture.php?topic=modularDesign
+
+Notes of A Philosophy of Software Design--Deep Modules – A Libertine of Computer Science –
+https://csruiliu.github.io/blog/20201218-a-philosophy-of-software-design-II/
+
+Native Client
+https://www.chromium.org/nativeclient/
+
+John Ousterhout
+https://web.stanford.edu/~ouster/cgi-bin/home.php
+
+The design and implementation of a log-structured file system - lfs.pdf
+https://web.stanford.edu/~ouster/cgi-bin/papers/lfs.pdf
+
+Always Measure One Level Deeper – Communications of the ACM
+https://cacm.acm.org/research/always-measure-one-level-deeper/
+
+nsdi21-li-yilong.pdf
+https://www.usenix.org/system/files/nsdi21-li-yilong.pdf
+
+Log in to X / X
+https://twitter.com/i/flow/login?redirect_after_login=%2Fyilongl_megaeth
+
+Seo Jin Park | Teaching
+https://seojinpark.net/teaching/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+MENDEL ROSENBLUM - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=MENDEL+ROSENBLUM+
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
