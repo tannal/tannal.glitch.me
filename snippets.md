@@ -1,4 +1,95 @@
+# GTK
 
+```c
+#include <gtk/gtk.h>
+
+static void add_task(GtkWidget *widget, gpointer data);
+static void remove_task(GtkWidget *widget, gpointer data);
+
+
+
+void activate(GtkApplication* app, gpointer user_data) {
+    GtkWidget *window, *listbox, *add_button, *entry, *scrolled_window;
+    GtkWidget *vbox, *hbox; // Vertical and horizontal boxes for layout
+
+    // Create a new window, and set its title
+    window = gtk_application_window_new(app);
+    gtk_window_set_title(GTK_WINDOW(window), "To-Do List");
+    gtk_window_set_default_size(GTK_WINDOW(window), 200, 200);
+
+    // Vertical box for holding the main UI elements
+    vbox = gtk_box_new(GTK_ORIENTATION_VERTICAL, 5);
+    gtk_container_add(GTK_CONTAINER(window), vbox);
+
+    // Scrolled window for the listbox
+    scrolled_window = gtk_scrolled_window_new(NULL, NULL);
+    gtk_widget_set_size_request(scrolled_window, 200, 150);
+    gtk_box_pack_start(GTK_BOX(vbox), scrolled_window, TRUE, TRUE, 0);
+
+    // Listbox for tasks
+    listbox = gtk_list_box_new();
+    gtk_container_add(GTK_CONTAINER(scrolled_window), listbox);
+
+    // Horizontal box for input and add button
+    hbox = gtk_box_new(GTK_ORIENTATION_HORIZONTAL, 5);
+    gtk_box_pack_start(GTK_BOX(vbox), hbox, FALSE, TRUE, 0);
+
+    // Task entry field
+    entry = gtk_entry_new();
+    gtk_box_pack_start(GTK_BOX(hbox), entry, TRUE, TRUE, 0);
+
+    // Add task button
+    add_button = gtk_button_new_with_label("Add Task");
+    gtk_box_pack_start(GTK_BOX(hbox), add_button, FALSE, TRUE, 0);
+
+    // Connect the "clicked" event of the button to the callback function
+    g_signal_connect(add_button, "clicked", G_CALLBACK(add_task), entry);
+
+    // Remove task button, placed outside of hbox for simplicity
+    GtkWidget *remove_button = gtk_button_new_with_label("Remove Selected Task");
+    gtk_box_pack_start(GTK_BOX(vbox), remove_button, FALSE, TRUE, 0);
+
+    // Connect the "clicked" event of the button to the callback function
+    g_signal_connect(remove_button, "clicked", G_CALLBACK(remove_task), listbox);
+
+    gtk_widget_show_all(window);
+}
+
+static void add_task(GtkWidget *widget, gpointer data) {
+    const char *task_text = gtk_entry_get_text(GTK_ENTRY(data));
+    if (task_text[0] == '\0') return; // Don't add empty tasks
+
+    GtkWidget *row = gtk_list_box_row_new();
+    GtkWidget *label = gtk_label_new(task_text);
+    gtk_container_add(GTK_CONTAINER(row), label);
+    gtk_container_add(GTK_CONTAINER(gtk_widget_get_parent(widget)), row);
+
+    gtk_widget_show_all(gtk_widget_get_parent(widget));
+
+    gtk_entry_set_text(GTK_ENTRY(data), ""); // Clear entry field
+}
+
+static void remove_task(GtkWidget *widget, gpointer data) {
+    GtkListBox *listbox = GTK_LIST_BOX(data);
+    GtkListBoxRow *row = gtk_list_box_get_selected_row(listbox);
+
+    if (row != NULL) {
+        gtk_widget_destroy(GTK_WIDGET(row));
+    }
+}
+
+int main(int argc, char *argv[]) {
+    GtkApplication *app;
+    int status;
+
+    app = gtk_application_new("com.example.todo", G_APPLICATION_FLAGS_NONE);
+    g_signal_connect(app, "activate", G_CALLBACK(activate), NULL);
+    status = g_application_run(G_APPLICATION(app), argc, argv);
+    g_object_unref(app);
+
+    return status;
+}
+```
 
 # Modern Web development
 

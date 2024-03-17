@@ -1,5 +1,7 @@
 # inbox
 
+rbreak flex_layout_algorithm.cc:.
+
 target_os = "android"
 target_cpu = "arm"
 is_debug = true

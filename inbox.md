@@ -1,5 +1,18 @@
 # 2024-3-17 0 | 0
 
+sudo apt install wl-clipboard
+
+echo "$XDG_SESSION_TYPE"
+env | grep -E -i 'x11|xorg|wayland'
+loginctl show-session $(loginctl | grep "$USER" | awk '{print $1}') -p Type
+
+for ((i=1; i<=10; i++))
+do
+  go run ./cmd/raft/
+done
+
+
+
 ubuntu 22.04 LTS jammy
 
 sudo vim /etc/apt/sources.list
