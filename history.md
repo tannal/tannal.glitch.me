@@ -1,3 +1,185 @@
+# 2024-3-18
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+CMU 15-445/645 Database Systems (Fall 2023) :: Database Storage I
+https://15445.courses.cs.cmu.edu/fall2023/slides/03-storage1.pdf
+
+Building c++ apps for android without android studio or java : r/androiddev
+https://www.reddit.com/r/androiddev/comments/15l01m8/building_c_apps_for_android_without_android/
+
+Native Activity(NDK) sample app crashed with RuntimeException and ClassNotFoundException while deploying the app · Issue #978 · android/ndk-samples
+https://github.com/android/ndk-samples/issues/978
+
+3b1b/manim: Animation engine for explanatory math videos
+https://github.com/3b1b/manim
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gleam&sort=byPopularity&type=story
+
+command line - Windows equivalent of whereis? - Super User
+https://superuser.com/questions/21067/windows-equivalent-of-whereis
+
+Error installing package with executable · Issue #9023 · pypa/pip
+https://github.com/pypa/pip/issues/9023
+
+(1) [ERR_INTERNAL_ASSERTION]: This is caused by either a bug in Node.js or incorrect usage of Node.js internals. · Issue #52125 · nodejs/node
+https://github.com/nodejs/node/issues/52125
+
+discord.js
+https://github.com/discordjs
+
+ChatGPT
+https://chat.openai.com/c/702bd545-9d4a-4f66-adbf-4857c772256a
+
+imelnyk/ArxivPapers: Code behind Arxiv Papers
+https://github.com/imelnyk/ArxivPapers
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+After doing a sudo apt-get install <app>, where does the application get stored to? - Ask Ubuntu
+https://askubuntu.com/questions/408784/after-doing-a-sudo-apt-get-install-app-where-does-the-application-get-stored
+
+Gtk – 4.0: Getting Started with GTK
+https://docs.gtk.org/gtk4/getting_started.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=apple%20github&sort=byPopularity&type=story
+
+ResearchKit/ResearchKit: ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.
+https://github.com/researchkit/researchkit
+
+Apple Open Source
+https://opensource.apple.com/projects/
+
+apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store
+https://github.com/apple/foundationdb
+
+bleve
+https://github.com/blevesearch
+
+gl: BGRA formats need a different internal format (!6772) · 合并请求 · GNOME / gtk · GitLab
+https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/6772/diffs
+
+gtk event loop - Google 搜索
+https://www.google.com/search?q=gtk+event+loop&rlz=1C1GCEA_enJP1090JP1090&oq=gtk+event+loop&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGAgYExge0gEIMjg3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Main Event Loop
+https://web.mit.edu/barnowl/share/gtk-doc/html/glib/glib-The-Main-Event-Loop.html
+
+GLib – 2.0: The Main Event Loop
+https://docs.gtk.org/glib/main-loop.html
+
+曼德拉集合 - Google 搜索
+https://www.google.com/search?q=%E6%9B%BC%E5%BE%B7%E6%8B%89%E9%9B%86%E5%90%88&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%9B%BC%E5%BE%B7%E6%8B%89%E9%9B%86%E5%90%88&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCwgCEAAYChgMGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgkIBhAAGAwYgAQyCQgHEAAYDBiABDIJCAgQABgMGIAEMgsICRAAGAoYDBiABNIBCTEzOTE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+请稍候…
+https://www.phind.com/search?cache=wvh6796t15tzdczh9qkczwd7
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=android%20ndk%20llvm&sort=byPopularity&type=story
+
+Fuzion24 (Ryan Welton)
+https://github.com/fuzion24
+
+Tannal2409@gmail.com's Account | Cloudflare
+https://dash.cloudflare.com/58750abf366718c2e2516713a8881344/pages/new/upload
+
+python - No module named pkg_resources - Stack Overflow
+https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources
+
+pdflatex - Google 搜索
+https://www.google.com/search?q=pdflatex&rlz=1C1GCEA_enJP1090JP1090&oq=pdflatex&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+
+latex support · Issue #34998 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/34998
+
+YouTube
+https://www.youtube.com/
+
+混蛋.com is On Sale --- Buy Now!
+https://www.xn--x4wq34c.com/
+
+latex support · Issue #34998 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/34998
+
+Install MiKTeX with winget - winstall
+https://winstall.app/apps/MiKTeX.MiKTeX
+
+c - int or char? which is faster? - Stack Overflow
+https://stackoverflow.com/questions/55428554/int-or-char-which-is-faster
+
+#Outreachy > Text-transform project - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Text-transform.20project
+
+Enable the internal -x-lang CSS property · Issue #31723 · servo/servo
+https://github.com/servo/servo/issues/31723
+
+stylo/style/properties/longhands/font.mako.rs at 7dd884031d6b97d801d50f8fcdff69bbeb292ae0 · servo/stylo
+https://github.com/servo/stylo/blob/7dd884031d6b97d801d50f8fcdff69bbeb292ae0/style/properties/longhands/font.mako.rs#L257-L266
+
+Bump Stylo to servo/stylo#19 · servo/servo@871e36f
+https://github.com/servo/servo/commit/871e36f5a5f8d87cd8d3979794e8e21588f54939
+
+stylo/style/properties/longhands/font.mako.rs at 7dd884031d6b97d801d50f8fcdff69bbeb292ae0 · servo/stylo
+https://github.com/servo/stylo/blob/7dd884031d6b97d801d50f8fcdff69bbeb292ae0/style/properties/longhands/font.mako.rs#L257-L266
+
+stylo/style/properties/longhands/font.mako.rs at 7dd884031d6b97d801d50f8fcdff69bbeb292ae0 · servo/stylo
+https://github.com/servo/stylo/blob/7dd884031d6b97d801d50f8fcdff69bbeb292ae0/style/properties/longhands/font.mako.rs#L257-L266
+
+Google
+https://www.google.com/
+
+localhost:8081/share?url=https://chat.openai.com/share/4051d838-6b21-4a19-ad2d-7e1603b4ebb7
+http://localhost:8081/share?url=https://chat.openai.com/share/4051d838-6b21-4a19-ad2d-7e1603b4ebb7
+
+postgres/src/backend/executor at 33f13168ccd6e65bf0b3959a7e894449e8b6cb36 · postgres/postgres
+https://github.com/postgres/postgres/tree/33f13168ccd6e65bf0b3959a7e894449e8b6cb36/src/backend/executor
+
+PostgreSQL技术内幕（十四）探索PG的进程与内存管理 - 知乎
+https://zhuanlan.zhihu.com/p/687002997
+
+postgresql源码学习（一）—— 源码编译安装与gdb调试入门_postgresql 调试-CSDN博客
+https://blog.csdn.net/Hehuyi_In/article/details/110729822
+
+PostgreSQL_Hehuyi_In的博客-CSDN博客
+https://blog.csdn.net/hehuyi_in/category_9080934.html
+
+记一次前端页面加载方式调整导致的数据库连接数暴增_filter中访问数据库会导致链接数上升吗-CSDN博客
+https://blog.csdn.net/Hehuyi_In/article/details/106735325
+
+ChatGGG
+http://localhost:8080/quill.html
+
+command-not-found.com – stackcount-bpfcc
+https://command-not-found.com/stackcount-bpfcc
+
+windows ebpf - Google 搜索
+https://www.google.com/search?q=windows+ebpf&rlz=1C1GCEA_enJP1090JP1090&oq=windows+ebpf&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTc4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · microsoft/ebpf-for-windows
+https://github.com/microsoft/ebpf-for-windows/issues
+
+ChatGGG
+http://localhost:8080/
+
+ebpf "v8" stack unknown - Google 搜索
+https://www.google.com/search?sca_esv=4b313fb8a1a61408&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09IjGECkI2vRDGhfPsnue6oGR1oGQ:1710719048069&q=ebpf+%22v8%22+stack+unknown&sa=X&ved=2ahUKEwiLr66JvfyEAxW0bfUHHWH3DrUQ5t4CegQIFBAB&biw=1536&bih=703&dpr=1.25#ip=1
+
+关于 | Linux工坊
+https://szp2016.github.io/about/
+
+Unwinding Node.js/V8 Javascript stacks in eBPF
+https://www.kvakil.me/posts/2022-10-17-ustackjs-unwind-javascript-stacks-in-ebpf.html
+
+tcp-ebpf.pdf
+https://inl.info.ucl.ac.be/system/files/tcp-ebpf.pdf
+
 # 2024-3-17
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
