@@ -1,5 +1,27 @@
 # 2024-3-17 0 | 0
 
+.\esbuild.exe .\app.jsx --outfile=app.js --watch
+.\esbuild.exe .\app.vue --outfile=app-vue.js --watch
+
+function Watch-Command {
+    param (
+        [string]$Command,
+        [int]$IntervalInSeconds = 1
+    )
+
+    while ($true) {
+        Clear-Host  # Clear the screen for each iteration (optional)
+        Write-Output "Running command: $Command"
+        Invoke-Expression -Command $Command
+        Write-Output "`nPress Ctrl+C to exit`n"
+        Start-Sleep -Seconds $IntervalInSeconds
+    }
+}
+Watch-Command -Command ".\esbuild.exe .\app.jsx --outfile=app.js"
+
+
+Broadcom buy vmware
+
 what we should do
 
 what we can do

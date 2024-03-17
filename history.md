@@ -1,5 +1,152 @@
 # 2024-3-17
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+• Discord | #zig-help | Zig Programming Language
+https://discord.com/channels/605571803288698900/1019652020308824145
+
+swc/crates/swc_ecma_preset_env/src/transform_data.rs at 0c180032c10bc8ea5f7737fc36ae907173e67f69 · swc-project/swc
+https://github.com/swc-project/swc/blob/0c180032c10bc8ea5f7737fc36ae907173e67f69/crates/swc_ecma_preset_env/src/transform_data.rs
+
+raspi3-tutorial/01_bareminimum at master · tannal/raspi3-tutorial
+https://github.com/tannal/raspi3-tutorial/tree/master/01_bareminimum
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=uber%20zig&sort=byPopularity&type=story
+
+How Uber Uses Zig - Motiejus Jakštys Public Record
+https://jakstys.lt/2022/how-uber-uses-zig/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Compressar diretórios selecionados
+https://chat.openai.com/c/2acb4ee4-1141-480f-9c56-28bccf038b45
+
+GNOME · GitLab
+https://gitlab.gnome.org/GNOME?page=3
+
+clang gnu extensions - Google 搜索
+https://www.google.com/search?q=clang+gnu+extensions&sca_esv=56f43f0a49faa70e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-lnEeymdCJFw0z1L76wRmct4GglA%3A1710636754185&ei=0j72ZaL5CrbvseMP8serqAM&oq=clang+gnu+ex&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNsYW5nIGdudSBleCoCCAAyCBAAGIAEGMsBSJYvUPYYWOAncAJ4AJABAJgBqAGgAcQNqgEEMC4xMrgBA8gBAPgBAZgCDaAC6g2oAgrCAgcQIxjqAhgnwgIKECMYgAQYigUYJ8ICBBAjGCfCAg0QABiABBiKBRhDGLEDwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICDhAAGIAEGIoFGLEDGIMBwgIWEC4YgAQYigUYQxixAxiDARjHARjRA8ICChAAGIAEGIoFGEPCAgsQLhiABBixAxiDAcICCBAuGIAEGNQCwgIFEAAYgATCAgUQLhiABMICCBAuGIAEGMsBwgIHEC4YgAQYDMICBBAAGB7CAgYQABgeGA_CAgYQABgIGB6YAwWIBgGSBwQxLjEyoAfCRg&sclient=gws-wiz-serp
+
+曲面 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%9B%B2%E9%9D%A2
+
+电视 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%94%B5%E8%A7%86
+
+变压器 - Google 搜索
+https://www.google.com/search?q=%E5%8F%98%E5%8E%8B%E5%99%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8F%98%E5%8E%8B%E5%99%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhjHARjRAxiABDIHCAIQLhiABDIHCAMQLhiABDINCAQQLhjHARjRAxiABDIHCAUQLhiABDIJCAYQABgKGIAEMgcIBxAAGIAEMgcICBAuGIAE0gEIMTMzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+中华人民共和国能源政策 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%83%BD%E6%BA%90%E6%94%BF%E7%AD%96
+
+Rust-based platform for the Web – SWC
+https://swc.rs/
+
+swc
+https://github.com/swc-project
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=swc&sort=byPopularity&type=story
+
+esbuild - An extremely fast bundler for the web
+https://esbuild.github.io/
+
+Code search results
+https://github.com/search?q=repo%3Aevanw%2Fesbuild%20go%20install&type=code
+
+markdown-it - npm
+https://www.npmjs.com/package/markdown-it?activeTab=readme
+
+pointer machine - Google 搜索
+https://www.google.com/search?q=pointer+machine&rlz=1C1GCEA_enJP1090JP1090&oq=pointer+machine&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDIyMDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Advanced Data Structures | Hacker News
+https://news.ycombinator.com/item?id=12871234
+
+app
+http://localhost:8080/
+
+esm.sh/markdown-it@14.0.0
+https://esm.sh/markdown-it@14.0.0
+
+<script type="importmap"> - HTML（超文本标记语言） | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/script/type/importmap
+
+博通收购vmware - Google 搜索
+https://www.google.com/search?q=%E5%8D%9A%E9%80%9A%E6%94%B6%E8%B4%ADvmware&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8D%9A%E9%80%9A%E6%94%B6%E8%B4%AD&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABNIBCDM1ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+esm.sh/tailwindcss@3.4.1
+https://esm.sh/tailwindcss@3.4.1
+
+tailwindcss - npm
+https://www.npmjs.com/package/tailwindcss
+
+Hello World – React
+https://legacy.reactjs.org/docs/hello-world.html
+
+createRoot – React
+https://react.dev/reference/react-dom/client/createRoot
+
+Issue search results
+https://github.com/search?q=repo%3Aevanw%2Fesbuild+import+map&type=issues
+
+watch command in powershell - Google 搜索
+https://www.google.com/search?q=watch+command+in+powershell&rlz=1C1GCEA_enJP1090JP1090&oq=watch+command+in+powershell&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGAgYExgeMgoIAhAAGAgYExge0gEIMzkyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+fix #334: support automatic JSX runtime by jgoz · Pull Request #2349 · evanw/esbuild
+https://github.com/evanw/esbuild/pull/2349
+
+esm.sh/svelte@4.2.12
+https://esm.sh/svelte@4.2.12
+
+esm.sh/solid-js@1.8.15
+https://esm.sh/solid-js@1.8.15
+
+vscode/package.json at main · microsoft/vscode
+https://github.com/microsoft/vscode/blob/main/package.json
+
+Built-in Directives | Vue.js
+https://vuejs.org/api/built-in-directives.html#v-cloak
+
+Vue CDN usage (esm build, Composition API)
+https://codepen.io/vuejs-examples/pen/MWzazEv
+
+esbuild loader vue - Google 搜索
+https://www.google.com/search?q=esbuild+loader+vue&sca_esv=ec36d02c44708c07&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-App3kGbIIsJ-A86y94_LA28JGMQ%3A1710659143370&ei=R5b2Za6aFtDa1e8PxvuQkA8&ved=0ahUKEwju2cn03fqEAxVQbfUHHcY9BPIQ4dUDCBA&uact=5&oq=esbuild+loader+vue&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmVzYnVpbGQgbG9hZGVyIHZ1ZTIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0i_A1C8AVi8AXABeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgKgAgbCAgoQABhHGNYEGLADmAMA4gMFEgExIECIBgGQBgqSBwEyoAcA&sclient=gws-wiz-serp
+
+Introduction – Lit
+https://lit.dev/docs/v1/lit-html/introduction/
+
+react router - Google 搜索
+https://www.google.com/search?q=react+router&rlz=1C1GCEA_enJP1090JP1090&oq=react+router&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyMTA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+esm.sh/react-router@6.22.3
+https://esm.sh/react-router@6.22.3
+
+Tutorial v6.22.3 | React Router
+https://reactrouter.com/en/main/start/tutorial
+
+esm.sh/react-router-dom@6.22.3
+https://esm.sh/react-router-dom@6.22.3
+
+delete line vscode - Google 搜索
+https://www.google.com/search?q=delete+line+vscode&rlz=1C1GCEA_enJP1090JP1090&oq=delete+line+vscode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI2OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+app
+http://localhost:8080/
+
+esm.sh/vue@3.4.21
+https://esm.sh/vue@3.4.21
+
+esm.sh/lit-html@3.1.2
+https://esm.sh/lit-html@3.1.2
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
