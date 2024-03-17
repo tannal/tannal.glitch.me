@@ -1,3 +1,135 @@
+# Modern Web Application
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGGG</title>
+    <!-- faceicon.svg -->
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <!-- <link rel=stylesheet href="./quill.css" async defer> -->
+    <link rel=stylesheet href="//cdn.quilljs.com/1.3.6/quill.snow.css" async defer>
+    <link rel=stylesheet href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" async defer>
+    <link rel=stylesheet href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/monokai-sublime.min.css"
+        async defer>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script type="importmap">
+    {
+      "imports": {
+        "markdown-it": "https://esm.sh/markdown-it@14.0.0",
+        "react": "https://esm.sh/stable/react@18.2.0/",
+        "react-router": "https://esm.sh/react-router@6.22.3",
+        "react-router-dom": "https://esm.sh/react-router-dom@6.22.3",
+        "react-dom": "https://esm.sh/react-dom@18.2.0/",
+        "tailwindcss": "https://esm.sh/tailwindcss@3.4.1",
+        "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js",
+        "svelte": "https://esm.sh/svelte@4.2.12",
+        "solid-js": "https://esm.sh/solid-js@1.8.15",
+        "lit-html": "https://esm.sh/lit-html@3.1.2",
+        "y-indexeddb": "/y-indexeddb.js",
+        "quill": "https://esm.sh/quill@1.3.7",
+        "yjs": "https://esm.sh/yjs@13.6.10",
+        "y-websocket": "/y-websocket.js",
+        "quill-cursors": "https://esm.sh/quill-cursors@4.0.2",
+        "y-quill": "/y-quill.js"
+      }
+    }
+    </script>
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+
+        #container {
+            width: 863px;
+            height: 600px;
+        }
+    </style>
+</head>
+
+<body>
+    <button type="button" id="y-connect-btn">Disconnect</button>
+    <p></p>
+    <p>This is a demo of the <a href="https://github.com/yjs/yjs">Yjs</a> ⇔ <a href="https://quilljs.com/">Quill</a>
+        binding: <a href="https://github.com/yjs/y-quill">y-quill</a>.</p>
+    <p>The content of this editor is shared with every client that visits this domain.</p>
+
+    <script type="module">
+        import * as Y from 'yjs'
+        import { WebsocketProvider } from 'y-websocket'
+        import { QuillBinding } from 'y-quill'
+        import Quill from 'quill'
+        import QuillCursors from 'quill-cursors'
+        import { IndexeddbPersistence } from 'y-indexeddb'
+
+        Quill.register('modules/cursors', QuillCursors)
+
+        window.addEventListener('load', () => {
+            const ydoc = new Y.Doc()
+            const provider = new WebsocketProvider(
+                'ws://192.168.43.246:1234/', // use the public ws server
+                // `ws${location.protocol.slice(4)}//${location.host}/ws`, // alternatively: use the local ws server (run `npm start` in root directory)
+                'quill-demo-6',
+                ydoc
+            )
+            const indexeddbProvider = new IndexeddbPersistence('y-indexeddb', ydoc)
+            const ytext = ydoc.getText('quill')
+            const editorContainer = document.createElement('div')
+            editorContainer.setAttribute('id', 'editor')
+            document.body.insertBefore(editorContainer, null)
+
+            const editor = new Quill(editorContainer, {
+                modules: {
+                    cursors: true,
+                    toolbar: [
+                        [{ header: [1, 2, false] }],
+                        ['bold', 'italic', 'underline'],
+                        ['image', 'code-block']
+                    ],
+                    history: {
+                        userOnly: true
+                    }
+                },
+                placeholder: 'Start collaborating...',
+                theme: 'snow' // or 'bubble'
+            })
+
+            const binding = new QuillBinding(ytext, editor, provider.awareness)
+
+            /*
+            // Define user name and user name
+            // Check the quill-cursors package on how to change the way cursors are rendered
+            provider.awareness.setLocalStateField('user', {
+              name: 'Typing Jimmy',
+              color: 'blue'
+            })
+            */
+
+            const connectBtn = document.getElementById('y-connect-btn')
+            connectBtn.addEventListener('click', () => {
+                if (provider.shouldConnect) {
+                    provider.disconnect()
+                    connectBtn.textContent = 'Connect'
+                } else {
+                    provider.connect()
+                    connectBtn.textContent = 'Disconnect'
+                }
+            })
+
+            // @ts-ignore
+            window.example = { provider, ydoc, ytext, binding, Y }
+        })
+    </script>
+</body>
+
+</html>
+
+```
+
 # GTK
 
 ```c

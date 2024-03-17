@@ -1,5 +1,18 @@
 # 2024-3-17 0 | 0
 
+https://gitlab.gnome.org/GNOME/gtk
+
+gcc -o gtk gtk.c $(pkg-config --cflags --libs gtk+-4.0)
+gcc $( pkg-config --cflags gtk4 ) -o gtk gtk.c $( pkg-config --libs gtk4 )
+
+
+virtualenv venv
+.\venv\Scripts\activate.ps
+
+git clone https://github.com/3b1b/manim.git
+pip install -e . -i https://mirrors.sustech.edu.cn/pypi/web/simple
+
+
 sudo apt install wl-clipboard
 
 echo "$XDG_SESSION_TYPE"
