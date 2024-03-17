@@ -3,6 +3,117 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+tailwindcss component library - Google 搜索
+https://www.google.com/search?q=tailwindcss+component+library&rlz=1C1GCEA_enJP1090JP1090&oq=tailwindcss+compo&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABNIBCDU3NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/7f5901a5-b723-402c-8446-9d72a70cca11
+
+ChatGGG
+http://localhost:8080/
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+Yjs was already imported. · Issue #438 · yjs/yjs
+https://github.com/yjs/yjs/issues/438
+
+pnpm patch <pkg> | pnpm
+https://pnpm.io/cli/patch
+
+yjs/y-indexeddb: IndexedDB database adapter for Yjs
+https://github.com/yjs/y-indexeddb
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=golang%20build%20static%20executable&sort=byPopularity&type=story
+
+Why all go binaries are "statically-linked" ? : r/golang
+https://www.reddit.com/r/golang/comments/53nl4b/why_all_go_binaries_are_staticallylinked/
+
+zsh - How to fzf recent files of vim/nvim, not inside vim but from terminal - Stack Overflow
+https://stackoverflow.com/questions/60017691/how-to-fzf-recent-files-of-vim-nvim-not-inside-vim-but-from-terminal
+
+Enable offline-first workflow in demos (for Tiptap) · Issue #29 · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/issues/29
+
+yjs/y-indexeddb: IndexedDB database adapter for Yjs
+https://github.com/yjs/y-indexeddb
+
+y-indexeddb | Yjs Docs
+https://docs.yjs.dev/ecosystem/database-provider/y-indexeddb
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+esm.sh/quill@1.3.7
+https://esm.sh/quill@1.3.7
+
+yjs-demos/quill/quill.html at main · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/blob/main/quill/quill.html
+
+ChatGGG
+http://localhost:8080/quill.html
+
+esm.sh/quill-cursors@4.0.2
+https://esm.sh/quill-cursors@4.0.2
+
+esm.sh/y-quill@0.1.5
+https://esm.sh/y-quill@0.1.5
+
+esm.sh/v135/y-websocket@1.5.4/es2022/y-websocket.mjs
+https://esm.sh/v135/y-websocket@1.5.4/es2022/y-websocket.mjs
+
+esm.sh/v135/y-quill@0.1.5/es2022/y-quill.mjs
+https://esm.sh/v135/y-quill@0.1.5/es2022/y-quill.mjs
+
+esm.sh/v135/y-indexeddb@9.0.12/es2022/y-indexeddb.mjs
+https://esm.sh/v135/y-indexeddb@9.0.12/es2022/y-indexeddb.mjs
+
+esm.sh/v135/y-quill@0.1.5/es2022/y-quill.mjs
+https://esm.sh/v135/y-quill@0.1.5/es2022/y-quill.mjs
+
+ChatGGG
+http://localhost:8080/quill.html
+
+y-websocket/src/y-websocket.js at master · yjs/y-websocket
+https://github.com/yjs/y-websocket/blob/master/src/y-websocket.js
+
+esm.sh/v135/y-indexeddb@9.0.12/es2022/y-indexeddb.mjs
+https://esm.sh/v135/y-indexeddb@9.0.12/es2022/y-indexeddb.mjs
+
+d3d proxy 正在使用麦克风 - Google 搜索
+https://www.google.com/search?q=d3d+proxy+%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E9%BA%A6%E5%85%8B%E9%A3%8E&rlz=1C1GCEA_enJP1090JP1090&oq=d3d+proxy+%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E9%BA%A6%E5%85%8B%E9%A3%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDgxMzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://localhost:8080/quill.html
+
+ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/
+
+how to see ubuntu version - Google 搜索
+https://www.google.com/search?q=how+to+see+ubuntu+version&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+see+ubuntu+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINzI2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+apt-get install指定源-掘金
+https://juejin.cn/s/apt-get%20install%E6%8C%87%E5%AE%9A%E6%BA%90
+
+Log in with email | Netlify
+https://app.netlify.com/login/email
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+package main import ( "log" "net/http" ) // HandshakeResponse is the response sent to the client after a successful WebSocket handshake. var HandshakeResponse = []byte( "HTTP/1.1 101 Switching Protocols\r\n" + "Upgrade: websocket\r\n" + "Connection: Upgrade\r\n" + "\r\n") // handleWebSocketUpgrade upgrades an HTTP connection to a WebSocket connection. func handleWebSocketUpgrade(w http.ResponseWriter, r *http.Request) { // Upgrade the connection to a WebSocket connection manually conn, _, err := w.(http.Hijacker).Hijack() if err != nil { log.Println("Error hijacking connection:", err) return } defer conn.Close() // Send the WebSocket handshake response _, err = conn.Write(HandshakeResponse) if err != nil { log.Println("Error sending handshake response:", err) return } } func main() { http.HandleFunc("/ws", handleWebSocketUpgrade) log.Println("Server started on :1234") log.Fatal(http.ListenAndServe(":1234", nil)) } make this a full featured websocket server which broardcast data to all clients
+https://www.phind.com/search?cache=wlc0nzbtqv8wed703yc8gqd8
+
+Error 429 (Too Many Requests)
+https://poe.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 app
 http://localhost:8080/
 

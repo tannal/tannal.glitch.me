@@ -1,3 +1,110 @@
+
+
+# Modern Web development
+
+esbuild
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGGG</title>
+    <!-- faceicon.svg -->
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+    <script type="importmap">
+    {
+      "imports": {
+        "markdown-it": "https://esm.sh/markdown-it@14.0.0",
+        "react": "https://esm.sh/stable/react@18.2.0/",
+        "react-router": "https://esm.sh/react-router@6.22.3",
+        "react-router-dom": "https://esm.sh/react-router-dom@6.22.3",
+        "react-dom": "https://esm.sh/react-dom@18.2.0/",
+        "tailwindcss": "https://esm.sh/tailwindcss@3.4.1",
+        "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js",
+        "svelte": "https://esm.sh/svelte@4.2.12",
+        "solid-js": "https://esm.sh/solid-js@1.8.15",
+        "lit-html": "https://esm.sh/lit-html@3.1.2"
+      }
+    }
+    </script>
+    <style>
+        [v-cloak] {
+            display: none;
+        }
+
+        #container {
+            width: 863px;
+            height: 600px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+    <div v-cloak id="app-vue" class="text-red-200">
+        {{ message }}
+    </div>
+    <div id="container"></div>
+    <script type="module" src="./app.js"></script>
+    <script type="module">
+        import { App, Counter } from './app.js';
+        import ReactDOM from "react-dom";
+        import markdownit from "markdown-it";
+        ReactDOM.createRoot(document.querySelector('#app')).render(App());
+
+        import * as monaco from 'https://esm.sh/monaco-editor';
+        import editorWorker from 'https://esm.sh/monaco-editor/esm/vs/editor/editor.worker?worker';
+        import jsonWorker from 'https://esm.sh/monaco-editor/esm/vs/language/json/json.worker?worker';
+        import cssWorker from 'https://esm.sh/monaco-editor/esm/vs/language/css/css.worker?worker';
+        import htmlWorker from 'https://esm.sh/monaco-editor/esm/vs/language/html/html.worker?worker';
+        import tsWorker from 'https://esm.sh/monaco-editor/esm/vs/language/typescript/ts.worker?worker';
+
+        self.MonacoEnvironment = {
+            getWorker(_, label) {
+                if (label === 'json') {
+                    return new jsonWorker();
+                }
+                if (label === 'css' || label === 'scss' || label === 'less') {
+                    return new cssWorker();
+                }
+                if (label === 'html' || label === 'handlebars' || label === 'razor') {
+                    return new htmlWorker();
+                }
+                if (label === 'typescript' || label === 'javascript') {
+                    return new tsWorker();
+                }
+                return new editorWorker();
+            }
+        };
+        monaco.editor.create(document.getElementById('container'), {
+            value: ['function x() {', '\tconsole.log("Hello world!");', '}'].join('\n'),
+            language: 'javascript'
+        });
+    </script>
+
+    <script type="module">
+        import { createApp, ref } from 'vue'
+
+        createApp({
+            setup() {
+                const message = ref('Hello Vue!')
+                return {
+                    message
+                }
+            }
+        }).mount('#app-vue')
+    </script>
+</body>
+
+</html>
+
+```
+
 # WebGL threejs
 
 ```html
