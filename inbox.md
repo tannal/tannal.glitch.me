@@ -1,5 +1,6 @@
 # 2024-3-17 0 | 0
 
+pip install setuptools
 https://gitlab.gnome.org/GNOME/gtk
 
 gcc -o gtk gtk.c $(pkg-config --cflags --libs gtk+-4.0)
