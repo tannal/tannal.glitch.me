@@ -1,5 +1,9 @@
 # 2024-3-17 0 | 0
 
+wasi is not fully useful yet
+we need to seek some apps which use less system api eg text editor, multimedia
+
+
 .\esbuild.exe .\app.jsx --outfile=app.js --watch
 .\esbuild.exe .\app.vue --outfile=app-vue.js --watch
 
