@@ -1,5 +1,197 @@
 # 2024-3-18
 
+desk.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGGG
+http://localhost:8080/quill.html
+
+令人智熄的 WASI Preview 2 标准 - 知乎
+https://zhuanlan.zhihu.com/p/543446425
+
+Standards objections | The AssemblyScript Book
+https://www.assemblyscript.org/standards-objections.html?
+
+Repositories
+https://github.com/orgs/AssemblyScript/repositories
+
+(3 封私信 / 13 条消息) 酱紫君 - 知乎
+https://www.zhihu.com/people/GalAster/posts
+
+(3 封私信 / 13 条消息) 李杭帆 - 知乎
+https://www.zhihu.com/people/li-hang-fan-48/posts
+
+(3 封私信 / 13 条消息) 无限和无限之间有倍数关系吗？ - 知乎
+https://www.zhihu.com/question/628642424/answer/3276103874
+
+1BRC in .NET among fastest on Linux: My Optimization Journey · Victor Baybekov
+https://hotforknowledge.com/2024/01/13/1brc-in-dotnet-among-fastest-on-linux-my-optimization-journey/
+
+Web 中文兴趣组 · WebAssembly 在线研讨会 – 2020年8月29日
+https://www.w3.org/2020/08/29-chinese-web-wasm.minutes.html
+
+W3C Chinese Web Interest Group
+https://www.w3.org/2018/chinese-web-ig/
+
+W3C Authentication Platform | W3C
+https://auth.w3.org/login
+
+WebAssembly Micro Runtime Overview
+https://www.w3.org/2020/08/29-chinese-web/wamr.pdf
+
+基于LLVM的V8-WebAssembly-AOT编译器
+https://www.w3.org/2020/08/29-chinese-web/uc-v8-compiler.pdf
+
+W3C Chinese Web Interest Group
+https://www.w3.org/2018/chinese-web-ig/
+
+public-webassembly@w3.org from March 2024: by date
+https://lists.w3.org/Archives/Public/public-webassembly/2024Mar/
+
+WAVM/WAVM: WebAssembly Virtual Machine
+https://github.com/WAVM/WAVM
+
+bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/bytecodealliance/wasm-micro-runtime
+
+Publish winget / MSI installer · Issue #57 · microsoft/sudo
+https://github.com/microsoft/sudo/issues/57
+
+Run as admin to avoid UAC spam? · Issue #2999 · microsoft/winget-cli
+https://github.com/microsoft/winget-cli/issues/2999
+
+ChatGPT
+https://chat.openai.com/c/f38ca3f0-17e4-4fed-af30-15ae689ded80
+
+Gunnar Morling - Random Musings on All Things Software Engineering
+https://www.morling.dev/
+
+10 Incredible Things you can do with Micronaut & GraalVM By Graeme Rocher - YouTube
+https://www.youtube.com/watch?v=Elz_abev4ts
+
+merykitty (Quan Anh Mai)
+https://github.com/merykitty
+
+Alfonso Peterssen - Google 搜索
+https://www.google.com/search?q=Alfonso+Peterssen&rlz=1C1GCEA_enJP1090JP1090&oq=Alfonso+Peterssen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Home - Micronaut Framework
+https://micronaut.io/
+
+How to set up Java in Visual Studio Code - YouTube
+https://www.youtube.com/watch?v=BB0gZFpukJU
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+About Zellij
+https://zellij.dev/about/
+
+Setup & Run Kotlin in VScode | Hello World | Kotlin - YouTube
+https://www.youtube.com/watch?v=Kc34Hhbxk5g
+
+winget install kotlin - Google 搜索
+https://www.google.com/search?q=winget+install+kotlin&sca_esv=8d12fa747601ad8a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08OzwCDTwRt2BdvUvv06u5SlCqdLg%3A1710730714696&ei=2q33ZciPKsqGvr0P7--KoAg&ved=0ahUKEwjI5LjE6PyEAxVKg68BHe-3AoQQ4dUDCBA&uact=5&oq=winget+install+kotlin&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXdpbmdldCBpbnN0YWxsIGtvdGxpbjIKEAAYRxjWBBiwA0ibB1AAWABwAXgAkAEAmAGHAqABhwKqAQMyLTG4AQPIAQCYAgGgAgeYAwCIBgGQBgGSBwExoAdx&sclient=gws-wiz-serp#ip=1
+
+yui js - Google 搜索
+https://www.google.com/search?q=yui+js&rlz=1C1GCEA_enJP1090JP1090&oq=yui+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABNIBCDI1ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+pro fane - Google 搜索
+https://www.google.com/search?q=pro+fane&rlz=1C1GCEA_enJP1090JP1090&oq=pro+fane&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMTEwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://localhost:8080/quill.html
+
+telegram 文件下载器 - Google 搜索
+https://www.google.com/search?q=telegram+%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%99%A8&sca_esv=91d4ffdbafe144b1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08sc-1-pqteeiFr9lnl0B-So8LJkQ%3A1710734584087&ei=-Lz3Zbf9BO2cvr0P9Ni50As&ved=0ahUKEwi32cH59vyEAxVtjq8BHXRsDroQ4dUDCBA&uact=5&oq=telegram+%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%99%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiGHRlbGVncmFtIOaWh-S7tuS4i-i9veWZqDIHEAAYgAQYDEikL1DNBFjuLXACeAGQAQCYAZkCoAGSGqoBBjAuNi4xMLgBA8gBAPgBAZgCD6AC5RXCAgoQABhHGNYEGLADwgIFEAAYgATCAggQABiABBiiBMICBBAjGCfCAgoQIxiABBiKBRgnwgIIEAAYgAQYywHCAgoQABiABBjLARgKwgIHEAAYgAQYCpgDAIgGAZAGCpIHBTIuNC45oAfKLQ&sclient=gws-wiz-serp
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+ChatGGG
+http://192.168.43.27:8080/quill.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+termux 新终端 - Google 搜索
+https://www.google.com/search?q=termux+%E6%96%B0%E7%BB%88%E7%AB%AF&rlz=1C1GCEA_enJP1090JP1090&oq=termux+%E6%96%B0%E7%BB%88%E7%AB%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDU0MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+When using bcc to trace, it displays function name as unknown. · Issue #3239 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/3239
+
+lots of [unknown] show in the stack trace while using `tools/trace` to trace the method call in Java · Issue #4518 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/4518
+
+AttributeError: module 'socks' has no attribute 'SOCKS5' · Issue #6 · holll/teledown
+https://github.com/holll/teledown/issues/6
+
+自定义Telegram客户端——apiId和apiHash的申请 - 简书
+https://www.jianshu.com/p/3d047c7516cf
+
+telegram-files-downloader · GitHub Topics
+https://github.com/topics/telegram-files-downloader
+
+语音转文字 MP4 - Google 搜索
+https://www.google.com/search?q=%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+MP4&sca_esv=e6a147a3bec91382&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08TtlTfp_DqtNJssNczQ1nrIUobFQ%3A1710740740439&ei=BNX3ZeWyGtiQvr0PruuWuAs&ved=0ahUKEwjlxIvxjf2EAxVYiK8BHa61BbcQ4dUDCBA&uact=5&oq=%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+MP4&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-ivremfs-i9rOaWh-WtlyBNUDQyBhAAGAgYHkj1ClDaAVjdCHABeAGQAQCYAZACoAHuBqoBBTAuMi4yuAEDyAEA-AEBmAIEoAK8BcICChAAGEcY1gQYsAPCAgcQABiABBgMwgIFEAAYgASYAwCIBgGQBgqSBwUxLjEuMqAHmQY&sclient=gws-wiz-serp#ip=1
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+语音处理/语音识别基础（一）- 声音到底为何可以存储和播放?_声音储存原理-CSDN博客
+https://blog.csdn.net/davidullua/article/details/121486078
+
+davidullua-CSDN博客
+https://blog.csdn.net/davidullua?type=blog
+
+语音处理/语音识别基础（二）- 声音的存储-CSDN博客
+https://blog.csdn.net/davidullua/article/details/122158284?spm=1001.2014.3001.5502
+
+audio - Python extract wav from video file - Stack Overflow
+https://stackoverflow.com/questions/26741116/python-extract-wav-from-video-file
+
+[Package Issue]: Gyan.FFmpeg sets environment path incorrectly · Issue #95349 · microsoft/winget-pkgs
+https://github.com/microsoft/winget-pkgs/issues/95349
+
+csharp performance - Google 搜索
+https://www.google.com/search?q=csharp+performance&rlz=1C1GCEA_enJP1090JP1090&oq=csharp+perfo&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCAgCEAAYExgeMgoIAxAAGA8YExgeMgwIBBAAGAgYDxgTGB4yCggFEAAYDxgTGB4yCggGEAAYBRgTGB4yCggHEAAYBRgTGB7SAQgyNzQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Preview of CLion Nova, which uses the ReSharper C++/Rider C++ language engine | Hacker News
+https://news.ycombinator.com/item?id=38206143
+
+openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+https://github.com/openai/whisper
+
+Repositories
+https://github.com/orgs/openai/repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Triton&sort=byPopularity&type=story
+
+Artificial intelligence - Wikipedia
+https://en.wikipedia.org/wiki/Artificial_intelligence
+
+自研AI触觉芯片，「他山科技」为智能座舱提供更低成本的解决方案-36氪
+https://36kr.com/p/684637313337480
+
+(3 封私信 / 15 条消息) 五感怎么在计算机上面表现出来？ - 知乎
+https://www.zhihu.com/question/20502557
+
+Haptic technology - Wikipedia
+https://en.wikipedia.org/wiki/Haptic_technology
+
+Excalidraw
+https://excalidraw.com/
+
+select all paragraph without any attribute - Google 搜索
+https://www.google.com/search?q=select+all+paragraph+without+any+attribute&rlz=1C1GCEA_enJP1090JP1090&oq=select+all+paragraph+without+any+attribute&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCTE0NDEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+alct/export-tabs-urls: https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+https://github.com/alct/export-tabs-urls
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

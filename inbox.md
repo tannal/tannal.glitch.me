@@ -1,5 +1,38 @@
 # 2024-3-18 0 | 0 W
 
+我们每秒对声音采样上万次，获得上万个按照时间顺序排列的二进制数字。于是，我们就将连续变化不断的声音转化成了计算机可储存并识别的二进制数字。
+PCM文件：原始采样值的音频数据。 pcm 文件内容不包含频率，位数，以及声道数。要播放pcm文件需要知道采样的频率，位数，以及声道数。
+
+e
+
+ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 44100 -vn -f segment -segment_time 10 audio%d.wav
+
+
+人声通过空气使震膜振动，
+切割形成微弱的波动电流。
+电流输送到扩音器，
+再以相反的过程把波动电流变成声音。
+
+
+爱迪生在发明和开发电话的过程中，发现了录音设备。
+电容式话筒是利用声音的大小产生忽变的压降然后经过放大到功放还原我们的声音
+
+nc -l 0.0.0.0 1234 > docs.tar.gz
+nc 192.168.43.1 1235 < docs.tar.gz
+
+sovle your own problem
+
+solve "researchers'" problem
+solve "xxx's" problem
+
+7 washing
+
+注意: 这个系列不会从 print("Hello World") 开始, 毕竟 IO 很难的, 你看 Haskell 教程到什么地方才开始 Hello World.
+等介绍到 Hello World 后面也没几页了.
+
+。Snapshot是启动isolate
+和context的缓存，⽤于快速启动。⾥⾯也包含了code。
+
 sudo apt install bpfcc-tools
 
 sudo stackcount-bpfcc -i 2 -p 4407 --debug "sock*"

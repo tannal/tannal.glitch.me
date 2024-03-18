@@ -6,6 +6,7 @@ wmic path Win32_USBControllerDevice get Dependent
 
 # Software install
 
+winget install ffmpeg
 winget install --id=MiKTeX.MiKTeX  -e
 winget install -e --id emqx.mqttx
 
