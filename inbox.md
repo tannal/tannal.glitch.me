@@ -1,5 +1,12 @@
 # 2024-3-18 0 | 0 W
 
+ffmpeg -i '0001_Part_1--[TutFlix.ORG]--.mp4' -ab 160k -ac 2 -ar 16000 -vn -f segment -segment_time 100 audio%d.wav
+
+ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 16000 -vn -f segment -segment_time 100 audio%d.wav
+
+sudo trace-bpfcc -UK "do_open" -a
+
+
 我们每秒对声音采样上万次，获得上万个按照时间顺序排列的二进制数字。于是，我们就将连续变化不断的声音转化成了计算机可储存并识别的二进制数字。
 PCM文件：原始采样值的音频数据。 pcm 文件内容不包含频率，位数，以及声道数。要播放pcm文件需要知道采样的频率，位数，以及声道数。
 
