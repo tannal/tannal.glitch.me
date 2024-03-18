@@ -1,5 +1,185 @@
 # 2024-3-18
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+When using bcc to trace, it displays function name as unknown. · Issue #3239 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/3239
+
+ft/src/main.rs at main · tannal/ft
+https://github.com/tannal/ft/blob/main/src/main.rs
+
+Tokio File Transfer
+https://chat.openai.com/c/6918cdaa-a2b8-48e8-8be0-656d9e3978cb
+
+Jon Gjengset
+https://thesquareplanet.com/
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+ChatGGG
+https://tannal.github.io/
+
+Tip 6: Uploading artifacts in a GitHub Actions workflow - YouTube
+https://www.youtube.com/watch?v=eeXquypcZxM
+
+actions/upload-artifact
+https://github.com/actions/upload-artifact
+
+actions/setup-go: Set up your GitHub Actions workflow with a specific version of Go
+https://github.com/actions/setup-go
+
+ChatGGG
+https://tannal.github.io/
+
+actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/actions/setup-node
+
+Netlify Actions · Actions · GitHub Marketplace
+https://github.com/marketplace/actions/netlify-actions
+
+骁龙 8s Gen 3 处理器提前曝光：3.01GHz X4 超大核，支持生成式 AI - IT之家
+https://www.ithome.com/0/756/357.htm
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ChatGGG
+https://tannal.github.io/
+
+facebook/react: The library for web and native user interfaces.
+https://github.com/facebook/react
+
+分布式系列---- 分布式存储
+https://kingjcy.github.io/post/distributed/store/store/
+
+192.168.43.246:8080/FrontendMasters - CSS Projects/audio30.wav
+http://192.168.43.246:8080/FrontendMasters%20-%20CSS%20Projects/audio30.wav
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+Technologies | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/technologies/
+
+Japanese React To Controversial Miss Japan Winner | Street Interview - YouTube
+https://www.youtube.com/watch?v=uzezGnAbKMs&list=PLqXeWt98fEwrvKiIwsqVBOxMdwRMl2gy1&index=6
+
+Issues · ytdl-org/youtube-dl
+https://github.com/ytdl-org/youtube-dl/issues?q=is%3Aissue+is%3Aopen+uploader+id
+
+youtube-dl: Supported sites
+https://ytdl-org.github.io/youtube-dl/supportedsites.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+youtube watch url download github - Google 搜索
+https://www.google.com/search?q=youtube+watch+url+download+github&rlz=1C1GCEA_enJP1090JP1090&oq=youtube+watch+url+download+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIGCAEQRRhA0gEINjQ3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+开源而强大的视频下载工具——youtube-dl - 少数派
+https://sspai.com/post/42409
+
+YouTube 1080p Video Downloader
+https://downloaderto.com/engf/
+
+Install FFmpeg with winget - winstall
+https://winstall.app/apps/Gyan.FFmpeg
+
+base q 5 language whisper - Google 搜索
+https://www.google.com/search?q=base+q+5+language+whisper&rlz=1C1GCEA_enJP1090JP1090&oq=base+q+5+language+whisper&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAHSAQg3ODI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Incorrect Transcription Language Output When Specifying Japanese Audio Input · Issue #1935 · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/issues/1935
+
+OpenAI
+https://github.com/openai
+
+ggerganov (Georgi Gerganov)
+https://github.com/ggerganov
+
+Excalidraw
+https://excalidraw.com/
+
+video compress github - Google 搜索
+https://www.google.com/search?q=video+compress+github&sca_esv=289933ce561edd87&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn094QhawSWXo52Axak5BhcyfIr94Ag%3A1710751858085&ei=cgD4ZdjTBIzhseMPofaOyAY&ved=0ahUKEwjY1LKmt_2EAxWMcGwGHSG7A2kQ4dUDCBA&uact=5&oq=video+compress+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXZpZGVvIGNvbXByZXNzIGdpdGh1YjIIEAAYgAQYywEyBhAAGAUYHkiUB1AAWKMGcAB4AZABAJgB-QGgAcgJqgEFMC41LjK4AQPIAQD4AQGYAgegAtcJwgIKEAAYgAQYywEYCsICBBAAGB7CAgYQABgIGB7CAggQABgIGB4YCsICChAAGAgYHhgPGAqYAwCSBwUwLjUuMqAHyBE&sclient=gws-wiz-serp
+
+Repositories
+https://github.com/orgs/openai/repositories?page=3
+
+openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+https://github.com/openai/whisper
+
+openai/glide-text2im: GLIDE: a diffusion-based text-conditional image synthesis model
+https://github.com/openai/glide-text2im
+
+gstreamer convert mp3 to wav - Stack Overflow
+https://stackoverflow.com/questions/54659726/gstreamer-convert-mp3-to-wav
+
+microsoft pcm - Google 搜索
+https://www.google.com/search?q=microsoft+pcm&rlz=1C1GCEA_enJP1090JP1090&oq=microsoft+pcm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEEUYPNIBCDEwOTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Etnaviv
+https://github.com/etnaviv
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+Always use [closed, open) intervals | Hacker News
+https://news.ycombinator.com/item?id=33701687
+
+Do you want your children to be like you? A programmer's perspective
+https://fhur.me/posts/2023/do-you-want-your-children-to-be-like-you
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=computer%20faster&sort=byPopularity&type=story
+
+Is computer still get faster as of 2024?
+https://www.phind.com/search?cache=otsv11nzlo8dqnqulyuzlquj
+
+tannal.github.io/content/test.md
+https://tannal.github.io/content/test.md
+
+11ty/eleventy: A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+https://github.com/11ty/eleventy
+
+gomarkdown/markdown: markdown parser and HTML renderer for Go
+https://github.com/gomarkdown/markdown
+
+react router uselocation - Google 搜索
+https://www.google.com/search?q=react+router+uselocation&sca_esv=ae73e0ff17a1c496&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-8p7VzILGt-Tig_UYyI8f7GOTyxQ%3A1710760881046&ei=sSP4ZdXDAtu9juMPye21wAI&oq=react+router+use&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHJlYWN0IHJvdXRlciB1c2UqAggEMgoQIxiABBiKBRgnMgoQIxiABBiKBRgnMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI7i9Q0QRYiRtwBXgAkAEAmAGKAaABogeqAQMwLje4AQPIAQD4AQGYAgugAr8GwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIEEAAYHpgDAIgGAZAGCpIHAzUuNqAHnSU&sclient=gws-wiz-serp
+
+pages build and deployment · tannal/tannal.github.io@358c6fa
+https://github.com/tannal/tannal.github.io/actions/runs/8325985268/job/22780744866
+
+Page not found · GitHub Pages
+https://tannal.github.io/content/test.md
+
+rust-embedded/rust-raspberrypi-OS-tutorials: :books: Learn to write an embedded OS in Rust :crab:
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGGG
+http://localhost:8082/markdown/
+
+Minified React error #31 – React
+https://react.dev/errors/31?invariant=31&args%5B%5D=%5Bobject%20Promise%5D
+
+v8.dev/src/docs/build.md at main · v8/v8.dev
+https://github.com/v8/v8.dev/blob/main/src/docs/build.md
+
+About GitHub Pages - GitHub Docs
+https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+
+tannal.github.io/test
+https://tannal.github.io/test
+
+jekyll - Pushed .nojekyll file to Github pages, no effect? - Stack Overflow
+https://stackoverflow.com/questions/47356997/pushed-nojekyll-file-to-github-pages-no-effect
+
 desk.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
