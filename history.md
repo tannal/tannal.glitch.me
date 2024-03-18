@@ -1,3 +1,126 @@
+# 2024-3-19
+
+go-lang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+搜索会话
+https://groups.google.com/g/golang-dev/search?q=html%20template
+
+Go Playground - The Go Programming Language
+https://go.dev/play/p/DmLsNukWiL
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Log in | Netlify
+https://app.netlify.com/login
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGGG
+http://localhost:8082/markdown/
+
+The Go Programming Language
+https://go.dev/
+
+慕课网
+https://class.m.imooc.com/sale/embedded
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+修复麦克风问题 - Microsoft 支持
+https://support.microsoft.com/zh-cn/windows/%E4%BF%AE%E5%A4%8D%E9%BA%A6%E5%85%8B%E9%A3%8E%E9%97%AE%E9%A2%98-5f230348-106d-bfa4-1db5-336f35576011
+
+Rendering backend for GTK - Platform - GNOME Discourse
+https://discourse.gnome.org/t/rendering-backend-for-gtk/10614
+
+jpbruyere/vkvg: Vulkan 2D graphics library
+https://github.com/jpbruyere/vkvg
+
+ebassi/graphene: A thin layer of graphic data types
+https://github.com/ebassi/graphene
+
+ChatGPT
+https://chat.openai.com/c/107f4526-2986-4d21-8d02-bc910d8e89a5
+
+linux - What is the difference between OpenGL and XRender in KDE Desktop Effects? - Stack Overflow
+https://stackoverflow.com/questions/22318322/what-is-the-difference-between-opengl-and-xrender-in-kde-desktop-effects
+
+lib pango - Google 搜索
+https://www.google.com/search?q=lib+pango&rlz=1C1GCEA_enJP1090JP1090&oq=lib+pango&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINTE3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+libepoxy - Google 搜索
+https://www.google.com/search?q=libepoxy&rlz=1C1GCEA_enJP1090JP1090&oq=libepoxy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGA8YHtIBCDI1OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+libxdamage - Google 搜索
+https://www.google.com/search?sca_esv=a32461fe05b6239e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09F4Qm1PyBPlu5nDMlhirIuhjHxPQ:1710770468140&q=libxdamage&spell=1&sa=X&ved=2ahUKEwitva7Q_P2EAxXu9zgGHQNODFUQBSgAegQIBxAC&biw=1536&bih=703&dpr=1.25
+
+lib xcb render - Google 搜索
+https://www.google.com/search?q=lib+xcb+render&rlz=1C1GCEA_enJP1090JP1090&oq=lib+xcb+render&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMjY3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+libgstvideo-1.0 - Google 搜索
+https://www.google.com/search?q=libgstvideo-1.0&rlz=1C1GCEA_enJP1090JP1090&oq=libgst+video&gs_lcrp=EgZjaHJvbWUqCAgCEAAYDBgeMgYIABBFGDkyCAgBEAAYDBgeMggIAhAAGAwYHjIICAMQABgMGB4yCAgEEAAYDBgeMggIBRAAGAwYHjIKCAYQABgMGA8YHjIKCAcQABgMGA8YHjIKCAgQABgMGA8YHjIKCAkQABgMGA8YHtIBCDYzMTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Environment Variables — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/envvars.html
+
+linux - How to set environment variable within GDB using shell command? - Stack Overflow
+https://stackoverflow.com/questions/55593045/how-to-set-environment-variable-within-gdb-using-shell-command
+
+src/mesa/main/bufferobj.c · main · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/src/mesa/main/bufferobj.c?ref_type=heads
+
+Getting Started - Docs - Blend2D
+https://blend2d.com/doc/getting-started.html
+
+Issues · blend2d/blend2d
+https://github.com/blend2d/blend2d/issues?q=is%3Aissue+cmake+is%3Aclosed
+
+blend2d/blend2d: 2D Vector Graphics Engine Powered by a JIT Compiler
+https://github.com/blend2d/blend2d
+
+AsmJit - Google 搜索
+https://www.google.com/search?q=AsmJit&rlz=1C1GCEA_enJP1090JP1090&oq=AsmJit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+谈谈AsmJit - _懒人 - 博客园
+https://www.cnblogs.com/lanrenxinxin/p/5021641.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Ubuntu – 在 focal 中的 firefox-dbg 软件包详细信息
+https://packages.ubuntu.com/focal/firefox-dbg
+
+ubuntu debug symbol 安装 - Google 搜索
+https://www.google.com/search?q=ubuntu+debug+symbol+%E5%AE%89%E8%A3%85&rlz=1C1GCEA_enJP1090JP1090&oq=ubuntu+debug+symbol+%E5%AE%89%E8%A3%85&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB7SAQg1MzIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+shared library - Why does libm-2.x.so not install on 22.04 with `build-essential`? - Ask Ubuntu
+https://askubuntu.com/questions/1468316/why-does-libm-2-x-so-not-install-on-22-04-with-build-essential
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+CMake Error：check_source_compiles: CXX: needs to be enabled before use.已解决-CSDN博客
+https://blog.csdn.net/Taylor_0522/article/details/135928115
+
+tannal (tannal)
+https://github.com/tannal/
+
+百度一下，你就知道
+https://www.baidu.com/
+
+Recursive fs.watch crashes on Linux when deleting files · Issue #52018 · nodejs/node
+https://github.com/nodejs/node/issues/52018
+
+`Error: ENOENT: no such file or directory, stat '/path/to/repo/.git/index.lock'` · Issue #1588 · FredrikNoren/ungit
+https://github.com/FredrikNoren/ungit/issues/1588
+
+#Outreachy > Intermittent Dashboard Project - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Intermittent.20Dashboard.20Project
+
+
 # 2024-3-18
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
