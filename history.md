@@ -1,5 +1,86 @@
 # 2024-3-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+manim/example_scenes.py at master · 3b1b/manim
+https://github.com/3b1b/manim/blob/master/example_scenes.py
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+esbuild - FAQ
+https://esbuild.github.io/faq/#minified-newlines
+
+pyglet.gl.ContextException: Could not create GL context · Issue #13 · mmatl/pyrender
+https://github.com/mmatl/pyrender/issues/13
+
+enable mesa - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=enable+mesa+
+
+Compiling and Installing — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/install.html
+
+postgres/src/backend/executor/nodeSeqscan.c at master · postgres/postgres
+https://github.com/postgres/postgres/blob/master/src/backend/executor/nodeSeqscan.c
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+When using bcc to trace, it displays function name as unknown. · Issue #3239 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/3239
+
+install libc debug symbols - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=install+libc+debug+symbols#ip=1
+
+Debug Symbol Packages - Ubuntu Wiki
+https://wiki.ubuntu.com/Debug%20Symbol%20Packages
+
+libmozsqlite3 debug symbol - Google 検索
+https://www.google.com/search?q=libmozsqlite3+debug+symbol&client=ubuntu-sn&hs=FFr&sca_esv=c28699f547d6c027&channel=fs&ei=9O33ZZHECb-O2roP4qOCgAc&ved=0ahUKEwiRjovVpf2EAxU_h1YBHeKRAHAQ4dUDCBA&uact=5&oq=libmozsqlite3+debug+symbol&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmxpYm1venNxbGl0ZTMgZGVidWcgc3ltYm9sMgQQIRgVSKkZUKYDWOQXcAF4AJABAJgB2wGgAbUUqgEFMC43Lja4AQPIAQD4AQGYAg6gAoQVwgINEAAYBxgeGA8YsAMYCsICChAAGAUYHhgPGArCAgcQIRgKGKABwgIIEAAYgAQYogSYAwCIBgGQBgGSBwUxLjQuOaAH7Bs&sclient=gws-wiz-serp#ip=1
+
+905646 - Enable -gsplit-dwarf by default on local builds.
+https://bugzilla.mozilla.org/show_bug.cgi?id=905646
+
+Intent to ship: navigator.clipboard.readText()
+https://groups.google.com/a/mozilla.org/g/dev-platform/c/flwThuV-_nE
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+Getting Started - Docs - Blend2D
+https://blend2d.com/doc/getting-started.html
+
+Build Instructions - Docs - Blend2D
+https://blend2d.com/doc/build-instructions.html
+
+Sean's TechLab
+https://seanfeng.dev/
+
+Sean's TechLab | 在Linux下使用rr来debug C/C++程序
+https://seanfeng.dev/tech/cn/debug_rr
+
+Sean's TechLab | 一个浏览器工程师实现Web元素的经历
+https://seanfeng.dev/tech/cn/web_dialog
+
+sefeng211 (Sean Feng)
+https://github.com/sefeng211
+
+写代码的土豆的个人空间-写代码的土豆个人主页-哔哩哔哩视频
+https://space.bilibili.com/2901493
+
+Sean's TechLab | About Index
+https://seanfeng.dev/about
+
+Sean's TechLab | 一个浏览器工程师实现Web元素的经历
+https://seanfeng.dev/tech/cn/web_dialog
+
+Edgar Chen mozilla - Google Search
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Edgar+Chen+mozilla
+
+EdgarChen (Edgar Chen)
+https://github.com/EdgarChen
+
 go-lang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

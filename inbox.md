@@ -1,5 +1,10 @@
 # 2024-3-19 0 | 0 W
 
+git clone https://github.com/asmjit/asmjit
+git clone https://github.com/blend2d/blend2d
+
+export LIBGL_ALWAYS_SOFTWARE=1
+python gdb.execute("set environment LIBGL_ALWAYS_SOFTWARE=true")
 
 
 # 2024-3-18 0 | 0 W
