@@ -3,6 +3,129 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+#general > Servo and Spidermonkey report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20and.20Spidermonkey.20report
+
+Define garbage collection rooting APIs by fitzgen · Pull Request #8011 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8011
+
+Eagerly cast pointers in aarch64 relocation code to `usize` to avoid `unsafe` blocks in cranelift-jit · Issue #7588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/7588
+
+Search results - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/search/just.20in.20time
+
+Contributing - Wasmtime
+https://docs.wasmtime.dev/contributing.html
+
+wiggle: anonymous struct members · Issue #2055 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/2055
+
+cranelift: ISLE wrapper for constructing constants · Issue #6038 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/6038
+
+#cranelift > Google Summer of Code 2024 - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Google.20Summer.20of.20Code.202024
+
+Rust participates in Google Summer of Code 2024 | Rust Blog
+https://blog.rust-lang.org/2024/02/21/Rust-participates-in-GSoC-2024.html
+
+linearscan.pdf
+https://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf
+
+#cranelift - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift
+
+Firefox Profiler
+https://profiler.firefox.com/
+
+trevor elliott
+https://elliottt.github.io/
+
+Update for removal of externref from C API by alexcrichton · Pull Request #48 · bytecodealliance/wasmtime-cpp
+https://github.com/bytecodealliance/wasmtime-cpp/pull/48/files
+
+fitzgen (Nick Fitzgerald)
+https://github.com/fitzgen
+
+Garbage Collection Without Unsafe Code
+https://fitzgeraldnick.com/2024/02/06/safe-gc.html
+
+safe-gc/src/lib.rs at bca663f7b1c5d07f81958de9b7f57ee3669c0733 · fitzgen/safe-gc
+https://github.com/fitzgen/safe-gc/blob/bca663f7b1c5d07f81958de9b7f57ee3669c0733/src/lib.rs#L551
+
+A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness
+https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+
+Better api for crypto · Issue #52131 · nodejs/node
+https://github.com/nodejs/node/issues/52131
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webassembly%20garbage%20collection&sort=byPopularity&type=story
+
+ChatGGG
+http://localhost:8080/quill.html
+
+Wasm By Example
+https://wasmbyexample.dev/home.en-us.html
+
+torch2424/wasm-by-example: Wasm By Example is a website with a set of hands-on introduction examples and tutorials for WebAssembly (Wasm)
+https://github.com/torch2424/wasm-by-example
+
+Installation | reveal.js
+https://revealjs.com/installation/#basic-setup
+
+reveal.js - npm
+https://www.npmjs.com/package/reveal.js?activeTab=readme
+
+esm.sh/reveal.js@5.0.5
+https://esm.sh/reveal.js@5.0.5
+
+ChatGGG
+http://localhost:8080/
+
+Initialization | reveal.js
+https://revealjs.com/initialization/
+
+roife (@roifex) / X
+https://twitter.com/roifex
+
+ChatGGG
+http://localhost:8080/quill.html
+
+vue-quill-editor 富文本 焦点问题 滚动条自动跳转_前端使用quill总是会滚到富文本上-CSDN博客
+https://blog.csdn.net/qq_36571506/article/details/103584083
+
+富文本编辑器 Quill 入坑指南 - 知乎
+https://zhuanlan.zhihu.com/p/539890461
+
+y-websocket/src/y-websocket.js at master · yjs/y-websocket
+https://github.com/yjs/y-websocket/blob/master/src/y-websocket.js
+
+zabbix - Google 搜索
+https://www.google.com/search?q=zabbix&rlz=1C1GCEA_enJP1090JP1090&oq=zabbix&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/cbfe2065-4709-4c7a-8d13-4d72124c2482
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tiptap&sort=byPopularity&type=story
+
+Issues · ueberdosis/tiptap
+https://github.com/ueberdosis/tiptap/issues?page=2&q=is%3Aissue+is%3Aopen
+
+(1) We need 4 to 5 H100 GPUs to run the whole thing, Imao!!! · Issue #36 · xai-org/grok-1
+https://github.com/xai-org/grok-1/issues/36
+
+H100 Tensor Core GPU | NVIDIA
+https://www.nvidia.com/en-us/data-center/h100/
+
+[RFC] use CRDT for collaboration · Issue #3537 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues/3537
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
 https://15445.courses.cs.cmu.edu/fall2023/schedule.html
 
