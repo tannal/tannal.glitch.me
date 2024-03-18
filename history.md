@@ -1,5 +1,59 @@
 # 2024-3-18
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+6.824 Schedule: Spring 2021
+http://nil.csail.mit.edu/6.824/2021/schedule.html
+
+Lecture 2: RPC and Threads - YouTube
+https://www.youtube.com/watch?v=oZR76REwSyA
+
+#Outreachy > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Build.20Issues
+
+src/screenshot-backend-x11.c · master · GNOME / GNOME Screenshot · GitLab
+https://gitlab.gnome.org/GNOME/gnome-screenshot/-/blob/master/src/screenshot-backend-x11.c?ref_type=heads
+
+take a screenshot ubuntu - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=take+a+screenshot+ubuntu
+
+android - "Reanimated 2 failed to create a worklet, maybe you forgot to add Reanimated's babel plugin?" - Stack Overflow
+https://stackoverflow.com/questions/67130651/reanimated-2-failed-to-create-a-worklet-maybe-you-forgot-to-add-reanimateds-b
+
+Android Frequently Asked Questions - Stack Overflow
+https://stackoverflow.com/collectives/mobile-dev/collections/77232117/android-frequently-asked-questions
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+How to check for Wayland or Xorg (X11) Linux desktop - nixCraft
+https://www.cyberciti.biz/faq/howto-check-for-wayland-or-x11-with-my-linux-desktop/
+
+1606.07792.pdf
+https://arxiv.org/pdf/1606.07792.pdf
+
+Search | arXiv e-print repository
+https://arxiv.org/search/?query=context+ai&searchtype=all&source=header
+
+Issues · huggingface/peft
+https://github.com/huggingface/peft/issues
+
+58学课 - 每天成长一点点，要比别人快一步-58学课-每天成长一点点，要比别人快一步
+https://xueke58.com/
+
+人工智能 Archives - 58学课-58学课
+https://xueke58.com/rengongzhineng
+
+Adding TCP_USER_TIMEOUT to "net" · Issue #52048 · nodejs/node
+https://github.com/nodejs/node/issues/52048
+
+hertzg/node-net-keepalive: Provides high-level access to socket options like TCP_KEEPINTVL, TCP_KEEPCNT and TCP_USER_TIMEOUT for node js.
+https://github.com/hertzg/node-net-keepalive
+
+gif - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gif#ip=1
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
