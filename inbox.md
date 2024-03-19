@@ -1,5 +1,19 @@
 # 2024-3-19 0 | 0 W
 
+sudo stackcount-bpfcc -i 2 -p 27776 --debug "sock*"
+
+
+sudo tcpdump -i any udp port 1935
+sudo tcpdump -i any tcp port 1935
+
+
+git clone https://github.com/ossrs/srs.git
+
+cd trunk
+sudo apt install automake
+./configure && make -j4
+
+./objs/srs -c conf/srs.conf
 
 not doing wrong
 
