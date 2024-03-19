@@ -1,6 +1,11 @@
 
 # inbox
 
+[2024-03-19T11:47:14Z DEBUG script::dom::htmlscriptelement] script type=
+
+RUST_LOG="debug" ./mach run -d -- http://192.168.43.1:8080/quill.html -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+
 servo
 
 impl CompositorReceiver {

@@ -1,5 +1,62 @@
 # 2024-3-19
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Search Conversations
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=--trace
+
+<script type="importmap"> - HTML: ハイパーテキストマークアップ言語 | MDN
+https://developer.mozilla.org/ja/docs/Web/HTML/Element/script/type/importmap
+
+Commit search results
+https://github.com/search?q=org%3Achromium+%22%5BImport+Maps%5D%22&type=commits
+
+[Import Maps] Introduce ImportMaps runtime feature · chromium/chromium@92e2c7b
+https://github.com/chromium/chromium/commit/92e2c7b92e7e6dded140032e5899848d3dec011c
+
+[Import Maps] Fix ImportMap::ToString() · chromium/chromium@c2dcd15
+https://github.com/chromium/chromium/commit/c2dcd15cb65a2a35dd1031321ee83d9bf06c0402
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/scripting.html#execute-the-script-block
+
+External import maps support · Issue #235 · WICG/import-maps
+https://github.com/WICG/import-maps/issues/235
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#import-maps
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#import-maps
+
+Import maps: support merging of multiple import maps [40611854] - Chromium
+https://issues.chromium.org/issues/40611854
+
+927119 - Import maps: support merging of multiple import maps - chromium
+https://bugs.chromium.org/p/chromium/issues/detail?id=927119&no_tracker_redirect=1
+
+Import maps: support merging of multiple import maps [40611854] - Chromium
+https://issues.chromium.org/issues/40611854
+
+WICG/import-maps: How to control the behavior of JavaScript imports
+https://github.com/WICG/import-maps/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Hiroshige Hayashizaki google - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+Hiroshige+Hayashizaki+google#ip=1
+
+BlinkOn 6 Day 1 Talk 7: Lightning Talks  |  Chrome, Web Dev Libraries, and Guides - Google for Developers
+https://developers.google.com/web/shows/blinkon/6/blinkon-6-day-1-talk-7-lightning-talks
+
+Controlling script streaming with ScriptResource - Google Docs
+https://docs.google.com/document/d/143GOPl_XVgLPFfO-31b_MdBcnjklLEX2OIg_6eN6fQ4/edit#heading=h.ly1a20mizxey
+
+Typed trace events in //base - Google Docs
+https://docs.google.com/document/d/1UQ4Ez7B-TeowijOUuMXuoWj1amZcQ7E2abt3s4jaAEY/edit#heading=h.jkzl3mb2kwbo
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
