@@ -1,5 +1,41 @@
 # 2024-3-19 0 | 0 W
 
+browsers desktop mobile edge
+servers
+
+traditional systems operating systems database systems ml sys distributed systems
+multimedia audio video 
+graphics rendering games
+docs
+llm
+Programming languages js engine jvm cpython ruby luajit C# .NET go rust llvm
+embedded mobile edge
+security
+
+wget https://developer.nvidia.com/downloads/compute/machine-learning/tensorrt/secure/8.6.1/tars/TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz
+
+tar xvf TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz
+
+sudo apt update && sudo apt install -y cmake g++ wget unzip
+ 
+wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip
+unzip opencv.zip
+ 
+cmake -B build
+cmake --build build -j15
+cmake --install build
+
+
+cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
+export https_proxy=http://10.90.39.224:7890
+export http_proxy=http://10.90.39.224:7890
+
+./main -m models/ggml-large-v3.bin -f jeff.wav
+
+ffmpeg -i  -vn -ar 16000 -ac 2 -ab 160k jeff.wav
+
 在没看到大体方向之前，对于一句话任意的过度解读都可能是错的。
 
 git clone https://github.com/asmjit/asmjit

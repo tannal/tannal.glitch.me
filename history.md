@@ -1,5 +1,92 @@
 # 2024-3-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+YouTube 1080p Video Downloader(5)
+https://downloaderto.com/engf/
+
+Jeff Dean: Trends in Machine Learning [video] | Hacker News
+https://news.ycombinator.com/item?id=39435320
+
+Jeff Dean (Google): Exciting Trends in Machine Learning - YouTube
+https://www.youtube.com/watch?v=oSCRZkSQ1CE
+
+Submissions from youtube.com | Hacker News
+https://news.ycombinator.com/from?site=youtube.com
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+dom: Abort media element load on decode errors by frereit · Pull Request #31748 · servo/servo
+https://github.com/servo/servo/pull/31748
+
+Use thread pool to decode image by eerii · Pull Request #31517 · servo/servo
+https://github.com/servo/servo/pull/31517/files
+
+两元店
+https://liangyuandian.xyz/#/plan
+
+FSCloud
+https://web.fscloud.cc/#/node
+
+imagenet - Google 搜索
+https://www.google.com/search?q=imagenet&rlz=1C1GCEA_enJP1090JP1090&oq=image&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEINjYyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tokio File Transfer
+https://chat.openai.com/c/6918cdaa-a2b8-48e8-8be0-656d9e3978cb
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+Is it possible to build yolov8 with GGML? · ultralytics · Discussion #7257
+https://github.com/orgs/ultralytics/discussions/7257
+
+YOLOv8 ggml - Google 搜索
+https://www.google.com/search?q=YOLOv8+ggml&rlz=1C1GCEA_enJP1090JP1090&oq=YOLOv8+ggml&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMTAzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+[P] CPP Implementation of YoloV8 using TensorRT : r/MachineLearning
+https://www.reddit.com/r/MachineLearning/comments/13zho35/p_cpp_implementation_of_yolov8_using_tensorrt/
+
+cyrusbehr/YOLOv8-TensorRT-CPP: YOLOv8 TensorRT C++ Implementation
+https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP
+
+tensorrt-cpp-api/scripts/build_opencv.sh at ec6a7529a792b2a9b1ab466f2d0e2da5df47543d · cyrusbehr/tensorrt-cpp-api
+https://github.com/cyrusbehr/tensorrt-cpp-api/blob/ec6a7529a792b2a9b1ab466f2d0e2da5df47543d/scripts/build_opencv.sh
+
+Get Started - OpenCV
+https://opencv.org/get-started/
+
+OpenCV: Installation in Linux
+https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html
+
+opencv/modules/core/src/matmul.simd.hpp at 0c6fc763f4f9b72ab2b45a72afbb552c0d0bf324 · opencv/opencv
+https://github.com/opencv/opencv/blob/0c6fc763f4f9b72ab2b45a72afbb552c0d0bf324/modules/core/src/matmul.simd.hpp
+
+NVIDIA TensorRT Download | NVIDIA Developer
+https://developer.nvidia.com/tensorrt-download
+
+NVIDIA TensorRT 8.x Download | NVIDIA Developer
+https://developer.nvidia.com/nvidia-tensorrt-8x-download
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ossrs/srs: SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+https://github.com/ossrs/srs
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
