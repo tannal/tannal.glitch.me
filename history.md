@@ -1,5 +1,95 @@
 # 2024-3-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Job Application for Backend Software Engineer at Enveritas
+https://boards.greenhouse.io/enveritas/jobs/4006514008?t=8f9104048us
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+sync directory between multiple machines - Google 搜索
+https://www.google.com/search?q=sync+directory+between+multiple+machines&rlz=1C1GCEA_enJP1090JP1090&oq=sync+directory+between+multiple+machines&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+hpcaitech/Open-Sora: Open-Sora: Democratizing Efficient Video Production for All
+https://github.com/hpcaitech/Open-Sora
+
+linux - How do I delete an exported environment variable? - Stack Overflow
+https://stackoverflow.com/questions/6877727/how-do-i-delete-an-exported-environment-variable
+
+www.google.com
+https://www.google.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BEh800&sca_esv=074560fb4084e5a7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09KPNzpD9gV4SIlvjyARtYACZ4Ijw%3A1710828253936&ei=3Sr5ZfTdOM-HjuMP1ZuBgAE&oq=H800&gs_lp=Egxnd3Mtd2l6LXNlcnAiBEg4MDAqAggAMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSJ4LUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgiYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+远程工作 - Google 搜索
+https://www.google.com/search?q=%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE4MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+最合适寻找远程工作的10个网站 - 知乎
+https://zhuanlan.zhihu.com/p/58888628
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//stackoverflow.com/jobs
+
+Artificial Intelligence Jobs | Upwork™
+https://www.upwork.com/freelance-jobs/artificial-intelligence/
+
+Ask HN: Where to Search for Remote Jobs? | Hacker News
+https://news.ycombinator.com/item?id=23700587
+
+Ask HN: Who is hiring? (March 2024) | Hacker News
+https://news.ycombinator.com/item?id=39562986
+
+Careers | Supabase
+https://supabase.com/careers#positions
+
+Fingerprint Careers - Join Our 100% Remote Team
+https://fingerprint.com/careers/jobs/apply/?gh_jid=5011826004&gh_src=1bdd5b474us
+
+fingerprintjs/fingerprintjs: Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+https://github.com/fingerprintjs/fingerprintjs
+
+FingerprintJS Demo
+https://fingerprintjs.github.io/fingerprintjs/
+
+Fingerprint Careers - Join Our 100% Remote Team
+https://fingerprint.com/careers/jobs/apply/?gh_jid=5130993004&gh_src=2d5d99024us
+
+Job Application for Backend Software Engineer at Enveritas
+https://boards.greenhouse.io/enveritas/jobs/4006514008?t=8f9104048us
+
+Jobs and Developer Story - Stack Overflow
+https://stackoverflow.com/jobs
+
+Remote Jobs in Programming, Design, Sales and more #OpenSalaries
+https://remoteok.com/
+
+Elixir Jobs - Find your next job the right way
+https://elixirjobs.net/
+
+We Work Remotely: Remote jobs in design, programming, marketing and more
+https://weworkremotely.com/
+
+All Jobs From Hacker News 'Who is Hiring?' Posts | HNHIRING
+https://hnhiring.com/
+
+900+ Startups Hiring Remotely in 2024 - by Remotive.com - Google 表格
+https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=1279011369
+
+Unlock 30,000+ remote jobs!
+https://remotive.com/accelerator
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=freelancer%20jobs%20work%20from%20home&sort=byPopularity&type=story
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
