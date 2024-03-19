@@ -1,5 +1,35 @@
 # 2024-3-19
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+stackdount ebpf unknown - Google 検索
+https://www.google.com/search?q=stackdount+ebpf+unknown&client=ubuntu-sn&hs=OJU&sca_esv=94e5231ad7b8805c&channel=fs&ei=68v3Zdy5HJal2roPjoKxoAE&ved=0ahUKEwic28aahf2EAxWWklYBHQ5BDBQQ4dUDCBA&uact=5&oq=stackdount+ebpf+unknown&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3N0YWNrZG91bnQgZWJwZiB1bmtub3duMggQABiABBiiBEjWEFCSB1iYD3ACeACQAQKYAcoDoAHnDKoBCTAuMS4zLjEuMbgBA8gBAPgBAZgCAaACiAKYAwCIBgGSBwMyLTGgB4kK&sclient=gws-wiz-serp
+
+User stack symbols not getting resolved. · Issue #1694 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/1694
+
+trace.py can't output full user stack trace · Issue #3515 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/3515
+
+DWARF stack walks and fast symbolization for BPF
+https://dxuuu.xyz/stack-symbolize.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+debugging - How to get the symbol name for a memory address in GDB? - Stack Overflow
+https://stackoverflow.com/questions/762628/how-to-get-the-symbol-name-for-a-memory-address-in-gdb
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
