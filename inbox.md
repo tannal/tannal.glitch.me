@@ -1,5 +1,7 @@
 # 2024-3-19 0 | 0 W
 
+在没看到大体方向之前，对于一句话任意的过度解读都可能是错的。
+
 git clone https://github.com/asmjit/asmjit
 git clone https://github.com/blend2d/blend2d
 

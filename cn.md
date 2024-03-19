@@ -1,4 +1,7 @@
 
+https://www.zhihu.com/people/abcdabcd987
+
+https://www.zhihu.com/people/tian-yuan-dong
 
 AIGC https://www.zhihu.com/people/xiaohuzc
 

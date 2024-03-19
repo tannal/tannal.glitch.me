@@ -1,5 +1,62 @@
 # 2024-3-19
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Cross-component garbage collection | 10.1145/3276521_Scihub
+https://www.bothonce.com/10.1145/3276521
+
+(3 封私信 / 15 条消息) 圆角骑士魔理沙 - 知乎
+https://www.zhihu.com/people/marisa.moe/answers?page=2
+
+(3 封私信 / 17 条消息) 如何评价编译器技术「前端不过是小打小闹，后端才是真正的难」这一观点？ - 知乎
+https://www.zhihu.com/question/429304366
+
+(3 封私信 / 15 条消息) 据报道称“浏览器内核有上千万行代码”，浏览器内核真的很复杂吗？ - 知乎
+https://www.zhihu.com/question/290767285
+
+Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator
+https://arxiv.org/pdf/1803.10228.pdf
+
+Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator · Issue #10 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/10
+
+Cross-component garbage collection | Proceedings of the ACM on Programming Languages
+https://dl.acm.org/doi/10.1145/3276521
+
+swiftshader mesa - Google 搜索
+https://www.google.com/search?q=swiftshader+mesa&sca_esv=5471e4d8c457d32d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn090QN2CU5gAvs_CYQ5znnPfrLHWxQ%3A1710805072589&ei=UND4ZdXRI9Wy4-EP2paeuAQ&ved=0ahUKEwjVuYbF_f6EAxVV2TgGHVqLB0cQ4dUDCBA&uact=5&oq=swiftshader+mesa&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHN3aWZ0c2hhZGVyIG1lc2EyBhAAGAgYHkjBCFAYWJMHcAF4AZABAZgBgQOgAfgHqgEHMC4xLjIuMbgBA8gBAPgBAZgCBKAC_wTCAgoQABhHGNYEGLADwgIIEAAYgAQYywGYAwCIBgGQBgaSBwUxLjEuMqAHxAc&sclient=gws-wiz-serp
+
+Idle Time Garbage Collection Scheduling
+https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45361.pdf
+
+dblp: Search for "Ulan Degenbaev"
+https://dblp.org/search?q=Ulan+Degenbaev
+
+陈乐群 (Lequn Chen)
+https://abcdabcd987.com/about/
+
+CSE 550 - Systems for All
+https://courses.cs.washington.edu/courses/cse550/22au/
+
+CSE550.Mesa.pdf
+https://courses.cs.washington.edu/courses/cse550/22au/papers/CSE550.Mesa.pdf
+
+(3 封私信 / 17 条消息) 陈乐群 - 知乎
+https://www.zhihu.com/people/abcdabcd987
+
+(3 封私信 / 17 条消息) 田渊栋 - 知乎
+https://www.zhihu.com/people/tian-yuan-dong/posts
+
+(3 封私信 / 17 条消息) 田渊栋 - 知乎
+https://www.zhihu.com/people/tian-yuan-dong
+
+ChatGPT
+https://chat.openai.com/c/a173718d-6ae7-4dae-b02c-7b3c53008f08
+
+masked language modeling - Google 搜索
+https://www.google.com/search?q=masked+language+modeling&rlz=1C1GCEA_enJP1090JP1090&oq=masked+language+modeling&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
