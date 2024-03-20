@@ -1,3 +1,152 @@
+# 2024-3-20
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=ggerganov&sort=byPopularity&type=story
+
+Llama.cpp 30B runs with only 6GB of RAM now | Hacker News
+https://news.ycombinator.com/item?id=35393284
+
+ggerganov/tweet2doom: Tweet to play Doom
+https://github.com/ggerganov/tweet2doom
+
+ggerganov's comments | Hacker News
+https://news.ycombinator.com/threads?id=ggerganov
+
+Show HN: I made an app to use local AI as daily driver | Hacker News
+https://news.ycombinator.com/item?id=39532367
+
+danswer-ai/danswer: Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+https://github.com/danswer-ai/danswer
+
+khoj-ai/khoj: Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally or have it always accessible on the cloud. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp
+https://github.com/khoj-ai/khoj
+
+khoj-ai/khoj: Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally or have it always accessible on the cloud. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp
+https://github.com/khoj-ai/khoj
+
+RecurseChat
+https://recurse.chat/#local-first
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+haotian-liu/LLaVA: [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+https://github.com/haotian-liu/LLaVA
+
+LLaVA
+https://llava.hliu.cc/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+vscode 行末 - Google 搜索
+https://www.google.com/search?q=vscode+%E8%A1%8C%E6%9C%AB&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+%E8%A1%8C%E6%9C%AB&gs_lcrp=EgZjaHJvbWUyBggAEEUYQDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIICAcQBRgKGCzSAQg4NTYzajBqNKgCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Tokio File Transfer
+https://chat.openai.com/c/6918cdaa-a2b8-48e8-8be0-656d9e3978cb
+
+Gtk – 4.0
+https://docs.gtk.org/gtk4/?q=input#classes
+
+janus multimedia - Google 搜索
+https://www.google.com/search?q=janus+multimedia&sca_esv=5d2091cbd4f7042a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09qnDv2JAnVLhGLPr5ybQ5j7AbHdA%3A1710854125221&ei=7Y_5ZfyPDbmkvr0PwKG_yAg&ved=0ahUKEwi8upWjtICFAxU5kq8BHcDQD4kQ4dUDCBA&uact=5&oq=janus+multimedia&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGphbnVzIG11bHRpbWVkaWEyBBAAGB5IwxxQ_AJY6RtwAXgBkAEAmAHZAaAB4A6qAQUwLjYuNLgBA8gBAPgBAZgCCKAC9grCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAg4QLhiABBjLARjHARjRA8ICCBAuGIAEGMsBwgIOEC4YgAQYywEYxwEYrwHCAgoQABiABBjLARgKwgIIEAAYCBgeGAqYAwCIBgGQBgqSBwUxLjMuNKAHvx0&sclient=gws-wiz-serp
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=grind&op=translate
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+CSS Projects with Jen Kramer - Frontend Masters
+https://projects.css.education/
+
+pointer machine知乎 - Google 搜索
+https://www.google.com/search?q=pointer+machine%E7%9F%A5%E4%B9%8E&sca_esv=07ac767684f655b4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn081Re_EzHOL88aEmA0YaGWSPzVIiw%3A1710856968552&ei=CJv5Zf2qIcXEvr0PgZCkgA8&ved=0ahUKEwj9zvzuvoCFAxVFoq8BHQEICfAQ4dUDCBA&uact=5&oq=pointer+machine%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXBvaW50ZXIgbWFjaGluZeefpeS5jjIHECEYChigAUiZDFC3BViNC3ABeAGQAQCYAYUCoAHLCKoBBTAuMS40uAEDyAEA-AEBmAIFoAKhB8ICChAAGEcY1gQYsAPCAgcQIxiwAhgnwgIGEAAYHhgNwgIIEAAYHhgNGA_CAggQABgFGB4YDcICChAAGAUYHhgNGAqYAwCIBgGQBgGSBwUxLjAuNKAH3A4&sclient=gws-wiz-serp#ip=1
+
+ubuntu 截图快捷键 - Google 搜索
+https://www.google.com/search?q=ubuntu+%E6%88%AA%E5%9B%BE%E5%BF%AB%E6%8D%B7%E9%94%AE&rlz=1C1GCEA_enJP1090JP1090&oq=ubuntu+%E6%88%AA%E5%9B%BE%E5%BF%AB%E6%8D%B7%E9%94%AE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMggIAhAAGAQYHjIICAMQABgEGB4yCggEEAAYBBgIGB4yCggFEAAYBBgIGB4yCggGEAAYBBgIGB7SAQg0ODIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Codecov - The Leading Code Coverage Solution
+https://about.codecov.io/
+
+codec - Google 搜索
+https://www.google.com/search?q=codec&rlz=1C1GCEA_enJP1090JP1090&oq=codec+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgwIAxAAGEMYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPDIGCAcQRRg80gEIMjE4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(3 封私信 / 19 条消息) 显示器可以用蓝牙连接吗？ - 知乎
+https://www.zhihu.com/question/378952408
+
+ausyscall 知乎 - Google 搜索
+https://www.google.com/search?q=ausyscall+%E7%9F%A5%E4%B9%8E&sca_esv=cea3cab0966c3853&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08YPVDe_GjvZ5Yl7KNRpC4X6Lzvwg%3A1710860288492&ei=AKj5ZZe6HceR2roPoZ68sAc&ved=0ahUKEwiXuoWey4CFAxXHiFYBHSEPD3YQ4dUDCBA&uact=5&oq=ausyscall+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGF1c3lzY2FsbCDnn6XkuY4yBRAhGKABSLAOUOsCWI4NcAF4AJABAJgB2AGgAaoJqgEFMC40LjK4AQPIAQD4AQGYAgegArcJwgIJEAAYBxgeGLADwgIIEAAYgAQYsAPCAgcQABgeGLADwgIJEAAYHhgPGLADwgILEAAYHhgPGLADGArCAgQQABgewgIGEAAYHhgPwgIIEAAYHhgPGAqYAwCIBgGQBgqSBwUxLjQuMqAHwAk&sclient=gws-wiz-serp#ip=1
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648#issuecomment-2007941372
+
+servoshell: draft to show a status bar tooltip by sandeepB3 · Pull Request #31751 · servo/servo
+https://github.com/servo/servo/pull/31751
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+gterzian/servo_canvas_2d: Proposal for the future of Servo's 2d canvas
+https://github.com/gterzian/servo_canvas_2d
+
+Use thread pool to decode image by eerii · Pull Request #31517 · servo/servo
+https://github.com/servo/servo/pull/31517#discussion_r1516598262
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+servoshell: make the mouse thumb buttons go back and forward · Issue #31655 · servo/servo
+https://github.com/servo/servo/issues/31655
+
+Use thread pool to decode image by eerii · Pull Request #31517 · servo/servo
+https://github.com/servo/servo/pull/31517
+
+Use thread pool to decode image by eerii · Pull Request #31517 · servo/servo
+https://github.com/servo/servo/pull/31517
+
+Comparing servo:main...tannal:tannal-share_tokio_runtime · servo/servo
+https://github.com/servo/servo/compare/main...tannal:servo:tannal-share_tokio_runtime?expand=1
+
+多人协作pr - Google 搜索
+https://www.google.com/search?q=%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9Cpr&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%A4%9A%E4%BA%BA%E5%8D%8F%E4%BD%9Cpr&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIICAcQABgPGB4yCAgIEAAYBRgeMggICRAAGAUYHtIBCDI2NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648
+
+优雅地修改他人贡献的 Pull Request | Liuyib's Blog
+https://liuyib.github.io/2020/09/19/add-commits-to-others-pr/
+
+How to avoid starvation? Or how to “yield” the current future? · Issue #165 · tokio-rs/tokio-core
+https://github.com/tokio-rs/tokio-core/issues/165
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+websocket+language%3ARust&type=code&l=Rust
+
+tokio starvation - Google 搜索
+https://www.google.com/search?q=tokio+starvation&rlz=1C1GCEA_enJP1090JP1090&oq=tokio&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIOCAEQRRg5GEMYgAQYigUyDAgCECMYJxiABBiKBTIMCAMQLhhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQgxMjA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Task scheduler - Tokio Internals
+https://tony612.github.io/tokio-internals/03_task_scheduler.html
+
+Excalidraw
+https://excalidraw.com/
+
+Code search results
+https://github.com/search?q=repo%3Arust-lang%2Frust%20pub%20trait%20Future&type=code
+
 # 2024-3-19
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

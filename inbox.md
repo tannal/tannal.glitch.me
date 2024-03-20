@@ -1,3 +1,12 @@
+# 2024-3-20 0 | 0 W 
+
+
+pub trait Future
+library/core/src/future/future.rs
+
+
+
+
 # 2024-3-19 0 | 0 W
 
 tree path
