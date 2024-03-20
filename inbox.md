@@ -1,5 +1,18 @@
 # 2024-3-19 0 | 0 W
 
+tree path
+
+Arrays LinkedLists
+
+git clone https://github.com/haotian-liu/LLaVA.git
+export PATH=/root/tannalwork/cpython/python3.11/bin:"$PATH"
+
+virtualenv venv
+source ./venv/bin/activate
+
+pip install -e .
+
+
 sudo stackcount-bpfcc -i 2 -p 27776 --debug "sock*"
 
 
