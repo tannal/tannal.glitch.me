@@ -5,7 +5,7 @@ http://192.168.43.1:8080/quill.html
 pub trait Future
 library/core/src/future/future.rs
 
-
+./mach test-tidy --no-progress --all
 
 
 # 2024-3-19 0 | 0 W

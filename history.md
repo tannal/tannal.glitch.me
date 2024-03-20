@@ -3,6 +3,171 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#import-maps
+
+<script type="importmap"> - HTML: ハイパーテキストマークアップ言語 | MDN
+https://developer.mozilla.org/ja/docs/Web/HTML/Element/script/type/importmap
+
+Task scheduler - Tokio Internals
+https://tony612.github.io/tokio-internals/03_task_scheduler.html
+
+Sameer Ajmani – Father of three, husband of one in Brooklyn. Engineering Director at Google leading the Go programming language team.
+https://ajmani.net/
+
+Go 2022-2024 and beyond: Let’s talk about AI – Sameer Ajmani
+https://ajmani.net/2024/02/27/go-2022-2024-and-beyond/
+
+Helping teens learn to lead with DoSomething.org – Sameer Ajmani
+https://ajmani.net/2024/03/18/my-role-on-the-dosomething-org-board/
+
+Fueling Young People to Change the World | DoSomething.org
+https://www.dosomething.org/us
+
+google lens - Google 搜索
+https://www.google.com/search?q=google+lens&rlz=1C1GCEA_enJP1090JP1090&oq=google+lens&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE3MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+搭建属于自己的私有npm库 - Wynne Blog
+http://www.wynneit.cn/2021/07/12/verdaccio/
+
+关于 - Wynne Blog
+http://www.wynneit.cn/about/
+
+你会怎么做前端优化？ - Wynne Blog
+http://www.wynneit.cn/2021/11/08/optimisation/#%E6%80%BB%E7%BB%93
+
+verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry
+https://github.com/verdaccio/verdaccio
+
+What is Verdaccio? | Verdaccio
+https://verdaccio.org/docs/what-is-verdaccio
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Issues · typst/typst
+https://github.com/typst/typst/issues
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Import Map Implementation in Chromium · Issue #11 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/11
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#import-maps
+
+chromium/BUILD.gn at main · chromium/chromium
+https://github.com/chromium/chromium/blob/main/BUILD.gn#L15
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+github: how to reference an issue in a commit from a different repository? - Stack Overflow
+https://stackoverflow.com/questions/60268714/github-how-to-reference-an-issue-in-a-commit-from-a-different-repository
+
+Autolinked references and URLs - GitHub Docs
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+windows 改host - Google 搜索
+https://www.google.com/search?q=windows+%E6%94%B9host&rlz=1C1GCEA_enJP1090JP1090&oq=windows+%E6%94%B9&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEINDczN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=hiroshige-g
+
+[Tokio] Can blocking threads lead to async starvation : r/rust
+https://www.reddit.com/r/rust/comments/1ahckql/tokio_can_blocking_threads_lead_to_async/
+
+tokio::task::spawn_blocking - Rust
+https://dtantsur.github.io/rust-openstack/tokio/task/fn.spawn_blocking.html
+
+#general > Servo and Spidermonkey report - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSRFTLJdDctsNhclCSQMHZsGW
+
+About the New Architecture · React Native
+https://reactnative.dev/docs/the-new-architecture/landing-page#fast-javascriptnative-interfacing
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648
+
+tannal (tannal)
+https://github.com/tannal/
+
+Code search results
+https://github.com/search?q=repo%3Achromium%2Fchromium%20script%20thread&type=code
+
+ChatGPT
+https://chat.openai.com/c/1b112d05-186d-4fea-a69c-0e67d9cc02a6
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771
+
+Reducing tail latencies with automatic cooperative task yielding | Tokio - An asynchronous Rust runtime
+https://tokio.rs/blog/2020-04-preemption
+
+net: Replace ws-rs with async-tungstenite. · servo/servo@76198e4
+https://github.com/servo/servo/commit/76198e40a8921bfa6ef4e8e8d259ebdc3814e426#diff-82827a4300a35d539615e071a6daff34e5791d11a66f7930bcc25f36442ee292R61
+
+Question about fairness and starvation · tokio-rs/tokio · Discussion #6175
+https://github.com/tokio-rs/tokio/discussions/6175
+
+Reducing tail latencies with automatic cooperative task yielding | Tokio - An asynchronous Rust runtime
+https://tokio.rs/blog/2020-04-preemption
+
+hyperium/hyper: An HTTP library for Rust
+https://github.com/hyperium/hyper/
+
+jonhoo (Jon Gjengset)
+https://github.com/jonhoo/
+
+Add cooperative task yielding by jonhoo · Pull Request #2160 · tokio-rs/tokio
+https://github.com/tokio-rs/tokio/pull/2160
+
+UDP relay 传输性能随着发送速率增加极速下降 by wangjian1009 · Pull Request #877 · shadowsocks/shadowsocks-rust
+https://github.com/shadowsocks/shadowsocks-rust/pull/877
+
+Jon Gjengset - YouTube
+https://www.youtube.com/@jonhoo/videos
+
+net: Replace ws-rs with async-tungstenite. · servo/servo@76198e4
+https://github.com/servo/servo/commit/76198e40a8921bfa6ef4e8e8d259ebdc3814e426#diff-82827a4300a35d539615e071a6daff34e5791d11a66f7930bcc25f36442ee292R61
+
+net: Replace ws-rs with async-tungstenite. · servo/servo@76198e4
+https://github.com/servo/servo/commit/76198e40a8921bfa6ef4e8e8d259ebdc3814e426#diff-61e97333cfb2db04b80e7ecf9e1420bafc5919eb5bb3b6a8483a620bcc388250
+
+Reducing tail latencies with automatic cooperative task yielding | Tokio - An asynchronous Rust runtime
+https://tokio.rs/blog/2020-04-preemption
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+[servo/servo] PR run failed: Main - Net: fold websocket and http tokio runtime into one (52b96a0) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSRFTTdsqqMsxXzsXCngQNlbc
+
+Net: fold websocket and http tokio runtime into one · servo/servo@52b96a0
+https://github.com/servo/servo/actions/runs/8353788073/job/22866077655
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 12-transformers-attention.pdf
 https://mlsyscourse.org/slides/12-transformers-attention.pdf
 
