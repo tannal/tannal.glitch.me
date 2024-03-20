@@ -3,6 +3,126 @@
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Implement revealing the document · Issue #31581 · servo/servo
+https://github.com/servo/servo/issues/31581
+
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/browsing-the-web.html#has-been-revealed
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium++David+Bokan&type=commits
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits?author=paulirish
+
+Intent to Ship: 'pagereveal' event
+https://groups.google.com/a/chromium.org/g/blink-dev/c/S67zJ1AYW2U
+
+view-transitions/cross-doc-explainer.md at main · WICG/view-transitions
+https://github.com/WICG/view-transitions/blob/main/cross-doc-explainer.md
+
+HTML Standard
+https://html.spec.whatwg.org/#reveal
+
+paulirish (Paul Irish)
+https://github.com/paulirish
+
+Firefox Performance: "We’ve added markers in Firefox…" - Toot Café
+https://toot.cafe/@FirefoxPerf@mozilla.social/111449389168863300
+
+Firefox 121 – macOS 14.0.0 – 11/16/2023, 10:50:08 AM UTC (public) – Firefox Profiler
+https://profiler.firefox.com/public/5y2x0b4baqt4nzd54y9caxpye3j39xc2q4hfe68/calltree/?globalTrackOrder=a0213w9&hiddenGlobalTracks=0w8&hiddenLocalTracksByPid=62727-2w4~62731-0~62735-0~62759-0~62732-0~62733-0~62754-1&implementation=cpp&range=937m1630&thread=f&transforms=ff-17&v=10
+
+About - Paul Irish
+https://www.paulirish.com/about/
+
+Move The Web Forward | Guide to getting involved with standards and browser development
+https://movethewebforward.org/
+
+How browsers work  |  Articles  |  web.dev
+https://web.dev/articles/howbrowserswork
+
+Page not found – OTK Tech Info
+https://www.ontwik.com/?p=5215
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+paulirish&type=commits&p=2
+
+Add trace event for IsMobileOptimized · chromium/chromium@ccbd0cf
+https://github.com/chromium/chromium/commit/ccbd0cf82232651b9a89ff3afb050ab3d9e4c7da
+
+chromium - crates.io: Rust Package Registry
+https://crates.io/crates/chromium
+
+chromium crates io - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=chromium+crates+io#ip=1
+
+Chromium Docs - Rust in Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/rust.md
+
+Slack
+https://www.chromium.org/developers/slack/
+
+Chromium Docs - Rust in Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/rust.md#using-vscode
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rust-project%20json&sort=byPopularity&type=story
+
+chromium_crates_io - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=chromium_crates_io
+
+Supporting the use of Rust in the Chromium project | Hacker News
+https://news.ycombinator.com/item?id=34360179
+
+Cash App - Wikipedia
+https://en.wikipedia.org/wiki/Cash_App
+
+Ms2ger
+https://github.com/Ms2ger
+
+Is coding in Rust as bad as in C++?
+https://quick-lint-js.com/blog/cpp-vs-rust-build-times/
+
+Mr. Robot extension. - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Mr.+Robot+extension.#ip=1
+
+libaom - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libaom
+
+y4m format - Google 検索
+https://www.google.com/search?q=y4m+format&client=ubuntu-sn&hs=3MI&sca_esv=7a2ea2d467a33581&channel=fs&ei=jrv6ZYjGGcmk2roP3p6jsA0&oq=Y4M+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBFk0TSAqAggAMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTMgcQABiABBgTSL05UJkoWJkocAF4AZABAJgBygGgAcoBqgEDMi0xuAEByAEA-AEBmAICoALTAcICChAAGEcY1gQYsAOYAwCIBgGQBgWSBwUxLjAuMaAH1AI&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=y4m&sort=byPopularity&type=story
+
+webnn - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=webnn#ip=1
+
+WebNN | Web Machine Learning
+https://webmachinelearning.github.io/webnn-intro/
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit%20webnn&type=code
+
+`text-align: justify` and `text-indent` causes text to overflow inline formatting context bounds · Issue #31775 · servo/servo
+https://github.com/servo/servo/issues/31775
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 ChatGGG
 http://192.168.43.1:8080/quill.html
 

@@ -1,5 +1,8 @@
 # inbox
 
+sudo apt install generate-ninja
+gn gen out/Default --export-rust-project
+
 https://github.com/chromium/chromium/commits?author=hiroshige-g
 
 b module_tree_linker.cc:472
