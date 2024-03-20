@@ -1,5 +1,47 @@
 # 2024-3-20
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Commits · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/commits?author=zrhoffman
+
+zrhoffman (Zach Hoffman)
+https://github.com/zrhoffman
+
+zrhoffman (Zach Hoffman)
+https://github.com/zrhoffman
+
+cargo add github.com - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cargo+add+github.com
+
+Specifying Dependencies - The Cargo Book
+https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html
+
+Why doesn't println! work in Rust unit tests? - Stack Overflow
+https://stackoverflow.com/questions/25106554/why-doesnt-println-work-in-rust-unit-tests
+
+cargo test debug - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cargo+test+debu
+
+Debugging Rust Tests | Online-Help
+https://whamcloud.github.io/Online-Help/docs/Contributor_Docs/cd_Debugging_Rust_Tests.html
+
+this in rust - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=this+in+rust
+
+align-items - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
+
+Oriol Brufau - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+Oriol+Brufau
+
+Servo - Open Collective
+https://opencollective.com/servo
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

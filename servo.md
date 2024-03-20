@@ -1,6 +1,15 @@
 
 # inbox
 
+cssparser
+    tokenizer
+
+./mach test-unit --nocapture -- test_column_width
+
+rust-gdb /vagrant/target/debug/deps/libzfs-37d0dad38d98d030
+
+r --test
+
 ./mach test-tidy --no-progress --all
 
 [2024-03-19T11:47:14Z DEBUG script::dom::htmlscriptelement] script type=
