@@ -1,5 +1,155 @@
 # 2024-3-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Jeff Dean (Google): Exciting Trends in Machine Learning - YouTube
+https://www.youtube.com/watch?v=oSCRZkSQ1CE
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`text-align: justify` and `text-indent` causes text to overflow inline formatting context bounds · Issue #31775 · servo/servo
+https://github.com/servo/servo/issues/31775
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+%22incorrect+license%22&type=code
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGPT
+https://chat.openai.com/c/15487863-8328-42fc-8069-f47e952d20ff
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+laptou/jsi-rs: Write ultra fast React Native modules in Rust
+https://github.com/laptou/jsi-rs/
+
+The New React Native Architecture Explained: Part Two
+https://commerce.nearform.com/blog/2019/jsi-jsc-part-2/
+
+Commits · jrmuizel/raqote
+https://github.com/jrmuizel/raqote/commits/master/
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo%20raqote&type=code
+
+rust-cssparser/src/lib.rs at master · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/blob/master/src/lib.rs
+
+cssparser - Rust
+https://docs.rs/cssparser/latest/cssparser/
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ChatGPT
+https://chat.openai.com/
+
+Services - Opersys
+https://www.opersys.com/services/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=opersys&sort=byPopularity&type=story
+
+Advanced Android Platform Topics - Opersys
+https://www.opersys.com/training/advanced-android-platform-topics/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+LangChain - Google 搜索
+https://www.google.com/search?q=LangChain&rlz=1C1GCEA_enJP1090JP1090&oq=LangChain&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzI0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Meta's Segment Anything written with C++ / GGML | Hacker News
+https://news.ycombinator.com/item?id=37398891
+
+chinhsuanwu/coatnet-pytorch: A PyTorch implementation of "CoAtNet: Marrying Convolution and Attention for All Data Sizes"
+https://github.com/chinhsuanwu/coatnet-pytorch
+
+2106.04803.pdf
+https://arxiv.org/pdf/2106.04803.pdf
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits/main/
+
+module: support require()ing synchronous ESM graphs · nodejs/node@5f7fad2
+https://github.com/nodejs/node/commit/5f7fad26050cd574431e3018a557bc6eae5ff716#diff-ea501528b0419a0e268dba0a111869879926d671b7e4240a7f8177e9eb384a4b
+
+iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm
+https://github.com/iced-rs/iced
+
+Karim J. Yaghmour - Google 搜索
+https://www.google.com/search?q=Karim+J.+Yaghmour&rlz=1C1GCEA_enJP1090JP1090&oq=Karim+J.+Yaghmour&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Android Things - Karim Yaghmour, Opersys Inc. - YouTube
+https://www.youtube.com/watch?v=oea7CWdZrsQ
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Karim%20Yaghmour&sort=byPopularity&type=story
+
+moonbit - Google 搜索
+https://www.google.com/search?q=moonbit&rlz=1C1GCEA_enJP1090JP1090&oq=moonbit&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAuGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgYIBxBFGDzSAQgyMTg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+国赛来袭！中国研究生操作系统开源创新大赛报名开启，十万奖金等你来~-openKylin 开放麒麟社区官网 | 开源聚力，共创未来
+https://www.openkylin.top/news/3343-cn.html
+
+CRIU - Google 搜索
+https://www.google.com/search?q=CRIU&rlz=1C1GCEA_enJP1090JP1090&oq=CRIU&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CRIU
+https://criu.org/Main_Page
+
+CRIU 重启电脑 - Google 搜索
+https://www.google.com/search?q=CRIU+%E9%87%8D%E5%90%AF%E7%94%B5%E8%84%91&sca_esv=58652087346d5a22&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08k_CQXZnDRVKzl3kUD_hmjQdFvpw%3A1710940162049&ei=AuD6ZfLRApLO2roPk62ImAU&ved=0ahUKEwjy2tzk9IKFAxUSp1YBHZMWAlMQ4dUDCBA&uact=5&oq=CRIU+%E9%87%8D%E5%90%AF%E7%94%B5%E8%84%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUNSSVUg6YeN5ZCv55S16ISRMggQABiABBiiBDIIEAAYgAQYogRIyRpQ9wNY0RlwAXgAkAEBmAHCAqAB3xyqAQcwLjguNy4yuAEDyAEA-AEBmAIOoAKPFsICChAAGEcY1gQYsAPCAggQABiABBjLAcICBRAAGIAEwgIKEAAYgAQYywEYCsICCBAuGB4YDBgKwgIGEAAYHhgMwgIIEAAYBRgeGAzCAgUQIRigAZgDAIgGAZAGCpIHBzEuNi42LjGgB8Uv&sclient=gws-wiz-serp#ip=1
+
+CRIU » JasonLe's TechBlog
+https://www.lizhaozhong.info/archives/tag/criu
+
+linux重启后恢复整个系统,Ubuntu系统启动后还原上次运行的应用的方法-CSDN博客
+https://blog.csdn.net/weixin_33642697/article/details/116549502
+
+二进制翻译 just in time - Google 搜索
+https://www.google.com/search?q=%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%BF%BB%E8%AF%91+just+in+time&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%BF%BB%E8%AF%91+just+in+time&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDIxNjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+动态二进制翻译的介绍 - 知乎
+https://zhuanlan.zhihu.com/p/559952131
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Binary translation - Wikipedia
+https://en.wikipedia.org/wiki/Binary_translation
+
+L05_QEMU_BT.pdf
+http://www.cs.cmu.edu/~412/lectures/L05_QEMU_BT.pdf
+
+Tiny Code Generator - Google 搜索
+https://www.google.com/search?q=Tiny+Code+Generator&sca_esv=58652087346d5a22&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn082QXUJRdsuIa6orRCwVbGLPyh-GQ%3A1710940781807&ei=beL6ZaTwMMW2vr0Pqv2WqAc&ved=0ahUKEwjk2p-M94KFAxVFm68BHaq-BXUQ4dUDCBA&uact=5&oq=Tiny+Code+Generator&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RpbnkgQ29kZSBHZW5lcmF0b3IyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI8ANQxgJYxgJwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIBoAIFmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+virtual machine - Why does QEMU use JIT compilation? - Stack Overflow
+https://stackoverflow.com/questions/69790845/why-does-qemu-use-jit-compilation
+
+如何通过criu checkpoint/restore应用 - 简书
+https://www.jianshu.com/p/fee68f7b4446
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Reopen all applications reboot ubuntu - Google 搜索
+https://www.google.com/search?q=Reopen+all+applications+reboot+ubuntu&sca_esv=58652087346d5a22&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-eG6kAgCS4tlJXe7H0es9QHJ4Llg%3A1710941529652&ei=WeX6Zf-jJ9aN2roP8da7aA&ved=0ahUKEwi_tOzw-YKFAxXWhlYBHXHrDg0Q4dUDCBA&uact=5&oq=Reopen+all+applications+reboot+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiJVJlb3BlbiBhbGwgYXBwbGljYXRpb25zIHJlYm9vdCB1YnVudHVIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
