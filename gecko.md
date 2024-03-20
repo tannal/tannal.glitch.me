@@ -1,5 +1,7 @@
 # inbox
 
+https://hg.mozilla.org/mozilla-central/rev/dd251ff8689542fbefadb663a6dfc26afb21b02f
+
   b'__libc_pwrite'
   b'(anonymous namespace)::BaseWrite(sqlite3_file*, void const*, int, long long)'
   b'walWriteOneFrame'
