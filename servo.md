@@ -1,6 +1,10 @@
 
 # inbox
 
+./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-indent*
+
+./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-transform* 
+
 canvas/offscreen
 
 libaom
