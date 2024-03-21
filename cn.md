@@ -1,5 +1,11 @@
 
 
+https://github.com/doyoubi
+
+https://www.zhihu.com/people/Folyd
+
+Apache Arrow https://github.com/jackwener
+
 frontend http://www.wynneit.cn/about/
 
 https://www.zhihu.com/people/abcdabcd987

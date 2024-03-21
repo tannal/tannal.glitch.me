@@ -1,5 +1,65 @@
 # 2024-3-21
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+008. 与小福聊聊编译器那些事 – RustTalk
+https://rusttalk.github.io/podcast/008/
+
+008. 与小福聊聊编译器那些事 – RustTalk
+https://rusttalk.github.io/podcast/008/
+
+计算机科学基础班（第 4 期）报名
+https://www.yinwang.org/blog-cn/2021/05/10/cs4
+
+002. 与黄光星畅聊 Rust、Redis 与新加坡 – RustTalk
+https://rusttalk.github.io/podcast/002/
+
+doyoubi
+https://github.com/doyoubi
+
+(3 封私信 / 25 条消息) 朱霜 - 知乎
+https://www.zhihu.com/people/Folyd
+
+About — Folyd
+https://folyd.com/about/
+
+jackwener/CS-Awesome-Courses: 计算机的优秀课程
+https://github.com/jackwener/CS-Awesome-Courses
+
+• Discord | #📢│announcements | Perplexity
+https://discord.com/channels/1047197230748151888/1047204950763122820
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Welcome | Lektor Static Content Management System
+https://www.getlektor.com/
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771
+
+CppCon – The C++ Conference
+https://cppcon.programmingarchive.com/?mgi_5197=6091/the-preprocessor-everything-you-need-to-know-and-more-brian-ruth-cppcon-2021
+
+C++ Working Draft
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/n4928.pdf
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+现代体系结构的优化编译器 - Google 搜索
+https://www.google.com/search?q=%E7%8E%B0%E4%BB%A3%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E7%9A%84%E4%BC%98%E5%8C%96%E7%BC%96%E8%AF%91%E5%99%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%8E%B0%E4%BB%A3%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E7%9A%84%E4%BC%98%E5%8C%96%E7%BC%96%E8%AF%91%E5%99%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Randy Allen compiler - Google 搜索
+https://www.google.com/search?q=Randy+Allen+compiler&sca_esv=12eb0a2ee45ed9ac&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09eDXD3fLeE3hpVGOrD7QOfIzfDTA%3A1710986305971&ei=QZT7ZdTmOtKk2roPrvusmAg&ved=0ahUKEwiUi-7XoISFAxVSklYBHa49C4MQ4dUDCBA&uact=5&oq=Randy+Allen+compiler&gs_lp=Egxnd3Mtd2l6LXNlcnAiFFJhbmR5IEFsbGVuIGNvbXBpbGVySMYKUABY3glwAHgBkAEAmAHQAaABkAuqAQUwLjYuMrgBA8gBAPgBAZgCAqAC2wLCAggQABiABBjLAcICCBAuGIAEGMsBmAMAkgcFMC4xLjGgB5oZ&sclient=gws-wiz-serp#ip=1
+
+ece663.pptx
+https://engineering.purdue.edu/~eigenman/ECE663/Handouts/ece663slides.pdf
+
+Perplexity Pro
+https://www.perplexity.ai/pro
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
