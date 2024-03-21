@@ -1,3 +1,56 @@
+# 2024-3-21
+
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Book1_Python-For-Beginners/Book1_Ch02_Python_Codes at main · Visualize-ML/Book1_Python-For-Beginners
+https://github.com/Visualize-ML/Book1_Python-For-Beginners/tree/main/Book1_Ch02_Python_Codes
+
+004. 与迟先生聊 Rust 与数据库系统 – RustTalk
+https://rusttalk.github.io/podcast/004/
+
+skyzh (Alex Chi Z.)
+https://github.com/skyzh
+
+Issues · neondatabase/neon
+https://github.com/neondatabase/neon
+
+Alex Chi Z.
+https://www.skyzh.dev/
+
+(4 封私信 / 23 条消息) 迟策 - 知乎
+https://www.zhihu.com/people/skyzh
+
+上海交通大学 Linux 用户组 软件源镜像服务
+https://mirror.sjtu.edu.cn/
+
+首页 | SJTU-Plus
+https://plus.sjtu.edu.cn/
+
+Alex Chi Z.
+https://www.skyzh.dev/
+
+cv.pdf
+https://skyzh.github.io/files/cv.pdf
+
+risinglight/src/planner/optimizer.rs at main · risinglightdb/risinglight
+https://github.com/risinglightdb/risinglight/blob/main/src/planner/optimizer.rs
+
+cmu-db/bustub: The BusTub Relational Database Management System (Educational)
+https://github.com/cmu-db/bustub
+
+Neon — Serverless, Fault-Tolerant, Branchable Postgres
+https://neon.tech/
+
+Commit search results
+https://github.com/search?q=repo%3Acmu-db%2Fbustub+Alex+Chi+Z&type=commits
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
 # 2024-3-20
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
