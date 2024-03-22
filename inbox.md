@@ -1,5 +1,76 @@
 # 2024-3-22 0 | 0 W
 
+vim ~/.config/verdaccio/config.yaml
+
+
+uplinks:
+  npmjs:
+    #url: https://registry.npmjs.org/
+    #url: https://repo.huaweicloud.com/repository/npm/
+    url: https://registry.npm.taobao.org/
+    agent_options:
+      keepAlive: true
+      maxSockets: 40
+      maxFreeSockets: 10
+  npmjs2:  
+    url: https://registry.npmjs.org/
+    agent_options:
+      keepAlive: true
+      maxSockets: 40
+      maxFreeSockets: 10
+packages:
+  '@*/*':
+    # scoped packages
+    access: $all
+    publish: $authenticated
+    unpublish: $authenticated
+    proxy: npmjs npmjs2
+
+  '**':
+    # allow all users (including non-authenticated users) to read and
+    # publish all packages
+    #
+    # you can specify usernames/groupnames (depending on your auth plugin)
+    # and three keywords: "$all", "$anonymous", "$authenticated"
+    access: $all
+
+    # allow all known users to publish/publish packages
+    # (anyone can register by default, remember?)
+    publish: $authenticated
+    unpublish: $authenticated
+
+    # if package is not available locally, proxy requests to 'npmjs' registry
+    proxy: npmjs npmjs2
+
+
+uplinks:
+  npmjs:
+    url: https://registry.npmjs.org/
+    max_fails: 20
+    fail_timeout: 10m
+
+npm install --location=global verdaccio@next
+
+verdaccio -l 0.0.0.0:4873
+
+pnpm setup
+Appended new lines to /home/tannal/.bashrc
+
+Next configuration changes were made:
+export PNPM_HOME="/home/tannal/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+
+To start using pnpm, run:
+source /home/tannal/.bashrc
+
+pnpm i -g verdaccio@next-7
+pnpm i -g verdaccio@latest-6
+pnpm i -g verdaccio@next
+pnpm uninstall -g verdaccio@next-7
+
 1) + URL 中+号表示空格 %2B
 2) 空格 URL中的空格可以用+号或者编码 %20
 3) / 分隔目录和子目录 %2F
