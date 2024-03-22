@@ -1,5 +1,41 @@
 # 2024-3-22 0 | 0 W
 
+deepspeed multiple machines multiple cards
+
+NVLink single machine multiple cards
+
+
+Data Collection and Preprocessing
+Model Selection
+Initialization
+Loss Function Selection
+Optimizer Selection
+Training
+Training
+Validation and Hyperparameter Tuning
+Testing and Evaluation
+
+
+for row in table_scan_generator:
+    print(row)
+
+ブロック(Bo　ro　ko)　blocking
+
+レッド (re d do) red
+
+グリーン (gu r i n) green
+
+非同期 (hi do ki) async 异步
+
+タスク(ta su ku) task
+
+mkdir -p examples
+mv src/main.rs examples/hello-redis.rs
+
+cargo run --example hello-redis
+
+export https_proxy=http://10.90.17.22:7890
+export http_proxy=http://10.90.17.22:7890
 
 # 2024-3-21 0 | 0 W
 

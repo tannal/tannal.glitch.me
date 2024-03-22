@@ -1,5 +1,170 @@
 # 2024-3-22
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Key data structures and their roles in RenderingNG  |  Chromium  |  Chrome for Developers
+https://developer.chrome.com/docs/chromium/renderingng-data-structures
+
+Overview of the RenderingNG architecture  |  Chromium  |  Chrome for Developers
+https://developer.chrome.com/docs/chromium/renderingng-architecture
+
+RenderingNG deep-dive: BlinkNG  |  Chromium  |  Chrome for Developers
+https://developer.chrome.com/docs/chromium/blinkng
+
+浏览器的工作方式  |  Articles  |  web.dev
+https://web.dev/articles/howbrowserswork?hl=zh-cn
+
+Concurrency Designs: Beyond Loops
+https://chat.openai.com/c/f0c42433-dd57-4da0-8a5f-92e868bdb12e
+
+spawn in tokio::task - Rust
+https://docs.rs/tokio/latest/tokio/task/fn.spawn.html
+
+redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+https://github.com/redis/redis
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF&op=translate
+
+tokio - Rust
+https://docs.rs/tokio/latest/tokio/
+
+How to use async/await in Rust when you can't make main function async - Stack Overflow
+https://stackoverflow.com/questions/71116502/how-to-use-async-await-in-rust-when-you-cant-make-main-function-async
+
+Spawning｜Tokio チュートリアル (日本語訳)
+https://zenn.dev/magurotuna/books/tokio-tutorial-ja/viewer/spawning
+
+Hello Tokio | Tokio - An asynchronous Rust runtime
+https://tokio.rs/tokio/tutorial/hello-tokio
+
+tokio-rs/mini-redis: Incomplete Redis client and server implementation using Tokio - for learning purposes only
+https://github.com/tokio-rs/mini-redis
+
+Actors with Tokio – Alice Ryhl
+https://ryhl.io/blog/actors-with-tokio/
+
+Generator - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+risinglightdb/risinglight: An educational OLAP database system.
+https://github.com/risinglightdb/risinglight
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+`text-decoration` always uses color of current box even when defined on ancestor · Issue #31736 · servo/servo
+https://github.com/servo/servo/issues/31736
+
+<iframe> can’t be transformed unless wrapped in <div> · Issue #31806 · servo/servo
+https://github.com/servo/servo/issues/31806
+
+how mozilla make money - Google 搜索
+https://www.google.com/search?q=how+mozilla+make+money&rlz=1C1GCEA_enJP1090JP1090&oq=how+mozilla&gs_lcrp=EgZjaHJvbWUqCQgCEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINTM0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=how%20mozilla%20make%20money&sort=byPopularity&type=story
+
+Tali Garsiel's site
+https://taligarsiel.com/
+
+How browsers work
+https://taligarsiel.com/Projects/howbrowserswork1.htm
+
+Client side performance
+https://taligarsiel.com/ClientSidePerformance.html
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+2106.09685.pdf
+https://arxiv.org/pdf/2106.09685.pdf
+
+2307.09288.pdf
+https://arxiv.org/pdf/2307.09288.pdf
+
+1711.05101.pdf
+https://arxiv.org/pdf/1711.05101.pdf
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+2101.06840.pdf
+https://arxiv.org/pdf/2101.06840.pdf
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+[1710.03740] Mixed Precision Training
+https://arxiv.org/abs/1710.03740
+
+ZeRO-Offload: Democratizing Billion-Scale Model Training · Issue #13 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/13
+
+2101.06840.pdf
+https://arxiv.org/pdf/2101.06840.pdf
+
+QLoRA——技术方案总结篇 - 知乎
+https://zhuanlan.zhihu.com/p/632717605
+
+oltp · GitHub Topics
+https://github.com/topics/oltp
+
+sqlparser-nom/src/parser/statement.rs at master · systemxlabs/sqlparser-nom
+https://github.com/systemxlabs/sqlparser-nom/blob/master/src/parser/statement.rs
+
+SystemX Labs
+https://systemxlabs.github.io/about/
+
+手写一个Parser - 代码简单而功能强大的Pratt Parsing - 知乎
+https://zhuanlan.zhihu.com/p/471075848
+
+Repository search results
+https://github.com/search?q=educational+language%3AC%2B%2B&type=repositories&p=2&l=C%2B%2B
+
+1910.02054.pdf
+https://arxiv.org/pdf/1910.02054.pdf
+
+ZeRO: Memory Optimizations Toward Training Trillion Parameter Models · Issue #15 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/15
+
+Scalability - Google 搜索
+https://www.google.com/search?q=Scalibility&rlz=1C1GCEA_enJP1090JP1090&oq=Scalibility&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+nv link - Google 搜索
+https://www.google.com/search?q=nv+link&rlz=1C1GCEA_enJP1090JP1090&oq=nv+link&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGEMYgAQYigUyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgYIBxBFGDzSAQgyODI1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+single machine multiple card nvidia - Google 搜索
+https://www.google.com/search?q=single+machine+multiple+card+nvidia&sca_esv=1fba1384b54230c4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Y-4w-X4DeZGm9D6HhdT9ZfGzkLA%3A1711074288251&ei=8Ov8ZaXPDtyZvr0Ppt2v6Ac&ved=0ahUKEwilh4q56IaFAxXcjK8BHabuC30Q4dUDCBA&uact=5&oq=single+machine+multiple+card+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiI3NpbmdsZSBtYWNoaW5lIG11bHRpcGxlIGNhcmQgbnZpZGlhMgcQIRgKGKABSOUeUABYkR5wAHgBkAEAmAHeAaABtwqqAQUwLjQuM7gBA8gBAPgBAZgCB6ACzArCAgUQIRigAZgDAJIHBTAuMy40oAeJDg&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=epoch&op=translate
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+deepspeed paper - Google 搜索
+https://www.google.com/search?q=deepspeed+paper&rlz=1C1GCEA_enJP1090JP1090&oq=deepspeed+paper&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEAAYHjIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgFGB7SAQg0OTkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+DeepSpeed: Publications - Microsoft Research
+https://www.microsoft.com/en-us/research/project/deepspeed/publications/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+deepspeed - Google 搜索
+https://www.google.com/search?q=deepspeed&rlz=1C1GCEA_enJP1090JP1090&oq=deepspeed+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyCQgDEAAYDBiABDIJCAQQABgMGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg80gEIMjQ1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+jeff dean cpu training - Google 搜索
+https://www.google.com/search?q=jeff+dean+cpu+training&rlz=1C1GCEA_enJP1090JP1090&oq=jeff+dean+cpu+training&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCDQ1ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+X 上的 Jeff Dean (@🏡)：“@keveman @giffmana This is roughly right. Basically wanted to send fewer bytes over the network for our distributed neural network training system, and easiest way on a CPU was to lop off the low 16 bits of mantissa, and fill with 0s on other side. Turns out it was fine for training.” / X
+https://twitter.com/JeffDean/status/1717030662144921670
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
