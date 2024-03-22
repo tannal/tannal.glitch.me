@@ -1,5 +1,34 @@
 # 2024-3-22 0 | 0 W
 
+$env:NPM_CONFIG_REGISTRY="http://192.168.43.246:4873"
+
+merge two or three shiny things together create a useful project
+node v8 libuv
+
+differential testing
+
+除非信息提供者与你当前状态有非常高的契合度，不要轻易按固定顺序模式接受信息（填鸭式）
+从无序开始，在刺激中构造秩序规则
+
+一段连续的输入（人的感官主要是触觉处理信息），可以分为很多个entry point
+
+注意力机制聚焦到该输入（刺激）时
+
+命中entry point（附近） 直接理解 action呼之欲出 （performance area）action跟触觉强相关
+触觉会把输入进行分割
+所以看别人弹钢琴和自己弹的输入不一样，最好的方法
+
+命中空洞（无意义的点，残缺）
+快速寻找最近的entry point或者创建一个新的entry point （新信息的录入，需要搭配上触觉）
+
+action 会影响未来的输入（需提前在脑中encoding这部分信息）
+方式是
+
+action发生后的输入和脑中记忆的输入进行比对（loss function）校正（自动发生）
+
+比对校正是生物体与生俱来的能力
+
+
 deepspeed multiple machines multiple cards
 
 NVLink single machine multiple cards
