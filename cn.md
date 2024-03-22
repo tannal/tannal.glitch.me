@@ -1,5 +1,7 @@
 
 
+http://aicdg.com/oldblog/about/
+
 https://github.com/doyoubi
 
 https://www.zhihu.com/people/Folyd

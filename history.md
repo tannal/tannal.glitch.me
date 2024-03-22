@@ -1,5 +1,179 @@
 # 2024-3-22
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+volar 作者 - Google 搜索
+https://www.google.com/search?q=volar+%E4%BD%9C%E8%80%85&rlz=1C1GCEA_enJP1090JP1090&oq=volar+%E4%BD%9C%E8%80%85&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDIyNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Federal Reserve Board - Agencies extend applicability date of certain provisions of their Community Reinvestment Act final rule
+https://www.federalreserve.gov/newsevents/pressreleases/bcreg20240321a.htm
+
+ChatGPT
+https://chat.openai.com/c/a3c9bcc3-fe5e-4c8c-9f00-2954b665c882
+
+Differential testing - Wikipedia
+https://en.wikipedia.org/wiki/Differential_testing
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/?page=5
+
+110. 平衡二叉树 - 力扣（LeetCode）
+https://leetcode.cn/problems/balanced-binary-tree/description/
+
+布隆过滤器 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8
+
+刷题交流｜WA 后添加用例到测试用例里，运行通过了，提交却仍然超时 ... - 力扣（LeetCode）
+https://leetcode.cn/circle/discuss/VXhKGs/
+
+清风 - 力扣（LeetCode）
+https://leetcode.cn/u/qing-feng-zz/
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+面试官：你是怎么理解ES6中 Generator的？使用场景？ | web前端面试 - 面试官系列
+https://vue3js.cn/interview/es6/generator.html#%E4%B8%80%E3%80%81%E4%BB%8B%E7%BB%8D
+
+Getting Started: Installation | Next.js
+https://nextjs.org/docs/getting-started/installation
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Verdaccio
+http://192.168.43.246:4873/
+
+What is Verdaccio? | Verdaccio
+https://verdaccio.org/docs/what-is-verdaccio
+
+Caching strategies | Verdaccio
+https://verdaccio.org/docs/caching/
+
+Speed up npm install with a local registry to cache packages | Theodo
+https://blog.theodo.com/2016/01/speed-up-npm-install-with-a-nexus-proxy-to-cache-packages/
+
+NPM registry internals | Packagecloud Blog
+https://blog.packagecloud.io/npm-registry-internals/
+
+AddyOsmani.com - Offline installation of npm packages
+https://addyosmani.com/blog/using-npm-offline/
+
+local-npm/local-npm: Local and offline-first npm mirror
+https://github.com/local-npm/local-npm
+
+local-npm: Offline npm registry | Blackie's Failed Notes
+https://blackie1019.github.io/2017/08/10/local-npm-Offline-npm-registry/
+
+local-npm/local-npm: Local and offline-first npm mirror
+https://github.com/local-npm/local-npm/
+
+【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录 - 掘金
+https://juejin.cn/post/7096701542408912933
+
+qingfeng-z
+https://github.com/qingfeng-z/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(9) #general > Servo and Spidermonkey report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20and.20Spidermonkey.20report
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+addManagedReference(_:withOwner:) | Apple Developer Documentation
+https://developer.apple.com/documentation/javascriptcore/jsvirtualmachine/addmanagedreference(_:withowner:)
+
+servo/components/script/dom/bindings/codegen/CodegenRust.py at b1c9378af457093fa1fcee83de29736dc49f7c0f · servo/servo
+https://github.com/servo/servo/blob/b1c9378af457093fa1fcee83de29736dc49f7c0f/components/script/dom/bindings/codegen/CodegenRust.py
+
+Migrate all builtin web globals to host objects · Issue #11118 · denoland/deno
+https://github.com/denoland/deno/issues/11118
+
+Support externally backed ArrayBuffers for ops · Issue #9799 · denoland/deno
+https://github.com/denoland/deno/issues/9799
+
+Warp: Improved JS performance in Firefox 83 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83/
+
+1867359 - React's getElem with internalInstanceKey is 3x slower in SM (150ms) than V8 (50ms) and JSC (37ms)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1867359
+
+Warp: Improved JS performance in Firefox 83 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83/
+
+Web IDL Standard
+https://webidl.spec.whatwg.org/
+
+Chat — WHATWG
+https://whatwg.org/chat
+
+SpiderMonkey Newsletter (Firefox 96-97) | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/blog/2022/01/14/newsletter-firefox-96-97.html
+
+history of spidermonkey - Google 搜索
+https://www.google.com/search?q=history+of+spidermonkey&rlz=1C1GCEA_enJP1090JP1090&oq=history+of+spidermonkey&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINTE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=spidermonkey&sort=byPopularity&type=story
+
+Some SpiderMonkey optimizations in Firefox Quantum
+https://jandemooij.nl/blog/some-spidermonkey-optimizations-in-firefox-quantum/
+
+Fast arrow functions in Firefox 31
+https://jandemooij.nl/blog/fast-arrow-functions-in-firefox-31/
+
+Are We Fast Yet? Yes We Are!
+https://robert.ocallahan.org/2014/10/are-we-fast-yet-yes-we-are.html
+
+Rees-Dart Track 2023
+https://robert.ocallahan.org/2023/12/rees-dart.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hacks%20mozilla&sort=byPopularity&type=story
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=bun%20deno%20&sort=byPopularity&type=story
+
+Two weeks with jsr.io: Do we need a new package registry?
+https://dev.hexagon.56k.guru/posts/getting-to-know-jsr/
+
+HTTP Speed
+https://kitsonkelly.com/posts/http-speed
+
+• Discord | 好友
+https://discord.com/channels/@me
+
+webidl binder
+http://aicdg.com/oldblog/emscripten/2016/02/20/webidl-binder.html
+
+About
+http://aicdg.com/oldblog/about/
+
+emscripten/tools/webidl_binder.py at main · emscripten-core/emscripten
+https://github.com/emscripten-core/emscripten/blob/main/tools/webidl_binder.py
+
+bindings generator - Google 搜索
+https://www.google.com/search?q=bindings+generator&rlz=1C1GCEA_enJP1090JP1090&oq=bindings+generator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+OpenCV-Pythonの紐づけ(Bindings)がどのように動作するのか? — OpenCV-Python Tutorials 1 documentation
+http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_bindings/py_bindings_basics/py_bindings_basics.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

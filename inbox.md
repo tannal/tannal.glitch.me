@@ -1,5 +1,10 @@
 # 2024-3-22 0 | 0 W
 
+bindings generator
+
+It allows React-Native to run JS using different JS engines, including JavascriptCore, the engine used in Webkit, and Hermes, an engine that comes bundled with React-native. JSI appears to be the only existing effort to implement such an common interface to Javascript engines.
+
+
 $env:NPM_CONFIG_REGISTRY="http://192.168.43.246:4873"
 
 merge two or three shiny things together create a useful project
