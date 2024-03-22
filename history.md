@@ -1,3 +1,104 @@
+# 2024-3-22
+
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+YouTube 1080p Video Downloader
+https://downloaderto.com/engf/
+
+Threads and Processes - Google 搜索
+https://www.google.com/search?q=Threads+and+Processes&rlz=1C1GCEA_enJP1090JP1090&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E6%9C%88%E3%81%A7&op=translate
+
+ROSÉ - Viva La Vida (Coldplay) Live Studio Cover - YouTube
+https://www.youtube.com/watch?v=mX8rMMS-MbI
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fwhisper.cpp%20ja&type=code
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E5%85%88%E6%9C%88%E3%81%AF2%E4%B8%875%E5%8D%83%E5%86%86%E3%80%82&op=translate
+
+日元兑美元 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E5%85%83%E5%85%91%E7%BE%8E%E5%85%83&sca_esv=12eb0a2ee45ed9ac&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-ek20GXtzXTstFfMGd8HuY9BjNPQ%3A1710988779633&ei=6537ZfycJum02roPoduXsA8&ved=0ahUKEwi8vrLzqYSFAxVpmlYBHaHtBfYQ4dUDCBA&uact=5&oq=%E6%97%A5%E5%85%83%E5%85%91%E7%BE%8E%E5%85%83&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-aXpeWFg-WFkee-juWFgzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIIEAAYBxgeGA9IgQJQAFgAcAB4AZABAJgBwAGgAcABqgEDMC4xuAEDyAEA-AEBmAIBoALHAZgDAJIHAzAuMaAHowM&sclient=gws-wiz-serp
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+Implement StaticRange by cathiechen · Pull Request #31809 · servo/servo
+https://github.com/servo/servo/pull/31809/files
+
+Implement StaticRange by nipunG314 · Pull Request #25466 · servo/servo
+https://github.com/servo/servo/pull/25466/files
+
+cathiechen / February 2024
+https://github.com/cathiechen?tab=overview&from=2024-02-01&to=2024-02-29
+
+Commits · WebKit/WebKit
+https://github.com/WebKit/WebKit/commits?author=cathiechen
+
+Implement GC handling for trusted types API by lukewarlow · Pull Request #23999 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/23999
+
+[contain-intrinsic-size] Element removed by parent should end up losi… · WebKit/WebKit@3db2302
+https://github.com/WebKit/WebKit/commit/3db230251f3c40d76cabdc09cf1e64ac3c377c2f
+
+WebKit export of https://bugs.webkit.org/show_bug.cgi?id=270240 by cathiechen · Pull Request #44902 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/44902
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=cathiechen
+
+Bug 1868364 - Revert content-visibility-with-popover-top-layer-005.ht… · mozilla/gecko-dev@41a95ae
+https://github.com/mozilla/gecko-dev/commit/41a95ae9a333357bf3f767ba9898724b115c1114
+
+ChatGPT
+https://chat.openai.com/c/f0c42433-dd57-4da0-8a5f-92e868bdb12e
+
+Cathie Chen igalia - Google 搜索
+https://www.google.com/search?q=Cathie+Chen+igalia&sca_esv=3cda08dae3a5e905&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09dqqRIl_PsNHyltrr3x5kmcxMSCA%3A1711033500554&ei=nEz8ZeuwIdLg2roP2_6cuAo&ved=0ahUKEwjr7v6_0IWFAxVSsFYBHVs_B6cQ4dUDCBA&uact=5&oq=Cathie+Chen+igalia&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkNhdGhpZSBDaGVuIGlnYWxpYTIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI0Q1Q8AFYngxwAXgBkAEAmAG6AqABxAqqAQcwLjMuMi4xuAEDyAEA-AEBmAIHoALhCsICChAAGEcY1gQYsAPCAgQQABgewgIIEAAYCBgeGA_CAgcQIRgKGKABmAMAiAYBkAYDkgcHMS4yLjMuMaAHww0&sclient=gws-wiz-serp#ip=1
+
+Review of my year 2019 at Igalia - Frédéric Wang
+https://frederic-wang.fr/review-of-my-year-2019-at-igalia.html
+
+Former Participants | Web Platform | Working Groups | Discover W3C groups | W3C
+https://www.w3.org/groups/wg/webplatform/former-participants/
+
+Intent to Ship: Change scroll position values of elements in non-default writing modes.
+https://groups.google.com/a/chromium.org/g/blink-dev/c/7X2CKPGeEa0/m/YYO8Fr5CAAAJ
+
+Igalia
+https://github.com/Igalia
+
+How does ResizeObserver get garbage collected in WebKit? – Cathie’s blog
+https://blogs.igalia.com/cchen/2023/02/13/how-does-resizeobserver-get-garbage-collected-in-webkit/
+
+Cathie Chen - Software Engineer - Igalia | 领英
+https://cn.linkedin.com/in/cathie-chen-b75644105?trk=public_profile_samename_mini-profile_title
+
+Shouqun Liu - EM - ByteDance | 领英
+https://cn.linkedin.com/in/sqliu?trk=public_profile_browsemap-profile
+
+Shouqun Liu - EM - ByteDance | 领英
+https://cn.linkedin.com/in/sqliu?trk=public_profile_browsemap-profile
+
+登录领英 | 领英
+https://www.linkedin.com/uas/login-submit
+
+X。尽是新鲜事 / X
+https://twitter.com/
+
+Unicorn! · GitHub
+https://github.com/chromium/chromium/commits?author=cathiechen
+
+Shouqun (Shouqun)
+https://github.com/Shouqun
+
+Intent to Ship: Change scroll position values of elements in non-default writing modes.
+https://groups.google.com/a/chromium.org/g/blink-dev/c/7X2CKPGeEa0/m/LfSQDPHsDgAJ
+
 # 2024-3-21
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

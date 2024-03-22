@@ -1,4 +1,17 @@
-# 2024-3-21 0 | 0 W 
+# 2024-3-22 0 | 0 W
+
+
+# 2024-3-21 0 | 0 W
+
+libuv, twisted, tornado, asyncIO, Netty, Boost.Asio
+
+Threads and Processes
+Actor Model:
+Dataflow Programming
+Transactional Memory
+Futures and Promises
+Reactive Programming
+Coroutines
 
 月で (tsuki de) 按月算（月薪水）
 
