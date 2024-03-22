@@ -1,5 +1,140 @@
 # 2024-3-22
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录 - 掘金
+https://juejin.cn/post/7096701542408912933#heading-7
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Browser comparison | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?compare=chrome+124,firefox+125&compareCats=all
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/
+
+vaapi 加速 - Google 搜索
+https://www.google.com/search?q=vaapi+%E5%8A%A0%E9%80%9F&sca_esv=90b722dfcf39bfbf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0879WHZxL3KnTu8aa5zhZ7kXr_VCA%3A1711088263745&ei=hyL9ZbjfLK-O2roPxI-mmAM&ved=0ahUKEwj4vo7BnIeFAxUvh1YBHcSHCTMQ4dUDCBA&uact=5&oq=vaapi+%E5%8A%A0%E9%80%9F&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHZhYXBpIOWKoOmAnzIFECEYoAEyBRAhGKABSPZTUNQDWNZScAx4AZABAJgBqAKgAYsLqgEFMC4yLjS4AQPIAQD4AQGYAhCgApIIwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGB4YD8ICChAAGAUYHhgMGArCAgYQABgIGB6YAwCIBgGQBgqSBwgxMi4xLjIuMaAHsw0&sclient=gws-wiz-serp
+
+VAAPI Plugin
+https://gstreamer.freedesktop.org/documentation/vaapi/index.html?gi-language=c
+
+Streamgraph — Vega-Altair 5.2.0 documentation
+https://altair-viz.github.io/gallery/streamgraph.html
+
+Open sourcing the Embedding Projector: a tool for visualizing high dimensional data – Google Research Blog
+https://blog.research.google/2016/12/open-sourcing-embedding-projector-tool.html
+
+Embedding projector - visualization of high-dimensional data
+https://projector.tensorflow.org/
+
+Number Symbolism Explained
+https://chat.openai.com/c/7b38bb97-dc80-4636-a3d9-4d08c916ce87
+
+NLP系列：Word2Vec原始论文：Efficient Estimation of Word Representations in Vector Space - 简书
+https://www.jianshu.com/p/4517181ca9c3
+
+The Law of Leaky Abstractions – Joel on Software
+https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
+
+Leaky abstraction - Wikipedia
+https://en.wikipedia.org/wiki/Leaky_abstraction
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+esm.sh/color-convert@2.0.1
+https://esm.sh/color-convert@2.0.1
+
+esm.sh/react@18.2.0
+https://esm.sh/react@18.2.0
+
+Issue search results
+https://github.com/search?q=repo%3Anpm%2Fcli+TAR_BAD_ARCHIVE%3A&type=issues
+
+URL中%2F,%2B等特殊字符 - 糖糖大大 - 博客园
+https://www.cnblogs.com/znh8/p/9316923.html
+
+npm | Home
+https://www.npmjs.com/
+
+Downloading and installing packages locally | npm Docs
+https://docs.npmjs.com/downloading-and-installing-packages-locally
+
+Uninstalling packages and dependencies | npm Docs
+https://docs.npmjs.com/uninstalling-packages-and-dependencies
+
+Verdaccio配置多个npm代理源_verdaccio 都是代理 package-CSDN博客
+https://blog.csdn.net/DallinC/article/details/119190014
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+npm使用国内镜像加速的几种方法-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1372949
+
+两元店
+https://liangyuandian.xyz/#/node
+
+Download a package from npm as a tar (not installing it to a module) - Stack Overflow
+https://stackoverflow.com/questions/33530978/download-a-package-from-npm-as-a-tar-not-installing-it-to-a-module
+
+www.google.com
+https://www.google.com/search?q=react+github&rlz=1C1GCEA_enJP1090JP1090&oq=react+github&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEIMzg5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+node.js - can you host a private repository for your organization to use with npm? - Stack Overflow
+https://stackoverflow.com/questions/7575627/can-you-host-a-private-repository-for-your-organization-to-use-with-npm
+
+The Law of Leaky Abstractions (2002) | Hacker News
+https://news.ycombinator.com/item?id=39620422
+
+dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/dwmkerr/hacker-laws#the-law-of-leaky-abstractions
+
+coreos - Google 搜索
+https://www.google.com/search?q=coreos&rlz=1C1GCEA_enJP1090JP1090&oq=coreos+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgcIBxAAGIAEMgcICBAAGIAEMgkICRAAGAwYgATSAQgyNzA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+云原生的一代传奇 CoreOS
+https://2d2d.io/s1/coreos/
+
+Red Hat OpenShift enterprise Kubernetes container platform
+https://www.redhat.com/en/technologies/cloud-computing/openshift
+
+kubernetes - Google 搜索
+https://www.google.com/search?q=kubernetes&rlz=1C1GCEA_enJP1090JP1090&oq=kubne&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEIMzI1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+containerization software - Google 搜索
+https://www.google.com/search?q=containerization+software&sca_esv=d6727fb810734362&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0832srekUlqwCyxmO6LKLRAneW4Vw%3A1711102486417&ei=Flr9ZZGNGYa2vr0P39efkAc&oq=containerization+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWNvbnRhaW5lcml6YXRpb24gKgIIBzIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFImiFQAFgAcAB4AZABAJgB5wKgAbIEqgEFMi0xLjG4AQPIAQD4AQGYAgKgArkEmAMAkgcFMi0xLjGgB-gH&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=podman&sort=byPopularity&type=story
+
+Transitioning from Docker to Podman | Red Hat Developer
+https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman#port_forwarding_with_podman
+
+Podman
+https://podman.io/
+
+• Discord | #podman | Podman
+https://discord.com/channels/852634929845239818/852634929845239824
+
+Issues · kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes/issues
+
+Docker - YouTube
+https://www.youtube.com/@DockerInc/playlists
+
+tobi (Tobias Lütke)
+https://github.com/tobi
+
+Too-biased
+https://tobi.lutke.com/
+
+两元店
+https://liangyuandian.xyz/#/traffic
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
