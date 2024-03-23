@@ -1,5 +1,7 @@
 # inbox
 
+Laurence Tratt compiler expert shopify https://mastodon.social/@ltratt 
+
 Timothy J Fontaine early hire of nodejs team https://github.com/tjfontaine
 
 Isaac Z. Schlueter creator of npm nodejs original team https://blog.izs.me/

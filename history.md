@@ -1,5 +1,191 @@
 # 2024-3-23
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+https://www.youtube.com/watch?v=Ij4LswX1tZU&list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5&index=1
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DIj4LswX1tZU%26list%3DPLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5%26index%3D1&q=EhAkAIkFAAAAAPA8lP_-DMJUGJem-q8GIjAkXJrmlo3RlM-3eIRhFkpliWHnfB1ZEJ_Gf0eWCJJI88CZ3i1r4mJjFQDu9wNHEkIyAXJaAUM
+
+how tokenizer works compiler - Google 搜索
+https://www.google.com/search?q=how+tokenizer+works+compiler&sca_esv=cb7811ce01b89105&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08_TcK82ef58hu8eKXAROp7tq1fGw%3A1711183145470&ei=KZX-Zd6qHJrV1e8PzO-g2A8&ved=0ahUKEwie45_8_YmFAxWaavUHHcw3CPsQ4dUDCBA&uact=5&oq=how+tokenizer+works+compiler&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGhvdyB0b2tlbml6ZXIgd29ya3MgY29tcGlsZXIyBRAhGKABMgUQIRigAUj8NFDaAVjzM3ABeAGQAQCYAd0BoAGyDKoBBTAuNi4yuAEDyAEA-AEBmAIJoALKDMICChAAGEcY1gQYsAPCAgQQABgewgIGEAAYCBgewgIHECEYChigAZgDAIgGAZAGCZIHBTEuNi4yoAe1Fg&sclient=gws-wiz-serp#ip=1
+
+Step1: Scanner
+https://engineering.purdue.edu/~milind/ece573/2013fall/project/step1/step1.html
+
+Tokenizer.md - Programming Languages: Principles and Paradigms
+https://cseweb.ucsd.edu/~kpister/cse130-summer19/assn/Tokenizer/
+
+Esoteric programming language - Wikipedia
+https://en.wikipedia.org/wiki/Esoteric_programming_language#whitespace
+
+Write your own compiler - Station #1: the tokenizer | Yehonathan Sharvit
+https://blog.klipse.tech/javascript/2017/02/08/tiny-compiler-tokenizer.html
+
+babel/packages/babel-parser/src/tokenizer/index.ts at 87ec4fc3d2cf44c30ef007f7da47d7177e07ffec · babel/babel
+https://github.com/babel/babel/blob/87ec4fc3d2cf44c30ef007f7da47d7177e07ffec/packages/babel-parser/src/tokenizer/index.ts#L86
+
+ECMAScript Language Specification - ECMA-262 Edition 5.1
+https://262.ecma-international.org/5.1/
+
+nshtml5streamparser - Google 搜索
+https://www.google.com/search?q=nshtml5streamparser&sca_esv=cb7811ce01b89105&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_Joap4SA8Qsxq38rgIRF1-AzeYZQ%3A1711183689740&ei=SZf-ZZTlLJ6k2roPp7ew2Ak&ved=0ahUKEwjUreP__4mFAxUeklYBHacbDJsQ4dUDCBA&uact=5&oq=nshtml5streamparser&gs_lp=Egxnd3Mtd2l6LXNlcnAiE25zaHRtbDVzdHJlYW1wYXJzZXJIrgNQ1wJY1wJwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAcA&sclient=gws-wiz-serp#ip=1
+
+Necko walkthrough | PPT
+https://www.slideshare.net/KuoE0/necko-walkthrough
+
+What would an efficient tokenization pipeline look like? (research thread) · gosub-browser/gosub-engine · Discussion #220
+https://github.com/gosub-browser/gosub-engine/discussions/220
+
+8.2.4 Tokenization — HTML5
+https://www.w3.org/TR/2011/WD-html5-20110113/tokenization.html
+
+How to contribute · gosub-browser/gosub-engine · Discussion #58
+https://github.com/gosub-browser/gosub-engine/discussions/58
+
+jaytaph (Joshua Thijssen)
+https://github.com/jaytaph
+
+gosub-browser/gosub-engine: A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
+https://github.com/gosub-browser/gosub-engine
+
+Gosub
+https://github.com/gosub-browser/
+
+Gosub - The gateway to optimized searching and browsing
+https://gosub.io/
+
+Confirm your email address | Zulip
+https://chat.developer.gosub.io/accounts/send_confirm/?email=tannal2409%40gmail.com
+
+HTML parser threading
+https://udn.realityripple.com/docs/Mozilla/Gecko/HTML_parser_threading
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#gosub > char iterator - Gosub - Zulip
+https://chat.developer.gosub.io/#narrow/stream/6-gosub/topic/char.20iterator
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D&op=translate
+
+tommy kuo mozilla - Google 搜索
+https://www.google.com/search?q=tommy+kuo+mozilla&rlz=1C1GCEA_enJP1090JP1090&oq=Tommy+Kuo&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIGCAAQRRg5MgYIARAjGCcyBggCEEUYOzIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxBFGDzSAQgxNTI5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+sqlparser - Rust
+https://docs.rs/sqlparser/latest/sqlparser/
+
+How to implement a programming language (tutorial for beginners)
+https://lisperator.net/pltut/parser/
+
+How to implement a programming language (tutorial for beginners)
+https://lisperator.net/pltut/parser/the-ast
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=compiler&sort=byPopularity&type=story
+
+Writing a C compiler in 500 lines of Python
+https://vgel.me/posts/c500/
+
+A crash course in compilers – Increment: Programming Languages
+https://increment.com/programming-languages/crash-course-in-compilers/
+
+c - Why aren't programs written in Assembly more often? - Stack Overflow
+https://stackoverflow.com/questions/2684364/why-arent-programs-written-in-assembly-more-often/2685541#2685541
+
+An Intro To Compilers | Nicole Orchard
+https://nicoleorchard.com/blog/compilers/
+
+Making WebAssembly even faster: Firefox’s new streaming and tiering compiler - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+
+CS 6120: The Self-Guided Course
+https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+
+CS 6120: Lesson 6: Introduction to LLVM - Video on Demand
+https://vod.video.cornell.edu/media/1_f231lwkz
+
+Want to Write a Compiler? Just Read These Two Papers.
+https://prog21.dadgum.com/30.html
+
+nano-jfp.pdf
+https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf
+
+Let's Build a Compiler
+https://compilers.iecc.com/crenshaw/
+
+Getting Started with LLVM Core Libraries - Google 搜索
+https://www.google.com/search?q=Getting+Started+with+LLVM+Core+Libraries&rlz=1C1GCEA_enJP1090JP1090&oq=Getting+Started+with+LLVM+Core+Libraries&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Fu Song
+https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/#teaching
+
+C++ Insights
+https://cppinsights.io/
+
+C++ Team Blog
+https://devblogs.microsoft.com/cppblog/
+
+Andreas Fertig - Google 搜索
+https://www.google.com/search?q=Andreas+Fertig&rlz=1C1GCEA_enJP1090JP1090&oq=Andreas+Fertig&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Modernes C++ mit Andreas Fertig. Berater, Trainer und Speaker für C++
+https://andreasfertig.com/de/
+
+Andreas Fertig's Blog
+https://andreasfertig.blog/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=parsing%20techniques&sort=byPopularity&type=story
+
+Laurence Tratt: Why We Need to Know LR and Recursive Descent Parsing Techniques
+https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
+
+Just write the #!%/* parser / The role of parsing in compiler classes
+https://tiarkrompf.github.io/notes/?/just-write-the-parser/aside1
+
+CS502 by Tiark Rompf
+https://tiarkrompf.github.io/cs502/
+
+11-ghuloum.pdf
+http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+
+Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com
+https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
+
+Laurence Tratt: Which Parsing Approach?
+https://tratt.net/laurie/blog/2020/which_parsing_approach.html
+
+I write, therefore I am
+https://www.iwriteiam.nl/
+
+JavaCC | The most popular parser generator for use with Java applications.
+https://javacc.github.io/javacc/
+
+Wayback Machine
+https://web.archive.org/web/20150920220626/http://harmonia.cs.berkeley.edu/papers/twagner-thesis.pdf
+
+Laurence Tratt (@ltratt@mastodon.social) - Mastodon
+https://mastodon.social/@ltratt
+
+What if the spec doesn't match the code? • Buttondown
+https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/
+
+CSE 131: Compilers
+https://cseweb.ucsd.edu/classes/sp17/cse131-a/index.html
+
+IParse Studio
+https://fransfaase.github.io/MCH2022ParserWorkshop/IParseStudio.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
