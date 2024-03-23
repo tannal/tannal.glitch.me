@@ -1,5 +1,7 @@
 # inbox
 
+./mach clobber
+
 https://github.com/mozilla/gecko-dev/commits?author=cathiechen
 
 

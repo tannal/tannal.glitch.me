@@ -1,5 +1,68 @@
 # 2024-3-23
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+the creator of npm - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=the+creator+of+npm
+
+Isaac Z. Schlueter - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+Isaac+Z.+Schlueter+
+
+isaacs (isaacs)
+https://github.com/isaacs
+
+blog.izs.me
+https://blog.izs.me/
+
+open sound control - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=open+sound+control
+
+osc-js - npm
+https://www.npmjs.com/package/osc-js
+
+tjfontaine (Timothy J Fontaine)
+https://github.com/tjfontaine
+
+Joyent - Wikipedia
+https://ja.wikipedia.org/wiki/Joyent
+
+webpack/webpack: A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+https://github.com/webpack/webpack
+
+node.js - can you host a private repository for your organization to use with npm? - Stack Overflow
+https://stackoverflow.com/questions/7575627/can-you-host-a-private-repository-for-your-organization-to-use-with-npm
+
+Private npm modules » Debuggable - Node.js Consulting
+http://debuggable.com/posts/private-npm-modules:4e68cc7d-1ac4-42d9-995a-343dcbdd56cb
+
+verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry
+https://github.com/verdaccio/verdaccio
+
+How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript • The Register
+https://www.theregister.com/2016/03/23/npm_left_pad_chaos/
+
+sinopia - npm
+https://www.npmjs.com/package/sinopia
+
+benc.h/benc.h at main · Qard/benc.h
+https://github.com/Qard/benc.h/blob/main/benc.h
+
+QQxiaoming (QQxiaoming) / Repositories
+https://github.com/QQxiaoming?tab=repositories
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+the documentary honeypot - Google 検索
+https://www.google.com/search?q=the+documentary+honeypot&client=ubuntu-sn&hs=TH0&sca_esv=d6727fb810734362&channel=fs&tbm=vid&ei=4k79Zen8KsjX2roPgp-cmAM&start=20&sa=N&ved=2ahUKEwjp9crnxoeFAxXIq1YBHYIPBzM4ChDy0wN6BAgFEAc&biw=1530&bih=788&dpr=1
+
+memory usage docker - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=memory+usage+docker
+
+matsuand (matsuand) / Repositories
+https://github.com/matsuand?tab=repositories
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
