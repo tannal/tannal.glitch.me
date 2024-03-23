@@ -1,5 +1,9 @@
 # 2024-3-23 0 | 0 W
 
+https://www.youtube.com/watch?v=783ccP__No8&t=134s
+
+graphql 2012
+
 Cache npmjs.org registry
 If you have more than one server you want to install packages on, you might want to use this to decrease latency (presumably "slow" npmjs.org will be connected to only once per package/version) and provide limited failover (if npmjs.org is down, we might still find something useful in the cache) or avoid issues like How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript, Many packages suddenly disappeared or Registry returns 404 for a package I have installed before.
 
@@ -11,6 +15,7 @@ ffmpeg -hwaccel cuda -threads 3 -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265
 ffmpeg -hwaccel dxva2 -threads 8 -i Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4 -f lavfi -i aevalsrc=0 -vcodec copy -acodec aac -map 0:0 -map 1:0 -c:v libx264 -pix_fmt yuv420p -shortest -strict experimental -f flv rtmp://192.168.43.246/live/livestream
 
 ffmpeg -hwaccel dxva2 -threads 8 -re -i Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4 -f flv rtmp://192.168.43.246/live/livestream
+
 # 2024-3-22 0 | 0 W
 
 pgrep

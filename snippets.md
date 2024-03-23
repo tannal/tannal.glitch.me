@@ -1,4 +1,27 @@
 
+# html tokenizer
+
+```python
+
+def tokenize(html_input):
+    # Regular expressions for identifying different types of tokens
+    start_tag_pattern = r'<[^/][^>]*>'
+    end_tag_pattern = r'</[^>]*>'
+    text_content_pattern = r'[^<]+'
+
+    # Combine the patterns into a single regular expression
+    combined_pattern = f'({start_tag_pattern})|({end_tag_pattern})|({text_content_pattern})'
+
+    # Tokenize the HTML input
+    tokens = re.findall(combined_pattern, html_input)
+
+    # Flatten the list of tuples and remove empty strings
+    tokens = [token for tup in tokens for token in tup if token]
+
+    return tokens
+
+```
+
 # OpenCV install
 
 ```bash

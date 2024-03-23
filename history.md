@@ -1,5 +1,170 @@
 # 2024-3-23
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[Tutorial] How to build a compiler with LLVM and MLIR - 01 Introduction - YouTube
+https://www.youtube.com/watch?v=Ij4LswX1tZU&list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5&index=1
+
+008. 与小福聊聊编译器那些事 – RustTalk
+https://rusttalk.github.io/podcast/008/
+
+朝夕光年解散了？？？_牛客网
+https://www.nowcoder.com/feed/main/detail/e909379d851a46458f44208a8d145e27
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+15-LLM-finetuning.pdf
+https://mlsyscourse.org/slides/15-LLM-finetuning.pdf
+
+建立自己的npm镜像服务器-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1722254
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues?page=2&q=is%3Aissue+is%3Aopen
+
+• Discord | #projects | Zig Programming Language
+https://discord.com/channels/605571803288698900/1024381264213594242
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=uber%20zig&sort=byPopularity&type=story
+
+Data Race Patterns in Go | Uber Blog
+https://www.uber.com/en-JP/blog/data-race-patterns-in-go/
+
+X 上的 Frank ⚡：“Uber signed a support contract with the Zig foundation to prioritize bug fixes. First binary compiled with Zig was recently deployed to production. Zig cc will eventually be enabled by default for all builds. Cross-compilation to MacOS was a strong selling point.” / X
+https://twitter.com/jedisct1/status/1513081553475313665
+
+layout: Allow transforming inline replaced elements by mrobinson · Pull Request #31833 · servo/servo
+https://github.com/servo/servo/pull/31833/files
+
+Index of /
+http://192.168.43.246:8080/
+
+手把手教你搭建Gitlab服务器，避免踩坑 - Webfunny
+https://www.webfunny.com/blog/post/207
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+JF Bastien
+https://jfbastien.com/
+
+What's New in Clang and LLVM - WWDC19 - Videos - Apple Developer
+https://developer.apple.com/videos/play/wwdc2019/409/
+
+TLB hit 💥 Parsers Podcast Notes
+https://tlbh.it/005_parsers.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Prisma | Simplify working and interacting with databases
+https://www.prisma.io/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+graphql 2012 - Google 搜索
+https://www.google.com/search?q=graphql+2012&sca_esv=85b04f72cc35ed00&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-7rdI0A-iqI8JNGywEhRw6YhLjpw%3A1711172213819&ei=dWr-ZfvGMduWvr0Pqc-duAI&ved=0ahUKEwi71dCf1YmFAxVbi68BHalnBycQ4dUDCBA&uact=5&oq=graphql+2012&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGdyYXBocWwgMjAxMjIGEAAYCBgeMgYQABgIGB5IsA9QyQFYnQ5wAngAkAEAmAHcAaABtgeqAQUwLjQuMbgBA8gBAPgBAZgCA6ACgwPCAggQABiABBjLAcICBBAAGB6YAwCIBgGSBwMxLjKgB8MK&sclient=gws-wiz-serp
+
+graphql the documentary - Google 搜索
+https://www.google.com/search?q=graphql+the+documentary&rlz=1C1GCEA_enJP1090JP1090&oq=graphql+the+docu&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgATSAQg3MjUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Fabrice Bellard: Portrait of a super-productive programmer (2011) | Hacker News
+https://news.ycombinator.com/item?id=5187585
+
+graphql wikipedia - Google 搜索
+https://www.google.com/search?q=graphql+wikipedia&sca_esv=85b04f72cc35ed00&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-_nV6MuOF3MyplBIRskRwhpl_TVQ%3A1711173606719&ei=5m_-ZYPDK6-hvr0Pmv2F8AE&ved=0ahUKEwiDzui32omFAxWvkK8BHZp-AR4Q4dUDCBA&uact=5&oq=graphql+wikipedia&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWdyYXBocWwgd2lraXBlZGlhMggQABiABBjLATIGEAAYBRgeSKMNUClY0gxwAXgAkAEAmAHSAaABuA6qAQUwLjkuMbgBA8gBAPgBAZgCCqAC-QzCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICDBAjGIAEGIoFGBMYJ8ICBBAjGCfCAgoQIxiABBiKBRgnwgIFEAAYgATCAgQQABgewgIGEAAYCBgewgIIEAAYCBgeGAqYAwCIBgGQBgqSBwMxLjmgB40f&sclient=gws-wiz-serp
+
+graphql-js/src/language/parser.ts at a81e6238fa3f3dd317cb33572dcc97020376c329 · graphql/graphql-js
+https://github.com/graphql/graphql-js/blob/a81e6238fa3f3dd317cb33572dcc97020376c329/src/language/parser.ts#L215
+
+GraphQL: The Documentary - YouTube
+https://www.youtube.com/watch?v=783ccP__No8&t=134s
+
+Elixir: The Documentary - YouTube
+https://www.youtube.com/watch?v=lxYFOM3UJzo
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=lost%20semaster%20education&sort=byPopularity&type=story
+
+prometheus - Google 搜索
+https://www.google.com/search?q=prometheus&rlz=1C1GCEA_enJP1090JP1090&oq=prometheus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4MDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+GraphQL: The Documentary - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D783ccP__No8%26t%3D134s
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+React Native 架构解析 - 揭秘 JSI - 掘金
+https://juejin.cn/post/7095271631689351175
+
+ChatGPT
+https://chat.openai.com/c/5af3bdde-31bd-4451-8383-ae5c3b44d103
+
+regex101: build, test, and debug regex
+https://regex101.com/
+
+regex tokenizer - Google 搜索
+https://www.google.com/search?q=regex+tokenizer&rlz=1C1GCEA_enJP1090JP1090&oq=regex+tokenizer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgMGB4yBggCEAAYHjIICAMQABgMGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGA8YHjIGCAcQABgeMgYICBAAGB4yCAgJEAAYBRge0gEIMzIwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+regex - Tokenize by using regular expressions (parenthesis) - Stack Overflow
+https://stackoverflow.com/questions/43092970/tokenize-by-using-regular-expressions-parenthesis
+
+regex - making a tokenizer using regular expressions in Python 3 - Stack Overflow
+https://stackoverflow.com/questions/53251300/regex-making-a-tokenizer-using-regular-expressions-in-python-3
+
+cpython/Lib/tokenize.py at v3.7.1 · python/cpython
+https://github.com/python/cpython/blob/v3.7.1/Lib/tokenize.py
+
+tokenizer and regular expression - Google 搜索
+https://www.google.com/search?q=tokenizer+and+regular+expression&rlz=1C1GCEA_enJP1090JP1090&oq=tokenizer+and+regular+expression&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDc5ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=parser%20tokenizer&sort=byPopularity&type=story
+
+html package - golang.org/x/net/html - Go Packages
+https://pkg.go.dev/golang.org/x/net/html
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+c compiler github - Google 搜索
+https://www.google.com/search?q=c+compiler+github&rlz=1C1GCEA_enJP1090JP1090&oq=c+compiler+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQ4MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+acwj/01_Scanner at master · DoctorWkt/acwj
+https://github.com/DoctorWkt/acwj/tree/master/01_Scanner
+
+CSC 453 - Operating Systems
+https://home.adelphi.edu/~siegfried/cs453/syllabus.html
+
+Golang 输入输出 stdio | Maple.Link
+https://maple.link/2021/06/14/Golang%20%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%20stdio/
+
+html package - golang.org/x/net/html - Go Packages
+https://pkg.go.dev/golang.org/x/net/html
+
+How to Parse HTML in Golang [2024 Tutorial] - ZenRows
+https://www.zenrows.com/blog/golang-html-parser#parse-html-using-the-tokenizer-api
+
+parsing techniques pdf - Google 搜索
+https://www.google.com/search?q=parsing+techniques+pdf&sca_esv=cb7811ce01b89105&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09Jkq7AiaVHm88zUoyixtqaw2OvYw%3A1711182155036&ei=S5H-ZfPqAajg1e8Prtm2gA8&ved=0ahUKEwizvPyj-omFAxUocPUHHa6sDfAQ4dUDCBA&uact=5&oq=parsing+techniques+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnBhcnNpbmcgdGVjaG5pcXVlcyBwZGYyCBAAGIAEGMsBSPgFUABY0ARwAHgAkAEAmAHDAqABwQeqAQcwLjEuMi4xuAEDyAEA-AEBmAIEoALNB8ICCBAuGIAEGMsBwgIFEAAYgATCAgQQABgewgIGEAAYCBgemAMAkgcHMC4xLjIuMaAHsRM&sclient=gws-wiz-serp
+
+Slides00.pdf
+https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/00/Slides00.pdf
+
+awh/compsci-papers: Influential computer science papers
+https://github.com/awh/compsci-papers/tree/master
+
+lacc/src/parser/parse.c at master · larmel/lacc
+https://github.com/larmel/lacc/blob/master/src/parser/parse.c
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
