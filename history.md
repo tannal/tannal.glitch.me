@@ -1,5 +1,137 @@
 # 2024-3-23
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=compiler&sort=byPopularity&type=story
+
+article.gmane.org
+http://article.gmane.org/gmane.comp.lang.lua.general/75426
+
+exaloop/codon: A high-performance, zero-overhead, extensible Python compiler using LLVM
+https://github.com/exaloop/codon
+
+legacy-cc/prestruct/c00.c at master · mortdeus/legacy-cc
+https://github.com/mortdeus/legacy-cc/blob/master/prestruct/c00.c
+
+Writing a C Compiler, Part 1
+https://norasandler.com/2017/11/29/Write-a-Compiler.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=deepspeed&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=Abstract%20synatx%20tree&sort=byPopularity&type=story
+
+How JavaScript works: Parsing, Abstract Syntax Trees (ASTs) + 5 tips on how to minimize parse time | by Lachezar Nickolov | SessionStack Blog | Medium
+https://medium.com/sessionstack-blog/how-javascript-works-parsing-abstract-syntax-trees-asts-5-tips-on-how-to-minimize-parse-time-abfcf7e8a0c8
+
+ChatGPT
+https://chat.openai.com/c/354662da-bbba-4d78-99fd-d6e63cbc0694
+
+Index of /Blazing Fast Next.js/content/drive/Shareddrives/[PRIVATE] AnonXPro Drive/Private/newline/Blazing Fast Next.js with React Server Components/
+http://192.168.43.246:8080/Blazing%20Fast%20Next.js/content/drive/Shareddrives/%5BPRIVATE%5D%20AnonXPro%20Drive/Private/newline/Blazing%20Fast%20Next.js%20with%20React%20Server%20Components/
+
+Stability AI
+https://stability.ai/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+programming
+https://www.reddit.com/r/programming/
+
+article.gmane.org
+http://article.gmane.org/gmane.comp.lang.lua.general/75426
+
+Node.js TSC Confirms: No Intention to Remove npm from Distribution : r/programming
+https://www.reddit.com/r/programming/comments/1blcz5v/nodejs_tsc_confirms_no_intention_to_remove_npm/
+
+Node.js TSC Confirms: No Intention to Remove npm from Distribution - Socket
+https://socket.dev/blog/node-js-tsc-confirms-no-intention-to-remove-npm-from-distribution
+
+2024-03-20-Node.js Technical Steering Committee meeting - YouTube
+https://www.youtube.com/watch?v=wPrDWotnsdA
+
+Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services - Microsoft Research
+https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/
+
+microsoft/garnet: Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+https://github.com/microsoft/garnet
+
+put rendering related info on documents map · servo/servo@3e2a784
+https://github.com/servo/servo/commit/3e2a784fb75d6b5c5d450c2043d14cc70ed1a660
+
+Implement scrolling events · Issue #31665 · servo/servo
+https://github.com/servo/servo/issues/31665
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#event-loop
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#task-queue
+
+nodeshift.dev
+https://nodeshift.dev/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+%22+task+queues%22&type=commits&p=2
+
+sass/dart-sass: The reference implementation of Sass, written in Dart.
+https://github.com/sass/dart-sass
+
+multithread programming - Google 搜索
+https://www.google.com/search?q=multithread+programming&sca_esv=18fae8d458e6cfdd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08xgp2mTNm6JIjSVPFOcejJlH-IZA%3A1711200006212&ei=Btf-Zc_ADLHgseMP8r60uAw&oq=multithread+prog&gs_lp=Egxnd3Mtd2l6LXNlcnAiEG11bHRpdGhyZWFkIHByb2cqAggBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgoQABiABBjLARgKMgoQABiABBjLARgKMgYQABgeGAoyBBAAGB4yBBAAGB4yBBAAGB4yCBAAGB4YDxgKSL4PUABYvwZwAHgBkAEAmAHQAaABggeqAQUwLjUuMbgBA8gBAPgBAZgCBqAClgfCAg4QLhiABBjLARjHARivAZgDAJIHBTAuNS4xoAfiHA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=concurrent%20program&sort=byPopularity&type=story
+
+Alice
+https://www.ps.uni-saarland.de/alice/
+
+multithreading - What are the drawbacks of making a multi-threaded JavaScript runtime implementation? - Software Engineering Stack Exchange
+https://softwareengineering.stackexchange.com/questions/315454/what-are-the-drawbacks-of-making-a-multi-threaded-javascript-runtime-implementat
+
+A Science of Concurrent Programs [pdf] | Hacker News
+https://news.ycombinator.com/item?id=38863339
+
+E.W. Dijkstra Archive: Substitution Processes (EWD 28)
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD00xx/EWD28.html
+
+root.tex
+http://brinch-hansen.net/papers/1995c.pdf
+
+Microsoft Word - Correctness by Construction.doc
+https://www.anthonyhall.org/Correctness_by_Construction.pdf
+
+Lamport TLA+ Course Lecture 1: Introduction to TLA+ (HD) - YouTube
+https://www.youtube.com/watch?app=desktop&v=p54W-XOIEF8&t=168
+
+Pascal-F Verifier User Manual, version 2 (1985) : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/manualzilla-id-5928072/mode/2up
+
+Why Threads Are a Bad Idea (1995) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=17297325
+
+people.eecs.berkeley.edu/~brewer/
+https://people.eecs.berkeley.edu/~brewer/
+
+Index of /
+http://192.168.43.246:8080/
+
+Rob von Behren - Google 搜索
+https://www.google.com/search?q=Rob+von+Behren&rlz=1C1GCEA_enJP1090JP1090&oq=Rob+von+Behren&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+how amazon web services uses formal methods hn - Google 搜索
+https://www.google.com/search?q=how+amazon+web+services+uses+formal+methods+hn&sca_esv=18fae8d458e6cfdd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_ETnndajMn0cCxiXGUZpFya2I6Aw%3A1711201409029&ei=gdz-Zc6uAdbh2roP5eK7-Ak&ved=0ahUKEwiO8_6AwoqFAxXWsFYBHWXxDp8Q4dUDCBA&uact=5&oq=how+amazon+web+services+uses+formal+methods+hn&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmhvdyBhbWF6b24gd2ViIHNlcnZpY2VzIHVzZXMgZm9ybWFsIG1ldGhvZHMgaG4yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUilBlCSAlj9BHABeAGQAQCYAYwCoAHOA6oBBTAuMS4xuAEDyAEA-AEBmAIDoALXA8ICChAAGEcY1gQYsAPCAgQQABgemAMAiAYBkAYEkgcFMS4xLjGgB6sG&sclient=gws-wiz-serp
+
+How Amazon Web Services Uses Formal Methods (2015) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=22082869
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
