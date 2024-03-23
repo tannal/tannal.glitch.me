@@ -1,5 +1,71 @@
 # 2024-3-23
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+utf8-decoder: Results
+https://software.hixie.ch/utilities/cgi/unicode-decoder/utf8-decoder
+
+Index of /career
+http://ian.hixie.ch/career/
+
+utf8 - Google 検索
+https://www.google.com/search?q=utf8+&client=ubuntu-sn&hs=bEz&sca_esv=85b04f72cc35ed00&channel=fs&ei=fHX-ZYLBMeS2vr0Popio0AI&ved=0ahUKEwiC797h34mFAxVkm68BHSIMCioQ4dUDCBA&uact=5&oq=utf8+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXV0ZjggMgUQABiABDIKEAAYgAQYigUYQzIFEAAYgAQyChAAGIAEGIoFGEMyBRAAGIAEMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgUQABiABDIFEAAYgAQyBRAAGIAESPAwUPAHWPgIcAF4AZABAJgBvwGgAeoCqgEDMC4yuAEDyAEA-AEBmAICoAK0AcICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwMxLjGgB6sF&sclient=gws-wiz-serp
+
+sleep syscall - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=sleep+syscall
+
+Thread-Specific Breakpoints (Debugging with GDB)
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/Thread_002dSpecific-Breakpoints.html
+
+firefox parser - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+parser
+
+SpiderMonkey — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/js/index.html
+
+Gecko Logging — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/xpcom/logging.html
+
+How to handle all signals in GDB - Stack Overflow
+https://stackoverflow.com/questions/24999208/how-to-handle-all-signals-in-gdb
+
+json stream parser - Google 検索
+https://www.google.com/search?q=json+stream+parser&client=ubuntu-sn&hs=UMf&sca_esv=74d2f3e5f4c55b44&channel=fs&ei=ZoH-ZdfZNNzi2roP9tGv-Ak&ved=0ahUKEwjXpI-Q64mFAxVcsVYBHfboC58Q4dUDCBA&uact=5&oq=json+stream+parser&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmpzb24gc3RyZWFtIHBhcnNlcjIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0inCFDxBViIB3ACeAGQAQCYAbkBoAG5AaoBAzAuMbgBA8gBAPgBAZgCAqACC5gDAIgGAZAGCpIHATKgB7ED&sclient=gws-wiz-serp
+
+daggaz/json-stream: Simple streaming JSON parser and encoder.
+https://github.com/daggaz/json-stream
+
+parsing - Writing an HTML Parser - Stack Overflow
+https://stackoverflow.com/questions/7192101/writing-an-html-parser
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#parsing
+
+parse (protected) - Simple HTML DOM documentation
+https://simplehtmldom.sourceforge.io/docs/1.9/api/simple_html_dom/parse/
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#parsing
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+GuillaumeGomez (Guillaume Gomez)
+https://github.com/GuillaumeGomez
+
+List of tutorials and blog posts
+https://blog.guillaume-gomez.fr/
+
+sysinfo: how to extract systems' information
+https://blog.guillaume-gomez.fr/articles/2021-09-06+sysinfo%3A+how+to+extract+systems%27+information
+
+machine learning webnn mdn - Google 検索
+https://www.google.com/search?q=machine+learning+webnn+mdn&client=ubuntu-sn&hs=OXj&sca_esv=94a99291f01d3f51&channel=fs&ei=GsD-ZeOwM_2p2roPoYWugAo&ved=0ahUKEwjjpab2poqFAxX9lFYBHaGCC6AQ4dUDCBA&uact=5&oq=machine+learning+webnn+mdn&gs_lp=Egxnd3Mtd2l6LXNlcnAiGm1hY2hpbmUgbGVhcm5pbmcgd2Vibm4gbWRuMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEj0HlDPEVicHXADeAGQAQCYAfYCoAH2EKoBBzAuMy40LjK4AQPIAQD4AQGYAgygAqIRwgIKEAAYRxjWBBiwA8ICBRAAGIAEwgIEEAAYHsICBxAAGIAEGBPCAgkQABiABBgNGBPCAggQABiJBRiiBMICBRAhGKABmAMAiAYBkAYKkgcHMy4yLjUuMqAHixw&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=SpiderMonkey&sort=byPopularity&type=story
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,39 @@
 # inbox
 
+
+gdb /home/tannal/tannalwork/projects/mozilla-unified/obj-x86_64-pc-linux-gnu/dist/bin/firefox
+
+set MOZ_LOG="example_logger:3"
+export MOZ_LOG="example_logger:3"
+MOZ_LOG="example_logger:3" ./mach run
+
+parser
+ mTreeBuilder
+  tokenizer
+
+nsLayoutUtils::PaintFrame
+
+PR_Sleep(PR_MillisecondsToInterval(1));
+
+
+b nsHtml5StreamParser::DoDataAvailableBuffer
+
+handle all nostop
+
+ : public Runnable
+
+b nsHtml5StreamParser::OnDataAvailable
+parser/html/nsHtml5StreamParser.cpp
+
+set follow-fork-mode child
+
+b DrainDirectTasks thread 13
+break locspec thread thread-id
+
+b nsHtml5Parser.cpp:311
+b nsThread.cpp:1137
+b nsSocketTransport2.cpp:394
+
 ./mach clobber
 
 https://github.com/mozilla/gecko-dev/commits?author=cathiechen
