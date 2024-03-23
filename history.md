@@ -1,5 +1,79 @@
 # 2024-3-23
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Our Vision for the Rust Specification | Inside Rust Blog
+https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html
+
+3355-rust-spec - The Rust RFC Book
+https://rust-lang.github.io/rfcs/3355-rust-spec.html
+
+video-dev/hls.js: HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+https://github.com/video-dev/hls.js
+
+M3U8 Player - HLS Player
+https://chromewebstore.google.com/detail/m3u8-player-hls-player/nlhnjkakhcjdjacgojecmegdmmbciifg
+
+hls.js demo
+https://hlsjs.video-dev.org/demo/
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?autostart=true&app=live&stream=livestream.flv&server=192.168.43.246&port=8082&vhost=192.168.43.246&schema=http
+
+不动源码，让FFmpeg命令行执行时间缩短400%-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1987764
+
+Introduction | SRS
+https://ossrs.net/lts/zh-cn/docs/v5/doc/introduction
+
+video - Ffmpeg FLV compatibility with audio codecs - Super User
+https://superuser.com/questions/1761332/ffmpeg-flv-compatibility-with-audio-codecs
+
+ffmpeg - Unknown decoder 'libx264' - Stack Overflow
+https://stackoverflow.com/questions/64597880/unknown-decoder-libx264
+
+ffmpeg 慢 - Google 搜索
+https://www.google.com/search?q=ffmpeg+%E6%85%A2&rlz=1C1GCEA_enJP1090JP1090&oq=ffmpeg+%E6%85%A2&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgcIARAAGIAEMgcIAhAAGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyCQgFEAAYDBiABDIHCAYQABiABDIGCAcQRRg90gEIMzk0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+video streaming - How to re-stream h265 RTSP stream using FFMPEG - Stack Overflow
+https://stackoverflow.com/questions/45816160/how-to-re-stream-h265-rtsp-stream-using-ffmpeg
+
+SRS Server - H.265直播省一半带宽费用 | SRS
+https://ossrs.net/lts/zh-cn/blog/lets-do-h265-live-streaming
+
+SRS Server - H.265直播省一半带宽费用 | SRS
+https://ossrs.net/lts/zh-cn/blog/lets-do-h265-live-streaming#ffmpeg-tools
+
+如何播放ts文件 - Google 搜索
+https://www.google.com/search?q=%E5%A6%82%E4%BD%95%E6%92%AD%E6%94%BEts%E6%96%87%E4%BB%B6&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%92%AD%E6%94%BEtssh&gs_lcrp=EgZjaHJvbWUqCggBEAAYgAQYogQyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDQ4NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Web端 Html5 直接播放 .ts 视频 - 简书
+https://www.jianshu.com/p/4d90f81b01bc
+
+Web Player
+https://player.swiftfederation.com/#hls
+
+Code search results
+https://github.com/search?q=repo%3Avideojs%2Fvideo.js%20m3u8&type=code
+
+Getting Started with Video.js - Video.js: The Player Framework | Video.js
+https://videojs.com/getting-started/
+
+moneytoo/Player: ▶ Simple and lightweight, yet polished and powerful Android video player based on ExoPlayer
+https://github.com/moneytoo/Player
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20lost%20s&sort=byPopularity&type=story
+
+Index of /
+http://192.168.43.246:8080/
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
