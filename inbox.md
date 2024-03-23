@@ -1,5 +1,9 @@
 # 2024-3-23 0 | 0 W
 
+Cache npmjs.org registry
+If you have more than one server you want to install packages on, you might want to use this to decrease latency (presumably "slow" npmjs.org will be connected to only once per package/version) and provide limited failover (if npmjs.org is down, we might still find something useful in the cache) or avoid issues like How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript, Many packages suddenly disappeared or Registry returns 404 for a package I have installed before.
+
+
 ffmpeg -hwaccel vulkan -threads 8 -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
 
 ffmpeg -hwaccel cuda -threads 3 -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c:v libx264 -c copy -f hls rtmp://localhost/live/livestream

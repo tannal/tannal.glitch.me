@@ -1,5 +1,9 @@
 # inbox
 
+Timothy J Fontaine early hire of nodejs team https://github.com/tjfontaine
+
+Isaac Z. Schlueter creator of npm nodejs original team https://blog.izs.me/
+
 Mendel Rosenblum VMware Cofounder 
 
 wasm openjs https://github.com/devsnek

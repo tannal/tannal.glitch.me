@@ -399,14 +399,9 @@ html_div_element.h
 ```bash
 
 export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
-
-
 mkdir chromium && cd chromium
-
 fetch chromium
-
 cd src
-
 ./build/install-build-deps.sh
 
 gn gen out/Default
