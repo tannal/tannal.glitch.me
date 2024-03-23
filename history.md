@@ -1,3 +1,87 @@
+# 2024-3-23
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+character where - Google 搜索
+https://www.google.com/search?q=character+where&rlz=1C1GCEA_enJP1090JP1090&oq=character+where&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDILCAQQABgKGBMYgAQyCAgFEAAYExgeMgoIBhAAGAgYExgeMgoIBxAAGAgYExgeMgoICBAAGAgYExgeMgoICRAAGAgYExge0gEINTU1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+first none empty character on the line vim - Google 搜索
+https://www.google.com/search?q=first+none+empty+character+on+the+line+vim&rlz=1C1GCEA_enJP1090JP1090&oq=first+none+empty+character+on+the+line+vim&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQkxMTU2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+how to enable vim mode in bash - Google 搜索
+https://www.google.com/search?q=how+to+enable+vim+mode+in+bash&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+enable+vim+mode+in+bash&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDc2NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+regex101: build, test, and debug regex
+https://regex101.com/
+
+MicroK8s - Zero-ops Kubernetes for developers, edge and IoT
+https://microk8s.io/
+
+minik8s搭建过程最小集群k8s_minikubelet-CSDN博客
+https://blog.csdn.net/u014447716/article/details/114623786
+
+ChatGPT
+https://chat.openai.com/c/5201c24b-adad-4183-8558-582f17063e41
+
+离岸人民币是什么 - Google 搜索
+https://www.google.com/search?q=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%98%AF%E4%BB%80%E4%B9%88&sca_esv=781fa1a7ec643214&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08vNaDvk-V63gjhyqnREj-bBHCKAQ%3A1711113487634&ei=D4X9Zd2jJtWXvr0P8_Ge4AY&ved=0ahUKEwid5-a8-oeFAxXVi68BHfO4B2wQ4dUDCBA&uact=5&oq=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%98%AF%E4%BB%80%E4%B9%88&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOemu-WyuOS6uuawkeW4geaYr-S7gOS5iDIFEAAYgAQyBRAAGIAEMggQABgFGB4YD0jEC1DzAVi-BXABeAGQAQCYAccBoAHwBaoBAzAuNLgBA8gBAPgBAZgCBKACvQTCAgoQABhHGNYEGLADwgIHEAAYgAQYDJgDAIgGAZAGCpIHBTEuMi4xoAfNBw&sclient=gws-wiz-serp
+
+阿里云盘 下载器 github - Google 搜索
+https://www.google.com/search?q=%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98+%E4%B8%8B%E8%BD%BD%E5%99%A8+github&sca_esv=781fa1a7ec643214&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09qtGP7BnMtgqFtK6LHPrNfv3lpjQ%3A1711113748886&ei=FIb9Zd3cNeCSvr0P9YmhgAU&ved=0ahUKEwjdtrC5-4eFAxVgia8BHfVECFAQ4dUDCBA&uact=5&oq=%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98+%E4%B8%8B%E8%BD%BD%E5%99%A8+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHemYv-mHjOS6keebmCDkuIvovb3lmaggZ2l0aHViSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAJgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+fuse filesystem - Google 搜索
+https://www.google.com/search?q=fuse+filesystem&rlz=1C1GCEA_enJP1090JP1090&oq=fuse+filesystem&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgzMjY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+dry run - Google 搜索
+https://www.google.com/search?sca_esv=781fa1a7ec643214&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_8JUHl-nTHykWYL4uYk-k8cAEkIA:1711116856181&q=dry+run&spell=1&sa=X&ved=2ahUKEwj2xoaDh4iFAxVb3TQHHQdMA5YQBSgAegQIBxAC&biw=1536&bih=703&dpr=1.25
+
+Nickolai Zeldovich
+https://people.csail.mit.edu/nickolai/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+隐私设置错误
+https://www.xjimmy.com/study_openstack
+
+使用 FFmpeg 推流 | zhxy-CN の 小窝
+https://owo.cab/103/
+
+推流本地MP4视频出现错误-慕课网
+https://www.imooc.com/qadetail/292811
+
+SRS
+http://192.168.43.246:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+直播协议RTMP、HLS、HTTP FLV
+https://driverzhang.github.io/post/%E7%9B%B4%E6%92%AD%E5%8D%8F%E8%AE%AErtmphlshttp-flv/
+
+FFmpeg转码太慢的解决方案_51CTO博客_ffmpeg转码速度太慢
+https://blog.51cto.com/xiaohaiwa/5380303
+
+Web 直播推流、推流服务器、拉流端实现的方案 – 兰陵美酒郁金香的个人博客
+https://www.xhyonline.com/?p=1471
+
+gwuhaolin/livego: live video streaming server in golang
+https://github.com/gwuhaolin/livego
+
+owncast/owncast: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+https://github.com/owncast/owncast
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+servo/rust-cssparser: Rust implementation of CSS Syntax Level 3
+https://github.com/servo/rust-cssparser
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+ttl.sh | An anonymous & ephemeral (and free) Docker image registry
+https://ttl.sh/
+
 # 2024-3-22
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
