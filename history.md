@@ -1,5 +1,113 @@
 # 2024-3-23
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+12-transformers-attention.pdf
+https://mlsyscourse.org/slides/12-transformers-attention.pdf
+
+(13) Facebook
+https://www.facebook.com/ccckmit
+
+minidocker - Google 搜索
+https://www.google.com/search?q=minidocker&rlz=1C1GCEA_enCN1091CN1091&oq=minidocker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQLhjHARjRAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIKCAcQABixAxiABDIQCAgQABiDARixAxiABBiKBTIHCAkQABiABNIBCDEyODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Devin (the Developer)
+https://preview.devin.ai/
+
+Cognition
+https://www.cognition-labs.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+news.ycombinator.com
+https://news.ycombinator.com/item?id=39679787
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+getty 使用 - Google 搜索
+https://www.google.com/search?q=getty+%E4%BD%BF%E7%94%A8&rlz=1C1GCEA_enCN1091CN1091&oq=getty+%E4%BD%BF%E7%94%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDI0MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+串口登陆类ubuntu系统设置方法
+https://seteuid0.com/posts/serail_console_login_ubuntu_howto/
+
+start command not found - Google 搜索
+https://www.google.com/search?q=start+command+not+found&rlz=1C1GCEA_enCN1091CN1091&oq=start+command&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgMGB4yBggFEAAYHjIGCAYQABgeMgYIBxBFGDzSAQgzMzUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/auth/login?iss=https%3A%2F%2Fauth0.openai.com%2F
+
+(3) [eBook] UI Adrian - How To Design Better UI 3.0 - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-ui-adrian-how-to-design-better-ui-3-0.10662/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+roife (@roifex) / X
+https://twitter.com/roifex
+
+roife on X: "“一身 sys 味的我，怎么敢靠近一身 AI 味的你。发论文时你是天之骄子，而我是好几年都不中一篇 paper 的鼠鼠。我 sys 乞丐的脸怎么敢贴近你 AI 骄子的脸。我跑 QEMU 的身体，怎么敢怀抱你做深度学习算法的高贵的臂弯。我讨饭也讨不到一个 30w offer 的手怎么敢紧握你年包 100w+的五指。” fwd from v2ex" / X
+https://twitter.com/roifex/status/1753811062871515365
+
+fwd from v2ex - Google 搜索
+https://www.google.com/search?q=fwd+from+v2ex&rlz=1C1GCEA_enCN1091CN1091&oq=fwd+from+v2ex&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjkxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+计算机专业读硕，搞 system 还是 ai？ - V2EX
+https://www.v2ex.com/t/1013797
+
+cppscript - Google 搜索
+https://www.google.com/search?q=cppscript&rlz=1C1GCEA_enCN1091CN1091&oq=cppscript&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDI3MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cppscript - Google 搜索
+https://www.google.com/search?q=cppscript&rlz=1C1GCEA_enCN1091CN1091&oq=cpp&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhAjGCcyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxMTc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+C++ scripts
+https://www.csscript.net/help/cpp.html
+
+隐私设置错误
+https://www.cppscript.org/
+
+Brandon McKinzie和Jean-Philippe F, Sam Dodge, Philipp Dufter - Google 搜索
+https://www.google.com/search?q=Brandon+McKinzie%E5%92%8CJean-Philippe+F%2C+Sam+Dodge%2C+Philipp+Dufter&rlz=1C1GCEA_enCN1091CN1091&oq=Brandon+McKinzie%E5%92%8CJean-Philippe+F%2C+Sam+Dodge%2C+Philipp+Dufter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Resume.pdf
+http://mckinziebrandon.me/assets/pdf/Resume.pdf
+
+(14) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Brandon McKinzie - Google 搜索
+https://www.google.com/search?q=Brandon+McKinzie&rlz=1C1GCEA_enCN1091CN1091&oq=Brandon+McKinzie&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEEUYPDIGCAYQRRg80gEIMTI3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+(3) Search results for query: neetcode | Page 2
+https://tutflix.org/search/2298388/?page=2&q=neetcode&o=date
+
+(3) NeetCode - Algorithms & Data Structures for Beginners - TutFlix - Free Education Community
+https://tutflix.org/threads/neetcode-algorithms-data-structures-for-beginners.50115/page-3#post-167927
+
+(3) Neetcode - Advanced Algorithms - TutFlix - Free Education Community
+https://tutflix.org/resources/neetcode-advanced-algorithms.8350/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#Zqej3mvXKavVqhpJoREoRn/2kHuzcQvArq0YDm2sZYk1Ly8YJW+LiZSs5Y09pYWeeWfxkxBpdduuvd449A==
+
+Neetcode Advanced Algorithms.rar - Google 云端硬盘
+https://drive.google.com/file/d/1gCgCWCyIUlUzWJ4ZoI89zmeJHJVcZ0nz/view
+
+首页 - Google 云端硬盘
+https://drive.google.com/drive/home
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
