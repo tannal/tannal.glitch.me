@@ -1,10 +1,50 @@
 # 2024-3-22 0 | 0 W
 
+pgrep
+
+ffmpeg -hwaccel cuda -threads 3 -preset ultrafast -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
+
+ffmpeg -hwaccels
+ffmpeg -benchmark -hwaccel vdpau -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -f null -
+
+cuda
+vaapi
+drm
+opencl
+vulkan
+
+
+ffmpeg -hwaccel vdpau -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
+
+ls | grep 'I' | sed "s/^/file /g" > playlist.txt
+
+ls | grep I > playlist.txt
+ffmpeg -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
+
+ffmpeg -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -vcodec libx264 -acodec aac -b:v 1m -b:a 320k -f flv rtmp://localhost/live/livestream
+
+tannal@raspi:~/tannalwork/projects/postgres$ sha1sum meson.build 
+fe9053c9c00cd8ceb9622f78da1079fbf91e2e25  meson.buil
+
+git log --graph --decorate --oneline
+
+microk8s
+
+ffmpeg -loglevel panic -i ~/tannalwork/videos/FrontendMasters\ -\ CSS\ Projects/0001_Part_1--\[TutFlix.ORG]--.mp4 -frame 1 -f image2 - | convert - -colorspace gray - | feh
+
+cat logfile | sed 's/.tannal//' | sed 's/.*DETAIL//'
+cat logfile | sed 's/.tannal//' | sed 's/archive/fuck/g'
+
+parse html parse json
+
+xargs
+
+
 vim ~/.config/verdaccio/config.yaml
 
 
 uplinks:
-  npmjs:
+  npmjs:       
     #url: https://registry.npmjs.org/
     #url: https://repo.huaweicloud.com/repository/npm/
     url: https://registry.npm.taobao.org/
