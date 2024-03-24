@@ -1,5 +1,13 @@
 # 2024-3-23 0 | 0 W
 
+development operations
+
+cargo tree
+
+cargo new math --lib
+
+cargo new/init
+
 https://www.youtube.com/watch?v=783ccP__No8&t=134s
 
 graphql 2012

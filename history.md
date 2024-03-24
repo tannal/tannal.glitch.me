@@ -3,6 +3,147 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+皮特·舒尔策 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%9A%AE%E7%89%B9%C2%B7%E8%88%92%E5%B0%94%E7%AD%96
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+npm-cache | npm Docs
+https://docs.npmjs.com/cli/v8/commands/npm-cache
+
+cacache - npm
+https://www.npmjs.com/package/cacache
+
+Optimizing: Scripts | Next.js
+https://nextjs.org/docs/app/building-your-application/optimizing/scripts
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Event loop - Wikipedia
+https://en.wikipedia.org/wiki/Event_loop
+
+Reactor pattern - Wikipedia
+https://en.wikipedia.org/wiki/Reactor_pattern
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=thread%20is%20a%20bad%20idea&sort=byPopularity&type=story
+
+Rafael Salerno - DevOps Engineering: Understanding Reactor Pattern - Thread-based and Event-driven
+https://salerno-rafael.blogspot.com/2016/06/understanding-reactor-pattern-thread.html
+
+TOML: Tom's Obvious Minimal Language
+https://toml.io/en/
+
+cktan/tomlc99: TOML C library
+https://github.com/cktan/tomlc99
+
+open source mini docker - Google 搜索
+https://www.google.com/search?q=open+source+mini+docker&rlz=1C1GCEA_enJP1090JP1090&oq=open+source+mini+docker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQxMzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Support for pre-built dependencies · Issue #1139 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/1139
+
+cache sharing npm - Google 搜索
+https://www.google.com/search?q=cache+sharing+npm&sca_esv=100a8d72724cfbcd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_nR9n-KzgRtYal3qejsjw75fynHw%3A1711204276333&ei=tOf-ZYz0E9yS4-EP2cK-0Aw&ved=0ahUKEwiMnp3YzIqFAxVcyTgGHVmhD8oQ4dUDCBA&uact=5&oq=cache+sharing+npm&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWNhY2hlIHNoYXJpbmcgbnBtMgUQIRigAUifPFDHCFjbOnABeAGQAQCYAaQBoAG9BKoBAzAuNLgBA8gBAPgBAZgCBaACzATCAgoQABhHGNYEGLADwgIEEAAYHsICBhAAGAUYHsICCBAAGAUYHhgPwgIGEAAYCBgemAMAiAYBkAYKkgcDMS40oAe1CA&sclient=gws-wiz-serp#ip=1
+
+Benefits of Cache Sharing
+https://pages.cs.wisc.edu/~cao/papers/summary-cache/node3.html
+
+ChatGPT
+https://chat.openai.com/c/5895d578-68b7-48de-9131-d224fa79afa9
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+dmca/2024/03/2024-03-06-google.md at master · github/dmca
+https://github.com/github/dmca/blob/master/2024/03/2024-03-06-google.md
+
+vim grep - Google 搜索
+https://www.google.com/search?q=vim+grep&rlz=1C1GCEA_enJP1090JP1090&oq=vim+grep&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+人间指南
+http://liubin.org/
+
+Rust async/await 内部是怎么实现的 - 人间指南
+http://liubin.org/blog/2021/04/15/async-slash-await-internal/
+
+Setting up an npm mirror in a private network? : r/webdev
+https://www.reddit.com/r/webdev/comments/5mnczg/setting_up_an_npm_mirror_in_a_private_network/
+
+Mirroring the Public Registry · npm Enterprise Docs
+https://npm.github.io/npme-docs/workflow/mirroring.html
+
+How To Create An NPM Repository Mirror - Rus
+https://rus.io/how-to-create-an-npm-repository-mirror/
+
+Herzlich Willkommen zur Studie
+https://flutter-crush-4ece9.web.app/
+
+(3 封私信 / 33 条消息) Dart 语言失败了吗？ - 知乎
+https://www.zhihu.com/question/44509306
+
+公开分享受限
+https://shimo.im/docs/loqeW4m75jFOv0An
+
+(3 封私信 / 33 条消息) 圆胖肿 - 知乎
+https://www.zhihu.com/people/zhao-ce-33/posts?page=2
+
+让594名员工在全世界57个国家远程办公,也许这就是未来的公司应该有的样子 - 知乎
+https://zhuanlan.zhihu.com/p/29083606
+
+(3 封私信 / 35 条消息) 数字游民Jarod - 知乎
+https://www.zhihu.com/people/jarodise
+
+什么是数字游民？（2024最新简化版） - 知乎
+https://zhuanlan.zhihu.com/p/680407411
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//www.graalvm.org/community/internship/
+
+openjfx/jfx-dev/rt: log
+https://hg.openjdk.org/openjfx/jfx-dev/rt
+
+erdengk/gsoc-analyse: 帮助新手参与开源
+https://github.com/erdengk/gsoc-analyse
+
+知乎 - 安全中心
+https://link.zhihu.com/?target=https%3A//v2tl.com/
+
+阿里巴巴资深技术专家雷卷：值得开发者关注的 Java 8 后时代的语言特性-阿里云开发者社区
+https://developer.aliyun.com/article/717787?utm_content=g_1000075630
+
+bsideup/jabel: Jabel - unlock Javac 9+ syntax when targeting Java 8
+https://github.com/bsideup/jabel?spm=a2c6h.12873639.article-detail.9.20766397aIy24r
+
+Development and Operations - Google 搜索
+https://www.google.com/search?q=Development+and+Operations&sca_esv=da8686212ff90448&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-k38X6OEzkagLBei9q0Yh-a_pWfg%3A1711236643906&ei=I2b_ZbGAN5WsseMPib2TqAQ&ved=0ahUKEwjxnaWixYuFAxUVVmwGHYneBEUQ4dUDCBA&uact=5&oq=Development+and+Operations&gs_lp=Egxnd3Mtd2l6LXNlcnAiGkRldmVsb3BtZW50IGFuZCBPcGVyYXRpb25zSNIBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=image%20recognition%20&sort=byPopularity&type=story
+
+Models - Hugging Face
+https://huggingface.co/models?p=7&sort=trending&search=ggml
+
+图片 理解 模型 - Google 搜索
+https://www.google.com/search?q=%E5%9B%BE%E7%89%87+%E7%90%86%E8%A7%A3+%E6%A8%A1%E5%9E%8B&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%9B%BE%E7%89%87+%E7%90%86%E8%A7%A3+%E6%A8%A1%E5%9E%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAE0gEINzgzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · THUDM/VisualGLM-6B
+https://github.com/THUDM/VisualGLM-6B/issues
+
+QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+https://github.com/QwenLM/Qwen
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (15) Facebook
 https://www.facebook.com/shiwulo
 
