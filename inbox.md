@@ -1,5 +1,11 @@
 # 2024-3-23 0 | 0 W
 
+Jacobians
+
+code reading group
+
+https://fly.io/dist-sys/1/
+
 :set tabstop=4
 :set shiftwidth=4
 :set expandtab

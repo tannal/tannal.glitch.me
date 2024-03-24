@@ -3,6 +3,153 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+天下无鱼-资源博客 - 专注于挖掘和分享计算机前沿技术、编程教程、工业软件、资源下载的小博客
+https://shikey.com/
+
+张亚-性能分析之CPU篇 百度网盘下载 - 天下无鱼-资源博客
+https://shikey.com/2024/03/22/cpu-performance-analysis.html
+
+Add support for deno · vercel/next.js · Discussion #26428
+https://github.com/vercel/next.js/discussions/26428
+
+Support Next.JS · Issue #16679 · denoland/deno
+https://github.com/denoland/deno/issues/16679
+
+Support for install scripts (ex. "postinstall") for "npm:" specifiers · Issue #16164 · denoland/deno
+https://github.com/denoland/deno/issues/16164
+
+Deno
+https://github.com/denoland
+
+Introduction to Apollo Server - Apollo GraphQL Docs
+https://www.apollographql.com/docs/apollo-server/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=8&prefix=true&query=reading%20group&sort=byPopularity&type=story
+
+getgrit/gritql: GritQL is a query language for searching, linting, and modifying code.
+https://github.com/getgrit/gritql
+
+Raft
+https://dsrg.pdos.csail.mit.edu/2013/05/23/raft/
+
+HSRG
+https://notes.ekzhang.com/events/hsrg
+
+Home - CUDA Tutorial
+https://cuda-tutorial.readthedocs.io/en/latest/#contributing
+
+Fast Multidimensional Matrix Multiplication on CPU from Scratch
+https://siboehm.com/articles/22/Fast-MMM-on-CPU
+
+Challenge #3a: Single-Node Broadcast · Fly Docs
+https://fly.io/dist-sys/3a/
+
+Eric Zhang
+https://www.ekzhang.com/
+
+F = ma Contests2011–2019 Solutions Manual | Books Gateway | AIP Publishing
+https://pubs.aip.org/books/monograph/129/F-ma-Contests2011-2019-Solutions-Manual
+
+Eric Zhang – Projects
+https://www.ekzhang.com/projects#bore
+
+Eric Zhang – Projects
+https://www.ekzhang.com/projects#rustpad
+
+Support exposing HTTP ports with the `@web_server` decorator by ekzhang · Pull Request #1513 · modal-labs/modal-client
+https://github.com/modal-labs/modal-client/pull/1513
+
+News: If you enjoyed COMPCALC, be sure to check out AIPLANS, a new workshop at NeurIPS ‘21! | Mila Computer Calculus RG
+https://compcalc.github.io/
+
+Jin L.C. Guo | SE Researcher
+https://www.cs.mcgill.ca/~jguo/teaching.html
+
+COMP303/Slides/M5_a.pdf at W2024 · jin-guo/COMP303
+https://github.com/jin-guo/COMP303/blob/W2024/Slides/M5_a.pdf
+
+Automatic Differentiation in PyTorch
+https://compcalc.github.io/public/pytorch/ad_pytorch.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=code%20reading%20group&sort=byPopularity&type=story
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+How do I change tab size in Vim? - Stack Overflow
+https://stackoverflow.com/questions/2054627/how-do-i-change-tab-size-in-vim
+
+ChatGPT
+https://chat.openai.com/c/9dfdf32f-59d9-42ce-9d53-04e98be7457f
+
+openjdk lts - Google 搜索
+https://www.google.com/search?q=openjdk+lts&rlz=1C1GCEA_enJP1090JP1090&oq=openjdk+lts&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDIzMzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Code search results
+https://github.com/search?q=repo%3Apytorch%2Fpytorch%20Picrograd&type=code
+
+tracel-ai/burn: Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+https://github.com/tracel-ai/burn
+
+ONNX Runtime | Home
+https://onnxruntime.ai/
+
+NVIDIA Corporation - Financial Info - Quarterly Results
+https://investor.nvidia.com/financial-info/quarterly-results/default.aspx
+
+PowerPoint Presentation
+https://s201.q4cdn.com/141608511/files/doc_financials/2024/q4/NVDA-F4Q24-Quarterly-Presentation-FINAL.pdf
+
+Investor Relations – Arm®
+https://investors.arm.com/
+
+187d293b-42eb-48b0-b82f-e78bce4da9e4
+https://investors.arm.com/static-files/187d293b-42eb-48b0-b82f-e78bce4da9e4
+
+Fujitsu - Google 搜索
+https://www.google.com/search?q=Fujitsu&rlz=1C1GCEA_enJP1090JP1090&oq=Fujitsu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Amazon.com, Inc. - Quarterly results
+https://ir.aboutamazon.com/quarterly-results/default.aspx
+
+ARM-software/armnn: Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+https://github.com/ARM-software/armnn
+
+(3 封私信 / 35 条消息) 糖心他爸 - 知乎
+https://www.zhihu.com/people/zhang-xin-dong-25
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Real-Time Operating Systems (RTOS), Embedded Development Tools, Optimizing Compilers, IDE tools, Debuggers - Green Hills Software
+https://www.ghs.com/
+
+Explore GitHub
+https://github.com/explore
+
+mini-vue3/src/compiler-core/src/parse.ts at master · xklFFF/mini-vue3
+https://github.com/xklFFF/mini-vue3/blob/master/src/compiler-core/src/parse.ts
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+登录 | Slack
+https://slack.com/signin#/workspaces
+
+hessians matrix - Google 搜索
+https://www.google.com/search?q=hessians+matrix&sca_esv=0d5b9d6e41891fca&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_Tiy_-JIS3R5dxtUCJ204XK8aGxA%3A1711248909477&ei=DZb_Ze3gHIiM2roP1aOy4Ak&oq=Hessians+mat&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEhlc3NpYW5zIG1hdCoCCAEyCBAAGIAEGMsBMgQQABgeMggQABgIGB4YCjIIEAAYCBgeGApIkR5QdljHFXABeAGQAQCYAcUBoAGFBqoBAzAuNLgBA8gBAPgBAZgCBaAClwbCAgoQABhHGNYEGLADwgIIEC4YgAQYywHCAhAQLhiABBjLARjHARivARgKwgIGEAAYCBgemAMAiAYBkAYKkgcFMS4zLjGgB7cW&sclient=gws-wiz-serp
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issues · nodejs/node
 https://github.com/nodejs/node/issues
 
