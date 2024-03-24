@@ -1,5 +1,11 @@
 # 2024-3-23 0 | 0 W
 
+export NPM_CONFIG_REGISTRY="http://192.168.43.246:4873"
+export NPM_CONFIG_REGISTRY="http://registry.npm.taobao.org"
+sudo apt install openjdk-21-jre-headless graphviz gnuplot
+
+
+
 Jacobians
 
 code reading group

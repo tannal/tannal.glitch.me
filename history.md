@@ -3,6 +3,48 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+regex101: build, test, and debug regex
+https://regex101.com/
+
+How to Find or Validate an Email Address
+https://www.regular-expressions.info/email.html
+
+In search of the perfect URL validation regex
+https://mathiasbynens.be/demo/url-regex
+
+Fighting for a Lost Cause.net
+https://fightingforalostcause.net/
+
+anarazel (Andres Freund)
+https://github.com/anarazel
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Next.js by Vercel - The React Framework
+https://nextjs.org/
+
+Problem loading page
+http://localhost:3001/
+
+crates.io: Rust Package Registry
+https://crates.io/crates/addr2line/reverse_dependencies
+
+Challenge #3a: Single-Node Broadcast · Fly Docs
+https://fly.io/dist-sys/3a/
+
+Gossip Glomers: Broadcast Questions/Clarification - General - Fly.io
+https://community.fly.io/t/gossip-glomers-broadcast-questions-clarification/11193
+
+Summary - Chroop - Fly.io
+https://community.fly.io/u/Chroop/summary
+
+Release 0.2.3 · jepsen-io/maelstrom
+https://github.com/jepsen-io/maelstrom/releases/tag/v0.2.3
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 天下无鱼-资源博客 - 专注于挖掘和分享计算机前沿技术、编程教程、工业软件、资源下载的小博客
 https://shikey.com/
 
