@@ -1,6 +1,57 @@
 # inbox
 
 
+  b'finish_task_switch.isra.0'
+  b'schedule'
+  b'futex_wait_queue'
+  b'futex_wait'
+  b'do_futex'
+  b'__x64_sys_futex'
+  b'do_syscall_64'
+  b'entry_SYSCALL_64_after_hwframe'
+  b'__GI___lll_lock_wait'
+  b'mozilla::UniquePtr<js::jit::InliningRoot, JS::DeletePolicy<js::jit::InliningRoot> >::reset(js::jit::InliningRoot*)'
+  b'js::jit::JitScript::~JitScript()'
+  b'JSScript::releaseJitScript(JS::GCContext*)'
+  b'JS::Zone::forceDiscardJitCode(JS::GCContext*, JS::Zone::DiscardOptions const&)'
+  b'js::gc::GCRuntime::discardJITCodeForGC()'
+  b'js::gc::GCRuntime::endPreparePhase(JS::GCReason)'
+  b'js::gc::GCRuntime::incrementalSlice(js::SliceBudget&, JS::GCReason, bool)'
+  b'js::gc::GCRuntime::gcCycle(bool, js::SliceBudget const&, JS::GCReason)'
+  b'js::gc::GCRuntime::collect(bool, js::SliceBudget const&, JS::GCReason)'
+  b'GarbageCollectImpl(JS::GCReason, nsJSContext::IsShrinking, js::SliceBudget const&)'
+  b'nsJSContext::RunIncrementalGCSlice(JS::GCReason, nsJSContext::IsShrinking, js::SliceBudget&)'
+  b'mozilla::CCGCScheduler::GCRunnerFiredDoGC(mozilla::TimeStamp, mozilla::GCRunnerStep const&)'
+  b'mozilla::CCGCScheduler::GCRunnerFired(mozilla::TimeStamp)'
+  b'mozilla::IdleTaskRunner::Run()'
+  b'mozilla::IdleTaskRunnerTask::Run()'
+  b'mozilla::TaskController::DoExecuteNextTaskOnlyMainThreadInternal(mozilla::detail::BaseAutoLock<mozilla::Mutex&> const&)'
+  b'mozilla::TaskController::ExecuteNextTaskOnlyMainThreadInternal(mozilla::detail::BaseAutoLock<mozilla::Mutex&> const&)'
+  b'mozilla::TaskController::ProcessPendingMTTask(bool)'
+  b'mozilla::detail::RunnableFunction<mozilla::TaskController::TaskController()::$_0>::Run()'
+  b'nsThread::ProcessNextEvent(bool, bool*)'
+  b'NS_ProcessNextEvent(nsIThread*, bool)'
+  b'mozilla::ipc::MessagePump::Run(base::MessagePump::Delegate*)'
+  b'MessageLoop::Run()'
+  b'nsBaseAppShell::Run()'
+  b'nsAppShell::Run()'
+  b'nsAppStartup::Run()'
+  b'XREMain::XRE_mainRun()'
+  b'XREMain::XRE_main(int, char**, mozilla::BootstrapConfig const&)'
+  b'XRE_main(int, char**, mozilla::BootstrapConfig const&)'
+  b'main'
+  b'__libc_start_call_main'
+
+sudo stackcount-bpfcc -i 2 -p 152169 --debug "*switch*"
+
+nsHtml5Tokenizer::tokenizeBuffer
+
+nsHtml5AttributeName
+nsHtml5String
+
+b nsHtml5Tokenizer.cpp:906
+
+
 gdb /home/tannal/tannalwork/projects/mozilla-unified/obj-x86_64-pc-linux-gnu/dist/bin/firefox
 
 set MOZ_LOG="example_logger:3"

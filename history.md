@@ -1,5 +1,62 @@
 # 2024-3-23
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+c - How to skip a number of iterations of a loop in GDB? - Stack Overflow
+https://stackoverflow.com/questions/27388729/how-to-skip-a-number-of-iterations-of-a-loop-in-gdb
+
+Implement scrolling events · Issue #31665 · servo/servo
+https://github.com/servo/servo/issues/31665
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#update-the-rendering
+
+servo/components/compositing/compositor.rs at 0e78c8114b2a43df04d75dc1decf01e06992262f · servo/servo
+https://github.com/servo/servo/blob/0e78c8114b2a43df04d75dc1decf01e06992262f/components/compositing/compositor.rs#L1387
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#update-the-rendering
+
+char16 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=char16#ip=1
+
+linux - How to print a c++ object members using GDB from an address if the object's class type is like A::B - Stack Overflow
+https://stackoverflow.com/questions/7380027/how-to-print-a-c-object-members-using-gdb-from-an-address-if-the-objects-clas
+
+rust-skia/rust-skia: Rust Bindings for the Skia Graphics Library
+https://github.com/rust-skia/rust-skia
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+danelphick (Dan Elphick)
+https://github.com/danelphick
+
+Dan Elphick google - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+Dan+Elphick+google#ip=1
+
+Binding a receiver to a different SequencedTaskRunner
+https://groups.google.com/a/chromium.org/g/chromium-mojo/c/NvHyTETyPtA
+
+[maglev] Drop input use from stores to non-escaping allocations · v8/v8@29674d6
+https://github.com/v8/v8/commit/29674d6f1c295afbc11e67b6f06b5cfad783ac34
+
+Victor Gomes
+http://victorgomes.github.io/
+
+Oksana Zhuravlova google - Google 検索
+https://www.google.com/search?q=Oksana+Zhuravlova+google&client=ubuntu-sn&hs=kuz&sca_esv=8aeb3926740031f7&channel=fs&ei=Abb_Zb3xHNS8vr0PrrCy8Ao&ved=0ahUKEwj99b-3kYyFAxVUnq8BHS6YDK4Q4dUDCBA&uact=5&oq=Oksana+Zhuravlova+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiGE9rc2FuYSBaaHVyYXZsb3ZhIGdvb2dsZUisClAAWABwAXgAkAEAmAGuAaABrgGqAQMwLjG4AQPIAQCYAgCgAgCYAwCIBgGSBwCgB8wB&sclient=gws-wiz-serp#ip=1
+
+Daniel Cheng - Staff Software Engineer - Google | LinkedIn
+https://www.linkedin.com/in/danielycheng
+
+maglev v8 - Google 検索
+https://www.google.com/search?q=maglev+v8&client=ubuntu-sn&hs=2Kf&sca_esv=8aeb3926740031f7&channel=fs&ei=XLf_ZeapL9aPvr0PzLO1qAM&ved=0ahUKEwjmx43dkoyFAxXWh68BHcxZDTUQ4dUDCBA&uact=5&oq=maglev+v8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCW1hZ2xldiB2ODIHEAAYgAQYEzIIEAAYCBgeGBMyCBAAGAgYHhgTSPseUNsFWOMYcAF4AZABAJgB6wKgAeQFqgEHMC4xLjEuMbgBA8gBAPgBAZgCBKAC7AXCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIJEAAYgAQYDRgTwgIGEAAYHhgTmAMAiAYBkAYKkgcHMS4xLjEuMaAH9wc&sclient=gws-wiz-serp
+
+Design Doc: Maglev - a new mid-tier optimising compiler
+https://groups.google.com/g/v8-dev/c/pcmkHmznjPM
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
