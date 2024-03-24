@@ -1,5 +1,56 @@
 # 2024-3-23
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+COMP303/Slides/M5_a.pdf at W2024 · jin-guo/COMP303
+https://github.com/jin-guo/COMP303/blob/W2024/Slides/M5_a.pdf
+
+News: If you enjoyed COMPCALC, be sure to check out AIPLANS, a new workshop at NeurIPS ‘21! | Mila Computer Calculus RG
+https://compcalc.github.io/
+
+Jin L.C. Guo | SE Researcher
+https://www.cs.mcgill.ca/~jguo/teaching.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=reading%20group%20&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=fly.io&sort=byPopularity&type=story
+
+patte/fly-tailscale-exit: Run a VPN with global exit nodes with fly.io, tailscale and github!
+https://github.com/patte/fly-tailscale-exit
+
+Remote development with Rust on fly.io
+https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io
+
+Bloom Filters
+https://samwho.dev/bloom-filters/
+
+Dav-is-here ➜
+https://www.dvsj.in/blog
+
+Convert your website into an Android app in 3 easy steps
+https://blog.dvsj.in/pwa-android-share/
+
+Blog – ryBlog
+https://rylon.dev/blog/
+
+Luna’s Blog
+https://moonbase.lgbt/blog/
+
+The Layoff - Xe Iaso
+https://xeiaso.net/blog/2024/the-layoff/
+
+danluu.com
+https://danluu.com/
+
+From Go on EC2 to Fly.io: +fun, −$9/mo
+https://benhoyt.com/writings/flyio/
+
+Add a Payment Method · Fly
+https://fly.io/app/subscribe?return_to=%2Fhigh-risk-unlock%3Freturn_to%3D%252Fdashboard%252Ftannal
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
