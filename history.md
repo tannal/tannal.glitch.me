@@ -3,6 +3,174 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Stopwatch – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS190-LCC/2023-Summer/assignments/vmsqzu/problems/stopwatch
+
+ChatGPT
+https://chat.openai.com/c/53b6a81f-65be-4554-98b8-3df8b137d869
+
+Stopwatch - Kattis stopwatch - Virtual Judge
+https://vjudge.net/problem/Kattis-Stopwatch
+
+Dobra - Kattis dobra - Virtual Judge
+https://vjudge.net/problem/Kattis-dobra
+
+Status - Virtual Judge
+https://vjudge.net/status#un=&OJId=Kattis&probNum=stopwatch&res=0&orderBy=run_id&language=
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+electron/DEPS at 90a7e5acae5ac8f77443bdc16c678fcee350d22b · electron/electron
+https://github.com/electron/electron/blob/90a7e5acae5ac8f77443bdc16c678fcee350d22b/DEPS#L22
+
+disown命令 – 从Shell终端中移除作业 – Linux命令大全(手册)
+https://www.linuxcool.com/disown
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20art%20of%20computer%20prgramming&sort=byPopularity&type=story
+
+Ask HN: Is the “The Art of Computer Programming” Worth the Investment? | Hacker News
+https://news.ycombinator.com/item?id=19976957
+
+When Only Real Math Will Do | Something Something Programming
+https://nickdrozd.github.io/2023/06/21/real-math.html
+
+Reflections on a year of reading Knuth
+https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art055
+
+Reflections on Three Years of Reading Knuth
+https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070
+
+404 Not Found
+http://www.cs.utsa.edu/~wagner/knuth/
+
+404 Not Found
+http://www.cs.utsa.edu/~wagner/
+
+does programmer really know what they are writing? - Google 搜索
+https://www.google.com/search?q=does+programmer+really+know+what+they+are+writing%3F&rlz=1C1GCEA_enJP1090JP1090&oq=does+programmer+really+know+what+they+are+writing%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCTE1ODM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Error 429 (Too Many Requests) - Quora
+https://www.quora.com/Do-programmers-really-know-what-they-are-doing
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Do%20programmers%20really%20know%20what%20they%20are%20doingfla&sort=byPopularity&type=story
+
+CVE-2023-44402 : Electron is an open source framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Thi
+https://www.cvedetails.com/cve/CVE-2023-44402/
+
+electron/docs/tutorial/fuses.md at main · electron/electron
+https://github.com/electron/electron/blob/main/docs/tutorial/fuses.md
+
+Electron Fuses - Google 搜索
+https://www.google.com/search?q=Electron+Fuses&rlz=1C1GCEA_enJP1090JP1090&oq=Electron+Fuses&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcyMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Do You Program By Proof? : r/compsci
+https://www.reddit.com/r/compsci/comments/9bdwe3/do_you_program_by_proof/
+
+Project Everest
+https://project-everest.github.io/
+
+ggml ocr - Google 搜索
+https://www.google.com/search?q=ggml+ocr&rlz=1C1GCEA_enJP1090JP1090&oq=ggml+ocr&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgwIBxAAGEMYgAQYigUyBwgIEAAYgAQyBwgJEAAYgATSAQgxMzQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Introduction | tessdoc
+https://tesseract-ocr.github.io/tessdoc/Installation.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wrong%20program&sort=byPopularity&type=story
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Copying images from the command line doesn't seem to work with other applications · Issue #70 · bugaevc/wl-clipboard
+https://github.com/bugaevc/wl-clipboard/issues/70
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+322. 零钱兑换 - 力扣（LeetCode）
+https://leetcode.cn/problems/coin-change/description/
+
+django - Google 搜索
+https://www.google.com/search?q=django&rlz=1C1GCEA_enJP1090JP1090&oq=dja&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMjQzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Problem - C - Codeforces
+https://codeforces.com/contest/1784/problem/C
+
+similar problems - Google 搜索
+https://www.google.com/search?q=similar+problems&rlz=1C1GCEA_enJP1090JP1090&oq=similar+problems&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQLhgKGMcBGNEDGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgcICBAAGIAE0gEINTY1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+similar problems - Google 搜索
+https://www.google.com/search?q=similar+problems&rlz=1C1GCEA_enJP1090JP1090&oq=simi&gs_lcrp=EgZjaHJvbWUqEAgAEEUYExgnGDsYgAQYigUyEAgAEEUYExgnGDsYgAQYigUyBggBEEUYOTIMCAIQABhDGIAEGIoFMhIIAxAuGEMYxwEY0QMYgAQYigUyDAgEEAAYQxiABBiKBTIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgYIBxBFGD3SAQc5OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general > Build Issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Build.20Issues
+
+Release mozjs-sys-v0.115.9-0: Update SpiderMonkey to ESR115.9 (#459) · servo/mozjs
+https://github.com/servo/mozjs/releases/tag/mozjs-sys-v0.115.9-0
+
+vim括号匹配等跳转技巧_vim 大括号跳转-CSDN博客
+https://blog.csdn.net/caisini_vc/article/details/38351133
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+node.js - Nodejs: how to send two commands on TCP net socket using Nodejs net.socket - Stack Overflow
+https://stackoverflow.com/questions/35461622/nodejs-how-to-send-two-commands-on-tcp-net-socket-using-nodejs-net-socket
+
+networking - What does it mean to flush a socket? - Stack Overflow
+https://stackoverflow.com/questions/914286/what-does-it-mean-to-flush-a-socket
+
+东汉末年闹鸡瘟 - Google 搜索
+https://www.google.com/search?q=%E4%B8%9C%E6%B1%89%E6%9C%AB%E5%B9%B4%E9%97%B9%E9%B8%A1%E7%98%9F&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%9C%E6%B1%89%E6%9C%AB%E5%B9%B4%E9%97%B9%E9%B8%A1%E7%98%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwMzM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Index of /
+http://192.168.43.246:8080/
+
+stdout flush - Google 搜索
+https://www.google.com/search?q=stdout+flush&rlz=1C1GCEA_enJP1090JP1090&oq=stdout+flush&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yCAgHEAAYBRgeMggICBAAGAUYHjIICAkQABgFGB7SAQgyNTE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+cpeak npm - Google 搜索
+https://www.google.com/search?q=cpeak+npm&rlz=1C1GCEA_enJP1090JP1090&oq=cpeak+npm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE5NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+node cluster - Google 搜索
+https://www.google.com/search?q=node+cluster&rlz=1C1GCEA_enJP1090JP1090&oq=node+clu&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBggEEEUYOTIHCAUQABiABDIHCAYQABiABDIGCAcQRRg9qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+音乐史 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E5%8F%B2
+
+五度相生律 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%94%E5%BA%A6%E7%9B%B8%E7%94%9F%E5%BE%8B
+
+音乐宇宙 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90%E5%AE%87%E5%AE%99
+
+lib: fix listen with handle in cluster worker · nodejs/node@20525f1
+https://github.com/nodejs/node/commit/20525f14b94867cf5d5e2292fb3b8e1462055a74
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno%20cluster&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Parsing Strings with split
+https://pages.cs.wisc.edu/~hasti/cs302/examples/Parsing/parseString.html
+
+tokenizer.dvi
+https://ii.uni.wroc.pl/~nivelle/teaching/compilers2013/tokenizer.pdf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 c - How to skip a number of iterations of a loop in GDB? - Stack Overflow
 https://stackoverflow.com/questions/27388729/how-to-skip-a-number-of-iterations-of-a-loop-in-gdb
 

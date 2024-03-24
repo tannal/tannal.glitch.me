@@ -1,5 +1,11 @@
 # 2024-3-23 0 | 0 W
 
+similar 
+
+
+
+hide and seek
+
 sudo apt install tesseract-ocr
 
 Using built-in specs.
