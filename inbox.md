@@ -1,5 +1,12 @@
 # 2024-3-23 0 | 0 W
 
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+
+sudo apt install openjdk-<version> graphviz gnuplot
+
+
 development operations
 
 cargo tree
