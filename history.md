@@ -1,5 +1,218 @@
 # 2024-3-25
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+macos - How to open a file in a specific application from FZF - Stack Overflow
+https://stackoverflow.com/questions/41963660/how-to-open-a-file-in-a-specific-application-from-fzf
+
+opencv - Google 搜索
+https://www.google.com/search?q=opencv&rlz=1C1GCEA_enJP1090JP1090&oq=opencv&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIOCAEQRRgnGDsYgAQYigUyDggCEEUYJxg7GIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjc5MWowajSoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+johanbrandhorst/presentations: My presentations
+https://github.com/johanbrandhorst/presentations
+
+About me
+https://jbrandhorst.com/page/about/
+
+grpc-ecosystem/go-grpc-middleware: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+https://github.com/grpc-ecosystem/go-grpc-middleware
+
+Issues · grpc/grpc-go
+https://github.com/grpc/grpc-go/issues
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+n&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgYIAhBFGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDyoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+Huffman Coding Visualization
+https://cmps-people.ok.ubc.ca/ylucet/DS/Huffman.html
+
+File: explode.cxx | Debian Sources
+https://sources.debian.org/src/libreoffice/4:24.2.1-4/lotuswordpro/source/filter/explode.cxx/?hl=352#L352
+
+radix tree package:\Qmesa\E · Debian Code Search
+https://codesearch.debian.net/search?q=radix+tree+package%3A%5CQmesa%5CE&literal=0
+
+File: lbvh_main.comp | Debian Sources
+https://sources.debian.org/src/mesa/24.0.3-1/src/amd/vulkan/bvh/lbvh_main.comp/?hl=67#L67
+
+API documentation | Debian Sources
+https://sources.debian.org/doc/api/
+
+dijkstra package:\Qboost1.74\E · Debian Code Search
+https://codesearch.debian.net/search?q=dijkstra+package%3A%5CQboost1.74%5CE&literal=0
+
+Folder: graph | Debian Sources
+https://sources.debian.org/src/boost1.74/1.74.0%252Bds1-23.1/libs/graph/
+
+gcc/libstdc++-v3/testsuite/ext/pb_ds/example at master · gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc/tree/master/libstdc%2B%2B-v3/testsuite/ext/pb_ds/example
+
+scapy - Google 搜索
+https://www.google.com/search?q=scapy&rlz=1C1GCEA_enJP1090JP1090&oq=scapy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBzEyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+PyVista：一款Python的三维可视化软件 - DECHIN - 博客园
+https://www.cnblogs.com/dechinphy/p/pyvista.html
+
+vgteam/vg: tools for working with genome variation graphs
+https://github.com/vgteam/vg
+
+boost graph - Google 搜索
+https://www.google.com/search?q=boost+graph&rlz=1C1GCEA_enJP1090JP1090&oq=boost+graph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE3NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+introduction_to_llvm_project_tools - Google 幻灯片
+https://docs.google.com/presentation/d/15CKpbQb8zLtxhmmGNymC4LmvfH2K0u-9sYz3M-XCK_c/edit#slide=id.g205454d3a893d285_106
+
+Users of MLIR - MLIR
+https://mlir.llvm.org/users/
+
+vast/lib/vast/Frontend at master · trailofbits/vast
+https://github.com/trailofbits/vast/tree/master/lib/vast/Frontend
+
+present package - golang.org/x/tools/present - Go Packages
+https://pkg.go.dev/golang.org/x/tools@v0.19.0/present
+
+GopherJS - Google 搜索
+https://www.google.com/search?q=GopherJS&rlz=1C1GCEA_enJP1090JP1090&oq=GopherJS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhBFGD0yBggHEEUYPdIBBzI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Common Go mistakes
+http://127.0.0.1:3999/common-go-mistakes/mistakes.slide#2
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=docs.google.com%20presentation%2Fd%2F&sort=byPopularity&type=story
+
+How WebKit Works - Google 幻灯片
+https://docs.google.com/presentation/d/1ZRIQbUKw9Tf077odCh66OrrwRIVNLvI_nhLm2Gi__F0/embed?start=false&loop=false&delayms=3000&slide=id.p
+
+Implementing Vertical Form Controls | WebKit
+https://www.webkit.org/blog/15190/implementing-vertical-form-controls/
+
+A Thorough Study of Blink's Memory in Real-world Websites - Google 幻灯片
+https://docs.google.com/presentation/d/1soWvmqxWuZQ_ZchvPZFgf5frAQBBlq5f2tJTuDDPZI8/edit#slide=id.ge29dfb420_1_439
+
+Breakdown of Blink’s memory usage - Google 文档
+https://docs.google.com/document/d/1XnN8RAOJDeoiNR9A4LqaUt4PQ3GXLPUJUzVIY49oRRg/edit
+
+Making Blink <=> V8 reference cycles collectable - Google 文档
+https://docs.google.com/document/d/1gu7NwxuQ9fLWRRBjbH1MGKr7RZEx9ESRCZ3P4KwvP68/edit
+
+MemoryPurgeController - Google 文档
+https://docs.google.com/document/d/1TbtkhXpjw_8lftLwELuEPEgcyWfXuVLuqW2KYJZeaBA/edit
+
+A12 Heap Profiling in memory-infra - Google 文档
+https://docs.google.com/document/d/1xMbBA0w5UunhTzZkdUfFIS63nRNjU6PP3wd2vf1_Ca8/edit
+
+1. Memory Infra: overall architecture - Google 文档
+https://docs.google.com/document/d/1ahB_nG7cWWCK4x6mnugsxZ7xdVeM7lRfI7L_HdOZj80/edit
+
+Chromium Docs - MemoryInfra
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/memory-infra/README.md
+
+Profile: adamnemecek | Hacker News
+https://news.ycombinator.com/user?id=adamnemecek
+
+FOSS Asia - Raj Rohit - Google 幻灯片
+https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.g1f06f6b17c_0_136
+
+Rust Runtime Meetup Slides - Google 幻灯片
+https://docs.google.com/presentation/d/1oB3hwBByGNcgst-X0SSmRyu-uMfayeySNAJdkwwtB9Q/edit?pli=1#slide=id.g299708c4b_111
+
+CGO C4ML talk - Google 幻灯片
+https://docs.google.com/presentation/d/1IiBLVU5Pj-48vzEMnuYEr9WQy9u2oi6Yk_8F3sgGkvQ/edit#slide=id.g4f1d98adde_9_56
+
+Betrayed by the Android UI - Insomni'hack 2019 - Google 幻灯片
+https://docs.google.com/presentation/d/1Ya2BThnbkXzAtXR3zh9SAiLAZ_mC3nYt8Zxm-KAIqZ4/mobilepresent?slide=id.g545354b158_1_12
+
+MOBISEC - Mobile Security Course
+https://mobisec.reyammer.io/slides
+
+MOBISEC 2020 - 05 - Real-World Android Apps - Google 幻灯片
+https://docs.google.com/presentation/d/1Pw-3h5rr0kcRCBji8zDL_FDzZ38m2cNNquzXLJHkpvg/edit#slide=id.g43ae0ecc71_0_65
+
+talk: Mid-stack inlining in the Go compiler (external) - Google 幻灯片
+https://docs.google.com/presentation/d/1Wcblp3jpfeKwA0Y4FOmj63PW52M_qmNqlQkNaLj0P5o/edit#slide=id.p
+
+What does it take to make Google work at scale? (CamSaS) - Google 幻灯片
+https://docs.google.com/presentation/d/1OvJStE8aohGeI3y5BcYX8bBHwoHYCPu99A3KTTZElr0/edit#slide=id.gb74341dde_1_821
+
+Online #1 Resource
+https://camsas.org/
+
+I Don't Like Notebooks - Joel Grus - #JupyterCon 2018 - Google 幻灯片
+https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g3d168d2fd3_0_149
+
+C++20, How Hard Could It Be - Google 幻灯片
+https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n0ug/edit?resourcekey=0-GH5F3wdP7D4dmxvLdBaMvw#slide=id.g1c5cc391dd_2_295
+
+Vue 3.0 Updates - Google 幻灯片
+https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p
+
+Some dark corners of C - Google 幻灯片
+https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit#slide=id.gcfd0be4a_212
+
+ML Visuhttps://docs.google.com/presentation/u/0/?authuser=0&usp=slides_webals - Google 幻灯片
+https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.p
+
+Careers | Codethink
+https://www.codethink.co.uk/join-us.html#latest-roles
+
+CONTRIBUTING.md · master · GNOME / openQA Tests · GitLab
+https://gitlab.gnome.org/GNOME/openqa-tests/-/blob/master/CONTRIBUTING.md?ref_type=heads
+
+Dorothy Kabarozi – Portfolio
+https://dorothykabarozi.wordpress.com/
+
+Brunostar 😎
+https://tanju.monch.ing/
+
+IgorMinar (Igor Minar)
+https://github.com/IgorMinar
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > ✏️ TSC Meeting Minutes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.8F.EF.B8.8F.20TSC.20Meeting.20Minutes
+
+Open Source Summit North America 2024: A Year of Servo Reboot: Where Are We Now...
+https://ossna2024.sched.com/event/1aBNF/a-year-of-servo-reboot-where-are-we-now-rakhi-sharma-igalia
+
+RustNL 2024
+https://2024.rustnl.org/
+
+feat: add MOZJS_FROM_SOURCE by wusyong · Pull Request #450 · servo/mozjs
+https://github.com/servo/mozjs/pull/450/files
+
+Implement StaticRange by cathiechen · Pull Request #31809 · servo/servo
+https://github.com/servo/servo/pull/31809
+
+cathiechen igalia - Google 搜索
+https://www.google.com/search?q=cathiechen+igalia&sca_esv=2cdbf9d7674441ef&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-vXF6FLJlXV0m_2EVaocgGg6S6mQ%3A1711408416795&ei=IAUCZtKTMIWOseMPspKKuAY&ved=0ahUKEwjSo_6VxZCFAxUFR2wGHTKJAmcQ4dUDCBA&uact=5&oq=cathiechen+igalia&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWNhdGhpZWNoZW4gaWdhbGlhMgcQIxiwAhgnSLoMULECWJMJcAF4AZABAJgB3wGgAbYIqgEFMC42LjG4AQPIAQD4AQGYAgigAr8IwgIKEAAYRxjWBBiwA8ICBhAAGB4YDcICChAAGAgYHhgNGA_CAgcQIRgKGKABmAMAiAYBkAYBkgcFMS42LjGgB8YX&sclient=gws-wiz-serp
+
+Introduce libgreen/libnative, the M:N and 1:1 scheduling libraries by alexcrichton · Pull Request #10965 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/10965/files
+
+petgraph/src/matrix_graph.rs at master · adamnemecek/petgraph
+https://github.com/adamnemecek/petgraph/blob/master/src/matrix_graph.rs
+
+Cross-Component Garbage Collection
+https://research.google/pubs/cross-component-garbage-collection/
+
+Cross-Component Garbage Collection
+https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/eebe9196179ca5f25354ff4c49a0633a7a079c6b.pdf
+
+Adam Barth - Google 搜索
+https://www.google.com/search?q=Adam+Barth&rlz=1C1GCEA_enJP1090JP1090&oq=Adam+Barth&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDI4MzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+为开源平台做贡献  |  Fuchsia
+https://fuchsia.dev/fuchsia-src/development?hl=zh-cn
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
