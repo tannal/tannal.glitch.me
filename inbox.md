@@ -1,5 +1,7 @@
 # 2024-3-25 0 | 0 W
 
+vim $(fzf)
+
 AI for Science
 
 pwdx 2644995

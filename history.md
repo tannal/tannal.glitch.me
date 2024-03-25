@@ -3,6 +3,45 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+open os - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=open+os
+
+open browser - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=open+browser
+
+tannal/tannalwork: workspace
+https://github.com/tannal/tannalwork
+
+dtolnay/serde-yaml: Strongly typed YAML library for Rust
+https://github.com/dtolnay/serde-yaml
+
+David Tolnay on the "RustConf Keynote Fiasco" | Hacker News
+https://news.ycombinator.com/item?id=37378328
+
+rustconf.md
+https://gist.github.com/dtolnay/7f5da4bf057b7c6d0d00c6bed3060b96
+
+Rust Quiz #1
+https://dtolnay.github.io/rust-quiz/1
+
+developing a c compiler from scratch - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=developing+a+c+compiler+from+scratch#ip=1
+
+laye-lang/laye: Compiler for the Laye programming language.
+https://github.com/laye-lang/laye
+
+param once - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=param+once
+
+DragonCompiler/lexer.c at 74299a1be68d69f036bdf89ca3bc0bd755e7b574 · nibblebits/DragonCompiler
+https://github.com/nibblebits/DragonCompiler/blob/74299a1be68d69f036bdf89ca3bc0bd755e7b574/lexer.c
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Odd–even sort - Wikipedia
 https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort
 
