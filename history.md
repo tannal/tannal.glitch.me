@@ -1,5 +1,173 @@
 # 2024-3-25
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Odd–even sort - Wikipedia
+https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort
+
+Cycle detection - Wikipedia
+https://en.wikipedia.org/wiki/Cycle_detection#Brent's_algorithm
+
+Cycle detection - Wikipedia
+https://en.wikipedia.org/wiki/Cycle_detection#Brent's_algorithm
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+nas&gs_lcrp=EgZjaHJvbWUqEQgCEEUYJxg7GJ0CGIAEGIoFMgYIABBFGDkyBggBEEUYOzIRCAIQRRgnGDsYnQIYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBggIEAAYHjIGCAkQABge0gEIMjg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms
+
+Stable marriage problem - Wikipedia
+https://en.wikipedia.org/wiki/Stable_marriage_problem
+
+Page Not Found
+https://www.cambridge.org/journals/nisan/downloads/Nisan_Non-printable.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+正在重定向… | Slack
+https://gophers.slack.com/team
+
+Devtools support is broken · Issue #29831 · servo/servo
+https://github.com/servo/servo/issues/29831
+
+(6) #general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&sca_esv=74b481b3d8e4b1f3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-295KTXxOD4SmbYTuX_-zrKPLceA%3A1711335324985&ei=nOcAZv3eO-G6vr0P-aKNyAQ&oq=nvidia+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB252aWRpYSAqAggAMg0QIxiABBiKBRgnGJ0CMgwQIxiABBiKBRgTGCcyChAjGIAEGIoFGCcyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUilI1C4DVj4FHABeAGQAQCYAdYCoAGNDaoBBzAuMy4yLjK4AQPIAQD4AQGYAgigArMNwgIKEAAYRxjWBBiwA8ICBBAjGCfCAhAQLhiABBiKBRhDGMcBGNEDwgIFEAAYgATCAg4QLhiABBjLARjHARjRA5gDAIgGAZAGCpIHBzEuMi4zLjKgB-U6&sclient=gws-wiz-serp
+
+CppQuiz.org - Question #109
+https://cppquiz.org/quiz/question/109
+
+Geektalk | Blog by Olve Maudal
+https://olvemaudal.wordpress.com/
+
+Steve Jobs on Picasso Good artist copy great artists steal - YouTube
+https://www.youtube.com/watch?v=a6jeZ7m0ycw
+
+Apple steal ideas from others, but always claim they "invented" it. - YouTube
+https://www.youtube.com/watch?v=wXzdKbKBojQ
+
+Pirates of Silicon Valley - Great artists Steal - YouTube
+https://www.youtube.com/watch?v=TrA_lm0_ngM
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+BCPL - Google 搜索
+https://www.google.com/search?q=BCPL&rlz=1C1GCEA_enJP1090JP1090&oq=bcpl&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIJCAEQABgKGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyDwgHEC4YChivARjHARiABDIHCAgQABiABDIHCAkQABiABNIBBzcyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+UserWarning: Could not import the lzma module. Your installed Python is incomplete - Stack Overflow
+https://stackoverflow.com/questions/57743230/userwarning-could-not-import-the-lzma-module-your-installed-python-is-incomple
+
+virtualenv安装并指定python版本 - 知乎
+https://zhuanlan.zhihu.com/p/38457004
+
+nvjit - Google 搜索
+https://www.google.com/search?q=nvjit&rlz=1C1GCEA_enJP1090JP1090&oq=nvjit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzcyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+python - How do I check if PyTorch is using the GPU? - Stack Overflow
+https://stackoverflow.com/questions/48152674/how-do-i-check-if-pytorch-is-using-the-gpu
+
+(3 封私信 / 37 条消息) 如何解决Pytorch的GPU driver is too old的问题? - 知乎
+https://www.zhihu.com/question/309583980
+
+steve jobs - Google 搜索
+https://www.google.com/search?q=steve+jobs&rlz=1C1GCEA_enJP1090JP1090&oq=steve+jobs&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQgyOTI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/65da2956-3d50-4563-b380-5950c11a7f0d
+
+GET was unable to find an engine to execute this computation · Issue #4060 · ultralytics/ultralytics
+https://github.com/ultralytics/ultralytics/issues/4060
+
+pip 使用国内镜像源 | 菜鸟教程
+https://www.runoob.com/w3cnote/pip-cn-mirror.html
+
+cuda11.8 torch - Google 搜索
+https://www.google.com/search?q=cuda11.8+torch&rlz=1C1GCEA_enJP1090JP1090&oq=cuda11.8+torch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIICAQQABgKGB4yCggFEAAYCBgKGB7SAQgzOTA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+automatic 1111 - PyTorch 2.0.1+cu118 with CUDA 1108 (you have 2.0.1+cpu) how to fix this ? : r/StableDiffusion
+https://www.reddit.com/r/StableDiffusion/comments/15bxuhw/automatic_1111_pytorch_201cu118_with_cuda_1108/
+
+Sam Coyle Website
+https://samcoyle.me/
+
+B+ tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree
+
+amittai.com/prose/bpt.c
+http://www.amittai.com/prose/bpt.c
+
+Amittai F. Aviram
+http://www.amittai.com/
+
+Bryan Ford's Home Page
+https://bford.info/
+
+[Bug]: Detected that PyTorch and torchvision were compiled with different CUDA versions. PyTorch has CUDA Version=11.7 and torchvision has CUDA Version=11.8. Please reinstall the torchvision that matches your PyTorch instal · Issue #10331 · AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/10331
+
+pytorch - RuntimeError: GET was unable to find an engine to execute this computation when I using Trainer.train() from hungingface - Stack Overflow
+https://stackoverflow.com/questions/75776895/runtimeerror-get-was-unable-to-find-an-engine-to-execute-this-computation-when
+
+Could not find setuptools>=40.8.0 (with Setuptools installed) · Issue #12050 · pypa/pip
+https://github.com/pypa/pip/issues/12050
+
+command line - How do I get the parent process ID of a given child process? - Ask Ubuntu
+https://askubuntu.com/questions/153976/how-do-i-get-the-parent-process-id-of-a-given-child-process
+
+shell - Find out current working directory of a running process? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/94357/find-out-current-working-directory-of-a-running-process
+
+pschwllr/MolecularTransformer
+https://github.com/pschwllr/MolecularTransformer
+
+uRetrievalModel - Google 搜索
+https://www.google.com/search?q=uRetrievalModel&rlz=1C1GCEA_enJP1090JP1090&oq=uRetrievalModel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgNGB4yCAgFEAAYDRgeMgoIBhAAGA0YDxgeMggIBxAAGA0YHjIICAgQABgNGB4yCAgJEAAYDRge0gEHMzA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+nvidia 市值 - Google 搜索
+https://www.google.com/search?q=nvidia+%E5%B8%82%E5%80%BC&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+%E5%B8%82%E5%80%BC&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABNIBCDI2NDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+apple 市值 - Google 搜索
+https://www.google.com/search?q=apple+%E5%B8%82%E5%80%BC&sca_esv=94d2d025c9ea360a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_jfcJd0Plu8U8yYwXj-XXB04iBOA%3A1711351494229&ei=xiYBZrHTDb_l2roP_4G--Ak&ved=0ahUKEwixzpiP8Y6FAxW_slYBHf-AD58Q4dUDCBA&uact=5&oq=apple+%E5%B8%82%E5%80%BC&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGFwcGxlIOW4guWAvDIHEAAYgAQYDDIHEAAYgAQYDDIFEAAYgARIlg5QAFi2DXAAeACQAQGYAdoDoAH1FaoBCjAuMS4xMC4wLjG4AQPIAQD4AQGYAgqgAu0QwgIKECMYgAQYigUYJ8ICEBAuGEMYxwEY0QMYgAQYigXCAgoQABiABBiKBRhDwgITEC4YgAQYigUYQxjHARjRAxjUAsICExAuGEMYxwEYyQMY0QMYgAQYigXCAgsQABiABBiKBRiSA8ICCBAAGIAEGMsBwgIWEC4YgAQYigUYQxjJAxjHARjRAxjUAsICEBAuGIAEGIoFGEMYxwEY0QPCAgcQIxixAhgnwgIREC4YxwEYywEY1AIY0QMYgATCAhEQLhiABBjLARjHARivARiOBcICCxAAGIAEGMsBGMkDwgITEC4YQxjHARjUAhjRAxiABBiKBcICDhAuGIAEGMsBGMcBGK8BwgIOEC4YrwEYxwEYywEYgASYAwCSBwUwLjEuOaAH7nk&sclient=gws-wiz-serp
+
+Writing a C Compiler, Part 1
+https://norasandler.com/2017/11/29/Write-a-Compiler.html
+
+Developing a C Compiler From Scratch - Module 1 | Udemy
+https://www.udemy.com/course/creating-a-c-compiler-from-scratch-module-1/
+
+udemy student discount - Google 搜索
+https://www.google.com/search?q=udemy+student+discount&rlz=1C1GCEA_enJP1090JP1090&oq=udemy+st&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4NzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How I wrote a self-hosting C compiler in 40 days
+https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days
+
+终身学习者的知识海洋，学无止境，与您同行！ - 口袋资源网
+https://www.koudaizy.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

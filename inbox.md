@@ -1,5 +1,44 @@
 # 2024-3-25 0 | 0 W
 
+AI for Science
+
+pwdx 2644995
+ps -f 2644995
+export https_proxy=http://10.90.5.190:7890
+export http_proxy=http://10.90.5.190:7890
+
+./zrj/bin/pip install setuptools wheel
+
+python -m pip install torchvision==0.15.2+cu118 --index-url https://download.pytorch.org/whl/cu118.
+
+python -m pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118
+
+>>> import torch
+
+>>> torch.cuda.is_available()
+True
+
+>>> torch.cuda.device_count()
+1
+
+>>> torch.cuda.current_device()
+0
+
+>>> torch.cuda.device(0)
+<torch.cuda.device at 0x7efce0b03be0>
+
+>>> torch.cuda.get_device_name(0)
+'GeForce GTX 950M'
+
+export PATH=/root/tannalwork/cpython/python3.11/bin:"$PATH"
+virtualenv venv python=python3.11
+pip install torch==2.0.1 torchvision==0.15+cu111 torchaudio==2.0.2
+python3.11 -m venv zrj python=python3.8
+
+python -m pip install -e .
+
+Good artists copy, great artists steal.
+
 sudo tcpdump -i any -AX -vv 'port 8000'
 sudo tcpdump -i any tcp port 8080
 
