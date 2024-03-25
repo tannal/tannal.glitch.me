@@ -1,3 +1,13 @@
+# 2024-3-25 0 | 0 W
+
+sudo tcpdump -i any -AX -vv 'port 8000'
+sudo tcpdump -i any tcp port 8080
+
+for i in {1..50}; do touch "index$i.html"; done
+
+# 2024-3-24 0 | 0 W
+
+
 # 2024-3-23 0 | 0 W
 
 similar 

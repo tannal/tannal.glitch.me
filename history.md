@@ -1,3 +1,128 @@
+# 2024-3-25
+
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/devtools
+
+Firefox DevTools User Docs — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools-user/index.html
+
+Account Verification
+https://bugzilla.mozilla.org/show_bug.cgi?id=1742792
+
+Add tests for our complex flow typing · Issue #831 · firefox-devtools/profiler
+https://github.com/firefox-devtools/profiler/issues/831
+
+Experimental features in Firefox - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features
+
+profiler/CONTRIBUTING.md at main · firefox-devtools/profiler
+https://github.com/firefox-devtools/profiler/blob/main/CONTRIBUTING.md
+
+Contributors: do you have a question that's not answered before? · firefox-devtools/profiler · Discussion #1785
+https://github.com/firefox-devtools/profiler/discussions/1785
+
+Firefox Profiler
+https://profiler.firefox.com/
+
+Flow: A Static Type Checker for JavaScript | Flow
+https://flow.org/
+
+Element
+https://chat.mozilla.org/#/room/#profiler:mozilla.org
+
+Add an option to hide tracks by type · Issue #2768 · firefox-devtools/profiler
+https://github.com/firefox-devtools/profiler/issues/2768
+
+profiler/src/components/timeline/TrackContextMenu.js at c4f68f423c7035a094952311addd0af5bec209e7 · firefox-devtools/profiler
+https://github.com/firefox-devtools/profiler/blob/c4f68f423c7035a094952311addd0af5bec209e7/src/components/timeline/TrackContextMenu.js#L489-L532
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits/main/
+
+#general > Error with ./mach bootstrap - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Error.20with.20.2E.2Fmach.20bootstrap
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+history of firefox - Google 搜索
+https://www.google.com/search?q=history+of+firefox&rlz=1C1GCEA_enJP1090JP1090&oq=history+of+firefox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI1MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+File:Phoenix 0.1.png - Wikipedia
+https://en.wikipedia.org/wiki/File:Phoenix_0.1.png
+
+electron - Google 搜索
+https://www.google.com/search?q=electron&rlz=1C1GCEA_enJP1090JP1090&oq=electron&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQRRg7MgYIAhBFGDsyBggDECMYJzIMCAQQIxgnGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg90gEIMzI5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ffprobe的正确打开方式（三剑客之一）-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1840302
+
+LAME MP3 Encoder
+https://lame.sourceforge.io/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+ffmpeg - npm
+https://www.npmjs.com/package/ffmpeg
+
+Net: fold websocket and http tokio runtime into one (#31771) · servo/servo@5c0199b
+https://github.com/servo/servo/commit/5c0199b5687a5c0c1b2fe82235ca609c7d9ea614
+
+11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
+https://github.com/11ty/eleventy-base-blog
+
+Amazon.co.jp: How To Think About Algorithms [Paperback] Prof Jeff Edmonds : Prof Jeff Edmonds: Japanese Books
+https://www.amazon.co.jp/-/en/Prof-Jeff-Edmonds/dp/1107439884
+
+Bubble sort - Wikipedia
+https://en.wikipedia.org/wiki/Bubble_sort
+
+Odd–even sort - Wikipedia
+https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort
+
+glibc version check - Google 搜索
+https://www.google.com/search?q=glibc+version+check&sca_esv=f8e627ae2765b515&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09iMMz-BTxG2oHTCdm9DP7K9w9nMQ%3A1711327624690&ei=iMkAZrreKe7M2roP9_yT-Ak&oq=glibc+ver&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWdsaWJjIHZlcioCCAEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSLV5ULsaWMFmcAN4AZABAJgB3QKgAaAZqgEIMC4zLjEwLjG4AQPIAQD4AQGYAhCgAqMYwgIKEAAYRxjWBBiwA8ICChAjGIAEGIoFGCfCAgoQABiABBjLARgKwgIFEAAYgATCAgcQABiABBgKwgIGEAAYHhgNwgIIEAAYBRgeGA3CAgQQIxgnwgIKEAAYgAQYigUYQ8ICCxAuGIAEGMcBGNEDwgILEC4YgAQYxwEYrwHCAgUQLhiABJgDAIgGAZAGCpIHBzMuMy45LjGgB7NQ&sclient=gws-wiz-serp
+
+"Bootstrap Error" rust-analyzer requires glibc >= 2.28 in latest build. · Issue #11558 · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/issues/11558
+
+Document that `rustup component add rust-analyzer` just works? · Issue #14882 · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/issues/14882
+
+config vscode to use rustup rust-analyzer - Google 搜索
+https://www.google.com/search?q=config+vscode+to+use+rustup+rust-analyzer&rlz=1C1GCEA_enJP1090JP1090&oq=config+vscode+to+use+rustup+rust-analyzer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDc2MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+visual studio code - Couldn't start client Rust Language Server - Stack Overflow
+https://stackoverflow.com/questions/58312319/couldnt-start-client-rust-language-server
+
+Are mathematical algorithms created or discovered? : r/AskScienceDiscussion
+https://www.reddit.com/r/AskScienceDiscussion/comments/llyaz8/are_mathematical_algorithms_created_or_discovered/
+
+How do people come up with novel algorithms? : r/AskComputerScience
+https://www.reddit.com/r/AskComputerScience/comments/k0p6gs/how_do_people_come_up_with_novel_algorithms/
+
+Multithreading Javascript. A Look Into Web Workers | by Max Peng | Hackmamba | Medium
+https://medium.com/techtrument/multithreading-javascript-46156179cf9a
+
+Cluster | Node.js v21.7.1 Documentation
+https://nodejs.org/api/cluster.html
+
+ChatGPT
+https://chat.openai.com/c/6224877e-8fdf-42e9-9082-d766ca2ca867
+
+
+# 2024-3-24
+
 # 2024-3-23
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

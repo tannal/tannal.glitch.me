@@ -1,3 +1,186 @@
+# parallel odd even bubble sort in golang
+
+```go
+
+package main
+
+func swap(i, j int, array []int) {
+	temp := array[i]
+	array[i] = array[j]
+	array[j] = temp
+}
+
+func thread(array []int, start int, end int, ch chan bool) {
+	for i := start; i < end; i += 2 {
+		if array[i] > array[i+1] {
+			swap(i, i+1, array)
+			ch <- false
+		}
+	}
+
+	ch <- true
+}
+
+func oldEventSort(array []int) []int {
+	sorted := false
+	evenSorted := make(chan bool)
+	oddSorted := make(chan bool)
+
+	for !sorted {
+
+		sorted = true
+
+		go thread(array, 0, len(array)-1, evenSorted)
+
+		go thread(array, 1, len(array)-1, oddSorted)
+
+		sorted = <-evenSorted && <-oddSorted
+	}
+
+	return array
+}
+
+func main() {
+	// test case 1
+	array := []int{5, 3, 8, 6, 2, 7, 1, 4}
+	array = oldEventSort(array)
+	// expected output: [1 2 3 4 5 6 7 8]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// test case 2
+	array = []int{5, 3, 8, 6, 2, 7, 1, 4, 9}
+	array = oldEventSort(array)
+	// expected output: [1 2 3 4 5 6 7 8 9]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// test case 3
+	array = []int{5, 3, 8, 6, 2, 7, 1, 4, 9, 0}
+	array = oldEventSort(array)
+	// expected output: [0 1 2 3 4 5 6 7 8 9]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// complex test case 4
+	array = []int{5, 3, 8, 6, 2, 7, 1, 4, 9, 0, 10, 15, 13, 12, 11, 14}
+	array = oldEventSort(array)
+	// expected output: [0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+
+	println()
+
+	// simple test case 1
+	array = []int{5, 3, 8, 6, 2, 7, 1, 4, 9, 0, 10, 15, 13, 12, 11, 14, 16}
+	array = oldEventSort(array)
+	// expected output: [0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// edge case 1
+	array = []int{5}
+	array = oldEventSort(array)
+	// expected output: [5]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// edge case 2
+	array = []int{}
+	array = oldEventSort(array)
+	// expected output: []
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+
+	// big test case 1
+	array = []int{5, 3, 8, 6, 2, 7, 1, 4, 9, 0, 10, 15, 13, 12, 11, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28}
+	array = oldEventSort(array)
+	// expected output: [0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28]
+	for i := 0; i < len(array); i++ {
+		print(array[i], " ")
+	}
+	println()
+}
+
+
+```
+
+# bubble sort
+
+```js
+
+const bubbleSort = (array) => {
+    let n = array.length;
+    
+    let swapped = false;
+
+    do{
+
+        swapped = false;
+
+        for(let i = 1; i < n; i++){
+            if(array[i - 1] > array[i]){
+                let temp = array[i];
+                array[i] = array[i-1];
+                array[i-1] = temp;
+                swapped = true;
+            }
+        }
+
+        console.log(array)
+
+    }while(swapped)
+
+    return array
+}
+
+
+const bubbleSort2 = (array) => {
+
+    for(let n = array.length; n > 1; ){
+
+        // n is the biggest index of the unsorted part of the array
+        console.log(array[n])
+
+        let newN = 0
+        for(let i = 1; i < n; i++){
+            if(array[i - 1] > array[i]){
+                let temp = array[i];
+                array[i] = array[i-1];
+                array[i-1] = temp;
+                newN = i;
+            }
+        }
+        n = newN;
+    }
+
+    return array
+}
+
+
+// test case 1
+let array = [5, 3, 8, 2, 1, 4]
+console.log(bubbleSort(array)) // [1, 2, 3, 4, 5, 8]
+
+
+// test case 2
+array = [20, 20, 31, 56, 1, 12, 12]
+console.log(bubbleSort2(array)) // [1, 12, 12, 20, 20, 31, 56]
+
+```
 
 # html tokenizer
 
