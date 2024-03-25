@@ -1,3 +1,72 @@
+# Floyd's cycle-finding algorithm
+
+```js
+const floyd = (f, x0) => {
+
+    let tortoise = f(x0);
+    let hare = f(f(x0));
+
+    while (tortoise !== hare) {
+        tortoise = f(tortoise);
+        hare = f(f(hare));
+    }
+
+    let mu = 0;
+    tortoise = x0;
+    while (tortoise !== hare) {
+        tortoise = f(tortoise);
+        hare = f(hare);
+        mu += 1;
+    }
+
+    let lam = 1;
+    hare = f(tortoise);
+    while (tortoise !== hare) {
+        hare = f(hare);
+        lam += 1;
+    }
+
+    return [mu, lam];
+
+}
+
+// test case 1
+let f = (x) => (x + 1) % 7;
+let x0 = 0;
+console.log(floyd(f, x0)); // [0, 7]
+
+// test case 2
+f = (x) => (x + 1) % 5;
+x0 = 0;
+console.log(floyd(f, x0)); // [0, 5]
+
+// test case 3
+f = (x) => (x + 1) % 3;
+x0 = 0;
+console.log(floyd(f, x0)); // [0, 3]
+
+// complex test case 1
+f = (x) => (x + 1) % 7;
+x0 = 3;
+console.log(floyd(f, x0)); // [3, 4]
+
+
+// complex test case 2
+f = (x) => (x + 1) %10 + 5;
+x0 = 0;
+console.log(floyd(f, x0)); // [0, 1]
+
+console.log(f(0))
+console.log(f(f(0)))
+console.log(f(f(f(0))))
+console.log(f(f(f(f(0)))))
+console.log(f(f(f(f(f(0))))))
+console.log(f(f(f(f(f(f(0)))))))
+console.log(f(f(f(f(f(f(f(0))))))))
+console.log(f(f(f(f(f(f(f(f(0)))))))))
+
+```
+
 # parallel odd even bubble sort in golang
 
 ```go
