@@ -1,3 +1,177 @@
+# 2024-3-26
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=5&prefix=true&query=docs.google.com%20presentation%2Fd%2F&sort=byPopularity&type=story
+
+You are a Bubble - Google 幻灯片
+https://docs.google.com/presentation/d/1fFp4t_QwK52E1r0teb7i-72C1ik6K1uM5dKdGLR_PO4/edit#slide=id.g19d728f37a_0_109
+
+Designing a Next-Gen GPU API for the Web - Google 幻灯片
+https://docs.google.com/presentation/d/1Z_3-3V6FRsF8OJNeH7yc6UKtgXy90Ggff07V9Z6uo6U/edit#slide=id.gc6f73a04f_0_9
+
+Python Decorators - Google 幻灯片
+https://docs.google.com/presentation/d/19gCig7L7rR1IF80AIzTERZdB-ZbMNrkizPP5E9DuaD8/edit#slide=id.p
+
+If Not Notebooks, Then What? - AAAI 2019 - Google 幻灯片
+https://docs.google.com/presentation/d/1ivK8AKgz8Hx-ZYzPC9gJyQK6tzuhR3UuhCEajFGJDlA/edit#slide=id.p
+
+programmer interfaces - Google 幻灯片
+https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g1f34a0e56b_1_48
+
+It Me: Under the Hood of Web Authentication - Google 幻灯片
+https://docs.google.com/presentation/d/e/2PACX-1vRQpAoiitWbkHg5hgtp2b7y5kgEEP7e1Z5aOcOB7c8QzEepCpDrotc-DN-WgzWKMpfCRXPQFaT6pHuL/pub?start=false&loop=false&delayms=60000&slide=id.g2776a6c5c7_2_199
+
+Modern C and What We Can Learn From It - Google 幻灯片
+https://docs.google.com/presentation/d/1tHdUBWSf8oVbX8Oe4V15G37ZDvoS8_2HQPPqf8dPiUM/edit#slide=id.gcaaf7b026b_1_13
+
+How old consoles work! - Google 幻灯片
+https://docs.google.com/presentation/d/1VCXvyqwOWnQ1A0_yLM39zfU7bVXO4FEFrRk1rbM0uiE/present?token=AC4w5VhNyT5V2RD_8hMULO18HaQ-M09b5Q%3A1540303522926&includes_info_params=1&slide=id.g3ef52479bb_0_0
+
+Tom 7 Radar
+http://radar.spacebar.org/
+
+Easy 6502 by skilldrick
+https://skilldrick.github.io/easy6502/
+
+people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2009/bhp7_teg25/bhp7_teg25/index.html
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2009/bhp7_teg25/bhp7_teg25/index.html
+
+wideNES - Peeking Past the Edge of NES Games :: prilik's blog
+https://prilik.com/blog/post/widenes/
+
+NESdev Wiki
+https://www.nesdev.org/wiki/Nesdev_Wiki
+
+2. NES Architecture Overview — Nerdy Nights 0.0.1 documentation
+https://taywee.github.io/NerdyNights/nerdynights/nesarchitecture.html
+
+ASPLOS 2021 - Golden Age of Compilers - Google 幻灯片
+https://docs.google.com/presentation/d/1ZMtzT6nmfvNOlIaHRzdaXpFeaAklcT7DvfGjhgpzcxk/edit#slide=id.gcf56aad1a3_0_2033
+
+2020-02-26 - CGO 2020 Talk - Google 幻灯片
+https://docs.google.com/presentation/d/11-VjSNNNJoRhPlLxFgvtb909it1WNdxTnQFipryfAPU/edit#slide=id.g7d334b12e5_0_4
+
+LLVM之父Chris Lattner：编译器的黄金时代 - 知乎
+https://zhuanlan.zhihu.com/p/500904014
+
+Container Linux on the Desktop - Google 幻灯片
+https://docs.google.com/presentation/d/17Hml1iFqdXElxOcrh9caQSC5px5mDgaS015Vhaz42ZY/edit#slide=id.g22bc0b7901_0_707
+
+How to write a research paper [external] - Google 幻灯片
+https://docs.google.com/presentation/d/1LGcM3Jmd5ZkoYfn1Bph4W4-lYQD0lDnrtOKe3IpTiAs/edit#slide=id.g1bd26eb182_0_81
+
+The Thing About Burnout - Google 幻灯片
+https://docs.google.com/presentation/d/1oGNNZn4eX-a0jj9W04NjeP-2RzLkCmlxyKC8UXmfauo/edit#slide=id.g654c726fad_2_281
+
+Transformer Zoo (a deeper dive) - Google 幻灯片
+https://docs.google.com/presentation/d/1dIadh_nIszxXG8-672vJmvFGT6jBp0mOqzNV4g3e2Lc/edit#slide=id.g7ed7e61dc0_1_79
+
+Decentralized Web Platform - Public - Google 幻灯片
+https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E/preview?pru=AAABgXK9R00*o5S5dELC7gDs8MlETJ1d9Q&slide=id.g11b904107df_0_1
+
+State of AI Report 2022 - ONLINE - Google 幻灯片
+https://docs.google.com/presentation/d/1WrkeJ9-CjuotTXoa4ZZlB3UPBXpxe4B3FMs9R9tn34I/edit#slide=id.g164b1bac824_0_3040
+
+Building JavaScript at Scale - Google 幻灯片
+https://docs.google.com/presentation/d/17AbKCIiJqe53l9vgqUqoCOWKs9KE32ba2NJtLTwm1Kg/edit#slide=id.p62
+
+BlinkOn3: State Of Blink - Google 幻灯片
+https://docs.google.com/presentation/d/1e6Aa9VRu26frCeetPerMTIeWB9ssNosFcQ4xNVLvfwg/edit#slide=id.g4ecc8502e_015
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=facebook%20mobile&sort=byPopularity&type=story
+
+ReadWrite - Crypto, Gaming & Emerging Tech News
+https://readwrite.com/
+
+Facebook 产品，开发者工具 | Facebook 开发者
+https://developers.facebook.com/products/
+
+Issues · facebook/react-native
+https://github.com/facebook/react-native/labels/good%20first%20issue
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mobile%20developer%20html5&sort=byPopularity&type=story
+
+Performance Marketing: Latest Trends, Agency Strategies & More
+https://www.adweek.com/performance-marketing/
+
+#general > Intrinsic sizing in Layout2020 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Intrinsic.20sizing.20in.20Layout2020
+
+m:w:PresentationData (WebGPUParent.cpp - mozsearch)
+https://searchfox.org/mozilla-central/rev/47a0a01e1f7ad0451c6ba6c790d5c6855df512c1/dom/webgpu/ipc/WebGPUParent.cpp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Why JSR? - Docs - JSR
+https://jsr.io/docs/why
+
+Welcome to State of AI Report 2023
+https://www.stateof.ai/
+
+Air Street Capital｜Venture capital for AI-first companies
+https://www.airstreet.com/
+
+moby/moby: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+https://github.com/moby/moby
+
+Moby
+https://mobyproject.org/
+
+floooh/sokol: minimal cross-platform standalone C headers
+https://github.com/floooh/sokol
+
+floooh/sokol-samples: Sample code for https://github.com/floooh/sokol
+https://github.com/floooh/sokol-samples
+
+Ian Buck
+https://graphics.stanford.edu/~ianbuck/
+
+paper.dvi
+https://graphics.stanford.edu/papers/rtongfx/rtongfx.pdf
+
+Ian Buck - Google 搜索
+https://www.google.com/search?q=Ian+Buck&rlz=1C1GCEA_enJP1090JP1090&oq=Ian+Buck&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Courses in Graphics
+https://graphics.stanford.edu/courses/
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?graph&us
+
+FCEUX
+https://fceux.com/web/home.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+how pieces fit together - Google 搜索
+https://www.google.com/search?q=how+pieces+fit+together&rlz=1C1GCEA_enJP1090JP1090&oq=how+pieces+fit+together&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTMwMTIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+涌现 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%B6%8C%E7%8E%B0
+
+分割谬误 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%88%86%E5%89%B2%E8%AC%AC%E8%AA%A4
+
+Excalidraw
+https://excalidraw.com/
+
+钢琴一秒弹几个音 - Google 搜索
+https://www.google.com/search?q=%E9%92%A2%E7%90%B4%E4%B8%80%E7%A7%92%E5%BC%B9%E5%87%A0%E4%B8%AA%E9%9F%B3&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%92%A2%E7%90%B4%E4%B8%80%E7%A7%92%E5%BC%B9%E5%87%A0%E4%B8%AA%E9%9F%B3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCTE1NDM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+人的反应速度 - Google 搜索
+https://www.google.com/search?q=%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%E9%80%9F%E5%BA%A6&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABge0gEIMzEwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+
 # 2024-3-25
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

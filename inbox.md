@@ -1,3 +1,7 @@
+# 2024-3-26 0 | 0 W
+
+I would say that research is a prototype for a startup.
+
 # 2024-3-25 0 | 0 W
 
 go install golang.org/x/tools/present@latest
