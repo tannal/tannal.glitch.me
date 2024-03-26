@@ -1,5 +1,62 @@
 # 2024-3-26
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+VideoSink::RenderVideoFrames - Google 検索
+https://www.google.com/search?q=VideoSink%3A%3ARenderVideoFrames&client=ubuntu-sn&hs=zpf&sca_esv=d8c8dae35fa299ed&channel=fs&ei=277_ZbWMDsXO1e8P7dGn2AY&ved=0ahUKEwj15fLvmYyFAxVFZ_UHHe3oCWsQ4dUDCBA&uact=5&oq=VideoSink%3A%3ARenderVideoFrames&gs_lp=Egxnd3Mtd2l6LXNlcnAiHFZpZGVvU2luazo6UmVuZGVyVmlkZW9GcmFtZXNIh1tQ71hY71hwA3gBkAEAmAGwAaABsAGqAQMwLjG4AQPIAQD4AQL4AQGYAgOgAgTCAgoQABhHGNYEGLADmAMAiAYBkAYBkgcBM6AHMw&sclient=gws-wiz-serp
+
+关于 | BLACK_OX
+https://blackox.cn/about/
+
+blackox626 (blackox626)
+https://github.com/blackox626
+
+blackox626 (blackox626) / Repositories
+https://github.com/blackox626?tab=repositories
+
+video frame
+https://gstreamer.freedesktop.org/documentation/video/video-frame.html?gi-language=c
+
+TaskController - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/TaskController
+
+Profiling Chromium and Blink
+https://www.chromium.org/developers/profiling-chromium-and-webkit/
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Documentation for cargo vendor use cases · Issue #7520 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/7520
+
+Cargo always uses LF line endings for Cargo.lock even if CRLF were present · Issue #12897 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/12897
+
+Issues · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+m:w:Device (Device.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/47a0a01e1f7ad0451c6ba6c790d5c6855df512c1/dom/webgpu/Device.h#98
+
+m:w:Device (Device.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/47a0a01e1f7ad0451c6ba6c790d5c6855df512c1/dom/webgpu/Device.h#98
+
+OpenGL ES 3.0 Programming Guide
+http://www.opengles-book.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ANGLE (software) - Wikipedia
+https://en.wikipedia.org/wiki/ANGLE_(software)#cite_note-:3-12
+
+webgpu firefox angle - Google 検索
+https://www.google.com/search?q=webgpu+firefox+angle&client=ubuntu-sn&hs=hDR&sca_esv=1818cc04451a0ec2&channel=fs&ei=ToYCZp7WG7HN1e8PtdS3sAM&ved=0ahUKEwietequwJGFAxWxZvUHHTXqDTYQ4dUDCBA&uact=5&oq=webgpu+firefox+angle&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdlYmdwdSBmaXJlZm94IGFuZ2xlMgcQIRgKGKABMgQQIRgVMgQQIRgVSJIJUKYBWOQHcAF4AZABAJgB-gGgAb0IqgEFMC4yLjO4AQPIAQD4AQGYAgagAt0IwgIKEAAYRxjWBBiwA8ICBxAAGIAEGBPCAgYQABgeGBPCAggQABgIGB4YE8ICCBAAGAUYHhgTwgIFECEYoAHCAgYQABgIGB6YAwCIBgGQBgqSBwUxLjIuM6AHkwo&sclient=gws-wiz-serp#ip=1
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,9 @@
 # inbox
 
+void GL_APIENTRY glDrawArrays
+
+void GL_APIENTRY GL_DrawArrays(GLenum mode, GLint first, GLsizei count)
+
 sudo apt install generate-ninja
 gn gen out/Default --export-rust-project
 
