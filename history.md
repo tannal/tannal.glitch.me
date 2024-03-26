@@ -1,5 +1,161 @@
 # 2024-3-26
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+The Evolution Of The QEMU Translator | Blog | Linaro
+https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/
+
+Emulation — QEMU 8.2.1 documentation
+https://qemu.readthedocs.io/en/v8.2.1/about/emulation.html
+
+QEMU User space emulator — QEMU 8.2.1 documentation
+https://qemu.readthedocs.io/en/v8.2.1/user/main.html
+
+Linaro @ FOSDEM 2024 | Blog | Linaro
+https://www.linaro.org/blog/linaro-fosdem-2024/
+
+FOSDEM24 - Mainline Linux on Qualcomm SoCs, are we here now ?
+https://fosdem.org/2024/events/attachments/fosdem-2024-1707-mainline-linux-on-qualcomm-socs-are-we-here-now-/slides/22126/FOSDEM24_-_Mainline_Linux_on_Qualcomm_SoCs_are_cW72KOo.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=8&prefix=true&query=docs.google.com%20presentation%2Fd%2F&sort=byPopularity&type=story
+
+What is Frea? - Google 幻灯片
+https://docs.google.com/presentation/d/16pxrYfpxxKRzhpMM0zZVlF5jo4f1bF9zOuceF9I-0is/edit#slide=id.g60f9d8e88b_1_27
+
+Career Development and Money – How to be happy at work for the next 40 years | Hacker News
+https://news.ycombinator.com/item?id=26518259
+
+Getting to Fast - SmashingConf - Google 幻灯片
+https://docs.google.com/presentation/d/1qoginKKkdrRpIPGjJakt1y17iXsIBSaInaHbR4JyCIk/edit#slide=id.g55433151d_1167
+
+This is Success: Why 1000/100/6/50ms? - Google 文档
+https://docs.google.com/document/d/1bYMyE6NdiAupuwl7pWQfB-vOZBPSsXCv57hljLDMV8E/edit#heading=h.116kzlmx4qct
+
+RISC-V Open Hours (2023-Jul-13) - Google 幻灯片
+https://docs.google.com/presentation/d/1mog7H2KhE7vK17_KyPWIPf-NoC9jLsL8kMgA-bl6mJ8/edit#slide=id.g258c35c23dd_0_76
+
+Software Licenses - Google 幻灯片
+https://docs.google.com/presentation/d/1NGAzLPPOPS6v_q8mLxjJpJphoEAfV9Cs4FEVzM9JWKs/edit#slide=id.p
+
+Life of a Pixel - Google 幻灯片
+https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.ga884fe665f_64_188
+
+Writing Code for NLP Research - Google 幻灯片
+https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.g4482b4d82e_0_135
+
+State of AI Report 2020 - ONLINE - Google 幻灯片
+https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g911fd38310_0_123
+
+DevTools can do THAT? - Google 幻灯片
+https://docs.google.com/presentation/d/1DNljLkRpe9LIDfcqcpHzdLvEOyuVH4d1y9dtAJBr1I8/preview?slide=id.gbba09f01_077
+
+Rust container cheat sheet - Google 幻灯片
+https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/edit#slide=id.p
+
+网页未找到
+https://docs.google.com/presentation/d/1p_OXuxuISMlKh8vhVDKDmIbdgC5xcPZ7EJdNDmN1rEA/edit
+
+programmer interfaces - Google 幻灯片
+https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit#slide=id.g1f34a0e56b_103_88
+
+Enso | Get insights you can rely on. In real time.
+https://enso.org/
+
+Learnable Programming
+https://worrydream.com/LearnableProgramming/
+
+VimeUhOh
+https://vimeo.com/36579366
+
+Flex
+https://harc.ycr.org/flex/#ohm
+
+ohmjs/ohm: A library and language for building parsers, interpreters, compilers, etc.
+https://github.com/ohmjs/ohm
+
+Settings - JSFiddle - Code Playground
+https://jsfiddle.net/user/pdubroy/fiddles/
+
+Ohm Editor
+https://ohmjs.org/editor/
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771/files
+
+#general > Reducing Compilation Time - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Reducing.20Compilation.20Time
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Raph Levien’s blog | Blog of Raph Levien.
+https://raphlinus.github.io/
+
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=CONVCP
+
+谈一谈 ABI, C++ ABI, Rust ABI 的稳定性 (下) - 知乎
+https://zhuanlan.zhihu.com/p/653929912
+
+(4 封私信 / 42 条消息) 孙孟越 - 知乎
+https://www.zhihu.com/people/stevensun-8/posts
+
+(4 封私信 / 42 条消息) wdhwg001 - 知乎
+https://www.zhihu.com/people/wdhwg001
+
+(4 封私信 / 44 条消息) 协同编辑领域是否存在 CRDT 取代 OT 的趋势？ - 知乎
+https://www.zhihu.com/question/510215494
+
+(4 封私信 / 44 条消息) 张驰 - 知乎
+https://www.zhihu.com/people/zhangchi2048/posts
+
+Compiler Explorer
+https://godbolt.org/z/Pfh43cMxP
+
+(4 封私信 / 42 条消息) 韩朴宇 - 知乎
+https://www.zhihu.com/people/han-pu-yu/answers?page=3
+
+Type layout - The Rust Reference
+https://doc.rust-lang.org/reference/type-layout.html
+
+Rust内存管理 - 知乎
+https://zhuanlan.zhihu.com/p/298370002
+
+(4 封私信 / 42 条消息) 郑天玑 - 知乎
+https://www.zhihu.com/people/zheng-tian-ji
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo%20%23%5Brepr(C)%5D&type=code
+
+python/cpython: The Python programming language
+https://github.com/python/cpython
+
+Commits · servo/pathfinder
+https://github.com/servo/pathfinder/commits/main/
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo%20PathFinder&type=code
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Suno
+https://app.suno.ai/create/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+fix lint issue · yjs/y-websocket@d4e0f46
+https://github.com/yjs/y-websocket/commit/d4e0f46cbe6b30115edd89739cdfada51455689b
+
+龙卷风（2001年周杰伦演唱的歌曲）_百度百科
+https://baike.baidu.com/item/%E9%BE%99%E5%8D%B7%E9%A3%8E/2178400
+
+iscas ac cn - Google 搜索
+https://www.google.com/search?q=iscas+ac+cn&sca_esv=236e917ef57ab2a8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08Co9VZ546RodBfSdE-YEBZGio7qw%3A1711439784206&ei=qH8CZsT-C9bQ2roP0Jm-8AM&ved=0ahUKEwjE8pCDupGFAxVWqFYBHdCMDz4Q4dUDCBA&uact=5&oq=iscas+ac+cn&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2lzY2FzIGFjIGNuMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESKsMUABYkAtwAXgBkAEAmAGVBaABmQyqAQkyLTIuMS4wLjG4AQPIAQD4AQGYAgWgAqMMwgIIEAAYgAQYywHCAgUQABiABMICCBAAGB4YDBgKwgIEEAAYHsICBhAAGB4YDMICBhAAGB4YCsICBhAAGAgYHsICBhAAGAUYHpgDAJIHCzEuMC4yLjEuMC4xoAezCg&sclient=gws-wiz-serp
+
 team.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
