@@ -1,5 +1,7 @@
 # inbox
 
+Jeffrey Van Gogh is a Engineering Manager for Android Studio. Mads Ager is a Software Engineer and Tech Lead at Google.
+
 Laurence Tratt compiler expert shopify https://mastodon.social/@ltratt 
 
 Timothy J Fontaine early hire of nodejs team https://github.com/tjfontaine

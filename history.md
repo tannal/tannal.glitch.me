@@ -1,5 +1,146 @@
 # 2024-3-26
 
+team.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=5&prefix=true&query=docs.google.com%20presentation%2Fd%2F&sort=byPopularity&type=story
+
+Profile: jjzhiyuan | Hacker News
+https://news.ycombinator.com/user?id=jjzhiyuan
+
+Why is memory safety still a concern? - Google 幻灯片
+https://docs.google.com/presentation/d/1EscMOcMNOwi-bCgOthjiwIXE30w_SeHk3ahjyY0pX10/edit#slide=id.p
+
+Mohamed Tarek's Home Page
+https://mtarekibnziad.onrender.com/
+
+Oilpan: GC for Blink (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1YtfurcyKFS0hxPOnC3U6JJroM8aRP49Yf0QWznZ9jrk/edit#slide=id.g255803d1d_165
+
+Do you really understand SSH? I do not. - Google 幻灯片
+https://docs.google.com/presentation/d/1ah5UuVv1489r17MRlHyQlmiSdeGU6_ZKw9glX9hp7yM/mobilepresent?slide=id.g16f534572da_0_160
+
+[Public, Approved] Intro to Transformers - Google 幻灯片
+https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent?slide=id.g13dd67c5ab8_0_2537
+
+微软Bing的多模态模式火爆更新！BingChat VS ChatGPT，谁将引领AI未来？ - 知乎
+https://zhuanlan.zhihu.com/p/636168508
+
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=CONVCP
+
+Bayesian Deep Learning Summer School | 3.隐变量模型与EM - 知乎
+https://zhuanlan.zhihu.com/p/264203319
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1 x 1 convolution - Google 搜索
+https://www.google.com/search?q=1+x+1+convolution&rlz=1C1GCEA_enJP1090JP1090&oq=1+x+1+convol&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCAgCEAAYExgeMgYIAxBFGECoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Gelu - Google 搜索
+https://www.google.com/search?q=Gelu&rlz=1C1GCEA_enJP1090JP1090&oq=Gelu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQABgKGEMYgAQYigUyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEC4YgwEYsQMYgAQyBwgFEC4YgAQyBwgGEC4YgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxODkwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ggml/src/ggml.c at f5c9599cdba3133da0158dce061b33413b49f6fd · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/f5c9599cdba3133da0158dce061b33413b49f6fd/src/ggml.c#L4148
+
+Residual Connections - Google 搜索
+https://www.google.com/search?q=Residual+Connections&rlz=1C1GCEA_enJP1090JP1090&oq=Residual+Connections&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+What's new in Go 1.22
+http://localhost:3999/new-in-go-122/go122.slide#4
+
+TensorChord Tea Hour: Do you really understand SSH? (Chinese) - YouTube
+https://www.youtube.com/watch?v=mtebN9C-Rsg&t=1516s
+
+juzhiyuan (琚致远 / Zhiyuan Ju)
+https://github.com/juzhiyuan
+
+rfc 4252 - Google 搜索
+https://www.google.com/search?q=rfc+4252&rlz=1C1GCEA_enJP1090JP1090&oq=rfc+4252&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABNIBCDI2MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+RFC 4252 - The Secure Shell (SSH) Authentication Protocol 日本語訳
+https://tex2e.github.io/rfc-translater/html/rfc4252.html
+
+Kentaro Hara | Aeronautics and Astronautics
+https://aa.stanford.edu/people/ken-hara
+
+AUTHORS - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/fc6818160b390034c249b7329f6c0be8e4f5b11b/AUTHORS
+
+V8 Resources
+https://mrale.ph/v8/resources.html
+
+helix-editor/helix: A post-modern modal text editor.
+https://github.com/helix-editor/helix
+
+Understanding V8
+https://mrale.ph/s3/nodecamp.eu/#13
+
+Console to Chrome
+https://console-to-chrome.appspot.com/#17
+
+Contributing to the Kotlin Compiler – Talking Kotlin
+https://talkingkotlin.com/contributing-to-the-kotlin-compiller/
+
+javascript - How to inspect result of `node --prof` on x64 MacOS X 10.7? - Stack Overflow
+https://stackoverflow.com/questions/14829325/how-to-inspect-result-of-node-prof-on-x64-macos-x-10-7
+
+sidorares/node-tick: node.js-runnable v8.log processor (d8 + %platform%-tick-processor friend)
+https://github.com/sidorares/node-tick
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Kentaro Hara (@xharaken) / X
+https://twitter.com/xharaken
+
+Non-blocking HTML parsing - Google 文档
+https://docs.google.com/document/d/1HfRnxFDq8qW9GWQXtD2-IE2OIBeuZjPikBMsuMrpIWY/edit
+
+What solutions are there for circular references? - Stack Overflow
+https://stackoverflow.com/questions/1069330/what-solutions-are-there-for-circular-references
+
+Reference counting - Wikipedia
+https://en.wikipedia.org/wiki/Reference_counting
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=reference%20counting%20in%20linux%20kernel&sort=byPopularity&type=story
+
+Zero Day Initiative — CVE-2021-20226: A Reference-Counting Bug in the Linux Kernel io_uring Subsystem
+https://www.zerodayinitiative.com/blog/2021/4/22/cve-2021-20226-a-reference-counting-bug-in-the-linux-kernel-iouring-subsystem
+
+refcnt.dvi
+https://www.open-std.org/JTC1/SC22/WG21/docs/papers/2007/n2167.pdf
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+裸金属二进制翻译器的架构 | Deep Dark Fantasy
+https://martins3.github.io/bmbt/2-arch.html
+
+loongson-dune/example at main · Martins3/loongson-dune
+https://github.com/Martins3/loongson-dune/tree/main/example
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=qemu%20tran&sort=byPopularity&type=story
+
+The Evolution Of The QEMU Translator | Blog | Linaro
+https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/
+
+新型消费为经济发展注入新动力_百度搜索
+https://www.baidu.com/s?wd=%E6%96%B0%E5%9E%8B%E6%B6%88%E8%B4%B9%E4%B8%BA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%E6%B3%A8%E5%85%A5%E6%96%B0%E5%8A%A8%E5%8A%9B&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+
+(4 封私信 / 42 条消息) 如何看待 2024 年的世界经济形势？ - 知乎
+https://www.zhihu.com/question/635819026
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

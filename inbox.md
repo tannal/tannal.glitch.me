@@ -1,5 +1,9 @@
 # 2024-3-26 0 | 0 W
 
+image audio text
+
+https://www.bing.com/chat?showconv=1&wlexpsignin=1&wlexpsignin=1
+
 I would say that research is a prototype for a startup.
 
 # 2024-3-25 0 | 0 W
