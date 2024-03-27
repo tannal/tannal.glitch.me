@@ -1,5 +1,77 @@
 # 2024-3-27
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+A first dip into OS kernel development with xv6 and the 6.1810 labs | Jannes on the web
+https://jannestimm.com/posts/xv6/
+
+mit-pdos/xv6-riscv: Xv6 for RISC-V
+https://github.com/mit-pdos/xv6-riscv
+
+深入css的flex排版原理 - 知乎
+https://zhuanlan.zhihu.com/p/363240190
+
+Bug 1879340 - Add potentially render blocking, r=emilio · mozilla/gecko-dev@791a41b
+https://github.com/mozilla/gecko-dev/commit/791a41bfd4211cae0dc045613fca909728d2a047
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+David Grogan google - Google 検索
+https://www.google.com/search?q=David+Grogan+google&client=ubuntu-sn&hs=eOV&sca_esv=36ab8804a141efdc&channel=fs&ei=VPsDZuOkEJPc2roPzd-p-AI&ved=0ahUKEwjjnuqNpJSFAxUTrlYBHc1vCi8Q4dUDCBA&uact=5&oq=David+Grogan+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0RhdmlkIEdyb2dhbiBnb29nbGUyBRAhGKABMgQQIRgVSKgMUMEFWMILcAF4AZABAJgB6wGgAZoIqgEFMC4yLjO4AQPIAQD4AQGYAgagAq0IwgIKEAAYRxjWBBiwA8ICBxAAGIAEGBPCAgQQABgemAMAiAYBkAYFkgcFMS4yLjOgB-sI&sclient=gws-wiz-serp#ip=1
+
+LInux: no line numbers on stacktraces from DCHECKs
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/9BvsgutjMbM
+
+Has anybody used CLion IDE?
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/SuHv2syPIeA
+
+ycm-core/YouCompleteMe: A code-completion engine for Vim
+https://github.com/ycm-core/YouCompleteMe
+
+YouCompleteMe by Valloric
+http://ycm-core.github.io/YouCompleteMe/#linux-64-bit
+
+Issues · iovisor/bcc
+https://github.com/iovisor/bcc/issues?page=4&q=is%3Aissue+is%3Aopen
+
+stackcount: address resolution for user-space stack · Issue #2748 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/2748
+
+funccount, funclatency, stackcount user symbols don't work for containerized processes · Issue #1366 · iovisor/bcc
+https://github.com/iovisor/bcc/issues/1366
+
+bcc/tools/stackcount.py at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/tools/stackcount.py
+
+chromium debug symbol - Google 検索
+https://www.google.com/search?q=chromium+debug+symbol&client=ubuntu-sn&hs=kiV&sca_esv=36ab8804a141efdc&channel=fs&ei=MgAEZpyoGZHb2roPlKq1gAE&ved=0ahUKEwiciYXgqJSFAxWRrVYBHRRVDRAQ4dUDCBA&uact=5&oq=chromium+debug+symbol&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWNocm9taXVtIGRlYnVnIHN5bWJvbDIEEAAYHkjbDlC1AliKC3ABeAGQAQCYAYkCoAG-CqoBBTAuMS41uAEDyAEA-AEBmAIDoALbA8ICChAAGEcY1gQYsAPCAggQABiABBiiBMICCBAAGIkFGKIEmAMAiAYBkAYKkgcFMS4xLjGgB9IL&sclient=gws-wiz-serp
+
+Debugging Chromium on Windows
+https://www.chromium.org/developers/how-tos/debugging-on-windows/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=khronos&sort=byPopularity&type=story
+
+WebGL & WebGPU Updates 2024-03 - Google Slides
+https://docs.google.com/presentation/d/1kKtCTlwTep-9SPqg4-q4N6zFNZpKce8lXk3kJRo8YjM/edit#slide=id.g13ca15573e1_0_0
+
+playcanvas/engine: Fast and lightweight JavaScript game engine built on WebGL and glTF
+https://github.com/playcanvas/engine
+
+PlayCanvas WebGL Game Engine
+https://playcanvas.com/
+
+WebGPU  |  Web Platform  |  Chrome for Developers
+https://developer.chrome.com/docs/web-platform/webgpu/
+
+gpuweb/gpuweb: Where the GPU for the Web work happens!
+https://github.com/gpuweb/gpuweb
+
+Advanced Blending Demo
+https://registry.khronos.org/webgl/sdk/demos/rive/bubbles.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

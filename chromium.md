@@ -326,6 +326,7 @@ out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow
 export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
 
 autoninja -C out/Default chrome_wpt_tests
+autoninja -C out/Default chrome
 
 autoninja -C out/Default blink_unittests
 out/Default/blink_unittests --gtest_filter='InlineNodeTest.SetTextWithOffsetWithTextTransform'
