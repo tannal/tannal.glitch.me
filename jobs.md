@@ -15,3 +15,5 @@ https://news.ycombinator.com/item?id=39562986
 https://news.ycombinator.com/item?id=23700587
 
 https://www.codethink.co.uk/join-us.html#latest-roles
+
+https://recruitment.t-head.cn/campus/position-list?campusType=internship&lang=zh

@@ -1,4 +1,13 @@
+# 2024-3-27 0 | 0 W
+
+RISC-V status Fedora KDE Desktop AOSP GCC Arch Linux debian openEuler Clang/LLVM QEMU V8 SpiderMonkey OpenJDK
+
+ROCm GPU Computing
+
 # 2024-3-26 0 | 0 W
+
+
+&type=meta
 
 image audio text
 

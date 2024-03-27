@@ -1,3 +1,79 @@
+# 2024-3-27
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Deep Dark Fantasy | :book: Scratchpad about Linux, Compiler and Virtualization
+https://martins3.github.io/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+RISC-V Open Hours (2023-Jul-13) - Google 幻灯片
+https://docs.google.com/presentation/d/1mog7H2KhE7vK17_KyPWIPf-NoC9jLsL8kMgA-bl6mJ8/edit#slide=id.g258c35c23dd_0_89
+
+Fix bugs in disassembling code for cm.mva01s/mvsa01 instructions by liweiwei90 · Pull Request #1372 · riscv-software-src/riscv-isa-sim
+https://github.com/riscv-software-src/riscv-isa-sim/pull/1372/files
+
+Define new tag for atomic ABI by kito-cheng · Pull Request #385 · riscv-non-isa/riscv-elf-psabi-doc
+https://github.com/riscv-non-isa/riscv-elf-psabi-doc/pull/385/files
+
+[riscv] Fix pointer compression (4583609) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4583609
+
+Comparing qemu:master...plctlab:plct-riscv-backend-rvv · qemu/qemu
+https://github.com/qemu/qemu/compare/master...plctlab:plct-qemu:plct-riscv-backend-rvv
+
+Membership – RISC-V International
+https://riscv.org/membership/
+
+OpenHW Group CORE-V, gcc binutils development for custom ISA, RISC-V Tech Study Japan 03/06, 2024 - YouTube
+https://www.youtube.com/watch?v=-9jtYYrQX4w
+
+Let's Create a Compiler (Pt.1) - YouTube
+https://www.youtube.com/watch?v=vcSijrRsrY0
+
+https://www.youtube.com/watch?v=DUp2moHDQpw
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DDUp2moHDQpw&q=EhAkAIkFAAAAAPA8lP_-y3erGJSXirAGIjDAgpwQAZ8KB8PdRE7TzEjFrq0U0ujpltDI0AyQC5iaZEfsbZsVV2QgpJgzO17osfUyAXJaAUM
+
+QEMU User space emulator — QEMU 8.2.1 documentation
+https://qemu.readthedocs.io/en/v8.2.1/user/main.html
+
+The Evolution Of The QEMU Translator | Blog | Linaro
+https://www.linaro.org/blog/the-evolution-of-the-qemu-translator/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Code search results
+https://github.com/search?q=repo%3Asqlite%2Fsqlite%20sqlite3_step&type=code
+
+(4 封私信 / 44 条消息) Milk-V 推出 Meles SBC 配 2GHz 平头哥，该产品都有哪些新技术？ - 知乎
+https://www.zhihu.com/question/620747417
+
+Milk-V 推出 Meles SBC：配 2GHz 平头哥 TH1520 四核 RISC-V 处理器|IT之家_新浪科技_新浪网
+https://finance.sina.com.cn/tech/digi/2023-09-06/doc-imzktyue0562296.shtml
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+Rely only on `pkg-config` to find zlib include directory by sagudev · Pull Request #460 · servo/mozjs
+https://github.com/servo/mozjs/pull/460/files
+
+servo/components/layout_2020/flexbox/layout.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/layout_2020/flexbox/layout.rs#L260
+
+layout: Implement computation of table column widths (#31165) · servo/servo@d68c7e7
+https://github.com/servo/servo/commit/d68c7e7881b5c92d0b03c1b43990da26f3771615
+
+tannal (tannal)
+https://github.com/tannal/
+
+毛泽东 李锐 毛病不改 - Google 搜索
+https://www.google.com/search?q=%E6%AF%9B%E6%B3%BD%E4%B8%9C+%E6%9D%8E%E9%94%90+%E6%AF%9B%E7%97%85%E4%B8%8D%E6%94%B9&sca_esv=82300cf3937c2883&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_Mc9qX1JDf3G8kMvdLG8n8hNGhoQ%3A1711462219001&ei=StcCZoPWPM2l2roP15u3wAQ&oq=%E6%AF%9B%E6%B3%BD%E4%B8%9C+%E6%9D%8E%E9%94%90+%E6%AF%9B%E7%97%85&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-avm-azveS4nCDmnY7plJAg5q-b55eFKgIIADIFECEYoAEyBRAhGKABSPsVUD5Y0A5wAXgBkAEAmAH9AaAB5w6qAQUwLjQuNbgBA8gBAPgBAZgCCqAC-g7CAgoQABhHGNYEGLADwgIEEAAYHsICCBAAGIAEGKIEwgIIEAAYiQUYogSYAwCIBgGQBgqSBwUxLjMuNqAHmg8&sclient=gws-wiz-serp
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 # 2024-3-26
 
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
