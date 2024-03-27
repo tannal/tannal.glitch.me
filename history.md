@@ -3,6 +3,171 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=ATCVAJ
+
+why tree in computer science is important than graph - Google 搜索
+https://www.google.com/search?q=why+tree+in+computer+science+is+important+than+graph&sca_esv=8caa149022821f4f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-xkc2Zse6lRGbTB6vzELnC2qKcuQ%3A1711505775038&ei=b4EDZo38AeOIvr0P1sGP8AE&ved=0ahUKEwjN74Hur5OFAxVjhK8BHdbgAx4Q4dUDCBA&uact=5&oq=why+tree+in+computer+science+is+important+than+graph&gs_lp=Egxnd3Mtd2l6LXNlcnAiNHdoeSB0cmVlIGluIGNvbXB1dGVyIHNjaWVuY2UgaXMgaW1wb3J0YW50IHRoYW4gZ3JhcGgyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIgy1QshpYvStwAngAkAEAmAGLAqABwBCqAQUwLjMuN7gBA8gBAPgBAZgCCqAC5BDCAgUQIRigAZgDAIgGAZIHBTAuMy43oAfIKA&sclient=gws-wiz-serp
+
+compilers - Does an abstract syntax tree have to be a tree? - Computer Science Stack Exchange
+https://cs.stackexchange.com/questions/13126/does-an-abstract-syntax-tree-have-to-be-a-tree
+
+User Dave Clarke - Computer Science Stack Exchange
+https://cs.stackexchange.com/users/31/dave-clarke
+
+Surviving your PhD Write-up
+https://supercooldave.github.io/phd.html
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+80. 删除有序数组中的重复项 II - 力扣（LeetCode）
+https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150
+
+55. 跳跃游戏 - 力扣（LeetCode）
+https://leetcode.cn/problems/jump-game/submissions/517385090/?envType=study-plan-v2&envId=top-interview-150
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+寄存器由来 ES CS SS DS FS GS区别 - 知乎
+https://zhuanlan.zhihu.com/p/433645087
+
+ss cs eflags - Google 搜索
+https://www.google.com/search?q=ss+cs+eflags&rlz=1C1GCEA_enJP1090JP1090&oq=ss+cs+eflags&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDI4MDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+02.kernel_abstraction
+https://www.cs.cornell.edu/courses/cs4410/2017sp/schedule/slides/02.kernel_abstraction.pdf
+
+kk Blog —— 通用基础
+https://abcdxyzk.github.io/
+
+Debian Code Search
+https://codesearch.debian.net/
+
+xv6-public/trapasm.S at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/trapasm.S#L5
+
+Trampoline frame - Google 搜索
+https://www.google.com/search?q=Trampoline+frame&rlz=1C1GCEA_enJP1090JP1090&oq=Trampoline+frame&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Trampoline&sort=byPopularity&type=story
+
+Trampolines in JavaScript
+https://raganwald.com/2013/03/28/trampolines-in-javascript.html?utm_content=bufferdab4c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
+
+raganwald.com
+https://raganwald.com/2013/03/29/high-level-trampolining.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byPopularity&type=story
+
+xv6-public/trap.c at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/trap.c#L37
+
+dtolnay 知乎 - Google 搜索
+https://www.google.com/search?q=dtolnay+%E7%9F%A5%E4%B9%8E&sca_esv=6ea7bef9d148f8bc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0840GhFo1DcuVDMeSy4-_kSrW27jw%3A1711512340165&ei=FJsDZsHZCbXW1e8Pyri50Aw&ved=0ahUKEwjBs8GoyJOFAxU1a_UHHUpcDsoQ4dUDCBA&uact=5&oq=dtolnay+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmR0b2xuYXkg55-l5LmOMgUQIRigAUiACVAAWIwIcAB4AZABAJgB6QGgAacKqgEFMC40LjO4AQPIAQD4AQGYAgagAoAJwgIIEAAYgAQYywHCAgQQABgemAMA4gMFEgExIECSBwUwLjMuM6AH7Qw&sclient=gws-wiz-serp
+
+CS 4410 - Spring 2017 | Schedule
+https://www.cs.cornell.edu/courses/cs4410/2017sp/schedule/
+
+06.monitors.key
+https://www.cs.cornell.edu/courses/cs4410/2017sp/schedule/slides/06.monitors.pdf
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+Bun
+https://github.com/oven-sh
+
+xv6-public/traps.h at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/traps.h#L18
+
+CPL ring0 - Google 搜索
+https://www.google.com/search?q=CPL+ring0&rlz=1C1GCEA_enJP1090JP1090&oq=CPL+ring0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxOTcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+IRET/IRETD/IRETQ — Interrupt Return
+https://www.felixcloutier.com/x86/iret:iretd:iretq
+
+THU FASTsys
+https://fastsys.cs.tsinghua.edu.cn/
+
+rust-osdev/bootloader: An experimental pure-Rust x86 bootloader
+https://github.com/rust-osdev/bootloader
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=felixcloutier&sort=byPopularity&type=story
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+[xv6] xv6 的编译过程 - 知乎
+https://zhuanlan.zhihu.com/p/524037698
+
+3.9 XV6 启动过程 - 知乎
+https://zhuanlan.zhihu.com/p/266502391
+
+• Discord | #off-topic | FlutterDev
+https://discord.com/channels/420324994703163402/421444918276390912
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+How can I create a two dimensional array in JavaScript? - Stack Overflow
+https://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+bcc/tools/stackcount.py at master · iovisor/bcc
+https://github.com/iovisor/bcc/blob/master/tools/stackcount.py
+
+strip debug symbols stackcount - Google 搜索
+https://www.google.com/search?q=strip+debug+symbols+stackcount&sca_esv=3c0f0939aaa1f45f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_KNyvtOzMz329XH1arn2ZNd6G_yg%3A1711545109632&ei=FRsEZqSiJtrj2roP07G6uAQ&ved=0ahUKEwjkgJuywpSFAxXasVYBHdOYDkcQ4dUDCBA&uact=5&oq=strip+debug+symbols+stackcount&gs_lp=Egxnd3Mtd2l6LXNlcnAiHnN0cmlwIGRlYnVnIHN5bWJvbHMgc3RhY2tjb3VudDIHECEYChigATIHECEYChigATIHECEYChigATIHECEYChigAUiaOVDQBliYOHAGeAGQAQCYAfABoAHWGaoBBjAuNi4xMLgBA8gBAPgBAZgCFqACiBrCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgYQABgeGAzCAgQQABgewgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgWSBwY2LjMuMTOgB-su&sclient=gws-wiz-serp
+
+gltf - Google 搜索
+https://www.google.com/search?q=gltf&rlz=1C1GCEA_enJP1090JP1090&oq=gltf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDINCAUQLhivARjHARiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBBzc1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+3D modeling - Wikipedia
+https://en.wikipedia.org/wiki/3D_modeling
+
+KhronosGroup/glTF: glTF – Runtime 3D Asset Delivery
+https://github.com/KhronosGroup/glTF
+
+glTF Project Explorer
+https://github.khronos.org/glTF-Project-Explorer/
+
+Issues · juj/wasm_webgpu
+https://github.com/juj/wasm_webgpu/issues?q=is%3Aissue+is%3Aclosed
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Rive Renderer
+https://rive.app/renderer
+
+Rive - Register
+https://rive.app/login/?redirect=https%3A%2F%2Feditor.rive.app&tab=register
+
+rive-app/rive-renderer: Downstream repo for Rive renderer
+https://github.com/rive-app/rive-renderer
+
+Remote AI (LLM) Fullstack Engineer at CloudDevs
+https://weworkremotely.com/remote-jobs/clouddevs-ai-llm-fullstack-engineer-2
+
+wework - Google 搜索
+https://www.google.com/search?q=wework&rlz=1C1GCEA_enJP1090JP1090&oq=wework+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyCQgFEAAYDBiABDIGCAYQRRg8MgYIBxBFGDzSAQgxNTg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 sqlite3BtreeOpen package:\Qgcc-9\E · Debian Code Search
 https://codesearch.debian.net/search?q=sqlite3BtreeOpen+package%3A%5CQgcc-9%5CE&literal=1
 

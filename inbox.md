@@ -1,5 +1,25 @@
 # 2024-3-27 0 | 0 W
 
+https://fastsys.cs.tsinghua.edu.cn/
+
+https://www.felixcloutier.com/x86/iret:iretd:iretq
+
+CPL=0, ring0, iret return from the interrupt
+
+trap frame
+
+EFLAGS(program status and control) register
+
+Disable interrupt
+Save key registers
+Switch onto the kernel interrupt stack
+Push key registers onto new stack
+Save error code (optional)
+Invoke interrupt handler
+Handler pushes all registers on stack
+
+professor, can you explain this slide for me?
+
 select count(*) from tbl where (x + y) > 100
 aggregation scan filter
 
