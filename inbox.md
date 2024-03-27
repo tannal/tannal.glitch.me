@@ -1,5 +1,23 @@
 # 2024-3-27 0 | 0 W
 
+select count(*) from tbl where (x + y) > 100
+aggregation scan filter
+
+```js
+
+let count = 0
+
+while(tuple = get_next()) {
+  
+  if(tuple.x + tuple.y > 20) {
+    count++
+  }
+}
+
+return count
+
+```
+
 layout algorithm in browser
 
 flow.rs positioned.rs table flex grid float replacedContent

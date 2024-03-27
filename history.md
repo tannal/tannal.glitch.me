@@ -1,5 +1,176 @@
 # 2024-3-27
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+必应中的 Microsoft Copilot
+https://www.bing.com/chat
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=11&prefix=true&query=docs.google.com%20presentation%2Fd%2F&sort=byPopularity&type=story
+
+Type Annotations Proposal Update March 2023 - Google 幻灯片
+https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/edit#slide=id.g2131cd52984_0_35
+
+An RNA­-Based Theory of Natural Universal Computation - Google 幻灯片
+https://docs.google.com/presentation/d/1f9qYDa_iNUNS0029p47U26GtUAwFS3A9AeWQBBiWeVo/edit#slide=id.gba8e642e79_0_111
+
+Career development - Google 幻灯片
+https://docs.google.com/presentation/d/16YvHx6mfEsEHP2ppJj009BQYc_SLp2xTa1cAHS5tk2w/edit#slide=id.g93efc99f3a_0_94
+
+State of AI Report 2021 - ONLINE - Google 幻灯片
+https://docs.google.com/presentation/d/1bwJDRC777rAf00Drthi9yT2c9b0MabWO5ZlksfvFzx8/edit#slide=id.gf171287819_0_165
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=state%20of%20AI%20report&sort=byPopularity&type=story
+
+Welcome to State of AI Report 2023
+https://www.stateof.ai/
+
+Moore’s conjecture - Google 搜索
+https://www.google.com/search?q=Moore%E2%80%99s+conjecture&rlz=1C1GCEA_enJP1090JP1090&oq=Moore%E2%80%99s+conjecture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBBzczMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+深入css的flex排版原理 - 知乎
+https://zhuanlan.zhihu.com/p/363240190
+
+(4 封私信 / 46 条消息) 阿侎 - 知乎
+https://www.zhihu.com/people/army8735/posts?page=2
+
+karas/src/node/Dom.js at 9c46dfa03086fbcea10326af766a02f4cee36f0c · karasjs/karas
+https://github.com/karasjs/karas/blob/9c46dfa03086fbcea10326af766a02f4cee36f0c/src/node/Dom.js#L1102
+
+servo/components/layout_2020/replaced.rs at 92b557867c199472ce42a2f5b99676c485ed2ae1 · servo/servo
+https://github.com/servo/servo/blob/92b557867c199472ce42a2f5b99676c485ed2ae1/components/layout_2020/replaced.rs
+
+CSS Flexible Box Layout Module Level 1
+https://drafts.csswg.org/css-flexbox/#resolve-flexible-lengths
+
+深度解读“布局算法” - 专栏 - 声网开发者社区
+https://www.rtcdeveloper.cn/cn/community/blog/24178
+
+Understanding Layout Algorithms
+https://www.joshwcomeau.com/css/understanding-layout-algorithms/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Layout%20Algorithms&sort=byPopularity&type=story
+
+CSS Images Module Level 4
+https://drafts.csswg.org/css-images-4/#the-image-resolution
+
+More Precise Definitions of Intrinsic Widths and Table Layout (Proposal)
+https://dbaron.org/css/intrinsic/
+
+How browser rendering works
+https://dbaron.github.io/browser-rendering/
+
+David Baron's weblog: September 2002
+https://dbaron.org/log/2002-09
+
+meyerweb.com
+https://meyerweb.com/#thoughts
+
+Planet Mozilla
+https://planet.mozilla.org/
+
+fantasai: log
+https://fantasai.inkedblade.net/weblog/#challenges
+
+Hixie's Natural Log: The Future is Flutter
+https://ln.hixie.ch/?start=1700627532&count=1
+
+Flutter Blank Canvas Custom Controls (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1rS_RO2DQ_d4_roc3taAB6vXFjv7-9hJP7pyZ9NhPOdA/edit?resourcekey=0-VBzTPoqLwsruo0j9dokuOg#heading=h.34a91yqebirw
+
+Jonathan Baron's Homepage
+https://www.sas.upenn.edu/~baron/
+
+HTML Atorms - Google 搜索
+https://www.google.com/search?q=HTML+Atorms&rlz=1C1GCEA_enJP1090JP1090&oq=HTML+Atorms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCDEzNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+nsCSSStyleRule.cpp - Google 搜索
+https://www.google.com/search?q=nsCSSStyleRule.cpp&rlz=1C1GCEA_enJP1090JP1090&oq=nsCSSStyleRule.cpp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+HTML Atorms - Google 搜索
+https://www.google.com/search?q=HTML+Atorms&rlz=1C1GCEA_enJP1090JP1090&oq=html+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAjGCcYgAQYigUyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQg0MjkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=David%20Baron
+
+Focusability of elements with display:contents · Issue #772 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/772
+
+rachelandrew (Rachel Andrew)
+https://github.com/rachelandrew
+
+Add support for allowing elements with display:contents to be focused. · web-platform-tests/wpt@f6d689e
+https://github.com/web-platform-tests/wpt/commit/f6d689e794b3be6a5e566dc9cc5a019380fc4f5d
+
+[css-display][css-aam][selectors-4] How elements with `display:contents` get focused? · Issue #2632 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/2632
+
+stable flags in runtime_enabled_features.json5 to consider for removal - Google 表格
+https://docs.google.com/spreadsheets/d/1OoQOp19o0dtuWXyyQJdBCAAt_6sq4PpvdRszGb0lNmo/edit#gid=0
+
+display:contents - Google 搜索
+https://www.google.com/search?q=display%3Acontents&rlz=1C1GCEA_enJP1090JP1090&oq=display%3Acontents&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg6MgYIAhBFGD0yBggDEEUYPdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CSS display: contents | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/css-display-contents
+
+Add the-summary-element/interactive-content.html to SlowTests. · chromium/chromium@ab2a63f
+https://github.com/chromium/chromium/commit/ab2a63f3a550be6070ee29ba2ec15aadf983c9b7
+
+[css-transforms-2] Preserve-3d + backface visibility semantics need to be clarified · Issue #918 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/918#issuecomment-1696711327
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+na&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgYIAhBFGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+The Future Is Flutter | Hacker News
+https://news.ycombinator.com/item?id=38383306
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=andy%20pavlo&sort=byPopularity&type=story
+
+Profile: pavlov | Hacker News
+https://news.ycombinator.com/user?id=pavlov
+
+Database Deep Dives with Andy Pavlo - IBM Blog
+https://www.ibm.com/blog/database-deep-dives-with-andy-pavlo/
+
+Prashanth Menon
+https://www.cs.cmu.edu/~prashanm/
+
+Lin Ma
+https://web.eecs.umich.edu/~linmacse/
+
+publications | Matt Butrovich
+https://mattbutrovi.ch/publications/
+
+Beep Boop
+https://wanshenl.me/
+
+Code Generation: The Inner Sanctum of Database Performance - High Scalability -
+https://highscalability.com/code-generation-the-inner-sanctum-of-database-performance/
+
+CONFERENCE: HyPer: A Hybrid OLTP&OLAP Main Memory Database System Based on Virtual Memory Snapshots
+https://cs.brown.edu/courses/csci2270/archives/2012/papers/olap/hyper.pdf
+
+Melnik-PostgreSQLLLVM.pdf
+https://llvm.org/devmtg/2016-09/slides/Melnik-PostgreSQLLLVM.pdf
+
+What is a Self-Driving Database Management System? // Blog // Andy Pavlo - Carnegie Mellon University
+https://www.cs.cmu.edu/~pavlo/blog/2018/04/what-is-a-self-driving-database-management-system.html
+
+code generation using llvm - Google 搜索
+https://www.google.com/search?q=code+generation+using+llvm&rlz=1C1GCEA_enJP1090JP1090&oq=code+generation+using+llvm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINDcxNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+LLVM Tutorial #8: CodeGen - YouTube
+https://www.youtube.com/watch?v=mor2ra4YqqE
+
+Phase 2 of hashed-aggregation project. nodeAgg.c now knows how to do · postgres/postgres@2103b7b
+https://github.com/postgres/postgres/commit/2103b7baa26fe25cc2b5bee802028caeabb28113#diff-d0afec0850a62bac69a9c4c0ea49af6847a0c2348cd2931cac07cb2a923324d3
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
