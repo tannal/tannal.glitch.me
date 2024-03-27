@@ -1,5 +1,65 @@
 # 2024-3-27
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+sqlite3BtreeOpen package:\Qgcc-9\E · Debian Code Search
+https://codesearch.debian.net/search?q=sqlite3BtreeOpen+package%3A%5CQgcc-9%5CE&literal=1
+
+thunderbird firefox - Google 検索
+https://www.google.com/search?q=thunderbird+firefox&client=ubuntu-sn&hs=UFR&sca_esv=1818cc04451a0ec2&channel=fs&ei=vYYCZuisN_TDvr0P08mRqAU&ved=0ahUKEwio__zjwJGFAxX0oa8BHdNkBFUQ4dUDCBA&uact=5&oq=thunderbird+firefox&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3RodW5kZXJiaXJkIGZpcmVmb3gyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIoS1Q3hlYmyxwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+libglesv2 angle - Google 検索
+https://www.google.com/search?q=libglesv2+angle&client=ubuntu-sn&hs=sGR&sca_esv=1818cc04451a0ec2&channel=fs&ei=E4cCZrzNEMXk2roPsYWv8As&ved=0ahUKEwj8oteMwZGFAxVFslYBHbHCC74Q4dUDCBA&uact=5&oq=libglesv2+angle&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2xpYmdsZXN2MiBhbmdsZTIEEAAYHkiOElCIBFiGEXABeACQAQCYAYUDoAHhCaoBBzAuMi4yLjG4AQPIAQD4AQGYAgagAvQJwgIIEAAYgAQYsAPCAgkQABgHGB4YsAPCAgcQABgeGLADwgIHEAAYgAQYE8ICBhAAGB4YE8ICBhAAGAgYHpgDAIgGAZAGCpIHBzEuMi4yLjGgB8gI&sclient=gws-wiz-serp
+
+D. Richard Hipp - Wikipedia
+https://en.wikipedia.org/wiki/D._Richard_Hipp
+
+D. Richard Hipp - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=D.+Richard+Hipp
+
+https://github.com/tannal
+https://github.com/tannal
+
+#general > Servo WebXR OpenXR Linux support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20WebXR.20OpenXR.20Linux.20support
+
+servo/docs/HACKING_QUICKSTART.md at main · servo/servo
+https://github.com/servo/servo/blob/main/docs/HACKING_QUICKSTART.md#visual-studio-code
+
+atomiclineitem - Google 検索
+https://www.google.com/search?q=atomiclineitem&client=ubuntu-sn&hs=YfP&sca_esv=6ea7bef9d148f8bc&channel=fs&ei=VaUDZp70Fri7vr0PupmMkA0&ved=0ahUKEwje8qeM0pOFAxW4na8BHboMA9IQ4dUDCBA&uact=5&oq=atomiclineitem&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmF0b21pY2xpbmVpdGVtMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjVJlDoBliyJXACeAGQAQCYAZ8CoAGOFqoBBTAuOC42uAEDyAEA-AEBmAIQoALjFqgCCsICChAAGEcY1gQYsAPCAg0QABiABBgEGLEDGIMBwgIHEAAYgAQYBMICCxAAGIAEGLEDGIMBwgIQEAAYgAQYigUYQxixAxiDAcICBhAAGAMYBMICChAAGIAEGAQYsQPCAiAQABiABBiKBRjlAhjlAhjqAhi0AhiKAxi3AxjUA9gBAcICHRAAGIAEGIoFGOUCGOUCGOoCGLQCGIoDGLcD2AEBwgIWEAAYAxiPARjlAhjqAhi0AhiMA9gBAsICChAAGIAEGIoFGEPCAg0QABiABBiKBRhDGLEDwgIFEAAYgATCAggQABiABBixA8ICBBAAGB7CAgYQABgeGArCAhAQABiABBgNGLEDGIMBGLEDwgIHEAAYgAQYDcICBhAAGB4YDZgDCIgGAZAGCLoGBAgBGAe6BgQIAhgKkgcFMi44LjagB78q&sclient=gws-wiz-serp
+
+opengl text rendering - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=opengl+text+rendering
+
+LearnOpenGL - Text Rendering
+https://learnopengl.com/In-Practice/Text-Rendering
+
+firefox layout - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+layout
+
+Platform/Layout - MozillaWiki
+https://wiki.mozilla.org/Platform/Layout
+
+Gecko:Overview - MozillaWiki
+https://wiki.mozilla.org/Gecko:Overview
+
+Gecko:Overview - MozillaWiki
+https://wiki.mozilla.org/Gecko:Overview#Layout
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+Layout Debugger firefox - Google 検索
+https://www.google.com/search?q=Layout+Debugger+firefox&client=ubuntu-sn&hs=dT5&sca_esv=2ce33e14709b89c1&channel=fs&ei=eKwDZv23L_ePvr0P2sabsAw&ved=0ahUKEwj909fz2JOFAxX3h68BHVrjBsYQ4dUDCBA&uact=5&oq=Layout+Debugger+firefox&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0xheW91dCBEZWJ1Z2dlciBmaXJlZm94MgQQIRgVSKEUUP4BWLoTcAV4AZABAJgB8QGgAYoRqgEFMC4yLji4AQPIAQD4AQGYAg-gAsIRwgIKEAAYRxjWBBiwA8ICBBAAGB7CAggQABgFGB4YDcICBhAAGAUYHsICChAAGAUYHhgNGA_CAggQABgIGB4YDcICCBAAGIAEGKIEwgIHECEYChigAZgDAIgGAZAGCpIHBTUuMS45oAf0GA&sclient=gws-wiz-serp
+
+Layout Debugger — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/LayoutDebugger.html
+
+Layout Debugger - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Layout+Debugger#ip=1
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
