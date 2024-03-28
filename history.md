@@ -1,5 +1,155 @@
 # 2024-3-28
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+dj2/Dusk: Dawn Native WebGPU Examples
+https://github.com/dj2/Dusk
+
+juj/wasm_webgpu: System headers for interfacing WebGPU from C programs compiled via Emscripten to WebAssembly
+https://github.com/juj/wasm_webgpu
+
+mstorsjo/llvm-mingw: An LLVM/Clang/LLD based mingw-w64 toolchain
+https://github.com/mstorsjo/llvm-mingw/tree/master
+
+/proc/driver/nvidia/
+https://www.phind.com/search?cache=eprfxlv475wht6dbxe01vx4w
+
+Official list of core developers - Committers - Discussions on Python.org
+https://discuss.python.org/t/official-list-of-core-developers/924
+
+Members - committers - Discussions on Python.org
+https://discuss.python.org/g/committers
+
+Summary - hugovk - Discussions on Python.org
+https://discuss.python.org/u/hugovk/summary
+
+hugovk (hugovk) / Repositories
+https://github.com/hugovk?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=nightly%20mode&sort=byPopularity&type=story
+
+geocar/ed-v6: Old UNIX V6 ed _lightly_ ported to modern systems
+https://github.com/geocar/ed-v6
+
+Release Android-Components 125.0b5 · mozilla-mobile/firefox-android
+https://github.com/mozilla-mobile/firefox-android/releases/tag/components-v125.0b5
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+guido van rossum - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwzDAwTTZg9BJIL81MyVcoS8xTKMovLi7NBQB7bQlB&q=guido+van+rossum&rlz=1C1GCEA_enJP1090JP1090&oq=Guido+&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIGCAAQRRg5MgwIARAuGEMYgAQYigUyBwgCEC4YgAQyBwgDEC4YgAQyBwgEEAAYgAQyDAgFEC4YQxiABBiKBTIHCAYQLhiABDIMCAcQABhDGIAEGIoFMgwICBAAGEMYgAQYigXSAQgyMzA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Python Documentation Index
+https://legacy.python.org/doc/essays/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=guido%20van%20rossum&sort=byPopularity&type=story
+
+#Outreachy > Recording Contributions - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Recording.20Contributions
+
+Applicant Guide | Outreachy Documentation
+https://www.outreachy.org/docs/applicant/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+inbal2l (Inbal Levi)
+https://github.com/inbal2l
+
+inbal2l/CppTalks: Repo contains slides and examples from C++ Talks
+https://github.com/inbal2l/CppTalks
+
+192.168.43.246:8888/hello_triangle_verbose.html
+http://192.168.43.246:8888/hello_triangle_verbose.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Dawn%20desktop%20app&sort=byPopularity&type=story
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+UNSW Sydney | One of the best universities in Australia
+https://www.unsw.edu.au/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=unsw.edu.au&sort=byPopularity&type=story
+
+Lectures
+https://www.cse.unsw.edu.au/~cs9242/23/lectures.shtml
+
+03b-vms
+https://www.cse.unsw.edu.au/~cs9242/23/lectures/03b-vms.pdf
+
+Gernot Heiser's Home Page
+https://gernot-heiser.org/
+
+Kevin Elphinstone - Welcome
+https://cgi.cse.unsw.edu.au/~kevine/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rob%20pike&sort=byPopularity&type=story
+
+Adnan Aziz
+https://users.ece.utexas.edu/~adnan/
+
+What I Learned at Google - Google 幻灯片
+https://docs.google.com/presentation/d/163ARhSxtBAqsMPc2aNQ9eufTF4J0o3hCv9WpWs7i8RQ/pub?start=false&loop=false&delayms=3000&slide=id.i125
+
+500 Internal Server Error
+https://users.ece.utexas.edu/~adnan/wiki/doku.php?id=wikipedia:start/
+
+Empirical Evaluation Guidelines
+https://www.sigplan.org/Resources/EmpiricalEvaluation/
+
+/proc/driver/nvidia/
+https://www.phind.com/search?cache=eprfxlv475wht6dbxe01vx4w
+
+Chapter 21. Using the Proc Filesystem Interface
+https://download.nvidia.com/XFree86/Linux-x86/340.108/README/procinterface.html
+
+Chapter 20. Using the /proc File System Interface
+https://download.nvidia.com/XFree86/Linux-x86_64/435.17/README/procinterface.html#:~:text=The%20NVIDIA%20%2Fproc%20file%20system,of%20the%20NVIDIA%20driver's%20operation.
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+The team behind xxx · Issue #19 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/19
+
+plan9.pdf
+https://css.csail.mit.edu/6.824/2014/papers/plan9.pdf
+
+Algorithms For Interviews
+https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20for%20Interviews%20%5BAziz%20%26%20Prakash%202010%5D.pdf
+
+Tom Duff: Reading Code From Top to Bottom (1999) | Hacker News
+https://news.ycombinator.com/item?id=2620872
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Irit%20Katriel&sort=byPopularity&type=story
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=llya%20Sutskever&sort=byPopularity&type=story
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+cargo add - The Cargo Book
+https://doc.rust-lang.org/beta/cargo/commands/cargo-add.html
+
+ycm-core
+https://github.com/ycm-core/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

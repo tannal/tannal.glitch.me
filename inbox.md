@@ -1,5 +1,15 @@
 # 2024-3-28 0 | 0 W
 
+1. run code
+2. write code
+goto 1
+
+ts: 7 
+
+GDT
+
+task stack segment
+
 machine running vuna code is 
 
 sudo tcpdump -i any -AX -vv 'port 5432'
