@@ -31,7 +31,6 @@ rive-app/rive-renderer: Downstream repo for Rive renderer
 https://github.com/rive-app/rive-renderer
 
 https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nvidia+nasdaq
-https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nvidia+nasdaq
 
 Installation method now that Vundle is gone · Issue #4134 · ycm-core/YouCompleteMe
 https://github.com/ycm-core/YouCompleteMe/issues/4134#issuecomment-1446235584

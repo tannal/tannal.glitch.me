@@ -1,5 +1,37 @@
 # 2024-3-28 0 | 0 W
 
+sudo tcpdump -i any -AX -vv 'port 5432'
+
+
+juicefs mount postgres://tannal:password@192.168.43.246:5432/jfs?sslmode=disable ~/tannalwork/jfs -d
+
+tannal@raspi:~/tannalwork/projects$ juicefs format postgres://tannal:password@192.168.43.246:5432/jfs?sslmode=disable jfs
+2024/03/28 15:10:00.716911 juicefs[4446] <INFO>: Meta address: postgres://tannal:****@192.168.43.246:5432/jfs?sslmode=disable [interface.go:497]
+2024/03/28 15:10:00.725615 juicefs[4446] <WARNING>: The latency to database is too high: 8.389317ms [sql.go:260]
+2024/03/28 15:10:00.897945 juicefs[4446] <INFO>: Data use file:///home/tannal/.juicefs/local/jfs/ [format.go:471]
+2024/03/28 15:10:01.182269 juicefs[4446] <INFO>: Volume is formatted as {
+  "Name": "jfs",
+  "UUID": "cf5834d1-ddcf-42a3-a01c-aa3d159a6e79",
+  "Storage": "file",
+  "Bucket": "/home/tannal/.juicefs/local/",
+  "BlockSize": 4096,
+  "Compression": "none",
+  "EncryptAlgo": "aes256gcm-rsa",
+  "TrashDays": 1,
+  "MetaVersion": 1,
+  "MinClientVersion": "1.1.0-A",
+  "DirStats": true
+} [format.go:508]
+
+juicefs format postgres://tannal:password@192.168.43.246:5432/jfs?sslmode=disable jfs
+sudo systemctl restart pg
+
+create database jfs
+
+./psql -U tannal -w -d jfs
+
+curl -sSL https://d.juicefs.com/install | sh -
+
 tannal@raspi:~/.vim/pack/YouCompleteMe/opt/YouCompleteMe$ ls
 CODE_OF_CONDUCT.md  codecov.yml  print_todos.sh  tox.ini
 CONTRIBUTING.md     doc          python          update-vim-docs
