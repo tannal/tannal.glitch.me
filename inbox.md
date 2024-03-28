@@ -1,5 +1,7 @@
 # 2024-3-28 0 | 0 W
 
+machine running vuna code is 
+
 sudo tcpdump -i any -AX -vv 'port 5432'
 
 

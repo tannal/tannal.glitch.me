@@ -3,6 +3,207 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+JoelFernandes.org
+https://www.joelfernandes.org/
+
+JoelFernandes.org
+https://www.joelfernandes.org/resources/
+
+bcc-scale.pdf
+https://www.joelfernandes.org/resources/bcc-scale.pdf
+
+Make RCU do less (and later)!
+https://www.joelfernandes.org/resources/lpc2022-rcu-do-less.pdf
+
+[ACM Press the sixteenth international conference - Newport Beach, California, USA (2011.03.05-2011.03.11)] Proceedings of the sixteenth international conference on Architectural support for programming languages and operating systems - ASPLOS '11 - Rethinking the library OS from the top down | 10.1145/1950365.1950399_Scihub
+https://bothonce.com/10.1145/1950365.1950399
+
+https://html.spec.whatwg.org/multipage/ - Search
+https://source.chromium.org/search?q=https:%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F&ss=chromium%2Fchromium%2Fsrc:docs%2F
+
+training-materials/code/hello-param/hello_param.c at master · bootlin/training-materials
+https://github.com/bootlin/training-materials/blob/master/code/hello-param/hello_param.c
+
+read block 0 in disk linux - Google 搜索
+https://www.google.com/search?q=read+block+0+in+disk+linux&rlz=1C1GCEA_enJP1090JP1090&oq=read+block+0+in+disk+linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTEyNDMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+max file size x86 - Google 搜索
+https://www.google.com/search?q=max+file+size+x86&rlz=1C1GCEA_enJP1090JP1090&oq=max+file+size+x86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDQ3MzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+jslint - How do you use vim's quickfix feature? - Stack Overflow
+https://stackoverflow.com/questions/1747091/how-do-you-use-vims-quickfix-feature
+
+fudist - vimのgrepの設定と使い方
+https://sites.google.com/site/fudist/Home/vim-nihongo-ban/vim-grep
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=sort%3Aupdated-desc+
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=posix&sort=byPopularity&type=story
+
+File Not Found
+http://www.cs.columbia.edu/~vatlidak/resources/POSIXmagazine.pdf
+
+Installation | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/installation/#windows
+
+Standalone Mode | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/standalone/
+
+Installation | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/installation/
+
+mqtt - Google 搜索
+https://www.google.com/search?q=mqtt&rlz=1C1GCEA_enJP1090JP1090&oq=mqtt&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIOCAEQRRgnGDsYgAQYigUyDggCEEUYJxg7GIAEGIoFMgYIAxBFGDsyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYQdIBBzkwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Repositories
+https://github.com/orgs/arduino/repositories
+
+winget install juicefs - Google 搜索
+https://www.google.com/search?q=winget+install+juicejs&sca_esv=f467e1d66e3ba319&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-1J8VQDfBm1Z6E4u-GiMhIJ0cFRQ%3A1711610265725&ei=mRkFZvXoK9jl2roPhNK4wA0&ved=0ahUKEwi1mYePtZaFAxXYslYBHQQpDtgQ4dUDCBA&uact=5&oq=winget+install+juicejs&gs_lp=Egxnd3Mtd2l6LXNlcnAiFndpbmdldCBpbnN0YWxsIGp1aWNlanMyBxAhGAoYoAFInhtQ5ANY-RlwAXgBkAEAmAGcAqAB7AuqAQUwLjMuNLgBA8gBAPgBAZgCCKACggzCAgoQABhHGNYEGLADwgIEECMYJ8ICChAjGIAEGIoFGCfCAggQABiABBjLAcICBRAAGIAEwgIEEAAYHsICBhAAGB4YDcICBRAhGKABmAMAiAYBkAYKkgcFMS4yLjWgB6AV&sclient=gws-wiz-serp
+
+juicedata/juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+https://github.com/juicedata/juicefs
+
+Support winget · Issue #118 · spring-projects/spring-cli
+https://github.com/spring-projects/spring-cli/issues/118
+
+tannal (tannal)
+https://github.com/tannal/
+
+Code search results
+https://github.com/search?q=repo%3Aarduino%2FArduinoCore-mbed%20yield&type=code
+
+Issues · techiall/Blog
+https://github.com/techiall/Blog/issues
+
+thread scheduler tokio - Google 搜索
+https://www.google.com/search?q=thread+scheduler+tokio&sca_esv=289e373ce865c05a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_WFZnNkVXAXwxWRO_2QHZF2doJMA%3A1711614060250&ei=bCgFZt7wDo6ivr0Ps9Wu0Ak&ved=0ahUKEwje1ragw5aFAxUOka8BHbOqC5oQ4dUDCBA&uact=5&oq=thread+scheduler+tokio&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnRocmVhZCBzY2hlZHVsZXIgdG9raW8yBhAAGAgYHkiUClAtWLEHcAF4AZABAJgB1wGgAe0IqgEFMC41LjG4AQPIAQD4AQGYAgegAvsIwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGB4YD8ICChAAGAgYHhgPGArCAgYQABgFGB7CAgUQIRigAZgDAIgGAZAGCpIHBTEuNS4xoAfzDA&sclient=gws-wiz-serp
+
+event loop other ways - Reddit Search!
+https://www.reddit.com/search/?q=event+loop+other+ways&type=link&cId=67d1f9a9-2baf-4684-89a2-79b0a9d68789&iId=09b2af76-1db2-410a-9ce5-55aaa636af43
+
+NodeJS Architecture: understanding the relationship between libUV, V8 and JS | DKatalis
+https://medium.com/dkatalis/nodejs-architecture-relationship-between-libuv-v8-and-js-7dce74cf1c51
+
+V8 Installation and d8 shell usage
+https://gist.github.com/kevincennis/0cd2138c78a07412ef21
+
+🚀⚙️ JavaScript Visualized: the JavaScript Engine - DEV Community
+https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Chapter 7. EventLoop and threading model - Netty in Action
+https://livebook.manning.com/book/netty-in-action/chapter-7/
+
+why event loop so popular - Google 搜索
+https://www.google.com/search?q=why+event+loop+so+popular&rlz=1C1GCEA_enJP1090JP1090&oq=why+event+loop+so+popular&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDUyNzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Reactor pattern - Wikipedia
+https://en.wikipedia.org/wiki/Reactor_pattern
+
+Inside NGINX: Designed for Performance & Scalability
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+
+200-Network.pdf
+https://pocoproject.org/slides/200-Network.pdf
+
+efficient_parallel_IO_on_multicore_arch2.pdf
+https://indico.cern.ch/event/282910/contributions/645355/attachments/521441/719267/efficient_parallel_IO_on_multicore_arch2.pdf
+
+Code search results
+https://github.com/search?q=repo%3Alibuv%2Flibuv%20thread%20pool&type=code
+
+Why are non-blocking server threads less resource intensive : r/AskComputerScience
+https://www.reddit.com/r/AskComputerScience/comments/17nsxhe/why_are_nonblocking_server_threads_less_resource/
+
+rob pike - Google 搜索
+https://www.google.com/search?q=rob+pike&rlz=1C1GCEA_enJP1090JP1090&oq=rob+pike&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPdIBCDI0MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rob%20pike&sort=byPopularity&type=story
+
+users.ece.utexas.edu/~adnan/pike.html
+https://users.ece.utexas.edu/~adnan/pike.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=russ%20cox&sort=byPopularity&type=story
+
+systems-2002.pdf
+https://swtch.com/~rsc/systems-2002.pdf
+
+BurntSushi/rsc-regexp: Translations of a simple C program to Rust.
+https://github.com/BurntSushi/rsc-regexp
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Jeffrey%20Van%20Gogh&sort=byPopularity&type=story
+
+Essay | The Madman and the Dwarf: Van Gogh and Lautrec by Jeffrey Meyers - The London Magazine
+https://thelondonmagazine.org/essay-the-madman-and-the-dwarf-van-gogh-and-lautrec-by-jeffrey-meyer/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Yehuda%20Katz&sort=byPopularity&type=story
+
+Yehuda Katz and Steve Klabnik are joining the Rust Core Team | Rust Blog
+https://blog.rust-lang.org/2014/12/12/Core-Team.html
+
+urezki/libalgo: A library that consists of many implementation of data structures.
+https://github.com/urezki/libalgo/tree/master
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=plan9&sort=byPopularity&type=story
+
+The team behind OpenJDK
+https://www.phind.com/search?cache=eprfxlv475wht6dbxe01vx4w
+
+presotto (David Presotto)
+https://github.com/presotto
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+Inside NGINX: Designed for Performance & Scalability
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+
+Nginx 创始人被拘留，前公司投诉其在职期间开发的 Nginx 侵权 / 资讯 / 超神经
+https://hyper.ai/news/10258
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Igor%20Sysoev&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Java in 2024: Constant Change, Delivered by Georges Saab - YouTube
+https://www.youtube.com/watch?v=CefIeIxMGmA
+
+Mark Reinhold (@mreinhold@mastodon.social) - Mastodon
+https://mastodon.social/@mreinhold
+
+iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+https://github.com/iovisor/bcc
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Drawbridge&sort=byPopularity&type=story
+
+Drawbridge: what SQL Server on Linux is built on – random blog
+https://threedots.ovh/blog/2021/01/drawbridge-what-sql-server-on-linux-is-built-on/
+
+Drawbridge
+https://threedots.ovh/slides/Drawbridge.pdf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Yjs Monaco Example
 http://192.168.43.246:3000/monaco/monaco.html
 

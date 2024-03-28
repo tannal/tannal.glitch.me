@@ -87,7 +87,7 @@ Jeff Nelson https://www.linkedin.com/in/jeffnelsonjeffnelson https://twitter.com
 André Almeida https://andrealmeid.com/ https://twitter.com/andrealmeid_
 
 Michael Kerrisk The Linux Programming Interface
-
+b
 Daniel Bevenius - Principal Software Engineer - Red Hat https://github.com/danbev
 
 Joel Fermands https://www.joelfernandes.org/ Linux Kernel
