@@ -1,5 +1,152 @@
 # 2024-3-28
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+https://html.spec.whatwg.org/multipage/ - Search
+https://source.chromium.org/search?q=https:%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F&ss=chromium%2Fchromium%2Fsrc:docs%2F
+
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal (tannal)
+https://github.com/tannal/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+MarybethGasman (MarybethGasman) / Repositories
+https://github.com/MarybethGasman?page=2&tab=repositories
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Waydroid | Android in a Linux container
+https://waydro.id/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+[Public, Approved] Intro to Transformers - Google 幻灯片
+https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent?slide=id.g13dd67c5ab8_0_2989
+
+html event loop in chromium - Google 搜索
+https://www.google.com/search?q=html+event+loop+in+chromium&rlz=1C1GCEA_enJP1090JP1090&oq=html+event+loop+in+chromium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDg3NDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Event Loop in Chrome browser. After hours I’ve spent surfing the… | by Serhii Koziy | Medium
+https://serhiikoziy.medium.com/event-loop-in-chrome-browser-72bd6c8db033
+
+javascript - Difference between microtask and macrotask within an event loop context - Stack Overflow
+https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
+
+ggerganov/kbd-audio: 🎤⌨️ Acoustic keyboard eavesdropping
+https://github.com/ggerganov/kbd-audio
+
+食物链 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%A3%9F%E7%89%A9%E9%8F%88
+
+def main(): file_fd = open("logfile.log") x_fd = open_display() construct_interface() while True: rlist, _, _ = select.select([file_fd, x_fd], [], []): if file_fd in rlist: data = file_fd.read() append_to_display(data) send_repaint_message() if x_fd in rlist: process_x_messages() make this code runnable
+https://www.phind.com/search?cache=q3gjkrqe9hg8iquxztkayqt7
+
+tannal/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/tannal/wasmtime/tree/main
+
+WasmEdge/lib/llvm/llvm.h at 7d9b116b94752b9acb0e7e8f7dce944f0aa69055 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/blob/7d9b116b94752b9acb0e7e8f7dce944f0aa69055/lib/llvm/llvm.h
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+llvm-c%2F&type=code
+
+javascript - Single Threaded Event Loop vs Multi Threaded Non Blocking Worker in Node.JS - Stack Overflow
+https://stackoverflow.com/questions/21485920/single-threaded-event-loop-vs-multi-threaded-non-blocking-worker-in-node-js
+
+Input/output completion port - Wikipedia
+https://en.wikipedia.org/wiki/Input/output_completion_port
+
+javascript - Understanding the Event Loop - Stack Overflow
+https://stackoverflow.com/questions/21607692/understanding-the-event-loop?noredirect=1&lq=1
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Event loop - Wikipedia
+https://en.wikipedia.org/wiki/Event_loop
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Installation method now that Vundle is gone · Issue #4134 · ycm-core/YouCompleteMe
+https://github.com/ycm-core/YouCompleteMe/issues/4134#issuecomment-1446235584
+
+VundleVim/Vundle.vim: Vundle, the plug-in manager for Vim
+https://github.com/VundleVim/Vundle.vim#about
+
+vim的自动补全：YouCompleteMe - 知乎
+https://zhuanlan.zhihu.com/p/33767178
+
+ycm + clangd unable to handle cpp files · Issue #4010 · ycm-core/YouCompleteMe
+https://github.com/ycm-core/YouCompleteMe/issues/4010
+
+解决 YouCompleteMe 在 MacOS 下无法使用的问题 – D0n9X1n's Blog
+https://d0n9x1n.dev/post/637/
+
+如何安装 Vim 插件 - 知乎
+https://zhuanlan.zhihu.com/p/108697739
+
+Auto complete not work for python. · Issue #2960 · ycm-core/YouCompleteMe
+https://github.com/ycm-core/YouCompleteMe/issues/2960
+
+YouCompleteMe: install · Issue #18 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/18
+
+tannal (tannal)
+https://github.com/tannal/
+
+bash vim mode - Google 搜索
+https://www.google.com/search?q=bash+vim+mode&rlz=1C1GCEA_enJP1090JP1090&oq=bash+vim+mode&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMggIAhAAGA8YHjIGCAMQABgeMgYIBBAAGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIKCAcQABgIGA8YHjIKCAgQABgIGA8YHjIICAkQABgFGB7SAQgyMDcxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Bash: Vim mode instead of vi mode - Stack Overflow
+https://stackoverflow.com/questions/46161918/bash-vim-mode-instead-of-vi-mode
+
+Using vi-mode in your shell | Opensource.com
+https://opensource.com/article/17/3/fun-vi-mode-your-shell
+
+linux - how to set vi options only for current session? - Stack Overflow
+https://stackoverflow.com/questions/58062775/how-to-set-vi-options-only-for-current-session
+
+visual studio code - Command-hover tooltip in VSCode VIM without using mouse - Stack Overflow
+https://stackoverflow.com/questions/62436216/command-hover-tooltip-in-vscode-vim-without-using-mouse
+
+clang is short for?
+https://www.phind.com/search?cache=z5jsquoky3ne1im8e3jd9ha9
+
+YouCompleteMe(vim plugin) GoToDefinition doesn't work - Stack Overflow
+https://stackoverflow.com/questions/40792703/youcompletemevim-plugin-gotodefinition-doesnt-work
+
+Code search results
+https://github.com/search?q=repo%3Aycm-core%2FYouCompleteMe%20GoToDefinition%20&type=code
+
+chainguard go - Google 搜索
+https://www.google.com/search?q=chainguard+go&sca_esv=37ec618459549654&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09L2Xp9OxwVb3yY3EMVmq7JPIPhtA%3A1711605064696&ei=SAUFZsSRKqqgvr0Pu6KYuA0&ved=0ahUKEwjE1YHfoZaFAxUqkK8BHTsRBtcQ4dUDCBA&uact=5&oq=chainguard+go+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmNoYWluZ3VhcmQgZ28gKgIIATIIEAAYgAQYywEyBBAAGB5IAFAAWABwAHgAkAEAmAG9AaABvQGqAQMwLjG4AQHIAQCYAgGgAr4BmAMAkgcDMC4xoAeCAQ&sclient=gws-wiz-serp
+
+Docker 大势已去，Podman 即将崛起！ - 知乎
+https://zhuanlan.zhihu.com/p/449364769
+
+Issues · ko-build/ko
+https://github.com/ko-build/ko/issues
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
