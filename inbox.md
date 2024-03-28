@@ -1,5 +1,30 @@
 # 2024-3-28 0 | 0 W
 
+tannal@raspi:~/.vim/pack/YouCompleteMe/opt/YouCompleteMe$ ls
+CODE_OF_CONDUCT.md  codecov.yml  print_todos.sh  tox.ini
+CONTRIBUTING.md     doc          python          update-vim-docs
+COPYING.txt         install.py   run_tests.py    vimrc_ycm_minimal
+README.md           install.sh   test
+autoload            plugin       third_party
+tannal@raspi:~/.vim/pack/YouCompleteMe/opt/YouCompleteMe$
+
+./install.py --all
+popd
+~/.vim/pack/YouCompleteMe/opt/YouCompleteMe ~/tannalwork/projects
+Generating ycmd build configuration...OK
+Compiling ycmd target: ycm_core...OK
+Building regex module...OK
+Building watchdog module...OK
+Installing Omnisharp for C# support...OK
+Building gopls for go completion...
+OK
+Setting up Tern for JavaScript completion...OK
+Installing rust-analyzer "nightly-2023-08-18" for Rust support...OK
+Installing jdt.ls for Java support...OK
+Setting up TSserver for TypeScript completion...OK
+Setting up Clangd completer...OK
+~/tannalwork/projects
+
 You don't know what you really need, unless you already use something for that purpose.
 
 # 2024-3-27 0 | 0 W

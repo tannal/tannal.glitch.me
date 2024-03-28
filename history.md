@@ -3,6 +3,51 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+mit-pdos/xv6-public: xv6 OS
+https://github.com/mit-pdos/xv6-public
+
+juj/wasm_webgpu: System headers for interfacing WebGPU from C programs compiled via Emscripten to WebAssembly
+https://github.com/juj/wasm_webgpu
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+apt show installed packages version - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=apt+show+installed+packages+version
+
+How do I check package version using apt-get / aptitude? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/6284/how-do-i-check-package-version-using-apt-get-aptitude
+
+emscripten-core/emscripten: Emscripten: An LLVM-to-WebAssembly Compiler
+https://github.com/emscripten-core/emscripten/tree/main
+
+Building Emscripten from Source — Emscripten 3.1.55-git (dev) documentation
+https://emscripten.org/docs/building_from_source/
+
+rive-app/rive-renderer: Downstream repo for Rive renderer
+https://github.com/rive-app/rive-renderer
+
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nvidia+nasdaq
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nvidia+nasdaq
+
+Installation method now that Vundle is gone · Issue #4134 · ycm-core/YouCompleteMe
+https://github.com/ycm-core/YouCompleteMe/issues/4134#issuecomment-1446235584
+
+Blocked
+https://www.reddit.com/r/vim/comments/10m89z1/comment/j61kw48/?utm_source=reddit&utm_medium=web2x&context=3
+
+YouCompleteMe: install · Issue #18 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/18
+
+Standalone Mode | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/standalone/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Rust Playground
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
 
