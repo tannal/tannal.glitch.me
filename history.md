@@ -3,6 +3,108 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model
+
+Attempt to remove implied-document definition · Issue #4980 · whatwg/html
+https://github.com/whatwg/html/issues/4980
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#task-queue
+
+Code search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+rendering+oppo&type=code
+
+Standalone Mode | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/standalone
+
+Web Animations
+https://www.w3.org/TR/web-animations-1/#timelines
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Phind
+https://www.phind.com/search?home=true
+
+Direct Sockets API mdn zhihu - Google 検索
+https://www.google.com/search?q=Direct+Sockets+API+mdn+zhihu&client=ubuntu-sn&hs=ivo&sca_esv=289e373ce865c05a&channel=fs&ei=oiAFZsGPDZqz2roPtNaAsA0&ved=0ahUKEwjB6Mzpu5aFAxWamVYBHTQrANYQ4dUDCBA&uact=5&oq=Direct+Sockets+API+mdn+zhihu&gs_lp=Egxnd3Mtd2l6LXNlcnAiHERpcmVjdCBTb2NrZXRzIEFQSSBtZG4gemhpaHUyCBAAGIAEGKIEMggQABiABBiiBEjwFlCLB1jFEXABeAGQAQCYAeMBoAGfCaoBBTAuNC4yuAEDyAEA-AEBmAIHoAK3CcICChAAGEcY1gQYsAPCAgQQIRgVwgIFECEYoAGYAwCIBgGQBgqSBwUxLjQuMqAHjgg&sclient=gws-wiz-serp
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/parsing.html#stop-parsing
+
+Scheduling docs
+https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/platform/scheduler/links.md
+
+Troubleshooting Cases | JuiceFS Document Center
+https://juicefs.com/docs/cloud/administration/troubleshooting/
+
+Background job | JuiceFS Document Center
+https://juicefs.com/docs/cloud/guide/background-job/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=zygote&sort=byPopularity&type=story
+
+FluxML/Zygote.jl: 21st century AD
+https://github.com/FluxML/Zygote.jl
+
+Chromium Notes: The zygote process and software updates
+https://neugierig.org/software/chromium/notes/2011/08/zygote.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=neugierig.org%2Fsoftware%2Fchromium%2F&sort=byPopularity&type=story
+
+Chromium Notes: What does it mean for a browser to be fast?
+https://neugierig.org/software/chromium/notes/2010/05/fast.html
+
+Why is Google Chrome Fast? Spotlight on UI Responsiveness - YouTube
+https://www.youtube.com/watch?v=ymgXTdWWNUU
+
+Profile: mattyb | Hacker News
+https://news.ycombinator.com/user?id=mattyb
+
+Chrome Binary Size | Hacker News
+https://news.ycombinator.com/item?id=1710923
+
+Anyone looking at n2?
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/c80unuKtfMw/m/5u05-0JcAQAJ
+
+Tech Notes: n2: revisiting Ninja
+https://neugierig.org/software/blog/2022/03/n2.html
+
+202312 - apenwarr
+https://apenwarr.ca/log/
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+n2/doc/comparison.md at main · evmar/n2
+https://github.com/evmar/n2/blob/main/doc/comparison.md
+
+cmd/go: switch to entirely content-based staleness determination · golang/go@7dea509
+https://github.com/golang/go/commit/7dea509703eb5ad66a35628b12a678110fbb1f72
+
+Matt Blair
+https://matthewblair.net/
+
+Matthew Blair, Software engineer at Flipboard inc. | SlideShare
+https://www.slideshare.net/matthewblair
+
+mblair/matthewblair.net
+https://github.com/mblair/matthewblair.net
+
+The 3-year old "Implement RSS natively in Chrome" bug just changed to "WontFix" | Hacker News
+https://news.ycombinator.com/item?id=5387716
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 JoelFernandes.org
 https://www.joelfernandes.org/
 
