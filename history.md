@@ -1,3 +1,152 @@
+# 2024-3-28
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Search results - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance/search/opencollective
+
+How to download Google Chrome on Arm-compatible Windows PCs
+https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/
+
+How to download Google Chrome on Arm-compatible Windows PCs
+https://blog.google/products/chrome/download-google-chrome-windows-pc-arm/
+
+Update the rendering: consolidate reflows · Issue #31871 · servo/servo
+https://github.com/servo/servo/issues/31871
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files#diff-2c5948584719622eef023c56cdf90e8278971f2f2eda26e7fd0485a24c32be3cR1794
+
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model%3Arendering-opportunity
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#update-the-rendering
+
+Fix HTML event-loop · Issue #31242 · servo/servo
+https://github.com/servo/servo/issues/31242
+
+script: Try to conform a bit more to "The event loop processing model" by emilio · Pull Request #13864 · servo/servo
+https://github.com/servo/servo/pull/13864
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-interface
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Snapdragon - Google 搜索
+https://www.google.com/search?q=Snapdragon&rlz=1C1GCEA_enJP1090JP1090&oq=Snapdragon&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgwIARAjGCcYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyMDIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Snapdragon X Elite 笔记本电脑，可能比最新 MacBook有更大优势 - 知乎
+https://zhuanlan.zhihu.com/p/688720460
+
+Support starting benchmark tasks using taskset on Linux · Issue #52233 · nodejs/node
+https://github.com/nodejs/node/issues/52233
+
+Hetzner Benchmarking Machine Replacements · Issue #3657 · nodejs/build
+https://github.com/nodejs/build/issues/3657
+
+`v8-updates/test-linux-perf` no longer works with recent V8 versions · Issue #50079 · nodejs/node
+https://github.com/nodejs/node/issues/50079
+
+Install perf matching the kernel version on the benchmark machines · Issue #3515 · nodejs/build
+https://github.com/nodejs/build/issues/3515
+
+build/ansible/roles/linux-perf/tasks/main.yml at main · nodejs/build
+https://github.com/nodejs/build/blob/main/ansible/roles/linux-perf/tasks/main.yml
+
+benchmark-node-micro-benchmarks #1498 Console [Jenkins]
+https://ci.nodejs.org/view/Node.js%20benchmark/job/benchmark-node-micro-benchmarks/1498/console
+
+`v8-updates/test-linux-perf` no longer works with recent V8 versions · Issue #50079 · nodejs/node
+https://github.com/nodejs/node/issues/50079#issuecomment-2023362901
+
+nodejs/build: Better build and test infra for Node.
+https://github.com/nodejs/build
+
+build/ansible/roles/linux-perf/tasks/main.yml at main · nodejs/build
+https://github.com/nodejs/build/blob/main/ansible/roles/linux-perf/tasks/main.yml
+
+Commits · tannal/build
+https://github.com/tannal/build/commits/main/
+
+benchmark-node-micro-benchmarks #1501 [Jenkins]
+https://ci.nodejs.org/view/Node.js%20benchmark/job/benchmark-node-micro-benchmarks/1501/
+
+lies-and-benchmark/cpu-0-variation/cpu-http.js at 76a261381ab1fae378bc24ff1853d39e48e8bcde · RafaelGSS/lies-and-benchmark
+https://github.com/RafaelGSS/lies-and-benchmark/blob/76a261381ab1fae378bc24ff1853d39e48e8bcde/cpu-0-variation/cpu-http.js#L25
+
+Hetzner Benchmarking Machine Replacements · Issue #3657 · nodejs/build
+https://github.com/nodejs/build/issues/3657
+
+Issues · nodejs/node
+https://github.com/nodejs/node/labels/good%20first%20issue
+
+test_runner: print failed tests with dot reporter · Issue #51769 · nodejs/node
+https://github.com/nodejs/node/issues/51769
+
+lib: .load .save add proper error message when no file passed by thomas-mauran · Pull Request #52225 · nodejs/node
+https://github.com/nodejs/node/pull/52225/files
+
+lies-and-benchmark/cpu-0-variation/cpu-http.js at 76a261381ab1fae378bc24ff1853d39e48e8bcde · RafaelGSS/lies-and-benchmark
+https://github.com/RafaelGSS/lies-and-benchmark/blob/76a261381ab1fae378bc24ff1853d39e48e8bcde/cpu-0-variation/cpu-http.js#L25
+
+node/benchmark/run.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/benchmark/run.js#L43-L46
+
+State of Node.js Performance 2023
+https://blog.rafaelgss.dev/state-of-nodejs-performance-2023
+
+node/lib/internal/test_runner/reporter/dot.js at f4a0a3b04b92596fd2cf40e1d9c5a003e81c77b8 · tannal/node
+https://github.com/tannal/node/blob/f4a0a3b04b92596fd2cf40e1d9c5a003e81c77b8/lib/internal/test_runner/reporter/dot.js#L4
+
+Hetzner - Google 搜索
+https://www.google.com/search?q=Hetzner&rlz=1C1GCEA_enJP1090JP1090&oq=Hetzner&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMjE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/41fbac5e-e600-44a1-a795-da8e0960c527
+
+Untitled diff - Diffchecker
+https://www.diffchecker.com/text-compare/
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
+make these message more clear These changes install the perf with the kernel version of the current machine. As suggested in #3515
+https://www.phind.com/search?cache=a5nfseagc0anrdjwgbmzlmvs
+
+Ansible register 变量详解 - 知乎
+https://zhuanlan.zhihu.com/p/367906095
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Install perf matching the kernel version on the benchmark machines · Issue #3515 · nodejs/build
+https://github.com/nodejs/build/issues/3515
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771
+
+shell - Ansible Command module says that '|' is illegal character - Stack Overflow
+https://stackoverflow.com/questions/24679591/ansible-command-module-says-that-is-illegal-character
+
+deployment - How to check out most recent git tag using Ansible? - Stack Overflow
+https://stackoverflow.com/questions/29153650/how-to-check-out-most-recent-git-tag-using-ansible
+
+torvalds/linux: Linux kernel source tree
+https://github.com/torvalds/linux
+
 # 2024-3-27
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
