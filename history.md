@@ -6,6 +6,99 @@ https://github.dev/tannal/tannal.glitch.me
 [ACM Press the 38th annual ACM SIGPLAN-SIGACT symposium - Austin, Texas, USA (2011.01.26-2011.01.28)] Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '11 - The essence of compiling with traces | 10.1145/1926385.1926450_Scihub
 https://bothonce.com/10.1145/1926385.1926450
 
+* main.pdf
+https://thesis.r-vm.net/main.pdf#page=85&zoom=10,-150,334
+
+Jens Palsberg
+https://web.cs.ucla.edu/~palsberg/
+
+Christian Gram Kalhauge — Welcome to DTU Research Database
+https://orbit.dtu.dk/en/persons/christian-gram-kalhauge
+
+UCLA CS 132 Compiler Construction
+http://web.cs.ucla.edu/~palsberg/course/cs132/F14/index.html
+
+doc.dvi - color-lecturenotes.pdf
+http://web.cs.ucla.edu/~palsberg/course/cs132/color-lecturenotes.pdf
+
+Loop-aware optimizations in PyPy's tracing JIT | ACM SIGPLAN Notices
+https://dl.acm.org/doi/10.1145/2480360.2384586
+
+Scihub
+https://bothonce.com/
+
+Loop-aware optimizations in PyPy's tracing JIT - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Loop-aware+optimizations+in+PyPy%27s+tracing+JIT#ip=1
+
+fraxken/VM-Resources: Several links, articles and blogs to understand how modern JavaScript compilers work and optimize our codes. Also includes various resources on ECMAScript and object-oriented programming.
+https://github.com/fraxken/VM-Resources
+
+Marja Hölttä: Parsing JavaScript - better lazy than eager? | JSConf EU 2017 - YouTube
+https://www.youtube.com/watch?v=Fg7niTmNNLg&list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&index=12
+
+paper4B.pdf
+https://ceur-ws.org/Vol-1129/paper4B.pdf
+
+PyPy
+https://www.pypy.org/index.html
+
+riposte2.pdf
+https://cs.stanford.edu/~zdevito/riposte2.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Marja%20H%C3%B6ltt%C3%A4&sort=byPopularity&type=story
+
+Commits · v8/v8
+https://github.com/v8/v8/commits?author=marjakh
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=rewinds&op=translate
+
+lars bak and kasper lund - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=lars+bak+and+kasper+lund#ip=1
+
+Exploring Toit executables. I recently developed a small… | by Florian Loitsch | Mar, 2024 | The Toit Take
+https://blog.toit.io/exploring-toit-executables-bff1f28dc9ef
+
+Toit - high-level software platform for the ESP32
+https://toit.io/
+
+Toit documentation
+https://docs.toit.io/tutorials/network/http-server
+
+Kasper Lund - YouTube
+https://www.youtube.com/@KasperLund/videos
+
+toit/README_OTHERPLATFORMS.md at master · toitlang/toit
+https://github.com/toitlang/toit/blob/master/README_OTHERPLATFORMS.md
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+SolidWorks RE Tutorial #320 : Car Engine complete video (2 turbo V6) - (advanced assembly) - YouTube
+https://www.youtube.com/watch?v=Hna4V7-FJ08
+
+Discord
+https://discord.com/invite/Q7Y9VQ5nh2
+
+Toit – A Language Designed for Microcontrollers | Hacker News
+https://news.ycombinator.com/item?id=31666761
+
+toitlang raspi - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=toitlang+raspi
+
+The Toit language is now open source | Hacker News
+https://news.ycombinator.com/item?id=29304614
+
+Enhedsvisning
+https://datacvr.virk.dk/enhed/virksomhed/38984594
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[ACM Press the 38th annual ACM SIGPLAN-SIGACT symposium - Austin, Texas, USA (2011.01.26-2011.01.28)] Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '11 - The essence of compiling with traces | 10.1145/1926385.1926450_Scihub
+https://bothonce.com/10.1145/1926385.1926450
+
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=all&page=32&prefix=true&query=chromium%20&sort=byPopularity&type=story
 
