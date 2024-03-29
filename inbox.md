@@ -1,6 +1,14 @@
 # 2024-3-29 0 | 0 W
 
+good artist copy, greate artist steal
 
+假线性阅读，自动清除
+
+BIOS load bootloader
+
+system boot
+Interrupt GDT IDT CR3
+Memory Management address translation
 
 # 2024-3-28 0 | 0 W
 

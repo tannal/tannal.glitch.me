@@ -1,5 +1,137 @@
 # 2024-3-29
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CS680 Linux Kernel Programming
+https://web.njit.edu/~sohna/cs680/index.html
+
+X 上的 Till Schneidereit：“Much of the team I used to manage was part of the Mozilla layoffs on Tuesday. That team was Mozilla's Rust team, and Mozilla's Wasmtime team. I thought I'd know how to talk about it by now, but I don't. It's heartbreaking, incomprehensible, and staggering in its impact.” / X
+https://twitter.com/tschneidereit/status/1293868141953667074
+
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=ATCVAJ
+
+xv6-public/bootasm.S at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/bootasm.S
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+andrej karpathy - Google 搜索
+https://www.google.com/search?q=andrej+karpathy&rlz=1C1GCEA_enJP1090JP1090&oq=andrej+karpathy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEJMTc0MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Let's build the GPT Tokenizer - YouTube
+https://www.youtube.com/watch?v=zduSFxRajkE
+
+PyTorch at Tesla - Andrej Karpathy, Tesla - YouTube
+https://www.youtube.com/watch?v=oBklltKXtDE
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+• Discord | #math | Low Level IQ
+https://discord.com/channels/1071359157099319316/1071430642082009220
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Lin%20Clark&sort=byPopularity&type=story
+
+bette c is go, not zig
+https://www.phind.com/search?cache=wdpxuwaj86uq9aeo5duurxyx
+
+Arm A-profile Architecture Registers
+https://developer.arm.com/documentation/ddi0601/2024-03/AArch64-Registers?lang=en
+
+dostonnabotov (Doston Nabotov)
+https://github.com/dostonnabotov
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Suno
+https://app.suno.ai/create/
+
+The Hitchhiker's Guide to Servo Contributor - Part I | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-i/
+
+The Hitchhiker's Guide to Servo Contributor - Part II | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-ii/
+
+Use .any.js for xhr tests · Issue #11588 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/11588
+
+JavaScript Tests (testharness.js) — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness.html#multi-global-tests
+
+JavaScript Tests (testharness.js) — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness.html#multi-global-tests
+
+Fix slow tests · Issue #11571 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/11571
+
+Implement URLSearchParams.prototype.sort() by CYBAI · Pull Request #22638 · servo/servo
+https://github.com/servo/servo/pull/22638/files
+
+The Hitchhiker's Guide to Servo Contributor - Part III | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-iii/
+
+登录 X / X
+https://twitter.com/i/flow/login?redirect_after_login=%2F_cybai
+
+My first steps contributing to Servo (and learning Rust) - Jon Leighton
+https://jonleighton.name/2018/contributing-to-servo/
+
+ThornyDev: An Exercise in Profiling a Go Program
+https://thornydev.blogspot.com/2015/07/an-exercise-in-profiling-go-program.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#textFieldSelection
+
+Text control selections API conformance · Issue #19171 · servo/servo
+https://github.com/servo/servo/issues/19171
+
+Further changes in relation to #19171 by jonleighton · Pull Request #19272 · servo/servo
+https://github.com/servo/servo/pull/19272/files
+
+如何貢獻開源專案？ | Shing's Blog
+https://shinglyu.com/web/2018/05/12/how-to-contribute-to-open-source.html
+
+Let's build a browser engine! Part 1: Getting started
+https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
+The Hitchhiker's Guide to Servo Contributor - Part II | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-ii/
+
+servo/rust-smallvec: "Small vector" optimization for Rust: store up to a small number of items on the stack
+https://github.com/servo/rust-smallvec
+
+stylo/style/properties/shorthands/text.mako.rs at 3d41c54f18ace2bc3708fe3b5c032c5341a331ed · servo/stylo
+https://github.com/servo/stylo/blob/3d41c54f18ace2bc3708fe3b5c032c5341a331ed/style/properties/shorthands/text.mako.rs#L10-L11
+
+robinson/src/css.rs at master · mbrubeck/robinson
+https://github.com/mbrubeck/robinson/blob/master/src/css.rs
+
+jonleighton (jonleighton) / Repositories
+https://github.com/jonleighton?tab=repositories
+
+CYBAI/must-watch: A list of cybai's must-watch videos
+https://github.com/CYBAI/must-watch
+
+bolshchikov/js-must-watch: Must-watch videos about javascript
+https://github.com/bolshchikov/js-must-watch
+
+What’s new in JavaScript (Google I/O ’19) - YouTube
+https://www.youtube.com/watch?v=c0oy0vQKEZE
+
+CSS Houdini & The Future of Styling by Una Kravets | JSConf EU 2019 - YouTube
+https://www.youtube.com/watch?v=GhRE3rML9t4
+
+gsathya (Sathya Gunasekaran)
+https://github.com/gsathya
+
+[esnext] stage --harmony-symbol-description · v8/v8@d7829ba
+https://github.com/v8/v8/commit/d7829ba681579b6719e3f3f6948427f912f1af05
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
