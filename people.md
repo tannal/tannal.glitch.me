@@ -1,5 +1,7 @@
 # inbox
 
+Diego Ongaro Raft https://ongardie.net/
+
 Jeffrey Van Gogh is a Engineering Manager for Android Studio. Mads Ager is a Software Engineer and Tech Lead at Google.
 
 Laurence Tratt compiler expert shopify https://mastodon.social/@ltratt 

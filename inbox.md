@@ -1,6 +1,36 @@
 # 2024-3-29 0 | 0 W
 
-good artist copy, greate artist steal
+Hotspot 编译器是自 Oracle Hotspot VM 的 1.3 版本引入的，Dalvik VM 引入 JIT 编译器是从 Android 2.2 开始的。
+
+(python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep dump
+  -dumpspecs               Display all of the built in spec strings.
+  -dumpversion             Display the version of the compiler.
+  -dumpmachine             Display the compiler's target processor.
+(python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep print
+  -print-search-dirs       Display the directories in the compiler's search path.
+  -print-libgcc-file-name  Display the name of the compiler's companion library.
+  -print-file-name=<lib>   Display the full path to library <lib>.
+  -print-prog-name=<prog>  Display the full path to compiler component <prog>.
+  -print-multiarch         Display the target's normalized GNU triplet, used as
+  -print-multi-directory   Display the root directory for versions of libgcc.
+  -print-multi-lib         Display the mapping between command line options and
+  -print-multi-os-directory Display the relative path to OS libraries.
+  -print-sysroot           Display the target libraries directory.
+  -print-sysroot-headers-suffix Display the sysroot suffix used to find headers.
+(python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep display
+  (Use '-v --help' to display command line options of sub-processes).
+(python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep ast
+(python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep ir
+  -print-search-dirs       Display the directories in the compiler's search path.
+  -print-multi-directory   Display the root directory for versions of libgcc.
+                           multiple library search directories.
+  -print-multi-os-directory Display the relative path to OS libraries.
+  -print-sysroot           Display the target libraries directory.
+  --sysroot=<directory>    Use <directory> as the root directory for headers
+  -B <directory>           Add <directory> to the compiler's search paths.
+(python(base) [root@g08 ultralytics-8.1.0]# 
+
+good artist copy, great artist steal
 
 假线性阅读，自动清除
 

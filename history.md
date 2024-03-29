@@ -1,5 +1,158 @@
 # 2024-3-29
 
+jobs.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+令人智熄的 WASI Preview 2 标准 - 知乎
+https://zhuanlan.zhihu.com/p/543446425
+
+plctlab/v8-internals: 面向编译器开发人员的V8内部实现文档
+https://github.com/plctlab/v8-internals
+
+v8-internals/slides/V8-HelloWorld-howto-part1.pdf at master · plctlab/v8-internals
+https://github.com/plctlab/v8-internals/blob/master/slides/V8-HelloWorld-howto-part1.pdf
+
+Oilpan Design Document - Google 文档
+https://docs.google.com/document/d/1y7_0ni0E_kxvrah-QtnreMlzCDKN3QP4BN1Aw7eSLfY/edit#heading=h.rd3ng016gwog
+
+Cross-Component Garbage Collection
+https://research.google/pubs/cross-component-garbage-collection/
+
+Cross-Component Garbage Collection
+https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/eebe9196179ca5f25354ff4c49a0633a7a079c6b.pdf
+
+Oilpan Design Document - Google 文档
+https://docs.google.com/document/d/1y7_0ni0E_kxvrah-QtnreMlzCDKN3QP4BN1Aw7eSLfY/edit
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=turbfan&sort=byPopularity&type=story
+
+V8: Behind the Scenes (February Edition feat. A tale of TurboFan) · Benedikt Meurer
+https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Crankshaft&sort=byPopularity&type=story
+
+Crankshaft - GNU/Linux for your car with Raspberry Pi and Android Auto
+https://getcrankshaft.com/
+
+Chromium Blog: A New Crankshaft for V8
+https://blog.chromium.org/2010/12/new-crankshaft-for-v8.html
+
+Excalidraw
+https://excalidraw.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Kevin%20Millikin&sort=byPopularity&type=story
+
+V8 Internals by Kevin Millikin - Google 搜索
+https://www.google.com/search?q=V8+Internals+by+Kevin+Millikin&rlz=1C1GCEA_enJP1090JP1090&oq=V8+Internals+by+Kevin+Millikin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+javascript - V8 Internals - Handling of Anonymous Functions - Stack Overflow
+https://stackoverflow.com/questions/10160275/v8-internals-handling-of-anonymous-functions
+
+Scratch Paper: V8: JavaScript Virtual Machine
+https://lizstinson.blogspot.com/2009/06/v8-javascript-virtual-machine.html
+
+Understanding V8’s Bytecode | Hacker News
+https://news.ycombinator.com/item?id=15270263
+
+Understanding V8’s Bytecode. V8 is Google’s open source JavaScript… | by Franziska Hinkelmann | DailyJS | Medium
+https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ignition%20doc&sort=byPopularity&type=story
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1
+
+Code search results
+https://github.com/search?q=repo%3Av8%2Fv8+Accumulator++path%3A%2F%5Esrc%5C%2F%2F&type=code
+
+v8/src/interpreter/bytecodes.cc at 4de5fbb0611926d88cdd6f7b637fb659bdcc8bb8 · v8/v8
+https://github.com/v8/v8/blob/4de5fbb0611926d88cdd6f7b637fb659bdcc8bb8/src/interpreter/bytecodes.cc#L4
+
+Commits · chromium/chromium
+https://github.com/chromium/chromium/commits/main/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+v8/src/interpreter/bytecodes.h at 4de5fbb0611926d88cdd6f7b637fb659bdcc8bb8 · v8/v8
+https://github.com/v8/v8/blob/4de5fbb0611926d88cdd6f7b637fb659bdcc8bb8/src/interpreter/bytecodes.h
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=v8%20Oilpan%20&sort=byPopularity&type=story
+
+cppgc::Heap package:\Qnodejs\E · Debian Code Search
+https://codesearch.debian.net/search?q=cppgc%3A%3AHeap+package%3A%5CQnodejs%5CE&literal=1&page=2
+
+pjmlp's comments | Hacker News
+https://news.ycombinator.com/threads?id=pjmlp
+
+Chromium V8 Ignition and turbofan · Issue #20 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/20
+
+CSS selector structure - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selector_structure
+
+How to uninstall code-server ? · coder/code-server · Discussion #1989
+https://github.com/coder/code-server/discussions/1989
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+The OpenJDK Developers' Guide – OpenJDK Developers’ Guide
+https://openjdk.org/guide/#cloning-the-jdk
+
+JVM 内部原理（四）— 基本概念之 JVM 结构 - Richaaaard - 博客园
+https://www.cnblogs.com/richaaaard/p/6196356.html
+
+JVM 内部原理（四）— 基本概念之 JVM 结构 - Richaaaard - 博客园
+https://www.cnblogs.com/richaaaard/p/6196356.html
+
+Android Zygote
+https://serializethoughts.com/2016/04/15/android-root-detection-techniques
+
+tetratelabs/wazero: wazero: the zero dependency WebAssembly runtime for Go developers
+https://github.com/tetratelabs/wazero
+
+wazero/imports/wasi_snapshot_preview1/example at main · tetratelabs/wazero
+https://github.com/tetratelabs/wazero/tree/main/imports/wasi_snapshot_preview1/example
+
+status of webassembly - Google 搜索
+https://www.google.com/search?q=status+of+webassembly&rlz=1C1GCEA_enJP1090JP1090&oq=status+of+webass&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQg0NDQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+The State of WebAssembly – 2023 and 2024
+https://platform.uno/blog/state-of-webassembly-2023-2024/
+
+Bytecode Alliance — WebAssembly: An Updated Roadmap for Developers
+https://bytecodealliance.org/articles/webassembly-the-updated-roadmap-for-developers
+
+web server wasi - Google 搜索
+https://www.google.com/search?q=web+server+wasi&rlz=1C1GCEA_enJP1090JP1090&oq=web+server+wasi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCggCEAAYCBgNGB4yCggDEAAYCBgNGB4yBggEEEUYQDIGCAUQRRhA0gEINDExMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+https://github.com/dapr/dapr
+
+MOSN
+https://mosn.io/en/
+
+Wazero 1.7.0 segfaults instantiating module · Issue #2158 · tetratelabs/wazero
+https://github.com/tetratelabs/wazero/issues/2158
+
+QUIC and HTTP/3. An upgrade to HTTP/3 is going to be a… | by Tech Internals Conf | Tech Internals Conf | Medium
+https://medium.com/tech-internals-conf/quic-and-http-3-12d859c65d24
+
+luxoft - Google 搜索
+https://www.google.com/search?q=luxoft&rlz=1C1GCEA_enJP1090JP1090&oq=luxoft&gs_lcrp=EgZjaHJvbWUqDAgAEAAYDRjjAhiABDIMCAAQABgNGOMCGIAEMg8IARAuGA0YxwEY0QMYgAQyDwgCEC4YDRivARjHARiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyDwgFEC4YDRivARjHARiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEIMTgzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

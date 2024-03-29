@@ -1,5 +1,10 @@
 # inbox
 
+指令集仿真器、二进制翻译
+器、高级语言虚拟机
+
+selectorList
+
 void GL_APIENTRY glDrawArrays
 
 void GL_APIENTRY GL_DrawArrays(GLenum mode, GLint first, GLsizei count)
