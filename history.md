@@ -1,5 +1,59 @@
 # 2024-3-29
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[ACM Press the 38th annual ACM SIGPLAN-SIGACT symposium - Austin, Texas, USA (2011.01.26-2011.01.28)] Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '11 - The essence of compiling with traces | 10.1145/1926385.1926450_Scihub
+https://bothonce.com/10.1145/1926385.1926450
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=32&prefix=true&query=chromium%20&sort=byPopularity&type=story
+
+SensePost | The hunt for chromium issue 1072171
+https://sensepost.com/blog/2020/the-hunt-for-chromium-issue-1072171/
+
+SensePost | Intro to chrome’s v8 from an exploit development angle
+https://sensepost.com/blog/2020/intro-to-chromes-v8-from-an-exploit-development-angle/
+
+Tech @ Cliqz
+https://0x65.dev/
+
+Turbolizer - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Turbolizer
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+v8 static root - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=v8+static+root
+
+Static Roots: Objects with Compile-Time Constant Addresses · V8
+https://v8.dev/blog/static-roots
+
+Lab
+https://www.o1o.ch/lab/public/
+
+Ř - Overview I
+https://www.o1o.ch/lab/entry/1309rkp8krzaq1catz4by5gyt719ejoi4qpiabpnmzsx64fke3g4huga3b0qqinc.html
+
+reactorlabs/rir
+https://github.com/reactorlabs/rir
+
+js-tokenizer/src/main.cpp at master · reactorlabs/js-tokenizer
+https://github.com/reactorlabs/js-tokenizer/blob/master/src/main.cpp
+
+About - o1o
+https://www.o1o.ch/about/
+
+main.pdf
+https://thesis.r-vm.net/main.pdf
+
+main.pdf
+https://thesis.r-vm.net/main.pdf#cite.guo11
+
+The essence of compiling with traces | Proceedings of the 38th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages
+https://dl.acm.org/doi/10.1145/1926385.1926450
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
