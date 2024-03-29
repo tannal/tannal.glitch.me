@@ -1,6 +1,38 @@
 
 # inbox
 
+
+./mach run -d -- -Z dump-style-tree
+
+	bubble-inline-sizes-separately      Bubble intrinsic widths separately like other engines.
+	convert-mouse-to-touch              Send touch events instead of mouse events
+	disable-canvas-aa                   Disable antialiasing on the HTML canvas element.
+	disable-share-style-cache           Disable the style sharing cache.
+	disable-subpixel-aa                 Disable subpixel text antialiasing overriding preference.
+	disable-text-aa                     Disable antialiasing of rendered text.
+	dump-stacking-context-tree          Print the stacking context tree after each layout.
+	dump-display-list                   Print the display list after each layout.
+	dump-display-list-json              Print the display list in JSON form.
+	dump-flow-tree                      Print the flow tree (Layout 2013) or fragment tree (Layout 2020) after each layout.
+	dump-rule-tree                      Print the style rule tree after each layout.
+	dump-style-tree                     Print the DOM with computed styles after each restyle.
+	dump-style-stats                    Print style statistics each restyle.
+	gc-profile                          Log GC passes and their durations.
+	load-webfonts-synchronously         Load web fonts synchronously to avoid non-deterministic network-driven reflows
+	parallel-display-list-building      Build display lists in parallel.
+	precache-shaders                    Compile all shaders during init.
+	profile-script-events               Enable profiling of script-related events.
+	relayout-event                      Print notifications when there is a relayout.
+	replace-surrogates                  Replace unpaires surrogates in DOM strings with U+FFFD. See https://github.com/servo/servo/issues/6564
+	show-fragment-borders               Paint borders along fragment boundaries.
+	show-parallel-layout                Mark which thread laid each flow out with colors.
+	signpost                            Emit native OS signposts for profile events (currently macOS only)
+	trace-layout                        Write layout trace to an external file for debugging.
+	wr-stats                            Show WebRender profiler on screen.
+
+
+./mach run -d -- -Z help
+
 ./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-indent*
 
 ./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-transform* 

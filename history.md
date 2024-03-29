@@ -1,5 +1,62 @@
 # 2024-3-29
 
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+My first steps contributing to Servo (and learning Rust) - Jon Leighton
+https://jonleighton.name/2018/contributing-to-servo/
+
+The Hitchhiker's Guide to Servo Contributor - Part I | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-i/
+
+The whole web at maximum FPS: How WebRender gets rid of jank - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/
+
+Inside a super fast CSS engine: Quantum CSS (aka Stylo) - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
+
+The Hitchhiker's Guide to Servo Contributor - Part III | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-iii/
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Servo
+https://github.com/servo
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Firefox%20Quantum%20&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Selector%20matching&sort=byPopularity&type=story
+
+Ask HN: Are you still profiling CSS selectors? | Hacker News
+https://news.ycombinator.com/item?id=6619825
+
+gist:7175687
+https://gist.github.com/tagliala/7175687
+
+CSS Syntax Module Level 3
+https://www.w3.org/TR/css-syntax-3/#consume-a-qualified-rule
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Railroad%20Diagrams&sort=byPopularity&type=story
+
+dundalek (Jakub Dundalek)
+https://github.com/dundalek
+
+Selectors
+https://www.w3.org/TR/CSS21/selector.html#pattern-matching
+
+CSS selector structure - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selector_structure#compound_selector
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
