@@ -1,5 +1,59 @@
 # 2024-3-29
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Agents, Event Loops and Microtask Queues in Blink - Google Docs
+https://docs.google.com/document/d/1GSHp-KoP4M1oq-vQaw8W8g93lm_k1zsykP_GAzRrbYo/edit
+
+base/task/sequence_manager/task_queue.h - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/004e871c4e1faf47be69f6658b39205dc5336f85/base/task/sequence_manager/task_queue.h
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#task-queue
+
+Agents, Event Loops and Microtask Queues in Blink - Google Docs
+https://docs.google.com/document/d/1GSHp-KoP4M1oq-vQaw8W8g93lm_k1zsykP_GAzRrbYo/edit
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#clean-up-after-running-script
+
+Get Started With GitHub Discussions
+https://github.com/tannal/ohmywork/discussions/landing
+
+Remove Arguments Adaptor Frame in the Deoptimizer - Google Docs
+https://docs.google.com/document/d/150wGaUREaZI6YWqOQFD5l2mWQXaPbbZjcAIJLOFrzMs/edit#heading=h.519xwrto03q8
+
+Turboshaft Late Load Elimination - Google Docs
+https://docs.google.com/document/d/1AEl4dATNLu8GlLyUBQFXJoCxoAT5BeG7RCWxoEtIBJE/edit#heading=h.m4hyi8alm3og
+
+PartitionRefCount::Acquire() assembly - Google Docs
+https://docs.google.com/document/d/1cSTVDVEE-8l2dXLPcfyN75r6ihMbeiSp1ncL9ae3RZE/edit
+
+Thread-Safe (optimistic) WeakPtr validity check - Google Docs
+https://docs.google.com/document/d/1IGzq9Nx69GS_2iynGmPWo5sFAD2DcCyBY1zIvZwF7k8/edit
+
+Chrome Design Doc: Third-Party Origin Trials - Google Docs
+https://docs.google.com/document/d/1xALH9W7rWmX0FpjudhDeS2TNTEOXuPn4Tlc9VmuPdHA/edit#heading=h.7nki9mck5t64
+
+Intent-to-remove: Sandbox-inheritance and origin aliasing using document.open - Google Docs
+https://docs.google.com/document/d/1_89X4cNUab-PZE0iBDTKIftaQZsFbk7SbFmHbqY54os/edit
+
+Editing F2F Jan 8 - Google Docs
+https://docs.google.com/document/d/1hCj6QX77NYIVY0RWrMHT1Yra6t8_Qu8PopaWLG0AM58/edit
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+Yuta+Kitamura&type=commits
+
 copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
