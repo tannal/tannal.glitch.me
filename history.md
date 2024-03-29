@@ -1,3 +1,131 @@
+# 2024-3-29
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rob Pike frustrated by Java, C++ complexity | Hacker News
+https://news.ycombinator.com/item?id=1546933
+
+command center
+https://commandcenter.blogspot.com/2006/06/i-cant-find-this-on-web-so-here.html
+
+Rob Pike - Array Languages are Important — The Array Cast
+https://www.arraycast.com/episodes/episode60-rob-pike
+
+Episode 60 Transcript — The Array Cast
+https://www.arraycast.com/episode-60-transcript
+
+command center: Regular expressions in lexing and parsing
+https://commandcenter.blogspot.com/2011/08/regular-expressions-in-lexing-and.html
+
+Rob Pike on regular expressions in lexing and parsing | Hacker News
+https://news.ycombinator.com/item?id=2915137
+
+Rob Pike's simple C regex matcher in Go
+https://benhoyt.com/writings/rob-pike-regex/
+
+cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html
+
+why GNU grep is fast
+https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Mike Haertel - Google 搜索
+https://www.google.com/search?q=Mike+Haertel&rlz=1C1GCEA_enJP1090JP1090&oq=Mike+Haertel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhBFGDzSAQcyOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+nginxinc/ngx-rust: Rust binding for NGINX
+https://github.com/nginxinc/ngx-rust/tree/master
+
+手写的从前 歌词 周杰伦 ※ Mojim.com
+https://mojim.com/cny100951x23x8.htm
+
+• Discord | #💡┃suggestions | Suno
+https://discord.com/channels/1069381916492562582/1154587937611190354
+
+Join our team - Embracer Group
+https://embracer.com/about/join-our-team/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=suno&sort=byPopularity&type=story
+
+SUNO AI TECH
+https://sunoai.tech/Suno
+
+suno-ai/bark: 🔊 Text-Prompted Generative Audio Model
+https://github.com/suno-ai/bark
+
+suno-ai/bark: 🔊 Text-Prompted Generative Audio Model
+https://github.com/suno-ai/bark
+
+DjVu Document
+https://kremlin.cc/rob.pdf
+
+Problems
+https://neetcode.io/problems/dynamicArray
+
+Problems
+https://neetcode.io/problems/code-gpt
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+• Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+node-test-commit-v8-linux/nodes=benchmark-ubuntu2204-intel-64,v8test=v8test #5894 v8tests [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-v8-linux/nodes=benchmark-ubuntu2204-intel-64,v8test=v8test/5894/testReport/(root)/v8tests/
+
+Install perf matching the kernel version on the benchmark machines · Issue #3515 · nodejs/build
+https://github.com/nodejs/build/issues/3515
+
+node-test-commit-v8-linux » benchmark-ubuntu2204-intel-64,v8test benchmark-ubuntu2204-intel-64,v8test Console [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-v8-linux/5889/nodes=benchmark-ubuntu2204-intel-64,v8test=v8test/console
+
+`v8-updates/test-linux-perf` no longer works with recent V8 versions · Issue #50079 · nodejs/node
+https://github.com/nodejs/node/issues/50079
+
+console.log in node:test ? · Node.js feature requests
+https://github.com/orgs/nodejs/projects/4/views/1?pane=issue&itemId=12837076
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nodejs/build: Better build and test infra for Node.
+https://github.com/nodejs/build
+
+tannal (tannal)
+https://github.com/tannal/
+
+#general > ✔ GitHub Actions for publishing Mozjs releases - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20GitHub.20Actions.20for.20publishing.20Mozjs.20releases
+
+Update servo's testharnessreport (#31920) · servo/servo@7262830
+https://github.com/servo/servo/commit/72628303fbdfef6bc939904febe6849e8f6066f8
+
+Boyer Moore Algorithm for Pattern Searching - GeeksforGeeks
+https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/
+
+哈特穆特‧罗萨(Hartmut Rosa) - HackMD
+https://hackmd.io/@xrf1996/H1uTDxrIH
+
+Mike Haertel - Google 搜索
+https://www.google.com/search?q=Mike+Haertel&rlz=1C1GCEA_enJP1090JP1090&oq=Mike+Haertel&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGB4yBggCEEUYPNIBBzU0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Boyer–Moore string-search algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm
+
 # 2024-3-28
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
