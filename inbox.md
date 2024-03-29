@@ -1,5 +1,11 @@
 # 2024-3-29 0 | 0 W
 
+Peter Kasting
+
+Evan Martin, the creator of Ninja, blogs about his newest build system,
+n2: http://neugierig.org/software/blog/2022/03/n2.html
+Anyone interested in evaluating this for llvm use?
+
 Hotspot 编译器是自 Oracle Hotspot VM 的 1.3 版本引入的，Dalvik VM 引入 JIT 编译器是从 Android 2.2 开始的。
 
 (python(base) [root@g08 ultralytics-8.1.0]# gcc --help | grep dump

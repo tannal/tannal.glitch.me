@@ -1,5 +1,155 @@
 # 2024-3-29
 
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+v8-internals/slides/V8中的trampline和Embedded builtins.pdf at master · plctlab/v8-internals
+https://github.com/plctlab/v8-internals/blob/master/slides/V8%E4%B8%AD%E7%9A%84trampline%E5%92%8CEmbedded%20builtins.pdf
+
+Tech Notes: n2: revisiting Ninja
+https://neugierig.org/software/blog/2022/03/n2.html
+
+Chromium post 121 Rendering issues
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/GYk3NcFBvso
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+令人智熄的 WASI Preview 2 标准 - 知乎
+https://zhuanlan.zhihu.com/p/543446425
+
+Suno
+https://app.suno.ai/create/
+
+#general > Servo and Spidermonkey report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20and.20Spidermonkey.20report
+
+gterzian/spidermonkey_servo: Draft of a report on Servo's use of Spidermonkey
+https://github.com/gterzian/spidermonkey_servo
+
+Nick Shadrin - NGINX
+https://www.nginx.com/people/nick-shadrin/
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+janio - Google 搜索
+https://www.google.com/search?q=janio&rlz=1C1GCEA_enJP1090JP1090&oq=janio&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDINCAMQLhivARjHARiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQLhgKGIAE0gEIMjA5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=query%20tree&sort=byPopularity&type=story
+
+Coldplay - Paradise (Live 2012 from Paris) - YouTube
+https://www.youtube.com/watch?v=QKcxhQZxvdw
+
+servo/stylo
+https://github.com/servo/stylo
+
+Add support for text-decoration-style · servo/servo@689b413
+https://github.com/servo/servo/commit/689b413bdebc0d09b105c0b254171f1b1520f449
+
+Add support for text-decoration-color · servo/servo@928bd0d
+https://github.com/servo/servo/commit/928bd0d1d280abf058057ce28b28b0c71033d538
+
+PostgreSQL B-Tree Index Explained - PART 1
+https://www.qwertee.io/blog/postgresql-b-tree-index-explained-part-1/
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+IzumiSagiri
+https://github.com/IzumiSagiri
+
+Human-Agent Interaction - Google 搜索
+https://www.google.com/search?q=Human-Agent+Interaction&rlz=1C1GCEA_enJP1090JP1090&oq=Human-Agent+Interaction&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yCggGEAAYCBgPGB4yBggHEAAYHjIICAgQABgFGB4yCAgJEAAYBRge0gEHNDY2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Human-Agent Interaction | A Research Portal for the HAI Community
+https://hai-conference.net/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Human-Agent%20Interaction&sort=byPopularity&type=story
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Browser Event Loop · Issue #21 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/21
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?q=is%3Aissue+is%3Aopen+n2+build+system
+
+V8: Behind the Scenes (February Edition feat. A tale of TurboFan) · Benedikt Meurer
+https://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition
+
+Turbofan IR - Google 幻灯片
+https://docs.google.com/presentation/d/1Z9iIHojKDrXvZ27gRX51UxHD-bKf1QcPzSijntpMJBM/edit#slide=id.g19134d40cb_0_582
+
+v8 Turbofan IR site: docs.google.com - Google 搜索
+https://www.google.com/search?q=v8+Turbofan+IR+site%3A+docs.google.com&sca_esv=9d404df1ab10a133&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-kYaahnvbY-24w0ZLxeYp_ndsCzA%3A1711720798415&ei=XskGZqjzGLzn2roPl9-kSA&ved=0ahUKEwiompPx0JmFAxW8s1YBHZcvCQkQ4dUDCBA&uact=5&oq=v8+Turbofan+IR+site%3A+docs.google.com&gs_lp=Egxnd3Mtd2l6LXNlcnAiJHY4IFR1cmJvZmFuIElSIHNpdGU6IGRvY3MuZ29vZ2xlLmNvbTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiJBRiiBEi0R1DZB1idRHADeAGQAQCYAfEBoAHPA6oBAzItMrgBA8gBAPgBAfgBApgCBaAC2wPCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICBBAjGCeYAwCIBgGQBgqSBwUzLjAuMqAH2AM&sclient=gws-wiz-serp#ip=1
+
+前端知识体系整理 - heptaluan's blog
+https://heptaluan.github.io/about/
+
+From V8 to Modern Compilers | PPT
+https://www.slideshare.net/bekketmcclane/from-v8-to-modern-compilers-73291706
+
+An overview of the TurboFan compiler - Google 幻灯片
+https://docs.google.com/presentation/d/1H1lLsbclvzyOF3IUR05ZUaZcqDxo7_-8f4yJoxdMooU/htmlpresent
+
+v8_reading.txt
+https://gist.github.com/anvbis/c8a8c3ba56cc41c2f3c906edf91d71d4
+
+tools/turbolizer - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/refs/heads/main/tools/turbolizer/
+
+Meltdown/Spectre vulnerability status for Chrome OS devices
+https://www.chromium.org/chromium-os/meltdown-spectre-vulnerability-status/
+
+chromium html event loop site: docs.google.com - Google 搜索
+https://www.google.com/search?q=chromium+html+event+loop+site%3A+docs.google.com&rlz=1C1GCEA_enJP1090JP1090&oq=chromium+html+event+loop+site%3A+docs.google.com&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwMzE4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+List of Chromium Command Line Switches « Peter Beverloo
+https://peter.sh/experiments/chromium-command-line-switches/
+
+Chrome Platform Status
+https://chromestatus.com/reports/spec_mentors
+
+laixiangran - 博客园
+https://www.cnblogs.com/laixiangran
+
+atotic/event-loop: Deep dive into JavaScript event loop
+https://github.com/atotic/event-loop
+
+Blink Scheduler - Google 文档
+https://docs.google.com/document/d/11N2WTV3M0IkZ-kQlKWlBcwkOkKTCuLXGVNylK5E2zvc/edit
+
+Consider making agents and event loops 1:1 · Issue #5352 · whatwg/html
+https://github.com/whatwg/html/issues/5352
+
+Cooperative Scheduling - Google 文档
+https://docs.google.com/document/d/1bM_1SjE25NMQrD4IJFAPc1tI4i8tvSET2f0IgjukRho/edit#heading=h.7nki9mck5t64
+
+Agents, Event Loops and Microtask Queues in Blink - Google 文档
+https://docs.google.com/document/d/1GSHp-KoP4M1oq-vQaw8W8g93lm_k1zsykP_GAzRrbYo/edit#heading=h.fkrfg3qeppr8
+
+Design Documents
+https://www.chromium.org/developers/design-documents/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chromium%20design%20documents&sort=byPopularity&type=story
+
+ds-hwang (Dongseong Hwang)
+https://github.com/ds-hwang
+
+digital artisan spirit
+https://luxtella.blogspot.com/
+
 jobs.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
