@@ -1,14 +1,51 @@
 # 2024-3-30 0 | 0 W
 
+Webassembly people https://github.com/WebAssembly/meetings/issues/1463
+
 github search
 
-css involves:andreubotella
-css involves:bfgeek
-css involves:rniwa
-css involves:emilio
-css involves:jdm
-css involves:pylbrecht
+igalia
+
+Golang
+involves:rsc
+involves:robpike
+
+Javascript Engine
+involves:mathiasbynens
+involves:backes
+involves:bmeurer
+involves:LeszekSwirski
+involves:ulan
+involves:bellard
+involves:kasperl
+involves:larsbak
+involves:mraleph
+involves:Hixie
+involves:wingo
+involves:titzer
+
+Browsers
+involves:tiaanl
+involves:andreubotella
+involves:bfgeek
+involves:rniwa
+involves:emilio
+involves:jdm
+involves:pylbrecht
 involves:fantasai
+involves:joyeecheung
+involves:cathiechen
+involves:xiaochengh
+involves:noamr
+involves:zcorpan
+involves:Ms2ger
+involves:mgaudet
+
+
+React
+involves:gaearon
+
+
 
 source /home/tannal/.local/pipx/venvs/numpy/bin/activate
 
