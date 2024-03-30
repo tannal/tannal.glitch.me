@@ -47,6 +47,34 @@ element
 
 Webassembly people https://github.com/WebAssembly/meetings/issues/1463
 
+clspv/gpuweb/webgpu
+involves:alan-baker
+involves:kenrussell
+involves:beaufortfrancois
+involves:Kangz
+
+WebRTC
+involves:MirkoBonadei
+involves:Orphis
+
+
+ggml/whisper.cpp/llama.cpp
+involves:ggerganov
+
+Angle
+involves:null77
+involves:vonture
+involves:Oletus
+involves:Kangz
+
+Webpack
+involves:sokra
+
+Babeljs
+involves:hzoo
+involves:jridgewell
+involves:loganfsmyth
+
 github search
 
 Nodejs
@@ -56,6 +84,7 @@ Igalia
 involves:mariospr
 involves:felipeerias
 involves:xanlpz
+involves:nicolo-ribaudo
 
 wolvic
 involves:calvaris
@@ -85,6 +114,7 @@ involves:andreubotella
 involves:bfgeek
 involves:rniwa
 involves:emilio
+involves:gterzian
 involves:jdm
 involves:pylbrecht
 involves:fantasai
