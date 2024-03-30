@@ -1,5 +1,128 @@
 # 2024-3-30
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+令人智熄的 WASI Preview 2 标准 - 知乎
+https://zhuanlan.zhihu.com/p/543446425
+
+(4 封私信 / 60 条消息) 李杭帆 - 知乎
+https://www.zhihu.com/people/li-hang-fan-48/posts
+
+(4 封私信 / 60 条消息) Martin Chloride - 知乎
+https://www.zhihu.com/people/martin1994/posts
+
+Martin1994/JsonJitSerializer: A JIT JSON Serializer for .NET Core 3.0
+https://github.com/Martin1994/JsonJitSerializer
+
+Browse public vcpkg packages
+https://vcpkg.io/en/packages
+
+Build a simple CMake project using Conan — conan 2.2.2 documentation
+https://docs.conan.io/2/tutorial/consuming_packages/build_simple_cmake_project.html
+
+lydiahallie (Lydia Hallie)
+https://github.com/lydiahallie/
+
+lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations
+https://github.com/lydiahallie/javascript-questions
+
+Issue search results
+https://github.com/search?q=involves%3Alydiahallie&type=issues
+
+[fix] question #76 · Issue #331 · lydiahallie/javascript-questions
+https://github.com/lydiahallie/javascript-questions/issues/331
+
+Singleton Pattern | JavaScript Patterns
+https://javascriptpatterns.vercel.app/patterns/design-patterns/singleton-pattern
+
+Issue search results
+https://github.com/search?q=involves%3AQard&type=issues&p=2
+
+Node.js Diagnostics WorkGroup Meeting 2023-12-12 · Issue #625 · nodejs/diagnostics
+https://github.com/nodejs/diagnostics/issues/625
+
+Interaction with iterator helpers · Issue #75 · tc39/proposal-async-context
+https://github.com/tc39/proposal-async-context/issues/75
+
+babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.
+https://github.com/babel/babel
+
+EncodeForRegExpEscape should not return results that require particular flags · Issue #69 · tc39/proposal-regex-escaping
+https://github.com/tc39/proposal-regex-escaping/issues/69
+
+Issue search results
+https://github.com/search?q=involves%3Anicolo-ribaudo&type=issues&p=2
+
+Issue search results
+https://github.com/search?q=involves%3Aloganfsmyth&type=issues
+
+ServoMedia::get can hang forever when setting document activity · Issue #31918 · servo/servo
+https://github.com/servo/servo/issues/31918
+
+Issue search results
+https://github.com/search?q=event+loop+involves%3Agterzian&type=issues&p=3
+
+Task sources and queues: explicit distinction between those used in parallel vs on the event-loop? · Issue #4615 · whatwg/html
+https://github.com/whatwg/html/issues/4615
+
+multiprocessing — Process-based parallelism — Python 3.8.18 documentation
+https://docs.python.org/3.8/library/multiprocessing.html#multiprocessing.Queue
+
+Contributors to google/clspv
+https://github.com/google/clspv/graphs/contributors
+
+Depth-based fog transparency effect to blend with the page background · Issue #26239 · mrdoob/three.js
+https://github.com/mrdoob/three.js/issues/26239
+
+Static Samplers · Issue #284 · webgpu-native/webgpu-headers
+https://github.com/webgpu-native/webgpu-headers/issues/284
+
+GitHub
+https://github.com/
+
+Issue search results
+https://github.com/search?q=involves%3AOrphis&type=issues
+
+kenrussell/siggraph2012course: Materials for SIGGRAPH 2012 course on Graphics Programming for the Web
+https://github.com/kenrussell/siggraph2012course
+
+Issue search results
+https://github.com/search?q=involves%3Akenrussell&type=issues
+
+What you can do with WebGPU? By Corentin Wallez, François Beaufort - YouTube
+https://www.youtube.com/watch?v=RR4FZ9L4AF4
+
+beaufortfrancois (François Beaufort)
+https://github.com/beaufortfrancois
+
+beaufortfrancois/webgpu-cross-platform-app: WebGPU cross-platform app with CMake/Emscripten
+https://github.com/beaufortfrancois/webgpu-cross-platform-app
+
+GitHub
+https://github.com/
+
+Kangz (Corentin Wallez)
+https://github.com/Kangz
+
+Issue search results
+https://github.com/search?q=involves%3AKangz&type=issues&p=2
+
+Support block-type parameters · Issue #6407 · WebAssembly/binaryen
+https://github.com/WebAssembly/binaryen/issues/6407
+
+spritely / Guile Hoot · GitLab
+https://gitlab.com/spritely/guile-hoot
+
+Version 1? · Issue #1513 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1513
+
+Repository search results
+https://github.com/search?q=chrome%3A%2F%2Fgpu&type=repositories
+
+Code search results
+https://github.com/search?q=repo%3Atypst%2Ftypst%20image&type=code
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
