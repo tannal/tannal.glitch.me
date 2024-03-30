@@ -1,5 +1,8 @@
 # 2024-3-30 0 | 0 W
 
+git config --global core.untrackedCache true
+git config --global core.fsmonitor true
+
 Good artists copy, great artists steal.
 
 # 2024-3-29 0 | 0 W
