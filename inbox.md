@@ -1,5 +1,12 @@
 # 2024-3-30 0 | 0 W
 
+https://groups.google.com/a/chromium.org/g/extensions-dev
+https://groups.google.com/a/chromium.org/g/proto-quic
+https://groups.google.com/a/chromium.org/g/chromium-html5/c/ypYpENVylLY
+
+css module script
+json module script
+
 git config --global core.untrackedCache true
 git config --global core.fsmonitor true
 

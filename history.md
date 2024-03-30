@@ -3,6 +3,114 @@
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Ask for the right way to change Elements/LayoutObjects' layout attributes when some conditions hit？
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/_tg0xF6v9Os/m/82mmiNW9AQAJ
+
+Issue search results
+https://github.com/search?q=displayItem&type=issues&p=2
+
+Investigation: Accessibility Tree Dump API · Issue #51 · web-platform-tests/interop-accessibility
+https://github.com/web-platform-tests/interop-accessibility/issues/51
+
+Support for getting the full accessibility tree via the WebDriver protocol in ChromeDriver - Google 文档
+https://docs.google.com/document/d/1yWateplh16MAirqLoFCw51K0jIORaHXb9kKB9KpF8FY/edit#heading=h.fekgx0cwii7t
+
+Multithreading is not working on any Chromium-based browser, but it's working perfectly on Firefox. · Issue #597 · ffmpegwasm/ffmpeg.wasm
+https://github.com/ffmpegwasm/ffmpeg.wasm/issues/597
+
+Pull requests · nodejs/build
+https://github.com/nodejs/build/pulls
+
+[css-tables] Hit testing of table rows. · Issue #7817 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/7817
+
+…/ng_box_fragment_painter.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3933123/2/third_party/blink/renderer/core/paint/ng/ng_box_fragment_painter.h#b196
+
+ChatGPT
+https://chat.openai.com/c/94b0809e-67c3-4942-8562-510e7bd1e87c
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Issue search results
+https://github.com/search?q=%22https%3A%2F%2Fgroups.google.com%2Fa%2Fchromium.org%2F%22&type=issues&p=26
+
+How do we address cross-origin selection/focus changes? · Issue #38 · w3c/clipboard-apis
+https://github.com/w3c/clipboard-apis/issues/38
+
+Intent to Remove: HTTP/2 and gQUIC server push · Issue #36091 · nodejs/node
+https://github.com/nodejs/node/issues/36091
+
+Investigate first party cookies, cookie prefix, and insecure modification of secure cookies · Issue #8700 · servo/servo
+https://github.com/servo/servo/issues/8700
+
+Intent to implement: ResizeObserver · Issue #301 · ResponsiveImagesCG/newsletters
+https://github.com/ResponsiveImagesCG/newsletters/issues/301
+
+Intent to Implement: ResizeObserver
+https://groups.google.com/a/chromium.org/g/blink-dev/c/iHXS9S66bAw
+
+Don't need tabs permission? · Issue #12 · LearningThreads/mykn
+https://github.com/LearningThreads/mykn/issues/12
+
+extensions-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/extensions-dev
+
+Fyrd (Alexis Deveria)
+https://github.com/Fyrd
+
+camera input detection · Issue #100 · Modernizr/Modernizr
+https://github.com/Modernizr/Modernizr/issues/100
+
+About <video src="file//..."> media file loading
+https://groups.google.com/a/chromium.org/g/chromium-html5/c/ypYpENVylLY
+
+Consider Native File System API as a source · Issue #240 · icidasset/diffuse
+https://github.com/icidasset/diffuse/issues/240
+
+Reintroduce 1 byte packet numbers · Issue #374 · quic-go/quic-go
+https://github.com/quic-go/quic-go/issues/374
+
+QUIC Prototype Protocol Discussion group - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/proto-quic
+
+Notifications: add vibrate option to notifications · Issue #1522 · google/ioweb2015
+https://github.com/google/ioweb2015/issues/1522
+
+Add CSS module script/CSS modules · Issue #5944 · Fyrd/caniuse
+https://github.com/Fyrd/caniuse/issues/5944
+
+Issues · domfarolino/chromium-notes
+https://github.com/domfarolino/chromium-notes/issues
+
+PSA: Turn on Git’s fsmonitor!
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/MbTkba8g_MU
+
+uazo/bromite-buildtools: my build machine for bromite development
+https://github.com/uazo/bromite-buildtools
+
+Private Aggregation API · Issue #846 · w3ctag/design-reviews
+https://github.com/w3ctag/design-reviews/issues/846
+
+How to prevent an element from being attached to LayoutTree?
+https://groups.google.com/a/chromium.org/g/blink-dev/c/VgcE-RtcXIk/m/9vZ9D6uoDAAJ
+
+Support for the new `:state()` syntax · Issue #126 · calebdwilliams/element-internals-polyfill
+https://github.com/calebdwilliams/element-internals-polyfill/issues/126
+
+Add Web Neural Network (WebNN) · Issue #6098 · Fyrd/caniuse
+https://github.com/Fyrd/caniuse/issues/6098
+
+Inline JSON and CSS module scripts · Issue #7415 · whatwg/html
+https://github.com/whatwg/html/issues/7415
+
+Implement ResizeObserver by gterzian · Pull Request #31108 · servo/servo
+https://github.com/servo/servo/pull/31108
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issue search results
 https://github.com/search?q=RenderObject+z+index&type=issues&p=2
 

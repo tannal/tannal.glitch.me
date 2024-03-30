@@ -1,6 +1,14 @@
 
 # inbox
 
+cookie
+https://github.com/servo/servo/issues/8700
+
+ResizeObserver
+https://github.com/ResponsiveImagesCG/newsletters/issues/301
+https://github.com/servo/servo/pull/31108
+
+
 https://github.com/servo/servo/issues/17715
 
 https://github.com/servo/servo/issues/31807
