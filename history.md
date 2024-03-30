@@ -3,6 +3,201 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+illinois cs system programming - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=illinois+cs+system+programming
+
+chore: update WPT by iuioiua · Pull Request #23111 · denoland/deno
+https://github.com/denoland/deno/pull/23111/files
+
+Implement URL.parse() · Issue #23069 · denoland/deno
+https://github.com/denoland/deno/issues/23069
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+tannal (tannal)
+https://github.com/tannal
+
+Index of /
+http://192.168.43.246:8080/
+
+Issue search results
+https://github.com/search?q=org%3Aceph+btrfs&type=issues
+
+linux kernel jvm - Google 搜索
+https://www.google.com/search?q=linux+kernel+jvm&rlz=1C1GCEA_enJP1090JP1090&oq=linux+kernel+jvm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIGCAIQRRhA0gEIOTQwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jvm%20linux%20kernel&sort=byPopularity&type=story
+
+jserv jvm - Google 搜索
+https://www.google.com/search?q=jserv+jvm&rlz=1C1GCEA_enJP1090JP1090&oq=jserv+jvm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDUxMTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Issue search results
+https://github.com/search?q=annevk&type=issues
+
+FedCM - Federated Credential Management API · Issue #309 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/309
+
+Careers at Elastic
+https://jobs.elastic.co/#/
+
+elastic search - Google 搜索
+https://www.google.com/search?q=elastic+search+&sca_esv=ffe209feeacdfb2d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09gx1zOquhygWuOzBpNYToio20Slw%3A1711779282072&ei=0q0HZrDzA_ji2roP7M6rsAg&ved=0ahUKEwiwpKrgqpuFAxV4sVYBHWznCoYQ4dUDCBA&uact=5&oq=elastic+search+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2VsYXN0aWMgc2VhcmNoIDIEECMYJzIIEAAYgAQYywEyCBAAGIAEGMsBMgoQABiABBjLARgKMgoQABiABBjLARgKMgoQABiABBjLARgKMggQABiABBjLATIKEAAYgAQYywEYCjIKEAAYgAQYywEYCjIIEAAYgAQYywFIowJQAFgAcAB4AJABAJgB5QGgAeUBqgEDMi0xuAEDyAEA-AEBmAIBoALpAZgDAJIHAzItMaAH0QQ&sclient=gws-wiz-serp#ip=1
+
+Kibana - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Kibana
+
+Lucene - Google 搜索
+https://www.google.com/search?q=Lucene&rlz=1C1GCEA_enJP1090JP1090&oq=Lucene&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgwIAxAAGEMYgAQYigUyDAgEEAAYQxiABBiKBTIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgwIBxAAGEMYgAQYigUyBwgIEAAYgAQyBwgJEAAYgATSAQcyNjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Bleve – A modern text indexing library for Go | Hacker News
+https://news.ycombinator.com/item?id=8279081
+
+Bleve – A modern text indexing library for Go | Hacker News
+https://news.ycombinator.com/item?id=8279081
+
+Doug Cutting - Google 搜索
+https://www.google.com/search?q=Doug+Cutting&rlz=1C1GCEA_enJP1090JP1090&oq=Doug+Cutting&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Doug Cutting - 编程少年
+https://kids.codepku.com/page/doug-cutting
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Doug%20Cutting&sort=byPopularity&type=story
+
+CS 341: Open!
+https://cs.wellesley.edu/~cs341/f20/projects/open/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Project%20in%20Mining%20Massive%20Data%20Sets&sort=byPopularity&type=story
+
+wangshusen/SearchEngine: 搜索引擎原理
+https://github.com/wangshusen/SearchEngine
+
+wangshusen/AdvancedAlgorithms
+https://github.com/wangshusen/AdvancedAlgorithms
+
+GitHub
+https://github.com/
+
+Browser Event Loop · Issue #21 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/21
+
+Agents, Event Loops and Microtask Queues in Blink - Google 文档
+https://docs.google.com/document/d/1GSHp-KoP4M1oq-vQaw8W8g93lm_k1zsykP_GAzRrbYo/edit
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/#same-agent-window-objects
+
+Issue search results
+https://github.com/search?q=webkit+design+document&type=issues
+
+openui/open-ui: Maintain an open standard for UI and promote its adherence and adoption.
+https://github.com/openui/open-ui
+
+Combobox (Explainer) | Open UI
+https://open-ui.org/components/combobox.explainer/
+
+Match event loop wakeups to expected messages · Issue #23865 · servo/servo
+https://github.com/servo/servo/issues/23865
+
+Porting to webassembly · Issue #8 · jart/blink
+https://github.com/jart/blink/issues/8
+
+jart/blink: tiniest x86-64-linux emulator
+https://github.com/jart/blink
+
+Issues · zhuzhh/blog
+https://github.com/zhuzhh/blog/issues
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+%22open-ui.org%22&type=commits
+
+Interest Invokers (Explainer) | Open UI
+https://open-ui.org/components/interest-invokers.explainer/
+
+Issue search results
+https://github.com/search?q=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F%23same-agent-window-objects&type=issues&p=3
+
+SharedArrayBuffer and Agent clusters · Issue #3 · dpino/gecko-dev
+https://github.com/dpino/gecko-dev/issues/3
+
+dpino (Diego Pino)
+https://github.com/dpino
+
+Unweaving the Web
+https://blogs.igalia.com/dpino/
+
+Need callback for form submit data · Issue #187 · WICG/webcomponents
+https://github.com/WICG/webcomponents/issues/187
+
+Issue search results
+https://github.com/search?q=rniwa&type=issues&p=2
+
+Plan for enabling high-resolution timers · Issue #1261 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1261
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+Worklet agents and the event loop · Issue #10136 · whatwg/html
+https://github.com/whatwg/html/issues/10136
+
+Web Audio API
+https://webaudio.github.io/web-audio-api/#rendering-loop
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+Issue search results
+https://github.com/search?q=emilio&type=issues&p=3
+
+Add benchmark tests for color parsing · Issue #319 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/issues/319
+
+WIP: feat(color): Rewrite color in terms of css-color-4 by GPHemsley · Pull Request #314 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/pull/314/files#diff-a0262fea108af44a98cc49e5eb72641963dd816513f2d0a22eb738fcfed55ebe
+
+[html] <input type=checkbox switch> · Issue #990 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/990
+
+`line-clamp` CSS property (collapse variant) · Issue #984 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/984
+
+Standardize layerX/layerY on UIEvent · Issue #371 · w3c/uievents
+https://github.com/w3c/uievents/issues/371
+
+Stylo's Device should have access to font metrics · Issue #31938 · servo/servo
+https://github.com/servo/servo/issues/31938
+
+Style needs a way to get font metrics while computing style data. · Issue #14079 · servo/servo
+https://github.com/servo/servo/issues/14079
+
+Prossimo
+https://www.memorysafety.org/
+
+What are the numbers for CPU and memory overhead costs of a Docker container? If variable, what influences/determines those overheads? : r/docker
+https://www.reddit.com/r/docker/comments/zaxhsf/what_are_the_numbers_for_cpu_and_memory_overhead/
+
+Issue search results
+https://github.com/search?q=css+involves%3Aandreubotella&type=issues
+
+Measure how often layout queries are blocked by ongoing layout · Issue #19797 · servo/servo
+https://github.com/servo/servo/issues/19797
+
+Short videos dispatch loadedmetadata before the metadata is present · Issue #31415 · servo/servo
+https://github.com/servo/servo/issues/31415
+
+Can't use --debugger=rust-gdb with test-wpt · Issue #25868 · servo/servo
+https://github.com/servo/servo/issues/25868
+
+[css-text-4] Rename `trim-auto` to `trim-both` · Issue #10161 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10161
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Download and install — Emscripten 3.1.55-git (dev) documentation
 https://emscripten.org/docs/getting_started/downloads.html
 

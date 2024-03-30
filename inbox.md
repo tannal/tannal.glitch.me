@@ -1,5 +1,15 @@
 # 2024-3-30 0 | 0 W
 
+github search
+
+css involves:andreubotella
+css involves:bfgeek
+css involves:rniwa
+css involves:emilio
+css involves:jdm
+css involves:pylbrecht
+involves:fantasai
+
 source /home/tannal/.local/pipx/venvs/numpy/bin/activate
 
 https://groups.google.com/a/chromium.org/g/extensions-dev
