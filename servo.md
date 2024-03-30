@@ -1,6 +1,10 @@
 
 # inbox
 
+https://github.com/servo/servo/issues/17715
+
+https://github.com/servo/servo/issues/31807
+
 https://github.com/servo/servo/issues/2382
 
 https://github.com/servo/media/issues/309
