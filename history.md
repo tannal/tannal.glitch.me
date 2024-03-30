@@ -1,3 +1,155 @@
+# 2024-3-30
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#Outreachy > Intermittent Dashboard Project - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Intermittent.20Dashboard.20Project
+
+azharcodeit (Azhar Ismagulova)
+https://github.com/azharcodeit
+
+Browser Event Loop · Issue #21 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/21
+
+gecko event loop - Google 搜索
+https://www.google.com/search?q=gecko+event+loop&rlz=1C1GCEA_enJP1090JP1090&oq=gecko+event+loop&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+gecko-dev/xpcom/base/CycleCollectedJSContext.cpp at 28cc363411d2029aed04c969c8f98785cae110db · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/blob/28cc363411d2029aed04c969c8f98785cae110db/xpcom/base/CycleCollectedJSContext.cpp#L644
+
+javascript - Where is the main event loop in the Firefox source code? - Stack Overflow
+https://stackoverflow.com/questions/43814483/where-is-the-main-event-loop-in-the-firefox-source-code
+
+WebKit/Source/WebCore/dom/Microtasks.cpp at 5da0d35084007b85445975376a44c9fecb64e9ed · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/5da0d35084007b85445975376a44c9fecb64e9ed/Source/WebCore/dom/Microtasks.cpp#L51
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+Issue search results
+https://github.com/search?q=microtask+checkpoint&type=issues&p=9
+
+Intermittent CRASH in /workers/modules/dedicated-worker-import-referrer.html · Issue #21419 · servo/servo
+https://github.com/servo/servo/issues/21419
+
+对浏览器首次渲染时间点的探究 · Issue #73 · jin5354/404forest
+https://github.com/jin5354/404forest/issues/73
+
+Match event loop wakeups to expected messages · Issue #23865 · servo/servo
+https://github.com/servo/servo/issues/23865
+
+Thread affinity for gstreamer-gl contexts? · Issue #309 · servo/media
+https://github.com/servo/media/issues/309
+
+GL acceleration doesn't work in multiprocess · Issue #24211 · servo/servo
+https://github.com/servo/servo/issues/24211
+
+Review the interaction of spinning the event loop and the script settings stack · Issue #15043 · servo/servo
+https://github.com/servo/servo/issues/15043
+
+Event Loop · Issue #14 · edwineo/Blog
+https://github.com/edwineo/Blog/issues/14
+
+Improve spec compliance of the event-loop · Issue #24759 · servo/servo
+https://github.com/servo/servo/issues/24759
+
+Issues · aooy/blog
+https://github.com/aooy/blog/issues
+
+Tasks, microtasks, queues and schedules - JakeArchibald.com
+https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+
+理解 Event loops（浏览器） · Issue #24 · yangdui/blog
+https://github.com/yangdui/blog/issues/24
+
+Microtask queue is not handled correctly in Deno · Issue #11731 · denoland/deno
+https://github.com/denoland/deno/issues/11731
+
+Event-loop should not block when microtask queue is not empty · Issue #26700 · servo/servo
+https://github.com/servo/servo/issues/26700
+
+servo/components/script/script_thread.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/script_thread.rs#L1357
+
+servo/components/script/dom/abstractworkerglobalscope.rs at d7d56454b07b70e3d9b2e3746ea1b2a1a1f05b7f · servo/servo
+https://github.com/servo/servo/blob/d7d56454b07b70e3d9b2e3746ea1b2a1a1f05b7f/components/script/dom/abstractworkerglobalscope.rs
+
+Recursive event loop spinning: do we still need it if showModalDialog no longer exists? · Issue #6996 · whatwg/html
+https://github.com/whatwg/html/issues/6996
+
+Remove showModalDialog() by domenic · Pull Request #374 · whatwg/html
+https://github.com/whatwg/html/pull/374
+
+Document Picture in Picture API · Issue #41 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/41
+
+Document the known differences of Electron's Node.js fork · Issue #26593 · electron/electron
+https://github.com/electron/electron/issues/26593
+
+When parsing HTML as a result of assigning to srcdoc, the Javascript execution stack isn't empty. · Issue #25514 · servo/servo
+https://github.com/servo/servo/issues/25514
+
+<iframe src="javascript:..."> executes too soon, which is a symptom of HTMLIFrameElement::navigate_or_reload_child_browsing_context needing to perform navigation steps at the right time/on the right thread · Issue #24901 · servo/servo
+https://github.com/servo/servo/issues/24901
+
+浏览器工作原理 · Issue #28 · yacan8/blog
+https://github.com/yacan8/blog/issues/28
+
+Tracking issue: snapshot integration in Node.js core · Issue #35711 · nodejs/node
+https://github.com/nodejs/node/issues/35711
+
+Startup Snapshot in Node.js Core - Google 文档
+https://docs.google.com/document/d/15bu038I36oILq5t4Qju1sS2nKudVB6NSGWz00oD48Q8/edit#heading=h.ip5x8qpe4qme
+
+10704 - snapshot does not work with class instance member initializers - v8
+https://bugs.chromium.org/p/v8/issues/detail?id=10704
+
+build: re-enable custom V8 snapshot by default by joyeecheung · Pull Request #28181 · nodejs/node
+https://github.com/nodejs/node/pull/28181/files
+
+Chromium Build Discussion · Issue #26 · RobRich999/Chromium_Clang
+https://github.com/RobRich999/Chromium_Clang/issues/26
+
+How to build a new feature for the web platform — and make it a success with developers · Issue #24 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/24
+
+Measuring the time to availability for a feature · Issue #714 · web-platform-dx/web-features
+https://github.com/web-platform-dx/web-features/issues/714
+
+DesignDoc: initial-letter property - Google 文档
+https://docs.google.com/document/d/19Ajiwaa5OCF-O-cDkwGZ2iVjbGLX64s3PzSsxV8uAd0/edit#heading=h.rsely35my79g
+
+Support multiple windows · Issue #13338 · servo/servo
+https://github.com/servo/servo/issues/13338
+
+Pausing (alert, confirm, prompt) · Issue #4439 · whatwg/html
+https://github.com/whatwg/html/issues/4439
+
+[css-contain-2]: Should the first `contentvisibilityautostatechange` event be fired without knowing if the element is close to the viewport · Issue #9803 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/9803
+
+⚙ D198602 Bug 1806930 - Intermittent /css/css-contain/content-visibility/content-visibility-auto-state-changed-first-observation.html, r?emilio,fredw
+https://phabricator.services.mozilla.com/D198602
+
+Event loop: update the rendering step mismatches implementations in subtle ways · Issue #9824 · whatwg/html
+https://github.com/whatwg/html/issues/9824
+
+Issue search results
+https://github.com/search?q=repo%3Awhatwg%2Fhtml+docs.google.com+event+loop&type=issues
+
+Window: showModalDialog() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Window/showModalDialog
+
+Issue search results
+https://github.com/search?q=chromium+WindowProxy&type=issues
+
+Chrome/Safari handles bareword calls to Window methods differently than Firefox · Issue #3997 · whatwg/html
+https://github.com/whatwg/html/issues/3997
+
+Implement cross-origin wrappers · Issue #2382 · servo/servo
+https://github.com/servo/servo/issues/2382
+
 # 2024-3-29
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

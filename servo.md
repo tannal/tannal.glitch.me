@@ -1,6 +1,19 @@
 
 # inbox
 
+https://github.com/servo/servo/issues/2382
+
+https://github.com/servo/media/issues/309
+https://github.com/servo/servo/issues/24211
+
+https://github.com/servo/servo/issues/24759
+https://github.com/servo/servo/issues/26700
+https://github.com/servo/servo/issues/15043
+
+https://github.com/servo/servo/issues/23865
+https://github.com/servo/servo/issues/24901
+https://github.com/servo/servo/issues/25514
+
 
 ./mach run -d -- -Z dump-style-tree
 
