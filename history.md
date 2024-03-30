@@ -3,6 +3,51 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Servo
+https://github.com/servo/
+
+Servo (@servo@floss.social) - FLOSS.social
+https://floss.social/@servo
+
+Issue search results
+https://github.com/search?q=involves%3Aglennw&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Akvark&type=issues&p=3
+
+goose.icu
+https://goose.icu/
+
+2024-03-07 Meeting · Issue #62 · wintercg/admin
+https://github.com/wintercg/admin/issues/62
+
+wintercg/proposal-cli-api: WinterCG proposal for standardizing CLI APIs
+https://github.com/wintercg/proposal-cli-api
+
+Blaming rust/library/core/src/marker.rs at 7e0ed43287a658be61dab00b68827865f2fc9c5a · rust-lang/rust
+https://github.com/rust-lang/rust/blame/7e0ed43287a658be61dab00b68827865f2fc9c5a/library/core/src/marker.rs#L613
+
+Issue search results
+https://github.com/search?q=involves%3Acompiler-errors&type=issues
+
+"Much" of the Rust/Wasmtime team hit by layoffs at Mozilla | Hacker News
+https://news.ycombinator.com/item?id=24143819
+
+Talent Directory
+https://talentdirectory.mozilla.org/
+
+Contributors to bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/graphs/contributors
+
+Issue search results
+https://github.com/search?q=involves%3Asunfishcode&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Aalexcrichton&type=issues
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Rendering backend for GTK - Platform - GNOME Discourse
 https://discourse.gnome.org/t/rendering-backend-for-gtk/10614/3
 

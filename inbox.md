@@ -1,5 +1,20 @@
 # 2024-3-30 0 | 0 W
 
+
+Wasmtime Webassembly wasi
+involves:sunfishcode
+involves:alexcrichton
+
+Rust Team
+involves:compiler-errors
+
+involves:glennw
+involves:kvark
+involves:CanadaHonk
+involves:asajeffrey
+involves:atbrakhi
+
+
 involves:jpbruyere
 
 
