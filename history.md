@@ -3,6 +3,54 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Mark-Simulacrum (Mark Rousskov)
+https://github.com/Mark-Simulacrum
+
+Issue search results
+https://github.com/search?q=involves%3Aaturon+&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3AMark-Simulacrum&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Acarols10cents&type=issues
+
+rust/compiler/rustc_llvm/llvm-wrapper at master · rust-lang/rust
+https://github.com/rust-lang/rust/tree/master/compiler/rustc_llvm/llvm-wrapper
+
+Issue search results
+https://github.com/search?q=involves%3Amrego&type=issues&p=3
+
+Implement CanvasRenderingContext2d.measureText · Issue #5411 · servo/servo
+https://github.com/servo/servo/issues/5411
+
+Created paint-order example in HTML by srikanth-kandi · Pull Request #32251 · mdn/content
+https://github.com/mdn/content/pull/32251
+
+Issue search results
+https://github.com/search?q=involves%3Aashleygwilliams&type=issues
+
+xoolive (Xavier Olive)
+https://github.com/xoolive
+
+Introduction - cargo-dist
+https://opensource.axo.dev/cargo-dist/book/introduction.html
+
+Issue search results
+https://github.com/search?q=involves%3Anrc&type=issues&p=2
+
+nrc/rustaceans.org: Backing data for
+https://github.com/nrc/rustaceans.org
+
+Code search results
+https://github.com/search?q=repo%3Anrc%2Frustaceans.org%20servo&type=code
+
+tbu- (Tobias Bucher)
+https://github.com/tbu-
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Servo
 https://github.com/servo/
 

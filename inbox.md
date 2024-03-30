@@ -1,5 +1,6 @@
 # 2024-3-30 0 | 0 W
 
+https://github.com/search?q=repo%3Anrc%2Frustaceans.org%20servo&type=code
 
 Wasmtime Webassembly wasi
 involves:sunfishcode
@@ -7,6 +8,12 @@ involves:alexcrichton
 
 Rust Team
 involves:compiler-errors
+involves:Mark-Simulacrum
+involves:carols10cents
+involves:nikomatsakis
+involves:ashleygwilliams
+involves:nrc
+involves:tbu-
 
 involves:glennw
 involves:kvark
