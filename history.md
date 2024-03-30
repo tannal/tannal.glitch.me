@@ -1,5 +1,32 @@
 # 2024-3-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Download and install — Emscripten 3.1.55-git (dev) documentation
+https://emscripten.org/docs/getting_started/downloads.html
+
+Issues · WebAssembly/binaryen
+https://github.com/WebAssembly/binaryen/issues
+
+juj/wasm_webgpu: System headers for interfacing WebGPU from C programs compiled via Emscripten to WebAssembly
+https://github.com/juj/wasm_webgpu
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Distributed Mode | JuiceFS Document Center
+https://juicefs.com/docs/community/getting-started/for_distributed/
+
+BurntSushi/rsc-regexp: Translations of a simple C program to Rust.
+https://github.com/BurntSushi/rsc-regexp
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal/tannalwork: workspace
+https://github.com/tannal/tannalwork
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
