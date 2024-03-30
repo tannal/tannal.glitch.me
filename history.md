@@ -3,6 +3,39 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Issue search results
+https://github.com/search?q=involves%3Aisaacs&type=issues&p=7
+
+enable corepack by default · Issue #50963 · nodejs/node
+https://github.com/nodejs/node/issues/50963
+
+[BUG] mocha-globals beforeEach hooks run for describes too when it should only for it tests · Issue #1008 · tapjs/tapjs
+https://github.com/tapjs/tapjs/issues/1008
+
+tapjs/tapjs: Test Anything Protocol tools for node
+https://github.com/tapjs/tapjs
+
+LRUCache seems to incorrectly implement Map<K, V> · Issue #332 · isaacs/node-lru-cache
+https://github.com/isaacs/node-lru-cache/issues/332
+
+Issue search results
+https://github.com/search?q=involves%3Amcollina&type=issues&p=4
+
+Support starting benchmark tasks using taskset on Linux · Issue #52233 · nodejs/node
+https://github.com/nodejs/node/issues/52233
+
+Issues · nodejs/node
+https://github.com/nodejs/node/labels/good%20first%20issue
+
+benchmark: conditionally use spawn with taskset for CPU pinning by thisalihassan · Pull Request #52253 · nodejs/node
+https://github.com/nodejs/node/pull/52253
+
+streams: fix util inspect returning undefined for CompressionStream and DecompressionStream by mertcanaltin · Pull Request #52272 · nodejs/node
+https://github.com/nodejs/node/pull/52272/files
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Igalia Coding Experience | Igalia - Open Source Consultancy and Development
 https://www.igalia.com/coding-experience/
 
