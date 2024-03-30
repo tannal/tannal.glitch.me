@@ -1,5 +1,74 @@
 # 2024-3-30
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Why Threads are a Bad Idea (for most purposes) (1995) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=14547063
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Issue search results
+https://github.com/search?q=John+Ousterhout&type=issues&p=6
+
+10x programmers etc. · Issue #174 · ajschumacher/ajschumacher.github.io
+https://github.com/ajschumacher/ajschumacher.github.io/issues/174
+
+MIT 6.824 Spring 2021 Raft Lab 实现笔记 · Issue #9576 · guevara/read-it-later
+https://github.com/guevara/read-it-later/issues/9576
+
+Issue search results
+https://github.com/search?q=%22Why+Threads+Are+A+Bad+Idea%22&type=issues
+
+Reasons for modules · Issue #569 · masak/alma
+https://github.com/masak/alma/issues/569
+
+masak (Carl Mäsak)
+https://github.com/masak
+
+Issue search results
+https://github.com/search?q=Btree+&type=issues&p=2
+
+一篇文章多个分类的路径问题 · Issue #609 · hexojs/hexo
+https://github.com/hexojs/hexo/issues/609
+
+MMIX: Notes on another interesting virtual ISA · Issue #246 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/246
+
+Sparse matrix support · Issue #38 · fortran-lang/stdlib
+https://github.com/fortran-lang/stdlib/issues/38
+
+Issues · guevara/read-it-later
+https://github.com/guevara/read-it-later/issues
+
+Issues · duoan/notes
+https://github.com/duoan/notes/issues
+
+随机数之旅 · Issue #23 · Petelin/luckblog
+https://github.com/Petelin/luckblog/issues/23
+
+Petelin (lin)
+https://github.com/Petelin
+
+Issues · RobinHankin/freealg
+https://github.com/RobinHankin/freealg/issues
+
+taocp 4f5 7.2.2.1-147: Verify Correctness · Issue #1 · wallberg/sandbox-go
+https://github.com/wallberg/sandbox-go/issues/1
+
+Volume 4 Request · Issue #1 · manjunath5496/The-Art-of-Computer-Programming-Books
+https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/issues/1
+
+The Art of Computer Programming
+https://www-cs-faculty.stanford.edu/~knuth/taocp.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+intel/dffml: The easiest way to use Machine Learning. Mix and match underlying ML libraries and data set sources. Generate new datasets or modify existing ones with ease.
+https://github.com/intel/dffml
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
