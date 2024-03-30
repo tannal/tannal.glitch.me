@@ -1,6 +1,15 @@
 
 # inbox
 
+
+./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/css-values/calc-size/animatio
+n/calc-size-height-interpolation.tentative.html
+
+./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html
+
+./mach test-wpt ./tests/wpt/tests/css/css-values/calc-size/animation/calc-size-height-interpolation.tentative.html
+./mach test-wpt ./tests/wpt/tests/css/css-borders/tentative/parsing/border-bottom-radius-valid.html
+
 tokio thread tokio::runtime::blocking::pool::Spawner::spawn_thread
 
 

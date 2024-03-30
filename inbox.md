@@ -1,5 +1,28 @@
 # 2024-3-30 0 | 0 W
 
+involves:jpbruyere
+
+
+git config core.fsMonitor false --global
+
+sudo snap install go --classic
+git clone https://github.com/nektos/act.git
+make -j22
+make install
+go build -ldflags "-X main.version=0.2.60-11-gf825e42-dirty" -o dist/local/act main.go
+cp: cannot create regular file '/usr/local/bin/act': Permission denied
+
+
+https://app.element.io/#/room/#wpt:matrix.org
+
+email
+slack
+groups.google.com
+github
+discord
+zulip
+element
+
 Webassembly people https://github.com/WebAssembly/meetings/issues/1463
 
 github search
@@ -50,6 +73,7 @@ involves:noamr
 involves:zcorpan
 involves:Ms2ger
 involves:mgaudet
+involves:sideshowbarker
 
 
 React
