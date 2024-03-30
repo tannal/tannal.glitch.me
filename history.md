@@ -3,6 +3,129 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+about — wingolog
+https://wingolog.org/about/
+
+[render-blocking] Fix implicitly-render-blocking definition. by emilio · Pull Request #10214 · whatwg/html
+https://github.com/whatwg/html/pull/10214/files
+
+Consider extending <input type=color> instead · Issue #35 · WICG/eyedropper-api
+https://github.com/WICG/eyedropper-api/issues/35
+
+Issue search results
+https://github.com/search?q=involves%3AMs2ger&type=issues
+
+Can a task throw exceptions? · Issue #10103 · whatwg/html
+https://github.com/whatwg/html/issues/10103
+
+`assert_throws_js` fails for an element adopted from an iframe · Issue #45405 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45405
+
+ShadowRealm API · Issue #997 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/997
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+GitHub
+https://github.com/
+
+gaearon (dan)
+https://github.com/gaearon
+
+Issue search results
+https://github.com/search?q=involves%3Agaearon&type=issues
+
+s/QuickJS/QuickJS-NG/? · Issue #141 · GoogleChromeLabs/jsvu
+https://github.com/GoogleChromeLabs/jsvu/issues/141
+
+[memory64] -O3 produces import errors · Issue #4532 · WebAssembly/binaryen
+https://github.com/WebAssembly/binaryen/issues/4532
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+sscoderati (Changgi Hong)
+https://github.com/sscoderati
+
+Issue search results
+https://github.com/search?q=involves%3ALeszekSwirski&type=issues
+
+JSON.parse broken · Issue #206 · bellard/quickjs
+https://github.com/bellard/quickjs/issues/206
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tract%20infer&sort=byPopularity&type=story
+
+Issue search results
+https://github.com/search?q=involves%3Abellard&type=issues
+
+Lars Bak (computer programmer) - Wikipedia
+https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)
+
+Dart
+https://github.com/dart-lang
+
+Issue search results
+https://github.com/search?q=involves%3Amraleph&type=issues
+
+Hixie (Ian Hickson)
+https://github.com/Hixie
+
+Local testing no longer works with Skia gold · Issue #144496 · flutter/flutter
+https://github.com/flutter/flutter/issues/144496
+
+wingo (Andy Wingo)
+https://github.com/wingo
+
+Support block-type parameters · Issue #6407 · WebAssembly/binaryen
+https://github.com/WebAssembly/binaryen/issues/6407
+
+Support block-type parameters · Issue #6407 · WebAssembly/binaryen
+https://github.com/WebAssembly/binaryen/issues/6407#6208
+
+Issue search results
+https://github.com/search?q=involves%3Atitzer&type=issues
+
+rsc (Russ Cox)
+https://github.com/rsc
+
+os/exec: calling Cmd.Start after setting Cmd.Path manually to absolute path without ".exe" no longer implicitly adds ".exe" in Go 1.22 [1.22 backport] · Issue #66598 · golang/go
+https://github.com/golang/go/issues/66598
+
+robpike (Rob Pike)
+https://github.com/robpike
+
+text/template/parse: Unexpected Behaviour of ActionNode.Position in text/template - Potential Bug? · Issue #66423 · golang/go
+https://github.com/golang/go/issues/66423
+
+How to serialize new CSS color functions in canvas? · Issue #9939 · whatwg/html
+https://github.com/whatwg/html/issues/9939
+
+mariospr (Mario Sanchez Prada)
+https://github.com/mariospr
+
+felipeerias (Felipe Erias)
+https://github.com/felipeerias
+
+Issue search results
+https://github.com/search?q=involves%3Afelipeerias&type=issues
+
+xanlpz (Xan López)
+https://github.com/xanlpz
+
+Issue search results
+https://github.com/search?q=involves%3Axanlpz&type=issues
+
+calvaris (Xabier Rodríguez)
+https://github.com/calvaris
+
+Issue search results
+https://github.com/search?q=involves%3Asvillar&type=issues
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 illinois cs system programming - Google 搜索
 https://www.google.com/search?channel=fs&client=ubuntu-sn&q=illinois+cs+system+programming
 

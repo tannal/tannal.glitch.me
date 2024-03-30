@@ -4,7 +4,17 @@ Webassembly people https://github.com/WebAssembly/meetings/issues/1463
 
 github search
 
-igalia
+Nodejs
+involves:Qard
+
+Igalia
+involves:mariospr
+involves:felipeerias
+involves:xanlpz
+
+wolvic
+involves:calvaris
+involves:svillar
 
 Golang
 involves:rsc
