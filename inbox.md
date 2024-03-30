@@ -1,5 +1,7 @@
 # 2024-3-30 0 | 0 W
 
+source /home/tannal/.local/pipx/venvs/numpy/bin/activate
+
 https://groups.google.com/a/chromium.org/g/extensions-dev
 https://groups.google.com/a/chromium.org/g/proto-quic
 https://groups.google.com/a/chromium.org/g/chromium-html5/c/ypYpENVylLY

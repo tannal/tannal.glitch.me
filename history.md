@@ -1,5 +1,95 @@
 # 2024-3-30
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Chromium Notes
+https://neugierig.org/software/chromium/notes/
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/#/assignments
+
+Brown CS:
+https://cs.brown.edu/courses/
+
+Brown CS: CSCI2470
+https://cs.brown.edu/courses/info/csci2470/
+
+Brown CS:
+https://cs.brown.edu/courses/
+
+Chromium Notes: Thread restrictions: preventing unintentional IO
+https://neugierig.org/software/chromium/notes/2010/11/thread-restrictions.html
+
+Why Threads are a Bad Idea (for most purposes) (1995) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=14547063
+
+Communicating Sequential Processes, by C. A. R. Hoare (PDF Version)
+http://www.usingcsp.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s23/#/lectures
+
+Filesystems by Neil Ramaswamy on Prezi
+https://prezi.com/view/BvpcmM4eLEFaX6otOd6o/
+
+uthreads · brown-cs1690/handout Wiki
+https://github.com/brown-cs1690/handout/wiki/uthreads#introduction
+
+GitHub Classroom
+https://classroom.github.com/assignment-invitations/bf605a673146f50cfbf7649684e7690e/status
+
+03ThreadsImp2 - 03ThreadsImp2X.pdf
+https://brown-cs1690.github.io/brown-cs167-s23/lectures/03ThreadsImp2X.pdf
+
+02ThreadsImp - 02ThreadsImpX.pdf
+https://brown-cs1690.github.io/brown-cs167-s23/lectures/02ThreadsImpX.pdf
+
+Brown CS: Course Slides
+https://cs.brown.edu/courses/course-slides/
+
+Chromium Notes: Thread restrictions: preventing unintentional IO
+https://neugierig.org/software/chromium/notes/2010/11/thread-restrictions.html
+
+Chromium Notes: Plugin loading regression
+https://neugierig.org/software/chromium/notes/2010/11/plugin-loading-regression.html
+
+is:open - Chromium
+https://issues.chromium.org/issues?q=is:open
+
+attermatt/reaver-wps: Automatically exported from code.google.com/p/reaver-wps
+https://github.com/attermatt/reaver-wps
+
+Understanding GitHub Code Search syntax - GitHub Docs
+https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax#organization-and-user-qualifiers
+
+Repositories
+https://github.com/orgs/tree-sitter/repositories?page=2
+
+tree-sitter/tree-sitter-css: CSS grammar for Tree-sitter
+https://github.com/tree-sitter/tree-sitter-css
+
+CS167 Operating Systems
+https://brown-cs1690.github.io/brown-cs167-s24/#/schedule
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+Learn Math with numpy and matplotlib · Issue #22 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/22
+
+Code search results
+https://github.com/search?q=repo%3Amatplotlib%2Fmatplotlib%20gtk&type=code
+
+Slider — Matplotlib 3.8.3 documentation
+https://matplotlib.org/stable/gallery/widgets/slider_demo.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chromium%20notes&sort=byPopularity&type=story
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
