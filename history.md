@@ -1,5 +1,95 @@
 # 2024-3-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal (tannal)
+https://github.com/tannal/
+
+All You Need to Know About Web Rendering · Issue #686 · frontendweekly/feeds
+https://github.com/frontendweekly/feeds/issues/686
+
+mastodon/mastodon: Your self-hosted, globally interconnected microblogging community
+https://github.com/mastodon/mastodon
+
+论文阅读 -- "All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution" | HotSpurzzZ · Issue #4 · HotSpurzzZ/blogcomments
+https://github.com/HotSpurzzZ/blogcomments/issues/4
+
+HotSpurzzZ
+https://hotspurzzz.github.io/
+
+gdb (Greg Brockman)
+https://github.com/gdb
+
+伊尔亚·苏茨克维 - Google 搜索
+https://www.google.com/search?sca_esv=737191ba8f8e07a0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09PplZcHHuSTI3s1LtrXj9ww7VXmQ:1711807675798&si=AKbGX_rO4P19IF_yO85wYpkEaz-W_oZWd5JUOOVnUVftf2aeofmcV3to4nmi_jzocBdJ0FiEFj0bw9_n4xJGvU1w4uaKY0wT98e8Hqhc3IFSrUWh-2CcW5sisEeKBjKp4KSi2BDmtbGqKQm_uop7lWwkAY5GMbgJ9AUEtHblVa-GIYx_SxLAQ0ccICfcLl_vzvpxP2w8IBtv0jX0RgMmizgge-rqCuaaEHAiVyquYpmuTDISpaBL96LV_FrWKSDnEfXPHFtiQ0QhgNpqTkunz3vnukBHNwXNv8yc1o6d3bpk2LVAINH2C9qfiml2fQOiqjkot90hDZQvaP0Aiejdu_UDhMueYWlfkg%3D%3D&q=%E4%BC%8A%E5%B0%94%E4%BA%9A%C2%B7%E8%8B%8F%E8%8C%A8%E5%85%8B%E7%BB%B4&sa=X&ved=2ahUKEwiJ6sHDlJyFAxUXo1YBHa9KDgIQs9oBKAB6BAgZEAI#ip=1
+
+another attempt to organize my ML readings ..
+https://gist.github.com/debasishg/b4df1648d3f1776abdff
+
+Issue search results
+https://github.com/search?q=involves%3Agdb&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Awingo&type=issues
+
+• Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+cargo run with debugger - Google 搜索
+https://www.google.com/search?q=cargo+run+with+debugger&rlz=1C1GCEA_enJP1090JP1090&oq=cargo+run+with+debugger&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgkIARAAGA0YgATSAQg0NzEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+linux - How to set tab to 4 spaces in vim? - Super User
+https://superuser.com/questions/505937/how-to-set-tab-to-4-spaces-in-vim
+
+What is rust's lambda syntax and design rationale? : r/rust
+https://www.reddit.com/r/rust/comments/46w4g4/what_is_rusts_lambda_syntax_and_design_rationale/
+
+servo/ports/servoshell/events_loop.rs at a7ad92d9a3411e97244b3e1bbd4d939a3af83a32 · servo/servo
+https://github.com/servo/servo/blob/a7ad92d9a3411e97244b3e1bbd4d939a3af83a32/ports/servoshell/events_loop.rs#L27
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+deno/cli/lsp/mod.rs at 99720d0713ecc17245e9b08652aadcb160d92cb8 · denoland/deno
+https://github.com/denoland/deno/blob/99720d0713ecc17245e9b08652aadcb160d92cb8/cli/lsp/mod.rs#L86
+
+deno/cli/lsp/language_server.rs at 99720d0713ecc17245e9b08652aadcb160d92cb8 · denoland/deno
+https://github.com/denoland/deno/blob/99720d0713ecc17245e9b08652aadcb160d92cb8/cli/lsp/language_server.rs#L170
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Reducing tail latencies with automatic cooperative task yielding | Tokio - An asynchronous Rust runtime
+https://tokio.rs/blog/2020-04-preemption
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771
+
+Add cooperative task yielding by jonhoo · Pull Request #2160 · tokio-rs/tokio
+https://github.com/tokio-rs/tokio/pull/2160
+
+servo/pathfinder: A fast, practical GPU rasterizer for fonts and vector graphics
+https://github.com/servo/pathfinder
+
+Issue search results
+https://github.com/search?q=involves%3Ahawkw&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Acarllerche&type=issues&p=2
+
+dtolnay (David Tolnay)
+https://github.com/dtolnay
+
+Issue search results
+https://github.com/search?q=involves%3Adtolnay&type=issues
+
+bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust
+https://github.com/bevyengine/bevy
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
