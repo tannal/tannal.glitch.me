@@ -26,7 +26,7 @@ https://github.com/servo/servo/issues/23865
 https://github.com/servo/servo/issues/24901
 https://github.com/servo/servo/issues/25514
 
-
+./mach run -d -- ~/tannalwork/cans/test.html -Z dump-style-tree
 ./mach run -d -- -Z dump-style-tree
 
 	bubble-inline-sizes-separately      Bubble intrinsic widths separately like other engines.

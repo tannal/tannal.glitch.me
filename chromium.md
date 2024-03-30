@@ -1,5 +1,9 @@
 # inbox
 
+handle all nostop
+
+./out/Default/chrome http://192.168.43.1:8080/quill.html --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
 MainThreadSchedulerImpl::OnTaskCompleted
 
 指令集仿真器、二进制翻译
