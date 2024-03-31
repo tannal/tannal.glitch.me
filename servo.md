@@ -1,6 +1,11 @@
 
 # inbox
 
+SharedArrayBuffer
+
+./mach test-wpt ./tests/wpt/tests/workers/postMessage*
+./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/workers/postMessage*
+
 script thread 
 #[derive(Debug)]
 enum MixedMessage {

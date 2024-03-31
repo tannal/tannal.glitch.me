@@ -1,6 +1,11 @@
 # inbox
 
-chromium 
+
+out/Default/chrome --disable-hang-monitor third_party/blink/web_tests/external/wpt/workers/postMessage
+
+find . -name run_wpt_tests.py
+
+third_party/blink/tools/run_wpt_tests.py --release -p chrome third_party/blink/web_tests/external/wpt/html/dom
 
 handle all nostop
 

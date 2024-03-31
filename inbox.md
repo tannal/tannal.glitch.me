@@ -1,5 +1,7 @@
 # 2024-3-31 0 | 0 W
 
+https://github.com/search?q=involves%3Asaschanaz&type=issues
+
 psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
 
 involves:eholk
