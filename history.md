@@ -1,5 +1,170 @@
 # 2024-3-31
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+Match event loop wakeups to expected messages · Issue #23865 · servo/servo
+https://github.com/servo/servo/issues/23865
+
+servo/components/compositing/compositor.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/compositing/compositor.rs#L1010
+
+hololens: XR hangs · Issue #23832 · servo/servo
+https://github.com/servo/servo/issues/23832
+
+jdm/servo at webgl-main-thread-sync
+https://github.com/jdm/servo/tree/webgl-main-thread-sync
+
+speed up system calls - Google 搜索
+https://www.google.com/search?q=speed+up+system+calls&rlz=1C1GCEA_enJP1090JP1090&oq=speed+up+system+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGA8YHjIGCAgQABgeMggICRAAGA8YHtIBCTEwNDY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+atc22-kuznetsov.pdf
+https://www.usenix.org/system/files/atc22-kuznetsov.pdf
+
+System calls in Linux are really fast. So saving "thousands" of system calls whe... | Hacker News
+https://news.ycombinator.com/item?id=13698445
+
+IRET/IRETD/IRETQ — Interrupt Return
+https://www.felixcloutier.com/x86/iret:iretd:iretq
+
+Issue search results
+https://github.com/search?q=%22speed+up+system+calls%22&type=issues&p=2
+
+scvalex.net
+https://scvalex.net/
+
+abstract-binary / kubebro · GitLab
+https://gitlab.com/abstract-binary/kubebro/
+
+GH-116380: Make `glob.glob()` twice as fast by barneygale · Pull Request #116392 · python/cpython
+https://github.com/python/cpython/pull/116392
+
+Issue search results
+https://github.com/search?q=involves%3Abarneygale&type=issues
+
+scvalex (Alexandru Scvorțov)
+https://github.com/scvalex
+
+RazrFalcon/cargo-bloat: Find out what takes most of the space in your executable.
+https://github.com/RazrFalcon/cargo-bloat
+
+Web UI glitches when browser window loses/gains focus in Firefox · Issue #2289 · livebook-dev/livebook
+https://github.com/livebook-dev/livebook
+
+Livebook.dev - The Livebook Blog
+https://news.livebook.dev/
+
+Issue search results
+https://github.com/search?q=involves%3Ayoshuawuyts&type=issues
+
+ChatGPT
+https://chat.openai.com/c/2a41f2d6-e7e3-4148-8018-e8964f2afa22
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+Kron4ek/Wine-Builds: Wine builds (Vanilla, Staging, TkG and Proton)
+https://github.com/Kron4ek/Wine-Builds
+
+is page table a tree - Google 搜索
+https://www.google.com/search?q=is+page+table+a+tree&rlz=1C1GCEA_enJP1090JP1090&oq=is+page+table+a+tree&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDYzMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Page Tables: Keeping them Flat and Hot (Cached)
+https://arxiv.org/pdf/2012.05079.pdf
+
+postgres/postgres: Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
+https://github.com/postgres/postgres
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Page%20Tables&sort=byPopularity&type=story
+
+linusw — people.kernel.org
+https://people.kernel.org/linusw/
+
+people.kernel.org Reader
+https://people.kernel.org/read
+
+kuba-moo/ml-stat: Statistics for mailing list (Linux) development style
+https://github.com/kuba-moo/ml-stat/
+
+people.kernel.org Reader
+https://people.kernel.org/read
+
+Ilias Vougioukas github - Google 搜索
+https://www.google.com/search?q=Ilias+Vougioukas+github&sca_esv=31b20d66ecc178c1&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn080n_DURJK3hgE4uqFzdk4heLDImg%3A1711873230721&ei=zhwJZrHZK5vg1e8Ps4-nkA8&ved=0ahUKEwix-MTeiJ6FAxUbcPUHHbPHCfIQ4dUDCBA&uact=5&oq=Ilias+Vougioukas+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0lsaWFzIFZvdWdpb3VrYXMgZ2l0aHViSJoMUABYnwtwAHgAkAEAmAHTAaABnQqqAQUwLjYuMbgBA8gBAPgBAZgCA6ACpgTCAgQQABgewgIHECEYChigAZgDAJIHAzAuM6AH5QU&sclient=gws-wiz-serp#ip=1
+
+arXiv:2403.04635v1 [cs.AR] 7 Mar 2024
+https://arxiv.org/pdf/2403.04635.pdf
+
+SAFARI Research Group at ETH Zurich and Carnegie Mellon University
+https://github.com/CMU-SAFARI
+
+queryplan 执行 postgresql - Google 搜索
+https://www.google.com/search?q=queryplan+%E6%89%A7%E8%A1%8C+postgresql&sca_esv=a793da27159ce01a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08MdYCI-MLXzsWmqT7bSSeIy8T5zw%3A1711877072804&ei=0CsJZtnaMO3D1e8PkZCl2AY&ved=0ahUKEwjZgsuGl56FAxXtYfUHHRFICWsQ4dUDCBA&uact=5&oq=queryplan+%E6%89%A7%E8%A1%8C+postgresql&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3F1ZXJ5cGxhbiDmiafooYwgcG9zdGdyZXNxbDIIEAAYgAQYogQyCBAAGIAEGKIESJ0mUMMGWJoUcAF4AZABAJgB4gGgAY0RqgEGMC4xMS4xuAEDyAEA-AEBmAIJoALUC8ICChAAGEcY1gQYsAPCAgUQIRigAZgDAIgGAZAGB5IHBTEuNy4xoAfpDw&sclient=gws-wiz-serp#ip=1
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=working&sort=byPopularity&type=story
+
+software industry - Should I quit my job if I am taking over a bad code base with not-so-good support from the original creators? - The Workplace Stack Exchange
+https://workplace.stackexchange.com/questions/170772/should-i-quit-my-job-if-i-am-taking-over-a-bad-code-base-with-not-so-good-suppor
+
+Stop saying “technical debt” - Stack Overflow
+https://stackoverflow.blog/open-source/
+
+When Developers Leave — Where Does the Knowledge Go? : r/programming
+https://www.reddit.com/r/programming/comments/x7mr4h/when_developers_leave_where_does_the_knowledge_go/
+
+how-javascript-works/worker.md at master · Troland/how-javascript-works
+https://github.com/Troland/how-javascript-works/blob/master/worker.md
+
+How JavaScript works: The building blocks of Web Workers + 5 cases when you should use them | by Alexander Zlatkov | SessionStack Blog | Medium
+https://medium.com/sessionstack-blog/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Borgo Programming Language
+https://borgo-lang.github.io/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=zig&sort=byPopularity&type=story
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+Releases · ziglang/zig
+https://github.com/ziglang/zig?tab=readme-ov-file
+
+Install Zig from a Package Manager · ziglang/zig Wiki
+https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager
+
+硅谷 - Google 搜索
+https://www.google.com/search?q=%E7%A1%85%E8%B0%B7&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%A1%85%E8%B0%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQyMDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+xerox - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TewME82V2A0YHRg8GKtSC3KrwAAM6IFLg&q=xerox&rlz=1C1GCEA_enJP1090JP1090&oq=Xero&gs_lcrp=EgZjaHJvbWUqDQgCEC4YxwEY0QMYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyDQgCEC4YxwEY0QMYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQg5NjMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+xerox parc - Google 搜索
+https://www.google.com/search?q=xerox+parc&rlz=1C1GCEA_enJP1090JP1090&oq=xerox+parc&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQkxNDI1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+帕洛阿尔托 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B8%95%E7%BE%85%E5%A5%A7%E5%9C%96
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Chrome%20development%20team%20from%20left%2C%20Mark%20Larson%2C%20Brian%20Rakowski%2C%20Darin%20Fisher%2C%20and%20Ben%20Goodger%20*%0APhoto%3A%20Joe%20Pugliese%20*Brian%20Rakowski%20walks%20to%20the%20whiteboard%20in%20a%20small%20conference%20room%20in%20Building%2041%20on%20Google%27s%20Mountain%20View%20campus.%20A%20lanky%2C%20gregarious%20man%20in%20his%20twenties%2C%20Rakowski%20is%20the%20product%20manager%20of%20a%20top-secret%20project%20that%27s%20been%20under%20way%20for%20more%20than%20two%20years.%20The%20weekly%20Monday%20meeting%20of%20managers%20%E2%80%94%20or%20%22leads%2C%22%20as%20Google%20puts%20it%20in%20its%20nonhierarchical%20way%20%E2%80%94%20will%20be%20one%20of%20the%20last%20before%20the%20upcoming%20launch.%20Rakowski%20writes%2012%20items%20on%20the%20board%20with%20a%20black%20dry-erase%20marker.%20The%20first%20is%20%22State%20of%20the%20Release.%22%20It%27s%20late%20August%2C%20and%20the%20release%20in%20question%20is%20called%20Chrome%2C%20Google%27s%20first%20Web%20browser.%20Since%20a%20browser%20is%20the%20linchpin%20of%20Web%20activity%20%E2%80%94%20the%20framework%20for%20our%20searching%2C%20reading%2C%20buying%2C%20banking%2C%20Facebooking%2C%20chatting%2C%20video%20watching%2C%20music%20appreciation%2C%20and%20porn%20consumption%20%E2%80%94%20this%20is%20huge%20for%20Google%2C%20a%20step%20that%20needed%20to%20wait%20until%20the%20company%20had%2C%20essentially%2C%20come%20of%20age.%20It%20is%20an%20explicit%20attempt%20to%20accelerate%20the%20movement%20of%20computing%20off%20the%20desktop%20and%20into%20the%20cloud%20%E2%80%94%20where%20Google%20holds%20advantage.%20And%20it%27s%20an%20aggressive%20move%20destined%20to%20put%20the%20company%20even%20more%20squarely%20in%20the%20crosshairs%20of%20its%20rival%20Microsoft%2C%20which%20long%20ago%20crushed%20the%20most%20fabled%20browser%20of%20all%2C%20Netscape%20Navigator.&op=translate
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

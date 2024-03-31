@@ -1,5 +1,29 @@
 # 2024-3-31 0 | 0 W
 
+involves:basicthinker
+
+postgresql
+involves:petere
+involves:bmomjian
+involves:anarazel
+involves:mhagander
+
+
+involves:scvalex
+
+
+rust
+involves:yoshuawuyts
+
+cpython
+involves:barneygale
+involves:serhiy-storchaka
+
+500 cycles
+speed up syscall bypass syscalls
+
+
+
 https://github.com/search?q=involves%3Asaschanaz&type=issues
 
 psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
