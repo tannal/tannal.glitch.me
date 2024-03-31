@@ -1,4 +1,17 @@
+# 2024-4-1 0 | 0 W
+
+involves:lukewarlow 
+
+whatwg chat room
+https://app.element.io/#/room/#whatwg:matrix.org
+
+
 # 2024-3-31 0 | 0 W
+
+
+
+ps -eo pcpu,pid,user,args | tail -n +2 | sort -k1 -r -n | head -10
+
 
 involves:basicthinker
 
@@ -80,6 +93,7 @@ wpt
 involves:gsnedders
 involves:dbaron
 involves:stephenmcgruer
+involves:tabatkins
 
 test-262
 involves:leobalter

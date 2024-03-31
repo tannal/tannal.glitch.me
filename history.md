@@ -1,3 +1,68 @@
+# 2024-4-1
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+check which process runing on cpu core linux - Google 検索
+https://www.google.com/search?q=check+which+process+runing+on+cpu+core+linux&client=ubuntu-sn&hs=Q2e&sca_esv=23c07de5ac49e31f&channel=fs&ei=WmUJZoW4KLbf2roPw9a14Ak&ved=0ahUKEwiFzar2zZ6FAxW2r1YBHUNrDZwQ4dUDCBA&uact=5&oq=check+which+process+runing+on+cpu+core+linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiLGNoZWNrIHdoaWNoIHByb2Nlc3MgcnVuaW5nIG9uIGNwdSBjb3JlIGxpbnV4MgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSP8RUOAOWPAQcAN4AZABAJgB7QGgAa4DqgEFMC4xLjG4AQPIAQD4AQGYAgOgAgiYAwCIBgGQBgqSBwEzoAe7Bg&sclient=gws-wiz-serp
+
+linux - How to see which CPU has which processes running on it? - Stack Overflow
+https://stackoverflow.com/questions/23885053/how-to-see-which-cpu-has-which-processes-running-on-it
+
+proc(5): process info pseudo-file system - Linux man page
+https://linux.die.net/man/5/proc
+
+web-platform-tests dashboard
+https://wpt.fyi/results/workers/postMessage_block.https.html?label=experimental&label=master&aligned
+
+web-platform-tests dashboard
+https://wpt.fyi/results/workers?label=experimental&label=master&aligned
+
+web-platform-tests dashboard
+https://wpt.fyi/about
+
+Data URL iframes cannot create a data URL shared worker [40676418] - Chromium
+https://issues.chromium.org/issues/40676418
+
+postMessage timout chromium - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=postMessage+timout+chromium
+
+postMessage - Chromium
+https://issues.chromium.org/issues?q=postMessage
+
+linux - How to find which Process is causing High CPU usage - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/20483/how-to-find-which-process-is-causing-high-cpu-usage
+
+インテル® Core™ i7-13700KF プロセッサー
+https://www.intel.co.jp/content/www/jp/ja/products/sku/230489/intel-core-i713700kf-processor-30m-cache-up-to-5-40-ghz/specifications.html
+
+Issue search results
+https://github.com/search?q=involves%3Adbaron&type=issues
+
+[css-syntax-3] `url(` followed by comment(s) · Issue #10125 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10125
+
+Issue search results
+https://github.com/search?q=involves%3Atabatkins&type=issues
+
+Chat — WHATWG
+https://whatwg.org/chat
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+hober (Theresa O'Connor)
+https://github.com/hober
+
+Live DOM Viewer
+https://software.hixie.ch/utilities/js/live-dom-viewer/?%3C!DOCTYPE%20html%3E%0A%3Cmath%3E%0A%20%20%3Ca%3E%0A%20%20%20%20%3Cmrow%20id%3Dmrow%3E%0A%20%20%20%20%3C%2Fmrow%3E%0A%20%20%3C%2Fa%3E%0A%3C%2Fmath%3E%0A%3Coutput%20id%3Dout%3E%0A%3Cscript%3E%0A%20%20%20out.innerHTML%20%3D%20mrow.namespaceURI%0A%3C%2Fscript%3E
+
+Issue search results
+https://github.com/search?q=involves%3Alukewarlow%20&type=issues
+
+Imperative invoker relationships · Issue #1024 · openui/open-ui
+https://github.com/openui/open-ui/issues/1024
+
 # 2024-3-31
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
