@@ -1,3 +1,40 @@
+# 2024-3-31 0 | 0 W
+
+
+involves:steveklabnik
+involves:nicoburns
+
+xv6-public
+involves:kaashoek
+involves:phf
+involves:aclements
+involves:zeldovich
+involves:aliceinwire
+involves:tchajed
+involves:Icenowy
+
+
+int iret syscall sysret sysenter page fault(mov) hardware exception
+
+involves:giuliobenetti
+involves:tkso1997
+
+https://wiki.linuxfoundation.org/gsoc/2024-gsoc-perf
+
+make sense flush 
+make sense flush
+
+code run/debug/log tell you the idea
+change the code to program slightly different idea
+
+DOM + CSS CSS Animation & Javascript Animation
+
+Canvas svg
+
+WebGL Webgpu shader texture
+
+
+
 # 2024-3-30 0 | 0 W
 
 https://github.com/cisen/blog/issues

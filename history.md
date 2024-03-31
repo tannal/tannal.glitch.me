@@ -1,3 +1,140 @@
+# 2024-3-31
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Excalidraw
+https://excalidraw.com/
+
+Excalidraw
+https://excalidraw.com/
+
+FFmpeg
+https://ffmpeg.org/
+
+ffmpeg剪切视频文件命令
+https://moejj.com/ffmpeg/
+
+split a large video file to small clips ask ubuntu - Google 搜索
+https://www.google.com/search?q=split+a+large+video+file+to+small+clips+ask+ubuntu&sca_esv=41aa461167895434&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08TeH5_fXOhguF5PHZg8weX9PrHiA%3A1711858164813&ei=9OEIZuanMf3d2roP0pyl4Aw&ved=0ahUKEwjm8cbO0J2FAxX9rlYBHVJOCcwQ4dUDCBA&uact=5&oq=split+a+large+video+file+to+small+clips+ask+ubuntu&gs_lp=Egxnd3Mtd2l6LXNlcnAiMnNwbGl0IGEgbGFyZ2UgdmlkZW8gZmlsZSB0byBzbWFsbCBjbGlwcyBhc2sgdWJ1bnR1MggQABiABBiiBDIIEAAYgAQYogRImA9QTliwDXABeAGQAQCYAegBoAGJEaoBBTAuNy40uAEDyAEA-AEBmAILoALSD8ICChAAGEcY1gQYsAPCAgUQIRigAcICBxAhGAoYoAGYAwCIBgGQBgqSBwUxLjcuM6AH3RI&sclient=gws-wiz-serp
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ffmpeg - Split a large video file into small clips 15 seconds each - Ask Ubuntu
+https://askubuntu.com/questions/640214/split-a-large-video-file-into-small-clips-15-seconds-each
+
+Issue search results
+https://github.com/search?q=%22youtube.com%2F%22&type=issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E4%BB%8A%E3%81%AE%E6%9C%88%E3%80%85%E3%81%BE%E3%81%9F%E3%81%AF1%E6%97%A5%E3%81%AE%E3%81%8A%E7%B5%A6%E6%96%99%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AF%E5%8F%AF%E8%83%BD%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%3F&op=translate
+
+Do The Japanese Feel Poor? | Street Interview - YouTube
+https://www.youtube.com/watch?v=Nwg8ZxycA1s
+
+GitHub
+https://github.com/
+
+Browser Event Loop · Issue #21 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/21
+
+Agents, Event Loops and Microtask Queues in Blink - Google 文档
+https://docs.google.com/document/d/1GSHp-KoP4M1oq-vQaw8W8g93lm_k1zsykP_GAzRrbYo/edit
+
+Cooperative Scheduling - Google 文档
+https://docs.google.com/document/d/1bM_1SjE25NMQrD4IJFAPc1tI4i8tvSET2f0IgjukRho/edit
+
+githubnext github copolot-cli - Google 搜索
+https://www.google.com/search?q=githubnext+github+copolot-cli&rlz=1C1GCEA_enJP1090JP1090&oq=githubnext+github+copolot-cli&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCTExNjc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+GitHub Next
+https://githubnext.com/
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno%20Cli%3Aparse&type=code
+
+[Error] ImportError to specific package(html5lib) · Issue #30531 · servo/servo
+https://github.com/servo/servo/issues/30531
+
+declarative programming - Google 搜索
+https://www.google.com/search?q=declarative+programming&rlz=1C1GCEA_enJP1090JP1090&oq=declarative&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDc0MzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=declarative%20programming&sort=byPopularity&type=story
+
+A Universe of Sorts
+https://bollu.github.io/mathemagic/declarative/index.html
+
+PUBLICATIONS - Home
+https://faculty.cc.gatech.edu/~jarulraj/pages/publications.html
+
+ChatGPT
+https://chat.openai.com/c/37f69433-375e-4563-a0d2-53e5baff6356
+
+ext4_inode_table - Google 搜索
+https://www.google.com/search?q=ext4_inode_table&rlz=1C1GCEA_enJP1090JP1090&oq=ext4_inode_table&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCjE2MDgzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Ext4 Disk Layout - Ext4
+https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout#Inode_Table
+
+Perf Wiki
+https://perf.wiki.kernel.org/index.php/Main_Page
+
+Contributor Registration | Google Summer of Code
+https://summerofcode.withgoogle.com/register/contributor
+
+gsoc:2024-gsoc-perf [Wiki]
+https://wiki.linuxfoundation.org/gsoc/2024-gsoc-perf
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+xv6-public/traps.h at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/traps.h#L27
+
+linux/arch/x86/include/asm/trapnr.h at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/arch/x86/include/asm/trapnr.h
+
+Code search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux%20X86_TRAP_PF&type=code
+
+linux/arch/x86/entry/vsyscall/vsyscall_64.c at 712e14250dd2907346617eba275c46f53db8fae7 · torvalds/linux
+https://github.com/torvalds/linux/blob/712e14250dd2907346617eba275c46f53db8fae7/arch/x86/entry/vsyscall/vsyscall_64.c#L111
+
+CS 6410 - Fall 2022 | Schedule
+https://www.cs.cornell.edu/courses/cs6410/2022fa/schedule/
+
+How should I get back after a go-to-definition action? · Issue #434 · prabirshrestha/vim-lsp
+https://github.com/prabirshrestha/vim-lsp/issues/434
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Issue search results
+https://github.com/search?q=%22do_mem_abort%22&type=issues&p=8
+
+neovide - Google 搜索
+https://www.google.com/search?q=neovide&rlz=1C1GCEA_enJP1090JP1090&oq=neovide&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIJCAEQABgKGIAEMgcIAhAAGIAEMgkIAxAAGAoYgAQyCQgEEAAYChiABDIJCAUQABgKGIAEMgkIBhAAGAoYgAQyCQgHEAAYChiABDIJCAgQABgKGIAEMgkICRAAGAoYgASoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+mit-pdos/xv6-public: xv6 OS
+https://github.com/mit-pdos/xv6-public
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Rust%20Mozilla&sort=byPopularity&type=story
+
+Ask HN: What is the future of Rust after the Mozilla layoffs? | Hacker News
+https://news.ycombinator.com/item?id=24133893
+
+Mozilla employs a small number of people to work on Rust fulltime, and many of t... | Hacker News
+https://news.ycombinator.com/item?id=24133342
+
+Tons of stuff. We've got everyone in FAANG but Netflix, Microsoft, Cloudflare...... | Hacker News
+https://news.ycombinator.com/item?id=24133840
+
 # 2024-3-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

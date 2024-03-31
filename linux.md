@@ -1,6 +1,10 @@
 
 # inbox
 
+traps.h#L27
+
+https://github.com/torvalds/linux/blob/master/arch/x86/include/asm/trapnr.h
+
 ext4_file_write_iter
 
 git clone https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/

@@ -1,3 +1,620 @@
+# Product
+
+package main
+
+import (
+	"fmt"
+)
+
+type Student struct {
+	ID   int
+	Name string
+}
+
+type Course struct {
+	Code string
+	Name string
+}
+
+type ProductResult struct {
+	StudentID   int
+	StudentName string
+	CourseCode  string
+	CourseName  string
+}
+
+func CartesianProduct(students []Student, courses []Course) []ProductResult {
+	var result []ProductResult
+
+	for _, student := range students {
+		for _, course := range courses {
+			result = append(result, ProductResult{
+				StudentID:   student.ID,
+				StudentName: student.Name,
+				CourseCode:  course.Code,
+				CourseName:  course.Name,
+			})
+		}
+	}
+
+	return result
+}
+
+func main() {
+	// Sample data
+	students := []Student{
+		{ID: 1, Name: "Alice"},
+		{ID: 2, Name: "Bob"},
+	}
+
+	courses := []Course{
+		{Code: "CS101", Name: "Introduction to Computer Science"},
+		{Code: "ENG101", Name: "English Composition"},
+	}
+
+	// Perform Cartesian product
+	result := CartesianProduct(students, courses)
+
+	// Print result
+	fmt.Println("Cartesian Product Result:")
+	for _, item := range result {
+		fmt.Printf("Student ID: %d, Student Name: %s, Course Code: %s, Course Name: %s\n", item.StudentID, item.StudentName, item.CourseCode, item.CourseName)
+	}
+}
+
+
+# Select
+
+package main
+
+import (
+	"fmt"
+)
+
+type Student struct {
+	ID    int
+	Name  string
+	Grade int
+}
+
+func SelectField(students []Student, field string, condition func(s Student) bool) []interface{} {
+	var result []interface{}
+
+	for _, student := range students {
+		if condition(student) {
+			switch field {
+			case "ID":
+				result = append(result, student.ID)
+			case "Name":
+				result = append(result, student.Name)
+			case "Grade":
+				result = append(result, student.Grade)
+			default:
+				// Handle invalid field
+				result = append(result, nil)
+			}
+		}
+	}
+
+	return result
+}
+
+func main() {
+	// Sample data
+	students := []Student{
+		{ID: 1, Name: "Alice", Grade: 85},
+		{ID: 2, Name: "Bob", Grade: 75},
+		{ID: 3, Name: "Charlie", Grade: 90},
+	}
+
+	// Define condition (e.g., students with grade >= 80)
+	condition := func(s Student) bool {
+		return s.Grade >= 80
+	}
+
+	// Perform select operation for ID field
+	result := SelectField(students, "ID", condition)
+
+	// Print result
+	fmt.Println("Result of Select (ID):", result)
+}
+
+
+package main
+
+import (
+	"fmt"
+)
+
+type Student struct {
+	ID    int
+	Name  string
+	Grade int
+}
+
+func Select(students []Student, condition func(s Student) bool) []Student {
+	var result []Student
+
+	for _, student := range students {
+		if condition(student) {
+			result = append(result, student)
+		}
+	}
+
+	return result
+}
+
+func main() {
+	// Sample data
+	students := []Student{
+		{ID: 1, Name: "Alice", Grade: 85},
+		{ID: 2, Name: "Bob", Grade: 75},
+		{ID: 3, Name: "Charlie", Grade: 90},
+	}
+
+	// Define condition (e.g., students with grade >= 80)
+	condition := func(s Student) bool {
+		return s.Grade >= 80
+	}
+
+	// Perform select operation
+	result := Select(students, condition)
+
+	// Print result
+	fmt.Println("Result of Select:")
+	for _, student := range result {
+		fmt.Printf("ID: %d, Name: %s, Grade: %d\n", student.ID, student.Name, student.Grade)
+	}
+}
+
+
+# Division
+
+package main
+
+import (
+	"fmt"
+)
+
+type Customer struct {
+	ID   int
+	Name string
+}
+
+type Order struct {
+	ID         int
+	CustomerID int
+}
+
+func Division(customers []Customer, orders []Order) []Customer {
+	var result []Customer
+
+	for _, customer := range customers {
+		isRelated := true
+
+		for _, order := range orders {
+			if customer.ID == order.CustomerID {
+				isRelated = false
+				break
+			}
+		}
+
+		if isRelated {
+			result = append(result, customer)
+		}
+	}
+
+	return result
+}
+
+func main() {
+	// Sample data
+	customers := []Customer{
+		{ID: 1, Name: "Alice"},
+		{ID: 2, Name: "Bob"},
+		{ID: 3, Name: "Charlie"},
+	}
+
+	orders := []Order{
+		{ID: 1, CustomerID: 1},
+		{ID: 2, CustomerID: 2},
+	}
+
+	// Perform division
+	result := Division(customers, orders)
+
+	// Print result
+	fmt.Println("Result of Division:")
+	for _, customer := range result {
+		fmt.Printf("ID: %d, Name: %s\n", customer.ID, customer.Name)
+	}
+}
+
+
+# Sort
+
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+type Person struct {
+	ID   int
+	Name string
+	Age  int
+}
+
+type ByAge []Person
+
+func (a ByAge) Len() int           { return len(a) }
+func (a ByAge) Less(i, j int) bool { return a[i].Age < a[j].Age }
+func (a ByAge) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+
+func main() {
+	// Sample data
+	people := []Person{
+		{ID: 1, Name: "Alice", Age: 30},
+		{ID: 2, Name: "Bob", Age: 25},
+		{ID: 3, Name: "Charlie", Age: 35},
+	}
+
+	// Sort by age
+	sort.Sort(ByAge(people))
+
+	// Print sorted result
+	fmt.Println("Sorted by Age:")
+	for _, p := range people {
+		fmt.Printf("ID: %d, Name: %s, Age: %d\n", p.ID, p.Name, p.Age)
+	}
+}
+
+
+# Aggregation
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define structs representing data
+type Transaction struct {
+	ID       int
+	Amount   float64
+	Category string
+}
+
+// Sum calculates the sum of amounts in a slice of transactions
+func Sum(transactions []Transaction) float64 {
+	sum := 0.0
+	for _, t := range transactions {
+		sum += t.Amount
+	}
+	return sum
+}
+
+// Average calculates the average of amounts in a slice of transactions
+func Average(transactions []Transaction) float64 {
+	sum := Sum(transactions)
+	count := len(transactions)
+	if count == 0 {
+		return 0.0
+	}
+	return sum / float64(count)
+}
+
+func main() {
+	// Sample data
+	transactions := []Transaction{
+		{ID: 1, Amount: 100.50, Category: "Food"},
+		{ID: 2, Amount: 200.75, Category: "Shopping"},
+		{ID: 3, Amount: 50.25, Category: "Food"},
+		{ID: 4, Amount: 150.0, Category: "Food"},
+	}
+
+	// Calculate sum and average of amounts
+	sum := Sum(transactions)
+	average := Average(transactions)
+
+	// Print aggregation results
+	fmt.Printf("Total Sum: %.2f\n", sum)
+	fmt.Printf("Average Amount: %.2f\n", average)
+}
+
+
+# filter
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define structs representing data
+type Person struct {
+	ID   int
+	Name string
+	Age  int
+}
+
+// Filter function applies a filter condition to a slice of structs
+func Filter(people []Person, condition func(p Person) bool) []Person {
+	var filtered []Person
+	for _, p := range people {
+		if condition(p) {
+			filtered = append(filtered, p)
+		}
+	}
+	return filtered
+}
+
+func main() {
+	// Sample data
+	people := []Person{
+		{ID: 1, Name: "Alice", Age: 30},
+		{ID: 2, Name: "Bob", Age: 25},
+		{ID: 3, Name: "Charlie", Age: 35},
+	}
+
+	// Define filter condition (e.g., age greater than 30)
+	condition := func(p Person) bool {
+		return p.Age > 30
+	}
+
+	// Apply filter
+	filteredPeople := Filter(people, condition)
+
+	// Print filtered result
+	for _, p := range filteredPeople {
+		fmt.Printf("ID: %d, Name: %s, Age: %d\n", p.ID, p.Name, p.Age)
+	}
+}
+
+
+# right join
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define structs representing tables
+type Customer struct {
+	ID   int
+	Name string
+}
+
+type Order struct {
+	ID         int
+	CustomerID int
+	Amount     float64
+}
+
+// RightJoin performs a right join operation on two slices of structs
+func RightJoin(customers []Customer, orders []Order) []struct {
+	CustomerName string
+	OrderAmount  float64
+} {
+	var result []struct {
+		CustomerName string
+		OrderAmount  float64
+	}
+
+	// Create a map to store customers by ID
+	customerMap := make(map[int]string)
+	for _, customer := range customers {
+		customerMap[customer.ID] = customer.Name
+	}
+
+	// Iterate through each order
+	for _, order := range orders {
+		// If there's a matching customer, add to result
+		if customerName, ok := customerMap[order.CustomerID]; ok {
+			result = append(result, struct {
+				CustomerName string
+				OrderAmount  float64
+			}{
+				CustomerName: customerName,
+				OrderAmount:  order.Amount,
+			})
+		} else {
+			// If no matching customer, add with an empty name
+			result = append(result, struct {
+				CustomerName string
+				OrderAmount  float64
+			}{
+				CustomerName: "",
+				OrderAmount:  order.Amount,
+			})
+		}
+	}
+	return result
+}
+
+func main() {
+	// Sample data
+	customers := []Customer{
+		{ID: 1, Name: "Alice"},
+		{ID: 2, Name: "Bob"},
+	}
+
+	orders := []Order{
+		{ID: 1, CustomerID: 1, Amount: 100.50},
+		{ID: 2, CustomerID: 2, Amount: 200.75},
+		{ID: 3, CustomerID: 3, Amount: 300.00},
+	}
+
+	// Perform right join
+	joined := RightJoin(customers, orders)
+
+	// Print result
+	for _, record := range joined {
+		fmt.Printf("Customer: %s, Order Amount: $%.2f\n", record.CustomerName, record.OrderAmount)
+	}
+}
+
+
+# left join
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define structs representing tables
+type Customer struct {
+	ID   int
+	Name string
+}
+
+type Order struct {
+	ID         int
+	CustomerID int
+	Amount     float64
+}
+
+// LeftJoin performs a left join operation on two slices of structs
+func LeftJoin(customers []Customer, orders []Order) []struct {
+	CustomerName string
+	OrderAmount  float64
+} {
+	var result []struct {
+		CustomerName string
+		OrderAmount  float64
+	}
+
+	// Create a map to store orders by customer ID
+	orderMap := make(map[int]float64)
+	for _, order := range orders {
+		orderMap[order.CustomerID] = order.Amount
+	}
+
+	// Iterate through each customer
+	for _, customer := range customers {
+		// If there's a matching order, add to result
+		if orderAmount, ok := orderMap[customer.ID]; ok {
+			result = append(result, struct {
+				CustomerName string
+				OrderAmount  float64
+			}{
+				CustomerName: customer.Name,
+				OrderAmount:  orderAmount,
+			})
+		} else {
+			// If no matching order, add with a zero amount
+			result = append(result, struct {
+				CustomerName string
+				OrderAmount  float64
+			}{
+				CustomerName: customer.Name,
+				OrderAmount:  0,
+			})
+		}
+	}
+	return result
+}
+
+func main() {
+	// Sample data
+	customers := []Customer{
+		{ID: 1, Name: "Alice"},
+		{ID: 2, Name: "Bob"},
+		{ID: 3, Name: "Charlie"},
+	}
+
+	orders := []Order{
+		{ID: 1, CustomerID: 1, Amount: 100.50},
+		{ID: 2, CustomerID: 2, Amount: 200.75},
+	}
+
+	// Perform left join
+	joined := LeftJoin(customers, orders)
+
+	// Print result
+	for _, record := range joined {
+		fmt.Printf("Customer: %s, Order Amount: $%.2f\n", record.CustomerName, record.OrderAmount)
+	}
+}
+
+
+# Golang inner Join
+
+```go
+
+package main
+
+import (
+	"fmt"
+)
+
+// Define structs representing tables
+type Customer struct {
+	ID   int
+	Name string
+}
+
+type Order struct {
+	ID         int
+	CustomerID int
+	Amount     float64
+}
+
+// InnerJoin performs an inner join operation on two slices of structs
+func InnerJoin(customers []Customer, orders []Order) []struct {
+	CustomerName string
+	OrderAmount  float64
+} {
+	var result []struct {
+		CustomerName string
+		OrderAmount  float64
+	}
+
+	// Iterate through each customer and order
+	for _, customer := range customers {
+		for _, order := range orders {
+			// If there's a match on customer ID, add to result
+			if customer.ID == order.CustomerID {
+				result = append(result, struct {
+					CustomerName string
+					OrderAmount  float64
+				}{
+					CustomerName: customer.Name,
+					OrderAmount:  order.Amount,
+				})
+			}
+		}
+	}
+	return result
+}
+
+func main() {
+	// Sample data
+	customers := []Customer{
+		{ID: 1, Name: "Alice"},
+		{ID: 2, Name: "Bob"},
+	}
+
+	orders := []Order{
+		{ID: 1, CustomerID: 1, Amount: 100.50},
+		{ID: 2, CustomerID: 2, Amount: 200.75},
+	}
+
+	// Perform inner join
+	joined := InnerJoin(customers, orders)
+
+	// Print result
+	for _, record := range joined {
+		fmt.Printf("Customer: %s, Order Amount: $%.2f\n", record.CustomerName, record.OrderAmount)
+	}
+}
+
+
+```
+
 # Floyd's cycle-finding algorithm
 
 ```js
