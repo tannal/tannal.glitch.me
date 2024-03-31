@@ -1,5 +1,29 @@
 # 2024-3-30 0 | 0 W
 
+https://github.com/cisen/blog/issues
+
+checkpoint
+
+人口 能源 AI
+
+population
+energy
+Artificial Inteligence
+
+wpt
+involves:gsnedders
+involves:dbaron
+involves:stephenmcgruer
+
+test-262
+involves:leobalter
+involves:ptomato
+involves:rwaldron
+involves:legendecas
+involves:FrankYFTang
+involves:shvaikalesh
+
+
 involves:mcollina
 involves:anonrig
 involves:mertcanaltin
@@ -39,6 +63,8 @@ involves:nikomatsakis
 involves:ashleygwilliams
 involves:nrc
 involves:tbu-
+involves:cuviper
+involves:RReverser
 
 involves:glennw
 involves:kvark

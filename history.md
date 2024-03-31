@@ -3,6 +3,165 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno%20try_borrow&type=code
+
+rust sma - Google 搜索
+https://www.google.com/search?q=rust+sma&rlz=1C1GCEA_enJP1090JP1090&oq=rust+sma&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDzSAQgyMDk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Search
+https://github.com/search
+
+rros on Zulip: Your new account details - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbhgXWSBsgGWQWpwdDXTFRXt
+
+xmake-io/xmake: 🔥 A cross-platform build utility based on Lua
+https://github.com/xmake-io/xmake
+
+cppcon xmake - Google 搜索
+https://www.google.com/search?q=cppcon+xmake&rlz=1C1GCEA_enJP1090JP1090&oq=cppcon+xmake&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDI0NjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+n&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgYIAhBFGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDyoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+rayon-rs/rayon: Rayon: A data parallelism library for Rust
+https://github.com/rayon-rs/rayon
+
+Issue search results
+https://github.com/search?q=involves%3Acuviper&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3ARReverser&type=issues&p=2
+
+Issues · acornjs/acorn
+https://github.com/acornjs/acorn/issues
+
+Contributors to tc39/test262
+https://github.com/tc39/test262/graphs/contributors?from=2019-09-20&to=2024-03-31&type=c
+
+GitHub
+https://github.com/
+
+Issue search results
+https://github.com/search?q=involves%3Aleobalter&type=issues
+
+Igalia/wkdev-sdk: The all-in-one SDK for WebKit GTK/WPE port development.
+https://github.com/Igalia/wkdev-sdk
+
+Issue search results
+https://github.com/search?q=involves%3Alegendecas&type=issues&p=3
+
+Issue search results
+https://github.com/search?q=involves%3AFrankYFTang&type=issues&p=3
+
+WebKit export tool still asks people for reviews · Issue #164 · web-platform-tests/wpt-pr-bot
+https://github.com/web-platform-tests/wpt-pr-bot/issues/164
+
+[css-syntax-3] `url(` followed by comment(s) · Issue #10125 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10125
+
+FindBugs™ - Find Bugs in Java Programs
+https://findbugs.sourceforge.net/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=standford%20cs492&sort=byPopularity&type=story
+
+promising semantics - Google 搜索
+https://www.google.com/search?q=promising+semantics&rlz=1C1GCEA_enJP1090JP1090&oq=promising+seman&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABNIBCDc5NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Repository search results
+https://github.com/search?q=promising%20semantics&type=repositories
+
+kaist-cp/cs431
+https://github.com/kaist-cp/cs431
+
+Stanford University Explore Courses
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=CS140%3A+Operating+Systems+and+Systems+Programming&collapse=
+
+dddrrreee/cs140e-23win: All material for CS140E, winter 2023.
+https://github.com/dddrrreee/cs140e-23win
+
+cs140e-23win/guides/debugging.md at main · dddrrreee/cs140e-23win
+https://github.com/dddrrreee/cs140e-23win/blob/main/guides/debugging.md
+
+CS 330 Deep Multi-Task and Meta Learning
+https://cs330.stanford.edu/fall2019/index.html
+
+new-hclh-main.dvi
+https://people.csail.mit.edu/shanir/publications/CLH.pdf
+
+Issue search results
+https://github.com/search?q=%22Sun+microsystems%22&type=issues&p=2
+
+Even Sun Microsystems Had Its Roots at Xerox PARC · Issue #554 · hallmark/gitwebhook
+https://github.com/hallmark/gitwebhook/issues/554
+
+Even Sun Microsystems Had Its Roots at Xerox PARC
+https://www.phind.com/search?cache=x2j21okwfxbqj9qra7dsfmgd
+
+每周分享：第37期 · Issue #59 · SaltzmanAlaric/Mirror-blog
+https://github.com/SaltzmanAlaric/Mirror-blog/issues/59
+
+The team behind xxx · Issue #19 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/19
+
+比尔·乔伊 - Google 搜索
+https://www.google.com/search?sca_esv=5f93f76fec53b845&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08VbjLupPxY2MbUr_Wcpa3v07HYqQ:1711848668570&q=%E6%AF%94%E5%B0%94%C2%B7%E4%B9%94%E4%BC%8A&si=AKbGX_ry7XLrUezXuJ6PHGs8zQM4sa7T1CxpFSOaKG7NBDZmp160zFjfnAFOTEM38VhEI7VphEec_Lm5vuuKkUAQMvxgwVRLTUqrGZVL810dupsjxHG_o2U6qiYyjV0MKHr6GRNhzP_PvW9OrLMtwiigPkQHxh20zdiZCEebS29CxpEpvmwugxB3tmFvZ9wanI5BP-ci9c18Kd112oyVtQrtdSfeR7evSl4CvButIdcixfIiewfn5lF_cMIzusB6VODLQUqhym_qmVQcm-f3gPB-z4qxHmdTyw%3D%3D&sa=X&ved=2ahUKEwjOkbKerZ2FAxWWmFYBHdgvC9MQ6RN6BAgmEAE&biw=1536&bih=703&dpr=1.25
+
+William Nelson Joy github - Google 搜索
+https://www.google.com/search?q=William+Nelson+Joy+github&rlz=1C1GCEA_enJP1090JP1090&oq=William+Nelson+Joy+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKABMgkIBBAhGAoYoAHSAQgxODIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Excalidraw
+https://excalidraw.com/
+
+RROS
+https://bupt-os.github.io/website/
+
+#lab1 - rros - Zulip
+https://rros.zulipchat.com/#narrow/stream/376108-lab1
+
+Sun Microsystems Laboratories - Google 搜索
+https://www.google.com/search?q=Sun+Microsystems+Laboratories&rlz=1C1GCEA_enJP1090JP1090&oq=Sun+Microsystems+Laboratories&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDIxNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Issue search results
+https://github.com/search?q=%22Sun+Microsystems+Laboratories%22&type=issues
+
+Issues · cisen/blog
+https://github.com/cisen/blog/issues
+
+大脑的奖赏回路 - 知乎
+https://zhuanlan.zhihu.com/p/266212056
+
+Algebra, an incremental approach John Saxon - Google 搜索
+https://www.google.com/search?sca_esv=aebe26f82b518f17&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-wglpCT10UNw-pv9iRDoMLa_X45w:1711850738938&q=Algebra,+an+incremental+approach+%E7%BA%A6%E7%BF%B0%C2%B7%E6%92%92%E5%85%8B%E9%80%8A%E7%9A%84%E4%B9%A6%E7%B1%8D&si=AKbGX_rZvB9MUykYagK9VFKRaGIY4Fs0fNIdLKLcEggKlpceXtlxHE-OH8sYntzyD3IKcrPr4UeGaFamEIPvE-N9HNeZmnVjCkFyJguAZfKYNX4Z-ZuqxxfYGu1mJsgHZP7yENWfMsFJCqgQJ2DxkRmaS_P2PV--JBVa3wvOWWBKovAkpHZCed1wJM0Jt7XCcJbCuk8WUJkd4886biS_fqYmTPHNHeamkiqpcaiYdMbWyI0_G3QgHcjGoBk3SifrwpKWwwTlFavuzonPHYP2AtMfEtr4ozsDwp5lN_SGkjw19jSZGn083auaz8o6yXFn3eUiB9hIQIhK5_nr34RowlXmavM4aSdzvA%3D%3D&sa=X&ved=2ahUKEwjkt8_5tJ2FAxVhkq8BHWNsDZYQ6RN6BAghEAE&biw=1536&bih=703&dpr=1.25
+
+Issue search results
+https://github.com/search?q=%22a+incremental+approach%22&type=issues
+
+ffmpeg -i '0001_Part_1--[TutFlix.ORG]--.mp4' -vf "select='mod(n\,60)'" -vsync 0 -q:v 2 -f image2pipe - | ffmpeg -f image2pipe -i - -vf "fps=60,format=yuv420p" output.mp4
+https://www.phind.com/search?q=how+to+use+ffmpeg+input+a+video%2C+and+a+frequency+and+a+size+%2C+output+a+modified+video+that%0A%0Athe+output+video+contains+a+subset+of+the+input+video%0A%0Aa+frequency+means+how+long+we+take+a+slice%0Aeg+if+frequency+is+1s+then+we+select+1s+by+time+as+a+checkpoint%0A%0Athen+we+clip+the+checkpoint+with+the+the+size+long%0A%0Athen+we+resumbble+all+the+pecies+into+one+video+output&ignoreSearchResults=false&allowMultiSearch=false
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E9%87%87%E6%A0%B7%E9%A2%91%E7%8E%87&op=translate
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ffmpeg 裁剪、合并视频的多个部分 - 知乎
+https://zhuanlan.zhihu.com/p/579479802
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+surface pro X - Google 搜索
+https://www.google.com/search?q=surface+pro+X&rlz=1C1GCEA_enJP1090JP1090&oq=surface+pro+X&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDUxOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issue search results
 https://github.com/search?q=involves%3Aisaacs&type=issues&p=7
 
