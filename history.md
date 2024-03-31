@@ -1,5 +1,62 @@
 # 2024-3-31
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Match event loop wakeups to expected messages · Issue #23865 · servo/servo
+https://github.com/servo/servo/issues/23865
+
+postgres dump plan tree - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=postgres+dump+plan+tree#ip=1
+
+The Art of PostgreSQL - PostgreSQL Query Plan Visualizer
+https://theartofpostgresql.com/explain-plan-visualizer/
+
+PostgreSQL Query Plan Visualizer - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=PostgreSQL+Query+Plan+Visualizer
+
+Postgres Explain Visualizer
+https://www.pgexplain.dev/plan/38a966d2-4af3-40c2-b7ee-3500b3145520#plan
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+MessagePort/Webmessaging TODO · Issue #25208 · servo/servo
+https://github.com/servo/servo/issues/25208
+
+Webmessaging: add postMessage to ServiceWorkerGlobalScope · Issue #24660 · servo/servo
+https://github.com/servo/servo/issues/24660
+
+ServiceWorker.postMessage() - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/ServiceWorker/postMessage
+
+brave-browser/README.md at master · brave/brave-browser
+https://github.com/brave/brave-browser/blob/master/README.md
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/web-messaging.html#structuredserializeoptions
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+gdb next only current thread - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gdb+next+only+current+thread
+
+pthreads - How to restrict gdb debugging to one thread at a time - Stack Overflow
+https://stackoverflow.com/questions/6721940/how-to-restrict-gdb-debugging-to-one-thread-at-a-time
+
+All-Stop Mode (Debugging with GDB)
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/All_002dStop-Mode.html
+
+redirect - GDB print to file instead of stdout - Stack Overflow
+https://stackoverflow.com/questions/5941158/gdb-print-to-file-instead-of-stdout
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/workers.html#worker-event-loop
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

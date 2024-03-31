@@ -1,6 +1,33 @@
 
 # inbox
 
+script thread 
+#[derive(Debug)]
+enum MixedMessage {
+    FromConstellation(ConstellationControlMsg),
+    FromScript(MainThreadScriptMsg),
+    FromDevtools(DevtoolScriptControlMsg),
+    FromImageCache((PipelineId, PendingImageResponse)),
+    FromWebGPUServer(WebGPUMsg),
+}
+
+Constellation handle msg from script thread and layout thread
+
+
+
+EmbedderEvent send event to compositor handle hittest
+
+compositor send event to Constellation
+
+Constellation forward event to script 
+
+set logging enabled on
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html 2>&1 | tee /tmp/log.txt
+
+
+./mach run ~/tannalwork/cans/test.html 
+
 
 ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/css-values/calc-size/animatio
 n/calc-size-height-interpolation.tentative.html
@@ -183,7 +210,7 @@ pub struct Event {
     target: MutNullableDom<EventTarget>,
 }
 
-constellation send event ot script thread
+constellation send event to script thread
 
 script_thread handle_event -> document.dispatch
 
