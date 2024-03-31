@@ -1,5 +1,65 @@
 # 2024-3-31
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+v8-internals/slides/V8-constant-pool.pdf at master · plctlab/v8-internals
+https://github.com/plctlab/v8-internals/blob/master/slides/V8-constant-pool.pdf
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+[ozone/wayland] Ozone platform for Wayland. [40083534] - Chromium
+https://issues.chromium.org/issues/40083534
+
+eholk (Eric Holk)
+https://github.com/eholk
+
+Eric Holk
+https://theincredibleholk.org/
+
+dissertation.pdf
+https://theincredibleholk.org/papers/dissertation.pdf
+
+灰豆 | HackerNoon
+https://hackernoon.com/u/huidou
+
+Understanding Chrome V8 - Chapter 24: How does V8 Describe Your JavaScript Function | HackerNoon
+https://hackernoon.com/understanding-chrome-v8-chapter-24-how-does-v8-describe-your-javascript-function
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hackernoon&sort=byPopularity&type=story
+
+v8/AUTHORS at master · mcfi/v8
+https://github.com/mcfi/v8/blob/master/AUTHORS
+
+postgres/src/backend/executor/nodeUnique.c at f4ad0021aface01ee74604355bd2e998e5f73320 · postgres/postgres
+https://github.com/postgres/postgres/blob/f4ad0021aface01ee74604355bd2e998e5f73320/src/backend/executor/nodeUnique.c#L93
+
+osdt-weekly/weekly-2024/2024-01-10.md at master · hellogcc/osdt-weekly
+https://github.com/hellogcc/osdt-weekly/blob/master/weekly-2024/2024-01-10.md
+
+OSDT - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=OSDT
+
+postgresql plan tree - Google 検索
+https://www.google.com/search?client=ubuntu-sn&sca_esv=31b20d66ecc178c1&channel=fs&q=postgresql+plan+tree&uds=AMwkrPtesdIO-WE-LTiss4GIfUfMyciqLVR-NG_dg-8FiQBJQriH9rePIiOFWdjMahF_NmvqBEhu9yBP3l52q4b7_7v5ZeGH809VsWWwihfleYkbjmndLGxXCw15K37uFBcMigxfoY95_CUp6qp9c-btMcT2NCKNe6FoFiDawBIs4pPR17pKs24NpNyGe8waTXuQKPAxihuzLLCa0LWGdMR_nwAWmO32vrEi4qI8CunE7d00pyxDo9TY0jUu6kijnGSiGTxCI1QDrBk7z7uE0YzMwaEOIMbigiUQkaCKn91mOaoqSXboH6p5-GAcNK0jSlANeeAcRoPbE0BmtfHYAEVftpEp8c_dE2JARrHvzj3OyNszLTu6VMo&udm=2&prmd=isvnbmtz&sa=X&ved=2ahUKEwibia2Ck56FAxVudPUHHTz7A7AQtKgLegQIDBAB&biw=1530&bih=747&dpr=1
+
+Query Processing in PostgreSQL. As a database enthusiast and software… | by AGEDB | AGEDB | Medium
+https://medium.com/agedb/query-processing-in-postgresql-1309fa93f69f
+
+PostgreSQL计划节点源码剖析-天翼云开发者社区 - 天翼云
+https://www.ctyun.cn/developer/article/448129868869701
+
+PostgreSQL | PostgreSQLへの接続と切断
+https://www.javadrive.jp/postgresql/connect/index2.html
+
+postgresql - How to switch databases in psql? - Stack Overflow
+https://stackoverflow.com/questions/3949876/how-to-switch-databases-in-psql
+
+PostgreSQL Show Tables
+https://www.postgresqltutorial.com/postgresql-administration/postgresql-show-tables/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

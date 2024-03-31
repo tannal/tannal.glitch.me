@@ -1,5 +1,8 @@
 # 2024-3-31 0 | 0 W
 
+psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
+
+involves:eholk
 
 involves:steveklabnik
 involves:nicoburns
