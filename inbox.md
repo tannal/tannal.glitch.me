@@ -1,5 +1,44 @@
 # 2024-4-1 0 | 0 W
 
+ taskkill /f /IM nginx.exe
+
+.\geodns.exe -log
+
+start nginx.exe
+
+geodns
+
+start nginx
+nginx.exe -s stop
+nginx.exe -c 
+
+{
+    "serial":1394372421,
+    "ttl":    120,
+    "targeting": "country continent @ regiongroup region asn",
+    "data":{
+        "":{
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        },
+        "git": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        }
+    }
+}
+dig -x 192.168.43.62 @127.1 -p 5053
+
 ipconfig /flushdns
 
 addyosmani

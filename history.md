@@ -3,6 +3,69 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+miekg/dns: DNS library in Go
+https://github.com/miekg/dns
+
+kenshinx/godns: A fast dns cache server written by go
+https://github.com/kenshinx/godns
+
+Geo dns not work · Issue #141 · abh/geodns
+https://github.com/abh/geodns/issues/141
+
+tannal/load_balancer - load_balancer - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/tannal/load_balancer
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+https://www.youtube.com/watch?v=rIcHdVcuPzw
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DrIcHdVcuPzw&q=EhAkAIkFAAAAAPA8lP_-y3dgGK-0qbAGIjDLw44IYw2SziQOMMU6lyeyzwUUPHqwEk40TrVimLyvcbL5iPo7nuXDylmEnymuYGoyAXJaAUM
+
+servo/.github/workflows/main.yml at main · servo/servo
+https://github.com/servo/servo/blob/main/.github/workflows/main.yml
+
+GitHub ActionsでHello World #GitHubActions - Qiita
+https://qiita.com/Teach/items/d2c4d7bec98228df1807
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/tannal/tannal.com/actions/runs/7
+
+Issue search results
+https://github.com/search?q=repo%3Acoredns%2Fcoredns+windows&type=issues
+
+geodns 配置 - Google 搜索
+https://www.google.com/search?q=geodns+%E9%85%8D%E7%BD%AE&sca_esv=e2dc8174cd1c459c&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ACQVn0-dgQv8iWiptA15A6WOhJud8gna8g%3A1711957221484&ei=5WQKZp-YHc3Q1e8P7LWbqAQ&ved=0ahUKEwjfnrrQwaCFAxVNaPUHHezaBkUQ4dUDCBA&uact=5&oq=geodns+%E9%85%8D%E7%BD%AE&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWdlb2RucyDphY3nva4yBRAhGKABMgUQIRigAUjwD1CWA1iFD3ABeAGQAQCYAZgCoAGlDqoBBTAuNi4zuAEDyAEA-AEBmAIHoAKeCsICChAAGEcY1gQYsAPCAgQQIxgnwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYCBgeGA-YAwCIBgGQBgGSBwUxLjMuM6AH6xA&sclient=gws-wiz-serp
+
+abh/geodns: DNS server with per-client targeted responses
+https://github.com/abh/geodns?tab=readme-ov-file
+
+ChatGPT
+https://chat.openai.com/c/2b6bea02-d7a7-4594-adb1-23b39943c6a9
+
+pingora/docs/quick_start.md at main · cloudflare/pingora
+https://github.com/cloudflare/pingora/blob/main/docs/quick_start.md
+
+winget install nginx - Google 搜索
+https://www.google.com/search?q=winget+install+nginx&rlz=1C1GCEA_enCN1091CN1091&oq=winget+install+nginx&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzY4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Nginx Windows详细安装部署教程 - taiyonghai - 博客园
+https://www.cnblogs.com/taiyonghai/p/9402734.html
+
+nginx for Windows
+https://nginx.org/en/docs/windows.html
+
+How to completely kill NGINX in windows? - Server Fault
+https://serverfault.com/questions/842423/how-to-completely-kill-nginx-in-windows
+
+abh/geodns: DNS server with per-client targeted responses
+https://github.com/abh/geodns
+
+How to completely kill NGINX in windows? - Server Fault
+https://serverfault.com/questions/842423/how-to-completely-kill-nginx-in-windows
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 工单管理 - Gitea: Git with a cup of tea
 http://192.168.43.62:3000/issues?type=your_repositories&sort=recentupdate&state=open&q=
 
