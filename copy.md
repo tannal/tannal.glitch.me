@@ -14,3 +14,7 @@ blog https://github.com/NotWoods/tigeroakes.com
 
 https://github.com/go-gitea/gitea
 
+
+key value store
+
+https://github.com/justinethier/keyva

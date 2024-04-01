@@ -3,6 +3,135 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+手把手教大家在安卓手机用termux搭建自己的git服务器 - 掘金
+https://juejin.cn/post/7167674120467906567
+
+Issue search results
+https://github.com/search?q=%22service+worker%22+docs.google.com&type=issues
+
+Working with Live Data in a Service Worker · Issue #3451 · google/WebFundamentals
+https://github.com/google/WebFundamentals/issues/3451
+
+Quick Start | Gitea Documentation
+https://docs.gitea.com/usage/actions/quickstart
+
+miekg/dns: DNS library in Go
+https://github.com/miekg/dns
+
+abh/geodns: DNS server with per-client targeted responses
+https://github.com/abh/geodns
+
+Issues · coredns/coredns
+https://github.com/coredns/coredns/issues
+
+bfenetworks/bfe: A modern layer 7 load balancer from baidu
+https://github.com/bfenetworks/bfe
+
+geodns termux - Google 搜索
+https://www.google.com/search?q=geodns+termux&rlz=1C1GCEA_enJP1090JP1090&oq=geodns+termux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCDg0MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Improving image loading · Issue #8552 · facebook/docusaurus
+https://github.com/facebook/docusaurus
+
+管理面板 - Termux Gitea
+http://192.168.43.1:3000/admin
+
+Issue search results
+https://github.com/search?q=involves%3Amiekg&type=issues
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo/
+
+Igalia - Open Source Consultancy and Development
+https://www.igalia.com/
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+局域网组网 - Google 搜索
+https://www.google.com/search?q=%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BB%84%E7%BD%91&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BB%84%E7%BD%91&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+alexanderGugel/nerva: :package: an alternative npm registry written in Go
+https://github.com/alexanderGugel/nerva
+
+verdaccio alternative - Google 搜索
+https://www.google.com/search?q=verdaccio+alternative&rlz=1C1GCEA_enJP1090JP1090&oq=verdaccio+alternative&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEINDA2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+npm registry written in go - Google 搜索
+https://www.google.com/search?q=npm+registry+written+in+go&rlz=1C1GCEA_enJP1090JP1090&oq=npm+registry+written+in+go&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGD3SAQg1NjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=npm+registry++language%3AGo&type=repositories&l=Go&p=2
+
+Dingzhaocheng/ausiliario: it's a command-line tool written in Go for publishing npm packages to a private registry.
+https://github.com/Dingzhaocheng/ausiliario
+
+alin-io/pkgstore: Package Proxy is an All in One server that handles Packages for NPM, PyPi, Docker/Containers
+https://github.com/alin-io/pkgstore
+
+Resume | Tiger Oakes
+http://localhost:8000/resume/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Self Hosting git remote Repository · Issue #23 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/23
+
+Config Cheat Sheet | Gitea Documentation
+https://docs.gitea.com/administration/config-cheat-sheet
+
+Where is termux packages located : r/termux
+https://www.reddit.com/r/termux/comments/bcb7nh/where_is_termux_packages_located/
+
+tannal/tannal.com - tannal.com - Termux Gitea
+http://192.168.43.1:3000/tannal/tannal.com
+
+Actions - tannal.com - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/tannal/tannal.com/settings/actions/runners
+
+Gitea Actions: Trigger workflow not started - Actions - Gitea
+https://forum.gitea.com/t/gitea-actions-trigger-workflow-not-started/8308
+
+test/on_tag.yaml 位于 main - test - Gitea: Git with a cup of tea
+https://try.gitea.io/dimon_ukr/test/src/branch/main/.gitea/workflows/on_tag.yaml
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/tannal/tannal.com/actions/runs/1/jobs/0
+
+Actions - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/user/settings/actions/runners
+
+Seepine's Blog
+https://seepine.com/
+
+Support Windows · Issue #1608 · nektos/act
+https://github.com/nektos/act/issues/1608
+
+GitHub
+https://github.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (16) 2024 年系統軟體系列課程討論區 | Facebook
 https://www.facebook.com/groups/1531876370923589
 

@@ -1,5 +1,9 @@
 # 2024-4-1 0 | 0 W
 
+addyosmani
+miekg
+
+
 .\act_runner-nightly-windows-amd64.exe generate-config > config.yaml
 
 .\act_runner-nightly-windows-amd64.exe daemon --config config.yaml
