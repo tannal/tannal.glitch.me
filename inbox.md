@@ -1,5 +1,25 @@
 # 2024-4-1 0 | 0 W
 
+snap install zig --classic --beta
+
+git clone https://www.github.com/ziglang/zig
+cc -o bootstrap bootstrap.c
+./bootstrap
+
+  force_sig_fault
+  force_signal_inject
+  do_el0_undef
+  el0_undef
+  el0t_64_sync_handler
+  el0t_64_sync
+  [unknown]
+  [unknown]
+  [unknown]
+    b'DOM Worker' [4435]
+    1
+
+
+
 git remote add origin http://10.90.179.123:3000/tannal/tannal.com.git
 
 export https_proxy=http://10.90.179.123:7890
