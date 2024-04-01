@@ -1,5 +1,17 @@
 # 2024-4-1 0 | 0 W
 
+git remote add origin http://10.90.179.123:3000/tannal/tannal.com.git
+
+export https_proxy=http://10.90.179.123:7890
+export http_proxy=http://10.90.179.123:7890
+
+involves:tolmasky owner:tc39
+
+
+rocallahan
+
+https://wicg.io/
+
 involves:lukewarlow 
 
 whatwg chat room

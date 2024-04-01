@@ -1,5 +1,155 @@
 # 2024-4-1
 
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CMU-SAFARI/ramulator: A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals. Described in the IEEE CAL 2015 paper by Kim et al. at http://users.ece.cmu.edu/~omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf
+https://github.com/CMU-SAFARI/ramulator
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+tokio-rs/async-backtrace
+https://github.com/tokio-rs/async-backtrace
+
+Issue search results
+https://github.com/search?q=involves%3Ajswrenn&type=issues
+
+google/zerocopy
+https://github.com/google/zerocopy
+
+Issue search results
+https://github.com/search?q=involves%3Adjkoloski&type=issues
+
+pest-parser/pest: The Elegant Parser
+https://github.com/pest-parser/pest
+
+pest. The Elegant Parser
+https://pest.rs/#editor
+
+Query rustc for clang target triples · Issue #994 · rust-lang/cc-rs
+https://github.com/rust-lang/cc-rs/issues/994
+
+CMU-SAFARI/ramulator: A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals. Described in the IEEE CAL 2015 paper by Kim et al. at http://users.ece.cmu.edu/~omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf
+https://github.com/CMU-SAFARI/ramulator
+
+Issue search results
+https://github.com/search?q=%22web+workers%22+docs.google.com&type=issues
+
+Web Worker 文献综述 · Issue #19 · CntChen/cntchen.github.io
+https://github.com/CntChen/cntchen.github.io/issues/19
+
+68747470733a2f2f636e746368656e2e6769746875622e696f2f696d672f776f726b65722d7265766965772f646f2d736f6d657468696e672d62792d776f726b65722e6a7067 (1798×970)
+https://camo.githubusercontent.com/a293ddf5ee814a04f264e9d818865be6f4654539f2dfdb15bd3801f84238d331/68747470733a2f2f636e746368656e2e6769746875622e696f2f696d672f776f726b65722d7265766965772f646f2d736f6d657468696e672d62792d776f726b65722e6a7067
+
+读书笔记（持续更新） · Issue #4 · CntChen/cntchen.github.io
+https://github.com/CntChen/cntchen.github.io/issues/4
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/workers.html#worker-processing-model
+
+Blink Workers - Google 文档
+https://docs.google.com/document/d/1i3IA3TG00rpQ7MKlpNFYUF6EfLcV01_Cv3IYG_DjF7M/edit#heading=h.wteocldpijbq
+
+CompositorWorker - Google 文档
+https://docs.google.com/document/d/18GGuTRGnafai17PDWjCHHAvFRsCfYUDYsi720sVPkws/edit
+
+[public-houdini] <none> from Robert O'Callahan on 2015-03-10 (public-houdini@w3.org from March 2015)
+https://lists.w3.org/Archives/Public/public-houdini/2015Mar/0020.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/
+
+Test that postMessage doesn't block on event loop · web-platform-tests/wpt@3320205
+https://github.com/web-platform-tests/wpt/commit/3320205a9d70636efc03cfff340edecd0bee4694
+
+rocallahan (Robert O'Callahan)
+https://github.com/rocallahan
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+Issue search results
+https://github.com/search?q=involves%3Arocallahan&type=issues&p=6
+
+Issue search results
+https://github.com/search?q=web+workers+involves%3ARByers+&type=issues
+
+Meta: use tests and implementation bugs to shorten time to interoperability · Issue #1849 · whatwg/html
+https://github.com/whatwg/html/issues/1849
+
+Issue search results
+https://github.com/search?q=workers+involves%3ARReverser+owner%3Awhatwg&type=issues
+
+Proposal: blank worker · Issue #6911 · whatwg/html
+https://github.com/whatwg/html/issues/6911
+
+Add a "modern" parsing API · Issue #2993 · whatwg/html
+https://github.com/whatwg/html/issues/2993
+
+Web Incubator Community Group (WICG)
+https://wicg.io/
+
+htmlparser2/src/Parser.spec.ts at 8fb000ce73db12bf8353520306b2ad54028ae946 · fb55/htmlparser2
+https://github.com/fb55/htmlparser2/blob/8fb000ce73db12bf8353520306b2ad54028ae946/src/Parser.spec.ts#L154
+
+Domhandler types does not expose all elements supported · Issue #1315 · fb55/domhandler
+https://github.com/fb55/domhandler/issues/1315
+
+esm.sh/htmlparser2@9.1.0
+https://esm.sh/htmlparser2@9.1.0
+
+Feature detection of module workers is hard · Issue #5325 · whatwg/html
+https://github.com/whatwg/html/issues/5325
+
+NotWoods/tigeroakes.com: My portfolio website. Designed to work offline, load quickly, and showcase some of my favorite projects.
+https://github.com/NotWoods/tigeroakes.com
+
+[WebView] Module worker type is read even when unsupported, making feature detection difficult [40769062] - Chromium
+https://issues.chromium.org/issues/40769062
+
+Multiple Isolates on the Main Thread
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/76inoXAOlCk
+
+Scraping a 15-year-old Drupal site into Markdown files | Tiger Oakes
+http://localhost:8000/posts/servo/
+
+Issue search results
+https://github.com/search?q=involves%3Atolmasky+owner%3Atc39&type=issues
+
+Building Design Systems in Flutter | by Calvin Goodman | Better Programming
+https://betterprogramming.pub/building-design-systems-in-flutter-d52d66004070
+
+Excalidraw
+https://excalidraw.com/
+
+tigeroakes.com
+https://tigeroakes.com/posts/fluent-ui-css-tricks/
+
+Markdown for the component era | MDX
+https://mdxjs.com/
+
+手把手教你搭建Gitlab服务器，避免踩坑 - Webfunny
+https://www.webfunny.com/blog/post/207
+
+手把手教大家在安卓手机用termux搭建自己的git服务器 - 掘金
+https://juejin.cn/post/7167674120467906567
+
+Self Hosting git remote Repository · Issue #23 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/23
+
+Issue search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea+master+main&type=issues
+
+tannal/tannal.com - tannal.com - Termux Gitea
+http://192.168.43.1:3000/tannal/tannal.com/src/branch/main
+
+Gitea Actions | Gitea Documentation
+https://docs.gitea.com/usage/actions/overview
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
