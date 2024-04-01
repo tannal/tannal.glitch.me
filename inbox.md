@@ -1,5 +1,11 @@
 # 2024-4-1 0 | 0 W
 
+.\act_runner-nightly-windows-amd64.exe generate-config > config.yaml
+
+.\act_runner-nightly-windows-amd64.exe daemon --config config.yaml
+
+.\act_runner-nightly-windows-amd64.exe register --no-interactive --instance http://192.168.43.1:3000 --token 4Z6mH85Mv6aviiBSaBSk393VzFWPCsdnLOYDULs0 --config config.yaml
+
 snap install zig --classic --beta
 
 git clone https://www.github.com/ziglang/zig

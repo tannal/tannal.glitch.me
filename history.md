@@ -1,5 +1,107 @@
 # 2024-4-1
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(16) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+(4) Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+miekg/dns: DNS library in Go
+https://github.com/miekg/dns
+
+coredns/coredns: CoreDNS is a DNS server that chains plugins
+https://github.com/coredns/coredns
+
+coredns/coredns: CoreDNS is a DNS server that chains plugins
+https://github.com/coredns/coredns
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+Termux Gitea
+http://192.168.43.1:3000/
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+Gitea Actions设计 | Gitea Documentation
+https://docs.gitea.com/zh-cn/usage/actions/design
+
+Frequently Asked Questions of Gitea Actions | Gitea Documentation
+https://docs.gitea.com/next/usage/actions/faq
+
+Gitea | act_runner
+https://dl.gitea.com/act_runner/nightly/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Issue search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea+unimplemented&type=issues
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Can I run gitea actions witout docker? - Stack Overflow
+https://stackoverflow.com/questions/76998107/can-i-run-gitea-actions-witout-docker
+
+#16 - feat: don't require docker - act_runner - Gitea: Git with a cup of tea
+https://gitea.com/gitea/act_runner/pulls/16/commits
+
+Labels | Gitea Documentation
+https://docs.gitea.com/next/usage/labels
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+Search results | winget.run
+https://winget.run/search?query=docker
+
+Self Hosting git remote Repository · Issue #23 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/23
+
+Design of Gitea Actions | Gitea Documentation
+https://docs.gitea.com/usage/actions/design
+
+Workflow YAML files are not executed on one Gitea instance · Issue #25949 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/25949
+
+Frequently Asked Questions of Gitea Actions | Gitea Documentation
+https://docs.gitea.com/usage/actions/faq?_highlight=powershell#which-operating-systems-are-supported-by-act-runner
+
+安装页面 - Gitea: Git with a cup of tea
+http://localhost:3000/
+
+Issue search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea+support+sqlite&type=issues
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://localhost:3000/tannal/tannal.com
+
+API Usage | Gitea Documentation
+https://docs.gitea.com/development/api-usage
+
+gitea/docs/content/administration/config-cheat-sheet.zh-cn.md at a008486f5c5acfe2d2acb009f41dc660ee8348eb · go-gitea/gitea
+https://github.com/go-gitea/gitea/blob/a008486f5c5acfe2d2acb009f41dc660ee8348eb/docs/content/administration/config-cheat-sheet.zh-cn.md?plain=1#L1144
+
+Migrate repository Gitea to another Gitea server · Issue #29819 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/29819
+
+Documentation | Gitea Documentation
+https://docs.gitea.com/next/
+
+Code search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea%20user%20does%20not%20exist&type=code
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://localhost:3000/tannal/tannal.com
+
 copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
