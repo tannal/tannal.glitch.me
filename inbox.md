@@ -1,5 +1,7 @@
 # 2024-4-1 0 | 0 W
 
+ipconfig /flushdns
+
 addyosmani
 miekg
 

@@ -3,6 +3,108 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+工单管理 - Gitea: Git with a cup of tea
+http://192.168.43.62:3000/issues?type=your_repositories&sort=recentupdate&state=open&q=
+
+Act Runner | Gitea Documentation
+https://docs.gitea.com/usage/actions/act-runner
+
+Gitea | act_runner
+https://dl.gitea.com/act_runner/nightly/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+局域网搭建 DNS 服务器，怎么让局域网的服务器、电脑、手机全部生效？ - V2EX
+https://v2ex.com/t/792107
+
+clash hosts - Google 搜索
+https://www.google.com/search?q=clash+hosts&rlz=1C1GCEA_enJP1090JP1090&oq=clash+host&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQg1MjQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+windows 修改dns服务器 - Google 搜索
+https://www.google.com/search?q=windows+%E4%BF%AE%E6%94%B9dns%E6%9C%8D%E5%8A%A1%E5%99%A8&sca_esv=e2dc8174cd1c459c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08fDxurJmyNoL6HOgwb3IfZ-gwK8Q%3A1711958038334&ei=FmgKZu_9E8CLvr0P9qGtqAQ&ved=0ahUKEwjv4PrVxKCFAxXAha8BHfZQC0UQ4dUDCBA&uact=5&oq=windows+%E4%BF%AE%E6%94%B9dns%E6%9C%8D%E5%8A%A1%E5%99%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiGndpbmRvd3Mg5L-u5pS5ZG5z5pyN5Yqh5ZmoMgwQIRgKGKABGMMEGCpIlw1QsgJYhAxwAXgBkAEAmAH2AaAB1QaqAQUwLjEuM7gBA8gBAPgBAZgCAqAC5AHCAgoQABhHGNYEGLADmAMAiAYBkAYKkgcFMS4wLjGgB5YO&sclient=gws-wiz-serp
+
+如何让 Android 上的 clash 使用系统的 host - V2EX
+https://cn.v2ex.com/t/926737
+
+win10 手动设置 DNS 地址_自动分配口ip手动指定dns-CSDN博客
+https://blog.csdn.net/itnerd/article/details/106764904
+
+如果你的应用需要智能 DNS 服务，你将如何实现？_如何做到类似智能dns-CSDN博客
+https://blog.csdn.net/m0_50654102/article/details/117599872
+
+geodns/dns/example.com.json at main · abh/geodns
+https://github.com/abh/geodns/blob/main/dns/example.com.json
+
+no geo provider configured - Google 搜索
+https://www.google.com/search?q=no+geo+provider+configured&sca_esv=e2dc8174cd1c459c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_JDWYMDE17qzI4BUh6VRLgwGqqbg%3A1711958976308&ei=wGsKZtm2ErO3vr0PnLy60AU&ved=0ahUKEwjZlpyVyKCFAxWzm68BHRyeDloQ4dUDCBA&uact=5&oq=no+geo+provider+configured&gs_lp=Egxnd3Mtd2l6LXNlcnAiGm5vIGdlbyBwcm92aWRlciBjb25maWd1cmVkMgUQIRigAUiWJFAAWIMjcAB4AZABAJgB7gGgAaoeqgEGMC4xNC42uAEDyAEA-AEBmAIUoALVHsICBBAAGB7CAgYQABgeGArCAggQLhgeGAwYCsICCRAAGB4YxwMYCsICBhAAGB4YD8ICBhAAGAgYHsICBxAhGAoYoAGYAwCSBwYwLjE0LjagB58z&sclient=gws-wiz-serp
+
+Windows 10: DNS Flush - GROK Knowledge Base
+https://grok.lsu.edu/Article.aspx?articleid=19328
+
+DNS 原理入门 - 阮一峰的网络日志
+https://www.ruanyifeng.com/blog/2016/06/dns.html
+
+tannal/load_balancer - load_balancer - Gitea: Git with a cup of tea
+http://tanmeng.org:3000/tannal/load_balancer
+
+nginx 子域名 端口 - Google 搜索
+https://www.google.com/search?q=nginx+%E5%AD%90%E5%9F%9F%E5%90%8D+%E7%AB%AF%E5%8F%A3&rlz=1C1GCEA_enJP1090JP1090&oq=nginx+%E5%AD%90%E5%9F%9F%E5%90%8D+%E7%AB%AF%E5%8F%A3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDcyMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nginx
+https://github.com/nginx
+
+Issue building with cargo · Issue #121 · cloudflare/pingora
+https://github.com/cloudflare/pingora/issues/121
+
+干货分享 | DNS解析记录类型详解-国科云-技术分享
+https://www.guokeyun.com/news/technology/detail/217.html?navId=22
+
+base-dev windows - Google 搜索
+https://www.google.com/search?q=base-dev+windows&rlz=1C1GCEA_enJP1090JP1090&oq=base-dev+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYChgeMgYIBBAAGB4yCAgFEAAYBRgeMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYBRgeMggICRAAGAUYHtIBCDUxOTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+visual studio code - How to work with OpenSSL for Rust within a Windows development environment - Stack Overflow
+https://stackoverflow.com/questions/55912871/how-to-work-with-openssl-for-rust-within-a-windows-development-environment
+
+Issues · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues?q=is%3Aissue+is%3Aopen+cancel+label%3Atopic%2Fgitea-actions
+
+nginx多个server共用80端口-掘金
+https://juejin.cn/s/nginx%E5%A4%9A%E4%B8%AAserver%E5%85%B1%E7%94%A880%E7%AB%AF%E5%8F%A3
+
+nginx/nginx: An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+https://github.com/nginx/nginx
+
+build nginx on windows - Google 搜索
+https://www.google.com/search?q=build+nginx+on+windows&rlz=1C1GCEA_enJP1090JP1090&oq=build+nginx+on+windos&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDRgeMgYIABBFGDkyCAgBEAAYDRge0gEINDY4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+(oﾟvﾟ)ノ Hi - Linux配置/etc/resolv.conf详解
+https://www.cnblogs.com/yuhaohao/p/13889240.html
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+Resume | Tiger Oakes
+http://tanmeng.org/resume/
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com/src/branch/main
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 手把手教大家在安卓手机用termux搭建自己的git服务器 - 掘金
 https://juejin.cn/post/7167674120467906567
 
