@@ -1,5 +1,14 @@
 # 2024-4-1 0 | 0 W
 
+export CC=/usr/bin/cc
+export CXX=/usr/bin/c++
+
+./act_runner-nightly-linux-amd64 generate-config > config.yaml
+
+./act_runner-nightly-linux-amd64 register --no-interactive --instance http://git.tanmeng.org --token FVYzTAmBWqiC1rdVBPz48U0XTCEhQjflreRNnrlz --config config.yaml
+
+./act_runner-nightly-linux-amd64 daemon --config config.yaml
+
  taskkill /f /IM nginx.exe
 
 .\geodns.exe -log
