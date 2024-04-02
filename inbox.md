@@ -1,4 +1,12 @@
+# 2024-4-2 0 | 0 W
+
+
+
 # 2024-4-1 0 | 0 W
+
+
+ln -sfn /run/systemd/resolve/resolv.conf /etc/resolv.conf
+
 
 export CC=/usr/bin/cc
 export CXX=/usr/bin/c++

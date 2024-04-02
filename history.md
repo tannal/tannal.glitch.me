@@ -1,3 +1,176 @@
+# 2024-4-2
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issue search results
+https://github.com/search?q=involves%3Acompudj%20&type=issues
+
+Issue search results
+https://github.com/search?q=npm+registry++language%3AGo&type=issues
+
+nektos/act: Run your GitHub Actions locally 🚀
+https://github.com/nektos/act/issues
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com/actions/runs/15
+
+ubuntu 20.04 设置DNS - OceanWaves - 博客园
+https://www.cnblogs.com/OceanWaves/p/17312444.html
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+解决nginx反向代理的502-Bad Gateway问题-百度开发者中心
+https://developer.baidu.com/article/details/2819805
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%8D%8F%E8%B0%83%E5%8A%9E%E5%85%AC&op=translate
+
+feishu com - Google 搜索
+https://www.google.com/search?q=feishu+com&sca_esv=a9443e757acfc69c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09wM7_gkPmn0XI-IpmKfHbuApXPcg%3A1711970693809&ei=hZkKZv_uML3d2roP6PKQiAk&ved=0ahUKEwi_xcfo86CFAxW9rlYBHWg5BJEQ4dUDCBA&uact=5&oq=feishu+com&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmZlaXNodSBjb20yCBAAGIAEGMsBSJcRUP8FWLwPcAF4AZABAJgBzAGgAYgGqgEFMC4zLjG4AQPIAQD4AQGYAgWgApMGwgIKEAAYRxjWBBiwA8ICBxAAGIAEGAzCAgUQABiABJgDAIgGAZAGCpIHBTEuMi4yoAf7CA&sclient=gws-wiz-serp
+
+Index of /
+http://videos.tanmeng.org/
+
+Maskable.app
+https://maskable.app/
+
+Resume | Tiger Oakes
+http://tanmeng.org/resume/
+
+continuous integration - Run GitHub Action on multiple environments - Stack Overflow
+https://stackoverflow.com/questions/59295795/run-github-action-on-multiple-environments
+
+Workflow syntax for GitHub Actions - GitHub Docs
+https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstrategy
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+What is Verdaccio? | Verdaccio
+https://verdaccio.org/docs/what-is-verdaccio
+
+verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry
+https://github.com/verdaccio/verdaccio
+
+verdaccio安装与配置
+http://archy.ink/verdaccio/
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+Issue search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea+502+nginx&type=issues&p=2
+
+cross compilation - How to use apt-get to download multi-arch library? - Ask Ubuntu
+https://askubuntu.com/questions/430705/how-to-use-apt-get-to-download-multi-arch-library
+
+linux.debian.ports.arm - Google 网上论坛
+https://groups.google.com/g/linux.debian.ports.arm
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+Outreachy Alums, December 2023 to March 2024
+https://www.outreachy.org/alums/2023-12/
+
+document – Typst
+https://typst.app/project/pfE41N2NmxseJ-4ViX7dpw
+
+Code search results
+https://github.com/search?q=repo%3Atypst%2Ftypst%20image&type=code
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1i-lbL8rbSLAQFM-oPKki3ADi4NwcusjuIn4OrerRM1g/edit
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Net: fold websocket and http tokio runtime into one by tannal · Pull Request #31771 · servo/servo
+https://github.com/servo/servo/pull/31771/files
+
+use FLoat32Array in XRView by tannal · Pull Request #31077 · servo/servo
+https://github.com/servo/servo/pull/31077
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+Vancouver, Canada — March 25-29, 2023
+https://asplos-conference.org/asplos2023/
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+clippy: Mark functions taking many arguments as exceptions to clippy lints by jahielkomu · Pull Request #31962 · servo/servo
+https://github.com/servo/servo/pull/31962
+
+Devtools support is broken · Issue #29831 · servo/servo
+https://github.com/servo/servo/issues/29831
+
+Devtools · servo/servo Wiki
+https://github.com/servo/servo/wiki/Devtools
+
+rootfs made easy with Buildroot
+https://bootlin.com/pub/conferences/2013/kernel-recipes/rootfs-kernel-developer/rootfs-kernel-developer.pdf
+
+Building custom Linux for Raspberry Pi using Buildroot | by Akshay Vernekar | Medium
+https://medium.com/@hungryspider/building-custom-linux-for-raspberry-pi-using-buildroot-f81efc7aa817
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rust%20wasm%20servo&sort=byPopularity&type=story
+
+Ambient
+https://ambient.run/
+
+Memory Input Pipe Write from outside · Issue #8274 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8274
+
+ServoMedia::get can hang forever when setting document activity · Issue #31918 · servo/servo
+https://github.com/servo/servo/issues/31918
+
+GstRegistry
+https://gstreamer.freedesktop.org/documentation/gstreamer/gstregistry.html?gi-language=c
+
+Igalia - Open Source Consultancy and Development
+https://www.igalia.com/
+
+Carl-bot在Low Level IQ 中提及了您 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbjqDNHVVTxbQmRsWQGMkPsv
+
+• Discord | #jsr | Deno
+https://discord.com/channels/684898665143206084/1203185670508515399/1222305007127494757
+
+2023 JavaScript Rising Stars
+https://risingstars.js.org/2023/en#section-all
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyBggGEEUYPDIGCAcQRRg80gEIMTA5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+
+web editing is dead - Google 搜索
+https://www.google.com/search?q=web+editing+is+dead&rlz=1C1GCEA_enJP1090JP1090&oq=web+editing+is+dead&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQg0ODQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=web%20editing&type=repositories
+
 # 2024-4-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
