@@ -1,5 +1,22 @@
 # inbox
 
+involves:flackr chromium compositor owner https://philiprogers.com/resume.html
+
+
+moz-phab
+
+./mach install-moz-phab
+
+hg uncommit
+
+hg rollback
+
+./mach lint toolkit/components/glean/api/src/ffi/event.rs
+
+
+./mach lint -l clippy toolkit/components/glean/api/src/ -W -v    
+
+
 
   b'finish_task_switch.isra.0'
   b'schedule'

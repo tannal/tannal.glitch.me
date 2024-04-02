@@ -1,5 +1,80 @@
 # 2024-4-2
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Bootstrap: verify that `--target` and `--host` triples are valid before starting a build · Issue #122128 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/122128
+
+tannal (tannal)
+https://github.com/tannal
+
+1868296 - fix a clippy warning in glean/api/src/private/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868296
+
+User Profile: asthetik
+https://bugzilla.mozilla.org/user_profile?user_id=741564
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#commit-message
+
+Writing Rust Code — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/writing-rust-code/index.html
+
+1829512 - Improve LSP setup for the style crate and so on
+https://bugzilla.mozilla.org/show_bug.cgi?id=1829512
+
+⚙ D176223 Bug 1829512 - Update documentation for vim. r=Andi,sylvestre
+https://phabricator.services.mozilla.com/D176223
+
+Rust Analyzer spawns a lot of instances when working on Firefox · Issue #4459 · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/issues/4459
+
+Excalidraw
+https://excalidraw.com/
+
+asthetiklee github 163 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+asthetiklee+github+163
+
+asthetiklee mozilla - Google 検索
+https://www.google.com/search?q=asthetiklee+mozilla&client=ubuntu-sn&hs=hHF&sca_esv=acbca80dfdb4da9a&channel=fs&ei=loULZpKWOdS-vr0Pq5GJuA8&ved=0ahUKEwiSuan51KKFAxVUn68BHatIAvcQ4dUDCBA&uact=5&oq=asthetiklee+mozilla&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2FzdGhldGlrbGVlIG1vemlsbGEyBxAhGAoYoAFIlh1Q_AZYkhxwA3gAkAEAmAGsAqABlw-qAQcwLjUuMy4xuAEDyAEA-AEBmAIMoAK0D8ICCRAAGB4YDRiwA8ICCBAAGIAEGKIEwgIFECEYoAGYAwDiAwUSATEgQIgGAZAGAZIHBzMuNC40LjGgB5oR&sclient=gws-wiz-serp
+
+How do you "rollback" last commit on Mercurial? - Stack Overflow
+https://stackoverflow.com/questions/20470874/how-do-you-rollback-last-commit-on-mercurial
+
+version control - How to edit incorrect commit message in Mercurial? - Stack Overflow
+https://stackoverflow.com/questions/623052/how-to-edit-incorrect-commit-message-in-mercurial
+
+1868293 - fix clippy warnings in glean/api/src/ffi/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868293
+
+Issue search results
+https://github.com/search?q=involves%3Aflackr&type=issues
+
+Not working on firefox · Issue #254 · flackr/scroll-timeline
+https://github.com/flackr/scroll-timeline/issues/254
+
+Issue search results
+https://github.com/search?q=involves%3Apdr&type=issues
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=I%2C%20pdr%2C%20take%20you%2C%20cc%2C%20to%20be%20my%20OWNED%20code%2C%0Ato%20have%20and%20to%20hold%2C%0Afrom%20this%20day%20forward%2C%0Afor%20better%2C%20for%20worse%2C%0Afor%20richer%2C%20for%20poorer%2C%0Ain%20sickness%20and%20in%20health%2C%0Auntil%20death%20do%20us%20part.%0A&op=translate
+
+Philip Rogers - Resume
+https://philiprogers.com/resume.html
+
+progers (Philip Rogers)
+https://github.com/progers
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
