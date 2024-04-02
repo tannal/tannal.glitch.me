@@ -1,5 +1,12 @@
 # 2024-4-2 0 | 0 W
 
+https://github.com/HollowMan6
+
+involves:iant golang team
+
+detach and attach
+
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1868293
 
 git init

@@ -1,5 +1,158 @@
 # 2024-4-2
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CMU-SAFARI/ramulator: A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals. Described in the IEEE CAL 2015 paper by Kim et al. at http://users.ece.cmu.edu/~omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf
+https://github.com/CMU-SAFARI/ramulator
+
+autoland: changeset 733601:4df6842cb470c27ca949eaaa6d3a9b6b37d9c8fe
+https://hg.mozilla.org/integration/autoland/rev/4df6842cb470
+
+autoland: Search
+https://hg.mozilla.org/integration/autoland/log?rev=reviewer%28sylvestre%29&revcount=50
+
+Issue search results
+https://github.com/search?q=%222GB%2B4MB%22&type=issues&p=4
+
+Issues · renchord/MIT_6828_LAB_Solutions
+https://github.com/renchord/MIT_6828_LAB_Solutions/issues
+
+零拷贝技术第二篇：Go语言中的应用 · Issue #258 · smallnest/gitalk
+https://github.com/smallnest/gitalk/issues/258
+
+为什么说并发编程很难？ · Issue #268 · smallnest/gitalk
+https://github.com/smallnest/gitalk/issues/268
+
+…/sendfile_linux_test.go · Gerrit Code Review
+https://go-review.googlesource.com/c/go/+/425878/7/src/net/sendfile_linux_test.go
+
+Pull request search results
+https://github.com/search?q=involves%3Aiant&type=pullrequests
+
+xv6-public/vm.c at eeb7b415dbcb12cc362d0783e41c3d1f44066b17 · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/eeb7b415dbcb12cc362d0783e41c3d1f44066b17/vm.c#L119
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+318673207-6d9c909c-f6cd-4e3f-9c31-9ffc7c58a4ae.png (919×696)
+https://private-user-images.githubusercontent.com/149947508/318673207-6d9c909c-f6cd-4e3f-9c31-9ffc7c58a4ae.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwNDExMDYsIm5iZiI6MTcxMjA0MDgwNiwicGF0aCI6Ii8xNDk5NDc1MDgvMzE4NjczMjA3LTZkOWM5MDljLWY2Y2QtNGUzZi05YzMxLTlmZmM3YzU4YTRhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQwNjUzMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNmIwZGQ0OWU0OTRlZDcwODVjMDkwMDAzNTM1MGFlMDA1ZTFjODdkYTBhNjc2ZjBiYjYzM2Y3ZWE1MmExYTRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.z0QUhz_Uex5FLgpK_Tw-dBimtmgMKHQS4nrviI7N0bU
+
+page table - Google 搜索
+https://www.google.com/search?sca_esv=9532ceb1aaa73555&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_v1ubeuyIsiEI7BoJEv0KtsY3wzw:1712040781814&q=page+table&uds=AMwkrPuhn_F0WDJCwQwE6XxpOj7enit-uwh90z9Mh-lIwZSKiXvU22NCV0OaxN4lPlytOZ06JN4cwqcYlJFiH7El4Tm90-E5GRSwUma22T8Ye2XAZDBGSycWJV7YNkwE_tazXnJpex51TjkJjjbV9_rb5B8jF-rIMLG2urgBpGH8-1on6j1BQNvTB-Ij8A1xFqGHTZrju2T2070IWSOYpyeUmtdmfd783BcpUk4kJJEyaB039ixlwK4&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjv3I_1-KKFAxWzklYBHVp5CaoQtKgLegQIDRAB&biw=1536&bih=703&dpr=1.25#vhid=CsZnzlL1FswoMM&vssid=mosaic
+
+Cssparser Demo: Rust Parsing
+https://chat.openai.com/c/51f10db3-e8a1-48ae-80cc-d680a146c2b8
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQc5NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Anton%20Bur&sort=byPopularity&type=story
+
+(4 封私信 / 71 条消息) 手机自动开机功能怎么实现的？ - 知乎
+https://www.zhihu.com/question/289454508
+
+西班牙时间 - Google 搜索
+https://www.google.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%97%B4&sca_esv=cebc95f0293f483f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08cfMNuJ3KzixgjLhto4eV1un9lbA%3A1712048759682&ei=d8oLZvClKfTDvr0PwO67yA8&ved=0ahUKEwiwvaLRlqOFAxX0oa8BHUD3DvkQ4dUDCBA&uact=5&oq=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%97%B4&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-ilv-ePreeJmeaXtumXtDIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0gxUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgaYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+sylvestre lua - Google 搜索
+https://www.google.com/search?q=sylvestre+lua&sca_esv=cebc95f0293f483f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09cP2O4XSQnUCdY_idhc7t82Jcxhw%3A1712049049472&ei=mcsLZpK4HOTH1e8Pt9izqA8&ved=0ahUKEwjS6Lnbl6OFAxXkY_UHHTfsDPUQ4dUDCBA&uact=5&oq=sylvestre+lua&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXN5bHZlc3RyZSBsdWFIrhFQigRY1g1wAXgBkAEAmAH0AaAB_AeqAQUwLjMuMrgBA8gBAPgBAZgCBKACpgXCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAg4QLhiABBjLARjHARivAcICChAuGIAEGMsBGArCAggQLhiABBjLAcICChAAGIAEGMsBGArCAgQQABgewgIGEAAYBRgemAMAiAYBkAYKkgcFMS4xLjKgB98k&sclient=gws-wiz-serp
+
+CV LEDRU Sylvestre
+https://sylvestre.ledru.info/CV_sylvestre_LEDRU_english.php
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+nltk download all - Google 搜索
+https://www.google.com/search?q=nltk+download+all&rlz=1C1GCEA_enJP1090JP1090&oq=nltk+download+all&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yCAgGEAAYBRgeMggIBxAAGAUYHtIBCDU5MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+word2vec - Google 搜索
+https://www.google.com/search?q=word2vec&rlz=1C1GCEA_enJP1090JP1090&oq=word2&gs_lcrp=EgZjaHJvbWUqDggCEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMg4IAhBFGCcYOxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg80gEIMjM5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+sylvestre (Sylvestre Ledru)
+https://github.com/sylvestre
+
+Commits · uutils/coreutils
+https://github.com/uutils/coreutils/commits?author=sylvestre
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQc5ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+爱情公寓英文 - Google 搜索
+https://www.google.com/search?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%8B%B1%E6%96%87&sca_esv=6d96250fd81e5327&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08w-9cZc1BnZahsKLcsefDaN1FK7w%3A1712052936842&ei=yNoLZu6CM4fj1e8Pi_WdqA8&ved=0ahUKEwjuhoyZpqOFAxWHcfUHHYt6B_UQ4dUDCBA&uact=5&oq=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E8%8B%B1%E6%96%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiEueIseaDheWFrOWvk-iLseaWhzIHEC4YgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIWEC4YgAQYDBiXBRjcBBjeBBjgBNgBAUjhD1C2BlinDnABeAGQAQCYAd0BoAHXB6oBBTAuNC4xuAEDyAEA-AEBmAIGoALrB8ICChAAGEcY1gQYsAPCAgUQABiABJgDAIgGAZAGCroGBggBEAEYFJIHBTEuNC4xoAeeFw&sclient=gws-wiz-serp
+
+ipartment - Google 搜索
+https://www.google.com/search?q=ipartment&rlz=1C1GCEA_enJP1090JP1090&oq=ipartment&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyDQgEEC4YxwEY0QMYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMDQ2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com/actions/runs/18/jobs/0
+
+New Issue · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/new?assignees=&labels=type%2Fproposal&projects=&template=feature-request.yaml
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQc5NDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How collaborative software works? · Issue #29 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/29
+
+About CRDTs • Conflict-free Replicated Data Types
+https://crdt.tech/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=operational%20transform&sort=byPopularity&type=story
+
+Scoreboarding - Wikipedia
+https://en.wikipedia.org/wiki/Scoreboarding
+
+Browser Event Loop · Issue #21 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/21
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1i-lbL8rbSLAQFM-oPKki3ADi4NwcusjuIn4OrerRM1g/edit
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/183AmltvZNTZYPe6XAjXNjvIwTiDONPgn-cSeaRyr8c4/edit
+
+compositing: Send entire scene's scroll offsets when sending WebRende… · mrobinson/servo@dba60f1
+https://github.com/mrobinson/servo/commit/dba60f167cdf8e224bda103d60b6c31e8234ce43
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+SRS
+http://192.168.43.246:8082/
+
+西班牙时间 - Google 搜索
+https://www.google.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%97%B4&sca_esv=c7ca51cf3b8ded0e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09OfsnI9IRsVwL3eSAxkQ4K3rzI3A%3A1712059063899&ei=t_ILZuC5Nt_c2roPjZqoyAw&ved=0ahUKEwig8dmCvaOFAxVfrlYBHQ0NCskQ4dUDCBA&uact=5&oq=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%B6%E9%97%B4&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-ilv-ePreeJmeaXtumXtDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEitJlD4Alj_JHAGeAGQAQGYAY4CoAHKFaoBBDItMTK4AQPIAQD4AQGYAhCgAqoSqAIKwgIKEAAYRxjWBBiwA8ICBxAjGOoCGCfCAgoQIxiABBiKBRgnwgIQEC4YgAQYigUYxwEY0QMYJ8ICCxAuGIAEGMcBGNEDwgIFEAAYgATCAg4QLhiABBiKBRhDGAoYKsICBRAuGIAEwgIdEC4YgAQYigUYQxgKGCoYlwUY3AQY3gQY3wTYAQHCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICDhAuGIAEGMcBGK8BGI4FwgIKEC4YgAQYigUYQ5gDA4gGAZAGCroGBggBEAEYFJIHBjYuMC4xMKAH_mc&sclient=gws-wiz-serp
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Igalia - Open Source Consultancy and Development
+https://www.igalia.com/
+
+fourth-grade university student - Google 搜索
+https://www.google.com/search?q=fourth-grade+university+student&rlz=1C1GCEA_enJP1090JP1090&oq=fourth-grade+university+student&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDM2NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Igalia application confirmation - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbkzPKzxbbKbRnKvsrcSHzDsi
+
 linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
