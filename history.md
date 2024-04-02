@@ -1,5 +1,38 @@
 # 2024-4-2
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+PAGE_OFFSET linux kernel - Google 検索
+https://www.google.com/search?client=ubuntu-sn&hs=0TJ&sca_esv=cebc95f0293f483f&channel=fs&q=PAGE_OFFSET+linux+kernel&uds=AMwkrPvFkBShrRODY5zFosSSAXPf1FcU6zGevFAxH9PHJosuSOW89om-bw0qUbF11PR3VZFnemdWR0E8YmkqkFa5PZb6zI7z-TwjMz_3d7u8qA0Q4CHWC18Gpt1fCQwAByNoklV7_lyttew_eISLS1PU6hd6uSq45i3f6C2MV_XcSL_wr_K6Y89SWoUbZrZhdZiR5YaAJ9KsHooiDfygKLaX1NwdJHaw6U8G-P9juoh-AH7r93SKJOqQiKW_lk-ZOexRKouoCKf3qSdCw2pXrDBfQHiLDOuvBosu7nSt4f82AYanWYWWkLiREYPIfIcLCMCF1lAm1JwtiD7psyIjAHxrZLFzl765PwSrI_SE-xdXf-K9HThP_XA&udm=2&prmd=ivnsmbtz&sa=X&ved=2ahUKEwio_eCIkaOFAxW6nq8BHflbDPkQtKgLegQIDBAB&biw=1530&bih=788&dpr=1#vhid=zVBuIBZSb37bXM&vssid=mosaic
+
+linux virtual memory layout by moniskiller upload [读书笔记]-咩羊。-ChinaUnix博客
+http://blog.chinaunix.net/uid-26727959-id-3162362.html
+
+PAGE_OFFSET_page_offset修改-CSDN博客
+https://blog.csdn.net/lyndon_li/article/details/135398241
+
+PAGE_OFFSET linux kernel - Google Search
+https://www.google.com/imgres?q=PAGE_OFFSET%20linux%20kernel&imgurl=https%3A%2F%2Fi.stack.imgur.com%2F4vlq6.png&imgrefurl=https%3A%2F%2Funix.stackexchange.com%2Fquestions%2F412100%2Fkernel-address-space-and-kernel-page-table&docid=iNRRzYY_QUIfZM&tbnid=YAxsOU3FLIlseM&vet=12ahUKEwi1672JkaOFAxWicPUHHcSnCvoQM3oECG4QAA..i&w=901&h=235&hcb=2&ved=2ahUKEwi1672JkaOFAxWicPUHHcSnCvoQM3oECG4QAA#imgrc=YAxsOU3FLIlseM&imgdii=gfeYjMGwC03ShM
+
+PAGE_OFFSET linux kernel - Google Search
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.slidesharecdn.com%2Fmmap-220509131606-8a7a1e93%2F85%2Fmemory-mapping-implementation-mmap-in-linux-kernel-42-320.jpg%3Fcb%3D1667938345&tbnid=90yDXxTNk1nyhM&vet=10CAoQxiAoCWoXChMIiLfro5KjhQMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.slideshare.net%2FAdrianHuang%2Fmemory-mapping-implementation-mmap-in-linux-kernel-251745285&docid=UZBidiGdJv01hM&w=320&h=180&itg=1&q=PAGE_OFFSET%20linux%20kernel&ved=0CAoQxiAoCWoXChMIiLfro5KjhQMVAAAAAB0AAAAAEAc#imgrc=90yDXxTNk1nyhM&imgdii=JyyHKK_-EO8eFM
+
+Memory Mapping Implementation (mmap) in Linux Kernel | PPT
+https://www.slideshare.net/AdrianHuang/memory-mapping-implementation-mmap-in-linux-kernel-251745285
+
+Adrian Huang, Sr. linux engineer at Lenovo | SlideShare
+https://www.slideshare.net/AdrianHuang
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 rust-lang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
