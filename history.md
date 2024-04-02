@@ -1,3 +1,71 @@
+# 2024-4-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Fix Iframe loading · Issue #31973 · servo/servo
+https://github.com/servo/servo/issues/31973
+
+servo/components/script/script_thread.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/script/script_thread.rs#L3050
+
+servo/components/constellation/constellation.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/constellation/constellation.rs#L3086
+
+servo/components/script/dom/document.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/script/dom/document.rs#L2427
+
+servo/components/script/script_thread.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/script/script_thread.rs#L3050
+
+servo/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini#L4
+
+Window: pageshow イベント - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/Window/pageshow_event
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+https://github.com/tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+"load" & "pageshow" events do not fire on contentWindow of iframe that stays on the initial empty document
+http://localhost:8001/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html?label=experimental&label=master&aligned
+
+1725958 - New wpt failures in /html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/ [initial-content-replacement.html, load-event-iframe-element.html, load-pageshow-events-iframe-contentWindow.html, and 1 others]
+https://bugzilla.mozilla.org/show_bug.cgi?id=1725958
+
+iframe chromium - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=iframe+chromium#ip=1
+
+Out-of-Process iframes (OOPIFs)
+https://www.chromium.org/developers/design-documents/oop-iframes/
+
+Chromium Docs - Process Model and Site Isolation
+https://chromium.googlesource.com/chromium/src/+/main/docs/process_model_and_site_isolation.md
+
+chromium github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=chromium+github
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+author%3Akojiishi+iframe&type=commits
+
+Fix |FramePainter| to reset |DisplayItemFragment| · chromium/chromium@8c15f1a
+https://github.com/chromium/chromium/commit/8c15f1a4e89175c4808f7231e57434016cd449ec#diff-89f47a2a1311d38e65f9167e3a3f1a02f709e9e0b0d0be227516ee65a73010c9
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/urls-and-fetching.html#fallback-base-url
+
+Networking: fold websocket and http tokio runtime into one. · Issue #31648 · servo/servo
+https://github.com/servo/servo/issues/31648
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 # 2024-4-2
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
