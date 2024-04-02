@@ -1,5 +1,71 @@
 # 2024-4-2
 
+rust-lang.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bootstrap: verify that `--target` and `--host` triples are valid before starting a build · Issue #122128 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/122128
+
+xv6-public/kernel.ld at master · mit-pdos/xv6-public
+https://github.com/mit-pdos/xv6-public/blob/master/kernel.ld
+
+tannal/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/tannal/rust
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+Security Conferences · Issue #27 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/27
+
+m68k - Google 検索
+https://www.google.com/search?q=m68k&client=ubuntu-sn&hs=Smx&sca_esv=9532ceb1aaa73555&channel=fs&ei=F7ULZoj8KrDg2roP-NCx2Ao&ved=0ahUKEwjI44OggqOFAxUwsFYBHXhoDKsQ4dUDCBA&uact=5&oq=m68k&gs_lp=Egxnd3Mtd2l6LXNlcnAiBG02OGsyBRAAGIAEMgcQABiABBgEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSOcTUOsJWIsScAF4AZABAJgBjgKgAfkGqgEFMC4xLjO4AQPIAQD4AQGYAgWgApcHwgIKEAAYRxjWBBiwA8ICChAAGIAEGIoFGEPCAgsQABiABBixAxiDAcICBhAAGAMYBMICDRAAGIAEGAQYsQMYgwHCAgoQABiABBgEGLEDwgIIEAAYgAQYsQOYAwCIBgGQBgqSBwUxLjEuM6AH5Ak&sclient=gws-wiz-serp
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=needs-triage&op=translate
+
+0010000c - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=0010000c
+
+utc time - Google 検索
+https://www.google.com/search?q=utc+time&client=ubuntu-sn&hs=RmI&sca_esv=cebc95f0293f483f&channel=fs&ei=FLoLZtHGE9yjvr0P_umUsA8&ved=0ahUKEwjRoOKAh6OFAxXcka8BHf40BfYQ4dUDCBA&uact=5&oq=utc+time&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHV0YyB0aW1lMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSKUGUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgaYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+Excalidraw
+https://excalidraw.com/
+
+Understanding Garbage Collection in JavaScriptCore From Scratch | WebKit
+https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/
+
+filpizlo github - Google 検索
+https://www.google.com/search?q=filpizlo+github&client=ubuntu-sn&hs=HMy&sca_esv=cebc95f0293f483f&channel=fs&ei=xL0LZriFOJPk1e8P6faVyA8&ved=0ahUKEwi495fDiqOFAxUTcvUHHWl7BfkQ4dUDCBA&uact=5&oq=filpizlo+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2ZpbHBpemxvIGdpdGh1YjIFECEYoAFI8w9QlwVYmg9wAXgAkAEAmAGsAqAB_gmqAQcwLjMuMi4xuAEDyAEA-AEC-AEBmAIGoAKYCsICCBAAGIAEGKIEwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZIHBzAuMy4yLjGgB-8I&sclient=gws-wiz-serp#ip=1
+
+eu-19-WANG-Thinking-Outside-The-JIT-Compiler-Understanding-And-Bypassing-StructureID-Randomization-With-Generic-And-Old-School-Methods - eu-19-Wang-Thinking-Outside-The-JIT-Compiler-Understanding-And-Bypassing-StructureID-Randomization-With-Generic-And-Old-School-Methods.pdf
+https://i.blackhat.com/eu-19/Thursday/eu-19-Wang-Thinking-Outside-The-JIT-Compiler-Understanding-And-Bypassing-StructureID-Randomization-With-Generic-And-Old-School-Methods.pdf
+
+pizlo-splash2018-jsc-compiler-slides - pizlo-splash2018-jsc-compiler-slides.pdf
+http://www.filpizlo.com/slides/pizlo-splash2018-jsc-compiler-slides.pdf
+
+WebKit/Source/bmalloc/libpas/Documentation.md at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+jemalloc - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=jemalloc#ip=1
+
+build raylib with zig cc - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=build+raylib+with+zig+cc
+
+linux kernel memory - Google 検索
+https://www.google.com/search?client=ubuntu-sn&hs=thy&sca_esv=cebc95f0293f483f&channel=fs&q=linux+kernel+memory&uds=AMwkrPtd7EXxieMQKehnHvZf8S6pjzlChdNbLlDKhcTpu8uSlkA6oRznTGzledGAkW3p8XDo-At0RHD3C1IsqAMC-MHZDCYFMsM_IYqLa27StyKfaSuCUPOXInnQBI8t0RVbMz3vv7zlo5DgqXhqrSDOgj3PqbQKm_IJc4BzAefURfO4srsCBn66x59_E82cgxMEP5fhDb6NgnbSQVLloX2j632O7wkOUVbq-jX7ZDsav4RkxH2s3oVRqNdlLZ1S6WOZPYhfTF7LhjhrPcef_k4XpC8-HsDNel7I7bpo_pESXPkYSKMQyjwWf9JUQ6GIhYS-HBaa3GVdRzejbS4G5sy0ktOHVdzY1A&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwi2l4TCj6OFAxWLna8BHe6_DPcQtKgLegQIDhAB&biw=1530&bih=788&dpr=1
+
+linux kernel memory - Google Search
+https://www.google.com/imgres?q=linux%20kernel%20memory&imgurl=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F761a42bb0fe0db1be2bdf411b0df557280b13213%2F2-Figure1-1.png&imgrefurl=https%3A%2F%2Fwww.semanticscholar.org%2Fpaper%2FAnalyzing-and-improving-Linux-kernel-memory-a-model-Liakh-Grace%2F761a42bb0fe0db1be2bdf411b0df557280b13213&docid=3yQrm1MuzHRq5M&tbnid=lCYf1D-Vs2YGAM&vet=12ahUKEwjVm-DCj6OFAxXLcfUHHaxdDvgQM3oECGMQAA..i&w=830&h=570&hcb=2&ved=2ahUKEwjVm-DCj6OFAxXLcfUHHaxdDvgQM3oECGMQAA
+
+lwn article kernel memory management - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=lwn+article+kernel+memory+management#ip=1
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
