@@ -3,6 +3,147 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+⚙ D206309 Bug 1868293 - Fix clippy warnings in glean-ffi r=sylvestre
+https://phabricator.services.mozilla.com/D206309
+
+1868296 - fix a clippy warning in glean/api/src/private/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868296
+
+event.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/78a2c17cc80680a5a82446e4ce7c45a73b935383/toolkit/components/glean/api/src/private/event.rs#110
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+Linux x64 opt build-linux64/opt B
+https://treeherder.mozilla.org/logviewer?job_id=443276216&repo=autoland&lineNumber=54732
+
+rMOZILLACENTRAL860832637944
+https://phabricator.services.mozilla.com/rMOZILLACENTRAL8608326379447fcc62366019d6028d4f325dae26
+
+Failed to build aarch64-apple-tvos target · Issue #121640 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/121640
+
+Case Study: Add text-wrap css feature in firefox gecko · Issue #24 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/24
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#learn-more
+
+Add `serde` optional feature for cssparser-color · Issue #376 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/issues/376
+
+Add `serde` optional feature for cssparser-color · Issue #376 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/issues/376
+
+color: Split most of the color parsing to a separate crate. by emilio · Pull Request #363 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/pull/363/files#diff-12d1cf56d5d03c679a5f8f1c48cfe969a5c4276a1bee8647cc548de13f18e465
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+servo/rust-cssparser: Rust implementation of CSS Syntax Level 3
+https://github.com/servo/rust-cssparser
+
+Features - The Cargo Book
+https://doc.rust-lang.org/cargo/reference/features.html
+
+tokio/tokio/Cargo.toml at d2980492991f223ad05f94f5d22d380e9cfd71d8 · tokio-rs/tokio
+https://github.com/tokio-rs/tokio/blob/d2980492991f223ad05f94f5d22d380e9cfd71d8/tokio/Cargo.toml#L67
+
+Fedora Packages
+https://packages.fedoraproject.org/
+
+Home - src.fedoraproject.org
+https://src.fedoraproject.org/
+
+ripgrep/crates/printer/Cargo.toml at 80007698d3ae6c1def8ee784c6287ce1376de5c4 · BurntSushi/ripgrep
+https://github.com/BurntSushi/ripgrep/blob/80007698d3ae6c1def8ee784c6287ce1376de5c4/crates/printer/Cargo.toml
+
+spacedrive/crates/crypto/Cargo.toml at c7df18d3b7c6564593a94dd97ca007711f29128a · spacedriveapp/spacedrive
+https://github.com/spacedriveapp/spacedrive/blob/c7df18d3b7c6564593a94dd97ca007711f29128a/crates/crypto/Cargo.toml#L19
+
+rust-cssparser/src/unicode_range.rs at c3314d15b281f376538cdc91bbb9ce21d5052231 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/blob/c3314d15b281f376538cdc91bbb9ce21d5052231/src/unicode_range.rs#L27
+
+cargo feature 间接依赖 - Google 搜索
+https://www.google.com/search?q=cargo+feature+%E9%97%B4%E6%8E%A5%E4%BE%9D%E8%B5%96&rlz=1C1GCEA_enJP1090JP1090&oq=cargo+feature+%E9%97%B4%E6%8E%A5%E4%BE%9D%E8%B5%96&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBNIBCDgzMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Waterfox/servo/components/style/values/specified/resolution.rs at d33398854671a98463cf5303d0fcf9770c3de249 · WaterfoxCo/Waterfox
+https://github.com/WaterfoxCo/Waterfox/blob/d33398854671a98463cf5303d0fcf9770c3de249/servo/components/style/values/specified/resolution.rs#L12
+
+ChatGPT
+https://chat.openai.com/c/51f10db3-e8a1-48ae-80cc-d680a146c2b8
+
+servo/components/script/dom/servoparser/mod.rs at 4227f2f8a1c0446cca88b68738d297bfffbdebc9 · servo/servo
+https://github.com/servo/servo/blob/4227f2f8a1c0446cca88b68738d297bfffbdebc9/components/script/dom/servoparser/mod.rs#L745
+
+gecko-dev/servo/components/style/Cargo.toml at 28cc363411d2029aed04c969c8f98785cae110db · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/blob/28cc363411d2029aed04c969c8f98785cae110db/servo/components/style/Cargo.toml
+
+GitHub
+https://github.com/
+
+Pull request search results
+https://github.com/search?q=involves%3Aferjm&type=pullrequests
+
+linux - Is there any way to rename a Cargo project? - Stack Overflow
+https://stackoverflow.com/questions/44912189/is-there-any-way-to-rename-a-cargo-project
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+反向代理 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/administration/reverse-proxies
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIJCAEQRRg5GIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgYIBhBFGDwyBggHEEUYPNIBCDE0MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+无标题文档 - Google 文档
+https://docs.google.com/document/d/1i-lbL8rbSLAQFM-oPKki3ADi4NwcusjuIn4OrerRM1g/edit
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+CMU 15-721 :: Advanced Database Systems (Spring 2024)
+https://15721.courses.cs.cmu.edu/spring2024/
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Fault Status Register arm - Google 搜索
+https://www.google.com/search?q=Fault+Status+Register+arm&rlz=1C1GCEA_enJP1090JP1090&oq=Fault+Status+Register+arm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI0ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+SegFault, page table, kernel memory management, an ebpf approach. · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+318656406-3500ce6e-23c2-4dc0-b481-51115b74c8f7.png (1920×1080)
+https://private-user-images.githubusercontent.com/149947508/318656406-3500ce6e-23c2-4dc0-b481-51115b74c8f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwMzgwOTEsIm5iZiI6MTcxMjAzNzc5MSwicGF0aCI6Ii8xNDk5NDc1MDgvMzE4NjU2NDA2LTM1MDBjZTZlLTIzYzItNGRjMC1iNDgxLTUxMTE1Yjc0YzhmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwMlQwNjAzMTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzRkODhhZGY2MWFmYzdlNTMyMzUwM2UzOWQzNzgyYTc1Nzk5MWQ2MDU4NzhiYzUyM2Y4NWM4NTIwMjM5OGE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jPOWtIKvKkZFIrtM2mckbjm4wvZa4Z5uEpvUYiZQIl8
+
+utc时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIOCAEQRRg5GEMYgAQYigUyDAgCEAAYQxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRg8MgYIBxBFGDzSAQc5NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Proposal: DOM APIs in web workers? · Issue #1217 · whatwg/dom
 https://github.com/whatwg/dom/issues/1217
 

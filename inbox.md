@@ -1,5 +1,16 @@
 # 2024-4-2 0 | 0 W
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868293
+
+git init
+git checkout -b main
+git add README.md
+git commit -m "first commit"
+git remote add origin http://192.168.43.62:3000/tannal/cssparser-examples.git
+git remote add origin http://192.168.43.62:3000/tannal/rust-workspace.git
+git push -u origin main
+
+igalian involves:ferjm
 
 
 # 2024-4-1 0 | 0 W
