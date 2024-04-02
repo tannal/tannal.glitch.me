@@ -3,6 +3,66 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Fix Iframe loading · Issue #31973 · servo/servo
+https://github.com/servo/servo/issues/31973
+
+servo/components/script/dom/htmliframeelement.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/script/dom/htmliframeelement.rs#L292
+
+servo/components/script/dom/htmliframeelement.rs at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/components/script/dom/htmliframeelement.rs#L292
+
+servo/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini#L4
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files
+
+servo/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini at da3991c8f37251e04ba67dd7e71c3129327dddae · servo/servo
+https://github.com/servo/servo/blob/da3991c8f37251e04ba67dd7e71c3129327dddae/tests/wpt/meta/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html.ini#L4
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#process-the-iframe-attributes
+
+flaky test - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=flaky+test
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Issue search results
+https://github.com/search?q=involves%3Agterzian&type=issues
+
+Fix Iframe loading · Issue #31973 · servo/servo
+https://github.com/servo/servo/issues/31973
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element%3Ahtml-element-insertion-steps
+
+How collaborative software works? · Issue #29 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/29
+
+figma crdt - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=figma+crdt
+
+How Figma’s multiplayer technology works | Figma Blog
+https://www.figma.com/blog/how-figmas-multiplayer-technology-works/
+
+rose wong
+https://www.rosewongart.com/
+
+y-crdt github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=y-crdt+github
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+automerge github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=automerge+github
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 CMU-SAFARI/ramulator: A Fast and Extensible DRAM Simulator, with built-in support for modeling many different DRAM technologies including DDRx, LPDDRx, GDDRx, WIOx, HBMx, and various academic proposals. Described in the IEEE CAL 2015 paper by Kim et al. at http://users.ece.cmu.edu/~omutlu/pub/ramulator_dram_simulator-ieee-cal15.pdf
 https://github.com/CMU-SAFARI/ramulator
 

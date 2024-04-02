@@ -3,6 +3,11 @@
 
 SharedArrayBuffer
 
+
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
+
+./mach test-wpt ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
+
 ./mach test-wpt ./tests/wpt/tests/workers/postMessage*
 ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/workers/postMessage*
 
