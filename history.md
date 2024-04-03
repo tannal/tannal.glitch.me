@@ -1,5 +1,32 @@
 # 2024-4-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+underground-software/singularity: KDLP: Beyond the event horizon
+https://github.com/underground-software/singularity
+
+KDLP
+https://kdlp.underground.software/
+
+Problem loading page
+http://192.168.43.1:8080/quill.html
+
+debian multiarch - Search
+http://cn.bing.com/search?q=debian+multiarch&qs=CT&pq=debian+multi&sk=CT1&sc=10-12&cvid=14683DB8643D4CC6B88BFF529292A7C4&FORM=QBLH&sp=2&lq=0
+
+Multiarch/HOWTO - Debian Wiki
+https://wiki.debian.org/Multiarch/HOWTO
+
+riscv64-linux-gnu - Google 搜索
+https://www.google.com/search?client=firefox-b-1-e&q=riscv64-linux-gnu
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
