@@ -1,5 +1,7 @@
 # inbox
 
+b WebFrameWidgetImpl::BeginMainFrame
+
 printf "%s\n",  url->string_.Latin1().data()
 b html_frame_owner_element.cc:802
 

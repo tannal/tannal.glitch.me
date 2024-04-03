@@ -1,5 +1,56 @@
 # 2024-4-3
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issue search results
+https://github.com/search?q=involves%3Alarsberg&type=issues
+
+SimonSapin (Simon Sapin)
+https://github.com/simonsapin
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=FirefoxReality%20&sort=byPopularity&type=story
+
+nox (Anthony Ramine)
+https://github.com/nox
+
+mbrubeck (Matt Brubeck)
+https://github.com/mbrubeck
+
+Issue search results
+https://github.com/search?q=involves%3Aedunham&type=issues
+
+rust-unofficial/awesome-rust: A curated list of Rust code and resources.
+https://github.com/rust-unofficial/awesome-rust?tab=readme-ov-file
+
+till (Till!)
+https://github.com/till
+
+TillStore/TillStore at master · till/TillStore
+https://github.com/till/TillStore/tree/master/TillStore
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bholley&sort=byPopularity&type=story
+
+bholley - Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox
+https://bholley.net/blog/2017/stylo.html
+
+Webgpu on firefox - Stack Overflow
+https://stackoverflow.com/questions/76689982/webgpu-on-firefox
+
+c - How to skip a number of iterations of a loop in GDB? - Stack Overflow
+https://stackoverflow.com/questions/27388729/how-to-skip-a-number-of-iterations-of-a-loop-in-gdb
+
+Fix Iframe loading · Issue #31973 · servo/servo
+https://github.com/servo/servo/issues/31973
+
+Fix window.open loading · Issue #31982 · servo/servo
+https://github.com/servo/servo/issues/31982
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#apis-for-creating-and-navigating-browsing-contexts-by-name:url-and-history-update-steps
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

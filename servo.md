@@ -1,6 +1,8 @@
 
 # inbox
 
+larsberg, jdm, pcwalton, jack, simonsapin, nox, ms2ger, mbrubeck, edunham, ajeffrey, till
+
 matching CSS selectors
 laying out general elements
 text processing
