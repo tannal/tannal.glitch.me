@@ -1,5 +1,18 @@
 # 2024-4-3 0 | 0 W
 
+sudo dpkg --add-architecture amd64
+sudo dpkg --remove-architecture amd64
+sudo apt update
+
+sudo apt remove libc6-amd64-cross
+
+zig cc
+
+export LISTEN_ADDRESS=:4874
+
+
+
+
 Libre Graphics Meeting
 https://github.com/servo/pathfinder/issues/142
 

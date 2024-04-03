@@ -3,6 +3,63 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+Getting Started ⚡ Zig Programming Language
+https://ziglang.org/learn/getting-started/
+
+Install Zig from a Package Manager · ziglang/zig Wiki
+https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+pingora/docs/quick_start.md at main · cloudflare/pingora
+https://github.com/cloudflare/pingora/blob/main/docs/quick_start.md
+
+Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+lib64/ld-linux-x86-64 not found - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=lib64%2Fld-linux-x86-64+not+found#ip=1
+
+qemu-x86_64: Could not open '/lib64/ld-linux-x86-64.so.2': site:stackoverflow.com - Google 検索
+https://www.google.com/search?q=qemu-x86_64:+Could+not+open+%27/lib64/ld-linux-x86-64.so.2%27:+site:stackoverflow.com&client=ubuntu-sn&hs=sbg&sca_esv=6246709ce63302d6&channel=fs&sa=X&ved=2ahUKEwj4lZevjKGFAxXqr1YBHWelAs4QrQIoBHoECBYQBQ&biw=1850&bih=963&dpr=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Powerful%20Drop-In%20Replacement&sort=byPopularity&type=story
+
+Zig cc: A drop-in replacement for GCC/Clang (2020) | Hacker News
+https://news.ycombinator.com/item?id=27872596
+
+QEMU and Dynamic Linking on Debian/Ubuntu
+https://www.alexrp.com/p/qemu-and-dynamic-linking-on-ubuntu
+
+Multiarch/HOWTO - Debian Wiki
+https://wiki.debian.org/Multiarch/HOWTO
+
+SRS
+http://localhost:8082/players/srs_player.html?schema=http&port=8082&api=8082
+
+YouTube動画ダウンロード - 無料オンラインビデオダウンローダー
+https://ssyoutube.com/ja29EE/youtube-video-downloader
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issue search results
 https://github.com/search?q=involves%3Araphlinus&type=issues&p=2
 
