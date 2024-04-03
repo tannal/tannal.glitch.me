@@ -3,6 +3,9 @@
 
 SharedArrayBuffer
 
+RUST_LOG="debug" ./mach run about:blank --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach run about:blank -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
 
 RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
 
