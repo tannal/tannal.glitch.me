@@ -1,4 +1,17 @@
+# 2024-4-3 0 | 0 W
+
+
+Mozilla Gfx Team
+invovles:nical
+
+
+fuchia graphics team
+invovles:raphlinus
+
+
 # 2024-4-2 0 | 0 W
+
+https://en.opensuse.org/openSUSE:Members
 
 https://github.com/HollowMan6
 

@@ -1,5 +1,185 @@
 # 2024-4-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Tips from Intel GPU guide · Issue #1506 · servo/webrender
+https://github.com/servo/webrender/issues/1506
+
+Support DynamicProperties for gradient start/end points? · Issue #2800 · servo/webrender
+https://github.com/servo/webrender/issues/2800
+
+1868296 - fix a clippy warning in glean/api/src/private/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868296
+
+HollowMan6 (HollowMan6) / Repositories
+https://github.com/HollowMan6?tab=repositories
+
+My-Igalia-Coding-Experience/proposal.md at main · HollowMan6/My-Igalia-Coding-Experience
+https://github.com/HollowMan6/My-Igalia-Coding-Experience/blob/main/proposal.md
+
+My-Igalia-Coding-Experience/blog.md at main · HollowMan6/My-Igalia-Coding-Experience
+https://github.com/HollowMan6/My-Igalia-Coding-Experience/blob/main/blog.md
+
+openSUSE:Members - openSUSE Wiki
+https://en.opensuse.org/openSUSE:Members
+
+#Outreachy > Switch Servo Layout to Fixed Point Arithmetic - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Switch.20Servo.20Layout.20to.20Fixed.20Point.20Arithmetic
+
+Fix Iframe loading · Issue #31973 · servo/servo
+https://github.com/servo/servo/issues/31973
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-interface
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=flaky&op=translate
+
+Intermittent PASS in /html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html · Issue #28681 · servo/servo
+https://github.com/servo/servo/issues/28681
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+script: implement AbortController by syvb · Pull Request #31361 · servo/servo
+https://github.com/servo/servo/pull/31361
+
+layout: Have `current_block_direction_position` in `PlacementState` use `Au` by ektuu · Pull Request #31948 · servo/servo
+https://github.com/servo/servo/pull/31948
+
+Web page geometries - Google 文档
+https://docs.google.com/document/d/1WZKlOSUK4XI0Le0fgCsyUTVw0dTwutZXGWwzlHXewiU/edit#heading=h.4nd2ij1t6nbk
+
+document.cc - Search
+https://source.chromium.org/search?q=document.cc&ss=chromium
+
+How collaborative software works? · Issue #29 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/29
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+servo/components/script/dom/htmliframeelement.rs at cc082efbfd5b86c0da53c36b0020dfdaced012e7 · servo/servo
+https://github.com/servo/servo/blob/cc082efbfd5b86c0da53c36b0020dfdaced012e7/components/script/dom/htmliframeelement.rs#L123
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Add `serde` optional feature for cssparser-color · Issue #376 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/issues/376
+
+Mutating the close watcher stack during a close request · Issue #10240 · whatwg/html
+https://github.com/whatwg/html/issues/10240
+
+HTML Standard
+https://html.spec.whatwg.org/#process-close-watchers
+
+Code • Conflict-free Replicated Data Types
+https://crdt.tech/implementations
+
+Issue search results
+https://github.com/search?q=involves%3Asyvb&type=issues&p=3
+
+timescale/timescaledb: An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
+https://github.com/timescale/timescaledb
+
+幂等 英文 - Google 搜索
+https://www.google.com/search?q=%E5%B9%82%E7%AD%89+%E8%8B%B1%E6%96%87&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%B9%82%E7%AD%89+%E8%8B%B1%E6%96%87&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAE0gEINDA5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CRDTs are the future | Hacker News
+https://news.ycombinator.com/item?id=24617542
+
+Submissions from tiny.cloud | Hacker News
+https://news.ycombinator.com/from?site=tiny.cloud
+
+An Introduction to Conflict-Free Replicated Data Types | Hacker News
+https://news.ycombinator.com/item?id=23737639
+
+Real Differences between OT and CRDT under a General Transformation Framework for Consistency Maintenance in Co-Editors
+https://arxiv.org/ftp/arxiv/papers/1905/1905.01518.pdf
+
+www.codecommit.com
+http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+codecommit+%28Code+Commit%29
+
+Working code for Operational Transformation/CRDT hybrid | by Raph Levien | Medium
+https://medium.com/@raphlinus/working-code-for-operational-transformation-crdt-hybrid-9d04a57309da
+
+Raph Levien
+https://levien.com/
+
+Raph Levien: Free Software
+https://levien.com/free.html
+
+Gdome: The Gnome DOM Engine
+https://levien.com/gnome/gdome.html
+
+home.pacbell.net
+http://home.pacbell.net/david-b/xml/
+
+xi-editor retrospective | Raph Levien’s blog
+https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html
+
+WebRender: History – Mozilla Gfx Team Blog
+https://mozillagfx.wordpress.com/2018/10/26/webrender-history/
+
+Nical – Mozilla Gfx Team Blog
+https://mozillagfx.wordpress.com/author/nicalsilva/
+
+xi-editor/xi-editor: A modern editor with a backend written in Rust.
+https://github.com/xi-editor/xi-editor
+
+Weston repaint scheduling
+https://www.collabora.com/about-us/blog/2015/02/12/weston-repaint-scheduling/
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+2D Graphics on Modern GPU | Raph Levien’s blog
+https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html
+
+Please publish a new crates.io release · Issue #563 · servo/pathfinder
+https://github.com/servo/pathfinder/issues/563
+
+Car
+https://w3.impa.br/~diego/projects/GanEtAl14/sample.html?car
+
+pathfinder/renderer/src/tiles.rs at 30419d07660dc11a21e42ef4a7fa329600cff152 · servo/pathfinder
+https://github.com/servo/pathfinder/blob/30419d07660dc11a21e42ef4a7fa329600cff152/renderer/src/tiles.rs#L23
+
+Explanations - X Window System Basics
+https://magcius.github.io/xplain/article/x-basics.html
+
+hardware overlay - Google 搜索
+https://www.google.com/search?sca_esv=f16471168e6fc9b9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_M3m4OKHIvP7p5yqq-hDJYDxyUrQ:1712108116504&q=hardware+overlay&uds=AMwkrPs4mDHqV7QfY9nYaKRHgvE90C72bVB4YEGG7F9gkEdkctwJmsvUEhylgnAsqfz29b3xo1bGNsz2Ue7a5J0E3kwQ1dF-vui6Pp7iUOctI3x9VcSLhiTNzqq-4P5Ll6gggdfPPxwmqMjqWXmj_zaRG39IzK7_1L3ReVqCYbUINCaKJW7BEOnEnjlKJ8YV6SCQaV4FOz47Pgi_uZAotI9yXSHfXBI1BtDPHme7G29PE4t_nkUDxhogWHbHDw3DD1z_BAxNV_RF&udm=2&prmd=sivnmbtz&sa=X&ved=2ahUKEwiVsefg86SFAxUljq8BHe6eA2EQtKgLegQIDBAB&biw=1536&bih=703&dpr=1.25
+
+Issue search results
+https://github.com/search?q=involves%3Araphlinus&type=issues&p=2
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+This Is How to Build a Collaborative Text Editor Using Rails | Aha! software
+https://www.aha.io/blog/text-editor
+
+This Is How to Build a Collaborative Text Editor Using Rails | Aha! software
+https://www.aha.io/blog/text-editor
+
+Issue search results
+https://github.com/search?q=involves%3Anicalsilva&type=issues
+
+nical (Nicolas Silva)
+https://github.com/nical
+
+euclid/src/box2d.rs at 6b2aece8d8bdd3e872603a3fe07d6bc438ae3d24 · servo/euclid
+https://github.com/servo/euclid/blob/6b2aece8d8bdd3e872603a3fe07d6bc438ae3d24/src/box2d.rs#L67
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
