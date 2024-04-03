@@ -1,5 +1,13 @@
 # 2024-4-3 0 | 0 W
 
+https://github.com/linebender/xilem/issues/157
+
+the feeling of catch up and following the context
+you can ignore
+
+
+
+
 sudo dpkg --add-architecture amd64
 sudo dpkg --remove-architecture amd64
 sudo apt update

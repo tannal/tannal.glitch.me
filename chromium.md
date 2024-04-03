@@ -505,3 +505,5 @@ VariableDeclaration
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
 https://groups.google.com/a/chromium.org/g/blink-dev
+
+https://groups.google.com/a/chromium.org/g/graphics-dev

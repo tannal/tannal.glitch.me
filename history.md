@@ -1,5 +1,155 @@
 # 2024-4-3
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+Do The Japanese Feel Poor? | Street Interview - YouTube
+https://www.youtube.com/watch?v=Nwg8ZxycA1s
+
+Raph Levien’s blog | Blog of Raph Levien.
+https://raphlinus.github.io/
+
+A crate I want: 2d graphics | Raph Levien’s blog
+https://raphlinus.github.io/rust/graphics/2018/10/11/2d-graphics.html
+
+Understanding Flutter Layout (Box)Constraints | by Kartik Sharma | ProAndroidDev
+https://proandroiddev.com/understanding-flutter-layout-box-constraints-292cc0d5e807
+
+Flutter's Rendering Pipeline - YouTube
+https://www.youtube.com/watch?v=UUfXWzp0-DU
+
+Thoughts on Rust GUIs - libs - Rust Internals
+https://internals.rust-lang.org/t/thoughts-on-rust-guis/6894
+
+Web page geometries - Google 文档
+https://docs.google.com/document/d/1WZKlOSUK4XI0Le0fgCsyUTVw0dTwutZXGWwzlHXewiU/edit
+
+tannal (tannal)
+https://github.com/tannal
+
+GUI and Graphics · Issue #30 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/30
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+wgpu/wgpu/src/backend/webgpu.rs at e102e59e477c54dd9c8913438b92ad97a81c491a · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/blob/e102e59e477c54dd9c8913438b92ad97a81c491a/wgpu/src/backend/webgpu.rs#L979
+
+Issue search results
+https://github.com/search?q=%22property+tree%22+involves%3Achrishtr&type=issues
+
+rendering/rendering-event-loop.md at master · chrishtr/rendering
+https://github.com/chrishtr/rendering/blob/master/rendering-event-loop.md
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ChatGPT
+https://chat.openai.com/c/0b5c1630-29f3-4565-a923-b25cc38a9d62
+
+LGM 2019 – Teaching the Art with the Open Source … - YouTube
+https://www.youtube.com/watch?v=BIoSyF01zTg
+
+Pull request search results
+https://github.com/search?q=involves%3Anical&type=pullrequests
+
+Adds the `Box3D::from_origin_and_size` associated function. by kyp44 · Pull Request #520 · servo/euclid
+https://github.com/servo/euclid/pull/520
+
+Nical github - Google 搜索
+https://www.google.com/search?q=Nical+github&rlz=1C1GCEA_enJP1090JP1090&oq=nical&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgkIABBFGDkYgAQyCAgBEEUYJxg7MgkIAhAAGAoYgAQyDwgDEC4YChjHARjRAxiABDIJCAQQLhgKGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjQwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Rust 2021: GUI | Raph Levien’s blog
+https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+Xilem: an architecture for UI in Rust | Raph Levien’s blog
+https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
+
+Xilem: An Architecture for UI in Rust | Hacker News
+https://news.ycombinator.com/item?id=31297550
+
+Error creating Device · Issue #157 · linebender/xilem
+https://github.com/linebender/xilem/issues/157
+
+• Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+中国 3月 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+3%E6%9C%88+cpi&sca_esv=4e628c799bcd934b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_ELnZv5RR-YB-3rgCn61c8IEc9tA%3A1712141153997&ei=YTMNZoW4PK7f1e8P95C36AU&ved=0ahUKEwjF7Kfq7qWFAxWub_UHHXfIDV0Q4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+3%E6%9C%88+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-S4reWbvSAz5pyIIGNwaTIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jtAlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIGmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+看起来火狐浏览器 116 将为树莓派 4 添加硬件加速视频播放功能-Linuxeden开源社区
+http://www.linuxeden.com/a/124062
+
+树莓派5超频至3GHz！性能飙升25％ 但掉帧更严重了|默频|处理器|ghz|firefox_网易订阅
+https://www.163.com/dy/article/IG026KEG0511CPVM.html
+
+树莓派实验室 | Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯
+https://shumeipai.nxez.com/
+
+树莓派6 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE6&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE6&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGAwYgAQyBwgCEAAYgATSAQgxNTQ0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+command line - How to get the GPU info? - Ask Ubuntu
+https://askubuntu.com/questions/5417/how-to-get-the-gpu-info
+
+树莓派升值计划——流畅播放 30 帧 1080p 网页视频 - 知乎
+https://zhuanlan.zhihu.com/p/98763733
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=pathfinder
+
+Chromium Graphics // Chrome GPU
+https://www.chromium.org/developers/design-documents/chromium-graphics/
+
+WebRender
+https://groups.google.com/a/chromium.org/g/graphics-dev/c/DNcwhi5Hv08/m/j7VaVV_KAwAJ
+
+Index – pcwalton – pcwalton's blog
+https://pcwalton.github.io/
+
+Revamped Parallel Layout in Servo – pcwalton – pcwalton's blog
+https://pcwalton.github.io/_posts/2014-02-25-revamped-parallel-layout-in-servo.html
+
+403 Forbidden
+https://www.cs.virginia.edu/~cs415/
+
+layout: Guess the width of block formatting contexts so that we can speculatively lay them out in parallel by pcwalton · Pull Request #2256 · servo/servo
+https://github.com/servo/servo/pull/2256/files
+
+Boehm GC - Google 搜索
+https://www.google.com/search?q=Boehm+GC&rlz=1C1GCEA_enJP1090JP1090&oq=Boehm+GC&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGA8YHjIGCAcQABgeMggICBAAGAUYHjIICAkQABgFGB7SAQczNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cs.virginia.edu&sort=byPopularity&type=story
+
+Design Principles Behind Smalltalk
+https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html
+
+Guide to x86 Assembly
+https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+
+The Case for Writing a Kernel in Rust
+https://www.cs.virginia.edu/~bjc8c/papers/levy17rustkernel.pdf
+
+Introduction to Computing: Explorations in Language, Logic, and Machines
+https://computingbook.org/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
