@@ -1,6 +1,17 @@
 
 # inbox
 
+servo founders
+Lars Bergstrom 
+involves:larsbergstrom
+Brian Anderson
+involves:brson
+Manish Goregaokar 
+involves:Manishearth
+
+
+Keegan McAllister https://github.com/kmcallister
+invovles:kmcallister
 SharedArrayBuffer
 
 RUST_LOG="debug" ./mach run about:blank --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt

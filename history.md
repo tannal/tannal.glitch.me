@@ -1,5 +1,71 @@
 # 2024-4-3
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+Code search results
+https://github.com/search?q=repo%3Amit-pdos%2Fxv6-public+loaduvm&type=code
+
+Excalidraw
+https://excalidraw.com/
+
+icse16-servo-preprint.pdf
+https://raw.githubusercontent.com/larsbergstrom/papers/master/icse16-servo-preprint.pdf
+
+Trident Spartan - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Trident+Spartan
+
+brson's resume
+https://brson.github.io/resume.html
+
+brson.github.io/
+https://brson.github.io/
+
+larsbergstrom (Lars Bergstrom)
+https://github.com/larsbergstrom
+
+John Reppy's home page
+https://people.cs.uchicago.edu/~jhr/
+
+CMSC 22600: Compilers for Computer Languages
+https://www.classes.cs.uchicago.edu/archive/2020/fall/22600-1/
+
+project-1.pdf
+https://classes.cs.uchicago.edu/archive/2020/fall/22600-1/project/project-1.pdf
+
+Issue search results
+https://github.com/search?q=involves%3Abrson&type=issues&p=10
+
+tigerbeetle/tigerbeetle: The distributed financial transactions database designed for mission critical safety and performance.
+https://github.com/tigerbeetle/tigerbeetle
+
+Manishearth (Manish Goregaokar)
+https://github.com/Manishearth
+
+Issue search results
+https://github.com/search?q=org%3Aservo%20involves%3AManishearth&type=issues
+
+kmcallister (Keegan McAllister)
+https://github.com/kmcallister
+
+Skywave by KM6PNI
+https://kmcallister.github.io/skywave/
+
+Issue search results
+https://github.com/search?q=org%3Aservo%20involves%3Akmcallister&type=issues
+
+Get Shumway working in Servo · Issue #6097 · servo/servo
+https://github.com/servo/servo/issues/6097
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=ceased&op=translate
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
