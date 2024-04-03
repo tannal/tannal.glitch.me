@@ -1,9 +1,11 @@
 # 2024-4-3 0 | 0 W
 
+Libre Graphics Meeting
+https://github.com/servo/pathfinder/issues/142
 
 Mozilla Gfx Team
-invovles:nical
-
+involves:nical
+involves:pcwalton webrender
 
 fuchia graphics team
 invovles:raphlinus
