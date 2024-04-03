@@ -3,6 +3,66 @@
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+dblp: computer science bibliography
+https://dblp.org/
+
+playout.pdf
+https://parlab.eecs.berkeley.edu/sites/all/parlab/files/playout.pdf
+
+Leo Meyerovich, Gentleman Scholar & Co-Founder of Graphistry, Inc.
+https://lmeyerov.github.io/
+
+Rohit Zambre
+https://www.rohitzambre.com/
+
+rzambre (rzambre) / Repositories
+https://github.com/rzambre?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ParLab&sort=byPopularity&type=story
+
+Rohit Zambre — Rohit Zambre's Publications
+https://www.rohitzambre.com/research
+
+BootCamp_Intro_Demmel_09_final.pdf
+https://parlab.eecs.berkeley.edu/sites/all/parlab/files/BootCamp_Intro_Demmel_09_final.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=parlab.eecs.berkeley.edu&sort=byPopularity&type=story
+
+paper.pdf
+https://lmeyerov.github.io/projects/pbrowser/pubfiles/paper.pdf
+
+Web Tooling Benchmark v0.5.3
+https://v8.github.io/web-tooling-benchmark/
+
+mozilla.dev.servo - Google Groups
+https://groups.google.com/g/mozilla.dev.servo
+
+servo/servo · Discussions · GitHub
+https://github.com/servo/servo/discussions
+
+Yoga
+https://www.yogalayout.dev/
+
+Top Level Await · Issue #1637 · facebook/yoga
+https://github.com/facebook/yoga/issues/1637
+
+pcwalton (Patrick Walton)
+https://github.com/pcwalton
+
+bholley (Bobby Holley)
+https://github.com/bholley/
+
+Message-to-Employees-Change-in-Difficult-Times.pdf
+https://blog.mozilla.org/wp-content/uploads/2020/08/Message-to-Employees-Change-in-Difficult-Times.pdf
+
+Implement cross-origin wrappers · Issue #2382 · servo/servo
+https://github.com/servo/servo/issues/2382
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 linebender/xilem: An experimental Rust native UI framework
 https://github.com/linebender/xilem
 
