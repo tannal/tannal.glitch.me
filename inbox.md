@@ -6,7 +6,7 @@ the feeling of catch up and following the context
 you can ignore
 
 
-
+Oriol Brufau
 
 sudo dpkg --add-architecture amd64
 sudo dpkg --remove-architecture amd64
