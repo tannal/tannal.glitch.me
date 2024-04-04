@@ -1,5 +1,10 @@
 # inbox
 
+gdb ./out/Default/chrome
+source tools/gdb/gdbinit
+b HTMLFrameElementBase::OpenURL
+handle all nostop
+
 b WebFrameWidgetImpl::BeginMainFrame
 
 printf "%s\n",  url->string_.Latin1().data()

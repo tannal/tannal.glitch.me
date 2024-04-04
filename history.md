@@ -1,5 +1,77 @@
 # 2024-4-4
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Consistent string formatting in `CodegenRust.py` · Issue #31846 · servo/servo
+https://github.com/servo/servo/issues/31846
+
+clippy: Fix remaining warnings in generated code by eerii · Pull Request #31844 · servo/servo
+https://github.com/servo/servo/pull/31844
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files#diff-2c5948584719622eef023c56cdf90e8278971f2f2eda26e7fd0485a24c32be3cR1794
+
+How do I run a program with commandline arguments using GDB within a Bash script? - Stack Overflow
+https://stackoverflow.com/questions/6121094/how-do-i-run-a-program-with-commandline-arguments-using-gdb-within-a-bash-script
+
+首页 - 南京沁恒微电子股份有限公司
+https://www.wch.cn/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+413 Payload Too Large - HTTP | MDN
+https://developer.mozilla.org/ja/docs/Web/HTTP/Status/413
+
+releases.attachment Request Entity Too Large · Issue #5805 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/5805
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+client_max_body_size - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=client_max_body_size
+
+job use "strategy:matrix" with gitea actions ,a dynamic array does not work · Issue #25179 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/25179
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+job use "strategy:matrix" with gitea actions ,a dynamic array does not work · Issue #25179 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/25179
+
+Turbocall: the Just-in-time compiler for Deno FFI
+https://divy.work/turbocall.html
+
+cargo test - The Cargo Book
+https://doc.rust-lang.org/cargo/commands/cargo-test.html
+
+testing - Run `cargo test --workspace` and exclude one test - Stack Overflow
+https://stackoverflow.com/questions/66755529/run-cargo-test-workspace-and-exclude-one-test
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal/deno - deno - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/deno/actions/runs/8/jobs/2
+
+Education
+https://www.cs.cmu.edu/wrc/wrc-education
+
+Careers @ Carnegie Mellon
+https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Research-Programmer---School-of-Computer-Science---S3D_2021339
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
