@@ -1,5 +1,116 @@
 # 2024-4-3
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+http 400 - Google 搜索
+https://www.google.com/search?q=http+400&rlz=1C1GCEA_enJP1090JP1090&oq=http+400&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE3NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+windows 7 - Windows7 command: set http_proxy and bypass - Super User
+https://superuser.com/questions/739623/windows7-command-set-http-proxy-and-bypass
+
+gitlab - GIT push, HTTP code = 502 error - Stack Overflow
+https://stackoverflow.com/questions/24322896/git-push-http-code-502-error
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Spaces sometimes obey the `white-space` of the block container, not the inline element · Issue #31957 · servo/servo
+https://github.com/servo/servo/issues/31957
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Redesign of the Node.js API Docs · Issue #52343 · nodejs/node
+https://github.com/nodejs/node/issues/52343
+
+crypto: implement crypto.hash() by joyeecheung · Pull Request #51044 · nodejs/node
+https://github.com/nodejs/node/pull/51044/files
+
+crypto: use EVP_MD_fetch and cache EVP_MD for hashes by joyeecheung · Pull Request #51034 · nodejs/node
+https://github.com/nodejs/node/pull/51034
+
+node/lib/internal/crypto/sig.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/lib/internal/crypto/sig.js
+
+node/lib/internal/bootstrap/loaders.js at b589128f6f4c3c6f636bfb0146957847ef0a8d53 · nodejs/node
+https://github.com/nodejs/node/blob/b589128f6f4c3c6f636bfb0146957847ef0a8d53/lib/internal/bootstrap/loaders.js#L21-L24
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+sign+language%3AC%2B%2B&type=code&l=C%2B%2B
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node/tree/main
+
+layout: Add a `FontMetricsProvider` for resolving font-relative units by mrobinson · Pull Request #31966 · servo/servo
+https://github.com/servo/servo/pull/31966/files#diff-9f08737aad80e8d0af10418f0499ed267e7ae21a3fad6815455f9ed537f5d9b9
+
+media_queries.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/511d9c9e2eb0f2291dc2b2a5462ba054dfc2edfe/servo/components/style/gecko/media_queries.rs#37
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/commits/0d75b5685840aecfe2bedef35aafbea6efcf68bb#diff-2c5948584719622eef023c56cdf90e8278971f2f2eda26e7fd0485a24c32be3cR1376
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files#diff-a0fd7d70501c895603285a85107ae966df82feeb5305a9d500c6916cff4ff6e3
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Enable taking stack snapshots of other threads · Issue #16740 · servo/servo
+https://github.com/servo/servo/issues/16740
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+node.js - Error message "error:0308010C:digital envelope routines::unsupported" - Stack Overflow
+https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+
+tannal (tannal)
+https://github.com/tannal/
+
+Issue search results
+https://github.com/search?q=involves%3Acathiechen&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Aemilio&type=issues
+
+`--timeout-multiplier` does not affect test harness timeout · Issue #31919 · servo/servo
+https://github.com/servo/servo/issues/31919
+
+Devtools · servo/servo Wiki
+https://github.com/servo/servo/wiki/Devtools
+
+Issue search results
+https://github.com/search?q=involves%3Ajdm&type=issues
+
+Getting started with the REST API - GitHub Docs
+https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28
+
+google/go-github: Go library for accessing the GitHub v3 API
+https://github.com/google/go-github
+
+GitHub GraphQL API documentation - GitHub Docs
+https://docs.github.com/en/graphql
+
+Forming calls with GraphQL - GitHub Docs
+https://docs.github.com/en/graphql/guides/forming-calls-with-graphql
+
+Implement the Navigation API · Issue #31869 · servo/servo
+https://github.com/servo/servo/issues/31869
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-interface
+
+"navigation api" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=navigation%20api
+
+gitea nginx http 502 - Google 搜索
+https://www.google.com/search?q=gitea+nginx+http+502&sca_esv=747e2abf57955470&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-aHgSfz0KyHYcdI3P8fc_Wr6fcng%3A1712192509240&ei=_fsNZsWjDrq3vr0PufKK2A0&ved=0ahUKEwiFlrOSrqeFAxW6m68BHTm5AtsQ4dUDCBA&uact=5&oq=gitea+nginx+http+502&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdpdGVhIG5naW54IGh0dHAgNTAyMgUQIRigAUjeM1CsHVjJLnABeACQAQCYAfMBoAGFCKoBBTAuMy4yuAEDyAEA-AEBmAIFoALhBsICChAAGEcY1gQYsAOYAwCIBgGQBgmSBwUxLjEuM6AHzg4&sclient=gws-wiz-serp
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
