@@ -1,5 +1,53 @@
 # 2024-4-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+require(esm) in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
+
+module: support require()ing synchronous ESM graphs by joyeecheung · Pull Request #51977 · nodejs/node
+https://github.com/nodejs/node/pull/51977
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+> Bloomberg paid Igalia to implement CSS Grid in Chromium and Webkit Oh wow I kn... | Hacker News
+https://news.ycombinator.com/item?id=23825851
+
+VMware ESXi安装NVIDIA GPU显卡硬件驱动和配置vGPU - 知乎
+https://zhuanlan.zhihu.com/p/490555476
+
+virtualenv - Google 搜索
+https://www.google.com/search?q=virtualenv&rlz=1C1GCEA_enJP1090JP1090&oq=virtualenv&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIOCAEQRRgnGDsYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMTc0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+vscode hide folder - Google 搜索
+https://www.google.com.hk/search?q=vscode+hide+folder&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+hide+&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU4OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+visual studio code - How do I hide files In VSCode - Stack Overflow
+https://stackoverflow.com/questions/66720335/how-do-i-hide-files-in-vscode
+
+tannal/bitcask-kv-go - bitcask-kv-go - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bitcask-kv-go
+
+0 从零实现 KV 存储—关于本课程 - 飞书云文档
+https://w02agegxg3.feishu.cn/docx/Ktp3dBGl9oHdbOxbjUWcGdSnn3g
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+备份与恢复 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/administration/backup-and-restore
+
+http - Git proxy bypass - Stack Overflow
+https://stackoverflow.com/questions/16538372/git-proxy-bypass
+
+GitGitGadget - contributing git.git patches via GitHub PRs
+https://gitgitgadget.github.io/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

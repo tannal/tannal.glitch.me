@@ -1,4 +1,23 @@
+# 2024-4-4 0 | 0 W
+
+https://www.zhihu.com/question/481137524
+
+399 2023 3 26 13:58
+
+git config --add remote.origin.proxy ""
+unset 
+
+git init
+git checkout -b main
+git add .
+git commit -m "first commit"
+git remote add origin http://git.tanmeng.org/tannal/bitcask-kv-go.git
+git push -u origin main
+
 # 2024-4-3 0 | 0 W
+
+export http_proxy=http://10.90.195.133:7890
+export http_proxy=http://10.90.195.133:7890
 
 https://github.com/linebender/xilem/issues/157
 
