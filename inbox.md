@@ -1,5 +1,7 @@
 # 2024-4-4 0 | 0 W
 
+sudo vim /run/systemd/resolve/resolv.conf
+
 https://www.zhihu.com/question/481137524
 
 399 2023 3 26 13:58

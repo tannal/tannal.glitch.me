@@ -1,5 +1,83 @@
 # 2024-4-4
 
+linux.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Implement revealing the document · Issue #31581 · servo/servo
+https://github.com/servo/servo/issues/31581
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/browsing-the-web.html#revealing-the-document
+
+tannal/distro - distro - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/distro
+
+Repositories
+https://github.com/orgs/bytecodealliance/repositories
+
+cranelift: ISLE wrapper for constructing constants · Issue #6038 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/6038
+
+Windows (ARM64) Binary · Issue #298 · bytecodealliance/wasmtime-dotnet
+https://github.com/bytecodealliance/wasmtime-dotnet/issues/298
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+How to Improve the Performance of NGINX? - Plesk
+https://www.plesk.com/blog/various/nginx-performance-tuning-tips/
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+ARM 版 Windows のドキュメント | Microsoft Learn
+https://learn.microsoft.com/ja-jp/windows/arm/overview
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+does ubuntu contains linux kernel user space library?
+https://www.phind.com/search?cache=pnk52vrvkjnkvu5g24m5rqc8
+
+linux - What is a sysroot exactly and how do I create one ? - Stack Overflow
+https://stackoverflow.com/questions/39920712/what-is-a-sysroot-exactly-and-how-do-i-create-one
+
+How to build a linux distro from scratch? · Issue #31 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/31
+
+change the kernel image of iso - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=change+the+kernel+image+of+iso#ip=1
+
+Open source hardware
+https://groups.google.com/g/iitdlug/c/97TGsiteOSY
+
+kernel - How do install the Debian package manager (dpk and apt) in my custom Linux distribution? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/614613/how-do-install-the-debian-package-manager-dpk-and-apt-in-my-custom-linux-distr
+
+Ferdi265/dynamic-loader: A simple Linux dynamic loader capable of loading simple binaries using simple shared libraries (no glibc support)
+https://github.com/Ferdi265/dynamic-loader
+
+wasmtime/cranelift at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/main/cranelift
+
+cranelift-jit-demo/Cargo.toml at main · bytecodealliance/cranelift-jit-demo
+https://github.com/bytecodealliance/cranelift-jit-demo/blob/main/Cargo.toml
+
+linux kernel user space library - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=linux+kernel+user+space+library
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cranelift&sort=byPopularity&type=story
+
+Cranelift, Part 4: A New Register Allocator
+https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
+
+regalloc2/src/lib.rs at main · bytecodealliance/regalloc2
+https://github.com/bytecodealliance/regalloc2/blob/main/src/lib.rs
+
+IonMonkey - MozillaWiki
+https://wiki.mozilla.org/IonMonkey
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
