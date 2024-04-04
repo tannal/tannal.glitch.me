@@ -1,3 +1,56 @@
+# 2024-4-4
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Adding Glean to your project - Glean SDKs - Cross-platform Telemetry Libraries
+https://mozilla.github.io/glean/book/user/adding-glean-to-your-project/index.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+View 1 · Code Health
+https://github.com/orgs/servo/projects/2/views/1
+
+Layout and the containing block - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block
+
+inlineformattingcontext - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=inlineformattingcontext#ip=1
+
+flow::BlockContainer.contains_floats() unconditionally returns true for IFCs · Issue #31540 · servo/servo
+https://github.com/servo/servo/issues/31540
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=inline%20formatting%20context&sort=byPopularity&type=story
+
+Does <legend> element establish a new BFC? · Issue #2519 · whatwg/html
+https://github.com/whatwg/html/issues/2519
+
+Blockification of <legend> · Issue #6310 · whatwg/html
+https://github.com/whatwg/html/issues/6310
+
+Servo does not quit on super+q · Issue #12147 · servo/servo
+https://github.com/servo/servo/issues/12147
+
+Implement the Navigation API · Issue #31869 · servo/servo
+https://github.com/servo/servo/issues/31869
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigationhistoryentry
+
+Can I use git diff on untracked files? - Stack Overflow
+https://stackoverflow.com/questions/855767/can-i-use-git-diff-on-untracked-files
+
+Update mozjs (#31824) · tannal/servo@1ed6b96
+https://github.com/tannal/servo/commit/1ed6b96684697cb2816cb7e09158de2e357bc496
+
+windows - Git warning: "Empty last update token." - Stack Overflow
+https://stackoverflow.com/questions/72530302/git-warning-empty-last-update-token
+
+Servo (@servo@floss.social) - FLOSS.social
+https://floss.social/@servo
+
 # 2024-4-3
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

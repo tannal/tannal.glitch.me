@@ -1,6 +1,15 @@
 
 # inbox
 
+modified:   tests/wpt/meta/workers/postMessage_block.https.html.ini
+
+IntersectionObserver
+Navigation API
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/whitespace.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+[2024-04-04T00:54:36Z ERROR script::dom::bindings::error] Error at file:///home/tannal/tannalwork/cans/whitespace.html:15:5 navigation is not defined
+
 larsberg, jdm, pcwalton, jack, simonsapin, nox, ms2ger, mbrubeck, edunham, ajeffrey, till
 
 matching CSS selectors
