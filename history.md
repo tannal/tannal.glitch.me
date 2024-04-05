@@ -1,5 +1,68 @@
 # 2024-4-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+手写一个Parser - 代码简单而功能强大的Pratt Parsing - 知乎
+https://zhuanlan.zhihu.com/p/471075848
+
+csr632/awesome-learning-resources: 收集最优质的学习资料。专治“学习资料不足恐惧症”。
+https://github.com/csr632/awesome-learning-resources
+
+Syntaxation • Douglas Crockford • GOTO 2013 - YouTube
+https://www.youtube.com/watch?v=Nlqv6NtBXcA
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+PLDI · Debian Code Search
+https://codesearch.debian.net/search?q=PLDI&literal=1&page=10
+
+paper3-short.dvi - pldi105-sarkar.pdf
+https://www.cl.cam.ac.uk/~pes20/ppc-supplemental/pldi105-sarkar.pdf
+
+Printing Floating-Point Numbers Quickly and Accurately with Integers - printf.pdf
+https://www.cs.tufts.edu/~nr/cs257/archive/florian-loitsch/printf.pdf
+
+gold91.pdf
+https://cs.nyu.edu/~goldberg/pubs/gold91.pdf
+
+Register allocation via hierarchical graph coloring | Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation
+https://dl.acm.org/doi/10.1145/113445.113462
+
+113445.113462.pdf
+https://dl.acm.org/doi/pdf/10.1145/113445.113462
+
+OSDI · Debian Code Search
+https://codesearch.debian.net/search?q=OSDI+&literal=2&page=9
+
+Debian Code Search: llvm-toolchain-14_1:14.0.6-19/clang/docs/SafeStack.rst
+https://codesearch.debian.net/show?file=llvm-toolchain-14_1%3A14.0.6-19%2Fclang%2Fdocs%2FSafeStack.rst&line=210
+
+Debian Code Search: triton_2.0.0.post1-4/docs/programming-guide/chapter-1/introduction.rst
+https://codesearch.debian.net/show?file=triton_2.0.0.post1-4%2Fdocs%2Fprogramming-guide%2Fchapter-1%2Fintroduction.rst&line=67
+
+Ben-Yehuda.pdf
+https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Ben-Yehuda.pdf
+
+Code-Pointer Integrity - cpi.pdf
+https://dslab.epfl.ch/pubs/cpi.pdf
+
+esx-mem-osdi02.pdf
+https://www.waldspurger.org/carl/papers/esx-mem-osdi02.pdf
+
+OSDI-Scalene-July-2023-final - osdi23_slides_berger.pdf
+https://www.usenix.org/system/files/osdi23_slides_berger.pdf
+
+triton - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=triton
+
+openai/triton: Development repository for the Triton language and compiler
+https://github.com/openai/triton
+
+Welcome to Triton’s documentation! — Triton documentation
+https://triton-lang.org/main/index.html
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

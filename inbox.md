@@ -1,5 +1,9 @@
 # 2024-4-5 0 | 0 W
 
+https://codesearch.debian.net/search?q=OSDI&literal=1&page=10
+
+
+https://codesearch.debian.net/search?q=PLDI&literal=1&page=10
 netscape -> firefox
 ie -> died
 KDE -> Webkit -> Blink
