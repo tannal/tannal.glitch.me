@@ -1,6 +1,9 @@
 # inbox
 
-gdb ./out/Default/chrome
+
+
+gdb ./out/Default/chrome --args --js-flags="--trace-gc"
+
 source tools/gdb/gdbinit
 b HTMLFrameElementBase::OpenURL
 handle all nostop

@@ -1,3 +1,11 @@
+# 2024-4-6 0 | 0 W
+
+- Adam Barth
+- Dimitri Glazkov
+- Nate Chapin
+- Kentaro Hara
+
+
 # 2024-4-5 0 | 0 W
 
 https://codesearch.debian.net/search?q=OSDI&literal=1&page=10

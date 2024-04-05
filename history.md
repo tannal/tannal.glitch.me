@@ -1,3 +1,41 @@
+# 2024-4-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+V8 Binding Explained - Google Slides
+https://docs.google.com/presentation/d/1OFG81taxgjOGU43sv9WHvPZkt5--KnM6gSijWN8NMcU/edit#slide=id.g16bb3cdb_0_120
+
+Redesigning V8 Garbage Collection for DOM Objects - Google Docs
+https://docs.google.com/document/d/1OMG0fXB3DDvBaQ2YgxWLzzKjn9nWp8y_oTdQqFkBWhw/edit
+
+A Generational GC for DOM Nodes (Final ver.) - Google Slides
+https://docs.google.com/presentation/d/1uifwVYGNYTZDoGLyCb7sXa7g49mWNMW2gaWvMN5NLk8/edit#slide=id.g69245a5_4_6
+
+Dromaeo: Mozilla JavaScript performance test suite.
+https://dromaeo.com/
+
+88834 – If Node X is reachable from JavaScript, all Nodes in the same tree should be kept alive
+https://bugs.webkit.org/show_bug.cgi?id=88834
+
+ECOOP · Debian Code Search
+https://codesearch.debian.net/search?q=ECOOP&literal=1&page=4
+
+1868296 - fix a clippy warning in glean/api/src/private/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868296
+
+Association for Computing Machinery (ACM) - YouTube
+https://www.youtube.com/@TheOfficialACM/videos
+
+WebIDL Bindings · Issue #33 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/33
+
+gdb --args - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gdb+--args
+
+JavaScript Engine · Issue #28 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/28
+
 # 2024-4-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

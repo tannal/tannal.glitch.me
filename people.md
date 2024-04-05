@@ -562,6 +562,13 @@ Dan Abramov https://twitter.com/dan_abramov
 
 # By Projects
 
+## Chromium
+
+- Adam Barth
+- Dimitri Glazkov
+- Nate Chapin
+- Kentaro Hara
+
 ## Golang
 
 involves:rsc
