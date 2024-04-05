@@ -1,5 +1,80 @@
 # 2024-4-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Ry¯u: Fast Float-to-String Conversion · Issue #42 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/42
+
+Local Optimizations, Intro to SSA - L3-Local-Opts.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L3-Local-Opts.pdf
+
+1868296 - fix a clippy warning in glean/api/src/private/event.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868296
+
+PLDI · Debian Code Search
+https://codesearch.debian.net/search?q=PLDI&literal=1&page=7
+
+404 | Debian Sources
+https://sources.debian.org/src/gcc-14/14-20240201-3/gcc-20240330/gcc/gcse.cc/#L100
+
+File: README.md | Debian Sources
+https://sources.debian.org/src/librsvg/2.58.0+dfsg-1/debian/missing-sources/ryu/README.md/?hl=11#L11
+
+File: lib.rs | Debian Sources
+https://sources.debian.org/src/firefox-esr/115.9.1esr-1/third_party/rust/ryu/src/lib.rs/?hl=12#L12
+
+paper.dvi - pldi07.pdf
+https://www.cs.utexas.edu/users/lin/papers/pldi07.pdf
+
+thesis.dvi - SimpsonThesis.pdf
+https://www.clear.rice.edu/comp512/Lectures/Papers/SimpsonThesis.pdf
+
+gcc gcse cc - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gcc+gcse+cc#ip=1
+
+gcc/gcc/gcse.cc at master · gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc/blob/master/gcc/gcse.cc#L20-L132
+
+Elimination algorithms for data flow analysis - 27632.27649.pdf
+https://dl.acm.org/doi/pdf/10.1145/27632.27649
+
+gcc/gcc/tree-ssa-structalias.cc at master · gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc/blob/master/gcc/tree-ssa-structalias.cc
+
+Space efficient conservative garbage collection | Proceedings of the ACM SIGPLAN 1993 conference on Programming language design and implementation
+https://dl.acm.org/doi/10.1145/155090.155109
+
+155090.155109.pdf
+https://dl.acm.org/doi/pdf/10.1145/155090.155109
+
+paper.dvi - Dynamic-Memory-Allocation.pdf
+http://people.csail.mit.edu/xchen/parallel-computing/Dynamic-Memory-Allocation.pdf
+
+Maged Michael | 2022 C++ and System Software Summit
+http://cpp-summit.org/speaker/667?uid=c1033&lang=en
+
+hazard pointers - Google 検索
+https://www.google.com/search?q=hazard+pointers&client=ubuntu-sn&hs=IaR&sca_esv=469084b56d0a10d6&channel=fs&ei=N-EPZuWmE8_k2roPrv6QqAY&ved=0ahUKEwilnpny_KqFAxVPslYBHS4_BGUQ4dUDCBA&uact=5&oq=hazard+pointers&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2hhemFyZCBwb2ludGVyczIKEAAYRxjWBBiwA0jQCVCECFiECHABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgaYAwCIBgGQBgGSBwExoAcA&sclient=gws-wiz-serp
+
+Static branch frequency and program profile analysis | Proceedings of the 27th annual international symposium on Microarchitecture
+https://dl.acm.org/doi/10.1145/192724.192725
+
+192724.192725.pdf
+https://dl.acm.org/doi/pdf/10.1145/192724.192725
+
+divcnst.dvi - divcnst-pldi94.pdf
+https://gmplib.org/~tege/divcnst-pldi94.pdf
+
+Ryū: fast float-to-string conversion - 3296979.3192369.pdf
+https://dl.acm.org/doi/pdf/10.1145/3296979.3192369
+
+dtolnay/ryu: Fast floating point to string conversion
+https://github.com/dtolnay/ryu
+
+CRPC-TR90103-S.pdf
+http://softlib.rice.edu/pub/CRPC-TRs/reports/CRPC-TR90103-S.pdf
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
