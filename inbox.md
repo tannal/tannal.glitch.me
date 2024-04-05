@@ -1,5 +1,12 @@
 # 2024-4-5 0 | 0 W
 
+
+regiter integer float 
+
+compiler
+involve:dnovillo
+
+
 Good artists copy, great artists steal.
 
 102nd TC39 meeting (June 11-13, 2024)

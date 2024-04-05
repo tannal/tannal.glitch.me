@@ -1,5 +1,89 @@
 # 2024-4-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+A New Backend for Cranelift, Part 1: Instruction Selection
+https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
+
+Benjamin Bouvier's world
+https://blog.benj.me/
+
+bnjbvr (Benjamin Bouvier)
+https://github.com/bnjbvr
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+deno install shows warnings while using deno.json as importmap · Issue #23160 · denoland/deno
+https://github.com/denoland/deno/issues/23160
+
+Issue search results
+https://github.com/search?q=involves%3Aandreubotella%20&type=issues
+
+Sable
+https://github.com/sableland
+
+Should the AsyncContext store be a weak map? · Issue #76 · tc39/proposal-async-context
+https://github.com/tc39/proposal-async-context/issues/76
+
+skia-canvas not working correctly · Issue #9915 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/9915
+
+NT5.1/Source/XPSP1/NT/tools at master · 0x5bfa/NT5.1
+https://github.com/0x5bfa/NT5.1/tree/master/Source/XPSP1/NT/tools
+
+Earliest eligible virtual deadline first scheduling - Wikipedia
+https://en.wikipedia.org/wiki/Earliest_eligible_virtual_deadline_first_scheduling#cite_note-6
+
+Decay-usage scheduling in multiprocessors | ACM Transactions on Computer Systems
+https://dl.acm.org/doi/10.1145/292523.292535
+
+Decay-usage scheduling in multiprocessors - 292523.292535.pdf
+https://dl.acm.org/doi/pdf/10.1145/292523.292535
+
+Dick Epema
+https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/dick-epema
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20Sable%20deno&sort=byPopularity&type=story
+
+wasmtime/cranelift/docs/ir.md at 65c04b90b3e08163250f4cfb6a1895f4ebec8f6c · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/65c04b90b3e08163250f4cfb6a1895f4ebec8f6c/cranelift/docs/ir.md
+
+Issues · KhronosGroup/SPIRV-Tools
+https://github.com/KhronosGroup/SPIRV-Tools/issues
+
+KhronosGroup/SPIRV-Tools
+https://github.com/KhronosGroup/SPIRV-Tools
+
+sdk/pkg/kernel at main · dart-lang/sdk
+https://github.com/dart-lang/sdk/tree/main/pkg/kernel
+
+Chromium V8 Ignition and turbofan · Issue #20 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/20
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Compilers, Intermediate Representation. · Issue #32 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/32
+
+A design overview of JavaScriptCore's DFG IR (Truffle 2022) - ECOOP 2022
+https://2022.ecoop.org/details/truffle-2022/10/A-design-overview-of-JavaScriptCore-s-DFG-IR
+
+Saam Barati - ECOOP 2022
+https://2022.ecoop.org/profile/saambarati
+
+resume - resume.pdf
+http://saambarati.org/resume.pdf
+
+go/src/cmd/compile/internal/ir/op_string.go at master · golang/go
+https://github.com/golang/go/blob/master/src/cmd/compile/internal/ir/op_string.go
+
+v8 - Is this an intermediate representation? - Stack Overflow
+https://stackoverflow.com/questions/52674479/is-this-an-intermediate-representation
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
