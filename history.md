@@ -1,5 +1,65 @@
 # 2024-4-5
 
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+firefox tab management - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+tab+management#ip=1
+
+Tree Style Tab - ツリー型タブ – 🦊 Firefox (ja) 向け拡張機能を入手
+https://addons.mozilla.org/ja/firefox/addon/tree-style-tab/
+
+DFG javascriptcore - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=DFG+javascriptcore#ip=1
+
+Speculation in JavaScriptCore | WebKit
+https://webkit.org/blog/10308/speculation-in-javascriptcore/
+
+speculation in jsc - pizlo-speculation-in-jsc-slides.pdf
+http://www.filpizlo.com/slides/pizlo-speculation-in-jsc-slides.pdf
+
+Andy Wingo: JavaScriptCore's DFG JIT -- JSConf EU 2012 - YouTube
+https://www.youtube.com/watch?v=kul3HO3WRgI
+
+Benchmarking Java with Richards and Deltablue
+http://www.wolczko.com/java_benchmarking.html
+
+code as a language - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=code+as+a+language#ip=1
+
+learn math with python - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=learn+math+with+python
+
+go/src/cmd/compile/internal/ir/op_string.go at master · golang/go
+https://github.com/golang/go/blob/master/src/cmd/compile/internal/ir/op_string.go
+
+v8 - Is this an intermediate representation? - Stack Overflow
+https://stackoverflow.com/questions/52674479/is-this-an-intermediate-representation
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Ignition Design Doc - Google Docs
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1
+
+Debugging with gdb - Examining the Symbol Table
+https://developer.apple.com/library/archive/documentation/DeveloperTools/gdb/gdb/gdb_14.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+c++ - Cannot evaluate function -- may be inlined - Stack Overflow
+https://stackoverflow.com/questions/22163730/cannot-evaluate-function-may-be-inlined
+
+v8 inline functions - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=v8+inline+functions
+
+Oilpan dom gc - Google 検索
+https://www.google.com/search?q=Oilpan+dom+gc&client=ubuntu-sn&hs=FLk&sca_esv=469084b56d0a10d6&channel=fs&ei=jcQPZo7vEsyl2roPjuiO8Aw&ved=0ahUKEwjO6ZTH4aqFAxXMklYBHQ60A84Q4dUDCBA&uact=5&oq=Oilpan+dom+gc&gs_lp=Egxnd3Mtd2l6LXNlcnAiDU9pbHBhbiBkb20gZ2MyCBAAGIAEGKIEMggQABiABBiiBEj1JFCyBVjnI3ABeACQAQCYAaEIoAHBF6oBDTItMS4xLjAuMS4xLjG4AQPIAQD4AQL4AQGYAgWgAs0XwgIFEAAYgATCAgcQABiABBgKwgIGEAAYHhgKwgIEEAAYHsICChAAGAgYHhgPGArCAgUQIRigAZgDAIgGAZIHCzItMS4xLjEuMC4yoAeBBw&sclient=gws-wiz-serp
+
+原健太朗のページ : Chromium
+https://haraken.info/index.php?tag=reajklff
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
