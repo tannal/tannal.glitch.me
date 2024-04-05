@@ -1,3 +1,31 @@
+# GeoDNS simple dns service
+
+{
+    "serial":1394372421,
+    "ttl":    120,
+    "targeting": "country continent @ regiongroup region asn",
+    "data":{
+        "":{
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        },
+        "git": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        }
+    }
+}
+
 # Product
 
 package main

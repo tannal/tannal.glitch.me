@@ -562,6 +562,40 @@ Dan Abramov https://twitter.com/dan_abramov
 
 # By Projects
 
+## Golang
+
+involves:rsc
+involves:robpike
+
+## Test-262
+
+involves:leobalter
+involves:ptomato
+involves:rwaldron
+involves:legendecas
+involves:FrankYFTang
+involves:shvaikalesh
+
+## Postgresql
+
+involves:petere
+involves:bmomjian
+involves:anarazel
+involves:mhagander
+
+## WebAssembly
+
+involves:dschuff
+involves:conrad-watt
+involves:dtig
+involves:rossberg
+involves:lukewagner
+involves:ajklein
+involves:justinmichaud
+involves:SPY
+involves:abrown
+involves:woodsmc
+involves:wingo
 
 ## Linux Kernel
 
@@ -578,6 +612,16 @@ Martin Aeschlimann https://github.com/aeschli
 ## Rust language
 
 Steve Klabnik https://steveklabnik.com/
+
+involves:compiler-errors
+involves:Mark-Simulacrum
+involves:carols10cents
+involves:nikomatsakis
+involves:ashleygwilliams
+involves:nrc
+involves:tbu-
+involves:cuviper
+involves:RReverser
 
 ## NodeJS
 
@@ -599,7 +643,20 @@ Daniel Rosenwasser PM Typescript
 
 Nick Nisi https://nicknisi.com/
 
+
+# By Conference
+
+https://futurefrontend.com/schedule/
+
 # By orgranizations
+
+## CSSWG
+
+involves:glennw
+involves:kvark
+involves:CanadaHonk
+involves:asajeffrey
+involves:atbrakhi
 
 ## Google early employee
 

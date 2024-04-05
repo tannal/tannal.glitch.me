@@ -1,3 +1,12 @@
+# 2024-4-5 0 | 0 W
+
+Good artists copy, great artists steal.
+
+102nd TC39 meeting (June 11-13, 2024)
+Future Frontend 2024 (June 13-14, 2024)
+PLDI 2024 (June 24-28, 2024)
+JSConf Budapest (June 27-28, 2024)
+
 # 2024-4-4 0 | 0 W
 
 sudo vim /run/systemd/resolve/resolv.conf
@@ -7,7 +16,7 @@ https://www.zhihu.com/question/481137524
 399 2023 3 26 13:58
 
 git config --add remote.origin.proxy ""
-unset 
+unset http_proxy
 
 git init
 git checkout -b main
@@ -19,7 +28,7 @@ git push -u origin main
 # 2024-4-3 0 | 0 W
 
 export http_proxy=http://10.90.195.133:7890
-export http_proxy=http://10.90.195.133:7890
+export https_proxy=http://10.90.195.133:7890
 
 https://github.com/linebender/xilem/issues/157
 
@@ -38,9 +47,6 @@ sudo apt remove libc6-amd64-cross
 zig cc
 
 export LISTEN_ADDRESS=:4874
-
-
-
 
 Libre Graphics Meeting
 https://github.com/servo/pathfinder/issues/142
@@ -104,31 +110,7 @@ start nginx
 nginx.exe -s stop
 nginx.exe -c 
 
-{
-    "serial":1394372421,
-    "ttl":    120,
-    "targeting": "country continent @ regiongroup region asn",
-    "data":{
-        "":{
-            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
-            "a":[
-                [
-                   "192.168.43.62",
-                   "100"
-                ]
-            ]
-        },
-        "git": {
-            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
-            "a":[
-                [
-                   "192.168.43.62",
-                   "100"
-                ]
-            ]
-        }
-    }
-}
+
 dig -x 192.168.43.62 @127.1 -p 5053
 
 ipconfig /flushdns
