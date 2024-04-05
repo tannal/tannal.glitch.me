@@ -1,5 +1,80 @@
 # 2024-4-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+原健太朗のページ : Chromium
+https://haraken.info/index.php?tag=reajklff
+
+V8 Binding Explained - Google Slides
+https://docs.google.com/presentation/d/1OFG81taxgjOGU43sv9WHvPZkt5--KnM6gSijWN8NMcU/edit#slide=id.g16a8b8ed_0_20
+
+WebKitIDL – WebKit
+https://trac.webkit.org/wiki/WebKitIDL#BindingsCode
+
+WebKitIDL – WebKit
+https://trac.webkit.org/wiki/WebKitIDL
+
+WebKitIDL – WebKit
+https://trac.webkit.org/wiki/WebKitIDL#RunBindingsTests
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+gobject - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gobject
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+Fix microtask checkpoint · Issue #32003 · servo/servo
+https://github.com/servo/servo/issues/32003
+
+update the rendering: order docs · servo/servo@fa48454
+https://github.com/servo/servo/commit/fa48454f64f01ceff17a6959c170914d46586da4
+
+servo/components/script/script_thread.rs at f902a9fecf42da54e99f18ab87e6bde7427a10b3 · servo/servo
+https://github.com/servo/servo/blob/f902a9fecf42da54e99f18ab87e6bde7427a10b3/components/script/script_thread.rs#L1690
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+basic block ssa - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=basic+block+ssa
+
+Local Optimizations, Intro to SSA - L3-Local-Opts.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L3-Local-Opts.pdf
+
+javascript - Does the V8 engine have a baseline compiler? - Stack Overflow
+https://stackoverflow.com/questions/76402539/does-the-v8-engine-have-a-baseline-compiler
+
+Node.js Downloads
+https://nodedownloads.nodeland.dev/
+
+Platformatic
+https://platformatic.dev/
+
+Home | Alpha Omega
+https://alphaomegauk.com/
+
+netscape kde ie - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=netscape+kde+ie
+
+Michael Starzinger
+https://mstarzinger.github.io/
+
+cksystemsteaching/selfie: An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+https://github.com/cksystemsteaching/selfie
+
+Mercurial repository | cacaojvm.org
+http://www.cacaojvm.org/pages/mercurial-repository.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+main.dvi - PLDI1994.pdf
+https://iss.oden.utexas.edu/Publications/Papers/PLDI1994.pdf
+
 v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

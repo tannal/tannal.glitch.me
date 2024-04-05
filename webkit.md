@@ -1,5 +1,8 @@
 # inbox
 
+idl
+TreatNullAs=NullString
+
 http://localhost:8001/workers/postMessage_block.https.html
 
 (cat /proc/94310/environ; echo) | tr '\000' '\n'

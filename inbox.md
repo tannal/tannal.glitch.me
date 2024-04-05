@@ -1,5 +1,12 @@
 # 2024-4-5 0 | 0 W
 
+netscape -> firefox
+ie -> died
+KDE -> Webkit -> Blink
+
+update nodejs version very two lts
+nodjs headers are needed to compile binary addons
+
 code as an universal language
 math symbols as an universal language
 music as  an universal language
