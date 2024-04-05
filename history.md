@@ -1,6 +1,115 @@
 # 2024-4-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
 
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Repositories
+https://github.com/orgs/risinglightdb/repositories
+
+sqlparser-rs/src/ast/dcl.rs at main · sqlparser-rs/sqlparser-rs
+https://github.com/sqlparser-rs/sqlparser-rs/blob/main/src/ast/dcl.rs
+
+maxcountryman (Max Countryman)
+https://github.com/maxcountryman
+
+Recent remote jobs | RemoteJobs.org
+https://remotejobs.org/remote-jobs?query=china
+
+apache/arrow-rs: Official Rust implementation of Apache Arrow
+https://github.com/apache/arrow-rs
+
+apache/arrow-rs · Discussions · GitHub
+https://github.com/apache/arrow-rs/discussions
+
+• Discord | #supabase | Flutter Dev
+https://discord.com/channels/420324994703163402/1224650897573937213
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+认证 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/usage/authentication
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+(5 封私信 / 79 条消息) 微凉 - 知乎
+https://www.zhihu.com/people/nian-chu-99-1
+
+(5 封私信 / 79 条消息) 想买台千元5G手机当热点机，有什么好推荐的吗？ - 知乎
+https://www.zhihu.com/question/481137524
+
+nginx 吞吐量 - Google 搜索
+https://www.google.com/search?q=nginx+%E5%90%9E%E5%90%90%E9%87%8F&rlz=1C1GCEA_enJP1090JP1090&oq=nginx+%E5%90%9E%E5%90%90%E9%87%8F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDgwMTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Nginx 反向代理吞吐量砍半之谜 - 颇忒脱的技术博客
+https://chanjarster.github.io/post/nginx/throughput-cutoff-half-mystery/
+
+Nginx优化及压力测试 | Zong's blog
+https://www.lstop.pub/2016/08/01/Nginx%E4%BC%98%E5%8C%96%E5%8F%8A%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95/
+
+nginx 配置大吞吐量 - AllIhave - 博客园
+https://www.cnblogs.com/AllIhave/p/11770087.html
+
+gitea 集群 - Google 搜索
+https://www.google.com/search?q=gitea+%E9%9B%86%E7%BE%A4&rlz=1C1GCEA_enJP1090JP1090&oq=gitea+%E9%9B%86%E7%BE%A4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAE0gEINDY3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+How to build a linux distro from scratch? · Issue #31 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/31
+
+Node.js
+https://github.com/nodejs
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+Web Animations
+https://drafts.csswg.org/web-animations-1/#update-animations-and-send-events
+
+WebAssembly
+https://github.com/WebAssembly
+
+2024 Web Engines Hackfest
+https://webengineshackfest.org/
+
+Schedule
+https://futurefrontend.com/schedule/
+
+Issue search results
+https://github.com/search?q=involves%3Aatbrakhi&type=issues
+
+Update WIT.md package ids to match #222 by lukewagner · Pull Request #246 · WebAssembly/component-model
+https://github.com/WebAssembly/component-model/pull/246
+
+nielsAD/gns: Golang bindings for the GameNetworkingSockets library.
+https://github.com/nielsAD/gns/
+
+JavaScript Engine · Issue #28 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/28
+
+v8 intermediate representation - Google 搜索
+https://www.google.com/search?q=v8+intermediate+representation&rlz=1C1GCEA_enJP1090JP1090&oq=v8+intermedi&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQgzNzQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Digging into the TurboFan JIT · V8
+https://v8.dev/blog/turbofan-jit
+
+A tour of V8: Crankshaft, the optimizing compiler — jayconrod.com
+https://www.jayconrod.com/posts/54/a-tour-of-v8-crankshaft-the-optimizing-compiler
+
+Does V8 have an intermediate bytecode representation?
+https://groups.google.com/a/chromium.org/g/chromium-discuss/c/tkMfuThwnCo
+
+Lucas Santos - DEV Community
+https://dev.to/_staticvoid
 
 # 2024-4-4
 
