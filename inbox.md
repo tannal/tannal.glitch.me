@@ -1,5 +1,11 @@
 # 2024-4-6 0 | 0 W
 
+cargo run
+
+if you lean to use something which means you thins something is right.
+if you learn something which means you think there is a problem.
+
+
 https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/
 
 https://arstechnica.com/

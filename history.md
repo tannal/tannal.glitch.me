@@ -3,6 +3,87 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Implement the Permissions API · Issue #31235 · servo/servo
+https://github.com/servo/servo/issues/31235
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Getting Started with Headless Chrome  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/headless-chrome
+
+List of Command Line switches for google-chrome - Google Chrome Community
+https://support.google.com/chrome/thread/119899385/list-of-command-line-switches-for-google-chrome?hl=en
+
+Peter Beverloo
+https://peter.sh/
+
+List of Chromium Command Line Switches « Peter Beverloo
+https://peter.sh/experiments/chromium-command-line-switches/
+
+eter Beverloo - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=eter+Beverloo
+
+Update the rendering: fix ordering of documents · Issue #32004 · servo/servo
+https://github.com/servo/servo/issues/32004
+
+firefox reality - Google 検索
+https://www.google.com/search?q=firefox+reality&client=ubuntu-sn&hs=PhS&sca_esv=8ca988cea1190486&channel=fs&ei=RCgRZtytD4Lm2roPoYeW4AU&oq=firefox+rea&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2ZpcmVmb3ggcmVhKgIIADIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgYQABgeGAoyBBAAGB4yBBAAGB5IxSxQixZY5SNwAngBkAECmAGVBKAB8BWqAQswLjIuNi4yLjAuMbgBA8gBAPgBAZgCC6AC6Q_CAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICBxAAGIAEGATCAhAQABiABBiKBRhDGLEDGIMBwgINEAAYgAQYigUYQxixA8ICCBAAGIAEGLEDwgIKEAAYgAQYBBixA8ICCxAAGIAEGLEDGIMBmAMAiAYBkAYKkgcHMi4wLjguMaAHyyI&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=firefox%20reality&sort=byPopularity&type=story
+
+Welcome to Wolvic
+https://wolvic.com/en/
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+sqlparser::ast - Rust
+https://docs.rs/sqlparser/latest/sqlparser/ast/index.html
+
+Online JavaScript beautifier
+https://beautifier.io/
+
+Common Table Expressions: When and How to Use Them
+https://www.atlassian.com/data/sql/using-common-table-expressions
+
+egg - Rust
+https://docs.rs/egg/latest/egg/index.html
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=egg%20(e-graphs%20good)%20is%20a%20e-graph%20library%20optimized%20for%20equality%20saturation&op=translate
+
+egraphs-good
+https://github.com/egraphs-good
+
+egg
+https://egraphs-good.github.io/
+
+egg: Fast and extensible equality saturation | Proceedings of the ACM on Programming Languages
+https://dl.acm.org/doi/10.1145/3434304
+
+comp-gen/aella/src/lang.rs at 2082021c94b308e02c0900b5ba5a94e55e6999ba · sgpthomas/comp-gen
+https://github.com/sgpthomas/comp-gen/blob/2082021c94b308e02c0900b5ba5a94e55e6999ba/aella/src/lang.rs#L104
+
+buenum-synth/src/solver/egg_enum.rs at 7aae3378249851844bbbcb3dd66cbdc0574bad74 · UCSD-CSE291D-2024-BUEnum/buenum-synth
+https://github.com/UCSD-CSE291D-2024-BUEnum/buenum-synth/blob/7aae3378249851844bbbcb3dd66cbdc0574bad74/src/solver/egg_enum.rs#L10
+
+tannal (tannal)
+https://github.com/tannal
+
+算术运算（+-*/） - RisingLight Tutorial
+https://risinglightdb.github.io/risinglight-tutorial/02-01-operation.html
+
+risinglightdb/risinglight: An educational OLAP database system.
+https://github.com/risinglightdb/risinglight
+
+HowToGetABacktrace - Debian Wiki
+https://wiki.debian.org/HowToGetABacktrace
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Multi-core, main-memory joins | 10.14778/2732219.2732227_Scihub
 https://bothonce.com/10.14778/2732219.2732227
 
