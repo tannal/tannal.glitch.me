@@ -1,5 +1,7 @@
 # 2024-4-6 0 | 0 W
 
+https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/
+
 https://arstechnica.com/
 
 - Adam Barth

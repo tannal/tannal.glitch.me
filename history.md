@@ -3,6 +3,129 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Multi-core, main-memory joins | 10.14778/2732219.2732227_Scihub
+https://bothonce.com/10.14778/2732219.2732227
+
+xklFFF / Following
+https://github.com/xklFFF?tab=repositories
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1) Panic on coverage report generation · Issue #23254 · denoland/deno
+https://github.com/denoland/deno/issues/23254
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Reading Group | Mars Research Group
+https://mars-research.github.io/reading-group/
+
+Multi-core, main-memory joins: sort vs. hash revisited: Proceedings of the VLDB Endowment: Vol 7, No 1
+https://dl.acm.org/doi/10.14778/2732219.2732227
+
+Optimal Probabilistic Cache Stampede Prevention · Issue #53 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/53
+
+VLDB · Debian Code Search
+https://codesearch.debian.net/search?q=VLDB&literal=1&page=10
+
+File: recipes.py | Debian Sources
+https://sources.debian.org/src/firefox-esr/115.9.1esr-1/third_party/python/diskcache/diskcache/recipes.py/?hl=334#L334
+
+p886-vattani.pdf
+https://www.vldb.org/pvldb/vol8/p886-vattani.pdf
+
+Linear Hashing: A New Tool For File And Table Addressing
+https://u.arizona.edu/~mccann/classes/560/papers/litwin-linearhashing-1980.pdf
+
+Readings in Database Systems, 5th Edition
+http://www.redbook.io/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=Readings%20In%20&sort=byPopularity&type=story
+
+rxin/db-readings: Readings in Databases
+https://github.com/rxin/db-readings
+
+Table of Contents: Readings in the philosophy of technology / :: Library Catalog Search
+https://library.villanova.edu/Find/Record/636445/TOC
+
+Readings on the State of the Art in Rendering – Interplay of Light
+https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/
+
+Graphics Programming weekly - Issue 323 - January 21st, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-323/
+
+Maister's Graphics Adventures – Low-level graphics programming
+https://themaister.net/blog/
+
+SIGGRAPH 2023 Links
+https://blog.selfshadow.com/2023/08/12/siggraph-2023-links/
+
+ICG - Team Schmalstieg
+https://www.tugraz.at/institute/icg/research/team-schmalstieg
+
+Can You See the Heat? A Null-Scattering Approach for Refractive Volume Rendering - Animal Logic
+https://animallogic.com/technology/publications/can-you-see-the-heat/
+
+Animal Logic - YouTube
+https://www.youtube.com/AnimalLogicStudios
+
+Open Problems in Real-Time Rendering SIGGRAPH courses page
+https://openproblems.realtimerendering.com/
+
+Rendering Engine Architecture Conference - YouTube
+https://www.youtube.com/@renderingenginearchitectur3543/videos
+
+eugeneyan/applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+https://github.com/eugeneyan/applied-ml
+
+Artificial Intelligence Resources
+http://aima.cs.berkeley.edu/books.html
+
+Readings in distributed systems
+https://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
+
+Distributed systems for fun and profit
+https://book.mixu.net/distsys/time.html
+
+Diego Ongaro - ongardie.net
+https://ongardie.net/
+
+Marco Salvi | Research
+https://research.nvidia.com/person/marco-salvi
+
+Readings in computer architecture: | Guide books | ACM Digital Library
+https://dl.acm.org/doi/book/10.5555/333067
+
+An Adaptive Hash Join Algotithm for Multiuser Environments
+https://www.vldb.org/conf/1990/P186.PDF
+
+GitHub
+https://github.com/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+CamelCase Converter - toolpage.org
+https://en.toolpage.org/tool/camelcase#google_vignette
+
+lamport lock paper - Google 搜索
+https://www.google.com/search?q=lamport+lock+paper&sca_esv=7e63893fda4bafb0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn092kz80_bHmqiK__xR5XIIhsSGqSw%3A1712414024736&ei=SF0RZq_KLJvM1e8PotOH0Ag&ved=0ahUKEwivjpyt562FAxUbZvUHHaLpAYoQ4dUDCBA&uact=5&oq=lamport+lock+paper&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmxhbXBvcnQgbG9jayBwYXBlcjIJEAAYgAQYDRgTSKAIUCRY0wZwAXgBkAEAmAGVAqAB-AmqAQUwLjQuMrgBA8gBAPgBAZgCB6AChwrCAgoQABhHGNYEGLADwgIHEAAYgAQYDcICBhAAGB4YDcICBBAAGB7CAggQABgeGA0YD8ICBRAhGKABmAMAiAYBkAYKkgcFMS40LjKgB4UN&sclient=gws-wiz-serp
+
+p1821-yan.pdf
+https://www.vldb.org/pvldb/vol7/p1821-yan.pdf
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Buy tickets
 https://futurefrontend.com/buy-tickets/
 
