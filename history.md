@@ -1,5 +1,86 @@
 # 2024-4-6
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+原健太朗のページ : Chromium
+https://haraken.info/index.php?tag=reajklff
+
+JavaScript Bindings @BlinkOn 1.0 - Google Slides
+https://docs.google.com/presentation/d/1M8OFkFXg6bDURncZMw01if2A89YHYl94XmWT1pjvvJI/edit#slide=id.g106cbb97a_3211
+
+Blink IDL Extended Attributes
+https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/bindings/IDLExtendedAttributes.md#PutForwards
+
+ADVANCED_MEMORY_SAFETY_CHECKS() - Google Docs
+https://docs.google.com/document/d/1c3jQqhUKQCLvO_d3MXZe7Z2E3FUGGBmIpgeX8TyzM9s/edit?resourcekey=0-MMntudZFKjPBzCVxVU31fg#heading=h.lrts6qlnier
+
+Multiple Page Architecture [public] - Google Docs
+https://docs.google.com/document/d/1NginQ8k0w3znuwTiJ5qjYmBKgZDekvEPC22q0I4swxQ/edit#heading=h.w1qo2n6sr8wn
+
+Some grammar issues · Issue #908 · luau-lang/luau
+https://github.com/luau-lang/luau/issues/908
+
+Update document.open to latest spec by dguenther · Pull Request #21882 · servo/servo
+https://github.com/servo/servo/pull/21882
+
+Jinja — Jinja Documentation (3.1.x)
+https://jinja.palletsprojects.com/en/3.1.x/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Jochen Eisinger on LinkedIn: The Chromium Chronicle #32: Mind the patch gap - Chrome Developers
+https://lt.linkedin.com/posts/jocheneisinger_the-chromium-chronicle-32-mind-the-patch-activity-7031876160569397248-AUEh
+
+The Chromium Chronicle #32: Mind the patch gap  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/chromium-chronicle-32/
+
+called `Result::unwrap()` on an `Err` value: HierarchyRequest · Issue #20218 · servo/servo
+https://github.com/servo/servo/issues/20218
+
+servo/components/script/script_thread.rs at f902a9fecf42da54e99f18ab87e6bde7427a10b3 · servo/servo
+https://github.com/servo/servo/blob/f902a9fecf42da54e99f18ab87e6bde7427a10b3/components/script/script_thread.rs#L1690
+
+servo/components/script/script_thread.rs at f902a9fecf42da54e99f18ab87e6bde7427a10b3 · servo/servo
+https://github.com/servo/servo/blob/f902a9fecf42da54e99f18ab87e6bde7427a10b3/components/script/script_thread.rs#L1670
+
+#general > Servo blog and wiki: SM report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20blog.20and.20wiki.3A.20SM.20report
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+'Non floating-type complex?' error when compiling with clang 16 · Issue #30587 · servo/servo
+https://github.com/servo/servo/issues/30587
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Home · servo/webrender Wiki
+https://github.com/servo/webrender/wiki/
+
+web flow sync to upstream - Google 検索
+https://www.google.com/search?q=web+flow+sync+to+upstream&client=ubuntu-sn&hs=WTy&sca_esv=789f899a9bd51533&channel=fs&ei=xZgQZq-lLZGC2roP0vOe8AU&ved=0ahUKEwjvm_34q6yFAxURgVYBHdK5B14Q4dUDCBA&uact=5&oq=web+flow+sync+to+upstream&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXdlYiBmbG93IHN5bmMgdG8gdXBzdHJlYW0yBBAhGBVImRxQtAdY6RpwAngBkAEAmAHXAaAB-BGqAQYwLjEwLjK4AQPIAQD4AQGYAg6gArQSwgIKEAAYRxjWBBiwA8ICBhAAGAgYHsICBRAhGKABwgIIEAAYgAQYogTCAggQABiJBRiiBMICBxAhGAoYoAGYAwCIBgGQBgqSBwYyLjEwLjKgB7QS&sclient=gws-wiz-serp
+
+asajeffrey (Alan Jeffrey)
+https://github.com/asajeffrey
+
+Document.open() - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/Document/open
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=en&text=%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89&op=translate
+
+DOM Standard
+https://dom.spec.whatwg.org/#concept-node-ensure-pre-insertion-validity
+
+servo/components/script/dom/node.rs at 1ffa61aabf3b4872ee94f5b01f80fec67b7d6b8c · servo/servo
+https://github.com/servo/servo/blob/1ffa61aabf3b4872ee94f5b01f80fec67b7d6b8c/components/script/dom/node.rs#L1954
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

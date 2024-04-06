@@ -1,6 +1,28 @@
 
 # inbox
 
+https://github.com/servo/servo/issues/20218
+
+```
+<script>
+    setTimeout(_=>{
+      document.createRange().insertNode(document.createElement("a"));
+      document.writeln("tanmeng");
+
+
+      document.close();
+    });
+    </script>
+```
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/parser.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+Pipeline
+-EventLoop
+BrowserContext
+Document
+
+
 modified:   tests/wpt/meta/workers/postMessage_block.https.html.ini
 
 IntersectionObserver
