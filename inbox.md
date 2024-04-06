@@ -7779,7 +7779,7 @@ v8 dart
 
 toit
 
-https://news.ycombinator.com/threads?id=mraleph
+https://news.ycombinator.com/threads?id=mralephp
 
 The biggest truth I found is that, there is no "truth". The world it's just random people doing random things.
 

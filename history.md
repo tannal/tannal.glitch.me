@@ -1,5 +1,188 @@
 # 2024-4-6
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Buy tickets
+https://futurefrontend.com/buy-tickets/
+
+AudioRoute.aidl - Android Code Search
+https://cs.android.com/android/platform/superproject/main/+/main:hardware/interfaces/audio/aidl/android/hardware/audio/core/AudioRoute.aidl
+
+mraleph's comments | Hacker News
+https://news.ycombinator.com/threads?id=mraleph
+
+手写一个Parser - 代码简单而功能强大的Pratt Parsing - 知乎
+https://zhuanlan.zhihu.com/p/471075848
+
+(5 封私信 / 80 条消息) csr632 - 知乎
+https://www.zhihu.com/people/csr632
+
+Playground | ast-grep
+https://ast-grep.github.io/playground.html#eyJtb2RlIjoiQ29uZmlnIiwibGFuZyI6ImphdmFzY3JpcHQiLCJxdWVyeSI6IiIsInJld3JpdGUiOiIiLCJjb25maWciOiJydWxlOlxuICBwYXR0ZXJuOiBpbXBvcnQgeyQkJElERU5UU30gZnJvbSAnLi9iYXJyZWwnXG5yZXdyaXRlcnM6XG4tIGlkOiByZXdyaXRlLWlkZW50aWZlclxuICBydWxlOlxuICAgIHBhdHRlcm46ICRJREVOVFxuICAgIGtpbmQ6IGlkZW50aWZpZXJcbiAgZml4OiBpbXBvcnQgJElERU5UIGZyb20gJy4vYmFycmVsLyRJREVOVCdcbnRyYW5zZm9ybTpcbiAgSU1QT1JUUzpcbiAgICByZXdyaXRlOlxuICAgICAgcmV3cml0ZXJzOiBbcmV3cml0ZS1pZGVudGlmZXJdXG4gICAgICBzb3VyY2U6ICQkJElERU5UU1xuICAgICAgam9pbkJ5OiBcIlxcblwiXG5maXg6ICRJTVBPUlRTIiwic291cmNlIjoiaW1wb3J0IHsgYSwgYiwgYyB9IGZyb20gJy4vYmFycmVsJzsifQ==
+
+csr632/tdop-parser: A demo of "Top Down Operator Precedence" parser (Pratt parsing) implemented in TypeScript
+https://github.com/csr632/tdop-parser/tree/main
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+中国 3月 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+3%E6%9C%88+cpi&sca_esv=f2adb3232492c0ce&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09dBkUTd9x19QZgJpl-BJ_s5ANTrQ%3A1712383049776&ei=SeQQZuKCL5GOvr0PqvuZwAk&ved=0ahUKEwiiy5r786yFAxURh68BHap9BpgQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+3%E6%9C%88+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-S4reWbvSAz5pyIIGNwaTIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0jkAlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIFmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+theprimeagen tokenizer - Google 搜索
+https://www.google.com/search?q=theprimeagen+tokenizer&rlz=1C1GCEA_enJP1090JP1090&oq=theprimeagen+tokenizer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTEyMjk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Programming a first person shooter from scratch like it's 1995 - YouTube
+https://www.youtube.com/watch?v=fSjc8vLMg8c
+
+jdah/minecraft-weekend: Minecraft, but I made it in 48 hours.
+https://github.com/jdah/minecraft-weekend
+
+tokenizer · Debian Code Search
+https://codesearch.debian.net/search?q=tokenizer&literal=1
+
+tokenzier - Google 搜索
+https://www.google.com/search?q=tokenzier&rlz=1C1GCEA_enJP1090JP1090&oq=tokenzier&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyBwgDEAAYgAQyDAgEEAAYQxiABBiKBTIHCAUQABiABDIMCAYQABhDGIAEGIoFMgwIBxAAGEMYgAQYigUyBwgIEAAYgAQyBwgJEAAYgATSAQgxMzA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+请稍候…
+https://www.phind.com/search?cache=mdcuu0vk1c2d56ziqyb1aul0
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Top Tips for Terrible Tech Talks by Chet Haase - YouTube
+https://www.youtube.com/watch?v=DtP9jjQJjt8
+
+Chet Haase
+https://www.chethaase.com/
+
+Usage - Haze
+https://chrisbanes.github.io/haze/usage/
+
+Chet Haase github - Google 搜索
+https://www.google.com/search?q=Chet+Haase+github+&sca_esv=d2e54d00128a8c69&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-uXViG9Ct1TMYDv7I65nU-0_X3-w%3A1712377178986&ei=Ws0QZvPhO-rN1e8Pyp-JIA&ved=0ahUKEwjz9uWL3qyFAxXqZvUHHcpPAgQQ4dUDCBA&uact=5&oq=Chet+Haase+github+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkNoZXQgSGFhc2UgZ2l0aHViIDIFECEYoAEyBRAhGKABSKWZAVD-igFY05IBcAN4AJABAJgB0QGgAdsDqgEFMS4wLjK4AQPIAQD4AQH4AQKYAgSgAuQDmAMAiAYBkgcFMi4wLjKgB6IF&sclient=gws-wiz-serp#ip=1
+
+Android HAL硬件抽象层原理和实践 - 掘金
+https://juejin.cn/post/7200389542758793253
+
+Why Projects Succeed: Lessons Learned from the Android OS by Romain Guy and Chet Haase, Google EN - YouTube
+https://www.youtube.com/watch?v=29CXukGVcUM
+
+Android系统源码目录结构详解 - 掘金
+https://juejin.cn/post/7119764025210044423
+
+Flutter 目录结构 - 掘金
+https://juejin.cn/post/6844904045933494285?from=search-suggest
+
+android interface definition language - Google 搜索
+https://www.google.com/search?q=android+interface+definition+language&rlz=1C1GCEA_enJP1090JP1090&oq=android+interface+defin&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgIGB4yCAgDEAAYCBge0gEJMTAwODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Interface description language - Wikipedia
+https://en.wikipedia.org/wiki/Interface_description_language
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Chet Haase – Medium
+https://chethaase.medium.com/
+
+Developing for Android V: The Rules: Language and Libraries | by Chet Haase | Google Developers | Medium
+https://medium.com/google-developers/developing-for-android-v-f6b8038b42f5
+
+Ten Good Rules for Bad APIs | by Chet Haase | Pointer IO | Medium
+https://medium.com/pointer-io/this-article-is-exclusive-to-pointer-a-reading-club-for-developers-9b03f3df060c
+
+Developing for Android: Introduction | by Chet Haase | Google Developers | Medium
+https://medium.com/google-developers/developing-for-android-introduction-5345b451567c
+
+Tragedy of the commons - Wikipedia
+https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+
+Developing for Android VIII The Rules: User Interface | by Chet Haase | Google Developers | Medium
+https://medium.com/google-developers/developing-for-android-viii-e91ced595fac
+
+Developing for Android IX Tools. Tools | by Chet Haase | Google Developers | Medium
+https://medium.com/google-developers/developing-for-android-ix-tools-375134af1098
+
+系统跟踪概览  |  App quality  |  Android Developers
+https://developer.android.com/topic/performance/tracing?hl=zh-cn
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+Node.js built-ins on Deno Deploy | Hacker News
+https://news.ycombinator.com/item?id=36084450
+
+Issues · swc-project/swc
+https://github.com/swc-project/swc/issues
+
+yuandaimaahao/AndroidFrameworkTutorial: 写给应用开发的 Android Framework 教程
+https://github.com/yuandaimaahao/AndroidFrameworkTutorial
+
+tannal (tannal)
+https://github.com/tannal/
+
+sebastienrousseau/serde_yml: A Rust library that simplifies YAML serialization and deserialization using Serde.
+https://github.com/sebastienrousseau/serde_yml
+
+Issue search results
+https://github.com/search?q=involves%3Aalexcrichton&type=issues&p=2
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/webappapis.html#update-the-rendering
+
+Astro Islands | Docs
+https://docs.astro.build/en/concepts/islands/
+
+javascript - OnClick event not working for React Component in Astro - Stack Overflow
+https://stackoverflow.com/questions/74875277/onclick-event-not-working-for-react-component-in-astro
+
+Blog | Tiger Oakes
+http://localhost:8000/posts/
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com/actions/runs/19/jobs/0
+
+go利用nginx实现热重载热更新平滑重启_nginx平滑重启-CSDN博客
+https://blog.csdn.net/Holy_Q/article/details/129519467
+
+Tiger Oakes
+http://tanmeng.org/
+
+linux - How to force 'cp' to overwrite directory instead of creating another one inside? - Stack Overflow
+https://stackoverflow.com/questions/23698183/how-to-force-cp-to-overwrite-directory-instead-of-creating-another-one-inside
+
+tannal/tannal.com - tannal.com - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannal.com
+
+SegFault, page table, os memory management · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+How do I run http-server in the background · Issue #189 · http-party/http-server
+https://github.com/http-party/http-server/issues/189
+
+kmalloc()
+https://litux.nl/mirror/kerneldevelopment/0672327201/ch11lev1sec4.html
+
+Department of Computer Science and Technology – Raspberry Pi: Lesson 2 OK02
+https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/ok02.html
+
+init vs systemd - Google 搜索
+https://www.google.com/search?q=init+vs+systemd&rlz=1C1GCEA_enJP1090JP1090&oq=init+vs+sys&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIKCAMQABgKGBMYHjIICAQQABgTGB4yCAgFEAAYExgeMgoIBhAAGA8YExgeMgoIBxAAGAUYExgeMgoICBAAGAUYExgeMgoICRAAGAUYExge0gEIMzY4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=init%20vs%20systemd&sort=byPopularity&type=story
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
