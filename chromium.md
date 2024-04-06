@@ -1,8 +1,13 @@
 # inbox
 
+chrome command line options
+https://peter.sh/experiments/chromium-command-line-switches/
 
+
+*tests, tests, *_test.cc, *_unittest.cc, test, cctest, *browsertest.cc
 
 gdb ./out/Default/chrome --args --js-flags="--trace-gc"
+
 
 source tools/gdb/gdbinit
 b HTMLFrameElementBase::OpenURL
