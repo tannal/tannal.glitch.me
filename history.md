@@ -1,5 +1,74 @@
 # 2024-4-6
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Nginx 反向代理吞吐量砍半之谜 - 颇忒脱的技术博客
+https://chanjarster.github.io/post/nginx/throughput-cutoff-half-mystery/
+
+tannal/wasmtime - wasmtime - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/wasmtime
+
+triton框架 - Google 搜索
+https://www.google.com/search?q=triton%E6%A1%86%E6%9E%B6&sca_esv=80703e5ead76302f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_0FxOIzXM75HBfWoqVjagALX041A%3A1712318904588&ei=uOkPZqe4I8id0-kPt6ei8AU&oq=triton&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnRyaXRvbioCCAAyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANI7ApQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACBJgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp#ip=1
+
+who is the first person use gpu do ai - Google 搜索
+https://www.google.com/search?q=who+is+the+first+person+use+gpu+do+ai&rlz=1C1GCEA_enJP1090JP1090&oq=who+is+the+first+person+use+gpu+do+ai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTEwMzE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+icml09-LargeScaleUnsupervisedDeepLearningGPU.pdf
+http://robotics.stanford.edu/~ang/papers/icml09-LargeScaleUnsupervisedDeepLearningGPU.pdf
+
+CUDA Webinar 2
+https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf
+
+developer.mozilla.org/en-US/docs/Web/API/Document/open
+https://developer.mozilla.org/en-US/docs/Web/API/Document/open
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mozilla%20gecko%20servo&sort=byPopularity&type=story
+
+1406622 - stylo: use invalidation framework to handle restyles needed in response to content insertion/removal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1406622
+
+println!("Hello from NCSU");
+https://groups.google.com/g/mozilla.dev.servo/c/yNgrR31WP_I
+
+403 Forbidden
+https://www.csc2.ncsu.edu/
+
+Servo
+https://github.com/servo
+
+Support non-UTF-8 character encodings for HTML · Issue #6414 · servo/servo
+https://github.com/servo/servo/issues/6414
+
+Mozilla signs fresh Google search deal worth mega-millions as 25% staff cut hits Servo, MDN, security teams • The Register
+https://www.theregister.com/2020/08/14/mozilla_google_search/
+
+Ars Technica
+https://arstechnica.com/
+
+RYAN PAUL webkit - Google 搜索
+https://www.google.com/search?q=RYAN+PAUL+webkit&sca_esv=68a521f7a0db2ddd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Z37CT114Ci_fFxaTax0hgObI81w%3A1712370065630&ei=kbEQZoiMJpuWvr0PlduZ8A0&ved=0ahUKEwjImPHLw6yFAxUbi68BHZVtBt4Q4dUDCBA&uact=5&oq=RYAN+PAUL+webkit&gs_lp=Egxnd3Mtd2l6LXNlcnAiEFJZQU4gUEFVTCB3ZWJraXRI_AtQ_AJY4glwAXgBkAEAmAHhAaAB7QqqAQUwLjUuMrgBA8gBAPgBAZgCBaACrAbCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAggQLhiABBjLAcICBBAAGB7CAgYQABgFGB7CAgYQABgIGB6YAwCIBgGQBgGSBwUxLjMuMaAHlRU&sclient=gws-wiz-serp#ip=1
+
+Help:Tips and Tricks - MozillaWiki
+https://wiki.mozilla.org/Help:Tips_and_Tricks
+
+Firefox Source Tree Documentation — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/
+
+Welcome to Common Voice Community 🥳 | Community Playbook
+https://common-voice.github.io/community-playbook/
+
+Community:SummerOfCode19 - MozillaWiki
+https://wiki.mozilla.org/Community:SummerOfCode19
+
+• Discord | #projects | Zig Programming Language
+https://discord.com/channels/605571803288698900/1024381264213594242/threads/1192889702748004353
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

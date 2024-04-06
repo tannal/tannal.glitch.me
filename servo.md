@@ -1,6 +1,8 @@
 
 # inbox
 
+https://groups.google.com/g/mozilla.dev.servo
+
 https://github.com/servo/servo/issues/20218
 
 ```

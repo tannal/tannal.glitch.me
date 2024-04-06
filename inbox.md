@@ -1,5 +1,7 @@
 # 2024-4-6 0 | 0 W
 
+https://arstechnica.com/
+
 - Adam Barth
 - Dimitri Glazkov
 - Nate Chapin
