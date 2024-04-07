@@ -1,5 +1,17 @@
 # 2024-4-7 0 | 0 W
 
+https://github.com/search?q=%22Request+for+Position%22&type=issues
+
+window.addEventListener('selectionchange', function() {
+  // If user scrolls, disable automatic scrolling temporarily
+  allowScrolling = false;
+
+  // Reset the automatic scrolling after 3 seconds
+  setTimeout(function() {
+    allowScrolling = true;
+  }, 1000 * 10); // 1000 * 10 milliseconds = 3 seconds
+});
+
 // Event listener to detect user scrolling
 window.addEventListener('scroll', function() {
   // If user scrolls, disable automatic scrolling temporarily
@@ -8,24 +20,28 @@ window.addEventListener('scroll', function() {
   // Reset the automatic scrolling after 3 seconds
   setTimeout(function() {
     allowScrolling = true;
-  }, 3000); // 3000 milliseconds = 3 seconds
+  }, 1000 * 10); // 1000 * 10 milliseconds = 3 seconds
 });
 
+var allowScrolling = true; // Flag to control automatic scrolling
+
 function scrollToRandomPercentage() {
-  // Generate a random percentage between 0 and 1
-  var randomPercentage = Math.random();
+  if (allowScrolling) {
+    // Generate a random percentage between 0 and 1
+    var randomPercentage = Math.random();
 
-  // Get the total height of the document
-  var totalHeight = document.body.scrollHeight - window.innerHeight;
+    // Get the total height of the document
+    var totalHeight = document.body.scrollHeight - window.innerHeight;
 
-  // Calculate the position to scroll to
-  var scrollTo = randomPercentage * totalHeight;
+    // Calculate the position to scroll to
+    var scrollTo = randomPercentage * totalHeight;
 
-  // Scroll to the calculated position
-  window.scrollTo({
-    top: scrollTo,
-    behavior: 'smooth' // Smooth scrolling
-  });
+    // Scroll to the calculated position
+    window.scrollTo({
+      top: scrollTo,
+      behavior: 'smooth' // Smooth scrolling
+    });
+  }
 }
 
 setInterval(() => {

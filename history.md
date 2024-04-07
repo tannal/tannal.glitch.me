@@ -1,3 +1,86 @@
+# 2024-4-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+HTML Standard
+https://html.spec.whatwg.org/#flow-content
+
+RFC 6068: The 'mailto' URI Scheme
+https://www.rfc-editor.org/rfc/rfc6068
+
+View transitions: Handling aspect ratio changes - JakeArchibald.com
+https://jakearchibald.com/2024/view-transitions-handling-aspect-ratio-changes/
+
+Long Tasks API
+https://w3c.github.io/longtasks/
+
+#general > Servo blog and wiki: SM report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20blog.20and.20wiki.3A.20SM.20report
+
+Update the rendering: fix ordering of documents · Issue #32004 · servo/servo
+https://github.com/servo/servo/issues/32004
+
+Document: selectionchange イベント - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/Document/selectionchange_event
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webrender&sort=byPopularity&type=story
+
+The whole web at maximum FPS: How WebRender gets rid of jank - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/
+
+Jake Archibald - YouTube
+https://www.youtube.com/@jakearchibald/videos
+
+JS Bin - Collaborative JavaScript Debugging
+https://jsbin.com/?html,output
+
+Request for Position: View Transitions API · Issue #677 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/677
+
+HTTP 203
+https://deploy-preview-23--http203-playlist.netlify.app/
+
+CSS View Transitions Module Level 1
+https://drafts.csswg.org/css-view-transitions-1/#monkey-patch-to-rendering-algorithm
+
+Issue search results
+https://github.com/search?q=%22Request+for+Position%22&type=issues&p=2
+
+Request for Position: EditContext · Issue #243 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/243
+
+EditContext API
+https://w3c.github.io/edit-context/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+test262.fyi
+https://test262.fyi/#|v8,sm,jsc,hermes,qjs,libjs,chakra,graaljs,xs,rhino,babel,swc
+
+Ecma TC39
+https://github.com/tc39
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=annotation%20&sort=byPopularity&type=story
+
+@deco before or after export keyword? · Issue #69 · tc39/proposal-decorators
+https://github.com/tc39/proposal-decorators/issues/69
+
+hax (HE Shi-Jun)
+https://github.com/hax?tab=overview&from=2024-03-01&to=2024-03-31
+
+贺师俊 - 知乎
+https://www.zhihu.com/people/he-shi-jun/posts
+
+黄玄 - 知乎
+https://www.zhihu.com/people/huxpro/answers
+
+"Performance Observer" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=Performance%20Observer
+
 # 2024-4-7
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
