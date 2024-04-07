@@ -1,5 +1,179 @@
 # 2024-4-7
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Local Optimizations, Intro to SSA
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L3-Local-Opts.pdf
+
+CLI Commands | Docs
+https://docs.astro.build/en/reference/cli-reference/
+
+astro - npm
+https://www.npmjs.com/package/astro?activeTab=code
+
+are V8 VM concepts the same to Java VM ones?
+https://groups.google.com/g/v8-dev/c/2u2Y22KEOjQ
+
+V8 AsyncContext Design Doc - Google 文档
+https://docs.google.com/document/d/19gkKY6qC3L5X8WtSAmFq33iNnzeer1mL5495oT1owjY/edit
+
+Add tests for AsyncContext (Stage 2) by andreubotella · Pull Request #3874 · tc39/test262
+https://github.com/tc39/test262/pull/3874/files/3319cc4c8ec4b730770f1a92eadc2ed5990d0a6a#diff-d8641b94b9e8d549d849d39d150cd08d3d9fdbbd75dcad3476299058f76ca068
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=https%3A%2F%2Fgroups.google.com%2Fg%2Fv8&sort=byPopularity&type=story
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+By status · Node.js feature requests
+https://github.com/orgs/nodejs/projects/4/views/1
+
+Testing · V8
+https://v8.dev/docs/test
+
+llvm-project/llvm/include/llvm/IR/CFG.h at 8389b3bf60ef3fbd04c6efc5ff4d4605d10e7fc5 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/8389b3bf60ef3fbd04c6efc5ff4d4605d10e7fc5/llvm/include/llvm/IR/CFG.h#L42
+
+BOLT: 链接后优化技术简介 - 知乎
+https://zhuanlan.zhihu.com/p/550895670
+
+ChatGPT
+https://chat.openai.com/c/424907f7-0b72-428c-bac9-00b622d8a7f5
+
+BFS and DFS Iterator for Graph
+https://gist.github.com/deyindra/165fa58efbf0a3a9d943#file-breadthfirstiterator-L11
+
+CockeSchwartz_ProgLangCompilers.pdf
+https://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf
+
+bitcask-kv-go/benchmark 位于 main - bitcask-kv-go - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bitcask-kv-go/src/branch/main/benchmark
+
+结构主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%B5%90%E6%A7%8B%E4%B8%BB%E7%BE%A9
+
+LLVM1 1
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L2-LLVM1.pdf
+
+Life of an instruction in LLVM - Eli Bendersky's website
+https://eli.thegreenplace.net/2012/11/24/life-of-an-instruction-in-llvm
+
+llvm-project/llvm/include/llvm/IR/InstrTypes.h at ba5dad35fbefec456eb9da0f7c5a0ad983a268b2 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/ba5dad35fbefec456eb9da0f7c5a0ad983a268b2/llvm/include/llvm/IR/InstrTypes.h#L221
+
+Repository search results
+https://github.com/search?q=SelectionDAG&type=repositories
+
+llvm-project/llvm/lib/Target/X86 at bc8726b16bacc1790cee9a27302f556f5ca7ba39 · llvm/llvm-project
+https://github.com/llvm/llvm-project/tree/bc8726b16bacc1790cee9a27302f556f5ca7ba39/llvm/lib/Target/X86
+
+Register-sensitive selection, duplication, and sequencing of instructions | Proceedings of the 15th international conference on Supercomputing
+https://dl.acm.org/doi/10.1145/377792.377849
+
+Vivek Sarkar
+https://vsarkar.cc.gatech.edu/
+
+Habanero_DSC6848-2-21xhg26.jpg (2994×1690)
+https://bpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/7/1615/files/2012/08/Habanero_DSC6848-2-21xhg26.jpg
+
+Do PHI nodes remain in LLVM IR until compilation to binary? - Stack Overflow
+https://stackoverflow.com/questions/75820988/do-phi-nodes-remain-in-llvm-ir-until-compilation-to-binary
+
+Whatwg html spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+Projects - Eli Bendersky's website
+https://eli.thegreenplace.net/pages/projects
+
+code-for-blog/2005/perlmix at master · eliben/code-for-blog
+https://github.com/eliben/code-for-blog/tree/master/2005/perlmix
+
+pycparser/pycparser at main · eliben/pycparser
+https://github.com/eliben/pycparser/tree/main/pycparser
+
+eliben/raft: :rowboat: Raft implementation in Go
+https://github.com/eliben/raft
+
+0 从零实现 KV 存储—关于本课程 - 飞书云文档
+https://w02agegxg3.feishu.cn/docx/Ktp3dBGl9oHdbOxbjUWcGdSnn3g
+
+Does the MMU mediate everything between the operating system and physical memory or is it just an address translator? - Stack Overflow
+https://stackoverflow.com/questions/4812137/does-the-mmu-mediate-everything-between-the-operating-system-and-physical-memory
+
+Kiwi
+https://www.meetkiwi.ai/
+
+SDNode llvm - Google 搜索
+https://www.google.com/search?sca_esv=170ee0acc8f13a50&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09xWxRRnGhMB9TmMtg9sb0cYvsb-Q:1712470493747&q=SDNode+llvm&uds=AMwkrPuChM3QNXggeGrmIi9L-QtMP7FVG1GLMGlOcB1THqI5Uhrhcm2faTadJBXuQw8xeOMQHJSZV4m6i14-iWEEyCg0WIyGr0JhZ96SgJwfyCF12BcGfHcm6Z85ds01Mo_ZykgXEIc95Fvu23OsQWcj_e_hu3g3__a7pwcg0MTxiBp0VRuFKfO1w_tlT5vhF4xRxi9i4l5e8uJ4t6c5BPqGVJQhCwocTvOuOrA0BzYyHYei7geGWPS99K8VvP7KnL0j6FmPE5HK&udm=2&prmd=isvnmbtz&sa=X&ved=2ahUKEwjb_N7bua-FAxU0sFYBHfE1BXMQtKgLegQIDRAB&biw=1536&bih=703&dpr=1.25
+
+SDNode llvm - Google 搜索
+https://www.google.com/imgres?q=SDNode%20llvm&imgurl=https%3A%2F%2Fp6-juejin.byteimg.com%2Ftos-cn-i-k3u1fbpfcp%2F2c57c5df18a74f03ae665d07ec1d5143~tplv-k3u1fbpfcp-zoom-in-crop-mark%3A1512%3A0%3A0%3A0.awebp&imgrefurl=https%3A%2F%2Fjuejin.cn%2Fpost%2F6947599486336106532&docid=u3Vx8xysI_v00M&tbnid=7-jKeXa70XiDUM&vet=12ahUKEwiwg8Tdua-FAxXNlFYBHbFiCY0QM3oECHUQAA..i&w=502&h=404&hcb=2&ved=2ahUKEwiwg8Tdua-FAxXNlFYBHbFiCY0QM3oECHUQAA
+
+LLVM SDNode - 掘金
+https://juejin.cn/post/6947599486336106532
+
+KeithTsui 的个人主页 - 文章 - 掘金
+https://juejin.cn/user/4432851098679431/posts
+
+编译全过程的理解 - 掘金
+https://juejin.cn/post/7107503284042072072
+
+professor, can you explain this slide for me? - Your Personalized AI Assistant.
+https://you.com/search?q=professor%2C+can+you+explain+this+slide+for+me%3F%0A&fromSearchBar=true&tbm=youchat&chatMode=custom&cid=c0_59e0b4a2-59a8-43ce-b487-1cb9a639012e
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+bitcask-kv-go/file_io_test.go 位于 main - bitcask-kv-go - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bitcask-kv-go/src/branch/main/fio/file_io_test.go
+
+/tmp file windows - Google 搜索
+https://www.google.com.hk/search?q=%2Ftmp+file+windows&rlz=1C1GCEA_enJP1090JP1090&oq=%2Ftmp+file+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYDxgeMggIBBAAGAUYHjIICAUQABgFGB4yCggGEAAYBRgKGB4yCggHEAAYCBgKGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDYyOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+os tempdir use by another process windows - Google 搜索
+https://www.google.com.hk/search?q=os+tempdir+use+by+another+process+windows&rlz=1C1GCEA_enJP1090JP1090&oq=os+tempdir+use+by+another+process+windows&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDgzNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+windows - "The process cannot access the file because it is being used by another process" when creating files in a temporary directory - Stack Overflow
+https://stackoverflow.com/questions/63684982/the-process-cannot-access-the-file-because-it-is-being-used-by-another-process
+
+Using libc++ — libc++ documentation
+https://libcxx.llvm.org/UsingLibcxx.html
+
+ptrace trace me - Google 搜索
+https://www.google.com/search?q=ptrace+trace+me&sca_esv=225d6427b9f187fc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08K_r_-Y3bjosBe6vrRw9dmH7W41w%3A1712494933814&ei=VZkSZrGvMYvj2roPrZCT8AM&ved=0ahUKEwjxrdbhlLCFAxWLsVYBHS3IBD4Q4dUDCBA&uact=5&oq=ptrace+trace+me&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3B0cmFjZSB0cmFjZSBtZTIGEAAYHhgKSMIVUKIFWL4UcAN4AJABAZgB2wGgAbIPqgEFMC41LjW4AQPIAQD4AQGYAgugAt4MwgIKEAAYRxjWBBiwA8ICBBAjGCfCAgUQABiABMICCBAAGIAEGMsBwgIKEAAYgAQYigUYQ8ICDhAuGB4YDBjHARjRAxgKwgIIEC4YHhgMGArCAgQQABgewgIIEAAYHhgMGArCAggQABgeGA8YCsICCBAAGIAEGKIEwgIGEAAYHhgPwgIIEAAYBRgeGA_CAggQABgIGB4YD5gDAIgGAZAGCpIHBTMuMy41oAfYKA&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=mailserver%20golang&type=repositories
+
+chasquid - chasquid
+https://blitiri.com.ar/p/chasquid/
+
+mohuangrui/ucasthesis: LaTeX Thesis Template for the University of Chinese Academy of Sciences
+https://github.com/mohuangrui/ucasthesis?tab=readme-ov-file
+
+192.168.43.62:9000
+http://192.168.43.62:9000/
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | 好友
+https://discord.com/channels/@me
+
 llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
