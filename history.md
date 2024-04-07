@@ -1,3 +1,131 @@
+# 2024-4-7
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(4 封私信) 圆角骑士魔理沙 - 知乎
+https://www.zhihu.com/people/marisa.moe
+
+Arun's Data Analytics (ADA) Lab @ UCSD
+https://adalabucsd.github.io/
+
+Readings on the State of the Art in Rendering – Interplay of Light
+https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/
+
+Graphics Programming weekly - Issue 333 - March 31st, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-333/
+
+GDC 2024 - Shader Instrumentation with GPU Reshape - YouTube
+https://www.youtube.com/watch?v=qPNh7WrfFvc
+
+High Performance Graphics 2021: Program
+https://www.highperformancegraphics.org/2021/program/
+
+Whatwg html spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+HTML Standard
+https://html.spec.whatwg.org/#flow-content
+
+HTML Standard
+https://html.spec.whatwg.org/#the-kbd-element
+
+HTML Standard
+https://html.spec.whatwg.org/#the-bdo-element
+
+HTML Standard
+https://html.spec.whatwg.org/#refsBIDI
+
+RFC 6265 - HTTP State Management Mechanism
+https://httpwg.org/specs/rfc6265.html
+
+CSS Display Module Level 3
+https://drafts.csswg.org/css-display/
+
+CSS Font Loading Module Level 3
+https://drafts.csswg.org/css-font-loading/
+
+CSS Painting API Level 1
+https://drafts.css-houdini.org/css-paint-api/#example-1
+
+HTML Standard
+https://html.spec.whatwg.org/#the-bdi-element
+
+HTML Standard
+https://html.spec.whatwg.org/#bidireq
+
+cmu-db/15721-s24-cache1: 15-721 Spring 2024 - Cache #1
+https://github.com/cmu-db/15721-s24-cache1
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+update the rendering: order docs · servo/servo@fa48454
+https://github.com/servo/servo/commit/fa48454f64f01ceff17a6959c170914d46586da4
+
+HTML Standard
+https://html.spec.whatwg.org/#paragraphs
+
+HTML Standard
+https://html.spec.whatwg.org/#flow-content-2
+
+HTML Standard
+https://html.spec.whatwg.org/#the-dfn-element
+
+HTML Standard
+https://html.spec.whatwg.org/#attr-hyperlink-usemap
+
+HTML Standard
+https://html.spec.whatwg.org/#the-fieldset-element
+
+HTML Standard
+https://html.spec.whatwg.org/#phrasing-content
+
+Index of /user/mm6/95-702/slides
+https://www.andrew.cmu.edu/user/mm6/95-702/slides/
+
+Why is the content model for `<button>` limited to phrasing content? · Issue #9705 · whatwg/html
+https://github.com/whatwg/html/issues/9705
+
+source - mozsearch
+https://searchfox.org/whatwg-html/diff/fe5d39724d647c0ab3d7bb11f9149800c9edd7bd/source#24064
+
+httparchive.org/docs/gettingstarted_bigquery.md at main · HTTPArchive/httparchive.org
+https://github.com/HTTPArchive/httparchive.org/blob/main/docs/gettingstarted_bigquery.md
+
+validator/htmlparser: The Validator.nu HTML parser https://about.validator.nu/htmlparser/
+https://github.com/validator/htmlparser
+
+Showing results for https://www.bilibili.com - Nu Html Checker
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.bilibili.com&submit=Check
+
+双向文本排版 - Google 搜索
+https://www.google.com/search?q=%E5%8F%8C%E5%90%91%E6%96%87%E6%9C%AC%E6%8E%92%E7%89%88&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8F%8C%E5%90%91%E6%96%87%E6%9C%AC%E6%8E%92%E7%89%88&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg0NjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bidi(双向文字)与RTL布局总结 - 木的树 - 博客园
+https://www.cnblogs.com/dojo-lzz/p/4289423.html
+
+木的树 - 博客园
+https://www.cnblogs.com/dojo-lzz
+
+中国 ppi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+ppi&sca_esv=2a58a15ae2bc46a7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-MOgeXD1G3_ojgU76UVeKRHusmqA%3A1712451267237&ei=w-4RZpOPDtezvr0PoeuIkAE&ved=0ahUKEwjT_OmL8q6FAxXXma8BHaE1AhIQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+ppi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBwcGkyBxAjGLADGCcyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIkQJQAFgAcAF4AJABAJgB4gGgAeIBqgEDMi0xuAEDyAEAmAIBoAIJmAMAiAYBkAYKkgcBMaAHvAY&sclient=gws-wiz-serp
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt/tree/master
+
+Excalidraw
+https://excalidraw.com/
+
+fast-xml-parser - npm
+https://www.npmjs.com/package/fast-xml-parser
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=palpable&op=translate
+
 # 2024-4-6
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

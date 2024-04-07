@@ -1,5 +1,14 @@
 # 2024-4-7 0 | 0 W
 
+1. reading spec
+2. reading code
+3. talking with someone
+4. write some code
+5. goto 1
+
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.bilibili.com&submit=Check
+
+https://www.andrew.cmu.edu/user/mm6/95-702/slides/
 
 
 # 2024-4-6 0 | 0 W
