@@ -1,5 +1,37 @@
 # 2024-4-7 0 | 0 W
 
+// Event listener to detect user scrolling
+window.addEventListener('scroll', function() {
+  // If user scrolls, disable automatic scrolling temporarily
+  allowScrolling = false;
+
+  // Reset the automatic scrolling after 3 seconds
+  setTimeout(function() {
+    allowScrolling = true;
+  }, 3000); // 3000 milliseconds = 3 seconds
+});
+
+function scrollToRandomPercentage() {
+  // Generate a random percentage between 0 and 1
+  var randomPercentage = Math.random();
+
+  // Get the total height of the document
+  var totalHeight = document.body.scrollHeight - window.innerHeight;
+
+  // Calculate the position to scroll to
+  var scrollTo = randomPercentage * totalHeight;
+
+  // Scroll to the calculated position
+  window.scrollTo({
+    top: scrollTo,
+    behavior: 'smooth' // Smooth scrolling
+  });
+}
+
+setInterval(() => {
+  scrollToRandomPercentage()
+}, 1000 * 10)
+
 g++ -I. -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
 
 apt.llvm.org
