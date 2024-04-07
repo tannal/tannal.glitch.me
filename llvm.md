@@ -1,5 +1,38 @@
 # inbox
 
+phi node
+
+int main() {
+ int a = 5;
+ int b = 3;
+ return a - b;
+}
+
+TraslationUnit
+- Type Dec
+- Func Dec
+  - Dec Stmt
+  - Dec Stmt
+  - Ret Stmt
+
+programming languages and their compilers
+https://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf
+
+https://github.com/llvm/llvm-project/blob/8389b3bf60ef3fbd04c6efc5ff4d4605d10e7fc5/llvm/include/llvm/IR/CFG.h#L42
+PredIterator
+SuccIterator
+
+If don't pay over attension to things you can not immediately unserstand
+It will add noise.
+
+Basic Block
+llvm-project/llvm/include/llvm/IR/BasicBlock.h
+BasicBLock
+-InstListType InstList
+-Function *Parent;
+
+predecessors
+
 HyPer uses Just-In-Time (JIT) compilation to generate LLVM codes for the incoming queries, which boosts the performance of the database and minimizes the memory traffic.
 
 MLIR https://github.com/llvm/llvm-project/commits?author=kuhar
