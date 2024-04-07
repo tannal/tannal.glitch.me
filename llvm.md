@@ -117,7 +117,7 @@ cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-17/ -DCMAKE_EXPORT_C
 ninja clean -C build
 ninja -C build
 
-ln -s /build/compile_commands.json compile_commands.json
+ln -sfn /build/compile_commands.json compile_commands.json
 
 
 clang -emit-llvm -S -O1 ../../cp/add.ll
