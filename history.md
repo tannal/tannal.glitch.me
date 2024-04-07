@@ -1,5 +1,77 @@
 # 2024-4-7
 
+llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed#advanced-guide
+
+banach-space/llvm-tutor: A collection of out-of-tree LLVM passes for teaching and learning
+https://github.com/banach-space/llvm-tutor
+
+embed v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=embed+v8#ip=1
+
+JavaScript エンジンを組み込む | ちいさな Web ブラウザを作ってみよう
+https://browserbook.shift-js.info/chapters/integrating-v8
+
+c++ - How do I embed v8 on Windows? - Stack Overflow
+https://stackoverflow.com/questions/67041878/how-do-i-embed-v8-on-windows
+
+v8_monolithic - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=v8_monolithic
+
+Is "monolithic" build of v8 for static linking incompatible with "v8_use_snapshot=true"?
+https://groups.google.com/g/v8-users/c/DZKuQ5uWcAU
+
+node-v8/tools at main · nodejs/node-v8
+https://github.com/nodejs/node-v8/tree/main/tools
+
+dynamic linking v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=dynamic+linking+v8
+
+c++ - how to use v8 shared library in linux - Stack Overflow
+https://stackoverflow.com/questions/50727785/how-to-use-v8-shared-library-in-linux
+
+How to build V8 on Windows and not go mad | by Max Koretskyi | Angular In Depth | Medium
+https://medium.com/angular-in-depth/how-to-build-v8-on-windows-and-not-go-mad-6347c69aacd4
+
+dynamic linking v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=dynamic+linking+v8+
+
+is_component_build=true, use_custom_libcxx=false on Windows
+https://groups.google.com/g/v8-users/c/NT1_kNtE-hE
+
+debian - Does the Linux version of Node.js come bundled with libv8? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/309058/does-the-linux-version-of-node-js-come-bundled-with-libv8
+
+rOpenSci | Installing V8 is now even easier
+https://ropensci.org/blog/2020/11/12/installing-v8/
+
+Building NodeJS with a shared v8 · Issue #3302 · nodejs/help
+https://github.com/nodejs/help/issues/3302
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannalwork/v8_embed 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/cans/v8_embed
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor
+
+GitHub
+https://github.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Mozilla Firefox Cheat Sheet
+https://lesliefranke.com/files/reference/firefoxcheatsheet.html
+
+c++ - Define a preprocessor macro through CMake - Stack Overflow
+https://stackoverflow.com/questions/9017573/define-a-preprocessor-macro-through-cmake
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,12 @@
 # 2024-4-7 0 | 0 W
 
+g++ -I. -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
+
+apt.llvm.org
+
+nm /home/tannal/.nvm/versions/node/v20.10.0/bin/node | c++filt | less -pv8::
+strings /home/tannal/.nvm/versions/node/v20.10.0/bin/node | less -plibv8
+
 /home/tannal/tannalwork/projects/v8/v8/third_party/libc++/src/include
 /home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
 
