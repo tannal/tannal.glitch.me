@@ -3,6 +3,75 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Re: [v8-users] Specify toolchain when use_custom_libcxx=false?
+https://www.mail-archive.com/v8-users@googlegroups.com/msg14365.html
+
+error LNK2001: unresolved external symbol v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/cvFGONOg_BY
+
+Undefined reference to v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/Jb1VSouy2Z0
+
+Getting started with embedding V8 · V8
+https://v8.dev/docs/embed#advanced-guide
+
+embeded v8 - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=embeded+v8#ip=1
+
+Getting Started with Embedding · v8/v8 Wiki
+https://github.com/v8/v8/wiki/Getting-Started-with-Embedding
+
+The V8 public C++ API
+https://denolib.github.io/v8-docs/md_v8_include_APIDesign.html
+
+tannal/kakapo - kakapo - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/kakapo
+
+Testing · V8
+https://v8.dev/docs/test
+
+v8 test262 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=v8+test262
+
+test262/test/harness/propertyhelper-verifyenumerable-not-enumerable.js at b73f7d662d51584bfee6d3ed274b676d313b646a · tc39/test262
+https://github.com/tc39/test262/blob/b73f7d662d51584bfee6d3ed274b676d313b646a/test/harness/propertyhelper-verifyenumerable-not-enumerable.js
+
+undefined symbol: v8::platform::NewDefaultPlatform - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=undefined+symbol%3A+v8%3A%3Aplatform%3A%3ANewDefaultPlatform
+
+VS2017链接V8引擎库遇到的一些问题_libplatform/libplatform.h-CSDN博客
+https://blog.csdn.net/weixin_43939128/article/details/104678515
+
+libstdc++ vs libc++ - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=libstdc%2B%2B+vs+libc%2B%2B
+
+linux - Should I use libc++ or libstdc++? - Stack Overflow
+https://stackoverflow.com/questions/14972425/should-i-use-libc-or-libstdc
+
+libc++ 与 libstdc++ 是什么关系？ - 知乎
+https://www.zhihu.com/question/343205052/answer/806670865
+
+cmake specify libc++ - Google 搜索
+https://www.google.com.hk/search?q=cmake+specify+libc%2B%2B&newwindow=1&client=ubuntu-sn&hs=4m7&sca_esv=e15c1d565c5f7f73&sca_upv=1&channel=fs&ei=9VoSZs_MIciQvr0Pn7ibgAo&ved=0ahUKEwiPm7Wj2a-FAxVIiK8BHR_cBqAQ4dUDCBA&uact=5&oq=cmake+specify+libc%2B%2B&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtYWtlIHNwZWNpZnkgbGliYysrMgQQABgeSM4KUIoFWPEIcAF4AZABAJgBqwOgAdgGqgEHMi0yLjAuMbgBA8gBAPgBAZgCBKAC7AbCAgoQABhHGNYEGLADwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZAGBJIHCTEuMC4yLjAuMaAHmwU&sclient=gws-wiz-serp
+
+c++ - How to manually disable libstdc++ in CMake for Clang - Stack Overflow
+https://stackoverflow.com/questions/72138579/how-to-manually-disable-libstdc-in-cmake-for-clang
+
+v8 custom cxx - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=v8+custom+cxx#ip=1
+
+Complete example of binding a C++ class with Google V8.
+https://gist.github.com/bazhenovc/2f0eb8de6d67c339fcea
+
+A Deep Dive Into V8 | AppSignal Blog
+https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (4 封私信) 圆角骑士魔理沙 - 知乎
 https://www.zhihu.com/people/marisa.moe
 
