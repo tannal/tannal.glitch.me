@@ -3,6 +3,207 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
+
+Design Doc: Maglev - a new mid-tier optimising compiler
+https://groups.google.com/g/v8-dev/c/pcmkHmznjPM
+
+Maglev - Google 文档
+https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Blink (Rendering Engine)
+https://www.chromium.org/blink/
+
+• Discord | #help | Deno
+https://discord.com/channels/684898665143206084/1022163295895027722/threads/1226639616896143361
+
+v8-reviews - Google 网上论坛
+https://groups.google.com/g/v8-reviews
+
+[experiment] Run babel over output for let/const to var by jakebailey · Pull Request #52656 · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/pull/52656
+
+Filament: Physically-based rendering engine | Hacker News
+https://news.ycombinator.com/item?id=17684286
+
+Screen Shot 2018-08-03 at 7.01.18 PM.png - Google 云端硬盘
+https://drive.google.com/file/d/1YVtcV-J0JrDyW2pJ6vwgEDsgjOEusyEH/view
+
+Submissions from google.github.io | Hacker News
+https://news.ycombinator.com/from?site=google.github.io
+
+no_std - Comprehensive Rust 🦀
+https://google.github.io/comprehensive-rust/bare-metal/no_std.html
+
+Welcome - Comprehensive Rust 🦀
+https://google.github.io/comprehensive-rust/android.html
+
+Filament Materials Guide
+https://google.github.io/filament//Materials.md.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+MathJax/CONTRIBUTING.md at master · mathjax/MathJax
+https://github.com/mathjax/MathJax/blob/master/CONTRIBUTING.md#reporting-an-issue
+
+#new members - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members
+
+LiveView Native
+https://native.live/
+
+A Better Default Colormap for Matplotlib | SciPy 2015 | Nathaniel Smith and Stéfan van der Walt - YouTube
+https://www.youtube.com/watch?v=xAoljeRJ3lU
+
+React Native for Windows + macOS · Build native Windows & macOS apps with Javascript and React
+https://microsoft.github.io/react-native-windows/
+
+Home - WhiteBox
+https://whitebox.systems/
+
+rust-cssparser/src/tokenizer.rs at main · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/blob/main/src/tokenizer.rs
+
+ChatGPT
+https://chat.openai.com/c/f1c0a58f-751c-4261-984e-88801551c456
+
+C Macros vs Rust Macros : r/rust
+https://www.reddit.com/r/rust/comments/115xrob/c_macros_vs_rust_macros/
+
+(2) #general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+servoshell: add support for tabbed browsing by delan · Pull Request #31545 · servo/servo
+https://github.com/servo/servo/pull/31545
+
+build: Make match_byte a proper proc-macro. by emilio · Pull Request #337 · servo/rust-cssparser
+https://github.com/servo/rust-cssparser/pull/337/files
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+TextTrack - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/TextTrack
+
+Repository search results
+https://github.com/search?q=utf8%20decode&type=repositories
+
+jwerle/libutf8: A whatwg compliant UTF8 encoding and decoding library
+https://github.com/jwerle/libutf8
+
+haipome/utf8: A simple utf8 decode/encode lib in c
+https://github.com/haipome/utf8
+
+UTF-8 encoder/decoder
+https://mothereff.in/utf-8
+
+Locking in WebKit | Hacker News
+https://news.ycombinator.com/item?id=11644439
+
+xmake-io/xrepo: 🗂️ A cross-platform C/C++ package manager based on Xmake
+https://github.com/xmake-io/xrepo
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&sca_esv=30e299dc73f09ca9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08Q2ugUDX3tCHyIGaFG3a_hMs1fTg%3A1712540494355&ei=TksTZriYFcek0-kP7NyF0A0&oq=nvidia+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB252aWRpYSAqAggAMg0QIxiABBiKBRgnGJ0CMgoQIxiABBiKBRgnMgwQIxiABBiKBRgTGCcyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUiVK1DEA1jKFHABeACQAQCYAfkCoAHID6oBBTItNi4yuAEDyAEA-AEBmAIJoAL7D8ICCRAAGAcYHhiwA8ICCxAAGIAEGMsBGLADwgIQEC4YQxjHARjRAxiABBiKBcICBxAAGIAEGAzCAgUQABiABMICBBAjGCfCAhAQLhiABBiKBRhDGMcBGNEDwgIOEC4YgAQYywEYxwEY0QOYAwCIBgGQBgqSBwcxLjAuNi4yoAeWRA&sclient=gws-wiz-serp
+
+中国 3月 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+3%E6%9C%88+cpi&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BD+&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7MgYIABBFGDsyDggBEEUYJxg7GIAEGIoFMggIAhBFGCcYOzIGCAMQRRg7MgYIBBBFGDkyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgzNzg1ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8#ip=1
+
+[ spirv-opt ] Infinite recursion/crash with shader · Issue #5623 · KhronosGroup/SPIRV-Tools
+https://github.com/KhronosGroup/SPIRV-Tools/issues/5623
+
+Zstandard - Real-time data compression algorithm
+https://facebook.github.io/zstd/
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+uluru/src/lib.rs at main · servo/uluru
+https://github.com/servo/uluru/blob/main/src/lib.rs
+
+(4 封私信 / 6 条消息) これ和この？ - 知乎
+https://www.zhihu.com/question/60290387
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0%E3%82%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%80%81%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E7%9A%84%E3%81%AA%E7%9F%A5%E8%AD%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%82%82%E3%80%81%E9%96%8B%E7%99%BA%E6%AE%B5%E9%9A%8E%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E9%A0%86%E6%AC%A1%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82&op=translate
+
+(4 封私信 / 6 条消息) ます和 です有什么区别啊两个可以替换麼？那意思会不会变？ - 知乎
+https://www.zhihu.com/question/54485298
+
+Excalidraw
+https://excalidraw.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=data%20structures&sort=byPopularity&type=story
+
+Advanced Data Structures | Hacker News
+https://news.ycombinator.com/item?id=12871234
+
+Algorithms-JeffE.pdf
+https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf
+
+peach/main.c at master · pandengyang/peach
+https://github.com/pandengyang/peach/blob/master/main.c
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20future%20is%20flutter&sort=byPopularity&type=story
+
+Hixie's Natural Log
+https://ln.hixie.ch/?start=1700627532
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+As a current Googler of approximately the same tenure, I can't speak to the comm... | Hacker News
+https://news.ycombinator.com/item?id=38382007
+
+steveluc (Steve Lucco)
+https://github.com/steveluc
+
+Luke Hoban
+https://lukehoban.com/
+
+Meet Amanda Silver, Corporate Vice President at the Microsoft Developer Division - YouTube
+https://www.youtube.com/watch?v=Wnjo3BUVric
+
+RyanCavanaugh (Ryan Cavanaugh)
+https://github.com/RyanCavanaugh
+
+Vue.js: The Documentary (Trailer) [video] | Hacker News
+https://news.ycombinator.com/item?id=22347911
+
+bits-and-blooms/bloom: Go package implementing Bloom filters, used by Milvus and Beego.
+https://github.com/bits-and-blooms/bloom
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+denokv&type=code
+
+Delan’s Igalia pages
+https://bucket.daz.cat/work/igalia/
+
+Debugging blink objects - Google 文档
+https://docs.google.com/document/d/1vgQY11pxRQUDAufxSsc2xKyQCKGPftZ5wZnjY2El4w8/edit
+
+How to dump Firefox rendering tree data structures - Google 文档
+https://docs.google.com/document/d/1TMckMPNHk_XGZJUCUQi8IW3rtr03-6LHs_4UGSG4H_M/edit#heading=h.6nhvu9ovfax9
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Code search results
 https://github.com/search?q=repo%3Ababel%2Fbabel%20builder&type=code
 

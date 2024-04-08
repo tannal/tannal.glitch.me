@@ -640,9 +640,17 @@ RAFAEL GONZAGA https://rafaelgss.dev/
 
 ## TypeScript
 
+Erich Gamma
+
+Amanda Silver VP of developer Division ms
+
+Luke Hoban https://lukehoban.com/
+
+Steve Lucco https://github.com/steveluc
+
 Jake Bailey https://www.linkedin.com/in/jakebbailey/
 
-Ryan Cavanaugh SSE https://www.linkedin.com/in/ryan-cavanaugh-aa4a37106/
+Ryan Cavanaugh dev leader https://github.com/RyanCavanaugh https://www.linkedin.com/in/ryan-cavanaugh-aa4a37106/
 
 Anders Hejlsberg
 
