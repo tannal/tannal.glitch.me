@@ -522,6 +522,22 @@ VariableDeclaration
 
 ## further reading
 
+# team
+
+Animations Team
+Binding Team
+Device Team
+DevTools
+DOM Team
+Ecosystem infra
+Input Team
+Layout Team
+Paint Team (paint-dev)
+Rendering Core
+Speed Metrics Team
+Style Team
+Web Capabilities (Project Fugu 🐡)
+Worker Team 
 
 
 # community

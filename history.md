@@ -1,5 +1,59 @@
 # 2024-4-9
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Site not found · GitHub Pages
+https://risinglightdb.github.io/
+
+cmu-db/15721-s24-scheduler2: 15-721 Spring 2024 - Scheduler #2
+https://github.com/cmu-db/15721-s24-scheduler2
+
+servo/stylo
+https://github.com/servo/stylo
+
+@charset - CSS: カスケーディングスタイルシート | MDN
+https://developer.mozilla.org/ja/docs/Web/CSS/@charset
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+%22match+input%22&type=code
+
+debugging - How do I pretty-print Rust structures in GDB? - Stack Overflow
+https://stackoverflow.com/questions/40139269/how-do-i-pretty-print-rust-structures-in-gdb
+
+stylo mozilla firefox - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=stylo+mozilla+firefox
+
+Stylo hacking guide · servo/servo Wiki
+https://github.com/servo/servo/wiki/Stylo-hacking-guide
+
+I led the Stylo project to integrate Servo's CSS engine into Firefox as part of ... | Hacker News
+https://news.ycombinator.com/item?id=24164058
+
+Mozilla SpiderMonkey Team
+https://github.com/mozilla-spidermonkey
+
+Mozilla Gfx Team Blog
+https://mozillagfx.wordpress.com/
+
+bholley
+https://bholley.net/
+
+Geckoview - GeckoView
+https://mozilla.github.io/geckoview/
+
+bholley - Boiling the Ocean, Incrementally - How Stylo Brought Rust and Servo to Firefox
+https://bholley.net/blog/2017/stylo.html
+
+Future Tense | PPT
+https://www.slideshare.net/BrendanEich/future-tense-7782010
+
+The Firefox layout team - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=The+Firefox+layout+team
+
+Teams
+https://www.chromium.org/teams/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

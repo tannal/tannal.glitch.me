@@ -1,6 +1,9 @@
 
 # inbox
 
+RUST_LOG="debug" ./mach run baidu.com --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+
 https://groups.google.com/g/mozilla.dev.servo
 
 https://github.com/servo/servo/ m1[00/20218
