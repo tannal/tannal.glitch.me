@@ -1,5 +1,13 @@
 # 2024-4-8 0 | 0 W
 
+# 2024-4-8 0 | 0 W
+
+sudo apt  install protoc-gen-go
+protoc --go_out=. sst.proto
+
+git rm -r --cached examples/*.swap
+git update-index --assume-unchanged examples/*.swap
+
 git clone https://github.com/rr-debugger/rr.git
 rr debugger
 cmake --install build

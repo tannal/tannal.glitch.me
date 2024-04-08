@@ -1,5 +1,8 @@
 # inbox
 
+printf "%s\n",  element_id.Latin1().data()
+
+./out/Default/chrome baidu.com --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
 
 Member<StyleSheetContents> -> .css file
 

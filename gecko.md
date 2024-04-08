@@ -1,5 +1,9 @@
 # inbox
 
+gecko layout team meeting notes https://docs.google.com/document/d/1BbKGHgmDjD87f6Dt4mMXrZysch5END7AoCIY1cwGSdY/edit
+
+ ./mach run -- -layoutdebug -no-remote.
+
 https://groups.google.com/
 
 sylvestre
