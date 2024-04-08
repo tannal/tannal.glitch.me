@@ -1,5 +1,12 @@
 # inbox
 
+cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
+
+
+export LLVM_DIR=/opt/llvm
+mkdir -p $LLVM_DIR
+cmake -B build -DCMAKE_INSTALL_PREFIX=$LLVM_DIR llvm
+sudo cmake --install build
 phi node
 
 int main() {

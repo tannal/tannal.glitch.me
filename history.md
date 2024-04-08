@@ -3,6 +3,66 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Code search results
+https://github.com/search?q=repo%3Ababel%2Fbabel%20builder&type=code
+
+tannal (tannal)
+https://github.com/tannal/
+
+Support rr debugger (record-replay) by allowing the syscall `perf_event_open` in Gitpod workspaces · Issue #9687 · gitpod-io/gitpod
+https://github.com/gitpod-io/gitpod/issues/9687
+
+rr-debugger/rr: Record and Replay Framework
+https://github.com/rr-debugger/rr
+
+Building And Installing · rr-debugger/rr Wiki
+https://github.com/rr-debugger/rr/wiki/Building-And-Installing#tldr
+
+cmake add variable to cache - Google 検索
+https://www.google.com/search?q=cmake+add+variable+to+cache&client=ubuntu-sn&hs=X7W&sca_esv=6457b5ff455aa099&channel=fs&ei=R9cTZt2VGvLh1e8Pi4CtiA4&oq=cmake+add+var&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWNtYWtlIGFkZCB2YXIqAggDMgcQABiABBgTMgcQABiABBgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyCBAAGAgYHhgTMggQABgIGB4YEzIIEAAYBRgeGBMyCBAAGAgYHhgTSLJfUKUCWJhEcAF4AZABAJgBvwKgAeYLqgEHMC40LjIuMbgBA8gBAPgBAZgCCKACiwzCAgoQABhHGNYEGLADwgIFEAAYgATCAgcQABiABBgEwgIEEAAYHsICBhAAGAUYHpgDAIgGAZAGCpIHBzEuNC4yLjGgB70Y&sclient=gws-wiz-serp
+
+makefile - how to modify the install-path without running the configure script/cmake again - Stack Overflow
+https://stackoverflow.com/questions/13480846/how-to-modify-the-install-path-without-running-the-configure-script-cmake-again
+
+rr debugger - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rr+debugger
+
+Mozilla rr を使用したデバッグ | GoLand ドキュメント
+https://pleiades.io/help/go/debugging-with-mozilla-rr.html#remote-debugging-with-mozilla-rr
+
+rr (debugging) - Wikipedia
+https://en.wikipedia.org/wiki/Rr_(debugging)
+
+Time travel debugging with the rr debugger - YouTube
+https://www.youtube.com/watch?v=l8QuZLAFCjk
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Ababel%2Fbabel%20builder&type=code
+
+tannal (tannal)
+https://github.com/tannal/
+
+Support rr debugger (record-replay) by allowing the syscall `perf_event_open` in Gitpod workspaces · Issue #9687 · gitpod-io/gitpod
+https://github.com/gitpod-io/gitpod/issues/9687
+
+rr-debugger/rr: Record and Replay Framework
+https://github.com/rr-debugger/rr
+
+Building And Installing · rr-debugger/rr Wiki
+https://github.com/rr-debugger/rr/wiki/Building-And-Installing#tldr
+
+cmake add variable to cache - Google 検索
+https://www.google.com/search?q=cmake+add+variable+to+cache&client=ubuntu-sn&hs=X7W&sca_esv=6457b5ff455aa099&channel=fs&ei=R9cTZt2VGvLh1e8Pi4CtiA4&oq=cmake+add+var&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWNtYWtlIGFkZCB2YXIqAggDMgcQABiABBgTMgcQABiABBgTMgYQABgeGBMyBhAAGB4YEzIGEAAYHhgTMgYQABgeGBMyCBAAGAgYHhgTMggQABgIGB4YEzIIEAAYBRgeGBMyCBAAGAgYHhgTSLJfUKUCWJhEcAF4AZABAJgBvwKgAeYLqgEHMC40LjIuMbgBA8gBAPgBAZgCCKACiwzCAgoQABhHGNYEGLADwgIFEAAYgATCAgcQABiABBgEwgIEEAAYHsICBhAAGAUYHpgDAIgGAZAGCpIHBzEuNC4yLjGgB70Y&sclient=gws-wiz-serp
+
+makefile - how to modify the install-path without running the configure script/cmake again - Stack Overflow
+https://stackoverflow.com/questions/13480846/how-to-modify-the-install-path-without-running-the-configure-script-cmake-again
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 HTTPS setup | Gitea Documentation
 https://docs.gitea.com/administration/https-setup
 

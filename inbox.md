@@ -1,10 +1,24 @@
 # 2024-4-8 0 | 0 W
 
+git clone https://github.com/rr-debugger/rr.git
+rr debugger
+cmake --install build
+
+cmake -B build 
+
+sudo apt-get install ccache cmake make g++-multilib gdb lldb \
+  pkg-config coreutils python3-pexpect manpages-dev git \
+  ninja-build capnproto libcapnp-dev zlib1g-dev
+
+echo "kernel.perf_event_paranoid = 1" | sudo tee -a /etc/sysctl.d/10-rr.conf
+sudo  sysctl --system
+
 igalia compiler team https://github.com/takikawa
 
-$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_mba.c -o input_for_mba.ll
-$LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libMBAAdd.so -passes=-"mba-add" -disable-output input_for_mba.ll
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_mba.c -o input_for_mba_host.ll
+$LLVM_DIR/bin/opt -load-pass-plugin ./host/lib/libMBAAdd.so -passes="mba-add" -disable-output input_for_mba_host.ll -debug
 
+export LLVM_DIR=/opt/llvm
 $LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_hello.ll
 $LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libHelloWorld.so -passes=hello-world -disable-output input_for_hello.ll
 
