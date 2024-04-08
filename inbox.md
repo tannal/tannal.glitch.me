@@ -1,5 +1,44 @@
 # 2024-4-8 0 | 0 W
 
+window.addEventListener('keydown', function(e) {
+  // If user scrolls, disable automatic scrolling temporarily
+  if(e.key === 'j') {
+    scrollToRandomPercentage()
+  }
+});
+
+function scrollToRandomPercentage() {
+    // Generate a random percentage between 0 and 1
+    var randomPercentage = Math.random();
+
+    // Get the total height of the document
+    var totalHeight = document.body.scrollHeight - window.innerHeight;
+
+    // Calculate the position to scroll to
+    var scrollTo = randomPercentage * totalHeight;
+
+    // Scroll to the calculated position
+    window.scrollTo({
+      top: scrollTo,
+      behavior: 'smooth' // Smooth scrolling
+    });
+}
+
+how problems relate to each other?
+
+コンパイラ
+コミット
+
+explain the most important three words to understand these
+
+
+explain these word by word in en
+
+more than what you see?
+special to general
+less -> more
+more -> less
+
 https://news.ycombinator.com/from?site=google.github.io
 
 https://news.ycombinator.com/from?site=facebook.github.io
@@ -24,7 +63,7 @@ what comes to your mind when you see this code?
 
 https://github.com/search?q=%22Request+for+Position%22&type=issues
 
-window.addEventListener('selectionchange', function() {
+window.addEventListener('scroll', function() {
   // If user scrolls, disable automatic scrolling temporarily
   allowScrolling = false;
 
@@ -35,7 +74,7 @@ window.addEventListener('selectionchange', function() {
 });
 
 // Event listener to detect user scrolling
-window.addEventListener('scroll', function() {
+window.addEventListener('mousemove', function() {
   // If user scrolls, disable automatic scrolling temporarily
   allowScrolling = false;
 
