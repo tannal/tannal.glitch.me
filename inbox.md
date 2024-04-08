@@ -1,3 +1,25 @@
+# 2024-4-8 0 | 0 W
+
+https://news.ycombinator.com/from?site=google.github.io
+
+https://news.ycombinator.com/from?site=facebook.github.io
+
+https://news.ycombinator.com/from?site=microsoft.github.io
+
+https://news.ycombinator.com/from?site=netflix.github.io
+
+https://news.ycombinator.com/from?site=shopify.github.io
+
+https://news.ycombinator.com/from?site=alibaba.github.io
+
+https://news.ycombinator.com/from?site=apple.github.io
+
+macro_rules!
+enhanced c macro declared
+procdure macro
+
+what comes to your mind when you see this code?
+
 # 2024-4-7 0 | 0 W
 
 https://github.com/search?q=%22Request+for+Position%22&type=issues

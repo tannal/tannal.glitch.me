@@ -1,3 +1,11 @@
+# UTF8 decoder js
+
+const utf8_bytes = new Uint8Array([0xE6, 0xB1, 0x89, 0xE5, 0xAD, 0x97]);
+const decoder = new TextDecoder('utf-8');
+const utf8_string = decoder.decode(utf8_bytes);
+console.log(utf8_string); // Output: 汉字
+
+
 # GeoDNS simple dns service
 
 {
