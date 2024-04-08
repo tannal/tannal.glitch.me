@@ -1,5 +1,68 @@
 # 2024-4-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+HTML Standard
+https://html.spec.whatwg.org/#flow-content
+
+HTML Standard
+https://html.spec.whatwg.org/#insertion-mode
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+⚙ D198493 Bug 1868296 - Fix a clippy warning in glean-private r=sylvestre
+https://phabricator.services.mozilla.com/D198493
+
+Shorten html::render by Nicholas-Baron · Pull Request #82088 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/82088
+
+gosub-browser/gosub-engine: A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions
+https://github.com/gosub-browser/gosub-engine
+
+QEMU · GitLab
+https://gitlab.com/qemu-project?page=1
+
+HTML Standard
+https://html.spec.whatwg.org/#flow-content
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+llvm-tutor/Dockerfile_ubuntu_apt 位于 main - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor/src/branch/main/Dockerfile_ubuntu_apt
+
+Web share api and vcard - MDN / Learn - Mozilla Discourse
+https://discourse.mozilla.org/t/web-share-api-and-vcard/95913
+
+llvm hello world - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=llvm+hello+world
+
+既に起動しているプロセスをgdbで制御する:Geekなぺーじ
+https://www.geekpage.jp/blog/?id=2007/1/17#google_vignette
+
+owner:jarhar@chromium.org · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:jarhar@chromium.org
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu
+
+self hosting docker registry - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=self+hosting+docker+registry
+
+Servo
+https://github.com/servo/
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor
+
+dockerfile - "docker build" requires exactly 1 argument(s) - Stack Overflow
+https://stackoverflow.com/questions/46517241/docker-build-requires-exactly-1-arguments
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

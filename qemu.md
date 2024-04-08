@@ -1,4 +1,14 @@
 
+# inbox
+
+git clone https://gitlab.com/qemu-project/qemu.git
+
+./configure
+
+make -j22
+
+./build/qemu-arm
+./build/qemu-aarch64
 
 
 # modules

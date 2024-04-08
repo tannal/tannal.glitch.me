@@ -1,5 +1,12 @@
 # inbox
 
+Member<StyleSheetContents> -> .css file
+
+
+printf "%s\n",  value.Latin1().data()
+
+
+
 chrome command line options
 https://peter.sh/experiments/chromium-command-line-switches/
 

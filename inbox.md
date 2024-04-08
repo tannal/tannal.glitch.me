@@ -1,5 +1,26 @@
 # 2024-4-8 0 | 0 W
 
+  File "/usr/bin/dstat", line 2847, in <module>
+    main()
+  File "/usr/bin/dstat", line 2687, in main
+    scheduler.run()
+  File "/usr/lib/python3.10/sched.py", line 151, in run
+    action(*argument, **kwargs)
+  File "/usr/bin/dstat", line 2804, in perform
+    line = line + o.show() + o.showend(totlist, vislist)
+  File "/usr/bin/dstat", line 519, in show
+    line = line + cprintlist(self.val[name], ctype, self.width, scale)
+  File "/usr/bin/dstat", line 2087, in cprintlist
+    ret = ret + sep + cprint(var, ctype, width, scale)
+  File "/usr/bin/dstat", line 2137, in cprint
+    ret, c = dchg(var, width, base)
+  File "/usr/bin/dstat", line 2037, in dchg
+    ret = str(int(round(var)))
+OverflowError: cannot convert float infinity to integer
+
+
+docker build . -f Dockerfile_ubuntu_apt -t llvm-tutor-ubuntu-apt
+
 window.addEventListener('keydown', function(e) {
   // If user scrolls, disable automatic scrolling temporarily
   if(e.key === 'j') {

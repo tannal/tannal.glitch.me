@@ -2645,7 +2645,7 @@ VOLUME /db/data
 
 docker build . -t awesome
 
-docker build -f Dockerfile -t alpine:helloworld
+docker build . -f Dockerfile -t alpine:helloworld
 
 ```
 
@@ -2655,7 +2655,7 @@ docker build -f Dockerfile -t alpine:helloworld
 FROM alpine
 CMD ["echo", "Hello World!"]
 
-docker build -f Dockerfile -t alpine:helloworld
+docker build . -f Dockerfile -t alpine:helloworld
 ```
 
 # frp systemd service
