@@ -3,6 +3,72 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+HTTPS setup | Gitea Documentation
+https://docs.gitea.com/administration/https-setup
+
+microsoft edge - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=microsoft+edge
+
+microsoft drop ie - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=microsoft+drop+ie
+
+ballmer microsoft - Google 検索
+https://www.google.com/search?q=ballmer+microsoft&client=ubuntu-sn&hs=F6o&sca_esv=362041e0339ad871&channel=fs&ei=764TZvq9FL_a1e8Pl7i88AU&oq=ballmer+mi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmJhbGxtZXIgbWkqAggAMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkiVFVDyB1iVCnABeAGQAQCYAe0BoAHWBKoBBTAuMi4xuAEDyAEA-AEBmAIEoALyBMICChAAGEcY1gQYsAOYAwCIBgGQBgmSBwUxLjIuMaAHpgk&sclient=gws-wiz-serp
+
+satya nadella - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=satya+nadella
+
+why dart failed - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=why+dart+failed
+
+tc39/proposal-type-annotations: ECMAScript proposal for type syntax that is erased - Stage 1
+https://github.com/tc39/proposal-type-annotations
+
+notes/meetings/2024-02/feb-6.md at main · tc39/notes
+https://github.com/tc39/notes/blob/main/meetings/2024-02/feb-6.md
+
+Type Annotations Proposal Update March 2023 - Google Slides
+https://docs.google.com/presentation/d/1OraKn6TUdmtug-lkgijq-43Xou_1lB1_DJ54x6ssnRY/edit#slide=id.g215bb661976_0_6
+
+Asumu Takikawa | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/atakikawa
+
+takikawa (Asumu Takikawa)
+https://github.com/takikawa
+
+Asumu's home page | Asumu Takikawa
+https://asumu.org/
+
+cv.pdf
+http://www.asumu.org/docs/cv.pdf
+
+Whatwg html spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+fix: Handle table.deleteRow with no rows (#32009) · servo/servo@ddbec46
+https://github.com/servo/servo/commit/ddbec46e1fe6716e2cba5e073f62014c22539589
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/tables.html#dom-table-deleterow
+
+Useful resources - cppreference.com
+https://en.cppreference.com/w/cpp/links
+
+C++ Working Draft - n4950.pdf
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/n4950.pdf
+
+[llvm-dev] Printing while developing on LLVM/Clang code
+https://groups.google.com/g/llvm-dev/c/dQtsJ7iv858
+
+No -debug flag for llvm opt - Stack Overflow
+https://stackoverflow.com/questions/52638568/no-debug-flag-for-llvm-opt
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 docker - How do you run `apt-get` in a dockerfile behind a proxy? - Stack Overflow
 https://stackoverflow.com/questions/22179301/how-do-you-run-apt-get-in-a-dockerfile-behind-a-proxy
 

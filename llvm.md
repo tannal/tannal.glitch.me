@@ -100,6 +100,8 @@ int main() {
 ```
 # LLVM tutor
 
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_hello.ll
+
 ```bash
 
 wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -

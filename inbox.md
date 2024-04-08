@@ -1,5 +1,13 @@
 # 2024-4-8 0 | 0 W
 
+igalia compiler team https://github.com/takikawa
+
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_mba.c -o input_for_mba.ll
+$LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libMBAAdd.so -passes=-"mba-add" -disable-output input_for_mba.ll
+
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_hello.ll
+$LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libHelloWorld.so -passes=hello-world -disable-output input_for_hello.ll
+
 docker login git.tanmeng.org
 
 RUN echo 'nameserver 192.168.43.62' >> /etc/resolv.conf
