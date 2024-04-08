@@ -3,6 +3,60 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+docker - How do you run `apt-get` in a dockerfile behind a proxy? - Stack Overflow
+https://stackoverflow.com/questions/22179301/how-do-you-run-apt-get-in-a-dockerfile-behind-a-proxy
+
+Web Engines Hackfest 2024 | Igalia
+https://www.igalia.com/2024/03/28/Web-Engines-Hackfest-2024.html
+
+docker remove image - Google 検索
+https://www.google.com/search?q=docker+remove+image&client=ubuntu-sn&hs=cnS&sca_esv=55d6234f4c88031b&channel=fs&ei=ZZYTZuP1L-ze2roP29ml-A0&oq=docker+remove+image&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2RvY2tlciByZW1vdmUgaW1hZ2UqAggAMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkiFKVCOF1iSIHADeAGQAQCYAc4CoAGQCqoBBzAuNC4xLjG4AQPIAQD4AQGYAgmgArkKwgIKEAAYRxjWBBiwA8ICCRAAGIAEGBMYCsICChAAGAgYHhgTGArCAggQABgeGBMYCpgDAIgGAZAGCpIHBzMuNC4xLjGgB7EU&sclient=gws-wiz-serp
+
+open a dockerfile vscode - Google 検索
+https://www.google.com/search?client=ubuntu-sn&hs=ME8&sca_esv=55d6234f4c88031b&channel=fs&q=open+a+dockerfile+vscode&tbm=vid&source=lnms&prmd=vsinbmtz&sa=X&ved=2ahUKEwjUgKfCh7KFAxV1m68BHSsSARUQ0pQJegQICBAB&biw=1530&bih=788&dpr=1
+
+Customize Dev Containers in VS Code with Dockerfiles and Docker Compose - YouTube
+https://www.youtube.com/watch?v=p9L7YFqHGk4
+
+devcontainer from an image - Google 検索
+https://www.google.com/search?q=devcontainer+from+an+image&client=ubuntu-sn&hs=FxS&sca_esv=55d6234f4c88031b&channel=fs&ei=upgTZv3wF5Ok2roPxO6HsA0&ved=0ahUKEwj9tcipiLKFAxUTklYBHUT3AdYQ4dUDCBA&uact=5&oq=devcontainer+from+an+image&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmRldmNvbnRhaW5lciBmcm9tIGFuIGltYWdlMgQQIRgKSKElUM0EWLEkcAl4AZABAJgB7AGgAaQaqgEGMC4xMS42uAEDyAEA-AEBmAIaoAKfG8ICChAAGEcY1gQYsAPCAgUQABiABMICBxAAGIAEGATCAgcQABiABBgTwgIGEAAYHhgTwgIIEAAYCBgeGBPCAggQABgFGB4YE8ICChAAGAgYHhgTGArCAgQQIRgVwgIFECEYoAHCAggQABiABBiiBJgDAIgGAZAGCpIHBjkuMTAuN6AHjCU&sclient=gws-wiz-serp#ip=1
+
+Developing inside a Container using Visual Studio Code Remote Development
+https://code.visualstudio.com/docs/devcontainers/containers
+
+devcontainer proxy setting - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=devcontainer+proxy+setting
+
+Env Vars (proxy) specified in devcontainer.json don't propagate to containers used to build/add advanced features · Issue #6464 · microsoft/vscode-remote-release
+https://github.com/microsoft/vscode-remote-release/issues/6464
+
+docker image build時に、DNSの設定をなんとかしたい - CLOVER🍀
+https://kazuhira-r.hatenablog.com/entry/2020/04/12/194225
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+dockerfile - if I want to change a file used in a docker container, do I recreate the image and delete the old container? - Stack Overflow
+https://stackoverflow.com/questions/73940302/if-i-want-to-change-a-file-used-in-a-docker-container-do-i-recreate-the-image-a
+
+I need to constantly change dockerfile - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=I+need+to+constantly+change+dockerfile
+
+Problem with logging into the docker via HTTP. · Issue #17148 · goharbor/harbor
+https://github.com/goharbor/harbor/issues/17148
+
+Harbor
+https://goharbor.io/
+
+goharbor/harbor: An open source trusted cloud native registry project that stores, signs, and scans content.
+https://github.com/goharbor/harbor
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 HTML Standard
 https://html.spec.whatwg.org/#flow-content
 
