@@ -1,5 +1,167 @@
 # 2024-4-9
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general > GStreamer on Mac OS - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/GStreamer.20on.20Mac.20OS
+
+The internet always wins - Google 搜索
+https://www.google.com/search?q=The+internet+always+wins&sca_esv=3d5aec0ebbda9031&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-dj5YoHPNjVic8jG_IKUQjwdpzZQ%3A1712620728912&ei=uIQUZrCpN7Wm2roPv_KZ4Ac&ved=0ahUKEwiw5bmx6bOFAxU1k1YBHT95BnwQ4dUDCBA&uact=5&oq=The+internet+always+wins&gs_lp=Egxnd3Mtd2l6LXNlcnAiGFRoZSBpbnRlcm5ldCBhbHdheXMgd2luczIIEAAYgAQYywFI-gFQAFgAcAB4AJABAJgB7gGgAe4BqgEDMi0xuAEDyAEA-AEC-AEBmAIBoALxAZgDAJIHAzItMaAHeg&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=web%20always%20win&sort=byPopularity&type=story
+
+differential testing in golang - Google 搜索
+https://www.google.com/search?q=differential+testing+in+golang&sca_esv=3d5aec0ebbda9031&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09SRU_siCVPYk43R2kEOx_QhY8n5A%3A1712622812191&ei=3IwUZuWbC6fg2roPmuSToAM&ved=0ahUKEwjl-eqS8bOFAxUnsFYBHRryBDQQ4dUDCBA&uact=5&oq=differential+testing+in+golang&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmRpZmZlcmVudGlhbCB0ZXN0aW5nIGluIGdvbGFuZzIHECEYChigATIHECEYChigATIHECEYChigAUiyDlCaA1i8DXABeAGQAQCYAc0CoAGBEKoBBzAuNS4zLjG4AQPIAQD4AQGYAgqgAp4QwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIFEAAYgATCAgQQABgewgIGEAAYHhgPwgIFECEYoAGYAwCIBgGQBgGSBwcxLjQuNC4xoAeKGA&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=%22fuzzy+test%22&type=repositories
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+Repository search results
+https://github.com/search?q=%22leetcode%20test%20case%22&type=repositories
+
+5 years of leetcode with no progress. I'm giving up | Hacker News
+https://news.ycombinator.com/item?id=26468248
+
+兰道尔原理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%98%AD%E9%81%93%E7%88%BE%E5%8E%9F%E7%90%86#cite_note-19
+
+柯氏复杂性 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9F%AF%E6%B0%8F%E5%A4%8D%E6%9D%82%E6%80%A7
+
+概率公理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%A9%9F%E7%8E%87%E5%85%AC%E8%A8%AD
+
+Computing study refutes famous claim that 'information is physical'
+https://phys.org/news/2016-07-refutes-famous-physical.html#google_vignette
+
+Reversible computation :: Strange Paths
+http://strangepaths.com/reversible-computation/2008/01/20/en/
+
+From Reversible to Irreversible Computations
+https://pdf.sciencedirectassets.com/272990/1-s2.0-S1571066108X00234/1-s2.0-S1571066108002338/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC38s8jyfnomjmdD6PLVCddzXrx2lXPC%2Fe%2B16AxX24T5AiEAg3TGVJB42M6WzzOiTOdm13zhjR6u5ryuy1r9TnYEPGIquwUI%2Bv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDDpz0QXpjctCWXLRxiqPBbeyWXxUEQ62Azv0HsK33jNxaubi8VFgQJePU7I0K4veV52Pdu7IvfmvI7xgyRS1tiFyh%2B7Obz3NYitAlLpLqVQFmmkWLNJkqUajQjONw5ZsfaRwog%2FlDkIrq0817UP%2FGQY2F5K8TM%2FtGB3TEMjpcXo8YK%2BDI0xkFNWPem5AUJ2Nicn8Vi4Z6APSMegxfWE0u1sou3%2FAYme4jJSaXUHuvWFmMmNBDbtY4FuWjeGKC5gmNnxcOy1ZwiK13heh1%2FJIRmlYV2vJFC%2BHLALT%2BONViuNhQreHl8iOrupfXRL43Cd6G5XYqNYxr6Kss7gzXg%2Ft%2BnNYmXq%2F%2BuVwoXFKP8CqOIP7BcR7ZAMxD2%2BBxDhJIpC9STNxRDXlcPICRhlG%2Fzy4LiE5emx5KRlJbs1LV9gREt%2BeUCU4nZWt3DKo9Q0H8q193mmb4bgbuMFFrNNLJq%2FZUUPYXoqGoLueNtzDwWlEDmrQTiZUcv9QfFSqcr%2BZ0txnurUn%2BbrboHWU%2FhNFurvN98R%2FUgEmWheltKwvLIULILxHiRxTTGp2tPL3EbrzpeeOEN4u1WR5O8oWOdHDJz305VPHBXe2DnMY%2FEkaQe8KGZJcRsLQs%2FyluGseB%2FlYU1pSbtCk0M4lBbf2%2F6dyoL%2FG2S13p5H8ZnglVEf0%2BcH1fuSGOwJ1yxMCXbRgF2Ibc7gwRSSsyOOGoA3ljH3wqQ4d1SZVECJXRvxyNA2Vk1dWu8iDmLKm%2BgzixVDXGzLBrX1D%2BPyMhLCG7gbaGhxMw1zYqTMWmGWMDOyerreFZHI1h77kaORU92VeIeIS%2Fi1YDbaMnzAV%2BVU3Rsz4Tw%2Fn1Shg5AUwHlv5Gisfr80D2ykTmHL%2FfIzXZBV6g7Iy5ssGosgw7a7SsAY6sQEyuf7bkZ73KRoWv%2BDDVvdhiaFqpwmNULTx1tsngjZg8V4sl8MMy3%2FXLzsAtIGaLLeVUT85011MZlbSXBwwts8sQ04w%2FjR%2F2fGOWqwm6%2FvfE4sSVBiHP89yky6J4ZOI1Jef2ZuVXZCC4SW3gO%2FhDyWhuDCC02WrknPf2IIL8bOPydaMyPfjQBPJEd14hV19f8416pad%2Fn2%2FvYieLqnQB622gVVTUdbd2dSO8bnYrCZmFPs%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240409T024025Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQQ2JOZWX%2F20240409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1d41a9d9c0f94b1809bac8d74912d711f9302bb13e274aebdbe1f2866f856600&hash=145cee8ba8465414d7179c25d54b02890763ded2743cfedd33ac11dfb4cb57b2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1571066108002338&tid=spdf-2057ddb9-17e1-44a5-b9cf-2107cb02a1b9&sid=e672bc558306824d603830365aba27024d4fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=10165d515655555f0003&rr=871721dc2e3696b5&cc=jp
+
+[1207.6972] Finite dimensional Hilbert spaces are complete for dagger compact closed categories
+https://arxiv.org/abs/1207.6972
+
+groupoid - Google 搜索
+https://www.google.com/search?q=groupoid&rlz=1C1GCEA_enJP1090JP1090&oq=groupoid&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzc2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=groupoid&sort=byPopularity&type=story
+
+martin-19.pdf
+http://www.cs.nott.ac.uk/~psztxa/martin-19.pdf
+
+exercises1.dvi
+http://www.cs.nott.ac.uk/~psztxa/g52mal/Exercises/exercises1.pdf
+
+(4 封私信 / 6 条消息) 为什么在计算机科学领域及编程中不使用现代数学建立的符号体系进行操作？ - 知乎
+https://www.zhihu.com/question/481942227
+
+葛立恒数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%91%9B%E7%AB%8B%E6%81%86%E6%95%B8
+
+sympy - Google 搜索
+https://www.google.com/search?q=sympy&rlz=1C1GCEA_enJP1090JP1090&oq=sympy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+我是INTP-Tそのもの - 博客 - Sagiri's Forum
+https://sagiri.flarum.cloud/blog/64-wo-shi-intp-tsonomono/39
+
+Mental models and human reasoning | PNAS
+https://www.pnas.org/doi/full/10.1073/pnas.1012933107
+
+Mental models and human reasoning
+https://www.pnas.org/doi/epdf/10.1073/pnas.1012933107
+
+Mental models and human reasoning · Issue #59 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/59
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=iconic&op=translate
+
+glsl code completion - Google 搜索
+https://www.google.com/search?q=glsl+code+completion&rlz=1C1GCEA_enJP1090JP1090&oq=glsl+code+com&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQg0MzczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=accordingly%20amonotonic&op=translate
+
+people.kernel.org Reader
+https://people.kernel.org/read
+
+Memory - Wikipedia
+https://en.wikipedia.org/wiki/Memory
+
+Cerebellum - Wikipedia
+https://en.wikipedia.org/wiki/Cerebellum
+
+Basal ganglia - Wikipedia
+https://en.wikipedia.org/wiki/Basal_ganglia
+
+华生选择任务 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%8F%AF%E7%94%9F%E9%81%B8%E6%93%87%E4%BB%BB%E5%8B%99
+
+进化心理学 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%BC%94%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%B8
+
+语言习得 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E4%B9%A0%E5%BE%97
+
+华生选择任务 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%8F%AF%E7%94%9F%E9%81%B8%E6%93%87%E4%BB%BB%E5%8B%99
+
+OpenGL GLSL 内建变量与 常用内置函数_glsl fwidth-CSDN博客
+https://blog.csdn.net/haiping1224746757/article/details/107369351
+
+shader-ls
+https://github.com/shader-ls
+
+ristotle’s invention of logic and the sub-sequent development of formal systems of logic. - Google 搜索
+https://www.google.com/search?q=ristotle%E2%80%99s+invention+of+logic+and+the+sub-sequent+development+of+formal+systems+of+logic.&rlz=1C1GCEA_enJP1090JP1090&oq=ristotle%E2%80%99s+invention+of+logic+and+the+sub-sequent+development+of+formal+systems+of+logic.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+后设认知 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%BE%8C%E8%A8%AD%E8%AA%8D%E7%9F%A5
+
+溯因推理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%BA%AF%E5%9B%A0%E6%8E%A8%E7%90%86
+
+查尔斯·桑德斯·皮尔士 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E6%A1%91%E5%BE%B7%E6%96%AF%C2%B7%E7%9A%AE%E5%B0%94%E5%A3%AB
+
+William James - Google 搜索
+https://www.google.com/search?q=William+James&rlz=1C1GCEA_enJP1090JP1090&oq=William+James&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzg4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+deduction logical - Google 搜索
+https://www.google.com/search?q=deduction+logical+&sca_esv=86392a0b54450292&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_NabD25UrggnPQbksWFNDZXAaoqQ%3A1712645159801&ei=J-QUZobIMN60vr0PnKO1uAg&ved=0ahUKEwjG94CzxLSFAxVemq8BHZxRDYcQ4dUDCBA&uact=5&oq=deduction+logical+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmRlZHVjdGlvbiBsb2dpY2FsIDIIEAAYgAQYywEyCBAAGIAEGMsBMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5IhCBQvwNYpR1wAXgBkAEAmAHIAqABvAuqAQcwLjMuMS4yuAEDyAEA-AEBmAIHoALoC8ICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwcxLjEuMy4yoAfmFQ&sclient=gws-wiz-serp
+
+induction - Google 搜索
+https://www.google.com/search?q=induction&rlz=1C1GCEA_enJP1090JP1090&oq=induction&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgwIBxAAGEMYgAQYigUyBwgIEAAYgAQyDAgJEAAYQxiABBiKBdIBCDMwNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+溯因推理 - Google 搜索
+https://www.google.com/search?sca_esv=86392a0b54450292&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_cH_5kbSRzjsg9XHhttUggS-YPQQ:1712645201029&q=%E6%BA%AF%E5%9B%A0%E6%8E%A8%E7%90%86&si=AKbGX_ry7XLrUezXuJ6PHGs8zQM4sa7T1CxpFSOaKG7NBDZmp6GL_J5UHji3z2Qrsz76t7xMHbLS4es7KXDJQAkIKUuwThq8duyL4LYfSboY4OMFShzdjJESfH39tfphTyoKdYGYHnQbkopQSLQfT_cdq0m56Y6k1hGmshqpua-7n4OSiez8O2P3wN4eqGlex-udOQ-9NzNlNlyXwsoqjL4uPJp3IedA6p0v1GruCrFJOtG0ruwtUprOKbBJgglXT2-sncfzDeQEAjoylmu3yRuVN6zAf75M6w%3D%3D&sa=X&ved=2ahUKEwj6o9XGxLSFAxXsiq8BHXQtDcUQ6RN6BAhMEAE&biw=1536&bih=703&dpr=1.25
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+GitHub
+https://github.com/
+
+PNAS
+https://www.pnas.org/
+
+Philip N. Johnson-Laird how we reason - Google 搜索
+https://www.google.com/search?q=Philip+N.+Johnson-Laird+how+we+reason&sca_esv=86392a0b54450292&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0__PiMga9n9uunVOa9kHUobPyXpkA%3A1712645644147&ei=DOYUZobVCL2Zvr0PxPqN-AQ&ved=0ahUKEwiGi_uZxrSFAxW9jK8BHUR9A08Q4dUDCBA&uact=5&oq=Philip+N.+Johnson-Laird+how+we+reason&gs_lp=Egxnd3Mtd2l6LXNlcnAiJVBoaWxpcCBOLiBKb2huc29uLUxhaXJkIGhvdyB3ZSByZWFzb24yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI6RxQ5wRYhhtwAngAkAEAmAHqAaABwhiqAQYwLjEyLjS4AQPIAQD4AQGYAhGgApQXwgILEC4YgAQYywEYsAPCAgQQABgewgIFECEYoAHCAgcQIRgKGKABmAMAiAYBkAYBkgcFMi44LjegB9gt&sclient=gws-wiz-serp
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+Element: scrollIntoView() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

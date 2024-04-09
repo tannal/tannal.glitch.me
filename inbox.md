@@ -1,5 +1,49 @@
 # 2024-4-9 0 | 0 W
 
+scrolling is harmful for reading
+
+window.addEventListener('keydown', function(e) {
+  // If user scrolls, disable automatic scrolling temporarily
+  if(e.key === 'j') {
+    scrollToRandomPercentage()
+  }
+});
+
+setInterval(() => {
+  scrollToRandomPercentage()
+}, 1000 * 2)
+
+function scrollToRandomPercentage() {
+    // Generate a random percentage between 0 and 1
+    var randomPercentage = Math.random();
+
+    // Get the total height of the document
+    var totalHeight = document.body.scrollHeight - window.innerHeight;
+
+    // Calculate the position to scroll to
+    var scrollTo = randomPercentage * totalHeight;
+
+    // Scroll to the calculated position
+    window.scrollTo({
+      top: scrollTo,
+      behavior: 'instant' // Smooth scrolling
+    });
+}
+
+Philip N. Johnson-Laird
+
+https://www.pnas.org/
+
+simple mind is useful in the current science and math
+
+We only feel bad about two things
+do the wrong thing and get stuck
+
+why some of articles can be read through by i?
+and some of articles can't be read through
+
+
+
 boot into main
 boot into shell
 boot into launcher window system
