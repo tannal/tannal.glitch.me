@@ -1,4 +1,10 @@
-# 2024-4-8 0 | 0 W
+# 2024-4-9 0 | 0 W
+
+boot into main
+boot into shell
+boot into launcher window system
+
+objdump -d 
 
 # 2024-4-8 0 | 0 W
 
