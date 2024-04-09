@@ -1,19 +1,23 @@
 # 2024-4-9 0 | 0 W
 
-scrolling is harmful for reading
+the mental model remember what is true
+not what is false
 
+scrolling is harmful for reading
+var allowScrolling = true
 window.addEventListener('keydown', function(e) {
   // If user scrolls, disable automatic scrolling temporarily
   if(e.key === 'j') {
-    scrollToRandomPercentage()
+      allowScrolling = !allowScrolling;
   }
 });
 
 setInterval(() => {
   scrollToRandomPercentage()
-}, 1000 * 2)
+}, 1000 * 4)
 
 function scrollToRandomPercentage() {
+  if(allowScrolling) {
     // Generate a random percentage between 0 and 1
     var randomPercentage = Math.random();
 
@@ -28,6 +32,7 @@ function scrollToRandomPercentage() {
       top: scrollTo,
       behavior: 'instant' // Smooth scrolling
     });
+  }
 }
 
 Philip N. Johnson-Laird
