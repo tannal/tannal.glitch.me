@@ -1,5 +1,25 @@
 # 2024-4-9 0 | 0 W
 
+@TODO
+How to build a Database? A lazy approach.
+
+go test -benchmem -run=^$ -bench .
+go test -benchcpu -run=^$ -bench .
+
+```bash
+
+https://github.com/google/leveldb.git
+
+mkdir -p build && cd build
+cmake -DCMAKE_BUILD_TYPE=Release .. && time cmake --build .
+
+real    0m44.458s
+user    0m40.343s
+sys     0m4.054s
+
+```
+
+
 the mental model remember what is true
 not what is false
 
@@ -9915,20 +9935,6 @@ https://github.com/postgres/postgres/tree/0a93f803f45f45f39473e2c61923c4b4777bc8
 ![Toit language for IOT](./image-1.png)
 
 # 2023-12-23
-
-
-```bash
-
-https://github.com/google/leveldb.git
-
-mkdir -p build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release .. && time cmake --build .
-
-real    0m44.458s
-user    0m40.343s
-sys     0m4.054s
-
-```
 
 Eric Christopher
 
