@@ -3,6 +3,81 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+HTTPS配置 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/administration/https-setup
+
+Management | Page 3
+https://tutflix.org/resources/categories/management.23/?page=3
+
+roseduan/bitcask-kv-rs: bitcask KV 存储项目 Rust 语言实现
+https://github.com/roseduan/bitcask-kv-rs
+
+Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+X
+https://twitter.com/chethaase
+
+(1) Nick Butcher (@crafty) / X
+https://twitter.com/crafty
+
+(1) Romain Guy (@romainguy) / X
+https://twitter.com/romainguy
+
+filament/shaders/src at main · google/filament
+https://github.com/google/filament/tree/main/shaders/src
+
+A Better Hash Map — 1 · Romain Guy
+https://www.romainguy.dev/posts/2024/a-better-hashmap/
+
+Resources
+https://tutflix.org/resources/
+
+albertito/chasquid: SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror]
+https://github.com/albertito/chasquid
+
+Issues · inbucket/inbucket
+https://github.com/inbucket/inbucket/issues?page=2&q=is%3Aissue+is%3Aopen
+
+Tags were moved, but not published · Issue #40 · ryan-haskell/date-format
+https://github.com/ryan-haskell/date-format/issues/40
+
+dockerfile - Self-hosted alternative to hub.docker.com? - Stack Overflow
+https://stackoverflow.com/questions/34188425/self-hosted-alternative-to-hub-docker-com
+
+Container Registry | Gitea Documentation
+https://docs.gitea.com/usage/packages/container
+
+How to enable container registry ? · Issue #19366 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/19366
+
+HTTPS setup | Gitea Documentation
+https://docs.gitea.com/administration/https-setup
+
+HTTPS配置 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/administration/https-setup
+
+Configuring HTTPS servers
+https://nginx.org/en/docs/http/configuring_https_servers.html
+
+如何配置nginx实现http和https代理 - 掘金
+https://juejin.cn/post/6968294388032077861
+
+备份与恢复 | Gitea Documentation
+https://docs.gitea.com/zh-cn/next/administration/backup-and-restore
+
+Git LFS setup | Gitea Documentation
+https://docs.gitea.com/administration/git-lfs-setup
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 justinethier/keyva: :key: A distributed key-value store
 https://github.com/justinethier/keyva
 
