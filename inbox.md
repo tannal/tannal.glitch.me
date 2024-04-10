@@ -1,5 +1,18 @@
 # 2024-4-10 0 | 0 W
 
+rb query
+
+BEGIN;
+=> DELETE FROM t;
+=> SELECT pg_current_xact_id();
+
+./psql -h 192.168.43.246 -p 5432 -U tannal -d exchange
+
+GIT_LFS_SKIP_SMUDGE=1 git pull origin main
+git lfs pull
+
+
+
 involves:pcwalton
 
 involves:emilio

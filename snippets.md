@@ -1,3 +1,37 @@
+
+# Scrolling
+
+var allowScrolling = true
+window.addEventListener('keydown', function(e) {
+  // If user scrolls, disable automatic scrolling temporarily
+  if(e.key === 'j') {
+      allowScrolling = !allowScrolling;
+  }
+});
+
+setInterval(() => {
+  scrollToRandomPercentage()
+}, 1000 * 4)
+
+function scrollToRandomPercentage() {
+  if(allowScrolling) {
+    // Generate a random percentage between 0 and 1
+    var randomPercentage = Math.random();
+
+    // Get the total height of the document
+    var totalHeight = document.body.scrollHeight - window.innerHeight;
+
+    // Calculate the position to scroll to
+    var scrollTo = randomPercentage * totalHeight;
+
+    // Scroll to the calculated position
+    window.scrollTo({
+      top: scrollTo,
+      behavior: 'instant' // Smooth scrolling
+    });
+  }
+}
+
 # youtube
 
 var allowScrolling = true
