@@ -1,5 +1,89 @@
 # 2024-4-10
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Debugging blink objects - Google Docs
+https://docs.google.com/document/d/1vgQY11pxRQUDAufxSsc2xKyQCKGPftZ5wZnjY2El4w8/edit
+
+pugjs/pug: Pug – robust, elegant, feature rich template engine for Node.js
+https://github.com/pugjs/pug
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=html%20template%20engine&sort=byPopularity&type=story
+
+Why C Is a Great Language | Hacker News
+https://news.ycombinator.com/item?id=4095479
+
+template package - html/template - Go Packages
+https://pkg.go.dev/html/template
+
+Code search results
+https://github.com/search?q=%22html%2Ftemplate%22+language%3AGo&type=code&l=Go&p=2
+
+0xDkd/auxpi: 🍭 集合多家 API 的新一代图床
+https://github.com/0xDkd/auxpi
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main
+
+java - Android app development, with Visual Studio Code - Stack Overflow
+https://stackoverflow.com/questions/76763954/android-app-development-with-visual-studio-code
+
+Red Hat build of OpenJDK Download | Red Hat Developer
+https://developers.redhat.com/products/openjdk/download?sc_cid=701f2000000RWTnAAO
+
+kFitContent - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=kFitContent
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+Standards — WHATWG
+https://spec.whatwg.org/
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+++jchaffraix&type=commits
+
+Visual effects
+https://www.w3.org/TR/CSS21/visufx.html#overflow
+
+Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification
+https://www.w3.org/TR/CSS22/
+
+CSS Box Sizing Module Level 3
+https://drafts.csswg.org/css-sizing-3/#intrinsic-sizes
+
+All CSS specifications
+https://www.w3.org/Style/CSS/specs.en.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=css3%20specifi&sort=byPopularity&type=story
+
+The sorry state of the CSS3 specifications - Human Who Codes
+https://humanwhocodes.com/blog/2011/01/11/the-sorry-state-of-the-css3-specifications/
+
+CSS Snapshot 2023
+https://www.w3.org/TR/css-2023/#css-official
+
+116 Cool CSS Text Effects Examples That You Can Download
+https://www.designyourway.net/blog/yes-you-can-actually-make-these-text-effects-in-css/
+
+CSS Working Group Editor Drafts
+https://drafts.csswg.org/
+
+w3c/requestidlecallback: Cooperative Scheduling of Background Tasks
+https://github.com/w3c/requestidlecallback
+
+World Wide Web Consortium
+https://github.com/w3c
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,10 @@
 # inbox
 
+Base class for all LayoutNG algorithms.
+LayoutAlgorithm
+- const InputNodeType& Node() const { return node_; }
+- 
+
 --nohooks --no-history
 
 printf "%s\n",  element_id.Latin1().data()
