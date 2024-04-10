@@ -18,5 +18,7 @@ https://github.com/go-gitea/gitea
 
 
 key value store
-
 https://github.com/justinethier/keyva
+
+aliyunpan cli
+https://github.com/tickstep/aliyunpan
