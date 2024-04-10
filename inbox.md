@@ -17,55 +17,6 @@ git rm -r --cached
 10ms
 fair scheduler
 
-
-var time = 0
-setInterval(() => {
-  time++
-  console.log(time)
-}, 1000)
-
-
-var allowScrolling = true
-
-setInterval(() => {
-  playVideoAtRandomTime()
-}, 1000 * 16)
-
-window.addEventListener('keydown', function(e) {
-  // If user scrolls, disable automatic scrolling temporarily
-  if(e.key === 'h') {
-      allowScrolling = !allowScrolling;
-  }
-});
-
-// Get a reference to the video element
-const video = document.querySelector('video');
-
-// Function to generate a random time within the video duration
-function getRandomTime(max) {
-  return Math.random() * max;
-}
-
-// Function to set the video to play at a random time
-function playVideoAtRandomTime() {
-  if(allowScrolling) {
-      // Check if the video is loaded
-      if (video.readyState >= 2) {
-        // Get the duration of the video
-        const duration = video.duration;
-        
-        // Generate a random time within the duration
-        const randomTime = getRandomTime(duration);
-        
-        // Set the current time of the video to the random time
-        video.currentTime = randomTime;
-        
-        // Play the video
-        video.play();
-      }
-  }
-}
-
 # 2024-4-9 0 | 0 W
 
 @TODO
