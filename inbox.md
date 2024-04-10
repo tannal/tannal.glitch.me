@@ -1,5 +1,14 @@
 # 2024-4-10 0 | 0 W
 
+inferences can lead to emotions
+
+no theoris tell us the whole truth
+
+It's about the content, not the process.
+
+The more models we hold in mind.
+The worse performance becomes.
+
 https://codepen.io/hrtzt/pens/public
 
 consulting
