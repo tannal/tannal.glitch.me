@@ -3,6 +3,75 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+HTML Standard
+https://html.spec.whatwg.org/#hyperlink-auditing
+
+HTML Standard
+https://html.spec.whatwg.org/#queuing-tasks
+
+HTML Standard
+https://html.spec.whatwg.org/#document
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Whatwg html spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+BroadcastChannel() - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/BroadcastChannel/BroadcastChannel
+
+QUIC Prototype Protocol Discussion group - Google Groups
+https://groups.google.com/a/chromium.org/g/proto-quic
+
+google/benchmark: A microbenchmark support library
+https://github.com/google/benchmark
+
+Index of /Neetcode Advanced Algorithms/5. Backtracking/
+http://videos.tanmeng.org/Neetcode%20Advanced%20Algorithms/5.%20Backtracking/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=data%20structures&sort=byPopularity&type=story
+
+How to Debug Using GDB
+https://cs.baylor.edu/~donahoo/tools/gdb/tutorial.html
+
+Data Structures & Algorithms I Used Working at Tech Companies - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+
+Data structures and algorithms I actually used while working at tech companies | Hacker News
+https://news.ycombinator.com/item?id=23841491&p=2
+
+Ask HN: What is new in algorithms and data structures these days? | Hacker News
+https://news.ycombinator.com/item?id=35886900
+
+rfcs/accepted/cranelift-egraph.md at main · cfallin/rfcs
+https://github.com/cfallin/rfcs/blob/main/accepted/cranelift-egraph.md
+
+Profile: chc4 | Hacker News
+https://news.ycombinator.com/user?id=chc4
+
+Eniko Fox: "It's still possible in 2024 to…" - Infosec Exchange
+https://infosec.exchange/@eniko@peoplemaking.games/112245608365211117
+
+Hrtzt on CodePen
+https://codepen.io/hrtzt/pens/public
+
+risinglightdb/sql-optimizer-labs: 🚧 Build a SQL optimizer in 1000 lines of Rust using egg.
+https://github.com/risinglightdb/sql-optimizer-labs
+
+Kitsune Games
+https://kitsunegames.com/
+
+Eniko Fox - YouTube
+https://www.youtube.com/channel/UCTdFEO_5f4wq2qgFkxrxkOw
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Yjs Quill Example
 http://192.168.43.246:3000/quill/quill.html
 
