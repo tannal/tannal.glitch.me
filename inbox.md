@@ -1,5 +1,7 @@
 # 2024-4-10 0 | 0 W
 
+d 05.mp4 /hoem/tannal/tannalwork/videos/
+
 echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
 
 
