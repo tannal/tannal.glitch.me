@@ -1,6 +1,10 @@
 
 # inbox
 
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/xhr/send-redirect.htm
+
+
+
 RUST_LOG="debug" ./mach run baidu.com --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
 
 

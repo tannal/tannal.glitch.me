@@ -1,5 +1,11 @@
 # 2024-4-10 0 | 0 W
 
+context_switch
+
+sudo stackcount-bpfcc -p 6970 -i 2 --debug "*switch*"
+sudo stackcount-bpfcc -p 6970 -i 2 --debug "*timer_interrupt*"
+
+
 libglvnd
 OpenGL/GLES
 
