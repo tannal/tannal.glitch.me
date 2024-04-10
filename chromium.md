@@ -1,5 +1,17 @@
 # inbox
 
+
+inferences can lead to emotions
+
+no theoris tell us the whole truth
+
+It's about the content, not the process.
+
+The more models we hold in mind.
+The worse performance becomes.
+
+--nohooks --no-history
+
 printf "%s\n",  element_id.Latin1().data()
 
 ./out/Default/chrome baidu.com --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt

@@ -1,3 +1,152 @@
+# 2024-4-10
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Query Processing in PostgreSQL. As a database enthusiast and software… | by AGEDB | AGEDB | Medium
+https://medium.com/agedb/query-processing-in-postgresql-1309fa93f69f
+
+ChatGPT
+https://chat.openai.com/c/e47becce-6a6e-4235-8b3a-6f80069ae54b
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=crude&op=translate
+
+Hyperproof: Logical Reasoning with Diagrams - AAAI
+https://aaai.org/papers/0016-ss92-02-016-hyperproof-logical-reasoning-with-diagrams/
+
+Hyperproof: Logical Reasoning with Diagrams
+https://cdn.aaai.org/Symposia/Spring/1992/SS-92-02/SS92-02-016.pdf
+
+company other meaning - Google 搜索
+https://www.google.com/search?q=company+other+meaning&sca_esv=383fc29145713f41&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-euqjop-NZ3r8CSboYpry-U3lJkQ%3A1712653672745&ei=aAUVZoaRLfil2roP2MiSeA&oq=company+other+mean&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvbXBhbnkgb3RoZXIgbWVhbioCCAAyCBAAGIAEGMsBMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgFGB4yCBAAGAUYHhgPMggQABgFGB4YDzIIEAAYBRgeGA8yCBAAGAgYHhgPMgYQABgIGB5IkDVQzQhYoi1wAXgBkAEAmAH2AaABlBKqAQUwLjIuObgBA8gBAPgBAZgCCqAChg_CAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICCBAuGIAEGMsBwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQHCAgoQABiABBjLARgKwgIEEAAYHpgDAIgGAZAGCroGBggBEAEYFJIHBTEuMi43oAfrOA&sclient=gws-wiz-serp
+
+核反应堆 - Google 搜索
+https://www.google.com/search?q=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86&sca_esv=383fc29145713f41&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_DgqybvcqRhEjip-s5kbIz5iGRHw%3A1712654937390&ei=WQoVZqGvF6WXvr0Py8-EqAc&ved=0ahUKEwjhv6np6LSFAxWli68BHcsnAXUQ4dUDCBA&uact=5&oq=%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOaguOWPjeW6lOWghjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjuF1DAC1jLFnABeAGQAQCYAbcCoAHEDKoBBzAuMi40LjG4AQPIAQD4AQGYAgigAuMMwgIKEAAYRxjWBBiwA8ICDBAjGIAEGIoFGBMYJ8ICBBAjGCfCAgsQLhiABBjHARjRA8ICChAjGIAEGIoFGCfCAgoQABiABBiKBRhDwgIFEC4YgATCAgsQLhiABBjHARivAcICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHEAAYgAQYCsICCBAuGIAEGNQCwgIIEAAYgAQYywGYAwCIBgGQBgq6BgYIARABGBSSBwcxLjAuNi4xoAfwPA&sclient=gws-wiz-serp
+
+chernobyl - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDMqT8rLNTU0YPTiTM5ILcrLT6rMAQBm5wg7&q=chernobyl&rlz=1C1GCEA_enJP1090JP1090&oq=chern&gs_lcrp=EgZjaHJvbWUqCggBEC4Y1AIYgAQyBggAEEUYOTIKCAEQLhjUAhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQLhgMGIAEMgkIBxAuGAwYgAQyCQgIEC4YDBiABNIBCDIzMTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+aristotle - Google 搜索
+https://www.google.com/search?gs_ssp=eJzjYtfP1TdIr4o3YPTiTCzKLC7JL8lJBQA_tQao&q=aristotle&rlz=1C1GCEA_enJP1090JP1090&oq=aristo&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIJCAAQRRg5GIAEMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEC4YgAQyBwgIEAAYgATSAQgyNzg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+reinhardt selten - Google 搜索
+https://www.google.com/search?q=reinhardt+selten&sca_esv=1955fa9ddb72a96a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08105tQcFW6bl5iXMJF7u8BFaVodw%3A1712655809614&ei=wQ0VZpyJJdXj2roP6pCkyAw&ved=0ahUKEwjc7Z2J7LSFAxXVsVYBHWoICckQ4dUDCBA&uact=5&oq=reinhardt+selten&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHJlaW5oYXJkdCBzZWx0ZW4yChAAGIAEGMsBGAoyBxAAGIAEGApIwyZQAFjuI3ABeAGQAQCYAdICoAH3DqoBBTItNy4xuAEDyAEA-AEBmAIJoAKOD8ICCBAAGIAEGMsBwgIIEC4YgAQYywHCAg4QLhiABBjLARjHARivAcICBhAAGB4YCsICBhAAGAUYHsICBhAAGAgYHpgDAJIHBzEuMC43LjGgB-An&sclient=gws-wiz-serp
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+piaget's theory - Google 搜索
+https://www.google.com/search?q=piaget%27s+theory&rlz=1C1GCEA_enJP1090JP1090&oq=piaget%27s+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMggIBxAAGAoYHjIICAgQABgKGB4yCAgJEAAYChge0gEIMzk0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+pcasso - Google 搜索
+https://www.google.com/search?q=pcasso&rlz=1C1GCEA_enJP1090JP1090&oq=pcasso&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Error while fetch --nohooks --no-history chromium in Chromium build ubuntu - Stack Overflow
+https://stackoverflow.com/questions/67700225/error-while-fetch-nohooks-no-history-chromium-in-chromium-build-ubuntu
+
+Tiger Oakes
+http://localhost:8000/
+
+enigma machine - Google 搜索
+https://www.google.com/search?q=enigma+machine&rlz=1C1GCEA_enJP1090JP1090&oq=enigma+machine&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEC4YgATSAQgzNTY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+Philip Johnson-Laird - Wikipedia
+https://en.wikipedia.org/wiki/Philip_Johnson-Laird
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=demise&op=translate
+
+iconic model - Google 搜索
+https://www.google.com/search?q=iconic+model&sca_esv=38e6d9cfed2f671c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09t6AAoVZrzvGr8DHDD-8kTuXKUpg%3A1712709768154&ei=iOAVZtGQCceWvr0PnKiRmAk&ved=0ahUKEwjR9NWKtbaFAxVHi68BHRxUBJMQ4dUDCBA&uact=5&oq=iconic+model&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGljb25pYyBtb2RlbDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIknVQ8gVYkHNwAXgBkAEAmAHJAqABywqqAQcwLjMuMi4xuAEDyAEA-AEBmAIHoAL3CsICChAAGEcY1gQYsAPCAg4QLhiABBjLARjHARjRA8ICFxAuGIAEGMsBGMcBGK8BGJgFGJ4FGJkFwgIdEC4YgAQYywEYxwEY0QMYlwUY3AQY3gQY4ATYAQGYAwCIBgGQBgq6BgYIARABGBSSBwcxLjEuNC4xoAfXGQ&sclient=gws-wiz-serp
+
+enlightenment - Google 搜索
+https://www.google.com/search?q=enlightenment&rlz=1C1GCEA_enJP1090JP1090&oq=engligten&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQLhgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEIMzUyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=logical%20deduction&type=repositories
+
+关于 golang 官网一段代码的疑惑 - V2EX
+https://v2ex.com/t/1031075
+
+Golang 编译器优化那些事
+https://fanlv.fun/2021/12/18/golang-complier-optimize/
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 11 - Context Switch - YouTube
+https://www.youtube.com/watch?v=npeqH9BbxR8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+na&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgcIAhAAGIAEMgYIAxBFGDsyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDyoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+简单搭建自己的私人密码库！Bitwarden 部署安装教程 (免费 1Password 替代品) - 异次元软件下载
+https://www.iplaysoft.com/bitwarden-self-host.html
+
+石英晶体谐振器 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%9F%B3%E8%8B%B1%E6%99%B6%E4%BD%93%E8%B0%90%E6%8C%AF%E5%99%A8
+
+linux - can timer interrupt be masked? - Stack Overflow
+https://stackoverflow.com/questions/10441670/can-timer-interrupt-be-masked
+
+how system clock works - Google 搜索
+https://www.google.com/search?q=how+system+clock+works&sca_esv=f8fbcee3a11c68b8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09EvPxc9_TC0nJ23xZycM2v2cQqCQ%3A1712715579720&ei=O_cVZtTFK4-G1e8Pvoif0Ak&oq=how+system+clock&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGhvdyBzeXN0ZW0gY2xvY2sqAggAMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESKLyAlDxywJYu-kCcAF4AZABAJgBgwKgAYgaqgEFMC44Lji4AQPIAQD4AQGYAhGgAuEawgIKEAAYRxjWBBiwA8ICDBAjGIAEGIoFGBMYJ8ICBBAjGCfCAgUQABiABMICCxAuGIAEGMcBGNEDwgIKEC4YgAQYigUYQ8ICChAAGIAEGIoFGEPCAhAQLhiABBiKBRhDGMcBGNEDwgIFEC4YgATCAggQLhiABBjLAcICBxAAGIAEGA3CAgYQABgeGA3CAggQABgeGA0YD8ICBhAAGB4YD8ICCBAAGAgYHhgNmAMAiAYBkAYDkgcGMS40LjEyoAfbYA&sclient=gws-wiz-serp
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+lazyparser-哔哩哔哩_Bilibili
+https://search.bilibili.com/all?keyword=lazyparser&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+lazyparser的个人空间-lazyparser个人主页-哔哩哔哩视频
+https://space.bilibili.com/296494084/channel/collectiondetail?sid=1635641
+
+一个像素的奇幻漂流 · 图形栈简析 · GPU加速库 by ArchFeh_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV12F411S7Sx/?p=5&spm_id_from=pageDriver
+
+IEEE-754 Floating Point Converter
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+Decimal to Two's Complement Converter
+https://jdoubleu.codeberg.page/decimal-to-twoscomplement/
+
+Golang源码中xmm0寄存器-CSDN博客
+https://blog.csdn.net/fengshenyun/article/details/107466236
+
+Numerical Constants (x86 Assembly Language Reference Manual)
+https://docs.oracle.com/cd/E19120-01/open.solaris/817-5477/eoqkb/index.html
+
+Double-precision floating-point format - Wikipedia
+https://en.wikipedia.org/wiki/Double-precision_floating-point_format
+
+Double (IEEE754 Double precision 64-bit)
+https://www.binaryconvert.com/result_double.html?decimal=049048
+
+numbers - How do I convert an integer to binary in JavaScript? - Stack Overflow
+https://stackoverflow.com/questions/9939760/how-do-i-convert-an-integer-to-binary-in-javascript
+
+n3088.pdf
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3088.pdf
+
+assign double to int - Google 搜索
+https://www.google.com/search?q=assign+double+to+int+&sca_esv=c6e69ef0fa2af6ef&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09YskwRResHOI2ktfWi2WMDv25lYQ%3A1712720567581&ei=twoWZtj_Isvl2roPoN-OiAk&ved=0ahUKEwiYt56o3baFAxXLslYBHaCvA5EQ4dUDCBA&uact=5&oq=assign+double+to+int+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWFzc2lnbiBkb3VibGUgdG8gaW50IDIIEAAYgAQYywEyBBAAGB4yBhAAGAUYHjIIEAAYiQUYogQyCBAAGIAEGKIEMggQABiABBiiBEjaG1CSGFiSGHABeAGQAQCYAc4BoAHOAaoBAzItMbgBA8gBAPgBAZgCAqAC1QHCAgoQABhHGNYEGLADmAMAiAYBkAYKkgcFMS4wLjGgB7EC&sclient=gws-wiz-serp
+
+Git LFS setup | Gitea Documentation
+https://docs.gitea.com/administration/git-lfs-setup
+
+Adding Files to Git LFS | josh-ops
+https://josh-ops.com/posts/add-files-to-git-lfs/
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 # 2024-4-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

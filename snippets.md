@@ -1,3 +1,46 @@
+# bilibili
+
+var allowScrolling = true
+
+setInterval(() => {
+  playVideoAtRandomTime()
+}, 1000 * 14)
+
+window.addEventListener('keydown', function(e) {
+  // If user scrolls, disable automatic scrolling temporarily
+  if(e.key === 'h') {
+      allowScrolling = !allowScrolling;
+  }
+});
+
+// Get a reference to the video element
+const video = document.querySelector('video');
+
+// Function to generate a random time within the video duration
+function getRandomTime(max) {
+  return Math.random() * max;
+}
+
+// Function to set the video to play at a random time
+function playVideoAtRandomTime() {
+  if(allowScrolling) {
+      // Check if the video is loaded
+      if (video.readyState >= 2) {
+        // Get the duration of the video
+        const duration = video.duration;
+        
+        // Generate a random time within the duration
+        const randomTime = getRandomTime(duration);
+        
+        // Set the current time of the video to the random time
+        video.currentTime = randomTime;
+        
+        // Play the video
+        video.play();
+      }
+  }
+}
+
 # UTF8 decoder js
 
 const utf8_bytes = new Uint8Array([0xE6, 0xB1, 0x89, 0xE5, 0xAD, 0x97]);
