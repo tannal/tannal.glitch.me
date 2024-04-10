@@ -1,5 +1,41 @@
 # 2024-4-10
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Ladybird text input display issue · Issue #23915 · SerenityOS/serenity
+https://github.com/SerenityOS/serenity/issues/23915
+
+LibJS test262 results
+https://serenityos.github.io/libjs-website/test262/
+
+SerenityOS/serenity: The Serenity Operating System 🐞
+https://github.com/SerenityOS/serenity
+
+Ladybird text input display issue · Issue #23915 · SerenityOS/serenity
+https://github.com/SerenityOS/serenity/issues/23915
+
+uwplse/Cassius: A CSS specification and reasoning engine
+https://github.com/uwplse/Cassius
+
+Issue search results
+https://github.com/search?q=involves%3Apavpanchekha&type=issues&p=3
+
+browserengineering
+https://github.com/browserengineering
+
+Constructing a Document Tree | Web Browser Engineering
+https://browser.engineering/html.html
+
+Google now uses UTF-8 · Issue #1110 · browserengineering/book
+https://github.com/browserengineering/book/issues/1110
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
