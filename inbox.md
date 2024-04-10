@@ -1,5 +1,8 @@
 # 2024-4-10 0 | 0 W
 
+echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
+
+
 rb query
 
 BEGIN;
