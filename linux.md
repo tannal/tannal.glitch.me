@@ -1,6 +1,9 @@
 
 # inbox
 
+qemu-system-x86_64 linux.iso -m 2G
+
+
 traps.h#L27
 
 https://github.com/torvalds/linux/blob/master/arch/x86/include/asm/trapnr.h

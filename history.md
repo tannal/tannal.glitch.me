@@ -3,6 +3,42 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+csr632/tdop-parser: A demo of "Top Down Operator Precedence" parser (Pratt parsing) implemented in TypeScript
+https://github.com/csr632/tdop-parser
+
+c++ - vim YouCompleteMe GoTo does not work - Stack Overflow
+https://stackoverflow.com/questions/24818812/vim-youcompleteme-goto-does-not-work
+
+ycm-core/YouCompleteMe: A code-completion engine for Vim
+https://github.com/ycm-core/YouCompleteMe
+
+Issues · jdah/minecraft-weekend
+https://github.com/jdah/minecraft-weekend/issues
+
+CMU Database Group
+https://github.com/cmu-db
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Index of /
+http://192.168.43.62:8081/
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+maddy/docs/man/maddy.1.scd at 1d6cd8c35f4c4a1279084ae974ecfcf73a426743 · foxcpp/maddy
+https://github.com/foxcpp/maddy/blob/1d6cd8c35f4c4a1279084ae974ecfcf73a426743/docs/man/maddy.1.scd?plain=1#L25
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (5 封私信 / 12 条消息) 每次做完俯卧撑手腕都很疼怎么办？没有俯卧撑器? - 知乎
 https://www.zhihu.com/question/36297904
 
