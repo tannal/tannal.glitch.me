@@ -3,6 +3,60 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+CSS Table Module Level 3
+https://www.w3.org/TR/css-tables-3/#fixup-algorithm
+
+Monotonic time - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Monotonic+time
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Monotonic%20time&op=translate
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+CSS Table Module Level 3
+https://drafts.csswg.org/css-tables/#missing-cells-fixup
+
+@media - CSS: カスケーディングスタイルシート | MDN
+https://developer.mozilla.org/ja/docs/Web/CSS/@media
+
+Media Queries Level 4
+https://drafts.csswg.org/mediaqueries/#media-descriptor-table
+
+apollographql/apollo-rs: Spec compliant GraphQL Tools in Rust.
+https://github.com/apollographql/apollo-rs
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=servo&sort=byPopularity&type=story
+
+Magnus Groß, Author at KDAB
+https://www.kdab.com/author/magnus-gross/
+
+Andrew Hayzen, Author at KDAB
+https://www.kdab.com/author/andrew-hayzen/
+
+intro-talk.pdf
+http://venge.net/graydon/talks/intro-talk.pdf
+
+Servo (@servo@floss.social) - FLOSS.social
+https://floss.social/@servo
+
+ahayzen (Andrew Hayzen)
+https://github.com/ahayzen
+
+Personal blog by Magnus Groß
+https://blog.mggross.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 低レイヤを知りたい人のためのCコンパイラ作成入門
 https://www.sigbus.info/compilerbook#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
 

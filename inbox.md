@@ -1,4 +1,19 @@
+# 2024-4-11 0 | 0 W
+
+KDAB
+https://floss.social/@servo
+
+Where do you see Servo going in a year, or two, or five?
+A robust embedded webview, a thriving gateway for the next generation of browser devs, the foundation of Rust’s web platform story?
+
+QT kdab
+https://blog.mggross.com/
+https://github.com/ahayzen
+
 # 2024-4-10 0 | 0 W
+
+sudo stackcount-bpfcc -p 7375 -i 2 --debug "*update_process_times*"
+sudo stackcount-bpfcc -p 7375 -i 2 --debug "*tick_sched_handle*"
 
 
 Let the Acutally User write the docs, not the implementer.
