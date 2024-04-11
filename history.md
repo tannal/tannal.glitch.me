@@ -1,3 +1,137 @@
+# 2024-4-11
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 11 - Context Switch - YouTube
+https://www.youtube.com/watch?v=npeqH9BbxR8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[selectors] Should :not(foo) match the host of the shadow tree? · Issue #10179 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10179
+
+Google 文档
+https://docs.google.com/document/u/0/
+
+git.tanmeng.org
+http://git.tanmeng.org/tannal
+
+撤销 git reset
+https://tsejx.github.io/devops-guidebook/code/git/reset/
+
+Issue search results
+https://github.com/search?q=involves%3Agterzian&type=issues
+
+(1) #xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+Linebender
+https://github.com/linebender
+
+Commits · flutter/engine
+https://github.com/flutter/engine/commits/main/?after=0d5412d4ee4b256e700d515a4b8df0caebd76a67+69
+
+GOSIM Conference 2024 - MAY 6, 2024 DELFT, THE NETHERLANDS
+https://europe2024.gosim.org/
+
+Replace WinRT clipboard API with Win32 for pasting by lhecker · Pull Request #15360 · microsoft/terminal
+https://github.com/microsoft/terminal/pull/15360/files
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+GOSIM CONFERENCE 9月26日 RUST 语言 BART MASSEY：大学杠杆提高学校的生锈率 - YouTube
+https://www.youtube.com/watch?v=q0tlcX3k2aY
+
+foxcpp/maddy: ✉️ Composable all-in-one mail server.
+https://github.com/foxcpp/maddy?tab=readme-ov-file
+
+jordan-wright/email: Robust and flexible email library for Go
+https://github.com/jordan-wright/email
+
+tickstep/aliyunpan: 阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。
+https://github.com/tickstep/aliyunpan
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+阿里云盘登录
+https://api.tickstep.com/pages/tickstep/aliyunpan/oauth/second_login?status=success&ticketId=a98cf9579aa7408f9fea366d31e06c8c
+
+voidint - 个人博客
+https://voidint.github.io/
+
+voidint/g: Golang Version Manager
+https://github.com/voidint/g
+
+如何轻松修复 DNS_PROBE_FINISHED_NXDOMAIN 错误 - 知乎
+https://zhuanlan.zhihu.com/p/594770238
+
+(4 封私信 / 10 条消息) 每次做完俯卧撑手腕都很疼怎么办？没有俯卧撑器? - 知乎
+https://www.zhihu.com/question/36297904
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+What does `fs.read`'s `length` argument indicate? · Issue #52447 · nodejs/node
+https://github.com/nodejs/node/issues/52447
+
+`--timeout-multiplier` does not affect test harness timeout · Issue #31919 · servo/servo
+https://github.com/servo/servo/issues/31919
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+WebGPU Endgame of Life
+https://sagudev.github.io/briefcase/fastgame.html
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+中国 cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi&sca_esv=53f5038f6c6bf21c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09plzJhF-56XuoNG1zbYXss4F3Wyw%3A1712792148471&ei=VCIXZpauHPu2vr0PwZCv8AQ&ved=0ahUKEwiWqNX857iFAxV7m68BHUHIC04Q4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGkyBxAjGLADGCcyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIjAFQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAaACC5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+ChatGPT
+https://chat.openai.com/c/e3ca1f8a-91d8-44bb-b347-808a21c5054a
+
+researchseminars.org - Browse talks
+https://researchseminars.org/
+
+Project 2: Scheme Lexer and Parser — Project 2: Scheme Lexer and Parser Winter 2024 documentation
+https://eecs390.github.io/project-scheme-parser/
+
+global state - Google 搜索
+https://www.google.com/search?q=global+state&sca_esv=298519f35b8410b7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-LKTNR1jcw5DHDe0kZYnt0WCkhaA%3A1712795932299&ei=HDEXZvfvEe2Rvr0Pwd2eqAo&ved=0ahUKEwj37feI9riFAxXtiK8BHcGuB6UQ4dUDCBA&uact=5&oq=global+state&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGdsb2JhbCBzdGF0ZTIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIzA1QAFixDHAAeACQAQCYAe8BoAGGEqoBBTAuMi45uAEDyAEA-AEBmAILoALjEsICBBAjGCfCAgoQIxiABBiKBRgnwgILEC4YgAQYxwEY0QPCAgUQABiABMICChAAGIAEGIoFGEPCAgwQIxiABBiKBRgTGCfCAgsQLhiABBjHARivAcICBRAuGIAEwgIUEC4YgAQYlwUY3AQY3gQY3wTYAQHCAhAQLhiABBjLARjHARjRAxgKwgIOEC4YgAQYywEYxwEY0QOYAwC6BgYIARABGBSSBwYwLjEuMTCgB8lH&sclient=gws-wiz-serp#ip=1
+
+Philip Johnson-Laird - Google 搜索
+https://www.google.com/search?q=Philip+Johnson-Laird&rlz=1C1GCEA_enJP1090JP1090&oq=phil&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7Mg4IAhBFGCcYOxiABBiKBTIGCAMQBhhAMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMzM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Amazon.co.jp: The Computer and the Mind: An introduction to Cognitive Science : Johnson-Laird, Philip: Foreign Language Books
+https://www.amazon.co.jp/-/en/Philip-Johnson-Laird/dp/0674156161
+
+alumik/dblp-api: A helper package to get information of scholarly articles from DBLP using its public API
+https://github.com/alumik/dblp-api
+
+avi wigderson - Google 搜索
+https://www.google.com/search?q=avi+wigderson&rlz=1C1GCEA_enJP1090JP1090&oq=avi+wig&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGAgYHqgCALACAA&sourceid=chrome&ie=UTF-8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+国家资本主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%9B%BD%E5%AE%B6%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89#%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%80%85
+
+The Tor Project / Anti-censorship / GetTor Project / gettor · GitLab
+https://gitlab.torproject.org/tpo/anti-censorship/gettor-project/gettor/
+
 # 2024-4-10
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

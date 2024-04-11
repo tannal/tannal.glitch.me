@@ -1,5 +1,14 @@
 # 2024-4-10 0 | 0 W
 
+
+Let the Acutally User write the docs, not the implementer.
+User need to comunicate with implementers, get the right conclusion then write the docs.
+
+
+control character
+content character
+
+
 inferences can lead to emotions
 
 no theoris tell us the whole truth
