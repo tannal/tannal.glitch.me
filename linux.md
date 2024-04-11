@@ -1,6 +1,10 @@
 
 # inbox
 
+qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp" -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=share
+
+mount -t 9p -o trans=virtio,version=9p2000.L hostshare ~/share
+
 qemu-system-x86_64 linux.iso -m 2G
 
 
