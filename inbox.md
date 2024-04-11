@@ -1,5 +1,11 @@
 # 2024-4-11 0 | 0 W
 
+Flutter Team
+https://github.com/search?q=involves%3Ahixie&type=issues
+https://github.com/search?q=involves%3Agrouma&type=issues
+https://github.com/search?q=involves%3Avsmenon&type=issues
+
+
 git clone https://github.com/karpathy/llm.c
 
 watch -n 0.1 nvidia-smi

@@ -1,5 +1,140 @@
 # 2024-4-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Scihub
+https://bothonce.com/
+
+Issue search results
+https://github.com/search?q=involves%3Avsmenon&type=issues
+
+Servo (@servo@floss.social) - FLOSS.social
+https://floss.social/@servo
+
+Resolve Git merge conflicts in favor of their changes during a pull - Stack Overflow
+https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor
+
+Issues · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+Llm.c – LLM training in simple, pure C/CUDA | Hacker News
+https://news.ycombinator.com/item?id=39973467
+
+• Discord | #lecture1-micrograd | Neural Networks: Zero to Hero
+https://discord.com/channels/1020383067459821711/1029849706404249621
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=competent&op=translate
+
+约翰肯尼迪 - Google 搜索
+https://www.google.com/search?sca_esv=4b723428e1eceb0a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09gc3L4PRNh7katmP0eMdz3tPpceA:1712838899874&q=%E7%BA%A6%E7%BF%B0%E8%82%AF%E5%B0%BC%E8%BF%AA&tbm=isch&source=lnms&prmd=invsmbtz&sa=X&ved=2ahUKEwjGqbyRlrqFAxWPqVYBHVwOCJ0Q0pQJegQICxAB&biw=1536&bih=703&dpr=1.25
+
+Programming (music) - Wikipedia
+https://en.wikipedia.org/wiki/Programming_(music)
+
+The Development of Computer Music Programming Systems: Journal of New Music Research: Vol 42, No 1
+https://www.tandfonline.com/doi/abs/10.1080/09298215.2013.778890
+
+alda-lang/alda: A music programming language for musicians. :notes:
+https://github.com/alda-lang/alda
+
+alda-lang/alda: A music programming language for musicians. :notes:
+https://github.com/alda-lang/alda
+
+alda-lang/alda: A music programming language for musicians. :notes:
+https://github.com/alda-lang/alda
+
+Computer Music Journal - Wikipedia
+https://en.wikipedia.org/wiki/Computer_Music_Journal
+
+Alda – Text-Based Programming Language for Music Composition | Hacker News
+https://news.ycombinator.com/item?id=28198641
+
+Repositories
+https://github.com/orgs/nodejs/repositories
+
+Issue search results
+https://github.com/search?q=involves%3AMoLow%20&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Acjihrig+&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Abenjamingr%20&type=issues
+
+git lfs delete file - Google 搜索
+https://www.google.com/search?q=git+lfs+delete+file&rlz=1C1GCEA_enJP1090JP1090&oq=git+lfs+delete&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzAwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+The Qt Experts - KDAB
+https://www.kdab.com/
+
+KDAB/hotspot: The Linux perf GUI for performance analysis.
+https://github.com/KDAB/hotspot
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20future%20is%20flutter&sort=byPopularity&type=story
+
+GitHub
+https://github.com/
+
+vscode copy link erro github - Google 搜索
+https://www.google.com/search?q=vscode+copy+link+erro+github&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+copy+link+erro+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEzMjYwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(Disclosure: I lead PM/UX for Flutter & Dart.) For sure, anything that I could s... | Hacker News
+https://news.ycombinator.com/item?id=33028259
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+ChatGPT
+https://chat.openai.com/c/098bacd9-3d90-4101-8e23-3a89b7410cc5
+
+Ask HN: Examples of Microkernels? | Hacker News
+https://news.ycombinator.com/item?id=33078441
+
+You have reached a CSIRO owned domain name - CSIRO
+https://www.csiro.au/en/Contact/Domains
+
+The Helios microkernel
+https://drewdevault.com/2022/06/13/helios.html
+
+ts.data61.csiro.au
+https://ts.data61.csiro.au/publications/nictaabstracts/Heiser_Elphinstone_16.abstract.pml
+
+Getting Started | seL4 docs
+https://docs.sel4.systems/GettingStarted
+
+[seL4] Android TEE OS with seL4? (was: Is the L4-embedded microkernel here means seL4) - Devel - lists.sel4.systems
+https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/message/PFTEOGV6ARWCAPZOIDXAD432KE3OJG6M/
+
+Trusty TEE  |  Android 开源项目  |  Android Open Source Project
+https://source.android.com/docs/security/trusty?hl=zh-cn
+
+Network / Konqueror · GitLab
+https://invent.kde.org/network/konqueror
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
