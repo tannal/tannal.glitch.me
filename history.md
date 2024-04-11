@@ -3,6 +3,156 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+(5 封私信 / 12 条消息) 每次做完俯卧撑手腕都很疼怎么办？没有俯卧撑器? - 知乎
+https://www.zhihu.com/question/36297904
+
+ChatGPT
+https://chat.openai.com/c/1f303f71-18ff-4a20-a2f9-01597ae5b6cf
+
+fault reason number - Google 搜索
+https://www.google.com/search?q=fault+reason+number&rlz=1C1GCEA_enJP1090JP1090&oq=fault+reason+number&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+26virtualMemory2.pdf
+https://courses.cs.washington.edu/courses/cse378/02au/Lectures/26virtualMemory2.pdf
+
+sandpile.org -- x86 architecture -- exceptions
+https://www.sandpile.org/x86/except.htm
+
+Scheduler for Linux kernel threads - Stack Overflow
+https://stackoverflow.com/questions/26537024/scheduler-for-linux-kernel-threads
+
+The Chromium super (inline cache) type confusion - The GitHub Blog
+https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/
+
+c++ - How to alloc a executable memory buffer? - Stack Overflow
+https://stackoverflow.com/questions/40936534/how-to-alloc-a-executable-memory-buffer
+
+set a memory address runnable - Google 搜索
+https://www.google.com/search?q=set+a+memory+address+runnable&rlz=1C1GCEA_enJP1090JP1090&oq=set+a+memory+address+runnable&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDU5MTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+字节顺序 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AD%97%E8%8A%82%E5%BA%8F
+
+Excalidraw
+https://excalidraw.com/
+
+windows是大端还是小端 - Google 搜索
+https://www.google.com/search?q=windows%E6%98%AF%E5%A4%A7%E7%AB%AF%E8%BF%98%E6%98%AF%E5%B0%8F%E7%AB%AF&rlz=1C1GCEA_enJP1090JP1090&oq=windows+%E5%B0%8F%E7%AB%AF&gs_lcrp=EgZjaHJvbWUqCggCEAAYgAQYogQyBggAEEUYOTIICAEQABgIGB4yCggCEAAYgAQYogTSAQg0MTcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+stack heap - Google 搜索
+https://www.google.com/search?sca_esv=e2291660b3e8fe71&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-fjoQEyMs8-CIDDJ96mBX2DONU9Q:1712804556493&q=stack+heap&tbm=isch&source=lnms&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjF86KZlrmFAxXZZfUHHWZlBsIQ0pQJegQIEhAB&biw=1536&bih=703&dpr=1.25#imgrc=2yQf9wOS9NoymM
+
+Chromium OS Docs - Linux System Call Table
+https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+
+cpi 中国 三月 - Google 搜索
+https://www.google.com/search?q=cpi+%E4%B8%AD%E5%9B%BD+%E4%B8%89%E6%9C%88&sca_esv=65fba0e0f9a9cf94&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_HZcguieiU1NQRstRlCHHdeo9qrg%3A1712805799140&ei=p1cXZoqcCJ6l2roPgtqr-Aw&ved=0ahUKEwjKi-jpmrmFAxWeklYBHQLtCs8Q4dUDCBA&uact=5&oq=cpi+%E4%B8%AD%E5%9B%BD+%E4%B8%89%E6%9C%88&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWNwaSDkuK3lm70g5LiJ5pyIMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEinCVAVWLYIcAF4AJABAJgBmwOgAccPqgEJMC41LjEuMC4yuAEDyAEA-AEBmAIHoAKHC8ICChAAGEcY1gQYsAPCAgcQABiABBgMwgIEEAAYHsICCBAAGAUYHhgMwgIKEAAYBRgeGAwYCsICBhAAGAgYHsICCBAAGAgYBBgewgIGEAAYBBgewgIIEAAYiQUYogSYAwCIBgGQBgqSBwkxLjQuMS4wLjGgB9kR&sclient=gws-wiz-serp#ip=1
+
+economic stagnation - Google 搜索
+https://www.google.com/search?q=economic+stagnation&rlz=1C1GCEA_enJP1090JP1090&oq=economic+stagnation&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+中国 cpi bbc - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+cpi+bbc&sca_esv=65fba0e0f9a9cf94&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08InbUXtXUTL3R_MSoQCsgH2nPZdQ%3A1712806332513&ei=vFkXZpX3HsuB2roPgbW_uAc&ved=0ahUKEwiVxZLonLmFAxXLgFYBHYHaD3cQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiDuS4reWbvSBjcGkgYmJjMggQABiABBiiBEjODlDQA1i6DXADeACQAQCYAegBoAHrBqoBAzItNLgBA8gBAPgBAZgCA6ACtgPCAggQIRigARjDBMICBxAAGIAEGAyYAwCIBgGSBwUxLjAuMqAH6AQ&sclient=gws-wiz-serp
+
+(5 封私信 / 12 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+(5 封私信 / 12 条消息) 1 月份全国 CPI 同比下降 0.8% ，环比上涨 0.3%，这一数据说明了什么？ - 知乎
+https://www.zhihu.com/question/644036012
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+Add spidermonkey report by gterzian · Pull Request #143 · servo/servo.org
+https://github.com/servo/servo.org/pull/143
+
+virtiofsd command not found - Google 搜索
+https://www.google.com/search?q=virtiofsd+command+not+found&rlz=1C1GCEA_enJP1090JP1090&oq=virtiofsd+command+not&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB7SAQgzODc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+kerneldev/share.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/share.sh
+
+user tick system tick linux kernel - Google 搜索
+https://www.google.com/search?q=user+tick+system+tick+linux+kernel&sca_esv=e2e4f9e6ebe0d775&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_KWIEojg45g-2Dsc32OCLvw0clvw%3A1712812899754&ei=Y3MXZpbNLZrk2roPiZKl2Ao&ved=0ahUKEwjWitOjtbmFAxUaslYBHQlJCasQ4dUDCBA&uact=5&oq=user+tick+system+tick+linux+kernel&gs_lp=Egxnd3Mtd2l6LXNlcnAiInVzZXIgdGljayBzeXN0ZW0gdGljayBsaW51eCBrZXJuZWwyBRAhGKABMgUQIRigATIFECEYoAFIxCRQV1j5InAFeAGQAQCYAaICoAHDGKoBBTEuOC43uAEDyAEA-AEBmAIRoALUEcICChAAGEcY1gQYsAPCAgcQIRgKGKABmAMAiAYBkAYCkgcFNi43LjSgB_Mf&sclient=gws-wiz-serp
+
+Kernel Ticks and Task Scheduling - Issuu
+https://issuu.com/hibadweib/docs/open_source_for_you_-_october_2012/s/13663273
+
+linux kernel - Changing scheduler tick time - Stack Overflow
+https://stackoverflow.com/questions/34016530/changing-scheduler-tick-time
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+How to make something from wrong to right - Google 搜索
+https://www.google.com/search?q=How+to+make+something+from+wrong+to+right&sca_esv=e2e4f9e6ebe0d775&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09igipdIV-swgdhVLdIuQmzytFenw%3A1712815052128&ei=zHsXZqTBB-i-vr0P4tWn0Ao&ved=0ahUKEwik1_2lvbmFAxVon68BHeLqCaoQ4dUDCBA&uact=5&oq=How+to+make+something+from+wrong+to+right&gs_lp=Egxnd3Mtd2l6LXNlcnAiKUhvdyB0byBtYWtlIHNvbWV0aGluZyBmcm9tIHdyb25nIHRvIHJpZ2h0SLIBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+How to implement mouse drivers Linux USB mouse driver? - Stack Overflow
+https://stackoverflow.com/questions/15322892/how-to-implement-mouse-drivers-linux-usb-mouse-driver
+
+CSS Flexible Box Layout Module Level 1
+https://www.w3.org/TR/css-flexbox-1/#line-sizing
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+CSS Flexible Box Layout Module Level 1
+https://www.w3.org/TR/css-flexbox-1/#flex-direction-property
+
+CSS Grid Layout Module Level 1
+https://www.w3.org/TR/css-grid-1/
+
+CSS Table Module Level 3
+https://www.w3.org/TR/css-tables-3/#fixup-algorithm
+
+CSS Text Module Level 3
+https://www.w3.org/TR/css-text-3/
+
+Cascading Style Sheets Level 2 Revision 2 (CSS 2.2) Specification
+https://www.w3.org/TR/CSS22/
+
+Layout and the containing block - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block
+
+videos.tanmeng.org/test.html
+http://videos.tanmeng.org/test.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+深入css的flex排版原理 - 知乎
+https://zhuanlan.zhihu.com/p/363240190
+
+Resolve Git merge conflicts in favor of their changes during a pull - Stack Overflow
+https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Code search results
+https://github.com/search?q=repo%3Ajemalloc%2Fjemalloc+exec&type=code
+
+How to JIT - an introduction - Eli Bendersky's website
+https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Browser spec reading · Issue #57 · tannal/ohmywork
 https://github.com/tannal/ohmywork/issues/57
 

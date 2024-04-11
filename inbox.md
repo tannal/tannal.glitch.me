@@ -1,5 +1,17 @@
 # 2024-4-11 0 | 0 W
 
+false search
+truth search
+
+find the error
+
+3D graphics also involve more than just the graphics API, OS graphics subsystem, and hardware driver. It typically includes modeling, rendering, shading, lighting, and other processes involved in creating three-dimensional graphics. These additional components are essential for rendering complex 3D scenes and objects accurately.
+
+ modeling is typically replaced by the creation of shapes, lines, and text using vector graphics or pixel-based drawing.
+
+Rendering in 2D often involves compositing these shapes and elements onto a 2D surface, such as a computer screen.
+
+
 KDAB
 https://floss.social/@servo
 
