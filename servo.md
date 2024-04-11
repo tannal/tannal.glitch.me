@@ -1,6 +1,23 @@
 
 # inbox
 
+FlexFlow
+- Vec<FlexItem>
+- Vec<FlexLine>
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/css-tables-example8.html
+
+style
+gfx
+webrender
+script
+surfman
+
+b document.rs:666
+
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/tables/empty-cells-no-interpolation.html
+
+
 RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/xhr/send-redirect.htm
 
 
