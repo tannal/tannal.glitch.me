@@ -1,5 +1,17 @@
 # 2024-4-11 0 | 0 W
 
+git clone https://github.com/karpathy/llm.c
+
+watch -n 0.1 nvidia-smi
+export http_proxy=http://10.90.155.96:7890
+export https_proxy=http://10.90.155.96:7890
+
+python train_gpt2.py
+make train_gpt2
+make train_gpt2cu
+
+OMP_NUM_THREADS=8 ./train_gpt2
+
 ./aliyunpan
 
 false search
