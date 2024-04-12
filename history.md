@@ -1,5 +1,131 @@
 # 2024-4-12
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(5 封私信 / 16 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+linux - Is there a way to attach to a remote process? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/500126/is-there-a-way-to-attach-to-a-remote-process
+
+zommies - Google 搜索
+https://www.google.com/search?q=zommies&rlz=1C1GCEA_enJP1090JP1090&oq=zommies&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQLhgKGMcBGNEDGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMg8IBRAuGAoYxwEY0QMYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgATSAQgxMjY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+seabios/src at master · qemu/seabios
+https://github.com/qemu/seabios/tree/master/src
+
+linux - Cannot get Qemu to move past "Booting from ROM"? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/717348/cannot-get-qemu-to-move-past-booting-from-rom
+
+Code search results
+https://github.com/search?q=repo%3Atorvalds%2Flinux%20pte&type=code
+
+视口概念 - CSS：层叠样式表 | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/CSS/Viewport_concepts
+
+raylib [core] example - input mouse wheel
+https://www.raylib.com/examples/core/loader.html?name=core_input_mouse_wheel
+
+Linear map - Wikipedia
+https://en.wikipedia.org/wiki/Linear_map
+
+Raspberry Pi 4 与 Raspberry Pi 5 | PiCockpit
+https://picockpit.com/raspberry-pi/zh/%E6%A0%91%E8%8E%93%E6%B4%BE-4-%E4%B8%8E%E6%A0%91%E8%8E%93%E6%B4%BE-5/
+
+树莓派4 usb开机 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE4+usb%E5%BC%80%E6%9C%BA&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE4+usb&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABiiBBiJBTIKCAMQABiABBiiBNIBCDU5MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(5 封私信 / 14 条消息) 如何评价ARM的Cortex A72构架？ - 知乎
+https://www.zhihu.com/question/31639456
+
+磁盘阵列 - Google 搜索
+https://www.google.com/search?q=%E7%A3%81%E7%9B%98%E9%98%B5%E5%88%97&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%A3%81%E7%9B%98zhenglie&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMggIBxAAGA0YHjIKCAgQABgNGA8YHjIKCAkQABgNGA8YHtIBCDQ5NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Blog | Tiger Oakes
+http://tanmeng.org/posts/
+
+marklawlor/nativewind: React Native utility-first universal design system - powered by Tailwind CSS
+https://github.com/marklawlor/nativewind
+
+Home | NativeWind
+https://www.nativewind.dev/
+
+asmjit/src/asmjit at master · asmjit/asmjit
+https://github.com/asmjit/asmjit
+
+astro devtools - Google 搜索
+https://www.google.com/search?q=astro+devtools&rlz=1C1GCEA_enJP1090JP1090&oq=astro+devtools&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIJCAEQABgKGIAEMgoIAhAAGAgYChgeMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIE0gEIMzcxMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+运维平台 - Google 搜索
+https://www.google.com/search?q=%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0&sca_esv=1086af29042c933c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09qs_oqTwsUOMPHfe7PCzzWwCoWwA%3A1712889174264&ei=Vp0YZpLTD8632roP_t2voAY&ved=0ahUKEwiS1pW20buFAxXOm1YBHf7uC2QQ4dUDCBA&uact=5&oq=%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOi_kOe7tOW5s-WPsDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiJBRiiBEjuIFDlEFjfH3ABeACQAQCYAfEBoAHXE6oBBTAuNC44uAEDyAEA-AEBmAIMoAKsEsICCxAAGIAEGKIEGLADwgILEAAYiQUYogQYsAPCAgoQIxiABBiKBRgnwgILEC4YxwEY0QMYgATCAgUQABiABMICCxAuGIAEGMcBGNEDwgIKEAAYgAQYigUYQ8ICBRAuGIAEwgIKEC4YgAQYigUYQ8ICGRAuGIAEGIoFGEMYlwUY3AQY3gQY3wTYAQGYAwCIBgGQBgO6BgYIARABGBSSBwUxLjMuOKAH-kE&sclient=gws-wiz-serp
+
+Insights from building @stripe's developer platform & API developer experience: Part 1 | Kenneth Auchenberg
+https://kenneth.io/post/insights-from-building-stripes-developer-platform-and-api-developer-experience-part-1
+
+remix-run/remix: Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+https://github.com/remix-run/remix
+
+Remix - Build Better Websites
+https://remix.run/
+
+PerspectiveProjection.pdf
+https://www.cse.unr.edu/~bebis/CS791E/Notes/PerspectiveProjection.pdf
+
+Excalidraw
+https://excalidraw.com/
+
+On Contradiction - Wikipedia
+https://en.wikipedia.org/wiki/On_Contradiction
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ChatGPT
+https://chat.openai.com/c/ae52c78f-af60-4e18-8860-c90ade7adbcc
+
+分配问题与Hungarian算法 - 一只有恒心的小菜鸟 - 博客园
+https://www.cnblogs.com/YiXiaoZhou/p/5943775.html
+
+jobs on ideas - Google 搜索
+https://www.google.com/search?q=jobs+on+ideas&rlz=1C1GCEA_enJP1090JP1090&oq=jobs+on+ideas&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGBMYgAQyCwgCEAAYDRgTGIAEMgsIAxAAGA0YExiABDIKCAQQABgNGBMYHjIKCAUQABgNGBMYHjIKCAYQABgNGBMYHjIICAcQABgTGB4yDAgIEAAYCBgNGBMYHjIMCAkQABgIGA0YExge0gEIMzE4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+BrEacK - YouTube
+https://www.youtube.com/@breack1652/videos
+
+Steve Jobs claimed the best coders are 100x better than avg. Still true today? | Hacker News
+https://news.ycombinator.com/item?id=5383894
+
+Are there studies clearly illustrating the great discrepancies in programmer productivity? - Skeptics Stack Exchange
+https://skeptics.stackexchange.com/questions/7559/are-there-studies-clearly-illustrating-the-great-discrepancies-in-programmer-pro
+
+US employee 'outsourced job to China' | Hacker News
+https://news.ycombinator.com/item?id=5066813
+
+picasso good artists copy great artists steal - Google 搜索
+https://www.google.com/search?q=picasso+good+artists+copy+great+artists+steal&sca_esv=680539003ac6d285&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09BQti0_i3KLXbMZI5V0jDvYJvUaw%3A1712903886599&ei=ztYYZsGZJLDl1e8P1suMyA0&oq=picasso+goo&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3BpY2Fzc28gZ29vKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgoQABiABBjLARgKMggQABiABBjLAUjYFVCJAViBDHACeAGQAQCYAYoCoAGMCKoBBTAuMi4zuAEDyAEA-AEBmAIGoAL6BsICChAAGEcY1gQYsAPCAg4QLhiABBjLARjHARivAcICBxAAGIAEGAzCAgUQABiABMICCxAuGIAEGMsBGNQCmAMAiAYBkAYKkgcFMi4xLjOgB-wU&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=hippe&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hippie%20nerd&sort=byPopularity&type=story
+
+why the law doesn't punish the lyers - Google 搜索
+https://www.google.com/search?q=why+the+law+doesn%27t+punish+the+lyers&rlz=1C1GCEA_enJP1090JP1090&oq=why+the+law+doesn%27t+punish+the+lyers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDk3MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Error 403 (Forbidden)
+https://www.quora.com/Why-does-there-seem-to-be-no-punishment-for-lying-under-oath-E-g-People-lie-on-Judge-Judy-all-the-time-and-there-is-no-consequence-If-that-s-the-case-why-even-take-an-oath-Seems-pointless
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Why%20does%20there%20seem%20to%20be%20no%20punishment%20for%20lying&sort=byPopularity&type=story
+
+Why does there seem to be no punishment for lying - Google 搜索
+https://www.google.com/search?q=Why+does+there+seem+to+be+no+punishment+for+lying&rlz=1C1GCEA_enJP1090JP1090&oq=Why+does+there+seem+to+be+no+punishment+for+lying&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+ThingsBoard — Open-source IoT (Internet of Things) Platform
+https://thingsboard.io/
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
