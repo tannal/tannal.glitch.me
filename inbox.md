@@ -1,5 +1,32 @@
 # 2024-4-12 0 | 0 W
 
+if the code path is right & all the data the code path read/write is right
+then the code is right.
+
+if code path is right then the data is wrong
+musk a writer to the data
+neither interpreter the data wrongly 
+or set the data wrongly
+
+if code path is wrong, then it's easy.
+
+trident
+
+https://webapi.link/
+
+the power of default and trasparency and automatic
+people don't complian the implicit dependency 
+
+vertex shader
+Tessellation shader
+geometry shader
+pixel shader
+
+predicate
+The cat
+
+
+
 target record-full
 target record-core
 

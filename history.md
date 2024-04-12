@@ -1,5 +1,212 @@
 # 2024-4-12
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to build a new feature for the web platform — and make it a success with developers · Issue #24 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/24
+
+ian.hixie.ch/bible/handling-people
+https://ian.hixie.ch/bible/handling-people
+
+Project Gecko Embedded | Project Gecko Embedded
+https://gecko-embedded.org/
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+tannalwork/books 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/books
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+monkeykeyvaluestore.pdf
+https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+
+go lsm tree - Google 搜索
+https://www.google.com/search?q=go+lsm+tree&rlz=1C1GCEA_enJP1090JP1090&oq=go+lsm+tree&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQLhgKGAwYHjIKCAIQABgKGAwYHjIICAMQABgMGB4yCAgEEAAYDBgeMhAIBRAuGAoYDBgeGMcBGNEDMgYIBhAAGB4yCAgHEAAYDBgeMggICBAAGAwYHjIGCAkQRRhA0gEIMTgwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+deaasarsour/sstable: Go Implementation of LSM tree
+https://github.com/deaasarsour/sstable
+
+Invalid key may not be dropped during DoCompactionWork · Issue #898 · google/leveldb
+https://github.com/google/leveldb/issues/898
+
+GDB Remote Target Connection
+https://chat.openai.com/c/f78043c4-ef53-4794-8c44-4bee98fd9f05
+
+Modern OpenGL Tutorial - Tessellation Shaders - YouTube
+https://www.youtube.com/watch?v=21gfE-zUym8
+
+Pixel Shaders|NVIDIA
+https://www.nvidia.com/en-us/drivers/feature-pixelshader/
+
+Source Code Tree — The Mesa 3D Graphics Library latest documentation
+https://docs.mesa3d.org/sourcetree.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Project Gecko Embedded | Project Gecko Embedded
+https://gecko-embedded.org/
+
+iPhone 1 - Steve Jobs MacWorld keynote in 2007 - Full Presentation, 80 mins - YouTube
+https://www.youtube.com/watch?v=VQKMoT-6XSg
+
+Web API spec Short URL (http://webapi.link/…) link list | [“WebAPI Links”]
+https://webapi.link/
+
+meeting/2024/meeting-2024.04.09.md at master · chirimen-oh/meeting
+https://github.com/chirimen-oh/meeting/blob/master/2024/meeting-2024.04.09.md
+
+Facebook's Zuckerberg: 'The biggest mistake we've made . - Google 搜索
+https://www.google.com/search?q=Facebook%27s+Zuckerberg%3A+%27The+biggest+mistake+we%27ve+made+.&sca_esv=bea76010820982b8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_o85AapGh2DYrrM8hhoivp9U18_g%3A1712926996958&ei=FDEZZpSTOvq6vr0Pk9Kb0AY&ved=0ahUKEwiU7bep3ryFAxV6na8BHRPpBmoQ4dUDCBA&uact=5&oq=Facebook%27s+Zuckerberg%3A+%27The+biggest+mistake+we%27ve+made+.&gs_lp=Egxnd3Mtd2l6LXNlcnAiOEZhY2Vib29rJ3MgWnVja2VyYmVyZzogJ1RoZSBiaWdnZXN0IG1pc3Rha2Ugd2UndmUgbWFkZSAuSOUDULECWLECcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHAA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Facebook%27s%20Zuckerberg&sort=byPopularity&type=story
+
+Zuckerberg the biggest mistaken html5 - Google 搜索
+https://www.google.com/search?q=Zuckerberg+the+biggest+mistaken+html5&sca_esv=bea76010820982b8&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&tbm=vid&sxsrf=ACQVn098PQf3QrULKaNnxk0IiBuzVPCmzw%3A1712927110482&ei=hjEZZoSDHdnCvr0PvLaAgAo&ved=0ahUKEwiE3sjf3ryFAxVZoa8BHTwbAKAQ4dUDCA0&uact=5&oq=Zuckerberg+the+biggest+mistaken+html5&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIiVadWNrZXJiZXJnIHRoZSBiaWdnZXN0IG1pc3Rha2VuIGh0bWw1MgcQIxiwAhgnMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIsKUJwBWOgIcAB4AJABAJgBuAGgAeMCqgEDMC4yuAEDyAEA-AEBmAIBoAKvAZgDAIgGAZIHAzAuMaAH5Qc&sclient=gws-wiz-video
+
+Mark Zuckerberg Interviewed by Michael Arrington - TechCrunch Disrupt 2012:part1 - ログミーBiz
+https://logmi.jp/business/articles/342
+
+Mark Zuckerberg Interviewed by Michael Arrington - #TCDisrupt TechCrunch Disrupt 2012 Full Video - YouTube
+https://www.youtube.com/watch?v=cLtHmai7_Os
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Disrupt%20SF%202012&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=false&query=dart%20without%20flutter&sort=byPopularity&type=story
+
+The Making of Fastbook: An HTML5 Love Story
+https://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story
+
+html5 failed on mobile - Google 搜索
+https://www.google.com/search?q=html5+failed+on+mobile&rlz=1C1GCEA_enJP1090JP1090&oq=html5+failed+on+mobile&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDU2NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+facebook switch to native - Google 搜索
+https://www.google.com/search?q=facebook+switch+to+native&rlz=1C1GCEA_enJP1090JP1090&oq=facebook+switch+to+native&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg1ODE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Facebook: “Betting on HTML5 Was a Mistake” – Technical Reasons and Reactions - InfoQ
+https://www.infoq.com/news/2012/09/Facebook-HTML5-Native/
+
+Mako / @tex2e
+https://tex2e.github.io/
+
+縦書きWeb普及委員会
+https://tategaki.github.io/
+
+Issue search results
+https://github.com/search?q=involves%3Atategaki&type=issues
+
+Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/
+
+Papers & Publications - Mozilla Research
+https://research.mozilla.org/
+
+dgym/cpython-emscripten: Python in the browser - CPython compiled with emscripten
+https://github.com/dgym/cpython-emscripten
+
+Python in the browser - Google 搜索
+https://www.google.com/search?q=Python+in+the+browser&rlz=1C1GCEA_enJP1090JP1090&oq=Python+in+the+browser&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQcxNDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Learn Math with numpy and matplotlib · Issue #22 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/22
+
+trident engine - Google 搜索
+https://www.google.com/search?q=trident+engine&rlz=1C1GCEA_enJP1090JP1090&oq=trident+engine&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGK8BGMcBGIAEMgcIBxAAGIAEMg0ICBAuGMcBGNEDGIAEMg0ICRAuGMcBGNEDGIAE0gEIMjU3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Microsoft Edge’s JavaScript engine to go open-source - Microsoft Edge Blog
+https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/
+
+chakra-core/ChakraCore: ChakraCore is an open source Javascript engine with a C API.
+https://github.com/chakra-core/ChakraCore
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=edge%20switch&sort=byPopularity&type=story
+
+Chromium adoption in Microsoft Edge and future of ChakraCore · Issue #5865 · chakra-core/ChakraCore
+https://github.com/chakra-core/ChakraCore/issues/5865
+
+What's next for Node.js Website? · nodejs/nodejs.org · Discussion #5131
+https://github.com/nodejs/nodejs.org/discussions/5131
+
+facebook/react-native: A framework for building native applications using React
+https://github.com/facebook/react-native
+
+How Does Linux Boot Process Work? - YouTube
+https://www.youtube.com/watch?v=XpFsMB6FoOs
+
+Posts containing 'user:4781312 chromium' - Stack Overflow
+https://stackoverflow.com/search?page=2&tab=Relevance&pagesize=15&q=user%3a4781312%20chromium&searchOn=3
+
+blink-debugging-tips.md
+https://gist.github.com/TakayoshiKochi/48e9ede3067d74b59e82
+
+tomalec - Tomek Wytrębowicz
+https://tomalec.github.io/
+
+Starcounter - The platform for next gen enterprise software.
+https://starcounter.com/
+
+TakayoshiKochi’s gists
+https://gist.github.com/TakayoshiKochi
+
+The Sad State of Debug Performance in C++ | Hacker News
+https://news.ycombinator.com/item?id=32979601
+
+Submissions from vittorioromeo.info | Hacker News
+https://news.ycombinator.com/from?site=vittorioromeo.info
+
+vittorio romeo's website
+https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html
+
+vittorio romeo's website
+https://vittorioromeo.info/index/blog/debug_performance_cpp.html
+
+Why is Blink being the sole browser engine bad? : r/firefox
+https://www.reddit.com/r/firefox/comments/u2u576/why_is_blink_being_the_sole_browser_engine_bad/
+
+Blink: A rendering engine for the Chromium project | Hacker News
+https://news.ycombinator.com/item?id=5489025
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+2401.05319.pdf
+https://arxiv.org/pdf/2401.05319.pdf
+
+M2: Lexical Analysis — MPCS 51300 - Compilers documentation
+https://www.classes.cs.uchicago.edu/archive/2023/winter/51300-1/modules/m2/m2.html
+
+Tips for debugging on Linux
+https://chromium.googlesource.com/chromium/src/+/0e94f26e8/docs/linux_debugging.md
+
+yolinux.com/TUTORIALS/src/dbinit_stl_views-1.01.txt
+http://www.yolinux.com/TUTORIALS/src/dbinit_stl_views-1.01.txt
+
+Graphical Debugging Aid for Chromium Views
+https://chromium.googlesource.com/chromium/src/+/0e94f26e8/docs/graphical_debugging_aid_chromium_views.md
+
+Support import maps for libraries · Issue #23336 · denoland/deno
+https://github.com/denoland/deno/issues/23336
+
+• Discord | #announcements | Deno
+https://discord.com/channels/684898665143206084/831635479912382495/1228354695010062456
+
+JSR
+https://github.com/jsr-io
+
+WICG/import-maps: How to control the behavior of JavaScript imports
+https://github.com/WICG/import-maps#scope
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
