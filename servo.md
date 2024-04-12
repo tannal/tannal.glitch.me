@@ -1,6 +1,36 @@
 
 # inbox
 
+A Pipeline is the constellation's view of a Window. Each pipeline has an event loop (executed by a script thread). A script thread may be responsible for many pipelines.
+
+since change
+layout
+https://github.com/servo/servo/commit/9c0561536d37f64c028d67648091a314b5b88f6f
+
+App->servo will create_constellation in other threads
+
+constellation will new_pipeline append it to pipelines
+
+```rs
+pub struct App {
+    servo: Option<Servo<dyn WindowPortsMethods>>,
+    webviews: RefCell<WebViewManager<dyn WindowPortsMethods>>,
+    event_queue: RefCell<Vec<EmbedderEvent>>,
+    suspended: Cell<bool>,
+    windows: HashMap<WindowId, Rc<dyn WindowPortsMethods>>,
+    minibrowser: Option<RefCell<Minibrowser>>,
+}
+```
+App->servo->
+
+
+
+App->minibrwser->
+embedder
+
+pub use crate::compositor::{CompositeTarget, IOCompositor, ShutdownState};
+
+
 window
 - compositor
 - constellation_chan
