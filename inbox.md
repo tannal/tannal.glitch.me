@@ -1,5 +1,16 @@
 # 2024-4-12 0 | 0 W
 
+https://gecko-embedded.org/
+
+./configure --without-x --without-freetype
+
+git clone git://source.winehq.org/git/wine.git
+
+qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp" 
+
+-device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/d/1vqn33KlxMxE0A-neg8ry28UoQykNvXzZ/view?usp=sharing
+
+
 Steve Jobs - The Lost Interview
 
 The "equalizing" tools help the average programmer when everything works well, but they make it significantly more difficult for them when problems arise. Today's tools have given us many leaky abstractions.

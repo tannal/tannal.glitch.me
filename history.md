@@ -1,5 +1,62 @@
 # 2024-4-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Excalidraw
+https://excalidraw.com/
+
+script: Do not run layout in a thread (#31346) · servo/servo@9c05615
+https://github.com/servo/servo/commit/9c0561536d37f64c028d67648091a314b5b88f6f
+
+c - How to modify memory contents using GDB? - Stack Overflow
+https://stackoverflow.com/questions/3305164/how-to-modify-memory-contents-using-gdb
+
+Issues · ColinIanKing/pagemon
+https://github.com/ColinIanKing/pagemon/issues?q=is%3Aissue+is%3Aclosed
+
+print cpp object memory layout in gdb - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=print+cpp+object+memory+layout+in+gdb
+
+Print layout of C++ object with g++ compiler - Stack Overflow
+https://stackoverflow.com/questions/2979606/print-layout-of-c-object-with-g-compiler
+
+678454 – for "p *foo" i get "Attempt to take contents of a non-pointer value." when foo is a reference to a type that has an operator* method
+https://bugzilla.redhat.com/show_bug.cgi?id=678454
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Visual Studio Code Call Hierarchy - Stack Overflow
+https://stackoverflow.com/questions/62256358/visual-studio-code-call-hierarchy
+
+presshell mozilla firefox - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=presshell+mozilla+firefox#ip=1
+
+webdino/gecko-embedded: Main (meta) repository for Project GEM (Gecko Embedded)
+https://github.com/webdino/gecko-embedded
+
+webdino/gecko-embedded: Main (meta) repository for Project GEM (Gecko Embedded)
+https://github.com/webdino/gecko-embedded
+
+Project Gecko Embedded | Project Gecko Embedded
+https://gecko-embedded.org/
+
+Project Gecko Embedded | Project Gecko Embedded
+https://gecko-embedded.org/
+
+k3d
+https://k3d.io/v5.6.3/
+
+k3s-io/k3s: Lightweight Kubernetes
+https://github.com/k3s-io/k3s
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

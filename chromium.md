@@ -1,5 +1,7 @@
 # inbox
 
+p GetDocument().document_classes_
+
 Base class for all LayoutNG algorithms.
 LayoutAlgorithm
 - const InputNodeType& Node() const { return node_; }
