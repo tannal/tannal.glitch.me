@@ -1,3 +1,65 @@
+# 2024-4-12
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ColinIanKing (ColinIanKing) / Repositories
+https://github.com/ColinIanKing?tab=repositories
+
+Resolve Git merge conflicts in favor of their changes during a pull - Stack Overflow
+https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+Fix HTML event loop by gterzian · Pull Request #31505 · servo/servo
+https://github.com/servo/servo/pull/31505/files
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+qemu reboot disk lost - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=qemu+reboot+disk+lost
+
+gdb print codepath - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gdb+print+codepath
+
+Show current assembly instruction in GDB - Stack Overflow
+https://stackoverflow.com/questions/1902901/show-current-assembly-instruction-in-gdb
+
+memory - How to access data that an offset of a register in gdb? - Stack Overflow
+https://stackoverflow.com/questions/3887162/how-to-access-data-that-an-offset-of-a-register-in-gdb
+
+c - gdb - print macros names instead of a values - Stack Overflow
+https://stackoverflow.com/questions/55469723/gdb-print-macros-names-instead-of-a-values
+
+TUI Keys (Debugging with GDB)
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/TUI-Keys.html
+
+Commit search results
+https://github.com/search?q=owner%3Anodejs+io_uring&type=commits
+
+pagemon viewing an ARM64 QEMU Virtual Machine - YouTube
+https://www.youtube.com/embed/AS0s5nl_IXY
+
+iphone - removing/adding annotations to mapview cause memory leaks - Stack Overflow
+https://stackoverflow.com/questions/8180513/removing-adding-annotations-to-mapview-cause-memory-leaks
+
+Excalidraw
+https://excalidraw.com/
+
+MDN Web Docs
+https://developer.mozilla.org/en-US/
+
+see all event handlers of dom element - Google 検索
+https://www.google.com/search?q=see+all+event+handlers+of+dom+element&client=ubuntu-sn&hs=hxX&sca_esv=8e47e8b36fbcdee8&channel=fs&ei=Kb0YZvDdEdew2roPn6CRoAY&ved=0ahUKEwiwlv3i77uFAxVXmFYBHR9QBGQQ4dUDCBA&uact=5&oq=see+all+event+handlers+of+dom+element&gs_lp=Egxnd3Mtd2l6LXNlcnAiJXNlZSBhbGwgZXZlbnQgaGFuZGxlcnMgb2YgZG9tIGVsZW1lbnQyBBAhGBVIhBpQhwVYlRlwAngBkAEAmAGjAqABvBWqAQUwLjQuOLgBA8gBAPgBAZgCC6ACxw_CAgoQABhHGNYEGLADwgIFECEYoAHCAgQQIRgKmAMAiAYBkAYKkgcFMi40LjWgB5sT&sclient=gws-wiz-serp
+
+DOM Standard
+https://dom.spec.whatwg.org/#concept-event-dispatch
+
+Fixes for HTTP header compliance. by philip-lamb · Pull Request #32024 · servo/servo
+https://github.com/servo/servo/pull/32024/files
+
 # 2024-4-11
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

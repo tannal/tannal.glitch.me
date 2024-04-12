@@ -1,5 +1,8 @@
 # 2024-4-11 0 | 0 W
 
+git pull -X theirs origin main
+let document = self.documents.borrow().find_document(id);
+
 Flutter Team
 https://github.com/search?q=involves%3Ahixie&type=issues
 https://github.com/search?q=involves%3Agrouma&type=issues

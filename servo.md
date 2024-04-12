@@ -1,6 +1,17 @@
 
 # inbox
 
+window
+- compositor
+- constellation_chan
+- embedder_receiver
+
+
+pub struct Reflector {
+    #[ignore_malloc_size_of = "defined and measured in rust-mozjs"]
+    object: Heap<*mut JSObject>,
+}
+
 FlexFlow
 - Vec<FlexItem>
 - Vec<FlexLine>
