@@ -1,4 +1,12 @@
 
+# ai
+
+In this paper, we propose an ai algorithm.
+
+which consists a set of intial belif which is the truth of the world.
+
+when the ai 
+
 ## Research ideas on WebAssembly
 
 ### backgrouond

@@ -1,3 +1,63 @@
+# 2024-4-12 0 | 0 W
+
+Steve Jobs - The Lost Interview
+
+The "equalizing" tools help the average programmer when everything works well, but they make it significantly more difficult for them when problems arise. Today's tools have given us many leaky abstractions.
+
+The software is getting worse to write when it becomes easy for customers to use
+
+document.addEventListener('keydown', (e) => {
+  if(e.key === 'j') {
+    document.querySelector('.List-item').parentElement.removeChild(document.querySelector('.List-item'))
+  }
+})
+
+
+A = new statement
+if decide(A) 
+
+given a true statement A
+for all belifs
+  if A is not a subset of the belif:
+    add A the the belif
+
+decision algorithm
+statement A
+if A is a subset of the belif:
+  return true
+for All belifs
+  if A is inconsisitent of belif:
+    return false
+  
+  if A is inconsistent of the superset of the belif:
+    return false
+
+return undecidable
+
+true
+
+I originally moved to the US to work on developer tools at Microsoft, 
+where I worked on Visual Studio Code and browser DevTools.
+
+c and assembly and calling convention x86 arm risc etc. computer architecture
+system boot memory management protection ring page table
+process management timer interrupt scheduling
+file system disk management
+usb/serial io/wifi/802.11
+networking tcp/ip stack implementation
+audio video framework
+camera driver 
+power management
+
+
+desktop Linux
+graphics stack driver window system ioctl framebuffer drm
+audio video microphine
+
+
+gdb -ex "target remote <IP address>:9953" -p <pid>
+
+
 # 2024-4-11 0 | 0 W
 
 git pull -X theirs origin main
