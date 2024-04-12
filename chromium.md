@@ -1,5 +1,10 @@
 # inbox
 
+LOG(ERROR) << base::debug::StackTrace();
+
+
+p *document->EventTypes().buffer_.Latin1().data()
+
 p GetDocument().document_classes_
 
 Base class for all LayoutNG algorithms.

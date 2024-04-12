@@ -1,5 +1,8 @@
 # 2024-4-12 0 | 0 W
 
+target record-full
+target record-core
+
 https://gecko-embedded.org/
 
 ./configure --without-x --without-freetype
