@@ -41,16 +41,12 @@ cd skia
 
 gclient config https://skia.googlesource.com/skia.git
 gclient sync
-git checkout master
-git checkout reset --hard c05d2859e10f4e1fb0c6486eebfbe88801202648
-git apply ../sezion.patch
 
-./gyp_skia
-make -j skia_lib BUILDTYPE=Release
-
-cd out/gyp
-make -f libjpeg.Makefile BUILDTYPE=Release
-cd ../..
+python3 tools/git-sync-deps
+bin/gn gen out/Shared --args='is_official_build=true is_component_build=true'
+bin/gn gen out/Debug
+ninja -C out/Debug
+ninja -C out/Debug/ -t compdb > compile_commands.json
 
 you can check whether data is right use assert
 you can check whether the code path is right using logging debugging and tracing.(it can be tricky in a concurrent system)

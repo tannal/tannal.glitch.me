@@ -1,5 +1,12 @@
 # inbox
 
+autoninja -C out/Default chrome
+autoninja -C out/Default chrome_wpt_tests
+
+tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
+
+third_party/blink/tools/run_wpt_tests.py -t Default -p chrome third_party/blink/web_tests/external/wpt/css/CSS2/cascade/* -vv
+
 chrome
 
 ./out/Default/chrome baidu.com --enable-gpu-benchmarking --no-sandbox 
