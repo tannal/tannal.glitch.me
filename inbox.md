@@ -1,5 +1,40 @@
 # 2024-4-13 0 | 0 W
 
+git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+export PATH="$PATH":`pwd`/depot_tools
+
+mkdir skia
+cd skia
+
+gclient config --name . https://skia.googlesource.com/skia.git
+gclient sync
+git checkout master
+git checkout reset --hard c05d2859e10f4e1fb0c6486eebfbe88801202648
+git apply ../sezion.patch
+
+./gyp_skia
+make -j skia_lib BUILDTYPE=Release
+
+cd out/gyp
+make -f libjpeg.Makefile BUILDTYPE=Release
+cd ../..
+
+you can check whether data is right use assert
+you can check whether the code path is right using logging debugging and tracing.(it can be tricky in a concurrent system)
+
+there are some complex things you need to do with a codebase instead of fix some issues or add a small features
+for anything beyond that, it is consider a project, which often involve documents 
+what goals you want to achieve?
+what problems do you want tot solve?
+
+what are the easy way greedy way to do?
+what are the better way to do if any? (you mostly don't need a best way)
+what are the alternative ways?
+
+what's your timeline?
+
+what are the bad things that could happens during the timeline?
+
 If a object can reference another object
 it can invoke all the method it has.
 
