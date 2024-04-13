@@ -1,5 +1,11 @@
 # 2024-4-12 0 | 0 W
 
+git clone https://github.com/google/leveldb.git
+git submodule update --init
+cmake -B build -G Ninja -DBUILD_SHARED_LIBS=ON -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+time cmake --build build
+
+
 if the code path is right & all the data the code path read/write is right
 then the code is right.
 
