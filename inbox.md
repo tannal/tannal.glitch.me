@@ -133,21 +133,6 @@ true
 I originally moved to the US to work on developer tools at Microsoft, 
 where I worked on Visual Studio Code and browser DevTools.
 
-c and assembly and calling convention x86 arm risc etc. computer architecture
-system boot memory management protection ring page table
-process management timer interrupt scheduling
-file system disk management
-usb/serial io/wifi/802.11
-networking tcp/ip stack implementation
-audio video framework
-camera driver 
-power management
-
-
-desktop Linux
-graphics stack driver window system ioctl framebuffer drm
-audio video microphine
-
 
 gdb -ex "target remote <IP address>:9953" -p <pid>
 
