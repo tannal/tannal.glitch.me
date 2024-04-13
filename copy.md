@@ -1,5 +1,7 @@
 # Good artists copy, great artists steal.
 
+memory inspection in https://github.com/ColinIanKing/pagemon/
+
 https://github.com/haipome/utf8.git utf8 decode encode
 
 

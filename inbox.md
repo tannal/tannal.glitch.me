@@ -1,3 +1,15 @@
+# 2024-4-13 0 | 0 W
+
+If a object can reference another object
+it can invoke all the method it has.
+
+the object must knows all the semantics of the another object's methods or functions
+
+
+if a type can reference the anthoer type.
+
+Eugene Charniak
+
 # 2024-4-12 0 | 0 W
 
 git clone https://github.com/google/leveldb.git
