@@ -37,6 +37,8 @@ I deployed whisper.cpp and llamac.cpp
 
 I built a linux distro, rootfs and an custom iso.
 
-I debug linux kernel.
+I debug linux kernel.While linux kernel is hard, i learn xv6 for os.and transfer the knoledge
+
+You can't learn os without knowing computer architecture, so i know x86 and arm pertty well.
 
 
