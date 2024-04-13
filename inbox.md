@@ -1,5 +1,17 @@
 # 2024-4-13 0 | 0 W
 
+git clone https://github.com/ColinIanKing/faultstat
+make
+sudo faultstat 60 1
+
+xchg a adress 1 and 0
+if the result is 1, you get the lock
+then break the loop
+if the result is 0, you are blocking by others.
+
+test and set
+exchange
+
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 export PATH="$PATH":`pwd`/depot_tools
 
