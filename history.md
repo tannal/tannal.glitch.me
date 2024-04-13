@@ -1,3 +1,54 @@
+# 2024-4-13
+
+
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Web API spec Short URL (http://webapi.link/…) link list | [“WebAPI Links”]
+https://webapi.link/
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+Debugging blink objects - Google Docs
+https://docs.google.com/document/d/1vgQY11pxRQUDAufxSsc2xKyQCKGPftZ5wZnjY2El4w8/edit
+
+Dirk Pranke blink - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=+Dirk+Pranke+blink#ip=1
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Document enrollment process for recursedeps in DEPS file. · chromium/chromium@2dc1335
+https://github.com/chromium/chromium/commit/2dc13351af80300087c7ce8141355544b4a0f09d
+
+How we built JSR
+https://deno.com/blog/how-we-built-jsr
+
+Home · Sigstore
+https://www.sigstore.dev/
+
+Builtins_CallApiCallbackGeneric - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Builtins_CallApiCallbackGeneric
+
+dump Skia pictures - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=dump++Skia+pictures
+
+SKP Debugger
+https://debugger.skia.org/
+
+SKP Debugger
+https://debugger.skia.org/
+
+Comparing tannal:main...servo:main · tannal/servo
+https://github.com/tannal/servo/compare/main...servo:servo:main
+
+Servo crashes after maximizing the minibrowser · Issue #32039 · servo/servo
+https://github.com/servo/servo/issues/32039
+
+Initial internal support for multiple webviews by wusyong · Pull Request #31417 · servo/servo
+https://github.com/servo/servo/pull/31417/files#diff-1b23015d2328b22cd64c20a710bb0c9fcace7fc92805864165e3bfd0161548db
+
 # 2024-4-12
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

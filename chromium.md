@@ -1,5 +1,20 @@
 # inbox
 
+chrome
+
+./out/Default/chrome baidu.com --enable-gpu-benchmarking --no-sandbox 
+
+./out/Default/chrome ~/tannalwork/cans/sk.html --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+chrome.gpuBenchmarking.printToSkPicture('/tmp/skiatest')
+chrome.gpuBenchmarking
+
+Builtins_CallApiCallbackGeneric
+
+```
+
+```
+
 LOG(ERROR) << base::debug::StackTrace();
 
 

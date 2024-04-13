@@ -6,7 +6,7 @@ export PATH="$PATH":`pwd`/depot_tools
 mkdir skia
 cd skia
 
-gclient config --name . https://skia.googlesource.com/skia.git
+gclient config https://skia.googlesource.com/skia.git
 gclient sync
 git checkout master
 git checkout reset --hard c05d2859e10f4e1fb0c6486eebfbe88801202648
