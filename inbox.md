@@ -1,5 +1,16 @@
 # 2024-4-13 0 | 0 W
 
+https://bootlin.com/doc/
+
+https://bootlin.com/doc/training/audio/audio-slides.pdf
+
+https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf
+
+https://bootlin.com/doc/training/graphics/
+
+GEM Graphics excution/memory manager
+DRM KMS
+
 It's often to give up an abstraction when it's leaking too much or too often.
 
 k8s k3s k0s k9s
