@@ -1,5 +1,11 @@
 # 2024-4-13 0 | 0 W
 
+~/tannaowrk/
+
+if you know what you doing, you can do it.
+because you understand how machine works.
+
+
 git clone https://github.com/ColinIanKing/faultstat
 make
 sudo faultstat 60 1
