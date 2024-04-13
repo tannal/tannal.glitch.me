@@ -5,6 +5,7 @@ git clone https://github.com/wojtask/clrs4e-solutions
 sudo apt install texlive-pstricks texlive-latex-extra texlive-fonts-extra latexmk
 chmod +x util/install_fonts.sh && sudo util/install_fonts.sh
 
+latexmk -pdf -file-line-error -halt-on-error -interaction=nonstopmode clrs4e-solutions.tex
 
 
 $$

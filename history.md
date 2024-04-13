@@ -1,5 +1,42 @@
 # 2024-4-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ColinIanKing/powerstat: Powerstat measures the power consumption of a machine using the battery stats or the Intel RAPL interface. The output is like vmstat but also shows power consumption statistics. At the end of a run, powerstat will calculate the average, standard deviation and min/max of the gathered data.
+https://github.com/ColinIanKing/powerstat
+
+google/leveldb: LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+https://github.com/google/leveldb
+
+alda/.circleci/config.yml at master · alda-lang/alda
+https://github.com/alda-lang/alda/blob/master/.circleci/config.yml
+
+Run Alda in the browser · alda-lang/alda · Discussion #455
+https://github.com/alda-lang/alda/discussions/455
+
+KDAB/hotspot: The Linux perf GUI for performance analysis.
+https://github.com/KDAB/hotspot/tree/master
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+How to build leveldb to shared libs · Issue #925 · google/leveldb
+https://github.com/google/leveldb/issues/925
+
+rocksdb/INSTALL.md at main · facebook/rocksdb
+https://github.com/facebook/rocksdb/blob/main/INSTALL.md
+
+wojtask/clrs4e-solutions: Solutions to exercises and problems from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+https://github.com/wojtask/clrs4e-solutions
+
+alfaArghya (alfaArghya) / Repositories
+https://github.com/alfaArghya?tab=repositories
+
+bitcask-kv-go/fio 位于 main - bitcask-kv-go - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bitcask-kv-go/src/branch/main/fio
+
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
