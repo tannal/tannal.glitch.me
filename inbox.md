@@ -1,5 +1,9 @@
 # 2024-4-13 0 | 0 W
 
+It's often to give up an abstraction when it's leaking too much or too often.
+
+k8s k3s k0s k9s
+
 ~/tannaowrk/
 
 if you know what you doing, you can do it.

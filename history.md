@@ -1,5 +1,151 @@
 # 2024-4-13
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+L18-icn-intro.pptx
+https://www.eecs.umich.edu/courses/eecs570/lectures/18.pdf
+
+cv.pdf
+https://web.eecs.umich.edu/~linmacse/cv.pdf
+
+CSS Painting API Level 1
+https://drafts.css-houdini.org/css-paint-api-1/#2d-rendering-context
+
+Ask HN: Is React Native still popular? | Hacker News
+https://news.ycombinator.com/item?id=38500146
+
+布莱兹·帕斯卡 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%B8%83%E8%8E%B1%E5%85%B9%C2%B7%E5%B8%95%E6%96%AF%E5%8D%A1
+
+Eugene Charniak - Wikipedia
+https://en.wikipedia.org/wiki/Eugene_Charniak
+
+perceptual psychologists - Google 搜索
+https://www.google.com/search?q=perceptual+psychologists&rlz=1C1GCEA_enJP1090JP1090&oq=perceptual+psychologists&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGA8YExgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGAUYExgeMgoIBRAAGAUYExgeMgoIBhAAGAUYExgeMgwIBxAAGAUYChgTGB7SAQc0NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+What does C++ Object Layout Look Like? | Nimrod's Coding Lab
+https://nimrod.blog/posts/what-does-cpp-object-layout-look-like/
+
+PrintDOM method errors
+https://chat.openai.com/c/176cf1df-fe67-4bf5-aa46-71774fa155c1
+
+Debugging blink objects - Google 文档
+https://docs.google.com/document/d/1vgQY11pxRQUDAufxSsc2xKyQCKGPftZ5wZnjY2El4w8/edit#heading=h.8x8n9x5rkr0
+
+SKP Debugger
+https://debugger.skia.org/
+
+skia.git - Git at Google
+https://chromium.googlesource.com/skia.git/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+RTOS on raspberry pi3 - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=201540
+
+Ultibo – Bare-Metal Pascal for Raspberry Pi | Hacker News
+https://news.ycombinator.com/item?id=34445367
+
+programming without computers - Google 搜索
+https://www.google.com/search?q=programming+without+computers&rlz=1C1GCEA_enJP1090JP1090&oq=programming+without+computers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYxMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+ColinIanKing/faultstat: page fault tracking tool
+https://github.com/ColinIanKing/faultstat
+
+Excalidraw
+https://excalidraw.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+(1) Servo crashes after maximizing the minibrowser · Issue #32039 · servo/servo
+https://github.com/servo/servo/issues/32039
+
+数字孪生 - Google 搜索
+https://www.google.com/search?q=%E6%95%B0%E5%AD%97%E5%AD%AA%E7%94%9F&rlz=1C1GCEA_enJP1090JP1090&oq=shuziluan&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU3NDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+山东 - Google 搜索
+https://www.google.com/search?q=%E5%B1%B1%E4%B8%9C&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%B1%B1%E4%B8%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIMCAIQLhhDGIAEGIoFMg0IAxAuGMcBGNEDGIAEMgcIBBAuGIAEMgcIBRAuGIAEMgcIBhAuGIAEMgcIBxAAGIAEMgcICBAAGIAE0gEIMjY5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+yahoo - Google 搜索
+https://www.google.com/search?q=yahoo&rlz=1C1GCEA_enJP1090JP1090&oq=yahoo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMTE4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+youtube - Google 搜索
+https://www.google.com/search?q=youtube&rlz=1C1GCEA_enJP1090JP1090&oq=youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MhIIAhAuGEMYxwEY0QMYgAQYigUyDAgDECMYJxiABBiKBTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHOTc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvivia+na&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEIMzQyN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+45. 跳跃游戏 II - 力扣（LeetCode）
+https://leetcode.cn/problems/jump-game-ii/solutions/2566727/dai-ma-sui-xiang-lu-leetcode-45tiao-yue-h2u1r/?envType=study-plan-v2&envId=top-interview-150
+
+leetcode.cn
+https://leetcode.cn/problems/insert-delete-getrandom-o1/submissions/523157225/?envType=study-plan-v2&envId=top-interview-150
+
+Cool KapitsaARe - 力扣（LeetCode）
+https://leetcode.cn/u/cool-kapitsaare/
+
+multithreading - NUMA: How to check in which part of RAM a C++ array is allocated? - Stack Overflow
+https://stackoverflow.com/questions/19813681/numa-how-to-check-in-which-part-of-ram-a-c-array-is-allocated
+
+Is it possible to use two CPU's in a computer? : r/buildapc
+https://www.reddit.com/r/buildapc/comments/12j3myi/is_it_possible_to_use_two_cpus_in_a_computer/
+
+michigan - Google 搜索
+https://www.google.com/search?q=michigan&rlz=1C1GCEA_enJP1090JP1090&oq=michigan&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyDAgCEC4YQxiABBiKBTIMCAMQLhhDGIAEGIoFMgwIBBAuGEMYgAQYigUyDAgFEC4YQxiABBiKBTIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIyNTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+EECS 484 Projects
+https://eecs484db.github.io/
+
+mit-pdos/xv6-public: xv6 OS
+https://github.com/mit-pdos/xv6-public
+
+vim's easy mode: making vim behave like a 'conventional' text editor | Devlog
+https://vonheikemen.github.io/devlog/tools/vim-easy-mode/
+
+search - grep: show lines surrounding each match - Stack Overflow
+https://stackoverflow.com/questions/9081/grep-show-lines-surrounding-each-match
+
+language agnostic - Why don't we store the syntax tree instead of the source code? - Software Engineering Stack Exchange
+https://softwareengineering.stackexchange.com/questions/119095/why-dont-we-store-the-syntax-tree-instead-of-the-source-code
+
+tools | EECS 484 Projects
+https://eecs484db.github.io/fa23/tools#acknowledgements
+
+alfaArghya/alfa-leetcode-api: It's a custom leetcode api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily questions, selected problem, list of problems.
+https://github.com/alfaArghya/alfa-leetcode-api
+
+wojtask/clrs4e-solutions: Solutions to exercises and problems from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein
+https://github.com/wojtask/clrs4e-solutions
+
+bitcask-kv-go/btree.go 位于 main - bitcask-kv-go - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bitcask-kv-go/src/branch/main/index/btree.go
+
+k8s k3s k0s - Google 搜索
+https://www.google.com/search?q=k8s+k3s+k0s&rlz=1C1GCEA_enJP1090JP1090&oq=k8s+k3s+k0s&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMggIAhAAGAgYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDM2NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=The%20third%20example%20is%20the%20wellattested%20illness%20of%20hysterical%20paralysis.%20Prolonged%20stress%20may%20lead%20to%20paralyses%20that%20have%2C%20unbeknown%20to%20the%20patient%2C%20no%20neurological%20explanation.%20They%0Aappear%20to%20be%20a%20reaction%20that%20is%20outside%20the%20knowledge%20or%20control%20of%20the%0Aoperating%20system.%20&op=translate
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+eggman/FreeRTOS-raspi3: FreeRTOS port Raspberry Pi 3 ( 64bit / aarch64 )
+https://github.com/eggman/FreeRTOS-raspi3
+
+sets of command for building RTOS for raspberry PI 3b
+https://gist.github.com/doevelopper/09e8cb0d180bcf5b169fb3ad41883b8a
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
