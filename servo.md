@@ -1,5 +1,9 @@
 
 # inbox
+
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/cascade/inherit-computed-001.html
+
+
 RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb http://browserbench.org/Speedometer/
 
 A Pipeline is the constellation's view of a Window. Each pipeline has an event loop (executed by a script thread). A script thread may be responsible for many pipelines.

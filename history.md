@@ -1,3 +1,59 @@
+# 2024-4-14
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Debugging blink objects - Google Docs
+https://docs.google.com/document/d/1vgQY11pxRQUDAufxSsc2xKyQCKGPftZ5wZnjY2El4w8/edit#heading=h.8x8n9x5rkr0
+
+CSS Rich Browsing Proposal · Issue #175 · WebKit/Speedometer
+https://github.com/WebKit/Speedometer/issues/175
+
+Run Speedometer benchmark · Issue #16719 · servo/servo
+https://github.com/servo/servo/issues/16719
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+SKP Debugger
+https://debugger.skia.org/
+
+HTML Standard
+https://html.spec.whatwg.org/#suggested-reading
+
+bugger skia no text showing - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=bugger+skia+no+text+showing#ip=1
+
+How to build Skia | Skia
+https://skia.org/docs/user/build/
+
+Compilation database — Sarcasm tips documentation
+https://sarcasm.github.io/notes/dev/compilation-database.html#ninja
+
+chromium-legacy/docs/testing/run_web_platform_tests.md at master.lion · blueboxd/chromium-legacy
+https://github.com/blueboxd/chromium-legacy/blob/master.lion/docs/testing/run_web_platform_tests.md
+
+chromium-legacy/docs/linux/debugging.md at master.lion · blueboxd/chromium-legacy
+https://github.com/blueboxd/chromium-legacy/blob/master.lion/docs/linux/debugging.md
+
+Chromium にコントリビュートするための周辺知識 | blog.jxck.io
+https://blog.jxck.io/entries/2024-03-26/chromium-contribution.html
+
+RFC の URL はどのドメインで貼るのが良いか | blog.jxck.io
+https://blog.jxck.io/entries/2024-03-27/link-to-rfc.html
+
+jxck.io/humans.txt
+https://jxck.io/humans.txt
+
+#Tags | blog.jxck.io
+https://blog.jxck.io/tags/#chromium
+
+Jxck (Jxck)
+https://github.com/Jxck
+
+CSS cascading: Inherit the computed value
+http://localhost:8000/css/CSS2/cascade/inherit-computed-001.html
+
 # 2024-4-13
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
