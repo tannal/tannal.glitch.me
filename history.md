@@ -1,5 +1,188 @@
 # 2024-4-13
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Serene/serene: Just another Lisp - Devheroes
+https://devheroes.codes/Serene/Serene/src/branch/ep3
+
+muqsitnawaz/modern-cpp-cheatsheet: Cheatsheet for best practices of Modern C++ (taken from Effective Modern C++)
+https://github.com/muqsitnawaz/modern-cpp-cheatsheet
+
+Compilers: Principles, Techniques, and Tools (Dragon Book)
+https://suif.stanford.edu/dragonbook/
+
+Which version of ML should I use?
+https://www.cs.princeton.edu/~appel/modern/ml/whichver.html
+
+The Architecture of Open Source Applications (Volume 1)LLVM
+https://aosabook.org/en/v1/llvm.html
+
+LLVM2
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf
+
+RIG, Rochester's Intelligent Gateway: System Overview | 10.1109/tse.1976.229890_Scihub
+https://bothonce.com/10.1109/tse.1976.229890
+
+#general > 🐞 Good First Bugs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.F0.9F.90.9E.20Good.20First.20Bugs
+
+Servo TSC Meeting March 2024 · Issue #84 · servo/project
+https://github.com/servo/project/issues/84
+
+WebKit/Speedometer: An open source repository for the Speedometer benchmark
+https://github.com/WebKit/Speedometer/
+
+linebender/druid: A data-first Rust-native UI design toolkit.
+https://github.com/linebender/druid
+
+合并请求 · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests
+
+CSE550.Mesa.pdf
+https://courses.cs.washington.edu/courses/cse550/22au/papers/CSE550.Mesa.pdf
+
+lazyparser的个人空间-lazyparser个人主页-哔哩哔哩视频
+https://space.bilibili.com/296494084
+
+[完结] 循序渐进，学习开发一个RISC-V上的操作系统 - 汪辰 - 2021春_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Q5411w7z5/?spm_id_from=333.999.0.0&vd_source=fb06daf188bcb1499231594af9d76d70
+
+layout: Add support for `<object>` with image data URLs by mrobinson · Pull Request #32069 · servo/servo
+https://github.com/servo/servo/pull/32069/files
+
+bradtraversy (bradtraversy) / Repositories
+https://github.com/bradtraversy?tab=repositories&q=next&type=&language=&sort=
+
+audio-slides.pdf
+https://bootlin.com/doc/training/audio/audio-slides.pdf
+
+training-materials/mk/graphics.mk at 5c5a3e82502f4572cd1b65a94824904f582d4854 · bootlin/training-materials
+https://github.com/bootlin/training-materials/blob/5c5a3e82502f4572cd1b65a94824904f582d4854/mk/graphics.mk#L2
+
+debugging-slides.pdf
+https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+
+graphics-slides.pdf
+https://bootlin.com/doc/training/graphics/graphics-slides.pdf
+
+nicos github - Google 搜索
+https://www.google.com/search?q=nicos+github&sca_esv=9f9a5c109fb2290a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_TdofjDldB8FRjIQ0VXNbkFtlPBw%3A1713007719304&ei=Z2waZtGPEvfk2roPrNu2uAM&ved=0ahUKEwiR3-yEi7-FAxV3slYBHaytDTcQ4dUDCBA&uact=5&oq=nicos+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDG5pY29zIGdpdGh1YjIHEAAYgAQYDTIIEAAYCBgeGA0yCBAAGAgYHhgNMggQABgIGB4YDTIIEAAYCBgeGA0yCBAAGAgYHhgNMggQABgIGB4YDTIIEAAYBRgeGA0yCBAAGAUYHhgNMggQABgFGB4YDUieCVDaAli4CHABeAGQAQCYAaMCoAGwCqoBAzItNbgBA8gBAPgBAZgCBqACxQrCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgoQLhiABBjLARgKwgIOEC4YgAQYywEYxwEYrwHCAgoQABiABBjLARgKwgIIEC4YgAQYywHCAgYQABgeGArCAgQQABgewgIdEC4YgAQYywEYxwEYrwEYlwUY3AQY3gQY4ATYAQGYAwCIBgGQBgq6BgYIARABGBSSBwUxLjAuNaAHvCQ&sclient=gws-wiz-serp
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Coding Adventure: Rendering Text - YouTube
+https://www.youtube.com/watch?v=SO83KQuuZvg
+
+SebLague (SebLague) / Repositories
+https://github.com/SebLague?tab=repositories
+
+Steve Jobs Interview - 2/18/1981 - YouTube
+https://www.youtube.com/watch?v=DbfejwP1d3c
+
+accetta86.pdf
+https://cseweb.ucsd.edu/classes/wi11/cse221/papers/accetta86.pdf
+
+Oral History of Avie Tevanian - Session 1 - YouTube
+https://www.youtube.com/watch?v=vwCdKU9uYnE
+
+CHM Revolutionaries: Microsoft Research's Rick Rashid with John Markoff of The New York Times - YouTube
+https://www.youtube.com/watch?v=SHKFVUAamQY
+
+RIG, Rochester's Intelligent Gateway: System Overview: IEEE Transactions on Software Engineering: Vol 2, No 4
+https://dl.acm.org/doi/10.1109/TSE.1976.229890
+
+ChatGPT
+https://chat.openai.com/c/9c7d9f34-3d7a-488d-9b2d-e10e6db7d338
+
+rochester - Google 搜索
+https://www.google.com/search?q=rochester&rlz=1C1GCEA_enJP1090JP1090&oq=rochester&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQLhhDGNQCGIAEGIoFMgYIAhAjGCcyDwgDEC4YQxjUAhiABBiKBTIMCAQQLhhDGIAEGIoFMgkIBRAuGAwYgAQyBggGEEUYPTIGCAcQRRg90gEIMzM5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Linus Torvalds TED Talk 2016 (HD): The Mind Behind Linux | Hacker News
+https://news.ycombinator.com/item?id=11501659
+
+rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+Avie Tevanian - Google 搜索
+https://www.google.com/search?q=Avie+Tevanian&rlz=1C1GCEA_enJP1090JP1090&oq=Avie+Tevanian&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEEUYPTIGCAcQRRg90gEHNDAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Rick%20Rashid&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=linebender&sort=byPopularity&type=story
+
+Xilem 2024 plans - Linebender
+https://linebender.org/blog/xilem-2024/
+
+parallel futures in mobile application development — wingolog
+https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development
+
+landley (Rob Landley)
+https://github.com/landley
+
+uTools官网 - 新一代效率工具平台
+https://www.u.tools/
+
+mykeymap - Google 搜索
+https://www.google.com/search?q=mykeymap&rlz=1C1GCEA_enJP1090JP1090&oq=mykeymap&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDI0NzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How can I help? · Issue #192 · linebender/xilem
+https://github.com/linebender/xilem/issues/192
+
+#masonry > Porting Masonry to Vello - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/317477-masonry/topic/Porting.20Masonry.20to.20Vello
+
+laurent22/joplin: Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+https://github.com/laurent22/joplin
+
+GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://github.com/python/cpython/pull/113465
+
+PEP 744: JIT Compilation - PEPs - Discussions on Python.org
+https://discuss.python.org/t/pep-744-jit-compilation/50756
+
+Python 3.13 gets a JIT
+https://tonybaloney.github.io/posts/python-gets-a-jit.html
+
+NT5.1/Source/XPSP1/NT/windows/netdde/src/nddeexts at master · 0x5bfa/NT5.1
+https://github.com/0x5bfa/NT5.1/tree/master/Source/XPSP1/NT/windows/netdde/src/nddeexts
+
+Aaron Muir Hamilton - Google 搜索
+https://www.google.com/search?q=Aaron+Muir+Hamilton&rlz=1C1GCEA_enJP1090JP1090&oq=Aaron+Muir+Hamilton&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#chatter - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter
+
+data structures in blink engine - Google 搜索
+https://www.google.com/search?q=data+structures+in+blink+engine&sca_esv=15ddde8597066206&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09KKPF0l9srnrDb7cieNM3HPYUdJQ%3A1713019202304&ei=QpkaZqSPEu3O1e8Pv9G5QA&ved=0ahUKEwikuK_otb-FAxVtZ_UHHb9oDggQ4dUDCBA&uact=5&oq=data+structures+in+blink+engine&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2RhdGEgc3RydWN0dXJlcyBpbiBibGluayBlbmdpbmUyBxAhGAoYoAFItwtQ9gNY2QpwAXgBkAEAmAHtAaAB2QmqAQUwLjIuNLgBA8gBAPgBAZgCB6AC6AnCAgoQABhHGNYEGLADwgIFECEYoAGYAwCIBgGQBgGSBwUxLjIuNKAHnxA&sclient=gws-wiz-serp#ip=1
+
+Chromium Docs - Contributing to Chromium
+https://chromium.googlesource.com/chromium/src/+/main/docs/contributing.md
+
+Chromium Docs - Optimizing Chrome Web UIs
+https://chromium.googlesource.com/chromium/src/+/main/docs/optimizing_web_uis.md
+
+make everything intensely – search and share ideas about free software
+https://blogs.igalia.com/jfernandez/
+
+Conceptual Architecture - MOCOCJ
+https://mococj.github.io/assignment1/
+
+Let's build a browser engine! Part 1: Getting started
+https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+
+Blink render tree
+https://groups.google.com/a/chromium.org/g/blink-dev/c/XFriDym3t4I
+
+Blink's Text Stack
+https://chromium.googlesource.com/chromium/src/+/HEAD/third_party/blink/renderer/platform/fonts/README.md
+
+WebKit and Blink
+https://people.igalia.com/juanjo/webkit_linuxcon2013_slides.pdf
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
