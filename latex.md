@@ -1,3 +1,12 @@
+# inbox
+
+git clone https://github.com/wojtask/clrs4e-solutions
+
+sudo apt install texlive-pstricks texlive-latex-extra texlive-fonts-extra latexmk
+chmod +x util/install_fonts.sh && sudo util/install_fonts.sh
+
+
+
 $$
 f(x) = \int_{-\infty}^\infty
     \hat{f}(\xi) \, e^{2 \pi i \xi x}

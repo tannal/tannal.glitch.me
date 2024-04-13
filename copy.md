@@ -1,5 +1,7 @@
 # Good artists copy, great artists steal.
 
+latex pdf books https://github.com/wojtask/clrs4e-solutions
+
 memory inspection in https://github.com/ColinIanKing/pagemon/
 
 https://github.com/haipome/utf8.git utf8 decode encode
