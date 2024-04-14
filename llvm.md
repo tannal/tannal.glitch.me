@@ -1,5 +1,7 @@
 # inbox
 
+Type Stmt Expr Decl
+
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
 
 

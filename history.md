@@ -1,5 +1,95 @@
 # 2024-4-14
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Element collapsing thru should collapse with its children (#32060) · servo/servo@bc7cced
+https://github.com/servo/servo/commit/bc7cced03c982cc32c941fec40e66fb5814470cb
+
+Chromium にコントリビュートするための周辺知識 | blog.jxck.io
+https://blog.jxck.io/entries/2024-03-26/chromium-contribution.html
+
+Chromium にコントリビュートするための周辺知識 | blog.jxck.io
+https://blog.jxck.io/entries/2024-03-26/chromium-contribution.html
+
+alct/export-tabs-urls: https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+https://github.com/alct/export-tabs-urls
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/CSS2/linebox?label=experimental&label=master&aligned
+
+run_web_tests.py - Google 検索
+https://www.google.com/search?q=run_web_tests.py&sca_esv=6d88926774eb50fb&source=hp&ei=fSEbZqusMLTW1e8P69Ki0Ak&iflsig=ANes7DEAAAAAZhsvjQpJJpb-HmS4BiBQf7vGbofIdQwZ&ved=0ahUKEwjr3qbet8CFAxU0a_UHHWupCJoQ4dUDCA8&uact=5&oq=run_web_tests.py&gs_lp=Egdnd3Mtd2l6IhBydW5fd2ViX3Rlc3RzLnB5SGdQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz#ip=1
+
+[blink-dev] PSA: Ignore .ini files next to web platform tests
+https://www.mail-archive.com/blink-dev@chromium.org/msg04291.html
+
+CSS Grid Layout Implementation Details
+https://people.igalia.com/mrego/talks/css-day-2019-css-grid-layout/#/5
+
+w3c/csswg-drafts: CSS Working Group Editor Drafts
+https://github.com/w3c/csswg-drafts/
+
+WillTheDeveloper/StudyPortal: Study Portal is a place where students can collaborate on work and access everything else they need as a student.
+https://github.com/WillTheDeveloper/StudyPortal
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88&op=translate
+
+GitKraken Student Bundle - GitHub Student Developer Pack
+https://www.gitkraken.com/github-student-developer-pack
+
+Account Info | GitKraken Account
+https://app.gitkraken.com/organization/65e3b39de44bdf7fd2eba77a/purchase-license/purchase?license=PRO&purchase=true
+
+Termius - SSH platform for Mobile and Desktop
+https://termius.com/
+
+To Generate formatted patch file and apply using git command
+https://gist.github.com/ganapathichidambaram/3504e31fc8ba809762b3a0d9d9ef8ec2
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+LLVM2 - L4-LLVM2.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Excalidraw
+https://excalidraw.com/
+
+debugging - Enable debug output for optimization passes from clang - Stack Overflow
+https://stackoverflow.com/questions/15614909/enable-debug-output-for-optimization-passes-from-clang
+
+[llvm-dev] Printing while developing on LLVM/Clang code
+https://groups.google.com/g/llvm-dev/c/dQtsJ7iv858
+
+LLVM Programmer’s Manual — LLVM 19.0.0git documentation
+https://llvm.org/docs/ProgrammersManual.html#the-llvm-debug-macro-and-debug-option
+
+How to use `-debug` in clang - Clang Frontend - LLVM Discussion Forums
+https://discourse.llvm.org/t/how-to-use-debug-in-clang/72755/2
+
+How do I run a program with commandline arguments using GDB within a Bash script? - Stack Overflow
+https://stackoverflow.com/questions/6121094/how-do-i-run-a-program-with-commandline-arguments-using-gdb-within-a-bash-script
+
+exprt tabs extension github - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=exprt+tabs+extension+github
+
+alct/export-tabs-urls: https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+https://github.com/alct/export-tabs-urls
+
+Your first extension - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+gdb disable this breakpoint - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gdb+disable+this+breakpoint
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,8 @@
 # inbox
 
+RUST_LOG="debug" ./mach run --debugger=gdb translate.google.com
+
+
 RUST_LOG="debug" ./mach wpt --debugger=gdb ./testing/web-platform/tests/css/CSS2/cascade/inherit-computed-001.html
 RUST_LOG="debug" ./mach wpt ./testing/web-platform/tests/css/CSS2/cascade/inherit-computed-001.html
 

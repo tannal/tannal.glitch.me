@@ -1,6 +1,10 @@
 # 2024-4-14 0 | 0 W
 
+b /home/tannal/tannalwork/projects/mozilla-unified/widget/gtk/nsClipboard.cpp:606
 
+
+
+sudo sysctl -w fs.inotify.max_user_watches=131072
 
 # 2024-4-13 0 | 0 W
 

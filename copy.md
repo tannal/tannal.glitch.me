@@ -1,5 +1,7 @@
 # Good artists copy, great artists steal.
 
+firefox browser extension get open tabs https://github.com/alct/export-tabs-urls.git
+
 rustdesk remote desktop https://github.com/rustdesk/rustdesk.git
 
 latex pdf books https://github.com/wojtask/clrs4e-solutions
