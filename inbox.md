@@ -1,8 +1,10 @@
 # 2024-4-14 0 | 0 W
 
+https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-Networking.pdf
+
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf
+
 b /home/tannal/tannalwork/projects/mozilla-unified/widget/gtk/nsClipboard.cpp:606
-
-
 
 sudo sysctl -w fs.inotify.max_user_watches=131072
 

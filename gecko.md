@@ -1,5 +1,7 @@
 # inbox
 
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=528691
+
 RUST_LOG="debug" ./mach run --debugger=gdb translate.google.com
 
 

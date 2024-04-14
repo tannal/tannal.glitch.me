@@ -1,5 +1,7 @@
 # Good artists copy, great artists steal.
 
+browser extensions https://github.com/chibat/chrome-extension-typescript-starter.git
+
 firefox browser extension get open tabs https://github.com/alct/export-tabs-urls.git
 
 rustdesk remote desktop https://github.com/rustdesk/rustdesk.git
