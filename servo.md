@@ -1,6 +1,12 @@
 
 # inbox
 
+set breakpoint pending on
+rb ::*
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/event.html
+
+
 RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/cascade/inherit-computed-001.html
 
 

@@ -1,5 +1,14 @@
 # 2024-4-14 0 | 0 W
 
+git remote add origin http://git.tanmeng.org/tannal/tannal.git
+
+go install 
+go uninstall
+
+export PATH=${PATH}:`go env GOPATH`/bin
+
+sudo tcpdump -i any -AX -vv 'port 3000'
+
 https://www.cs.cmu.edu/~garth/15719/lectures/15719-S17-Networking.pdf
 
 https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf

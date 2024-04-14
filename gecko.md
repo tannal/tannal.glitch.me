@@ -1,5 +1,13 @@
 # inbox
 
+b nsRetrievalContextX11::WaitForClipboardData
+
+b /home/tannal/tannalwork/projects/mozilla-unified/widget/gtk/nsClipboard.cpp:606
+
+b nsRetrievalContextX11::GetClipboardText
+
+
+
 https://bugs.eclipse.org/bugs/show_bug.cgi?id=528691
 
 RUST_LOG="debug" ./mach run --debugger=gdb translate.google.com

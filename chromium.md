@@ -1,5 +1,10 @@
 # inbox
 
+rb eventloop.cc:.
+
+./out/Default/chrome ~/tannalwork/cans/event.html --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+
 autoninja -C out/Default chrome
 autoninja -C out/Default chrome_wpt_tests
 
