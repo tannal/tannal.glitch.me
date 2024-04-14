@@ -1,5 +1,12 @@
 # 2024-4-14 0 | 0 W
 
+A B C D E E E E E E E E 
+
+Dan Ingalls the smalltalk project now at yc combinator research
+
+Programmers want to work on one routine without having to think about all of them at the same time.
+if this is true, when you reading code, you also don't need to think all of them at the same time.
+
 git remote add origin http://git.tanmeng.org/tannal/tannal.git
 
 go install 
