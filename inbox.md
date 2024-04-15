@@ -1,3 +1,106 @@
+# 2024-4-15 0 | 0 W
+
+https://www.historyofcomputercommunications.info/
+
+Meaning is all you need.
+
+three things in late 90s
+object oriented programming (dominant codebase)
+graphics user interface (GUI)
+networked computer systems (servers)
+
+What you do when you need something?
+
+if this is posible or not?
+if is not possible -> who tried it? where are the attempt?
+if is possible -> who did it? how they did it? make it better
+
+Science depends on the observable consequences of theories, and
+biology yields testable predictions. Psychology too leads to testable predictions.
+
+History of the computer
+
+electricity and physics pre-1945
+semiconductor and integrated circuits 1950 (bell labs)
+personal computers and operating systems and programming languages 1990
+the web and the internet (gaming) 2000
+the mobile phone (gaming) 2010
+what do we have in 2020? pandemic
+seems like the next things in 2030? is AI?
+
+actually in the 80s because of the big boom of programming languages.
+there was a bunch of scentists which wants to program an AI system.
+
+The sad parts is that academic researchers can't win the fight with entrepreneurs.
+Netscape is the one invent the web, but they don't make the amount of money they deserve.
+Google, Facebook, Netflix, Amazon are the biggest winner of the web and definitely good users of the web.
+We should believe that there is a gap between interface and implementation.
+A good users always won, a good impementor or inventor is just a good user of other things.
+(You can say that the people who invent the web are good users of parsers? layout? typesetting? rendering? networking?)
+They (the inventors of the web) don't invent these things.But they find a good way to fit these kind of beautiful things together.
+
+The same theory applys to me also for ai, may be I don't have thousands of nvidia graphics cards, but the good users always win.
+Be a good user.
+
+
+DARPA
+-> Advanced Research Projects Agency Network
+-> The Mother of All Demos
+-> MIT csail
+-> Internet
+
+Xero Alto (America)
+-> apple (in the late 80s, jobs claims that web is going to be huge many times)
+  -> microsoft
+-> Sun Microsystems Laboratories
+-> Adobe
+
+
+I doubt that we will have another browsers war in any time soon (let's say ten years), because microsoft wanted it in 2014, and ms give it up in 2019. Another reason is that the w3c(render engine) and tc39(js engine) now are more powerful that it was in early 2000s or late 90s (they both founded in late 90s), it's no easier to challege the specs, or if you do a brand new browsers in 2024. 
+
+if you fully commited into the spec, you find it hard to write the code. or if you don't fully commited to it, users may say your system is bad.(maybe not). It's hard to do.
+
+Bell labs (America)
+-> UNIX
+-> semiconductor fun fact the first generation of scientist in the semiconductor industry has all passed way.
+-> Intel
+-> AMD
+-> 
+
+Free Software Movement (Eurpoe) in the era of late 90s
+-> GNU
+-> Linux
+-> web server
+-> Netscape (netscape -> mozilla triggers the open source software movement while at that time microsoft's business model is software liscenising and mozilla losts the first web browsers war)
+
+-> RedHat
+-> apache
+-> mozilla
+-> github
+
+Internet 2000
+- Facebook
+- Google
+- Apple
+- Netflix
+- Amazon
+
+Mobile phone
+
+Tht future
+
+
+
+machine code & assembly
+B(1969) -> C(1972) -> Go by bell labs folks
+
+Apple folks llvm -> objective C -> swift
+
+Microsoft folks C# Typescript
+
+oop C++ 
+
+
 # 2024-4-14 0 | 0 W
 
 A B C D E E E E E E E E 

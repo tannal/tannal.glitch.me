@@ -1,3 +1,152 @@
+# 2024-4-15
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+High-level perception, representation, and analogy: A critique of artificial intelligence methodology | 10.1080/09528139208953747_Scihub
+https://bothonce.com/10.1080/09528139208953747
+
+PWA Overview - Build Progressive Web Apps (PWAs) from Scratch
+https://frontendmasters.com/courses/pwas/pwa-overview/
+
+jdm (Josh Matthews)
+https://github.com/jdm
+
+platform.cpp - mozsearch
+https://searchfox.org/mozilla-central/source/tools/profiler/core/platform.cpp?q=%2Bfunction%3A%22profiler_suspend_and_sample_thread%28int%2C+uint32_t%2C+ProfilerStackCollector+%26%2C+bool%29%22&redirect_type=single#3724
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+how many lines of source code in linux kernel - Google 搜索
+https://www.google.com/search?q=how+many+lines+of+source+code+in+linux+kernel&sca_esv=11d5f1fca19f1e80&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_t5sOdoE7PhK-MIFUs3lxqzxwqDg%3A1713138916315&ei=5GwcZuftEoadvr0PpcS-6AI&ved=0ahUKEwjn77rk88KFAxWGjq8BHSWiDy0Q4dUDCBA&uact=5&oq=how+many+lines+of+source+code+in+linux+kernel&gs_lp=Egxnd3Mtd2l6LXNlcnAiLWhvdyBtYW55IGxpbmVzIG9mIHNvdXJjZSBjb2RlIGluIGxpbnV4IGtlcm5lbDIHECEYChigAUjuFFC0B1jDE3ACeAGQAQCYAfQBoAH6EKoBBTAuOC4zuAEDyAEA-AEBmAINoAKTEcICChAAGEcY1gQYsAPCAgUQIRigAcICCBAAGIAEGKIEwgIIEAAYiQUYogSYAwCIBgGQBgOSBwUyLjguM6AHoh8&sclient=gws-wiz-serp
+
+eunomia-bpf
+https://github.com/eunomia-bpf
+
+Servo with Josh Matthews :: Rustacean Station
+https://rustacean-station.org/episode/josh-matthews/
+
+smalltalk - Google 搜索
+https://www.google.com/search?q=smalltalk&rlz=1C1GCEA_enJP1090JP1090&oq=small&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIJCAEQRRg5GIAEMgwIAhAAGEMYgAQYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPTIGCAcQRRg80gEIMTEzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Self (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Self_(programming_language)
+
+D语言 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/D%E8%AA%9E%E8%A8%80#cite_note-3
+
+The C Programming Language (Second Edition)
+http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf
+
+c language - Google 搜索
+https://www.google.com/search?q=c+language&rlz=1C1GCEA_enJP1090JP1090&oq=c+lang&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgzNTUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+c++ - Google 搜索
+https://www.google.com/search?q=c%2B%2B&rlz=1C1GCEA_enJP1090JP1090&oq=c%2B%2B+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPTIGCAQQRRg9MgYIBRBFGD0yBggGEEUYQTIGCAcQRRhB0gEIMzM1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Robert Noyce - Google 搜索
+https://www.google.com/search?q=Robert+Noyce&rlz=1C1GCEA_enJP1090JP1090&oq=Robert+Noyce&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+who discovered electricity - Google 搜索
+https://www.google.com/search?q=who+discovered+electricity&rlz=1C1GCEA_enJP1090JP1090&oq=who+discovered+ele&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDg5NTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Sun Microsystems - Wikipedia
+https://en.wikipedia.org/wiki/Sun_Microsystems
+
+ChatGPT
+https://chat.openai.com/c/328f396f-f5a0-4f82-8bdf-3fb3a88573e0
+
+仙童半导体 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwLjAyTqlUYDRgdGDw4n-ye-bz1Uuf9nY9Xb_nyd7JAL2nDs8&q=%E4%BB%99%E7%AB%A5%E5%8D%8A%E5%AF%BC%E4%BD%93&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%BB%99%E7%AB%A5&gs_lcrp=EgZjaHJvbWUqEggBEC4YJxjHARjRAxiABBiKBTIGCAAQRRg5MhIIARAuGCcYxwEY0QMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPdIBCDI2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+na&gs_lcrp=EgZjaHJvbWUqEQgAEEUYJxg7GJ0CGIAEGIoFMhEIABBFGCcYOxidAhiABBiKBTIGCAEQRRg5MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAwYgAQyBggHEEUYPNIBCDE1NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Philip%20Johnson-Laird - Google 搜索
+https://www.google.com/search?q=Philip%2520Johnson-Laird&rlz=1C1GCEA_enJP1090JP1090&oq=Philip%2520Johnson-Laird&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Fellow Detail Page | Royal Society
+https://royalsociety.org/people/philip-johnson-laird-11703/
+
+Marvin Minsky - Google 搜索
+https://www.google.com/search?q=Marvin+Minsky&rlz=1C1GCEA_enJP1090JP1090&oq=Marvin+Minsky&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+
+What is Called Thinking - Google 搜索
+https://www.google.com/search?q=What+is+Called+Thinking&rlz=1C1GCEA_enJP1090JP1090&oq=What+is+Called+Thinking&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBBzY1N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Explanation-based learning - Wikipedia
+https://en.wikipedia.org/wiki/Explanation-based_learning
+
+缺省逻辑 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BC%BA%E7%9C%81%E9%80%BB%E8%BE%91
+
+Machine Learning: An Artificial Intelligence Approach | SpringerLink
+https://link.springer.com/book/10.1007/978-3-662-12405-5
+
+High-level perception, representation, and analogy: A critique of artificial intelligence methodology: Journal of Experimental & Theoretical Artificial Intelligence: Vol 4, No 3
+https://www.tandfonline.com/doi/abs/10.1080/09528139208953747
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed/tree/master
+
+Adobe - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Adobe
+
+约翰·沃诺克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E6%B2%83%E8%AB%BE%E5%85%8B
+
+查尔斯·格施克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E6%A0%BC%E6%96%BD%E5%85%8B
+
+Strongtalk - Wikipedia
+https://en.wikipedia.org/wiki/Strongtalk
+
+Google Chrome
+https://www.google.com/googlebooks/chrome/small_06.html
+
+Brett Wilson - Google 搜索
+https://www.google.com/search?q=Brett+Wilson&sca_esv=ebd5555afaf176c5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_aI410A2Z6wAu7SDgZY89jWQ4HsA%3A1713146881747&ei=AYwcZsmSLde5vr0PhOubiA8&ved=0ahUKEwiJl9a6kcOFAxXXnK8BHYT1BvEQ4dUDCBA&uact=5&oq=Brett+Wilson&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEJyZXR0IFdpbHNvbki5AVAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+Brett+Wilson&type=commits
+
+Steve Jobs - The Lost Interview - YouTube
+https://www.youtube.com/watch?v=TRZAJY23xio
+
+Steve Jobs - The Lost Interview - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTRZAJY23xio
+
+Xerox Network Systems - Wikipedia
+https://en.wikipedia.org/wiki/Xerox_Network_Systems#cite_note-FOOTNOTEPelkey20076.10-8
+
+Xerox Network Systems - Wikipedia
+https://en.wikipedia.org/wiki/Xerox_Network_Systems#CITEREFPelkey2007
+
+History of Computer Communication | History of Computer Communications
+https://www.historyofcomputercommunications.info/
+
+Home Page | MIT CSAIL
+https://www.csail.mit.edu/
+
+mit xv6 - Google 搜索
+https://www.google.com/search?q=mit+xv6&sca_esv=958dabc01511d05d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Y5ShbfbIL1iZMxOJ4YsKs8_QT5A%3A1713149930190&ei=6pccZv-dC5vP2roP7e-FqAo&ved=0ahUKEwj_uqTonMOFAxWbp1YBHe13AaUQ4dUDCBA&uact=5&oq=mit+xv6&gs_lp=Egxnd3Mtd2l6LXNlcnAiB21pdCB4djYyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIGEAAYHhgKMgYQABgeGAoyBhAAGB4YCjIKEAAYBRgeGAwYCjIGEAAYBRgeSMwUUABYpBNwAHgBkAEAmAG0AqABzgyqAQcwLjEuNC4yuAEDyAEA-AEBmAIHoAL3DMICChAuGIAEGIoFGEPCAgoQABiABBiKBRhDwgILEC4YgAQYxwEY0QPCAgUQABiABMICGRAuGIAEGIoFGEMYlwUY3AQY3gQY4ATYAQHCAgoQIxiABBiKBRgnwgIEECMYJ8ICBxAAGIAEGAyYAwDiAwUSATEgQLoGBggBEAEYFJIHBzAuMS40LjKgB4Iz&sclient=gws-wiz-serp
+
+互联网工程任务组 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BA%92%E8%81%94%E7%BD%91%E5%B7%A5%E7%A8%8B%E4%BB%BB%E5%8A%A1%E7%BB%84
+
 # 2024-4-14
 
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
