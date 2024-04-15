@@ -3,6 +3,39 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+rust-embedded/rust-raspberrypi-OS-tutorials: :books: Learn to write an embedded OS in Rust :crab:
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/tree/master
+
+rust-objcopy - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rust-objcopy
+
+Rustで組み込み Lチカ #RaspberryPi - Qiita
+https://qiita.com/shoebill_731/items/8e53e10044f3fe686c31
+
+Code search results
+https://github.com/search?q=repo%3Alinebender%2Fdruid%20install&type=code
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+tannal/history - history - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/history
+
+c - How do I use clipboard in GTK? - Stack Overflow
+https://stackoverflow.com/questions/52204996/how-do-i-use-clipboard-in-gtk
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+OpenSmalltalk/opensmalltalk-vm: Cross-platform virtual machine for Squeak, Pharo, Cuis, and Newspeak.
+https://github.com/OpenSmalltalk/opensmalltalk-vm
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Index of /afs/cs/academic/class/15745-s18/www/lectures
 https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/
 
