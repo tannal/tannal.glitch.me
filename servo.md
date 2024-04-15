@@ -1,10 +1,16 @@
 
 # inbox
 
+set logging enabled on
+
 set breakpoint pending on
 rb ::*
 
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/event.html
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/event.html 
 
 
 RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/cascade/inherit-computed-001.html

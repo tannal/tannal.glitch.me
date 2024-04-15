@@ -2,6 +2,10 @@
 
 Type Stmt Expr Decl
 
+gdb --args ./build/bin/clang ~/tannalwork/c-workspace/exe_mmap_linux.c
+rb BasicBlock.cpp:.
+rb Instruction.cpp:.
+
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
 
 

@@ -3,6 +3,66 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Index of /afs/cs/academic/class/15745-s18/www/lectures
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/
+
+Introduction to Data Flow Analysis - L5-Intro-to-Dataflow-pre-class.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L5-Intro-to-Dataflow-pre-class.pdf
+
+llvm/llvm-test-suite
+https://github.com/llvm/llvm-test-suite
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ubuntu/+source/rna-star - [no description]
+https://git.launchpad.net/ubuntu/+source/rna-star
+
+wayland / wayland · GitLab
+https://gitlab.freedesktop.org/wayland/wayland
+
+libmozjs source code - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libmozjs+source+code#ip=1
+
+Stream and listen to music online for free with SoundCloud
+https://soundcloud.com/
+
+(Bug) HTTP/2 error on the YouTube website · Issue #32073 · servo/servo
+https://github.com/servo/servo/issues/32073
+
+gdb set log - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=gdb+set+log
+
+Short videos dispatch loadedmetadata before the metadata is present · Issue #31415 · servo/servo
+https://github.com/servo/servo/issues/31415
+
+video_size_preserved_after_ended.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html
+
+build(deps): bump h2 from 0.3.25 to 0.3.26 by dependabot[bot] · Pull Request #31999 · servo/servo
+https://github.com/servo/servo/pull/31999/files
+
+Code search results
+https://github.com/search?q=repo%3Ahyperium%2Fh2+request&type=code&p=2
+
+How to do an HTTP2 request with H2 using the new async-await syntax in Rust? - Stack Overflow
+https://stackoverflow.com/questions/57307892/how-to-do-an-http2-request-with-h2-using-the-new-async-await-syntax-in-rust
+
+http - Rust
+https://docs.rs/http/latest/http/
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+tannalwork/books 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/books
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
 https://www.wired.com/2008/09/mf-chrome/
 

@@ -1,5 +1,9 @@
 # 2024-4-15 0 | 0 W
 
+git pull -X theirs origin main
+
+sudo stackcount-bpfcc -p 3491 -i 2 --debug "*drm_context_switch*"
+
 https://www.historyofcomputercommunications.info/
 
 Meaning is all you need.
