@@ -80,12 +80,15 @@ Free Software Movement (Eurpoe) in the era of late 90s
 
 Internet 2000
 - Facebook
-- Google
+-> Google
+->->Android
 - Apple
+->->ios
 - Netflix
 - Amazon
 
 Mobile phone
+
 
 Tht future
 
