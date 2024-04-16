@@ -1,5 +1,12 @@
 # 2024-4-16 0 | 0 W
 
+how many line of codes you written?
+how many line of codes are in production now?
+
+How better you are is defined by how much fatansitic things that you have done before.
+Not your degree, not by face, not by size. 
+Tell others about your story, what you done before? Why you are an amazing person?
+
 The people who steal others algorithm blame the people steam other's code.
 
 javac -encoding utf8 Solution.java

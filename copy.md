@@ -1,5 +1,7 @@
 # Good artists copy, great artists steal.
 
+personal blog v2 https://github.com/patrickscoleman/pscoleman-blog
+
 browser extensions https://github.com/chibat/chrome-extension-typescript-starter.git
 
 firefox browser extension get open tabs https://github.com/alct/export-tabs-urls.git
@@ -21,7 +23,7 @@ https://github.com/brown-cs1690/uthreads-2024-tannal
 
 
 
-blog https://github.com/NotWoods/tigeroakes.com
+perosnal website https://github.com/NotWoods/tigeroakes.com
 
 
 https://github.com/go-gitea/gitea
