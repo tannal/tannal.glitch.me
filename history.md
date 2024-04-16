@@ -3,6 +3,189 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+Tiger Oakes
+http://localhost:8000/#contact
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+On Relearning to Code as an Adult
+https://pscoleman.me/posts/relearning-to-code#so-what-s-next-on-my-coding-journey
+
+patrickscoleman/pscoleman-blog
+https://github.com/patrickscoleman/pscoleman-blog
+
+patrickscoleman/pscoleman-blog
+https://github.com/patrickscoleman/pscoleman-blog
+
+336. 回文对 - 力扣（LeetCode）
+https://leetcode.cn/problems/palindrome-pairs/description/
+
+ChatGPT
+https://chat.openai.com/c/f52ef7ec-8a52-44e6-af53-389706c7f9d4
+
+utf 8 - Compiling (javac) a UTF8 encoded Java source code with a BOM - Stack Overflow
+https://stackoverflow.com/questions/9811382/compiling-javac-a-utf8-encoded-java-source-code-with-a-bom
+
+Excalidraw
+https://excalidraw.com/
+
+RFC: Font system redesign · Issue #32033 · servo/servo
+https://github.com/servo/servo/issues/32033
+
+检索-中国知网
+https://kns.cnki.net/kns8s/defaultresult/index?crossids=YSTT4HG0%2CLSTPFY1C%2CJUP3MUPD%2CMPMFIG1A%2CWQ0UVIAA%2CBLZOG7CK%2CEMRPGLPA%2CPWFIRAGL%2CNLBO1Z6R%2CNN3FJMUV&korder=SU&kw=%E9%94%AE%E5%80%BC%E5%AF%B9%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F
+
+高性能高可靠的键值存储系统研究 - 中国知网
+https://kns.cnki.net/kcms2/article/abstract?v=wcPNn8Zia7MI_ZCzfEmA_4-EAu3I9fWReyCRG75v1_U8TwkbTVdit99E-MJ2WyL3T_o5z-5LtJtjQE61iYV1Ub7AQPgVp6lxRjvRD9aFA6Ln_L2XtiK2lUFPo4_H_f0xyBO3dd4GaF9W0QUZ8pc40Q==&uniplatform=NZKPT&language=CHS
+
+基于LSM树的键值存储系统技术研究综述 - 中国知网
+https://kns.cnki.net/kcms2/article/abstract?v=wcPNn8Zia7PfF50nH-AaFhp9F0nq8wBoE439Uuo6NsMgkrzo2ZVkCZT7gZyDRrgPmSIkmRyCH95iEJYZ5vjMnzGJAcUQCjX3D9UdEKExNlqFtE8nlOTHr0sph5WwfIfK_5dPhR7nLq9pYNtRmLSlmQ==&uniplatform=NZKPT&language=CHS
+
+Lichtenberg figure - Wikipedia
+https://en.wikipedia.org/wiki/Lichtenberg_figure
+
+I made a Compiler in 25 Days - Here is what I learned - YouTube
+https://www.youtube.com/watch?v=l3AeN4wQirE
+
+NotWoods (Tiger Oakes)
+https://github.com/NotWoods
+
+GitHub Actions: Run step on specific OS - Stack Overflow
+https://stackoverflow.com/questions/57946173/github-actions-run-step-on-specific-os
+
+tannal/tanmeng.org - tanmeng.org - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tanmeng.org/actions/runs/24
+
+How do I set an env var with a bash expression in GitHub Actions? - Stack Overflow
+https://stackoverflow.com/questions/57968497/how-do-i-set-an-env-var-with-a-bash-expression-in-github-actions
+
+Tiger Oakes
+http://localhost:8000/
+
+windows copy a directory recursively and replace - Google 搜索
+https://www.google.com/search?q=windows+copy+a+directory+resursively+and+replase&rlz=1C1GCEA_enJP1090JP1090&oq=windows+copy+a+directory+resursively+and+replase&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAHSAQg5NzI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+doc: Update fs.read() documentation for clarity by mertcanaltin · Pull Request #52453 · nodejs/node
+https://github.com/nodejs/node/pull/52453
+
+Inject javascript from content script with a chrome extension v3 - Stack Overflow
+https://stackoverflow.com/questions/70474845/inject-javascript-from-content-script-with-a-chrome-extension-v3
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byDate&type=story
+
+How programs get run [LWN.net]
+https://lwn.net/Articles/630727/
+
+[css-pseudo-4] Add highlight pseudo for in-page search · Issue #3812 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/3812
+
+[css-pseudo-4] single highlight pseudo for find-in-page? · Issue #10212 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10212
+
+bucket.daz.cat/work/igalia/0/65.html
+https://bucket.daz.cat/work/igalia/0/65.html
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/multipage/notational-conventions.html#sec-returnifabrupt
+
+[css-cascade-6] Specificity of Implicitly-Added `:scope` in Scoped Rules · Issue #10196 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10196
+
+#general > Servo blog and wiki: SM report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20blog.20and.20wiki.3A.20SM.20report
+
+JavaScript: Servo's only garbage collector - Mozilla Research
+https://research.mozilla.org/2014/08/26/javascript-servos-only-garbage-collector/
+
+Enable desktop mode as the User-Agent by HollowMan6 · Pull Request #1012 · Igalia/wolvic
+https://github.com/Igalia/wolvic/pull/1012
+
+Implement contenteditable content attribute · Issue #12776 · servo/servo
+https://github.com/servo/servo/issues/12776
+
+ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+https://github.com/ckeditor/ckeditor5/tree/master
+
+(Debug request) Add a way to copy the renderer log · Issue #32091 · servo/servo
+https://github.com/servo/servo/issues/32091
+
+Add a button to copy the stack trace when there is a crash · Issue #30366 · servo/servo
+https://github.com/servo/servo/issues/30366
+
+ehsan (Ehsan Akhgari)
+https://github.com/ehsan
+
+Allow persistent storage of LaunchDarkly flags so that they can be restored at startup · Issue #256 · launchdarkly/node-server-sdk
+https://github.com/launchdarkly/node-server-sdk/issues/256
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=deno%20node&sort=byPopularity&type=story
+
+WeakRef has slow performance. & degrades runtime performance on NodeJS & Deno [333584632] - Chromium
+https://issues.chromium.org/issues/333584632
+
+Memory Leaks & Memory Heap Snapshots - Introduction to Dev Tools, v3
+https://frontendmasters.com/courses/dev-tools/memory-leaks-memory-heap-snapshots/
+
+Learn Chrome Dev Tools to Debug and Optimize Sites | Frontend Masters
+https://frontendmasters.com/courses/dev-tools/
+
+jkup/mastering-chrome-devtools: :fire: Website for teaching Chrome DevTools
+https://github.com/jkup/mastering-chrome-devtools
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+html - How do browsers decide where selected text is? - Stack Overflow
+https://stackoverflow.com/questions/30427939/how-do-browsers-decide-where-selected-text-is
+
+Hello World
+http://localhost:3000/
+
+tannal/scroll - scroll - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/scroll
+
+node.js - How to use the NODE_OPTIONS environment variable to set the max_old_space_size globally in Windows? - Stack Overflow
+https://stackoverflow.com/questions/56742334/how-to-use-the-node-options-environment-variable-to-set-the-max-old-space-size-g
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Excalidraw
+https://excalidraw.com/
+
+javascript - Why should HTML DOM properties be reflected into HTML DOM attributes as well? - Stack Overflow
+https://stackoverflow.com/questions/45471677/why-should-html-dom-properties-be-reflected-into-html-dom-attributes-as-well
+
+rust-gdb set breakpoints in all the functions in a file · Issue #124009 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/124009
+
+eerii/hello-bevy: template for bevy games 🦀
+https://github.com/eerii/hello-bevy?tab=readme-ov-file
+
+De-rendering Stylized Texts
+https://cyberagentailab.github.io/derendering-text/
+
+glyph-renderer/glyph: Open-source code example of GLSL rendering of glyphs
+https://github.com/glyph-renderer/glyph
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 cs5460/6460 Operating Systems (Spring 2024) - Lecture 12 - Synchronization - YouTube
 https://www.youtube.com/watch?v=6IYsOZf40bQ
 

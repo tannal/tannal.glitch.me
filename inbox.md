@@ -1,5 +1,14 @@
 # 2024-4-16 0 | 0 W
 
+code owner of the gecko contenteditable
+https://github.com/ehsan
+
+involves:ehsan
+involves:joyeecheung
+involves:emilio
+involves:gterzian
+involves:jdm
+
 how many line of codes you written?
 how many line of codes are in production now?
 
