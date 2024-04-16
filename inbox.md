@@ -1,5 +1,14 @@
 # 2024-4-16 0 | 0 W
 
+sudo apt install libdbus-glib-1-dev
+
+gcc try-dbus.c -o try-dbus `pkg-config --libs --cflags dbus-1 glib-2.0 gobject-2.0 dbus-glib-1`
+gcc dbus-example.c -o dbus-example `pkg-config --libs --cflags dbus-1 glib-2.0 gobject-2.0 dbus-glib-1`
+
+pkg-config --cflags gobject-2.0
+pkg-config --libs gobject-2.0
+
+
 git clone https://github.com/libbpf/libbpf-bootstrap.git
 
 code owner of the gecko contenteditable
