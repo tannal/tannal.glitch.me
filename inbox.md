@@ -1,12 +1,20 @@
+# 2024-4-16 0 | 0 W
+
+The people who steal others algorithm blame the people steam other's code.
+
+javac -encoding utf8 Solution.java
+
+So the memory used when calling a function is working memory, 
+
+the state of the object is actually acquired by experience, and it's size can be very big.
+
 # 2024-4-15 0 | 0 W
 
 is:issue is:closed reason:completed 
 
 cargo add --git https://github.com/servo/html5ever
 
-
 cargo add --git https://github.com/y-crdt/y-crdt y-crdt
-
 
 find meanings in partial truth
 
