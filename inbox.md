@@ -1,5 +1,7 @@
 # 2024-4-16 0 | 0 W
 
+git clone https://github.com/libbpf/libbpf-bootstrap.git
+
 code owner of the gecko contenteditable
 https://github.com/ehsan
 

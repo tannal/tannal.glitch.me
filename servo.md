@@ -1,6 +1,8 @@
 
 # inbox
 
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://youtube.com
+
 set logging enabled on
 
 set breakpoint pending on

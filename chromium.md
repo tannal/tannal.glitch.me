@@ -1,5 +1,291 @@
 # inbox
 
+
+LinkStyle knows css parser and parser_context also the result of parsing which is style_sheet
+
+the Resource will notify some ResourceClient when reousrce is loaded.
+while LinkStyle is one of the ResourceClient. and it is also LinkResource
+
+StyleSheetContents knows CSSParser::ParseSheet
+
+CSSParserImpl has some knoledge of its document, document->view
+also a reference to CSSParserImpl
+also a reference to tokenizer
+it can take CSSParserContext and css string to a StyleSheetContents which is style_sheet
+
+```cpp
+
+  CSSTokenizer tokenizer(string);
+  CSSParserTokenStream stream(tokenizer);
+  CSSParserImpl parser(context, style_sheet);
+
+  parser.ConsumeRuleList
+```
+
+the page has a reference to a chrome_client_
+
+start from LayoutView class
+there is a super long extends chian
+LayoutView -> LayoutNGBlockFlow -> LayoutBlockFlow -> LayoutBlock -> LayoutBox -> LayoutBoxModelObject -> LayoutObject and more.
+
+layout_view_ has a reference to a ComputedStyle which is style_
+it can apply the ComputedStyle to 
+
+the document object has a reference to a layout_view_
+
+dom node object can find his document object by some tree_scope stuff.
+
+the layoutObject base class has a reference to the dom node
+so a layoutobject node can find which document it belongs to.
+
+
+
+the document loader which also has a reference to LocalFrame
+also has reference to DocumentParser
+and the document loader knows nothing about v8
+
+the document has a reference to LocalDOMWindow which has frame which has LocalFrameView
+
+
+
+throttle debounce
+ShouldThrottleRendering
+
+LocalDOMWindow has the rendering information about the client's window.
+also has a reference to document_ and DOMVisualViewport
+just like dom window, all the layout scrolling information come from this object.
+also has script_controller_
+
+the LocalFrame has a reference to LocalDOMWindow 
+also a reference to a page
+also a reference to a LayoutView
+
+so the LocalFrameView has localframe and the LocalFrame has a view_
+confusing
+
+LocalFrameView has a reference to a localframe and things like scrolling
+document and layout information is typically obatined by the localframe object.
+
+LocalFrame knows some thing about LocalFrameView
+actually a LocalFrameView is a full local frame plus some knowledge of the viewport
+
+frameloader also has a reference to a LocalFrame which is frame_
+in the code it is called the client
+class CORE_EXPORT LocalFrameClientImpl final : public LocalFrameClient {
+
+A LocalFrame has a reference to a frameloader which is loader_
+
+WebLocalFrameImpl has a reference to LocalFrame which is frame_
+
+RenderFrameImpl knows about WebLocalFrame which is WebLocalFrameImpl
+
+AgentSchedulingGroup also knows about RenderFrameImpl which is RenderFrameImpl
+
+AgentSchedulingGroup has a reference to render_thread_
+
+rb skia_renderer.cc:.
+
+printf "%s\n",  attr_name.Latin1().data()
+
+
+WidgetInputHandlerManager has a reference to web_frame_widget_impl
+
+web_frame_widget_impl has a reference to widget_event_handler
+
+widget_event_handler has a reference to event_handler_
+
+event_handler has a reference to pointer_event_manager
+and mouse_event_manager_ keyboard_event_manager_
+
+```cpp
+EventHandler::EventHandler(LocalFrame& frame)
+    : frame_(frame),
+      selection_controller_(MakeGarbageCollected<SelectionController>(frame)),
+      hover_timer_(frame.GetTaskRunner(TaskType::kUserInteraction),
+                   this,
+                   &EventHandler::HoverTimerFired),
+      cursor_update_timer_(
+          frame.GetTaskRunner(TaskType::kInternalUserInteraction),
+          this,
+          &EventHandler::CursorUpdateTimerFired),
+      should_only_fire_drag_over_event_(false),
+      event_handler_registry_(
+          frame_->IsLocalRoot()
+              ? MakeGarbageCollected<EventHandlerRegistry>(*frame_)
+              : &frame_->LocalFrameRoot().GetEventHandlerRegistry()),
+      scroll_manager_(MakeGarbageCollected<ScrollManager>(frame)),
+      mouse_event_manager_(
+          MakeGarbageCollected<MouseEventManager>(frame, *scroll_manager_)),
+      mouse_wheel_event_manager_(
+          MakeGarbageCollected<MouseWheelEventManager>(frame,
+                                                       *scroll_manager_)),
+      keyboard_event_manager_(
+          MakeGarbageCollected<KeyboardEventManager>(frame, *scroll_manager_)),
+      pointer_event_manager_(
+          MakeGarbageCollected<PointerEventManager>(frame,
+                                                    *mouse_event_manager_)),
+      gesture_manager_(
+          MakeGarbageCollected<GestureManager>(frame,
+                                               *scroll_manager_,
+                                               *mouse_event_manager_,
+                                               *pointer_event_manager_,
+                                               *selection_controller_)),
+      active_interval_timer_(frame.GetTaskRunner(TaskType::kUserInteraction),
+                             this,
+                             &EventHandler::ActiveIntervalTimerFired) {}
+```
+
+There are some static methods in html_element.cc it's kind of strange.
+eg HTMLElement::HandlePopoverLightDismiss
+
+[domattribute]forbinding is a callback when js/v8 access a attribute of a dom object
+rb local_frame_view.cc:.
+
+printf "%s\n",  text.Latin1().data()
+
+tokenizer has a state and buffer
+the buffer is a substr of input at i, j
+then state says what's in the buffer
+
+```cpp
+
+  enum State {
+    kDataState,
+    kCharacterReferenceInDataState,
+    kRCDATAState,
+    kCharacterReferenceInRCDATAState,
+    kRAWTEXTState,
+    kChildNodePartStartState,
+    kChildNodePartEndState,
+    kScriptDataState,
+    kPLAINTEXTState,
+    kTagOpenState,
+    kEndTagOpenState,
+    kTagNameState,
+    kRCDATALessThanSignState,
+    kRCDATAEndTagOpenState,
+    kRCDATAEndTagNameState,
+    kRAWTEXTLessThanSignState,
+    kRAWTEXTEndTagOpenState,
+    kRAWTEXTEndTagNameState,
+    kScriptDataLessThanSignState,
+    kScriptDataEndTagOpenState,
+    kScriptDataEndTagNameState,
+    kScriptDataEscapeStartState,
+    kScriptDataEscapeStartDashState,
+    kScriptDataEscapedState,
+    kScriptDataEscapedDashState,
+    kScriptDataEscapedDashDashState,
+    kScriptDataEscapedLessThanSignState,
+    kScriptDataEscapedEndTagOpenState,
+    kScriptDataEscapedEndTagNameState,
+    kScriptDataDoubleEscapeStartState,
+    kScriptDataDoubleEscapedState,
+    kScriptDataDoubleEscapedDashState,
+    kScriptDataDoubleEscapedDashDashState,
+    kScriptDataDoubleEscapedLessThanSignState,
+    kScriptDataDoubleEscapeEndState,
+    kBeforeAttributeNameState,
+    kAttributeNameState,
+    kAfterAttributeNameState,
+    kBeforeAttributeValueState,
+    kAttributeValueDoubleQuotedState,
+    kAttributeValueSingleQuotedState,
+    kAttributeValueUnquotedState,
+    kCharacterReferenceInAttributeValueState,
+    kAfterAttributeValueQuotedState,
+    kSelfClosingStartTagState,
+    kBogusCommentState,
+    // The ContinueBogusCommentState is not in the HTML5 spec, but we use
+    // it internally to keep track of whether we've started the bogus
+    // comment token yet.
+    kContinueBogusCommentState,
+    kMarkupDeclarationOpenState,
+    kCommentStartState,
+    kCommentStartDashState,
+    kCommentState,
+    kCommentEndDashState,
+    kCommentEndState,
+    kCommentEndBangState,
+    kDOCTYPEState,
+    kBeforeDOCTYPENameState,
+    kDOCTYPENameState,
+    kAfterDOCTYPENameState,
+    kAfterDOCTYPEPublicKeywordState,
+    kBeforeDOCTYPEPublicIdentifierState,
+    kDOCTYPEPublicIdentifierDoubleQuotedState,
+    kDOCTYPEPublicIdentifierSingleQuotedState,
+    kAfterDOCTYPEPublicIdentifierState,
+    kBetweenDOCTYPEPublicAndSystemIdentifiersState,
+    kAfterDOCTYPESystemKeywordState,
+    kBeforeDOCTYPESystemIdentifierState,
+    kDOCTYPESystemIdentifierDoubleQuotedState,
+    kDOCTYPESystemIdentifierSingleQuotedState,
+    kAfterDOCTYPESystemIdentifierState,
+    kBogusDOCTYPEState,
+    kCDATASectionState,
+    kCDATASectionBracketState,
+    kCDATASectionEndState,
+  };
+
+```
+
+printf "%s\n",  decoded.Latin1().data()
+
+the document parser hold a tokenier and the input stream
+
+when some one give some code to parser the parser just (maybe decode it first)
+then append it to the inputstream 
+
+
+ln -sfn out/Default/gen gen
+
+HTMLTokenizer::NextToken takes a input source which is a segmentedString
+first check state
+
+document_loader has a reference to document
+
+document has a reference to html_document_parser
+
+html_document_parser has a refernce to html_tree_builder.cc
+
+html_tree_builder -> HTMLTreeBuilder
+
+HTMLTreeBuilder has a reference to html_document_parser
+
+htmlDocumentParser has a reference to HTMLTokenizer
+
+HTMLTokenizer is a simple class because it's constructor params doesn't contains any complex object(just a options).
+
+it has some state
+temporary_buffer_
+buffered_end_tag_name_
+
+set logging enabled on
+
+we actaully think about things one object at a time.
+
+object has state
+
+if a method doesn't change the state of a object (const)
+for complex operations the object state might change
+
+when design programs
+object state
+
+then design a method
+
+a method a both read the state of it and write the state of it.
+also for functions input and output, the same, can both write it and read it.
+
+A object is basic a turing machine with limited state.
+
+all methods of the object are the actually program to run.
+
+a special case is that the constructor method, in the constructor, the object has no state, so any constuctor of a object is just remember some state, which will be used in the further.
+
+rb third_party/blink/renderer/core/html/parser/html_construction_site.cc:.
+
 rb eventloop.cc:.
 
 ./out/Default/chrome ~/tannalwork/cans/event.html --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt

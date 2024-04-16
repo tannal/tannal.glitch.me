@@ -1,10 +1,16 @@
 # inbox
 
+the preproccessor holds the reference of lexer in llvm
+
 Type Stmt Expr Decl
 
 gdb --args ./build/bin/clang ~/tannalwork/c-workspace/exe_mmap_linux.c
 rb BasicBlock.cpp:.
 rb Instruction.cpp:.
+rb TokenLexer.cpp:.
+rb Preprocessor.cpp:.
+
+set follow-fork-mode child
 
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
 
@@ -29,7 +35,7 @@ TraslationUnit
   - Ret Stmt
 
 programming languages and their compilers
-https://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf
+https://www.softwarepretrvation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf
 
 https://github.com/llvm/llvm-project/blob/8389b3bf60ef3fbd04c6efc5ff4d4605d10e7fc5/llvm/include/llvm/IR/CFG.h#L42
 PredIterator
