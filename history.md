@@ -1,3 +1,152 @@
+# 2024-4-16
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 12 - Synchronization - YouTube
+https://www.youtube.com/watch?v=6IYsOZf40bQ
+
+(5 封私信 / 28 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+y-crdt/ypy: Python bindings to y-crdt
+https://github.com/y-crdt/ypy
+
+Steve Jobs - The Lost Interview - YouTube
+https://www.youtube.com/watch?v=TRZAJY23xio
+
+BrEacK - YouTube
+https://www.youtube.com/@breack1652/videos
+
+Issues · servo/html5ever
+https://github.com/servo/html5ever/issues
+
+FFmpeg/libavutil/mem.c at 5e380bcdb13dd47ce9c358a4edb281f05fde3f24 · FFmpeg/FFmpeg
+https://github.com/FFmpeg/FFmpeg/blob/5e380bcdb13dd47ce9c358a4edb281f05fde3f24/libavutil/mem.c#L247
+
+steve wozniak - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwqzTMMWD04i0uSS1LVSjPr8rLTMwGAF-uCCw&q=steve+wozniak&rlz=1C1GCEA_enJP1090JP1090&oq=steve+woz&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIGCAkQRRg70gEIMzE0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+paul allen - Google 搜索
+https://www.google.com/search?q=paul+allen&rlz=1C1GCEA_enJP1090JP1090&oq=paul+allen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+oracle - Google 搜索
+https://www.google.com/search?q=oracle+&sca_esv=53c7ec7a1c5e8865&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09H9sroGRkjrweZjdELKHswSVtQJQ%3A1713160209503&ei=EcAcZpCiHqnn2roP4ra6oAQ&ved=0ahUKEwjQ7uuNw8OFAxWps1YBHWKbDkQQ4dUDCBA&uact=5&oq=oracle+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB29yYWNsZSAyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANImAVQrQNYrQNwAXgAkAEAmAHbAaAB2wGqAQMyLTG4AQPIAQD4AQGYAgGgAg2YAwCIBgGQBgqSBwExoAfDBQ&sclient=gws-wiz-serp
+
+john scully - Google 搜索
+https://www.google.com/search?q=john+scully&rlz=1C1GCEA_enJP1090JP1090&oq=john+scully&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQLhgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyBggGEAAYHjIGCAcQABgeMgYICBAAGB7SAQgxNTEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Steve%20Jobs%20-%20The%20Lost%20Interview&sort=byPopularity&type=story
+
+Triumph of the Nerds - Wikipedia
+https://en.wikipedia.org/wiki/Triumph_of_the_Nerds
+
+Robert X. Cringely - Wikipedia
+https://en.wikipedia.org/wiki/Robert_X._Cringely
+
+Triumph of the Nerds - Wikipedia
+https://en.wikipedia.org/wiki/Triumph_of_the_Nerds
+
+documentary - Google 搜索
+https://www.google.com/search?q=documentary+&sca_esv=a7538646d89f3244&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Vq8QDOlBzym_ISxJv1yuhdXX2NA%3A1713161956073&ei=5MYcZoqOBKPe1e8Pobe3iAU&ved=0ahUKEwiKkNbOycOFAxUjb_UHHaHbDVEQ4dUDCBA&uact=5&oq=documentary+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGRvY3VtZW50YXJ5IDIHECMYsQIYJzIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUizEFDbDVjbDXADeAGQAQCYAfgBoAH4AaoBAzItMbgBA8gBAPgBAZgCBKACjgLCAgoQABhHGNYEGLADmAMA4gMFEgExIECIBgGQBgqSBwUzLjAuMaAHjAc&sclient=gws-wiz-serp
+
+Elixir: A Mini-Documentary [video] | Hacker News
+https://news.ycombinator.com/item?id=17513812
+
+eBPF Documentary
+https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html
+
+facebookincubator/katran: A high performance layer 4 load balancer
+https://github.com/facebookincubator/katran?tab=readme-ov-file
+
+四层负载均衡漫谈 | 卡瓦邦噶！
+https://www.kawabangga.com/posts/5301
+
+CoreDNS: DNS and Service Discovery
+https://coredns.io/
+
+cilium/cilium: eBPF-based Networking, Security, and Observability
+https://github.com/cilium/cilium
+
+介绍 - Cilium学习笔记
+https://skyao.io/learning-cilium/introduction/
+
+eBPF - Introduction, Tutorials & Community Resources
+https://ebpf.io/get-started/#docs
+
+ChatGPT
+https://chat.openai.com/c/61af5a67-b011-4611-af44-bc8fd1ea77d8
+
+ebpf loader - Google 搜索
+https://www.google.com/search?q=ebpf+loader&rlz=1C1GCEA_enJP1090JP1090&oq=ebpf+loader&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAwYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMjk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+clang - asm/types.h Error during compilation of ebpf code - Stack Overflow
+https://stackoverflow.com/questions/77454504/asm-types-h-error-during-compilation-of-ebpf-code
+
+clang target bpf errors - Google 搜索
+https://www.google.com/search?q=clang+target+bpf+errors&sca_esv=df9114d5be7f4ca8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08-mr56fHCvERwQ_l1cruMIf8Zs-w%3A1713165295469&ei=79McZvuhHLH21e8PmseoqAU&ved=0ahUKEwi71YKH1sOFAxUxe_UHHZojClUQ4dUDCBA&uact=5&oq=clang+target+bpf+errors&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2NsYW5nIHRhcmdldCBicGYgZXJyb3JzMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESIsUUOYFWJwTcAF4AJABAJgB4QGgAZMLqgEFMC4yLjW4AQPIAQD4AQGYAgegAt4JwgIKEAAYRxjWBBiwA8ICBBAAGB7CAgUQIRigAcICBxAhGAoYoAGYAwCIBgGQBgqSBwUxLjIuNKAHqw8&sclient=gws-wiz-serp#ip=1
+
+Repository search results
+https://github.com/search?q=server+language%3AElixir+&type=repositories&p=3
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+Azure OpenAI GPT-4 Application
+https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xURjE4QlhVUERGQ1NXOTlNT0w1NldTWjJCMSQlQCN0PWcu
+
+Lifetimes - The Rust Programming Language
+https://frontendmasters.com/courses/rust/lifetimes/
+
+global state in programming - Google 搜索
+https://www.google.com/search?q=global+state+in+programming&sca_esv=df9114d5be7f4ca8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09BPnMWs-14sM90482tn_LpztSNxA%3A1713168824598&ei=uOEcZoKFJI3b1e8Ps7Ok-As&ved=0ahUKEwiCweuZ48OFAxWNbfUHHbMZCb8Q4dUDCBA&uact=5&oq=global+state+in+programming&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2dsb2JhbCBzdGF0ZSBpbiBwcm9ncmFtbWluZzIHECEYChigATIHECEYChigAUi-FlCvBFjXFXABeAGQAQCYAdEBoAH8FKoBBTAuOS41uAEDyAEA-AEBmAIPoAKfFcICChAAGEcY1gQYsAPCAggQABiABBjLAcICBBAAGB7CAgYQABgeGA_CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcFMS45LjWgB_Yq&sclient=gws-wiz-serp
+
+class state vs global state - Google 搜索
+https://www.google.com/search?q=class+state+vs+global+state&rlz=1C1GCEA_enJP1090JP1090&oq=class+state+vs+global+state&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQg2MTEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Pseudo-classes - Complete Intro to Web Development, v3
+https://frontendmasters.com/courses/web-development-v3/introduction/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Issues · tokio-rs/tokio
+https://github.com/tokio-rs/tokio/issues?q=is%3Aissue+is%3Aclosed+reason%3Acompleted+
+
+rust - What is an acceptable approach to dragging sprites with Bevy 0.4? - Stack Overflow
+https://stackoverflow.com/questions/65396065/what-is-an-acceptable-approach-to-dragging-sprites-with-bevy-0-4
+
+deno/rust-toolchain.toml at main · denoland/deno
+https://github.com/denoland/deno/blob/main/rust-toolchain.toml
+
+Feature selection in workspace depends on the set of packages compiled · Issue #4463 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/4463
+
+(2) #checkins > Raph Levien - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Raph.20Levien
+
+I want a good parallel computer - Google 幻灯片
+https://docs.google.com/presentation/d/1t0thM3jN5on6fsnzIZQdc-6w59PvGZS4nVmCKwzIr24/edit#slide=id.g26e324406e1_0_0
+
+linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+as long as you love me - Google 搜索
+https://www.google.com/search?q=as+long+as+you+love+me&sca_esv=b153c82eb27ce53b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-Za50o62AOF_9_9eRA_aasLqn7MQ%3A1713191642071&ei=2jodZs_gA5Or0-kP1PS40AY&gs_ssp=eJzj4tFP1zcsNM0yTCo2SzNg9BJLLFbIyc9LVwDSlfmlQHZZqkJuKgDg3Qwt&oq=as+long&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2FzIGxvbmcqAggAMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQJI6kdQ8x1YpT9wA3gBkAEAmAHnAaABjw-qAQUwLjIuN7gBA8gBAPgBAZgCDaAC1BeoAgzCAgoQABhHGNYEGLADwgIKECMYgAQYigUYJ8ICChAuGIAEGIoFGEPCAgoQABiABBiKBRhDwgIFEAAYgATCAgsQLhiABBjHARjRA8ICBBAjGCfCAgcQIxjqAhgnwgIUEAAYgAQY4wQY6QQY6gIYtALYAQHCAgsQLhiABBjHARivAcICDRAuGIAEGAwYxwEYrwHCAgUQLhiABMICBxAuGIAEGAzCAgcQABiABBgMwgINEC4YgAQYDBjHARjRA8ICChAuGIAEGAwY1ALCAhQQLhiABBiXBRjcBBjeBBjgBNgBApgDBIgGAZAGBboGBggBEAEYAboGBggCEAEYFJIHCTMuMC45LjYtMaAH14kB&sclient=gws-wiz-serp#wptab=si:AKbGX_rdaVK-rhf5KHnOAD2drrRmADv7R3TkES869sRtvhJtAOFIxRuJ9oGiG6TvSdbxEwia7OtQBLtY5NACGPqfpy8hFw7XF4FyjBA1L5Q8IhBmDgUQv_C-YNaQgb2GP1qFmUWQ8uUFbirnALSzcI1JPN0iIzgwgBP3KGlXQo9MzvuYSLmpW6teGkODp_w4wxGsICPsHEAG
+
+西域男孩英文 - Google 搜索
+https://www.google.com/search?sca_esv=b153c82eb27ce53b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_w1tss6nlXghKkY2XZwxabIx1QAQ:1713192661475&q=%E8%A5%BF%E5%9F%9F%E7%94%B7%E5%AD%A9%E8%8B%B1%E6%96%87&sa=X&sqi=2&pjf=1&ved=2ahUKEwj2jpOAvMSFAxVAhq8BHYWDAtoQ1QJ6BAhaEAE&biw=1536&bih=703&dpr=1.25
+
+marshmello happier歌词 - Google 搜索
+https://www.google.com/search?q=marshmello+happier%E6%AD%8C%E8%AF%8D&rlz=1C1GCEA_enJP1090JP1090&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQLhjUAhiABDIHCAIQLhiABDIKCAMQLhjUAhiABDINCAQQLhjHARjRAxiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABNIBCDYyMTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&si=AKbGX_rtvl4gHjpzPKpYolykTK-DwT7ha6dJftcynCd9eVgGN0Fxv1U9w4a8OKPmTXLV-G1Q0DymiuLINCw79jhdO6OrSlrlrzjZ1TrmnYMnrUDMp4xNJRD2Gw5N8QUa3M-UbmPG-L0Ioe0oV9x2unnxYzmRIj-e1pRQgLmGiYhDmpuyzJAPzoE%3D&ictx=1&ved=2ahUKEwjW0b6YvsSFAxWLm68BHUVkDbcQjukCegQIRBAC
+
 # 2024-4-15
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -42,3 +42,4 @@ I debug linux kernel.While linux kernel is hard, i learn xv6 for os.and transfer
 You can't learn os without knowing computer architecture, so i know x86 and arm pertty well.
 
 
+I do some ebpf.

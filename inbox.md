@@ -1,5 +1,17 @@
 # 2024-4-15 0 | 0 W
 
+is:issue is:closed reason:completed 
+
+cargo add --git https://github.com/servo/html5ever
+
+
+cargo add --git https://github.com/y-crdt/y-crdt y-crdt
+
+
+find meanings in partial truth
+
+cargo add --git https://github.com/y-crdt/y-crdt y-crdt
+
 git pull -X theirs origin main
 
 sudo stackcount-bpfcc -p 3491 -i 2 --debug "*drm_context_switch*"
