@@ -137,12 +137,62 @@ console.log(utf8_string); // Output: 汉字
             "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
             "a":[
                 [
+                   "192.168.43.246",
+                   "100"
+                ]
+            ],
+            "aaaa": [
+                [
+                  "fe80::2c4:dfee:ffc0:8d4",
+                  "100"
+                ],
+                [
+                  "fe80::2c4:dfee:ffc0:8d4",
+                  "10"
+                ],
+                [
+                  "fe80::2c4:dfee:ffc0:8d4",
+                  "10"
+                ]
+              ]
+        },
+        "git": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
                    "192.168.43.62",
                    "100"
                 ]
             ]
         },
-        "git": {
+        "docs": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        },
+        "videos": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        },
+        "history": {
+            "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
+            "a":[
+                [
+                   "192.168.43.62",
+                   "100"
+                ]
+            ]
+        },
+        "api": {
             "ns": [ "ns1.tanmeng.org", "ns2.tanmeng.org" ],
             "a":[
                 [
@@ -153,7 +203,6 @@ console.log(utf8_string); // Output: 汉字
         }
     }
 }
-
 # Product
 
 package main
