@@ -1,5 +1,125 @@
 # 2024-4-17
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ChatGPT
+https://chat.openai.com/c/6e38b02e-f123-412b-b16a-adfa7ec03d8d
+
+history/main.go 位于 main - history - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/history/src/branch/main/main.go
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 11 - Context Switch - YouTube
+https://www.youtube.com/watch?v=npeqH9BbxR8&t=3586s
+
+tannal/kakapo - kakapo - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/kakapo
+
+go command - cmd/go - Go Packages
+https://pkg.go.dev/cmd/go@master#hdr-Environment_variables
+
+HTTPS setup | Gitea Documentation
+https://docs.gitea.com/administration/https-setup
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+HTTPS setup | Gitea Documentation
+https://docs.gitea.com/administration/https-setup
+
+cmd/go: GOPROXY should have an equivalent to NO_PROXY · Issue #29397 · golang/go
+https://github.com/golang/go/issues/29397
+
+git - What's the proper way to "go get" a private repository? - Stack Overflow
+https://stackoverflow.com/questions/27500861/whats-the-proper-way-to-go-get-a-private-repository
+
+kurnek学习笔记 - Let’s Encrypt免费SSL证书获取以及自动续签
+http://blog.cngal.org/index.php?controller=post&action=view&id_post=10
+
+简单使用Certbot申请和使用Let's Encrypt的SSL证书
+https://kuokuo.io/2019/08/05/get-lets-encrypt-cert/
+
+Install Certbot with winget - winstall
+https://winstall.app/apps/EFF.Certbot
+
+Certbot
+https://certbot.eff.org/
+
+详细指南：如何使用 Let's Encrypt 和 certbot 免费申请 SSL 证书 - Ivensliao Articles
+https://ivensliaoblog.com/web-development/universal-ssl-letsencrypt-certbot-guide/
+
+letsencrypt dns challenge example - Google 搜索
+https://www.google.com/search?q=letsencrypt+dns+challenge+example&sca_esv=ce68b03d4bb9be5f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0--MwoUxaTmeGlAqRp5XTmflRxQTg%3A1713325854041&ei=HkcfZrKCArK42roP65CssA8&oq=letsencrypt+dns&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2xldHNlbmNyeXB0IGRucyoCCAIyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSM5wULcQWPdYcAV4AJABAJgBwAKgAeocqgEIMC42LjEwLjG4AQPIAQD4AQGYAhagArkdwgIKEAAYgAQYsAMYDcICCRAAGLADGA0YHsICBxAAGIAEGA3CAgYQABgNGB7CAgoQIxiABBgnGIoFwgIEECMYJ8ICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgUQLhiABMICChAuGIAEGEMYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIKEAAYgAQYQxiKBcICBxAjGLECGCfCAgcQABiABBgKwgIHEC4YgAQYCsICDRAuGIAEGNEDGMcBGArCAg4QLhiABBjRAxjHARjLAcICCBAuGIAEGMsBwgILEAAYgAQYxwMYywHCAggQABiABBiiBMICDhAuGIAEGMcBGMsBGK8BwgIHEAAYgAQYDJgDAIgGAZAGCpIHCDUuNC4xMi4xoAfrlAE&sclient=gws-wiz-serp
+
+aaaa 记录 - Google 搜索
+https://www.google.com/search?q=aaaa+%E8%AE%B0%E5%BD%95&sca_esv=a37b92b02547b255&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-7zTffpq_rrqvKKgREt0o72DYsUg%3A1713326671060&ei=T0ofZuWkA7vh2roPjpqNuA4&ved=0ahUKEwiliPOcr8iFAxW7sFYBHQ5NA-cQ4dUDCBA&uact=5&oq=aaaa+%E8%AE%B0%E5%BD%95&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2FhYWEg6K6w5b2VMgcQABiABBgMMgcQABiABBgMMggQABiABBiiBEjNDlD6AVjRDXABeAGQAQCYAeABoAHqB6oBBTAuNC4xuAEDyAEA-AEBmAIGoAL-B8ICChAAGLADGNYEGEfCAgoQLhiABBhDGIoFwgIIEAAYgAQYywHCAgoQABiABBhDGIoFwgIIEC4YgAQYywHCAgoQABiABBgKGMsBwgIFEAAYgASYAwCIBgGQBgqSBwUxLjQuMaAH-w4&sclient=gws-wiz-serp#ip=1
+
+xunlu129/teriteri-backend: 一个基于 springboot + mybatis-plus 搭建的视频网站平台后端
+https://github.com/xunlu129/teriteri-backend
+
+vgo - Accessing local packages within a go module (go 1.11) - Stack Overflow
+https://stackoverflow.com/questions/52026284/accessing-local-packages-within-a-go-module-go-1-11
+
+Huh? They're removing a flag, and recommending use of a environment variable. Th... | Hacker News
+https://news.ycombinator.com/item?id=26161742
+
+Go 1.16 Release Notes | Hacker News
+https://news.ycombinator.com/item?id=26158090
+
+go get - Why I'm getting a 502 bad gateway error when installing go packages - Stack Overflow
+https://stackoverflow.com/questions/70483674/why-im-getting-a-502-bad-gateway-error-when-installing-go-packages
+
+How to specify dns for go get command - Stack Overflow
+https://stackoverflow.com/questions/69389366/how-to-specify-dns-for-go-get-command
+
+Js Snowflake(雪花算法)生成随机ID_new snowflake(1,32)-CSDN博客
+https://blog.csdn.net/qq_36658051/article/details/92981439
+
+tannal (tannal)
+https://github.com/tannal/
+
+Google
+https://www.google.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Issues · mingw-w64/mingw-w64.github.io
+https://github.com/mingw-w64/mingw-w64.github.io/issues
+
+JSON.stringify() doesn't know how to serialize a BigInt · Issue #30 · GoogleChromeLabs/jsbi
+https://github.com/GoogleChromeLabs/jsbi/issues/30
+
+YouTube
+https://www.youtube.com/
+
+https://www.youtube.com/watch?v=IzH54FpWAP0
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DIzH54FpWAP0&q=EhAkAIkFAAAAAPA8lP_-y9l4GJTd_bAGIjCmuubgaNu3avGxVBO0yWByH9EGOuAFAG1Y6dVZ-d34M45WZBBJS4blV-_49rMkPrAyAXJaAUM
+
+localhost:8080/tab/1780488399766032384
+http://localhost:8080/tab/1780488399766032384
+
+GitHub
+https://github.com/
+
+tannalwork/production 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/production
+
+• Discord | #rules | LMSys Community
+https://discord.com/channels/1077285712241623050/1094075617944797265
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
