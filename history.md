@@ -1,5 +1,59 @@
 # 2024-4-17
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Disabling (Debugging with GDB)
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/Disabling.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Actions - Gitea: Git with a cup of tea
+http://git.tanmeng.org/admin/actions/runners
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+[RISCV] Assert only valid AVLs in doLocalPostpass are X0 or virtual r… · tannal/llvm-project@a020199
+https://github.com/tannal/llvm-project/commit/a02019960b1a693320cd43b0ed6653d95877b94f
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Debug V8 in Node.js core with GDB | by Franziska Hinkelmann | Fhinkel | Medium
+https://medium.com/fhinkel/debug-v8-in-node-js-core-with-gdb-cc753f1f32
+
+Debugging Node.js core :bug: :bug: : lldb – Mathematics Code Visualization Open Source
+https://annamag.github.io/codeandart/outreachy/Debugging_part2/
+
+Debugging Node.js core :bug: : stack trace – Mathematics Code Visualization Open Source
+https://annamag.github.io/codeandart/outreachy/Debugging_part1/
+
+Site not found · GitHub Pages
+https://annamag.github.io/
+
+v8/tools/gdbinit at master · v8/v8
+https://github.com/v8/v8/blob/master/tools/gdbinit
+
+c - Debugging a programmatically called function with GDB - Stack Overflow
+https://stackoverflow.com/questions/10320209/debugging-a-programmatically-called-function-with-gdb
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+gdb - How to use python into gdbinit script - Stack Overflow
+https://stackoverflow.com/questions/69806989/how-to-use-python-into-gdbinit-script
+
+wiwikuan/wiwi-circleOfFifths: JavaScript Interactive Circle of Fifths
+https://github.com/wiwikuan/wiwi-circleOfFifths/tree/master
+
+open devtools in vscode - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=open+devtools+in+vscode#ip=1
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

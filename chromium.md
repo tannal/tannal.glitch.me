@@ -1,5 +1,35 @@
 # inbox
 
+python3 tools/clang/scripts/generate_compdb.py -p out/Default -o ./compile_commands.json --target_os=linux
+
+source ~/tannalwork/projects/v8/v8/tools/gdbinit
+
+source tools/gdb/gdbinit
+
+rb js-objects.cc:.
+
+jst
+
+pn
+
+./out/Default/chrome ~/tannalwork/cans/event.html --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+
+LocalFrameView::DidChangeScrollOffset()
+
+void LocalFrameView::ScheduleRelayoutOfSubtree(LayoutObject* relayout_root) {
+
+Element is subclass ContainerNode which is subclass Node.
+
+Element object has a reference of LayoutTreeBuilderForElement which is subclass of LayoutTreeBuilder
+
+StyleEngine and document is a subclass of style_engine_ parsing_state_ 
+
+LocalFrame has a reference of FrameSelection which is selection_
+
+WebFrameWidgetImpl has a reference to WebView WebViewImpl
+WebViewImpl has a reference to page
+the page also has a FocusController
 
 LinkStyle knows css parser and parser_context also the result of parsing which is style_sheet
 

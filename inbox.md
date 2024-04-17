@@ -1,5 +1,7 @@
 # 2024-4-17 0 | 0 W
 
+git pull -X theirs origin main
+
 go env -w GOPRIVATE=git.tanmeng.org
 
 $env:GOINSECURE='*.tanmeng.org*'

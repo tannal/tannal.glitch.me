@@ -1,5 +1,9 @@
 # inbox
 
+rb js-objects.cc:.
+
+gdb --args node_g test/parallel/test-vm-context.js
+
 nodejs performance team
 https://github.com/search?q=involves%3Abenjamingr%20&type=issues
 https://github.com/search?q=involves%3AMoLow%20&type=issues
