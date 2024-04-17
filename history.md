@@ -1,5 +1,131 @@
 # 2024-4-17
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 13 - File System - YouTube
+https://www.youtube.com/watch?v=CziE2M9KEOs&t=4163s
+
+Asynchronous JS - Vanilla JavaScript Projects
+https://frontendmasters.com/courses/javascript-projects/asynchronous-js/
+
+Alejandro Piñeiro / shader-db · GitLab
+https://gitlab.freedesktop.org/apinheiro/shader-db
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+ChatGPT
+https://chat.openai.com/c/6538e024-db44-420d-bea6-777aa4cbbbc8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+WebAIM: WebAIM's WCAG 2 Checklist
+https://webaim.org/standards/wcag/checklist
+
+mutableStateOf(list) vs mutableStateListOf() | Tannal Meng
+http://localhost:8000/posts/mutablestateof-list-vs-mutablestatelistof/
+
+CI Automation - MozillaWiki
+https://wiki.mozilla.org/CI_Automation
+
+Buildbot: builder clang-aarch64-full-2stage build 9901
+https://lab.llvm.org/buildbot/#/grid
+
+在CI服务器上调试Firefox
+https://www.volcengine.com/theme/9813695-Z-7-1
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tiktok app github - Google 搜索
+https://www.google.com/search?q=tiktok+app+github&sca_esv=ec20631805f8be26&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_qjAeGx24SY7mlfd248aV4z8vZTQ%3A1713342493295&ei=HYgfZpLLEbXj2roP6c6msA0&ved=0ahUKEwjSzcOV6siFAxW1sVYBHWmnCdYQ4dUDCBA&uact=5&oq=tiktok+app+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXRpa3RvayBhcHAgZ2l0aHViMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjJKlDvCVjbKXAHeACQAQCYAdQBoAGME6oBBjAuMTMuMrgBA8gBAPgBAZgCFaACshLCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgINEAAYgAQYsQMYgwEYDMICBxAAGIAEGAzCAg0QABiABBixAxiDARgKwgIHEAAYgAQYCsICBhAAGAoYHsICDRAAGAUYyQMYChgMGB7CAgsQABiABBiSAxiKBcICBxAAGIAEGA3CAgYQABgNGB7CAgoQIxiABBgnGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICBRAAGIAEwgIJEAAYgAQYChgMmAMAiAYBkAYKkgcGNy4xMi4yoAeBMA&sclient=gws-wiz-serp
+
+leptos-rs/start-axum: Starter template for use with the Leptos web framework and Axum.
+https://github.com/leptos-rs/start-axum/tree/main
+
+Tiger's Web Hacking • Buttondown
+https://buttondown.email/tiger
+
+NotWoods (NotWoods) / Repositories
+https://github.com/NotWoods?tab=repositories
+
+tannal/tanmeng.org - tanmeng.org - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tanmeng.org/actions/runs/30
+
+Zhihu
+https://github.com/zhihu
+
+SVG-Edit/svgedit: Powerful SVG-Editor for your browser
+https://github.com/SVG-Edit/svgedit
+
+GitHub Actions の重要な機能 - GitHub Enterprise Cloud Docs
+https://docs.github.com/ja/enterprise-cloud@latest/actions/learn-github-actions/essential-features-of-github-actions
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Alejandro Piñeiro / shader-db · GitLab
+https://gitlab.freedesktop.org/apinheiro/shader-db
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+#general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+Servo TSC Meeting April 2024 · Issue #85 · servo/project
+https://github.com/servo/project/issues/85
+
+Servo and SpiderMonkey Report · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-and-SpiderMonkey-Report
+
+harfbuzz/harfbuzz: HarfBuzz text shaping engine
+https://github.com/harfbuzz/harfbuzz
+
+HarfBuzz Manual: HarfBuzz Manual
+https://harfbuzz.github.io/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Buildbot
+https://github.com/buildbot
+
+Linux kprobe调试技术使用 - ArnoldLu - 博客园
+https://www.cnblogs.com/arnoldlu/p/9752061.html
+
+bigtable cmu - Google 搜索
+https://www.google.com/search?q=bigtable+cmu&rlz=1C1GCEA_enJP1090JP1090&oq=bigtable+cmu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIE0gEIMjEwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+14848Team/Bigtable: CMU 14848 Project
+https://github.com/14848Team/Bigtable/tree/master
+
+bigtable.pdf
+https://www.andrew.cmu.edu/course/14-848-f19/applications/labs/bigtable.pdf
+
+quilljs/quill: Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+https://github.com/quilljs/quill
+
+Basic setup with snow theme - Quill Rich Text Editor
+https://quilljs.com/playground/snow
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+1Panel-dev/webkubectl: Run kubectl command in Web Browser.
+https://github.com/1Panel-dev/webkubectl
+
+bpfcc/tools/biolatency_example.txt at master · andreasgerstmayr/bpfcc
+https://github.com/andreasgerstmayr/bpfcc/blob/master/tools/biolatency_example.txt
+
+bpfcc/tools/biolatency_example.txt at master · andreasgerstmayr/bpfcc
+https://github.com/andreasgerstmayr/bpfcc/blob/master/tools/biolatency_example.txt
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
