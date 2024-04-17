@@ -1,5 +1,13 @@
 # 2024-4-17 0 | 0 W
 
+go env -w GOPRIVATE=git.tanmeng.org
+
+$env:GOINSECURE='*.tanmeng.org*'
+$env:http_proxy=''
+
+$env:http_proxy='http://192.168.43.1:7890'
+$env:https_proxy='http://192.168.43.1:7890'
+
 sudo certbot certonly --webroot -w /var/www/example -d example.com -d www.example.com
 
 sudo certbot certonly --standalone  -d git.tanmeng.org -d www.tanmeng.org -d m.tanmeng.org
