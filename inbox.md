@@ -1,4 +1,15 @@
+# 2024-4-17 0 | 0 W
+
+
+
 # 2024-4-16 0 | 0 W
+
+https://gitlab.freedesktop.org/apinheiro
+Alejandro Piñeiro
+The guy who give the upstream driver to mesa for Raspberrypi 5
+igalian
+
+
 
 sudo apt install libdbus-glib-1-dev
 

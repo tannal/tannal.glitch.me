@@ -1,3 +1,176 @@
+# 2024-4-17
+
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 13 - File System - YouTube
+https://www.youtube.com/watch?v=CziE2M9KEOs
+
+Scihub
+https://bothonce.com/
+
+eBPF Documentary | Hacker News
+https://news.ycombinator.com/item?id=39663135
+
+iovisor/bcc: BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+https://github.com/iovisor/bcc
+
+The Return of the Frame Pointers
+https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html
+
+monkeykeyvaluestore.pdf
+https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+
+Tero Parviainen - Adaptive Music for the Web With RNBO - YouTube
+https://www.youtube.com/watch?v=dL_XHIKaWnI
+
+Layout Thrashing Solution - Introduction to Dev Tools, v3
+https://frontendmasters.com/courses/dev-tools/memory-leaks-memory-heap-snapshots/
+
+(5 封私信 / 31 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+SegFault, page table, os memory management · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+#checkins > Aaron Muir Hamilton - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Aaron.20Muir.20Hamilton
+
+'A Bicycle of the Mind' - Steve Jobs on the Computer - YouTube
+https://www.youtube.com/watch?v=L40B08nWoMk
+
+Steve Jobs: The Fresh Air Interview (1996) | Fresh Air - YouTube
+https://www.youtube.com/watch?v=MqSfFcaluHc
+
+steve jobs most innovative speech - YouTube
+https://www.youtube.com/watch?v=YM4If6YHN3s
+
+Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series - YouTube
+https://www.youtube.com/watch?v=Gk-9Fd2mEnI
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+树莓派5 vulkan - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE5+vulkan&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE5+vulkan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTE1Nzg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+v3d, v3dv: support for HW 7.1.x (!25450) · 合并请求 · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/25450/commits
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+关于树莓派5 | 树莓派实验室
+https://shumeipai.nxez.com/raspberry-pi-5
+
+Orange Pi 5-Orange Pi官网-香橙派（Orange Pi）开发板,开源硬件,开源软件,开源芯片,电脑键盘
+http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/parameter/Orange-Pi-5.html
+
+orange pi 5 ubuntu desktop - Google 搜索
+https://www.google.com/search?q=orange+pi+5+ubuntu+desktop&rlz=1C1GCEA_enJP1090JP1090&oq=Orange+Pi+5+ubunt&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDIzMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+sybase - Google 搜索
+https://www.google.com/search?q=sybase&rlz=1C1GCEA_enJP1090JP1090&oq=sybase&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIQCAEQLhjHARjUAhjRAxiABDINCAIQABiDARixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzkyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Specifying Dependencies - The Cargo Book
+https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html?search=optional
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+udemy personal plan - Google 搜索
+https://www.google.com/search?q=udemy+personal+plan&rlz=1C1GCEA_enJP1090JP1090&oq=udemy+per&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4NDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa
+
+Hello World
+http://localhost:3000/exercise/thrashing
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+技术|Firefox OS 架构简析（1）
+https://linux.cn/article-778-1.html
+
+Firefox OS 架构简析（1） · LinuxTOY
+https://linuxtoy.org/archives/firefox-os-architecture-brief-1.html
+
+wware (Will Ware)
+https://github.com/wware
+
+Will Ware's blog
+https://willware.blogspot.com/
+
+GitHub
+https://github.com/
+
+Hello World
+http://localhost:3000/exercise/thrashing
+
+Server | Fastify
+https://fastify.dev/docs/latest/Reference/Server/#listen
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Code search results
+https://github.com/search?q=repo%3Atikv%2Ftikv%20bloom&type=code
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+Bitcask - Wikipedia
+https://en.wikipedia.org/wiki/Bitcask
+
+Riak: Which is better, Bitcask or LevelDB? - Quora
+https://www.quora.com/Riak-database/Riak-Which-is-better-Bitcask-or-LevelDB
+
+bitcask-intro.pdf
+https://riak.com/assets/bitcask-intro.pdf
+
+LevelDB - Wikipedia
+https://en.wikipedia.org/wiki/LevelDB#cite_note-11
+
+keyva/cmd/keyva/main.go at b5db292f8bf3970c63a56daf7ec485f66cc627c7 · justinethier/keyva
+https://github.com/justinethier/keyva/blob/b5db292f8bf3970c63a56daf7ec485f66cc627c7/cmd/keyva/main.go
+
+‪Lanyue Lu‬ - ‪Google 学术搜索‬
+https://scholar.google.com.hk/citations?hl=zh-CN&user=ii7F2r8AAAAJ
+
+concurrency
+https://6c7de8b5-df3d-4a03-945a-9846af236553.usrfiles.com/ugd/6c7de8_98541d051407442eb5eca636e702dacd.pdf
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+Project Experimental Results Examples - Google 文档
+https://docs.google.com/document/d/1UcBDrfBbE1FSVqWF8AuHxe3I3glCXLERqeBmIq5TsGE/edit
+
+Comparing Security in eBPF and WebAssembly | Proceedings of the 1st Workshop on eBPF and Kernel Extensions
+https://dl.acm.org/doi/10.1145/3609021.3609306
+
+Spring 2021 6.874 Computational Systems Biology: Deep Learning in the Life Sciences
+https://mit6874.github.io/
+
+brk0v/directio: Direct IO Golang Writer (Linux O_DIRECT)
+https://github.com/brk0v/directio
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+fix(local_names): add missing ARIA attributes by nolanlawson · Pull Request #536 · servo/html5ever
+https://github.com/servo/html5ever/pull/536/files
+
+OrbStack · Fast, light, simple Docker & Linux on macOS
+https://orbstack.dev/
+
+DTrace Tools
+https://www.brendangregg.com/dtrace.html
+
 # 2024-4-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
