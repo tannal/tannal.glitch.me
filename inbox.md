@@ -1,6 +1,16 @@
 # 2024-4-17 0 | 0 W
 
+sudo certbot certonly --webroot -w /var/www/example -d example.com -d www.example.com
 
+sudo certbot certonly --standalone  -d git.tanmeng.org -d www.tanmeng.org -d m.tanmeng.org
+
+sudo certbot certonly --standalone -d *.tanmeng.org
+
+winget install --id=EFF.Certbot  -e
+
+$env:GOPRIVATE="git.tanmeng.org"
+
+echo $env:GOPROXY
 
 # 2024-4-16 0 | 0 W
 
