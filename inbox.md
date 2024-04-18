@@ -1,5 +1,9 @@
 # 2024-4-18 0 | 0 W
 
+:s/\\/\//g
+
+./gitea dump -c /custom/conf/app.ini
+
 export http_proxy=http://192.168.43.1:7890
 export https_proxy=http://192.168.43.1:7890
 
