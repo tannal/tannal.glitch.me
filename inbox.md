@@ -1,5 +1,16 @@
 # 2024-4-18 0 | 0 W
 
+export http_proxy=http://192.168.43.1:7890
+export https_proxy=http://192.168.43.1:7890
+
+sudo ./stackcount.py -P -p 4370 "bio_submit*"
+
+export GOPRIVATE="git.tanmeng.org"
+export GOINSECURE='*.tanmeng.org*'
+
+git checkout --ours db/
+git checkout --theirs db/
+
 
 
 
