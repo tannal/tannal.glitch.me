@@ -1,5 +1,9 @@
 # inbox
 
+
+spidermonkey
+export MOZCONFIG=$HOME/mozconfigs/debug
+
 webrender issue tracker
 https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebRender&resolution=---
 

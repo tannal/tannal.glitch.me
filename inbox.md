@@ -1,5 +1,38 @@
 # 2024-4-18 0 | 0 W
 
+assert(
+  1 === 2,
+  `Code: ; The provided arguments length () does not ` +
+    `match the required ones.`,
+);
+
+find build -type f -executable
+js/bin/
+
+mkdir -p $WORK/mozconfigs/debug/
+vim $WORK/mozconfigs/debug/MOZCONFIGs
+```
+# Build only the JS shell
+ac_add_options --enable-project=js
+
+# Enable the debugging tools: Assertions, debug only code etc.
+ac_add_options --enable-debug
+
+# Enable optimizations as well so that the test suite runs much faster. If
+# you are having trouble using a debugger, you should disable optimization.
+ac_add_options --enable-optimize
+
+# Use a dedicated objdir for SpiderMonkey debug builds to avoid
+# conflicting with Firefox build with default configuration.
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-debug-@CONFIG_GUESS@
+
+```
+export MOZCONFIG=$WORK/mozconfigs/debug
+
+sudo apt install radeontop
+
+
+
 unzip gitea-dump-1610949662.zip
 cd gitea-dump-1610949662
 

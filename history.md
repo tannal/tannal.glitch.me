@@ -3,6 +3,60 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebRender&resolution=---
+
+World Boss Spawning Soon! | Diablo 4 Interactive Map
+https://d4planner.io/map
+
+Components for Core
+https://bugzilla.mozilla.org/describecomponents.cgi?product=Core
+
+bug835166.bmoattachments.org/attachment.cgi?id=706898
+https://bug835166.bmoattachments.org/attachment.cgi?id=706898
+
+1633217 - Object iteration is slower than the competition (3-4 times)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1633217
+
+⚙ D183584 Bug 1841682 - Add tests. r?iain!
+https://phabricator.services.mozilla.com/D183584
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+show the status of amd gpu - Google 検索
+https://www.google.com/search?q=show+the+status+of+amd+gpu+&client=ubuntu-sn&hs=uim&sca_esv=c2c122aff106e202&channel=fs&ei=sOAgZtSRMLSl2roPspyGyAY&ved=0ahUKEwjUqYbkssuFAxW0klYBHTKOAWkQ4dUDCBA&uact=5&oq=show+the+status+of+amd+gpu+&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Nob3cgdGhlIHN0YXR1cyBvZiBhbWQgZ3B1IDIHECEYoAEYCkiuOVDPB1iVLnACeAGQAQCYAbgCoAHBK6oBCDAuMTguOS4xuAEDyAEA-AEBmAIeoALCLMICChAAGLADGNYEGEfCAg0QABiABBixAxiDARgEwgIKEAAYgAQYsQMYBMICBhAAGAMYBMICCxAAGIAEGLEDGIMBwgIHEAAYgAQYBMICBRAAGIAEwgIEEAAYA8ICBBAAGB7CAgcQABiABBgTwgIJEAAYgAQYExgNwgIGEAAYExgewgIIEAAYExgIGB7CAggQABgTGAUYHsICChAAGBMYCBgeGA_CAggQABiiBBiJBcICCBAAGIAEGKIEwgIFECEYoAHCAgQQIRgVmAMAiAYBkAYKkgcJMi4xNS4xMi4xoAeyRg&sclient=gws-wiz-serp
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+--fast-warmup - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=--fast-warmup#ip=1
+
+Building and testing SpiderMonkey — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/js/build.html
+
+unhandledRejection Error [ERR_INTERNAL_ASSERTION] · Issue #52574 · nodejs/node
+https://github.com/nodejs/node/issues/52574
+
+node/lib/internal/errors.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/lib/internal/errors.js#L439
+
+unhandledRejection Error [ERR_INTERNAL_ASSERTION] · Issue #52574 · nodejs/node
+https://github.com/nodejs/node/issues/52574
+
+git - How to link to a specific line number on GitHub - Stack Overflow
+https://stackoverflow.com/questions/23821235/how-to-link-to-a-specific-line-number-on-github
+
+Userland access to `internalBinding` (at one's own risk) · Issue #27061 · nodejs/node
+https://github.com/nodejs/node/issues/27061
+
+node snapshot stack smash - Google 検索
+https://www.google.com/search?client=ubuntu-sn&hs=Tmr&sca_esv=515e485ef43ad46e&channel=fs&q=node+snapshot+stack+smash&spell=1&sa=X&ved=2ahUKEwiwq8CZ-8uFAxWrsFYBHaGOCxgQBSgAegQICBAC&biw=1530&bih=788&dpr=1#ip=1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Certbot error An unexpected error occurred: AttributeError: can't set attribute - Help - Let's Encrypt Community Support
 https://community.letsencrypt.org/t/certbot-error-an-unexpected-error-occurred-attributeerror-cant-set-attribute/206503/26
 
