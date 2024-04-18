@@ -1,5 +1,22 @@
 # 2024-4-18 0 | 0 W
 
+unzip gitea-dump-1610949662.zip
+cd gitea-dump-1610949662
+mv app.ini ~/tannalwork/projects/gitea/conf/app.ini
+mv data/* ~/tannalwork/projects/gitea/data/
+mv log/* ~/tannalwork/projects/gitea/log/
+mv repos/* ~/tannalwork/projects/gitea/data/gitea-repositories/
+chown -R gitea:gitea /etc/gitea/conf/app.ini ~/tannalwork/projects/gitea
+
+# mysql
+mysql --default-character-set=utf8mb4 -u$USER -p$PASS $DATABASE <gitea-db.sql
+# sqlite3
+sqlite3 $DATABASE_PATH <gitea-db.sql
+# postgres
+psql -U $USER -d $DATABASE < gitea-db.sql
+
+service gitea restart
+
 if [ -f ~/tannalwork/.bash_aliases ]; then
     source ~/tannalwork/.bash_aliases
 fi
