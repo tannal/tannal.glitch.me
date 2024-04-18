@@ -1,5 +1,9 @@
 # 2024-4-18 0 | 0 W
 
+if [ -f ~/tannalwork/.bash_aliases ]; then
+    source ~/tannalwork/.bash_aliases
+fi
+
 git clone https://github.com/facebook/rocksdb.git
 
 sudo apt install libgflags-dev
