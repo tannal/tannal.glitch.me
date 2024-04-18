@@ -1,5 +1,47 @@
 # 2024-4-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Certbot error An unexpected error occurred: AttributeError: can't set attribute - Help - Let's Encrypt Community Support
+https://community.letsencrypt.org/t/certbot-error-an-unexpected-error-occurred-attributeerror-cant-set-attribute/206503/26
+
+lets encrypt - DNS problem: NXDOMAIN looking up A for www.example.com - check that a DNS record exists for this domain - Stack Overflow
+https://stackoverflow.com/questions/68100137/dns-problem-nxdomain-looking-up-a-for-www-example-com-check-that-a-dns-record
+
+Let's Encrypt Certificate- too many failed authorizations recently · Issue #3612 · NginxProxyManager/nginx-proxy-manager
+https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3612
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Index of /
+http://localhost:8080/
+
+cnlohr/mini-rv32ima: A tiny C header-only risc-v emulator.
+https://github.com/cnlohr/mini-rv32ima
+
+api.tanmeng.org/tabs
+http://api.tanmeng.org/tabs
+
+Introduction - Website Accessibility, v2 | Frontend Masters
+https://frontendmasters.com/courses/accessibility-v2/introduction/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+cksystemsteaching/selfie: An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+https://github.com/cksystemsteaching/selfie
+
+Explore - Gitea: Git with a cup of tea
+http://localhost:3001/explore/organizations
+
+linux - How to force cp to overwrite without confirmation - Stack Overflow
+https://stackoverflow.com/questions/8488253/how-to-force-cp-to-overwrite-without-confirmation
+
+sqlite/sqlite: Official Git mirror of the SQLite source tree
+https://github.com/sqlite/sqlite
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
