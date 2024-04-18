@@ -1,5 +1,10 @@
 # 2024-4-18 0 | 0 W
 
+./gitea -c './conf/app.ini' admin regenerate hooks
+
+mv repos gitea-repositories
+cp gitea-repositories ../data -r
+
 if [ -f ~/tannalwork/.bash_aliases ]; then
     source ~/tannalwork/.bash_aliases
 fi
