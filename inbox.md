@@ -2,11 +2,13 @@
 
 unzip gitea-dump-1610949662.zip
 cd gitea-dump-1610949662
-mv app.ini ~/tannalwork/projects/gitea/conf/app.ini
+
+mkdir -p ~/tannalwork/projects/gitea/data/gitea-repositories/
+
+mv app.ini ~/tannalwork/projects/gitea/custom/conf/app.ini
 mv data/* ~/tannalwork/projects/gitea/data/
-mv log/* ~/tannalwork/projects/gitea/log/
 mv repos/* ~/tannalwork/projects/gitea/data/gitea-repositories/
-chown -R gitea:gitea /etc/gitea/conf/app.ini ~/tannalwork/projects/gitea
+chown -R gitea:gitea /etc/gitea/custom/conf/app.ini ~/tannalwork/projects/gitea
 
 # mysql
 mysql --default-character-set=utf8mb4 -u$USER -p$PASS $DATABASE <gitea-db.sql
