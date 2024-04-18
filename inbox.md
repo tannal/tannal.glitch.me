@@ -1,5 +1,12 @@
 # 2024-4-18 0 | 0 W
 
+if [ -f ~/tannalwork/.bash_aliases ]; then
+    source ~/tannalwork/.bash_aliases
+fi
+
+sudo ./stackcount.py -P -p 24469 "bio*" -i 2
+sudo ./stackcount.py -P -p 24469 "page*" -i 2
+
 ./gitea -c './conf/app.ini' admin regenerate hooks
 
 mv repos gitea-repositories
