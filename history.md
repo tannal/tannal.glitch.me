@@ -1,5 +1,62 @@
 # 2024-4-18
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Documentation for sys::unix::fd::FileDesc::drop is confusing · Issue #66876 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/66876
+
+0000529: fildes unspecified on close()'s [EINTR] - Austin Group Defect Tracker
+https://www.austingroupbugs.net/view.php?id=529
+
+servo/webrender at 26dd672865d34b96702530607b878a3b92e888af
+https://github.com/servo/webrender/tree/26dd672865d34b96702530607b878a3b92e888af
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebRender&resolution=---
+
+Firefox 94 – Linux – 12/8/2021, 9:56:43 PM UTC (public) – Firefox Profiler
+https://profiler.firefox.com/public/kqe4xedveed0tw6webhf1px8zq5tdk9har314xg/calltree/?globalTrackOrder=0w4&localTrackOrderByPid=44454-30w2~44723-0&thread=4&v=10
+
+Firefox 101 – Linux – 5/2/2022, 2:02:53 AM UTC (public) – Firefox Profiler
+https://profiler.firefox.com/public/d86ney48048178sznp0e6vw3y95trdf4v9se698/flame-graph/?globalTrackOrder=0w9&hiddenGlobalTracks=0w8&hiddenLocalTracksByPid=289296-1w9bdws~289518-0~289391-0~289410-0~289600-0~289686-0~289351-0~289689-0~289514-0&localTrackOrderByPid=289296-tu0ws~289518-0~289391-0~289410-0~289600-0~289686-0~289351-0~289689-0~289514-0&thread=x6&transforms=ff-179&v=10
+
+RFC: JSManaged vs. JSTraceable objects · Issue #32102 · servo/servo
+https://github.com/servo/servo/issues/32102
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9fa68d01e0dc08f3e24997fd3b31d46d
+
+servo/components/script/docs/JS-Servos-only-GC.md at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/docs/JS-Servos-only-GC.md
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+linebender/piet: An abstraction for 2D graphics.
+https://github.com/linebender/piet
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.
+https://github.com/facebook/rocksdb
+
+linux - Using gflags library in ubuntu - Stack Overflow
+https://stackoverflow.com/questions/30649011/using-gflags-library-in-ubuntu
+
+Pull request search results
+https://github.com/search?q=%27%22webrender%22&type=pullrequests
+
+servo/media
+https://github.com/servo/media
+
+Ekioh | Home of the world’s fastest browser
+https://www.ekioh.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

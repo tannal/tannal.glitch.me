@@ -1,5 +1,19 @@
 # inbox
 
+webrender issue tracker
+https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebRender&resolution=---
+
+
+servo crates that firefox use
+webrender
+glean
+html5ever
+freetype
+stylo
+https://github.com/servo/rust-url
+https://github.com/servo/euclid
+
+
 b nsRetrievalContextX11::WaitForClipboardData
 
 b /home/tannal/tannalwork/projects/mozilla-unified/widget/gtk/nsClipboard.cpp:606

@@ -1,5 +1,12 @@
 # 2024-4-18 0 | 0 W
 
+git clone https://github.com/facebook/rocksdb.git
+
+sudo apt install libgflags-dev
+
+cmake -B build -G Ninja -DBUILD_SHARED_LIBS=ON -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
 :s/\\/\//g
 
 ./gitea dump -c /custom/conf/app.ini
@@ -14,9 +21,6 @@ export GOINSECURE='*.tanmeng.org*'
 
 git checkout --ours db/
 git checkout --theirs db/
-
-
-
 
 # 2024-4-17 0 | 0 W
 
