@@ -895,7 +895,7 @@ involves:nical
 involves:pcwalton webrender
 
 fuchia graphics team
-invovles:raphlinus
+involves:raphlinus
 
 
 # 2024-4-2 0 | 0 W

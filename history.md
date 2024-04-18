@@ -3,6 +3,165 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+nical (Nicolas Silva)
+https://github.com/nical
+
+Figures for paper · Issue #2 · linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper/issues/2
+
+Issues · shader-slang/slang
+https://github.com/shader-slang/slang/issues
+
+nvpro-samples/vk_mini_samples: Collection of Vulkan samples
+https://github.com/nvpro-samples/vk_mini_samples/
+
+Issues · fogleman/Craft
+https://github.com/fogleman/Craft/issues
+
+Add an API to expose core and hal internal debugging information · Issue #5546 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/5546
+
+Bug 1888628 - Extract the texture sampling logic out of ps_quad.glsl.… · servo/webrender@c6bcce3
+https://github.com/servo/webrender/commit/c6bcce3e6ae80c9a0c174002a4a2a87ecb01bc9e#diff-904a4e4430a6fb30e2a54391b18eb7c43e3fda0b0a087488bb588439d6f31020
+
+Repository search results
+https://github.com/search?q=language%3AGLSL&type=repositories
+
+keijiro/ShaderSketches: KodeLife shader sketches I wrote while commuting
+https://github.com/keijiro/ShaderSketches/tree/master
+
+KodeLife | hexler.net
+https://hexler.net/kodelife
+
+New
+https://www.shadertoy.com/new
+
+rkonfj/toh: TCP/UDP over HTTP/WebSocket 💪
+https://github.com/rkonfj/toh/tree/main
+
+tannalwork/db 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/production/history/server/db
+
+Go update all modules - Stack Overflow
+https://stackoverflow.com/questions/67201708/go-update-all-modules
+
+risc-v emulator github - Google 搜索
+https://www.google.com/search?q=risc-v+emulator+github&sca_esv=9d1d7ff50ef1888c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09jq_nO_S-KLnV2Vk8kmqAG655uKw%3A1713413115325&ei=-5sgZtHFE5Hl1e8P7LW70Aw&ved=0ahUKEwiRr96g8cqFAxWRcvUHHezaDsoQ4dUDCBA&uact=5&oq=risc-v+emulator+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnJpc2MtdiBlbXVsYXRvciBnaXRodWIyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjLC1CBAViaCnABeAGQAQCYAcMBoAHiCKoBAzAuNrgBA8gBAPgBAZgCB6AC8wjCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAgQQABgemAMAiAYBkAYKkgcDMS42oAeADA&sclient=gws-wiz-serp#ip=1
+
+d0iasm/rvemu: RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing).
+https://github.com/d0iasm/rvemu
+
+How to tell git to accept all current changes - Stack Overflow
+https://stackoverflow.com/questions/58378352/how-to-tell-git-to-accept-all-current-changes
+
+cnlohr/mini-rv32ima: A tiny C header-only risc-v emulator.
+https://github.com/cnlohr/mini-rv32ima
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+局域网内搭建浏览器可信任的SSL证书 – 唐玥璨 | 博客
+https://www.tangyuecan.com/2021/12/17/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%86%85%E6%90%AD%E5%BB%BA%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8F%AF%E4%BF%A1%E4%BB%BB%E7%9A%84ssl%E8%AF%81%E4%B9%A6/
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+• Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+javascript - Timestamp from the web browser? - Stack Overflow
+https://stackoverflow.com/questions/9641138/timestamp-from-the-web-browser
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+minimoog (minimoog) / Repositories
+https://github.com/minimoog?tab=repositories
+
+给各设备安装自签名证书 | HE-SB-技术栈
+https://tech.he-sb.top/posts/install-self-signed-certificate/
+
+如何制作和使用自签名证书 - 苏洋博客
+https://soulteary.com/2021/02/06/how-to-make-and-use-a-self-signed-certificate.html
+
+Repository search results
+https://github.com/search?q=+language%3Aglsl&type=repositories
+
+Broxxar/NoMansScanner: A Depth-based Image Effect recreating the Topographic Scanner of No Man's Sky.
+https://github.com/Broxxar/NoMansScanner
+
+PistonDevelopers/piston-examples: A collection of examples using the Piston game engine
+https://github.com/PistonDevelopers/piston-examples
+
+PistonDevelopers
+https://github.com/PistonDevelopers
+
+Is there a way to configure Nginx to broadcast incoming requests to multiple upstream servers simultaneously? - Stack Overflow
+https://stackoverflow.com/questions/22948017/is-there-a-way-to-configure-nginx-to-broadcast-incoming-requests-to-multiple-ups
+
+reverse proxy - Nginx - forwarding to multiple servers at once? - Stack Overflow
+https://stackoverflow.com/questions/35536426/nginx-forwarding-to-multiple-servers-at-once?rq=3
+
+tannal/wasmtime - wasmtime - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/wasmtime
+
+reverse proxy - NGINX: dispatch a request to multiple endpoints - Super User
+https://superuser.com/questions/1436131/nginx-dispatch-a-request-to-multiple-endpoints
+
+Module ngx_http_mirror_module
+https://nginx.org/en/docs/http/ngx_http_mirror_module.html
+
+第四节：Nginx负载均衡配置(含各种重试)、限流配置、Https配置详解 - Yaopengfei - 博客园
+https://www.cnblogs.com/yaopengfei/p/14158212.html
+
+nginx配置web容器实现自动剔除异常(失败)的服务 - 甜菜波波 - 博客园
+https://www.cnblogs.com/tiancai/p/15599236.html
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+tannal/tannal.github.io: post random things here
+https://github.com/tannal/tannal.github.io
+
+400 bad request - Google 搜索
+https://www.google.com/search?q=400+bad+request&rlz=1C1GCEA_enJP1090JP1090&oq=400&gs_lcrp=EgZjaHJvbWUqDAgCEAAYQxiABBiKBTIGCAAQRRg5MgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGDwyBggHEEUYPNIBCDM2OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nginx 负载均衡 400 - Google 搜索
+https://www.google.com/search?q=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+400&rlz=1C1GCEA_enJP1090JP1090&oq=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+400&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDM2MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Nginx 配置反向代理和负载均衡提示 400 Bad Request_技术解析_文章_数据地带
+https://www.idczone.net/news/2943.html/
+
+nginx配置反向代理或跳转出现400,Request Header Or Cookie Too Large | Server 运维论坛
+https://learnku.com/articles/84324
+
+api.tanmeng.org/tabs/1780495679014178816
+http://api.tanmeng.org/tabs/1780495679014178816
+
+nginx 负载均衡 post 400 - Google 搜索
+https://www.google.com/search?q=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+post+400&rlz=1C1GCEA_enJP1090JP1090&oq=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+post+400&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIGCAUQRRg90gEINDYyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+nginx 负载均衡 post 400 - Google 搜索
+https://www.google.com/search?q=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+post+400&rlz=1C1GCEA_enJP1090JP1090&oq=nginx+%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyBggCEEUYOzIGCAMQRRg5MgwIBBAAGEMYgAQYigUyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD2oAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+how can i resolve 400 bad request The plain HTTP request was sent to HTTPS port issue on nginx server | AWS re:Post
+https://repost.aws/zh-Hans/questions/QUE1lcuADCTk-NSezKcHfGyQ/how-can-i-resolve-400-bad-request-the-plain-http-request-was-sent-to-https-port-issue-on-nginx-server
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+api.tanmeng.org/tabs
+http://api.tanmeng.org/tabs
+
+date - Convert a Unix timestamp to time in JavaScript - Stack Overflow
+https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 graphics-slides.pdf
 https://bootlin.com/doc/training/graphics/graphics-slides.pdf
 
