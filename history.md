@@ -1,3 +1,119 @@
+# 2024-4-18
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+graphics-slides.pdf
+https://bootlin.com/doc/training/graphics/graphics-slides.pdf
+
+Repository search results
+https://github.com/search?q=tiktok&type=repositories&p=3
+
+Issues · mjl0602/flutter_tiktok
+https://github.com/mjl0602/flutter_tiktok/issues
+
+Pull requests · running-libo/Tiktok
+https://github.com/running-libo/Tiktok/pulls
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+Index of /
+http://videos.tanmeng.org/
+
+小米手机dns怎么更改_小米手机dns设置教程_小米通
+https://www.xiaomitong123.com/baike/5774.html
+
+Index of /
+http://videos.tanmeng.org/
+
+dns_probe_finished_nxdomain chrome - Google 搜索
+https://www.google.com/search?q=dns_probe_finished_nxdomain+chrome&rlz=1C1GCEA_enJP1090JP1090&oq=dns+fini&gs_lcrp=EgZjaHJvbWUqCggHEAAYCBgTGB4yBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCAgDEAAYExgeMggIBBAAGBMYHjIKCAUQABgIGBMYHjIKCAYQABgIGBMYHjIKCAcQABgIGBMYHjIKCAgQABgIGBMYHjIKCAkQABgIGBMYHtIBCTEwMzc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How to disable cache on chrome for Android? - Stack Overflow
+https://stackoverflow.com/questions/18626699/how-to-disable-cache-on-chrome-for-android
+
+安卓允许Http网络请求 | Gddhy's Blog
+https://gddhy.net/2021/an-zhuo-yun-xu-http-wang-luo-qing-qiu/
+
+网络安全配置  |  App quality  |  Android Developers
+https://developer.android.google.cn/privacy-and-security/security-config?hl=zh-cn
+
+java - NetworkSecurityConfig: No Network Security Config specified, using platform default Error response code: 400 - Stack Overflow
+https://stackoverflow.com/questions/53984725/networksecurityconfig-no-network-security-config-specified-using-platform-defa
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?tab=repositories
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+类图的语法和功能
+https://plantuml.com/zh/class-diagram
+
+Mermaid | Diagramming and charting tool
+https://mermaid.js.org/
+
+Online FlowChart & Diagrams Editor - Mermaid Live Editor
+https://mermaid.live/edit#pako:eNpVjk2Lg0AMhv9KyGkL9Q94WGh1t5fCFurN6SFo7AztfDBGpKj_fcd62c0pvM_zhkzY-JYxx-7px0ZTFKhK5SDNoS50NL1Y6m-QZZ_ziQWsd_ya4fhx8tBrH4Jx993mH1cJium8agyijXssGyre_R_HM5T1mYL4cPtLqtHP8FWbi07n_xMdObW-647yjrKGIhQU3wru0XK0ZNr0_rQmCkWzZYV5WlvuaHiKQuWWpNIg_vpyDeYSB97jEFoSLg3dI9ktXH4B_cJWqw
+
+tannal (tannal)
+https://github.com/tannal/
+
+ChatGPT
+https://chat.openai.com/c/bf0f0e07-d648-4143-8e34-ef609873be5a
+
+Nvidia GPU Virtual Memory Management | by Bruce-Lee-LY | Medium
+https://bruce-lee-ly.medium.com/nvidia-gpu-virtual-memory-management-7fdc4122226b
+
+Cathode Ray Tube Controller - Google 搜索
+https://www.google.com/search?q=Cathode+Ray+Tube+Controller&rlz=1C1GCEA_enJP1090JP1090&oq=Cathode+Ray+Tube+Controller&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+4.1.4 使用ARM V8 Foundation启动arm64（1） - 知乎
+https://zhuanlan.zhihu.com/p/79706530
+
+ARM Cortex-A Series Programmer’s Guide for ARMv8-A
+https://cs140e.sergio.bz/docs/ARMv8-A-Programmer-Guide.pdf
+
+4.3.1 使用qemu进行arm64仿真 - 知乎
+https://zhuanlan.zhihu.com/p/77564702
+
+Delete workflow runs · Issue #26219 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/26219
+
+Issues · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues?q=is%3Aissue+is%3Aopen+matrix
+
+V8 private symbols · Issue #4 · nodejs/primordials-use-cases
+https://github.com/nodejs/primordials-use-cases/issues/4
+
+badger/badger/cmd/read_bench.go at fece30f57aa77ff4ed515cf20b0f0e776f305e3f · dgraph-io/badger
+https://github.com/dgraph-io/badger/blob/fece30f57aa77ff4ed515cf20b0f0e776f305e3f/badger/cmd/read_bench.go#L80
+
+Unobvious things you need to know about key-value stores - Event-Driven.io
+https://event-driven.io/en/key-value-stores/
+
+VLDB'17: Fast Scans on Key-Value Stores - 知乎
+https://zhuanlan.zhihu.com/p/393773578
+
+429 Too Many Requests
+https://zhuanlan.zhihu.com/p/692262739
+
+(5 封私信 / 40 条消息) 南昌之星售票系统 - 知乎
+https://www.zhihu.com/people/maplewish
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+openresty - Google 搜索
+https://www.google.com/search?q=openresty&rlz=1C1GCEA_enJP1090JP1090&oq=openresty&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg8qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general > TSC Meeting April 2024 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/TSC.20Meeting.20April.202024
+
 # 2024-4-17
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
