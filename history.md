@@ -1,3 +1,125 @@
+# 2024-4-19
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa
+
+Scihub
+https://bothonce.com/
+
+Egg: E-Graphs Good | Hacker News
+https://news.ycombinator.com/item?id=26587209
+
+egg::tutorials::_01_background - Rust
+https://docs.rs/egg/0.6.0/egg/tutorials/_01_background/index.html
+
+cksystemsteaching/selfie: An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+https://github.com/cksystemsteaching/selfie
+
+Fast Scans on Key-Value Stores · Issue #62 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/62
+
+Backup and Restore | Gitea Documentation
+https://docs.gitea.com/administration/backup-and-restore
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+ChatGPT
+https://chat.openai.com/c/41bfa588-d658-4e00-be70-6fc857402c12
+
+Sci-Hub | Register-sensitive selection, duplication, and sequencing of instructions. Proceedings of the 15th International Conference on Supercomputing - ICS ’01 | 10.1145/377792.377849
+https://sci-hub.se/https://dl.acm.org/doi/10.1145/377792.377849
+
+Sci-Hub: 地址
+https://sci-hub.se/mirrors
+
+Nginx https反向代理502错误，proxy_ssl_server_name、proxy_ssl_verify_ssl_do_handshake() failed (ssl: error:14094438:ssl-CSDN博客
+https://blog.csdn.net/zzhongcy/article/details/132211707
+
+ssl - How can I use nginx in Windows server to create a loadbalancer? - Stack Overflow
+https://stackoverflow.com/questions/56398114/how-can-i-use-nginx-in-windows-server-to-create-a-loadbalancer
+
+Nginx 反向代理 Sci-Hub | 这是只兔子
+https://www.yeslu.cn/archives/1005f72b.html
+
+http proxy - Nginx will not start with host not found in upstream - Stack Overflow
+https://stackoverflow.com/questions/50248522/nginx-will-not-start-with-host-not-found-in-upstream
+
+nginx - reverse proxy being blocked - Server Fault
+https://serverfault.com/questions/1105834/reverse-proxy-being-blocked
+
+api.tanmeng.org/tabs/1713427472871
+http://api.tanmeng.org/tabs/1713427472871
+
+gitea build with sqilte3 - Google 搜索
+https://www.google.com/search?q=gitea+build+with+sqilte3&rlz=1C1GCEA_enJP1090JP1090&oq=gitea+build+with+sqilte3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDYzMTJqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8#ip=1
+
+Tannal Meng
+http://tanmeng.org/
+
+How can I recover my gitea · Issue #23964 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/23964
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Resolve Git merge conflicts in favor of their changes during a pull - Stack Overflow
+https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull
+
+pulse - Rust
+https://docs.rs/pulse/latest/pulse/
+
+voxon - Google 搜索
+https://www.google.com/search?q=voxon&rlz=1C1GCEA_enJP1090JP1090&oq=voxon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIPCAgQLhgKGMcBGNEDGIAEMgcICRAAGIAE0gEIMTkyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Backup and Restore | Gitea Documentation
+https://docs.gitea.com/next/administration/backup-and-restore#using-docker-restore
+
+mattn/go-sqlite3: sqlite3 driver for go using database/sql
+https://github.com/mattn/go-sqlite3
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+gitea sqlite restore - Google 搜索
+https://www.google.com/search?q=gitea+sqlite+restore&rlz=1C1GCEA_enJP1090JP1090&oq=gitea+sqlite+restore&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTEwMzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Issues · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues?page=2&q=is%3Aissue+sqlite
+
+#Performance - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance
+
+Add support for OpenHarmony by jschwe · Pull Request #239 · servo/font-kit
+https://github.com/servo/font-kit/pull/239/files
+
+#zulip > Zulip updates - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147923-zulip/topic/Zulip.20updates
+
+api.tanmeng.org/tabs/1713427537545
+http://api.tanmeng.org/tabs/1713427537545
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues?page=3&q=is%3Aissue+is%3Aopen
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Debian 12 x llama.cpp Segmentation fault · Issue #6701 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/6701
+
 # 2024-4-18
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
