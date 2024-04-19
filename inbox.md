@@ -1,5 +1,10 @@
 # 2024-4-19 0 | 0 W
 
+How to design reliable file systems?
+
+https://www.felixcloutier.com/x86/intn:into:int3:int1
+
+
 wasm ebpf mlsys go rust mesa graphics web glphy
 layout render engine js engine 
 multimedia video audio
@@ -40,27 +45,6 @@ mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/obj-debug-@CONFIG_GUESS@
 export MOZCONFIG=$WORK/mozconfigs/debug
 
 sudo apt install radeontop
-
-
-
-unzip gitea-dump-1610949662.zip
-cd gitea-dump-1610949662
-
-mkdir -p ~/tannalwork/projects/gitea/data/gitea-repositories/
-
-mv app.ini ~/tannalwork/projects/gitea/custom/conf/app.ini
-mv data/* ~/tannalwork/projects/gitea/data/
-mv repos/* ~/tannalwork/projects/gitea/data/gitea-repositories/
-chown -R gitea:gitea /etc/gitea/custom/conf/app.ini ~/tannalwork/projects/gitea
-
-# mysql
-mysql --default-character-set=utf8mb4 -u$USER -p$PASS $DATABASE <gitea-db.sql
-# sqlite3
-sqlite3 $DATABASE_PATH <gitea-db.sql
-# postgres
-psql -U $USER -d $DATABASE < gitea-db.sql
-
-service gitea restart
 
 if [ -f ~/tannalwork/.bash_aliases ]; then
     source ~/tannalwork/.bash_aliases

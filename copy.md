@@ -1,6 +1,6 @@
 # Good artists copy, great artists steal.
 
-personal blog v2 https://github.com/patrickscoleman/pscoleman-blog
+personal blog v2 nextjs https://github.com/patrickscoleman/pscoleman-blog
 
 browser extensions https://github.com/chibat/chrome-extension-typescript-starter.git
 
