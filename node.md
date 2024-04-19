@@ -1,5 +1,8 @@
 # inbox
 
+./configure --ninja --debug
+time make -j23
+
 rb js-objects.cc:.
 
 gdb --args node_g test/parallel/test-vm-context.js
@@ -96,9 +99,6 @@ git commit --amend
 ./node test/parallel/test-webstreams-clone-unref.js
 
 tools/test.py test/parallel/test-stream2-transform.js
-
-make -C out BUILDTYPE=Release V=0 -j22
-make -C out BUILDTYPE=Debug V=0 -j22
 
 
 
@@ -253,7 +253,9 @@ about:debugging
 
 ./configure -C --debug-node
 
-time make -j20
+./configure --ninja --debug
+
+time make -j22
 
 real    14m31.301s
 user    265m47.070s
