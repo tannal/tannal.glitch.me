@@ -1,3 +1,13 @@
+# 2024-4-19 0 | 0 W
+
+wasm ebpf mlsys go rust mesa graphics web glphy
+layout render engine js engine 
+multimedia video audio
+database & storage systems
+operating systems and 
+
+embeded arm linux rtos https://www.linaro.org/careers/
+
 # 2024-4-18 0 | 0 W
 
 assert(
@@ -306,7 +316,7 @@ sudo sysctl -w fs.inotify.max_user_watches=131072
 
 # 2024-4-13 0 | 0 W
 
-https://bootlin.com/doc/
+https://bootlin.com/training/
 
 https://bootlin.com/doc/training/audio/audio-slides.pdf
 

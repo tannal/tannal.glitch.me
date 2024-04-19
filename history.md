@@ -1,5 +1,137 @@
 # 2024-4-19
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(6 封私信 / 42 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+debugging-slides.pdf
+https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+
+Bing AI - 搜索
+https://www.bing.com/chat
+
+Bytecode Alliance
+https://github.com/bytecodealliance
+
+Element [4] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+changes.diff
+https://gist.github.com/bendk/effb3dd0c52a780f980816be36537f65
+
+Servo and SpiderMonkey - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2024/04/15/spidermonkey/
+
+Commits · servo/servo
+https://github.com/servo/servo/commits?author=eerii&since=2024-03-31&until=2024-04-19
+
+Modular JS/execution engine · Issue #30863 · servo/servo
+https://github.com/servo/servo/issues/30863
+
+In components/script, remove unsafe JS related code · Issue #30862 · servo/servo
+https://github.com/servo/servo/issues/30862
+
+WebIDL impl: remove unsafe JSObject when returning a ReadableStream · Issue #30891 · servo/servo
+https://github.com/servo/servo/issues/30891
+
+Home | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/
+
+j:f:Token::Modifier (Token.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/47db1be98f8069b387ce07dcbea22d09f1854515/js/src/frontend/Token.h#74-128
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Layout team standup meeting notes H1 2024 - Google 文档
+https://docs.google.com/document/d/1BbKGHgmDjD87f6Dt4mMXrZysch5END7AoCIY1cwGSdY/edit
+
+1876679 - [wpt-sync] Sync PR 44218 - [masonry] Track Sizing Updates
+https://bugzilla.mozilla.org/show_bug.cgi?id=1876679
+
+1876679 - [wpt-sync] Sync PR 44218 - [masonry] Track Sizing Updates
+https://bugzilla.mozilla.org/show_bug.cgi?id=1876679
+
+⚙ D207398 Bug 1891414 - Improve opaque region tracking in GTK. r=stransky
+https://phabricator.services.mozilla.com/D207398
+
+web-platform-tests dashboard
+https://wpt.fyi/interop-2024
+
+Element
+https://app.element.io/#/room/#interop20xx:matrix.org
+
+interop/2024/README.md at main · web-platform-tests/interop
+https://github.com/web-platform-tests/interop/blob/main/2024/README.md
+
+Speedometer 3 Status Dashboard
+https://faraday.basschouten.com/mozilla/Speedometer3Dashboard/
+
+Speedometer 3 Status Dashboard
+https://faraday.basschouten.com/mozilla/Speedometer3Dashboard/index.html
+
+LocalFrameView - Google 搜索
+https://www.google.com/search?q=LocalFrameView&rlz=1C1GCEA_enJP1090JP1090&oq=LocalFrameView&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+changwoo min igalia - Google 搜索
+https://www.google.com/search?q=changwoo+min+igalia&rlz=1C1GCEA_enJP1090JP1090&oq=changwoomin&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIICAMQABgNGB7SAQgzNzI1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+gdb call c++ function - Google 搜索
+https://www.google.com/search?q=gdb+call+c%2B%2B+function&rlz=1C1GCEA_enJP1090JP1090&oq=c%2B%2B+gdb+call&gs_lcrp=EgZjaHJvbWUqCAgCEAAYCBgeMgYIABBFGDkyBggBEAAYHjIICAIQABgIGB4yCggDEAAYgAQYogQyCggEEAAYgAQYogQyDAgFEAAYCBgKGA8YHtIBCDY2OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Iain Ireland - Google 搜索
+https://www.google.com/search?q=Iain+Ireland&sca_esv=8d54b35888728aa9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08kBa8YMdLH0Vz_oqHmNnqze9x_7g%3A1713486752945&ei=oLshZtyiOf_P2roP1KaeiA8&ved=0ahUKEwjc8vHJg82FAxX_p1YBHVSTB_EQ4dUDCBA&uact=5&oq=Iain+Ireland&gs_lp=Egxnd3Mtd2l6LXNlcnAiDElhaW4gSXJlbGFuZDIEEAAYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIqQ1Q8wFY9gtwAngAkAEAmAGoAqABjASqAQMyLTK4AQPIAQD4AQGYAgOgArgCwgIHEAAYsAMYHsICCRAAGLADGAgYHsICCxAAGLADGAgYChgewgILEAAYgAQYsAMYogSYAwCIBgGQBgqSBwUyLjMtMaAHrwY&sclient=gws-wiz-serp#ip=1
+
+deno/Cargo.toml at main · denoland/deno
+https://github.com/denoland/deno/blob/main/Cargo.toml
+
+kernel-tools/b4/thanks-am.template at trunk · kees/kernel-tools
+https://github.com/kees/kernel-tools/blob/trunk/b4/thanks-am.template
+
+GitHub
+https://github.com/
+
+Careers at Linaro | Software Careers | Linaro
+https://www.linaro.org/careers/
+
+Firmware/RTOS Engineer - Linaro Limited
+https://careers.linaro.org/jobs/3865121-firmware-rtos-engineer
+
+Issues · cloudflare/bpftools
+https://github.com/cloudflare/bpftools/issues
+
+facebookincubator/katran: A high performance layer 4 load balancer
+https://github.com/facebookincubator/katran/tree/main
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+rustwasm/wasm-bindgen: Facilitating high-level interactions between Wasm modules and JavaScript
+https://github.com/rustwasm/wasm-bindgen/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+api.tanmeng.org/tabs
+http://api.tanmeng.org/tabs
+
+rodio - Rust
+https://docs.rs/rodio/latest/rodio/#alternative-decoder-backends
+
+FFRAME
+https://www.fframe.fr/
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 13 - File system - YouTube
+https://www.youtube.com/watch?v=2AdNrR3Qu7k
+
+Run snippets of JavaScript  |  DevTools  |  Chrome for Developers
+https://developer.chrome.com/docs/devtools/javascript/snippets
+
+Linux 6.8 released, Bootlin contributions - Bootlin's blog
+https://bootlin.com/blog/linux-6-8-released-bootlin-contributions/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
