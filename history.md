@@ -1,3 +1,62 @@
+# 2024-4-20
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+debugging-slides.pdf
+https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+
+USENIX ATC '17: Visualizing Performance with Flame Graphs - YouTube
+https://www.youtube.com/watch?v=D53T1Ejig1Q
+
+nodejs build time - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=nodejs+build+time
+
+how much time do you cost to build nodejs? · Issue #3015 · nodejs/help
+https://github.com/nodejs/help/issues/3015
+
+Why does the NodeJS build take so long? · nodejs · Discussion #43451
+https://github.com/orgs/nodejs/discussions/43451
+
+unhandledRejection Error [ERR_INTERNAL_ASSERTION] · Issue #52574 · nodejs/node
+https://github.com/nodejs/node/issues/52574
+
+github - Switch to another Git tag - Stack Overflow
+https://stackoverflow.com/questions/4330610/switch-to-another-git-tag
+
+Repositories
+https://github.com/orgs/nodejs/repositories
+
+git checkout - How do I check out a remote Git branch? - Stack Overflow
+https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+bitbucket - how to get all branches of my forked git repo - Stack Overflow
+https://stackoverflow.com/questions/25730667/how-to-get-all-branches-of-my-forked-git-repo
+
+Servo
+https://github.com/servo/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Issues · TritonDataCenter/node-stackvis
+https://github.com/TritonDataCenter/node-stackvis/issues
+
+firefox devtools frame graph - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=firefox+devtools+frame+graph
+
+Testing | Skia
+https://skia.org/docs/dev/testing/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+trace-cmd in userspace - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=trace-cmd+in+userspace#ip=1
+
 # 2024-4-19
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,3 +1,42 @@
+# 2024-4-20 0 | 0 W
+
+sudo apt install liblttng-ust-dev
+sudo bpftrace -e 'tracepoint:raw_syscalls:sys_enter { @[comm] = count(); }'
+
+git clone https://github.com/brendangregg/FlameGraph.git
+profile.py -df -F 99 10 | ./FlameGraph/flamegraph.pl > flamegraph.svg
+
+sudo trace-cmd list -e
+sudo trace-cmd list -f
+
+sudo trace-cmd record -p function_graph dd if=/dev/mmcblk0 of=out bs=512 count=
+
+sudo trace-cmd report
+
+perf trace -e "net:*" ping -c 1 192.168.43.1
+
+perf probe --source=. -x ./a.out -F
+perf probe --source=. -x ./a.out -L callee
+perf probe -x /lib/x86_64-linux-gnu/libc.so.6 printf
+perf record -e probe_libc:printf -aR sleep 1
+perf probe -x a.out callee:3 myptr
+perf probe -x ./a.out callee%return ret=%0
+
+perf record -e probe_app:callee -e probe_libc:printf
+
+pmap 78615
+
+vmstat
+
+objcopy -O binary file.elf file.bin
+
+ps --ppid 2 -p 2 -o uname,pid,ppid,cmd,cls
+
+nm vmlinux | grep ksys_read
+addr2line -s -f -e vmlinux ffffffff81467fe0
+ksys_read
+read_write.c:609
+
 # 2024-4-19 0 | 0 W
 
 
