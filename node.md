@@ -1,5 +1,9 @@
 # inbox
 
+git remote add upstream https://github.com/nodejs/node
+
+git fetch upstream v18.x
+
 ./configure --ninja --debug
 time make -j23
 
@@ -261,7 +265,8 @@ real    14m31.301s
 user    265m47.070s
 sys     12m22.725s
 
-ln -s ./out/Release/compile_commands.json .
+ninja -C out/Debug/ -t compdb > compile_commands.json
+
 
 ```
 

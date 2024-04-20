@@ -1,5 +1,11 @@
 # 2024-4-19 0 | 0 W
 
+
+perf record -e cycles:u -g -- ./node_g --perf-basic-prof test.js
+perf script > perfs.out
+npm i -g stackvis
+
+
 How to design reliable file systems?
 
 https://www.felixcloutier.com/x86/intn:into:int3:int1
