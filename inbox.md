@@ -1,5 +1,32 @@
 # 2024-4-20 0 | 0 W
 
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/TUI-Keys.html#TUI-Keys
+
+involves:Manishearth 
+
+git pull
+vcpkg update
+
+vcpkg install libvpx:x64-windows-static libyuv:x64-windows-static opus:x64-windows-static aom:x64-windows-static
+
+
+make LLAMA_CUDA=1 -j16
+
+set substitute-path . ./linux
+
+
+export http_proxy=http://10.90.89.122:7890
+export https_proxy=http://10.90.89.122:7890
+
+git clone https://github.com/ggerganov/llama.cpp
+
+cmake -B build -DLLAMA_CUDA=ON
+cmake --build buil --config Release
+
+code can run, easy to use is great.
+
+https://github.com/search?q=involves%3AManishearth+&type=issues&p=2
+
 sudo apt install liblttng-ust-dev
 sudo bpftrace -e 'tracepoint:raw_syscalls:sys_enter { @[comm] = count(); }'
 

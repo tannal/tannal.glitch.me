@@ -3,6 +3,168 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Bing AI - 搜索
+https://www.bing.com/chat?q=Bing%20AI&qs=ds&form=CONVCP
+
+bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/bytecodealliance/wasm-micro-runtime
+
+• Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+Microsoft Edge's JavaScript engine to go open-source | Hacker News
+https://news.ycombinator.com/item?id=10682003
+
+zpao (Paul O’Shannessy)
+https://github.com/zpao
+
+Node.js on mozilla spidermonkey | Hacker News
+https://news.ycombinator.com/item?id=2469786
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win10/benchmarks/overview?numDays=60
+
+Profile: Manishearth | Hacker News
+https://news.ycombinator.com/user?id=Manishearth
+
+Issue search results
+https://github.com/search?q=involves%3AManishearth+&type=issues&p=2
+
+Switch to meson build · Issue #187 · servo/rust-harfbuzz
+https://github.com/servo/rust-harfbuzz/issues/187
+
+Wrapping Up - Introduction to Next.js 13+, v3
+https://frontendmasters.com/courses/next-js-v3/wrapping-up/
+
+Repositories
+https://github.com/orgs/JetBrains/repositories
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+MathRoda/Messenger-clone: a Facebook Messenger clone using Stream SDK & Jetpack Compose
+https://github.com/MathRoda/Messenger-clone
+
+JIT startsWith and endsWith · Issue #159 · nodejs/performance
+https://github.com/nodejs/performance/issues/159
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+node/test/es-module/test-loaders-hidden-from-users.js at e1fa85133fa48e208df268a5ac49eb5c7537a9a2 · nodejs/node
+https://github.com/nodejs/node/blob/e1fa85133fa48e208df268a5ac49eb5c7537a9a2/test/es-module/test-loaders-hidden-from-users.js
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Clarify the stability of `Deno[Deno.internal].core` · Issue #19848 · denoland/deno
+https://github.com/denoland/deno/issues/19848
+
+键值存储系统设计
+https://chat.openai.com/c/83e80684-f3c8-40b0-95e7-ed24af515a3f
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Debian -- 下载 Debian
+https://www.debian.org/download
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Refactoring Collision - Blazingly Fast JavaScript
+https://frontendmasters.com/courses/blazingly-fast-js/refactoring-collision/
+
+中美贸易战 2024 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98+2024&newwindow=1&sca_esv=b7c0b9c8093215b7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_nYErHFC7cJTFDfMfXDLsmzfvxiw%3A1713586950059&ei=BkMjZvyZA-2u2roP-YStkAI&ved=0ahUKEwj8tMzr-M-FAxVtl1YBHXlCCyIQ4dUDCBA&uact=5&oq=%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98+2024&gs_lp=Egxnd3Mtd2l6LXNlcnAiFOS4ree-jui0uOaYk-aImCAyMDI0MgcQABiABBgMMgcQABiABBgMMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGKIEGIkFMggQABiABBiiBEipCFAAWP8GcAB4AZABAJgBlgKgAYQHqgEFMC40LjG4AQPIAQD4AQGYAgWgApYHwgIGEAAYCBgemAMAkgcFMC40LjGgB_8P&sclient=gws-wiz-serp#ip=1
+
+美国对中国进出口一降一升，贸易战似乎被遗忘
+https://www.voachinese.com/a/china-tariff-war-revisited-u-s-exports-of-oil-surged-in-2023-20240229/7508050.html
+
+Patrick Coleman
+http://localhost:3000/
+
+Debian -- 下载 Debian
+https://www.debian.org/download
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win10/benchmarks/overview?numDays=60
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=advanced%20algorithms&sort=byPopularity&type=story
+
+cmu850-f20.pdf
+https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf
+
+ZigRazor/CXXGraph: Header-Only C++ Library for Graph Representation and Algorithms
+https://github.com/ZigRazor/CXXGraph
+
+15-850: CMU Advanced Algorithms, Spring 2024
+https://www.cs.cmu.edu/~15850/
+
+kerneldev/share.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/share.sh
+
+makedirs exist_ok - Google 搜索
+https://www.google.com/search?q=makedirs+exist_ok&rlz=1C1GCEA_enJP1090JP1090&oq=makedirs&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ3MzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+qemu drive mount - Google 搜索
+https://www.google.com/search?q=qemu+drive+mount&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+drive+mount&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCwgJEAAYChgNGIAE0gEIMzYyN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+debugging - GDB source path - Stack Overflow
+https://stackoverflow.com/questions/23868252/gdb-source-path
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+gdb ctrl x - Google 搜索
+https://www.google.com/search?q=gdb+ctrl+x&rlz=1C1GCEA_enJP1090JP1090&oq=gdb+ctrl+x&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQg3MTUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+C++ Crash Course: Traversing Code in GDB - YouTube
+https://www.youtube.com/watch?v=tsVnmA1U66w
+
+rustdesk/rustdesk: An open-source remote desktop, and alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+vcpkg prebuilt binaries - Google 搜索
+https://www.google.com/search?sca_esv=558c97555a3365b6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08qhl8A7RgxJTaGi5VFBCM4qfVwpQ:1713596838169&q=vcpkg+prebuilt+binaries&spell=1&sa=X&ved=2ahUKEwjO4c7WndCFAxVWh68BHXBEAzYQBSgAegQIBxAC&biw=1536&bih=703&dpr=1.25
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Releases · c3lang/win-llvm
+https://github.com/c3lang/win-llvm/releases
+
+Install RustDesk with winget - winstall
+https://winstall.app/apps/RustDesk.RustDesk
+
+Install on debian failed · Issue #586 · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/issues/586
+
+How to deploy in intranet? · Issue #113 · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/issues/113
+
+TUI Keys (Debugging with GDB)
+https://sourceware.org/gdb/current/onlinedocs/gdb.html/TUI-Keys.html#TUI-Keys
+
+Debug faster with gdb layouts (TUI) - YouTube
+https://www.youtube.com/watch?v=mm0b_H0KIRw
+
+Debugging with GDB - TUI Overview
+https://ftp.gnu.org/old-gnu/Manuals/gdb/html_node/gdb_193.html
+
+Set breakpoint in C or C++ code programmatically for gdb on Linux - Stack Overflow
+https://stackoverflow.com/questions/4326414/set-breakpoint-in-c-or-c-code-programmatically-for-gdb-on-linux
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 libbpf/libbpf-bootstrap: Scaffolding for BPF application development with libbpf and BPF CO-RE
 https://github.com/libbpf/libbpf-bootstrap
 
