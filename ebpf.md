@@ -1,5 +1,7 @@
 # inbox
 
+sudo apt install linux-tools-raspi linux-tools-common
+
 sudo apt-get install linux-headers-$(uname -r)
 
 sudo apt install bpftrace

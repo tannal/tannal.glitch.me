@@ -39,6 +39,35 @@ read_write.c:609
 
 # 2024-4-19 0 | 0 W
 
+Install perf (usually available through the linux-tools-common package if not already installed)
+
+Try running perf - it might complain about missing kernel modules, install them too
+
+Run node with perf enabled (see perf output issues for tips specific to Node.js versions)
+
+perf record -e cycles:u -g -- node --perf-basic-prof app.js
+
+Disregard warnings unless they're saying you can't run perf due to missing packages; you may get some warnings about not being able to access kernel module samples which you're not after anyway.
+
+Run perf script > perfs.out to generate the data file you'll visualize in a moment. It's useful to apply some cleanup for a more readable graph
+
+Install stackvis if not yet installed npm i -g stackvis
+
+Run stackvis perf < perfs.out > flamegraph.htm
+
+unset http_proxy
+unset https_proxy
+unset HTTP_PROXY
+unset HTTPS_PROXY
+unset ALL_PROXY
+unset all_proxy
+
+
+npm i -g framebearer
+npm uni -g framebearer
+node --prof-process --preprocess -j isolate*.log > processed.txt
+flamebearer < processed.txt > flamegraph.html
+
 
 perf record -e cycles:u -g -- ./node_g --perf-basic-prof test.js
 perf script > perfs.out
