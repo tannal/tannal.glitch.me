@@ -1,5 +1,200 @@
 # 2024-4-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+libbpf/libbpf-bootstrap: Scaffolding for BPF application development with libbpf and BPF CO-RE
+https://github.com/libbpf/libbpf-bootstrap
+
+Bing AI - 搜索
+https://www.bing.com/chat
+
+Node.js — Flame Graphs
+https://nodejs.org/en/learn/diagnostics/flame-graphs
+
+Node.js — Flame Graphs
+https://nodejs.org/en/learn/diagnostics/flame-graphs
+
+naugtur/node-example-flamegraph
+https://github.com/naugtur/node-example-flamegraph
+
+patrickscoleman/pscoleman-blog
+https://github.com/patrickscoleman/pscoleman-blog
+
+INT n/INTO/INT3/INT1 — Call to Interrupt Procedure
+https://www.felixcloutier.com/x86/intn:into:int3:int1
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 13 - File system - YouTube
+https://www.youtube.com/watch?v=2AdNrR3Qu7k
+
+Adiosy's blog | 民间图形学爱好者.
+https://www.adiosy.com/
+
+Android跨进程渲染-HardwareBuffer | Adiosy's blog
+https://www.adiosy.com/posts/android%E8%B7%A8%E8%BF%9B%E7%A8%8B%E6%B8%B2%E6%9F%93-hardwarebuffer.html
+
+Go-获取当天、昨天0点时间戳以及格式化时间_time.now().adddate(0, 0, 0)-CSDN博客
+https://blog.csdn.net/luyaran/article/details/119954693
+
+How to Convert an int32 & int64 to string in Go - Go language Tutorial
+https://golangtutorial.dev/tips/convert-int-to-string/
+
+SYSCALL — Fast System Call
+https://www.felixcloutier.com/x86/syscall
+
+ChatGPT
+https://chat.openai.com/c/dae7e7c2-cf8b-43d1-aacb-80737e77075b
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+mozilla/sccache: Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.
+https://github.com/mozilla/sccache
+
+Perf Issue with passing CA certs in Agent Options for HTTPS calls vs NODE_EXTRA_CA_CERTS · Issue #52549 · nodejs/node
+https://github.com/nodejs/node/issues/52549
+
+localhost
+http://localhost:3000/
+
+Functions: fetch | Next.js
+https://nextjs.org/docs/app/api-reference/functions/fetch
+
+Introduction – react-tweet
+https://react-tweet.vercel.app/
+
+Data Fetching: Incremental Static Regeneration (ISR) | Next.js
+https://nextjs.org/docs/pages/building-your-application/data-fetching/incremental-static-regeneration
+
+next.js/examples/cms-wordpress/pages/index.tsx at canary · vercel/next.js
+https://github.com/vercel/next.js/blob/canary/examples/cms-wordpress/pages/index.tsx
+
+Support API routes outside of `pages/api` · vercel/next.js · Discussion #16601
+https://github.com/vercel/next.js/discussions/16601
+
+tannal/pscoleman-blog - pscoleman-blog - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/pscoleman-blog
+
+Log Structured Merge Trees | Hacker News
+https://news.ycombinator.com/item?id=12161569
+
+lucene - Google 搜索
+https://www.google.com/search?q=lucene+&sca_esv=ef32433310457e91&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-PS1lyKfTZ45KUZZ-UvE8o-lZObw%3A1713522938623&ei=-kgiZrvOJcn11e8PhbyCgAo&ved=0ahUKEwi7s8iwis6FAxXJevUHHQWeAKAQ4dUDCBA&uact=5&oq=lucene+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2x1Y2VuZSAyChAjGIAEGCcYigUyCBAAGIAEGMsBMggQABiABBjLATIHEAAYgAQYDDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUj3CVCiBliiBnACeACQAQGYAYsCoAHjA6oBAzItMrgBA8gBAPgBAZgCA6ACkwLCAgoQABiwAxjWBBhHmAMAiAYBkAYCkgcFMi4wLjGgB54F&sclient=gws-wiz-serp
+
+localhost
+http://localhost:3000/
+
+ChatGPT
+https://chat.openai.com/
+
+dom worker firefox - Google 搜索
+https://www.google.com/search?q=dom+worker+firefox&rlz=1C1GCEA_enJP1090JP1090&oq=dom+worker+firefox+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDk0ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Benchmarking · servo/servo Wiki
+https://github.com/servo/servo/wiki/Benchmarking#dromaeo
+
+Benchmarking · servo/servo Wiki
+https://github.com/servo/servo/wiki/Benchmarking#core-dom-performance
+
+git checkout combination - Google 搜索
+https://www.google.com/search?q=git+checkout+combination&sca_esv=09379ecd0b6efd91&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09QJqIzk_FcEF7IJyUZ32ap3GHCNw%3A1713531699987&ei=M2siZv7mO6rm2roPq_K7yAk&oq=git+checkout+combina&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdpdCBjaGVja291dCBjb21iaW5hKgIIADIFECEYoAFI00FQyAxYpjdwAXgAkAEAmAGKAqAB1yKqAQQyLTIwuAEDyAEA-AEBmAIUoALHIcICChAAGLADGNYEGEfCAgQQIxgnwgIKECMYgAQYJxiKBcICCBAAGIAEGMsBwgIEEAAYHsICChAAGIAEGEMYigXCAgUQABiABMICBxAhGKABGAqYAwDiAwUSATEgQIgGAZAGCpIHBjEuMC4xOaAH41U&sclient=gws-wiz-serp
+
+git conflict accept combination - Google 搜索
+https://www.google.com/search?q=git+conflict+accept+combination&sca_esv=09379ecd0b6efd91&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-c9sqeUkNxEexwHTslyQxyNHjxxg%3A1713531787387&ei=i2siZuCSF8-l2roPhqm2iA8&oq=git+conf&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGdpdCBjb25mKgIIADIEECMYJzIKECMYgAQYJxiKBTIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUi7I1DNBVjiHHACeAGQAQCYAdQDoAG6DaoBCTAuMS41LjAuMbgBA8gBAPgBAZgCCaAC0w3CAgoQABiwAxjWBBhHwgIHEAAYgAQYDJgDAIgGAZAGCpIHCTIuMC42LjAuMaAHgSs&sclient=gws-wiz-serp#ip=1
+
+Omphalos - Google 搜索
+https://www.google.com/search?q=Omphalos&rlz=1C1GCEA_enJP1090JP1090&oq=Omphalos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Srinivasa Ramanujan - Wikipedia
+https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
+
+G.H. Hardy - Google 搜索
+https://www.google.com/search?q=G.H.+Hardy&rlz=1C1GCEA_enJP1090JP1090&oq=G.H.+Hardy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=modulation&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=26&prefix=true&query=documentry&sort=byPopularity&type=story
+
+Code rush - Netscape Mozilla Documentary 1998 - 2000
+https://phatak-dev.github.io/techtalks/story-of-firefox/
+
+Site not found · GitHub Pages
+https://phatak-dev.github.io/
+
+Arduino The Documentary (2010) English HD on Vimeo
+https://vimeo.com/18539129
+
+eBPF Documentary - Speakeasy Productions
+https://ebpfdocumentary.com/
+
+https://www.youtube.com/watch?v=WHsHKzYOV2E&feature=bf_next&list=PLEAFF206B2E861FF3
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DWHsHKzYOV2E%26feature%3Dbf_next%26list%3DPLEAFF206B2E861FF3&q=EgSs6UsJGKXkibEGIjDAB1R325V6aS38LGFPKQYBuU_b2amZXyL-tcLPXe1MH8OMa-zH_PYAco-D3P8jRQIyAXJaAUM
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs + quill：快速实现支持协同编辑的富文本编辑器 - 掘金
+https://juejin.cn/post/7229368690943721531
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+rich-editor · GitHub Topics
+https://github.com/topics/rich-editor?o=desc&s=updated
+
+Arduino The Documentary (2010) - YouTube
+https://www.youtube.com/watch?v=D4D1WhA_mi8
+
+Blog – Velimir Radlovački
+https://www.radlovacki.com/blog/
+
+Arduino - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Arduino
+
+NVIDIA/CUDALibrarySamples: CUDA Library Samples
+https://github.com/NVIDIA/CUDALibrarySamples/tree/master
+
+Go 存储基础 | 怎么使用 direct io ？ - 知乎
+https://zhuanlan.zhihu.com/p/459311470
+
+ebpf/types.go at main · cilium/ebpf
+https://github.com/cilium/ebpf/blob/main/types.go
+
+enable/disable O_DIRECT · Issue #12 · ncw/directio
+https://github.com/ncw/directio/issues/12
+
+thomasjungblut/go-sstables: Go library for protobuf compatible sstables, a skiplist, a recordio format and other database building blocks like a write-ahead log. Ships now with an embedded key-value store.
+https://github.com/thomasjungblut/go-sstables?tab=readme-ov-file
+
+RocksDB Overview · facebook/rocksdb Wiki
+https://github.com/facebook/rocksdb/wiki/RocksDB-Overview#3-high-level-architecture
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=pringle&op=translate
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+#general - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147921-general
+
+fix: download the current version of kernel tree (#3665) · nodejs/build@f47378d
+https://github.com/nodejs/build/commit/f47378d291414c7737ce357a29c0385411a94a1b#diff-defbc8b47ac38e61f13c879fe077505f5c57863d0fe5f48dbd8dfb562e457ea9
+
+LFC Display Tree - WebKit Documentation
+https://docs.webkit.org/Deep%20Dive/Layout%20%26%20Rendering/DisplayTree.html#geometry
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
