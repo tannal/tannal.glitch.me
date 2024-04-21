@@ -1,5 +1,74 @@
 # 2024-4-21
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva?tab=readme-ov-file
+
+How I built a key value store in Go | by Syed Jafar Naqvi | Medium
+https://medium.com/@naqvi.jafar91/how-i-built-a-key-value-store-in-go-bd89f68062a8
+
+检索-中国知网
+https://kns.cnki.net/kns8s/defaultresult/index?crossids=YSTT4HG0%2CLSTPFY1C%2CJUP3MUPD%2CMPMFIG1A%2CWQ0UVIAA%2CBLZOG7CK%2CEMRPGLPA%2CPWFIRAGL%2CNLBO1Z6R%2CNN3FJMUV&korder=SU&kw=%E9%94%AE%E5%80%BC%E5%AF%B9%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F
+
+基于LSM-tree的键值存储系统的读写性能优化 - 中国知网
+https://kns.cnki.net/kcms2/article/abstract?v=8WLnD7pOpNEJiwjwXOvaGINzJBPAMx7K5ZICgh6TtkN6OozV2NG2UHRZ5H0kY7w7ezpZ5YYbomfz78IUm6jdAsIztXrBaIDBs3tIQj187CBfINu9zb2-89PpI9ZC-8m-2iNGeH1iCGA=&uniplatform=NZKPT&language=CHS
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=modern%20stack&sort=byPopularity&type=story
+
+mail-in-a-box/mailinabox: Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+https://github.com/mail-in-a-box/mailinabox
+
+Mail-in-a-box: easy to set up modern SMTP/SMTPS server stack | Hacker News
+https://news.ycombinator.com/item?id=7634514
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=rogramming%20is%20a%20wonderful%20way%20to%20learn%20from%20each%20other%20and%20also%20identify%20mistakes%20in%20each%20other%E2%80%99s%20code.%20We%20also%20encourage%20you%20to%20review%20each%20other%E2%80%99s%20code.%20Code%20reviews%20are%20a%20common%20part%20of%20any%20company%E2%80%99s%20development%20workflow.%20%0A%20%0AKeep%20in%20mind%20that%20any%20career%20is%20as%20much%20a%20people%E2%80%99s%20game%20as%20it%20is%20about%20skill.%20Your%20classmates%20now%20will%20become%20your%20professional%20network%20in%20the%20future.%20Therefore%2C%20be%20kind%20to%20each%20other%2C%20and%20keep%20in%20mind%20that%20in%20group%20scenarios%2C%20one%E2%80%99s%20success%20is%20everyone%E2%80%99s%20success.%20Making%20friends%20is%20as%20important%20as%20your%20final%20grade.%20%0A%20%0A%0A%0AVersion%20Control%20System%0A%20%0ATo%20collaborate%20on%20this%20assignment%2C%20please%20use%20the%20version%20control%20system%20Git.%20This%20is%20a%20widely%20used%20version%20control%20system%2C%20and%20you%20will%20likely%20encounter%20it%20during%20your%20careers%2C%20so%20it%20is%20important%20to%20become%20conversant%20in%20it.%20Git%20would%20allow%20you%20and%20your%20teammates%20to%20work%20collaboratively%20by%20merging%20changes%20into%20the%20same%20code%20base%20without%20stepping%20on%20each%20other%E2%80%99s%20toes%20(e.g.%2C%20undoing%20each%20other%E2%80%99s%20edits).%20You%20can%20create%20private%20git%20repositories%20on%20github.com%20or%20bitbucket.com.%20Please%20make%20sure%20your%20repositories%20are%20private%20so%20that%20others%20can%27t%20copy%20your%20code.%20Please%20also%20keep%20your%20repositories%20private%20once%20the%20code%20ends%20so%20that%20future%20generations%20of%20students%20are%20unable%20to%20copy%20your%20code.%20%0A%20%20%20%20%20%0ACoding%20Practices%0A%20%0ABe%20sure%20to%20write%20clear%20modular%20code%20and%20comment%20on%20the%20purpose%20of%20every%20class%20and%20method.%20This%20is%20important%20for%20you%20and%20your%20teammates%20to%20understand%20each%20other%E2%80%99s%20code.%20It%20is%20also%20important%20for%20us%20to%20ultimately%20be%20able%20to%20understand%20your%20code%20so%20that%20we%20can%20grade%20it.%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AScope%20%0A%0ATypically%2C%20KV-stores%20can%20handle%20variable-sized%20keys%20and%20values%20and%20can%20operate%20concurrently%20with%20multiple%20threads.%20To%20simplify%20the%20project%20and%20only%20focus%20on%20core%20learning%20outcomes%2C%20however%2C%20it%20is%20ok%20for%20your%20implementation%20to%20be%20single-threaded%20and%20handle%20only%20primitive%20data%20types%20(e.g.%2C%20keys%20and%20values%20can%20both%20be%208-byte%20integers).%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0AOn%20the%20use%20of%20external%20libraries%0A%20%0AIt%20is%20ok%20to%20use%20standard%20external%20C%2B%2B%20libraries%2C%20but%20you%20are%20not%20allowed%20to%20use%20them%20as%20a%20replacement%20for%20the%20material%20you%20will%20be%20asked%20to%20program%20yourself.%0A%20%0AIntegrated%20Development%20Environment%0A%20%0AI%20recommend%20working%20with%20an%20integrated%20programming%20environment%20like%20Eclipse.%20This%20will%20provide%20you%20with%20visual%20debugging%20tools%2C%20which%20will%20make%20the%20programming%20process%20easier.%0A%0AMakefiles%0A%0APlease%20use%20a%20makefile%20to%20compile%20your%20code.%20This%20will%20simplify%20your%20life%20considerably.%20Makefiles%20simplify%20the%20compilation%20of%20your%20project%20by%20declaring%20the%20compilation%20workflow%20and%20executing%20it%20all%20with%20one%20command.%20This%20will%20require%20some%20fiddling%20effort%20to%20figure%20out%2C%20but%20it%20will%20pay%20off.%20This%20is%20also%20important%20for%20us%20when%20grading%20your%20project.%20Ideally%2C%20we%20should%20just%20be%20able%20to%20type%20%E2%80%9Cmake%E2%80%9D%20in%20the%20command%20line%20to%20compile%20your%20project.%20%20%0A%0A%0A%0APlatform%0A%20%0AThis%20project%20should%20be%20done%20in%20a%20Linux%20environment%20for%20the%20best%20support.%20If%20you%20do%20not%20have%20Linux%20installed%2C%20you%20can%20use%20a%20virtual%20machine.%0A%0AReport%0A%0AYour%20final%20hand-in%20will%20include%20a%20report%20that%20describes%20your%20implementation.%20The%20goal%20of%20this%20is%20to%20draw%20the%20attention%20of%20the%20reader%20to%20how%20you%20implemented%20the%20requirements%20for%20the%20project%2C%20as%20well%20as%20to%20any%20%E2%80%9Ccool%E2%80%9D%20or%20non-trivial%20features%20or%20optimizations%20that%20you%20added%20beyond%20the%20scope%20of%20the%20project.%20The%20foremost%20goal%20of%20this%20is%20to%20practice%20technical%20writing%2C%20something%20you%20will%20also%20do%20during%20your%20career.%20Another%20goal%20is%20to%20make%20it%20easier%20for%20us%20to%20grade%20your%20project%20by%20telling%20us%20where%20to%20direct%20our%20attention.%20You%20are%20welcome%20to%20get%20feedback%20on%20the%20state%20of%20your%20report%20during%20office%20hours.%20%0A%0AExperiments%20%0A%0AYour%20implementation%20should%20not%20only%20meet%20the%20required%20functionality%20but%20also%20perform%20well.%20To%20verify%20this%2C%20we%20will%20ask%20you%20to%20run%20experiments%20that%20benchmark%20the%20capabilities%20of%20your%20system.%20Please%20include%20those%20in%20your%20report.%20Each%20experiment%20should%20lead%20to%20one%20figure%20that%20shows%20how%20some%20performance%20metric%20changes%20as%20you%20vary%20some%20parameter%20of%20the%20system%20or%20the%20workload.%20Each%20figure%20should%20also%20include%20one%20paragraph%20to%20describe%20the%20experiment%2C%20summarize%20the%20take-away%20message%2C%20and%20provide%20intuition.%20Make%20sure%20your%20graphs%20are%20always%20clearly%20labeled.%20It%20should%20be%20crystal%20clear%20what%20the%20x-axis%20and%20y-axis%20represent%20and%20what%20the%20unit%20of%20measurement%20is.%20For%20each%20step%20in%20this%20project%2C%20we%20will%20provide%20guidelines%20about%20the%20kind%20of%20experiments%20you%20should%20run.%20%0A%0AReproducibility%0A%0AReproducibility%20in%20science%20is%20emerging%20as%20an%20important%20concern%20across%20many%20domains.%20In%20the%20database%20community%2C%20there%20are%20recent%20initiatives%20to%20ensure%20that%20results%20reported%20in%20academic%20papers%20can%20actually%20be%20reproduced%20by%20others%20in%20the%20community.%20You%20are%20welcome%20to%20browse%20here%20for%20more%20information%3A%20https%3A%2F%2Freproducibility.sigmod.org%2F.%20The%20goal%20is%20to%20check%20ourselves%20and%20ensure%20robust%20progress%20for%20our%20field%20as%20a%20whole.%20Reproducibility%20is%20also%20crucial%20in%20industry%3A%20as%20database%20vendors%20add%20new%20functionality%20into%20their%20products%2C%20we%20must%20understand%20their%20performance%20side-effec&op=translate
+
+ChatGPT
+https://chat.openai.com/c/7e87e465-167e-4af1-beb6-e0d89c831642
+
+写入放大 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%86%99%E5%85%A5%E6%94%BE%E5%A4%A7
+
+osdi no os paper - Google 搜索
+https://www.google.com/search?q=osdi+no+os+paper&rlz=1C1GCEA_enJP1090JP1090&oq=osdi+no+os+paper&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAHSAQg0OTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+cs523_intro_fall21.pdf
+https://cs523-uiuc.github.io/fall21/cs523_intro_fall21.pdf
+
+howto-paper.pptx
+https://gernot-heiser.org/talk-howto-paper.pdf
+
+Formal Methods: Just Good Engineering Practice? - Marc's Blog
+https://brooker.co.za/blog/2024/04/17/formal.html
+
+Repositories
+https://github.com/orgs/Debian/repositories?type=all
+
+libdsync - Google 搜索
+https://www.google.com/search?q=libdsync&rlz=1C1GCEA_enJP1090JP1090&oq=libdsync&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMjgyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+It's Time for Operating Systems to Rediscover Hardware | Hacker News
+https://news.ycombinator.com/item?id=28374523
+
+Systems Software Research is Irrelevant (2000) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=29709807
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
