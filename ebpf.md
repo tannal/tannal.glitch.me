@@ -10,9 +10,11 @@ David Miller
 
 git clone https://github.com/libbpf/libbpf-bootstrap.git
 
+sudo stackcount-bpfcc -p 7375 -i 2 --debug "*update_process_times*"
+sudo stackcount-bpfcc -p 7375 -i 2 --debug "*tick_sched_handle*"
+
 
 sudo ./stackcount.py -P -p 4370 "bio_submit*"
-
 sudo ./stackcount.py -P -p 24469 "bio*" -i 2
 sudo ./stackcount.py -P -p 24469 "page*" -i 2
 

@@ -1,4 +1,33 @@
 
+# leveldb
+
+git clone https://github.com/google/leveldb.git
+git submodule update --init
+cmake -B build -G Ninja -DBUILD_SHARED_LIBS=ON -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+time cmake --build build
+
+https://github.com/google/leveldb.git
+
+mkdir -p build && cd build
+cmake -DCMAKE_BUILD_TYPE=Release .. && time cmake --build .
+
+
+# skia
+
+git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
+export PATH="$PATH":`pwd`/depot_tools
+
+mkdir skia
+cd skia
+
+gclient config https://skia.googlesource.com/skia.git
+gclient sync
+
+python3 tools/git-sync-deps
+bin/gn gen out/Shared --args='is_official_build=true is_component_build=true'
+bin/gn gen out/Debug
+ninja -C out/Debug
+ninja -C out/Debug/ -t compdb > compile_commands.json
 
 # yjs-demons systemd
 
@@ -843,6 +872,8 @@ git lfs pull
 git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF
 GIT_LFS_SKIP_SMUDGE=1
 
+GIT_LFS_SKIP_SMUDGE=1 git pull origin main
+git lfs pull
 
 # git switch a repo default branch to main
 

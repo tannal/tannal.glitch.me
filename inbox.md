@@ -1,8 +1,8 @@
 # 2024-4-21 0 | 0 W
 
-85
+Red Hat officially acquired by IBM
 
-Files in /proc that are writable are usually changed by echoing a value into them. You should try:
+https://wanghenshui.github.io/recommend.html
 
 sudo sh -c 'echo 1 >/proc/sys/kernel/perf_event_paranoid'
 The files under /proc/sys/ also have the sysctl command for easy access, so you can instead do:
@@ -45,9 +45,7 @@ involves:Manishearth
 
 git pull
 vcpkg update
-
 vcpkg install libvpx:x64-windows-static libyuv:x64-windows-static opus:x64-windows-static aom:x64-windows-static
-
 
 make LLAMA_CUDA=1 -j16
 
@@ -99,8 +97,6 @@ Run perf script > perfs.out to generate the data file you'll visualize in a mome
 Install stackvis if not yet installed npm i -g stackvis
 
 Run stackvis perf < perfs.out > flamegraph.htm
-
-
 
 node --prof-process --preprocess -j isolate*.log > processed.txt
 
@@ -319,20 +315,12 @@ sudo sysctl -w fs.inotify.max_user_watches=131072
 
 https://bootlin.com/training/
 
-https://bootlin.com/doc/training/audio/audio-slides.pdf
-
-https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf
-
-https://bootlin.com/doc/training/graphics/
-
 GEM Graphics excution/memory manager
 DRM KMS
 
 It's often to give up an abstraction when it's leaking too much or too often.
 
 k8s k3s k0s k9s
-
-~/tannaowrk/
 
 if you know what you doing, you can do it.
 because you understand how machine works.
@@ -349,21 +337,6 @@ if the result is 0, you are blocking by others.
 
 test and set
 exchange
-
-git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
-export PATH="$PATH":`pwd`/depot_tools
-
-mkdir skia
-cd skia
-
-gclient config https://skia.googlesource.com/skia.git
-gclient sync
-
-python3 tools/git-sync-deps
-bin/gn gen out/Shared --args='is_official_build=true is_component_build=true'
-bin/gn gen out/Debug
-ninja -C out/Debug
-ninja -C out/Debug/ -t compdb > compile_commands.json
 
 you can check whether data is right use assert
 you can check whether the code path is right using logging debugging and tracing.(it can be tricky in a concurrent system)
@@ -393,22 +366,6 @@ Eugene Charniak
 
 # 2024-4-12 0 | 0 W
 
-git clone https://github.com/google/leveldb.git
-git submodule update --init
-cmake -B build -G Ninja -DBUILD_SHARED_LIBS=ON -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
-time cmake --build build
-
-
-if the code path is right & all the data the code path read/write is right
-then the code is right.
-
-if code path is right then the data is wrong
-musk a writer to the data
-neither interpreter the data wrongly 
-or set the data wrongly
-
-if code path is wrong, then it's easy.
-
 trident
 
 https://webapi.link/
@@ -424,8 +381,6 @@ pixel shader
 predicate
 The cat
 
-
-
 target record-full
 target record-core
 
@@ -437,23 +392,15 @@ git clone git://source.winehq.org/git/wine.git
 
 qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp" 
 
--device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/d/1vqn33KlxMxE0A-neg8ry28UoQykNvXzZ/view?usp=sharing
+-device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/
 
-
-Steve Jobs - The Lost Interview
 
 The "equalizing" tools help the average programmer when everything works well, but they make it significantly more difficult for them when problems arise. Today's tools have given us many leaky abstractions.
 
 The software is getting worse to write when it becomes easy for customers to use
 
-true
-
-I originally moved to the US to work on developer tools at Microsoft, 
-where I worked on Visual Studio Code and browser DevTools.
-
 # 2024-4-11 0 | 0 W
 
-git pull -X theirs origin main
 let document = self.documents.borrow().find_document(id);
 
 Flutter Team
@@ -465,8 +412,6 @@ https://github.com/search?q=involves%3Avsmenon&type=issues
 git clone https://github.com/karpathy/llm.c
 
 watch -n 0.1 nvidia-smi
-export http_proxy=http://10.90.155.96:7890
-export https_proxy=http://10.90.155.96:7890
 
 python train_gpt2.py
 make train_gpt2
@@ -479,20 +424,8 @@ OMP_NUM_THREADS=8 ./train_gpt2
 false search
 truth search
 
-find the error
-
-3D graphics also involve more than just the graphics API, OS graphics subsystem, and hardware driver. It typically includes modeling, rendering, shading, lighting, and other processes involved in creating three-dimensional graphics. These additional components are essential for rendering complex 3D scenes and objects accurately.
-
- modeling is typically replaced by the creation of shapes, lines, and text using vector graphics or pixel-based drawing.
-
-Rendering in 2D often involves compositing these shapes and elements onto a 2D surface, such as a computer screen.
-
-
 KDAB
 https://floss.social/@servo
-
-Where do you see Servo going in a year, or two, or five?
-A robust embedded webview, a thriving gateway for the next generation of browser devs, the foundation of Rust’s web platform story?
 
 QT kdab
 https://blog.mggross.com/
@@ -500,8 +433,6 @@ https://github.com/ahayzen
 
 # 2024-4-10 0 | 0 W
 
-sudo stackcount-bpfcc -p 7375 -i 2 --debug "*update_process_times*"
-sudo stackcount-bpfcc -p 7375 -i 2 --debug "*tick_sched_handle*"
 
 
 Let the Acutally User write the docs, not the implementer.
@@ -511,10 +442,7 @@ User need to comunicate with implementers, get the right conclusion then write t
 control character
 content character
 
-
 inferences can lead to emotions
-
-no theoris tell us the whole truth
 
 It's about the content, not the process.
 
@@ -523,13 +451,7 @@ The worse performance becomes.
 
 https://codepen.io/hrtzt/pens/public
 
-consulting
-
-
-d 05.mp4 /hoem/tannal/tannalwork/videos/
-
 echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
-
 
 rb query
 
@@ -538,13 +460,6 @@ BEGIN;
 => SELECT pg_current_xact_id();
 
 ./psql -h 192.168.43.246 -p 5432 -U tannal -d exchange
-
-GIT_LFS_SKIP_SMUDGE=1 git pull origin main
-git lfs pull
-
-https://ebpf.foundation/funding-opportunities/?fbclid=IwAR1NkUiOCVoxxW3rvWw2ah4avnUlsS3TUCnz19vhpTBVz8I1pNsYbZ0jvCo_aem_AU4fAUcaJ5AdX9QwAcfDf70c_DU6osGjz2uq8B3k9mju2K_bxaVrn4iF4K-lQE1Le3ttDgHTtBn5Vh0CKaC4cwxX
-
-context_switch
 
 libglvnd
 OpenGL/GLES
@@ -565,54 +480,9 @@ How to build a Database? A lazy approach.
 go test -benchmem -run=^$ -bench .
 go test -benchcpu -run=^$ -bench .
 
-```bash
-
-https://github.com/google/leveldb.git
-
-mkdir -p build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release .. && time cmake --build .
-
-real    0m44.458s
-user    0m40.343s
-sys     0m4.054s
-
-```
-
 
 the mental model remember what is true
 not what is false
-
-scrolling is harmful for reading
-var allowScrolling = true
-window.addEventListener('keydown', function(e) {
-  // If user scrolls, disable automatic scrolling temporarily
-  if(e.key === 'j') {
-      allowScrolling = !allowScrolling;
-  }
-});
-
-setInterval(() => {
-  scrollToRandomPercentage()
-}, 1000 * 4)
-
-function scrollToRandomPercentage() {
-  if(allowScrolling) {
-    // Generate a random percentage between 0 and 1
-    var randomPercentage = Math.random();
-
-    // Get the total height of the document
-    var totalHeight = document.body.scrollHeight - window.innerHeight;
-
-    // Calculate the position to scroll to
-    var scrollTo = randomPercentage * totalHeight;
-
-    // Scroll to the calculated position
-    window.scrollTo({
-      top: scrollTo,
-      behavior: 'instant' // Smooth scrolling
-    });
-  }
-}
 
 Philip N. Johnson-Laird
 
@@ -625,12 +495,6 @@ do the wrong thing and get stuck
 
 why some of articles can be read through by i?
 and some of articles can't be read through
-
-
-
-boot into main
-boot into shell
-boot into launcher window system
 
 objdump -d 
 
@@ -665,9 +529,6 @@ $LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_he
 $LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libHelloWorld.so -passes=hello-world -disable-output input_for_hello.ll
 
 
-RUN echo 'nameserver 192.168.43.62' >> /etc/resolv.conf
-
-
 sudo apt install libedit-dev libzstd-dev libcurl4-openssl-dev
 
   File "/usr/bin/dstat", line 2847, in <module>
@@ -689,20 +550,8 @@ sudo apt install libedit-dev libzstd-dev libcurl4-openssl-dev
 OverflowError: cannot convert float infinity to integer
 
 
-how problems relate to each other?
-
 コンパイラ
 コミット
-
-explain the most important three words to understand these
-
-
-explain these word by word in en
-
-more than what you see?
-special to general
-less -> more
-more -> less
 
 https://news.ycombinator.com/from?site=google.github.io
 
