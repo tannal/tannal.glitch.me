@@ -1,5 +1,7 @@
 # 2024-4-21 0 | 0 W
 
+https://www.collabora.com/careers.html
+
 Red Hat officially acquired by IBM
 
 https://wanghenshui.github.io/recommend.html
@@ -5484,7 +5486,6 @@ ldd --version
 
 sudo snap remove postgres
 
-
 /home/ubuntu/.config/clash/config.yaml
 
 ~/setup/clash/clash-linux-amd64-v1.14.0
@@ -5503,12 +5504,7 @@ disks
 
 sorts hashing worst-case fsyncs
 
-shared memory can be very large flush can cayse hugh IO (TB memory)
-
-checkpoint
-
 WAL need fast and safe because we have log for every transaction.
-
 
 it easy to "fool" people.
 
@@ -5522,13 +5518,6 @@ no restriction ways
 make it impressive amazing 
 
 # 2024-1-13 1+1+1+1+1+1 | 1+1+1
-
-RAM
-
-Disk
-
-os (Linux/windows/macos)
-DB 
 
 ► Computer architecture	
 ► Computer networks	
@@ -5546,24 +5535,6 @@ DB
 https://marabos.nl/atomics/
 
 android ndk can compile c/c++ for antroid target
-
-bun to zig is like servo to rust
-
-automate generation of instruction selectors code generation
-
-javascript spidermoney javascriptcore v8 quickjs babel
-
-typescript swc twc tsc
-
-C/C++ gcc clang
-
-rust rustcc
-
-go go
-
-markdown
-
-HTML/CSS 
 
 https://astexplorer.net/
 
@@ -5592,34 +5563,6 @@ sudo swapoff -a
 .debug_abbrev 
 .debug_info 
 .debug_aranges
-
-There is no perfect people.
-
-sometimes ai knows, sometime ai doesn't, it's like human.
-
-the future is the sum of all human behavior.
-
-the stock market is a subset of the future.
-
-what do we need around code?
-1. how to change the code? implementation
-2. how users can use the code? interface
-
-it's all about communication, like docs, books, turtorial, community.
-
-so the point is we need a community around the code itself. eg. mailing list, live chat, talks, conference, and connection (with people)
-
-all way go down to it's all about connection with people.
-
-more percisely is the connection between users(interface) and developers(implementation)
-
-and the connection between users and users 
-
-and the connection between developers and developers.
-
-connections means flow, someone leave and someon join.
-
-flow is life.
 
 pnpm, like npm and Yarn deal with package.json
 
@@ -5694,41 +5637,16 @@ https://www.infinitech-intl.com/en/page/careers
 
 https://next-ai-news.vercel.app/search?q=remote
 
-3 5 8 10
-
-The better you design it when it's not large(there is no so much devs around this project) determine how far it can go.
-
-w3c css working group whatwg
-
-os syscall -> std library -> thirdparty library -> framework -> application C/C++/
-
-os syscall -> prgramming language runtime -> std library -> thirdparty libarary -> framework -> application 
-
-It's all about how much you can get. logical reasoning is useless, pointless, and useless.
-
 testing error handling logging 
-
 
 astro vite rollup -> 
 
 vscode ssh tunning port forwarding
 
 
-focus on things change slowly in 3-5 years cuda pytorch stable things matter
-
 Daniel Bevenius - Principal Software Engineer - Red Hat
 
 highly care about 2024-2027 20-23 (*) and 2027-2030 23-26
-
-There are "popular" things that died quickly.
-
-focus on things change slowly in 3-5 years(more than three years life time after it get "popular") cuda pytorch stable things matter
-
-don't working on things would complete change in a year(short life less than three years). eg. js frameworks 
-
-low level language C and assembly and machine code (knowledge of computer systems)
-
-high level language C++ Rust Golang (knowledge of language abstractions and computer systems)
 
 This is /run/systemd/resolve/stub-resolv.conf managed by man:systemd-resolved(8).
 
@@ -5769,8 +5687,6 @@ libuv c++ v8
 
 
 intel
-
-haigui
 
 Application Engineer
 SoC Design Engineer
@@ -5822,7 +5738,6 @@ https://amperecomputing.com/careers/apply?p=job/ob7pqfwR&nl=1
 https://amperecomputing.com/careers/apply?p=job/oFNIqfwk&nl=1
 https://amperecomputing.com/careers/apply?p=job/obDHofwD&nl=1
 
-How to raise money/funding for a product? 
 
 ```
 Can you help me go through some of the most used feature about future in rust with a example.
@@ -5830,20 +5745,6 @@ Can you help me go through some of the most used feature about future in rust wi
 explain the most important things, keep answer as short as posiible, please phrase your sentence well.
 
 ```
-
-embedded networking linux kernel networking browser networking gaming networking datacenter networking
-
-raw cpu computing os computing language abstraction programming framework programming application programming
-
-parallel programming gpu programming graphics programming
-
-often startup needs to talk to client frequently, they feedback quick.
-
-and they will give talks about their product, which demenstrate the core ideas of the product(aka selling point)
-
-in the case of open source junior can learn a lot from it.
-
-CI has TIMEOUT [expected FAIL] which could be flake or CI problem.
 
 sudo apt install minicom
 
@@ -5873,7 +5774,6 @@ Bazel CMake ninja auto-ninja
 CMake -> ninja
 Cmake -> make
 Cmake -> bazel
-
 
 https://risingstars.js.org/2023/en
 
@@ -5940,25 +5840,6 @@ https://github.com/rust-lang/rust/issues/33159
 
 %edi %esi
 
-```c
-
-struct nsproxy {
-        atomic_t                   count;                /*     0     4 */
-        struct uts_namespace *     uts_ns;               /*     4     4 */
-        struct ipc_namespace *     ipc_ns;               /*     8     4 */
-        struct mnt_namespace *     mnt_ns;               /*    12     4 */
-        struct pid_namespace *     pid_ns_for_children;  /*    16     4 */
-        struct net *               net_ns;               /*    20     4 */
-        struct time_namespace *    time_ns;              /*    24     4 */
-        struct time_namespace *    time_ns_for_children; /*    28     4 */
-        struct cgroup_namespace *  cgroup_ns;            /*    32     4 */
-
-        /* size: 36, cachelines: 1, members: 9 */
-        /* last cacheline: 36 bytes */
-};
-
-```
-
 pahole -C task_struct vmlinux
 pahole -C nsproxy vmlinux
 
@@ -5993,15 +5874,10 @@ winget install -e --id ShareX.ShareX
 
 ```
 
-The code is sucks, the people are great. Always so, no matter in/out side cn.
-
-We should always focus on people around.
-
 Andreessen Horowitz, Kleiner Perkins, EQT, Bessemer, BOND and Menlo Ventures investor# 2024-1-8
 
 https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
 
-how google use leveldb
 
 Sanity cms
 
@@ -6152,20 +6028,14 @@ What confuses the internet is that Apple operating systems are modular and one m
 
 https://www.codingninjas.com/studio/library/linux-kernel-mentorship-program
 
-
 sudo snap install go --classic
-
-what you see is pointless. It's just what it is.
 
 ```bash
 
 sudo update-alternatives --config java
 
-Rust is bigger than Mozilla
-
 ```
 
-web history
 
 1990-2005 Server-rendered HTML /cgi-bin php django ASP.NET pearl
 2005-2010 Server html scattered js jquery ajax
@@ -6181,51 +6051,15 @@ git log --grep="Josh Miller"
 
 git show --stat --name-only
 
-
-
 ```bash
 
 du -sh target
 
 ```
 
-& in shell
-
 LocalStorage SessionStorage leveldb instead of sqlite https://bugs.chromium.org/p/chromium/issues/detail?id=225934
 
 concurrency is a way to structure the software, once you structure it properly, you can get parallesim for free.
-
-You don't need to accept it, but you need to understand it.
-
-The sccessful of the go programming language
-
-- schwag logo symbol community open
-
-- cross platform
-
-- backward compatibility
-
-- library tools 
-
-Software is for machine to run, not for people to read.
-
-Don't try to read large project source code without a specific goal , it's basicaly a waste of time.
-
-No one can understand every details in big projects like postgresql, linux kernel, eta.
-
-If you want to learn something, try to communicate with someone who know/invent it.
-
-Reading is communication, it's just one-way. 
-
-But two-way, feedback-rich communication can help you more.
-
-
-
-0.X breaking changes prototype creativity move fast and break things
-
-1.0 stable compatibility don't break user's code
-
-Rust Backward Compatibility
 
 ```bash
 
@@ -6315,10 +6149,6 @@ rustup target add aarch64-unknown-linux-gnu
 
 ```
 
-https://github.com/servo/servo/wiki/Servo-Layout-Engines-Report
-
-sudo systemctl enable ssh
-
 ```bash
 
 sudo systemctl enable ssh
@@ -6326,11 +6156,6 @@ sudo systemctl enable ssh
 
 ```
 
-```bash
-
-gcc -fverbose-asm -S main.c
-
-```
 https://github.com/microsoft/winget-cli/issues/1812
 
 gmail ajax
@@ -6356,16 +6181,6 @@ https://github.com/waldyrious
 
 https://github.com/microsoft/vscode-docs
 
-code analysis lsp highlighting eta
-
-lsp is pretty damn important
-
-c/c++ clangd compilation database bear/cmake compile_commads.json
-
-go go
-
-rust rust-analyer
-
 perl/ruby/tcl/erlang/scala/
 
 
@@ -6389,22 +6204,17 @@ cd netsurf
 
 https://source.netsurf-browser.org/netsurf.git/plain/docs/quick-start.md
 
-
 ```
 
 https://talentdirectory.mozilla.org/
 
 deno servo node llvm-project raspi chromium webkit app
 
-posts
-
 https://www.outreachy.org/alums/2023-12/
 
 https://www.outreachy.org/docs/applicant/#outreachy-schedule
 
 We understand you may be applying to many jobs. If you receive a job or internship offer, please notify Outreachy organizers immediately.
-
-the exams for your last school term must end before Jan. 20, 2024. 
 
 # 2024-1-2
 
@@ -6413,9 +6223,6 @@ https://github.com/nodejs/node/pull/50899/files
 gitpod
 
 ```bash
-
-
-c/c++ on windows
 
 # vcpkg install raylib
 
@@ -6534,7 +6341,7 @@ corepack enable
 
 nvm use 20.10.0
 
-
+```
 # 2023-12-31
 
 sudo apt install solaar
@@ -6779,23 +6586,8 @@ sudo apt-get install linux-tools-common linux-tools-generic linux-tools-`uname -
 
 ```
 
-Realtime process 0-99
-
-Normal process 100-139
-
-Nice -20-19
-
-PR_new = PR_old + Nice
-
-Priority
-
-python fabric
-
 
 # 2023-12-29
-
-
-https://www.collabora.com/careers.html
 
 ```bash
 
@@ -6810,8 +6602,6 @@ deactivate
 pip freeze
 
 ```
-
-buildroot openwrt yocto
 
 BuildRoot OpenWrt Yocto
 
@@ -6845,31 +6635,7 @@ define i32 @foo(i32 %a) {
 
 call void @use(i32 %sum)
 
-buffer table & buffer descripter & buffer pool
-
-every other line 每隔一行
-
-String &str
-
-vec! HashSet HashMap
-
-{:?} debug print
-
-.iter().count().sum().filter().for_each().collect()
-
-enumerate skip take
-
-push based pull based iterator & generator & iter() & collect()
-
-push no collect
-
-pull has collect manually
-
 web intent
-
-12.23 - 1.6 chrismas
-
-discussion & docs & code review & fix bugs
 
 impact > learning
 
@@ -6877,9 +6643,6 @@ most time in particip
 
 Jamstack Story book React Style guidist React cosmos
 
-Full Stack
-
-wasm learning a lof of things from llvm
 
 # 2023-12-28
 
@@ -6903,26 +6666,6 @@ endforeach()
 
 ```
 
-3 year experience of software 
-
-postmaster dump
-
-associate is automatic
-
-logical -> imagination
-
-Learn -> doing creating making impact
-
-one way -> two way
-
-linear -> exponential
-
-general vague -> specilized highly needed
-
-write perfect code -> make things happen quickly
-
-
-
 # 2023-12-26
 
 do things
@@ -6941,7 +6684,6 @@ arch/x86/mm/pgtable.c#L563
 
 # 2023-12-25
 
-Buffer Management
 
 https://github.com/postgres/postgres/tree/0a93f803f45f45f39473e2c61923c4b4777bc8a8/src/backend/storage/buffer
 
@@ -6983,8 +6725,6 @@ vmrss
 
 # 2023-12-21
 
-
-
 ```bash
 
 sudo vim /etc/default/grub
@@ -7013,51 +6753,13 @@ sudo apt install libstdc++-12-dev
 
 ```
 
-remote & open source
-
 # 2023-12-20
 
-211 5%
-people beijing 5%
+fs/binfmt_elf.c#L843
 
-1.412 billion
-
-1412 000 000 * 5% = 70600000
-
-6000 000 000 * 5% = 300000000
-
-Logical Block Address
-
-UART to USB converter
-
-raspi3b
-
-FAT NTFS 
-
-ELF
-
-https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/binfmt_elf.c#L843
-
-https://github.com/torvalds/linux/blob/55cb5f43689d7a9ea5bf35ef050f12334f197347/fs/binfmt_elf.c#L855
+fs/binfmt_elf.c#L855
 
 # 2023-12-19
-
-x86 is dead, long live arm (for me)
-
-services on open source software (company idea)
-
-what do we need to create bea drawings?
-- line arrows text
-
-Programming & CSAPP
-
-Data Stucture & Alorithms & Computing theory (programming & computing)
-OS DB Emebeded Distbuted PL VM APP Internet Systems (systems)
-
-AI
-
-Engineering & Research
-
 
 # 2023-12-18
 
@@ -7094,8 +6796,6 @@ may push stack
 
 jump 
 
-switch vs if-else ?
-
 bus transport blocks of words (32bit or 64bit)
 cpu register size is a word
 
@@ -7107,9 +6807,6 @@ An example of getpeername security problem in Freebsd
 
 copy_from_kernel 
 
-If a user space program see something it shouldn't see, then it is a security problem.
-
-not matter if it's been used to "attack"
 
 # 2023-12-17
 
@@ -7156,27 +6853,9 @@ configure:20637: error: possibly undefined macro: AM_PATH_SDL2
 
 ```
 
-
-Android
-Google Cloud
-Google Search
-Google AI
-Google Chrome
-
-Flutter Dart firebase Go Chromium LevelDB 
-
-Human are not good at linear data, like lists or table.
-People are good at graph data, like a network.
-
-
 # 2023-12-16
 
 https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
-
-WebAssembly
-WebGPU
-Accessible Rich Internet Applications (ARIA) provides an ontology for enabling accessibility of arbitrary content.
-WebHID
 
 
 https://xuanwo.io/reports/2022-21/
@@ -7184,22 +6863,14 @@ https://xuanwo.io/reports/2022-21/
 # 2023-12-15
 
 # 2023-12-14
-#!/bin/bash
-```bash
 
 tree -L 2 .  
-```
 
 # 2023-12-13
 
 ```bash
 
 sudo apt install linux-perf
-
-git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
-
-export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
-
 
 ```
 
@@ -7251,12 +6922,6 @@ sudo stackcount-bpfcc  t:sched:* -Pdp 71362
 tar -cf - test | xz - -9 -e > test.tar.gz
 
 ```
-
-research compress algorithm or software might be good.
-
-research regular expression & markdown parsing might be good.
-
-Chinese are good at analysis, but sucks on creativity.
 
 # 2023-12-12
 
@@ -7553,12 +7218,6 @@ japan https://www.jetro.go.jp/sc/invest/setting_up/section2/page11/
 https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf
 
 https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20II%20(2nd%20edition)%20-%20Polya%20G.pdf
-
-## deno
-
-- 
-
-## servo
 
 https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
 
