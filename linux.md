@@ -1,4 +1,6 @@
 
+# people
+
 # inbox
 
 c and assembly and calling convention x86 arm risc etc. computer architecture
@@ -140,11 +142,34 @@ active directory fs/ include/linux/ include/net/ kernel/cgroup/ kernel/ mm/ net/
 
 drivers/ arch/ Documentation/
 
+# dev
+
+sudo stackcount-bpfcc -p 6970 -i 2 --debug "*switch*"
+sudo stackcount-bpfcc -p 6970 -i 2 --debug "*timer_interrupt*"
+
+sudo trace-cmd list -e
+sudo trace-cmd list -f
+
+sudo trace-cmd record -p function_graph dd if=/dev/mmcblk0 of=out bs=512 count=
+
+sudo trace-cmd report
+
+perf trace -e "net:*" ping -c 1 192.168.43.1
+
+perf probe --source=. -x ./a.out -F
+perf probe --source=. -x ./a.out -L callee
+perf probe -x /lib/x86_64-linux-gnu/libc.so.6 printf
+perf record -e probe_libc:printf -aR sleep 1
+perf probe -x a.out callee:3 myptr
+perf probe -x ./a.out callee%return ret=%0
+
+perf record -e probe_app:callee -e probe_libc:printf
+
+
 # build linux kernel
 
 
 https://blog.jm233333.com/linux-kernel/build-and-run-a-tiny-linux-kernel-on-qemu/#generate-a-initramfs-with-busybox
-
 
 https://kdlp.underground.software/course/spring2023/assignments/A3.md
 

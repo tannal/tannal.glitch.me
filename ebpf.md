@@ -1,4 +1,20 @@
+# people
+
+Thomas Graf
+Daniel Borkman
+Liz Rice
+Purvi Desai
+David Miller
+
 # inbox
+
+git clone https://github.com/libbpf/libbpf-bootstrap.git
+
+
+sudo ./stackcount.py -P -p 4370 "bio_submit*"
+
+sudo ./stackcount.py -P -p 24469 "bio*" -i 2
+sudo ./stackcount.py -P -p 24469 "page*" -i 2
 
 sudo apt install linux-tools-raspi linux-tools-common
 
