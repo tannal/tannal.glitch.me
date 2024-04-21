@@ -1,3 +1,17 @@
+
+# people
+
+involves:yoshuawuyts
+involves:compiler-errors
+involves:Mark-Simulacrum
+involves:carols10cents
+involves:nikomatsakis
+involves:ashleygwilliams
+involves:nrc
+involves:tbu-
+involves:cuviper
+involves:RReverser
+
 # inbox
 
 ./x dist --target mips64-openwrt-linux-musl --host x86_64-unknown-linux-gnu

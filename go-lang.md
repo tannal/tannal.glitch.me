@@ -41,6 +41,11 @@ git clone https://github.com/golang/website.git golang-website
 
 ```
 
+# people
+
+involves:iant
+involves:rsc
+involves:robpike
 
 # community
 

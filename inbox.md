@@ -1199,28 +1199,10 @@ ps -eo pcpu,pid,user,args | tail -n +2 | sort -k1 -r -n | head -10
 
 
 involves:basicthinker
-
-postgresql
-involves:petere
-involves:bmomjian
-involves:anarazel
-involves:mhagander
-
-
 involves:scvalex
-
-
-rust
-involves:yoshuawuyts
-
-cpython
-involves:barneygale
-involves:serhiy-storchaka
 
 500 cycles
 speed up syscall bypass syscalls
-
-
 
 https://github.com/search?q=involves%3Asaschanaz&type=issues
 
@@ -1316,21 +1298,6 @@ involves:gdb
 involves:dtolnay
 involves:pcwalton
 
-Wasmtime Webassembly wasi
-involves:sunfishcode
-involves:alexcrichton
-
-Rust Team
-involves:compiler-errors
-involves:Mark-Simulacrum
-involves:carols10cents
-involves:nikomatsakis
-involves:ashleygwilliams
-involves:nrc
-involves:tbu-
-involves:cuviper
-involves:RReverser
-
 involves:glennw
 involves:kvark
 involves:CanadaHonk
@@ -1406,24 +1373,6 @@ involves:nicolo-ribaudo
 wolvic
 involves:calvaris
 involves:svillar
-
-Golang
-involves:rsc
-involves:robpike
-
-Javascript Engine
-involves:mathiasbynens
-involves:backes
-involves:bmeurer
-involves:LeszekSwirski
-involves:ulan
-involves:bellard
-involves:kasperl
-involves:larsbak
-involves:mraleph
-involves:Hixie
-involves:wingo
-involves:titzer
 
 Browsers
 involves:tiaanl

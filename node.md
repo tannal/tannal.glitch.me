@@ -1,3 +1,8 @@
+# people
+
+involves:Qard
+involves:joyeecheung
+
 # inbox
 
 --expose-internals
