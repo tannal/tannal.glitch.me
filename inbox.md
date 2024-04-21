@@ -1,5 +1,18 @@
 # 2024-4-21 0 | 0 W
 
+85
+
+Files in /proc that are writable are usually changed by echoing a value into them. You should try:
+
+sudo sh -c 'echo 1 >/proc/sys/kernel/perf_event_paranoid'
+The files under /proc/sys/ also have the sysctl command for easy access, so you can instead do:
+
+sudo sysctl -w kernel.perf_event_paranoid=1
+(though the -w for write seems to be optional). To ensure this is done at boot time create your own /etc/sysctl.d/99-mysettings.conf file with the line
+
+kernel.perf_event_paranoid=1
+Choose a filename that will not override existing files in /run/sysctl.d/ and /usr/lib/sysctl.d/. See man sysctl.d.
+
 rustup target add wasm32-unknown-unknown
 rustup target add wasm32-wasi
 cargo build -Zbuild-std
