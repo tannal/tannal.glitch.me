@@ -1,5 +1,12 @@
 # 2024-4-20 0 | 0 W
 
+
+bit per pixels 32 usually
+give a position(x, y)
+tell the caller the memory address of the data
+
+
+
 https://sourceware.org/gdb/current/onlinedocs/gdb.html/TUI-Keys.html#TUI-Keys
 
 involves:Manishearth 

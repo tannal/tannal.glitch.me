@@ -1,5 +1,7 @@
 # inbox
 
+--expose-internals
+
 git remote add upstream https://github.com/nodejs/node
 
 git fetch upstream v18.x

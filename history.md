@@ -1,3 +1,74 @@
+# 2024-4-21
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+debugging-slides.pdf
+https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+
+Embedded Linux, kernel, drivers, Yocto, Buildroot and graphics training
+https://bootlin.com/training/
+
+Linux debugging, profiling, tracing and performance analysis training - Bootlin
+https://bootlin.com/training/debugging/
+
+debugging-labs.pdf
+https://bootlin.com/doc/training/debugging/debugging-labs.pdf
+
+preempt-rt-slides.pdf
+https://bootlin.com/doc/training/preempt-rt/preempt-rt-slides.pdf
+
+graphics-slides.pdf
+https://bootlin.com/doc/training/graphics/graphics-slides.pdf
+
+Chroma subsampling - Wikipedia
+https://en.wikipedia.org/wiki/Chroma_subsampling
+
+drm/v3d Broadcom V3D Graphics Driver — The Linux Kernel documentation
+https://dri.freedesktop.org/docs/drm/gpu/v3d.html
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=spatial%20domain&op=translate
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+chore(util): attempt of performance improve on MIMEType class by metcoder95 · Pull Request #46607 · nodejs/node
+https://github.com/nodejs/node/pull/46607
+
+TI TMS340 DSP - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=TI+TMS340+DSP
+
+Default to 16-byte alignment in malloc by sbc100 · Pull Request #14456 · emscripten-core/emscripten
+https://github.com/emscripten-core/emscripten/pull/14456
+
+n3088.pdf
+https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3088.pdf
+
+c - aligned malloc() in GCC? - Stack Overflow
+https://stackoverflow.com/questions/3839922/aligned-malloc-in-gcc
+
+c atomic.h - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=c+atomic.h
+
+c++ atomic - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=c%2B%2B+atomic
+
+performance - Is there a 128 bit integer in C++? - Stack Overflow
+https://stackoverflow.com/questions/18439520/is-there-a-128-bit-integer-in-c
+
+pointer size 48 or 64bit - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=pointer+size+48+or+64bit
+
+Catmull-Clark - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Catmull-Clark
+
+wayland-client-rs/wayland-sys/src/client.rs at bf1c6f9f7f50756be6804b0c3e15eba53eed7f9e · servo/wayland-client-rs
+https://github.com/servo/wayland-client-rs/blob/bf1c6f9f7f50756be6804b0c3e15eba53eed7f9e/wayland-sys/src/client.rs#L13
+
 # 2024-4-20
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
