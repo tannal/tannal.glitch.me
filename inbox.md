@@ -7178,106 +7178,6 @@ WebGPU
 Accessible Rich Internet Applications (ARIA) provides an ontology for enabling accessibility of arbitrary content.
 WebHID
 
-# ELF PE
-
-Id Section
-0 custom section
-1 type section
-2 import section
-3 function section
-4 table section
-5 memory section
-6 global section
-7 export section
-8 start section
-9 element section
-10 code section
-11 data section
-12 data count section
-
-```cpp
-struct ModuleDesc {
-  std::vector<FuncType> func_types; // type section
-  std::vector<ImportDesc> imports;
-  std::vector<FuncDesc> funcs;
-  std::vector<TableDesc> tables;
-  std::vector<MemoryDesc> memories;
-  std::vector<GlobalDesc> globals;
-  std::vector<TagDesc> tags;
-  std::vector<ExportDesc> exports;
-  std::vector<StartDesc> starts;
-  std::vector<ElemDesc> elems;
-  std::vector<DataDesc> datas;
-  Istream istream;
-};
-
-
-```
-
-WebAssembly Module
-- preamble
-  - magic
-  - version
-  - sections
-    - type
-    - import
-    - func
-    - tablesec
-    - memsec
-    - globalsec
-    - exportsec
-    - startsec
-    - elemsec
-    - datacountsec
-    - codesec
-    - datasec
-- 
-```
-
-> The Code section stores the local variables information and bytecode of the function. The Function section associates the code section with the type section.
-
-projects/wabt/include/wabt/interp/interp.h
-
-
-```cpp
-  // Matches binary format, do not change.
-  enum Enum : int32_t {
-    I32 = -0x01,        // 0x7f
-    I64 = -0x02,        // 0x7e
-    F32 = -0x03,        // 0x7d
-    F64 = -0x04,        // 0x7c
-    V128 = -0x05,       // 0x7b
-    I8 = -0x06,         // 0x7a  : packed-type only, used in gc and as v128 lane
-    I16 = -0x07,        // 0x79  : packed-type only, used in gc and as v128 lane
-    FuncRef = -0x10,    // 0x70
-    ExternRef = -0x11,  // 0x6f
-    Reference = -0x15,  // 0x6b
-    Func = -0x20,       // 0x60
-    Struct = -0x21,     // 0x5f
-    Array = -0x22,      // 0x5e
-    Void = -0x40,       // 0x40
-    ___ = Void,         // Convenient for the opcode table in opcode.h
-
-    Any = 0,   // Not actually specified, but useful for type-checking
-    I8U = 4,   // Not actually specified, but used internally with load/store
-    I16U = 6,  // Not actually specified, but used internally with load/store
-    I32U = 7,  // Not actually specified, but used internally with load/store
-  };
-```
-
-type sections stores function 
-
-u32
-
-
-
-```
-
-Key Value Store
-
-WebAssembly Binary Size
-
-Syntax Highlighting
 
 https://xuanwo.io/reports/2022-21/
 
@@ -7289,12 +7189,6 @@ https://xuanwo.io/reports/2022-21/
 
 tree -L 2 .  
 ```
-
-solve a problem
-
-explore & discovery some fact
-
-distcc
 
 # 2023-12-13
 

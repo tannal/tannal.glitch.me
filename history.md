@@ -3,6 +3,198 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w#heading=h.34a91yqebirw
+
+arc80/FlapHero: A small C++ game built using Plywood
+https://github.com/arc80/FlapHero
+
+Matt Butrovich
+https://mattbutrovi.ch/
+
+Funding Opportunities – eBPF
+https://ebpf.foundation/funding-opportunities/?fbclid=IwAR1NkUiOCVoxxW3rvWw2ah4avnUlsS3TUCnz19vhpTBVz8I1pNsYbZ0jvCo_aem_AU4fAUcaJ5AdX9QwAcfDf70c_DU6osGjz2uq8B3k9mju2K_bxaVrn4iF4K-lQE1Le3ttDgHTtBn5Vh0CKaC4cwxX
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 12 - Synchronization - YouTube
+https://www.youtube.com/watch?v=6IYsOZf40bQ
+
+Course | nivdayan
+https://www.nivdayan.net/database-system-technology-csc443
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=ATCVAJ
+
+debugging-slides.pdf
+https://bootlin.com/doc/training/debugging/debugging-slides.pdf
+
+v8-internals/slides/V8-constant-pool.pdf at master · plctlab/v8-internals
+https://github.com/plctlab/v8-internals/blob/master/slides/V8-constant-pool.pdf
+
+CS294-252: Architectures and Systems for Warehouse-Scale Computers, Fall 2023, UC Berkeley | CS294-252
+https://ucb-wsc-fa23.github.io/#staff
+
+Jupiter evolving | Proceedings of the ACM SIGCOMM 2022 Conference
+https://dl.acm.org/doi/10.1145/3544216.3544265
+
+Jupiter Evolving: Transforming Google’s Datacenter Network via Optical Circuit Switches and Software-Defined Networking
+https://dl.acm.org/doi/pdf/10.1145/3544216.3544265
+
+eBPF Documentary
+https://www.brendangregg.com/blog//2024-03-10/ebpf-documentary.html
+
+eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY] - YouTube
+https://www.youtube.com/watch?v=Wb_vD3XZYOA
+
+eBPF: Fueling New Flame Graphs & more • Brendan Gregg • YOW! 2022 - YouTube
+https://www.youtube.com/watch?v=HKQR7wVapgk
+
+Scheduling the next hybrid meeting - 2024 · Issue #1463 · WebAssembly/meetings
+https://github.com/WebAssembly/meetings/issues/1463
+
+(6 封私信 / 48 条消息) 国家统计局发布「3 月份 CPI 同比上涨 0.1%，PPI 同比下降 2.8%」，如何看待该数据？ - 知乎
+https://www.zhihu.com/question/652566779
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Steve Jobs Interview - 7/22/1991 - On 10 Years of the Personal Computer - YouTube
+https://www.youtube.com/watch?v=OzZB5pZTslE&t=787s
+
+F2023 #12 - Query Execution Part 1 (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=3F3FWgujN9Q&list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&index=14
+
+mongodb/mongo: The MongoDB Database
+https://github.com/mongodb/mongo
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+The SP Android
+https://thespandroid.blogspot.com/
+
+[cssom] Editorial: “Parsing Selectors” refers to inexistent production in `css-selectors-4` · Issue #10235 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10235
+
+Issue search results
+https://github.com/search?q=involves%3Aromainmenke%20&type=issues
+
+指针压缩 - Google 搜索
+https://www.google.com/search?q=%E6%8C%87%E9%92%88%E5%8E%8B%E7%BC%A9&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%8C%87%E9%92%88%E5%8E%8B%E7%BC%A9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU2NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Pointer Compression in V8 · V8
+https://v8.dev/blog/pointer-compression
+
+x86-64 - Wikipedia
+https://en.wikipedia.org/wiki/X86-64
+
+kernel address space layout randomization - Google 搜索
+https://www.google.com/search?q=kernel+address+space+layout+randomization&rlz=1C1GCEA_enJP1090JP1090&oq=kernel+address+space+layout+randomization+&gs_lcrp=EgZjaHJvbWUyCggAEEUYExgeGDkyCQgBEAAYExiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABgFGBMYHtIBCTE3ODg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+aslr 低位不变 - Google 搜索
+https://www.google.com/search?q=aslr+%E4%BD%8E%E4%BD%8D%E4%B8%8D%E5%8F%98&rlz=1C1GCEA_enJP1090JP1090&oq=aslr+%E4%BD%8E%E4%BD%8D%E4%B8%8D%E5%8F%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiiBBiJBdIBCTExMDMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ChatGPT
+https://chat.openai.com/c/20afdbf3-b6c1-4cd3-9a8c-a0cc7217b313
+
+Five-level page tables [LWN.net]
+https://lwn.net/Articles/717293/
+
+x86: 5-level paging enabling for v4.12 [LWN.net]
+https://lwn.net/Articles/716916/
+
+emersion/mako: A lightweight Wayland notification daemon
+https://github.com/emersion/mako
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+• Discord | #dev-core | Deno
+https://discord.com/channels/684898665143206084/778060818046386176
+
+X 上的 Fernando Jiménez：“@uniquebilash @igalia @WPEWebKit @WebKitWPE I just created https://t.co/YidbiXSNTt Feel free to file new issues there” / X
+https://twitter.com/f_jimenez/status/1397108093385940992
+
+Node.js: The Documentary | An origin story - YouTube
+https://www.youtube.com/watch?v=LB8KwiiUGy0
+
+javascript - Nodejs Profiling: What to do with v8.log file - Stack Overflow
+https://stackoverflow.com/questions/21357963/nodejs-profiling-what-to-do-with-v8-log-file
+
+tgraf (Thomas Graf)
+https://github.com/tgraf
+
+lizrice/ebpf-beginners: The beginner's guide to eBPF
+https://github.com/lizrice/ebpf-beginners
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool
+
+Leaving Stripe
+https://blog.gregbrockman.com/leaving-stripe
+
+Repository search results
+https://github.com/search?q=yjs+quill&type=repositories&p=2
+
+tannal (tannal)
+https://github.com/tannal
+
+日本—美国关系 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%97%A5%E6%9C%AC%E2%80%94%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%B3%BB
+
+jim keller - Google 搜索
+https://www.google.com/search?q=jim+keller&rlz=1C1GCEA_enJP1090JP1090&oq=jim+keller&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPKgCALACAA&sourceid=chrome&ie=UTF-8
+
+brendangregg/FlameGraph: Stack trace visualizer
+https://github.com/brendangregg/FlameGraph
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+linux - Run perf without root-rights - Super User
+https://superuser.com/questions/980632/run-perf-without-root-rights
+
+jim keller - Google 搜索
+https://www.google.com/search?sca_esv=d143a126214438bd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-2u9svScDvhahezaTfmgLaCnPifg:1713681315113&q=jim+keller&tbm=vid&source=lnms&prmd=invsbmtz&sa=X&ved=2ahUKEwj0oa6w2NKFAxWmn68BHaNyCtwQ0pQJegQIDhAB&biw=1536&bih=703&dpr=1.25
+
+AI Hardware w/ Jim Keller - YouTube
+https://www.youtube.com/watch?v=lPX1H3jW8ZQ
+
+Tenstorrent - Google 搜索
+https://www.google.com/search?q=Tenstorrent&sca_esv=d143a126214438bd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_vCbvfqgRSHoXF49Yj9gGcnXY97g%3A1713681470728&ei=PrQkZvWNLJzG1e8PmcaaiAg&ved=0ahUKEwj1pMj62NKFAxUcY_UHHRmjBoEQ4dUDCBA&uact=5&oq=Tenstorrent&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1RlbnN0b3JyZW50SKIBUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+p1526-bocksrocker.pdf
+https://vldb.org/pvldb/vol10/p1526-bocksrocker.pdf
+
+hashicorp/golang-lru: Golang LRU cache
+https://github.com/hashicorp/golang-lru
+
+What’s New in C in 2023? | Ruminations
+https://blog.aaronballman.com/2023/10/whats-new-in-c-in-2023/
+
+Projects | Immanuel
+https://itrummer.github.io/
+
+ibm and red hat acquisition - Google 搜索
+https://www.google.com/search?q=ibm+and+red+hat+acquisition&rlz=1C1GCEA_enJP1090JP1090&oq=ibm+and+re&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yCAgDEAAYCBgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEINDMxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Node.js (@nodejs@social.lfx.dev) - social.lfx.dev
+https://social.lfx.dev/@nodejs
+
+Resume of Behdad Esfahbod
+https://behdad.org/be-resume.pdf
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 denoland/deno_graph: The module graph logic for Deno CLI
 https://github.com/denoland/deno_graph
 
