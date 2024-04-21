@@ -1,3 +1,8 @@
+# people
+
+involves:piscisaureus 
+involves:scott_hammond  
+
 # inbox
 
 https://github.com/denoland/deno_core/pull/471
