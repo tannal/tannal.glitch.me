@@ -1,5 +1,11 @@
 # 2024-4-21 0 | 0 W
 
+rustup target add wasm32-unknown-unknown
+rustup target add wasm32-wasi
+cargo build -Zbuild-std
+
+sudo apt install imagemagick-6.q16
+
 meson setup --wipe build
 
 https://adobe-webplatform.github.io/about/
