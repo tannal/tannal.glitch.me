@@ -611,10 +611,6 @@ https://www.andrew.cmu.edu/user/mm6/95-702/slides/
 
 https://codesearch.debian.net/search?q=VLDB&literal=1&page=10
 
-if you lean to use something which means you thins something is right.
-if you learn something which means you think there is a problem.
-
-
 https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/
 
 https://arstechnica.com/
@@ -645,12 +641,7 @@ music as  an universal language
 regiter integer float 
 
 compiler
-involve:dnovillo
-
-
-Good artists copy, great artists steal.
-
-
+involves:dnovillo
 
 # 2024-4-4 0 | 0 W
 
@@ -661,7 +652,6 @@ https://www.zhihu.com/question/481137524
 399 2023 3 26 13:58
 
 git config --add remote.origin.proxy ""
-unset http_proxy
 
 # 2024-4-3 0 | 0 W
 
@@ -692,9 +682,6 @@ https://github.com/servo/pathfinder/issues/142
 https://en.opensuse.org/openSUSE:Members
 
 https://github.com/HollowMan6
-
-detach and attach
-
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1868293
 
@@ -785,7 +772,6 @@ int iret syscall sysret sysenter page fault(mov) hardware exception
 https://wiki.linuxfoundation.org/gsoc/2024-gsoc-perf
 
 make sense flush 
-make sense flush
 
 code run/debug/log tell you the idea
 change the code to program slightly different idea
@@ -799,26 +785,6 @@ WebGL Webgpu shader texture
 # 2024-3-30 0 | 0 W
 
 https://github.com/cisen/blog/issues
-
-checkpoint
-
-人口 能源 AI
-
-population
-energy
-Artificial Inteligence
-
-std::sync::Mutex
-std::sync::Arc
-std::thread::time
-tokio::spawn
-
-Notify barrier
-tokio::sync::RwLock;
-channel tokio::select!
-Mpsc channel single producer single comsumer
-Watch channel single producer multiple comsumer
-
 
 https://github.com/search?q=repo%3Anrc%2Frustaceans.org%20servo&type=code
 
@@ -896,10 +862,6 @@ Hotspot 编译器是自 Oracle Hotspot VM 的 1.3 版本引入的，Dalvik VM �
   -B <directory>           Add <directory> to the compiler's search paths.
 (python(base) [root@g08 ultralytics-8.1.0]# 
 
-good artist copy, great artist steal
-
-假线性阅读，自动清除
-
 BIOS load bootloader
 
 system boot
@@ -907,21 +869,6 @@ Interrupt GDT IDT CR3
 Memory Management address translation
 
 # 2024-3-28 0 | 0 W
-
-1. run code
-2. write code
-goto 1
-
-ts: 7 
-
-GDT
-
-task stack segment
-
-machine running vuna code is 
-
-
-You don't know what you really need, unless you already use something for that purpose.
 
 # 2024-3-27 0 | 0 W
 
@@ -987,8 +934,6 @@ I would say that research is a prototype for a startup.
 go install golang.org/x/tools/present@latest
 go install golang.org/x/tools/cmd/present@latest
 
-
-
 vim $(fzf)
 
 AI for Science
@@ -1038,21 +983,13 @@ for i in {1..50}; do touch "index$i.html"; done
 
 # 2024-3-23 0 | 0 W
 
-similar 
-
-
-
-hide and seek
-
 sudo apt install tesseract-ocr
-
 
 export WAYLAND_DEBUG=1
 
 export NPM_CONFIG_REGISTRY="http://192.168.43.246:4873"
 export NPM_CONFIG_REGISTRY="http://registry.npm.taobao.org"
 sudo apt install openjdk-21-jre-headless graphviz gnuplot
-
 
 Jacobians
 
@@ -1065,7 +1002,6 @@ https://fly.io/dist-sys/1/
 :set expandtab
 
 sudo apt install openjdk-<version> graphviz gnuplot
-
 
 development operations
 
@@ -1096,12 +1032,6 @@ ffmpeg -hwaccel cuda -threads 3 -preset ultrafast -re -i 'Ipartment.2009.S01E01.
 
 ffmpeg -hwaccels
 ffmpeg -benchmark -hwaccel vdpau -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -f null -
-
-cuda
-vaapi
-drm
-opencl
-vulkan
 
 
 ffmpeg -hwaccel vdpau -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
@@ -1146,9 +1076,6 @@ ffmpeg -hwaccel vaapi
 
 bindings generator
 
-It allows React-Native to run JS using different JS engines, including JavascriptCore, the engine used in Webkit, and Hermes, an engine that comes bundled with React-native. JSI appears to be the only existing effort to implement such an common interface to Javascript engines.
-
-
 $env:NPM_CONFIG_REGISTRY="http://192.168.43.246:4873"
 
 merge two or three shiny things together create a useful project
@@ -1156,32 +1083,9 @@ node v8 libuv
 
 differential testing
 
-除非信息提供者与你当前状态有非常高的契合度，不要轻易按固定顺序模式接受信息（填鸭式）
-从无序开始，在刺激中构造秩序规则
-
-一段连续的输入（人的感官主要是触觉处理信息），可以分为很多个entry point
-
-注意力机制聚焦到该输入（刺激）时
-
-命中entry point（附近） 直接理解 action呼之欲出 （performance area）action跟触觉强相关
-触觉会把输入进行分割
-所以看别人弹钢琴和自己弹的输入不一样，最好的方法
-
-命中空洞（无意义的点，残缺）
-快速寻找最近的entry point或者创建一个新的entry point （新信息的录入，需要搭配上触觉）
-
-action 会影响未来的输入（需提前在脑中encoding这部分信息）
-方式是
-
-action发生后的输入和脑中记忆的输入进行比对（loss function）校正（自动发生）
-
-比对校正是生物体与生俱来的能力
-
-
 deepspeed multiple machines multiple cards
 
 NVLink single machine multiple cards
-
 
 Data Collection and Preprocessing
 Model Selection
@@ -1192,20 +1096,6 @@ Training
 Training
 Validation and Hyperparameter Tuning
 Testing and Evaluation
-
-
-for row in table_scan_generator:
-    print(row)
-
-ブロック(Bo　ro　ko)　blocking
-
-レッド (re d do) red
-
-グリーン (gu r i n) green
-
-非同期 (hi do ki) async 异步
-
-タスク(ta su ku) task
 
 mkdir -p examples
 mv src/main.rs examples/hello-redis.rs
@@ -1224,18 +1114,9 @@ Futures and Promises
 Reactive Programming
 Coroutines
 
-月で (tsuki de) 按月算（月薪水）
-
-先月 (sen get su) last month
-今　(ima wa) now
-
 ffmpeg -i J -vn -ar 16000 -ac 2 -ab 160k poor.wav
 
 ./main -m models/ggml-large-v3.bin -f poor. -l ja poor.wav
-
-みなさん(mi na san)
-
-こんにちは(こんに　ちわ)
 
 # 2024-3-20 0 | 0 W 
 
@@ -1249,7 +1130,6 @@ pub trait Future
 library/core/src/future/future.rs
 
 ./mach test-tidy --no-progress --all
-
 
 # 2024-3-19 0 | 0 W
 
@@ -1292,18 +1172,6 @@ browser extension send browser history to server
 
 sync directory between multiple machines
 
-browsers desktop mobile edge
-servers
-
-traditional systems operating systems database systems ml sys distributed systems
-multimedia audio video 
-graphics rendering games
-docs
-llm
-Programming languages js engine jvm cpython ruby luajit C# .NET go rust llvm
-embedded mobile edge
-security
-
 wget https://developer.nvidia.com/downloads/compute/machine-learning/tensorrt/secure/8.6.1/tars/TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz
 
 tar xvf TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz
@@ -1320,15 +1188,9 @@ cmake --install build
 
 cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
-
-export https_proxy=http://10.90.39.224:7890
-export http_proxy=http://10.90.39.224:7890
-
 ./main -m models/ggml-large-v3.bin -f jeff.wav
 
 ffmpeg -i  -vn -ar 16000 -ac 2 -ab 160k jeff.wav
-
-在没看到大体方向之前，对于一句话任意的过度解读都可能是错的。
 
 git clone https://github.com/asmjit/asmjit
 git clone https://github.com/blend2d/blend2d
@@ -1365,16 +1227,8 @@ ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 16000 -vn -f segment -segment_time 100 
 
 sudo trace-bpfcc -UK "do_open" -a
 
-我们每秒对声音采样上万次，获得上万个按照时间顺序排列的二进制数字。于是，我们就将连续变化不断的声音转化成了计算机可储存并识别的二进制数字。
-PCM文件：原始采样值的音频数据。 pcm 文件内容不包含频率，位数，以及声道数。要播放pcm文件需要知道采样的频率，位数，以及声道数。
 
 ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 44100 -vn -f segment -segment_time 10 audio%d.wav
-
-
-人声通过空气使震膜振动，
-切割形成微弱的波动电流。
-电流输送到扩音器，
-再以相反的过程把波动电流变成声音。
 
 
 爱迪生在发明和开发电话的过程中，发现了录音设备。
@@ -1383,22 +1237,8 @@ ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 44100 -vn -f segment -segment_time 10 a
 nc -l 0.0.0.0 1234 > docs.tar.gz
 nc 192.168.43.1 1235 < docs.tar.gz
 
-sovle your own problem
-
-solve "researchers'" problem
-solve "xxx's" problem
-
-7 washing
-
-注意: 这个系列不会从 print("Hello World") 开始, 毕竟 IO 很难的, 你看 Haskell 教程到什么地方才开始 Hello World.
-等介绍到 Hello World 后面也没几页了.
-
 。Snapshot是启动isolate
 和context的缓存，⽤于快速启动。⾥⾯也包含了code。
-
-sudo apt install bpfcc-tools
-
-sudo stackcount-bpfcc -i 2 -p 4407 --debug "sock*"
 
 # 2024-3-17 0 | 0
 
@@ -1455,20 +1295,11 @@ Watch-Command -Command ".\esbuild.exe .\app.jsx --outfile=app.js"
 
 Broadcom buy vmware
 
-what we should do
-what we can do
-what we know
-
 https://groups.google.com/g/v8-users/search?q=Vyacheslav%20Egorov
-
-sudo stackcount-bpfcc -i 2 -p 10257 --debug "*mprotect*"
-
 
 rustup update
 
 box2d Deltablue raytrace richards
-
-"two guys in a dorm"
 
 # 2024-3-16 0 | 0
 
@@ -1497,10 +1328,6 @@ about:config
 
 Attension is All you need Ashish Vaswani - Essential AI Noam Shazeer - Character.AI Niki Parmar - Essential AI Llion Jones - Sakana AI
 
-しま 
-
-とても (totemo) 非常
-
 git clone https://github.com/nsqio/nsq
 cd nsq
 make
@@ -1513,25 +1340,10 @@ Light Weight Process
 
 Chromium tries to put each web site in its own process, as much as possible, for security. (The actual rules for how sites are assigned to processes are complicated, because there are a lot of tradeoffs to make between security and performance.) The "spare renderer" is a process that's kept around ready to load a site into, for faster startup.
 
-2- Renderer
-
-This is a process that's currently loaded one or more web sites.
-
-3- utility: storage service
-
-This process manages access to web features that store data on disk (eg. Local Storage, IndexedDB). At least, that's what I assume from the name. I'm not an expert on this.
-
 4- Plugin Broker: Shockwave Flash [ I disabled flash ]
 
 Chrome 88 has Flash removed entirely so I assume when you upgrade to that, this will go away completely. I'm surprised this was loaded with Flash disabled in older versions, but maybe it's normal to keep the broker loaded but just not doing anything.
 
-5- utility: network service
-
-Manages the HTTP stack. When you go to http://example.com, this process will contact the example.com server and fetch the bytes from the net, then pass them off to whichever renderer process handles example.com for parsing.
-
-6- router service
-
-This one I don't know.
 
 补充一下，现在的 HarfBuzz (harfbuzz-ng) 主要是 Behdad Esfabod 独立完成的，有 Jonathan Kew 和 SIL 的一些开发人员的帮助。这个库和最早在 FreeType1 里的 OTF 排版库已经没有什么关系了，当时的这个库抽出来，主要是 Lars Knoll (KHTML 的创始人和 Qt 的主架构师) 和 Simon Hausmann (QtWebKit 的创始人) 合作开发的第一代 HarfBuzz，用在 Qt 和早期的 Chrome 里。(现在 Qt 和 Chrome 也都分别各自实现了基于 harfbuzz-ng 的排版。) 当然现在 FreeType 也开始用到了 harfbuzz-ng，开发者 Werner Lemberg 也对 harfbuzz-ng 有贡献。现在的 XeTeX 也已经可以不依赖 ICU 的排版功能，而单纯使用 harfbuzz-ng 了，这部分工作是 Khaled Hosny 完成的。
 
@@ -1558,7 +1370,6 @@ https://mattbutrovi.ch/
 Remote direct memory access
 
 mysql+gzip mysql monetDB Postgres Oracle MongoDB DB2 Hive
-
 
 binary encoding protobuffers thrift flatbuffers
 
@@ -1606,12 +1417,6 @@ PATH
 
 <package>Config.cmake或Find<package>.cmake
 
-企鹅影视 tencent
-上海阅文影视文化传播有限公司
-新丽电视
-阿里大文娱
-
-
 # 2024-3-13 0 | 0
 
 ls /lib/modules/$(uname -r)/kernel/drivers/usb/serial
@@ -1632,13 +1437,9 @@ git submodule update --init
 
 cmake -B build && cmake --build build -j4
 
-
-
 node::WorkerThreadsTaskRunner::WorkerThreadsTaskRunner(int)
 
 for p in ./*; do echo $p; tokei "$p"; done
-
-
 
 point-list line-list line-strip triangle-list triangle-strip
 
@@ -1646,7 +1447,6 @@ createShaderModule one or more shader functions
 createRenderPipeline
 
 vertex shader will execute with index 0 1 ...
-
 
 Bernhard Riemann
 
@@ -1687,8 +1487,6 @@ https://github.com/gpuweb
 
 https://www.w3.org/groups/wg/
 
-CSS Working Group
-
 W3C Verifiable Credentials Working Group
 
 go install github.com/boyter/scc@master
@@ -1715,12 +1513,9 @@ CC=clang CXX=clang++ cmake -GNinja -B build
 sudo apt-get install libxrandr-dev libxinerama-dev libxcursor-dev libx11-xcb-dev libxi-dev mesa-common-dev
 
 ```
-
-
 Xinerama is an X11 extension which provides support for extending a desktop across multiple displays.
 
 w3c webgpu group Apple Google Mozilla intel cocos microsoft
-
 
 Look ahead by one token
 
@@ -1744,17 +1539,10 @@ auto rid1 = *table_info->table_->InsertTuple(TupleMeta{txn4->GetTransactionTempT
                                               Tuple{{Int(1), DoubleNull(), BoolNull()}, schema.get()});
 
 ```
-
- 大部分情况并不需要关心引入哪个头文件，而是保证头文件可以独立编译，即用一个空白CPP只引入一个头文件，也能编译成目标文件。编译器（预处理器）会管理好最被依赖的头文件最先被引入。我们只需要使用好include guard，保证不被重复引入。
-
 table_page 
 table_heap memory
 
 acess method intermedia table temp space
-
-20万元人民币的存款证明
-
-如果想把留学签证换成工作签证，本科学历的情况下，只要找到可以接收的公司就行了（你到日本就可以开始转就职了）。语言学校随时可以申请退学。但是有的语言学校就职学费是不退的。所以说，你语言学校转就职很方便，但是学费可能就没了。建议还是找个学费可以半年一交的语言学校，这样损失不大。
 
 interest fact(edge case) -> some theory & rules & princple -> apply & fix loop
 
@@ -1807,21 +1595,13 @@ you own your data & language model & query
 reboot&inspire
 from scratch
 
-
-clang++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -stdlib=libc++ -nostdinc++ -lv8  -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX -Wl,-rpath=/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
-
-
 use_glib=false 
-
 
 call gn gen out.gn/x64.release --args="is_debug=false use_glib=false is_component_build=true v8_use_external_startup_data=true v8_static_library=false is_clang = false v8_enable_i18n_support=false target_cpu=\"x64\""
 
 这里显然是不一样的。也就是说ndk的libc++实际上更改了命名空间到__ndk这个前缀上，而v8进行编译时使用的libc++是
 https://chromium.googlesource.com/chromium/llvm-project/libcxx
 二者的命名空间显然是不同的。但为什么我编译使用的是buildtools/third_party/libc++而非thrid_party/android_ndk/cxx-stl/llvm-libc++？这个我还没有答案
-
-clang++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -stdlib=libc++ -nostdinc++  -lv8  -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX -Wl,-rpath=/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
-
 
 https://users.rust-lang.org/
 
@@ -1830,15 +1610,6 @@ ATA NVME SATA command Byte Block
 tools/dev/v8gen.py x64.release.sample
 gn args out.gn/x64.release.sample
 ninja -C out.gn/x64.release.sample v8_monolith
-
-g++ -I. -Iinclude samples/hello-world.cc -o hello_world -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -Lout.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
-
-g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
-
-g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
-
-
-g++ -I/home/tannal/tannalwork/projects/v8/v8/ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out/x64.debug/ -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
 
 
 
@@ -1921,82 +1692,6 @@ Note that you can use https://packages.ubuntu.com/ to search which package might
 meson compile -C build
 sudo apt install libclang-common-15-dev
 
-```bash
-libarchive 3.7.2
-
-    regex support: glibc
-
-mesa 24.1.0-devel
-
-  Directories
-    prefix                       : /usr/local
-    libdir                       : lib/aarch64-linux-gnu
-    includedir                   : include
-
-  Common C and C++ arguments
-    c_cpp_args                   :
-
-  OpenGL
-    OpenGL                       : YES
-    ES1                          : YES
-    ES2                          : YES
-    Shared glapi                 : YES
-    GLVND                        : NO
-
-  DRI
-    Platform                     : drm
-    Driver dir                   : /usr/local/lib/aarch64-linux-gnu/dri
-
-  GLX
-    Enabled                      : YES
-    Provider                     : dri
-
-  EGL
-    Enabled                      : YES
-    Drivers                      : builtin:egl_dri2 builtin:egl_dri3
-    Platforms                    : x11 wayland surfaceless drm xcb
-
-  GBM
-    Enabled                      : YES
-    Backends path                : /usr/local/lib/aarch64-linux-gnu/gbm
-
-  Vulkan
-    Drivers                      : swrast intel
-    Platforms                    : x11 wayland surfaceless drm xcb
-    ICD dir                      : share/vulkan/icd.d
-    Intel Ray tracing            : NO
-
-  Video
-    Codecs                       : av1dec av1enc vp9dec
-    APIs                         : vulkan xa
-
-  LLVM
-    Enabled                      : YES
-    Version                      : 16.0.6
-
-  Gallium
-    Enabled                      : YES
-    Drivers                      : v3d vc4 freedreno etnaviv nouveau svga tegra
-                                   virgl lima panfrost swrast iris zink
-    Platforms                    : x11 wayland surfaceless drm xcb
-    Frontends                    : mesa xa
-    Off-screen rendering (OSMesa): NO
-    HUD lm-sensors               : NO
-
-  Perfetto
-    Enabled                      : NO
-
-  Teflon (TensorFlow Lite delegate)
-    Enabled                      : NO
-
-  Subprojects
-    libarchive                   : YES
-    lua                          : YES
-    wayland-protocols            : YES
-
-Found ninja-1.11.1 at /usr/bin/ninja
-```
-
 pip install meson -i https://mirrors.sustech.edu.cn/pypi/web/simple
 
 https://github.com/ValveSoftware
@@ -2012,9 +1707,6 @@ devices
 
 
 rsync -r out/arm64.debug tannal@192.168.43.246:/home/tannal/tannalwork/projects/
-
-
-queueMicrotask(() => console.log(2));
 
 Graphics Memory Controller (GMC)
 understanding & familiar
@@ -2047,13 +1739,6 @@ single-process eventdriven (SPED) architecture
 Apache HTTP Server:
 Microsoft Internet Information Services (IIS)
 Netscape Enterprise Server:
-
-Enterprise Focus: Netscape Enterprise Server was developed by Netscape Communications Corporation. It was designed with an enterprise focus, aiming to meet the demands of large-scale websites and applications.
-Dynamic Content: Netscape Enterprise Server supported dynamic content through technologies like Server-Side JavaScript (SSJS) and server-side includes (SSI).
-CERN HTTPd:
-
-Early Pioneer: CERN HTTPd, developed at CERN (European Organization for Nuclear Research), was one of the earliest web servers. It played a crucial role in the early development of the World Wide Web.
-Single-Process Model: CERN HTTPd used a single-process, single-threaded model, handling one request at a time. While it was a simple and lightweight server, it had limitations in terms of scalability.
 
 asymmetric multi-process eventdriven (AMPED) architecture
 
@@ -2111,22 +1796,6 @@ https://news.ycombinator.com/threads?id=sondr3
 https://ceph.io/en/community/team/
 https://github.com/idryomov
 
-SOSP - Symposium on Operating Systems Principles
-OSDI - Symposium on Operating Systems Design and Implementation
-NSDI - Network Systems Design and Implementation
-FAST - Conference on File and Storage Technologies
-ASPLOS - Architectural Support for Programming Languages and Operating Systems
-ATC - USENIX Annual Technical Conference
-EuroSys
-SIGCOMM - Computer Communication
-SIGMETRICS - Computer/communication system performance
-ISCA - International Symposium on Computer Architecture
-HotOS - Hot Topics in Operating Systems Workshop
-IEEE S&P - Security & Privacy
-Usenix Security
-ACM CCS - Computer and Communications Security
-
-
 tannal@raspi:~/tannalwork/cans$ ls /dev/fuse 
 /dev/fuse
 tannal@raspi:~/tannalwork/cans$ lsmod | grep fuse
@@ -2135,55 +1804,9 @@ tannal@raspi:~/tannalwork/cans$
 
 https://www.cnblogs.com/pdev/category/1510614.html
 
-export https_proxy=http://10.90.143.252:7890
-export http_proxy=http://10.90.143.252:7890
-
 watch -d -n 0.5 nvidia-smi
 
-web
-GUI toolkit QT GTK & 3d rendering & Graphics & browser
-window API glfw winit 
-window system
-drm
-driver
-hardware
-
 https://github.com/pentium3/sys_reading
-
-从动作中学习”（比如某个参数从小调到大）
-
-
-libgobject
-
-```
-
-#2  0x00007ffff6b4dccd in g_thread_new () at /lib/x86_64-linux-gnu/libglib-2.0.so.0
-#3  0x00007ffff6c73f2f in  () at /lib/x86_64-linux-gnu/libpangoft2-1.0.so.0
-#4  0x00007ffff7f79f83 in g_type_create_instance () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#5  0x00007ffff7f610ed in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#6  0x00007ffff7f6234d in g_object_new_with_properties () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#7  0x00007ffff7f62e51 in g_object_new () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#8  0x00007ffff742134d in pango_cairo_font_map_get_default () at /lib/x86_64-linux-gnu/libpangocairo-1.0.so.0
-#9  0x00007ffff7e7be2a in gdk_pango_context_get_for_screen () at /lib/x86_64-linux-gnu/libgdk-3.so.0
-#10 0x00007ffff79a6ad5 in gtk_widget_create_pango_context () at /lib/x86_64-linux-gnu/libgtk-3.so.0
-#11 0x00007ffff79a6bb0 in gtk_widget_get_pango_context () at /lib/x86_64-linux-gnu/libgtk-3.so.0
-#12 0x00007ffff79a6c1e in gtk_widget_create_pango_layout () at /lib/x86_64-linux-gnu/libgtk-3.so.0
-#13 0x00007ffff77babf7 in  () at /lib/x86_64-linux-gnu/libgtk-3.so.0
-#14 0x00007ffff77bb0e8 in  () at /lib/x86_64-linux-gnu/libgtk-3.so.0
-#15 0x00007ffff7f79fba in g_type_create_instance () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#16 0x00007ffff7f610ed in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#17 0x00007ffff7f6234d in g_object_new_with_properties () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#18 0x00007ffff7f62e51 in g_object_new () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#19 0x000055555555627d in activate (app=0x5555555720f0, user_data=0x0) at gtk.c:35
-#20 0x00007ffff7f50d2f in g_closure_invoke () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#21 0x00007ffff7f6cc36 in  () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#22 0x00007ffff7f6e614 in g_signal_emit_valist () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#23 0x00007ffff7f6e863 in g_signal_emit () at /lib/x86_64-linux-gnu/libgobject-2.0.so.0
-#24 0x00007ffff7507d68 in  () at /lib/x86_64-linux-gnu/libgio-2.0.so.0
-#25 0x00007ffff7507f46 in g_application_run () at /lib/x86_64-linux-gnu/libgio-2.0.so.0
-#26 0x000055555555659e in main (argc=1, argv=0x7fffffffdb38) at gtk.c:84
-
-```
 
 g_application_run 
 libgio-2.0.so.0
@@ -2209,7 +1832,6 @@ If it's absolutely correct, then it's useless.
 
 The XOR Largest Pair
 
-
 rocksdb surrealdb echodb rusqlite
 
 sudo dnf install texlive-latex
@@ -2222,8 +1844,6 @@ nmap -A -T4
 
 nmap -sP 10.68.136.0/24  
 
-export https_proxy=http://10.90.163.134:7890
-export http_proxy=http://10.90.163.134:7890
 
 # 2024-3-7 | W
 
@@ -2313,66 +1933,6 @@ Restart=always
 [Install]
 WantedBy = multi-user.target
 
-
-vim /etc/conf/rsyncd.conf
-
-```conf
-
-### rsyncd.conf 文件的配置
-[root@50_125 rsync]# vim rsyncd.conf
-# /etc/rsyncd: configuration file for rsync daemon mode
-# See rsyncd.conf man page for more options.
-# 传输文件使用的用户和用户组，如果是从服务器=>客户端，要保证www用户对文件有读取的权限；如果是从客户端=>服务端，要保证www对文件有写权限。
-uid = www
-gid = www
-# 允许chroot，提升安全性，客户端连接模块，首先chroot到模块path参数指定的目录下，chroot为yes时必须使用root权限，且不能备份path路径外的链接文件
-use chroot = yes
-# 只读
-read only = no
-# 只写
-write only = no
-# 设定白名单，可以指定IP段（172.18.50.1/255.255.255.0）,各个Ip段用空格分开
-hosts allow = 172.18.50.110 172.18.50.111
-hosts deny = *
-# 允许的客户端最大连接数
-max connections = 4
-# 欢迎文件的路径，非必须
-motd file = /etc/rsync/rsyncd.motd
-# pid文件路径
-pid file = /var/run/rsyncd.pid
-# 记录传输文件日志
-transfer logging = yes
-# 日志文件格式
-log format = %t %a %m %f %b
-# 指定日志文件
-log file = /var/log/rsync.log
-# 剔除某些文件或目录，不同步
-exclude = lost+found/
-# 设置超时时间
-timeout = 900
-ignore nonreadable = yes
-# 设置不需要压缩的文件
-dont compress   = *.gz *.tgz *.zip *.z *.Z *.rpm *.deb *.bz2
-
-# 模块，可以配置多个，使用如: sate@172.18.50.125::125to110
-[125to110]
-# 模块的根目录，同步目录，要注意权限
-path = /tmp/nginx
-# 是否允许列出模块内容
-list = no
-# 忽略错误
-ignore errors
-# 添加注释
-comment = ftp export area
-# 模块验证的用户名称，可使用空格或者逗号隔开多个用户名
-auth users = sate
-# 模块验证密码文件 可放在全局配置里
-secrets file = /etc/rsync/rsyncd.secrets
-# 剔除某些文件或目录，不同步
-exclude = lost+found/ conf/ man/
-
-```
-
 pip install torch==2.0.0
 pip install torchvision==0.14
 
@@ -2454,7 +2014,6 @@ func main() {
 		log.Fatalf("Failed to start server: %s\n ", err.Error())
 	}
 }
-
 ```
 
 (Red Hat 8.5.0-10)
@@ -2474,11 +2033,6 @@ export PATH=`pwd`/install/bin:"$PATH"
 export PATH=/root/tannalwork/cpython/_install/bin:"$PATH"
 export python=`pwd`/install/bin/python3
 alias python=`pwd`/install/bin/python3
-
-export https_proxy=http://10.90.115.200:7890
-export http_proxy=http://10.90.115.200:7890
-
-git clone https://www.github.com/
 
 pip install git+https://github.com/huggingface/transformers.git
 
@@ -2510,180 +2064,6 @@ readInputLines().then(lines => {
 $env:FLASK_DEBUG=1
 python -m intermittent_tracker.flask_server
 
-http.HandleFunc("/share", shareHandler(db))
-
-
-func shareHandler(db *sql.DB) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
-		// Set CORS headers for the preflight request
-		if r.Method == http.MethodOptions {
-			w.Header().Set("Access-Control-Allow-Origin", "*")
-			w.Header().Set("Access-Control-Allow-Methods", "GET")
-			w.WriteHeader(http.StatusOK)
-			return
-		}
-
-		// Set CORS headers for the main request
-		w.Header().Set("Access-Control-Allow-Origin", "*")
-
-		// get the share url from the request
-		shareURL := r.URL.Query().Get("url")
-
-		// Get the data from the OpenAI chat page
-		client := &http.Client{}
-		req, err := http.NewRequest("GET", shareURL, nil)
-		if err != nil {
-			log.Fatal(err)
-		}
-		resp, err := client.Do(req)
-		if err != nil {
-			log.Fatal(err)
-		}
-		defer resp.Body.Close()
-		body, err := io.ReadAll(resp.Body)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		html := string(body)
-
-		start := strings.LastIndex(html, ">{")
-
-		end := strings.LastIndex(html, "}</script>")
-
-		data := html[start+1 : end+1]
-
-		var response Response
-		err = json.Unmarshal([]byte(data), &response)
-		if err != nil {
-			panic(err)
-		}
-
-		var query string
-		var answer string
-
-		for i, linearConversation := range response.Props.PageProps.ServerResponse.Data.LinearConversation {
-			for _, part := range response.Props.PageProps.ServerResponse.Data.Mapping[linearConversation.Id].Message.Content.Parts {
-				if i%2 == 0 {
-					query = part
-				} else {
-					answer = part
-					fmt.Println(query, answer)
-				}
-			}
-		}
-
-		// Insert the data into the database
-		if err := insertData(db, query, answer); err != nil {
-			http.Error(w, err.Error(), http.StatusInternalServerError)
-			return
-		}
-
-		// Send the data as the HTTP response
-		w.Header().Set("Content-Type", "application/json")
-		json.NewEncoder(w).Encode(data)
-	}
-}
-
-package main
-
-type Response struct {
-	Props Props `json:"props"`
-}
-
-type Props struct {
-	PageProps PageProps `json:"pageProps"`
-}
-
-type PageProps struct {
-	ServerPrimedAllowBrowserStorageValue bool           `json:"serverPrimedAllowBrowserStorageValue"`
-	IsStorageComplianceEnabled           bool           `json:"isStorageComplianceEnabled"`
-	SharedConversationId                 string         `json:"sharedConversationId"`
-	ServerResponse                       ServerResponse `json:"serverResponse"`
-}
-
-type ServerResponse struct {
-	Type string `json:"type"`
-	Data Data   `json:"data"`
-}
-type Data struct {
-	Title                   string               `json:"title"`
-	CreateTime              float64              `json:"create_time"`
-	UpdateTime              float64              `json:"update_time"`
-	Mapping                 map[string]Mapping   `json:"mapping"`
-	ModerationResults       []interface{}        `json:"moderation_results"`
-	CurrentNode             string               `json:"current_node"`
-	ConversationId          string               `json:"conversation_id"`
-	IsArchived              bool                 `json:"is_archived"`
-	SafeUrls                []interface{}        `json:"safe_urls"`
-	IsPublic                bool                 `json:"is_public"`
-	LinearConversation      []LinearConversation `json:"linear_conversation"`
-	HasUserEditableContext  bool                 `json:"has_user_editable_context"`
-	ContinueConversationUrl string               `json:"continue_conversation_url"`
-	Model                   Model                `json:"model"`
-	ModerationState         ModerationState      `json:"moderation_state"`
-}
-
-type LinearConversation struct {
-	Id       string   `json:"id"`
-	Children []string `json:"children"`
-}
-type Model struct {
-	Slug      string `json:"slug"`
-	MaxTokens int    `json:"max_tokens"`
-	Title     string `json:"title"`
-}
-type ModerationState struct {
-	HasBeenModerated     bool `json:"has_been_moderated"`
-	HasBeenBlocked       bool `json:"has_been_blocked"`
-	HasBeenAccepted      bool `json:"has_been_accepted"`
-	HasBeenAutoBlocked   bool `json:"has_been_auto_blocked"`
-	HasBeenAutoModerated bool `json:"has_been_auto_moderated"`
-}
-
-type Mapping struct {
-	Id       string   `json:"id"`
-	Message  Message  `json:"message"`
-	Parent   string   `json:"parent"`
-	Children []string `json:"children"`
-}
-
-type Message struct {
-	Id         string   `json:"id"`
-	Author     Author   `json:"author"`
-	CreateTime float64  `json:"create_time"`
-	Content    Content  `json:"content"`
-	Status     string   `json:"status"`
-	Weight     int      `json:"weight"`
-	Metadata   Metadata `json:"metadata"`
-	Recipient  string   `json:"recipient"`
-}
-
-type Author struct {
-	Role     string   `json:"role"`
-	Metadata struct{} `json:"metadata"`
-}
-
-type Content struct {
-	ContentType string   `json:"content_type"`
-	Parts       []string `json:"parts"`
-}
-
-type Metadata struct {
-	FinishDetails struct {
-		Type       string `json:"type"`
-		StopTokens []int  `json:"stop_tokens"`
-	} `json:"finish_details"`
-	Citations            []interface{} `json:"citations"`
-	IsComplete           bool          `json:"is_complete"`
-	ModelSlug            string        `json:"model_slug"`
-	ParentId             string        `json:"parent_id"`
-	RequestId            string        `json:"request_id"`
-	Timestamp            string        `json:"timestamp_"`
-	SharedConversationId string        `json:"shared_conversation_id"`
-}
-
-
 
 # 2024-3-6 | W
 
@@ -2693,49 +2073,6 @@ set debuginfod enabled on
 sudo systemctl enable yjs.service
 
 Every one says no way until you actually did it.
-
-{
-  content: [
-    {
-      query: '',
-      answer: '',
-    },
-    {
-      query: '',
-      answer: '',
-    },
-  ]
-}
-
-CREATE TABLE chat (
-  id INT PRIMARY KEY AUTO_INCREMENT,
-  query TEXT,
-  answer TEXT
-);
-
-
-interface Content {
-  query: string;
-  answer: string;
-}
-
-interface DataType {
-  content: Content[];
-}
-
-
-{
-  content: [
-    {
-      query: '',
-      answer: '',
-    },
-    {
-      query: '',
-      answer: '',
-    },
-  ]
-}
 
 SSH端口转发（也称为SSH隧道）
 ssh -L 3307:localhost:3306 user@example.com
@@ -2799,28 +2136,6 @@ pacmd list-cards
 
 v8 Ulan Degenbaev, Alexei Filippov, Michael Lippautz, and Hannes Payer
 
-sudo systemctl daemon-reload
-sudo systemctl restart yjs.service
-
-systemctl status yjs.service
-sudo journalctl -u yjs
-
-sudo vim /etc/systemd/system/yjs.service
-
-[Unit]
-# 服务名称，可自定义
-Description = docs
-
-[Service]
-Type = simple
-WorkingDirectory=/home/tannal/tannalwork/projects/yjs-demos/
-ExecStart = /bin/bash -c 'PATH=/home/tannal/.nvm/versions/node/v20.11.1/bin/:$PATH pnpm start'
-Restart=always
-
-[Install]
-WantedBy = multi-user.target
-
-
 
 pipx install gdown
 pipx ensurepath
@@ -2859,26 +2174,6 @@ wikimedia
 
 
 # 2024-3-4 | W
-
-edge case
-tipical case
-
-
-で(de)
-
-チャットボット(chattobotto)
-
-れ(re )
-た(ta )
-さ(sa )
-
-によって(ni yotte by)
-は(wa 是)
-
-によって(ni yotte)
-
-た(ta)
-
 
 git clone https://github.com/rcore-os/rCore.git
 git submodule update --init
@@ -2944,9 +2239,6 @@ But now that we have Bun, perhaps it's time that WebKit becomes that browser tar
 Unless WebView2 for macOS arrives, which would have a more sane cross-platform story. WebView2 has a very large feature-set though which make take a while to implement for macOS.
 
 [1]: https://github.com/webview/webview/blob/master/webview.h
-
-について (ni tsui te) 关于
-調べ (shi ra be) 调查
 
 mozilla 1998
 2004 
@@ -3110,18 +2402,11 @@ testsuite
 
 iw wlan0 get power_save
 
-
 iw wlan0 set power_save off
 
 Allgather Allreduce
 his arrangement can be used to perform reduction operations in a distributed manner, such as summing values or finding the maximum, where each node contributes its local data to the operation.
 
-block
-threads
-registers
-shared memory
-
-global memory
 
 # 2024-2-29 | W
 
@@ -3158,8 +2443,6 @@ I have many Competition Programming experiences like regional ICPC silver and I 
 
 # 2024-2-28 | W
 
-300000
-
 https://www.mlsys.ai/
 
 https://mlsys.stanford.edu/
@@ -3188,12 +2471,7 @@ Microsoft's XInput API
 MemoryAllocator
 June.dll, log.dll, MemoryAllocator.dll, ScriptManager.dll, tcls.dll, tenbase.dll, TenBaseForCross.dll, TenFact.dll, TPFAdapter.dll, TPFCustom.dll, VFS.dll, vfs_config.ini
 
-@tencent - This is likely related to Tencent, a major Chinese technology company. The "@" prefix suggests that this could be a namespaced package, possibly from a package manager like npm (Node Package Manager) for JavaScript.
-
 leveldown - This is typically associated with a low-level database binding for LevelDB, which is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-
-sqlite3
-win-version-info - This directory could contain a library for retrieving Windows version information from an executable file in Node.js applications.
 
 ig9icd64.dll  Intel Graphics Installable Client Driver
 
@@ -3344,27 +2622,6 @@ https://github.com/SuperAuguste
 https://github.com/rust-lang/rust/commits/master/
 https://github.com/paperdave
 
-C コード(ko-do)　と(to)　それに　対応　する　アセンブリ　コード　お　比較　して　みましょう
-
-C　コンパイラ(konpaira compiler)　が(ga)　どの(dono)　よう(yo)　な(na)　出力(Shutsuryoku)　お(o) 生成(seisei)
-
-して(shite)　いる(lru)　の(no)　か(ka)　と(to)　いう(lu)　イメージ(Imeji image)　お(o)　掴む(Tsukamu)
-
-ため(tame)　に(ni)
-
-簡単(kantan)　な例(narei 例子)
-
-C と　それ(sore)　に(ni)　対応(taio 对应)　する(suru 　アセンブラ
-
-アセンブラ と(to) は(wa ha)
-
-アセンブラ(asenbura)　と　
-
-CPU と メモリ(memori) cpu and memory memori
-
-機械語　と(to) アセンブラ(asenbura) 机器语言 and assembler
-
-著者　に　ついて　作者 に 关于
 
 https://herbsutter.com/
 
@@ -3373,8 +2630,6 @@ https://herbsutter.com/
 sudo perf record -g ./a.out
 
 sudo perf report
-
-
 
 
 ```bash
@@ -3493,34 +2748,6 @@ Flap Hero relies on several excellent third-party libraries: Assimp to load 3D m
 RCU grace periods
 
 https://github.com/arc80/FlapHero
-
-```bash
-
-UID PID PPID C STIME TTY TIME CMD
-root 1 0 0 22:43 ? 00:00:01 /sbin/init splash
-root 2 0 0 22:43 ? 00:00:00 [kthreadd]
-root 3 2 0 22:43 ? 00:00:00 [ksoftirqd/0]
-root 4 2 0 22:43 ? 00:00:00 [kworker/0:0]
-root 5 2 0 22:43 ? 00:00:00 [kworker/0:0H]
-root 7 2 0 22:43 ? 00:00:01 [rcu_sched]
-root 8 2 0 22:43 ? 00:00:00 [rcu_bh]
-root 9 2 0 22:43 ? 00:00:00 [migration/0]
-root 10 2 0 22:43 ? 00:00:00 [watchdog/0]
-root 11 2 0 22:43 ? 00:00:00 [watchdog/1]
-root 12 2 0 22:43 ? 00:00:00 [migration/1]
-root 13 2 0 22:43 ? 00:00:00 [ksoftirqd/1]
-root 15 2 0 22:43 ? 00:00:00 [kworker/1:0H]
-root 16 2 0 22:43 ? 00:00:00 [watchdog/2]
-root 17 2 0 22:43 ? 00:00:00 [migration/2]
-root 18 2 0 22:43 ? 00:00:00 [ksoftirqd/2]
-root 20 2 0 22:43 ? 00:00:00 [kworker/2:0H]
-root 21 2 0 22:43 ? 00:00:00 [watchdog/3]
-root 22 2 0 22:43 ? 00:00:00 [migration/3]
-root 23 2 0 22:43 ? 00:00:00 [ksoftirqd/3]
-root 25 2 0 22:43 ? 00:00:00 [kworker/3:0H]
-root 26 2 0 22:43 ? 00:00:00 [kdevtmpfs]
-
-```
 
 ps --ppid 2 -p 2 --deselect
 
@@ -3759,7 +2986,6 @@ pci bus / pcie bus / memory bus
 pch sata usb nic pcie attached ssd
 
 
-
 https://eprint.iacr.org/2016/086.pdf
 
 ![Alt text](image-19.png)
@@ -3859,26 +3085,6 @@ https://hsmemo.github.io/
 
 # 2024-2-20 | 
 
-する suru
-
-想定 soutei 
-
-はじめに 介绍
-
-入門 nyuumon 介绍
-
-作成　sakusei 创造
-
-ため　tame 为了
-
-人の　hito no
-
-コンパイラ Konpaira compiler
-
-低レイヤ Tei reiya
-
-知りたい shiritai
-
 https://people.eecs.berkeley.edu/~matei/#teaching
 
 When you found a problem, the first thing you do is ask someone.
@@ -3893,254 +3099,15 @@ You have to make something good.
 
 objdump -d test/plus.run --disassemble=our_code_starts_here
 
-
-
 ```
 
 Inter-Operator (Vertical)
-```go
-package main
-
-import (
-	"fmt"
-	"sync"
-)
-
-// Define the structs for R and S relations
-type R struct {
-	id   int
-	name string
-}
-
-type S struct {
-	id    int
-	value string
-	cdate string
-}
-
-// Define the struct for the joined results
-type JoinedResult struct {
-	RId   int
-	Name  string
-	Value string
-}
-
-// Hash function to partition the relations
-func hashFunction(id int, numPartitions int) int {
-	return id % numPartitions
-}
-
-// Function to partition data
-func partitionData[T any](data []T, numPartitions int, hashFunc func(int, int) int) [][]T {
-	partitions := make([][]T, numPartitions)
-	for i := 0; i < numPartitions; i++ {
-		partitions[i] = []T{}
-	}
-
-	for _, item := range data {
-		var id int
-		switch v := any(item).(type) {
-		case R:
-			id = v.id
-		case S:
-			id = v.id
-		default:
-			panic("unknown data type")
-		}
-		partition := hashFunc(id, numPartitions)
-		partitions[partition] = append(partitions[partition], item)
-	}
-
-	return partitions
-}
-
-// Parallel hash join
-func parallelHashJoin(partitionsR [][]R, partitionsS [][]S, numPartitions int) []JoinedResult {
-	var wg sync.WaitGroup
-	results := make(chan JoinedResult, 10) // Buffered channel to collect results
-	finalResults := []JoinedResult{}
-
-	// Join partitions in parallel
-	for i := 0; i < numPartitions; i++ {
-		wg.Add(1)
-		go func(partitionR []R, partitionS []S) {
-			defer wg.Done()
-			hashTableS := make(map[int]S)
-			for _, s := range partitionS {
-				hashTableS[s.id] = s
-			}
-			for _, r := range partitionR {
-				if s, found := hashTableS[r.id]; found {
-					results <- JoinedResult{RId: r.id, Name: r.name, Value: s.value}
-				}
-			}
-		}(partitionsR[i], partitionsS[i])
-	}
-
-	// Close results channel when all goroutines are done
-	go func() {
-		wg.Wait()
-		close(results)
-	}()
-
-	// Collect results
-	for result := range results {
-		finalResults = append(finalResults, result)
-	}
-
-	return finalResults
-}
-
-func main() {
-	// Example relations
-	relationR := []R{{1, "Alice"}, {2, "Bob"}, {3, "Charlie"}}
-	relationS := []S{{1, "Value1", "2024-02-20"}, {2, "Value2", "2024-02-21"}, {3, "Value3", "2024-02-22"}}
-
-	// Number of partitions
-	numPartitions := 2 // For simplicity
-
-	// Partition data
-	partitionsR := partitionData(relationR, numPartitions, hashFunction)
-	partitionsS := partitionData(relationS, numPartitions, hashFunction)
-
-	// Perform parallel hash join
-	joinedResults := parallelHashJoin(partitionsR, partitionsS, numPartitions)
-
-	// Print results
-	for _, result := range joinedResults {
-		fmt.Printf("RId: %d, Name: %s, Value: %s\n", result.RId, result.Name, result.Value)
-	}
-}
-
-```
-
-Intra-Operator (Horizontal)
-```go
-package main
-
-import (
-	"fmt"
-	"sync"
-)
-
-// Define the structs for R and S relations
-type R struct {
-	id   int
-	name string
-}
-
-type S struct {
-	id    int
-	value string
-	cdate string
-}
-
-// Hash function to partition the relations
-func hashFunction(id int, numPartitions int) int {
-	return id % numPartitions
-}
-
-// Function to build the hash table from a relation R or S
-func buildHashTable(relation interface{}, numPartitions int) []map[int]interface{} {
-	hashTables := make([]map[int]interface{}, numPartitions)
-	for i := range hashTables {
-		hashTables[i] = make(map[int]interface{})
-	}
-
-	switch rel := relation.(type) {
-	case []R:
-		for _, tuple := range rel {
-			partition := hashFunction(tuple.id, numPartitions)
-			hashTables[partition][tuple.id] = tuple
-		}
-	case []S:
-		for _, tuple := range rel {
-			partition := hashFunction(tuple.id, numPartitions)
-			hashTables[partition][tuple.id] = tuple
-		}
-	}
-
-	return hashTables
-}
-
-// Worker to perform the join on one partition
-func joinWorker(htR, htS map[int]interface{}, results chan<- []string) {
-	for id, rTuple := range htR {
-		if sTuple, exists := htS[id]; exists {
-			// Assuming we want to join on the 'id' and print 'name' and 'value'
-			r := rTuple.(R)
-			s := sTuple.(S)
-			results <- []string{r.name, s.value}
-		}
-	}
-}
-
-func main() {
-	// Example relations
-	// Create more test data to test the join
-	relationR := []R{
-		{1, "A"},
-		{2, "B"},
-		{3, "C"},
-		{4, "D"},
-		{5, "E"},
-	}
-
-	relationS := []S{
-		{1, "X", "2020-01-01"},
-		{2, "Y", "2020-01-02"},
-		{3, "Z", "2020-01-03"},
-		{4, "W", "2020-01-04"},
-		{5, "V", "2020-01-05"},
-	}
-
-	// Number of partitions
-	numPartitions := 2 // for simplicity
-
-	// Build hash tables for each partition
-	htR := buildHashTable(relationR, numPartitions)
-	htS := buildHashTable(relationS, numPartitions)
-
-	results := make(chan []string)
-	var wg sync.WaitGroup
-
-	// Launch a worker for each partition
-	for i := 0; i < numPartitions; i++ {
-		wg.Add(1)
-		go func(partition int) {
-			defer wg.Done()
-			joinWorker(htR[partition], htS[partition], results)
-		}(i)
-	}
-
-	// Close the results channel when all workers are done
-	go func() {
-		wg.Wait()
-		close(results)
-	}()
-
-	// Collect results
-	for result := range results {
-		fmt.Println(result)
-	}
-}
-
-
-```
 
 https://www.twitch.tv/videos/2065150462
 
 https://twitter.com/arighi
 
 # 2024-2-19 | 
-
-infinite cases
-finite try
-how to get something useful?
-
-don't be fansion
-
-大學不是職訓所, 未必要跟在企業後面跑, 基本功學扎實更能應付未來的新領域!
 
 JAX/Pytorch
 
@@ -4195,8 +3162,6 @@ https://www.lpi.org/ja/AWS/GCP/Azure相关，首推AWS其中IPA的资格里除�
 https://www.zhihu.com/question/379943332
 
 
-236964.57
-
 https://www.youtube.com/watch?v=_enXuIxuNV4&t=25m33s
 
 https://sec-wiki.com/
@@ -4222,12 +3187,6 @@ nc -l 192.168.43. 1234 > boa.tar.gz
 dumpbin /exports /symbols runtime\our_code.lib
 
 https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
-
-open source guys
-commercial guys
-research guys
-
-
 
 # 2024-2-17 | 
 
@@ -4623,24 +3582,9 @@ weed volume -dir="." -mserver="192.168.43.27:9333" -port=9433
 
 https://github.com/seaweedfs/seaweedfs/releases
 
-
-std::shared_mutex pthread_rwlock
-
 https://www.cs.rit.edu/~ats/books/ooc.pdf
 
-You do more things, which means you know more information.
-
-You know more information, which means you can do more things.
-
 pointer wizzling
-
-open source guys Linux postgresql
-
-commerical guys windows oracle
-
-std::mutex pthread_mutex futex
-
-fast user mutex or heavy mutex os
 
 
 
@@ -4700,16 +3644,11 @@ Redhat，SUSE，Cannonical
 
 "js/ts.implicitProjectConfig.checkJs": true
 
-
 Introduction to Algorithms, A creative approach
 
 Introduction to Algorithms.
 
 http://www.algorithmsilluminated.org/
-
-
-If your goal is to be good at LeetCode, then save yourself the time and just go straight to LeetCode. Nobody cares if you actually understand the stuff. They just want you to come in and do the dance (recognize the problem archetype, talk through your thought process for solving it, and adjust based on whatever twists they've thrown in).
-
 
 # 2024-2-3 1+1 | 
 
@@ -4745,15 +3684,6 @@ bits transfer
 sudo make modules_install
 sudo make install
 sudo reboot
-
-
-```bash
-
-wasmedge --dir .:. \
-  --nn-preload default:GGML:AUTO:llama-2-7b-chat.Q5_K_M.gguf \
-  wasmedge-ggml-llama-interactive.wasm default
-
-```
 
 # 2024-2-2 1 | 1
 
@@ -5264,20 +4194,6 @@ sudo update-alternatives --list cc
 llvm.org/docs/LangRef.html
 https://llvm.org/docs/LangRef.html#langref-datalayout
 
-type means which operation to apply and how much memory to allocate
-
-```ave
-
-(+ 5 10)
-
-(set x 15)
-
-(if (> x 10)
-
-  (print "ok"))
-  (print "err")
-
-```
 
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
@@ -5330,8 +4246,6 @@ LL LL(k) LR LR(k) LALR GLR
 
 # 2024-1-25 | 
 
-Github Actions can auto deploy my blog.
-
 GNOME Mboalab MDAnalysis OCaml ODK-X Oppia QEMU
 
 typeform
@@ -5361,8 +4275,6 @@ static data-flow graphs
 discriminator generator GAN
 
 binary cross entropy 
-
-nn
 
 nn.Sequential
 nn.Linear
@@ -5468,15 +4380,6 @@ refresh
 info address mmap_min_addr
 
 p /x mmap_min_addr
-
-struct file {
-  struct paht f_path;
-
-}
-
-struct path {
-  
-}
 
 memory_
 
@@ -5835,7 +4738,6 @@ git clone https://git.kernel.org/pub/scm/utils/trace-cmd/trace-cmd.git/
 kernelshark trace.dat
 QT_QPA_PLATFORM=wayland kernelshark trace.dat
 
-
 ```
 
 git submodule external/ deps/ third_party/
@@ -5843,12 +4745,6 @@ git submodule external/ deps/ third_party/
 fmt spdlog cxxopts catch2
 
 dependency graph cmake projects
-```bash
-
-
-
-```
-
 
 https://github.com/y-crdt
 
@@ -5863,7 +4759,6 @@ consistency
 https://flutter.dev/community#community-grid
 
 # 2024-1-20  |
-
 
 adobe acquired figma
 
@@ -5897,8 +4792,6 @@ Azul Systems
 
 []byte("bar")
 
-国内APP不符合Android UI、基本像chao IOS 的设计。
-
 Foreground Services workManager Uris Content Providers
 
 std::for_each std::transform
@@ -5926,9 +4819,6 @@ sudo systemctl start frpc
 sudo apt install wiringpi
 sudo gpio readall
 
-がいこく　ひと
-
-難民
 
 https://drive.google.com/drive/folders/1XoZ3a5ZgC9qmX74Oz8xhavBNzpbYvVnI
 
@@ -5964,7 +4854,6 @@ const sketch = () => {
 };
 
 canvasSketch(sketch, settings);
-
 
 ```
 
@@ -6281,8 +5170,6 @@ clock oxygen silicon piezoelectric effect invertor clock
 
 battery crystal oscillator integrated circuit electromagnet gear train
 
-
-
 # 2024-1-17 | 1
 
 
@@ -6306,12 +5193,6 @@ console.log(nestedArray)
 ```
 
 prev next vs current rest
-
-rephrase this problem in a short and easy to understand way
-
-728abdaa-e5af-4886-a19b-22f6d3ae144a
-
-just one test
 
 each line is a single test case
 lines.forEach(v => solve(...v.split(' ').map(v => +v)))
@@ -6388,45 +5269,6 @@ import sys
 
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
-
-## .github/workflows/example.yml
-
-name: Merge upstream branches
-on:
-  schedule:
-     # actually, ~5 minutes is the highest
-     # effective frequency you will get
-    - cron:  '* * * * *'
-jobs:
-  merge:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Merge upstream
-        run: |
-          git config --global user.name 'your-name'
-          git config --global user.email 'your-username@users.noreply.github.com'
-
-          # "git checkout master" is unnecessary, already here by default
-          git pull --unshallow  # this option is very important, you would get
-                                # complains about unrelated histories without it.
-                                # (but actions/checkout@v2 can also be instructed
-                                # to fetch all git depth right from the start)
-
-          git remote add upstream https://github.com/example/test.git
-          git fetch upstream
-
-          # Neither forget the -b opt,
-          # the feature/x ref is ambiguous at this stage
-          git checkout -b feature/x origin/feature/x
-          git merge --no-edit upstream/feature/x
-          git push origin feature/x
-
-          git checkout master
-          git merge --no-edit upstream/master
-          git push origin master
-
-          # etc
 
 git config --global http.sslVerify false
 git config --global imap.sslverify false
@@ -6574,38 +5416,7 @@ https://tc.gts3.org/cs3210/2020/spring/lab.html
 
 https://github.com/DavidBeckham07/litl-Paper-Recurrent/blob/master/LITL%E5%A4%8D%E7%8E%B0%E7%AC%AC%E4%B8%89%E9%A2%98.md
 
-define api 
-
-ShflLock google leveldb 
-
-if you want contributors, a typical way is to add good first issue tag on some issues.
-or even better you can write down how to fix (step by step) driectly for someone to actually create their first patch.
-If someone make them first patch, it's a lot easier for them to contribute next patch.
-
-I know why we need cross compile
-
-
-If you want something, you should ask for it.
-don't wait someone to offer it to you.
-
-If you done something well, find the sponsor to maintain the work.
-If not, find the way to improve it or start over.
-
-show the right work to the right person at the right time.
-
-there aren't so many smart guy, and you don't need to be one to be sccessfully.
-just show up, and do something useful to others
-
-For everyone who want to contribute to open source projects
-You just need to show up, and find a position in the community.
-(anything else doesn't matter)
-
-I know I never be able to create the prfect things.
-I just need to know how i can built with these fasinating tools.
-
 microservices grpc computing nodes shared network grpc trpc protocol buffers
-
-buildah podman
 
 webapplication client code & server code & mysql/postgresql & redis & middleware
 
@@ -6633,15 +5444,10 @@ Engineer tipically don't write docs, If you find some engineers/researchers writ
 
 Mdn docs is mainly written by tech writer and advocate (in mozilla). keep this in mind.
 
-
 guide the people who read your words to a good direction.
 
 
 # 2024-1-14 | 1+1
-
-ask question make them think.
-
-you
 
 smalltalk self strongtalk Java(hotspot engine)
 
@@ -6650,18 +5456,6 @@ v8 dart
 toit
 
 https://news.ycombinator.com/threads?id=mralephp
-
-The biggest truth I found is that, there is no "truth". The world it's just random people doing random things.
-
-find interesting projects and make it more useful impresive amazing beautiful.
-
-We normal don't talk to users directly as a software engineer.
-
-As a software engineer, we ususally talk to product manager or project manager, not the user.
-
-open source project allow us to directly talk to our users and get feedback.
-
-There are many books write by (technical) writer not engineers.
 
 sudo netstat -tlpen
 
@@ -7107,24 +5901,6 @@ tar gcc-13.2.0.tar.xz
 
 Judea Pearl's home page.
 
-all human inteligence is just a kind of memory, no logic, no "think", no anything.
-
-There is no other things than memory.
-
-It's all about how many and how fast you can "memory" things.
-
-base cases -> plausible reasoning -> truth or false
-
-self reference, recursion, and human brian
-
-given something -> create more things
-
-
-のみに　依存　する　仅仅依靠
-nomini izon suru
-じょうほう 情報
-jo u ho u
-
 nvidia dlss scaling to 4k 
 
 CUDA/Shading cores run graphics rendering pipeline
@@ -7134,8 +5910,6 @@ tensor cores
 ray tracing cores
 
 Tensor Cores dlss
-
-talk is cheap
 
 This explosion in computing power has let scientists build ANNs that learn to identify people in images, play chess, and even help doctors make medical diagnoses.
 
@@ -7234,14 +6008,6 @@ Sanity cms
 gif
 
 https://www.vectorlogo.zone/
-
-1. Open your image.
-2. Select the area you want to make transparent.
-Select the appropriate selection tool from the Tool window or the Tools – Selection Tools menu on the Layer window. I usually use the magic wand/fuzzy select (Select contiguous region) tool or the Select regions by color tool.
-Click in the region you want selected. Use shift-click to add more regions/colors.Tip: It’s easier if you zoom in (View – Zoom menu) to see finer details of exactly what you’re selecting.
-3. In the Layer window (the one showing your image), select Layer – Transparency – Add Alpha Channel.If this is blanked out then it’s already done. This makes sure your image can store transparency data
-4. Select Edit – Clear. This makes the selection transparent.
-5. Save the file. Note: If you save it as a PNG file, be sure to select the ‘Save colour values from transparent pixels’ option in the Save as PNG dialog box.
 
 image layer
 
@@ -7372,10 +6138,6 @@ sudo perf report
 
 ```
 
-open mp
-
-A: False, that is completely incorrect
-
 Apple purchased NeXT and started the transition of its classic macOS operating system (Apple System 1 though Apple System 9) to Apple Darwin based operating system in 1999
 NeXT had created the neXTStep operating system which Apple inherited when they purchased NeXT
 NeXT had system apps from FreeBSD and they had implemented the MACH microkernel which was co-created by Avie Trevanian who now was the chief engineer for NeXT, so he brought the MACH microkernel and finished it in NeXTStep
@@ -7384,8 +6146,6 @@ Over the years Apple upgraded every component in NeXTStep/OS X until it peached 
 At the same time, Apple evolved the MACH microkernel and created the free open source Apple XNU hybrid kernel
 At that point Apple operating systems were completely made of Apple source code
 What confuses the internet is that Apple operating systems are modular and one module runs UNIX apps natively (Apple macOS is in fact a certified UNIX), which Apple populates with FreeBSD apps, but which the user can populate with any UNIX apps they choose to use
-
-
 
 
 # 2024-1-6
@@ -7434,12 +6194,6 @@ du -sh target
 LocalStorage SessionStorage leveldb instead of sqlite https://bugs.chromium.org/p/chromium/issues/detail?id=225934
 
 concurrency is a way to structure the software, once you structure it properly, you can get parallesim for free.
-
-go routine
-
-select channel
-
-async await
 
 You don't need to accept it, but you need to understand it.
 
@@ -7581,8 +6335,6 @@ https://github.com/microsoft/winget-cli/issues/1812
 
 gmail ajax
 
-重型挖掘机玩泥巴
-
 JCR Licklider Douglas Engelbart
 
 postScript
@@ -7609,10 +6361,6 @@ code analysis lsp highlighting eta
 lsp is pretty damn important
 
 c/c++ clangd compilation database bear/cmake compile_commads.json
-
-python no idea
-
-java no idea
 
 go go
 
@@ -7994,8 +6742,6 @@ make test
 
 ```bash
 
-TODO
-
 kubectl get node
 E1230 10:07:55.915576   17811 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": context deadline exceeded - error from a previous attempt: EOF
 E1230 10:08:27.917669   17811 memcache.go:265] couldn't get current server API group list: Get "https://192.168.49.2:8443/api?timeout=32s": context deadline exceeded - error from a previous attempt: EOF
@@ -8133,8 +6879,6 @@ Jamstack Story book React Style guidist React cosmos
 
 Full Stack
 
-less time in side project
-
 wasm learning a lof of things from llvm
 
 # 2023-12-28
@@ -8185,39 +6929,15 @@ do things
 
 rust From trait
 
-https://github.com/rust-lang/rust/blob/f6456285ddca7db0ffc663d02d9ecaf22d1f0d82/library/core/src/convert/mod.rs#L579C1-L585C2
+library/core/src/convert/mod.rs#L579C1-L585C2
 
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/fault.c#L1239
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/mm/memory-failure.c#L525
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/uapi/asm/signal.h#L4
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/asm/pgtable_types.h#L4
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/include/asm/pgtable.h
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/pgprot.c#L5
-
-https://github.com/torvalds/linux/blob/fbafc3e621c3f4ded43720fdb1d6ce1728ec664e/arch/x86/mm/pgtable.c#L563
-
-64bit 
-
-2**40 TB
-
-64 52 48 32 
-
-Intel Core i7/Linux
-
-tag index offset
-
-page table entry -> pte -> unsigned long 
-
-physical page number
-
-63 62 52 51 12 11 9 8 7 6 5 4 3 2 1 0
-
-
+arch/x86/mm/fault.c#L1239
+mm/memory-failure.c#L525
+arch/x86/include/uapi/asm/signal.h#L4
+arch/x86/include/asm/pgtable_types.h#L4
+arch/x86/include/asm/pgtable.h
+arch/x86/mm/pgprot.c#L5
+arch/x86/mm/pgtable.c#L563
 
 # 2023-12-25
 
@@ -8647,25 +7367,6 @@ Chinese are good at analysis, but sucks on creativity.
 # 2023-12-12
 
 
-## software i use
-
-windows, winzip, chrome, firefox, vscode, clash, clash-for-windows, video player
-
-raylib, glfw, suspbase, x11, wayland, gnome, vim, neovim, lua, bash, sh
-
-python, golang, rust, gcc, g++, gdb, make, cmake, ninja, auto-ninja
-
-openjdk, libuv, tokio, rust-lang, graphql, webassembly
-
-webkit, servo, deno, node, npm, yarn, pnpm
-
-postgresql
-
-ccache, sccache
-
-
-## suspbase
-
 
 ## webassembly runtime open source
 
@@ -8729,19 +7430,9 @@ https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/
 
 https://remotely.routemehome.org/RemoteControl/Viewer?sessionId=889717405
 
-
 webassembly is new docker
 
 # 2023-12-08
-
-```bash
-# switch master to main
-git branch -m master main
-git fetch origin
-git branch -u origin/main main
-git remote set-head origin -a
-
-```
 
 
 ## webassembly talks
