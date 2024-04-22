@@ -1,13 +1,14 @@
 # 2024-4-22 0 | 0 W
 
-export PKG_CONFIG_PATH=/home/tannal/tannalwork/projects/mozilla-unified/js/src/build/lib/pkgconfig
-export LD_LIBRARY_PATH=/home/tannal/tannalwork/projects/mozilla-unified/js/src/build/lib
+export PKG_CONFIG_PATH=/opt/spidermonkey/lib/pkgconfig
+export LD_LIBRARY_PATH=/opt/spidermonkey/lib/
 
 cd js/src
 mkdir _build
 cd _build
 ../configure --disable-jemalloc --with-system-zlib \
-    --with-intl-api --enable-debug --enable-optimize
+    --with-intl-api --enable-debug --enable-optimize \
+    --prefix=/opt/spidermonkey
 make -j23
 make install  # sudo if necessary
 
