@@ -1,5 +1,8 @@
 # 2024-4-22 0 | 0 W
 
+A readable stream -> A Object
+A string -> A Object
+
 export PKG_CONFIG_PATH=/opt/spidermonkey/lib/pkgconfig
 export LD_LIBRARY_PATH=/opt/spidermonkey/lib/
 

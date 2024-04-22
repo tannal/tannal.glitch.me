@@ -3,6 +3,189 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+ChatGPT
+https://chat.openai.com/c/60c60cde-c5ba-476d-bfdb-475bf521e1d6
+
+Embedded Linux, kernel, drivers, Yocto, Buildroot and graphics training
+https://bootlin.com/training/
+
+linux-kernel-slides.pdf
+https://bootlin.com/doc/training/linux-kernel/linux-kernel-slides.pdf
+
+buildroot-slides.pdf
+https://bootlin.com/doc/training/buildroot/buildroot-slides.pdf
+
+bug: AOT compiler inconsistent memory side-effect with traps · Issue #3347 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/3347
+
+(1) #general > Using Vello in Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Using.20Vello.20in.20Servo
+
+Issue search results
+https://github.com/search?q=involves%3Aggerganov&type=issues&p=3
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp?tab=readme-ov-file
+
+zorjen122/zvos: A concise os kernel based on xv6 and rvos
+https://github.com/zorjen122/zvos
+
+Issues · webpack/webpack
+https://github.com/webpack/webpack/issues
+
+futex基础问答
+http://www.wowotech.net/kernel_synchronization/futex.html#8885
+
+GitHub
+https://github.com/
+
+Integration with web APIs · Issue #82 · tc39/proposal-async-context
+https://github.com/tc39/proposal-async-context/issues/82
+
+50. 常见的浏览器内核有哪些? · Issue #88 · zlx362211854/daily-study
+https://github.com/zlx362211854/daily-study/issues
+
+justinethier/keyva: :key: A distributed key-value store
+https://github.com/justinethier/keyva
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+[css-align] Baseline of row with no cells · Issue #10137 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10137
+
+CSS Inline Layout Module Level 3
+https://drafts.csswg.org/css-inline-3/#baseline-tables
+
+CSS Inline Layout Module Level 3
+https://drafts.csswg.org/css-inline-3/#alphabetic-baseline
+
+length_utils.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/layout/length_utils.cc;l=260-262?q=length_utils.cc&ss=chromium
+
+CSS Box Sizing Module Level 3
+https://drafts.csswg.org/css-sizing-3/#replaced-percentage-min-contribution
+
+Issue search results
+https://github.com/search?q=%22https%3A%2F%2Fdrafts.csswg.org%2Fcss-sizing-3%22&type=issues&p=2
+
+Issues · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/labels/Needs%20Testcase%20%28WPT%29
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+Excalidraw
+https://excalidraw.com/
+
+字体排印学 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AD%97%E4%BD%93%E6%8E%92%E5%8D%B0%E5%AD%A6
+
+html.spec.whatwg.org
+https://html.spec.whatwg.org/
+
+Rocksdb BlockBasedTable Format · facebook/rocksdb Wiki
+https://github.com/facebook/rocksdb/wiki/Rocksdb-BlockBasedTable-Format
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+[css-images-4] Should `contain-intrinsic-size` affect `object-fit`? · Issue #10116 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10116
+
+tabatkins/parse-css: :horse_racing: Standards-based CSS Parser
+https://github.com/tabatkins/parse-css/tree/main
+
+buffer - Unable to have the reverse of Ctrl-O in Vim - Stack Overflow
+https://stackoverflow.com/questions/843599/unable-to-have-the-reverse-of-ctrl-o-in-vim
+
+Stream Parser (strparser) — The Linux Kernel documentation
+https://docs.kernel.org/networking/strparser.html
+
+object model - Google 搜索
+https://www.google.com/search?q=object+model&rlz=1C1GCEA_enJP1090JP1090&oq=object+model+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQ0MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+本体 (信息科学) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9C%AC%E4%BD%93_(%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6)
+
+Object-oriented programming - Wikipedia
+https://en.wikipedia.org/wiki/Object-oriented_programming#cite_note-RobPike-31
+
+command center: Less is exponentially more
+https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
+
+redis-rs/redis-rs: Redis library for rust
+https://github.com/redis-rs/redis-rs
+
+bell labs and xerox - Google 搜索
+https://www.google.com/search?q=bell+labs+and+xerox&rlz=1C1GCEA_enJP1090JP1090&oq=bell+labs+and+xerox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTE2ODg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Xerox%20PARC%20Bell%20Labs&sort=byPopularity&type=story
+
+The death of corporate research labs | Hacker News
+https://news.ycombinator.com/item?id=23246672
+
+DSHR's Blog: The Death Of Corporate Research Labs
+https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html
+
+Papers from Viewpoints Research Institute - Viewpoints Intelligent Archive
+https://tinlizzie.org/IA/index.php/Papers_from_Viewpoints_Research_Institute
+
+Robert Taylor (computer scientist) - Wikipedia
+https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)
+
+lsm tree - Google 搜索
+https://www.google.com/search?q=lsm%20tree&udm=2&uds=AMwkrPs7I2hXjqs29S2u-P2GT8CxOteHwNLdUlahOpkUoMZa41YUqFPqfcomvbMxb8hhpPY-EHgE&tbs=rimg:Caaq6ytBpDXXYcBlNmzNnjf6sgIAwAIA2AIA4AIA&rlz=1C1GCEA_enJP1090JP1090&hl=zh-CN&sa=X&ved=0CBoQuIIBahcKEwiIn-f3iNWFAxUAAAAAHQAAAAAQHw&biw=1536&bih=703&dpr=1.25
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+cs5460/6460 Operating Systems (Spring 2024) - Lecture 09 - Interrupts (continued) - YouTube
+https://www.youtube.com/watch?v=x0pLcrIKbBE
+
+mount.ceph -- mount a Ceph file system — Ceph Documentation
+https://docs.ceph.com/en/latest/man/8/mount.ceph/
+
+lsm tree merge - Google 搜索
+https://www.google.com/search?sca_esv=996fb15ca7a5844a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-mpsWDJcUk4I00TB46XOSbbwlwrA:1713765400278&q=lsm+tree+merge&uds=AMwkrPs96uBJRrtnfdUBdyLvIDAS2iAUsh3NAtF1hDn6FHp3DK4bSuUef8iM2rt5JS7mWeido_iwtW6munpuCADFwib9Ac2bxnrKqQ4pbz9z1a68ISltg26oF1o4XcUWSckDEHO7d3J0dzUrHQhJ3kdl2biItruHLZ7Dlm2e1iZE7QPS_xeoc4iOE4sf0sKhhvW7HFEEJX2E2vKgg6R55KYWTt7mOsuATObqCUzpE0Lmcz5N7w2gihNeTr6ypL88GS10qcIAO8LK&udm=2&prmd=ivsnmbtz&sa=X&ved=2ahUKEwj3u6XPkdWFAxUjia8BHZF4B3sQtKgLegQIDRAB&biw=1536&bih=703&dpr=1.25#vhid=HTKyHKWywgXJmM&vssid=mosaic
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+lsm tree b tree - Google 搜索
+https://www.google.com/search?sca_esv=369bb2d90aa2509e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09NwB5q3Y_PfqmVrU0rK8WesbODOg:1713766586254&q=lsm+tree+b+tree&uds=AMwkrPufgvfzFeIw5yilA4Gzc5SOh_gdRRMbavayt2wpHIo1Vgi3UQ_2zsaT3taejBEAMR7LtL3sg7SwMGg8-6KPE_x60OK6FwiPNzRpSWho0WEhUqSc7Vw2pcUfjw9m4ORWsWGTZQ_y0vYrc9SCuIN3FLVfYZcQJbUnn4dAl79x_n4WIHe3j3u6sgyScGSG9FJZWf_qpNJJgJ3XIxtqOlNWGSeBXh1PQOsnigdg_EoHKuCOLG-BHJArlH4ek9x5x1Mtt3RFvmGS&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwiD2-eEltWFAxVsavUHHUwCD5IQtKgLegQIDBAB&biw=1536&bih=703&dpr=1.25#vhid=3lM2R2wZ4P9l8M&vssid=mosaic
+
+Revisiting B+-tree vs. LSM-tree | USENIX
+https://www.usenix.org/publications/loginonline/revisit-b-tree-vs-lsm-tree-upon-arrival-modern-storage-hardware-built
+
+WPS文档视图怎么改成单页显示 每次打开都是双页 好难受
+https://www.wps.cn/learning/room/d/264860
+
+lsm tree - Google 搜索
+https://www.google.com/search?sca_esv=369bb2d90aa2509e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08n7AQlkIYGtcYxnCIr5JeCtiIJ1Q:1713768060655&q=lsm+tree&uds=AMwkrPsuqc0wiRzbZWETEcL_Y_fCPKyha7EnGRsB38WvWUrgh3fQ7Bc8frKflRtb5MT-ttuzebZNJEAvigBMETeJ-ulxebg1z_cC9Fxr74d9NMBzVLi4bVRe7ADQV-52A1sj6MwNoQKN3C2EKFtnL75HyfMpHvLFnNO65hbddmHdwyXsVzmiBMwcF96yuosvXAugR92HyILAqkHWqxCOnjAi6-qoo_pg9qgztjJjZZJ6XZmj0grgzqg&udm=2&prmd=isvnbmtz&sa=X&ved=2ahUKEwiR-O3Dm9WFAxXpaPUHHSh0DNMQtKgLegQIDhAB&biw=1536&bih=703&dpr=1.25#imgrc=wKTVODta2nz1uM&imgdii=K6nmqdjKuPCsOM
+
+bloom filter key value store - Google 搜索
+https://www.google.com/search?q=bloom+filter+key+value+store&sca_esv=369bb2d90aa2509e&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&udm=2&prmd=svinbmtz&sxsrf=ACQVn0_QKErQvDypZCD_uzJqC7gaeSvJbw:1713768822836&source=lnms&ved=1t:200715&ictx=111#vhid=DupEeug7KMSLbM&vssid=mosaic
+
+key value store lsm tree set key - Google 搜索
+https://www.google.com/search?q=key+value+store+lsm+tree+set+key&sca_esv=369bb2d90aa2509e&rlz=1C1GCEA_enJP1090JP1090&udm=2&biw=1536&bih=703&sxsrf=ACQVn0_sb_2bY6PjMd3UeBZlHQlUq8v3HQ%3A1713769962355&ei=6g0mZvCsFfWOvr0PnL6x0AY&ved=0ahUKEwjwydTOotWFAxV1h68BHRxfDGoQ4dUDCBE&uact=5&oq=key+value+store+lsm+tree+set+key&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGtleSB2YWx1ZSBzdG9yZSBsc20gdHJlZSBzZXQga2V5SLQNUABY_wpwAHgAkAEAmAHFAaAB5g6qAQQwLjEwuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAf-Aw&sclient=gws-wiz-serp#imgrc=gVC63Y8YkcgkXM&imgdii=PByAHegA2pKPkM
+
+Key Concepts: SSTable
+https://distributeddatastore.blogspot.com/2013/08/cassandra-sstable-storage-format.html
+
+read eval print loop - Google 搜索
+https://www.google.com/search?q=read+eval+print+loop&rlz=1C1GCEA_enJP1090JP1090&oq=read+eval&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgPGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCzE3NzEzNjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 tannal (tannal)
 https://github.com/tannal/
 
