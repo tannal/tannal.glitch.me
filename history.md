@@ -1,3 +1,53 @@
+# 2024-4-22
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (tannal)
+https://github.com/tannal/
+
+`window.hashchange` events are unthrottled · Issue #32118 · servo/servo
+https://github.com/servo/servo/issues/32118
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=rob%20pike&sort=byPopularity&type=story
+
+command center: Less is exponentially more
+https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html
+
+golang-nuts - Google Groups
+https://groups.google.com/g/golang-nuts
+
+sendfile() in Go
+https://groups.google.com/g/golang-nuts/c/gdp1q6T0DNY/m/sFaRetnWPWIJ
+
+Rob Pike: The Best Programming Advice I Ever Got. | Hacker News
+https://news.ycombinator.com/item?id=4390118
+
+GoogleFOSSSydney - YouTube
+https://www.youtube.com/@GoogleFOSSSydney/videos
+
+research!rsc: The Generic Dilemma
+https://research.swtch.com/generic
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=en&op=translate
+
+Issue search results
+https://github.com/search?q=embedded+JavaScriptCore&type=issues&p=2
+
+JavaScriptCore api - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=JavaScriptCore+api
+
+spidermonkey-embedding-examples/docs/Building SpiderMonkey.md at esr115 · mozilla-spidermonkey/spidermonkey-embedding-examples
+https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples/blob/esr115/docs/Building%20SpiderMonkey.md
+
+Directory Listing: /pub/firefox/releases/115.1.0esr/source/
+https://ftp.mozilla.org/pub/firefox/releases/115.1.0esr/source/
+
 # 2024-4-21
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
