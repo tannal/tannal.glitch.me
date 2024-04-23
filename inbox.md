@@ -1,5 +1,28 @@
 # 2024-4-23 0 | 0 W
 
+git clone https://github.com/LekKit/RVVM
+
+Create an empty raw image with fallocate -l 4G rootfs.img
+
+Create a filesystem directly inside it (Yeah, I don't really need partition tables, but you're free to go your own way) with mkfs.ext4 rootfs.img
+
+Mount it somewhere with sudo mount rootfs.img tmp_dir
+
+Extract tarball of my desired distro into FS mount point, for example sudo tar -xvf alpine-sth.tar.gz -C tmp_dir
+
+sudo mount rootfs.img ./build/mnt
+sudo unzip debian.zip -d ./build/mnt/
+sudo umount rootfs.img
+
+./build/rvvm fw_jump.bin -k linux -i debian.img
+
+sudo mount rootfs.img ./build/mnt
+
+sync
+
+rvvm fw_jump.bin -k linux -i rootfs.img. Lets gooo!
+
+
 https://ryantrimble.com/
 
 git clone https://github.com/webview/webview.git
