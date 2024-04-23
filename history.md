@@ -3,6 +3,162 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=ATCVAJ
+
+• Discord | #intro-llms-video | Neural Networks: Zero to Hero
+https://discord.com/channels/1020383067459821711/1179974475383574570
+
+denoland/deno_core: The core engine at the heart of Deno
+https://github.com/denoland/deno_core
+
+kdashg (Kelsey Gilbert)
+https://github.com/kdashg
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Self-Modifying Variables: the inherit() Workaround
+https://kizu.dev/self-modifying-variables/
+
+Anchor Positioning | 12 Days of Web
+https://12daysofweb.dev/2023/anchor-positioning/
+
+Keep the Footer at the Bottom: Flexbox vs. Grid | Modern CSS Solutions
+https://moderncss.dev/keep-the-footer-at-the-bottom-flexbox-vs-grid/
+
+SmolCSS
+https://smolcss.dev/
+
+11ty Rocks!
+https://11ty.rocks/
+
+xiaochengh (Xiaocheng Hu)
+https://github.com/xiaochengh
+
+Highlight.js and <details> · Issue #4695 · w3c/respec
+https://github.com/w3c/respec/issues/4695
+
+1887611 - Implement URL.parse()
+https://bugzilla.mozilla.org/show_bug.cgi?id=1887611
+
+feat(ext/url): add `URL.parse` (#23318) · denoland/deno@1e26508
+https://github.com/denoland/deno/commit/1e26508579e1d102f462e58168398795270e7e61#diff-fc5036035b2363bc7829e4722f1c2089d1b8ea0ebf95419161378b05967133bf
+
+node/src/api/callback.cc at a2f3b1df9362a694b78444b7de28878a75fcc457 · nodejs/node
+https://github.com/nodejs/node/blob/a2f3b1df9362a694b78444b7de28878a75fcc457/src/api/callback.cc#L170
+
+noclip.website/src at master · magcius/noclip.website
+https://github.com/magcius/noclip.website/tree/master/src
+
+arena_granary - Team Fortress 2 - noclip
+https://noclip.website/#TeamFortress2/arena_granary;ShareData=AAABrUVH5=AAAAAAAAAAAAAAAAAABrUVH5=AAAAAAAAAAAAAAAAAABrUVH5=AA
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+tannalwork/main.cc 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/cans/v8_embed/main.cc
+
+What's new for the Node.js Performances? - 2023 version · Issue #98 · nodejs/performance
+https://github.com/nodejs/performance/issues/98
+
+node/src/node_util.cc at a2f3b1df9362a694b78444b7de28878a75fcc457 · nodejs/node
+https://github.com/nodejs/node/blob/a2f3b1df9362a694b78444b7de28878a75fcc457/src/node_util.cc#L340
+
+Repository search results
+https://github.com/search?q=unity+wasm&type=repositories&p=4
+
+Pathtracer 17: WebAssembly · Aras' website
+https://aras-p.info/blog/2018/11/16/Pathtracer-17-WebAssembly/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+gregorypappas (Gregory Pappas)
+https://github.com/gregorypappas
+
+is there a windows equivalent of the linux command "perf stat"? - Stack Overflow
+https://stackoverflow.com/questions/34641644/is-there-a-windows-equivalent-of-the-linux-command-perf-stat
+
+Xperf工具学习笔记(一）-CSDN博客
+https://blog.csdn.net/qq_37954088/article/details/106331287
+
+winget install xperf - Google 搜索
+https://www.google.com/search?q=winget+install+xperf&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+xperf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yCggHEAAYgAQYogQyCggIEAAYgAQYogQyCggJEAAYgAQYogTSAQgyNTE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?page=2&sort=recentupdate&q=&tab=repositories&language=
+
+node/src/tcp_wrap.cc at a2f3b1df9362a694b78444b7de28878a75fcc457 · nodejs/node
+https://github.com/nodejs/node/blob/a2f3b1df9362a694b78444b7de28878a75fcc457/src/tcp_wrap.cc#L177
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+michaeljclark/rv8: RISC-V simulator for x86-64
+https://github.com/michaeljclark/rv8
+
+Linux in a Pixel Shader - A RISC-V Emulator for VRChat
+https://blog.pimaker.at/texts/rvc1/
+
+venus
+https://venus.kvakil.me/
+
+Release RVVM v0.6 · LekKit/RVVM
+https://github.com/LekKit/RVVM/releases/tag/v0.6
+
+learn-fpga/FemtoRV/README.md at master · BrunoLevy/learn-fpga
+https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/README.md
+
+修改和构建本项目 - rCore-Tutorial-Book-v3 3.6.0-alpha.1 文档
+https://rcore-os.cn/rCore-Tutorial-Book-v3/setup-sphinx.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+downloads | Alpine Linux
+https://alpinelinux.org/downloads/
+
+mount - How do I remount a filesystem as read/write? - Ask Ubuntu
+https://askubuntu.com/questions/175739/how-do-i-remount-a-filesystem-as-read-write
+
+How to rsync a directory to a new directory with different name? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/178078/how-to-rsync-a-directory-to-a-new-directory-with-different-name
+
+Clean shutdown, run sync after umount - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/398661/clean-shutdown-run-sync-after-umount
+
+ChatGPT
+https://chat.openai.com/
+
+no working init found - Google 搜索
+https://www.google.com/search?q=no+working+init+found&rlz=1C1GCEA_enJP1090JP1090&oq=no+working+init+found&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDMwNDVqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+• Discord | #general | noclip.website
+https://discord.com/channels/551621619152584706/551621619152584712
+
+Adding Randomness - Creative Coding with Canvas & WebGL
+https://frontendmasters.com/courses/canvas-webgl/adding-randomness/
+
+canvas-sketch-util/docs/math.md at master · mattdesl/canvas-sketch-util
+https://github.com/mattdesl/canvas-sketch-util/blob/master/docs/math.md#value--lerpmin-max-t
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 webview/webview: Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 https://github.com/webview/webview?tab=readme-ov-file
 
