@@ -1,6 +1,8 @@
 # people
 
 involves:ehsan
+involves:gregorypappas
+
 
 # inbox
 
