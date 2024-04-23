@@ -3,3 +3,5 @@
 
 https://behdad.org/be-resume.pdf
 
+https://rfrn.org/~shu/CV.pdf
+
