@@ -3,6 +3,69 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+webview/webview: Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+https://github.com/webview/webview?tab=readme-ov-file
+
+brendangregg/FlameGraph: Stack trace visualizer
+https://github.com/brendangregg/FlameGraph
+
+CPU Flame Graphs
+https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
+
+sqlite/src/btree.h at 06915d014545ebf1b00163351e76fbaa6a3ba7b8 · sqlite/sqlite
+https://github.com/sqlite/sqlite/blob/06915d014545ebf1b00163351e76fbaa6a3ba7b8/src/btree.h#L84
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+aliyunpan/internal/functions/pandownload/download_task_unit.go at e9ae9740179e804ae481e701e12e3ca7d9aaddcd · tickstep/aliyunpan
+https://github.com/tickstep/aliyunpan/blob/e9ae9740179e804ae481e701e12e3ca7d9aaddcd/internal/functions/pandownload/download_task_unit.go#L484
+
+Repository search results
+https://github.com/search?q=wayland&type=repositories
+
+cage-kiosk/cage: A Wayland kiosk
+https://github.com/cage-kiosk/cage
+
+emersion/mako: A lightweight Wayland notification daemon
+https://github.com/emersion/mako
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+perf_event_paranoid - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=perf_event_paranoid+#ip=1
+
+tabatkins/parse-css: :horse_racing: Standards-based CSS Parser
+https://github.com/tabatkins/parse-css
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+http://api.tanmeng.org/tabs
+http://api.tanmeng.org/tabs
+
+fxfactorial/JavaScriptCore-cpp: An attempt at a C++ interface to JavaScriptCore
+https://github.com/fxfactorial/JavascriptCore-cpp
+
+Edgar's blog -
+https://hyegar.com/
+
+c++ - clang++ cannot find iostream - Ask Ubuntu
+https://askubuntu.com/questions/1449769/clang-cannot-find-iostream
+
+libjavascriptcoregtk - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=libjavascriptcoregtk#ip=1
+
+webview/webview: Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+https://github.com/webview/webview
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Group Programming Project - Google 文档
 https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
 

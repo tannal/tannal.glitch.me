@@ -1,5 +1,18 @@
 # 2024-4-23 0 | 0 W
 
+git clone https://github.com/webview/webview.git
+Development: sudo apt install libgtk-3-dev libwebkit2gtk-4.0-dev
+
+Production: sudo apt install libgtk-3-0 libwebkit2gtk-4.0-37
+
+export CC=/usr/bin/clang
+export CXX=/usr/bin/clang++
+cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+sudo apt install libjavascriptcoregtk-6.0-dev libblocksruntime-dev
+git clone https://github.com/fxfactorial/JavaScriptCore-cpp.git
+
+
 marcoscaceres
 gpuweb
 involves:kdashg
