@@ -1,3 +1,62 @@
+# 2024-4-23
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+spidermonkey-embedding-examples/docs/Building SpiderMonkey.md at esr115 · mozilla-spidermonkey/spidermonkey-embedding-examples
+https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples/blob/esr115/docs/Building%20SpiderMonkey.md
+
+Embed JavascriptCore in C application - Stack Overflow
+https://stackoverflow.com/questions/11014056/embed-javascriptcore-in-c-application
+
+tannal (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D070HPU0R89
+
+Constellation (Yusuke Suzuki)
+https://github.com/Constellation
+
+[JSC] Update test262 to 04/18/2024 version by sosukesuzuki · Pull Request #27425 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/27425
+
+Buildbot: builder iOS-17-Simulator-Build-EWS build 33944
+https://ews-build.webkit.org/#/settings
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls
+
+Which javascript interpreter is the easiest to embedd in a C application? - Stack Overflow
+https://stackoverflow.com/questions/1480399/which-javascript-interpreter-is-the-easiest-to-embedd-in-a-c-application?rq=3
+
+JavaScriptCore in webkit/trunk/Source – WebKit
+https://trac.webkit.org/browser/trunk/Source/JavaScriptCore
+
+Hacking Webkit & Its JavaScript Engines | PPT
+https://www.slideshare.net/senchainc/hacking-webkit-its-javascript-engines
+
+linux - What does "opt" mean (as in the "opt" directory)? Is it an abbreviation? - Stack Overflow
+https://stackoverflow.com/questions/12649355/what-does-opt-mean-as-in-the-opt-directory-is-it-an-abbreviation
+
+node spidermoneky - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=node+spidermoneky
+
+BestieJS Modules
+https://github.com/bestiejs
+
+docdown/bin/docdown at master · jdalton/docdown
+https://github.com/jdalton/docdown/blob/master/bin/docdown
+
+About | ofcrse by Benjamin Tan
+https://ofcr.se/about
+
+tannal (tannal)
+https://github.com/tannal
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+WebKit EWS - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=WebKit+EWS#ip=1
+
 # 2024-4-22
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

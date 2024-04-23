@@ -1,4 +1,23 @@
+
+
+# people
+
+involves:Constellation
+
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+
 # inbox
+
+Elliott Williams
+
+Tools/Scripts/run-minibrowser --debug 
+
+jsc -m cc-int-to-int.js --useJIT=0 --useWebAssembly=1 
+
+export WEBKIT_OUTPUTDIR=WebKitBuild/GTK/Debug/
+
+Tools/Scripts/run-jsc-stress-tests  --env-vars "JSC_useWasmIPInt=0 JSC_useWasmLLInt=1 JSC_useWebAssembly=1 JSC_useJIT=0" -j $WEBKIT_OUTPUTDIR/bin/jsc JSTests/wasm.yaml --filter=wasm.yaml/wasm/spec-tests/i64
 
 idl
 TreatNullAs=NullString
