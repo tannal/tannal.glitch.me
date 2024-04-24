@@ -1,5 +1,92 @@
 # 2024-4-24
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+aam/skiaex: Skia PDF with Harfbuzz example
+https://github.com/aam/skiaex
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Using Node-API from a classic addon module · nodejs · Discussion #52557
+https://github.com/orgs/nodejs/discussions/52557
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=nominate%20%20%20&op=translate
+
+build: fix arm64 cross-compilation bug on non-arm machines by devraymondsh · Pull Request #52559 · nodejs/node
+https://github.com/nodejs/node/pull/52559/files
+
+#general > ANGLE on Mac OS - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ANGLE.20on.20Mac.20OS
+
+Issue search results
+https://github.com/search?q=involves%3Athisalihassan+&type=issues
+
+benchmark: conditionally use spawn with taskset for CPU pinning by thisalihassan · Pull Request #52253 · nodejs/node
+https://github.com/nodejs/node/pull/52253/files
+
+docs: Unsafe example for converting a `message.url` to an `URL` · Issue #52494 · nodejs/node
+https://github.com/nodejs/node/issues/52494
+
+Building NodeJS with a shared v8 · Issue #3302 · nodejs/help
+https://github.com/nodejs/help/issues/3302
+
+linux - node: error while loading shared libraries: libv8.so.3 - Stack Overflow
+https://stackoverflow.com/questions/12849781/node-error-while-loading-shared-libraries-libv8-so-3
+
+how to dynamic linking v8 - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=how+to+dynamic+linking+v8#ip=1
+
+SKP Debugger
+https://debugger.skia.org/?url=https://fiddle.skia.org/i/@Canvas_drawArc_b.skp
+
+Repository search results
+https://github.com/search?q=skia+language%3AC%2B%2B&type=repositories&l=C%2B%2B&p=9
+
+elementor/third_party/skia-build.lua at master · noartem/elementor
+https://github.com/noartem/elementor/blob/master/third_party/skia-build.lua
+
+noartem/skia-build: CI repo for building Skia as a shared library
+https://github.com/noartem/skia-build/tree/master
+
+Repository search results
+https://github.com/search?q=skiakit&type=repositories
+
+[vm] Fix isNegative on x64 and ia32. · dart-lang/sdk@6011eb9
+https://github.com/dart-lang/sdk/commit/6011eb98d92fed99ceba4c44f237e84a27553801#diff-ea859c1944d84c85d34002f14f038365ec920b5ed287f1bbfe10bc277ff14b5e
+
+Repositories
+https://github.com/orgs/dart-lang/repositories
+
+gclient
+https://chromium.googlesource.com/chromium/tools/depot_tools.git/+/HEAD/README.gclient.md
+
+Repository search results
+https://github.com/search?q=CanvasKit&type=repositories&p=2
+
+simoncollins/skia-canvaskit-vite: Starter repo for using Skia CanvasKit with Vite as the bundler
+https://github.com/simoncollins/skia-canvaskit-vite
+
+CanvasKit - Quickstart | Skia
+https://skia.org/docs/user/modules/quickstart/#basic-draw-loop
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+canvaskit-wasm - npm
+https://www.npmjs.com/package/canvaskit-wasm
+
+Could not find gn executable (gn.exe)
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/CNegIY4Rnd4
+
+metalbear-co/mirrord: Connect your local process and your cloud environment, and run local code in cloud conditions.
+https://github.com/metalbear-co/mirrord
+
+Why Dart is not the language of the future. | Hacker News
+https://news.ycombinator.com/item?id=3098435
+
 codepen.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
