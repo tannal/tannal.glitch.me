@@ -1,5 +1,176 @@
 # 2024-4-24
 
+codepen.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+The Antidote to Positioning in CSS - SVG Essentials & Animation, v2
+https://frontendmasters.com/courses/svg-essentials-animation/the-antidote-to-positioning-in-css/
+
+gopher（私信） - Gophers - Slack
+https://app.slack.com/client/T029RQSE6/D06PUJBRBKP
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+Collabora - Mesa/Graphics Software Developer (Remote/Anywhere)
+https://jobs.lever.co/collabora/6e42d611-2f86-4c25-9d84-43c39b8f6c3c
+
+Collabora - Vulkan/OpenGL Software Developer (Remote/Anywhere)
+https://jobs.lever.co/collabora/bd4a9eb8-528f-4553-a832-ca6949ab46bd
+
+Collabora - Open Source Software Developer (Speculative; Remote/Anywhere)
+https://jobs.lever.co/collabora/f38d3f97-a52b-4963-8917-ad8016b43c23
+
+Collabora - CI/Testing Infrastructure Developer (Remote/Anywhere)
+https://jobs.lever.co/collabora/7dd88e28-ffd5-4d6c-b54b-8a6c42cd7e85/apply
+
+Code Splitting Demonstration - Web Performance with Webpack
+https://frontendmasters.com/courses/performance-webpack/top-performance-issues/
+
+Careers at Linaro | Software Careers | Linaro
+https://www.linaro.org/careers/
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues?page=2&q=is%3Aissue+is%3Aopen
+
+1903.12525.pdf
+https://arxiv.org/pdf/1903.12525.pdf
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+tc39/proposal-arraybuffer-base64: TC39 proposal for Uint8Array<->base64/hex
+https://github.com/tc39/proposal-arraybuffer-base64
+
+Introduction - Web Storage APIs
+https://frontendmasters.com/courses/web-storage-apis/introduction/
+
+slides
+https://firtman.github.io/browser-storage/slides.pdf
+
+firtman/coffeemasters-pwa
+https://github.com/firtman/coffeemasters-pwa
+
+• Discord | #forge | Typst
+https://discord.com/channels/1054443721975922748/1175885362065834105
+
+svg rendered werid · Issue #3974 · typst/typst
+https://github.com/typst/typst/issues/3974
+
+localhost:3000
+http://localhost:3000/
+
+502 Bad Gateway
+http://api.tanmeng.org/tabs/
+
+(1) Create with {"microseconds":"fractional"} cause RangeError · Issue #195 · tc39/proposal-intl-duration-format
+https://github.com/tc39/proposal-intl-duration-format/issues/195
+
+Learn JavaScript, React, and TypeScript to Node.js, Fullstack, and Backend | Frontend Masters
+https://frontendmasters.com/
+
+搜索结果 | Udemy
+https://www.udemy.com/courses/search/?src=ukw&q=Mesa+3D
+
+Excalidraw
+https://excalidraw.com/
+
+Ask HN: What are some cool but obscure data structures you know about? | Hacker News
+https://news.ycombinator.com/item?id=32186203&p=2
+
+language agnostic - What are the lesser known but useful data structures? - Stack Overflow
+https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures
+
+CS166: Advanced Data Structures
+https://web.stanford.edu/class/cs166/
+
+1608.03960.pdf
+https://arxiv.org/pdf/1608.03960.pdf
+
+research!rsc: Using Uninitialized Memory for Fun and Profit
+https://research.swtch.com/sparse
+
+simp.pdf
+https://user.it.uu.se/~arneande/ps/simp.pdf
+
+grafana/grafana: The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+https://github.com/grafana/grafana
+
+t.dvi
+https://www.cs.cmu.edu/~rwh/students/okasaki.pdf
+
+RoaringBitmap/RoaringBitmap: A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
+https://github.com/RoaringBitmap/RoaringBitmap
+
+demaine.pdf
+https://cs.au.dk/~gerth/MassiveData02/notes/demaine.pdf
+
+Real-Time Collision Detection (The Morgan Kaufmann Series in Interactive 3-D Technology): Ericson, Christer: 9781558607323: Amazon.com: Books
+https://www.amazon.com/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323
+
+[1912.08258] Xor Filters: Faster and Smaller Than Bloom and Cuckoo Filters
+https://arxiv.org/abs/1912.08258
+
+FastFilter
+https://github.com/FastFilter
+
+Ribbon filter: Practically smaller than Bloom and Xor
+https://engineering.fb.com/2021/07/09/core-infra/ribbon-filter/
+
+reflectt6
+https://github.com/reflectt6
+
+Filter往事(一)站在巨人的肩膀上 | 今夕是何年
+https://reflectt6.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE/2024/01/30/Filter%E5%BE%80%E4%BA%8B(%E4%B8%80)%E7%AB%99%E5%9C%A8%E5%B7%A8%E4%BA%BA%E7%9A%84%E8%82%A9%E8%86%80%E4%B8%8A.html
+
+Standard ML
+https://github.com/standardml
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=algorithms&sort=byPopularity&type=story
+
+Ask HN: What is new in algorithms and data structures these days? | Hacker News
+https://news.ycombinator.com/item?id=35886900
+
+Ask HN: What are some cool but obscure data structures you know about? | Hacker News
+https://news.ycombinator.com/item?id=32186203
+
+abseil / C++ Tips of the Week
+https://abseil.io/tips/
+
+The Modern Algorithmic Toolbox (CS168), Spring 2024
+https://web.stanford.edu/class/cs168/index.html
+
+2006.09123.pdf
+https://arxiv.org/pdf/2006.09123.pdf
+
+[2203.00671] Maximum Flow and Minimum-Cost Flow in Almost-Linear Time
+https://arxiv.org/abs/2203.00671
+
+Instrumentation - Algorithmica
+https://en.algorithmica.org/hpc/profiling/instrumentation/
+
+Ask HN: What are some cool but obscure data structures you know about? | Hacker News
+https://news.ycombinator.com/item?id=32186203
+
+firesync-org/firesync: Batteries-included platform for building real-time collaboration apps
+https://github.com/firesync-org/firesync
+
+Visualizing Algorithms
+https://bost.ocks.org/mike/algorithms/
+
+Search | arXiv e-print repository
+https://arxiv.org/search/cs?query=wasmtime&searchtype=all&abstracts=show&order=-announced_date_first&size=50
+
+2311.14246.pdf
+https://arxiv.org/pdf/2311.14246.pdf
+
+Hello World
+https://codepen.io/tannal/pen/jORdrWq
+
+GSAP on CodePen
+https://codepen.io/GreenSock/details/WQjRXE
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
