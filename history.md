@@ -1,3 +1,89 @@
+# 2024-4-24
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Books : Postgres Professional
+https://postgrespro.com/community/books
+
+egor-rogov (egor-rogov) / Repositories
+https://github.com/egor-rogov?tab=repositories
+
+Funding Opportunities – eBPF
+https://ebpf.foundation/funding-opportunities/?fbclid=IwAR1NkUiOCVoxxW3rvWw2ah4avnUlsS3TUCnz19vhpTBVz8I1pNsYbZ0jvCo_aem_AU4fAUcaJ5AdX9QwAcfDf70c_DU6osGjz2uq8B3k9mju2K_bxaVrn4iF4K-lQE1Le3ttDgHTtBn5Vh0CKaC4cwxX
+
+键值存储系统设计
+https://chat.openai.com/c/83e80684-f3c8-40b0-95e7-ed24af515a3f
+
+The_State_of_eBPF.pdf
+https://www.linuxfoundation.org/hubfs/eBPF/The_State_of_eBPF.pdf?__hstc=137369199.ac408c13df9ba67def4f999f0c5dd5c9.1712728543583.1713075306800.1713314253182.3&__hssc=137369199.1.1713314253182&__hsfp=2989331422
+
+Report: The State of eBPF – eBPF
+https://ebpf.foundation/report-the-state-of-ebpf/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+2023 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/598186762133482
+
+3D DOM viewer, copy-paste this into your console to visualise the DOM topographically.
+https://gist.github.com/OrionReed/4c3778ebc2b5026d2354359ca49077ca?fbclid=IwAR3U01PDRfYDew9jb0dhLOby8n6fiBcny1miDYxfDIyKsnwhOhFobIQtToo
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Backup and Restore | Gitea Documentation
+https://docs.gitea.com/administration/backup-and-restore
+
+Resources
+https://tutflix.org/resources/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+统一身份认证
+https://authserver.nenu.edu.cn/authserver/login?service=https%3A%2F%2Fbkjx.nenu.edu.cn%2Fnew%2FssoLogin
+
+Resources
+https://tutflix.org/resources/
+
+PaperDog论文查重官网_AI论文生成_强力论文降重_论文查重免费查重平台
+https://check.paperdog.net/#/check
+
+PaperDog官网_免费论文查重_论文降重_AI论文写作
+https://www.paperdog.net/
+
+PaperDog论文查重官网_AI论文生成_强力论文降重_论文查重免费查重平台
+https://check.paperdog.net/#/report
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
 # 2024-4-23
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
