@@ -465,10 +465,6 @@ target record-core
 
 https://gecko-embedded.org/
 
-./configure --without-x --without-freetype
-
-git clone git://source.winehq.org/git/wine.git
-
 qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp" 
 
 -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/
