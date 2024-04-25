@@ -1,3 +1,185 @@
+# 2024-4-26
+
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+NLnet Labs
+https://github.com/NLnetLabs
+
+monkeykeyvaluestore.pdf
+https://stratos.seas.harvard.edu/files/stratos/files/monkeykeyvaluestore.pdf
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+hash package - hash - Go Packages
+https://pkg.go.dev/hash
+
+hmarui66/blink-tree-go: blink tree implementation in go
+https://github.com/hmarui66/blink-tree-go
+
+PLW/blink-tree-logic: BLInk Tree logic - storage and locking experiment
+https://github.com/PLW/blink-tree-logic
+
+goostub/storage/index/extendibleHashTableIndex.go at f495c2436c3acc90809ed3031466cbe234edcbcb · pzhzqt/goostub
+https://github.com/pzhzqt/goostub/blob/f495c2436c3acc90809ed3031466cbe234edcbcb/storage/index/extendibleHashTableIndex.go#L9
+
+leiless/cuckoohash-go: Expandable Cuckoo hash map/set implementation in Go (Docs WIP)
+https://github.com/leiless/cuckoohash-go
+
+cmu15-445/project/src/sqlite at b4c2e99371b746af7a126addf86a99aa4c5e1d7e · xingdl2007/cmu15-445
+https://github.com/xingdl2007/cmu15-445/tree/b4c2e99371b746af7a126addf86a99aa4c5e1d7e/project/src/sqlite
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Extendible hashing - Wikipedia
+https://en.wikipedia.org/wiki/Extendible_hashing
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Extendible_hashing&sort=byPopularity&type=story
+
+Extendible Hashing – Loonytek – Delving into Tech
+https://loonytek.com/2016/05/17/extendible-hashing/
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+bitcask_go package - github.com/xiecang/bitcask - Go Packages
+https://pkg.go.dev/github.com/xiecang/bitcask
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+
+
+bitcask - Google 搜索
+https://www.google.com/search?q=bitcask&rlz=1C1GCEA_enJP1090JP1090&oq=bitcask&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE2NThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+rocksdb/README.md at 1fca175eece9213a07f99973bae8e9a7d6aea93c · facebook/rocksdb
+https://github.com/facebook/rocksdb/blob/1fca175eece9213a07f99973bae8e9a7d6aea93c/README.md?plain=1#L6
+
+Commit search results
+https://github.com/search?q=repo%3Achromium%2Fchromium+%22Ribbon%22&type=commits
+
+Data Infrastructure Archives - Engineering at Meta
+https://engineering.fb.com/category/data-infrastructure/
+
+dstogov/ir: Lightweight JIT Compilation Framework
+https://github.com/dstogov/ir
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+maven hello world - Google 搜索
+https://www.google.com.hk/search?q=maven+hello+world&rlz=1C1GCEA_enJP1090JP1090&oq=maven+hello+world&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIxMThqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+
+键值存储系统设计
+https://chat.openai.com/c/83e80684-f3c8-40b0-95e7-ed24af515a3f
+
+tannalwork/java-workspace 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/java-workspace
+
+passsy/flutter_wrapper: Flutter execution wrapper which keeps the flutter version in sync for each project
+https://github.com/passsy/flutter_wrapper
+
+Building Java Applications Sample
+https://docs.gradle.org/current/samples/sample_building_java_applications.html
+
+Gradle Wrapper Reference
+https://docs.gradle.org/current/userguide/gradle_wrapper.html
+
+Gradle Distributions
+https://services.gradle.org/distributions/
+
+windows run calculator in shell - Google 搜索
+https://www.google.com/search?q=windows+run+calculator+in+shell&rlz=1C1GCEA_enJP1090JP1090&oq=windows+run+calculator+in+shell&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEINTAxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+org.jgrapht.alg.shortestpath (JGraphT : a free Java graph library)
+https://jgrapht.org/javadoc/org.jgrapht.core/org/jgrapht/alg/shortestpath/package-summary.html#package-description
+
+How to use the RISC-V development board to achieve automatic car patrol line driving? - RISC-V Ecosystem - RVspace Forum
+https://forum.rvspace.org/t/how-to-use-the-risc-v-development-board-to-achieve-automatic-car-patrol-line-driving/130
+
+Maven - How to find correct groupId/artifactId to include dependency in POM - Stack Overflow
+https://stackoverflow.com/questions/3565889/maven-how-to-find-correct-groupid-artifactid-to-include-dependency-in-pom
+
+Maven Central: Search
+https://central.sonatype.com/search?q=org.jgrapht.alg
+
+org.jgrapht.alg - Google 搜索
+https://www.google.com/search?q=org.jgrapht.alg&rlz=1C1GCEA_enJP1090JP1090&oq=org.jgrapht.alg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMjEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+[feature request] LLaVA-1.6 update · Issue #240 · Mozilla-Ocho/llamafile
+https://github.com/Mozilla-Ocho/llamafile/issues/240
+
+Llava 1.6 support by cmp-nct · Pull Request #5267 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/pull/5267
+
+mono wine - Google 搜索
+https://www.google.com.hk/search?q=mono+wine&newwindow=1&sca_esv=779b01740ca52ec5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn09TQMlE_L2E01pj6Dcazk2yg_wAvQ%3A1714047847317&ei=Z0sqZr3iEteO2roP096KkAU&ved=0ahUKEwj9scTord2FAxVXh1YBHVOvAlIQ4dUDCBA&uact=5&oq=mono+wine&gs_lp=Egxnd3Mtd2l6LXNlcnAiCW1vbm8gd2luZTIIEAAYgAQYywEyDhAuGIAEGMcBGMsBGK8BMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgQQABgeMgQQABgeMggQABgFGAoYHjIIEAAYBRgKGB4yBhAAGAUYHkiGE1CrA1iwEXABeAGQAQCYAfoBoAHDCKoBBTAuMS40uAEDyAEA-AEBmAIGoALXCMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIQEC4YgAQY0QMYxwEYChjLAcICChAAGIAEGEMYigWYAwCIBgGQBgqSBwUxLjEuNKAHlhg&sclient=gws-wiz-serp
+
+Mono - WineHQ Wiki
+https://wiki.winehq.org/Mono
+
+Mono Project
+https://github.com/mono
+
+Examples don't build on Windows, more examples are needed · Issue #68 · schell/renderling
+https://github.com/schell/renderling/issues/68
+
+use of unstable library feature 'type_name_of_val' - Google 搜索
+https://www.google.com.hk/search?q=use+of+unstable+library+feature+%27type_name_of_val%27&rlz=1C1GCEA_enJP1090JP1090&oq=use+of+unstable+library+feature+%27type_name_of_val%27&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDY5NjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+"use of unstable library feature 'fs'" warning can't be silenced · Issue #22671 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/22671
+
+use of unstable library feature - Google 搜索
+https://www.google.com.hk/search?q=use+of+unstable+library+feature&rlz=1C1GCEA_enJP1090JP1090&oq=use+of+unstable+library+feature&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg90gEHMTMzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Unstable features - The rustdoc book
+https://doc.rust-lang.org/rustdoc/unstable-features.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+`rustup update` panic while cleaning cache · Issue #2895 · rust-lang/rustup
+https://github.com/rust-lang/rustup/issues/2895
+
+mrexodia/zig-cross: Example of using as a CMake Toolchain for cross compiling.
+https://github.com/mrexodia/zig-cross
+
+Cross-compile a C/C++ Project with Zig - Zig NEWS
+https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599
+
+Code search results
+https://github.com/search?q=repo%3Aapache%2Fkafka%20run%20jar&type=code
+
+Apache Kafka
+https://kafka.apache.org/quickstart
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
+https://github.com/elastic/elasticsearch
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+(159) #checkins > Daniel McNab - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Daniel.20McNab
+
+I want a good parallel computer - Google 幻灯片
+https://docs.google.com/presentation/d/1t0thM3jN5on6fsnzIZQdc-6w59PvGZS4nVmCKwzIr24/edit#slide=id.g2c9fc92b30e_0_30
+
+#general > ANGLE on Mac OS - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ANGLE.20on.20Mac.20OS
+
 # 2024-4-25
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
