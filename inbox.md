@@ -1,5 +1,19 @@
 # 2024-4-25 0 | 0 W
 
+https://huggingface.co/jartine/Meta-Llama-3-8B-Instruct-llamafile/resolve/main/Meta-Llama-3-8B-Instruct.Q5_K_M.llamafile?download=true
+
+git --grep=LTO -- Source/JavaScriptCore
+
+.\mvnw.cmd archetype:generate -DgroupId=com.example -DartifactId=hello-world -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+.\mvnw.cmd package
+.\mvnw.cmd clean -pl hello-world
+.\mvnw.cmd install -pl hello-world
+
+../gradlew init --type kotlin-application
+
+../gradlew run
+
 https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 git clone https://github.com/RayTracing/raytracing.github.io.git
