@@ -1,6 +1,12 @@
 
 # people
 
+involves:Amanieu
+involves:BurntSushi
+involves:dtolnay
+involves:joshtriplett
+involves:m-ou-se
+
 involves:yoshuawuyts
 involves:compiler-errors
 involves:Mark-Simulacrum
