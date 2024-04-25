@@ -8,6 +8,8 @@ https://github.com/schell/renderling
 
 # Good artists copy, great artists steal.
 
+Vulkan shaders gpu programming https://github.com/artyomd/GPU-Playground.git
+
 https://github.com/RayTracing/raytracing.github.io.git
 
 personal blog v2 nextjs https://github.com/patrickscoleman/pscoleman-blog

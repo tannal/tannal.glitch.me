@@ -1,6 +1,19 @@
 # 2024-4-25 0 | 0 W
 
-git fetch origin :<lbranch>
+https://commondatastorage.googleapis.com/chrome-linux-sysroot/toolchain/f65e4d81b81d19f4354ed1bb22afeb1f3949a446/debian_bullseye_arm64_sysroot.tar.xz
+
+make distclean
+
+https://stackoverflow.com/questions/19162072/how-to-install-the-raspberry-pi-cross-compiler-on-my-linux-host-machine?rq=2
+
+sudo snap install zig --classic --beta
+
+rustup target add aarch64-unknown-linux-gnu
+./mach build -t aarch64-unknown-linux-gnu
+
+git remote add upstream https://github.com/llvm/llvm-project
+git remote set-url upstream https://github.com/llvm/llvm-project
+git fetch upstream release/17.x
 git checkout <lbranch>
 
 https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599

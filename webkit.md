@@ -9,6 +9,8 @@ https://app.slack.com/client/T06G50708/CTV4FGWF4
 
 # inbox
 
+git log --grep=LTO -- Source/JavaScriptCore
+
 Elliott Williams
 
 Tools/Scripts/run-minibrowser --debug 
