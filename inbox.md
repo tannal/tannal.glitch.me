@@ -1,3 +1,10 @@
+# 2024-4-25 0 | 0 W
+
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+git clone https://github.com/RayTracing/raytracing.github.io.git
+cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
 # 2024-4-24 0 | 0 W
 
 https://www.opentech.fund/

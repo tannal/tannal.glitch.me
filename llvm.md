@@ -1,5 +1,16 @@
 # inbox
 
+cmake -G Ninja -B host -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
+cmake --build host
+
+export LLVM_DIR=/opt/llvm
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_mba.c -o input_for_mba_host.ll
+$LLVM_DIR/bin/opt -load-pass-plugin ./host/lib/libMBAAdd.so -passes="mba-add" -disable-output input_for_mba_host.ll -debug
+
+export LLVM_DIR=/opt/llvm
+$LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_hello.ll
+$LLVM_DIR/bin/opt -load-pass-plugin ./host/lib/libHelloWorld.so -passes=hello-world -disable-output input_for_hello.ll
+
 the preproccessor holds the reference of lexer in llvm
 
 Type Stmt Expr Decl

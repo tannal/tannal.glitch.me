@@ -1,5 +1,43 @@
 # 2024-4-25
 
+rocksdb.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Compilers, Intermediate Representation. · Issue #32 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/32
+
+armansito (Arman Uguray)
+https://github.com/armansito
+
+RayTracing/raytracing.github.io · Discussions · GitHub
+https://github.com/RayTracing/raytracing.github.io/discussions
+
+Ray Tracing in One Weekend
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+RayTracing/raytracing.github.io: Main Web Site (Online Books)
+https://github.com/RayTracing/raytracing.github.io/tree/release
+
+stb/docs/stb_howto.txt at master · nothings/stb
+https://github.com/nothings/stb/blob/master/docs/stb_howto.txt
+
+zlib package - compress/zlib - Go Packages
+https://pkg.go.dev/compress/zlib
+
+RFC 1950: ZLIB Compressed Data Format Specification version 3.3
+https://www.rfc-editor.org/rfc/rfc1950.html
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+tannal/raytracing.github.io - raytracing.github.io - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/raytracing.github.io
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+rocksdb cmake
+https://gist.github.com/bassam/e82c8ddb52c20fa19b660a261f5e8731
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
