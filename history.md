@@ -1,3 +1,183 @@
+# 2024-4-25
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Group Programming Project - Google 文档
+https://docs.google.com/document/d/1dsIuIzXiIBbiZcNYi1cC62PVE4mF-MdksmIQ1hikFGM/edit
+
+preserveAspectRatio - SVG Essentials & Animation, v2
+https://frontendmasters.com/courses/svg-essentials-animation/the-antidote-to-positioning-in-css/
+
+Learn the Essentials of SVG | Building and Optimizing SVG | Frontend Masters
+https://frontendmasters.com/courses/svg-essentials-animation/
+
+Advanced SVG Animation 1
+https://slides.com/sdrasner/adv-svg-1?token=UCdXy3zz#/18
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Hello World
+https://codepen.io/tannal/pen/jORdrWq
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=google%20reader&sort=byPopularity&type=story
+
+周杰倫好聽的30首歌 Best Songs Of Jay Chou 周杰倫最偉大的命中 - YouTube
+https://www.youtube.com/watch?v=daHQY0cBpEQ
+
+mongodb - custom encoder/decoder for insert or geting documents for mongo-driver - Stack Overflow
+https://stackoverflow.com/questions/64574088/custom-encoder-decoder-for-insert-or-geting-documents-for-mongo-driver
+
+go - Size of a byte array golang - Stack Overflow
+https://stackoverflow.com/questions/31733145/size-of-a-byte-array-golang
+
+Golang - 将 [8]bool 转换为 byte_慕课猿问
+https://www.imooc.com/wenda/detail/700816
+
+How do you mark code as deprecated in Go? - Stack Overflow
+https://stackoverflow.com/questions/7849663/how-do-you-mark-code-as-deprecated-in-go
+
+go - Why does len() returned a signed value? - Stack Overflow
+https://stackoverflow.com/questions/39088945/why-does-len-returned-a-signed-value
+
+阈值 英文 - Google 搜索
+https://www.google.com/search?q=%E9%98%88%E5%80%BC+%E8%8B%B1%E6%96%87&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%98%88%E5%80%BC&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIxNDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+io - How do I create crossplatform file paths in Go? - Stack Overflow
+https://stackoverflow.com/questions/9371031/how-do-i-create-crossplatform-file-paths-in-go
+
+Equivalence of static methods in Go - Stack Overflow
+https://stackoverflow.com/questions/44991854/equivalence-of-static-methods-in-go
+
+go - Golang "Access is denied" error on trying to write to file with io.WriteString - Stack Overflow
+https://stackoverflow.com/questions/31967717/golang-access-is-denied-error-on-trying-to-write-to-file-with-io-writestring
+
+implement iterator in golang - Google 搜索
+https://www.google.com/search?q=implement+iterator+in+golang&rlz=1C1GCEA_enJP1090JP1090&oq=implement+iterator+in+golang&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDYyNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Read file to buffered bytes buffer in chunks.
+https://gist.github.com/minikomi/2900454
+
+8.2. Buffer Manager Structure :: Hironobu SUZUKI @ InterDB
+https://www.interdb.jp/pg/pgsql08/02.html
+
+Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/
+
+rocksdb/examples/compact_files_example.cc at main · facebook/rocksdb
+https://github.com/facebook/rocksdb/blob/main/examples/compact_files_example.cc
+
+@monaco-editor/react - npm
+https://www.npmjs.com/package/@monaco-editor/react
+
+How the get the current selection in the current model? · Issue #549 · suren-atoyan/monaco-react
+https://github.com/suren-atoyan/monaco-react/issues/549
+
+Patrick Coleman
+http://localhost:3000/
+
+build your own serveless - Google 搜索
+https://www.google.com/search?q=build+your+own+serveless&sca_esv=3e5ddf52b76d97c4&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ACQVn09_pOrh-hHrj10apJiFMJrL4w_v8w%3A1713962020972&ei=JPwoZqn5OuaUvr0Ppf-N4A0&ved=0ahUKEwipm6yL7tqFAxVmiq8BHaV_A9wQ4dUDCBA&uact=5&oq=build+your+own+serveless&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGJ1aWxkIHlvdXIgb3duIHNlcnZlbGVzczIJEAAYgAQYExgNMggQABgTGA0YHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjtIFAAWOMfcAB4AJABAZgB1AKgAZ8pqgEIMC4zLjE4LjK4AQPIAQD4AQGYAhagAqEnwgIMECMYgAQYExgnGIoFwgIEECMYJ8ICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIFEC4YgATCAggQLhiABBjUAsICChAAGIAEGEMYigXCAg4QLhiABBjRAxjHARjLAcICCBAAGIAEGMsBwgIIEC4YgAQYywHCAh0QLhiABBjRAxjHARjLARiXBRjcBBjeBBjgBNgBAcICBBAAGB7CAgYQABgIGB7CAgcQABiABBgNwgIGEAAYDRgewgIIEAAYCBgNGB6YAwC6BgYIARABGBSSBwgwLjIuMTkuMaAHhYUB&sclient=gws-wiz-serp#ip=1
+
+opensas (opensas)
+https://github.com/opensas
+
+Atarity/deploy-your-own-saas: List of "only yours" cloud services for everyday needs :black_flag:
+https://github.com/Atarity/deploy-your-own-saas
+
+NLnetLabs/unbound: Unbound is a validating, recursive, and caching DNS resolver.
+https://github.com/NLnetLabs/unbound
+
+foxcpp/maddy: ✉️ Composable all-in-one mail server.
+https://github.com/foxcpp/maddy
+
+mopidy/mopidy: Mopidy is an extensible music server written in Python
+https://github.com/mopidy/mopidy/
+
+skia/docs/examples at main · google/skia
+https://github.com/google/skia/tree/main/docs/examples
+
+skia/modules/canvaskit at main · google/skia
+https://github.com/google/skia/tree/main/modules/canvaskit
+
+CanvasKit - Quickstart | Skia
+https://skia.org/docs/user/modules/quickstart/
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt
+
+NLnet; Search NLnet: typst
+https://nlnet.nl/search/static.html?q=typst&submit=Search
+
+NLnet; 41 new projects awarded
+https://nlnet.nl/news/2024/20240417-announcing-projects.html
+
+NLnet; cables.gl
+https://nlnet.nl/project/cables.gl/
+
+cables
+https://cables.gl/
+
+NLnet; IronCalc
+https://nlnet.nl/project/IronCalc/
+
+ironcalc/IronCalc: Main engine of the IronCalc ecosystem
+https://github.com/ironcalc/IronCalc
+
+NLnet; Renderling
+https://nlnet.nl/project/Renderling/
+
+schell/renderling: 🍖 A configurable real-time renderer, backed by wgpu
+https://github.com/schell/renderling
+
+NLnet; Wolvic User Interface
+https://nlnet.nl/project/Wolvic-UI/
+
+Igalia/wolvic: A fast and secure browser for standalone virtual-reality and augmented-reality headsets.
+https://github.com/Igalia/wolvic
+
+NLnet; GPGPU Playground
+https://nlnet.nl/project/GPGPU/
+
+NLnet grant application for federation (deadline October 1st, 2021) · Issue #16827 · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues/16827
+
+Unable to enable dependency's features needed to build the crate · Issue #717 · obi1kenobi/cargo-semver-checks
+https://github.com/obi1kenobi/cargo-semver-checks/issues/717
+
+typst/pdf-writer: A step-by-step PDF writer.
+https://github.com/typst/pdf-writer
+
+dalance/procs: A modern replacement for ps written in Rust
+https://github.com/dalance/procs
+
+GPU-Playground/src/CMakeLists.txt at master · artyomd/GPU-Playground
+https://github.com/artyomd/GPU-Playground/blob/master/src/CMakeLists.txt
+
+elf - Rust
+https://docs.rs/elf/latest/elf/
+
+一起了解 .Net Foundation 项目 No.20 - 知乎
+https://zhuanlan.zhihu.com/p/114292705
+
+mono/mono: Mono open source ECMA CLI, C# and .NET implementation.
+https://github.com/mono/mono
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+webxdc - web apps shared in a chat
+https://webxdc.org/
+
+WebGL Examples - Advanced Creative Coding with WebGL & Shaders
+https://frontendmasters.com/courses/webgl-shaders/webgl-examples/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 # 2024-4-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

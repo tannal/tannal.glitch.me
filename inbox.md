@@ -1,5 +1,7 @@
 # 2024-4-24 0 | 0 W
 
+https://www.opentech.fund/
+
 git clone https://github.com/aam/skiaex.git
 
 https://webkit.slack.com/join/shared_invite/zt-c7ze4vec-eW_usHwX7IXHEvDZ2FN5lA#/shared-invite/confirmation-code
