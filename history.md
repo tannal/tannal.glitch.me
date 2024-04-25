@@ -1,5 +1,71 @@
 # 2024-4-25
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Cross-compile a C/C++ Project with Zig - Zig NEWS
+https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+WineHQ - Search Results
+https://www.winehq.org/search?q=calc
+
+Useful Registry Keys - WineHQ Wiki
+https://wiki.winehq.org/Useful_Registry_Keys
+
+Compiling wine: x development files not found - Ask Ubuntu
+https://askubuntu.com/questions/189430/compiling-wine-x-development-files-not-found
+
+#Performance - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance
+
+Document why `Send` bound is needed for callbacks · Issue #5540 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/5540
+
+Index of /
+http://192.168.43.27:8081/
+
+tannal (tannal)
+https://github.com/tannal
+
+ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+https://github.com/ptitSeb/box64
+
+src/dynarec/dynablock.c:295:38: error: tentative definition has type 'struct __jmp_buf_tag' that is never completed · Issue #155 · ptitSeb/box64
+https://github.com/ptitSeb/box64/issues/155
+
+What is CMake equivalent of 'configure --prefix=DIR && make all install '? - Stack Overflow
+https://stackoverflow.com/questions/6003374/what-is-cmake-equivalent-of-configure-prefix-dir-make-all-install
+
+ldd -T text-segment is not supported - Google 検索
+https://www.google.com/search?q=ldd+-T+text-segment+is+not+supported&client=ubuntu-sn&hs=d81&sca_esv=779b01740ca52ec5&channel=fs&ei=VkQqZt6bHMik2roPwv-deA&ved=0ahUKEwjenoGKp92FAxVIklYBHcJ_Bw8Q4dUDCBA&uact=5&oq=ldd+-T+text-segment+is+not+supported&gs_lp=Egxnd3Mtd2l6LXNlcnAiJGxkZCAtVCB0ZXh0LXNlZ21lbnQgaXMgbm90IHN1cHBvcnRlZEipBlCzAVizAXABeACQAQCYAckBoAHJAaoBAzItMbgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHMw&sclient=gws-wiz-serp#ip=1
+
+LLVM
+https://github.com/llvm
+
+ubuntu calculator - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ubuntu+calculator
+
+ssh port forwarding - Google 検索
+https://www.google.com/search?q=ssh+port+forwarding&client=ubuntu-sn&hs=1qi&sca_esv=3eb2b7adee194e22&channel=fs&ei=F1kqZpm6Ktaavr0P_cyH8AU&ved=0ahUKEwjZocfvut2FAxVWja8BHX3mAV4Q4dUDCBA&uact=5&oq=ssh+port+forwarding&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3NzaCBwb3J0IGZvcndhcmRpbmcyCxAAGIAEGLEDGIMBMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLguUKoKWLAtcAN4AZABAJgBrgKgAdchqgEIMC45LjEwLjG4AQPIAQD4AQGYAhegAsMiwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgYQABgDGATCAhAQABiABBixAxhDGIMBGIoFwgINEAAYgAQYsQMYgwEYBMICCBAAGIAEGLEDwgIHEAAYgAQYBJgDAIgGAZAGCpIHCDMuNy4xMi4xoAeHQA&sclient=gws-wiz-serp#ip=1
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+Don't overpromise in zig --help, zig targets, etc · Issue #236 · ziglang/zig
+https://github.com/ziglang/zig/issues/236
+
+`git fetch` a remote branch - Stack Overflow
+https://stackoverflow.com/questions/9537392/git-fetch-a-remote-branch
+
 rocksdb.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

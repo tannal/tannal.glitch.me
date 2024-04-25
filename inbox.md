@@ -1,5 +1,8 @@
 # 2024-4-25 0 | 0 W
 
+git fetch origin :<lbranch>
+git checkout <lbranch>
+
 https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599
 
 https://huggingface.co/jartine/Meta-Llama-3-8B-Instruct-llamafile/resolve/main/Meta-Llama-3-8B-Instruct.Q5_K_M.llamafile?download=true
@@ -19,7 +22,7 @@ git --grep=LTO -- Source/JavaScriptCore
 https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
 git clone https://github.com/RayTracing/raytracing.github.io.git
-cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 # 2024-4-24 0 | 0 W
 
