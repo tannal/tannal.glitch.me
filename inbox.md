@@ -1929,10 +1929,6 @@ rsync -r data tannal@192.168.43.95:/home/tannal/tannalwork/projects/postgres/_in
 rsync -re ~/Desktop/key.txt data tannal@192.168.43.95:/home/tannal/tannalwork/projects/postgres/_install/
 rsync -re ~/Desktop/key.txt data tannal@192.168.43.246:/home/tannal/tannalwork/projects/postgres/_install/
 
-
-export https_proxy=http://10.90.113.228:7890
-export http_proxy=http://10.90.113.228:7890
-
 人感知環境70%的資訊量來自腳底，20%來自聽覺，10%來自視覺。
 長期處於對外界的觸覺剝奪狀態令人精神渙散、遊離，是我們喜歡做白日夢的決定性因素。赤腳主義者有一項共識，即人人赤腳可以帶來世界和平。科學研究表明，在學校中推行赤腳學生明顯整體更加安靜且和平。說赤腳能帶來人際關係的和平一點都不誇張，它會提供給我們無條件的幸福感。赤腳生活可以令人無條件活在當下。
 
