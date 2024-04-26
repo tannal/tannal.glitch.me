@@ -1,5 +1,44 @@
 # 2024-4-26
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+artyomd/GPU-Playground: GPU Playground is a playground for experimenting with different rendering techniques
+https://github.com/artyomd/GPU-Playground/tree/master
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+c++ - aarch64 dynamic linker rpath usage with secondary dependency linking - Stack Overflow
+https://stackoverflow.com/questions/58729597/aarch64-dynamic-linker-rpath-usage-with-secondary-dependency-linking
+
+aarch64 linux gnu sysroot - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=aarch64+linux+gnu+sysroot
+
+llvm/llvm-project at release/17.x
+https://github.com/llvm/llvm-project/tree/release/17.x
+
+rustのcargoでarm64 linux向けにクロスビルドする #Linux - Qiita
+https://qiita.com/tetsu_koba/items/d467f2b3c2bb8b816185
+
+c++ - How to install the Raspberry Pi cross compiler on my Linux host machine? - Stack Overflow
+https://stackoverflow.com/questions/19162072/how-to-install-the-raspberry-pi-cross-compiler-on-my-linux-host-machine?rq=2
+
+Cross-compiling and debugging for ARM/Android · V8
+https://v8.dev/docs/cross-compile-arm
+
+CIPD Packages
+https://chrome-infra-packages.appspot.com/
+
+git - gitignore binary files that have no extension - Stack Overflow
+https://stackoverflow.com/questions/5711120/gitignore-binary-files-that-have-no-extension
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
 copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
