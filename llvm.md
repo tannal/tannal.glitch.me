@@ -1,5 +1,11 @@
 # inbox
 
+xargs rm < install_manifest.txt
+
+cmake -S llvm -B out/llvm-17/ -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Debug' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DLLVM_BUILD_LLVM_DYLIB=ON -DCMAKE_C_FLAGS_DEBUG="-g3 -Og" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -Og" -DCMAKE_INSTALL_PREFIX=/opt/llvm-17/
+
+cmake --install out/llvm-17
+
 cmake -G Ninja -B host -DLT_LLVM_INSTALL_DIR=/opt/llvm/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
 cmake --build host
 
@@ -198,8 +204,6 @@ sudo apt-get -y install ninja-build
 
 git clone --depth 1 https://github.com/llvm/llvm-project.git
 
-
-# cmake -S llvm -B build -G Unix Makefiles
 
 cmake -S llvm -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Release' -DLLVM_ENABLE_RUNTIMES='openmp' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 

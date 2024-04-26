@@ -1,5 +1,62 @@
 # 2024-4-26
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+git lfs add all executable to lfs - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=git+lfs+add+all+executable+to+lfs#ip=1
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+tokio-rs/tracing: Application level tracing for Rust.
+https://github.com/tokio-rs/tracing
+
+Support reveal.js · Issue #32143 · servo/servo
+https://github.com/servo/servo/issues/32143
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+zero length character - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=zero+length+character
+
+cache invalidated building workspace members for default and explicit targets · Issue #8899 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/8899
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+[OpenMP] build error: undefined reference to `std::__glibcxx_assert_fail` · Issue #73248 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/73248
+
+uninstallation - CMake support "make uninstall"? - Stack Overflow
+https://stackoverflow.com/questions/41471620/cmake-support-make-uninstall
+
+cmake install path - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cmake+install+path
+
+after build, how to install? · Issue #1171 · ninja-build/ninja
+https://github.com/ninja-build/ninja/issues/1171
+
+cmake - How I change default path of llvm? - Stack Overflow
+https://stackoverflow.com/questions/71220849/how-i-change-default-path-of-llvm
+
+c++ - Add LLVM to project using cmake - Stack Overflow
+https://stackoverflow.com/questions/30867712/add-llvm-to-project-using-cmake
+
+What's the default search path for find_package(<package>) function while using cmake? - Stack Overflow
+https://stackoverflow.com/questions/43927936/whats-the-default-search-path-for-find-packagepackage-function-while-using
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

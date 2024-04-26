@@ -1,6 +1,13 @@
 # Build Zig From Source
 
+
+cmake -B build -G Ninja 
+
+cmake -B build -DLLVM_FOUND=/opt/llvm-17/ -DCMAKE_FIND_DEBUG_MODE=ON -DZIG_USE_LLVM_CONFIG=OFF -DLLD_FOUND=/opt/llvm-17/lld -DLLD_INCLUDE_DIRS=/opt/llvm-17/include/lld/ -DCLANG_INCLUDE_DIRS=/opt/llvm-17/include/clang
+
 1. Build LLVM-17
+
+cmake -B build -DLLVM_ROOT=/opt/llvm-17
 
 ```bash
 
