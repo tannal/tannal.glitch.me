@@ -1,5 +1,7 @@
 # 2024-4-25 0 | 0 W
 
+./build/bin/llava -m ggml-model-q5_k.gguf --mmproj mmproj-model-f16.gguf --image path/to/an/image.jpg
+
 https://commondatastorage.googleapis.com/chrome-linux-sysroot/toolchain/f65e4d81b81d19f4354ed1bb22afeb1f3949a446/debian_bullseye_arm64_sysroot.tar.xz
 
 make distclean
@@ -3300,29 +3302,6 @@ https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
 https://www.cs.cmu.edu/~fp/courses/15411-f14/schedule.html
 
 go test -run TestSearchOnDisk -v
-
-```bash
-
-git clone https://github.com/ggerganov/ggml
-cd ggml
-# Install python dependencies in a virtual environment
-python -m venv ggml_env
-
-.\ggml_env\Scripts\activate
-source ./ggml_env/bin/activate
-
-pip install -r requirements.txt
-
-# Build the examples
-cmake -B build -G ninja
-
-ninja -C build -j4 mnist-cnn mnist
-
-minist.exe
-
-python examples/mnist/mnist-cnn.py train mnist-cnn-model
-
-```
 
 https://lmsys.org/about/
 
