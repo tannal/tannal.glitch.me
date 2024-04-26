@@ -1215,8 +1215,8 @@ $env:https_proxy='http://192.168.43.1:7890'
 
 $env:http_proxy=''
 
-export http_proxy=http://10.90.179.170:7890
-export https_proxy=http://10.90.179.170:7890
+export http_proxy=http://10.90.128.8:7890
+export https_proxy=http://10.90.128.8:7890
 
 export http_proxy=http://192.168.43.1:7890
 export https_proxy=http://192.168.43.1:7890

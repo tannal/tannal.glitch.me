@@ -7,6 +7,9 @@ involves:ggerganov
 
 # inbox
 
+%matplotlib notebook
+
+source ~/tannalwork/tannal/bin/activate
 
 # dev
 
