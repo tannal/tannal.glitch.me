@@ -1,5 +1,155 @@
 # 2024-4-26
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mental models and human reasoning
+https://www.pnas.org/doi/epdf/10.1073/pnas.1012933107
+
+liuhaotian/llava-v1.6-vicuna-7b at main
+https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b/tree/main
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Support reveal.js · Issue #32143 · servo/servo
+https://github.com/servo/servo/issues/32143
+
+#Feature Tracking > reveal.js - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416780-Feature-Tracking/topic/reveal.2Ejs
+
+Everything You'll Need to Know About Git Online Workshop
+https://frontendmasters.com/workshops/git/
+
+llama : add multimodal support (LLaVA) · Issue #3332 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/3332
+
+WIP: Infer with LLaVA-RLHF by monatis · Pull Request #2 · monatis/lmm.cpp
+https://github.com/monatis/lmm.cpp/pull/2
+
+Pending · ggml : roadmap
+https://github.com/users/ggerganov/projects/7/views/1
+
+ggml : implement a spellcheck model (xfspell, t5-spellchecker, etc) · Issue #233 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/233
+
+(2) Discord | #lecture1-micrograd | Neural Networks: Zero to Hero
+https://discord.com/channels/1020383067459821711/1029849706404249621
+
+karpathy/micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+https://github.com/karpathy/micrograd
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+A (less complex) Zabbix alternative to self host ? : r/selfhosted
+https://www.reddit.com/r/selfhosted/comments/w7j25s/a_less_complex_zabbix_alternative_to_self_host/
+
+Munin Monitoring
+https://github.com/munin-monitoring
+
+Browse Zabbix / Zabbix - ZABBIX GIT
+https://git.zabbix.com/projects/zbx/repos/zabbix/browse
+
+Running the Notebook — Jupyter Documentation 4.1.1 alpha documentation
+https://docs.jupyter.org/en/latest/running.html
+
+notebooks/
+http://localhost:8888/tree/notebooks
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+notebooks/
+http://localhost:8888/tree
+
+projects/micrograd/micrograd/
+http://localhost:8888/tree/projects/micrograd/micrograd
+
+Home Page - Select or create a notebook
+http://localhost:8888/tree?
+
+Markdown Cells — Jupyter Notebook 7.1.3 documentation
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
+
+python - Jupyter Notebook: interactive plot with widgets - Stack Overflow
+https://stackoverflow.com/questions/44329068/jupyter-notebook-interactive-plot-with-widgets
+
+python - Installing a pip package from within a Jupyter Notebook not working - Stack Overflow
+https://stackoverflow.com/questions/38368318/installing-a-pip-package-from-within-a-jupyter-notebook-not-working
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Philip Nicholas Johnson-Laird | Office of the Dean of the Faculty
+https://dof.princeton.edu/people/philip-nicholas-johnson-laird
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+is%3Aopen+think+
+
+Conditionals: A theory of meaning, pragmatics, and inference.
+https://psycnet.apa.org/record/2002-18225-002
+
+APA PsycNet Search Results
+https://psycnet.apa.org/search/results?term=Johnson-Laird,%20P.%20N.&latSearchType=a
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+v8: enable maglev on supported architectures by kvakil · Pull Request #51360 · nodejs/node
+https://github.com/nodejs/node/pull/51360
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E7%9C%9F%E7%A9%BA&op=translate
+
+xilem/crates/xilem_masonry/src/view/flex.rs at a30fbca7b9467e6affa9b79201306ceffb36876d · linebender/xilem
+https://github.com/linebender/xilem/blob/a30fbca7b9467e6affa9b79201306ceffb36876d/crates/xilem_masonry/src/view/flex.rs#L11
+
+dnf show installed package path - Google 搜索
+https://www.google.com/search?q=dnf+show+installed+package+path&rlz=1C1GCEA_enJP1090JP1090&oq=dnf+show+installed+package+path&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDgyNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+libelfin/elf/elf.cc at e0172767b79b76373044118ef0272b49b02a0894 · aclements/libelfin
+https://github.com/aclements/libelfin/blob/e0172767b79b76373044118ef0272b49b02a0894/elf/elf.cc
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+A look under the hood at eBPF: A new way to monitor and secure your platforms | Elastic Blog
+https://www.elastic.co/cn/blog/ebpf-observability-security-workload-profiling
+
+ELK搭建（一）：手把手教你搭建分布式微服务日志监控 - 掘金
+https://juejin.cn/post/7088314722432319524
+
+Download Elasticsearch | Elastic
+https://www.elastic.co/cn/downloads/elasticsearch
+
+Download and install Elasticsearch with winget
+https://winget.run/pkg/Elastic/Elasticsearch
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Elasticsearch cannot open log file: Permission denied - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/501963/elasticsearch-cannot-open-log-file-permission-denied
+
+Repository search results
+https://github.com/search?q=twitter+language%3ATypeScript&type=repositories&l=TypeScript&s=updated&o=desc&p=8
+
+wrongbyte/tuwuitter: :sparkles: fullstack twitter clone developed with GraphQL and Relay
+https://github.com/wrongbyte/tuwuitter
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

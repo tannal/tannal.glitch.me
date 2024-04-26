@@ -1,5 +1,6 @@
 # 2024-4-26 0 | 0 W
 
+winget install -e --id Elastic.Elasticsearch
 
 https://chrome-infra-packages.appspot.com/
 
