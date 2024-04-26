@@ -7,6 +7,8 @@ involves:ggerganov
 
 # inbox
 
+sudo dnf install bcc-tools kernel-devel-$(uname -r) kernel-headers-$(uname -r)
+
 export http_proxy=http://10.90.128.8:7890
 export https_proxy=http://10.90.128.8:7890
 

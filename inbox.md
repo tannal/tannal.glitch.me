@@ -1,3 +1,9 @@
+# 2024-4-26 0 | 0 W
+
+The start of the story
+The end of the story
+The meaningful place in the story.
+
 # 2024-4-25 0 | 0 W
 
 ./build/bin/llava -m ggml-model-q5_k.gguf --mmproj mmproj-model-f16.gguf --image path/to/an/image.jpg
