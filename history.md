@@ -1,5 +1,146 @@
 # 2024-4-27
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Wes McKinney
+https://wesmckinney.com/
+
+Apache Cassandra | Apache Cassandra Documentation
+https://cassandra.apache.org/_/index.html
+
+SST合并优化操作
+https://chat.openai.com/c/09eea546-511d-4cf9-bb8a-42777167cb6f
+
+Cassandra - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Cassandra
+
+dictionary - In Go how to get a slice of values from a map? - Stack Overflow
+https://stackoverflow.com/questions/13422578/in-go-how-to-get-a-slice-of-values-from-a-map
+
+golang判断map中key是否存在的方法 - 听风。 - 博客园
+https://www.cnblogs.com/huchong/p/13648974.html
+
+golang read delimiter - Google 搜索
+https://www.google.com/search?q=golang+read+delimiter&rlz=1C1GCEA_enJP1090JP1090&oq=golang+read+de&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgYIARAAGB4yBggCEAAYHjIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMgoICBAAGIAEGKIE0gEJMjMzMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Chimera Linux
+https://github.com/chimera-linux
+
+Ensure escaped string are parsed in NODE_OPTIONS by timneutkens · Pull Request #65046 · vercel/next.js
+https://github.com/vercel/next.js/pull/65046
+
+Sagiri Wiki
+https://sagiriwiki.web.app/
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+go - How to write integers in a file using Golang? - Stack Overflow
+https://stackoverflow.com/questions/43600427/how-to-write-integers-in-a-file-using-golang
+
+ci: no need dev env setup · 56ab95bd99 - xilem - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/xilem/commit/56ab95bd9914030ab9c3068f1d96db21befdb201
+
+go - How to get file and function name for loggers - Stack Overflow
+https://stackoverflow.com/questions/58198896/how-to-get-file-and-function-name-for-loggers
+
+a76yyyy/tiktok: 基于 kitex RPC微服务 + Hertz HTTP服务完成的第三届字节跳动青训营-极简抖音后端项目
+https://github.com/a76yyyy/tiktok
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
+
+Individual Dashboard | The Linux Foundation
+https://openprofile.dev/profile
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+c++ - Are child processes created with fork() automatically killed when the parent is killed? - Stack Overflow
+https://stackoverflow.com/questions/395877/are-child-processes-created-with-fork-automatically-killed-when-the-parent-is
+
+c - How to make child process die after parent exits? - Stack Overflow
+https://stackoverflow.com/questions/284325/how-to-make-child-process-die-after-parent-exits
+
+(192) #xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+The Second Acid Test
+https://www.webstandards.org/files/acid2/test.html#top
+
+Acid3 Browser Test - The Web Standards Project
+https://www.webstandards.org/action/acid3/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ian%20Hickson&sort=byPopularity&type=story
+
+Profile: todsacerdoti | Hacker News
+https://news.ycombinator.com/user?id=todsacerdoti
+
+Clang's -O0 output: branch displacement and size increase | MaskRay
+https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase
+
+Clang's -O0 output: branch displacement and size increase | MaskRay
+https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Connect APIs, Remarkably Fast - Pipedream
+https://pipedream.com/
+
+PipedreamHQ/pipedream: Connect APIs, remarkably fast. Free for developers.
+https://github.com/PipedreamHQ/pipedream
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal/opendal - opendal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/opendal/actions/runs/7/jobs/11
+
+apache/opendal: Apache OpenDAL: access data freely.
+https://github.com/apache/opendal
+
+GitHub
+https://github.com/
+
+rerun one - Google 搜索
+https://www.google.com/search?q=rerun+one&rlz=1C1GCEA_enJP1090JP1090&oq=rerun+one&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+github或者gitee配置ssh免密登录_gitee 不配置 ssh 怎么拉取代码-CSDN博客
+https://blog.csdn.net/qq_35427589/article/details/123276929
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+使用 SSH 连接 Git 服务器 - Gitea - 博客园
+https://www.cnblogs.com/Gitea/p/ssh.html
+
+gitea/modules/ssh/init.go at 27861d711b6284ccc774f974d8a5813ca2c488eb · go-gitea/gitea
+https://github.com/go-gitea/gitea/blob/27861d711b6284ccc774f974d8a5813ca2c488eb/modules/ssh/init.go#L24
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Issues · apache/arrow
+https://github.com/apache/arrow/issues
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

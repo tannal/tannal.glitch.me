@@ -1,5 +1,15 @@
 # 2024-4-27 0 | 0 W
 
+nasm -f elf64 program.asm -o program.o
+ld program.o -o program
+
+objdump -d program
+
+ja foo    # jump near if above, 77 <rel8>
+ja foo    # jump short if above, 0f 87 <rel32>
+.nops 126
+foo: ret
+
 rust-pack trunk
 cargo install --locked trunk
 trunk serve
