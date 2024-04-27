@@ -1,5 +1,11 @@
 # 2024-4-27 0 | 0 W
 
+rust-pack trunk
+cargo install --locked trunk
+trunk serve
+
+https://github.com/search?q=GSoC&type=issues&p=3
+
 git apply -3
 
 git config --global user.name "tannal"

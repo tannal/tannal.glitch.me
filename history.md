@@ -1,3 +1,65 @@
+# 2024-4-27
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Flaky Test in binding_python / ubuntu-latest / gcs / gcs test_sync_reader · Issue #4439 · apache/opendal
+https://github.com/apache/opendal/issues/4439
+
+GSoC Ideas: ovirtiofs, OpenDAL File System via Virtio · Issue #4133 · apache/opendal
+https://github.com/apache/opendal/issues/4133
+
+Issue search results
+https://github.com/search?q=GSoC&type=issues&p=3
+
+synfig/synfig: This is the Official source code repository of the Synfig project
+https://github.com/synfig/synfig
+
+Gradle in GSoC 2024 · Issue #11 · gradle/community
+https://github.com/gradle/community/issues/11
+
+Gradle in Google Summer of Code - Gradle Community Site
+https://gradle.github.io/community/events/gsoc/#gsoc-2024
+
+Gradle in Google Summer of Code - Gradle Community Site
+https://gradle.github.io/community/events/gsoc/
+
+Preparing Environment — Synfig developers docs documentation
+https://synfig-docs-dev.readthedocs.io/en/latest/building/Preparing%20Environment.html
+
+chore(core): Change std result to opendal result in core (#4542) · apache/opendal@b9e01b7
+https://github.com/apache/opendal
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+tannal/xilem - xilem - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/xilem/actions/runs/2/jobs/5
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+act/pkg/runner/run_context.go at 213756bb92f034e61d07e0a187fed8e50b792d2b · nektos/act
+https://github.com/nektos/act/blob/213756bb92f034e61d07e0a187fed8e50b792d2b/pkg/runner/run_context.go#L567
+
+tannal/xilem - xilem - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/xilem/actions/runs/3/jobs/2
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal/xilem - xilem - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/xilem/actions/runs/4/jobs/5
+
+cannot call wasm-bindgen imported functions on non-wasm targets · Issue #2859 · rustwasm/wasm-bindgen
+https://github.com/rustwasm/wasm-bindgen/issues/2859
+
+Trunk | Build, bundle & ship your Rust WASM application to the web
+https://trunkrs.dev/
+
 # 2024-4-26
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

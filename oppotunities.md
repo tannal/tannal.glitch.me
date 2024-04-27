@@ -1,3 +1,10 @@
+# GSoc
+
+https://gradle.github.io/community/events/gsoc/
+
+https://github.com/search?q=GSoC&type=issues&p=3
+
+
 
 # startup
 
