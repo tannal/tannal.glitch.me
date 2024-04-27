@@ -8,6 +8,8 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+webgl glsl games rendering 3d 2d web dev https://github.com/magcius/noclip.website
+
 Vulkan shaders gpu programming https://github.com/artyomd/GPU-Playground.git
 
 https://github.com/RayTracing/raytracing.github.io.git

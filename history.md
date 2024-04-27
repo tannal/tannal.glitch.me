@@ -1,5 +1,59 @@
 # 2024-4-27
 
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CPU Flame Graphs
+https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+LekKit/RVVM: The RISC-V Virtual Machine
+https://github.com/LekKit/RVVM
+
+magcius (magcius) / Repositories
+https://github.com/magcius?tab=repositories
+
+noclip
+http://localhost:8081/
+
+schell/renderling: 🍖 A configurable real-time renderer, backed by wgpu
+https://github.com/schell/renderling
+
+rust lang github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=rust+lang+github
+
+rust-lang/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/rust-lang/rust
+
+nothings/stb: stb single-file public domain libraries for C/C++
+https://github.com/nothings/stb
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+artyomd/GPU-Playground: GPU Playground is a playground for experimenting with different rendering techniques
+https://github.com/artyomd/GPU-Playground
+
+vkcreateswapchainkhr failed - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=vkcreateswapchainkhr+failed
+
+c++ - vkCreateSwapchainKHR Error - Stack Overflow
+https://stackoverflow.com/questions/46196940/vkcreateswapchainkhr-error
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+wfe aarch64 - Google 検索
+https://www.google.com/search?q=wfe+aarch64&client=ubuntu-sn&hs=trg&sca_esv=5d5b8bda91a2629d&channel=fs&ei=5acsZu7vJ5SWvr0PwuybuAo&oq=wfe+aarc&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHdmZSBhYXJjKgIIADIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIESPYhUPYDWJYXcAV4AZABAJgBwQKgAaAMqgEHMC40LjIuMbgBA8gBAPgBAZgCDKACrg3CAgoQABiwAxjWBBhHwgIFEAAYgATCAgYQABgKGB7CAgYQABgIGB7CAggQABgIGAoYHsICCxAAGMcDGAgYChgemAMAiAYBkAYKkgcHNS4yLjQuMaAH2Q4&sclient=gws-wiz-serp#ip=1
+
+bytecodealliance/StarlingMonkey: The StarlingMonkey JS runtime
+https://github.com/bytecodealliance/StarlingMonkey
+
+CMake Discourse
+https://discourse.cmake.org/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

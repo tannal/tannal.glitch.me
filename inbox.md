@@ -1,5 +1,35 @@
 # 2024-4-27 0 | 0 W
 
+aarch64-linux-gnu-gcc -c boot.S
+
+
+
+// aarch64-linux-gnu-gcc -c a.S
+
+
+// a.S
+.section ".text"
+_start:
+  wfe
+  b _start
+
+// linker.ld
+SECTIONS
+
+{
+
+  . = 0x80000;
+
+  .text : { *(.text) }
+
+}
+
+aarch64-linux-gnu-objcopy -O binary kernel8.elf kernel8.img
+
+aarch64-linux-gnu-ld -T linker.ld -o kernel8.elf a.o
+
+qemu-system-aarch64 -M raspi3b -kernel kernel8.img -display none -S -s
+
 nasm -f elf64 program.asm -o program.o
 ld program.o -o program
 
