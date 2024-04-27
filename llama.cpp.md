@@ -26,9 +26,6 @@ git clone https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b
 
 pip install -r examples/llava/requirements.txt
 
-./build/bin/llava -m ggml-model-q5_k.gguf --mmproj mmproj-model-f16.gguf --image path/to/an/image.jpg
-
-
 
 
 mkdir vit
@@ -38,6 +35,7 @@ curl -s -q https://huggingface.co/cmp-nct/llava-1.6-gguf/raw/main/config_vit.jso
 
 
 ./llava-cli -m ../llava-v1.6-vicuna-7b/ggml-model-f32.gguf --mmproj vit/mmproj-model-f16.gguf --image image.png -c 4096
+./llava-cli -m ../llava-v1.6-vicuna-7b/ggml-model-f32.gguf --mmproj vit/mmproj-model-f16.gguf --image image-1.png -c 4096
 
 
 ```bash
