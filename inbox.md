@@ -1,6 +1,35 @@
 # 2024-4-27 0 | 0 W
 
+git submodule update --init --recursive
+
+docker ps
+docker stop <containerid>
+docker rm <containerid>
+docker rmi <imageid>
+
+cargo install --git https://github.com/evmar/n2
+(installs into ~/.cargo/bin/)
+
+$ n2 -C some/build/dir some-target
+
+cmake -G N2 -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
+The web always win.
+
 Ten years of work, that can boom at least ten years.
+The web is a perfect example which means the mobile will stay here at least to 2027. or even longer
+Because the mobile is just like the web, and the mobile doesn't kill the web.
+And the web can't replace the moible which means that.
+If there is a new platform come out, It can't kill web and mobile.
+the web can't kill it, the mobile can't kill it.
+
+the pc can have web or not, which give the web a change to grow
+the mobile can browse web. the web content mostly also can
+
 
 aarch64-linux-gnu-gcc -c boot.S
 
