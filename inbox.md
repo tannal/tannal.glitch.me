@@ -1,8 +1,8 @@
 # 2024-4-27 0 | 0 W
 
+Ten years of work, that can boom at least ten years.
+
 aarch64-linux-gnu-gcc -c boot.S
-
-
 
 // aarch64-linux-gnu-gcc -c a.S
 
