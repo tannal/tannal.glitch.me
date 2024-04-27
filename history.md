@@ -3,6 +3,75 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+tannal (tannal)
+https://github.com/tannal
+
+合并请求 - zig - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/zig/pulls
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+tannal/ebpf - ebpf - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/ebpf/actions/runs/24
+
+tannal/xilem - xilem - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/xilem
+
+tannal/opendal - opendal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/opendal/actions/runs/9/jobs/11
+
+unable to find library -lfdb_c - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=unable+to+find+library+-lfdb_c
+
+apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store
+https://github.com/apple/foundationdb/tree/main
+
+Add ability to re-run single jobs · Issue #432 · actions/runner
+https://github.com/actions/runner/issues/432
+
+Issues · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues?q=is%3Aissue+rerun+jobs+is%3Aclosed
+
+nektos/act: Run your GitHub Actions locally 🚀
+https://github.com/nektos/act
+
+feat: Add into_bytes_sink for Writer by Xuanwo · Pull Request #4541 · apache/opendal
+https://github.com/apache/opendal/pull/4541
+
+git delete branch - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=git+delete+branch
+
+How to apply a patch generated with git format-patch? - Stack Overflow
+https://stackoverflow.com/questions/2249852/how-to-apply-a-patch-generated-with-git-format-patch
+
+Getting 'fatal: empty ident name not allowed' when doing 'Git commit --amend' - Stack Overflow
+https://stackoverflow.com/questions/43662048/getting-fatal-empty-ident-name-not-allowed-when-doing-git-commit-amend
+
+github - git : empty ident name (for <>) not allowed - Stack Overflow
+https://stackoverflow.com/questions/41832926/git-empty-ident-name-for-not-allowed
+
+chore(core): Change std result to opendal result in core by tannal · Pull Request #4542 · apache/opendal
+https://github.com/apache/opendal/pull/4542
+
+Tracking issues of OpenDAL 2024 GSoC Ideas · Issue #4131 · apache/opendal
+https://github.com/apache/opendal/issues/4131
+
+GSoC Ideas: ofs, OpenDAL File System via FUSE · Issue #4130 · apache/opendal
+https://github.com/apache/opendal/issues/4130
+
+Discord
+https://discord.com/login?redirect_to=%2Fchannels%2F1081052318650339399%2F1081052319342407715%2F1212329570590654494
+
+chore(core): Change std result to opendal result in core by tannal · Pull Request #4542 · apache/opendal
+https://github.com/apache/opendal/pull/4542
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 git lfs add all executable to lfs - Google 検索
 https://www.google.com/search?channel=fs&client=ubuntu-sn&q=git+lfs+add+all+executable+to+lfs#ip=1
 

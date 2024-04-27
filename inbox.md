@@ -1,3 +1,32 @@
+# 2024-4-27 0 | 0 W
+
+git apply -3
+
+git config --global user.name "tannal"
+git config --global user.email "tannal2409@gmail.com"
+
+First the stats:
+
+git apply --stat a_file.patch
+
+Then a dry run to detect errors:
+
+git apply --check a_file.patch
+
+Finally, you can use git am to apply your patch as a commit. This also allows you to sign off an applied patch.
+This can be useful for later reference.
+
+git am --keep-cr --signoff < a_file.patch 
+
+
+git format-patch -1 --pretty=fuller 3e63d66651ca
+
+
+curl https://github.com/apple/foundationdb/releases/download/7.1.17/foundationdb-clients_7.1.17-1_amd64.deb -L -o foundationdb-clients_7.1.17-1_amd64.deb
+curl https://github.com/apple/foundationdb/releases/download/7.1.17/foundationdb-server_7.1.17-1_amd64.deb -L -o foundationdb-server_7.1.17-1_amd64.deb
+
+sudo dpkg -i foundationdb-clients_7.1.17-1_amd64.deb foundationdb-server_7.1.17-1_amd64.deb
+
 # 2024-4-26 0 | 0 W
 
 winget install -e --id Elastic.Elasticsearch

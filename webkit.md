@@ -32,6 +32,14 @@ https://github.com/WebKit/WebKit/commits?author=cathiechen
 
 https://github.com/WebKit/WebKit/commits/main/?author=rniwa
 
+
+# dev
+
+ln -sf $VM/compile_commands.json compile_commands.json
+rm -rf WebKitBuild/{WPE,GTK,JSCOnly}
+CXX=clang++ CC=clang CFLAGS=-flto CXXFLAGS=-flto LDFLAGS=-flto Tools/Scripts/build-webkit --wpe --release --export-compile-commands --fuse-ld=lld
+export BUILDDIR=/home/justin/WebKit/ReleaseVersion/OpenSource/; export VM=$BUILDDIR/WebKitBuild/WPE/Release/; LD_LIBRARY_PATH=$VM $VM/bin/jsc --validateOptions=1
+
 # question template for asking gpt
 
 ```bash
