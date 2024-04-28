@@ -1,5 +1,53 @@
 # 2024-4-28
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal/pscoleman-blog - pscoleman-blog - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/pscoleman-blog
+
+Patrick Coleman
+http://localhost:3000/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+quilljs/quill: Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+https://github.com/quilljs/quill
+
+types quill - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=types+quill
+
+node.js - Next.js: document is not defined - Stack Overflow
+https://stackoverflow.com/questions/60629258/next-js-document-is-not-defined
+
+document is not defined · Issue #292 · zenoamaro/react-quill
+https://github.com/zenoamaro/react-quill/issues/292
+
+reactjs - how to import {Quill} in next js? or how can I add hr tag in Quill editor with Next.js - Stack Overflow
+https://stackoverflow.com/questions/75359675/how-to-import-quill-in-next-js-or-how-can-i-add-hr-tag-in-quill-editor-with-n
+
+react-quill/src/index.tsx at master · zenoamaro/react-quill
+https://github.com/zenoamaro/react-quill/blob/master/src/index.tsx
+
+Issues · zenoamaro/react-quill
+https://github.com/zenoamaro/react-quill/issues?q=is%3Aissue+is%3Aopen+border
+
+GetEmoji - Copy & Paste All Emojis From The Emoji Keyboard - No apps required
+https://getemoji.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+jakob Linke v8 - Google 検索
+https://www.google.com/search?q=jakob+Linke+v8&client=ubuntu-sn&hs=c4f&sca_esv=e809df211d13b891&channel=fs&ei=RtItZva8Etmovr0Px_Kn-Ao&ved=0ahUKEwj296TuiuSFAxVZlK8BHUf5Ca8Q4dUDCBA&uact=5&oq=jakob+Linke+v8&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmpha29iIExpbmtlIHY4MggQABiABBiiBEiZD1CcC1i6DXADeAGQAQCYAegBoAHoAaoBAzItMbgBA8gBAPgBAZgCBKAC9gHCAgoQABiwAxjWBBhHmAMAiAYBkAYDkgcFMy4wLjGgB2U&sclient=gws-wiz-serp#ip=1
+
+ocr image search - Google 検索
+https://www.google.com/search?q=ocr+image+search&client=ubuntu-sn&hs=J7f&sca_esv=e809df211d13b891&channel=fs&ei=7dItZu_9AYPAvr0P87eQIA&oq=ocr+image+searcjh&gs_lp=Egxnd3Mtd2l6LXNlcnAiEW9jciBpbWFnZSBzZWFyY2poKgIIADIJEAAYgAQYExgNMggQABiABBiiBDIKEAAYExgIGA0YHjIIEAAYgAQYogQyCBAAGIAEGKIEMgoQABgTGAgYDRgeSO0sUNwFWP0lcAF4AZABAJgBhQKgAeEWqgEGMC4xMi4zuAEDyAEA-AEBmAIQoAKtF8ICChAAGLADGNYEGEfCAgUQABiABMICBBAAGB7CAgoQABiABBhDGIoFwgIIEAAYgAQYsQPCAgcQABiABBgEwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYHhgPwgIIEAAYExgIGB6YAwCIBgGQBgqSBwYxLjEyLjOgB7Is&sclient=gws-wiz-serp
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
