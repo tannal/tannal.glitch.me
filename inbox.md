@@ -1,5 +1,28 @@
 # 2024-4-28 0 | 0 W
 
+
+./psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
+
+
+873 /home/tannal/tannalwork/projects/postgres/_install/bin/postgres -D data
+958 postgres: checkpointer 
+959 postgres: background writer 
+974 postgres: walwriter 
+975 postgres: autovacuum launcher 
+976 postgres: archiver failed on 000000010000000000000001
+977 postgres: logical replication launcher
+
+cmake -S . -B build -D UPDATE_DEPS=ON -D BUILD_WERROR=ON -D BUILD_TESTS=ON -D CMAKE_BUILD_TYPE=Debug
+cmake --build build --config Debug
+
+https://github.com/rabbitmq/rabbitmq-server
+sudo apt install elixir 
+
+sudo apt install erlang-nox erlang-dev erlang-src
+
+git clean -xffd
+make V=2 FULL=1 2>&1 | tee make.txt
+
 systemProp.http.proxyHost=192.168.43.1
 systemProp.http.proxyPort=7890
 systemProp.https.proxyHost=192.168.43.1

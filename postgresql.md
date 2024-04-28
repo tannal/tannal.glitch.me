@@ -7,6 +7,26 @@ involves:mhagander
 
 # inbox
 
+pgrep -C
+
+./psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
+
+
+\list
+
+SELECT
+  d.datname as "Name",
+  pg_catalog.pg_get_userbyid(d.datdba) as "Owner",
+  pg_catalog.pg_encoding_to_char(d.encoding) as "Encoding",
+  CASE d.datlocprovider WHEN 'c' THEN 'libc' WHEN 'i' THEN 'icu' END AS "Locale Provider",
+  d.datcollate as "Collate",
+  d.datctype as "Ctype",
+  d.daticulocale as "ICU Locale",
+  d.daticurules as "ICU Rules",
+  CASE WHEN pg_catalog.cardinality(d.datacl) = 0 THEN '(none)' ELSE pg_catalog.array_to_string(d.datacl, E'\n') END AS "Access privileges"
+FROM pg_catalog.pg_database d
+ORDER BY 1;
+
 sudo stackcount-bpfcc -i 2 -p 4407 --debug "ext4*"
 
 
