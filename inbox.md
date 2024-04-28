@@ -19,7 +19,8 @@ https://github.com/rabbitmq/rabbitmq-server
 sudo apt install elixir 
 
 sudo apt install erlang-nox erlang-dev erlang-src
-
+sudo apt install xsltproc xmlto
+pipx install simplejson
 git clean -xffd
 make V=2 FULL=1 2>&1 | tee make.txt
 
