@@ -3,6 +3,159 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Run Error on raspi5 · Issue #5 · artyomd/GPU-Playground
+https://github.com/artyomd/GPU-Playground/issues/5
+
+树莓派5显存 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%B0%E5%AD%98&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%8E%B0%E5%AD%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+swap chain oom - Google 搜索
+https://www.google.com/search?q=swap+chain+oom&rlz=1C1GCEA_enJP1090JP1090&oq=swap+chain+oom&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQzMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+baldurk/renderdoc: RenderDoc is a stand-alone graphics debugging tool.
+https://github.com/baldurk/renderdoc
+
+VideoCore - Wikipedia
+https://en.wikipedia.org/wiki/VideoCore
+
+ChatGPT
+https://chat.openai.com/c/08aa68f6-e15c-4132-bd40-1b38872ae19d
+
+tannal (tannal)
+https://github.com/tannal/
+
+Code search results
+https://github.com/search?q=repo%3Aartyomd%2FGPU-Playground%20vkCreateSwapchainKHR&type=code
+
+vkCreateSwapchainKHR(3)
+https://registry.khronos.org/vulkan/specs/1.3-extensions/man/html/vkCreateSwapchainKHR.html
+
+Vulkan系列教程—VMA教程（四）—内存预算（Memory Budget） - 知乎
+https://zhuanlan.zhihu.com/p/455055889
+
+Patrick Coleman
+http://localhost:3000/
+
+Is there a way to dynamically import all images from an asset folder? : r/react
+https://www.reddit.com/r/react/comments/1aitdhu/is_there_a_way_to_dynamically_import_all_images/
+
+glob import nextjs - Google 搜索
+https://www.google.com/search?q=glob+import+nextjs&sca_esv=a3c0eab97ff1867a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-d_AqIHtqLqNA61gmKsHlQZL4h-w%3A1714285739458&ei=q-wtZqPCG9Hz1e8PxpKb-AU&ved=0ahUKEwjjw6yEpOSFAxXRefUHHUbJBl8Q4dUDCBA&uact=5&oq=glob+import+nextjs&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmdsb2IgaW1wb3J0IG5leHRqczIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESL4IUBdYkwdwAXgBkAEAmAH2AaAB6gmqAQUwLjMuM7gBA8gBAPgBAZgCB6ACiArCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAgQQABgewgIGEAAYDBgewgIIEAAYCBgeGA-YAwCIBgGQBgeSBwUxLjEuNaAHpQ0&sclient=gws-wiz-serp#ip=1
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+VulkanTools/BUILD.md at main · LunarG/VulkanTools
+https://github.com/LunarG/VulkanTools/blob/main/BUILD.md#building-on-linux
+
+vkvia - Google 搜索
+https://www.google.com/search?q=vkvia&rlz=1C1GCEA_enJP1090JP1090&oq=vkvia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMjE0ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+reactjs - Property 'showSaveFilePicker' does not exist on type 'Window & typeof globalThis' - Stack Overflow
+https://stackoverflow.com/questions/71309058/property-showsavefilepicker-does-not-exist-on-type-window-typeof-globalthis
+
+Patrick Coleman
+http://localhost:3000/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Deploying Your Next.js App to GitHub Pages using GitHub Actions (CI/CD) - YouTube
+https://www.youtube.com/watch?v=zmvlWMx3ZTs
+
+Question on deploying a next.js app - Does it require a node.js "backend" ? : r/nextjs
+https://www.reddit.com/r/nextjs/comments/sunf0r/question_on_deploying_a_nextjs_app_does_it/
+
+karlhadwen/test-next-app
+https://github.com/karlhadwen/test-next-app/tree/main
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/test-next-app
+https://github.com/tannal/test-next-app
+
+纤维素 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4%E7%B4%A0
+
+乙醇燃烧化学式 - Google 搜索
+https://www.google.com/search?q=%E4%B9%99%E9%86%87%E7%87%83%E7%83%A7%E5%8C%96%E5%AD%A6%E5%BC%8F&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B9%99%E9%86%87ran&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgkIBhAAGAwYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg4MjQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal/pscoleman-blog - pscoleman-blog - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/pscoleman-blog/actions/runs/4
+
+The Golden Age of Compiler Design in an Era of HW/SW Co-Design [video] | Hacker News
+https://news.ycombinator.com/item?id=29583549
+
+Building an optimizing Compiler
+https://keybase.theophile.me/info/morgan-optimizing-compiler.pdf
+
+keybase.theophile.me/info/Machine Learning/ex1.ipynb
+https://keybase.theophile.me/info/Machine%20Learning/ex1.ipynb
+
+How to get pnpm store directory - Stack Overflow
+https://stackoverflow.com/questions/55403775/how-to-get-pnpm-store-directory
+
+node.js - How to build next.js production? - Stack Overflow
+https://stackoverflow.com/questions/53712936/how-to-build-next-js-production
+
+Question on deploying a next.js app - Does it require a node.js "backend" ? : r/nextjs
+https://www.reddit.com/r/nextjs/comments/sunf0r/question_on_deploying_a_nextjs_app_does_it/
+
+192.168.43.62:3001
+http://192.168.43.62:3001/
+
+symlink - Why can't I copy symbolic links? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/254678/why-cant-i-copy-symbolic-links
+
+Patrick Coleman
+http://192.168.43.62:3001/
+
+r&b - Google 搜索
+https://www.google.com/search?q=r%26b&rlz=1C1GCEA_enJP1090JP1090&oq=r%26b&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMg4IAhAjGBMYJxiABBiKBTIMCAMQLhhDGIAEGIoFMgwIBBAuGEMYgAQYigUyBwgFEAAYgAQyDQgGEC4YxwEY0QMYgAQyBwgHEAAYgAQyDQgIEC4YxwEY0QMYgAQyDQgJEC4YxwEY0QMYgATSAQgzMTc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mean - Google 搜索
+https://www.google.com/search?q=mean&sca_esv=089ad1611a1ff0a7&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ACQVn08H0w4rYTiVDOAvc-_y3ZEKboNpbQ%3A1714304608355&ei=YDYuZuyXFYvk2roPn6-5uAY&ved=0ahUKEwjsx96p6uSFAxULslYBHZ9XDmcQ4dUDCBA&uact=5&oq=mean&gs_lp=Egxnd3Mtd2l6LXNlcnAiBG1lYW4yBBAjGCcyBBAjGCcyBRAAGIAEMggQLhiABBjUAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjsBlAAWN0DcAB4AJABAJgB6gGgAdoGqgEDMi00uAEDyAEA-AEBmAIEoALuBsICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAuGIAEwgILEC4YgAQYxwEYrwGYAwCSBwMyLTSgB6wx&sclient=gws-wiz-serp
+
+荒野乱斗 - Google 搜索
+https://www.google.com/search?q=%E8%8D%92%E9%87%8E%E4%B9%B1%E6%96%97&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%8D%92%E9%87%8E%E4%B9%B1%E6%96%97&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0NjAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+#general > new streams - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/new.20streams
+
+spider man across the spider verse part 3 - Google 搜索
+https://www.google.com/search?q=spider+man+across+the+spider+verse+part+3&sca_esv=556fd070db8e09d3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-E2LTFEnLwJqI3x0RSBKo5IFV32A:1714309269140&source=lnms&sa=X&ved=2ahUKEwjDtpbY--SFAxUDlK8BHYK2BlgQ0pQJegQIAxAC&biw=1536&bih=703&dpr=1.25#ip=1
+
+mozilla/rhino: Rhino is an open-source implementation of JavaScript written entirely in Java
+https://github.com/mozilla/rhino
+
+黄家驹 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwKUo2yDBg9OJ8ubvl6bptL1fuBABYAwnw&q=%E9%BB%84%E5%AE%B6%E9%A9%B9&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%BB%84%E5%AE%B6&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIKCAIQLhjUAhiABDIKCAMQLhjUAhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABNIBCDU5NzFqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+博允中学 - Google 搜索
+https://www.google.com/search?q=%E5%8D%9A%E5%85%81%E4%B8%AD%E5%AD%A6&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%8D%9A%E5%85%81%E4%B8%AD%E5%AD%A6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgFGA8YHjIKCAIQABiABBiiBDIKCAMQABiiBBiJBdIBBzM1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Spider-Verse 3 - Google 搜索
+https://www.google.com/search?q=Spider-Verse+3&sca_esv=dac618f4f8bd3a2f&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ACQVn0_NIy_ohKmIN63tCf6QYKUzd2T5dw%3A1714309964732&ei=TEsuZq6qLPOmvr0P7d6PiAo&ved=0ahUKEwiugO6j_uSFAxVzk68BHW3vA6EQ4dUDCBA&uact=5&oq=Spider-Verse+3&gs_lp=Egxnd3Mtd2l6LXNlcnAiDlNwaWRlci1WZXJzZSAzMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB5InAlQ9gNY9gNwAXgBkAEAmAHLAaABywGqAQMyLTG4AQPIAQD4AQL4AQGYAgKgAtEBwgIKEAAYsAMY1gQYR5gDAIgGAZAGApIHBTEuMC4xoAfMBg&sclient=gws-wiz-serp#ip=1
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Spider-Man%3A%20Beyond%20the%20Spider-Verse%20would%20have%20been%20out%20in%20cinemas%20already%20if%20it%20had%20managed%20to%20keep%20its%20original%20release%20date.%20The%20threequel%20was%20set%20to%20swing%20into%20cinemas%20on%20March%2029%2C%202024%2C%20before%20it%20was%20taken%20off%20the%20Sony%20release%20schedule%20in%20July%202023%20and%20we%20still%20don%27t%20have%20a%20new%20release%20date&op=translate
+
+sony movie release schedule 2024 - Google 搜索
+https://www.google.com/search?sca_esv=dac618f4f8bd3a2f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08rCpwQjVAnGirJntR7mayZ0Qs-mw:1714310091029&q=sony+movie+release+schedule+2024&tbm=vid&source=lnms&prmd=nisvbmtz&sa=X&ved=2ahUKEwilsYrg_uSFAxU7slYBHSPCD88Q0pQJegQICBAB&biw=1536&bih=703&dpr=1.25
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 tannal/pscoleman-blog - pscoleman-blog - Gitea: Git with a cup of tea
 http://git.tanmeng.org/tannal/pscoleman-blog
 

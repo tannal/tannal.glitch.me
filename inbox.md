@@ -1,3 +1,12 @@
+# 2024-4-28 0 | 0 W
+
+systemProp.http.proxyHost=192.168.43.1
+systemProp.http.proxyPort=7890
+systemProp.https.proxyHost=192.168.43.1
+systemProp.https.proxyPort=7890
+
+pnpm install --save-dev @types/wicg-file-system-access
+
 # 2024-4-27 0 | 0 W
 
 git submodule update --init --recursive
