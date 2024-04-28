@@ -1,3 +1,161 @@
+# 2024-4-28
+
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bing AI - 搜索
+https://www.bing.com/search?q=Bing%20AI&qs=ds&form=ATCVAJ
+
+x86 and amd64 instruction reference
+https://www.felixcloutier.com/x86/
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+Building Arrow C++ — Apache Arrow v16.0.0
+https://arrow.apache.org/docs/developers/cpp/building.html
+
+Tracking issue: require(esm) · Issue #52697 · nodejs/node
+https://github.com/nodejs/node/issues/52697
+
+module: add __esModule to require()'d ESM by joyeecheung · Pull Request #52166 · nodejs/node
+https://github.com/nodejs/node/pull/52166
+
+vm importModuleDynamically option in Node 20.10 requires --experimental-vm-modules flag and 20.9 does not · Issue #51154 · nodejs/node
+https://github.com/nodejs/node/issues/51154
+
+Change Compilation Cache to ByteCodeArray instead of SFI [41480316] - Chromium
+https://issues.chromium.org/issues/41480316/blocking
+
+V8 Code Cache doesn't preserve host defined options, causing dynamic import failure when cache is consumed [40195716] - Chromium
+https://issues.chromium.org/issues/40195716/resources
+
+…/api.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5403708/5/src/api/api.cc
+
+Booster Development Network
+https://booster.zywave.dev/
+
+src/snapshot/snapshot.cc - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/2282b3d3b4af1b38ba135e2c576ed3717406f268/src/snapshot/snapshot.cc
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Repositories
+https://github.com/orgs/apple/repositories
+
+SAWARATSUKI (SAWARATSUKI) / Repositories
+https://github.com/SAWARATSUKI?tab=repositories
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Raspberry Pi – RISC-V International
+https://riscv.org/member/raspberry-pi/
+
+bitcask - Google 搜索
+https://www.google.com/search?q=bitcask&rlz=1C1GCEA_enJP1090JP1090&oq=bitcask&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAAGEMYgAQYigUyEggCEC4YQxjHARjRAxiABBiKBTIHCAMQABiABDIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjM0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+arm64.pdf
+https://courses.cs.washington.edu/courses/cse469/19wi/arm64.pdf
+
+eggman/raspberrypi: Raspberry Pi bare metal code for qemu raspi2 and raspi3.
+https://github.com/eggman/raspberrypi/tree/master
+
+raspberry pi3b+ cortex - Google 搜索
+https://www.google.com/search?sca_esv=04df3a7c5916b84e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08fe7tbAx6btpdGJLiFkfgLtp5sAA:1714202957772&q=raspberry+pi3b%2B+cortex&spell=1&sa=X&ved=2ahUKEwi0vfvS7-GFAxVEj68BHcTLCVIQBSgAegQIBxAC&biw=1536&bih=703&dpr=1.25
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+树莓派3B+ 引脚图说明_树莓派3b+引脚图-CSDN博客
+https://blog.csdn.net/zz531987464/article/details/100837652
+
+bytecodealliance/StarlingMonkey: The StarlingMonkey JS runtime
+https://github.com/bytecodealliance/StarlingMonkey
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?page=1&sort=recentupdate&q=&tab=repositories&language=
+
+GitHub
+https://github.com/
+
+every ten years we have a new computing platform - Google 搜索
+https://www.google.com/search?q=every+ten+years+we+have+a+new+computing+platform&sca_esv=b5f6560b0f349675&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-fmVw5iBhm3jm7yvMXE6xDRdNUow%3A1714221248140&ei=wPAsZteVCL2Wvr0P0eeY2AY&ved=0ahUKEwjX9b7ks-KFAxU9i68BHdEzBmsQ4dUDCBA&uact=5&oq=every+ten+years+we+have+a+new+computing+platform&gs_lp=Egxnd3Mtd2l6LXNlcnAiMGV2ZXJ5IHRlbiB5ZWFycyB3ZSBoYXZlIGEgbmV3IGNvbXB1dGluZyBwbGF0Zm9ybUjwTFCjCFiUS3ACeAGQAQCYAfcCoAHKO6oBCTAuMTEuMjIuMrgBA8gBAPgBAZgCJKACxjrCAgoQABiwAxjWBBhHwgIFECEYoAHCAgQQIxgnwgIIEAAYgAQYywHCAgYQABgIGB7CAggQABgIGB4YD8ICCBAAGIAEGKIEwgIHECEYoAEYCpgDAIgGAZAGCpIHCTIuMTAuMjIuMqAH7WA&sclient=gws-wiz-serp#ip=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=platform%20shift&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=next%20platform&sort=byPopularity&type=story
+
+ebpf wikipedia - Google 搜索
+https://www.google.com/search?q=ebpf+wikipedia&sca_esv=b5f6560b0f349675&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-B5dTythAzNwv2Zk4ZykaHgvZ9fQ%3A1714222078866&ei=_vMsZp2wNPTN1e8Ps9K3oAE&ved=0ahUKEwidp87wtuKFAxX0ZvUHHTPpDRQQ4dUDCBA&uact=5&oq=ebpf+wikipedia&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmVicGYgd2lraXBlZGlhMggQABiABBjLAUjzEVAeWPcQcAF4AZABAJgB4gGgAbgOqgEFMC4yLje4AQPIAQD4AQGYAgmgAoENwgIHECMYsAMYJ8ICChAAGLADGNYEGEfCAgQQIxgnwgIKECMYgAQYJxiKBcICDBAjGIAEGBMYJxiKBcICChAAGIAEGEMYigXCAgcQABiABBgMwgIEEAAYHsICCBAAGKIEGIkFwgIIEAAYgAQYogSYAwCIBgGQBgqSBwUxLjIuNqAHtxA&sclient=gws-wiz-serp
+
+Excalidraw
+https://excalidraw.com/
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+next.js - Easiest way to detect Production or Dev environment in NextJs? - Stack Overflow
+https://stackoverflow.com/questions/64792787/easiest-way-to-detect-production-or-dev-environment-in-nextjs
+
+Option to import text from local file into editor? · Issue #1458 · quilljs/quill
+https://github.com/quilljs/quill/issues/1458
+
+Window：showOpenFilePicker() 方法 - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Window/showOpenFilePicker
+
+OpenFilePickerdemo/main.js at main · r3naan/OpenFilePickerdemo
+https://github.com/r3naan/OpenFilePickerdemo/blob/main/main.js
+
+javascript - How do you insert HTML into a QuillJS? - Stack Overflow
+https://stackoverflow.com/questions/46626633/how-do-you-insert-html-into-a-quilljs
+
+Import assertion `type: 'javascript'` · Issue #7342 · whatwg/html
+https://github.com/whatwg/html/issues/7342
+
+Code search results
+https://github.com/search?q=%22assert+%7B+type%3A+%22&type=code&p=2
+
+Import .html or .txt files as strings? · Issue #2086 · vercel/next.js
+https://github.com/vercel/next.js/issues/2086
+
+javascript - Import markdown files as strings in Next.js - Stack Overflow
+https://stackoverflow.com/questions/47954367/import-markdown-files-as-strings-in-next-js
+
+Webpack raw-loader not working after Angular update - Stack Overflow
+https://stackoverflow.com/questions/71437729/webpack-raw-loader-not-working-after-angular-update
+
+192.168.43.246
+http://192.168.43.246:3000/
+
+tannal/pscoleman-blog - pscoleman-blog - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/pscoleman-blog
+
+module loader in node - Google 搜索
+https://www.google.com/search?q=module+loader+in+node&rlz=1C1GCEA_enJP1090JP1090&oq=module+loader+in+node&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIJCAQQABgTGIAEMggIBRAAGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIICAkQABgTGB7SAQg2MzM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+hex - How to convert decimal to hexadecimal in JavaScript - Stack Overflow
+https://stackoverflow.com/questions/57803/how-to-convert-decimal-to-hexadecimal-in-javascript
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 # 2024-4-27
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
