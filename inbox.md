@@ -1,4 +1,13 @@
+# 2024-4-30 0 | 0 W
+
+sudo apt install inxi
+
+inxi -Gay
+
 # 2024-4-29 0 | 0 W
+
+sudo apt install -y vulkan-tools libvulkan-dev vulkan-validationlayers-dev spirv-tools libglfw3-dev libglm-dev
+
 
 
 git config --global core.untrackedCache false
