@@ -4,8 +4,6 @@ SwissTable
 
 https://github.com/apocelipes
 
-
-
 cmake -S . -B build -D UPDATE_DEPS=ON -D BUILD_WERROR=ON -D BUILD_TESTS=ON -D CMAKE_BUILD_TYPE=Debug
 cmake --build build --config Debug
 
@@ -59,32 +57,6 @@ the mobile can browse web. the web content mostly also can
 
 
 aarch64-linux-gnu-gcc -c boot.S
-
-// aarch64-linux-gnu-gcc -c a.S
-
-
-// a.S
-.section ".text"
-_start:
-  wfe
-  b _start
-
-// linker.ld
-SECTIONS
-
-{
-
-  . = 0x80000;
-
-  .text : { *(.text) }
-
-}
-
-aarch64-linux-gnu-objcopy -O binary kernel8.elf kernel8.img
-
-aarch64-linux-gnu-ld -T linker.ld -o kernel8.elf a.o
-
-qemu-system-aarch64 -M raspi3b -kernel kernel8.img -display none -S -s
 
 nasm -f elf64 program.asm -o program.o
 ld program.o -o program
