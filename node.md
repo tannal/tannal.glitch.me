@@ -10,6 +10,20 @@ involves:mhdawson
 involves:mcollina
 involves:mylesborins
 
+# concurrent model
+
+
+node has typically 4-6 platform worker thread
+V8Platform -> NodePlatform class has a reference to worker_thread_task_runner_ which has a reference to threads_
+NodeMainInstance has a reference to a MultiIsolatePlatform
+
+
+node has a watchdog thread
+node_watchdog.h
+
+node has a inspector thread client server architecture just like gdb
+
+
 # inbox
 
 Tracking

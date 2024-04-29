@@ -1,5 +1,8 @@
 # 2024-4-29 0 | 0 W
 
+
+git config --global core.untrackedCache false
+git config --global core.fsmonitor false
 chcp 65001
 
 sudo rm /etc/apt/sources.list.d/lunarg-vulkan-focal.list
