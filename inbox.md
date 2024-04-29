@@ -1,5 +1,15 @@
 # 2024-4-28 0 | 0 W
 
+sudo rm /etc/apt/sources.list.d/lunarg-vulkan-focal.list
+sudo rm /etc/apt/sources.list.d/lunarg-vulkan-mantic.list
+sudo rm /etc/apt/sources.list.d/lunarg-vulkan-jammy.list
+
+wget -qO - http://packages.lunarg.com/lunarg-signing-key-pub.asc | sudo apt-key add -
+sudo wget -qO /etc/apt/sources.list.d/lunarg-vulkan-jammy.list https://packages.lunarg.com/vulkan/lunarg-vulkan-jammy.list
+sudo apt update
+sudo apt install vulkan-sdk
+sudo apt install vulkan-tools 
+
 SwissTable
 
 https://github.com/apocelipes
