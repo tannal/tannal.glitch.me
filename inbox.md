@@ -1,6 +1,10 @@
 # 2024-4-28 0 | 0 W
 
 
+SwissTable
+
+https://github.com/apocelipes
+
 ./psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
 
 
