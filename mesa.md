@@ -2,6 +2,37 @@
 
 # inbox
 
+Graphics:
+  Device-1: bcm2712-hdmi0 driver: vc4_hdmi v: N/A bus-ID: N/A
+    chip-ID: brcm:107c701400 class-ID: hdmi
+  Device-2: bcm2712-hdmi1 driver: vc4_hdmi v: N/A bus-ID: N/A
+    chip-ID: brcm:107c706400 class-ID: hdmi
+  Display: wayland server: X.org v: 1.21.1.7 with: Xwayland v: 23.2.0
+    compositor: gnome-shell v: 45.0 driver: X: loaded: fbdev
+    gpu: vc4-drm,vc4_crtc,vc4_dpi,vc4_dsi,vc4_firmware_kms,vc4_hdmi,vc4_hvs,vc4_txp,vc4_v3d,vc4_vec
+    display-ID: 0
+  Monitor-1: HDMI-A-1 model: Philips PHL 271V8 serial: 27916 built: 2023
+    res: 1920x1080 dpi: 82 gamma: 1.2 size: 598x336mm (23.54x13.23")
+    diag: 686mm (27") ratio: 16:9 modes: max: 1920x1080 min: 720x400
+  API: OpenGL v: 3.1 Mesa 24.1.0-devel (git-e1afffe7fa) renderer: V3D 7.1.7
+    direct-render: Yes
+    
+tannal@raspi:~/tannalwork/projects/Vulkan$ inxi -Gay
+Graphics:
+  Device-1: bcm2712-hdmi0 driver: vc4_hdmi v: N/A bus-ID: N/A
+    chip-ID: brcm:107c701400 class-ID: hdmi
+  Device-2: bcm2712-hdmi1 driver: vc4_hdmi v: N/A bus-ID: N/A
+    chip-ID: brcm:107c706400 class-ID: hdmi
+  Display: wayland server: X.org v: 1.21.1.7 with: Xwayland v: 23.2.0
+    compositor: gnome-shell v: 45.0 driver: X: loaded: fbdev
+    gpu: vc4-drm,vc4_crtc,vc4_dpi,vc4_dsi,vc4_firmware_kms,vc4_hdmi,vc4_hvs,vc4_txp,vc4_v3d,vc4_vec
+    display-ID: 0
+  Monitor-1: HDMI-A-1 model: Philips PHL 271V8 serial: 27916 built: 2023
+    res: 1920x1080 dpi: 82 gamma: 1.2 size: 598x336mm (23.54x13.23")
+    diag: 686mm (27") ratio: 16:9 modes: max: 1920x1080 min: 720x400
+  API: OpenGL v: 3.1 Mesa 23.2.1-1ubuntu3.1 renderer: V3D 7.1
+    direct-render: Yes
+
 git clone https://gitlab.freedesktop.org/mesa/mesa.git
 sudo apt install glslang-tools libclc-17-dev libdrm-dev libllvmspirvlib-16-dev libclang-dev libwayland-dev libwayland-egl-backend-dev libx11-dev libxext-dev libxfixes-dev
 
