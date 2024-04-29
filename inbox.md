@@ -1,4 +1,6 @@
-# 2024-4-28 0 | 0 W
+# 2024-4-29 0 | 0 W
+
+chcp 65001
 
 sudo rm /etc/apt/sources.list.d/lunarg-vulkan-focal.list
 sudo rm /etc/apt/sources.list.d/lunarg-vulkan-mantic.list
@@ -9,6 +11,8 @@ sudo wget -qO /etc/apt/sources.list.d/lunarg-vulkan-jammy.list https://packages.
 sudo apt update
 sudo apt install vulkan-sdk
 sudo apt install vulkan-tools 
+
+# 2024-4-28 0 | 0 W
 
 SwissTable
 
@@ -45,7 +49,7 @@ docker rmi <imageid>
 cargo install --git https://github.com/evmar/n2
 (installs into ~/.cargo/bin/)
 
-$ n2 -C some/build/dir some-target
+ n2 -C some/build/dir some-target
 
 cmake -G N2 -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 

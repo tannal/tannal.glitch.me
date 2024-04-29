@@ -1,3 +1,191 @@
+# 2024-4-29
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Run Error on raspi5 · Issue #5 · artyomd/GPU-Playground
+https://github.com/artyomd/GPU-Playground/issues/5
+
+Issue search results
+https://github.com/search?q=involves%3AAmanieu&type=issues&p=3
+
+SwissTable - Google 搜索
+https://www.google.com/search?q=SwissTable&rlz=1C1GCEA_enJP1090JP1090&oq=SwissTable&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGDzSAQcxMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+colobu.com
+https://colobu.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Google3&sort=byPopularity&type=story
+
+net: TestLookupNoSuchHost failing on Plan 9 · Issue #67096 · golang/go
+https://github.com/golang/go/issues/67096
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=rob%20pike&sort=byPopularity&type=story
+
+Issues · mozilla/rhino
+https://github.com/mozilla/rhino/issues
+
+apache/zookeeper: Apache ZooKeeper
+https://github.com/apache/zookeeper
+
+rabbitmq-server/README.md at 97b26a8a3d7695d991a88e3ff94db41cf1a3eb8d · rabbitmq/rabbitmq-server
+https://github.com/rabbitmq/rabbitmq-server/blob/97b26a8a3d7695d991a88e3ff94db41cf1a3eb8d/README.md?plain=1#L75
+
+Server Build Instructions | RabbitMQ
+https://www.rabbitmq.com/docs/build-server
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+command line - How do I search for a process by name without using grep? - Ask Ubuntu
+https://askubuntu.com/questions/612315/how-do-i-search-for-a-process-by-name-without-using-grep
+
+How to install xsltproc on Ubuntu
+https://howtoinstall.co/package/xsltproc
+
+kafka/README.md at 5de5d967adffd864bad3ec729760a430253abf38 · apache/kafka
+https://github.com/apache/kafka/blob/5de5d967adffd864bad3ec729760a430253abf38/README.md?plain=1#L7
+
+Apache Kafka
+https://kafka.apache.org/quickstart
+
+KRaft github - Google 搜索
+https://www.google.com/search?q=KRaft+github&rlz=1C1GCEA_enJP1090JP1090&oq=KRaft+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhhDGMcBGNEDGIAEGIoFMhIIAhAuGEMYxwEY0QMYgAQYigUyBwgDEAAYgAQyDAgEEC4YQxiABBiKBTIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAE0gEIMTQ2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+is toc file symbol gdb - Google 搜索
+https://www.google.com/search?q=is+toc+file+symbol+gdb&rlz=1C1GCEA_enJP1090JP1090&oq=is+toc+file+symbol+gdb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDQ2MzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+节奏蓝调 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%8A%82%E5%A5%8F%E5%B8%83%E9%B2%81%E6%96%AF
+
+当代节奏布鲁斯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BD%93%E4%BB%A3%E8%8A%82%E5%A5%8F%E5%B8%83%E9%B2%81%E6%96%AF
+
+福音音乐 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%A6%8F%E9%9F%B3%E9%9F%B3%E4%B9%90
+
+爵士乐 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%88%B5%E5%A3%AB%E4%B9%90
+
+蓝调 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%97%8D%E8%AA%BF
+
+节奏蓝调 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%8A%82%E5%A5%8F%E5%B8%83%E9%B2%81%E6%96%AF
+
+elasticsearch/BUILDING.md at main · elastic/elasticsearch
+https://github.com/elastic/elasticsearch/blob/main/BUILDING.md
+
+elastic/elasticsearch: Free and Open, Distributed, RESTful Search Engine
+https://github.com/elastic/elasticsearch/tree/main
+
+ChatGPT
+https://chat.openai.com/c/8140ae69-b9ca-4abd-8801-83032f5f527c
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+wusyong (Ngo Iok Ui (Wu Yu Wei))
+https://github.com/wusyong
+
+Help us invent CSS Grid Level 3, aka “Masonry” layout | WebKit
+https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/
+
+time::format_description::well_known::iso8601 - Rust
+https://time-rs.github.io/api/time/format_description/well_known/iso8601/index.html
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+Full Setup Instructions | Nginx Proxy Manager
+https://nginxproxymanager.com/setup/
+
+Masonry layout - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout
+
+`window.hashchange` events are unthrottled · Issue #32118 · servo/servo
+https://github.com/servo/servo/issues/32118
+
+nvidia - fail to run Vulkan on ubuntu - Stack Overflow
+https://stackoverflow.com/questions/57951371/fail-to-run-vulkan-on-ubuntu
+
+Development environment - Vulkan Tutorial
+https://vulkan-tutorial.com/Development_environment#page_Linux
+
+whisper : more prominent log message for sub-1s audio (#2065) · ggerganov/whisper.cpp@7f85e1d
+https://github.com/ggerganov/whisper.cpp/commit/7f85e1d7fd3c995adc68c808a9bce5486a5ca90a
+
+nicoburns (Nico Burns)
+https://github.com/nicoburns
+
+Repositories
+https://github.com/orgs/DioxusLabs/repositories
+
+(163) #xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+Patrick Coleman
+http://192.168.43.62:3001/
+
+LeetCode 热题 100 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-100-liked/
+
+104. 二叉树的最大深度 - 力扣（LeetCode）
+https://leetcode.cn/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-100-liked
+
+音乐史 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%B3%E6%A8%82%E5%8F%B2#%E5%8F%B2%E5%89%8D%E9%9F%B3%E6%A8%82
+
+20.04 - Vulkan SDK - Unable to locate package - Ask Ubuntu
+https://askubuntu.com/questions/1418785/vulkan-sdk-unable-to-locate-package
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+vulkan lunarg arm apt - Google 搜索
+https://www.google.com/search?q=vulkan+lunarg+arm+apt&sca_esv=afdc9e5c89cffcda&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_KCV6WGSFYCmmlmHVTYd2VRJiYpg%3A1714362721625&ei=YRkvZpLnJdnm1e8Pvey7mAI&ved=0ahUKEwjSm6fowuaFAxVZc_UHHT32DiMQ4dUDCBA&uact=5&oq=vulkan+lunarg+arm+apt&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXZ1bGthbiBsdW5hcmcgYXJtIGFwdDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIkARQAFijA3AAeACQAQCYAasCoAHIB6oBAzItNLgBA8gBAPgBAZgCBKAC0AeYAwCSBwUyLTMuMaAHiww&sclient=gws-wiz-serp#ip=1
+
+Jen Simmons - Google 搜索
+https://www.google.com/search?q=Jen+Simmons&rlz=1C1GCEA_enJP1090JP1090&oq=Jen+Simmons&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+winget install elixir - Google 搜索
+https://www.google.com/search?q=winget+install+elixir&rlz=1C1GCEA_enJP1090JP1090&oq=winget+install+elixir&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDI0MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Repositories
+https://github.com/orgs/LunarG/repositories?type=all
+
+Compiling Vulkan from Scratch -
+https://mquandt.com/2016/03/07/Compiling-Vulkan-from-Scratch/
+
+can you hear them screaming out your name - Google 搜索
+https://www.google.com/search?q=can+you+hear+them+screaming+out+your+name&rlz=1C1GCEA_enJP1090JP1090&oq=can+you+hear+them&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAuGAoYHtIBCDg3ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#wptab=si:AKbGX_rtvl4gHjpzPKpYolykTK-DwT7ha6dJftcynCd9eVgGN0Fxv1U9w4a8OKPmTXLV-G0h4GUtDbJVv2doY4_nAzRHXBt6AWTmua05QB0vYfGA67Mo2tJFpCnb0NDU6GbOEScXGBAIfo6oCYCoRRXNXCAb-8NoosnCf6d0FZ2kGcz7l1cIsHc%3D
+
+怎样解决CMD命令行窗口中文乱码问题_cmd 中文乱码-CSDN博客
+https://blog.csdn.net/baidu_24752135/article/details/105877599
+
+ElasticSearch 9200和9300端口区别 - 知乎
+https://zhuanlan.zhihu.com/p/505982096
+
+Elasticsearch Tutorial | Elasticsearch For Beginners - YouTube
+https://www.youtube.com/watch?v=1USCJLsbjS4
+
+localhost
+http://localhost:9300/
+
+Elasticsearch HTTP REST API port 9200 ? - YouTube
+https://www.youtube.com/watch?v=qNJVi8OQeqs
+
+Curl -X GET 'http://localhost:9200' curl: (52) Empty reply from server - Elastic Stack / Elasticsearch - Discuss the Elastic Stack
+https://discuss.elastic.co/t/curl-x-get-http-localhost-9200-curl-52-empty-reply-from-server/329211/2
+
+elasticsearch default user - Google 搜索
+https://www.google.com/search?q=elasticsearch+default+user&rlz=1C1GCEA_enJP1090JP1090&oq=elasticsearch+default&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM2MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Unable to authenticate user [*****] for REST request [/] - Elastic Stack / Elasticsearch - Discuss the Elastic Stack
+https://discuss.elastic.co/t/unable-to-authenticate-user-for-rest-request/197461/2
+
 # 2024-4-28
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
