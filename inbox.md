@@ -1,5 +1,35 @@
 # 2024-4-30 0 | 0 W
 
+
+valac
+sudo apt install valac-bin valac-0.56-vapi libgtk-4-dev libgee-0.8-dev libadwaita-1-dev
+
+
+aarch64-unknown-gnu-linux
+
+export PKG_CONFIG_SYSROOT_DIR=/usr/aarch64-linux-gnu-gcc
+
+qemu-system-x86_64 -kernel ./iso/boot/bzImage \
+    -initrd initramfs.cpio.gz -nographic \
+    -append "console=ttyS0"
+
+mkdir initramfs
+mkdir -p initramfs/bin initramfs/sbin initramfs/etc initramfs/proc initramfs/sys initramfs/dev initramfs/usr/bin initramfs/usr/sbin
+
+cp -a busybox-1_36_1/BUSYBOX/* ~/tannalwork/projects/initramfs
+
+chmod +x init
+
+cp -a busybox-1_36_1/BUSYBOX/* ~/tannalwork/projects/initramfs
+find . -print0 | cpio --null -ov --format=newc | gzip -9 > ~/tannalwork/qemu-workspace/initramfs.cpio.gz
+find . -print0 | cpio --null -ov --format=newc | gzip -9 > ~/tannalwork/projects/distro/initramfs.cpio.gz
+
+find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../initramfs.cpio.gz
+
+qemu-system-x86_64 mylinux-core-glibc.iso -m 4G -S -gdb tcp::6666
+
+gdb -ex "target remote :6666" ./linux6.7/vmlinux
+
 nico
 
 ssh-add key.txt
