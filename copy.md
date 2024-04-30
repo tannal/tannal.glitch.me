@@ -8,6 +8,8 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+mdn docs https://github.com/mdn/content.git
+
 ebpf c and rust libbpf tracing https://github.com/libbpf/libbpf-bootstrap
 
 webgl glsl games rendering 3d 2d web dev https://github.com/magcius/noclip.website

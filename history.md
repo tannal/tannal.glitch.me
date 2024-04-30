@@ -1,5 +1,98 @@
 # 2024-4-30
 
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+Repository search results
+https://github.com/search?q=fed+interest+rate&type=repositories&p=4
+
+Federal Reserve Board - Home
+https://www.federalreserve.gov/default.htm
+
+Yanyan's Wiki
+https://jyywiki.cn/
+
+nanos-lite/Makefile at master · NJU-ProjectN/nanos-lite
+https://github.com/NJU-ProjectN/nanos-lite/blob/master/Makefile
+
+ntegan/basic_initramfs: Create a busybox initramfs from scratch, and test with qemu
+https://github.com/ntegan/basic_initramfs
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Generating a new SSH key and adding it to the ssh-agent - GitHub Docs
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > Link in archived selectors repo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Link.20in.20archived.20selectors.20repo
+
+Webgpu runs script callbacks twice · Issue #32172 · servo/servo
+https://github.com/servo/servo/issues/32172
+
+Servo crates - Google 表格
+https://docs.google.com/spreadsheets/d/1CNEPUytBMTZWUCZ1MgXPaMRuh6EIL10ykYabzw1fnME/edit#gid=0
+
+zng-ui
+https://github.com/zng-ui
+
+untitaker/html5gum: A WHATWG-compliant HTML5 tokenizer and tag soup parser
+https://github.com/untitaker/html5gum?tab=readme-ov-file#alternative-html-parsers
+
+Home
+http://localhost:8888/tree/projects/minGPT
+
+demo
+http://localhost:8888/notebooks/projects/minGPT/demo.ipynb
+
+Google layoffs hit Flutter team | Hacker News
+https://news.ycombinator.com/item?id=40184763
+
+Reflecting on 18 Years at Google | Hacker News
+https://news.ycombinator.com/item?id=38381573&p=2
+
+More layoffs for the flutter team 😬 : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1cduhra/comment/l1j9eoo/
+
+#xilem > State of Rust State Management & Reactivity - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/State.20of.20Rust.20State.20Management.20.26.20Reactivity
+
+Xilem: an architecture for UI in Rust | Raph Levien’s blog
+https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
+
+zng/examples at main · zng-ui/zng
+https://github.com/zng-ui/zng/tree/main/examples
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+GitHub
+https://github.com/
+
+nicoburns (Nico Burns)
+https://github.com/nicoburns
+
+Masonry layout - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout
+
+mdn/content: The content behind MDN Web Docs
+https://github.com/mdn/content
+
+Masonry layout - CSS: Cascading Style Sheets | MDN
+http://localhost:5042/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout
+
+ChatGPT
+https://chat.openai.com/c/cd46f746-4a58-4150-8c5f-785f74680018
+
+Patrick Coleman
+http://localhost:3000/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Loading Editor
 https://github.com/auth/github_editor?redirect=%2Ftannal%2Ftannal.glitch.me&requestId=c33ef562-0d7e-489d-b718-992227e5a24f
 
