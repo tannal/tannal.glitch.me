@@ -1178,6 +1178,8 @@ git checkout --theirs db/
 # git lfs
 
 sudo apt install git-lfs
+git lfs install
+
 git lfs pull
 git clone https://huggingface.co/PowerInfer/ReluLLaMA-7B-PowerInfer-GGUF
 GIT_LFS_SKIP_SMUDGE=1

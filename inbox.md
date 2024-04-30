@@ -1,5 +1,7 @@
 # 2024-4-30 0 | 0 W
 
+nico
+
 ssh-add key.txt
 
 qemu-system-x86_64 -kernel bzImage-debug -initrd basic_initramfs/output/initramfs.igz -serial mon:stdio -hda ./basic_initramfs/output/rootfs -append 'console=ttyS0 root=/dev/sda'
