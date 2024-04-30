@@ -2,6 +2,7 @@
 
 # people
 
+gdb --args ./build/node ~/tannalwork/cans/add.js
 
 # inbox
 
