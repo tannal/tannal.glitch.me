@@ -1,5 +1,44 @@
 # 2024-4-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Index of /vulkan/
+https://packages.lunarg.com/vulkan/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Server Build Instructions | RabbitMQ
+https://www.rabbitmq.com/docs/build-server
+
+The Elixir programming language
+https://elixir-lang.org/
+
+simplejson · PyPI
+https://pypi.org/project/simplejson/
+
+Issue search results
+https://github.com/search?q=repo%3Arabbitmq%2Frabbitmq-server+Building+rabbitmq-server+&type=issues
+
+build rabbitmq failed - Google 検索
+https://www.google.com/search?q=build+rabbitmq+failed&client=ubuntu-sn&hs=Uzo&sca_esv=aaab81b298cd60b3&channel=fs&ei=LFguZoC7KrDL1e8PwO6BuAQ&ved=0ahUKEwiAgcDHiuWFAxWwZfUHHUB3AEcQ4dUDCBA&uact=5&oq=build+rabbitmq+failed&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWJ1aWxkIHJhYmJpdG1xIGZhaWxlZDIFECEYoAEyBRAhGKABSMQuUABY1C1wBHgAkAEAmAH5AaABiSSqAQYwLjE1Lji4AQPIAQD4AQGYAhugAqEmwgINEAAYgAQYsQMYgwEYBMICChAAGIAEGLEDGATCAgYQABgDGATCAgcQABiABBgEwgILEAAYgAQYsQMYgwHCAgoQABiABBhDGIoFwgIFEAAYgATCAggQABiABBixA8ICDRAAGIAEGLEDGEYY_wHCAhkQABiABBixAxhGGP8BGJcFGIwFGN0E2AEBwgIKEAAYgAQYRhj_AcICBBAAGB7CAhYQABiABBhGGP8BGJcFGIwFGN0E2AEBwgIHEAAYgAQYDcICBhAAGA0YHsICBxAAGIAEGBPCAgkQABiABBgTGA3CAgYQABgTGB7CAggQABgTGB4YD8ICChAAGBMYCBgeGA_CAggQABiABBiiBMICCBAAGBMYCBgewgIEECEYFcICCBAAGKIEGIkFmAMAugYGCAEQARgTkgcGNC4yLjIxoAeyQA&sclient=gws-wiz-serp#ip=1
+
+Index of /
+http://192.168.43.95:8080/
+
+sfml githb - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=sfml+githb
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
 央行专区 | MacroMicro 财经M平方
 https://sc.macromicro.me/central_bank/us
 
