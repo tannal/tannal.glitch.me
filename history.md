@@ -3,6 +3,60 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+artyomd/GPU-Playground: GPU Playground is a playground for experimenting with different rendering techniques
+https://github.com/artyomd/GPU-Playground
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+zig/.github/workflows/ci.yaml at master · ziglang/zig
+https://github.com/ziglang/zig/blob/master/.github/workflows/ci.yaml
+
+glibc multi download - Google 搜索
+https://www.google.com/search?q=glibc+multi+download&client=firefox-b-1-e&sca_esv=a6f3a1cb8e6a33be&sxsrf=ACQVn09_k_4cefVMG0xSDywQGDYhtXjsWQ%3A1714052819415&ei=014qZpz2GOPR2roP69mbgAU&ved=0ahUKEwjcq7WrwN2FAxXjqFYBHevsBlAQ4dUDCBA&uact=5&oq=glibc+multi+download&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdsaWJjIG11bHRpIGRvd25sb2FkSOYXUM8EWJcXcAJ4AZABAJgB4QOgAcsRqgEJMC4xLjYuMS4xuAEDyAEA-AEBmAIIoAKKDcICChAAGLADGNYEGEfCAgUQABiABMICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAHCAgcQIRigARgKmAMAiAYBkAYHkgcJMi4xLjMuMS4xoAe7DQ&sclient=gws-wiz-serp
+
+glibc download - Google 搜索
+https://www.google.com/search?client=firefox-b-1-e&q=glibc+download
+
+glibc multi-2.31/install/glibcs/aarch64-linux-gn - Google 搜索
+https://www.google.com/search?client=firefox-b-1-e&q=glibc+multi-2.31%2Finstall%2Fglibcs%2Faarch64-linux-gn
+
+gcc - Error jemalloc/jemalloc.h: No such file or directory when making Redis - Stack Overflow
+https://stackoverflow.com/questions/47088171/error-jemalloc-jemalloc-h-no-such-file-or-directory-when-making-redis
+
+apache/kafka: Mirror of Apache Kafka
+https://github.com/apache/kafka
+
+LuaJIT/src at v2.1 · LuaJIT/LuaJIT
+https://github.com/LuaJIT/LuaJIT/tree/v2.1/src
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Lab 0: Environment Setup — IOC5226: Operating System Capstone
+https://oscapstone.github.io/labs/lab0.html#deploy-to-real-rpi3
+
+rabbitmq/rabbitmq-server: Open source RabbitMQ: core server and tier 1 (built-in) plugins
+https://github.com/rabbitmq/rabbitmq-server
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+zng/examples at main · zng-ui/zng
+https://github.com/zng-ui/zng/tree/main/examples
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Index of /vulkan/
 https://packages.lunarg.com/vulkan/
 
