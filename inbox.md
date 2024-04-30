@@ -1,5 +1,22 @@
 # 2024-4-30 0 | 0 W
 
+ssh-add key.txt
+
+qemu-system-x86_64 -kernel bzImage-debug -initrd basic_initramfs/output/initramfs.igz -serial mon:stdio -hda ./basic_initramfs/output/rootfs -append 'console=ttyS0 root=/dev/sda'
+
+qemu-system-x86_64 \
+-serial mon:stdio \
+  -kernel bzImage-debug \
+  -initrd root.cpio.gz \
+  -append "console=ttyS0 quiet rdinit=/init"
+
+-drive file=disk.img,format=raw,index=0,media=disk \
+qemu-system-x86_64 \
+  -serial mon:stdio \
+  -kernel bzImage-debug \
+  -initrd root.cpio.gz \
+  -append "console=ttyS0 quiet rdinit=/init"
+
 http://csapp.cs.cmu.edu/3e/labs.html
 
 cargo install --git https://github.com/typst/typst --locked typst-cli
