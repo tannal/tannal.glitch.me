@@ -8,6 +8,8 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+harfbuzz font rendering glfw glew https://github.com/tangrams/harfbuzz-example
+
 mdn docs https://github.com/mdn/content.git
 
 ebpf c and rust libbpf tracing https://github.com/libbpf/libbpf-bootstrap
