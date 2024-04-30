@@ -1,3 +1,185 @@
+# 2024-4-30
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+• Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+Paper Mario: The Thousand-Year Door – Overview Trailer – Nintendo Switch - YouTube
+https://www.youtube.com/watch?v=gCV-uTRULn8
+
+GTA IV & EFLC - GTA Map
+https://ehgames.com/gta/map/IV#Seagulls_(The_Ballad_of_Gay_Tony)
+
+nintendo - Google 搜索
+https://www.google.com/search?q=nintendo&rlz=1C1GCEA_enJP1090JP1090&oq=nintendo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDEzMDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+fdaddeo (Filippo D'Addeo)
+https://github.com/fdaddeo
+
+黎明觉醒：生机 - Google 搜索
+https://www.google.com/search?sca_esv=00fee2c195b96c2e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn095mugjYvCICLHR7BXWeJ9G9TfTgw:1714371394884&q=%E9%BB%8E%E6%98%8E%E8%A7%89%E9%86%92%EF%BC%9A%E7%94%9F%E6%9C%BA&stick=H4sIAAAAAAAAAFWSzWsTQRjGM4GGZJOWZENBcpJ4Kb1kZ5PdTb00oPVkEWwunkr2M9mdmd3NDvt1EkHBSylFREQQvOjBv6CKgjeDFFFQvAh6qMZLroKCptqd6tx-88z7-UxxobnYsloQOr5CNZmI4iI1iGYQetoaYCOYgP_ljDUpciIrijMepkmgS6GTMTGxJHhdyHRFoppnIxYPUahHXT1jalpSJ43tCagcsWhagdaO0wngWrgldEg7EscZoKEgdSegdAQaoZHKiqx1BOyLmLGuk7EWhhNQPmJJ8ont25lqOlYEFYu16AdoLODtkxG2E1OFWMnYFvy2FGC2klCKoKqaMsunjBUHq-z9EGIJWabCqnuBojjZgMi3PR3KxzMN26QTacdgxYJqRVkaC8EUrcnOP5tHyJeZbuqyPux6zAk9duIwSTXWtum1Y1tkuuelIkxsj21eDn0EHeZs6BCoU0f7DD6BcnX6_WO98R7sPX75DrwGXPWi6wYGSi4baEANve_yp7jCBqEjmvBLjQr31yChHVLCb3DlLYP23U1XH5kJL_MdrrRpYNUYB5dM_gzHnXMRMjQ6cgm_3KhztZbGLlp_Pt_Z_Eq-eUW8sP_m9kGhV8vNz6vrW73GymqNK5x38WBEakuSefVtfba-WueK_UHsEhcntW_Pf_6q_JitN0uleUzvw8Fcz-3mwbVnj14UikVQzYn5Yi7NVR4sLE-f7Bze2fn68Ob0xt7s6d0vt-4f3tvfLYDfHI_XzxoDAAA&sa=X&lei=WTsvZvWeB7Kjvr0PmMqjgAc
+
+Infinite Mario - JavaScript
+http://localhost:8081/main.html
+
+原神 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tVP1zc0zKjKS842S88yYPRie9o3__nSeQBcYQkh&q=%E5%8E%9F%E7%A5%9E&rlz=1C1GCEA_enJP1090JP1090&oq=yuan&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQLhiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDcwNzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+塞尔达 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNDQ3ik8yN2D04ny6cN7TDVNe7NsHAF0wCgk&q=%E5%A1%9E%E5%B0%94%E8%BE%BE&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%A1%9E%E5%B0%94%E8%BE%BE&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEC4YgAQyBwgDEC4YgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEC4YgAQyBwgHEC4YgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMzYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+GitHub
+https://github.com/
+
+星之卡比探索发现 - Google 搜索
+https://www.google.com/search?sca_esv=00fee2c195b96c2e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-vUdJPd4fYY9scjfDUBTqboItIdQ:1714371842941&q=%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94%E6%8E%A2%E7%B4%A2%E5%8F%91%E7%8E%B0&stick=H4sIAAAAAAAAAONgFuLQz9U3MLUsz1bi1U_XNzQsMM2urDJOL9cSCctMSc13T8xN9U3MTi0KATMXsUo8mzH_yc7up70Ln62f8qxv0fMti572T3zet2EHKyMAYoqXsE8AAAA&sa=X&sqi=2&ved=2ahUKEwixh9jl5OaFAxVuU_UHHbqzCMsQxA16BAhXEAU&biw=1536&bih=703&dpr=1.25
+
+kirby and the forgotten land - Google 搜索
+https://www.google.com/search?q=kirby+and+the+forgotten+land&sca_esv=00fee2c195b96c2e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn08w_d2n1TcV6Crt1DlhOJJ-ePQqeA%3A1714371889579&ei=MT0vZr38Io2Svr0P6_2MqAY&gs_ssp=eJzj4tVP1zc0LDDNrqwyTi83YPSSyc4sSqpUSMxLUSjJSFVIyy9Kzy8pSc1TyAEKAQBQOQ92&oq=Kirby+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBktpcmJ5ICoCCAEyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyDhAuGIAEGNEDGMcBGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBMhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAUiDH1CoBFioBHABeAGQAQCYAdoBoAHaAaoBAzItMbgBAcgBAPgBAZgCA6ACoBvCAgoQABiwAxjWBBhHmAMAiAYBkAYKugYGCAEQARgUkgcJMS4wLjEuOS0xoAeRDQ&sclient=gws-wiz-serp
+
+San2021331091/SFML_Tutorial2023: This is a basic SFML tutorial in C++.
+https://github.com/San2021331091/SFML_Tutorial2023
+
+vcpkg - Show all available triplets on server - Stack Overflow
+https://stackoverflow.com/questions/70800621/show-all-available-triplets-on-server
+
+C++万能头文件<bits/stdc++.h>的内容与优缺点 - cheng102e - 博客园
+https://www.cnblogs.com/blogxjc/p/11130843.html
+
+tonight i celebrate my love for you lyrics - Google 搜索
+https://www.google.com/search?q=tonight+i+celebrate+my+love+for+you+lyrics&rlz=1C1GCEA_enJP1090JP1090&oq=tonight%EF%BC%8C+i&gs_lcrp=EgZjaHJvbWUqBwgIEAAYgAQyBggAEEUYOTIMCAEQLhgnGIAEGIoFMgcIAhAuGIAEMgcIAxAuGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAuGIAEMgcIBxAuGIAEMgcICBAAGIAE0gEJMTg4MDNqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+drowning - Google 搜索
+https://www.google.com/search?q=drowning&sca_esv=74899351e738f79e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_AnauwOE4W9Cya08xiQAwQtZN8rg%3A1714373266393&ei=kkIvZqyJF9bk1e8Pt4CqoAs&ved=0ahUKEwismriM6uaFAxVWcvUHHTeACrQQ4dUDCBA&uact=5&oq=drowning&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGRyb3duaW5nMggQABiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQABiABBjLAUjnDlCrCViPDXABeAGQAQCYAfYBoAHKA6oBAzItMrgBA8gBAPgBAZgCA6AC2QPCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4wLjKgB-oa&sclient=gws-wiz-serp
+
+Clinton Kane - Google 搜索
+https://www.google.com/search?q=Clinton+Kane&rlz=1C1GCEA_enJP1090JP1090&oq=Clinton+Kane&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQABhDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRAAGB4yBggGEAAYHjIGCAcQRRg90gEHMzU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+build rabbitmq - Google 搜索
+https://www.google.com/search?q=build+rabbitmq&rlz=1C1GCEA_enJP1090JP1090&oq=build+rabbitmq&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQRRg8MgYIBxBFGDzSAQg1NTEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Issues · rabbitmq/rabbitmq-server
+https://github.com/rabbitmq/rabbitmq-server/issues?q=is%3Aissue+build+is%3Aclosed
+
+test: mark `test-error-serdes` as flaky · nodejs/node@7c3dce0
+https://github.com/nodejs/node/commit/7c3dce0e4f296d863a3f9e4cdbadaee8b0280f79#diff-5ba63fa1f910a3ec440b5174993719278ddca69569c0159e2c782173af190602
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev/videos
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+use mesa as driver - Google 搜索
+https://www.google.com/search?q=use+mesa+as+driver&rlz=1C1GCEA_enJP1090JP1090&oq=use+mesa+as+driver&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKABMgkIARAhGAoYoAEyCQgCECEYChigAdIBCDU1MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Graphics processor switched to llvmpipe? - English / Hardware - openSUSE Forums
+https://forums.opensuse.org/t/graphics-processor-switched-to-llvmpipe/145539/10
+
+How to uninstall it？ · Issue #13069 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/13069
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+python - Running Jupyter notebook in a virtualenv: installed sklearn module not available - Stack Overflow
+https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available
+
+Home
+http://localhost:8888/tree/projects/minGPT
+
+generate
+http://localhost:8888/notebooks/projects/minGPT/generate.ipynb
+
+karpathy/minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+https://github.com/karpathy/minGPT
+
+python - Using Jupyter behind a proxy - Stack Overflow
+https://stackoverflow.com/questions/36629707/using-jupyter-behind-a-proxy
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+AssertionError when run generate.ipynb with default parameter · Issue #120 · karpathy/minGPT
+https://github.com/karpathy/minGPT/issues/120
+
+ChatGPT
+https://chat.openai.com/c/0a318e21-d4e1-4f0b-99b0-585b04ac6362
+
+Repository search results
+https://github.com/search?q=typst+language%3ATypst&type=repositories&l=Typst&p=2
+
+jskherman/cv.typ: A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+https://github.com/jskherman/cv.typ
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+mesa raspberry pi 5 vulkan oom swap chain - Google 搜索
+https://www.google.com/search?q=mesa+raspberry+pi+5+vulkan+oom+swap+chain&rlz=1C1GCEA_enJP1090JP1090&oq=mesa+raspberry+pi+5+vulkan+oom+swap+chain&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEJMTgzMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Raspberry Pi OS now has Vulkan GPU hardware support baked in! - YouTube
+https://www.youtube.com/watch?v=gisEXzue5xI
+
+Releases · raspberrypi/rpi-eeprom
+https://github.com/raspberrypi/rpi-eeprom/releases
+
+src/broadcom/vulkan/v3dvx_image.c · main · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/src/broadcom/vulkan/v3dvx_image.c?ref_type=heads
+
+CS:APP3e, Bryant and O'Hallaron
+http://csapp.cs.cmu.edu/3e/labs.html
+
+proprietary driver raspberry pi 5 - Google 搜索
+https://www.google.com/search?q=proprietary+driver+raspberry+pi+5&sca_esv=2926e44d85dc4f4d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0_5b-XIhWM--Mp6nPjyXLDHs5WUvw%3A1714443460398&ei=xFQwZv3kF6vN1e8P-rm30A4&oq=proprietary+driver+rasp&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3Byb3ByaWV0YXJ5IGRyaXZlciByYXNwKgIIAjIFECEYoAEyBRAhGKABMgUQIRigAUj9KVAAWIIZcAF4AZABAJgB7gGgAfsLqgEFMC4xLja4AQPIAQD4AQGYAgigApYMwgIEEAAYHsICBhAAGB4YD8ICBhAAGAUYHsICBhAAGAgYHsICCBAAGIAEGKIEmAMAkgcFMS4xLjagB7sT&sclient=gws-wiz-serp
+
+树莓派的GPU，了解一下？ - 知乎
+https://zhuanlan.zhihu.com/p/665165922
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=flutter%20layoff&sort=byPopularity&type=story
+
+More layoffs for the flutter team 😬 : FlutterDev
+https://old.reddit.com/r/FlutterDev/comments/1cduhra/more_layoffs_for_the_flutter_team/
+
+layoff - Reddit Search!
+https://www.reddit.com/search/?q=layoff&type=link&cId=09cde664-9373-43be-b3bc-340c21d54586&iId=aede53f8-e259-4538-a6b8-f110295a6d02
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Issues · flutter/flutter
+https://github.com/flutter/flutter/issues?page=2&q=is%3Aissue+is%3Aopen
+
+Tell HN: So many tech companies are having layoffs | Hacker News
+https://news.ycombinator.com/item?id=38969437
+
+Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+https://layoffs.fyi/
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
 # 2024-4-29
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

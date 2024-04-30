@@ -1,5 +1,21 @@
 # 2024-4-30 0 | 0 W
 
+http://csapp.cs.cmu.edu/3e/labs.html
+
+cargo install --git https://github.com/typst/typst --locked typst-cli
+
+import os
+os.environ['http_proxy'] = "http://10.90.18.152:7890" 
+os.environ['https_proxy'] = "https://10.90.18.152:7890" 
+
+python -m pip install jupyter
+python -m ipykernel install --user --name=tannal
+
+ipython kernel install --user --name=tannal
+
+jupyter-kernelspec uninstall venv
+jupyter-kernelspec uninstall tannal
+
 sudo apt install inxi
 
 inxi -Gay
