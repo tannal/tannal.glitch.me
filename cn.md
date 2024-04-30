@@ -1,4 +1,7 @@
 
+
+computer graphics gaming lighting game engine https://www.zhihu.com/people/papalqi
+
 https://colobu.com/
 
 https://www.zhihu.com/people/wanghenshui

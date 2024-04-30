@@ -8,6 +8,7 @@ xilem masonry
 
 # people
 
+involves:nicoburns
 involves:raphlinus
 involves:nicoburns
 involves:Philipp-M

@@ -62,5 +62,8 @@ sudo apt install glslang-tools
 meson setup build 
 sudo apt install llvm
 meson setup build
+
+ninja uninstall -C build
+
 ```
 
