@@ -1,5 +1,59 @@
 # 2024-4-30
 
+Loading Editor
+https://github.com/auth/github_editor?redirect=%2Ftannal%2Ftannal.glitch.me&requestId=c33ef562-0d7e-489d-b718-992227e5a24f
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+(1) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
++ bitops-optimize-fns-for-improved-performance.patch added to mm-nonmm-unstable branch
+https://lore.kernel.org/mm-commits/20240426190857.BB28FC2BD10@smtp.kernel.org/T/?fbclid=IwZXh0bgNhZW0CMTAAAR3s9iCq5xBHG-PJLkbpKXxtn3DLbnTA3h--JO9fdaYjb1-VQCb8XwU4dJ8_aem_AbRIaRNsR0bVuK1rQ61_HrFE6iaOFbVzASW5L_kH9NrfPzqe7sRhn6J7isfEK-H5UHKllEzrMezvhC9-3wJM1Eia#t
+
+@jhan1998 • 剛改完Proxy Lab 的coding style 上傳 今年 FCS 的作業就算正式結束了 每個 lab ?... • Threads
+https://www.threads.net/@jhan1998/post/C56U63iuccM?fbclid=IwZXh0bgNhZW0CMTAAAR1uPn2qOghSZeEcG_hKQydLfw14tn1u2M6r_phFBm9OSPkDLrOLpQfzSjU_aem_AbQbD6evySVU-osLbwE7PWSj_Ah-NWjAdcwd5mesu7wYmJMICIdAxLs2yvTgycciACGyRS3FznwZXlsJ_ItrYtIM
+
+LLaMA Now Goes Faster on CPUs
+https://justine.lol/matmul/?fbclid=IwZXh0bgNhZW0CMTAAAR2r_cE6uwaZbXFg3ovelSaYj-KGboDbhBTom8oxkJm8E7vOQ_AOmffPbMQ_aem_AdMpNuQlO67yLBWqZ8JUee3OHMHf1EZYvTh9ktjC03SdKakxLP8ZdSm7G1IUyGUX__45g_ThEPatMVKjfeHCmKTh
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Resources
+https://tutflix.org/resources/
+
+Cassandra: 数据库可伸缩性
+https://chat.openai.com/c/76df61bb-fd99-4260-9acc-c31cdab2b535
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+电子签名，免费生成电子签名
+http://electronicsignature.wiicha.com/
+
+论文管理系统
+https://bylw.nenu.edu.cn/
+
+比对报告
+http://vpcs-report.fanyu.com/2024/04/29/4ca4a5ba59vh9438864620/%E9%94%AE%E5%80%BC%E5%AF%B9%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0_%E6%AF%94%E5%AF%B9%E6%8A%A5%E5%91%8A.html
+
+Patrick Coleman
+http://192.168.43.62:3001/
+
+论文降重4.0内容重组版,论文软件降重plus版,智能AI论文降重系统,论文改重,论文去重,论文查重修改_爱改重
+https://www.igaichong.com/aijc_v4.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
