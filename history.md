@@ -1,5 +1,65 @@
 # 2024-5-1
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Intent to ship: CSS Properties and Values API Level 1
+https://groups.google.com/a/chromium.org/g/blink-dev/c/QjcyhPZ_sNI/m/0hRq37VgDAAJ
+
+Archive / gnome-games · GitLab
+https://gitlab.gnome.org/Archive/gnome-games
+
+Michael Catanzaro · GitLab
+https://gitlab.gnome.org/mcatanzaro
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+ComputeMinMaxSizesWithAlgorithm - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=ComputeMinMaxSizesWithAlgorithm
+
+electron/electron: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+https://github.com/electron/electron
+
+[Skia] Add initial support for color spaces by Scony · Pull Request #27079 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/27079/files#diff-658cf8cbee7eb186269c9d364d00dd596d7be3f0ff62161370e74e3e99f330bd
+
+Search Conversations
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=css-flexbox-1
+
+Form controls | Bulma: Free, open source, and modern CSS framework based on Flexbox
+https://bulma.io/documentation/form/general/
+
+<fieldset>: フィールドセット要素 - HTML: ハイパーテキストマークアップ言語 | MDN
+https://developer.mozilla.org/ja/docs/Web/HTML/Element/fieldset
+
+CSS Layout API Level 1
+https://drafts.css-houdini.org/css-layout-api/
+
+css-houdini-drafts/css-layout-api/EXPLAINER.md at main · w3c/css-houdini-drafts
+https://github.com/w3c/css-houdini-drafts/blob/main/css-layout-api/EXPLAINER.md
+
+react-flexa/src/components/Row at master · aaronvanston/react-flexa
+https://github.com/aaronvanston/react-flexa/tree/master/src/components/Row
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Gutters&op=translate
+
+CSS Flexible Box Layout Module Level 1
+https://drafts.csswg.org/css-flexbox-1/#pagination
+
+blink-dev - Google Groups
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Audit visual overflow DCHECKs that are suppressed [40180584] - Chromium
+https://issues.chromium.org/issues/40180584
+
+Suppress visual overflow DCHECK in ComputePaintInvalidationReason (2862305) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/2862305
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

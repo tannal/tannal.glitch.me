@@ -1,5 +1,32 @@
 # inbox
 
+
+LogicalSize -> WritingModeConverter -> physicalSize
+
+https://github.com/w3c/css-houdini-drafts/blob/main/css-layout-api/EXPLAINER.md
+
+fieldset
+A fieldset is (almost) a regular block container, and should be treated as such.
+
+label input textarea select checkbox radio button help
+<form> <button> <input> <textarea> and <label>. 
+
+p layout_results_.size()
+
+LayoutText can get orignal text
+printf "%s\n",  text.Latin1().data()
+
+#if DCHECK_IS_ON() 
+call ShowTree(GetNode())
+
+
+text selection
+OffsetMapping
+
+dom/text element can get LayoutText Element
+
+./out/Default/chrome bilibili.com --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
 python3 tools/clang/scripts/generate_compdb.py -p out/Default -o ./compile_commands.json --target_os=linux
 
 source ~/tannalwork/projects/v8/v8/tools/gdbinit
