@@ -1,3 +1,164 @@
+# 2024-5-1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Development — Apache Arrow v17.0.0.dev33
+https://arrow.apache.org/docs/dev/developers/index.html
+
+(1) #checkins > Raph Levien - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Raph.20Levien
+
+in addition to contributing to upstream python, we \* maintained a stable versio... | Hacker News
+https://news.ycombinator.com/item?id=40176338
+
+gpu-stroke-expansion-paper/paper.pdf at main · linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper/blob/main/paper.pdf
+
+Linebender
+https://github.com/linebender
+
+How to uninstall? · Issue #8 · grate-driver/mesa
+https://github.com/grate-driver/mesa/issues/8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Excalidraw
+https://excalidraw.com/
+
+gpt filling form - Google 搜索
+https://www.google.com/search?q=gpt+filling+form&rlz=1C1GCEA_enJP1090JP1090&oq=gpt+filling+form&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDMxMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+OpenGL ES Font Rendering
+https://chat.openai.com/c/b883b155-99d6-4857-8563-67f3a6bd1ff6
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+shader复习与深入:Screen Space Ambient Occlusion(屏幕空间环境光遮蔽) - 知乎
+https://zhuanlan.zhihu.com/p/367443771
+
+(7 封私信 / 78 条消息) zwqxin - 知乎
+https://www.zhihu.com/people/zwqxin-x/posts
+
+(7 封私信 / 78 条消息) papalqi - 知乎
+https://www.zhihu.com/people/papalqi
+
+(7 封私信 / 78 条消息) 轩辕之风 - 知乎
+https://www.zhihu.com/people/xuanyuanzhifeng/posts
+
+RFC: Font system redesign · Issue #32033 · servo/servo
+https://github.com/servo/servo/issues/32033
+
+unicode-bidi/examples/flame_udhr.rs at main · servo/unicode-bidi
+https://github.com/servo/unicode-bidi/blob/main/examples/flame_udhr.rs
+
+How to break on assembly instruction at a given address in gdb? - Stack Overflow
+https://stackoverflow.com/questions/5459581/how-to-break-on-assembly-instruction-at-a-given-address-in-gdb
+
+Google layoffs hit Flutter team | Hacker News
+https://news.ycombinator.com/item?id=40184763
+
+Home
+http://localhost:8888/tree
+
+Quick start | Elasticsearch Guide [8.13] | Elastic
+https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html
+
+curl - SSL CA Certificates
+https://curl.se/docs/sslcerts.html
+
+docker - What is the default user and password for elasticsearch? - Stack Overflow
+https://stackoverflow.com/questions/46627979/what-is-the-default-user-and-password-for-elasticsearch
+
+Search API | Elasticsearch Guide [8.13] | Elastic
+https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html
+
+behdad.org/text/
+https://behdad.org/text/
+
+ex-sdl-cairo-freetype-harfbuzz/Makefile at master · anoek/ex-sdl-cairo-freetype-harfbuzz
+https://github.com/anoek/ex-sdl-cairo-freetype-harfbuzz/blob/master/Makefile
+
+Patrick Coleman
+http://localhost:3000/
+
+apache/cassandra: Mirror of Apache Cassandra
+https://github.com/apache/cassandra
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=apache&sort=byPopularity&type=story
+
+Wes McKinney - Apache Arrow and the “10 Things I Hate About pandas”
+https://wesmckinney.com/blog/apache-arrow-pandas-internals/
+
+ClickHouse/src/Parsers at master · ClickHouse/ClickHouse
+https://github.com/ClickHouse/ClickHouse/tree/master/src/Parsers
+
+java - Where is javac after installing new openjdk? - Stack Overflow
+https://stackoverflow.com/questions/31523030/where-is-javac-after-installing-new-openjdk
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false
+
+carbon-app/carbon: :black_heart: Create and share beautiful images of your source code
+https://github.com/carbon-app/carbon/pulls
+
+Patrick Coleman
+http://localhost:3000/
+
+Repository search results
+https://github.com/search?q=react+image+viewer+language%3ATypeScript&type=repositories&l=TypeScript
+
+localhost:3001
+http://localhost:3001/
+
+Maven Central Repository Search
+https://search.maven.org/?eh=
+
+Central Repository: org/apache/maven/plugins/maven-jar-plugin
+https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/
+
+java - Maven Error: Could not find or load main class - Stack Overflow
+https://stackoverflow.com/questions/29366373/maven-error-could-not-find-or-load-main-class
+
+tannalwork/Main.java 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/java-workspace/hello-world/src/main/java/Main.java
+
+java - The maven dependencies are not added to the jar in eclipse - Stack Overflow
+https://stackoverflow.com/questions/53241216/the-maven-dependencies-are-not-added-to-the-jar-in-eclipse
+
+java -jar specify dependency jar path - Google 搜索
+https://www.google.com/search?q=java+-jar+specify+dependency+jar+path&rlz=1C1GCEA_enJP1090JP1090&oq=java+-jar+specify+dependency+jar+path&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1NDgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+kafka 重复消费 - Google 搜索
+https://www.google.com/search?q=kafka+%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9&rlz=1C1GCEA_enJP1090JP1090&oq=kafka+%E9%87%8D%E5%A4%8D&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgoIBhAAGKIEGIkF0gEINTM5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+localhost:3001
+http://localhost:3001/
+
+Carbon app is not running locally · Issue #1483 · carbon-app/carbon
+https://github.com/carbon-app/carbon/issues/1483
+
+kafka 内存调优 - Google 搜索
+https://www.google.com/search?q=kafka+%E5%86%85%E5%AD%98%E8%B0%83%E4%BC%98&rlz=1C1GCEA_enJP1090JP1090&oq=kafka+%E5%86%85%E5%AD%98%E8%B0%83%E4%BC%98&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiiBBiJBTIKCAQQABiABBiiBNIBCDcwMTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=language%3AKotlin%20&type=repositories
+
+whisper.cpp/examples/whisper.android at master · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/tree/master/examples/whisper.android
+
+Carbon | Create and share beautiful images of your source code
+http://localhost:3001/
+
 # 2024-4-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

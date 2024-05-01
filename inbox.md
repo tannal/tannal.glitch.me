@@ -1,3 +1,21 @@
+# 2024-5-1 0 | 0 W
+
+https://search.maven.org/?eh=
+
+Fn+Esc
+
+java -cp hello-world-1.0-SNAPSHOT.jar:C:\Users\tannal\.m2\repository\org\apache\kafka\kafka-clients\3.7.0\kafka-clients-3.7.0.jar -jar hello-world-1.0-SNAPSHOT.jar
+
+C:\Users\tannal\.m2\repository\org\apache\kafka\kafka-clients\3.7.0\kafka-clients-3.7.0.jar
+
+https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/
+
+```
+curl --cacert .\tannalwork\projects\elasticsearch\build\distribution\local\elasticsearch-8.15.0-SNAPSHOT\config\certs\http_ca.crt -u elastic:password https://localhost:9200
+
+.\build\distribution\local\elasticsearch-8.15.0-SNAPSHOT\bin\elasticsearch-reset-password -u elastic
+
+```
 # 2024-4-30 0 | 0 W
 
 
