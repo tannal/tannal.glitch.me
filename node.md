@@ -46,7 +46,7 @@ git remote add upstream https://github.com/nodejs/node
 
 git fetch upstream v18.x
 
-./configure --ninja --debug
+./configure --ninja --debug --v8-with-dchecks
 time make -j23
 
 rb js-objects.cc:.

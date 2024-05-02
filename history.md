@@ -1,5 +1,38 @@
 # 2024-5-2
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebRender&resolution=---
+
+1808149 - Firefox shows white area while downloading/rendering PNG image
+https://bugzilla.mozilla.org/show_bug.cgi?id=1808149
+
+import - Importing and exporting breakpoints in visual studio code - Stack Overflow
+https://stackoverflow.com/questions/40225461/importing-and-exporting-breakpoints-in-visual-studio-code
+
+vscode bugging source file directory map - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=vscode+bugging+source+file+directory+map#ip=1
+
+Chromium Docs - Debugging GPU related code
+https://chromium.googlesource.com/chromium/src/+/main/docs/gpu/debugging_gpu_related_code.md
+
+cgdb
+http://cgdb.github.io/
+
+CGDB
+https://github.com/cgdb
+
+ubuntu - What is makeinfo, and how do I get it? - Stack Overflow
+https://stackoverflow.com/questions/338317/what-is-makeinfo-and-how-do-i-get-it
+
+how to include v8dbg_ symbols in the windows build · Issue #5839 · nodejs/node
+https://github.com/nodejs/node/issues/5839
+
+docs/linux - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
