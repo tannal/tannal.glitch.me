@@ -2,6 +2,25 @@
 
 # people
 
+involves:robert-jenner
+involves:ddkilzer
+involves:nmoucht
+
+involves:megangardner
+involves:mattwoodrow
+involves:rniwa
+involves:nt1m
+involves:geoffreygaren
+involves:aprotyas
+involves:nmoucht
+involves:kmiller68
+involves:weinig
+involves:cdumez
+involves:gsnedders
+involves:brentfulgham
+involves:donny-dont
+
+
 involves:Constellation
 
 https://app.slack.com/client/T06G50708/CTV4FGWF4

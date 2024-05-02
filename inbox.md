@@ -1,3 +1,12 @@
+# 2024-5-2 0 | 0 W
+
+typescript -> VScode
+rust -> Servo
+Zig -> Bun
+C -> Unix/Linux
+Go -> ??? Docker
+
+
 # 2024-5-1 0 | 0 W
 
 https://search.maven.org/?eh=

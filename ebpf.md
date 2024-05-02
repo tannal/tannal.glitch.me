@@ -1,5 +1,13 @@
 # people
 
+Alexei Starovoitov META
+David Miller RED HAT
+Daniel Borkmann
+Brendan Gregg INTEL
+Purvi Desai GOOGLE
+Dave Thaler MICROSOFT
+KP Singh GOOGLE
+
 Thomas Graf
 Daniel Borkman
 Liz Rice
