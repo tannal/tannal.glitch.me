@@ -1,5 +1,20 @@
 # inbox
 
+printf "%s\n",  name.Latin1().data()
+
+
+document.readystate -> parsing(dom loading) -> interactive (parse done) -> 
+
+Dom use Element
+layout use Node
+
+containing_block_
+
+```
+IsA<HTML check element type
+```
+
+ClearPaintFlags
 
 LogicalSize -> WritingModeConverter -> physicalSize
 

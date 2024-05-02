@@ -26,6 +26,16 @@ node has a inspector thread client server architecture just like gdb
 
 # inbox
 
+export TARGET_ARCH=x64
+export BUILD_ARCH_TYPE=x64.debug
+
+gn gen -v "out.gn/$BUILD_ARCH_TYPE" --args="is_component_build=false is_debug=true use_goma=false goma_dir=\"None\" use_custom_libcxx=false v8_target_cpu=\"$TARGET_ARCH\" target_cpu=\"$TARGET_ARCH\" v8_enable_backtrace=true"
+
+export BUILD_ARCH_TYPE=x64.debug
+export JOBS_ARG=22
+
+ninja -v -C "out.gn/$BUILD_ARCH_TYPE" d8 cctest inspector-test
+
 The __esModule property is commonly used to recognize transpiled ES modules in consuming code.
 
 --expose-internals
