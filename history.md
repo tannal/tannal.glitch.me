@@ -1,3 +1,89 @@
+# 2024-5-2
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+eBPF Documentary - Speakeasy Productions
+https://ebpfdocumentary.com/
+
+• Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+#general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Gamepad: Implement GamepadHapticActuator by msub2 · Pull Request #32046 · servo/servo
+https://github.com/servo/servo/pull/32046
+
+Repository search results
+https://github.com/search?q=image+gallary+language%3ATypeScript&type=repositories&l=TypeScript&p=2
+
+nazmul-devs/dragable-image-gallary
+https://github.com/nazmul-devs/dragable-image-gallary
+
+React App
+http://localhost:3001/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Buildbot: builder GTK-WK2-Tests-EWS
+https://ews-build.webkit.org/#/builders/1
+
+[Gardening]: [macOS iOS] Multiple tests in imported/w3c/web-platform-… · WebKit/WebKit@68ea654
+https://github.com/WebKit/WebKit/commit/68ea65490ab1c606ac4a279bb817cc2ae1d9640b
+
+What should happen if the highlighted text changes? · Issue #224 · WICG/scroll-to-text-fragment
+https://github.com/WICG/scroll-to-text-fragment/issues/224
+
+Useless feature · Issue #68 · tc39/proposal-iterator.range
+https://github.com/tc39/proposal-iterator.range/issues/68
+
+The Extensible Web Manifesto
+https://extensiblewebmanifesto.org/
+
+Skipping iterator result allocation - Google 文档
+https://docs.google.com/document/d/1M5S-u3N3vQkVBGFCoaYt_ABPGl0EW16QQrvDBaY2FiE/edit
+
+kmiller68 (Keith Miller)
+https://github.com/kmiller68
+
+Chromium Docs - Lacros
+https://chromium.googlesource.com/chromium/src/+/main/docs/lacros.md
+
+Implement IDL Float16Array · Issue #23277 · denoland/deno
+https://github.com/denoland/deno/issues/23277
+
+Implement Float16Array [42203953] - Chromium
+https://issues.chromium.org/issues/42203953
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=sentinel%20value&op=translate
+
+docker - Google 搜索
+https://www.google.com/search?q=docker&rlz=1C1GCEA_enJP1090JP1090&oq=docker+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEHOTQxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+moby/moby: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+https://github.com/moby/moby
+
+OSV - Open Source Vulnerabilities
+https://osv.dev/
+
+docker Documentary - Google 搜索
+https://www.google.com/search?q=docker+Documentary&rlz=1C1GCEA_enJP1090JP1090&oq=docker+Documentary&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjA5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2024-5-1
 
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
