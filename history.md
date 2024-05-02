@@ -1,5 +1,56 @@
 # 2024-5-2
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[1610.01178] A Tour of TensorFlow
+https://arxiv.org/abs/1610.01178
+
+A Promenade of PyTorch – Peter Goldsborough
+https://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+Add to buildVars · Issue #60 · stephank/yarn-plugin-nixify
+https://github.com/stephank/yarn-plugin-nixify/issues/60
+
+khtml - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=khtml
+
+KHTML - Wikipedia
+https://en.wikipedia.org/wiki/KHTML
+
+Konqueror - Wikipedia
+https://en.wikipedia.org/wiki/Konqueror
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+self adjusting computations - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=self+adjusting+computations
+
+acar.pdf
+https://www.cs.cmu.edu/~rwh/students/acar.pdf
+
+save gdb breakpoints - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=save+gdb+breakpoints
+
+c++ - Getting GDB to save a list of breakpoints - Stack Overflow
+https://stackoverflow.com/questions/501486/getting-gdb-to-save-a-list-of-breakpoints
+
+manually trigger gc js - Google 搜索
+https://www.google.com.hk/search?q=manually+trigger+gc+js&newwindow=1&client=ubuntu-sn&hs=hM9&sca_esv=6f4062e96a08634e&sca_upv=1&channel=fs&ei=Ci0zZtKRIKPd2roP57-ZsAk&ved=0ahUKEwjSvpeQpu6FAxWjrlYBHedfBpYQ4dUDCBA&uact=5&oq=manually+trigger+gc+js&gs_lp=Egxnd3Mtd2l6LXNlcnAiFm1hbnVhbGx5IHRyaWdnZXIgZ2MganMyBRAhGKABMgUQIRigATIFECEYoAFIugtQmwZYjgpwAXgBkAEAmAHzAaABvQOqAQMyLTK4AQPIAQD4AQGYAgOgAs0DwgIKEAAYsAMY1gQYR8ICBBAAGB7CAgYQABgFGB7CAgYQABgIGB7CAggQABiABBiiBJgDAIgGAZAGCpIHBTEuMC4yoAe_BA&sclient=gws-wiz-serp
+
+Can I trigger JavaScript's garbage collection? - Stack Overflow
+https://stackoverflow.com/questions/8032928/can-i-trigger-javascripts-garbage-collection
+
+breakpoints/chromium-document.cc.txt 位于 main - breakpoints - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/breakpoints/src/branch/main/chromium-document.cc.txt
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+rust-gdb set breakpoints in all the functions in a file · Issue #124009 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/124009
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

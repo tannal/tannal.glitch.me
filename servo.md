@@ -18,6 +18,8 @@ involves:Loirooriol
 
 # inbox
 
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://www.baidu.com 2>&1 | tee /tmp/log.txt
+
 RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://youtube.com
 
 set logging enabled on
