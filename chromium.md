@@ -1,6 +1,6 @@
 # inbox
 
-printf "%s\n",  name.Latin1().data()
+printf "%s\n",  content.Latin1().data()
 
 
 document.readystate -> parsing(dom loading) -> interactive (parse done) -> 

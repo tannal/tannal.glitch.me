@@ -1,5 +1,65 @@
 # 2024-5-2
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+vscode max terminal shortcut - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=vscode+max+terminal+shortcut#ip=1
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+RuntimeEnabledFeatures flags that we might be able to remove
+https://groups.google.com/a/chromium.org/g/blink-dev/c/ScIKVcPF5Yw/m/NrSaVgcVBwAJ
+
+stable flags in runtime_enabled_features.json5 to consider for removal - Google Sheets
+https://docs.google.com/spreadsheets/d/1OoQOp19o0dtuWXyyQJdBCAAt_6sq4PpvdRszGb0lNmo/edit#gid=0
+
+Xianzhu Wang - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=++Xianzhu+Wang
+
+the d programming language - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=the+d+programming+language
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+build nodejs with v8 debug - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=build+nodejs+with+v8+debug#ip=1
+
+On deps/v8 in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2019/06/08/on-deps-v8-in-node-js/
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+node-test-commit-v8-linux [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-v8-linux/
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+Error message from `git-node v8 backport` is less helpful than in node-core-utils@3.4.0 · Issue #804 · nodejs/node-core-utils
+https://github.com/nodejs/node-core-utils/issues/804
+
+disable all other breakpoint except one gdb - Google 搜索
+https://www.google.com.hk/search?q=disable+all+other+breakpoint+except+one+gdb&newwindow=1&client=ubuntu-sn&hs=X74&sca_esv=782705a13c1e22f4&sca_upv=1&channel=fs&ei=Tu0yZu_mDo3L1e8P1I-e8Aw&ved=0ahUKEwjvxfyr6e2FAxWNZfUHHdSHB84Q4dUDCBA&uact=5&oq=disable+all+other+breakpoint+except+one+gdb&gs_lp=Egxnd3Mtd2l6LXNlcnAiK2Rpc2FibGUgYWxsIG90aGVyIGJyZWFrcG9pbnQgZXhjZXB0IG9uZSBnZGIyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSLQEUFFY1gNwAXgAkAEAmAHgAaAB9QSqAQUwLjEuMrgBA8gBAPgBAZgCBKAChQXCAgsQABiABBiwAxiiBJgDAIgGAZAGAZIHBTEuMS4yoAe-DQ&sclient=gws-wiz-serp
+
+shadow dom shadow document - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=shadow+dom+shadow+document
+
+Issue search results
+https://github.com/search?q=involves%3Aisaacs&type=issues
+
+TAP in JavaScript
+https://github.com/tapjs
+
+Printing WTF::String in gtest assertion
+https://groups.google.com/a/chromium.org/g/blink-dev/c/dFwjUNDGI3k
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
