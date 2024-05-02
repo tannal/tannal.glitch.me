@@ -1,5 +1,7 @@
 # 2024-5-2 0 | 0 W
 
+self adjusting computations
+
 typescript -> VScode
 rust -> Servo
 Zig -> Bun

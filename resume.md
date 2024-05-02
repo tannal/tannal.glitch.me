@@ -5,3 +5,5 @@ https://behdad.org/be-resume.pdf
 
 https://rfrn.org/~shu/CV.pdf
 
+http://www.goldsborough.me/files/cv.pdf
+

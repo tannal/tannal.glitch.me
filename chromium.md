@@ -1,6 +1,11 @@
 # inbox
 
-printf "%s\n",  content.Latin1().data()
+Document::RegisterNodeList
+
+printf "%s\n",  q_name.ToString().data()
+printf "%s\n",  event_type.Latin1().data()
+printf "%s\n",  data.Latin1().data()
+printf "%s\n",  html.Latin1().data()
 
 
 document.readystate -> parsing(dom loading) -> interactive (parse done) -> 
