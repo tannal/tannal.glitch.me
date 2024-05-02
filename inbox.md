@@ -1,5 +1,28 @@
 # 2024-5-2 0 | 0 W
 
+valid vs useful
+
+https://www.psychologicalscience.org/publications/current_directions
+
+designer
+product manager
+enginner
+researcher
+
+Around 5,000 lines of code for HDFS and 6,000 lines of code for MapReduce were factored out of Nutch's initial code.
+
+2014年8月11日 — Minecraft, written in C++ as well, has somewhere like 500K lines of code.
+50 million lines
+GTA V has more than 100 million
+
+Linux Kernel
+GNU Compiler Collection (GCC)
+Mozilla Firefox
+Android Open Source Project (AOSP)
+Apache Hadoop
+OpenStack
+
+
 self adjusting computations
 
 typescript -> VScode

@@ -1,3 +1,167 @@
+# 2024-5-3
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=k8s%20documentary&sort=byPopularity&type=story
+
+GDB breakpoints list
+https://chat.openai.com/c/be0d4cf0-50fa-42c3-a4e3-6a637487cdc3
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1) Discord | #dev | Deno
+https://discord.com/channels/684898665143206084/684911491035430919
+
+NASA
+https://github.com/nasa
+
+apache/hadoop: Apache Hadoop
+https://github.com/apache/hadoop
+
+GCC: Anonymous read-only Git access - GNU Project
+https://gcc.gnu.org/git.html
+
+Android 开源项目  |  Android Open Source Project
+https://source.android.com/?hl=zh-cn
+
+下载源代码  |  Android 开源项目  |  Android Open Source Project
+https://source.android.com/docs/setup/download/downloading?hl=zh-cn
+
+下载 Android 源代码  |  Android 开源项目  |  Android Open Source Project
+https://source.android.com/docs/setup/download?hl=zh-cn#installing-repo
+
+结构主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%B5%90%E6%A7%8B%E4%B8%BB%E7%BE%A9
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+#Outreachy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy
+
+how many lines of source code in aosp - Google 搜索
+https://www.google.com.hk/search?q=how+many+lines+of+source+code+in+aosp&rlz=1C1GCEA_enJP1090JP1090&oq=how+many+lines+of+source+code+in+aosp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM4NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Blog - derdilla.com
+https://derdilla.com/blog/size-aosp/
+
+Alexays/Waybar: Highly customizable Wayland bar for Sway and Wlroots based compositors. :tada:
+https://github.com/Alexays/Waybar
+
+AOSP Lines of Code
+https://gist.github.com/chris-piekarski/5686731
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+linux - ssh-add returns with: "Error connecting to agent: No such file or directory" - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/464574/ssh-add-returns-with-error-connecting-to-agent-no-such-file-or-directory
+
+Starting ssh-agent on Windows 10 fails: "unable to start ssh-agent service, error :1058" - Stack Overflow
+https://stackoverflow.com/questions/52113738/starting-ssh-agent-on-windows-10-fails-unable-to-start-ssh-agent-service-erro
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Philip Johnson-Laird - Wikipedia
+https://en.wikipedia.org/wiki/Philip_Johnson-Laird
+
+George Armitage Miller - Wikipedia
+https://en.wikipedia.org/wiki/George_Armitage_Miller
+
+华生选择任务 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%8F%AF%E7%94%9F%E9%81%B8%E6%93%87%E4%BB%BB%E5%8B%99
+
+openstack - Google 搜索
+https://www.google.com/search?q=openstack+&sca_esv=25cd74cf61df00be&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-RDZueC8S04MJp11c467TbIwlFgA%3A1714643535878&ei=T2IzZsShNcvK2roP0P6S2Aw&ved=0ahUKEwiEhf322O6FAxVLpVYBHVC_BMsQ4dUDCBA&uact=5&oq=openstack+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCm9wZW5zdGFjayAyChAjGIAEGCcYigUyChAAGIAEGEMYigUyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUijHVDmB1jaFHABeAGQAQCYAeoBoAG_A6oBAzItMrgBA8gBAPgBAZgCA6ACyQPCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4wLjKgB6EI&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=pierced&op=translate
+
+树莓派5硬件解码器 - Google 搜索
+https://www.google.com/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%A1%AC%E4%BB%B6%E8%A7%A3%E7%A0%81%E5%99%A8&sca_esv=25cd74cf61df00be&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-h4G-kqdbOnD7-sZfRDMVjHV63xA%3A1714644111666&ei=j2QzZsiFKMfK2roPnKeM6AE&ved=0ahUKEwiIicSJ2-6FAxVHpVYBHZwTAx0Q4dUDCBA&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE5%E7%A1%AC%E4%BB%B6%E8%A7%A3%E7%A0%81%E5%99%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeagkeiOk-a0vjXnoazku7bop6PnoIHlmahItC1QlAFYnCxwBXgAkAEAmAH0AaAB_xqqAQUwLjguObgBA8gBAPgBAZgCCaACpQvCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQABiABBhDGIoFwgIFEAAYgATCAggQABiABBiiBMICCBAAGKIEGIkFwgIHEAAYgAQYDJgDAIgGAZAGCpIHBTIuMS42oAf6JA&sclient=gws-wiz-serp
+
+归纳推理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%BD%92%E7%BA%B3%E6%8E%A8%E7%90%86
+
+溯因推理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%BA%AF%E5%9B%A0%E6%8E%A8%E7%90%86
+
+23rd APS Annual Convention (2011) - William James Fellow Award Address - Philip Johnson-Laird on Vimeo
+https://vimeo.com/38590492
+
+Current Directions in Psychological Science – Association for Psychological Science – APS
+https://www.psychologicalscience.org/publications/current_directions
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=haphazard&op=translate
+
+George Armitage Miller - Google 搜索
+https://www.google.com/search?q=George+Armitage+Miller&rlz=1C1GCEA_enJP1090JP1090&oq=George+Armitage+Miller&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcxNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+https://github.com/microsoft/cascadia-code
+
+Issues · stnolting/neorv32
+https://github.com/stnolting/neorv32/issues
+
+neorv32
+https://neorv32.org/
+
+platform/superproject/main - Android Code Search
+https://cs.android.com/android/platform/superproject/main
+
+chet haase romain guy - Google 搜索
+https://www.google.com/search?q=chet+haase+romain+guy&sca_esv=f977441fd745688c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn096Um1bytmqEQ1ZXXZtSdxeJH-PVA%3A1714654581185&ei=dY0zZu3TCqDe2roPrpuDwAc&ved=0ahUKEwit4uSJgu-FAxUgr1YBHa7NAHgQ4dUDCBA&uact=5&oq=chet+haase+romain+guy&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWNoZXQgaGFhc2Ugcm9tYWluIGd1eTIEECMYJzIEECMYJzIEECMYJzIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyChAuGIAEGEMYigUyChAAGIAEGAoYywEyCBAAGIAEGKIESLkDUABYwgJwAHgBkAEAmAG_AqABjASqAQUyLTEuMbgBA8gBAPgBAfgBApgCAqAClASYAwCSBwUyLTEuMaAH-hc&sclient=gws-wiz-serp#fpstate=ive&vld=cid:ffe82434,vid:QTs_eDAXksY,st:2675
+
+usmangt (Usman Ahmad)
+https://github.com/usmangt
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+#general > `stylo` crates.io release - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.60stylo.60.20crates.2Eio.20release
+
+network: add mechanism to configure default UseDomains= setting by henryli001 · Pull Request #32194 · systemd/systemd
+https://github.com/systemd/systemd/pull/32194
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+error while compiling linux: compiler 'riscv64-unknown-linux-gnu-gcc' not found · Issue #374 · riscv-collab/riscv-gcc
+https://github.com/riscv-collab/riscv-gcc/issues/374
+
+qemu user riscv - Google 搜索
+https://www.google.com/search?q=qemu+user+riscv&rlz=1C1GCEA_enJP1090JP1090&oq=qemu-user+riscv&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDk4MzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+RISC-V(RV32IM) emulator written in C. : r/RISCV
+https://www.reddit.com/r/RISCV/comments/16idu7p/riscvrv32im_emulator_written_in_c/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=RISC-V%20emulator&sort=byPopularity&type=story
+
+selfie | An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+http://selfie.cs.uni-salzburg.at/
+
+cksystemsteaching/selfie: An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+https://github.com/cksystemsteaching/selfie
+
+Running 64- and 32-bit RISC-V Linux on QEMU — RISC-V - Getting Started Guide
+https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+qemu rootfs - Google 搜索
+https://www.google.com/search?q=qemu+rootfs&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+rootfs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yCAgFEAAYDxgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGAUYHtIBCDQxMDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Ramfs, rootfs and initramfs — The Linux Kernel documentation
+https://docs.kernel.org/filesystems/ramfs-rootfs-initramfs.html
+
 # 2024-5-2
 
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
