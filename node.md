@@ -28,6 +28,9 @@ node has a inspector thread client server architecture just like gdb
 
 # inbox
 
+Debug() from src/debug_utils.h
+NODE_DEBUG
+
 export TARGET_ARCH=x64
 export BUILD_ARCH_TYPE=x64.debug
 
@@ -60,7 +63,6 @@ https://github.com/search?q=involves%3AMoLow%20&type=issues
 ringbuffer 
 
 b MacrotaskQueue::RunMacrotasks
-b MicrotaskQueue::RunMicrotasks
 
 ```cpp
 
@@ -243,15 +245,7 @@ set_primordials(primordials.As<Object>());
 
 
 ![Alt text](image-4.png)
-
-Event Loop is single thread
-
-does node core developer handle multi threads? no, libuv handle it.
-does deno developer handle rust threading ? no, tokio handle it.
-does node impl AES tls alogrithm? no, openssl's job
-
-parsing running js? JIT compilation? no, It's all v8's job.
-why node so successful? 
+ 
 
 node::inspector::NodeInspectorClient::runMessageLoopOnPause
 
@@ -292,14 +286,37 @@ about:debugging
 
 # Get the Code, build, running, testing, logging and lsp
 
+```bash
+// .vscode/launch.json
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(lldb) Launch",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/out/Release/node",
+      "args": [
+        "--expose-internals",
+        "test.js"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb"
+    }
+  ]
+}
+```
+
+```bash
+"compileCommands": "${workspaceFolder}/out/Debug/compile_commands.json"
+```
 
 ```bash
 
-./configure
-
-./configure -C --debug-node
-
-./configure --ninja --debug
+./configure --ninja --debug -C
 
 time make -j22
 

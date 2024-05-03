@@ -3,7 +3,6 @@
 involves:ehsan
 involves:gregorypappas
 
-
 # inbox
 
 
@@ -306,11 +305,6 @@ RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
 
 ```
 
-
-
-
-# directory structure
-
 gfx/
 
 servo/
@@ -323,6 +317,10 @@ python/
 https://chat.mozilla.org/#/room/#introduction:mozilla.org
 
 https://codetribute.mozilla.org/projects/devtools
+
+https://nnethercote.github.io/about-me.html
+
+https://blog.mozilla.org/javascript/
 
 # reference
 
