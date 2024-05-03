@@ -1,5 +1,68 @@
 # 2024-5-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+MethanePowered/MethaneKit: 🎲 Modern 3D graphics made simple with C++17 cross-platform framework and rendering abstraction API on top of DirectX 12, Metal & Vulkan
+https://github.com/MethanePowered/MethaneKit
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Running 64- and 32-bit RISC-V Linux on QEMU — RISC-V - Getting Started Guide
+https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+
+linux - Kernel and QEMU : Unable to mount root fs error - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/61282/kernel-and-qemu-unable-to-mount-root-fs-error
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+Ramfs, rootfs and initramfs — The Linux Kernel documentation
+https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html?highlight=initramfs
+
+kerneldev/initramfs.sh at master · MarybethGasman/kerneldev
+https://github.com/MarybethGasman/kerneldev/blob/master/initramfs.sh
+
+Code search results
+https://github.com/search?q=gen_init_cpio&type=code
+
+linux/usr/gen_init_cpio.c at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/usr/gen_init_cpio.c
+
+linux - Make install, but not to default directories? - Stack Overflow
+https://stackoverflow.com/questions/3239343/make-install-but-not-to-default-directories
+
+Failed to execute /init ("error -2") - Google 検索
+https://www.google.com/search?q=Failed+to+execute+%2Finit+%28%22error+-2%22%29&client=ubuntu-sn&hs=LCP&sca_esv=01af4ce885a5a2f8&channel=fs&ei=who0Ztr1N82n2roPrbyFcA&ved=0ahUKEwja3uLqiPCFAxXNk1YBHS1eAQ4Q4dUDCBA&uact=5&oq=Failed+to+execute+%2Finit+%28%22error+-2%22%29&gs_lp=Egxnd3Mtd2l6LXNlcnAiJEZhaWxlZCB0byBleGVjdXRlIC9pbml0ICgiZXJyb3IgLTIiKUjVJlDPEVjdI3ABeAGQAQCYAdkBoAGMA6oBBTAuMS4xuAEDyAEA-AEBmAIBoAIHwgIKEAAYsAMY1gQYR5gDAIgGAZAGApIHATGgB2Y&sclient=gws-wiz-serp#ip=1
+
+Index of /downloads/binaries/1.35.0-x86_64-linux-musl
+https://busybox.net/downloads/binaries/1.35.0-x86_64-linux-musl/
+
+kernel-dev/qemu_x86_64 at master · sawermager/kernel-dev
+https://github.com/sawermager/kernel-dev/tree/master/qemu_x86_64
+
+CodeAsm/teeny-linux: An tiny linux kernel with initramfs for Qemu based on Mitch Galgs linux tutorials.
+https://github.com/CodeAsm/teeny-linux
+
+vkobel/linux-image-builder: Assemble a bootable a linux bootable image based on a kernel, an initramfs and a root filesystem
+https://github.com/vkobel/linux-image-builder
+
+initramfs - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=initramfs#ip=1
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+c - Why does a custom init fail with error code -8 on a custom linux system? - Stack Overflow
+https://stackoverflow.com/questions/74747894/why-does-a-custom-init-fail-with-error-code-8-on-a-custom-linux-system
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+assembly - Can I print the gdtr and gdt descriptor under gdb? - Stack Overflow
+https://stackoverflow.com/questions/28263624/can-i-print-the-gdtr-and-gdt-descriptor-under-gdb
+
 ChatGGG
 http://192.168.43.1:8080/quill.html
 

@@ -1,6 +1,7 @@
 
 # 2024-5-3 0 | 0 W
 
+gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace /vmlinux
 
 ./usr/gen_initramfs.sh -o ~/tannalwork/projects/kerneldev/initramfs.img ~/tannalwork/projects/kerneldev/root
 
@@ -10,8 +11,18 @@ qemu-system-riscv64 -kernel arch/riscv/boot/Image \
     -serial mon:stdio
 
 qemu-system-x86_64 -kernel ~/tannalwork/qemu-workspace/bzImage \
+    -initrd /home/tannal/tannalwork/projects/kerneldev/initramfs.img \
+    -monitor none \
+    -enable-kvm \
+    -nographic \
+    -monitor none \
+    -S -gdb tcp::6666 -append "console=ttyS0 nokaslr ip=dhcp" \
+    -m 4G \
+    -serial mon:stdio
+
+qemu-system-x86_64 -kernel ~/tannalwork/qemu-workspace/bzImage \
     -initrd /home/tannal/tannalwork/projects/kerneldev/initramfs.img -nographic \
-    -append "console=ttyS0" \
+    -append "console=ttyS0 ip=dhcp" \
     -serial mon:stdio \
     -monitor none \
     -enable-kvm \
