@@ -1,5 +1,59 @@
 # 2024-5-3
 
+stackoverflow.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+learning-v8/lldb_commands.py at master · danbev/learning-v8
+https://github.com/danbev/learning-v8/blob/master/lldb_commands.py
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node
+
+Add support for debugging Node internals when they are externally loaded · Issue #823 · microsoft/vscode-js-debug
+https://github.com/microsoft/vscode-js-debug/issues/823
+
+Issue search results
+https://github.com/search?q=involves%3Ammomtchev&type=issues&p=2
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Born%20too%20late%20to%20overthrow%20kings%2C%20born%20too%20early%20to%20overthrow%20the%20AI%20overlord%2C%20had%20to%20resign%20to%20combat%20the%20French%20Judiciary&op=translate
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Node.js — Profiling Node.js Applications
+https://nodejs.org/en/learn/getting-started/profiling
+
+Use of uninitialized value $pname in string eq at ./stackcollapse-perf.pl line 214, <> line 515 · Issue #55 · brendangregg/FlameGraph
+https://github.com/brendangregg/FlameGraph/issues/55
+
+node.js Flame Graphs on Linux
+https://www.brendangregg.com/blog/2014-09-17/node-flame-graphs-on-linux.html
+
+Issue 70013002: Support for the Linux 'perf report' and 'perf annotate' tools. - Code Review
+https://codereview.chromium.org/70013002
+
+perf: Couldn't record kernel reference relocation symbol - Stack Overflow
+https://stackoverflow.com/questions/21284906/perf-couldnt-record-kernel-reference-relocation-symbol
+
+node.js - Unknown events in nodejs/v8 flamegraph using perf_events - Stack Overflow
+https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events
+
+How do I profile C++ code running on Linux? - Stack Overflow
+https://stackoverflow.com/questions/375913/how-do-i-profile-c-code-running-on-linux/378024#378024
+
+User Mike Dunlavey - Stack Overflow
+https://stackoverflow.com/users/23771/mike-dunlavey
+
+Certara | Accelerating Medicines with Biosimulation and Tech-enabled Services
+https://www.certara.com/
+
+Runtime_LoadPropertyWithInterceptor - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Runtime_LoadPropertyWithInterceptor
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

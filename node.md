@@ -13,6 +13,10 @@ source ~/tannalwork/projects/v8/v8/tools/gdbinit
 
 # inbox
 
+Runtime_LoadPropertyWithInterceptor
+
+sudo perf trace -e 'syscalls:sys_enter_read,syscalls:sys_exit_read,syscalls:sys_enter_write,syscalls:sys_exit_write' -p `pgrep -n node` -o io_events.trace sleep 30
+
 https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events
 
 sudo perf record -F 99 -p `pgrep -n node` -g -- sleep 30
