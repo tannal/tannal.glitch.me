@@ -1,3 +1,70 @@
+
+# dev
+
+```
+
+git checkout master
+git pull --rebase
+
+gclient sync
+gclient sync -D
+
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/css-multicol/crashtests/
+inline-become-oof-container-make-oof-inflow.html
+
+echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
+
+css/CSS2/normal-flow/unresolvable-max-height.html
+
+out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html --no-sandbox --renderer-cmd-prefix='xterm -title renderer -e gdb \
+    -ex run --args'
+
+export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+
+autoninja -C out/Default chrome_wpt_tests
+autoninja -C out/Default chrome
+
+autoninja -C out/Default blink_unittests
+out/Default/blink_unittests --gtest_filter='InlineNodeTest.SetTextWithOffsetWithTextTransform'
+out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_filter='FormAutofillTest.*'
+out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_filter='ListMarkerTest.FallbackToTextWhenImagesDisable'
+
+```
+
+# setup
+
+```bash
+
+export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+mkdir chromium && cd chromium
+fetch chromium
+cd src
+./build/install-build-deps.sh
+
+gn gen out/Default
+time autoninja -C out/Default chrome
+
+ninja: Entering directory `out/Default'
+[57719/57719] LINK ./chrome
+
+real	106m52.983s
+user	2379m13.189s
+sys	146m59.666s
+
+tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
+
+./out/Default/chrome --enable-logging=stderr --v=1
+
+./out/Default/chrome --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+./out/Default/chrome --headless --disable-gpu --remote-debugging-port=9222 https://www.chromestatus.com
+
+tar -czvf ../../../build/chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz Default/
+
+```
+
+
 # inbox
 
 LayoutUnit
@@ -691,71 +758,6 @@ if (!style.GetScrollSnapType().is_none) {
 
 ```
 
-APIs, & HTML/CSS parsing
-
-Input: HTML, CSS, JavaScript, other resources.
-Output: DOM, Stylesheets.
-DOM (Document Object Model)
-
-Input: HTML after being parsed.
-Output: A tree structure that represents the content of the page.
-Stylesheets
-
-Input: CSS after being parsed.
-Output: CSSOM (CSS Object Model), a tree structure that represents the style information for the page.
-Animate
-
-Input: DOM, CSSOM, and animation definitions (e.g., from CSS animations or Web Animations API).
-Output: Changes to properties over time that should be reflected in the style and layout.
-Style
-
-Input: DOM, CSSOM.
-Output: Computed Styles, which are the styles that are actually applied to the DOM elements after resolving all the CSS rules.
-Layout
-
-Input: DOM, Computed Styles.
-Output: Layout tree (also known as a box tree or render tree), which is a representation of the layout boxes for each DOM element with size and position information.
-Pre-paint
-
-Input: Layout tree, any pending style changes or updates.
-Output: Paint records (instructions for painting) and updates to the Property Trees if necessary.
-Scroll
-
-Input: User interaction, current scroll position.
-Output: Updated scroll position that will be reflected in the layout and paint.
-Paint
-
-Input: Paint records, images, and other resources.
-Output: Draw commands that are ready to be rasterized.
-Commit
-
-Input: Draw commands, any updates that require synchronizing with the compositor.
-Output: Layers prepared and sent to the compositor for the final screen rendering.
-Layerize
-
-Input: Layers that need to be composited, possibly from different parts of the rendering pipeline.
-Output: A layer list that the compositor can work with to produce the final image.
-Property Trees
-
-Input: Hierarchical properties such as transforms, clips, effects.
-Output: A set of property trees (transform tree, clip tree, effect tree) that are used to efficiently manage these properties across the rendering pipeline.
-Composited Layer List
-
-Input: The layers that have been prepared during the commit phase.
-Output: A list of layers in the order they should be composited to create the final frame.
-Immutable Fragment Tree
-
-Input: Output from the layout phase.
-Output: A tree structure that represents parts of the page that do not change, which allows for optimization in the rendering process.
-Decoded & Sized Textures
-
-Input: Raw image data and videos.
-Output: Images and videos that have been decoded, sized, and formatted into textures for use by the GPU.
-Display Lists
-
-Input: All the painting commands that have been generated.
-Output: A list of instructions that the GPU will use to draw the final image to the screen.
-
 blink::PaintLayerPainter::Paint(blink::GraphicsContext&, unsigned int)
 
 paint layer compositor
@@ -766,26 +768,7 @@ https://groups.google.com/a/chromium.org/g/blink-dev/search?q=Manuel%20Rego%20Ca
 
 https://github.com/chromium/chromium/blob/main/third_party/blink/renderer/core/layout/layout_box_model_object.cc
 
-out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html
-out/Default/chrome third_party/blink/web_tests/external/wpt/css/css-multicol/crashtests/
-inline-become-oof-container-make-oof-inflow.html
 
-echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope
-
-css/CSS2/normal-flow/unresolvable-max-height.html
-
-out/Default/chrome third_party/blink/web_tests/external/wpt/css/CSS2/normal-flow/unresolvable-max-height.html --no-sandbox --renderer-cmd-prefix='xterm -title renderer -e gdb \
-    -ex run --args'
-
-export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
-
-autoninja -C out/Default chrome_wpt_tests
-autoninja -C out/Default chrome
-
-autoninja -C out/Default blink_unittests
-out/Default/blink_unittests --gtest_filter='InlineNodeTest.SetTextWithOffsetWithTextTransform'
-out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_filter='FormAutofillTest.*'
-out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_filter='ListMarkerTest.FallbackToTextWhenImagesDisable'
 
 gtest
 browser test
@@ -840,64 +823,6 @@ LOG(INFO) << "Hello World" << std::endl;
 
 
 ```
-
-git checkout master
-git pull --rebase
-
-gclient sync
-
-gclient sync -D
-
-skia
-
-blink::WebInputEvent
-
-html_div_element.h
-
-
-```bash
-
-export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
-mkdir chromium && cd chromium
-fetch chromium
-cd src
-./build/install-build-deps.sh
-
-gn gen out/Default
-
-time autoninja -C out/Default chrome
-
-ninja: Entering directory `out/Default'
-[57719/57719] LINK ./chrome
-
-real	106m52.983s
-user	2379m13.189s
-sys	146m59.666s
-
-ninja: Entering directory `out/Default'
-[0/1] Regenerating ninja files
-[53694/53694] LINK ./chrome
-
-real    102m34.204s
-user    2292m7.163s
-sys     142m41.843s
-
-tools/clang/scripts/generate_compdb.py -p out/Default > compile_commands.json
-
-./out/Default/chrome --enable-logging=stderr --v=1
-
-./out/Default/chrome --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
-
-
-./out/Default/chrome --headless --disable-gpu --remote-debugging-port=9222 https://www.chromestatus.com
-
-tar -czvf ../../../build/chrome_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz Default/
-
-
-```
-
-class Document
-provided by "third_party/blink/renderer/core/dom/document.h"
 
 ## src/net/socket/ssl_client_socket_impl.cc 
 

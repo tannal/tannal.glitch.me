@@ -1,3 +1,29 @@
+
+# dev
+
+r -D data/
+./initdb -d data
+
+set follow-fork-mode child
+
+
+# setup
+
+```bash
+git clone https://github.com/postgres/postgres
+sudo apt install meson bison flex
+
+meson setup build
+meson setup --reconfigure --prefix=/home/tannal/tannalwork/projects/postgres/_install build
+meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
+meson setup --prefix=`pwd`/_install build
+
+ninja -C build
+ninja install -C build
+ln -sfn ./build/compile_commands.json compile_commands.json 
+
+```
+
 # people
 
 involves:petere
@@ -99,8 +125,7 @@ b XLog
 
 b PageAddItemExtended
 
-r -D data/
-./initdb -d data
+
 
 
 
@@ -269,7 +294,6 @@ sudo ./kprobe -s 'p:blk_mq_init_sched'
 createdb mydb
 psql -d mydb
 
-
 psql -U postgres -d postgres -h localhost -d mydb
 
 
@@ -284,67 +308,6 @@ psql -U postgres -d postgres -h localhost -d mydb
 ```
 
 sudo snap install postgresql
-
-
-```bash
-
-git clone https://github.com/postgres/postgres
-
-./configure
-
-sudo apt install meson bison flex
-
-make distclean
-
-meson setup build
-meson setup --reconfigure --prefix=/home/tannal/tannalwork/projects/postgres/_install build
-meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
-meson setup --prefix=`pwd`/_install build
-
-ninja -C build
-ninja install -C build
-
-ln -sfn ./build/compile_commands.json compile_commands.json 
-
-mkdir _install
-
-./configure --prefix="/home/tannal/tannalwork/projects/postgres/_install"  --enable-debug 
-
-./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix="/home/tannal/tannalwork/projects/postgres/_install" 
-
-
-sudo apt install bison
-
-./configure --enable-cassert --enable-debug CFLAGS="-ggdb -Og -g3 -fno-omit-frame-pointer" --prefix=`pwd`/_install
-
-sudo apt install libreadline-dev
-
-make -j20
-
-make -j20 install
-
-cd src/bin/initdb
-
-
-set follow-fork-mode child
-
-gdb ./_install/bin/postgres
-set follow-fork-mode child
-attach
-
-b epoll_wait
-
-ls -lash /proc/3666998/fd
-
-
-src/backend/storage/buffer/bufmgr.c
-
-
-tar -czvf postgresql_x86-64_linux.tar.gz _install
-
-tar -czvf ../build/postgresql_x86-64_linux_debug_$(date +%Y%m%d-%H%M%S)_$(git rev-parse --short HEAD).tar.gz _install/
-
-```
 
 # compliation
 

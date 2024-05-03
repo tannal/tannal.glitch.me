@@ -1,3 +1,63 @@
+
+# dev
+
+export NODE_OPTIONS='--expose-internals'
+
+./node --inspect-brk=0.0.0.0:9229 test/parallel/test-net-server-close-before-calling-lookup-callback.js
+
+./node test/parallel/test-webstreams-clone-unref.js
+
+./node --inspect-brk=0.0.0.0:9229-node local/fetch.mjs
+
+
+
+
+# setup
+
+```
+git clone https://github.com/tannal/node.git
+
+git remote add upstream https://github.com/nodejs/node
+git fetch upstream v18.x
+
+./configure --ninja --debug --v8-with-dchecks -C
+time make -j23
+
+ninja -C out/Debug/ -t compdb > compile_commands.json
+
+
+```bash
+// .vscode/launch.json
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(lldb) Launch",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/out/Release/node",
+      "args": [
+        "--expose-internals",
+        "test.js"
+      ],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb"
+    }
+  ]
+}
+```
+
+```bash
+"compileCommands": "${workspaceFolder}/out/Debug/compile_commands.json"
+```
+
+```
+
+
+
 # people
 
 involves:ljharb
@@ -14,11 +74,9 @@ involves:mylesborins
 
 # concurrent model
 
-
 node has typically 4-6 platform worker thread
 V8Platform -> NodePlatform class has a reference to worker_thread_task_runner_ which has a reference to threads_
 NodeMainInstance has a reference to a MultiIsolatePlatform
-
 
 node has a watchdog thread
 node_watchdog.h
@@ -120,7 +178,6 @@ JNI in node binding.gyp
 
 ./configure --ninja --debug && make -j22
 
-./node --inspect-brk=0.0.0.0:9229 test/parallel/test-net-server-close-before-calling-lookup-callback.js
 
  make -j4 test (UNIX), or vcbuild test (Windows) passes
 tests and/or benchmarks are includede
@@ -144,7 +201,6 @@ https://github.com/nodejs/node/blob/2a33e950937a2645da9679f19bbdfe18f881dfa6/src
 
 git commit --amend
 
-./node test/parallel/test-webstreams-clone-unref.js
 
 tools/test.py test/parallel/test-stream2-transform.js
 
@@ -253,8 +309,6 @@ node:internal/main/run_main_module
 
 worker thread
 
-./node --inspect-brk=0.0.0.0:9229-node local/fetch.mjs
-
 'use strict';
 
 // Flags: --expose-internals
@@ -283,52 +337,6 @@ uv__getaddrinfo_work
 
 about:debugging
 
-
-# Get the Code, build, running, testing, logging and lsp
-
-```bash
-// .vscode/launch.json
-{
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "name": "(lldb) Launch",
-      "type": "lldb",
-      "request": "launch",
-      "program": "${workspaceFolder}/out/Release/node",
-      "args": [
-        "--expose-internals",
-        "test.js"
-      ],
-      "stopAtEntry": false,
-      "cwd": "${workspaceFolder}",
-      "environment": [],
-      "externalConsole": true,
-      "MIMode": "lldb"
-    }
-  ]
-}
-```
-
-```bash
-"compileCommands": "${workspaceFolder}/out/Debug/compile_commands.json"
-```
-
-```bash
-
-./configure --ninja --debug -C
-
-time make -j22
-
-real    14m31.301s
-user    265m47.070s
-sys     12m22.725s
-
-ninja -C out/Debug/ -t compdb > compile_commands.json
-
-
-```
-
 node env context
 
 isolate
@@ -352,8 +360,6 @@ clangd
 TSServer
 
 [error] TSServer exited. Code: null. Signal: SIGTERM
-
-
 
 
 # community

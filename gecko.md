@@ -1,7 +1,46 @@
+# dev
+
+```
+$env:RUST_LOG="debug"
+
+hg pull && hg update
+
+```
+
+# setup
+
+```bash
+
+sudo apt-get install curl python3 python3-pip
+python3 -m pip install --user mercurial
+curl https://hg.mozilla.org/mozilla-central/raw-file/default/python/mozboot/bin/bootstrap.py -O
+python3 bootstrap.py
+
+cd mozilla-unified
+hg up -C central
+
+./mach build
+./mach ide vscode
+
+
+./mach build-backend --backend=CompileDB
+./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json
+
+find . -name compile_commands.json
+
+ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.json 
+
+RUST_LOG="debug" obj-x86_64-unknown-linux-gnu/dist/bin/firefox -no-remote -P
+RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
+
+```
+
+
 # people
 
 involves:ehsan
 involves:gregorypappas
+involves:emilio
 
 # inbox
 
@@ -226,9 +265,6 @@ PR_Sleep(PR_SecondsToInterval(10));
 
 nsHtml5Parser
 
-
-hg pull && hg update
-
 mk_add_options AUTOCLOBBER=1
 vim mozconfig
 
@@ -243,10 +279,6 @@ ere: https://firefox-source-docs.mozilla.org/setup/configuring_build_options.htm
 To take your build for a test drive, run: |mach run|
 For more information on what to do now, see https://firefox-source-docs.mozilla.org/setup/contributi
 ng_code.html
-
-
-$env:RUST_LOG="debug"
-
 
 Make use of Cargo dependencies, but vendor them in monorepo.
 
@@ -268,49 +300,6 @@ https://www.joshmatthews.net/fosdem/#slide-7
 # Get the code, build, run, debug, logging, lsp
 
 firefox use mercurial instead of git for versioning control.
-
-https://survey.stackoverflow.co/2023/
-
-mach
-
-
-```bash
-
-sudo apt-get install curl python3 python3-pip
-
-python3 -m pip install --user mercurial
-
-curl https://hg.mozilla.org/mozilla-central/raw-file/default/python/mozboot/bin/bootstrap.py -O
-python3 bootstrap.py
-
-cd mozilla-unified
-hg up -C central
-
-./mach build
-
-./mach ide vscode
-
-
-./mach build-backend --backend=CompileDB
-
-./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json
-
-find . -name compile_commands.json
-
-ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.json 
-
-
-RUST_LOG="debug" obj-x86_64-unknown-linux-gnu/dist/bin/firefox -no-remote -P
-RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
-
-```
-
-gfx/
-
-servo/
-
-python/
-
 
 # community
 

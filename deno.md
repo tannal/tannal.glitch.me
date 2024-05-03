@@ -1,7 +1,29 @@
 # people
 
 involves:piscisaureus 
-involves:scott_hammond  
+involves:scott_hammond
+
+
+# setup
+
+```
+
+git clone https://github.com/denoland/deno
+cd ~/tannalwork/projects/deno
+
+git submodule update --init .
+
+sudo apt install protobuf-compiler
+
+cargo test file_fetcher::tests::test_fetch_gzip
+
+cargo test tsc::tests::test_emit_tsbuildinfo
+
+cargo test --package deno --test integration_tests -- integration::repl::console_log --exact --nocapture
+
+cargo test module::module::
+
+```
 
 # inbox
 
@@ -69,25 +91,6 @@ cli/ It's responsible for overseeing tasks such as module loading, security chec
 # build run testing logging
 
 ```bash
-
-git clone https://github.com/denoland/deno
-
-cd ~/tannalwork/projects/deno
-
-git submodule update --init .
-
-
-sudo apt install protobuf-compiler
-
-cargo test
-
-cargo test file_fetcher::tests::test_fetch_gzip
-
-cargo test tsc::tests::test_emit_tsbuildinfo
-
-cargo test --package deno --test integration_tests -- integration::repl::console_log --exact --nocapture
-
-cargo test module::module::
 
 #[test]d
 
