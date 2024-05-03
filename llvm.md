@@ -1,5 +1,10 @@
 # inbox
 
+git remote add upstream https://github.com/llvm/llvm-project
+git remote set-url upstream https://github.com/llvm/llvm-project
+git fetch upstream release/17.x
+git checkout release/17.x
+
 xargs rm < install_manifest.txt
 
 cmake -S llvm -B out/llvm-17/ -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE='Debug' -DLLVM_USE_LINKER=lld -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DLLVM_BUILD_LLVM_DYLIB=ON -DCMAKE_C_FLAGS_DEBUG="-g3 -Og" -DCMAKE_CXX_FLAGS_DEBUG="-g3 -Og" -DCMAKE_INSTALL_PREFIX=/opt/llvm-17/

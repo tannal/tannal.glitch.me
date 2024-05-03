@@ -7,6 +7,11 @@ involves:ggerganov
 
 # inbox
 
+ffmpeg -i J -vn -ar 16000 -ac 2 -ab 160k poor.wav
+
+./main -m models/ggml-large-v3.bin -f poor. -l ja poor.wav
+
+
 sudo dnf install bcc-tools kernel-devel-$(uname -r) kernel-headers-$(uname -r)
 
 export http_proxy=http://10.90.128.8:7890

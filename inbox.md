@@ -1,3 +1,24 @@
+
+# 2024-5-3 0 | 0 W
+
+DXIL
+SPIR-V
+DXBC
+
+hlsl
+https://github.com/MethanePowered/MethaneKit/tree/master/Apps/01-HelloTriangle
+
+glsl
+wgsl
+s-lang
+
+user defined software
+
+https://www.cs.cmu.edu/~fp/
+
+Can you learn/steal/copy something from this?
+
+
 # 2024-5-2 0 | 0 W
 
 valid vs useful
@@ -9,11 +30,8 @@ product manager
 enginner
 researcher
 
+hadoop
 Around 5,000 lines of code for HDFS and 6,000 lines of code for MapReduce were factored out of Nutch's initial code.
-
-2014年8月11日 — Minecraft, written in C++ as well, has somewhere like 500K lines of code.
-50 million lines
-GTA V has more than 100 million
 
 Linux Kernel
 GNU Compiler Collection (GCC)
@@ -185,20 +203,6 @@ cmake -G N2 -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debu
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
-
-The web always win.
-
-Ten years of work, that can boom at least ten years.
-The web is a perfect example which means the mobile will stay here at least to 2027. or even longer
-Because the mobile is just like the web, and the mobile doesn't kill the web.
-And the web can't replace the moible which means that.
-If there is a new platform come out, It can't kill web and mobile.
-the web can't kill it, the mobile can't kill it.
-
-the pc can have web or not, which give the web a change to grow
-the mobile can browse web. the web content mostly also can
-
-
 aarch64-linux-gnu-gcc -c boot.S
 
 nasm -f elf64 program.asm -o program.o
@@ -268,11 +272,6 @@ sudo snap install zig --classic --beta
 
 rustup target add aarch64-unknown-linux-gnu
 ./mach build -t aarch64-unknown-linux-gnu
-
-git remote add upstream https://github.com/llvm/llvm-project
-git remote set-url upstream https://github.com/llvm/llvm-project
-git fetch upstream release/17.x
-git checkout <lbranch>
 
 https://zig.news/kristoff/cross-compile-a-c-c-project-with-zig-3599
 
@@ -394,7 +393,6 @@ https://adobe-webplatform.github.io/about/
 
 involves:LeaVerou
 
-
 # 2024-4-20 0 | 0 W
 
 102nd TC39 meeting (June 11-13, 2024)
@@ -510,23 +508,12 @@ sudo certbot certonly --standalone -d *.tanmeng.org
 
 winget install --id=EFF.Certbot  -e
 
-
-
 # 2024-4-16 0 | 0 W
 
 https://gitlab.freedesktop.org/apinheiro
 Alejandro Piñeiro
 The guy who give the upstream driver to mesa for Raspberrypi 5
 igalian
-
-how many line of codes you written?
-how many line of codes are in production now?
-
-How better you are is defined by how much fatansitic things that you have done before.
-Not your degree, not by face, not by size. 
-Tell others about your story, what you done before? Why you are an amazing person?
-
-The people who steal others algorithm blame the people steam other's code.
 
 javac -encoding utf8 Solution.java
 
@@ -544,8 +531,6 @@ cargo add --git https://github.com/y-crdt/y-crdt y-crdt
 
 find meanings in partial truth
 
-cargo add --git https://github.com/y-crdt/y-crdt y-crdt
-
 git pull -X theirs origin main
 
 sudo stackcount-bpfcc -p 3491 -i 2 --debug "*drm_context_switch*"
@@ -554,94 +539,12 @@ https://www.historyofcomputercommunications.info/
 
 Meaning is all you need.
 
-three things in late 90s
-object oriented programming (dominant codebase)
-graphics user interface (GUI)
-networked computer systems (servers)
-
-What you do when you need something?
-
 if this is posible or not?
 if is not possible -> who tried it? where are the attempt?
-if is possible -> who did it? how they did it? make it better
+if is possible -> who did it? how they did it? Can you make it better?
 
 Science depends on the observable consequences of theories, and
 biology yields testable predictions. Psychology too leads to testable predictions.
-
-History of the computer
-
-electricity and physics pre-1945
-semiconductor and integrated circuits 1950 (bell labs)
-personal computers and operating systems and programming languages 1990
-the web and the internet (gaming) 2000
-the mobile phone (gaming) 2010
-what do we have in 2020? pandemic
-seems like the next things in 2030? is AI?
-
-actually in the 80s because of the big boom of programming languages.
-there was a bunch of scentists which wants to program an AI system.
-
-The sad parts is that academic researchers can't win the fight with entrepreneurs.
-Netscape is the one invent the web, but they don't make the amount of money they deserve.
-Google, Facebook, Netflix, Amazon are the biggest winner of the web and definitely good users of the web.
-We should believe that there is a gap between interface and implementation.
-A good users always won, a good impementor or inventor is just a good user of other things.
-(You can say that the people who invent the web are good users of parsers? layout? typesetting? rendering? networking?)
-They (the inventors of the web) don't invent these things.But they find a good way to fit these kind of beautiful things together.
-
-The same theory applys to me also for ai, may be I don't have thousands of nvidia graphics cards, but the good users always win.
-Be a good user.
-
-
-DARPA
--> Advanced Research Projects Agency Network
--> The Mother of All Demos
--> MIT csail
--> Internet
-
-Xero Alto (America)
--> apple (in the late 80s, jobs claims that web is going to be huge many times)
-  -> microsoft
--> Sun Microsystems Laboratories
--> Adobe
-
-
-I doubt that we will have another browsers war in any time soon (let's say ten years), because microsoft wanted it in 2014, and ms give it up in 2019. Another reason is that the w3c(render engine) and tc39(js engine) now are more powerful that it was in early 2000s or late 90s (they both founded in late 90s), it's no easier to challege the specs, or if you do a brand new browsers in 2024. 
-
-if you fully commited into the spec, you find it hard to write the code. or if you don't fully commited to it, users may say your system is bad.(maybe not). It's hard to do.
-
-Bell labs (America)
--> UNIX
--> semiconductor fun fact the first generation of scientist in the semiconductor industry has all passed way.
--> Intel
--> AMD
--> 
-
-Free Software Movement (Eurpoe) in the era of late 90s
--> GNU
--> Linux
--> web server
--> Netscape (netscape -> mozilla triggers the open source software movement while at that time microsoft's business model is software liscenising and mozilla losts the first web browsers war)
-
--> RedHat
--> apache
--> mozilla
--> github
-
-Internet 2000
-- Facebook
--> Google
-->->Android
-- Apple
-->->ios
-- Netflix
-- Amazon
-
-Mobile phone
-
-
-Tht future
-
 
 
 machine code & assembly
@@ -656,14 +559,10 @@ oop C++
 
 # 2024-4-14 0 | 0 W
 
-A B C D E E E E E E E E 
-
 Dan Ingalls the smalltalk project now at yc combinator research
 
 Programmers want to work on one routine without having to think about all of them at the same time.
 if this is true, when you reading code, you also don't need to think all of them at the same time.
-
-git remote add origin http://git.tanmeng.org/tannal/tannal.git
 
 go install 
 go uninstall
@@ -691,10 +590,6 @@ It's often to give up an abstraction when it's leaking too much or too often.
 
 k8s k3s k0s k9s
 
-if you know what you doing, you can do it.
-because you understand how machine works.
-
-
 git clone https://github.com/ColinIanKing/faultstat
 make
 sudo faultstat 60 1
@@ -705,29 +600,12 @@ then break the loop
 if the result is 0, you are blocking by others.
 
 test and set
-exchange
-
-you can check whether data is right use assert
-you can check whether the code path is right using logging debugging and tracing.(it can be tricky in a concurrent system)
-
-there are some complex things you need to do with a codebase instead of fix some issues or add a small features
-for anything beyond that, it is consider a project, which often involve documents 
-what goals you want to achieve?
-what problems do you want tot solve?
-
-what are the easy way greedy way to do?
-what are the better way to do if any? (you mostly don't need a best way)
-what are the alternative ways?
-
-what's your timeline?
-
-what are the bad things that could happens during the timeline?
+xchg
 
 If a object can reference another object
 it can invoke all the method it has.
 
 the object must knows all the semantics of the another object's methods or functions
-
 
 if a type can reference the anthoer type.
 
@@ -759,7 +637,6 @@ qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "con
 
 -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/
 
-
 The "equalizing" tools help the average programmer when everything works well, but they make it significantly more difficult for them when problems arise. Today's tools have given us many leaky abstractions.
 
 The software is getting worse to write when it becomes easy for customers to use
@@ -773,7 +650,6 @@ https://github.com/search?q=involves%3Ahixie&type=issues
 https://github.com/search?q=involves%3Agrouma&type=issues
 https://github.com/search?q=involves%3Avsmenon&type=issues
 
-
 git clone https://github.com/karpathy/llm.c
 
 watch -n 0.1 nvidia-smi
@@ -786,9 +662,6 @@ OMP_NUM_THREADS=8 ./train_gpt2
 
 ./aliyunpan
 
-false search
-truth search
-
 KDAB
 https://floss.social/@servo
 
@@ -798,13 +671,6 @@ https://github.com/ahayzen
 
 # 2024-4-10 0 | 0 W
 
-
-
-Let the Acutally User write the docs, not the implementer.
-User need to comunicate with implementers, get the right conclusion then write the docs.
-
-
-control character
 content character
 
 inferences can lead to emotions
@@ -831,7 +697,6 @@ OpenGL/GLES
 
 git rm -r --cached 
 
-
 -fverbose-asm -S
 
 10ms
@@ -852,16 +717,6 @@ not what is false
 Philip N. Johnson-Laird
 
 https://www.pnas.org/
-
-simple mind is useful in the current science and math
-
-We only feel bad about two things
-do the wrong thing and get stuck
-
-why some of articles can be read through by i?
-and some of articles can't be read through
-
-objdump -d 
 
 # 2024-4-8 0 | 0 W
 
@@ -896,47 +751,6 @@ $LLVM_DIR/bin/opt -load-pass-plugin ./build/lib/libHelloWorld.so -passes=hello-w
 
 sudo apt install libedit-dev libzstd-dev libcurl4-openssl-dev
 
-  File "/usr/bin/dstat", line 2847, in <module>
-    main()
-  File "/usr/bin/dstat", line 2687, in main
-    scheduler.run()
-  File "/usr/lib/python3.10/sched.py", line 151, in run
-    action(*argument, **kwargs)
-  File "/usr/bin/dstat", line 2804, in perform
-    line = line + o.show() + o.showend(totlist, vislist)
-  File "/usr/bin/dstat", line 519, in show
-    line = line + cprintlist(self.val[name], ctype, self.width, scale)
-  File "/usr/bin/dstat", line 2087, in cprintlist
-    ret = ret + sep + cprint(var, ctype, width, scale)
-  File "/usr/bin/dstat", line 2137, in cprint
-    ret, c = dchg(var, width, base)
-  File "/usr/bin/dstat", line 2037, in dchg
-    ret = str(int(round(var)))
-OverflowError: cannot convert float infinity to integer
-
-
-コンパイラ
-コミット
-
-https://news.ycombinator.com/from?site=google.github.io
-
-https://news.ycombinator.com/from?site=facebook.github.io
-
-https://news.ycombinator.com/from?site=microsoft.github.io
-
-https://news.ycombinator.com/from?site=netflix.github.io
-
-https://news.ycombinator.com/from?site=shopify.github.io
-
-https://news.ycombinator.com/from?site=alibaba.github.io
-
-https://news.ycombinator.com/from?site=apple.github.io
-
-macro_rules!
-enhanced c macro declared
-procdure macro
-
-what comes to your mind when you see this code?
 
 # 2024-4-7 0 | 0 W
 
@@ -952,12 +766,6 @@ strings /home/tannal/.nvm/versions/node/v20.10.0/bin/node | less -plibv8
 
 /home/tannal/tannalwork/projects/v8/v8/third_party/libc++/src/include
 /home/tannal/tannalwork/projects/v8/v8/out/x64.debug/
-
-
-g++ -I/home/tannal/tannalwork/projects/v8/v8/include main.cc -o main -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -L/home/tannal/tannalwork/projects/v8/v8/out.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
-
-
-g++ -I. -Iinclude samples/hello-world.cc -o hello_world -fno-rtti -lv8_monolith -lv8_libbase -lv8_libplatform -ldl -Lout.gn/x64.release.sample/obj/ -pthread -std=c++17 -DV8_COMPRESS_POINTERS -DV8_ENABLE_SANDBOX
 
 gn gen out.gn/x64.release --args="is_debug=false use_glib=false is_component_build=true v8_use_external_startup_data=true v8_static_library=false is_clang = false v8_enable_i18n_support=false target_cpu=\"x64\""
 
@@ -1021,10 +829,6 @@ git config --add remote.origin.proxy ""
 # 2024-4-3 0 | 0 W
 
 https://github.com/linebender/xilem/issues/157
-
-the feeling of catch up and following the context
-you can ignore
-
 
 Oriol Brufau
 
@@ -1111,8 +915,6 @@ cc -o bootstrap bootstrap.c
     b'DOM Worker' [4435]
     1
 
-git remote add origin http://10.90.179.123:3000/tannal/tannal.com.git
-
 rocallahan
 
 https://wicg.io/
@@ -1174,8 +976,6 @@ zulip
 element
 
 Webassembly people https://github.com/WebAssembly/meetings/issues/1463
-
-source /home/tannal/.local/pipx/venvs/numpy/bin/activate
 
 https://groups.google.com/a/chromium.org/g/extensions-dev
 https://groups.google.com/a/chromium.org/g/proto-quic
@@ -1380,36 +1180,13 @@ graphql 2012
 
 Cache npmjs.org registry
 
-
-ffmpeg -hwaccel vulkan -threads 8 -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
-
-ffmpeg -hwaccel cuda -threads 3 -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c:v libx264 -c copy -f hls rtmp://localhost/live/livestream
-
-ffmpeg -hwaccel dxva2 -threads 8 -i Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4 -f lavfi -i aevalsrc=0 -vcodec copy -acodec aac -map 0:0 -map 1:0 -c:v libx264 -pix_fmt yuv420p -shortest -strict experimental -f flv rtmp://192.168.43.246/live/livestream
-
-ffmpeg -hwaccel dxva2 -threads 8 -re -i Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4 -f flv rtmp://192.168.43.246/live/livestream
-
 # 2024-3-22 0 | 0 W
 
 pgrep
 
-ffmpeg -hwaccel cuda -threads 3 -preset ultrafast -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
-
-ffmpeg -hwaccels
-ffmpeg -benchmark -hwaccel vdpau -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -f null -
-
-
-ffmpeg -hwaccel vdpau -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
-
 ls | grep 'I' | sed "s/^/file /g" > playlist.txt
 
 ls | grep I > playlist.txt
-ffmpeg -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -c copy -f hls rtmp://localhost/live/livestream
-
-ffmpeg -re -i 'Ipartment.2009.S01E01.2160p.WEB-DL.H.265.AAC-NueXini@HQC.mp4' -vcodec libx264 -acodec aac -b:v 1m -b:a 320k -f flv rtmp://localhost/live/livestream
-
-tannal@raspi:~/tannalwork/projects/postgres$ sha1sum meson.build 
-fe9053c9c00cd8ceb9622f78da1079fbf91e2e25  meson.buil
 
 git log --graph --decorate --oneline
 
@@ -1470,18 +1247,6 @@ cargo run --example hello-redis
 # 2024-3-21 0 | 0 W
 
 libuv, twisted, tornado, asyncIO, Netty, Boost.Asio
-
-Threads and Processes
-Actor Model:
-Dataflow Programming
-Transactional Memory
-Futures and Promises
-Reactive Programming
-Coroutines
-
-ffmpeg -i J -vn -ar 16000 -ac 2 -ab 160k poor.wav
-
-./main -m models/ggml-large-v3.bin -f poor. -l ja poor.wav
 
 # 2024-3-20 0 | 0 W 
 
@@ -1595,10 +1360,6 @@ sudo trace-bpfcc -UK "do_open" -a
 
 ffmpeg -i C:/test.mp4 -ab 160k -ac 2 -ar 44100 -vn -f segment -segment_time 10 audio%d.wav
 
-
-爱迪生在发明和开发电话的过程中，发现了录音设备。
-电容式话筒是利用声音的大小产生忽变的压降然后经过放大到功放还原我们的声音
-
 nc -l 0.0.0.0 1234 > docs.tar.gz
 nc 192.168.43.1 1235 < docs.tar.gz
 
@@ -1619,7 +1380,6 @@ virtualenv venv
 
 git clone https://github.com/3b1b/manim.git
 pip install -e . -i https://mirrors.sustech.edu.cn/pypi/web/simple
-
 
 sudo apt install wl-clipboard
 
@@ -3104,7 +2864,11 @@ https://github.com/kubernetes/kubernetes/issues/96564
 
 If you don't believe it, you can't understand it.
 
-Flap Hero relies on several excellent third-party libraries: Assimp to load 3D models, SoLoud for audio, stb to load textures and fonts, and GLFW for desktop windowing & input.
+Flap Hero relies on several excellent third-party libraries: 
+Assimp to load 3D models, 
+SoLoud for audio, 
+stb to load textures and fonts, and 
+GLFW for desktop windowing & input.
 
 RCU grace periods
 
@@ -3147,19 +2911,6 @@ The more innovations happens in a field, the less people who in the field know.
 
 https://jakstys.lt/2023/microsoft-git/
 
-
-
-```bash
-
-git clone https://github.com/bytecodealliance/wasmtime.git
-
-git submodule update --init .
-
-cargo build
-
-cargo install --path .
-
-```
 
 # 2024-2-22 | 
 
@@ -5295,11 +5046,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - run: gh repo sync $REPOSITORY -b $BRANCH_NAME
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ github.repository }}
-          BRANCH_NAME: ${{ github.ref_name }}
 
 ```
 
