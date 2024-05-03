@@ -3,6 +3,180 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Ask HN: How does a CPU communicate with a GPU? | Hacker News
+https://news.ycombinator.com/item?id=30860259
+
+The Algorithms Illuminated Book Series
+http://www.algorithmsilluminated.org/
+
+Thomas Zimmermann The Linux Graphics Stack in a Nutshell - YouTube
+https://www.youtube.com/watch?v=RCbxOZ9qYBw
+
+Resource not found | EECS UC Berkeley
+https://people.eecs.berkeley.edu/~bodik/hack_your_language.html
+
+All Posts · baby steps
+https://smallcultfollowing.com/babysteps/blog/
+
+Issue search results
+https://github.com/search?q=involves%3Ahixie&type=issues
+
+Bootstrapping Uber’s Infrastructure on arm64 with Zig | Uber Blog
+https://www.uber.com/en-JP/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Error creating Device · Issue #157 · linebender/xilem
+https://github.com/linebender/xilem/issues/157
+
+Ryan Trimble, UX/UI developer
+https://ryantrimble.com/
+
+mrtrimble/astro-guestbook
+https://github.com/mrtrimble/astro-guestbook
+
+Memory leak regression testing with V8/Node.js, part 3 - heap iteration-based testing | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-3/
+
+node/deps/v8/src/runtime/runtime.h at main · nodejs/node
+https://github.com/nodejs/node/blob/main/deps/v8/src/runtime/runtime.h
+
+danbev/learning-v8: Project for learning V8 internals
+https://github.com/danbev/learning-v8
+
+Bringing JavaScript Back to Life - Joyee Cheung, Igalia - YouTube
+https://www.youtube.com/watch?v=XQIo9knnb2s
+
+Kernel Booting Basics
+https://chat.openai.com/c/688cceff-64c2-4832-8187-4471ac9b7520
+
+542071 - Analyze implementation of closures in V8
+https://bugzilla.mozilla.org/show_bug.cgi?id=542071
+
+[JSConfEU 2011] David Mandelin & David Anderson: JavaScript JITs - YouTube
+https://www.youtube.com/watch?v=Wzcz7VgG9O8
+
+david anderson javascript - Google 搜索
+https://www.google.com/search?q=david+anderson+javascript&sca_esv=9a0c77fca43723a5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ACQVn0-qdSgqVVQ_qBo2GVEZ5KDpN_I5OA%3A1714709738612&ei=6mQ0ZvCBJZ_Cvr0Ps8iggAI&oq=David+Anderson+javasc&gs_lp=Egxnd3Mtd2l6LXNlcnAiFURhdmlkIEFuZGVyc29uIGphdmFzYyoCCAEyBxAhGKABGAoyBxAhGKABGApI00BQ3wVYyjdwAXgBkAEAmAHhAqAB3BCqAQUyLTMuNLgBA8gBAPgBAZgCCKAC_hDCAgoQABiwAxjWBBhHwgIOEC4YgAQYxwEYywEYrwHCAggQABiABBjLAcICCBAuGIAEGMsBwgIKEAAYgAQYChjLAcICBxAAGIAEGArCAgQQABgewgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgKSBwcxLjAuMi41oAePHQ&sclient=gws-wiz-serp
+
+JavaScript | All about Mozilla's JavaScript engine
+https://blog.mozilla.org/javascript/
+
+mozilla.dev.tech.js-engine - Google 网上论坛
+https://groups.google.com/g/mozilla.dev.tech.js-engine
+
+a quick note on JavaScript engine components - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2010/03/a-quick-note-on-javascript-engine-components/
+
+About Me | Nicholas Nethercote
+https://nnethercote.github.io/about-me.html
+
+OPEN SOURCE
+https://www.futurewei.com/index.php/open-source
+
+OpenKiosk
+https://openkiosk.mozdevgroup.com/
+
+1727594 - Borders disappearing on THs with position-sticky
+https://bugzilla.mozilla.org/show_bug.cgi?id=1727594
+
+Issues · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues?page=2&q=is%3Aissue+is%3Aopen+sort%3Acomments-desc
+
+Photo demo
+https://webkit.org/demos/grid3//photos/
+
+An alternative proposal for CSS masonry  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/masonry
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+nodejs/llnode: An lldb plugin for Node.js and V8, which enables inspection of JavaScript states for insights into Node.js processes and their core dumps.
+https://github.com/nodejs/llnode
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+tannal (tannal) / April 2024
+https://github.com/tannal?tab=overview&from=2024-04-01&to=2024-04-30
+
+Repositories
+https://github.com/orgs/bloomberg/repositories
+
+bloomberg/blazingmq: A modern high-performance open source message queuing system
+https://github.com/bloomberg/blazingmq
+
+BlazingMQ: High-performance open source message queuing system | Hacker News
+https://news.ycombinator.com/item?id=36896034
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool
+
+pantor/inja: A Template Engine for Modern C++
+https://github.com/pantor/inja
+
+乌合之众 - Google 搜索
+https://www.google.com/search?q=%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+Frank Pfenning
+https://www.cs.cmu.edu/~fp/
+
+user defined software - Google 搜索
+https://www.google.com/search?q=user+defined+software&rlz=1C1GCEA_enJP1090JP1090&oq=user+defined+software&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGA8YExgeMgoIAhAAGAgYExgeMgoIAxAAGAgYExgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGAUYExgeMgoIBxAAGAgYExgeMgwICBAAGAgYDxgTGB4yCggJEAAYgAQYogTSAQg1NjY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Egorov&sort=byPopularity&type=story
+
+MethaneKit/Apps/01-HelloTriangle at master · MethanePowered/MethaneKit
+https://github.com/MethanePowered/MethaneKit/tree/master/Apps/01-HelloTriangle
+
+shader-slang/slang: Making it easier to work with shaders
+https://github.com/shader-slang/slang
+
+shader-slang/slang: Making it easier to work with shaders
+https://github.com/shader-slang/slang/tree/master
+
+Bootstrapping Uber’s Infrastructure on arm64 with Zig | Uber Blog
+https://www.uber.com/en-US/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/
+
+windows linux 互操作性 - Google 搜索
+https://www.google.com/search?q=windows+linux+%E4%BA%92%E6%93%8D%E4%BD%9C%E6%80%A7&rlz=1C1GCEA_enJP1090JP1090&oq=windows+linux+%E4%BA%92%E6%93%8D%E4%BD%9C%E6%80%A7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQg5MjcxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0&op=translate
+
+MicrosoftEdge/WebView2Feedback: Feedback and discussions about Microsoft Edge WebView2
+https://github.com/MicrosoftEdge/WebView2Feedback
+
+Microsoft Edge WebView2 简介 - Microsoft Edge Developer documentation | Microsoft Learn
+https://learn.microsoft.com/zh-cn/microsoft-edge/webview2/
+
+grumblingdev's comments | Hacker News
+https://news.ycombinator.com/threads?id=grumblingdev
+
+You've got 13 unread messages - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFQQMQFLdrSQmNgNLmSGTQjw
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+Second State
+https://github.com/second-state
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=k8s%20documentary&sort=byPopularity&type=story
 

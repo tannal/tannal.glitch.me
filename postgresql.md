@@ -18,7 +18,7 @@ involves:mhagander
 976 postgres: archiver failed on 000000010000000000000001
 977 postgres: logical replication launcher
 
-pgrep -C
+pgrep -C postgres
 
 \list
 

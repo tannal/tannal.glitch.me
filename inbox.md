@@ -1,6 +1,14 @@
 
 # 2024-5-3 0 | 0 W
 
+106.7 rmb / hour
+15 $ / hour
+
+120 $ day
+
+6 months
+6 * 30 = 180 * 120 = 21600 / 7000
+
 DXIL
 SPIR-V
 DXBC
@@ -645,19 +653,6 @@ The software is getting worse to write when it becomes easy for customers to use
 
 let document = self.documents.borrow().find_document(id);
 
-Flutter Team
-https://github.com/search?q=involves%3Ahixie&type=issues
-https://github.com/search?q=involves%3Agrouma&type=issues
-https://github.com/search?q=involves%3Avsmenon&type=issues
-
-git clone https://github.com/karpathy/llm.c
-
-watch -n 0.1 nvidia-smi
-
-python train_gpt2.py
-make train_gpt2
-make train_gpt2cu
-
 OMP_NUM_THREADS=8 ./train_gpt2
 
 ./aliyunpan
@@ -692,10 +687,8 @@ BEGIN;
 
 ./psql -h 192.168.43.246 -p 5432 -U tannal -d exchange
 
-libglvnd
-OpenGL/GLES
+libglvnd OpenGL/GLES
 
-git rm -r --cached 
 
 -fverbose-asm -S
 
@@ -723,8 +716,6 @@ https://www.pnas.org/
 sudo apt  install protoc-gen-go
 protoc --go_out=. sst.proto
 
-git rm -r --cached examples/*.swap
-git update-index --assume-unchanged examples/*.swap
 
 git clone https://github.com/rr-debugger/rr.git
 rr debugger
@@ -2326,8 +2317,6 @@ cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='D
 ln -sfn ./build/compile_commands.json compile_commands.json 
 
 
-プログラム pur
-
 git clone https://github.com/cinderblock/node-gyp-test.git
 npm install
 npm run build
@@ -2442,7 +2431,13 @@ make it fast
 
 The traditional way to prove that you’ve achieved code execution is by “popping a calc.” 
 
-Mesa is indeed a prominent open-source graphics library that provides implementations for APIs like OpenGL and Vulkan. However, it's primarily used in Unix-like operating systems such as Linux. Windows does not use Mesa by default; instead, it relies on proprietary drivers from hardware vendors like NVIDIA and AMD, as well as its own set of APIs like Direct3D, which are part of the DirectX suite for handling multimedia tasks, including video and game programming. These vendor-specific drivers are optimized for performance on Windows and provide direct support for the GPU hardware they are designed for.
+Mesa is indeed a prominent open-source graphics library that provides implementations for APIs like OpenGL and Vulkan.
+
+Windows does not use Mesa by default; instead, it relies on proprietary drivers from hardware vendors like NVIDIA and AMD, as well as its own set of APIs like Direct3D, 
+ 
+which are part of the DirectX suite for handling multimedia tasks, including video and game programming. 
+ 
+These vendor-specific drivers are optimized for performance on Windows and provide direct support for the GPU hardware they are designed for.
 
 
 sudo apt-get install alsa-base alsa-utils
@@ -2475,19 +2470,7 @@ sudo crontab -e
 
 Get-Content input | node vj.js 
 
-sudo fallocate -l 4G /swapfile
-sudo chmod 600 /swapfile
-sudo mkswap /swapfile
-sudo swapon /swapfile
-sudo swapon --show
-
 sudo apt install libgl-dev libglew-dev
-
-cat /proc/sys/vm/swappiness
-sudo sysctl vm.swappiness=10
-sudo vim /etc/sysctl.conf
-vm.swappiness=10
-
 
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
 export PATH="$PATH":`pwd`/depot_tools
@@ -2508,18 +2491,6 @@ cd out/gyp
 make -f libjpeg.Makefile BUILDTYPE=Release
 cd ../..
 
-There are three tests failed.
-1. Wasi testsuite (macos)
-Test pwrite-with-append failed (this one also fails on my ubuntu machine)
-Test path_link failed
-
-2. CTest on windows server 2022
-wasmedgeLLVMCoreTests
-
-Can I access the log files?
-https://github.com/WasmEdge/WasmEdge/actions/runs/8066637299/job/22035210543?pr=3246#step:8:74
-Cause I only have a ubuntu machine for local testing.
-testsuite
 
 iw wlan0 get power_save
 
@@ -2531,23 +2502,6 @@ his arrangement can be used to perform reduction operations in a distributed man
 
 # 2024-2-29 | W
 
-utilBlake3
-spdlog
-wasmedgeCommon
-wasmedgeSystem
-wasmedgeAOT
-wasmedgeLLVM
-wasmedgeLoaderFileMgr
-wasmedgePO
-wasmedgePlugin
-wasmedgeLoader
-wasmedgeValidator
-wasmedgeExecutor
-wasmedgeHostModuleWasi
-wasmedgeVM
-wasmedgeDriver
-wasmedgeCAPI
-wasmedge_shared
 
 https://mentorship.lfx.linuxfoundation.org/project/df065cf2-c9d2-453f-8624-7d84654d6352
 
@@ -2555,8 +2509,6 @@ I am currently a master's student at National Taiwan University, dept. of CSIE. 
 
 - I like writing in C++, following Hacker News and experimenting with tech tutorials.
 - 3 years of experience writing in C++ and Python through hobby projects at University, internship experience and contributing to qutip-qip (python), scikit-image (python), ns-3(cpp).
-
-I am very interested in playing around with LLMs!
 
 I am a fourth-grade university student studying at the National Tsing Hua University. I have a double major, one is computer science and another is quantitative finance.
 I enrolled in this program goal is to help me improve my technique. Besides that, I want to join an open source project to learn how the modern software development process. I am interested in how to improve CPU performance. This has many attractive topics, and this has many benchmarks to compare. So I think I can through this program learn many things.
@@ -2771,13 +2723,6 @@ https://cloud.google.com/tpu tpu is a money maker for google cloud
 digital archive for research
 computational linguistics NLP
 
-model, code
-
-model -> linear algebra ->  output
-
-model -> linear algebra -> output -> loss -> change model parameter one by one by differential * learning rate
-
-
 
 .\vcpkg install tcmalloc
 .\vcpkg remove --outdated
@@ -2901,10 +2846,6 @@ style -> layout -> render
 SpecialCasing.txt
 Abstraction Discipline
 
-Three Hi
-
-senior means old
-
 While work is making money for a bussiness, why should they work for free?
 
 The more innovations happens in a field, the less people who in the field know.
@@ -2935,35 +2876,6 @@ set_target_properties(LLVMDebugInfoPDB PROPERTIES
   INTERFACE_LINK_LIBRARIES "C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/DIA SDK/lib/amd64/diaguids.lib;LLVMBinaryFormat;LLVMObject;LLVMSupport;LLVMDebugInfoCodeView;LLVMDebugInfoMSF"
 )
 
-
-```bash
-
-{
-    "version": 2,
-    "configurePresets": [
-        {
-            "name": "wasmedge",
-            "displayName": "Clang 17.0.6 x86_64-pc-windows-msvc",
-            "description": "Using compilers: C = C:\\Program Files\\LLVM\\bin\\clang.exe, CXX = C:\\Program Files\\LLVM\\bin\\clang++.exe",
-            "binaryDir": "${sourceDir}/out/build/${presetName}",
-            "generator": "Ni",
-            "cacheVariables": {
-                "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}",
-                "CMAKE_C_COMPILER": "C:/Program Files/LLVM/bin/clang.exe",
-                "CMAKE_CXX_COMPILER": "C:/Program Files/LLVM/bin/clang++.exe",
-                "CMAKE_BUILD_TYPE": "Debug",
-                "CMAKE_SYSTEM_VERSION": "10.0.19041.0",
-                "CMAKE_MSVC_RUNTIME_LIBRARY": "MultiThreadedDLL",
-                "LLVM_DIR": "C:\\Users\\tannal\\Downloads\\LLVM-16.0.6-win64\\lib\\cmake\\llvm",
-                "WASMEDGE_BUILD_TESTS": "ON",
-                "WASMEDGE_BUILD_PACKAGE": "ZIP"
-            }
-        }
-    ]
-}
-
-```
-
 https://lexi-lambda.github.io/about.html
 
 ```bash
@@ -2988,12 +2900,6 @@ cmake --build build
 
 ```
 
-Documentation is not supposed to change frequently.
-
-If it does, means that your interface change a lot and the API is not stable yet.
-
-
-
 https://hackmd.io/@sysprog/ByLJ8DUFT?fbclid=IwAR2ZXqV3Ddv3nSurZcdZINEBv46R-jpZCxa3_cYJa56gCV1j-iNvhLyQSjs
 
 https://twitter.com/jimkxa
@@ -3011,18 +2917,6 @@ https://kennykerrca.wordpress.com/courses/
 https://github.com/microsoft/windows-rs
 
 https://canonical.com/careers/engineering
-
-fractal
-
-chain rule
-
-What you get when you reading.
-
-Math is all about understanding why patterns arise.
-
-odd even odd even
-
-I'm always right even if small wrong.
 
 The sum of the first n odd numbers is n^2
 The sum of the first n even numbers is n^2
@@ -3080,7 +2974,6 @@ projection push down
 
 ggml https://github.com/NVIDIA/TensorRT
 
-
 https://docs.helix-editor.com/keymap.html#view-mode
 
 http://antirez.com/latest/0
@@ -3096,7 +2989,6 @@ Intel Management Engine (ME) 32bit cpu 1.7MB DMA NIC
 pci bus / pcie bus / memory bus
 
 pch sata usb nic pcie attached ssd
-
 
 https://eprint.iacr.org/2016/086.pdf
 
@@ -3139,8 +3031,6 @@ https://www.tesble.com/10.1145/1238844.1238853
 https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
 
 https://timilearning.com/posts/mit-6.824/lecture-3-gfs/
-
-Ceph
 
 https://aods.cryingpotato.com/
 https://.github.io/Pages/
@@ -3280,9 +3170,6 @@ https://sec-wiki.com/
 
 not by design, you have to hack very hard.
 
-git apply --whitespace=
-git apply --whitespace= 
-ls
 qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic -m 1G
 
 
@@ -3316,11 +3203,7 @@ git clone https://github.com/ssloy/tinyrenderer.git
 
 https://www.youtube.com/watch?v=RCbxOZ9qYBw&6m50s
 
-
-
 # 2024-2-16 | 
-
-typst
 
 https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor
 
@@ -3360,7 +3243,6 @@ git clone https://github.com/zpl-c/enet.git
 cmake -B build -DENET_SHARED=1 -DCMAKE_BUILD_TYPE=Release
 
 cmake --build build
-
 
 vcpkg install enet
 
@@ -3438,7 +3320,6 @@ qemu-system-x86_64 \
 
 sudo apt-get install initramfs-tools-core
 
-
 sudo apt-get -y install util-linux
 
 https://dslab.epfl.ch/teaching/pocs/
@@ -3470,8 +3351,6 @@ https://github.com/lpinca
 https://www.youtube.com/watch?v=aKDWWICgfA0
 
 rust apache eclipse mozilla
-
-apache kafka
 
 http://graphics.berkeley.edu/people/jObrien-publications.html
 
@@ -3521,7 +3400,6 @@ https://investors.arm.com/financials/quarterly-annual-results
 
 # 2024-2-13 | 
 
-
 start .
 
 https://github.com/julioromano/skeleton-android
@@ -3535,10 +3413,6 @@ I still should try weird things courageously.
 https://git-scm.com/book/en/v2
 
 Nick hengeveld Git 2005 9.26
-
-git config --global alias.staash 'stash --all'
-
-git config --global alias.bb !better-branch.sh
 
 # 2024-2-10 | 
 
@@ -3590,9 +3464,6 @@ https://css.csail.mit.edu/6.858/2023/
 
 # 2024-2-9 | 
 
-
-
-
 # 2024-2-8 | 
 
 
@@ -3621,15 +3492,6 @@ sudo apt install build-essential
 
 process.stdout.write
 
-The great representations that enable people think about these ideas.
-
-explore 
-
-I need it.
-
-programming vs engineering
-
-
 # 2024-2-5 | 
 
 ttl.sh
@@ -3656,7 +3518,6 @@ mkdir /proc /sys /mnt /media
 
 ```
 
-distributed file system
 ```bash
 
 export PATH=/home/tannal/go/bin:$PATH
@@ -3674,8 +3535,6 @@ https://github.com/seaweedfs/seaweedfs/releases
 https://www.cs.rit.edu/~ats/books/ooc.pdf
 
 pointer wizzling
-
-
 
 # 2024-2-4 | 
 
@@ -3729,7 +3588,6 @@ shared key value service
 x86 gdt
 
 Redhat，SUSE，Cannonical
-
 
 "js/ts.implicitProjectConfig.checkJs": true
 
@@ -3843,36 +3701,6 @@ page table vs page directory
 lock is protect user's concept (logical contents for user, transactions)
 latch is used protect interrnal structure in database. (typical mutex)
 
-```c
-/*
- * Record structure holding the to be exposed cache data.
- */
-typedef struct
-{
-	uint32		bufferid;
-	RelFileNumber relfilenumber;
-	Oid			reltablespace;
-	Oid			reldatabase;
-	ForkNumber	forknum;
-	BlockNumber blocknum;
-	bool		isvalid;
-	bool		isdirty;
-	uint16		usagecount;
-
-	/*
-	 * An int32 is sufficiently large, as MAX_BACKENDS prevents a buffer from
-	 * being pinned by too many backends and each backend will only pin once
-	 * because of bufmgr.c's PrivateRefCount infrastructure.
-	 */
-	int32		pinning_backends;
-} BufferCachePagesRec;
-```
-
-1. You hacks around to get things works.
-2. As time goes on, you find you are doing something wrong.
-3. You throw all the crap away and rewrite the shit.
-4. goto 2
-
 # 2024-2-1 | 
 
 在gradle.properties 文件中添加如下指令：
@@ -3897,6 +3725,7 @@ sudo openssl req -x509 -newkey rsa:1024 -keyout /usr/local/etc/turn_server_pkey.
 
 
 /usr/local/etc/turn_server_pkey.pem
+
 ```bash
 listening-ip=10.0.12.15
 
@@ -3946,9 +3775,6 @@ cd storage
 
 intro verse chorus Interlude verse chorus bridge chorus outro
 
-If you have a constant N, computer still can handle it not matter how big it is.
-But if the N is not a constant, it changes over time(or other things), that does sucks. 
-
 When to give up?
 
 1. When you run out of ideas.
@@ -3959,7 +3785,6 @@ don't really give up, write down your attempt and most time you will come back t
 redshift
 
 # 2024-1-30 | 
-
 
 create table schema catalog
 
@@ -3975,25 +3800,16 @@ https://en.wikipedia.org/wiki/Implicit_learning#cite_note-1
 
 How does a CPU communicate with a GPU? https://news.ycombinator.com/item?id=30860259
 
-What I cannot create, I do not understand
-What I can create, I also do not understand
-
-Once I can understand, but I can not create it anymore.
-
 NAND2TETRIS
 CS61C
 Computer Architecture: A Quantitative Approach and Computer Organization and Design: RISC-V edition
 Onur Mutlu's lectures
 
 
-people can create something they don't quite understand it.
-
-
+```
 $env:ANDROID_HOME="C:\Users\tannal\AppData\Local\Android\Sdk"
 [System.Environment]::SetEnvironmentVariable('ANDROID_HOME', 'C:\Users\tannal\AppData\Local\Android\Sdk', [System.EnvironmentVariableTarget]::User)
-
-set ANDROID_HOME=C:\Users\tannal\AppData\Local\Android\Sdk
-
+```
 
 _install/include/pgtypes_numeric.h
 
@@ -4013,9 +3829,6 @@ typedef struct
 
 ```bash
 
-set http_proxy=http://192.168.43.1:7890
-set https_proxy=http://192.168.43.1:7890
-
 git clone https://github.com/MetaCubeX/ClashMetaForAndroid
 
 git submodule update --init --recursive
@@ -4027,7 +3840,6 @@ gradlew.bat app:assembleMeta-AlphaRelease --scan -Dfile.encoding=GBK
 gradlew.bat app:assembleMeta-AlphaRelease
 
 ```
-
 
 getconf LEVEL1_DCACHE_LINESIZE
 
@@ -4041,8 +3853,6 @@ export CC=/usr/bin/clang
 export CXX=/usr/bin/clang++
 
 $env:VERBOSE = "TRUE"
-$env:CC = "TRUE"
-$env:CXX = "TRUE"
 
 cmake --build build
 
@@ -4273,7 +4083,6 @@ llvm::IRbuilder
 Entry Basic Block
 Control Flow Blocks
 
-
 # 2024-1-27 | 
 
 llvm-config 
@@ -4310,7 +4119,6 @@ CMakeUserPresets.json – user-specific
 
 llvm compilers
 plrt v8 jsc toit dart spidermonkey cpython
-
 
 # 2024-1-26 | 
 
@@ -4610,8 +4418,6 @@ tensor operations
 
 automatic differentiation
 
-algorithms
-
 Numerical Symbolic Automatic
 
 operations such as transposition and
@@ -4696,8 +4502,6 @@ Hans Wennborg
 cmake --build build --target clean
 cmake -S . -B build -G Ninja
 cmake --build build 
-
-wsl
 
 chocolatey winget
 
@@ -4797,9 +4601,7 @@ pre-commit install-hooks
 
 ```
 
-106.7 rmb / hour
 
-15 $ / hour
 
 https://github.com/franneck94
 
@@ -4866,10 +4668,6 @@ https://boringtechnology.club/
 Hopefully with all of the above terms fresh in your memory the FAQ will make a lot more sense to you; I know it did for me. (For example, Wayland relies on EGL because it's the only GL platform interface on Linux that doesn't itself rely on Xlib; because Nvidia's driver targets GLX, it won't work with Wayland.)
 
 Things are not like you doing a test/problem, you neither pass or failed.
-
-Problems would change in the real world.If you do it right in the past, that doesn't mean you would do it right in the same way now.
-
-You always have bugs, and you need constantly changing.
 
 https://www.imperialviolet.org/posts-index.html
 
@@ -5004,8 +4802,6 @@ editor live edit
 adb devices
 adb tcpip 5555
 adb connect 192.168.43.58:5555
-
-
 adb disconnect 192.168.43.58
 
 
@@ -5132,7 +4928,6 @@ SPIR-V instruction set
 https://llvm.org/OpenProjects.html#gsoc24
 
 # 2024-1-18 |
-
 
 gaming in linux valve proton wine
 

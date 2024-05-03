@@ -1,3 +1,16 @@
+# swap file
+
+sudo fallocate -l 4G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+sudo swapon --show
+sudo swapoff -a
+
+cat /proc/sys/vm/swappiness
+sudo sysctl vm.swappiness=10
+sudo vim /etc/sysctl.conf
+vm.swappiness=10
 
 # Relational Operator in golang
 
@@ -1168,6 +1181,16 @@ git remote add origin http://git.tanmeng.org/tannal/bitcask-kv-go.git
 git push -u origin main
 
 # git
+
+git apply --whitespace=
+
+git config --global alias.staash 'stash --all'
+git config --global alias.bb !better-branch.sh
+
+git rm -r --cached examples/*.swap
+git update-index --assume-unchanged examples/*.swap
+
+git rm -r --cached 
 
 git pull --ff-only
 git pull --rebase

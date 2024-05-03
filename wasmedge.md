@@ -2,6 +2,48 @@
 
 # inbox
 
+{
+    "version": 2,
+    "configurePresets": [
+        {
+            "name": "wasmedge",
+            "displayName": "Clang 17.0.6 x86_64-pc-windows-msvc",
+            "description": "Using compilers: C = C:\\Program Files\\LLVM\\bin\\clang.exe, CXX = C:\\Program Files\\LLVM\\bin\\clang++.exe",
+            "binaryDir": "${sourceDir}/out/build/${presetName}",
+            "generator": "Ni",
+            "cacheVariables": {
+                "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}",
+                "CMAKE_C_COMPILER": "C:/Program Files/LLVM/bin/clang.exe",
+                "CMAKE_CXX_COMPILER": "C:/Program Files/LLVM/bin/clang++.exe",
+                "CMAKE_BUILD_TYPE": "Debug",
+                "CMAKE_SYSTEM_VERSION": "10.0.19041.0",
+                "CMAKE_MSVC_RUNTIME_LIBRARY": "MultiThreadedDLL",
+                "LLVM_DIR": "C:\\Users\\tannal\\Downloads\\LLVM-16.0.6-win64\\lib\\cmake\\llvm",
+                "WASMEDGE_BUILD_TESTS": "ON",
+                "WASMEDGE_BUILD_PACKAGE": "ZIP"
+            }
+        }
+    ]
+}
+
+utilBlake3
+spdlog
+wasmedgeCommon
+wasmedgeSystem
+wasmedgeAOT
+wasmedgeLLVM
+wasmedgeLoaderFileMgr
+wasmedgePO
+wasmedgePlugin
+wasmedgeLoader
+wasmedgeValidator
+wasmedgeExecutor
+wasmedgeHostModuleWasi
+wasmedgeVM
+wasmedgeDriver
+wasmedgeCAPI
+wasmedge_shared
+
 export PATH=/home/tannal/tannalwork/projects/wasmEdge/_install/bin/:$PATH
 
 b resolvePath
