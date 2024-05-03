@@ -1,3 +1,150 @@
+# dev
+
+```md
+<!-- Please describe your changes on the following line: -->
+''=
+
+---
+<!-- Thank you for contributing to Servo! Please replace each `[ ]` by `[X]` when the step is complete, and replace `___` with appropriate data: -->
+- [ ] `./mach build -d` does not report any errors
+- [ ] `./mach test-tidy` does not report any errors
+- [ ] These changes fix #___ (GitHub issue number if applicable)
+
+<!-- Either: -->
+- [ ] There are tests for these changes OR
+- [ ] These changes do not require tests because ___
+
+<!-- Also, please make sure that "Allow edits from maintainers" checkbox is checked, so that we can help you if you get stuck somewhere along the way.-->
+
+<!-- Pull requests that do not address these steps are welcome, but they will require additional verification as part of the review process. -->
+
+```
+
+./mach run -d -- --debug help
+
+$env:RUST_LOG="debug" # Setting environment variable
+
+rust-gdb ./target/debug/servo
+
+./target/debug/servo ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
+r ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
+./mach run -d -- ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
+./mach run -d -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
+
+r ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
+
+b components/layout_2020/table/layout.rs:411
+
+./mach run --debugger=rr -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
+
+./mach run -d -- --debug dump-display-list test.html -z
+
+./mach run --pref dom.svg.enabled https://vuejsfeed.com/
+./mach run --pref dom.svg.enabled https://hn.algolia.com/ -i -y 1 2>&1 | % {
+    # Adding timestamp using Get-Date and formatting output
+    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
+} | Out-File -FilePath "log.txt"
+
+./mach test-tidy --no-progress --all
+
+RUST_LOG="debug" ./mach run -d -- http://192.168.43.1:8080/quill.html -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html 2>&1 | tee /tmp/log.txt
+./mach run ~/tannalwork/cans/test.html 
+
+
+./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/css-values/calc-size/animatio
+n/calc-size-height-interpolation.tentative.html
+
+./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html
+
+./mach test-wpt ./tests/wpt/tests/css/css-values/calc-size/animation/calc-size-height-interpolation.tentative.html
+./mach test-wpt ./tests/wpt/tests/css/css-borders/tentative/parsing/border-bottom-radius-valid.html
+
+
+RUST_LOG="debug" ./mach run about:blank --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach run about:blank -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
+
+./mach test-wpt ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
+
+./mach test-wpt ./tests/wpt/tests/workers/postMessage*
+./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/workers/postMessage*
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/whitespace.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+./mach test-unit --nocapture -- test_column_width
+
+
+./mach run -d -- -Z dump-style-tree
+./mach run -d -- -Z help
+./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-indent*
+./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-transform* 
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://www.baidu.com 2>&1 | tee /tmp/log.txt
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://youtube.com
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb http://browserbench.org/Speedometer/
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb http://localhost:8000/css/CSS2/cascade/inherit-computed-001.html
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/event.html 
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/cascade/inherit-computed-001.html
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/css-tables-example8.html
+
+RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/parser.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/tables/empty-cells-no-interpolation.html
+RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/xhr/send-redirect.htm
+RUST_LOG="debug" ./mach run baidu.com --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
+
+# setup
+
+```bash
+
+git clone https://github.com/servo/servo/
+sudo apt install python3.10-venv
+export PIP_EXTRA_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+mach bootstrap
+mach build
+
+sudo apt update && sudo apt install git python3-pip m4
+git clone https://www.github.com/servo/servo
+pip install virtualenv --break-system-packages
+curl --proto 'ls=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+./mach bootstrap
+
+time ./mach build
+
+
+```
+
+```json
+// .vscode/settings.json
+{
+    "rust-analyzer.check.overrideCommand": [
+        "./mach", "check", "--message-format=json" ],
+    "rust-analyzer.cargo.buildScripts.overrideCommand": [
+        "./mach", "check", "--message-format=json" ],
+    "rust-analyzer.rustfmt.overrideCommand": [ "./mach", "fmt" ],
+}
+
+
+{
+    "rust-analyzer.check.overrideCommand": [
+        "./mach.bat", "check", "--message-format=json" ],
+    "rust-analyzer.cargo.buildScripts.overrideCommand": [
+        "./mach.bat", "check", "--message-format=json" ],
+    "rust-analyzer.rustfmt.overrideCommand": [ "./mach.bat", "fmt" ],
+}
+
+
+```
+
+
+
 # people
 
 Daniel Adams
@@ -14,31 +161,13 @@ involves:mrego
 involves:atbrakhi
 involves:Loirooriol
 
-# dev
 
 # inbox
-
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://www.baidu.com 2>&1 | tee /tmp/log.txt
-
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb https://youtube.com
 
 set logging enabled on
 
 set breakpoint pending on
 rb ::*
-
-RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
-
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ./tests/wpt/tests/html/semantics/embedded-content/the-video-element/video_size_preserved_after_ended.html 2>&1 | tee /tmp/log.txt
-
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/event.html 
-
-
-RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/cascade/inherit-computed-001.html
-
-
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb http://browserbench.org/Speedometer/
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb http://localhost:8000/css/CSS2/cascade/inherit-computed-001.html
 
 A Pipeline is the constellation's view of a Window. Each pipeline has an event loop (executed by a script thread). A script thread may be responsible for many pipelines.
 
@@ -62,8 +191,6 @@ pub struct App {
 ```
 App->servo->
 
-
-
 App->minibrwser->
 embedder
 
@@ -85,7 +212,6 @@ FlexFlow
 - Vec<FlexItem>
 - Vec<FlexLine>
 
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/css-tables-example8.html
 
 style
 gfx
@@ -95,14 +221,6 @@ surfman
 
 b document.rs:666
 
-RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/CSS2/tables/empty-cells-no-interpolation.html
-
-
-RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/xhr/send-redirect.htm
-
-
-
-RUST_LOG="debug" ./mach run baidu.com --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
 
 
 https://groups.google.com/g/mozilla.dev.servo
@@ -121,7 +239,7 @@ https://github.com/servo/servo/ m1[00/20218
     </script>
 ```
 
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/parser.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
 
 Pipeline
 -EventLoop
@@ -134,7 +252,7 @@ modified:   tests/wpt/meta/workers/postMessage_block.https.html.ini
 IntersectionObserver
 Navigation API
 
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb  -- -Z dump-style-tree ~/tannalwork/cans/whitespace.html -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
+
 
 [2024-04-04T00:54:36Z ERROR script::dom::bindings::error] Error at file:///home/tannal/tannalwork/cans/whitespace.html:15:5 navigation is not defined
 
@@ -163,16 +281,6 @@ Keegan McAllister https://github.com/kmcallister
 invovles:kmcallister
 SharedArrayBuffer
 
-RUST_LOG="debug" ./mach run about:blank --debugger-cmd=rust-gdb -i -y 1 /tmp/a.html 2>&1 | tee /tmp/log.txt
-
-RUST_LOG="debug" ./mach run about:blank -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
-
-RUST_LOG="debug" ./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
-
-./mach test-wpt ./tests/wpt/tests/html/browsers/browsing-the-web/navigating-across-documents/initial-empty-document/load-pageshow-events-iframe-contentWindow.html
-
-./mach test-wpt ./tests/wpt/tests/workers/postMessage*
-./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/workers/postMessage*
 
 script thread 
 #[derive(Debug)]
@@ -196,19 +304,6 @@ Constellation forward event to script
 
 set logging enabled on
 
-RUST_LOG="debug" ./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html 2>&1 | tee /tmp/log.txt
-
-
-./mach run ~/tannalwork/cans/test.html 
-
-
-./mach test-wpt --debugger=rust-gdb ./tests/wpt/tests/css/css-values/calc-size/animatio
-n/calc-size-height-interpolation.tentative.html
-
-./mach run --debugger-cmd=rust-gdb ~/tannalwork/cans/test.html
-
-./mach test-wpt ./tests/wpt/tests/css/css-values/calc-size/animation/calc-size-height-interpolation.tentative.html
-./mach test-wpt ./tests/wpt/tests/css/css-borders/tentative/parsing/border-bottom-radius-valid.html
 
 tokio thread tokio::runtime::blocking::pool::Spawner::spawn_thread
 
@@ -238,8 +333,6 @@ https://github.com/servo/servo/issues/23865
 https://github.com/servo/servo/issues/24901
 https://github.com/servo/servo/issues/25514
 
-./mach run -d -- ~/tannalwork/cans/test.html -Z dump-style-tree
-./mach run -d -- -Z dump-style-tree
 
 	bubble-inline-sizes-separately      Bubble intrinsic widths separately like other engines.
 	convert-mouse-to-touch              Send touch events instead of mouse events
@@ -268,11 +361,6 @@ https://github.com/servo/servo/issues/25514
 	wr-stats                            Show WebRender profiler on screen.
 
 
-./mach run -d -- -Z help
-
-./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-indent*
-
-./mach test-wpt ./tests/wpt/tests/css/CSS2/text/text-transform* 
 
 canvas/offscreen
 
@@ -286,17 +374,11 @@ document_from_node
 cssparser
     tokenizer
 
-./mach test-unit --nocapture -- test_column_width
 
 rust-gdb /vagrant/target/debug/deps/libzfs-37d0dad38d98d030
 
 r --test
 
-./mach test-tidy --no-progress --all
-
-[2024-03-19T11:47:14Z DEBUG script::dom::htmlscriptelement] script type=
-
-RUST_LOG="debug" ./mach run -d -- http://192.168.43.1:8080/quill.html -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
 
 
 servo
@@ -349,25 +431,6 @@ https://github.com/search?q=repo%3Achromium%2Fchromium+text-transform&type=commi
 
 
 https://github.com/servo/servo/commits?author=sagudev CI
-
-./mach run -d -- --debug help
-
-$env:RUST_LOG="debug" # Setting environment variable
-
-rust-gdb ./target/debug/servo
-
-./target/debug/servo ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
-r ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
-./mach run -d -- ./tests/wpt/tests/css/css-text/text-transform/math/text-transform-math-auto-001.html
-./mach run -d -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
-
-r ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
-
-b components/layout_2020/table/layout.rs:411
-
-./mach run --debugger=rr -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
-
-./mach run -d -- --debug dump-display-list test.html -z
 
 
 rust default allocator is jemalloc
@@ -434,11 +497,7 @@ HTMLInputElement
 
 components\script\dom\htmlinputelement.rs
 
-./mach run --pref dom.svg.enabled https://vuejsfeed.com/
-./mach run --pref dom.svg.enabled https://hn.algolia.com/ -i -y 1 2>&1 | % {
-    # Adding timestamp using Get-Date and formatting output
-    "$(Get-Date -Format "HH:mm:ss.fff"): $_"
-} | Out-File -FilePath "log.txt"
+
 
 box and interator in rust
 
@@ -583,21 +642,7 @@ vs_BuildTools.exe^
 $ v := vec(x_1, x_2, x_3) $
 
 
-```bash
 
-git clone https://github.com/servo/servo/
-
-sudo apt install python3.10-venv
-
-export PIP_EXTRA_INDEX_URL=https://pypi.tuna.tsinghua.edu.cn/simple
-
-pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
-
-mach bootstrap
-
-mach build
-
-```
 
 
 https://starters.servo.org/
@@ -618,49 +663,6 @@ In components/script, remove unsafe JS related code
 
  creating a rooted JSObject
 
-```md
-<!-- Please describe your changes on the following line: -->
-''=
-
----
-<!-- Thank you for contributing to Servo! Please replace each `[ ]` by `[X]` when the step is complete, and replace `___` with appropriate data: -->
-- [ ] `./mach build -d` does not report any errors
-- [ ] `./mach test-tidy` does not report any errors
-- [ ] These changes fix #___ (GitHub issue number if applicable)
-
-<!-- Either: -->
-- [ ] There are tests for these changes OR
-- [ ] These changes do not require tests because ___
-
-<!-- Also, please make sure that "Allow edits from maintainers" checkbox is checked, so that we can help you if you get stuck somewhere along the way.-->
-
-<!-- Pull requests that do not address these steps are welcome, but they will require additional verification as part of the review process. -->
-
-```
-
-# Vscode setup
-
-```json
-// .vscode/settings.json
-{
-    "rust-analyzer.check.overrideCommand": [
-        "./mach", "check", "--message-format=json" ],
-    "rust-analyzer.cargo.buildScripts.overrideCommand": [
-        "./mach", "check", "--message-format=json" ],
-    "rust-analyzer.rustfmt.overrideCommand": [ "./mach", "fmt" ],
-}
-
-
-{
-    "rust-analyzer.check.overrideCommand": [
-        "./mach.bat", "check", "--message-format=json" ],
-    "rust-analyzer.cargo.buildScripts.overrideCommand": [
-        "./mach.bat", "check", "--message-format=json" ],
-    "rust-analyzer.rustfmt.overrideCommand": [ "./mach.bat", "fmt" ],
-}
-
-
-```
 
 
 # layout 2020
@@ -726,45 +728,6 @@ cross platform windows linux macos android
 
 embeddedable dioxus tauri Delta chat
 
-
-```bash
-
-
-sudo apt update
-
-sudo apt install git
-
-git clone https://www.github.com/tannal/tannalwork/
-
-git submodule update --init .
-
-git clone https://www.github.com/servo/servo
-
-
-# sudo apt install python3-pip python-is-python3l
-
-pip install virtualenv --break-system-packages
-curl --proto 'ls=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-./mach bootstrap
-
-sudo apt install m4
-
-time ./mach build
-
-# on my arm cortex A76 raspi 5
-
-real	10m56.115s
-user	32m57.548s
-sys	3m14.510s
-
-
-./mach build
-./mach run
-
-
-```
-
 dependency bot update dependecies version
 
 jsdom jest
@@ -774,10 +737,6 @@ take advantage of dom implementation of servo
 create 
 
 Q: Where does the code change window sizing
-
-
-00.382039:  [2024-01-19T05:42:55Z WARN  constellation::constellation] Trying to get an event-loop from an unknown browsing context group
-
 
 window
   headed_window
@@ -825,7 +784,6 @@ native fullscreen
 
 fullscreen web api
 
-
 # code search
 
 Matching complex selector
@@ -848,7 +806,6 @@ $env:RUST_LOG="debug" # Setting environment variable
 ./mach test-wpt tests/wpt/tests/dom/events/relatedTarget.window.js
 
 llvm git cmake python python-virtualenv wixtoolset ninja vs2019
-
 
 sudo apt install libopts25-dev m4
 sudo apt install libots-dev
