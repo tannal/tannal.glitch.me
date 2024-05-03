@@ -1,6 +1,8 @@
 
 # 2024-5-3 0 | 0 W
 
+involves:mmomtchev
+
 gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace /vmlinux
 
 ./usr/gen_initramfs.sh -o ~/tannalwork/projects/kerneldev/initramfs.img ~/tannalwork/projects/kerneldev/root

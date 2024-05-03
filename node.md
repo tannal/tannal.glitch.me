@@ -9,6 +9,25 @@ export NODE_OPTIONS='--expose-internals'
 
 ./node --inspect-brk=0.0.0.0:9229-node local/fetch.mjs
 
+source ~/tannalwork/projects/v8/v8/tools/gdbinit
+
+# inbox
+
+https://stackoverflow.com/questions/27842281/unknown-events-in-nodejs-v8-flamegraph-using-perf-events
+
+sudo perf record -F 99 -p `pgrep -n node` -g -- sleep 30
+sudo perf script > out.nodestacks01
+
+./stackcollapse-perf.pl < ~/tannalwork/projects/node/out.nodestacks01 | ./flamegraph.pl > ./out.nodestacks01.svg
+
+./node_g --prof ~/tannalwork/cans/add.js
+
+./node_g --prof-process isolate-*.log > processed.txt
+
+jst jco job
+
+Serilizer
+HeapObject
 
 
 # setup
@@ -377,3 +396,58 @@ https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
  7: 0x55af34df043f  [./node_g]
  8: 0x55af34df0a07 v8::internal::Runtime_DebugBreakOnBytecode(int, unsigned long*, v8::internal::Isolate*) [./node_g]
  9: 0x55aed5885476 
+
+
+  1: 0x56282d88fd3c node::DumpNativeBacktrace(_IO_FILE*) [./node_g]
+ 2: 0x56282dac0ca1  [./node_g]
+ 3: 0x56282dac0cc5  [./node_g]
+ 4: 0x56283019e692 V8_Fatal(char const*, int, char const*, ...) [./node_g]
+ 5: 0x56283019e6db  [./node_g]
+ 6: 0x56282ea85f44 v8::internal::DebugInfo::DebugBytecodeArray(v8::internal::Isolate*) [./node_g]
+ 7: 0x56282ea8b852 v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+ 8: 0x56282eac18b5 v8::internal::Serializer::ObjectSerializer::VisitPointers(v8::internal::Tagged<v8::internal::HeapObject>, v8::internal::FullMaybeObjectSlot, v8::internal::FullMaybeObjectSlot) [./node_g]
+ 9: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+10: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+11: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+12: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+13: 0x56282ea8b27d v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+14: 0x56282eac18b5 v8::internal::Serializer::ObjectSerializer::VisitPointers(v8::internal::Tagged<v8::internal::HeapObject>, v8::internal::FullMaybeObjectSlot, v8::internal::FullMaybeObjectSlot) [./node_g]
+15: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+16: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+17: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+18: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+19: 0x56282ea8b457 v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+20: 0x56282eac18b5 v8::internal::Serializer::ObjectSerializer::VisitPointers(v8::internal::Tagged<v8::internal::HeapObject>, v8::internal::FullMaybeObjectSlot, v8::internal::FullMaybeObjectSlot) [./node_g]
+21: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+22: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+23: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+24: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+25: 0x56282ea8b600 v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+26: 0x56282eac18b5 v8::internal::Serializer::ObjectSerializer::VisitPointers(v8::internal::Tagged<v8::internal::HeapObject>, v8::internal::FullMaybeObjectSlot, v8::internal::FullMaybeObjectSlot) [./node_g]
+27: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+28: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+29: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+30: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+31: 0x56282ea8b27d v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+32: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+33: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+34: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+35: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+36: 0x56282ea8b27d v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+37: 0x56282eac18b5 v8::internal::Serializer::ObjectSerializer::VisitPointers(v8::internal::Tagged<v8::internal::HeapObject>, v8::internal::FullMaybeObjectSlot, v8::internal::FullMaybeObjectSlot) [./node_g]
+38: 0x56282e78f038  [./node_g]
+39: 0x56282e7c6c34 v8::internal::HeapObject::IterateBody(v8::internal::Tagged<v8::internal::Map>, int, v8::internal::ObjectVisitor*) [./node_g]
+40: 0x56282eac27ea v8::internal::Serializer::ObjectSerializer::SerializeContent(v8::internal::Tagged<v8::internal::Map>, int) [./node_g]
+41: 0x56282eac68ec v8::internal::Serializer::ObjectSerializer::Serialize(v8::internal::SerializerDeserializer::SlotType) [./node_g]
+42: 0x56282ea8b06b v8::internal::CodeSerializer::SerializeGeneric(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+43: 0x56282ea8b600 v8::internal::CodeSerializer::SerializeObjectImpl(v8::internal::Handle<v8::internal::HeapObject>, v8::internal::SerializerDeserializer::SlotType) [./node_g]
+44: 0x56282eabf14b v8::internal::Serializer::VisitRootPointers(v8::internal::Root, char const*, v8::internal::FullObjectSlot, v8::internal::FullObjectSlot) [./node_g]
+45: 0x56282ea8473d v8::internal::CodeSerializer::SerializeSharedFunctionInfo(v8::internal::Handle<v8::internal::SharedFunctionInfo>) [./node_g]
+46: 0x56282ea861f7 v8::internal::CodeSerializer::Serialize(v8::internal::Isolate*, v8::internal::Handle<v8::internal::SharedFunctionInfo>) [./node_g]
+47: 0x56282de00ff9 v8::ScriptCompiler::CreateCodeCacheForFunction(v8::Local<v8::Function>) [./node_g]
+48: 0x56282d981553 node::builtins::BuiltinLoader::SaveCodeCache(char const*, v8::Local<v8::Function>) [./node_g]
+49: 0x56282d981482 node::builtins::BuiltinLoader::LookupAndCompileInternal(v8::Local<v8::Context>, char const*, std::vector<v8::Local<v8::String>, std::allocator<v8::Local<v8::String> > >*, node::Realm*) [./node_g]
+50: 0x56282d981a88 node::builtins::BuiltinLoader::LookupAndCompile(v8::Local<v8::Context>, char const*, node::Realm*) [./node_g]
+51: 0x56282d9833c2 node::builtins::BuiltinLoader::CompileFunction(v8::FunctionCallbackInfo<v8::Value> const&) [./node_g]
+52: 0x5627cf3d2ba2 
+Trace/breakpoint trap (core dumped)
