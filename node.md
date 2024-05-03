@@ -13,6 +13,8 @@ source ~/tannalwork/projects/v8/v8/tools/gdbinit
 
 # inbox
 
+node::StreamBase::WriteString<(node::encoding)1>
+
 Runtime_LoadPropertyWithInterceptor
 
 sudo perf trace -e 'syscalls:sys_enter_read,syscalls:sys_exit_read,syscalls:sys_enter_write,syscalls:sys_exit_write' -p `pgrep -n node` -o io_events.trace sleep 30
