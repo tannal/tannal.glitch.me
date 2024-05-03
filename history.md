@@ -1,5 +1,71 @@
 # 2024-5-3
 
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Intermittent TIMEOUT in /html/semantics/embedded-content/the-iframe-element/sandbox-top-navigation-user-activation-sticky.tentative.sub.window.html · Issue #32154 · servo/servo
+https://github.com/servo/servo/issues/32154
+
+Philip Chimento - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=++Philip+Chimento
+
+Philip Chimento | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/pchimento
+
+ptomato (Philip Chimento)
+https://github.com/ptomato
+
+GNOME JavaScript
+https://gjs.guide/
+
+GNOME JavaScript spidermonkey - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=GNOME+JavaScript+spidermonkey
+
+Files · master · GNOME / gjs · GitLab
+https://gitlab.gnome.org/GNOME/gjs/-/tree/master
+
+Havoc's Blog
+https://blog.ometer.com/
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+Node.js Technical Steering Committee (TSC) Meeting 2024-05-01 · Issue #1544 · nodejs/TSC
+https://github.com/nodejs/TSC/issues/1544
+
+Node.js Technical Steering Committee (TSC) Meeting 2024-05-01 - Google Docs
+https://docs.google.com/document/d/1grrYyfcP2sTI9-T1VFXpp_Msy7LJPHvmU6CB9zqNuu0/edit
+
+Pointer machine - Wikipedia
+https://en.wikipedia.org/wiki/Pointer_machine
+
+Excalidraw
+https://excalidraw.com/
+
+DAG vs tree - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=DAG+vs+tree
+
+DAG = Tree?. Refer this link for all DSA articles | by Tarun Jain | Medium
+https://tarunjain07.medium.com/dag-tree-5cc71c2c0c85
+
+llvm debug log enable - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=llvm+debug+log+enable#ip=1
+
+llvm bbwl - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=llvm+bbwl
+
+LLVM: llvm::SCCPSolver Class Reference
+https://llvm.org/doxygen/classllvm_1_1SCCPSolver.html
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Running 64- and 32-bit RISC-V Linux on QEMU — RISC-V - Getting Started Guide
+https://risc-v-getting-started-guide.readthedocs.io/en/latest/linux-qemu.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

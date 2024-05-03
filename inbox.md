@@ -1,6 +1,76 @@
 
 # 2024-5-3 0 | 0 W
 
+
+./usr/gen_initramfs.sh -o ~/tannalwork/projects/kerneldev/initramfs.img ~/tannalwork/projects/kerneldev/root
+
+qemu-system-riscv64 -kernel arch/riscv/boot/Image \
+    -initrd initramfs.cpio.gz -nographic \
+    -append "console=ttyS0 ip=dhcp" \
+    -serial mon:stdio
+
+qemu-system-x86_64 -kernel ~/tannalwork/qemu-workspace/bzImage \
+    -initrd /home/tannal/tannalwork/projects/kerneldev/initramfs.img -nographic \
+    -append "console=ttyS0" \
+    -serial mon:stdio \
+    -monitor none \
+    -enable-kvm \
+    -m 4G
+
+```
+
+cd linux
+usr/gen_initramfs.sh -o ./initramfs.img ./root ./cpio_list
+```
+
+./usr/gen_initramfs.sh -o ~/tannalwork/projects/kerneldev/initramfs.img ~/tannalwork/projects/kerneldev/root ~/tannalwork/projects/kerneldev/cpio_list
+
+export CROSS_COMPILE=riscv64-linux-gnu-
+export DESTDIR="~/tannalwork/projects/linux/box" && make -j22 install
+
+#!/bin/sh
+
+mount -t proc none /proc
+mount -t sysfs none /sys
+mount -t debugfs none /sys/kernel/debug
+
+
+ln -sf /dev/null /dev/tty2
+ln -sf /dev/null /dev/tty3
+ln -sf /dev/null /dev/tty4
+ 
+echo -e "\nBoot took $(cut -d' ' -f1 /proc/uptime) seconds\n"
+ 
+sh
+
+qemu-system-riscv64 -kernel arch/riscv/boot/Image \
+    -initrd initramfs.img -nographic \
+    -append "console=ttyS0"
+
+qemu-system-riscv64 -nographic -machine virt \
+     -kernel arch/riscv/boot/Image -append "root=/dev/vda ro console=ttyS0" \
+     -drive file=busybox/busybox,format=raw,id=hd0 \
+     -device virtio-blk-device,drive=hd0
+
+git clone https://git.busybox.net/busybox
+CROSS_COMPILE=riscv64-linux-gnu- make defconfig
+CROSS_COMPILE=riscv64-linux-gnu- make -j $(nproc)
+
+
+make ARCH=riscv CROSS_COMPILE=aarch64-linux-gnu- defconfig
+make ARCH=riscv CROSS_COMPILE=aarch64-linux-gnu- -j $(nproc)
+
+make ARCH=riscv CROSS_COMPILE=riscv64-linux-gnu- defconfig
+make ARCH=riscv CROSS_COMPILE=riscv64-linux-gnu- -j $(nproc)
+
+riscv64-linux-gnu-gcc
+
+You find a concept, when you know a word(symbol) to refer it.
+You understand a concept, when you can come up with a sentences that contains the word(symbol) and with a posiibility of whether it is true or false.
+You familar with a concept, when your predicition is good enough to fool other people.
+
+Philip Chimento 
+
 106.7 rmb / hour
 15 $ / hour
 

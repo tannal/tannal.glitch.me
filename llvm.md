@@ -1,5 +1,12 @@
 # inbox
 
+$LLVM_DIR/bin/clang -S -emit-llvm ./host/test.c -o test.ll
+
+$LLVM_DIR/bin/opt test.ll -passes=loop-unroll -disable-output -S -o example_unrolled.ll
+
+PreservedAnalyses LoopVectorizePass::run(Function &F,
+                                         FunctionAnalysisManager &AM)
+
 git remote add upstream https://github.com/llvm/llvm-project
 git remote set-url upstream https://github.com/llvm/llvm-project
 git fetch upstream release/17.x
