@@ -21,12 +21,14 @@ qemu-system-x86_64 -kernel ~/tannalwork/qemu-workspace/bzImage \
     -serial mon:stdio
 
 qemu-system-x86_64 -kernel ~/tannalwork/qemu-workspace/bzImage \
-    -initrd /home/tannal/tannalwork/projects/kerneldev/initramfs.img -nographic \
-    -append "console=ttyS0 ip=dhcp" \
-    -serial mon:stdio \
+    -initrd /home/tannal/tannalwork/projects/kerneldev/initramfs.img \
     -monitor none \
     -enable-kvm \
-    -m 4G
+    -nographic \
+    -monitor none \
+    -append "console=ttyS0 nokaslr ip=dhcp" \
+    -m 4G \
+    -serial mon:stdio
 
 ```
 

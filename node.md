@@ -11,16 +11,15 @@ export NODE_OPTIONS='--expose-internals'
 
 
 
-
 # setup
 
-```
+```bash
 git clone https://github.com/tannal/node.git
 
 git remote add upstream https://github.com/nodejs/node
 git fetch upstream v18.x
 
-./configure --ninja --debug --v8-with-dchecks -C
+./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd)
 time make -j23
 
 ninja -C out/Debug/ -t compdb > compile_commands.json
@@ -53,9 +52,6 @@ ninja -C out/Debug/ -t compdb > compile_commands.json
 ```bash
 "compileCommands": "${workspaceFolder}/out/Debug/compile_commands.json"
 ```
-
-```
-
 
 
 # people
@@ -370,3 +366,14 @@ TSServer
 
 https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
 
+# appendix
+
+ 1: 0x55af33c8fd3c node::DumpNativeBacktrace(_IO_FILE*) [./node_g]
+ 2: 0x55af33ec0ca1  [./node_g]
+ 3: 0x55af33ec0cc5  [./node_g]
+ 4: 0x55af3659e692 V8_Fatal(char const*, int, char const*, ...) [./node_g]
+ 5: 0x55af3659e6db  [./node_g]
+ 6: 0x55af34475607 v8::internal::Debug::Break(v8::internal::JavaScriptFrame*, v8::internal::Handle<v8::internal::JSFunction>) [./node_g]
+ 7: 0x55af34df043f  [./node_g]
+ 8: 0x55af34df0a07 v8::internal::Runtime_DebugBreakOnBytecode(int, unsigned long*, v8::internal::Isolate*) [./node_g]
+ 9: 0x55aed5885476 
