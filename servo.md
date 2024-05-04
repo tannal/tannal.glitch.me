@@ -116,6 +116,16 @@ RUST_LOG="debug" ./mach run baidu.com --debugger-cmd=rust-gdb -i -y 1 /tmp/a.htm
 
 # setup
 
+    Updating git repository `https://github.com/servo/media`
+    Updating git repository `https://github.com/servo/webxr`
+    Updating git repository `https://github.com/servo/stylo`
+    Updating git repository `https://github.com/servo/webrender`
+    Updating git repository `https://github.com/servo/rust-cssparser`
+    Updating git repository `https://github.com/servo/fontsan`
+    Updating git repository `https://github.com/pcwalton/signpost.git`
+    Updating git repository `https://github.com/gfx-rs/wgpu`
+    Updating git repository `https://github.com/servo/mozjs`
+
 ```bash
 
 git clone https://github.com/servo/servo/
