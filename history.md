@@ -1,3 +1,74 @@
+# 2024-5-4
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · cksystemsteaching/selfie
+https://github.com/cksystemsteaching/selfie/issues?q=is%3Aissue+clang+is%3Aclosed
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Leaks on example.com · Issue #32223 · servo/servo
+https://github.com/servo/servo/issues/32223
+
+Add `--with-asan` option by sagudev · Pull Request #31429 · servo/servo
+https://github.com/servo/servo/pull/31429/files
+
+rust flamegraph - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=rust+flamegraph#ip=1
+
+https://www.youtube.com/watch?v=Sy26IMkOEiM
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DSy26IMkOEiM&q=EhAkAIkFAAAAAPA8lP_-y9l4GO391bEGIjB-h1tiQTssLKpzwLoXjxagBxE9_QIu_b7ly0uDAC-TRC9AlhyjoJNAsdM5PzG1hckyAXJaAUM
+
+Issues · servo/mozjs
+https://github.com/servo/mozjs/issues?q=is%3Aissue+debug+symbol+is%3Aclosed
+
+Issue search results
+https://github.com/search?q=repo%3Aservo%2Fservo+Profiler&type=issues
+
+Build a webgl profiler · Issue #21150 · servo/servo
+https://github.com/servo/servo/issues/21150
+
+Webgl profiling by cbrewster · Pull Request #22130 · servo/servo
+https://github.com/servo/servo/pull/22130
+
+<stdint.h>
+https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/stdint.h.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Linux `perf record --append` option missing - Stack Overflow
+https://stackoverflow.com/questions/62488604/linux-perf-record-append-option-missing
+
+Source Level Debugging with LLVM — LLVM 19.0.0git documentation
+https://llvm.org/docs/SourceLevelDebugging.html
+
+linux - How can I get perf to find symbols in my program - Stack Overflow
+https://stackoverflow.com/questions/10933408/how-can-i-get-perf-to-find-symbols-in-my-program
+
+812070 - Greatly speed up fix-linux-stack.pl
+https://bugzilla.mozilla.org/show_bug.cgi?id=812070
+
+Microsoft PowerPoint - debugging_intro - debugging_intro.pdf
+https://doc.zih.tu-dresden.de/software/misc/debugging_intro.pdf
+
+Run a PostgreSQL .sql file using command line arguments - Stack Overflow
+https://stackoverflow.com/questions/9736085/run-a-postgresql-sql-file-using-command-line-arguments
+
+Yjs CodeMirror Example
+http://192.168.43.246:3000/codemirror/codemirror.html
+
+Support compile_commands.json · Issue #3545 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/3545
+
+Wario Stadium - Mario Kart DS - noclip
+http://noclip.website/#mkds/stadium_course;ShareData=AH?kvUce|Q9QvM_UG]7C=@vin5eCdrUm6|_UIbHZWHUi*9PKBQ9Y|cwUiPKd=a
+
 # 2024-5-3
 
 stackoverflow.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
