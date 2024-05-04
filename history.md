@@ -1,5 +1,50 @@
 # 2024-5-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+embedded - Difference between arm-none-eabi and arm-linux-gnueabi? - Stack Overflow
+https://stackoverflow.com/questions/38956680/difference-between-arm-none-eabi-and-arm-linux-gnueabi
+
+Cargo Fails to Cross-Compile due to Linker Errors · Issue #9673 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/9673
+
+inflation (Inflation)
+https://github.com/inflation
+
+Cross-Compiling Your Project in Rust
+https://www.tangramvision.com/blog/cross-compiling-your-project-in-rust
+
+cross-rs/cross: “Zero setup” cross compilation and “cross testing” of Rust crates
+https://github.com/cross-rs/cross
+
+Issues · rust-lang/rust
+https://github.com/rust-lang/rust/issues
+
+Prevent using the default `cc` when that'd result in a broken build by pietroalbini · Pull Request #111351 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/111351
+
+cargo bootstrap - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cargo+bootstrap
+
+rust/src/ci/docker/host-x86_64/dist-aarch64-linux/Dockerfile at 2c4bf249bd47f232de3c1e78ffe69b40c29bfcca · rust-lang/rust
+https://github.com/rust-lang/rust/blob/2c4bf249bd47f232de3c1e78ffe69b40c29bfcca/src/ci/docker/host-x86_64/dist-aarch64-linux/Dockerfile
+
+cross compiling - How to install a Rust target for a specific rustup toolchain? - Stack Overflow
+https://stackoverflow.com/questions/53210121/how-to-install-a-rust-target-for-a-specific-rustup-toolchain
+
+windows - How do I compile a cargo project for other platforms? - Stack Overflow
+https://stackoverflow.com/questions/75728110/how-do-i-compile-a-cargo-project-for-other-platforms
+
+Issue search results
+https://github.com/search?q=owner%3Aw3c+%22contenteditable%22+video+element&type=issues
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Building · Search · GitLab
+https://gitlab.com/search?search=Building&nav_source=navbar&project_id=21180784&search_code=true&repository_ref=master
+
 startup.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

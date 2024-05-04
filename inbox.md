@@ -1,5 +1,7 @@
 # 2024-5-4 0 | 0 W
 
+sudo apt install build-essential curl nasm libgmp-dev libmpfr-dev libmpc-dev exuberant-ctags
+
 
 the good parts
 the hacking parts
