@@ -1,8 +1,12 @@
 # 2024-5-4 0 | 0 W
 
-export CC_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-gcc
-export AR_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-ar
-export CXX_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-g++
+qemu-aarch64 -L /usr/aarch64-linux-gnu/ out/arm64.debug/d8
+
+sudo apt install g++-aarch64-linux-gnu gcc-aarch64-linux-gnu
+
+export CC_aarch64_unknown_linux_gnu=aarch64-linux-gnu-gcc
+export AR_aarch64_unknown_linux_gnu=aarch64-linux-gnu-ar
+export CXX_aarch64_unknown_linux_gnu=aarch64-linux-gnu-g++
 
 cargo build --target aarch64-unknown-linux-gnu
 
