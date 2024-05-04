@@ -1,5 +1,11 @@
 # 2024-5-4 0 | 0 W
 
+export PATH=/usr/aarch64-linux-gnu/:$PATH
+
+ln -sfn /usr/bin/aarch64-linux-gnu-gcc /usr/aarch64-linux-gnu/cc 
+
+ln -sfn /run/systemd/resolve/resolv.conf /etc/resolv.conf
+
 qemu-aarch64 -L /usr/aarch64-linux-gnu/ out/arm64.debug/d8
 
 sudo apt install g++-aarch64-linux-gnu gcc-aarch64-linux-gnu
