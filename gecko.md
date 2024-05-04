@@ -7,6 +7,12 @@ hg pull && hg update
 
 ```
 
+# inbox
+
+sudo perf record --call-graph dwarf -F 99 -p 182782 -g -- sleep 30
+sudo perf script > ./graph/out.firefoxgpustacks01
+./stackcollapse-perf.pl < ./graph/out.firefoxgpustacks01 | ./flamegraph.pl > ./graph/out.firefoxgpustacks01.svg
+
 # setup
 
 ```bash

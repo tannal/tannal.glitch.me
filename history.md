@@ -3729,7 +3729,7 @@ webview/webview: Tiny cross-platform webview library for C/C++. Uses WebKit (GTK
 https://github.com/webview/webview?tab=readme-ov-file
 
 brendangregg/FlameGraph: Stack trace visualizer
-https://github.com/brendangregg/FlameGraph
+https://github.com/brendangregg/FlanmeGraph
 
 CPU Flame Graphs
 https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html

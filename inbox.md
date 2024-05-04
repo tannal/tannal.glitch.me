@@ -1,5 +1,7 @@
 # 2024-5-4 0 | 0 W
 
+gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace/vmlinux
+
 
 It was removed quite a while ago, see https://lore.kernel.org/patchwork/patch/391730/ and related discussion here: https://marc.info/?l=linux-kernel&m=137031146932578&w=2. Looks like the way --append is implemented is rather simple: simply by changing the write mode of profiling data to "append", and it doesn't work well with perf report, so they decided to remove it.
 
@@ -11,7 +13,7 @@ addr2line
 
 involves:mmomtchev
 
-gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace /vmlinux
+gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace/vmlinux
 
 ./usr/gen_initramfs.sh -o ~/tannalwork/projects/kerneldev/initramfs.img ~/tannalwork/projects/kerneldev/root
 

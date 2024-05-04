@@ -1,6 +1,14 @@
 
 # dev
 
+
+sudo perf record --call-graph dwarf -F 99 -p 174161 -g -- sleep 30
+sudo perf script > ./graph/out.chromiumgpuprocstacks01
+./stackcollapse-perf.pl < ./graph/out.chromiumstacks01 | ./flamegraph.pl > ./graph/out.chromiumstacks01.svg
+
+./stackcollapse-perf.pl < ./graph/out.chromiumgpuprocstacks01 | ./flamegraph.pl > ./graph/out.chromiumgpuprocstacks01.svg
+
+
 ./out/Default/chrome bilibili.com 
 --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
 
