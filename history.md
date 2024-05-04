@@ -1,5 +1,179 @@
 # 2024-5-4
 
+startup.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+nodejs源码分析 - 知乎
+https://www.zhihu.com/column/c_1094251741922619392
+
+(8 封私信 / 80 条消息) theanarkh - 知乎
+https://www.zhihu.com/people/theanarkh/posts
+
+树莓派实验室 | Raspberry Pi中文资讯站，提供丰富的树莓派使用教程和DIY资讯
+https://shumeipai.nxez.com/
+
+brendangregg/FlameGraph: Stack trace visualizer
+https://github.com/brendangregg/FlameGraph
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+netdev in 2023 — Jakub Kicinski
+https://people.kernel.org/kuba/netdev-in-2023
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+tannal (Meng Tan)
+https://huggingface.co/tannal
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#execution-context-stack
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+• Discord | #general | noclip.website
+https://discord.com/channels/551621619152584706/551621619152584712
+
+Behind the Code: Designing Raz's Jump | Double Fine Productions
+https://www.doublefine.com/news/devin-article-raz-jump
+
+eLinux.org
+https://elinux.org/Main_Page
+
+Experts - eLinux.org
+https://elinux.org/Experts
+
+Companies - eLinux.org
+https://elinux.org/Companies
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Execution%20Contexts&sort=byPopularity&type=story
+
+Understanding JavaScript Execution Context like never before | Hacker News
+https://news.ycombinator.com/item?id=23488020
+
+The Ultimate Guide to Hoisting, Scopes, and Closures in JavaScript
+https://ui.dev/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+blink-dev - Google 网上论坛
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+explainers/css/find-in-page/README.md at 66623464ba1f2410a130d687116302b4a30b1148 · Igalia/explainers
+https://github.com/Igalia/explainers/blob/66623464ba1f2410a130d687116302b4a30b1148/css/find-in-page/README.md
+
+[css-pseudo-4] Add highlight pseudo for in-page search · Issue #3812 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/3812#issuecomment-2047241516
+
+Repository search results
+https://github.com/search?q=repo%3AIgalia%2Fexplainers++language%3AHTML&type=code
+
+Igalia/explainers: Igalia Explainers
+https://github.com/Igalia/explainers
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+git.tanmeng.org/tannal/flamegraph/raw/branch/main/graph/out.firefoxgpustacks01.svg
+http://git.tanmeng.org/tannal/flamegraph/raw/branch/main/graph/out.firefoxgpustacks01.svg
+
+javascript - Do <script> elements work inside an SVG file, inside an HTML file? - Stack Overflow
+https://stackoverflow.com/questions/23818698/do-script-elements-work-inside-an-svg-file-inside-an-html-file
+
+Including JavaScript in SVG - Stack Overflow
+https://stackoverflow.com/questions/5378559/including-javascript-in-svg
+
+javascript - Blocked script execution in because the document's frame is sandboxed - Angular application - Stack Overflow
+https://stackoverflow.com/questions/24531061/blocked-script-execution-in-because-the-documents-frame-is-sandboxed-angular
+
+Happier - YouTube
+https://www.youtube.com/watch?v=kfCTO9PPtVo
+
+Selena Gomez, Marshmello - Wolves - YouTube
+https://www.youtube.com/watch?v=cH4E_t3m3xM
+
+GitHub
+https://github.com/
+
+Code search results
+https://github.com/search?q=owner%3Aservo%20mozjs%20pre%20build&type=code
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+• Discord | 好友
+https://discord.com/channels/@me
+
+Android 14 on Raspberry Pi 5!? (KonstaKANG) #android14 #Pi5 - YouTube
+https://www.youtube.com/watch?v=p9JctN0_b5I
+
+Amazon | Deals
+https://www.amazon.com/deals?&linkCode=sl2&tag=samuraiteache-20&linkId=54e1c4a93dc988af2b1615ac34ff49d7&language=en_US&ref_=as_li_ss_tl
+
+AOSP (Android 14) for Raspberry Pi 5
+https://konstakang.com/devices/rpi5/AOSP14/
+
+raspberry-vanilla/android_local_manifest
+https://github.com/raspberry-vanilla/android_local_manifest
+
+关于树莓派5 | 树莓派实验室
+https://shumeipai.nxez.com/raspberry-pi-5
+
+使用FFmpeg进行HEVC编码的简易指南——CRF、CBR、2-Pass等 - 实时互动网
+https://www.nxrte.com/jishu/22502.html
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+GitHub
+https://github.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=why%20frontend&sort=byPopularity&type=story
+
+Why is Front-End Development So Unstable?
+https://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues?page=7&q=is%3Aissue+is%3Aopen
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bunc&sort=byPopularity&type=story
+
+Bun — A fast all-in-one JavaScript runtime
+https://bun.sh/
+
+Issues · rust-windowing/winit
+https://github.com/rust-windowing/winit/issues?q=is%3Aissue+is%3Aopen+Raspberrypi
+
+src: make sure pass the cli_options to worker by theanarkh · Pull Request #52827 · nodejs/node
+https://github.com/nodejs/node/pull/52827
+
+node/src/node_worker.cc at 71a1fa3043d495dfaa2105d07cd090c51bcd8eed · nodejs/node
+https://github.com/nodejs/node/blob/71a1fa3043d495dfaa2105d07cd090c51bcd8eed/src/node_worker.cc#L536
+
+Issue search results
+https://github.com/search?q=involves%3Atheanarkh&type=issues
+
+flamegraph/out.nodestacks01.svg 位于 main - flamegraph - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/flamegraph/src/branch/main/graph/out.nodestacks01.svg
+
+Datadog, Inc.
+https://github.com/DataDog
+
+Engineering | Datadog Careers
+https://careers.datadoghq.com/engineering/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

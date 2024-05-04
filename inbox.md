@@ -1,5 +1,23 @@
 # 2024-5-4 0 | 0 W
 
+
+the good parts
+the hacking parts
+
+https://tc39.es/ecma262/#execution-context-stack
+
+106.7 rmb / hour 15 $ / hour 120$ day
+
+120 * 30 = 3600 a month
+
+if A then B doesn't matter
+
+what does it means if A(B) is true(false) matters?
+the logical is 
+what meanings of A and B matters?
+ 
+the only things that matters is meaning.
+
 export PATH=/usr/aarch64-linux-gnu/:$PATH
 
 ln -sfn /usr/bin/aarch64-linux-gnu-gcc /usr/aarch64-linux-gnu/cc 
