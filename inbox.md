@@ -1,5 +1,14 @@
 # 2024-5-4 0 | 0 W
 
+export CC=aarch64-linux-gnu-gcc
+export CXX=aarch64-linux-gnu-g++
+export cc=aarch64-linux-gnu-gcc
+export cxx=aarch64-linux-gnu-g++
+
+RUSTFLAGS='-C link-arg=--sysroot=/usr/aarch64-linux-gnu/' cargo build --target aarch64-unknown-linux-gnu
+
+rustup target add aarch64-unknown-none
+
 export CC_aarch64_unknown_none=/home/tannal/Downloads/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf/bin/aarch64-none-elf-gcc
 export CXX_aarch64_unknown_none=/home/tannal/Downloads/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf/bin/aarch64-none-elf-g++
 
