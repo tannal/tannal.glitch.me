@@ -1,6 +1,13 @@
 # dev
 
 
+https://developer.arm.com/-/media/Files/downloads/gnu-a/9.2-2019.12/binrel/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf.tar.xz
+
+export PKG_CONFIG_SYSROOT_DIR=/usr/aarch64-linux-gnu/
+./mach build -t aarch64-unknown-linux-gnu
+
+./mach run --pref dom.webgpu.enabled https://demo.servo.org/experiments/webgpu-game-of-life/
+
 ./mach run http://browserbench.org/Speedometer/
 
 sudo perf record -F 99 -p `pgrep -n servo` -g -- sleep 30

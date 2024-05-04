@@ -1,5 +1,59 @@
 # 2024-5-4
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Build a webgl profiler · Issue #21150 · servo/servo
+https://github.com/servo/servo/issues/21150
+
+Webgl profiling by cbrewster · Pull Request #22130 · servo/servo
+https://github.com/servo/servo/pull/22130/commits
+
+cbrewster (Connor Brewster)
+https://github.com/cbrewster
+
+Comparing servo:main...cbrewster:webgl_profile · servo/servo
+https://github.com/servo/servo/compare/main...cbrewster:servo:webgl_profile
+
+the speed of light - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=the+speed+of+light
+
+is computer fast than speed of light - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=is+computer+fast+than+speed+of+light#ip=1
+
+google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Physics/comments/2svg7f/is_it_possible_to_make_a_virtual_object_move/&ved=2ahUKEwip2Y-NkPOFAxXAlK8BHSCrDG8QFnoECD4QAQ&usg=AOvVaw0xtriIeOQWXIeICQg_S637
+https://www.reddit.com/r/Physics/comments/2svg7f/is_it_possible_to_make_a_virtual_object_move/
+
+That's completely false. The speed of light *today* already constrains processor... | Hacker News
+https://news.ycombinator.com/item?id=12384596
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=A%20set%20of%20processors%20can%0Abe%20interconnected%20with%20both%20excitatory%20and%20inhibitory%20links%2C%20and%20the%20whole%0Asystem%20may%20take%20several%20iterations%20of%20signaling%20before%20it%20settles%20down%2C%20one%20way%0Aor%20another%2C%20in%20a%20stable%20way.%20Which%20way%20it%20goes%20depends%20on%20several%20factors.%20Our%0Aage%20matters%3A%20infants%20and%20children%20do%20not%20suppress%20behaviors%20for%20the%20sake%20of%0Asocial%20decorum.%20But%20we%20also%20differ%20from%20one%20another.%20&op=translate
+
+git delete branch - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=git+delete+branch
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Directory structure* - The Servo Book
+https://book.servo.org/architecture/directory-structure.html
+
+image-rs
+https://github.com/image-rs
+
+#general > aarch64-unkown-linux-gnu build failed with ld error - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/aarch64-unkown-linux-gnu.20build.20failed.20with.20ld.20error
+
+Invalid `aarch64-unknown-none` target produced if the `CC_aarch64_unknown_none` env var is not set · Issue #111142 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/111142
+
+rust/src/ci/docker/host-x86_64/dist-various-1/Dockerfile at 2c4bf249bd47f232de3c1e78ffe69b40c29bfcca · rust-lang/rust
+https://github.com/rust-lang/rust/blob/2c4bf249bd47f232de3c1e78ffe69b40c29bfcca/src/ci/docker/host-x86_64/dist-various-1/Dockerfile#L136
+
+cross compiling - Downloading gcc-arm-10.2-2020.11-x86_64-aarch64-none-linux-gnu from source, failed building libc - Stack Overflow
+https://stackoverflow.com/questions/73257134/downloading-gcc-arm-10-2-2020-11-x86-64-aarch64-none-linux-gnu-from-source-fail
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

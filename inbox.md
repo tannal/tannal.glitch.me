@@ -1,5 +1,12 @@
 # 2024-5-4 0 | 0 W
 
+export CC_aarch64_unknown_none=/home/tannal/Downloads/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf/bin/aarch64-none-elf-gcc
+export CXX_aarch64_unknown_none=/home/tannal/Downloads/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf/bin/aarch64-none-elf-g++
+
+git branch -d webgl-profile
+
+git cherry-pick 
+
 gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace/vmlinux
 
 
@@ -180,7 +187,7 @@ sudo apt install valac-bin valac-0.56-vapi libgtk-4-dev libgee-0.8-dev libadwait
 
 aarch64-unknown-gnu-linux
 
-export PKG_CONFIG_SYSROOT_DIR=/usr/aarch64-linux-gnu-gcc
+export PKG_CONFIG_SYSROOT_DIR=/usr/aarch64-linux-gnu/
 
 qemu-system-x86_64 -kernel ./iso/boot/bzImage \
     -initrd initramfs.cpio.gz -nographic \
