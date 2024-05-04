@@ -1,11 +1,10 @@
 # 2024-5-4 0 | 0 W
 
-export CC=aarch64-linux-gnu-gcc
-export CXX=aarch64-linux-gnu-g++
-export cc=aarch64-linux-gnu-gcc
-export cxx=aarch64-linux-gnu-g++
+export CC_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-gcc
+export AR_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-ar
+export CXX_aarch64_unknown_linux_gnu=aarch64-unknown-linux-gnu-g++
 
-RUSTFLAGS='-C link-arg=--sysroot=/usr/aarch64-linux-gnu/' cargo build --target aarch64-unknown-linux-gnu
+cargo build --target aarch64-unknown-linux-gnu
 
 rustup target add aarch64-unknown-none
 
