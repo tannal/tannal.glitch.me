@@ -1,5 +1,65 @@
 # 2024-5-4
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Julia Evans (@b0rk@jvns.ca) - Mastodon
+https://mastodon.social/@b0rk@jvns.ca
+
+wizard zines
+https://wizardzines.com/
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool
+
+[PATCH 08/23] perf record: Remove -A/--append option - Arnaldo Carvalho de Melo
+https://lore.kernel.org/lkml/1373483963-19277-9-git-send-email-acme@infradead.org/
+
+zng/examples at main · zng-ui/zng
+https://github.com/zng-ui/zng/tree/main/examples#border
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Issue search results
+https://github.com/search?q=involves%3Anull77&type=issues
+
+Doesn't respond just throttles cpu · Issue #256 · Pulover/PuloversMacroCreator
+https://github.com/Pulover/PuloversMacroCreator/issues/256
+
+tangrams/harfbuzz-example: Harfbuzz text-shaping example with OpenGL using Freetype
+https://github.com/tangrams/harfbuzz-example
+
+apache/kafka: Mirror of Apache Kafka
+https://github.com/apache/kafka
+
+Issue search results
+https://github.com/search?q=involves%3Aggerganov&type=issues
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+Alexays/Waybar: Highly customizable Wayland bar for Sway and Wlroots based compositors. :tada:
+https://github.com/Alexays/Waybar
+
+qemu-user-binfmt - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=qemu-user-binfmt
+
+beaufortfrancois (François Beaufort)
+https://github.com/beaufortfrancois?tab=repositories
+
+Issues · beaufortfrancois/webgpu-cross-platform-app
+https://github.com/beaufortfrancois/webgpu-cross-platform-app/issues?q=is%3Aissue+is%3Aclosed
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+git.tanmeng.org/tannal/flamegraph/raw/branch/main/graph/out.firefoxgpustacks01.svg
+http://git.tanmeng.org/tannal/flamegraph/raw/branch/main/graph/out.firefoxgpustacks01.svg
+
+David Ahern — people.kernel.org
+https://people.kernel.org/dsahern/
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
