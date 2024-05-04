@@ -1,5 +1,24 @@
 # inbox
 
+ActOnDeclarator
+clang::Sema::ActOnDeclarator
+
+
+
+sudo perf record --call-graph dwarf  -F 99 -p 14546 -g -- sleep 30
+
+sudo perf record -F 99 -p $(pidof /opt/llvm/clang -c ~/tannalwork/) -g -- sleep 30
+export CC=/opt/llvm-17/bin/clang
+export CXX=/opt/llvm-17/bin/clang++
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+sudo perf record -F 99 -p `pgrep -n cc1` -g -- sleep 30
+sudo perf record -F 99 -p `pgrep -n ` -g -- sleep 30
+
+sudo perf script > out.clangstacks01
+./stackcollapse-perf.pl < out.clangstacks01 | ./flamegraph.pl > ./out.clangstacks01.svg
+
+
 $LLVM_DIR/bin/clang -S -emit-llvm ./host/test.c -o test.ll
 
 $LLVM_DIR/bin/opt test.ll -passes=loop-unroll -disable-output -S -o example_unrolled.ll

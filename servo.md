@@ -1,5 +1,14 @@
 # dev
 
+
+./mach run http://browserbench.org/Speedometer/
+
+sudo perf record -F 99 -p `pgrep -n servo` -g -- sleep 30
+sudo perf script > out.servostacks01
+
+./stackcollapse-perf.pl < out.servostacks01 | ./flamegraph.pl > ./out.servostacks01.svg
+
+
 ```md
 <!-- Please describe your changes on the following line: -->
 ''=

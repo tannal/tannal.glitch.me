@@ -6,6 +6,26 @@ r -D data/
 
 set follow-fork-mode child
 
+# inbox
+
+pgrep -a postgres
+
+./psql -h 192.168.43.95 -p 5432 -U tannal -d postgres 
+
+sudo perf record -F 99 -p 27184 -g -- sleep 30
+sudo perf script > out.postgresstacks01
+./stackcollapse-perf.pl < out.postgresstacks01 | ./flamegraph.pl > ./out.postgresstacks01.svg
+
+
+sudo perf record -F 99 -p 27184 -g -- sleep 30
+sudo perf script > out.postgresreadstacks01
+./stackcollapse-perf.pl < out.postgresreadstacks01 | ./flamegraph.pl > ./out.postgresreadstacks01.svg
+
+
+\i ~/tannalwork/cans/ddd.sql
+
+sudo perf record -F 99 -p 27184 -g -- sleep 30
+
 
 # setup
 
@@ -31,6 +51,7 @@ involves:bmomjian
 involves:anarazel
 involves:mhagander
 
+
 # inbox
 
 
@@ -44,7 +65,6 @@ involves:mhagander
 976 postgres: archiver failed on 000000010000000000000001
 977 postgres: logical replication launcher
 
-pgrep -C postgres
 
 \list
 
@@ -331,3 +351,62 @@ sudo snap install postgresql
 https://peter.eisentraut.org/blog/2024/01/03/using-clangd-for-postgresql-development
 
 https://wiki.postgresql.org/wiki/Developer_FAQ#What_debugging_features_are_available.3F
+
+# appendix
+
+```sql
+
+-- Generate and insert sample data into Products table
+DO $$
+DECLARE
+    i INT := 1;
+BEGIN
+    WHILE i <= 1000000 LOOP
+        INSERT INTO Products (ProductID, ProductName, Price)
+        VALUES 
+            (i, 'Product ' || i, RANDOM() * 1000);
+        i := i + 1;
+    END LOOP;
+END $$;
+
+-- Generate and insert sample data into Customers table
+DO $$
+DECLARE
+    i INT := 1;
+BEGIN
+    WHILE i <= 1000000 LOOP
+        INSERT INTO Customers (CustomerID, FirstName, LastName, Email)
+        VALUES 
+            (i, 'FirstName ' || i, 'LastName ' || i, 'email' || i || '@example.com');
+        i := i + 1;
+    END LOOP;
+END $$;
+
+-- Generate and insert sample data into Orders table
+DO $$
+DECLARE
+    i INT := 1;
+BEGIN
+    WHILE i <= 1000000 LOOP
+        INSERT INTO Orders (OrderID, CustomerID, OrderDate)
+        VALUES 
+            (i, (i % 1000) + 1, CURRENT_DATE - (i % 100));
+        i := i + 1;
+    END LOOP;
+END $$;
+
+-- Generate and insert sample data into OrderDetails table
+DO $$
+DECLARE
+    i INT := 1;
+BEGIN
+    WHILE i <= 1000000 LOOP
+        INSERT INTO OrderDetails (OrderDetailID, OrderID, ProductID, Quantity)
+        VALUES 
+            (i, (i % 100000) + 1, (i % 1000) + 1, (i % 10) + 1);
+        i := i + 1;
+    END LOOP;
+END $$;
+
+
+```

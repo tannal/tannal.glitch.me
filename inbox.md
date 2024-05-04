@@ -1,3 +1,11 @@
+# 2024-5-4 0 | 0 W
+
+
+It was removed quite a while ago, see https://lore.kernel.org/patchwork/patch/391730/ and related discussion here: https://marc.info/?l=linux-kernel&m=137031146932578&w=2. Looks like the way --append is implemented is rather simple: simply by changing the write mode of profiling data to "append", and it doesn't work well with perf report, so they decided to remove it.
+
+There seems to be the option --timestamp-filename of timestamping the output filename, which is potentially useful to batch-sample programs using perf. When doing sampling-based optimization in LLVM, we can then use AutoFDO to convert the profiles into LLVM-readable profiles and use llvm-profdata merge to merge everything.
+
+addr2line
 
 # 2024-5-3 0 | 0 W
 

@@ -1,6 +1,21 @@
 
 # dev
 
+./out/Default/chrome bilibili.com 
+--enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
+
+sudo perf record -F 99 -p 409806 -g -- sleep 30
+sudo perf script > out.chromiumstacks01
+
+sudo perf record -F 99 -p 409910 -g -- sleep 30
+sudo perf script > out.chromiumwebprocstacks01
+
+
+./stackcollapse-perf.pl < out.chromiumstacks01 | ./flamegraph.pl > ./out.chromiumstacks01.svg
+
+./stackcollapse-perf.pl < out.chromiumwebprocstacks01 | ./flamegraph.pl > ./out.chromiumwebprocstacks01.svg
+
+
 ```
 
 git checkout master

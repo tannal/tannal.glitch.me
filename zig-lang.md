@@ -1,9 +1,12 @@
 # Build Zig From Source
 
 
+export CC=/opt/llvm-17/bin/clang
+export CXX=/opt/llvm-17/bin/clang++
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
-cmake -B build -DLLVM_FOUND=/opt/llvm-17/ -DCMAKE_FIND_DEBUG_MODE=ON -DZIG_USE_LLVM_CONFIG=OFF -DLLD_FOUND=/opt/llvm-17/lld -DLLD_INCLUDE_DIRS=/opt/llvm-17/include/lld/ -DCLANG_INCLUDE_DIRS=/opt/llvm-17/include/clang
+
+cmake _G -B build -DLLVM_FOUND=/opt/llvm-17/ -DCMAKE_FIND_DEBUG_MODE=ON -DZIG_USE_LLVM_CONFIG=OFF -DLLD_FOUND=/opt/llvm-17/lld -DLLD_INCLUDE_DIRS=/opt/llvm-17/include/lld/ -DCLANG_INCLUDE_DIRS=/opt/llvm-17/include/clang
 
 1. Build LLVM-17
 
