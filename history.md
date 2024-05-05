@@ -1,5 +1,41 @@
 # 2024-5-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+jsc_buildroot_extraconfig on JSCOnly/CrossBuildAndRemoteTestJSCLinux – Attachment – WebKit
+https://trac.webkit.org/attachment/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux/jsc_buildroot_extraconfig
+
+webkit enable macro - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=webkit+enable+macro
+
+WebKit/Source/WTF/wtf/PlatformEnable.h at main · WebKit/WebKit
+https://github.com/WebKit/webkit/blob/main/Source/WTF/wtf/PlatformEnable.h
+
+68012 – [meta] WebKit has too many #if defines, particularly ENABLE() macro usage
+https://bugs.webkit.org/show_bug.cgi?id=68012
+
+build jsc arm64 - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=build+jsc+arm64
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+jsc_buildroot_extraconfig on JSCOnly/CrossBuildAndRemoteTestJSCLinux – Attachment – WebKit
+https://trac.webkit.org/attachment/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux/jsc_buildroot_extraconfig
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+buildroot github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=buildroot+github
+
+buildroot/buildroot: Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.
+https://github.com/buildroot/buildroot
+
+what libicu - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=what+libicu+
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,6 +1,68 @@
 # 2024-5-5 0 | 0 W
 
+qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot  WebKitBuild/JSCOnly/Debug/bin/jsc
 
+export PATH=$PATH:/home/tannal/tannalwork/projects/buildroot/output/host/lib
+
+sudo apt install libicu-dev
+
+export BR2_HOST_DIR="/home/tannal/tannalwork/projects/buildroot/output/host/"
+export CROSS_COMPILE="$(basename $(cat ${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake|grep CMAKE_CXX_COMPILER|awk -F'"' '{print $2}')|sed "s/g++$//g")"
+export PATH="${BR2_HOST_DIR}/usr/bin:${PATH}"
+export CC="/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-gcc"
+export CXX="/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-g++"
+
+export BUILD_JSC_ARGS="--cmakeargs=-DCMAKE_TOOLCHAIN_FILE=/home/tannal/tannalwork/projects/buildroot/output/host/usr/share/buildroot/toolchainfile.cmake"
+Tools/Scripts/build-jsc --jsc-only --debug
+
+BR2_USE_MMU=y
+BR2_TOOLCHAIN_BUILDROOT_GLIBC=y
+BR2_TOOLCHAIN_BUILDROOT_CXX=y
+BR2_GCC_ENABLE_LTO=y
+BR2_PACKAGE_HOST_GDB=y
+BR2_PACKAGE_HOST_GDB_TUI=y
+BR2_PACKAGE_HOST_GDB_PYTHON=y
+BR2_PACKAGE_HOST_GDB_SIM=y
+BR2_TARGET_GENERIC_ROOT_PASSWD="jsc"
+BR2_TARGET_GENERIC_GETTY_PORT="ttyS0"
+BR2_SYSTEM_DHCP="eth0"
+BR2_TARGET_TZ_INFO=y
+BR2_TARGET_LOCALTIME="America/Los_Angeles"
+BR2_PACKAGE_BUSYBOX_SHOW_OTHERS=y
+BR2_PACKAGE_BZIP2=y
+BR2_PACKAGE_BINUTILS=y
+BR2_PACKAGE_BINUTILS_TARGET=y
+BR2_PACKAGE_DIFFUTILS=y
+BR2_PACKAGE_FINDUTILS=y
+BR2_PACKAGE_LIBTOOL=y
+BR2_PACKAGE_MAKE=y
+BR2_PACKAGE_PATCH=y
+BR2_PACKAGE_SED=y
+BR2_PACKAGE_TREE=y
+BR2_PACKAGE_TAR=y
+BR2_PACKAGE_PERL=y
+BR2_PACKAGE_ICU=y
+BR2_PACKAGE_NTP=y
+BR2_PACKAGE_NTP_SNTP=y
+BR2_PACKAGE_NTP_NTPDATE=y
+BR2_PACKAGE_NTP_NTPDC=y
+BR2_PACKAGE_NTP_NTPQ=y
+BR2_PACKAGE_NTP_NTPTIME=y
+BR2_PACKAGE_NTP_TICKADJ=y
+BR2_PACKAGE_DROPBEAR=y
+BR2_PACKAGE_BASH=y
+BR2_PACKAGE_COREUTILS=y
+BR2_PACKAGE_FILE=y
+BR2_PACKAGE_SCREEN=y
+BR2_PACKAGE_TIME=y
+BR2_PACKAGE_WHICH=y
+BR2_PACKAGE_HTOP=y
+BR2_PACKAGE_UTIL_LINUX=y
+
+make -j $(nproc)
+
+git clone http://git.buildroot.net/buildroot/
+support/kconfig/merge_config.sh -n configs/raspberrypi3_64_defconfig /tmp/jsc_buildroot_extraconfig
 
 
 https://browserbench.org/
