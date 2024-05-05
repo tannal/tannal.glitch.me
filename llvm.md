@@ -309,6 +309,79 @@ static void getPredecessors(BasicBlock &BB, SmallVectorImpl<BasicBlock *> &Prede
 }
 ```
 
+# people
+
+involves:nikic
+involves:topperc
+involves:rKSimon
+involves:maskRay
+involves:kazutakahirata
+involves:trsenm
+involves:abaederr
+involves:jhuber6
+involves:vitalybuka
+involves:fhahn
+involves:llvmgnsyncbot
+involves:clementval
+involves:matthias-springer
+involves:ldionne
+involves:jayfoad
+involves:joker-eph
+involves:klausler
+involves:alexey-bataev
+involves:davemgreen
+involves:mordante
+involves:aeubanks
+involves:JDevlieghere
+involves:jdoerfert
+involves:nico
+involves:gchatelet
+involves:AaronBallman
+involves:mstorsjo
+involves:lhames
+involves:d0k
+involves:hokein
+involves:jasonmolenda
+involves:ftynse
+involves:chapuni
+involves:adrian-prantl
+involves:petrhosek
+involves:rampitec
+involves:sam-mccall
+involves:jimingham
+involves:zmodem
+involves:dwblaikie
+involves:gribozavr
+involves:EricWF
+involves:MatzeB
+involves:zygoloid
+involves:labath
+involves:rnk
+involves:compnerd
+involves:Bigcheese
+involves:majnemer
+involves:alexfh
+involves:dvyukov
+involves:River707
+involves:eugenis
+involves:pcc
+involves:rotateright
+involves:ahatanak
+involves:TNorthover
+involves:resistor
+involves:mgorny
+involves:akyrtzi
+involves:dcci
+involves:asl
+involves:Meinersbur
+involves:bcardosolopes
+involves:echristo
+involves:rjmccall
+involves:atrick
+involves:dsandersllvm
+involves:Teemperor
+involves:dexonsmith
+
 
 
 # LLVM IR
@@ -455,3 +528,5 @@ meetups
 
 
 llvm/lib/IR/AsmWriter.cpp@ AssemblyWriter::printFunction
+
+
