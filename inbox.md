@@ -1,5 +1,11 @@
 # 2024-5-4 0 | 0 W
 
+sudo perf record --call-graph dwarf -F 99 -p 6415 -g -- sleep 30
+sudo perf script > ./graph/out.wasmtimestacks01
+./stackcollapse-perf.pl < ./graph/out.wasmtimestacks01 | ./flamegraph.pl > ./graph/out.wasmtimestacks01.svg
+
+
+
 Thom HolwerdaThom Holwerda Archive
 Nintendo issues DMCA takedown notice against over 8,500 Yuzu emulator repositories
  Thom Holwerda
@@ -9,18 +15,15 @@ git clone https://gitlab.com/nakst/essence
 sudo apt install gcc-x86-64-linux-gnu
 qemu-x86_64 -L /usr/x86_64-linux-gnu/ $CC --sysroot=/usr/x86_64-linux-gnu/  ~/tannalwork/cans/hello.c  -v
 
-export WASI_VERSION=20
+export WASI_VERSION=22
 export WASI_VERSION_FULL=${WASI_VERSION}.0
 wget https://github.com/WebAssembly/wasi-sdk/releases/download/wasi-sdk-${WASI_VERSION}/wasi-sdk-${WASI_VERSION_FULL}-linux.tar.gz
 tar xvf wasi-sdk-${WASI_VERSION_FULL}-linux.tar.gz
 
 export WASI_SDK_PATH=`pwd`/wasi-sdk-${WASI_VERSION_FULL}
-CC="${WASI_SDK_PATH}/bin/clang --sysroot=${WASI_SDK_PATH}/share/wasi-sysroot"
-$CC foo.c -o foo.wasm
+export CC="${WASI_SDK_PATH}/bin/clang --sysroot=${WASI_SDK_PATH}/share/wasi-sysroot"
+$CC ~/tannalwork/cans/hello.c -o hello.wasm
 
-git clone --recursive https://github.com/WebAssembly/wasi-sdk.git
-git clone --depth 1 https://github.com/WebAssembly/wasi-sdk.git
-NINJA_FLAGS=-v make package
 
 git clone https://www.github.com/titzer/virgil.git
 
