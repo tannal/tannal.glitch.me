@@ -63,6 +63,67 @@ exec "$local_webkit"/Tools/Scripts/webkit-flatpak --gtk --debug run -c clangd --
 
 # people
 
+involves:cdumez
+involves:alanbaradlay
+involves:Constellation
+involves:achristensen07
+involves:tadeuzagallo
+involves:annevk
+involves:youennf
+involves:whsieh
+involves:rniwa
+involves:mwyrzykowski
+involves:philn
+involves:Ahmad-S792
+involves:pvollan
+involves:nt1m
+involves:fujii
+involves:carlosgcampos
+involves:smfr
+involves:JonWBedard
+involves:webkit-commit-queue
+involves:kkinnunen-apple
+involves:xeenon
+involves:jyavenard
+involves:anttijk
+involves:twilco
+involves:szewai
+involves:pxlcoder
+involves:rwlbuis
+involves:graouts
+involves:hortont424
+involves:aestes
+involves:jernoble
+involves:donny-dont
+involves:dpino
+involves:karlrackler
+involves:beidson
+involves:shallawa
+involves:litherum
+involves:mcatanzaro
+involves:robert-jenner
+involves:rkirsling
+involves:megangardner
+involves:aj062
+involves:eric-carlson
+involves:brentfulgham
+involves:aperezdc
+involves:clopez
+involves:msaboff
+involves:dcrousso
+involves:zdobersek
+involves:grorg
+involves:darinadler
+involves:weinig
+involves:lauromoura
+involves:ryanhaddad
+involves:geoffreygaren
+involves:yury-s
+involves:fleizach
+involves:aproskuryakov
+involves:alexgcastro
+
+
 involves:robert-jenner
 involves:ddkilzer
 involves:nmoucht
@@ -178,3 +239,4 @@ for minor gc add old space objects with hold reference to the eden space, we nee
 # reference
 
 https://blogs.igalia.com/aboya/2021/10/02/setting-up-visualstudio-code-to-work-with-webkitgtk-using-clangd/
+
