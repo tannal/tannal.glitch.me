@@ -1,6 +1,10 @@
 # dev
 
 
+RUST_LOG="debug" ./mach run --pref dom.webgpu.enabled https://browserbench.org/ 
+RUST_LOG="debug" ./mach run --pref dom.webgpu.enabled https://browserbench.org/MotionMark1.3 -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+
 https://developer.arm.com/-/media/Files/downloads/gnu-a/9.2-2019.12/binrel/gcc-arm-9.2-2019.12-x86_64-aarch64-none-elf.tar.xz
 
 export PKG_CONFIG_SYSROOT_DIR=/usr/aarch64-linux-gnu/

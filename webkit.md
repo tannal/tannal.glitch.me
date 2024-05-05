@@ -2,6 +2,22 @@
 # dev
 
 
+git pull
+
+./Tools/Scripts/update-webkit-flatpak
+./Tools/Scripts/update-webkitgtk-libs
+
+./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands WK_USE_CCACHE=YES
+
+sudo perf record -F 99 -p `pgrep -n WebKitWebProces` -g -- sleep 30
+sudo perf record --call-graph dwarf -F 99 -p `pgrep -n WebKitWebProces` -g -- sleep 30
+sudo perf script > ./graph/out.webkitstacks01
+./stackcollapse-perf.pl < ./graph/out.webkitstacks01 | ./flamegraph.pl > ./graph/out.webkitstacks01.svg
+
+Tools/Scripts/run-webkit-tests --debug --gtk fast/dom/HTMLAnchorElement/anchor-file-blob-convert-to-download-async-delegate.html
+
+./Tools/Scripts/run-minibrowser --gtk --debug
+
 # setup
 
 ```bash

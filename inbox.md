@@ -1,5 +1,14 @@
 # 2024-5-5 0 | 0 W
 
+https://browserbench.org/
+
+sudo perf record --call-graph dwarf -F 99 -p `pgrep -n repl` -g -- sleep 30
+sudo perf script > ./graph/out.spidernodestacks01
+./stackcollapse-perf.pl < ./graph/out.spidernodestacks01 | ./flamegraph.pl > ./graph/out.spidernodestacks01.svg
+
+
+cat ~/tannalwork/cans/add.js | ./build/repl
+
 https://opendev.org/openstack
 
 cargo add tokio --feature all
