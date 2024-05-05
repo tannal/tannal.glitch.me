@@ -46,6 +46,34 @@ ln -sfn ./build/compile_commands.json compile_commands.json
 
 # people
 
+involves:michaelpq
+involves:petere
+involves:tglsfdc
+involves:akorotkov
+involves:hlinnaka
+involves:bmomjian
+involves:danielgustafsson
+involves:david-rowley
+involves:alvherre
+involves:nathan-bossart
+involves:robertmhaas
+involves:jeff-davis
+involves:macdice
+involves:anarazel
+involves:tvondra
+involves:j-naylor
+involves:MasahikoSawada
+involves:adunstan
+involves:nmisch
+involves:deanrasheed
+involves:petergeoghegan
+involves:amitlan
+involves:tatsuo-ishii
+involves:mhagander
+involves:jconway
+involves:MasaoFujii
+involves:horiguti
+
 involves:petere
 involves:bmomjian
 involves:anarazel
