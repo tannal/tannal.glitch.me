@@ -14,7 +14,6 @@ involves:EpicEricEE
 involves:tingerrr
 involves:Andrew15-5
 involves:Enter-tainer
-involves:dependabot[bot]
 involves:peng1999
 involves:LaurenzV
 involves:Myriad-Dreamin

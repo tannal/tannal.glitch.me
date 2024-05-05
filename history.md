@@ -1,5 +1,122 @@
 # 2024-5-5
 
+typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+eclipse-threadx/threadx: Eclipse ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+https://github.com/eclipse-threadx/threadx
+
+More layoffs for the flutter team 😬 : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1cduhra/comment/l1j9eoo/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Search - WebKit - Slack
+https://app.slack.com/client/T06G50708/search
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#javascriptcore
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#sec-dataview-buffer-byteoffset-bytelength
+
+• Discord | #general | Flutter Dev
+https://discord.com/channels/420324994703163402/421445316617961502/1235882958791901235
+
+Contributors to typst/typst
+https://github.com/typst/typst/graphs/contributors?from=2023-05-19&to=2024-05-04&type=c
+
+Issue search results
+https://github.com/search?q=involves%3Adamaxwell&type=issues
+
+chrome for Fuscia - Google 搜索
+https://www.google.com/search?q=chrome+for+Fuscia&rlz=1C1GCEA_enJP1090JP1090&oq=chrome+for+Fuscia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDUwNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Figma Basics - Figma for Developers
+https://frontendmasters.com/courses/figma/figma-basics/
+
+Penpot - Figma alternative : r/selfhosted
+https://www.reddit.com/r/selfhosted/comments/12i9l36/penpot_figma_alternative/
+
+Any idea about what Figma is using to run Rust/c++ code in browser? : r/rust
+https://www.reddit.com/r/rust/comments/10mvx9m/any_idea_about_what_figma_is_using_to_run_rustc/
+
+Commits · WebKit/WebKit
+https://github.com/WebKit/WebKit/commits?author=cathiechen
+
+WebKit/Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h at b56ff58373f19371af18fbb1a77833d898e80de9 · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/b56ff58373f19371af18fbb1a77833d898e80de9/Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h#L4
+
+cross compile webkit - Google 搜索
+https://www.google.com.hk/search?q=cross+compile+webkit&rlz=1C1GCEA_enJP1090JP1090&oq=cross+compile+webkit+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgHGAgYHjIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBNIBCDg3NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux#no1
+
+clopez igalia - Google 搜索
+https://www.google.com.hk/search?q=clopez+igalia&rlz=1C1GCEA_enJP1090JP1090&oq=clopez+igalia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIMCAQQABgKGAwYExgeMgoIBRAAGAoYExgeMggIBhAAGBMYHjIICAcQABgTGB4yCwgIEAAYChgTGIAEMgoICRAAGAoYExge0gEIMTE5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+clopez (Carlos Alberto Lopez Perez)
+https://github.com/clopez
+
+buildroot crosscompile toolchain - Google 搜索
+https://www.google.com.hk/search?q=buildroot+crosscompile+toolchain&rlz=1C1GCEA_enJP1090JP1090&oq=buildroot+crosscompile+toolchain&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQxMTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How to create an External Toolchain in Buildroot — Part 1 | by Anup Halarnkar | Medium
+https://medium.com/@ahalarnkar_94871/how-to-use-gnu-gcc-as-the-external-toolchain-in-buildroot-ec2ce4b399ea
+
+embedded linux - Cross compilation with Buildroot - Stack Overflow
+https://stackoverflow.com/questions/70783261/cross-compilation-with-buildroot
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+GTA III & VICE CITY github - Google 搜索
+https://www.google.com.hk/search?q=GTA+III+%26+VICE+CITY+github&newwindow=1&sca_esv=f73e6ca5e1446b75&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIv794kaAGKFPz4ucEsB6uk5sFm5Q%3A1714905475740&ei=g2E3ZuDkLIbh2roP6riHkAU&ved=0ahUKEwigstHdqPaFAxWGsFYBHWrcAVIQ4dUDCBA&uact=5&oq=GTA+III+%26+VICE+CITY+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGkdUQSBJSUkgJiBWSUNFIENJVFkgZ2l0aHViMgcQIRigARgKSJwHUERYqwZwAXgBkAEAmAG6AaAB5weqAQMwLja4AQPIAQD4AQGYAgegAvgHwgIKEAAYsAMY1gQYR8ICBBAAGB7CAgYQABgIGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcDMS42oAf2DA&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3Ahalpz%2Fre3+coll&type=code&p=5
+
+Issues · GTAmodding/re3 · GitHub
+https://web.archive.org/web/20210216022431/https://github.com/GTAmodding/re3/issues?page=3&q=is%3Aissue+is%3Aopen
+
+gta source code github - Google 搜索
+https://www.google.com.hk/search?q=gta+source+code+github&rlz=1C1GCEA_enJP1090JP1090&oq=gta&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgYIAhAjGCcyDAgDEC4YQxiABBiKBTIMCAQQLhhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTgxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+List of commercial video games with available source code - Wikipedia
+https://en.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code#cite_note-409
+
+cs1.6 source code github - Google 搜索
+https://www.google.com.hk/search?q=cs1.6+source+code+github&newwindow=1&sca_esv=f73e6ca5e1446b75&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJfgJxCTDiRmbnRUqsjVR5O5aTSiQ%3A1714908142863&ei=7ms3ZoWrNO_e2roPnKaGuAw&ved=0ahUKEwiF2rXVsvaFAxVvr1YBHRyTAccQ4dUDCBA&uact=5&oq=cs1.6+source+code+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGNzMS42IHNvdXJjZSBjb2RlIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jgClAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAICmAMAiAYBkAYGkgcBMaAHAA&sclient=gws-wiz-serp
+
+CS 1.6 Internal Hack
+https://nsarka.com/2019/01/21/CS-1-6-Internal-Hack/
+
+Repository search results
+https://github.com/search?q=cs1.6&type=repositories&p=7
+
+GitHub
+https://github.com/
+
+i9 13900h - Google 搜索
+https://www.google.com.hk/search?q=i9+13900h&rlz=1C1GCEA_enJP1090JP1090&oq=i9+13900h&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDUzNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Sony release schedule - Google 搜索
+https://www.google.com.hk/search?q=Sony+release+schedule&newwindow=1&sca_esv=7ed003f8ae5288af&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJbg9IhiLJ_buYljpKUIRHUtWu8qQ%3A1714919551002&ei=fpg3ZsnePLSjvr0P7rm64Ac&ved=0ahUKEwjJlZ-V3faFAxW0ka8BHe6cDnwQ4dUDCBA&uact=5&oq=Sony+release+schedule&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVNvbnkgcmVsZWFzZSBzY2hlZHVsZUigAVAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+UPCOMING SONY MOVIES (2020-2023) - IMDb
+https://www.imdb.com/list/ls066754715/
+
+Spider-Man: Beyond the Spider-Verse - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=95f546f6867878db&rlz=1C1GCEA_enJP1090JP1090&tbm=vid&sxsrf=ADLYWIIwwGeMcKYywUgrYpyKkWf5kyJ_Nw:1714919714238&q=Spider-Man:+Beyond+the+Spider-Verse&sa=X&ved=2ahUKEwjRrYrj3faFAxVWk68BHSa-C2IQ8ccDegQIahAD&biw=1536&bih=703&dpr=1.25
+
+Never Gonna Give You Up | Rick Astley Rocks New Year's Eve - BBC - YouTube
+https://www.youtube.com/watch?v=XGxIE1hr0w4
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
