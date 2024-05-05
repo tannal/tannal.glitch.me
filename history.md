@@ -1,5 +1,80 @@
 # 2024-5-5
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cpu-prof doesn't propagate to workers when env is set · Issue #52825 · nodejs/node
+https://github.com/nodejs/node/issues/52825
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=operating%20system&sort=byPopularity&type=story
+
+minor scale - Google 検索
+https://www.google.com/search?client=ubuntu-sn&hs=KRI&sca_esv=58ac0b011cee9c7d&channel=fs&q=minor+scale&uds=ADvngMheOmbKXuot3eKf9UrhvKugFAyQA822Pl3IWNUWddVCyh-94rOysJae7GrDrPdrAbWb32w3FIJ65PGDRP9fhc9QbQ7pBHEPBYGAwF86tQ3sDDT32wLSAuxJ3CwP0F8nOYbtP60TPdrRAKodNWBoEoU6YbC7iOMxHMV7y60eROZEO-PLYl8vlFptMWLszrF4WpejU7vAZHydCBDL7ssK07Pvu2x5Z8ntZZTnk-2k9bafA8zpBvGA-VyNap5VocmHEmTTed4Qbp3JpM6MQUWYcA-o413z8RUsZgSeFxKsketC24HpxFCKgaLb6gnMDqbNBqw9ic0lGQI_rC5cavuCjsifkpp9CA&udm=2&prmd=ivsnmbtz&sa=X&ved=2ahUKEwiMwPL29_OFAxUI1TQHHWgAB2gQtKgLegQIDhAB&biw=1530&bih=788&dpr=1#vhid=Fy8zE367mrPBNM&vssid=mosaic
+
+Repositories
+https://github.com/orgs/emscripten-core/repositories
+
+bug: type declaration for eslint flat config · Issue #983 · jsx-eslint/eslint-plugin-jsx-a11y
+https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/issues/983
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Contributors to nodejs/node
+https://github.com/nodejs/node/graphs/contributors?from=2023-03-01&to=2024-05-05&type=c
+
+lundibundi (Denys Otrishko)
+https://github.com/lundibundi
+
+build node.js using clangcl when under Windows · Issue #52809 · nodejs/node
+https://github.com/nodejs/node/issues/52809
+
+build: enable Clang-cl Windows builds by targos · Pull Request #35433 · nodejs/node
+https://github.com/nodejs/node/pull/35433/files
+
+Contributors to denoland/deno
+https://github.com/denoland/deno/graphs/contributors?from=2023-08-06&to=2024-05-05&type=c
+
+Contributors to llvm/llvm-project
+https://github.com/llvm/llvm-project/graphs/contributors?from=2023-02-24&to=2024-05-05&type=c
+
+Contributors to llvm/llvm-project
+https://github.com/llvm/llvm-project/graphs/contributors?from=2023-04-05&to=2024-05-05&type=c
+
+Contributors to torvalds/linux
+https://github.com/torvalds/linux/graphs/contributors?from=2023-03-12&to=2024-05-05&type=c
+
+wtarreau (Willy Tarreau)
+https://github.com/wtarreau
+
+Contributors to v8/v8
+https://github.com/v8/v8/graphs/contributors?from=2023-08-12&to=2024-05-05&type=c
+
+Issue search results
+https://github.com/search?q=involves%3Ao-&type=issues
+
+Liedtke (Liedtke) / Repositories
+https://github.com/Liedtke?tab=repositories
+
+Maglev on x64 causes segmentation fault while running TypeScript · Issue #52797 · nodejs/node
+https://github.com/nodejs/node/issues/52797
+
+Segmentation fault in Node.js x64 due to Maglev inlining [338535750] - Chromium
+https://issues.chromium.org/issues/338535750
+
+remcohaszing/typescript-bug-58369
+https://github.com/remcohaszing/typescript-bug-58369
+
+Specify continue-on-error · remcohaszing/typescript-bug-58369@d382bf3
+https://github.com/remcohaszing/typescript-bug-58369/actions/runs/8899456400/job/24438867767
+
+nodejs pass v8 flags - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=nodejs+pass+v8+flags
+
+How do I set v8 options in node.js - Stack Overflow
+https://stackoverflow.com/questions/8829406/how-do-i-set-v8-options-in-node-js
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

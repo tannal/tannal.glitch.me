@@ -1,3 +1,7 @@
+# 2024-5-5 0 | 0 W
+
+cargo add tokio --feature all
+
 # 2024-5-4 0 | 0 W
 
 sudo perf record --call-graph dwarf -F 99 -p 6415 -g -- sleep 30
