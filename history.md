@@ -1,5 +1,53 @@
 # 2024-5-5
 
+kotlin.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Contributors to ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/graphs/contributors?from=2023-05-02&to=2024-05-05&type=c
+
+Contributors to ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/graphs/contributors?from=2023-12-29&to=2024-05-05&type=c
+
+Contributors to ggerganov/ggml
+https://github.com/ggerganov/ggml/graphs/contributors?from=2023-11-24&to=2024-05-04&type=c
+
+Contributors to ziglang/zig
+https://github.com/ziglang/zig/graphs/contributors?from=2023-01-10&to=2024-05-05&type=c
+
+Contributors to JetBrains/kotlin
+https://github.com/JetBrains/kotlin/graphs/contributors?from=2023-01-13&to=2024-05-05&type=c
+
+Contributors to WebAssembly/memory64
+https://github.com/WebAssembly/memory64/graphs/contributors?from=2023-05-07&to=2024-05-05&type=c
+
+Bad File Descriptor when trying to connect TCP listener · Issue #8526 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8526
+
+Contributors to redis/redis
+https://github.com/redis/redis/graphs/contributors?from=2023-05-03&to=2024-05-05&type=c
+
+Contributors to kubernetes/kubernetes
+https://github.com/kubernetes/kubernetes/graphs/contributors?from=2023-03-23&to=2024-05-05&type=c
+
+Explore - OpenDev: Free Software Needs Free Tools
+https://opendev.org/explore/repos?page=3&sort=recentupdate&q=&topic=false&language=&only_show_relevant=false
+
+Issue search results
+https://github.com/search?q=involves%3Ajart&type=issues
+
+Excalidraw
+https://excalidraw.com/
+
+Issue search results
+https://github.com/search?q=involves%3ALuukdegram&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Ailgonmic&type=issues
+
+Contributors to JetBrains/compose-multiplatform
+https://github.com/JetBrains/compose-multiplatform/graphs/contributors?from=2023-04-22&to=2024-05-05&type=c
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
