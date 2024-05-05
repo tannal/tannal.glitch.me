@@ -1,31 +1,38 @@
 # people
 
-involves:piscisaureus 
-involves:scott_hammond
 
 involves:bartlomieju
-involves:nayeemrmn
 involves:dsherret
-involves:petamoriken
-involves:crowlKats
-involves:kt3k
-involves:lucacasonato
-
-involves:ljharb
-involves:surma
-involves:MylesBorins
-involves:benjamingr
-involves:targos
-involves:tniessen
-involves:lucacasonato
-involves:andreubotella
-involves:legendecas
-involves:ryzokuken
-involves:crowlKats
-involves:CanadaHonk
-involves:danielroe
+involves:mmastrac
 involves:littledivy
-involves:RaisinTen
+involves:nayeemrmn
+involves:iuioiua
+involves:lucacasonato
+involves:kt3k
+involves:nathanwhit
+involves:crowlKats
+involves:denobot
+involves:satyarohith
+involves:petamoriken
+involves:igorzi
+involves:marcosc90
+involves:marvinhagemeister
+involves:losfair
+involves:aapoalas
+involves:rgbkrk
+involves:linbingquan
+involves:magurotuna
+involves:ry
+involves:0f-0b
+involves:sigmaSd
+involves:lino-levan
+involves:await-ovo
+involves:SyrupThinker
+involves:mlafeldt
+involves:jsejcksn
+involves:panva
+involves:piscisaureus
+involves:kitsonk
 
 
 # setup
@@ -221,3 +228,233 @@ The + 'static lifetime ensures that the future can live for the duration of the 
 # community
 
 https://discord.com/channels/684898665143206084/684911491035430919
+
+
+
+
+
+bartlomieju
+326 commits
+September
+December
+March
+20
+40
+dsherret
+270 commits
+September
+December
+March
+20
+40
+mmastrac
+226 commits
+September
+December
+March
+20
+40
+littledivy
+177 commits
+September
+December
+March
+20
+40
+nayeemrmn
+141 commits
+September
+December
+March
+20
+40
+iuioiua
+115 commits
+September
+December
+March
+20
+40
+lucacasonato
+61 commits
+September
+December
+March
+20
+40
+kt3k
+35 commits
+September
+December
+March
+20
+40
+nathanwhit
+34 commits
+September
+December
+March
+20
+40
+crowlKats
+32 commits
+September
+December
+March
+20
+40
+denobot
+31 commits
+September
+December
+March
+20
+40
+satyarohith
+27 commits
+September
+December
+March
+20
+40
+petamoriken
+21 commits
+September
+December
+March
+20
+40
+igorzi
+19 commits
+September
+December
+March
+20
+40
+marcosc90
+15 commits
+September
+December
+March
+20
+40
+marvinhagemeister
+13 commits
+September
+December
+March
+20
+40
+losfair
+11 commits
+September
+December
+March
+20
+40
+aapoalas
+10 commits
+September
+December
+March
+20
+40
+rgbkrk
+8 commits
+September
+December
+March
+20
+40
+linbingquan
+6 commits
+September
+December
+March
+20
+40
+magurotuna
+5 commits
+September
+December
+March
+20
+40
+ry
+4 commits
+September
+December
+March
+20
+40
+0f-0b
+3 commits
+September
+December
+March
+20
+40
+sigmaSd
+3 commits
+September
+December
+March
+20
+40
+lino-levan
+2 commits
+September
+December
+March
+20
+40
+await-ovo
+2 commits
+September
+December
+March
+20
+40
+SyrupThinker
+2 commits
+September
+December
+March
+20
+40
+mlafeldt
+1 commit
+September
+December
+March
+20
+40
+jsejcksn
+1 commit
+September
+December
+March
+20
+40
+panva
+1 commit
+September
+December
+March
+20
+40
+piscisaureus
+1 commit
+September
+December
+March
+20
+40
+kitsonk
+1 commit
+September
+December
+March
+20
+40
+

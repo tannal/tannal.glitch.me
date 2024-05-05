@@ -1,6 +1,8 @@
 
 # dev
 
+tools/test.py -m debug test/parallel/test-options.js --shell ./node_g  --report --node-args --track-heap-objects
+
 export NODE_OPTIONS='--expose-internals'
 
 ./node --inspect-brk=0.0.0.0:9229 test/parallel/test-net-server-close-before-calling-lookup-callback.js
@@ -81,7 +83,64 @@ ninja -C out/Debug/ -t compdb > compile_commands.json
 
 # people
 
+involves:joyeecheung
+involves:targos
+involves:anonrig
+involves:aduh95
+involves:tniessen
+involves:RafaelGSS
+involves:MoLow
+involves:marco-ippolito
+involves:legendecas
+involves:cjihrig
+involves:lpinca
+involves:mhdawson
+involves:atlowChemi
+involves:panva
+involves:richardlau
+involves:Trott
+involves:deokjinkim
+involves:zcbenz
+involves:GeoffreyBooth
+involves:LiviaMedeiros
+involves:ronag
+involves:jasnell
+involves:VoltrexKeyva
+involves:theanarkh
+involves:ShogunPanda
+involves:mcollina
+involves:daeyeon
+involves:RaisinTen
+involves:cola119
+involves:benjamingr
+involves:santigimeno
+involves:bnoordhuis
+involves:addaleax
+involves:codebytere
+involves:ruyadorno
+involves:himself65
+involves:gengjiawen
+involves:juanarbol
+involves:guybedford
+involves:indutny
+involves:cclauss
+involves:Flarna
+involves:mmarchini
+involves:JacksonTian
+involves:TimothyGu
+involves:isaacs
+involves:XadillaX
+involves:fhinkel
+involves:bengl
+involves:srl295
+involves:BethGriggs
+involves:devsnek
+
+involves:lundibundi
+
 involves:ljharb
+involves:jasnell
+involves:theanarkh
 
 involves:Qard
 involves:joyeecheung
