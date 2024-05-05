@@ -8,6 +8,9 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+
+X86 Desktop Operation System https://gitlab.com/nakst/essence
+
 Graphics Vulkan Metal Directx wrapper https://github.com/MethanePowered/MethaneKit
 
 Android Poxy App https://github.com/MetaCubeX/ClashMetaForAndroid

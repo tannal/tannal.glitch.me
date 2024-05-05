@@ -3,6 +3,30 @@
 involves:piscisaureus 
 involves:scott_hammond
 
+involves:bartlomieju
+involves:nayeemrmn
+involves:dsherret
+involves:petamoriken
+involves:crowlKats
+involves:kt3k
+involves:lucacasonato
+
+involves:ljharb
+involves:surma
+involves:MylesBorins
+involves:benjamingr
+involves:targos
+involves:tniessen
+involves:lucacasonato
+involves:andreubotella
+involves:legendecas
+involves:ryzokuken
+involves:crowlKats
+involves:CanadaHonk
+involves:danielroe
+involves:littledivy
+involves:RaisinTen
+
 
 # setup
 

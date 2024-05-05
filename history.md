@@ -1,3 +1,161 @@
+# 2024-5-5
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+node/src/node_worker.cc at 71a1fa3043d495dfaa2105d07cd090c51bcd8eed · nodejs/node
+https://github.com/nodejs/node/blob/71a1fa3043d495dfaa2105d07cd090c51bcd8eed/src/node_worker.cc#L536
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues&p=2
+
+jetpack compose vs flutter - Google 搜索
+https://www.google.com/search?q=jetpack+compose+vs+flutter&sca_esv=67fc9792c54ce1a9&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIfrXP2arxUFVXesgTktT6QP8ky9w%3A1714822261449&ei=dRw2ZuH6GuSP2roPgo2q4AU&oq=jetpack+compose+vs+fl&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWpldHBhY2sgY29tcG9zZSB2cyBmbCoCCAAyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyBhAAGAUYHjIGEAAYBRgeSNEQUNQCWKMJcAF4AZABAJgB2AGgAdAJqgEFMC4xLjW4AQPIAQD4AQGYAgegAugJwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC42oAelGA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=6&prefix=true&query=operating%20system&sort=byPopularity&type=story
+
+OSRTOS - Top Open Source Real-Time Operating Systems (RTOS)
+https://www.osrtos.com/
+
+RIOT-OS/RIOT: RIOT - The friendly OS for IoT
+https://github.com/RIOT-OS/RIOT
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=operating%20system&sort=byPopularity&type=story
+
+nakst / essence · GitLab
+https://gitlab.com/nakst/essence
+
+assembly - How to run a program without an operating system? - Stack Overflow
+https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545
+
+Part 01 - Setting up the Development Environment | Building an Operating System for the Raspberry Pi
+https://jsandler18.github.io/tutorial/dev-env.html
+
+Android In a Box – Run Android applications on any GNU/Linux operating system | Hacker News
+https://news.ycombinator.com/item?id=24684187
+
+Thom Holwerda – OSnews
+https://www.osnews.com/story/author/thom-holwerda/
+
+Thom Holwerda – OSnews
+https://www.osnews.com/story/author/thom-holwerda/
+
+Thom Holwerda – OSnews
+https://www.osnews.com/story/author/thom-holwerda/
+
+nakst / essence · GitLab
+https://gitlab.com/nakst/essence
+
+• Discord | #general | Essence
+https://discord.com/channels/703653809943085186/703653809943085189
+
+议题 · nakst / essence · GitLab
+https://gitlab.com/nakst/essence/-/issues
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files#diff-ecffb1e0970d813b7409f2c7fc8b17814044f30b7e7c6a634cb0d1a07933a54a
+
+Honeypot - YouTube
+https://www.youtube.com/@Honeypotio/videos
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+chat.openai.com/c/59aa56ca-f54f-474f-b1a5-24649d6e8b96
+https://chat.openai.com/c/59aa56ca-f54f-474f-b1a5-24649d6e8b96
+
+titzer/virgil: A fast and lightweight native programming language
+https://github.com/titzer/virgil
+
+Issue search results
+https://github.com/search?q=involves%3Aeqrion&type=issues
+
+COSMIC desktop - Google 搜索
+https://www.google.com/search?q=COSMIC+desktop&rlz=1C1GCEA_enJP1090JP1090&oq=COSMIC+desktop&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE3NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Thom Holwerda
+https://thomholwerda.com/
+
+Thom Holwerda (@thomholwerda@exquisite.social) - Exquisite.social
+https://exquisite.social/@thomholwerda
+
+yuzu
+https://github.com/yuzu-mirror/
+
+yuzu-mirror - Gitee.com
+https://gitee.com/organizations/yuzu-mirror/projects?page=2&skip_mobile=true
+
+Whistler (weimzh) - Gitee.com
+https://gitee.com/weimzh
+
+yuzu.rip
+https://yuzu.rip/
+
+How I stopped worrying and learned to run wasm and native hybrid code - Tweag
+https://www.tweag.io/blog/2022-03-31-running-wasm-native-hybrid-code/
+
+WebAssembly/wasi-sdk: WASI-enabled WebAssembly C/C++ toolchain
+https://github.com/WebAssembly/wasi-sdk
+
+zig cc wasm - Google 搜索
+https://www.google.com/search?q=zig+cc+wasm&rlz=1C1GCEA_enJP1090JP1090&oq=zig+cc+wasm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgoIAxAAGIAEGKIEMgoIBBAAGKIEGIkFMgoIBRAAGIAEGKIE0gEIMzM1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+sysroot install ubuntu apt - Google 搜索
+https://www.google.com/search?q=sysroot+install+ubuntu+apt&sca_esv=89ce7edbdc50ed46&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILehwB_CaHPW8YjOolQvb1MI63_2Q%3A1714834229616&ei=NUs2ZrqZJYvk2roPxNG58A4&ved=0ahUKEwj6h-uon_SFAxULslYBHcRoDu4Q4dUDCBA&uact=5&oq=sysroot+install+ubuntu+apt&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnN5c3Jvb3QgaW5zdGFsbCB1YnVudHUgYXB0MgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUj1EVC0B1iIEXABeACQAQCYAesBoAHSEaoBBTAuNC43uAEDyAEA-AEBmAILoAKvEMICChAAGLADGNYEGEfCAgYQABgIGB7CAggQABiABBiiBMICCBAAGKIEGIkFwgIHECEYoAEYCpgDAIgGAZAGBpIHBTEuMi44oAedIw&sclient=gws-wiz-serp
+
+[PATCH v2 bpf-next 00/20] bpf: Introduce BPF arena.
+https://lore.kernel.org/bpf/20240209040608.98927-15-alexei.starovoitov@gmail.com/T/
+
+ghost-userspace/lib/queue.bpf.h at main · google/ghost-userspace
+https://github.com/google/ghost-userspace/blob/main/lib/queue.bpf.h
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+Google
+https://www.google.com.hk/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=computing%20platform&sort=byPopularity&type=story
+
+Building an edge computing platform | Leandro Moreira
+https://leandromoreira.com/2020/04/19/building-an-edge-computing-platform/?update=now
+
+Issue search results
+https://github.com/search?q=involves%3Apiscisaureus+&type=issues&p=2
+
+Commits · denoland/deno
+https://github.com/denoland/deno/commits/main/?after=e36de7e9599c2891319318adb996633ac9588220+34
+
+Issue search results
+https://github.com/search?q=involves%3Ak3tk&type=issues
+
+lucacasonato (Luca Casonato)
+https://github.com/lucacasonato
+
+Issues · denoland/deploy_feedback
+https://github.com/denoland/deploy_feedback/issues
+
+WinterCG
+https://github.com/wintercg
+
+Servo
+https://github.com/servo
+
+kvark/blade: Sharp and simple graphics library
+https://github.com/kvark/blade
+
 # 2024-5-4
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

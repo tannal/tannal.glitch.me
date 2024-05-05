@@ -1,5 +1,11 @@
 # 2024-5-4 0 | 0 W
 
+Thom HolwerdaThom Holwerda Archive
+Nintendo issues DMCA takedown notice against over 8,500 Yuzu emulator repositories
+ Thom Holwerda
+
+git clone https://gitlab.com/nakst/essence
+
 sudo apt install gcc-x86-64-linux-gnu
 qemu-x86_64 -L /usr/x86_64-linux-gnu/ $CC --sysroot=/usr/x86_64-linux-gnu/  ~/tannalwork/cans/hello.c  -v
 

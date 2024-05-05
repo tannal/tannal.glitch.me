@@ -187,6 +187,23 @@ involves:mrego
 involves:atbrakhi
 involves:Loirooriol
 
+involves:mrego
+involves:mrobinson
+involves:jdm
+involves:kvark
+involves:mukilan
+involves:SimonSapin
+involves:asajeffrey
+involves:delan
+involves:emilio
+involves:Manishearth
+involves:glennw
+involves:pshaughn
+involves:gterzian
+involves:CYBAI
+involves:sagudev
+involves:atbrakhi
+
 
 # inbox
 
