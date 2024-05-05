@@ -1,5 +1,44 @@
 # 2024-5-5
 
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Profiling Chromium and Blink
+https://www.chromium.org/developers/profiling-chromium-and-webkit/
+
+| Environment Setup for Building Webkit on Linux
+https://wusyong.github.io/posts/building-webkit/
+
+| Environment Setup for Building Webkit on Linux
+https://wusyong.github.io/posts/building-webkit/
+
+tannal/spidernode - spidernode - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/spidernode
+
+Maglev on x64 causes segmentation fault while running TypeScript · Issue #52797 · nodejs/node
+https://github.com/nodejs/node/issues/52797
+
+aosp repo - Google 検索
+https://www.google.com/search?q=aosp+repo&client=ubuntu-sn&hs=BsZ&sca_esv=8b81a5ceaf8313a5&channel=fs&ei=qyc3Zpf3GvXf2roP_p6DoAU&ved=0ahUKEwjX-L7I8fWFAxX1r1YBHX7PAFQQ4dUDCBA&uact=5&oq=aosp+repo&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWFvc3AgcmVwbzIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSNAOUMkFWMAMcAF4AZABAJgBrgKgAbAKqgEFMi00LjG4AQPIAQD4AQGYAgagAtEKwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgcQABiABBgEmAMAiAYBkAYKkgcHMS4wLjQuMaAHow0&sclient=gws-wiz-serp
+
+perf dynamic library symbol - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=perf+dynamic+library+symbol
+
+BrowserBench.org — Browser Benchmarks
+https://browserbench.org/
+
+#Performance > Benchmark with Dromeo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance/topic/Benchmark.20with.20Dromeo
+
+Benchmarking · servo/servo Wiki
+https://github.com/servo/servo/wiki/Benchmarking#core-dom-performance
+
+mozjs/mozjs-sys at main · servo/mozjs
+https://github.com/servo/mozjs/tree/main/mozjs-sys
+
+tannal/flamegraph - flamegraph - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/flamegraph
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
