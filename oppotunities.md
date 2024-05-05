@@ -4,6 +4,9 @@ https://gradle.github.io/community/events/gsoc/
 
 https://github.com/search?q=GSoC&type=issues&p=3
 
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+https://mentorship.lfx.linuxfoundation.org/#my-tasks
 
 
 # startup

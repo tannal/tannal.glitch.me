@@ -1,5 +1,104 @@
 # 2024-5-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Repositories
+https://github.com/orgs/second-state/repositories?page=2
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+src: make sure pass the cli_options to worker by theanarkh · Pull Request #52827 · nodejs/node
+https://github.com/nodejs/node/pull/52827/files
+
+Lint to detect semantic versioning failures · Issue #374 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/374
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Igalia Coding Experience 2023. When I first started out searching for… | by Anushka Chakraborty | Mar, 2024 | Medium
+https://medium.com/@anushkachakra/igalia-coding-experience-2023-710d103a53a3
+
+Maíra Canal | Latest Posts
+https://mairacanal.github.io/
+
+Maíra Canal | About me
+https://mairacanal.github.io/about-me/
+
+Maíra Canal | Linux 6.8: AMD HDR and Raspberry Pi 5
+https://mairacanal.github.io/linux-6-8-AMD-HDR-and-raspberry-pi-5/
+
+Maíra Canal | Curriculum Vitae
+https://mairacanal.github.io/cv/
+
+Maíra Canal | Introducing CPU jobs to the Raspberry Pi
+https://mairacanal.github.io/introducing-cpu-jobs-to-the-rpi/
+
+Maíra Canal | November Update: Exploring V3D
+https://mairacanal.github.io/november-update-exploring-v3d/
+
+GPU Framebuffer Memory: Understanding Tiling | Samsung Developer
+https://developer.samsung.com/galaxy-gamedev/resources/articles/gpu-framebuffer.html
+
+drm/v3d: Don't increment `enabled_ns` twice - kernel/git/torvalds/linux.git - Linux kernel source tree
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=35f4f8c9fc972248055096d63b782060e473311b
+
+Maíra Canal | January Update: Finishing my Igalia CE
+https://mairacanal.github.io/january-update-finishing-my-igalia-ce/
+
+15 Tips for Debugging Issues in the AMD Display Kernel Driver | Wen.onweb
+https://melissawen.github.io/blog/2023/12/13/amd-display-debugging-tips
+
+Keeping a project bisectable | tony is coding
+https://andrealmeid.com/post/2022-07-31-keep-bisect/
+
+DRI devel - Patchwork
+https://patchwork.freedesktop.org/series/133184/
+
+GitHub
+https://github.com/
+
+google summer of code 2024 - Google 搜索
+https://www.google.com.hk/search?q=google+summer+of+code+2024&rlz=1C1GCEA_enJP1090JP1090&oq=googl+summer+of+cod&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQg4MTE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=They%20are%20created%20by%20cognitive%20evaluations%2C%20which%20can%20be%20rudimentary%0Aand%20unconscious%20or%20complex%20and%20conscious.&op=translate
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+tannal (tannal)
+https://github.com/tannal/
+
+Issue search results
+https://github.com/search?q=involves%3Atargos&type=issues&p=4
+
+Maglev on x64 causes segmentation fault while running TypeScript · Issue #52797 · nodejs/node
+https://github.com/nodejs/node/issues/52797
+
+Releases · WasmEdge/llvm-windows
+https://github.com/WasmEdge/llvm-windows/releases
+
+mozjs/mozjs-sys/mozjs at main · servo/mozjs
+https://github.com/servo/mozjs/tree/main/mozjs-sys/mozjs
+
+Issue search results
+https://github.com/search?q=involves%3Aitzgen&type=issues
+
+Contributors to bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/graphs/contributors?from=2023-05-07&to=2024-05-05&type=c
+
+clang: crash during AlwaysInlinerPass · Issue #89299 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/89299
+
+Releases · WasmEdge/llvm-windows
+https://github.com/WasmEdge/llvm-windows/releases
+
+choco llvm no cmake - Google 搜索
+https://www.google.com.hk/search?q=choco+llvm+no+cmake&rlz=1C1GCEA_enJP1090JP1090&oq=choco+llvm+no+cmake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDM1MTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 qemu.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
