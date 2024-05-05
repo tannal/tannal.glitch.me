@@ -4,10 +4,17 @@
 
 git pull
 
+./Tools/Scripts/build-jsc --jsc-only
+./Tools/Scripts/run-jsc --jsc-only
+
+Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
+
+
 ./Tools/Scripts/update-webkit-flatpak
 ./Tools/Scripts/update-webkitgtk-libs
 
 ./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands WK_USE_CCACHE=YES
+./Tools/Scripts/run-minibrowser --gtk --debug https://browserbench.org/MotionMark1.3
 
 sudo perf record -F 99 -p `pgrep -n WebKitWebProces` -g -- sleep 30
 sudo perf record --call-graph dwarf -F 99 -p `pgrep -n WebKitWebProces` -g -- sleep 30
@@ -175,7 +182,7 @@ Elliott Williams
 
 Tools/Scripts/run-minibrowser --debug 
 
-jsc -m cc-int-to-int.js --useJIT=0 --useWebAssembly=1 
+Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
 
 export WEBKIT_OUTPUTDIR=WebKitBuild/GTK/Debug/
 
