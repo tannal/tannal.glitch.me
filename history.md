@@ -1,5 +1,86 @@
 # 2024-5-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+yohhoy/cpp-concepts: C++ Standard concepts diagrams
+https://github.com/yohhoy/cpp-concepts
+
+denoland/v8: floating patches for rusty_v8
+https://github.com/denoland/v8
+
+Lecture Notes in Computer Science pdf - Google 搜索
+https://www.google.com.hk/search?q=Lecture+Notes+in+Computer+Science+pdf&newwindow=1&sca_esv=9c6b59696e202399&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIDirmdZGj4MLXWnooTGR4Q5JNUpg%3A1714976696563&ei=uHc4ZvPkIaji2roP1dSCqAI&ved=0ahUKEwjzoK-GsviFAxUosVYBHVWqACUQ4dUDCBA&uact=5&oq=Lecture+Notes+in+Computer+Science+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiJUxlY3R1cmUgTm90ZXMgaW4gQ29tcHV0ZXIgU2NpZW5jZSBwZGYyCBAAGIAEGMsBMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIhghQali9BXABeAGQAQCYAcoBoAGzBaoBBTAuMy4xuAEDyAEA-AEBmAIFoALQBcICChAAGLADGNYEGEfCAggQLhiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBmAMAiAYBkAYKugYGCAEQARgUkgcFMS4zLjGgB7cQ&sclient=gws-wiz-serp
+
+LeapSecond Home Page
+http://leapsecond.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=leap%20second%20linux&sort=byPopularity&type=story
+
+Leap-second issues, 2015 edition [LWN.net]
+https://lwn.net/Articles/648313/
+
+vscode version control subdirectory - Google 搜索
+https://www.google.com.hk/search?q=vscode+version+control+subdirectory&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+version+control+subdire&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigAdIBCTE0NzIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Source control doesn't show for all subdirectories when using nested multi-folder workspaces · Issue #156692 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/156692
+
+don't check the git repo in subfolders - Google 搜索
+https://www.google.com.hk/search?q=don%27t+check+the+git+repo+in+subfolders&rlz=1C1GCEA_enJP1090JP1090&oq=don%27t+check+the+git+repo+in+subfolders&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Disable detection of subfolder repositories · Issue #53668 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/53668
+
+Issues · scottchiefbaker/dool
+https://github.com/scottchiefbaker/dool/issues
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=quorum&sort=byPopularity&type=story
+
+FlexiRaft: Flexible Quorums with Raft
+https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf
+
+snowflake github - Google 搜索
+https://www.google.com.hk/search?q=snowflake+github&newwindow=1&sca_esv=70d17c20703d2a91&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILqvS5yTG3ZfBbi2LjTbyAvMXWXBw%3A1714980041504&ei=yYQ4Zs-8HubJvr0Pp_GSgAM&ved=0ahUKEwiPxa7BvviFAxXmpK8BHae4BDAQ4dUDCBA&uact=5&oq=snowflake+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHNub3dmbGFrZSBnaXRodWIyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYBRgeMgYQABgFGB5InAdQKljYBnABeAGQAQCYAd8BoAHICKoBBTAuNS4xuAEDyAEA-AEBmAIHoALfCMICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIMECMYgAQYExgnGIoFwgIQEC4YgAQY0QMYQxjHARiKBZgDAIgGAZAGCpIHBTEuNS4xoAfbGA&sclient=gws-wiz-serp
+
+Repositories
+https://github.com/orgs/snowflakedb/repositories
+
+install nasm dnf - Google 搜索
+https://www.google.com.hk/search?q=install+nasm+dnf+&newwindow=1&sca_esv=8595f7cc5705f56c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL1KJ97APTNFrY-CWpB8Wr0QeZA-A%3A1714978795061&ei=6384ZpKtA-_t1e8P6Y29sAc&ved=0ahUKEwjSzoHvufiFAxXvdvUHHelGD3YQ4dUDCBA&uact=5&oq=install+nasm+dnf+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWluc3RhbGwgbmFzbSBkbmYgMgQQIxgnMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBEjPAVAAWABwAHgBkAEAmAGhAaABoQGqAQMwLjG4AQPIAQD4AQGYAgGgAqcBmAMAkgcDMC4xoAfeAg&sclient=gws-wiz-serp#ip=1
+
+install nasm rockylinux - Google 搜索
+https://www.google.com.hk/search?q=install+nasm+rockylinux&rlz=1C1GCEA_enJP1090JP1090&oq=install+nasm+rockylinux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABgIGA0YHjIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDg5ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nasm-2.15.03-3.el8.aarch64.rpm Rocky Linux 8 Download
+https://rockylinux.pkgs.org/8/rockylinux-devel-aarch64/nasm-2.15.03-3.el8.aarch64.rpm.html
+
+tikv github - Google 搜索
+https://www.google.com.hk/search?q=tikv+github&rlz=1C1GCEA_enJP1090JP1090&oq=tikv+github&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINjQ2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tikv/tikv: Distributed transactional key-value database, originally created to complement TiDB
+https://github.com/tikv/tikv
+
+david patterson - Google 搜索
+https://www.google.com.hk/search?gs_ssp=eJzj4tTP1TcwTinLKjFg9OJPSSzLTFEoSCwpSS0qzs8DAH5wCYw&q=david+patterson&rlz=1C1GCEA_enJP1090JP1090&oq=david+pat&gs_lcrp=EgZjaHJvbWUqCggBEC4Y1AIYgAQyBggAEEUYOTIKCAEQLhjUAhiABDIKCAIQLhjUAhiABDIKCAMQLhjUAhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINTE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(58) #xilem > TodoMVC example - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/TodoMVC.20example
+
+How can I help? · Issue #192 · linebender/xilem
+https://github.com/linebender/xilem/issues/192
+
+Office Hours 2024-05-09 (Live from Delft!) - Google 文档
+https://docs.google.com/document/d/1uRdHVcq46sTtWLhV4CFTs9mlwuR1L-WMNifdCH21O-g/edit
+
+Xilem: Let’s build high performance Rust UI - Google 幻灯片
+https://docs.google.com/presentation/d/1355q8bpSUUCLDNy-YJ1QbaeBBG3px7Bv6YirkLXHIFw/edit#slide=id.g2d11314ba36_0_314
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
