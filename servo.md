@@ -1,5 +1,9 @@
 # dev
 
+servo book
+cargo install mdbook
+cargo install mdbook-mermaid
+mdbook serve --open
 
 RUST_LOG="debug" ./mach run --pref dom.webgpu.enabled https://browserbench.org/ 
 RUST_LOG="debug" ./mach run --pref dom.webgpu.enabled https://browserbench.org/MotionMark1.3 -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt

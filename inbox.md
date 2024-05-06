@@ -1,3 +1,34 @@
+# 2024-5-6 0 | 0 W
+
+cargo install --git https://github.com/evmar/n2 --force
+
+objdump -TC ./build/libtvm.so | grep tvm
+
+addr2line 0000000004fb52d0 -e ./build/libtvm.so
+
+tree -f -I "bin|unitTest" -P "*.so" build/
+
+tree -f -I "bin|unitTest" -P "*.[ch]|*.[ch]pp." build/
+
+
+This is all the computers is going to be.
+It's obvious.
+
+ln -sfn /root/.cargo/bin/n2 /root/.cargo/bin/ninja
+ln -s /root/.cargo/bin/n2 /root/.cargo/bin/ninja
+
+sudo dnf update
+sudo dnf groupinstall -y "Development Tools"
+sudo dnf install -y python-devel ncurses-compat-libs zlib-devel cmake libedit-devel libxml2-devel
+
+
+mkdir build
+cp cmake/config.cmake build
+
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
 # 2024-5-5 0 | 0 W
 
 qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot  WebKitBuild/JSCOnly/Debug/bin/jsc
