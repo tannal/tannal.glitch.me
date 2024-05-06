@@ -1,5 +1,10 @@
 # 2024-5-6 0 | 0 W
 
+libstemmer_c/mkinc.mak
+
+dnf --enablerepo=devel install nasm
+dnf --enablerepo=devel install yasm
+
 https://timsong-cpp.github.io/cppwp/#expr
 
 sudo dnf install lld ccache
