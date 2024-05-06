@@ -15,6 +15,13 @@ source ~/tannalwork/projects/v8/v8/tools/gdbinit
 
 # inbox
 
+sudo perf record -F 99 --call-graph dwarf -p `pgrep -n node_g` -g -- sleep 30
+sudo perf script > ./graph/out.nodestacks02
+
+export FBASE=$WORK/projects/FlameGraph/
+$FBASE/stackcollapse-perf.pl < $FBASE/graph/out.nodestacks02 | $FBASE/flamegraph.pl > $FBASE/graph/out.nodestacks02.svg
+
+
 node::StreamBase::WriteString<(node::encoding)1>
 
 Runtime_LoadPropertyWithInterceptor

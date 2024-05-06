@@ -1,5 +1,50 @@
 # 2024-5-6
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+V8 Regression with Node.js 22 · Issue #166 · nodejs/performance
+https://github.com/nodejs/performance/issues/166
+
+RafaelGSS/nodejs-bench-operations: Is X faster than Y in Node.js vX.Z?
+https://github.com/RafaelGSS/nodejs-bench-operations
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits/main/
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Newline - Wikipedia
+https://en.wikipedia.org/wiki/Newline
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Crashes with GTK 3.16 · Issue #2 · glennw/miniservo-gtk
+https://github.com/glennw/miniservo-gtk/issues/2
+
+Drop CEF support by paulrouget · Pull Request #19900 · servo/servo
+https://github.com/servo/servo/pull/19900
+
+Dropping CEF support?
+https://groups.google.com/g/mozilla.dev.servo/c/5MHDnfMya3s
+
+embedding rendering broken after webrender merge · Issue #10274 · servo/servo
+https://github.com/servo/servo/issues/10274
+
+Contributors to rust-windowing/glutin
+https://github.com/rust-windowing/glutin/graphs/contributors
+
+Update to latest servo + surfman 0.9.1 by vimpostor · Pull Request #20 · KDABLabs/cxx-qt-servo-webview
+https://github.com/KDABLabs/cxx-qt-servo-webview/pull/20/files
+
+The Qt Experts - KDAB
+https://www.kdab.com/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
