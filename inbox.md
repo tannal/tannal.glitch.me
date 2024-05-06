@@ -1,5 +1,14 @@
 # 2024-5-6 0 | 0 W
 
+https://timsong-cpp.github.io/cppwp/#expr
+
+sudo dnf install lld ccache
+
+repoquery -l ncurses-compat-libs.x86_64
+
+yum install ncurses-devel gnutls-devel
+yum install 
+
 if the problem happens, it must happens recently if there is people.
 If a problem haapens and it stays for a long time, that means nobody is doing what you do now?
 

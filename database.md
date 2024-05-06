@@ -1,0 +1,8 @@
+
+
+
+
+
+# setup
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DCOMPILER_CACHE=disabled

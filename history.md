@@ -1,5 +1,95 @@
 # 2024-5-6
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+MariaDB
+https://github.com/MariaDB
+
+Get the code, build it, test it - MariaDB.org
+https://mariadb.org/get-involved/getting-started-for-developers/get-code-build-test/
+
+#general > GitHub - MariaDB Docker Library - MariaDB Foundation - Zulip
+https://mariadb.zulipchat.com/#narrow/stream/118759-general/topic/GitHub.20-.20MariaDB.20Docker.20Library
+
+Bugs : “Maria Discuss” team
+https://bugs.launchpad.net/~maria-discuss
+
+android - How to store object in sqlite database? - Stack Overflow
+https://stackoverflow.com/questions/1243181/how-to-store-object-in-sqlite-database
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+remove the warning about performance hit in --experimental-detect-module · Issue #52803 · nodejs/node
+https://github.com/nodejs/node/issues/52803
+
+How To Install ncurses Library on a Linux - nixCraft
+https://www.cyberciti.biz/faq/linux-install-ncurses-library-headers-on-debian-ubuntu-centos-fedora/
+
+Gerhard Casper - Wikipedia
+https://en.wikipedia.org/wiki/Gerhard_Casper
+
+ncurses - libncurses.so.5 - cannot open shared library, Fedora - Stack Overflow
+https://stackoverflow.com/questions/51698044/libncurses-so-5-cannot-open-shared-library-fedora
+
+yum package deve library not found - Google 搜索
+https://www.google.com/search?q=yum+package+deve+library+not+found&sca_esv=d08c9ae3139ebed8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJjnYYEIJU5F1HhjTTXMBMR52daHQ%3A1714971672586&ei=GGQ4ZrufI92k2roPtdmqyAk&oq=yum+package+deve+lib+not+found&gs_lp=Egxnd3Mtd2l6LXNlcnAiHnl1bSBwYWNrYWdlIGRldmUgbGliIG5vdCBmb3VuZCoCCAAyChAhGKABGMMEGAoyChAhGKABGMMEGApI7SRQ1wtYsxlwAngAkAEAmAGDAqAB0g-qAQUwLjEuOLgBA8gBAPgBAZgCBaACqQXCAgoQABiwAxjWBBhHwgIIECEYoAEYwwSYAwCIBgGQBgqSBwUyLjAuM6AHmSE&sclient=gws-wiz-serp
+
+Red Hat and CentOS Install libncurses5-dev_red hat 11.3.1-4 yum 安装ncurses 5-CSDN博客
+https://blog.csdn.net/Hacker_NO_1/article/details/45040187
+
+yum install GnuTLS-dev - Google 搜索
+https://www.google.com/search?q=yum+install+GnuTLS-dev&rlz=1C1GCEA_enJP1090JP1090&oq=yum+install+GnuTLS-dev&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQIxgTGCcYgAQYigUyCAgCEAAYExgeMgoIAxAAGAgYExgeMgoIBBAAGAgYExgeMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIE0gEIOTM2OWowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+kotlin multiplatform github - Google 搜索
+https://www.google.com/search?q=kotlin+multiplatform+github&sca_esv=d08c9ae3139ebed8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIx6KhMjCAT5l5_pSUs0AzEIN7AoQ%3A1714972840658&ei=qGg4ZuvPJ_zO2roPxeac8AM&ved=0ahUKEwjrw93Xo_iFAxV8p1YBHUUzBz4Q4dUDCBA&uact=5&oq=kotlin+multiplatform+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2tvdGxpbiBtdWx0aXBsYXRmb3JtIGdpdGh1YjIIEAAYgAQYywEyCBAAGIAEGMsBMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjQHlCcAljsHXABeACQAQCYAboCoAGPHKoBCDAuNi4xMC4xuAEDyAEA-AEBmAIRoAKEG8ICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIEECMYJ8ICCBAAGKIEGIkFmAMAiAYBkAYKkgcIMS40LjExLjGgB79F&sclient=gws-wiz-serp#ip=1
+
+junegunn/fzf: :cherry_blossom: A command-line fuzzy finder
+https://github.com/junegunn/fzf
+
+ClickHouse/docs/zh/development/build.md at 35f8aae919d235f0f15e46efd1cbb72b06af34ff · ClickHouse/ClickHouse
+https://github.com/ClickHouse/ClickHouse/blob/35f8aae919d235f0f15e46efd1cbb72b06af34ff/docs/zh/development/build.md?plain=1#L2
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=clickhouse&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=snowflate&sort=byPopularity&type=story
+
+ms latency gui rendering - Google 搜索
+https://www.google.com.hk/search?q=ms+latency+gui+rendering&rlz=1C1GCEA_enJP1090JP1090&oq=ms+latency+gui+rendering&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIICAQQABgTGB4yCggFEAAYDxgTGB4yCAgGEAAYExgeMgoIBxAAGA8YExgeMggICBAAGBMYHjIKCAkQABgFGBMYHtIBCDc1MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+两军问题 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=9c6b59696e202399&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILH3Ba8a-q-u_000-KJdLZTZdpb2A:1714974550094&q=%E4%B8%A4%E5%86%9B%E9%97%AE%E9%A2%98&si=ACC90nxthFeyIy5N4Ugw8gji63eCnmdPBdt-THBS9YgVvMcNeOt8krNEoE6QGnBGaLdaZXW1Ha1XeHk66MABGt1UUXXvQivlYhpqew3xyFFyoqObb24qY5DH0WSIgJxtzXYOLJmrZsfwrs7xDgdFhi_WhBa-C_G-APz6akw8xTnAbikXpLR2BE3s07yWHEx2pas5bofuydpdpwb8Ulg6vCSHwVE3P7jiSriaGO93hxGbEVe-o0vWhXftxXWJfgKi0BqaqqSZTcT8vXQwP1qpD2snotmvPf7W-g%3D%3D&sa=X&ved=2ahUKEwigse2GqviFAxUfoK8BHdZvC9MQ6RN6BAg4EAE&biw=1536&bih=703&dpr=1.25
+
+两军问题 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%A4%E5%86%9B%E9%97%AE%E9%A2%98
+
+Notes on Data Base Operating Systems - Google 搜索
+https://www.google.com.hk/search?q=Notes+on+Data+Base+Operating+Systems&rlz=1C1GCEA_enJP1090JP1090&oq=Notes+on+Data+Base+Operating+Systems&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Lecture Notes in Computer Science | Book series home
+https://www.springer.com/series/0558
+
+yohhoy/cpp-concepts: C++ Standard concepts diagrams
+https://github.com/yohhoy/cpp-concepts
+
+[conv.array]
+https://timsong-cpp.github.io/cppwp/conv.array
+
+Eelis/cxxdraft-htmlgen: Generates https://eel.is/c++draft
+https://github.com/Eelis/cxxdraft-htmlgen
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
