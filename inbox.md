@@ -1,5 +1,17 @@
 # 2024-5-6 0 | 0 W
 
+if the problem happens, it must happens recently if there is people.
+If a problem haapens and it stays for a long time, that means nobody is doing what you do now?
+
+people want js running out of browser and don't care whether it's
+
+frontend developer want to download thirdparty code from the internet and bundle it.
+
+while doesn't care about whether it's d8 jsc or node or deno or bun.
+node is successful beacuse at that time it's a good enough satisify the need.
+node may not be the best(e.g performance) , or the only choice. but people doesn't need so much, and it's good enough.
+
+
 cargo install --git https://github.com/evmar/n2 --force
 
 objdump -TC ./build/libtvm.so | grep tvm

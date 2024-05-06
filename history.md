@@ -1,3 +1,281 @@
+# 2024-5-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+n2/Cargo.lock at 15a580d2c17844859d35ed8d098f3ec32d1aa90b · evmar/n2
+https://github.com/evmar/n2/blob/15a580d2c17844859d35ed8d098f3ec32d1aa90b/Cargo.lock#L346
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+18-advanced-topic-mlc.pdf
+https://mlsyscourse.org/slides/18-advanced-topic-mlc.pdf
+
+17-lessons-from-mlsys.pdf
+https://mlsyscourse.org/slides/17-lessons-from-mlsys.pdf
+
+cs5460/6460 Operating Systems (Spring 2024) - Final recap - YouTube
+https://www.youtube.com/watch?v=yywVgcwpef4
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Recent changes to posix spawn seems to cause a segfault in std::process::Command · Issue #3677 · rust-lang/libc
+https://github.com/rust-lang/libc/issues/3677
+
+Recent changes to posix spawn seems to cause a segfault in std::process::Command · Issue #3677 · rust-lang/libc
+https://github.com/rust-lang/libc/issues/3677
+
+Typst "expected string or content found dictionary" · Issue #4025 · typst/typst
+https://github.com/typst/typst/issues/4025
+
+Error
+https://github.com/search?q=involves%3Atargos&type=issues&p=3
+
+image-js/image-js-typescript: Temporary repository to work on the migration of image-js to TypeScript
+https://github.com/image-js/image-js-typescript
+
+Mask | ImageJS
+https://image-js.github.io/image-js-typescript/classes/Mask.html
+
+QQ邮箱 - 收件箱
+https://mail.qq.com/cgi-bin/frame_html?sid=LfhTZ8PbVLyEwmwK&r=fb1b7fc762cceb336b23f466ff9cb86e&lang=zh
+
+Home
+http://localhost:8888/tree
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=disjunctionsg&op=translate
+
+servo/book: The Servo Book (experimental)
+https://github.com/servo/book
+
+Javascript Error: IPython is not defined - Google 搜索
+https://www.google.com.hk/search?q=Javascript+Error%3A+IPython+is+not+defined&rlz=1C1GCEA_enJP1090JP1090&oq=Javascript+Error%3A+IPython+is+not+defined&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tensorflow/tensorflow/tools/graph_transforms/fold_batch_norms.cc at 8f2a34c44827234ac1e3630cf63a9b5d99146287 · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow/blob/8f2a34c44827234ac1e3630cf63a9b5d99146287/tensorflow/tools/graph_transforms/fold_batch_norms.cc#L31
+
+Catalyst: Home
+https://catalyst.cs.cmu.edu/
+
+tvm - Google 搜索
+https://www.google.com.hk/search?q=tvm&rlz=1C1GCEA_enJP1090JP1090&oq=tvm&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEHNjk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Introduction — tvm 0.17.dev0 documentation
+https://tvm.apache.org/docs/tutorial/introduction.html
+
+Apache TVM | Hacker News
+https://news.ycombinator.com/item?id=35765140
+
+apache tvm 知乎 - Google 搜索
+https://www.google.com.hk/search?q=apache+tvm+%E7%9F%A5%E4%B9%8E&rlz=1C1GCEA_enJP1090JP1090&oq=apache+tvm+%E7%9F%A5%E4%B9%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDU5NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Install from Source — tvm 0.17.dev0 documentation
+https://tvm.apache.org/docs/install/from_source.html
+
+dnf install ninja - Google 搜索
+https://www.google.com.hk/search?q=dnf+install+ninja&rlz=1C1GCEA_enJP1090JP1090&oq=dnf+install+ninja&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIKCAIQABiABBiiBNIBCTE4ODY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+fastfetch github - Google 搜索
+https://www.google.com.hk/search?q=fastfetch+github&rlz=1C1GCEA_enJP1090JP1090&oq=fastfetch&gs_lcrp=EgZjaHJvbWUqBwgEEAAYgAQyCQgAEEUYORiABDIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQABiABDIJCAUQABgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINTE5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+fastfetch-cli/fastfetch: Like neofetch, but much faster because written mostly in C.
+https://github.com/fastfetch-cli/fastfetch
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+tree command exclude files - Google 搜索
+https://www.google.com.hk/search?q=tree+command+exclude+files&rlz=1C1GCEA_enJP1090JP1090&oq=tree+command+ex&gs_lcrp=EgZjaHJvbWUqBggGEAAYHjIHCAAQABiABDIGCAEQRRg5MgcIAhAAGIAEMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg2MTczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+options - tree command for multiple includes and excludes - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/61074/tree-command-for-multiple-includes-and-excludes
+
+list all symbols in shared library - Google 搜索
+https://www.google.com.hk/search?q=list+all+symbols+in+shared+library&rlz=1C1GCEA_enJP1090JP1090&oq=list+all+symbols&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAUYHjIICAgQABgFGB4yCAgJEAAYBRge0gEIMzk2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+dump one namespace symbols in shared library - Google 搜索
+https://www.google.com.hk/search?q=dump+one+namespace+symbols+in+shared+library&rlz=1C1GCEA_enJP1090JP1090&oq=dump+one+namespace+symbols+&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigAdIBCDg5NTlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+
+linux - How do I find out what all symbols are exported from a shared object? - Stack Overflow
+https://stackoverflow.com/questions/1237575/how-do-i-find-out-what-all-symbols-are-exported-from-a-shared-object
+
+why function signature is complex is c++ - Google 搜索
+https://www.google.com.hk/search?q=why+function+signature+is+complex+is+c%2B%2B&rlz=1C1GCEA_enJP1090JP1090&oq=why+function+signature+is+complex+is+c%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCTI3MDg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+where is cargo download path - Google 搜索
+https://www.google.com.hk/search?q=where+is+cargo+download+path&rlz=1C1GCEA_enJP1090JP1090&oq=where+is+cargo+download+path&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDYzNzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+matrox显卡 - Google 搜索
+https://www.google.com.hk/search?q=matrox%E6%98%BE%E5%8D%A1&newwindow=1&sca_esv=1b97633427c5a4ec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILPIw2RRyFmfZBcR8BUS2T3kOg4GQ%3A1714959207497&ei=ZzM4ZprUFq6Xvr0PtJIn&oq=Matrox+xia&gs_lp=Egxnd3Mtd2l6LXNlcnAiCk1hdHJveCB4aWEqAggAMgcQABiABBgMMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESJgVULQCWKwLcAJ4AZABAJgBowGgAZcIqgEDMC43uAEDyAEA-AEBmAIJoAKzCMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIOEC4YgAQY0QMYxwEYywHCAgoQABiABBgKGMsBwgIFEAAYgATCAggQABgIGAoYHpgDAIgGAZAGCpIHAzIuN6AH4Ro&sclient=gws-wiz-serp
+
+(8 封私信 / 80 条消息) 迈创显卡是什么？matrox？ - 知乎
+https://www.zhihu.com/question/37027466
+
+Rocky Linux 知乎 - Google 搜索
+https://www.google.com.hk/search?q=Rocky+Linux+%E7%9F%A5%E4%B9%8E&newwindow=1&sca_esv=1b97633427c5a4ec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKZyZ2JsSSQwHasVUx6q0hofYpdPA%3A1714959347263&ei=8zM4ZojXD5-u2roPt8qt2Ag&ved=0ahUKEwjInMq18feFAxUfl1YBHTdlC4sQ4dUDCBA&uact=5&oq=Rocky+Linux+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiElJvY2t5IExpbnV4IOefpeS5jjIFEAAYgAQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjADVCjAVjJDHABeAGQAQCYAboBoAG-CKoBAzAuN7gBA8gBAPgBAZgCBqACnAbCAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGMsBwgIHEAAYgAQYDJgDAIgGAZAGB5IHAzEuNaAH6xM&sclient=gws-wiz-serp
+
+(8 封私信 / 80 条消息) 如何看待CentOS 创始人新发起的Rocky Linux项目? - 知乎
+https://www.zhihu.com/question/434205770
+
+MariaDB github - Google 搜索
+https://www.google.com.hk/search?q=MariaDB+github&newwindow=1&sca_esv=1b97633427c5a4ec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJJn2VA0jarFeUtNgqnv8BgER_oxg%3A1714959458208&ei=YjQ4ZvmkDIbl2roPu4aF2AE&ved=0ahUKEwj53b3q8feFAxWGslYBHTtDARsQ4dUDCBA&uact=5&oq=MariaDB+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDk1hcmlhREIgZ2l0aHViMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeSO8JUHlY5wdwAXgBkAEAmAG2AaABxgiqAQMwLje4AQPIAQD4AQGYAgegAtgHwgIKEAAYsAMY1gQYR8ICDhAuGIAEGNEDGMcBGMsBwgIFEAAYgASYAwCIBgGQBgqSBwMxLjagB4ka&sclient=gws-wiz-serp
+
+MariaDB
+https://github.com/MariaDB
+
+Contributing | Deno Docs
+https://docs.deno.com/runtime/manual/references/contributing/
+
+react - npm
+https://www.npmjs.com/package/react
+
+Downloading and installing packages locally | npm Docs
+https://docs.npmjs.com/downloading-and-installing-packages-locally
+
+tannal.github.io/chatggg.html at main · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/blob/main/chatggg.html
+
+Issues · WICG/import-maps
+https://github.com/WICG/import-maps/issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+Segmentfault when building fastfetch · Issue #116 · evmar/n2
+https://github.com/evmar/n2/issues/116
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+Issues · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues?q=is%3Aissue+is%3Aopen+version
+
+FAQ - The Cargo Book
+https://doc.rust-lang.org/cargo/faq.html?highlight=cargo.lock#why-have-cargolock-in-version-control
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Contributors to evmar/n2
+https://github.com/evmar/n2/graphs/contributors?from=2023-05-09&to=2024-05-06&type=c
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+18-advanced-topic-mlc.pdf
+https://mlsyscourse.org/slides/18-advanced-topic-mlc.pdf
+
+17-lessons-from-mlsys.pdf
+https://mlsyscourse.org/slides/17-lessons-from-mlsys.pdf
+
+cs5460/6460 Operating Systems (Spring 2024) - Final recap - YouTube
+https://www.youtube.com/watch?v=yywVgcwpef4
+
+Re: [evmar/n2] Segmentfault when building fastfetch (Issue #116) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFSkpdJtNSMTLJkjcltfDQkC
+
+Recent changes to posix spawn seems to cause a segfault in std::process::Command · Issue #3677 · rust-lang/libc
+https://github.com/rust-lang/libc/issues/3677
+
+Typst "expected string or content found dictionary" · Issue #4025 · typst/typst
+https://github.com/typst/typst/issues/4025
+
+Error
+https://github.com/search?q=involves%3Atargos&type=issues&p=3
+
+image-js/image-js-typescript: Temporary repository to work on the migration of image-js to TypeScript
+https://github.com/image-js/image-js-typescript
+
+Mask | ImageJS
+https://image-js.github.io/image-js-typescript/classes/Mask.html
+
+QQ邮箱 - 收件箱
+https://mail.qq.com/cgi-bin/frame_html?sid=LfhTZ8PbVLyEwmwK&r=fb1b7fc762cceb336b23f466ff9cb86e&lang=zh
+
+Home
+http://localhost:8888/tree
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=disjunctionsg&op=translate
+
+servo/book: The Servo Book (experimental)
+https://github.com/servo/book
+
+Javascript Error: IPython is not defined - Google 搜索
+https://www.google.com.hk/search?q=Javascript+Error%3A+IPython+is+not+defined&rlz=1C1GCEA_enJP1090JP1090&oq=Javascript+Error%3A+IPython+is+not+defined&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tensorflow/tensorflow/tools/graph_transforms/fold_batch_norms.cc at 8f2a34c44827234ac1e3630cf63a9b5d99146287 · tensorflow/tensorflow
+https://github.com/tensorflow/tensorflow/blob/8f2a34c44827234ac1e3630cf63a9b5d99146287/tensorflow/tools/graph_transforms/fold_batch_norms.cc#L31
+
+Catalyst: Home
+https://catalyst.cs.cmu.edu/
+
+tvm - Google 搜索
+https://www.google.com.hk/search?q=tvm&rlz=1C1GCEA_enJP1090JP1090&oq=tvm&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEHNjk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Introduction — tvm 0.17.dev0 documentation
+https://tvm.apache.org/docs/tutorial/introduction.html
+
+Apache TVM | Hacker News
+https://news.ycombinator.com/item?id=35765140
+
+apache tvm 知乎 - Google 搜索
+https://www.google.com.hk/search?q=apache+tvm+%E7%9F%A5%E4%B9%8E&rlz=1C1GCEA_enJP1090JP1090&oq=apache+tvm+%E7%9F%A5%E4%B9%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDU5NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Install from Source — tvm 0.17.dev0 documentation
+https://tvm.apache.org/docs/install/from_source.html
+
+dnf install ninja - Google 搜索
+https://www.google.com.hk/search?q=dnf+install+ninja&rlz=1C1GCEA_enJP1090JP1090&oq=dnf+install+ninja&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIKCAIQABiABBiiBNIBCTE4ODY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+fastfetch github - Google 搜索
+https://www.google.com.hk/search?q=fastfetch+github&rlz=1C1GCEA_enJP1090JP1090&oq=fastfetch&gs_lcrp=EgZjaHJvbWUqBwgEEAAYgAQyCQgAEEUYORiABDIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQABiABDIJCAUQABgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINTE5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+fastfetch-cli/fastfetch: Like neofetch, but much faster because written mostly in C.
+https://github.com/fastfetch-cli/fastfetch
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+tree command exclude files - Google 搜索
+https://www.google.com.hk/search?q=tree+command+exclude+files&rlz=1C1GCEA_enJP1090JP1090&oq=tree+command+ex&gs_lcrp=EgZjaHJvbWUqBggGEAAYHjIHCAAQABiABDIGCAEQRRg5MgcIAhAAGIAEMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg2MTczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+options - tree command for multiple includes and excludes - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/61074/tree-command-for-multiple-includes-and-excludes
+
+list all symbols in shared library - Google 搜索
+https://www.google.com.hk/search?q=list+all+symbols+in+shared+library&rlz=1C1GCEA_enJP1090JP1090&oq=list+all+symbols&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAUYHjIICAgQABgFGB4yCAgJEAAYBRge0gEIMzk2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+dump one namespace symbols in shared library - Google 搜索
+https://www.google.com.hk/search?q=dump+one+namespace+symbols+in+shared+library&rlz=1C1GCEA_enJP1090JP1090&oq=dump+one+namespace+symbols+&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigAdIBCDg5NTlqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+
+linux - How do I find out what all symbols are exported from a shared object? - Stack Overflow
+https://stackoverflow.com/questions/1237575/how-do-i-find-out-what-all-symbols-are-exported-from-a-shared-object
+
+why function signature is complex is c++ - Google 搜索
+https://www.google.com.hk/search?q=why+function+signature+is+complex+is+c%2B%2B&rlz=1C1GCEA_enJP1090JP1090&oq=why+function+signature+is+complex+is+c%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCTI3MDg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+where is cargo download path - Google 搜索
+https://www.google.com.hk/search?q=where+is+cargo+download+path&rlz=1C1GCEA_enJP1090JP1090&oq=where+is+cargo+download+path&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDYzNzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+matrox显卡 - Google 搜索
+https://www.google.com.hk/search?q=matrox%E6%98%BE%E5%8D%A1&newwindow=1&sca_esv=1b97633427c5a4ec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILPIw2RRyFmfZBcR8BUS2T3kOg4GQ%3A1714959207497&ei=ZzM4ZprUFq6Xvr0PtJIn&oq=Matrox+xia&gs_lp=Egxnd3Mtd2l6LXNlcnAiCk1hdHJveCB4aWEqAggAMgcQABiABBgMMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESJgVULQCWKwLcAJ4AZABAJgBowGgAZcIqgEDMC43uAEDyAEA-AEBmAIJoAKzCMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIOEC4YgAQY0QMYxwEYywHCAgoQABiABBgKGMsBwgIFEAAYgATCAggQABgIGAoYHpgDAIgGAZAGCpIHAzIuN6AH4Ro&sclient=gws-wiz-serp
+
+(8 封私信 / 80 条消息) 迈创显卡是什么？matrox？ - 知乎
+https://www.zhihu.com/question/37027466
+
 # 2024-5-5
 
 typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
