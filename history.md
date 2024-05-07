@@ -1,5 +1,77 @@
 # 2024-5-6
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+• Discord | #📣announcements | Low Level IQ
+https://discord.com/channels/1071359157099319316/1071359157548097667
+
+Issues · nodejs/performance
+https://github.com/nodejs/performance/issues
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+mongo/docs/building.md at master · mongodb/mongo
+https://github.com/mongodb/mongo/blob/master/docs/building.md
+
+vello/src/util.rs at 30562ceadc9bd02d8af76a2a4e7f5de7393777d1 · linebender/vello
+https://github.com/linebender/vello/blob/30562ceadc9bd02d8af76a2a4e7f5de7393777d1/src/util.rs#L53
+
+Issue search results
+https://github.com/search?q=repo%3Alinebender%2Fvello+%22debug%21%22&type=issues
+
+No rendering on Linux + NVidia after rustup · Issue #4754 · servo/servo
+https://github.com/servo/servo/issues/4754
+
+surfman/surfman/src/error.rs at ae14cc9afd140bc73e89f3fe8c080f729f09ccd2 · servo/surfman
+https://github.com/servo/surfman/blob/ae14cc9afd140bc73e89f3fe8c080f729f09ccd2/surfman/src/error.rs#L131
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+This month in Servo: Acid2 redux, Servo book, Qt demo, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2024/04/26/acid2-servo-book-qt/
+
+KDABLabs/cxx-qt-servo-webview: Servo WebView for Qt using CXX-Qt
+https://github.com/KDABLabs/cxx-qt-servo-webview
+
+elninotech/uppload: 📁 JavaScript image uploader and editor, no backend required
+https://github.com/elninotech/uppload
+
+FDUCSLG/typst-slides-fudan: 一个复旦幻灯片的 Typst 主题。An unofficial Fudan slide theme for Typst.
+https://github.com/FDUCSLG/typst-slides-fudan
+
+东北师范大学
+https://www.nenu.edu.cn/index.htm
+
+logo.png (335×67)
+https://www.nenu.edu.cn/images/logo.png
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Repositories
+https://github.com/orgs/typst/repositories
+
+Myriad-Dreamin/tinymist: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+https://github.com/Myriad-Dreamin/tinymist
+
+Solved: Re: Interactive PDF - make objects appear on click... - Adobe Community - 9019449
+https://community.adobe.com/t5/acrobat-discussions/interactive-pdf-make-objects-appear-on-click/m-p/9019450#M51964
+
+Login - ChatGPT
+https://auth.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=b9906520-8f5f-4748-8899-bcf0ff05765d&prompt=login&screen_hint=login&state=LJrHYT0AuBFVZ5FojQVfhU2wmLyBSlIyxcgm2wvG3kU&code_challenge=YjwzAbPNE8Lru5OD1OAJTtIJRwKBgkIFHAgDT57tbRc&code_challenge_method=S256
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

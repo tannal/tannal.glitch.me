@@ -1,5 +1,11 @@
 # 2024-5-6 0 | 0 W
 
+
+git clone https://github.com/mongodb/mongo
+
+python3 -m pip install 'poetry==1.5.1'
+python3 -m poetry install --no-root --sync
+
 libstemmer_c/mkinc.mak
 
 dnf --enablerepo=devel install nasm
