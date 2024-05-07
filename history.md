@@ -1,3 +1,47 @@
+# 2024-5-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+magcius/noclip.website: A digital museum of video game levels
+https://github.com/magcius/noclip.website/
+
+Using V8’s sample-based profiler · V8
+https://v8.dev/docs/profile
+
+Node.js Profiling Using the V8 Tick Profiler
+https://cjihrig.com/profiling_with_v8_tick_profiler
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&p=9
+
+vaibhavjhawar/typst-cv-template1: A Typst Resume/CV template, inspired by Alessandro Plasmati's Graduate CV LaTex template
+https://github.com/vaibhavjhawar/typst-cv-template1
+
+FlixCoder/typst-slides: Typst beamer/slides template for presentations
+https://github.com/FlixCoder/typst-slides
+
+Noxsios/cv: Single-page, clean and simple developer CV
+https://github.com/Noxsios/cv
+
+flavio20002/typst-presentation-minimal-template
+https://github.com/flavio20002/typst-presentation-minimal-template
+
+xichen1/typst-resume: My resume built by typst
+https://github.com/xichen1/typst-resume
+
+akai-omurbek/Typst-CV: Simple one page CV
+https://github.com/akai-omurbek/Typst-CV
+
+1bitbool/SimplePaper: 一个简单的 Typst 中文模板
+https://github.com/1bitbool/SimplePaper?tab=readme-ov-file
+
 # 2024-5-6
 
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

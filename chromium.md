@@ -1,6 +1,7 @@
 
 # dev
 
+./out/Default/chrome --js-flags='--prof' --no-sandbox 'https://bilibili.com'
 
 sudo perf record --call-graph dwarf -F 99 -p 174161 -g -- sleep 30
 sudo perf script > ./graph/out.chromiumgpuprocstacks01
