@@ -1,3 +1,23 @@
+# 2024-5-7 0 | 0 W
+
+
+dnf install dnf-plugins-core
+dnf copr enable vbatts/bazel
+dnf install bazel4
+dnf install bazel5
+dnf install bazel7
+
+sudo tee /etc/yum.repos.d/bazel.repo <<EOF
+[bazel]
+name=Bazel
+baseurl=https://bazel.build/repos/yum/stable/el7/x86_64/
+enabled=1
+gpgcheck=1
+gpgkey=https://bazel.build/bazel-release.pub.gpg
+EOF
+
+
+
 # 2024-5-6 0 | 0 W
 
 

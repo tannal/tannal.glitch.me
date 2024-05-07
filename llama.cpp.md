@@ -2,6 +2,8 @@
 
 # people
 
+cmake . -DCMAKE_C_FLAGS="-mfpu=neon-fp-armv8 -mfp16-format=ieee -mno-unaligned-access -funsafe-math-optimizations"
+
 involves:ggerganov
 
 

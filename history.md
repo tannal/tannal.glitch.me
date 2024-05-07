@@ -3,6 +3,135 @@
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+GitHub
+https://github.com/
+
+18-447_course_schedule_spring_2024 - James C. Hoe
+https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_course_schedule_spring_2024
+
+Microsoft PowerPoint - L03-fpga-more
+https://users.ece.cmu.edu/~jhoe/course/ece643/latest/L03.pdf
+
+Microsoft PowerPoint - L24-CC.pptx
+https://users.ece.cmu.edu/~jhoe/course/ece447/S24handouts/L24.pdf
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%2018&sort=byPopularity&type=story
+
+chord_sigcomm.pdf
+https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
+
+Small Guide to Giving Presentations
+https://people.inf.ethz.ch/markusp/teaching/guides/guide-presentations-new.pdf
+
+quilting5.dvi
+http://graphics.cs.cmu.edu/people/efros/research/quilting/quilting.pdf
+
+How to Write Fast Numerical Code
+https://acl.inf.ethz.ch/teaching/fastcode/2023/slides/08-locality-caches.pdf
+
+How to Write Fast Numerical Code
+https://acl.inf.ethz.ch/teaching/fastcode/2023/slides/07-simd-avx.pdf
+
+SIMD Everywhere
+https://github.com/simd-everywhere
+
+Intrinsics – Arm Developer
+https://developer.arm.com/architectures/instruction-sets/intrinsics/#f:@navigationhierarchiessimdisa=[Neon]&f:@navigationhierarchiesreturnbasetype=[float]&q=vaddq
+
+Neon intrinsics - Google 搜索
+https://www.google.com/search?q=Neon+intrinsics&rlz=1C1GCEA_enJP1090JP1090&oq=Neon+intrinsics&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTk0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+ChatGPT
+https://chatgpt.com/c/3a4117c6-4e04-4e36-8737-420bdb65fd03
+
+whisper.cpp/ggml-impl.h at 58210d6a7634ea1e42e0a2dab611f4a0518731dc · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/blob/58210d6a7634ea1e42e0a2dab611f4a0518731dc/ggml-impl.h#L93
+
+Computing the volume of a convex body - Google 搜索
+https://www.google.com.hk/search?q=Computing+the+volume+of+a+convex+body&rlz=1C1GCEA_enJP1090JP1090&oq=Computing+the+volume+of+a+convex+body&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Convex Volume Approximation - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=b976aec808112cb5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJHc9yz3tQxWxGOajy9MdF621PbWA:1715044131758&q=Convex+Volume+Approximation&tbm=isch&source=lnms&prmd=ivsnbz&sa=X&ved=2ahUKEwidkP2hrfqFAxVT1jQHHRYMDaoQ0pQJegQIDRAB&biw=1536&bih=703&dpr=1.25
+
+Do not speak unless you can improve the silence - Google 搜索
+https://www.google.com.hk/search?q=Do+not+speak+unless+you+can+improve+the+silence&rlz=1C1GCEA_enJP1090JP1090&oq=Do+not+speak+unless+you+can+improve+the+silence&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgYIBRBFGEAyBggGEEUYQNIBBzY0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Ion Stoica - Google 搜索
+https://www.google.com.hk/search?q=Ion+Stoica&rlz=1C1GCEA_enJP1090JP1090&oq=Ion+Stoica&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+CS 262a, Spring 2018
+https://ucbrise.github.io/cs262a-spring2018/
+
+FFS.pdf
+https://people.eecs.berkeley.edu/~brewer/cs262/FFS.pdf
+
+Databricks github - Google 搜索
+https://www.google.com.hk/search?q=Databricks+github&rlz=1C1GCEA_enJP1090JP1090&oq=Databricks+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB7SAQgzODIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Repositories
+https://github.com/orgs/databricks/repositories?q=lang%3AC%2B%2B
+
+Future of the livegrep frontend(s) · Issue #383 · livegrep/livegrep
+https://github.com/livegrep/livegrep/issues/383
+
+livegrep/livegrep: Interactively grep source code. Source for http://livegrep.com/
+https://github.com/livegrep/livegrep
+
+context_switch ⋅ search
+https://livegrep.com/search/linux?q=context_switch&fold_case=auto&regex=false&context=true
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+is%3Aopen++
+
+bazel github - Google 搜索
+https://www.google.com.hk/search?q=bazel+github&rlz=1C1GCEA_enJP1090JP1090&oq=bazel+github&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgkIARAAGAwYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMjE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+bazelbuild/bazel: a fast, scalable, multi-language and extensible build system
+https://github.com/bazelbuild/bazel
+
+bazel-0.23.2-alt1.x86_64.rpm ALT Linux P9 Download
+https://altlinux.pkgs.org/p9/classic-x86_64/bazel-0.23.2-alt1.x86_64.rpm.html
+
+bazel install dnf yum - Google 搜索
+https://www.google.com.hk/search?q=bazel+install+dnf+yum&rlz=1C1GCEA_enJP1090JP1090&oq=bazel+install+dnf+yum&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigAdIBCDQ0NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Documentation issue: Installing Bazel on Fedora and CentOS · Issue #19295 · bazelbuild/bazel
+https://github.com/bazelbuild/bazel/issues/19295
+
+Bazel
+https://bazel.build/start?hl=zh-cn
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+bazel - Google 搜索
+https://www.google.com.hk/search?q=bazel&rlz=1C1GCEA_enJP1090JP1090&oq=bazel&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgYIARBFGDsyBggCEEUYOzIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMTMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+centos安装bazel - Google 搜索
+https://www.google.com.hk/search?q=centos%E5%AE%89%E8%A3%85bazel&newwindow=1&sca_esv=d265e0c6ccb16526&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILv2SlJCjPySF-4z6h_QYsm7k55Sw%3A1715045957703&ei=RYY5Zs68Kq_j2roPouWyuAw&oq=Rocky+Linux+8.6+x86_64+install+bazel&gs_lp=Egxnd3Mtd2l6LXNlcnAiJFJvY2t5IExpbnV4IDguNiB4ODZfNjQgaW5zdGFsbCBiYXplbCoCCAEyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI_CNQAFgAcAN4AZABAJgBAKABAKoBALgBAcgBAJgCA6ACGpgDAIgGAZAGCpIHATOgBwA&sclient=gws-wiz-serp
+
+centos7安装bazel
+https://www.volcengine.com/theme/2633488-C-7-1
+
+bazel build 404 - Google 搜索
+https://www.google.com.hk/search?q=bazel+build+404&rlz=1C1GCEA_enJP1090JP1090&oq=bazel+build+404&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMjE1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Bazel build helloworld with a '404 Not Found' error · Issue #533 · google/mediapipe
+https://github.com/google/mediapipe/issues/533
+
+AWSでbazelをインストールする方法 #AWS - Qiita
+https://qiita.com/shinochin/items/adbc5b2834a16e58d4e2
+
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 #general > Servo layout - Servo - Zulip
 https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
 
