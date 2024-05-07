@@ -1,5 +1,9 @@
 
 
+# funding
+
+https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/
+
 # So, where is the money in the world?
 
 AI LLM Generative Model a lot money in recently

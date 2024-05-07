@@ -3,6 +3,60 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+livegrep/livegrep: Interactively grep source code. Source for http://livegrep.com/
+https://github.com/livegrep/livegrep
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+(18) #xilem > ARCHITECTURE.md - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/ARCHITECTURE.2Emd
+
+Use Rust-1.78 `#[diagnostic::on_unimplemented]` to clarify `push_next` trait by MarijnS95 · Pull Request #915 · ash-rs/ash
+https://github.com/ash-rs/ash/pull/915
+
+Announcing Rust 1.78.0 | Rust Blog
+https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html
+
+Pricing | Cursor - The AI-first Code Editor
+https://cursor.sh/pricing
+
+getcursor/cursor: The AI-powered code editor
+https://github.com/getcursor/cursor
+
+getcursor/cursor: The AI-powered code editor
+https://github.com/getcursor/cursor
+
+masonry: Require `ParentWindowOrigin` lifecycle when origin of child has changed by Philipp-M · Pull Request #278 · linebender/xilem
+https://github.com/linebender/xilem/pull/278/files
+
+Issue search results
+https://github.com/search?q=involves%3Aaduh95&type=issues
+
+GitHub
+https://github.com/
+
+Node test failing · Issue #52052 · nodejs/node
+https://github.com/nodejs/node/issues/52052
+
+Free and Open Source Software Sustainability Fund | OTF
+https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/
+
+`--test` & `--test-reporter` & `--test-reporter-destination` will swallow error · Issue #52670 · nodejs/node
+https://github.com/nodejs/node/issues/52670
+
+ada-url/ada: WHATWG-compliant and fast URL parser written in modern C++
+https://github.com/ada-url/ada
+
+Installing Bazel on Ubuntu
+https://bazel.build/install/ubuntu
+
+Releases · bazelbuild/bazel
+https://github.com/bazelbuild/bazel/releases
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 magcius/noclip.website: A digital museum of video game levels
 https://github.com/magcius/noclip.website/
 
