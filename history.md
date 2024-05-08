@@ -1,5 +1,59 @@
 # 2024-5-8
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+https://github.com/ptitSeb/box64
+
+Issues · rust-windowing/winit
+https://github.com/rust-windowing/winit/issues?q=is%3Aissue+Error+creating+Device+is%3Aclosed
+
+Error creating Device · Issue #157 · linebender/xilem
+https://github.com/linebender/xilem/issues/157
+
+env_logger - Rust
+https://docs.rs/env_logger/latest/env_logger/
+
+MotionMark 1.3
+https://browserbench.org/MotionMark1.3/
+
+Directory structure* - The Servo Book
+https://book.servo.org/architecture/directory-structure.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+wizard-engine/doc/Building.md at master · titzer/wizard-engine
+https://github.com/titzer/wizard-engine/blob/master/doc/Building.md
+
+Package release for Linux ARM64 · Issue #347 · WebAssembly/wasi-sdk
+https://github.com/WebAssembly/wasi-sdk/issues/347
+
+#cargo-component - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/407292-cargo-component
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+premake5 github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=premake5+github
+
+premake-core/BUILD.txt at master · premake/premake-core
+https://github.com/premake/premake-core/blob/master/BUILD.txt
+
+KDABLabs/cxx-qt-servo-webview: Servo WebView for Qt using CXX-Qt
+https://github.com/KDABLabs/cxx-qt-servo-webview
+
+Repository search results
+https://github.com/search?q=skia+language%3AC%2B%2B&type=repositories&l=C%2B%2B
+
+skui-org/skui: Skia-based C++ UI framework
+https://github.com/skui-org/skui
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/references.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
