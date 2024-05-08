@@ -1,5 +1,56 @@
 # 2024-5-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Verify that `npm` is runnable in tests · Issue #52891 · nodejs/node
+https://github.com/nodejs/node/issues/52891
+
+Re-enable test-ubsan.yml · Issue #52753 · nodejs/node
+https://github.com/nodejs/node/issues/52753
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/#
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/login/enterMain/contestant/myContest
+
+openKylin - 麒麟软件有限公司 - Gitee.com
+https://gitee.com/organizations/openkylin/projects
+
+openKylin/riscv-ai-2024
+https://gitee.com/openkylin/riscv-ai-2024
+
+openKylin/wine
+https://gitee.com/openkylin/wine
+
+openKylin/box86
+https://gitee.com/openkylin/box86
+
+openKylin/box64 - 码云 - 开源中国
+https://gitee.com/openkylin/box64
+
+Inner workings – Box86 / Box64
+https://box86.org/2021/07/inner-workings-a-high%E2%80%91level-view-of-box86-and-a-low%E2%80%91level-view-of-the-dynarec/
+
+ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+https://github.com/ptitSeb/box64
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+cxong/cdogs-sdl: Classic overhead run-and-gun game
+https://github.com/cxong/cdogs-sdl
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
