@@ -1,5 +1,36 @@
 # 2024-5-8 0 | 0 W
 
+gcc -o sdl2 test.cpp $(pkg-config --cflags --libs sdl2)
+
+
+sudo apt install libsdl2-image-dev libsdl2-mixer-dev
+
+sudo mkdir -p /usr/lib/x86_64-linux-gnu/cmake/sdl2_image/
+
+sudo vim /usr/lib/x86_64-linux-gnu/cmake/sdl2_image/sdl2_image-config.cmake
+
+set(prefix "/usr") 
+set(exec_prefix "${prefix}")
+set(libdir "${prefix}/lib/x86_64-linux-gnu")
+set(SDL2_IMAGE_PREFIX "/usr")
+set(SDL2_IMAGE_EXEC_PREFIX "/usr")
+set(SDL2_IMAGE_INCLUDE_DIRS "${prefix}/include/SDL2_image")
+set(SDL2_IMAGE_LIBRARIES "-lSDL2_image")
+
+
+sudo mkdir -p /usr/lib/x86_64-linux-gnu/cmake/sdl2_mixer/
+
+sudo vim /usr/lib/x86_64-linux-gnu/cmake/sdl2_mixer/sdl2_mixer-config.cmake
+
+
+set(prefix "/usr") 
+set(exec_prefix "${prefix}")
+set(libdir "${prefix}/lib/x86_64-linux-gnu")
+set(SDL2_mixer_PREFIX "/usr")
+set(SDL2_mixer_EXEC_PREFIX "/usr")
+set(SDL2_mixer_INCLUDE_DIRS "${prefix}/include/SDL2_mixer")
+set(SDL2_mixer_LIBRARIES "-lSDL2_mixer")
+
 git-webkit pr --overwrite
 
 # 2024-5-7 0 | 0 W

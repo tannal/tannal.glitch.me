@@ -1,3 +1,52 @@
+# 2024-5-9
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cxong/cdogs-sdl: Classic overhead run-and-gun game
+https://github.com/cxong/cdogs-sdl
+
+Discussion search results
+https://github.com/search?q=repo%3Acxong%2Fcdogs-sdl+build+language%3AMarkdown+&type=discussions
+
+Livegrep: Live searching the Linux kernel source code | Hacker News
+https://news.ycombinator.com/item?id=3869880
+
+google/codesearch: Fast, indexed regexp search over large file trees
+https://github.com/google/codesearch
+
+is a hack ⋅ search
+https://livegrep.com/search/linux?q=is%20a%20hack&fold_case=auto&regex=false&context=true
+
+Beyond grep: ack v3.7.0
+https://beyondgrep.com/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+I have libsdl2-image-dev installed via apt-get, but cmake cannot find it - Stack Overflow
+https://stackoverflow.com/questions/52813560/i-have-libsdl2-image-dev-installed-via-apt-get-but-cmake-cannot-find-it
+
+sdl2 cmake config not - Google 検索
+https://www.google.com/search?q=sdl2+cmake+config+not&client=ubuntu-sn&hs=CJ7&sca_esv=74c740cd3a771c52&channel=fs&ei=WYo7ZrHeD7Kk2roP1oyB-Ag&ved=0ahUKEwjx7qGeoP6FAxUyklYBHVZGAI8Q4dUDCBA&uact=5&oq=sdl2+cmake+config+not&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXNkbDIgY21ha2UgY29uZmlnIG5vdDIFECEYoAFI1kBQqglYwj9wAXgAkAEAmAGpAqABjSOqAQYwLjQuMTa4AQPIAQD4AQGYAhSgAqAiwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIQEAAYgAQYsQMYQxiDARiKBcICBRAAGIAEwgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGB4YD8ICBhAAGAgYHsICCBAAGIAEGKIEwgIIEAAYogQYiQXCAgQQIRgKmAMAiAYBkAYKkgcIMS4zLjE1LjGgB7Ur&sclient=gws-wiz-serp#ip=1
+
+Using SDL2 with CMake | Trenki’s Dev Blog
+https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/
+
+Using SDL2_image with CMake | Trenki’s Dev Blog
+https://trenki2.github.io/blog/2017/07/04/using-sdl2-image-with-cmake/
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/90044
+
+Repository search results
+https://github.com/search?q=raylib%20game&type=repositories
+
+
+
 # 2024-5-8
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
