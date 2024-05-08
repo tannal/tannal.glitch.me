@@ -1,5 +1,8 @@
-# 2024-5-7 0 | 0 W
+# 2024-5-8 0 | 0 W
 
+git-webkit pr --overwrite
+
+# 2024-5-7 0 | 0 W
 
 dnf install dnf-plugins-core
 dnf copr enable vbatts/bazel

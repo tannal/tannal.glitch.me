@@ -1,3 +1,146 @@
+# 2024-5-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nmap scan ping ip range - Google 搜索
+https://www.google.com.hk/search?q=nmap+scan+ping+ip+range&rlz=1C1GCEA_enJP1090JP1090&oq=nmap+scan+pi&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDY1MjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Nmap Ping Sweep: How to Scan Networks for Live Hosts
+https://www.stationx.net/nmap-ping-sweep/
+
+ping a network range - Google 搜索
+https://www.google.com.hk/search?q=ping+a+network+range&rlz=1C1GCEA_enJP1090JP1090&oq=ping+a+network+range&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCAgFEAAYExgeMggIBhAAGBMYHjIICAcQABgTGB4yCggIEAAYDxgTGB4yCAgJEAAYExge0gEINzE0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+windows - How can I ping a range of IP addresses simultaneously - Super User
+https://superuser.com/questions/45687/how-can-i-ping-a-range-of-ip-addresses-simultaneously
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Ezra Miller's Flash Meets Grant Gustin's Flash - Crisis On Infinite Earths - Arrow - YouTube
+https://www.youtube.com/watch?v=CLMxcCiXN9E
+
+(24) #xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+Additional flex view options by keeslinp · Pull Request #285 · linebender/xilem
+https://github.com/linebender/xilem/pull/285
+
+linebender/xilem at masonry/v0.2.0
+https://github.com/linebender/xilem/tree/masonry/v0.2.0
+
+masonry: Require `ParentWindowOrigin` lifecycle when origin of child has changed by Philipp-M · Pull Request #278 · linebender/xilem
+https://github.com/linebender/xilem/pull/278/files
+
+Add announcement for `rust-lld` on linux nightlies by lqd · Pull Request #1319 · rust-lang/blog.rust-lang.org
+https://github.com/rust-lang/blog.rust-lang.org/pull/1319/files
+
+lapce/floem: A native Rust UI library with fine-grained reactivity
+https://github.com/lapce/floem
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files#diff-8f7e0523c116cee86df2079ba094836ad757e76dc6c4fe1774018bf50ced10f8
+
+Linker Switch Reduces Build Time
+https://chatgpt.com/c/575edbc6-83e0-46cc-9797-7d33fee7b694
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+• Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#javascriptcore
+
+Await some JS stress test results by justinmichaud · Pull Request #28174 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/28174
+
+[nfv.config] Add real-scale integration tests for `snabbnfv-traffic' by eugeneia · Pull Request #280 · snabbco/snabb
+https://github.com/snabbco/snabb/pull/280
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+`f32::from(<untyped float>)` inference with `f16` and `f128` · Issue #123831 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/123831
+
+Revolution Computers history · Issue #63 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/63
+
+Max Rottenkolber | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/maximillian
+
+How Do The Koreans Feel About Korean Stereotypes? | ASIAN BOSS - YouTube
+https://www.youtube.com/watch?v=jzNDUX7fMwQ
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+Visual formatting model
+https://www.w3.org/TR/CSS22/visuren.html#float-position
+
+Visual formatting model details
+https://www.w3.org/TR/CSS22/visudet.html#containing-block-details
+
+Conformance: requirements and recommendations
+https://www.w3.org/TR/CSS22/conform.html#root
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Floating Box Example
+https://html.spec.whatwg.org/
+
+Box model
+https://www.w3.org/TR/CSS22/box.html#collapsed-through
+
+CSS Gradient Generator
+https://www.joshwcomeau.com/gradient-generator/
+
+Online Courses | Josh W. Comeau
+https://www.joshwcomeau.com/courses/
+
+Why My Blog is Closed-Source
+https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/
+
+How To Center a Div
+https://www.joshwcomeau.com/css/center-a-div/
+
+JetBrains/skiko: Kotlin MPP bindings to Skia
+https://github.com/JetBrains/skiko?tab=readme-ov-file
+
+openKylin（开放麒麟）
+https://www.openkylin.top/
+
+中国研究生操作系统开源创新大赛暨第十三届麒麟杯全国开源应用软件开发大赛
+https://www.openkylin.top/community/kylin_cup_13nd.html
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/cw/hp/2c9080178c7c917b018d1b1a0af61cd6
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/
+
+中国研究生创新实践系列大赛管理平台
+https://cpipc.acge.org.cn/login/enterMain/contestant/myContest
+
 # 2024-5-7
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
