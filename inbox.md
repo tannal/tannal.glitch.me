@@ -1,5 +1,19 @@
 # 2024-5-8 0 | 0 W
 
+Simon Zünd
+
+Go to chrome://flags
+Search "Preferred Ozone platform"
+Set it to "Wayland"
+Restart
+
+memory management in application (only allocate, no free, we have gc)
+memory management in openjdk/cpython/v8/blink/webkit/ automatic
+memory management c/c++ (nothing)
+memory management in os (alloc, free) manual
+
+# 2024-5-8 0 | 0 W
+
 gcc -o sdl2 test.cpp $(pkg-config --cflags --libs sdl2)
 
 

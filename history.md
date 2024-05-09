@@ -1,5 +1,101 @@
 # 2024-5-9
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Commits · servo/servo
+https://github.com/servo/servo/commits/main/
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+This month in Servo: Acid2 redux, Servo book, Qt demo, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2024/04/26/acid2-servo-book-qt/
+
+Obey `white-space: pre-wrap` when intrinsically sizing an IFC by Loirooriol · Pull Request #31930 · servo/servo
+https://github.com/servo/servo/pull/31930/files
+
+Capital of France?
+https://chatgpt.com/c/b53b8886-e337-4232-b225-1af75c51ce06
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+flamegraph/out.chromiumstacks01 位于 main - flamegraph - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/flamegraph/src/branch/main/graph/out.chromiumstacks01
+
+libevent vs libuv
+https://gist.github.com/eddieh/c385193cf250aa51c9b1
+
+docs/memory-infra - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/master/docs/memory-infra/
+
+Oilpan - Blink GC
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/renderer/platform/heap/BlinkGCAPIReference.md
+
+Oilpan - Blink GC
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/renderer/platform/heap/BlinkGCAPIReference.md#Heap-partitioning
+
+Home — Memory Management Reference 4.0 documentation
+https://www.memorymanagement.org/index.html
+
+Chrome V8 javascript engine C++ 高性能垃圾收集器 Oilpan | HeapDump性能社区
+https://heapdump.cn/article/3727229
+
+Chrome V8 javascript engine 的3种垃圾回收算法 | HeapDump性能社区
+https://heapdump.cn/article/3730268
+
+Chrome V8 javascript engine 的3种垃圾回收算法 | HeapDump性能社区
+https://heapdump.cn/article/3730268
+
+风之石 | HeapDump性能社区
+https://heapdump.cn/u/1025660/article
+
+全部性能文章 | HeapDump性能社区
+https://heapdump.cn/articles/0/all/all
+
+有性能问题，上HeapDump性能社区
+https://heapdump.cn/
+
+深入了解 Chrome V8 javascript engine 的垃圾收集引擎 | HeapDump性能社区
+https://heapdump.cn/article/3729933
+
+Scavenger gc - Google 搜索
+https://www.google.com/search?q=Scavenger+gc&sca_esv=2f43c3e3d219e5de&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKeeRiDHa-rOYNTWDmOlPJGDBxnXg%3A1715218235878&ei=Oyc8ZqSYNYqv2roPst6KsAs&ved=0ahUKEwjkoaXttf-FAxWKl1YBHTKvArYQ4dUDCBA&uact=5&oq=Scavenger+gc&gs_lp=Egxnd3Mtd2l6LXNlcnAiDFNjYXZlbmdlciBnYzIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgoQABiABBgKGMsBMggQABiABBjLAUiVBFAAWJUDcAB4AZABAJgBqQKgAdwFqgEDMi0zuAEDyAEA-AEBmAIDoALsBcICChAAGIAEGEMYigXCAggQLhiABBjLAZgDAJIHBTItMi4xoAerDw&sclient=gws-wiz-serp
+
+X。尽是新鲜事 / X
+https://twitter.com/
+
+hooraybuffer github - Google 搜索
+https://www.google.com/search?q=hooraybuffer+github&rlz=1C1GCEA_enJP1090JP1090&oq=hooraybuffer+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKAB0gEINDExNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+X 上的 Matteo Collina：“Onboarding @hooraybuffer as a @nodejs collaborator at @NodeConfEU! 🎉 https://t.co/B7sOOVvqEC https://t.co/v02j5vNwzu” / X
+https://twitter.com/matteocollina/status/1059842124655538176
+
+confpad/confpad.github.io: ⚡️ ConfPad: community-curated list of tech conference talks, videos, slides and the like
+https://github.com/confpad/confpad.github.io/tree/master
+
+ConfPad
+https://confpad.io/
+
+chromium wayland - Google 搜索
+https://www.google.com/search?q=chromium+wayland&rlz=1C1GCEA_enJP1090JP1090&oq=chromium+wayland&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIGCAkQABge0gEINDMyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+WebAssembly in Redex | Asumu Takikawa
+https://asumu.org/blog/2019/04/29/webassembly-in-redex
+
+Support Conservancy - Software Freedom Conservancy
+https://sfconservancy.org/sustainer/
+
+lezer
+https://github.com/lezer-parser/
+
+Design Documents
+https://www.chromium.org/developers/design-documents/
+
 基础班大项目成绩公示 - 飞书云文档
 https://bytedance.larkoffice.com/sheets/shtcnmh1DwL7O2J59roHw9G3ote?sheet=d160ec
 
