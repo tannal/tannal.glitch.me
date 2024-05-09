@@ -1,5 +1,8 @@
 # 2024-5-8 0 | 0 W
 
+https://toji.github.io/webgpu-test/
+
+
 Simon Zünd
 
 Go to chrome://flags

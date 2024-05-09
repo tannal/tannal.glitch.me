@@ -3,6 +3,117 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Inner workings – Box86 / Box64
+https://box86.org/2021/07/inner-workings-a-high%E2%80%91level-view-of-box86-and-a-low%E2%80%91level-view-of-the-dynarec/
+
+openKylin - 麒麟软件有限公司 - Gitee.com
+https://gitee.com/organizations/openkylin/projects
+
+• Discord | 好友
+https://discord.com/channels/@me
+
+Issue search results
+https://github.com/search?q=involves%3Aphymbert&type=issues
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+tannal/wasmtime - wasmtime - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/wasmtime
+
+HollowMan6/My-Igalia-Coding-Experience: This is my record under Igalia Coding Experience. (这是我的"Igalia 编程体验"活动记录)
+https://github.com/HollowMan6/My-Igalia-Coding-Experience/tree/main?tab=readme-ov-file
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/138e9cac-ec86-43cb-a04f-c2980e3c2865
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Shift-drag to select multiple blocks and allow moving multiple block group · Issue #267 · google/blockly-samples
+https://github.com/google/blockly-samples/issues/267
+
+Plugin for Selecting & Dragging & Doing Actions on Multiple Blocks by HollowMan6 · Pull Request #1 · mit-cml/workspace-multiselect
+https://github.com/mit-cml/workspace-multiselect/pull/1/files#diff-06572a96a58dc510037d5efa622f9bec8519bc1beab13c9f251e97e657a9d4ed
+
+HollowMan6/resume: My CV. Template forked from https://github.com/bamos/cv
+https://github.com/HollowMan6/resume
+
+Songlin Jiang
+https://hollowman6.github.io/resume/
+
+mdbook-pdf - crates.io: Rust Package Registry
+https://crates.io/crates/mdbook-pdf/0.1.8/dependencies
+
+Make print page (print.html) links link to anchors on the print page by HollowMan6 · Pull Request #1738 · rust-lang/mdBook
+https://github.com/rust-lang/mdBook/pull/1738
+
+Alibaba
+https://github.com/alibaba?q=&type=all&language=&sort=stargazers
+
+Contributors to run-llama/llama_index
+https://github.com/run-llama/llama_index/graphs/contributors
+
+Hollow Man Home Page
+https://hollowman6.github.io/
+
+Igalia/explainers: Igalia Explainers
+https://github.com/Igalia/explainers
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Reinforcement Learning Open Source Fest - Microsoft Research
+https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
+
+vowpalwabbit.org/rlos/2022/projects.html
+https://vowpalwabbit.org/rlos/2022/projects.html
+
+阿尔托大学 - Google 搜索
+https://www.google.com/search?q=%E9%98%BF%E5%B0%94%E6%89%98%E5%A4%A7%E5%AD%A6&sca_esv=c749765cd04b072f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILPJyICep9d_6eIJvNYeuC461_FkA%3A1715222061774&ei=LTY8ZpzULo6w2roP38uK4Ao&ved=0ahUKEwjcns-NxP-FAxUOmFYBHd-lAqwQ4dUDCBA&uact=5&oq=%E9%98%BF%E5%B0%94%E6%89%98%E5%A4%A7%E5%AD%A6&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-mYv-WwlOaJmOWkp-WtpkijAVAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp#ip=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+谷歌编程之夏 2021：IBus 自定义_ibus样式-CSDN博客
+https://blog.csdn.net/qq_18572023/article/details/118517192
+
+HollowMan6-CSDN博客
+https://blog.csdn.net/qq_18572023?type=blog
+
+Repositories
+https://github.com/orgs/openSUSE/repositories
+
+tuberry
+https://github.com/tuberry
+
+ptitSeb (ptitSeb) / Repositories
+https://github.com/ptitSeb?tab=repositories
+
+box64/src/dynarec/rv64/dynarec_rv64_66f30f.c at 6d95a644123181addb647f51712ad3e5782d5052 · ptitSeb/box64
+https://github.com/ptitSeb/box64/blob/6d95a644123181addb647f51712ad3e5782d5052/src/dynarec/rv64/dynarec_rv64_66f30f.c
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+openKylin安装指南 | openKylin文档平台
+https://docs.openkylin.top/zh/01_%E5%AE%89%E8%A3%85%E5%8D%87%E7%BA%A7%E6%8C%87%E5%8D%97/openKylin%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97
+
+openKylin成功适配VisionFive 2，并推出RISC-V架构QEMU版本系统镜像-openKylin 开放麒麟社区官网 | 开源聚力，共创未来
+https://www.openkylin.top/news/2877-cn.html
+
+Page Not Found | openKylin文档平台
+https://docs.openkylin.top/zh/%E7%A4%BE%E5%8C%BA%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/riscv%E4%B8%8A%E5%AE%89%E8%A3%85openKylin
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issues · tannal/ohmywork
 https://github.com/tannal/ohmywork/issues
 
