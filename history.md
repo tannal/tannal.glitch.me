@@ -1,5 +1,119 @@
 # 2024-5-9
 
+基础班大项目成绩公示 - 飞书云文档
+https://bytedance.larkoffice.com/sheets/shtcnmh1DwL7O2J59roHw9G3ote?sheet=d160ec
+
+Pulse · goldenBill/douyin-fighting · GitHub
+https://github.com/goldenBill/douyin-fighting/pulse
+
+GitHub - a76yyyy/tiktok: 基于 kitex RPC微服务 + Hertz HTTP服务完成的第三届字节跳动青训营-极简抖音后端项目
+https://github.com/a76yyyy/tiktok
+
+(1) VueSchool- The Vue.js 3 Masterclass - TutFlix - Free Education Community
+https://tutflix.org/resources/vueschool-the-vue-js-3-masterclass.3101/
+
+=====================================================================================
+https://rentry.co/vepmibkn
+
+(1) Resources
+https://tutflix.org/resources/
+
+(1) Ardanlabs - Ultimate Rust Bundle - TutFlix - Free Education Community
+https://tutflix.org/resources/ardanlabs-ultimate-rust-bundle.10660/
+
+GitHub - ardanlabs/service5-video: Version 5 of the Service Class
+https://github.com/ardanlabs/service5-video
+
+mobile_system_design_v007.zip - Google 云端硬盘
+https://drive.google.com/file/d/1X8N78L9TF1AujshZFD_b-QDFVJhceL1Z/view
+
+Pikuma - 3D Computer Graphics Programming.zip.001 - Google 云端硬盘
+https://drive.google.com/file/d/15CqTqEn3FclYR1UYh1vykY0qAf7czVGU/view
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=15CqTqEn3FclYR1UYh1vykY0qAf7czVGU&export=download&authuser=0
+
+=====================================================================================
+https://rentry.co/tfnmqdsr
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=15CqTqEn3FclYR1UYh1vykY0qAf7czVGU&export=download&authuser=0
+
+首页 - Google 云端硬盘
+https://drive.google.com/drive/home
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+chat.openai.com
+https://chat.openai.com/
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(2) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+github.com
+https://github.com/jserv/mt-redis?fbclid=IwZXh0bgNhZW0CMTAAAR01E3Yjn7iVQRu3ASA0N1yoMZR60JW3z9bn8HqyzOID9owZyzNwhybRXIc_aem_AbF_KcJZcDGZnQ1CCELPIySCCLShgsAZoBx1yeIBTEBZNQ4HeR6x1FzjkkSmPmgKvSM6vIXfDjFbhRpfZTuiyfc-
+
+karpathy/llama2.c: Inference Llama 2 in one file of pure C
+https://github.com/karpathy/llama2.c
+
+GPU Cloud - VMs for Deep Learning | Lambda
+https://lambdalabs.com/service/gpu-cloud#pricing
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+systemd Rolling Out "run0" As sudo Alternative - Phoronix
+https://www.phoronix.com/news/systemd-run0
+
+COSCUP 2024 徵稿辦法 / COSCUP 2024 Call for Proposals
+https://blog.coscup.org/2024/03/coscup-2024-coscup-2024-call-for.html?fbclid=IwZXh0bgNhZW0CMTEAAR3A3otLOP0_ClWnvUgtJ1T8w6XAxP_BoRm4NQSy3kgCiP94y3wfQ3RXFYM_aem_ARr_PF3TbxLPJhmeZhaec3lwjpCoobUhSP_14FqPewKudIE1xoXBGvD4xlmDJ0lfF0Oz9pC9RuPmTDH1etO5-eaW
+
+Overview - HackMD
+https://hackmd.io/@Kuanch/linux2024-collection/https%3A%2F%2Fhackmd.io%2F%40Kuanch%2Flinux2024-overview?fbclid=IwZXh0bgNhZW0CMTEAAR3w3gza77dT14Plswx0e9VAmwRQD2fFiZ8i0yxiNJ8gbrkVgbqVhqQtaeQ_aem_AUQeJqxpdFKCFfUl-pcpaSuzgjNQ_dPxZnstFi3crc9YpPXthp4RjCeQfxFANkcKSqLZnE7vwDLwQP5j_UtmCztw
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Log In | Frontend Masters
+https://frontendmasters.com/login/?return=%2Fcourses%2Fsvg-essentials-animation%2Fpreserveaspectratio%2F
+
+coil-kt/coil: Image loading for Android and Compose Multiplatform.
+https://github.com/coil-kt/coil
+
+JitPack | Publish JVM and Android libraries
+https://jitpack.io/
+
+JitPack
+https://github.com/jitpack
+
+Resources
+https://tutflix.org/resources/
+
+Pikuma - 3D Computer Graphics Programming - TutFlix - Free Education Community
+https://tutflix.org/resources/pikuma-3d-computer-graphics-programming.10807/
+
+Relational learning of pattern-match rules for informatio... - Google 学术搜索
+https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Relational+learning+of+pattern-match+rules+for+information+extraction&btnG=
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+论文管理系统
+https://bylw.nenu.edu.cn/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+党群文化 - 松山湖材料实验室
+https://www.sslab.org.cn/dang
+
 story.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
