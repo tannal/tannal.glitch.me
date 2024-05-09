@@ -1,6 +1,9 @@
 
 # inbox
 
+the node has a dependency called undici which is a http client primary for support fetch api in node.
+
+
 the stories of tannal
 
 I hacked with browser engines, blink, gecko, webkit and servo.
