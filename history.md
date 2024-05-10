@@ -1,3 +1,47 @@
+# 2024-5-10
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1) Discord | #📣announcements | Low Level IQ
+https://discord.com/channels/1071359157099319316/1071359157548097667
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files
+
+ChatGPT
+https://chatgpt.com/c/8d8863d9-b5ae-4398-90d2-e3c34d197f73
+
+Usage policies
+https://openai.com/policies/usage-policies
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+Visual formatting model
+https://www.w3.org/TR/CSS22/visuren.html#float-position
+
+Float and Negative Margin
+https://html.spec.whatwg.org/
+
+clangd/chrome-remote-index: Containerization and deployment scripts for remote-index-server and workflows to generate monolithic index for https://www.chromium.org/
+https://github.com/clangd/chrome-remote-index?tab=readme-ov-file
+
+Inline Box and Block-level Box Example
+https://html.spec.whatwg.org/
+
+Ian Hickson's Resumé
+https://ian.hixie.ch/career/resume.html
+
 # 2024-5-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

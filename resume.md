@@ -8,3 +8,6 @@ https://rfrn.org/~shu/CV.pdf
 http://www.goldsborough.me/files/cv.pdf
 
 https://nikhilism.com/resume
+
+https://ian.hixie.ch/career/resume.html
+
