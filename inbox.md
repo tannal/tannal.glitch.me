@@ -1,5 +1,8 @@
 # 2024-5-10 0 | 0 W
 
+sudo apt install complexity
+complexity --histogram --score --thresh=7  .
+
 #version 400
 #extension GL_ARB_separate_shader_objects : enable
 #extension GL_ARB_shading_language_420pack : enable
@@ -277,7 +280,7 @@ pprof -web src/out/Release/chrome
 
 go install github.com/google/pprof@latest
 
-sudo perf record -F 99 -p 106971 -g -- sleep 30
+sudo perf record -F 99 -p 78608 -g -- sleep 30
 sudo perf record --call-graph dwarf -F 99 -p `pgrep -n repl` -g -- sleep 30
 sudo perf script > ./out.test01
 $P/FlameGraph/stackcollapse-perf.pl < out.test01 | $P/FlameGraph/flamegraph.pl > out.test01.svg
