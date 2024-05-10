@@ -1,5 +1,140 @@
 # 2024-5-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Selectors Level 4
+https://www.w3.org/TR/selectors-4/
+
+Tantek Çelik
+https://tantek.com/
+
+fantasai: contact info
+https://fantasai.inkedblade.net/contact
+
+Contact Me
+https://xanthir.com/contact/
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+bootstrap doesn't retry downloads that fail with a non-HTTP error · Issue #110178 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/110178
+
+Retry - everything curl
+https://everything.curl.dev/usingcurl/downloads/retry.html#retry-on-any-and-all-errors
+
+Move most ui-fulldeps tests to ui/ by jyn514 · Pull Request #109875 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/109875
+
+Ubuntu – 在 focal 中的 curl 软件包详细信息
+https://packages.ubuntu.com/focal/curl
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+git.tanmeng.org/tannal/flamegraph/raw/commit/6f1b57d2371107dfb76da40933d9c56b7e6379b9/graph/out.chromiumwebprocstacks01
+http://git.tanmeng.org/tannal/flamegraph/raw/commit/6f1b57d2371107dfb76da40933d9c56b7e6379b9/graph/out.chromiumwebprocstacks01
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Commits · evmar/n2
+https://github.com/evmar/n2/commits?author=evmar&since=2024-04-30&until=2024-05-10
+
+GSoC Ideas · Issue #2472 · lcompilers/lpython
+https://github.com/lcompilers/lpython/issues/2472
+
+GitHub
+https://github.com/
+
+Office Hours 2024-05-09 (Live from Delft!) - Google 文档
+https://docs.google.com/document/d/1uRdHVcq46sTtWLhV4CFTs9mlwuR1L-WMNifdCH21O-g/edit
+
+First draft of ARCHITECTURE.md by giannissc · Pull Request #277 · linebender/xilem
+https://github.com/linebender/xilem/pull/277/files
+
+Rust Nederland (RustNL) - YouTube
+https://www.youtube.com/@rustnederlandrustnl/videos
+
+Igalia application confirmation - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbkzPKzxbbKbRnKvsrcSHzDs
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Individual Dashboard | The Linux Foundation
+https://openprofile.dev/profile
+
+Blaming wasmtime/cranelift/isle/docs/language-reference.md at 330eb20c05d9e05a833a522122a59046083d81f3 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blame/330eb20c05d9e05a833a522122a59046083d81f3/cranelift/isle/docs/language-reference.md#L316
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files#diff-6a1af7ff0454daa9efe392e0b22406939c0d95a12c5249bf7b4e2bb8a083338f
+
+AccessKit
+https://github.com/AccessKit
+
+Issues · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues?page=2&q=is%3Aissue+is%3Aopen
+
+servo/components/net/fetch/methods.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/net/fetch/methods.rs
+
+Fetch Standard
+https://fetch.spec.whatwg.org/#bad-port
+
+Fetch Standard
+https://fetch.spec.whatwg.org/#network-scheme
+
+Raph Levien on UI Frameworks - YouTube
+https://www.youtube.com/watch?v=PwuwG2-0n3I
+
+tannal (tannal)
+https://github.com/tannal/
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+[selectors-4][css-pseudo-4] meaning of ::search-text:current(…), :past, :future · Issue #10298 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10298
+
+Error parsing files using import attributes · Issue #2 · 11ty/eleventy-dependency-tree-esm
+https://github.com/11ty/eleventy-dependency-tree-esm/issues/2
+
+Import attributes not yet supported (Error thrown from `acorn` dependency) · Issue #3128 · 11ty/eleventy
+https://github.com/11ty/eleventy/issues/3128#issuecomment-1878745864
+
+Figma Basics - Figma for Developers
+https://frontendmasters.com/courses/figma/figma-basics/
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+#general - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general
+
+liangyuandian.xyz
+https://liangyuandian.xyz/#/order
+
+www.google.com
+https://www.google.com/search?q=openkylin+qemu&rlz=1C1GCEA_enJP1090JP1090&oq=openkylin+qemu&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYPDIGCAMQRRg90gEINDc1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+Planet Igalia
+https://planet.igalia.com/
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
