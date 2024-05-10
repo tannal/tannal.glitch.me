@@ -3,6 +3,75 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Noxsios/cv: Single-page, clean and simple developer CV
+https://github.com/Noxsios/cv
+
+BartoszJarocki/cv: Print-friendly, minimalist CV page
+https://github.com/BartoszJarocki/cv?tab=readme-ov-file
+
+sb2nov/resume: Software developer resume in Latex
+https://github.com/sb2nov/resume
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&p=10
+
+GeorgeHoneywood/alta-typst: A simple Typst CV template, inspired by AltaCV by LianTze Lim.
+https://github.com/GeorgeHoneywood/alta-typst
+
+slashinfty/typst-templates: A collection of Typst templates for personal consumption
+https://github.com/slashinfty/typst-templates
+
+Microsoft Windows字体列表 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Microsoft_Windows%E5%AD%97%E5%9E%8B%E5%88%97%E8%A1%A8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Issues · getzola/zola
+https://github.com/getzola/zola/issues
+
+Actions - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv/actions
+
+How to run ssh-add on windows? - Stack Overflow
+https://stackoverflow.com/questions/18683092/how-to-run-ssh-add-on-windows
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+tannal (tannal)
+https://github.com/tannal/
+
+ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+https://github.com/ptitSeb/box64
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files
+
+romainguy/kotlin-explorer: Desktop tool to quickly explore disassembled Kotlin code.
+https://github.com/romainguy/kotlin-explorer
+
+Issues · typst/typst
+https://github.com/typst/typst/issues
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno/issues
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Selectors Level 4
 https://www.w3.org/TR/selectors-4/
 

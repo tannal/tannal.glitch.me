@@ -1,5 +1,13 @@
 # 2024-5-10 0 | 0 W
 
+C:/Program Files/Microsoft/jdk-11.0.22.7-hotspot/bin/java.exe
+
+thinking slows you down, you need to be fast.
+
+Set-Service   ssh-agent -StartupType Automatic
+Start-Service ssh-agent
+ssh-add key.txt
+
 https://planet.igalia.com/
 
 https://packages.ubuntu.com/focal/curl
