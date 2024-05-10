@@ -1,5 +1,41 @@
 # 2024-5-9
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1) Sebastian Markbåge on X: "Always bet on WASM. It hasn't fully gotten what it could do yet but people are quietly toiling away at it. It's one of those foundational technologies that doesn't pay immediate dividence but that we'll all enjoy as an infra base layer. I'm a huge WASM fanboy." / X
+https://twitter.com/colinhacks/status/1788324169781850511/photo/1
+
+/computing/wasm - wanderinghorse.net
+https://www.wanderinghorse.net/computing/wasm/
+
+X
+https://twitter.com/igalia
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Igalia at CES® 2024 | Igalia
+https://www.igalia.com/2024/01/03/Igalia-at-CES(r)-2024.html
+
+Hazematman (Lucas Fryzek)
+https://github.com/Hazematman
+
+Known Knowns
+https://bkardell.com/blog/known-knowns.html
+
+CSS Custom Properties in Highlight Pseudos
+https://blogs.igalia.com/schenney/css-custom-properties-in-highlight-pseudos/
+
+Maíra Canal | Linux 6.8: AMD HDR and Raspberry Pi 5
+https://mairacanal.github.io/linux-6-8-AMD-HDR-and-raspberry-pi-5/
+
+My first two weeks at Igalia - Stephanie Stimac's Blog
+https://blog.stephaniestimac.com/posts/2024/03/first-week-igalia/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
