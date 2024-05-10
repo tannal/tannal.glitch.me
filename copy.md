@@ -9,6 +9,8 @@ https://github.com/wrongbyte/tuwuitter.git
 # Good artists copy, great artists steal.
 
 
+bison flex glsl parser bisonhttps://github.com/nnesse/glsl-parser
+
 X86 Desktop Operation System https://gitlab.com/nakst/essence
 
 Graphics Vulkan Metal Directx wrapper https://github.com/MethanePowered/MethaneKit
