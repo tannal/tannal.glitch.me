@@ -1,5 +1,8 @@
 # dev
 
+RUST_LOG="debug" ./mach run /home/tannal/ -i -y 1 /tmp/a.html 2>&1 | ts -s "%.S: " | tee /tmp/log.txt
+
+
 servo book
 cargo install mdbook
 cargo install mdbook-mermaid

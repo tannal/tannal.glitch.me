@@ -1,5 +1,68 @@
 # 2024-5-10
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+libevent vs libuv
+https://gist.github.com/eddieh/c385193cf250aa51c9b1
+
+eddieh/libevent-echo-server: Simple libevent echo server
+https://github.com/eddieh/libevent-echo-server
+
+Issues · nodejs/undici
+https://github.com/nodejs/undici/issues
+
+Fetch Standard
+https://fetch.spec.whatwg.org/#http-network-or-cache-fetch
+
+Fetch Standard
+https://fetch.spec.whatwg.org/#concept-bodyinit-extract
+
+nodejs/undici: An HTTP/1.1 client, written from scratch for Node.js
+https://github.com/nodejs/undici?tab=readme-ov-file#forbidden-and-safelisted-header-names
+
+http://git.tanmeng.org/
+http://git.tanmeng.org/
+
+cargo uninstall - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=cargo+uninstall
+
+wpt test directory - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=wpt+test+directory
+
+Maglev on x64 causes segmentation fault while running TypeScript · Issue #52797 · nodejs/node
+https://github.com/nodejs/node/issues/52797
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/files
+
+Bobulous/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/Bobulous/servo/tree/main
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+REFERRER: `origin` shouldn't send a trailing `/`. · Issue #382 · w3c/webappsec
+https://github.com/w3c/webappsec/issues/382
+
+Referrer Policy
+https://w3c.github.io/webappsec-referrer-policy/
+
+Server Not Found
+http://tools.ietf.org/html/rfc7231#section-5.5.2
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=mandatory&op=translate
+
+XMLHttpRequest Standard
+https://xhr.spec.whatwg.org/#the-overridemimetype()-method
+
+mime_guess - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=mime_guess
+
+mime_guess - Rust
+https://docs.rs/mime_guess/latest/mime_guess/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
