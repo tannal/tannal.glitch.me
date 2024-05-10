@@ -3,6 +3,78 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+JetBrains/jewel: An implementation of the IntelliJ look and feels in Compose for Desktop
+https://github.com/JetBrains/jewel#int-ui-standalone-theme
+
+Improve image rendering under rotation when exporting to PNG by TomBinford · Pull Request #1547 · typst/typst
+https://github.com/typst/typst/pull/1547
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+contributors-meeting-notes (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/C01EN701MAN
+
+JetBrains/jewel: An implementation of the IntelliJ look and feels in Compose for Desktop
+https://github.com/JetBrains/jewel/tree/main
+
+Igalia application confirmation - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbkzPKzxbbKbRnKvsrcSHzDs
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Logically identical code. One compiles, one does not · Issue #116572 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/116572
+
+Recent conversations - Servo - Zulip
+https://servo.zulipchat.com/
+
+(72) #xilem > paper cuts - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/paper.20cuts
+
+How can I help? · Issue #192 · linebender/xilem
+https://github.com/linebender/xilem/issues/192
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+Demystify SwiftUI - WWDC21 - Videos - Apple Developer
+https://developer.apple.com/videos/play/wwdc2021/10022/
+
+wasmphobia/web at main · surma/wasmphobia
+https://github.com/surma/wasmphobia/tree/main/web
+
+canvaskit ❘ Bundlephobia
+https://bundlephobia.com/package/canvaskit
+
+marco-ippolito (Marco Ippolito) / April 2024
+https://github.com/marco-ippolito?tab=repositories
+
+POCS - Dependable Systems Lab
+https://dslab.epfl.ch/teaching/pocs/
+
+Replicated data consistency explained through baseball
+https://dl.acm.org/doi/pdf/10.1145/2500500
+
+npm compat: Unable to use @solana/spl-governance · Issue #23458 · denoland/deno
+https://github.com/denoland/deno/issues/23458
+
+poolifier/tatami-ng: Cross JavaScript runtime benchmarking library
+https://github.com/poolifier/tatami-ng
+
+nnesse/glsl-parser: A GLSL 4.5 parser written in C with flex & bison
+https://github.com/nnesse/glsl-parser
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+(5) Discord | #2024-eurollvm | LLVM
+https://discord.com/channels/636084430946959380/1171912348374663229
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 #general > Directory listing feature - Servo - Zulip
 https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
 
