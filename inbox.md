@@ -1,7 +1,22 @@
 # 2024-5-10 0 | 0 W
 
 
+
+https://packages.ubuntu.com/focal/curl
+
+SkGradientShader::
+cc::PaintFlags::DrawToSk
+cc::PaintShader
+BoxFragmentPainter
+PaintLayerPainter
+FramePainter
+...
+blink::LocalFrameView::PaintFrame
+...
+cc::ProxyMain::BeginMainFrame
+
 # 2024-5-9 0 | 0 W
+
 https://toji.github.io/webgpu-test/
 
 
