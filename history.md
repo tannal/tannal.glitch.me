@@ -3,6 +3,42 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+google/pprof: pprof is a tool for visualization and analysis of profiling data
+https://github.com/google/pprof
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%20I%27ll%20kick%20my%20heels%20for%20a%20bit&op=translate
+
+mozilla mime service - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=mozilla+mime+service
+
+c++ - Printing an object value in gdb - Stack Overflow
+https://stackoverflow.com/questions/33654922/printing-an-object-value-in-gdb
+
+Chromium Docs - Linux Profiling
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/linux/profiling.md
+
+Useful DTrace recipes
+https://mfukar.github.io/2014/03/19/dtrace.html
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+google/perf_data_converter: Tool to convert Linux perf files to the profile.proto format used by pprof
+https://github.com/google/perf_data_converter
+
+DDPO: Debian Bazel Team -- Debian Quality Assurance
+https://qa.debian.org/developer.php?email=team%2Bbazel%40tracker.debian.org
+
+Installing Bazel on Ubuntu
+https://bazel.build/install/ubuntu
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Noxsios/cv: Single-page, clean and simple developer CV
 https://github.com/Noxsios/cv
 

@@ -1,5 +1,14 @@
 # dev
 
+this->mContentType->mData
+
+export MOZ_LOG="example_logger:3"
+
+nsUnknownDecoder::LastDitchSniff
+
+RUST_LOG="debug" ./mach run --debugger=gdb /home/tannal/tannalwork
+
+
 ```
 $env:RUST_LOG="debug"
 

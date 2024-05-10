@@ -1,5 +1,22 @@
 # 2024-5-10 0 | 0 W
 
+export XEPHYR_PAUSE=10000
+Xephyr :1 -ac -screen 800x600 &
+DISPLAY=:1 out/Default/chrome
+
+git clone https://github.com/google/perf_data_converter.git
+
+perf record -g -p 78608
+pprof -web src/out/Release/chrome
+
+go install github.com/google/pprof@latest
+
+sudo perf record -F 99 -p 106971 -g -- sleep 30
+sudo perf record --call-graph dwarf -F 99 -p `pgrep -n repl` -g -- sleep 30
+sudo perf script > ./out.test01
+$P/FlameGraph/stackcollapse-perf.pl < out.test01 | $P/FlameGraph/flamegraph.pl > out.test01.svg
+handle all nostop
+
 C:/Program Files/Microsoft/jdk-11.0.22.7-hotspot/bin/java.exe
 
 thinking slows you down, you need to be fast.
