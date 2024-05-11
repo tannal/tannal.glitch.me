@@ -1,5 +1,6 @@
 # dev
 
+moz-phab submit --no-wip
 
 ./mach clobber
 

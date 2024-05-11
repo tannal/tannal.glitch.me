@@ -1,5 +1,41 @@
 # 2024-5-11
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+User Profile: :Gijs (he/him)
+https://bugzilla.mozilla.org/user_profile?user_id=159069
+
+⚙ D209282 WIP: Bug 1865896 - Alphabetize include headers in WMFDecoderModule.cpp
+https://phabricator.services.mozilla.com/D209282
+
+Gravatar
+https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fpublic-api.wordpress.com%2Foauth2%2Fauthorize%3Fclient_id%3D1854%26response_type%3Dcode%26blog_id%3D0%26state%3Dcfaefa9d03587db28e69b72c144e15a8e8965167d8a1d14254eccf76cc9a393a%26redirect_uri%3Dhttps%253A%252F%252Fgravatar.com%252Fconnect%252F%253Faction%253Drequest_access_token%26from-calypso%3D1&client_id=1854
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Profile | Gravatar
+https://gravatar.com/profile
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1874260 - document.referrer is empty string on localhost when coming from secure site
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874260
+
+824669 - Consider adding a way to parse from an array of strings without concatenating them all
+https://bugzilla.mozilla.org/show_bug.cgi?id=824669
+
+status:open componentid:1456407 - Chromium
+https://issues.chromium.org/issues?q=status:open%20componentid:1456407&s=created_time:desc&p=1
+
+Edit fiddle - JSFiddle - Code Playground
+https://jsfiddle.net/tr4e32Lz
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
