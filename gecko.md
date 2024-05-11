@@ -1,12 +1,20 @@
 # dev
 
+hg diff
+hg remove -f
+
+Bug 1868293 - Fix clippy warnings in glean-ffi r=sylvestre
+
+./mach lint modules/libpref/init/StaticPrefList.yaml -W -v    
+./mach lint uriloader/exthandler/nsExternalHelperAppService.cpp -W -v    
+
 this->mContentType->mData
 
 export MOZ_LOG="example_logger:3"
 
 nsUnknownDecoder::LastDitchSniff
 
-RUST_LOG="debug" ./mach run --debugger=gdb /home/tannal/tannalwork
+RUST_LOG="debug" ./mach run --debugger=gdb /home/tannal/tannalwork/cans/baseline.html
 
 
 ```

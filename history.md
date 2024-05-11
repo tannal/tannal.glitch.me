@@ -1,5 +1,65 @@
 # 2024-5-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+openKylin - 麒麟软件有限公司 - Gitee.com
+https://gitee.com/organizations/openkylin/projects
+
+528691 – [GTK] StyledText ignores text after \u0000 character
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=528691
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#firefox-contributors-quick-reference
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+GitHub
+https://github.com/
+
+openKylin 成功适配赛昉科技 VisionFive 2 开发板，并推出 RISC-V 架构 QEMU 版本系统镜像 - IT之家
+https://m.ithome.com/html/675573.htm
+
+Index of /ubuntukylin-cdimage/22.04/ | 兰州大学开源社区镜像站 | Lanzhou University Open Source Mirror
+https://mirror.lzu.edu.cn/ubuntukylin-cdimage/22.04/
+
+Issues · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/created_by/delan
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895530
+
+nsExternalHelperAppService.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/8e885f04a0a4ff6d64ea59741c10d9b8e45d9ff8/uriloader/exthandler/nsExternalHelperAppService.cpp#1054
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/8e885f04a0a4ff6d64ea59741c10d9b8e45d9ff8/modules/libpref/init/StaticPrefList.yaml#14409-14414
+
+1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895530
+
+hg see changes - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=hg+see+changes
+
+Mercurial: Easy way to see changes from last commit - Stack Overflow
+https://stackoverflow.com/questions/13915467/mercurial-easy-way-to-see-changes-from-last-commit
+
+hg cheatsheet - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=hg+cheatsheet
+
+Mercurial-Cheatsheet-Adrian-v1.0.pdf
+https://wiki.mercurial-scm.org/QuickReferenceCardsAndCheatSheets?action=AttachFile&do=get&target=Mercurial-Cheatsheet-Adrian-v1.0.pdf
+
+Mercurial command cheat sheet
+https://gist.github.com/cortesben/016cd401faae5a8dae59
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
