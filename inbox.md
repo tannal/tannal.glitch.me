@@ -1,5 +1,11 @@
 # 2024-5-11 0 | 0 W
 
+LLVM_DIR
+cmake -G Ninja -B host -DLT_LLVM_INSTALL_DIR=/opt/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON . -DClang_DIR=/opt/llvm-17/lib/cmake/clang/
+
+cmake --build host
+
+
 ./mach static-analysis check --outgoing
 
 
