@@ -1,5 +1,7 @@
 # 2024-5-11 0 | 0 W
 
+g++ -c src/*.cpp -std=c++14 -O3 -Wall -m64 -I include -I C:/SDL2-w64/include && g++ *.o -o bin/release/main -s -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer && start bin/release/main
+
 involves:drom
 involves:richardxia
 involves:seldridge

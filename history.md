@@ -1,5 +1,44 @@
 # 2024-5-11
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+eddieh/libevent-echo-server: Simple libevent echo server
+https://github.com/eddieh/libevent-echo-server
+
+libevent vs libuv
+https://gist.github.com/eddieh/c385193cf250aa51c9b1
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Pepper chromium - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Pepper+chromium#ip=1
+
+Pepper API Proposals - Google Docs
+https://docs.google.com/document/d/1sjR0ZlDFVaxnKYdYCeLShumcaeYYSC_CgTM05gKcfXs/edit
+
+python 3.x - Address already in use when restarting socket - Stack Overflow
+https://stackoverflow.com/questions/70620392/address-already-in-use-when-restarting-socket
+
+Repository search results
+https://github.com/search?q=language%3AYacc+&type=repositories&p=10
+
+Jadezzz/microC-compiler: A simple compiler that can compile micro-C (a subset of C) to JVM instructions.
+https://github.com/Jadezzz/microC-compiler
+
+Netflix on Chrome OS is a Pepper Plugin (PPAPI), in dev channel | Hacker News
+https://news.ycombinator.com/item?id=2760660
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+PolyMarsDev/Twini-Golf: A (broken) SDL2 game made in 48 hours
+https://github.com/PolyMarsDev/Twini-Golf
+
+How can I get a list of all repositories and PPAs from the command line into an install script? - Ask Ubuntu
+https://askubuntu.com/questions/148932/how-can-i-get-a-list-of-all-repositories-and-ppas-from-the-command-line-into-an
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
