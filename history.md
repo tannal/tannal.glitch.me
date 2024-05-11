@@ -1,5 +1,134 @@
 # 2024-5-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+mit-pdos/xv6-riscv: Xv6 for RISC-V
+https://github.com/mit-pdos/xv6-riscv
+
+More control over typst compilation environment · Issue #3892 · typst/typst
+https://github.com/typst/typst/issues/3892
+
+AFFiNE - All In One KnowledgeOS
+https://affine.pro/
+
+(2) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Draft for (complex) hash labeling scheme · Issue #151 · riscv/riscv-cfi
+https://github.com/riscv/riscv-cfi/issues/151
+
+Issue search results
+https://github.com/search?q=involves%3Ayoungar&type=issues
+
+#general > Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20layout
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/91564
+
+[HW] HWModule (et. al.) should have separate symbol and name to be emitted · Issue #7023 · llvm/circt
+https://github.com/llvm/circt/issues/7023
+
+y-crdt/yrs at main · y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/tree/main/yrs
+
+io_uring maintainer - Google 搜索
+https://www.google.com/search?q=io_uring+maintaner&rlz=1C1GCEA_enJP1090JP1090&oq=io_uring+maintaner&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYxNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jens Axboe's blog — LiveJournal
+https://axboe.livejournal.com/
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+HomePage - GCC Wiki
+https://gcc.gnu.org/wiki/
+
+rust-lang/rustc_codegen_gcc: libgccjit AOT codegen for rustc
+https://github.com/rust-lang/rustc_codegen_gcc
+
+microsoft/STL: MSVC's implementation of the C++ Standard Library.
+https://github.com/microsoft/STL
+
+#xilem > paper cuts - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/paper.20cuts
+
+Arbitrary self types v2 by adetaylor · Pull Request #3519 · rust-lang/rfcs
+https://github.com/rust-lang/rfcs/pull/3519
+
+Xilem: Let’s build high performance Rust UI - Google 幻灯片
+https://docs.google.com/presentation/d/1355q8bpSUUCLDNy-YJ1QbaeBBG3px7Bv6YirkLXHIFw/edit#slide=id.g2d11314ba36_0_324
+
+Bay Area Rust May 2023: Raph Levien on Xilem Vector Graphics - YouTube
+https://www.youtube.com/watch?v=XjbVnwBtVEk
+
+Office Hours 2024-05-09 (Live from Delft!) - Google 文档
+https://docs.google.com/document/d/1uRdHVcq46sTtWLhV4CFTs9mlwuR1L-WMNifdCH21O-g/edit#heading=h.c3r3wtyvpozm
+
+My key takeaways from my 5y exp. of dev. and maint. 2 OS prj aimed at autom. IOS devices - D.Paulus - YouTube
+https://www.youtube.com/watch?v=qpzClMwGAXs
+
+Chips and Cheese State of the Union – Chips and Cheese
+https://chipsandcheese.com/2024/05/09/chips-and-cheese-state-of-the-union/
+
+I Like Big Bits
+http://www.ilikebigbits.com/
+
+rerun.io
+https://github.com/rerun-io
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+y-websocket/bin/utils.cjs at 630e08eef3e6a5dce636caf4611b9c4084a4804f · yjs/y-websocket
+https://github.com/yjs/y-websocket/blob/630e08eef3e6a5dce636caf4611b9c4084a4804f/bin/utils.cjs#L40
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+Browser spec reading · Issue #57 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/57
+
+⚙ D210117 WIP: Bug 1865896 - Sort include headers in ContentMediaController.cpp per coding style
+https://phabricator.services.mozilla.com/D210117
+
+GitHub
+https://github.com/
+
+OFA-Sys
+https://github.com/OFA-Sys
+
+Repository search results
+https://github.com/search?q=riscv&type=repositories
+
+GitHub
+https://github.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+GSSoC24/Open-source-Practice: GSSoC is a 3-month long #OpenSource program by GirlScript Foundation, India.
+https://github.com/GSSoC24/Open-source-Practice
+
+RISC-V SBC VisionFive 2 Officially Shipped | Hacker News
+https://news.ycombinator.com/item?id=34339752
+
+RISC-V System emulator — QEMU documentation
+https://www.qemu.org/docs/master/system/target-riscv.html
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?page=2&q=is%3Aissue+is%3Aopen
+
+Chimera Linux packages - Package index
+https://pkgs.chimera-linux.org/packages?name=&arch=riscv64&origin=
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

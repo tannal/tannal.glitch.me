@@ -1,6 +1,32 @@
 
 # people
 
+involves:LegionMammal978
+involves:a1phyr
+involves:Urhengulas
+involves:scottmcm
+involves:bjorn3
+involves:clarfonthey
+involves:CraftSpider
+involves:deltragon
+involves:slanterns
+involves:madsmtm
+involves:teor2345
+involves:PoignardAzur
+involves:joshtriplett
+involves:Nadrieril
+involves:programmerjake
+involves:nbdd0121
+involves:Veykril
+involves:obi1kenobi
+involves:davidhewitt
+involves:Manishearth
+involves:Darksonn
+involves:kpreid
+involves:RalfJung
+involves:tmandry
+
+
 involves:Amanieu
 involves:BurntSushi
 involves:dtolnay
