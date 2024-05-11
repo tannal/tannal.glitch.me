@@ -1,4 +1,21 @@
+# 2024-5-11 0 | 0 W
+
+involves:drom
+involves:richardxia
+involves:seldridge
+involves:aswaterman
+involves:kito-cheng
+involves:youngar
+involves:mshockwave
+involves:azidar
+involves:furuame
+involves:4vtomat
+involves:akashkolliparas5
+involves:SiFiveHolland
+
 # 2024-5-10 0 | 0 W
+
+https://gitlab.kitware.com/cmake/cmake
 
 sudo apt install complexity
 complexity --histogram --score --thresh=7  .

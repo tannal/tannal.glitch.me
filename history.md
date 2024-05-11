@@ -3,6 +3,150 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Box64 and RISC-V – Box86 / Box64
+https://box86.org/2023/05/box64-and-risc-v/
+
+Box64 和 RISC-V - 偏执的码农
+https://geek.ds3783.com/2023/05/box64-%e5%92%8c-risc-v/
+
+android/renderscript-samples: Multiple samples showing renderscript best practices in Android.
+https://github.com/android/renderscript-samples
+
+Newest 'android' Questions - Stack Overflow
+https://stackoverflow.com/questions/tagged/android
+
+deps: enable unbundling of simdjson, simdutf, ada by lemire · Pull Request #52924 · nodejs/node
+https://github.com/nodejs/node/pull/52924/files
+
+(2) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+CMake / CMake · GitLab
+https://gitlab.kitware.com/cmake/cmake
+
+topperc (Craig Topper)
+https://github.com/topperc
+
+btipling/blockens: blockens with zig
+https://github.com/btipling/blockens
+
+tuxmake's Profile | Docker Hub
+https://hub.docker.com/u/tuxmake
+
+linaro / Linaro CI Components for Projects on Gitlab / TuxSuite · GitLab
+https://gitlab.com/Linaro/components/tuxsuite
+
+luisdanieldlcg/whatsup: A WhatsApp clone written in Flutter.
+https://github.com/luisdanieldlcg/whatsup
+
+[UEFI] X86_64 UEFI Clang Driver by Prabhuk · Pull Request #76838 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/76838/files
+
+Contributors to intel/llvm
+https://github.com/intel/llvm/graphs/contributors
+
+LTTng v2.13 — LTTng Documentation — LTTng
+https://lttng.org/docs/v2.13/#doc-building-from-source
+
+Repositories
+https://github.com/orgs/llvm/repositories?page=2
+
+compiler-explorer/clang-builder
+https://github.com/compiler-explorer/clang-builder
+
+Trace Compass: What's the difference between a flame graph and a flame chart - YouTube
+https://www.youtube.com/watch?v=ZrjuJKjAUns
+
+Compiler Explorer
+https://godbolt.org/
+
+Community.o Events · Community.o
+https://community-dot-o.llvm.org/events/
+
+aukeroorda/mre-deno-hang
+https://github.com/aukeroorda/mre-deno-hang
+
+Trace Compass
+https://github.com/tracecompass
+
+SiFive Boards - The best way to Develop RISC-V Software.
+https://www.sifive.com/boards
+
+SiFive
+https://github.com/sifive/
+
+VisionFive 2（8GB+双千兆网口）_赛昉科技(StarFive) 中文资料_价格_PDF手册-iCEasy商城
+https://www.iceasy.com/supply/detail/1638276891200364547
+
+SiFive Boards - The best way to Develop RISC-V Software.
+https://www.sifive.com/boards
+
+HiFive 开发板 - SiFive - 开发RISC-V软件的最佳方式
+https://www.sifive.cn/boards
+
+SiFive
+https://github.com/sifive/
+
+drom (Aliaksei Chapyzhenka)
+https://github.com/drom
+
+CIRCT
+https://github.com/circt
+
+Perf
+https://circt.org/perf/
+
+mshockwave (Min-Yih Hsu)
+https://github.com/mshockwave
+
+Amazon.com: LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries: Design powerful and reliable compilers using the latest libraries and tools from LLVM eBook : Hsu, Min-Yih: Kindle Store
+https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries-ebook/dp/B08WH6CF4G?ref_=ast_author_mpb
+
+Learn LLVM 17: A beginner's guide to learning LLVM compiler tools and core libraries with C++ 2, Nacke, Kai, Kwan, Amy, eBook - Amazon.com
+https://www.amazon.com/Learn-LLVM-17-beginners-libraries-ebook/dp/B0CL772K23/ref=pd_sim_d_sccl_1_2/146-4228242-2805460?pd_rd_w=WIqa7&content-id=amzn1.sym.807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_p=807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_r=776HEKA235NWTMGRNAE7&pd_rd_wg=8tBMr&pd_rd_r=3cc6ca98-6185-45d1-bc09-c63178731366&pd_rd_i=B0CL772K23&psc=1
+
+michaelfranz.com
+https://www.michaelfranz.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=llvm&sort=byPopularity&type=story
+
+Adrian Sampson: LLVM for Grad Students
+https://www.cs.cornell.edu/~asampson/blog/llvm.html
+
+wddd-sim-harmful.pdf
+https://research.cs.wisc.edu/vertical/papers/2014/wddd-sim-harmful.pdf
+
+Pin - A Dynamic Binary Instrumentation Tool
+https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html
+
+VirtualGhost-ASPLOS-2014.pdf
+http://sva.cs.illinois.edu/pubs/VirtualGhost-ASPLOS-2014.pdf
+
+LLVM: Modules
+https://llvm.org/doxygen/modules.html
+
+Make LLVM fast again
+https://www.npopov.com/2020/05/10/Make-LLVM-fast-again.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+[HW] HWModule (et. al.) should have separate symbol and name to be emitted · Issue #7023 · llvm/circt
+https://github.com/llvm/circt
+
+CIRCT
+https://circt.llvm.org/
+
+Codetribute
+https://codetribute.mozilla.org/languages/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 JetBrains/jewel: An implementation of the IntelliJ look and feels in Compose for Desktop
 https://github.com/JetBrains/jewel#int-ui-standalone-theme
 
