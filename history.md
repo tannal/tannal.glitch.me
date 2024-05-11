@@ -1,5 +1,44 @@
 # 2024-5-11
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-submit-a-patch
+
+Commit search results
+https://github.com/search?q=repo%3Amozilla%2Fgecko-dev+Bug+1868293&type=commits
+
+1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895530
+
+mozilla-unified: Summary
+https://hg.mozilla.org/mozilla-unified
+
+hg restore - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=hg+restore
+
+undo - How do I revert a file to 'last checkin' state in Mercurial? - Stack Overflow
+https://stackoverflow.com/questions/10305643/how-do-i-revert-a-file-to-last-checkin-state-in-mercurial
+
+hg reset last commit - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=hg+reset+last+commit
+
+How do you "rollback" last commit on Mercurial? - Stack Overflow
+https://stackoverflow.com/questions/20470874/how-do-you-rollback-last-commit-on-mercurial
+
+Mercurial git reset - Google 搜索
+https://www.google.com.hk/search?q=Mercurial+git+reset&newwindow=1&client=ubuntu-sn&hs=ZFm&sca_esv=81641a5f77b75c25&sca_upv=1&channel=fs&ei=ZSc_ZoHiI_jc2roPndiPiAE&ved=0ahUKEwjBqJe3koWGAxV4rlYBHR3sAxEQ4dUDCBA&uact=5&oq=Mercurial+git+reset&gs_lp=Egxnd3Mtd2l6LXNlcnAiE01lcmN1cmlhbCBnaXQgcmVzZXQyCBAAGAgYHhgPMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBUiGKlCjAlivKXAEeAGQAQCYAbMCoAHjFaoBBzAuOC41LjG4AQPIAQD4AQL4AQGYAhCgAqETwgIKEAAYsAMY1gQYR8ICBRAhGKABwgIHEAAYgAQYE8ICBhAAGBMYHsICChAAGBMYBRgeGA_CAgoQABgTGAgYHhgPwgIIEAAYExgFGB7CAgUQABiABMICBBAAGB7CAgYQABgeGA_CAgYQABgIGB7CAgoQABgIGA0YHhgPmAMAiAYBkAYEkgcHNC43LjQuMaAHwic&sclient=gws-wiz-serp
+
+Mozilla Central Quick Start — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/mobile/android/geckoview/contributor/mc-quick-start.html
+
+mozilla/moz-git-tools: Tools for working with Git at Mozilla
+https://github.com/mozilla/moz-git-tools
+
+How do I git reset --hard HEAD on Mercurial? - Stack Overflow
+https://stackoverflow.com/questions/2672454/how-do-i-git-reset-hard-head-on-mercurial
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,26 @@
 # dev
 
+
+./mach clobber
+
+hg strip --keep -r . # --keep optional
+hg update --clean    # reset to last commit
+
+hg pull central
+hg up central
+
+moz-phab submit
+
+./mach lint --fix
+
+Bug 1895530 - Remove security.allow_disjointed_external_uri_loads pref
+
+hg commit
+hg revert js/src/jit/ExecutableAllocator.cpp
+
+./mach try auto
+
+
 hg diff
 hg remove -f
 
