@@ -1,3 +1,42 @@
+# 2024-5-12
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+Issues · ptitSeb/box64
+https://github.com/ptitSeb/box64/issues?q=is%3Aissue+is%3Aopen+exit+
+
+box64/CMakeLists.txt at 46dfaab639b7d2a5af79c288160bfe92b1fd6961 · ptitSeb/box64
+https://github.com/ptitSeb/box64/blob/46dfaab639b7d2a5af79c288160bfe92b1fd6961/CMakeLists.txt#L937-L939
+
+How to create a wrapping – Box86 / Box64
+https://box86.org/2024/02/how-to-create-a-wrapping/
+
+Repository search results
+https://github.com/search?q=language%3Aglsl&type=repositories&p=3
+
+douysu/shader: Shader仓库.
+https://github.com/douysu/shader
+
+nnesse/glsl-parser: A GLSL 4.5 parser written in C with flex & bison
+https://github.com/nnesse/glsl-parser
+
+dorsal-lab/lttng-utils: This repository contains helper scripts to record traces with LTTng for many common use cases.
+https://github.com/dorsal-lab/lttng-utils
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+tannal/hello-wayland - hello-wayland - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/hello-wayland
+
+
 # 2024-5-11
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

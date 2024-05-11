@@ -1,5 +1,15 @@
 # 2024-5-11 0 | 0 W
 
+export CC="riscv64-linux-gnu-gcc"
+export CXX="riscv64-linux-gnu-g++"
+
+export CC="clang"
+export CXX="clang++"
+
+
+cmake -G Ninja -B riscv -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+
 LLVM_DIR
 cmake -G Ninja -B host -DLT_LLVM_INSTALL_DIR=/opt/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON . -DClang_DIR=/opt/llvm-17/lib/cmake/clang/
 
