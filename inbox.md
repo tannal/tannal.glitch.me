@@ -1,6 +1,9 @@
 # 2024-5-11 0 | 0 W
 
 
+git clone https://chromium.googlesource.com/angle/angle.git
+gclient sync
+
 var embed = document.querySelector('embed')
 var allowScrolling = true
 window.addEventListener('keydown', function(e) {

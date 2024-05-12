@@ -1,5 +1,68 @@
 # 2024-5-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How single-iteration InstCombine improves LLVM compile time | Red Hat Developer
+https://developers.redhat.com/articles/2023/12/07/how-single-iteration-instcombine-improves-llvm-compile-time#
+
+Intent to Ship: Tabbed web apps
+https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc
+
+manifest-incubations/tabbed-mode-explainer.md at gh-pages · WICG/manifest-incubations
+https://github.com/WICG/manifest-incubations/blob/gh-pages/tabbed-mode-explainer.md
+
+Tabbed web apps · Issue #841 · w3ctag/design-reviews
+https://github.com/w3ctag/design-reviews/issues/841
+
+Add a "tabbed application" mode · Issue #737 · w3c/manifest
+https://github.com/w3c/manifest/issues/737
+
+…/length_utils.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5277856/7/third_party/blink/renderer/core/layout/length_utils.h#10
+
+Pinpoint
+https://pinpoint-dot-chromeperf.appspot.com/job/138699385e0000
+
+[GridNG] Reintroduce InitializeTrackSizes for multiple levels of subgrid (4331404) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/4331404
+
+Investigate correctness of CSSVarCycleInterpolationType [40753334] - Chromium
+https://issues.chromium.org/issues/40753334
+
+020915b1d8c067bbe8cb9f828ff3130975428ad3 - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/020915b1d8c067bbe8cb9f828ff3130975428ad3
+
+idl_parser.py hangs on certain inputs [40361084] - Chromium
+https://issues.chromium.org/issues/40361084
+
+typescript - Why Chrome emits PointerEvents and Firefox MouseEvents and which type definition should I use in my code - Stack Overflow
+https://stackoverflow.com/questions/70626381/why-chrome-emits-pointerevents-and-firefox-mouseevents-and-which-type-definition/76900433#76900433
+
+OpenGL ES 3.2 (May 5, 2022) - es_spec_3.2.pdf
+https://registry.khronos.org/OpenGL/specs/es/3.2/es_spec_3.2.pdf
+
+Excalidraw
+http://draw.tanmeng.org/
+
+angle - Git at Google
+https://chromium.googlesource.com/angle/
+
+Using depot_tools
+https://www.chromium.org/developers/how-tos/depottools/
+
+build angle from source - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=build+angle+from+source
+
+ANGLE Development
+https://chromium.googlesource.com/angle/angle/+/HEAD/doc/DevSetup.md
+
+gpu - What is difference between ANGLE and Skia Graphics Engine? - Stack Overflow
+https://stackoverflow.com/questions/68788568/what-is-difference-between-angle-and-skia-graphics-engine
+
+armansito (Arman Uguray)
+https://github.com/armansito
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
