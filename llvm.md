@@ -1,5 +1,7 @@
 # inbox
 
+GEP get element pointer
+InstCombiner
 
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
 . -DClang_DIR=/opt/llvm-17/lib/cmake/clang/

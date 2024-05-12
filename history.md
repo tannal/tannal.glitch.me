@@ -1,5 +1,68 @@
 # 2024-5-12
 
+llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries/Chapter07/TernaryConverter/TernaryConverter.cpp at main · PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries
+https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries/blob/main/Chapter07/TernaryConverter/TernaryConverter.cpp
+
+Building LLVM with CMake — LLVM 19.0.0git documentation
+https://llvm.org/docs/CMake.html
+
+LLVM plugin CMake
+https://gist.github.com/sheredom/5121d1d34449a83fdc91bbba9ecb9f06
+
+c++ - How to print variables in CMake? - Stack Overflow
+https://stackoverflow.com/questions/68139352/how-to-print-variables-in-cmake
+
+cmake list append for compiler flags yields bogus results? - Stack Overflow
+https://stackoverflow.com/questions/16433391/cmake-list-append-for-compiler-flags-yields-bogus-results
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+base64 hex encode decode - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=base64+hex+encode+decode
+
+Hex to Base64 | Base64 Encode | Base64 Converter | Base64
+https://base64.guru/converter/encode/hex
+
+cat hex value to - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=cat+hex+value+to+
+
+warpdesign/cat-hex: cat content of binary files - the cat of hexadecimal
+https://github.com/warpdesign/cat-hex
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+How single-iteration InstCombine improves LLVM compile time | Red Hat Developer
+https://developers.redhat.com/articles/2023/12/07/how-single-iteration-instcombine-improves-llvm-compile-time#the_instruction_combining_pass
+
+Contributors to WebAssembly/simd
+https://github.com/WebAssembly/simd/graphs/contributors
+
+245897 – Support V128.const, load, store and extract_lane in BBQ only with O0 register allocation
+https://bugs.webkit.org/show_bug.cgi?id=245897
+
+Support v128 const load store and extract lane in bbq only with O0 register allocation by justinmichaud · Pull Request #5547 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/5547/files#diff-f94c15ef1c9c4974945b613f8ebc7eab02e34c15ef16d55b916e4acb001b0297
+
+llvm GEP means - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=llvm+GEP+means
+
+llvm GEP what is the purpose of the first type - Stack Overflow
+https://stackoverflow.com/questions/56186971/llvm-gep-what-is-the-purpose-of-the-first-type
+
+Google Translate
+https://translate.google.com/?sl=auto&tl=zh-CN&text=InstCombine%20is%20the%20proverbial%20death%20by%20a%20thousand%20cuts&op=translate
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
