@@ -1,5 +1,161 @@
 # 2024-5-12
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#javascriptcore
+
+Building libgccjit with -fno-semantic-interposition? ( was Re: 1.76% performance loss in VRP due to inlining) - David Malcolm
+https://inbox.sourceware.org/gcc/342ee000a97aa485f4f1d83d880bf9af80eae11e.camel@redhat.com/
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+module: cache synchronous module jobs before linking by joyeecheung · Pull Request #52868 · nodejs/node
+https://github.com/nodejs/node/pull/52868/files
+
+build: include minimal V8 headers in distribution by targos · Pull Request #37570 · nodejs/node
+https://github.com/nodejs/node/pull/37570#issuecomment-793436245
+
+MayaLekova (Maya Lekova)
+https://github.com/MayaLekova
+
+Issues · ziglang/zig
+https://github.com/ziglang/zig/issues
+
+box64/CMakeLists.txt at 46dfaab639b7d2a5af79c288160bfe92b1fd6961 · ptitSeb/box64
+https://github.com/ptitSeb/box64/blob/46dfaab639b7d2a5af79c288160bfe92b1fd6961/CMakeLists.txt#L937-L939
+
+libtool/m4/libtool.m4 at 88fc2b892c61f6ef57decc55abe03ec6734f27ec · autotools-mirror/libtool
+https://github.com/autotools-mirror/libtool/blob/88fc2b892c61f6ef57decc55abe03ec6734f27ec/m4/libtool.m4#L5133
+
+autotools-mirror/libtool: GNU Libtool. Mirror of git://git.savannah.gnu.org/libtool.git
+https://github.com/autotools-mirror/libtool/tree/master
+
+Libtool - GNU Project - Free Software Foundation
+https://www.gnu.org/software/libtool/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+cs5460/6460 Operating Systems (Spring 2024) - Final recap - YouTube
+https://www.youtube.com/watch?v=yywVgcwpef4&t=2041s
+
+coshvji cujmlqef - YouTube
+https://www.youtube.com/@coshvjicujmlqef6047/videos
+
+john r levine - Google 搜索
+https://www.google.com/search?q=john+r+levine&rlz=1C1GCEA_enJP1090JP1090&oq=john+r+levine&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQLhiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzYxMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries/Chapter02/Out Of Tree Integration/Exec/main.cpp at main · PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries
+https://github.com/PacktPublishing/LLVM-Techniques-Tips-and-Best-Practices-Clang-and-Middle-End-Libraries/blob/main/Chapter02/Out%20Of%20Tree%20Integration/Exec/main.cpp
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Tizen github - Google 搜索
+https://www.google.com/search?q=Tizen+github&sca_esv=a5889400f8f32f4a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILVvkFQiMGQhp9egvAInc6bGzTJrg%3A1715470067027&ei=8_4_ZtWsAZ3H1e8PuYOssAw&ved=0ahUKEwiV8t7_34aGAxWdY_UHHbkBC8YQ4dUDCBA&uact=5&oq=Tizen+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDFRpemVuIGdpdGh1YjIIEAAYgAQYywEyBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB5I2yVQpxxYxyRwAngBkAEAmAHsAaAB7wmqAQUwLjEuNbgBA8gBAPgBAZgCCKACkArCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMi4wLjagB8IS&sclient=gws-wiz-serp
+
+Tizen - new Android competitor | Hacker News
+https://news.ycombinator.com/item?id=5077222
+
+27 000 Errors in the Tizen Operating System
+https://pvs-studio.com/en/blog/posts/cpp/0519/
+
+(2) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733/threads/1233611901578248212
+
+Why you should try mob programming | Auguste's website
+https://augustebaum.github.io/posts/2024-02-22-06-why-you-should-try-mob-programming/
+
+lace-wing/lll-public: The public repository for Lacewing’s Language & Literature (LLL). LLL is a personal project on writing. It covers a broad spectrum of texts, any language, any text type and any topic can be included.
+https://github.com/lace-wing/lll-public
+
+nohello-net
+https://github.com/nohello-net
+
+typst-gboard-dictionary/dictionary.txt at master · coco33920/typst-gboard-dictionary
+https://github.com/coco33920/typst-gboard-dictionary/blob/master/dictionary.txt
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt?tab=readme-ov-file#feature-parity-among-projects
+
+It’s all about RISC-V code size - Codasip
+https://codasip.com/2023/07/05/it-is-all-about-riscv-code-size/
+
+Unable to upgrade to V8 9.2 · Issue #694 · denoland/rusty_v8
+https://github.com/denoland/rusty_v8/issues/694
+
+Ask HN: Core GNU components (flex, libtool) in dismaintenance | Hacker News
+https://news.ycombinator.com/item?id=21762031
+
+GNU Libtool - Summary [Savannah]
+https://savannah.gnu.org/projects/libtool/
+
+GNU perms - Google 搜索
+https://www.google.com.hk/search?q=GNU+perms&rlz=1C1GCEA_enJP1090JP1090&oq=GNU+perms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Quarto - Google 搜索
+https://www.google.com.hk/search?q=Quarto&rlz=1C1GCEA_enJP1090JP1090&oq=Quarto&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBBzE5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Quarto
+https://quarto.org/
+
+Cortex-A7 instruction set - Google 搜索
+https://www.google.com.hk/search?q=Cortex-A7+instruction+set&newwindow=1&sca_esv=396701017a0fe9d3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJIv8TJD6eTJ7yhkJLBZExXRy9szw%3A1715477354709&ei=ahtAZuTzKrq12roPnampuAI&oq=ARM+Cortex-A+Series+Programmer%E2%80%99s+Guide+for+ARMv8-A+simd&gs_lp=Egxnd3Mtd2l6LXNlcnAiOUFSTSBDb3J0ZXgtQSBTZXJpZXMgUHJvZ3JhbW1lcuKAmXMgR3VpZGUgZm9yIEFSTXY4LUEgc2ltZCoCCAEyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI5itQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACBJgDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+ARMv8-M Architecture Reference Manual - Google 搜索
+https://www.google.com.hk/search?q=ARMv8-M+Architecture+Reference+Manual&rlz=1C1GCEA_enJP1090JP1090&oq=ARMv8-M+Architecture+Reference+Manual&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgHGB4yBggCEAAYHjIICAMQABgIGB4yCggEEAAYgAQYogTSAQgzNDczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+m-profile-user-guide-examples/Exception_model/context-switch-fp at main · ARM-software/m-profile-user-guide-examples
+https://github.com/ARM-software/m-profile-user-guide-examples/tree/main/Exception_model/context-switch-fp
+
+SIMD arm instructions - Google 搜索
+https://www.google.com.hk/search?q=SIMD+arm+instructions&rlz=1C1GCEA_enJP1090JP1090&oq=SIMD+arm+instructions&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+aws-graviton-getting-started/SIMD_and_vectorization.md at main · aws/aws-graviton-getting-started
+https://github.com/aws/aws-graviton-getting-started/blob/main/SIMD_and_vectorization.md
+
+CMSIS-DAP: CMSIS-DAP
+https://arm-software.github.io/CMSIS_6/latest/DAP/index.html
+
+face table fonts - Google 搜索
+https://www.google.com.hk/search?q=face+table+fonts&newwindow=1&sca_esv=6a99ed26b5ee7836&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII21PMwbhXAzIYU9oXG5EN1lfmscQ%3A1715480717541&ei=jShAZoXPIIDk2roPxpi4mAg&ved=0ahUKEwjFyabWh4eGAxUAslYBHUYMDoMQ4dUDCBA&uact=5&oq=face+table+fonts&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGZhY2UgdGFibGUgZm9udHMyBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEigClCzAlibCXABeAGQAQCYAZ8BoAGMBqoBAzAuNbgBA8gBAPgBAZgCBqACnAbCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAgYQABgMGB7CAgQQABgewgIIEAAYChgMGB7CAgYQABgeGA_CAgYQABgFGB7CAggQABgIGB4YD8ICCBAAGAgYDRgemAMAiAYBkAYCkgcDMS41oAexDw&sclient=gws-wiz-serp
+
+ttf parser - Google 搜索
+https://www.google.com.hk/search?q=ttf+parser&rlz=1C1GCEA_enJP1090JP1090&oq=ttf+parser&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIKCAgQABgKGAwYHjIICAkQABgMGB7SAQgxNzc2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+SVG 1.1 Full Static Support
+https://razrfalcon.github.io/resvg-test-suite/svg-support-table.html
+
+aws/s2n-quic: An implementation of the IETF QUIC protocol
+https://github.com/aws/s2n-quic
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Kilerd (Kilerd Chan)
+https://github.com/Kilerd
+
+Running Page
+https://kilerd.github.io/running_page/
+
+camiyoru github - Google 搜索
+https://www.google.com.hk/search?q=camiyoru+github&rlz=1C1GCEA_enJP1090JP1090&oq=camiyoru+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDQxOTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Slice the before_window at char boundaries (#4028) · typst/typst@329b0f9
+https://github.com/typst/typst/commit/329b0f9b8d9ea5cafbfd6c7a8f92a9d13738b841
+
 llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
