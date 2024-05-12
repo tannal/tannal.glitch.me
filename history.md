@@ -1,5 +1,131 @@
 # 2024-5-12
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues?q=is%3Aissue+is%3Aopen+rotate
+
+C++ Insights
+https://cppinsights.io/
+
+Modern C++ with Andreas Fertig: Trainer, Consultant & Speaker for C++
+https://andreasfertig.com/
+
+1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895530
+
+ttf parser - Google 搜索
+https://www.google.com.hk/search?q=ttf+parser&rlz=1C1GCEA_enJP1090JP1090&oq=ttf+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTU3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+RazrFalcon/ttf-parser: A high-level, safe, zero-allocation TrueType font parser.
+https://github.com/RazrFalcon/ttf-parser
+
+#xilem > iOS support - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/iOS.20support
+
+online event processing - Google 搜索
+https://www.google.com.hk/search?q=online+event+processing&rlz=1C1GCEA_enJP1090JP1090&oq=online+event+pro&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMggICRAAGA8YHtIBCDU3MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Online Event Processing - ACM Queue
+https://queue.acm.org/detail.cfm?id=3321612
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Online%20Event%20Processing&sort=byPopularity&type=story
+
+Issues · ziglang/zig
+https://github.com/ziglang/zig/issues
+
+stephen smith arm - Google 搜索
+https://www.google.com.hk/search?q=stephen+smith+arm&newwindow=1&sca_esv=a2f1cf1b706ff5c6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKrogF-_0Mra-N1Cga-Bpat2O4OaQ%3A1715492543823&ei=v1ZAZoj0Md2v0-kPxuy5gAc&ved=0ahUKEwjIz8Hds4eGAxXd1zQHHUZ2DnAQ4dUDCBA&uact=5&oq=stephen+smith+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXN0ZXBoZW4gc21pdGggYXJtMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIESIQOUIgCWMkMcAF4AZABAJgBxQGgAasFqgEDMC40uAEDyAEA-AEBmAIFoAK_BcICChAAGLADGNYEGEfCAgcQIxixAhgnwgIIEC4YgAQYywHCAgsQLhiABBjUAhjLAcICDhAuGIAEGMcBGMsBGK8BwgIEEAAYHpgDAIgGAZAGAZIHBTEuMy4xoAfzLA&sclient=gws-wiz-serp
+
+About | Stephen Smith's Blog
+https://smist08.wordpress.com/about/
+
+c++ the good parts - Google 搜索
+https://www.google.com.hk/search?q=c%2B%2B+the+good+parts&rlz=1C1GCEA_enJP1090JP1090&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyCggCEAAYgAQYogQyCggDEAAYgAQYogQyCggEEAAYgAQYogTSAQgzNzIyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Amazon.com: C++: The Good Parts: 9781449319694: Satir, Gregory: Books
+https://www.amazon.com/C-Good-Parts-Gregory-Satir/dp/1449319696
+
+Gregory Satir - Google 搜索
+https://www.google.com.hk/search?q=Gregory+Satir&rlz=1C1GCEA_enJP1090JP1090&oq=Gregory+Satir&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+linkers and loaders pdf - Google 搜索
+https://www.google.com.hk/search?q=linkers+and+loaders+pdf&newwindow=1&sca_esv=a2f1cf1b706ff5c6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIipOIdF-8FDS0C9DlY99HwsskcFA%3A1715493000267&ei=iFhAZvPvD6rk2roP_--voAE&ved=0ahUKEwjz05S3tYeGAxUqslYBHf_3CxQQ4dUDCBA&uact=5&oq=linkers+and+loaders+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2xpbmtlcnMgYW5kIGxvYWRlcnMgcGRmMggQABiABBjLATIEEAAYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIEMgYQABgFGB5IigZQowFY8wRwAXgBkAEAmAG2A6ABjAeqAQcwLjMuNC0xuAEDyAEA-AEBmAIFoAKdB8ICChAAGLADGNYEGEfCAggQLhiABBjLAcICBRAAGIAEmAMAiAYBkAYDkgcHMS4zLjQtMaAHtBE&sclient=gws-wiz-serp#ip=1
+
+CS3410
+https://www.cs.cornell.edu/courses/cs3410/2013sp/
+
+Blue Whale Systems
+https://github.com/bluewhalesystems
+
+brian j gough - Google 搜索
+https://www.google.com.hk/search?q=brian+j+gough&rlz=1C1GCEA_enJP1090JP1090&oq=brian+j+gough&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDM3NjJqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mel gorman - Google 搜索
+https://www.google.com.hk/search?q=mel+gorman&rlz=1C1GCEA_enJP1090JP1090&oq=mel+gorman&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMggIBRAAGAgYHjIICAYQABgIGB4yCggHEAAYgAQYogQyCAgIEAAYBRgeMggICRAAGAUYHtIBCDI4MDlqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+Mel Gorman – Tap dancing on keyboards
+http://techsingularity.net/blog/
+
+Outreachyfirstpatch - Linux Kernel Newbies
+https://kernelnewbies.org/Outreachyfirstpatch
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Repository search results
+https://github.com/search?q=image%20editor&type=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=image%20editor&sort=byPopularity&type=story
+
+Edit•Photo - The Free Online Photo Editor In Your Browser
+https://edit.photo/
+
+Excalidraw
+https://excalidraw.com/
+
+excalidraw rotate image - Google 搜索
+https://www.google.com.hk/search?q=excalidraw+rotate+image&rlz=1C1GCEA_enJP1090JP1090&oq=excalidraw+rotate+image&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDI3MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Rotation support by dai-shi · Pull Request #1099 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/pull/1099
+
+rotate() - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate
+
+ChatGPT
+https://chatgpt.com/c/865d3f10-4adf-4187-b124-ce9ed21500d1
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Daniel J. Barrett - Google 搜索
+https://www.google.com/search?q=Daniel+J.+Barrett&rlz=1C1GCEA_enJP1090JP1090&oq=Daniel+J.+Barrett&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Noel kalicharan - Google 搜索
+https://www.google.com/search?q=Noel+kalicharan&rlz=1C1GCEA_enJP1090JP1090&oq=Noel+kalicharan&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgcIARAAGIAEMgYIAhAAGB4yCAgDEAAYDxgeMgoIBBAAGIAEGKIE0gEINTQ1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+gdb.pdf
+https://sourceware.org/gdb/current/onlinedocs/gdb.pdf
+
+javascript - How to scroll through PDF opened in embed tag in chrome? - Stack Overflow
+https://stackoverflow.com/questions/49295986/how-to-scroll-through-pdf-opened-in-embed-tag-in-chrome
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+refs not valid: is this a git repository? - Google 搜索
+https://www.google.com/search?q=refs+not+valid%3A+is+this+a+git+repository%3F&rlz=1C1GCEA_enJP1090JP1090&oq=refs+not+valid%3A+is+this+a+git+repository%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+error: RPC failed; HTTP 404 curl 22 The requested URL returned error: 404 fatal: expected flush after ref listing - Google 搜索
+https://www.google.com/search?q=error%3A+RPC+failed%3B+HTTP+404+curl+22+The+requested+URL+returned+error%3A+404+fatal%3A+expected+flush+after+ref+listing&rlz=1C1GCEA_enJP1090JP1090&oq=error%3A+RPC+failed%3B+HTTP+404+curl+22+The+requested+URL+returned+error%3A+404+fatal%3A+expected+flush+after+ref+listing&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTQ3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
