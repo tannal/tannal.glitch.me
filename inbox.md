@@ -1,5 +1,40 @@
 # 2024-5-11 0 | 0 W
 
+
+var embed = document.querySelector('embed')
+var allowScrolling = true
+window.addEventListener('keydown', function(e) {
+  // If user scrolls, disable automatic scrolling temporarily
+  if(e.key === 'j') {
+      allowScrolling = !allowScrolling;
+      alert(allowScrolling);
+  }
+});
+
+setInterval(() => {
+  scrollToRandomPercentage()
+}, 1000 * 4)
+
+function scrollToRandomPercentage() {
+  if(allowScrolling) {
+    // Generate a random percentage between 0 and 1
+    var randomPercentage = Math.random();
+
+    console.log(embed.scrollHeight, window.innerHeight)
+    // Get the total height of the document
+    var totalHeight = embed.scrollHeight - window.innerHeight;
+
+    // Calculate the position to scroll to
+    var scrollTo = randomPercentage * totalHeight;
+
+    // Scroll to the calculated position
+    embed.scrollTo({
+      top: scrollTo,
+      behavior: 'instant' // Smooth scrolling
+    });
+  }
+}
+
 export CC="riscv64-linux-gnu-gcc"
 export CXX="riscv64-linux-gnu-g++"
 

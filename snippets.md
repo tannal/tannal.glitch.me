@@ -3848,6 +3848,8 @@ set https_proxy=http://127.0.0.1:7890
 $env:HTTP_PROXY = "http://192.168.43.1:7890"
 $env:HTTPS_PROXY = "http://192.168.43.1:7890"
 
+$env:HTTP_PROXY = ""
+$env:HTTPS_PROXY = ""
 
 # docker and dockerfile
 
