@@ -1,5 +1,26 @@
 # 2024-5-12
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rui314 (Rui Ueyama)
+https://github.com/rui314
+
+Excalidraw
+http://draw.tanmeng.org/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rui%20m&sort=byPopularity&type=story
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Repository search results
+https://github.com/search?q=Rui+Ueyama&type=repositories&p=2
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rui&sort=byPopularity&type=story
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
