@@ -2,6 +2,33 @@
 # dev
 
 
+3474:	a9be7bfd 	stp	x29, x30, [sp, #-32]!
+3478:	910003fd 	mov	x29, sp
+347c:	b9001fe0 	str	w0, [sp, #28]
+3480:	f9000be1 	str	x1, [sp, #16]
+3484:	97fff624 	bl	d14 <yylex>
+3488:	b00000e0 	adrp	x0, 20000 <__data_start>
+348c:	91012000 	add	x0, x0, #0x48
+3490:	b9400000 	ldr	w0, [x0]
+3494:	2a0003e1 	mov	w1, w0
+3498:	90000000 	adrp	x0, 3000 <yy_scan_buffer+0x7c>
+349c:	91214000 	add	x0, x0, #0x850
+34a0:	97fff5bc 	bl	b90 <printf@plt>
+34a4:	52800000 	mov	w0, #0x0                   	// #0
+34a8:	a8c27bfd 	ldp	x29, x30, [sp], #32
+34ac:	d65f03c0 	ret
+
+
+00402191
+disassembleBase64('AEAhkQ==')
+
+91 00 03 fd
+fd030091 
+
+qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot  WebKitBuild/JSCOnly/Debug/bin/jsc
+
+disassembleBase64('/QMAkQ==')
+
 git pull
 
 ./Tools/Scripts/build-jsc --jsc-only
