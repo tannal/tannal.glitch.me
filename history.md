@@ -1,3 +1,161 @@
+# 2024-5-13
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Repositories
+https://github.com/orgs/cashapp/repositories
+
+Only reasoning | 10.1016/0749-596x(89)90036-3_Scihub
+https://bothonce.com/10.1016/0749-596x(89)90036-3
+
+Don’t track bugs, fix them | Allen Holub
+https://holub.com/bugs/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+perfetto - Google 搜索
+https://www.google.com.hk/search?q=perfetto&rlz=1C1GCEA_enJP1090JP1090&oq=perfetto&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMzQxM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · google/perfetto
+https://github.com/google/perfetto/issues
+
+Yehoshua Bar-Hillel - Google 搜索
+https://www.google.com.hk/search?q=Yehoshua+Bar-Hillel&rlz=1C1GCEA_enJP1090JP1090&oq=Yehoshua+Bar-Hillel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Support for access time in bibliography · Issue #4104 · typst/typst
+https://github.com/typst/typst/issues/4104
+
+robertosw (robertosw) / Repositories
+https://github.com/robertosw?tab=repositories
+
+Issues · typst/hayagriva
+https://github.com/typst/hayagriva/issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=The%20transitivity%20of%20relations%20is%20an%20emergent%20property%20of%20building%0Aiconic%20models.&op=translate
+
+emergent - Google 搜索
+https://www.google.com.hk/search?q=emergent&rlz=1C1GCEA_enJP1090JP1090&oq=emergent&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDzSAQcyMTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+transitivity logic - Google 搜索
+https://www.google.com.hk/search?q=transitivity+logic&newwindow=1&sca_esv=9d92ab9a6316ea64&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILenCGJoJUxjdN3-qP3xdxI5OPevA%3A1715517368951&ei=uLdAZrjMOaazvr0PpqiwkAw&oq=transitivity+log&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHRyYW5zaXRpdml0eSBsb2cqAggAMggQABiABBjLATIEEAAYHjIGEAAYHhgPMgYQABgeGA8yBhAAGAgYHjIIEAAYCBgeGA8yCBAAGAUYHhgPMgYQABgIGB4yCBAAGAgYHhgPMggQABgIGB4YD0ixIVCYAVj2GnABeAGQAQCYAdoBoAGJBqoBBTAuMy4xuAEDyAEA-AEBmAIFoAKbBsICChAAGLADGNYEGEeYAwCIBgGQBgmSBwUxLjMuMaAH0A4&sclient=gws-wiz-serp
+
+Transitive relation - Google 搜索
+https://www.google.com.hk/search?q=Transitive+relation&rlz=1C1GCEA_enJP1090JP1090&oq=Transitive+relation&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzIzNmowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+Transitive relation - Wikipedia
+https://en.wikipedia.org/wiki/Transitive_relation
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+robert mecklenburg - Google 搜索
+https://www.google.com.hk/search?q=robert+mecklenburg&rlz=1C1GCEA_enJP1090JP1090&oq=robert+mecklenburg&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgoIARAAGAgYExgeMgoIAhAAGAgYExgeMgoIAxAAGAgYExgeMgoIBBAAGAgYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgoIBxAAGAgYExgeMgoICBAAGIAEGKIEMgoICRAAGIAEGKIE0gEINjU2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+rigrep - Google 搜索
+https://www.google.com.hk/search?q=rigrep&newwindow=1&sca_esv=11c7c760f2d61c09&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIrru7q69XqeyB65HYLc_0wvuajcg%3A1715519054515&ei=Tr5AZq-DH-yl2roP06qfyAg&ved=0ahUKEwiv4uW-loiGAxXsklYBHVPVB4kQ4dUDCBA&uact=5&oq=rigrep&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnJpZ3JlcDIKEAAYgAQYChjLATIIEAAYgAQYywEyChAAGIAEGEMYigUyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGApIgw1QwQZY-ApwAXgBkAEAmAHIAaABtwiqAQUwLjUuMbgBA8gBAPgBAZgCB6ACzQjCAgoQABiwAxjWBBhHwgIMECMYgAQYExgnGIoFwgIEECMYJ8ICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgUQLhiABMICEBAuGIAEGNEDGEMYxwEYigXCAg4QLhiABBjHARjLARivAcICChAuGIAEGAoYywGYAwCIBgGQBgmSBwUxLjQuMqAHizI&sclient=gws-wiz-serp
+
+BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+https://github.com/BurntSushi/ripgrep
+
+Peirce - Google 搜索
+https://www.google.com.hk/search?q=Peirce&rlz=1C1GCEA_enJP1090JP1090&oq=Peirce&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDINCAIQLhivARjHARiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDExNjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+查尔斯·桑德斯·皮尔士 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E6%A1%91%E5%BE%B7%E6%96%AF%C2%B7%E7%9A%AE%E5%B0%94%E5%A3%AB
+
+e Kahneman and Tversky - Google 搜索
+https://www.google.com.hk/search?q=e+Kahneman+and+Tversky&rlz=1C1GCEA_enJP1090JP1090&oq=e+Kahneman+and+Tversky&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQcxMzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+TverskyKahneman1974.pdf
+https://www2.psych.ubc.ca/~schaller/Psyc590Readings/TverskyKahneman1974.pdf
+
+Only reasoning. Journal of Memory and Language, 28, 313–330. - Google 搜索
+https://www.google.com.hk/search?q=Only+reasoning.+Journal+of+Memory+and+Language%2C+28%2C+313%E2%80%93330.&rlz=1C1GCEA_enJP1090JP1090&oq=Only+reasoning.+Journal+of+Memory+and+Language%2C+28%2C+313%E2%80%93330.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Only reasoning.
+https://psycnet.apa.org/record/1989-38832-001
+
+Only reasoning - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/0749596X89900363?via%3Dihub
+
+Only reasoning - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/0749596X89900363
+
+Patrick Coleman
+http://localhost:3000/
+
+cash app kotlin github - Google 搜索
+https://www.google.com.hk/search?q=cash+app+kotlin+github&newwindow=1&sca_esv=91cc4add99ba6e00&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKyG1hDgPFAl_Y_sZj2FNddbXuBJw%3A1715523641295&ei=OdBAZqbaEfjc2roPndiPiAE&ved=0ahUKEwjm2vjJp4iGAxV4rlYBHR3sAxEQ4dUDCBA&uact=5&oq=cash+app+kotlin+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmNhc2ggYXBwIGtvdGxpbiBnaXRodWIyBxAhGKABGApI2AdQOFjmBnABeAGQAQCYAbIBoAHrB6oBAzAuNrgBA8gBAPgBAZgCB6ACggjCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAggQABiABBiiBMICCBAAGKIEGIkFwgIFECEYoAGYAwCIBgGQBgqSBwMxLjagB8EJ&sclient=gws-wiz-serp
+
+JetBrains/jewel: An implementation of the IntelliJ look and feels in Compose for Desktop
+https://github.com/jetBrains/jewel
+
+droidcon Academy | Home
+https://academy.droidcon.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+rust specification - Google 搜索
+https://www.google.com.hk/search?q=rust+specification&rlz=1C1GCEA_enJP1090JP1090&oq=rust+spec&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyCQgCEEUYORiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMTkyMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Does rust have a specification ? : r/rust
+https://www.reddit.com/r/rust/comments/p616ds/does_rust_have_a_specification/
+
+rust-lang/reference: The Rust Reference
+https://github.com/rust-lang/reference
+
+c++ the good parts c++ - Google 搜索
+https://www.google.com.hk/search?q=c%2B%2B+the+good+parts+c%2B%2B&rlz=1C1GCEA_enJP1090JP1090&oq=c%2B%2B+the+good+parts+c%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDQzNTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Textbook that focuses on the "good parts" of C++20? : r/cpp
+https://www.reddit.com/r/cpp/comments/vzjp1s/textbook_that_focuses_on_the_good_parts_of_c20/
+
+Professional c++ 5th edition pdf github - Google 搜索
+https://www.google.com.hk/search?q=Professional+c%2B%2B+5th+edition+pdf+github&newwindow=1&sca_esv=16520909ba533f16&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKrnmXju-WvVI7pUOekgK6AeljXNw%3A1715557262246&ei=jlNBZq7XDryk2roPwuyr0A4&ved=0ahUKEwiu1tTppImGAxU8klYBHUL2CuoQ4dUDCBA&uact=5&oq=Professional+c%2B%2B+5th+edition+pdf+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ1Byb2Zlc3Npb25hbCBjKysgNXRoIGVkaXRpb24gcGRmIGdpdGh1YjIIEAAYgAQYywEyCBAAGIAEGKIESMsOUFFY0w1wA3gBkAEAmAGaAaAB7waqAQMwLja4AQPIAQD4AQGYAgmgAv8GwgIKEAAYsAMY1gQYR8ICBBAAGB6YAwCIBgGQBgiSBwMzLjagB8YK&sclient=gws-wiz-serp
+
+edition-6/Examples/Ch01/02_Namespaces at main · Professional-CPP/edition-6
+https://github.com/Professional-CPP/edition-6/tree/main/Examples/Ch01/02_Namespaces
+
+Professional C++, 6th Edition | Wiley
+https://www.wiley.com/en-hk/Professional+C%2B%2B%2C+6th+Edition-p-9781394193172
+
+Professional C++, 6th Edition pdf - Google 搜索
+https://www.google.com.hk/search?q=Professional+C%2B%2B%2C+6th+Edition+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=Professional+C%2B%2B%2C+6th+Edition+pdf&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMggIAxAAGAgYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBNIBBzk5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+True PDF Available - Professional C++ (Tech Today), 6th Edition : r/Textbook_request_
+https://www.reddit.com/r/Textbook_request_/comments/1apdy8t/true_pdf_available_professional_c_tech_today_6th/
+
+Search results - Sciarium
+https://sciarium.com/search/
+
+Theory of algorithms - Computer science - Sciarium
+https://sciarium.com/files/science/informatics/algorythms/
+
+neovim qt github - Google 搜索
+https://www.google.com.hk/search?q=neovim+qt+github&rlz=1C1GCEA_enJP1090JP1090&oq=neovim+qt+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCggCEAAYgAQYogQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQgzOTQ3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+equalsraf/neovim-qt: Neovim client library and GUI, in Qt5.
+https://github.com/equalsraf/neovim-qt
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main
+
+javah openjdk 17 - Google 搜索
+https://www.google.com.hk/search?q=javah+openjdk+17&rlz=1C1GCEA_enJP1090JP1090&oq=javah+openjdk+17&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGA0YHjIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB7SAQkxMDYzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+java - javah missing after JDK install - Stack Overflow
+https://stackoverflow.com/questions/50352098/javah-missing-after-jdk-install
+
+JEP 313: Remove the Native-Header Generation Tool (javah)
+https://openjdk.org/jeps/313
+
 # 2024-5-12
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

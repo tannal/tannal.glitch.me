@@ -1,3 +1,11 @@
+# 2024-5-13 0 | 0 W
+
+javac /home/user/Foobar.java -h /home/user/
+
+# 2024-5-12 0 | 0 W
+
+
+
 # 2024-5-11 0 | 0 W
 
 
