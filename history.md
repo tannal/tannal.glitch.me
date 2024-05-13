@@ -3,6 +3,87 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+gpu - What is difference between ANGLE and Skia Graphics Engine? - Stack Overflow
+https://stackoverflow.com/questions/68788568/what-is-difference-between-angle-and-skia-graphics-engine
+
+OpenGL ES 3.2 (May 5, 2022) - es_spec_3.2.pdf
+https://registry.khronos.org/OpenGL/specs/es/3.2/es_spec_3.2.pdf
+
+GCC: Anonymous read-only Git access - GNU Project
+https://gcc.gnu.org/git.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Mq-b/Loser-HomeWork: 卢瑟们的作业展示，答案讲解，以及一些C++知识
+https://github.com/Mq-b/Loser-HomeWork
+
+open source audio production software github - Google 搜索
+https://www.google.com.hk/search?q=open+source+audio+production+software+github&newwindow=1&client=ubuntu-sn&hs=53s&sca_esv=11c7c760f2d61c09&sca_upv=1&channel=fs&ei=CMRAZsz9COWp2roPq7Oq4A8&ved=0ahUKEwjModX5m4iGAxXllFYBHauZCvwQ4dUDCBA&uact=5&oq=open+source+audio+production+software+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiLG9wZW4gc291cmNlIGF1ZGlvIHByb2R1Y3Rpb24gc29mdHdhcmUgZ2l0aHViMgcQIRigARgKSMcRUNQIWOIQcAF4AZABAJgBwAGgAagIqgEDMC42uAEDyAEA-AEBmAIHoALACMICChAAGLADGNYEGEfCAgQQABgewgIIEAAYogQYiQXCAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcDMS42oAfZDg&sclient=gws-wiz-serp
+
+List Of Open Source Music Production Software · mixxxdj/mixxx Wiki
+https://github.com/mixxxdj/mixxx/wiki/List-Of-Open-Source-Music-Production-Software
+
+Open-Source Music Production Tools | Hacker News
+https://news.ycombinator.com/item?id=23909138
+
+FOSS Music Production Software - Google Sheets
+https://docs.google.com/spreadsheets/d/1YfVyZHy83WHIiZmQJwHhwPTXomc188VcIwhZJB0P8ro/edit#gid=0
+
+LMMS/lmms: Cross-platform music production software
+https://github.com/LMMS/lmms
+
+LMMS | Home
+https://lmms.io/
+
+Audacity
+https://github.com/audacity
+
+Chromium-dev - Google Groups
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+ubuntu install qt5 - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=ubuntu+install+qt5
+
+22.04 - How do you install qt on ubuntu22.04 - Ask Ubuntu
+https://askubuntu.com/questions/1404263/how-do-you-install-qt-on-ubuntu22-04
+
+llvm-project/clang/www/cxx_status.html at 61d4ca872215d3dfff0b3c92151dcbdc546a0aab · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/61d4ca872215d3dfff0b3c92151dcbdc546a0aab/clang/www/cxx_status.html#L1788
+
+tinghua gcc - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=tinghua+gcc
+
+gcc.git | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror
+https://mirrors.tuna.tsinghua.edu.cn/help/gcc.git/
+
+kafka message lost - Google 搜索
+https://www.google.com.hk/search?q=kafka+message+lost&newwindow=1&client=ubuntu-sn&hs=KnC&sca_esv=564deb1775a058e5&sca_upv=1&channel=fs&ei=Q-xBZuW9Dq2M2roPydePMA&ved=0ahUKEwil69O6toqGAxUthlYBHcnrAwYQ4dUDCBA&uact=5&oq=kafka+message+lost&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmthZmthIG1lc3NhZ2UgbG9zdDIFEAAYgAQyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSKwVUNAFWJUUcAF4AZABAJgBrQKgAbQPqgEIMC4xMS4wLjG4AQPIAQD4AQGYAg2gAoAQwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgcQABiABBgMwgIFEC4YgATCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGKIEwgIGEAAYBRgemAMAiAYBkAYKugYGCAEQARgUkgcIMS4xMS4wLjGgB4Ep&sclient=gws-wiz-serp
+
+Kafka docs Producer possible message loss - Stack Overflow
+https://stackoverflow.com/questions/65773897/kafka-docs-producer-possible-message-loss
+
+gcc github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=gcc+github
+
+gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc
+
+Heap Allocation changes causing DCHECKs in heap snapshotting · Issue #282 · nodejs/node-v8
+https://github.com/nodejs/node-v8/issues/282
+
+Javascript memory profiling with heap snapshot – José Dapena blog
+https://blogs.igalia.com/dape/2023/05/18/javascript-memory-profiling-with-heap-snapshot/
+
+Record heap snapshots  |  Chrome DevTools  |  Chrome for Developers
+https://developer.chrome.com/docs/devtools/memory-problems/heap-snapshots/#view_snapshots
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 buildroot-slides.pdf
 https://bootlin.com/doc/training/buildroot/buildroot-slides.pdf
 

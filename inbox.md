@@ -1,5 +1,14 @@
 # 2024-5-13 0 | 0 W
 
+git clone git://gcc.gnu.org/git/gcc.git
+git clone https://mirrors.tuna.tsinghua.edu.cn/git/gcc.git
+
+sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
+
+
+/opt/llvm/bin/clang++ fib.cc -std=c++2b -o fib
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 export LD_LIBRARY_PATH=./
 export PATH=./:$PATH
