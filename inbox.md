@@ -1,10 +1,21 @@
 # 2024-5-13 0 | 0 W
 
+
+sudo apt install build-essential cmake libsndfile1-dev libfftw3-dev \
+libvorbis-dev libogg-dev libmp3lame-dev libasound2-dev libjack-jackd2-dev \
+libsamplerate0-dev libsdl2-dev stk libfluidsynth-dev portaudio19-dev \
+libfltk1.3-dev libxinerama-dev libxft-dev libgig-dev git perl libxml2-utils \
+libxml-perl liblist-moreutils-perl qtbase5-dev qtbase5-private-dev \
+qttools5-dev-tools qttools5-dev libqt5x11extras5-dev libx11-xcb-dev \
+libxcb-keysyms1-dev libxcb-util0-dev
+
 git clone git://gcc.gnu.org/git/gcc.git
 git clone https://mirrors.tuna.tsinghua.edu.cn/git/gcc.git
 
 sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
+sudo apt install -y qtbase5-dev libqt5x11extras5-dev  qt5-x11embed-dev
 
+git clone https://github.com/LMMS/lmms
 
 /opt/llvm/bin/clang++ fib.cc -std=c++2b -o fib
 

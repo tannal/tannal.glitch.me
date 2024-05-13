@@ -9,6 +9,7 @@ git clone https://github.com/redis/redis.git
 cd redis/
 time make -j20
 
+./src/redis-server --protected-mode no
 
 
 # inbox
