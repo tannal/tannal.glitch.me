@@ -2,6 +2,13 @@
 
 
 
+# setup
+
+
+git clone https://github.com/redis/redis.git
+cd redis/
+time make -j20
+
 
 
 # inbox

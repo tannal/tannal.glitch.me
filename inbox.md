@@ -1,8 +1,15 @@
 # 2024-5-13 0 | 0 W
 
+
+export LD_LIBRARY_PATH=./
+export PATH=./:$PATH
+git clone https://gitlab.gnome.org/GNOME/qjs
+
 git clone https://github.com/pgadmin-org/pgadmin4
 
-javac /home/user/Foobar.java -h /home/user/
+javac jni.java -h .
+
+g++ -g -shared -I/usr/lib/jvm/java-17-openjdk-arm64/include/ -I/usr/lib/jvm/java-17-openjdk-arm64/include/linux/ jni.cpp -o jni.so
 
 # 2024-5-12 0 | 0 W
 
