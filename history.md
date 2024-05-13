@@ -3,6 +3,75 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+arm instruction set machine code - Google 搜索
+https://www.google.com.hk/search?q=arm+instruction+set+machine+code&newwindow=1&client=ubuntu-sn&sca_esv=564deb1775a058e5&sca_upv=1&channel=fs&ei=EfBBZvb7I_fi2roP95eVgAk&ved=0ahUKEwi2yKGLuoqGAxV3sVYBHfdLBZAQ4dUDCBA&uact=5&oq=arm+instruction+set+machine+code&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGFybSBpbnN0cnVjdGlvbiBzZXQgbWFjaGluZSBjb2RlMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiLTFDWFFijS3ABeACQAQGYAaICoAHFJKoBBjAuMjIuNbgBA8gBAPgBAZgCG6ACjCPCAgsQABiABBiwAxiiBMICChAAGIAEGEMYigXCAgUQABiABMICCxAuGIAEGNEDGMcBwgIGEAAYHhgPwgIGEAAYCBgemAMAiAYBkAYEkgcGMS4yMi40oAfQWA&sclient=gws-wiz-serp
+
+Learn the architecture - Neon programmers' guide
+https://developer.arm.com/documentation/den0018/a/NEON-and-VFP-Instruction-Summary/List-of-all-NEON-and-VFP-instructions
+
+Learn the architecture - Neon programmers' guide
+https://developer.arm.com/documentation/den0018/a/NEON-and-VFP-Instruction-Summary/NEON-arithmetic-instructions/V-Q-ADD--VADDL--VADDW?lang=en
+
+Learn the architecture - Neon programmers' guide
+https://developer.arm.com/documentation/den0018/a/NEON-and-VFP-Instruction-Summary/NEON-shift-instructions/V-Q--R-SHL?lang=en
+
+dougallj github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=dougallj+github
+
+x86/x64 SIMD Instruction List (SSE to AVX512)
+https://www.officedaytime.com/simd512e/
+
+dougallj (Dougall Johnson)
+https://github.com/dougallj
+
+ARM Architecture Reference Manual ARMv7-A and ARMv7-R edition
+https://developer.arm.com/documentation/ddi0406/cb/Application-Level-Architecture/Instruction-Details/Alphabetical-list-of-instructions
+
+Instruction Set Assembly Guide for Armv7 and earlier Arm architectures Reference Guide
+https://developer.arm.com/documentation/100076/0200/preface/about-this-book
+
+Documentation – Arm Developer
+https://developer.arm.com/documentation/#numberOfResults=48&q=aarch64
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-03/?lang=en
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-03/SIMD-FP-Instructions/ADDHN--ADDHN2--Add-returning-High-Narrow-?lang=en
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+245897 – Support V128.const, load, store and extract_lane in BBQ only with O0 register allocation
+https://bugs.webkit.org/show_bug.cgi?id=245897
+
+rdar link - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=rdar+link
+
+2024 Web Engines Hackfest
+https://webengineshackfest.org/
+
+webassembly simd - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=webassembly+simd
+
+Contributors to WebAssembly/simd
+https://github.com/WebAssembly/simd/graphs/contributors?from=2021-06-01&to=2022-01-07&type=c
+
+Honry (Wanming Lin)
+https://github.com/Honry
+
+webmachinelearning/webnn: 🧠 Web Neural Network API
+https://github.com/webmachinelearning/webnn
+
+Web Neural Network API
+https://www.w3.org/TR/webnn/#usecase-text-generation
+
+WebAssembly SIMD - Chrome Platform Status
+https://chromestatus.com/feature/6533147810332672
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 gpu - What is difference between ANGLE and Skia Graphics Engine? - Stack Overflow
 https://stackoverflow.com/questions/68788568/what-is-difference-between-angle-and-skia-graphics-engine
 
