@@ -1,5 +1,7 @@
 # 2024-5-13 0 | 0 W
 
+git clone https://github.com/pgadmin-org/pgadmin4
+
 javac /home/user/Foobar.java -h /home/user/
 
 # 2024-5-12 0 | 0 W

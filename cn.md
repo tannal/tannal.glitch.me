@@ -1,5 +1,7 @@
 
 
+frontend opensource guy telegram https://blog.skk.moe/post/why-you-should-not-fetch-data-directly-in-use-effect/
+
 https://github.com/BentleyBlanks?tab=repositories
 
 computer security https://www.zhihu.com/people/xuanyuanzhifeng/posts

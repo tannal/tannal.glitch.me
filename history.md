@@ -3,6 +3,159 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+buildroot-slides.pdf
+https://bootlin.com/doc/training/buildroot/buildroot-slides.pdf
+
+Excalidraw
+http://draw.tanmeng.org/
+
+OpenGL ES 3.2 (May 5, 2022)
+https://registry.khronos.org/OpenGL/specs/es/3.2/es_spec_3.2.pdf?page=5
+
+MAY-UP - SLMath
+https://www.slmath.org/may-up/1134#application_process_may_up
+
+tannal (tannal)
+https://github.com/tannal
+
+(1) Discord | #clang-built-linux | LLVM
+https://discord.com/channels/636084430946959380/852068286602281010
+
+llvm-project/llvm/lib/TargetParser/Host.cpp at 3c20e25b0c51c67e35d028ba0d1d5f1dd5e206bb · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/3c20e25b0c51c67e35d028ba0d1d5f1dd5e206bb/llvm/lib/TargetParser/Host.cpp#L1792
+
+webkit base library wtf github - Google 搜索
+https://www.google.com.hk/search?q=webkit+base+library+wtf+github&newwindow=1&sca_esv=16520909ba533f16&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII5zymHMPNDlh-HAUMTb4gmjWnINw%3A1715559667869&ei=81xBZtvZNKLl2roP9IaTQA&ved=0ahUKEwibn-DkrYmGAxWislYBHXTDBAgQ4dUDCBA&uact=5&oq=webkit+base+library+wtf+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHndlYmtpdCBiYXNlIGxpYnJhcnkgd3RmIGdpdGh1YjIHECEYoAEYCkiOFVBnWIAUcAJ4AZABAJgBkAKgAZEPqgEGMC4xMC4xuAEDyAEA-AEBmAINoAK_D8ICChAAGLADGNYEGEfCAgUQIRigAZgDAIgGAZAGCpIHBjIuMTAuMaAH3Rc&sclient=gws-wiz-serp
+
+Apple's WebKit comes to GitHub : r/javascript
+https://www.reddit.com/r/javascript/comments/x6cy7l/apples_webkit_comes_to_github/
+
+clshortfuse github - Google 搜索
+https://www.google.com.hk/search?q=clshortfuse+github&rlz=1C1GCEA_enJP1090JP1090&oq=clshortfuse+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg80gEIMzA5M2owajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+crosire
+https://github.com/crosire
+
+Key Advances in the OpenGL Ecosystem | Hacker News
+https://news.ycombinator.com/item?id=8163249
+
+chrome jump page number pdf - Google 搜索
+https://www.google.com.hk/search?q=chrome+jump+page+number+pdf&newwindow=1&sca_esv=93371214c77afbba&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJmGo3Z5MIIqR4V8T3bZk3QPadUrg%3A1715559870850&ei=vl1BZqLAM4nM2roPgLu36AM&ved=0ahUKEwiil8XFromGAxUJplYBHYDdDT0Q4dUDCBA&uact=5&oq=chrome+jump+page+number+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2Nocm9tZSBqdW1wIHBhZ2UgbnVtYmVyIHBkZjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogRIyBtQhQNYyxpwAngBkAEAmAGvAqAB9hiqAQgwLjEyLjQuMbgBA8gBAPgBAZgCBqAClQbCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAggQABgHGAgYHpgDAIgGAZAGBJIHBTIuMi4yoAe8Jg&sclient=gws-wiz-serp
+
+open the pdf at page number chrome - Google 搜索
+https://www.google.com.hk/search?q=+open+the+pdf+at+page+number+chrome&newwindow=1&sca_esv=93371214c77afbba&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIyMY4haLBp5FFGZGTS_mdnSN3pXA%3A1715559936370&ei=AF5BZqieFsLe2roP1aWS-Aw&ved=0ahUKEwionuTkromGAxVCr1YBHdWSBM8Q4dUDCBA&uact=5&oq=+open+the+pdf+at+page+number+chrome&gs_lp=Egxnd3Mtd2l6LXNlcnAiIyBvcGVuIHRoZSBwZGYgYXQgcGFnZSBudW1iZXIgY2hyb21lMgcQIRigARgKMgcQIRigARgKSKYcUABYphtwAHgBkAEAmAGgAqABohSqAQYwLjE0LjG4AQPIAQD4AQGYAg6gApUTwgIIEAAYgAQYogTCAgUQIRigAZgDAJIHBjAuMTMuMaAHqyU&sclient=gws-wiz-serp
+
+postgresql gui github - Google 搜索
+https://www.google.com.hk/search?q=postgresql+gui+github&rlz=1C1GCEA_enJP1090JP1090&oq=postgresql+gui+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKAB0gEINjM4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+dhamaniasad/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+https://github.com/dhamaniasad/awesome-postgres?tab=readme-ov-file#gui
+
+pgAdmin - PostgreSQL Tools
+https://www.pgadmin.org/
+
+beekeeper-studio/beekeeper-studio: Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+https://github.com/beekeeper-studio/beekeeper-studio
+
+clshortfuse/node-getsockethandleaddress
+https://github.com/clshortfuse/node-getsockethandleaddress
+
+clshortfuse/materialdesignweb: Material Design for Web
+https://github.com/clshortfuse/materialdesignweb
+
+clshortfuse/materialdesignweb: Material Design for Web
+https://github.com/clshortfuse/materialdesignweb
+
+Perflink | JS Benchmarks
+https://perf.link/#eyJpZCI6Im82Ym1jbjVzaHM0IiwidGl0bGUiOiJSZXR1cm4gYXdhaXQgUHJvbWlzZSB2cyByZXR1cm4gUHJvbWlzZSIsImJlZm9yZSI6IiIsInRlc3RzIjpbeyJuYW1lIjoiVGVzdCBDYXNlIiwiY29kZSI6IiIsInJ1bnMiOlsxOTUwMDAwLDE5NTAwMDAsNTM5ODAwMCw2MTMwMDAsMTI3MDAwLDE1NzE5MDAwLDY4NDMwMDAsMzczNTAwMCwzMjEyMDAwLDE1MjE1MDAwLDgxMzMwMDAsMzM0MzAwMCw2NDMwMDAwLDEzNzQ4MDAwLDQzMjkwMDAsMTMzMDcwMDAsOTUzNDAwMCw5OTg5MDAwLDMyMzYwMDAsMzEzODAwMCw5ODk3MDAwLDE1OTM1MDAwLDEwMjM4MDAwLDU3OTAwMCwxOTY2MDAwLDQ3NzgwMDAsOTY4MDAwMCwxMDc2MDAwMCwxMjM5OTAwMCwxMzQzMDAwMCwxNDg3NTAwMCwzMzAyMDAwLDIyOTUwMDAsMTMxMzQwMDAsNDg5NzAwMCwzMDEyMDAwLDE5NTAwMDAsODQ3MDAwLDIyMDkwMDAsMTg0MzAwMCwzMDAwLDE5NTAwMDAsMzk2NjAwMCw4NjI3MDAwLDIwMjAwMDAsMTMxMjAwMCw0ODQ0MDAwLDgyNDIwMDAsNzc1NjAwMCwyMDIyMDAwMCwxNTUxNjAwMCwyMTI5NzAwMCw1NDg2MDAwLDE5NTAwMDAsMzIzNjAwMCwxNzEwMDAwLDI2NzgwMDAsMTk1MDAwMCw0NDE2MDAwLDE5MjUwMDAsNDY5MzAwMCwxMTkzMjAwMCw0MTE2MDAwLDc1NjIwMDAsNDYwMzAwMCw4Njg5MDAwLDU2NTQwMDAsNTIzNDAwMCwzNzE5MDAwLDEzODkwMDAsMjEyMDAwLDM2MTkwMDAsMTcyNjAwMCw5NzAxMDAwLDQwNjkwMDAsNjIxMzAwMCw2NjEzMDAwLDczMzYwMDAsMTg1MzAwMCw5NjY3MDAwLDE3MzQwMDAsMTk1MDAwMCw0Mjc4MDAwLDE5NTAwMDAsMjc4MzAwMCwxOTUwMDAwLDEwODAwMDAwLDE5NTAwMDAsMTk1MDAwMCwxODUzMDAwLDUyNjcwMDAsNjE4MDAwLDE5NTAwMDAsMjEwMDAsNDcwOTAwMCwxOTUwMDAwLDE5NTAwMDAsMTIxMzYwMDAsMTI5NTAwMDAsMjA2MTEwMDBdLCJvcHMiOjU4OTAzOTB9LHsibmFtZSI6IlRlc3QgQ2FzZSIsImNvZGUiOiJhd2FpdCAoYXN5bmMgKCkgPT4ge1xuIGF3YWl0IDA7XG4gcmV0dXJuIFByb21pc2UucmVzb2x2ZSg0Mik7XG59KSgpXG5nbG9iYWxUaGlzOyAvLyBEbyBzb21ldGhpbmcgYWZ0ZXIiLCJydW5zIjpbMjYxMDAwLDI5NzAwMCw2NTcwMDAsOTg1MDAwLDEwNTAwMDAsMTU4NTAwMCw3NTcwMDAsNTAwMDAwLDU3OTAwMCwxNTQyMDAwLDEwNzcwMDAsNTAyMDAwLDI0MDAwLDExNDUwMDAsNTI0MDAwLDkzODAwMCw2NjgwMDAsNjU3MDAwLDE5MDAwLDI2MDAwLDQ5MTAwMCwxMDY1MDAwLDczNDAwMCwxNzI4MDAwLDEyMjYwMDAsNTM4MDAwLDMwNjAwMCwxMDQzMDAwLDgwODAwMCwxMzU4MDAwLDY1MTAwMCw1MTkwMDAsMTE0OTAwMCwxMzg0MDAwLDExNzIwMDAsNjU3MDAwLDY1NzAwMCw2ODAwMCw2MzkwMDAsMTA4NTAwMCwxMzkzMDAwLDg4MDAwMCwzMzIwMDAsNjQwMDAwLDc4OTAwMCwyNzAwMCwzNzMwMDAsNzgwMDAwLDEyNjMwMDAsMTA2MzAwMCwxNTI3MDAwLDExMzQwMDAsNjU3MDAwLDczMDAwLDY1NzAwMCwxNTMzMDAwLDY1NzAwMCwxMDUwMDAwLDYyMjAwMCwxMjAwMCw2NTcwMDAsOTA1MDAwLDgyODAwMCw4NTQwMDAsNjIyMDAwLDc2NTAwMCw3MTYwMDAsNjAzMDAwLDU3MjAwMCw3ODMwMDAsODAwMCw2OTQwMDAsOTcxMDAwLDc3MjAwMCw2NTcwMDAsNjU3MDAwLDU2NjAwMCw2NTcwMDAsMzkwMDAsNDE2MDAwLDE4NzAwMCw5MDUwMDAsMjgxMDAwLDE5NzAwMCwzODAwMCw4ODIwMDAsOTQxMDAwLDEyNjAwMCwyMTMwMDAsMTk0MDAwLDQ2NzAwMCw2OTcwMDAsMjc2MDAwLDc2MTAwMCw2NTcwMDAsMzQwMDAwLDE0NTIwMDAsMTc1NTAwMCwxMzg1MDAwLDE0NzcwMDBdLCJvcHMiOjcyNTA2MH0seyJuYW1lIjoiVGVzdCBDYXNlIiwiY29kZSI6ImF3YWl0IChhc3luYyAoKSA9PiB7XG4gYXdhaXQgMDtcbiByZXR1cm4gYXdhaXQgUHJvbWlzZS5yZXNvbHZlKDQyKTtcbn0pKClcbmdsb2JhbFRoaXM7IC8vIERvIHNvbWV0aGluZyBhZnRlciIsInJ1bnMiOlszMzUwMDAsNjEyMDAwLDMxMTAwMCwxMDE3MDAwLDczNTAwMCw4ODcwMDAsMjA1MDAwLDQyNTAwMCwyOTAwMDAsNTk3MDAwLDkzMDAwMCw2NTgwMDAsNzk3MDAwLDUxNDAwMCwxMTAwMCw2MjMwMDAsNDA5MDAwLDU2OTAwMCw2ODEwMDAsMTU2MjAwMCwxNDAwMDAsMTM1MDAwLDYxMjAwMCw2MDYwMDAsNjEyMDAwLDYxNzAwMCwzMTgwMDAsOTA1MDAwLDMwNzAwMCwxMjI5MDAwLDE3NzAwMCw1MDEwMDAsNTE3MDAwLDc4MTAwMCw4OTgwMDAsMzczMDAwLDMxMjAwMCw2MTIwMDAsMzA3MDAwLDU4NDAwMCw5MjEwMDAsMTIwMTAwMCwzODYwMDAsNTM5MDAwLDkyNDAwMCw1MjMwMDAsNTYwMDAsNDAwMCwxMTcwMDAwLDEwMDUwMDAsNzg5MDAwLDY1NjAwMCwxMzYyMDAwLDc5NTAwMCwxNTYwMDAsNjMyMDAwLDIzODAwMCwyMzAwMCwzMTcwMDAsMTEzMTAwMCw2MTIwMDAsNjEyMDAwLDE0MjAwMCw2MTIwMDAsMzMyMDAwLDcwMzAwMCw1NzYwMDAsNTIzMDAwLDQwNzAwMCw2MTIwMDAsODAwMCw2MzUwMDAsNzQ4MDAwLDU3NDAwMCw1NjAwMDAsNjEyMDAwLDkwMDAwLDUxNzAwMCw2MjgwMDAsMzE4MDAwLDE3NTAwMCw2ODEwMDAsMzU3MDAwLDU2MTAwMCwzNDgwMDAsODA3MDAwLDU5MjAwMCwxNTMwMDAsNjU1MDAwLDY3MzAwMCw2ODUwMDAsMzg0MDAwLDE0ODAwMCw1NDkwMDAsNDQ5MDAwLDExMzgwMDAsMTA0ODAwMCwxNDI5MDAwLDY5ODAwMCwxMTUxMDAwXSwib3BzIjo1ODA0MTB9XSwidXBkYXRlZCI6IjIwMjQtMDUtMTNUMDE6MDM6MDkuOTc3WiJ9
+
+return-await-is-slow - Replit
+https://replit.com/@isukkaw/return-await-is-slow
+
+hexo/.github at master · hexojs/hexo
+https://github.com/hexojs/hexo/tree/master/.github
+
+为什么你不应该在 React 中直接使用 useEffect 从 API 获取数据 | Sukka's Blog
+https://blog.skk.moe/post/why-you-should-not-fetch-data-directly-in-use-effect/
+
+2023 年了，你为什么还不用 SWR ？ · Issue #50 · campcc/blog
+https://github.com/campcc/blog/issues/50
+
+next.js/packages/next-swc at canary · vercel/next.js
+https://github.com/vercel/next.js/tree/canary/packages/next-swc
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+open source hardware - Google 搜索
+https://www.google.com.hk/search?q=open+source+hardware&rlz=1C1GCEA_enJP1090JP1090&oq=open+source+hardw&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4MzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Open-source hardware - Wikipedia
+https://en.wikipedia.org/wiki/Open-source_hardware
+
+LowRISC - Google 搜索
+https://www.google.com.hk/search?q=LowRISC&rlz=1C1GCEA_enJP1090JP1090&oq=LowRISC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+lowRISC CIC - Career Page
+https://lowrisc.applytojob.com/
+
+赛昉科技 - Google 搜索
+https://www.google.com.hk/search?q=%E8%B5%9B%E6%98%89%E7%A7%91%E6%8A%80&newwindow=1&sca_esv=9eb05f6e21efd95c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIGOqR4NxB02imDXX_i_AqCP4OAHw%3A1715565758010&ei=vnRBZq4h8-Xaug-LwaTADg&oq=%E5%A1%9E%E9%98%B2%E7%A7%91%E6%8A%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOWhnumYsuenkeaKgCoCCAEyChAAGLADGNYEGEcyChAAGLADGNYEGEdIlA9QAFgAcAJ4AZABAJgBAKABAKoBALgBA8gBAJgCAqACDZgDAIgGAZAGApIHATKgBwA&sclient=gws-wiz-serp#ip=1
+
+赛昉活动
+https://www.starfivetech.com/site/activity
+
+社招职位
+https://careersite.tupu360.com/starfivetech/position/index?recruitmentType=SOCIALRECRUITMENT
+
+社招职位
+https://careersite.tupu360.com/starfivetech/position/detail?positionId=649e84295b04a606a25d7f79&recruitmentType=SOCIALRECRUITMENT&currentLang=zh_CN
+
+press key in js - Google 搜索
+https://www.google.com.hk/search?q=press+key+in+js&rlz=1C1GCEA_enJP1090JP1090&oq=press+key+in+js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIJCAQQABgTGIAEMgkIBRAAGBMYgAQyCQgGEAAYExiABDIJCAcQABgTGIAEMgkICBAAGBMYgAQyCQgJEAAYExiABNIBCDI2NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+javascript - Is it possible to simulate key press events programmatically? - Stack Overflow
+https://stackoverflow.com/questions/596481/is-it-possible-to-simulate-key-press-events-programmatically
+
+missing-field-initializers warning not reporting missing designated initializers · Issue #56628 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/56628
+
+allen I holub - Google 搜索
+https://www.google.com.hk/search?q=allen+I+holub&rlz=1C1GCEA_enJP1090JP1090&oq=allen+I+holub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgYIBhBFGDzSAQgzNDc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+training-materials/slides at master · bootlin/training-materials
+https://github.com/bootlin/training-materials/tree/master/slides
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+你有 6 条未读消息 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFWCssbHQLCpQwTFmclsQTDt
+
+getting-started (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU667RQP7
+
+typst/comemo: Incremental computation through constrained memoization.
+https://github.com/typst/comemo/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+pgadmin github - Google 搜索
+https://www.google.com.hk/search?q=pgadmin+github&rlz=1C1GCEA_enJP1090JP1090&oq=pgadmin+github&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMgoIBhAAGIAEGKIEMgYIBxBFGDzSAQgxMjU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+pgadmin-org/pgadmin4: pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
+https://github.com/pgadmin-org/pgadmin4
+
+tannal (tannal)
+https://github.com/tannal
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Repositories
 https://github.com/orgs/cashapp/repositories
 
