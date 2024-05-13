@@ -1,5 +1,182 @@
 # 2024-5-13
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Embedded Linux, kernel, drivers, Yocto, Buildroot and graphics training
+https://bootlin.com/training/
+
+embedded-linux-slides.pdf
+https://bootlin.com/doc/training/embedded-linux/embedded-linux-slides.pdf
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+(1) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1235504805380751400
+
+“⪯” U+2AAF Precedes Above Single-Line Equals Sign Unicode Character
+https://www.compart.com/en/unicode/U+2AAF
+
+Introduction - Just Programmer's Manual
+https://just.systems/man/en/chapter_1.html
+
+Issues · typst/typst
+https://github.com/typst/typst/issues
+
+Table guide – Typst Documentation
+https://typst.app/docs/guides/table-guide/
+
+#general > ANGLE on Mac OS - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ANGLE.20on.20Mac.20OS
+
+webgpu: Use WGPU poller thread for poll_all_devices by sagudev · Pull Request #32266 · servo/servo
+https://github.com/servo/servo/pull/32266
+
+windows clang msvc - Google 搜索
+https://www.google.com.hk/search?q=windows+clang+msvc&rlz=1C1GCEA_enJP1090JP1090&oq=windows+clang+msvc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEIMzg2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+build redis on windows github - Google 搜索
+https://www.google.com.hk/search?q=build+redis+on+windows+github&newwindow=1&sca_esv=9ff24e19fce44e89&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIILnAbiaepuyTIn0NtCZxBpFAHEnA%3A1715575327393&ei=H5pBZozRF5eo2roPwtyYkAU&ved=0ahUKEwjM3OWP6ImGAxUXlFYBHUIuBlIQ4dUDCBA&uact=5&oq=build+redis+on+windows+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWJ1aWxkIHJlZGlzIG9uIHdpbmRvd3MgZ2l0aHViMgcQIRigARgKSN4IUDtY5QdwAXgBkAEAmAGmAaABlweqAQMwLja4AQPIAQD4AQGYAgegAq0HwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcDMS42oAfLDw&sclient=gws-wiz-serp#ip=1
+
+tporadowski/redis: Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+https://github.com/tporadowski/redis
+
+garnet github - Google 搜索
+https://www.google.com.hk/search?q=garnet+github&rlz=1C1GCEA_enJP1090JP1090&oq=garnet+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIGCAcQRRg80gEIMjUzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+microsoft/garnet: Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+https://github.com/microsoft/garnet
+
+Emoji advance is not right in PDF · Issue #4117 · typst/typst
+https://github.com/typst/typst/issues/4117
+
+vim goto file - Google 搜索
+https://www.google.com.hk/search?q=vim+goto+file&rlz=1C1GCEA_enJP1090JP1090&oq=vim+goto+file&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDYwNzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Vim: Simple "jump to file" command? - Stack Overflow
+https://stackoverflow.com/questions/3464195/vim-simple-jump-to-file-command
+
+Myriad-Dreamin/tinymist: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+https://github.com/Myriad-Dreamin/tinymist/
+
+Excalidraw
+http://draw.tanmeng.org/
+
+toxiproxy github - Google 搜索
+https://www.google.com.hk/search?q=toxiproxy+github&rlz=1C1GCEA_enJP1090JP1090&oq=toxiproxy&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzk2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Shopify/draggable: The JavaScript Drag & Drop library your grandparents warned you about.
+https://github.com/Shopify/draggable
+
+windows run linux executable - Google 搜索
+https://www.google.com.hk/search?q=windows+run+linux+executable&rlz=1C1GCEA_enJP1090JP1090&oq=windows+run+linux&gs_lcrp=EgZjaHJvbWUqBggFEAAYHjIJCAAQRRg5GIAEMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIICAkQABgKGB7SAQg1OTMzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How do I make Windows run Linux executables? - Super User
+https://superuser.com/questions/1361051/how-do-i-make-windows-run-linux-executables
+
+FSCloud
+https://web.fscloud.cc/#/ticket
+
+gjs - Google 搜索
+https://www.google.com.hk/search?q=gjs&rlz=1C1GCEA_enJP1090JP1090&oq=gjs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQLhiABDIHCAkQABiABNIBBzgyMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+议题 · GNOME / gjs · GitLab
+https://gitlab.gnome.org/GNOME/gjs/-/issues/?label_name%5B%5D=4.%20Help%20Wanted
+
+Element * | GNOME JavaScript
+https://app.element.io/#/room/#javascript:gnome.org
+
+build python from source - Google 搜索
+https://www.google.com.hk/search?q=build+python+from+source&rlz=1C1GCEA_enJP1090JP1090&oq=build+cpython+from+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIICAYQABgNGB4yCggHEAAYCBgNGB4yCggIEAAYCBgNGB4yCggJEAAYCBgNGB7SAQg0MDg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Setup and building
+https://devguide.python.org/getting-started/setup-building/
+
+java-design-patterns/mvnw at master · iluwatar/java-design-patterns
+https://github.com/iluwatar/java-design-patterns/blob/master/mvnw
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jdk/src/java.base/share/native/include/jni.h at d517d2df451e135583083ed3684d7d3241b36f76 · openjdk/jdk
+https://github.com/openjdk/jdk/blob/d517d2df451e135583083ed3684d7d3241b36f76/src/java.base/share/native/include/jni.h#L4
+
+java library path environment variable - Google 搜索
+https://www.google.com.hk/search?q=java+library+path+environment+variable&rlz=1C1GCEA_enJP1090JP1090&oq=ava+library+path&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCDUyOTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+FusionReactor - Google 网上论坛
+https://groups.google.com/g/fusionreactor
+
+Add to java.library.path JVM argument - Google 搜索
+https://www.google.com.hk/search?q=Add+to+java.library.path+JVM+argument&rlz=1C1GCEA_enJP1090JP1090&oq=Add+to+java.library.path+JVM+argument&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+jvm - Java VM Options: Set a -Djava.library.path relative to project folder - Stack Overflow
+https://stackoverflow.com/questions/27755034/java-vm-options-set-a-djava-library-path-relative-to-project-folder
+
+mac address get ip - Google 搜索
+https://www.google.com.hk/search?q=mac+address+get+ip&newwindow=1&sca_esv=ac096cdb2ad9c657&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILpMBhHSBMG0zlOK12bFuayyKsLDg%3A1715587830115&ei=9spBZsfTBtzR1e8Pja63sAw&ved=0ahUKEwjHpsfZloqGAxXcaPUHHQ3XDcYQ4dUDCBA&uact=5&oq=mac+address+get+ip&gs_lp=Egxnd3Mtd2l6LXNlcnAiEm1hYyBhZGRyZXNzIGdldCBpcDIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAUYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5IiTRQAFj7MXAAeAGQAQCYAbQBoAHRFaoBBDAuMTi4AQPIAQD4AQGYAhKgAo8WwgIKECMYgAQYJxiKBcICChAuGIAEGEMYigXCAgoQABiABBhDGIoFwgILEC4YgAQY0QMYxwHCAgoQLhiABBgnGIoFwgIEECMYJ8ICEBAuGIAEGNEDGEMYxwEYigXCAhcQLhiABBiKBRiXBRjcBBjeBBjgBNgBAcICDBAjGIAEGBMYJxiKBcICBxAAGIAEGAzCAggQABiABBjLAcICCBAuGIAEGMsBwgIKEAAYgAQYChjLAcICBhAAGB4YD8ICBBAAGB7CAggQABiABBiiBJgDALoGBggBEAEYFJIHBDAuMTigB_pZ&sclient=gws-wiz-serp#ip=1
+
+networking - Get IP Address from Mac Address - Stack Overflow
+https://stackoverflow.com/questions/20336129/get-ip-address-from-mac-address
+
+PostgreSQL supported platforms over time | Peter Eisentraut
+https://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time
+
+Postgres research group ucb - Google 搜索
+https://www.google.com.hk/search?q=Postgres+research+group+ucb&newwindow=1&sca_esv=ac096cdb2ad9c657&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKNc29XflPzDc2Vcv-g1KAsX0SV-A%3A1715588642753&ei=Is5BZoe8Leek2roP8uyz4AE&ved=0ahUKEwiH1YbdmYqGAxVnklYBHXL2DBwQ4dUDCBA&uact=5&oq=Postgres+research+group+ucb&gs_lp=Egxnd3Mtd2l6LXNlcnAiG1Bvc3RncmVzIHJlc2VhcmNoIGdyb3VwIHVjYjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkjgflCxb1jofHACeAGQAQCYAe0BoAGjBqoBBTAuMi4yuAEDyAEA-AEBmAIGoAK2BsICChAAGLADGNYEGEfCAgUQIRigAZgDAIgGAZAGCpIHBTIuMi4yoAf8DA&sclient=gws-wiz-serp
+
+RISELab at UC Berkeley - REAL-TIME INTELLIGENT SECURE EXECUTION
+https://rise.cs.berkeley.edu/
+
+ucbrise github - Google 搜索
+https://www.google.com.hk/search?q=ucbrise+github&rlz=1C1GCEA_enJP1090JP1090&oq=ucbrise+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg8MgYIBxBFGDzSAQgxNzk4ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+AI-Sys Sp22
+https://ucbrise.github.io/cs294-ai-sys-sp22/
+
+Principles of Computer System Design pdf - Google 搜索
+https://www.google.com.hk/search?q=Principles+of+Computer+System+Design+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=Principles+of+Computer+System+Design+pdf&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQLhiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHtIBCDEwMzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+computer-system-design-NQOII.pdf
+https://docdrop.org/static/drop-pdf/computer-system-design-NQOII.pdf
+
+Not Found
+https://docdrop.org/static/drop-pdf/
+
+tannalwork/java-workspace 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/java-workspace
+
+git add hidden folder - Google 搜索
+https://www.google.com.hk/search?q=git+add+hidden+folder&rlz=1C1GCEA_enJP1090JP1090&oq=git+add+hi&gs_lcrp=EgZjaHJvbWUqBggDEAAYHjIGCAAQRRg5MgcIARAAGIAEMgcIAhAAGIAEMgYIAxAAGB4yBggEEAAYHjIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQ4MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+the missing second kernel live lock - Google 搜索
+https://www.google.com.hk/search?q=the+missing+second+kernel+live+lock&rlz=1C1GCEA_enJP1090JP1090&oq=the+missing+second+kernel+live+lock&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE0MTI1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Add `CITATION.cff` file (#4109) · typst/typst@32a84e5
+https://github.com/typst/typst/commit/32a84e5127e025bd5cc6aefde6b5c15d7882f90a
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+压测命令 - Google 搜索
+https://www.google.com.hk/search?q=%E5%8E%8B%E6%B5%8B%E5%91%BD%E4%BB%A4&newwindow=1&sca_esv=6875faee4ba80aec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKxmzdTZ7TxUK7200ngPP5wd6cKoA%3A1715599278891&ei=rvdBZumFNo_P2roPlN-c0Ao&ved=0ahUKEwjplOGswYqGAxWPp1YBHZQvB6oQ4dUDCBA&uact=5&oq=%E5%8E%8B%E6%B5%8B%E5%91%BD%E4%BB%A4&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOWOi-a1i-WRveS7pDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBUiyHVCUCFi3HHABeAGQAQCYAcABoAGPDaoBBDAuMTC4AQPIAQD4AQGYAgugArINwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgsQLhiABBjRAxjHAcICBRAAGIAEwgIKEAAYgAQYQxiKBcICChAuGIAEGEMYigXCAggQABgEGAUYHsICBhAAGAUYHpgDAIgGAZAGCpIHBDEuMTCgB9Ek&sclient=gws-wiz-serp
+
+Linux命令之ab（压力测试命令） - 苦逼运维 - 博客园
+https://www.cnblogs.com/diantong/p/11205897.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
