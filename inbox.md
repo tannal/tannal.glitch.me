@@ -1,5 +1,10 @@
 # 2024-5-14 0 | 0 W
 
+sudo apt-get update
+
+sudo apt-get install -y grpc++ protobuf-compiler pkg-config
+
+
 
 mort96
 
