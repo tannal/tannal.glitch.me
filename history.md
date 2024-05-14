@@ -1,5 +1,173 @@
 # 2024-5-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(6) #checkins - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins
+
+Office Hours 2024-05-16 - Google 文档
+https://docs.google.com/document/d/1rvAjQfHeaZYUsG0dmxEbAnCLobU6XzfODU-ivfaqIAI/edit
+
+| Homepage for the Linebender organization
+https://linebender.org/
+
+linebender/2d.graphics: Repo for an ideational book on 2D graphics, plus tools to make images
+https://github.com/linebender/2d.graphics
+
+Introduction | Principles of 2D Graphics
+https://2d.graphics/book/intro.html
+
+Computação Gráfica 2D
+https://w3.impa.br/~diego/teaching/vg/
+
+2D Computer Graphics
+https://w3.impa.br/~diego/teaching/vg/slides-1.pdf
+
+Delft - Google 搜索
+https://www.google.com.hk/search?q=Delft&rlz=1C1GCEA_enJP1090JP1090&oq=Delft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+代尔夫特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BB%A3%E5%B0%94%E5%A4%AB%E7%89%B9
+
+代尔夫特理工大学 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BB%A3%E5%B0%94%E5%A4%AB%E7%89%B9%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6
+
+(19) #general > Moving from wasmtime 18 to 19 - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Moving.20from.20wasmtime.2018.20to.2019
+
+Academics & Publications
+https://cfallin.org/academics/
+
+cfallin-cv-apr2024.pdf
+https://cfallin.org/cfallin-cv-apr2024.pdf
+
+JAF Labs
+https://github.com/JAFLabs
+
+Avril Lavigne - Google 搜索
+https://www.google.com.hk/search?q=Avril+Lavigne&newwindow=1&sca_esv=8ffd5b3fe64f0225&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJVX0oI4HVrDgZSlZQLBO3L9FbweQ%3A1715605674011&ei=qhBCZqAqnN_V7w_T87_4Ag&ved=0ahUKEwigp5iW2YqGAxWcb_UHHdP5Dy8Q4dUDCBA&uact=5&oq=Avril+Lavigne&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUF2cmlsIExhdmlnbmVIngFQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp#ip=1
+
+艾薇儿·拉维尼 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%89%BE%E8%96%87%E5%85%92%C2%B7%E6%8B%89%E7%B6%AD%E5%B0%BC#%E5%80%8B%E4%BA%BA%E6%83%85%E6%84%9F%E5%85%B3%E7%B3%BB
+
+iron man 4 - Google 搜索
+https://www.google.com.hk/search?q=iron+man+4&rlz=1C1GCEA_enJP1090JP1090&oq=iron+man+4&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIwNzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Coldplay - Viva La Vida (Live In São Paulo) - YouTube
+https://www.youtube.com/watch?v=-ZvsGmYKhcU
+
+Diego Nehab - Google 搜索
+https://www.google.com.hk/search?q=Diego+Nehab&rlz=1C1GCEA_enJP1090JP1090&oq=Diego+Nehab&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBBzI0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+gdbgui/screenshots at master · cs01/gdbgui
+https://github.com/cs01/gdbgui/tree/master/screenshots
+
+Profile: dkwr | Hacker News
+https://news.ycombinator.com/user?id=dkwr
+
+Wasm Component Model By Example - Blog | dkwr.de
+https://blog.dkwr.de/development/wasm-component-model-example/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wac%20&sort=byPopularity&type=story
+
+V4n1
+https://wac.colostate.edu/llad/v4n1/jamison.pdf
+
+grassel (grassel) / Repositories
+https://github.com/grassel?tab=repositories
+
+Hermann Wey - Google 搜索
+https://www.google.com.hk/search?q=Hermann+Wey&rlz=1C1GCEA_enJP1090JP1090&oq=Hermann+Wey&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHtIBCDE5NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+赫尔曼·外尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%A4%96%E5%B0%94
+
+赫尔曼·外尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%A4%96%E5%B0%94
+
+迈克尔·阿蒂亚 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E9%98%BF%E8%92%82%E4%BA%9A#cite_note-7
+
+数学谱系计划 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8%E8%AD%9C%E7%B3%BB%E8%A8%88%E7%95%AB
+
+Raum, Zeit, Materie - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=4771c1dce5b9df5f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII6YB8Dv5mS7bjnXioSj_pgrHla9A:1715611115002&q=Raum,+Zeit,+Materie+%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%A4%96%E5%B0%94%E7%9A%84%E4%B9%A6%E7%B1%8D&si=ACC90nwet1eSy3BcbbysqB4SsCuPQntNcJ_HJTyRHPZE3pim1fdTw_ip5eww2OaeE2jjsWX2HDRgUeZslFFQcY0BYAgyTlRWDnBv2KsDDmrE9Z9Ceu56N4HG78eX-lFoIbW8FQ-7uTPYBhPUyCw9TULQeN0mecOsficLHdyvJJNW481HWlta70_6-GWL5kKfJC3VvaV9pG0RZlzJqjzmk-ldXCIQ9UCXI-NI3NEzYRiJDHUnKWJlgjHxdfTHhuXVa_KnENojbI1c3CoXSHCOWCKSAlP-DkCbtjvaplogSZ_fHuxu_yJX87K-EkR3X5zgo9cQswWB8qssAeShbEWOYHqveGiKIm2Dmg%3D%3D&sa=X&ved=2ahUKEwi7hdS47YqGAxXXr1YBHUFODlkQ6RN6BAhDEAE&biw=1536&bih=703&dpr=1.25#ip=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+fonts: Add color emoji support for FreeType by mrobinson · Pull Request #32278 · servo/servo
+https://github.com/servo/servo/pull/32278/files
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+wasmtime/cranelift/codegen/src/dominator_tree.rs at 7313a979260868daf92065e077dbeb4b172d6443 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/7313a979260868daf92065e077dbeb4b172d6443/cranelift/codegen/src/dominator_tree.rs#L221
+
+dominator tree - Google 搜索
+https://www.google.com.hk/search?q=dominator+tree&rlz=1C1GCEA_enJP1090JP1090&oq=dominator+tree&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxBFGD3SAQc0ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Dominator (graph theory) - Wikipedia
+https://en.wikipedia.org/wiki/Dominator_(graph_theory)#cite_note-2
+
+Dominator Tree [Tutorial] - Codeforces
+https://codeforces.com/blog/entry/22811
+
+a fast algorithm for finding.pdf
+https://www.cs.princeton.edu/courses/archive/fall03/cs528/handouts/a%20fast%20algorithm%20for%20finding.pdf
+
+Please help me debug this code... - Codeforces
+https://codeforces.com/blog/entry/15362
+
+Algorithm Tutorials – by Tanuj Khattar
+https://tanujkhattar.wordpress.com/
+
+Problem - G - Codeforces
+https://codeforces.com/contest/757/problem/G
+
+ProgrammingContests/OldStuff/SPOJ/new4/bia.cpp at master · mukel/ProgrammingContests
+https://github.com/mukel/ProgrammingContests/blob/master/OldStuff/SPOJ/new4/bia.cpp
+
+mukel (Alfonso² Peterssen)
+https://github.com/mukel
+
+dominator.pdf
+https://www.dropbox.com/s/2ubl00x2zzkojsr/dominator.pdf?e=1&dl=0
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Dominator%20tree&sort=byPopularity&type=story
+
+Tech Notes: The dominator tree of a dependency graph
+https://neugierig.org/software/blog/2023/07/dominator.html
+
+github.com tanujkhattar - Google 搜索
+https://www.google.com.hk/search?q=github.com+tanujkhattar&rlz=1C1GCEA_enJP1090JP1090&oq=github.com+tanujkhattar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPNIBCDE0MjVqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+tanujkhattar (Tanuj Khattar)
+https://github.com/tanujkhattar
+
+Robert E. Jamison - Google 搜索
+https://www.google.com.hk/search?q=Robert+E.+Jamison&rlz=1C1GCEA_enJP1090JP1090&oq=Robert+E.+Jamison&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/traffic
+
+kd tree - Google 搜索
+https://www.google.com.hk/search?q=kd+tree&rlz=1C1GCEA_enJP1090JP1090&oq=kd+tree&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDILCAQQABgKGAwYgAQyCwgFEAAYChgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgsICRAAGAoYDBiABNIBCDExNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+k-d tree - Wikipedia
+https://en.wikipedia.org/wiki/K-d_tree
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
