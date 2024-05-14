@@ -1,5 +1,203 @@
 # 2024-5-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+https://github.com/BurntSushi/ripgrep
+
+Google Summer-of-Code 2024 - Ian Rogers
+https://lore.kernel.org/linux-perf-users/CAP-5=fWALQGhqNqh+hsEDZ9p1O3uS=0T4_hqx-fz_VNQF96Zzg@mail.gmail.com/?fbclid=IwAR08py1eKs-Y8sD4FZ8yttrTmoyyan-Bv3zordYfB-VoPIPqtupRkoaCjAY
+
+C++ Insights
+https://cppinsights.io/
+
+sea of nodes - Google 搜索
+https://www.google.com/search?q=sea+of+nodes&rlz=1C1GCEA_enJP1090JP1090&oq=sea+of+nodes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQLhiABDIHCAUQLhiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDIGCAkQRRhA0gEIMzEwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=sea%20of%20nodes&sort=byPopularity&type=story
+
+Sea of Nodes
+https://darksi.de/d.sea-of-nodes/
+
+Coffee Compiler Club, 2024_04_19 - YouTube
+https://www.youtube.com/watch?v=fqeRHZPO_B4
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Coffee%20Compiler%20&sort=byPopularity&type=story
+
+C compiler quirks I have encountered - Mort's Ramblings
+https://mort.coffee/home/c-compiler-quirks/
+
+Hacking on Clang is surprisingly easy | Hacker News
+https://news.ycombinator.com/item?id=22158462
+
+icecc/icecream: Distributed compiler with a central scheduler to share build load
+https://github.com/icecc/icecream
+
+mozilla/sccache: Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.
+https://github.com/mozilla/sccache
+
+Stanford Systems and Networking Research
+https://github.com/StanfordSNR
+
+distcc: a fast, free distributed C/C++ compiler
+https://www.distcc.org/
+
+Hacking on clang
+https://clang.llvm.org/hacking.html#debugging
+
+Profile: mort96 | Hacker News
+https://news.ycombinator.com/user?id=mort96
+
+Hacking on Clang is surprisingly easy - Mort's Ramblings
+https://mort.coffee/home/clang-compiler-hacking/
+
+Supermacros: powerful, maintainable preprocessor macros in C++
+https://wanderinghorse.net/computing/papers/supermacros_cpp.html
+
+Hacking on Clang is surprisingly easy - Mort's Ramblings
+https://mort.coffee/home/clang-compiler-hacking/
+
+grpcpp-echo-sample/Makefile at main · mortie/grpcpp-echo-sample
+https://github.com/mortie/grpcpp-echo-sample/blob/main/Makefile
+
+FSCloud
+https://web.fscloud.cc/#/ticket
+
+Ian Rogers
+https://sites.google.com/site/rogersemail/home
+
+JikesRVM/JikesRVM: Jikes RVM (Research Virtual Machine)
+https://github.com/JikesRVM/JikesRVM
+
+Research Groups: APT - Advanced Processor Technologies (School of Computer Science - The University of Manchester)
+http://apt.cs.manchester.ac.uk/
+
+Compilers
+https://www.reddit.com/r/Compilers/
+
+partitioning pitfalls for generational collectors — wingolog
+https://wingolog.org/archives/2024/05/13/partitioning-pitfalls-for-generational-collectors
+
+v8's mark-sweep nursery — wingolog
+https://wingolog.org/archives/2023/12/08/v8s-mark-sweep-nursery
+
+test-regexp.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/test/cctest/test-regexp.cc;l=84?q=majorgc
+
+ExternalPointerTable young generation support [40643874] - Chromium
+https://issues.chromium.org/issues/40643874#comment9
+
+heap.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/heap/heap.h;l=764-822
+
+The V8 Sandbox · V8
+https://v8.dev/blog/sandbox
+
+V8 Sandbox - High-Level Design Doc - Google 文档
+https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit#heading=h.xzptrog8pyxf
+
+Google Online Security Blog: A Spectre proof-of-concept for a Spectre-proof web
+https://security.googleblog.com/2021/03/a-spectre-proof-of-concept-for-spectre.html
+
+Spectre
+https://leaky.page/spectre.html
+
+Contributors to google/security-research-pocs
+https://github.com/google/security-research-pocs/graphs/contributors
+
+globals.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/common/globals.h;l=581-588
+
+build_config.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/base/build_config.h;l=60-77.
+
+guolindev/booksource: 《第一行代码 第2版》全书源代码
+https://github.com/guolindev/booksource
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Using Barrier Elision to Improve Transactional Code Generation | ACM Transactions on Architecture and Code Optimization
+https://dl.acm.org/doi/10.1145/3533318
+
+Using Barrier Elision to Improve Transactional Code Generation
+https://dl.acm.org/doi/pdf/10.1145/3533318
+
+Guido Araujo – Homepage
+https://guidoaraujo.wordpress.com/
+
+MC921 1s23 Compiler Construction – IC-UNICAMP
+https://akluz.wordpress.com/mc921-1s23-compiler-construction/
+
+gcc compile error · Issue #2640 · falcosecurity/falco
+https://github.com/falcosecurity/falco/issues/2640
+
+内存管理概览  |  App quality  |  Android Developers
+https://developer.android.com/topic/performance/memory-overview?hl=zh-cn
+
+beyonce principle - Google 搜索
+https://www.google.com/search?q=beyonce+principle&rlz=1C1GCEA_enJP1090JP1090&oq=beyonce+principle&gs_lcrp=EgZjaHJvbWUyCwgAEEUYExg5GIAEMgkIARAAGBMYgAQyCAgCEAAYExgeMggIAxAAGBMYHjIICAQQABgTGB4yCAgFEAAYExgeMggIBhAAGBMYHjIICAcQABgTGB4yCAgIEAAYExgeMggICRAAGBMYHtIBCTEwNDQ4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+verygoodgraphics/vgg_runtime: The official implementation of VGG Specs with cross-platform rendering and scripting capabilities.
+https://github.com/verygoodgraphics/vgg_runtime
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=design%20as%20code&sort=byPopularity&type=story
+
+jug talk jvm internals - Google 搜索
+https://www.google.com/search?q=jug+talk+jvm+internals&rlz=1C1GCEA_enJP1090JP1090&oq=jug+talk+jvm+internals&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDI4NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Learn about JVM internals - what does the JVM do? - YouTube
+https://www.youtube.com/watch?v=UwB0OSmkOtQ
+
+Ian Rogers - YouTube
+https://www.youtube.com/@ianrogers7074
+
+oskardudycz/event-driven.io: https://event-driven.io/ - Resources about Event-Driven Architectures, Event Sourcing and pragmatic development
+https://github.com/oskardudycz/event-driven.io
+
+Ian Rogers github - Google 搜索
+https://www.google.com/search?q=Ian+Rogers+github&rlz=1C1GCEA_enJP1090JP1090&oq=Ian+Rogers+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAuGIAEMgcIBBAAGIAEMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDEzMjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=PUNCTUATOR&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tsc%20to%20go&sort=byPopularity&type=story
+
+일본 한달살이 16일차 (5월 13일)
+https://kdy1.dev/2024-5-13
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%20nursery&op=translate
+
+Repositories
+https://github.com/orgs/chromium/repositories?type=all
+
+Prim's MST in C++
+https://chatgpt.com/c/8fcec2ee-7e0f-41d4-b292-ea35e1f2c1c3
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+wting/autojump: A cd command that learns - easily navigate directories from the command line
+https://github.com/wting/autojump
+
 llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
