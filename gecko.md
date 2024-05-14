@@ -359,6 +359,8 @@ firefox use mercurial instead of git for versioning control.
 
 # community
 
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
 https://chat.mozilla.org/#/room/#introduction:mozilla.org
 
 https://codetribute.mozilla.org/projects/devtools
