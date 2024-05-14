@@ -1,5 +1,12 @@
 # 2024-5-14 0 | 0 W
 
+
+mort96
+
+https://mort.coffee/home/clang-compiler-hacking/
+
+LLVM_PARALLEL_LINK_JOBS
+
 https://github.com/cksystemsgroup
 
 https://github.com/tanujkhattar

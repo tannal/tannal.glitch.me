@@ -2,6 +2,8 @@
 
 # inbox
 
+LLVM clang hacking lambda experssion 
+
 GUI development https://news.ycombinator.com/threads?id=grumblingdev
 
 game dev c++ https://news.ycombinator.com/from?site=vittorioromeo.info
