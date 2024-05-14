@@ -3,6 +3,147 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+from:"mstarzinger"
+https://www.mail-archive.com/search?l=v8-dev@googlegroups.com&q=from:%22mstarzinger%22
+
+Heap Allocation changes causing DCHECKs in heap snapshotting · Issue #282 · nodejs/node-v8
+https://github.com/nodejs/node-v8/issues/282
+
+…/heap-snapshot-generator.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5531355/1/src/profiler/heap-snapshot-generator.cc
+
+heap snapshot - Google 搜索
+https://www.google.com.hk/search?q=heap+snapshot&rlz=1C1GCEA_enJP1090JP1090&oq=heap+snap&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg80gEIMjQyMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Speeding up V8 heap snapshots · V8
+https://v8.dev/blog/speeding-up-v8-heap-snapshots
+
+…/flag-definitions.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4428810/2/src/flags/flag-definitions.h#b1334
+
+nodejs.org
+https://nodejs.org/en/learn/getting-started/nodejs-with-webassembly
+
+MathVista: Evaluating Math Reasoning in Visual Contexts
+https://mathvista.github.io/
+
+gpt4o - Google 搜索
+https://www.google.com.hk/search?q=gpt4o&newwindow=1&sca_esv=4b05976ec6fa0ef5&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJuVdwCuHG-GIXTwy7N8UxIJ00uMA%3A1715648435459&ei=s7dCZt_KG6Pv2roP5-yumAY&ved=0ahUKEwif8Le8-IuGAxWjt1YBHWe2C2MQ4dUDCBA&uact=5&oq=gpt4o&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWdwdDRvMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKMgcQABiABBgKSKEfUOEVWIgdcAJ4AZABAJgB1AGgAb4GqgEFMC40LjG4AQPIAQD4AQGYAgegAuMGwgIKEAAYsAMY1gQYR8ICBBAjGCfCAgwQIxiABBgTGCcYigXCAgwQABiABBhDGIoFGArCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAZgDAIgGAZAGCZIHBTIuNC4xoAezGg&sclient=gws-wiz-serp
+
+Hello GPT-4o | OpenAI
+https://openai.com/index/hello-gpt-4o/
+
+WASM SIMD256 - Google 搜索
+https://www.google.com.hk/search?q=WASM+SIMD256&rlz=1C1GCEA_enJP1090JP1090&oq=WASM+SIMD256&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+machine-operator.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/compiler/machine-operator.h;l=651;bpv=1;bpt=0;drc=b4fe6a29d3aea2fc5cce96e8b8a79a2508da953e;dlc=289eca9a7f14c50e1f3d14cd02f80977cdde7551
+
+how will simd256 in V8 be used
+https://groups.google.com/g/v8-users/c/hgEX16c34TA
+
+v8:12716 · Gerrit Code Review
+https://chromium-review.googlesource.com/q/v8:12716
+
+[revec][wasm][turboshaft] Implement operations force packing (5485585) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5485585
+
+disassembler - Android Code Search
+https://cs.android.com/android/platform/superproject/main/+/main:art/disassembler/
+
+ControlPoints - Google 搜索
+https://www.google.com.hk/search?q=ControlPoints&rlz=1C1GCEA_enJP1090JP1090&oq=ControlPoints&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+aosp vs chromium codesize - Google 搜索
+https://www.google.com.hk/search?q=aosp+vs+chromium+codesize&newwindow=1&sca_esv=ca37d0d638fdd5cb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILwOL2NqdDogD8cLPaSUUSqlENSLw%3A1715650789718&ei=5cBCZpy-K5eo2roPwtyYkAU&ved=0ahUKEwjcxISfgYyGAxUXlFYBHUIuBlIQ4dUDCBA&uact=5&oq=aosp+vs+chromium+codesize&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWFvc3AgdnMgY2hyb21pdW0gY29kZXNpemUyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj1ClBKWOwJcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACCZgDAIgGAZAGBZIHATGgBwA&sclient=gws-wiz-serp
+
+The Architecture of Open Source Applications
+https://aosabook.org/en/
+
+500 Lines or LessBlockcode: A Visual Programming Toolkit
+https://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html
+
+GPUI
+https://www.gpui.rs/
+
+OpenAI
+https://openai.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=chris%20latter&sort=byPopularity&type=story
+
+Chris Lattner's Homepage
+https://nondot.org/sabre/
+
+2002.11054
+https://arxiv.org/pdf/2002.11054
+
+Chris Lattner's Resumé
+https://nondot.org/sabre/Resume.html#Apple
+
+Get started with Mojo🔥 | Modular Docs
+https://docs.modular.com/mojo/manual/get-started/
+
+Contributors to llvm/llvm-project
+https://github.com/llvm/llvm-project/graphs/contributors?from=2020-05-13&to=2024-05-14&type=c
+
+Computational Systems Group
+https://github.com/cksystemsgroup
+
+The Rust Reference
+https://doc.rust-lang.org/stable/reference/print.html
+
+RISC-V Machine Outliner should reach parity with other platforms · Issue #89822 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/89822
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1895391 - Remove widget.non-native-theme.solid-outline-style pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895391
+
+⚙ D210122 WIP: Bug 1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://phabricator.services.mozilla.com/D210122#change-PkdYU0duuMhE
+
+Complete Intro to Docker and Containers | Frontend Masters
+https://frontendmasters.com/courses/complete-intro-containers/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=language%20law&sort=byPopularity&type=story
+
+CatalaLang/catala: Programming language for literate programming law specification
+https://github.com/CatalaLang/catala
+
+Linkers and Loaders
+http://www.staroceans.org/e-book/LinkersAndLoaders.pdf
+
+openai-cookbook/examples/gpt4o/introduction_to_gpt4o.ipynb at main · openai/openai-cookbook
+https://github.com/openai/openai-cookbook/blob/main/examples/gpt4o/introduction_to_gpt4o.ipynb
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+diesel - Google 搜索
+https://www.google.com/search?q=diesel&rlz=1C1GCEA_enJP1090JP1090&oq=diesel&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYyQMYgAQyDQgAEAAY4wIYyQMYgAQyEAgBEC4YxwEYyQMY0QMYgAQyDQgCEAAYkgMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Ask HN: Is Deno Worth Learning? | Hacker News
+https://news.ycombinator.com/item?id=26847101
+
+An Introduction to Deno: Is It Better than Node.js? | AppSignal Blog
+https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (6) #checkins - Linebender - Rust UI - Zulip
 https://xi.zulipchat.com/#narrow/stream/197474-checkins
 
