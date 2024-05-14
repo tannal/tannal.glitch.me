@@ -1,5 +1,9 @@
 # inbox
 
+./build/bin/clang++ ~/tannalwork/cans/lambda.cc -o lambda
+
+clang/lib/Lex/Lexer.cpp
+
 GEP get element pointer
 InstCombiner
 

@@ -1,5 +1,59 @@
 # 2024-5-13
 
+llvm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D210122 Bug 1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://phabricator.services.mozilla.com/D210122
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-submit-a-patch
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+⚙ D210122 Bug 1895530 - Remove security.allow_disjointed_external_uri_loads pref
+https://phabricator.services.mozilla.com/D210122
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1895391 - Remove widget.non-native-theme.solid-outline-style pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895391
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/729361e481cf63c8d2b5617a6ff589f53e302520/modules/libpref/init/StaticPrefList.yaml#16234-16238
+
+Theme.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/729361e481cf63c8d2b5617a6ff589f53e302520/widget/Theme.cpp#1355,1415-1417,1492
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Blue background
+https://codepen.io/juliemoynat/pen/PoRYWoN
+
+Theme.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/729361e481cf63c8d2b5617a6ff589f53e302520/widget/Theme.cpp#1355,1415-1417,1492
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/729361e481cf63c8d2b5617a6ff589f53e302520/modules/libpref/init/StaticPrefList.yaml#16234-16238
+
+focus outline css - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=focus+outline++css
+
+:focus-visible styles apply when 'a11y-disable-focusoutline' enabled · Issue #280 · adaptlearning/adapt-contrib-media
+https://github.com/adaptlearning/adapt-contrib-media/issues/280
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Hacking on Clang is surprisingly easy - Mort's Ramblings
+https://mort.coffee/home/clang-compiler-hacking/
+
+clang options
+https://gist.github.com/masuidrive/5231110
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

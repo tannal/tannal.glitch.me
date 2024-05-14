@@ -1,5 +1,16 @@
 # dev
 
+Bug 1895391 - Remove widget.non-native-theme.solid-outline-style pref
+
+./mach lint --fix
+./mach build
+
+https://codepen.io/juliemoynat/pen/PoRYWoN
+
+hg pull central --rebase
+
+hg pull --rebase
+
 moz-phab submit --no-wip
 
 ./mach clobber
