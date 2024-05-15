@@ -1,13 +1,8 @@
 
-# people
-
-involves:sunfishcode
-involves:alexcrichton
 
 # inbox
 
-Hi @jameysharp, I'd like to pick this up.
-
+isle-analyzer
 
 
 # dev
@@ -26,6 +21,8 @@ git submodule update --init .
 cargo build
 cargo install --path .
 ```
+
+# people
 
 involves:alexcrichton
 involves:fitzgen

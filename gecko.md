@@ -1,5 +1,10 @@
 # dev
 
+./mach static-analysis check --outgoing
+
+Bug 1892347 - Remove nsIDOMWindowUtils.isPartOfOpaqueLayer r?gregp
+
+
 Bug 1895391 - Remove widget.non-native-theme.solid-outline-style pref
 
 ./mach lint --fix
