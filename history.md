@@ -3,6 +3,57 @@
 wasmtime.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-03/SIMD-FP-Instructions/FNMADD--Floating-point-Negated-fused-Multiply-Add--scalar--
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-03/SIMD-FP-Instructions/FMADD--Floating-point-fused-Multiply-Add--scalar--
+
+CI - Wasmtime
+https://docs.wasmtime.dev/contributing-ci.html
+
+Contributors to bytecodealliance/wasm-micro-runtime
+https://github.com/bytecodealliance/wasm-micro-runtime/graphs/contributors?from=2021-03-28&to=2024-05-15&type=c
+
+wasmtime/cranelift/codegen/src/isa/aarch64/lower.isle at e6f9ca5efa0c4bf59c9cf133d9abeaab63ec07bb · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/e6f9ca5efa0c4bf59c9cf133d9abeaab63ec07bb/cranelift/codegen/src/isa/aarch64/lower.isle#L516-L517
+
+Search results - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/search/fnmadd
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cranelift&sort=byPopularity&type=story
+
+Cranelift code generation comes to Rust [LWN.net]
+https://lwn.net/Articles/964735/
+
+Bytecode Alliance — February 2024 Community Stream
+https://bytecodealliance.org/articles/february-stream
+
+Minor documentation updates to docs/WASI-tutorial.md by JiaT75 · Pull Request #6839 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/6839
+
+A New Backend for Cranelift, Part 1: Instruction Selection - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/
+
+aarch64: Add more lowerings for the CLIF `fma` by alexcrichton · Pull Request #6150 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/6150/files
+
+"duplicate export name" check is O(n^2) · Issue #3407 · bytecodealliance/wasm-micro-runtime
+https://github.com/bytecodealliance/wasm-micro-runtime/issues/3407
+
+MergeFunction can't merge functions because of jump tables · Issue #92201 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/92201
+
+wasmtime.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
 https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-submit-a-patch
 

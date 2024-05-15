@@ -1,5 +1,11 @@
 # 2024-5-15 0 | 0 W
 
+git clone https://github.com/bytecodealliance/wasm-micro-runtime.git
+
+aarch64-linux-gnu-as -o fmadd.o fmadd.s
+aarch64-linux-gnu-ld -o fmadd fmadd.o -lc
+
+
 How could you know that the idea/implementation decades ago still useful/best today?
 We need to constantly reinvent the wheels.
 
