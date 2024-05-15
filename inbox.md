@@ -4,8 +4,6 @@ sudo apt-get update
 
 sudo apt-get install -y grpc++ protobuf-compiler pkg-config
 
-
-
 mort96
 
 https://mort.coffee/home/clang-compiler-hacking/
