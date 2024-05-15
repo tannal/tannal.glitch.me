@@ -1,5 +1,122 @@
 # 2024-5-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Schedule
+https://futurefrontend.com/schedule/
+
+RMQ task (Range Minimum Query - the smallest element in an interval) - Algorithms for Competitive Programming
+https://cp-algorithms.com/sequences/rmq.html
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Issue search results
+https://github.com/search?q=org%3Atypst%20involves%3Atannal&type=issues
+
+Typst: Compose papers faster
+https://typst.app/
+
+(2) Discord | #forge | Typst
+https://discord.com/channels/1054443721975922748/1175885362065834105/threads/1182377294682128445
+
+Combining grid/table rows and columns · Issue #131 · typst/typst
+https://github.com/typst/typst/issues/131
+
+Strings and paths should be separate types · Issue #971 · typst/typst
+https://github.com/typst/typst/issues/971
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Miscellaneous&op=translate
+
+学年总结：优秀进取
+https://chatgpt.com/c/851b6da9-9315-4cfa-bcfb-318a9eec5a02
+
+SegFault, page table, os memory management · Issue #25 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/25
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#general > ✏️ TSC Meeting Minutes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.8F.EF.B8.8F.20TSC.20Meeting.20Minutes
+
+Servo TSC Meeting May 2024 · Issue #88 · servo/project
+https://github.com/servo/project/issues/88
+
+Repositories
+https://github.com/orgs/typst/repositories
+
+Yankee Maharjan
+https://yankee.dev/
+
+Code search results
+https://github.com/search?q=meial+slug&type=code&p=5
+
+Almost Secure
+https://palant.info/
+
+SNK - Google 搜索
+https://www.google.com/search?q=SNK&rlz=1C1GCEA_enJP1090JP1090&oq=SNK&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMg0IARAuGMcBGNEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgoIBhAuGNQCGIAEMgoIBxAuGNQCGIAEMgoICBAuGNQCGIAEMgcICRAuGIAE0gEHMjU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+SNK破产 - Google 搜索
+https://www.google.com/search?q=SNK%E7%A0%B4%E4%BA%A7&rlz=1C1GCEA_enJP1090JP1090&oq=SNK%E7%A0%B4%E4%BA%A7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+拳皇系列 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%8B%B3%E7%9A%87%E7%B3%BB%E5%88%97
+
+三七互娱 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1
+
+the king of fighters github - Google 搜索
+https://www.google.com/search?q=the+king+of+fighters+github&sca_esv=fbc659ff7db8699b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIdF1C3tPFQjtMUhSPmmw6pNWDsBQ%3A1715770341488&ei=5ZNEZoS5Haao1e8P9LuT4Aw&ved=0ahUKEwjEv-HNvo-GAxUmVPUHHfTdBMwQ4dUDCBA&uact=5&oq=the+king+of+fighters+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3RoZSBraW5nIG9mIGZpZ2h0ZXJzIGdpdGh1YjIHECEYoAEYCjIHECEYoAEYCkjKCFAAWNMHcAB4AZABAJgB2AKgAaEMqgEHMC40LjIuMbgBA8gBAPgBAZgCB6ACuQzCAggQLhiABBjLAcICCBAAGIAEGMsBwgILEC4YgAQY1AIYywHCAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwC6BgYIARABGBSSBwcwLjMuMy4xoAeWRQ&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=the+king+of+fighters&type=repositories&s=updated&o=desc&p=3
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+error: File name too long (os error 63) · Issue #23821 · denoland/deno
+https://github.com/denoland/deno/issues/23821
+
+(9 封私信 / 80 条消息) 波士顿圆脸什么来历？ - 知乎
+https://www.zhihu.com/question/444676819
+
+多伦多方脸 - Google 搜索
+https://www.google.com/search?q=%E5%A4%9A%E4%BC%A6%E5%A4%9A%E6%96%B9%E8%84%B8&sca_esv=50a3c251fb54b13c&rlz=1C1GCEA_enJP1090JP1090&tbm=isch&prmd=vinsbmtz&sxsrf=ADLYWIIOXrEKkB0i3I2I6Uxr4DDYUNNnFA:1715772407045&source=lnms&sa=X&ved=2ahUKEwjtgNmmxo-GAxXYs1YBHdH3CVYQ0pQJegQIAxAG&biw=1536&bih=703&dpr=1.25
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+The problem with new URL(), and how URL.parse() fixes that | Kilian Valkhof
+https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/
+
+Polypane, The browser for ambitious web developers
+https://polypane.app/
+
 wasmtime.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
