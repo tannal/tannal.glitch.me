@@ -1,5 +1,8 @@
 # 2024-5-15 0 | 0 W
 
+How could you know that the idea/implementation decades ago still useful/best today?
+We need to constantly reinvent the wheels.
+
 pnpm install chart.js
 
 

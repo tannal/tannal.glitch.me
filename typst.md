@@ -1,5 +1,16 @@
 
 
+# inbox
+
+
+
+
+# setup
+
+git clone https://github.com/typst/typst.git
+
+cargo build
+
 # awesome typst
 
 

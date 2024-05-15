@@ -1,5 +1,152 @@
 # 2024-5-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+SeaOfNodes
+https://github.com/SeaOfNodes
+
+react-quill/src/index.tsx at master · zenoamaro/react-quill
+https://github.com/zenoamaro/react-quill/blob/master/src/index.tsx
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=sea%20of%20nodes&sort=byPopularity&type=story
+
+Sea of Nodes
+https://darksi.de/d.sea-of-nodes/
+
+How to start JIT-ting
+https://darksi.de/4.how-to-start-jitting/
+
+js-js/jit.js: JIT Assembler in javascript
+https://github.com/js-js/jit.js
+
+Issues · nodejs/admin
+https://github.com/nodejs/admin/issues
+
+indutny (Fedor Indutny)
+https://github.com/indutny
+
+orogene/orogene: Makes `node_modules/` happen. Fast. No fuss.
+https://github.com/orogene/orogene?tab=readme-ov-file
+
+orogene
+https://orogene.dev/BENCHMARKS/
+
+Deoptimize me not, v8
+https://darksi.de/a.deoptimize-me-not/
+
+jeremiah-senkpiel.com
+https://www.jeremiah-senkpiel.com/
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits?author=Fishrock123
+
+doc: improve example docs/code/progress/main.c · Issue #4386 · libuv/libuv
+https://github.com/libuv/libuv/issues/4386
+
+Binary plugin using libevent stalls node event loop · nodejs · Discussion #43882
+https://github.com/orgs/nodejs/discussions/43882
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Prim's MST in C++
+https://chatgpt.com/c/8fcec2ee-7e0f-41d4-b292-ea35e1f2c1c3
+
+craigsapp (Craig Stuart Sapp)
+https://github.com/craigsapp?tab=repositories
+
+Packard Humanities Institute
+https://packhum.org/stoa.html
+
+thestk/rtmidi: A set of C++ classes that provide a common API for realtime MIDI input/output across Linux (ALSA & JACK), Macintosh OS X (CoreMIDI) and Windows (Multimedia)
+https://github.com/thestk/rtmidi
+
+ScoopInstaller/Scoop: A command-line installer for Windows.
+https://github.com/ScoopInstaller/Scoop
+
+mozilla/sccache: Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.
+https://github.com/mozilla/sccache
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=sccache&sort=byPopularity&type=story
+
+ScoopInstaller/Scoop: A command-line installer for Windows.
+https://github.com/ScoopInstaller/Scoop
+
+(2) Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360/1240081714219581481
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Enter-tainer/typst-preview: Typst preview extension for VSCode
+https://github.com/Enter-tainer/typst-preview
+
+Search — Typst: Universe
+https://typst.app/universe/search?kind=templates
+
+kyju.org
+https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=typst&sort=byPopularity&type=story
+
+Typst: A Programmable Markup Language for Typesetting [pdf] | Hacker News
+https://news.ycombinator.com/item?id=34423590
+
+programmable-markup-language-for-typesetting - Google 搜索
+https://www.google.com/search?q=programmable-markup-language-for-typesetting&rlz=1C1GCEA_enJP1090JP1090&oq=programmable-markup-language-for-typesetting&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPTIGCAMQRRg80gEHMjEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+thunderbird is gecko? - Google 搜索
+https://www.google.com/search?q=thunderbird+is+gecko%3F&rlz=1C1GCEA_enJP1090JP1090&oq=thunderbird+is+gecko%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDc2MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Frozen State | Laurenz's Blog
+https://laurmaedje.github.io/posts/frozen-state/
+
+#checkins > Aaron Muir Hamilton - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Aaron.20Muir.20Hamilton
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · nektos/act
+https://github.com/nektos/act/issues
+
+Integration with external tools · Issue #1056 · typst/typst
+https://github.com/typst/typst/issues/1056
+
+Math – Typst Documentation
+https://typst.app/docs/reference/math/
+
+Build-Your-Own Position | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/generic_position#application
+
+Code search results
+https://github.com/search?q=igalia+%22ce%22+%22coding+experience%22&type=code&p=2
+
+Fantasy9527/alili.tech: WEB BANG! BANG!! BANG!!!
+https://github.com/Fantasy9527/alili.tech
+
+About Me | 前端大爆炸! - WEB BANG! BANG!! BANG!!!
+https://alili.tech/about/
+
+mairacanal/mairacanal.github.io: My personal blog with professional info and posts about the Linux Kernel
+https://github.com/mairacanal/mairacanal.github.io
+
+should you use auto save - Google 搜索
+https://www.google.com/search?q=should+you+use+auto+save&rlz=1C1GCEA_enJP1090JP1090&oq=should+you+use+auto+save&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQxNDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

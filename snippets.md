@@ -1,3 +1,55 @@
+# vscode user settings
+
+
+
+user
+```
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "dart.flutterSdkPath": "C:\\Users\\tannal\\Downloads\\flutter_windows_3.16.5-stable\\flutter",
+    "remote.SSH.remotePlatform": {
+        "4090": "linux",
+        "13700kf": "linux",
+        "raspi5": "linux",
+        "tc": "linux",
+        "10.68.136.132": "linux",
+        "10.68.136.134": "linux"
+    },
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:/Users/tannal/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-windows"
+    },
+    "C_Cpp.default.compilerPath": "cl.exe",
+    "http.proxySupport": "on",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "gitlens.ai.experimental.provider": "openai",
+    "gitlens.ai.experimental.openai.model": "gpt-4-1106-preview",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
+```
+
+
 # swap file
 
 sudo fallocate -l 4G /swapfile
