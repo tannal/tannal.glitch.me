@@ -1,5 +1,8 @@
 # 2024-5-15 0 | 0 W
 
+pnpm install chart.js
+
+
 wasm bytecodealliance
 Wasmtime, Wasmer, WAMR, and Wasmi
 OCamlPro/owi

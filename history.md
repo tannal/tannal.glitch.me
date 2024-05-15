@@ -1,5 +1,146 @@
 # 2024-5-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+18-746 Storage Systems (Fall 2023): Syllabus
+https://course.ece.cmu.edu/~ece746/schedule.html
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+grumblingdev's comments | Hacker News
+https://news.ycombinator.com/threads?id=grumblingdev
+
+gdk/gdkpaintable.c · main · GNOME / gtk · GitLab
+https://gitlab.gnome.org/GNOME/gtk/-/blob/main/gdk/gdkpaintable.c
+
+browserengineering/book: Web browser engineering (a book)
+https://github.com/browserengineering/book
+
+Laying Out Pages | Web Browser Engineering
+https://browser.engineering/layout.html
+
+Hacking on Clang is surprisingly easy - Mort's Ramblings
+https://mort.coffee/home/clang-compiler-hacking/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jobs-remote（频道） - Gophers - Slack
+https://app.slack.com/client/T029RQSE6/CCAF5HZN3
+
+hacking on clang - Google 搜索
+https://www.google.com.hk/search?q=hacking+on+clang&rlz=1C1GCEA_enJP1090JP1090&oq=hacking+on+clang&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQRRg8MgYIAxBFGDzSAQgyMjEyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Hacking on Clang is surprisingly easy | Hacker News
+https://news.ycombinator.com/item?id=22158462
+
+Hacking on CLang for Steam4Intermediate
+https://gist.github.com/azuisleet/938494
+
+botondballo (u/botondballo) - Reddit
+https://www.reddit.com/user/botondballo/submitted/
+
+1458653 - Two short flings can be faster on Fennec than Chrome
+https://bugzilla.mozilla.org/show_bug.cgi?id=1458653
+
+Threadripper 价格 - Google 搜索
+https://www.google.com.hk/search?q=Threadripper+%E4%BB%B7%E6%A0%BC&newwindow=1&sca_esv=15340b82b342d518&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKA6M6CzbNLV6GIn2wCPP1eZP5UZA%3A1715732856960&ei=eAFEZsCROuPM2roPwrau-Ak&ved=0ahUKEwjArd_7so6GAxVjplYBHUKbC58Q4dUDCBA&uact=5&oq=Threadripper+%E4%BB%B7%E6%A0%BC&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RocmVhZHJpcHBlciDku7fmoLwyCBAAGAUYDBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI9yFQtRBYriBwAXgBkAEAmAH8AaAB0gmqAQUwLjYuMbgBA8gBAPgBAZgCCKAC9AnCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAgYQABgIGB7CAgUQIRigAZgDAIgGAZAGCZIHBTEuNi4xoAeREA&sclient=gws-wiz-serp
+
+(22) #general > value encoding and wasm-wave - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/value.20encoding.20and.20wasm-wave
+
+wasmtime/cranelift/codegen/src/isa/riscv64/abi.rs at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/codegen/src/isa/riscv64/abi.rs
+
+riscv64: Add `fmsub`/`fnmsub`/`fnmadd` instruction lowerings by afonso360 · Pull Request #8588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8588/files#diff-71f76b959f76a059be91a2910853bd785ebf1dba4982d6d6f9a730687147b05b
+
+Cross Compiling - Wasmtime
+https://docs.wasmtime.dev/contributing-cross-compiling.html
+
+wasmerio/wasmer: 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+https://github.com/wasmerio/wasmer
+
+OCamlPro/owi: WebAssembly Swissknife
+https://github.com/OCamlPro/owi
+
+How to build a new feature for the web platform — and make it a success with developers · Issue #24 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/24
+
+bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/bytecodealliance/wasm-micro-runtime
+
+Wasmi - Google 搜索
+https://www.google.com.hk/search?q=Wasmi&rlz=1C1GCEA_enJP1090JP1090&oq=Wasmi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+why naming matters in software - Google 搜索
+https://www.google.com.hk/search?q=why+naming+matters+in+softwrae&newwindow=1&sca_esv=15340b82b342d518&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILXprJCKKLAsURvGmEp3gwC_-9t_g%3A1715734596767&ei=RAhEZp24LtbL1e8P2tm7wAg&ved=0ahUKEwid6qy5uY6GAxXWZfUHHdrsDogQ4dUDCBA&uact=5&oq=why+naming+matters+in+softwrae&gs_lp=Egxnd3Mtd2l6LXNlcnAiHndoeSBuYW1pbmcgbWF0dGVycyBpbiBzb2Z0d3JhZTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkjHH1DEAViZHXACeAGQAQGYAcMEoAG-FqoBCTAuNy41LjUtMbgBA8gBAPgBAZgCDqACqBLCAgoQABiwAxjWBBhHwgIFECEYoAGYAwCIBgGQBgqSBwUyLjcuNaAH2S8&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=naming%20matters&sort=byPopularity&type=story
+
+Prim's MST in C++
+https://chatgpt.com/c/8fcec2ee-7e0f-41d4-b292-ea35e1f2c1c3
+
+Repository search results
+https://github.com/search?q=Cairo+language%3AC%2B%2B&type=repositories&l=C%2B%2B&s=updated&o=desc
+
+Dor-sketch/Snakes_ladders: Snakes and Ladders game implamented C++ using cairo and GTK.
+https://github.com/Dor-sketch/Snakes_ladders
+
+The GTK Project - A free and open-source cross-platform widget toolkit
+https://www.gtk.org/docs/architecture/index
+
+GNOME · GitLab
+https://gitlab.gnome.org/GNOME/
+
+CSS Images Module Level 4
+https://www.w3.org/TR/css-images-4/#paint-source
+
+tabatkins/dotfiles: My initial dotfiles for new comps, forked off of Matthias's
+https://github.com/tabatkins/dotfiles
+
+Recipe Book
+https://xanthir.com/recipes/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+2530. 执行 K 次操作后的最大分数 - 力扣（LeetCode）
+https://leetcode.cn/problems/maximal-score-after-applying-k-operations/description/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cmu%2018&sort=byPopularity&type=story
+
+CMU-ECE-CS-Guide/electives/18847.md at master · CMU-HKN/CMU-ECE-CS-Guide
+https://github.com/CMU-HKN/CMU-ECE-CS-Guide/blob/master/electives/18847.md
+
+18-847B-F23/README.md at main · STAR-Research/18-847B-F23
+https://github.com/STAR-Research/18-847B-F23/blob/main/README.md
+
+THE WAVELET TUTORIAL
+https://web.iitd.ac.in/~sumeet/WaveletTutorial.pdf
+
+matrixcookbook.pdf
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
+Home page of Henry Wolkowicz; Professor of Mathematics in the Department of Combinatorics and Optimization
+https://www.math.uwaterloo.ca/~hwolkowi/
+
+Excalidraw
+http://draw.tanmeng.org/
+
+how to wrap a js library to react component - Google 搜索
+https://www.google.com/search?q=how+to+wrap+a+js+library+to+react+component&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+wrap+a+js+library+to+react+component&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigAdIBCDc5ODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Wrapping third party JS libraries in ReactJS - Stack Overflow
+https://stackoverflow.com/questions/51149418/wrapping-third-party-js-libraries-in-reactjs
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
