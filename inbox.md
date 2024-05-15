@@ -1,3 +1,7 @@
+# 2024-5-15 0 | 0 W
+
+wasm typst y-crdt
+
 # 2024-5-14 0 | 0 W
 
 sudo apt-get update
