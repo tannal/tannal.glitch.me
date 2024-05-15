@@ -1,5 +1,59 @@
 # 2024-5-15
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Hacking on Clang is surprisingly easy - Mort's Ramblings
+https://mort.coffee/home/clang-compiler-hacking/
+
+Components for Thunderbird
+https://bugzilla.mozilla.org/describecomponents.cgi?product=Thunderbird
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-submit-a-patch
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1892347 - Remove nsIDOMWindowUtils.isPartOfOpaqueLayer()
+https://bugzilla.mozilla.org/show_bug.cgi?id=1892347
+
+nsDOMWindowUtils.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/47db1be98f8069b387ce07dcbea22d09f1854515/dom/base/nsDOMWindowUtils.cpp#3321-3333
+
+nsDOMWindowUtils.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/47db1be98f8069b387ce07dcbea22d09f1854515/dom/base/nsDOMWindowUtils.cpp#3321-3333
+
+#checkins - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Mozilla: A git workflow for Gecko development · glandium/git-cinnabar Wiki
+https://github.com/glandium/git-cinnabar/wiki/Mozilla:-A-git-workflow-for-Gecko-development
+
+git-cinnabar/README.md at release · glandium/git-cinnabar
+https://github.com/glandium/git-cinnabar/blob/release/README.md#setup
+
+glandium/git-cinnabar: git remote helper to interact with mercurial repositories
+https://github.com/glandium/git-cinnabar/tree/master
+
+Parley rust - Google 搜索
+https://www.google.com.hk/search?q=Parley+rust&newwindow=1&client=ubuntu-sn&hs=MdI&sca_esv=991ca55629cb7d36&sca_upv=1&channel=fs&ei=QXpDZriHF5vM2roPrKiUsAU&ved=0ahUKEwj4q-CBso2GAxUbplYBHSwUBVYQ4dUDCBA&uact=5&oq=Parley+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1BhcmxleSBydXN0MgkQABiABBgTGAoyBxAAGIAEGBMyBhAAGBMYHjIIEAAYgAQYogQyCBAAGIAEGKIESKMQUJgKWM0PcAF4AZABAJgBvgGgAbIFqgEDMC40uAEDyAEA-AEBmAIFoALOBcICChAAGLADGNYEGEfCAgUQABiABMICBxAAGIAEGArCAgsQLhiABBjRAxjHAcICDBAAGIAEGEMYigUYCsICBBAAGB7CAgYQABgKGB6YAwCIBgGQBgeSBwMxLjSgB_0M&sclient=gws-wiz-serp
+
+parley/src/layout/cursor.rs at main · linebender/parley
+https://github.com/linebender/parley/blob/main/src/layout/cursor.rs
+
+Window.mozInnerScreenX - Web API | MDN
+https://developer.mozilla.org/ja/docs/Web/API/Window/mozInnerScreenX
+
+CHAPTER 1 What Is XPCOM?
+https://www-archive.mozilla.org/projects/xpcom/book/cxc/html/quicktour2
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

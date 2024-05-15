@@ -65,6 +65,17 @@ sudo perf script > ./graph/out.firefoxgpustacks01
 
 # setup
 
+cargo install --git https://github.com/glandium/git-cinnabar
+git cinnabar setup
+
+
+git clone hg::https://hg.mozilla.org/mozilla-unified gecko && cd gecko
+git config fetch.prune true
+git cinnabar fetch --tags
+
+mv .git/hooks/fsmonitor-watchman.sample .git/hooks/query-watchman
+git config core.fsmonitor .git/hooks/query-watchman
+
 ```bash
 
 sudo apt-get install curl python3 python3-pip

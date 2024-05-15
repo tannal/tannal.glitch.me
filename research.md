@@ -1,5 +1,8 @@
 
 
+hg commit --amend
+
+
 # ai
 
 In this paper, we propose an ai algorithm.
