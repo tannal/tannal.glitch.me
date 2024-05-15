@@ -2,7 +2,6 @@
 
 # inbox
 
-isle-analyzer
 
 
 # dev
@@ -14,6 +13,9 @@ isle-analyzer
 https://bytecodealliance.zulipchat.com/#narrow/stream/352111-warg
 
 # setup
+
+cargo install --git  https://github.com/yuyang-ok/isle-analyzer isle-analyzer
+isle-analyzer
 
 ```
 git clone https://github.com/bytecodealliance/wasmtime.git

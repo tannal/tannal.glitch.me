@@ -1,5 +1,68 @@
 # 2024-5-15
 
+wasmtime.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-submit-a-patch
+
+Getting reviews — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/reviews.html#getting-reviews
+
+(2) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+⚙ D210426 Bug 1892347 - Remove nsIDOMWindowUtils.isPartOfOpaqueLayer r?gregp
+https://phabricator.services.mozilla.com/D210426
+
+⚙ D122930 Bug 1726291 - Remove FrameLayerBuilder. r?miko
+https://phabricator.services.mozilla.com/D122930
+
+User Profile: Gregory Pappas [:gregp] <gregp@tutanota.de>
+https://bugzilla.mozilla.org/user_profile?user_id=685138
+
+⚙ D210276 Bug 1895391 - Remove widget.non-native-theme.solid-outline-style pref
+https://phabricator.services.mozilla.com/D210276
+
+tannal/wasmtime - wasmtime - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/wasmtime
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+aomedia Git repositories - Git at Google
+https://aomedia.googlesource.com/?format=HTML
+
+aarch64: Add support for `fnmadd`/`fmsub`/`fnmsub` · Issue #8603 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8603
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-03/SIMD-FP-Instructions/FNMADD--Floating-point-Negated-fused-Multiply-Add--scalar--
+
+wasmtime/cranelift/codegen/src/isa/aarch64/lower.isle at e6f9ca5efa0c4bf59c9cf133d9abeaab63ec07bb · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/e6f9ca5efa0c4bf59c9cf133d9abeaab63ec07bb/cranelift/codegen/src/isa/aarch64/lower.isle#L516-L517
+
+riscv64: Add `fmsub`/`fnmsub`/`fnmadd` instruction lowerings by afonso360 · Pull Request #8588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8588/files
+
+Add support for binary/octal literals to ISLE by alexcrichton · Pull Request #6234 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/6234/files
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+serde-cpp/serde-cpp: Serialization framework for C++, inspired on serde-rs for Rust.
+https://github.com/serde-cpp/serde-cpp
+
+How to commit a change in git when git commit opens Nano? - Stack Overflow
+https://stackoverflow.com/questions/50920506/how-to-commit-a-change-in-git-when-git-commit-opens-nano
+
+wasmtime/cranelift/isle at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle
+
+yuyang-ok/isle-analyzer
+https://github.com/yuyang-ok/isle-analyzer
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
