@@ -94,6 +94,19 @@ RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
 
 # people
 
+spidermonkey
+involves:ptomato
+involves:moztcampbell
+involves:hotsphink
+involves:xry111
+involves:arai-a
+involves:yurydelendik
+involves:mgaudet
+involves:tynopex
+involves:evilpie
+involves:jandem
+involves:sagudev
+
 involves:ehsan
 involves:gregorypappas
 involves:emilio

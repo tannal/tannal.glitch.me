@@ -1,3 +1,139 @@
+# 2024-5-15
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bugzilla Main Page
+https://bugzilla.mozilla.org/home
+
+Element [6] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+index.js - mozsearch
+https://searchfox.org/mozilla-central/source/third_party/webkit/PerformanceTests/ARES-6/ml/index.js#2557-2559
+
+subclass-species-constructor-reject-count.js - mozsearch
+https://searchfox.org/mozilla-central/source/js/src/tests/test262/built-ins/Promise/prototype/finally/subclass-species-constructor-reject-count.js
+
+An example of how to use Stencils by dmitrikozlov · Pull Request #78 · mozilla-spidermonkey/spidermonkey-embedding-examples
+https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples/pull/78
+
+%GeneratorFunction.prototype.prototype.next% is not defined · Issue #3233 · tc39/ecma262
+https://github.com/tc39/ecma262/issues/3233
+
+mozilla-spidermonkey/spidermonkey-embedding-examples: Documentation and examples for embedding the SpiderMonkey JavaScript / WebAssembly engine in their applications.
+https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples
+
+(2) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+Convenient syntax for nested import · Issue #2148 · typst/typst
+https://github.com/typst/typst/issues/2148
+
+Misaligned Matrix/Vector Brackets · Issue #1617 · typst/typst
+https://github.com/typst/typst/issues/1617
+
+Fix hyphen duplication rule for some languages by gabriel-araujjo · Pull Request #4058 · typst/typst
+https://github.com/typst/typst/pull/4058
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+SpiderMonkey WASI demo
+https://mozilla-spidermonkey.github.io/sm-wasi-demo/
+
+build:compile_spidermonkey [Avidemux]
+https://www.avidemux.org/admWiki/doku.php?id=build:compile_spidermonkey
+
+Directory Listing: /pub/js/
+https://ftp.mozilla.org/pub/mozilla.org/js/
+
+Getting SpiderMonkey source code
+https://udn.realityripple.com/docs/Mozilla/Projects/SpiderMonkey/Getting_SpiderMonkey_source_code
+
+GitHub/Gecko Repositories - MozillaWiki
+https://wiki.mozilla.org/GitHub/Gecko_Repositories
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+firefox-dev@mozilla.org - Google 网上论坛
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Gitea Diaries: Part 1 — Developer Blog
+https://code.blender.org/2022/07/gitea-diaries-part-1/
+
+Firefox Development Is Moving From Mercurial To Git - Google 搜索
+https://www.google.com/search?q=Firefox+Development+Is+Moving+From+Mercurial+To+Git&rlz=1C1GCEA_enJP1090JP1090&oq=Firefox+Development+Is+Moving+From+Mercurial+To+Git&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Firefox Development Is Moving from Mercurial to Git | Hacker News
+https://news.ycombinator.com/item?id=38160161
+
+martinvonz/jj: A Git-compatible VCS that is both simple and powerful
+https://github.com/martinvonz/jj
+
+use git develop firefox - Google 搜索
+https://www.google.com/search?q=use+git+develop+firefox&rlz=1C1GCEA_enJP1090JP1090&oq=use+git+develop+firefox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDUzMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Tutorial to walk through the creation of a Git repository for Firefox/Gecko development, initialized from a git bundle.
+https://gist.github.com/Rob--W/b812be6e40e3ad489f6441ce65fdeb83
+
+Tutorial to walk through the creation of a Git repository for Firefox/Gecko development, initialized from a git bundle.
+https://gist.github.com/Rob--W/b812be6e40e3ad489f6441ce65fdeb83
+
+Mozilla: A git workflow for Gecko development · glandium/git-cinnabar Wiki
+https://github.com/glandium/git-cinnabar/wiki/Mozilla:-A-git-workflow-for-Gecko-development
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+824669 - Consider adding a way to parse from an array of strings without concatenating them all
+https://bugzilla.mozilla.org/show_bug.cgi?id=824669
+
+FSCloud
+https://web.fscloud.cc/#/ticket
+
+Browse
+https://bugzilla.mozilla.org/describecomponents.cgi
+
+Mike Hommey - Google 搜索
+https://www.google.com.hk/search?q=Mike+Hommey&rlz=1C1GCEA_enJP1090JP1090&oq=Mike+Hommey&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Bug 1878764 - Update builders to rustc 1.78. r=firefox-build-system-r… · mozilla/gecko-dev@a2b11dd
+https://github.com/mozilla/gecko-dev/commit/a2b11ddcc7e189cfbc71c0c5f069a452efca21fe
+
+glandium.org
+https://glandium.org/about/
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+A git workflow for Gecko development - Google 搜索
+https://www.google.com.hk/search?q=A+git+workflow+for+Gecko+development&rlz=1C1GCEA_enJP1090JP1090&oq=A+git+workflow+for+Gecko+development&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQDIGCAQQRRg80gEHMTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+glandium.org » Blog Archive » A new git workflow for Gecko development
+https://glandium.org/blog/?p=3413
+
+The newbie's workflow on Mozilla Gecko project | 蓋索林 Gasolin
+https://blog.gasolin.idv.tw/mozilla/The-newbies-workflow-on-Mozilla-Gecko-project/
+
+人生苦短，我用 conda | 蓋索林 Gasolin
+https://blog.gasolin.idv.tw/python/conda
+
+Issue search results
+https://github.com/search?q=involves%3Axry111&type=issues
+
+# 2024-5-14
+
 # 2024-5-13
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
