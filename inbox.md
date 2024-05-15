@@ -1,6 +1,12 @@
 # 2024-5-15 0 | 0 W
 
-wasm typst y-crdt
+wasm bytecodealliance
+Wasmtime, Wasmer, WAMR, and Wasmi
+OCamlPro/owi
+
+typst y-crdt 
+
+Linebender
 
 # 2024-5-14 0 | 0 W
 
