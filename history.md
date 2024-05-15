@@ -1,5 +1,53 @@
 # 2024-5-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+craigsapp/midifile: C++ classes for reading/writing Standard MIDI Files
+https://github.com/craigsapp/midifile
+
+mortie/project-swan: Game.
+https://github.com/mortie/project-swan
+
+glfw EGL: Failed to create context: Arguments are inconsistent - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=glfw+EGL%3A+Failed+to+create+context%3A+Arguments+are+inconsistent
+
+OpenGL ES 3: Fail to start on aarch64: [glfw error 65543] · Issue #2790 · kovidgoyal/kitty
+https://github.com/kovidgoyal/kitty/issues/2790
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+mortie/grpcpp-echo-sample: Sample application using gRPC++ to create a simple echo client/server.
+https://github.com/mortie/grpcpp-echo-sample
+
+xxsh/thirdparty at main · mortie/xxsh
+https://github.com/mortie/xxsh/tree/main/thirdparty
+
+mortie/msgstream: Streaming MessagePack parser and serializer.
+https://github.com/mortie/msgstream
+
+open-source-parsers/jsoncpp: A C++ library for interacting with JSON.
+https://github.com/open-source-parsers/jsoncpp
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Dor-sketch/Snakes_ladders: Snakes and Ladders game implamented C++ using cairo and GTK.
+https://github.com/Dor-sketch/Snakes_ladders?tab=readme-ov-file#midi-support
+
+-lrtmidi -lmidifile ubuntu install midi - Google 検索
+https://www.google.com/search?q=-lrtmidi+-lmidifile+ubuntu+install+midi&client=ubuntu-sn&hs=ReU&sca_esv=51c64e6aec99bdf3&channel=fs&ei=tC5EZvyQJbC5vr0PmrSEkAE&ved=0ahUKEwj8uq2N3o6GAxWwnK8BHRoaARIQ4dUDCBA&uact=5&oq=-lrtmidi+-lmidifile+ubuntu+install+midi&gs_lp=Egxnd3Mtd2l6LXNlcnAiJy1scnRtaWRpIC1sbWlkaWZpbGUgdWJ1bnR1IGluc3RhbGwgbWlkaUjpH1DzCVjKHnABeAGQAQCYAd4BoAGNG6oBBjAuMTguMbgBA8gBAPgBAZgCAaACFcICChAAGLADGNYEGEeYAwDiAwUSATEgQIgGAZAGCpIHATGgB8kH&sclient=gws-wiz-serp
+
+MIDI library github - Google 検索
+https://www.google.com/search?q=MIDI+library+github&client=ubuntu-sn&hs=dKp&sca_esv=51c64e6aec99bdf3&channel=fs&ei=6y5EZuvRC86Vvr0P2cSOyAY&ved=0ahUKEwir87Cn3o6GAxXOiq8BHVmiA2kQ4dUDCBA&uact=5&oq=MIDI+library+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiE01JREkgbGlicmFyeSBnaXRodWIyCRAAGIAEGBMYDTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYExgFGB4yCBAAGIAEGKIESJQOUIgHWIcNcAF4AZABAJgB8QGgAdkJqgEFMC4yLjS4AQPIAQD4AQGYAgegAqEKwgIKEAAYsAMY1gQYR8ICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGB4YD8ICCBAAGBMYCBgewgIMEAAYExgIGAoYHhgPmAMAiAYBkAYKkgcFMS4wLjagB4wP&sclient=gws-wiz-serp
+
+midifile install - Google 検索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=midifile+install#ip=1
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
