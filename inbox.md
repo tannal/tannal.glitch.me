@@ -1,5 +1,12 @@
 # 2024-5-16 0 | 0 W
 
+git clone https://sourceware.org/git/valgrind.git
+cd valgrind
+./autogen.sh
+./configure --prefix=/opt/valgrind
+make
+make install
+
 https://ai.stanford.edu/~kzliu/
 
 asan
