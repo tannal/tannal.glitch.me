@@ -1,5 +1,7 @@
 # 2024-5-16 0 | 0 W
 
+https://www-users.cse.umn.edu/~kauffman/4061/schedule.html
+
 wasm inside outside browser 2017
 typst 2022
 linbender 2020

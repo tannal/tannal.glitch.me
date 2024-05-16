@@ -2,6 +2,12 @@
 
 # inbox
 
+cranelift codegen
+
+Julian Seward 
+Benjamin Bouvier
+Dan Gohman
+Chris Fallin
 
 
 # dev
