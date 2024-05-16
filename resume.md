@@ -13,3 +13,4 @@ https://nikhilism.com/resume
 
 https://ian.hixie.ch/career/resume.html
 
+https://web.eecs.umich.edu/~linmacse/cv.pdf

@@ -1,5 +1,80 @@
 # 2024-5-15
 
+resume.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=31&prefix=true&query=documentry&sort=byPopularity&type=story
+
+404 | Scientific American
+https://www.scientificamerican.com/article/bluebrain-documentary-premiere/
+
+'Minecraft: The Story of Mojang' documentary premiering on Xbox Live this weekend - The Verge
+https://www.theverge.com/2012/12/17/3778474/minecraft-story-of-mojang-documentary-premiering-xbox-live
+
+cv.pdf
+https://web.eecs.umich.edu/~linmacse/cv.pdf
+
+L18-icn-intro.pptx
+https://www.eecs.umich.edu/courses/eecs570/lectures/18.pdf
+
+15-814 Types and Programming Languages
+https://www.cs.cmu.edu/~rwh/courses/typesys/
+
+Types and Programming Languages
+https://www.cis.upenn.edu/~bcpierce/tapl/index.html
+
+Incorrect hyphenation in situations including dashes for some languages (e.g. polish) · Issue #3235 · typst/typst
+https://github.com/typst/typst/issues/3235
+
+Fix hyphen duplication rule for some languages by gabriel-araujjo · Pull Request #4058 · typst/typst
+https://github.com/typst/typst/pull/4058/files
+
+CIS 6700: Course Homepage
+https://www.cis.upenn.edu/~bcpierce/courses/6700-SL-2024/current/index.html
+
+Week 3 - Cobra - Compiler Construction – Spring 2023 Edition
+https://ucsd-compilers-s23.github.io/week3/index.html
+
+Programming Languages: Ultimate Bundle – 3rd Edition | Dmitry
+https://www.dmitrysoshnikov.education/p/programming-languages-ultimate-bundle-3rd-edition?coupon_code=
+
+Essentials of Interpretation | Dmitry Soshnikov | Education
+https://www.dmitrysoshnikov.education/p/essentials-of-interpretation
+
+Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press(2002).pdf
+https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Comp%20Sci%20Math/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press%282002%29.pdf
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+asic - Google 搜索
+https://www.google.com/search?q=asic&rlz=1C1GCEA_enJP1090JP1090&oq=asic&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhjHARjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIJCAgQABgKGIAE0gEIMTkxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Story of Minecraft (Documentary) - YouTube
+https://www.youtube.com/watch?v=6dfncxXtH_o
+
+commodore 64 - Google 搜索
+https://www.google.com/search?q=commodore+64&rlz=1C1GCEA_enJP1090JP1090&oq=commodore&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCQgBEEUYORiABDIHCAIQABiABDINCAMQLhivARjHARiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDEzMzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+gta chinatown - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwSTPLskg2YPTiTS9JVEjOyMxLLMkvzwMAa6cIlA&q=gta+chinatown&rlz=1C1GCEA_enJP1090JP1090&oq=gta+china&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCQgAEEUYORiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQ3NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+unicode-bidi/examples/flame_udhr.rs at main · servo/unicode-bidi
+https://github.com/servo/unicode-bidi/blob/main/examples/flame_udhr.rs
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+mozilla-central: changeset 692676:4de25e9a950057c7f2f7ca5b4730c41df1d2bfe1
+https://hg.mozilla.org/mozilla-central/rev/4de25e9a9500#l27.59
+
+gregorypappas (Gregory Pappas)
+https://github.com/gregorypappas
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
