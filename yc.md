@@ -2,7 +2,13 @@
 
 # inbox
 
-LLVM clang hacking lambda experssion 
+
+
+Neuroscience AI Computing
+https://news.ycombinator.com/user?id=bshanks
+
+LLVM clang hacking lambda experssion
+https://news.ycombinator.com/user?id=mort96
 
 GUI development https://news.ycombinator.com/threads?id=grumblingdev
 
