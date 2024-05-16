@@ -1,3 +1,11 @@
+# 2024-5-16 0 | 0 W
+
+wasm inside outside browser 2017
+typst 2022
+linbender 2020
+yjs 2014
+y-crdt 2020
+
 # 2024-5-15 0 | 0 W
 
 git clone https://github.com/bytecodealliance/wasm-micro-runtime.git

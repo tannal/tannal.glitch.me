@@ -1,5 +1,134 @@
 # 2024-5-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mathematics and Plausible Reasoning I - Polya G.pdf
+https://www.isinj.com/mt-usamo/Mathematics%20and%20Plausible%20Reasoning%20I%20-%20Polya%20G.pdf
+
+Layout team standup meeting notes H1 2024 - Google 文档
+https://docs.google.com/document/d/1BbKGHgmDjD87f6Dt4mMXrZysch5END7AoCIY1cwGSdY/edit
+
+#general > ipc_channel - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ipc_channel
+
+Jan Leike
+https://jan.leike.name/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+(2) Discord | #support | Typst
+https://discord.com/channels/1054443721975922748/1088372909111783525
+
+(25) #cranelift - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift
+
+Contributing - Wasmtime
+https://docs.wasmtime.dev/contributing.html
+
+(25) #cranelift > PRegSet over Vec<PReg> - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/PRegSet.20over.20Vec.3CPReg.3E
+
+More cases of aligned xmm loads loading too much · Issue #8116 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8116
+
+Remove support for Wasmtime 13-and-prior CLI by alexcrichton · Pull Request #8597 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8597/files
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+emscripten - Is it possible to compile javascript engine(like spidermonkey) and run on Webassembly? - Stack Overflow
+https://stackoverflow.com/questions/53760444/is-it-possible-to-compile-javascript-enginelike-spidermonkey-and-run-on-webass
+
+#chatter > Mutraction - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Mutraction
+
+Rustunit - YouTube
+https://www.youtube.com/@rustunit_com/videos
+
+tomtheisen/mutraction: Futuristic web apps with model mutation tracking
+https://github.com/tomtheisen/mutraction
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cranelift&sort=byPopularity&type=story
+
+A New Backend for Cranelift, Part 1: Instruction Selection
+https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
+
+wasmtime/cranelift/codegen/src/machinst/lower.rs at cb306fd514f34e7dd818bb17658b93fba98e2567 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/cb306fd514f34e7dd818bb17658b93fba98e2567/cranelift/codegen/src/machinst/lower.rs#L58
+
+wasmtime/cranelift/docs/ir.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/docs/ir.md
+
+Add cg_clif as optional codegen backend by bjorn3 · Pull Request #77975 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/77975
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+#new members - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members
+
+Contributors to y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/graphs/contributors?from=2020-10-11&to=2024-05-16&type=c
+
+Documentation - The Zig Programming Language
+https://ziglang.org/documentation/master/#WebAssembly
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Style System Overview — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/StyleSystemOverview.html
+
+CSS Working Group Editor Drafts
+https://drafts.csswg.org/
+
+Preventing attacks on a user's history through CSS :visited selectors
+https://dbaron.org/mozilla/visited-privacy
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime%20wasmtime_cache&type=code
+
+tokio call stack is long - Google 搜索
+https://www.google.com/search?q=tokio+call+stack+is+long&rlz=1C1GCEA_enJP1090JP1090&oq=tokio+call+stack+is+long&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY4NDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ISLE: eliminate distinction between constructors and extractors · Issue #8599 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8599
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=javac&sort=byPopularity&type=story
+
+bytedeco/sample-projects: Sample project files for JavaCPP, JavaCPP Presets, and JavaCV
+https://github.com/bytedeco/sample-projects
+
+Rob Pike frustrated by Java, C++ complexity | Hacker News
+https://news.ycombinator.com/item?id=1546933
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+rust-cross
+https://github.com/rust-cross/
+
+Form and content - Wikipedia
+https://en.wikipedia.org/wiki/Form_and_content
+
+学年总结：优秀进取
+https://chatgpt.com/c/851b6da9-9315-4cfa-bcfb-318a9eec5a02
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
