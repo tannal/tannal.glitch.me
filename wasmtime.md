@@ -4,11 +4,16 @@
 
 cranelift codegen
 
-Julian Seward 
-Benjamin Bouvier
-Dan Gohman
-Chris Fallin
+Julian Seward
 
+Benjamin Bouvier
+https://github.com/bnjbvr
+
+Dan Gohman
+sunfishcode
+
+Chris Fallin
+involves:cfallin
 
 # dev
 
