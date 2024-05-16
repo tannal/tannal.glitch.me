@@ -1,5 +1,13 @@
 # 2024-5-16 0 | 0 W
 
+https://github.com/orgs/KDE
+https://github.com/GNOME
+
+gitlab.xfce.org
+
+Cinnamon Desktop, fork of GNOME LinuxMint
+https://github.com/mate-desktop
+
 http://bayleshanks.com
 
 
