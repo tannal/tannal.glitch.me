@@ -2,7 +2,10 @@
 
 # inbox
 
+https://news.ycombinator.com/user?id=wongarsu
 
+computer programming
+https://news.ycombinator.com/threads?id=bshanks
 
 Neuroscience AI Computing
 https://news.ycombinator.com/user?id=bshanks

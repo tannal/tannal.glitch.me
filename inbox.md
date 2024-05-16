@@ -1,5 +1,16 @@
 # 2024-5-16 0 | 0 W
 
+https://ai.stanford.edu/~kzliu/
+
+asan
+https://github.com/google/sanitizers/wiki/AddressSanitizer
+
+https://github.com/ristew
+
+hci_uart: This is likely the UART HCI driver, which provides the interface for Bluetooth over UART.
+btqca: This might be a driver for Qualcomm Atheros Bluetooth chipsets.
+btrtl, btbcm, btintel: These are Bluetooth HCI protocol drivers for various Bluetooth chipsets.
+
 https://github.com/orgs/KDE
 https://github.com/GNOME
 

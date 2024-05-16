@@ -1,3 +1,158 @@
+# 2024-5-16
+
+yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Profile: mort96 | Hacker News
+https://news.ycombinator.com/user?id=mort96
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cranelift&sort=byPopularity&type=story
+
+Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer
+https://cfallin.org/blog/2021/01/22/cranelift-isel-2/
+
+A New Backend for Cranelift, Part 1: Instruction Selection
+https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
+
+Compiling Brainfuck code - Part 3: A Cranelift JIT Compiler | Rodrigodd
+https://rodrigodd.github.io/2022/11/26/bf_compiler-part3.html
+
+(7) #general > value encoding and wasm-wave - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/value.20encoding.20and.20wasm-wave
+
+(7) #cranelift - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift
+
+Benjamin Bouvier's world
+https://blog.benj.me/
+
+Resume
+https://benj.me/pub/resume-2023-02-09.pdf
+
+Profile: wongarsu | Hacker News
+https://news.ycombinator.com/user?id=wongarsu
+
+Profile: wongarsu | Hacker News
+https://news.ycombinator.com/user?id=wongarsu
+
+more bshanks's comments | Hacker News
+https://news.ycombinator.com/threads?id=bshanks&next=31513572
+
+Proof of stake is incapable of producing a consensus | Hacker News
+https://news.ycombinator.com/item?id=29366310
+
+Proof of stake is a scam and the people promoting it are scammers
+https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/
+
+System design and the cost of architectural complexity (2013) | Hacker News
+https://news.ycombinator.com/item?id=35470905
+
+Submissions from dspace.mit.edu | Hacker News
+https://news.ycombinator.com/from?site=dspace.mit.edu
+
+Programming breakthroughs we need | Hacker News
+https://news.ycombinator.com/item?id=32495133
+
+Profile: rileyphone | Hacker News
+https://news.ycombinator.com/user?id=rileyphone
+
+CSCI 4061: Course Schedule and Materials
+https://www-users.cse.umn.edu/~kauffman/4061/schedule.html
+
+onur-comparch-fall2019-lecture6b-in-memory-computation-i-afterlecture
+https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=onur-comparch-fall2019-lecture6b-in-memory-computation-i-afterlecture.pdf
+
+sunfishcode (Dan Gohman)
+https://github.com/sunfishcode
+
+cfallin (Chris Fallin)
+https://github.com/cfallin
+
+bnjbvr (Benjamin Bouvier)
+https://github.com/bnjbvr
+
+Julian Seward - Google 搜索
+https://www.google.com/search?q=Julian+Seward&rlz=1C1GCEA_enJP1090JP1090&oq=Julian+Seward&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzUwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Memory/Address Sanitizer vs Valgrind - Stack Overflow
+https://stackoverflow.com/questions/47251533/memory-address-sanitizer-vs-valgrind
+
+学年总结：优秀进取
+https://chatgpt.com/c/851b6da9-9315-4cfa-bcfb-318a9eec5a02
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Repositories
+https://github.com/orgs/KDE/repositories
+
+MATE Desktop
+https://github.com/mate-desktop
+
+cinnamon desktop - Google 搜索
+https://www.google.com/search?q=cinnamon+desktop&sca_esv=c22fddfe247c1d12&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJkZvopMxENGphH11ipPN3dEmjw3Q%3A1715842399863&ei=X61FZv2XNIa22roPh7S94AY&oq=cinnamon+des&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGNpbm5hbW9uIGRlcyoCCAAyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyDhAuGIAEGMcBGMsBGK8BMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSI8TUOEBWJgNcAF4AZABAJgB4AKgAbgIqgEFMi0zLjG4AQPIAQD4AQGYAgWgAs8IwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAggQLhiABBjLAZgDAIgGAZAGCpIHBzEuMC4zLjGgB9Mq&sclient=gws-wiz-serp
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+Free Pascal Compiler
+https://github.com/fpc
+
+ristew (Riley Stewart)
+https://github.com/ristew
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+asan&type=code&p=2
+
+AddressSanitizer · google/sanitizers Wiki
+https://github.com/google/sanitizers/wiki/AddressSanitizer
+
+如何在 Rust 应用程序中发现并避免堆碎片 | HackerNoon
+https://hackernoon.com/zh/%E5%A6%82%E4%BD%95%E5%9C%A8-Rust-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%B9%B6%E9%81%BF%E5%85%8D%E5%A0%86%E7%A2%8E%E7%89%87
+
+more wongarsu's comments | Hacker News
+https://news.ycombinator.com/threads?id=wongarsu&next=40098482
+
+The C++ FQA is on GitHub
+https://yosefk.com/blog/the-c-fqa-is-on-github.html
+
+yosefk/cpp-fqa: C++ Frequently Questioned Answers (FQA)
+https://github.com/yosefk/cpp-fqa
+
+Run0, a systemd based alternative to sudo, announced | Hacker News
+https://news.ycombinator.com/item?id=40205714
+
+Online Search | Statista
+https://www.statista.com/markets/424/topic/541/online-search/#overview
+
+Machine Unlearning in 2024 | Hacker News
+https://news.ycombinator.com/item?id=40264352
+
+Ken Ziyu Liu - Stanford Computer Science
+https://ai.stanford.edu/~kzliu/
+
+Garbage collectors are scary
+https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html
+
+wpp2022_summary_of_results.pdf
+https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022_summary_of_results.pdf
+
+nigeria - Google 搜索
+https://www.google.com/search?q=nigeria&rlz=1C1GCEA_enJP1090JP1090&oq=nigeria&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyDAgEEAAYQxiABBiKBTIMCAUQABhDGIAEGIoFMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTM3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+republic of congo - Google 搜索
+https://www.google.com/search?q=republic+of+congo&rlz=1C1GCEA_enJP1090JP1090&oq=republic+of+congo&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgASoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ethiopia - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwtCxILjZg9OJILcnIzC_ITAQAQigGlQ&q=ethiopia&rlz=1C1GCEA_enJP1090JP1090&oq=eth&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIJCAAQRRg5GIAEMgwIARAuGEMYgAQYigUyEggCEC4YQxjHARjRAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGD3SAQgyNTU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+亚洲
+https://countrymeters.info/cn/Asia
+
 # 2024-5-15
 
 resume.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
