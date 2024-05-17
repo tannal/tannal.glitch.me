@@ -2,6 +2,13 @@
 
 # inbox
 
+
+> Java from Oracle
+Oracle acquired Java with Sun Microsystems, it was originally designed for embedded systems and the dream of “write once, run everywhere”.
+The idea of a “hardware JVM” always fascinated me, I seem to recall some parallax microcontrollers that could run a subset of jvm bytecode back in the 90s, but never actually got to play with them.
+
+https://news.ycombinator.com/threads?id=hobos_delight
+
 I think this is a PL guy.
 https://news.ycombinator.com/threads?id=altun
 
