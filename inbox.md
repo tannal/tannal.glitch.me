@@ -1,5 +1,9 @@
 # 2024-5-17 0 | 0 W
 
+cargo install --git https://github.com/ducaale/xh
+
+`//go:generate` is far worse than C's macros
+
 Democracy or not democracy, this is a question.
 
 If a language is to change over time, this specification or

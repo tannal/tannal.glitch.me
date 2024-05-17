@@ -10,6 +10,9 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+http client command line just like curl and httpie writing in rust
+https://github.com/ducaale/xh
+
 grpc cpp echo client server example https://github.com/mortie/grpcpp-echo-sample
 
 bison flex glsl parser bisonhttps://github.com/nnesse/glsl-parser
