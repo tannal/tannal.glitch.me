@@ -1,5 +1,7 @@
 
-# Failed to run
+# Waiting Queue
+
+Pacman game implemented in Golang https://github.com/danicat/pacgo
 
 https://github.com/schell/renderling
 
