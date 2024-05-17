@@ -1,3 +1,230 @@
+# 2024-5-17
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+bytecodealliance/javy: JS to WebAssembly toolchain
+https://github.com/bytecodealliance/javy/tree/main
+
+Element
+https://github.com/vector-im
+
+bnjbvr (Benjamin Bouvier)
+https://github.com/bnjbvr
+
+A New Backend for Cranelift, Part 1: Instruction Selection
+https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime%20pretty_env_logger&type=code
+
+Avril Lavigne - YouTube
+https://www.youtube.com/@AvrilLavigne/videos
+
+你有 5 条未读消息 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTNvwCqzLCmwKdzsHtXXJMChM
+
+general（频道） - Gophers - Slack
+https://app.slack.com/client/T029RQSE6/search
+
+19. Rob Pike - What We Got Right, What We Got Wrong | GopherConAU 2023 - YouTube
+https://www.youtube.com/watch?v=yE5Tpp2BSGw
+
+Olivia Rodrigo - Google 搜索
+https://www.google.com/search?q=Olivia+Rodrigo&rlz=1C1GCEA_enJP1090JP1090&oq=Olivia+Rodrigo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+#general > issues reserved for outreachy? - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/issues.20reserved.20for.20outreachy.3F
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167
+
+(1) #xilem > Strong typed composable/modifier styling with ext. traits - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Strong.20typed.20composable.2Fmodifier.20styling.20with.20ext.2E.20traits
+
+`xilem_masonry`: Create a generic `View` trait, and use it to complete the `Flex` view by DJMcNab · Pull Request #235 · linebender/xilem
+https://github.com/linebender/xilem/pull/235/files#diff-93028313d15edb72d47e093340523d5231f4b09a57927318cb7c87ed91b03d44R250
+
+virtual/sparse scrolling / models · Issue #51 · linebender/xilem
+https://github.com/linebender/xilem/issues/51
+
+kas/crates/kas-view/src/list_view.rs at master · kas-gui/kas
+https://github.com/kas-gui/kas/blob/master/crates/kas-view/src/list_view.rs
+
+Issues · bevyengine/bevy
+https://github.com/bevyengine/bevy/labels/A-TEXT
+
+Robert Mecklenburg - Google 搜索
+https://www.google.com/search?q=Robert+Mecklenburg&rlz=1C1GCEA_enJP1090JP1090&oq=Robert+Mecklenburg&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgYIARBFGDsyCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIGCAcQRRg80gEINDc2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+GPUI
+https://www.gpui.rs/
+
+(2) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+Jollywatt/typst-fletcher: Typst package for drawing diagrams with arrows, built on top of CeTZ.
+https://github.com/Jollywatt/typst-fletcher
+
+packages/packages/preview/fletcher at main · typst/packages
+https://github.com/typst/packages/tree/main/packages/preview/fletcher
+
+Excalidraw
+http://draw.tanmeng.org/
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Issue search results
+https://github.com/search?q=involves%3APhilipp-M&type=issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Element
+https://github.com/element-hq
+
+julian-seward1
+https://github.com/julian-seward1
+
+Welcome to Julian Seward! < Rob Sayre's Mozilla Blog
+https://web.archive.org/web/20110218032202/http://blog.mozilla.com/rob-sayre/2009/06/01/welcome-to-julian-seward/
+
+Typst: About us
+https://typst.app/about/
+
+cfallin (Chris Fallin)
+https://github.com/cfallin
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=wasmtime&sort=byPopularity&type=story
+
+lunatic-solutions/lunatic: Lunatic is an Erlang-inspired runtime for WebAssembly
+https://github.com/lunatic-solutions/lunatic
+
+containerd
+https://github.com/containerd
+
+ashtonmeuser/godot-wasm: Interact with WebAssembly modules from Godot
+https://github.com/ashtonmeuser/godot-wasm
+
+wasmtime/cranelift/isle at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle
+
+wasmtime/cranelift/isle/docs/language-reference.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/isle/docs/language-reference.md
+
+Releases · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/releases?page=3
+
+CVE-2024-30266 wasmtime is a runtime for WebAssembly. The 19.0...
+https://vulmon.com/vulnerabilitydetails?qid=CVE-2024-30266
+
+Panic in `table.init` · Issue #8281 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8281
+
+WebAssembly
+https://github.com/WebAssembly
+
+Carnegie Mellon University Launches WebAssembly Research Center
+https://www.cs.cmu.edu/news/2023/webassembly-research-center
+
+WebAssembly
+https://www.cs.cmu.edu/wrc/
+
+Bytecode Alliance — Projects
+https://bytecodealliance.org/projects
+
+Jobs at Fastly | Fastly
+https://www.fastly.com/about/careers/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=fastly%20webass&sort=byPopularity&type=story
+
+WASM Stack Machine - Google 文档
+https://docs.google.com/document/d/1CieRxPy3Fp62LQdtWfhymikb_veZI7S9MnuCZw7biII/edit
+
+Profile: Saphyel | Hacker News
+https://news.ycombinator.com/user?id=Saphyel
+
+Go and Algebraic Data Types - Eli Bendersky's website
+https://eli.thegreenplace.net/2018/go-and-algebraic-data-types/
+
+The Embedded Rust Book
+https://docs.rust-embedded.org/book/print.html
+
+Profile: jiripospisil | Hacker News
+https://news.ycombinator.com/user?id=jiripospisil
+
+ducaale/xh: Friendly and fast tool for sending HTTP requests
+https://github.com/ducaale/xh
+
+hobos_delight's comments | Hacker News
+https://news.ycombinator.com/threads?id=hobos_delight
+
+Interesting public commentary on Go...
+https://groups.google.com/g/golang-nuts/c/6dKNSN0M_kg/m/EUzcym2FBAAJ
+
+danicat/pacgo: A Pac Man clone written in Go (with emojis!)
+https://github.com/danicat/pacgo
+
+more altun's comments | Hacker News
+https://news.ycombinator.com/threads?id=altun&next=26099615
+
+The State of WebAssembly 2023
+https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html#:~:text=WebAssembly%20is%20still%20most%20often,people%20are%20most%20interested%20in
+
+WebAssembly architecture for Go - Google 文档
+https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4/preview
+
+WebAssembly Summit
+https://github.com/WebAssemblySummit
+
+neelance (Richard Musiol)
+https://github.com/neelance
+
+rossberg (Andreas Rossberg)
+https://github.com/rossberg?tab=repositories
+
+andreas rossberg
+https://people.mpi-sws.org/~rossberg/
+
+Ian Lance Taylor - Google 搜索
+https://www.google.com/search?q=Ian+Lance+Taylor&rlz=1C1GCEA_enJP1090JP1090&oq=Ian+Lance+Taylor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+golang-nuts - Google 网上论坛
+https://groups.google.com/g/golang-nuts
+
+golang-nuts - Google 网上论坛
+https://groups.google.com/g/golang-nuts/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=If%20a%20language%20is%20to%20change%20over%20time%2C%20this%20specification%20or%0Aimplementation%20must%20change.%20Somebody%20has%20to%20decide%20how%20changes%20will%0Abe%20made.%20All%20successful%20languages%20have%20a%20small%20set%20of%20people%20who%20make%0Athe%20final%20decisions.%20Many%20people%20will%20provide%20input%20to%20this%20decision%2C%0Abut%20no%20successful%20language--indeed%2C%20no%20successful%20free%20software%0Aproject%20of%20any%20sort--is%20a%20democracy.%20Successful%20languages%20pay%0Aattention%20to%20what%20people%20want%2C%20but%20to%20change%20the%20language%20according%20to%0Awhat%20most%20people%20want%20is%2C%20I%20believe%2C%20a%20recipe%20for%20chaos%20and%0Aincoherence.%20I%20believe%20that%20every%20successful%20language%20must%20have%20a%0Acoherent%20vision%20that%20is%20shared%20by%20a%20relatively%20small%20group%20of%20people.&op=translate
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+bram moolenaar - Google 搜索
+https://www.google.com/search?q=bram+moolenaar&sca_esv=1a5929d447859cf0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILaU8jMImW6162wgO5nuQWiRtZjhw%3A1715909483863&ei=a7NGZtmlNKyP2roP0JylsAU&gs_ssp=eJzj4tTP1TcwNC9PtjRg9OJLKkrMVcjNz89JzUtMLAIAa54Ikw&oq=Bram+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUJyYW0gKgIIAzILEC4YgAQY1AIYywEyCxAuGIAEGNQCGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBSLwsUNQCWKYFcAF4AJABAJgB3QGgAbUDqgEDMi0yuAEDyAEA-AEBmAIHoALPfcICBxAAGLADGB7CAgsQABiABBiwAxiiBMICDhAuGIAEGMcBGMsBGK8BwgIGEAAYChgewgIHEAAYgAQYDcICBhAAGA0YHsICGhAuGIAEGNQCGMsBGJcFGNwEGN4EGOAE2AEBmAMAiAYBkAYDugYGCAEQARgUkgcJMS4wLjIuOS00oAfTHg&sclient=gws-wiz-serp#ip=1
+
+Edsger W. Dijkstra - Wikipedia
+https://en.wikipedia.org/wiki/Edsger_W._Dijkstra
+
+nigeltao (Nigel Tao)
+https://github.com/nigeltao
+
+astaxie/build-web-application-with-golang: A golang ebook intro how to build a web with golang
+https://github.com/astaxie/build-web-application-with-golang
+
+Go Type System Overview -Go 101
+https://go101.org/article/type-system-overview.html
+
+Jiri Pospisil
+https://jpospisil.com/
+
+SvelteKit for Shopify App development? : r/sveltejs
+https://www.reddit.com/r/sveltejs/comments/11l4470/sveltekit_for_shopify_app_development/
+
 # 2024-5-16
 
 yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

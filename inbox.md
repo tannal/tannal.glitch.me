@@ -1,5 +1,7 @@
 # 2024-5-17 0 | 0 W
 
+Input Method Editor
+
 cargo install --git https://github.com/ducaale/xh
 
 `//go:generate` is far worse than C's macros
