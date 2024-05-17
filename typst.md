@@ -2,7 +2,11 @@
 
 # inbox
 
+Martin Haug
+Sits down and gets things done.
 
+Laurenz Mädje
+Thinks long and comes up with stuff.
 
 
 # setup

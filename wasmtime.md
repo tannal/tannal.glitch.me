@@ -2,11 +2,18 @@
 
 # inbox
 
+RUST_LOG=trace
+
 cranelift codegen
 
 Julian Seward
+他因在1996年创建bzip2压缩工具
+2000年创建的valgrind内存调试工具集而闻名
+2006年，他因对Valgrind的工作而获得了第二个O'Reilly开源奖。Julian目前在Mozilla工作。
 
 Benjamin Bouvier
+He not working at wasmtime probably.
+He is now working at https://github.com/element-hq.
 https://github.com/bnjbvr
 
 Dan Gohman
