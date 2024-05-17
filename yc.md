@@ -2,6 +2,8 @@
 
 # inbox
 
+This guy tell me about xh. Good tool.
+https://news.ycombinator.com/user?id=jiripospisil
 
 > Java from Oracle
 Oracle acquired Java with Sun Microsystems, it was originally designed for embedded systems and the dream of “write once, run everywhere”.
