@@ -1,6 +1,13 @@
 
 # inbox
 
+Nigel Tao
+https://github.com/nigeltao
+
+Ian Lance Taylor
+gccgo frontend Generics
+https://github.com/ianlancetaylor
+
 https://github.com/golang/go/commits/master/?author=griesemer
 
 https://telemetry.go.dev/charts/2024-01-30#charts%3agolang.org%2fx%2ftools%2fgopls%3agopls%2fclient%3a%7bvscode%2cvscodium%2cvscode-insiders%2ccode-server%2ceglot%2cgovim%2cneovim%2ccoc.nvim%2csublimetext%2cother%7d

@@ -2,6 +2,9 @@
 
 # inbox
 
+I think this is a PL guy.
+https://news.ycombinator.com/threads?id=altun
+
 https://news.ycombinator.com/user?id=wongarsu
 
 computer programming

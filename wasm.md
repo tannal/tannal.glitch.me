@@ -6,6 +6,15 @@ emscripten
 
 # people
 
+A CMU reasearch group founded by a former v8 engineer. 
+Ben L. Titzer
+https://www.cs.cmu.edu/wrc/
+
+Fastly
+
+Bytecodealliance aka mozilla fastly
+
+
 wasm64
 involves:rossberg
 involves:sbc100

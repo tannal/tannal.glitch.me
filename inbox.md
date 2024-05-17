@@ -1,3 +1,37 @@
+# 2024-5-17 0 | 0 W
+
+Democracy or not democracy, this is a question.
+
+If a language is to change over time, this specification or
+implementation must change. Somebody has to decide how changes will
+be made. All successful languages have a small set of people who make
+the final decisions. Many people will provide input to this decision,
+but no successful language--indeed, no successful free software
+project of any sort--is a democracy. Successful languages pay
+attention to what people want, but to change the language according to
+what most people want is, I believe, a recipe for chaos and
+incoherence. I believe that every successful language must have a
+coherent vision that is shared by a relatively small group of people.
+by Ian Lance Taylor
+
+Bram Moolenaar
+
+C++ Java Go Rust JS/TS Python
+
+backtracking pattern-matching problem
+
+Wasmtime
+Wasmtime is a fast, secure and standards compliant runtime for WebAssembly, configurable to support a wide range of deployment environments and which provides a rich set of APIs for interacting with that host environment through the WASI standard. Wasmtime serves as the base layer for other hosts.
+
+Cranelift
+Cranelift is a production-ready low-level retargetable code generator, usable as a back-end for both WebAssembly and non-WebAssembly deployments. It’s incorporated in Wasmtime for both JIT and AOT compilation, and is also used as an experimental backend for the Rust compiler.
+
+WAMR
+The WebAssembly Micro Runtime (WAMR) is a lightweight, standalone, interpreter-based WebAssembly runtime with small footprint, high performance and highly configurable features. It is especially well suited for embedded or similarly resource constrained environments (e.g., Internet of Things).
+
+Javy
+Javy is a JavaScript-to-WebAssembly toolchain designed to execute JavaScript on WebAssembly. Based on the QuickJS JavaScript engine, it prioritizes generating compact and efficient WebAssembly modules.
+
 # 2024-5-16 0 | 0 W
 
 git clone https://sourceware.org/git/valgrind.git

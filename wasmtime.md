@@ -17,6 +17,7 @@ He is now working at https://github.com/element-hq.
 https://github.com/bnjbvr
 
 Dan Gohman
+This Guy is working on wasmtime currently at mozilla.
 sunfishcode
 
 Chris Fallin
