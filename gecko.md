@@ -1,5 +1,8 @@
 # dev
 
+Bug 1886716 - Remove reference to nonexistent nsIPointerEvent.idl
+
+
 Bug 1853548 - Remove dom.no_unknown_protocol_error.enabled pref
 
 
