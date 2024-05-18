@@ -1,5 +1,74 @@
 # 2024-5-18
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+twitter.com
+https://twitter.com/cliff_click
+
+Resources
+https://tutflix.org/resources/
+
+Pikuma - 3D Computer Graphics Programming - TutFlix - Free Education Community
+https://tutflix.org/resources/pikuma-3d-computer-graphics-programming.10807/
+
+www.facebook.com
+https://www.facebook.com/groups/1531876370923589
+
+www.facebook.com
+https://www.facebook.com/
+
+www.facebook.com
+https://www.facebook.com/photo/?fbid=1013913227194452&set=a.592739252645187
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple?fbclid=IwZXh0bgNhZW0CMTAAAR1udt1d0Qmtn5J3nTp-IEHcio4ZvHOfVdS1Tooz3cXYsyZg3TR3beicQAQ_aem_AWAG6-NjYctzuH0IwuOQwB9YJicLBUwKygkzxtBuFXrJlmk2PnUHXZVmv2PV9Y6xwiNZcuEO1i5MfZZDxoZn_Fd_
+
+saicogn
+https://github.com/saicogn
+
+Improvements to static analysis in the GCC 14 compiler | Red Hat Developer
+https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler?fbclid=IwZXh0bgNhZW0CMTAAAR11EcAUEWtcTSX6RSnNdpTePzXfpQON2UifEPUZXnGNyHApysnk04_gtjs_aem_Ab1EVgPVfVAuz2G4G5aCRTFcwVPAm5BbEGI26g-Hngx5bm4EZtQA_ddA1UzDZyeh-yAUBLHIlKkuZvR2YKmjxTg_#
+
+How single-iteration InstCombine improves LLVM compile time | Red Hat Developer
+https://developers.redhat.com/articles/2023/12/07/how-single-iteration-instcombine-improves-llvm-compile-time#convergence_failures
+
+⚙ D73835 [IRBuilder] Virtualize IRBuilder
+https://reviews.llvm.org/D73835
+
+Compiler Explorer
+https://godbolt.org/z/vn55nn43z
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+论文管理系统
+https://bylw.nenu.edu.cn/
+
+2020012732_谭盟_键值对存储系统设计与实现_终稿_20240518141729A058.pdf
+https://bylw.nenu.edu.cn/profile/upload/2024/05/18/2020012732_%E8%B0%AD%E7%9B%9F_%E9%94%AE%E5%80%BC%E5%AF%B9%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0_%E7%BB%88%E7%A8%BF_20240518141729A058.pdf
+
+ChatGPT
+https://chatgpt.com/c/ee1268fb-76b7-4c98-abc2-1e046b67042c
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Excalidraw
+http://draw.tanmeng.org/
+
+IMG_20240518_134844.jpg (4624×3472)
+http://192.168.43.58:8080/shared/Alarms/IMG_20240518_134844.jpg
+
+git.tanmeng.org
+http://git.tanmeng.org/explore/repos
+
+论文管理系统
+https://bylw.nenu.edu.cn/
+
+Google
+https://www.google.com/
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
