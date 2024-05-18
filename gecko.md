@@ -1,6 +1,6 @@
 # dev
 
-Bug 1895391 - Remove widget.non-native-theme.solid-outline-style pref
+Bug 1853548 - Remove dom.no_unknown_protocol_error.enabled pref
 
 
 git diff-tree -p c9e2aa1002d8

@@ -1,3 +1,10 @@
+
+
+# 2024-5-18 0 | 0 W
+
+taplo: A TOML toolkit written in Rust
+
+
 # 2024-5-17 0 | 0 W
 
 Input Method Editor
