@@ -1,5 +1,18 @@
 # dev
 
+Bug 1895391 - Remove widget.non-native-theme.solid-outline-style pref
+
+
+git diff-tree -p c9e2aa1002d8
+
+Bug 1842458 - Remove dom.window.event.enabled pref r?gregp
+
+
+git branch -D window-event
+git branch -d window-event
+
+git pull --rebase
+
 ./mach static-analysis check --outgoing
 
 Bug 1892347 - Remove nsIDOMWindowUtils.isPartOfOpaqueLayer r?gregp

@@ -1,6 +1,8 @@
 
 # dev
 
+make lint-js
+
 tools/test.py -m debug test/parallel/test-options.js --shell ./node_g  --report --node-args --track-heap-objects
 
 export NODE_OPTIONS='--expose-internals'
@@ -14,6 +16,9 @@ export NODE_OPTIONS='--expose-internals'
 source ~/tannalwork/projects/v8/v8/tools/gdbinit
 
 # inbox
+
+/opt/valgrind/bin/valgrind ~/tannalwork/projects/node/node_g ./out/typescript-bug-58369/node_modules/
+typescript/lib/tsc.js
 
 sudo perf record -F 99 --call-graph dwarf -p `pgrep -n node_g` -g -- sleep 30
 sudo perf script > ./graph/out.nodestacks02
