@@ -1,5 +1,152 @@
 # 2024-5-18
 
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+wasmtime/cranelift/isle/docs/language-reference.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/isle/docs/language-reference.md
+
+wasmtime/cranelift/codegen/src/isa/x64/lower.isle at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/codegen/src/isa/x64/lower.isle#L76
+
+aarch64: Add support for `fnmadd`/`fmsub`/`fnmsub` · Issue #8603 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8603
+
+github.com
+https://github.com/bytecodealliance/wasmtime/blob/c73f8de85d61831ce1eb5ffd22e2cab6e4d57959/cranelift/codegen/src/isa/riscv64/lower.isle#L1534
+
+riscv64: Add `fmsub`/`fnmsub`/`fnmadd` instruction lowerings by afonso360 · Pull Request #8588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8588/files
+
+Rewriting - Wikipedia
+https://en.wikipedia.org/wiki/Rewriting#Term_rewriting_systems
+
+Excalidraw
+http://draw.tanmeng.org/
+
+Go To Statement Considered (Mostly) Harmless
+https://jamey.thesharps.us/2016/11/16/go-to-statement-considered-harmless/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+1535. 找出数组游戏的赢家 - 力扣（LeetCode）
+https://leetcode.cn/problems/find-the-winner-of-an-array-game/description/
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+constraint satisfaction problems - Google 搜索
+https://www.google.com/search?q=constraint+satisfaction+problems&rlz=1C1GCEA_enJP1090JP1090&oq=constraint+sati&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDYzMTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+merge - Google 搜索
+https://www.google.com/search?q=merge&rlz=1C1GCEA_enJP1090JP1090&oq=merge&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgYIARBFGDsyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBBzg3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Issues · servo/media
+https://github.com/servo/media/issues
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+#general > Canvas / WebGL / WebGPU Threads - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Canvas.20.2F.20WebGL.20.2F.20WebGPU.20Threads
+
+Servo
+https://se.ewi.tudelft.nl/desosa2019/chapters/servo/#concurrency-view
+
+Design · servo/servo Wiki
+https://github.com/servo/servo/wiki/Design
+
+Event Time Announcer - Servo TSC Meeting May 2024 (2024-05-28)
+https://www.timeanddate.com/worldclock/fixedtime.html?msg=Servo%20TSC%20Meeting%20May%202024%20(2024-05-28)&iso=20240528T1500
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+github 单个文件限制 - Google 搜索
+https://www.google.com/search?q=github+%E5%8D%95%E4%B8%AA%E6%96%87%E4%BB%B6%E9%99%90%E5%88%B6&rlz=1C1GCEA_enJP1090JP1090&oq=github+%E5%8D%95%E4%B8%AA%E6%96%87%E4%BB%B6%E9%99%90%E5%88%B6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgoIAhAAGKIEGIkFMgoIAxAAGKIEGIkFMgoIBBAAGKIEGIkFMgYIBRBFGEDSAQg3MjUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How to Think about Algorithms 2nd Edition pdf - Google 搜索
+https://www.google.com/search?q=How+to+Think+about+Algorithms+2nd+Edition+pdf&sca_esv=b76e5b87cda5eeaa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIDykMmAGu4EzuFmJYkJckUBBjLdg%3A1715997836097&ei=jAxIZtuyBdDc2roP4rCUqAY&ved=0ahUKEwjbqNKLjpaGAxVQrlYBHWIYBWUQ4dUDCBA&uact=5&oq=How+to+Think+about+Algorithms+2nd+Edition+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiLUhvdyB0byBUaGluayBhYm91dCBBbGdvcml0aG1zIDJuZCBFZGl0aW9uIHBkZjIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjSC1AAWMQKcAB4AZABAJgBjQOgAY8IqgEFMi0zLjG4AQPIAQD4AQGYAgSgApgImAMAkgcHMi0zLjAuMaAHxQ8&sclient=gws-wiz-serp
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+9781009302142_frontmatter.pdf
+https://assets.cambridge.org/97810093/02142/frontmatter/9781009302142_frontmatter.pdf
+
+Myriad-Dreamin/typst-book: A simple tool for creating modern online books in pure typst.
+https://github.com/Myriad-Dreamin/typst-book
+
+GitHub
+https://github.com/
+
+#general > Canvas / WebGL / WebGPU Threads - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Canvas.20.2F.20WebGL.20.2F.20WebGPU.20Threads
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+192.168.43.246:3000
+http://192.168.43.246:3000/
+
+GitHub
+https://github.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home
+https://phabricator.services.mozilla.com/
+
+mozilla-central: changeset 156728:596ed05b32f6e63c495ea0d4e3047cfd46d7acd1
+https://hg.mozilla.org/mozilla-central/rev/596ed05b32f6
+
+Microsoft Open Technologies - Google 搜索
+https://www.google.com/search?q=Microsoft+Open+Technologies&rlz=1C1GCEA_enJP1090JP1090&oq=Microsoft+Open+Technologies&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Commit search results
+https://github.com/search?q=repo%3Aservo%2Fservo+FontContext&type=commits
+
+syn/src/ident.rs at master · dtolnay/syn
+https://github.com/dtolnay/syn/blob/master/src/ident.rs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=dtolnay&sort=byPopularity&type=story
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Multi-process Architecture
+https://www.chromium.org/developers/design-documents/multi-process-architecture/
+
+Chromium Docs - Process Model and Site Isolation
+https://chromium.googlesource.com/chromium/src/+/main/docs/process_model_and_site_isolation.md
+
+chromium-security-architecture.pdf
+https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf
+
+PDF 转换、编辑、批注、合并拆分、去水印...打开 WPS 就够了-WPS学堂
+https://www.wps.cn/learning/article/detail/id/330234
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
