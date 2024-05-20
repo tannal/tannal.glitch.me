@@ -1,5 +1,92 @@
 # 2024-5-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(2) Discord | #quick-questions | Typst
+https://discord.com/channels/1054443721975922748/1088371919725793360
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+#xilem > Strong typed composable/modifier styling with ext. traits - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Strong.20typed.20composable.2Fmodifier.20styling.20with.20ext.2E.20traits
+
+Considering Xilem fast reload - HackMD
+https://hackmd.io/@DJMcNab/S1gUr8MXR
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+医院用药 患者有权知道药名 - Google 搜索
+https://www.google.com/search?q=%E5%8C%BB%E9%99%A2%E7%94%A8%E8%8D%AF+%E6%82%A3%E8%80%85%E6%9C%89%E6%9D%83%E7%9F%A5%E9%81%93%E8%8D%AF%E5%90%8D&sca_esv=2d8b49fe239ead85&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIbue5GsBr9QF88CMkEyRcT6A_VTw%3A1716171904104&ei=gLRKZqH0BcPL0-kP5_GJgAE&ved=0ahUKEwihtN7FlpuGAxXD5TQHHed4AhAQ4dUDCBA&uact=5&oq=%E5%8C%BB%E9%99%A2%E7%94%A8%E8%8D%AF+%E6%82%A3%E8%80%85%E6%9C%89%E6%9D%83%E7%9F%A5%E9%81%93%E8%8D%AF%E5%90%8D&gs_lp=Egxnd3Mtd2l6LXNlcnAiJeWMu-mZoueUqOiNryDmgqPogIXmnInmnYPnn6XpgZPoja_lkI0yCBAAGIAEGKIEMggQABiiBBiJBUjZSVCaAVjRSHADeAGQAQCYAbsCoAGcNqoBCDAuNC4yNS4yuAEDyAEA-AEBmAIhoAKENcICChAAGLADGNYEGEfCAgUQABiABMICBhAAGAUYHsICBxAAGIAEGAzCAggQABgFGAwYHsICBRAhGKABmAMAiAYBkAYKkgcIMy4yLjI2LjKgB5Aw&sclient=gws-wiz-serp
+
+患者的权利和义务 郴州市政府 - Google 搜索
+https://www.google.com/search?q=%E6%82%A3%E8%80%85%E7%9A%84%E6%9D%83%E5%88%A9%E5%92%8C%E4%B9%89%E5%8A%A1+%E9%83%B4%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%82%A3%E8%80%85%E7%9A%84%E6%9D%83%E5%88%A9%E5%92%8C%E4%B9%89%E5%8A%A1+%E9%83%B4%E5%B7%9E%E5%B8%82%E6%94%BF%E5%BA%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYxNTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+郴州市第一人民医院
+https://www.czhospital.com/about.php?classid=14&nclassid=16
+
+郴州市第一人民医院
+https://www.czhospital.com/read.php?id=187
+
+郴州市卫生健康委 关于印发《郴州市卫生健康行政处罚 裁量权基准》的通知
+http://app.rc.gov.cn/wsj/zwgk/13066/13179/content_3038021.html
+
+郴州市卫生健康委员会
+https://wsjsw.czs.gov.cn/
+
+郴州市卫生健康委员会搜索
+http://searching.hunan.gov.cn:8977/hunan/980217000/news
+
+郴州市卫生健康委 关于印发《郴州市卫生健康行政处罚 裁量权基准》的通知
+https://wsjsw.czs.gov.cn/zwgk/zcwj/content_3006367.html
+
+卫生部关于印发《病历书写基本规范》的通知
+http://www.nhc.gov.cn/yzygj/s3585u/201002/0517a82e35224ee0912a5d855a9d249f.shtml
+
+国家卫生健康委医政医管局
+http://zs.kaipuyun.cn/s?token=7916&siteCode=N000001644&searchWord=%E7%97%85%E5%8E%86%E4%B9%A6%E5%86%99%E5%9F%BA%E6%9C%AC%E8%A7%84%E8%8C%83&button=
+
+国家卫生健康委医政医管局
+https://zs.kaipuyun.cn/s?searchWord=%25E5%259F%25BA%25E6%259C%25AC%25E8%258D%25AF%25E7%2589%25A9%25E4%25BD%25BF%25E7%2594%25A8&column=%25E5%2585%25A8%25E9%2583%25A8&pageSize=10&pageNum=0&siteCode=N000001644&sonSiteCode=&checkHandle=1&searchSource=3&areaSearchFlag=0&secondSearchWords=&topical=&docName=&label=&countKey=0&uc=0&left_right_index=0&searchBoxSettingsIndex=&isSecondSearch=undefined&manualWord=%25E8%258D%25AF%25E7%2589%25A9%25E4%25BD%25BF%25E7%2594%25A8&orderBy=0&startTime=&endTime=&timeStamp=0&strFileType=&wordPlace=0
+
+卫生部关于印发《病历书写基本规范》的通知
+http://www.nhc.gov.cn/bgt/s10696/201002/ca74ec8010e344a4a1fead0f66f41354.shtml
+
+中国 政府部门网站文件 具有法律效力么 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%BD%91%E7%AB%99%E6%96%87%E4%BB%B6+%E5%85%B7%E6%9C%89%E6%B3%95%E5%BE%8B%E6%95%88%E5%8A%9B%E4%B9%88&sca_esv=2d8b49fe239ead85&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKVrQy9Sx1e9sN0RPJ5mXKaBoqZxQ%3A1716172828611&ei=HLhKZq7wJJbh2roPmIGwoAw&ved=0ahUKEwiu7sn-mZuGAxWWsFYBHZgADMQQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E7%BD%91%E7%AB%99%E6%96%87%E4%BB%B6+%E5%85%B7%E6%9C%89%E6%B3%95%E5%BE%8B%E6%95%88%E5%8A%9B%E4%B9%88&gs_lp=Egxnd3Mtd2l6LXNlcnAiNeS4reWbvSDmlL_lupzpg6jpl6jnvZHnq5nmlofku7Yg5YW35pyJ5rOV5b6L5pWI5Yqb5LmIMggQABiiBBiJBTIIEAAYogQYiQVI4-cBUNsBWOvfAXACeACQAQCYAb4CoAHEHKoBCDAuMi4xMy4xuAEDyAEA-AEBmAIGoAKCCMICChAAGLADGNYEGEfCAggQABiABBiiBJgDAIgGAZAGBJIHBzIuMC4zLjGgB_gd&sclient=gws-wiz-serp#ip=1
+
+中华人民共和国宪法_国情相关_中国政府网
+https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm
+
+中华人民共和国执业医师法 - Google 搜索
+https://www.google.com/search?gs_ssp=eJwBNgDJ_woML2cvMTE0MTI0MmM4MAFKJOS4reWNjuS6uuawkeWFseWSjOWbveaJp-S4muWMu-W4iOazlYAAHWM&q=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%89%A7%E4%B8%9A%E5%8C%BB%E5%B8%88%E6%B3%95&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BDzhiye&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDBiABDIGCAAQRRg5MgkIARAuGAwYgAQyCQgCEAAYDBiABDIJCAMQLhgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABNIBCDkwMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中华人民共和国药品管理法
+https://www.nmpa.gov.cn/xxgk/fgwj/flxzhfg/20190827083801685.html?type=pc&m=
+
+中华人民共和国国家卫生健康委员会
+http://www.nhc.gov.cn/
+
+医疗机构管理条例
+http://www.nhc.gov.cn/fzs/s3576/202303/368c667ee1244ac4844a8a787185b8c6.shtml
+
+中华人民共和国精神卫生法（主席令第六十二号）
+https://www.gov.cn/flfg/2012-10/26/content_2253975.htm
+
+异地身份证过期 - Google 搜索
+https://www.google.com/search?q=%E5%BC%82%E5%9C%B0%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%BF%87%E6%9C%9F&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%BC%82%E5%9C%B0%E8%BA%AB%E4%BB%BD%E8%AF%81&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMggICBAAGA8YHjIICAkQABgPGB7SAQg2MjgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
