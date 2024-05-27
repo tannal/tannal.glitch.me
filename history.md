@@ -1,3 +1,89 @@
+# 2024-5-27
+
+maimai.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+迟发性运动障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%81%B2%E7%99%BC%E6%80%A7%E9%81%8B%E5%8B%95%E4%B8%8D%E8%83%BD
+
+精神分裂症 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E7%97%87
+
+焦虑障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%84%A6%E8%99%91%E7%97%87
+
+痴呆 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%B1%E6%99%BA%E7%97%87
+
+迟发性运动障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%81%B2%E7%99%BC%E6%80%A7%E9%81%8B%E5%8B%95%E4%B8%8D%E8%83%BD
+
+utc 时间 - Google 搜索
+https://www.google.com/search?q=utc+%E6%97%B6%E9%97%B4&rlz=1C1GCEA_enJP1090JP1090&oq=utc&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIOCAEQRRgnGDsYgAQYigUyCQgCEEUYORiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE5MDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Contributing - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/contributing/
+
+Issues · servo/saltfs
+https://github.com/servo/saltfs/issues
+
+回复电子邮件 - Gmail帮助
+https://support.google.com/mail/answer/9259856?hl=zh-Hans#reply-inline&zippy=%2C%E4%BA%86%E8%A7%A3%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95
+
+best regards - Google 搜索
+https://www.google.com/search?sca_esv=ce3d99e6953b6c80&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIZnMtzwh6tU6CYHCP1V3krQLZKCw:1716253299643&q=best+regards&uds=ADvngMhDNpEni0P7O0qvPcH0EAwuJim_CLVTuzF54wWRwTuOn50Liiu0ZbdMTxqlRHalzN63U3FeMOXJkD59zfOo-pWDoMxnv12ZFgNsWv1C-X44CxSXCryXaoRGYLf2-AQEwfSnCgqaZprmMu7gRRdLULXsLb2Eud4wIMIgVrXolLfcyZieS3ySkA-un0mdrCfrMHs1M_ucBnsS8qOgylaL5kVR7iwx7C949WKIwic7nNljZW4oriBlF_44h-4QYn2-Xi9-RGs7md2rOTQgvnUIf2GkZlQYFA&udm=2&prmd=sivnbmtz&sa=X&ved=2ahUKEwiL_JPixZ2GAxXXQ_UHHaIHA1EQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25
+
+(32) #general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167
+
+Programming Servo: the bird’s-eyes view | Programming Servo
+https://medium.com/programming-servo/programming-servo-the-birds-eyes-view-201d28220b9a
+
+servo/components/constellation/constellation.rs at be5b527ea34c8be1bfa53d4a4eaf2729e100db28 · servo/servo
+https://github.com/servo/servo/blob/be5b527ea34c8be1bfa53d4a4eaf2729e100db28/components/constellation/constellation.rs#L2501
+
+servo/components/servo/lib.rs at be5b527ea34c8be1bfa53d4a4eaf2729e100db28 · servo/servo
+https://github.com/servo/servo/blob/be5b527ea34c8be1bfa53d4a4eaf2729e100db28/components/servo/lib.rs#L633
+
+脉脉
+https://maimai.cn/feed_list
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+脉脉-成就职业梦想
+https://maimai.cn/
+
+普萘洛尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%99%AE%E8%90%98%E6%B4%9B%E5%B0%94
+
+氟哌啶醇 - Google 搜索
+https://www.google.com/search?q=%E6%B0%9F%E5%93%8C%E5%95%B6%E9%86%87&rlz=1C1GCEA_enJP1090JP1090&oq=fupai&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOzIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQLhiABNIBCDI1NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中华人民共和国卫生部令（第53号）——处方管理办法
+http://www.nhc.gov.cn/fzs/s3576/200804/1f2a754594e8419e9e164fedcae05f1c.shtml
+
+(10 封私信 / 80 条消息) 为什么书上说氟哌啶醇镇静作用最弱？ - 知乎
+https://www.zhihu.com/question/511301562
+
+Igalia application confirmation - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxSbkzPKzxbbKbRnKvsrcSHzDs
+
+Antía Puentes | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/apuentes
+
+(32) #general > Servo without SpiderMonkey - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20without.20SpiderMonkey
+
 # 2024-5-18
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
