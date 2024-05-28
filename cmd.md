@@ -6,6 +6,8 @@ wmic path Win32_USBControllerDevice get Dependent
 
 # Software install
 
+winget install -e --id JetBrains.Toolbox
+
 winget install ffmpeg
 winget install --id=Gyan.FFmpeg  -e
 winget install --id=MiKTeX.MiKTeX  -e
