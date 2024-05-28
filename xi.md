@@ -1,5 +1,9 @@
 # inbox
 
+https://www.youtube.com/watch?v=521NfGf7AR0
+
+browser and ui/toolkit flutter swiftui
+
 Masonry
 
 com
@@ -17,6 +21,9 @@ cargo run -p with_winit -- --test-scenes
 Text
 
 Parley
+
+text layout
+
 AccessKit
 
 # dev
