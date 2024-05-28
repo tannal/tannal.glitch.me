@@ -48,6 +48,8 @@ winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Microsoft.vcpkg
 winget install Microsoft.OpenJDK.21
 winget install Microsoft.OpenJDK.17
+winget install Microsoft.OpenJDK.11
+winget install Microsoft.OpenJDK.8
 winget install -e --id Unity.UnityHub
 winget install dart-sdk
 winget install -e --id GoLang.Go.1.20

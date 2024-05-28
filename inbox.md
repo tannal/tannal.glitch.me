@@ -1,5 +1,17 @@
 # 2024-5-28 0 | 0 W
 
+
+$env:JAVA_HOME='C:\Program Files\Microsoft\jdk-11.0.22.7-hotspot'
+$env:JAVA_HOME='C:\Program Files\Microsoft\jdk-17.0.10.7-hotspot'
+
+$ git clone https://github.com/reactor/reactor-netty.git
+$ cd reactor-netty
+$ ./gradlew build
+
+mvn clean install
+
+$env:https_proxy='http://192.168.43.1:7890'
+
 rustup target add aarch64-linux-android
 
 $env:ANDROID_HOME="C:\Users\tannal\AppData\Local\Android\Sdk"
