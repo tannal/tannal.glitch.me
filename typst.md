@@ -3,6 +3,10 @@
 # inbox
 
 Frame is a collection of frameItem
+Shape MathFrameItem
+
+Shape is Geometry plus fill and stroke
+
 
 
 Martin Haug
