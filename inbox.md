@@ -1,5 +1,9 @@
 # 2024-5-28 0 | 0 W
 
+cargo run -p with_winit
+
+https://developer.android.com/studio/intro/update
+
 https://alternativeto.net/software/ncdu/?platform=windows
 
 
