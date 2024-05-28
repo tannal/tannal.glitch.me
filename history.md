@@ -1,5 +1,137 @@
 # 2024-5-28
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+基础班大项目成绩公示 - 飞书云文档
+https://bytedance.larkoffice.com/sheets/shtcnmh1DwL7O2J59roHw9G3ote?sheet=d160ec
+
+goldenBill/douyin-fighting: 极简版抖音
+https://github.com/goldenBill/douyin-fighting
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley/tree/main
+
+Update the IDE and SDK tools  |  Android Studio  |  Android Developers
+https://developer.android.com/studio/intro/update
+
+Thank you for downloading the Toolbox App!
+https://www.jetbrains.com/toolbox-app/download/download-thanks.html?platform=windows
+
+wgpu/player/README.md at d9c054c645af0ea9ef81617c3e762fbf0f3fecda · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/blob/d9c054c645af0ea9ef81617c3e762fbf0f3fecda/player/README.md?plain=1#L11
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+Linebender work day agenda - Google 文档
+https://docs.google.com/document/d/1-FfAIdTAN56lDpOIrKDD9nl73noVUX6-krjNRcEkFTQ/edit
+
+Tomorrow Corporation Tech Demo - YouTube
+https://www.youtube.com/watch?v=72y2EC5fkcE
+
+(1) #xilem > xilem#310: New xilem_core - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/xilem.23310.3A.20New.20xilem_core
+
+Move `xilem` onto a new `xilem_core`, which uses a generic View trait by DJMcNab · Pull Request #310 · linebender/xilem
+https://github.com/linebender/xilem/pull/310
+
+Pax Engine
+https://github.com/paxengine
+
+Introduction to Pax - The Pax Docs
+https://docs.pax.dev/#example
+
+Xilem - Google 云端硬盘
+https://drive.google.com/drive/folders/1mmrRnlpYb3j5P0ewAOcY_zj2tTH5u5aO
+
+Office Hours 2024-05-23 - Google 文档
+https://docs.google.com/document/d/1pepGgvIzV5qI-puXydg6hqYlFQIZj1R6i_J1GQwANx8/edit
+
+2024-03-29 | Vello robust memory followup - Google 文档
+https://docs.google.com/document/d/1mvnGBv0OE3fDYr-8nn8FKRcNr9mIGg_7jJ3WIyH0-JU/edit
+
+(1) #zulip > linkifiers - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147923-zulip/topic/linkifiers
+
+Make execution on Android work properly by DJMcNab · Pull Request #309 · linebender/xilem
+https://github.com/linebender/xilem/pull/309/files
+
+rustc performance data
+https://perf.rust-lang.org/compare.html?check=false&doc=false&opt=false&full=false&incrFull=false&incrUnchanged=false
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=CubicTo&op=translate
+
+(1) #xilem > iOS support - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/iOS.20support
+
+Home | AList文档
+https://alist.nn.ci/zh/
+
+alist-org/alist: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+https://github.com/alist-org/alist
+
+webdav - Google 搜索
+https://www.google.com/search?q=webdav&rlz=1C1GCEA_enJP1090JP1090&oq=webdev&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIHCAMQABiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCDI2NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+WebDAV | AList文档
+https://alist.nn.ci/zh/guide/webdav.html
+
+vertical synchronization - Google 搜索
+https://www.google.com/search?q=vertical+synchronization&rlz=1C1GCEA_enJP1090JP1090&oq=vertical+sy&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4NzRqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+synctv-org/synctv: Synchronized viewing, theater, live streaming, video, long-distance relationship
+https://github.com/synctv-org/synctv
+
+SyncTV - 房间列表
+https://demo.synctv.wiki/web/rooms
+
+java - "No matching configuration of project :entitymodel was found" when Declaring Dependencies between projects with Gradle Kotlin Springboot - Stack Overflow
+https://stackoverflow.com/questions/76788909/no-matching-configuration-of-project-entitymodel-was-found-when-declaring-dep
+
+Swordfish90/Lemuroid: All in one emulator on Android!
+https://github.com/Swordfish90/Lemuroid
+
+Excalidraw
+http://draw.tanmeng.org/
+
+(2) Discord | "How to undo show rule for text replacement" | Typst
+https://discord.com/channels/1054443721975922748/1243572247726133371/1243578016810926100
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+How to set ANDROID_NDK_HOME so that Android Studio does not ask for ndk location? - Stack Overflow
+https://stackoverflow.com/questions/39159357/how-to-set-android-ndk-home-so-that-android-studio-does-not-ask-for-ndk-location
+
+I need to install Android API 30. But I cannot see that API in the SDK platform list in Android Studio. How can I install it? - Stack Overflow
+https://stackoverflow.com/questions/70752639/i-need-to-install-android-api-30-but-i-cannot-see-that-api-in-the-sdk-platform
+
+Error compiling to Android with cargo apk · Issue #1307 · rust-windowing/glutin
+https://github.com/rust-windowing/glutin/issues/1307
+
+Kaiser1989/rust-android-example: Simple example to run a rust game loop on android
+https://github.com/Kaiser1989/rust-android-example
+
+yjs demo · Issue #64 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/64
+
+android studio - NDK does not contain any platforms - Stack Overflow
+https://stackoverflow.com/questions/56228822/ndk-does-not-contain-any-platforms
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
 typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
