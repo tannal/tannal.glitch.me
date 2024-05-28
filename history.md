@@ -1,3 +1,65 @@
+# 2024-5-28
+
+typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+aarch64: Add support for `fnmadd`/`fmsub`/`fnmsub` · Issue #8603 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8603
+
+(38) #general > Labeling issues and PRs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Labeling.20issues.20and.20PRs
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+Excalidraw
+http://draw.tanmeng.org/
+
+(133) #checkins > Raph Levien - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Raph.20Levien
+
+Linebender work day agenda - Google 文档
+https://docs.google.com/document/d/1-FfAIdTAN56lDpOIrKDD9nl73noVUX6-krjNRcEkFTQ/edit
+
+Strategy for robust dynamic memory, readback, and async · Issue #366 · linebender/vello
+https://github.com/linebender/vello/issues/366
+
+Subpixel rendering - Wikipedia
+https://en.wikipedia.org/wiki/Subpixel_rendering
+
+auth0.openai.com/u/login/password?state=hKFo2SBqMFFOVnZoS2xJejd0MFdGRGhpQ0pLRFI3Rkx2cEhDMKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEI1UU1pbEw5U1k1VS1WSUczZVRwaGJteWJ3Wm9KUlpso2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc
+https://auth0.openai.com/u/login/password?state=hKFo2SBqMFFOVnZoS2xJejd0MFdGRGhpQ0pLRFI3Rkx2cEhDMKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEI1UU1pbEw5U1k1VS1WSUczZVRwaGJteWJ3Wm9KUlpso2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc
+
+ncdu for Windows? : r/sysadmin
+https://www.reddit.com/r/sysadmin/comments/9995qt/ncdu_for_windows/
+
+ncdu Alternatives for Windows: Top 10 Disk Usage Analyzers & Similar Apps | AlternativeTo
+https://alternativeto.net/software/ncdu/?platform=windows
+
+WinDirStat - Windows Directory Statistics
+https://windirstat.net/index.html
+
+WinDirStat: Windows Directory Statistics download | SourceForge.net
+https://sourceforge.net/projects/windirstat/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Swordfish90/Lemuroid: All in one emulator on Android!
+https://github.com/Swordfish90/Lemuroid
+
+Android Studio - Gradle sync project failed - Stack Overflow
+https://stackoverflow.com/questions/22148584/android-studio-gradle-sync-project-failed
+
+Update the IDE and SDK tools  |  Android Studio  |  Android Developers
+https://developer.android.com/studio/intro/update
+
+JetBrains Toolbox App: Manage Your Tools with Ease
+https://www.jetbrains.com/toolbox-app/
+
+Download and install JetBrains Toolbox with winget
+https://winget.run/pkg/JetBrains/Toolbox
+
 # 2024-5-27
 
 maimai.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

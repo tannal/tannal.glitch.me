@@ -2,6 +2,7 @@
 
 # inbox
 
+Frame is a collection of frameItem
 
 
 Martin Haug
