@@ -1,5 +1,7 @@
 # 2024-5-28 0 | 0 W
 
+adb connect 192.168.129.148:5555
+
 cargo run -p with_winit
 
 https://developer.android.com/studio/intro/update
