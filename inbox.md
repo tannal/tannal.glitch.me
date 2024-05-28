@@ -1,6 +1,11 @@
+# 2024-5-28 0 | 0 W
+
+https://alternativeto.net/software/ncdu/?platform=windows
+
+
+# 2024-5-27 0 | 0 W
+
 # 2024-5-21 0 | 0 W
-
-
 
 # 2024-5-20 0 | 0 W
 
