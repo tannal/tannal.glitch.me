@@ -1,5 +1,113 @@
 # 2024-5-28
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+How to Think about Algorithms 2nd Edition pdf - Google 搜索
+https://www.google.com/search?q=How+to+Think+about+Algorithms+2nd+Edition+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=how+to&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg7Mg4IAhBFGDkYQxiABBiKBTIOCAMQRRgnGDsYgAQYigUyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg9MgYIBxBFGDzSAQc5MTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Excalidraw
+http://draw.tanmeng.org/
+
+Issues · hoangtien2k3/shopapp-backend
+https://github.com/hoangtien2k3/shopapp-backend/issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+免费绘制您的定制在线签名 - Sign.Plus
+https://www.sign.plus/zh/online-signature-generator/draw-signature
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+东北师范大学融合门户
+https://m-443.webvpn.nenu.edu.cn/portal_main/toPortalPage;jsessionid=17272FA344C8BFBF67D6B6A841E3CC22-n1?active_nav_num=1
+
+Repository search results
+https://github.com/search?q=udp%20client%20server&type=repositories
+
+关于做好2024届毕业生离校教育的通知
+https://m-443.webvpn.nenu.edu.cn/page/viewNews?ID=91641add6a534234bab06264e3f50086&type=notice&TITLE=5YWz5LqO5YGa5aW9MjAyNOWxiuavleS4mueUn+emu+agoeaVmeiCsueahOmAmuefpQ==&TIME=2024-05-28&flag=new
+
+网上服务大厅
+https://my.webvpn.nenu.edu.cn/portal_main/toPortalPage
+
+服务详情
+https://my.webvpn.nenu.edu.cn/hallIndex/showAppDetail?appid=684cc7c084b24a7b82115b60a4948836
+
+学生图书馆离校申请
+https://oa-443.webvpn.nenu.edu.cn/spa/workflow/static4form/index.html?_rdm=1716889020355#/main/workflow/req?isOpenContinuationProcess=undefined&sessionkey=6521_6521_43611_1716889019818&requestid=134703&belongTest=false&f_weaver_belongto_usertype=0&f_weaver_belongto_userid=43611&saveType=undefined&needRemind=false&isaffirmance=0&selectNextFlow=0&_key=cz7qc3
+
+关于图书馆为2024年春季学期毕业生办理离校手续的通知
+https://m-443.webvpn.nenu.edu.cn/page/viewNews?ID=299a92d1736f48e1b73e767cd4b0d63f&flag=new
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Repository search results
+https://github.com/search?q=cloud+drive+language%3ATypeScript&type=repositories&l=TypeScript&p=2
+
+javascript - With <script crossorigin='anonymous'>, why is a script "blocked by CORS policy"? - Stack Overflow
+https://stackoverflow.com/questions/41069330/with-script-crossorigin-anonymous-why-is-a-script-blocked-by-cors-policy
+
+dictionary - Golang map internal implementation - how does it search the map for a key? - Stack Overflow
+https://stackoverflow.com/questions/37995648/golang-map-internal-implementation-how-does-it-search-the-map-for-a-key
+
+go/src/runtime/map.go at master · golang/go
+https://github.com/golang/go/blob/master/src/runtime/map.go
+
+single flight - Google 搜索
+https://www.google.com/search?q=single+flight&rlz=1C1GCEA_enJP1090JP1090&oq=single+fli&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBKgCALACAA&sourceid=chrome&ie=UTF-8
+
+77. 组合 - 力扣（LeetCode）
+https://leetcode.cn/problems/combinations/
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+yjs-demos/quill/quill.js at main · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/blob/main/quill/quill.js#L14
+
+yjs/y-websocket: Websocket Connector for Yjs
+https://github.com/yjs/y-websocket
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+#general > Servo without SpiderMonkey - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Servo.20without.20SpiderMonkey
+
+jkelleyrtp/stylo-dioxus: Render HTML and CSS with Servo, Taffy, and Vello
+https://github.com/jkelleyrtp/stylo-dioxus
+
+DioxusLabs/dioxus: Fullstack GUI library for web, desktop, mobile, and more.
+https://github.com/dioxuslabs/dioxus
+
+(86) #cranelift > .rodata .bss .data, lowering, and structs - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/.2Erodata.20.2Ebss.20.2Edata.2C.20lowering.2C.20and.20structs
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
