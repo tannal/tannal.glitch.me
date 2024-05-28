@@ -1,5 +1,9 @@
 # inbox
 
+cargo search cargo-apk
+
+https://github.com/linebender/xilem
+
 https://www.youtube.com/watch?v=521NfGf7AR0
 
 browser and ui/toolkit flutter swiftui

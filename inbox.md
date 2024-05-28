@@ -1,5 +1,12 @@
 # 2024-5-28 0 | 0 W
 
+rustup target add aarch64-linux-android
+
+$env:ANDROID_HOME="C:\Users\tannal\AppData\Local\Android\Sdk"
+$env:ANDROID_NDK_ROOT='C:\Users\tannal\AppData\Local\Android\Sdk\ndk\26.1.10909125'
+
+cargo search cargo-apk
+
 adb connect 192.168.129.148:5555
 
 cargo run -p with_winit

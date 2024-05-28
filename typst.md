@@ -2,6 +2,10 @@
 
 # inbox
 
+selector
+
+.\target\debug\typst.exe query .\test.typ heading
+
 Frame is a collection of frameItem
 Shape MathFrameItem
 
