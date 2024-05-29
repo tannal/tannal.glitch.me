@@ -1,6 +1,8 @@
 
 # inbox
 
+5+ patches to firefox
+
 familiar with css grid and css flex layout
 
 the node has a dependency called undici which is a http client primary for support fetch api in node.
