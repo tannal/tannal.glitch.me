@@ -1,6 +1,8 @@
 
 # inbox
 
+familiar with css grid and css flex layout
+
 the node has a dependency called undici which is a http client primary for support fetch api in node.
 
 
@@ -22,7 +24,7 @@ trust me, my english is good.
 
 I know how to sing.
 
-I interned at internet company doing collabrative software.
+I interned at an internet company doing collabrative software.
 
 I programmed.
 
