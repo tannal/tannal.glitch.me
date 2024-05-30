@@ -1,5 +1,9 @@
 # 2024-5-30 0 | 0 W
 
+甲硝唑口颊片
+
+https://pldb.io/concepts/rust.html
+
 CREATE ROLE replica REPLICATION LOGIN PASSWORD '123456';
 data/pg_hba.con
 
