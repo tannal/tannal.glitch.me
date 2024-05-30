@@ -3,6 +3,21 @@
 
 # inbox
 
+reset_ts+0x9b
+fold_tcg_ld_memcopy+0xdd
+tcg_optimize+0x602
+tcg_gen_code+0x162
+setjmp_gen_code+0x135
+tb_gen_code+0x281
+cpu_exec_loop+0x101
+cpu_exec_setjmp+0x5a
+cpu_exec+0x98
+tcg_cpu_exec+0x5a
+mttcg_cpu_thread_fn+0x155
+qemu_thread_start+0x12d
+start_thread+0x2f2
+__clone3+0x2f
+
 ~/tannalwork/projects/qemu/build/qemu-system-x86_64 mylinux-core-glibc.iso -m 4G -S -gdb tcp::6666
 
 gdb -ex "target remote :6666" ./linux6.7/vmlinux
