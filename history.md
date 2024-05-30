@@ -1,3 +1,188 @@
+# 2024-5-30
+
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+git.git - The core git plumbing
+https://git.kernel.org/pub/scm/git/git.git/
+
+Play Grid Attack – CSS Game to learn CSS Grid
+https://codingfantasy.com/games/css-grid-attack/play?mode=easy&love=true
+
+duckdb/duckdb: DuckDB is an in-process SQL OLAP Database Management System
+https://github.com/duckdb/duckdb
+
+Fix the RenderFlex.computeDryBaseline implementation to match compute… · flutter/flutter@0214afb
+https://github.com/flutter/flutter/commit/0214afb40b82880b82c15d158c1b021e128217be
+
+CSS Flexible Box Layout Module Level 1
+https://drafts.csswg.org/css-flexbox-1/#flex-baselines
+
+Embedded Linux, kernel, drivers, Yocto, Buildroot and graphics training
+https://bootlin.com/training/
+
+Issues · linebender/druid
+https://github.com/linebender/druid/issues
+
+graphics-slides.pdf
+https://bootlin.com/doc/training/graphics/graphics-slides.pdf
+
+#checkins - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins
+
+Office Hours 2024-05-30 - Google 文档
+https://docs.google.com/document/d/18NZ3zdzALn3n9PgvnUrWUlm0KuUJoSX43GO37Cur3-A/edit
+
+Add basic translation of Touch to PointerEvent. by xorgy · Pull Request #313 · linebender/xilem
+https://github.com/linebender/xilem/pull/313/files
+
+KCloud-Platform-IoT/laokou-cloud/laokou-monitor/src/main/java/org/laokou/monitor at master · KouShenhai/KCloud-Platform-IoT
+https://github.com/KouShenhai/KCloud-Platform-IoT/tree/master/laokou-cloud/laokou-monitor/src/main/java/org/laokou/monitor
+
+#general > Directory listing feature - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Directory.20listing.20feature
+
+servo/components/net/http_cache.rs at 42061ccafe67ac0440886e48e17a02f8b60525bc · servo/servo
+https://github.com/servo/servo/blob/42061ccafe67ac0440886e48e17a02f8b60525bc/components/net/http_cache.rs#L837
+
+Move webgl_channel into base crate by wusyong · Pull Request #32339 · servo/servo
+https://github.com/servo/servo/pull/32339
+
+(67) #general > Component model critique - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Component.20model.20critique
+
+A stream of consciousness on the future of async in the Component Model by Luke Wagner @ Wasm I/O 24 - YouTube
+https://www.youtube.com/watch?v=y3x4-nQeXxc
+
+Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs
+https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+mvn install skip tests - Google 搜索
+https://www.google.com/search?q=mvn+install+skip+tests&sca_esv=a76695392a9980a7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIcaqgo8LpRg1arPiyeOVoT5pdRiQ%3A1716981395423&ei=kw5XZoi2Gbn7seMP3sa1YA&oq=mvn+install+skip&gs_lp=Egxnd3Mtd2l6LXNlcnAiEG12biBpbnN0YWxsIHNraXAqAggAMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIFEAAYgAQyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgoQABiABBgKGMsBSLsLUAxYkQRwAXgBkAEAmAGoAaABgAaqAQMwLjW4AQPIAQD4AQGYAgagAo8GwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigWYAwCIBgGQBgqSBwMxLjWgB7gS&sclient=gws-wiz-serp
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+112. 路径总和 - 力扣（LeetCode）
+https://leetcode.cn/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150
+
+How to Think about Algorithms 2nd Edition pdf amazon - Google 搜索
+https://www.google.com/search?q=How+to+Think+about+Algorithms+2nd+Edition+pdf+amazon&sca_esv=f1470b44e75781e4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJeqk9ddk6Y4WAihrwBujUNtsPJOA%3A1716987870975&ei=3idXZquWO6rg4-EP27iR4AU&ved=0ahUKEwir_Yeh9rKGAxUq8DgGHVtcBFwQ4dUDCBA&uact=5&oq=How+to+Think+about+Algorithms+2nd+Edition+pdf+amazon&gs_lp=Egxnd3Mtd2l6LXNlcnAiNEhvdyB0byBUaGluayBhYm91dCBBbGdvcml0aG1zIDJuZCBFZGl0aW9uIHBkZiBhbWF6b24yCBAAGIAEGKIEMggQABiABBiiBEjdClAhWJkJcAB4AZABAJgBiQKgAZIMqgEFMC43LjG4AQPIAQD4AQGYAgigAvkKwgIEEAAYR8ICBRAhGKABwgIHECEYoAEYCpgDAIgGAZAGA5IHBTEuNC4zoAftEQ&sclient=gws-wiz-serp#ip=1
+
+How to Think about Algorithms : Edmonds, Jeff: Amazon.sg: Books
+https://www.amazon.sg/Think-about-Algorithms-Jeff-Edmonds/dp/1009302132/ref=asc_df_1009302132/?tag=googleshoppin-22&linkCode=df0&hvadid=692618114766&hvpos=&hvnetw=g&hvrand=17972362063448639439&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2702&hvtargid=pla-2300132282117&psc=1&mcid=d1d50d5c723d358cb881e4cb07954a05&gad_source=1
+
+喹硫平 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%96%B9%E7%A1%AB%E5%B9%B3#cite_note-7
+
+非典型抗精神病药物 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%85%B8%E5%9E%8B%E6%8A%97%E7%B2%BE%E7%A5%9E%E7%97%85%E8%97%A5%E7%89%A9
+
+Wayback Machine
+https://web.archive.org/web/20200219013637/https://pdfs.semanticscholar.org/8812/afd4bc713c03435b68f2bb6ea456c611b0b2.pdf
+
+Quetiapine
+https://www.healthhub.sg/a-z/medications/quetiapine
+
+普萘洛尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%99%AE%E8%90%98%E6%B4%9B%E5%B0%94
+
+β受体阻滞剂 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%CE%92%E5%8F%97%E4%BD%93%E9%98%BB%E6%BB%9E%E5%89%82
+
+普萘洛尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%99%AE%E8%90%98%E6%B4%9B%E5%B0%94
+
+(1) Discord | #everyone🥳 | WasmEdge
+https://discord.com/channels/846973236280950824/846973236280950827
+
+Flex class - widgets library - Dart API
+https://api.flutter.dev/flutter/widgets/Flex-class.html
+
+more wg0's comments | Hacker News
+https://news.ycombinator.com/threads?id=wg0&next=40269828
+
+Get Elvish
+https://elv.sh/get/
+
+WebKit/Source/WebCore/layout/formattingContexts/flex/FlexLayout.cpp at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/WebCore/layout/formattingContexts/flex/FlexLayout.cpp#L506-L536
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Layout%20algorithm&sort=byPopularity&type=story
+
+Issues · erikbrinkman/d3-dag
+https://github.com/erikbrinkman/d3-dag/issues
+
+RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching
+https://datatracker.ietf.org/doc/html/rfc7234#section-3
+
+Ask HN: What is this weird (Flex layout) C++ code? | Hacker News
+https://news.ycombinator.com/item?id=36010486
+
+more compressedgas's comments | Hacker News
+https://news.ycombinator.com/threads?id=compressedgas&next=40112946
+
+rfeet.qrk
+https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/full_papers/short_papers/padioleau/padioleau.pdf
+
+Resolving Conflicts with Rebase - Everything You'll Need to Know About Git
+https://frontendmasters.com/courses/everything-git/resolving-conflicts-with-rebase/
+
+Visual Studio Code: .git folder/file hidden - Stack Overflow
+https://stackoverflow.com/questions/40818354/visual-studio-code-git-folder-file-hidden
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=donlad%20knuth&sort=byPopularity&type=story
+
+Donald Knuth on work habits, problem solving, and happiness
+https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/
+
+webpack/webpack: A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+https://github.com/webpack/webpack/tree/main
+
+Learn Webpack 4 with Sean Larkin | Webpack File Loader | Frontend Masters
+https://frontendmasters.com/courses/webpack-fundamentals/
+
+Luke Wagner - Google 搜索
+https://www.google.com/search?q=Luke+Wagner&rlz=1C1GCEA_enJP1090JP1090&oq=Luke+Wagner&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=best%20common%20ancestor%0A&op=translate
+
+patricklizon/react-typescript-core-boilerplate: Simple boilerplate for TypeScript and React SPAs
+https://github.com/patricklizon/react-typescript-core-boilerplate
+
+Comparison & Migration | knip.dev
+https://knip.dev/explanations/comparison-and-migration/#unimported
+
+hello universe
+http://localhost:3000/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hot%20reloading&sort=byPopularity&type=story
+
+Hot-code reloading on macOS/arm64 with Zig
+http://www.jakubkonka.com/2022/03/16/hcs-zig.html
+
+Deno 1.38: HTML doc generator and HMR | Hacker News
+https://news.ycombinator.com/item?id=38126566
+
+BrowserSync/browser-sync: Keep multiple browsers & devices in sync when building websites. https://browsersync.io
+https://github.com/Browsersync/browser-sync
+
+KCloud-Platform-IoT/laokou-common/laokou-common-secret/src/main/java/org/laokou/common/secret/annotation/EnableApiSecret.java at master · KouShenhai/KCloud-Platform-IoT
+https://github.com/KouShenhai/KCloud-Platform-IoT/blob/master/laokou-common/laokou-common-secret/src/main/java/org/laokou/common/secret/annotation/EnableApiSecret.java
+
+quangdangfit/goshop: E-Commerce backend system via Golang and Postgres
+https://github.com/quangdangfit/goshop
+
 # 2024-5-29
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

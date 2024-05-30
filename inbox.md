@@ -1,5 +1,7 @@
 # 2024-5-30 0 | 0 W
 
+git log -S A -p
+
 rebase then squashing commits into one commit.
 
 edit the same line
