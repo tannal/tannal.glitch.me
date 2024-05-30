@@ -3,6 +3,99 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Turbopack Quickstart – Turbopack
+https://turbo.build/pack/docs
+
+Turborepo 1.13 – Turbo
+https://turbo.build/blog/turbo-1-13-0
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+毕业
+https://hyf.me/graduation
+
+rolldown/crates/rolldown/src/runtime/mod.rs at main · rolldown/rolldown
+https://github.com/rolldown/rolldown/blob/main/crates/rolldown/src/runtime/mod.rs
+
+#xilem > Strong typed composable/modifier styling with ext. traits - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Strong.20typed.20composable.2Fmodifier.20styling.20with.20ext.2E.20traits
+
+rust-project-goals/src/2024h2/Relaxing-the-Orphan-Rule.md at main · rust-lang/rust-project-goals
+https://github.com/rust-lang/rust-project-goals/blob/main/src/2024h2/Relaxing-the-Orphan-Rule.md
+
+Markdown Rendering with Awk
+https://www.mgmarlow.com/words/2024-03-23-markdown-awk/
+
+Validating References with Lifetimes - The Rust Programming Language
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-elision
+
+#general > GitHub Actions issues - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/GitHub.20Actions.20issues
+
+GitHub Status - Incident History
+https://www.githubstatus.com/history
+
+This month in Servo: new CSS units, color emoji, servoshell, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/blog/2024/05/30/this-month-in-servo/
+
+192.168.43.1:8080/storage/shared/output.txt
+http://192.168.43.1:8080/storage/shared/output.txt
+
+Dolby Vision - Google 搜索
+https://www.google.com/search?q=Dolby+Vision&sca_esv=c305179642ddeb9a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIK1AA5fbF2OCM4e_bCs6nGp92ngnw%3A1717065474959&ei=AldYZr2KOvOUseMPtcya6A4&ved=0ahUKEwi9k8Otl7WGAxVzSmwGHTWmBu0Q4dUDCBA&uact=5&oq=Dolby+Vision&gs_lp=Egxnd3Mtd2l6LXNlcnAiDERvbGJ5IFZpc2lvbjIIEAAYBxgKGB4yCBAAGAcYChgeMggQABgHGAoYHjIIEAAYBxgKGB4yCBAAGAcYChgeMggQABgHGAoYHjIIEAAYBxgKGB4yCBAAGAcYChgeMggQABgHGAoYHjIIEAAYBxgKGB5I9RZQ1wNY_RVwAXgAkAEAmAGaAaABmgGqAQMwLjG4AQPIAQD4AQGYAgGgAp8BmAMAiAYBkgcDMC4xoAepAw&sclient=gws-wiz-serp
+
+js-libp2p/packages at main · libp2p/js-libp2p
+https://github.com/libp2p/js-libp2p/tree/main/packages
+
+libunwind/libunwind: libunwind official github repo (in need of new / additional maintainer, mail/open issue if interested)
+https://github.com/libunwind/libunwind
+
+libunwind - Google 搜索
+https://www.google.com/search?q=libunwind&rlz=1C1GCEA_enJP1090JP1090&oq=libunwind&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcxMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+https://github.com/bilibili/ijkplayer
+
+OpenMAX - Google 搜索
+https://www.google.com/search?q=OpenMAX&rlz=1C1GCEA_enJP1090JP1090&oq=OpenMAX&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzE3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+pnggroup/libpng: LIBPNG: Portable Network Graphics support, official libpng repository
+https://github.com/pnggroup/libpng
+
+libperf: library for perf events monitoring - DevConf.CZ 2020 - YouTube
+https://www.youtube.com/watch?v=9fC0WK5ISIw
+
+ChatGPT
+https://chatgpt.com/?oai-dm=1
+
+集成指南 · MSDK Developer Reference
+https://docs.msdk.qq.com/v5/zh-CN/Access/
+
+V2EX
+https://cn.v2ex.com/
+
+Libp2p – A modular network stack | Hacker News
+https://news.ycombinator.com/item?id=18163231
+
+Aregrid
+https://github.com/aregrid
+
+camo.githubusercontent.com/45276a04ca266137999148161d4a81605af44380d69bf03ba959379d4c96bddb/68747470733a2f2f73706f6e736f72732e6c796e2e6f6e652f73706f6e736f72732e737667
+https://camo.githubusercontent.com/45276a04ca266137999148161d4a81605af44380d69bf03ba959379d4c96bddb/68747470733a2f2f73706f6e736f72732e6c796e2e6f6e652f73706f6e736f72732e737667
+
+rain9155 (Mr.Chen)
+https://github.com/rain9155
+
+GitCode - 开发者的代码家园
+https://gitcode.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 accel/tcg/translate-all.c · master · QEMU / QEMU · GitLab
 https://gitlab.com/qemu-project/qemu/-/blob/master/accel/tcg/translate-all.c
 
