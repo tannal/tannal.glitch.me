@@ -1,5 +1,16 @@
 # 2024-5-30 0 | 0 W
 
+CREATE ROLE replica REPLICATION LOGIN PASSWORD '123456';
+data/pg_hba.con
+
+host   goshop      ubuntu       0.0.0.0/0          md5
+
+create database goshop;
+vim data/postgresql.conf
+
+pkill postgres
+./pg_ctl -D data -l logfile start
+
 git log -S A -p
 
 rebase then squashing commits into one commit.

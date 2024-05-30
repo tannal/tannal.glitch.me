@@ -193,7 +193,7 @@ https://paquier.xyz/
 ```bash
 ./initdb -d data
 
-pg_ctl -D data -l logfile start
+./pg_ctl -D data -l logfile start
 
 ./postgres -D data/
 
