@@ -1,5 +1,11 @@
 # 2024-5-30 0 | 0 W
 
+$env:LD_TRACE_LOADED_OBJECTS=1
+export LD_TRACE_LOADED_OBJECTS=1
+unset LD_TRACE_LOADED_OBJECTS
+
+https://career.arcsoft.com.cn/intern/jobs
+
 https://github.com/rust-mobile
 https://github.com/rust-embedded
 https://github.com/gfx-rs/

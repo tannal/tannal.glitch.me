@@ -1,5 +1,140 @@
 # 2024-5-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+accel/tcg/translate-all.c · master · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/blob/master/accel/tcg/translate-all.c
+
+Make execution on Android work properly by DJMcNab · Pull Request #309 · linebender/xilem
+https://github.com/linebender/xilem/pull/309
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+Rust Embedded
+https://github.com/rust-embedded
+
+QtiMapper.cpp - Android Code Search
+https://cs.android.com/android/platform/superproject/+/master:hardware/qcom/sdm845/display/gralloc/QtiMapper.cpp?hl=zh-cn
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+x86 64 - Using objdump on ARM architecture: Disassembling to INTEL arch - Stack Overflow
+https://stackoverflow.com/questions/75495053/using-objdump-on-arm-architecture-disassembling-to-intel-arch
+
+c++ - Is the return type of a function part of the mangled name? - Stack Overflow
+https://stackoverflow.com/questions/40791413/is-the-return-type-of-a-function-part-of-the-mangled-name
+
+fingerprint - Google 搜索
+https://www.google.com/search?q=fingerprint&rlz=1C1GCEA_enJP1090JP1090&oq=fingerprint&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg9MgYIBxBFGDzSAQgxODQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Index of /storage/shared/
+http://192.168.43.1:8080/storage/shared/
+
+Coffee Compiler Club, 2024_05_24 - YouTube
+https://www.youtube.com/watch?v=xJwDXJzc-Fo
+
+cargo apk - Google 搜索
+https://www.google.com/search?q=cargo+apk&rlz=1C1GCEA_enJP1090JP1090&oq=cargo+apk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAUYHjIICAMQABgFGB4yCAgEEAAYBRgeMggIBRAAGAUYHjIICAYQABgFGB4yBggHEEUYPdIBCDIyNjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cargo-apk&sort=byPopularity&type=story
+
+Code search results
+https://github.com/search?q=org%3Arust-mobile+%22Driver+Path%22&type=code
+
+flamegraph/graph 位于 main - flamegraph - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/flamegraph/src/branch/main/graph
+
+05-30 15:42:51.373 32636 32726 I AdrenoVK-0: Build Date : 10/04/21 - Google 搜索
+https://www.google.com/search?q=05-30+15%3A42%3A51.373+32636+32726+I+AdrenoVK-0%3A+Build+Date+%3A+10%2F04%2F21&rlz=1C1GCEA_enJP1090JP1090&oq=05-30+15%3A42%3A51.373+32636+32726+I+AdrenoVK-0%3A+Build+Date++++++++++++++%3A+10%2F04%2F21&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+小米13 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B313#cite_note-10
+
+巴拿赫-塔斯基定理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E8%B5%AB-%E5%A1%94%E6%96%AF%E5%9F%BA%E5%AE%9A%E7%90%86
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+AIvI-M-RL1.pdf
+https://wikileaks.org/ciav7p1/cms/files/AIvI-M-RL1.pdf
+
+Android in Depth : r/androiddev
+https://www.reddit.com/r/androiddev/comments/cxwo8t/android_in_depth/
+
+4. DroidJam 2018 - Decoding Android Runtime - Jitin Sharma - YouTube
+https://www.youtube.com/watch?v=9e8yQKVkGgo
+
+Home of the Android Internals series change log
+https://newandroidbook.com/ChangeLog.html
+
+*OS Internals: - Welcome!
+https://newosxbook.com/isaterminal.html
+
+Android Internals - Lecture 5
+https://ocw.cs.pub.ro/courses/_media/smd/cursuri/lecture-internals.pdf
+
+What differs Android from other Linux based systems? - sergioprado.blog
+https://sergioprado.blog/what-differs-android-from-other-linux-based-systems/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=Jonathan%20Levin&sort=byPopularity&type=story
+
+MariaDB's Columnar Store
+https://www.jonathanlevin.co.uk/2016/12/mariadbs-columnar-store.html
+
+newandroidbook.com/tools/
+https://newandroidbook.com/tools/
+
+cstest
+https://newosxbook.com/files/moxii3/AppendixA.pdf
+
+Code search results
+https://github.com/search?q=repo%3Aapple-oss-distributions%2Fxnu+vm_map&type=code
+
+Repository search results
+https://github.com/search?q=Jonathan+Levin&type=repositories&p=1
+
+About | Effie's Blog
+https://www.effie.io/about
+
+(1) #checkins > Aaron Muir Hamilton - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Aaron.20Muir.20Hamilton
+
+Issue search results
+https://github.com/search?q=involves%3ADJMcNab&type=issues
+
+dynamodb github - Google 搜索
+https://www.google.com/search?q=dynamodb+github&sca_esv=15054ed72d731ecb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL8NCfeAgshSb2puYQKXL4U4VMepg%3A1717058638514&ei=TjxYZpT-Hvac4-EPrc688AI&ved=0ahUKEwiU3dPx_bSGAxV2zjgGHS0nDy4Q4dUDCBA&uact=5&oq=dynamodb+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2R5bmFtb2RiIGdpdGh1YjIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeSMcIUE1YygdwAXgBkAEAmAG6AaAB4AeqAQMwLja4AQPIAQD4AQGYAgegAvwHwgIKEAAYsAMY1gQYR8ICChAAGIAEGAoYywHCAgQQABgemAMAiAYBkAYKkgcDMS42oAfTEw&sclient=gws-wiz-serp
+
+cargo-apk: Configure APK signing keystore location through manifest (… · rust-mobile/ndk@caeb591
+https://github.com/rust-mobile/ndk/issues
+
+实习招聘—虹软（ArcSoft）
+https://www.arcsoft.com.cn/job/CadetIntroduce.html
+
+实习生招聘
+https://career.arcsoft.com.cn/intern/jobs
+
+192.168.43.1:8080/storage/shared/output.txt
+http://192.168.43.1:8080/storage/shared/output.txt
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=android.hardware.audio.common-util.so%0Aandroid.hardware.audio.common%402.0-util.so%0Aandroid.hardware.audio.common%404.0-util.so%0Aandroid.hardware.audio.common%405.0-util.so%0Aandroid.hardware.automotive.vehicle%402.0-manager-lib.so%0Aandroid.hardware.camera.provider%402.4-external.so%0Aandroid.hardware.camera.provider%402.4-legacy.so%0Aandroid.hidl.base%401.0.so%0Abtaudio_offload_if.so%0Acamera%0Acamera.device%401.0-impl.so%0Acamera.device%403.2-impl.so%0Acamera.device%403.3-impl.so%0Acamera.device%403.4-external-impl.so%0Acamera.device%403.4-impl.so%0Acamera.device%403.5-external-impl.so%0Acamera.device%403.5-impl.so%0Acom.qualcomm.qti.ant%401.0.so%0Acom.qualcomm.qti.bluetooth_audio%401.0.so%0Acom.qualcomm.qti.dpm.api%401.0.so%0Acom.qualcomm.qti.imscmservice%401.0.so%0Acom.qualcomm.qti.imscmservice%402.0.so%0Acom.qualcomm.qti.imscmservice%402.1.so%0Acom.qualcomm.qti.imscmservice%402.2.so%0Acom.qualcomm.qti.uceservice%402.0.so%0Acom.qualcomm.qti.uceservice%402.1.so%0Adsp%0Aegl%0Aftm_fm_lib.so%0Ahw%0Alib-imscmservice.so%0Alib-imsdpl.so%0Alib-imsqimf.so%0Alib-imsrcs-v2.so%0Alib-imsrcsbaseimpl.so%0Alib-imsvtcore.so%0Alib-imsxml.so%0Alib-rtpcommon.so%0Alib-rtpcore.so%0Alib-rtpsl.so%0Alib-siputility.so%0Alib-uceservice.so%0AlibAlacSwDec.so%0AlibApeSwDec.so%0AlibC2D2.so%0AlibCB.so%0AlibEGL_adreno.so%0AlibFaceGrade.so%0AlibFileMux_proprietary.so%0AlibFlacSwDec.so%0AlibGPQTEEC_vendor.so%0AlibGPTEE_vendor.so%0AlibGPreqcancel.so%0AlibGPreqcancel_svc.so%0AlibHalSuperSensorServer.so%0AlibI420colorconvert.so%0AlibMpeg4SwEncoder.so%0AlibOmxAacDec.so%0AlibOmxAacEnc.so%0AlibOmxAlacDec.so%0AlibOmxAlacDecSw.so%0AlibOmxAmrDec.so%0AlibOmxAmrEnc.so%0AlibOmxAmrwbplusDec.so%0AlibOmxApeDec.so%0AlibOmxApeDecSw.so%0AlibOmxCore.so%0AlibOmxDsdDec.so%0AlibOmxEvrcDec.so%0AlibOmxEvrcEnc.so%0AlibOmxG711Dec.so%0AlibOmxG711Enc.so%0AlibOmxMux_proprietary.so%0AlibOmxQcelp13Dec.so%0AlibOmxQcelp13Enc.so%0AlibOmxSwVdec.so%0AlibOmxSwVencMpeg4.so%0AlibOmxVdec.so%0AlibOmxVenc.so%0AlibOmxVideoDSMode.so%0AlibOmxVpp.so%0AlibOmxWmaDec.so%0AlibOpenCL.so%0AlibQSEEComAPI.so%0AlibQTEEConnector_vendor.so%0AlibRSDriver_adreno.so%0AlibSNPE.so%0AlibSecureUILib.so%0AlibStDrvInt.so%0AlibSubSystemShutdown.so%0AlibSuperSensor.so%0AlibSuperSensorCPU.so%0AlibXMFD_AgeGender.so%0Alib_denoiser3.so%0Aliba2dpoffload.so%0Alibacdb-fts.so%0Alibacdbloader.so%0Alibacdbrtac.so%0Alibadiertac.so%0Alibadm.so%0Alibadpcmdec.so%0Alibadreno_utils.so%0Alibadsp_default_listener.so%0Alibadsprpc.so%0Alibalsautils.so%0Alibaoa.so%0Alibarcsoft_beautyshot.so%0Alibarcsoft_dualcam_image_optical_zoom.so%0Alibarcsoft_dualcam_optical_zoom_control.so%0Alibarcsoft_dualcam_refocus.so%0Alibarcsoft_dualcam_refocus_front.so%0Alibarcsoft_dualcam_refocus_rear_t.so%0Alibarcsoft_dualcam_refocus_rear_w.so%0Alibarcsoft_dualcam_video_optical_zoom.so%0Alibarcsoft_high_dynamic_range.so%0Alibarcsoft_low_light_hdr.so%0Alibarcsoft_portrait_lighting.so%0Alibarcsoft_portrait_lighting_c.so%0Alibarcsoft_supernight.so%0Alibaudcal.so%0Alibaudio_log_utils.so%0Alibaudioalsa.so%0Alibaudioconfigstore.so%0Alibaudioparsers.so%0Alibaudioroute_ext.so%0Alibavservices_minijail_vendor.so%0Alibbase64.so%0Alibbatterylistener.so%0AlibbccQTI.so%0Alibbluetooth_audio_session.so%0Alibbluetooth_audio_session_qti.so%0Alibbt-hidlclient.so%0Alibbthost_if.so%0Alibbtnv.so%0Alibc%2B%2B_shared.so%0Alibc2d30_bltlib.so%0Alibc2dcolorconvert.so%0Alibcacertclient.so%0Alibcamera_dirty.so%0Alibcamera_scene.so%0Alibcamxfdalgov7.so%0Alibcamxfdengine.so%0Alibcamxstatscore.so%0Alibcamxtintlessalgo.so%0Alibcapiv2svacnn.so%0Alibcapiv2vop.so%0Alibcdsp_default_listener.so%0Alibcdsprpc.so%0Alibcert_parse.wpa_s.so%0Alibcheckpid.so%0Alibcld80211.so%0Alibcne.so%0Alibcneapiclient.so%0Alibcneoplookup.so%0Alibcneqmiutils.so%0Alibcom.qti.chinodeutils.so%0Alibcomprcapture.so%0Alibconfigdb.so%0Alibcpion.so%0Alibcppf.so%0Alibcryptfshwcommon.so%0Alibcryptfshwhidl.so%0Alibcsd-client.so%0Alibcvp.so%0Alibcvp_common.so%0Alibcvp_stub.so%0AlibcvpcpuRev_skel.so%0Alibdiag.so%0Alibdiagjni.so%0Alibdisp-aba.so%0Alibdisplayconfig.so%0Alibdisplaydebug.so%0Alibdisplayfeature.so%0Alibdisplayfeatureservice.so%0Alibdisplayqos.so%0Alibdng_sdk.so%0Alibdpmqmihal.so%0Alibdrc.so%0Alibdrm.so%0Alibdrmfs.so%0Alibdrmtime.so%0Alibdrmutils.so%0Alibdsd2pcm.so%0Alibdsi_netctrl.so%0Alibdsutils.so%0Alibeffects.so%0Alibeffectsconfig.so%0Alibexthwplugin.so%0Alibfastcrc.so%0Alibfastcvdsp_stub.so%0Alibfastcvopt.so%0Alibfastrpc_utf_stub.so%0Alibft2vendor.so%0Alibgarden.so%0Alibgcs-calwrapper.so%0Alibgcs-ipc.so%0Alibgcs-osal.so%0Alibgcs.so%0Alibgf_ca.so%0Alibgf_hal.so%0Alibgnsspps.so%0Alibgps.utils.so%0Alibgpu_tonemapper.so%0Alibgralloccore.so%0Alibgrallocutils.so%0Alibgsl.so%0Alibgui_vendor.so%0Alibhbtpclient.so%0Alibhbtpdsp.so%0Alibhbtpfrmwk.so%0Alibhdcp1prov.so%0Alibhdcp2p2prov.so%0Alibhdcpsrm.so%0Alibhdmiedid.so%0Alibhdmipassthru.so%0Alibhdr_tm.so%0Alibhfp.so%0Alibidl.so%0Alibjnihelper.so%0Alibjson.so%0Alibkeymasterdeviceutils.so%0Alibkeymasterprovision.so%0Alibkeymasterutils.so%0Aliblistenjni.so%0Aliblistensoundmodel2.so%0Alibllvm-glnext.so%0Alibllvm-qcom.so%0Alibloc_api_v02.so%0Alibloc_core.so%0Aliblocation_api.so%0Aliblogwrap_vendor.so%0Aliblowi_client.so%0Aliblowi_wifihal.so%0Aliblqe.so%0Alibmdmdetect.so%0Alibmdsprpc.so%0Alibmfido.so%0Alibmibokeh_845.so%0Alibminkdescriptor.so%0Alibminksocket.so%0Alibmiracast.so%0Alibmlipay.so%0Alibmlipay%401.1.so%0Alibmm-color-convertor.so%0Alibmm-hdcpmgr.so%0Alibmm-omxcore.so%0Alibmmcamera_faceproc.so%0Alibmmcamera_faceproc2.so%0Alibmmosal_proprietary.so%0Alibmmparser_lite_proprietary.so%0Alibmmrtpdecoder&op=translate
+
+linux - Why there are `/lib` and `/lib64` but only `/bin`? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/447525/why-there-are-lib-and-lib64-but-only-bin
+
+skitt/loadfont: DOS VGA font loader (and assorted programs)
+https://github.com/skitt/loadfont
+
+tannal (tannal)
+https://github.com/tannal/
+
 yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
