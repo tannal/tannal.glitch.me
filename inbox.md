@@ -1,5 +1,13 @@
 # 2024-5-29 0 | 0 W
 
+https://datatracker.ietf.org/doc/html/rfc7234#section-3
+
+1860735973
+
+$env:https_proxy='http://192.168.43.1:7890'
+
+.\mvnw.cmd install -DskipTests
+
 2024 6.5 newcoder
 
 # 2024-5-28 0 | 0 W

@@ -2,6 +2,9 @@
 
 # inbox
 
+htmx jwt
+https://news.ycombinator.com/threads?id=wg0
+
 This guy tell me about xh. Good tool.
 https://news.ycombinator.com/user?id=jiripospisil
 

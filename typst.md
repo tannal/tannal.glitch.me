@@ -5,6 +5,7 @@
 selector
 
 .\target\debug\typst.exe query .\test.typ heading
+.\target\debug\typst.exe watch .\test.typ
 
 Frame is a collection of frameItem
 Shape MathFrameItem
