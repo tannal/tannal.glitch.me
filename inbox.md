@@ -1,3 +1,55 @@
+# 2024-5-30 0 | 0 W
+
+git show 0f2c700e64e904875a514372311ebfeedda5c35d
+git reflog
+
+-0600
+
+focus on content, not form or logic.
+
+logic and rational is simply computation.
+
+git merge master
+
+best common ancestor git merge
+
+git log --oneline
+git log --parents
+
+ls .git/refs/heads/
+
+git config --add fem.git "would"
+
+git config --unset 
+
+git config --get-regexp user
+
+tree 2fbdfd9d957f4dea1b6ccbd370aac46ec1233720
+parent b85a5111400c9a9692bad187c58ba8ca5bdfc545
+
+git store the whole snapshot of the source tree. one commit by one commit.
+
+git
+svn
+mercurial
+
+git cat-file -p 2ab7c824ccce89c51c7ddddf397c778f160cb157
+
+git clone https://git.kernel.org/pub/scm/git/git.git
+
+d-----         2024/4/13     20:54                hooks
+d-----         2024/4/13     20:54                info
+d-----         2024/4/13     20:54                logs
+d-----         2024/5/29     22:12                objects
+d-----         2024/4/13     20:54                refs
+-a----         2024/4/13     20:54            298 config
+-a----         2024/4/13     20:54             73 description
+-a----         2024/5/29     22:12           1258 FETCH_HEAD
+-a----         2024/4/13     20:54             21 HEAD
+-a----         2024/5/29     22:21          28552 index
+-a----         2024/5/29     22:12             41 ORIG_HEAD
+-a----         2024/4/13     20:54           1201 packed-refs
+
 # 2024-5-29 0 | 0 W
 
 https://datatracker.ietf.org/doc/html/rfc7234#section-3

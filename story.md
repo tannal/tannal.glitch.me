@@ -1,6 +1,8 @@
 
 # inbox
 
+know about git, 
+
 5+ patches to firefox
 
 familiar with css grid and css flex layout
