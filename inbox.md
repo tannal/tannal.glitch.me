@@ -1,5 +1,37 @@
 # 2024-5-30 0 | 0 W
 
+https://github.com/rust-mobile
+https://github.com/rust-embedded
+https://github.com/gfx-rs/
+
+bool QtiMapper::ValidDescriptor(const BufferDescriptorInfo_2_1 &bd) {
+  if (bd.width == 0 || bd.height == 0 || (static_cast<int32_t>(bd.format) <= 0) ||
+      bd.layerCount <= 0) {
+    return false;
+  }
+
+  return true;
+}
+    4080:	6808      	ldr	r0, [r1, #0]
+    4082:	b148      	cbz	r0, 4098 <_ZN6vendor3qti8hardware7display6mapper4V1_014implementation9QtiMapper15ValidDescriptorERKN7android8hardware8graphics6mapper4V2_17IMapper20BufferDescriptorInfoE@@Base+0x18>
+    4084:	6848      	ldr	r0, [r1, #4]
+    4086:	b138      	cbz	r0, 4098 <_ZN6vendor3qti8hardware7display6mapper4V1_014implementation9QtiMapper15ValidDescriptorERKN7android8hardware8graphics6mapper4V2_17IMapper20BufferDescriptorInfoE@@Base+0x18>
+    4088:	68c8      	ldr	r0, [r1, #12]
+    408a:	2801      	cmp	r0, #1
+    408c:	db04      	blt.n	4098 <_ZN6vendor3qti8hardware7display6mapper4V1_014implementation9QtiMapper15ValidDescriptorERKN7android8hardware8graphics6mapper4V2_17IMapper20BufferDescriptorInfoE@@Base+0x18>
+    408e:	6888      	ldr	r0, [r1, #8]
+    4090:	2800      	cmp	r0, #0
+    4092:	bf18      	it	ne
+    4094:	2001      	movne	r0, #1
+    4096:	4770      	bx	lr
+    4098:	2000      	movs	r0, #0
+    409a:	4770      	bx	lr
+
+goodix fingerprint
+https://www.goodix.com/en/about_goodix/careers/social
+
+aarch64-linux-gnu-objdump -s -d I 
+
 npm i supabase --save-dev
 
 cargo apk run --example mason_android -p xilem
