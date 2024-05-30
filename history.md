@@ -1,5 +1,173 @@
 # 2024-5-30
 
+yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Contributors to flutter/flutter
+https://github.com/flutter/flutter/graphs/contributors?from=2021-03-02&to=2024-05-30&type=c
+
+Make execution on Android work properly by DJMcNab · Pull Request #309 · linebender/xilem
+https://github.com/linebender/xilem/pull/309
+
+ducaale/xh: Friendly and fast tool for sending HTTP requests
+https://github.com/ducaale/xh
+
+Job Application for Cloud Platform / Site Reliability Engineer at Supabase
+https://boards.greenhouse.io/supabase/jobs/5172163004
+
+apache/skywalking-banyandb: An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data.
+https://github.com/apache/skywalking-banyandb
+
+LearningNotes/Golang/Golang进阶/14_Go操作消息队列/README.md at master · moxi624/LearningNotes
+https://github.com/moxi624/LearningNotes/blob/master/Golang/Golang%E8%BF%9B%E9%98%B6/14_Go%E6%93%8D%E4%BD%9C%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/README.md
+
+quangdangfit/go-admin: RBAC scaffolding based on Gin + Gorm + Casbin + Dig
+https://github.com/quangdangfit/go-admin
+
+Resolving Conflicts with Rebase - Everything You'll Need to Know About Git
+https://frontendmasters.com/courses/everything-git/resolving-conflicts-with-rebase/
+
+How To Compile PostgreSQL for Windows 64bit - YouTube
+https://www.youtube.com/watch?v=-BJmuZT5IPE
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+PostgreSQL的 pg_hba.conf 配置参数详解_zabbix 清理存储审计日志-CSDN博客
+https://blog.csdn.net/yaoqiancuo3276/article/details/80404883
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+Swagger UI
+http://localhost:8888/swagger/index.html#/users/post_api_v1_auth_login
+
+nsqio/nsq: A realtime distributed messaging platform
+https://github.com/nsqio/nsq
+
+trading-system-go/api/kafka_config/consumer/kafka_consumer.go at master · Imesh7/trading-system-go
+https://github.com/Imesh7/trading-system-go/blob/master/api/kafka_config/consumer/kafka_consumer.go
+
+Confluent Inc.
+https://github.com/confluentinc
+
+drawVideo Method - Vanilla JavaScript Projects
+https://frontendmasters.com/courses/javascript-projects/drawvideo-method/
+
+Vanilla JS Projects
+https://anjana.dev/vanilla-js-projects/
+
+Vanilla JavaScript Projects
+https://anjana.dev/vanilla-js-projects/slides/0.html#/2
+
+Show HN: A WebAssembly System Interface Implementation for Deno | Hacker News
+https://news.ycombinator.com/item?id=23548491
+
+the_duke's comments | Hacker News
+https://news.ycombinator.com/threads?id=the_duke
+
+breck's comments | Hacker News
+https://news.ycombinator.com/threads?id=breck
+
+2402.07591
+https://arxiv.org/pdf/2402.07591
+
+📜 Scroll is a language for scientists of all ages
+https://scroll.pub/
+
+Features
+https://pldb.io/lists/features.html
+
+caspervonb (Casper Beyer)
+https://github.com/caspervonb
+
+nats-io/nats-server: High-Performance server for NATS.io, the cloud and edge native messaging system.
+https://github.com/nats-io/nats-server
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.999.0.0
+
+(1) Discord | #podman | Podman
+https://discord.com/channels/852634929845239818/852634929845239824
+
+video-dev/hls.js: HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
+https://github.com/video-dev/hls.js
+
+liuhengloveyou/implayer: ImPlayer: Video player write with sdl2/ffmpeg/imgui
+https://github.com/liuhengloveyou/implayer
+
+tannal/bagu - bagu - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bagu
+
+hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+https://github.com/hemanth/functional-programming-jargon
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+javascript - How to lazy load web font declared by @font-face? - Stack Overflow
+https://stackoverflow.com/questions/36178001/how-to-lazy-load-web-font-declared-by-font-face
+
+Evansy (Evan)
+https://github.com/Evansy
+
+mckaywrigley/chatbot-ui: AI chat for every model.
+https://github.com/mckaywrigley/chatbot-ui
+
+Authentication | Supabase
+https://supabase.com/dashboard/project/jsrovbeyunjuxhbomqgd/auth/providers
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+npm in rust - Google 搜索
+https://www.google.com/search?q=npm+in+rust&rlz=1C1GCEA_enJP1090JP1090&oq=npm+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE2NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Remove TailCall variants for Polymorphic Call Thunks by Constellation · Pull Request #29043 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/29043/files
+
+Fix ARMv7 silent spills by justinmichaud · Pull Request #29169 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/29169
+
+Roadmap for the Xilem back end in 2024 | Hacker News
+https://news.ycombinator.com/item?id=39059727
+
+Xilem 2024 plans - Linebender
+https://linebender.org/blog/xilem-2024/
+
+How big is the Flutter team? | Hacker News
+https://news.ycombinator.com/item?id=40255249
+
+klabb3's comments | Hacker News
+https://news.ycombinator.com/threads?id=klabb3
+
+Apocryphon's comments | Hacker News
+https://news.ycombinator.com/threads?id=Apocryphon
+
+Hixie's Natural Log
+https://ln.hixie.ch/?start=1714717681
+
+Bundling (swcpack) – SWC
+https://swc.rs/docs/usage/bundling
+
+vercel/turbo: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+https://github.com/vercel/turbo
+
+localhost:3000/zh
+http://localhost:3000/zh
+
+Supabase CLI | Supabase Docs
+https://supabase.com/docs/guides/cli/getting-started?queryGroups=platform&platform=npx
+
+Case Study: Npm uses Rust for its CPU-bound bottlenecks [pdf] | Hacker News
+https://news.ycombinator.com/item?id=19294512
+
 copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

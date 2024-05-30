@@ -1,6 +1,30 @@
 # 2024-5-30 0 | 0 W
 
+npm i supabase --save-dev
+
+cargo apk run --example mason_android -p xilem
+
+curl -X POST http://localhost:8888/api/v1/auth/register \
+     -H "Content-Type: application/json" \
+     -d '{"email": "tannal2409@gmail.com", "password": "password"}'
+
+curl -X POST http://localhost:8888/api/v1/auth/login \
+     -H "Content-Type: application/json" \
+     -d '{"email": "tannal2409@gmail.com", "password": "password"}'
+
+xh --offline post localhost:8888/api/v1/auth/register email=tannal2409@gmail.com password=password
+xh post localhost:8888/api/v1/auth/register email=tannal2409@gmail.com password=password
+
+layout render engine js engine 
+multimedia video audio
+database & storage systems
+operating systems and 
+
+embeded arm linux rtos https://www.linaro.org/careers/
+
 甲硝唑口颊片
+
+git log --graph
 
 https://pldb.io/concepts/rust.html
 
@@ -14,6 +38,7 @@ vim data/postgresql.conf
 
 pkill postgres
 ./pg_ctl -D data -l logfile start
+./psql -d goshop
 
 git log -S A -p
 

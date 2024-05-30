@@ -2,6 +2,9 @@
 
 # inbox
 
+flutter RN popular in China
+https://news.ycombinator.com/threads?id=Apocryphon
+
 htmx jwt
 https://news.ycombinator.com/threads?id=wg0
 
