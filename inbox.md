@@ -1,5 +1,15 @@
 # 2024-5-30 0 | 0 W
 
+https://gitcode.com/
+
+bilibili app
+https://github.com/libp2p
+https://github.com/bilibili/ijkplayer
+OpenMAX
+
+tc qdisc add dev ens160 root netem delay 600ms
+adb connect 192.168.43.1
+
 $env:LD_TRACE_LOADED_OBJECTS=1
 export LD_TRACE_LOADED_OBJECTS=1
 unset LD_TRACE_LOADED_OBJECTS
@@ -288,6 +298,7 @@ $env:ANDROID_NDK_ROOT='C:\Users\tannal\AppData\Local\Android\Sdk\ndk\26.1.109091
 cargo search cargo-apk
 
 adb connect 192.168.129.148:5555
+adb disconnect 192.168.129.148:5555
 
 cargo run -p with_winit
 
