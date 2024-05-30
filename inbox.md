@@ -1,5 +1,21 @@
 # 2024-5-30 0 | 0 W
 
+browsersync
+
+git branch -a
+entry -> dependency graph -> loaders -> multiple/single output
+
+js
+image
+markdown
+text file
+fonts
+svg
+html
+css/sass/less/scss/tailwindcss
+
+framework loader
+
 git show 0f2c700e64e904875a514372311ebfeedda5c35d
 git reflog
 

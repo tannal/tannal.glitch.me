@@ -1,5 +1,7 @@
 # inbox
 
+cargo run
+
 cargo search cargo-apk
 
 https://github.com/linebender/xilem
