@@ -1,5 +1,14 @@
 # 2024-5-31 0 | 0 W
 
+https://bbs.kanxue.com/
+
+https://github.com/Tencent/libpag.git
+libpag
+
+I believe bytevc1 is TikTok/ByteDance's version of h265/hevc1. 
+That's a newer codec, and it needs less space for the same quality
+
+腾讯的播放器SDK
 
 userscript
 
