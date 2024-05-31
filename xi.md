@@ -27,6 +27,9 @@ wgpu
 
 cargo run -p with_winit -- --test-scenes
 
+cargo fmt --all --check
+
+cargo run --package with_winit --bin with_winit
 cargo run --package simple --bin simple
 
 

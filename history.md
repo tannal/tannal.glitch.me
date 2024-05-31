@@ -1,3 +1,167 @@
+# 2024-5-31
+
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+236. 二叉树的最近公共祖先 - 力扣（LeetCode）
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/?envType=study-plan-v2&envId=top-interview-150
+
+Documentation – Arm Developer
+https://developer.arm.com/documentation/ddi0602/2024-03/SIMD-FP-Instructions/FMADD--Floating-point-fused-Multiply-Add--scalar--
+
+wasmtime/cranelift/isle/docs/language-reference.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/cranelift/isle/docs/language-reference.md
+
+aarch64: Add support for `fnmadd`/`fmsub`/`fnmsub` · Issue #8603 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8603
+
+riscv64: Add `fmsub`/`fnmsub`/`fnmadd` instruction lowerings by afonso360 · Pull Request #8588 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/8588/files
+
+Compiler Explorer
+https://alive2.llvm.org/ce/
+
+Code search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime+fnmadd&type=code
+
+llvm-project/llvm/lib/Target/RISCV/RISCVInstrInfoF.td at c84c74e67839a5207d7c6318fc37e607f088a994 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/c84c74e67839a5207d7c6318fc37e607f088a994/llvm/lib/Target/RISCV/RISCVInstrInfoF.td#L548-L567
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+llvm-project/llvm/lib/Target/AArch64/AArch64SchedThunderX3T110.td at 01921bd4f155dbbddd49b818341190a8cb2f20c4 · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/01921bd4f155dbbddd49b818341190a8cb2f20c4/llvm/lib/Target/AArch64/AArch64SchedThunderX3T110.td#L1292
+
+Commits · dotnet/runtime
+https://github.com/dotnet/runtime/commits?author=tannergooding&since=2024-04-30&until=2024-05-30
+
+Compiler Explorer
+https://godbolt.org/z/Trrjq9cGs
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=fused&op=translate
+
+webassembly fmadd - Google 搜索
+https://www.google.com/search?q=webassembly+fmadd&sca_esv=cd3ec118dfb68f5c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII77LsU7lVncfzjeyLWJP96ZW5zhA%3A1717069230935&ei=rmVYZsXYOL6Y4-EPnr2D4Ao&ved=0ahUKEwjF58GspbWGAxU-zDgGHZ7eAKwQ4dUDCBA&uact=5&oq=webassembly+fmadd&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXdlYmFzc2VtYmx5IGZtYWRkMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSMcCULUBWLUBcAF4AJABAJgBqAGgAagBqgEDMC4xuAEDyAEA-AEC-AEBmAIBoAIEmAMAiAYBkAYKkgcBMaAH_wQ&sclient=gws-wiz-serp
+
+Convert `fma`, `valltrue` & `vanytrue` to ISLE (AArch64) by dheaton-arm · Pull Request #4608 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/4608/files
+
+riscv64: Support scalar-vector bitcasts (#8692) · tannal/wasmtime@9a443bc
+https://github.com/tannal/wasmtime/commit/9a443bcb3b21af17c679cbf8e80b5dd01346f9e2
+
+FMA instruction set - Wikipedia
+https://en.wikipedia.org/wiki/FMA_instruction_set
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+#general > Exchange on #32390 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Exchange.20on.20.2332390
+
+servo/components/net/http_cache.rs at 42061ccafe67ac0440886e48e17a02f8b60525bc · servo/servo
+https://github.com/servo/servo/blob/42061ccafe67ac0440886e48e17a02f8b60525bc/components/net/http_cache.rs#L837
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime/
+
+Raph Levien on UI Frameworks - YouTube
+https://www.youtube.com/watch?v=PwuwG2-0n3I
+
+So you want to write a GUI framework
+https://www.cmyr.net/blog/gui-framework-ingredients.html
+
+WebAssembly - Rust Programming Language
+https://www.rust-lang.org/what/wasm
+
+Allow initialising shaders in parallel by DJMcNab · Pull Request #455 · linebender/vello
+https://github.com/linebender/vello/pull/455
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+Commits · tannal/vello
+https://github.com/tannal/vello/commits/main/
+
+Re-export wgpu by tannal · Pull Request #591 · linebender/vello
+https://github.com/linebender/vello/pull/591/files
+
+vello/shader/fine.wgsl at main · linebender/vello
+https://github.com/linebender/vello/blob/main/shader/fine.wgsl
+
+cargo fmt auto fix - Google 搜索
+https://www.google.com/search?q=cargo+fmt+auto+fix&sca_esv=986cfd32cb66a37f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ5yx2XWcOjbvx7TaVDO_Y3l-r8MQ%3A1717116479801&ei=Px5ZZs-8MIOZseMPyaKmqAk&oq=cargo+fmt+auto&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmNhcmdvIGZtdCBhdXRvKgIIADIIEAAYgAQYywEyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI_gxQigFYpgZwAXgBkAEAmAGUAaABugWqAQMwLjW4AQPIAQD4AQGYAgagAskFwgIKEAAYsAMY1gQYR8ICDBAjGIAEGBMYJxiKBcICBBAAGB7CAgYQABgIGB7CAgcQABiABBgNwgIGEAAYDRgemAMAiAYBkAYJkgcDMS41oAfsDQ&sclient=gws-wiz-serp
+
+Newline style changes to Unix-style when file is modified · Issue #4097 · rust-lang/rustfmt
+https://github.com/rust-lang/rustfmt/issues/4097
+
+Script function is ignored in text mode · Issue #4303 · typst/typst
+https://github.com/typst/typst/issues/4303
+
+Update changelog and roadmap by laurmaedje · Pull Request #3594 · typst/typst
+https://github.com/typst/typst/pull/3594/files
+
+236. 二叉树的最近公共祖先 - 力扣（LeetCode）
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/?utm_source=LCUS&utm_medium=ip_redirect&utm_campaign=transfer2china
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=garbage%20collector&sort=byPopularity&type=story
+
+I built a garbage collector for a language that doesn't need one
+https://www.claytonwramsey.com/blog/dumpster.html
+
+fiddler/src/base at master · claytonwramsey/fiddler
+https://github.com/claytonwramsey/fiddler/tree/master/src/base
+
+A Guide to the Go Garbage Collector - The Go Programming Language
+https://tip.golang.org/doc/gc-guide
+
+Tannal Meng
+http://localhost:8000/
+
+magicdawn/bilibili-app-recommend: [UserScript] B站首页推荐
+https://github.com/magicdawn/bilibili-app-recommend
+
+Coordinate Systems - Advanced Creative Coding with WebGL & Shaders
+https://frontendmasters.com/courses/webgl-shaders/coordinate-systems/
+
+WebGL & GLSL — A Primer
+https://mattdesl.github.io/workshop-webgl-glsl/#/coordinates/3d-coordinates
+
+cartesian coordinates - Google 搜索
+https://www.google.com/search?q=cartesian+coordinates&rlz=1C1GCEA_enJP1090JP1090&oq=cartesian&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDINCAQQLhjHARjRAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMzODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+mattdesl/workshop-webgl-glsl: A workshop on WebGL and GLSL
+https://github.com/mattdesl/workshop-webgl-glsl
+
+userscript - Google 搜索
+https://www.google.com/search?q=userscript&sca_esv=e2ef02cf5d443bc7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ26Nk5_bA31nYWKlxUt8meDAM62g%3A1717126604786&ei=zEVZZrbXL4KNseMPuf-pwAM&ved=0ahUKEwi27b-K-7aGAxWCRmwGHbl_CjgQ4dUDCBA&uact=5&oq=userscript&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnVzZXJzY3JpcHQyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSKMQUKwFWPsOcAF4AZABAJgBqAOgAZwXqgEFMy02LjK4AQPIAQD4AQGYAgmgArgXwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAgQQIxgnwgIKEAAYgAQYChjLAcICDhAuGIAEGNEDGMcBGMsBmAMAiAYBkAYKkgcHMS4zLTYuMqAH3SQ&sclient=gws-wiz-serp
+
+🚨 Build Error
+http://localhost:1234/
+
+友情链接 - 她和她的猫
+https://her-cat.com/links/
+
+为什么 TCP 建立连接需要三次握手 - 面向信仰编程
+https://draveness.me/whys-the-design-tcp-three-way-handshake/
+
+子骅的个人站
+https://zihua.li/
+
+luin (Zihua Li)
+https://github.com/luin
+
 # 2024-5-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

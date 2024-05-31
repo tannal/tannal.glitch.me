@@ -1,3 +1,22 @@
+# 2024-5-31 0 | 0 W
+
+
+userscript
+
+cartesian coordinates
+center (0, 0)
+
+BUILDING TOOLS
+WebAssembly
+
+Networking
+Predictable performance. Tiny resource footprint. Rock-solid reliability. Rust is great for network services.
+
+WORKING ON SERVERS
+Embedded
+
+STARTING WITH EMBEDDED
+
 # 2024-5-30 0 | 0 W
 
 https://gitcode.com/
