@@ -1,5 +1,15 @@
 # 2024-5-31 0 | 0 W
 
+http://localhost:8383/swagger-ui.html
+
+keys *
+flushall
+
+.\mvnw.cmd -pl kafka-ui-apti -am spring-boot:run
+
+https://myaccount.google.com/apppasswords
+
+pnpm i ag-grid-community
 
 .\mvnw.cmd spring-boot:run
 

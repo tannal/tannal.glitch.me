@@ -1,5 +1,143 @@
 # 2024-5-31
 
+typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+LLVM2
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+BurakCalisgan/Realtime-App: #SpringBoot #Node.js #Websocket #Angular #Kafka #Redis #Postgres
+https://github.com/BurakCalisgan/Realtime-App
+
+Home of the Android Internals series change log
+https://newandroidbook.com/ChangeLog.html
+
+新建聊天 - Poe
+https://poe.com/ChatGPT
+
+Starting from which version does Gradle support Java 21? - Stack Overflow
+https://stackoverflow.com/questions/77140377/starting-from-which-version-does-gradle-support-java-21
+
+https\://services.gradle.org/distributions - Google 搜索
+https://www.google.com/search?q=https%5C%3A%2F%2Fservices.gradle.org%2Fdistributions&rlz=1C1GCEA_enJP1090JP1090&oq=https%5C%3A%2F%2Fservices.gradle.org%2Fdistributions&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+maven run springboot - Google 搜索
+https://www.google.com/search?q=maven+run+springboot&rlz=1C1GCEA_enJP1090JP1090&oq=maven+run+springboot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgKGBMYgAQyCwgCEAAYChgTGIAEMgoIAxAAGAoYExgeMgoIBBAAGAoYExgeMggIBRAAGBMYHjIKCAYQABgKGBMYHjIICAcQABgTGB4yDAgIEAAYCBgKGBMYHjIMCAkQABgIGAoYExge0gEIMzcyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ag-grid-community - Google 搜索
+https://www.google.com/search?q=ag-grid-community&rlz=1C1GCEA_enJP1090JP1090&oq=ag-grid-community&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Realtime App UI
+http://localhost:4200/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+个人信息
+https://myaccount.google.com/personal-info?hl=zh_CN&utm_source=OGB&utm_medium=act
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+How to generate an app password - Gmail Community
+https://support.google.com/mail/thread/205453566/how-to-generate-an-app-password?hl=en
+
+应用专用密码
+https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4PcOtt2CbDoxDrcLVSIUccQOHDBNhg32oybKlY6Gt2wE-Qusi_YepCctEXJ33wfC9g42x3w6GSY7PDNhNypvGytV3t0YTFjNKgA6bOpoUSdnWkAxck
+
+Prerequisites | UI for Apache Kafka
+https://docs.kafka-ui.provectus.io/development/building/prerequisites
+
+Run mvn spring-boot:run from parent module? - Stack Overflow
+https://stackoverflow.com/questions/41092200/run-mvn-spring-bootrun-from-parent-module
+
+provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management
+https://github.com/provectus/kafka-ui
+
+OpenAPI Tools
+https://github.com/OpenAPITools
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Android Internals
+https://technologeeks.com/course.jl?course=Android%20Internals
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20Jonathan%20Levin&sort=byPopularity&type=story
+
+*OS Internals: - Welcome!
+https://newosxbook.com/home.html
+
+gradle - Google 搜索
+https://www.google.com/search?q=gradle&rlz=1C1GCEA_enJP1090JP1090&oq=gradle+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTk2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Redis command to get all available keys? - Stack Overflow
+https://stackoverflow.com/questions/5252099/redis-command-to-get-all-available-keys
+
+How do I delete everything in Redis? - Stack Overflow
+https://stackoverflow.com/questions/6851909/how-do-i-delete-everything-in-redis
+
+chenyahui/gin-cache: :rocket: A high performance gin middleware to cache http response. Compared to gin-contrib/cache, It has a huge performance improvement. 高性能gin缓存中间件，相比于官方版本，有巨大性能提升。
+https://github.com/chenyahui/gin-cache
+
+Spring-Boot-操作-Redis，三种方案全解析！ - 江南一点雨 - 博客园
+https://www.cnblogs.com/lenve/p/10965667.html
+
+SpringBoot整合Swagger2，再也不用维护接口文档了！
+https://mp.weixin.qq.com/s?__biz=MzI1NDY0MTkzNQ==&mid=2247485077&idx=1&sn=0700e96f4449fac56f81775d02e62b4f&chksm=e9c354f5deb4dde318f8a64e70f1f66089b9152c52ccedc40fc018cdb0888867875149f5b08b&cur_album_id=1320453388903022593&scene=189#wechat_redirect
+
+localhost:8383/swagger-ui.html
+http://localhost:8383/swagger-ui.html
+
+spring - 401 while trying to access Swagger UI - Springdoc - Stack Overflow
+https://stackoverflow.com/questions/60418779/401-while-trying-to-access-swagger-ui-springdoc
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Ask HN: Is Angular Dead Yet? | Hacker News
+https://news.ycombinator.com/item?id=21565577
+
+XUL and HTML — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/browser/components/storybook/docs/README.xul-and-html.stories.html
+
+#HITBGSEC 2016 SG Conference Track D1 - The Apple Sandbox: Deeper Into The Quagmire - Jonathan Levin - YouTube
+https://www.youtube.com/watch?v=mG715HcDgO8
+
+CODE BLUE - YouTube
+https://www.youtube.com/@CODEBLUE_jp
+
+CODE BLUE - YouTube
+https://www.youtube.com/@CODEBLUE_jp/videos
+
+Excalidraw
+http://draw.tanmeng.org/
+
+Docs are not built for libservo · Issue #32412 · servo/servo
+https://github.com/servo/servo/issues/32412
+
+酒精能喷伤口么 - Google 搜索
+https://www.google.com/search?q=%E9%85%92%E7%B2%BE%E8%83%BD%E5%96%B7%E4%BC%A4%E5%8F%A3%E4%B9%88&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%85%92%E7%B2%BE%E8%83%BD%E5%96%B7%E4%BC%A4%E5%8F%A3%E4%B9%88&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDc2NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+alili.tech/backup/Reprint/2019-01-25/摘自Rego"s Everyday Life博客：CSS的"显示：内容(display: contents)"样式规则即将来临.md at fa39e72cd1c258e4d772f58555d4b3fc673b1de1 · Fantasy9527/alili.tech
+https://github.com/Fantasy9527/alili.tech/blob/fa39e72cd1c258e4d772f58555d4b3fc673b1de1/backup/Reprint/2019-01-25/%E6%91%98%E8%87%AARego%22s%20Everyday%20Life%E5%8D%9A%E5%AE%A2%EF%BC%9ACSS%E7%9A%84%22%E6%98%BE%E7%A4%BA%EF%BC%9A%E5%86%85%E5%AE%B9(display%3A%20contents)%22%E6%A0%B7%E5%BC%8F%E8%A7%84%E5%88%99%E5%8D%B3%E5%B0%86%E6%9D%A5%E4%B8%B4.md?plain=1#L11%E2%80%99
+
+ubuntu - My Redis auto generated keys - Stack Overflow
+https://stackoverflow.com/questions/50264694/my-redis-auto-generated-keys
+
+KINGSING - Google 搜索
+https://www.google.com/search?q=KINGSING&rlz=1C1GCEA_enJP1090JP1090&oq=KINGSING&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Adam Langley - Google 搜索
+https://www.google.com/search?q=Adam+Langley&rlz=1C1GCEA_enJP1090JP1090&oq=Adam+Langley&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 books.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
