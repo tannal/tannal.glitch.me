@@ -10,6 +10,10 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+
+SpringBoot kafka angular redis postgresql
+https://github.com/BurakCalisgan/Realtime-App
+
 go backend e-commerce gorm postgresql redis
 https://github.com/quangdangfit/goshop.git
 

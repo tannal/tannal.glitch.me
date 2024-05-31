@@ -1,5 +1,11 @@
 # 2024-5-31 0 | 0 W
 
+
+.\mvnw.cmd spring-boot:run
+
+.\gradlew build
+.\gradlew bootRun
+
 Android.bp and Android.mk
 ndk build systems
 
@@ -110,12 +116,17 @@ git log --graph
 https://pldb.io/concepts/rust.html
 
 CREATE ROLE replica REPLICATION LOGIN PASSWORD '123456';
-data/pg_hba.con
+vim data/pg_hba.conf
 
 host   goshop      ubuntu       0.0.0.0/0          md5
+host   realtime    ubuntu       0.0.0.0/0          md5
+
+./psql -U ubuntu -w -d postgres
 
 create database goshop;
+create database realtime;
 vim data/postgresql.conf
+
 
 pkill postgres
 ./pg_ctl -D data -l logfile start
