@@ -1,5 +1,6 @@
 # inbox
 
+
 cargo run
 
 cargo search cargo-apk
@@ -17,12 +18,17 @@ com
 Xilem
 swiftui/flutter engine
 
+# vello
+
 Vello
 skia 
 2d rendering on gpu based on wgpu
 wgpu
 
 cargo run -p with_winit -- --test-scenes
+
+cargo run --package simple --bin simple
+
 
 Text
 
