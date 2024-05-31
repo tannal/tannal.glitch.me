@@ -1,3 +1,11 @@
+
+# inbox
+
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+
 # from 2023-11-23
 
 https://hpbn.co/

@@ -1,5 +1,10 @@
 # 2024-5-31 0 | 0 W
 
+Android.bp and Android.mk
+ndk build systems
+
+Bionic glibc
+
 https://bbs.kanxue.com/
 
 https://github.com/Tencent/libpag.git

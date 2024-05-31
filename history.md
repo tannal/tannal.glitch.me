@@ -1,5 +1,158 @@
 # 2024-5-31
 
+books.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+mattdesl/workshop-webgl-glsl: A workshop on WebGL and GLSL
+https://github.com/mattdesl/workshop-webgl-glsl
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+webgpu: Parse and forward backend prefs to wgpu by hieudo-dev · Pull Request #32410 · servo/servo
+https://github.com/servo/servo/pull/32410/files
+
+192.168.43.1:8080/storage/shared/output.txt
+http://192.168.43.1:8080/storage/shared/output.txt
+
+腾讯Bugly - 一种愉悦的开发方式 _android anr_android anr分析_iOS崩溃日志分析平台
+https://bugly.qq.com/v2/
+
+Cocos Plugin 使用指南 - Bugly 文档
+https://bugly.qq.com/docs/user-guide/instruction-manual-plugin-cocos/?v=20240525162834
+
+Portable Animated Graphics - Google 搜索
+https://www.google.com/search?q=Portable+Animated+Graphics&sca_esv=986cfd32cb66a37f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILbFiKZWF0-mGfTYv7wo4YIFwSsOw%3A1717128547898&ei=Y01ZZui-NsSY4-EPnbum6Aw&ved=0ahUKEwio_IWpgreGAxVEzDgGHZ2dCc0Q4dUDCBA&uact=5&oq=Portable+Animated+Graphics&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlBvcnRhYmxlIEFuaW1hdGVkIEdyYXBoaWNzMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSNiK0gNQsInSA1iwidIDcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACBZgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+PAG官网 | PAG动效
+https://pag.art/
+
+Segmentfault when building fastfetch · Issue #116 · evmar/n2
+https://github.com/evmar/n2/pulls
+
+libYTCommon - Google 搜索
+https://www.google.com/search?q=libYTCommon&rlz=1C1GCEA_enJP1090JP1090&oq=libYTCommon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Tencent/libpag: The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+https://github.com/Tencent/libpag/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tencent%20pax&sort=byPopularity&type=story
+
+awesome-post/backend.md at master · dengoswei/awesome-post
+https://github.com/dengoswei/awesome-post/blob/master/backend.md
+
+Folly - The Faceboook open source library | Hacker News
+https://news.ycombinator.com/item?id=4059356
+
+getsentry/sentry-native: Sentry SDK for C, C++ and native applications.
+https://github.com/getsentry/sentry-native
+
+写了一万多字，回顾了下软件工程历史，探讨下大模型时代程序员的生存~ - V2EX
+https://www.v2ex.com/t/1045581#reply10
+
+云产品SDK中心_云产品SDK文档-腾讯云
+https://cloud.tencent.com/document/sdk
+
+liaoliao666/v2ex: V2EX 好看的第三方客户端，原生 App，支持夜间模式。
+https://github.com/liaoliao666/v2ex
+
+分享一个能看每天 V2EX 最热的网站，又一个 V2HOT 来了 - V2EX
+https://www.v2ex.com/t/822020?utm_source=pipecraft.net
+
+V2HOT
+https://github.com/v2hot/
+
+Issues · bynil/sov2ex
+https://github.com/bynil/sov2ex/issues
+
+bynil/sov2ex: A site search for V2EX
+https://github.com/bynil/sov2ex
+
+vello - SOV2EX 搜索结果
+https://www.sov2ex.com/?q=vello&version=1.0.1
+
+seed-random npm - Google 搜索
+https://www.google.com/search?q=seed-random+npm&sca_esv=986cfd32cb66a37f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILbQeH5xPCEcQ6nhFLn9XNNhvL3cQ%3A1717131742751&ei=3llZZprBLfDS1sQPusykgAg&ved=0ahUKEwiaqLycjreGAxVwqZUCHTomCYAQ4dUDCBA&uact=5&oq=seed-random+npm&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3NlZWQtcmFuZG9tIG5wbTIGEAAYDBgeMgQQABgeMgQQABgeMgQQABgeMggQABgMGB4YDzIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYHhgPSIwNUBRY3gtwAXgBkAEAmAG1CKAB3AyqAQc1LTEuMC4xuAEDyAEA-AEBmAIDoALoDMICChAAGLADGNYEGEeYAwCIBgGQBgmSBwkxLjQtMS4wLjGgB7MG&sclient=gws-wiz-serp
+
+book.js - Google 搜索
+https://www.google.com/search?q=book.js&rlz=1C1GCEA_enJP1090JP1090&oq=book.js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQABhDGLEDGIAEGIoFMhIIAhAAGEMYgwEYsQMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNDU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+color
+http://localhost:9966/
+
+Repository search results
+https://github.com/search?q=+interactive+book+language%3ATypeScript&type=repositories&l=TypeScript&p=2
+
+qemu android proxy - Google 搜索
+https://www.google.com/search?q=qemu+android+proxy&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+android+proxy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1NzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Welcome to the Android Emulator
+https://android.googlesource.com/platform/external/qemu/+/2db80f7c1921a6f5d48b998378e3792e16c968a4/README.md
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Portable%20Animated%20Graphics&sort=byPopularity&type=story
+
+编程技术-看雪-安全社区|安全招聘|kanxue.com
+https://bbs.kanxue.com/forum-41.htm
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=confectioner&op=translate
+
+Moshe Kravchik - Google 搜索
+https://www.google.com/search?q=Moshe+Kravchik&rlz=1C1GCEA_enJP1090JP1090&oq=Moshe+Kravchik&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Android sparse image - Google 搜索
+https://www.google.com/search?q=Android+sparse+image&sca_esv=470f2cd7629ffe1b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILDIwH0viqolSgSF1nJc6Iz6_BhPg%3A1717137116396&ei=3G5ZZprPF6XhseMP4a6W-A0&oq=Sparse+images&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVNwYXJzZSBpbWFnZXMqAggAMgoQABiwAxjWBBhHSNQXUEpYyxFwA3gBkAEAmAGCA6AB3wWqAQMzLTK4AQPIAQD4AQGYAgWgAukFwgIEEAAYHsICCBAAGAoYHhgPwgIGEAAYHhgPwgIGEAAYCBgewgIIEAAYCBgeGA_CAgYQABgFGB7CAggQABgFGB4YD8ICBRAhGKABmAMAiAYBkAYBkgcFMy4zLTKgB6AF&sclient=gws-wiz-serp
+
+Akipe/awesome-android-aosp: A collection of Android AOSP and ROM development related resources
+https://github.com/Akipe/awesome-android-aosp
+
+shugaoye (Roger Ye)
+https://github.com/shugaoye
+
+Explore EPAM opportunities and apply today!
+https://www.epam.com/careers/job-listings?recruitingUrl=%2Fcontent%2Fepam%2Fen%2Fcareers%2Fjob-listings%2Fjob&country=China&sort=relevance&searchType=placeOfWorkFilter
+
+Software Engineer in Shenzhen, China - Apply Today!
+https://www.epam.com/careers/job-listings/job.96546.software-engineer_shenzhen_china
+
+GitHub
+https://github.com/
+
+why use mysql over postgres - Google 搜索
+https://www.google.com/search?q=why+use+mysql+over+postgres&rlz=1C1GCEA_enJP1090JP1090&oq=why+use+mysql+over+postgres&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg5MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Why Uber Engineering Switched from Postgres to MySQL | Hacker News
+https://news.ycombinator.com/item?id=12166585
+
+IanDarwin (Ian Darwin)
+https://github.com/IanDarwin
+
+build system - Difference Between Android.bp and Android.mk - Stack Overflow
+https://stackoverflow.com/questions/52384832/difference-between-android-bp-and-android-mk
+
+Android Developer Fundamentals Course – Concepts
+https://google-developer-training.github.io/android-developer-fundamentals-course-concepts/en/android-developer-fundamentals-course-concepts-en.pdf
+
+google-developer-training/basic-android-kotlin-compose-birthday-card-app
+https://github.com/google-developer-training/basic-android-kotlin-compose-birthday-card-app
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Design - Fluent 2 Design System
+https://fluent2.microsoft.design/get-started/design
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
