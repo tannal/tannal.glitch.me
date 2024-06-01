@@ -1,4 +1,13 @@
+# 2024-6-1 0 | 0 W
+
+Charles P. Thacker
+Robert M. Metcalfe
+David Boggs
+
 # 2024-5-31 0 | 0 W
+
+basename /foo/bar/baz
+git worktree list
 
 http://localhost:8383/swagger-ui.html
 
