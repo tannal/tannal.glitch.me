@@ -1290,6 +1290,9 @@ echo $env:GOPROXY
 $env:http_proxy='http://192.168.43.1:7890'
 $env:https_proxy='http://192.168.43.1:7890'
 
+set http_proxy='http://192.168.43.1:7890'
+set https_proxy='http://192.168.43.1:7890'
+
 $env:http_proxy=''
 $env:https_proxy=''
 

@@ -1,7 +1,58 @@
 # 2024-6-1 0 | 0 W
 
+chrome.exe --disable-web-security --user-data-dir
+
+<script src="flv.min.js"></script>
+<video id="videoElement"></video>
+<script>
+    if (flvjs.isSupported()) {
+        var videoElement = document.getElementById('videoElement');
+        var flvPlayer = flvjs.createPlayer({
+            type: 'flv',
+            url: 'http://example.com/flv/video.flv'
+        });
+        flvPlayer.attachMediaElement(videoElement);
+        flvPlayer.load();
+        flvPlayer.play();
+    }
+</script>node_modules\.pnpm\flv.js@1.6.2\node_modules\flv.js\dist\flv.js
+
+pnpm install --save flv.js
+
+pnpm i @types/reflv
+
+ffmpeg -re -i demo.flv -c copy -f flv rtmp://localhost:1935/live/QMKZhfALjouxJ8k8jdBUQYgYpYGGb8FuRpxfix6zGUrg1ndw
+
+http://127.0.0.1:7001/live/movie.flv
+
+gem install bundler -v 2.4.0 --source https://gems.ruby-china.com/
+
+gem install websocket-driver -v '0.6.5' --source 'https://rubygems.org/'
+
+https://rubygems.org/gems/bundler/versions
+
+x64 msvcrt
+
+Command Prompt: cmd or cmd.exe
+PowerShell: powershell or powershell.exe
+File Explorer: explorer or explorer.exe
+Control Panel: control or control.exe
+Task Manager: taskmgr or taskmgr.exe
+Registry Editor: regedit or regedit.exe
+Device Manager: devmgmt.msc
+Services: services.msc
+Event Viewer: eventvwr.msc
+Computer Management: compmgmt.msc
+Disk Management: diskmgmt.msc
+System Configuration: msconfig
+Run dialog itself: shell:AppsFolder
+
+perfmon
+
 winget install --id=RubyInstallerTeam.Ruby.3.1  -e
-gem install bundler
+winget uninstall --id=RubyInstallerTeam.Ruby.3.1  -e
+winget install -e --id RubyInstallerTeam.Ruby.2.6
+gem install bundler -v 2.4.0
 
 $env:PATH += ";$(Get-Location)\node_modules\.bin"
 

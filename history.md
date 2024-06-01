@@ -3,6 +3,63 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+algolia/hn-search: Hacker News Search
+https://github.com/algolia/hn-search
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool?tab=readme-ov-file
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Download and install Ruby 2.6 with winget
+https://winget.run/pkg/RubyInstallerTeam/Ruby.2.6
+
+bundler 的所有版本 | RubyGems.org | 您的社区 Gem 托管中心
+https://rubygems.org/gems/bundler/versions
+
+Code search results
+https://github.com/search?q=repo%3Aruby%2Fruby%20jit&type=code
+
+Hacker News Clone
+http://localhost:3000/
+
+gwuhaolin/livego: live video streaming server in golang
+https://github.com/gwuhaolin/livego
+
+使用flv.js做直播 · Issue #3 · gwuhaolin/blog
+https://github.com/gwuhaolin/blog/issues/3
+
+Introduction · Golang 学习资料
+https://go.wuhaolin.cn/
+
+localhost:8090
+http://localhost:8090/
+
+localhost:8090/control/get?room=movie
+http://localhost:8090/control/get?room=movie
+
+Hacker News Clone
+http://localhost:3000/
+
+localhost:3000/live
+http://localhost:3000/live
+
+bilibili/flv.js: HTML5 FLV Player
+https://github.com/bilibili/flv.js
+
+Optimizing: Lazy Loading | Next.js
+https://nextjs.org/docs/pages/building-your-application/optimizing/lazy-loading#with-no-ssr
+
+localhost:3000/static/live.html
+http://localhost:3000/static/live.html
+
+cors - Does --disable-web-security work in Chrome? - Stack Overflow
+https://stackoverflow.com/questions/17679399/does-disable-web-security-work-in-chrome
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Media Queries with Grid Exercise - Ultimate CSS Grid & Layout Techniques, v3
 https://frontendmasters.com/courses/css-grid/media-queries-with-grid-exercise/
 
