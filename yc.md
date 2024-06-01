@@ -2,6 +2,9 @@
 
 # inbox
 
+os unix zfs
+https://news.ycombinator.com/threads?id=bcantrill
+
 flutter RN popular in China
 https://news.ycombinator.com/threads?id=Apocryphon
 
