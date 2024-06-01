@@ -1,5 +1,18 @@
 # 2024-6-1 0 | 0 W
 
+winget install --id=RubyInstallerTeam.Ruby.3.1  -e
+
+$env:PATH += ";$(Get-Location)\node_modules\.bin"
+
+pnpm install --save-dev ts-node nodemon 
+
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+
+$env:TS_NODE_PROJECT="webpack-tsconfig.json" 
+
+AKS algorithm, the KMP algorithm, and the LLL algorithm, I shall
+call it the CVM algorithm in the present note.
+
 Charles P. Thacker
 Robert M. Metcalfe
 David Boggs

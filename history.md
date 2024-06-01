@@ -1,3 +1,185 @@
+# 2024-6-1
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Media Queries with Grid Exercise - Ultimate CSS Grid & Layout Techniques, v3
+https://frontendmasters.com/courses/css-grid/media-queries-with-grid-exercise/
+
+Chapter 6a begin: Desktop-first Media Queries and Grid
+https://codepen.io/jen4web/pen/eYoBExa
+
+719_S19-L06_Storage_1_online
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L06_Storage_1.pdf
+
+719_S19-L19_Networking
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L19_Networking.pdf
+
+Linux HWMON - Patchwork
+https://patchwork.kernel.org/project/linux-hwmon/list/
+
+Introduction to Data Flow Analysis
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L5-Intro-to-Dataflow-pre-class.pdf
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Instrospection&op=translate
+
+ChatGPT
+https://chatgpt.com/?oai-dm=1
+
+majke's comments | Hacker News
+https://news.ycombinator.com/threads?id=majke
+
+LISA11 - Fork Yeah! The Rise and Development of illumos - YouTube
+https://www.youtube.com/watch?v=-zRN7XLCRhc#t=46m45s
+
+bcantrill's comments | Hacker News
+https://news.ycombinator.com/threads?id=bcantrill
+
+About Me - Cliffle
+https://cliffle.com/about/
+
+Blog - Page 1 - Cliffle
+https://cliffle.com/blog/
+
+37204.pdf
+https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/37204.pdf
+
+Google Native Client - Wikipedia
+https://en.wikipedia.org/wiki/Google_Native_Client
+
+illumos
+https://github.com/illumos
+
+Billion file filesystem
+https://blog.liw.fi/posts/2024/billion/
+
+Linux Filesystems: Where did they come from? [linux.conf.au 2014] - YouTube
+https://www.youtube.com/watch?v=SMcVdZk7wV8
+
+Why SQLite Does Not Use Git | Hacker News
+https://news.ycombinator.com/item?id=16806114
+
+Ethernet is Still Going Strong After 50 Years - IEEE Spectrum
+https://spectrum.ieee.org/ethernet-ieee-milestone
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+A Study of Linux File System Evolution | USENIX
+https://www.usenix.org/conference/fast13/technical-sessions/presentation/lu
+
+lu_fast13_slides.pdf
+https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf
+
+Project List - Patchwork
+https://patchwork.freedesktop.org/
+
+Issue search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+BasicBlockPass&type=issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=arm%20simd&sort=byPopularity&type=story
+
+RISC-V Vector Instructions vs ARM and x86 SIMD | by Erik Engheim | The Startup | Medium
+https://medium.com/swlh/risc-v-vector-instructions-vs-arm-and-x86-simd-8c9b17963a31
+
+SIMD Everywhere Optimization from ARM NEON to RISC-V Vector Extensions
+https://arxiv.org/pdf/2309.16509
+
+ARM Advanced SIMD (NEON) Intrinsics and Types in LLVM - The LLVM Project Blog
+https://blog.llvm.org/2010/04/arm-advanced-simd-neon-intrinsics-and.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=fadd&sort=byPopularity&type=story
+
+An Introduction to ARM NEON | Peter Nelson
+https://peterdn.com/post/2014/01/03/an-introduction-to-arm-neon/
+
+ordovician (Erik Engheim)
+https://github.com/ordovician
+
+portrait - Google 搜索
+https://www.google.com/search?q=portrait&rlz=1C1GCEA_enJP1090JP1090&oq=portrait&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=portrait&op=translate
+
+Charles P. Thacker - Google 搜索
+https://www.google.com/search?q=Charles+P.+Thacker&rlz=1C1GCEA_enJP1090JP1090&oq=Charles+P.+Thacker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+David Boggs - Google 搜索
+https://www.google.com/search?q=David+Boggs&rlz=1C1GCEA_enJP1090JP1090&oq=David+Boggs&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQc4MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+主机列表 - 资产管理 - 主机安全 - 控制台
+https://console.cloud.tencent.com/cwp/asset/machine/detail/0740781c-fdf5-4bed-bb06-e93232b158fa/?source=machineList
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?rid=4&id=lhins-55wyqhpe
+
+redis文件中的dump.rdb文件 - Mr_伍先生 - 博客园
+https://www.cnblogs.com/mr-wuxiansheng/p/12865103.html
+
+Computer scientists invent an efficient new way to count | Hacker News
+https://news.ycombinator.com/item?id=40379175
+
+zero_k's comments | Hacker News
+https://news.ycombinator.com/threads?id=zero_k
+
+cvm-note.dvi
+https://cs.stanford.edu/~knuth/papers/cvm-note.pdf
+
+missing the point of webassembly — wingolog
+https://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly
+
+the last 5 years of V8's garbage collector — wingolog
+https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector
+
+Conservative stack scanning [41480448] - Chromium
+https://issues.chromium.org/issues/41480448
+
+cs-miller/hacker-news-ts: A recreation of news.ycombinator.com written in Typescript, using React, Apollo, and the GraphQL HN API
+https://github.com/cs-miller/hacker-news-ts
+
+ourongxing (Ou)
+https://github.com/ourongxing
+
+Hacker News
+http://localhost:3000/404
+
+🧐[问题]项目无法启动，error:0308010C:digital envelope routines::unsupported · Issue #9272 · ant-design/ant-design-pro
+https://github.com/ant-design/ant-design-pro/issues/9272
+
+clintonwoo/hackernews-react-graphql: Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
+https://github.com/clintonwoo/hackernews-react-graphql
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+development environment - How to watch and reload ts-node when TypeScript files change - Stack Overflow
+https://stackoverflow.com/questions/37979489/how-to-watch-and-reload-ts-node-when-typescript-files-change
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Hacker News Clone
+http://localhost:3000/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+algolia/hn-search: Hacker News Search
+https://github.com/algolia/hn-search
+
+Install Ruby 3.1 with winget - winstall
+https://winstall.app/apps/RubyInstallerTeam.Ruby.3.1
+
+【Rails】gemとbundleについてまとめてみた #Ruby - Qiita
+https://qiita.com/mihooo24/items/8c3689bea4e89f613c65
+
 # 2024-5-31
 
 typst.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
