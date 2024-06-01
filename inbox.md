@@ -1,6 +1,7 @@
 # 2024-6-1 0 | 0 W
 
 winget install --id=RubyInstallerTeam.Ruby.3.1  -e
+gem install bundler
 
 $env:PATH += ";$(Get-Location)\node_modules\.bin"
 
