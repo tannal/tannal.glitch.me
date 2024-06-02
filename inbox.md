@@ -1,5 +1,11 @@
 # 2024-6-2 0 | 0 W
 
+%HOMEDRIVE%%HOMEPATH%\.npmrc
+
+https://github.com/sxgan-code/zoey-music-client.git
+
+pnpm store prune
+
 vec![1, 2, 3, 4]
 array
 string &str
