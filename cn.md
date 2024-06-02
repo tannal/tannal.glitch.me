@@ -1,4 +1,5 @@
-
+vivo kernel
+https://github.com/lh233
 
 友链
 https://her-cat.com/links/

@@ -1,5 +1,12 @@
 # 2024-6-2 0 | 0 W
 
+vold
+lmkd
+vold
+
+
+git remote set-url origin http://git.tanmeng.org/tannal/springboot-backend.git
+
 git branch -D origin/master --remote
 git branch --unset-upstream
 git push --set-upstream origin main
