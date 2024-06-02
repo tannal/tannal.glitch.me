@@ -3,6 +3,93 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+sxgan-code/zoey-music-client: 基于Electron28+vite5+TypeScript5+vue3+pinia等技术实现的音乐客户端，项目所有动效，样式及小组件基本手动实现，基本未使用第三方组件库
+https://github.com/sxgan-code/zoey-music-client
+
+Repository search results
+https://github.com/search?q=vue3+pinia+vite5&type=repositories&p=1
+
+xiangshu233/vue3-vant4-mobile: 👋👋👋 基于Vue3.4、Vite5、Vant4、Pinia、Typescript、UnoCSS等主流技术开发，集成 Dark Mode(暗黑)模式和系统主题色，且持久化保存，集成 Mock 数据，包括登录/注册/找回/keep-alive/Axios/useEcharts/IconSvg等其他扩展。你可以在此之上直接开发你的业务代码！
+https://github.com/xiangshu233/vue3-vant4-mobile
+
+baimingxuan/vue3-admin-design: 基于Vue3、Pinia、Antd5、Vite5、和Typescript的中后台管理系统
+https://github.com/baimingxuan/vue3-admin-design
+
+`DOMException`s do not work with `v8.serialize()` · Issue #53225 · nodejs/node
+https://github.com/nodejs/node/issues/53225
+
+GitHub Actions: NODE_OPTIONS is now restricted from GITHUB_ENV - The GitHub Blog
+https://github.blog/changelog/2023-10-05-github-actions-node_options-is-now-restricted-from-github_env/
+
+How to get pnpm store directory - Stack Overflow
+https://stackoverflow.com/questions/55403775/how-to-get-pnpm-store-directory
+
+Feature: pnpm clean · Issue #6816 · pnpm/pnpm
+https://github.com/pnpm/pnpm/issues/6816
+
+Behind proxy, installation failed with 7.0.0, but works with 6.1.2 · Issue #20739 · electron/electron
+https://github.com/electron/electron/issues/20739
+
+Releases · redis-windows/redis-windows
+https://github.com/redis-windows/redis-windows/releases
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+linux - Redis "--protected-mode no" not persistent data on disk - Stack Overflow
+https://stackoverflow.com/questions/47987538/redis-protected-mode-no-not-persistent-data-on-disk
+
+Swagger UI
+http://localhost:8383/swagger-ui/index.html#/auth-controller/sendVerificationEmail
+
+javascript - Chrome Console: reload page - Stack Overflow
+https://stackoverflow.com/questions/12516592/chrome-console-reload-page
+
+Source map doesn't work for external dependency in preload script · Issue #24916 · electron/electron
+https://github.com/electron/electron/issues/24916
+
+Using console.log() in Electron app - Stack Overflow
+https://stackoverflow.com/questions/31759367/using-console-log-in-electron-app
+
+Blog/Article/业务场景/axios请求特殊异常处理优先于全局统一异常处理.md at master · linJ-000/Blog
+https://github.com/linJ-000/Blog/blob/master/Article/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/axios%E8%AF%B7%E6%B1%82%E7%89%B9%E6%AE%8A%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%BC%98%E5%85%88%E4%BA%8E%E5%85%A8%E5%B1%80%E7%BB%9F%E4%B8%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md
+
+Debugging in VSCode | Electron
+https://www.electronjs.org/docs/latest/tutorial/debugging-vscode
+
+fix: sync devtools frontend mime types with upstream by trop[bot] · Pull Request #27102 · electron/electron
+https://github.com/electron/electron/pull/27102/files
+
+Spring Boot（十四）：教你四招实现 CORS 跨域资源共享 - 掘金
+https://juejin.cn/post/7053753080176705573
+
+backend/src/main/java/web40/demo/CORSConfig.java at 5f15f7a1d64b4abb8dccdec4039a684d98a814e8 · MrGeennius/backend
+https://github.com/MrGeennius/backend/blob/5f15f7a1d64b4abb8dccdec4039a684d98a814e8/src/main/java/web40/demo/CORSConfig.java#L8
+
+java - Cors Error when using CorsFilter and spring security - Stack Overflow
+https://stackoverflow.com/questions/66060750/cors-error-when-using-corsfilter-and-spring-security
+
+curl show response headers - Google 搜索
+https://www.google.com/search?q=curl+show+response+headers&rlz=1C1GCEA_enJP1090JP1090&oq=curl+show+repo&gs_lcrp=EgZjaHJvbWUqCwgCEAAYChgTGIAEMgYIABBFGDkyCwgBEAAYChgTGIAEMgsIAhAAGAoYExiABDILCAMQABgKGBMYgAQyCggEEAAYgAQYogQyCggFEAAYgAQYogTSAQgyNzU5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+spring boot - How to fix "Bad credentials" error using authentication manager? - Stack Overflow
+https://stackoverflow.com/questions/66935371/how-to-fix-bad-credentials-error-using-authentication-manager
+
+GitHub
+https://github.com/
+
+CORS not working with Spring Boot when MaxUploadSizeExceededException handled by ControllerAdvice · Issue #31286 · spring-projects/spring-framework
+https://github.com/spring-projects/spring-framework/issues/31286
+
+java - Cors Error with Post mapping in Spring boot - Stack Overflow
+https://stackoverflow.com/questions/55445183/cors-error-with-post-mapping-in-spring-boot
+
+Spring Boot CORS filter - CORS preflight channel did not succeed - Stack Overflow
+https://stackoverflow.com/questions/36809528/spring-boot-cors-filter-cors-preflight-channel-did-not-succeed
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 央行专区 | MacroMicro 财经M平方
 https://sc.macromicro.me/central_bank/us
 

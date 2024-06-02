@@ -1,5 +1,15 @@
 # 2024-6-2 0 | 0 W
 
+curl -v -X POST http://localhost:8383/api/auth/login \
+     -H "Content-Type: application/json" \
+     -d '{"email": "tannal2409@gmail.com", "password": "tannal"}'
+
+.\mvnw.cmd spring-boot:run
+
+$env:ELECTRON_ENABLE_LOGGING=1
+
+export PATH=C:/Users/tannal/Downloads/w64devkit-1.21.0/w64devkit/bin/:$PATH
+
 %HOMEDRIVE%%HOMEPATH%\.npmrc
 
 https://github.com/sxgan-code/zoey-music-client.git
@@ -229,6 +239,7 @@ host   goshop      ubuntu       0.0.0.0/0          md5
 host   realtime    ubuntu       0.0.0.0/0          md5
 
 ./psql -U ubuntu -w -d postgres
+./psql -U ubuntu -w -d realtime
 
 create database goshop;
 create database realtime;
