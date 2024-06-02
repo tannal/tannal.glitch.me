@@ -1,9 +1,13 @@
 # 2024-6-2 0 | 0 W
 
+https://www.dre.vanderbilt.edu/~schmidt/courses.html
+Android Development
+https://www.dre.vanderbilt.edu/~schmidt/cs282/PDFs/
+
 vold
 lmkd
 vold
-
+https://cs.android.com/android/platform/superproject/+/master:system/logging/logd/main.cpp;l=76
 
 git remote set-url origin http://git.tanmeng.org/tannal/springboot-backend.git
 
