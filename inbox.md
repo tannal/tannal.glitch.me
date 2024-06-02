@@ -1,5 +1,9 @@
 # 2024-6-1 0 | 0 W
 
+Get-Content -Path "browser_session_description.txt" | powershell -Command "& {cargo run --release}"
+
+http://localhost:8090/control/get?room=movie
+
 chrome.exe --disable-web-security --user-data-dir
 
 <script src="flv.min.js"></script>
@@ -21,7 +25,7 @@ pnpm install --save flv.js
 
 pnpm i @types/reflv
 
-ffmpeg -re -i demo.flv -c copy -f flv rtmp://localhost:1935/live/QMKZhfALjouxJ8k8jdBUQYgYpYGGb8FuRpxfix6zGUrg1ndw
+ffmpeg -re -i demo.flv -c copy -f flv rtmp://localhost:1935/live/4evfaMkX4H3Y2obcD2ftf6AdCVcXYq4BcSRHFwT1b3Ijiwmt
 
 http://127.0.0.1:7001/live/movie.flv
 

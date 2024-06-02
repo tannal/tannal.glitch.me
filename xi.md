@@ -1,5 +1,6 @@
 # inbox
 
+cargo run --example run_on_demand
 
 cargo run
 
