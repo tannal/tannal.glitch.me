@@ -1,3 +1,140 @@
+# 2024-6-2
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+除了使用ffmpeg进行向服务器推流，还有其他可以推流的golang库么 · Issue #41 · gwuhaolin/livego
+https://github.com/gwuhaolin/livego/issues/41
+
+localhost:8090/control/get?room=movie
+http://localhost:8090/control/get?room=movie
+
+localhost:3000/static/live.html
+http://localhost:3000/static/live.html
+
+loyal812/rust-webrtc: A simple WebRTC streaming server. It streams video and audio from a file to a browser client.
+https://github.com/loyal812/rust-webrtc
+
+#general > Exchange on #31415 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Exchange.20on.20.2331415
+
+ci: Disable legacy layout tests when landing PRs by mrobinson · Pull Request #32405 · servo/servo
+https://github.com/servo/servo/pull/32405
+
+minibrowser: Disables urlbar when in fullscreen by Nylme · Pull Request #32425 · servo/servo
+https://github.com/servo/servo/pull/32425/files
+
+192.168.43.27:8080/webrtc.html
+http://192.168.43.27:8080/webrtc.html
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+#xilem > how to close window but keep app running - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/how.20to.20close.20window.20but.20keep.20app.20running
+
+Linebender
+https://github.com/linebender
+
+winit/examples/run_on_demand.rs at master · rust-windowing/winit
+https://github.com/rust-windowing/winit/blob/master/examples/run_on_demand.rs
+
+思想政治方面个人总结_小以思AI
+https://www.limiaogx.com/article/c07d95956161fe6ddce75f89.html
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+Tracking issue for blur and filter effects · Issue #476 · linebender/vello
+https://github.com/linebender/vello/issues/476
+
+vello/doc/roadmap_2023.md at main · linebender/vello
+https://github.com/linebender/vello/blob/main/doc/roadmap_2023.md#blurs-and-filter-effects
+
+A Deep Dive into Unreal Engine's 5 Nanite | SIGGRAPH 2021
+https://s2021.siggraph.org/a-deep-dive-into-unreal-engines-5-nanite/
+
+A Deep Dive into Unreal Engine's 5 Nanite
+https://80.lv/articles/a-deep-dive-into-unreal-engine-s-5-nanite/
+
+(184) #general > table64 in wasmtime? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/table64.20in.20wasmtime.3F
+
+Implement the table64 extension to the memory64 proposal · Issue #8674 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8674
+
+Implement the table64 extension to the memory64 proposal by alexcrichton · Pull Request #1531 · bytecodealliance/wasm-tools
+https://github.com/bytecodealliance/wasm-tools/pull/1531/files
+
+Introduction - The WebAssembly Component Model
+https://component-model.bytecodealliance.org/introduction.html
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node/issues
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+sshx
+https://sshx.io/
+
+ekzhang/sshx: Fast, collaborative live terminal sharing over the web
+https://github.com/ekzhang/sshx
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=geek%20nerd&sort=byPopularity&type=story
+
+Code search results
+https://github.com/search?q=repo%3Aemscripten-core%2Femscripten%20clang&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=name%20mangling&sort=byPopularity&type=story
+
+Shrinking VS Code with name mangling
+https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode
+
+UWTB
+https://blog.mattbierner.com/
+
+sshx
+http://localhost:5173/
+
+SIG-Guest-Languages/docs/subgroups.md at main · bytecodealliance/SIG-Guest-Languages
+https://github.com/bytecodealliance/SIG-Guest-Languages/blob/main/docs/subgroups.md
+
+Documentation: mention `rustlings lsp` in the initial ReadMe.md · Issue #1968 · rust-lang/rustlings
+https://github.com/rust-lang/rustlings/issues/1968
+
+delete line vscode - Google 搜索
+https://www.google.com/search?q=delete+line+vscode&rlz=1C1GCEA_enJP1090JP1090&oq=delete+line+vscode&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINTU3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=freed&op=translate
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Ralph - Google 搜索
+https://www.google.com/search?q=Ralph&rlz=1C1GCEA_enJP1090JP1090&oq=Ralph&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+mp4 format - Google 搜索
+https://www.google.com/search?q=mp4+format&rlz=1C1GCEA_enJP1090JP1090&oq=mp4+format&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzOTIzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=vue3+pinia+vite5&type=repositories&p=1
+
+【CEIC精选短评】6月美国通胀率持续上升
+https://info.ceicdata.com/zh/us-inflation-keeps-rising-in-june
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=interest&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
 # 2024-6-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
