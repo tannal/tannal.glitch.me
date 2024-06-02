@@ -1,5 +1,10 @@
 # 2024-6-2 0 | 0 W
 
+git branch -D origin/master --remote
+git branch --unset-upstream
+git push --set-upstream origin main
+git push -d origin master 
+
 curl -v -X POST http://localhost:8383/api/auth/login \
      -H "Content-Type: application/json" \
      -d '{"email": "tannal2409@gmail.com", "password": "tannal"}'
