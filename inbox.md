@@ -1,3 +1,16 @@
+# 2024-6-2 0 | 0 W
+
+vec![1, 2, 3, 4]
+array
+string &str
+
+i32 ui32 ... number
+float double
+rust-project.json
+
+
+cargo install --git https://github.com/ekzhang/sshx sshx
+
 # 2024-6-1 0 | 0 W
 
 Get-Content -Path "browser_session_description.txt" | powershell -Command "& {cargo run --release}"
