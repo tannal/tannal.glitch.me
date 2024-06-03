@@ -1,6 +1,29 @@
 
 # inbox
 
+Frontend
+electron music player
+React/SPA/ Nextjs/SSR admin
+Svelte/Astro content centered
+
+Backend
+Springboot redis kafka postgresql swagger
+golang gin grpc postgresql redis kafka swagger
+
+tiktok mini backend
+
+Android/Cross Platform
+Tiktok app (Old School & Jetpack Compose)
+Android NDK
+Android interrnals/ios/mac
+flutter/linebender
+
+
+
+media/stream/ app
+
+docs/content app
+
 I use flamegraph.
 
 know about git, 

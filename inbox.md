@@ -1,5 +1,10 @@
 # 2024-6-3 0 | 0 W
 
+adb exec-out screencap -p > screenshot.png && clip < screenshot.png
+
+adb exec-out screencap -p > screen.png
+
+screencap -p /sdcard/screen.png
 
 # 2024-6-2 0 | 0 W
 
