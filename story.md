@@ -1,6 +1,11 @@
 
 # inbox
 
+I managed serval services
+gitea for source control
+geodns for dns resolution
+exdraw for paper & pencil work
+
 Frontend
 electron music player
 React/SPA/ Nextjs/SSR admin

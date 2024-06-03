@@ -1,5 +1,10 @@
 # 2024-6-3 0 | 0 W
 
+main process
+renderer process
+
+electron 23 26 28 30 
+
 adb exec-out screencap -p > screenshot.png && clip < screenshot.png
 
 adb exec-out screencap -p > screen.png
