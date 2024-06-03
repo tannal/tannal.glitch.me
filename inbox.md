@@ -1,5 +1,22 @@
 # 2024-6-3 0 | 0 W
 
+https://aras-p.info/
+
+.\mvnw.cmd dependency:purge-local-repository -DactTransitively=false -DreResolve=false
+
+
+.\mvnw.cmd spring-boot:run -Dspring-boot.run.jvmArguments="-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=0.0.0.0:5005"
+.\mvnw.cmd spring-boot:run -Drun.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000"
+
+Fun fact spring is owned by vmware now.
+
+Pixar Animation Studios
+
+Binary Protocols vs Text Protocols
+
+Bert Bos
+Maciej Stachowiak
+
 git remote set-url origin http://git.tanmeng.org/tannal/web-books.git
 
 typographic

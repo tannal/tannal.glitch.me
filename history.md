@@ -3,6 +3,210 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+WebGL Academy Interactive Tutorials
+http://www.webglacademy.com/
+
+PicoGL.js
+https://tsherif.github.io/picogl.js/
+
+Ray Tracing in One Weekend
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+HTTP: HTTP/2 - High Performance Browser Networking (O'Reilly)
+https://hpbn.co/http2/
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/0d534b25-051d-4e02-aff8-aaba71e1687f
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/project/0d534b25-051d-4e02-aff8-aaba71e1687f
+
+android - Using ADB to capture the screen - Stack Overflow
+https://stackoverflow.com/questions/27766712/using-adb-to-capture-the-screen
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+Excalidraw
+http://draw.tanmeng.org/
+
+sshx
+http://localhost:5173/
+
+androids: the team that built the android operating system pdf - Google 搜索
+https://www.google.com/search?q=androids%3A+the+team+that+built+the+android+operating+system+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=androids+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgwIAhAAGAoYsQMYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIGCAcQRRg80gEIMjQyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+every ten years computing platform - Google 搜索
+https://www.google.com/search?q=every+ten+years+computing+platform+&sca_esv=6e53faefe980b8d3&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIixu4EqtqnBGPEkTtvxxpEeC2AUA%3A1717381180113&ei=PChdZujJBpqd4-EPj-mD6A4&ved=0ahUKEwjo17y5r76GAxWazjgGHY_0AO0Q4dUDCBA&uact=5&oq=every+ten+years+computing+platform+&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2V2ZXJ5IHRlbiB5ZWFycyBjb21wdXRpbmcgcGxhdGZvcm0gMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI8jBQuwlY6C9wAngBkAEAmAGYA6ABvyyqAQYzLTE1LjG4AQPIAQD4AQGYAgSgAoUGwgIKEAAYsAMY1gQYR8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGB4YD5gDAIgGAZAGCZIHBzIuMy0xLjGgB4E0&sclient=gws-wiz-serp#ip=1
+
+The Front End Developer/Engineer Handbook 2024
+http://localhost:8080/life.html
+
+Ask HN: If Dart can do it, then why can't Rust? | Hacker News
+https://news.ycombinator.com/item?id=34331600
+
+Are we GUI yet?
+https://areweguiyet.com/
+
+2D Rendering | Are we game yet?
+https://arewegameyet.rs/ecosystem/2drendering/
+
+(2) Separate fallback for raw text / code and other text · Issue #4321 · typst/typst
+https://github.com/typst/typst/issues/4321
+
+Draggable - SVG Essentials & Animation, v2
+https://frontendmasters.com/courses/svg-essentials-animation/draggable/
+
+SVG Essentials, 2nd Edition [Book]
+https://www.oreilly.com/library/view/svg-essentials-2nd/9781491945308/
+
+Issues · electron/electron
+https://github.com/electron/electron/issues
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Frontend Masters
+https://github.com/FrontendMasters
+
+The Front End Developer/Engineer Handbook 2024
+https://frontendmasters.com/guides/front-end-handbook/2024/#5.7
+
+voice control - Google 搜索
+https://www.google.com/search?q=voice+control&rlz=1C1GCEA_enJP1090JP1090&oq=voice+control&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+The Front End Developer/Engineer Handbook 2024
+http://localhost:8081/open-in-web-browser.html
+
+backendmasters - Google 搜索
+https://www.google.com/search?q=backendmasters&rlz=1C1GCEA_enJP1090JP1090&oq=backendmasters&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4MzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+The Front End Developer/Engineer Handbook 2024
+http://localhost:8080/cs.html
+
+GitHub
+https://github.com/
+
+Ask HN: Why is GUI programming so hard? | Hacker News
+https://news.ycombinator.com/item?id=38748921
+
+Profile: cookiengineer | Hacker News
+https://news.ycombinator.com/user?id=cookiengineer
+
+surfaceflinger - Google 搜索
+https://www.google.com/search?q=surfaceflinger&rlz=1C1GCEA_enJP1090JP1090&oq=surfacefi&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEINTIxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+atanassov (Rossen Atanassov)
+https://github.com/atanassov
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+dotCSS 2014 - Bert Bos - A handful of typographic challenges - YouTube
+https://www.youtube.com/watch?v=MI7Xz-_ddu4
+
+Igalia Chats: Ecosystem Health Part II with Rick Byers and Rossen Atanassov - YouTube
+https://www.youtube.com/watch?v=OCWtStem0Jw
+
+tannal/web-books - web-books - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/web-books
+
+careful don't get lost in french - Google 搜索
+https://www.google.com/search?q=careful+don%27t+get+lost+in+french&rlz=1C1GCEA_enJP1090JP1090&oq=careful+do&gs_lcrp=EgZjaHJvbWUqCQgCEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMgoIBRAAGA8YExgeMgoIBhAAGAUYExgeMgoIBxAAGAUYExgeMgoICBAAGAUYExgeMgoICRAAGAUYExge0gEINTc4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Chris Lilley
+https://svgees.us/
+
+Chris Lilley's résumé
+https://svgees.us/cv.html
+
+svgeesus (Chris Lilley)
+https://github.com/svgeesus
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+rocketmq - Google 搜索
+https://www.google.com/search?q=rocketmq&rlz=1C1GCEA_enJP1090JP1090&oq=rocketmq&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgzNzM3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rocketmq&sort=byPopularity&type=story
+
+Bert Bos youtube - Google 搜索
+https://www.google.com/search?q=Bert+Bos+youtube&sca_esv=e28e61cb2112c7aa&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJK3NkF7Re900yxHPBQ4uGYu_SeGg%3A1717388198101&ei=pkNdZrXvBY7v4-EPsbOp0QU&ved=0ahUKEwi12vTLyb6GAxWO9zgGHbFZKloQ4dUDCBA&uact=5&oq=Bert+Bos+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEJlcnQgQm9zIHlvdXR1YmUyBRAhGKABMgUQIRigAUjoCFBWWOgHcAF4AJABAJgBiQOgAbsOqgEDMy01uAEDyAEA-AEBmAIGoALMDsICChAAGIAEGLADGArCAgsQABiABBiwAxjLAcICFhAuGIAEGLADGNEDGMcBGMgDGArYAQHCAhEQLhiABBiwAxjIAxjLAdgBAcICEBAuGIAEGLADGMgDGArYAQHCAhYQLhiABBiwAxjHARjIAxgKGK8B2AEBwgIIEAAYgAQYywHCAgQQABgemAMAiAYBkAYRugYGCAEQARgIkgcFMS4zLTWgB6sJ&sclient=gws-wiz-serp
+
+Hussein Nasser: About
+https://www.husseinnasser.com/p/about-hussein.html
+
+Hussein Nasser: Courses
+https://www.husseinnasser.com/p/courses.html
+
+othermaciej (Maciej Stachowiak)
+https://github.com/othermaciej
+
+sequence relation postgresql - Google 搜索
+https://www.google.com/search?q=sequence+relation+postgresql&rlz=1C1GCEA_enJP1090JP1090&oq=sequence+relation+postgresql&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgPGB4yBggCEAAYHjIGCAMQABgeMggIBBAAGAUYHjIKCAUQABgFGA8YHjIKCAYQABgFGA8YHjIICAcQABgFGB4yCggIEAAYBRgPGB4yCggJEAAYBRgPGB7SAQg3MDkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+binary protocols - Google 搜索
+https://www.google.com/search?q=binary+protocols&rlz=1C1GCEA_enJP1090JP1090&oq=binary+protocols&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yCAgEEAAYDxgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM0NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shader%20&sort=byPopularity&type=story
+
+2018Academy - GPU
+https://aras-p.info/texts/files/2018Academy%20-%20GPU.pdf
+
+bps10.idav.ucdavis.edu
+http://bps10.idav.ucdavis.edu/
+
+Human Shader
+https://humanshader.com/
+
+A Journey Into Shaders
+https://www.mayerowitz.io/blog/a-journey-into-shaders
+
+The Book of Shaders
+https://thebookofshaders.com/
+
+Rod Johnson youtube - Google 搜索
+https://www.google.com/search?q=Rod+Johnson+youtube&sca_esv=09b2a16ac252101f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILdpsvfMrjPEZ4JWMk5HvirvrdtTg%3A1717390335448&ei=_0tdZvH4Gsq5seMP87iIwAs&ved=0ahUKEwix9InH0b6GAxXKXGwGHXMcArgQ4dUDCBA&uact=5&oq=Rod+Johnson+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1JvZCBKb2huc29uIHlvdXR1YmUyBRAhGKABSLUKUPEBWLsJcAF4AZABAJgBugOgAbIOqgEFMy00LjG4AQPIAQD4AQGYAgagAsQOwgIKEAAYsAMY1gQYR8ICCBAAGIAEGMsBwgIIEC4YgAQYywHCAg4QLhiABBjHARjLARivAcICCBAAGIAEGKIEmAMAiAYBkAYBkgcHMS4zLTQuMaAHrA4&sclient=gws-wiz-serp
+
+esfandiar/vs-code-spring-boot-setup: Use VS Code to run and debug a Spring Boot application
+https://github.com/esfandiar/vs-code-spring-boot-setup
+
+Run tasks in a particular working directory · Issue #856 · microsoft/vscode
+https://github.com/Microsoft/vscode/issues/856
+
+java - Maven spring boot run debug with arguments - Stack Overflow
+https://stackoverflow.com/questions/36217949/maven-spring-boot-run-debug-with-arguments
+
+Build :: Spring Boot
+https://docs.spring.io/spring-boot/how-to/build.html#howto.build.remote-debug-maven
+
+Running your Application with Maven :: Spring Boot
+https://docs.spring.io/spring-boot/maven-plugin/run.html#run.examples.debug
+
+caching - How do you clear Apache Maven's cache? - Stack Overflow
+https://stackoverflow.com/questions/7408545/how-do-you-clear-apache-mavens-cache
+
+Repository search results
+https://github.com/search?q=youtube+language%3AKotlin+&type=repositories
+
+bps10.idav.ucdavis.edu
+http://bps10.idav.ucdavis.edu/
+
+Aras' website
+https://aras-p.info/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 HTTP: HTTP/2 - High Performance Browser Networking (O'Reilly)
 https://hpbn.co/http2/
 
