@@ -1,3 +1,152 @@
+# 2024-6-3
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+HTTP: HTTP/2 - High Performance Browser Networking (O'Reilly)
+https://hpbn.co/http2/
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+@RequestBody - Google 搜索
+https://www.google.com/search?q=%40RequestBody&rlz=1C1GCEA_enJP1090JP1090&oq=%40RequestBody&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Redis实现短信验证码登录_redis生成验证码-CSDN博客
+https://blog.csdn.net/weixin_46016309/article/details/131678264
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+version control - How do I delete a Git branch locally and remotely? - Stack Overflow
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+puskal-khadka/TikTok-Compose: TikTok clone Android app built with jetpack compose following clean architecture & modularization.
+https://github.com/puskal-khadka/TikTok-Compose
+
+Issues · flutter/flutter
+https://github.com/flutter/flutter/issues
+
+Ask HN: I simply hate working. What do I do? | Hacker News
+https://news.ycombinator.com/item?id=40496826
+
+Shayaan-Nofil/QuickGlance: A snapchat like android application that was made using android studio (Kotlin)
+https://github.com/Shayaan-Nofil/QuickGlance
+
+sshx
+http://localhost:5173/
+
+tf-idf algorithm - Google 搜索
+https://www.google.com/search?q=tf-idf+algorithm&rlz=1C1GCEA_enJP1090JP1090&oq=tf-idf+algorithm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Android -- Vold机制简要分析_vold app data隔离有什么用-CSDN博客
+https://blog.csdn.net/qeLygu38zX/article/details/59103504
+
+reklaw_blog/Android at master · reklaw-tech/reklaw_blog
+https://github.com/reklaw-tech/reklaw_blog/tree/master/Android
+
+Chapter 4 - Runtime Services (Excerpt)
+https://newandroidbook.com/Book/logd.pdf
+
+newdebuggingbook.com
+http://newdebuggingbook.com/
+
+tripdout's comments | Hacker News
+https://news.ycombinator.com/threads?id=tripdout
+
+Compiling a Custom Browser to Bypass Anti-Bot Measures | nullpt.rs
+https://www.nullpt.rs/compiling-browser-to-bypass-antibot-measures
+
+netd - Google 搜索
+https://www.google.com/search?q=netd&sca_esv=802f442ca97dd25b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKXlA3dBh6SxFN4uHeiLLxdlQ_URg%3A1717331750119&ei=JmdcZsHjBvaJ4-EPq5qQ6As&ved=0ahUKEwjBjrWn97yGAxX2xDgGHSsNBL0Q4dUDCBA&uact=5&oq=netd&gs_lp=Egxnd3Mtd2l6LXNlcnAiBG5ldGQyChAjGIAEGCcYigUyChAjGIAEGCcYigUyChAjGIAEGCcYigUyERAuGIAEGLEDGNEDGIMBGMcBMgsQABiABBixAxiDATIREC4YgAQYsQMY0QMYgwEYxwEyCBAAGIAEGLEDMg4QLhiABBixAxjHARivATIOEC4YgAQYsQMY0QMYxwEyCxAAGIAEGLEDGIMBSKkHUABYtQZwAHgBkAEAmAGvA6ABqQaqAQUzLTEuMbgBA8gBAPgBAZgCAqACtgbCAgsQLhiABBixAxiDAcICCBAuGIAEGLEDwgIFEAAYgASYAwCSBwUzLTEuMaAHmhs&sclient=gws-wiz-serp#ip=1
+
+Job - Gityuan博客 | 袁辉辉的技术博客
+https://gityuan.com/job/
+
+如何自学Android - Gityuan博客 | 袁辉辉的技术博客
+https://gityuan.com/2016/04/24/how-to-study-android/
+
+ByteZoneX-探索Web开发资源和人工智能教程的代码社区
+https://www.bytezonex.com/
+
+MyBatis 的运作机制及其可拓展性 - ByteZoneX社区
+https://www.bytezonex.com/archives/G-kICbKI.html
+
+亚嵌教育
+https://akaedu.github.io/
+
+CS 282: Principles of Operating Systems II: Concurrent Java Network Programming in Android
+https://www.dre.vanderbilt.edu/~schmidt/cs282/index.html
+
+platform/superproject/main - Android Code Search
+https://cs.android.com/android/platform/superproject/main
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+LibXZR 的小本本
+https://blog.xzr.moe/
+
+nelenkov (Nikolay Elenkov)
+https://github.com/nelenkov
+
+hostapd - Google 搜索
+https://www.google.com/search?q=hostapd&rlz=1C1GCEA_enJP1090JP1090&oq=hostapd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Akipe/awesome-android-aosp: A collection of Android AOSP and ROM development related resources
+https://github.com/Akipe/awesome-android-aosp?tab=readme-ov-file#gnu-make
+
+1 250 jpy - Google 搜索
+https://www.google.com/search?q=1+250+jpy&rlz=1C1GCEA_enJP1090JP1090&oq=1%2C250+jp&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQ3NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Added local directory listing feature. by Bobulous · Pull Request #32167 · servo/servo
+https://github.com/servo/servo/pull/32167/
+
+Unified thread pool and async runtime · Issue #32428 · servo/servo
+https://github.com/servo/servo/issues/32428
+
+fogset/TikTok_ReactNative: TikTok Clone
+https://github.com/fogset/TikTok_ReactNative
+
+tiktok-clone/lib/common/widgets at main · BBangsoboro/tiktok-clone
+https://github.com/BBangsoboro/tiktok-clone/tree/main/lib/common/widgets
+
+androids: the team that built the android operating system pdf - Google 搜索
+https://www.google.com/search?q=androids%3A+the+team+that+built+the+android+operating+system+pdf&sca_esv=8a8b6d08bdc6c0cb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKiGBX-E7MhYa_HOw4jBiXOLk6q0Q%3A1717336119208&ei=N3hcZr6uDOPAjuMP3M-X4QI&ved=0ahUKEwj-peHKh72GAxVjoGMGHdznJSwQ4dUDCBA&uact=5&oq=androids%3A+the+team+that+built+the+android+operating+system+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiPmFuZHJvaWRzOiB0aGUgdGVhbSB0aGF0IGJ1aWx0IHRoZSBhbmRyb2lkIG9wZXJhdGluZyBzeXN0ZW0gcGRmMgcQIxiwAxgnSOkFUP8CWI0EcAF4AJABAJgB0AKgAdACqgEDMy0xuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYBkgcBMaAHew&sclient=gws-wiz-serp#ip=1
+
+Android Mobile Operating System List.pdf
+https://www.slideshare.net/slideshow/android-mobile-operating-system-listpdf/257305708
+
+Android L - Google 搜索
+https://www.google.com/search?q=Android+L&rlz=1C1GCEA_enJP1090JP1090&oq=Android+L&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEHMTU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+import sqlite3 is throwing node.j error and killing the script · Issue #53267 · nodejs/node
+https://github.com/nodejs/node/issues/53267
+
+status:open -is:wip · Gerrit Code Review
+https://review.lineageos.org/q/status:open+-is:wip
+
+lineageos - Google 搜索
+https://www.google.com/search?q=lineageos&rlz=1C1GCEA_enJP1090JP1090&oq=lineageos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBjk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+LineageOS
+https://github.com/LineageOS
+
+Code search results
+https://github.com/search?q=spring.kafka.consumer.group-id&type=code&p=2
+
+Java-Interview/项目推荐/秒杀.md at e6b8ff8e54066d07934c166f176833e37b0ca6df · gzc426/Java-Interview
+https://github.com/gzc426/Java-Interview/blob/e6b8ff8e54066d07934c166f176833e37b0ca6df/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/%E7%A7%92%E6%9D%80.md?plain=1#L380
+
 # 2024-6-2
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

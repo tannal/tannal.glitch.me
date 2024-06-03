@@ -1,6 +1,16 @@
+# 2024-6-3 0 | 0 W
+
+
 # 2024-6-2 0 | 0 W
 
+adb shell
+screencap
+
+Android Security Internals Author
+https://github.com/nelenkov
+
 https://www.bytezonex.com/
+https://blog.xzr.moe/
 
 https://www.dre.vanderbilt.edu/~schmidt/courses.html
 Android Development
