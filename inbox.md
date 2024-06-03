@@ -1,5 +1,11 @@
 # 2024-6-3 0 | 0 W
 
+git remote set-url origin http://git.tanmeng.org/tannal/web-books.git
+
+typographic
+
+免费社区，付费咨询、培训
+
 main process
 renderer process
 

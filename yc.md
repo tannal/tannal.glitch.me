@@ -2,6 +2,9 @@
 
 # inbox
 
+areweguiyet.com
+https://news.ycombinator.com/threads?id=thesuperbigfrog
+
 os unix zfs
 https://news.ycombinator.com/threads?id=bcantrill
 

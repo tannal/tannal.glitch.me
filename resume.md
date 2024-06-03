@@ -1,6 +1,8 @@
 
 # read others resume help you write yours
 
+creator of svg
+https://svgees.us/cv.html
 
 wasmtime ex-mozilla cranelift https://benj.me/pub/resume-2023-02-09.pdf
 
