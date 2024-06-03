@@ -1,9 +1,14 @@
 # 2024-6-3 0 | 0 W
 
+set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000
+$env:MAVEN_OPTS="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000 -Djava.net.useSystemProxies=true"
+$env:MAVEN_OPTS="-Djava.net.useSystemProxies=true"
+
 https://aras-p.info/
 
-.\mvnw.cmd dependency:purge-local-repository -DactTransitively=false -DreResolve=false
+.\mvnw.cmd dependency:purge-local-repository -DactTransitively=false -DreResolve=false  -Djava.net.useSystemProxies=true
 
+.\mvnw.cmd -Djava.net.useSystemProxies=true spring-boot:run
 
 .\mvnw.cmd spring-boot:run -Dspring-boot.run.jvmArguments="-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=0.0.0.0:5005"
 .\mvnw.cmd spring-boot:run -Drun.jvmArguments="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000"
@@ -303,6 +308,7 @@ host   realtime    ubuntu       0.0.0.0/0          md5
 ./psql -U ubuntu -w -d realtime
 
 create database goshop;
+create database async_task_service;
 create database realtime;
 vim data/postgresql.conf
 
