@@ -1,5 +1,95 @@
 # 2024-6-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+应届生档案转递
+https://oa-443.webvpn.nenu.edu.cn/spa/workflow/static4form/index.html?_rdm=1717489546278#/main/workflow/req?isOpenContinuationProcess=undefined&sessionkey=10021_10021_43611_1717489545264&requestid=138780&belongTest=false&isRefresh=1&f_weaver_belongto_usertype=0&f_weaver_belongto_userid=43611&isShowChart=3&saveType=undefined&needRemind=false&isaffirmance=0&_key=dhv7sw
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Imesh7/trading-system: Trading system with go + postgres + kafka + redis + websocket + next.js
+https://github.com/Imesh7/trading-system
+
+albeit - Google 搜索
+https://www.google.com/search?q=albeit&rlz=1C1GCEA_enJP1090JP1090&oq=albeit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+how to install pg_buffercache to postgres - Google 搜索
+https://www.google.com/search?q=how+to+install+pg_buffercache+to+postgres&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+install+pg_buffercache+to+postgres&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Pull requests · postgres/postgres
+https://github.com/postgres/postgres/pulls
+
+PostgreSQL: Documentation: 16: CREATE EXTENSION
+https://www.postgresql.org/docs/current/sql-createextension.html
+
+postgresql - Install extension in postgres - Stack Overflow
+https://stackoverflow.com/questions/61745995/install-extension-in-postgres
+
+https://www.google.com/search?q=ninja+-C+target&rlz=1C1GCEA_enJP1090JP1090&oq=ninja+-C+target&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQxMjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3Dninja%2B-C%2Btarget%26rlz%3D1C1GCEA_enJP1090JP1090%26oq%3Dninja%2B-C%2Btarget%26gs_lcrp%3DEgZjaHJvbWUyBggAEEUYOdIBCDQxMjJqMGo3qAIAsAIA%26sourceid%3Dchrome%26ie%3DUTF-8&q=EhAkAIkBAAAAAPA8lP_-L0RNGPar-7IGIihBbkQ0J0Yjg480gym227npyIVldipJukI9UKkOiVNdzZcYUQS1Eb3OMgFyShNTT1JSWV9NRVJJU19NRVNTQUdFWgFD
+
+A Guide to Create User-Defined Extension Modules to Postgres - Highgo Software Inc.
+https://www.highgo.ca/2019/10/01/a-guide-to-create-user-defined-extension-modules-to-postgres/
+
+postgres meson build extension - Google 搜索
+https://www.google.com/search?q=postgres+meson+build+extension&rlz=1C1GCEA_enJP1090JP1090&oq=postgres+meson+build+ex&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigAdIBCDY5MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Ask HN: What could a modern database do that PostgreSQL and MySQL can't | Hacker News
+https://news.ycombinator.com/item?id=28425379
+
+mit-pdos/noria: Fast web applications through dynamic, partially-stateful dataflow
+https://github.com/mit-pdos/noria
+
+Coffee Compiler Club, 2024_05_24 - YouTube
+https://www.youtube.com/watch?v=o3e2uuSoB-M
+
+pg_graphql/docker-compose.yaml at master · supabase/pg_graphql
+https://github.com/supabase/pg_graphql/blob/master/docker-compose.yaml
+
+Quickstart - pg_graphql
+https://supabase.github.io/pg_graphql/quickstart/
+
+dotenv golang - Google 搜索
+https://www.google.com/search?q=dotenv+golang&rlz=1C1GCEA_enJP1090JP1090&oq=dotenv+golang&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIMCAQQABhDGIAEGIoFMgkIBRAAGAwYgAQyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgcICRAAGIAE0gEIMjU2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+IP Address Lookup | Geolocation
+https://www.iplocation.net/ip-lookup
+
+Create Next App
+http://localhost:3001/
+
+gofiber/fiber: ⚡️ Express inspired web framework written in Go
+https://github.com/gofiber/fiber
+
+GitHub
+https://github.com/
+
+How to build Apache Cassandra 4.1 from Source Code in Windows 10 Command line using Ant 1.10, JDK 11 - YouTube
+https://www.youtube.com/watch?v=m0AobjquqGg
+
+Apache Ant - Binary Distributions
+https://ant.apache.org/bindownload.cgi
+
+how to install apache ANT manually? - Stack Overflow
+https://stackoverflow.com/questions/20135042/how-to-install-apache-ant-manually
+
+nextgis/android_gisapp: :dart: GIS application for Android
+https://github.com/nextgis/android_gisapp
+
+java environment variables - Google 搜索
+https://www.google.com/search?q=java+environment+variables&rlz=1C1GCEA_enJP1090JP1090&oq=java+envi&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMzcwNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+java - How do I set the proxy to be used by the JVM - Stack Overflow
+https://stackoverflow.com/questions/120797/how-do-i-set-the-proxy-to-be-used-by-the-jvm
+
 yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

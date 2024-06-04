@@ -1,5 +1,8 @@
 # 2024-6-3 0 | 0 W
 
+
+export JAVA_TOOL_OPTIONS+=" -Djava.net.useSystemProxies=true"
+
 export JAVA_HOME="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/"
 
 export PATH="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/bin":$PATH
