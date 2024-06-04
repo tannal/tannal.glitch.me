@@ -1,5 +1,17 @@
 # 2024-6-3 0 | 0 W
 
+git revert e504c941157b5b33b254a331d73d7e473c5b92ae d6963c0c3a93fb97faa197e224b177ca02c308f9
+
+git revert d6963c0c3a93fb97faa197e224b177ca02c308f9
+
+git checkout c5f567 -- file1/to/restore file2/to/restore
+
+git reset to commit 
+
+git remote set-url origin http://git.tanmeng.org/tannal/springboot-microservices.git
+
+.\mvnw.cmd clean install -X
+
 set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000
 $env:MAVEN_OPTS="-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000 -Djava.net.useSystemProxies=true"
 $env:MAVEN_OPTS="-Djava.net.useSystemProxies=true"
@@ -310,6 +322,7 @@ host   realtime    ubuntu       0.0.0.0/0          md5
 create database goshop;
 create database async_task_service;
 create database realtime;
+create database order-db;
 vim data/postgresql.conf
 
 

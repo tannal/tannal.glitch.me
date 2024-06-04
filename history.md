@@ -1,3 +1,185 @@
+# 2024-6-4
+
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&p=2
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+MariaDB/server: MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+https://github.com/MariaDB/server
+
+(2) Discord | #support | Typst
+https://discord.com/channels/1054443721975922748/1088372909111783525
+
+3rd/image.nvim: 🖼️ Bringing images to Neovim.
+https://github.com/3rd/image.nvim
+
+git.sr.ht
+https://git.sr.ht/~mafty/
+
+7sDream/tui-markup: markup langauge for terminal styled text
+https://github.com/7sDream/tui-markup
+
+七秒不觉梦
+https://7sdre.am/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shaders&sort=byPopularity&type=story
+
+The lost art of 3D rendering without shaders
+https://machinethink.net/blog/3d-rendering-without-shaders/
+
+The Book of Shaders: Shaping functions
+https://thebookofshaders.com/05/
+
+3d-game-shaders-for-beginners/demonstration/shaders/fragment/base.frag at master · lettier/3d-game-shaders-for-beginners
+https://github.com/lettier/3d-game-shaders-for-beginners/blob/master/demonstration/shaders/fragment/base.frag
+
+panda3d/panda3d: Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+https://github.com/panda3d/panda3d
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+shader-ls
+https://github.com/shader-ls
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+1103. 分糖果 II - 力扣（LeetCode）
+https://leetcode.cn/problems/distribute-candies-to-people/description/
+
+History of Spring Framework and Spring Boot | Hacker News
+https://news.ycombinator.com/item?id=16727856
+
+Ask HN: Is anyone using Quarkus for monoithic, full-stack web apps? | Hacker News
+https://news.ycombinator.com/item?id=36419287
+
+quarkusio/quarkus: Quarkus: Supersonic Subatomic Java.
+https://github.com/quarkusio/quarkus
+
+Repository search results
+https://github.com/search?q=postgres+kafka+redis+language%3AGo+&type=repositories&s=updated&o=desc
+
+chienduynguyen1702/go-kafka-redis-postgresql
+https://github.com/chienduynguyen1702/go-kafka-redis-postgresql
+
+Imesh7/trading-system: Trading system with go + postgres + kafka + redis + websocket + next.js
+https://github.com/Imesh7/trading-system
+
+leonardozw/spring-boot-microservice-demo: A demo of an order microservice network using Spring Boot, Postgres, Redis, Kafka, and Docker.
+https://github.com/leonardozw/spring-boot-microservice-demo
+
+#general > GitHub - MariaDB Docker Library - MariaDB Foundation - Zulip
+https://mariadb.zulipchat.com/#narrow/stream/118759-general/topic/GitHub.20-.20MariaDB.20Docker.20Library
+
+mariadb - Google 搜索
+https://www.google.com/search?q=mariadb&rlz=1C1GCEA_enJP1090JP1090&oq=mariadb&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgYIARBFGDsyDAgCECMYJxiABBiKBTIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE2NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=mariadb%20postgresql&sort=byPopularity&type=story
+
+mvnw explicitly enable http proxies · Issue #498 · pmd/pmd
+https://github.com/pmd/pmd/issues/498
+
+java - Environment Variable with Maven - Stack Overflow
+https://stackoverflow.com/questions/5510690/environment-variable-with-maven
+
+localhost:8080/task/all
+http://localhost:8080/task/all
+
+Could not resolve dependencies for project com.leonardozw:order-api:jar:0.0.1-SNAPSHOT: Failed to collect dependencies at org.springdoc:springdoc-openapi-starter-webmvc-ui:jar:2.1.0: Failed to read artifact descriptor for org.springdoc:springdoc-openapi-starter-webmvc-ui:jar:2.1.0: The following artifacts could not be resolved: org.springdoc:springdoc-openapi-starter-webmvc-ui:pom:2.1.0 (absent): Could not transfer artifact org.springdoc:springdoc-openapi-starter-webmvc-ui:pom:2.1.0 from/to central (https://repo.maven.apache.org/maven2): Connect to repo.maven.apache.org:443 [repo.maven.apache.org/151.101.108.215] failed: Connect timed out -> [Help 1] - Google 搜索
+https://www.google.com/search?q=Could+not+resolve+dependencies+for+project+com.leonardozw%3Aorder-api%3Ajar%3A0.0.1-SNAPSHOT%3A+Failed+to+collect+dependencies+at+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Ajar%3A2.1.0%3A+Failed+to+read+artifact+descriptor+for+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Ajar%3A2.1.0%3A+The+following+artifacts+could+not+be+resolved%3A+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Apom%3A2.1.0+(absent)%3A+Could+not+transfer+artifact+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Apom%3A2.1.0+from%2Fto+central+(https%3A%2F%2Frepo.maven.apache.org%2Fmaven2)%3A+Connect+to+repo.maven.apache.org%3A443+%5Brepo.maven.apache.org%2F151.101.108.215%5D+failed%3A+Connect+timed+out+-%3E+%5BHelp+1%5D&rlz=1C1GCEA_enJP1090JP1090&oq=Could+not+resolve+dependencies+for+project+com.leonardozw%3Aorder-api%3Ajar%3A0.0.1-SNAPSHOT%3A+Failed+to+collect+dependencies+at+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Ajar%3A2.1.0%3A+Failed+to+read+artifact+descriptor+for+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Ajar%3A2.1.0%3A+The+following+artifacts+could+not+be+resolved%3A+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Apom%3A2.1.0+(absent)%3A+Could+not+transfer+artifact+org.springdoc%3Aspringdoc-openapi-starter-webmvc-ui%3Apom%3A2.1.0+from%2Fto+central+(https%3A%2F%2Frepo.maven.apache.org%2Fmaven2)%3A+Connect+to+repo.maven.apache.org%3A443+%5Brepo.maven.apache.org%2F151.101.108.215%5D+failed%3A+Connect+timed+out+-%3E+%5BHelp+1%5D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Create project-specific Maven settings - Stack Overflow
+https://stackoverflow.com/questions/43156870/create-project-specific-maven-settings
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+spring boot - Compilation error after upgrading to JDK 21 - "NoSuchFieldError: JCImport does not have member field JCTree qualid" - Stack Overflow
+https://stackoverflow.com/questions/77171270/compilation-error-after-upgrading-to-jdk-21-nosuchfielderror-jcimport-does-n
+
+Swagger UI
+http://localhost:8383/swagger-ui/index.html
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+Changelog
+https://docs.liquibase.com/concepts/changelogs/home.html
+
+(48) #xilem > xilem_core and the orphan rule - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/xilem_core.20and.20the.20orphan.20rule
+
+Portal in masonry::widget - Rust
+https://docs.rs/masonry/latest/masonry/widget/struct.Portal.html
+
+第十七节：基于 Java 应用层追踪服务链路
+https://www.yuque.com/mercyblitz/java-training-camp/nf81fg8bg1aqao9e
+
+apache cassandra - Google 搜索
+https://www.google.com/search?q=apache+cassandra&rlz=1C1GCEA_enJP1090JP1090&oq=apache+cassandra&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD0yBggDEEUYPNIBCDE0MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal/cv - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv
+
+Re-export wgpu by tannal · Pull Request #591 · linebender/vello
+https://github.com/linebender/vello/pull/591
+
+Pull requests · tannal/vello
+https://github.com/tannal/vello/pulls
+
+Git push rejected after feature branch rebase - Stack Overflow
+https://stackoverflow.com/questions/8939977/git-push-rejected-after-feature-branch-rebase
+
+velato/examples at main · linebender/velato
+https://github.com/linebender/velato/tree/main/examples
+
+Lottie Docs
+https://airbnb.io/lottie/#/
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+What does `self` mean in `use`？ - help - The Rust Programming Language Forum
+https://users.rust-lang.org/t/what-does-self-mean-in-use/15559/6
+
+git - How can I reset or revert a file to a specific revision? - Stack Overflow
+https://stackoverflow.com/questions/215718/how-can-i-reset-or-revert-a-file-to-a-specific-revision
+
+git checkout - How do I revert a Git repository to a previous commit? - Stack Overflow
+https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+
+Suggest removing `self` import when not in a list · Issue #63741 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/63741
+
+vello_svg/examples/with_winit at main · linebender/vello_svg
+https://github.com/linebender/vello_svg/tree/main/examples/with_winit
+
+self - Rust
+https://doc.rust-lang.org/std/keyword.self.html
+
+(48) #checkins > Aaron Muir Hamilton - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Aaron.20Muir.20Hamilton
+
+Add android ime support by lucasmerlin · Pull Request #2993 · rust-windowing/winit
+https://github.com/rust-windowing/winit/pull/2993
+
+Investigate other 2D canvas renderers in a post-Pathfinder world · Issue #30636 · servo/servo
+https://github.com/servo/servo/issues/30636
+
+Use Pathfinder for 2d canvas rendering · Issue #22957 · servo/servo
+https://github.com/servo/servo/issues/22957
+
+linebender/vello_svg: An integration to render SVG files with Vello.
+https://github.com/linebender/vello_svg/tree/main
+
 # 2024-6-3
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
