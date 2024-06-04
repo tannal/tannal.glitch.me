@@ -1,5 +1,110 @@
 # 2024-6-4
 
+yc.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Re-export wgpu by tannal · Pull Request #591 · linebender/vello
+https://github.com/linebender/vello/pull/591
+
+tannal (tannal)
+https://github.com/tannal
+
+(2) Discord | #support | Typst
+https://discord.com/channels/1054443721975922748/1088372909111783525/threads/1247093755253882971
+
+(32) #chatter > Separation of design language and widget toolkit - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Separation.20of.20design.20language.20and.20widget.20toolkit
+
+chrismorgan's comments | Hacker News
+https://news.ycombinator.com/threads?id=chrismorgan
+
+Libadwaita: Splitting GTK and Design Language | TheEvilSkeleton
+https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/
+
+makepad/makepad: Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
+https://github.com/makepad/makepad
+
+Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023 - YouTube
+https://www.youtube.com/watch?v=rC4FCS-oMpg
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Gardening: temporarily disabling --useJITCage on some wasm tests. by MenloDorian · Pull Request #29405 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/29405/files
+
+electromagnetic radiation - How many photons are received per bit transmitted from Voyager 1? - Physics Stack Exchange
+https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1
+
+富马酸喹硫平 - Google 搜索
+https://www.google.com/search?q=%E5%AF%8C%E9%A9%AC%E9%85%B8%E5%96%B9%E7%A1%AB%E5%B9%B3&sca_esv=1a54e3a5b2edf263&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJnUtuHKfkV3nG6l8u3i1alZ_Xd5g%3A1717478377342&ei=6aNeZpzFFLvF5OUP4_SV4Ao&ved=0ahUKEwjc3dzEmcGGAxW7IrkGHWN6BawQ4dUDCBA&uact=5&oq=%E5%AF%8C%E9%A9%AC%E9%85%B8%E5%96%B9%E7%A1%AB%E5%B9%B3&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuWvjOmprOmFuOWWueehq-W5szIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iOB1C-AliTBXABeAGQAQCYAeECoAG7BaoBAzMtMrgBA8gBAPgBAZgCAaACBZgDAIgGAZAGCpIHATGgB7wM&sclient=gws-wiz-serp
+
+标准来源
+https://www.nmpa.gov.cn/wwwroot/hysms3/019.htm
+
+中枢多巴胺D2受体 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E6%9E%A2%E5%A4%9A%E5%B7%B4%E8%83%BAD2%E5%8F%97%E4%BD%93&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E6%9E%A2%E5%A4%9A%E5%B7%B4%E8%83%BAD2%E5%8F%97%E4%BD%93&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+5-羟色胺受体 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/5-%E7%BE%9F%E8%89%B2%E8%83%BA%E5%8F%97%E4%BD%93
+
+G蛋白偶联受体 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/G%E8%9B%8B%E7%99%BD%E5%81%B6%E8%81%94%E5%8F%97%E4%BD%93
+
+姿位性低血压 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A7%BF%E4%BD%8D%E6%80%A7%E4%BD%8E%E8%A1%80%E5%A3%93
+
+普萘洛尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%99%AE%E8%90%98%E6%B4%9B%E5%B0%94
+
+Loving You - Poe
+https://poe.com/chat/2c4x8ts043gkoejzip9
+
+人体器官图 - Google 搜索
+https://www.google.com/search?sca_esv=7fd28300007ff703&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIJVvt_6nPOo-w9IOe3oZeZIHbM6g:1717484883766&q=%E4%BA%BA%E4%BD%93%E5%99%A8%E5%AE%98%E5%9B%BE&uds=ADvngMgM3sJHGRUUapkgumPBd1g47jN9oCWvpgGOmRJm4yjly-j3alMUyf6yzaESZQkMHi3fopNB1SS4ygDmjMgEWOe_R2vMThjw0KH0JkhFKaMoHuDtdXE-MLdxGwBU005RPumnQe8yTGqc7cht4BPSUtIfgb8YMpEWcEEww2N7oRUU2lHPACe-XpQCET8lY3-arvpbZUJNsR2yvB7-AHzmDMLnvFHzyneqpj_Plxr44l2Tfw7iJt2ASQheILhMfzjWIg4YVbmvq3qqElkh2iyztCgdpPE6QA&udm=2&prmd=isvnmbtz&sa=X&ved=2ahUKEwiWsZ3jscGGAxUK48kDHSDABuMQtKgLegQIDRAB&biw=1536&bih=703&dpr=1.25#vhid=Zj6cK9e-GYM1KM&vssid=mosaic
+
+呼吸 刺痛 - Google 搜索
+https://www.google.com/search?q=%E5%91%BC%E5%90%B8+%E5%88%BA%E7%97%9B&sca_esv=7fd28300007ff703&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIPJ2HSZaftoKCUgg4qR7pHTh1XLw%3A1717484896095&ei=YL1eZu7FBe_awN4PutqV2As&ved=0ahUKEwju9Y3pscGGAxVvLdAFHTptBbsQ4dUDCBA&uact=5&oq=%E5%91%BC%E5%90%B8+%E5%88%BA%E7%97%9B&gs_lp=Egxnd3Mtd2l6LXNlcnAiDeWRvOWQuCDliLrnl5syBxAAGIAEGAwyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABgFGB4YDzIGEAAYBRgeMggQABgFGB4YD0jDHFC1AliPFXABeAGQAQCYAfEDoAHIGqoBBTMtOC4xuAEDyAEA-AEBmAIIoAKNFMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICBxAuGIAEGAzCAgUQLhiABMICBhAAGAQYHsICCBAAGAQYCBgemAMAiAYBkAYKkgcFMS4zLTegB-kj&sclient=gws-wiz-serp#ip=1
+
+肺隔 刺痛 - Google 搜索
+https://www.google.com/search?q=%E8%82%BA%E9%9A%94+%E5%88%BA%E7%97%9B&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%82%BA%E9%9A%94+%E5%88%BA%E7%97%9B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiiBBiJBTIKCAQQABiABBiiBNIBCTE0NTIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+肺栓塞 - Google 搜索
+https://www.google.com/search?q=%E8%82%BA%E6%A0%93%E5%A1%9E&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%82%BA%E6%A0%93%E5%A1%9E&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHNDA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+胃食管反流病 wki - Google 搜索
+https://www.google.com/search?q=%E8%83%83%E9%A3%9F%E7%AE%A1%E5%8F%8D%E6%B5%81%E7%97%85+wki&sca_esv=7fd28300007ff703&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIImqrvQ1O5VMKEOeeLIf23uMqVKog%3A1717485307104&ei=-75eZp-BBom1wN4PnO2iiA4&ved=0ahUKEwjf6outs8GGAxWJGtAFHZy2COEQ4dUDCBA&uact=5&oq=%E8%83%83%E9%A3%9F%E7%AE%A1%E5%8F%8D%E6%B5%81%E7%97%85+wki&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuiDg-mjn-euoeWPjea1geeXhSB3a2lIwBhQXliSFXABeAGQAQCYAfMCoAH4DaoBAzMtNbgBA8gBAPgBAZgCBKAC1AjCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICBRAAGIAEwgIGEAAYDBgewgIEEAAYHsICBhAAGB4YD8ICCBAAGIAEGKIEwgIIEAAYogQYiQWYAwCIBgGQBgqSBwUxLjMtM6AH4Qo&sclient=gws-wiz-serp
+
+肺部图 - Google 搜索
+https://www.google.com/search?sca_esv=7fd28300007ff703&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ3UoOmOM7kOL-JRGZPDL9l6DHUHA:1717485713773&q=%E8%82%BA%E9%83%A8%E5%9B%BE&uds=ADvngMhpsojwKe5eIOqT5IDaiLbeRAQ8gXPecDF_X18wTS8D-trl9IX8FyWHToNp8xTjWnYIieDLYbJFD5cZhmMRLrF53w8yX2Fu4MlacnCoP02LFml3liX_YdtB-DjJtuPKEyUoEcpAXFmU6WnQsw8CxgX0C8KIKQspwuxQZyA_ahWtzkJ1FlLi4-pkRwLBWPuwygqdW4DaCTIGa3iyMVd0I72qjc9QjOd5PSsemuULbrB8nnmxScFr2mFmqdpZxrbLPtRvQWlN&udm=2&prmd=isvnmbtz&sa=X&ved=2ahUKEwjO_IDvtMGGAxW9LtAFHSttA7oQtKgLegQIChAB&biw=1536&bih=703&dpr=1.25#vhid=GLDK7vsIp6WP8M&vssid=mosaic
+
+肺部支气管 - Google 搜索
+https://www.google.com/search?sca_esv=7fd28300007ff703&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKvOiO1Ere58cAEItiuj-fFU9d6Pw:1717485795123&q=%E8%82%BA%E9%83%A8%E6%94%AF%E6%B0%94%E7%AE%A1&uds=ADvngMgM3sJHGRUUapkgumPBd1g4wNJFJjr05wtVTxS6F7rdhiUsYOeG8EF0SPWnuz121JDSTSnU5_7gl6sfcKmZ9WJEe6_u1yhtpuwe0aLvRLKvUaoFfBBHaLcTLLvjjQxNtVhQMmg9pvdD55d4BC5q6uMFYNhRQvv_s3ckI1qDD2kKylBnEOXmFTu0Vss7kbctRiU65_gSj4XlNBISjQ2nqbzmWmaNxxMkB6LcCILU55o27eWFWbNCQ8CIH23m-W2Ib5PqGm0t0dNu8P5JhZACK1xmxOKlMg&udm=2&prmd=ivsnmbtz&sa=X&ved=2ahUKEwidkuaVtcGGAxXi48kDHZjWAeoQtKgLegQIDBAB&biw=1536&bih=703&dpr=1.25#vhid=5TFDFz5BL0m2LM&vssid=mosaic
+
+肺部支气管 - Google 搜索
+https://www.google.com/imgres?q=%E8%82%BA%E9%83%A8%E6%94%AF%E6%B0%94%E7%AE%A1&imgurl=https%3A%2F%2Fimagepphcloud.thepaper.cn%2Fpph%2Fimage%2F66%2F675%2F943.jpg&imgrefurl=https%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_7346605&docid=z3xbMj9N9MNewM&tbnid=GLDK7vsIp6WP8M&vet=12ahUKEwiYvZqXtcGGAxX85ckDHR3OAfEQM3oECBgQAA..i&w=770&h=369&hcb=2&ved=2ahUKEwiYvZqXtcGGAxX85ckDHR3OAfEQM3oECBgQAA
+
+食管 气管 - Google 搜索
+https://www.google.com/search?q=%E9%A3%9F%E7%AE%A1+%E6%B0%94%E7%AE%A1&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%A3%9F%E7%AE%A1+%E6%B0%94%E7%AE%A1&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDUwMjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+网上服务大厅
+https://my.webvpn.nenu.edu.cn/portal_main/toPortalPage
+
+创建 - 应届生档案转递
+https://oa-443.webvpn.nenu.edu.cn/spa/workflow/static4form/index.html?_rdm=1703052938470#/main/workflow/req?iscreate=1&workflowid=10021&_key=65xam0
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+GitHub
+https://github.com/
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
