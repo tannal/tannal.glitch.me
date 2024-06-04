@@ -1,5 +1,64 @@
 # 2024-6-3 0 | 0 W
 
+Get-Content .env | ForEach-Object {
+    $line = $_
+    if ($line -match '^(.*)=(.*)$') {
+        $key = $matches[1]
+        $value = $matches[2]
+        Set-Item -Path "env:$key" -Value $value
+    }
+}github.com/gofiber/
+
+pg_prewarm
+extension can write the current cache state to disk and then restore it after the
+server restart
+v8 snapshot
+
+ANALYZE big;
+SELECT relname, relfilenode, relpages
+FROM pg_class
+WHERE relname IN ('big', 'big_pkey');
+
+./pg_ctl -D data -l logfile restart
+
+
+BEGIN;
+DECLARE c CURSOR FOR SELECT * FROM cacheme;
+FETCH c;
+
+
+./psql -d test -f ../../contrib/pg_buffercache/pg_buffercache.sql
+
+CREATE EXTENSION pg_buffercache;
+
+CREATE TABLE cacheme(
+id integer
+) WITH (autovacuum_enabled = off);
+
+INSERT INTO cacheme VALUES (1);
+
+
+CREATE FUNCTION buffercache(rel regclass)
+RETURNS TABLE(
+bufferid integer, relfork text, relblk bigint,
+isdirty boolean, usagecount smallint, pins integer
+) AS $$
+SELECT bufferid,
+CASE relforknumber
+WHEN 0 THEN 'main'
+WHEN 1 THEN 'fsm'
+WHEN 2 THEN 'vm'
+END,
+relblocknumber,
+isdirty,
+usagecount,
+pinning_backends
+FROM pg_buffercache
+WHERE relfilenode = pg_relation_filenode(rel)
+ORDER BY relforknumber, relblocknumber;
+$$ LANGUAGE sql;
+
+
 git revert e504c941157b5b33b254a331d73d7e473c5b92ae d6963c0c3a93fb97faa197e224b177ca02c308f9
 
 git revert d6963c0c3a93fb97faa197e224b177ca02c308f9
@@ -318,6 +377,7 @@ host   realtime    ubuntu       0.0.0.0/0          md5
 
 ./psql -U ubuntu -w -d postgres
 ./psql -U ubuntu -w -d realtime
+./psql -U ubuntu -w -d test
 
 create database goshop;
 create database async_task_service;

@@ -33,6 +33,9 @@ sudo perf record -F 99 -p 27184 -g -- sleep 30
 git clone https://github.com/postgres/postgres
 sudo apt install meson bison flex
 
+
+./configure --prefix=/home/ubuntu/tannalwork/projects/postgres/_install
+
 meson setup build
 meson setup --reconfigure --prefix=/home/tannal/tannalwork/projects/postgres/_install build
 meson setup --prefix=/home/ubuntu/tannalwork/projects/postgres/_install build
