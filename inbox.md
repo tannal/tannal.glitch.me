@@ -1,5 +1,11 @@
 # 2024-6-3 0 | 0 W
 
+export JAVA_HOME="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/"
+
+export PATH="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/bin":$PATH
+
+export PATH=/c/Users/tannal/Downloads/apache-ant-1.10.14-bin/apache-ant-1.10.14/bin:$PATH
+
 Get-Content .env | ForEach-Object {
     $line = $_
     if ($line -match '^(.*)=(.*)$') {
@@ -7,7 +13,9 @@ Get-Content .env | ForEach-Object {
         $value = $matches[2]
         Set-Item -Path "env:$key" -Value $value
     }
-}github.com/gofiber/
+}
+
+github.com/gofiber/
 
 pg_prewarm
 extension can write the current cache state to disk and then restore it after the
