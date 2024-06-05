@@ -1,3 +1,19 @@
+# 2024-6-5 0 | 0 W
+
+# 2024-6-4 0 | 0 W
+
+curl -X POST http://localhost:8000/create-order -H "Content-Type: application/json" -d '{
+    "user_id": 1000000,  
+    "order_type": 4,     
+    "type": "ask",       
+    "price": 100,        
+    "volume": 150,       
+    "buying_pair": "usd",
+    "selling_pair": "btc"
+}'
+
+
+
 # 2024-6-3 0 | 0 W
 
 

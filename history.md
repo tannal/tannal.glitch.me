@@ -1,3 +1,158 @@
+# 2024-6-5
+
+documentry.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+TypeScript Origins: The Documentary - YouTube
+https://www.youtube.com/watch?v=U6s2pdxebSo&t=65s
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Program Projects | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+The Front End Developer/Engineer Handbook 2024
+https://frontendmasters.com/guides/front-end-handbook/2024/#6.39
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Akipe/awesome-android-aosp: A collection of Android AOSP and ROM development related resources
+https://github.com/Akipe/awesome-android-aosp
+
+MiCode/Xiaomi_Kernel_OpenSource: Xiaomi Mobile Phone Kernel OpenSource
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource
+
+davisRoman/aosp-research
+https://github.com/davisRoman/aosp-research
+
+nextgis/android_gisapp: :dart: GIS application for Android
+https://github.com/nextgis/android_gisapp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · linebender/vello
+https://github.com/linebender/vello/issues
+
+Vello anti-aliasing rendering seems not fine enough, how to improve it? · Issue #592 · linebender/vello
+https://github.com/linebender/vello/issues/592
+
+Re-export wgpu (#591) · linebender/vello@96a447f
+https://github.com/linebender/vello/commit/96a447f3200ff271d9a565ab8dae384916cce827
+
+(17) #xilem > Who implemented scrolling? Where to begin? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Who.20implemented.20scrolling.3F.20Where.20to.20begin.3F
+
+dawn/docs/building.md at main · google/dawn
+https://github.com/google/dawn/blob/main/docs/building.md
+
+ui testing screenshot - Google 搜索
+https://www.google.com/search?q=ui+testing+screenshot&rlz=1C1GCEA_enJP1090JP1090&oq=ui+testing+screenshot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCggCEAAYgAQYogTSAQg0NzM4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+Screenshot testing - Proper Android UI Testing
+https://android-ui-testing.github.io/Cookbook/basics/screenshot_testing/#how-it-works
+
+gis - Google 搜索
+https://www.google.com/search?q=gis&sca_esv=1b6c1bc5b84c8566&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILJEQARvGz-0XeO54BMC7By9TTsaw%3A1717499662667&ei=DvdeZvC8KNPbkPIPiresqAQ&ved=0ahUKEwjw-63q6MGGAxXTLUQIHYobC0UQ4dUDCBA&uact=5&oq=gis&gs_lp=Egxnd3Mtd2l6LXNlcnAiA2dpczIKECMYgAQYJxiKBTIKEC4YgAQYQxiKBTIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BSI8bUABYqBlwAngBkAEAmAGBAqAB6QWqAQMyLTO4AQPIAQD4AQH4AQKYAgWgAv8FqAIKwgIQEAAYgAQYsQMYQxiDARiKBcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAgsQABiABBixAxiDAcICERAuGIAEGLEDGNEDGIMBGMcBwgIIEAAYgAQYsQPCAgcQIxgnGOoCmAMDkgcFMi4wLjOgB8En&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal/
+
+thoas/picfit: An image resizing server written in Go
+https://github.com/thoas/picfit
+
+mdnsd - Google 搜索
+https://www.google.com/search?q=mdnsd&rlz=1C1GCEA_enJP1090JP1090&oq=mdnsd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+RFC 6762 - Multicast DNS
+https://datatracker.ietf.org/doc/html/rfc6762#page-22
+
+Wi-Fi Direct | Wi-Fi Alliance
+https://www.wi-fi.org/discover-wi-fi/wi-fi-direct
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cpu%20&sort=byPopularity&type=story
+
+Nvidia's Tesla P100 Steals Machine Learning From The CPU
+https://www.nextplatform.com/2016/04/21/nvidias-tesla-p100-steals-machine-learning-cpu/
+
+Issues · linebender/vello
+https://github.com/linebender/vello
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos?page=1&sort=recentupdate&q=&topic=false&language=&only_show_relevant=false
+
+GitHub
+https://github.com/
+
+String Manipulation - Rapid Application Development with Code Generation
+https://frontendmasters.com/courses/rapid-app-dev/string-manipulation/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+YouTube
+https://www.youtube.com/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+(17) #checkins > Raph Levien - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Raph.20Levien
+
+Xilem: Let's Build High Performance Rust UI - Raph Levien - YouTube
+https://www.youtube.com/watch?v=OvfNipIcRiQ&list=PL8Q1w7Ff68DBZZbJt3ie5MUoJV5v2HeA7&index=16
+
+Re-export wgpu (#591) · linebender/vello@96a447f
+https://github.com/linebender/vello/commit/96a447f3200ff271d9a565ab8dae384916cce827
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+Live Online Workshops | Frontend Masters
+https://frontendmasters.com/workshops/
+
+Erick Wendel - Google 搜索
+https://www.google.com/search?q=Erick+Wendel&rlz=1C1GCEA_enJP1090JP1090&oq=Erick+Wendel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+纪录片 英文 - Google 搜索
+https://www.google.com/search?q=%E7%BA%AA%E5%BD%95%E7%89%87+%E8%8B%B1%E6%96%87&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BA%AA%E5%BD%95%E7%89%87+%E8%8B%B1%E6%96%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBNIBCDIyNDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+Re-export wgpu by tannal · Pull Request #591 · linebender/vello
+https://github.com/linebender/vello
+
+tannal (tannal)
+https://github.com/tannal/
+
+GitHub
+https://github.com/
+
 # 2024-6-4
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

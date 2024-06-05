@@ -1,5 +1,7 @@
 # inbox
 
+cargo run -p headless
+
 cargo run --example run_on_demand
 
 cargo run
