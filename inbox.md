@@ -1,5 +1,16 @@
 # 2024-6-5 0 | 0 W
 
+
+pnpm store prune
+pnpm store path
+
+web windows android macos ios and embeded systems
+
+
+2018/2017/2016 
+
+2019
+
 go build -ldflags=-w .\cmd\esbuild\
 
 .\esbuild.exe --bundle app.jsx --outfile=dist/app.js --loader:.js=jsx --loader:.css=css --format=esm --platform=browser --allow-overwrite
