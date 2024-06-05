@@ -1,5 +1,9 @@
 # 2024-6-5 0 | 0 W
 
+go build -ldflags=-w .\cmd\esbuild\
+
+.\esbuild.exe --bundle app.jsx --outfile=dist/app.js --loader:.js=jsx --loader:.css=css --format=esm --platform=browser --allow-overwrite
+
 adb push *.rar /sdcard/Alarms/
 for %F in (*.rar) do adb push "%F" /sdcard/Alarms/
 
