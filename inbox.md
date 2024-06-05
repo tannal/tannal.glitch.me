@@ -1,5 +1,10 @@
 # 2024-6-5 0 | 0 W
 
+adb push *.rar /sdcard/Alarms/
+for %F in (*.rar) do adb push "%F" /sdcard/Alarms/
+
+adb connect 192.168.70.112  :5555
+
 # 2024-6-4 0 | 0 W
 
 curl -X POST http://localhost:8000/create-order -H "Content-Type: application/json" -d '{
@@ -16,7 +21,7 @@ curl -X POST http://localhost:8000/create-order -H "Content-Type: application/js
 
 # 2024-6-3 0 | 0 W
 
-
+A
 export JAVA_TOOL_OPTIONS+=" -Djava.net.useSystemProxies=true"
 
 export JAVA_HOME="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/"

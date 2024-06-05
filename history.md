@@ -1,5 +1,164 @@
 # 2024-6-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021?from=21780
+
+IP Address Lookup | Geolocation
+https://www.iplocation.net/ip-lookup
+
+Compiler Explorer
+https://godbolt.org/z/Trrjq9cGs
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#javascriptcore
+
+Networking 101: Primer on Latency and Bandwidth - High Performance Browser Networking (O'Reilly)
+https://hpbn.co/primer-on-latency-and-bandwidth/#speed-of-light-and-propagation-latency
+
+(1) #xilem > xilem#310: New xilem_core - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/xilem.23310.3A.20New.20xilem_core
+
+xilem_core: return element in `View::rebuild` by Philipp-M · Pull Request #3 · DJMcNab/xilem
+https://github.com/DJMcNab/xilem/pull/3
+
+Move `xilem` onto a new `xilem_core`, which uses a generic View trait by DJMcNab · Pull Request #310 · linebender/xilem
+https://github.com/linebender/xilem/pull/310#discussion_r1623368714
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello/issues
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Build-Your-Own Position | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/generic_position
+
+http ... PARTY!
+https://github.com/http-party
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+#general - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general
+
+Implement HTMLImageElement decode by Taym95 · Pull Request #31269 · servo/servo
+https://github.com/servo/servo/pull/31269
+
+GitHub
+https://github.com/
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shader&sort=byPopularity&type=story
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Multiply–accumulate operation - Wikipedia
+https://en.wikipedia.org/wiki/Multiply%E2%80%93accumulate_operation
+
+大文件分片上传
+http://localhost:5000/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Instead%2C%20our%20packets%20travel%20through%20a%20medium%20such%20as%20a%20copper%20wire%20or%20a%20fiber-optic%20cable%2C%20which%20will%20slow%20down%20the%20signal&op=translate
+
+Tencent Cloud
+https://www.tencentcloud.com/
+
+基于websocket的大文件上传 - 掘金
+https://juejin.cn/post/7132395087761408037
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+GitHub
+https://github.com/
+
+WebSocket `MessageEvent` has `CloseEvent` as its symbol. · Issue #24103 · denoland/deno
+https://github.com/denoland/deno/issues/24103
+
+deno/ext/web/02_event.js at main · denoland/deno
+https://github.com/denoland/deno/blob/main/ext/web/02_event.js#L1198
+
+deno/ext/web/02_event.js at main · denoland/deno
+https://github.com/denoland/deno/blob/main/ext/web/02_event.js#L1198
+
+方滨兴 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%96%B9%E6%BB%A8%E5%85%B4
+
+PrismarineJS/node-minecraft-protocol: Parse and serialize minecraft packets, plus authentication and encryption.
+https://github.com/PrismarineJS/node-minecraft-protocol
+
+Heath123/pakkit
+https://github.com/Heath123/pakkit
+
+vpn 云服务 - Google 搜索
+https://www.google.com/search?q=vpn+%E4%BA%91%E6%9C%8D%E5%8A%A1&rlz=1C1GCEA_enJP1090JP1090&oq=vpn+%E4%BA%91%E6%9C%8D%E5%8A%A1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyNzFqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
+registry.npmjs.org/minecraft-data/3.65.0
+https://registry.npmjs.org/minecraft-data/3.65.0
+
+conaticus/click: A fast package manager for NodeJS written in Rust.
+https://github.com/conaticus/click
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+网上服务大厅
+https://my.webvpn.nenu.edu.cn/portal_main/toPortalPage
+
+服务详情
+https://my.webvpn.nenu.edu.cn/hallIndex/showAppDetail?appid=8728bdb451854c33958ceee4177e60fd
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Gordon Bell - Google 搜索
+https://www.google.com/search?q=+Gordon+Bell&sca_esv=d721955a60ea707d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILiQzU9RTzVsCWP3z6LVUy6e6j6kg%3A1717567563440&ei=SwBgZoq7GpzcseMPo_iN0AE&ved=0ahUKEwjKjPzj5cOGAxUcbmwGHSN8AxoQ4dUDCBA&uact=5&oq=+Gordon+Bell&gs_lp=Egxnd3Mtd2l6LXNlcnAiDCBHb3Jkb24gQmVsbEj3AVAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+大脑图 - Google 搜索
+https://www.google.com/search?sca_esv=d721955a60ea707d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKhM0ZCRq5lI5vtV7SUL0-14folgw:1717570216328&q=%E5%A4%A7%E8%84%91%E5%9B%BE&uds=ADvngMhpsojwKe5eIOqT5IDaiLbeuqoXJzUplEY97Z7H8GAu_LeMbR6WwOI6la17YDX8p2lxniLHltlmj2lDn-iS_9BCtKv95NKUkYy_7wvWQC_STRSPskbZWA1KFlqkrMUvqmqaurZVZq5CK3j29tkqVFHIUw1SWRxDGruW1ppinUjPRCfdHzh8ZfFNffJ0TcFy1YRPxdJmmBsn4ySXXn-paQDadiOPxmXmWmNDpc97oSzOuasqkwe3J1Ay36DhDD5hFy5MrInx&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjulfvU78OGAxV4TWwGHYG9LGMQtKgLegQICRAB
+
+大脑 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%84%91
+
+颞叶 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%A2%9E%E5%8F%B6
+
+失语症 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%B1%E8%AF%AD%E7%97%87
+
+顶叶 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%A1%B6%E5%8F%B6
+
+语言中枢 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%AF%AD%E8%A8%80%E4%B8%AD%E6%9E%A2
+
+布若卡氏区 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8B%A5%E5%8D%A1%E6%B0%8F%E5%8C%BA
+
+多语者 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%AA%9E%E8%80%85
+
+韦尼克区 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%A6%E5%B0%BC%E5%85%8B%E5%8C%BA
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 documentry.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
