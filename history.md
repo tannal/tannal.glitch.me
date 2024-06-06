@@ -1,3 +1,116 @@
+# 2024-6-6
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+tap - npm
+https://www.npmjs.com/package/tap?activeTab=readme
+
+Issues · GrinZero/node-network-devtools
+https://github.com/GrinZero/node-network-devtools/issues
+
+Issues · facebook/react
+https://github.com/facebook/react/issues
+
+alibaba/ice: 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+https://github.com/alibaba/ice
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+Ask HN: JavaScript framework that I can use “right now”? | Hacker News
+https://news.ycombinator.com/item?id=10104586
+
+braidnetworks/dynohot: Hot module reloading for nodejs
+https://github.com/braidnetworks/dynohot
+
+HMR API | Vite
+https://vitejs.dev/guide/api-hmr.html#hot-data
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+#checkins - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins
+
+Google Meet
+https://meet.google.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webgpu&sort=byPopularity&type=story
+
+cohost! - "I want to talk about WebGPU"
+https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu
+
+Draw Test
+https://data.runhello.com/j/wgpu/1/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=irritating&op=translate
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Google
+https://www.google.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=It%20is%20the%20case%20though%20it%20wasn%27t%20very%20long%20into%20the%20Direct3D%20lifecycle%20before%20you%20started%20hearing%20from%20Direct3D%20users%20that%20it%20was%20much%2C%20much%20nicer%20to%20use%20than%20OpenGL%2C%20and%20OpenGL%20quickly%20got%20to%20a%20point%20where%20it%20was%20literally%20years%20behind%20Direct3D%20in%20terms%20of%20implementing%20critical%20early%20features%20like%20shaders%2C%20because%20the%20Architecture%20Review%20Board%20of%20card%20vendors%20that%20defined%20OpenGL%20would%20spend%20forever%20bickering%20over%20details%20whereas%20Microsoft%20could%20just%20implement%20stuff%20and%20expect%20the%20card%20vendor%20to%20work%20it%20out.&op=translate
+
+Handheld devices - Google 搜索
+https://www.google.com/search?q=Handheld+devices&rlz=1C1GCEA_enJP1090JP1090&oq=Handheld+devices&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+vercel/ai-chatbot: A full-featured, hackable Next.js AI chatbot built by Vercel
+https://github.com/vercel/ai-chatbot/issues
+
+Next.js AI Chatbot - Next.js AI Chatbot
+https://chat.vercel.ai/
+
+git.tanmeng.org
+http://git.tanmeng.org/explore/repos
+
+留守儿童 en - Google 搜索
+https://www.google.com/search?q=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5+en&sca_esv=165fe744f339cdec&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILyUBe0Qo9yo_L2odHfmYRywg7g8w%3A1717654265352&ei=-VJhZrGXFe2s4-EP57jpkA8&ved=0ahUKEwjx99TiqMaGAxVt1jgGHWdcGvIQ4dUDCBA&uact=5&oq=%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5+en&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-eVmeWuiOWEv-erpSBlbjIGEAAYBBgeMgYQABgeGA8yCBAAGIAEGKIEMgoQABgEGAgYHhgPMgoQABgEGAgYHhgPMggQABiABBiiBDIIEAAYgAQYogRIsQ1QnAdY9wlwAXgAkAEAmAH0A6AB6gqqAQU0LTIuMbgBA8gBAPgBAZgCA6ACzgfCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICBBAjGCfCAgoQABiABBhDGIoFwgIHEAAYgAQYDMICBRAAGIAEmAMAiAYBkAYKkgcFMS40LTKgB9kN&sclient=gws-wiz-serp
+
+Left-behind children in China - Wikipedia
+https://en.wikipedia.org/wiki/Left-behind_children_in_China#Mental_and_physical_health
+
+Cycle of poverty - Wikipedia
+https://en.wikipedia.org/wiki/Cycle_of_poverty
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=melancholy&op=translate
+
+Interaction between circadian rhythms and stress - PMC
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5314421/
+
+stress systems - Google 搜索
+https://www.google.com/search?q=stress+systems&rlz=1C1GCEA_enJP1090JP1090&oq=stress+systems&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIxMzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Stress and disorders of the stress system | Nature Reviews Endocrinology
+https://www.nature.com/articles/nrendo.2009.106
+
+Stress (biology) - Wikipedia
+https://en.wikipedia.org/wiki/Stress_(biology)
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Doesn%27t%20wgpu%20support%20OpenGL%20and%20WebGL%20as%20backend%20if%20I%20remember%20right%3F&op=translate
+
+GitHub
+https://github.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
 # 2024-6-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

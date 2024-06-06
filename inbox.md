@@ -1,3 +1,11 @@
+# 2024-6-6 0 | 0 W
+
+2D compositing using 3D video card hardware like desktop machines had started doing
+
+Dom is used for websites.
+
+React make the dom useful for building web applications
+
 # 2024-6-5 0 | 0 W
 
 
@@ -36,7 +44,7 @@ curl -X POST http://localhost:8000/create-order -H "Content-Type: application/js
 
 # 2024-6-3 0 | 0 W
 
-A
+
 export JAVA_TOOL_OPTIONS+=" -Djava.net.useSystemProxies=true"
 
 export JAVA_HOME="/c/Program Files/Microsoft/jdk-17.0.10.7-hotspot/"
