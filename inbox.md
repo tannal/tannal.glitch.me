@@ -1,6 +1,13 @@
 # 2024-7-12 0 | 0 W
 
+.\vcpkg install imgui[glfw-binding,opengl3-binding] --triplet x64-windows
 
+.\vcpkg update
+.\vcpkg upgrade
+.\vcpkg remove --outdated
+.\vcpkg install glfw3 --triplet x64-windows
+.\vcpkg install glad --triplet x64-windows
+.\vcpkg install imgui --triplet x64-windows
 
 # 2024-6-6 0 | 0 W
 
