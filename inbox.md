@@ -1,5 +1,7 @@
 # 2024-7-12 0 | 0 W
 
+git remote set-url origin http://git.tanmeng.org/tannal/exdraw.git
+
 .\vcpkg install imgui[glfw-binding,opengl3-binding] --triplet x64-windows
 
 .\vcpkg update

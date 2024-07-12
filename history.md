@@ -1,5 +1,47 @@
 # 2024-7-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+wassimcodes/DrawingSoftware: The code for my drawing software
+https://github.com/wassimcodes/DrawingSoftware
+
+issue-3191-raw-normal-paragraphs-still-shrink.png - typst [GitHub] - Visual Studio Code - GitHub
+https://github.dev/typst/typst
+
+imgui/backends/imgui_impl_glfw.h at master · ocornut/imgui
+https://github.com/ocornut/imgui/blob/master/backends/imgui_impl_glfw.h
+
+Unsure how to build/link imgui as a library in cmake [SOLVED] · ocornut/imgui · Discussion #4915
+https://github.com/ocornut/imgui/discussions/4915
+
+[imgui] issue with opengl bindings · Issue #14753 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/14753
+
+c++ - How to use ImGui, GLFW and OpenGL with vcpkg, Clion and CMake on Windows 11 - Stack Overflow
+https://stackoverflow.com/questions/74780352/how-to-use-imgui-glfw-and-opengl-with-vcpkg-clion-and-cmake-on-windows-11
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+ref tests - Google 搜索
+https://www.google.com/search?q=ref+tests&oq=ref+tests&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE0NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Igalia - Open Source Consultancy and Development
+https://www.igalia.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
 webpack.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
