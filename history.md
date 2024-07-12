@@ -1,5 +1,50 @@
 # 2024-7-12
 
+webpack.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+danicat/pacgo: A Pac Man clone written in Go (with emojis!)
+https://github.com/danicat/pacgo
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(22) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+git.tanmeng.org
+http://git.tanmeng.org/explore/repos
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+请稍候…
+https://tutflix.org/search/2477449/?q=android+internals&o=date
+
+(10) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Linux 核心專題: 多核 RISC-V 模擬和 Linux 驗證 - HackMD
+https://hackmd.io/@sysprog/HyQ9UQ2E0?fbclid=IwZXh0bgNhZW0CMTAAAR1W0va6Cxogv2k0XQKcSs0sECVpWgOb3rW8KCJk_KLBc69excjbQIOi514_aem_AQSK9DdcObbIrdJugwDUdy-y-mLofK5ANjH35iJJv0oYbMXqUrNv7pkYFeIhJeFUZYsOnkt0xcAfLkTTwTaFez0q
+
+请稍候…
+https://tutflix.org/threads/neetcode-object-oriented-design-patterns.57590/#post-193363
+
+Kafka - Broker fails because all log dirs have failed - Stack Overflow
+https://stackoverflow.com/questions/51644409/kafka-broker-fails-because-all-log-dirs-have-failed
+
+Convertio — 文件转换器
+https://convertio.co/zh/
+
+Recent Tabs changelog - FAQ
+https://jasonsavard.com/wiki/Recent_Tabs_changelog?ref=extension-update
+
+Excalidraw
+http://localhost:3000/
+
 请稍候…
 https://tutflix.org/resources/
 
