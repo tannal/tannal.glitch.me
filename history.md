@@ -1,6 +1,43 @@
 # 2024-7-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
 
+(219) #general > Binary size - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Binary.20size
+
+[cssom-view] Spec for offsetTop/Left does not match impls when offsetParent is `position:static` `<body>` element · Issue #10549 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10549
+
+Fix offsetLeft/offsetTop to match major browsers by nicoburns · Pull Request #32761 · servo/servo
+https://github.com/servo/servo/pull/32761/files#diff-60e5915bb1ac1dcfe80800075251c88df06a0d92ddc573bde9e2b88015ca5c53
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+vite/packages/vite/src/node/config.ts at 167006e74751a66776f4f48316262449b19bf186 · vitejs/vite
+https://github.com/vitejs/vite/blob/167006e74751a66776f4f48316262449b19bf186/packages/vite/src/node/config.ts#L997
+
+webpack/lib/javascript/JavascriptGenerator.js at 277460b33bcc49c51acbbcd688672aa4ec685732 · webpack/webpack
+https://github.com/webpack/webpack/blob/277460b33bcc49c51acbbcd688672aa4ec685732/lib/javascript/JavascriptGenerator.js
+
+ViteJS configuration in VuePress leading to "Component is missing template or render function." · vitejs/vite · Discussion #5830
+https://github.com/vitejs/vite/discussions/5830
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+pub+enum+Length+language%3ARust&type=code&l=Rust
+
+xilem/masonry/src/event_loop_runner.rs at 62c06c9f98df1230dfcf197f3642e0e322b78f59 · linebender/xilem
+https://github.com/linebender/xilem/blob/62c06c9f98df1230dfcf197f3642e0e322b78f59/masonry/src/event_loop_runner.rs#L64
+
+vello/vello/src/lib.rs at 90e531cf15a9b62d3193c8eadf85e526a62276be · linebender/vello
+https://github.com/linebender/vello/blob/90e531cf15a9b62d3193c8eadf85e526a62276be/vello/src/lib.rs#L396
+
+react/packages/react-reconciler/src/ReactFiberHooks.js at 5dcf3ca8d45a276a8b4cee0cedd234967661ca35 · facebook/react
+https://github.com/facebook/react/blob/5dcf3ca8d45a276a8b4cee0cedd234967661ca35/packages/react-reconciler/src/ReactFiberHooks.js#L1274
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
 
 # 2024-7-12
 
