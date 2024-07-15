@@ -1,3 +1,191 @@
+# 2024-7-15
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(136) #general > GL Bindings - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/GL.20Bindings
+
+[css-sizing] need to be clear about inputs to computation of min-content, max-content, and fit-content sizes · Issue #2890 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/2890
+
+XPCJSContext.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/9dd09bebbff975e6b0fdabe0032753fcc3176e4f/js/xpconnect/src/XPCJSContext.cpp#1161
+
+1894716 - Change Android build to use -O2 optimization level
+https://bugzilla.mozilla.org/show_bug.cgi?id=1894716
+
+script: add QueuingStrategy by wusyong · Pull Request #32514 · servo/servo
+https://github.com/servo/servo/pull/32514
+
+script: Implement `CanvasRenderingContext2D.measureText` by chocolate-pie · Pull Request #32704 · servo/servo
+https://github.com/servo/servo/pull/32704/files
+
+canvas: Remove as much usage of `font-kit` as possible by mrobinson · Pull Request #32758 · servo/servo
+https://github.com/servo/servo/pull/32758
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=slack&op=translate
+
+#cranelift - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift
+
+docker-zulip/entrypoint.sh at main · zulip/docker-zulip
+https://github.com/zulip/docker-zulip/blob/main/entrypoint.sh
+
+#gpu > Emoji rendering - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Emoji.20rendering
+
+makepad
+https://github.com/makepad
+
+gold rush - Google 搜索
+https://www.google.com/search?q=gold+rush&oq=gold+rush&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEC4YgAQyCwgGEAAYChgMGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjQyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+721. 账户合并 - 力扣（LeetCode）
+https://leetcode.cn/problems/accounts-merge/
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+Make ast `MutVisitor` have the same method name and style as `Visitor` by oli-obk · Pull Request #127524 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/127524
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+csswg-drafts/css-2024/Overview.bs at main · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/blob/main/css-2024/Overview.bs
+
+The Shapes Of CSS | CSS-Tricks
+https://css-tricks.com/the-shapes-of-css/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Frusty_v8+extracting&type=code
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+rust borrow later used here - Google 搜索
+https://www.google.com/search?q=rust+borrow+later+used+here&oq=rust+borrow+&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTI5NzY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Cargo Workspaces - The Rust Programming Language
+https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html
+
+Excalidraw
+https://github.com/excalidraw
+
+Excalidraw
+http://localhost:3001/
+
+astonbitecode/j4rs: Java for Rust
+https://github.com/astonbitecode/j4rs
+
+tannalwork/cv.pdf 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/documents/cv.pdf
+
+Code search results
+https://github.com/search?q=repo%3Aopenjdk%2Fjdk%20classLoader_init&type=code
+
+vscode/src/main.js at main · microsoft/vscode
+https://github.com/microsoft/vscode/blob/main/src/main.js
+
+Code search results
+https://github.com/search?q=repo%3AptitSeb%2Fbox64%20emit_add8&type=code
+
+Assembly-To-Machine-Code-RISC-V/RISC-V-Reference-Data.pdf at master · Kritagya-Agarwal/Assembly-To-Machine-Code-RISC-V
+https://github.com/Kritagya-Agarwal/Assembly-To-Machine-Code-RISC-V/blob/master/RISC-V-Reference-Data.pdf
+
+x86 instruction listings - Wikipedia
+https://en.wikipedia.org/wiki/X86_instruction_listings
+
+antd-templater/template-3.x: 后台管理系统模版 - 基于 Ant Design Vue 组件库 (3.x/4.x)，遵循 Vue3.x 开发规范 (注:数据由 msw 模拟)
+https://github.com/antd-templater/template-3.x
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+jskherman/imprecv: A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.
+https://github.com/jskherman/imprecv?tab=readme-ov-file
+
+jskherman/cv.typ-example-repo: An examle setup for the cv.typ CV/résumé template made with Typst
+https://github.com/jskherman/cv.typ-example-repo
+
+讲义: 集合论 - 香蕉空间
+https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E9%9B%86%E5%90%88%E8%AE%BA
+
+北京达佳互联信息技术有限公司 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E4%BA%AC%E8%BE%BE%E4%BD%B3%E4%BA%92%E8%81%94%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&oq=%E5%8C%97%E4%BA%AC%E8%BE%BE&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhjHARjRAxiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEzNzE3ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+加入我们
+https://www.sourcebrella.com/jobs/
+
+remove the XXXSorter to improve sort performance · Issue #36058 · pingcap/tidb
+https://github.com/pingcap/tidb/issues/36058
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+系统管理 - 组织管理
+http://localhost:8000/system/OrganizeManage
+
+dakuchazi/react-admin: React+webpack+readux-toolkit+ant design+axios+react-router6搭建的个人博客的后台管理
+https://github.com/dakuchazi/react-admin
+
+水印-后台管理系统
+http://localhost:7000/#/demo/watermark
+
+Code search results
+https://github.com/search?q=repo%3Abvaughn%2Freact-virtualized%20scroll&type=code
+
+Suno Explore
+https://suno.com/explore
+
+Show HN: Dgm.js – An open-source React component for infinite canvas | Hacker News
+https://news.ycombinator.com/item?id=40854180
+
+JSON Canvas — An open file format for infinite canvas data.
+https://jsoncanvas.org/
+
+obsidianmd/jsoncanvas: An open file format for infinite canvas data.
+https://github.com/obsidianmd/jsoncanvas
+
+dgmjs/dgmjs: An infinite canvas with smart shapes
+https://github.com/dgmjs/dgmjs
+
+DGM.js | An infinite canvas with smart shapes | DGM.js
+https://dgmjs.dev/
+
+Hog Bay Software
+https://www.hogbaysoftware.com/
+
+_mesa_create_context · 搜索 · GitLab
+https://gitlab.freedesktop.org/search?search=_mesa_create_context&nav_source=navbar&project_id=176&group_id=1155&search_code=true&repository_ref=main
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Obsidian alternatives that are open source (free) and sync feature as well : r/ObsidianMD
+https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/
+
+Logseq
+https://github.com/logseq
+
 # 2024-7-13
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

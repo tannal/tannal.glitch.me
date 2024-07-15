@@ -1,3 +1,16 @@
+# 2024-7-15 0 | 0 W
+
+export CFLAGS="$CFLAGS -fuse-ld=lld"
+export CXXFLAGS="$CXXFLAGS -fuse-ld=lld"
+export RUSTFLAGS="-C link-arg=-fuse-ld=lld"
+
+$env:CFLAGS = "$env:CFLAGS -fuse-ld=lld"
+$env:CXXFLAGS = "$env:CXXFLAGS -fuse-ld=lld"
+$env:RUSTFLAGS = "-C link-arg=-fuse-ld=lld"
+
+https://github.com/southliu/react-admin
+
+
 # 2024-7-12 0 | 0 W
 
 git remote set-url origin http://git.tanmeng.org/tannal/exdraw.git
