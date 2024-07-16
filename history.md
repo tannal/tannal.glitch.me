@@ -1,5 +1,149 @@
 # 2024-7-16
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+microtask-queue.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/execution/microtask-queue.cc;l=153?q=RunMicrotasks&ss=chromium%2Fchromium%2Fsrc
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shadertoy.com%2F&sort=byPopularity&type=story
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+#study-group > What's luapp? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/What's.20luapp.3F
+
+Computação Gráfica 2D
+https://w3.impa.br/~diego/teaching/vg/
+
+2D Computer Graphics
+https://w3.impa.br/~diego/teaching/vg/slides-1.pdf
+
+denoland/rusty_v8: Rust bindings for the V8 JavaScript engine
+https://github.com/denoland/rusty_v8
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Frusty_v8+extracting&type=code
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno%20from_function_callback_info&type=code
+
+tannalwork/main.rs 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/rust-workspace/crates/v8/src/main.rs
+
+(152) #general > microtasks and promise resolution - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/microtasks.20and.20promise.20resolution
+
+Fixing Servo’s Event Loop | by Gregory Terzian | Medium
+https://medium.com/@polyglot_factotum/fixing-servos-event-loop-490c0fd74f8d
+
+502 Bad Gateway
+http://tanmeng.org/projects/google/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Lit
+https://lit.dev/
+
+lit/lit: Lit is a simple library for building fast, lightweight web components.
+https://github.com/lit/lit
+
+(17) Discord | #rules | Typst
+https://discord.com/channels/1054443721975922748/1054444680026267678
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+deno/ext/napi/function.rs at 04f9db5b2217fe06f88e76146aac6362ff0b0b86 · denoland/deno
+https://github.com/denoland/deno/blob/04f9db5b2217fe06f88e76146aac6362ff0b0b86/ext/napi/function.rs#L29
+
+App.tsx - nodebox - CodeSandbox
+https://codesandbox.io/p/sandbox/excalidraw-types-forked-tmv6qg?file=%2Fsrc%2FApp.tsx%3A161%2C7-171%2C13
+
+Excalidraw
+http://192.168.43.63:3001/
+
+javascript - pointerdown vs onclick: what is the difference? - Stack Overflow
+https://stackoverflow.com/questions/69899775/pointerdown-vs-onclick-what-is-the-difference
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Documentation (Diagram) for C++ internals · Issue #53690 · nodejs/node
+https://github.com/nodejs/node/issues/53690
+
+talks/nodeconfeu_2023/javaScript-and-cpp-in-nodejs-core.pdf at master · joyeecheung/talks
+https://github.com/joyeecheung/talks/blob/master/nodeconfeu_2023/javaScript-and-cpp-in-nodejs-core.pdf
+
+talks/node_js_interactive_2019/how-node-js-bootstraps-itself-2019-edition.pdf at master · joyeecheung/talks
+https://github.com/joyeecheung/talks/blob/master/node_js_interactive_2019/how-node-js-bootstraps-itself-2019-edition.pdf
+
+node/src/inspector_agent.cc at main · nodejs/node
+https://github.com/nodejs/node/blob/main/src/inspector_agent.cc
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+dispose%28%29&type=code
+
+仪表盘-后台管理系统
+http://localhost:7000/#/dashboard
+
+v8 - crates.io: Rust Package Registry
+https://crates.io/crates/v8
+
+action gpt - Google 搜索
+https://www.google.com/search?q=action+gpt&oq=action+gpt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYBRgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIKCAgQABgIGAoYHjIICAkQABgIGB7SAQgzNTY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+国家开发银行助学贷款学生在线系统
+https://sls.cdb.com.cn/#/login
+
+【资助中心】关于进一步做好2024年毕业生生源地助学贷款毕业确认的通知
+https://bye.pku.edu.cn/lx/159474.htm
+
+Angular never gets started · Issue #24549 · denoland/deno
+https://github.com/denoland/deno/issues/24549
+
+国家助学贷款免息 - Google 搜索
+https://www.google.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E5%85%8D%E6%81%AF&sca_esv=f2576dfd1253dbc3&sxsrf=ADLYWILJEV7C1aVG5mkr_W0nu34FVbKyyg%3A1721125784789&ei=mEuWZsfpL9yX4-EPvf2DmAg&ved=0ahUKEwjHlZCYrauHAxXcyzgGHb3-AIMQ4dUDCA8&uact=5&oq=%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E5%85%8D%E6%81%AF&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOWbveWutuWKqeWtpui0t-asvuWFjeaBrzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogQyCBAAGIAEGKIESJEhUIQZWKAgcAJ4AZABAJgBogGgAfgGqgEDMC42uAEDyAEA-AEBmAIHoAKWBsICChAAGLADGNYEGEeYAwCIBgGQBgqSBwMyLjWgB4cP&sclient=gws-wiz-serp
+
+开行新闻_国开行承办的国家助学贷款已开始受理
+https://www.cdb.com.cn/xwzx/khdt/202407/t20240715_11643.html
+
+GitHub
+https://github.com/
+
+衡南县人民政府门户网站-衡南县教育局
+https://www.hengnan.gov.cn/jyj/index.html
+
+中国铁路12306网站
+https://kyfw.12306.cn/otn/forgetPassword/initforgetMyPassword
+
+Deno 1.45: Workspace and Monorepo Support | Hacker News
+https://news.ycombinator.com/item?id=40944320
+
+联系方式_衡阳市衡南县教育局
+http://hyshnxjyj.dayinmao.com/contact/
+
+关于做好2023届毕业生助学贷款还款确认工作的通知
+https://xszz.zuel.edu.cn/2023/0506/c364a333128/pagem.htm
+
+根据国家有关规定，生源地信用助学贷款不得办理展期 - Google 搜索
+https://www.google.com/search?q=%E6%A0%B9%E6%8D%AE%E5%9B%BD%E5%AE%B6%E6%9C%89%E5%85%B3%E8%A7%84%E5%AE%9A%EF%BC%8C%E7%94%9F%E6%BA%90%E5%9C%B0%E4%BF%A1%E7%94%A8%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E4%B8%8D%E5%BE%97%E5%8A%9E%E7%90%86%E5%B1%95%E6%9C%9F&oq=%E6%A0%B9%E6%8D%AE%E5%9B%BD%E5%AE%B6%E6%9C%89%E5%85%B3%E8%A7%84%E5%AE%9A%EF%BC%8C%E7%94%9F%E6%BA%90%E5%9C%B0%E4%BF%A1%E7%94%A8%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E4%B8%8D%E5%BE%97%E5%8A%9E%E7%90%86%E5%B1%95%E6%9C%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+国家开发银行助学贷款学生在线系统
+https://sls.cdb.com.cn/#/login?redirect=%2Findex
+
+衡南县资助中心 - Google 搜索
+https://www.google.com/search?q=%E8%A1%A1%E5%8D%97%E5%8E%BF%E8%B5%84%E5%8A%A9%E4%B8%AD%E5%BF%83&oq=%E8%A1%A1%E5%8D%97&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxiLAzIGCAAQRRg5MgkIARAjGCcYiwMyDQgCEC4YrwEYxwEYgAQyCAgDEEUYJxg7MgcIBBAuGIAEMgcIBRAAGIAEMgYIBhBFGD0yBggHEEUYPdIBCDI5OTlqMWo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
