@@ -1,5 +1,98 @@
 # 2024-7-16
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Responsive bar charts in HTML and CSS - 9elements
+https://9elements.com/blog/responsive-bar-charts-in-html-and-css/
+
+pypiserver/pypiserver: Minimal PyPI server for uploading & downloading packages with pip/easy_install
+https://github.com/pypiserver/pypiserver?tab=readme-ov-file#more-details-about-pypi-server-run
+
+quangdangfit/goshop: E-Commerce backend system via Golang and Postgres
+https://github.com/quangdangfit/goshop
+
+Code search results
+https://github.com/search?q=repo%3Acnpm%2Fcnpmcore%20performanceStarttime&type=code
+
+npmmirror 镜像站
+https://npmmirror.com/
+
+microsoft/fluentui: Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+https://github.com/microsoft/fluentui/tree/master
+
+Schema Type Definition - Server-Side GraphQL in Next.js
+https://frontendmasters.com/courses/server-graphql-nextjs/introduction/
+
+Redis中设置了protected-mode模式，如何可以让其他机器正常访问呢？_redis的protected mode为yes-CSDN博客
+https://blog.csdn.net/jiangxiulilinux/article/details/106014776
+
+redis配置文件设置密码及启动方式 - 海洋svs - 博客园
+https://www.cnblogs.com/haiyangsvs/p/14276529.html
+
+localhost
+http://localhost:7001/swagger/index.html
+
+PostgreSQL: Documentation: 16: COMMENT
+https://www.postgresql.org/docs/current/sql-comment.html
+
+GitHub
+https://github.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+localhost:7001/ping
+http://localhost:7001/ping
+
+egg/index.d.ts at master · eggjs/egg
+https://github.com/eggjs/egg/blob/master/index.d.ts
+
+go - Creating a time.Duration from float64 seconds - Stack Overflow
+https://stackoverflow.com/questions/67726230/creating-a-time-duration-from-float64-seconds
+
+is there any way to get hot reload! · Issue #477 · gin-gonic/gin
+https://github.com/gin-gonic/gin/issues/477
+
+go - Creating a time.Duration from float64 seconds - Stack Overflow
+https://stackoverflow.com/questions/67726230/creating-a-time-duration-from-float64-seconds
+
+新版cnpmcore部署私有npm源全教程-CSDN博客
+https://blog.csdn.net/qq_21567385/article/details/135533007
+
+A lightweight Node.js private proxy registry | Verdaccio
+https://verdaccio.org/
+
+verdaccio/verdaccio: 📦🔐 A lightweight Node.js private proxy registry
+https://github.com/verdaccio/verdaccio
+
+Verdaccio
+http://localhost:4873/
+
+如何在 Windows 10 上更改 DNS 服务器|适配器|windows 10|dns|ip_网易订阅
+https://www.163.com/dy/article/HFN1IC0V0552GA5W.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Nginx upstream配置说明负载均衡 - 简书
+https://www.jianshu.com/p/50dfb0d69983
+
+naver/billboard.js: 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+https://github.com/naver/billboard.js?tab=readme-ov-file
+
+ChatGGG
+http://docs.tanmeng.org/quill.html
+
+Excalidraw
+http://draw.tanmeng.org/
+
+tanmeng.org
+http://tanmeng.org/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
 roadmap.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
