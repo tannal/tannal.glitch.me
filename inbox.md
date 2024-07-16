@@ -1,5 +1,10 @@
+# 2024-7-16 0 | 0 W
+
+
+
 # 2024-7-15 0 | 0 W
 
+```bash
 export CFLAGS="$CFLAGS -fuse-ld=lld"
 export CXXFLAGS="$CXXFLAGS -fuse-ld=lld"
 export RUSTFLAGS="-C link-arg=-fuse-ld=lld"
@@ -7,6 +12,7 @@ export RUSTFLAGS="-C link-arg=-fuse-ld=lld"
 $env:CFLAGS = "$env:CFLAGS -fuse-ld=lld"
 $env:CXXFLAGS = "$env:CXXFLAGS -fuse-ld=lld"
 $env:RUSTFLAGS = "-C link-arg=-fuse-ld=lld"
+```
 
 https://github.com/southliu/react-admin
 
