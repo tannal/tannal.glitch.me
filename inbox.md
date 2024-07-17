@@ -1,5 +1,22 @@
+# 2024-7-17 0 | 0 W
+
+https://4dayweek.io/companies/asia
+
+https://arc.dev/remote-jobs
+
+https://www.workingnomads.com/jobs?category=development&location=anywhere
+
+https://nodesk.co/remote-jobs/sticker-mule-software-engineer-backend/
+
+https://jobs.ashbyhq.com/stickermule/477eed3e-4aae-46e6-a8ab-0646dbfb11cd/application
+
+https://weworkremotely.com/
+
+https://remoteok.com/remote-jobs/remote-web3-fullstack-engineer-flood-847400
+
 # 2024-7-16 0 | 0 W
 
+Get-Content input | node vj.js
 
 
 # 2024-7-15 0 | 0 W

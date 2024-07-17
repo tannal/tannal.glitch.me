@@ -1,3 +1,140 @@
+# 2024-7-17
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+www.iplocation.net
+https://www.iplocation.net/ip-lookup
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/
+
+淘天笔试-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E6%B7%98%E5%A4%A9%E7%AC%94%E8%AF%95&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+第一次AK，阿里淘天笔试_牛客网
+https://www.nowcoder.com/feed/main/detail/08690d365dfc4cf89a720cddda81052b?sourceSSR=search
+
+CrazyBucket - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/992839967
+
+六月捡漏手子_牛客网
+https://www.nowcoder.com/feed/main/detail/a8b34ca50b1a444bba91196b89bc02d8?sourceSSR=users
+
+淘天二面挂_牛客网
+https://www.nowcoder.com/feed/main/detail/17770da5e7934e1d945dc8c472ee9147?sourceSSR=search
+
+阿里淘天笔试 阿里淘天笔试题 0403_牛客网
+https://www.nowcoder.com/discuss/622202963716521984?sourceSSR=search
+
+进大厂别光埋头干活，不然 landing 会痛苦_牛客网
+https://www.nowcoder.com/discuss/642333751401283584
+
+秋招 笔试-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E7%A7%8B%E6%8B%9B%20%E7%AC%94%E8%AF%95&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+在线题库的细分：“牛客网”做的是程序猿们的笔试面试备考题库-36氪
+https://36kr.com/p/1641949986817
+
+HackerRank Coding Interviews - Code Live With Candidates
+https://www.hackerrank.com/products/interview/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hackerrank&sort=byPopularity&type=story
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=codewar&sort=byPopularity&type=story
+
+Training on Regex validate PIN code | Codewars
+https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/train/javascript
+
+javascript - How do I check that a number is float or integer? - Stack Overflow
+https://stackoverflow.com/questions/3885817/how-do-i-check-that-a-number-is-float-or-integer
+
+一生一芯
+https://ysyx.oscc.cc/
+
+ysyx.pdf
+https://ysyx.oscc.cc/res/files/ysyx.pdf
+
+“一生一芯”学习记录表
+https://docs.qq.com/sheet/DT29weHpIRWNnYlFl?tab=uvrbw7
+
+ysyx_23060021-方易非-华盛顿大学-学习记录
+https://docs.qq.com/sheet/DRkxBU3luTVVkcldW?tab=BB08J2
+
+rt thread - Google 搜索
+https://www.google.com/search?q=rt+thread&oq=rt+thread&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDILCAUQABgKGAwYgAQyBwgGEAAYgAQyCwgHEAAYChgMGIAEMgsICBAAGAoYDBiABDIHCAkQABiABNIBCDIzNDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+人工智能加速器 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A0%E9%80%9F%E5%99%A8
+
+tpu - Google 搜索
+https://www.google.com/search?q=tpu&oq=tpu&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg2MDgzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Project Brainwave - Microsoft Research
+https://www.microsoft.com/en-us/research/project/project-brainwave/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ai%20&sort=byPopularity&type=story
+
+domain specific system on chip - Google 搜索
+https://www.google.com/search?q=domain+specific+system+on+chip&sca_esv=e59d9031b627fbb2&sxsrf=ADLYWIKMdUQF6ci9p4JeuVfh1J_ssAgkUg%3A1721142192131&ei=sIuWZv3WB4uK4-EPsr-YwAo&ved=0ahUKEwj97uCn6quHAxULxTgGHbIfBqgQ4dUDCA8&uact=5&oq=domain+specific+system+on+chip&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmRvbWFpbiBzcGVjaWZpYyBzeXN0ZW0gb24gY2hpcDIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIpBJQAFiKEHAAeAGQAQCYAYgCoAGdFKoBBjAuMTIuM7gBA8gBAPgBAZgCD6AC9BTCAggQABiABBjLAcICBhAAGAgYHsICCBAAGAgYChgewgIGEAAYBRgewgIIEAAYCBgeGA-YAwCSBwYwLjEyLjOgB84t&sclient=gws-wiz-serp
+
+Computer Architecture A Quantitative Approach (5th edition).pdf
+http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf
+
+research.aimultiple.com
+https://research.aimultiple.com/ai-chip-makers/
+
+衡南县教育局_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%A1%A1%E5%8D%97%E5%8E%BF%E6%95%99%E8%82%B2%E5%B1%80&fenlei=256&oq=%25E8%25A1%25A1%25E5%258D%2597%25E5%258E%25BF%25E8%25B5%2584%25E5%258A%25A9%25E4%25B8%25AD%25E5%25BF%2583&rsv_pq=bddc32fe005480b4&rsv_t=26fe7t4pyfh6DWEYxLP0%2FzPr2%2BnoFfeOZGapfDMPcnKSNWOAP26LpzT%2Bcwc&rqlang=cn&rsv_dl=tb&rsv_enter=1&rsv_btype=t&inputT=2079&rsv_sug3=35&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2229&rsv_sug=1
+
+衡南县人民政府门户网站-衡南县教育局
+https://www.hengnan.gov.cn/jyj/
+
+衡南县人民政府门户网站-衡南县教育局
+https://www.hengnan.gov.cn/jyj/index.html
+
+衡南县资助中心_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%A1%A1%E5%8D%97%E5%8E%BF%E8%B5%84%E5%8A%A9%E4%B8%AD%E5%BF%83&fenlei=256&rsv_pq=0x86f227140057e257&rsv_t=621eEwcf%2Ba8bPoy%2BCpWZWpd%2FUykS5fWvpvgfVzMRKb8IeaLXKC23%2FtTP%2FAmO&rqlang=en&rsv_enter=1&rsv_dl=ts_1&rsv_sug3=15&rsv_sug1=8&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=%25E8%25A1%25A1%25E5%258D%2597%25E5%258E%25BF&rsp=1&inputT=5057&rsv_sug4=5058&rsv_sug=2
+
+衡南县学生资助管理中心 - 爱企查
+https://aiqicha.baidu.com/company_detail_27951009621054
+
+Create an account on Remote OK
+https://remoteok.com/sign-up?user_type=worker
+
+湖南省各地各高校暑期学生资助热线为您开通 - 湖南省教育厅
+https://jyt.hunan.gov.cn/jyt/sjyt/xxgk/gzdt/tpxw/202207/t20220705_1073259.html
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Remote Jobs in Programming, Design, Sales and more #OpenSalaries
+https://remoteok.com/remote-jobs/remote-web3-fullstack-engineer-flood-847400
+
+We Work Remotely: Remote jobs in design, programming, marketing and more
+https://weworkremotely.com/
+
+Remote Software Engineer (Backend) at Sticker Mule - NoDesk
+https://nodesk.co/remote-jobs/sticker-mule-software-engineer-backend/
+
+Software engineer (Backend) @ Sticker Mule
+https://jobs.ashbyhq.com/stickermule/477eed3e-4aae-46e6-a8ab-0646dbfb11cd/application
+
+workingnomads.com/jobs?category=development&location=anywhere
+https://www.workingnomads.com/jobs?category=development&location=anywhere
+
+Find Remote Jobs - Arc
+https://arc.dev/remote-jobs
+
+4 Day Week Companies in Asia | 4dayweek.io
+https://4dayweek.io/companies/asia
+
 # 2024-7-16
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
