@@ -1,5 +1,25 @@
 # 2024-7-17 0 | 0 W
 
+MEL 频谱图 
+
+Terraform ElasticSearch
+Web applications: Ruby on Rails, Golang, NodeJS, VueJS, Svelte
+Database: MySQL, Redis, ElasticSearch
+Infrastructure: Docker, Kubernetes, Nginx, HAProxy
+Deployment: AWS, GCP
+Scripting: Bash, Python
+CI/CD: CircleCI
+
+MySQL, PostgreSQL, Redis, and Memcached.
+
+main design product built with VueJS, Ruby on Rails, and a video product built with Svelte and Nodejs.
+
+GCP & AWS platforms
+
+bash and Python scripting
+
+Kubernetes containerized containerd docker podman
+
 https://4dayweek.io/companies/asia
 
 https://arc.dev/remote-jobs
