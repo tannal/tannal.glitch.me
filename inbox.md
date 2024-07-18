@@ -1,5 +1,29 @@
 # 2024-7-18 0 | 0 W
 
+泛客户端
+
+浏览器 桌面应用 移动端APP
+
+小程序
+
+npx eslint --init
+
+pnpm install --save-dev @commitlint/cli @commitlint/config-conventional husky lint-staged eslint prettier eslint-config-prettier eslint-plugin-prettier
+
+echo "module.exports = {extends: ['@commitlint/config-conventional']};" > commitlint.config.js
+
+npx husky install
+npm set-script prepare "husky install"
+npx husky add .husky/commit-msg 'npx --no -- commitlint --edit $1'
+
+pnpm install --save-dev ts-jest jest-environment-jsdom
+
+pnpm install --save-dev jest
+
+pnpm install @reduxjs/toolkit react-redux
+
+pnpm install antd @ant-design/icons
+
 pnpm install msw --save-dev
 npx msw init public
 
