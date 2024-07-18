@@ -1,3 +1,146 @@
+# 2024-7-18
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ggml/src/ggml.c at 3e7e5e26f90fecf4f7c2808df7d94454630b219c · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/3e7e5e26f90fecf4f7c2808df7d94454630b219c/src/ggml.c
+
+layer_tree_host_impl.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:cc/trees/layer_tree_host_impl.cc;l=2590?q=LayerTreeHostImpl::draw&sq=&ss=chromium
+
+Compositor Stack - Google 幻灯片
+https://docs.google.com/presentation/d/1ou3qdnFhKdjR6gKZgDwx3YHDwVUF7y8eoqM3rhErMMQ/edit#slide=id.g17a920a23a_0_95
+
+gpu_init.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:gpu/ipc/service/gpu_init.cc;l=328?q=gpuInit&ss=chromium%2Fchromium%2Fsrc
+
+4 Day Week Companies in Asia | 4dayweek.io
+https://4dayweek.io/companies/asia
+
+合并请求 · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests?scope=all&state=opened
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Sum of odd numbers | Codewars
+https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/javascript
+
+Javascript Function that returns true if a letter? - Stack Overflow
+https://stackoverflow.com/questions/40120915/javascript-function-that-returns-true-if-a-letter
+
+javascript max integer - Google 搜索
+https://www.google.com/search?q=javascript+max+integer&oq=javascript+max+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgKGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzUyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+flex-bison-cpp-example/src/parser.yy at master · bingmann/flex-bison-cpp-example
+https://github.com/bingmann/flex-bison-cpp-example/blob/master/src/parser.yy
+
+queueMicrotask - Google 搜索
+https://www.google.com/search?q=queueMicrotask&oq=queueMicrotask&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzI0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+cross-env - npm
+https://www.npmjs.com/package/cross-env
+
+cross-env is "finished" (now in maintenance mode) · Issue #257 · kentcdodds/cross-env
+https://github.com/kentcdodds/cross-env/issues/257
+
+containerd/containerd: An open and reliable container runtime
+https://github.com/containerd/containerd
+
+docker/cli: The Docker CLI
+https://github.com/docker/cli
+
+Code search results
+https://github.com/search?q=org%3Adocker+daemon+language%3AGo&type=code&l=Go
+
+moby/moby: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+https://github.com/moby/moby
+
+Code search results
+https://github.com/search?q=repo%3Acontainerd%2Fcontainerd+network.go&type=code
+
+haproxy/haproxy: HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+https://github.com/haproxy/haproxy
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+MEL 频谱图 - Google 搜索
+https://www.google.com/search?q=MEL+%E9%A2%91%E8%B0%B1%E5%9B%BE&oq=MEL+%E9%A2%91%E8%B0%B1%E5%9B%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Three Ways to Reverse a String in JavaScript
+https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
+
+jenkins vs circleci vs travis - Google 搜索
+https://www.google.com/search?q=jenkins+vs+circleci+vs+travis&oq=CircleCI+jenkins+tr&gs_lcrp=EgZjaHJvbWUqCAgBEAAYCBgeMgYIABBFGDkyCAgBEAAYCBgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIE0gEJMTQzNTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Akubernetes%2Fkubernetes%20syncLoopIteration&type=code
+
+node.js - ReferenceError: describe is not defined NodeJs - Stack Overflow
+https://stackoverflow.com/questions/28400459/referenceerror-describe-is-not-defined-nodejs
+
+tannal/bagu - bagu - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bagu
+
+Getting Started | webpack
+https://webpack.js.org/guides/getting-started/#basic-setup
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?page=2&sort=recentupdate&q=&tab=repositories&language=
+
+deno/tests at main · denoland/deno
+https://github.com/denoland/deno/tree/main/tests
+
+alangpierce/sucrase: Super-fast alternative to Babel for when you can target modern JS runtimes
+https://github.com/alangpierce/sucrase
+
+Show HN: Sucrase, 20x faster smaller-scoped alternative to Babel | Hacker News
+https://news.ycombinator.com/item?id=17175186
+
+Babel 中文文档 · 下一代 JavaScript 编译器
+https://babel.xiniushu.com/setup#installation
+
+@babel/plugin- - npm search
+https://www.npmjs.com/search?q=%40babel%2Fplugin-
+
+javascript - How can I solve "ReferenceError: expect is not defined" error message? - Stack Overflow
+https://stackoverflow.com/questions/19191384/how-can-i-solve-referenceerror-expect-is-not-defined-error-message
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2024-06-01&to=2024-06-30
+
+Webpack resolve.alias does not work with typescript? - Stack Overflow
+https://stackoverflow.com/questions/40443806/webpack-resolve-alias-does-not-work-with-typescript
+
+babel-plugin-import-directory - npm
+https://www.npmjs.com/package/babel-plugin-import-directory
+
+javascript - __dirname is not defined error in Node 14 version - Stack Overflow
+https://stackoverflow.com/questions/64383909/dirname-is-not-defined-error-in-node-14-version
+
+Watch and WatchOptions | webpack
+https://webpack.js.org/configuration/watch/
+
+Webpack with typescript getting TypeScript emitted no output error - Stack Overflow
+https://stackoverflow.com/questions/55304436/webpack-with-typescript-getting-typescript-emitted-no-output-error
+
+Development | webpack
+https://webpack.js.org/guides/development/
+
+Resolve | webpack
+https://webpack.js.org/configuration/resolve/
+
+Product List App
+http://localhost:3001/
+
 # 2024-7-17
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

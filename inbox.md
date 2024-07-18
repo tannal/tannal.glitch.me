@@ -1,3 +1,24 @@
+# 2024-7-18 0 | 0 W
+
+pnpm install msw --save-dev
+npx msw init public
+
+pnpm add lodash
+pnpm add -D @types/lodash
+
+pnpm install react react-dom typescript @types/react @types/react-dom
+pnpm install --save-dev webpack webpack-cli webpack-dev-server babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/preset-typescript html-webpack-plugin ts-loader style-loader css-loader
+pnpm install --save-dev @types/styled-components styled-components
+pnpm install --save-dev jest @types/jest @testing-library/react @testing-library/jest-dom
+
+babel
+pnpm i babel-loader -D
+
+pnpm i webpack webpack-cli -D
+
+.\node_modules\.bin\webpack-cli --config .\webpack.config.dev.js
+.\node_modules\.bin\mocha
+
 # 2024-7-17 0 | 0 W
 
 MEL 频谱图 
