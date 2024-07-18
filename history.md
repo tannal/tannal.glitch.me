@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Remote Jobs | Working Nomads
+https://www.workingnomads.com/jobs?category=development&location=anywhere&job=senior-frontend-developer-reactjsnextjs-proxify
+
+Senior Machine Learning Engineer - Arc
+https://arc.dev/remote-jobs/details/senior-machine-learning-engineer-k263u6jlx8
+
+fluentui/jest.config.ts at master · microsoft/fluentui
+https://github.com/microsoft/fluentui/blob/master/jest.config.ts
+
+Product List App
+http://localhost:3001/
+
+configureStore | Redux Toolkit
+https://redux-toolkit.js.org/api/configureStore
+
+npm - Field 'browser' doesn't contain a valid alias configuration - Stack Overflow
+https://stackoverflow.com/questions/43037590/field-browser-doesnt-contain-a-valid-alias-configuration
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+cypress vs playwright vs puppeteer - Google 搜索
+https://www.google.com/search?q=cypress+vs+playwright+vs+puppeteer&sca_esv=9ce04a1690bce6d9&sxsrf=ADLYWIIjjs0FxkJCQ8TsfjiNh8l7zveFoA%3A1721288276094&ei=VMaYZpq_BaGuseMPn_KxuAE&oq=cypress+vs+playwright+vs+selenium+vs+&gs_lp=Egxnd3Mtd2l6LXNlcnAiJWN5cHJlc3MgdnMgcGxheXdyaWdodCB2cyBzZWxlbml1bSB2cyAqAggBMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIhRlQygZY7gtwAXgBkAEAmAHCAaABkQWqAQMwLjS4AQPIAQD4AQGYAgWgArEFwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiiBBiJBZgDAIgGAZAGB5IHAzEuNKAH9wk&sclient=gws-wiz-serp
+
+Getting Started · Jest
+https://jestjs.io/docs/getting-started
+
+mocha typescript - Google 搜索
+https://www.google.com/search?q=mocha+typescript&sca_esv=9ce04a1690bce6d9&sxsrf=ADLYWIKC7GkcuRjB7O8EJmhKS5RkgkVTGg%3A1721289180315&ei=3MmYZubPEtvG4-EP1tyGkAw&oq=mocha+type&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgptb2NoYSB0eXBlKgIIADIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIux5QAFjFF3AEeACQAQCYAdYBoAGxEKoBBjAuMTAuMrgBA8gBAPgBAZgCEKACuBHCAgQQIxgnwgIKECMYgAQYJxiKBcICDBAjGIAEGBMYJxiKBcICChAAGIAEGEMYigXCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgITECMYgAQY0gMYJxioAxiKBRiLA8ICDRAjGIAEGCcYigUYiwPCAgUQABiABMICCxAuGIAEGLEDGIMBwgIKEC4YgAQYQxiKBcICBRAuGIAEwgIIEC4YgAQYywHCAgoQABiABBgKGMsBwgIOEC4YgAQYxwEYywEYrwHCAgcQABiABBgMmAMAkgcFNC45LjOgB4tY&sclient=gws-wiz-serp
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+conventional-changelog
+https://github.com/conventional-changelog
+
+演唱会 - Google 搜索
+https://www.google.com/search?q=%E6%BC%94%E5%94%B1%E4%BC%9A&oq=%E6%BC%94%E5%94%B1%E4%BC%9A&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQxMjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Training on Equal Sides Of An Array | Codewars
+https://www.codewars.com/kata/5679aa472b8f57fb8c000047/train/javascript
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+GitHub
+https://github.com/
+
+Pikuma: Courses
+https://pikuma.com/courses
+
+MobX - Google 搜索
+https://www.google.com/search?q=MobX&oq=MobX&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMg8IAxAAGAoYgwEYsQMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQc0NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+MobX 6 | Hacker News
+https://news.ycombinator.com/item?id=24648363
+
+Repository search results
+https://github.com/search?q=pacman&type=repositories
+
+项目 - 路人甲
+https://passer-by.com/project.html
+
+中国农历公历转换 阴阳历换算 万年历
+https://passer-by.com/calendar/
+
+mumuy (路人甲)
+https://github.com/mumuy/
+
+Inferno
+https://www.infernojs.org/
+
+infernojs/inferno: :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+https://github.com/infernojs/inferno
+
+ygs-code/vue: vue源码逐行注释分析+40多m的vue源码程序流程图思维导图
+https://github.com/ygs-code/vue
+
+#rust ui > Tauri - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/422907-rust-ui/topic/Tauri
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=replay&sort=byPopularity&type=story
+
+highlight/highlight: highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
+https://github.com/highlight/highlight?tab=readme-ov-file#get-started
+
+Debug C and C++ programs with rr | Red Hat Developer
+https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr#requirements_and_setup
+
+Developer Tools for Cloud Development | Red Hat Developer
+https://developers.redhat.com/topics/developer-tools
+
+Optimizing Code For Modern Processors (William Cohen) - YouTube
+https://www.youtube.com/watch?v=jb7h8Cu9MyM
+
+mwcz (Michael Clayton)
+https://github.com/mwcz
+
+Thriving as a Junior Online Workshop
+https://frontendmasters.com/workshops/junior-devs/
+
+Replay - Time Travel Browser DevTools
+https://www.replay.io/
+
+Show HN: Time travel debugger for web development | Hacker News
+https://news.ycombinator.com/item?id=28539247
+
+replayio/node: Integration of the node.js runtime with the record/replay driver
+https://github.com/replayio/node
+
+破壳三周年，这个开源项目的故事竟然这么精彩| Benefit from Open Source_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1wL4y1B7wN/?share_source=copy_web
+
+app.replay.io/recording/replay-of-youareatlascom--7500906f-bbc4-480c-8284-6a341ed71aaa?point=18173039005014733297983782167511180&time=5953.014631043257&focusWindow=eyJiZWdpbiI6eyJwb2ludCI6IjAiLCJ0aW1lIjowfSwiZW5kIjp7InBvaW50IjoiMjE0MTgyMjQ1NDE2MTU1NzYxMTgyODcyNzY4NzU3MTA0NjQiLCJ0aW1lIjo2OTg4fX0%253D&commentId=&primaryPanel=explorer&secondaryPanel=console&viewMode=dev
+https://app.replay.io/recording/replay-of-youareatlascom--7500906f-bbc4-480c-8284-6a341ed71aaa?point=18173039005014733297983782167511180&time=5953.014631043257&focusWindow=eyJiZWdpbiI6eyJwb2ludCI6IjAiLCJ0aW1lIjowfSwiZW5kIjp7InBvaW50IjoiMjE0MTgyMjQ1NDE2MTU1NzYxMTgyODcyNzY4NzU3MTA0NjQiLCJ0aW1lIjo2OTg4fX0%253D&commentId=&primaryPanel=explorer&secondaryPanel=console&viewMode=dev
+
+Go Delve — Undo.io
+https://docs.undo.io/GoDelve.html
+
+GoReplay - test your system with real data
+https://goreplay.org/
+
+buger/goreplay: GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+https://github.com/buger/goreplay
+
+openresty/lua-nginx-module: Embed the Power of Lua into NGINX HTTP servers
+https://github.com/openresty/lua-nginx-module
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 ChatGGG
 http://192.168.43.1:8080/quill.html
 

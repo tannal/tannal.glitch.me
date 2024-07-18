@@ -1,5 +1,8 @@
 # 2024-7-18 0 | 0 W
 
+Open source is the freedom of developer.
+Free to use and free to modify.
+
 泛客户端
 
 浏览器 桌面应用 移动端APP
