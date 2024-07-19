@@ -1,5 +1,7 @@
 # 2024-7-19 0 | 0 W
 
+https://github.com/TypeStrong/ts-loader/issues/181
+
 pnpm i speed-measure-webpack-plugin -D
 
 rustup update
