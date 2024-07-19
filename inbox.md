@@ -1,5 +1,9 @@
 # 2024-7-19 0 | 0 W
 
+export CC=./slimcc
+
+wget https://github.com/gojue/ecapture/releases/download/v0.8.4/ecapture-v0.8.4-linux-amd64.tar.gz
+
 pnpm install @babel/core @babel/parser @babel/preset-env @babel/traverse --save-dev
 
 gdb .\build\riscv_sim.exe --args .\tests\test_elf.elf

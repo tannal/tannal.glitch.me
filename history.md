@@ -3,6 +3,87 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+node/lib/internal/url.js at cd39578e53d6502de03f15620d15835b86954ac8 · nodejs/node
+https://github.com/nodejs/node/blob/cd39578e53d6502de03f15620d15835b86954ac8/lib/internal/url.js#L4
+
+第六章：从源码视角深入使用Nginx与OpenResty
+https://odysee.com/@learningdatabase_jksj:c/f53dcc771f384a5f8b55b42db51e541d:3
+
+geektime-nginx: 极客时间：nginx核心知识100讲配置文件与代码分享
+https://gitee.com/geektime-geekbang/geektime-nginx
+
+nginx/nginx: An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+https://github.com/nginx/nginx
+
+Pretraining (with CPUs) · Issue #660 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/660
+
+Product List App
+http://localhost:3001/
+
+About MobX · MobX 🇺🇦
+https://mobx.js.org/README.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=ai%20chip%20design&sort=byPopularity&type=story
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+JavaScript Solutions for Extract the domain name from a URL | Codewars
+https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/javascript
+
+Show HN: Codewars | Hacker News
+https://news.ycombinator.com/item?id=7186459
+
+mocha watch - Google 搜索
+https://www.google.com/search?q=mocha+watch&oq=mocha+watch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMggIBhAAGA8YHjIICAcQABgPGB4yCAgIEAAYCBgeMggICRAAGAUYHtIBCDM0NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Issues · whatwg/url
+https://github.com/whatwg/url/issues
+
+Practical parsing with Flex and Bison
+https://begriffs.com/posts/2021-11-28-practical-parsing.html
+
+Parser generators vs. handwritten parsers: surveying major languages in 2021 | Hacker News
+https://news.ycombinator.com/item?id=28258945
+
+Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com
+https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
+
+gcc/gcc/c/c-parser.cc at releases/gcc-12.1.0 · gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc/blob/releases/gcc-12.1.0/gcc/c/c-parser.cc
+
+chromium/third_party/blink/renderer/core/css/parser/css_parser_impl.cc at 95.0.4617.2 · chromium/chromium
+https://github.com/chromium/chromium/blob/95.0.4617.2/third_party/blink/renderer/core/css/parser/css_parser_impl.cc
+
+The Parser
+https://loup-vaillant.fr/tutorials/earley-parsing/parser
+
+Parsers all the way down: writing a self-hosting parser
+https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html
+
+Deconstructing React / Asynchronous Updates
+https://tiarkrompf.github.io/notes/?/deconstructing-react/aside14
+
+Building a high performance JSON parser
+https://dave.cheney.net/paste/gophercon-sg-2023.html
+
+ohmjs/ohm: A library and language for building parsers, interpreters, compilers, etc.
+https://github.com/ohmjs/ohm
+
+Ohm Editor
+https://ohmjs.org/editor/
+
+ChatGPT
+https://chatgpt.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 llm.c/dev/cuda/gelu_forward.cu at master · karpathy/llm.c
 https://github.com/karpathy/llm.c/blob/master/dev/cuda/gelu_forward.cu
 
