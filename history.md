@@ -1,5 +1,128 @@
 # 2024-7-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+极客时间 - Gitee.com
+https://gitee.com/organizations/geektime-geekbang/projects
+
+《玩转webpack》 第四章.pdf
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%20%E7%AC%AC%E5%9B%9B%E7%AB%A0.pdf
+
+《玩转webpack》第五章.pdf
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+next.js/packages/next/src/server/render.tsx at canary · vercel/next.js
+https://github.com/vercel/next.js/blob/canary/packages/next/src/server/render.tsx
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal/bagu - bagu - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bagu
+
+require(esm) in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
+
+Code search results
+https://github.com/search?q=repo%3Ajantimon%2Fhtml-webpack-plugin%20externals&type=code
+
+localhost
+http://localhost:3002/
+
+React Developer Tools - Chrome 应用商店
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1
+
+style-loader | webpack
+https://webpack.js.org/loaders/style-loader/
+
+Product List App
+http://localhost:3001/
+
+React SSR 详解【近 1W 字】+ 2个项目实战 - 掘金
+https://juejin.cn/post/6844904017487724557
+
+Repository search results
+https://github.com/search?q=ci+cd+language%3AGo&type=repositories&l=Go
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal/js-workspace - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Releases · jskherman/imprecv
+https://github.com/jskherman/imprecv
+
+js-workspace/ssr-react 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/packages/ssr-react
+
+rust - Does cargo install have an equivalent update command? - Stack Overflow
+https://stackoverflow.com/questions/34484361/does-cargo-install-have-an-equivalent-update-command
+
+js-workspace/shopping-app 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/shopping-app
+
+Speed issues · Issue #181 · TypeStrong/ts-loader
+https://github.com/TypeStrong/ts-loader/issues/181
+
+Webpack bundle analyzer does not accurately represent effects of tree-shaking in webpack 4 · Issue #161 · webpack-contrib/webpack-bundle-analyzer
+https://github.com/webpack-contrib/webpack-bundle-analyzer/issues/161
+
+How to use this plugin in a Webpack v5 ESM module · Issue #486 · webpack-contrib/webpack-bundle-analyzer
+https://github.com/webpack-contrib/webpack-bundle-analyzer/issues/486
+
+[Enhancement]: Error [ERR_REQUIRE_ESM]: Must use import to load ES Module · Issue #1622 · webpack/webpack-cli
+https://github.com/webpack/webpack-cli/issues/1622
+
+webpack-merge - npm
+https://www.npmjs.com/package/webpack-merge
+
+Output | webpack
+https://webpack.js.org/configuration/output/#outputlibrary
+
+shopping-app [19 Jul 2024 at 12:15]
+http://127.0.0.1:8888/
+
+shopping-app [19 Jul 2024 at 12:17]
+http://127.0.0.1:8888/
+
+Product List App
+http://localhost:3001/
+
+使用vcpkg管理依赖第三库_cmake利用vcpkg管理依赖项-CSDN博客
+https://blog.csdn.net/xys206006/article/details/133936059
+
+Code Splitting | webpack
+https://webpack.js.org/guides/code-splitting/
+
+shopping-app [19 Jul 2024 at 12:44]
+http://127.0.0.1:8888/
+
+"gtest" call to implicitly-deleted default constructor of 'MemoryTest_ReadWrite16_Test' - Google 搜索
+https://www.google.com/search?q=%22gtest%22+call+to+implicitly-deleted+default+constructor+of+%27MemoryTest_ReadWrite16_Test%27&sca_esv=5ab0a33a7a1c4e74&sxsrf=ADLYWIL7y2DmDMLYTGRloc-XYoWksev_xQ%3A1721364660397&ei=tPCZZsLtF9-c4-EP2sOFmA0&ved=0ahUKEwjCl_KIp7KHAxVfzjgGHdphAdMQ4dUDCA8&uact=5&oq=%22gtest%22+call+to+implicitly-deleted+default+constructor+of+%27MemoryTest_ReadWrite16_Test%27&gs_lp=Egxnd3Mtd2l6LXNlcnAiVyJndGVzdCIgY2FsbCB0byBpbXBsaWNpdGx5LWRlbGV0ZWQgZGVmYXVsdCBjb25zdHJ1Y3RvciBvZiAnTWVtb3J5VGVzdF9SZWFkV3JpdGUxNl9UZXN0J0gAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+riscv-spec-v2.2.pdf
+https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+
+RV32C, RV64C Instructions — riscv-isa-pages documentation
+https://msyksphinz-self.github.io/riscv-isadoc/html/rvc.html#c-addi
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
 React Reconciliation - Poe
 https://poe.com/chat/3fbjlofdou0yiyk5ke3
 

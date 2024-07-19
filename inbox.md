@@ -1,5 +1,28 @@
 # 2024-7-19 0 | 0 W
 
+gdb .\build\riscv_sim.exe --args .\tests\test_elf.elf
+
+.section .text
+.global _start
+
+_start:
+    li a0, 42        # Load immediate value 42 into register a0
+    li a7, 93        # Load exit syscall number (93) into a7
+    ecall            # Make the syscall to exit the program
+
+.section .data
+    .word 0xdeadbeef  # Just some data to test data section loading
+
+riscv64-unknown-elf-as -march=rv32i -mabi=ilp32 -o test_program.o test_program.s
+riscv64-unknown-elf-ld -m elf32lriscv -o test_elf.elf test_program.o
+
+sudo apt install gcc-riscv64-unknown-elf
+
+cmake -G Ninja -B build -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
+cargo install --git https://github.com/evmar/n2 --locked
+
+
 https://github.com/TypeStrong/ts-loader/issues/181
 
 pnpm i speed-measure-webpack-plugin -D
