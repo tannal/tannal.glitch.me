@@ -1,5 +1,7 @@
 # 2024-7-19 0 | 0 W
 
+pnpm install @babel/core @babel/parser @babel/preset-env @babel/traverse --save-dev
+
 gdb .\build\riscv_sim.exe --args .\tests\test_elf.elf
 
 .section .text

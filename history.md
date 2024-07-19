@@ -3,6 +3,96 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+llm.c/dev/cuda/gelu_forward.cu at master · karpathy/llm.c
+https://github.com/karpathy/llm.c/blob/master/dev/cuda/gelu_forward.cu
+
+swc-project/swc: Rust-based platform for the Web
+https://github.com/swc-project/swc
+
+babel/packages/babel-parser/src/types.ts at b804ea69f891c5bf69eb3662c03d5091fbce3abb · babel/babel
+https://github.com/babel/babel/blob/b804ea69f891c5bf69eb3662c03d5091fbce3abb/packages/babel-parser/src/types.ts#L451
+
+webpack/lib/javascript at 277460b33bcc49c51acbbcd688672aa4ec685732 · webpack/webpack
+https://github.com/webpack/webpack/tree/277460b33bcc49c51acbbcd688672aa4ec685732/lib/javascript
+
+node/src/inspector_io.cc at a523c345b153616a8265f8691ebfa8547273f27a · nodejs/node
+https://github.com/nodejs/node/blob/a523c345b153616a8265f8691ebfa8547273f27a/src/inspector_io.cc#L344
+
+第3章
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%20%E7%AC%AC%E4%B8%89%E7%AB%A0.pdf
+
+第8章：实战篇
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%E7%AC%AC%E5%85%AB%E7%AB%A0.pdf
+
+webpack 中文
+https://github.com/webpack-china
+
+Product List App
+http://localhost:3001/
+
+创建库 | webpack 中文文档
+https://webpack.docschina.org/guides/author-libraries/
+
+Esprima: Parser
+https://esprima.org/demo/parse.html
+
+geektime-webpack-course/code/chapter08/shopping/h5/src at master · cpselvis/geektime-webpack-course
+https://github.com/cpselvis/geektime-webpack-course/tree/master/code/chapter08/shopping/h5/src
+
+Issues - 极客时间 - Gitee.com
+https://gitee.com/organizations/geektime-geekbang/issues
+
+geektime-ELK/part-1 at master · onebirdrocks/geektime-ELK
+https://github.com/onebirdrocks/geektime-ELK/tree/master/part-1
+
+tannal/js-workspace - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace
+
+babel traverse VariableDeclaration - Google 搜索
+https://www.google.com/search?q=babel+traverse+VariableDeclaration&oq=babel+traverse+VariableDeclaration&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEwMTMwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+cpselvis (cpselvis) / Repositories
+https://github.com/cpselvis?tab=repositories
+
+为什么 webpack4 默认支持 es6 语法的压缩？
+https://cpselvis.github.io/2019/09/%E4%B8%BA%E4%BB%80%E4%B9%88-webpack4-%E9%BB%98%E8%AE%A4%E6%94%AF%E6%8C%81-ES6-%E8%AF%AD%E6%B3%95%E7%9A%84%E5%8E%8B%E7%BC%A9/
+
+Rewrite to Rust lang · babel/babel · Discussion #13993
+https://github.com/babel/babel/discussions/13993
+
+geektime-geekbang (geektime-geekbang) / Repositories
+https://github.com/geektime-geekbang?page=2&tab=repositories
+
+Namecheap Takes Down Polyfill.io Service Following Supply Chain Attack | Hacker News
+https://news.ycombinator.com/item?id=40805827
+
+Issues · polyfillpolyfill/polyfill-service
+https://github.com/polyfillpolyfill/polyfill-service/issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+小米汽车 su7 价格 - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+su7+%E4%BB%B7%E6%A0%BC&sca_esv=5926530d7c3423d9&sxsrf=ADLYWILvDMCxGu41I0xdQRLC2lDlikA_8A%3A1721377352989&ei=SCKaZp6CPI_D4-EPubGXuAk&oq=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+SU7+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEeWwj-exs-axvei9piBTVTcgKgIIADIFEAAYgAQyBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEirC1DaAVjaAXABeACQAQCYAaQBoAHEAqoBAzAuMrgBA8gBAPgBAZgCAqACtwHCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcDMS4xoAeMCA&sclient=gws-wiz-serp
+
+大模型招聘 - Google 搜索
+https://www.google.com/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8B%9B%E8%81%98&sca_esv=5926530d7c3423d9&sxsrf=ADLYWIJNjBdSiR8DStJvsSK5PvpTjZ9AXQ%3A1721377425156&ei=kSKaZrKeCdOf4-EP9L6XkAE&ved=0ahUKEwjyqs3P1rKHAxXTzzgGHXTfBRIQ4dUDCA8&uact=5&oq=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8B%9B%E8%81%98&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-Wkp-aooeWei-aLm-iBmDIHEAAYgAQYDDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESI0HUBlY-wVwAHgBkAEAmAHnAaAB2AWqAQUwLjMuMbgBA8gBAPgBAZgCBKAC-QXCAgUQABiABJgDAJIHBTAuMy4xoAfDCw&sclient=gws-wiz-serp
+
+大模型算法研究实习生-豆包大模型 - 字节跳动
+https://jobs.bytedance.com/campus/position/7369514044942616883/detail?recomId=904b5f99-2365-11ef-a03e-043f72c76da8&sourceJobId=7340195858644453683
+
+大模型算法研究实习生 面试 牛客 - Google 搜索
+https://www.google.com/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F+%E9%9D%A2%E8%AF%95+%E7%89%9B%E5%AE%A2&sca_esv=5926530d7c3423d9&sxsrf=ADLYWIJPDMa48SgExN-sUaggE0yd_iclYg:1721378421687&ei=dSaaZrTNKfHG4-EPwpC1-A0&sqi=2&start=10&sa=N&sstk=AagrsugpGmd2l4FTS1da6vImN51ZEXj3JZAskr5EA-VesVOH_Lmib-TYIlq-IOwUPmXjl8L2Aa87KsPJWzzIVEBIoS5u8Vns3MhPPA&ved=2ahUKEwj02-Sq2rKHAxVx4zgGHUJIDd8Q8tMDegQIBhAE&biw=1280&bih=559&dpr=1.5
+
+大模型面经-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%9D%A2%E7%BB%8F&type=all&searchType=%E8%81%94%E6%83%B3%E8%AF%8D
+
+美团基础研发 大模型算法工程师实习面经_牛客网
+https://www.nowcoder.com/discuss/601547129458307072?sourceSSR=search
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 极客时间 - Gitee.com
 https://gitee.com/organizations/geektime-geekbang/projects
 
