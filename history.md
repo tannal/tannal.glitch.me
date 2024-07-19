@@ -1,3 +1,74 @@
+# 2024-7-19
+
+React Reconciliation - Poe
+https://poe.com/chat/3fbjlofdou0yiyk5ke3
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+Resources | Page 3
+https://tutflix.org/resources/?page=3
+
+=====================================================================================
+https://rentry.co/38pwnqtq
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#Ch+BDylm7XGXm4qe85m0b2tlhnzmFoRayz+MUnlgHPEVS5mlkbsJeQ8yPKmhAp23Mez9v0uM0ioktBKLEw==
+
+第六章：从源码视角深入使用Nginx与OpenResty
+https://odysee.com/@learningdatabase_jksj:c/f53dcc771f384a5f8b55b42db51e541d:3
+
+极客时间/geektime-nginx - 码云 - 开源中国
+https://gitee.com/geektime-geekbang/geektime-nginx
+
+极客时间: 让学习成为习惯
+https://gitee.com/geektime-geekbang
+
+极客时间 - Gitee.com
+https://gitee.com/organizations/geektime-geekbang/projects
+
+极客时间: 让学习成为习惯
+https://gitee.com/geektime-geekbang
+
+《玩转webpack》第五章.pdf
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.pdf
+
+Output Management | webpack
+https://webpack.js.org/guides/output-management/#cleaning-up-the-dist-folder
+
+webpack-contrib/css-minimizer-webpack-plugin: cssnano plugin for Webpack
+https://github.com/webpack-contrib/css-minimizer-webpack-plugin
+
+require(esm) in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
+
+CleanWebpackPlugin - Google 搜索
+https://www.google.com/search?q=CleanWebpackPlugin&rlz=1C1GCEA_enCN1091CN1091&oq=CleanWebpackPlugin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yCAgJEAAYBRge0gEHMTY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ppt · 极客时间/geektime-webpack-course - 码云 - 开源中国
+https://gitee.com/geektime-geekbang/geektime-webpack-course/tree/master/ppt
+
+ModuleConcatenationPlugin - Google 搜索
+https://www.google.com/search?q=ModuleConcatenationPlugin&rlz=1C1GCEA_enCN1091CN1091&oq=ModuleConcatenationPlugin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+AlloyTeam/eslint-config-alloy: Progressive ESLint config for your React/Vue/TypeScript projects
+https://github.com/AlloyTeam/eslint-config-alloy
+
+feflow/eslint-config-ivweb: ESLint shareable config for the IVWEB JavaScript style guide.
+https://github.com/feflow/eslint-config-ivweb
+
+friendly-errors-webpack-plugin - Google 搜索
+https://www.google.com/search?q=friendly-errors-webpack-plugin&rlz=1C1GCEA_enCN1091CN1091&oq=friendly-errors-webpack-plugin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Travis CI
+https://github.com/travis-ci
+
+self host circleci - Google 搜索
+https://www.google.com/search?q=self+host+circleci&rlz=1C1GCEA_enCN1091CN1091&oq=self+host+ci&gs_lcrp=EgZjaHJvbWUqBggCEAAYHjIGCAAQRRg5MgcIARAAGIAEMgYIAhAAGB4yCAgDEAAYCBgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMggICBAAGAoYHjIICAkQABgIGB7SAQg0MDY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ci/cd pipeline open source github - Google 搜索
+https://www.google.com/search?q=ci%2Fcd+pipeline+open+source+github&sca_esv=bdba9d16886c8d93&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILx9OzBaGppMn4j-H4iFRVtub6VmA%3A1721356180149&ei=lM-ZZtjrCJeP4-EPw4y6iAU&ved=0ahUKEwjYhZm9h7KHAxWXxzgGHUOGDlEQ4dUDCBA&uact=5&oq=ci%2Fcd+pipeline+open+source+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiIWNpL2NkIHBpcGVsaW5lIG9wZW4gc291cmNlIGdpdGh1YjIHECEYoAEYCkjiFFCLBFjsE3ABeAGQAQCYAc4BoAGHCKoBBTAuNS4xuAEDyAEA-AEBmAIHoAK1CMICChAAGLADGNYEGEfCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCpIHBTEuNS4xoAfoDg&sclient=gws-wiz-serp
+
 # 2024-7-18
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,4 +1,20 @@
+# 2024-7-19 0 | 0 W
+
+pnpm i speed-measure-webpack-plugin -D
+
+rustup update
+cargo install --git https://github.com/typst/typst --locked typst-cli
+
+pnpm install clean-webpack-plugin -D
+
+https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%20%E7%AC%AC%E4%BA%8C%E7%AB%A0.pdf
+
+pnpm add -D css-minimizer-webpack-plugin 
+
+$env:NODE_OPTIONS='--experimental-detect-module'
+
 # 2024-7-18 0 | 0 W
+
 
 Open source is the freedom of developer.
 Free to use and free to modify.
