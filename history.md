@@ -1,5 +1,47 @@
 # 2024-7-19
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+軟體考古學家 | 軟體考古學家
+https://blog.brachiosoft.com/
+
+Just for Fun: The Story of an Accidental Revolutionary: Torvalds, Linus, Diamond, David: 9780066620732: Amazon.com: Books
+https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/
+
+rust-lang/mdBook: Create book from markdown files. Like Gitbook but implemented in Rust
+https://github.com/rust-lang/mdBook?fbclid=IwZXh0bgNhZW0CMTAAAR15V8toQ_6MrY0JITk-Izsmu4BMa64Zo5zwAUVO12OMI8Dgb6oq8FKS0Xo_aem_0PcuCAUAmWzNsYnZf8cLhw
+
+slimcc/tokenize.c at ac58952b568fa22f5e32b94752385e7c03a5f2e2 · fuhsnn/slimcc
+https://github.com/fuhsnn/slimcc/blob/ac58952b568fa22f5e32b94752385e7c03a5f2e2/tokenize.c
+
+gojue
+https://github.com/gojue
+
+raster-i/system/src/main/scala/renderer at main · alanjian85/raster-i
+https://github.com/alanjian85/raster-i/tree/main/system/src/main/scala/renderer
+
+u-root/u-root: A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+https://github.com/u-root/u-root?tab=readme-ov-file#examples
+
+CS 6120: The Self-Guided Course
+https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/?fbclid=IwZXh0bgNhZW0CMTAAAR1eMWdHmQM_it1__YmGeL_tSyL2Yc_MtyV-mmpRZHbsamxEFNONjMoHEqQ_aem_UjOf3xBdrVL-T876t3xIbA
+
+sysprog21/semu: A minimalist RISC-V system emulator capable of running Linux kernel
+https://github.com/sysprog21/semu
+
+evmar/retrowin32: windows emulator
+https://github.com/evmar/retrowin32
+
+ds2-lab/ALPS: ALPS: An Adaptive Learning, Priority OS Scheduler for Serverless Functions (USENIX ATC'24)
+https://github.com/ds2-lab/ALPS?fbclid=IwZXh0bgNhZW0CMTAAAR1V0jJ4JAbpgu9F3MFJCsV8ntB-NiZynMJ8cwjgsLL7rPS9TDsjmnjD-Es_aem_ePlzDEItxyicS8PC-XtoMQ
+
+jim keller - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNLZIt4jPMmD04srKzFXITs3JSS0CAFgPB3k&q=jim+keller&rlz=1C1GCEA_enCN1091CN1091&oq=jim&gs_lcrp=EgZjaHJvbWUqDAgBEC4YQxiABBiKBTIGCAAQRRg5MgwIARAuGEMYgAQYigUyDAgCEC4YQxiABBiKBTIMCAMQLhhDGIAEGIoFMhIIBBAuGEMYxwEY0QMYgAQYigUyDAgFEC4YQxiABBiKBTIKCAYQLhjUAhiABDIQCAcQLhjHARjUAhjRAxiABDINCAgQABiDARixAxiABNIBCDE4ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
