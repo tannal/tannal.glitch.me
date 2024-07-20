@@ -1573,6 +1573,107 @@ function playVideoAtRandomTime() {
 
 # Gitea
 
+custom/cnf/app.ini
+
+```
+
+APP_NAME = Gitea: Git with a cup of tea
+RUN_USER = tannal
+WORK_PATH = C:\Users\tanna\tannalwork\projects\gitea
+RUN_MODE = prod
+
+[packages]
+ENABLED = true
+
+[migrations]
+ALLOW_LOCALNETWORKS = true
+
+[database]
+DB_TYPE = sqlite3
+HOST = 127.0.0.1:3306
+NAME = gitea
+USER = gitea
+PASSWD = 
+SCHEMA = 
+SSL_MODE = disable
+PATH = C:\Users\tanna\tannalwork\projects\gitea\data\gitea.db
+LOG_SQL = false
+
+[repository]
+ROOT = C:/Users/tanna/tannalwork/projects/gitea/data/gitea-repositories
+
+
+[server]
+SSH_DOMAIN = git.tanmeng.org
+DOMAIN = git.tanmeng.org
+APP_DATA_PATH = C:\Users\tanna\tannalwork\projects\gitea\data
+
+DISABLE_SSH = false
+START_SSH_SERVER = true
+SSH_PORT         = 22
+SSH_LISTEN_PORT  = 22
+BUILTIN_SSH_SERVER_USER = tannal
+
+LFS_START_SERVER = true
+LFS_JWT_SECRET = z0TpyEc1hPmiASwmOtEuRRieeb_L0iKEj1kW79mB8lM
+OFFLINE_MODE = true
+PROTOCOL  = http
+ROOT_URL  = http://git.tanmeng.org/
+HTTP_PORT = 3000
+CERT_FILE = C:\Users\tanna\tannalwork\projects\gitea\cert.pem
+KEY_FILE  = C:\Users\tanna\tannalwork\projects\gitea\key.pem
+LFS_START_SERVER = true
+
+
+[lfs]
+PATH = C:/Users/tanna/tannalwork/projects/gitea/data/lfs
+
+[mailer]
+ENABLED = false
+
+[service]
+REGISTER_EMAIL_CONFIRM = false
+ENABLE_NOTIFY_MAIL = false
+DISABLE_REGISTRATION = false
+ALLOW_ONLY_EXTERNAL_REGISTRATION = false
+ENABLE_CAPTCHA = false
+REQUIRE_SIGNIN_VIEW = false
+DEFAULT_KEEP_EMAIL_PRIVATE = false
+DEFAULT_ALLOW_CREATE_ORGANIZATION = true
+DEFAULT_ENABLE_TIMETRACKING = true
+NO_REPLY_ADDRESS = noreply.localhost
+
+[openid]
+ENABLE_OPENID_SIGNIN = true
+ENABLE_OPENID_SIGNUP = true
+
+[cron.update_checker]
+ENABLED = false
+
+[session]
+PROVIDER = file
+
+[log]
+MODE = console
+LEVEL = info
+ROOT_PATH = C:/Users/tanna/tannalwork/projects/gitea/log
+
+[repository.pull-request]
+DEFAULT_MERGE_STYLE = merge
+
+[repository.signing]
+DEFAULT_TRUST_MODEL = committer
+
+[security]
+INSTALL_LOCK = true
+INTERNAL_TOKEN = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3MTE5NTIxNDZ9.psNFatTzHbZ8IZ0EBg_M5sJeIZvY4anxddWUfcypm00
+PASSWORD_HASH_ALGO = pbkdf2
+
+[oauth2]
+JWT_SECRET = 9x2jyh43MEPTfhbNBVPhoKdCfa5Kg4wTkAt9Ewk8wcE
+
+```
+
 ```
 
 APP_NAME = Gitea: Git with a cup of tea
