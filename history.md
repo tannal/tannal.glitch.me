@@ -1,3 +1,149 @@
+# 2024-7-20
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+googletest/googletest at main · google/googletest
+https://github.com/google/googletest/tree/main/googletest
+
+#general > Does wasmtime support WasmGC? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Does.20wasmtime.20support.20WasmGC.3F
+
+Matt Butrovich
+https://mattbutrovi.ch/
+
+Scheduling the next hybrid meeting - 2024 · Issue #1463 · WebAssembly/meetings
+https://github.com/WebAssembly/meetings/issues/1463
+
+tc39/proposal-defer-import-eval: A proposal for introducing a way to defer evaluate of a module
+https://github.com/tc39/proposal-defer-import-eval
+
+Testing Frameworks for Javascript | Write, Run, Debug | Cypress
+https://www.cypress.io/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues?page=3&q=is%3Aissue+is%3Aopen
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bun%20deno%20node&sort=byPopularity&type=story
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+(194) #general > Flex column layout - calculating block size - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Flex.20column.20layout.20-.20calculating.20block.20size
+
+Vditor: WYSIWYG Markdown Editor | Hacker News
+https://news.ycombinator.com/item?id=29217102
+
+Upcoming Servo issue triage meeting on July 22 2024 · Issue #93 · servo/project
+https://github.com/servo/project/issues/93
+
+(2) Node 22.5.0 started to crash and hangs on different cases · Issue #53902 · nodejs/node
+https://github.com/nodejs/node/issues/53902
+
+Slack
+https://openjs-foundation.slack.com/
+
+#xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Add a small emoji picker/selector example by DJMcNab · Pull Request #420 · linebender/xilem
+https://github.com/linebender/xilem/pull/420
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+c++ - reinterpret_cast member function pointer - Google 搜索
+https://www.google.com/search?q=c%2B%2B+-+reinterpret_cast+member+function+pointer&sca_esv=792956a740f9cd13&sxsrf=ADLYWIIYxoe6NB7IvNwccFS4oHjA9fr6UQ:1721441978872&ei=uh6bZqaCNaSb4-EP9MiDuAs&sqi=2&start=10&sa=N&sstk=AagrsugntZqwA6OeNYEjPaOOuygOkbFXU2lqHtJ2IZvXO-xcU5vYlVur_hpAnIkWDyTHo-XLK5-c666z7Tlb540qzn2uIN_ZqEkO4g&ved=2ahUKEwimx5uNx7SHAxWkzTgGHXTkALcQ8tMDegQIBBAE&biw=1280&bih=559&dpr=1.5
+
+add x3, x1, x4 - rvcodec.js
+https://luplab.gitlab.io/rvcodecjs/#q=add+x3,+x1,+x4&abi=false&isa=AUTO
+
+RISC-V Interpreter
+https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/
+
+Comparing 3357c42225...2846a65253 - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/compare/main...v2
+
+riscv-simulator/CMakeLists.txt 位于 main - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/main/CMakeLists.txt
+
+cmake-vcpkg-example/CMakeLists.txt at master · miredirex/cmake-vcpkg-example
+https://github.com/miredirex/cmake-vcpkg-example/blob/master/CMakeLists.txt
+
+vs2019 gtest - Google 搜索
+https://www.google.com/search?q=vs2019+gtest&oq=vs2019+gtest&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDM3NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+riscv-simulator/CMakeLists.txt 位于 v2 - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/v2/CMakeLists.txt
+
+How to create a private npm.js repository | Clock
+https://web.archive.org/web/20140802161607/http://clock.co.uk/blog/how-to-create-a-private-npmjs-repository
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c/
+
+Source引擎 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Source%E5%BC%95%E6%93%8E
+
+Microsoft Edge's JavaScript engine to go open-source | Hacker News
+https://news.ycombinator.com/item?id=10682003
+
+jandem's comments | Hacker News
+https://news.ycombinator.com/threads?id=jandem
+
+个人资料 - jandem - Mozilla Discourse
+https://discourse.mozilla.org/u/jandem/summary
+
+88250 (D)
+https://github.com/88250
+
+SiYuan
+https://github.com/siyuan-note
+
+Talkyard
+https://www.talkyard.io/
+
+链滴 - 记录生活，连接点滴
+https://ld246.com/
+
+discourse/discourse_docker: A Docker image for Discourse
+https://github.com/discourse/discourse_docker
+
+A Lesson In Timing Attacks (or, Don’t use MessageDigest.isEquals) | codahale.com
+https://codahale.com/a-lesson-in-timing-attacks/
+
+The python code mentioned is still susceptible to timing attacks. Not on the sam... | Hacker News
+https://news.ycombinator.com/item?id=761059
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Nashorn&sort=byPopularity&type=story
+
+下载 - 思源笔记 - 隐私优先的个人知识管理系统，支持 Markdown 排版、块级引用和双向链接
+https://b3log.org/siyuan/download.html
+
+88250 (D)
+https://github.com/88250
+
+Vanessa219 (V)
+https://github.com/Vanessa219
+
+SiYuan is a local-first personal knowledge management system | Hacker News
+https://news.ycombinator.com/item?id=31713665
+
+Vanessa219/vditor: ♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+https://github.com/Vanessa219/vditor
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vditor&sort=byPopularity&type=story
+
 # 2024-7-19
 
 makepad Analysis - Poe
