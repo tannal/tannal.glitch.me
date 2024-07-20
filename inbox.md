@@ -1,5 +1,7 @@
 # 2024-7-20 0 | 0 W
 
+FaceBook React/RN Team Video Editing
+https://blog.vjeux.com/
 
 
 pnpm install -D @rollup/plugin-commonjs @rollup/plugin-json @rollup/plugin-node-resolve @rollup/plugin-typescript rollup rollup-plugin-terser
