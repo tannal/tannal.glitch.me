@@ -1,5 +1,41 @@
 # 2024-7-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Go Wiki: Ubuntu - The Go Programming Language
+https://go.dev/wiki/Ubuntu
+
+How to Fix 'add-apt-repository command not found' on Ubuntu & Debian
+https://phoenixnap.com/kb/add-apt-repository-command-not-found-ubuntu
+
+Configure proxy for APT? - Ask Ubuntu
+https://askubuntu.com/questions/257290/configure-proxy-for-apt
+
+clash ftp 代理 - Google 搜索
+https://www.google.com/search?q=clash+ftp+%E4%BB%A3%E7%90%86&sca_esv=744f17077f1a8fb5&sxsrf=ADLYWIKH6jXzwK_b0qt2CX7SG1Cm8e64yw%3A1721490623939&ei=v9ybZoSDOa6fg8UPraK70AQ&ved=0ahUKEwjE3v6o_LWHAxWuz6ACHS3RDkoQ4dUDCA8&uact=5&oq=clash+ftp+%E4%BB%A3%E7%90%86&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhBjbGFzaCBmdHAg5Luj55CGMgUQIRigATIFECEYoAEyBRAhGKABSMkaUABYmBlwAHgBkAEAmAHQAaABhhWqAQYwLjE1LjG4AQPIAQD4AQGYAg-gAtkUwgIKECMYgAQYJxiKBcICBBAjGCfCAgcQIxgnGIsDwgIKEC4YgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAhQQLhiABBixAxjRAxiDARjHARiKBcICDhAuGIAEGLEDGNEDGMcBwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICEBAAGIAEGLEDGEMYgwEYigXCAg0QLhiABBhDGNQCGIoFwgIKEAAYgAQYQxiKBcICDRAuGIAEGLEDGEMYigXCAgUQABiABMICCBAAGIAEGMsBwgIcEC4YgAQYsQMYQxiKBRiXBRjcBBjeBBjgBNgBAcICCBAuGIAEGMsBwgIIEAAYCBgKGB7CAggQABiABBiiBMICCBAAGKIEGIkFwgIGEAAYCBgewgIIEC4YCBgKGB7CAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICBxAAGIAEGA3CAggQABgIGA0YHpgDALoGBggBEAEYFJIHBjAuMTMuMqAHjI0B&sclient=gws-wiz-serp
+
+Why is apt-get always using proxy, although no proxy is configured? - Ask Ubuntu
+https://askubuntu.com/questions/344802/why-is-apt-get-always-using-proxy-although-no-proxy-is-configured
+
+[Inquiry] Is ppa:longsleep/golang-backports still relevant?! · Issue #174 · polycube-network/polycube
+https://github.com/polycube-network/polycube/issues/174
+
+js-workspace/simple-webpack 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/packages/simple-webpack
+
+mount | Cypress Documentation
+https://docs.cypress.io/api/commands/mount
+
+Index of /longsleep/golang-backports/ubuntu/dists/jammy/main/binary-amd64
+https://ppa.launchpadcontent.net/longsleep/golang-backports/ubuntu/dists/jammy/main/binary-amd64/
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://localhost:3000/tannal/node
+
+探索 - Gitea: Git with a cup of tea
+http://localhost:3000/explore/organizations
+
 snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
