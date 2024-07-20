@@ -1,5 +1,143 @@
 # 2024-7-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+VidMix.app
+https://vidmix.app/
+
+Profile: zenkyu | Hacker News
+https://news.ycombinator.com/user?id=zenkyu
+
+omni-clip
+https://omniclip.app/
+
+omni-media/omniclip: Open source video editing web application
+https://github.com/omni-media/omniclip
+
+whisper.cpp : WASM example
+https://whisper.ggerganov.com/
+
+thomaswright/weekly-challenge-009-dragon-ball
+https://github.com/thomaswright/weekly-challenge-009-dragon-ball
+
+omni-clip
+https://omniclip.app/
+
+ChatGPT
+https://chatgpt.com/
+
+阿里营收来自 - Google 搜索
+https://www.google.com/search?q=%E9%98%BF%E9%87%8C%E8%90%A5%E6%94%B6%E6%9D%A5%E8%87%AA&sca_esv=db44d8096c59c517&sxsrf=ADLYWIKu5QDb7Ycr4u-1A8x0hrbyCyi0lw%3A1721467450790&ei=OoKbZsD1L5u4seMP2rOToAI&ved=0ahUKEwjA-pX_pbWHAxUbXGwGHdrZBCQQ4dUDCA8&uact=5&oq=%E9%98%BF%E9%87%8C%E8%90%A5%E6%94%B6%E6%9D%A5%E8%87%AA&gs_lp=Egxnd3Mtd2l6LXNlcnAiEumYv-mHjOiQpeaUtuadpeiHqjIIEAAYgAQYogQyCBAAGIAEGKIESOcgUNABWPUfcAF4AJABAJgBtQKgAbwWqgEIMC4xMS4zLjG4AQPIAQD4AQGYAgugAqARwgINEAAYgAQYsQMYQxiKBcICEBAuGIAEGLEDGEMYgwEYigXCAhAQABiABBixAxhDGIMBGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIOEAAYgAQYsQMYgwEYigXCAgUQABiABMICCxAuGIAEGMcBGK8BwgIIEAAYgAQYsQPCAgsQLhiABBjRAxjHAcICGhAuGIAEGNEDGMcBGJcFGNwEGN4EGOAE2AEBwgIIEAAYogQYiQXCAgYQABgeGA-YAwCIBgG6BgYIARABGBSSBwcwLjcuMi4yoAfIJA&sclient=gws-wiz-serp
+
+腾讯音乐官网 | Tencent Music (TME)
+https://www.tencentmusic.com/
+
+校园招聘 | 腾讯音乐娱乐招聘
+https://join.tencentmusic.com/campus/post?type=20
+
+校园招聘 | 腾讯音乐娱乐招聘
+https://join.tencentmusic.com/campus/post?type=20
+
+校园招聘 | 腾讯音乐娱乐招聘
+https://join.tencentmusic.com/campus/post-details/?id=12186&refer_code
+
+校园招聘 | 腾讯音乐娱乐招聘
+https://join.tencentmusic.com/campus/post-details/?id=12186&refer_code
+
+konicyQWQ/jobse-fe: 本项目是 ZJU 软件工程小学期项目，需求为做一个信息聚合的web项目。本项目做的是网络上工作招聘网站的信息聚合。用户可以进行条件搜索，标签搜索进行工作职位的搜索，也可以点击该工作对应的公司查看详细信息（公司的信息为天眼查上爬取）
+https://github.com/konicyQWQ/jobse-fe
+
+jobse-fe/server/axios.ts at main · konicyQWQ/jobse-fe
+https://github.com/konicyQWQ/jobse-fe/blob/main/server/axios.ts
+
+tannal (tannal) / June 2024
+https://github.com/tannal?tab=overview&from=2024-06-01&to=2024-06-30
+
+DWTwilight (Zhao Tianci)
+https://github.com/DWTwilight
+
+pandas - Google 搜索
+https://www.google.com/search?q=pandas&oq=pandas&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMg0IAhAAGIMBGLEDGIAEMgcIAxAAGIAEMg0IBBAuGMcBGNEDGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHODUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+turtle-standard github - Google 搜索
+https://www.google.com/search?q=turtle-standard+github&sca_esv=1c2a48f6c6fa110b&sxsrf=ADLYWIL97oMTgaiHk4fEuhvIiZPvxqVDrg%3A1721471671640&ei=t5KbZqXPJriF4-EP2pPmuA8&ved=0ahUKEwjlhurbtbWHAxW4wjgGHdqJGfcQ4dUDCA8&uact=5&oq=turtle-standard+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnR1cnRsZS1zdGFuZGFyZCBnaXRodWIyBxAhGKABGApI8AdQAFj_BnAAeAGQAQCYAdkBoAH3CKoBBTAuNi4xuAEDyAEA-AEBmAIHoAKcCcICBhAAGAgYHsICCBAAGAgYHhgPwgIIEAAYgAQYogTCAgUQIRigAZgDAJIHBTAuNi4xoAfjEQ&sclient=gws-wiz-serp
+
+localhost:8082/index.html.js
+http://localhost:8082/index.html.js
+
+localhost:8082/index.html.js
+http://localhost:8082/index.html.js
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vjeux&sort=byPopularity&type=story
+
+Vjeux » JSPP – Morph C++ Into Javascript
+https://blog.vjeux.com/2011/javascript/jspp-morph-cpp-into-javascript.html
+
+Vjeux » Reflections on Excalidraw
+https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html
+
+Index of /
+http://localhost:8084/
+
+Blogccasion
+https://blog.tomayac.com/
+
+chase-moskal (chase-moskal) / Repositories
+https://github.com/chase-moskal?tab=repositories
+
+Ask HN: Figma just got bought by Adobe – is Sketch cool again? | Hacker News
+https://news.ycombinator.com/item?id=32938497
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shadertoy.com%2F&sort=byPopularity&type=story
+
+Introduction to Penpot core development - YouTube
+https://www.youtube.com/watch?v=TpN0osiY-8k
+
+Redis 发布订阅 | 菜鸟教程
+https://www.runoob.com/redis/redis-pub-sub.html
+
+fabric - npm
+https://www.npmjs.com/package/fabric
+
+npmmirror 镜像站
+https://npmmirror.com/
+
+腾讯云 产业智变·云启未来 - 腾讯
+https://cloud.tencent.com/
+
+腾讯云最新活动_腾讯云促销优惠_代金券-腾讯云官网入口
+https://cloud.tencent.com/act
+
+精选特惠 用云无忧_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?from=22336
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+云产品免费体验馆_云产品免费试用_个人云产品试用-腾讯云
+https://cloud.tencent.com/act/pro/free
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021?from=21780
+
+Penpot: Open-source design and prototyping platform | Hacker News
+https://news.ycombinator.com/item?id=32851262
+
+Product List App
+http://localhost:3001/
+
+mapbox/node-pre-gyp: Node.js tool for easy binary deployment of C++ addons
+https://github.com/mapbox/node-pre-gyp
+
+Ask HN: Advice needed: Career Pivot? (Long) | Hacker News
+https://news.ycombinator.com/item?id=3379386
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

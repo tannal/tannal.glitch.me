@@ -1,5 +1,15 @@
 # 2024-7-20 0 | 0 W
 
+Penpot
+
+scp -i C:\Users\tanna\Downloads\first.pem data.zip ubuntu@124.223.112.154:/home/ubuntu/data.zip
+
+npm install -g cnpm --registry=https://registry.npmmirror.com
+
+redis pub sub
+
+https://blog.tomayac.com/
+
 FaceBook React/RN Team Video Editing
 https://blog.vjeux.com/
 
