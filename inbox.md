@@ -1,8 +1,37 @@
 # 2024-7-20 0 | 0 W
 
+TAGS="bindata sqlite sqlite_unlock_notify" make build
+
+scp -i C:\Users\tanna\Downloads\first.pem C:\Users\tanna\.config\clash\Country.mmdb  ubuntu@124.223.112.154:/home/ubuntu/.config/mihomo/Country.mmdb
+
+
+scp -i C:\Users\tanna\Downloads\first.pem mihomo-linux-amd64-go120 ubuntu@124.223.112.154:/home/ubuntu/tannalwork/projects/clash/mihomo-linux-amd64-go120
+
+
+wget https://github.com/MetaCubeX/mihomo/releases/download/Prerelease-Alpha/mihomo-linux-amd64-alpha-28794c6.gz
+
+curl -X GET http://localhost:9090/proxies
+
+curl -x PROXY_ADDRESS -o /dev/null -s -w "\
+Proxy: %{remote_ip}:%{remote_port}\n\
+  time_namelookup:  %{time_namelookup}\n\
+  time_connect:  %{time_connect}\n\
+  time_starttransfer:  %{time_starttransfer}\n\
+  time_total:  %{time_total}\n\n" \
+http://speedtest.server/speedtest/file-to-download
+
+
+external-controller: '0.0.0.0:9090'
+
+curl -x 127.0.0.1:7890 http://google.com
+
+git clone https://github.com/go-gitea/gitea.git
+
 Penpot
 
 scp -i C:\Users\tanna\Downloads\first.pem data.zip ubuntu@124.223.112.154:/home/ubuntu/data.zip
+
+pnpm i --registry=https://registry.npmmirror.com
 
 npm install -g cnpm --registry=https://registry.npmmirror.com
 
