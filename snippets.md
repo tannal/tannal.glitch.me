@@ -1303,6 +1303,10 @@ export https_proxy=http://10.90.81.138:7890
 export http_proxy=http://192.168.43.1:7890
 export https_proxy=http://192.168.43.1:7890
 
+
+export http_proxy=http://localhost:7890
+export https_proxy=http://localhost:7890
+
 unset http_proxy
 unset https_proxy
 unset HTTP_PROXY
@@ -1574,12 +1578,11 @@ function playVideoAtRandomTime() {
 # Gitea
 
 custom/cnf/app.ini
-
-```
+···
 
 APP_NAME = Gitea: Git with a cup of tea
 RUN_USER = tannal
-WORK_PATH = ~/tannalwork/projects/gitea
+WORK_PATH = /home/ubuntu/tannalwork/projects/gitea
 RUN_MODE = prod
 
 [packages]
@@ -1596,22 +1599,22 @@ USER = gitea
 PASSWD = 
 SCHEMA = 
 SSL_MODE = disable
-PATH = ~/tannalwork/projects/gitea/data/gitea.db
+PATH = /home/ubuntu/tannalwork/projects/gitea/data/gitea.db
 LOG_SQL = false
 
 [repository]
-ROOT = ~/tannalwork/projects/gitea/data/gitea-repositories
+ROOT = /home/ubuntu/tannalwork/projects/gitea/data/gitea-repositories
 
 
 [server]
 SSH_DOMAIN = git.tanmeng.org
 DOMAIN = git.tanmeng.org
-APP_DATA_PATH = ~/tannalwork/projects/gitea/data
+APP_DATA_PATH = /home/ubuntu/tannalwork/projects/gitea/data
 
 DISABLE_SSH = false
 START_SSH_SERVER = true
-SSH_PORT         = 22
-SSH_LISTEN_PORT  = 22
+SSH_PORT         = 2222
+SSH_LISTEN_PORT  = 2222
 BUILTIN_SSH_SERVER_USER = tannal
 
 LFS_START_SERVER = true
@@ -1673,7 +1676,8 @@ PASSWORD_HASH_ALGO = pbkdf2
 JWT_SECRET = 9x2jyh43MEPTfhbNBVPhoKdCfa5Kg4wTkAt9Ewk8wcE
 
 
-```
+···
+
 
 ```
 
