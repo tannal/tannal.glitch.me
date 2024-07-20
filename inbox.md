@@ -1,3 +1,7 @@
+# 2024-7-21 0 | 0 W
+
+https://slack.com/signin#/workspaces
+
 # 2024-7-20 0 | 0 W
 
 sudo apt-get install software-properties-common

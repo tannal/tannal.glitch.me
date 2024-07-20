@@ -1,3 +1,89 @@
+# 2024-7-21
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+https://www.google.com/sorry/index?continue=https://groups.google.com/a/mozilla.org/g/firefox-dev&q=EhAkAIkBAAAAAPA8lP_-ZRjMGODR77QGIjC0zdyaipimt_fIhgpnPLDDayYYHsDAdIFIhYC4MWWBq2NVqNKEKHvOZGHPhi0E_T8yAXJaAUM
+
+1890269 - Highlight text within the editor in during search codemirror 6
+https://bugzilla.mozilla.org/show_bug.cgi?id=1890269
+
+Resolved bugs (excluding employees): 1851618,1892046,1896527,1898802,1643628,1896878,1899951,1899939,1893013,1880108,1583903,1848705,1900986
+https://bugzilla.mozilla.org/buglist.cgi?title=Resolved%20bugs%20%28excluding%20employees%29&quicksearch=1851618%2C1892046%2C1896527%2C1898802%2C1643628%2C1896878%2C1899951%2C1899939%2C1893013%2C1880108%2C1583903%2C1848705%2C1900986&list_id=17073041
+
+1893013 - Remove browser.firefox-view.search.enabled preference
+https://bugzilla.mozilla.org/show_bug.cgi?id=1893013
+
+Element * | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+Go Wiki: Ubuntu - The Go Programming Language
+https://go.dev/wiki/Ubuntu
+
+How to Fix 'add-apt-repository command not found' on Ubuntu & Debian
+https://phoenixnap.com/kb/add-apt-repository-command-not-found-ubuntu
+
+Configure proxy for APT? - Ask Ubuntu
+https://askubuntu.com/questions/257290/configure-proxy-for-apt
+
+clash ftp 代理 - Google 搜索
+https://www.google.com/search?q=clash+ftp+%E4%BB%A3%E7%90%86&sca_esv=744f17077f1a8fb5&sxsrf=ADLYWIKH6jXzwK_b0qt2CX7SG1Cm8e64yw%3A1721490623939&ei=v9ybZoSDOa6fg8UPraK70AQ&ved=0ahUKEwjE3v6o_LWHAxWuz6ACHS3RDkoQ4dUDCA8&uact=5&oq=clash+ftp+%E4%BB%A3%E7%90%86&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhBjbGFzaCBmdHAg5Luj55CGMgUQIRigATIFECEYoAEyBRAhGKABSMkaUABYmBlwAHgBkAEAmAHQAaABhhWqAQYwLjE1LjG4AQPIAQD4AQGYAg-gAtkUwgIKECMYgAQYJxiKBcICBBAjGCfCAgcQIxgnGIsDwgIKEC4YgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAhQQLhiABBixAxjRAxiDARjHARiKBcICDhAuGIAEGLEDGNEDGMcBwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICEBAAGIAEGLEDGEMYgwEYigXCAg0QLhiABBhDGNQCGIoFwgIKEAAYgAQYQxiKBcICDRAuGIAEGLEDGEMYigXCAgUQABiABMICCBAAGIAEGMsBwgIcEC4YgAQYsQMYQxiKBRiXBRjcBBjeBBjgBNgBAcICCBAuGIAEGMsBwgIIEAAYCBgKGB7CAggQABiABBiiBMICCBAAGKIEGIkFwgIGEAAYCBgewgIIEC4YCBgKGB7CAhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAcICBxAAGIAEGA3CAggQABgIGA0YHpgDALoGBggBEAEYFJIHBjAuMTMuMqAHjI0B&sclient=gws-wiz-serp
+
+Why is apt-get always using proxy, although no proxy is configured? - Ask Ubuntu
+https://askubuntu.com/questions/344802/why-is-apt-get-always-using-proxy-although-no-proxy-is-configured
+
+[Inquiry] Is ppa:longsleep/golang-backports still relevant?! · Issue #174 · polycube-network/polycube
+https://github.com/polycube-network/polycube/issues/174
+
+js-workspace/simple-webpack 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/packages/simple-webpack
+
+(183) #general > Flex column layout - calculating block size - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Flex.20column.20layout.20-.20calculating.20block.20size
+
+Implement the `aspect-ratio` property for replaced elements by valadaptive · Pull Request #32800 · servo/servo
+https://github.com/servo/servo/pull/32800/files
+
+#study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+#general > Does wasmtime support WasmGC? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Does.20wasmtime.20support.20WasmGC.3F
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+查找你的工作区 | Slack
+https://app.slack.com/workspace-signin?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1721493928%26return_to%3D%252Fclient%252FT043VB7PW%252FC3910A78T%26teams%3DT043VB7PW
+
+登录 | Slack
+https://slack.com/signin#/workspaces
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+rkirsling/cclox: A C++ port of clox, the Lox language's bytecode VM (http://www.craftinginterpreters.com/).
+https://github.com/rkirsling/cclox
+
+Free Course: Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course) from Hebrew University of Jerusalem | Class Central
+https://www.classcentral.com/course/nand2tetris2-8025
+
+从第一原理开始构建现代计算机：从 Nand 到俄罗斯方块第二部分（以项目为中心的课程） | Coursera
+https://www.coursera.org/learn/nand2tetris2?irclickid=QyBx3PwG8xyKTOE0YHTVgzuqUkC2y8VWI3u6TY0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=259799&utm_content=b2c
+
+Free Course: Computer Language Engineering (SMA 5502) from Massachusetts Institute of Technology | Class Central
+https://www.classcentral.com/course/mit-ocw-6-035-computer-language-engineering-sma-5502-fall-2005-292229
+
+Search | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/search/?q=Prof.+Martin+Rinard
+
+slackhq repositories
+https://github.com/orgs/slackhq/repositories
+
+The Matrix.org Foundation
+https://github.com/matrix-org
+
 # 2024-7-20
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
