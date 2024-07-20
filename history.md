@@ -1,5 +1,71 @@
 # 2024-7-20
 
+snippets.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea/tree/main
+
+Training on Pete, the baker | Codewars
+https://www.codewars.com/kata/525c65e51bf619685c000059/train/javascript
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+box64/CMakeLists.txt at 46dfaab639b7d2a5af79c288160bfe92b1fd6961 · ptitSeb/box64
+https://github.com/ptitSeb/box64/blob/46dfaab639b7d2a5af79c288160bfe92b1fd6961/CMakeLists.txt#L937-L939
+
+GitHub
+https://github.com/
+
+markdown 删除线 | Markdown 官方教程
+https://markdown.com.cn/extended-syntax/strikethrough.html
+
+vitest-dev/vitest: Next generation testing framework powered by Vite.
+https://github.com/vitest-dev/vitest
+
+webpack - Quasar2 Vue3 Cypress component-index.html - Stack Overflow
+https://stackoverflow.com/questions/73180906/quasar2-vue3-cypress-component-index-html
+
+localhost:9090
+http://localhost:9090/
+
+haishanh/yacd: Yet Another Clash Dashboard
+https://github.com/haishanh/yacd
+
+yacd
+https://yacd.haishan.me/#/proxies
+
+127.0.0.1:9090/providers/proxies
+http://127.0.0.1:9090/providers/proxies
+
+ChatGPT
+https://chatgpt.com/
+
+安装 - 虚空终端 Docs
+https://wiki.metacubex.one/startup/#__tabbed_1_2
+
+Clash
+http://localhost:10010/#/settings
+
+mount | Cypress Documentation
+https://docs.cypress.io/api/commands/mount
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
