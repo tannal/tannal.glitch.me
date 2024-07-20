@@ -1,3 +1,15 @@
+# 2024-7-20 0 | 0 W
+
+
+
+pnpm install -D @rollup/plugin-commonjs @rollup/plugin-json @rollup/plugin-node-resolve @rollup/plugin-typescript rollup rollup-plugin-terser
+
+pnpm install vite express chokidar esbuild rollup
+pnpm install -D vitest @types/express
+
+.\node_modules\.bin\mocha
+
+
 # 2024-7-19 0 | 0 W
 
 export CC=./slimcc

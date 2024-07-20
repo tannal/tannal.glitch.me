@@ -1,5 +1,155 @@
 # 2024-7-20
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+vite/packages/vite/src/node/config.ts at 0cde495ebeb48bcfb5961784a30bfaed997790a0 · vitejs/vite
+https://github.com/vitejs/vite/blob/0cde495ebeb48bcfb5961784a30bfaed997790a0/packages/vite/src/node/config.ts#L997
+
+Code search results
+https://github.com/search?q=repo%3Avitejs%2Fvite%20handleModuleRequest&type=code
+
+Issue search results
+https://github.com/search?q=repo%3Avitejs%2Fvite+startDevServer&type=issues
+
+Obsidian.md
+https://github.com/obsidianmd
+
+SiYuan is a local-first personal knowledge management system | Hacker News
+https://news.ycombinator.com/item?id=31713665
+
+Vanessa219/vditor: ♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+https://github.com/Vanessa219/vditor
+
+Rainbow Cubes
+https://www.shadertoy.com/view/lcsGDB
+
+Issue search results
+https://github.com/search?q=involves%3Ajandem&type=issues
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Training on The Hashtag Generator | Codewars
+https://www.codewars.com/kata/52449b062fb80683ec000024/train/javascript
+
+ROT13 - Wikipedia
+https://en.wikipedia.org/wiki/ROT13
+
+Obsidian github - Google 搜索
+https://www.google.com/search?q=Obsidian+github&sca_esv=11918c48149fd2dd&sxsrf=ADLYWILg6PhxesT7iFXAltzvUuYEYmXSTA%3A1721453026889&ei=4kmbZsD2NcSMnesP-oK-0AY&ved=0ahUKEwjA76ih8LSHAxVERmcHHXqBD2oQ4dUDCA8&uact=5&oq=Obsidian+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD09ic2lkaWFuIGdpdGh1YjIIEAAYgAQYywEyCBAAGIAEGMsBMgUQABiABDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFIngpQOViiCXABeAGQAQCYAa0BoAGvB6oBAzAuNrgBA8gBAPgBAZgCB6AC_AfCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAg4QLhiABBjRAxjHARjLAcICDhAuGIAEGMcBGMsBGK8BmAMAiAYBkAYKkgcDMS42oAePGg&sclient=gws-wiz-serp
+
+(19) Discord | #general | Deno
+https://discord.com/channels/684898665143206084/684898665151594506
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Obsidian%20markdown&sort=byPopularity&type=story
+
+ChatGPT
+https://chatgpt.com/
+
+1999 roman numeral - Google 搜索
+https://www.google.com/search?q=1999+roman+numeral&sca_esv=16fbcf4a6f199547&sxsrf=ADLYWIL0jQ2JYs-QI6Lv0D270EK6K2lwXg%3A1721456544273&ei=oFebZsGxEKiF4-EPlsuE2A4&ved=0ahUKEwjBgcWu_bSHAxWowjgGHZYlAesQ4dUDCA8&uact=5&oq=1999+roman+numeral&gs_lp=Egxnd3Mtd2l6LXNlcnAiEjE5OTkgcm9tYW4gbnVtZXJhbDIIEAAYBxgKGB4yBhAAGAcYHjIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgYQABgeGA8yBhAAGAUYHjIGEAAYBRgeSJoMUIMEWKoIcAJ4AZABAJgBtwGgAcEFqgEDMC40uAEDyAEA-AEBmAIFoALRBMICChAAGLADGNYEGEeYAwCIBgGQBgqSBwMyLjOgB-0N&sclient=gws-wiz-serp
+
+validation - Best way to alphanumeric check in JavaScript - Stack Overflow
+https://stackoverflow.com/questions/4434076/best-way-to-alphanumeric-check-in-javascript
+
+Typescript import without extension - Google 搜索
+https://www.google.com/search?q=Typescript+import+without+extension&sca_esv=d56a811bcd41b17a&sxsrf=ADLYWILxV4sbt8JMxXFtDrIDDNUoFKkJrQ%3A1721462297959&ei=GW6bZs6aOrmb4-EP4Kvc-Ag&oq=tsc+import+without+extension&gs_lp=Egxnd3Mtd2l6LXNlcnAiHHRzYyBpbXBvcnQgd2l0aG91dCBleHRlbnNpb24qAggDMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSI0TUABYAHABeACQAQCYAcwDoAHMA6oBAzQtMbgBA8gBAJgCAaACFpgDAIgGAZAGCpIHATGgB_IG&sclient=gws-wiz-serp
+
+rollup config import alias - Google 搜索
+https://www.google.com/search?q=rollup+config+import+alias&oq=rollup+config+import+alias&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDYzNDBqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+@rollup/plugin-commonjs - npm
+https://www.npmjs.com/package/@rollup/plugin-commonjs
+
+Introduction | Rollup
+https://rollupjs.org/introduction/#publishing-es-modules
+
+Issues · rollup/rollup
+https://github.com/rollup/rollup/issues?q=is%3Aissue+is%3Aopen+exports+is+not+defined
+
+Configuration Options | Rollup
+https://rollupjs.org/configuration-options/#output-format
+
+localhost:8080/node/
+http://localhost:8080/node/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webassembly%20vs%20javascript&sort=byPopularity&type=story
+
+Emulator Performance: WebAssembly vs. JavaScript — 8bitworkshop documentation
+https://8bitworkshop.com/docs/posts/2021/webassembly-vs-javascript-emulator-performance.html
+
+Speed, Speed, Speed: JavaScript vs C++ vs WebAssembly - Franziska Hinkelmann, Google - YouTube
+https://www.youtube.com/watch?v=aC_QLLilwso
+
+Scriptensity
+https://syntensity.blogspot.com/
+
+AssemblyScript
+https://www.assemblyscript.org/
+
+AssemblyScript/assemblyscript: A TypeScript-like language for WebAssembly.
+https://github.com/AssemblyScript/assemblyscript
+
+AssemblyScript/examples: A collection of AssemblyScript examples.
+https://github.com/AssemblyScript/examples
+
+examples/game-of-life/assembly/index.ts at main · AssemblyScript/examples
+https://github.com/AssemblyScript/examples/blob/main/game-of-life/assembly/index.ts
+
+AssemblyScript: A Subset of TypeScript That Compiles to WebAssembly | Hacker News
+https://news.ycombinator.com/item?id=15187961
+
+webassembly dom operation - Google 搜索
+https://www.google.com/search?q=webassembly+dom+operation&oq=webassembly+dom+operation&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDU4MjNqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Show HN: Percy – A Rust and WebAssembly isomorphic virtual DOM implementation | Hacker News
+https://news.ycombinator.com/item?id=17616839
+
+Submissions from github.com/chinedufn | Hacker News
+https://news.ycombinator.com/from?site=github.com/chinedufn
+
+Index of /libm/
+http://localhost:8080/libm/
+
+wasm3/wasm3: 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+https://github.com/wasm3/wasm3
+
+video-editor.webassembly/public/readFrame-lib/readFrameWorker.js at e7cf158dfc79483ec1c0979bb5fe932d78981ef1 · SartreShao/video-editor.webassembly
+https://github.com/SartreShao/video-editor.webassembly/blob/e7cf158dfc79483ec1c0979bb5fe932d78981ef1/public/readFrame-lib/readFrameWorker.js#L61
+
+ishaolizhi.file.hearfresh.cn/neAJ9oRrMnnsWqjNypJRr5UGWrXAR0Qn/1.mp4
+https://ishaolizhi.file.hearfresh.cn/neAJ9oRrMnnsWqjNypJRr5UGWrXAR0Qn/1.mp4
+
+hearfresh.cn
+http://hearfresh.cn/
+
+邵励治 - 知乎
+https://www.zhihu.com/people/shaolizhi11/posts
+
+WebCodecs API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API
+
+libm - Google 搜索
+https://www.google.com/search?q=libm&oq=libm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHNzM4ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ClipChamp - Google 搜索
+https://www.google.com/search?q=ClipChamp&oq=ClipChamp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Microsoft Clipchamp | Hacker News
+https://news.ycombinator.com/item?id=32614571
+
+VidMix.app
+https://vidmix.app/
+
+"WebCodecs" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=WebCodecs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=WebCodecs%20&sort=byPopularity&type=story
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

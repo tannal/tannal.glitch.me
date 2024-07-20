@@ -1,5 +1,8 @@
 # inbox
 
+Frontend Guy
+https://www.zhihu.com/people/shaolizhi11/posts
+
 Software Engineer at Red Hat
 Michael Clayton
 https://github.com/mwcz
