@@ -1,5 +1,11 @@
 # 2024-7-20 0 | 0 W
 
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:longsleep/golang-backports
+sudo apt update
+sudo apt install golang-go
+sudo apt remove golang-go
+
 TAGS="bindata sqlite sqlite_unlock_notify" make build
 
 scp -i C:\Users\tanna\Downloads\first.pem C:\Users\tanna\.config\clash\Country.mmdb  ubuntu@124.223.112.154:/home/ubuntu/.config/mihomo/Country.mmdb
