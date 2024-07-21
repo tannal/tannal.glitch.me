@@ -1,5 +1,22 @@
 # 2024-7-21 0 | 0 W
 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat
+
+choco install llvm
+choco upgrade llvm
+
+cmake -G "Visual Studio 16 2019" -T host=x64 -A x64 -B build -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
+
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_MSVC_RUNTIME_LIBRARY=MultiThreaded -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
+
+
+https://freephonenum.com/us/receive-sms/7077190993
+
+vcpkg search libtorch
+vcpkg search v8
+
+
 https://slack.com/signin#/workspaces
 
 # 2024-7-20 0 | 0 W
