@@ -1,5 +1,7 @@
 # 2024-7-21 0 | 0 W
 
+set PATH=%PATH%;C:\Users\tanna\Downloads\depot_tools\
+
 C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build\vcvarsall.bat
 
 choco install llvm
@@ -7,6 +9,8 @@ choco upgrade llvm
 
 cmake -G "Visual Studio 16 2019" -T host=x64 -A x64 -B build -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
 
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_MSVC_RUNTIME_LIBRARY=MultiThreaded -DCMAKE_TOOLCHAIN_FILE=C:/Users/tanna/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
 

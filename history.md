@@ -3,6 +3,138 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+NewDefaultPlatform - Search
+https://source.chromium.org/search?q=NewDefaultPlatform&sq=&ss=chromium
+
+node/src/api/embed_helpers.cc at d0a6b605fba6cd69a82e6f12ff0363eef8fe1ee9 · nodejs/node
+https://github.com/nodejs/node/blob/d0a6b605fba6cd69a82e6f12ff0363eef8fe1ee9/src/api/embed_helpers.cc#L46
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal/riscv-simulator - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/main
+
+Add libtorch · Issue #5209 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/5209
+
+Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia | Hacker News
+https://news.ycombinator.com/item?id=29682507
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=LLava&sort=byPopularity&type=story
+
+LLaVA
+https://llava-vl.github.io/
+
+trzy/llava-cpp-server: LLaVA server (llama.cpp).
+https://github.com/trzy/llava-cpp-server
+
+Former Intel, Tesla chip exec Jim Keller joins artificial intelligence startup | Reuters
+https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=openai%20ouster&op=translate
+
+Installing C++ Distributions of PyTorch — PyTorch main documentation
+https://pytorch.org/cppdocs/installing.html
+
+Google
+https://www.google.com/
+
+sms接码平台 - Google 搜索
+https://www.google.com/search?q=sms%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0&sca_esv=20c63c9f203edbfd&sxsrf=ADLYWIJi6UZB6niMCYvSHWKqdQiAsInFEQ:1721577845689&ei=dTGdZvPcKeWU0PEP-r2yuA4&start=10&sa=N&sstk=Aagrsug-izNCaEiovSPeLumwzAFruKXRIfiN_qss_OrzIdZ_XPdfXfyqiXVkvm2XZ4PIH5mTYhGXR3-6CXD2Ts6vpK905YOxRyYJ8w&ved=2ahUKEwiz68efwbiHAxVlCjQIHfqeDOcQ8tMDegQIHhAE&biw=1280&bih=559&dpr=1.5
+
+Buy a Virtual Number for Telegram, Temporary Phone Numbers for Verification - SMS-Activate.org
+https://sms-activate.io/en/service/telegram
+
+Textr Team - Free Receive SMS Online UK
+https://textrapp.com/free-tools/free-receive-sms-online-uk-447360251784
+
+Free Receive SMS Online Netherlands
+https://textrapp.com/free-tools/free-receive-sms-online-netherlands-3197010240801
+
+SMS接码平台 - 免费在线收发验证码服务 | Medium
+https://medium.com/@smsbower/%E5%85%A8%E7%90%83%E7%9F%AD%E4%BF%A1%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%E5%A4%A7%E6%8F%AD%E7%A7%98-%E5%85%8D%E8%B4%B9-%E4%BB%98%E8%B4%B9%E6%9C%8D%E5%8A%A1%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD-40f8fc228dd7
+
+telegram接码平台 - Google 搜索
+https://www.google.com/search?q=telegram%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0&sca_esv=20c63c9f203edbfd&sxsrf=ADLYWIJZ4tW0f7A2dontWgquUJiPNfRtnA:1721579077244&ei=RTadZsXKDty90PEP2_q9sAg&start=10&sa=N&sstk=AagrsuhhEPX9ZEsDotKAJANwisAqIX6EPHHTZ4SlsK3TajZADyZxgAzphuwI1C4VDqhkLTDWb16DE75blrx_vKwlRWcWxetFybfnFA&ved=2ahUKEwiFgejqxbiHAxXcHjQIHVt9D4YQ8tMDegQIBhAE&biw=1280&bih=559&dpr=1.5
+
+购买适用于 Telegram 的虚拟号码 - SMS-Activate
+https://sms-activate.io/cn/service/telegram
+
+Receive Hong Kong(+85239154802) SMS Online for FREE - USA, UK, China, Hong Kong, Canada, Australia Temporary Number
+https://www.free-sms-receive.com/message/85239154802.html#google_vignette
+
+tannal/spidernode - spidernode - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/spidernode
+
+Add Chrome V8 port · Issue #372 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/372
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/search?q=v8
+
+riscv-simulator/CMakeLists.txt 位于 main - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/main/CMakeLists.txt
+
+把 libv8_monolith 打成so后 没有V8的符号表 是什么原因呢？ · Issue #8 · kuoruan/libv8
+https://github.com/kuoruan/libv8/issues/8
+
+[libuv] Build error on CentOS 7 · Issue #34773 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/34773
+
+noda/main.cc 位于 main - noda - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/noda/src/branch/main/main.cc
+
+Login - ChatGPT
+https://auth.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=28ccd51f-a817-4960-a1f3-7817e412cbf8&prompt=login&screen_hint=login&ext-statsig-tier=production&ext-oai-did=28ccd51f-a817-4960-a1f3-7817e412cbf8&flow=control&state=cQWIfynijeaKjRITeLT_7-vIL15Bb3d4-bbX_clBEos&code_challenge=uMmOqfZtR6NKBMvk6m8VFej0c8v3SDcXBjqGtQ1vBEU&code_challenge_method=S256
+
+cmake build static release windows - Google 搜索
+https://www.google.com/search?q=cmake+build+static+release+windows&oq=cmake+build+static+release+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDczMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+'MT_StaticRelease' doesn't match value 'MD_DynamicRelease' - Usage - CMake Discourse
+https://discourse.cmake.org/t/mt-staticrelease-doesnt-match-value-md-dynamicrelease/5428
+
+Compile with /MT instead of /MD using CMake - Stack Overflow
+https://stackoverflow.com/questions/14172856/compile-with-mt-instead-of-md-using-cmake
+
+CMAKE_MSVC_RUNTIME_LIBRARY — CMake 3.30.1 Documentation
+https://cmake.org/cmake/help/latest/variable/CMAKE_MSVC_RUNTIME_LIBRARY.html
+
+CLANG_~1: error: no such file or directory: '/MT' - Google 搜索
+https://www.google.com/search?q=CLANG_~1%3A+error%3A+no+such+file+or+directory%3A+%27%2FMT%27&oq=CLANG_~1%3A+error%3A+no+such+file+or+directory%3A+%27%2FMT%27&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Chocolatey Software | LLVM 18.1.8
+https://community.chocolatey.org/packages/llvm
+
+clang: error: no such file or directory: '/MT' · Issue #2 · subatomicglue/cross-compile-macosx-clang-windows-msvc
+https://github.com/subatomicglue/cross-compile-macosx-clang-windows-msvc/issues/2
+
+VCVARSALL.BAT for Visual studio 2019 - Stack Overflow
+https://stackoverflow.com/questions/55097222/vcvarsall-bat-for-visual-studio-2019
+
+libv8_monolith.lib - Google 搜索
+https://www.google.com/search?q=libv8_monolith.lib&sca_esv=5b98f86993edd4ca&sxsrf=ADLYWII4CNtQGWRXlJVMQ4u0A7b_8dvgxg%3A1721587727391&ei=D1idZsTKF5-d0PEPrvKq8AQ&ved=0ahUKEwiEjsOH5riHAxWfDjQIHS65Ck4Q4dUDCA8&uact=5&oq=libv8_monolith.lib&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmxpYnY4X21vbm9saXRoLmxpYjIJEAAYgAQYExgNMgkQABiABBgTGA1ItwpQqgVYuwlwAXgBkAEAmAG-AqAB0wSqAQUyLTEuMbgBA8gBAPgBAZgCA6AC6ATCAgoQABiwAxjWBBhHwgIIEAAYgAQYywGYAwCIBgGQBgGSBwcxLjAuMS4xoAe3Aw&sclient=gws-wiz-serp
+
+samples/hello-world.cc - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/branch-heads/4.8/samples/hello-world.cc
+
+pdb文件 dll - Google 搜索
+https://www.google.com/search?q=pdb%E6%96%87%E4%BB%B6+dll&sca_esv=5b98f86993edd4ca&sxsrf=ADLYWIKrmk-Km_GFoIhAwfJcKQu28I1Qgw%3A1721588401121&ei=sVqdZpaPB--r0PEP056cuAk&ved=0ahUKEwjWq-TI6LiHAxXvFTQIHVMPB5cQ4dUDCA8&uact=5&oq=pdb%E6%96%87%E4%BB%B6+dll&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXBkYuaWh-S7tiBkbGwyBxAAGIAEGAwyBxAAGIAEGAxIpw9QowZYjA5wAXgBkAEAmAH2AqABtgWqAQMzLTK4AQPIAQD4AQGYAgOgAsoFwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMy0yoAeLBA&sclient=gws-wiz-serp
+
+Undefined reference to v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/Jb1VSouy2Z0
+
+Chromium Docs - Checking out and Building Chromium for Windows
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/windows_build_instructions.md#Setting-up-the-build
+
+command line - Adding a directory to the PATH environment variable in Windows - Stack Overflow
+https://stackoverflow.com/questions/9546324/adding-a-directory-to-the-path-environment-variable-in-windows
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 https://groups.google.com/a/mozilla.org/g/firefox-dev
 https://www.google.com/sorry/index?continue=https://groups.google.com/a/mozilla.org/g/firefox-dev&q=EhAkAIkBAAAAAPA8lP_-ZRjMGODR77QGIjC0zdyaipimt_fIhgpnPLDDayYYHsDAdIFIhYC4MWWBq2NVqNKEKHvOZGHPhi0E_T8yAXJaAUM
 
