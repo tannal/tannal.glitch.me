@@ -58,6 +58,8 @@ out/Default/blink_unittests --test-launcher-print-test-stdio='always' --gtest_fi
 
 # setup
 
+set DEPOT_TOOLS_WIN_TOOLCHAIN=0
+
 ```bash
 
 export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH

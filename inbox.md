@@ -1,3 +1,21 @@
+# 2024-7-22 0 | 0 W
+
+$env:Path += ';C:\Users\tanna\Downloads\depot_tools\'  
+$env:https_proxy='http://192.168.43.1:7890'
+
+function mklink ($target, $link) {
+    New-Item -Path $link -ItemType SymbolicLink -Value $target
+}
+
+mklink python3.exe python3.exe
+
+setx python3 "C:\Python11\python.exe" /m
+set python3="C:\Python11\python.exe"
+set python3="C:\Python11\python.exe"
+
+
+set https_proxy=http://192.168.43.1:7890
+
 # 2024-7-21 0 | 0 W
 
 set PATH=%PATH%;C:\Users\tanna\Downloads\depot_tools\
