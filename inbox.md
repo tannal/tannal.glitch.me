@@ -1,5 +1,15 @@
 # 2024-7-22 0 | 0 W
 
+$env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
+
+pnpm init
+pnpm install --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin css-loader style-loader file-loader @babel/core @babel/preset-env babel-loader
+pnpm install yjs y-websocket y-indexeddb quill quill-cursors
+
+export MOZCONFIG=./debug
+$env:MOZCONFIG=./debug
+set MOZCONFIG=./debug
+
 https://ftp.mozilla.org/pub/firefox/releases/128.0/source/
 
 $env:Path += ';C:\Users\tanna\Downloads\depot_tools\'  
