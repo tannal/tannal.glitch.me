@@ -1,5 +1,7 @@
 # 2024-7-22 0 | 0 W
 
+https://ftp.mozilla.org/pub/firefox/releases/128.0/source/
+
 $env:Path += ';C:\Users\tanna\Downloads\depot_tools\'  
 $env:https_proxy='http://192.168.43.1:7890'
 

@@ -1,3 +1,71 @@
+# 2024-7-22
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Chromium Docs - Checking out and Building Chromium for Windows
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/windows_build_instructions.md#Visual-Studio
+
+Command: C:/Users/tanna/AppData/Local/Microsoft/WindowsApps/python3.exe C:/Users/tanna/oss/chromium/src/tools/rust/update_rust.py --print-package-version Returned 9009 - Google 搜索
+https://www.google.com/search?q=Command%3A+C%3A%2FUsers%2Ftanna%2FAppData%2FLocal%2FMicrosoft%2FWindowsApps%2Fpython3.exe+C%3A%2FUsers%2Ftanna%2Foss%2Fchromium%2Fsrc%2Ftools%2Frust%2Fupdate_rust.py+--print-package-version+Returned+9009&oq=Command%3A+C%3A%2FUsers%2Ftanna%2FAppData%2FLocal%2FMicrosoft%2FWindowsApps%2Fpython3.exe+C%3A%2FUsers%2Ftanna%2Foss%2Fchromium%2Fsrc%2Ftools%2Frust%2Fupdate_rust.py+--print-package-version+Returned+9009&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMzUwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+python - 'python3' is not recognized as an internal or external command, operable program or batch file - Stack Overflow
+https://stackoverflow.com/questions/39910730/python3-is-not-recognized-as-an-internal-or-external-command-operable-program
+
+搜索会话
+https://groups.google.com/search/conversations?q=depot_tools%20windows%20python3
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+stable diffusion paper - Google 搜索
+https://www.google.com/search?q=stable+diffusion+paper&oq=stable+diffusion+paper&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIMCAcQABhDGIAEGIoFMgcICBAAGIAEMgwICRAAGEMYgAQYigXSAQgzMzc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Unable to setup V8 build locally (//build/dotfile_settings.gni)
+https://groups.google.com/g/v8-users/c/gxkwSRfY8lM
+
+Git - git-worktree Documentation
+https://git-scm.com/docs/git-worktree
+
+Setting Windows PowerShell environment variables - Stack Overflow
+https://stackoverflow.com/questions/714877/setting-windows-powershell-environment-variables
+
+tannal/spidernode - spidernode - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/spidernode
+
+spidernode/Building SpiderMonkey.md 位于 esr115 - spidernode - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/spidernode/src/branch/esr115/docs/Building%20SpiderMonkey.md
+
+Directory Listing: /pub/firefox/releases/128.0/
+https://ftp.mozilla.org/pub/firefox/releases/128.0/
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Berkeley Artificial Intelligence Research Lab
+https://bair.berkeley.edu/
+
+Allen Institute for AI
+https://allenai.org/
+
+AI2
+https://github.com/allenai
+
+Mila
+https://github.com/mila-iqia
+
+Google DeepMind (301 Moved Permanently)
+https://github.com/deepmind
+
+International Business Machines
+https://github.com/IBM/
+
+Stanford Vision and Learning Lab
+https://github.com/StanfordVL
+
+symlink - Creating hard and soft links using PowerShell - Stack Overflow
+https://stackoverflow.com/questions/894430/creating-hard-and-soft-links-using-powershell
+
 # 2024-7-21
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
