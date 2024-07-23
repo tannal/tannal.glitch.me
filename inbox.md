@@ -1,6 +1,18 @@
 # 2024-7-23 0 | 0 W
 
+同时按下键盘上的“Ctrl + Shift + F”组合键即可切换简体/繁体中文。
 
+$env:NODE_OPTIONS="$NODE_OPTIONS --experimental-vm-modules"
+
+pnpm --filter @elephantd/core run build
+
+pnpm --filter @elephantd/core add @emotion/css
+pnpm --filter @elephantd/core add -D @types/react @vitejs/plugin-react vite typescript
+
+pnpm i @emotion/css @emotion/react @emotion/styled react react-dom vue svelte 
+
+
+pnpm i -D @vitejs/plugin-react @vitejs/plugin-vue @sveltejs/vite-plugin-svelte @types/react @types/react-dom jest @types/jest ts-jest @testing-library/react @testing-library/jest-dom cypress @storybook/react @storybook/vue3 @storybook/svelte @storybook/addon-essentials vitepress eslint prettier husky lint-staged typescript vite
 
 # 2024-7-22 0 | 0 W
 
