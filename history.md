@@ -1,3 +1,101 @@
+# 2024-7-23
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+spidermonkey windows - Google 搜索
+https://www.google.com/search?q=spidermonkey+windows&oq=spidermonkey+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDczODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+visual studio - How to build SpiderMonkey under Windows? - Stack Overflow
+https://stackoverflow.com/questions/56008306/how-to-build-spidermonkey-under-windows
+
+Building SpiderMonkey for Windows - SpiderMonkey - Mozilla Discourse
+https://discourse.mozilla.org/t/building-spidermonkey-for-windows/84060
+
+Building and testing SpiderMonkey — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/js/build.html
+
+README.html - mozsearch
+https://searchfox.org/mozilla-central/source/js/src/README.html
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Yjs demo · Issue #64 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/64
+
+yjs-demos/quill at 5056886c69e8628df0747e83a1a6689cf1b9ad38 · yjs/yjs-demos
+https://github.com/yjs/yjs-demos/tree/5056886c69e8628df0747e83a1a6689cf1b9ad38/quill
+
+webpack-dev-server/migration-v5.md at master · webpack/webpack-dev-server
+https://github.com/webpack/webpack-dev-server/blob/master/migration-v5.md
+
+ChatGGG
+http://localhost:3001/
+
+ChatGGG
+http://localhost:3002/
+
+ChatGGG
+http://localhost:8081/
+
+gclient sync fails on Windows build env with trying to use non-existent file "C:\usr\bin\python2.7"(not even C:\usr\bin\python2.7.exe).
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/w5Iuyg4d2X8
+
+Could not find gn executable (gn.exe)
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/CNegIY4Rnd4/m/HAyufw5TAwAJ?utm_medium=email&utm_source=footer
+
+Windows SDK - Windows app development | Microsoft Developer
+https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/
+
+Building v8 shared library on windows
+https://groups.google.com/g/v8-users/c/mmwWxpb64_I
+
+Undefined reference to v8::platform::NewDefaultPlatform
+https://groups.google.com/g/v8-users/c/Jb1VSouy2Z0
+
+Windows SDK - Windows app development | Microsoft Developer
+https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/#system-requirements
+
+windows sdk "v8" include - Google 搜索
+https://www.google.com/search?q=windows+sdk+%22v8%22+include&sca_esv=3b07b09e3325eaa7&sxsrf=ADLYWILnY6YWgB0HvGkJaT5B1uyEwUUxSw%3A1721630332417&ei=fP6dZtyaGaKckPIP9pe9gA8&ved=0ahUKEwjcyJfjhLqHAxUiDkQIHfZLD_AQ4dUDCA8&uact=5&oq=windows+sdk+%22v8%22+include&gs_lp=Egxnd3Mtd2l6LXNlcnAiGHdpbmRvd3Mgc2RrICJ2OCIgaW5jbHVkZTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESK4jUPUQWO0hcAF4AZABAJgB8QKgAe8HqgEDMy0zuAEDyAEA-AEBmAIEoAKbCMICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjMtM6AHpwU&sclient=gws-wiz-serp
+
+build v8 windows windowsdk - Google 搜索
+https://www.google.com/search?q=build+v8+windows+windowsdk&oq=build+v8+windows+windowsdk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKAB0gEINzk3OWoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+10.0.22621.0 - Google 搜索
+https://www.google.com/search?q=10.0.22621.0&oq=10.0.22621.0&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEHMjQwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+How do I tell CMake to link in a static library in the source directory? - Stack Overflow
+https://stackoverflow.com/questions/14077611/how-do-i-tell-cmake-to-link-in-a-static-library-in-the-source-directory
+
+billti (Bill Ticehurst)
+https://github.com/billti
+
+Bulid issue · Issue #14 · brendan-duncan/webgpu_inspector
+https://github.com/brendan-duncan/webgpu_inspector
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGGG
+http://192.168.43.1:8080/
+
 # 2024-7-22
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

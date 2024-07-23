@@ -1,5 +1,20 @@
+# 2024-7-23 0 | 0 W
+
+
+
 # 2024-7-22 0 | 0 W
 
+use_custom_libcxx_for_host = true
+
+python tools\dev\v8gen.py -b x64.release msvc -- is_clang=false is_component_build=true
+ninja -C out.gn/msvc
+
+python3 ./tools/dev/gm.py x64.release
+
+gn gen out/x64.release --args='is_component_build = true is_debug = true symbol_level = 2 target_cpu = "x64" is_clang = false v8_enable_sandbox = true'
+
+$env:INCLUDE="C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared"
+$env:INCLUDE="C:\Program Files (x86)\Windows Kits\10\Include\"
 $env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
 
 pnpm init
