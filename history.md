@@ -1,5 +1,113 @@
 # 2024-7-24
 
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+winapifamily.h”: No such file or directory - Google 搜索
+https://www.google.com/search?q=winapifamily.h%E2%80%9D%3A+No+such+file+or+directory&sca_esv=3b07b09e3325eaa7&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJ_ujnLkRyPQx52NEysuDxeObfRKw%3A1721631040210&ei=QAGeZpLIDIyfkPIPwLSagAk&ved=0ahUKEwiS6Ne0h7qHAxWMD0QIHUCaBpAQ4dUDCBA&uact=5&oq=winapifamily.h%E2%80%9D%3A+No+such+file+or+directory&gs_lp=Egxnd3Mtd2l6LXNlcnAiLHdpbmFwaWZhbWlseS5o4oCdOiBObyBzdWNoIGZpbGUgb3IgZGlyZWN0b3J5MgcQIxiwAxgnMgkQABiwAxgHGB4yCRAAGLADGAcYHjIHEAAYsAMYHjILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIESDxQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAaACDJgDAIgGAZAGBpIHATGgBwA&sclient=gws-wiz-serp
+
+javascript - react-testing-library why is toBeInTheDocument() not a function - Stack Overflow
+https://stackoverflow.com/questions/56547215/react-testing-library-why-is-tobeinthedocument-not-a-function
+
+国家开发银行助学贷款学生在线系统
+https://sls.cdb.com.cn/#/login
+
+大模型算法实习生（质量智能方向）-质量技术 - 字节跳动
+https://jobs.bytedance.com/campus/position/7388140089370577162/detail?recomId=35336acc-464a-11ef-b34b-fa163e11e7f3&sourceJobId=7363236120795384073
+
+The best Rollup config for TypeScript libraries
+https://gist.github.com/aleclarson/9900ed2a9a3119d865286b218e14d226
+
+monorepo rollup typescript - Google 搜索
+https://www.google.com/search?q=monorepo+rollup+typescript&sca_esv=6bd45db164d8933b&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKPBBcaMwlwH9FglfpW23bRjrBj-A%3A1721790227012&ei=E2-gZqQ5qoPQ8Q_SgJiQBg&oq=monorepo+rollup+typ&gs_lp=Egxnd3Mtd2l6LXNlcnAiE21vbm9yZXBvIHJvbGx1cCB0eXAqAggAMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNoMUOQCWJIEcAB4AZABAJgBjwSgAacJqgEHMy0yLjAuMbgBA8gBAPgBAZgCA6ACtgmYAwCSBwUzLTIuMaAHrgU&sclient=gws-wiz-serp
+
+Extreme heat hits countries around the world - BBC News
+https://www.bbc.co.uk/news/articles/cjeexy2x3xro
+
+AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL
+https://www.autodl.com/home
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzgyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+中国大陆失业率 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%A4%B1%E4%B8%9A%E7%8E%87#2024%E5%B9%B4
+
+三中全会 - Google 搜索
+https://www.google.com/search?q=%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A&sca_esv=c50aef8422a1bcf8&rlz=1C1GCEA_enCN1091CN1091&tbm=nws&sxsrf=ADLYWIKw1GE96c7ckPwoNnMaXUdvY9w98Q:1721793549895&ei=DXygZs-tNpfx0PEPuf-ymAg&start=10&sa=N&ved=2ahUKEwiP6Kvn5L6HAxWXODQIHbm_DIMQ8tMDegQIARAE&biw=1280&bih=593&dpr=1.5
+
+习近平 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%B9%A0%E8%BF%91%E5%B9%B3#%E7%AC%AC%E4%B8%89%E4%BB%BB%E6%9C%9F%EF%BC%882022%E5%B9%B4%E8%87%B3%E4%BB%8A%EF%BC%89
+
+巴西人民币结算 - Google 搜索
+https://www.google.com/search?q=%E5%B7%B4%E8%A5%BF%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BB%93%E7%AE%97&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%B7%B4%E8%A5%BF%E4%BA%BA%E6%B0%91%E5%B8%81&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIKCAMQABiABBiiBNIBCDYzODdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1
+
+了解目的地
+http://cs.mfa.gov.cn/zggmcg/ljmdd/
+
+日本
+http://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/rb_647322/
+
+微信文件传输助手网页版
+https://filehelper.weixin.qq.com/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Home
+https://sagiriwiki.web.app/
+
+斷舍離篇：毫無阻礙的生活狀態
+https://sagiriwiki.web.app/posts/0%20meta/3%20minimalism.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=flutter%20layoff&sort=byPopularity&type=story
+
+就业 - Google 搜索
+https://www.google.com/search?q=%E5%B0%B1%E4%B8%9A&sca_esv=9febd01248fd600c&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJ1Sf71hajuzfl8iHAXMMYVve0rwg%3A1721797937847&ei=MY2gZu-5M9PLkPIP756DiA0&ved=0ahUKEwivlteT9b6HAxXTJUQIHW_PANEQ4dUDCBA&uact=5&oq=%E5%B0%B1%E4%B8%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiBuWwseS4mjIIEAAYgAQYywEyEBAuGIAEGNEDGMcBGAoYywEyChAuGIAEGAoYywEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESKoWUMgCWL8VcAV4AZABAJgBzgKgAawMqgEDMy01uAEDyAEA-AEBmAIKoAK6DagCCsICChAAGLADGNYEGEfCAgoQLhiABBgnGIoFwgIEECMYJ8ICBRAuGIAEwgILEC4YgAQY0QMYxwHCAhcQLhiABBiKBRiXBRjcBBjeBBjgBNgBAcICBxAjGCcY6gLCAhQQLhiABBiXBRjcBBjeBBjgBNgBAZgDBogGAZAGCroGBggBEAEYFJIHBTUuMy01oAf2Rw&sclient=gws-wiz-serp
+
+衡阳市人社部 - Google 搜索
+https://www.google.com/search?q=%E8%A1%A1%E9%98%B3%E5%B8%82%E4%BA%BA%E7%A4%BE%E9%83%A8&sca_esv=9febd01248fd600c&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJXIujtsqg2tbwEtXyN6msgMMj98g%3A1721798084326&ei=xI2gZpLRE5jEkPIPu-iRmAQ&ved=0ahUKEwiSw8PZ9b6HAxUYIkQIHTt0BEMQ4dUDCBA&uact=5&oq=%E8%A1%A1%E9%98%B3%E5%B8%82%E4%BA%BA%E7%A4%BE%E9%83%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuihoemYs-W4guS6uuekvumDqDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogRIxxJQOFi_EXABeAGQAQGYAYgHoAH3HKoBCTMtMi4xLjMuMbgBA8gBAPgBAZgCA6ACtwfCAgoQABiwAxjWBBhHwgIFEAAYgASYAwCIBgGQBgKSBwcxLjMtMS4xoAe4Dg&sclient=gws-wiz-serp
+
+内推 - 话题 - 牛客网
+https://www.nowcoder.com/creation/subject/cf8c68e5a0ae45da835c0291f459468a
+
+一点亏都吃不得的人是怎样的人？ - 喜马拉雅手机版
+https://m.ximalaya.com/ask/q10248078
+
+一点亏都吃不得的人 - Google 搜索
+https://www.google.com/search?q=%E4%B8%80%E7%82%B9%E4%BA%8F%E9%83%BD%E5%90%83%E4%B8%8D%E5%BE%97%E7%9A%84%E4%BA%BA&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%80%E7%82%B9%E4%BA%8F%E9%83%BD%E5%90%83%E4%B8%8D%E5%BE%97%E7%9A%84%E4%BA%BA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMzQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+约书亚·布洛克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%B4%84%E6%9B%B8%E4%BA%9E%C2%B7%E5%B8%83%E6%B4%9B%E5%85%8B#cite_note-6
+
+The i-Technology Right Stuff @ JAVA DEVELOPER'S JOURNAL
+https://web.archive.org/web/20080422055421/http://java.sys-con.com/read/47349.htm
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=joshua%20bloch&sort=byPopularity&type=story
+
+Garbage's comments | Hacker News
+https://news.ycombinator.com/threads?id=Garbage
+
+“没苦硬吃，没活硬干，没病硬想，有病硬挺”被家长硬控的一生_表妹_广州_同事
+https://www.sohu.com/a/790628554_652852
+
+没苦硬吃 - Google 搜索
+https://www.google.com/search?q=%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B2%A1%E8%8B%A6%E7%A1%AC%E5%90%83&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#ip=1
+
+(10) Facebook
+https://www.facebook.com/ccckmit
+
+Llama 3.1
+https://llama.meta.com/?fbclid=IwZXh0bgNhZW0CMTAAAR2b7SeQgHLyEXxAXwusNDQp5ap9sMluZslqabjMQ8HsVwNSd4sm8_cDQ-s_aem_3py5qdU7XFXfQikoEn-7qA
+
+Meta AI
+https://www.meta.ai/
+
+llama3.1-405B leaked at 3am the day before on 4chan | Hacker News
+https://news.ycombinator.com/item?id=41032381
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
