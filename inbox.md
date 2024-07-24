@@ -1,7 +1,8 @@
 # 2024-7-24 0 | 0 W
 
-$env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
+数据、训练、评测、推理部署
 
+$env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
 
 pnpm install --save-dev rollup @rollup/plugin-typescript @rollup/plugin-node-resolve @rollup/plugin-commonjs typescript tslib jest ts-jest @types/jest
 
