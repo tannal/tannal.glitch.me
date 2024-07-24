@@ -1,5 +1,44 @@
 # 2024-7-24
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+登录 Facebook
+https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Foidc%2F%3Fapp_id%3D1358015658191005%26scope%3Dopenid%2Blinking%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.meta.ai%252Fauth%252F%26no_universal_links%3D1%26deoia%3D1%26state%3DATCv8GYkMSnldrgE1t2JFrvlPHg2OiIOZTjIedN273pThlmLpRnrxLSOj0hW8RXywK5eRuWCW778VOTeK8yf0nwgzHp_2A23DvxKk7blX52eJJlCUi5KQlo1OHvFTRg-OGJh9wmOjdM8TVjXRI5Cztj0FpBw5JGEd-C_zHbMvd7F4lTiyJJracNDRj4Izw1p6Lq-v5XuvmYxxSNDdSNncPvzc83XyreeaHo2u64GhSVoG-Erjw
+
+Code search results
+https://github.com/search?q=repo%3Agolang%2Fgo%20stack&type=code
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+有些人说话很抽象 - Google 搜索
+https://www.google.com/search?q=%E6%9C%89%E4%BA%9B%E4%BA%BA%E8%AF%B4%E8%AF%9D%E5%BE%88%E6%8A%BD%E8%B1%A1&sca_esv=67ae216d535b24f9&sxsrf=ADLYWIIqigKv-7xvudSKGfW0yiJnmPfCJw%3A1721794746688&ei=uoCgZufXKY_7kPIPy5myuA0&ved=0ahUKEwjnnIKi6b6HAxWPPUQIHcuMDNcQ4dUDCA8&uact=5&oq=%E6%9C%89%E4%BA%9B%E4%BA%BA%E8%AF%B4%E8%AF%9D%E5%BE%88%E6%8A%BD%E8%B1%A1&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhjmnInkupvkurror7Tor53lvojmir3osaEyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEi_d1D2RFiFdnACeAGQAQCYAc8EoAHRNqoBCjItNC4xNS4xLjG4AQPIAQD4AQGYAhagApo1wgIKEAAYsAMY1gQYR8ICFhAjGIAEGKYDGCcY-AUYqAMYigUYiwPCAhMQIxiABBimAxgnGKgDGIoFGIsDwgIKECMYgAQYJxiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgUQLhiABMICCBAuGIAEGNQCwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgcQLhiABBgMwgIHEAAYgAQYDJgDAIgGAZAGCroGBggBEAEYFJIHCjIuMC4zLjE1LjKgB-Jg&sclient=gws-wiz-serp
+
+前言：在当代我们还需要哲学吗？ — 岳耀的主页，第1版
+https://yueyao1982.com/reconstr_phil/preface.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Training on Convert string to camel case | Codewars
+https://www.codewars.com/kata/517abf86da9663f1d2000003/train/cpp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+There's been a glitch… | Slack
+https://oauth2.slack.com/workspace-signin/oauth/google/end?state=%7B%22provider%22%3A%22google%22%2C%22origin%22%3A%22workspace-signin%22%2C%22timestamp%22%3A1721797353%2C%22visitor%22%3A%22.549f610c72d54eb6db110cf72ae72f4a%22%2C%22team%22%3A%22T029RQSE6%22%2C%22extra%22%3A%7B%22params%22%3A%7B%22redir%22%3A%22%5C%2Fteam%22%7D%7D%7D%7C82909ed263183fe4b31c3ff8dc8da01250365eee3fb0c1921f92d4c94fd1471e&code=4%2F0AcvDMrCnCb09tf7sC8YVXHBgTTLwX5a4IaJ_wFpB4HfEehJusnCOETNWbgPE2GrXqvb9yA&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/?type=recommend
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 nvim definition - Poe
 https://poe.com/chat/el9zj0stabkc73t57
 
