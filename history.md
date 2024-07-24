@@ -3,6 +3,42 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+强迫型人格障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BC%BA%E8%BF%AB%E5%9E%8B%E4%BA%BA%E6%A0%BC%E9%9A%9C%E7%A2%8D
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=bbda2a020c4763aa&sxsrf=ADLYWIK_clyTwFTZbeCxHRQxe4Qwd2vt0w%3A1721815335414&ei=J9GgZoaBGfS_0PEP0KiPgAw&ved=0ahUKEwjGsL77tb-HAxX0HzQIHVDUA8AQ4dUDCA8&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIHECMYsAMYJzIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ieBFAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAITmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+Training on RGB To Hex Conversion | Codewars
+https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+localhost:8888/api/coupons/2
+http://localhost:8888/api/coupons/2
+
+逆行人生 - Google 搜索
+https://www.google.com/search?q=%E9%80%86%E8%A1%8C%E4%BA%BA%E7%94%9F&oq=%E9%80%86%E8%A1%8C%E4%BA%BA%E7%94%9F&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDgwMTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+一句“裁员广进”，揭开了多少互联网大厂的遮羞布 - 掘金
+https://juejin.cn/post/7324600741375574050
+
+京东云
+https://www.jdcloud.com/
+
+京东云控制台
+https://lavm-console.jdcloud.com/lavm/list
+
+京东云
+https://www.jdcloud.com/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 登录 Facebook
 https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Foidc%2F%3Fapp_id%3D1358015658191005%26scope%3Dopenid%2Blinking%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.meta.ai%252Fauth%252F%26no_universal_links%3D1%26deoia%3D1%26state%3DATCv8GYkMSnldrgE1t2JFrvlPHg2OiIOZTjIedN273pThlmLpRnrxLSOj0hW8RXywK5eRuWCW778VOTeK8yf0nwgzHp_2A23DvxKk7blX52eJJlCUi5KQlo1OHvFTRg-OGJh9wmOjdM8TVjXRI5Cztj0FpBw5JGEd-C_zHbMvd7F4lTiyJJracNDRj4Izw1p6Lq-v5XuvmYxxSNDdSNncPvzc83XyreeaHo2u64GhSVoG-Erjw
 

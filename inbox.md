@@ -1,5 +1,7 @@
 # 2024-7-24 0 | 0 W
 
+redis-cli
+
 https://yueyao1982.com/
 
 http://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/rb_647322/
