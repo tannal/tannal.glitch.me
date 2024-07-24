@@ -1,4 +1,18 @@
+# 2024-7-24 0 | 0 W
+
+$env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
+
+
+pnpm install --save-dev rollup @rollup/plugin-typescript @rollup/plugin-node-resolve @rollup/plugin-commonjs typescript tslib jest ts-jest @types/jest
+
+$env:Path += ';C:\Users\tanna\tannalwork\projects\prebuild\windows\d8\' 
+
+
+
 # 2024-7-23 0 | 0 W
+
+python3 ./tools/dev/gm.py x64.debug --args="is_component_build=false"
+
 
 同时按下键盘上的“Ctrl + Shift + F”组合键即可切换简体/繁体中文。
 

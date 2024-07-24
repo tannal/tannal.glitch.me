@@ -1,3 +1,227 @@
+# 2024-7-24
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Vanessa219/vditor: ♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+https://github.com/Vanessa219/vditor
+
+function-apply.js - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/test/mjsunit/maglev/function-apply.js?q=OptimizeMaglevOnNextCall&ss=chromium&start=41
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Vite + React + TS
+http://localhost:5173/
+
+github - Git - "<directory> does not have a commit checked out" even after deleting the .git inside that directory. Cant get rid of inner git repo - Stack Overflow
+https://stackoverflow.com/questions/67314263/git-directory-does-not-have-a-commit-checked-out-even-after-deleting-the
+
+emotion npm - Google 搜索
+https://www.google.com/search?q=emotion+npm&oq=emotion+npm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+pnpm workspace use root version - Google 搜索
+https://www.google.com/search?q=pnpm+workspace+use+root+version&sca_esv=b2c38071ce043d54&sxsrf=ADLYWIK_IpfQ4cm8vZA9C53OfZEkJdNszw%3A1721743808195&ei=wLmfZs7KC8aDm9cPm9mT6AY&ved=0ahUKEwjOqtPAq72HAxXGweYEHZvsBG0Q4dUDCA8&uact=5&oq=pnpm+workspace+use+root+version&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3BucG0gd29ya3NwYWNlIHVzZSByb290IHZlcnNpb25I1hBQgwZYjRBwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+VitePress | Vite & Vue Powered Static Site Generator
+https://vitepress.dev/
+
+cross-env - npm
+https://www.npmjs.com/package/cross-env
+
+Google
+https://www.google.com/
+
+两元店
+https://liangyuandian.xyz/#/order
+
+tannal/prebuild - prebuild - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/prebuild/src/branch/main
+
+tannal/build at main
+https://huggingface.co/tannal/build/tree/main
+
+微軟輸入法 簡體 繁體 - Google 搜索
+https://www.google.com/search?q=%E5%BE%AE%E8%BB%9F%E8%BC%B8%E5%85%A5%E6%B3%95+%E7%B0%A1%E9%AB%94+%E7%B9%81%E9%AB%94&oq=%E5%BE%AE%E8%BB%9F%E8%BC%B8%E5%85%A5%E6%B3%95+%E7%B0%A1%E9%AB%94+%E7%B9%81%E9%AB%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDk1MDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/
+
+joe biden is dead - Google 搜索
+https://www.google.com/search?q=joe+biden+is+dead&sca_esv=9aab8662baee94c4&sxsrf=ADLYWII_ifZJ4-GDYAdhAhvK-hrZqLrrbw%3A1721780568991&ei=WEmgZsuRPIWBm9cPybmgkAc&ved=0ahUKEwjLnci5tL6HAxWFwOYEHckcCHIQ4dUDCA8&uact=5&oq=joe+biden+is+dead&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWpvZSBiaWRlbiBpcyBkZWFkSKsVUKMIWMQUcAF4AZABAJgB3QKgAbUOqgEFMi0yLjS4AQPIAQD4AQGYAgKgAuQCwgIKEAAYsAMY1gQYR8ICDxAAGIAEGEMYigUYRhj7AcICBRAAGIAEwgIKEAAYgAQYQxiKBcICCBAAGIAEGMcDwgIbEAAYgAQYQxiKBRhGGPsBGJcFGIwFGN0E2AEBmAMAiAYBkAYKugYGCAEQARgTkgcFMS4zLTGgB4kH&sclient=gws-wiz-serp
+
+linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper
+
+GPU-friendly Stroke Expansion
+https://linebender.org/gpu-stroke-expansion-paper/
+
+GitHub
+https://github.com/
+
+#study-group > Class 1 Slide Questions - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/Class.201.20Slide.20Questions
+
+Vrroom/mit-ocw-6837: My assignment solutions for Computer Graphics course on MIT OCW
+https://github.com/Vrroom/mit-ocw-6837
+
+2D Computer Graphics
+https://w3.impa.br/~diego/teaching/2021.0/slides-1.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=linebender&sort=byPopularity&type=story
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+国家开发银行
+https://zzzx.bjtu.edu.cn/docs/20130416172940379479.pdf
+
+国家助学贷款还款救助机制可代偿应还本息
+https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6982611376103039896&toc_style_id=feeds_default&module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D6982611376103039896%2526toc_style_id%253Dfeeds_default
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+quill - Google 搜索
+https://www.google.com/search?q=quill&sca_esv=9aab8662baee94c4&sxsrf=ADLYWIIskqu-Oo1hsafJsKlXatvboTVh8w%3A1721784645468&ei=RVmgZuysHKqg0PEP8cyZ2Ac&ved=0ahUKEwis47DRw76HAxUqEDQIHXFmBnsQ4dUDCA8&uact=5&oq=quill&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIgVxdWlsbDIKECMYgAQYJxiKBTINECMYgAQYJxiKBRiLAzINECMYgAQYJxiKBRiLAzIFEAAYgAQyCxAuGIAEGNEDGMcBMgsQLhiABBjRAxjHATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIhQdQ1AFY7AVwAXgAkAEAmAGjAqAB3gaqAQMyLTO4AQPIAQD4AQGYAgOgAugEwgIHECMYsAMYJ8ICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjMtMqAHwhs&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%AF%9B%E7%AC%94%0A&op=translate
+
+Create a monorepo using PNPM workspace - DEV Community
+https://dev.to/vinomanick/create-a-monorepo-using-pnpm-workspace-1ebn
+
+localhost:8080
+http://localhost:8080/
+
+monorepo 将多个项目合并打包 - Google 搜索
+https://www.google.com/search?q=monorepo+%E5%B0%86%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%90%88%E5%B9%B6%E6%89%93%E5%8C%85&oq=monorepo+%E5%B0%86%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%90%88%E5%B9%B6%E6%89%93%E5%8C%85&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDc4NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Vanessa219/vditor: ♏ 一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+https://github.com/Vanessa219/vditor
+
+function-apply.js - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/test/mjsunit/maglev/function-apply.js?q=OptimizeMaglevOnNextCall&ss=chromium&start=41
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Vite + React + TS
+http://localhost:5173/
+
+github - Git - "<directory> does not have a commit checked out" even after deleting the .git inside that directory. Cant get rid of inner git repo - Stack Overflow
+https://stackoverflow.com/questions/67314263/git-directory-does-not-have-a-commit-checked-out-even-after-deleting-the
+
+emotion npm - Google 搜索
+https://www.google.com/search?q=emotion+npm&oq=emotion+npm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+pnpm workspace use root version - Google 搜索
+https://www.google.com/search?q=pnpm+workspace+use+root+version&sca_esv=b2c38071ce043d54&sxsrf=ADLYWIK_IpfQ4cm8vZA9C53OfZEkJdNszw%3A1721743808195&ei=wLmfZs7KC8aDm9cPm9mT6AY&ved=0ahUKEwjOqtPAq72HAxXGweYEHZvsBG0Q4dUDCA8&uact=5&oq=pnpm+workspace+use+root+version&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3BucG0gd29ya3NwYWNlIHVzZSByb290IHZlcnNpb25I1hBQgwZYjRBwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+VitePress | Vite & Vue Powered Static Site Generator
+https://vitepress.dev/
+
+cross-env - npm
+https://www.npmjs.com/package/cross-env
+
+Google
+https://www.google.com/
+
+两元店
+https://liangyuandian.xyz/#/order
+
+tannal/prebuild - prebuild - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/prebuild/src/branch/main
+
+tannal/build at main
+https://huggingface.co/tannal/build/tree/main
+
+微軟輸入法 簡體 繁體 - Google 搜索
+https://www.google.com/search?q=%E5%BE%AE%E8%BB%9F%E8%BC%B8%E5%85%A5%E6%B3%95+%E7%B0%A1%E9%AB%94+%E7%B9%81%E9%AB%94&oq=%E5%BE%AE%E8%BB%9F%E8%BC%B8%E5%85%A5%E6%B3%95+%E7%B0%A1%E9%AB%94+%E7%B9%81%E9%AB%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDk1MDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChatGGG
+http://192.168.43.1:8080/
+
+joe biden is dead - Google 搜索
+https://www.google.com/search?q=joe+biden+is+dead&sca_esv=9aab8662baee94c4&sxsrf=ADLYWII_ifZJ4-GDYAdhAhvK-hrZqLrrbw%3A1721780568991&ei=WEmgZsuRPIWBm9cPybmgkAc&ved=0ahUKEwjLnci5tL6HAxWFwOYEHckcCHIQ4dUDCA8&uact=5&oq=joe+biden+is+dead&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWpvZSBiaWRlbiBpcyBkZWFkSKsVUKMIWMQUcAF4AZABAJgB3QKgAbUOqgEFMi0yLjS4AQPIAQD4AQGYAgKgAuQCwgIKEAAYsAMY1gQYR8ICDxAAGIAEGEMYigUYRhj7AcICBRAAGIAEwgIKEAAYgAQYQxiKBcICCBAAGIAEGMcDwgIbEAAYgAQYQxiKBRhGGPsBGJcFGIwFGN0E2AEBmAMAiAYBkAYKugYGCAEQARgTkgcFMS4zLTGgB4kH&sclient=gws-wiz-serp
+
+linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper
+
+GPU-friendly Stroke Expansion
+https://linebender.org/gpu-stroke-expansion-paper/
+
+GitHub
+https://github.com/
+
+#study-group > Class 1 Slide Questions - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/Class.201.20Slide.20Questions
+
+Vrroom/mit-ocw-6837: My assignment solutions for Computer Graphics course on MIT OCW
+https://github.com/Vrroom/mit-ocw-6837
+
+2D Computer Graphics
+https://w3.impa.br/~diego/teaching/2021.0/slides-1.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=linebender&sort=byPopularity&type=story
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+国家开发银行
+https://zzzx.bjtu.edu.cn/docs/20130416172940379479.pdf
+
+国家助学贷款还款救助机制可代偿应还本息
+https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=6982611376103039896&toc_style_id=feeds_default&module=ccnews%3A%2F%2Fappclient%2Fpage%2Ffeeds%2Fdetail%3Furl%3Dhttps%253A%252F%252Fcontent-static.cctvnews.cctv.com%252Fsnow-book%252Findex.html%253Fitem_id%253D6982611376103039896%2526toc_style_id%253Dfeeds_default
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+quill - Google 搜索
+https://www.google.com/search?q=quill&sca_esv=9aab8662baee94c4&sxsrf=ADLYWIIskqu-Oo1hsafJsKlXatvboTVh8w%3A1721784645468&ei=RVmgZuysHKqg0PEP8cyZ2Ac&ved=0ahUKEwis47DRw76HAxUqEDQIHXFmBnsQ4dUDCA8&uact=5&oq=quill&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIgVxdWlsbDIKECMYgAQYJxiKBTINECMYgAQYJxiKBRiLAzINECMYgAQYJxiKBRiLAzIFEAAYgAQyCxAuGIAEGNEDGMcBMgsQLhiABBjRAxjHATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIhQdQ1AFY7AVwAXgAkAEAmAGjAqAB3gaqAQMyLTO4AQPIAQD4AQGYAgOgAugEwgIHECMYsAMYJ8ICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjMtMqAHwhs&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%AF%9B%E7%AC%94%0A&op=translate
+
+Create a monorepo using PNPM workspace - DEV Community
+https://dev.to/vinomanick/create-a-monorepo-using-pnpm-workspace-1ebn
+
+localhost:8080
+http://localhost:8080/
+
+monorepo 将多个项目合并打包 - Google 搜索
+https://www.google.com/search?q=monorepo+%E5%B0%86%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%90%88%E5%B9%B6%E6%89%93%E5%8C%85&oq=monorepo+%E5%B0%86%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%90%88%E5%B9%B6%E6%89%93%E5%8C%85&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDc4NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
 # 2024-7-23
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
