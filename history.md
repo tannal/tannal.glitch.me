@@ -1,3 +1,59 @@
+# 2024-7-25
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+默杀 - Google 搜索
+https://www.google.com/search?q=%E9%BB%98%E6%9D%80&sca_esv=6a16a772d5a29aa1&sxsrf=ADLYWIIGS943eA9oxAVkkGCm5a-OYGNePg%3A1721823013705&ei=Je-gZuvfKtLckPIPht_h6AI&ved=0ahUKEwirhuTI0r-HAxVSLkQIHYZvGC0Q4dUDCA8&uact=5&oq=%E9%BB%98%E6%9D%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiBum7mOadgDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDILEC4YgAQY0QMYxwEyFBAuGIAEGJcFGNwEGN4EGOAE2AEBSPVZUIQiWPRYcAR4AZABAJgBxwSgAckcqgEHMy02LjEuMrgBA8gBAPgBAZgCDaAC8h3CAgoQABiwAxjWBBhHwgIMECMYgAQYExgnGIoFwgIEECMYJ8ICChAjGIAEGCcYigXCAggQLhiABBjUAsICCBAAGIAEGMsBwgIOEC4YgAQYxwEYywEYrwHCAggQLhiABBjLAcICChAuGIAEGEMYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEBmAMAiAYBkAYKugYGCAEQARgUkgcHNC4zLTYuM6AHwVo&sclient=gws-wiz-serp
+
+抓娃娃 - Google 搜索
+https://www.google.com/search?q=%E6%8A%93%E5%A8%83%E5%A8%83&sca_esv=6a16a772d5a29aa1&sxsrf=ADLYWIL1qSe-8jaoGz9J3d0C_ZNbIfwn-g:1721824063312&ei=P_OgZprlEvPFkPIP3pyMgAg&start=10&sa=N&sstk=AagrsuidEmdeVogOBa-4BJBb_mWCJLB0nuEgaeUrpEEJofgKhQ81tPGSj2PdzC5Qmp1OngqbAAK1KaPzxmkt-kZdk2pyT0F-mUBSDg&ved=2ahUKEwjagKO91r-HAxXzIkQIHV4OA4AQ8tMDegQIBRAE&biw=1280&bih=559&dpr=1.5
+
+FSCloud
+http://web.fscloud.cc/#/login
+
+大模型算法工程师_金华希睿企业管理咨询社招_牛客网
+https://www.nowcoder.com/jobs/detail/309515
+
+衡阳湖南高速铁路职业技术学院_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%A1%A1%E9%98%B3%E6%B9%96%E5%8D%97%E9%AB%98%E9%80%9F%E9%93%81%E8%B7%AF%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2&fenlei=256&rsv_pq=0xd427304c0007f9cc&rsv_t=22e3VCfBUUrV7p5qJfwLkhcmWVw1XIbRbARSVBRLn6%2BvqtxHoS7dSjmL8k9D&rqlang=en&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=35&rsv_sug1=17&rsv_sug7=101&rsv_sug2=0&rsv_btype=i&prefixsug=%25E8%25A1%25A1%25E9%2598%25B3%25E6%25B9%2596%25E5%258D%2597%25E9%25AB%2598%25E9%2580%259F%25E9%2593%2581%25E8%25B7%25AF&rsp=0&inputT=21827&rsv_sug4=21827
+
+政务公开-湖南高速铁路职业技术学院
+https://www.htcrh.com/index/zwgk/10.htm
+
+2023年度公开招聘工作人员公告-湖南高速铁路职业技术学院
+https://www.htcrh.com/info/1005/5277.htm
+
+南京铁道职业技术学院
+https://www.njrts.edu.cn/
+
+操作流程
+https://rscxzp.njrts.edu.cn/#/front/front-dimapage/971
+
+南京信息职业技术学院_百度百科
+https://baike.baidu.com/item/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2/2705680
+
+南京信息职业技术学院
+https://www.njcit.cn/
+
+通知公告
+https://xxgk.njcit.cn/tzgg/list.htm
+
+2024年南京信息职业技术学院公开招聘 工作人员公告（第一批）
+https://xxgk.njcit.cn/2024/0606/c3919a148964/page.htm
+
+南京工业职业技术大学
+https://www.niit.edu.cn/
+
+新闻速递
+https://news.niit.edu.cn/4000/list2.htm
+
+招聘信息_玫德集团有限公司
+https://www.meide-casting.com/cn/about/job.jsp?nowPage=5&cur=3
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 # 2024-7-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
