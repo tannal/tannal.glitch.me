@@ -1,3 +1,109 @@
+# 2024-7-27
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+gitea/services/repository/create.go at 930ca92d7ce80e8b0bdaf92e495026baf2a1d419 · go-gitea/gitea
+https://github.com/go-gitea/gitea/blob/930ca92d7ce80e8b0bdaf92e495026baf2a1d419/services/repository/create.go#L137
+
+宋冬野 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tFP1zcsNDUpN6owsDRg9OJ8uq77adual-19AGnDCig&q=%E5%AE%8B%E5%86%AC%E9%87%8E&oq=%E5%AE%8Bdong&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDIJCAIQLhgMGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIHCAUQABiABDIJCAYQABgMGIAEMgkIBxAuGAwYgAQyBwgIEC4YgATSAQkxMjg2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+东莞暴雨 - Google 搜索
+https://www.google.com/search?q=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8&oq=%E4%B8%9C%E8%8E%9E%E6%9A%B4%E9%9B%A8&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIE0gEINTc3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Claude 3.5 Sonnet | Hacker News
+https://news.ycombinator.com/item?id=40738916
+
+中国护照免签 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E5%85%8D%E7%AD%BE&oq=%E4%B8%AD%E5%9B%BD%E6%8A%A4%E7%85%A7%E5%85%8D%E7%AD%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4OTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Ago-gitea%2Fgitea%20NewMacaron&type=code
+
+gaode - Google 搜索
+https://www.google.com/search?q=gaode&oq=gaode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEINTE5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+图像处理工程师 - Google 搜索
+https://www.google.com/search?q=%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%B7%A5%E7%A8%8B%E5%B8%88&oq=%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%B7%A5%E7%A8%8B%E5%B8%88&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIE0gEINjYyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CS 188 Spring 2024 | Introduction to Artificial Intelligence at UC Berkeley
+https://inst.eecs.berkeley.edu/~cs188/sp24/
+
+gordenfl-bkl/cs188-su24: for cs188-su24
+https://github.com/gordenfl-bkl/cs188-su24
+
+《人工智能：现代方法（第4版）》样章.pdf
+https://ticket-assets.baai.ac.cn/uploads/%E3%80%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9A%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89%E3%80%8B%E6%A0%B7%E7%AB%A0.pdf
+
+算法工程师（路径规划）-镭神智能-全场景激光雷达及行业解决方案-镭神智能-全场景激光雷达及行业解决方案
+https://www.leishen-lidar.com/desc/136
+
+图像处理 - Google 搜索
+https://www.google.com/search?q=%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86&sca_esv=0816324f79341d82&sxsrf=ADLYWIJJ99TX-mqeBNARQEEuAaZbU8X8yQ%3A1721983728766&ei=8GKjZp27LuPnkPIP_6mU8Qc&ved=0ahUKEwid89ijqcSHAxXjM0QIHf8UJX4Q4dUDCBA&uact=5&oq=%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOWbvuWDj-WkhOeQhjIFEAAYgAQyBRAAGIAEMgUQABiABEivGVAAWMwXcAB4AJABAJgB8AKgAZYTqgEFMi00LjS4AQPIAQD4AQGYAgegAsQRwgIKECMYgAQYJxiKBcICBBAjGCfCAgoQABiABBhDGIoFwgILEC4YgAQY0QMYxwGYAwCSBwUyLTMuNKAHgCM&sclient=gws-wiz-serp
+
+192.168.43.1
+http://192.168.43.1:8080/
+
+Yjs Shared Editing
+https://yjs.dev/
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+yjs/yjs-demos: A collection of demos for Yjs
+https://github.com/yjs/yjs-demos
+
+ChatGGG
+http://192.168.43.1:8080/
+
+# 2024-7-26
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+gitea/cmd/web.go at 930ca92d7ce80e8b0bdaf92e495026baf2a1d419 · go-gitea/gitea
+https://github.com/go-gitea/gitea/blob/930ca92d7ce80e8b0bdaf92e495026baf2a1d419/cmd/web.go#L271
+
+html5ever/html5ever/fuzz/fuzz_targets/fuzz_document_parse.rs at fd246b368e4dc9e6ae241051de45dd535af8d76e · servo/html5ever
+https://github.com/servo/html5ever/blob/fd246b368e4dc9e6ae241051de45dd535af8d76e/html5ever/fuzz/fuzz_targets/fuzz_document_parse.rs#L6
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+handle_tick&type=code
+
+Apply to Outreachy - Outreachy
+https://www.outreachy.org/apply/
+
+tannal/browser_engine - browser_engine - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/browser_engine
+
+#study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+#ComponentizeJS > Promise and async/await support - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/387620-ComponentizeJS/topic/Promise.20and.20async.2Fawait.20support
+
+(223) #general > Flex column layout - calculating block size - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Flex.20column.20layout.20-.20calculating.20block.20size
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fservo+handle_exception&type=code
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
 # 2024-7-25
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
