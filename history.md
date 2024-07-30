@@ -1,3 +1,74 @@
+# 2024-7-30
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+factory.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/heap/factory.cc
+
+Piktochart Jobs - Remote 4 Day Week Jobs (2024)
+https://4dayweek.io/company/piktochart/jobs
+
+Devops Backend Test 2023 - Google 文档
+https://docs.google.com/document/d/1AlQPh-JpGHbI2hWksSaFDOE_GaoFaVcUUkCoFnW3UE8/edit?ref=4dayweek.io&source=4dayweek.io&pli=1
+
+typst/crates/typst-syntax/src/highlight.rs at main · typst/typst
+https://github.com/typst/typst/blob/main/crates/typst-syntax/src/highlight.rs
+
+Sathya Gunasekaran (@_gsathya) / X
+https://x.com/_gsathya
+
+Alison Chaiken's Embedded Linux Resources
+https://she-devel.com/
+
+JoelFernandes.org
+https://www.joelfernandes.org/
+
+postgres/src/backend/utils/time/snapmgr.c at 513f4472a4a0d294ca64123627ce7b48ce0ee7c1 · postgres/postgres
+https://github.com/postgres/postgres/blob/513f4472a4a0d294ca64123627ce7b48ce0ee7c1/src/backend/utils/time/snapmgr.c#L216
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Issue search results
+https://github.com/search?q=involves%3Ajoyeecheung&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3Atargos&type=issues&p=4
+
+CSRankings: Computer Science Rankings
+https://csrankings.org/#/index?all&us
+
+My smallest code interpreter (aka Brainf**k) | Codewars
+https://www.codewars.com/kata/526156943dfe7ce06200063e
+
+Claude 3 beats GPT-4 on Aider's code editing benchmark | Hacker News
+https://news.ycombinator.com/item?id=39838169
+
+Home | aider
+https://aider.chat/
+
+piktochart-test.zip - Google 云端硬盘
+https://drive.google.com/file/d/1ToyVGAxz4yMPIr4y1Uz_SpSWD0mL8xjM/view
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBggCEEUYOzIGCAMQRRg7MgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg90gEIMTU5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&oq=nvidia+nasdaq&gs_lcrp=EgZjaHJvbWUyEQgAEEUYJxg5GJ0CGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzkyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+myron scholes - Google 搜索
+https://www.google.com/search?q=myron+scholes&oq=myron+scholes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDczMjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+罗伯特·科克斯·默顿 - Google 搜索
+https://www.google.com/search?sca_esv=ac57164e41e9010e&sxsrf=ADLYWIIdl2l1lJzBduezOmTRwjPLFycGAw:1722343656858&q=%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%A7%91%E5%85%8B%E6%96%AF%C2%B7%E9%BB%98%E9%A1%BF+(Robert+C.+Merton)+%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6&si=ACC90nx2Mn92cNzjXmoGBbORrSJuFBAr_aQrb9FCgbm5dMSpdaz6PUYih_n7DHNrwgKczNsfzLe5W2ECv0GlbhuIO4LlAuhifhGKmd5QvGQ8DLspQOUS7ECUczEfpwXav1yaT-AX7CsYGCvju7LJx92CZOstgfiUSsmD5sh2bYDivJMMAZnHudydvD9CqRX3wq8BWY2WZrq1Wi1ktsla61VcgAOJ_u89xIneW2lJHh5KppTuch2c0gdF95eLZJt6A3nKALcqigVhn65oRbJhKlU3kP4dtBH3SsG3H7fDiYtlo9z_T6_Wp-yR8EPfGH2KZ4EcY8EpQ0Ve6HnKxGjoZe3C2v5PsX5crQ%3D%3D&sa=X&ved=2ahUKEwitp-SO5s6HAxVCI0QIHe7rIJsQ6RN6BAgVEAE&biw=1280&bih=559&dpr=1.5
+
 # 2024-7-27
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

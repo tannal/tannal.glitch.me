@@ -18,28 +18,6 @@ foreach ($folder in $folders) {
 
 New-Item -Path "wasm-engine\Cargo.toml" -ItemType File -Force | Out-Null
 New-Item -Path "wasm-engine\src\main.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\parser\mod.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\parser\instruction.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\validator\mod.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\interpreter\mod.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\interpreter\executor.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\compiler\mod.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\compiler\jit.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\compiler\optimizations.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\runtime\mod.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\runtime\memory.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\runtime\instance.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\wasi\mod.rs" -ItemType File -Force | Out-Null
-
-New-Item -Path "wasm-engine\src\utils\mod.rs" -ItemType File -Force | Out-Null
-New-Item -Path "wasm-engine\src\utils\logger.rs" -ItemType File -Force | Out-Null
-
 ```
 
 # 2024-7-27 0 | 0 W
