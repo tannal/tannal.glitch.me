@@ -1,5 +1,8 @@
 # inbox
 
+Creator of CodeMirror
+https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html
+
 Frontend Guy
 https://www.zhihu.com/people/shaolizhi11/posts
 
