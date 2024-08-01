@@ -1,5 +1,98 @@
 # 2024-8-1
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+event_loop.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/platform/scheduler/common/event_loop.cc;l=70?q=performmicro&sq=&ss=chromium%2Fchromium%2Fsrc
+
+Code search results
+https://github.com/search?q=repo%3Amagcius%2Fnoclip.website%20HTMLCanvasElement&type=code
+
+[idea] Live collaboration · Issue #8 · omni-media/omniclip
+https://github.com/omni-media/omniclip/issues/8
+
+omni-media/omnitool: video processing tools
+https://github.com/omni-media/omnitool
+
+omni-clip
+https://omniclip.app/
+
+PostOwl/postowl: Create a personal website for your blog, journal and sending letters to friends.
+https://github.com/PostOwl/postowl
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+自然法 | 和泉紗霧 | Substack
+https://sagiri.substack.com/
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Home
+https://sagiriwiki.web.app/
+
+geodns/server/server.go at 904b19f90ca840cbb1e895d5805f80a8a2580c27 · abh/geodns
+https://github.com/abh/geodns/blob/904b19f90ca840cbb1e895d5805f80a8a2580c27/server/server.go#L116
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=12268370a69439db&sxsrf=ADLYWILiLnBqKQCUdlmjo8G_teaGNVz-mw%3A1722504638541&ei=vlWrZpnZIL_LkPIPqPGYsAU&ved=0ahUKEwiZsOrovdOHAxW_JUQIHag4BlYQ4dUDCBA&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIHECMYsAMYJzIHECMYsAMYJzIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0g3UABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAhWYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=flutter%20layoff&sort=byPopularity&type=story
+
+Your Name
+http://localhost:5173/
+
+A SvelteKit template for building CMS-free editable websites | Hacker News
+https://news.ycombinator.com/item?id=35456083
+
+sveltekit slug 中文 - Google 搜索
+https://www.google.com/search?q=sveltekit+slug+%E4%B8%AD%E6%96%87&oq=sveltekit+slug+%E4%B8%AD%E6%96%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCAgDEAAYExgeMgoIBBAAGAgYExgeMgoIBRAAGAgYExgeMgoIBhAAGAgYExgeMgoIBxAAGAgYExgeMgoICBAAGAgYExgeMgoICRAAGIAEGKIE0gEJMjEzNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+OpenAI Announces SearchGPT | Hacker News
+https://news.ycombinator.com/item?id=41071639
+
+Removing Data Connector Orange
+https://chatgpt.com/share/e52dc4dd-77e6-48a5-a7ca-77e3dfa39eb5
+
+Google
+https://www.google.com/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?tab=repositories
+
+Main Hall - Paper Mario 64 - noclip
+https://noclip.website/#pm64/dgb_01;ShareData=AX[tTUZ4Mk9Y|GMUL;WL+vMj1QulHjUgRFhUi/YnV}i{k907)09GmYOUe^VAVt
+
+Web Sockets - Front-End System Design
+https://frontendmasters.com/courses/frontend-system-design/web-sockets/
+
+剪映 - 视频剪辑软件
+https://www.capcut.cn/web
+
+视频编辑器 - 视频剪辑软件 - 剪映
+https://www.capcut.cn/editor
+
+HTML Standard
+https://html.spec.whatwg.org/#performing-a-microtask-checkpoint
+
+tannal (tannal)
+https://github.com/tannal
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=jeanr&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+fluttercommunity/chewie: The video player for Flutter with a heart of gold
+https://github.com/fluttercommunity/chewie
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

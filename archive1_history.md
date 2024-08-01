@@ -4796,6 +4796,7 @@ Installing Bazel on Ubuntu
 https://bazel.build/install/ubuntu
 
 Releases · bazelbuild/bazel
+
 https://github.com/bazelbuild/bazel/releases
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
