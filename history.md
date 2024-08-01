@@ -1,3 +1,119 @@
+# 2024-8-1
+
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Everything that sets RenderObject::m_style should go through setStyle… · WebKit/WebKit@8f1e1a8
+https://github.com/WebKit/WebKit/commit/8f1e1a8e3d32325cf89f7faecf7c3a6ad49ee0fa
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?selected_team_id=T06G50708
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+geodns/health/healthtest/healthtesters.go at 904b19f90ca840cbb1e895d5805f80a8a2580c27 · abh/geodns
+https://github.com/abh/geodns/blob/904b19f90ca840cbb1e895d5805f80a8a2580c27/health/healthtest/healthtesters.go#L65
+
+Cloud Native Computing Foundation
+https://www.cncf.io/
+
+Kubernetes Documentation | Kubernetes
+https://kubernetes.io/docs/home/
+
+windows添加开机启动项 - Google 搜索
+https://www.google.com/search?q=windows%E6%B7%BB%E5%8A%A0%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8%E9%A1%B9&sca_esv=2fec7fa0447d60ca&sxsrf=ADLYWIKH6CYlgPIfs--iWRNEfQjU0Jkfbw%3A1722392950074&ei=dqGpZtSeBKzHkPIPg9jF2AY&oq=windows+%E5%BC%80%E6%9C%BA%E5%90%AF%E5%8A%A8%E9%A1%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3dpbmRvd3Mg5byA5py65ZCv5Yqo6aG5KgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iSCVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIpmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+用户申诉填写
+https://yhssglxt.miit.gov.cn/web/appealInformation
+
+Google 账号
+https://myaccount.google.com/?tab=kk
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+(17) Discord | #news | Tiptap
+https://discord.com/channels/818568566479257641/818569971994853406
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+中华人民共和国民法典_滚动新闻_中国政府网
+https://www.gov.cn/xinwen/2020-06/01/content_5516649.htm
+
+中华人民共和国电信条例__增刊2016·2国务院公报_中国政府网
+https://www.gov.cn/gongbao/content/2016/content_5139478.htm
+
+国家开发银行助学贷款学生在线系统
+https://sls.cdb.com.cn/#/login
+
+(319) #general > ✔ Nix build failed - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20Nix.20build.20failed
+
+Intermittent panic in webrender during shutdown · Issue #32867 · servo/servo
+https://github.com/servo/servo/issues/32867
+
+Mention issue triage meetings · Issue #168 · servo/servo.org
+https://github.com/servo/servo.org/issues/168
+
+登录 X / X
+https://x.com/i/flow/login?redirect_after_login=%2Felliottz
+
+Ojan Vafai - Google 搜索
+https://www.google.com/search?q=Ojan+Vafai&oq=Ojan+Vafai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=shadertoy.com%2F&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E7%BE%8E%E8%81%94%E5%82%A8%E7%82%B9%E9%98%B5%E5%9B%BE&op=translate
+
+Ojan Vafai github - Google 搜索
+https://www.google.com/search?q=Ojan+Vafai+github&sca_esv=12268370a69439db&sxsrf=ADLYWIKaC1ovflrs2CDmQuKU6ffWkRH1kg%3A1722495348068&ei=dDGrZrbwA4-GptQPrK6e8QM&ved=0ahUKEwi2-uSam9OHAxUPg4kEHSyXJz4Q4dUDCBA&uact=5&oq=Ojan+Vafai+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEU9qYW4gVmFmYWkgZ2l0aHViMgcQIRigARgKSJMTUL4BWLIRcAJ4AJABAZgB3gSgAbQTqgEJMi0zLjAuMS4yuAEDyAEA-AEBmAIFoAKyCcICBxAAGLADGB7CAgsQABiABBiwAxiiBMICBBAAGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYGkgcJMi4wLjIuNS0xoAeRDA&sclient=gws-wiz-serp
+
+contentEditable/index.html at gh-pages · w3c/contentEditable
+https://github.com/w3c/contentEditable/blob/gh-pages/index.html
+
+Intent to Remove Attr.isId, ownerElement, prefix setter & Deprecate Attr.specified
+https://groups.google.com/a/chromium.org/g/blink-dev/c/ai6_ySyVITg/m/Zff4AYrxQ-4J
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Marijn%20Haverbeke%20codemirror&sort=byPopularity&type=story
+
+Collaborative Editing in CodeMirror
+https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html
+
+Data Structures: Objects and Arrays :: Eloquent JavaScript
+https://eloquentjavascript.net/04_data.html
+
+Fifteen Years of Contributing to WebKit
+https://rniwa.com/2024-07-20/fifteen-years-of-contributing-to-webkit/
+
+Fix a crash in clang::isGetterOfRefCounted by checking nullptr in try… · llvm/llvm-project@93a2a8c
+https://github.com/llvm/llvm-project/commit/93a2a8cb7f6ab815849e8320bff54c965edd09e7
+
+Ladybird
+https://ladybird.org/#about
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ladybird&sort=byPopularity&type=story
+
+Amaya - Google 搜索
+https://www.google.com/search?q=Amaya&sca_esv=12268370a69439db&sxsrf=ADLYWIKuwYxqufqWl3d06jj2Fqp1H9Y2fw%3A1722496191359&ei=vzSrZu7QFcqKkPIPq5GwoQc&ved=0ahUKEwiurPOsntOHAxVKBUQIHasILHQQ4dUDCBA&uact=5&oq=Amaya&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUFtYXlhMgoQABiwAxjWBBhHSMwFUO4BWPMDcAF4AZABAJgB4AKgAeACqgEDMy0xuAEDyAEA-AEBmAIBoAIFmAMAiAYBkAYBkgcBMaAHkxo&sclient=gws-wiz-serp
+
 # 2024-7-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
