@@ -1,5 +1,8 @@
 # inbox
 
+Creator of CKEditor
+Frederico Caldeira Knabben
+
 Creator of CodeMirror
 https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html
 
