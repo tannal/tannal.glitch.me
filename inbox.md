@@ -1,7 +1,9 @@
 # 2024-8-1 0 | 0 W
 
-
-
+$env:https_proxy='http://127.0.0.1:7890'
+$env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
+set https_proxy=http://127.0.0.1:7890
+pnpm dev --open
 
 # 2024-7-31 0 | 0 W
 
