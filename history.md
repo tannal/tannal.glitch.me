@@ -1,5 +1,86 @@
 # 2024-8-4
 
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+WebKit/Source/WebCore/style/StyleResolver.cpp at f7dc8448a6ab168d4994ff68fc4cfc15f6614d25 · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/f7dc8448a6ab168d4994ff68fc4cfc15f6614d25/Source/WebCore/style/StyleResolver.cpp#L661
+
+⊨ roife : ฅ^•ﻌ•^ฅ (@roifex) / X
+https://x.com/roifex
+
+Kentaro Hara (@xharaken) / X
+https://x.com/xharaken
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+go-webkit/kit at master · anthdm/go-webkit
+https://github.com/anthdm/go-webkit/tree/master/kit
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=canva&sort=byPopularity&type=story
+
+NVIDIA Canvas App: Turn Simple Brushstrokes into Realistic Images with AI
+https://www.nvidia.com/en-gb/studio/canvas/
+
+关于Canva可画 - 北京咖瓦信息技术有限公司
+https://www.canva.cn/about/
+
+「咖瓦信息招聘」2024年咖瓦信息招聘信息-BOSS直聘
+https://www.zhipin.com/gongsi/job/e1259e0e008d7cb73nd62d66.html?ka=company-jobs
+
+「前端招聘」_咖瓦信息招聘-BOSS直聘
+https://www.zhipin.com/job_detail/790b9d17201220ac1HN439S_GVY~.html?ka=company_more_job_790b9d17201220ac1HN439S_GVY%7E
+
+「咖瓦信息招聘」2024年咖瓦信息招聘信息-BOSS直聘
+https://www.zhipin.com/gongsi/job/e1259e0e008d7cb73nd62d66.html?ka=look-all-position
+
+东莞酒店前台公司搜索（公司点评，找公司） - 职友集
+https://www.jobui.com/cmp?keyword=%E9%85%92%E5%BA%97%E5%89%8D%E5%8F%B0&area=%E4%B8%9C%E8%8E%9E&type=%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+simd-everywhere/simde: Implementations of SIMD instruction sets for systems which don't natively support them.
+https://github.com/simd-everywhere/simde
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mobile%20development%20is%20&sort=byPopularity&type=story
+
+Paranoid_K
+http://localhost:3001/
+
+登录 X / X
+https://x.com/i/flow/login?redirect_after_login=%2Fpengtikui
+
+费拉理论 - Google 搜索
+https://www.google.com/search?q=%E8%B4%B9%E6%8B%89%E7%90%86%E8%AE%BA&oq=%E8%B4%B9%E6%8B%89%E7%90%86%E8%AE%BA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+react - npm
+https://www.npmjs.com/package/react
+
+Kentaro Hara (@xharaken) / X
+https://x.com/xharaken
+
+WebKit/Source/WebCore/page/SecurityOrigin.cpp at f7dc8448a6ab168d4994ff68fc4cfc15f6614d25 · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/f7dc8448a6ab168d4994ff68fc4cfc15f6614d25/Source/WebCore/page/SecurityOrigin.cpp#L427
+
+weinig (Sam Weinig)
+https://github.com/weinig
+
+Allan Sandfeld Jensen | Behind KDE
+https://behindkde.org/allan-sandfeld-jensen
+
+[css-color] Should relative color syntax use color() function serialization? · Issue #10641 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10641
+
+Clangd 'Kinds' information incorrect · Issue #78156 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/78156
+
 Mariko Kosaka (@kosamari) / X
 https://x.com/kosamari
 
