@@ -1,3 +1,104 @@
+# 2024-8-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Commits · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/commits/main/
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+3066. 超过阈值的最少操作数 II - 力扣（LeetCode）
+https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii/description/
+
+拼多多秋招备战方略 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/pdd-2023-fall-sprint/
+
+美团秋招攻略 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/meituan-2023-fall-sprint/
+
+用户申诉填写
+https://yhssglxt.miit.gov.cn/web/appealInformation
+
+wgpu/Cargo.toml at d9c054c645af0ea9ef81617c3e762fbf0f3fecda · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/blob/d9c054c645af0ea9ef81617c3e762fbf0f3fecda/Cargo.toml
+
+rust-windowing/winit: Window handling library in pure Rust
+https://github.com/rust-windowing/winit
+
+Browser Positioning - Front-End System Design
+https://frontendmasters.com/courses/frontend-system-design/web-sockets/
+
+New
+https://www.shadertoy.com/new
+
+YouTube
+https://www.youtube.com/
+
+bytemuck - crates.io: Rust Package Registry
+https://crates.io/crates/bytemuck
+
+AI and the Next Computing Platforms with Jensen Huang and Mark Zuckerberg | Hacker News
+https://news.ycombinator.com/item?id=41108155
+
+Meta Research
+https://github.com/facebookresearch
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Where is Joma Tech? (@ jomaoppa on YouTube – 2.2M subs; 182,055,808 views) | Hacker News
+https://news.ycombinator.com/item?id=36870390
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls
+
+dawn Git repositories - Git at Google
+https://dawn.googlesource.com/?format=HTML
+
+wgpu/examples/src/hello_triangle/mod.rs at trunk · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/blob/trunk/examples/src/hello_triangle/mod.rs
+
+winit - Rust
+https://docs.rs/winit/latest/winit/index.html
+
+opengl - How to debug a GLSL shader? - Stack Overflow
+https://stackoverflow.com/questions/2508818/how-to-debug-a-glsl-shader
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=shovels&op=translate
+
+GraphQL Query with fetch - Client-Side GraphQL with React, v2
+https://frontendmasters.com/courses/client-graphql-react-v2/introduction/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=cyber%20janitor%20job&op=translate
+
+janitor - Google 搜索
+https://www.google.com/search?q=janitor&oq=janitor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcxODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美联储点阵图 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%82%B9%E9%98%B5%E5%9B%BE&sca_esv=9267af3241730e66&sxsrf=ADLYWILPUFTu_Rmq_1d_cDPujiAQEN1UTg%3A1722594095955&ei=L7OsZqeBOrWd0PEPlfDQwQY&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqCoCCAAyBxAjGLADGCcyBxAjGLADGCcyBxAjGLADGCcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdInw1QAFgAcAF4AJABAJgB3ASgAdwEqgEDNS0xuAEByAEAmAIBoAIWmAMAiAYBkAYKkgcBMaAHzwk&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=poe+clone+language%3ATypeScript&type=repositories&l=TypeScript
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+关于 | 春水煎茶 - 王超的个人博客
+https://writings.sh/about
+
+hit9/oo: Simple Go Version Manager (still works).
+https://github.com/hit9/oo
+
+牛客网公司真题_免费模拟题库_企业面试|笔试真题
+https://www.nowcoder.com/exam/company
+
 # 2024-8-1
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
