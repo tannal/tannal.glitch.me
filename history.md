@@ -1,3 +1,140 @@
+# 2024-8-4
+
+Mariko Kosaka (@kosamari) / X
+https://x.com/kosamari
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+[Ebook] Master Frontend to Backend by Ankit (bcacodewala) - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-master-frontend-to-backend-by-ankit-bcacodewala.10474/
+
+TutFlix.ORG - Drive Share
+https://share.tutflix.org/#hM8m9zJ8bmT4p9UfE7ieb5d9H1UynQwllrIbmE8tKvbUKPtpKidMP71NIaR+bZkxfedrbRcHv/DAoqSm2Q==
+
+interactive notebooks - Google 搜索
+https://www.google.com/search?q=interactive+notebooks&rlz=1C1GCEA_enCN1091CN1091&oq=interactive+note&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM5MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+John Carmack (@ID_AA_Carmack) / X
+https://x.com/ID_AA_Carmack
+
+Colin McDonnell (@colinhacks) / X
+https://x.com/colinhacks
+
+X 上的 Matteo Collina：“Onboarding @hooraybuffer as a @nodejs collaborator at @NodeConfEU! 🎉 https://t.co/B7sOOVvqEC https://t.co/v02j5vNwzu” / X
+https://x.com/matteocollina/status/1059842124655538176
+
+(3) Mathias Bynens (@mathias) / X
+https://x.com/mathias
+
+Keith Cirkel
+https://www.keithcirkel.co.uk/working-on/
+
+(3) Keith Cirkel (@Keithamus) / X
+https://x.com/keithamus
+
+(3) Tomer Aberbach (@TomerAberbach) / X
+https://x.com/TomerAberbach
+
+Google Workspace Updates: Import and export Markdown in Google Docs
+https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html
+
+Home
+https://tomeraberba.ch/
+
+Google Docs Can Now Import and Export Markdown
+https://www.howtogeek.com/google-docs-markdown-import-export/
+
+Release Notes for Safari Technology Preview 200 🎉 | WebKit
+https://webkit.org/blog/15779/release-notes-for-safari-technology-preview-200/
+
+[JSC] Implement Uint8Array.prototype.toHex in SIMD · WebKit/WebKit@d4018f6
+https://github.com/WebKit/WebKit/commit/d4018f63175c602605145887c61d21ffdbd1a75b
+
+MySQL Visual Explain
+https://mysqlexplain.com/
+
+(3) Peter Marshall (@hooraybuffer) / X
+https://x.com/hooraybuffer
+
+(3) Nick Butcher (@crafty) / X
+https://x.com/crafty
+
+(3) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+Lee. - Kee
+https://kee.so/nanxiaobei
+
+nanxiaobei (南小北)
+https://github.com/nanxiaobei
+
+firstcommit.is - @nanxiaobei
+https://firstcommit.is/nanxiaobei
+
+Bytes #240 - Real talk about The Edge™️
+https://bytes.dev/archives/240
+
+(3) 南小北 on X: "工业化的特点就是成本无限趋近于零，理论上机器一开，几百人几千人生产，就可以满足几亿人的需要。 工业化的堆积再促进科技进步，理论上在 AI、机器人高度发达的理想世界，人类确实不需要“工作”了，“工作”可以变为一种“爱好”。 当然，这只是理想世界，毕竟现在理论上也不会再饿死人，但依然存在。" / X
+https://x.com/nanxiaobei/status/1737267290671100014
+
+https://www.youtube.com/watch?v=3KtWfp0UopM&list=PL590L5WQmH8fmto8QIHxA9oU7PLVa3ntk
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D3KtWfp0UopM%26list%3DPL590L5WQmH8fmto8QIHxA9oU7PLVa3ntk&q=EhAmADwBAAAAAPA8lP_-fIxGGOSpubUGIjBUY5pvJMLzGMAgqiU6xrbiRTvw6Ucziy61wKQduqIktV7CO9Lhnh0-ysU6AvrR_C8yAXJaAUM
+
+The Inside Story of Microsoft’s Partnership with OpenAI | The New Yorker
+https://www.newyorker.com/magazine/2023/12/11/the-inside-story-of-microsofts-partnership-with-openai
+
+Falling Into The Pit of Success
+https://blog.codinghorror.com/falling-into-the-pit-of-success/
+
+cryptKit
+https://gist.github.com/nanxiaobei/cd2cadd499ea096286742fcdbd9b97a3
+
+TinyPNG – Compress WebP, PNG and JPEG images intelligently
+https://tinypng.com/
+
+第54期：怎么做好前端 - Paranoid_K's Weekly
+https://pengtikui.cn/weekly/issue-54
+
+nanxiaobei/front-end-dev-guide: 🦋 前端开发行为指导规范
+https://github.com/nanxiaobei/front-end-dev-guide
+
+CSS :has() Interactive Guide
+https://ishadeed.com/article/css-has-guide/
+
+2022 年，我们再来谈谈 React 状态管理 - 知乎
+https://zhuanlan.zhihu.com/p/465917281
+
+(18 封私信 / 80 条消息) 南小北 - 知乎
+https://www.zhihu.com/people/nanxiaobei
+
+About - Kee
+https://kee.so/about
+
+Write Letter
+https://codepen.io/nanxiaobei/pen/poXzNVq
+
+前端30年，从开始到现在.pdf - Google 云端硬盘
+https://drive.google.com/file/d/1XaEqnIeHRaqUKRs7kkEncNzBQCq47U1A/view
+
+fix cookie path in cookieStorage by nanxiaobei · Pull Request #3970 · wevm/wagmi
+https://github.com/wevm/wagmi/pull/3970/files
+
+费拉理论 - Google 搜索
+https://www.google.com/search?q=%E8%B4%B9%E6%8B%89%E7%90%86%E8%AE%BA&rlz=1C1GCEA_enCN1091CN1091&oq=%E8%B4%B9%E6%8B%89%E7%90%86%E8%AE%BA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+帆船 奥运会 - Google 搜索
+https://www.google.com/search?q=%E5%B8%86%E8%88%B9+%E5%A5%A5%E8%BF%90%E4%BC%9A&oi=ddle&ct=335645402&hl=zh-CN&source=doodle-ntp
+
+Andy Warhol - Google 搜索
+https://www.google.com/search?q=Andy+Warhol&rlz=1C1GCEA_enCN1091CN1091&oq=Andy+Warhol&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Walter Isaacson - Google 搜索
+https://www.google.com/search?q=Walter+Isaacson&rlz=1C1GCEA_enCN1091CN1091&oq=Walter+Isaacson&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzUwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2024-8-3
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
