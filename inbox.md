@@ -1,3 +1,9 @@
+# 2024-8-4 0 | 0 W
+
+Webkit applyMatchedProperties is not used 
+
+https://github.com/search?q=repo%3AWebKit%2FWebKit+applyMatchedProperties&type=code
+
 # 2024-8-3 0 | 0 W
 
 项目名称：飞机登机模拟系统
