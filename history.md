@@ -3,6 +3,147 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Algorithm-Arena/weekly-challenge-27-mouse-programming
+https://github.com/Algorithm-Arena/weekly-challenge-27-mouse-programming?tab=readme-ov-file
+
+Submission - Madforth · Issue #3 · Algorithm-Arena/weekly-challenge-27-mouse-programming
+https://github.com/Algorithm-Arena/weekly-challenge-27-mouse-programming/issues/3
+
+Uzo2005/madforth: stack based visual programming language
+https://github.com/Uzo2005/madforth
+
+CS447 Natural Language Processing Spring 2023
+https://courses.grainger.illinois.edu/cs447/sp2023/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Create Next App
+http://localhost:3001/
+
+SuperCLUE/resources at main · CLUEbenchmark/SuperCLUE
+https://github.com/CLUEbenchmark/SuperCLUE/tree/main/resources
+
+WinoGrande: An Adversarial Winograd Schema Challenge at Scale
+https://arxiv.org/pdf/1907.10641
+
+allenai (Ai2)
+https://huggingface.co/allenai
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=allenai&sort=byPopularity&type=story
+
+大模型LLM 的基准测试<一> - Iawen's Blog - 我喜欢这样自由的随手涂鸦, 因为我喜欢风......
+https://note.iawen.com/note/llm/llm_test
+
+hkust-nlp/ceval: Official github repo for C-Eval, a Chinese evaluation suite for foundation models [NeurIPS 2023]
+https://github.com/hkust-nlp/ceval
+
+LLM-EVAL
+http://llmeval.com/index
+
+llmeval
+https://github.com/llmeval/
+
+google/BIG-bench: Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
+https://github.com/google/BIG-bench?tab=readme-ov-file#quick-start-colab-notebooks
+
+[1907.10641] WinoGrande: An Adversarial Winograd Schema Challenge at Scale
+https://arxiv.org/abs/1907.10641
+
+allenai/winogrande at main
+https://huggingface.co/datasets/allenai/winogrande/tree/main
+
+Ai2: Truly open breakthrough AI
+https://allenai.org/
+
+deduction - Google 搜索
+https://www.google.com/search?q=deduction&oq=deduction&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE4NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+飞机登机算法 - Google 搜索
+https://www.google.com/search?q=%E9%A3%9E%E6%9C%BA%E7%99%BB%E6%9C%BA%E7%AE%97%E6%B3%95&sca_esv=f56d819449a0abf0&sxsrf=ADLYWIKP_7bijd1SBB-pKTo_TEr8rsuF-A%3A1722669670943&ei=ZtqtZraqOYLbptQPj--Y8A8&ved=0ahUKEwi29bTOpNiHAxWCrYkEHY83Bv4Q4dUDCBA&uact=5&oq=%E9%A3%9E%E6%9C%BA%E7%99%BB%E6%9C%BA%E7%AE%97%E6%B3%95&gs_lp=Egxnd3Mtd2l6LXNlcnAiEumjnuacuueZu-acuueul-azlTIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIIEAAYgAQYogRI3TZQAFipNHAAeAGQAQCYAZ0HoAGHNqoBCzItMy41LjEuNC4yuAEDyAEA-AEBmAILoALFI8ICBBAjGCfCAgwQIxiABBgTGCcYigXCAgoQIxiABBgnGIoFwgILEC4YgAQY0QMYxwHCAgUQABiABMICChAAGIAEGEMYigXCAgUQLhiABMICBxAAGIAEGAqYAwCSBwkyLTIuNC40LjGgB-ph&sclient=gws-wiz-serp
+
+Observable - Google 搜索
+https://www.google.com/search?q=Observable&oq=Observable&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Jason Steffen - Google 搜索
+https://www.google.com/search?q=Jason+Steffen&oq=Jason+Steffen&gs_lcrp=EgZjaHJvbWUyDggAEEUYExg5GOMCGIAEMgkIARAuGBMYgAQyCAgCEAAYExgeMggIAxAAGBMYHjIICAQQABgTGB4yCAgFEAAYExgeMggIBhAAGBMYHjIICAcQABgTGB4yCAgIEAAYExgeMggICRAAGBMYHtIBBzM5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+怎样登机最省时？| 果壳 科技有意思
+https://m.guokr.com/article/161240/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=computer%20science%20than%20coding&sort=byPopularity&type=story
+
+Teach Yourself Computer Science
+https://teachyourselfcs.com/
+
+Free-Algorithms-Books/Library/src/Algorithms-to-Live-By-Brian-Christian.pdf at main · GauravWalia19/Free-Algorithms-Books
+https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/Algorithms-to-Live-By-Brian-Christian.pdf
+
+brian christian - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TdIz7AoyYg3YPTiTyrKTMxTSM4oyiwuAbIAiHIJzQ&q=brian+christian&oq=brian+chri&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINDc4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+李超_慕课网精英讲师
+https://www.imooc.com/t/4873493/courses
+
+WebRTC源码深入剖析总结 | 音视跳动科技
+https://blog.avdancedu.com/59ecb92/#more
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Depend%20upon%20it%20there%20comes%20a%20time%20when%20for%20every%20addition%20of%20knowledge%0Ayou%20forget%20something%20that%20you%20knew%20before.%20It%20is%20of%20the%20highest%0Aimportance%2C%20therefore%2C%20not%20to%20have%20useless%20facts%20elbowing%20out%20the%20useful%0Aones&op=translate
+
+Bélády’s 1966 paper on caching algorithms - Google 搜索
+https://www.google.com/search?q=B%C3%A9l%C3%A1dy%E2%80%99s+1966+paper+on+caching+algorithms&oq=B%C3%A9l%C3%A1dy%E2%80%99s+1966+paper+on+caching+algorithms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+贝拉迪·拉斯洛 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%B2%9D%E6%8B%89%E8%BF%AA%C2%B7%E6%8B%89%E6%96%AF%E6%B4%9B#cite_note-one-1
+
+EUGENE LAWLER - Google 搜索
+https://www.google.com/search?q=EUGENE+LAWLER&oq=EUGENE+LAWLER&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Lawler's Algorithm - Google 搜索
+https://www.google.com/search?q=Lawler%27s+Algorithm&oq=Lawler%27s+Algorithm&gs_lcrp=EgZjaHJvbWUyDQgAEEUYDRgTGDkYgAQyDAgBEAAYCBgNGBMYHjIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBBzMwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+市场押注下月降息50基点？美联储官员为降息狂热“泼冷水”，能奏效吗
+https://m.yicai.com/news/102217404.html
+
+萨姆规则 - Google 搜索
+https://www.google.com/search?q=%E8%90%A8%E5%A7%86%E8%A7%84%E5%88%99&oq=%E8%90%A8%E5%A7%86%E8%A7%84%E5%88%99&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=market&sort=byPopularity&type=story
+
+Panic! at the Tech Job Market
+https://matt.sh/panic-at-the-job-market#_how-to-get-hired
+
+「美版知乎」沦为互联网垃圾桶，锅能甩给 ChatGPT 吗？ | 极客公园
+https://www.geekpark.net/news/331571
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Paranoid_K
+https://pengtikui.cn/
+
+pengtikui/pengtikui.cn: Personal website
+https://github.com/pengtikui/pengtikui.cn
+
+measuredco/puck: The visual editor for React
+https://github.com/measuredco/puck
+
+WinterCG - Google 搜索
+https://www.google.com/search?q=WinterCG&oq=WinterCG&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (330) #general > libz-sys patch - Servo - Zulip
 https://servo.zulipchat.com/#narrow/stream/263398-general/topic/libz-sys.20patch
 

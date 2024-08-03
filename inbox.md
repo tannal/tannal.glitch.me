@@ -1,5 +1,14 @@
 # 2024-8-3 0 | 0 W
 
+
+
+音视频
+https://www.imooc.com/t/4873493/courses
+
+登机算法，模拟器
+
+We reason when we go beyond the information given to us.
+
 involves:vjeux
 
 
