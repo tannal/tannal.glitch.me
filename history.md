@@ -1,5 +1,80 @@
 # 2024-8-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(330) #general > libz-sys patch - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/libz-sys.20patch
+
+Upcoming Servo issue triage meeting on August 5 2024 · Issue #95 · servo/project
+https://github.com/servo/project/issues/95
+
+Issues · omni-media/omniclip
+https://github.com/omni-media/omniclip/issues/created_by/vjeux
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Issues · microsoft/hcsshim
+https://github.com/microsoft/hcsshim/issues
+
+Code search results
+https://github.com/search?q=repo%3Aopencontainers%2Frunc+capget&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=omniclip&sort=byPopularity&type=story
+
+Submission - Airplane loading playground · Issue #2 · Algorithm-Arena/weekly-challenge-28-airplane-loading
+https://github.com/Algorithm-Arena/weekly-challenge-28-airplane-loading/issues/2
+
+reifocS/loading-airplane
+https://github.com/reifocS/loading-airplane
+
+Create Next App
+https://loading-airplane.vercel.app/
+
+Steffen Boarding Method - Google 搜索
+https://www.google.com/search?q=Steffen+Boarding+Method&oq=Steffen+Boarding+Method&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Careers
+https://vercel.com/careers
+
+X 上的 李老师不是你老师：“1月9日，快手员工投稿： 国内知名短视频平台快手目前在施行“11.5小时工作制”，要求员工进出打卡时间至少间隔11.5小时。 去年年底开始清退没有达到11.5小时的员工，哪怕员工因病无法正常在岗。 员工们联合起来维权，但是快手在劳动局申请了“经营不善”所以法院裁定不需要赔n+1。而实际上快手盈收非常好。 https://t.co/U7tVJbQWVg” / X
+https://x.com/whyyoutouzhele/status/1744626987161759773
+
+x.com/whyyoutouzhele/status/1744626987161759773/photo/3
+https://x.com/whyyoutouzhele/status/1744626987161759773
+
+经营不善 赔偿 - Google 搜索
+https://www.google.com/search?q=%E7%BB%8F%E8%90%A5%E4%B8%8D%E5%96%84+%E8%B5%94%E5%81%BF&oq=%E7%BB%8F%E8%90%A5%E4%B8%8D%E5%96%84+%E8%B5%94%E5%81%BF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDU2MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+onvideo快手云剪-快手官方在线视频创作平台
+https://onvideo.kuaishou.com/v2/profile?sid=kuaishou.onvideo.share&callback=https%3A%2F%2Fonvideoapi.kuaishou.com%2Frest%2Finfra%2Fsts%3FfollowUrl%3Dhttps%253A%252F%252Fonvideo.kuaishou.com%252F
+
+快手云剪 - Google 搜索
+https://www.google.com/search?q=%E5%BF%AB%E6%89%8B%E4%BA%91%E5%89%AA&oq=%E5%BF%AB%E6%89%8B%E4%BA%91jian&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCggCEAAYgAQYogQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYogQYiQXSAQg1MzE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Open Container Initiative
+https://github.com/opencontainers
+
+moby/libnetwork/osl/namespace_linux.go at 27b322e56bc04da8e431fe792c742f7b52df9c46 · moby/moby
+https://github.com/moby/moby/blob/27b322e56bc04da8e431fe792c742f7b52df9c46/libnetwork/osl/namespace_linux.go#L219
+
+Create Next App
+http://localhost:3001/
+
+awslabs/amazon-kinesis-video-streams-webrtc-sdk-c: Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Repository search results
+https://github.com/search?q=%E7%A7%9F%E6%88%BF&type=repositories&p=2
+
+Create Next App
+http://localhost:3001/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
