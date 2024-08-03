@@ -1,5 +1,68 @@
 # 2024-8-4
 
+Mariko Kosaka (@kosamari) / X
+https://x.com/kosamari
+
+(3) Kentaro Hara (@xharaken) / X
+https://x.com/xharaken
+
+(3) ⊨ roife : ฅ^•ﻌ•^ฅ (@roifex) / X
+https://x.com/roifex
+
+x.com/roifex/status/1774482103473975670
+https://x.com/roifex/status/1774482103473975670
+
+A Microcosm of the interactions in Open Source projects
+https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/
+
+Pull request search results
+https://github.com/search?q=involves%3Aroife+&type=pullrequests&p=7
+
+resume/resume-cn.pdf at master · roife/resume
+https://github.com/roife/resume/blob/master/resume-cn.pdf
+
+(3) John Carmack (@ID_AA_Carmack) / X
+https://x.com/ID_AA_Carmack
+
+ice1000.org/resume.html
+https://ice1000.org/resume.html
+
+ice1000/resume: :space_invader: My resume / 我的简历
+https://github.com/ice1000/resume
+
+matchy233/typst-chi-cv-template: 😍 Rip-off of rip-off of skyzh's CV, using typst
+https://github.com/matchy233/typst-chi-cv-template
+
+matchy233/chi-cv-template: 🤩 Rip-off of skyzh's CV
+https://github.com/matchy233/chi-cv-template/tree/main?tab=readme-ov-file
+
+cv.pdf
+https://skyzh.github.io/files/cv.pdf
+
+(3) 迟猫猫🐱 on X: "It's time to replace my LaTeX-generated resume with @typstapp 🤪 https://t.co/ZnZTy2L5Y7" / X
+https://x.com/iskyzh/status/1639139679235633153
+
+skyzh (Alex Chi Z.)
+https://github.com/skyzh
+
+(3) Nick Butcher (@crafty) / X
+https://x.com/crafty
+
+(3) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+(3) Lee Robinson (@leeerob) / X
+https://x.com/leeerob
+
+(3) 小倉唯 (@Constellation) / X
+https://x.com/Constellation/
+
+(3) rniwa.dev (@rniwa_dev) / X
+https://x.com/rniwa_dev
+
+Senior Layout & Rendering Engineer - Careers at Apple
+https://jobs.apple.com/en-us/details/200551818/senior-layout-rendering-engineer?team=SFTWR
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
