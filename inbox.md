@@ -1,5 +1,73 @@
 # 2024-8-4 0 | 0 W
 
+
+[common]
+server_addr = <您的frps服务器IP>
+server_port = <您的frps服务器端口，通常是7000>
+token = <您的认证token>
+
+# RustDesk 相关端口
+[rustdesk-21115]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 21115
+remote_port = 21115
+
+[rustdesk-21116-tcp]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 21116
+remote_port = 21116
+
+[rustdesk-21116-udp]
+type = udp
+local_ip = 127.0.0.1
+local_port = 21116
+remote_port = 21116
+
+[rustdesk-21117]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 21117
+remote_port = 21117
+
+[rustdesk-21118]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 21118
+remote_port = 21118
+
+[rustdesk-21119]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 21119
+remote_port = 21119
+
+[rustdesk-8000]
+type = tcp
+local_ip = 127.0.0.1
+local_port = 8000
+remote_port = 8000
+
+# 您之前提供的配置
+[mc]
+type = tcp
+local_ip = 192.168.10.4
+local_port = 21115
+remote_port = 21234
+
+[tv]
+type = tcp
+local_ip = 192.168.10.4
+local_port = 8080
+remote_port = 21000
+
+[ssh]
+type = tcp
+local_ip = 192.168.10.4
+local_port = 22
+remote_port = 22222
+
 ps -o pid,pmem,rss,vsz,comm -p 7878,9355,9361,418841,418848,418863,418869,418884,418892,418906,418911,418926,418931,418945,418952 | awk 'NR>1 {printf "%s %s%% %sMB %sMB %s\n", $1, $2, $3/1024, $4/1024, $5}'
 
 我理解您想要将 rustdesk-server 镜像推送到 ttl.sh 服务。ttl.sh 是一个临时的 Docker 镜像注册服务，它允许您快速分享 Docker 镜像而无需注册或认证。这是一个很好的选择，用于临时分享或测试目的。
