@@ -1,5 +1,7 @@
 # 2024-8-4 0 | 0 W
 
+rtmp://localhost:1935/live
+
 https://obsproject.com/visual-studio-2022-runtimes
 
 winget install "FFmpeg (Essentials Build)"f

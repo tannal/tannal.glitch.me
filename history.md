@@ -1,5 +1,74 @@
 # 2024-8-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+除了使用ffmpeg进行向服务器推流，还有其他可以推流的golang库么 · Issue #41 · gwuhaolin/livego
+https://github.com/gwuhaolin/livego/issues/41
+
+云产品免费体验馆_云产品免费试用_个人云产品试用-腾讯云
+https://cloud.tencent.com/act/pro/free
+
+owncast/owncast: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+https://github.com/owncast/owncast?tab=readme-ov-file
+
+OBS/Streamlabs OBS - Owncast
+https://owncast.online/docs/broadcasting/obs/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+BIG-Bench - Google 搜索
+https://www.google.com/search?q=BIG-Bench&oq=bi&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYOzIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQc0NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+open source twitch - Google 搜索
+https://www.google.com/search?q=open+source+twitch&oq=open+source+twitch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyMTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Owncast - Free and Open Source Livestreaming
+https://owncast.online/
+
+GitHub
+https://github.com/
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+New Owncast Server
+http://localhost:8080/
+
+Releases · obsproject/obs-studio
+https://github.com/obsproject/obs-studio/releases
+
+Visual Studio 2022 Runtimes | OBS
+https://obsproject.com/visual-studio-2022-runtimes
+
+tannal (tannal)
+https://github.com/tannal
+
+goproxy.cn/README.zh-CN.md at master · goproxy/goproxy.cn
+https://github.com/goproxy/goproxy.cn/blob/master/README.zh-CN.md
+
+Owncast Admin
+http://124.223.112.154:8080/admin/
+
+Video - Owncast
+https://owncast.online/docs/video/
+
+wondershaper - Google 搜索
+https://www.google.com/search?q=wondershaper&oq=wondershaper&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzAyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+WebRTC github - Google 搜索
+https://www.google.com/search?q=WebRTC+github&oq=WebRTC+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDE0MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ossrs/srs: SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
+https://github.com/ossrs/srs
+
+www.google.com
+https://www.google.com/search?q=%E4%BD%8E%E5%BB%B6%E6%97%B6%E7%9B%B4%E6%92%AD%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&oq=%E4%BD%8E%E5%BB%B6%E6%97%B6%E7%9B%B4%E6%92%AD%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUwNTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 (3) Mariko Kosaka (@kosamari) / X
 https://x.com/kosamari
 
