@@ -1,5 +1,71 @@
 # 2024-8-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rustdesk/src/lang/cn.rs at e58e75eea9df83b866726cb3ea0f32d3a1a124a1 · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/blob/e58e75eea9df83b866726cb3ea0f32d3a1a124a1/src/lang/cn.rs#L140
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases/
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases/
+
+Code search results
+https://github.com/search?q=repo%3Arustdesk%2Frustdesk%20capture_frame&type=code
+
+Heap-Hop (CSF)
+https://github.com/Heap-Hop
+
+Installation :: Documentation for RustDesk
+https://rustdesk.com/docs/en/self-host/rustdesk-server-oss/install/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+rendezvous - Google 搜索
+https://www.google.com/search?q=rendezvous&oq=rendezvous&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021?from=21780
+
+Maven打包时每次都出现Download maven-metadata.xml卡住的问题解决_51CTO博客_maven打包丢失xml文件
+https://blog.51cto.com/u_12012821/2674367
+
+maven mirror 阿里云 - Google 搜索
+https://www.google.com/search?q=maven+mirror+%E9%98%BF%E9%87%8C%E4%BA%91&sca_esv=7faf047869ba617e&sxsrf=ADLYWIIZgJbvXIOP04WQgVVi4jNKvqCNcA%3A1722758676928&ei=FDavZqKyOP_-ptQPj4Kp0AE&ved=0ahUKEwiijOOX8NqHAxV_v4kEHQ9BChoQ4dUDCBA&uact=5&oq=maven+mirror+%E9%98%BF%E9%87%8C%E4%BA%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiFm1hdmVuIG1pcnJvciDpmL_ph4zkupEyBRAAGIAEMggQABiiBBiJBUjXC1BEWPoKcAN4AJABApgByAOgAcgNqgEHMi0yLjEuMrgBA8gBAPgBAZgCBqACgwfCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAgYHpgDAIgGAZAGCpIHBzMuMC4yLjGgB4EO&sclient=gws-wiz-serp
+
+最新版本中的系统代理中的“清除系统代理”、“自动配置系统代理”、“不配置系统代理”分别代表什么意思？ · Issue #1437 · 2dust/v2rayN
+https://github.com/2dust/v2rayN/issues/1437
+
+Repository search results
+https://github.com/search?q=live+stream+room&type=repositories&s=updated&o=desc
+
+查询某个应用程序占用端口 - Google 搜索
+https://www.google.com/search?q=%E6%9F%A5%E8%AF%A2%E6%9F%90%E4%B8%AA%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3&oq=%E6%9F%A5%E8%AF%A2%E6%9F%90%E4%B8%AA%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%8D%A0%E7%94%A8%E7%AB%AF%E5%8F%A3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDUyNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Arustdesk%2Frustdesk+%E8%BF%9E%E6%8E%A5%E9%94%99%E8%AF%AF&type=code
+
+GitHub
+https://github.com/
+
+124.223.112.154
+http://124.223.112.154:8000/
+
+Repository search results
+https://github.com/search?q=video%20stream&type=repositories
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

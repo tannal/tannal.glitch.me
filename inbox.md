@@ -1,5 +1,7 @@
 # 2024-8-4 0 | 0 W
 
+git clone https://github.com/owncast/owncast
+
 Winget install -e --id Docker.DockerDesktop
 
 DockerCli.exe -SwitchDaemon
@@ -7,6 +9,7 @@ DockerCli.exe -SwitchDaemon
 DockerCli.exe -SwitchDaemon
 
 
+$env:https_proxy='http://127.0.0.1:7890'
 $env:https_proxy='http://127.0.0.1:10809'
 $env:JAVA_HOME='C:\Program Files\Microsoft\jdk-21.0.3.9-hotspot\'
 
