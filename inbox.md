@@ -1,5 +1,29 @@
 # 2024-8-4 0 | 0 W
 
+DockerCli.exe -SwitchDaemon
+
+DockerCli.exe -SwitchDaemon
+
+
+$env:https_proxy='http://127.0.0.1:10809'
+$env:JAVA_HOME='C:\Program Files\Microsoft\jdk-21.0.3.9-hotspot\'
+
+choco install rabbitmq
+
+create database blog;
+use blog;
+
+source database.sql;
+
+mysqld --initialize
+
+mysqld --console --skip-grant-tables --shared-memory 
+
+mysql -h localhost -u root -p
+
+net stop mysql
+
+
 
 [common]
 server_addr = <您的frps服务器IP>
