@@ -1,5 +1,8 @@
 # 2024-8-4 0 | 0 W
 
+.\gradlew build -Dhttp.proxyHost= -Dhttp.proxyPort=
+
+https://github.com/rustdesk/rustdesk-server/releases/
 
 ./hbbs -r 0.0.0.0
 ./hbbr
