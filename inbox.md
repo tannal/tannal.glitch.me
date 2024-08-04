@@ -1,5 +1,8 @@
 # 2024-8-4 0 | 0 W
 
+export https_proxy='http://127.0.0.1:7890'
+export NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
+
 rtmp://localhost:1935/live
 
 https://obsproject.com/visual-studio-2022-runtimes

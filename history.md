@@ -3,6 +3,39 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Selfhosted - Lack of Clear Documentation · Issue #41 · Glimesh/broadcast-box
+https://github.com/Glimesh/broadcast-box/issues/41
+
+Glimesh/broadcast-box: A broadcast, in a box.
+https://github.com/Glimesh/broadcast-box?tab=readme-ov-file#network-test-on-start
+
+Discord
+https://discord.com/invite/An5jjhNUE3
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Broadcast Box
+http://124.223.112.154:8080/abc123
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+Broadcast Box
+http://124.223.112.154:8080/abc123
+
+使用OBS推WebRTC流_视频直播(LIVE)-阿里云帮助中心
+https://help.aliyun.com/zh/live/user-guide/push-webrtc-stream-using-obs-based-on-whip-protocol
+
+Broadcast Box
+http://124.223.112.154:8080/
+
+124.223.112.154:8080/api/whip
+http://124.223.112.154:8080/api/whip
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 除了使用ffmpeg进行向服务器推流，还有其他可以推流的golang库么 · Issue #41 · gwuhaolin/livego
 https://github.com/gwuhaolin/livego/issues/41
 
