@@ -1,5 +1,7 @@
 # 2024-8-4 0 | 0 W
 
+https://obsproject.com/visual-studio-2022-runtimes
+
 winget install "FFmpeg (Essentials Build)"f
 
 git clone https://github.com/owncast/owncast
