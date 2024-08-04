@@ -1,5 +1,9 @@
 # 2024-8-4 0 | 0 W
 
+CMD ["sh", "-c", "./hbbs -r 0.0.0.0 > /dev/stdout 2>&1 & ./hbbr > /dev/stdout 2>&1 & wait"]
+
+.\gradlew build --refresh-dependencies --debug
+
 .\gradlew build -Dhttp.proxyHost= -Dhttp.proxyPort=
 
 https://github.com/rustdesk/rustdesk-server/releases/
