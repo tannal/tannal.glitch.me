@@ -1,5 +1,7 @@
 # 2024-8-4 0 | 0 W
 
+Winget install -e --id Docker.DockerDesktop
+
 DockerCli.exe -SwitchDaemon
 
 DockerCli.exe -SwitchDaemon
