@@ -1,5 +1,104 @@
 # 2024-8-4
 
+(3) Mariko Kosaka (@kosamari) / X
+https://x.com/kosamari
+
+(3) Kentaro Hara (@xharaken) / X
+https://x.com/xharaken
+
+(3) ⊨ roife : ฅ^•ﻌ•^ฅ (@roifex) / X
+https://x.com/roifex
+
+(3) ⊨ roife : ฅ^•ﻌ•^ฅ on X: "https://t.co/ReckaCE3el &gt; Original maintainer burns out, and only the attacker offers to help 😢 #xz" / X
+https://x.com/roifex/status/1774482103473975670
+
+A Microcosm of the interactions in Open Source projects
+https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/
+
+Pull request search results
+https://github.com/search?q=involves%3Aroife+&type=pullrequests&p=7
+
+resume/resume-cn.pdf at master · roife/resume
+https://github.com/roife/resume/blob/master/resume-cn.pdf
+
+(3) John Carmack (@ID_AA_Carmack) / X
+https://x.com/ID_AA_Carmack
+
+ice1000.org/resume.html
+https://ice1000.org/resume.html
+
+resume/resume-cn.pdf at master · ice1000/resume
+https://github.com/ice1000/resume/blob/master/resume-cn.pdf
+
+matchy233/typst-chi-cv-template: 😍 Rip-off of rip-off of skyzh's CV, using typst
+https://github.com/matchy233/typst-chi-cv-template
+
+matchy233/chi-cv-template: 🤩 Rip-off of skyzh's CV
+https://github.com/matchy233/chi-cv-template/tree/main?tab=readme-ov-file
+
+cv.pdf
+https://skyzh.github.io/files/cv.pdf
+
+(3) 迟猫猫🐱 on X: "It's time to replace my LaTeX-generated resume with @typstapp 🤪 https://t.co/ZnZTy2L5Y7" / X
+https://x.com/iskyzh/status/1639139679235633153
+
+skyzh (Alex Chi Z.)
+https://github.com/skyzh
+
+(3) Nick Butcher (@crafty) / X
+https://x.com/crafty
+
+(3) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+(3) Lee Robinson (@leeerob) / X
+https://x.com/leeerob
+
+(3) 小倉唯 (@Constellation) / X
+https://x.com/Constellation/
+
+Enable FTL on Windows · WebKit/WebKit@dc849c8
+https://github.com/WebKit/WebKit/commit/dc849c8a2bb93c274ed63817818bda68ba05bb7e
+
+(3) rniwa.dev (@rniwa_dev) / X
+https://x.com/rniwa_dev
+
+(3) Stephen Belovarich (@iplayitofflegit) / X
+https://x.com/iplayitofflegit
+
+Web Dev Code Laptop Sticker I'm Begging You to Stop Bundling so Much Javascript - Etsy
+https://www.etsy.com/listing/1656730484/web-dev-code-laptop-sticker-im-begging
+
+Matsuuu/custom-elements-language-server: Custom Elements Language Server provides useful language features for Web Components. Features include code actions, completions, diagnostics and more.
+https://github.com/Matsuuu/custom-elements-language-server
+
+Avoid conversion to UTF-8 in ContentSecurityPolicy::allowInlineStyle when no algorithm is specified by rniwa · Pull Request #23099 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/23099
+
+Overview of WebKit’s CSS JIT Compiler | WebKit
+https://webkit.org/blog/3271/webkit-css-selector-jit-compiler/
+
+(3) Fabio Spampinato (@fabiospampinato) / X
+https://x.com/fabiospampinato
+
+x.com/markopolojarvi/status/1753668713671475288
+https://x.com/markopolojarvi/status/1753668713671475288
+
+[webkit.RefCntblBaseVirtualDtor] Allow CRTP classes without a virtual destructor. by rniwa · Pull Request #92837 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/92837/files#diff-e95e3a94fd17d6222079984d30f6df4e69489cf3e2ce1d3c3a6765fcc386a4e9
+
+Senior Layout & Rendering Engineer - Careers at Apple
+https://jobs.apple.com/en-us/details/200551818/senior-layout-rendering-engineer?team=SFTWR
+
+(3) Andrea Righi (@arighi) / X
+https://x.com/arighi
+
+(3) David Vernet (@byte_lab) / X
+https://x.com/byte_lab
+
+x.com/bristot
+https://x.com/bristot
+
 Mariko Kosaka (@kosamari) / X
 https://x.com/kosamari
 
