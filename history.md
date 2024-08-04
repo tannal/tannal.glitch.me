@@ -1,5 +1,92 @@
 # 2024-8-4
 
+(3) Mariko Kosaka (@kosamari) / X
+https://x.com/kosamari
+
+(3) Franziska Hinkelmann, PhD on X: "If I did a live stream series building a compiler from scratch, would you tune in? https://t.co/hce94XAkkZ" / X
+https://x.com/fhinkel/status/1814080431140028437
+
+fhinkel/TreeWalkInterpreter
+https://github.com/fhinkel/TreeWalkInterpreter
+
+Introducing GitHub Models: A new generation of AI engineers building on GitHub - The GitHub Blog
+https://github.blog/news-insights/product-news/introducing-github-models/
+
+(3) Edoardo Vacchi 🌴 (@evacchi) / X
+https://x.com/evacchi
+
+(3) Nicolai Parlog 🇺🇦🕊️ (@nipafx) / X
+https://x.com/nipafx
+
+[JDK-8303099] Null-Restricted and Nullable Types (Preview) - Java Bug System
+https://bugs.openjdk.org/browse/JDK-8303099
+
+hack · tannal/Curtain@ba6b778
+https://github.com/tannal/Curtain/actions/runs/10233584368/job/28312053016#logs
+
+the greety life - Google 搜索
+https://www.google.com/search?q=the+greety+life&rlz=1C1GCEA_enCN1091CN1091&oq=the+greety+life&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBNIBCDg2OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+neoform - Google 搜索
+https://www.google.com/search?q=neoform&rlz=1C1GCEA_enCN1091CN1091&oq=neoform&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+android - Trigger a workflow manually from GitHub action - Stack Overflow
+https://stackoverflow.com/questions/74720314/trigger-a-workflow-manually-from-github-action
+
+Downloading workflow artifacts - GitHub Docs
+https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/downloading-workflow-artifacts
+
+Reverting to a specific commit based on commit id with Git? - Stack Overflow
+https://stackoverflow.com/questions/3639115/reverting-to-a-specific-commit-based-on-commit-id-with-git
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Page not found · GitHub
+https://github.com/star7th/yololive
+
+gwuhaolin/livego: live video streaming server in golang
+https://github.com/gwuhaolin/livego
+
+Terry-Mao/goim: goim
+https://github.com/Terry-Mao/goim
+
+ant-media/Ant-Media-Server: Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it can run on-premise or on-cloud.
+https://github.com/ant-media/Ant-Media-Server
+
+Open Streaming Platform / open-streaming-platform · GitLab
+https://gitlab.com/osp-group/flask-nginx-rtmp-manager
+
+Chocobozzz/PeerTube: ActivityPub-federated video streaming platform using P2P directly in your web browser
+https://github.com/Chocobozzz/PeerTube
+
+livekit/livekit: End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/livekit/livekit?tab=readme-ov-file
+
+LiveKit Meet | Conference app build with LiveKit Open Source
+https://meet.livekit.io/?tab=custom
+
+owncast/owncast: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+https://github.com/owncast/owncast
+
+(3) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+Kurento
+https://github.com/Kurento
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+open source twitch - Google 搜索
+https://www.google.com/search?q=open+source+twitch&rlz=1C1GCEA_enCN1091CN1091&oq=open+source+twitch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQxOTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+reddit.com/r/linux_gaming/comments/uylsw2/open_source_alternatives_to_twitch/
+https://www.reddit.com/r/linux_gaming/comments/uylsw2/open_source_alternatives_to_twitch/
+
+Builds - CODEX FFMPEG @ gyan.dev
+https://www.gyan.dev/ffmpeg/builds/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

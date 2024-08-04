@@ -1,5 +1,7 @@
 # 2024-8-4 0 | 0 W
 
+winget install "FFmpeg (Essentials Build)"f
+
 git clone https://github.com/owncast/owncast
 
 Winget install -e --id Docker.DockerDesktop
