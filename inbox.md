@@ -1,5 +1,38 @@
 # 2024-8-4 0 | 0 W
 
+我理解您想要将 rustdesk-server 镜像推送到 ttl.sh 服务。ttl.sh 是一个临时的 Docker 镜像注册服务，它允许您快速分享 Docker 镜像而无需注册或认证。这是一个很好的选择，用于临时分享或测试目的。
+
+要推送镜像到 ttl.sh，请按照以下步骤操作：
+
+为您的镜像创建一个唯一的标签。ttl.sh 使用镜像名称作为唯一标识符，通常包含一个随机字符串和过期时间。
+使用 docker tag 命令为您的镜像添加新标签：
+bash
+
+复制
+docker tag rustdesk-server ttl.sh/[随机名称]:[过期时间]
+例如：
+
+bash
+
+复制
+docker tag rustdesk-server ttl.sh/my-rustdesk-server-12345:1h
+这里，1h 表示镜像将在 1 小时后过期。您可以使用不同的时间单位，如 1d 表示一天，1w 表示一周。
+
+推送镜像到 ttl.sh：
+bash
+
+复制
+docker push ttl.sh/my-rustdesk-server-12345:1h
+推送完成后，Docker 会显示一个 URL，您可以使用这个 URL 来拉取镜像。
+注意事项：
+
+确保使用唯一的名称，以避免与其他用户的镜像冲突。
+记住镜像的过期时间。过期后，镜像将无法访问。
+ttl.sh 是公开的服务，不要推送包含敏感信息的镜像。
+如果您想要一个更持久的解决方案，或者需要私有存储，可以考虑使用 Docker Hub、GitHub Container Registry 或其他 Docker 镜像仓库服务。这些服务通常需要注册账户，但提供更多功能和更好的控制。
+
+您是否需要我为您解释如何使用其他 Docker 镜像仓库服务，或者您对使用 ttl.sh 还有其他问题吗？
+
 CMD ["sh", "-c", "./hbbs -r 0.0.0.0 > /dev/stdout 2>&1 & ./hbbr > /dev/stdout 2>&1 & wait"]
 
 .\gradlew build --refresh-dependencies --debug
