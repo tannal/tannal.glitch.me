@@ -1,5 +1,125 @@
 # 2024-8-4
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tencentcloud.com
+https://www.tencentcloud.com/
+
+Minecraft Forge repository
+https://maven.minecraftforge.net/
+
+ldtteam
+https://ldtteam.jfrog.io/ui/native/parchmentmc-public/
+
+Yann LeCun (@ylecun) / X
+https://x.com/ylecun
+
+cs.columbia.edu/~blei/fogm/2023F/readings.html
+https://www.cs.columbia.edu/~blei/fogm/2023F/readings.html
+
+rust-lang/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/rust-lang/rust
+
+Overview - Rust Forge
+https://forge.rust-lang.org/
+
+WebKit/Source/WebCore/style/StyleResolver.cpp at 0b6bdc8b69f7b545c1c43217cf010f76eb6976bb · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/0b6bdc8b69f7b545c1c43217cf010f76eb6976bb/Source/WebCore/style/StyleResolver.cpp#L314
+
+Commits · linebender/vello
+https://github.com/linebender/vello/commits/main/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+(270) #general > ✔ mozjs system headers - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.94.20mozjs.20system.20headers
+
+ststimac (Stephanie Stimac)
+https://github.com/ststimac
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=I%27ve%20talked%20with%20many%20people%20in%20the%20last%20few%20months%20whose%20biggest%20problems%20would%20be%20greatly%20improved%20if%20they%20read%20at%20least%2010%20books.%20%20Amazing%20creativity%20though%2C%20they%2C%20without%20input%20from%20you%20know%2C%20books%2C%20came%20up%20with%20life%27s%20biggest%20problems.&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=custom%20elements&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=readings&sort=byPopularity&type=story
+
+X
+https://x.com/axboe
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%22Running%20a%20successful%20open%20source%20project%20is%20just%20Good%20Will%20Hunting%20in%20reverse%2C%20where%20you%20start%20out%20as%20a%20respected%20genius%20and%20end%20up%20being%20a%20janitor%20who%20gets%20into%20fights.%22&op=translate
+
+#study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+Algorithm-Arena/weekly-challenge-9-dragon-ball
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball?tab=readme-ov-file
+
+thomaswright/weekly-challenge-009-dragon-ball
+https://github.com/thomaswright/weekly-challenge-009-dragon-ball
+
+Submission - Dragonball Evolution · Issue #3 · Algorithm-Arena/weekly-challenge-9-dragon-ball
+https://github.com/Algorithm-Arena/weekly-challenge-9-dragon-ball/issues/3
+
+dragonball_evolution.playcode.io
+https://dragonball_evolution.playcode.io/
+
+Dragonball Evolution
+https://playcode.io/dragonball_evolution
+
+Extra-Golems/src/main/java/com/mcmoddev/golems/network/ClientBoundGolemContainerPacket.java at master-1.20.1 · MinecraftModDevelopmentMods/Extra-Golems
+https://github.com/MinecraftModDevelopmentMods/Extra-Golems/blob/master-1.20.1/src/main/java/com/mcmoddev/golems/network/ClientBoundGolemContainerPacket.java
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+android - Difference between clean, gradlew clean - Stack Overflow
+https://stackoverflow.com/questions/34005713/difference-between-clean-gradlew-clean
+
+Gradle - Plugin: net.neoforged.moddev
+https://plugins.gradle.org/plugin/net.neoforged.moddev
+
+class 61 java - Google 搜索
+https://www.google.com/search?q=class+61+java&oq=class+61+java&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIKCAcQABiABBiiBDIICAgQABgIGB4yBggJEEUYQNIBCDM2OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+GitHub
+https://github.com/
+
+向日葵远程控制app官方下载 - 贝锐向日葵官网
+https://sunlogin.oray.com/download
+
+winget install 向日葵 - Google 搜索
+https://www.google.com/search?q=winget+install+%E5%90%91%E6%97%A5%E8%91%B5&oq=winget+install+%E5%90%91%E6%97%A5%E8%91%B5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDY3NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+RustDesk – The Open Source Remote Desktop Access Software
+https://rustdesk.com/
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+ldtteam
+https://ldtteam.jfrog.io/ui/native/parchmentmc-public/org/parchmentmc/
+
+Installation :: Documentation for RustDesk
+https://rustdesk.com/docs/en/self-host/rustdesk-server-oss/install/
+
+rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+Installation :: Documentation for RustDesk
+https://rustdesk.com/docs/en/self-host/rustdesk-server-oss/install/
+
+rustdeskinstall/install.sh at master · techahold/rustdeskinstall
+https://github.com/techahold/rustdeskinstall/blob/master/install.sh
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases/
+
 (3) Mariko Kosaka (@kosamari) / X
 https://x.com/kosamari
 

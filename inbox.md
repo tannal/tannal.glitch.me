@@ -1,5 +1,16 @@
 # 2024-8-4 0 | 0 W
 
+
+./hbbs -r 0.0.0.0
+./hbbr
+
+    Gradle Central Plugin Repository
+    maven(https://maven.parchmentmc.org)
+    maven2(https://maven.minecraftforge.net/)
+
+systemProp.https.proxyHost=127.0.0.1
+systemProp.https.proxyPort=7890
+
 Webkit applyMatchedProperties is not used 
 
 https://github.com/search?q=repo%3AWebKit%2FWebKit+applyMatchedProperties&type=code
