@@ -1,5 +1,21 @@
 
 
+1、精通DevOps、客户端Apm优化相关方法与实践；
+
+2、有良好的设计及编码能力，熟悉两门以上常见编程语言及脚本，如Go、Java、C++、PHP、nodejs等；
+
+3、本科及以上学历，三年以上软件工程和技术背景工作经验，互联网公司工作经验优先；
+
+4、了解容器化主流技术和相关平台，了解微服务架构设计和实现方法；
+
+5、解并使用过hbase,elasticsearch以及kafka,NSQ等；
+
+6、了解并使用过storm、flink、spark等数据处理框架；
+
+7、有配置管理系统、APM、打包部署系统、监控报警平台建设经验者优先；
+
+8、开源社区活跃并由贡献者优先。
+
 https://join.tencentmusic.com/campus/post-details/?id=12186&refer_code
 
 
