@@ -1,3 +1,11 @@
+# 2024-8-5 0 | 0 W
+
+pnpm install -D webpack webpack-cli webpack-dev-server html-webpack-plugin css-loader style-loader file-loader @babel/core @babel/preset-env babel-loader
+
+pnpm i yjs y-websocket quill y-quill
+
+
+
 # 2024-8-4 0 | 0 W
 
 export https_proxy='http://127.0.0.1:7890'

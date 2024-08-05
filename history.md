@@ -1,5 +1,149 @@
 # 2024-8-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+react/packages/react-dom at main · facebook/react
+https://github.com/facebook/react/tree/main/packages/react-dom
+
+Yjs demo · Issue #64 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/64
+
+esx-mem-osdi02.pdf
+https://www.waldspurger.org/carl/papers/esx-mem-osdi02.pdf
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+冒名顶替症候群 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%86%92%E5%90%8D%E9%A0%82%E6%9B%BF%E7%97%87%E5%80%99%E7%BE%A4
+
+研发如何排期 知乎 - Google 搜索
+https://www.google.com/search?q=%E7%A0%94%E5%8F%91%E5%A6%82%E4%BD%95%E6%8E%92%E6%9C%9F+%E7%9F%A5%E4%B9%8E&sca_esv=aa8f44f5ee66d697&sxsrf=ADLYWILFAPs8rrEDCneAUgvlBmQ70TJqSQ%3A1722828527605&ei=70awZqPTJJOwur8Ph4uE4AU&ved=0ahUKEwjjhpaz9NyHAxUTmO4BHYcFAVwQ4dUDCBA&uact=5&oq=%E7%A0%94%E5%8F%91%E5%A6%82%E4%BD%95%E6%8E%92%E6%9C%9F+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeeglOWPkeWmguS9leaOkuacnyDnn6XkuY4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGLADGKIEGIkFMgsQABiABBiwAxiiBEi5I1DoHFiIInABeACQAQCYAcYCoAGGDKoBBTItMS40uAEDyAEA-AEBmAIBoAIamAMAiAYBkAYFkgcBMaAHmAk&sclient=gws-wiz-serp
+
+高级运维开发工程师 — 系统运维 - 字节跳动
+https://jobs.bytedance.com/experienced/position/6704445851768457485/detail?recomId=026bde16-6921-11ee-b17b-00163e3095c5&sourceJobId=7036568538806618405
+
+字节跳动招聘
+https://jobs.bytedance.com/experienced/product
+
+c3lang repositories
+https://github.com/orgs/c3lang/repositories
+
+THE SPIDER WITHIN: A SPIDER-VERSE STORY | Official Short Film (Full) - YouTube
+https://www.youtube.com/watch?v=AFPLRIdn1pk
+
+coldplay 黃色歌词 - Google 搜索
+https://www.google.com/search?q=coldplay+%E9%BB%83%E8%89%B2%E6%AD%8C%E8%AF%8D&sca_esv=aa8f44f5ee66d697&sxsrf=ADLYWIIzv4sH2w5-Y_dcxJhZuJayF75X3w%3A1722830524750&ei=vE6wZsTBLYbckPIPwP2MgAo&ved=2ahUKEwjm7Zrt-9yHAxWTHkQIHcl0CE0QjukCegQIJBAC&uact=5&si=ACC90nzcg09uT9dLCxMVYtMO0-0pjgQ_JR12fuxEIIyv63Ip94qTV1AYapsQRC_0ZtNEAZqpNSb2ZwSzD95eDOxNng_kCcRIdVbJbCkdDha5whao0jbhLOP2qtPVKrhLl3wyJ56WyygNeVQKQ3T_6oNZBmUqPx0hvA%3D%3D&ictx=1
+
+黑人音乐 - Google 搜索
+https://www.google.com/search?q=%E9%BB%91%E4%BA%BA%E9%9F%B3%E4%B9%90&oq=%E9%BB%91%E4%BA%BA%E9%9F%B3%E4%B9%90&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI5OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Ansible self host - Google 搜索
+https://www.google.com/search?q=Ansible+self+host&sca_esv=45c9c91d6ff58283&sxsrf=ADLYWIIkarPBZHuSqPLL-FI_2E2f2nOFgA%3A1722834352178&ei=sF2wZtHFCsrfkPIP7ZWwkAQ&ved=0ahUKEwjR3cWMit2HAxXKL0QIHe0KDEIQ4dUDCBA&uact=5&oq=Ansible+self+host&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUFuc2libGUgc2VsZiBob3N0MggQABiABBjLATIEEAAYHjIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGAgYChgeMgYQABgIGB4yCBAAGIAEGKIESIkLUABYgApwAHgBkAEAmAGCBKABrROqAQkyLTIuNC4wLjG4AQPIAQD4AQGYAgegAvwTwgIGEAAYHhgPwgIGEAAYBRgemAMAkgcHMi0xLjQuMqAHzhg&sclient=gws-wiz-serp
+
+ECMAScript & New Features - Professional JS: Features You Need to Know
+https://frontendmasters.com/courses/pro-js-features/ecmascript-new-features/
+
+slides
+https://firtman.github.io/projs/slides.pdf
+
+Ask HN: How to find remote internship/junior role as a student | Hacker News
+https://news.ycombinator.com/item?id=24430942
+
+Email Checker - Verify Email Address Online
+https://email-checker.net/
+
+Yjs demo · Issue #64 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/64
+
+prometheus/prometheus: The Prometheus monitoring system and time series database.
+https://github.com/prometheus/prometheus
+
+grafana/contribute/developer-guide.md at 8c43b9ec2fed285940fc1e4a6cb636bd6e22edf0 · grafana/grafana
+https://github.com/grafana/grafana/blob/HEAD/contribute/developer-guide.md
+
+SheetJS/sheetjs: 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
+https://github.com/SheetJS/sheetjs
+
+sheetjs/sheetjs: 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit - sheetjs - SheetJS
+https://git.sheetjs.com/SheetJS/sheetjs
+
+努力努力再努力！
+https://www.cnblogs.com/Soy-technology/p/16357860.html
+
+squid-cache/squid: Squid Web Proxy Cache
+https://github.com/squid-cache/squid
+
+squid : Optimising Web Delivery
+https://www.squid-cache.org/
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+js-workspace/packages 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/packages
+
+Yjs Quill Example
+http://localhost:9000/
+
+tannal/yjs-demos - yjs-demos - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/yjs-demos
+
+Scale & Ship Faster with a Composable Web Architecture | Netlify
+https://www.netlify.com/
+
+Vercel: Build and deploy the best web experiences with the Frontend Cloud
+https://vercel.com/
+
+identity-obj-proxy - npm
+https://www.npmjs.com/package/identity-obj-proxy
+
+Storybook
+http://localhost:6006/?path=/story/example-button--primary
+
+AFFiNE/packages/frontend/core/src/pages/onboarding.tsx at 51ca7657d88385eb3c20370d66324d89115dbfb1 · toeverything/AFFiNE
+https://github.com/toeverything/AFFiNE/blob/51ca7657d88385eb3c20370d66324d89115dbfb1/packages/frontend/core/src/pages/onboarding.tsx#L4
+
+Example / Button - Primary ⋅ Storybook
+http://localhost:6006/?path=/story/example-button--primary
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
+Example / Button - Docs ⋅ Storybook
+http://localhost:6006/?path=/docs/example-button--docs
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
