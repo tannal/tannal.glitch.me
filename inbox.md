@@ -1,5 +1,6 @@
 # 2024-8-5 0 | 0 W
 
+typst compile --font-path .\assets\fonts\
 
 pnpm store prune
 pnpm -r exec -- rm -rf node_modules

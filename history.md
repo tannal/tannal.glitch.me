@@ -1,5 +1,89 @@
 # 2024-8-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+typst/crates/typst/src/text/mod.rs at 810491c9d31b614a435020f888fbd380e8e039a1 · typst/typst
+https://github.com/typst/typst/blob/810491c9d31b614a435020f888fbd380e8e039a1/crates/typst/src/text/mod.rs#L137
+
+roife/resume: My resume
+https://github.com/roife/resume/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+ECMAScript & New Features - Professional JS: Features You Need to Know
+https://frontendmasters.com/courses/pro-js-features/ecmascript-new-features/
+
+slides
+https://firtman.github.io/projs/slides.pdf
+
+tannal/yjs-demos - yjs-demos - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/yjs-demos
+
+How to clear/clean `.pnpm-store` cache · pnpm · Discussion #4413
+https://github.com/orgs/pnpm/discussions/4413
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?tab=repositories
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Introduction - Machine Learning in JavaScript with TensorFlow.js
+https://frontendmasters.com/courses/tensorflow-js/introduction/
+
+Project 1: Image classification with a pre-trained model
+https://fem-ml-workshop.netlify.app/docs/project-1
+
+Repository search results
+https://github.com/search?q=cms+language%3Arust&type=repositories
+
+容易疲劳 - Google 搜索
+https://www.google.com/search?q=%E5%AE%B9%E6%98%93%E7%96%B2%E5%8A%B3&oq=%E5%AE%B9%E6%98%93%E7%96%B2%E5%8A%B3&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDk2MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+慢性疲劳综合征 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%85%A2%E6%80%A7%E7%96%B2%E5%8B%9E%E7%97%87%E5%80%99%E7%BE%A4
+
+新冠后遗症 - Google 搜索
+https://www.google.com/search?q=%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87&sca_esv=ce2bee5ef594bfe7&sxsrf=ADLYWIJ-ZBDU1Ckic5-v2q5n5X-bUDd5gw%3A1722867342410&ei=jt6wZsnWGObu0PEP2ay_8Aw&ved=0ahUKEwjJ1cH_hN6HAxVmNzQIHVnWD84Q4dUDCBA&uact=5&oq=%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-aWsOWGoOWQjumBl-eXhzIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEjCJFDuG1i3I3ABeACQAQCYAfADoAHWCqoBBzItMi4xLjG4AQPIAQD4AQGYAgWgApcLwgIIEAAYgAQYsAPCAgsQABiABBiwAxjLAcICFxAuGIAEGLADGMcBGMgDGMsBGK8B2AEBwgIUEC4YgAQYsAMYxwEYyAMYrwHYAQHCAhQQLhiABBiwAxjRAxjHARjIA9gBAcICBRAAGIAEmAMAiAYBkAYMugYECAEYCJIHCTEuMC4yLjEuMaAHsww&sclient=gws-wiz-serp
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Re: [nodejs/node] Maglev on x64 causes segmentation fault while running TypeScript (Issue #52797) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzGxTFTsFhWDpmXmkplPvbDnkzMT
+
+ice1000/resume: :space_invader: My resume / 我的简历
+https://github.com/ice1000/resume
+
+matchy233/typst-chi-cv-template: 😍 Rip-off of rip-off of skyzh's CV, using typst
+https://github.com/matchy233/typst-chi-cv-template?tab=readme-ov-file
+
+tannal/cv - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv
+
+Neon Serverless Postgres — Ship faster
+https://neon.tech/
+
+Manrope 字体找不到 - Google 搜索
+https://www.google.com/search?q=Manrope+%E5%AD%97%E4%BD%93%E6%89%BE%E4%B8%8D%E5%88%B0&sca_esv=ce2bee5ef594bfe7&sxsrf=ADLYWIKp6N8JSOiSO_tCDe11ovk3XdXu5A%3A1722869675849&ei=q-ewZvvFM-6s0PEPup6ukAQ&ved=0ahUKEwi7x5fYjd6HAxVuFjQIHTqPC0IQ4dUDCBA&uact=5&oq=Manrope+%E5%AD%97%E4%BD%93%E6%89%BE%E4%B8%8D%E5%88%B0&gs_lp=Egxnd3Mtd2l6LXNlcnAiF01hbnJvcGUg5a2X5L2T5om-5LiN5YiwMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEitnAFQun9YopsBcAF4AZABAJgB4wSgAZAYqgEJMi0xLjMuMC4zuAEDyAEA-AEC-AEBmAIFoAKxDMICChAAGLADGNYEGEfCAggQABiABBjLAcICBRAAGIAEwgIHEAAYgAQYDJgDAIgGAZAGCpIHCTEuMC4xLjIuMaAHvw0&sclient=gws-wiz-serp
+
+Discussion search results
+https://github.com/search?q=Manrope+&type=discussions
+
+快手全称 - Google 搜索
+https://www.google.com/search?q=%E5%BF%AB%E6%89%8B%E5%85%A8%E7%A7%B0&oq=%E5%BF%AB%E6%89%8B%E5%85%A8%E7%A7%B0&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGKIEGIkFMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEIMzg2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
