@@ -1,5 +1,14 @@
 # 2024-8-5 0 | 0 W
 
+
+pnpm store prune
+
+
+
+pnpm -r exec -- rm -rf node_modules
+rm pnpm-lock.yaml
+pnpm install
+
 pnpm install -D webpack webpack-cli webpack-dev-server html-webpack-plugin css-loader style-loader file-loader @babel/core @babel/preset-env babel-loader
 
 pnpm i yjs y-websocket quill y-quill
