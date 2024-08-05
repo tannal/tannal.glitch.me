@@ -2,9 +2,6 @@
 
 
 pnpm store prune
-
-
-
 pnpm -r exec -- rm -rf node_modules
 rm pnpm-lock.yaml
 pnpm install
