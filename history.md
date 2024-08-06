@@ -1,3 +1,89 @@
+# 2024-8-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+require(esm) in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
+
+resume/fonts at master · roife/resume
+https://github.com/roife/resume/tree/master/fonts
+
+resume/chicv.typ at master · roife/resume
+https://github.com/roife/resume/blob/master/chicv.typ
+
+How do I use Maven through a proxy? - Stack Overflow
+https://stackoverflow.com/questions/1251192/how-do-i-use-maven-through-a-proxy
+
+tannal/ink - ink - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/ink/src/branch/main
+
+Piper - Google 搜索
+https://www.google.com/search?q=Piper&oq=Piper&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Monorepo - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Monorepo
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+GitHub
+https://github.com/
+
+清自在_百度百科
+https://baike.baidu.com/item/%E6%B8%85%E8%87%AA%E5%9C%A8/1084897
+
+useState – React
+https://react.dev/reference/react/useState
+
+tannal/ink - ink - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/ink
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal?tab=activity
+
+tannal/ink - ink - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/ink/src/branch/main
+
+tannal/ebpf - ebpf - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/ebpf
+
+AIOps在美团的探索与实践——故障发现篇 - 美团技术团队
+https://tech.meituan.com/2020/10/15/mt-aiops-horae.html
+
+motioncss Cannot find name 'EmotionCache'. - Google 搜索
+https://www.google.com/search?q=motioncss+Cannot+find+name+%27EmotionCache%27.&oq=motioncss+Cannot+find+name+%27EmotionCache%27.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEIMjEzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+emotion - npm
+https://www.npmjs.com/package/emotion
+
+javascript - How to avoid vite build deleting inside of "dist" directory? - Stack Overflow
+https://stackoverflow.com/questions/70995121/how-to-avoid-vite-build-deleting-inside-of-dist-directory
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+localhost:5173
+http://localhost:5173/
+
+Compilation failed, missing a header file? · Issue #266 · libbpf/libbpf-bootstrap
+https://github.com/libbpf/libbpf-bootstrap/issues/266
+
+XC0703/better-chat: 本项目是一个前端基于vite、react、ts，后端基于express、mysql，并依赖websocket、webrtc实现的局域网实时聊天全栈项目，且持续开源和维护。
+https://github.com/XC0703/better-chat
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
 # 2024-8-5
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
