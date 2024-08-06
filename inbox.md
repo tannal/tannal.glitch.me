@@ -1,6 +1,6 @@
 # 2024-8-6 0 | 0 W
 
-
+typst watch --font-path .\assets\fonts\
 
 # 2024-8-5 0 | 0 W
 
@@ -10,6 +10,7 @@ typst compile --font-path .\assets\fonts\
 
 pnpm store prune
 pnpm -r exec -- rm -rf node_modules
+pnpm -r exec -- rm -rf dist
 rm pnpm-lock.yaml
 pnpm install
 

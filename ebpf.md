@@ -18,6 +18,8 @@ David Miller
 
 git clone https://github.com/libbpf/libbpf-bootstrap.git
 
+git submodule update --init --recursive
+
 sudo stackcount-bpfcc -p 7375 -i 2 --debug "*update_process_times*"
 sudo stackcount-bpfcc -p 7375 -i 2 --debug "*tick_sched_handle*"
 
