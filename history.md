@@ -1,5 +1,35 @@
 # 2024-8-6
 
+Resources
+https://tutflix.org/resources/
+
+The Ultimate Web Scraping Course By Adrian Horning - TutFlix - Free Education Community
+https://tutflix.org/resources/the-ultimate-web-scraping-course-by-adrian-horning.10921/
+
+Ultimate Web Scrapping Course By Adrian horning | Linkvertise
+https://linkvertise.com/238030/ultimate-web-scrapping?o=sharing
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+classnames - npm
+https://www.npmjs.com/package/classnames
+
+(2) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+freedom-introvert (自由的内向者)
+https://github.com/freedom-introvert
+
+会开源吗？ · Issue #13 · kwai/KwaiYii
+https://github.com/kwai/KwaiYii/issues/13
+
+(13) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Converting ASCII strings to lower case at crazy speeds with AVX-512 – Daniel Lemire's blog
+https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/?fbclid=IwY2xjawEe94xleHRuA2FlbQIxMAABHTF01Rc9n-Kz2eH1vdJxvONTXFG_22Mk5FisQ2nlTTvh9aEPKkGcwj2_4g_aem_G2X724omqYEkFFsQG0oV1w
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
