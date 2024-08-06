@@ -1,5 +1,101 @@
 # 2024-8-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+github.com
+https://github.com/tannal/actions/actions/runs/10269261509
+
+React Drawer - Fluent 2 Design System
+https://fluent2.microsoft.design/components/web/react/drawer/usage
+
+Codespaces
+https://github.com/codespaces
+
+Choose an Enterprise plan
+https://github.com/account/enterprises/new
+
+Billing
+https://github.com/settings/billing/summary
+
+actions/download-artifact
+https://github.com/actions/download-artifact
+
+宋宝华 - Google 搜索
+https://www.google.com/search?q=%E5%AE%8B%E5%AE%9D%E5%8D%8E&oq=%E5%AE%8B%E5%AE%9D%E5%8D%8E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBBzE5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Poe
+https://poe.com/
+
+How to Setup Jest on Typescript Monorepo Projects - DEV Community
+https://dev.to/mikhaelesa/how-to-setup-jest-on-typescript-monorepo-projects-o4d
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jest%20monorepo&sort=byPopularity&type=story
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+空调睡眠模式_百度百科
+https://baike.baidu.com/item/%E7%A9%BA%E8%B0%83%E7%9D%A1%E7%9C%A0%E6%A8%A1%E5%BC%8F/7077239
+
+Button - Small ⋅ Storybook
+http://localhost:6006/?path=/story/button--small&globals=backgrounds.value:!hex(F8F8F8);viewport:tablet;measureEnabled:!true
+
+github download artifact manually - Google 搜索
+https://www.google.com/search?q=github+download+artifact+manually&oq=github+download+artifact+manually&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRhA0gEJMTc5ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Changing the machine type for your codespace - GitHub Docs
+https://docs.github.com/en/codespaces/customizing-your-codespace/changing-the-machine-type-for-your-codespace
+
+感觉云端开发会是未来的趋势 - V2EX
+https://v2ex.com/t/1062738
+
+V2EX › YsHaNg
+https://v2ex.com/member/YsHaNg
+
+Unable to change machine type · community · Discussion #7087
+https://github.com/orgs/community/discussions/7087
+
+I have a Github Student Package account. I can only access 2 core and 4 core machines on my Codespaces screen. Why can't I access other machines? @tanmayeekamath . I want to use other machines too - Google 搜索
+https://www.google.com/search?q=I+have+a+Github+Student+Package+account.+I+can+only+access+2+core+and+4+core+machines+on+my+Codespaces+screen.+Why+can%27t+I+access+other+machines%3F+%40tanmayeekamath+.+I+want+to+use+other+machines+too&oq=I+have+a+Github+Student+Package+account.+I+can+only+access+2+core+and+4+core+machines+on+my+Codespaces+screen.+Why+can%27t+I+access+other+machines%3F+%40tanmayeekamath+.+I+want+to+use+other+machines+too&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Unable to change machine type · community · Discussion #7087
+https://github.com/orgs/community/discussions/7087
+
+Machine Specs · community · Discussion #52408
+https://github.com/orgs/community/discussions/52408
+
+localhost:5173
+http://localhost:5173/
+
+<StrictMode> – React
+https://react.dev/reference/react/StrictMode
+
+dom contains - Google 搜索
+https://www.google.com/search?q=dom+contains&oq=dom+contains&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1NDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+console.js:288 Warning: findDOMNode is deprecated in StrictMode. findDOMNode was passed an instance of t which is inside StrictMode. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: - Google 搜索
+https://www.google.com/search?q=console.js%3A288+Warning%3A+findDOMNode+is+deprecated+in+StrictMode.+findDOMNode+was+passed+an+instance+of+t+which+is+inside+StrictMode.+Instead%2C+add+a+ref+directly+to+the+element+you+want+to+reference.+Learn+more+about+using+refs+safely+here%3A&oq=console.js%3A288+Warning%3A+findDOMNode+is+deprecated+in+StrictMode.+findDOMNode+was+passed+an+instance+of+t+which+is+inside+StrictMode.+Instead%2C+add+a+ref+directly+to+the+element+you+want+to+reference.+Learn+more+about+using+refs+safely+here%3A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+react-transition-group findDOMNode - Google 搜索
+https://www.google.com/search?q=react-transition-group+findDOMNode&oq=react-transition-group+findDOMNode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMggIAhAAGBMYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDI3NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+react-window findDOMNode - Google 搜索
+https://www.google.com/search?q=react-window+findDOMNode&oq=react-window+findDOMNode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyNDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+react-transition-group - npm
+https://www.npmjs.com/package/react-transition-group
+
+reactjs/react-transition-group: An easy way to perform animations when a React component enters or leaves the DOM
+https://github.com/reactjs/react-transition-group?tab=readme-ov-file
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+localhost:5173
+http://localhost:5173/
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
