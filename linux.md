@@ -1,4 +1,11 @@
 
+# inbox
+
+https://lore.kernel.org/lkml/?q=smuchun
+https://lore.kernel.org/lkml/?q=smuchun
+
+
+
 # people
 
 involves:torvalds
