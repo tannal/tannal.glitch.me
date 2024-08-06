@@ -1,5 +1,7 @@
 # 2024-8-6 0 | 0 W
 
+pnpm install --reporter append-only
+
 宋宝华
 
 typst watch --font-path .\assets\fonts\
