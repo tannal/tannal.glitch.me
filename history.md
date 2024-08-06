@@ -1,5 +1,95 @@
 # 2024-8-6
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+第二节：业务工程模板定制
+https://www.yuque.com/mercyblitz/java-training-camp/yg1czo
+
+feat(core): support user defined metadata for oss by meteorgan · Pull Request #4881 · apache/opendal
+https://github.com/apache/opendal/pull/4881
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+if “normal” job interviews were like coding interviews - YouTube
+https://www.youtube.com/watch?v=bn_KRzohcAo
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+first commit · tannal/actions@a0e893e
+https://github.com/tannal/actions/actions/runs/10266886479/job/28406182119
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=if%20%E2%80%9Cnormal%E2%80%9D%20job%20interviews%20were%20like%20coding%20interviews&sort=byPopularity&type=story
+
+Claude 3.5 Sonnet | Hacker News
+https://news.ycombinator.com/item?id=40738916
+
+Ask HN: Junior dev and I don't want to compete in this job market. Any advice? | Hacker News
+https://news.ycombinator.com/item?id=41125070
+
+Panic! at the Tech Job Market
+https://matt.sh/panic-at-the-job-market
+
+onvideo快手云剪-快手官方在线视频创作平台
+https://onvideo.kuaishou.com/v2/profile?sid=kuaishou.onvideo.share&callback=https%3A%2F%2Fonvideoapi.kuaishou.com%2Frest%2Finfra%2Fsts%3FfollowUrl%3Dhttps%253A%252F%252Fonvideo.kuaishou.com%252F
+
+omni-clip
+https://omniclip.app/
+
+omni-media/omniclip: Open source video editing web application
+https://github.com/omni-media/omniclip
+
+fabric - npm
+https://www.npmjs.com/package/fabric
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Why%20would%20interest%20rates%20cause%20jobs%20to%20go%20away%3F%20Remember%20an%20interest%20rate%20is%20essentially%20%E2%80%9Cthe%20price%20of%20money%E2%80%9D%20%E2%80%94%20a%20higher%20interest%20rate%20means%20money%20is%20more%20expensive%20itself.%20Also%20with%20higher%20interest%20rates%2C%20organizations%20with%20millions%20and%20billions%20of%20cash%20sitting%20idle%20can%20park%20their%20money%20in%20safe%20government-backed%20interest%20accounts2%20to%20grow%20their%20balances%20risk-free%20instead%20of%20taking%20on%20risk%20assets%20seeking%20outsized%20returns.%0A%0AWhat%20counts%20as%20risk%20assets%20avoided%20during%20high%20interest%20rate%20periods%3F%20Well%2C%20funding%20companies%20with%20uncertain%20futures%20is%20a%20pretty%20risky%20asset.%20So%2C%20at%20times%20of%20high%20interest%20rates%2C%20the%20weaker%20companies%20collapse%2C%20strong%20companies%20use%20high%20interest%20rates%20as%20an%20excuse%20to%20%E2%80%9Cclean%20house%E2%80%9D%20every%2010%20years%2C%20then%20a%20couple%20hundred%20thousand%20previously%20high%20compensation%20workers%20discover%20there%20are%20no%20jobs%20for%20anybody%20anymore%20over%20the%20next%202-4%20years.&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ladybird&sort=byPopularity&type=story
+
+ladybird/Documentation/BuildInstructionsLadybird.md at master · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/BuildInstructionsLadybird.md
+
+(284) #general > Taffy and Servo layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Taffy.20and.20Servo.20layout
+
+Upcoming Servo issue triage meeting on August 19 2024 · Issue #98 · servo/project
+https://github.com/servo/project/issues/98
+
+canvas - npm
+https://www.npmjs.com/package/canvas
+
+[Feature] Verbose mode for debug · Issue #179 · pnpm/pnpm
+https://github.com/pnpm/pnpm/issues/179
+
+Dreamtowards/Ethertum: A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.
+https://github.com/Dreamtowards/Ethertum
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=raph%20levien&sort=byPopularity&type=story
+
+(1133) #new members > Andreas Gorges - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members/topic/Andreas.20Gorges
+
+| Homepage for the Linebender organization
+https://linebender.org/blog/
+
+Post-July Linebender roadmap - Linebender
+https://linebender.org/wiki/long-term-roadmap/
+
+DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU
+https://github.com/DioxusLabs/blitz?tab=readme-ov-file
+
+(18) Discord | #dev-core | Deno
+https://discord.com/channels/684898665143206084/778060818046386176
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=raph%20levien&sort=byPopularity&type=story
+
 Resources
 https://tutflix.org/resources/
 
