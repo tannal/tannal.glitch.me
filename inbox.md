@@ -1,5 +1,7 @@
 # 2024-8-5 0 | 0 W
 
+set MAVEN_OPTS="-DsocksProxyHost=127.0.0.1 -DsocksProxyPort=7890"
+$env:MAVEN_OPTS="-DsocksProxyHost=127.0.0.1 -DsocksProxyPort=7890"
 typst compile --font-path .\assets\fonts\
 
 pnpm store prune
