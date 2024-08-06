@@ -3,6 +3,51 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+smuchun - search results
+https://lore.kernel.org/lkml/?q=smuchun
+
+Project List - Patchwork
+https://patchwork.kernel.org/
+
+Feature request: import module from common directory · Issue #764 · typst/typst
+https://github.com/typst/typst/issues/764
+
+字节产品线快速延伸的十年：STE内核的守护者 - LinuxPack
+https://www.linuxpack.net/2696.html
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+宋牧春 字节跳动 - Google 搜索
+https://www.google.com/search?q=%E5%AE%8B%E7%89%A7%E6%98%A5+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8&oq=%E5%AE%8B%E7%89%A7%E6%98%A5+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDMxMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+总是选择难的那条路-CSDN博客
+https://blog.csdn.net/21cnbao/article/details/118077785
+
+围绕HugeTLB的极致优化
+https://mp.weixin.qq.com/s?__biz=Mzg2OTc0ODAzMw==&mid=2247502699&idx=1&sn=595089e64e8fc6a910bfbe0cb398db49&source=41#wechat_redirect
+
+宋宝华-CSDN博客
+https://blog.csdn.net/21cnbao?type=blog
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+字节跳动data系统部门面经_牛客网
+https://www.nowcoder.com/discuss/353157614819287040
+
+Linux阅码场专栏-面包芯语-电子工程专辑
+https://www.eet-china.com/mp/u3946005
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Daniel%20Lemire&sort=byPopularity&type=story
+
+Scan HTML even faster with SIMD instructions (C++ and C#) – Daniel Lemire's blog
+https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Working at Igalia | Igalia - Open Source Consultancy and Development
 https://www.igalia.com/jobs/open/
 
