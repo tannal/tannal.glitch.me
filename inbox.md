@@ -1,5 +1,7 @@
 # 2024-8-7 0 | 0 W
 
+jcmd 7536 VM.native_memory
+
 国外孵化器和风险投资公司：
 
 Y Combinator (美国)
