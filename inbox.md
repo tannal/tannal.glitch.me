@@ -1,8 +1,18 @@
 # 2024-8-7 0 | 0 W
 
+adb connect 192.168.69.28:5555
+
+adb
+https://developer.android.com/tools/releases/platform-tools?hl=zh-cn
+
+https://android.googlesource.com/platform/tools/adt/idea/
+
+
 $env:https_proxy='http://192.168.69.138:7890'
 
-cargo install --git https://github.com/zed-industries/zed --locked
+cargo install --git https://github.com/zed-industries/zed --locked zed
+
+https://github.com/helix-editor/helix
 
 helix
 https://github.com/zed-industries/zed

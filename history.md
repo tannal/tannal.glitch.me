@@ -1,5 +1,113 @@
 # 2024-8-7
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+yjs/y-indexeddb: IndexedDB database adapter for Yjs
+https://github.com/yjs/y-indexeddb
+
+y-crdt/yrs/README.md at 04d82e86fec64cce0d363c2b93dd1310de05b9a1 · y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/blob/04d82e86fec64cce0d363c2b93dd1310de05b9a1/yrs/README.md?plain=1#L11
+
+Releases · helix-editor/helix
+https://github.com/helix-editor/helix/releases
+
+Releases · zed-industries/zed
+https://github.com/zed-industries/zed/releases
+
+"android studio"的搜索结果  |  Android Open Source Project
+https://source.android.com/s/results/?q=android%20studio&hl=zh-cn&text=android%20studio
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed?tab=readme-ov-file
+
+facebook/react: The library for web and native user interfaces.
+https://github.com/facebook/react/tree/main
+
+Bringing garbage collected programming languages efficiently to WebAssembly | Hacker News
+https://news.ycombinator.com/item?id=38125348
+
+Dylan Schiemann on the Evolution of Dojo, Web Components and Emerging Trends in Web Development - InfoQ
+https://www.infoq.com/podcasts/dojo-web-components-web-assembly/
+
+Introducing the WebAssembly JavaScript Promise Integration API · V8
+https://v8.dev/blog/jspi
+
+node/test/es-module/test-esm-dynamic-import.js at a4f609faf5a7fd42a3886e1273fe2af6ad5cb84d · nodejs/node
+https://github.com/nodejs/node/blob/a4f609faf5a7fd42a3886e1273fe2af6ad5cb84d/test/es-module/test-esm-dynamic-import.js#L59
+
+edge-runtime/crates/node/polyfills/internal/errors.ts at 3f7863ba4b2f3b838934979cfb6fe2b0e7d6db3e · supabase/edge-runtime
+https://github.com/supabase/edge-runtime/blob/3f7863ba4b2f3b838934979cfb6fe2b0e7d6db3e/crates/node/polyfills/internal/errors.ts#L2112
+
+EmNudge/watlings: Learn WebAssembly by writing small programs!
+https://github.com/EmNudge/watlings?tab=readme-ov-file
+
+探索 - Codeberg.org
+https://codeberg.org/explore/repos
+
+Go! -- the non-Google programming language by Keith Clark and Francis McCabe. | Hacker News
+https://news.ycombinator.com/item?id=935674
+
+Commits · v8/v8
+https://github.com/v8/v8/commits?author=thibaudmichaud&since=2024-07-31&until=2024-08-07
+
+SPY (Ilya Rezvov)
+https://github.com/SPY
+
+brendandahl (Brendan Dahl)
+https://github.com/brendandahl
+
+js-workspace/src 位于 main - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace/src/branch/main/packages/ssr-react/src
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno/
+
+Helix: A Neovim inspired editor, written in Rust | Hacker News
+https://news.ycombinator.com/item?id=33147270
+
+Issues · helix-editor/helix
+https://github.com/helix-editor/helix/issues
+
+https://www.google.com/sorry/index
+https://www.google.com/sorry/index
+
+jetbrains rewrite in rust - Google 搜索
+https://www.google.com/search?q=jetbrains+rewrite+in+rust&oq=jetbrains+rewrite+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU5MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jetbrain%20rust&sort=byPopularity&type=story
+
+Is android studio an open source project? - Stack Overflow
+https://stackoverflow.com/questions/22420726/is-android-studio-an-open-source-project
+
+platform/tools/adt/idea - Git at Google
+https://android.googlesource.com/platform/tools/adt/idea/
+
+Rust official IDE - community - The Rust Programming Language Forum
+https://users.rust-lang.org/t/rust-official-ide/103656
+
+Yjs Quill Example
+http://192.168.69.62:8081/
+
+y-crdt/ywasm at main · y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/tree/main/ywasm
+
+SDK 平台工具版本说明  |  Android Studio  |  Android Developers
+https://developer.android.com/tools/releases/platform-tools?hl=zh-cn
+
+miss-mumu/developer2gwy: 公务员从入门到上岸，最佳程序员公考实践教程
+https://github.com/miss-mumu/developer2gwy
+
+Cloudberry Database | Cloudberry Database
+https://cloudberrydb.org/contribute/git
+
+cloudberrydb/cloudberrydb: Cloudberry Database - Open source alternative to Greenplum Database. Created by the original Greenplum developers.
+https://github.com/cloudberrydb/cloudberrydb
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cloudberrydb&sort=byPopularity&type=story
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
