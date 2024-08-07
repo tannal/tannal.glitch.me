@@ -3,6 +3,47 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Google
+https://www.google.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+YouTube
+https://www.youtube.com/
+
+hmcl 启动器 github - Search
+https://cn.bing.com/search?q=hmcl+%E5%90%AF%E5%8A%A8%E5%99%A8+github&form=QBLHCN&sp=-1&lq=0&pq=hmcl+%E5%90%AF%E5%8A%A8%E5%99%A8+github&sc=1-15&qs=n&sk=&cvid=465EBD40251B4007A4436818AE79A120&ghsh=0&ghacc=0&ghpl=
+
+HMCL/HMCLCore/src/main/java/org/jackhuang/hmcl/util/Log4jLevel.java at 47cc9ebe2bbd86691bf2376ef665e01c10f97fda · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/blob/47cc9ebe2bbd86691bf2376ef665e01c10f97fda/HMCLCore/src/main/java/org/jackhuang/hmcl/util/Log4jLevel.java#L41
+
+git.tanmeng.org
+http://git.tanmeng.org/tannal
+
+Poe
+https://poe.com/
+
+how to set log level in java when run jar file - Google 搜索
+https://www.google.com/search?q=how+to+set+log+level+in+java+when+run+jar+file&sca_esv=c1c83ae130d39436&sxsrf=ADLYWILzvXkI5wpKrsfvXZwQoFGCn7Gprg%3A1723009661608&ei=fQqzZvXpJMKe4-EPwIWFyAY&ved=0ahUKEwi1nMyWl-KHAxVCzzgGHcBCAWkQ4dUDCBA&uact=5&oq=how+to+set+log+level+in+java+when+run+jar+file&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmhvdyB0byBzZXQgbG9nIGxldmVsIGluIGphdmEgd2hlbiBydW4gamFyIGZpbGUyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIvSRQfFjhI3ABeACQAQCYAfYEoAH2BKoBAzUtMbgBA8gBAPgBAZgCAaACEJgDAIgGAZAGCpIHATGgB5EG&sclient=gws-wiz-serp
+
+log4j change log level environment variable - Google 搜索
+https://www.google.com/search?q=log4j+change+log+level+environment+variable&sca_esv=c1c83ae130d39436&sxsrf=ADLYWIKFHppslDi2ZKMyMjG_QmIlo0M4iw%3A1723009755785&ei=2wqzZt_LL_TCjuMP06_HwQE&oq=Log4jLevel+change+log+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkxvZzRqTGV2ZWwgY2hhbmdlIGxvZyAqAggDMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABgIGA0YHkj1K1CxBFjvIXAGeAGQAQKYAdsJoAHlMKoBCzMtMS41LjEuMi4xuAEDyAEA-AEBmAIOoAKZJMICChAAGLADGNYEGEfCAggQABiABBiiBMICBxAhGKABGAqYAwDiAwUSATEgQIgGAZAGCpIHCTYuNC01LjEuMqAH1ig&sclient=gws-wiz-serp
+
+frp/server/control.go at 2dcdb24cc4a0792a5e75527d43ccb8fd2e40da92 · fatedier/frp
+https://github.com/fatedier/frp/blob/2dcdb24cc4a0792a5e75527d43ccb8fd2e40da92/server/control.go#L299
+
+linux 时间同步 - Google 搜索
+https://www.google.com/search?q=linux+%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5&sca_esv=c1c83ae130d39436&sxsrf=ADLYWIImnaxqd5CYNmZ1i1-di_13YkePvA%3A1723012511590&ei=nxWzZrnYI6Gv4-EPxYfOsQQ&ved=0ahUKEwj5o8nloeKHAxWh1zgGHcWDM0YQ4dUDCBA&uact=5&oq=linux+%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmxpbnV4IOaXtumXtOWQjOatpTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgMMgUQABiABDIFEAAYgAQyBxAAGIAEGAwyBRAAGIAESN0iUPcBWOchcAF4AZABAJgBsQWgAeYkqgEFNC04LjK4AQPIAQD4AQGYAgSgAr0KwgIKEAAYsAMY1gQYR8ICCBAAGIAEGMsBmAMAiAYBkAYKkgcFMS40LTOgB6Mm&sclient=gws-wiz-serp
+
+Docker时区问题，看这一篇就够了-CSDN博客
+https://blog.csdn.net/zhangkunls/article/details/134658173
+
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 update · tannal/actions@36f167a
 https://github.com/tannal/actions/actions/runs/10276161901/job/28436119367
 
