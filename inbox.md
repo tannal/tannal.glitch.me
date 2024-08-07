@@ -1,5 +1,9 @@
 # 2024-8-7 0 | 0 W
 
+sudo timedatectl set-timezone Asia/Shanghai
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 
+
 
 # 2024-8-6 0 | 0 W
 
