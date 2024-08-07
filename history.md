@@ -1,3 +1,68 @@
+# 2024-8-7
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+update · tannal/actions@36f167a
+https://github.com/tannal/actions/actions/runs/10276161901/job/28436119367
+
+clash meta windows - Google 搜索
+https://www.google.com/search?q=clash+meta+windows&oq=clash+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxNjU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Clash.Meta（Mihomo）文档 | Clash.Meta（Mihomo）下载、配置教程节点订阅机场推荐
+https://clashmeta.net/
+
+Releases · MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo/releases
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+vuejs/tsconfig: Base tsconfig for Vue 3 projects.
+https://github.com/vuejs/tsconfig
+
+typescript - VSCode showing "cannot find module" TS error for .vue import while compiling doesn't - Stack Overflow
+https://stackoverflow.com/questions/54839057/vscode-showing-cannot-find-module-ts-error-for-vue-import-while-compiling-doe
+
+localhost:5173
+http://localhost:5173/
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=0938baf10882972d&tbm=nws&sxsrf=ADLYWILLQsrer4Bct_m60rTfQy_tCba02g:1722998666419&ei=it-yZvaWGZ6q4-EPz7u5mQo&start=10&sa=N&ved=2ahUKEwj2g9eb7uGHAxUe1TgGHc9dLqMQ8tMDegQIBBAE&biw=1280&bih=559&dpr=1.5
+
+tannal/elephantd - elephantd - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/elephantd/src/branch/main
+
+localhost:5174
+http://localhost:5174/
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=0938baf10882972d&tbm=nws&sxsrf=ADLYWIJID1QUDw2Xaiy9pYAXD-rpYQbBUA:1722999807161&ei=_-OyZrTFCYSQseMP_b-6kA8&start=20&sa=N&ved=2ahUKEwj0wNC78uGHAxUESGwGHf2fDvI4ChDy0wN6BAgDEAc&biw=1280&bih=559&dpr=1.5
+
+Google
+https://www.google.com/
+
+GitHub
+https://github.com/
+
+宋宝华：迭代螺旋法——关于Linux学习方法的血泪建议-电子工程专辑
+https://www.eet-china.com/mp/a221837.html
+
+InfluxDB - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/InfluxDB
+
+Code search results
+https://github.com/search?q=repo%3Ainfluxdata%2Finfluxdb+NewQueryPlanner&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=influxdb&sort=byPopularity&type=story
+
+Monitoring my Life with Grafana, Prometheus, and InfluxDB
+https://www.kshivendu.dev/blog/quantified-self
+
+KShivendu/aw-core-influxdb: Core library for ActivityWatch (with InfuxDB datastore support)
+https://github.com/KShivendu/aw-core-influxdb/tree/feat/influxdb-datastore
+
 # 2024-8-6
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
