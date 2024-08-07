@@ -1,5 +1,16 @@
 # 2024-8-7 0 | 0 W
 
+$env:https_proxy='http://192.168.69.138:7890'
+
+cargo install --git https://github.com/zed-industries/zed --locked
+
+helix
+https://github.com/zed-industries/zed
+
+cargo install --git https://github.com/denoland/deno/ --locked
+
+https://codeberg.org/explore/repos
+
 sudo timedatectl set-timezone Asia/Shanghai
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 

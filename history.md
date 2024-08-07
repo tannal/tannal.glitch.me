@@ -1,7 +1,5 @@
 # 2024-8-7
 
-
-
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
