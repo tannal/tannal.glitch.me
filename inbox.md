@@ -1,6 +1,8 @@
 # 2024-8-7 0 | 0 W
 
-jcmd 7536 VM.native_memory
+java -XX:+PrintCompilation -XX:+UnlockDiagnosticVMOptions -XX:+PrintInlining -XX:+PrintCodeCache -XX:+PrintCodeCacheOnCompilation -XX:NativeMemoryTracking=detail -jar "HMCL-3.5.9 (1).jar"
+
+jcmd 6120 VM.native_memory
 jconcole
 visualvm
 
