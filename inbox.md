@@ -1,5 +1,7 @@
 # 2024-8-8 0 | 0 W
 
+https://patchwork.ozlabs.org/project/glibc/list/
+
 poetry install -i https://mirrors.sustech.edu.cn/pypi/web/simple
 poetry run uvicorn app.main:app --reload
 

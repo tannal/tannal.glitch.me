@@ -1,5 +1,122 @@
 # 2024-8-8
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+frames.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/execution/frames.h;l=832?q=EntryFrame&ss=chromium%2Fchromium%2Fsrc
+
+jdk/src/hotspot/cpu/zero/entryFrame_zero.hpp at 1846a65e32624f6da691c1072f44fcb762b43233 · openjdk/jdk
+https://github.com/openjdk/jdk/blob/1846a65e32624f6da691c1072f44fcb762b43233/src/hotspot/cpu/zero/entryFrame_zero.hpp#L43
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+10. 正则表达式匹配 - 力扣（LeetCode）
+https://leetcode.cn/problems/regular-expression-matching/
+
+南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+meta-llama/Meta-Llama-3-8B · Your request to access this repo has been rejected by the repo's authors
+https://huggingface.co/meta-llama/Meta-Llama-3-8B/discussions/87
+
+meta-llama/Meta-Llama-3.1-405B · Hugging Face
+https://huggingface.co/meta-llama/Meta-Llama-3.1-405B
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/gated-repos
+
+meta-llama/Meta-Llama-3.1-8B-Instruct · Hugging Face
+https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct?library=transformers
+
+meta-llama 申请 - Google 搜索
+https://www.google.com/search?q=meta-llama+%E7%94%B3%E8%AF%B7&oq=meta-llama+%E7%94%B3%E8%AF%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMgoICBAAGAgYChgeMgoICRAAGAoYDBge0gEIMjI1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=-0wWV3UuyALi
+
+andreinechaev/nvcc4jupyter: A plugin for Jupyter Notebook to run CUDA C/C++ code
+https://github.com/andreinechaev/nvcc4jupyter
+
+Garbage collection handles closures incorrectly [41070945] - Chromium
+https://issues.chromium.org/issues/41070945
+
+Cypress hangs while loading a test with large code base · Issue #29059 · cypress-io/cypress
+https://github.com/cypress-io/cypress/issues/29059
+
+GNU C Library - Patchwork
+https://patchwork.ozlabs.org/project/glibc/list/
+
+Maglev on x64 causes segmentation fault while running TypeScript · Issue #52797 · nodejs/node
+https://github.com/nodejs/node/issues/52797#issuecomment-2275114400
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+ValueError: `rope_scaling` must be a dictionary with two fields, `type` and `factor` · Issue #299 · meta-llama/llama3
+https://github.com/meta-llama/llama3/issues/299
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+colab write c++ - Google 搜索
+https://www.google.com/search?q=colab+write+c%2B%2B&oq=colab+write+c%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4NDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+louis-she (Chenglu)
+https://github.com/louis-she
+
+pytorch/ignite: High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
+https://github.com/pytorch/ignite
+
+网友“炸锅”：Colab推出pro+会员后，pro会员就用不了V100了，只能用T4？ | 雷峰网
+https://www.leiphone.com/category/academic/i2Dseaoo6bKCAwNU.html
+
+与我共享 - Google 云端硬盘
+https://drive.google.com/drive/shared-with-me
+
+How WebKit Works - Google 幻灯片
+https://docs.google.com/presentation/d/1ZRIQbUKw9Tf077odCh66OrrwRIVNLvI_nhLm2Gi__F0/edit#slide=id.p
+
+How Blink works - Google 文档
+https://docs.google.com/document/d/1aitSOucL0VHZa9Z2vbRJSyAIsAz24kX8LFByQ5xQnUg/edit#heading=h.v5plba74lfde
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=colab%20pro%2B&sort=byPopularity&type=story
+
+dharesign (Daryl Haresign)
+https://github.com/dharesign
+
+src/libplatform/default-platform.cc - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/master/src/libplatform/default-platform.cc#140
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+oven-sh/WebKit: WebKit with patches
+https://github.com/oven-sh/WebKit?tab=readme-ov-file
+
+andreinechaev/nvcc4jupyter: A plugin for Jupyter Notebook to run CUDA C/C++ code
+https://github.com/andreinechaev/nvcc4jupyter
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno/
+
+Basic of C++.ipynb - Colab
+https://colab.research.google.com/github/hussain0048/C-Plus-Plus/blob/master/Basic_of_C%2B%2B.ipynb#scrollTo=am4ZQ3cN_Bc_
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno/
+
+Bun: Fast JavaScript runtime, transpiler, and NPM client written in Zig | Hacker News
+https://news.ycombinator.com/item?id=31993429
+
+Jupyter for Java
+https://github.com/jupyter-java
+
 v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
@@ -302,7 +419,7 @@ https://tutflix.org/resources/
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
-
+f
 shared-function-info.h - Chromium Code Search
 https://source.chromium.org/chromium/chromium/src/+/main:v8/src/objects/shared-function-info.h?q=GetBytecodeArray&ss=chromium%2Fchromium%2Fsrc
 
