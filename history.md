@@ -1,5 +1,74 @@
 # 2024-8-8
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+openai/CLIP: CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+https://github.com/openai/CLIP
+
+openai/CLIP: CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+https://github.com/openai/CLIP
+
+Issue search results
+https://github.com/search?q=repo%3Acodemirror%2Fdev+canvas&type=issues
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+passsy (Pascal Welsch)
+https://github.com/passsy/
+
+postmanlabs/postman-app-support: Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+https://github.com/postmanlabs/postman-app-support
+
+vuejs/devtools: ⚙️ Browser devtools extension for debugging Vue.js applications.
+https://github.com/vuejs/devtools
+
+clinicjs/node-clinic: Clinic.js diagnoses your Node.js performance issues
+https://github.com/clinicjs/node-clinic
+
+GoogleChrome/lighthouse: Automated auditing, performance metrics, and best practices for the web.
+https://github.com/GoogleChrome/lighthouse
+
+google/gops: A tool to list and diagnose Go processes currently running on your system
+https://github.com/google/gops
+
+reworkd/AgentGPT: 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+https://github.com/reworkd/AgentGPT
+
+yoheinakajima/babyagi
+https://github.com/yoheinakajima/babyagi
+
+langchain-ai/langchain: 🦜🔗 Build context-aware reasoning applications
+https://github.com/langchain-ai/langchain
+
+Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+https://github.com/Significant-Gravitas/AutoGPT
+
+barry-ran/QtScrcpy: Android real-time display control software
+https://github.com/barry-ran/QtScrcpy
+
+scrcpy/doc/windows.md at master · Genymobile/scrcpy
+https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md
+
+hwchase17 (Harrison Chase)
+https://github.com/hwchase17
+
+Yjs Quill Example
+http://192.168.69.62:8081/
+
+Hermes – A small JavaScript engine optimized for running React Native on Android | Hacker News
+https://news.ycombinator.com/item?id=20412588
+
+hermes/lib/AST/ASTBuilder.cpp at main · facebook/hermes
+https://github.com/facebook/hermes/blob/main/lib/AST/ASTBuilder.cpp
+
+Resources
+https://tutflix.org/resources/
+
+(3) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
