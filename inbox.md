@@ -1,5 +1,13 @@
 # 2024-8-8 0 | 0 W
 
+数据、训练、评测、推理部署
+
+
+预训练 微调 
+
+
+训练至少需要 6GB VRAM
+
 https://patchwork.ozlabs.org/project/glibc/list/
 
 poetry install -i https://mirrors.sustech.edu.cn/pypi/web/simple
