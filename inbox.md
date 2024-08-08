@@ -1,5 +1,7 @@
 # 2024-8-8 0 | 0 W
 
+https://support.github.com/ticket/personal/0/2929207
+
 adb tcpip 5555
 adb connect 192.168.109.161:5555
 
