@@ -2,7 +2,7 @@
 
 
 
-poetry install
+poetry install -i https://mirrors.sustech.edu.cn/pypi/web/simple
 poetry run uvicorn app.main:app --reload
 
 pip install -e .
