@@ -1,5 +1,62 @@
 # 2024-8-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+openai/CLIP: CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+https://github.com/openai/CLIP
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+canvas-editor
+http://localhost:3001/canvas-editor/
+
+Login or Register | Kaggle
+https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
+
+meta-llama/Llama-2-7b-chat-hf · Hugging Face
+https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=Wf5KrEb6vrkR
+
+meta-llama/Meta-Llama-3.1-70B · Hugging Face
+https://huggingface.co/meta-llama/Meta-Llama-3.1-70B
+
+Changing machine type to >4 cores CPU and >8GB memory · community · Discussion #59867
+https://github.com/orgs/community/discussions/59867
+
+我的工单 - GitHub 支持
+https://support.github.com/tickets/personal/0
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/tokens/new?
+
+Accessing Private/Gated Models
+https://huggingface.co/docs/transformers.js/guides/private
+
+huggingface 401 403 colab - Google 搜索
+https://www.google.com/search?q=huggingface+401+403+colab&sca_esv=87cd9f5db8b9fddc&sxsrf=ADLYWIKULAGwagmSh2E8aIjlAD0r8C6aaQ%3A1723100374028&ei=1my0ZuWwAZjw4-EPtdXWeQ&ved=0ahUKEwjl89KN6eSHAxUY-DgGHbWqNQ8Q4dUDCBA&uact=5&oq=huggingface+401+403+colab&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWh1Z2dpbmdmYWNlIDQwMSA0MDMgY29sYWIyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESL0OUC5Yvg1wA3gAkAEBmAG3BaABxxiqAQczLTQuMS4yuAEDyAEA-AEBmAIIoAKGE8ICChAAGLADGNYEGEeYAwCIBgGQBgqSBwkzLjMtMi4yLjGgB9cV&sclient=gws-wiz-serp
+
+Authenticated but still unable to access model - Beginners - Hugging Face Forums
+https://discuss.huggingface.co/t/authenticated-but-still-unable-to-access-model/66772/3
+
+ERROR: Access denied: repository is gated and you are not in the authorized list - Beginners - Hugging Face Forums
+https://discuss.huggingface.co/t/error-access-denied-repository-is-gated-and-you-are-not-in-the-authorized-list/65119
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/gated-repos
+
+bigcode/starcoder · Hugging Face
+https://huggingface.co/bigcode/starcoder
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 

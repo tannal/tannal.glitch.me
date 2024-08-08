@@ -1,5 +1,7 @@
 # 2024-8-8 0 | 0 W
 
+java -XX:+UnlockDiagnosticVMOptions -XX:NativeMemoryTracking=detail -jar "HMCL-3.5.9 (1).jar"
+
 https://support.github.com/ticket/personal/0/2929207
 
 adb tcpip 5555
