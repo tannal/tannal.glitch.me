@@ -1,5 +1,68 @@
 # 2024-8-8
 
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+magcius/noclip.website: A digital museum of video game levels
+https://github.com/magcius/noclip.website
+
+Bug 1911773 - Simplify nsWindow::SetWindowTranslucencyInner. r=rkraes… · mozilla/gecko-dev@adad1a0
+https://github.com/mozilla/gecko-dev/commit/adad1a02a69a160c958b4cc8b1de1ad7a6d88035#diff-235ce1e399db3c9e1379c7ac11162aa6447b37d558d2dbf84004e8486b4f5eba
+
+Releases · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev
+
+OptiFine
+https://optifine.net/home
+
+Directory Listing: /pub/firefox/releases/128.0/win64/zh-CN/
+https://ftp.mozilla.org/pub/firefox/releases/128.0/win64/zh-CN/
+
+Releases · Hibbiki/chromium-win64
+https://github.com/Hibbiki/chromium-win64
+
+00-build-firefox.md
+https://gist.github.com/grenade/1e63fcb938ff4fc22924da23127e1d81
+
+Poe-Telegram-Chatbot/bot.py at main · Timmy-web/Poe-Telegram-Chatbot
+https://github.com/Timmy-web/Poe-Telegram-Chatbot/blob/main/bot.py
+
+ChatLuna Doc - ChatLuna Doc
+https://chatluna.chat/
+
+如何优雅地用 Python 为项目安装和创建 Python 包依赖？ | 隋辨的博客
+https://benearyou.com/poetry-uses-north-pointing/
+
+billmei/every-chatgpt-gui: Every front-end GUI client for ChatGPT
+https://github.com/billmei/every-chatgpt-gui
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=python%20team%20lay&sort=byPopularity&type=story
+
+Thomas Wouters: "It's a tough day when everyone…" - social.coop
+https://social.coop/@Yhg1s/112332127058328855
+
+go-gitea/gitea: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+https://github.com/go-gitea/gitea
+
+poetry 更换 pip源_poetry install换源-CSDN博客
+https://blog.csdn.net/weixin_44200553/article/details/134910019
+
+中国7月份cpi - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD7%E6%9C%88%E4%BB%BDcpi&oq=%E4%B8%AD%E5%9B%BD7%E6%9C%88%E4%BB%BDcpi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM5ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPDIGCAYQRRg90gEINTg1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+localhost:5173
+http://localhost:5173/
+
+tannal/chat - chat - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/chat
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
