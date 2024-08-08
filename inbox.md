@@ -1,5 +1,27 @@
 # 2024-8-8 0 | 0 W
 
+poetry install
+poetry run uvicorn app.main:app --reload
+
+pip install -e .
+
+New-Item -ItemType Directory -Path "app"
+New-Item -ItemType File -Path "app/__init__.py"
+New-Item -ItemType File -Path "app/main.py"
+New-Item -ItemType File -Path "app/config.py"
+New-Item -ItemType File -Path "app/models.py"
+New-Item -ItemType File -Path "app/utils.py"
+
+New-Item -ItemType Directory -Path "tests"
+New-Item -ItemType File -Path "tests/__init__.py"
+
+New-Item -ItemType File -Path "pyproject.toml"
+New-Item -ItemType File -Path "README.md"
+
+tree /f
+
+Set-Location ..
+
 java -XX:+UnlockDiagnosticVMOptions -XX:NativeMemoryTracking=detail -jar "HMCL-3.5.9 (1).jar"
 
 https://support.github.com/ticket/personal/0/2929207
