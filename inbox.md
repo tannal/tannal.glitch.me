@@ -1,5 +1,8 @@
 # 2024-8-8 0 | 0 W
 
+adb tcpip 5555
+adb connect 192.168.109.161:5555
+
 https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1#heading=h.zcnntsspsdb6
 
 

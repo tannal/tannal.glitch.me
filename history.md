@@ -1,5 +1,56 @@
 # 2024-8-8
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Advanced Canvas Editor
+http://localhost:8082/vas.html
+
+Open source projects rewarding contributors | Hacker News
+https://news.ycombinator.com/item?id=37457921
+
+Fiberplane
+https://github.com/fiberplane
+
+Algora: Open source bounties
+https://console.algora.io/50k
+
+Creating a rich text editor using Rust and React - Blog
+https://fiberplane.com/blog/creating-a-rich-text-editor-using-rust-and-react
+
+Hufe
+https://hufe.club/
+
+ICP/IP地址/域名信息备案管理系统
+https://beian.miit.gov.cn/#/Integrated/recordQuery
+
+Hufe
+https://hufe.club/
+
+notonlysuccess (notonlysuccess)
+https://github.com/notonlysuccess
+
+canvas-editor
+http://localhost:3001/canvas-editor/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=canvas%20code%20editor&sort=byPopularity&type=story
+
+Issue search results
+https://github.com/search?q=repo%3Amicrosoft%2Fmonaco-editor+canvas&type=issues&p=2
+
+Yjs Quill Example
+http://192.168.109.62:8081/
+
+openai/CLIP: CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+https://github.com/openai/CLIP
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
