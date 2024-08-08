@@ -1,3 +1,123 @@
+# 2024-8-8
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+shared-function-info.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/objects/shared-function-info.h?q=GetBytecodeArray&ss=chromium%2Fchromium%2Fsrc
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1#heading=h.zcnntsspsdb6
+
+Commits · v8/v8
+https://github.com/v8/v8/commits/main/?author=joyeecheung
+
+Access to out-of-scope private class members in the DevTools console - Google 文档
+https://docs.google.com/document/d/1Va89BKHjCDs9RccDWhuZBb6LyRMAd6BXM3-p25oHd8I/edit#heading=h.n1atlriavj6v
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1
+
+Releases · oracle/visualvm
+https://github.com/oracle/visualvm/releases
+
+QuantumRenderer - Google 搜索
+https://www.google.com/search?q=QuantumRenderer&oq=QuantumRenderer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI5NWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+Clinic.js - An Open Source Node.js performance profiling suite by NearForm
+https://clinicjs.org/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=v8%20docs.google.com&sort=byPopularity&type=story
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1
+
+Alibaba
+https://github.com/alibaba
+
+javascript engine works site:docs.google.com/presentation - Google 搜索
+https://www.google.com/search?q=javascript+engine+works+site:docs.google.com/presentation&sca_esv=3220abbc16c1298d&sxsrf=ADLYWII5kQ9W4mJNwbxHd9v34hVYrDciAg:1723044468372&ei=dJKzZomaFsGcseMPwYX3-Qo&start=10&sa=N&sstk=AagrsujUNLRGUV-mCVmg4taJAZ1YthcYrEa40hYOW5t9kZsFkroLQsVvOEcV0S9nc3-tg-ulVlG0KMDv6iyWNI5fZ37iG0DWDDrl3g&ved=2ahUKEwiJpODrmOOHAxVBTmwGHcHCPa8Q8tMDegQIBRAE&biw=1280&bih=559&dpr=1.5
+
+Node.js - Google 幻灯片
+https://docs.google.com/presentation/d/10WnZRzFo0X5vj2yAoN046Y4yKgs62RIeHq4qKXEuRNY/htmlpresent
+
+How browsers work - Google 幻灯片
+https://docs.google.com/presentation/d/1kjC_L5C-E2Y_wOVkblJxRr6GBgw1V_FBbFI4jAoh688/htmlpresent
+
+Web Front End Frameworks - Google 幻灯片
+https://docs.google.com/presentation/d/1AKWkPcmMy52D8hNt7_PTaXw1uKpN0XQyXMoYBpQeDzw/htmlpresent
+
+Blink in JavaScript - Google 幻灯片
+https://docs.google.com/presentation/d/1XvZdAF29Fgn19GCjDhHhlsECJAfOR49tpUFWrbtQAwU/htmlpresent
+
+Speeding up Node.js startup using V8 snapshot - Google 文档
+https://docs.google.com/document/d/1YEIBdH7ocJfm6PWISKw03szNAgnstA2B3e8PZr_-Gp4/edit#heading=h.1v0pvnoifuah
+
+v8 site:docs.google.com - Google 搜索
+https://www.google.com/search?q=v8+site:docs.google.com&sca_esv=3220abbc16c1298d&sxsrf=ADLYWIImeOGlPBHRZiPweKDnqde6hjO0cQ:1723044328809&ei=6JGzZtmLMZGPseMP-rCg2Ak&start=50&sa=N&sstk=AagrsuhK6DiOKuXhuK1Pj3RlOeVIAfpuw4CnWy0pCB7Ug3HrDOi2ouZGb9vAJ0f0W335p5BEM_l1wleqSsSh5deTvRhftyiuYeQ4OnJFSTTW2tgLxdAeUk1SsYKwxIx63iFpoMCaaZpWgPaEC6_4GhKJxdBHui0JUT4Cq1Ibgv8VLBzFscnP9siXkMuu-KLmIsZfMXM35KFfs6q3L0ozrsmtSfCNUvrp&ved=2ahUKEwjZn5qpmOOHAxWRR2wGHXoYCJs4KBDy0wN6BAgEEA0&biw=1280&bih=559&dpr=1.5
+
+Documentation (Diagram) for C++ internals · Issue #53690 · nodejs/node
+https://github.com/nodejs/node/issues/53690
+
+Programmatically expose whether a cli flag takes an argument or not · Issue #54144 · nodejs/node
+https://github.com/nodejs/node/issues/54144
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+557708 - Drag and drop of images from Firefox to Thunderbird as attachment results in BMP conversion, fails when sending
+https://bugzilla.mozilla.org/show_bug.cgi?id=557708
+
+bug790194.bmoattachments.org/attachment.cgi?id=662577
+https://bug790194.bmoattachments.org/attachment.cgi?id=662577
+
+Feature request: Expose additional profiling tools for library testing · Issue #30031 · facebook/react
+https://github.com/facebook/react/issues/30031
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wingo&sort=byPopularity&type=story
+
+tinymist/crates/typlite at main · Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist/tree/main/crates/typlite
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Code search results
+https://github.com/search?q=repo%3Acontainers%2Fpodman-desktop%20electron&type=code
+
+Typst packages - Why and How? | James’ Programming Blog
+https://jamesxx.github.io/blog/2024/07/09/packages.html
+
+stuxf/basic-typst-resume-template: A basic resume for typst, designed to work well with ATS systems.
+https://github.com/stuxf/basic-typst-resume-template
+
+Sourcegraph
+https://github.com/sourcegraph
+
+vuejs/vue: This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+https://github.com/vuejs/vue?tab=readme-ov-file
+
+vuejs/core: 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+https://github.com/vuejs/core/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=porffor&sort=byPopularity&type=story
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+(1176) #study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+(256) #general > OpenHarmony support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/OpenHarmony.20support
+
+Discord - 专为游戏和快乐打造的群聊
+https://discord.com/
+
 # 2024-8-7
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

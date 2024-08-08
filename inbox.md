@@ -1,3 +1,8 @@
+# 2024-8-8 0 | 0 W
+
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1#heading=h.zcnntsspsdb6
+
+
 # 2024-8-7 0 | 0 W
 
 java -XX:+PrintCompilation -XX:+UnlockDiagnosticVMOptions -XX:+PrintInlining -XX:+PrintCodeCache -XX:+PrintCodeCacheOnCompilation -XX:NativeMemoryTracking=detail -jar "HMCL-3.5.9 (1).jar"
