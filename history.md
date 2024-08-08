@@ -1,5 +1,152 @@
 # 2024-8-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=wr3lntUCzehu
+
+CompVis (CompVis)
+https://huggingface.co/CompVis
+
+Image Module - Pillow (PIL Fork) 10.4.0 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html
+
+Stable Diffusion 训练指南 (LyCORIS) | Coding Husky
+https://ericfu.me/stable-diffusion-finetune-guide/#%E8%AE%AD%E7%BB%83
+
+Civitai: The Home of Open-Source Generative AI
+https://civitai.com/
+
+Coding Husky
+https://ericfu.me/
+
+fuyufjh (Eric Fu)
+https://github.com/fuyufjh
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=risingwavelabs&sort=byPopularity&type=story
+
+On the Way to Democratized Stream Processing: RisingWave’s Roadmap - RisingWave: Open-Source Streaming SQL Platform
+https://risingwave.com/blog/on-the-way-to-democratized-stream-processing-risingwaves-roadmap/
+
+Stable Diffusion - Google 搜索
+https://www.google.com/search?q=Stable+Diffusion&oq=Stable+Diffusion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEHMzg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=kohya%20trainer&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=CompVis&sort=byPopularity&type=story
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+stabilityai/stable-diffusion-3-medium at main
+https://huggingface.co/stabilityai/stable-diffusion-3-medium/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=stable-diffusion.cpp&sort=byPopularity&type=story
+
+Which stable diffusion version is best for NSFW models? : r/StableDiffusion
+https://www.reddit.com/r/StableDiffusion/comments/13m3wsr/which_stable_diffusion_version_is_best_for_nsfw/?force_seo=1
+
+Uber Realistic Porn Merge (URPM) - URPMv1.3 | Stable Diffusion Checkpoint | Civitai
+https://civitai.com/models/2661/uber-realistic-porn-merge-urpm
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=civitai&sort=byPopularity&type=story
+
+Poe
+https://poe.com/
+
+Chrome Releases
+https://chromereleases.googleblog.com/
+
+Mozilla Security
+https://www.mozilla.org/en-US/security/
+
+内联缓存机制浅析与由此而来的类型混淆利用原理 - 跳跳糖
+https://tttang.com/archive/1772/#toc_
+
+Google Chrome V8越界写入漏洞 (CVE-2024-4761) 安全通告 - 安全内参 | 决策者的网络安全知识库
+https://www.secrss.com/articles/66117
+
+风险提示：Chrome浏览器以及所有使用Chrome内核的浏览器存在严重安全漏洞！
+https://xxb.fudan.edu.cn/76/c2/c33375a489154/page.htm
+
+sandumjacob (Jacob Sandum)
+https://github.com/sandumjacob
+
+Type confusion in V8 in Google Chrome prior to 100.0.4896... · CVE-2022-1134 · GitHub Advisory Database
+https://github.com/advisories/GHSA-96p9-4wxh-2hwm
+
+ErodedElk/Chaos-me-JavaScript-V8: 零基础入门V8引擎漏洞挖掘
+https://github.com/ErodedElk/Chaos-me-JavaScript-V8
+
+Sea Of Node - Google 搜索
+https://www.google.com/search?q=Sea+Of+Node&oq=Sea+Of+Node&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Sea%20Of%20Node&sort=byPopularity&type=story
+
+How a Sea of Nodes Compiler Works | Ben Titzer - YouTube
+https://www.youtube.com/watch?v=7hENC8mp77c
+
+michredteam/CVE-2024-4761: High CVE-2024-4761 Exploit
+https://github.com/michredteam/CVE-2024-4761
+
+sandumjacob/CVE-2023-2033-Analysis: A collection of resources and information about CVE-2023-2033
+https://github.com/sandumjacob/CVE-2023-2033-Analysis
+
+CVE-2023-2033-Analysis/notes.md at main · sandumjacob/CVE-2023-2033-Analysis
+https://github.com/sandumjacob/CVE-2023-2033-Analysis/blob/main/notes.md
+
+How to set up VSCode for V8 development - Google 文档
+https://docs.google.com/document/d/1BpdCFecUGuJU5wN6xFkHQJEykyVSlGN8B9o3Kz2Oes8/edit#heading=h.uxoauiggup1o
+
+Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-1/
+
+maxpl0it (@maxpl0it) / X
+https://x.com/maxpl0it
+
+V8 / Chrome Architecture Reading List - For Vulnerability Researchers :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/
+
+Building_v8_Windows.md
+https://gist.github.com/jhalon/5cbaab99dccadbf8e783921358020159
+
+JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 - YouTube
+https://www.youtube.com/watch?v=5nmpokoRaZI
+
+descriptor-array.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/objects/descriptor-array.h
+
+Indicium: V8 runtime tracer tool · V8
+https://v8.dev/blog/system-analyzer
+
+Get Started with WinDbg (User Mode) - Windows drivers | Microsoft Learn
+https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
+
+GDB commands for WinDbg users | Matthew Justice’s blog
+https://blog.mattjustice.com/2018/08/24/gdb-for-windbg-users/
+
+lirantal/CVE-2024-27983-nodejs-http2: CVE-2024-27983 this repository builds up a vulnerable HTTP2 Node.js server (`server-nossl.js`) based on CVE-2024-27983 which exploits a continuation flood vulnerability in HTTP2 servers.
+https://github.com/lirantal/CVE-2024-27983-nodejs-http2?tab=readme-ov-file
+
+Node.js | Report #2319584 - "Assertion failed" in node::http2::Http2Session::~Http2Session() leads to HTTP/2 server crash | HackerOne
+https://hackerone.com/reports/2319584
+
+windows - How to get PID of process just started from within a batch file? - Stack Overflow
+https://stackoverflow.com/questions/9486960/how-to-get-pid-of-process-just-started-from-within-a-batch-file
+
+jit - Why does CPython implement GIL and V8 does not? - Stack Overflow
+https://stackoverflow.com/questions/78462396/why-does-cpython-implement-gil-and-v8-does-not/78468875#78468875
+
+Blog | STAR Labs
+https://starlabs.sg/blog/
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

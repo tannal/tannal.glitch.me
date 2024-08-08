@@ -1,5 +1,10 @@
 # 2024-8-8 0 | 0 W
 
+tasklist /V /FI "d8"
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' 
+ninja -C build
+
 https://huggingface.co/CompVis
 
 数据、训练、评测、推理部署
