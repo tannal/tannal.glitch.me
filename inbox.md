@@ -1,5 +1,7 @@
 # 2024-8-8 0 | 0 W
 
+https://huggingface.co/CompVis
+
 数据、训练、评测、推理部署
 
 
