@@ -1,5 +1,7 @@
 # GSoc
 
+https://developer.blender.org/docs/programs/gsoc/2024/
+
 https://www.haiku-os.org/blog/zardshard/2024-05-08_gsoc_2024_plans_for_fixing_haikus_webkit2_port/
 
 https://hepsoftwarefoundation.org/activities/gsoc.html
