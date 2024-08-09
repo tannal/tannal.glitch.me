@@ -31,6 +31,19 @@ sudo perf script > ./graph/out.qemu-system-x86_64-stacks01
 
 git clone https://gitlab.com/qemu-project/qemu.git
 
+sudo apt install -y --no-install-recommends \
+        bison \
+        ccache \
+        clang  \
+        flex \
+        git \
+        ninja-build \
+        python3-pip \
+        python3-setuptools \
+        python3-tomli \
+        python3-venv \
+        python3-wheel
+
 ./configure --enable-debug 
 
 make -j22
