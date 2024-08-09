@@ -1,5 +1,9 @@
 # GSoc
 
+https://community.kde.org/GSoC/2024/Ideas
+
+https://gsoc.gnome.org/
+
 https://gradle.github.io/community/events/gsoc/
 
 https://github.com/search?q=GSoC&type=issues&p=3

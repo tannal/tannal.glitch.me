@@ -1,6 +1,11 @@
+# 2024-8-9 0 | 0 W
+
+small-90 hours, medium-175 hours or large-350 hours
+11.25
+21.875
+43.75
+
 # 2024-8-8 0 | 0 W
-
-
 
 tasklist /V /FI "d8"
 
