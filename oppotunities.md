@@ -1,5 +1,11 @@
 # GSoc
 
+https://github.com/opencv/opencv/wiki/GSoC_2024#idea-Neural-3D-Capture-and-Rendering
+
+https://wiki.mozilla.org/Community:SummerOfCode19
+
+https://python-gsoc.org/ideas.html
+
 https://wiki.linuxfoundation.org/gsoc/google-summer-code-2024
 
 https://wiki.qemu.org/Google_Summer_of_Code_2024
