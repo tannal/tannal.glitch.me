@@ -1,5 +1,154 @@
 # 2024-8-9
 
+oppotunities.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Program Projects | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+Gradle in Google Summer of Code - Gradle Community Site
+https://community.gradle.org/events/gsoc/#for-mentors
+
+Codespaces
+https://github.com/codespaces
+
+Billing
+https://github.com/settings/billing/summary
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+[Codespace] Request more powerful machines #2929207 - GitHub 支持
+https://support.github.com/ticket/personal/0/2929207
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=gY9_Z4INvbQC
+
+pillow image download - Google 搜索
+https://www.google.com/search?q=pillow+image+download&sca_esv=955251e7965fe0d0&sxsrf=ADLYWIJy7oG99L9b5-y9czpvqjdQp0Eprg:1723123130928&ei=usW0ZpKwOPeQseMP-Ja94Qw&start=10&sa=N&sstk=AagrsujS6Z9UiwarNeIiWZVwraD6-PMNU5oIDdA9I8v-RA3xtLzjzWGNLzQc0p0QqVdhJrnqAu3VXYsqX82t2rSKGyPkcLUVte8Fzg&ved=2ahUKEwiS9f3wveWHAxV3SGwGHXhLL8wQ8tMDegQIBBAE&biw=1280&bih=559&dpr=1.5
+
+How to Remove NSFW Filter on Stable Diffusion | by Towards AGI | Jun, 2024 | Medium
+https://towards-agi.medium.com/how-to-remove-nsfw-filter-on-stable-diffusion-aa053c680739
+
+monatis/clip.cpp: CLIP inference in plain C/C++ with no extra dependencies
+https://github.com/monatis/clip.cpp
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp%20claude3&type=code
+
+how to loading a mmdetection model in C++ · Issue #1065 · open-mmlab/mmdetection
+https://github.com/open-mmlab/mmdetection/issues/1065
+
+fairseq.cpp github - Google 搜索
+https://www.google.com/search?q=fairseq.cpp+github&oq=fairseq.cpp+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIwNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPDIGCAYQRRg90gEIMTIyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google
+https://www.google.com/
+
+(261) #general > Updating dependencies in stylo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Updating.20dependencies.20in.20stylo
+
+Yjs Quill Example
+http://192.168.109.62:8081/
+
+Repository search results
+https://github.com/search?q=ggml&type=repositories
+
+Issue search results
+https://github.com/search?q=GSoc+lfx&type=issues&s=updated&o=desc&p=7
+
+Dashboard
+https://www.outreachy.org/dashboard/
+
+Outreachy
+https://github.com/outreachy
+
+GNOME + GSoC = ❤️
+https://gsoc.gnome.org/
+
+GSoC/2024/Ideas - KDE Community Wiki
+https://community.kde.org/GSoC/2024/Ideas
+
+The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/Sample-GSoC-Project-Proposal.pdf at master · Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC
+https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/Sample-GSoC-Project-Proposal.pdf
+
+(26) Discord | 好友
+https://discord.com/channels/@me
+
+Archive Project Details | Google Summer of Code
+https://summerofcode.withgoogle.com/archive/2023/projects/87gAMrBX
+
+kanidm/kanidm: Kanidm: A simple, secure and fast identity management platform
+https://github.com/kanidm/kanidm
+
+openscad/openscad: OpenSCAD - The Programmers Solid 3D CAD Modeller
+https://github.com/openscad/openscad
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=Text-to-Speech&sort=byPopularity&type=story
+
+VALL-E: Vall-e-2
+https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-2/
+
+Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+https://github.com/Plachtaa/VALL-E-X
+
+VALL-E
+https://plachtaa.github.io/
+
+Yjs Quill Example
+http://192.168.109.62:8081/
+
+Google Summer of Code 2024 - QEMU
+https://wiki.qemu.org/Google_Summer_of_Code_2024
+
+target/arm/tcg/sve_helper.c · master · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/blob/master/target/arm/tcg/sve_helper.c?ref_type=heads#L5651
+
+target/riscv · 99d6a32469debf1a48921125879b614d15acfb7a · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/tree/99d6a32469debf1a48921125879b614d15acfb7a/target/riscv
+
+Palmer Dabbelt's Homepage
+https://www.dabbelt.com/~palmer/
+
+gsoc:google-summer-code-2024 [Wiki]
+https://wiki.linuxfoundation.org/gsoc/google-summer-code-2024
+
+Python GSoC – Home
+https://python-gsoc.org/ideas.html
+
+Compiler Options Hardening Guide for C and C++ | OpenSSF Best Practices Working Group
+https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++
+
+Consider applying flags for warnings about potential security issues · Issue #112301 · python/cpython
+https://github.com/python/cpython/issues/112301
+
+Community:SummerOfCode19 - MozillaWiki
+https://wiki.mozilla.org/Community:SummerOfCode19
+
+GSOC 2019 - WebSocket Monitor - Google 文档
+https://docs.google.com/document/d/1ruHk-BA3cqzU7VHoVltnAwWt_2OXKOOAI4nTHwYllzk/edit#heading=h.abh4tir9ixgl
+
+GSoC_2024 · opencv/opencv Wiki
+https://github.com/opencv/opencv/wiki/GSoC_2024#idea-Neural-3D-Capture-and-Rendering
+
+Google Summer of Code
+https://hepsoftwarefoundation.org/activities/gsoc.html
+
+GSoC 2023 project ideas · pytorch/ignite Wiki
+https://github.com/pytorch/ignite/wiki/GSoC-2023-project-ideas
+
+[GSoC 2024] Plans for Fixing Haiku's WebKit2 Port | Haiku Project
+https://www.haiku-os.org/blog/zardshard/2024-05-08_gsoc_2024_plans_for_fixing_haikus_webkit2_port/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+2024 - Blender Developer Documentation
+https://developer.blender.org/docs/programs/gsoc/2024/
 
 # 2024-8-8
 
