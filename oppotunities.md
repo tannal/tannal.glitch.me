@@ -1,5 +1,9 @@
 # GSoc
 
+https://www.haiku-os.org/blog/zardshard/2024-05-08_gsoc_2024_plans_for_fixing_haikus_webkit2_port/
+
+https://hepsoftwarefoundation.org/activities/gsoc.html
+
 https://github.com/opencv/opencv/wiki/GSoC_2024#idea-Neural-3D-Capture-and-Rendering
 
 https://wiki.mozilla.org/Community:SummerOfCode19
