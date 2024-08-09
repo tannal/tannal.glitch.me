@@ -1,5 +1,7 @@
 # GSoc
 
+https://discourse.ros.org/t/attention-students-open-robotics-google-summer-of-code-2024-projects/36271
+
 https://developer.blender.org/docs/programs/gsoc/2024/
 
 https://www.haiku-os.org/blog/zardshard/2024-05-08_gsoc_2024_plans_for_fixing_haikus_webkit2_port/
