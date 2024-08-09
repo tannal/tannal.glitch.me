@@ -1,3 +1,8 @@
+
+# KDE
+
+https://community.kde.org/SoK/Ideas/2024
+
 # GSoc
 
 https://discourse.ros.org/t/attention-students-open-robotics-google-summer-of-code-2024-projects/36271
