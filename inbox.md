@@ -1,5 +1,7 @@
 # 2024-8-9 0 | 0 W
 
+https://community.kde.org/SoK/Ideas/2024
+
 small-90 hours, medium-175 hours or large-350 hours
 11.25
 21.875
