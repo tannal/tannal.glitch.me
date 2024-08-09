@@ -1,5 +1,7 @@
 # GSoc
 
+https://wiki.qemu.org/Google_Summer_of_Code_2024
+
 https://community.kde.org/GSoC/2024/Ideas
 
 https://gsoc.gnome.org/
