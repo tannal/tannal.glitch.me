@@ -2,6 +2,16 @@
 
 ./supervisord -c supervisor.conf -d
 
+[program:mihomo]
+command=/home/ubuntu/tannalwork/production/mihomo-linux-amd64-go120
+process_name=%(program_name)s
+numprocs=1
+#numprocs_start=not support
+autostart=true
+startsecs=3
+startretries=3
+autorestart=true
+
 go generate
 GOOS=linux go build -tags release -a -ldflags "-linkmode external -extldflags -static" -o supervisord
 
