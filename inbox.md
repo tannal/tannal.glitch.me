@@ -2,8 +2,9 @@
 
 go install github.com/cli/cli
 
-gh workflow run gtests --ref main -f myparameter=myvalue
+gh workflow run "Build and Release Google Test" --ref main
 
+gh run list --workflow=gtests.yml
 
 coreutils
 binutils
