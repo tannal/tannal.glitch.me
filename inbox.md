@@ -1,6 +1,9 @@
 # 2024-8-10 0 | 0 W
 
-sudo debootstrap --arch=riscv64 --foreign focal /path/to/sysroot
+
+https://www.cerebras.net/
+
+sudo debootstrap --arch=riscv64 --foreign focal ./sysroot
 
 sudo apt-get install debootstrap
 sudo debootstrap --arch=amd64 focal /path/to/sysroot
