@@ -1,5 +1,8 @@
 # 2024-8-10 0 | 0 W
 
+sudo apt-get install debootstrap
+sudo debootstrap --arch=amd64 focal /path/to/sysroot
+
 sudo apt-get install autoconf automake autotools-dev curl python3 python3-pip libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev libslirp-dev
 
 git clone https://github.com/riscv/riscv-gnu-toolchain
