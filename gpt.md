@@ -1,5 +1,61 @@
 
 
+
+LVM2 (Logical Volume Manager 2)
+项目：https://sourceware.org/lvm2/
+使用场景：LVM2使用ioctl_dm来创建和管理逻辑卷。
+示例代码：
+reasonml
+
+复制
+#include <libdevmapper.h>
+
+int create_linear_device(const char *name, const char *device, uint64_t size)
+{
+    struct dm_task *dmt;
+    uint64_t start = 0;
+    char params[256];
+    int r = 0;
+
+    if (!(dmt = dm_task_create(DM_DEVICE_CREATE)))
+        return 0;
+
+    if (!dm_task_set_name(dmt, name))
+        goto out;
+
+    snprintf(params, sizeof(params), "%s %lu", device, size);
+    if (!dm_task_add_target(dmt, start, size, "linear", params))
+        goto out;
+
+    r = dm_task_run(dmt);
+
+out:
+    dm_task_destroy(dmt);
+    return r;
+}
+这个函数使用libdevmapper（它内部使用ioctl_dm）来创建一个线性设备映射。
+LUKS (Linux Unified Key Setup)
+项目：https://gitlab.com/cryptsetup/cryptsetup
+使用场景：LUKS使用ioctl_dm来创建和管理加密磁盘。
+示例（使用cryptsetup命令行工具，内部使用ioctl_dm）：
+
+复制
+cryptsetup luksFormat /dev/sdb1
+cryptsetup luksOpen /dev/sdb1 mysecretdisk
+Docker
+项目：https://github.com/docker/docker-ce
+使用场景：Docker使用ioctl_dm来实现其存储驱动程序，特别是device-mapper驱动。
+相关代码：https://github.com/docker/docker-ce/blob/master/components/engine/daemon/graphdriver/devmapper/deviceset.go
+KVM (Kernel-based Virtual Machine)
+项目：https://www.linux-kvm.org/
+使用场景：KVM可以使用ioctl_dm来管理虚拟机的存储，特别是在使用QEMU的raw格式磁盘映像时。
+OpenStack Cinder
+项目：https://github.com/openstack/cinder
+使用场景：Cinder使用ioctl_dm来管理块存储设备，特别是在使用LVM后端时。
+ZFS on Linux
+项目：https://github.com/openzfs/zfs
+使用场景：虽然ZFS主要使用自己的设备管理，但在某些情况下也可能使用ioctl_dm，特别是在与其他Linux存储子系统交互时。
+
 远程工作和远程实习确实是近年来越来越普遍的工作方式，尤其在科技行业。这种模式为求职者和雇主都带来了诸多机会和挑战。以下是一些关于远程工作和远程实习的建议和资源：
 
 远程工作/实习平台：
