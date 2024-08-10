@@ -1,5 +1,8 @@
 # 2024-8-10 0 | 0 W
 
+coreutils
+binutils
+
 ./supervisord -c supervisor.conf -d
 
 [program:mihomo]

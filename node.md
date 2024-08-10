@@ -1,6 +1,16 @@
 
 # dev
 
+
+https://github.com/nodejs/node/pull/54288
+
+
+node_task_runner.h
+
+  // Represents PATH environment variable that contains
+  // all subdirectory paths appended with node_modules/.bin suffix.
+  std::string path_env_var_;
+
 make lint-js
 
 tools/test.py -m debug test/parallel/test-options.js --shell ./node_g  --report --node-args --track-heap-objects
