@@ -1,5 +1,10 @@
 # 2024-8-10 0 | 0 W
 
+go install github.com/cli/cli
+
+gh workflow run gtests --ref main -f myparameter=myvalue
+
+
 coreutils
 binutils
 

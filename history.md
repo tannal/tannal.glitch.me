@@ -3,6 +3,102 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+xmake-io/xrepo: 🗂️ A cross-platform C/C++ package manager based on Xmake
+https://github.com/xmake-io/xrepo
+
+CVE-2023-2033-Analysis/notes.md at main · sandumjacob/CVE-2023-2033-Analysis
+https://github.com/sandumjacob/CVE-2023-2033-Analysis/blob/main/notes.md
+
+RedYetiDev (Aviv Keller)
+https://github.com/RedYetiDev
+
+fs: fix subdirectory detection logic by RedYetiDev · Pull Request #54288 · nodejs/node
+https://github.com/nodejs/node/pull/54288/files
+
+node/src/node_file.cc at 90d91abbfe32d9ce6606bd8db3cef1ac37e45923 · nodejs/node
+https://github.com/nodejs/node/blob/90d91abbfe32d9ce6606bd8db3cef1ac37e45923/src/node_file.cc#L4
+
+fs: optimize `fs.cpSync` js calls by anonrig · Pull Request #53614 · nodejs/node
+https://github.com/nodejs/node/pull/53614/files#diff-70e3325bd2115867617ae2a16321c5de53c070ff2841976fe5b849675a5111e6R3186-R3190
+
+node/src/node_file.cc at 90d91abbfe32d9ce6606bd8db3cef1ac37e45923 · nodejs/node
+https://github.com/nodejs/node/blob/90d91abbfe32d9ce6606bd8db3cef1ac37e45923/src/node_file.cc#L3190
+
+CVE-2023-23919 github - Google 搜索
+https://www.google.com/search?q=CVE-2023-23919+github&sca_esv=e52debdf81d4b9f2&sxsrf=ADLYWIIDGv2lvonc-6_NhbL_1nOs9cEvBQ%3A1723281641026&ei=6TC3Zu6sAYLHkPIP1fiY6AM&ved=0ahUKEwiuxb6wjOqHAxWCI0QIHVU8Bj0Q4dUDCBA&uact=5&oq=CVE-2023-23919+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUNWRS0yMDIzLTIzOTE5IGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0joCVDMA1ieCXABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAh2YAwCIBgGQBgSSBwExoAcA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=nodejs%20cve&sort=byPopularity&type=story
+
+fastify/fastify: Fast and low overhead web framework, for Node.js
+https://github.com/fastify/fastify?tab=readme-ov-file#team
+
+mattn/goreman: foreman clone written in go language
+https://github.com/mattn/goreman?tab=readme-ov-file
+
+ochinchina/supervisord: a go-lang supervisor implementation
+https://github.com/ochinchina/supervisord
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Go-Supervisor
+http://localhost:19001/
+
+Binutils - GNU Project - Free Software Foundation
+https://www.gnu.org/software/binutils/
+
+coreutils/src/copy.c at c5725c8c4bb21903490a48035286d0f94463642e · coreutils/coreutils
+https://github.com/coreutils/coreutils/blob/c5725c8c4bb21903490a48035286d0f94463642e/src/copy.c#L3372
+
+std::mismatch() with examples in C++ - GeeksforGeeks
+https://www.geeksforgeeks.org/stdmismatch-examples-c/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hackerone&sort=byPopularity&type=story
+
+Code search results
+https://github.com/search?q=repo%3AWasmEdge%2FWasmEdge%20subdirectory&type=code
+
+xmake - Google 搜索
+https://www.google.com/search?q=xmake&oq=xmake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIJCAIQABgKGIAEMgkIAxAAGAoYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxMzMxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Releases · google/googletest
+https://github.com/google/googletest/releases
+
+tannal (tannal)
+https://github.com/tannal
+
+Manually running a workflow - GitHub Docs
+https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/manually-running-a-workflow
+
+cli/cli: GitHub’s official command line tool
+https://github.com/cli/cli
+
+GitHub Actions: how can I run a workflow created on a non-'master' branch from the 'workflow_dispatch' event? - Stack Overflow
+https://stackoverflow.com/questions/63362126/github-actions-how-can-i-run-a-workflow-created-on-a-non-master-branch-from-t
+
+golang/go: The Go programming language
+https://github.com/golang/go?tab=readme-ov-file
+
+go install from git - Google 搜索
+https://www.google.com/search?q=go+install+from+git&oq=go+install+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYQDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPdIBCDEzMTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Install Git - Poe
+https://poe.com/chat/3hfuhboszhzdwiolsy2
+
+go install github - Google 搜索
+https://www.google.com/search?q=go+install+github&oq=go+install+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAAGEMYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPDIGCAcQRRg80gEIMzU0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Workflow runs · tannal/actions
+https://github.com/tannal/actions/actions
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 https://github.com/Plachtaa/VALL-E-X
 
