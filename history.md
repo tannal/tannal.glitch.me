@@ -1,5 +1,68 @@
 # 2024-8-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+https://github.com/Plachtaa/VALL-E-X
+
+VALL-E
+https://plachtaa.github.io/
+
+Google Summer of Code 2024 - QEMU
+https://wiki.qemu.org/Google_Summer_of_Code_2024
+
+QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/tree/master?ref_type=heads
+
+linux-user/syscall.c · master · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/blob/master/linux-user/syscall.c?ref_type=heads#L5176
+
+linux-user/syscall.c · master · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/blob/master/linux-user/syscall.c?ref_type=heads#L4993
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+OpenZFS
+https://github.com/openzfs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=job%20market&sort=byPopularity&type=story
+
+拼多多 有命你就来 - Google 搜索
+https://www.google.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A+%E6%9C%89%E5%91%BD%E4%BD%A0%E5%B0%B1%E6%9D%A5&oq=%E6%8B%BC%E5%A4%9A%E5%A4%9A+%E6%9C%89%E5%91%BD%E4%BD%A0%E5%B0%B1%E6%9D%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDg0MTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+拼多多工作时间 脉脉 - Google 搜索
+https://www.google.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4+%E8%84%89%E8%84%89&sca_esv=e38153d6567eb90a&sxsrf=ADLYWILgyaebMbHAi1wk5mIViw9UY5vaaQ%3A1723277283545&ei=4x-3ZrCGIfj-ptQP4d-wmA0&ved=0ahUKEwjwg9eS_OmHAxV4v4kEHeEvDNMQ4dUDCBA&uact=5&oq=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4+%E8%84%89%E8%84%89&gs_lp=Egxnd3Mtd2l6LXNlcnAiHOaLvOWkmuWkmuW3peS9nOaXtumXtCDohInohIkyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESMEWUGtY7xRwAXgBkAEAmAGlB6ABySCqAQkzLTEuMS4wLjS4AQPIAQD4AQGYAgagAsUdwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHCzEuMy0xLjAuMS4zoAfQDQ&sclient=gws-wiz-serp
+
+秋招末期带你看看大厂调薪及晋升制度_牛客网
+https://www.nowcoder.com/discuss/353157305271263232
+
+2025拼多多面试太水了，点击就送_牛客网
+https://www.nowcoder.com/discuss/649401287808667648?sourceSSR=post
+
+. - 力扣（LeetCode）
+https://leetcode.cn/problems/stone-game-i/description/
+
+Commits · remoteintech/remote-jobs
+https://github.com/remoteintech/remote-jobs/commits/main/
+
+outreachy 2024 - Google 搜索
+https://www.google.com/search?q=outreachy+2024&sca_esv=434672d235707018&sxsrf=ADLYWIIQoP2xXB0DbEMSJU6Oe-0-IbY4fA%3A1723278519570&ei=tyS3Zq3HItKJptQP0onVoAo&ved=0ahUKEwjt_ofggOqHAxXShIkEHdJEFaQQ4dUDCBA&uact=5&oq=outreachy+2024&gs_lp=Egxnd3Mtd2l6LXNlcnAiDm91dHJlYWNoeSAyMDI0SKgBUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+国家开发银行助学贷款学生在线系统
+https://sls.cdb.com.cn/#/my-loan
+
+00-build-firefox.md
+https://gist.github.com/grenade/1e63fcb938ff4fc22924da23127e1d81
+
+Download and install Mozilla Firefox with winget
+https://winget.run/pkg/Mozilla/Firefox
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
