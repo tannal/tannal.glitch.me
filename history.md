@@ -1,3 +1,98 @@
+# 2024-8-10
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Billing
+https://github.com/settings/billing/summary
+
+Google Summer of Code 2024 - QEMU
+https://wiki.qemu.org/Google_Summer_of_Code_2024
+
+Re: [RFC] risc-v vector (RVV) emulation performance issues
+https://lists.gnu.org/archive/html/qemu-devel/2023-07/msg04830.html
+
+Google Summer of Code 2024 - QEMU
+https://wiki.qemu.org/Google_Summer_of_Code_2024
+
+riscv-v-spec/v-spec.adoc at master · riscv/riscv-v-spec
+https://github.com/riscv/riscv-v-spec/blob/master/v-spec.adoc
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+how convert safetensors to ggml? : r/KoboldAI
+https://www.reddit.com/r/KoboldAI/comments/1d7skqi/how_convert_safetensors_to_ggml/
+
+black-forest-labs/FLUX.1-schnell at main
+https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main
+
+Attention Students: Open Robotics Google Summer of Code 2024 Projects - General - ROS Discourse
+https://discourse.ros.org/t/attention-students-open-robotics-google-summer-of-code-2024-projects/36271
+
+JdeRobot
+https://jderobot.github.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrsqpjkxZbqHtPRPsqTQwTMZFHxGcCFFplPmMwFhKMqZGGbPdmvwJkTGPrBgddxsmjDXq
+
+Palmer Dabbelt's Homepage
+https://www.dabbelt.com/~palmer/
+
+resume.pdf
+https://www.dabbelt.com/~palmer/resume.pdf
+
+riscv-collab/riscv-gnu-toolchain: GNU toolchain for RISC-V, including GCC
+https://github.com/riscv-collab/riscv-gnu-toolchain
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+chromium debian sysroot - Google 搜索
+https://www.google.com/search?q=chromium+debian+sysroot&oq=chromium+debian+sysroot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg3NjkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+FLUX.1-schnell cpp ggml - Google 搜索
+https://www.google.com/search?q=FLUX.1-schnell+cpp+ggml&oq=FLUX.1-schnell+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgYIBhBFGDwyBggHEEUYPNIBCDIxNjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fggml+ggml+language%3APython&type=code&l=Python
+
+Homepage | Cerebras
+https://www.cerebras.net/
+
+debugging - GDB source path - Stack Overflow
+https://stackoverflow.com/questions/23868252/gdb-source-path
+
+GStreamer/gstreamer: GStreamer open-source multimedia framework
+https://github.com/GStreamer/gstreamer
+
+GStreamer / gstreamer · GitLab
+https://gitlab.freedesktop.org/gstreamer/gstreamer
+
+Releases · riscv-collab/riscv-gnu-toolchain
+https://github.com/riscv-collab/riscv-gnu-toolchain/releases
+
+(262) #general > WebXR spec updates and WPT testing - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebXR.20spec.20updates.20and.20WPT.20testing
+
+Code search results
+https://github.com/search?q=pipeline_stable_diffusion&type=code
+
+Code search results
+https://github.com/search?q=repo%3Ahuggingface%2Fdiffusers%20prepare_latents&type=code
+
+Perturbed-Attention Guidance
+https://ku-cvlab.github.io/Perturbed-Attention-Guidance/
+
+KU-CVLAB/Perturbed-Attention-Guidance: Official implementation of "Perturbed-Attention Guidance"
+https://github.com/KU-CVLAB/Perturbed-Attention-Guidance
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPDIGCAYQRRg90gEHNjkwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+gitea/routers at main · go-gitea/gitea
+https://github.com/go-gitea/gitea/tree/main/routers
+
 # 2024-8-9
 
 (3) 南小北 (@nanxiaobei) / X
