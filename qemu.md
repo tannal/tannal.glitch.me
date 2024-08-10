@@ -1,6 +1,8 @@
 
 # dev
 
+qemu-system-riscv64 -cpu rv64,v=true -M virt -nographic
+
 ./configure --enable-debug --target-list=riscv64-softmmu,riscv64-linux-user --enable-fdt
 
 # inbox

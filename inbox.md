@@ -1,5 +1,8 @@
 # 2024-8-10 0 | 0 W
 
+
+set substitute-path ../* ./*
+
 set substitute-path ../ ./
 
 time ./build/qemu-riscv64 -L ./sysroot -cpu rv64,debug=false,vext_spec=v1.0,v=true,vlen=1024 ./a.out
