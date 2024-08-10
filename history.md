@@ -3,6 +3,96 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Workflow runs · tannal/actions
+https://github.com/tannal/actions/actions
+
+Environments · tannal/actions
+https://github.com/tannal/actions/settings/environments/
+
+google/googletest: GoogleTest - Google Testing and Mocking Framework
+https://github.com/google/googletest
+
+git - "Resource not accessible by integration" on github post /repos/{owner}/{repo}/actions/runners/registration-token API - Stack Overflow
+https://stackoverflow.com/questions/70435286/resource-not-accessible-by-integration-on-github-post-repos-owner-repo-ac
+
+Waiting for pending jobs all the time · Issue #2811 · actions/runner-images
+https://github.com/actions/runner-images/issues/2811
+
+GitHub Status
+https://www.githubstatus.com/
+
+使用限制、计费和管理 - GitHub 文档
+https://docs.github.com/zh/actions/administering-github-actions/usage-limits-billing-and-administration
+
+softprops/action-gh-release: 📦 GitHub Action for creating GitHub Releases
+https://github.com/softprops/action-gh-release?tab=readme-ov-file#%EF%B8%8F-uploading-release-assets
+
+Fine-grained Personal Access Tokens
+https://github.com/settings/tokens?type=beta
+
+CUSTOM_GITHUB_TOKEN - Google 搜索
+https://www.google.com/search?q=CUSTOM_GITHUB_TOKEN&oq=CUSTOM_GITHUB_TOKEN&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+github token在哪里 - Google 搜索
+https://www.google.com/search?q=github+token%E5%9C%A8%E5%93%AA%E9%87%8C&oq=github+token&gs_lcrp=EgZjaHJvbWUqBwgEEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgzNjkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+git - "Resource not accessible by integration" on github post /repos/{owner}/{repo}/actions/runners/registration-token API - Stack Overflow
+https://stackoverflow.com/questions/70435286/resource-not-accessible-by-integration-on-github-post-repos-owner-repo-ac
+
+tannal/actions
+https://github.com/tannal/actions
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+morph-labs/rift: Rift: an AI-native language server for your personal AI software engineer
+https://github.com/morph-labs/rift
+
+Support release asset patching behavior to overwrite existing release assets · Issue #45 · softprops/action-gh-release
+https://github.com/softprops/action-gh-release/issues/45
+
+only header file vscode lsp c++ - Google 搜索
+https://www.google.com/search?q=only+header+file+vscode+lsp+c%2B%2B&oq=only+header+file+vscode+lsp+c%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY3NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+create release - Google 搜索
+https://www.google.com/search?q=create+release&oq=create+release+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIOTQ4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Support release asset merging · Issue #42 · softprops/action-gh-release
+https://github.com/softprops/action-gh-release/issues/42
+
+How to run a github-actions step, even if the previous step fails, while still failing the job - Stack Overflow
+https://stackoverflow.com/questions/58858429/how-to-run-a-github-actions-step-even-if-the-previous-step-fails-while-still-f
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Feature request: 增加伪粗体以支持「楷体」与「仿宋」字体加粗 · Issue #1 · nju-lug/modern-nju-thesis
+https://github.com/nju-lug/modern-nju-thesis/issues/1
+
+Fake text weight and style (synthesized bold and italic) · Issue #394 · typst/typst
+https://github.com/typst/typst/issues/394
+
+Issue search results
+https://github.com/search?q=involves%3AEnter-tainer+&type=issues&p=3
+
+rapiz1 (Yujia Qiao)
+https://github.com/rapiz1
+
+CTAN: Package xfakebold
+https://ctan.org/pkg/xfakebold
+
+Enter-tainer (Wenzhuo Liu)
+https://github.com/Enter-tainer
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=indispensable&op=translate
+
+latter - Google 搜索
+https://www.google.com/search?q=latter&oq=latter&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgkIAxAAGAoYgAQyCQgEEAAYDBiABDIPCAUQLhgKGK8BGMcBGIAEMgcIBhAuGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEIMjU5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 xmake-io/xrepo: 🗂️ A cross-platform C/C++ package manager based on Xmake
 https://github.com/xmake-io/xrepo
 
