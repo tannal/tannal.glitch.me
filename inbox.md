@@ -1,5 +1,7 @@
 # 2024-8-10 0 | 0 W
 
+nohup ./hbbs -r 0.0.0.0 &
+nohup ./hbbr &
 
 set substitute-path ../* ./*
 
