@@ -1,6 +1,8 @@
 
 # dev
 
+./configure --enable-debug --target-list=riscv64-softmmu,riscv64-linux-user --enable-fdt
+
 # inbox
 
 reset_ts+0x9b

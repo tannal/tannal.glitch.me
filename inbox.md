@@ -1,9 +1,13 @@
 # 2024-8-10 0 | 0 W
 
+set substitute-path ../ ./
+
+time ./build/qemu-riscv64 -L ./sysroot -cpu rv64,debug=false,vext_spec=v1.0,v=true,vlen=1024 ./a.out
 
 https://www.cerebras.net/
 
 sudo debootstrap --arch=riscv64 --foreign focal ./sysroot
+sudo debootstrap --arch=riscv64 --foreign jammy ./sysroot
 
 sudo apt-get install debootstrap
 sudo debootstrap --arch=amd64 focal /path/to/sysroot
