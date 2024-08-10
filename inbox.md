@@ -1,5 +1,10 @@
 # 2024-8-10 0 | 0 W
 
+./supervisord -c supervisor.conf -d
+
+go generate
+GOOS=linux go build -tags release -a -ldflags "-linkmode external -extldflags -static" -o supervisord
+
 winget install -e --id Mozilla.Firefox
 
 QEMU_CPU="rv64,zfinx=true,f=false" gdb --args ./build/qemu-riscv64 a.out
