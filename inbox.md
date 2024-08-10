@@ -1,5 +1,13 @@
 # 2024-8-10 0 | 0 W
 
+export LD_LIBRARY_PATH=./lib
+
+go install github.com/cli/cli
+
+gh workflow run "Build and Release Google Test" --ref main
+gh workflow run "Build LLVM, V8, and SpiderMonkey" --ref main
+
+
 go install github.com/cli/cli
 
 gh workflow run "Build and Release Google Test" --ref main
