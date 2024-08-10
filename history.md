@@ -1,5 +1,59 @@
 # 2024-8-9
 
+(3) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+张轩_慕课网精英讲师
+https://www.imooc.com/t/6012904
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Remote Jobs in Today’s Popular Categories - Remote.co
+https://remote.co/remote-jobs/
+
+opencv/opencv: Open Source Computer Vision Library
+https://github.com/opencv/opencv
+
+CompVis/stable-diffusion: A latent text-to-image diffusion model
+https://github.com/CompVis/stable-diffusion
+
+CompVis/stable-diffusion: A latent text-to-image diffusion model
+https://github.com/CompVis/stable-diffusion
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/gated-repos
+
+meta-llama/Meta-Llama-3.1-8B-Instruct at main
+https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct/tree/main?library=transformers
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/settings/tokens
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Sr. Software Developer – Front End - ADT - Just Remote
+https://justremote.co/remote-developer-jobs/sr-software-developer-front-end-adt
+
+(14) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+SoK - KDE Mentorship
+https://mentorship.kde.org/sok/
+
+SoK/Ideas/2024 - KDE Community Wiki
+https://community.kde.org/SoK/Ideas/2024
+
+FOSSASIA
+https://github.com/fossasia
+
+jina-ai/dalle-flow: 🌊 A Human-in-the-Loop workflow for creating HD images from text
+https://github.com/jina-ai/dalle-flow
+
 oppotunities.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

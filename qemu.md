@@ -1,7 +1,12 @@
 
 # dev
 
-qemu-system-riscv64 -cpu rv64,v=true -M virt -nographic
+./build/qemu-system-riscv64 -cpu rv64,v=true -M virt -nographic
+
+./configure --target-list=riscv64-linux-user,riscv64-softmmu --enable-debug
+
+riscv64-unknown-elf-gcc -march=rv64gcv -mabi=lp64d test_rvv.c -o test_rvv
+riscv64-linux-gnu-gcc -march=rv64gcv -mabi=lp64d test_rvv.c -o test_rvv
 
 ./configure --enable-debug --target-list=riscv64-softmmu,riscv64-linux-user --enable-fdt
 
