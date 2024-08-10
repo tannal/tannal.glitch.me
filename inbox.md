@@ -1,7 +1,5 @@
 # 2024-8-10 0 | 0 W
 
-
-
 QEMU_CPU="rv64,zfinx=true,f=false" gdb --args ./build/qemu-riscv64 a.out
 QEMU_CPU="rv64,zfinx=true,j=false" gdb --args ./build/qemu-riscv64 a.out
 QEMU_CPU="rv64,zfinx=true,f=false" gdb --args qemu-riscv64 ../a.out
