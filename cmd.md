@@ -56,6 +56,8 @@ winget install -e --id GoLang.Go.1.20
 
 
 sudo curl -fsSL https://get.docker.com |bash
+
+curl -fsSL https://get.docker.com |bash
 sudo groupadd docker
 sudo usermod -aG docker $USER
 docker run hello-world
