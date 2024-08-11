@@ -1,5 +1,11 @@
 # 2024-8-11 0 | 0 W
 
+gh release list
+
+gh release delete gtest-v1.15.2 --yes --cleanup-tag
+
+winget install --id GitHub.cli
+
 ./supervisord ctl restart
 
 # 2024-8-10 0 | 0 W
