@@ -1,4 +1,20 @@
 
+benchmark - Google Benchmark库,用于性能基准测试
+Threads - 线程库
+Java/JNI - 用于Java绑定
+JeMalloc - 内存分配器
+gflags - 命令行参数解析库
+Snappy - 快速压缩/解压缩库
+ZLIB - 数据压缩库
+BZip2 - 数据压缩库
+LZ4 - 快速压缩算法
+zstd - 压缩算法库
+NUMA - 非一致内存访问支持
+TBB (Intel Threading Building Blocks) - 并行编程库
+jemalloc-headers - JeMalloc头文件
+Backtrace - 用于生成堆栈跟踪
+GTEST - Google Test框架(你已经提到过)
+
 
 虚拟机服务（如EC2）
 核心过程：

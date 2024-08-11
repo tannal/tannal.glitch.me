@@ -1,5 +1,16 @@
 # 2024-8-11 0 | 0 W
 
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://dockerproxy.com/"]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+
+sudo journalctl -u docker.service
+
 docker --log-level debug run hello-world
 
 adb devices
