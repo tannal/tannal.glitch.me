@@ -1,5 +1,9 @@
 # 2024-8-11 0 | 0 W
 
+cargo install --git https://github.com/taiki-e/cargo-hack cargo-hack
+
+gh repo set-default fork
+
 export http_proxy=http://localhost:7890
 export https_proxy=http://localhost:7890
 export HTTPS_PROXY=http://localhost:7890
@@ -39,6 +43,9 @@ go install github.com/cli/cli
 
 gh workflow run "Build and Release Google Test" --ref main
 gh workflow run "Build LLVM, V8, and SpiderMonkey" --ref main
+
+
+gh workflow run "cargo clippy" --ref main
 
 
 go install github.com/cli/cli
