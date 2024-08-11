@@ -1,3 +1,104 @@
+# 2024-8-11
+
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Releases · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/releases
+
+tannal (tannal)
+https://github.com/tannal/
+
+Docker Images - Complete Intro to Containers, v2
+https://frontendmasters.com/courses/complete-intro-containers-v2/docker-images/
+
+Steve Jobs: The Objects Of Our Life (1983) - YouTube
+https://www.youtube.com/watch?v=n8Q7gXwavUU
+
+tannal/cv - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv
+
+(30) Discord | #general | omniclip
+https://discord.com/channels/1238412779359174678/1238412779845718057
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+rustdesk key mismatch - Google 搜索
+https://www.google.com/search?q=rustdesk+key+mismatch&rlz=1C1GCEA_enJP1090JP1090&oq=rustdesk+key+mis%27&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIJCAMQABgTGIAEMgkIBBAAGBMYgAQyCggFEAAYCBgTGB4yCggGEAAYCBgTGB4yCggHEAAYgAQYogQyCggIEAAYgAQYogQyCggJEAAYgAQYogTSAQg1OTc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Code search results
+https://github.com/search?q=repo%3Arustdesk%2Frustdesk%20ref.&type=code
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+(262) #general > Publish new versions of crates in core-foundation-rs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Publish.20new.20versions.20of.20crates.20in.20core-foundation-rs
+
+How to learn Vello? · Issue #384 · linebender/vello
+https://github.com/linebender/vello/issues/384
+
+rust-skia/rust-skia: Rust Bindings for the Skia Graphics Library
+https://github.com/rust-skia/rust-skia
+
+Typst
+https://github.com/typst
+
+RazrFalcon/tiny-skia: A tiny Skia subset ported to Rust
+https://github.com/RazrFalcon/tiny-skia?tab=readme-ov-file
+
+tiny-skia benchmarks
+https://razrfalcon.github.io/tiny-skia/x86_64.html
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+tannal/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/tannal/vello/
+
+(1310) #study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1911935 - Remove network.IDN_show_punycode pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911935
+
+Firefox Development Is Moving from Mercurial to Git | Hacker News
+https://news.ycombinator.com/item?id=38160161
+
+martinvonz/jj: A Git-compatible VCS that is both simple and powerful
+https://github.com/martinvonz/jj
+
+Mercurial github - Google 搜索
+https://www.google.com/search?q=Mercurial+github&sca_esv=ec7d541e5a19d59e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKxODy61hVGpDn9KrQsYlj5c7k0KA%3A1723356533164&ei=dVW4ZtfdCavUkPIPr77AwAk&ved=0ahUKEwiX7Ouvo-yHAxUrKkQIHS8fEJgQ4dUDCBA&uact=5&oq=Mercurial+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEE1lcmN1cmlhbCBnaXRodWIyCBAAGIAEGMsBMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSNgOUPwCWOENcAF4AZABAJgB3wagAfsRqgELMi0yLjEuMS4wLjG4AQPIAQD4AQGYAgagAokSwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHpgDAIgGAZAGCpIHDTEuMC4xLjIuMS4wLjGgB_wP&sclient=gws-wiz-serp
+
+fs.cpSync fails when copying to a directory with a name starting with the source directory name · Issue #54285 · nodejs/node
+https://github.com/nodejs/node/issues/54285
+
+fs: fix subdirectory detection logic by RedYetiDev · Pull Request #54288 · nodejs/node
+https://github.com/nodejs/node/pull/54288
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?selected_team_id=T06G50708
+
+Remove unused/outdated run-layout-jsc script by kmiller68 · Pull Request #31969 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/31969/files
+
 # 2024-8-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
