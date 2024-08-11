@@ -1,5 +1,7 @@
 # 2024-8-11 0 | 0 W
 
+docker --log-level debug run hello-world
+
 adb devices
 adb tcpip 5555
 adb connect 192.168.119.197:5555
