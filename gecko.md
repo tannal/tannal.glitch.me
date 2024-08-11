@@ -1,5 +1,9 @@
 # dev
 
+Bug 1911935 - Remove network.IDN_show_punycode pref?gregp
+
+python ./mach lint --ongoing
+
 Bug 1886716 - Remove reference to nonexistent nsIPointerEvent.idl
 
 

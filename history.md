@@ -1,5 +1,101 @@
 # 2024-8-11
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D219026 Bug 1911935 - Remove network.IDN_show_punycode pref r?gregp
+https://phabricator.services.mozilla.com/D219026
+
+⚙ D206579 Bug 1889536 - Migrate IDNA handling to ICU4X.
+https://phabricator.services.mozilla.com/D206579#7259182
+
+winit/examples/window.rs at master · rust-windowing/winit
+https://github.com/rust-windowing/winit/blob/master/examples/window.rs
+
+Linebender
+https://github.com/linebender
+
+network.IDN_show_punycode - mozsearch
+https://searchfox.org/mozilla-central/search?q=network.IDN_show_punycode&path=&case=false&regexp=false
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+linebender/druid: A data-first Rust-native UI design toolkit.
+https://github.com/linebender/druid
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+just check · tannal/servo@12245b8
+https://github.com/tannal/servo/actions/runs/10340144946/job/28620380537
+
+(30) Discord | #y-crdt-devs | Y Community
+https://discord.com/channels/839953103276212235/929072436572487740
+
+Deep dive into Yrs architecture
+https://www.bartoszsypytkowski.com/yrs-architecture/
+
+vello/examples/scenes/src/svg.rs at 02cfbd93e25c4424da602ab34fc39e3d92e12661 · linebender/vello
+https://github.com/linebender/vello/blob/02cfbd93e25c4424da602ab34fc39e3d92e12661/examples/scenes/src/svg.rs#L90
+
+Expose SQLite? · Issue #53264 · nodejs/node
+https://github.com/nodejs/node/issues/53264
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1298) #chatter > Anyone heard of Moho before? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Anyone.20heard.20of.20Moho.20before.3F
+
+(1298) #gpu > Rive vector renderer open sourced - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Rive.20vector.20renderer.20open.20sourced
+
+Pixel Local Storage (PLS)
+https://dawn.googlesource.com/dawn/+/refs/heads/main/docs/dawn/features/pixel_local_storage.md
+
+Rive Renderer for real-time vector graphics is now open source | Hacker News
+https://news.ycombinator.com/item?id=39766893
+
+rive-app/rive-renderer: Downstream repo for Rive renderer
+https://github.com/rive-app/rive-renderer/tree/main
+
+Rive Renderer — now open source and available on all platforms
+https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms
+
+Rive
+https://github.com/rive-app
+
+jabuwu.github.io/rusty_spine/
+https://jabuwu.github.io/rusty_spine/
+
+jabuwu (jabu)
+https://github.com/jabuwu
+
+pollster - crates.io: Rust Package Registry
+https://crates.io/crates/pollster
+
+cargo toml git dependency - Google 搜索
+https://www.google.com/search?q=cargo+toml+git+dependency&rlz=1C1GCEA_enJP1090JP1090&oq=cargo+toml+git&gs_lcrp=EgZjaHJvbWUqBwgEEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhBFGDwyBggHEEUYPNIBCDU1MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Getting reviews — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/reviews.html
+
+open2: exec of watchman -j --no-pretty failed: No such file or directory at .git/hooks/query-watchman line 78. - Google 搜索
+https://www.google.com/search?q=open2%3A+exec+of+watchman+-j+--no-pretty+failed%3A+No+such+file+or+directory+at+.git%2Fhooks%2Fquery-watchman+line+78.&rlz=1C1GCEA_enJP1090JP1090&oq=open2%3A+exec+of+watchman+-j+--no-pretty+failed%3A+No+such+file+or+directory+at+.git%2Fhooks%2Fquery-watchman+line+78.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTMzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#firefox-contributors-quick-reference
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt?tab=readme-ov-file
+
+AppFlowy.IO
+https://www.appflowy.io/
+
+Univer Sheets Multi Instance
+http://localhost:3002/sheets-multi/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

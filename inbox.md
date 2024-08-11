@@ -1,6 +1,10 @@
 # 2024-8-11 0 | 0 W
 
+vello winit raw-window-handle env_logger log nalgebra rand 
 gh workflow run "ci" --ref main-ci
+gh workflow run "Main" --ref fix
+
+gh repo set-default origin
 
 rustup self uninstall
 
