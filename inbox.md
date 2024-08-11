@@ -1,5 +1,10 @@
 # 2024-8-11 0 | 0 W
 
+export http_proxy=http://localhost:7890
+export https_proxy=http://localhost:7890
+export HTTPS_PROXY=http://localhost:7890
+export HTTP_PROXY=http://localhost:7890
+
 sudo mkdir -p /etc/docker
 sudo tee /etc/docker/daemon.json <<-'EOF'
 {

@@ -1,5 +1,110 @@
 # 2024-8-11
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - solid space capybara
+https://github.com/codespaces/solid-space-capybara-pjjj4q6gr4xgf7599?editor=vscode
+
+fs.cpSync fails when copying to a directory with a name starting with the source directory name · Issue #54285 · nodejs/node
+https://github.com/nodejs/node/issues/54285
+
+Code search results
+https://github.com/search?q=repo%3Afacebook%2Frocksdb+find_package%28&type=code
+
+xairy/linux-kernel-exploitation: A collection of links related to Linux kernel security and exploitation
+https://github.com/xairy/linux-kernel-exploitation
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer
+
+3.1. Overview :: Hironobu SUZUKI @ InterDB
+https://www.interdb.jp/pg/pgsql03/01.html
+
+* web-inspector-dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU65DUH7F?selected_team_id=T06G50708
+
+Pull Requests · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Pull-Requests#bug-tracking
+
+Contributing · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Contributing#setup
+
+Releases · glandium/git-cinnabar
+https://github.com/glandium/git-cinnabar/releases
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+cli/cli: GitHub’s official command line tool
+https://github.com/cli/cli
+
+update · tannal/actions@9be7acb
+https://github.com/tannal/actions/actions/runs/10338340537/job/28616287985
+
+Building Firefox On Windows — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/setup/windows_build.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+winget install docker - Google 搜索
+https://www.google.com/search?q=winget+install+docker&sca_esv=322f216abba8e01c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKGVv1iES5a8Hbp9iXPEPTVB5ofFw%3A1723360616729&ei=aGW4Zt-fLOLekPIPk7i_sAM&ved=0ahUKEwjf84TLsuyHAxViL0QIHRPcDzYQ4dUDCBA&uact=5&oq=winget+install+docker&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXdpbmdldCBpbnN0YWxsIGRvY2tlcjIIEAAYgAQYywEyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyBhAAGAgYHjIGEAAYCBgeSPoIUOIBWMgHcAF4AZABAJgB-gKgAaoMqgEFMi0yLjO4AQPIAQD4AQGYAgagArgMwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnmAMAiAYBkAYKkgcHMS4wLjIuM6AHkhY&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Releases · containers/podman
+https://github.com/containers/podman
+
+Cannot download Docker images behind a proxy - Stack Overflow
+https://stackoverflow.com/questions/23111631/cannot-download-docker-images-behind-a-proxy
+
+ttl.sh | An anonymous & ephemeral (and free) Docker image registry
+https://ttl.sh/
+
+The Commercial Software Distribution Platform | Replicated
+https://www.replicated.com/
+
+Univer
+http://localhost:3002/
+
+library/hello-world - Google 搜索
+https://www.google.com/search?q=library%2Fhello-world&rlz=1C1GCEA_enJP1090JP1090&oq=library%2Fhello-world&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgFGB4yCAgCEAAYBRgeMggIAxAAGAUYHjIICAQQABgIGB4yCAgFEAAYCBgeMgoIBhAAGIAEGKIEMgYIBxBFGDrSAQc2NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Go-Supervisor
+http://localhost:19001/
+
+阿里云已经不同步最新的docker hub了，别再用阿里云的镜像了！！！ - 掘金
+https://juejin.cn/post/7334653735358939177
+
+riscv-simulator/CMakeLists.txt 位于 main - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/main/CMakeLists.txt
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+find_package%28&type=code&p=2
+
+Code search results
+https://github.com/search?q=org%3AMariaDB+find_package%28&type=code&p=2
+
+Code search results
+https://github.com/search?q=org%3Aopenjdk+find_package%28&type=code&p=5
+
+jfx21u/modules/javafx.web/src/main/native/Source/cmake/WebKitCommon.cmake at 454ac50cea8f93f5c8bd7c30393d0ca2648b245f · openjdk/jfx21u
+https://github.com/openjdk/jfx21u/blob/454ac50cea8f93f5c8bd7c30393d0ca2648b245f/modules/javafx.web/src/main/native/Source/cmake/WebKitCommon.cmake#L191
+
+Pull requests · linebender/vello
+https://github.com/linebender/vello/pulls
+
+openjdk — Homebrew Formulae
+https://formulae.brew.sh/formula/openjdk
+
+tannal (tannal)
+https://github.com/tannal/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
