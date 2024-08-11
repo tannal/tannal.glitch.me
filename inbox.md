@@ -1,5 +1,10 @@
 # 2024-8-11 0 | 0 W
 
+adb devices
+adb tcpip 5555
+adb connect 192.168.43.58:5555
+adb disconnect 192.168.43.58
+
 gh release list
 
 gh release delete gtest-v1.15.2 --yes --cleanup-tag
@@ -6970,10 +6975,7 @@ C:\Users\tannal\AppData\Local\Android\Sdk
 
 editor live edit
 
-adb devices
-adb tcpip 5555
-adb connect 192.168.43.58:5555
-adb disconnect 192.168.43.58
+
 
 
 
