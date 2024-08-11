@@ -1,7 +1,110 @@
 # 2024-8-11
 
-inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
+
+network.IDN_show_punycode - mozsearch
+https://searchfox.org/mozilla-central/search?q=network.IDN_show_punycode&path=&case=false&regexp=false
+
+update · tannal/actions@9a115bc
+https://github.com/tannal/actions/actions/runs/10338503297/job/28616698967
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1911935 - Remove network.IDN_show_punycode pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911935
+
+Codespaces
+https://github.com/codespaces
+
+Univer Sheets
+http://localhost:3002/uni/
+
+build openjdk without boot jdk - Google 搜索
+https://www.google.com/search?q=build+openjdk+without+boot+jdk&rlz=1C1GCEA_enJP1090JP1090&oq=build+openjdk+without+boot+jdk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIE0gEINjQzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 (4) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Fix some warnings in examples by tannal · Pull Request #663 · linebender/vello
+https://github.com/linebender/vello/pull/663
+
+CI · tannal/vello@f5352a4
+https://github.com/tannal/vello/actions/runs/10339261503/job/28618401397
+
+Redundant imports from `std` prelude in maybe-no_std crate · Issue #12335 · rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy/issues/12335
+
+Fallout from expansion of redundant import checking · Issue #121708 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/121708
+
+CI · tannal/vello@f5d32b5
+https://github.com/tannal/vello/actions/runs/10339098122/job/28618032657
+
+Is Github Actions available on forked repositories? - Stack Overflow
+https://stackoverflow.com/questions/58221321/is-github-actions-available-on-forked-repositories
+
+(1310) #chatter > GitHub CLI - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/GitHub.20CLI
+
+taiki-e/cargo-hack: Cargo subcommand to provide various options useful for testing and continuous integration.
+https://github.com/taiki-e/cargo-hack
+
+`rustup update` panic while cleaning cache · Issue #2895 · rust-lang/rustup
+https://github.com/rust-lang/rustup/issues/2895
+
+How to uninstall Rust that was installed via rustup? - Stack Overflow
+https://stackoverflow.com/questions/52045966/how-to-uninstall-rust-that-was-installed-via-rustup
+
+Install Rust - Rust Programming Language
+https://www.rust-lang.org/tools/install
+
+start directory in docker vscode - Google 搜索
+https://www.google.com/search?q=start+directory+in+docker+vscode&rlz=1C1GCEA_enJP1090JP1090&oq=start+directory+in+docker+vscode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTExMzYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Install extensions specified in sync settings automatically · community · Discussion #33832
+https://github.com/orgs/community/discussions/33832
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Docker Desktop: The #1 Containerization Tool for Developers | Docker
+https://www.docker.com/products/docker-desktop/
+
+Is it possible to install only the docker cli and not the daemon - Stack Overflow
+https://stackoverflow.com/questions/38675925/is-it-possible-to-install-only-the-docker-cli-and-not-the-daemon
+
+run docker engine without docker desktop windows - Google 搜索
+https://www.google.com/search?q=run+docker+engine+without+docker+desktop+windows&rlz=1C1GCEA_enJP1090JP1090&oq=run+docker+engine+without&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCAgCEAAYExgeMggIAxAAGBMYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDczOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Using Docker and Kubernetes without Docker Desktop on Windows 11 – cuteprogramming
+https://cuteprogramming.blog/2023/05/21/using-docker-and-kubernetes-without-docker-desktop-on-windows-11/
+
+dtolnay/rust-toolchain: Concise GitHub Action for installing a Rust toolchain
+https://github.com/dtolnay/rust-toolchain
+
+Issues · rust-lang/rust
+https://github.com/rust-lang/rust/issues?q=is%3Aissue+is%3Aopen+clippy
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Issues · rust-lang/rust-clippy
+https://github.com/rust-lang/rust-clippy/issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=we%20are%20good%2C%20it%27s%20not%20on%20us.&op=translate
+
+CI · tannal/vello@f5d32b5
+https://github.com/tannal/vello/actions/runs/10339098122/job/28618032657#step:4:223
+
+Fix some warnings in examples by tannal · Pull Request #663 · linebender/vello
+https://github.com/linebender/vello/pull/663
+
 
 Codespaces
 https://github.com/codespaces

@@ -1,5 +1,15 @@
 # 2024-8-11 0 | 0 W
 
+gh workflow run "ci" --ref main-ci
+
+rustup self uninstall
+
+icacls "C:\Users\tannal\.rustup" /grant tannal:(OI)(CI)F /T
+
+sudo chown -R abc:abc /home/abc/.rustup
+rustup update
+C:\Users\tannal\.rustup\
+
 cargo install --git https://github.com/taiki-e/cargo-hack cargo-hack
 
 gh repo set-default fork
