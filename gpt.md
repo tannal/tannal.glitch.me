@@ -1,4 +1,85 @@
 
+
+
+    基本系统和工具链:
+        PkgConfig
+        JNI
+        Threads
+        OpenCL
+        OpenMP
+
+    图形和多媒体相关:
+        Cairo
+        Fontconfig
+        Freetype2
+        GTK3
+        GDK3
+        HarfBuzz
+        OpenGLES2
+        Wayland
+        GStreamer
+
+    编码和压缩:
+        ZLIB
+        JPEGXL
+        AVIF
+        OpenJPEG
+
+    国际化:
+        ICU
+
+    网络和安全:
+        LibPSL
+        Libsecret
+        Libseccomp
+
+    其他常用库:
+        GLIB
+        LibGcrypt
+
+    文档生成:
+        GIDocgen
+
+
+Cairo - 2D图形库
+WOFF2 - Web Open Font Format压缩库
+Wayland - Linux显示服务器协议
+OpenMP - 并行编程API
+AVIF - AV1图像文件格式
+CUDA - NVIDIA并行计算平台
+libsecret - 密码存储库
+WPE - Web Platform for Embedded
+libdrm - Direct Rendering Manager库
+libsoup - HTTP客户端/服务器库
+Manette - 游戏手柄库
+WebP - 图像格式
+SQLite - 嵌入式数据库
+OpenGL - 图形API
+systemd/journald - 系统和服务管理器
+
+这些依赖涵盖了图形、字体、显示、并行计算、加密、网络、多媒体等多个方面,反映了Java FX和OpenJDK项目的广泛功能需求。使用find_package可以方便地在不同平台上查找和配置这些第三方库。
+
+
+PkgConfig - 用于查找和配置软件包
+ICU - 国际化组件库
+LibXml2 - XML解析库
+LibXslt - XSLT处理库
+OpenMP - 并行计算支持
+GStreamer - 多媒体框架
+Fontconfig - 字体配置和自定义库
+LibEpoxy - OpenGL函数加载库
+WPE - Web Platform for Embedded
+ATK-Bridge - 无障碍工具包桥接
+Udev - 设备管理库
+LCMS2 - 颜色管理系统
+GeoClue2 - 地理位置服务
+Libseccomp - 系统调用过滤库
+
+这些依赖主要用于JavaFX和WebKit相关模块,涵盖了图形、多媒体、国际化、XML处理、无障碍等多个方面。使用find_package()可以方便地在不同平台上查找和配置这些依赖库。
+
+对于跨平台项目来说,使用CMake的find_package()机制是一种很好的做法,可以提高项目的可移植性和配置灵活性。
+
+
 benchmark - Google Benchmark库,用于性能基准测试
 Threads - 线程库
 Java/JNI - 用于Java绑定
