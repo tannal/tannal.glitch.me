@@ -1,5 +1,41 @@
 # 2024-8-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (tannal)
+https://github.com/tannal
+
+(1310) #chatter > Disjoint intervals - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Disjoint.20intervals
+
+Ask HN: Fast data structures for disjoint intervals? | Hacker News
+https://news.ycombinator.com/item?id=41000844
+
+Running the Latest Safari WebKit on Windows - DEV Community
+https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+webkit site:*.webkit.org - Google 搜索
+https://www.google.com/search?q=webkit+site:*.webkit.org&sca_esv=6d4fb2762afaf7cd&sxsrf=ADLYWILd2QfM7znX3vL7UF-N_18coEIvQA:1723298270548&ei=3nG3ZueUIdGw0PEP8LGNuA4&start=10&sa=N&sstk=Aagrsui6l5SsnIQlkg8stNa4CvtTcvp5XsE0jd5F70ZHXVgUopmE596x_0uyU5qebIhokxuSBvRa0Zk6XCPqOLwl8VtTggLxdgtrqw&ved=2ahUKEwjn-4eqyuqHAxVRGDQIHfBYA-cQ8tMDegQIBRAE&biw=1280&bih=559&dpr=1.5
+
+Buildbot: builder WinCairo-64-bit-Release-Build build 20174
+https://build.webkit.org/#/builders/731/builds/20174
+
+Windows port - WebKit Documentation
+https://docs.webkit.org/Ports/WindowsPort.html#running-the-tests
+
+Releases · WebKitForWindows/WebKitRequirements
+https://github.com/WebKitForWindows/WebKitRequirements/releases
+
+(262) #general > fix ordering of documents - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/fix.20ordering.20of.20documents
+
+ChatGGG
+http://192.168.43.1:8080/quill.html
+
 GitHub
 https://github.com/
 
