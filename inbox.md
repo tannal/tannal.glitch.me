@@ -1,3 +1,7 @@
+# 2024-8-11 0 | 0 W
+
+./supervisord ctl restart
+
 # 2024-8-10 0 | 0 W
 
 export LD_LIBRARY_PATH=./lib
