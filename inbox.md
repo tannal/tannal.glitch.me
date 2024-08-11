@@ -2,8 +2,8 @@
 
 adb devices
 adb tcpip 5555
-adb connect 192.168.43.58:5555
-adb disconnect 192.168.43.58
+adb connect 192.168.119.197:5555
+adb disconnect 192.168.119.197
 
 gh release list
 

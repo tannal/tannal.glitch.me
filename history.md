@@ -1,5 +1,167 @@
 # 2024-8-11
 
+GitHub
+https://github.com/
+
+hiikezoe
+https://github.com/hiikezoe
+
+SheetJS - Home
+https://sheetjs.com/
+
+3.1. Overview :: Hironobu SUZUKI @ InterDB
+https://www.interdb.jp/pg/pgsql03/01.html
+
+CS 170
+https://cs170.org/
+
+#text - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/205635-text
+
+Issues · grpc/grpc-web
+https://github.com/grpc/grpc-web/issues
+
+Tracking issue: Stabilizing network inspection in Node.js · Issue #53946 · nodejs/node
+https://github.com/nodejs/node/issues/53946
+
+Performance of Wireless Networks: Introduction to Wireless Networks - High Performance Browser Netwo…
+https://hpbn.co/introduction-to-wireless-networks/
+
+RFC: First class support for promises and async/await by acdlite · Pull Request #229 · reactjs/rfcs
+https://github.com/reactjs/rfcs/pull/229/files
+
+#xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=dick&op=translate
+
+javagrowing/JGrowing: Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
+https://github.com/javagrowing/JGrowing?tab=readme-ov-file
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer
+
+Potential Challenges - Poe
+https://poe.com/chat/3dpat4ymehwf9ruw449
+
+Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News
+https://news.ycombinator.com/item?id=38759877
+
+frewsxcv/rgis: Performant, cross-platform (web, desktop) GIS app written in Rust
+https://github.com/frewsxcv/rgis/tree/main
+
+run-llama repositories
+https://github.com/orgs/run-llama/repositories
+
+news.ycombinator.com
+https://news.ycombinator.com/threads?id=kerkeslager&next=40016059
+
+The Sidebar: Every Layout
+https://every-layout.dev/layouts/sidebar/
+
+more microflash's comments | Hacker News
+https://news.ycombinator.com/threads?id=microflash&next=39824429
+
+Waveform Free audio editing software - mac, pc, linux | Tracktion
+https://www.tracktion.com/products/waveform-free
+
+LMMS
+https://github.com/LMMS
+
+ONLYOFFICE/onlyoffice-nextcloud: The app which enables the users to edit office documents from Nextc…
+https://github.com/ONLYOFFICE/onlyoffice-nextcloud
+
+1895378 - New wpt failures in /css/css-scroll-snap-2/ [snap-events-with-pseudo-target.tentative.html…
+https://bugzilla.mozilla.org/show_bug.cgi?id=1895378
+
+more tootie's comments | Hacker News
+https://news.ycombinator.com/threads?id=tootie&next=40534851
+
+Show HN: Ultralight – Lightweight, Pure-GPU HTML UI Renderer for C++ | Hacker News
+https://news.ycombinator.com/item?id=17733515
+
+5.2 Reliable Byte Stream (TCP) — Computer Networks: A Systems Approach Version 6.2-dev documentation
+https://book.systemsapproach.org/e2e/tcp.html#sliding-window-revisited
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+(210) #general > net & storage overhaul - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/net.20.26.20storage.20overhaul
+
+#masonry - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/317477-masonry
+
+(211) #general > offsetTop/offsetLeft - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/offsetTop.2FoffsetLeft
+
+Fix DOMRect calc in ResizeObserverEntry · Issue #32549 · servo/servo
+https://github.com/servo/servo/issues/32549
+
+MozJS Rust - Poe
+https://poe.com/chat/3fg9m8d4cjy7bbaorgn
+
+react/packages/react-native-renderer/src/ReactNativeBridgeEventPlugin.js at 6587fe19338d22076b9c0fe5…
+https://github.com/facebook/react/blob/6587fe19338d22076b9c0fe50185717218b4a8bc/packages/react-nativ…
+
+KwaiVGI/LivePortrait: Bring portraits to life!
+https://github.com/KwaiVGI/LivePortrait
+
+GitHub
+https://github.com/
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=poe.com&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=glowstone&sort=byPopularity&type=stor…
+
+Supabase Storage now supports the S3 protocol | Hacker News
+https://news.ycombinator.com/item?id=40083807
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=langchain&sort=byPopularity&type=stor…
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=langchain&sort=byPopularity&type=stor…
+
+Re-implementing LangChain in 100 lines of code
+https://blog.scottlogic.com/2023/05/04/langchain-mini.html
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+大量出汗头晕 - Google 搜索
+https://www.google.com/search?q=%E5%A4%A7%E9%87%8F%E5%87%BA%E6%B1%97%E5%A4%B4%E6%99%95&sca_esv=1c373…
+
+东北师范大学2024级研究生报到须知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1212/5894.htm
+
+todsacerdoti's comments | Hacker News
+https://news.ycombinator.com/threads?id=todsacerdoti
+
+JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode :: Zon8 Research — Vulnerabil…
+https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+
+xairy/linux-kernel-exploitation: A collection of links related to Linux kernel security and exploita…
+https://github.com/xairy/linux-kernel-exploitation
+
+Timeline of a React Component With Hooks | JulesBlom.com
+https://julesblom.com/writing/react-hook-component-timeline
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
