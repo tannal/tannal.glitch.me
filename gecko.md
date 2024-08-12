@@ -1,5 +1,10 @@
 # dev
 
+Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+
+
+python ./mach lint -l clippy toolkit/components/glean/api/src/ -W -v    
+
 python.exe ./mach lint --warnings
 
 Bug 1900643 Remove unused variable `purgedSiteHosts` in BounceTrackingProtection.cpp r?manuel
