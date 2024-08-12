@@ -1,5 +1,107 @@
 # 2024-8-12
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+papalqi - 知乎
+https://www.zhihu.com/people/papalqi
+
+(30) Discord | #lecture2-bigram-lm | Eureka Labs
+https://discord.com/channels/1020383067459821711/1029849849765564528
+
+访问遭拒
+https://drive.google.com/file/u/0/d/1WLVzh1re7TE6iAydYdOj7kJFfO0n5hml/edit?pli=1
+
+Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+https://github.com/Plachtaa/VALL-E-X
+
+(30) Discord | #lecture1-micrograd | Eureka Labs
+https://discord.com/channels/1020383067459821711/1029849706404249621
+
+micorgrad1.ipynb - Colab
+https://colab.research.google.com/drive/1278Y4I0iSKKsbLY9gRnXe9bK5fGNulgh?usp=sharing#scrollTo=_rJ-h29A1Vt3
+
+micrograd_exercises.ipynb - Colab
+https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing#scrollTo=3Jx9fCXl5xHd
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+@b-fuze/deno-dom - JSR
+https://jsr.io/@b-fuze/deno-dom
+
+b-fuze (b-fuze) / Repositories
+https://github.com/b-fuze?tab=repositories
+
+MySQL 服务安全加固 | 关于作者
+https://hezhiqiang.gitbook.io/about-the-author/xi-tong-an-quan-jia-gu/mysql-fu-wu-an-quan-jia-gu
+
+android internals developer's view pdf - Google 搜索
+https://www.google.com/search?q=android+internals+developer%27s+view+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=android&gs_lcrp=EgZjaHJvbWUqDAgBECMYJxiABBiKBTIJCAAQRRg5GIAEMgwIARAjGCcYgAQYigUyBggCECMYJzIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg9MgYIBxBFGD3SAQg5ODU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Pull requests · Gu-ZT/Curtain
+https://github.com/Gu-ZT/Curtain/pulls
+
+Outreachy | Internships Supporting Diversity in Tech - Outreachy
+https://www.outreachy.org/
+
+GTC 2022 - CUDA: New Features and Beyond - Stephen Jones, CUDA Architect, NVIDIA - YouTube
+https://www.youtube.com/watch?v=SAm4gwkj2Ko
+
+console: make dirxml an alias for console.log · nodejs/node@c84710d
+https://github.com/nodejs/node/commit/c84710d062dfa4b39f0aa819a61c91d513ab5d1b#diff-bcbab7b1bfa5d1db1110121f54840169601f12177c390dd9157a9422de102e2b
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+stephen jones nvidia - Google 搜索
+https://www.google.com/search?q=stephen+jones+nvidia&rlz=1C1GCEA_enJP1090JP1090&oq=Stephen+Jones+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOzIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIMTg1NmowajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+(1254) #checkins > Raph Levien - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Raph.20Levien
+
+KEYNOTE: Use.GPU - Declarative/Reactive 3D Graphics by Steven Wittens - YouTube
+https://www.youtube.com/watch?v=TAQ7yBLRZ3U
+
+(30) Discord | #🌐│feedback-web | Perplexity
+https://discord.com/channels/1047197230748151888/1083863798965878965
+
+UI Issue with self-hosted Supabase · Issue #28531 · supabase/supabase
+https://github.com/supabase/supabase/issues/28531
+
+c++ - Programmatically get the cache line size? - Stack Overflow
+https://stackoverflow.com/questions/794632/programmatically-get-the-cache-line-size
+
+How do I determine the processor's cache line size? - The Old New Thing
+https://devblogs.microsoft.com/oldnewthing/20091208-01/?p=15733
+
+CACHE_DESCRIPTOR (winnt.h) - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/zh-cn/windows/win32/api/winnt/ns-winnt-cache_descriptor?redirectedfrom=MSDN
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Android SDK Sources
+https://github.com/AndroidSDKSources
+
+scottyhardy/docker-wine - Docker Image | Docker Hub
+https://hub.docker.com/r/scottyhardy/docker-wine/
+
+micorgrad1.ipynb - Google 搜索
+https://www.google.com/search?q=micorgrad1.ipynb&rlz=1C1GCEA_enJP1090JP1090&oq=micorgrad1.ipynb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMTE4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+notebook2d79409c1e | Kaggle
+https://www.kaggle.com/code/tannal/notebook2d79409c1e/edit
+
+中国制造2025 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A02025&rlz=1C1GCEA_enJP1090JP1090&oq=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM1ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How to fine tune it? · Issue #8 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/8
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
