@@ -1,5 +1,22 @@
 # 2024-8-12 0 | 0 W
 
+
+数值优化算法在机器学习和深度学习中扮演着重要角色。我将为您详细介绍L-BFGS、Adam以及其他一些常用的数值优化算法。
+
+常用的数值优化算法
+a) 梯度下降法 (Gradient Descent)
+b) 随机梯度下降法 (Stochastic Gradient Descent, SGD)
+c) 动量法 (Momentum)
+d) Nesterov加速梯度 (Nesterov Accelerated Gradient)
+e) AdaGrad
+f) RMSprop
+g) Adam (Adaptive Moment Estimation)
+h) L-BFGS (Limited-memory BFGS)
+
+L-BFGS：常用于凸优化问题，如逻辑回归、支持向量机（SVM）等
+Adam：广泛应用于深度学习模型的训练，如卷积神经网络（CNN）、循环神经网络（RNN）、变换器（Transformer）等
+adam lbfgs
+
 adb push
 
 https://github.com/AndroidSDKSources
