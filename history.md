@@ -1,3 +1,53 @@
+# 2024-8-12
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+677. 键值映射 - 力扣（LeetCode）
+https://leetcode.cn/problems/map-sum-pairs/
+
+Fix some warnings in examples by tannal · Pull Request #663 · linebender/vello
+https://github.com/linebender/vello
+
+Release Node.js latest Build · tannal/actions
+https://github.com/tannal/actions/releases/tag/vlatest-26a507fd4718840a3428620facb347a4cb91ef0b
+
+(1267) #xilem > Keyboard focus in general - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Keyboard.20focus.20in.20general
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Univer Sheet
+http://localhost:3002/sheets/
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer
+
+Univer: Open-Source Alternative for Google Sheets, Slides, Docs | Hacker News
+https://news.ycombinator.com/item?id=40171216
+
+富文本 - 2024年8月12日周一
+https://cryptpad.fr/pad/#/2/pad/edit/q-wevOHUbhfW5XwS-+5mEeZN/
+
+ONLYOFFICE
+https://github.com/ONLYOFFICE
+
+ente-io/ente: Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+https://github.com/ente-io/ente
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+aackerman/circular-dependency-plugin: Detect circular dependencies in modules compiled with Webpack
+https://github.com/aackerman/circular-dependency-plugin
+
+tannal/cv - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv
+
 # 2024-8-11
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
