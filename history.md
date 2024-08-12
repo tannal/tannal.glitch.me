@@ -1,5 +1,53 @@
 # 2024-8-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+113. 路径总和 II - 力扣（LeetCode）
+https://leetcode.cn/problems/path-sum-ii/
+
+How to fine tune it? · Issue #8 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/8
+
+[2302.01318] Accelerating Large Language Model Decoding with Speculative Sampling
+https://arxiv.org/abs/2302.01318
+
+从头开始的训练美洲驼 · Issue #64 · ziwang-com/zero-lora
+https://github.com/ziwang-com/zero-lora/issues/64
+
+Code search results
+https://github.com/search?q=owner%3Aggerganov+gguf_get_val_str&type=code
+
+xaedes/llama.cpp at training-integrate
+https://github.com/xaedes/llama.cpp/tree/training-integrate
+
+implement 8 of 14 missing backward pass operations used by llama · xaedes/llama.cpp@757de70
+https://github.com/xaedes/llama.cpp/commit/757de70af8baeab9ce64a71b3ef56edf87289382
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+L-BFGS - Google 搜索
+https://www.google.com/search?q=L-BFGS&rlz=1C1GCEA_enJP1090JP1090&oq=L-BFGS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+优化算法——拟牛顿法之BFGS算法-CSDN博客
+https://blog.csdn.net/google19890102/article/details/45867789
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+互联网大厂月薪分布。。。
+https://mp.weixin.qq.com/s?__biz=MzU0ODMyNDk0Mw==&mid=2247504832&idx=1&sn=a7a9c4686ea0cd0916200420d4daa0c3&chksm=fb4240e0cc35c9f656d2eda1e261dbd311f9a6c1fa7f3617352f7e73a565b2fb5c92027b49a0&mpshare=1&scene=1&srcid=0812EhjJ8I2OySVYhr876Qc4&sharer_shareinfo=c014c9866e17310e72f4e2f73fb3ca79&sharer_shareinfo_first=c014c9866e17310e72f4e2f73fb3ca79#rd
+
+GitHub
+https://github.com/
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
