@@ -1,5 +1,110 @@
 # 2024-8-11
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D219026 Bug 1911935 - Remove network.IDN_show_punycode pref r?gregp
+https://phabricator.services.mozilla.com/D219026
+
+⚙ D219026 Bug 1911935 - Remove network.IDN_show_punycode pref r?gregp
+https://phabricator.services.mozilla.com/D219026?id=901506
+
+[Codespace] Request more powerful machines #2929207 - GitHub 支持
+https://support.github.com/ticket/personal/0/2929207
+
+just check · tannal/servo@12245b8
+https://github.com/tannal/servo/actions/runs/10340144946/job/28620380537
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1906157 - Use AsyncPanZoomController::ToCSSPixel in more places
+https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Loader.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/e863c64d5244f01088bf0ba8c2b943237fcee42a/layout/style/Loader.cpp#1869-1877
+
+Loader.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/e863c64d5244f01088bf0ba8c2b943237fcee42a/layout/style/Loader.cpp#1869-1877
+
+1900643 - Remove unused variable `purgedSiteHosts` in BounceTrackingProtection.cpp
+https://bugzilla.mozilla.org/show_bug.cgi?id=1900643
+
+BounceTrackingProtection.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/1d1ca77dd7ca10953c6f5f1b77b98e4eb528274e/toolkit/components/antitracking/bouncetrackingprotection/BounceTrackingProtection.cpp#591
+
+dockerfile - Self-hosted alternative to hub.docker.com? - Stack Overflow
+https://stackoverflow.com/questions/34188425/self-hosted-alternative-to-hub-docker-com
+
+tarzan | self-hosted automated docker builds that run rather fast
+https://nathanleclaire.github.io/tarzan/
+
+Roadmap for the Xilem back end in 2024 | Hacker News
+https://news.ycombinator.com/item?id=39059727
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+676. 实现一个魔法字典 - 力扣（LeetCode）
+https://leetcode.cn/problems/implement-magic-dictionary/description/
+
+分享丨【题单】动态规划（入门/背包/状态机/划分/区间/状压/数位/树形/数据结构优化） - 力扣（LeetCode）
+https://leetcode.cn/circle/discuss/tXLS3i/
+
+Node incorrectly responds 400 to invalid data sent after requests with `Connection: close` · Issue #53076 · nodejs/node
+https://github.com/nodejs/node/issues/53076
+
+whisper.cpp/.devops/cublas.Dockerfile at master · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/blob/master/.devops/cublas.Dockerfile
+
+(1267) #general > Android Tracing - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147921-general/topic/Android.20Tracing
+
+ratmice/selvage
+https://github.com/ratmice/selvage
+
+voxell-tech/bevy_typst: Typst integration for Bevy.
+https://github.com/voxell-tech/bevy_typst
+
+(255) #general > Support for the Gamepad API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Support.20for.20the.20Gamepad.20API
+
+Browsh
+https://www.brow.sh/
+
+surfman/src/platform/generic/egl/context.rs at 038955d9cf582616801d88f79259d93bb711056b · servo/surfman
+https://github.com/servo/surfman/blob/038955d9cf582616801d88f79259d93bb711056b/src/platform/generic/egl/context.rs#L475-L516
+
+你有 6 条未读消息 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzFNhLBgLqgZjmZTxBnGVrzTr
+
+Redirecting… | Slack
+https://webkit.slack.com/ssb/redirect?redir=%2Farchives%2FC029RQSEE%2Fp1723420060681809%3Fname%3DC029RQSEE%26perma%3D1723420060681809%26selected_team_id%3DT06G50708&entry_point=domain_signin
+
+YouTube
+https://www.youtube.com/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Outreachy | Opportunities with Sponsors - Outreachy
+https://www.outreachy.org/opportunities/
+
+Build for everyone — Google Careers
+https://www.google.com/about/careers/applications/#j=open%20source
+
+Mozilla Careers — All open positions at Mozilla
+https://www.mozilla.org/en-US/careers/listings/
+
+Careers at Red Hat
+https://redhat.wd5.myworkdayjobs.com/jobs/
+
+[公司远程控制家里电脑]有什么价格合适且稳定的方案么 - V2EX
+https://jp.v2ex.com/t/1044318
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
