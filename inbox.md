@@ -1,5 +1,188 @@
 # 2024-8-12 0 | 0 W
 
+
+```c++
+#include <vector>
+#include <cmath>
+#include <random>
+#include <iostream>
+
+// 简化的tensor类
+class Tensor {
+public:
+    std::vector<float> data;
+    std::vector<int> shape;
+
+    Tensor(const std::vector<int>& shape) : shape(shape) {
+        int size = 1;
+        for (int dim : shape) size *= dim;
+        data.resize(size);
+    }
+
+    float& operator()(int i, int j) {
+        return data[i * shape[1] + j];
+    }
+};
+
+// 简化的LoRA类
+class LoRA {
+public:
+    Tensor A, B;
+    int r;
+
+    LoRA(int in_features, int out_features, int r) 
+        : A({in_features, r}), B({r, out_features}), r(r) {
+        // 初始化为小的随机值
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::normal_distribution<> d(0, 0.02);
+        for (auto& val : A.data) val = d(gen);
+        for (auto& val : B.data) val = d(gen);
+    }
+
+    Tensor forward(const Tensor& input) {
+        Tensor output({input.shape[0], B.shape[1]});
+        // 简化的矩阵乘法 input * A * B
+        for (int i = 0; i < input.shape[0]; i++) {
+            for (int j = 0; j < B.shape[1]; j++) {
+                float sum = 0;
+                for (int k = 0; k < r; k++) {
+                    float temp = 0;
+                    for (int l = 0; l < input.shape[1]; l++) {
+                        temp += input(i, l) * A(l, k);
+                    }
+                    sum += temp * B(k, j);
+                }
+                output(i, j) = sum;
+            }
+        }
+        return output;
+    }
+};
+
+// 简化的自注意力机制
+class SelfAttention {
+public:
+    int dim, heads;
+    LoRA Wq, Wk, Wv, Wo;
+
+    SelfAttention(int dim, int heads) 
+        : dim(dim), heads(heads),
+          Wq(dim, dim, 8), Wk(dim, dim, 8), Wv(dim, dim, 8), Wo(dim, dim, 8) {}
+
+    Tensor forward(const Tensor& x) {
+        Tensor q = Wq.forward(x);
+        Tensor k = Wk.forward(x);
+        Tensor v = Wv.forward(x);
+
+        // 简化的注意力计算
+        Tensor attn({x.shape[0], x.shape[1]});
+        for (int i = 0; i < x.shape[0]; i++) {
+            for (int j = 0; j < x.shape[1]; j++) {
+                float sum = 0;
+                for (int l = 0; l <= j; l++) {  // 因果掩码
+                    sum += std::exp(q(i, l) * k(i, j) / std::sqrt(dim / heads));
+                }
+                attn(i, j) = sum;
+            }
+        }
+
+        // 应用注意力
+        Tensor out({x.shape[0], dim});
+        for (int i = 0; i < x.shape[0]; i++) {
+            for (int j = 0; j < dim; j++) {
+                float sum = 0;
+                for (int l = 0; l < x.shape[1]; l++) {
+                    sum += attn(i, l) * v(i, j);
+                }
+                out(i, j) = sum;
+            }
+        }
+
+        return Wo.forward(out);
+    }
+};
+
+// 简化的Transformer块
+class TransformerBlock {
+public:
+    SelfAttention attn;
+    LoRA ffn1, ffn2;
+
+    TransformerBlock(int dim, int heads) 
+        : attn(dim, heads), ffn1(dim, 4*dim, 8), ffn2(4*dim, dim, 8) {}
+
+    Tensor forward(const Tensor& x) {
+        Tensor attn_out = attn.forward(x);
+        // 残差连接
+        for (int i = 0; i < x.shape[0]; i++) {
+            for (int j = 0; j < x.shape[1]; j++) {
+                attn_out(i, j) += x(i, j);
+            }
+        }
+        
+        Tensor ffn_out = ffn2.forward(ffn1.forward(attn_out));
+        // 另一个残差连接
+        for (int i = 0; i < x.shape[0]; i++) {
+            for (int j = 0; j < x.shape[1]; j++) {
+                ffn_out(i, j) += attn_out(i, j);
+            }
+        }
+        
+        return ffn_out;
+    }
+};
+
+// 简化的LLaMA模型
+class LLaMA {
+public:
+    std::vector<TransformerBlock> layers;
+    LoRA embed, output;
+
+    LLaMA(int num_layers, int dim, int vocab_size) 
+        : embed(vocab_size, dim, 8), output(dim, vocab_size, 8) {
+        for (int i = 0; i < num_layers; i++) {
+            layers.emplace_back(dim, 8);
+        }
+    }
+
+    Tensor forward(const Tensor& input) {
+        Tensor x = embed.forward(input);
+        for (auto& layer : layers) {
+            x = layer.forward(x);
+        }
+        return output.forward(x);
+    }
+};
+
+// 简化的训练循环
+void train(LLaMA& model, const std::vector<Tensor>& dataset, int epochs) {
+    for (int epoch = 0; epoch < epochs; epoch++) {
+        for (const auto& batch : dataset) {
+            Tensor output = model.forward(batch);
+            // 这里应该计算损失和梯度,然后更新参数
+            // 为简化起见,我们省略这些步骤
+            std::cout << "Epoch " << epoch << ": processed batch of size " 
+                      << batch.shape[0] << "x" << batch.shape[1] << std::endl;
+        }
+    }
+}
+
+int main() {
+    LLaMA model(12, 768, 32000);  // 12层,768维,32000词汇量
+    
+    // 模拟数据集
+    std::vector<Tensor> dataset;
+    for (int i = 0; i < 10; i++) {
+        dataset.emplace_back(std::vector<int>{32, 768});
+    }
+
+    train(model, dataset, 3);  // 训练3个epoch
+
+    return 0;
+}
+```
+
 LoRA (Low-Rank Adaptation):
 LoRA是一种参数高效的微调方法,它不直接更新原始模型的权重,而是训练一些低秩矩阵来适应新任务。在训练流程中,LoRA可以大大减少需要更新的参数数量,从而加快训练速度并减少内存使用。
 损失函数 - 交叉熵 vs 平方误差和:
