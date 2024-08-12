@@ -3,6 +3,96 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Intent to Extend Experiment: Captured Surface Control
+https://groups.google.com/a/chromium.org/g/blink-dev/c/K5qB1kT6KBs
+
+Zero-width stroke acts as fill · Issue #662 · linebender/vello
+https://github.com/linebender/vello/issues/662
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst/issues?q=is%3Aissue+is%3Aopen+taffy
+
+(1223) #xilem > Minesweeper converted from Iced to Xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Minesweeper.20converted.20from.20Iced.20to.20Xilem
+
+xilem_web: Make MessageThunk public by flosse · Pull Request #504 · linebender/xilem
+https://github.com/linebender/xilem/pull/504
+
+Blitz: A lightweight, modular, extensible web renderer | Hacker News
+https://news.ycombinator.com/item?id=41221252
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w
+
+Towards a Modern Web Stack (Ian 'Hixie' Hickson) | Hacker News
+https://news.ycombinator.com/item?id=34612696
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+7 Things I've learned building a modern TUI Framework
+https://www.textualize.io/blog/7-things-ive-learned-building-a-modern-tui-framework/
+
+Issues · spion/adbfs-rootless
+https://github.com/spion/adbfs-rootless/issues
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+739616 - Check or remove rv from GetUrlForUri() call, in nsMsgAttachmentHandler.cpp
+https://bugzilla.mozilla.org/show_bug.cgi?id=739616
+
+⚙ D219053 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+https://phabricator.services.mozilla.com/D219053
+
+AsyncPanZoomController.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/3d173a6ad865eb778eb7a85de900e92774559ed6/gfx/layers/apz/src/AsyncPanZoomController.cpp#568,581
+
+AsyncPanZoomController.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/3d173a6ad865eb778eb7a85de900e92774559ed6/gfx/layers/apz/src/AsyncPanZoomController.cpp#568,581
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Reduce size of `target` directory · Issue #66348 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/66348
+
+Cache usage meta tracking issue · Issue #7150 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/7150
+
+The Day The Standard Library Died | cor3ntin
+https://cor3ntin.github.io/posts/abi/
+
+View 1 · Cargo Roadmap
+https://github.com/orgs/rust-lang/projects/37/views/1
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+Framework Snippets - Visual Studio Code Can Do That?
+https://frontendmasters.com/courses/customize-vs-code/framework-snippets/
+
+Issues · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/issues
+
+Rustdesk – Remote desktop software, an open source TeamViewer alternative | Hacker News
+https://news.ycombinator.com/item?id=31456007
+
+Consider deprecation of UB-happy `static mut` · Issue #53639 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/53639
+
+eddyb (Eduard-Mihai Burtescu)
+https://github.com/eddyb
+
+LykenSol - Google 搜索
+https://www.google.com/search?q=LykenSol&rlz=1C1GCEA_enJP1090JP1090&oq=LykenSol&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 113. 路径总和 II - 力扣（LeetCode）
 https://leetcode.cn/problems/path-sum-ii/
 
