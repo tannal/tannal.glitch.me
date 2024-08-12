@@ -1,3 +1,13 @@
+# 2024-8-12 0 | 0 W
+
+https://github.com/AndroidSDKSources
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Auxiliary\Build
+
+cl /EHsc main.cc
+
+cl /EHsc main.cc user32.lib gdi32.lib
+
 # 2024-8-11 0 | 0 W
 
 vello winit raw-window-handle env_logger log nalgebra rand 
