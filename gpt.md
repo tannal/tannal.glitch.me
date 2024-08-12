@@ -50,7 +50,7 @@ CUDA - NVIDIA并行计算平台
 libsecret - 密码存储库
 WPE - Web Platform for Embedded
 libdrm - Direct Rendering Manager库
-libsoup - HTTP客户端/服务器库
+libsoupxi - HTTP客户端/服务器库
 Manette - 游戏手柄库
 WebP - 图像格式
 SQLite - 嵌入式数据库

@@ -1,6 +1,12 @@
 # dev
 
-Bug 1911935 - Remove network.IDN_show_punycode pref?gregp
+python.exe ./mach lint --warnings
+
+Bug 1900643 Remove unused variable `purgedSiteHosts` in BounceTrackingProtection.cpp r?manuel
+
+
+
+Bug 1911935 - Remove network.IDN_show_punycode pref r?gregp
 
 python ./mach lint --ongoing
 
