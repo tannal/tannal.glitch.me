@@ -1,5 +1,8 @@
 # 2024-8-13 0 | 0 W
 
+pnpm i @univerjs/docs    @univerjs/ui    vue    ws    y-websocket    yjs 
+pnpm i -D @vitejs/plugin-vue vite
+
 git format-patch -1 6590ab32bcac9e7444e6b10e05ec96ae5175114f --stdout > merge.patch
 
 git format-patch -1 d8570c931df76730d9b58dba4ceed1d75ab5a3f7 -1 39670d802cb8b3b59aa80200df6a48db72d7d306 -1 5139cc50df65e69dc4b3aa99805563258f0c6aec --stdout > merge.patch

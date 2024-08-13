@@ -1,6 +1,12 @@
 
 # dev
 
+gh workflow run "Build Windows" --ref fix
+gh workflow run "Test Macos" --ref fix
+gh workflow run "Test Linux" --ref fix
+gh workflow run "Coverage Winodws" --ref fix
+gh workflow run "Coverage Linux" --ref fix
+gh workflow run "Coverage Macos" --ref fix
 
 https://github.com/nodejs/node/pull/54288
 
