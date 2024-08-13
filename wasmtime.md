@@ -2,6 +2,8 @@
 
 # inbox
 
+node tools/eslint/node_modules/eslint/bin/eslint.js --cache --max-warnings=0 --report-unused-disable-directives eslint.config.mjs .\test\
+
 gh workflow run "CI" --ref ci
 
 author:bnjbvr
