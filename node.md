@@ -72,6 +72,7 @@ gh workflow run "Test Linux" --ref fix
 gh workflow run "Coverage Winodws" --ref fix
 gh workflow run "Coverage Linux" --ref fix
 gh workflow run "Coverage Macos" --ref fix
+gh workflow run "Linters" --ref fix
 
 https://github.com/nodejs/node/pull/54288
 
