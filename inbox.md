@@ -1,5 +1,7 @@
 # 2024-8-12 0 | 0 W
 
+gh workflow run "Auto Start CI" --ref fix
+
 
 ```c++
 #include <vector>
