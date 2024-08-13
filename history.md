@@ -1,5 +1,140 @@
 # 2024-8-13
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+gcListener - Search
+https://source.chromium.org/search?q=gcListener&sq=&ss=chromium%2Fchromium%2Fsrc
+
+rejected-words.yml - mozsearch
+https://searchfox.org/mozilla-central/rev/f1f47191c28f9e0823db70b34eb7d3c623c1a704/tools/lint/rejected-words.yml#176
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer?tab=readme-ov-file#user-content-fn-1-1d3e127b46e729534ec3a4b2d3684a74
+
+(31) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+Selector from counter/state value · Issue #4742 · typst/typst
+https://github.com/typst/typst/issues/4742
+
+Workflow runs · tannal/node
+https://github.com/tannal/node/actions
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+tannal (tannal)
+https://github.com/tannal/
+
+CV-Developer - Online LaTeX Editor Overleaf
+https://www.overleaf.com/project/659d07e9f614bdb3aa96fd58
+
+dream-num/univer: Univer is an open-source alternative to Google Sheets, Slides, and Docs
+https://github.com/dream-num/univer
+
+@univerjs/docs - npm
+https://www.npmjs.com/package/@univerjs/docs
+
+Pull requests · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/pulls
+
+tabs.onUpdated - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/onUpdated#changeinfo_2
+
+Cool Page Tracker
+http://localhost:5173/
+
+Issue search results
+https://github.com/search?q=involves%3Avjeux&type=issues
+
+SSLSocket.getpeercert returns none if cert isn't valid · Issue #122962 · python/cpython
+https://github.com/python/cpython/issues/122962
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_1zo4894wsz8.html?s3=pca_115_number_enlarge&s4=0&vfrmblk=pca_115_number_enlarge&vfrm=3&s2=3&vfrmrst=0
+
+ggerganov's comments | Hacker News
+https://news.ycombinator.com/threads?id=ggerganov
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+943410 - Use range analysis to eliminate bailouts for unsigned div and mod
+https://bugzilla.mozilla.org/show_bug.cgi?id=943410
+
+1856240 - ClearKeyUtils.cpp: Variable 'out[i]' is assigned a value that is never used.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1856240
+
+1898653 - Remove layout.css.inline-style-caching.always-enabled pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898653
+
+Loader.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/e863c64d5244f01088bf0ba8c2b943237fcee42a/layout/style/Loader.cpp#1869-1877
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/e863c64d5244f01088bf0ba8c2b943237fcee42a/modules/libpref/init/StaticPrefList.yaml#8816-8820
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355/files
+
+nodejs/github-bot: @nodejs-github-bot's heart and soul
+https://github.com/nodejs/github-bot
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/issues
+
+[clang-tidy] fix false negatives for performance-inefficient-vector-operation by HerrCai0907 · Pull Request #95667 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/95667/files
+
+tannal (tannal)
+https://github.com/tannal/
+
+Introduction | WASI.dev
+https://wasi.dev/
+
+Careers | FORVIA
+https://www.forvia.com/en/careers
+
+Explore all our job openings | BMW Group Careers
+https://www.bmwgroup.jobs/content/grpw/websites/bmwgroup_jobs/us/en/jobs.html
+
+Issue search results
+https://github.com/search?q=author%3Abnjbvr&type=issues
+
+is matrix owned by mozilla ? - Google 搜索
+https://www.google.com/search?q=is+matrix+owned+by+mozilla+%3F&sca_esv=cd1c1d76151aa7bf&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJv9V_fBgSyaSMh89NlpZ2I7Xslbg%3A1723559690644&ei=Cm-7ZuOIJ6fy0PEPtpvYsA0&ved=0ahUKEwjjtfCYmPKHAxUnOTQIHbYNFtYQ4dUDCA8&uact=5&oq=is+matrix+owned+by+mozilla+%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGlzIG1hdHJpeCBvd25lZCBieSBtb3ppbGxhID8yChAAGLADGNYEGEcyChAAGLADGNYEGEdIsAVQNFjUAnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwCIBgGQBgKSBwExoAcA&sclient=gws-wiz-serp
+
+Main · tannal/servo@9e1a098
+https://github.com/tannal/servo/actions/runs/10371861983/job/28713158186
+
+Issue search results
+https://github.com/search?q=author%3Abnjbvr&type=issues
+
+Issue search results
+https://github.com/search?q=author%3Acfallin&type=issues
+
+[tannal/wasmtime] Run cancelled: CI - ci (8064cdd) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzFPrJSWgNWVHdPZKRptjrsvh
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Workflow runs · tannal/wasmtime
+https://github.com/tannal/wasmtime/actions/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+CI · tannal/wasmtime@8064cdd
+https://github.com/tannal/wasmtime/actions/runs/10371962333/job/28713538015
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
