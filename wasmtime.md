@@ -2,6 +2,9 @@
 
 # inbox
 
+gh workflow run "CI" --ref ci
+
+author:bnjbvr
 
 RUST_LOG=trace
 

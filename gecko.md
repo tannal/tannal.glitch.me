@@ -1,5 +1,7 @@
 # dev
 
+Bug 1898653 Remove layout.css.inline-style-caching.always-enabled pref r?emilio
+
 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
 
 
