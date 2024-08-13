@@ -1,5 +1,24 @@
 # dev
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=943410
+这个bug讨论了在JavaScript引擎IonMonkey中改进无符号除法和取模操作的范围分析优化。主要过程如下:
+
+最初的目标是使用范围分析来消除不必要的bailout(回退到解释器执行)。
+讨论集中在改进MDiv(除法指令)的fallible()方法,使其更精确地判断何时需要bailout。
+分析了代码生成器中导致bailout的各种条件,总结为几种情况。
+提出了为MDiv添加专门的fallible检查方法的方案:
+fallibleDivU()
+fallibleDivPowTwoI()
+fallibleDivConstantI()
+fallibleDivI()
+实现了这些专门的fallible方法,并修改了Lowering阶段对应的调用。
+提交patch进行try测试,发现很多测试用例失败。
+分析失败原因,发现与寄存器分配器的选择有关,导致fallible检查没有按预期执行。
+继续分析其他失败用例,寻找共同问题。
+核心的改动是在MDiv类中添加了更精细的fallible判断,以减少不必要的bailout,提高JIT代码的效率。但实际执行中遇到了一些意外情况,需要进一步分析和调整。
+
+这个讨论展示了JIT编译器优化的复杂性,以及如何通过静态分析来改进动态执行性能
+
 Bug 1898653 Remove layout.css.inline-style-caching.always-enabled pref r?emilio
 
 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
