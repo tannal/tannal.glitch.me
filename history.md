@@ -1,5 +1,100 @@
 # 2024-8-14
 
+wasm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+javascript - How to request the Garbage Collector in node.js to run? - Stack Overflow
+https://stackoverflow.com/questions/27321997/how-to-request-the-garbage-collector-in-node-js-to-run
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Workflow runs · tannal/node
+https://github.com/tannal/node/actions
+
+Commits · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/commits/main/
+
+(1264) #study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+Latest 1.6.2 release substantial increase in hallucinations for large-v3 on CUDA · Issue #2191 · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/issues/2191
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/query/i5._scXxVDki/#R
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_1zo4894wsz8.html?s3=pca_115_number_enlarge&s4=0&vfrmblk=pca_115_number_enlarge&vfrm=3&s2=3&vfrmrst=0
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Current Job Openings | Fastly
+https://www.fastly.com/about/careers/current-openings/
+
+Cool Page Tracker
+http://localhost:5173/
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(32) Discord | #🐞│report-bugs | Univer
+https://discord.com/channels/1136129819961217077/1258388214712897598
+
+tannal/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/tannal/wasm-micro-runtime
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+开源中国
+https://web.telegram.org/a/#-1001357166616
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+921341 - Incorrect background-color bleeds on cell corners using border-radius
+https://bugzilla.mozilla.org/show_bug.cgi?id=921341
+
+1841061 - Remove "network.compress.allow_truncated_empty_brotli" pref if no regression forces this config to be flipped for a year.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1841061
+
+momentum firefox extension - Google 搜索
+https://www.google.com/search?q=momentum+firefox+extension&rlz=1C1GCEA_enJP1090JP1090&oq=momentum+firefox+ex&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCggCEAAYgAQYogQyCggDEAAYgAQYogTSAQg3MzUzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Windows 10如何关闭定位服务-百度经验
+https://jingyan.baidu.com/article/49ad8bce00000f1934d8faf6.html
+
+禁用位置服务 - Google 搜索
+https://www.google.com/search?q=%E7%A6%81%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%A6%81%E7%94%A8%E4%BD%8D%E7%BD%AE%E6%9C%8D%E5%8A%A1&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM3NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+build wamrc · tannal/wasm-micro-runtime@4fe04a4
+https://github.com/tannal/wasm-micro-runtime/actions/runs/10383490492
+
+Consistent parameter order between cont.bind and switch tags · Issue #67 · WebAssembly/stack-switching
+https://github.com/WebAssembly/stack-switching/issues/67
 
 
 # 2024-8-13

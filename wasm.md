@@ -3,6 +3,11 @@
 
 emscripten
 
+gh repo set-default tannal/wasm-micro-runtime
+
+gh workflow run "build wamrc" --ref ci
+
+
 
 # people
 
