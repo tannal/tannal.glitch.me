@@ -2,6 +2,10 @@
 
 # inbox
 
+git remote add remote "Continuous integration"
+gh repo set-default 
+gh workflow run "Continuous integration" --ref ci
+
 selector
 
 .\target\debug\typst.exe query .\test.typ heading
