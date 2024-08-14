@@ -1,5 +1,42 @@
 # dev
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1437885
+问题描述:
+在Windows系统上,当操作系统级别的位置服务被关闭时,Firefox浏览器中使用位置权限的扩展会反复弹出请求启用位置服务的对话框。
+原因分析:
+Firefox使用Windows的原生位置API来获取位置信息。
+当位置服务关闭时,Windows API会返回错误,但Firefox没有正确处理这个错误状态。
+Firefox没有记住用户拒绝位置请求的决定,导致重复弹出对话框。
+解决思路:
+在WindowsLocationProvider类中添加一个布尔标志,用来记录用户是否已经拒绝了位置请求。
+修改WindowsLocationProvider::Startup()方法,检查Windows API返回的错误码。
+如果返回ERROR_ACCESS_DENIED,说明位置服务被禁用,设置标志并避免再次调用RequestPermissions。
+在后续的位置请求中,先检查这个标志,如果已被拒绝就直接返回,不再弹出对话框。
+具体实现:
+在WindowsLocationProvider类中添加bool成员变量mDenied。
+在Startup()方法中,调用RequestPermissions后检查返回值:
+cpp
+
+复制
+if (FAILED(location->RequestPermissions(...))) {
+  if (GetLastError() == ERROR_ACCESS_DENIED) {
+    mDenied = true;
+    return NS_ERROR_FAILURE;
+  }
+}
+在Startup()方法开始处添加检查:
+cpp
+
+复制
+if (mDenied) {
+  return NS_ERROR_FAILURE;
+}
+后续优化:
+考虑使用GetReportStatus来获取当前状态,以适应用户可能在系统设置中启用位置服务的情况。
+如果GetReportStatus返回REPORT_ACCESS_DENIED等错误状态,可以考虑切换到MLS(Mozilla Location Service)作为备选。
+最新进展:
+根据最近的评论,这个问题可能已经在新版本的Windows和Firefox中得到了改善或修复。建议在最新的Windows 11和Firefox版本上重新验证这个问题是否仍然存在。
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=943410
 这个bug讨论了在JavaScript引擎IonMonkey中改进无符号除法和取模操作的范围分析优化。主要过程如下:
 
