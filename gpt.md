@@ -1,5 +1,38 @@
 
 
+cont.bind 指令:
+这是 WebAssembly 中的一个提议指令,用于绑定continuation的参数。Continuation 是一种表示程序执行状态的对象,可以用来实现协程、异常处理等高级控制流。
+参数绑定顺序:
+指的是 cont.bind 指令绑定参数的顺序。可以是从左到右(当前方式),或从右到左(提议的改变)。
+switch 和 suspend 指令:
+switch: 用于切换到另一个 continuation
+suspend: 用于暂停当前 continuation 的执行
+Desugaring:
+指将高级语言结构转换为更基本的指令序列的过程。真正的 desugaring 应该是局部的、组合的,不需要全局信息。
+全局信息:
+指需要对整个程序或模块的信息才能进行的转换或优化。这与局部的 desugaring 相对。
+Handler:
+在这个上下文中,指处理特定事件或状态的函数或代码块,比如处理 suspended continuation 的代码。
+发送方和接收方:
+发送方: 调用 switch 或 suspend 的代码
+接收方: 处理 switched 或 suspended continuation 的代码
+核心过程和原理:
+
+cont.bind 的作用是允许预先绑定某些参数到 continuation,这对于统一不同类型的 continuation 很有用。
+参数绑定顺序影响了:
+实现效率(如值栈的管理)
+与其他指令(如 switch, suspend)的一致性
+某些优化和重写的可能性
+讨论的核心是要在以下几点之间找平衡:
+类型系统的灵活性
+实现的效率
+整个系统的一致性
+满足重要使用场景的需求
+最终倾向于保持从左到右的绑定顺序,主要考虑是:
+保持与 switch 和 suspend 指令参数顺序的一致性
+符合值栈自然增长的方式
+满足统一不同类型 continuation 的使用场景
+
 Fastly是一家领先的边缘云平台提供商,专注于内容分发网络(CDN)、边缘计算和安全服务。让我为您分析Fastly的核心技术、产品、过程和盈利模式:
 
 核心技术:
