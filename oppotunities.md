@@ -45,6 +45,8 @@ https://www.fermyon.com/
 
 https://github.com/envoyproxy/envoy
 
+https://www.fastly.com/about/careers/current-openings/
+
 Tetrate
 
 Fastly
