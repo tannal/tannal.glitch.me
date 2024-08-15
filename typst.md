@@ -6,6 +6,8 @@ git remote add remote "Continuous integration"
 gh repo set-default 
 gh workflow run "Continuous integration" --ref ci
 
+cargo test -p typst-tests --test tests
+
 selector
 
 .\target\debug\typst.exe query .\test.typ heading

@@ -1,5 +1,6 @@
 # 2024-8-15 0 | 0 W
 
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=intent%20to%20ship
 
 # 2024-8-14 0 | 0 W
 
