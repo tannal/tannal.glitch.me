@@ -1,5 +1,122 @@
 # 2024-8-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_1d60y56vbq8.html?ht=0&ischarge=false&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E7%AC%AC31%E9%9B%86&vid=27f0416713d2c121829de9e4570d7682&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=31&vfrm=wna_tvg_select&vfrmblk=wna_tvg_select&vfrmrst=24&pb2=bkt=&c1=&e=&fatherid=&position=9&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_B,8873_A,8883_B,8971_D,8983_B,7423_C,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_B,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A&lt=2
+
+1841061 - Remove "network.compress.allow_truncated_empty_brotli" pref if no regression forces this config to be flipped for a year.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1841061
+
+1913213 - Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913213
+
+allow_truncated_empty_brotli - mozsearch
+https://searchfox.org/mozilla-central/search?q=allow_truncated_empty_brotli&path=&case=false&regexp=false
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+m:nsDisplayListBuilder::SubtractFromVisibleRegion (nsDisplayList.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/layout/painting/nsDisplayList.cpp#1049-1064
+
+m:nsDisplayListBuilder::SubtractFromVisibleRegion (nsDisplayList.h - mozsearch)
+https://searchfox.org/mozilla-central/source/layout/painting/nsDisplayList.h#789-794
+
+(32) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+(1177) #new members > fardarter - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members/topic/fardarter
+
+Xilem 2024 plans - Linebender
+https://linebender.org/blog/xilem-2024/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+[CN] Android Dev
+https://web.telegram.org/a/#-1001007820357
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQc3NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+我国 7 月 CPI 同比下降 0.3%，PPI 同比下降 4.4%，如何解读？哪些信息值得关注？ - 知乎
+https://www.zhihu.com/question/616368793
+
+每日经济新闻 - 知乎
+https://www.zhihu.com/org/mei-ri-jing-ji-xin-wen
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQc2NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(213) #general > OpenHarmony support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/OpenHarmony.20support
+
+Main · tannal/servo@9e1a098
+https://github.com/tannal/servo/actions/runs/10371861983/job/28713158186
+
+Self hosted Docker registry
+https://blog.aawadia.dev/2022/11/02/docker-registry-ci/
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node/
+
+Issue search results
+https://github.com/search?q=author%3ATrott%20&type=issues
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Lazy Loading JavaScript Components - JavaScript Design Patterns for Web Apps
+https://frontendmasters.com/courses/js-design-patterns/lazy-loading-javascript-components/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#commit-message
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits/master/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+`event.keycode` is incorrect on function keys · Issue #974 · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/issues/974
+
+Releases · helix-editor/helix
+https://github.com/helix-editor/helix/releases
+
+Issue search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+skia&type=issues
+
+Animated/smooth cursor movement · Issue #4991 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/4991
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+(32) Discord | #y-crdt-devs | Y Community
+https://discord.com/channels/839953103276212235/929072436572487740
+
+y-crdt/y-crdt: Rust port of Yjs
+https://github.com/y-crdt/y-crdt/
+
+Linux · tannal/servo@8a06532
+https://github.com/tannal/servo/actions/runs/10399405534/job/28798222887
+
+(1177) #checkins > Olivier Faure - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Olivier.20Faure
+
+中国7月cpi 东方财富网 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD7%E6%9C%88cpi+%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C%E7%BD%91&sca_esv=20a76472aa525adb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJUwuOEd38q34bKBZJd88TYTl5Cyg%3A1723700636065&ei=nJW9ZpTYA4D5kPIPiZWz2QY&ved=0ahUKEwiUlvKgpfaHAxWAPEQIHYnKLGsQ4dUDCA8&uact=5&oq=%E4%B8%AD%E5%9B%BD7%E6%9C%88cpi+%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C%E7%BD%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiHeS4reWbvTfmnIhjcGkg5Lic5pa56LSi5a-M572RMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESOcZUJ0CWPsYcAF4AJABAJgBkASgAeYpqgEKMi0xMi4zLjEuMbgBA8gBAPgBAZgCEKAC7iTCAgcQIxiwAxgnwgIIEAAYgAQYsAPCAgcQABiwAxgewgILEAAYgAQYsAMYogTCAgsQABiwAxiiBBiJBcICBBAjGCfCAgQQABgewgIIEAAYogQYiQXCAgUQIRigAZgDAIgGAZAGB5IHCjEuMC4xMC4zLjKgB84c&sclient=gws-wiz-serp
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

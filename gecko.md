@@ -1,8 +1,8 @@
 # dev
 
-Bug 1841061 Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
 
-Bug 1913213 Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion r?gregp
+Bug 1913213 - Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion r?gregp
 
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1437885
