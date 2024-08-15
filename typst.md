@@ -6,7 +6,7 @@ git remote add remote "Continuous integration"
 gh repo set-default 
 gh workflow run "Continuous integration" --ref ci
 
-cargo test -p typst-tests --test tests
+cargo test -p typst-tests --test tests text-spacing
 
 selector
 

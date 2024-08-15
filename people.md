@@ -1,5 +1,9 @@
 # inbox
 
+security guys
+https://x.com/gymR4T
+https://x.com/maxpl0it
+
 Creator of CKEditor
 Frederico Caldeira Knabben
 
