@@ -1,3 +1,126 @@
+# 2024-8-15
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_bibaz4y1i8.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E7%AC%AC24%E9%9B%86&vid=c0231ba9646a7e21c363529dc01bb6e3&vtype=0&f_block=selector_bk&s2=wna_tvg_select&s3=wna_tvg_select&s4=24&vfrm=3&vfrmblk=pca_115_number_enlarge&pb2=bkt=&c1=&e=&fatherid=&position=1&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_A,8737_B,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_B,8871_B,8873_A,8883_B,8971_B,8983_D,7423_C,7024_C,5592_B,6031_B,9117_A,6629_B,5670_B,9158_D,9167_B,6082_B,5335_B,5465_B,6843_B,6050_B,6237_B,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1913213 - Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913213
+
+m:nsDisplayListBuilder::SubtractFromVisibleRegion (nsDisplayList.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/layout/painting/nsDisplayList.cpp#1049-1064
+
+m:nsDisplayListBuilder::SubtractFromVisibleRegion (nsDisplayList.h - mozsearch)
+https://searchfox.org/mozilla-central/source/layout/painting/nsDisplayList.h#789-794
+
+1841061 - Remove "network.compress.allow_truncated_empty_brotli" pref if no regression forces this config to be flipped for a year.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1841061
+
+allow_truncated_empty_brotli(\(|$) - mozsearch
+https://searchfox.org/mozilla-central/search?q=allow_truncated_empty_brotli%28%5C%28%7C%24%29&path=&case=false&regexp=true
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/source/modules/libpref/init/StaticPrefList.yaml
+
+Commit range not found · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355/files
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355/files#diff-7bb0a76e3c72f10092fee1af7885f0dd5555b6b01eca36e82514104a79b7c9ceL5
+
+git.tanmeng.org
+http://git.tanmeng.org/tannal
+
+Workflow runs · tannal/node
+https://github.com/tannal/node/actions
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Telegram
+https://web.telegram.org/a/
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno/tree/main
+
+[carousel] Extract ::scroll-*-button to its own class (5771593) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5771593
+
+ChatGGG
+http://192.168.43.1:8080/
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+错误记忆 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%8C%AF%E8%AA%A4%E8%A8%98%E6%86%B6
+
+www.google.com
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBggFEEUYPTIGCAYQRRg9MgYIBxBFGD3SAQc4MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+1841061 - Remove "network.compress.allow_truncated_empty_brotli" pref if no regression forces this config to be flipped for a year.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1841061
+
+CNS 2023: Daniel Schacter, PhD, "On the Emergence of Cognitive Neuroscience: Memory Research ..." - YouTube
+https://www.youtube.com/watch?v=eBauMRTMHOk
+
+错误记忆 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%8C%AF%E8%AA%A4%E8%A8%98%E6%86%B6#cite_note-7
+
+思觉敏感 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%80%9D%E8%A6%BA%E6%95%8F%E6%84%9F
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+LLVM Project Tests · tannal/llvm-project@13008aa
+https://github.com/tannal/llvm-project/actions/runs/10384366133/job/28751206139
+
+Issues · typst/typst
+https://github.com/typst/typst/issues
+
+tannal/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/tannal/typst
+
+ci · tannal/typst@6c8f56f
+https://github.com/tannal/typst/actions/runs/10384944769/job/28753023438
+
+github.com
+https://github.com/nodejs/node/blob/02b30954a8a5b1f93b5e50d005c7a01b122a86ef/deps/ncrypto/engine.cc#L47
+
+github.com
+https://github.com/nodejs/node/blob/02b30954a8a5b1f93b5e50d005c7a01b122a86ef/lib/internal/crypto/util.js#L30
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+github.com
+https://github.com/openssl/openssl
+
+github.com
+https://github.com/nodejs/node/pull/53232/files
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+创伤后应激障碍 (Post-traumatic stress disorder - Chinese Simplified) - Better Health Channel
+https://www.betterhealth.vic.gov.au/post-traumatic-stress-disorder-chinese-simplified
+
+setImmediate - Google 搜索
+https://www.google.com/search?q=setImmediate&rlz=1C1GCEA_enJP1090JP1090&oq=setImmediate&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+
 # 2024-8-14
 
 wasm.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
