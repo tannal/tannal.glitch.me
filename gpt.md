@@ -1,5 +1,24 @@
 
 
+问题起源:
+一个PR改变了libuv事件循环中定时器(timers)和检查句柄(check handles)的执行顺序。这破坏了一些依赖于原有执行顺序的用户代码。
+原有行为:
+check handles在轮询(poll)阶段之后运行
+timers在check handles之后运行
+这个顺序在文档中有图示说明
+变化后的行为:
+timers现在在check handles之前运行
+影响:
+一些用户代码依赖check handles在最后运行,用来检查是否有新的工作需要处理,并在必要时保持事件循环活跃。现在timers在check handles之后运行,可能导致事件循环过早退出。
+讨论要点:
+是否应该将这种执行顺序视为API保证还是仅作为实现细节
+如何平衡向后兼容性和改进事件循环设计
+是否应该恢复原有行为或寻找其他解决方案
+可能的解决方案:
+恢复原有行为
+将check handles和closing handles移到timers之后
+内部重构事件循环逻辑,分离单次迭代和完整运行的代码
+
 cont.bind 指令:
 这是 WebAssembly 中的一个提议指令,用于绑定continuation的参数。Continuation 是一种表示程序执行状态的对象,可以用来实现协程、异常处理等高级控制流。
 参数绑定顺序:
