@@ -3,6 +3,129 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Interpolate values between breakpoints · Issue #6245 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/6245
+
+CVE-2018-17463/CVE-2018-17463.js at main · jhalon/CVE-2018-17463
+https://github.com/jhalon/CVE-2018-17463/blob/main/CVE-2018-17463.js
+
+How is data stored in V8 JS engine memory? - Dashlane
+https://www.dashlane.com/blog/how-is-data-stored-in-v8-js-engine-memory
+
+登录 X / X
+https://x.com/i/flow/login?redirect_after_login=%2FgymR4T
+
+943410 - Use range analysis to eliminate bailouts for unsigned div and mod
+https://bugzilla.mozilla.org/show_bug.cgi?id=943410
+
+bug943410.bmoattachments.org/attachment.cgi?id=8460534
+https://bug943410.bmoattachments.org/attachment.cgi?id=8460534
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1025445 - Optimize math.floor using Range analysis information
+https://bugzilla.mozilla.org/show_bug.cgi?id=1025445
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+fserb/canvas2D: Update Canvas 2D API
+https://github.com/fserb/canvas2D/tree/master
+
+uv_timer_start behavior with `timeout == 0` does not match documentation and can lead to starvation · Issue #4245 · libuv/libuv
+https://github.com/libuv/libuv/issues/4245
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implementing `in-daylight-saving-time` flag · Issue #68 · WebAssembly/wasi-clocks
+https://github.com/WebAssembly/wasi-clocks/issues
+
+价格歧视 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%83%B9%E6%A0%BC%E5%88%86%E6%AD%A7
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=intent%20to%20ship
+
+(32) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+MutexProtected: A C++ Pattern for Easier Concurrency – Andreas Kling – I like computers!
+https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/
+
+notebook2d79409c1e | Kaggle
+https://www.kaggle.com/code/tannal/notebook2d79409c1e/edit
+
+ci · tannal/typst@ca6ddc7
+https://github.com/tannal/typst/actions/runs/10400165723/job/28800230285
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Web%20browsers%2C%20our%20extensive%20gateway%20to%20the%20internet.%20Browsers%20today%20play%20a%20vital%20role%20in%20modern%20organizations%20as%20more%20and%20more%20software%20applications%20are%20delivered%20to%20users%20via%20a%20web%20browser%20in%20the%20form%20of%20web%20applications.%20Pretty%20much%20everything%20you%20might%20have%20done%20on%20the%20internet%20involves%20the%20use%20of%20a%20web%20browser%2C%20and%20as%20a%20result%2C%20browsers%20are%20among%20the%20most%20utilized%20consumer%20facing%20software%20products%20on%20the%20planet.%0A%0AAs%20the%20gateway%20to%20the%20internet%2C%20browsers%20also%20introduce%20significant%20risks%20to%20the%20integrity%20of%20personal%20computing%20devices.%20We%20hear%20it%20almost%20on%20a%20daily%20basis%20now%2C%20%E2%80%9CGoogle%20Chrome%20Bug%20Actively%20Exploited%20as%20Zero-Day%E2%80%9D%2C%20or%20%E2%80%9CGoogle%20Confirms%20Chrome%E2%80%99s%20Fourth%20Zero-Day%20Exploit%20In%202022%E2%80%9D.%20In%20fact%2C%20browser%20exploits%20are%20nothing%20new%2C%20they%E2%80%99ve%20been%20occurring%20for%20years%20now%20with%20the%20first%20known%20documented%20remote-code-execution%20exploit%20being%20CVE-1999-0280.%20The%20first%20potentially%20public%20disclosure%20of%20a%20browser%20exploit%20being%20used%20in%20the%20wild%20was%20the%20%E2%80%9CAurora%E2%80%9D%20Internet%20Explorer%20exploit%20which%20affected%20Google%20back%20in%20December%20of%202010.%0A%0AMy%20interest%20in%20web%20browsers%20first%20sparked%20back%20in%202018%20when%20my%20buddy%20Michael%20Weber%20introduced%20me%20to%20Offensive%20Browser%20Extension%20Development%20which%20really%20opened%20my%20eyes%20to%20the%20potential%20attack%20surface.%20Afterwards%2C%20I%20started%20to%20dig%20deeper%20into%20Chrome%E2%80%99s%20internals%20and%20started%20to%20become%20very%20interested%20in%20web%20browser%20exploitation.%20Because%20let%E2%80%99s%20be%20honest%20here%2C%20what%20kind%20of%20Red%20Team%20wouldn%E2%80%99t%20want%20a%20%E2%80%9Cone-click%E2%80%9D%20or%20even%20a%20%E2%80%9Cno-click%E2%80%9D%20web%20browser%20exploit%3F%0A%0AWhen%20it%20comes%20to%20browsers%20in%20the%20world%20of%20security%20research%2C%20they%20are%20considered%20some%20of%20the%20most%20impressive%20targets%20to%20find%20vulnerabilities%20in.%20They%E2%80%99re%20also%20unfortunately%20some%20of%20the%20most%20complicated%20to%20look%20at%2C%20as%20the%20amount%20of%20prerequisite%20knowledge%20required%20to%20even%20begin%20researching%20browser%20internals%20makes%20it%20seem%20like%20an%20unattainable%20goal%20for%20many%20researchers.%0A%0AIn%20spite%20of%20that%2C%20I%20took%20the%20steps%20to%20dive%20in%20by%20taking%20maxpl0it%E2%80%99s%20amazing%20%E2%80%9CIntroduction%20to%20Hard%20Target%20Internals%E2%80%9D%20training%20course.%20Which%20I%20highly%20recommend%20you%20take!%20This%20course%20provided%20me%20with%20a%20lot%20of%20background%20information%20on%20the%20inner%20workings%20and%20internals%20of%20browsers%20such%20as%20Chrome%20and%20Firefox.%20Afterwards%2C%20I%20was%20off%20to%20the%20races%20reading%20everything%20I%20could%20from%20Chromium%20blogs%20to%20v8%20dev%20posts.%0A%0ASince%20my%20learning%20method%20is%20more%20of%20a%20%E2%80%9Clearn%20it%2C%20teach%20it%2C%20know%20it%E2%80%9D%20style%2C%20I%20am%20releasing%20this%20%E2%80%9CChrome%20Browser%20Exploitation%E2%80%9D%20blog%20post%20series%20to%20give%20you%20an%20introduction%20to%20browser%20internals%20and%20to%20explore%20Chrome%20browser%20exploitation%20on%20Windows%20in%20more%20depth%2C%20all%20while%20learning%20it%20myself.%0A%0ANow%20you%20might%20be%20asking%20me%2C%20why%20Chrome%20and%20why%20Windows%3F%20Well%2C%20two%20reasons%3A%0A%0AChrome%20has%20a%20market%20share%20of%20~73%25%2C%20making%20it%20the%20most%20widely%20used%20browser%20in%20the%20world.%0AWindows%20has%20a%20market%20share%20of%20~90%25%2C%20making%20it%20also%20the%20most%20widely%20used%20OS%20in%20the%20world.%0ABy%20learning%20to%20target%20the%20most%20widely%20used%20software%20in%20the%20world%2C%20as%20a%20Red%20Team%2C%20this%20makes%20our%20chances%20of%20finding%20bugs%2C%20writing%20exploits%2C%20and%20successfully%20using%20them%20in%20engagements%20much%20more%20likely.%0A%0AWARNING%20Due%20to%20the%20massive%20complexity%20of%20browsers%2C%20JavaScript%20engines%2C%20and%20JIT%20compilers%2C%20these%20blog%20posts%20will%20be%20very%2C%20very%20heavy%20reads.%0A%0ACurrently%2C%20this%20will%20be%20a%20three%20(3)%20post%20blog%20series.%20But%2C%20depending%20on%20the%20complexity%20and%20amount%20of%20information%20covered%2C%20I%20might%20split%20up%20the%20material%20to%20multiple%20additional%20posts.%0A%0ADo%20note%20-%20I%20am%20writing%20these%20blog%20posts%20as%20I%20learn%20along%20the%20way.%20So%20please%20bare%20with%20me%20as%20it%20might%20take%20some%20time%20for%20me%20to%20release%20follow%20up%20posts%20to%20this%20series.%0A%0AWith%20that%20being%20said%2C%20if%20you%20notice%20that%20I%20made%20a%20mistake%20in%20my%20posts%2C%20or%20am%20misleading%20the%20reader%2C%20then%20please%20reach%20out%20to%20me!%20Also%2C%20any%20recommendations%2C%20constructive%20criticism%2C%20critical%20feedback%2C%20etc.%20is%20very%20much%20appreciated!%0A%0AOverall%2C%20by%20the%20end%20of%20this%20blog%20post%20series%20we%20will%20cover%20everything%20we%20need%20to%20know%20to%20start%20researching%20and%20exploiting%20potential%20Chrome%20bugs.%20In%20the%20final%20post%20of%20this%20series%2C%20we%20will%20attempt%20to%20exploit%20CVE-2018-17463%20which%20was%20a%20JIT%20Compiler%20Vulnerability%20in%20Chrome%20v8%E2%80%99s%20Optimizer%20(TurboFan)%20discovered%20by%20Samuel%20Gross.%0A%0ASo%2C%20without%20further%20ado%20-%20let%E2%80%99s%20jump%20into%20the%20deep%20end%20and%20into%20the%20complex%20world%20of%20browser%20exploitation!%0A%0AIn%20today%E2%80%99s%20blog%20post%2C%20we%20will%20cover%20the%20basic%20prerequisite%20concepts%20that%20we%20need%20to%20fully%20understand%20before%20we%20dig%20any%20deeper.%20The%20following%20topics%20will%20be%20discussed%3A%0A%0AThe%20Flow%20of%20JavaScript%20Engines%0AJavaScript%20Engine%20Compiler%20Pipeline%0AStack%20%26%20Register%20Machines%0AJavaScript%20and%20V8%20Internals%0AObject%20Representation%0AHiddenClasses%20(Map)%0AShape%20(Map)%20Transitions%0AProperties%0AElements%20and%20Arrays%0AViewing%20Chrome%20Objects%20In-Memory%0APointer%20Tagging%0APointer%20Compression%0ABut%2C%20before%20we%20begin%2C%20make%20sure%20to%20compile%20v8%20and%20d8%20on%20Windows%20to%20follow%20along.%20You%20can%20read%20my%20%E2%80%9CBuilding%20Chrome%20V8%20on%20Windows%E2%80%9D%20gist%20for%20detailed%20instructions%20on%20how%20to%20do%20so.%0A%0AThe%20Flow%20of%20JavaScript%20Engines%0AWe%20start%20our%20journey%20of%20browser%20internals%20by%20first%20understanding%20what%20JavaScript%20engines%20are%20and%20how%20they%20work.%20JavaScript%20engines%20are%20an%20integral%20part%20to%20the%20execution%20of%20Java&op=translate
+
+Typst: Compose papers faster
+https://typst.app/
+
+bahmutov (Gleb Bahmutov)
+https://github.com/bahmutov
+
+Dr. Gleb Bahmutov, PhD
+https://glebbahmutov.com/
+
+Quentin Goues - Google 搜索
+https://www.google.com/search?q=Quentin+Goues&rlz=1C1GCEA_enJP1090JP1090&oq=Quentin+Goues&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Chrome Browser Exploitation, Part 2: Introduction to Ignition, Sparkplug and JIT Compilation via TurboFan - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
+登录 X / X
+https://x.com/i/flow/login?redirect_after_login=%2F__x86
+
+Maxpl0it
+https://maxpl0it.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Android Internals::Developer's View by Jonathan Levin | eBay
+https://www.ebay.com/itm/355504180266
+
+how to think about algorithms 2nd edition pdf - Google 搜索
+https://www.google.com/search?q=how+to+think+about+algorithms+2nd+edition+pdf&rlz=1C1GCEA_enJP1090JP1090&oq=how+to+&gs_lcrp=EgZjaHJvbWUqDAgDECMYJxiABBiKBTIGCAAQRRg5MggIARBFGCcYOzIGCAIQRRg7MgwIAxAjGCcYgAQYigUyBwgEEAAYgAQyBwgFEAAYgAQyBggGEEUYPDIGCAcQRRg80gEINDIyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(1178) #gpu > (Showcase) Vello Retained/Fine Granular Mode WIP - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/.28Showcase.29.20Vello.20Retained.2FFine.20Granular.20Mode.20WIP
+
+Chris Morgan (software developer, Bible student, &c.)
+https://chrismorgan.info/
+
+mattermost/mattermost: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+https://github.com/mattermost/mattermost?tab=readme-ov-file#get-involved
+
+Blurred rounded rectangles | Raph Levien’s blog
+https://raphlinus.github.io/graphics/2020/04/21/blurred-rounded-rects.html
+
+Issues · SJTU-IPADS/PowerInfer
+https://github.com/SJTU-IPADS/PowerInfer/issues
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds/dp/1009302132
+
+Chris Morgan firefox - Google 搜索
+https://www.google.com/search?q=Chris+Morgan+firefox&sca_esv=96f9929965e73aae&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKhq1vB8WYNsX7tLk_G0fwYAqA_1w%3A1723708988414&ei=PLa9ZtD6GJqnkPIPoN2smAI&ved=0ahUKEwjQiM2vxPaHAxWaE0QIHaAuCyMQ4dUDCA8&uact=5&oq=Chris+Morgan+firefox&gs_lp=Egxnd3Mtd2l6LXNlcnAiFENocmlzIE1vcmdhbiBmaXJlZm94MgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSNgSUKsCWNcRcAJ4AZABAZgBlgWgAZccqgEJMi0yLjIuMS4zuAEDyAEA-AEBmAIIoAKmFcICCBAAGIAEGMsBwgIIEC4YgAQYywHCAg4QLhiABBjHARjLARivAcICFxAuGIAEGMsBGJcFGNwEGN4EGN8E2AEBwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYDBgewgIGEAAYBRgewgIIEAAYCBgKGB7CAggQABgIGB4YD8ICBRAhGKABmAMAugYGCAEQARgUkgcLMi4wLjEuMi4yLjGgB6gy&sclient=gws-wiz-serp
+
+chrome build windows github - Google 搜索
+https://www.google.com/search?q=chrome+build+windows+github&rlz=1C1GCEA_enJP1090JP1090&oq=chrome+build+windows+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBNIBCDUwOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Releases · Hibbiki/chromium-win64
+https://github.com/Hibbiki/chromium-win64
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
 https://www.iqiyi.com/v_1d60y56vbq8.html?ht=0&ischarge=false&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E7%AC%AC31%E9%9B%86&vid=27f0416713d2c121829de9e4570d7682&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=31&vfrm=wna_tvg_select&vfrmblk=wna_tvg_select&vfrmrst=24&pb2=bkt=&c1=&e=&fatherid=&position=9&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_B,8873_A,8883_B,8971_D,8983_B,7423_C,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_B,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A&lt=2
 
