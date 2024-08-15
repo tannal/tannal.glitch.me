@@ -1,89 +1,114 @@
+企业，我们确实需要各种软件技术来支持产品和研发。以下是一个更全面的列表，包括各种需求和它们的开源实现：
 
-连接建立过程
-RustDesk使用了一个名为hbbs(ID/Rendezvous服务器)的中继服务器来帮助建立连接。基本流程如下：
-
-a) 客户端注册：
-客户端启动后，会向hbbs服务器注册自己的ID和网络信息。
-
-rust
-
-复制
-// src/client.rs
-pub async fn register_peer(&mut self, peer_pk: Vec<u8>) -> ResultType<()> {
-    let mut msg_out = Message::new();
-    msg_out.set_register_peer(RegisterPeer {
-        id: self.get_id(),
-        peer_pk: peer_pk,
-        ..Default::default()
-    });
-    self.send(msg_out).await?;
-    Ok(())
-}
-b) 连接请求：
-当一个客户端想要连接另一个客户端时，它会向hbbs服务器发送连接请求。
-
-rust
-
-复制
-// src/client.rs
-pub async fn request_relay(&mut self, relay_server: String) -> ResultType<Vec<u8>> {
-    let mut msg_out = Message::new();
-    msg_out.set_request_relay(RequestRelay {
-        relay_server: relay_server,
-        ..Default::default()
-    });
-    self.send(msg_out).await?;
-    Ok(self.recv_relay().await?)
-}
-c) NAT穿透尝试：
-hbbs服务器会尝试帮助两个客户端进行NAT穿透，实现直接连接。
-
-d) 中继连接：
-如果NAT穿透失败，hbbs服务器会提供一个中继服务器(hbbr)的地址，客户端通过这个中继服务器进行通信。
-
-数据传输
-一旦连接建立，RustDesk使用自定义的协议进行数据传输。主要包括以下几种类型的数据：
-
-a) 屏幕更新
-b) 鼠标/键盘事件
-c) 文件传输
-d) 音频数据
-
-例如，发送鼠标事件的代码：
-
-rust
-
-复制
-// src/client/input_service.rs
-pub fn send_mouse(&mut self, msg: MouseEvent) {
-    self.tx_input.send(MessageInput::Mouse(msg)).ok();
-}
-加密
-RustDesk使用公钥加密来保护通信安全。每个客户端都有一个唯一的ID和对应的公私钥对。
-
-rust
-
-复制
-// src/common.rs
-pub fn generate_pk(id: &str) -> (Vec<u8>, Vec<u8>) {
-    let mut rng = rand::thread_rng();
-    let pkcs8_bytes = Ed25519KeyPair::generate_pkcs8(&mut rng).expect("failed to generate key");
-    let key_pair = Ed25519KeyPair::from_pkcs8(&pkcs8_bytes).expect("failed to parse key");
-    (key_pair.public_key().as_ref().to_vec(), pkcs8_bytes.to_vec())
-}
-网络优化
-RustDesk使用了多种技术来优化网络性能：
-
-a) 自适应比特率：根据网络条件调整视频质量
-b) 帧差异编码：只传输变化的屏幕部分
-c) 硬件加速：利用GPU进行编解码
-
-核心原理总结
-使用中继服务器(hbbs)辅助连接建立
-优先尝试P2P直连，失败后使用中继服务器(hbbr)
-自定义协议进行高效的数据传输
-公钥加密保证安全性
-多种优化技术提高性能和用户体验
+虚拟化技术：
+KVM (Kernel-based Virtual Machine)
+Xen
+VirtualBox
+QEMU
+LXC (Linux Containers)
+Docker
+远程桌面：
+RustDesk
+Apache Guacamole
+TigerVNC
+X2Go
+NoMachine (部分开源)
+办公套件和协同编辑：
+LibreOffice
+ONLYOFFICE
+Collabora Online
+Etherpad
+CryptPad
+Yjs (用于实时协作的框架)
+Typst (排版系统)
+DNS服务：
+BIND (Berkeley Internet Name Domain)
+PowerDNS
+Unbound
+Knot DNS
+CoreDNS
+dnsmasq
+数据库管理系统：
+MySQL / MariaDB
+PostgreSQL
+MongoDB
+Redis
+Apache Cassandra
+InfluxDB (时序数据库)
+Web服务器：
+Apache HTTP Server
+Nginx
+LiteSpeed
+Caddy
+容器编排：
+Kubernetes
+Docker Swarm
+Apache Mesos
+Nomad
+持续集成/持续部署 (CI/CD)：
+Jenkins
+GitLab CI
+Travis CI
+CircleCI (部分开源)
+Drone
+监控和日志管理：
+Prometheus
+Grafana
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Nagios
+Zabbix
+Graylog
+版本控制：
+Git
+Mercurial
+SVN (Subversion)
+项目管理：
+Redmine
+OpenProject
+Taiga
+Tuleap
+负载均衡：
+HAProxy
+Nginx (也可用作负载均衡器)
+Keepalived
+消息队列：
+RabbitMQ
+Apache Kafka
+ActiveMQ
+ZeroMQ
+文件同步和共享：
+Nextcloud
+ownCloud
+Seafile
+Syncthing
+身份认证和授权：
+Keycloak
+OpenLDAP
+FreeIPA
+Authelia
+网络管理：
+OpenNMS
+Netdata
+Observium (社区版)
+安全扫描和渗透测试：
+OpenVAS
+OWASP ZAP
+Metasploit Framework
+Nmap
+备份解决方案：
+Bacula
+Amanda
+Bareos
+Duplicati
+邮件服务器：
+Postfix
+Dovecot
+Exim
+Wiki 和知识管理：
+MediaWiki
+DokuWiki
+XWiki
+这个列表涵盖了大型企业可能需要的多种软件技术，以及它们的开源实现。根据具体需求，企业可能会使用这些开源解决方案的组合，或者在某些情况下选择商业解决方案。开源软件通常提供了很大的灵活性和可定制性，同时也可以降低成本。
 
 
 介绍了scheduler.yield() API的目的:
