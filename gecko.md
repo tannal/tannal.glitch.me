@@ -1,5 +1,10 @@
 # dev
 
+Bug 1841061 Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+
+Bug 1913213 Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion r?gregp
+
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1437885
 问题描述:
 在Windows系统上,当操作系统级别的位置服务被关闭时,Firefox浏览器中使用位置权限的扩展会反复弹出请求启用位置服务的对话框。
