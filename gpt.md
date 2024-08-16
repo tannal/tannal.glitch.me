@@ -1,4 +1,32 @@
-企业，我们确实需要各种软件技术来支持产品和研发。以下是一个更全面的列表，包括各种需求和它们的开源实现：
+Penpot (https://penpot.app/)
+完全开源的设计和原型工具
+基于浏览器,支持协作
+使用 SVG 作为核心技术
+功能丰富,包括矢量编辑、组件、样式等
+Mockitt (https://mockitt.wondershare.com/)
+开源的原型设计工具
+提供丰富的UI组件库
+支持团队协作
+有桌面和web版本
+Pencil Project (https://pencil.evolus.vn/)
+开源的GUI原型设计工具
+跨平台,支持Windows, Linux, macOS
+提供多种内置模板和形状
+Akira (https://github.com/akiraux/Akira)
+针对 Linux 的开源 UI/UX 设计应用
+基于 Vala 和 GTK
+目前仍在积极开发中
+Quant-UX (https://www.quant-ux.com/)
+开源的原型设计和用户测试平台
+支持快速原型设计和用户行为分析
+Lunacy (https://icons8.com/lunacy)
+虽然不完全开源,但提供免费使用
+兼容 Sketch 文件格式
+具有矢量编辑、原型设计等功能
+Draw.io (https://app.diagrams.net/)
+开源的在线图表和流程图工具
+可以用于简单的界面原型设计
+提供大量模板和图形库
 
 虚拟化技术：
 KVM (Kernel-based Virtual Machine)
