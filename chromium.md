@@ -1,6 +1,45 @@
 
 # dev
 
+'C:\b\s\w\ir\out\Release\chrome.exe': 这是 Chrome 可执行文件的路径，用于指定要运行的程序。
+--allow-pre-commit-input: 参数用于允许预提交输入。
+--autoplay-policy=no-user-gesture-required: 设置自动播放策略，不需要用户手势。
+--crash-dumps-dir=C:\b\s\w\ir\out\Release\crash-dumps\reports: 指定崩溃报告的存储目录。
+--disable-background-networking: 禁用后台网络。
+--disable-backgrounding-occluded-windows: 禁用被遮挡窗口的后台化。
+--disable-client-side-phishing-detection: 禁用客户端钓鱼检测。
+--disable-default-apps: 禁用默认应用。
+--disable-hang-monitor: 禁用卡顿监控。
+--disable-infobars: 禁用信息栏。
+--disable-popup-blocking: 禁用弹出式窗口阻止。
+--disable-prompt-on-repost: 禁用重新提交时的提示。
+--disable-sync: 禁用同步。
+--enable-blink-features=DisableAhemAntialias,MojoJS,MojoJSTest: 启用 Blink 引擎功能。
+--enable-blink-test-features: 启用 Blink 测试功能。
+--enable-crash-reporter: 启用崩溃报告。
+--enable-experimental-web-platform-features: 启用实验性 Web 平台功能。
+--enable-features=...: 启用一系列功能，包括一些安全和性能特性。
+--enable-logging=stderr: 启用日志记录到标准错误。
+'--host-resolver-rules=MAP nonexistent.*.test ^NOTFOUND,MAP *.test 127.0.0.1, MAP *.test. 127.0.0.1': 主机解析规则，用于将域名映射到特定 IP 地址。
+--ignore-certificate-errors-spki-list=...: 忽略证书错误的 SPKI 列表。
+--ip-address-space-overrides=...: IP 地址空间覆盖设置。
+--js-flags=--expose-gc: JavaScript 引擎标志，暴露垃圾回收功能。
+--log-level=0: 日志级别设置为 0。
+--no-first-run: 不运行第一次启动设置。
+--no-service-autorun: 不自动运行服务。
+--password-store=basic: 设置密码存储类型为基本。
+--remote-debugging-port=0: 远程调试端口设置为 0。
+--short-reporting-delay: 短报告延迟。
+--test-type=webdriver: 测试类型设置为 webdriver。
+--use-fake-device-for-media-stream: 使用虚拟设备进行媒体流测试。
+--use-fake-ui-for-digital-identity: 使用虚拟 UI 进行数字身份测试。
+--use-fake-ui-for-fedcm: 使用虚拟 UI 进行 FedCM 测试。
+--use-fake-ui-for-media-stream: 使用虚拟 UI 进行媒体流测试。
+--use-mock-keychain: 使用模拟 keychain。
+'--user-data-dir=C:\Windows\SystemTemp\scoped_dir4724_1664688332': 用户数据目录设置。
+--webtransport-developer-mode: Web 传输开发者模式设置。
+https://web-platform.test:8444/secure-payment-confirmation/authentication-cross-origin.sub.https.html: 目标网址，一个测试的网页地址。
+
 ./out/Default/chrome --js-flags='--prof' --no-sandbox 'https://bilibili.com'
 
 sudo perf record --call-graph dwarf -F 99 -p 174161 -g -- sleep 30
