@@ -1,5 +1,162 @@
 # dev
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1861775
+
+背景:
+这是一个关于在Linux系统上为Firefox添加高对比度模式支持的功能请求。发起人希望Firefox能够支持新的xdg-desktop-portal中定义的高对比度设置标准。
+主要过程:
+最初由Dominic Hayes提出,建议Firefox支持即将合并到xdg-desktop-portal的高对比度设置标准。
+经过讨论,将该请求的状态设置为NEW,并归类到Disability Access组件下。
+xdg-desktop-portal中定义高对比度设置的PR #1175最终被合并。
+Emilio Cobos Álvarez(Mozilla开发者)提供了具体的技术实现建议:
+在nsLookAndFeel::InitializeGlobalSettings中添加代码
+使用类似color-scheme首选项的方式实现
+建议的代码逻辑:
+cpp
+
+复制
+aResult = mPrefersContrastSetting.valueOr(mSystemTheme.mHighContrast);
+将组件从Disability Access改为Widget: Gtk
+将产品从Firefox改为Core
+添加了关键词和优先级
+Emilio表示愿意指导这个功能的实现
+核心原理:
+通过xdg-desktop-portal获取系统高对比度设置,然后在Firefox中根据该设置应用相应的高对比度主题或样式。
+下一步:
+需要有开发者实际编写代码来实现这个功能,按照Emilio的建议在相关文件中添加获取和应用高对比度设置的逻辑。
+总的来说,这是一个旨在改善Firefox在Linux系统上可访问性的功能请求,目前已经有了具体的实现方向,等待开发者去实现。
+
+void nsLookAndFeel::InitializeGlobalSettings() {
+GtkSettings* settings = gtk_settings_get_default();
+
+mColorSchemePreference = ComputeColorSchemeSetting();
+
+gboolean enableAnimations = false;
+g_object_get(settings, "gtk-enable-animations", &enableAnimations, nullptr);
+mPrefersReducedMotion = !enableAnimations;
+
+gint blink_time = 0; // In milliseconds
+gint blink_timeout = 0; // in seconds
+gboolean blink;
+g_object_get(settings, "gtk-cursor-blink-time", &blink_time,
+"gtk-cursor-blink-timeout", &blink_timeout, "gtk-cursor-blink",
+&blink, nullptr);
+// From
+// https://docs.gtk.org/gtk3/property.Settings.gtk-cursor-blink-timeout.html:
+//
+// Setting this to zero has the same effect as setting
+// GtkSettings:gtk-cursor-blink to FALSE.
+//
+mCaretBlinkTime = blink && blink_timeout ? (int32_t)blink_time : 0;
+
+if (mCaretBlinkTime) {
+// blink_time * 2 because blink count is a full blink cycle.
+mCaretBlinkCount =
+std::max(1, int32_t(std::ceil(float(blink_timeout * 1000) /
+(float(blink_time) * 2.0f))));
+} else {
+mCaretBlinkCount = -1;
+}
+
+mCSDCloseButton = false;
+mCSDMinimizeButton = false;
+mCSDMaximizeButton = false;
+mCSDCloseButtonPosition = 0;
+mCSDMinimizeButtonPosition = 0;
+mCSDMaximizeButtonPosition = 0;
+
+// We need to initialize whole CSD config explicitly because it's queried
+// as -moz-gtk* media features.
+ButtonLayout buttonLayout[TOOLBAR_BUTTONS];
+
+size_t activeButtons =
+GetGtkHeaderBarButtonLayout(Span(buttonLayout), &mCSDReversedPlacement);
+for (size_t i = 0; i < activeButtons; i++) {
+// We check if a button is represented on the right side of the tabbar.
+// Then we assign it a value from 3 to 5, instead of 0 to 2 when it is on
+// the left side.
+const ButtonLayout& layout = buttonLayout[i];
+int32_t* pos = nullptr;
+switch (layout.mType) {
+case MOZ_GTK_HEADER_BAR_BUTTON_MINIMIZE:
+mCSDMinimizeButton = true;
+pos = &mCSDMinimizeButtonPosition;
+break;
+case MOZ_GTK_HEADER_BAR_BUTTON_MAXIMIZE:
+mCSDMaximizeButton = true;
+pos = &mCSDMaximizeButtonPosition;
+break;
+case MOZ_GTK_HEADER_BAR_BUTTON_CLOSE:
+mCSDCloseButton = true;
+pos = &mCSDCloseButtonPosition;
+break;
+default:
+break;
+}
+
+
+复制
+if (pos) {
+  *pos = i;
+}
+}
+
+实现该功能并给出建议，修改
+
+Claude-3.5-Sonnet的机器人图片
+Claude-3.5-Sonnet
+
+Poe
+基于Emilio的建议和现有代码，我们可以在 nsLookAndFeel::InitializeGlobalSettings() 函数中添加对高对比度设置的支持。以下是修改后的代码和相关建议：
+
+cpp
+
+复制
+void nsLookAndFeel::InitializeGlobalSettings() {
+  GtkSettings* settings = gtk_settings_get_default();
+
+  // 现有代码...
+
+  // 添加高对比度设置支持
+  mPrefersContrastSetting = GetHighContrastSetting();
+
+  // 使用新的高对比度设置，如果无法获取，则回退到系统主题设置
+  mSystemTheme.mHighContrast = mPrefersContrastSetting.valueOr(mSystemTheme.mHighContrast);
+
+  // 其余现有代码...
+}
+
+// 新增函数来获取高对比度设置
+Maybe<bool> nsLookAndFeel::GetHighContrastSetting() {
+  GVariant* value = g_dbus_proxy_get_cached_property(
+      gProxyAppearance, "high-contrast");
+  if (!value) {
+    return Nothing();
+  }
+
+  gboolean highContrast = g_variant_get_boolean(value);
+  g_variant_unref(value);
+
+  return Some(highContrast);
+}
+建议：
+
+添加新的成员变量 mPrefersContrastSetting：
+在 nsLookAndFeel 类中添加一个新的 Maybe<bool> 类型的成员变量，用于存储高对比度设置。
+实现 GetHighContrastSetting() 函数：
+这个函数使用 D-Bus 接口从 xdg-desktop-portal 获取高对比度设置。如果无法获取设置，返回 Nothing()。
+在 InitializeGlobalSettings() 中使用新设置：
+调用 GetHighContrastSetting() 获取设置，然后更新 mSystemTheme.mHighContrast。
+更新相关的 UI 代码：
+在使用高对比度设置的地方，优先使用 mPrefersContrastSetting，如果它没有值，再使用 mSystemTheme.mHighContrast。
+添加监听机制：
+实现一个机制来监听高对比度设置的变化，当设置变化时更新 UI。
+更新文档和注释：
+为新添加的代码添加适当的注释和文档，解释高对比度设置的用途和工作原理。
+添加单元测试：
+为新添加的功能编写单元测试，确保它能正确地获取和应用高对比度设置。
+这些修改将使 Firefox 能够支持新的 xdg-desktop-portal 高对比度设置标准，同时保持与现有系统主题设置的兼容性。
+
 $env:MOZ_JITSPEW_LEVEL="1"
 
 $env:MOZ_LOG="timestamp,rotate:200,nsHttp:5,cache2:5,nsSocketTransport:5,nsHostResolver:5"
