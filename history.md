@@ -1,3 +1,83 @@
+# 2024-8-16
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_236unv4158c.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E7%AC%AC35%E9%9B%86&vid=381a8d632df9b6b4b174d52e69158409&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=35&vfrm=wna_tvg_1st&vfrmblk=wna_tvg_select&vfrmrst=34&pb2=bkt=&c1=&e=&fatherid=&position=5&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_B,8873_A,8883_B,8971_D,8983_B,7423_C,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+First Retained Mode Commit · linebender/vello@3a7f67d
+https://github.com/linebender/vello/commit/3a7f67db2edac66c33f845127c90995910197b39
+
+Issues · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/issues
+
+Intent to Ship: scheduler.yield()
+https://groups.google.com/a/chromium.org/g/blink-dev/c/DHgWeqFOCXQ
+
+tannal (tannal)
+https://github.com/tannal/
+
+GitHub
+https://github.com/
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+790194 - Almost all uses of atoi/strtol/strtoul() in dom/media/webrtc should be replaced
+https://bugzilla.mozilla.org/show_bug.cgi?id=790194
+
+950612 - IonMonkey: Warn about inefficient register-allocation for calls made with CallWithABI.
+https://bugzilla.mozilla.org/show_bug.cgi?id=950612
+
+1882674 - Remove media.ondevicechange.enabled pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1882674
+
+438331 - (Win16Removal) [meta] Remove WIN16 (support) code everywhere
+https://bugzilla.mozilla.org/show_bug.cgi?id=438331
+
+458660 - Remove Win16 support from Directory (LDAP) C SDK
+https://bugzilla.mozilla.org/show_bug.cgi?id=458660
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+bjrjk/CVE-2024-29943: A Pwn2Own SpiderMonkey JIT Bug: From Integer Range Inconsistency to Bound Check Elimination then RCE
+https://github.com/bjrjk/CVE-2024-29943/tree/main?tab=readme-ov-file
+
+CVE-2024-29943/Slides.pdf at main · bjrjk/CVE-2024-29943
+https://github.com/bjrjk/CVE-2024-29943/blob/main/Slides.pdf
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=d30728c3aa4495a6&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL50y-2FlhyGXqhZsdo4oslntujSA%3A1723771256041&ei=eKm-ZuKZAtSa0PEPlo3lmQw&ved=0ahUKEwjitY-rrPiHAxVUDTQIHZZGOcMQ4dUDCA8&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIHECMYsAMYJzIHECMYsAMYJzIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0gSUABYAHABeACQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgeYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+Making the Tokio scheduler 10x faster | Hacker News
+https://news.ycombinator.com/item?id=21249708
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Restricting access to machine types - GitHub Docs
+https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/restricting-access-to-machine-types
+
+Setting a minimum specification for codespace machines - GitHub Docs
+https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/configuring-dev-containers/setting-a-minimum-specification-for-codespace-machines
+
+Codespaces
+https://github.com/codespaces
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+j:j:CompileBackEnd (Ion.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/js/src/jit/Ion.cpp#1618
+
+"scheduler" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=scheduler
+
+resume.pdf
+https://davekilian.com/resume.pdf
+
 # 2024-8-15
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
