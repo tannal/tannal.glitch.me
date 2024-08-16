@@ -847,6 +847,7 @@ $env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
 pnpm install --save-dev rollup @rollup/plugin-typescript @rollup/plugin-node-resolve @rollup/plugin-commonjs typescript tslib jest ts-jest @types/jest
 
 $env:Path += ';C:\Users\tanna\tannalwork\projects\prebuild\windows\d8\' 
+$env:Path += ';C:\Users\tannal\tannalwork\projects\prebuild\windows\d8\' 
 
 
 
