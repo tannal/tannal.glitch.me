@@ -1,5 +1,15 @@
 # dev
 
+$env:MOZ_LOG="timestamp,rotate:200,nsHttp:5,cache2:5,nsSocketTransport:5,nsHostResolver:5"
+
+$env:MOZ_JITSPEW_CHANNEL="RegAlloc"
+
+$env:MOZ_JITSPEW_CHANNEL="RegAlloc"
+python .\mach run bilibili.com
+
+$env:MOZ_LOG="example_logger:3"
+python .\mach run bilibili.com
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=790194
 这是一个关于在Mozilla Firefox代码库中替换一些字符串转数字函数的bug。主要内容如下:
 
@@ -361,6 +371,7 @@ gdb /home/tannal/tannalwork/projects/mozilla-unified/obj-x86_64-pc-linux-gnu/dis
 
 set MOZ_LOG="example_logger:3"
 export MOZ_LOG="example_logger:3"
+$env:MOZ_LOG="example_logger:3"
 MOZ_LOG="example_logger:3" ./mach run
 
 parser

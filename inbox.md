@@ -15,7 +15,7 @@ https://github.com/fserb/canvas2D/tree/master
 # 2024-8-13 0 | 0 W
 
 
-逐句分析，核心过程，原理梳理，源码解析
+对话逐句分析，核心过程，原理梳理，源码解析
 
 pnpm i @univerjs/docs    @univerjs/ui    vue    ws    y-websocket    yjs 
 pnpm i -D @vitejs/plugin-vue vite
