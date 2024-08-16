@@ -1,5 +1,19 @@
 # dev
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=790194
+这是一个关于在Mozilla Firefox代码库中替换一些字符串转数字函数的bug。主要内容如下:
+
+最初的问题是要替换atoi()函数,因为它没有错误检查。
+后来发现strtol()/strtoul()也不安全,因为它们受locale影响。
+提议使用glib的g_ascii_strtoll()等函数,但这些函数在Windows等平台上不可用。
+考虑使用PR_sscanf()作为替代,因为它不受locale影响。
+但PR_sscanf()也有问题:缺乏格式字符串检查,依赖NSPR库。
+另一个建议是使用strtol_l()等支持明确locale的函数,但它们可能不是所有平台都支持。
+最终的方案似乎是创建包装函数,内部使用PR_sscanf()来解析数字,以替换atoi/strtol/strtoul的使用。
+代码位置从media/webrtc/signaling移动到了dom/media/webrtc。
+最后有人质疑PR_sscanf是否真的locale无关,因为它内部使用了isspace/isdigit等函数。
+核心问题是要找到一个安全、跨平台、不受locale影响的字符串转数字函数来替换现有的atoi/strtol/strtoul。这个问题比预想的要复杂,需要权衡各种因素。
+
 Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
 
 Bug 1913213 - Remove unused nsDisplayListBuilder::SubtractFromVisibleRegion r?gregp
