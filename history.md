@@ -1,5 +1,149 @@
 # 2024-8-16
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+notebook2d79409c1e | Kaggle
+https://www.kaggle.com/code/tannal/notebook2d79409c1e/edit
+
+micorgrad1.ipynb - Colab
+https://colab.research.google.com/drive/1278Y4I0iSKKsbLY9gRnXe9bK5fGNulgh?usp=sharing#scrollTo=mDB6SO4PFK8L
+
+RustNL 2024 Conference Day 2 - YouTube
+https://www.youtube.com/watch?v=521NfGf7AR0
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_t2abwcjvbo.html?s3=pca_115_number_enlarge&s4=0&vfrmblk=pca_115_number_enlarge&vfrm=3&s2=3&vfrmrst=0
+
+Hixie's Natural Log: Power dynamics in web specifications
+https://ln.hixie.ch/?start=1721260117&count=1
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+Issues · fserb/canvas2D
+https://github.com/fserb/canvas2D/issues
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+(817) #new members > Matt Armstrong - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members/topic/Matt.20Armstrong
+
+Announcing Masonry 0.1, and my vision for Rust UI · PoignardAzur
+https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/
+
+GPU-friendly Stroke Expansion
+https://linebender.org/gpu-stroke-expansion-paper/#beztoy-container
+
+Backend code generator crash while running pass "X86 DAG->DAG Instruction Selection". Maybe related to coroutines. · Issue #104525 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/104525
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor
+
+tannal/llvm-tutor - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor#helloworld-your-first-pass
+
+35岁现象：中国互联网职场“人矿”的艰难求职故事 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69236750
+
+silkeh/docker-clang: Dockerfiles for Clang and LLVM
+https://github.com/silkeh/docker-clang
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=power%20dynamics&op=translate
+
+Codespaces
+https://github.com/codespaces
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+EnzymeAD/Enzyme: High-performance automatic differentiation of LLVM and MLIR.
+https://github.com/EnzymeAD/Enzyme?tab=readme-ov-file
+
+EnzymeAD/rust: A rust fork to work towards Enzyme integration
+https://github.com/EnzymeAD/rust#readme
+
+Test Linux · tannal/node@fa141b6
+https://github.com/tannal/node/actions/runs/10382466923/job/28745595189
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+合理哥-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=99670954&keyword=%E5%90%88%E7%90%86%E5%93%A5&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+「粤语原声」星爷之合理哥：呢啲只系虚名嚟啫，就好似浮云一样…_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Aa411u7nJ/?spm_id_from=333.337.search-card.all.click
+
+Issues · flutter/flutter
+https://github.com/flutter/flutter/issues
+
+[SimplifyCFG] Failure to convert switch to arithmetic due to sinking limitation · Issue #104567 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/104567
+
+Table cell text align don't work · Issue #4766 · typst/typst
+https://github.com/typst/typst/issues/4766
+
+facebook/hhvm: A virtual machine for executing programs written in Hack.
+https://github.com/facebook/hhvm
+
+Halide
+https://halide-lang.org/
+
+Untitled
+https://stellar.mit.edu/S/course/6/sp15/6.815/courseMaterial/topics/topic2/lectureNotes/14_Halide_print/14_Halide_print.pdf
+
+Fast Filtering & Joint Image Filtering
+https://web.stanford.edu/class/cs448f/lectures/2.2/Fast%20Filtering.pdf
+
+psalvaggio/local_laplacian_filters: Local Laplacian Filters
+https://github.com/psalvaggio/local_laplacian_filters
+
+Codespaces
+https://github.com/codespaces
+
+High Performance Graphics - Google 搜索
+https://www.google.com/search?q=High+Performance+Graphics&rlz=1C1GCEA_enJP1090JP1090&oq=High+Performance+Graphics&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Automating screenshots for documentation · Issue #501 · linebender/xilem
+https://github.com/linebender/xilem/issues/501
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+rust-mobile/cargo-apk: Helps cargo build APKs
+https://github.com/rust-mobile/cargo-apk
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp
+
+ggml · GitHub Topics
+https://github.com/topics/ggml
+
+adb.exe: more than one device/emulator - Google 搜索
+https://www.google.com/search?q=adb.exe%3A+more+than+one+device%2Femulator&rlz=1C1GCEA_enJP1090JP1090&oq=adb.exe%3A+more+than+one+device%2Femulator&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Pull request search results
+https://github.com/search?q=repo%3Alinebender%2Fxilem+mason_android&type=pullrequests
+
+Error: Configure a release keystore via `[package.metadata.android.signing.release] - Google 搜索
+https://www.google.com/search?q=Error%3A+Configure+a+release+keystore+via+%60%5Bpackage.metadata.android.signing.release%5D&rlz=1C1GCEA_enJP1090JP1090&oq=Error%3A+Configure+a+release+keystore+via+%60%5Bpackage.metadata.android.signing.release%5D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTYwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+vscode adb android development - Google 搜索
+https://www.google.com/search?q=vscode+adb+android+development&rlz=1C1GCEA_enJP1090JP1090&oq=vscode+adb+android+development&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAHSAQg2Nzc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=youtube&type=repositories
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
