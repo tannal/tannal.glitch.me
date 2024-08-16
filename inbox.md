@@ -1,6 +1,6 @@
 # 2024-8-15 0 | 0 W
 
-
+https://www.cs.rochester.edu/~scott/papers/
 
 https://github.com/ungoogled-software
 
