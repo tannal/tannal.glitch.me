@@ -1,5 +1,23 @@
 
 
+Adobe XD / Figma / InVision 的替代品:
+    Penpot: 您提到的基于SVG的开源设计平台
+    Akira: 针对Linux的UI/UX设计工具
+    Pencil Project: 开源的GUI原型设计工具
+
+Canva 的替代品:
+    Krita: 虽然主要是数字绘画软件，但也可用于简单的图形设计
+    GIMP: 功能强大的图像编辑软件，可用于一些设计任务
+    Inkscape: 矢量图形编辑器，适合logo设计等任务
+
+Sketch 的替代品:
+    Gravit Designer: 跨平台的矢量设计工具(免费版本有限制)
+    Vectr: 简单易用的在线矢量图形编辑器
+
+通用的开源设计工具:
+    Blender: 虽然主要用于3D建模，但也有2D设计功能
+    LibreOffice Draw: 适合简单的图形和流程图设计
+
 
 Penpot (https://penpot.app/)
 完全开源的设计和原型工具

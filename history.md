@@ -1,5 +1,134 @@
 # 2024-8-16
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Hixie's Natural Log: Power dynamics in web specifications
+https://ln.hixie.ch/?start=1721260117&count=1
+
+micorgrad1.ipynb - Colab
+https://colab.research.google.com/drive/1278Y4I0iSKKsbLY9gRnXe9bK5fGNulgh?usp=sharing#scrollTo=mDB6SO4PFK8L
+
+notebook2d79409c1e | Kaggle
+https://www.kaggle.com/code/tannal/notebook2d79409c1e/edit
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+servo/webrender: A GPU-based renderer for the web
+https://github.com/servo/webrender
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+(1088) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Recreating The iOS Timer App In SwiftUI
+https://digitalbunker.dev/recreating-the-ios-timer-in-swiftui/
+
+tannal (tannal)
+https://github.com/tannal/
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_236unv4158c.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E7%AC%AC35%E9%9B%86&vid=381a8d632df9b6b4b174d52e69158409&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=35&vfrm=3&vfrmblk=pca_115_number_enlarge&vfrmrst=30&pb2=bkt=&c1=&e=&fatherid=&position=5&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_B,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89&op=translate
+
+Node.js — Node.js Releases
+https://nodejs.org/en/about/previous-releases
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Workflow runs · tannal/node
+https://github.com/tannal/node/actions?page=9
+
+Aligning Objects Exercise - Figma for Developers, v2
+https://frontendmasters.com/courses/figma-v2/aligning-objects-exercise/
+
+Design to Code Learning Path - Make Your Designs Come to Life Through Code! | Frontend Masters
+https://frontendmasters.com/learn/designers-code/
+
+Images in Email - HTML Email Development, v2
+https://frontendmasters.com/courses/html-email-v2/images-in-email/
+
+1. Self-hosting Guide
+https://help.penpot.app/technical-guide/getting-started/
+
+Codespaces
+https://github.com/codespaces
+
+Training on Most frequently used words in a text | Codewars
+https://www.codewars.com/kata/51e056fe544cf36c410000fb/train/javascript
+
+Codetribute
+https://codetribute.mozilla.org/languages/rust
+
+1747536 - mozlint: Investigate and add cargo audit support
+https://bugzilla.mozilla.org/show_bug.cgi?id=1747536
+
+1868303 - Fix clippy warnings in glean/api/src/ffi/macros.rs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1868303
+
+1861775 - Support for high-contrast freedesktop preference
+https://bugzilla.mozilla.org/show_bug.cgi?id=1861775
+
+nsLookAndFeel::InitializeGlobalSettings (nsLookAndFeel.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/widget/gtk/nsLookAndFeel.cpp#1560
+
+Test Linux · tannal/node@8ed4b5a
+https://github.com/tannal/node/actions/runs/10414960886/job/28844737304
+
+Codespaces
+https://github.com/codespaces
+
+(32) Discord | #contributing | Bun
+https://discord.com/channels/876711213126520882/888839314056839309
+
+deno jupyter - Google 搜索
+https://www.google.com/search?q=deno+jupyter&rlz=1C1GCEA_enJP1090JP1090&oq=deno+jupyter&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCggIEAAYgAQYogQyCggJEAAYgAQYogTSAQgyNTQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Issue search results
+https://github.com/search?q=author%3Ahixie&type=issues&p=3
+
+rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+(234) #general > IndexedDB - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/IndexedDB
+
+Initial IndexedDB Support by arihant2math · Pull Request #33044 · servo/servo
+https://github.com/servo/servo/pull/33044
+
+Codespaces
+https://github.com/codespaces
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun/
+
+Bun — A fast all-in-one JavaScript runtime
+https://bun.sh/
+
+Deno vs. Bun vs. Node.js: A feature comparison | Hacker News
+https://news.ycombinator.com/item?id=37474837
+
 Profile / X
 https://x.com/outreachy
 
