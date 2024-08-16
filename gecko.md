@@ -1,5 +1,7 @@
 # dev
 
+$env:MOZ_JITSPEW_LEVEL="1"
+
 $env:MOZ_LOG="timestamp,rotate:200,nsHttp:5,cache2:5,nsSocketTransport:5,nsHostResolver:5"
 
 $env:MOZ_JITSPEW_CHANNEL="RegAlloc"

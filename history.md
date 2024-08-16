@@ -1,5 +1,41 @@
 # 2024-8-16
 
+Profile / X
+https://x.com/outreachy
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Resources
+https://tutflix.org/resources/
+
+(14) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Implement basic optimizations · Issue #88 · sysprog21/shecc
+https://github.com/sysprog21/shecc/issues/88?fbclid=IwY2xjawErnOFleHRuA2FlbQIxMAABHaMqZIDKNu1f3iel24SQYNYFuRhb4WBn3FpzDS3m5E9MjRhAboxjzBr07A_aem_4zOe2mC-9NAxWDdmed2lgQ
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+Publications
+https://www.cs.rochester.edu/~scott/papers/
+
+(3) maxpl0it (@maxpl0it) / X
+https://x.com/maxpl0it
+
+(3) Fletcher Davis (@gymR4T) / X
+https://x.com/gymR4T
+
+(3) Profile / X
+https://x.com/33y0re
+
+Windows Internals: Dissecting Secure Image Objects - Part 1 | Home
+https://connormcgarr.github.io/secure-images/
+
+(3) Profile / X
+https://x.com/__x86
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
