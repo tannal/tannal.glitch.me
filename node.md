@@ -1,6 +1,12 @@
 
 # dev
 
+https://github.com/tannal/node/actions/runs/10382466923/job/28745595189
+
+$env:NODE_PATH="node"
+
+python tools/test.py  -p tap --logfile test.tap --mode=release --flaky-tests=keep_retrying -p actions --node-args='--test-reporter=spec' --node-args='--test-reporter-destination=stdout' --measure-flakiness 9 default pummel addons js-native-api node-api benchmark 
+
 <!--
 Before submitting a pull request, please read:
 

@@ -1,5 +1,7 @@
 # 2024-8-15 0 | 0 W
 
+adb connect 192.168.131.82:5555
+
 https://www.cs.rochester.edu/~scott/papers/
 
 https://github.com/ungoogled-software
