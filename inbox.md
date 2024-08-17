@@ -1,5 +1,14 @@
 # 2024-8-17 0 | 0 W
 
+sudo /home/ubuntu/.cargo/bin/innernet-server add-cidr tannal
+
+sudo /home/ubuntu/.cargo/bin/innernet-server new
+
+cargo install --git https://github.com/tonarino/innernet server
+cargo install --git https://github.com/tonarino/innernet client
+
+sudo innernet-server new
+
 {
     "docker.environment": {
         "DOCKER_HOST": "tcp://124.223.112.154:12375"
