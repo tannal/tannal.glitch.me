@@ -1,5 +1,7 @@
 # 2024-8-17 0 | 0 W
 
+docker-compose up -d
+
 sudo /home/ubuntu/.cargo/bin/innernet-server add-cidr tannal
 
 sudo /home/ubuntu/.cargo/bin/innernet-server new
