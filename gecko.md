@@ -1,5 +1,9 @@
 # dev
 
+https://phabricator.services.mozilla.com/differential/query/K_SDXXxl7ZVp/#R
+
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=cathiechen%40igalia.com&list_id=17172355
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1861775
 
 背景:
