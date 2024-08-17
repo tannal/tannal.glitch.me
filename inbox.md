@@ -1,3 +1,20 @@
+# 2024-8-17 0 | 0 W
+
+{
+  "hosts": ["tcp://0.0.0.0:2375", "unix:///var/run/docker.sock"]
+}
+
+sudo systemctl edit docker.service
+
+journalctl -xeu docker.service
+
+ip addr show eth0 | grep "inet\b" | awk '{print $2}' | cut -d/ -f1
+
+netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=2375 connectaddress=172.22.79.106 connectport=2375
+
+
+# 2024-8-16 0 | 0 W
+
 # 2024-8-15 0 | 0 W
 
 C:\Users\tanna\.docker
