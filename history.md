@@ -1,5 +1,77 @@
 # 2024-8-18
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+V8 profiling instrumentation overhead – José Dapena blog
+https://blogs.igalia.com/dape/2023/11/16/v8-profiling-instrumentation-overhead/
+
+Go Ahead
+https://jbrandhorst.com/
+
+johanbrandhorst/grpc-postgres: An example repo of how I like to use postgres with gRPC
+https://github.com/johanbrandhorst/grpc-postgres
+
+Stefan-Marr.de · personal and research notes
+https://stefan-marr.de/
+
+About me - pmatos rambles
+https://p.ocmatos.com/about-me.html
+
+Issues · pmatos/nora
+https://github.com/pmatos/nora/issues
+
+cv.pdf
+https://www.azabani.com/about/public/cv.pdf
+
+SoftwareGarden.dev
+https://softwaregarden.dev/en/page/2/
+
+Tech Notes: ICFP 2024 programming contest
+https://neugierig.org/software/blog/2024/07/icfp-2024.html
+
+ICFP contest 2024 - scoreboard
+https://icfpcontest2024.github.io/scoreboard.html
+
+Tech Notes: Moving data from Rust to JS
+https://neugierig.org/software/blog/2024/04/rust-wasm-to-js.html
+
+Fixed-point combinator - Wikipedia
+https://en.wikipedia.org/wiki/Fixed-point_combinator
+
+Contributors to moby/moby
+https://github.com/moby/moby/graphs/contributors
+
+Issue search results
+https://github.com/search?q=involves%3Arobmry&type=issues
+
+Contributors to microsoft/vscode
+https://github.com/microsoft/vscode/graphs/contributors
+
+Contributors to gcc-mirror/gcc
+https://github.com/gcc-mirror/gcc/graphs/contributors
+
+MIR docs: fix borked links and update style by marxin · Pull Request #2017 · rust-lang/rustc-dev-guide
+https://github.com/rust-lang/rustc-dev-guide/pull/2017
+
+Csmith Project
+https://github.com/csmith-project
+
+rui314/mold: Mold: A Modern Linker 🦠
+https://github.com/rui314/mold
+
+Contributors to webpack/webpack
+https://github.com/webpack/webpack/graphs/contributors
+
+facebook/react: The library for web and native user interfaces.
+https://github.com/facebook/react/
+
+rustc_mir_transform - Rust
+https://doc.rust-lang.org/nightly/nightly-rustc/rustc_mir_transform/
+
+smarr/TruffleSOM: A SOM Smalltalk implemented on top of Oracle's Truffle Framework
+https://github.com/smarr/TruffleSOM
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
