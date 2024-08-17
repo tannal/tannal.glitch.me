@@ -1,5 +1,110 @@
 # 2024-8-16
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+v8-dev - Google 群组
+https://groups.google.com/g/v8-dev
+
+TC39 - Specifying JavaScript.
+https://tc39.es/
+
+NVD - CVE-2024-4761
+https://nvd.nist.gov/vuln/detail/CVE-2024-4761
+
+Buildbot: builder WinCairo-64-bit-Release-Build build 20174
+https://build.webkit.org/#/builders/731/builds/20174
+
+succeeded - WebKit Win10 137981 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/ci/WebKit%20Win10/137981/overview
+
+inv: task-chromium-swarm.appspot.com-6b7460d744aba211 | LUCI
+https://luci-milo.appspot.com/ui/inv/task-chromium-swarm.appspot.com-6b7460d744aba211/test-results?sortby=&groupby=
+
+results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6b7460d744aba211/tests/ninja:%2F%2F:chrome_wpt_tests%2Fexternal%2Fwpt%2Fsecure-payment-confirmation%2Fauthentication-cross-origin.sub.https.html/results/f0c73004-00003/artifacts/stderr?token=AXsiX2kiOiIxNzIzODE5NTY1ODk5IiwiX3giOiIzNjAwMDAwIn32g2_elsdwKvsRJmcFWgZ-l_0IoJqdQA57luSA1_QRgQ
+https://results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6b7460d744aba211/tests/ninja:%2F%2F:chrome_wpt_tests%2Fexternal%2Fwpt%2Fsecure-payment-confirmation%2Fauthentication-cross-origin.sub.https.html/results/f0c73004-00003/artifacts/stderr?token=AXsiX2kiOiIxNzIzODE5NTY1ODk5IiwiX3giOiIzNjAwMDAwIn32g2_elsdwKvsRJmcFWgZ-l_0IoJqdQA57luSA1_QRgQ
+
+results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6b7460d744aba211/tests/ninja:%2F%2F:chrome_wpt_tests%2Fexternal%2Fwpt%2Fsecure-payment-confirmation%2Fauthentication-cross-origin.sub.https.html/results/f0c73004-00003/artifacts/command?token=AXsiX2kiOiIxNzIzODE5NTU1NDc1IiwiX3giOiIzNjAwMDAwIn1V9ugcuYOEOOAkAc6FbpJ2bD5GqeoH8P8taZ56GJGaLQ
+https://results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6b7460d744aba211/tests/ninja:%2F%2F:chrome_wpt_tests%2Fexternal%2Fwpt%2Fsecure-payment-confirmation%2Fauthentication-cross-origin.sub.https.html/results/f0c73004-00003/artifacts/command?token=AXsiX2kiOiIxNzIzODE5NTU1NDc1IiwiX3giOiIzNjAwMDAwIn1V9ugcuYOEOOAkAc6FbpJ2bD5GqeoH8P8taZ56GJGaLQ
+
+Firefox CI and Taskgraph — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/taskcluster/index.html
+
+Taskcluster
+https://taskcluster.net/
+
+Worker Pool "gecko-1/b-linux-medium-gcp" - FirefoxCI
+https://firefox-ci-tc.services.mozilla.com/worker-manager/gecko-1%2Fb-linux-medium-gcp
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+V8 Heap Statistics
+https://v8.github.io/tools/head/heap-stats/index.html
+
+tannal/js-workspace - js-workspace - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/js-workspace
+
+sourcegraph/zoekt: Fast trigram based code search
+https://github.com/sourcegraph/zoekt
+
+Lazy Loading JavaScript Components - JavaScript Design Patterns for Web Apps
+https://frontendmasters.com/courses/js-design-patterns/lazy-loading-javascript-components/
+
+Binary Search Tree Overview - The Last Algorithms Course You'll Want (Part 2)
+https://frontendmasters.com/courses/advanced-algorithms/binary-search-tree-overview/
+
+succeeded - V8 Linux - full debug 32338 | LUCI
+https://ci.chromium.org/ui/p/v8/builders/ci/V8%20Linux%20-%20full%20debug/32338/overview
+
+Learn the Essentials of SVG | Building and Optimizing SVG | Frontend Masters
+https://frontendmasters.com/courses/svg-essentials-animation/
+
+Task Page - Swarming
+https://chromium-swarm.appspot.com/task?id=6b74606586719b10&w=true
+
+Codespaces
+https://github.com/codespaces
+
+llvm-tutor/devcontainer.json 位于 main - llvm-tutor - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/llvm-tutor/src/branch/main/.devcontainer/devcontainer.json
+
+tannal/llvm-tutor: A collection of out-of-tree LLVM passes for teaching and learning
+https://github.com/tannal/llvm-tutor
+
+Codespaces - fantastic broccoli
+https://github.com/codespaces/fantastic-broccoli-g444jwp5q9gjhvp7v?editor=vscode
+
+Provide a way to download only the docker-cli · Issue #2281 · docker/cli
+https://github.com/docker/cli/issues/2281
+
+Docker in Windows without Docker Desktop
+https://gist.github.com/gorshkov-leonid/e88685dd263944dca2a66b7b8d1070a3
+
+Chocolatey Software | Docker CLI 27.1.2
+https://community.chocolatey.org/packages/docker-cli
+
+How do I expose the docker API over TCP? - Server Fault
+https://serverfault.com/questions/843296/how-do-i-expose-the-docker-api-over-tcp
+
+Get started with Docker containers on WSL | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
+
+Configure remote access for Docker daemon | Docker Docs
+https://docs.docker.com/engine/daemon/remote-access/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+Configure Docker in Windows | Microsoft Learn
+https://learn.microsoft.com/en-us/virtualization/windowscontainers/manage-docker/configure-docker-daemon
+
+124.223.112.154:2375/v1.46/info
+http://124.223.112.154:2375/v1.46/info
+
+Docker Network bypasses Firewall, no option to disable · Issue #22054 · moby/moby
+https://github.com/moby/moby/issues/22054
+
 Profile / X
 https://x.com/outreachy
 
