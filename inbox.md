@@ -1,5 +1,8 @@
 # 2024-8-17 0 | 0 W
 
+flutter channel master
+flutter upgrade
+
 https://github.com/github/securitylab/blob/main/SecurityExploits/Chrome/v8/CVE_2024_5830/calc.html
 
 https://www.workatastartup.com/companies/keeper-2
