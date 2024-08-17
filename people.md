@@ -577,7 +577,7 @@ Nick Nisi https://nicknisi.com/
 
 Chen Hui Jing https://chenhuijing.com/
 
-Dan Abramov https://twitter.com/dan_abramov
+Dan Abramov https://twitter.com/dan_abramov2
 
 
 # By Projects
