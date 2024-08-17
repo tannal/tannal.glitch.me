@@ -1,5 +1,14 @@
 # inbox
 
+
+export DOCKER_HOST="tcp://192.168.43.62:2375"
+$env:DOCKER_HOST="tcp://192.168.43.62:2375"
+set DOCKER_HOST="tcp://192.168.43.62:2375"
+
+/usr/lib/llvm-18/bin/clang++ -emit-llvm -S -O1 HelloWorld/HelloWorld.cpp -o test.ll
+
+/usr/lib/llvm-18/bin/opt -load-pass-plugin lib/libHelloWorld.so -passes=hello-world,hello-world --disable-output ../input_for_hello.ll
+
 ./build/bin/clang++ ~/tannalwork/cans/lambda.cc -o lambda
 
 clang/lib/Lex/Lexer.cpp
