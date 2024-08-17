@@ -1,5 +1,182 @@
 # 2024-8-18
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Akipe/awesome-android-aosp: A collection of Android AOSP and ROM development related resources
+https://github.com/Akipe/awesome-android-aosp?tab=readme-ov-file
+
+aospandaaos
+https://github.com/aospandaaos
+
+android Git repositories - Git at Google
+https://android.googlesource.com/
+
+chaosprint (Qichao Lan)
+https://github.com/chaosprint
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+LLVM2
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L4-LLVM2.pdf
+
+danicat/pacgo: A Pac Man clone written in Go (with emojis!)
+https://github.com/danicat/pacgo
+
+Contributors to pytorch/pytorch
+https://github.com/pytorch/pytorch/graphs/contributors
+
+Linux 内核网络栈 - Xuewei's Blog
+https://nxw.name/2022/linux-network-stack
+
+SO2 Lecture 03 - Processes — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/so2/lec3-processes.html#processes-and-threads
+
+[PATCH v7 0/8] Improve the copy of task comm
+https://lore.kernel.org/bpf/20240817025624.13157-1-laoar.shao@gmail.com/T/#m5a6380fa731c7b95ccef83f284dea1a995eab948
+
+Bug List
+https://bugzilla.kernel.org/buglist.cgi?chfield=%5BBug%20creation%5D&chfieldfrom=24h
+
+rust - search results
+https://lore.kernel.org/lkml/?q=rust
+
+Blog | STAR Labs
+https://starlabs.sg/blog/
+
+WebKit & JSC Architecture Reading List - For Vulnerability Researchers [Updated 2022] :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers/
+
+https://www.youtube.com/watch?v=KVpHouVMTgY
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DKVpHouVMTgY&q=EhAmADwBAAAAAPA8lP_-silNGKu2g7YGIjBEsO3AS-Xrx9zkIr1pPw7YyN8WAwXPjXmoKFcNPA5dCNxZ3hIhhlyVWjIuuOoS_h4yAXJaAUM
+
+WebKit
+https://www.webkit.org/
+
+Chromium Dash
+https://chromiumdash.appspot.com/commits?platform=FuchsiaWebEngine
+
+is:open - Chromium
+https://issues.chromium.org/issues?q=is:open
+
+JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+
+WebKit/Source/JavaScriptCore/jsc.cpp at b7e84a4224b3934868bc08f5c89b583355a6c87a · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/b7e84a4224b3934868bc08f5c89b583355a6c87a/Source/JavaScriptCore/jsc.cpp#L3398
+
+Re-implementing LangChain in 100 lines of code
+https://blog.scottlogic.com/2023/05/04/langchain-mini.html
+
+LMMS
+https://github.com/LMMS
+
+The Stack: Every Layout
+https://every-layout.dev/layouts/stack/
+
+Stack using recursion: Every Layout
+https://every-layout.dev/demos/stack-recursion/
+
+run-llama repositories
+https://github.com/orgs/run-llama/repositories
+
+Get Elvish
+https://elv.sh/get/
+
+0xfe/vexchords: JavaScript Chord Charts
+https://github.com/0xfe/vexchords
+
+✔ VexFlow 2 - JavaScript Music Notation and Guitar Tab
+https://www.vexflow.com/tests/
+
+gitlab.com/qemu-project/qemu/-/issues : Bug trackers
+https://bugs.launchpad.net/bugs/bugtrackers/auto-gitlab.com-qemu-project-qemu--
+
+[PATCH-for-9.1 v3 2/2] hw/i386/pc: Ensure vmport prerequisites are fulfi
+https://lists.nongnu.org/archive/html/qemu-trivial/2024-08/msg00053.html
+
+Submitting a Patch — QEMU documentation
+https://www.qemu.org/docs/master/devel/submitting-a-patch.html
+
+Dave Eckhardt's Research Interests
+https://www.cs.cmu.edu/~davide/research.html
+
+dart - Flutter: Building with plugins requires symlink support - Stack Overflow
+https://stackoverflow.com/questions/68089177/flutter-building-with-plugins-requires-symlink-support
+
+yissachar/awesome-dart: A curated list of awesome Dart frameworks, libraries, and software
+https://github.com/yissachar/awesome-dart?tab=readme-ov-file#parsers
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Issue search results
+https://github.com/search?q=involves%3Akees&type=issues&p=2
+
+ClangBuiltLinux
+https://github.com/ClangBuiltLinux
+
+KernelCI
+https://github.com/kernelci
+
+Issue search results
+https://github.com/search?q=involves%3Asean-jc&type=issues&p=2
+
+Contributors to python/cpython
+https://github.com/python/cpython/graphs/contributors
+
+elastic
+https://github.com/elastic
+
+go-window/01 - setup inital window/main.go at master · MickDuprez/go-window
+https://github.com/MickDuprez/go-window/blob/master/01%20-%20setup%20inital%20window/main.go
+
+driver package - golang.org/x/exp/shiny/driver - Go Packages
+https://pkg.go.dev/golang.org/x/exp/shiny/driver
+
+opengl - Search Results - Go Packages
+https://pkg.go.dev/search?q=opengl&m=package
+
+go-webgpu/tests/compute at main · rajveermalviya/go-webgpu
+https://github.com/rajveermalviya/go-webgpu/tree/main/tests/compute
+
+goxjs/gl: Go cross-platform OpenGL bindings.
+https://github.com/goxjs/gl
+
+windows package - golang.org/x/sys/windows - Go Packages
+https://pkg.go.dev/golang.org/x/sys/windows#pkg-examples
+
+Contributing Code | WebKit
+https://webkit.org/contributing-code/#choose-a-bug-report
+
+Bug List
+https://bugs.webkit.org/buglist.cgi?chfield=%5BBug%20creation%5D&chfieldfrom=24h
+
+Contributors to golang/go
+https://github.com/golang/go/graphs/contributors
+
+Issue search results
+https://github.com/search?q=involves%3Amknyszek&type=issues
+
+Issue search results
+https://github.com/search?q=involves%3ATechatrix&type=issues
+
+Issue search results
+https://github.com/search?q=author%3Axxxbxxx&type=issues
+
+Android SDK Sources
+https://github.com/androidSDKSources/
+
+Android
+https://github.com/android
+
+Issue search results
+https://github.com/search?q=author%3Aenh-google+&type=issues&p=2
+
+screen package - golang.org/x/exp/shiny/screen - Go Packages
+https://pkg.go.dev/golang.org/x/exp/shiny@v0.0.0-20240808152545-0cdaa3abc0fa/screen
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
