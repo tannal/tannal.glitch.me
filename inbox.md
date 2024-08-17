@@ -1,5 +1,9 @@
 # 2024-8-17 0 | 0 W
 
+https://www.workatastartup.com/companies/keeper-2
+
+https://hnhiring.com/technologies/react
+
 docker-compose up -d
 
 sudo /home/ubuntu/.cargo/bin/innernet-server add-cidr tannal
@@ -875,7 +879,7 @@ New-Item -Path "wasm-engine\src\main.rs" -ItemType File -Force | Out-Null
 
 
 ```
-$env:RUST_LOG="debug"
+$env:RUST_LOG="info"
 
 ```
 

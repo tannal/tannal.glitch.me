@@ -1,5 +1,53 @@
 # 2024-8-17
 
+nvim definition - Poe
+https://poe.com/chat/el9zj0stabkc73t57
+
+tucnak/telebot: Telebot is a Telegram bot framework in Go.
+https://github.com/tucnak/telebot
+
+(14) Facebook
+https://www.facebook.com/ccckmit
+
+muon-build
+https://github.com/muon-build
+
+(3) Sathya Gunasekaran (@_gsathya) / X
+https://x.com/_gsathya
+
+(3) dan 2.1 (@dan_abramov2) / X
+https://x.com/dan_abramov2
+
+(3) Eric Seidel on X: "Who are the best Flutter consultants I should know? I often have companies ask me for consulting recommendations, e.g. for an hour or two of a Flutter expert's time. Where should I point these companies to?" / X
+https://x.com/_eseidel/status/1823813282643501459
+
+(3) Matt Carroll (Flutter Maximalist) (@SuprDeclarative) / X
+https://x.com/SuprDeclarative
+
+(3) Pranjul Dhiman (@AndroidByLazy) / X
+https://x.com/AndroidByLazy
+
+pranjulflows/composeplayer_CMP
+https://github.com/pranjulflows/composeplayer_CMP
+
+Y Combinator Internship Program, Summer 2024 | Y Combinator's Work at a Startup
+https://www.workatastartup.com/internships
+
+Keeper | Y Combinator's Work at a Startup
+https://www.workatastartup.com/companies/keeper-2
+
+Full Stack Engineer (San Francisco or Remote) at Keeper | Y Combinator's Work at a Startup
+https://www.workatastartup.com/jobs/64643
+
+Machine Learning Intern (Fall) at Keeper | Y Combinator's Work at a Startup
+https://www.workatastartup.com/jobs/68123
+
+All React jobs from Hacker News 'Who is hiring? (August 2024)' post | HNHIRING
+https://hnhiring.com/technologies/react
+
+loremaster's comments | Hacker News
+https://news.ycombinator.com/threads?id=loremaster
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
