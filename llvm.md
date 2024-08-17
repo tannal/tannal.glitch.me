@@ -1,5 +1,7 @@
 # inbox
 
+cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-18/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+ln -sfn /build/compile_commands.json compile_commands.json
 
 export DOCKER_HOST="tcp://192.168.43.62:2375"
 $env:DOCKER_HOST="tcp://192.168.43.62:2375"
