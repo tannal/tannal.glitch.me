@@ -1,6 +1,7 @@
 # 2024-8-17 0 | 0 W
 
 set DOCKER_HOST=tcp://124.223.112.154:12375
+$env:DOCKER_HOST="tcp://124.223.112.154:12375"
 
 docker -H tcp://192.168.43.62:2375 info
 

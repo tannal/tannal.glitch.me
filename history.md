@@ -1,3 +1,41 @@
+# 2024-8-17
+
+YouTube
+https://www.youtube.com/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Docker Desktop redirect | Docker
+https://app.docker.com/auth/desktop/redirect?code=bqdVJ4Oh7_wEMQESOyexyCh07HJP-_cYkQrdY8xjLcQxB&state=wJacQ2nUOsZWwOTTkiRpFc8XGBUsSfFQs0UWDCDy_7k
+
+dockerd | Docker Docs
+https://docs.docker.com/reference/cli/dockerd/
+
+localhost:2375/v1.46/info
+http://localhost:2375/v1.46/info
+
+192.168.43.62
+http://192.168.43.62:2375/v1.46/info
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+FSCloud
+http://web.fscloud.cc/#/dashboard
+
+x.com/outreachy
+https://x.com/outreachy
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+tucnak/telebot: Telebot is a Telegram bot framework in Go.
+https://github.com/tucnak/telebot
+
+localhost:2375/v1.46/info
+http://localhost:2375/v1.46/info
+
 # 2024-8-16
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
