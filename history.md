@@ -1,5 +1,161 @@
 # 2024-8-17
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_1ih5j1k48a8.html?ht=2&ischarge=true&lt=2&tvname=%E3%80%8A%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C%E3%80%8B%E5%8A%A0%E6%9B%B4%E7%A4%BC%E5%BD%A9%E8%9B%8B%EF%BC%9A%E5%B0%8F%E5%89%A7%E5%9C%BA2&vid=5102b5368fd643de6183e5f8559ab52e&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=%E5%BD%A9%E8%9B%8B2&vfrm=3&vfrmblk=pca_115_number_enlarge&vfrmrst=%E5%BD%A9%E8%9B%8B1&pb2=bkt=&c1=&e=&fatherid=&position=5&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_A,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_nvusov4apo.html?ht=0&ischarge=false&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E7%AC%AC1%E9%9B%86&vid=c6f625284873ace60cf5891dd5a4210d&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=1&vfrm=3&vfrmblk=pca_115_number_enlarge&pb2=bkt=&c1=&e=&fatherid=&position=4&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_A,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+Flutter, Dart, and WASM-GC: A new model for Web applications [video] | Hacker News
+https://news.ycombinator.com/item?id=35548509
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+127.0.0.1:9101/deep-links
+http://127.0.0.1:9101/deep-links
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues
+
+Codespaces
+https://github.com/codespaces
+
+romainguy/kotlin-explorer: Desktop tool to quickly explore disassembled Kotlin code.
+https://github.com/romainguy/kotlin-explorer?tab=readme-ov-file
+
+Kotlin command-line compiler | Kotlin Documentation
+https://kotlinlang.org/docs/command-line.html#homebrew
+
+唐朝诡事录 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95
+
+Get started with Kotlin | Kotlin Documentation
+https://kotlinlang.org/docs/getting-started.html#is-anything-missing
+
+爱奇艺奇光工作室 - Google 搜索
+https://www.google.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%A5%87%E5%85%89%E5%B7%A5%E4%BD%9C%E5%AE%A4&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%88%B1%E5%A5%87%E8%89%BA%E5%A5%87%E5%85%89%E5%B7%A5%E4%BD%9C%E5%AE%A4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Move away from electron · Issue #118308 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/118308
+
+tauri-apps/wry: Cross-platform WebView library in Rust for Tauri.
+https://github.com/tauri-apps/wry
+
+Roadmap · microsoft/vscode Wiki
+https://github.com/Microsoft/vscode/wiki/Roadmap
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vscode%20in%20rust&sort=byPopularity&type=story
+
+helix-editor/helix: A post-modern modal text editor.
+https://github.com/helix-editor/helix
+
+Helix
+https://helix-editor.com/
+
+Gui · Issue #39 · helix-editor/helix
+https://github.com/helix-editor/helix/issues/39
+
+Releases · zed-industries/zed
+https://github.com/zed-industries/zed/
+
+Zed - Code at the speed of thought
+https://zed.dev/download
+
+mawww/kakoune: mawww's experiment for a better code editor
+https://github.com/mawww/kakoune
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+muon-build/muon: An implementation of the meson build system in c99
+https://github.com/muon-build/muon
+
+(29) Discord | #lecture1-micrograd | Eureka Labs
+https://discord.com/channels/1020383067459821711/1029849706404249621
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fmicrograd%20backward&type=code
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=zx2T5_-yEan-
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Go Playground - The Go Programming Language
+https://go.dev/play/
+
+Add a plugin interface to extend the editor · Issue #5269 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5269
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed?tab=readme-ov-file
+
+Work at Zed
+https://zed.dev/jobs
+
+Code search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed%20settings.json&type=code
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=zed%20editor&sort=byPopularity&type=story
+
+Go
+https://web.telegram.org/a/#-1001034795809
+
+ClarkQAQ (ClarkQAQ)
+https://github.com/ClarkQAQ
+
+首页 - ClarkQAQ
+https://clarkqwq.top/
+
+PGlite
+https://pglite.dev/
+
+electric-sql/pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+https://github.com/electric-sql/pglite
+
+Configuring Zed - Zed
+https://zed.dev/docs/configuring-zed
+
+x.com/dan_abramov2
+https://x.com/dan_abramov2
+
+pranjulflows/composeplayer_CMP
+https://github.com/pranjulflows/composeplayer_CMP
+
+ChatGGG
+http://192.168.43.1:8080/
+
+CED-IDE - Google 搜索
+https://www.google.com/search?q=CED-IDE&sca_esv=53119dc2d4566d04&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL1SmrodegEDuu3a7xEiSIVSLag9A%3A1723896809548&ei=6ZPAZv6aIfDNkPIP-ZmSuAc&ved=0ahUKEwi-s9mHgPyHAxXwJkQIHfmMBHcQ4dUDCA8&uact=5&oq=CED-IDE&gs_lp=Egxnd3Mtd2l6LXNlcnAiB0NFRC1JREUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPIZULsHWMkXcAF4AZABAJgBigegAbEVqgEHNC0xLjEuMrgBA8gBAPgBAZgCBaAC3RXCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBBAjGCfCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEC4YgAQY1AKYAwCIBgGQBgqSBwkxLjQtMi4wLjKgB-gz&sclient=gws-wiz-serp
+
+AMD Ryzen™ 9 7950X3D Gaming Processor
+https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x3d.html
+
+amd 市值 - Google 搜索
+https://www.google.com/search?q=amd+%E5%B8%82%E5%80%BC&sca_esv=53119dc2d4566d04&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKuehRoVj_BCxpbJ-YqF83M2Sc1xA%3A1723897011399&ei=s5TAZoyPGMynkPIPr96p8Ak&ved=0ahUKEwjMtPnngPyHAxXME0QIHS9vCp4Q4dUDCA8&uact=5&oq=amd+%E5%B8%82%E5%80%BC&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmFtZCDluILlgLwyChAAGIAEGEMYigUyChAAGIAEGEMYigUyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESJAWUPAMWM0TcAB4AZABAJgBuwagAYYWqgELMi0yLjEuMC4yLjG4AQPIAQD4AQGYAgagAqEWwgIKECMYgAQYJxiKBcICBRAAGIAEwgIHEAAYgAQYDMICCBAAGIAEGMsBmAMAkgcJMy0zLjIuMC4xoAfrDw&sclient=gws-wiz-serp
+
+amd 7800 3d - Google 搜索
+https://www.google.com/search?q=amd+7800+3d&rlz=1C1GCEA_enJP1090JP1090&oq=amd+7800+3d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgYIAhAAGB4yCAgDEAAYCBgeMggIBBAAGAgYHjIICAUQABgIGB4yCggGEAAYgAQYogQyCggHEAAYgAQYogQyCggIEAAYgAQYogTSAQg0NzIxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Buy Ryzen™ 7 7800X3D Desktop Processor Direct on AMD
+https://shop-us-en.amd.com/amd-ryzen-7-7800x3d-processor/
+
+民营经济 加班 知乎 - Google 搜索
+https://www.google.com/search?q=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E+%E5%8A%A0%E7%8F%AD+%E7%9F%A5%E4%B9%8E&sca_esv=53119dc2d4566d04&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILN1CZJ9LXIV73CxK1QJogIDrDX9g%3A1723897565468&ei=3ZbAZrCrHN24kPIP0bGUkA4&ved=0ahUKEwjwjZPwgvyHAxVdHEQIHdEYBeIQ4dUDCA8&uact=5&oq=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E+%E5%8A%A0%E7%8F%AD+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiGuawkeiQpee7j-a1jiDliqDnj60g55-l5LmOMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogRI9AdQEVj1BnABeACQAQCYAeYCoAHKDKoBBTItMS40uAEDyAEA-AEBmAIEoAKfCsICBRAhGKABmAMAiAYBkgcFMi0xLjOgB6UK&sclient=gws-wiz-serp
+
+勇敢的心bbk的个人空间-勇敢的心bbk个人主页-哔哩哔哩视频
+https://space.bilibili.com/31960233?spm_id_from=333.337.0.0
+
 
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
