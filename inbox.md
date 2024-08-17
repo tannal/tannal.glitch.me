@@ -1,8 +1,13 @@
 # 2024-8-17 0 | 0 W
 
+http://124.223.112.154:2375/v1.46/info
+
+docker -H tcp://192.168.43.62:2375 info
+
 https://docs.docker.com/engine/daemon/remote-access/
 
 set DOCKER_HOST=tcp://124.223.112.154:2375
+set DOCKER_HOST=tcp://192.168.43.62:2375
 
 {
   "hosts": ["tcp://0.0.0.0:2375", "unix:///var/run/docker.sock"]
