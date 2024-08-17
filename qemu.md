@@ -100,7 +100,7 @@ https://bugs.launchpad.net/qemu/
 
 git://git.qemu.org/qemu.git
 
-http://bugs.launchpad.net/qemu
+https://bugs.launchpad.net/bugs/bugtrackers/auto-gitlab.com-qemu-project-qemu--
 
 https://wiki.qemu.org/Contribute
 
