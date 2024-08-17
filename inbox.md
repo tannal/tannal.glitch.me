@@ -1,5 +1,9 @@
 # 2024-8-15 0 | 0 W
 
+export DOCKER_HOST=192.168.43.62:2375
+$env:DOCKER_HOST=192.168.43.62:2375
+set DOCKER_HOST=192.168.43.62:2375
+
 choco install docker-cli
 
 adb connect 192.168.131.82:5555
