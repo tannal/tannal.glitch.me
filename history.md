@@ -1,3 +1,152 @@
+# 2024-8-18
+
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Writing code for Firefox
+https://www.joshmatthews.net/fosdem/#slide-17
+
+832411 - a> nsIGeolocationProvider::SetHighAccuracy does not get called from nsgeolocation service for all cases.
+https://bugzilla.mozilla.org/show_bug.cgi?id=832411
+
+ReleaseEngineering/TryServer - MozillaWiki
+https://wiki.mozilla.org/ReleaseEngineering/TryServer#Pushing_to_try
+
+Becoming A Mozilla Committer — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/
+
+ehsan (Ehsan Akhgari)
+https://github.com/ehsan
+
+Project SpiderNode | Home Page
+https://ehsanakhgari.org/blog/2016-04-20/project-spidernode/
+
+ABOUT US
+https://www.futurewei.com/
+
+Element [2] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+From object transition to RCE in the Chrome renderer - The GitHub Blog
+https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/
+
+securitylab/SecurityExploits/Chrome/v8/CVE_2024_5830 at main · github/securitylab
+https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE_2024_5830
+
+securitylab/SecurityExploits/Chrome/v8/CVE_2024_5830/calc.html at main · github/securitylab
+https://github.com/github/securitylab/blob/main/SecurityExploits/Chrome/v8/CVE_2024_5830/calc.html
+
+1913382 - Count how common it is for SVG STYLE elements to contain children in the real world
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913382
+
+sefeng211 (Sean Feng)
+https://github.com/sefeng211
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?page=2&q=is%3Aissue+is%3Aopen+scrolling
+
+Top-Ranking Issues (All Time) 📊 · Issue #5393 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5393
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+(828) #gpu > Conflation artifact free compositing - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Conflation.20artifact.20free.20compositing
+
+(114) #general > State of Text Rendering 2024 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/State.20of.20Text.20Rendering.202024
+
+Secure Rust Font Stack - Chrome Platform Status
+https://chromestatus.com/feature/5717358869217280
+
+Google Fonts
+https://github.com/googlefonts
+
+Releases · sagudev/prebuild-angle
+https://github.com/sagudev/prebuild-angle
+
+Rust Windowing
+https://github.com/rust-windowing
+
+script: Implement `CanvasRenderingContext2D.measureText` by chocolate-pie · Pull Request #32704 · servo/servo
+https://github.com/servo/servo/pull/32704
+
+web-platform-tests dashboard
+https://wpt.fyi/results/?label=experimental&label=master&aligned
+
+web-platform-tests dashboard
+https://staging.wpt.fyi/results/css?product=servo&product=ladybird
+
+Re-fixing Servo’s event-loop | Medium
+https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385
+
+Mouse clicks are intermittently lost · Issue #33010 · servo/servo
+https://github.com/servo/servo/issues/33010
+
+Building for Android* - The Servo Book
+https://book.servo.org/hacking/building-for-android.html
+
+chris-morgan (chris-morgan) / Repositories
+https://github.com/chris-morgan?tab=repositories
+
+Log in to your account | DigitalOcean
+https://cloud.digitalocean.com/login
+
+Educative: AI-Powered Interactive Courses for Developers
+https://www.educative.io/
+
+[教程]2022最新Github学生包申请教程，无需edu邮箱 - 小懒后花园
+https://www.xiaolanhhy.com/shares/1364.html
+
+Namecheap
+https://www.namecheap.com/domains/registration/results/?domain=tanmeng.me
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+Home
+https://sagiriwiki.web.app/
+
+My Dashboard
+https://bugzilla.mozilla.org/page.cgi?id=mydashboard.html
+
+1823938 - Move `mPreviouslyFocusedElement` from `HTMLDialogElement` to `nsGenericHTMLElement`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1823938
+
+♟ sefeng
+https://phabricator.services.mozilla.com/p/sefeng/
+
+C++ 中文交流
+https://web.telegram.org/a/#-1001148652493
+
+新建聊天 - Poe
+https://poe.com/ChatGPT-4o-Latest
+
+matrix-org repositories
+https://github.com/orgs/matrix-org/repositories?q=language%3ATypeScript
+
+slackhq repositories
+https://github.com/orgs/slackhq/repositories?type=all
+
+Navigation - Circuit
+https://slackhq.github.io/circuit/navigation/
+
+zulip/zulip-mobile: Zulip mobile apps for Android and iOS.
+https://github.com/zulip/zulip-mobile?tab=readme-ov-file
+
+zulip/zulip-flutter: Future Zulip client using Flutter
+https://github.com/zulip/zulip-flutter
+
+update dart sdk for flutter - Stack Overflow
+https://stackoverflow.com/questions/55898181/update-dart-sdk-for-flutter
+
+DigitalOcean - Google 搜索
+https://www.google.com/search?q=DigitalOcean&rlz=1C1GCEA_enJP1090JP1090&oq=DigitalOcean&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPNIBBzE3NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+irc.mozilla.org
+http://irc.mozilla.org/
+
 # 2024-8-17
 
 nvim definition - Poe
