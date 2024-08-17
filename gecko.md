@@ -377,6 +377,7 @@ hg up -C central
 ./mach build
 ./mach ide vscode
 
+./mach build-backend -b CompileDB
 
 ./mach build-backend --backend=CompileDB
 ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json
