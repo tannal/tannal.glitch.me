@@ -2,6 +2,9 @@
 
 # inbox
 
+javascript compiler engineer
+https://news.ycombinator.com/threads?id=olliej
+
 video editing on the web
 https://news.ycombinator.com/user?id=zenkyu
 
