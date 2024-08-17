@@ -1,5 +1,56 @@
 
 
+有许多优秀的开源项目利用了LLVM框架。以下是一些值得关注的项目：
+
+Clang
+描述：C语言家族（C/C++/Objective-C）的编译器前端
+用途：源代码分析、代码重构、静态分析等
+链接：https://clang.llvm.org/
+Swift
+描述：Apple开发的编程语言
+用途：iOS/macOS应用开发
+链接：https://swift.org/
+Rust
+描述：Mozilla开发的系统编程语言
+用途：安全并发、系统编程
+链接：https://www.rust-lang.org/
+Julia
+描述：高性能科学计算语言
+用途：数值分析、科学计算
+链接：https://julialang.org/
+Emscripten
+描述：将C/C++编译为WebAssembly的工具链
+用途：Web开发、性能密集型Web应用
+链接：https://emscripten.org/
+LDC (LLVM D Compiler)
+描述：D语言的LLVM-based编译器
+用途：D语言开发
+链接：https://github.com/ldc-developers/ldc
+Chromium
+描述：Google开源的浏览器项目
+用途：Web浏览、Web开发
+链接：https://www.chromium.org/
+POCL (Portable Computing Language)
+描述：OpenCL的便携式实现
+用途：并行计算、GPU编程
+链接：http://portablecl.org/
+Halide
+描述：用于图像处理和计算摄影的领域特定语言
+用途：高性能图像处理
+链接：https://halide-lang.org/
+HHVM (HipHop Virtual Machine)
+描述：Facebook开发的PHP执行引擎
+用途：高性能PHP执行
+链接：https://hhvm.com/
+TVM (Tensor Virtual Machine)
+描述：用于深度学习的编译器栈
+用途：深度学习模型优化和部署
+链接：https://tvm.apache.org/
+Enzyme
+描述：LLVM-based自动微分库
+用途：科学计算、机器学习
+链接：https://enzyme.mit.edu/
+
 Adobe XD / Figma / InVision 的替代品:
     Penpot: 您提到的基于SVG的开源设计平台
     Akira: 针对Linux的UI/UX设计工具
