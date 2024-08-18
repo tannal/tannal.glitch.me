@@ -1,5 +1,28 @@
 # 2024-8-18 0 | 0 W
 
+All files downloaded and saved in their respective directories
+---------------------------------------------
+→ cuDNN is manually disabled by default, run make with `USE_CUDNN=1` to try to enable
+✓ OpenMP found
+sh: line 1: dpkg: command not found
+✗ NCCL is not found, disabling multi-GPU support
+---> On Linux you can try install NCCL with `sudo apt install libnccl2 libnccl-dev`
+✗ MPI not found
+✗ nvcc not found, skipping GPU/CUDA builds
+---------------------------------------------
+gcc -Ofast -Wno-unused-result -Wno-ignored-pragmas -Wno-unknown-attributes -march=native -fopenmp -DOMP   train_gpt2.c -lm -lgomp -o train_gpt2
+[GPT-2]
+max_seq_len: 1024
+vocab_size: 50257
+padded_vocab_size: 50304
+num_layers: 12
+num_heads: 12
+channels: 768
+num_parameters: 124475904
+train dataset num_batches: 1192
+val dataset num_batches: 128
+num_activations: 73347840
+
 https://boards.greenhouse.io/anthropic/jobs/4034865008
 
 rwkv.cpp: RWKV语言模型的C++实现。
