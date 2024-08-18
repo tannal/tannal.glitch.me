@@ -1,5 +1,61 @@
 # 2024-8-18 0 | 0 W
 
+lscpu is not installed, but available in the following packages, pick one to run it, Ctrl+C to cancel.
+Architecture:             x86_64
+  CPU op-mode(s):         32-bit, 64-bit
+  Address sizes:          46 bits physical, 48 bits virtual
+  Byte Order:             Little Endian
+CPU(s):                   8
+  On-line CPU(s) list:    0-7
+Vendor ID:                GenuineIntel
+  Model name:             Intel(R) Xeon(R) CPU @ 2.80GHz
+    CPU family:           6
+    Model:                85
+    Thread(s) per core:   2
+    Core(s) per socket:   4
+    Socket(s):            1
+    Stepping:             7
+    BogoMIPS:             5600.59
+    Flags:                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss h
+                          t syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq p
+                          ni pclmulqdq vmx ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hyper
+                          visor lahf_lm abm 3dnowprefetch invpcid_single ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow vnmi flex
+                          priority ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm avx512f avx512dq
+                           rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat avx512
+                          _vnni md_clear arch_capabilities
+Virtualization features:  
+  Virtualization:         VT-x
+  Hypervisor vendor:      KVM
+  Virtualization type:    full
+Caches (sum of all):      
+  L1d:                    128 KiB (4 instances)
+  L1i:                    128 KiB (4 instances)
+  L2:                     4 MiB (4 instances)
+  L3:                     33 MiB (1 instance)
+NUMA:                     
+  NUMA node(s):           1
+  NUMA node0 CPU(s):      0-7
+Vulnerabilities:          
+  Gather data sampling:   Not affected
+  Itlb multihit:          Not affected
+  L1tf:                   Not affected
+  Mds:                    Not affected
+  Meltdown:               Not affected
+  Mmio stale data:        Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown
+  Reg file data sampling: Not affected
+  Retbleed:               Mitigation; Enhanced IBRS
+  Spec rstack overflow:   Not affected
+  Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+  Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+  Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW 
+                          loop, KVM SW loop
+  Srbds:                  Not affected
+  Tsx async abort:        Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown
+
+nix-shell
+
+ln -sfn /myapp/deno/mold-2.33.0-x86_64-linux/bin/mold
+
 { pkgs ? import <nixpkgs> {} }:
 
 pkgs.mkShell {
