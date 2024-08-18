@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+act -P ubuntu-22.04=ghcr.io/catthehacker/ubuntu:act-22.04 -j test
+
 https://careers.amd.com/careers-home/jobs
 
 git clone https://github.com/leejet/stable-diffusion.cpp.git
