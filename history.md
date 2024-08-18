@@ -3,6 +3,120 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+deno - Project IDX
+https://idx-app-1723959302408.cluster-joak5ukfbnbyqspg4tewa33d24.cloudworkstations.dev/?folder=/home/user/myapp/deno
+
+Riverpod Todo app - A basic Todo application implemented with hooks_riverpod. | Zapp!
+https://zapp.run/edit/riverpod-todo-app-zv2060sv306?entry=lib/main.dart&file=lib/main.dart
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation
+https://arxiv.org/pdf/1505.04597
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=NL738twGIJt-
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+tannal (tannal)
+https://github.com/tannal/
+
+linebender/vello: An experimental GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+skeskinen/bert.cpp: ggml implementation of BERT
+https://github.com/skeskinen/bert.cpp
+
+1503.02531
+https://arxiv.org/pdf/1503.02531
+
+1503.02531
+https://arxiv.org/pdf/1503.02531
+
+Born-Again Neural Networks
+https://arxiv.org/pdf/1805.04770
+
+NVIDIA GeForce 40系列 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/NVIDIA_GeForce_40%E7%B3%BB%E5%88%97#%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A6%81%E5%94%AE
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Sr. Software Engineer, Infrastructure at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4034865008
+
+Code search results
+https://github.com/search?q=repo%3Aleejet%2Fstable-diffusion.cpp%20main&type=code
+
+(29) Discord | #intro-llms-video | Eureka Labs
+https://discord.com/channels/1020383067459821711/1179974475383574570
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+无限猴子定理 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E7%8C%B4%E5%AD%90%E5%AE%9A%E7%90%86
+
+Compiler jobs + REPL - YouTube
+https://www.youtube.com/watch?v=GS7lsc0Z5BY
+
+lecture2 - Google 搜索
+https://www.google.com/search?q=lecture2&rlz=1C1GCEA_enJP1090JP1090&oq=lecture2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMTY1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=karpathy&sort=byPopularity&type=story
+
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DkCc8FmEb1nY&q=EhAmADwBAAAAAPA8lP_-silNGIbFhrYGIjAkDin42tz-KssKwzpberrFEqEvoreN4_wcQ7CxY8Q21pFJducR7Yh2o9GruEnbdFEyAXJaAUM
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录之西行-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_186njga2r64.html?vfrm=3&vfrmblk=pca_115_number_enlarge&vfrmrst=0
+
+eric schmidt stanford - Google 搜索
+https://www.google.com/search?sca_esv=37e4e18c62986b32&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIWGLeTNk9DQvnsKSRz3jd9eyEQOg:1723966244158&q=eric+schmidt+stanford&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCFjKWPPnUenjQONHCeVVxqvXJvc3eOASBLywUyZ0KXjXNLE8uetfS4_5uah-6sxjn6IjDPhkMJOrqLb8NU_WCVS6YNtubcuprwUbmHLdqoPQiKujxBTGoVhn0QA08vIOqASLmNH04RHg3cAzCcuXonb7JKgvPBh7oV576jT8sdYg4TaAU&sa=X&ved=2ahUKEwiY2dncgv6HAxUpLkQIHSGsOZgQ0pQJegQIEBAB&biw=1536&bih=703&dpr=1.25
+
+"Eric Schmidt, Former Google CEO, Attends a Secret AI Conference at Stanford University" - YouTube
+https://www.youtube.com/watch?v=T_JKIkSf93Y
+
+poe 封号 - Google 搜索
+https://www.google.com/search?q=poe+%E5%B0%81%E5%8F%B7&rlz=1C1GCEA_enJP1090JP1090&oq=poe+%E5%B0%81%E5%8F%B7&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDI3MDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Anthropic
+https://github.com/anthropics
+
+Anthropic (Anthropic)
+https://huggingface.co/Anthropic
+
+e2b-dev/ai-artifacts: Hackable open-source version of Anthropic's Claude Artifacts
+https://github.com/e2b-dev/ai-artifacts
+
+new non transformer framwork - Google 搜索
+https://www.google.com/search?q=new+non+transformer+framwork&rlz=1C1GCEA_enJP1090JP1090&oq=new+non+transformer+framwork&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCggCEAAYgAQYogQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQg3MDAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=transformer%20framwork&sort=byPopularity&type=story
+
+The only personal AI assistant you’ll need | Augment
+https://www.augment.co/
+
+Discover Typeform, where forms = fun
+https://www.typeform.com/explore/?utm_source=typeform.com&utm_medium=typeform&utm_content=typeform-incorrectURL&utm_campaign=viral_expt%0A%20%20%20%20
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Introduction to Pax
 https://docs.pax.dev/#example
 
