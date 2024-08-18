@@ -1,5 +1,19 @@
 # 2024-8-18 0 | 0 W
 
+rwkv.cpp: RWKV语言模型的C++实现。
+gpt4all.cpp: 一个基于GPT模型的本地运行的AI助手。
+falcon.cpp: Falcon语言模型的C++实现。
+bert.cpp: BERT模型的C++实现。
+whisper.objc: Whisper语音识别模型的Objective-C实现。
+ggml-mpt: MPT（Mosaic Pretrained Transformer）模型的ggml实现。
+ggllm.cpp: 另一个大型语言模型的C++实现。
+gguf: 一个用于ggml的统一文件格式。
+chatbot.cpp: 一个基于ggml的聊天机器人实现。
+ggml.js: ggml的JavaScript绑定，允许在浏览器中运行模型。
+tts.cpp: 基于ggml的文本到语音转换实现。
+vits.cpp: VITS（Variational Inference with adversarial learning for end-to-end Text-to-Speech）模型的C++实现。
+replit-code-v1-3b.cpp: Replit Code语言模型的C++实现。
+
 git clone https://github.com/linebender/vello.git
 
 CLIP: 469.44MB
