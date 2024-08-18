@@ -1,5 +1,36 @@
 # 2024-8-18 0 | 0 W
 
+CLIP: 469.44MB
+CLIP (Contrastive Language-Image Pre-training) 是由 OpenAI 开发的一个多模态模型，用于图像和文本的联合理解。
+UNet: 2155.33MB
+UNet 是一种用于图像分割的卷积神经网络架构，广泛应用于医学图像处理。
+VAE: 94.47MB
+VAE (Variational Autoencoder) 是一种生成模型，用于学习数据的压缩表示和生成新数据。
+这些可能是：
+
+模型文件大小
+模型运行时的内存占用
+某个特定实现或版本的大小
+开源实现：
+
+CLIP: OpenAI 提供了官方实现，也有许多社区实现，如 Hugging Face 的版本。
+UNet: 有多种开源实现，包括 TensorFlow 和 PyTorch 版本。
+VAE: 同样有多种开源实现，可以在 GitHub 上找到。
+案例分析：
+
+CLIP: 常用于图像搜索、图像分类、文本生成图像等任务。
+UNet: 广泛应用于医学图像分割，如肿瘤检测、器官分割等。
+VAE: 用于图像生成、异常检测、数据压缩等任务。
+类似模型：
+
+CLIP: DALL-E、ViLBERT、VL-BERT 等多模态模型。
+UNet: SegNet、DeepLab、FCN 等图像分割模型。
+VAE: GAN、Flow-based models、Diffusion models 等生成模型。
+
+transformer 模型（如 BERT、GPT）主要用于自然语言处理，与这些模型有很大不同。
+
+给你一段信息，把他分割成五块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
+
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release'
 
 curl -L -O https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors
