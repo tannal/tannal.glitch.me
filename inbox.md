@@ -4,9 +4,46 @@
 
 pkgs.mkShell {
   buildInputs = with pkgs; [
-    # 其他包...
+    # Rust 工具链
+    rustc
+    cargo
+    rustfmt
+    rust-analyzer
+
+    # 构建工具
+    cmake
+    ninja
+    pkg-config
+
+    # 系统库
+    openssl
+    glib
+    cairo
+    atk
+    pango
+    gdk-pixbuf
+    gtk3
+
+    # C/C++ 编译器
     clang
+    llvmPackages.libclang
+
+    # 其他可能需要的工具
+    python3
+    git
+    protobuf
+
+    # Node.js (如果需要)
+    nodejs
+
+    # 如果需要交叉编译
+    # darwin.apple_sdk.frameworks.Security # 仅在 Linux 上需要，用于交叉编译到 macOS
   ];
+
+  # 设置环境变量
+  shellHook = ''
+    export LIBCLANG_PATH="${pkgs.llvmPackages.libclang.lib}/lib"
+  '';
 }
 
 给你一段日文，把他分割成五块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
