@@ -1,4 +1,103 @@
 
+
+
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018)
+作者：Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
+重要性：介绍了BERT模型，开创了预训练语言模型微调的新范式。
+
+Improving Language Understanding by Generative Pre-Training (2018)
+作者：Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever
+重要性：介绍了GPT模型，展示了大规模语言模型的潜力。
+
+Universal Language Model Fine-tuning for Text Classification (2018)
+作者：Jeremy Howard, Sebastian Ruder
+重要性：提出了ULMFiT方法，为NLP任务的迁移学习奠定了基础。
+
+Language Models are Few-Shot Learners (2020)
+作者：Tom B. Brown 等
+重要性：介绍了GPT-3，展示了大规模语言模型的few-shot学习能力。
+
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (2019)
+作者：Colin Raffel 等
+重要性：提出了T5模型，统一了多种NLP任务的处理方式。
+
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (2020)
+作者：Kevin Clark, Minh-Thang Luong, Quoc V. Le, Christopher D. Manning
+重要性：提出了ELECTRA预训练方法，提高了模型效率。
+
+Parameter-Efficient Transfer Learning for NLP (2019)
+作者：Neil Houlsby 等
+重要性：提出了Adapter方法，实现了参数高效的模型微调。
+
+LoRA: Low-Rank Adaptation of Large Language Models (2021)
+作者：Edward J. Hu 等
+重要性：提出了LoRA方法，进一步提高了大型语言模型微调的效率。
+
+Prefix-Tuning: Optimizing Continuous Prompts for Generation (2021)
+作者：Xiang Lisa Li, Percy Liang
+重要性：提出了Prefix-Tuning方法，为生成任务提供了新的微调范式。
+
+Prompting for Few-shot Learning (2021)
+作者：Timo Schick, Hinrich Schütze
+重要性：探讨了在少样本学习中使用提示的方法。
+
+这些论文涵盖了模型微调的不同方面，从预训练语言模型的发展到各种高效微调技术的提出。它们共同推动了模型微调技术的进步，为自然语言处理领域带来了重大突破。
+
+更新一点的核心论文
+Claude-3.5-Sonnet的机器人图片
+
+Claude-3.5-Sonnet
+Poe
+
+非常感谢您的要求。以下是一些更新、更近期的关于模型微调的核心论文：
+
+InstructGPT: Training language models to follow instructions with human feedback (2022)
+作者：Long Ouyang 等
+重要性：介绍了通过人类反馈来训练语言模型遵循指令的方法，为ChatGPT等模型奠定了基础。
+
+FLAN: Finetuned Language Models Are Zero-Shot Learners (2022)
+作者：Jason Wei 等
+重要性：展示了通过大规模多任务指令微调可以显著提升模型的零样本学习能力。
+
+Scaling Instruction-Finetuned Language Models (2022)
+作者：Hyung Won Chung 等
+重要性：研究了指令微调在不同规模模型上的效果，为大规模语言模型的指令微调提供了指导。
+
+PaLM: Scaling Language Modeling with Pathways (2022)
+作者：Aakanksha Chowdhery 等
+重要性：介绍了PaLM模型，展示了大规模语言模型的能力和潜力。
+
+PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Pre-trained Models (2022)
+作者：Elad Ben-Zaken 等
+重要性：提出了一种参数高效的微调方法，适用于大规模预训练模型。
+
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2022)
+作者：Jason Wei 等
+重要性：提出了思维链提示方法，显著提高了语言模型的推理能力。
+
+ConstitutionalAI: Harmlessness from AI Feedback (2022)
+作者：Yuntao Bai 等
+重要性：提出了一种通过AI反馈来训练安全、有益AI系统的方法。
+
+Self-Instruct: Aligning Language Models with Self-Generated Instructions (2023)
+作者：Yizhong Wang 等
+重要性：提出了一种自生成指令的方法，减少了对人工标注数据的依赖。
+
+LLaMA: Open and Efficient Foundation Language Models (2023)
+作者：Hugo Touvron 等
+重要性：介绍了LLaMA模型，为开放的大规模语言模型研究提供了重要资源。
+
+GPT-4 Technical Report (2023)
+作者：OpenAI
+重要性：虽然不是传统意义上的学术论文，但这份报告详细介绍了GPT-4模型，对理解最新的大规模语言模型至关重要。
+
+Alpaca: A Strong, Replicable Instruction-Following Model (2023)
+作者：Rohan Taori 等
+重要性：展示了如何用较少的资源训练出高质量的指令遵循模型。
+
+
+
 "Distilling the Knowledge in a Neural Network" (2015)
 作者：Geoffrey Hinton, Oriol Vinyals, Jeff Dean
 这篇论文是模型蒸馏的开创性工作，介绍了知识蒸馏的基本概念。
