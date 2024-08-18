@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+sudo apt install libmlir-18-dev
+
 https://github.com/elastic
 
 systemProp.https.proxyHost=192.168.43.1
@@ -488,6 +490,7 @@ small-90 hours, medium-175 hours or large-350 hours
 tasklist /V /FI "d8"
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release'  -DSD_BUILD_SHARED_LIBS=ON
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'  -DSD_BUILD_SHARED_LIBS=ON
 ninja -C build
 
 https://huggingface.co/CompVis
