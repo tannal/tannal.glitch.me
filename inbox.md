@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+https://careers.amd.com/careers-home/jobs
+
 git clone https://github.com/leejet/stable-diffusion.cpp.git
 cd stable-diffusion.cpp
 
