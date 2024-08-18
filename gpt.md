@@ -1,4 +1,36 @@
 
+"Distilling the Knowledge in a Neural Network" (2015)
+作者：Geoffrey Hinton, Oriol Vinyals, Jeff Dean
+这篇论文是模型蒸馏的开创性工作，介绍了知识蒸馏的基本概念。
+
+"Born-Again Neural Networks" (2018)
+作者：Tommaso Furlanello, Zachary C. Lipton, Michael Tschannen, Laurent Itti, Anima Anandkumar
+探讨了如何通过迭代蒸馏来改进模型性能。
+
+"TinyBERT: Distilling BERT for Natural Language Understanding" (2020)
+作者：Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu
+展示了如何将BERT等大型语言模型压缩成更小的版本。
+
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter" (2019)
+作者：Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf
+介绍了DistilBERT，这是一个广泛使用的BERT压缩版本。
+
+"Knowledge Distillation: A Survey" (2021)
+作者：Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao
+这是一篇全面的综述论文，涵盖了知识蒸馏的各个方面。
+
+"Data-Free Knowledge Distillation for Deep Neural Networks" (2017)
+作者：Gaurav Kumar Nayak, Konda Reddy Mopuri, Vaisakh Shaj, R. Venkatesh Babu, Anirban Chakraborty
+探讨了在没有原始训练数据的情况下进行知识蒸馏的方法。
+
+"On the Efficacy of Knowledge Distillation" (2019)
+作者：Jang Hyun Cho, Bharath Hariharan
+对知识蒸馏的有效性进行了深入分析。
+
+"Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation" (2019)
+作者：Linfeng Zhang, Jiebo Song, Anni Gao, Jingwei Chen, Chenglong Bao, Kaisheng Ma
+提出了自蒸馏的概念，即模型从自身的不同版本学习。
+
 
 [INFO ] stable-diffusion.cpp:171  - loading model from 'v1-5-pruned-emaonly.safetensors'
 [INFO ] model.cpp:737  - load v1-5-pruned-emaonly.safetensors using safetensors format

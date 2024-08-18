@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+
+
 rwkv.cpp: RWKV语言模型的C++实现。
 gpt4all.cpp: 一个基于GPT模型的本地运行的AI助手。
 falcon.cpp: Falcon语言模型的C++实现。
@@ -45,7 +47,7 @@ VAE: GAN、Flow-based models、Diffusion models 等生成模型。
 
 transformer 模型（如 BERT、GPT）主要用于自然语言处理，与这些模型有很大不同。
 
-给你一段信息，把他分割成五块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
+给你一个片段，把他分割成五块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release'
 
