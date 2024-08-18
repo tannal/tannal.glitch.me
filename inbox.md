@@ -1,6 +1,6 @@
 # 2024-8-18 0 | 0 W
 
-
+https://boards.greenhouse.io/anthropic/jobs/4034865008
 
 rwkv.cpp: RWKV语言模型的C++实现。
 gpt4all.cpp: 一个基于GPT模型的本地运行的AI助手。
