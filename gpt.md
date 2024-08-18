@@ -1,5 +1,39 @@
 
 
+[INFO ] stable-diffusion.cpp:171  - loading model from 'v1-5-pruned-emaonly.safetensors'
+[INFO ] model.cpp:737  - load v1-5-pruned-emaonly.safetensors using safetensors format
+[INFO ] stable-diffusion.cpp:194  - Stable Diffusion 1.x 
+[INFO ] stable-diffusion.cpp:200  - Stable Diffusion weight type: f32
+[INFO ] stable-diffusion.cpp:407  - total params memory size = 2719.24MB (VRAM 0.00MB, RAM 2719.24MB): clip 469.44MB(RAM), unet 2155.33MB(RAM), vae 94.47MB(RAM), controlnet 0.00MB(VRAM), pmid 0.00MB(RAM)
+[INFO ] stable-diffusion.cpp:426  - loading model from 'v1-5-pruned-emaonly.safetensors' completed, taking 31.85s
+[INFO ] stable-diffusion.cpp:446  - running in eps-prediction mode
+[INFO ] stable-diffusion.cpp:564  - Attempting to apply 0 LoRAs
+[INFO ] stable-diffusion.cpp:1023 - apply_loras completed, taking 0.00s
+[INFO ] stable-diffusion.cpp:1147 - get_learned_condition completed, taking 4995 ms
+[INFO ] stable-diffusion.cpp:1168 - sampling using Euler A method
+[INFO ] stable-diffusion.cpp:1172 - generating image: 1/1 - seed 42
+
+总参数内存大小为 2719.24MB，这是模型权重占用的内存。
+内存分布：
+CLIP: 469.44MB
+UNet: 2155.33MB
+VAE: 94.47MB
+假设模型使用32位浮点数（f32），每个参数占用4字节。
+计算参数量：
+
+总字节数 = 2719.24 * 1024 * 1024 = 2851429376 字节
+参数数量 = 总字节数 / 4 = 2851429376 / 4 = 712857344
+因此，我们可以推测这个Stable Diffusion模型的参数量大约为7.13亿（712,857,344）参数。
+
+这个数字与已知的Stable Diffusion v1.5模型的参数量非常接近。Stable Diffusion v1.5通常被认为有约7-8亿参数，我们的计算结果落在这个范围内。
+
+值得注意的是，这个参数量主要来自于三个组件：
+
+CLIP文本编码器
+UNet（占用最大内存，可能有5-6亿参数）
+VAE（变分自编码器）
+这个参数量对于一个现代的图像生成模型来说是相当标准的，足以产生高质量的图像，同时又不会过于庞大，可以在许多消费级GPU上运行。
+
 有许多优秀的开源项目利用了LLVM框架。以下是一些值得关注的项目：
 
 Clang

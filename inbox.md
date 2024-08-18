@@ -1,5 +1,9 @@
 # 2024-8-18 0 | 0 W
 
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release'
+
+curl -L -O https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors
+
 lscpu is not installed, but available in the following packages, pick one to run it, Ctrl+C to cancel.
 Architecture:             x86_64
   CPU op-mode(s):         32-bit, 64-bit

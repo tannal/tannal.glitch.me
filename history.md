@@ -3,6 +3,117 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Introduction to Pax
+https://docs.pax.dev/#example
+
+All React jobs from Hacker News 'Who is hiring? (August 2024)' post | HNHIRING
+https://hnhiring.com/technologies/react
+
+Staff Full Stack Software Engineer - Poe Core Product (Remote) @ Quora
+https://jobs.ashbyhq.com/quora/2044e81f-570d-4501-8bba-05dc464dd224?utm_source=JZwqWOe7GY
+
+採用情報 | Fastly | Fastly
+https://www.fastly.com/jp/about/careers/current-openings/
+
+nvcc can not find cl.exe in - Google 搜索
+https://www.google.com/search?q=nvcc+can+not+find+cl.exe+in&rlz=1C1GCEA_enJP1090JP1090&oq=nvcc+can+not+find+cl.exe+in+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCDUzMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+Career Opportunities | AMD Careers
+https://careers.amd.com/careers-home/jobs
+
+PMTS - C++ Software Engineer for Open Source AI Stack in Hyderabad, India | Advanced Micro Devices, Inc
+https://careers.amd.com/careers-home/jobs/51091?lang=en-us
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+AMD Ryzen 7 7700X - Google 搜索
+https://www.google.com/search?q=AMD+Ryzen+7+7700X&rlz=1C1GCEA_enJP1090JP1090&oq=AMD+Ryzen+7+7700X&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+AMD ROCm™ Software
+https://github.com/ROCm
+
+OfekShilon/optview2: User-oriented fork of LLVM's opt-viewer
+https://github.com/OfekShilon/optview2?tab=readme-ov-file
+
+CppCon2022/Presentations/Optimization-Remarks.pdf at main · CppCon/CppCon2022
+https://github.com/CppCon/CppCon2022/blob/main/Presentations/Optimization-Remarks.pdf
+
+GitHub Packages: Your packages, at home with their code
+https://github.com/features/packages
+
+Releases · nektos/act
+https://github.com/nektos/act/releases
+
+rui314 (Rui Ueyama)
+https://github.com/rui314
+
+ktateish/9cc: C compiler based on the Rui Ueyama's Compiler Book
+https://github.com/ktateish/9cc?tab=readme-ov-file
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=ja&text=-x%E3%82%920-x%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%93%E3%81%A8%E3%81%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=speech%20to%20text&sort=byPopularity&type=story
+
+Issues · collabora/WhisperSpeech
+https://github.com/collabora/WhisperSpeech/issues
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=a9GRTkc16ysd
+
+tannal (tannal)
+https://github.com/tannal/
+
+(816) #xilem > Getting Started with Xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Getting.20Started.20with.20Xilem
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+Android - deno - Project IDX
+https://idx-app-1723959302408.cluster-joak5ukfbnbyqspg4tewa33d24.cloudworkstations.dev/?folder=/home/user/myapp/deno
+
+Web - etc - Project IDX
+https://idx-app-1723959302408.cluster-joak5ukfbnbyqspg4tewa33d24.cloudworkstations.dev/?folder=/nix/store/jp9zgjmkkb633yxscczqxxp51lsvh5mi-glibc-2.38-77/etc
+
+Riverpod Todo app - A basic Todo application implemented with hooks_riverpod. | Zapp!
+https://zapp.run/edit/riverpod-todo-app-zv2060sv306?entry=lib/main.dart&file=lib/main.dart
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Nix & NixOS | Declarative builds and deployments
+https://nixos.org/
+
+Using Clang instead of GCC - NixOS Wiki
+https://nixos.wiki/wiki/Using_Clang_instead_of_GCC
+
+Releases · rui314/mold
+https://github.com/rui314/mold/releases
+
+Using mold as linker prevents libraries from being found - Help - NixOS Discourse
+https://discourse.nixos.org/t/using-mold-as-linker-prevents-libraries-from-being-found/18530/3
+
+Can provide some tutorials or scripts for using Flight Recorder？ · Issue #2999 · pytorch/tutorials
+https://github.com/pytorch/tutorials
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 pmatos/nora: An experimental Racket implementation using LLVM/MLIR
 https://github.com/pmatos/nora
 
