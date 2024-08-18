@@ -1,5 +1,10 @@
 # 2024-8-18 0 | 0 W
 
+git clone https://github.com/leejet/stable-diffusion.cpp.git
+cd stable-diffusion.cpp
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DSD_CUBLAS=ON -DSD_BUILD_SHARED_LIBS=ON
+
 sudo apt install libmlir-18-dev
 
 https://github.com/elastic

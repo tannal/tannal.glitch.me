@@ -1,5 +1,71 @@
 # 2024-8-18
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+pmatos/nora: An experimental Racket implementation using LLVM/MLIR
+https://github.com/pmatos/nora
+
+orogene
+https://github.com/orogene
+
+Sea of Nodes
+https://darksi.de/d.sea-of-nodes/
+
+add readme and initial code · nodejs/node@6189072
+https://github.com/nodejs/node/commit/61890720
+
+Use ObjectWrap base class for File, Socket, Server. · nodejs/node@064c8f0
+https://github.com/nodejs/node/commit/064c8f02
+
+Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc
+
+(113) #general > WebXR spec updates and WPT testing - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebXR.20spec.20updates.20and.20WPT.20testing
+
+(824) #chatter > ‘Subclass and have fun!’ — Android reference documentation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/.E2.80.98Subclass.20and.20have.20fun!.E2.80.99.20.E2.80.94.20Android.20reference.20documentation
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+MLIR
+https://mlir.llvm.org/
+
+Releases · llvm/llvm-project
+https://github.com/llvm/llvm-project/releases
+
+apt install mlir - Google 搜索
+https://www.google.com/search?q=apt+install+mlir+&sca_esv=80a930aee8f476b4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKpDDui-GFYJ2gPE4b1BlBtxXB9Yg%3A1723942826234&ei=qkfBZtqFDtec0PEP-pOygAI&ved=0ahUKEwjagpW-q_2HAxVXDjQIHfqJDCAQ4dUDCA8&uact=5&oq=apt+install+mlir+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWFwdCBpbnN0YWxsIG1saXIgSJUCUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+deep.ai
+http://deep.ai/
+
+onnx/onnx-mlir: Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure
+https://github.com/onnx/onnx-mlir
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pytroch%20docuementry&sort=byPopularity&type=story
+
+leejet/stable-diffusion.cpp: Stable Diffusion in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+CUDA Toolkit 12.6 Downloads | NVIDIA Developer
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+739616 - Check or remove rv from GetUrlForUri() call, in nsMsgAttachmentHandler.cpp
+https://bugzilla.mozilla.org/show_bug.cgi?id=739616
+
+CUDA Toolkit 11.6 Downloads | NVIDIA Developer
+https://developer.nvidia.com/cuda-11-6-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
