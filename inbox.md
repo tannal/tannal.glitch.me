@@ -1,5 +1,10 @@
 # 2024-8-18 0 | 0 W
 
+6个月
+18个月
+
+https://huggingface.co/Anthropic
+
 All files downloaded and saved in their respective directories
 ---------------------------------------------
 → cuDNN is manually disabled by default, run make with `USE_CUDNN=1` to try to enable

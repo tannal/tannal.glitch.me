@@ -1538,7 +1538,7 @@ var allowScrolling = true
 
 setInterval(() => {
   playVideoAtRandomTime()
-}, 1000 * 12)
+}, 1000 * 30)
 
 window.addEventListener('keydown', function(e) {
   // If user scrolls, disable automatic scrolling temporarily
