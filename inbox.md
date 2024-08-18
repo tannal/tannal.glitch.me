@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+git clone https://github.com/linebender/vello.git
+
 CLIP: 469.44MB
 CLIP (Contrastive Language-Image Pre-training) 是由 OpenAI 开发的一个多模态模型，用于图像和文本的联合理解。
 UNet: 2155.33MB
