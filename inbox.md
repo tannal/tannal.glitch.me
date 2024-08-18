@@ -1,5 +1,9 @@
 # 2024-8-18 0 | 0 W
 
+给你一段日文，把他分割成四块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+
 act -P ubuntu-22.04=ghcr.io/catthehacker/ubuntu:act-22.04 -j test
 
 https://careers.amd.com/careers-home/jobs
