@@ -1,5 +1,35 @@
 
 
+事件处理和布局计算的交互:
+理想情况下,GUI框架的处理流程应该是:
+
+处理事件
+更新widget状态
+计算布局
+绘制
+每个步骤之间应该有明确的界限,只能单向传递。
+
+热状态(hot state)的问题:
+热状态打破了上述理想抽象。因为布局变化(如按钮变大)可能导致热状态改变。
+
+极端例子:
+想象一个按钮,悬停时会变得很小。这会导致热状态和布局之间的循环依赖:
+
+鼠标悬停 -> 热状态改变 -> 按钮变小
+按钮变小 -> 鼠标不再悬停 -> 热状态再次改变
+对Druid的影响:
+这意味着Druid的代码需要考虑布局对之前阶段的影响,无法完全分离各个处理阶段。
+
+理想API设计:
+Olivier提出了一个理想的API设计:
+
+event(): 针对特定widget及其父widget的事件
+command(): 针对特定widget的动态类型事件
+lifecycle(): 针对单个或多个widget的生命周期事件
+get_children_mut(): 获取子widget的可变访问
+实现挑战:
+由于Rust的所有权系统,父widget无法简单地遍历子widget。这导致了一些架构上的妥协。
+
 Clark Fagot在尝试将xilem和vello集成到他的2D MMO游戏项目中。他提到:
 他使用了自己fork的带render hooks的xilem版本,允许在标准wgpu渲染管理器中将xilem作为子pass渲染。
 他复制了vello的blit renderer并添加了blend mode,绕过了vello#549的问题。
