@@ -1,5 +1,23 @@
 # 2024-8-19 0 | 0 W
 
+GPT-2:小型语言模型,可用于文本生成等任务。
+BERT:用于自然语言处理的双向Transformer模型。
+ResNet:用于图像分类的深度残差网络。
+YOLOv3:实时目标检测模型。
+U-Net:用于图像分割的卷积神经网络。
+Wav2Vec 2.0:用于语音识别的自监督学习模型。
+LSTM:长短期记忆网络,用于序列建模。
+Word2Vec:词嵌入模型。
+DeepSpeech:端到端语音识别模型。
+SqueezeNet:轻量级卷积神经网络,用于图像分类。
+MobileNet:移动设备友好的图像分类模型。
+Transformer:用于序列到序列学习的注意力模型。
+FastText:用于文本分类的浅层神经网络。
+DeepLabv3:语义图像分割模型。
+MaskRCNN:实例分割模型。
+
+git submodule add https://github.com/ggerganov/ggml external/ggml
+
 https://colah.github.io/
 
 
