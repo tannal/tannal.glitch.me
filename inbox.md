@@ -1,5 +1,7 @@
 # 2024-8-19 0 | 0 W
 
+https://github.com/gnab/remark
+
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DCMAKE_EXE_LINKER_FLAGS="-fopenmp"
 
 $env:Path += ';C:\Users\tannal\tannalwork\projects\vcpkg\' 
