@@ -1,6 +1,31 @@
 
 
+Text-to-Video模型:
 
+ModelScope Text-to-Video: 阿里巴巴开源的文本到视频生成模型。
+https://github.com/modelscope/modelscope/tree/master/modelscope/pipelines/multi_modal
+CogVideo: 清华大学开发的大规模文本到视频生成模型。
+https://github.com/THUDM/CogVideo
+Text2Video-Zero: 零样本文本到视频生成模型。
+https://github.com/Picsart-AI-Research/Text2Video-Zero
+Text-to-Action模型:
+
+TEACH: 基于语言的任务规划和执行模型。
+https://github.com/microsoft/TEACh
+SayCan: Google的语言驱动机器人行为生成模型。
+https://say-can.github.io/ (代码尚未完全开源,但有详细的论文和演示)
+全自动AI Agent:
+
+Auto-GPT: 基于GPT-4的自主AI代理。
+https://github.com/Significant-Gravitas/Auto-GPT
+BabyAGI: 一个简单但强大的AI任务管理系统。
+https://github.com/yoheinakajima/babyagi
+AgentGPT: 在浏览器中运行的自主AI代理。
+https://github.com/reworkd/AgentGPT
+OpenAGI: 开源的AGI框架。
+https://github.com/agiresearch/OpenAGI
+LangChain: 用于开发由语言模型驱动的应用程序的框架。
+https://github.com/hwchase17/langchain
 
     BERT (Bidirectional Encoder Representations from Transformers)
         开源实现: Hugging Face Transformers
