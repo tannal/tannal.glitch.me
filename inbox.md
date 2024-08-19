@@ -1,3 +1,14 @@
+# 2024-8-19 0 | 0 W
+
+https://yann.lecun.com/exdb/mnist/
+
+第三次ポエニ戦争（英: Third Punic War）は、古代の地中海地域における有力な国家であったカルタゴと共和政ローマが戦った三度にわたるポエニ戦争の中で最後となった戦争である。戦争はローマの勝利に終わり、カルタゴとその国家は完全に滅亡した。
+
+给你一个片段，把他分割成七块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
+
+https://github.com/discourse/discourse
+https://github.com/flarum/flarum
+
 # 2024-8-18 0 | 0 W
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
