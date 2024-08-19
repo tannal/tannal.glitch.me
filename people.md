@@ -1,5 +1,9 @@
 # inbox
 
+
+co-founder of Anthropic Claude
+https://colah.github.io/
+
 security guys
 https://x.com/gymR4T
 https://x.com/maxpl0it

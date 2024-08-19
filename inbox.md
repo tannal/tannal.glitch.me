@@ -1,6 +1,10 @@
 # 2024-8-19 0 | 0 W
 
+https://colah.github.io/
 
+
+mnist colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=PtKvmZx-WmUu
 
 winget install -e --id zig.zig
 
