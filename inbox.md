@@ -1,5 +1,8 @@
 # 2024-8-18 0 | 0 W
 
+gradient descent
+matrix multiple
+
 6个月
 18个月
 
