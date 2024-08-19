@@ -1,5 +1,40 @@
 # 2024-8-19 0 | 0 W
 
+mnist_model_train 函数:
+这是模型训练的核心函数。主要步骤包括:
+创建计算图(forward和backward)
+设置优化器(ADAM)
+进行多个epoch的训练循环
+每个epoch中,对全部训练数据进行批处理
+计算损失和准确率
+输出训练进度
+关键原理:
+
+使用ggml库构建和优化计算图
+采用ADAM优化器进行梯度下降
+批量处理以提高效率
+mnist_model_save 函数:
+用于将训练好的模型保存到文件。主要步骤:
+创建gguf上下文
+添加模型架构信息
+根据模型类型(FC或CNN)保存相应的权重和偏置
+将模型写入文件
+mnist_loss 和 mnist_accuracy 函数:
+这两个辅助函数用于计算模型的损失和准确率。
+wasm_eval 和 wasm_random_digit 函数:
+这些是为WebAssembly接口设计的函数,允许在Web环境中使用模型进行推理和生成随机数字。
+核心过程:
+
+模型初始化
+数据准备
+前向传播
+反向传播
+参数更新
+模型评估
+模型保存
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DGGML_OPENMP=OFF
+
 GPT-2:小型语言模型,可用于文本生成等任务。
 BERT:用于自然语言处理的双向Transformer模型。
 ResNet:用于图像分类的深度残差网络。
