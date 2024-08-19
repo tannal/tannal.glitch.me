@@ -3,6 +3,147 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
+https://yann.lecun.com/exdb/mnist/
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+Kentaro Hara のページ : Chromium
+https://haraken.info/index.php?tag=reajklff
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_2dmacufkq74.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E7%AC%AC3%E9%9B%86&vid=d7f1934789f380cdcb2d31386cb18e59&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=3&vfrm=wna_tvg_1st&vfrmblk=wna_tvg_recom&vfrmrst=image_3&pb2=bkt=&c1=&e=&fatherid=&position=5&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_A,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+Riverpod Todo app - A basic Todo application implemented with hooks_riverpod. | Zapp!
+https://zapp.run/edit/riverpod-todo-app-zde606ffde70?entry=lib/main.dart&file=lib/main.dart
+
+Job Application for Sr. Software Engineer, Infrastructure at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4034865008
+
+eBPF - Google 搜索
+https://www.google.com/search?q=eBPF&rlz=1C1GCEA_enJP1090JP1090&oq=eBPF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDzSAQcxMDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+"Eric Schmidt, Former Google CEO, Attends a Secret AI Conference at Stanford University" - YouTube
+https://www.youtube.com/watch?v=T_JKIkSf93Y&t=4s
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89&op=translate
+
+jeff dean standford - YouTube
+https://www.youtube.com/results?search_query=jeff+dean+standford
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+Codespaces
+https://github.com/codespaces
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues
+
+艾薇兒 超複雜歌词 - Google 搜索
+https://www.google.com/search?q=%E8%89%BE%E8%96%87%E5%85%92+%E8%B6%85%E8%A4%87%E9%9B%9C%E6%AD%8C%E8%AF%8D&rlz=1C1GCEA_enJP1090JP1090&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgwIAhAjGCcYgAQYigUyCQgDEAAYDBiABDIHCAQQABiABDIJCAUQLhgMGIAEMgkIBhAAGAwYgAQyBwgHEAAYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEIMzY2NmowajeoAgiwAgE&sourceid=chrome&ie=UTF-8&si=ACC90nxRWvuwqTR4TiacZ7sCfkHhcGgWdDOv2v2HxpHAAuIhwd0hqVQcoOD2_2OWmYVP1pjyb3pTwuze3wrVfjdz_f9AJ8TvG5CLxblos83DRuAn5HVJww-idvjOoAPouc-O1LpIXqfCJTMOp-Xj6c6zrbW8DlDEcjEPdn4AOQdLZwWUq3CnJLI%3D&ictx=1&ved=2ahUKEwiQutqlj4CIAxWMJkQIHUccIEYQjukCegQIKBAC
+
+艾薇兒 從你離開後歌词 - Google 搜索
+https://www.google.com/search?q=%E8%89%BE%E8%96%87%E5%85%92+%E5%BE%9E%E4%BD%A0%E9%9B%A2%E9%96%8B%E5%BE%8C%E6%AD%8C%E8%AF%8D&rlz=1C1GCEA_enJP1090JP1090&gs_lcrp=EgZjaHJvbWUqDAgAEAAYChjjAhiABDIMCAAQABgKGOMCGIAEMgkIARAuGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyBwgHEAAYgAQyCQgIEAAYChiABDIJCAkQLhgKGIAE0gEINTk5NmoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8&si=ACC90nzcg09uT9dLCxMVYtMO0-0pjgQ_JR12fuxEIIyv63Ip94qTV1AYapsQRC_0ZtNEAZqIjsV3A7wQHlMJuzifnX917G6wgeDV7t5bDXgtF4i83DUwAxVDF2AgaX3i6GRdFqm88dlCfJn6m7-sQjfSa34qX-l-VbszDhM2Gh4wh8mTqMIa1QQ%3D&ictx=1&ved=2ahUKEwjlh57_kICIAxW2FzQIHcy2LeYQjukCegQILRAC
+
+backstreet boys as long as you love me歌词 - Google 搜索
+https://www.google.com/search?q=backstreet+boys+as+long+as+you+love+me%E6%AD%8C%E8%AF%8D&rlz=1C1GCEA_enJP1090JP1090&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyCggBEC4Y1AIYgAQyCggCEC4Y1AIYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg2MDU3ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8&si=ACC90nzcg09uT9dLCxMVYtMO0-0pjgQ_JR12fuxEIIyv63Ip94qTV1AYapsQRC_0ZtNEAZpesVuSqjpdOP17sDi7W9alFtlOv9eUClAx3C5PaJ1_oZ2f66BPDOisCSn5n-xI43fUzPx3Swfc80NxEobKhATaRb33lgaJyebC3PxGtxsIldLpv6zux84mB255KhWUnkXqFhJN&ictx=1&ved=2ahUKEwiI2f-rkYCIAxXoLEQIHSxrKlwQjukCegQIJxAC
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%83%AD%E3%83%BC%E3%83%9E%0A%E7%A7%8B%E7%94%B0%0A%E7%A7%8B%E7%94%B0%0A%E6%8B%93%E5%93%89&op=translate
+
+(786) #checkins > Philipp Mildenberger - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Philipp.20Mildenberger
+
+(786) #xilem > Strong typed composable/modifier styling with ext. traits - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Strong.20typed.20composable.2Fmodifier.20styling.20with.20ext.2E.20traits/near/438883545
+
+hollinwilkins/scribe2d: Scribe2D Graphics
+https://github.com/hollinwilkins/scribe2d
+
+Long Update 07-10-2024.md
+https://gist.github.com/hollinwilkins/2c0301258507e0f71063832a4df2a096
+
+Label with animated variable font parameters by DJMcNab · Pull Request #507 · linebender/xilem
+https://github.com/linebender/xilem/pull/507
+
+Druid design thoughts
+https://gist.github.com/PoignardAzur/c60cd72d790c083b7b55269bc91912db
+
+Billing
+https://github.com/settings/billing/summary
+
+Codespaces
+https://github.com/codespaces
+
+元 paiza アルバイトが解説する S,A,B,C,D 全 25 問！ #Python - Qiita
+https://qiita.com/ryusuke920/items/6fb099aa643bec3c32ca
+
+Discourse
+https://github.com/discourse/
+
+MatsouoLab youtube - Google 搜索
+https://www.google.com/search?q=MatsouoLab+youtube&sca_esv=af551f653f51ea9a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIqmcI_uuxt-hxC6esdQcaXIwH4Ag%3A1724045999933&ei=r9rCZuvfONTFkPIP876u0QE&ved=0ahUKEwir85vrq4CIAxXUIkQIHXOfKxoQ4dUDCBA&uact=5&oq=MatsouoLab+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiEk1hdHNvdW9MYWIgeW91dHViZTIHECEYoAEYCkioCVB2WLAIcAF4AZABAJgBkgOgAa0PqgEHMi0xLjQuMbgBA8gBAPgBAZgCB6ACuw_CAgoQABiwAxjWBBhHwgIJEAAYgAQYExgNwgIIEAAYExgNGB7CAggQABiABBiiBMICBRAhGKABmAMA4gMFEgExIECIBgGQBgKSBwkxLjAuMS40LjGgB_sN&sclient=gws-wiz-serp
+
+Wikipedia
+https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8
+
+ローマ - Google 搜索
+https://www.google.com/search?q=%E3%83%AD%E3%83%BC%E3%83%9E&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%83%AD%E3%83%BC%E3%83%9E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
+https://yann.lecun.com/exdb/mnist/
+
+les Le Cun
+http://lecun.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=zig&sort=byPopularity&type=story
+
+Getting Started ⚡ Zig Programming Language
+https://ziglang.org/learn/getting-started/#windows
+
+(126) #Outreachy > Contributing to Servo via LLMs - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Contributing.20to.20Servo.20via.20LLMs
+
+Code search results
+https://github.com/search?q=ggml_opt_params&type=code
+
+ggml/examples at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=PtKvmZx-WmUu
+
+jupyter notebook 全部 快捷键 - Google 搜索
+https://www.google.com/search?q=jupyter+notebook+%E5%85%A8%E9%83%A8+%E5%BF%AB%E6%8D%B7%E9%94%AE&sca_esv=95803ec0b5ee4893&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILgsoSNzfZYk6wfUai1OFZCv2c9rQ%3A1724063716200&ei=5B_DZtXvC_iU0PEP9ofwqA8&ved=0ahUKEwjV8f7q7YCIAxV4CjQIHfYDHPUQ4dUDCBA&uact=5&oq=jupyter+notebook+%E5%85%A8%E9%83%A8+%E5%BF%AB%E6%8D%B7%E9%94%AE&gs_lp=Egxnd3Mtd2l6LXNlcnAiIWp1cHl0ZXIgbm90ZWJvb2sg5YWo6YOoIOW_q-aNt-mUrkizB1CXAVipBnABeACQAQGYAZEDoAGNCqoBBzItMi4xLjG4AQPIAQD4AQGYAgKgAtUCwgILEAAYgAQYsAMYogTCAgUQIRigAZgDAIgGAZAGBZIHBTEuMy0xoAf3Bg&sclient=gws-wiz-serp
+
+release.yml - ggml [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/ggml
+
+Releases · tannal/ggml
+https://github.com/tannal/ggml/releases
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mnist%20colab&sort=byPopularity&type=story
+
+Home - colah's blog
+https://colah.github.io/
+
+actions/.github/workflows/node.yaml at main · tannal/actions
+https://github.com/tannal/actions/blob/main/.github/workflows/node.yaml
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 deno - Project IDX
 https://idx-app-1723959302408.cluster-joak5ukfbnbyqspg4tewa33d24.cloudworkstations.dev/?folder=/home/user/myapp/deno
 
