@@ -1,5 +1,9 @@
 # 2024-8-19 0 | 0 W
 
+$env:Path += ';C:\Users\tannal\tannalwork\projects\vcpkg\' 
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DCMAKE_TOOLCHAIN_FILE=C:/Users/tannal/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
+
 training using ggml
 author:Ronsor
 involves:JohannesGaessler
