@@ -1,4 +1,24 @@
 
+
+Clark Fagot在尝试将xilem和vello集成到他的2D MMO游戏项目中。他提到:
+他使用了自己fork的带render hooks的xilem版本,允许在标准wgpu渲染管理器中将xilem作为子pass渲染。
+他复制了vello的blit renderer并添加了blend mode,绕过了vello#549的问题。
+他认为这种集成方式比将3D内容渲染到纹理然后由xilem渲染到屏幕更高效。
+他建议vello应该接受由引用组成的render context,以便主应用程序可以创建和传递这个context。
+Clark还分享了使用velato(一个lottie动画库)的经验:
+他测试了lottie JSON文件和二进制序列化版本的加载性能。
+尝试将f64改为f32来减小文件大小。
+比较了f64和f32版本的运行时性能。
+建议vello和kurbo考虑使用32位浮点数。
+主要的技术要点:
+通过暴露render context,允许将xilem/vello集成到现有的渲染管道中。
+通过二进制序列化优化lottie文件的加载性能。
+32位vs 64位浮点数的性能和文件大小权衡。
+核心原理:
+渲染管道集成:通过hooks暴露底层渲染API,实现灵活集成。
+序列化优化:用二进制格式替代JSON来提高加载速度。
+数据精度:在性能、精度和文件大小间权衡。
+
 准备阶段（6个月）：
 
 a) 数据收集和处理：

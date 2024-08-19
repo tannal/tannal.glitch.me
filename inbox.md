@@ -1,5 +1,7 @@
 # 2024-8-18 0 | 0 W
 
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
 gradient descent
 matrix multiple
 
@@ -225,7 +227,7 @@ https://www.workatastartup.com/companies/keeper-2
 
 https://hnhiring.com/technologies/react
 
-docker-compose up -d
+i
 
 sudo /home/ubuntu/.cargo/bin/innernet-server add-cidr tannal
 
