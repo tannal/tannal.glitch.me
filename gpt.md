@@ -1,5 +1,69 @@
 
 
+
+
+    BERT (Bidirectional Encoder Representations from Transformers)
+        开源实现: Hugging Face Transformers
+
+    ResNet (Residual Networks)
+        开源实现: TensorFlow, PyTorch
+
+    VGG (Visual Geometry Group)
+        开源实现: Keras, PyTorch
+
+    Inception
+        开源实现: TensorFlow
+
+    EfficientNet
+        开源实现: TensorFlow, PyTorch
+
+    MobileNet
+        开源实现: TensorFlow, PyTorch
+
+    U-Net (用于图像分割)
+        开源实现: TensorFlow, PyTorch
+
+    Mask R-CNN (目标检测和实例分割)
+        开源实现: Detectron2 (Facebook AI Research)
+
+    LSTM (Long Short-Term Memory)
+        开源实现: TensorFlow, PyTorch, Keras
+
+    Transformer
+        开源实现: Hugging Face Transformers, TensorFlow
+
+    GAN (Generative Adversarial Networks)
+        开源实现: TensorFlow, PyTorch
+
+    GPT-3 (虽然完整模型不开源,但有类似的开源实现)
+        开源实现: GPT-Neo, GPT-J (EleutherAI)
+
+    DALL-E (图像生成)
+        开源类似实现: DALL-E mini
+
+    Stable Diffusion (图像生成)
+        开源实现: Stability AI
+
+    FastText (用于文本分类和词嵌入)
+        开源实现: Facebook Research
+
+    Word2Vec
+        开源实现: Gensim
+
+    XGBoost (梯度提升)
+        开源实现: XGBoost library
+
+    LightGBM (梯度提升)
+        开源实现: Microsoft
+
+    CatBoost (梯度提升)
+        开源实现: Yandex
+
+    DETR (DEtection TRansformer,用于目标检测)
+        开源实现: Facebook AI Research
+
+
+
 事件处理和布局计算的交互:
 理想情况下,GUI框架的处理流程应该是:
 
