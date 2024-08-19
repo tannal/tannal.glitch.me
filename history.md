@@ -3,6 +3,168 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+The MNIST Database of Handwritten Digit Images for Machine Learning Research [Best of the Web] | 10.1109/msp.2012.2211477_Scihub
+https://bothonce.com/10.1109/msp.2012.2211477
+
+403 Forbidden
+https://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+Billing
+https://github.com/settings/billing/summary
+
+Codespaces
+https://github.com/codespaces
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+zalandoresearch/fashion-mnist: A MNIST-like fashion product database. Benchmark
+https://github.com/zalandoresearch/fashion-mnist
+
+golbin/TensorFlow-MNIST: MNIST with TensorFlow
+https://github.com/golbin/TensorFlow-MNIST/tree/master
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+Issue search results
+https://github.com/search?q=author%3ARonsor%20&type=issues
+
+Examples: add ggml training for MNIST by JohannesGaessler · Pull Request #908 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/908/files
+
+JohannesGaessler/ggml at mnist-train
+https://github.com/JohannesGaessler/ggml/tree/mnist-train
+
+Download and install — Emscripten 3.1.65-git (dev) documentation
+https://emscripten.org/docs/getting_started/downloads.html
+
+Purdue Engineering Distinguished Lecture Series: Jeff Dean, Lecture - YouTube
+https://www.youtube.com/watch?v=L9CM1u-x3Gk&t=18s
+
+61DAC Keynote: Jim Keller, CEO, Tenstorrent - YouTube
+https://www.youtube.com/watch?v=cy-9Jl666Aw
+
+Submissions from youtube.com | Hacker News
+https://news.ycombinator.com/from?site=youtube.com
+
+Why is Japan So Weak in Software? - YouTube
+https://www.youtube.com/watch?v=ky1nGQhHTso
+
+Codespaces
+https://github.com/codespaces
+
+(772) #new members > Michael Latta - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147922-new-members/topic/Michael.20Latta
+
+''Sedulous'' 100% (Demon) by Samifying [1 Coin] | Geometry Dash - YouTube
+https://www.youtube.com/watch?v=mNaXAjk_t4Y
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+README.md - ggml-mnist - Project IDX
+https://idx-app-1723959302408.cluster-joak5ukfbnbyqspg4tewa33d24.cloudworkstations.dev/?folder=/home/user/myapp/ggml-mnist
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=true&query=AI%20chips&sort=byPopularity&type=story
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament?tab=readme-ov-file
+
+ggml/src/CMakeLists.txt at 46e22f59eaf0aaa38a8e525fd89ba95e39ba7435 · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/46e22f59eaf0aaa38a8e525fd89ba95e39ba7435/src/CMakeLists.txt#L154
+
+openmp - Google 搜索
+https://www.google.com/search?q=openmp&rlz=1C1GCEA_enJP1090JP1090&oq=openmp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+ibl 文件 - Google 搜索
+https://www.google.com/search?q=ibl+%E6%96%87%E4%BB%B6&rlz=1C1GCEA_enJP1090JP1090&oq=ibl+%E6%96%87%E4%BB%B6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDINCAUQLhjHARjRAxiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ0NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Suggesting Changes on GitHub | You’ve Been Haacked
+https://haacked.com/archive/2019/06/03/suggested-changes/
+
+ggml/src/ggml.c at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/blob/master/src/ggml.c#L19426-L19427
+
+Examples: add ggml training for MNIST by JohannesGaessler · Pull Request #908 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/908/files
+
+The MNIST Database of Handwritten Digit Images for Machine Learning Research [Best of the Web] | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/6296535
+
+The MNIST Database of Handwritten Digit Images for Machine Learning Research [Best of the Web] | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/6296535
+
+The MNIST Database of Handwritten Digit Images for Machine Learning Research · Issue #70 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/70
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2024-07-01&to=2024-07-31
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+Issue search results
+https://github.com/search?q=involves%3AJohannesGaessler%20&type=issues
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+Linker flag `--enable-auto-image-base` is not supported · Issue #19613 · ziglang/zig
+https://github.com/ziglang/zig/issues/19613
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - fantastic broccoli
+https://github.com/codespaces/fantastic-broccoli-g444jwp5q9gjhvp7v?editor=vscode
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Adam: A Method for Stochastic Optimization
+https://arxiv.org/pdf/1412.6980
+
+Adam: A Method for Stochastic Optimization · Issue #71 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/71
+
+CMake自动导出dll导出符号_cmake 生成dll-CSDN博客
+https://blog.csdn.net/kasteluo/article/details/130541183
+
+google mock google test windows linker error cmake - Google 搜索
+https://www.google.com/search?q=google+mock+google+test+windows+linker+error+cmake&sca_esv=5af0601d0d0f13a8&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILxc1cwcodOo4K20mrgLq1BJ6YIqA%3A1724079722723&ei=al7DZqbjK6SNm9cPstun0Qs&ved=0ahUKEwimwL-7qYGIAxWkxuYEHbLtKboQ4dUDCBA&uact=5&oq=google+mock+google+test+windows+linker+error+cmake&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmdvb2dsZSBtb2NrIGdvb2dsZSB0ZXN0IHdpbmRvd3MgbGlua2VyIGVycm9yIGNtYWtlMgUQIRigAUjuVlAAWOdVcAZ4AJABAZgBpgSgAfN0qgEKMi05LjMyLjMuMbgBA8gBAPgBAZgCMqAC3nLCAgwQIxiABBgTGCcYigXCAgoQIxiABBgnGIoFwgIFEAAYgATCAgoQABiABBhDGIoFwgILEC4YgAQY0QMYxwHCAgQQIxgnwgIOEC4YgAQY0QMYxwEYywHCAggQABiABBjLAcICChAAGIAEGAoYywHCAgQQABgewgIIEAAYCBgKGB7CAgYQABgIGB7CAggQABiABBiiBMICBxAhGKABGAqYAwCSBwo2LjAuOS4zMS40oAeMkAE&sclient=gws-wiz-serp
+
+riscv-simulator/CMakeLists.txt 位于 main - riscv-simulator - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/riscv-simulator/src/branch/main/CMakeLists.txt
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+Getting OpenMP with vcpkg? · Issue #4712 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/4712
+
+Welcome to the documentation of OpenMP in LLVM! — LLVM/OpenMP 20.0.0git documentation
+https://openmp.llvm.org/
+
+OpenMP linking errors on Windows using Ninja and clang - Usage - CMake Discourse
+https://discourse.cmake.org/t/openmp-linking-errors-on-windows-using-ninja-and-clang/7246/2
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges
 https://yann.lecun.com/exdb/mnist/
 
