@@ -1,5 +1,33 @@
 
 
+3D模型格式:
+这些游戏通常使用专有的或行业标准的3D模型格式,如:
+FBX
+OBJ
+COLLADA
+glTF
+游戏引擎特定格式(如Unreal的.uasset)
+IBL (基于图像的照明):
+IBL确实在这些游戏中被使用,但主要是作为环境照明和反射的一部分,而不是定义3D模型本身。
+渲染技术:
+这些游戏使用先进的实时渲染技术,如:
+PBR (基于物理的渲染)
+全局光照
+动态阴影
+后处理效果
+Google Filament:
+虽然这些大型游戏可能不直接使用Google Filament,但它们确实使用了类似的概念和技术。Filament是一个高性能实时渲染引擎,包含了许多现代游戏引擎也使用的技术:
+基于物理的渲染(PBR)
+基于图像的照明(IBL)
+高动态范围(HDR)渲染
+后处理效果
+游戏引擎:
+这些3A游戏通常使用专业的游戏引擎,如:
+Unreal Engine
+Unity
+CryEngine
+自主开发的专有引擎
+
 Text-to-Video模型:
 
 ModelScope Text-to-Video: 阿里巴巴开源的文本到视频生成模型。
