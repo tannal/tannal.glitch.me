@@ -1,5 +1,9 @@
 # 2024-8-19 0 | 0 W
 
+training using ggml
+author:Ronsor
+involves:JohannesGaessler
+
 mnist_model_train 函数:
 这是模型训练的核心函数。主要步骤包括:
 创建计算图(forward和backward)
