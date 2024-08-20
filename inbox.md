@@ -1,5 +1,20 @@
 # 2024-8-20 0 | 0 W
 
+ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ../emsdk/wasmtime-dev-x86_64-linux/wasmtime run build/my_wasm_module.wasm 
+Hello, World!
+add(1, 2) = 3
+ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ../emsdk/WasmEdge-0.14.1-rc.1-Linux/bin/wasmedge build/my_wasm_module.wasm add 2 3
+Hello, World!
+add(1, 2) = 3
+ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ./bin/wasmer build/my_wasm_module
+.wasm 
+Hello, World!
+add(1, 2) = 3
+ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ./iwasm build/my_wasm_module.wasm
+ 
+Hello, World!
+add(1, 2) = 3
+
 git clone https://github.com/emscripten-core/emsdk.git
 cd emsdk
 git pull
