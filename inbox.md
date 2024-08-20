@@ -1,6 +1,10 @@
 # 2024-8-20 0 | 0 W
 
+
+
 scala-cli.exe -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890
+
+scala-cli -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890 chisel-example.scala
 
 827904263@qq.com
 
