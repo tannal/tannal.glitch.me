@@ -1,5 +1,160 @@
+# 2024-8-20
+
+
 # 2024-8-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+playcanvas/engine: JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+https://github.com/playcanvas/engine?tab=readme-ov-file
+
+playcanvas/awesome-playcanvas: A curated list of awesome PlayCanvas assets, resources, and more.
+https://github.com/playcanvas/awesome-playcanvas?tab=readme-ov-file
+
+(24) Discord | #💻-dev-hangout | Official PlayCanvas Chat
+https://discord.com/channels/408617316415307776/408617316415307778
+
+filament/assets/models at main · google/filament
+https://github.com/google/filament/tree/main/assets/models
+
+google.github.io/filament/webgl/tutorial_redball.html
+https://google.github.io/filament/webgl/tutorial_redball.html
+
+filament - npm
+https://www.npmjs.com/package/filament
+
+Filament Remote
+https://google.github.io/filament/remote/
+
+OpenMP linking errors on Windows using Ninja and clang - Usage - CMake Discourse
+https://discourse.cmake.org/t/openmp-linking-errors-on-windows-using-ninja-and-clang/7246
+
+OpenMP with clang links to system libomp.so or drops rpath, when clang in non-standard location. (#21787) · 议题 · CMake / CMake · GitLab
+https://gitlab.kitware.com/cmake/cmake/-/issues/21787
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+Filament: Physically-based rendering engine | Hacker News
+https://news.ycombinator.com/item?id=17684286
+
+Filament for Web
+https://prideout.net/slides/filawasm/#7
+
+remarkjs/remark: markdown processor powered by plugins part of the @unifiedjs collective
+https://github.com/remarkjs/remark
+
+prideout (prideout) / Repositories
+https://github.com/prideout?tab=repositories&q=&type=&language=&sort=
+
+nothings/single_file_libs: List of single-file C/C++ libraries.
+https://github.com/nothings/single_file_libs
+
+prideout/shaderhud: quick shader editor overlay for debugging
+https://github.com/prideout/shaderhud
+
+prideout (prideout) / Repositories
+https://github.com/prideout?page=3&tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=skia&sort=byPopularity&type=story
+
+gnab/remark: A simple, in-browser, markdown-driven slideshow tool.
+https://github.com/gnab/remark?tab=readme-ov-file
+
+remarkjs - npm search
+https://www.npmjs.com/search?q=remarkjs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=remarkjs&sort=byPopularity&type=story
+
+Filament for Web
+http://localhost:8080/test.html#3
+
+Filament for Web
+http://localhost:8080/test.html#1
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Filament for Web
+http://localhost:8080/test.html#14
+
+Examples: add ggml training for MNIST by JohannesGaessler · Pull Request #908 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/908
+
+Download and install — Emscripten 3.1.65-git (dev) documentation
+https://emscripten.org/docs/getting_started/downloads.html
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+ggml/examples/gpt-2 at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/gpt-2
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+Releases · blender/blender
+https://github.com/blender/blender
+
+Blender Builds - blender.org
+https://builder.blender.org/download/daily/
+
+BabylonJS/Editor: Community managed visual editor for Babylon.js
+https://github.com/BabylonJS/Editor
+
+Babylon.JS Editor
+https://editor.babylonjs.com/
+
+Releases · cnr-isti-vclab/meshlab
+https://github.com/cnr-isti-vclab/meshlab/releases
+
+Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best
+https://www.babylonjs.com/
+
+3D Animal Models - Browse & Download Formats - TurboSquid
+https://www.turbosquid.com/3d-model/animal
+
+如何提取王者荣耀模型_王者荣耀模型拆包-CSDN博客
+https://blog.csdn.net/weixin_45271607/article/details/117745076
+
+3dmax - Google 搜索
+https://www.google.com/search?q=3dmax&rlz=1C1GCEA_enJP1090JP1090&oq=3dmax&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0MzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Releases · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/releases
+
+Releases · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/releases
+
+raylib-wasm/src at main · konsumer/raylib-wasm
+https://github.com/konsumer/raylib-wasm/tree/main/src
+
+Releases · bytecodealliance/wasm-micro-runtime
+https://github.com/bytecodealliance/wasm-micro-runtime/releases
+
+Releases · wasmerio/wasmer
+https://github.com/wasmerio/wasmer/releases
+
+WAVM/WAVM: WebAssembly Virtual Machine
+https://github.com/WAVM/WAVM
+
+wasm3/wasm3: 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
+https://github.com/wasm3/wasm3?tab=readme-ov-file
+
+X 上的 vsh🛡️⚔️：“My destroyed house after 6 days of cleaning #RussiaIsATerroristState #UkraineWillPrevail https://t.co/IfTr704elN” / X
+https://x.com/vshymanskyy/status/1568657607229075456
+
+fastly wasm runtime - Google 搜索
+https://www.google.com/search?q=fastly+wasm+runtime&rlz=1C1GCEA_enJP1090JP1090&oq=fastly+wasm+runtime&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM5MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
 # 2024-8-18
 

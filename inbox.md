@@ -1,7 +1,21 @@
 # 2024-8-20 0 | 0 W
 
+wasmtime run build/my_wasm_module.wasm --invoke add -- 5 3
+
+iwasm wasmtime wasmedge
+
+wasmer
+
+../emsdk/WasmEdge-0.14.1-rc.1-Linux/bin/wasmedge build/my_wasm_module.wasm add 2 3
+
+emcmake cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 
 
 
+emcc -I./include -I./include/ggml -I./examples ./src/ggml.c ./src/ggml-quants.c ./src/ggml-aarch64.c main.cpp -o web/mnist.js -s EXPORTED_FUNCTIONS='["_wasm_eval","_wasm_random_digit","_malloc","_free"]' -s EXPORTED_RUNTIME_METHODS='["ccall"]' -s ALLOW_MEMORY_GROWTH=1 --preload-file models/mnist
+
+
+export CC="emcc"
+export CXX="emcc"
 
 # 2024-8-19 0 | 0 W
 
