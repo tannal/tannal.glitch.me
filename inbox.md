@@ -1,5 +1,7 @@
 # 2024-8-20 0 | 0 W
 
+6800R
+
 sbt -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890 "runMain HelloWorld"
 
 https://codeberg.org/explore/repos
