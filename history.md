@@ -1,5 +1,125 @@
 # 2024-8-20
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+| 10.1145/2654822.2541967_Scihub
+https://bothonce.com/https://dl.acm.org/doi/10.1145/2654822.2541967
+
+ucb-bar/chipyard: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+https://github.com/ucb-bar/chipyard
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+AMD Ryzen™ Processors for Premium Laptops
+https://www.amd.com/en/products/processors/laptop/ryzen.html#shop
+
+关于AMD Ryzen™ 5 5600G的测评_5600g评测-CSDN博客
+https://blog.csdn.net/edu4440007/article/details/132541473
+
+r5 5600u amd - Google 搜索
+https://www.google.com/search?q=r5+5600u+amd&sca_esv=8d5bd3aa5d3c8aae&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIK5fK7wXS4gEUabLTc_4tXZbQk2ZA%3A1724135707877&ei=GznEZq6lNdDZkPIP34e4sAc&ved=0ahUKEwjunqaD-oKIAxXQLEQIHd8DDnYQ4dUDCA8&uact=5&oq=r5+5600u+amd&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHI1IDU2MDB1IGFtZDIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSMAHUKoCWMMGcAF4AZABAJgBpgKgAaYCqgEDMi0xuAEDyAEA-AEBmAICoAK2AsICChAAGLADGNYEGEeYAwCIBgGQBgmSBwUxLjAuMaAHjgM&sclient=gws-wiz-serp
+
+有什么推荐的 Android 性价比手机？ - V2EX
+https://www.v2ex.com/t/1066367#reply21
+
+r5 6600h核显 - Google 搜索
+https://www.google.com/search?q=r5+6600h%E6%A0%B8%E6%98%BE&sca_esv=8d5bd3aa5d3c8aae&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKm3HVYHx0N5F50Q0kB3cM0UP1yJA%3A1724135937705&ei=ATrEZoDjKpTZkPIPw93HqAg&oq=r5+6600h&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHI1IDY2MDBoKgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ixDVAAWABwAXgAkAEAmAHmA6AB5gOqAQM0LTG4AQPIAQCYAgGgAgWYAwCIBgGQBgqSBwExoAeNBQ&sclient=gws-wiz-serp
+
+Intel Core i511300H Processor 8M Cache up to 4.40 GHz with IPU Product Specifications
+https://ark.intel.com/content/www/us/en/ark/products/196656/intel-core-i5-11300h-processor-8m-cache-up-to-4-40-ghz-with-ipu.html
+
+i5 11th 11300h vs i7 1165g7 vs amd r5 5600 - Google 搜索
+https://www.google.com/search?q=i5+11th+11300h+vs+i7+1165g7+vs+amd+r5+5600&rlz=1C1GCEA_enJP1090JP1090&oq=i5+11th+11300h+vs+i7+1165g7+vs+amd+r5+5600&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE0ODg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+AMD Ryzen™ 7 6800H | AMD
+https://www.amd.com/en/product/11546
+
+verilog 仿真 开源 - Google 搜索
+https://www.google.com/search?q=verilog+%E4%BB%BF%E7%9C%9F+%E5%BC%80%E6%BA%90+&sca_esv=8d5bd3aa5d3c8aae&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ADLYWIIABxIwt45PMKPmYvnHaO59CaPGvw%3A1724137354479&ei=ij_EZp-CHeq4kPIPiPKjgA8&ved=0ahUKEwif77qUgIOIAxVqHEQIHQj5CPAQ4dUDCA8&uact=5&oq=verilog+%E4%BB%BF%E7%9C%9F+%E5%BC%80%E6%BA%90+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnZlcmlsb2cg5Lu_55yfIOW8gOa6kCAyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSMIkUM0KWMIbcAF4AZABAJgBkgOgAYMTqgEHMi01LjIuMbgBA8gBAPgBAZgCCKAC1xDCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICBBAAGB7CAgYQABgIGB7CAggQABiABBiiBMICCBAAGAUYDBgemAMAiAYBkAYIkgcJMS4wLjUuMS4xoAfhEQ&sclient=gws-wiz-serp
+
+verilator/verilator: Verilator open-source SystemVerilog simulator and lint system
+https://github.com/verilator/verilator/tree/master
+
+Veripool
+https://www.veripool.org/verilator/
+
+Installation — Verilator Devel 5.027 documentation
+https://verilator.org/guide/latest/install.html
+
+verilator/verilator: Verilator open-source SystemVerilog simulator and lint system
+https://github.com/verilator/verilator
+
+chipsalliance/chisel: Chisel: A Modern Hardware Design Language
+https://github.com/chipsalliance/chisel
+
+Chisel: A Modern Hardware Design Language | Hacker News
+https://news.ycombinator.com/item?id=38781273
+
+ucb-bar/chipyard: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+https://github.com/ucb-bar/chipyard
+
+jpillora/chisel: A fast TCP/UDP tunnel over HTTP
+https://github.com/jpillora/chisel
+
+chipsalliance/chisel: Chisel: A Modern Hardware Design Language
+https://github.com/chipsalliance/chisel
+
+spyglass-search/spyglass: A personal search engine: Create a searchable library from your personal documents, interests, and more!
+https://github.com/spyglass-search/spyglass
+
+tannal/cmake-verilator: verilator
+https://github.com/tannal/cmake-verilator
+
+verilog - Google 搜索
+https://www.google.com/search?q=verilog&rlz=1C1GCEA_enJP1090JP1090&oq=verilog&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg9MgYIBBBFGDwyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMzAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+1704.04760
+https://arxiv.org/pdf/1704.04760
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+C++ 中文交流
+https://web.telegram.org/a/#-1001148652493
+
+Installation | Chisel
+https://www.chisel-lang.org/docs/installation
+
+Install Scala CLI | Scala CLI
+https://scala-cli.virtuslab.org/install/
+
+Releases · VirtusLab/scala-cli
+https://github.com/VirtusLab/scala-cli/releases
+
+DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning · Issue #74 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/74
+
+Eyeriss Project
+https://eyeriss.mit.edu/
+
+DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning: ACM SIGARCH Computer Architecture News: Vol 42, No 1
+https://dl.acm.org/doi/10.1145/2654822.2541967
+
+Jim Keller 600 lines - Google 搜索
+https://www.google.com/search?q=Jim+Keller+600+lines&rlz=1C1GCEA_enJP1090JP1090&oq=Jim+Keller+600+l&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgYIBhBFGDzSAQgyNjE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tinygrad/examples at master · tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad/tree/master/examples
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
