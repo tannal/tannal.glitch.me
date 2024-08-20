@@ -1,5 +1,7 @@
 # 2024-8-20 0 | 0 W
 
+sudo /usr/lib/linux-tools/5.15.0-118-generic/perf record ./build/src/mnist-train mnist-fc mnist-fc-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte
+
 curl -O -L https://github.com/chipsalliance/chisel/releases/latest/download/chisel-example.scala
 
 scala-cli.exe -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890
