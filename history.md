@@ -1,5 +1,109 @@
 # 2024-8-20
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+Examples: add ggml training for MNIST by JohannesGaessler · Pull Request #908 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/908
+
+Download and install — Emscripten 3.1.65-git (dev) documentation
+https://emscripten.org/docs/getting_started/downloads.html
+
+ggml.js - Google 搜索
+https://www.google.com/search?q=ggml.js&rlz=1C1GCEA_enJP1090JP1090&oq=ggml.js&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzk1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ggml.ai
+https://ggml.ai/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=ggml%20js&sort=byPopularity&type=story
+
+rahuldshetty (Rahul D Shetty)
+https://github.com/rahuldshetty
+
+Blog
+https://rahuldshetty.github.io/blog/
+
+resume.51e97c55.pdf
+https://rahuldshetty.github.io/_app/immutable/assets/resume.51e97c55.pdf
+
+rahuldshetty (rahuldshetty) / Repositories
+https://github.com/rahuldshetty?tab=repositories
+
+rahuldshetty/llm.js: Run Large-Language Models (LLMs) 🚀 directly in your browser!
+https://github.com/rahuldshetty/llm.js
+
+jameswdelancey/llama3.c: A faithful clone of Karpathy's llama2.c (one file inference, zero dependency) but fully functional with LLaMA 3 8B base and instruct models.
+https://github.com/jameswdelancey/llama3.c
+
+Bash check return code - Google 搜索
+https://www.google.com/search?q=Bash+check+return+code&sca_esv=ad3cebe3ffb4734a&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJUludM0PSNgcPzEo2uvXTHC9-33Q%3A1724117428680&ei=tPHDZtuZKb3BkPIPj-O7oQE&oq=bash+return+value&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWJhc2ggcmV0dXJuIHZhbHVlKgIIAzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0i2HVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIEmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+WasmEdge/WasmEdge: WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+https://github.com/WasmEdge/WasmEdge
+
+Releases · bytecodealliance/wasm-micro-runtime
+https://github.com/bytecodealliance/wasm-micro-runtime/releases
+
+tannal/cmake-wasm
+https://github.com/tannal/cmake-wasm
+
+bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/bytecodealliance/wasm-micro-runtime
+
+WebAssembly Test
+http://localhost:8080/test.html
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Virtual Piano - Play Piano Online | AutoPiano
+https://www.autopiano.cn/en/
+
+【Piano Cover】Mayday五月天 - 步步｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=XLWdknMr1ys
+
+tannal (tannal)
+https://github.com/tannal
+
+WebAssembly Test
+http://localhost:8080/test.html
+
+404: This page could not be found
+https://docs.wasmer.io/javascript-sdk/explainers/troubleshooting#sharedarraybuffer-and-cross-origin-isolation
+
+Antmicro · Introducing jswasi - a Wasm/WASI runtime for browsers
+https://antmicro.com/blog/2024/03/introducing-jswasi-a-wasm-runtime-for-browsers/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=wasi%20in%20browser&sort=byPopularity&type=story
+
+bit-fu/Browser-WASI: WASI in the Browser with C++ and Strings - Codeberg.org
+https://codeberg.org/bit-fu/Browser-WASI
+
+探索 - Codeberg.org
+https://codeberg.org/explore/repos
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jswasi&sort=byPopularity&type=story
+
+Running WASI in the Browser and Node.js with Wasmer-JS - InfoQ
+https://www.infoq.com/news/2019/10/wasmer-js-wasi-wasm-browser/
+
+wasmerio/wasmer-js: Monorepo for Javascript WebAssembly packages by Wasmer
+https://github.com/wasmerio/wasmer-js
+
+tannal (tannal)
+https://github.com/tannal
 
 # 2024-8-19
 
