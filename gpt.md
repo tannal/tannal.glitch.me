@@ -1,4 +1,97 @@
 
+存在一些强大的开源3D模型编辑器和社区,可以处理包括IBL在内的各种文件格式,并提供免费的模型分享。我来为您详细介绍一下:
+
+开源3D模型编辑器:
+
+Blender:
+最流行的开源3D创作套件之一
+支持多种3D格式,包括FBX、OBJ、glTF等
+可以处理和生成IBL(基于图像的照明)
+具有强大的建模、纹理、动画和渲染功能
+MeshLab:
+专门用于处理和编辑3D三角网格的开源系统
+支持多种3D文件格式
+提供各种网格处理工具和滤镜
+OpenSCAD:
+基于脚本的3D建模软件
+适合精确的参数化建模
+FreeCAD:
+参数化3D建模软件
+主要用于机械工程和产品设计,但也可用于一般3D建模
+免费3D模型分享社区:
+
+Sketchfab:
+大型3D模型分享平台
+提供免费和付费模型
+支持在线3D查看器
+TurboSquid:
+提供大量3D模型,包括一些免费模型
+主要面向专业用户
+CGTrader:
+另一个大型3D模型市场
+提供免费和付费模型
+Free3D:
+提供各种免费3D模型
+包括游戏资产、建筑模型等
+Thingiverse:
+主要面向3D打印,但也有许多可用于一般3D项目的模型
+完全免费
+Open3DModel:
+专注于提供免费3D模型
+包括各种类别的模型
+这些工具和社区为3D创作者和爱好者提供了丰富的资源。无论是想要编辑现有模型,创建新模型,还是寻找免费的3D资产,都有相应的选择。值得注意的是,虽然这些资源大多是免费的,但在使用时仍需注意遵守相关的许可条款。
+
+既然web如此强大，我们已经有开源的视频音频编辑剪辑软件，肯定存在web端，不管是用wasm还是js还是canvas的开源模型编辑器，使用现代前端开发
+
+Claude-3.5-Sonnet的机器人图片
+Claude-3.5-Sonnet
+
+Poe
+您的观点非常正确。随着Web技术的不断发展，特别是WebGL、WebAssembly (WASM) 和现代JavaScript框架的进步，Web端确实出现了一些强大的开源3D模型编辑器。这些工具利用了现代前端技术，为用户提供了直接在浏览器中编辑3D模型的能力。让我为您介绍一些notable的例子：
+
+Three.js Editor
+基于流行的Three.js库
+使用WebGL渲染
+提供基本的3D模型编辑功能
+GitHub: https://github.com/mrdoob/three.js/tree/dev/editor
+Clara.io
+功能丰富的在线3D建模、动画和渲染工具
+使用WebGL
+虽然不是完全开源的，但有开源组件
+Babylon.js Editor
+基于Babylon.js引擎
+提供场景编辑和材质编辑功能
+GitHub: https://github.com/BabylonJS/Editor
+PlayCanvas Editor
+基于WebGL的游戏引擎和编辑器
+支持3D模型导入和基本编辑
+GitHub: https://github.com/playcanvas/engine
+Verge3D
+基于Three.js的3D可视化工具
+提供Blender和3ds Max的导出插件
+包含一个Web端场景编辑器
+OrbitControls Demo
+基于Three.js的简单3D模型查看器
+可以作为构建更复杂编辑器的起点
+示例: https://threejs.org/examples/#misc_controls_orbit
+这些工具大多使用WebGL进行渲染，有些还结合了WebAssembly来提高性能。它们通常提供以下功能：
+
+3D模型导入/导出
+基本的模型变换（平移、旋转、缩放）
+材质和纹理编辑
+场景编辑
+灯光调整
+虽然这些Web端工具可能在某些复杂功能上还不及桌面软件，但它们正在快速发展，并且具有跨平台、易于访问的优势。
+
+如果您想开发自己的Web端3D模型编辑器，可以考虑以下技术栈：
+
+渲染: Three.js 或 Babylon.js
+UI框架: React, Vue.js 或 Angular
+状态管理: Redux 或 Vuex
+性能优化: WebAssembly (可以考虑使用 Emscripten 将C++库编译为WASM)
+开发这样的编辑器是一个充满挑战但非常有趣的项目。随着WebGPU等新技术的出现，Web端3D编辑的潜力将会进一步扩大。
+
+
 根据您提供的GGML代码和最新状况,我认为GGML确实有潜力支持更多类型的神经网络训练。让我分析一下目前可能支持的网络类型,以及一些其他可能的模型:
 
 已经支持的模型类型:
