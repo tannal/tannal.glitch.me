@@ -1,5 +1,152 @@
 # 2024-8-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021?from=15765
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+(746) #xilem > How to do frequent data updates from another thread? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/How.20to.20do.20frequent.20data.20updates.20from.20another.20thread.3F
+
+FoundationDB: A Distributed Key-Value Store | Hacker News
+https://news.ycombinator.com/item?id=36572658
+
+Issue search results
+https://github.com/search?q=repo%3Aggerganov%2Fwhisper.cpp+key+value+&type=issues
+
+Issue search results
+https://github.com/search?q=repo%3Aggerganov%2Fggml+key+value&type=issues
+
+AI/ML needs a Key-Value store, and Redis is not up to it - Hopsworks
+https://www.hopsworks.ai/post/ai-ml-needs-a-key-value-store-and-redis-is-not-up-to-it
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=webassembly&sort=byPopularity&type=story
+
+Show HN: A singing synthesizer for the browser with algorithmic 3-part harmony | Hacker News
+https://news.ycombinator.com/item?id=41152848
+
+PaulBatchelor/voxbox: A singing vocal synthesizer
+https://github.com/paulBatchelor/voxbox
+
+Linux
+https://linux.tombl.dev/
+
+SwiftLaTeX/SwiftLaTeX: SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
+https://github.com/SwiftLaTeX/SwiftLaTeX?tab=readme-ov-file
+
+SwiftLaTeX: WYSIWYG LaTeX Editor for Browsers
+https://www.swiftlatex.com/
+
+SQL 💜 WebAssembly
+https://www.jasonthorsness.com/12
+
+Typst: An easy to learn alternative for LaTex | Hacker News
+https://news.ycombinator.com/item?id=41014941
+
+HTML Export · Issue #721 · typst/typst
+https://github.com/typst/typst/issues/721
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+is%3Aopen+sort%3Acomments-desc
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+MNIST with GGML
+https://mnist.ggerganov.com/
+
+AMD Ryzen 7 6800H vs Intel Core i7-1165G7: What is the difference?
+https://versus.com/en/amd-ryzen-7-6800h-vs-intel-core-i7-1165g7
+
+tannal (tannal)
+https://github.com/tannal
+
+GGML – AI at the Edge | Hacker News
+https://news.ycombinator.com/item?id=36215651
+
+princeton-nlp/MeZO: [NeurIPS 2023] MeZO: Fine-Tuning Language Models with Just Forward Passes. https://arxiv.org/abs/2305.17333
+https://github.com/princeton-nlp/MeZO?tab=readme-ov-file
+
+MeZO/medium_models at main · princeton-nlp/MeZO
+https://github.com/princeton-nlp/MeZO/tree/main/medium_models
+
+llama.cpp/ggml.c at 44f906e8537fcec965e312d621c80556d6aa9bec · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/blob/44f906e8537fcec965e312d621c80556d6aa9bec/ggml.c#L14575
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%20less%20demanding&op=translate
+
+gpt-2-playground_.ipynb - Colab
+https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb#scrollTo=c8f1U3QqOrUk
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=apache%20tvm&sort=byPopularity&type=story
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+【Piano Cover】周杰倫 Jay Chou - 告白氣球 Love Confession｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=8BWgZkcRD98
+
+Virtual Piano - Play Piano Online | AutoPiano
+https://www.autopiano.cn/en/
+
+r7 6800h vs i7 1165g7 - Google 搜索
+https://www.google.com/search?q=r7+6800h+vs+i7+1165g7&rlz=1C1GCEA_enJP1090JP1090&oq=r7+6800h+vs+i7+1165g7&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARAAGAgYHjIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDI0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Could not start debugger process, does the program exist in filesystem? Error: spawn lldb-mi ENOENT - Google 搜索
+https://www.google.com/search?q=Could+not+start+debugger+process%2C+does+the+program+exist+in+filesystem%3F+Error%3A+spawn+lldb-mi+ENOENT&rlz=1C1GCEA_enJP1090JP1090&oq=Could+not+start+debugger+process%2C+does+the+program+exist+in+filesystem%3F+Error%3A+spawn+lldb-mi+ENOENT&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Going faster than memcpy | Squadrick
+https://squadrick.dev/journal/going-faster-than-memcpy.html
+
+c++ - Optimize in CMake by default - Stack Overflow
+https://stackoverflow.com/questions/41361631/optimize-in-cmake-by-default
+
+perf directory - Google 搜索
+https://www.google.com/search?q=perf+directory&rlz=1C1GCEA_enJP1090JP1090&oq=perf+directory&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzA5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+转转_转转二手官方验，买卖二手不一样
+https://www.zhuanzhuan.com/
+
+cmake set subdirectory options - Stack Overflow
+https://stackoverflow.com/questions/20239334/cmake-set-subdirectory-options
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+ggml · GitHub Topics
+https://github.com/topics/ggml
+
+gotzmann/booster: Booster - open accelerator for LLM models. Better inference and debugging for AI hackers
+https://github.com/gotzmann/booster
+
+Maknee (Henry Zhu)
+https://github.com/Maknee
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+15-LLM-finetuning.pdf
+https://mlsyscourse.org/slides/15-LLM-finetuning.pdf
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
