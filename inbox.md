@@ -1,6 +1,8 @@
 # 2024-8-20 0 | 0 W
 
-6800R
+R7-6800H
+R5-5600U
+R5-5600H
 
 sbt -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890 "runMain HelloWorld"
 
