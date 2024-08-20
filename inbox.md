@@ -1,5 +1,7 @@
 # 2024-8-20 0 | 0 W
 
+sudo apt-get install verilator 
+
 R7-6800H
 R5-5600U
 R5-5600H
