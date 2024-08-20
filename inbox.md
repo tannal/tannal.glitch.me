@@ -1,5 +1,7 @@
 # 2024-8-20 0 | 0 W
 
+verilator --cc --exe --build -j 4 -Wall Alu.v tb_Alu.cpp
+./obj_dir/VAlu
 sudo apt-get install verilator 
 
 R7-6800H
