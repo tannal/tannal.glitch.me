@@ -1,5 +1,140 @@
 # 2024-8-20
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_2bng3ny45p4.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E7%AC%AC11%E9%9B%86&vid=8589f3683032139e49115b0604a89f7a&vtype=0&f_block=selector_bk&s2=wna_tvg_1st&s3=wna_tvg_select&s4=11&vfrm=wna_tvg_1st&vfrmblk=wna_tvg_select&vfrmrst=3&pb2=bkt=&c1=&e=&fatherid=&position=5&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_A,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,9355_A,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+报名参与 | 一生一芯
+https://ysyx.oscc.cc/signup/
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/#%E5%BE%80%E6%9C%9F%E8%AF%BE%E7%A8%8B%E4%B8%BB%E9%A1%B5
+
+“一生一芯”报名问卷
+https://fa45epzd9c7.feishu.cn/share/base/form/shrcn96EZ1pUYKJXtKdCgDhtsUd
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+app - Project IDX
+https://idx.google.com/app-6763472
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+YouTube
+https://www.youtube.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=fast%20lazy%20container&sort=byPopularity&type=story
+
+jim keller risc-v - Google 搜索
+https://www.google.com/search?sca_esv=221c6b6b6f3ee7bd&hl=zh-CN&sxsrf=ADLYWILvmHkn-Ltkkxw3e3UYo48i48FeKA:1724127201214&q=jim+keller+risc-v&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCFjKWPPnUenjQONHCeVVxqvXJvc3eOASBLywUyZ0KXjXNLE8uetfS4_5uah-6sxjn6IjDPhkMJOrqLb8NU_WCVS6YNtubcuprwUbmHLdqoPQiKujxBTGoVhn0QA08vIOqASLmNH04RHg3cAzCcuXonb7JKgvPBh7oV576jT8sdYg4TaAU&sa=X&ved=2ahUKEwjaxYCr2oKIAxXwOTQIHW_eJJcQ0pQJegQIDRAB&biw=1536&bih=703&dpr=1.25
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Jim%20Keller&sort=byPopularity&type=story
+
+Jim Keller：AI也就600行程式碼，你知道AI晶片怎麼設計了吧 - 蘿蔔實驗室
+https://lobolab.tech/jim_aichip/?fbclid=IwY2xjawEw91BleHRuA2FlbQIxMAABHZSLAzLYOLX8XW2ygbC2dufU_-TNdeMWb58A4g5uHhAN32-5u9c-kd-hMQ_aem_J343adJY4ASq48vheLfYqA
+
+Jim Keller criticizes Nvidia's CUDA, x86 | Hacker News
+https://news.ycombinator.com/item?id=39480341
+
+Atomic Semi • The Make Anything Company
+https://atomicsemi.com/
+
+Jim Keller 600 lines - Google 搜索
+https://www.google.com/search?q=Jim+Keller+600+lines&rlz=1C1GCEA_enJP1090JP1090&oq=Jim+Keller+600+lines&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMg4IAhAAGAoYQxiABBiKBTIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM2NDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tinygrad/tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️
+https://github.com/tinygrad/tinygrad
+
+Jim Keller (engineer) - Wikipedia
+https://en.wikipedia.org/wiki/Jim_Keller_(engineer)
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+nvdla
+https://github.com/nvdla
+
+nvdla/hw: RTL, Cmodel, and testbench for NVDLA
+https://github.com/nvdla/hw?tab=readme-ov-file
+
+Codespaces
+https://github.com/codespaces
+
+negative mental state - Google 搜索
+https://www.google.com/search?q=negative+mental+state&sca_esv=221c6b6b6f3ee7bd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII5Ov3FEZAb2aUTMinpoPza6yT8CA%3A1724130819172&ei=AybEZr6QCr-d0PEPqvqj6AY
+
+tannal (tannal)
+https://github.com/tannal/
+
+ucb-bar/gemmini: Berkeley's Spatial Array Generator
+https://github.com/ucb-bar/gemmini?tab=readme-ov-file
+
+Chisel | Chisel
+https://www.chisel-lang.org/
+
+chipsalliance/chisel: Chisel: A Modern Hardware Design Language
+https://github.com/chipsalliance/chisel
+
+ucb-bar/chipyard: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+https://github.com/ucb-bar/chipyard?tab=readme-ov-file
+
+Chipyard - Google 群组
+https://groups.google.com/g/chipyard
+
+Welcome to Chipyard’s documentation (version “HEAD”)! — Chipyard HEAD documentation
+https://chipyard.readthedocs.io/en/latest/
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces
+https://github.com/codespaces
+
+Create new codespace
+https://github.com/codespaces/new
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Billing
+https://github.com/settings/billing/summary
+
+马丁·赛里格曼 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E4%B8%81%C2%B7%E8%B5%9B%E9%87%8C%E6%A0%BC%E6%9B%BC
+
+sbt Reference Manual — 在 Windows 上安装 sbt
+https://www.scala-sbt.org/1.x/docs/zh-cn/Installing-sbt-on-Windows.html
+
+schoeberl/chisel-examples: Chisel examples and code snippets
+https://github.com/schoeberl/chisel-examples/tree/master
+
+7th Gen A6-9225 APU | AMD
+https://www.amd.com/en/product/8231
+
+7nm芯片登陆笔记本电脑！AMD公布Ryzen 4000移动处理器，强势挑战英特尔 | CES 2020|移动处理器_新浪财经_新浪网
+https://finance.sina.com.cn/wm/2020-01-07/doc-iihnzhha0869606.shtml
+
+amd r5 5600u - Google 搜索
+https://www.google.com/search?q=amd+r5+5600u&sca_esv=3aa485054db5215c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJSjLgf5762F4AQMwoXJ89YJvcmaQ%3A1724134926372&ei=DjbEZvi5FqvJkPIPsezl6AU
+
+AMD Ryzen™ 3 7330U
+https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7330u.html
+
+amd r7 - Google 搜索
+https://www.google.com/search?q=amd+r7&rlz=1C1GCEA_enJP1090JP1090&oq=amd+r7+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEJMTU3MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
