@@ -44,3 +44,14 @@ git clone https://github.com/babel/babel
 ```
 
 
+# people
+
+author:nicolo-ribaudo
+author:liuxingbaoyu
+author:JLHwung
+author:SuperSodaSea
+author:fisker
+author:Andarist
+author:overlookmotel
+author:magic-akari
+author:danezauthor:

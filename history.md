@@ -1,5 +1,158 @@
 # 2024-8-20
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+nodejs源码分析 - 知乎
+https://www.zhihu.com/column/c_1094251741922619392
+
+如何写一个 JS 运行时 - 知乎
+https://zhuanlan.zhihu.com/p/570883350
+
+低レイヤを知りたい人のためのCコンパイラ作成入門
+https://www.sigbus.info/compilerbook#
+
+Site Search
+https://www.amd.com/en/search/site-search.html#q=5800h
+
+Element [3] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+[css-overflow] Should overflow-clip-margin apply to scrollable boxes? · Issue #10745 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10745
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021?from=21780
+
+ggml · GitHub Topics
+https://github.com/topics/ggml
+
+azkadev/bark: WIP Library Text To Speech From Suno AI's Bark in C/C++ for fast inference
+https://github.com/azkadev/bark
+
+Pytorch MNIST.ipynb - Colab
+https://colab.research.google.com/drive/12n_8VNJnolBnX5dVS0HNWubnOjyEaFSb?usp=sharing#scrollTo=u75Xa5VckuTH
+
+Making an Alpine Node.js Container - Complete Intro to Containers, v2
+https://frontendmasters.com/courses/complete-intro-containers-v2/making-an-alpine-node-js-container/
+
+Optional Chaining - Professional JS: Features You Need to Know
+https://frontendmasters.com/courses/pro-js-features/optional-chaining/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Browse
+https://bugs.webkit.org/describecomponents.cgi
+
+Releases · oven-sh/bun
+https://github.com/oven-sh/bun
+
+The Matrix.org Foundation
+https://github.com/matrix-org
+
+(28) Discord | #readme | Tiptap
+https://discord.com/channels/818568566479257641/818574301992058880
+
+Pull requests · dream-num/univer
+https://github.com/dream-num/univer/pulls
+
+Ot – Univer
+https://univer.ai/blog/post/ot
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun/
+
+PABannier/bark.cpp: Suno AI's Bark model in C/C++ for fast text-to-speech
+https://github.com/PABannier/bark.cpp
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=keypairs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bun%20install&sort=byPopularity&type=story
+
+webview github - Google 搜索
+https://www.google.com/search?q=webview+github&rlz=1C1GCEA_enJP1090JP1090&oq=webview+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQg1NzczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Becoming A Mozilla Committer — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/
+
+中华人民共和国外汇储备 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87#%E6%AD%B7%E5%B9%B4%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Zero-width stroke acts as fill · Issue #662 · linebender/vello
+https://github.com/linebender/vello/issues/662
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal/cmake-wasm: WebAssembly
+https://github.com/tannal/cmake-wasm
+
+rocallahan (rocallahan) / Repositories
+https://github.com/rocallahan?tab=repositories
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1650944 - Remove ReflowInput.h include from nsIFrame.h
+https://bugzilla.mozilla.org/show_bug.cgi?id=1650944
+
+⚙ D81845 Bug 1630704 - Part 26: Move ReflowInput import to nsIFrame.h r=emilio
+https://phabricator.services.mozilla.com/D81845#2501818
+
+Billing
+https://github.com/settings/billing/summary
+
+Issue search results
+https://github.com/search?q=author%3Alegendecas&type=issues
+
+Contributors to babel/babel
+https://github.com/babel/babel/graphs/contributors
+
+Debug CI lint failure by nicolo-ribaudo · Pull Request #16735 · babel/babel
+https://github.com/babel/babel/pull/16735
+
+Issue search results
+https://github.com/search?q=author%3Aliuxingbaoyu&type=issues
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%0A%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%91%E3%81%A9&op=translate
+
+How Do Japanese Elders See Japan’s Population Crisis? | Street Interview - YouTube
+https://www.youtube.com/watch?v=cGfHMW7XonA
+
+How Do Japanese Elders See Japan’s Population Crisis? | Street Interview - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcGfHMW7XonA
+
+kennysong (Kenny Song)
+https://github.com/kennysong
+
+Hacker News Search powered by Algolia
+https://hn.algolia.com/
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Porffor
+https://porffor.dev/
+
+Node.js ShadowRealm Integration Design Doc - Google 文档
+https://docs.google.com/document/d/12_CkX6KbM9kt_lj1pdEgLB8-HQaozkJb7_nwQnHfTTg/edit
+
+todo-tree/src at master · Gruntfuggly/todo-tree
+https://github.com/Gruntfuggly/todo-tree/tree/master/src
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
