@@ -1,3 +1,164 @@
+# 2024-8-21
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Test Linux · tannal/node@fa141b6
+https://github.com/tannal/node/actions/runs/10382466923/job/28745595189
+
+Yagiz Nizipli's blog
+https://www.yagiz.co/
+
+Parsing millions of URLs per second - Nizipli - 2024 - Software: Practice and Experience - Wiley Online Library
+https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3296
+
+biomejs/biome: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+https://github.com/biomejs/biome
+
+Yagiz Nizipli's blog
+https://www.yagiz.co/
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+Server-side render (SSR) a React component | Bun Examples
+https://bun.sh/guides/ecosystem/ssr-react
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=v8%20fast%20api&sort=byPopularity&type=story
+
+Linux Kernel Teaching — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
+How to use the new counted_by attribute in C (and Linux) — Gustavo A. R. Silva
+https://people.kernel.org/gustavoars/how-to-use-the-new-counted_by-attribute-in-c-and-linux
+
+Maestro - Introduction
+https://blog.lenot.re/a/introduction
+
+Interactive map of Linux kernel
+https://makelinux.github.io/kernel/map/
+
+a13xp0p0v/kernel-hardening-checker: A tool for checking the security hardening options of the Linux kernel
+https://github.com/a13xp0p0v/kernel-hardening-checker
+
+MaskRay
+https://maskray.me/blog/
+
+[RISCV] Support constraint "s" by MaskRay · Pull Request #80201 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/80201
+
+What Linux kernel maintainers do and why they need your help | ZDNET
+https://www.zdnet.com/article/what-linux-kernel-maintainers-do-and-why-they-need-your-help/
+
+A Guide to Compiling the Linux Kernel All By Yourself
+https://itsfoss.com/compile-linux-kernel/
+
+Chris's Wiki :: blog
+https://utcc.utoronto.ca/~cks/space/blog/
+
+arighi/virtme-ng: Quickly build and run kernels inside a virtualized snapshot of your live system
+https://github.com/arighi/virtme-ng
+
+Introduction · Linux Inside
+https://0xax.gitbooks.io/linux-insides/content/index.html
+
+KernelHacking - Google 群组
+https://groups.google.com/g/kernelhacking
+
+Linux syscall table: latest, x86 64-bit, x86-64 ABI
+https://syscalls.mebeim.net/?table=x86/64/x64/latest
+
+mmap.c - mm/mmap.c - Linux source code v6.10 - Bootlin
+https://elixir.bootlin.com/linux/v6.10/source/mm/mmap.c#L178
+
+Learning about PCI-e: Emulating a custom device
+https://blog.davidv.dev/posts/learning-pcie/
+
+Learning about PCI-e: Driver & DMA
+https://blog.davidv.dev/posts/pcie-driver-dma/
+
+radical.pdf
+https://web.cs.ucdavis.edu/~rogaway/papers/radical.pdf
+
+David Teather | Portfolio
+https://dteather.com/
+
+davidteather/everything-web-scraping: Learn everything web scraping with David Teather Codes on YouTube
+https://github.com/davidteather/everything-web-scraping
+
+resume.pdf
+https://dteather.com/resume.pdf
+
+davidteather/chatGPT-for-applications: Generate cover letters, resumes, and more with chatGPT!
+https://github.com/davidteather/chatGPT-for-applications
+
+shrimpkin/battlecode_24
+https://github.com/shrimpkin/battlecode_24?tab=readme-ov-file
+
+SimplifyJobs/New-Grad-Positions: A collection of full time roles in SWE, Quant, and PM for new grads.
+https://github.com/SimplifyJobs/New-Grad-Positions
+
+nicosalm/salm.dev: personal site
+https://github.com/nicosalm/salm.dev
+
+Support `HTTPS_PROXY`, `HTTP_PROXY`, and `NO_PROXY` · Issue #1440 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/1440
+
+Nico Salm
+https://salm.dev/
+
+Windows: Bun install fails to download when $Env:http_proxy is set · Issue #9072 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/9072
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal/risinglightdb - risinglightdb - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/risinglightdb
+
+tannal (tannal)
+https://github.com/tannal/
+
+Support .noderc or similar file-based initialization configurations? · Issue #53787 · nodejs/node
+https://github.com/nodejs/node/issues/53787
+
+ZLUDA for llama.cpp · Issue #64 · vosen/ZLUDA
+https://github.com/vosen/ZLUDA/issues/64
+
+vladmandic/automatic: SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models
+https://github.com/vladmandic/automatic
+
+IST-DASLab/gptq: Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
+https://github.com/IST-DASLab/gptq
+
+trzy/llava-cpp-server: LLaVA server (llama.cpp).
+https://github.com/trzy/llava-cpp-server
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D219053 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+https://phabricator.services.mozilla.com/D219053
+
+Matrix - MozillaWiki
+https://wiki.mozilla.org/Matrix
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-test-a-change-remotely
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=true&query=Anthropic&sort=byPopularity&type=story
+
+The ribosome lowers the entropic penalty of protein folding | Nature
+https://www.nature.com/articles/s41586-024-07784-4
+
+srcbookdev/srcbook: JS/TS notebook
+https://github.com/srcbookdev/srcbook
+
+Byte Lab
+https://www.bytelab.codes/
+
 # 2024-8-20
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
