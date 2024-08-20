@@ -1,5 +1,12 @@
 # 2024-8-20 0 | 0 W
 
+git clone https://github.com/emscripten-core/emsdk.git
+cd emsdk
+git pull
+./emsdk install latest
+./emsdk activate latest
+source ./emsdk_env.sh
+
 wasmtime run build/my_wasm_module.wasm --invoke add -- 5 3
 
 iwasm wasmtime wasmedge
