@@ -1,6 +1,6 @@
 # 2024-8-20 0 | 0 W
 
-
+curl -O -L https://github.com/chipsalliance/chisel/releases/latest/download/chisel-example.scala
 
 scala-cli.exe -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890
 
