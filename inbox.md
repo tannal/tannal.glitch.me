@@ -1,7 +1,5 @@
 # 2024-8-20 0 | 0 W
 
-$env:HTTPS_PROXY="http://192.168.43.1:7890"
-
 sudo /usr/lib/linux-tools/5.15.0-118-generic/perf record ./build/src/mnist-train mnist-fc mnist-fc-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte
 
 curl -O -L https://github.com/chipsalliance/chisel/releases/latest/download/chisel-example.scala
@@ -26,22 +24,6 @@ https://codeberg.org/explore/repos
 
 https://github.com/wasmerio/wasmer/releases/download/v4.3.5/wasmer-linux-amd64.tar.gz
 
-
-ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ../emsdk/wasmtime-dev-x86_64-linux/wasmtime run build/my_wasm_module.wasm 
-Hello, World!
-add(1, 2) = 3
-ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ../emsdk/WasmEdge-0.14.1-rc.1-Linux/bin/wasmedge build/my_wasm_module.wasm add 2 3
-Hello, World!
-add(1, 2) = 3
-ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ./bin/wasmer build/my_wasm_module
-.wasm 
-Hello, World!
-add(1, 2) = 3
-ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ./iwasm build/my_wasm_module.wasm
- 
-Hello, World!
-add(1, 2) = 3
-
 git clone https://github.com/emscripten-core/emsdk.git
 cd emsdk
 git pull
@@ -57,9 +39,7 @@ iwasm wasmtime wasmedge wasmer
 
 emcmake cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 
 
-
 emcc -I./include -I./include/ggml -I./examples ./src/ggml.c ./src/ggml-quants.c ./src/ggml-aarch64.c main.cpp -o web/mnist.js -s EXPORTED_FUNCTIONS='["_wasm_eval","_wasm_random_digit","_malloc","_free"]' -s EXPORTED_RUNTIME_METHODS='["ccall"]' -s ALLOW_MEMORY_GROWTH=1 --preload-file models/mnist
-
 
 export CC="emcc"
 export CXX="emcc"
