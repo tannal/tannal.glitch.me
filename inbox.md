@@ -1,5 +1,10 @@
 # 2024-8-20 0 | 0 W
 
+https://codeberg.org/explore/repos
+
+https://github.com/wasmerio/wasmer/releases/download/v4.3.5/wasmer-linux-amd64.tar.gz
+
+
 ubuntu@VM-12-15-ubuntu:~/tannalwork/projects/my_wasm_project$ ../emsdk/wasmtime-dev-x86_64-linux/wasmtime run build/my_wasm_module.wasm 
 Hello, World!
 add(1, 2) = 3
@@ -24,9 +29,7 @@ source ./emsdk_env.sh
 
 wasmtime run build/my_wasm_module.wasm --invoke add -- 5 3
 
-iwasm wasmtime wasmedge
-
-wasmer
+iwasm wasmtime wasmedge wasmer
 
 ../emsdk/WasmEdge-0.14.1-rc.1-Linux/bin/wasmedge build/my_wasm_module.wasm add 2 3
 
