@@ -1,5 +1,92 @@
 # 2024-8-21
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cv.pdf
+https://skyzh.github.io/files/cv.pdf
+
+resume.pdf
+https://dteather.com/resume.pdf
+
+tannal/cmake-verilator: verilator
+https://github.com/tannal/cmake-verilator
+
+报名参与 | 一生一芯
+https://ysyx.oscc.cc/signup/
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/
+
+ELF文件和链接
+https://ysyx.oscc.cc/slides/2306/14.html#/%E6%80%BB%E7%BB%93-1
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/
+
+搭建verilator仿真环境 | 官方文档
+https://ysyx.oscc.cc/docs/2306/preliminary/0.4.html#%E7%A4%BA%E4%BE%8B-%E6%B5%81%E6%B0%B4%E7%81%AF
+
+NJU-ProjectN/nvboard: NJU Virtual Board
+https://github.com/NJU-ProjectN/nvboard
+
+ucb-bar/chipyard: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+https://github.com/ucb-bar/chipyard?tab=readme-ov-file
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_1tqay82xj2c.html?vfrm=pcw_playpage&vfrmblk=playrecord_tips&vfrmrst=click_jump
+
+Boxing an inline equation shifts the baseline · Issue #4796 · typst/typst
+https://github.com/typst/typst/issues/4796
+
+(23) Discord | #news | Tiptap
+https://discord.com/channels/818568566479257641/818569971994853406
+
+Pull requests · typst/typst
+https://github.com/typst/typst/pulls
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=typst&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=This%20is%20because%20a%20multi-line%20math%20expression%2C%20like%20a%20fraction%2C%20needs%20to%20set%20its%20baseline%20at%20the%20math%20axis%20height%20(a%20constant%20provided%20by%20the%20font%2C%20then%20scaled%20by%20the%20font%20size)%2C%20but%20a%20boxed%20frame%20probably%20set%20its%20baseline%20with%20another%20value%20or%20never%20set%20it.%0A%0AI%27m%20not%20sure%20if%20this%20boxed%20frame%27s%20behavior%20is%20WAI%20or%20a%20bug%2C%20though.&op=translate
+
+自费做了个实验：R7 6800H和i5 12500H，玩游戏谁厉害？_电脑报在线
+http://www.icpcw.com/Notebook/yxbjb/gamenbdg/3367/336720.htm
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Matrix - MozillaWiki
+https://wiki.mozilla.org/Matrix
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-test-a-change-remotely
+
+Selectors — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/selectors/index.html#selectors
+
+tannal/cmake-verilator: verilator
+https://github.com/tannal/cmake-verilator
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+tannal (tannal)
+https://github.com/tannal/
+
+AMD Ryzen™ 7 6800H | AMD
+https://www.amd.com/en/product/11546
+
+AI chip design - Google 搜索
+https://www.google.com/search?q=AI+chip+design&sca_esv=fea2c737c8eb45dd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ5V4TzgOWtglcQ5n1qj6fGpFYbIQ%3A1724222390993&ei=tovFZqyyPIm2ptQPjM7CqAw&ved=0ahUKEwis5YP5vIWIAxUJm4kEHQynEMUQ4dUDCA8&uact=5&oq=AI+chip+design&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIg5BSSBjaGlwIGRlc2lnbjIEECMYJzIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUi3GVAAWIEYcAB4AZABAJgB3wmgAesXqgEFNi0yLjG4AQPIAQD4AQGYAgKgAp4QwgIKECMYgAQYJxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAhQQLhiABBjRAxjSAxjHARioAxiLA8ICBRAAGIAEwgILEC4YgAQY0QMYxwGYAwCSBwU2LTEuMaAHix8&sclient=gws-wiz-serp
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
