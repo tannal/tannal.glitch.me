@@ -113,6 +113,18 @@ exec "$local_webkit"/Tools/Scripts/webkit-flatpak --gtk --debug run -c clangd --
 
 # people
 
+JavaScriptCore (JSC, Apple的JavaScript引擎):
+
+Maciej Stachowiak
+WebKit项目联合创始人
+仍在Apple工作
+Geoffrey Garen
+JSC的主要贡献者之一
+仍在Apple工作
+Filip Pizlo
+JSC核心开发者
+已离开Apple，现在在Figma工作
+
 involves:cdumez
 involves:alanbaradlay
 involves:Constellation

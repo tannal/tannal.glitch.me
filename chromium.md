@@ -947,6 +947,27 @@ https://groups.google.com/a/chromium.org/g/graphics-dev
 
 # people
 
+Blink (Google的渲染引擎):
+Darin Fisher
+Chrome的早期核心开发者
+已离开Google，现在是Brave的CTO
+Eric Seidel
+Blink项目的创始人之一
+已离开Google，现在是Replit的CTO
+Chris Harrelson
+现任Blink技术负责人
+WebKit (Apple的渲染引擎):
+
+Dave Hyatt
+WebKit的创始人之一
+仍在Apple工作
+Sam Weinig
+WebKit核心开发者
+仍在Apple工作
+Ryosuke Niwa
+WebKit核心开发者
+仍在Apple工作
+
 involves:bpastene
 involves:colinblundell
 involves:agrieve

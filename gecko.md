@@ -394,6 +394,37 @@ RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
 
 # people
 
+Gecko (Mozilla的渲染引擎):
+
+Robert O'Callahan
+Gecko的长期核心开发者
+已离开Mozilla，创立了rr调试工具项目
+Boris Zbarsky
+Gecko核心开发者
+仍在Mozilla工作
+Emilio Cobos Álvarez
+Gecko核心开发者，专注于CSS引擎
+仍在Mozilla工作
+新成员：
+
+Camillo Bruni (V8)
+Luca Casonato (V8, Deno)
+Nicolò Ribaudo (Babel, 与多个JS引擎有交互)
+Shu-yu Guo (V8, TC39成员)
+Keith Miller (WebKit)
+Kagami Sascha Rosylight (SpiderMonkey)
+
+SpiderMonkey (Mozilla的JavaScript引擎):
+Brendan Eich
+JavaScript语言的创造者，SpiderMonkey的原始作者
+已离开Mozilla，创立了Brave Software
+Luke Wagner
+SpiderMonkey核心开发者，WebAssembly的主要贡献者
+仍在Mozilla工作
+Jan de Mooij
+SpiderMonkey性能优化专家
+仍在Mozilla工作
+
 spidermonkey
 involves:ptomato
 involves:moztcampbell
