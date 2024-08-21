@@ -1,4 +1,63 @@
+Tim Sweeney
+虚幻引擎的创始人和主要架构师
+仍然积极参与引擎的核心技术决策
+Nick Penwarden
+虚幻引擎副总裁
+负责引擎的整体技术方向和战略
+Daniel Vogel
+Epic Games 的 CTO
+对引擎的技术发展有重要影响
+Ryan Brucks
+首席技术美术师
+在实时渲染和图形技术方面有重大贡献
+Brian Karis
+资深图形工程师
+在实时全局光照、阴影技术等方面有突出贡献
+Sébastien Miglio
+资深渲染工程师
+专注于高级渲染技术和性能优化
+Marcus Wassmer
+资深引擎程序员
+在引擎核心系统和性能优化方面有重要贡献
+Daniel Wright
+技术总监
+负责引擎的跨平台开发和优化
+Jim Van Verth
+首席引擎程序员
+在数学库和物理模拟方面有重要贡献
+Niklas Smedberg
+资深引擎程序员
+专注于移动平台优化和渲染技术
+已离开的核心技术人员：
 
+Steve Polge
+前首席程序员，负责 AI 和游戏性编程
+2021 年离开 Epic
+Michael Noland
+前资深引擎程序员
+在虚幻引擎 4 的开发中发挥了重要作用
+已离开 Epic，现在在 Oxide Games
+James Golding
+前首席技术总监
+在网络复制和游戏框架方面有重要贡献
+已离开 Epic，现在是 Manticore Games 的 CTO
+Nick Whiting
+前技术总监，负责 VR 和 AR 开发
+已离开 Epic，现在是 Anduril Industries 的工程副总裁
+新晋或晋升的技术人员：
+
+Yuriy O'Donnell
+资深渲染工程师
+在光线追踪和下一代渲染技术方面有重要贡献
+Matt Kuhlenschmidt
+资深引擎程序员
+在引擎核心系统和工具开发方面有重要贡献
+Lauren Ridge
+资深图形程序员
+在移动图形和性能优化方面有突出表现
+Jack Porter
+资深引擎程序员
+在引擎工具和编辑器开发方面有重要贡献
 
 Pug (原Jade)
 简洁的语法，使用缩进来表示嵌套关系
