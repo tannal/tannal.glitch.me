@@ -1,5 +1,122 @@
 # 2024-8-21
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+David Teather | Portfolio
+https://dteather.com/
+
+mde/ejs: Embedded JavaScript templates -- http://ejs.co
+https://github.com/mde/ejs
+
+Show HN: The Pheasant Framework: A Look into Modern Web Development in Dart | Hacker News
+https://news.ycombinator.com/item?id=39516802
+
+Full stack open
+https://fullstackopen.com/en/
+
+fullstack-hy2020/fullstack-hy2020.github.io
+https://github.com/fullstack-hy2020/fullstack-hy2020.github.io
+
+schultek/jaspr: Modern web framework for building websites in Dart. Supports SPAs, SSR and SSG.
+https://github.com/schultek/jaspr
+
+Show HN: The Pheasant Framework: A Look into Modern Web Development in Dart | Hacker News
+https://news.ycombinator.com/item?id=39516802
+
+pheasantframework/pheasant: The Pheasant Framework is an innovative and powerful frontend web framework. It is used for making powerful and progressive web apps ontop of the Dart language.
+https://github.com/pheasantframework/pheasant
+
+Lit
+https://github.com/lit
+
+marko-js/marko: A declarative, HTML-based language that makes building web apps fun
+https://github.com/marko-js/marko
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Your App
+http://localhost:5173/live
+
+Mitsuha's Theme 三葉のテーマ - RADWIMPS | Your Name 你的名字 Kimi no Na wa 君の名は (Piano Cover) - YouTube
+https://www.youtube.com/watch?v=pw7i6Lua7V8
+
+Deployments · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/deployments/github-pages
+
+actions/setup-node: Set up your GitHub Actions workflow with a specific version of node.js
+https://github.com/actions/setup-node/tree/main
+
+tannal.github.io
+https://tannal.github.io/
+
+Scale & Ship Faster with a Composable Web Architecture | Netlify
+https://www.netlify.com/
+
+Academic
+https://tannal.netlify.app/
+
+404: NOT_FOUND
+https://tannal.vercel.app/
+
+Deploying Git Repositories with Vercel
+https://vercel.com/docs/deployments/git#production-branch
+
+tannal.vercel.app
+https://tannal.vercel.app/
+
+Your App
+http://localhost:5173/
+
+tannal (tannal)
+https://github.com/tannal/
+
+reactjs - React 18: Hydration failed because the initial UI does not match what was rendered on the server - Stack Overflow
+https://stackoverflow.com/questions/71706064/react-18-hydration-failed-because-the-initial-ui-does-not-match-what-was-render
+
+Styled-Components hydration issue · Issue #42358 · vercel/next.js
+https://github.com/vercel/next.js/issues/42358
+
+Your App
+http://localhost:5173/
+
+[Bug]: Hydration fails · Issue #10315 · remix-run/react-router
+https://github.com/remix-run/react-router/issues/10315
+
+gitea/routers/api/v1 at main · go-gitea/gitea
+https://github.com/go-gitea/gitea/tree/main/routers/api/v1
+
+Issues · facebook/react
+https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+hydration
+
+reactjs - Next.JS + Sanity. Hydration Error when including Time Stamp - Stack Overflow
+https://stackoverflow.com/questions/75979956/next-js-sanity-hydration-error-when-including-time-stamp
+
+localhost:8080
+http://localhost:8080/
+
+Minified React error #423 – React
+https://react.dev/errors/423?invariant=423
+
+Minified React error #418 – React
+https://react.dev/errors/418?invariant=418
+
+Your App
+http://localhost:5173/
+
+hydrateRoot – React
+https://react.dev/reference/react-dom/client/hydrateRoot#usage
+
+Your App
+http://localhost:3000/
+
+Your App
+http://localhost:3000/
+
+`TypeError: __vite_ssr_import_0__ is not a function` on dayjs() · vitest-dev/vitest · Discussion #2484
+https://github.com/vitest-dev/vitest/discussions/2484
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
