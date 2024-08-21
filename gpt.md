@@ -1,4 +1,46 @@
 
+
+Pug (原Jade)
+简洁的语法，使用缩进来表示嵌套关系
+支持JavaScript表达式
+GitHub: https://github.com/pugjs/pug
+EJS (Embedded JavaScript)
+允许在HTML中嵌入JavaScript
+语法简单，学习曲线平缓
+GitHub: https://github.com/mde/ejs
+Handlebars
+逻辑简单，易于使用
+兼容Mustache模板
+GitHub: https://github.com/handlebars-lang/handlebars.js
+Nunjucks
+功能丰富，受Jinja2启发
+支持模板继承、宏等高级特性
+GitHub: https://github.com/mozilla/nunjucks
+Liquid
+由Shopify开发，用于他们的在线商店系统
+安全、客户端友好
+GitHub: https://github.com/Shopify/liquid
+Mustache
+简单的无逻辑模板语法
+多种编程语言都有实现
+GitHub: https://github.com/janl/mustache.js
+React JSX
+虽然不是传统意义上的模板引擎，但提供了组件化的UI开发方式
+与React库紧密集成
+GitHub: https://github.com/facebook/react
+Vue.js 模板
+Vue.js框架的一部分，但可以单独使用
+提供了声明式渲染和组件系统
+GitHub: https://github.com/vuejs/vue
+Svelte
+编译时框架，将模板编译为高效的JavaScript
+语法简洁，性能优秀
+GitHub: https://github.com/sveltejs/svelte
+Marko
+由eBay开发，性能优秀
+支持服务器端渲染和浏览器端渲染
+GitHub: 
+
 通用AI加速器：
 a) NVDLA (NVIDIA Deep Learning Accelerator)：
 
