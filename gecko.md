@@ -1,5 +1,7 @@
 # dev
 
+./mach try auto
+
 https://phabricator.services.mozilla.com/p/sefeng/
 
 https://phabricator.services.mozilla.com/differential/query/K_SDXXxl7ZVp/#R
@@ -252,7 +254,7 @@ fallibleDivI()
 
 Bug 1898653 Remove layout.css.inline-style-caching.always-enabled pref r?emilio
 
-Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+Bug 1906157 - Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
 
 
 python ./mach lint -l clippy toolkit/components/glean/api/src/ -W -v    

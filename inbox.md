@@ -1,5 +1,36 @@
 # 2024-8-21 0 | 0 W
 
+Plug and Play Tech Center (全球)
+申请流程：在线申请，选择特定的行业垂直项目
+成功案例：Dropbox, PayPal, Lending Club
+StartX (美国)
+申请流程：在线申请，主要面向斯坦福大学相关的创始人
+成功案例：Nebula Genomics, Memebox, Caribou Biosciences
+AngelPad (美国)
+申请流程：在线申请，每年两次批次
+成功案例：Postmates, Vungle, Coverr
+Alchemist Accelerator (美国)
+申请流程：在线申请，主要面向B2B企业
+成功案例：LaunchDarkly, Rigetti Computing, Zipline
+Founders Factory (英国)
+申请流程：在线申请，与行业领先公司合作
+成功案例：Acre, Karakuri, Mixtiles
+Startupbootcamp (全球)
+申请流程：在线申请，提供多个行业特定项目
+成功案例：Tespack, Insly, Kontakt.io
+SOSV (全球)
+申请流程：在线申请，包括多个专业加速器如HAX、IndieBio等
+成功案例：BitMEX, Formlabs, NotCo
+Entrepreneur First (全球)
+申请流程：在线申请，独特的"人才优先"模式
+成功案例：Magic Pony Technology, Tractable, Cleo
+MassChallenge (全球)
+申请流程：在线申请，非营利性质，不收取股权
+成功案例：Ginkgo Bioworks, Flywire, Lovepop
+Wayra (全球)
+申请流程：在线申请，由电信巨头Telefónica支持
+成功案例：Yalo, Voicemod, Marfeel
+
 git format-patch -1 647ed5567babb864c3066452356aebcbcabbd65e --stdout > merge.patch
 
 Tim Sweeney
