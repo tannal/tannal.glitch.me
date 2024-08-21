@@ -1,5 +1,7 @@
 # dev
 
+./mach vcs-setup
+
 ./mach try auto
 
 https://phabricator.services.mozilla.com/p/sefeng/
