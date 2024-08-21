@@ -39,6 +39,10 @@ https://www.freesvc.com/company
 
 https://app.mokahr.com/campus_apply/aqrose/38322#/jobs?location=%E5%8C%97%E4%BA%AC%E5%B8%82
 
+# 襄禾资本
+
+https://www.xianghecap.com/portfolio
+
 # funding
 
 https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/
