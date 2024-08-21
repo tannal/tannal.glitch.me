@@ -1,5 +1,7 @@
 # dev
 
+RUST_BACKTRACE=1
+
 unused pref
 
 webrender

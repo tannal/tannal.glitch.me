@@ -1,4 +1,11 @@
 
+
+https://ysyx.oscc.cc/docs/ics-pa/1.4.html#%E5%8D%95%E6%AD%A5%E6%89%A7%E8%A1%8C
+
+https://docs.qq.com/sheet/DYVBTb2FzUmNSSWVu?u=7e80683417974ca19ee2fd0fed634f56&tab=ss_tswbqf&viewId=vnucy5
+
+https://docs.qq.com/sheet/DRVl0RkxZY21ya1Zv?newPad=1&newPadType=clone&tab=ss_tswbqf&viewId=vnucy5&u=484deba84570491dba545958feb63eff
+
 针对"一生一芯"项目，我为您设计了一个为期一年的AI加速器开源设计研究计划。这个计划旨在利用该项目的资源和框架，开发一个专门用于加速深度学习模型的开源硬件加速器。以下是详细的研究计划：
 
 前期准备和学习（2个月）
