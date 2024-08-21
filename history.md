@@ -1,5 +1,140 @@
 # 2024-8-21
 
+nowcoder.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+FreesFund | 峰瑞资本
+https://www.freesvc.com/article
+
+Lightelligence-Lightelligence
+https://www.lightelligence.ai/index.php/join.html
+
+Lightelligence - Current Openings
+https://apply.workable.com/lightelligence/?lng=en
+
+上海肇观电子科技有限公司
+https://www.nextvpu.com/index.php?s=jobs&c=category&id=1
+
+投资 - 愉悦资本
+https://www.joycapital.com.cn/?s=index/invested/index
+
+欢迎进入今日资本集团
+http://www.capitaltoday.com/case.html
+
+投资公司 – 金沙江创投
+https://gsrventureschina.com/portfolio-3
+
+MobileGo – 金沙江创投
+https://gsrventureschina.com/details/mobile-go
+
+FreesFund | 峰瑞资本
+https://www.freesvc.com/company
+
+Engineering | Uber Careers
+https://www.uber.com/us/en/careers/teams/engineering/?uclick_id=58dac453-3fb4-491e-9a5d-752694fc91f9
+
+投资企业-襄禾资本
+https://www.xianghecap.com/portfolio
+
+极石汽车丨极石01
+https://www.roxmotor.com/home
+
+存储开发工程师
+https://www.szsandstone.com/position/13
+
+加入我们 - 数说故事DataStory
+https://www.datastory.com.cn/about/joinus
+
+阿丘科技-工业AI视觉平台及解决方案提供商
+https://www.aqrose.com/
+
+阿丘科技-期待你的加入
+https://app.mokahr.com/campus_apply/aqrose/38322#/?anchorName=7062739121&sourceToken=
+
+阿丘科技-期待你的加入
+https://app.mokahr.com/campus_apply/aqrose/38322#/job/1dc29421-8983-4a16-b95e-f31ddf5702b2
+
+阿丘科技交流讨论-牛客网
+https://www.nowcoder.com/enterprise/9821/interview
+
+阿丘科技 高性能 一面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/2f0f498012914274a7455d2689d50c63?sourceSSR=enterprise
+
+赛文X - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/125006155
+
+【鹅内推】腾讯2025校招/社招/实习生_牛客网
+https://www.nowcoder.com/feed/main/detail/3a2fd00c506f474e8daa54b2fefb256e?sourceSSR=users
+
+赛文X - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/125006155
+
+警惕Offer陷阱_牛客网
+https://www.nowcoder.com/feed/main/detail/edf2377a83b14b6fa601d1c27e64c137?sourceSSR=users
+
+赛文X - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/125006155
+
+除了Java，大厂有哪些小众方向可以冲？_牛客网
+https://www.nowcoder.com/feed/main/detail/3b9cdc5c893b451786fdf60224cdfbb2?sourceSSR=users
+
+新人Landing应该注意什么？_牛客网
+https://www.nowcoder.com/discuss/641226531099906048?sourceSSR=users
+
+赛文X - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/125006155
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Plug and Play
+https://www.plugandplaytechcenter.com/
+
+StartX Programs
+https://web.startx.co/programs
+
+Grant Account Access
+https://phabricator.services.mozilla.com/conduit/login/
+
+D219053: Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzFNjGplzFckNCmJBlsZZXxfp
+
+Matrix - MozillaWiki
+https://wiki.mozilla.org/Matrix
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-test-a-change-remotely
+
+Grant Account Access
+https://phabricator.services.mozilla.com/conduit/login/
+
+AngelPad – #1 U.S Accelerator based in SF and NYC
+https://angelpad.com/
+
+Techstars Global Startup Network | Better for Founders
+https://www.techstars.com/
+
+Sales Execution Platform | Outreach
+https://www.outreach.io/
+
+Job Board – Latch
+https://www.latch.com/pages/job-board
+
+Sr. Frontend Engineer | HelloTech - Latch - Career Page
+https://latch.applytojob.com/apply/bYS5cmUoK0/Sr-Frontend-Engineer-HelloTech?source=Our%20Career%20Page%20Widget
+
+Jobs at Newsela
+https://boards.greenhouse.io/newsela
+
+技术运营-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E6%8A%80%E6%9C%AF%E8%BF%90%E8%90%A5&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+腾讯ieg技术运营一面_牛客网
+https://www.nowcoder.com/feed/main/detail/3b3417fed68548368de39ac34fcf517f?sourceSSR=search
+
+谢小霖 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/341549900
+
 money.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
