@@ -1,5 +1,149 @@
 # 2024-8-21
 
+money.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Doocs
+https://github.com/doocs
+
+doocs/source-code-hunter: 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+https://github.com/doocs/source-code-hunter?tab=readme-ov-file
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPTIGCAYQRRg90gEHNjY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - zany robot
+https://github.com/codespaces/zany-robot-r444qvxr4g7j2xxq?editor=vscode
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+tannal (tannal)
+https://github.com/tannal/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/tannal/gecko-dev
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+黑神话：悟空 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA
+
+epic games - Google 搜索
+https://www.google.com/search?q=epic+games&rlz=1C1GCEA_enJP1090JP1090&oq=epic+games&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgcIBRAAGIAEMgkIBhAAGAwYgAQyBwgHEAAYgAQyBwgIEC4YgAQyCQgJEAAYDBiABNIBCDIwNTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Unreal Engine 4 is now available to everyone for free | Hacker News
+https://news.ycombinator.com/item?id=9132815
+
+folgerwang/UnrealEngine: mirror of unreal engine 4.22
+https://github.com/folgerwang/UnrealEngine
+
+chaos-physics · GitHub Topics
+https://github.com/topics/chaos-physics?l=tex
+
+unreal 6 - Google 搜索
+https://www.google.com/search?q=unreal+6&rlz=1C1GCEA_enJP1090JP1090&oq=unreal+6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQLhhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzE4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tim Sweeney - Google 搜索
+https://www.google.com/search?q=Tim+Sweeney&rlz=1C1GCEA_enJP1090JP1090&oq=Tim+Sweeney&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Luke Wagner - Google 搜索
+https://www.google.com/search?q=Luke+Wagner&rlz=1C1GCEA_enJP1090JP1090&oq=Luke+Wagner&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Contributors to folgerwang/UnrealEngine
+https://github.com/folgerwang/UnrealEngine/graphs/contributors
+
+Work
+https://shaderbits.com/work
+
+Brian Karis - Google 搜索
+https://www.google.com/search?q=Brian+Karis&rlz=1C1GCEA_enJP1090JP1090&oq=Brian+Karis&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SIGGRAPH 2024 Links
+https://blog.selfshadow.com/2024/08/03/siggraph-2024-links/
+
+interactivecomputergraphics.com/SIGGRAPH/2024/
+https://www.interactivecomputergraphics.com/SIGGRAPH/2024/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Sébastien Miglio - Google 搜索
+https://www.google.com/search?q=S%C3%A9bastien+Miglio&rlz=1C1GCEA_enJP1090JP1090&oq=S%C3%A9bastien+Miglio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIE0gEHNDI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+登录 X / X
+https://x.com/i/flow/login?redirect_after_login=%2Fstevepolge
+
+Repository search results
+https://github.com/search?q=gpt2+language%3AC%2B%2B&type=repositories&l=C%2B%2B&p=2
+
+Yang Guo – Lead of Chrome Tooling – Google - Google 搜索
+https://www.google.com/search?q=Yang+Guo+%E2%80%93+Lead+of+Chrome+Tooling+%E2%80%93+Google&sca_esv=8948d4b0d9ea80cc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIM_aRaSDunr_6A0Y0h9G7UbhKFvw%3A1724248006631&ei=xu_FZpqiJtr00PEPxoO3-AE&ved=0ahUKEwiancKvnIaIAxVaOjQIHcbBDR8Q4dUDCA8&uact=5&oq=Yang+Guo+%E2%80%93+Lead+of+Chrome+Tooling+%E2%80%93+Google&gs_lp=Egxnd3Mtd2l6LXNlcnAiLllhbmcgR3VvIOKAkyBMZWFkIG9mIENocm9tZSBUb29saW5nIOKAkyBHb29nbGVIowFQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+Leszek Swirski - Google 搜索
+https://www.google.com/search?q=Leszek+Swirski&rlz=1C1GCEA_enJP1090JP1090&oq=Leszek+Swirski&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzcxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Codespaces - glowing chainsaw
+https://github.com/codespaces/glowing-chainsaw-9777r4xq77p9hxvp9?editor=vscode
+
+Ask HN: What do you guys think of the current job market in tech? | Hacker News
+https://news.ycombinator.com/item?id=41042816
+
+Site not found · GitHub Pages
+https://yangshun.github.io/tech-interview-handbook/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Profile of Ulan Degenbaev - Competitive Programming Hall Of Fame
+https://cphof.org/profile/topcoder:Ulan
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=YC%20S24&sort=byPopularity&type=story
+
+Undermind - AI-Powered Scientific Research Assistant
+https://www.undermind.ai/accounts/register/
+
+被投企业 - HongShan
+https://www.hongshan.com/companies/
+
+投资业务 - 创新工场
+https://www.chuangxin.com/investment
+
+关于我们-加入我们
+https://www.langboat.com/about?module=join
+
+蔡奇 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%94%A1%E5%A5%87#%E6%B8%85%E7%90%86%E5%8C%97%E4%BA%AC%E5%A4%96%E6%9D%A5%E4%BA%BA%E5%8F%A3%E4%B8%8E%E6%95%B4%E6%B2%BB%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E6%8E%92%E6%9F%A5%E6%95%B4%E6%94%B9%E8%A1%8C%E5%8A%A8
+
+五源资本
+https://www.5ycap.com/
+
+portfolio | IDG Capital
+https://idgcapital.com/portfolio
+
+Our team
+https://www.hillhouseinvestment.com/team/
+
+纪源资本
+https://www.jiyuancap.com/
+
+首页 | 森亿智能
+https://www.synyi.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

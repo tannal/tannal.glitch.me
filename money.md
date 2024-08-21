@@ -1,4 +1,24 @@
 
+# captial
+
+## IDG资本
+https://idgcapital.com/portfolio
+
+## 红杉资本
+https://www.hongshan.com/companies/
+
+## 创新工场
+https://www.chuangxin.com/investment
+
+- https://www.langboat.com/about?module=join
+
+## 五源资本
+https://www.5ycap.com/
+
+## 纪源资本
+
+https://www.jiyuancap.com/
+
 
 # funding
 
