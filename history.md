@@ -1,3 +1,137 @@
+# 2024-8-22
+
+graduate.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+项目概述 | 一生一芯
+https://ysyx.oscc.cc/project/intro.html
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/#%E6%95%99%E5%AD%A6%E8%B5%84%E6%BA%90
+
+异常处理和RT-Thread | 官方文档
+https://ysyx.oscc.cc/docs/2306/basic/1.6.html
+
+完成PA1 | 官方文档
+https://ysyx.oscc.cc/docs/2306/preliminary/0.6.html
+
+开天辟地的篇章 | 官方文档
+https://ysyx.oscc.cc/docs/ics-pa/1.2.html#%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E7%A8%8B%E5%BA%8F-%E7%A8%8B%E5%BA%8F%E6%98%AF%E4%B8%AA%E7%8A%B6%E6%80%81%E6%9C%BA
+
+数字电路基础实验 | 官方文档
+https://ysyx.oscc.cc/docs/2306/preliminary/0.5.html
+
+“一生一芯”学习记录表
+https://docs.qq.com/sheet/DT29weHpIRWNnYlFl?tab=uvrbw7
+
+ysyx_23060020-郭汪畅-中山大学-学习记录
+https://docs.qq.com/sheet/DRkhPWW9DVEdTYW9R?tab=BB08J2
+
+ysyx_23060026-林浩然-重庆邮电大学-学习记录
+https://docs.qq.com/sheet/DRmRLYnViWGNaQXRM?tab=ss_tswbqf&viewId=vnucy5
+
+ysyx_23060325-郭明轩-东华理工大学-学习记录
+https://docs.qq.com/sheet/DYVBTb2FzUmNSSWVu?u=7e80683417974ca19ee2fd0fed634f56&tab=ss_tswbqf&viewId=vnucy5
+
+文炫钧-上海科技大学-学习记录
+https://docs.qq.com/sheet/DRVl0RkxZY21ya1Zv?newPad=1&newPadType=clone&tab=ss_tswbqf&viewId=vnucy5&u=484deba84570491dba545958feb63eff
+
+“一生一芯”报名问卷
+https://fa45epzd9c7.feishu.cn/share/base/form/shrcn96EZ1pUYKJXtKdCgDhtsUd
+
+Sign up - WakaTime
+https://wakatime.com/signup
+
+【鹅内推】腾讯2025校招/社招/实习生_牛客网
+https://www.nowcoder.com/feed/main/detail/3a2fd00c506f474e8daa54b2fefb256e?sourceSSR=users
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/?
+
+哥布林大祭司 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/769999659
+
+【Offer选择】赛文Xの六边形评价（已更新60家公司_牛客网
+https://www.nowcoder.com/discuss/574585875573571584?sourceSSR=users
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D219711 Bug 1913978 - Add AsyncPanZoomController::ToCSSPoint and use it r?ajakobi
+https://phabricator.services.mozilla.com/D219711
+
+⚙ D219053 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+https://phabricator.services.mozilla.com/D219053
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#to-test-a-change-remotely
+
+♻ Build 791508
+https://phabricator.services.mozilla.com/harbormaster/build/791508/
+
+anyhow - crates.io: Rust Package Registry
+https://crates.io/crates/anyhow
+
+1364604 - ssh Permission denied (publickey)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1364604
+
+Configuring Authentication — Mozilla Version Control Tools 0 documentation
+https://mozilla-version-control-tools.readthedocs.io/en/latest/hgmozilla/auth.html
+
+NJU-ProjectN/nvboard: NJU Virtual Board
+https://github.com/NJU-ProjectN/nvboard
+
+NJU-ProjectN/nemu: NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching
+https://github.com/NJU-ProjectN/nemu
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Thanks%20so%20much%20for%20working%20on%20this.%20Please%20give%20this%20a%20run%20on%20our%20CI%20servers%20should%20you%20not%20have%20done%20that%2C%20yet.%20You%20can%20find%20out%20how%20here%20or%20contact%20me%20in%20this%20review%2C%20the%20bug%20ticket%20or%20the%20Mozilla%20Matrix%20chat.&op=translate
+
+Community Calendar - MozillaWiki
+https://wiki.mozilla.org/Community_Calendar#9:00a_-_SeaMonkey_.28biweekly.29
+
+UC Berkeley Architecture Research
+https://github.com/ucb-bar
+
+02_chipyard_basics.pdf
+https://fires.im/asplos23-slides-pdf/02_chipyard_basics.pdf
+
+Shiritai/README.md at main · Shiritai/Shiritai
+https://github.com/Shiritai/Shiritai/blob/main/README.md?plain=1
+
+AI computing Architecture and System (2024 spring) - Google 搜索
+https://www.google.com/search?q=AI+computing+Architecture+and+System+(2024+spring)&rlz=1C1GCEA_enJP1090JP1090&oq=AI+computing+Architecture+and+System+(2024+spring)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcxNTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jim Keller criticizes Nvidia's CUDA, x86 | Hacker News
+https://news.ycombinator.com/item?id=39480341
+
+jim keller github - Google 搜索
+https://www.google.com/search?q=jim+keller+github&rlz=1C1GCEA_enJP1090JP1090&oq=jim+keller+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQIxgnMgwIAhAjGCcYgAQYigUyEAgDEC4YiwMYmgMYqAMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MDg0ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+保罗·费耶阿本德 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BF%9D%E7%BD%97%C2%B7%E8%B4%B9%E8%80%B6%E9%98%BF%E6%9C%AC%E5%BE%B7
+
+Tenstorrent
+https://tenstorrent.com/
+
+riscv-ocelot/README-TT.md at bobcat · tenstorrent/riscv-ocelot
+https://github.com/tenstorrent/riscv-ocelot/blob/bobcat/README-TT.md
+
+BOOM: The Berkeley Out-of-Order RISC-V Processor
+https://github.com/riscv-boom
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tenstorrent/rocket-chip: Rocket Chip Generator
+https://github.com/tenstorrent/rocket-chip?tab=readme-ov-file
+
+Tech Reports | EECS at UC Berkeley
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-17.html
+
 # 2024-8-21
 
 nowcoder.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
