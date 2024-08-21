@@ -19,6 +19,25 @@ https://www.5ycap.com/
 
 https://www.jiyuancap.com/
 
+## 愉悦资本
+
+https://www.joycapital.com.cn/?s=index/invested/index
+
+## 今日资本
+
+http://www.capitaltoday.com/case.html
+
+## 金沙江创投
+
+https://gsrventureschina.com/portfolio-3
+
+## 峰瑞资本
+
+https://www.freesvc.com/company
+
+## 襄禾资本
+
+https://app.mokahr.com/campus_apply/aqrose/38322#/jobs?location=%E5%8C%97%E4%BA%AC%E5%B8%82
 
 # funding
 
