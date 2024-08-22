@@ -4,10 +4,14 @@
 
 # inbox
 
+host_softmax
+
 
 # dev
 
 git clone https://github.com/pytorch/pytorch.git
+
+
 
 # people
 

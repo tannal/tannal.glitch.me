@@ -1,4 +1,9 @@
+
+
 # inbox
+
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DGGML_DEBUG=1
 
 git clone https://github.com/karpathy/llm.c
 

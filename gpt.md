@@ -1,5 +1,24 @@
 
 
+卷积（Convolution）:
+GGML实现了1D和2D卷积转置操作，如GGML_OP_CONV_TRANSPOSE_1D和GGML_OP_CONV_TRANSPOSE_2D。
+
+池化（Pooling）:
+实现了1D和2D池化，如GGML_OP_POOL_1D和GGML_OP_POOL_2D。
+
+ReLU及其变体:
+实现了Leaky ReLU，如GGML_OP_LEAKY_RELU。
+
+注意力机制:
+实现了Flash Attention，如GGML_OP_FLASH_ATTN。
+
+归一化:
+实现了RMS归一化和组归一化，如GGML_OP_RMS_NORM和GGML_OP_GROUP_NORM。
+
+Softmax:
+实现了Softmax操作，如GGML_OP_SOFT_MAX。
+
+
 场景题1：设计一个可回退调试的编译器
 解决方案：
 
