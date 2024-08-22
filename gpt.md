@@ -1,4 +1,22 @@
+d) Cutter (https://github.com/rizinorg/cutter)
 
+    基于rizin的逆向工程平台
+    提供了复杂的代码分析和可视化功能
+
+e) DynamoRIO (https://github.com/DynamoRIO/dynamorio)
+
+    运行时代码操作系统
+    提供了动态插桩和代码转换功能
+
+h) Pin (https://software.intel.com/content/www/us/en/develop/articles/pin-a-dynamic-binary-instrumentation-tool.html)
+
+    Intel的动态二进制插桩工具
+    虽然不是完全开源，但提供了强大的动态分析能力
+
+i) Frida (https://github.com/frida/frida)
+
+    动态插桩工具包
+    提供了跨平台的动态代码注入和修改功能
 
 卷积（Convolution）:
 GGML实现了1D和2D卷积转置操作，如GGML_OP_CONV_TRANSPOSE_1D和GGML_OP_CONV_TRANSPOSE_2D。

@@ -1,5 +1,140 @@
 # 2024-8-22
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+DynamoRIO/dynamorio: Dynamic Instrumentation Tool Platform
+https://github.com/DynamoRIO/dynamorio
+
+Releases · rizinorg/cutter
+https://github.com/rizinorg/cutter/releases
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_d0ktdojd7g.html?ht=2&ischarge=true&lt=2&tvname=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E7%AC%AC28%E9%9B%86&vid=66cf53c3b8d61b3e8009ddd013677175&vtype=0&f_block=selector_bk&s2=wna_tvg_select&s3=wna_tvg_select&s4=28&vfrm=wna_tvg_1st&vfrmblk=wna_tvg_select&vfrmrst=18&pb2=bkt=&c1=&e=&fatherid=&position=1&r_area=&r_source=&recext=&sc1=&sqpid=&stype=&ab=8342_B,8401_A,8004_B,5257_B,8432_B,8497_B,8542_B,8665_E,6578_B,6312_B,6091_B,8690_D,8737_D,8739_B,8742_A,8760_B,8808_B,8812_B,6832_C,7074_C,7682_C,5924_D,6151_C,5468_B,8867_A,8871_A,8873_A,8883_B,8971_D,8983_B,7423_C,9082_A,7024_C,5592_B,6031_B,9117_C,6629_B,5670_B,9158_A,9167_C,9355_A,6082_B,5335_B,5465_B,6843_B,6050_B,6237_A,6249_C,7996_B,6704_C,6752_C,7332_B,7381_B,7581_A,8185_A
+
+riscv-ocelot/README-TT.md at bobcat · tenstorrent/riscv-ocelot
+https://github.com/tenstorrent/riscv-ocelot/blob/bobcat/README-TT.md
+
+riscv-ocelot/docs/Bobcat_Final_Presentation.pdf at bobcat · tenstorrent/riscv-ocelot
+https://github.com/tenstorrent/riscv-ocelot/blob/bobcat/docs/Bobcat_Final_Presentation.pdf
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+UCSBarchlab/OpenTPU: A open source reimplementation of Google's Tensor Processing Unit (TPU).
+https://github.com/UCSBarchlab/OpenTPU
+
+UCSBarchlab
+https://github.com/UCSBarchlab
+
+UCSBarchlab/ariane: The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
+https://github.com/UCSBarchlab/ariane
+
+Publications — UCSB ArchLab
+https://www.arch.cs.ucsb.edu/publications
+
+Open-Source Projects | NVIDIA Developer | NVIDIA Developer
+https://developer.nvidia.com/open-source
+
+sbt Reference Manual — 在 Linux 上安装 sbt
+https://www.scala-sbt.org/1.x/docs/zh-cn/Installing-sbt-on-Linux.html
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+Filament: Physically-based rendering engine | Hacker News
+https://news.ycombinator.com/item?id=17684286
+
+corysama's comments | Hacker News
+https://news.ycombinator.com/threads?id=corysama
+
+Screen Shot 2018-08-03 at 7.01.18 PM.png - Google 云端硬盘
+https://drive.google.com/file/d/1YVtcV-J0JrDyW2pJ6vwgEDsgjOEusyEH/view
+
+doersino/markdeep-slides: Build presentation slides with Markdeep and present them right in your browser.
+https://github.com/doersino/markdeep-slides
+
+jfalcou/presentations at meetup/munich_25_06_2020
+https://github.com/jfalcou/presentations/tree/meetup/munich_25_06_2020?tab=readme-ov-file
+
+Markdeep – plain text documents with diagrams, equations, and Markdown syntax | Hacker News
+https://news.ycombinator.com/item?id=22348190
+
+Monodraw for macOS — Helftone
+https://monodraw.helftone.com/
+
+dot-to-ascii
+https://dot-to-ascii.ggerganov.com/
+
+Zim - a desktop wiki
+https://zim-wiki.org/
+
+ASCIIFlow
+https://asciiflow.com/#/
+
+xkcd: Ten Thousand
+https://xkcd.com/1053/
+
+scala 2.13 - Google 搜索
+https://www.google.com/search?q=scala+2.13&sca_esv=72a77e0de43251b7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILxHE7uKaO_KuOEuZbKR3KJdCDfBA%3A1724299721901&ei=ybnGZoPQNp_6kPIP0a-UuQs&ved=0ahUKEwjD2KOD3YeIAxUfPUQIHdEXJbcQ4dUDCA8&uact=5&oq=scala+2.13&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnNjYWxhIDIuMTMyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSLETUKIDWMgFcAF4AZABAJgBlwKgAaAEqgEDMi0yuAEDyAEA-AEBmAIDoAKvBMICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjAuMqAHjwY&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+PHP Tags - PHP Basics
+https://frontendmasters.com/courses/php/php-tags/
+
+YouTube
+https://www.youtube.com/
+
+Cookies Overview - Web Security, v2
+https://frontendmasters.com/courses/web-security-v2/cookies-overview/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=documentry%20pytorch&sort=byPopularity&type=story
+
+https://www.youtube.com/watch?v=rgP_LBtaUEc
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DrgP_LBtaUEc&q=EhAmADwBAAAAAPA8lP_-silNGNP4nLYGIjA6xmeYiUVmOI3J8cMTazj7GfxRsfr6sjTL_ijzosXZmr8AINxbhvtV0J91lI-UaHwyAXJaAUM
+
+batchsize大小对训练速度的影响_batchsize越大训练越快吗-CSDN博客
+https://blog.csdn.net/weixin_43402775/article/details/108960129
+
+New Issue · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/new
+
+1711.05101v3
+https://arxiv.org/pdf/1711.05101v3
+
+Visualizing Convolutional Neural Networks | Layer by Layer - YouTube
+https://www.youtube.com/watch?v=JboZfxUjLSk
+
+loshchil/AdamW-and-SGDW: Decoupled Weight Decay Regularization (ICLR 2019)
+https://github.com/loshchil/AdamW-and-SGDW
+
+openai/gpt-2-output-dataset: Dataset of GPT-2 outputs for research in detection, biases, and more
+https://github.com/openai/gpt-2-output-dataset
+
+Pull requests · ggerganov/ggml
+https://github.com/ggerganov/ggml/pulls
+
+(26) Discord | #clang-built-linux | LLVM
+https://discord.com/channels/636084430946959380/852068286602281010
+
+深度学习之常用算子介绍_onnx 算子-CSDN博客
+https://blog.csdn.net/ueke1/article/details/137251005
+
+stonne/pytorch-frontend/aten/src/ATen/native/SoftMax.cpp at 633fa5322e4976c377b14b2d717f3f2adcd8aa51 · stonne-simulator/stonne
+https://github.com/stonne-simulator/stonne/blob/633fa5322e4976c377b14b2d717f3f2adcd8aa51/pytorch-frontend/aten/src/ATen/native/SoftMax.cpp#L15
+
+插桩 - Google 搜索
+https://www.google.com/search?q=%E6%8F%92%E6%A1%A9&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%8F%92%E6%A1%A9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0OTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Boxing an inline equation shifts the baseline · Issue #4796 · typst/typst
+https://github.com/typst/typst/issues/4796
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
