@@ -1,3 +1,136 @@
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+riscv-ocelot/README-TT.md at bobcat · tenstorrent/riscv-ocelot
+https://github.com/tenstorrent/riscv-ocelot/blob/bobcat/README-TT.md
+
+riscv-ocelot/docs/Bobcat_Final_Presentation.pdf at bobcat · tenstorrent/riscv-ocelot
+https://github.com/tenstorrent/riscv-ocelot/blob/bobcat/docs/Bobcat_Final_Presentation.pdf
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+UCSBarchlab/OpenTPU: A open source reimplementation of Google's Tensor Processing Unit (TPU).
+https://github.com/UCSBarchlab/OpenTPU
+
+UCSBarchlab
+https://github.com/UCSBarchlab
+
+UCSBarchlab/ariane: The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
+https://github.com/UCSBarchlab/ariane
+
+Publications — UCSB ArchLab
+https://www.arch.cs.ucsb.edu/publications
+
+Open-Source Projects | NVIDIA Developer | NVIDIA Developer
+https://developer.nvidia.com/open-source
+
+sbt Reference Manual — 在 Linux 上安装 sbt
+https://www.scala-sbt.org/1.x/docs/zh-cn/Installing-sbt-on-Linux.html
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+Filament: Physically-based rendering engine | Hacker News
+https://news.ycombinator.com/item?id=17684286
+
+corysama's comments | Hacker News
+https://news.ycombinator.com/threads?id=corysama
+
+Screen Shot 2018-08-03 at 7.01.18 PM.png - Google 云端硬盘
+https://drive.google.com/file/d/1YVtcV-J0JrDyW2pJ6vwgEDsgjOEusyEH/view
+
+doersino/markdeep-slides: Build presentation slides with Markdeep and present them right in your browser.
+https://github.com/doersino/markdeep-slides
+
+jfalcou/presentations at meetup/munich_25_06_2020
+https://github.com/jfalcou/presentations/tree/meetup/munich_25_06_2020?tab=readme-ov-file
+
+Markdeep – plain text documents with diagrams, equations, and Markdown syntax | Hacker News
+https://news.ycombinator.com/item?id=22348190
+
+Monodraw for macOS — Helftone
+https://monodraw.helftone.com/
+
+dot-to-ascii
+https://dot-to-ascii.ggerganov.com/
+
+Zim - a desktop wiki
+https://zim-wiki.org/
+
+ASCIIFlow
+https://asciiflow.com/#/
+
+xkcd: Ten Thousand
+https://xkcd.com/1053/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+scala 2.13 - Google 搜索
+https://www.google.com/search?q=scala+2.13&sca_esv=72a77e0de43251b7&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILxHE7uKaO_KuOEuZbKR3KJdCDfBA%3A1724299721901&ei=ybnGZoPQNp_6kPIP0a-UuQs&ved=0ahUKEwjD2KOD3YeIAxUfPUQIHdEXJbcQ4dUDCA8&uact=5&oq=scala+2.13&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnNjYWxhIDIuMTMyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSLETUKIDWMgFcAF4AZABAJgBlwKgAaAEqgEDMi0yuAEDyAEA-AEBmAIDoAKvBMICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjAuMqAHjwY&sclient=gws-wiz-serp
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+(13) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+(3) Kentaro Hara (@xharaken) / X
+https://x.com/xharaken
+
+MarybethGasman (Gasman)
+https://github.com/MarybethGasman
+
+quickjs-ng/quickjs: QuickJS, the Next Generation: a mighty JavaScript engine
+https://github.com/quickjs-ng/quickjs
+
+(3) vsh🛡️⚔️ on X: "My destroyed house after 6 days of cleaning #RussiaIsATerroristState #UkraineWillPrevail https://t.co/IfTr704elN" / X
+https://x.com/vshymanskyy/status/1568657607229075456
+
+(3) Jim Keller on X: "600 lines of code, nice https://t.co/WZw5lCJQhg @realGeorgeHotz" / X
+https://x.com/jimkxa/status/1780620644859642024
+
+tinygrad/examples/stable_diffusion.py at master · tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad/blob/master/examples/stable_diffusion.py
+
+Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+(3) Brian Karis (@BrianKaris) / X
+https://x.com/briankaris
+
+SIGGRAPH 2024 Links
+https://blog.selfshadow.com/2024/08/03/siggraph-2024-links/
+
+[Ebook]-Building Production-Grade Web Applications with Supabase By David Lorenz - TutFlix - Free Education Community
+https://tutflix.org/resources/ebook-building-production-grade-web-applications-with-supabase-by-david-lorenz.10931/
+
+MEGA
+https://mega.nz/folder/K5RmFBZR#LEo-ekouyrUexERXSsilOQ
+
+(3) Yang Guo @hashseed@mas.to (@hashseed) / X
+https://x.com/hashseed
+
+(3) Leszek Swirski (@leszekswirski) / X
+https://x.com/leszekswirski
+
+(3) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+唐朝诡事录-电视剧全集-完整版视频在线观看-爱奇艺
+https://www.iqiyi.com/v_xydsgxneps.html?vfrm=3&vfrmblk=pca_115_number_enlarge&vfrmrst=0
+
 # 2024-8-22
 
 graduate.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
