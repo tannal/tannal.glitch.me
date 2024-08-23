@@ -1,5 +1,7 @@
 # inbox
 
+gh workflow run "LLVM Project Tests" --ref main
+
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-18/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
 ln -sfn /build/compile_commands.json compile_commands.json
 

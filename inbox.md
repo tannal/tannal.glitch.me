@@ -1,8 +1,8 @@
+# 2024-8-23 0 | 0 W
+
+git cherry-pick f4eddcbb48a785cc0680b7d88deb24ef4287e815
+
 # 2024-8-22 0 | 0 W
-
-
-
-
 
 echo "deb https://repo.scala-sbt.org/scalasbt/debian all main" | sudo tee /etc/apt/sources.list.d/sbt.list
 echo "deb https://repo.scala-sbt.org/scalasbt/debian /" | sudo tee /etc/apt/sources.list.d/sbt_old.list
