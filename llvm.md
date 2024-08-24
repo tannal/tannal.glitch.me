@@ -191,6 +191,13 @@ int main() {
 ```
 # LLVM tutor
 
+```bash
+wget -O - https://apt.llvm.org/llvm-snapshot.gpg.key | sudo apt-key add -
+sudo apt-add-repository "deb http://apt.llvm.org/jammy/ llvm-toolchain-jammy-17 main"
+sudo apt-get update
+sudo apt-get install -y llvm-17 llvm-17-dev llvm-17-tools clang-17 mlir-17 mlir-17-tools
+```
+
 $LLVM_DIR/bin/clang -O1 -S -emit-llvm ./inputs/input_for_hello.c -o input_for_hello.ll
 
 ```bash
