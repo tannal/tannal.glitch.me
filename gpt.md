@@ -1,6 +1,41 @@
 
 
 
+    定制硬件加速:
+    许多大公司会开发专门的AI芯片或FPGA解决方案,以获得最佳的推理性能。例如,Google的TPU、Tesla的DOJO芯片等。
+
+    分布式推理:
+    使用大规模集群进行分布式推理,如DeepSpeed-Inference、Megatron-LM等框架。
+
+    模型优化:
+        模型压缩:如量化、剪枝、知识蒸馏等。
+        模型架构优化:如FastTransformer、FasterTransformer等。
+
+    高性能推理引擎:
+        NVIDIA的TensorRT
+        Intel的OpenVINO
+        自研推理引擎,如Facebook的Caffe2go
+
+    缓存和预计算:
+    对常见查询结果进行缓存,或预计算部分结果以加速推理。
+
+    动态批处理:
+    智能地将多个请求合并成批处理,以提高GPU利用率。
+
+    模型服务化:
+    使用如Triton Inference Server、TorchServe等专业的模型服务框架。
+
+    异构计算:
+    结合CPU、GPU、TPU等不同硬件的优势。
+
+    低精度推理:
+    使用FP16、INT8等低精度格式进行推理,在保证精度的同时提高性能。
+
+    流水线并行:
+    将模型分割成多个阶段,在不同设备上并行执行。
+
+
+
 Chisel/FIRRTL
 Chisel是一个用Scala编写的硬件构造语言，而FIRRTL是其中间表示。虽然Chisel/FIRRTL本身不是基于CIRCT的，但CIRCT项目正在开发与FIRRTL的互操作性。
 
