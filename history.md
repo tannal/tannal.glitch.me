@@ -1,3 +1,159 @@
+# 2024-8-24
+
+xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(832) #gpu > Sparse strip path rendering - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Sparse.20strip.20path.20rendering
+
+Sparse strip path rendering · Issue #670 · linebender/vello
+https://github.com/linebender/vello/issues/670
+
+How to Do 90% of What Plugins Do (With Just Vim) - YouTube
+https://www.youtube.com/watch?v=XA2WjJbmmoM
+
+TodoMVC
+https://todomvc.com/
+
+Issues · gothinkster/realworld
+https://github.com/gothinkster/realworld/issues
+
+#general > Does wasmtime support WasmGC? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Does.20wasmtime.20support.20WasmGC.3F
+
+(193) #general > Run Speedometer on Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Run.20Speedometer.20on.20Servo
+
+layout: Add support for flex items with `position: relative` (#33151) · servo/servo@2db9032
+https://github.com/servo/servo/commit/2db9032e72bda6108b4eb5988eaf164141a61d64
+
+(27) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Configuring Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/configuration.html
+
+Codespaces
+https://github.com/codespaces
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Examples: add ggml training for MNIST by JohannesGaessler · Pull Request #908 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/908#issuecomment-2304585418
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+151. 反转字符串中的单词 - 力扣（LeetCode）
+https://leetcode.cn/problems/reverse-words-in-a-string/submissions/557895114/?envType=study-plan-v2&envId=leetcode-75
+
+GitHub
+https://github.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Codespaces
+https://github.com/codespaces
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed?tab=readme-ov-file
+
+为什么没有租房app - Google 搜索
+https://www.google.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%A7%9F%E6%88%BFapp&sca_esv=ea2cb3181ae7dcdc&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIcHyGEZag5kd8Fk3SrBQL_KsHyLA%3A1724383836711&ei=XALIZuaKK_S80PEPiJm3mAU&ved=0ahUKEwjmqKywloqIAxV0HjQIHYjMDVMQ4dUDCA8&uact=5&oq=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%A7%9F%E6%88%BFapp&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOS4uuS7gOS5iOayoeacieenn-aIv2FwcDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI3RhQAFjGF3AAeAGQAQCYAdgCoAHiJKoBBjItMTIuNLgBA8gBAPgBAZgCDKACqhzCAgoQIxiABBgnGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBxAAGIAEGAyYAwCSBwUyLTcuNaAH100&sclient=gws-wiz-serp
+
+Eric Schmidt deleted Stanford interview | Hacker News
+https://news.ycombinator.com/item?id=41287014
+
+Comparing nodejs:main...tannal:blob-fastapi · nodejs/node
+https://github.com/nodejs/node/compare/main...tannal:node:blob-fastapi
+
+llvm/circt: Circuit IR Compilers and Tools
+https://github.com/llvm/circt
+
+Github pull requests
+https://buildkite.com/llvm-project/github-pull-requests
+
+Democratizing High-Performance DSL Development with BuildIt by Ajay Brahmakshatriya - YouTube
+https://www.youtube.com/watch?v=t6yyZrPxdy4
+
+Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc
+
+Workflow runs · tannal/node
+https://github.com/tannal/node/actions
+
+git删除中间某次提交 - qiqi715 - 博客园
+https://www.cnblogs.com/qiqi715/p/11540999.html
+
+Workflow runs · tannal/llvm-project
+https://github.com/tannal/llvm-project/actions
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/
+
+InstCombine of is.fpclass pessimizes codegen for comparison with fast math flags · Issue #104597 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/104597
+
+tannal/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/tannal/gecko-dev
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal/gecko-dev at pixel
+https://github.com/tannal/gecko-dev/tree/pixel
+
+k0kubun (Takashi Kokubun)
+https://github.com/k0kubun
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=true&query=anthropic&sort=byPopularity&type=story
+
+courses/prompt_engineering_interactive_tutorial at master · anthropics/courses
+https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+node-test-binary-windows-js-suites/RUN_SUBSET=0,nodes=win11-COMPILED_BY-vs2019 #29477 test - test-dns [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/RUN_SUBSET=0,nodes=win11-COMPILED_BY-vs2019/lastCompletedBuild/testReport/(root)/parallel/test_dns/
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355/files#diff-f75d7f53e0dbb5033126f9e985a67109aecee73364c6f41e6e2c125178ab48bb
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355
+
+node-test-binary-windows-js-suites » 2,win2016-COMPILED_BY-vs2022-x86 #29477 [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/RUN_SUBSET=2,nodes=win2016-COMPILED_BY-vs2022-x86/29477/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+(193) #general > (no topic) - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.28no.20topic.29
+
+"CIRCT: Open Source Circuit IR Compilers and Tools" - Mike Urbach (Latch-Up 2023) - YouTube
+https://www.youtube.com/watch?v=w_W0_Z3n9PA
+
+# 2024-8-23
+
+
+
 # 2024-8-22
 
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
