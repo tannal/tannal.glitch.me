@@ -1,5 +1,80 @@
 # 2024-8-24
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(767) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
+
+Rust Graphics Mages
+https://github.com/gfx-rs
+
+Contributors to gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/graphs/contributors
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byPopularity&type=story
+
+PathMonoid - Google 搜索
+https://www.google.com/search?q=PathMonoid&rlz=1C1GCEA_enJP1090JP1090&oq=PathMonoid&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Contributors to rust-windowing/winit
+https://github.com/rust-windowing/winit/graphs/contributors
+
+voxell-tech repositories
+https://github.com/orgs/voxell-tech/repositories
+
+Implement adapter expiry · Issue #6062 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/6062
+
+LLVM Debian/Ubuntu packages
+https://apt.llvm.org/
+
+leveraging-mlir-to-design-for-aie-fccm-2023.pdf
+https://www.xilinx.com/content/dam/xilinx/publications/presentations/leveraging-mlir-to-design-for-aie-fccm-2023.pdf
+
+mlir install - Google 搜索
+https://www.google.com/search?q=mlir+install&rlz=1C1GCEA_enJP1090JP1090&oq=mlir+install&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDM5NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+单相思 aimer - Google 搜索
+https://www.google.com/search?q=%E5%8D%95%E7%9B%B8%E6%80%9D+aimer+&sca_esv=ba9c76241f1fe624&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ5jkvgnhxuhQNrM9X3lGfFqhY4ww%3A1724466169258&ei=-UPJZrCuD93v0PEPyZHr4QQ&ved=0ahUKEwjwjsiLyYyIAxXdNzQIHcnIOkwQ4dUDCA8&uact=5&oq=%E5%8D%95%E7%9B%B8%E6%80%9D+aimer+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOWNleebuOaAnSBhaW1lciAyBxAAGIAEGAwyBBAAGB4yCBAAGIAEGKIEMgYQABgIGB4yCBAAGIAEGKIESM20KVDcH1i2PXACeAGQAQCYAdsCoAHtBKoBBTItMS4xuAEDyAEA-AEBmAIEoAL_BMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIFEC4YgATCAhQQLhiABBiXBRjcBBjeBBjgBNgBAZgDAIgGAZAGCLoGBggBEAEYFJIHBzIuMC4xLjGgB40I&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E4%BE%8B%E3%81%88%E3%81%B0%0A%E5%90%9B%E3%81%AE%0A%0A%E9%A1%94%E3%81%AB%E6%98%94%E3%82%88%E3%82%8A%E3%82%B7%E3%83%AF%E3%81%8C%E5%A2%97%E3%81%88%E3%81%A6%E3%82%82%20%E3%81%9D%E3%82%8C%E3%81%A7%E3%82%82%E3%81%84%E3%81%84%E3%82%93%E3%81%A0%0A%0A&op=translate
+
+syl22-00/pocketsphinx.js: Speech recognition in JavaScript and WebAssembly
+https://github.com/syl22-00/pocketsphinx.js
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=keypairs
+
+Issues · llvm/circt
+https://github.com/llvm/circt/issues?q=is%3Aissue+is%3Aopen+FIRRTL
+
+iml130/mlir-emitc: Conversions to MLIR EmitC
+https://github.com/iml130/mlir-emitc
+
+How to Do 90% of What Plugins Do (With Just Vim) - YouTube
+https://www.youtube.com/watch?v=XA2WjJbmmoM
+
+カタオモイ歌詞 - Google 搜索
+https://www.google.com/search?q=%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%E6%AD%8C%E8%A9%9E&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%E6%AD%8C%E8%A9%9E+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYBRgeMgoIBBAAGAUYDBgeMgoIBRAAGAQYBRgeMgoIBhAAGAQYBRgeMggIBxAAGAUYHjIKCAgQABgEGAUYHtIBCTIzOTk3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=%E5%90%88%E5%B9%B6K%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8
+
+LCR 078. 合并 K 个升序链表 - 力扣（LeetCode）
+https://leetcode.cn/problems/vvXgSW/
+
 xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
