@@ -3,6 +3,111 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+PABannier/bark.cpp: Suno AI's Bark model in C/C++ for fast text-to-speech
+https://github.com/PABannier/bark.cpp
+
+单相思（2016年Aimer演唱的歌曲）_百度百科
+https://baike.baidu.com/item/%E5%8D%95%E7%9B%B8%E6%80%9D/20103737
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%81%8C&op=translate
+
+【Aimer】カタオモイ【中、日、羅歌詞】 - tsukilsao319的創作 - 巴哈姆特
+https://home.gamer.com.tw/creationDetail.php?sn=4677050
+
+tannal/bagu - bagu - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bagu
+
+大模型算法面经-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AE%97%E6%B3%95%E9%9D%A2%E7%BB%8F&type=all&searchType=%E7%9B%B8%E5%85%B3%E6%90%9C%E7%B4%A2&subType=0
+
+字节大模型二面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/6f98a769a3dd479aa734a5bb28a42be0?sourceSSR=search
+
+什么都不会啊5 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/339095302
+
+滴滴 提前批 国际化地图 算法 四面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/a7209860186d440cad00634964785d42?sourceSSR=search
+
+Devs008 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/630097099
+
+百度 商业AIGC 二面 逆天面试官_牛客网
+https://www.nowcoder.com/feed/main/detail/8d8081e9a0a94caaaf961f40a6f9540a?sourceSSR=users
+
+Devs008 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/630097099
+
+商汤科技 AI先锋计划 二面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/560015200e93430c86fa249294c8b0bb?sourceSSR=users
+
+找不到实习的大摆子 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/113246935
+
+oppo 笔试题求教_牛客网
+https://www.nowcoder.com/feed/main/detail/7747c92ebfcb4950a4b35eb77d4e4527?sourceSSR=users
+
+文远知行一面_牛客网
+https://www.nowcoder.com/feed/main/detail/97c1bbebd67843e3bbab68d26139f9c0?sourceSSR=users
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/users/113246935
+
+商汤后端（大模型落地）一面_牛客网
+https://www.nowcoder.com/feed/main/detail/dd122b09178e4b359b14e8c819b5f0a6?sourceSSR=users
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+How to run tests · Issue #923 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/923
+
+vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs
+https://github.com/vllm-project/vllm
+
+vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention | Hacker News
+https://news.ycombinator.com/item?id=36409082
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp%20vllm&type=code
+
+Issues · microsoft/DeepSpeed
+https://github.com/microsoft/DeepSpeed/issues
+
+AMD launches new AI chips to take on leader Nvidia | Reuters
+https://www.reuters.com/technology/amd-launches-new-ai-chips-take-leader-nvidia-2024-06-03/
+
+Versal AI Core Series
+https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal/ai-core-series.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=versal&sort=byPopularity&type=story
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+Is ggml support RAG？ · Issue #888 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/888
+
+Feature Request: IGPU or NPU support for embedding use cases · Issue #8755 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/8755
+
+curvedinf/dir-assistant: Chat with your current directory's files using a local or API LLM.
+https://github.com/curvedinf/dir-assistant
+
+BAAI/bge-reranker-large · Hugging Face
+https://huggingface.co/BAAI/bge-reranker-large
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (767) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
 https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
 
