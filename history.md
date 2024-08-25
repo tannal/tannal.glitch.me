@@ -1,3 +1,165 @@
+# 2024-8-26
+
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+machine-learning-interview-questions/list_of_questions_deep_learning.md at master · Sroy20/machine-learning-interview-questions
+https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md
+
+High Scalability
+https://highscalability.com/
+
+Tab Completion
+https://xanthir.com/blog/
+
+Editor support - The Servo Book
+https://book.servo.org/hacking/editor-support.html
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Issue search results
+https://github.com/search?q=repo%3Ajeertmans%2Fmanim-slides+Cairo&type=issues
+
+Manim Slides documentation
+https://manim-slides.eertmans.be/latest/
+
+ModuleNotFoundError: No module named 'pkg_resources' · Issue #2127 · 3b1b/manim
+https://github.com/3b1b/manim/issues/2127
+
+oss 免费 - Google 搜索
+https://www.google.com/search?q=oss+%E5%85%8D%E8%B4%B9&rlz=1C1GCEA_enJP1090JP1090&oq=oss+%E5%85%8D%E8%B4%B9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2MDNqMGo5qAIAsAIB&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=ja&text=%E5%BC%95%E6%93%8E&op=translate
+
+きんり - Google 搜索
+https://www.google.com/search?q=%E3%81%8D%E3%82%93%E3%82%8A&sca_esv=442ff8e4c6d9f12b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII2VatmLL6-uUnzwYJfMvtpB1xPPA:1724594882079&ei=wjrLZsDEBPui0PEPwf_m6QQ&start=10&sa=N&sstk=AagrsuiU8YUG6EsHHqoMEhX9bpJhG6A3EwrwJd-W-INuydOxwWM9HJ3IkferT5duYxY_HH1bS3H7FQx6k8h922QeNmRytTsMc4BQ7Q&ved=2ahUKEwjArc_KqJCIAxV7ETQIHcG_OU0Q8tMDegQIBhAE&biw=1536&bih=703&dpr=1.25
+
+ちゅーおー ぎんおー - Google 搜索
+https://www.google.com/search?q=%E3%81%A1%E3%82%85%E3%83%BC%E3%81%8A%E3%83%BC+%E3%81%8E%E3%82%93%E3%81%8A%E3%83%BC&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%81%A1%E3%82%85%E3%83%BC%E3%81%8A%E3%83%BC%E3%80%80%E3%81%8E%E3%82%93%E3%81%8A%E3%83%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5ODJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ぎんこー - Google 搜索
+https://www.google.com/search?q=%E3%81%8E%E3%82%93%E3%81%93%E3%83%BC&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%81%8E%E3%82%93%E3%81%93%E3%83%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+WebKit機能フラグ - Google 搜索
+https://www.google.com/search?q=WebKit%E6%A9%9F%E8%83%BD%E3%83%95%E3%83%A9%E3%82%B0&sca_esv=442ff8e4c6d9f12b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILLKpcnBTjXDO6H1d7gb1V40qCl4g%3A1724595534245&ei=Tj3LZtXYDsXa0PEP1cuYkQM&oq=webkit+%E7%B8%81%E8%B5%B7&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXdlYmtpdCDnuIHotbcqAggAMgoQABiwAxjWBBhHSKIfUIUCWK8XcAJ4AJABAJgBlwKgAbcGqgEDMi0zuAEDyAEA-AEBmAIDoAKlAsICBBAjGCfCAgoQIxiABBgnGIoFwgIIEAAYgAQYywGYAwCIBgGQBgGSBwUyLjAuMaAHvwo&sclient=gws-wiz-serp
+
+python - No module named pkg_resources - Stack Overflow
+https://stackoverflow.com/questions/7446187/no-module-named-pkg-resources
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Windows - Manim Community v0.18.1
+https://docs.manim.community/en/stable/installation/windows.html
+
+python - How to tell tox to use PyPI mirrors for installing packages? - Stack Overflow
+https://stackoverflow.com/questions/16471269/how-to-tell-tox-to-use-pypi-mirrors-for-installing-packages
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Releases · opentoonz/opentoonz
+https://github.com/opentoonz/opentoonz/releases
+
+Godot Engine - Google 搜索
+https://www.google.com/search?q=Godot+Engine&sca_esv=442ff8e4c6d9f12b&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIITgKsmiSRikXO99vQHmSGojc_l1Q%3A1724596588035&ei=bEHLZr3xAd6o0PEP1P-1AQ
+
+Releases · synfig/synfig
+https://github.com/synfig/synfig/releases
+
+Processing Foundation
+https://github.com/processing
+
+godotengine/godot-demo-projects: Demonstration and Template Projects
+https://github.com/godotengine/godot-demo-projects
+
+(765) #gpu > Emoji rendering - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Emoji.20rendering
+
+vello/examples/with_winit/Cargo.toml at main · linebender/vello
+https://github.com/linebender/vello/blob/main/examples/with_winit/Cargo.toml
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1914532
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/f6fa2fdaed58ece12d4c6bc95dc5901ec22a4d05/modules/libpref/init/StaticPrefList.yaml#8614-8617
+
+字节跳动产品 - Google 搜索
+https://www.google.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%BA%A7%E5%93%81&sca_esv=33efa13a2b517c28&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILUtp04WeoQyan2kRZiaNLB-x2Ohw%3A1724599101121&ei=PUvLZreHB-Lx0PEPzqqOkA4&ved=0ahUKEwj3mbWmuJCIAxXiODQIHU6VA-IQ4dUDCA8&uact=5&oq=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%BA%A7%E5%93%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuWtl-iKgui3s-WKqOS6p-WTgTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIvh9QMVipD3ABeAGQAQCYAawKoAH2K6oBCzMtMS4yLjEuMC4zuAEDyAEA-AEBmAIDoALTBsICChAAGLADGNYEGEfCAgQQIxgnwgILEC4YgAQY0QMYxwGYAwCIBgGQBgqSBwcxLjMtMS4xoAeVHA&sclient=gws-wiz-serp
+
+Contributors to volcano-sh/volcano
+https://github.com/volcano-sh/volcano/graphs/contributors
+
+21.10. Deep Factorization Machines — Dive into Deep Learning 1.0.3 documentation
+https://d2l.ai/chapter_recommender-systems/deepfm.html
+
+d2l-ai/d2l-en: Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
+https://github.com/d2l-ai/d2l-en
+
+ggml/examples/simple at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/simple
+
+【Hackathon 7th】开源贡献个人挑战赛（偷跑版） · Issue #67603 · PaddlePaddle/Paddle
+https://github.com/PaddlePaddle/Paddle/issues/67603
+
+复现指南 - PaddleScience Docs
+https://paddlescience-docs.readthedocs.io/zh-cn/latest/zh/reproduction/#322
+
+community/hackathon/hackathon_7th/【Hackathon 7th】开源贡献个人挑战赛rfc需求列表.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9Brfc%E9%9C%80%E6%B1%82%E5%88%97%E8%A1%A8.md
+
+Club&Lab for PaddlePaddle contributors
+https://github.com/PFCCLab
+
+Dao-AILab/flash-attention: Fast and memory-efficient exact attention
+https://github.com/Dao-AILab/flash-attention
+
+DeminYu98/DiffCast: [CVPR 2024] Official implementation of "DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting"
+https://github.com/DeminYu98/DiffCast?tab=readme-ov-file
+
+2312.06734
+https://arxiv.org/pdf/2312.06734
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no14-crystal-diffusion-variational-autoencoder-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0
+
+ACEsuit/mace: MACE - Fast and accurate machine learning interatomic potentials with higher order equivariant message passing.
+https://github.com/ACEsuit/mace/tree/main
+
+lululxvi/deepxde: A library for scientific machine learning and physics-informed learning
+https://github.com/lululxvi/deepxde
+
+复现指南 - PaddleScience Docs
+https://paddlescience-docs.readthedocs.io/zh-cn/latest/zh/reproduction/#12-paddlescience
+
+kimi是哪个公司的 - Google 搜索
+https://www.google.com/search?q=kimi%E6%98%AF%E5%93%AA%E4%B8%AA%E5%85%AC%E5%8F%B8%E7%9A%84&sca_esv=33efa13a2b517c28&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKJIkcTrIn2fKPEf2HGvlXJLhHdkg%3A1724599856718&ei=ME7LZsrMK-Tn0PEP06SsgAI&oq=moonshot&gs_lp=Egxnd3Mtd2l6LXNlcnAiCG1vb25zaG90KgIIBzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jZF1AAWABwAXgAkAEAmAH7A6AB-wOqAQM1LTG4AQPIAQCYAgGgAgOYAwCIBgGQBgqSBwExoAe0BQ&sclient=gws-wiz-serp
+
+火山引擎-云上增长新动力
+https://www.volcengine.com/
+
+华子校招部门太多傻傻分不清？一图看懂华为业务架构，建议收藏_牛客网
+https://www.nowcoder.com/discuss/518754996536516608
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=bzMC9iiPNvkS
+
+Paddle: Baidu's open source deep learning framework | Hacker News
+https://news.ycombinator.com/item?id=12391344
+
+raould.github.io/pn0gstr0m/
+https://raould.github.io/pn0gstr0m/
+
+pn0gstr0m/src/levels.js at main · raould/pn0gstr0m
+https://github.com/raould/pn0gstr0m/blob/main/src/levels.js
+
 # 2024-8-25
 
 content.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
