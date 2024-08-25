@@ -25,6 +25,38 @@ swiftui/flutter engine
 
 # vello
 
+Subject: Potential for Vello to Support Animation Engines like Manim
+
+Dear Vello Community,
+
+I've been following the development of Vello with great interest, and I'm impressed by its potential as a high-performance GPU-accelerated 2D renderer. I'd like to propose an idea for discussion: the possibility of Vello supporting functionality similar to that required by animation engines like Manim.
+
+Currently, Manim uses Cairo for 2D rendering and OpenGL for 3D rendering. Two key components in Manim's rendering process are:
+
+1. Camera: Responsible for converting scenes into images
+2. SceneFileWriter: Writes rendered frames into video files
+
+Given Vello's capabilities, I believe it could potentially replace or complement these functionalities, particularly for 2D rendering. This could offer several advantages:
+
+- Improved performance through GPU acceleration
+- Potential for real-time rendering of complex scenes
+- Modernized API design that could simplify integration
+
+While Vello is primarily focused on 2D rendering, its high performance could potentially allow for more complex animations and effects that are currently challenging with traditional 2D renderers.
+
+Some questions for consideration:
+
+1. Is it feasible for Vello to implement a Camera-like functionality for scene-to-image conversion?
+2. Could Vello be extended to support frame generation for video output, perhaps in conjunction with a video encoding library?
+3. Are there any plans or interest in supporting animation-specific features that could benefit engines like Manim?
+
+I believe this could open up exciting possibilities for Vello in the realm of programmatic animation and educational content creation.
+
+Thank you for your time and consideration. I look forward to any thoughts or feedback on this idea.
+
+Best regards,
+[Your Name]
+
 Vello
 skia 
 2d rendering on gpu based on wgpu

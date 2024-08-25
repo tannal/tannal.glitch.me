@@ -1,8 +1,8 @@
 
 # 2024-8-25 0 | 0 W
 
-$PIP_INDEX_URL=
-PIP_EXTRA_INDEX_URL=https://server2/pypi/simple
+$env:PIP_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
+$env:PIP_EXTRA_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
 
 pip install manim -i https://pypi.tuna.tsinghua.edu.cn/simple
 

@@ -1,4 +1,74 @@
 
+
+
+GitHub 上的面试题集合：
+Front-end-Developer-Interview-Questions: https://github.com/h5bp/Front-end-Developer-Interview-Questions
+Back-End-Developer-Interview-Questions: https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+Android-Interview-Questions: https://github.com/MindorksOpenSource/android-interview-questions
+machine-learning-interview-questions: https://github.com/Sroy20/machine-learning-interview-questions
+System Design Primer：
+https://github.com/donnemartin/system-design-primer
+这个项目包含了大量系统设计的案例和问题，适合后端开发者。
+Grokking the System Design Interview：
+https://www.educative.io/courses/grokking-the-system-design-interview
+虽然是付费课程，但提供了很多真实的系统设计案例。
+ByteByteGo：
+https://bytebytego.com/
+Alex Xu 的系统设计解析，包括文章和视频。
+High Scalability：
+http://highscalability.com/
+分享各大公司的系统架构和设计案例。
+InfoQ：
+https://www.infoq.com/
+提供各种技术领域的深度文章和案例研究。
+掘金：
+https://juejin.cn/
+中文技术社区，有很多开发者分享实际工作中遇到的问题和解决方案。
+Stack Overflow：
+https://stackoverflow.com/
+虽然主要是问答平台，但可以搜索到很多实际工作中遇到的问题和解决方案。
+Medium：
+https://medium.com/
+有很多技术博客，分享实际工作中的经验和案例。
+Dev.to：
+https://dev.to/
+开发者社区，有很多人分享实际工作中的经验。
+Hacker News：
+https://news.ycombinator.com/
+虽然不是专门的技术网站，但经常有高质量的技术讨论。
+Reddit 的技术子版块：
+如 r/programming, r/webdev, r/MachineLearning 等。
+公众号和技术博客：
+很多资深工程师会在个人博客或公众号上分享工作中遇到的问题和解决方案。
+开源项目的 Issues 和 Discussions：
+查看大型开源项目的 issues 和讨论区，可以了解到很多实际问题。
+技术会议和演讲：
+如 QCon、Velocity 等技术大会的演讲往往会分享实际的工程问题。
+LinkedIn：
+关注行业内的技术专家，他们经常会分享工作中的经验。
+Twitter：
+很多技术大牛会在 Twitter 上分享他们的见解和经验。
+YouTube：
+有很多技术频道会讨论实际工作中的问题，如 Fireship、Traversy Media 等。
+对于特定领域：
+
+前端：
+
+CSS-Tricks (https://css-tricks.com/)
+Smashing Magazine (https://www.smashingmagazine.com/)
+后端：
+
+DZone (https://dzone.com/)
+Kubernetes 官方博客 (https://kubernetes.io/blog/)
+客户端（Android/iOS）：
+
+Ray Wenderlich (https://www.raywenderlich.com/)
+Android Developers Blog (https://android-developers.googleblog.com/)
+AI/机器学习：
+
+Papers With Code (https://paperswithcode.com/)
+Towards Data Science (https://towardsdatascience.com/)
+
 cmd.exe - 命令提示符
 regedit.exe - 注册表编辑器
 taskmgr.exe - 任务管理器
