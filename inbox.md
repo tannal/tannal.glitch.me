@@ -1,6 +1,7 @@
 
 # 2024-8-25 0 | 0 W
 
+
 $env:PIP_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
 $env:PIP_EXTRA_INDEX_URL="https://pypi.tuna.tsinghua.edu.cn/simple"
 
