@@ -1,3 +1,146 @@
+# 2024-8-25
+
+content.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+爱奇艺-在线视频网站-海量正版高清视频在线观看
+https://www.iqiyi.com/search/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C.html
+
+(721) #gpu > A cute encoding trick (for sparse strips) - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/A.20cute.20encoding.20trick.20.28for.20sparse.20strips.29
+
+hollinwilkins/scribe2d: Scribe2D Graphics
+https://github.com/hollinwilkins/scribe2d
+
+Xilem + vello + velato in flatland mmo - Google 文档
+https://docs.google.com/document/d/1Qu88Ot_0FapgmVVtIshs5K25cMF-I8X-jMB9Z9-eF1Q/edit
+
+Error compiling to cpu_arch = .spirv64 and os_tag = .vulkan · Issue #20454 · ziglang/zig
+https://github.com/ziglang/zig/issues/20454
+
+xilem/masonry/src/tree_arena.rs at be4a5bf5e897204ccac63efaa567961360f2ae2e · linebender/xilem
+https://github.com/linebender/xilem/blob/be4a5bf5e897204ccac63efaa567961360f2ae2e/masonry/src/tree_arena.rs#L22-L34
+
+networked physics - Google 搜索
+https://www.google.com/search?q=networked+physics&rlz=1C1GCEA_enJP1090JP1090&oq=networked+physics&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+eerwitt (eerwitt) / Repositories
+https://github.com/eerwitt?tab=repositories
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+274. H 指数 - 力扣（LeetCode）
+https://leetcode.cn/problems/h-index/?envType=study-plan-v2&envId=top-interview-150
+
+std::accumulate - cppreference.com
+https://en.cppreference.com/w/cpp/algorithm/accumulate
+
+Python string length | len() function to find string length - GeeksforGeeks
+https://www.geeksforgeeks.org/python-string-length-len/
+
+Introduction - Web Security, v2
+https://frontendmasters.com/courses/web-security-v2/introduction/
+
+(195) #general > Removing Layout 2013 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Removing.20Layout.202013
+
+WebKit/Speedometer: An open source repository for the Speedometer benchmark
+https://github.com/WebKit/Speedometer
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+货币棚改化 - Google 搜索
+https://www.google.com/search?q=%E8%B4%A7%E5%B8%81%E6%A3%9A%E6%94%B9%E5%8C%96&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%B4%A7%E5%B8%81%E6%A3%9A%E6%94%B9&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDU0ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&sca_esv=8618dfedb89d8974&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ADLYWII8yE6Jbqo5KSBH0NGxVZkpfOUr9w%3A1724562078357&ei=nrrKZvrCFbbmkPIPhKij-Qs&ved=0ahUKEwj6icuwro-IAxU2M0QIHQTUKL8Q4dUDCA8&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIKECMYgAQYJxiKBTIEECMYJzIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTIFEC4YgAQyCxAuGIAEGNEDGMcBMgUQABiABDIFEC4YgAQyBRAuGIAEMgUQLhiABEisBVAAWJQEcAB4AZABAJgB6wOgAYMJqgEHMi0xLjEuMbgBA8gBAPgBAZgCAqAC_gbCAhAQLhiABBjRAxhDGMcBGIoFmAMAkgcFMy0xLjGgB_sk&sclient=gws-wiz-serp
+
+fed Interest rate - Google 搜索
+https://www.google.com/search?q=fed+Interest+rate&rlz=1C1GCEA_enJP1090JP1090&oq=fed+Interest+rate&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQwMTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Panic at the Job Market | Hacker News
+https://news.ycombinator.com/item?id=40986894&p=3
+
+Panic! at the Tech Job Market
+https://matt.sh/panic-at-the-job-market
+
+Speedometer 3
+http://localhost:7000/#running
+
+Contributors to WebKit/Speedometer
+https://github.com/WebKit/Speedometer/graphs/contributors
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issue search results
+https://github.com/search?q=author%3Aflashdesignory&type=issues
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+c++ - Why doesn't std::queue::pop return value.? - Stack Overflow
+https://stackoverflow.com/questions/25035691/why-doesnt-stdqueuepop-return-value
+
+Racket Users - Google 群组
+https://groups.google.com/g/racket-users
+
+Speedometer 3
+http://localhost:7000/#running
+
+facebook/hhvm: A virtual machine for executing programs written in Hack.
+https://github.com/facebook/hhvm
+
+manuel-serrano/hiphop: Reactive Web Programming
+https://github.com/manuel-serrano/hiphop
+
+Download - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/download/
+
+Releases · servo/servo
+https://github.com/servo/servo/
+
+cgi 是电影特效吧 - Google 搜索
+https://www.google.com/search?q=cgi+%E6%98%AF%E7%94%B5%E5%BD%B1%E7%89%B9%E6%95%88%E5%90%A7&rlz=1C1GCEA_enJP1090JP1090&oq=cgi+%E6%98%AF%E7%94%B5%E5%BD%B1%E7%89%B9%E6%95%88%E5%90%A7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkzNzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+unrealenginevpfieldguidevp-field-guide-v1.2.02-zhcn.pdf
+https://www.roevisual.com/uploads/files/Downloads/unrealenginevpfieldguidevp-field-guide-v1.2.02-zhcn.pdf
+
+介绍利用虚幻引擎制作用于虚拟制片的动画 - 用虚拟制片做动画
+https://dev.epicgames.com/community/learning/courses/1J4/unreal-engine-962376/ryn5/ee935b
+
+唐朝诡事录之西行 - Google 搜索
+https://www.google.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C&sca_esv=e7a2bf937769b224&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKOwuv9T1khBn0gmrutuGI_weCtTA%3A1724581855957&ei=3wfLZoyKOpys0PEPx4-hqAc
+
+近三年爆款剧出品方盘点：后浪崛起，新老交替
+http://m.ikanchai.com/pcarticle/512397
+
+电影特效 cgi 动画 发展史 - Google 搜索
+https://www.google.com/search?q=%E7%94%B5%E5%BD%B1%E7%89%B9%E6%95%88+cgi+%E5%8A%A8%E7%94%BB+%E5%8F%91%E5%B1%95%E5%8F%B2&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%94%B5%E5%BD%B1%E7%89%B9%E6%95%88+cgi+%E5%8A%A8%E7%94%BB+%E5%8F%91%E5%B1%95%E5%8F%B2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDcyNjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps - YouTube
+https://www.youtube.com/watch?v=dX9CGRZwD-w
+
+3b1b/manim: Animation engine for explanatory math videos
+https://github.com/3b1b/manim
+
+opentoonz/opentoonz: OpenToonz - An open-source full-featured 2D animation creation software
+https://github.com/opentoonz/opentoonz
+
 # 2024-8-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
