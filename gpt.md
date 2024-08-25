@@ -1,4 +1,35 @@
 
+cmd.exe - 命令提示符
+regedit.exe - 注册表编辑器
+taskmgr.exe - 任务管理器
+mmc.exe - Microsoft管理控制台
+notepad.exe - 记事本
+calc.exe - 计算器
+control.exe - 控制面板
+explorer.exe - 文件资源管理器
+msconfig.exe - 系统配置实用程序
+services.msc - 服务管理
+devmgmt.msc - 设备管理器
+diskpart.exe - 磁盘分区工具
+ipconfig.exe - IP配置工具
+ping.exe - 网络诊断工具
+tracert.exe - 路由跟踪工具
+netstat.exe - 网络统计工具
+sfc.exe - 系统文件检查器
+dxdiag.exe - DirectX诊断工具
+winver.exe - Windows版本信息
+powershell.exe - PowerShell命令行界面
+mspaint.exe - 画图
+charmap.exe - 字符映射表
+taskkill.exe - 结束进程
+cleanmgr.exe - 磁盘清理
+eventvwr.msc - 事件查看器
+gpedit.msc - 组策略编辑器（仅专业版及以上版本）
+msinfo32.exe - 系统信息
+perfmon.exe - 性能监视器
+resmon.exe - 资源监视器
+compmgmt.msc - 计算机管理
+
 
 常见的PEFT（Parameter-Efficient Fine-Tuning）微调方法：
 
