@@ -1,5 +1,104 @@
 # 2024-8-26
 
+content.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/face/upload?spm_id_from=333.999.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/laboratory
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1296.0.0
+
+Synfig-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=66054874&keyword=Synfig&from_source=webtop_search&spm_id_from=333.1007&search_source=3
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+bili_27628432889投稿视频-bili_27628432889视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1XQs7etESh
+
+Repository search results
+https://github.com/search?q=youtube+fullstack+clone&type=repositories
+
+github.com
+https://github.com/nodejs/node/pull/54355
+
+Synfig - Google 搜索
+https://www.google.com/search?q=Synfig&rlz=1C1GCEA_enJP1090JP1090&oq=Synfig&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARBFGDsYgAQyBggCEEUYOzIQCAMQRRgTGCcYOxiABBiKBTIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHODQxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Synfig Studio – FOSS industrial-strength 2D film-quality animation software | Hacker News
+https://news.ycombinator.com/item?id=24025143
+
+VGC Software
+https://github.com/vgc
+
+VGC Software: the Drawing Apps of the Future
+https://www.vgc.io/
+
+KDE/krita: Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+https://github.com/KDE/krita?tab=readme-ov-file
+
+User Manual — Krita Manual 5.2.0 documentation
+https://docs.krita.org/en/user_manual.html
+
+Pencil2D github - Google 搜索
+https://www.google.com/search?q=Pencil2D+github&sca_esv=1c21a8eb8de2b5d2&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWII3mIdvDrEC6CqB3qO7mIfajdE5pw%3A1724666350147&ei=7lHMZtvbCOO20PEPkICKiAQ&ved=0ahUKEwjbiqDpspKIAxVjGzQIHRCAAkEQ4dUDCA8&uact=5&oq=Pencil2D+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1BlbmNpbDJEIGdpdGh1YjIIEAAYgAQYywEyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjTCVDEAVijCHABeAGQAQCYAZIDoAHcDKoBBTMtNC4xuAEDyAEA-AEBmAIGoALzDMICChAAGLADGNYEGEfCAgQQABgewgIGEAAYCBgewgIGEAAYBRgemAMAiAYBkAYKkgcHMS4zLTQuMaAH4ws&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vgc%20&sort=byPopularity&type=story
+
+branch eductaion - YouTube
+https://www.youtube.com/results?search_query=branch+eductaion
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+microsoft/Olive: Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.
+https://github.com/microsoft/Olive
+
+DaVinci Resolve - Google 搜索
+https://www.google.com/search?q=DaVinci+Resolve&rlz=1C1GCEA_enJP1090JP1090&oq=DaVinci+Resolve&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Kdenlive - Google 搜索
+https://www.google.com/search?q=Kdenlive&rlz=1C1GCEA_enJP1090JP1090&oq=Kdenlive&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5N2owajeoAgiwAgE&sourceid=chrome&ie=UTF-8
+
+How is CGI [Computer Generated Imagery] Made? 🖥🏞 🔧Exploring Ray Tracing and CGI - YouTube
+https://www.youtube.com/watch?v=iOlehM5kNSk&t=552s
+
+抖音-记录美好生活
+https://www.douyin.com/follow
+
+剪映专业版-全能易用的桌面端剪辑软件
+https://api.amemv.com/magic/eco/runtime/release/6461f944e84c15036369f2a8?appType=douyinpc&magic_page_no=1&call_link=vega%3A%2F%2Fcom.ies.videocut%2Fmain%2Fdraft%2Fnew_draft%3F%3Ffrom%3Ddouyin_post_panel
+
+www.google.com
+https://www.google.com/search?q=Kdenlive&rlz=1C1GCEA_enJP1090JP1090&oq=Kdenlive&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEHMTQ5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Kdenlive: an open-source video editor | Hacker News
+https://news.ycombinator.com/item?id=19337689
+
+AcademySoftwareFoundation/OpenColorIO: A color management framework for visual effects and animation.
+https://github.com/AcademySoftwareFoundation/OpenColorIO
+
+AcademySoftwareFoundation/openexr: The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
+https://github.com/AcademySoftwareFoundation/openexr
+
+sqlalchemy/alembic: A database migrations tool for SQLAlchemy.
+https://github.com/sqlalchemy/alembic
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

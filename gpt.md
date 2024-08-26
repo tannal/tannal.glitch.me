@@ -1,5 +1,15 @@
 
 
+
+
+OpenToonz - 开源的2D动画制作软件,由Studio Ghibli等知名动画工作室使用和定制。功能强大,适用于专业动画制作。
+VGC (Vector Graphics Complex) - 一个创新的矢量图形和动画软件,采用新的拓扑独立形状插值算法。由单人开发者Boris Dalstein创建。
+Synfig Studio - 开源的2D动画软件,虽然存在一些使用性和稳定性问题,但仍在不断改进中。
+Krita - 功能强大的开源数字绘画和动画软件,适合帧动画制作。
+Pencil2D - 轻量级的开源2D动画软件,易于上手。
+Blender - 虽然主要是3D软件,但最新版本也增加了很多2D动画功能。
+GIMP - 开源的图像编辑软件,可用于动画制作的某些环节。
+
 标题: 基于PaddleScience复现DiffCast模型的RFC
 
     背景与目标
