@@ -1,4 +1,20 @@
+# 三七互娱 广州 算法
 
+岗位职责
+1.深入理解美术设计相关制作流程，能通过AI技术/工具等手段，提高美术内容生产效率；
+
+2.负责主流AIGC任务前沿算法的调研、复现以及在游戏生产场景中的可用性评估和优化，包括但不限于2D、3D美术资产、文本内容、角色动画、口型配音等内容形式；从事图像生成、多模态大模型、小样本学习领域算法训练和优化；
+
+3.结合自有产品和业务需求，从prompt优化、模型finetune、性能加速等方面优化AI绘画/AI文字生成/AI音乐生成/AI辅助3D设计等效果和体验，解决面向业务场景的应用和落地时的算法卡点问题。
+
+任职要求
+1.熟练掌握机器学习和深度学习的基本原理，熟悉常见AI生成模型框架，熟悉Stable diffusion为代表的的AIGC模型技术，熟悉PyTorch，具备Python编程能力，了解CPP和CUDA更佳；
+
+2.在虚拟人，以文生成图，图生成文，多模态方向有研发经验者优先；
+
+3.在内容生成方向有较为深入的研究和探索，富于热情，自驱力强，勇于进行创新实践和技术突破。
+
+# OPPO 深圳 算法
 
 面向2025届应届毕业生，开放不少于两个月的寻梦实习项目
 
@@ -101,6 +117,7 @@ Transformer架构
 提示工程（Prompt Engineering）
 
 
+# 元象 大模型后台开发工程师（应用）
 
 https://www.nowcoder.com/jobs/detail/345857?pageSource=5012&channel=recruitmentSchedule
 人工智能
@@ -122,3 +139,102 @@ GO
 5、熟悉Linux系统，熟悉Docker的运行机制者优先。
 6、具备良好的沟通能力和团队合作精神。
 7、对新技术有强烈的好奇心和快速学习能力
+
+大模型应用后台服务：
+FastAPI：高性能Python Web框架
+
+GitHub: https://github.com/tiangolo/fastapi
+核心技术：异步处理、自动API文档生成
+源码解析：https://fastapi.tiangolo.com/tutorial/
+gRPC：高性能、开源的通用RPC框架
+
+GitHub: https://github.com/grpc/grpc
+核心技术：Protocol Buffers、HTTP/2
+源码解析：https://github.com/grpc/grpc/tree/master/src/core
+大模型前沿技术应用：
+Stable Diffusion：文本到图像生成模型
+
+GitHub: https://github.com/CompVis/stable-diffusion
+核心技术：扩散模型、文本到图像生成
+CLIP：OpenAI的多模态模型
+
+GitHub: https://github.com/openai/CLIP
+核心技术：对比学习、图文匹配
+性能优化：
+Jaeger：分布式追踪系统
+
+GitHub: https://github.com/jaegertracing/jaeger
+核心技术：分布式追踪、性能分析
+Prometheus：监控系统和时间序列数据库
+
+GitHub: https://github.com/prometheus/prometheus
+核心技术：监控、告警、时间序列数据存储
+后端开发：
+Spring Boot：Java后端开发框架
+
+GitHub: https://github.com/spring-projects/spring-boot
+核心技术：依赖注入、AOP、ORM
+Gin：Go语言Web框架
+
+GitHub: https://github.com/gin-gonic/gin
+核心技术：路由、中间件、JSON序列化
+数据库：
+MySQL：开源关系型数据库
+
+GitHub: https://github.com/mysql/mysql-server
+核心技术：事务处理、索引优化、存储引擎
+Redis：内存数据结构存储
+
+GitHub: https://github.com/redis/redis
+核心技术：键值存储、缓存、发布订阅
+容器化技术：
+Docker：容器化平台
+
+GitHub: https://github.com/docker/docker-ce
+核心技术：容器化、镜像管理、网络
+Kubernetes：容器编排平台
+
+GitHub: https://github.com/kubernetes/kubernetes
+核心技术：容器编排、服务发现、负载均衡
+原理梳理：
+
+大模型应用后台服务：
+RESTful API设计原则
+微服务架构
+负载均衡和高可用性设计
+大模型前沿技术：
+Transformer架构
+扩散模型原理
+多模态学习
+性能优化：
+缓存策略（本地缓存、分布式缓存）
+数据库索引优化
+异步处理和消息队列
+后端开发：
+ORM（对象关系映射）原理
+依赖注入和控制反转（IoC）
+中间件和拦截器设计模式
+数据库：
+事务ACID特性
+索引数据结构（B树、哈希索引）
+数据库优化（查询优化、表设计）
+容器化技术：
+容器vs虚拟机
+Docker镜像分层机制
+Kubernetes的Pod和Service概念
+分布式系统：
+CAP定理
+一致性算法（Paxos、Raft）
+分布式事务
+网络编程：
+TCP/IP协议栈
+HTTP/2和gRPC
+WebSocket长连接
+安全性：
+OAuth 2.0认证
+HTTPS和TLS
+SQL注入防御
+版本控制和CI/CD：
+Git工作流
+持续集成和持续部署
+自动化测试
