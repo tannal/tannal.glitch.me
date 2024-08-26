@@ -1,5 +1,151 @@
 # 2024-8-26
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · omni-media/omniclip
+https://github.com/omni-media/omniclip/issues
+
+(192) #general > Multiprocess mode - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Multiprocess.20mode
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(791) #checkins > NachoBIT - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/NachoBIT
+
+HTTP Cats
+https://http.cat/
+
+Add SDL2 & C-powered window handling compatibility. by TheNachoBIT · Pull Request #671 · linebender/vello
+https://github.com/linebender/vello/pull/671
+
+(1215) #general > Writing & Using a custom WASI implementation with wasmtime - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Writing.20.26.20Using.20a.20custom.20WASI.20implementation.20with.20wasmtime
+
+WASI preview2 proposals tracking issue · Issue #2939 · WasmEdge/WasmEdge
+https://github.com/WasmEdge/WasmEdge/issues/2939
+
+(27) Discord | 好友
+https://discord.com/channels/@me
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+380. O(1) 时间插入、删除和获取随机元素 - 力扣（LeetCode）
+https://leetcode.cn/problems/insert-delete-getrandom-o1/?envType=study-plan-v2&envId=top-interview-150
+
+std::unordered_map - cppreference.com
+https://en.cppreference.com/w/cpp/container/unordered_map
+
+牛客网校招日程_校园招聘全职|实习_应届生招聘信息汇总_牛客网
+https://www.nowcoder.com/jobs/school/schedule?tab=3
+
+雪花啤酒2024年校招职位信息-牛客网
+https://www.nowcoder.com/enterprise/21724?pageSource=5014&channel=recruitmentSchedule
+
+浩鲸科技2024年校招职位信息-牛客网
+https://www.nowcoder.com/enterprise/2139?pageSource=5014&channel=recruitmentSchedule
+
+三七互娱2024年校招职位信息-牛客网
+https://www.nowcoder.com/enterprise/803?pageSource=5014&channel=recruitmentSchedule
+
+算法工程师_三七互娱校招_牛客网
+https://www.nowcoder.com/jobs/detail/30300000089983?pageSource=5012&channel=recruitmentSchedule
+
+元象XVERSE2024年校招职位信息-牛客网
+https://www.nowcoder.com/enterprise/21148?channel=recruitmentSchedule&page=1&pageSource=5014&recruitType=0
+
+大模型后台开发工程师（应用）_元象XVERSE校招_牛客网
+https://www.nowcoder.com/jobs/detail/345857?pageSource=5012&channel=recruitmentSchedule
+
+中国电信集团校园招聘
+https://campus.51job.com/chinatelecom/about.html
+
+职位列表
+https://campus.ke.com/campus/jobs
+
+蔚来校招
+https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7392930669540509978&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=Z6Y5UQ5
+
+深圳市新国都集团2025届校园招聘
+https://app.mokahr.com/campus-recruitment/xgd/7850?sourceToken=4814765e4ef02beb7e628f0daf238af2#/
+
+校园招聘-招银网络科技
+https://cmbnt.cmbchina.com/pages/schoolRecruit/index.html
+
+北京趣拿软件科技有限公司 - 校园招聘
+https://app.mokahr.com/campus-recruitment/qunar/37595?sourceToken=d314bc4f8ce660d3bf141efadf44f9a0#/jobs
+
+哔哩哔哩-招聘
+https://jobs.bilibili.com/campus/positions?code=01&type=3&channel=nowcoder&page=3
+
+std::reverse() in C++ - GeeksforGeeks
+https://www.geeksforgeeks.org/stdreverse-in-c/
+
+可视化注意力，变形金刚的心脏 | 第 6 章，深度学习 - YouTube
+https://www.youtube.com/watch?v=eMlx5fFNoYc
+
+中国人口“灰犀牛” ：如何避免2050年的养老危机 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-68543306
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+重生 2024 在线观看 - Google 搜索
+https://www.google.com/search?q=%E9%87%8D%E7%94%9F+2024+%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B&sca_esv=3e3d60d2c3960f0c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWILorVTyB7B7cnu-kAr3WTYzR0R5gA%3A1724658113701&ei=wTHMZsK7Kq-iptQPtNLL6AM&ved=0ahUKEwiCoOeRlJKIAxUvkYkEHTTpEj0Q4dUDCA8&uact=5&oq=%E9%87%8D%E7%94%9F+2024+%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOmHjeeUnyAyMDI0IOWcqOe6v-ingueci0im4AFQ4M0BWODdAXACeACQAQCYAfICoAHyAqoBAzMtMbgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAHTQ&sclient=gws-wiz-serp
+
+搜索结果 - LIBVIO
+https://www.libvio.fun/search/-------------.html?wd=%E9%87%8D%E7%94%9F2024&submit=
+
+电影《重生2024》TS国语在线观看-香蕉影视|经典电影在线-免费在线电影
+https://jsfldh.com/index.php/vod/play/id/273121/sid/1/nid/1.html
+
+for range element index - Google 搜索
+https://www.google.com/search?q=for+range+element+index&sca_esv=3e3d60d2c3960f0c&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIyV_r96eT5mks_XQ9DbOUNha79uQ%3A1724658968557&ei=GDXMZtDgIfnMkPIPid-9-Qg&ved=0ahUKEwjQzLepl5KIAxV5JkQIHYlvL48Q4dUDCA8&uact=5&oq=for+range+element+index&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2ZvciByYW5nZSBlbGVtZW50IGluZGV4MgcQIRigARgKMgcQIRigARgKSJsSUJECWPIQcAF4AZABAJgB9wOgAeEaqgEJMi0zLjUuMS4xuAEDyAEA-AEBmAILoAKEG8ICChAAGLADGNYEGEfCAgcQIxixAhgnwgIIEAAYgAQYywHCAgoQABiABBhDGIoFwgIEEAAYHsICCBAAGAoYDBgewgIFECEYoAGYAwCIBgGQBgqSBwkxLjAuMy41LjKgB5oe&sclient=gws-wiz-serp
+
+C++ trying to swap values in a vector - Stack Overflow
+https://stackoverflow.com/questions/6224830/c-trying-to-swap-values-in-a-vector
+
+微信 新手机 聊天记录 - Google 搜索
+https://www.google.com/search?q=%E5%BE%AE%E4%BF%A1+%E6%96%B0%E6%89%8B%E6%9C%BA+%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%BE%AE%E4%BF%A1%E6%96%B0%E6%89%8B%E6%9C%BA&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDY1NzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+简历助手_校招官网投递简历一键帮助填写_牛客网
+https://www.nowcoder.com/quick-fill/show-introduce
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+How to Animate using Synfig Studio (Quick Tutorial, Free program) - YouTube
+https://www.youtube.com/watch?v=5B_Aok26LKc
+
+Synfig 教程 - Google 搜索
+https://www.google.com/search?q=Synfig+%E6%95%99%E7%A8%8B&sca_esv=e9b1f4749646b3bb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL_4L9stThq2KI8vfZtJHxoWL3C7A%3A1724664222690&ei=nknMZvHsKZ2x0PEPl7Ps0Qs&ved=0ahUKEwjxs-byqpKIAxWdGDQIHZcZO7oQ4dUDCA8&uact=5&oq=Synfig+%E6%95%99%E7%A8%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVN5bmZpZyDmlZnnqIsyBRAhGKABMgUQIRigATIFECEYoAFI7w9Q4gNY8w5wAXgBkAEAmAGJA6AB2g6qAQUyLTIuNLgBA8gBAPgBAZgCB6AC-g7CAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICDBAjGIAEGBMYJxiKBcICCBAAGIAEGMsBmAMAiAYBkAYKkgcHMS4wLjEuNaAHvg4&sclient=gws-wiz-serp
+
+Robert Quattlebaum - Google 搜索
+https://www.google.com/search?q=Robert+Quattlebaum&rlz=1C1GCEA_enJP1090JP1090&oq=Robert+Quattlebaum&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Synfig-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=64252128&keyword=Synfig&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+介绍开源矢量动画软件synfig studio_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Rr4y127WX/?spm_id_from=333.337.search-card.all.click
+
+Synfig examples - Google 搜索
+https://www.google.com/search?q=Synfig+examples&sca_esv=e9b1f4749646b3bb&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ4Lmc7CrNwiUS_QfEHNfYeXUZzVQ%3A1724664457321&ei=iUrMZsuuE4rKkPIP6-y7oQ8&ved=0ahUKEwiLl9fiq5KIAxUKJUQIHWv2LvQQ4dUDCA8&uact=5&oq=Synfig+examples&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1N5bmZpZyBleGFtcGxlczIIEAAYgAQYywEyBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjeEVDsAliJEXABeACQAQCYAZ8CoAHxE6oBBTAuMS45uAEDyAEA-AEBmAIKoAKFEsICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIEECMYJ8ICDBAjGIAEGBMYJxiKBcICBBAAGB7CAgYQABgeGA-YAwCIBgGQBgmSBwUxLjEuOKAHmyE&sclient=gws-wiz-serp
+
+OpenShot/openshot-qt: OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
+https://github.com/OpenShot/openshot-qt
+
+opentoonz/opentoonz: OpenToonz - An open-source full-featured 2D animation creation software
+https://github.com/opentoonz/opentoonz
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
