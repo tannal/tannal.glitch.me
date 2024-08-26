@@ -1,4 +1,29 @@
 
+贝壳找房
+https://campus.ke.com/campus/jobs
+
+中国电信
+https://campus.51job.com/chinatelecom/about.html
+
+蔚来
+https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7392930669540509978&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=Z6Y5UQ5
+
+https://app.mokahr.com/campus-recruitment/xgd/7850?sourceToken=4814765e4ef02beb7e628f0daf238af2#/
+
+https://cmbnt.cmbchina.com/pages/schoolRecruit/index.html
+
+去哪儿
+https://campus.pingan.com/paccbxkjzx/position
+
+https://app.mokahr.com/campus-recruitment/qunar/37595?sourceToken=d314bc4f8ce660d3bf141efadf44f9a0#/jobs
+
+正浩创新EcoFlow
+
+https://www.nowcoder.com/jobs/company-project?projectId=2014&deliverSource=4&activityId=84&activitySuffix=ZNZCzc&pageSource=5009&channel=jobhot
+
+哔哩哔哩
+https://jobs.bilibili.com/campus/positions?channel=nowcoder&page=8
+
 字节跳动
 
 抖音、大力教育、飞书、火山引擎、朝夕光年和TikTok。
