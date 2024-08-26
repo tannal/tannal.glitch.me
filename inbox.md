@@ -4,17 +4,11 @@
 
 
 PicoRV32 - 由Claire Wolf开发和维护的小型RISC-V核,适合在小型FPGA上使用。包含一个SoC封装,可以方便地添加其他硬件/协处理器/外设。
-
 CHIPS Alliance - 开源硬件组织,SweRV EH1和EH2 RISC-V核的托管方。
-
 Western Digital SweRV Core - 西部数据开发的高性能RISC-V核系列,包括EH1和EH2版本。
-
 OpenPOWER Foundation - 开放的POWER架构组织,也有类似Microwatt的开源RISC-V项目。
-
 SiFive - 商业RISC-V公司,开发了U系列高性能RISC-V核,如U74、U84等。
-
 Esperanto Technologies - 正在开发基于7nm工艺的高性能RISC-V AI芯片和核。
-
 RISC-V Foundation - RISC-V指令集架构的开源组织,推动RISC-V的发展和应用。
 
 
