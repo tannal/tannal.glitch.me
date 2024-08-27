@@ -1,5 +1,80 @@
 # 2024-8-27
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+SF-Zhou's Blog
+https://sf-zhou.github.io/
+
+Recommend · 王很水的笔记
+https://wanghenshui.github.io/recommend.html
+
+Shirly's Blog
+https://andremouche.github.io/algorithm/leetcode.html
+
+Search | Lobsters
+https://lobste.rs/search?q=llama.cpp&what=comments&order=newest
+
+C++ 项目编译优化 | BOT Man JL
+https://bot-man-jl.github.io/articles/?post=2022/Cpp-Project-Compile-Optimization
+
+Tencent/Hippy: Hippy is designed to easily build cross-platform dynamic apps. 👏
+https://github.com/Tencent/Hippy
+
+Unlock your productivity potential with Slack Platform | Slack
+https://api.slack.com/
+
+Trace Event Format - Google 文档
+https://docs.google.com/document/d/1CvAClvFfyA5R-PhYUmn5OOQtYMH4h6I0nSsKchNAySU/preview#heading=h.yr4qxyxotyw
+
+HCOONa's blog
+https://hcoona.github.io/
+
+Terark & Topling 创始人 雷鹏 | 没有上限，只有突破
+https://nark.cc/
+
+平台到底有什么价值
+https://www.xargin.com/value-of-platform/
+
+oliver-russell-cv.pdf
+https://leontrolski.github.io/oliver-russell-cv.pdf
+
+CS525 UIUC SP21: Reading List - Google 文档
+https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit
+
+Who is in charge of Postgres? | EDB
+https://www.enterprisedb.com/blog/who-is-in-charge-of-postgres
+
+About Me | Fu Zhe's Blog
+https://fuzhe1989.github.io/about/
+
+幻方 | 加入我们
+https://www.high-flyer.cn/join
+
+幻方量化 - 社会招聘
+https://app.mokahr.com/apply/high-flyer/4604#/jobs/?keyword=&_k=tclq96
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues
+
+谁能帮我解释一下推理结果的中文意思吗 · Issue #105 · SJTU-IPADS/PowerInfer
+https://github.com/SJTU-IPADS/PowerInfer/issues/105
+
+monatis/clip.cpp: CLIP inference in plain C/C++ with no extra dependencies
+https://github.com/monatis/clip.cpp
+
+CLIP inference in plain C/C++ with no extra dependencies | Hacker News
+https://news.ycombinator.com/item?id=36469007
+
+Image Preview · Issue #354 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/354
+
+PABannier/bark.cpp: Suno AI's Bark model in C/C++ for fast text-to-speech
+https://github.com/PABannier/bark.cpp
+
+stable diffusion - Google 搜索
+https://www.google.com/search?q=stable+diffusion&sca_esv=dc8ff04c814c1798&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIMMc2HiaPbBlusnH5z7DEBVhaiVA%3A1724733740246&ei=LFnNZsDhDtDJkPIPvNWc-Ac&oq=stable+dif&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnN0YWJsZSBkaWYqAggBMgQQIxgnMgoQIxiABBgnGIoFMgwQIxiABBgTGCcYigUyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBSIAMUKkBWKkBcAB4ApABAJgB_QOgAf0DqgEDNS0xuAEDyAEA-AEBmAICoAKHBMICBBAAGEeYAwCIBgGQBgGSBwUxLjQtMaAH5QY&sclient=gws-wiz-serp
+
 Recommend · 王很水的笔记
 https://wanghenshui.github.io/recommend.html
 
