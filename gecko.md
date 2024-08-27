@@ -1,5 +1,8 @@
 # dev
 
+spidermonkey
+https://phabricator.services.mozilla.com/differential/query/HBPXF4VtNtgz/#R
+
 ./mach vcs-setup
 
 ./mach try auto

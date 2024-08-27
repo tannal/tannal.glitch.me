@@ -1,4 +1,9 @@
 
+OpenCompute Project：采用了类似的微流道液冷设计，用于数据中心服务器的散热优化。
+RISC-V International：在其开源处理器设计中加入了相变材料散热模块的支持。
+Linux Thermal Framework：集成了类似的智能热管理算法，用于优化各种设备的散热控制。
+OpenBMC：采用了相似的散热预测和优化算法，用于服务器底板管理控制器的温度管理。
+
 Kubernetes：采用了类似的基础设施即代码理念，通过YAML文件定义和管理容器化应用及其资源。
 Ansible Tower（现为Red Hat Ansible Automation Platform）：集成了类似的配置管理和自动化工作流，为企业提供集中化的自动化解决方案。
 Prometheus：作为一个开源的监控系统，它采用了类似的时间序列数据模型和查询语言，为IT基础设施提供实时监控和告警功能。
