@@ -1,3 +1,182 @@
+# 2024-8-27
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/#%E6%95%99%E5%AD%A6%E8%B5%84%E6%BA%90
+
+用RTL实现最简单的处理器 | 官方文档
+https://ysyx.oscc.cc/docs/2306/basic/1.2.html#%E8%AE%A9%E7%A8%8B%E5%BA%8F%E5%86%B3%E5%AE%9A%E4%BB%BF%E7%9C%9F%E4%BD%95%E6%97%B6%E7%BB%93%E6%9D%9F
+
+ChatGGG
+http://192.168.43.1:8080/
+
+CHIPS Alliance
+https://github.com/chipsalliance
+
+Chisel: A Modern Hardware Design Language | Hacker News
+https://news.ycombinator.com/item?id=38781273
+
+tannal/cmake-verilator: verilator
+https://github.com/tannal/cmake-verilator
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+修士 报录比 - Google 搜索
+https://www.google.com/search?q=%E4%BF%AE%E5%A3%AB+%E6%8A%A5%E5%BD%95%E6%AF%94+&sca_esv=81215ad4e9e1b019&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIL5BHA7NzZsIOBq9FwdfIj2y36kJg%3A1724684800488&ei=AJrMZr66Haqi0PEPptSeoAs&ved=0ahUKEwi-uofH95KIAxUqETQIHSaqB7QQ4dUDCA8&uact=5&oq=%E4%BF%AE%E5%A3%AB+%E6%8A%A5%E5%BD%95%E6%AF%94+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEeS_ruWjqyDmiqXlvZXmr5QgMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjJI1DRAVj-IXABeACQAQCYAeYEoAH5GKoBCTItMS40LjIuMbgBA8gBAPgBAZgCA6AClQjCAgQQIxgnwgIGEAAYBRgewgIIEAAYBRgeGA_CAggQABiiBBiJBZgDAIgGAZIHAzMtM6AH4Q4&sclient=gws-wiz-serp
+
+考公 报录比 - Google 搜索
+https://www.google.com/search?q=%E8%80%83%E5%85%AC+%E6%8A%A5%E5%BD%95%E6%AF%94&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%80%83%E5%85%AC+%E6%8A%A5%E5%BD%95%E6%AF%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDgyNjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+東北大学 -TOHOKU UNIVERSITY-
+https://www.tohoku.ac.jp/japanese/
+
+Home
+https://sagiriwiki.web.app/
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=8UDs249RTNiS
+
+tannal (tannal)
+https://github.com/tannal/
+
+5. SMIL 动画简介 | Person Record
+https://know.ncuxz.fun/svg/five.html
+
+JavaScript | MongoDB
+https://www.mongodb.com/developer/languages/javascript/
+
+yinyunqiao (Charles Yin)
+https://github.com/yinyunqiao
+
+rtx 2050参数 - Google 搜索
+https://www.google.com/search?q=rtx+2050%E5%8F%82%E6%95%B0&rlz=1C1GCEA_enJP1090JP1090&oq=rtx+2050%E5%8F%82%E6%95%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgNGBMYgAQyCwgCEAAYDRgTGIAEMgwIAxAAGAgYDRgTGB4yDAgEEAAYCBgNGBMYHjIMCAUQABgIGA0YExgeMgwIBhAAGAgYDRgTGB4yDAgHEAAYCBgNGBMYHjIMCAgQABgIGA0YExgeMgwICRAAGAgYDRgTGB7SAQgzODc3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Inkscape · GitLab
+https://gitlab.com/inkscape
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Inkscape 1.0 Release Candidate | Hacker News
+https://news.ycombinator.com/item?id=22855357
+
+Jim Keller criticizes Nvidia's CUDA, x86 | Hacker News
+https://news.ycombinator.com/item?id=39480341
+
+AI Hardware w/ Jim Keller - YouTube
+https://www.youtube.com/watch?v=lPX1H3jW8ZQ
+
+Trends in Deep Learning Hardware: Bill Dally (NVIDIA) - YouTube
+https://www.youtube.com/watch?v=kLiwvnr4L80
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+3134. 找出唯一性数组的中位数 - 力扣（LeetCode）
+https://leetcode.cn/problems/find-the-median-of-the-uniqueness-array/description/
+
+Careers | Tenstorrent
+https://tenstorrent.com/careers
+
+Job Application for CPU/AI Physical Design Block Lead at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4119879007
+
+Job Application for Staff Engineer, Mechanical/Thermal Design at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4488624007
+
+Job Application for Staff, PCB Design Power Engineer at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4456868007
+
+Job Application for Sr. Staff Engineer, Tools Lead at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4487282007
+
+Job Application for Software Developer, Metal Runtime at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4161897007
+
+Job Application for Staff IT Engineer at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4233521007
+
+Job Application for Sr. Staff Engineer, Tools Lead at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4487282007
+
+Job Application for Staff Software Engineer, AI Compiler at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4116596007
+
+Job Application for Staff Data Engineer, Data Platform at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4460711007
+
+Job Application for Sr. Principal Software Engineer, AI Compiler at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4294227007
+
+Job Application for Machine Learning Engineer, AI Compiler, Model Training at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4465141007
+
+Job Application for Performance Architect at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4197190007
+
+Job Application for Functional Simulation Architect at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4403378007
+
+Job Application for Emulation Architect at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4408706007
+
+Job Application for CPU Architect at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4289628007
+
+Job Application for Chip Architecture Security Engineer at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4128134007
+
+Job Application for Principal, Systems Engineer at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4332971007
+
+波形图 时钟同步 - Google 搜索
+https://www.google.com/search?q=%E6%B3%A2%E5%BD%A2%E5%9B%BE+%E6%97%B6%E9%92%9F%E5%90%8C%E6%AD%A5&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%B3%A2%E5%BD%A2%E5%9B%BE+%E6%97%B6%E9%92%9F%E5%90%8C%E6%AD%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5NTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+lowRISC
+https://github.com/lowRISC
+
+riscv-software-src/riscv-isa-sim: Spike, a RISC-V ISA Simulator
+https://github.com/riscv-software-src/riscv-isa-sim
+
+riscv-boom/src/main/scala/v4/ifu/fetch-buffer.scala at master · riscv-boom/riscv-boom
+https://github.com/riscv-boom/riscv-boom/blob/master/src/main/scala/v4/ifu/fetch-buffer.scala
+
+accellera-official/systemc: SystemC Reference Implementation
+https://github.com/accellera-official/systemc
+
+zebu emulator - Google 搜索
+https://www.google.com/search?q=zebu+emulator&rlz=1C1GCEA_enJP1090JP1090&oq=zebu+emu&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMggICBAAGAgYHjIICAkQABgFGB7SAQgzNTA2ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+SystemC - Wikipedia
+https://en.wikipedia.org/wiki/SystemC
+
+pytorch/glow: Compiler for Neural Network hardware accelerators
+https://github.com/pytorch/glow
+
+Apache Airflow - Google 搜索
+https://www.google.com/search?q=Apache+Airflow&rlz=1C1GCEA_enJP1090JP1090&oq=Apache+Airflow&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIMCAIQABhDGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEHMzg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+apache/superset: Apache Superset is a Data Visualization and Data Exploration Platform
+https://github.com/apache/superset
+
+pytorch/torch/profiler/profiler.py at main · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/main/torch/profiler/profiler.py
+
+PyTorch Autograd Profiler - Google 搜索
+https://www.google.com/search?q=PyTorch+Autograd+Profiler&rlz=1C1GCEA_enJP1090JP1090&oq=PyTorch+Autograd+Profiler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBBzMxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tenstorrent/tt-buda: Tenstorrent TT-BUDA Repository
+https://github.com/tenstorrent/tt-buda
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Paul%20G.%20Allen&sort=byPopularity&type=story
+
+gem5
+https://github.com/gem5
+
 # 2024-8-26
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
