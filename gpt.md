@@ -1,4 +1,10 @@
 
+
+LLVM: 增加了对Tenstorrent AI芯片的后端支持,使得更多高级语言可以编译到这个平台上。
+TVM (Apache TVM): 集成了张博士开发的图优化技术,提高了在Tenstorrent芯片上的性能。
+MLIR (Multi-Level Intermediate Representation): 采用了类似的硬件感知调度策略,使得机器学习模型可以更好地适应不同的硬件架构。
+Glow (来自Facebook): 借鉴了Tenstorrent的编译器设计,改进了自身的图优化和代码生成策略。
+
 李明和团队基于RISC-V设计了一种新型AI芯片,它具有以下特点:
 
 大量并行处理单元,适合矩阵运算
