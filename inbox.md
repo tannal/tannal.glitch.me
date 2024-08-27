@@ -1,6 +1,8 @@
 
 # 2024-8-27 0 | 0 W
 
+对于数据平台的用户来说，研发就是写 SQL 和 udf 而已。
+
 utc+8
 
 NVIDIA 自 1998 年起，一直用科學家來命名新推出的處理器架構。例如今年上半年發布的處理器 GB200，名稱中的 ”G” 和 ”B” 分別就是指 Grace CPU 和 Blackwell GPU。Grace CPU 採用最新的 Arm 處理器架構，致敬電腦科學領域的 Grace Murray Hopper 准將。Hopper 是夫姓，Murray 則是結婚前原來的姓氏，她離婚後便一直維持單身，但仍繼續沿用夫姓，並未更動，一般習慣稱她為 Grace Hopper。因此 2021 年 NVIDIA 發表的 CPU 是用她的名字 Grace 命名，而 GPU 則是用她的夫姓 Hopper 命名。
