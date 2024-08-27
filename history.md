@@ -1,5 +1,32 @@
 # 2024-8-27
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+(11) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Jim Keller：AI也就600行程式碼，你知道AI晶片怎麼設計了吧 - 蘿蔔實驗室
+https://lobolab.tech/jim_aichip/?fbclid=IwY2xjawE6BQlleHRuA2FlbQIxMAABHQI8GqptjxMuXSiWtZWoick_fxHxn_jE3VqEGh2sYlHSJoopYTj4lO6GBA_aem_5B4gzIiqKwy1sGsp-hDRBA
+
+chipsalliance repositories
+https://github.com/orgs/chipsalliance/repositories
+
+ChatGGG
+http://192.168.43.1:8080/
+
+(2) CPU ⬜ Carré Petit Utile on X: "Avec @nbpname , dev JIT @mozilla , nous avons essayé de comprendre les origines, les risques et les corrections sur les bugs Meltdown/Spectre qui touchent tous nos CPU. Les processeurs, pas notre émission ;) Now @radiofmr et podcast https://t.co/dg61SgMzdR" / X
+https://x.com/CPUprogramme/status/956467584593006592
+
+Reverse Engineering a Neural Network's Clever Solution to Binary Addition - Casey Primozic's Homepage
+https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
+
+About | Red Vice
+https://blog.redvice.org/about/
+
+nbp/holyjit: Generic purpose Just-In-time compiler for Rust.
+https://github.com/nbp/holyjit
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
