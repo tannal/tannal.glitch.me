@@ -1,5 +1,9 @@
 # dev
 
+Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+
+./mach build js/src
+
 https://www.recurse.com/apply
 
 make -C js/src check-jstests

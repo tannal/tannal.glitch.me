@@ -70,6 +70,7 @@ b components/layout_2020/table/layout.rs:411
 ./mach run --debugger=rr -- ./tests/wpt/tests/css/css-tables/tentative/table-width-redistribution.html
 
 ./mach run -d -- --debug dump-display-list test.html -z
+./mach run -d -- --debug show-fragment-borders servo.org -z
 
 ./mach run --pref dom.svg.enabled https://vuejsfeed.com/
 ./mach run --pref dom.svg.enabled https://hn.algolia.com/ -i -y 1 2>&1 | % {

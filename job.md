@@ -580,6 +580,8 @@ igalia申请 deadline
 [] 研究方向，一生一芯报名，block on 简历
 [] 跟踪 https://github.com/nodejs/node/pull/54593 的ci进度，确保https://github.com/nodejs/node/pull/54355的failing不是由改动引起
 
+[] https://phabricator.services.mozilla.com/D220381 progress
+
 [] igalia
 
 mozila is good
