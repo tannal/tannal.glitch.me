@@ -582,6 +582,10 @@ igalia申请 deadline
 
 [] igalia
 
+mozila is good
+spidermonkey
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-4bmd7d25nix2m4x6y6uw&statuses%5B0%5D=open()&order=newest&bucket=action
+
 文字进文字出 llama.cpp gpt2 etc trasformer tranditional llm
 文字进语音出 mozilla tts 
 文字进图片出 stable diffusion
