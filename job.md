@@ -582,10 +582,11 @@ igalia申请 deadline
 
 [] igalia
 
-文字进文字出
-文字进语音出
-文字进图片出
-文字进视频出
+文字进文字出 llama.cpp gpt2 etc trasformer tranditional llm
+文字进语音出 mozilla tts 
+文字进图片出 stable diffusion
+文字进视频出 sora
+文字进行为出 生成代码 Claude3
 文字进xx出
 
 servo

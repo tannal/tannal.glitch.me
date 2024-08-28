@@ -1,5 +1,10 @@
 # dev
 
+make -C js/src check-jstests
+
+make -C js/src check-jit-test
+
+
 CSS、布局、性能优化、UI、WebIDL
 
 spidermonkey
