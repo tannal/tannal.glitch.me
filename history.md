@@ -1,5 +1,50 @@
 # 2024-8-28
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+1853548 - Remove dom.no_unknown_protocol_error.enabled pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1853548
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+mozilla-central: changeset 692676:4de25e9a950057c7f2f7ca5b4730c41df1d2bfe1
+https://hg.mozilla.org/mozilla-central/rev/4de25e9a9500#l27.59
+
+1887716 - Inconsistent handling of the `MOZ_FORCE_DISABLE_E10S` pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1887716
+
+1884814 - Respect MOZ_FORCE_DISABLE_E10S if MOZILLA_OFFICIAL is not set
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884814
+
+rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+Jim Keller dropping wisdom as always - YouTube
+https://www.youtube.com/watch?v=8-pWlSwDXAQ
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+不要拘泥于单一棍法，进来感受齐天大圣的魅力！无伤寅虎_哔哩哔哩bilibili_黑神话悟空
+https://www.bilibili.com/video/BV1NBWSeeEFe/?spm_id_from=333.788.recommend_more_video.6
+
+rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
