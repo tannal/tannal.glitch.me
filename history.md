@@ -1,3 +1,197 @@
+# 2024-8-28
+
+history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+UC Berkeley Architecture Research
+https://github.com/ucb-bar
+
+第六期"一生一芯"课程主页 | 官方文档
+https://ysyx.oscc.cc/docs/#%E6%95%99%E5%AD%A6%E8%B5%84%E6%BA%90
+
+gmail.com
+https://gmail.com/
+
+poe.com
+https://poe.com/
+
+关于开展东北师范大学2024级硕士研究生外语免修工作的通知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1123/5997.htm
+
+gs.nenu.edu.cn/login?ticket=ST-51608-k2CsvXo1WQpwu3m1NaH1BYTVDT0xxhb192
+https://gs.nenu.edu.cn/login?ticket=ST-51608-k2CsvXo1WQpwu3m1NaH1BYTVDT0xxhb192
+
+node-test-commit-windows-fanned #65012 Console [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-windows-fanned/65012/console
+
+2,win10-COMPILED_BY-vs2022 [node-test-binary-windows-js-suites] [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/RUN_SUBSET=2,nodes=win10-COMPILED_BY-vs2022/
+
+node-test-binary-windows-js-suites » 0,win10-COMPILED_BY-vs2022 0,win10-COMPILED_BY-vs2022 [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/29480//RUN_SUBSET=0,nodes=win10-COMPILED_BY-vs2022/
+
+node-test-commit-windows-fanned #65198 [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-windows-fanned/65198/
+
+test,crypto: update WebCryptoAPI WPT by panva · Pull Request #54593 · nodejs/node
+https://github.com/nodejs/node/pull/54593
+
+node-test-binary-windows-js-suites [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/
+
+node-test-binary-windows-js-suites/RUN_SUBSET=2,nodes=win10-COMPILED_BY-vs2022 #29649 test - test-runner-run-watch [Jenkins]
+https://ci.nodejs.org/job/node-test-binary-windows-js-suites/RUN_SUBSET=2,nodes=win10-COMPILED_BY-vs2022/lastCompletedBuild/testReport/(root)/parallel/test_runner_run_watch/
+
+node-test-commit-windows-fanned #65012 Console [Jenkins]
+https://ci.nodejs.org/job/node-test-commit-windows-fanned/65012/console
+
+Releases · MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo/releases
+
+Clash Verge Intro & Download - Clash Verge
+https://clashverge.net/en/
+
+Clash Verge Rev Official Website & Download - Clash Verge
+https://clashverge.net/en/clash-verge-rev-en/
+
+zzzgydi/clash-verge: A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+https://github.com/zzzgydi/clash-verge
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+适合自媒体视频剪辑的笔记本电脑推荐_笔记本电脑网
+https://pc.panziye.com/daogou/519.html
+
+英特尔® 酷睿™ i5-13500H 处理器
+https://www.intel.cn/content/www/cn/zh/products/sku/232147/intel-core-i513500h-processor-18m-cache-up-to-4-70-ghz/specifications.html
+
+英特尔® 酷睿™ i5-12450H 处理器
+https://www.intel.cn/content/www/cn/zh/products/sku/132222/intel-core-i512450h-processor-12m-cache-up-to-4-40-ghz/specifications.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Templates - Journals, CVs, Presentations, Reports and More - Overleaf, Online LaTeX Editor
+https://www.overleaf.com/latex/templates/tagged/cv/page/2
+
+集成显卡天梯图 - Google 搜索
+https://www.google.com/search?q=%E9%9B%86%E6%88%90%E6%98%BE%E5%8D%A1%E5%A4%A9%E6%A2%AF%E5%9B%BE&rlz=1C1GCEA_enJP1090JP1090&oq=%E9%9B%86%E6%88%90%E6%98%BE%E5%8D%A1&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDc4MTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+笔记本/台式机电脑显卡天梯图：2024年最新排名，性能排行榜，GPU天梯表，英伟达RTX4060、RTX4050、RTX4090、RX7900M、AMD7840HS和ultra集显 - 知乎
+https://zhuanlan.zhihu.com/p/556993335
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D219053 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+https://phabricator.services.mozilla.com/D219053#7567598
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1914532
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-wgwiclrzncjlwloxt6mj&statuses%5B0%5D=open()&order=newest&bucket=action
+
+视频编辑剪辑 intel优于amd - Google 搜索
+https://www.google.com/search?q=%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%89%AA%E8%BE%91+intel%E4%BC%98%E4%BA%8Eamd&rlz=1C1GCEA_enJP1090JP1090&oq=%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%89%AA%E8%BE%91+intel%E4%BC%98%E4%BA%8Eamd&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDgzODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+视频剪辑用什么电脑好
+https://miao.wondershare.cn/article-editing/428847.html
+
+Video editing with Python | Hacker News
+https://news.ycombinator.com/item?id=16297295
+
+Show HN: New calendar app idea | Hacker News
+https://news.ycombinator.com/item?id=11846108
+
+iamkun/dayjs: ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+https://github.com/iamkun/dayjs/tree/dev
+
+关于做好2024上半年论文送审与学位授予相关工作的通知-华中师范大学研究生院
+https://gs.ccnu.edu.cn/info/1054/3433.htm
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+accelerators - Google 搜索
+https://www.google.com/search?q=accelerators&rlz=1C1GCEA_enJP1090JP1090&oq=accelerators&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPdIBBzY4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+xie-1399 (Icser)
+https://github.com/xie-1399
+
+xie-1399/Brief-Chip: The Brief Chip is a Simple Soc project written in Spinal HDL , include a 3 stages RISCV CPU and a CNN Accelerator with RS Dataflow as Peripheral
+https://github.com/xie-1399/Brief-Chip
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1914532
+
+Rolldown
+https://github.com/rolldown
+
+(788) #study-group > math - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/314177-study-group/topic/math
+
+(788) #gpu > A cute encoding trick (for sparse strips) - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/A.20cute.20encoding.20trick.20.28for.20sparse.20strips.29
+
+Submissions from github.com/chipsalliance | Hacker News
+https://news.ycombinator.com/from?site=github.com/chipsalliance
+
+chipsalliance/chisel-template: A template project for beginning new Chisel work
+https://github.com/chipsalliance/chisel-template
+
+mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)
+https://github.com/mozilla/TTS
+
+Brook Hong
+https://brookhong.github.io/#
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=MFhnDaXi5pOK
+
+(225) #general > Run Speedometer on Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Run.20Speedometer.20on.20Servo
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=emilio
+
+tts_models/en/ljspeech/tacotron2-DDC - Google 搜索
+https://www.google.com/search?q=tts_models%2Fen%2Fljspeech%2Ftacotron2-DDC&rlz=1C1GCEA_enJP1090JP1090&oq=tts_models%2Fen%2Fljspeech%2Ftacotron2-DDC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHMTUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+intel 集成显卡 内存消耗 视频编辑剪辑导出 - Google 搜索
+https://www.google.com/search?q=intel+%E9%9B%86%E6%88%90%E6%98%BE%E5%8D%A1+%E5%86%85%E5%AD%98%E6%B6%88%E8%80%97+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%89%AA%E8%BE%91%E5%AF%BC%E5%87%BA&sca_esv=74c3c93a61ef7e5d&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJDxHuOmRHX1MuEz2_oz1LzBNFZqQ%3A1724830890839&ei=qtTOZpHyMteA1e8PrO6X-Ao&ved=0ahUKEwiR767kl5eIAxVXQPUHHSz3Ba8Q4dUDCBA&uact=5&oq=intel+%E9%9B%86%E6%88%90%E6%98%BE%E5%8D%A1+%E5%86%85%E5%AD%98%E6%B6%88%E8%80%97+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%89%AA%E8%BE%91%E5%AF%BC%E5%87%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIjhpbnRlbCDpm4bmiJDmmL7ljaEg5YaF5a2Y5raI6ICXIOinhumikee8lui-keWJqui-keWvvOWHujIIEAAYgAQYogRI-HBQYFj4b3ADeAGQAQCYAdABoAHLQqoBBjAuNDIuNLgBA8gBAPgBAZgCLKAC2jvCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICDRAAGIAEGEMYigUYiwPCAgsQABiABBjLARiLA8ICCBAAGIAEGMsBwgIREC4YgAQYqAMYmgMYywEYiwPCAggQABiABBiLA8ICBxAAGIAEGAzCAgUQABiABMICBBAAGB7CAgYQABgKGB7CAgUQIRigAZgDAIgGAZAGCpIHBjMuMzguM6AHuEE&sclient=gws-wiz-serp
+
+LinSoftWin/Photoshop-CC2022-Linux: Installer from Photoshop CC 2021 to 2022 on linux with a GUI
+https://github.com/LinSoftWin/Photoshop-CC2022-Linux
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Sign up
+https://authkit.tella.tv/sign-up?client_id=project_01ESPAKAABNM17XQF7B8VSGGF8&redirect_uri=https%3A%2F%2Fwww.tella.tv%2Fapi%2Fcallback_workos%3Fclient%3Dweb&response_type=code&state=%7B%22returnTo%22%3A%22%2Fgetting-started%3Freferer%3Dundefined%26refererID%3Dundefined%22%7D&authorization_session_id=01J6BZ0M6GE1VCFTPCCY7Y12H3
+
+Recut — Automatic Video Editor
+https://getrecut.com/
+
+Tella HQ
+https://github.com/tellahq
+
+Show HN: Open-Source Video Editor Web App | Hacker News
+https://news.ycombinator.com/item?id=40331968
+
+omni-clip
+https://omniclip.app/
+
 # 2024-8-27
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
