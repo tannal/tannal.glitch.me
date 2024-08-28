@@ -1,6 +1,8 @@
 
 # dev
 
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8738374914303998625/+/u/compile/stdout
+
 'C:\b\s\w\ir\out\Release\chrome.exe': 这是 Chrome 可执行文件的路径，用于指定要运行的程序。
 --allow-pre-commit-input: 参数用于允许预提交输入。
 --autoplay-policy=no-user-gesture-required: 设置自动播放策略，不需要用户手势。
