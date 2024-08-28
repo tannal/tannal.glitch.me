@@ -1,5 +1,176 @@
 # 2024-8-28
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · omni-media/omniclip
+https://github.com/omni-media/omniclip/issues
+
+v8 | Builders | LUCI
+https://ci.chromium.org/ui/p/v8/builders
+
+failed - V8 Android Arm64 - N5X 28806 | LUCI
+https://ci.chromium.org/ui/p/v8/builders/ci/V8%20Android%20Arm64%20-%20N5X/28806/overview
+
+v8 | buildbucket/cr-buildbucket/8738414254519644241/+/u/Check_-_default/stdout | LogDog
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8738414254519644241/+/u/Check_-_default/stdout
+
+LUCI Scheduler :: v8 :: Linux - Future
+https://luci-scheduler.appspot.com/jobs/v8/Linux%20-%20Future
+
+running - Linux - Future 67030 | LUCI
+https://ci.chromium.org/ui/p/v8/builders/ci/Linux%20-%20Future/67030/overview
+
+v8 | buildbucket/cr-buildbucket/8738374914303998625/+/u/compile/stdout | LogDog
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8738374914303998625/+/u/compile/stdout
+
+logdog - infra/luci/luci-go - Git at Google
+https://chromium.googlesource.com/infra/luci/luci-go/+/master/logdog/
+
+Task Page - Swarming
+https://chromium-swarm.appspot.com/task?id=6bafd727fc214710
+
+omni-clip
+https://omniclip.app/
+
+搜索结果 - Google 云端硬盘
+https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab)
+
+Untitled0.ipynb - Colab
+https://colab.research.google.com/drive/1QnmcSk7Vr7pvF2gfWZH3Oq3LXRZob3Qo#scrollTo=IsCXZds5AUTh
+
+mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)
+https://github.com/mozilla/TTS?tab=readme-ov-file
+
+Released Models · mozilla/TTS Wiki
+https://github.com/mozilla/TTS/wiki/Released-Models
+
+Newsroom \ Anthropic
+https://www.anthropic.com/news
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Code search results
+https://github.com/search?q=repo%3Aleejet%2Fstable-diffusion.cpp%20adam&type=code
+
+Code search results
+https://github.com/search?q=repo%3Aleejet%2Fstable-diffusion.cpp%20LOG_INFO&type=code
+
+CompVis - Computer Vision and Learning LMU Munich
+https://github.com/CompVis
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+is%3Aopen+stable
+
+2112.10752
+https://arxiv.org/pdf/2112.10752
+
+Codespaces
+https://github.com/codespaces
+
+Codespaces - fantastic broccoli
+https://github.com/codespaces/fantastic-broccoli-g444jwp5q9gjhvp7v?editor=vscode
+
+Codespaces - didactic eureka
+https://github.com/codespaces/didactic-eureka-6999q7pr997p244jr?editor=vscode
+
+异于Make的另一种构建系统 | MaskRay
+https://maskray.me/blog/2012-12-09-alternative-build-system
+
+杨博 · Profile · Disqus
+https://disqus.com/by/disqus_VA2vwUqFKX/?
+
+Workflow runs · MaskRay/llvm-project
+https://github.com/MaskRay/llvm-project/actions?page=6
+
+LeetCode/basic-calculator.cc at master · MaskRay/LeetCode
+https://github.com/MaskRay/LeetCode/blob/master/basic-calculator.cc
+
+[Support] Restrict ManagedStatic ThreadPoolExecutor to Windows by MaskRay · Pull Request #102989 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/102989
+
+Github pull requests #95177
+https://buildkite.com/llvm-project/github-pull-requests/builds/95177
+
+Log "spidermonkey-sm-tsan-linux64/opt" - FirefoxCI
+https://firefox-ci-tc.services.mozilla.com/tasks/SyDBInOAQlqsvvobKp-6Lg/runs/0/logs/public/logs/live.log
+
+firefoxci.taskcluster-artifacts.net/SyDBInOAQlqsvvobKp-6Lg/0/public/logs/live_backing.log
+https://firefoxci.taskcluster-artifacts.net/SyDBInOAQlqsvvobKp-6Lg/0/public/logs/live_backing.log
+
+(26) Discord | #news | Tiptap
+https://discord.com/channels/818568566479257641/818569971994853406
+
+openslr.org
+https://openslr.magicdatatech.com/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+3144. 分割字符频率相等的最少子字符串 - 力扣（LeetCode）
+https://leetcode.cn/problems/minimum-substring-partition-of-equal-character-frequency/description/
+
+Contributing to V8 · V8
+https://v8.dev/docs/contribute
+
+main
+https://ci.chromium.org/p/v8/g/main/console
+
+yahan github - Google 搜索
+https://www.google.com/search?q=yahan+github&sca_esv=cb00e98615192aee&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJ6E48VMJIcgxGNTs_1f500Je1wAw%3A1724834652660&ei=XOPOZpr2J8KHnesPtqCe6Qo&ved=0ahUKEwialJLmpZeIAxXCQ2cHHTaQJ60Q4dUDCBA&uact=5&oq=yahan+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHlhaGFuIGdpdGh1YjIIEAAYgAQYogRIkwdQAFiKBnAAeAGQAQCYAdQBoAHXCaoBBTAuNy4xuAEDyAEA-AEBmAIIoAL5CcICBRAAGIAEwgIHEAAYgAQYDMICCBAAGIAEGMsBwgIIEC4YgAQYywHCAgoQLhiABBgKGMsBwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQHCAgQQABgewgIGEAAYHhgPwgIIEC4YChgeGA_CAgYQABgIGB7CAggQABgIGB4YD8ICCBAAGAoYHhgPwgIFECEYoAHCAgcQIRigARgKmAMAugYGCAEQARgUkgcFMC43LjGgB5Me&sclient=gws-wiz-serp
+
+Show HN: Open-Source Video Editor Web App | Hacker News
+https://news.ycombinator.com/item?id=40331968
+
+v8-users - Google 群组
+https://groups.google.com/g/v8-users
+
+Codetribute
+https://codetribute.mozilla.org/
+
+Outreachy | Opportunities with Sponsors - Outreachy
+https://www.outreachy.org/opportunities/
+
+fossjobs/fossjobs: fossjobs.net based on jobberbase
+https://github.com/fossjobs/fossjobs
+
+Applying to RC - Recurse Center
+https://www.recurse.com/apply
+
+What we look for in Recursers - Recurse Center
+https://www.recurse.com/what-we-look-for
+
+Pairing interview tasks - Recurse Center
+https://www.recurse.com/pairing-tasks
+
+Board of Directors
+https://www.x.org/wiki/BoardOfDirectors/
+
+Benjamin Bouvier's world – Tag mozilla
+https://bouvier.cc/tag/mozilla.html
+
+bnjbvr (Benjamin Bouvier)
+https://github.com/bnjbvr
+
+Contribute | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/contribute/
+
+2307.01952
+https://arxiv.org/pdf/2307.01952
+
+szwnba (Johnson zhang)
+https://github.com/szwnba
+
+fofr/cog-comfyui-sd3: Cog template for Stable Diffusion 3 (ComfyUI implementation)
+https://github.com/fofr/cog-comfyui-sd3
+
+Bookmark
+https://126.plus/#/
+
+微信 Markdown 编辑器 | Doocs 开源社区
+https://126.plus/md/
+
 history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

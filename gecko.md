@@ -1,8 +1,15 @@
 # dev
 
+https://www.recurse.com/apply
+
 make -C js/src check-jstests
 
 make -C js/src check-jit-test
+
+https://codetribute.mozilla.org/projects/jseng
+
+
+https://wiki.mozilla.org/JavaScript:New_to_SpiderMonkey
 
 
 CSS、布局、性能优化、UI、WebIDL
