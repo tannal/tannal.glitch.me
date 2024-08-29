@@ -1,4 +1,27 @@
 
+
+ModelScope Text-to-Video:
+由阿里巴巴开源
+可在Colab上运行
+GitHub: https://github.com/modelscope/modelscope-text-to-video-synthesis
+CogVideo:
+由清华大学开发的文本到视频生成模型
+GitHub: https://github.com/THUDM/CogVideo
+Text2Video-Zero:
+基于预训练的文本到图像模型，无需额外训练即可生成视频
+GitHub: https://github.com/Picsart-AI-Research/Text2Video-Zero
+Make-A-Video:
+Meta AI 开源的文本到视频生成模型
+GitHub: https://github.com/lucidrains/make-a-video-pytorch (非官方PyTorch实现)
+Zeroscope:
+由Stability AI开发的文本到视频模型
+可通过Hugging Face使用
+Hugging Face: https://huggingface.co/cerspense/zeroscope_v2_576w
+Vid2Vid:
+NVIDIA开发的视频到视频转换模型，可用于文本引导的视频生成
+GitHub: https://github.com/NVIDIA/vid2vid
+
+
 OpenCompute Project：采用了类似的微流道液冷设计，用于数据中心服务器的散热优化。
 RISC-V International：在其开源处理器设计中加入了相变材料散热模块的支持。
 Linux Thermal Framework：集成了类似的智能热管理算法，用于优化各种设备的散热控制。
