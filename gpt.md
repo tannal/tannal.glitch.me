@@ -1,5 +1,24 @@
 
 
+MicroSSH
+一个轻量级的 SSH 服务器实现
+源码: https://github.com/openssh/openssh-portable
+dropbear
+一个小型 SSH 服务器和客户端
+源码: https://github.com/mkj/dropbear
+TinySSH
+极简的 SSH 服务器实现
+源码: https://github.com/janmojzis/tinyssh
+WebSSH
+基于 Web 的 SSH 客户端
+源码: https://github.com/huashengdun/webssh
+ttyd
+将命令行工具共享为 Web 应用程序
+源码: https://github.com/tsl0922/ttyd
+GateOne
+基于 Web 的终端模拟器和 SSH 客户端
+源码: https://github.com/liftoff/GateOne
+
 ModelScope Text-to-Video:
 由阿里巴巴开源
 可在Colab上运行

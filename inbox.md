@@ -1,6 +1,40 @@
 
 # 2024-8-28 0 | 0 W
 
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
+
+
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
+
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
+
+srun --partition=phys_hq --job-name=tm_test --gres=gpu:1 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222 -a
+
+srun --partition=phys_hq --job-name=tm_test --nodes=1 --ntasks-per-node=2 --gres=gpu:1 --mem-per-cpu=5000MB --pty nvidia-smi
+
+srun --partition=phys_hq --job-name=tm_test --nodes=1 --ntasks-per-node=2 --gres=gpu:1 --mem-per-cpu=5000MB --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222 -a
+
+export https_proxy=http://10.90.144.254:7890
+
+Public key portion is:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDWudos95JKt/AcyUU9ajqDAeOV8Rn3Ko0qlfl+joE5X2F/aN6YFVc9H4E5EJ0JLzSx5o1ybBMvMoDfPOKPEu31kxhUO5STYJzETdt/1QJ/HiySSNLx2hbkqeM4yX9WgNGc7WRguguBqeCC89FqZZxesNzVqAkCgJHjeF2XzPvDm+tIpM6eqFlQlMQmL1SN/k2tx3TlQrgwsMgqaINrZDGUoYYnEhQwtIV9u37DTphnWllEEy3gqx+UyvNFz381Y7pHNIhcD4g65KQNsX5pX+lHW+lwnPPNu+el5KqWyfZ+bFdIaXtGphl9lFIaNY+8DLXIa2FEB4NhSG1olKFv/Ybn tannal@desktop
+Fingerprint: SHA256:GfEauEZyYKicQxkktbTQqBQc5jaLScCmoy8dYrYArws
+
+../bin/dropbearkey -t rsa -f dropbear_rsa_host_key
+
+./configure CFLAGS="-static-libgcc -Wl,--wrap=memcpy" LDFLAGS="-Wl,--wrap=memcpy"
+make PROGRAMS="dropbear dbclient dropbearkey dropbearconvert scp" MULTI=1 --prefix=`pwd`/helloworld
+
+
+autoreconf
+./configure --prefix=`pwd`/_microssh --with-privsep-path=`pwd`/empty
+./configure --prefix=`pwd`/helloworld
+
+srun --partition=phys_hq --pty `pwd`/microssh/sbin/sshd -D -p 10022
+
+export PATH="/usr/bin/":$PATH
+
 ssh -L 本地端口:计算节点IP:远程端口 用户名@登录节点
 
 
