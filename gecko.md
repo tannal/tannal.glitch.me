@@ -1,8 +1,21 @@
+# working on
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
+
 # dev
 
 
+./test262-export.py --out ../test-262/ --src js/src/tests/test262/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-flags.js
+
+MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb 
+MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb 
+
+./mach jstests --jitflags=all test.js
+
 MOZCONFIG=mozconfig.jsshell ./mach build
-MOZCONFIG=mozconfig.jsshell ./mach jstests
+MOZCONFIG=mozconfig.jsshell ./mach jstests js-dbg -m regexp-prototype-matchAll-invocation
 
 For jsshell
 ac_add_options --enable-application=js
