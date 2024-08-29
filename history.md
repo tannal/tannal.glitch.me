@@ -1,5 +1,80 @@
 # 2024-8-29
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+User Profile: Tooru Fujisawa [:arai] <arai.unmht@gmail.com>
+https://bugzilla.mozilla.org/user_profile?user_id=310076
+
+User Profile: sagudev [:samson] <samo.golez@outlook.com>
+https://bugzilla.mozilla.org/user_profile?user_id=610304
+
+tannal (tannal)
+https://github.com/tannal
+
+(208) #general > Run Speedometer on Servo - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Run.20Speedometer.20on.20Servo
+
+web-platform-tests dashboard
+https://staging.wpt.fyi/results/?product=servo
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+is%3Aopen+search
+
+Top-Ranking Issues (last 7 days) 📊 · Issue #6952 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/6952
+
+zed.dev/native_app_signin_succeeded
+https://zed.dev/native_app_signin_succeeded
+
+Getting Started - Zed
+https://zed.dev/docs/
+
+李沐讲座：大语言模型的实践经验和未来预测 | 上海交大| 转载 - YouTube
+https://www.youtube.com/watch?v=ziHUcDh0DwM
+
+Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc&t=985s
+
+Issues · servo/servo
+https://github.com/servo/servo/issues?q=is%3Aissue+is%3Aopen+parsedDocument+
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+CVE-2022-29503 - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=CVE-2022-29503
+
+Commit search results
+https://github.com/search?q=repo%3ASchedMD%2Fslurm+pthread&type=commits
+
+CVE-2023-25823 - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=CVE-2023-25823
+
+[slurm-users] Slurm versions 23.11.1, 23.02.7, 22.05.11 are now available (CVE-2023-49933 through CVE-2023-49938)
+https://groups.google.com/g/slurm-users/c/z3GAn-qugu4/m/SCwQuFarCQAJ
+
+Security Policy - SchedMD
+https://www.schedmd.com/security-policy/
+
+[SECURITY] Fedora 39 Update: slurm-22.05.11-2.fc39 - package-announce - Fedora mailing-lists
+https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/63FEDDYEE2WK7FHWBHKON3OZVQI56WSQ/
+
+2254496 – CVE-2023-49938 slurm: incorrect access control [fedora-all]
+https://bugzilla.redhat.com/show_bug.cgi?id=2254496
+
+2254495 – (CVE-2023-49938) CVE-2023-49938 slurm: incorrect access control
+https://bugzilla.redhat.com/show_bug.cgi?id=2254495
+
+[slurm-announce] Slurm versions 23.11.1, 23.02.7, 22.05.11 are now available (CVE-2023-49933 through CVE-2023-49938)
+https://lists.schedmd.com/pipermail/slurm-announce/2023/000103.html
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
