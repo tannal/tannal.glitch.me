@@ -1,5 +1,25 @@
 # dev
 
+
+MOZCONFIG=mozconfig.jsshell ./mach build
+
+Testing:
+  Run tests.
+
+  addtest               Generate tests based on templates
+  cppunittest           Run cpp unit tests (C++ tests).
+  cramtest              Mercurial style .t tests for command line applications.
+  fluent-migration-test
+                        Test Fluent migration recipes.
+  jit-test              Run SpiderMonkey jit-tests in the JS shell.
+  jsapi-tests           Run SpiderMonkey JSAPI tests.
+  jsshell-bench         Run benchmarks in the SpiderMonkey JS shell.
+  jstests               Run SpiderMonkey JS tests in the JS shell.
+  manifest              Manifest operations
+  rusttests             Run rust unit tests (via cargo test).
+  test                  Run tests (detects the kind of test and runs it).
+  test-info             Display historical test results.
+
 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
 
 ./mach build js/src

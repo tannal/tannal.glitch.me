@@ -1,5 +1,74 @@
 # 2024-8-28
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Building and testing SpiderMonkey — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/js/build.html
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355
+
+test: merge ongc and gcutil into gc.js by tannal · Pull Request #54355 · nodejs/node
+https://github.com/nodejs/node/pull/54355
+
+Commit Queue · nodejs/node@4f14eb1
+https://github.com/nodejs/node/actions/runs/10595311851/job/29360809781
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-4bmd7d25nix2m4x6y6uw&statuses%5B0%5D=open()&order=newest&bucket=action
+
+[JSC] `RegExp.prototype[Symbol.matchAll]` should respect `v` flag · WebKit/WebKit@4b84428
+https://github.com/WebKit/WebKit/commit/4b84428a953560574a27b3881ac06dc43ea42651
+
+RegExp.js - mozsearch
+https://searchfox.org/mozilla-central/rev/f60bb10a5fe6936f9e9f9e8a90d52c18a0ffd818/js/src/builtin/RegExp.js#130,157
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381
+
+1899303 - Implement Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899303
+
+jstests.list - mozsearch
+https://searchfox.org/mozilla-central/rev/893f350260faac2ee6bf2b14c627d55eb2babfb0/js/src/tests/jstests.list#654-656
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+(203) #Performance > Too many threads - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance/topic/Too.20many.20threads
+
+Fixed build error on macos (#33200) (wpt-2020) · sagudev/servo@0aa7009
+https://github.com/sagudev/servo/actions/runs/10579038860/job/29313211468
+
+Code search results
+https://github.com/search?q=repo%3Av8%2Fv8%20fullUnicode&type=code
+
+Building Mozilla SpiderMonkey - Spider Monkey Panel
+https://theqwertiest.github.io/foo_spider_monkey_panel/docs/for_developers/building_spidermonkey/
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+build spidermonkey - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=build+spidermonkey#ip=1
+
+JavaScript:New to SpiderMonkey - MozillaWiki
+https://wiki.mozilla.org/JavaScript:New_to_SpiderMonkey
+
+SpiderMonkey Newsletter (Firefox 128-129) | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/blog/2024/07/16/newsletter-firefox-128-129.html
+
+gecko build jshell - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=gecko+build+jshell#ip=1
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -578,7 +578,7 @@ igalia申请 deadline
 [x] 免修英语
 [] 审批中
 [] 研究方向，一生一芯报名，block on 简历
-[] 跟踪 https://github.com/nodejs/node/pull/54593 的ci进度，确保https://github.com/nodejs/node/pull/54355的failing不是由改动引起
+[] 跟踪 https://github.com/nodejs/node/pull/54593 的ci进度，确保https://github.com/nodejs/node/pull/54355 的failing不是由改动引起
 
 [] https://phabricator.services.mozilla.com/D220381 progress
 
