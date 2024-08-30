@@ -1,7 +1,26 @@
 
 # 2024-8-30 0 | 0 W
 
--DGGML_CUDA=ON
+格芯是一家总部位于美国加利福尼亚州圣克拉拉的半导体晶圆代工公司。该公司最初从超微半导体的制造部门独立而出，目前为世界第五大专业晶圆代工厂，仅次于台积电、三星电子、中芯国际及联电。 2021年10月28日，公司在纳斯达克上市。
+
+andy@ark ~/tmp> zig cc -o hello.exe hello.c -target x86_64-windows-gnu
+andy@ark ~/tmp> wine64 hello.exe
+Hello, World!
+andy@ark ~/tmp> zig cc -o test test.c -target riscv64-linux-gnu
+andy@ark ~/tmp> qemu-mipsel ./test
+Hello, World!
+andy@ark ~/tmp> zig cc -o hello hello.c -target aarch64-linux-gnu
+andy@ark ~/tmp> qemu-aarch64 -L ~/Downloads/glibc/multi-2.31/install/glibcs/aarch64-linux-gnu ./hello
+Hello, World!
+
+export LD_LIBRARY_PATH=/usr/riscv64-linux-gnu/lib/
+
+sudo apt install g++-riscv64-linux-gnu
+
+
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DGGML_CUDA_SUPPORT=ON -DGGML_CUDA_ARCHITECTURES="75"
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_TOOLCHAIN_FILE=riscv64-toolchain.cmake
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_TOOLCHAIN_FILE=zig-toolchain.cmake
 
 echo "内存限制: $(echo "scale=2; $(cat /sys/fs/cgroup/memory/slurm/uid_1243/job_2149477/memory.limit_in_bytes) / 1024 / 1024 / 1024" | bc) GB"
 
