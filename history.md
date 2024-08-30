@@ -1,5 +1,89 @@
 # 2024-8-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D220709 Bug 1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref. r?gregp
+https://phabricator.services.mozilla.com/D220709
+
+1600400 - Consider dropping support for Window.sizeToContent()
+https://bugzilla.mozilla.org/show_bug.cgi?id=1600400
+
+1898679 - canvas.toDataURL creates a string that does not work as src for an image element
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
+
+278645 – "grid-row: auto" collapses for child with hidden overflow
+https://bugs.webkit.org/show_bug.cgi?id=278645
+
+Remove Frame::setOpener by achristensen07 · Pull Request #32655 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/32655/files
+
+Grid item iOS issue
+https://codepen.io/gmltA/full/NWZMBPy
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Grid item iOS issue
+https://codepen.io/gmltA/full/NWZMBPy
+
+Download | sbt
+https://www.scala-sbt.org/download/
+
+Releases · sbt/sbt
+https://github.com/sbt/sbt/releases
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+xpcshell.toml - mozsearch
+https://searchfox.org/mozilla-central/rev/cb5faf5dd5176494302068c553da97b4d08aa339/netwerk/test/unit/xpcshell.toml#731
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+xpcshell.toml - mozsearch
+https://searchfox.org/mozilla-central/rev/cb5faf5dd5176494302068c553da97b4d08aa339/netwerk/test/unit/xpcshell.toml#731-738
+
+Parallel Thread Execution - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=Parallel+Thread+Execution
+
+tannal/cuda-examples
+https://github.com/tannal/cuda-examples
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220708 Bug 1915613 - Remove test_http3_large_post_telemetry.js since the probes are expired. r?sekim
+https://phabricator.services.mozilla.com/D220708#7582037
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7573445
+
+Configuring Zed - Zed
+https://zed.dev/docs/configuring-zed
+
+(208) #general > Make publishing easy - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Make.20publishing.20easy
+
+Fix Running Animation Frame Callbacks · Issue #33251 · servo/servo
+https://github.com/servo/servo/issues/33251
+
+#text > Hinting a subset of a layout - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/205635-text/topic/Hinting.20a.20subset.20of.20a.20layout
+
+Recent conversations - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+is%3Aopen+right
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

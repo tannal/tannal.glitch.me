@@ -12,6 +12,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
+
 Bug 1915613 - Remove test_http3_large_post_telemetry.js since the probes are expired. r?sekim
 
 Bug 1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref. r?gregp
