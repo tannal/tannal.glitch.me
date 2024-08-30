@@ -1,6 +1,11 @@
 
 # 2024-8-30 0 | 0 W
 
+pip install -U "huggingface_hub[cli]" -i https://pypi.tuna.tsinghua.edu.cn/simple
+huggingface-cli login
+
+conda install -c conda-forge gdb
+
 格芯是一家总部位于美国加利福尼亚州圣克拉拉的半导体晶圆代工公司。该公司最初从超微半导体的制造部门独立而出，目前为世界第五大专业晶圆代工厂，仅次于台积电、三星电子、中芯国际及联电。 2021年10月28日，公司在纳斯达克上市。
 
 andy@ark ~/tmp> zig cc -o hello.exe hello.c -target x86_64-windows-gnu

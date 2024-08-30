@@ -1,5 +1,53 @@
 # 2024-8-30
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+leejet/stable-diffusion.cpp: Stable Diffusion and Flux in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp/tree/master
+
+`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley
+https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+jim keller - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=jim+keller
+
+Tenstorrent数据流芯片Grayskull 和 Wormhole解析 - Dataflow - 1nfinite
+https://1nfinite.ai/t/tenstorrent-grayskull-wormhole/100
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+RISCV64 build fails to start in Qemu · Issue #940 · adoptium/adoptium-support
+https://github.com/adoptium/adoptium-support/issues/940
+
+Unable to cross-compile riscv64 Hello world program in c under wsl2 · Issue #19107 · ziglang/zig
+https://github.com/ziglang/zig/issues/19107
+
+深入TT-MLIR: Tenstorrent的mid-level编译器软件栈 - Dataflow - 1nfinite
+https://1nfinite.ai/t/tt-mlir-tenstorrent-mid-level/125
+
+GlobalFoundries - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=GlobalFoundries
+
+tannal/cmake-verilator: verilator
+https://github.com/tannal/cmake-verilator/tree/main
+
+Google EdgeTPU github - Google 搜索
+https://www.google.com/search?q=Google+EdgeTPU+github&client=ubuntu-sn&hs=r5c&sca_esv=77634acc5d5dc9b4&channel=fs&sxsrf=ADLYWIKfSogytJaVcKTaix7qlKkGph_PhQ%3A1724991927518&ei=t0nRZu-qH_Gzvr0P9uOk4QM&ved=0ahUKEwiv4tHY75uIAxXxma8BHfYxKTwQ4dUDCBA&uact=5&oq=Google+EdgeTPU+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUdvb2dsZSBFZGdlVFBVIGdpdGh1YjIHECEYoAEYCkjVClDmBFjNCXABeAGQAQCYAcABoAHCCKoBAzAuNrgBA8gBAPgBAZgCB6ACzAjCAgoQABiwAxjWBBhHwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwMxLjagB4IN&sclient=gws-wiz-serp
+
+Command Line Interface (CLI)
+https://huggingface.co/docs/huggingface_hub/guides/cli
+
+ChatGGG
+http://192.168.43.1:8080/
+
+东北师范大学2024级学术学位硕士研究生开课选课须知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1212/5998.htm
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
