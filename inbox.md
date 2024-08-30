@@ -1,6 +1,8 @@
 
 # 2024-8-30 0 | 0 W
 
+export PATH=/home/tannal/Downloads/sbt-1.10.1/sbt/bin:$PATH
+
 https://yz.nenu.edu.cn/login/enterMain/zsKsdXsbd/enterSubmitXsbd
 
 cargo install --path crates/typst-cli/
