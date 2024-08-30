@@ -2,12 +2,19 @@
 # Achievement
 
 
+https://phabricator.services.mozilla.com/D214042
+
+
 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
 
 
 implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
 # working on
+
+Bug 1915613 - Remove test_http3_large_post_telemetry.js since the probes are expired. r?sekim
+
+Bug 1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref. r?gregp
 
 Bug 1896539 - Fix typos in ChromeUtils.webidl r?aminomancer
 

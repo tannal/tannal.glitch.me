@@ -1,5 +1,86 @@
 # 2024-8-30
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1899303 - Implement Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899303
+
+jstests.list - mozsearch
+https://searchfox.org/mozilla-central/rev/893f350260faac2ee6bf2b14c627d55eb2babfb0/js/src/tests/jstests.list#654-656
+
+GlobalObject.h - mozsearch
+https://searchfox.org/mozilla-central/rev/b75080bb8b11844d18cb5f9ac6e68a866ef8e243/js/src/vm/GlobalObject.h#981-987
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Running Visual Studio Code on Linux
+https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tc39/proposal-redeclarable-global-eval-vars: Make eval-introduced global vars redeclarable
+https://github.com/tc39/proposal-redeclarable-global-eval-vars
+
+tannal/cv - cv - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/cv
+
+AMD Ryzen 9 5900HX vs Ryzen 7 6800H: performance comparison
+https://nanoreview.net/en/cpu-compare/amd-ryzen-9-5900hx-vs-amd-ryzen-7-6800h
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Test Linux · tannal/node@c9cbce6
+https://github.com/tannal/node/actions/runs/10632776232/job/29476425466
+
+productionresultssa8.blob.core.windows.net/actions-results/a2b58949-e38e-4c2b-868c-3213395c1b47/workflow-job-run-051a4d43-e2ca-554b-c43a-05f8a12f7e87/logs/job/job-logs.txt?rsct=text%2Fplain&se=2024-08-30T13%3A32%3A37Z&sig=Y38JTV7Q1dTtbnV26GYmqzyO4hpD9BT%2FzkTf%2FU4iA0Q%3D&ske=2024-08-31T00%3A21%3A52Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2024-08-30T12%3A21%3A52Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2024-05-04&sp=r&spr=https&sr=b&st=2024-08-30T13%3A22%3A32Z&sv=2024-05-04
+https://productionresultssa8.blob.core.windows.net/actions-results/a2b58949-e38e-4c2b-868c-3213395c1b47/workflow-job-run-051a4d43-e2ca-554b-c43a-05f8a12f7e87/logs/job/job-logs.txt?rsct=text%2Fplain&se=2024-08-30T13%3A32%3A37Z&sig=Y38JTV7Q1dTtbnV26GYmqzyO4hpD9BT%2FzkTf%2FU4iA0Q%3D&ske=2024-08-31T00%3A21%3A52Z&skoid=ca7593d4-ee42-46cd-af88-8b886a2f84eb&sks=b&skt=2024-08-30T12%3A21%3A52Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2024-05-04&sp=r&spr=https&sr=b&st=2024-08-30T13%3A22%3A32Z&sv=2024-05-04
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+test_http3_large_post_telemetry.js - mozsearch
+https://searchfox.org/mozilla-central/rev/261005fcc4d6f8b64189946958211259fb45e9e1/netwerk/test/unit/test_http3_large_post_telemetry.js
+
+1874260 - document.referrer is empty string on localhost when coming from secure site
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874260
+
+1909931 - Add Glean probes to measure HTTP/1 and HTTP/2 download throughput, segmented by file size
+https://bugzilla.mozilla.org/show_bug.cgi?id=1909931
+
+⚙ D220709 Bug 1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref. r?gregp
+https://phabricator.services.mozilla.com/D220709
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/f6fa2fdaed58ece12d4c6bc95dc5901ec22a4d05/modules/libpref/init/StaticPrefList.yaml#8614-8617
+
+1650944 - Remove ReflowInput.h include from nsIFrame.h
+https://bugzilla.mozilla.org/show_bug.cgi?id=1650944
+
+⚙ D214042 Bug 1650944 - Removed ReflowInput.h include from nsIFrame.h r=emilio
+https://phabricator.services.mozilla.com/D214042
+
+⚙ D81845 Bug 1630704 - Part 26: Move ReflowInput import to nsIFrame.h r=emilio
+https://phabricator.services.mozilla.com/D81845#2501818
+
+1891465 - CSP headers with invalid bytes should be rejected
+https://bugzilla.mozilla.org/show_bug.cgi?id=1891465
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits/master/
+
+`deno init --serve` is confusing · Issue #25305 · denoland/deno
+https://github.com/denoland/deno/issues/25305
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
