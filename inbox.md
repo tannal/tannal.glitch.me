@@ -1,6 +1,7 @@
 
 # 2024-8-30 0 | 0 W
 
+https://yz.nenu.edu.cn/login/enterMain/zsKsdXsbd/enterSubmitXsbd
 
 cargo install --path crates/typst-cli/
 
