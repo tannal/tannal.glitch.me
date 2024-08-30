@@ -1,3 +1,77 @@
+# 2024-8-30
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+mkj/dropbear: Dropbear SSH
+https://github.com/mkj/dropbear
+
+openssh/openssh-portable: Portable OpenSSH
+https://github.com/openssh/openssh-portable
+
+DeepSeek
+https://www.deepseek.com/
+
+DeepSeek
+https://github.com/deepseek-ai
+
+DeepSeek | 深度求索
+https://www.deepseek.com/zh
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+ChatGGG
+http://192.168.43.1:8080/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+git/INSTALL at master · git/git
+https://github.com/git/git/blob/master/INSTALL
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos?only_show_relevant=false&q=cuda&sort=recentupdate
+
+raw.githubusercontent.com/tannal/cuda-examples/main/main.cu
+https://raw.githubusercontent.com/tannal/cuda-examples/main/main.cu
+
+python - How do I check if PyTorch is using the GPU? - Stack Overflow
+https://stackoverflow.com/questions/48152674/how-do-i-check-if-pytorch-is-using-the-gpu
+
+Start Locally | PyTorch
+https://pytorch.org/get-started/locally/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Index of /gnu/autoconf
+https://ftp.gnu.org/gnu/autoconf/
+
+Index of /gnu/m4
+https://ftp.gnu.org/gnu/m4/
+
+【Hackathon 7th】开源贡献个人挑战赛（偷跑版） · Issue #67603 · PaddlePaddle/Paddle
+https://github.com/PaddlePaddle/Paddle/issues/67603
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no11-fuxi-a-cascade-machine-learning-forecasting-system-for-15-day-global-weather-forecast-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0
+
+DeminYu98/DiffCast: [CVPR 2024] Official implementation of "DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting"
+https://github.com/DeminYu98/DiffCast?tab=readme-ov-file
+
+2312.06734v2.pdf
+https://arxiv.org/pdf/2312.06734
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no9-diffcast-a-unified-framework-via-residual-diffusion-for-precipitation-nowcasting-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0
+
 # 2024-8-29
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
