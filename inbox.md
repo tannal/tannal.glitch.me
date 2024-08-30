@@ -1,6 +1,22 @@
 
 # 2024-8-30 0 | 0 W
 
+
+curl -L https://cpanmin.us | perl - -l ~/tannalwork/perl5 local::lib
+
+wget https://github.com/openssl/openssl/releases/download/openssl-3.3.1/openssl-3.3.1.tar.gz
+tar -xzvf openssl-3.3.1.tar.gz
+
+./config --prefix=`pwd`/_openssl --openssldir=`pwd`/_openssl no-ssl2 no-ssl3
+
+wget https://curl.se/download/curl-8.9.1.tar.gz
+tar -xzvf curl-8.9.1.tar.gz
+
+./configure --prefix=`pwd`/_curl --with-ssl
+
+
+pip install diffusers transformers tqdm accelerate datasets -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 ./configure --prefix=`pwd`/_git --with-openssl --with-curl --with-iconv
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118

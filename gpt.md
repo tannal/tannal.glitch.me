@@ -1,5 +1,28 @@
 
 
+您提出了一个很好的问题。确实，OpenSSL 的构建过程依赖于 Perl 这样的"远古"工具可能会让人感到困扰。不过，有几个较为轻量级的替代品可以考虑：
+
+LibreSSL：
+由 OpenBSD 项目开发，是 OpenSSL 的一个分支。
+目标是提供更安全、更简单的代码库。
+构建过程比 OpenSSL 简单，依赖较少。
+BoringSSL：
+由 Google 维护的 OpenSSL 分支。
+专注于简化和现代化，去除了许多遗留功能。
+构建系统使用 CMake，通常依赖较少。
+wolfSSL（前身是 CyaSSL）：
+一个轻量级的 SSL/TLS 库。
+专为嵌入式和 RTOS 环境设计，但也可用于其他场景。
+构建过程相对简单，依赖较少。
+mbedTLS（前身是 PolarSSL）：
+由 ARM 维护的轻量级密码学和 SSL/TLS 库。
+设计简洁，易于理解和集成。
+构建过程相对简单，通常只需要一个 C 编译器。
+s2n：
+由 Amazon 开发的 TLS 实现。
+专注于简单性和安全性。
+构建过程相对直接，依赖较少。
+
 MicroSSH
 一个轻量级的 SSH 服务器实现
 源码: https://github.com/openssh/openssh-portable
