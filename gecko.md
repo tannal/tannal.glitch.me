@@ -1,3 +1,12 @@
+
+# Achievement
+
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+
+
+implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
+
 # working on
 
 Bug 1896539 - Fix typos in ChromeUtils.webidl r?aminomancer
@@ -15,6 +24,11 @@ https://bugzilla.mozilla.org/user_profile?user_id=310076
 
 # dev
 
+MOZCONFIG=mozconfig.jsshell ./mach jstests regexp-prototype-matchAll-flags.js
+MOZCONFIG=mozconfig.jsshell ./mach jstests redeclaring-global-properties.js
+MOZCONFIG=mozconfig.jsshell ./mach jstests v-flag.js
+
+ReportOutOfMemory
 
 ./test262-export.py --out ../test-262/ --src js/src/tests/test262/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-flags.js
 

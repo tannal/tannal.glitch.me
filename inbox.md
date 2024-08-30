@@ -1,6 +1,9 @@
 
 # 2024-8-30 0 | 0 W
 
+
+cargo install --path crates/typst-cli/
+
 sudo apt install openjdk-21-jdk
 
 pip install -U "huggingface_hub[cli]" -i https://pypi.tuna.tsinghua.edu.cn/simple
