@@ -1,7 +1,23 @@
 
 # 2024-8-30 0 | 0 W
 
-cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DLLAMA_CUDA=ON
+-DGGML_CUDA=ON
+
+echo "内存限制: $(echo "scale=2; $(cat /sys/fs/cgroup/memory/slurm/uid_1243/job_2149477/memory.limit_in_bytes) / 1024 / 1024 / 1024" | bc) GB"
+
+echo "CPU 分配: $(cat /sys/fs/cgroup/cpuset/slurm/uid_1243/job_2149477/cpuset.cpus)"
+
+echo "当前内存使用: $(echo "scale=2; $(cat /sys/fs/cgroup/memory/slurm/uid_1243/job_2149477/memory.usage_in_bytes) / 1024 / 1024 / 1024" | bc) GB"
+
+echo "CPU 总使用时间: $(echo "scale=2; $(cat /sys/fs/cgroup/cpuacct/slurm/uid_1243/job_2149477/cpuacct.usage) / 1000000000 / 60" | bc) 分钟"
+
+pgrep -a cc1plus
+
+conda install -c conda-forge htop dstat
+
+export https_proxy=http://10.90.90.246:7890
+
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DGGML_CUDA=ON
 cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DLLAMA_CUDA=ON
 
 conda env create -f env.ymal
@@ -11,6 +27,8 @@ conda create -n
 
 conda activate cenv
 conda install -c conda-forge git
+conda install -c conda-forge dool
+conda install -c conda-forge gdown
 
 
 curl -L https://cpanmin.us | perl - -l ~/tannalwork/perl5 local::lib
@@ -67,8 +85,7 @@ make prefix=`pwd`/_git install install-doc install-html install-info
 pip install pytorch -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
-srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
-
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --mem-per-cpu=4000MB -c 4 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
 
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
 

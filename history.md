@@ -1,5 +1,68 @@
 # 2024-8-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+python - How do I check if PyTorch is using the GPU? - Stack Overflow
+https://stackoverflow.com/questions/48152674/how-do-i-check-if-pytorch-is-using-the-gpu
+
+DeminYu98/DiffCast: [CVPR 2024] Official implementation of "DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting"
+https://github.com/DeminYu98/DiffCast?tab=readme-ov-file
+
+liuhaotian (Haotian Liu)
+https://huggingface.co/liuhaotian
+
+git: 'remote-https' is not a git command? - Stack Overflow
+https://stackoverflow.com/questions/51366101/git-remote-https-is-not-a-git-command
+
+curl downloads
+https://curl.se/download/
+
+Downloads | Library
+https://openssl-library.org/source/
+
+cpanmin.us/
+http://cpanmin.us/
+
+Tags · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/tags
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+test: merge ongc and gcutil into gc.js · tannal/node@0b6b2a4
+https://github.com/tannal/node/actions/runs/10611125402/job/29409985074
+
+node/BUILDING.md at main · nodejs/node
+https://github.com/nodejs/node/blob/main/BUILDING.md
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+3153. 所有数对中数位不同之和 - 力扣（LeetCode）
+https://leetcode.cn/problems/sum-of-digit-differences-of-all-pairs/
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=0B7EVK8r0v71pZjFTYXZWM3FlRnM&export=download&authuser=0
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=0B7EVK8r0v71pZjFTYXZWM3FlRnM&authuser=0
+
+Google 云端硬盘 - 病毒扫描警告
+https://drive.usercontent.google.com/download?id=0B7EVK8r0v71pZjFTYXZWM3FlRnM&authuser=0
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1037319 - IonMonkey: ensureOsiSpace inserts too many nop instructions for padding on ARM.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1037319
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp%20llama3&type=code
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
