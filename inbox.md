@@ -1,5 +1,43 @@
 
+# 2024-8-30 0 | 0 W
+
+./configure --prefix=`pwd`/_git --with-openssl --with-curl --with-iconv
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+export PATH=/datapool/home/ph_teacher2/tannalwork/autoconf-2.72/_autoconfig/bin:$PATH
+export PATH=/datapool/home/ph_teacher2/tannalwork/m4-1.4.19/_m4/bin:$PATH
+export PATH=/datapool/home/ph_teacher2/tannalwork/git-2.46.0/_git/bin:$PATH
+
+wget https://ftp.gnu.org/gnu/m4/m4-latest.tar.gz
+tar -xzvf m4-latest.tar.gz
+
+wget https://ftp.gnu.org/gnu/autoconf/autoconf-latest.tar.gz
+tar -xzvf autoconf-latest.tar.gz
+
+wget https://github.com/git/git/archive/refs/tags/v2.46.0.tar.gz
+tar -xzvf v2.46.0.tar.gz
+cd git-2.46.0
+
+./configure --prefix=`pwd`/_git --without-iconv
+
+
+make configure
+./configure --prefix=`pwd`/_git
+make all doc
+make install install-doc install-html;
+
+make --without-iconv prefix=`pwd`/_git all doc info
+make prefix=`pwd`/_git install install-doc install-html install-info
+
+
+# 2024-8-29 0 | 0 W
+
 # 2024-8-28 0 | 0 W
+
+pip install pytorch -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
