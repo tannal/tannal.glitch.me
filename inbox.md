@@ -1,6 +1,9 @@
 
 # 2024-8-30 0 | 0 W
 
+cmake -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DLLAMA_CUDA=ON
+cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DLLAMA_CUDA=ON
+
 conda env create -f env.ymal
 conda activate diffcast
 
