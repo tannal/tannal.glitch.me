@@ -1,5 +1,31 @@
 
 
+LAION-5B：
+这是一个大规模的图像-文本对数据集，包含超过 58 亿个样本。
+网址：https://laion.ai/blog/laion-5b/
+可以使用 img2dataset 工具下载子集：https://github.com/rom1504/img2dataset
+Conceptual Captions：
+由 Google AI 发布的大规模图像描述数据集。
+网址：https://ai.google.com/research/ConceptualCaptions/
+COCO (Common Objects in Context)：
+包含超过 33 万张图像和相应的标注。
+网址：https://cocodataset.org/
+Flickr30k：
+包含 31,783 张图像，每张图像有 5 个描述。
+可以通过 Hugging Face 获取：https://huggingface.co/datasets/flickr30k
+Unsplash Dataset：
+包含超过 200 万张高质量图片和相关标签。
+网址：https://unsplash.com/data
+Open Images Dataset：
+由 Google 发布的大规模数据集，包含约 900 万张图像。
+网址：https://storage.googleapis.com/openimages/web/index.html
+Visual Genome：
+包含丰富的视觉知识数据库，约 10.8 万张图像。
+网址：https://visualgenome.org/
+Artbench-10：
+专门用于艺术风格迁移的数据集。
+可以通过 Hugging Face 获取：
+
 您提出了一个很好的问题。确实，OpenSSL 的构建过程依赖于 Perl 这样的"远古"工具可能会让人感到困扰。不过，有几个较为轻量级的替代品可以考虑：
 
 LibreSSL：

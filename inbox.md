@@ -1,6 +1,11 @@
 
 # 2024-8-30 0 | 0 W
 
+conda create -n
+
+conda activate cenv
+conda install -c conda-forge git
+
 
 curl -L https://cpanmin.us | perl - -l ~/tannalwork/perl5 local::lib
 
