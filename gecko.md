@@ -1,5 +1,7 @@
 # working on
 
+Bug 1896539 - Fix typos in ChromeUtils.webidl r?aminomancer
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
