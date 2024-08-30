@@ -1,6 +1,9 @@
 
 # 2024-8-30 0 | 0 W
 
+conda env create -f env.ymal
+conda activate diffcast
+
 conda create -n
 
 conda activate cenv
