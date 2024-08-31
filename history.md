@@ -1,5 +1,68 @@
 # 2024-8-31
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1216594 - Factor Trampolines and use EnterJitData instead of tons of arguments.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1216594
+
+User Profile: Nicolas B. Pierron [:nbp] <nicolas.b.pierron@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=422187
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
+
+1326193 - Inline code to compare strings
+https://bugzilla.mozilla.org/show_bug.cgi?id=1326193
+
+Codetribute
+https://codetribute.mozilla.org/projects/gfx
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Cuda Toolkit | Anaconda.org
+https://anaconda.org/nvidia/cuda-toolkit
+
+parler-tts.cpp - Google 搜索
+https://www.google.com/search?q=parler-tts.cpp&client=ubuntu-sn&hs=62S&sca_esv=8e108a4aed328a80&channel=fs&sxsrf=ADLYWII_x7xglGgKSjcsFMgKN8XpIYsxfg%3A1725112197408&ei=hR_TZsTJGJzQ1e8Pv_DCOA&ved=0ahUKEwiEoOXdr5-IAxUcaPUHHT-4EAcQ4dUDCBA&uact=5&oq=parler-tts.cpp&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnBhcmxlci10dHMuY3BwSPwLUPkGWJ4KcAF4AZABAJgBiAKgAe8GqgEFMC4yLjK4AQPIAQD4AQGYAgKgApUCwgIKEAAYsAMY1gQYR8ICBBAAGB6YAwCIBgGQBgqSBwUxLjAuMaAH_gI&sclient=gws-wiz-serp
+
+rhasspy/piper: A fast, local neural text to speech system
+https://github.com/rhasspy/piper
+
+USB Accelerator | Coral
+https://coral.ai/products/accelerator/
+
+ModelScope
+https://github.com/modelscope
+
+ollama/ollama: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+https://github.com/ollama/ollama/tree/main
+
+Issues · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues?q=is%3Aissue+is%3Aopen+undefined
+
+CUDA error: the provided PTX was compiled with an unsupported toolchain. · Issue #1615 · zylon-ai/private-gpt
+https://github.com/zylon-ai/private-gpt/issues/1615
+
+Linux+conda+虚拟环境中安装cuda及cudnn - zheng019 - 博客园
+https://www.cnblogs.com/lucky-mumu/p/17146255.html
+
+cuda toolkit版本 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=sFo&sca_esv=5629ad944f1312b7&channel=fs&sxsrf=ADLYWIIhDiRu-zkQrQuP08t-HMNq8PF-6w:1725114272603&q=cuda+toolkit%E7%89%88%E6%9C%AC&sa=X&ved=2ahUKEwiGj6m7t5-IAxX9ja8BHZWcLfMQ1QJ6BAgxEAE&biw=1850&bih=968&dpr=1
+
+CUDA Toolkit 11.8 Downloads | NVIDIA Developer
+https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Rocky&target_version=8&target_type=rpm_local
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
