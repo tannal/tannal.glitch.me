@@ -1,4 +1,99 @@
 
+box86 wine main.exe
+
+tannal@raspi:~/Downloads$ sudo dpkg --add-architecture amd64
+tannal@raspi:~/Downloads$ sudo apt update
+Hit:1 http://ports.ubuntu.com/ubuntu-ports mantic InRelease
+Hit:2 http://ports.ubuntu.com/ubuntu-ports mantic-updates InRelease
+Hit:3 http://ports.ubuntu.com/ubuntu-ports mantic-security InRelease
+Ign:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Ign:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Ign:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Ign:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Ign:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Ign:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Ign:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Ign:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Ign:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Ign:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Ign:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Ign:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Ign:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Ign:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Ign:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Err:4 http://ports.ubuntu.com/ubuntu-ports mantic/main amd64 Packages
+  404  Not Found [IP: 185.125.190.36 80]
+Ign:5 http://ports.ubuntu.com/ubuntu-ports mantic/restricted amd64 Packages
+Ign:6 http://ports.ubuntu.com/ubuntu-ports mantic/universe amd64 Packages
+Ign:7 http://ports.ubuntu.com/ubuntu-ports mantic/multiverse amd64 Packages
+Err:8 http://ports.ubuntu.com/ubuntu-ports mantic-updates/main amd64 Packages
+  404  Not Found [IP: 185.125.190.36 80]
+Ign:9 http://ports.ubuntu.com/ubuntu-ports mantic-updates/restricted amd64 Packages
+Ign:10 http://ports.ubuntu.com/ubuntu-ports mantic-updates/universe amd64 Packages
+Ign:11 http://ports.ubuntu.com/ubuntu-ports mantic-updates/multiverse amd64 Packages
+Err:12 http://ports.ubuntu.com/ubuntu-ports mantic-security/main amd64 Packages
+  404  Not Found [IP: 185.125.190.36 80]
+Ign:13 http://ports.ubuntu.com/ubuntu-ports mantic-security/restricted amd64 Packages
+Ign:14 http://ports.ubuntu.com/ubuntu-ports mantic-security/universe amd64 Packages
+Ign:15 http://ports.ubuntu.com/ubuntu-ports mantic-security/multiverse amd64 Packages
+Reading package lists... Done
+E: Failed to fetch http://ports.ubuntu.com/ubuntu-ports/dists/mantic/main/binary-amd64/Packages  404  Not Found [IP: 185.125.190.36 80]
+E: Failed to fetch http://ports.ubuntu.com/ubuntu-ports/dists/mantic-updates/main/binary-amd64/Packages  404  Not Found [IP: 185.125.190.36 80]
+E: Failed to fetch http://ports.ubuntu.com/ubuntu-ports/dists/mantic-security/main/binary-amd64/Packages  404  Not Found [IP: 185.125.190.36 80]
+E: Some index files failed to download. They have been ignored, or old ones used instead.
+tannal@raspi:~/Downloads$ sudo apt-get install wine32:i386
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package wine32:i386
+
+wine --version
+which wine64
 conda好厉害噢，如果我在一个linux系统上但是没有root权限，需要安装文件一般通过源码编译安装，但是conda可以直接安装，好奇它是如何实现的？厉害厉害
 
 Claude-3.5-Sonnet的机器人图片

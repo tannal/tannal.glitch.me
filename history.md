@@ -1,3 +1,71 @@
+# 2024-8-31
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+Multiarch/HOWTO - Debian Wiki
+https://wiki.debian.org/Multiarch/HOWTO
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+AMD Ryzen 7 6800H vs AMD Ryzen 9 5900HX: What is the difference?
+https://versus.com/en/amd-ryzen-7-6800h-vs-amd-ryzen-9-5900hx
+
+AMD Ryzen™ 7 6800H | AMD
+https://www.amd.com/en/product/11546
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Pacific Standard Time - Google 搜索
+https://www.google.com.hk/search?q=Pacific+Standard+Time&newwindow=1&client=ubuntu-sn&hs=VWJ&sca_esv=087e1c21f0db199c&sca_upv=1&channel=fs&ei=fJDSZq_2INqmkPIPnfaa4Qg&ved=0ahUKEwivpMGpp56IAxVaE0QIHR27JowQ4dUDCA8&uact=5&oq=Pacific+Standard+Time&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVBhY2lmaWMgU3RhbmRhcmQgVGltZTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0imBlCnBVinBXABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgGgAgOYAwCIBgGQBgmSBwExoAcA&sclient=gws-wiz-serp
+
+Test Linux · tannal/node@c9cbce6
+https://github.com/tannal/node/actions/runs/10632776232/job/29476425466
+
+wine64 github - Google 搜索
+https://www.google.com.hk/search?channel=fs&client=ubuntu-sn&q=wine64+github
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+Copilot
+https://github.com/settings/copilot
+
+x11-clipboard/examples/wait_copy_event.rs at master · quininer/x11-clipboard
+https://github.com/quininer/x11-clipboard/blob/master/examples/wait_copy_event.rs
+
+xilem_core: Add `OneOf` views as statically typed alternative to `AnyView` by Philipp-M · Pull Request #394 · linebender/xilem
+https://github.com/linebender/xilem/pull/394
+
+#rust ui > Tauri - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/422907-rust-ui/topic/Tauri
+
+feat: add progress bar widget (#513) · linebender/xilem@a1c7d74
+https://github.com/linebender/xilem/commit/a1c7d74257d4222a3516db28fcc6a8d263233a51
+
+global-hotkey/examples/egui.rs at dev · tauri-apps/global-hotkey
+https://github.com/tauri-apps/global-hotkey/blob/dev/examples/egui.rs
+
+Profiles - The Cargo Book
+https://doc.rust-lang.org/cargo/reference/profiles.html#default-profiles
+
+egui/crates/eframe/CHANGELOG.md at master · emilk/egui
+https://github.com/emilk/egui/blob/master/crates/eframe/CHANGELOG.md
+
+wl-clipboard/src/wl-copy.c at master · bugaevc/wl-clipboard
+https://github.com/bugaevc/wl-clipboard/blob/master/src/wl-copy.c
+
 # 2024-8-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

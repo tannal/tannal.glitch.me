@@ -1,4 +1,19 @@
 
+# 2024-8-30 0 | 0 
+
+
+cargo add xilem --git https://github.com/linebender/xilem
+cargo add vello --git https://github.com/linebender/vello
+cargo add dbus
+cargo add x11-clipboard
+cargo add anyhow
+cargo add tokio --features full
+cargo add serde --features derive
+cargo add serde_json
+cargo add directories
+
+export https_proxy='http://192.168.43.1:7890'
+
 # 2024-8-30 0 | 0 W
 
 export PATH=/home/tannal/Downloads/sbt-1.10.1/sbt/bin:$PATH
