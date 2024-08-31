@@ -1,6 +1,20 @@
 
 # 2024-8-31 0 | 0
 
+conda install -c conda-forge ninja cmake
+
+pip install cuda-toolkit=11.8 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+conda list | grep cudatoolkit
+
+conda create -n tm_cuda12
+conda activate tm_cuda12
+conda install -c nvidia cuda-toolkit=11.8.0
+
+cat /etc/os-release
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 pip install TTS -i https://pypi.tuna.tsinghua.edu.cn/simple
 git clone https://github.com/mozilla/TTS.git 
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
@@ -78,6 +92,7 @@ echo "CPU 总使用时间: $(echo "scale=2; $(cat /sys/fs/cgroup/cpuacct/slurm/u
 pgrep -a cc1plus
 
 conda install -c conda-forge htop dstat
+conda install -c conda-forge ninja
 
 export https_proxy=http://10.90.90.246:7890
 
@@ -583,7 +598,7 @@ transformer 模型（如 BERT、GPT）主要用于自然语言处理，与这些
 
 给你一个片段，把他分割成五块，一块一块给我，告送我每一块在不知道后面是什么的情况下可能表达了什么，再告诉我下一块补充的什么信息，一次性说完
 
-cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release'
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DSD_CUBLAS=ON
 
 curl -L -O https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors
 
@@ -4385,22 +4400,11 @@ python -m pip install torchvision==0.15.2+cu118 --index-url https://download.pyt
 
 python -m pip install torch==2.0.1+cu118 --index-url https://download.pytorch.org/whl/cu118
 
->>> import torch
-
->>> torch.cuda.is_available()
-True
-
->>> torch.cuda.device_count()
-1
-
->>> torch.cuda.current_device()
-0
-
->>> torch.cuda.device(0)
-<torch.cuda.device at 0x7efce0b03be0>
-
->>> torch.cuda.get_device_name(0)
-'GeForce GTX 950M'
+import torch
+torch.cuda.device_count()
+torch.cuda.current_device()
+torch.cuda.device(0)
+torch.cuda.get_device_name(0)
 
 export PATH=/root/tannalwork/cpython/python3.11/bin:"$PATH"
 virtualenv venv python=python3.11
