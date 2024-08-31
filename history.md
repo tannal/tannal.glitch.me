@@ -3,6 +3,72 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+env_logger - Rust
+https://docs.rs/env_logger/latest/env_logger/
+
+xrelkd/clipcat: A clipboard manager written in Rust Programming Language.
+https://github.com/xrelkd/clipcat
+
+davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement
+https://github.com/davatorium/rofi
+
+(917) Recent conversations - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#recent
+
+voxell-tech/bevy_typst: Typst integration for Bevy.
+https://github.com/voxell-tech/bevy_typst
+
+VelloNova
+https://www.vgx.dev/home
+
+Voxell
+https://github.com/voxell-tech
+
+clipboard - crates.io: Rust Package Registry
+https://crates.io/crates/clipboard
+
+hluk/CopyQ: Clipboard manager with advanced features
+https://github.com/hluk/CopyQ
+
+Steam, The Ultimate Online Game Platform
+https://store.steampowered.com/about/
+
+chained together linux - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=chained+together+linux
+
+LinuxGameCast - UNCUT - YouTube
+https://www.youtube.com/@lgcuncut/videos
+
+Steam 上的 Chained Together
+https://store.steampowered.com/app/2567870/Chained_Together/?l=schinese
+
+ValveSoftware/Proton: Compatibility tool for Steam Play based on Wine and additional components
+https://github.com/ValveSoftware/Proton
+
+下载 Chained Together varies-with-devices - 最新版：
+https://www.softonic.cn/download/chained-together/windows/post-download?ext=1
+
+Download
+https://koyso.com/download/907
+
+CVCUDA/CV-CUDA: CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.
+https://github.com/CVCUDA/CV-CUDA
+
+CV-CUDA — CV-CUDA Beta documentation
+https://cvcuda.github.io/CV-CUDA/
+
+SHINPEI KATO OFFICIAL SITE
+https://shinpeikato.com/
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Tasks for new contributors · WebKit/WebKit Wiki
 https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
