@@ -1,6 +1,8 @@
 
 # 2024-8-31 0 | 0
 
+conda install -c nvidia cuda-toolkit=11.8 cuda-cudart=11.8
+
 conda env list
 
 conda env remove --name tm_cuda11
