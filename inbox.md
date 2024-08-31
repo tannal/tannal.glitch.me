@@ -1,15 +1,18 @@
 
 # 2024-8-31 0 | 0
 
-conda install -c conda-forge ninja cmake
+conda env list
+
+conda env remove --name tm_cuda11
 
 pip install cuda-toolkit=11.8 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+conda install -c conda-forge ninja cmake
+conda install -c nvidia cuda-toolkit=11.8
 conda list | grep cudatoolkit
 
-conda create -n tm_cuda12
-conda activate tm_cuda12
-conda install -c nvidia cuda-toolkit=11.8.0
+conda create -n tm_cuda11
+conda activate tm_cuda11
 
 cat /etc/os-release
 

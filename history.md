@@ -1,5 +1,68 @@
 # 2024-8-31
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1899303 - Implement Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899303
+
+leejet/stable-diffusion.cpp: Stable Diffusion and Flux in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp/?tab=readme-ov-file
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+wine software mesa renderer - Google 搜索
+https://www.google.com/search?channel=fs&client=ubuntu-sn&q=wine+software+mesa+renderer
+
+Coldplay - Hymn For The Weekend (Radio 1's Big Weekend 2016) - YouTube
+https://www.youtube.com/watch?v=nm5CiwNluKI
+
+Avril Lavigne - Complicated (Official Video) - YouTube
+https://www.youtube.com/watch?v=5NPBIwQyPWE
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+Test Linux · tannal/node@07d5944
+https://github.com/tannal/node/actions/runs/10644285563/job/29508852738
+
+Start Locally | PyTorch
+https://pytorch.org/get-started/locally/
+
+Codetribute
+https://codetribute.mozilla.org/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+3127. 构造相同颜色的正方形 - 力扣（LeetCode）
+https://leetcode.cn/problems/make-a-square-with-the-same-color/description/
+
+Data Center Driver for Linux RHEL 8 560.35.03 | Linux 64-bit RHEL 8 | NVIDIA
+https://www.nvidia.com/en-us/drivers/details/231051/
+
+Unix Drivers | NVIDIA
+https://www.nvidia.com/en-us/drivers/unix/
+
+加入金智-江苏金智教育信息股份有限公司-国内领先的高等教育信息化服务提供商
+https://wisedu.com/?list_23/
+
+python - Why can't I install cudatookkit=10.1 using pip but can using conda? - Stack Overflow
+https://stackoverflow.com/questions/67912832/why-cant-i-install-cudatookkit-10-1-using-pip-but-can-using-conda
+
+gta-v.en.softonic.com/
+https://gta-v.en.softonic.com/
+
+Ninja | Anaconda.org
+https://anaconda.org/conda-forge/ninja
+
+Managing environments — conda 4.6.0 documentation
+https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html
+
+Managing channels — conda 24.7.2.dev64 documentation
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-channels.html
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
