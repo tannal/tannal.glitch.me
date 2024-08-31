@@ -1,8 +1,16 @@
 # 2024-8-31 0 | 0
 
-ollma ggml vllm
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DMN_CUDA=ON
 
 conda install nvidia/label/cuda-11.8.0::cuda-toolkit
+
+conda install conda-forge/label/broken::gcc_impl_linux-64
+conda install conda-forge/label/broken::gxx_impl_linux-64
+
+
+conda install conda-forge/label/broken::gxx_impl_linux-64
+
+conda install conda-forge gcc=11 gxx=11
 
 conda install -c nvidia cuda-toolkit=11.8 cuda-cudart=11.8
 conda install -c nvidia cuda-toolkit=11.7 cuda-cudart=11.7
@@ -42,6 +50,7 @@ WINEPREFIX=~/.wine /opt/wine/bin/wine ChainedTogether.exe
 WINEPREFIX=~/.wine64 wine64 ChainedTogether.exe
 
 # 2024-8-30 0 | 0 
+
 
 
 
@@ -144,11 +153,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 export PATH=/datapool/home/ph_teacher2/tannalwork/autoconf-2.72/_autoconfig/bin:$PATH
-export PATH=/datapool/home/ph_teacher2/tannalwork/m4-1.4.19/_m4/bin:$PATH
-export PATH=/datapool/home/ph_teacher2/tannalwork/git-2.46.0/_git/bin:$PATH
-
-wget https://ftp.gnu.org/gnu/m4/m4-latest.tar.gz
-tar -xzvf m4-latest.tar.gz
 
 wget https://ftp.gnu.org/gnu/autoconf/autoconf-latest.tar.gz
 tar -xzvf autoconf-latest.tar.gz
