@@ -1,6 +1,7 @@
 
 # Achievement
 
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
 
 https://phabricator.services.mozilla.com/D214042
 
@@ -11,6 +12,8 @@ Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dmin
 implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
 # working on
+
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
 
