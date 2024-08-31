@@ -1,20 +1,27 @@
-
 # 2024-8-31 0 | 0
 
+ollma ggml vllm
+
+conda install nvidia/label/cuda-11.8.0::cuda-toolkit
+
 conda install -c nvidia cuda-toolkit=11.8 cuda-cudart=11.8
+conda install -c nvidia cuda-toolkit=11.7 cuda-cudart=11.7
+conda install -c nvidia cuda-toolkit=11.6 cuda-cudart=11.6
 
 conda env list
+conda deactivate
 
 conda env remove --name tm_cuda11
 
 pip install cuda-toolkit=11.8 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-conda install -c conda-forge ninja cmake
+conda install -c conda-forge ninja cmake gdb clang
 conda install -c nvidia cuda-toolkit=11.8
 conda list | grep cudatoolkit
 
 conda create -n tm_cuda11
 conda activate tm_cuda11
+conda activate cenv
 
 cat /etc/os-release
 
