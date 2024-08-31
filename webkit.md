@@ -1,6 +1,22 @@
 
 # dev
 
+  "directory": "/home/tannal/tannalwork/projects/WebKit/WebKitBuild/JSCOnly/Debug",
+  "command": "/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-g++ --sysroot=/home/tannal/tannalwork/projects/buildroot/output/host/usr/aarch64-buildroot-linux-gnu/sysroot -DBUILDING_JSCONLY__ -DBUILDING_WEBKIT=1 -DBUILDING_WITH_CMAKE=1 -DBUILDING_bmalloc -DHAVE_CONFIG_H=1 -DPAS_BMALLOC=1 -D_GNU_SOURCE -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/libpas/src/libpas -fdiagnostics-color=always -Wextra -Wall -pipe -fmax-errors=20 -Wno-odr -Wno-stringop-overread -Wno-stringop-overflow -Wno-nonnull -Wno-array-bounds -Wno-expansion-to-defined -Wno-noexcept-type -Wno-psabi -Wno-misleading-indentation -Wno-maybe-uninitialized -Wundef -Wpointer-arith -Wmissing-format-attribute -Wformat-security -Wcast-align -Wno-tautological-compare -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -O2 -g0 -D_FORTIFY_SOURCE=1 -fno-strict-aliasing -fno-exceptions -fno-rtti -fcoroutines -ffunction-sections -fdata-sections -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Werror -Wno-missing-field-initializers -Wno-cast-align -std=c++23 -o Source/bmalloc/CMakeFiles/bmalloc.dir/bmalloc/AllIsoHeaps.cpp.o -c /home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc/AllIsoHeaps.cpp",
+  "file": "/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc/AllIsoHeaps.cpp"
+
+Pacific Standard Time
+
+export BR2_HOST_DIR="/home/tannal/tannalwork/projects/buildroot"
+export CROSS_COMPILE="$(basename $(cat ${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake|grep CMAKE_CXX_COMPILER|awk -F'"' '{print $2}')|sed "s/g++$//g")"
+export PATH="${BR2_HOST_DIR}/usr/bin:${PATH}"
+export CC="${CROSS_COMPILE}gcc"
+
+export BUILD_JSC_ARGS="--cmakeargs=-DCMAKE_TOOLCHAIN_FILE=${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake"
+export CC=aarch64-linux-gnu-gcc
+export CXX=aarch64-linux-gnu-g++
+Tools/Scripts/build-jsc --jsc-only --debug
+
 
 3474:	a9be7bfd 	stp	x29, x30, [sp, #-32]!
 3478:	910003fd 	mov	x29, sp
@@ -28,6 +44,8 @@ fd030091
 qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot  WebKitBuild/JSCOnly/Debug/bin/jsc
 
 disassembleBase64('/QMAkQ==')
+
+./Tools/Scripts/build-jsc --jsc-only --debug
 
 git pull
 
