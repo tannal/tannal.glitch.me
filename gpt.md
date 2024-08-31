@@ -1,4 +1,25 @@
 
+
+Wine 替代品:
+Proton: 由 Valve 开发,基于 Wine,专门针对 Steam 游戏优化。
+CrossOver: 商业版 Wine,提供更好的支持和兼容性。
+PlayOnLinux: Wine 的图形化前端,简化了 Windows 应用安装过程。
+Lutris: 开源游戏管理器,集成了 Wine 和其他兼容层。
+为什么游戏公司不发布 Linux 版本:
+市场份额小: Linux 桌面用户相对较少。
+开发成本高: 需要额外的人力和资源来开发和维护 Linux 版本。
+技术挑战: Linux 平台的硬件和驱动程序差异增加了开发难度。
+Windows 生态系统: 许多开发工具和中间件主要针对 Windows。
+历史因素: 长期以来,Windows 一直是主流游戏平台。
+微软的影响:
+DirectX: 微软的专有图形 API 长期主导游戏开发。
+商业合作: 微软与游戏公司的合作关系。
+开发工具: Visual Studio 等工具主要针对 Windows 开发。
+显卡驱动问题:
+早期确实存在 Linux 显卡驱动支持不足的问题。
+NVIDIA 和 AMD 逐渐改善了 Linux 驱动支持。
+开源驱动项目(如 Nouveau)也在不断进步。
+
 box86 wine main.exe
 
 tannal@raspi:~/Downloads$ sudo dpkg --add-architecture amd64

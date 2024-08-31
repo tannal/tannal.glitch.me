@@ -25,7 +25,7 @@ install wine mono c sharp
 
 sudo apt install libx11-dev:i386 libfreetype6-dev:i386
 
-./configure --prefix=/opt/wine
+./configure -q -C --enable-archs=i386,x86_64,aarch64 --prefix=/opt/wine --enable-win64
 
 git clone git://source.winehq.org/git/wine.git
 

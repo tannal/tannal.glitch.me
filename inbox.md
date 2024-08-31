@@ -1,5 +1,22 @@
 
+# 2024-8-31 0 | 0
+
+pip install TTS -i https://pypi.tuna.tsinghua.edu.cn/simple
+git clone https://github.com/mozilla/TTS.git 
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+sudo dpkg -r wine
+
+sudo dpkg --add-architecture i386
+
+WINEPREFIX=~/.wine /opt/wine/bin/wine ChainedTogether.exe
+
+WINEPREFIX=~/.wine64 wine64 ChainedTogether.exe
+
 # 2024-8-30 0 | 0 
+
 
 
 cargo add xilem --git https://github.com/linebender/xilem
