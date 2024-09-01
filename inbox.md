@@ -2,6 +2,11 @@
 
 
 
+bash ./models/download-ggml-model.sh large-v3
+
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --mem-per-cpu=4000MB -c 10 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
+
 # 2024-8-31 0 | 0
 
 export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
