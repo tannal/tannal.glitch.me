@@ -573,6 +573,25 @@ igalia申请 deadline
 
 # 2024-9-2 - 2024-9-9
 
+*AI* 职位
+*frontend* 职位
+*igalia* 职位
+*family*
+*graduate* 毕业 应届生 学位
+
+[] Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
+[] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
+[] 选课 9.1 24:00 17:00，退补选
+
+[] gift实验室 同学 *graduate*
+[] 一生一芯 *graduate* *AI*
+[] 音乐AI *graduate* *AI*
+
+[] k30s相册，预约上门退货 *family*
+[] 洞洞鞋 衣服 裤子 秋 *life*
+[] redeclare variables proposal 
+[] A800 whisper.cpp stable-diffusion.cpp *AI*
+
 # 2024-8-28 - 2024-9-2
 
 [x] 免修英语
