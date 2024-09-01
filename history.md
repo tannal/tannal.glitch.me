@@ -1,5 +1,59 @@
 # 2024-9-1
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+新生入学-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/xsrx.htm
+
+Building and testing SpiderMonkey — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/js/build.html
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=qY5z2ZNBvW3g
+
+403 Forbidden
+https://pg.nenu.edu.cn/
+
+Log in to Bugzilla
+https://bugs.webkit.org/show_bug.cgi?id=278592&GoAheadAndLogIn=1
+
+研究生招生服务系统
+https://yz.nenu.edu.cn/login/enterMain/zsKsdXsbd/enterSubmitXsbd
+
+Learn JavaScript, React, and TypeScript to Node.js, Fullstack, and Backend | Frontend Masters
+https://frontendmasters.com/
+
+信息管理系统
+https://pg.nenu.edu.cn/HProg/sys/php/MainError.php
+
+Error 403 (Forbidden)
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+“欢迎使用 Colaboratory”的副本 - Colab
+https://colab.research.google.com/drive/1a9J54NuXiNftN2JMCcx55UBwuqS-Kfsn#scrollTo=MFhnDaXi5pOK
+
+真的有人会用 Linux 打游戏吗？|插件|linux|windows_网易订阅
+https://www.163.com/dy/article/J5753PR905119NPR.html
+
+Wine游戏助手 - 葡萄玩
+https://winegame.net/home
+
+Download Lutris
+https://lutris.net/downloads
+
+Chained Together (2024)
+https://www.igdb.com/games/chained-together#releases
+
+红米k30s 相册 读写权限 bug - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3k30s+%E7%9B%B8%E5%86%8C+%E8%AF%BB%E5%86%99%E6%9D%83%E9%99%90+bug&sca_esv=f4c5abb9b9cacb24&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJoVvJJTjdbHljZVcRird_ymLO8gw:1725102984447&ei=iPvSZriAG9q7vr0P-pSb-QI&start=10&sa=N&sstk=Aagrsujc-AtQDLJOImSm1P5VqoQEySJDJDXyXKbTcxP57gGU7wz5N3GElzkYmbOIpXuJ1DaKrvPtVXzqZMjxME-tD9zsTW8ZAkmHlQ&ved=2ahUKEwi45Nq0jZ-IAxXana8BHXrKJi8Q8tMDegQIBBAE&biw=1536&bih=703&dpr=1.25
+
 Error 429 (Too Many Requests)
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
