@@ -11,6 +11,14 @@ involves:ggerganov
 
 # inbox
 
+llm.c
+
+conda install -c conda-forge cudnn
+
+make train_gpt2cu USE_CUDNN=1
+
+https://huggingface.co/datasets/karpathy/llmc-starter-pack/resolve/main/
+
 ffmpeg -i J -vn -ar 16000 -ac 2 -ab 160k poor.wav
 
 ./main -m models/ggml-large-v3.bin -f poor. -l ja poor.wav
