@@ -1,5 +1,68 @@
 # 2024-9-1
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+omni-clip
+https://omniclip.app/#welcome
+
+东北师范大学2024级学术学位硕士研究生开课选课须知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1212/5998.htm
+
+Webkit support? · Issue #11 · omni-media/omniclip
+https://github.com/omni-media/omniclip/issues/11
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+AlternativeTo - Crowdsourced software recommendations
+https://alternativeto.net/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+bili_27628432889投稿视频-bili_27628432889视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.selfDef.errorpage
+
+flolu/davinci-resolve-linux: Setup Davinci Resolve on Linux an Fix Issues with Importing and Exporting Media
+https://github.com/flolu/davinci-resolve-linux
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Machine Learning Infrastructure Engineer, Core Resources at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4095101008
+
+KDE/kdenlive: Free and open source video editor, based on MLT Framework and KDE Frameworks
+https://github.com/KDE/kdenlive
+
+Linux Mint drops Ubuntu Snap packages | Hacker News
+https://news.ycombinator.com/item?id=23771847
+
+Exporting — Kdenlive Manual 24.05 documentation
+https://docs.kdenlive.org/en/exporting.html
+
+In Kdenlive, how to select an area for render? - Video Production Stack Exchange
+https://video.stackexchange.com/questions/22897/in-kdenlive-how-to-select-an-area-for-render
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
