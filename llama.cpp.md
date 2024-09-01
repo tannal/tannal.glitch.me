@@ -2,6 +2,8 @@
 
 # people
 
+WHISPER_CUDA=1 make -j 
+
 cmake . -DCMAKE_C_FLAGS="-mfpu=neon-fp-armv8 -mfp16-format=ieee -mno-unaligned-access -funsafe-math-optimizations"
 
 involves:ggerganov
