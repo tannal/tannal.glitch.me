@@ -1,3 +1,38 @@
+# 2024-9-1
+
+Error 429 (Too Many Requests)
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+GitHub
+https://github.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Testing · V8
+https://v8.dev/docs/test
+
+Tags · git/git
+https://github.com/git/git/tags
+
+Steam 上的 Chained Together
+https://store.steampowered.com/app/2567870/Chained_Together/
+
+(97) Chained Together - Linux Shakedown - YouTube
+https://www.youtube.com/watch?v=9skyN893UK8
+
+[Chained Together] I'm getting no licenses : r/LinuxCrackSupport
+https://www.reddit.com/r/LinuxCrackSupport/comments/1e6j8yt/chained_together_im_getting_no_licenses/
+
+在linux上玩steam 破解游戏 - Google 搜索
+https://www.google.com/search?q=%E5%9C%A8linux%E4%B8%8A%E7%8E%A9steam+%E7%A0%B4%E8%A7%A3%E6%B8%B8%E6%88%8F&sca_esv=ca2afd3140aade13&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIIa75K9eu-CS50bYstrDlLWs73csw:1725086125931&ei=rbnSZuvBOL_g1e8P4IyX0AM&start=10&sa=N&sstk=Aagrsuj7jhmugZGPyOunxCoP04VfF4rb_6TGOnvDsQzoe8r77R3XFVHsGO2ynWK9N0e5mJB8KgGufZ188Vmp_Sgk4ajadJkhdp4eqA&ved=2ahUKEwirzPjNzp6IAxU_cPUHHWDGBToQ8tMDegQICBAE&biw=1280&bih=593&dpr=1.5
+
+Chained Together 下载
+https://koyso.com/game/907?l=schinese
+
+(11) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
 # 2024-8-31
 
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

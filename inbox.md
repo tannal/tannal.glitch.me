@@ -1,5 +1,22 @@
 # 2024-8-31 0 | 0
 
+curl -L -O https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors
+curl -L -O https://huggingface.co/Yntec/stable-diffusion-v1-5/resolve/main/v1-5-pruned-fp16-no-ema.safetensors
+
+/* verilator lint_off UNUSED */
+
+➜  tannalwork scancel 2154977 2154978
+➜  tannalwork squeue
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+           2154966   phys_hq  tm_test ph_teach CG    1:06:21      1 g08
+           2134279   phys_hq  jupyter ph_teach  R 21-22:06:11      1 g07
+           2149256   phys_hq  jupyter ph_teach  R 2-14:32:38      1 g07
+           2149262   phys_hq ultralyt ph_teach  R 2-13:54:16      1 g09
+           2154721   phys_hq zls_ggam ph_teach  R   22:36:13      1 g08
+
+export PATH=/home/tannal/Downloads/sbt-1.10.1/sbt/bin:$PATH
+sbt "runMain accelerator.Elaborate"
+
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
 srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --mem-per-cpu=4000MB -c 16 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
 
