@@ -1,5 +1,8 @@
 # 2024-8-31 0 | 0
 
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test frpc -c frpc.toml
+srun --partition=phys_hq --nodelist=g08 --job-name=tm_test --gres=gpu:1 --mem-per-cpu=4000MB -c 16 --pty ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
+
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DMN_CUDA=ON
 
 conda install nvidia/label/cuda-11.8.0::cuda-toolkit
