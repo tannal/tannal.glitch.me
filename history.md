@@ -1,5 +1,77 @@
 # 2024-9-1
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Future Frontend 2024
+https://futurefrontend.com/2024/
+
+Saving Todos in LocalStorage - JavaScript Design Patterns for Web Apps
+https://frontendmasters.com/courses/js-design-patterns/saving-todos-in-localstorage/
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-4bmd7d25nix2m4x6y6uw&statuses%5B0%5D=open()&order=newest&bucket=action
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+东北师范大学2024级学术学位硕士研究生开课选课须知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1212/5998.htm
+
+1899413 - Support v flag in RegExp.prototype[@@matchAll]
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
+
+1452. 收藏清单 - 力扣（LeetCode）
+https://leetcode.cn/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/
+
+WebGL Report
+https://webglreport.com/?v=2
+
+Fix various issues with replaced elements in flex layout (#33263) · tannal/servo@3acc9ed
+https://github.com/tannal/servo/commit/3acc9edd82ce159a356bd88a26fd37b2b39d6a44#diff-aca2c1f37eb56fe10daa22fc0031bf7b37002021d7555a2a8436f9061ec42428
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++
+https://github.com/ggerganov/whisper.cpp/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+【Piano Cover】林俊傑36首歌曲大串燒 / JJ Lin Medley｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=RXZ8cTZcbmQ
+
+Piano Genie - I AM A.I.
+https://www.i-am.ai/piano-genie.html
+
+patrickroberts/music-js: HTML5 Audio API music visualizer for JavaScript
+https://github.com/patrickroberts/music-js
+
+magenta/magenta: Magenta: Music and Art Generation with Machine Intelligence
+https://github.com/magenta/magenta
+
+librosa/librosa: Python library for audio and music analysis
+https://github.com/librosa/librosa
+
+Releases · MTG/essentia
+https://github.com/MTG/essentia
+
+Sonic Visualiser
+https://www.sonicvisualiser.org/
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+legendecas (legendecas) / Repositories
+https://github.com/legendecas?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

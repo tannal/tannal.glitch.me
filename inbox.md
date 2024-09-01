@@ -1,3 +1,7 @@
+# 2024-9-1 0 | 0
+
+
+
 # 2024-8-31 0 | 0
 
 export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
