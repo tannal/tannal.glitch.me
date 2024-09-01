@@ -1,5 +1,12 @@
 # 2024-9-1 0 | 0
 
+
+safetensors
+
+unset CUDNN_FRONTEND_PATH
+
+https://github.com/ztachip/ztachip
+
 conda install -c conda-forge cudnn
 
 sudo apt update

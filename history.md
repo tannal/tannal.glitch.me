@@ -1,5 +1,92 @@
 # 2024-9-1
 
+llm.c.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Webgpu backend by audiovention · Pull Request #585 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/585
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+conda install perf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=conda+install+perf
+
+rhysjones/gpt2-124M-edu-fineweb-10B · Hugging Face
+https://huggingface.co/rhysjones/gpt2-124M-edu-fineweb-10B
+
+NVIDIA/cudnn-frontend: cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
+https://github.com/NVIDIA/cudnn-frontend/tree/main
+
+Log in | NVIDIA Developer
+https://developer.nvidia.com/login
+
+huggingface/lighteval: LightEval is a lightweight LLM evaluation suite that Hugging Face has been using internally with the recently released LLM data processing library datatrove and LLM training library nanotron.
+https://github.com/huggingface/lighteval
+
+eliebak (Elie Bakouch)
+https://huggingface.co/eliebak
+
+eliebak (Elie Bakouch)
+https://huggingface.co/eliebak
+
+README.md · karpathy/llmc-starter-pack at main
+https://huggingface.co/datasets/karpathy/llmc-starter-pack/blob/main/README.md
+
+tensorflow - How to install latest cuDNN to conda? - Stack Overflow
+https://stackoverflow.com/questions/55256671/how-to-install-latest-cudnn-to-conda
+
+CUDA 深度神经网络库 (cuDNN) | NVIDIA 开发者
+https://developer.nvidia.cn/cudnn
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.999.0.0#/whisper/mid844424930131966
+
+创作灵感
+https://member.bilibili.com/york/up-inspiration/today?navhide=1&from=14&page_from=home_14&tab_id=5
+
+HuggingFaceFW/fineweb at main
+https://huggingface.co/datasets/HuggingFaceFW/fineweb/tree/main/data
+
+Model Export to Hugging Face format and optionally upload by rhys101 · Pull Request #571 · karpathy/llm.c
+https://github.com/karpathy/llm.c/pull/571
+
+rhysjones/gpt2-124M-edu-fineweb-10B · Hugging Face
+https://huggingface.co/rhysjones/gpt2-124M-edu-fineweb-10B
+
+javascript - Why Node.js Some Internal Module Register External Reference And Other Module not? - Stack Overflow
+https://stackoverflow.com/questions/65841732/why-node-js-some-internal-module-register-external-reference-and-other-module-no
+
+node/src/README.md at 0991dfceceede0b0ad47abf866e571dd5164d231 · nodejs/node
+https://github.com/nodejs/node/blob/0991dfceceede0b0ad47abf866e571dd5164d231/src/README.md
+
+Stable Diffusion in C/C++ | Hacker News
+https://news.ycombinator.com/item?id=37187663
+
+VoltaML/voltaML-fast-stable-diffusion: Beautiful and Easy to use Stable Diffusion WebUI
+https://github.com/VoltaML/voltaML-fast-stable-diffusion
+
+Model Downloader | VoltaML
+https://voltaml.github.io/voltaML-fast-stable-diffusion/webui/download
+
+mlc-ai/web-stable-diffusion: Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+https://github.com/mlc-ai/web-stable-diffusion
+
+tinygrad/examples/stable_diffusion.py at master · tinygrad/tinygrad
+https://github.com/tinygrad/tinygrad/blob/master/examples/stable_diffusion.py
+
+OFA-Sys
+https://github.com/OFA-Sys
+
+Qwen
+https://github.com/QwenLM
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
