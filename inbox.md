@@ -1,5 +1,8 @@
 # 2024-8-31 0 | 0
 
+export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
+export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/g++"
+
 curl -L -O https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors
 curl -L -O https://huggingface.co/Yntec/stable-diffusion-v1-5/resolve/main/v1-5-pruned-fp16-no-ema.safetensors
 
