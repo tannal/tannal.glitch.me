@@ -3,6 +3,90 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
+https://github.com/ytdl-org/youtube-dl
+
+[Youtube] Get ERROR: giving up after 0 fragment retries (last nightly version) · Issue #32893 · ytdl-org/youtube-dl
+https://github.com/ytdl-org/youtube-dl/issues/32893#issuecomment-2282685148
+
+[youtube] Sign in to confirm you’re not a bot. This helps protect our community · Issue #10128 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/issues/10128
+
+YouTube 1080p Video Downloader(1)
+https://downloaderto.com/engf/
+
+FFmpeg/libavutil/mem.c at 5e380bcdb13dd47ce9c358a4edb281f05fde3f24 · FFmpeg/FFmpeg
+https://github.com/FFmpeg/FFmpeg/blob/5e380bcdb13dd47ce9c358a4edb281f05fde3f24/libavutil/mem.c#L247
+
+git.ffmpeg.org Git - ffmpeg.git/summary
+https://git.ffmpeg.org/ffmpeg.git
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Are the Japanese Scared of the Upcoming Mega Earthquake? | Street Interview - YouTube
+https://www.youtube.com/watch?v=-S5mneMvbvI
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+151. 反转字符串中的单词 - 力扣（LeetCode）
+https://leetcode.cn/problems/reverse-words-in-a-string/?envType=study-plan-v2&envId=top-interview-150
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+Getting Started With OBS Studio Development · obsproject/obs-studio Wiki
+https://github.com/obsproject/obs-studio/wiki/Getting-Started-With-OBS-Studio-Development
+
+Issue search results
+https://github.com/search?q=repo%3Aggerganov%2Fwhisper.cpp+cmake+cuda&type=issues
+
+text to speech state of the art - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=text+to+speech+state+of+the+art
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E4%BB%8A%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AB%E9%96%A2%E3%82%8F%E3%82%8B%E8%81%B7%E6%A5%AD%E3%81%AB%E5%B0%B1%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%81%E6%9D%B1%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%9C%87%E7%81%BD%E3%81%A8%E3%81%8B%E3%82%92%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1%E3%81%8C%E5%A4%9A%E3%81%84%E3%82%93%E3%81%A7%E3%81%99%E3%81%AD%E3%80%82&op=translate
+
+Plachtaa/VITS-fast-fine-tuning: This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
+https://github.com/Plachtaa/VITS-fast-fine-tuning
+
+r9y9/ttslearn: ttslearn: Library for Pythonで学ぶ音声合成 (Text-to-speech with Python)
+https://github.com/r9y9/ttslearn
+
+Bert-VITS2 (ver 2.1, 2.2, 2.3) の学習方法（2023-12-01）
+https://zenn.dev/litagin/articles/b1ddc1da5ea2b3
+
+（Style-)Bert-VITS2 JP-Extra (日本語特化版)について
+https://zenn.dev/litagin/articles/034819a5256ff4
+
+記事を探す | Zenn
+https://zenn.dev/articles/explore
+
+videolan/vlc: VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+https://github.com/videolan/vlc
+
+Code search results
+https://github.com/search?q=repo%3AAppFlowy-IO%2FAppFlowy%20editor&type=code
+
+s0md3v/roop: one-click face swap
+https://github.com/s0md3v/roop
+
+facefusion/facefusion: Next generation face swapper and enhancer
+https://github.com/facefusion/facefusion
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Future Frontend 2024
 https://futurefrontend.com/2024/
 
