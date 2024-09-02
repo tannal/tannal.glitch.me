@@ -587,6 +587,8 @@ igalia申请 deadline
 
 ## igalia
 
+[] Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
 ## life
 
 *AI* 职位

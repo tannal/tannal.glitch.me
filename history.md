@@ -1,3 +1,77 @@
+# 2024-9-2
+
+llm.c.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rhysjones/gpt2-124M-edu-fineweb-10B · Hugging Face
+https://huggingface.co/rhysjones/gpt2-124M-edu-fineweb-10B
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Cleanup after DENO_FUTURE is enabled by default · Issue #25241 · denoland/deno
+https://github.com/denoland/deno/issues/25241
+
+关于我
+https://hyf.me/about
+
+Site not found · GitHub Pages
+https://kdy1.github.io/post/2023/3/turbopack-build/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1435811 - (es-proposals-stage-3) [meta] ECMAScript stage 3 proposals
+https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
+
+1911096 - [Meta] RegExp.escape
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911096
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+1905239 - Dynamic Code Brand Checks
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905239
+
+1710433 - [META] Symbols as WeakMap property keys
+https://bugzilla.mozilla.org/show_bug.cgi?id=1710433
+
+The TC39 Process
+https://tc39.es/process-document/
+
+tc39/proposal-regex-escaping: Proposal for investigating RegExp escaping for the ECMAScript standard
+https://github.com/tc39/proposal-regex-escaping
+
+[JSC] Implement Promise.try · WebKit/WebKit@6d51d57
+https://github.com/WebKit/WebKit/commit/6d51d579af47028306a003653150ade5d395f942#diff-c1e4f1a49ee166a649f6e346d21b288ffcfa652f21afb917ba8fb1e848232620
+
+ChatGGG
+http://192.168.43.1:8080/
+
+1911097 - Initial implementation of RegExp.escape proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911097
+
+Coverage Linux · tannal/node@0c2d53f
+https://github.com/tannal/node/actions/runs/10658491072/job/29539622226
+
+tc39/proposal-promise-try: ECMAScript Proposal, specs, and reference implementation for Promise.try
+https://github.com/tc39/proposal-promise-try
+
+Intersection semantics with `ModuleSource` · Issue #8 · tc39/proposal-dynamic-code-brand-checks
+https://github.com/tc39/proposal-dynamic-code-brand-checks/issues/8
+
+Adam: A Method for Stochastic Optimization - 1412.6980v9.pdf
+https://arxiv.org/pdf/1412.6980
+
+adam w optimzer - Google 搜索
+https://www.google.com/search?q=adam+w+optimzer&client=ubuntu-sn&hs=wS0&sca_esv=cdc61fbb8ee1234c&channel=fs&sxsrf=ADLYWIIXKa-AcyOlQjJkRsHQNE4BW-e2gA%3A1725240649564&ei=SRXVZs2PIuCevr0Pt8j08Ag&ved=0ahUKEwiN2MagjqOIAxVgj68BHTckHY4Q4dUDCBA&uact=5&oq=adam+w+optimzer&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2FkYW0gdyBvcHRpbXplcjIHEAAYgAQYDTIHEAAYgAQYDTIHEAAYgAQYDTIHEAAYgAQYDTIHEAAYgAQYDTIHEAAYgAQYDTIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeSN4bUP8CWJUbcAF4AZABAJgB0gGgAcMKqgEFMC41LjK4AQPIAQD4AQGYAgigAuoKwgIKEAAYsAMY1gQYR8ICCBAuGIAEGMsBwgIIEAAYgAQYywHCAhcQLhiABBjLARiXBRjcBBjeBBjfBNgBAcICChAAGIAEGAoYywHCAgcQABiABBgKwgIKEAAYBRgKGAwYHsICCBAAGAgYHhgPmAMAiAYBkAYKugYGCAEQARgUkgcFMS41LjKgB9cf&sclient=gws-wiz-serp
+
+cos learning rate scheduler arxiv - Google 搜索
+https://www.google.com/search?q=cos+learning+rate+scheduler+arxiv&client=ubuntu-sn&hs=9sf&sca_esv=cdc61fbb8ee1234c&channel=fs&sxsrf=ADLYWIKH-HJ94Zz6Jfsov01nQHTxrmYd2A%3A1725240991069&ei=nxbVZt3qA_Opvr0Pg7rciQE&oq=cos+learning+rate+scheduler+ar&gs_lp=Egxnd3Mtd2l6LXNlcnAiHmNvcyBsZWFybmluZyByYXRlIHNjaGVkdWxlciBhcioCCAAyBRAhGKABMgUQIRigATIFECEYoAFI9h9QhgRYgxRwAXgBkAEAmAHqAaAB9wSqAQUwLjEuMrgBA8gBAPgBAZgCBKAClAXCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4xLjKgB7cK&sclient=gws-wiz-serp
+
 # 2024-9-1
 
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
