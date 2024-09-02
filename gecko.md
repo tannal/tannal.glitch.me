@@ -4,6 +4,9 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
 
 # Achievement
 
+Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
 ⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
 
 https://phabricator.services.mozilla.com/D214042
