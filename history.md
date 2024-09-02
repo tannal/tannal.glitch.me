@@ -1,5 +1,65 @@
 # 2024-9-2
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CaiJimmy/hugo-theme-stack-starter: A quickstart template to create a Hugo blog using hugo-theme-stack
+https://github.com/CaiJimmy/hugo-theme-stack-starter
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+Pages
+https://github.com/tannal/tannal.github.io/settings/pages
+
+tannal
+https://tannal.github.io/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+Releases · tannal/ggml
+https://github.com/tannal/ggml
+
+roseduan
+https://tannal.github.io/
+
+v2-285c7eb5c7238784d8cf1f78a5ea51e9_1440w.webp (WEBP Image, 1104 × 484 pixels)
+https://pic4.zhimg.com/80/v2-285c7eb5c7238784d8cf1f78a5ea51e9_1440w.webp
+
+类似知乎等的图片服务域名采用 zhimg.com 而不是 img.zhihu.com，有什么优点吗 - V2EX
+https://www.v2ex.com/t/170974
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+update · tannal/tannal.github.io@cd52d3d
+https://github.com/tannal/tannal.github.io/commit/cd52d3d8889f317b50f0e7eb1a6100e14cd01650
+
+roseduan
+https://tannal.github.io/
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+Visualizing Convolutional Neural Networks | Layer by Layer - YouTube
+https://www.youtube.com/watch?v=JboZfxUjLSk&t=24s
+
+webcomponents.org/package.json at main · webcomponents/webcomponents.org
+https://github.com/webcomponents/webcomponents.org/blob/main/package.json
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
