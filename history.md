@@ -1,5 +1,92 @@
 # 2024-9-2
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7573445
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+Google
+https://www.google.com/
+
+百度一下，你就知道
+https://www.baidu.com/
+
+(918) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+2024. 考试的最大困扰度 - 力扣（LeetCode）
+https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc&t=993s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+jerome pesenti - Google 搜索
+https://www.google.com/search?q=jerome+pesenti&rlz=1C1GCEA_enJP1090JP1090&oq=jerome+pesenti&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
+ggml-mnist/src/mnist-train.cpp at main · tannal/ggml-mnist
+https://github.com/tannal/ggml-mnist/blob/main/src/mnist-train.cpp
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+招　生-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/z_s1.htm
+
+研究生院
+https://pg.nenu.edu.cn/HProg/sys/php/Main.php
+
+1711.05101v3
+https://arxiv.org/pdf/1711.05101v3
+
+在线验证报告_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/xlcx/bgcx.jsp
+
+登录_学信网
+https://account.chsi.com.cn/passport/login
+
+查看个人信息_学信网
+https://account.chsi.com.cn/account/account!show
+
+中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/
+
+查看个人信息_学信网
+https://account.chsi.com.cn/account/account!show.action
+
+学信档案
+https://my.chsi.com.cn/archive/bab/xl/show.action
+
+在线验证报告_中国高等教育学生信息网（学信网）
+https://www.chsi.com.cn/report/xueli/download.do?vcode=AVQRT60NAVRU6TF4&rid=58420860228862221606144460504520&ln=cn&s=2e841feac0f5b22909eabca07d24bb1e&t=1725280041611
+
+研究生招生服务系统
+https://yz.nenu.edu.cn/login/enterMain/zsKsdXsbd/enterSubmitXsbd
+
+ChatGGG
+http://192.168.43.1:8080/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

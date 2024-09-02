@@ -573,6 +573,8 @@ igalia申请 deadline
 
 # 2024-9-2 - 2024-9-9
 
+
+
 ## weight 
 
 ## house car wife
@@ -614,11 +616,11 @@ igalia申请 deadline
 
 [x] 免修英语
 [] text to video
-[] xuan ke
+[x] xuan ke
 [] dongdongxie xie
 [] 审批中
 [] 研究方向，一生一芯报名，block on 简历
-[] 跟踪 https://github.com/nodejs/node/pull/54593 的ci进度，确保https://github.com/nodejs/node/pull/54355 的failing不是由改动引起
+[x] 跟踪 https://github.com/nodejs/node/pull/54593 的ci进度，确保https://github.com/nodejs/node/pull/54355 的failing不是由改动引起
 
 [] https://phabricator.services.mozilla.com/D220381 progress
 
@@ -661,12 +663,3 @@ llm bootcamp
 
 [] AI
 [] fontend
-
-
-
-
-
-
-
-
-
