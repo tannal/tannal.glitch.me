@@ -1,5 +1,6 @@
 # 2024-9-2 0 | 0
 
+Tools/Scripts/run-jsc --jsc-only --usePromiseTryMethod=1 test.js 
 
 CGO_ENABLED=1 go build -tags extended
 
