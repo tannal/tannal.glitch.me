@@ -3,6 +3,69 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+GitHub
+https://github.com/
+
+Adding webcomponents to a hugo blog - BradCypert.com
+https://www.bradcypert.com/adding-webcomponents-to-a-hugo-blog/
+
+Google
+https://www.google.com/
+
+Configure markup | Hugo
+https://gohugo.io/getting-started/configuration-markup/
+
+20141211 上海BOSE音樂派對 五月天《步步》 - YouTube
+https://www.youtube.com/watch?v=K9ldnxwBwOQ&list=RDK9ldnxwBwOQ&start_radio=1
+
+@google-web-components/google-youtube - webcomponents.org
+https://www.webcomponents.org/element/@google-web-components/google-youtube
+
+@google-web-components/google-youtube - npm
+https://www.npmjs.com/package/@google-web-components/google-youtube?activeTab=code
+
+Releases · GoogleWebComponents/google-youtube
+https://github.com/GoogleWebComponents/google-youtube
+
+Polymer
+https://github.com/polymer
+
+Grid item iOS issue
+https://codepen.io/gmltA/full/NWZMBPy
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+bili_27628432889的个人空间-bili_27628432889个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+gohugoio/hugo: The world’s fastest framework for building websites.
+https://github.com/gohugoio/hugo
+
+Issues · yuin/goldmark
+https://github.com/yuin/goldmark/issues?q=is%3Aissue+is%3Aopen+custum+element
+
+roseduan
+https://tannal.github.io/
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+深度学习实战
+http://localhost:1313/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 CaiJimmy/hugo-theme-stack-starter: A quickstart template to create a Hugo blog using hugo-theme-stack
 https://github.com/CaiJimmy/hugo-theme-stack-starter
 
