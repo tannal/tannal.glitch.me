@@ -1,6 +1,50 @@
 # todo
 
-[] - // TODO(@anonrig): Add V8 Fast API to the following function
+[x] - // TODO(@anonrig): Add V8 Fast API to the following function
+
+# achievement
+
+
+with fastapi
+
+tannal@desktop:~/tannalwork/projects/node-new$ ./node benchmark/run.js --filter revoke -- url
+
+url/url-blob-revoke.js
+url/url-blob-revoke.js size=10 type="blob" n=100000: 217,463.47527505632
+url/url-blob-revoke.js size=100 type="blob" n=100000: 217,691.65683946662
+url/url-blob-revoke.js size=1000 type="blob" n=100000: 203,802.8237354051
+url/url-blob-revoke.js size=10000 type="blob" n=100000: 132,876.6621123102
+
+without fastapi
+
+tannal@desktop:~/tannalwork/projects/node-new$ ./node benchmark/run.js --filter revoke -- url
+
+url/url-blob-revoke.js
+url/url-blob-revoke.js size=10 type="blob" n=100000: 217,931.99219917663
+url/url-blob-revoke.js size=100 type="blob" n=100000: 211,260.86090765544
+url/url-blob-revoke.js size=1000 type="blob" n=100000: 202,209.2836320385
+url/url-blob-revoke.js size=10000 type="blob" n=100000: 133,015.48166659055
+tannal@desktop:~/tannalwork/projects/node-new$ ./node benchmark/run.js --filter revoke -- url
+
+url/url-blob-revoke.js
+url/url-blob-revoke.js size=10 type="blob" n=100000: 217,527.17465842873
+url/url-blob-revoke.js size=100 type="blob" n=100000: 215,842.70799369586
+url/url-blob-revoke.js size=1000 type="blob" n=100000: 202,320.22902310028
+url/url-blob-revoke.js size=10000 type="blob" n=100000: 130,602.28202281595
+tannal@desktop:~/tannalwork/projects/node-new$ ./node benchmark/run.js --filter revoke -- url
+
+url/url-blob-revoke.js
+url/url-blob-revoke.js size=10 type="blob" n=100000: 217,290.88761545805
+url/url-blob-revoke.js size=100 type="blob" n=100000: 214,186.14006713766
+url/url-blob-revoke.js size=1000 type="blob" n=100000: 201,947.22726769978
+url/url-blob-revoke.js size=10000 type="blob" n=100000: 132,759.6780564
+tannal@desktop:~/tannalwork/projects/node-new$ ./node benchmark/run.js --filter revoke -- url
+
+url/url-blob-revoke.js
+url/url-blob-revoke.js size=10 type="blob" n=100000: 217,912.59248294868
+url/url-blob-revoke.js size=100 type="blob" n=100000: 214,547.26533217568
+url/url-blob-revoke.js size=1000 type="blob" n=100000: 199,789.60396553917
+url/url-blob-revoke.js size=10000 type="blob" n=100000: 129,482.92161892606
 
 
 # dev

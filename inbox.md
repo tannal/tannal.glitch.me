@@ -1,5 +1,43 @@
 # 2024-9-2 0 | 0
 
+
+
+
+revokeObjectURL: 234.338ms
+Operations per second: 4267337
+
+revokeObjectURL: 232.052ms
+Operations per second: 4309385
+
+revokeObjectURL: 231.606ms
+Operations per second: 4317682
+
+revokeObjectURL: 234.309ms
+Operations per second: 4267869
+
+
+
+revokeObjectURL: 147.683ms
+Operations per second: 6771268
+
+revokeObjectURL: 233.320ms
+Operations per second: 4285953
+
+revokeObjectURL: 148.093ms
+Operations per second: 6752493
+
+revokeObjectURL: 145.851ms
+Operations per second: 6856293
+
+revokeObjectURL: 146.318ms
+Operations per second: 6834450
+
+revokeObjectURL: 147.066ms
+Operations per second: 6799684
+
+revokeObjectURL: 148.605ms
+Operations per second: 6729260
+
 ➜   |tm_cuda11|llm.c git:(master ?:1) ✗ export https_proxy=http://10.68.162.201:8890
 ➜   |tm_cuda11|llm.c git:(master ?:1) ✗ export http_proxy=http://10.68.162.201:8890
 
