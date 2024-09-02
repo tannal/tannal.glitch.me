@@ -1,6 +1,14 @@
 # 2024-9-2 0 | 0
 
 
+CGO_ENABLED=1 go build -tags extended
+
+export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
+export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/g++"
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DGGML_CUDA=ON
+
+cargo install --path crates/typst-cli/
+cargo install --path crates/
 
 
 revokeObjectURL: 234.338ms
