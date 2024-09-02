@@ -1,5 +1,47 @@
 # 2024-9-2
 
+(2) Jasper (cohost.org/jasper) (@JasperRLZ) / X
+https://x.com/JasperRLZ
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+[D] What is the State of Art for text to speech synthesis? : r/MachineLearning
+https://www.reddit.com/r/MachineLearning/comments/1cdcbmx/d_what_is_the_state_of_art_for_text_to_speech/
+
+jasonppy/VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild
+https://github.com/jasonppy/VoiceCraft
+
+NaturalSpeech 3
+https://speechresearch.github.io/naturalspeech3/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+(11) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+(11) Facebook
+https://www.facebook.com/ccckmit
+
+GitHub
+https://github.com/
+
+(2) 南小北 on X: "JS 浮点数太搞人了，我还以为 num * 100 是安全的，没想到 267.9 * 100 它 ..." / X
+https://x.com/nanxiaobei/status/1826833792495223038
+
+ChatGGG
+http://192.168.43.1:8080/
+
+(2) Jerome Pesenti on X: "The key to better drugs is data. @OwkinScience shows the way with the first use of federated learning to get insights with AI from multiple independent sources of patient data while leaving it secured behind hospitals’ firewalls." / X
+https://x.com/an_open_mind/status/1616207740275200013
+
+youtbue.com
+http://youtbue.com/
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
