@@ -1,3 +1,110 @@
+# 2024-9-3
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+【Hackathon 7th】开源贡献个人挑战赛（偷跑版） · Issue #67603 · PaddlePaddle/Paddle
+https://github.com/PaddlePaddle/Paddle/issues/67603
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no9-diffcast-a-unified-framework-via-residual-diffusion-for-precipitation-nowcasting-%E8%AE%BA%E6%96%87%E5%A4%8D%E7%8E%B0
+
+[2312.06734] DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting
+https://arxiv.org/abs/2312.06734
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no12-adamadamw-%E4%BC%98%E5%8C%96%E5%99%A8%E6%94%AF%E6%8C%81-amsgrad
+
+add cumprod_grad composite by YibinLiu666 · Pull Request #64432 · PaddlePaddle/Paddle
+https://github.com/PaddlePaddle/Paddle/pull/64432/files#diff-f3d0ad0a2cef878da76bd7cd0221fb3f500355948674c45d653679eb6f057b17
+
+⚙ D220816 Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D220816
+
+WebKit
+https://trac.webkit.org/wiki
+
+278645 – "grid-row: auto" collapses for child with hidden overflow
+https://bugs.webkit.org/show_bug.cgi?id=278645
+
+1435811 - (es-proposals-stage-3) [meta] ECMAScript stage 3 proposals
+https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
+
+1805038 - [meta] New Set methods
+https://bugzilla.mozilla.org/show_bug.cgi?id=1805038
+
+1435795 - (es-proposals-stage-4) [meta] ECMAScript stage 4 proposals
+https://bugzilla.mozilla.org/show_bug.cgi?id=1435795
+
+1519163 - [META] ArrayBuffer.prototype.transfer() proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1519163
+
+1670026 - [META] Resizable and growable ArrayBuffers
+https://bugzilla.mozilla.org/show_bug.cgi?id=1670026
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?component=JavaScript%20Engine&list_id=17198732&product=Core&query_format=advanced&resolution=---&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&limit=0
+
+1911096 - [Meta] RegExp.escape
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911096
+
+1911097 - Initial implementation of RegExp.escape proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911097
+
+Enter A Bug
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox&component=Untriaged
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=tannal2409%40gmail.com&list_id=17198158
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Running the Latest Safari WebKit on Windows - DEV Community
+https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb
+
+Windows port - WebKit Documentation
+https://docs.webkit.org/Ports/WindowsPort.html#downloading-build-artifacts-from-buildbot
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+tc39/proposal-dynamic-code-brand-checks: TC39 proposal that enables flexible brand checks before dynamic code loading
+https://github.com/tc39/proposal-dynamic-code-brand-checks
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220816 Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D220816
+
+1905364 - Implement Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494#change-bUJXlsjM06cy
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?keywords=good-first-bug&list_id=17198717&query_format=advanced&resolution=---&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&limit=0
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494
+
+Enter A Bug
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox&component=Untriaged
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+new-bug-search.png (PNG Image, 1851 × 966 pixels) — Scaled (99%)
+https://tannal.github.io/new-bug-search.png
+
 # 2024-9-2
 
 (2) Jasper (cohost.org/jasper) (@JasperRLZ) / X
