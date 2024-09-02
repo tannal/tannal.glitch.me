@@ -1,5 +1,59 @@
 # 2024-9-2
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-4l6k2hu6g5cyd4xtxxml&statuses%5B0%5D=open()&order=newest&bucket=action
+
+[JSC] Implement Promise.try · WebKit/WebKit@6d51d57
+https://github.com/WebKit/WebKit/commit/6d51d579af47028306a003653150ade5d395f942
+
+[spec] accept optional arguments to pass to the callback by ljharb · Pull Request #16 · tc39/proposal-promise-try
+https://github.com/tc39/proposal-promise-try/pull/16
+
+proposal-promise-try/test/test.js at main · tc39/proposal-promise-try
+https://github.com/tc39/proposal-promise-try/blob/main/test/test.js
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+深度学习实战
+http://localhost:1313/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codecov
+https://app.codecov.io/gh/nodejs
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712#issuecomment-2323838358
+
+504 Gateway Time-out
+https://phabricator.services.mozilla.com/D219053#7585588
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+The arguments object - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+
+HandleValueArray hostfunction - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=HandleValueArray+hostfunction
+
+⚙ D220816 Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D220816
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
