@@ -1,5 +1,71 @@
 # 2024-9-1
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+javascript - Why Node.js Some Internal Module Register External Reference And Other Module not? - Stack Overflow
+https://stackoverflow.com/questions/65841732/why-node-js-some-internal-module-register-external-reference-and-other-module-no
+
+jkugelman (John Kugelman)
+https://github.com/jkugelman
+
+node/src/README.md at 0991dfceceede0b0ad47abf866e571dd5164d231 · nodejs/node
+https://github.com/nodejs/node/blob/0991dfceceede0b0ad47abf866e571dd5164d231/src/README.md
+
+node/src/README.md at 0991dfceceede0b0ad47abf866e571dd5164d231 · nodejs/node
+https://github.com/nodejs/node/blob/0991dfceceede0b0ad47abf866e571dd5164d231/src/README.md#js-handles
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ExternalReferenceRegistry node bootstrap - Google 搜索
+https://www.google.com/search?q=ExternalReferenceRegistry+node+bootstrap&client=ubuntu-sn&hs=LlV&sca_esv=3cd07ac50fd5c89b&channel=fs&sxsrf=ADLYWIK41eHSb2mkkTv5ILsFFM7-MnRVpw%3A1725202067074&ei=k37UZouVBJz12roP0rD5-Ac&ved=0ahUKEwjLqv7C_qGIAxWculYBHVJYHn8Q4dUDCBA&uact=5&oq=ExternalReferenceRegistry+node+bootstrap&gs_lp=Egxnd3Mtd2l6LXNlcnAiKEV4dGVybmFsUmVmZXJlbmNlUmVnaXN0cnkgbm9kZSBib290c3RyYXBImRpQjARYqhhwAXgAkAEAmAHEA6ABySeqAQgyLTEuMTEuMrgBA8gBAPgBAZgCC6AC9B_CAggQABiABBiiBMICBxAhGKABGAqYAwCIBgGSBwUzLTguM6AHxjI&sclient=gws-wiz-serp
+
+Comparing nodejs:main...tannal:blob-fastapi · nodejs/node
+https://github.com/nodejs/node/compare/main...tannal:node:blob-fastapi
+
+v8 fast api call - Google 搜索
+https://www.google.com/search?q=v8+fast+api+call&client=ubuntu-sn&hs=59V&sca_esv=99a2e4c7d4e137bc&channel=fs&sxsrf=ADLYWIImu01nKsh2Vl20mbfZg6gjctXRGg:1725203601531&ei=kYTUZsWUIPDi2roP-OKd2Qs&start=10&sa=N&sstk=AagrsuimQIJKiBGDf2ttVmL47eACdl6faOryDsL4tc8E4Z_FnCX6rrYkBDknBZnajRHqtff8-6te87HgaHNWue63TpVild77_rWAww&ved=2ahUKEwiFodaehKKIAxVwsVYBHXhxJ7sQ8tMDegQICBAE&biw=1850&bih=968&dpr=1
+
+Add support for V8 fast call · Issue #23 · nodejs/performance
+https://github.com/nodejs/performance/issues/23
+
+Code search results
+https://github.com/search?q=repo%3Adenoland%2Fdeno+%23%5Bop%28fast%29%5D&type=code
+
+Using V8 Fast API in Node.js core - Yagiz Nizipli's blog
+https://www.yagiz.co/using-v8-fast-api-in-node-js-core/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+V8 API changes - Google 文档
+https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit?pli=1#heading=h.5sdh6r67jxey
+
+Releases · MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo/releases
+
+How to Unzip (Extract) Gz File in Linux | Linuxize
+https://linuxize.com/post/how-to-unzip-gz-file/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Test Linux · tannal/node@0c2d53f
+https://github.com/tannal/node/actions/runs/10658490619/job/29539621285
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+called `Result::unwrap()` on an `Err` value: HierarchyRequest · Issue #20218 · servo/servo
+https://github.com/servo/servo/issues/20218#issuecomment-2323478154
+
+DOM Standard
+https://dom.spec.whatwg.org/#concept-node-ensure-pre-insertion-validity
+
+DOM Standard
+https://dom.spec.whatwg.org/#concept-doctype
+
 llm.c.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

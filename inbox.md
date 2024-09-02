@@ -1,5 +1,11 @@
+# 2024-9-2 0 | 0
+
+➜   |tm_cuda11|llm.c git:(master ?:1) ✗ export https_proxy=http://10.68.162.201:8890
+➜   |tm_cuda11|llm.c git:(master ?:1) ✗ export http_proxy=http://10.68.162.201:8890
+
 # 2024-9-1 0 | 0
 
+wget https://github.com/MetaCubeX/mihomo/releases/download/v1.18.7/mihomo-linux-amd64-v1.18.7.gz
 
 safetensors
 
