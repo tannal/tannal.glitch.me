@@ -1,3 +1,54 @@
+
+
+
+    单机多卡训练与虚拟化：
+    单机多卡训练通常不使用传统意义上的虚拟化。它主要依赖于并行计算框架和特定的GPU通信库（如NVIDIA的NCCL）来协调多个GPU的工作。这更像是一种并行计算而非虚拟化。
+
+    多机多卡训练：
+    确实，多机多卡训练需要网络共享。这通常通过分布式计算框架和特定的网络协议来实现。
+
+现在，让我们看看相关的学术成果、工业软件、商业产品和开源项目：
+
+学术成果：
+
+    Horovod：由Uber开发的分布式深度学习训练框架。
+    BytePS：由字节跳动开发的分布式训练框架。
+    PipeDream：微软研究院开发的流水线并行训练系统。
+
+工业软件和商业产品：
+
+    NVIDIA CUDA：GPU并行计算平台。
+    NVIDIA NCCL (NVIDIA Collective Communications Library)：用于多GPU通信。
+    NVIDIA DGX系统：为深度学习设计的多GPU系统。
+    AMD ROCm：AMD的开放源代码软件平台，用于GPU计算。
+    Intel oneAPI：跨架构的编程模型，包括GPU支持。
+
+开源项目：
+
+    PyTorch Distributed：PyTorch的分布式训练模块。
+    TensorFlow Distribution Strategy：TensorFlow的分布式训练API。
+    Ray：用于分布式计算的通用框架，包括机器学习应用。
+    DeepSpeed：微软开源的深度学习优化库，支持分布式训练。
+    Fabric：Lightning AI开发的轻量级分布式训练库。
+    ColossalAI：用于大规模模型训练的综合框架。
+
+GPU虚拟化相关：
+
+    NVIDIA GRID vGPU：NVIDIA的GPU虚拟化技术。
+    AMD MxGPU：AMD的硬件级GPU虚拟化技术。
+    Intel GVT-g：Intel的GPU虚拟化技术。
+    OpenACC：用于异构计算的编程标准，包括GPU。
+
+网络共享相关：
+
+    RDMA (Remote Direct Memory Access)：高性能计算中常用的网络技术。
+    GPUDirect：NVIDIA技术，允许GPU和其他设备（如网卡）直接通信。
+    Infiniband：高性能计算中常用的高速网络技术。
+
+
+
+
+
 我说的是优化tensor架构，不是什么卷积循环那种架构，优化参数调整，不是优化器那种，是打破反向传播算法，
 
 如何打造AGI，一长串单调感知数据，标准化的格式，现在神经网络的训练数据集的一个batch的数据和数据之间是没有关系的，两张图片，两个label是没有关系而，我新型神经网络训练时，一个batch和另一个batch有事件happens before的关系，batch内部也有happenes beforce的，这将改变现有的数据集架构
