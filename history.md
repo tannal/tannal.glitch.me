@@ -1,5 +1,101 @@
 # 2024-9-3
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?component=JavaScript%20Engine&list_id=17198732&product=Core&query_format=advanced&resolution=---&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&limit=0
+
+1652065 - Alias mach jstests to jstest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1652065
+
+1905364 - Implement Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
+
+User Profile: Dan Minor [:dminor] <dminor@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=466787
+
+Components for Firefox
+https://bugzilla.mozilla.org/describecomponents.cgi?product=Firefox
+
+1827197 - Consider not having a separate function to initialize each member of a class
+https://bugzilla.mozilla.org/show_bug.cgi?id=1827197
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls
+
+Fast & Free ChatGPT prompts, OpenAI, Character Bots store | FlowGPT
+https://flowgpt.com/flow-studio/679wCdh5kFMSQCuJ-s9_V?content=6752047a-0703-4f5b-af2b-12df1801f697&sort=newest&hideNavInDetailPage=false
+
+Promise.try
+http://localhost:1313/p/promise.try/
+
+pacman - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=pacman
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io
+
+Promise.try
+https://tannal.github.io/p/promise.try/
+
+Jukebox | OpenAI
+https://openai.com/index/jukebox/
+
+Jukebox: A Generative Model for Music - 2005.00341v1.pdf
+https://arxiv.org/pdf/2005.00341
+
+Keyboard shortcut to switch to an application by name? - Ask Ubuntu
+https://askubuntu.com/questions/378569/keyboard-shortcut-to-switch-to-an-application-by-name
+
+rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+openai/jukebox: Code for the paper "Jukebox: A Generative Model for Music"
+https://github.com/openai/jukebox
+
+MusicLM: Generating Music From Text - 2301.11325v1.pdf
+https://arxiv.org/pdf/2301.11325
+
+MubertAI/Mubert-Text-to-Music: A simple notebook demonstrating prompt-based music generation via Mubert API
+https://github.com/MubertAI/Mubert-Text-to-Music
+
+Mubert - YouTube
+https://www.youtube.com/@Mubert/videos
+
+Audio — Stability AI
+https://stability.ai/stable-audio
+
+stabilityai/stable-audio-open-1.0 · Hugging Face
+https://huggingface.co/stabilityai/stable-audio-open-1.0
+
+pytorch/audio: Data manipulation and transformation for audio signal processing, powered by PyTorch
+https://github.com/pytorch/audio
+
+赫布理论 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%B5%AB%E5%B8%83%E7%90%86%E8%AE%BA
+
+Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks | OpenReview
+https://openreview.net/forum?id=r1xGnA4Kvr
+
+1347_biologically_inspired_sleep_al-Original Pdf.pdf
+https://openreview.net/attachment?id=r1xGnA4Kvr&name=original_pdf
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
