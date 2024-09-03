@@ -1,6 +1,52 @@
 # 2024-9-3 0 | 0
 
+https://open-ui.org/components/combobox.explainer/
 
+rr record chromium
+Replay the recording:
+
+Copy
+rr replay
+When it stops at the crash point, you can use gdb commands to inspect the state. For example:
+
+Copy
+(rr) bt full
+(rr) info registers
+(rr) x/32x $rsp
+You can also use rr-specific commands like:
+
+Copy
+(rr) when
+(rr) watch -l variable_name
+To navigate through the execution:
+
+Copy
+(rr) continue
+(rr) next
+(rr) step
+(rr) finish
+To reverse-execute:
+
+Copy
+(rr) reverse-continue
+(rr) reverse-next
+(rr) reverse-step
+
+Spidermonkey
+JavascriptCore
+V8
+boa
+quickjs
+libjs
+
+
+ljharb (Jordan Harband): A prominent member of TC39 (the committee responsible for ECMAScript standardization). He's very active in JavaScript standards development and ecosystem maintenance.
+syg (Shu-yu Guo): Another notable TC39 member, often involved in language specification work.
+bakkot (Kevin Gibbons): A TC39 delegate known for his work on ECMAScript specifications and proposals.
+michaelficarra (Michael Ficarra): A TC39 member who frequently contributes to JavaScript language design and specification.
+gibson042 (Richard Gibson): A TC39 delegate involved in reviewing and providing feedback on ECMAScript proposals.
+rkirsling (Ross Kirsling): Appears to be involved with WebKit, as they mentioned implementing a feature in JSC (JavaScriptCore, WebKit's JavaScript engine).
+linusg (Linus Groh): Mentioned implementing the Promise.try() feature in multiple JavaScript engines (Keisel, Boa, and LibJS), suggesting they're active in JavaScript engine development.
 
 # 2024-9-2 0 | 0
 
