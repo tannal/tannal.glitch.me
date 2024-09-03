@@ -1,5 +1,74 @@
 # 2024-9-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yusuke SUZUKI
+https://constellation.slowstart.org/
+
+Constellation/iv: ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++
+https://github.com/Constellation/iv
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+1905364 - Implement Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494
+
+Issues · tc39/test262
+https://github.com/tc39/test262/issues?q=is%3Aissue+is%3Aopen+promise.try
+
+⚙ D73293 Bug 1634435 - Replace AutoValueArray and AutoArrayRooter implementations with Rooted<> r?jandem
+https://phabricator.services.mozilla.com/D73293
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=abrupt&op=translate
+
+How might LLMs store facts | Chapter 7, Deep Learning - YouTube
+https://www.youtube.com/watch?v=9-Jl0dxWQs8
+
+AWS CEO - The End Of Programmers Is Near - YouTube
+https://www.youtube.com/watch?v=TEfoOlR9x6k
+
+fusion energy - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=fusion+energy
+
+ChatGGG
+http://192.168.43.1:8080/
+
+How Nvidia Changed the Game - YouTube
+https://www.youtube.com/watch?v=JHDgN1FfAd8
+
+はしれプログラミング - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=z9q&sca_esv=77d6260ac296d3e1&channel=fs&sxsrf=ADLYWILYiYZZwWwHFU7Ll0pM7BGc6MeS5g:1725363758494&q=%E3%81%AF%E3%81%97%E3%82%8C%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxuyGXhNUouYPTHnpIch5xJg-sQCxU5TJoG0Nph89tfbmJhU0-yrsgCQU8t1AWVq4wrR8xx3uohZbe_5d5BiP1flGp8RJIqjJUcP3GarIh17v5OQnoWrFQ5uAmW-XmDR3CgfzmMd&sa=X&ved=2ahUKEwiUvbvv2KaIAxX1i68BHVZdKSkQ0pQJegQIDRAB&biw=1850&bih=968&dpr=1
+
+【Remix入門】完全初心者OK！簡単なブログを作ってRemixの１歩を踏み出してみよう ~Remixチュートリアル~ - YouTube
+https://www.youtube.com/watch?v=UkyMimRi5nc
+
+未来エレベーター youtube - Google 搜索
+https://www.google.com/search?q=%E6%9C%AA%E6%9D%A5%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC+youtube&client=ubuntu-sn&hs=yDr&sca_esv=77d6260ac296d3e1&channel=fs&sxsrf=ADLYWIKtqiUFbTlokiohof1kLoBjdCgw3w%3A1725364005415&ei=JffWZoz4GPj31e8PgpfWwAc&ved=0ahUKEwjMnprl2aaIAxX4e_UHHYKLFXgQ4dUDCBA&uact=5&oq=%E6%9C%AA%E6%9D%A5%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%83%BC+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiIOacquadpeOCqOODrOODmeODvOOCv-ODvCB5b3V0dWJlMgkQIRigARgKGCpIvRdQ2gZYthZwAXgBkAEAmAH3AaABnQuqAQUwLjQuM7gBA8gBAPgBAZgCCKACvAvCAgoQABiwAxjWBBhHwgIEEAAYHsICBhAAGAwYHsICBRAhGKABmAMAiAYBkAYKkgcFMS40LjOgB5YL&sclient=gws-wiz-serp
+
+Recursiverう youtube - Google 搜索
+https://www.google.com/search?q=Recursiver%E3%81%86+youtube&client=ubuntu-sn&hs=BEr&sca_esv=77d6260ac296d3e1&channel=fs&sxsrf=ADLYWILbfcVxYhEZjjKRMUlLDdn-OA7n4w%3A1725364018457&ei=MvfWZpHOG5XOvr0P76bj6QI&ved=0ahUKEwiRr7br2aaIAxUVp68BHW_TOC0Q4dUDCBA&uact=5&oq=Recursiver%E3%81%86+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVJlY3Vyc2l2ZXLjgYYgeW91dHViZTIJECEYoAEYChgqSOwOUL8BWNMNcAF4AZABAJgB9wGgAYsLqgEFMC40LjO4AQPIAQD4AQGYAgigAq0LwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEwgIFECEYoAHCAgcQIRigARgKmAMA4gMFEgExIECIBgGQBgqSBwUxLjQuM6AHoRI&sclient=gws-wiz-serp
+
+takahirom (Takahiro Menju)
+https://github.com/takahirom
+
+atc14-paper-suzuki.pdf
+https://www.usenix.org/system/files/conference/atc14/atc14-paper-suzuki.pdf
+
+SHINPEI KATO OFFICIAL SITE
+https://shinpeikato.com/
+
+Advanced Systems Group
+https://asgtuat.github.io/member.html
+
+vCUDA - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=vCUDA
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

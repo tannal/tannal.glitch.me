@@ -1,6 +1,8 @@
 # 2024-9-3 0 | 0
 
-WINEPREFIX=~/.wine /opt/wine/bin/wine
+https://asgtuat.github.io/member.html
+
+WINEPREFIX=~/.wine64 /opt/wine/bin/wine
 
 pip install torch torchaudio jukebox -i https://pypi.tuna.tsinghua.edu.cn/simple
 
