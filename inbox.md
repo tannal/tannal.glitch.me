@@ -1,12 +1,16 @@
 # 2024-9-3 0 | 0
 
+cargo install --git https://github.com/zed-industries/zed --locked zed
+
+conda install conda-forge::rust
+
 https://asgtuat.github.io/member.html
 
 WINEPREFIX=~/.wine64 /opt/wine/bin/wine
 
 pip install torch torchaudio jukebox -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-cargo install --path crates/cli/
+cargo install --path crates/zed
 cargo install --path crates/cli/ --bin zed-cli
 cargo uninstall cli
 

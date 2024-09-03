@@ -82,7 +82,20 @@ git clone https://github.com/WebKit/WebKit
 
 ./Tools/Scripts/update-webkitgtk-libs
 
-./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands WK_USE_CCACHE=YES
+
+export CC="clang"
+export CXX="clang++"
+
+export LD_LIBRARY_PATH=/opt/llvm/lib:$LD_LIBRARY_PATH
+
+export CC="/opt/llvm/bin/clang"
+export CXX="/opt/llvm/bin/clang++"
+
+./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands --update-dependencies --reconfigure WK_USE_CCACHE=YES -- -j 8
+
+export LD_LIBRARY_PATH=/opt/llvm/lib:$LD_LIBRARY_PATH
+
+./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands WK_USE_CCACHE=YES -- -j 8
 ./Tools/Scripts/build-webkit --gtk --debug WK_USE_CCACHE=YES
                   
 ./Tools/Scripts/run-minibrowser --gtk --debug

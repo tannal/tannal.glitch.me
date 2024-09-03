@@ -3,6 +3,81 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+1905364 - Implement Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Homepage | Cerebras
+https://cerebras.ai/
+
+Graphcore: Accelerating machine learning in the cloud
+https://www.graphcore.ai/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=graphcore&sort=byPopularity&type=story
+
+ChatGGG
+http://192.168.43.1:8080/
+
+microsoft/D3D12TranslationLayer: A library containing utilities for mapping higher-level graphics work to D3D12
+https://github.com/microsoft/D3D12TranslationLayer
+
+ValveSoftware/vkd3d
+https://github.com/ValveSoftware/vkd3d
+
+wine-mirror/wine
+https://github.com/wine-mirror/wine
+
+WineGUI · Wiki · wine / wine · GitLab
+https://gitlab.winehq.org/wine/wine/-/wikis/WineGUI
+
+Winegui-screenshot0.png (PNG Image, 1218 × 683 pixels)
+https://gitlab.winehq.org/wine/wine/-/wikis/media/Winegui-screenshot0.png
+
+chained together linux - Google 搜索
+https://www.google.com/search?q=chained+together+linux&client=ubuntu-sn&hs=nYr&sca_esv=77d6260ac296d3e1&channel=fs&tbm=vid&sxsrf=ADLYWILFBaJe7NCGOdlToreaSITcaAr2eg:1725365296250&ei=MPzWZq7zDqyfvr0PrOnXsAo&start=10&sa=N&ved=2ahUKEwiuy9zM3qaIAxWsj68BHaz0FaYQ8tMDegQIEBAE&biw=1850&bih=968&dpr=1
+
+huggingface/accelerate: 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
+https://github.com/huggingface/accelerate
+
+pytorch/torch/distributed/fsdp/fully_sharded_data_parallel.py at main · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/main/torch/distributed/fsdp/fully_sharded_data_parallel.py/
+
+microsoft/DeepSpeed: DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+https://github.com/microsoft/DeepSpeed
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jstests.list - mozsearch
+https://searchfox.org/mozilla-central/rev/aee7c3a0dbf33af0c4f6648f391db62b35895e50/js/src/tests/jstests.list#684-687
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704#7588501
+
+webkit unified source oom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=webkit+unified+source+oom
+
+zed/docs/src/linux.md at 32db140b9545ca7a484fcada1b8968f4f5f31a43 · zed-industries/zed
+https://github.com/zed-industries/zed/blob/32db140b9545ca7a484fcada1b8968f4f5f31a43/docs/src/linux.md?plain=1#L18
+
+Rust | Anaconda.org
+https://anaconda.org/conda-forge/rust
+
+Commits · waydroid/waydroid
+https://github.com/waydroid/waydroid/commits/main/
+
+Waydroid | Android in a Linux container
+https://waydro.id/
+
+WayDroid - Browse /images/system/lineage/waydroid_x86_64 at SourceForge.net
+https://sourceforge.net/projects/waydroid/files/images/system/lineage/waydroid_x86_64/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Yusuke SUZUKI
 https://constellation.slowstart.org/
 
