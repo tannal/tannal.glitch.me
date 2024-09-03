@@ -1,5 +1,9 @@
 # 2024-9-3 0 | 0
 
+cargo install --path crates/cli/
+cargo install --path crates/cli/ --bin zed-cli
+cargo uninstall cli
+
 https://open-ui.org/components/combobox.explainer/
 
 rr record chromium

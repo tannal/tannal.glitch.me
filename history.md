@@ -1,5 +1,77 @@
 # 2024-9-3
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug List: poe.com
+https://bugzilla.mozilla.org/buglist.cgi?quicksearch=poe.com&list_id=17198911
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(216) #general > Upcoming Servo issue triage meeting on September 16 2024 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Upcoming.20Servo.20issue.20triage.20meeting.20on.20September.2016.202024
+
+Upcoming Servo issue triage meeting on September 16 2024 · Issue #100 · servo/project
+https://github.com/servo/project/issues/100
+
+(938) #xilem > Simple chess board with Xilem/Vello ? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Simple.20chess.20board.20with.20Xilem.2FVello.20.3F
+
+StefanSalewski/tiny-chess: Tiny Rust chess game with egui board
+https://github.com/StefanSalewski/tiny-chess
+
+Recent conversations - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW?selected_team_id=T06G50708
+
+10:00 AM GMT to Shanghai - Google 搜索
+https://www.google.com/search?q=10%3A00+AM+GMT+to+Shanghai&client=ubuntu-sn&hs=VDO&sca_esv=b198e83eb3d46d4d&channel=fs&sxsrf=ADLYWILvpLmDIuvz7KuRsOirE6ihBthb4g%3A1725331942915&ei=5nnWZvHDN7mKvr0P7NHg6Aw&ved=0ahUKEwjxzs6s4qWIAxU5ha8BHewoGM0Q4dUDCBA&uact=5&oq=10%3A00+AM+GMT+to+Shanghai&gs_lp=Egxnd3Mtd2l6LXNlcnAiGDEwOjAwIEFNIEdNVCB0byBTaGFuZ2hhaUjmJFD2C1imI3ACeAGQAQGYAasBoAG8EKoBBDAuMTO4AQPIAQD4AQGYAgGgAgfCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcBMaAHlwU&sclient=gws-wiz-serp
+
+ex3ndr/llama-coder: Replace Copilot local AI
+https://github.com/ex3ndr/llama-coder?tab=readme-ov-file
+
+Download Ollama on Linux
+https://ollama.com/download
+
+ollama/llm/ggml.go at ad3eb00bee71052576807b8cf4b9a25b2cceba50 · ollama/ollama
+https://github.com/ollama/ollama/blob/ad3eb00bee71052576807b8cf4b9a25b2cceba50/llm/ggml.go#L13
+
+ollama/llm/ggml.go at ad3eb00bee71052576807b8cf4b9a25b2cceba50 · ollama/ollama
+https://github.com/ollama/ollama/blob/ad3eb00bee71052576807b8cf4b9a25b2cceba50/llm/ggml.go#L157
+
+linux: Only one instance of zed can run at a time after recent commit · Issue #11770 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/11770
+
+cargo uninstall - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cargo+uninstall
+
+deps: extract gtest source files to deps/googletest by legendecas · Pull Request #39386 · nodejs/node
+https://github.com/nodejs/node/pull/39386
+
+Workflow runs · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/actions
+
+Promise.try
+http://localhost:1313/p/promise.try/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml/?tab=readme-ov-file
+
+QwenLM/qwen.cpp: C++ implementation of Qwen-LM
+https://github.com/QwenLM/qwen.cpp
+
+关于
+http://localhost:1313/about/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
