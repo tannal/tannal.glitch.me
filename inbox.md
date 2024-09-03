@@ -1,12 +1,8 @@
+# 2024-9-3 0 | 0
+
+
+
 # 2024-9-2 0 | 0
-
-之前我向mozilla firefox spidermonkey 提交了一个patch
-
-发现已经有人在working on the bug了
-
-如何多人working on one bug，co author patch？
-
-以firefox为例
 
 https://phabricator.services.mozilla.com/D218494
 

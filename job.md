@@ -590,7 +590,9 @@ igalia申请 deadline
 ## igalia
 
 [] fast api noe blob revokeObjectURL
-[] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+[x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+[] 9.12 20:00
+
 
 ## life
 

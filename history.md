@@ -1,5 +1,59 @@
 # 2024-9-3
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?component=JavaScript%20Engine&list_id=17198732&product=Core&query_format=advanced&resolution=---&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&limit=0
+
+1855468 - Implement JSON.parse source text access proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1855468
+
+1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913086
+
+1913085 - Release JSON.parse with source
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913085
+
+1907658 - Implement AsyncDisposableStack
+https://bugzilla.mozilla.org/show_bug.cgi?id=1907658
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494#change-bUJXlsjM06cy
+
+1905364 - Implement Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
+
+1845586 - [META] Implement the Promise.withResolvers proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1845586
+
+User Profile: Dan Minor [:dminor] <dminor@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=466787
+
+1817993 - Unify field initialization code for decorators
+https://bugzilla.mozilla.org/show_bug.cgi?id=1817993
+
+User Profile: Dan Minor [:dminor] <dminor@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=466787
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704
+
+User Profile: Tooru Fujisawa [:arai] <arai.unmht@gmail.com>
+https://bugzilla.mozilla.org/user_profile?user_id=310076
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D213962 Bug 1900622 - Add capabilities to hide dynamic toolbar on Fenix. r=botond,#android-reviewers
+https://phabricator.services.mozilla.com/D213962
+
+TC39 plenary youtube - Google 搜索
+https://www.google.com/search?q=TC39+plenary+youtube&client=ubuntu-sn&hs=htg&sca_esv=bd020c7529828247&channel=fs&sxsrf=ADLYWIIu4D4N87vLGs1i5_3NnrGBvv0qrA%3A1725324309138&ei=FVzWZsyZCI--vr0Pr7-04Qs&ved=0ahUKEwiM-MX0xaWIAxUPn68BHa8fLbwQ4dUDCBA&uact=5&oq=TC39+plenary+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFFRDMzkgcGxlbmFyeSB5b3V0dWJlMgcQIRigARgKSJ8QUIQIWPAPcAF4AZABAJgB0gGgAY8KqgEFMC42LjG4AQPIAQD4AQGYAgigArUKwgIKEAAYsAMY1gQYR8ICBRAhGKABmAMAiAYBkAYKkgcFMS42LjGgB7AL&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
