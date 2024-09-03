@@ -1,5 +1,9 @@
 # 2024-9-3 0 | 0
 
+WINEPREFIX=~/.wine /opt/wine/bin/wine
+
+pip install torch torchaudio jukebox -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 cargo install --path crates/cli/
 cargo install --path crates/cli/ --bin zed-cli
 cargo uninstall cli
