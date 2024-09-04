@@ -1,5 +1,44 @@
 # 2024-9-4
 
+roseduan
+https://tannal.github.io/
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%81%84%E3%81%BE%E3%81%99&op=translate
+
+爺爺泡的茶-歌詞-周杰倫 (Jay Chou)-KKBOX
+https://www.kkbox.com/tw/tc/song/8mNs-8LQJRsalyar4S
+
+戴夫大战僵尸最新版下载安装-戴夫大战僵尸2024最新版下载-LC游戏网
+https://m.linkchic.com/game/10405.html
+
+戴夫大战僵尸的下载教程_哔哩哔哩bilibili
+https://www.bilibili.com/video/BV18c411F7Yx/
+
+电脑_戴夫RUSH_无尽版新版v0.2.rar - 蓝奏云
+https://wwm.lanzouw.com/igAzM09rtsuj
+
+SkyworkAI/Skywork: Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
+https://github.com/SkyworkAI/Skywork
+
+M木糖M投稿视频-M木糖M视频分享-哔哩哔哩视频
+https://space.bilibili.com/33824345/video
+
+《鹅鸭杀》三端下载指南（安卓/IOS/PC）及账号问题 - 鹅鸭杀综合讨论 - TapTap 鹅鸭杀论坛
+https://www.taptap.cn/moment/364792734617174251
+
+Gaggle Fun🎮 Online Escape Games, Party Games and More!
+https://gaggle.fun/goose-goose-duck
+
+M木糖M投稿视频-M木糖M视频分享-哔哩哔哩视频
+https://space.bilibili.com/33824345/video
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
