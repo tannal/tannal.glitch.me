@@ -250,7 +250,7 @@ git log --grep=LTO -- Source/JavaScriptCore
 
 Elliott Williams
 
-Tools/Scripts/run-minibrowser --debug 
+Tools/Scripts/run-minibrowser --gtk --debug 
 
 Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
 

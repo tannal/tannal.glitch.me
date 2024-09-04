@@ -1,5 +1,9 @@
 # 2024-9-4 0 | 0
 
+
+export OPENSSL_DIR=$CONDA_PREFIX
+export PKG_CONFIG_PATH=$CONDA_PREFIX/lib/pkgconfig:$PKG_CONFIG_PATH
+
 conda install conda-forge::lld
 
 export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang"

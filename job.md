@@ -603,6 +603,7 @@ igalia申请 deadline
 *graduate* 毕业 应届生 学位
 
 
+[] 9.10 lean blocking on review
 [] waiting for review https://github.com/nodejs/node/pull/54712 fast api for blobl revokeObjectURLString
 [] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
 [] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
