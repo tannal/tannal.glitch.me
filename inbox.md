@@ -1,5 +1,8 @@
 # 2024-9-4 0 | 0
 
+conda install -c conda-forge libxkbcommon libxcb
+
+GS24_2024103289
 
 ./build/src/mnist-train mnist-fc mnist-fc-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte
 ./build/src/mnist-train mnist-cnn mnist-cnn-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte

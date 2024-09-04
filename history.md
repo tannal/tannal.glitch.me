@@ -1,5 +1,68 @@
 # 2024-9-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cmake : only enable GGML_NATIVE and x86 flags if not crosscompiling by iboB · Pull Request #885 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/885
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406
+
+peft/examples/loftq_finetuning at main · huggingface/peft
+https://github.com/huggingface/peft/tree/main/examples/loftq_finetuning
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Magenta - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Magenta
+
+libfreetype_sys - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=libfreetype_sys
+
+PistonDevelopers/freetype-sys: Low level bindings for the FreeType font library
+https://github.com/PistonDevelopers/freetype-sys
+
+freetype2 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=freetype2
+
+Ideas for Google Summer of Code
+http://freetype.org/gsoc.html
+
+Server Not Found
+http://www.moonchildproductions.info/goanna.shtml
+
+Issues · FreeType · GitLab
+https://gitlab.freedesktop.org/groups/freetype/-/issues
+
+xcb x11 lib conda - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=xcb+x11+lib+conda
+
+Anaconda.org
+https://anaconda.org/conda-forge/xorg-libx11/
+
+conda-forge/libxkbcommon-feedstock: A conda-smithy repository for libxkbcommon.
+https://github.com/conda-forge/libxkbcommon-feedstock
+
+libxcb1 conda - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=libxcb1+conda+
+
+Anaconda.org
+https://anaconda.org/conda-forge/libxcb/
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
