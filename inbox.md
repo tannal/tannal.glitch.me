@@ -1,5 +1,8 @@
 # 2024-9-4 0 | 0
 
+比这些还前沿的图文模型，这些成果的后续优化
+有哪些学术研究，商业产品，开源项目，著名成果
+
 conda install -c conda-forge freetype libxcb xorg-libxkbcommon
 export OPENSSL_DIR=$CONDA_PREFIX
 export PKG_CONFIG_PATH=$CONDA_PREFIX/lib/pkgconfig:$PKG_CONFIG_PATH
@@ -7,7 +10,7 @@ export PKG_CONFIG_PATH=$CONDA_PREFIX/lib/pkgconfig:$PKG_CONFIG_PATH
 conda install conda-forge::lld
 
 export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang"
-export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang++"
+export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang-cpp"
 
 shuyuguo google v8 team
 Waldo
