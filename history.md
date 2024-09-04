@@ -1,5 +1,53 @@
 # 2024-9-4
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Neural Networks, Manifolds, and Topology -- colah's blog
+https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
+
+tannal
+https://tannal.github.io/
+
+zed github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zed+github
+
+Pull requests · zed-industries/zed
+https://github.com/zed-industries/zed/pulls
+
+Multilingual mode | Hugo
+https://gohugo.io/content-management/multilingual/
+
+AI Localization - Google 搜索
+https://www.google.com.hk/search?q=AI+Localization&newwindow=1&client=ubuntu-sn&hs=D3U&sca_esv=c7a01837b1eb8e0f&sca_upv=1&channel=fs&ei=0xbYZuKaKIm4wN4P_9Pl6QE&ved=0ahUKEwii0LyS7KiIAxUJHNAFHf9pOR0Q4dUDCA8&uact=5&oq=AI+Localization&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0FJIExvY2FsaXphdGlvbjIKEAAYsAMY1gQYR0jNBFCcA1icA3ABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgGgAgKYAwCIBgGQBgGSBwExoAcA&sclient=gws-wiz-serp
+
+AI Localization: Everything You Need to Know - Transifex
+https://www.transifex.com/blog/2024/ai-localization/
+
+Transformer Circuits Thread Project - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Transformer+Circuits+Thread+Project
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Transformer%20Circuits%20&sort=byPopularity&type=story
+
+Transformer Circuits Thread
+https://transformer-circuits.pub/
+
+tannal/bagu - bagu - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/bagu
+
+236的变体最近公共子节点 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=236%E7%9A%84%E5%8F%98%E4%BD%93%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E5%AD%90%E8%8A%82%E7%82%B9
+
+236. 二叉树的最近公共祖先 - 力扣（LeetCode）
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+facefusion - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=facefusion
+
+facefusion/facefusion: Next generation face swapper and enhancer
+https://github.com/facefusion/facefusion
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
