@@ -1,5 +1,95 @@
 # 2024-9-4
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7573445
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+Google
+https://www.google.com/
+
+百度一下，你就知道
+https://www.baidu.com/
+
+(972) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+2024. 考试的最大困扰度 - 力扣（LeetCode）
+https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/description/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc&t=993s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+jerome pesenti - Google 搜索
+https://www.google.com/search?q=jerome+pesenti&rlz=1C1GCEA_enJP1090JP1090&oq=jerome+pesenti&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
+ggml-mnist/src/mnist-train.cpp at main · tannal/ggml-mnist
+https://github.com/tannal/ggml-mnist/blob/main/src/mnist-train.cpp
+
+tannal (tannal)
+https://github.com/tannal/
+
+杨贵福 - 重剑无锋，大巧不工
+https://younggift.net/
+
+roseduan
+https://tannal.github.io/
+
+杨贵福 - 知乎
+https://zhuanlan.zhihu.com/younggift
+
+杨贵福 - 知乎
+https://www.zhihu.com/people/yang-gui-fu-52/answers
+
+研究生招生服务系统
+https://yz.nenu.edu.cn/login/enterMain/zsKsdXsbd/enterSubmitXsbd
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+403 Forbidden
+https://pg.nenu.edu.cn/HProg/sys/
+
+广东省东莞市万事通 邮编 - Google 搜索
+https://www.google.com/search?q=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%E4%B8%87%E4%BA%8B%E9%80%9A+%E9%82%AE%E7%BC%96&sca_esv=c7a01837b1eb8e0f&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKEpNs2lIKj1JC1bdFTtENNPjB02Q%3A1725435431684&ei=Jw7YZse_KZPM1e8PkJe80AI&ved=0ahUKEwiH7_Pv46iIAxUTZvUHHZALDyoQ4dUDCBA&uact=5&oq=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%E4%B8%87%E4%BA%8B%E9%80%9A+%E9%82%AE%E7%BC%96&gs_lp=Egxnd3Mtd2l6LXNlcnAiIuW5v-S4nOecgeS4nOiOnuW4guS4h-S6i-mAmiDpgq7nvJYyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESI0fUOoLWJoacAF4AJABAJgB2QGgAaYNqgEFMC43LjK4AQPIAQD4AQGYAgmgArQNmAMAiAYBkgcFMC43LjKgB5YT&sclient=gws-wiz-serp
+
+衡南县学生资助管理中心电话号码_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%A1%A1%E5%8D%97%E5%8E%BF%E5%AD%A6%E7%94%9F%E8%B5%84%E5%8A%A9%E7%AE%A1%E7%90%86%E4%B8%AD%E5%BF%83%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81&fenlei=256&oq=%25E6%259E%2584%2520%25E8%25A1%25A1%25E5%258D%2597%25E5%258E%25BF%25E5%25AD%25A6%25E7%2594%259F%25E8%25B5%2584%25E5%258A%25A9%25E7%25AE%25A1%25E7%2590%2586%25E4%25B8%25AD%25E5%25BF%2583&rsv_pq=bc03c6690022bc79&rsv_t=9205FK0LJdcCzNiAw5QBSFKj%2BWGFc24uFX0ocTPT5HP6chZlV7Q%2FwtkL7Yo&rqlang=cn&rsv_enter=1&rsv_dl=ts_2&rsv_btype=t&inputT=2480&rsv_sug3=4&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&prefixsug=%25E8%25A1%25A1%25E5%258D%2597%25E5%258E%25BF%25E5%25AD%25A6%25E7%2594%259F%25E8%25B5%2584%25E5%258A%25A9%25E7%25AE%25A1%25E7%2590%2586%25E4%25B8%25AD%25E5%25BF%2583&rsp=2&rsv_sug4=3084
+
+湖南省各地各高校暑期学生资助热线为您开通 - 湖南省教育厅
+https://jyt.hunan.gov.cn/sjyt/xxgk/gzdt/tpxw/202207/t20220705_1073259.html
+
+poe.com
+https://poe.com/
+
+poe.com
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

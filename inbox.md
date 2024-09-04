@@ -1,5 +1,9 @@
 # 2024-9-4 0 | 0
 
+
+./build/src/mnist-train mnist-fc mnist-fc-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte
+./build/src/mnist-train mnist-cnn mnist-cnn-f32.gguf data/train-images-idx3-ubyte data/train-labels-idx1-ubyte
+
 预训练数据清洗的0734-8551650
 
 比这些还前沿的图文模型，这些成果的后续优化
