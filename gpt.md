@@ -1,5 +1,62 @@
 
 
+_sitter_md-78c015f5253823e5.rlib" "/tmp/rustcUX0lTN/libtree_sitter_jsdoc-50d203740bb8fa49.rlib" "/tmp/rustcUX0lTN/libtree_sitter_gowork-4b8b4ca5f0906e44.rlib" "/tmp/rustcUX0lTN/libtree_sitter_gomod-dd438657c6d0f3d6.rlib" "/tmp/rustcUX0lTN/libtree_sitter_go-4ab78c86d9a49b83.rlib" "/tmp/rustcUX0lTN/libtree_sitter_css-9bb41182c463b254.rlib" "/tmp/rustcUX0lTN/libtree_sitter_cpp-033da80afe4907d8.rlib" "/tmp/rustcUX0lTN/libtree_sitter_c-1b638423c006ec1d.rlib" "/tmp/rustcUX0lTN/libtree_sitter_bash-377c89b20f166e22.rlib" "/tmp/rustcUX0lTN/liblmdb_master_sys-6a44fe415dc979a0.rlib" "/tmp/rustcUX0lTN/libring-7b26f5765610ec61.rlib" "/tmp/rustcUX0lTN/liblibsqlite3_sys-4de5e6bb662f727e.rlib" "/tmp/rustcUX0lTN/libtree_sitter_json-6d4259bbe9b8b4fe.rlib" "/tmp/rustcUX0lTN/libtree_sitter-fdeca83f3a48dd3a.rlib" "/tmp/rustcUX0lTN/libwasmtime-e8588a8a035ce7da.rlib" "/tmp/rustcUX0lTN/liblibgit2_sys-ef12d9ec5e2434e2.rlib" "/tmp/rustcUX0lTN/liblibz_sys-ac69f94c4751008e.rlib" "/tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib" "/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcompiler_builtins-6648dc218e522d87.rlib" "-Wl,-Bdynamic" "-lasound" "-lzstd" "-lrt" "-lssl" "-lcrypto" "-lstdc++" "-lxcb" "-lxkbcommon" "-lxkbcommon-x11" "-ldl" "-lcurl" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/lib/rustlib/x86_64-unknown-linux-gnu/lib" "-o" "/datapool/home/ph_teacher2/tannalwork/projects/zed/target/release/deps/zed-60ddc53378f6b62c" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,-O1" "-nodefaultlibs" "-fuse-ld=lld"
+  = note: ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '27916d97056aa97e-autofit.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftbase.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftbbox.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftbdf.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftbitmap.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftcid.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftdebug.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftfstype.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftgasp.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftglyph.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftgxval.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftinit.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftmm.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftotval.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftpatent.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftpfr.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftstroke.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftsynth.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftsystem.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-fttype1.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '591b7dbd556e46ba-ftwinfnt.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '09f131d07a5e9238-bdf.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '01e80a9d6611c684-ftbzip2.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '23a7a5222641c7c2-ftcache.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'd2b1f140ffe0a68b-cff.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'a1bf95168f5667b8-type1cid.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'eaab518185e4d69a-ftgzip.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '4a431ba5d4d0fd40-ftlzw.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '08557bc5795ea713-pcf.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '9448be08269099f1-pfr.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'd2523bc193d6af03-psaux.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '7252ca61f172543f-pshinter.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'd1c63da319ad2f57-psnames.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '76d2d928f3d0b519-raster.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '279b3abfa158092e-sdf.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'acfe8a979e35a0a6-svg.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '7c26974eb2c0bb1d-sfnt.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'd1b1913cd410b4b7-smooth.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'e653ca0e38654c36-truetype.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '7dd6d8efa0b34f9a-type1.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member 'ffd61b4519c65fc7-type42.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: warning: /tmp/rustcUX0lTN/libfreetype_sys-8e2a069f45842b5d.rlib: archive member '55fbdba38b46d6e8-winfnt.o' is neither ET_REL nor LLVM bitcode
+          ld.lld: error: unable to find library -lxcb
+          ld.lld: error: unable to find library -lxkbcommon
+          ld.lld: error: unable to find library -lxkbcommon-x11
+          collect2: error: ld returned 1 exit status
+          
+
+The following warnings were emitted during compilation:
+
+warning: zed@0.152.0: Info: using '122f01f9e5d6b2ba868cc75c9465e296a390507c' hash for ZED_COMMIT_SHA env var
+
+error: could not compile `zed` (bin "zed") due to 1 previous error
+error: failed to compile `zed v0.152.0 (/datapool/home/ph_teacher2/tannalwork/projects/zed/crates/zed)`, intermediate artifacts can be found at `/datapool/home/ph_teacher2/tannalwork/projects/zed/target`.
+To reuse those artifacts with a future compilation, set the environment variable `CARGO_TARGET_DIR` to that path.
+
 虽然目前用Rust编写的输入法项目相对较少，但我可以为您列出一些著名的开源输入法项目，包括一些使用其他语言编写的高性能、好用、美观的选项。我会特别标注用Rust编写的项目。
 
 中文输入法：

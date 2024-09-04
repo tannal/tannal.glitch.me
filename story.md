@@ -20,7 +20,7 @@ tiktok mini backend
 Android/Cross Platform
 Tiktok app (Old School & Jetpack Compose)
 Android NDK
-Android interrnals/ios/mac
+Android irrntenals/ios/mac
 flutter/linebender
 
 graphics
