@@ -1,3 +1,71 @@
+# 2024-9-4
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+278645 – (Regression: 17.5) "grid-row: auto" collapses for child with hidden overflow
+https://bugs.webkit.org/show_bug.cgi?id=278645
+
+Grid item iOS issue
+https://codepen.io/gmltA/pen/NWZMBPy
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494
+
+深度学习实战
+https://tannal.github.io/p/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98/
+
+Files | Anaconda.org
+https://anaconda.org/conda-forge/mold/files
+
+Mold | Anaconda.org
+https://anaconda.org/conda-forge/mold
+
+ChatGGG
+http://192.168.43.1:8080/
+
+How browsers work  |  Articles  |  web.dev
+https://web.dev/articles/howbrowserswork#layered_representation
+
+D219053: Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzFNjGplzFckNCmJBlsZZXxfp
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704
+
+⚙ D219053 Bug 1906157 Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
+https://phabricator.services.mozilla.com/D219053#7590303
+
+shuyuguo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=shuyuguo
+
+jorendorff - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jorendorff
+
+jeff walden mozilla - Google 搜索
+https://www.google.com.hk/search?q=jeff+walden+mozilla&newwindow=1&client=ubuntu-sn&hs=tNP&sca_esv=fbdc27ad29e5afc8&sca_upv=1&channel=fs&ei=vsHXZrLALOXfkPIP5_Ln0Q0&oq=Jeff+Walden+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEplZmYgV2FsZGVuICoCCAEyBxAAGIAEGBMyBxAAGIAEGBMyBxAAGIAEGBMyBhAAGBMYHjIGEAAYExgeMggQABgTGAoYHjIIEAAYExgKGB4yCBAAGBMYCBgeMggQABgTGAgYHjIIEAAYExgFGB5ImRRQ0wNY0wNwAXgAkAEAmAGdAqABnQKqAQMyLTG4AQPIAQD4AQGYAgKgAq8CwgIKEAAYgAQYsAMYE8ICCxAAGLADGBMYChgewgIJEAAYsAMYExgewgILEAAYsAMYExgHGB7CAg0QABiwAxgTGAcYChgemAMAiAYBkAYKkgcFMS4wLjGgB64D&sclient=gws-wiz-serp
+
+jswalden (Jeff Walden)
+https://github.com/jswalden
+
+jorendorff mozilla - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jorendorff+mozilla
+
+jorendorff/talks: Some talks I've given
+https://github.com/jorendorff/talks
+
+jorendorff (jorendorff) / Repositories
+https://github.com/jorendorff?tab=repositories
+
+Waldo mozilla - Google 搜索
+https://www.google.com.hk/search?q=Waldo+mozilla&newwindow=1&client=ubuntu-sn&hs=dn4&sca_esv=fbdc27ad29e5afc8&sca_upv=1&channel=fs&ei=_MLXZveGBoejkPIPjo764AI&ved=0ahUKEwj39OyXnKiIAxWHEUQIHQ6HHiwQ4dUDCA8&uact=5&oq=Waldo+mozilla&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVdhbGRvIG1vemlsbGEyBRAhGKABSP8SUPMEWI4ScAJ4AZABAJgBkgKgAc0OqgEDMi03uAEDyAEA-AEBmAIJoAKTD8ICChAAGLADGNYEGEfCAgsQLhiABBjHARivAcICBRAAGIAEwgIFEC4YgATCAhEQLhiABBjHARiYBRiZBRivAcICGhAuGIAEGMcBGK8BGJcFGNwEGN4EGOAE2AEBwgIIEAAYgAQYogTCAgQQABgewgIEEC4YHsICBhAAGAwYHsICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIGEAAYCBgemAMAiAYBkAYDugYGCAEQARgUkgcFMi4wLjegB9Aj&sclient=gws-wiz-serp
+
+conda install lld - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=conda+install+lld
+
+Files | Anaconda.org
+https://anaconda.org/conda-forge/lld/files
+
 # 2024-9-3
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

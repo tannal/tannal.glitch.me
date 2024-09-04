@@ -1,3 +1,14 @@
+# 2024-9-4 0 | 0
+
+conda install conda-forge::lld
+
+export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang"
+export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/clang++"
+
+shuyuguo google v8 team
+Waldo
+https://github.com/jorendorff?tab=repositories
+
 # 2024-9-3 0 | 0
 
 cargo install --git https://github.com/zed-industries/zed --locked zed
