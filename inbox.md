@@ -1,6 +1,6 @@
 # 2024-9-4 0 | 0
 
-
+conda install -c conda-forge freetype libxcb xorg-libxkbcommon
 export OPENSSL_DIR=$CONDA_PREFIX
 export PKG_CONFIG_PATH=$CONDA_PREFIX/lib/pkgconfig:$PKG_CONFIG_PATH
 
