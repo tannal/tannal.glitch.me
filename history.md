@@ -1,5 +1,95 @@
 # 2024-9-4
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rime/librime: Rime Input Method Engine, the core library
+https://github.com/rime/librime
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe&tab=backup
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406
+
+github.com/zed-industries/zed/issues/development/linux.md
+https://github.com/zed-industries/zed/issues/development/linux.md
+
+zed/docs/src/linux.md at 5e6e465294c0605eaa76a30c9dcea2f98d410010 · zed-industries/zed
+https://github.com/zed-industries/zed/blob/5e6e465294c0605eaa76a30c9dcea2f98d410010/docs/src/linux.md?plain=1#L84
+
+conda install glibc - Google 搜索
+https://www.google.com.hk/search?q=conda+install+glibc&newwindow=1&client=ubuntu-sn&hs=oo6&sca_esv=8912d412e28526c7&sca_upv=1&channel=fs&biw=1850&bih=968&ei=TeHXZuv5KsPdkPIP6IbcwQQ&oq=conda+insta&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2NvbmRhIGluc3RhKgIIADIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyChAAGIAEGEMYigUyBRAAGIAESPW8AVC8pQFY-7ABcAJ4AJABAJgBrQKgAcUWqgEGMi0xMC4xuAEDyAEA-AEBmAILoAKFF8ICCxAuGIAEGNEDGMcBwgIFEC4YgATCAgoQLhiABBhDGIoFwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAZgDAIgGAboGBggBEAEYFJIHBjItMTAuMaAHkUI&sclient=gws-wiz-serp
+
+conda installation, glibc conflict error · Issue #1240 · automl/auto-sklearn
+https://github.com/automl/auto-sklearn/issues/1240
+
+fcitx/fcitx5: maybe a new fcitx.
+https://github.com/fcitx/fcitx5
+
+avatar_hu7339003300074909980.png (PNG Image, 300 × 308 pixels)
+https://tannal.github.io/img/avatar_hu7339003300074909980.png
+
+Code search results
+https://github.com/search?q=%23image%28%22http&type=code
+
+avatar_hu7339003300074909980.png (PNG Image, 300 × 308 pixels)
+https://tannal.github.io/img/avatar_hu7339003300074909980.png
+
+ChatGGG
+http://192.168.43.1:8080/
+
+roseduan
+https://tannal.github.io/
+
+(22) Discord | 好友
+https://discord.com/channels/@me
+
+Tinymist Typst - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tinymist+Typst
+
+Myriad-Dreamin/tinymist: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+https://github.com/Myriad-Dreamin/tinymist
+
+Add support for parsing datetimes from strings · Issue #4107 · typst/typst
+https://github.com/typst/typst/issues/4107
+
+hugo-theme-stack-starter/content/post/hello-world/index.md at master · CaiJimmy/hugo-theme-stack-starter
+https://github.com/CaiJimmy/hugo-theme-stack-starter/blob/master/content/post/hello-world/index.md?plain=1
+
+Hugo Theme Stack Starter
+https://demo.stack.jimmycai.com/
+
+Internationalization hugo - Google 搜索
+https://www.google.com.hk/search?q=Internationalization+hugo&newwindow=1&client=ubuntu-sn&hs=8N9&sca_esv=c7a01837b1eb8e0f&sca_upv=1&channel=fs&ei=4wfYZrnBLKTVkPIP8qLCiAo&ved=0ahUKEwj5vorz3aiIAxWkKkQIHXKREKEQ4dUDCA8&uact=5&oq=Internationalization+hugo&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUludGVybmF0aW9uYWxpemF0aW9uIGh1Z28yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjlDFDiA1j3CnABeAGQAQCYAfUCoAHqC6oBBTItMy4yuAEDyAEA-AEC-AEBmAIGoAKJDMICChAAGLADGNYEGEfCAgUQABiABMICChAAGIAEGEMYigXCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABgTGAUYHsICBhAAGAUYHsICCBAAGAgYHhgPmAMA4gMFEgExIECIBgGQBgqSBwcxLjAuMy4yoAfFFA&sclient=gws-wiz-serp
+
+Multilingual mode | Hugo
+https://gohugo.io/content-management/multilingual/
+
+关于
+https://roseduan.github.io/about/
+
+谭盟
+http://localhost:1313/
+
+谭盟
+http://localhost:1313/
+
+404 Page not found
+https://tannal.github.io/static/cmment.jpg
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+comment.png (PNG Image, 917 × 550 pixels)
+https://tannal.github.io/comment.png
+
+Rust 手写 SQL 数据库
+http://localhost:1313/p/rust-%E6%89%8B%E5%86%99-sql-%E6%95%B0%E6%8D%AE%E5%BA%93/
+
+ChatGGG
+http://192.168.43.1:8080/
+
 roseduan
 https://tannal.github.io/
 
