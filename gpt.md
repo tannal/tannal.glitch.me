@@ -1,5 +1,72 @@
 
 
+虽然目前用Rust编写的输入法项目相对较少，但我可以为您列出一些著名的开源输入法项目，包括一些使用其他语言编写的高性能、好用、美观的选项。我会特别标注用Rust编写的项目。
+
+中文输入法：
+
+    Rime（中州韵输入法引擎）
+        语言：C++
+        高度可定制，支持多种输入方案
+        GitHub: https://github.com/rime/librime
+
+    Fcitx5
+        语言：C++
+        新一代Fcitx输入法框架，性能优秀，支持多种语言
+        GitHub: https://github.com/fcitx/fcitx5
+
+    IBus
+        语言：C
+        智能输入法总线，支持多种语言和输入法
+        GitHub: https://github.com/ibus/ibus
+
+    OpenVanilla (OV)
+        语言：C++
+        跨平台的输入法框架
+        GitHub: https://github.com/openvanilla/openvanilla
+
+    Rust编写的中文输入法项目（较新/实验性）：
+        libime-jyutping: https://github.com/keyboard-ergonomics/libime-jyutping
+        RustPinyin: https://github.com/hanwentao/RustPinyin
+
+日文输入法：
+
+    Mozc
+        语言：C++
+        由Google开发的日语输入法引擎
+        GitHub: https://github.com/google/mozc
+
+    Anthy
+        语言：C
+        经典的日语输入法引擎
+        源代码: https://salsa.debian.org/debian/anthy
+
+    Kuromoji (用于日语分词，可用于输入法开发)
+        语言：Java
+        GitHub: https://github.com/atilika/kuromoji
+
+韩语输入法：
+
+    Nimf
+        语言：C
+        轻量级输入法框架，支持韩语
+        GitHub: https://github.com/hamonikr/nimf
+
+    libhangul
+        语言：C
+        韩语输入法库
+        GitHub: https://github.com/libhangul/libhangul
+
+跨语言支持：
+
+    UIMS (Universal Input Method Service)
+        语言：Rust
+        一个通用的输入法服务，目标是支持多种语言
+        GitHub: https://github.com/uims-net/uims
+
+虽然目前还没有广泛使用的、完全用Rust编写的中文、日文或韩文输入法，但Rust在系统编程和性能优化方面的优势使其成为开发输入法的潜在良好选择。随着时间推移，我们可能会看到更多用Rust开发的输入法项目。
+
+目前，如果您希望使用高性能、好用、美观的输入法，Fcitx5（对于中文和其他语言）和Mozc（对于日语）是非常好的选择。它们都提供了现代的用户界面和出色的性能。
+
 优化，特别是直接偏好优化（DPO）和近端策略优化（PPO）之间的权衡。这确实是当前AI研究的一个热点领域。让我为您梳理一下相关信息：
 
 核心过程和原理梳理：
