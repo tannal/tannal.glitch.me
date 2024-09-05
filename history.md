@@ -1,5 +1,71 @@
 # 2024-9-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+278645 – (Regression: 17.5) "grid-row: auto" collapses for child with hidden overflow
+https://bugs.webkit.org/show_bug.cgi?id=278645
+
+testcase
+https://bug-278645-attachments.webkit.org/attachment.cgi?id=472440
+
+Screenshot 2024-09-04 at 16.10.53.png (PNG Image, 3337 × 326 pixels) — Scaled (55%)
+https://bug-278645-attachments.webkit.org/attachment.cgi?id=472441
+
+eSafe Demo
+https://configurator.esafe.be/index.html#/configurator?link=H4sIAIYr2GYAA72WQU%2FjMBCF%2F4vPURUXFpXcqu4BtCysFm4ViowzSSwcO7LHS6Mq%2F52xQ1FvXBafEo%2FH78soL8o7stHZJki8bVjFGmhF0Fg3qlMoNCuYs7Zl1f65YFpMNiA1%2FQWJwnQa2Kn4MKKyxrPqyKTVYTDxblB0KQs2iAOr%2BByl3lI9ri94sTRsaKPGaYRz4bukuiNJdEIZZNSkrRSRQn23xqsm0l%2FsAYi6Py7a68vik1%2Bm3ciz6eHSeC8oe2VsreJZ0NpvBxtIvlpTO3HASTs8AqIyHemy%2By2b5%2BKkvv5C%2FeBBwytJg%2Bmc%2BLdo7JkYhcMBDNafdeoxYoCzwvMZp8zD4ZtMnKtMnK%2Fe%2Fv%2FiZPIBz%2BSDTDa4OBuHf%2Bfns8nEucrEuczEWWfiZPIBz%2BQDnskHPJMPeCYf8Ew%2B%2BGYbUDBKGYKWT0uKuaEIs3QPghKFohhFxFYZ5XvafkRHaSs4%2BC0QY8ASeme1day6Lssfc3xaknNTPKRSaAHdqTB80KkgLSUVg6tlCL9aDijwq1MrqfTCP7yZXzD90YJGb4X2EDOO1KGBZisleG%2FjoThsij4GsJaCJBjNZNvWA96A6no8%2FRd%2Bwoh9WshJK9OA2wVcIuG9NUsaNF0QHaQkyeZ3z1iGFlwKAAA%3D
+
+tannal
+https://tannal.github.io/
+
+谭盟
+http://localhost:1313/zh-cn/
+
+Issue search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+webassembly&type=issues
+
+webkit logging - Google 搜索
+https://www.google.com.hk/search?q=webkit+logging&newwindow=1&client=ubuntu-sn&hs=Dsv&sca_esv=1c4a2bf3bd651b6a&sca_upv=1&channel=fs&ei=RHPYZo6gMf3fkPIPh47ksQc&start=10&sa=N&sstk=AagrsuijoJN4sf7hOQ9CJeTPKh_bpMp-0BiDj5hUjvMIueasFllbyWE3EoLkDoxmoULQ8j-jA01tJ7hQMzSDARrZI2W6AG0CalU4cA&ved=2ahUKEwiO0vKmxKmIAxX9L0QIHQcHOXYQ8tMDegQIBxAE&biw=1850&bih=968&dpr=1
+
+Debugging With GDB/LLDB - WebKit Documentation
+https://docs.webkit.org/Build%20%26%20Debug/DebuggingOnTheCommandLine.html
+
+Debugging WebKit | WebKit
+https://webkit.org/debugging-webkit/
+
+How to view WebKit/Blink WTF_LOG
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/4lABaZRRs28
+
+grid area sidebar - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=grid+area+sidebar
+
+gecko display list log - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gecko+display+list+log
+
+Gecko Logging — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/xpcom/logging.html
+
+LazyLogModule .*\(" - mozsearch
+https://searchfox.org/mozilla-central/search?q=LazyLogModule+.*%5C%28%22&path=&case=true&regexp=true
+
+gecko print dump displaylist - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gecko+print+dump+displaylist
+
+Karl Dubost - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Karl+Dubost
+
+Karl Dubost
+https://www.la-grange.net/karl/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+James M Snell - Website
+https://www.jasnell.me/
+
+windows11 build chromium crash
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/iHwVGW_GXaA
+
 (1) Jasper (cohost.org/jasper) (@JasperRLZ) / X
 https://x.com/JasperRLZ
 
