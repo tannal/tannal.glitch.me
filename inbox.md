@@ -1,5 +1,7 @@
 # 2024-9-5 0 | 0
 
+conda install anaconda::sqlite
+
 ln -sfn /usr/bin/ld /usr/bin/mold
 
 export CC="/opt/llvm/bin/clang"
@@ -59,7 +61,7 @@ WINEPREFIX=~/.wine64 /opt/wine/bin/wine
 
 pip install torch torchaudio jukebox -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-cargo install --path crates/zed
+RUSTFLAGS="-C target-feature=-crt-static" cargo install --path crates/zed
 cargo install --path crates/cli/ --bin zed-cli
 cargo uninstall cli
 

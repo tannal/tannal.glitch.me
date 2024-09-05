@@ -6,6 +6,15 @@
 
 # achievement
 
+# checklist
+
+CLANG_FORMAT_START=$(git merge-base HEAD main) make format-cpp
+make lint-cpp
+
+# dev
+
+export NODE_DEBUG_NATIVE=module
+unset NODE_DEBUG_NATIVE
 
 with fastapi
 

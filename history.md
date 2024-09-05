@@ -1,5 +1,95 @@
 # 2024-9-5
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535
+
+joyeecheung/node at node-compile-cache
+https://github.com/joyeecheung/node/tree/node-compile-cache
+
+src: add JS APIs for compile cache and NODE_DISABLE_COMPILE_CACHE by joyeecheung · Pull Request #54501 · nodejs/node
+https://github.com/nodejs/node/pull/54501
+
+APIs for libraries/frameworks/tools to control on-disk compilation cache (NODE_COMPILE_CACHE) · Issue #53639 · nodejs/node
+https://github.com/nodejs/node/issues/53639
+
+Tracking issue: compile cache · Issue #52696 · nodejs/node
+https://github.com/nodejs/node/issues/52696
+
+wip: crypto: use cppgc to manage Hash by joyeecheung · Pull Request #51017 · nodejs/node
+https://github.com/nodejs/node/pull/51017
+
+xxHash - Extremely fast non-cryptographic hash algorithm
+https://xxhash.com/
+
+Cyan4973/xxHash: Extremely fast non-cryptographic hash algorithm
+https://github.com/Cyan4973/xxHash?tab=readme-ov-file
+
+61976089-aedeab00-af9f-11e9-9239-e5375d6c080f.png (PNG Image, 3164 × 1649 pixels) — Scaled (58%)
+https://user-images.githubusercontent.com/750081/61976089-aedeab00-af9f-11e9-9239-e5375d6c080f.png
+
+Issues · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues
+
+raw.githubusercontent.com/nodejs/node/f313b14c39b7b74653a432859a74c2f192fd83bd/src/xxhash.h
+https://raw.githubusercontent.com/nodejs/node/f313b14c39b7b74653a432859a74c2f192fd83bd/src/xxhash.h
+
+(216) #general > Experimenting with a <webview> element - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Experimenting.20with.20a.20.3Cwebview.3E.20element
+
+CI: Add artifact attestation for servo release artifacts · Issue #33309 · servo/servo
+https://github.com/servo/servo/issues/33309
+
+Move Alan to past TSC members :( · servo/project@06ac607
+https://github.com/servo/project/commit/06ac607d7be523e9b2973c001e291c1f279c7bfc
+
+liblibsqlite3_sys - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=liblibsqlite3_sys
+
+GitHub
+https://github.com/
+
+Update web-platform-tests to revision b'5d8ec746ed021738e7ee0cee92ad1… · tannal/servo@0142248
+https://github.com/tannal/servo/actions/runs/10721664866/job/29732782311
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+Linters · tannal/node@980db9e
+https://github.com/tannal/node/actions/runs/10722426487
+
+CYBAI (CYBAI) / Repositories
+https://github.com/CYBAI?tab=repositories
+
+(995) #gpu > Latency Investigation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Latency.20Investigation
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+Logging - WebKit Documentation
+https://docs.webkit.org/Build%20%26%20Debug/Logging.html#setup
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+XxHash – an extremely fast non-cryptographic hash algorithm | Hacker News
+https://news.ycombinator.com/item?id=18453136
+
+conda install sqlite3 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=conda+install+sqlite3
+
+Sqlite | Anaconda.org
+https://anaconda.org/anaconda/sqlite
+
+conda-forge/sqlite-feedstock: A conda-smithy repository for sqlite.
+https://github.com/conda-forge/sqlite-feedstock
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

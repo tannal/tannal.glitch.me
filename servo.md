@@ -1,5 +1,7 @@
 # dev
 
+./mach try
+
 RUST_BACKTRACE=1
 
 unused pref

@@ -3,8 +3,6 @@
 
 
 
-./mach run -MOZ_LOG=timestamp,rotate:200,example_module:5 -MOZ_LOG_FILE=%TEMP%\firefox-logs
-
 WEBKIT_DISABLE_SANDBOX=1 WEBKIT_DEBUG=ClipRects,Compositing Tools/Scripts/run-minibrowser --gtk --debug test.html
 
 (T)op layer, (S)tacking Context/(F)orced SC/O(P)portunistic SC, (N)ormal flow only, (O)verflow clip, (A)lpha (opacity or mask), has (B)lend mode, (I)solates blending, (T)ransform-ish, (F)ilter, Fi(X)ed position, Behaves as fi(x)ed, (C)omposited, (P)rovides backing/uses (p)rovided backing/paints to (a)ncestor, (c)omposited descendant, (s)scrolling ancestor, (t)transformed ancestor
