@@ -1,3 +1,83 @@
+# 2024-9-5
+
+(1) Jasper (cohost.org/jasper) (@JasperRLZ) / X
+https://x.com/JasperRLZ
+
+Error 429 (Too Many Requests)
+https://poe.com/
+
+海绵音乐 - 一键创作你的 AI 音乐
+https://www.haimian.com/featured?utm_source=ai-bot.cn
+
+ChatGGG
+http://192.168.43.1:8080/
+
+trash (@trashh_dev) / X
+https://x.com/trashh_dev
+
+大模型 算法-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E7%AE%97%E6%B3%95&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+美团到店-大模型算法面经_牛客网
+https://www.nowcoder.com/feed/main/detail/e63b60a0727f4117a3c8ed9381719d66?sourceSSR=search
+
+阿龙吃了睡 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/392664476
+
+找不到实习的大摆子 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/113246935
+
+阿里大文娱优酷大模型一面_牛客网
+https://www.nowcoder.com/feed/main/detail/c131f7933b6b4e529f6d25efce8abe3d?sourceSSR=users
+
+找不到实习的大摆子 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/113246935
+
+蚂蚁大模型一面_牛客网
+https://www.nowcoder.com/feed/main/detail/c430dcf572184e26829c4733d729b847?sourceSSR=users
+
+智谱AI - 大模型算法工程师 - 1234面_牛客网
+https://www.nowcoder.com/discuss/658749923600396288?sourceSSR=search
+
+Cyril_KI - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/466955738
+
+虾皮大模型工具链一面_牛客网
+https://www.nowcoder.com/feed/main/detail/a3a597154eb145c69a3a17615a489276?sourceSSR=search
+
+阿里云 计算机视觉算法 二面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/bb646c44731d423bb6fa7c4ccf34717c?sourceSSR=users
+
+完美世界 图像算法 一面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/0842d19d004f494f90f9008bfcdd8cd9?sourceSSR=users
+
+字节 大模型 二面凉经_牛客网
+https://www.nowcoder.com/feed/main/detail/3a279da1137c41caa07754f0428b72e5
+
+Ivan22 - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/252302396
+
+字节 大模型 二面凉经_牛客网
+https://www.nowcoder.com/feed/main/detail/3a279da1137c41caa07754f0428b72e5?sourceSSR=users
+
+拼多多 算法工程师 一面面经_牛客网
+https://www.nowcoder.com/feed/main/detail/897db9dd24964b448d93309df1e39249?sourceSSR=users
+
+ChatGGG
+http://192.168.43.1:8080/
+
+晴天钢琴谱-周杰伦-琴艺谱
+https://www.qinyipu.com/gangqin/gangqinpudaquan/80857.html
+
+蒲公英的约定钢琴谱-周杰伦-c调-虫虫钢琴
+https://www.gangqinpu.com/cchtml/1072334.htm
+
+《蒲公英的约定,钢琴谱》根据原版编配,周杰伦|弹琴吧|钢琴谱|吉他谱|钢琴曲|乐谱|五线谱|简谱|高清免费下载|蛐蛐钢琴网
+https://www.tan8.com/yuepu-4816.html
+
+最长的电影钢琴谱-周杰伦-最长的电影-钢琴熊-虫虫钢琴
+https://www.gangqinpu.com/cchtml/1079126.htm
+
 # 2024-9-4
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

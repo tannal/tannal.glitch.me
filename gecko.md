@@ -47,6 +47,11 @@ https://bugzilla.mozilla.org/user_profile?user_id=466787
 
 # dev
 
+export MOZ_LOG=sLayoutLog:5
+./mach run
+
+RUST_LOG="debug" ./mach run --debugger=gdb /home/tannal/tannalwork/cans/baseline.html
+
 This revision requires a Testing Policy Project Tag to be set before landing. Please apply one of testing-approved, testing-exception-unchanged, testing-exception-ui, testing-exception-elsewhere, testing-exception-other. Tip: this Firefox add-on makes it easy!
 gregp edited projects, added testing-exception-unchanged (Doesn't change behavior for users); removed needs-testing-tag.
 

@@ -1,6 +1,28 @@
 
 # dev
 
+
+
+./mach run -MOZ_LOG=timestamp,rotate:200,example_module:5 -MOZ_LOG_FILE=%TEMP%\firefox-logs
+
+WEBKIT_DISABLE_SANDBOX=1 WEBKIT_DEBUG=ClipRects,Compositing Tools/Scripts/run-minibrowser --gtk --debug test.html
+
+(T)op layer, (S)tacking Context/(F)orced SC/O(P)portunistic SC, (N)ormal flow only, (O)verflow clip, (A)lpha (opacity or mask), has (B)lend mode, (I)solates blending, (T)ransform-ish, (F)ilter, Fi(X)ed position, Behaves as fi(x)ed, (C)omposited, (P)rovides backing/uses (p)rovided backing/paints to (a)ncestor, (c)omposited descendant, (s)scrolling ancestor, (t)transformed ancestor
+Dirty (z)-lists, Dirty (n)ormal flow lists
+Traversal needs: requirements (t)raversal on descendants, (b)acking or hierarchy traversal on descendants, (r)equirements traversal on all descendants, requirements traversal on all (s)ubsequent layers, (h)ierarchy traversal on all descendants, update of paint (o)rder children
+Update needs:    post-(l)ayout requirements, (g)eometry, (k)ids geometry, (c)onfig, layer conne(x)ion, (s)crolling tree
+Scrolling scope: box contents
+
+-S---------C---- z- -b---- -gk--- 2 2 0x7f0df2003e90 (0,0) width=1024 height=730 [SA 0x7f0f8a08b720] (layerID 14) {sc ProcessQualified(5, 13)} RenderView 0x7f0df2003a10
+-S-------------- zn -b---- ---c-- 2 2   + 0x7f0df2000e70 (0,0) width=1024 height=730 [SA 0x7f0f8a08a4c0] RenderBlock 0x7f0df2001df0 HTML 0x7f0df20015e0
+---------------- -n ------ ------ 2 2     + 0x7f0df2001f50 (0,0) width=1024 height=730 RenderBlock (relative positioned) 0x7f0df2005960 DIV 0x7f0df20044d0 class='viewer'
+---O------------ -n -b---- ---c-- 2 2     + 0x7f0df2005ac0 (0,0) width=1024 height=730 [SA 0x7f0f8a08a5a0] RenderGrid (positioned) 0x7f0f15102400 DIV 0x7f0df2004860 class='grid'
+--NO------------ -n -b---- ---c-- 2 2       n 0x7f0df2005d70 (0,730) width=1024 height=0 [SA 0x7f0f8a08a760] RenderBlock 0x7f0df2005c10 FOOTER 0x7f0df2004a00
+--NO------------ -n ------ ---c-- 2 2         n 0x7f0df2006140 (0,0) width=1024 height=0 [SA 0x7f0f8a08a840] RenderFlexibleBox 0x7f0df2005ec0 DIV 0x7f0df20048f0 class='head'
+---------------- -n ------ ------ 2 2     + 0x7f0df20063f0 (0,0) width=1024 height=19 RenderBlock (relative positioned) 0x7f0df2006290 DIV 0x7f0df2004c20 class='content
+
+export LOG_WITH_STREAM=Compositing
+
   "directory": "/home/tannal/tannalwork/projects/WebKit/WebKitBuild/JSCOnly/Debug",
   "command": "/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-g++ --sysroot=/home/tannal/tannalwork/projects/buildroot/output/host/usr/aarch64-buildroot-linux-gnu/sysroot -DBUILDING_JSCONLY__ -DBUILDING_WEBKIT=1 -DBUILDING_WITH_CMAKE=1 -DBUILDING_bmalloc -DHAVE_CONFIG_H=1 -DPAS_BMALLOC=1 -D_GNU_SOURCE -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc -I/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/libpas/src/libpas -fdiagnostics-color=always -Wextra -Wall -pipe -fmax-errors=20 -Wno-odr -Wno-stringop-overread -Wno-stringop-overflow -Wno-nonnull -Wno-array-bounds -Wno-expansion-to-defined -Wno-noexcept-type -Wno-psabi -Wno-misleading-indentation -Wno-maybe-uninitialized -Wundef -Wpointer-arith -Wmissing-format-attribute -Wformat-security -Wcast-align -Wno-tautological-compare -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -O2 -g0 -D_FORTIFY_SOURCE=1 -fno-strict-aliasing -fno-exceptions -fno-rtti -fcoroutines -ffunction-sections -fdata-sections -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -Werror -Wno-missing-field-initializers -Wno-cast-align -std=c++23 -o Source/bmalloc/CMakeFiles/bmalloc.dir/bmalloc/AllIsoHeaps.cpp.o -c /home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc/AllIsoHeaps.cpp",
   "file": "/home/tannal/tannalwork/projects/WebKit/Source/bmalloc/bmalloc/AllIsoHeaps.cpp"
