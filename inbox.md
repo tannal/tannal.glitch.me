@@ -1,3 +1,19 @@
+# 2024-9-5 0 | 0
+
+0.73%
+0.63%
+0.58%
+0.53%
+0.79%
+0.63%
+
+
+cargo install --git https://github.com/sharkdp/hyperfine.git
+
+CompileCacheHandler::ReadCacheFile
+
+
+
 # 2024-9-4 0 | 0
 
 conda install -c conda-forge libxkbcommon libxcb

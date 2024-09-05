@@ -1,5 +1,7 @@
 # todo
 
+[] - 
+
 [x] - // TODO(@anonrig): Add V8 Fast API to the following function
 
 # achievement
@@ -318,7 +320,7 @@ node has a inspector thread client server architecture just like gdb
 # inbox
 
 Debug() from src/debug_utils.h
-NODE_DEBUG
+NODE_DEBUG=
 
 export TARGET_ARCH=x64
 export BUILD_ARCH_TYPE=x64.debug

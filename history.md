@@ -1,5 +1,98 @@
 # 2024-9-5
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+Layout documentation should mention implicit block wrapping · Issue #4898 · typst/typst
+https://github.com/typst/typst/issues/4898
+
+(23) Discord | #y-crdt-devs | Y Community
+https://discord.com/channels/839953103276212235/929072436572487740
+
+more performant more reliable hash than crc32 crc32 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=more+performant+more+reliable+hash+than+crc32+crc32
+
+.net - Choosing a hash function for best performance - Stack Overflow
+https://stackoverflow.com/questions/10070293/choosing-a-hash-function-for-best-performance
+
+andy cmu hash functio - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=andy+cmu+hash+functio
+
+Hashing
+https://www.andrew.cmu.edu/course/15-121/lectures/Hashing/hashing.html
+
+(1) F2023 #07 - Hash Tables (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=eBgKVqFUUlA
+
+CMU 15-445/645 Database Systems (Fall 2023) :: Hash Tables - 07-hashtables.pdf
+https://15445.courses.cs.cmu.edu/fall2023/slides/07-hashtables.pdf
+
+xxHash - Extremely fast non-cryptographic hash algorithm
+https://xxhash.com/
+
+RedSpah/xxhash_cpp: Port of the xxhash library to C++17.
+https://github.com/RedSpah/xxhash_cpp
+
+xxHash - a hash algorithm as fast as memcpy
+https://create.stephan-brumme.com/xxhash/
+
+xxhash/xxhash32.h at master · stbrumme/xxhash
+https://github.com/stbrumme/xxhash/blob/master/xxhash32.h
+
+Cyan4973/xxHash: Extremely fast non-cryptographic hash algorithm
+https://github.com/Cyan4973/xxHash
+
+SMhasher | smhasher
+https://rurban.github.io/smhasher/
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535
+
+Code caching for JavaScript developers · V8
+https://v8.dev/blog/code-caching-for-devs
+
+Caching Compiled JavaScript Code for Chromium - Google 文档
+https://docs.google.com/document/d/1HY4jVB3mCoYWADaZgmRxFmC2vm8qFKUzdC4NZN5oVZA/view
+
+joyeecheung/node at node-compile-cache
+https://github.com/joyeecheung/node/tree/node-compile-cache
+
+Tracking issue: compile cache · Issue #52696 · nodejs/node
+https://github.com/nodejs/node/issues/52696
+
+pytorch/torchx: TorchX is a universal job launcher for PyTorch applications. TorchX is designed to have fast iteration time for training/research and support for E2E production ML pipelines when you're ready.
+https://github.com/pytorch/torchx
+
+Session Proposal: module loading customization/optimization and CJS/ESM interoperability · Issue #422 · openjs-foundation/summit
+https://github.com/openjs-foundation/summit/issues/422
+
+Node.js Loaders Team Meeting 2024-08-27 · Issue #222 · nodejs/loaders
+https://github.com/nodejs/loaders/issues/222
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535#issuecomment-2059390083
+
+BLAKE2b hash - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=BLAKE2b+hash
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535
+
+sharkdp/hyperfine: A command-line benchmarking tool
+https://github.com/sharkdp/hyperfine
+
+gdb set environment variable - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gdb+set+environment+variable
+
+linux - How to set environment variable within GDB using shell command? - Stack Overflow
+https://stackoverflow.com/questions/55593045/how-to-set-environment-variable-within-gdb-using-shell-command
+
+set environment (gdb mode only)
+https://www.irya.unam.mx/computo/sites/manuales/fce12/debugger/cl/commandref/gdb_mode/cmd_set_environm.htm
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
