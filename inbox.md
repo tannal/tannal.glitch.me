@@ -1,5 +1,11 @@
 # 2024-9-5 0 | 0
 
+ln -sfn /usr/bin/ld /usr/bin/mold
+
+export CC="/opt/llvm/bin/clang"
+export CXX="/opt/llvm/bin/clang++"
+
+
 0.73%
 0.63%
 0.58%

@@ -1,5 +1,83 @@
 # 2024-9-5
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Caching Compiled JavaScript Code for Chromium - Google 文档
+https://docs.google.com/document/d/1HY4jVB3mCoYWADaZgmRxFmC2vm8qFKUzdC4NZN5oVZA/view
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=dminor%40mozilla.com&list_id=17205087
+
+1833647 - Implement Float16Array
+https://bugzilla.mozilla.org/show_bug.cgi?id=1833647
+
+⚙ D203417 Bug 1833647 - Add Float16Array; r=anba,nbp!
+https://phabricator.services.mozilla.com/D203417
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist/tree/main
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704#7588826
+
+♟ dminor
+https://phabricator.services.mozilla.com/p/dminor/
+
+tannal
+https://tannal.github.io/
+
+(23) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+Font size is useless; let’s fix it @ tonsky.me
+https://tonsky.me/blog/font-size/
+
+touying-typ/touying: Touying is a powerful package for creating presentation slides in Typst.
+https://github.com/touying-typ/touying
+
+typst-community/typst-package-template
+https://github.com/typst-community/typst-package-template?tab=readme-ov-file
+
+packages/packages/preview at main · typst/packages
+https://github.com/typst/packages/tree/main/packages/preview
+
+graceful-genetics – Typst Universe
+https://typst.app/universe/package/graceful-genetics
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+node.gyp+cache&type=issues
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos?only_show_relevant=false&q=&sort=recentupdate
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories
+
+typst-LLNCS-template/template.typ at main · Jozott00/typst-LLNCS-template
+https://github.com/Jozott00/typst-LLNCS-template/blob/main/template.typ
+
+(239) #general > Turn warnings into errors - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Turn.20warnings.20into.20errors
+
+huawei-drc
+https://github.com/huawei-drc
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
