@@ -57,6 +57,7 @@ gregp edited projects, added testing-exception-unchanged (Doesn't change behavio
 
 MOZCONFIG=mozconfig.jsshell ./mach jstests regexp-prototype-matchAll-flags.js
 MOZCONFIG=mozconfig.jsshell ./mach jstests redeclaring-global-properties.js
+MOZCONFIG=mozconfig.jsshell ./mach jstests script-decl-lex-no-collision.js
 MOZCONFIG=mozconfig.jsshell ./mach jstests v-flag.js
 
 ReportOutOfMemory
