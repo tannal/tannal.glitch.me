@@ -598,7 +598,7 @@ igalia申请 deadline
 [x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 [] 9.12 20:00
 [] zuochengyun leetcode
-[] hash compile cache make a comment
+[] hash function compile cache
 
 ## life
 

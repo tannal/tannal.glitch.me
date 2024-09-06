@@ -1,3 +1,104 @@
+# 2024-9-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+Cannot compile: gnu/stubs-ilp32.h: No such file or directory · Issue #1399 · riscv-collab/riscv-gnu-toolchain
+https://github.com/riscv-collab/riscv-gnu-toolchain/issues/1399
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+jim keller - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jim+keller
+
+boost compile install - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=boost+compile+install
+
+c++ - How to install Boost from source - Stack Overflow
+https://stackoverflow.com/questions/57403855/how-to-install-boost-from-source
+
+chipsalliance/VeeR-ISS
+https://github.com/chipsalliance/VeeR-ISS
+
+riscv linux gnu headers apt install - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=riscv+linux+gnu+headers+apt+install
+
+gcc and linux installation issue · Issue #544 · riscv-collab/riscv-gnu-toolchain
+https://github.com/riscv-collab/riscv-gnu-toolchain/issues/544
+
+/usr/riscv64-linux-gnu/include/gnu/stubs.h:8:11: fatal error: gnu/stubs-ilp32.h: - Google 搜索
+https://www.google.com.hk/search?q=%2Fusr%2Friscv64-linux-gnu%2Finclude%2Fgnu%2Fstubs.h%3A8%3A11%3A+fatal+error%3A+gnu%2Fstubs-ilp32.h%3A&newwindow=1&client=ubuntu-sn&hs=wgm&sca_esv=f54d70af3ce3e440&sca_upv=1&channel=fs&ei=VozbZsnjK8CmkPIPps2QyQg&ved=0ahUKEwjJ5pjRuK-IAxVAE0QIHaYmJIkQ4dUDCA8&uact=5&oq=%2Fusr%2Friscv64-linux-gnu%2Finclude%2Fgnu%2Fstubs.h%3A8%3A11%3A+fatal+error%3A+gnu%2Fstubs-ilp32.h%3A&gs_lp=Egxnd3Mtd2l6LXNlcnAiUC91c3IvcmlzY3Y2NC1saW51eC1nbnUvaW5jbHVkZS9nbnUvc3R1YnMuaDo4OjExOiBmYXRhbCBlcnJvcjogZ251L3N0dWJzLWlscDMyLmg6SLgoUPIKWPIKcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHAA&sclient=gws-wiz-serp
+
+RTFM | Official documents
+https://ysyx.oscc.cc/docs/en/ics-pa/2.2.html#run-the-first-c-program
+
+RTFSC(2) · GitBook
+https://nju-projectn.github.io/ics-pa-gitbook/ics2021/2.2.html
+
+(216) #general > Updating Android APK layout - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Updating.20Android.20APK.20layout
+
+WIP: Add a Servo tree. by emilio · Pull Request #3 · mozsearch/mozsearch-mozilla
+https://github.com/mozsearch/mozsearch-mozilla/pull/3
+
+Uncertainty principle - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Uncertainty+principle
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+ChatGGG
+http://192.168.43.1:8080/
+
+(1) cλbai (@_cybai) / X
+https://x.com/_cybai
+
+After realizing that Bun/JavaScriptCore was a fork of KJS : r/kde
+https://www.reddit.com/r/kde/comments/16gomte/after_realizing_that_bunjavascriptcore_was_a_fork/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+(1) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+Home_2024
+https://oscar-workshop.github.io/
+
+(1) Jim Keller on X: "We love RiscV. Open source architectural verification https://t.co/cHw9inTsNd" / X
+https://x.com/jimkxa/status/1813966176256749946
+
+github.com
+https://github.com/tenstorrent/whisper/issues
+
+DRAM Loopback — TT-Metalium documentation
+https://docs.tenstorrent.com/tt-metalium/latest/tt_metal/examples/dram_loopback.html#silicon-accelerator-setup
+
+chipsalliance/VeeR-ISS
+https://github.com/chipsalliance/VeeR-ISS
+
+(1) Jim Keller on X: "I think we're making solid progress on software. We just started a project on MLIR, check it out https://t.co/K0mdnK8muh" / X
+https://x.com/jimkxa/status/1813966174444757006
+
+tenstorrent/tt-metal: :metal: TT-NN operator library, and TT-Metalium low level kernel programming model.
+https://github.com/tenstorrent/tt-metal
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=Yeah.%20See%20all%20the%20panic%20with%20the%20James%20Webb%20satellite%20or%20some%20collider%20results&op=translate
+
+boost github - Google 搜索
+https://www.google.com.hk/search?q=boost+github&newwindow=1&sca_esv=a254549251fd0cc1&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJCFEiACLa_PoD32OPhb93fi3wypQ%3A1725662968161&ei=-IbbZsfJCYKkkPIPxsjauA4&ved=0ahUKEwjHpeDBs6-IAxUCEkQIHUakFucQ4dUDCA8&uact=5&oq=boost+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGJvb3N0IGdpdGh1YjIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeSLQEUBZYtANwAHgBkAEAmAGnAqAB0QaqAQMyLTO4AQPIAQD4AQGYAgOgAucGmAMAkgcFMi0yLjGgB4UJ&sclient=gws-wiz-serp
+
+boostorg/boost: Super-project for modularized Boost
+https://github.com/boostorg/boost
+
 # 2024-9-6
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,3 +1,17 @@
+# 2024-9-7 0 | 0
+
+git clone https://github.com/riscv/riscv-gnu-toolchain.git
+cd riscv-gnu-toolchain
+git submodule update --init --recursive
+export RISCV=/opt/riscv
+./configure --prefix="${RISCV}" --enable-multilib
+make linux
+
+
+./bootstrap.sh --prefix=/opt/boost/
+sudo apt install libboost1.74-all-dev
+
+
 # 2024-9-6 0 | 0
 
 conda uninstall -c conda-forge nccl
