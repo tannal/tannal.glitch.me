@@ -1,3 +1,85 @@
+# 2024-9-6
+
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+2405.20324v1.pdf
+https://arxiv.org/pdf/2405.20324
+
+2305.12689v2.pdf
+https://arxiv.org/pdf/2305.12689
+
+video support · Issue #12 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/12
+
+lucidrains/performer-pytorch: An implementation of Performer, a linear attention-based transformer, in Pytorch
+https://github.com/lucidrains/performer-pytorch
+
+Issues · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues
+
+lucidrains/video-diffusion-pytorch: Implementation of Video Diffusion Models, Jonathan Ho's new paper extending DDPMs to Video Generation - in Pytorch
+https://github.com/lucidrains/video-diffusion-pytorch
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Issues · bigcode-project/starcoder
+https://github.com/bigcode-project/starcoder/issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704#7601176
+
+2001.04451v2.pdf
+https://arxiv.org/pdf/2001.04451
+
+google/trax: Trax — Deep Learning with Clear Code and Speed
+https://github.com/google/trax
+
+Code search results
+https://github.com/search?q=reversible_layer&type=code
+
+Support winget installation on windows · juicedata/juicefs · Discussion #4603
+https://github.com/juicedata/juicefs/discussions/4603
+
+Python Debugger - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy
+
+Modular
+https://github.com/modularml/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=mojo&sort=byPopularity&type=story
+
+(3) I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo - YouTube
+https://www.youtube.com/watch?v=ovYbgbrQ-v8
+
+modularml/mojo: The Mojo Programming Language
+https://github.com/modularml/mojo
+
+Get started with Mojo🔥 | Modular Docs
+https://docs.modular.com/mojo/manual/get-started
+
+Modular: The Next Big Step in Mojo🔥 Open Source
+https://www.modular.com/blog/the-next-big-step-in-mojo-open-source
+
+modularml/mojo at nightly
+https://github.com/modularml/mojo/tree/nightly
+
+Get started with Mojo🔥 | Modular Docs
+https://docs.modular.com/mojo/manual/get-started
+
+mojo/CONTRIBUTING.md at nightly · modularml/mojo
+https://github.com/modularml/mojo/blob/nightly/CONTRIBUTING.md
+
+From their FAQ https://docs.modular.com/mojo/faq.html "Will Mojo be open-sourced... | Hacker News
+https://news.ycombinator.com/item?id=35792179
+
+
+
 # 2024-9-5
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
