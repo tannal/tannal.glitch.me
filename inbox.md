@@ -1,5 +1,19 @@
 # 2024-9-6 0 | 0
 
+https://www.nowcoder.com/users/569569024
+
+https://blog.csdn.net/Cyril_KI
+
+conda activate tm-pytorch-cuda
+
+export LD_LIBRARY_PATH=/usr/local/lib/x86_64-linux-gnu/:$LD_LIBRARY_PATH
+
+export QT_QPA_PLATFORM=wayland
+
+
+sudo apt-get update
+sudo apt-get install libqrcodegencpp1 libqt6core6 libqt6dbus6 libqt6gui6 libqt6network6 libqt6svg6 libqt6widgets6 libqt6xml6 libvpl2
+
 sudo apt autoremove
 sudo apt clean
 

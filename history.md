@@ -1,5 +1,74 @@
 # 2024-9-6
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/face/vip
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/#/whisper/mid844424930131966
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+Stability-AI/generative-models: Generative Models by Stability AI
+https://github.com/Stability-AI/generative-models?tab=readme-ov-file
+
+Issues · obsproject/obs-studio
+https://github.com/obsproject/obs-studio/issues?q=is%3Aissue+is%3Aopen+wayland
+
+kkroening/ffmpeg-python: Python bindings for FFmpeg - with complex filtering support
+https://github.com/kkroening/ffmpeg-python
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+tannal (tannal)
+https://github.com/tannal/
+
+没有论文 算法岗-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E6%B2%A1%E6%9C%89%E8%AE%BA%E6%96%87%20%E7%AE%97%E6%B3%95%E5%B2%97&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+通信算法岗对发表论文要求高吗？_牛客网
+https://www.nowcoder.com/feed/main/detail/369e19bc1eba4bc3b60b30d46b0ef9cd?sourceSSR=search
+
+百度提前批 - 大模型算法工程师（文心一言）123面_牛客网
+https://www.nowcoder.com/discuss/658082927309254656?sourceSSR=dynamic
+
+Cyril_KI - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/466955738
+
+MiniMax - 大语言模型算法工程 - 12面_牛客网
+https://www.nowcoder.com/discuss/658766866105528320?sourceSSR=users
+
+希望有好offer - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/569569024
+
+百度多模态大模型一面凉经_牛客网
+https://www.nowcoder.com/feed/main/detail/da1288830530403283e5e4afa75818c9?sourceSSR=users
+
+希望有好offer - 个人主页动态 - 牛客网
+https://www.nowcoder.com/users/569569024
+
+2309.12307v3.pdf
+https://arxiv.org/pdf/2309.12307
+
+Cyril_KI-CSDN博客
+https://blog.csdn.net/Cyril_KI
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
