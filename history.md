@@ -6,6 +6,63 @@ https://github.dev/tannal/tannal.glitch.me
 创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
 https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
 
+rhysjones/gpt2-124M-edu-fineweb-10B · Hugging Face
+https://huggingface.co/rhysjones/gpt2-124M-edu-fineweb-10B
+
+MultiGPU training hangs · Issue #369 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/369
+
+Paper page - Simple and Controllable Music Generation
+https://huggingface.co/papers/2306.05284
+
+2306.05284v3.pdf
+https://arxiv.org/pdf/2306.05284
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+conda nccl - Google 搜索
+https://www.google.com/search?q=conda+nccl&client=ubuntu-sn&hs=0By&sca_esv=5261f004a4ce4d96&channel=fs&sxsrf=ADLYWIIdDVvwExgKZ3Z0ZQ3B93Kugekniw%3A1725629111021&ei=twLbZoCDAdyk1e8Pt5GUkQQ&ved=0ahUKEwjAurSxta6IAxVcUvUHHbcIJUIQ4dUDCBA&uact=5&oq=conda+nccl&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIgpjb25kYSBuY2NsMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMgUQABiABEjZElChBlioEXABeAGQAQCYAbICoAHrDaoBBzAuMy40LjG4AQPIAQD4AQGYAgmgAqMOwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCBAAGIAEGIsDwgIUEC4YgAQY0QMY0gMYxwEYqAMYiwPCAgsQLhiABBjRAxjHAZgDAIgGAZAGCpIHBzEuMi41LjGgB9Ez&sclient=gws-wiz-serp
+
+Installation Guide :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/install-guide/index.html
+
+Installation Guide :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/install-guide/index.html#down
+
+NVIDIA Collective Communications Library (NCCL) | NVIDIA Developer
+https://developer.nvidia.com/nccl
+
+Files | Anaconda.org
+https://anaconda.org/conda-forge/nccl/files
+
+NVIDIA/nccl: Optimized primitives for collective multi-GPU communication
+https://github.com/NVIDIA/nccl
+
+Cannot find NCCL 2 which is installed by anaconda · Issue #1944 · horovod/horovod
+https://github.com/horovod/horovod/issues/1944
+
+Cuda Nvcc | Anaconda.org
+https://anaconda.org/nvidia/cuda-nvcc
+
+NCCL error · Issue #1726 · vllm-project/vllm
+https://github.com/vllm-project/vllm/issues/1726
+
+nccl invalid argument - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=nccl+invalid+argument
+
+is it accurate to assume that NCCL 2.18.5 (and 2.19.3 and onward) does NOT support CUDA 12.1? · Issue #1142 · NVIDIA/nccl
+https://github.com/NVIDIA/nccl/issues/1142
+
+nccl 2.14.3 compatibility - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=nccl+2.14.3+compatibility
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 

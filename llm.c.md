@@ -2,6 +2,12 @@
 
 #
 
+/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc -Ofast -Wno-unused-result -Wno-ignored-pragmas -Wno-unknown-attributes -march=native -fopenmp -DOMP   train_gpt2.c -lm -lgomp -o train_gpt2
+
+/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc -Ofast -Wno-unused-result -Wno-ignored-pragmas -Wno-unknown-attributes -march=native -fopenmp -DOMP   test_gpt2.c -lm -lgomp -o test_gpt2
+
+
+/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/nvcc -I/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/include/  --threads=0 -t=0 --use_fast_math -std=c++17 -O3 -DMULTI_GPU -DUSE_MPI -DENABLE_BF16 train_gpt2.cu -lcublas -lcublasLt -lnvidia-ml -L/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/lib/ -L/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/lib/  -I/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/include/  -lnccl -lmpi -o train_gpt2cu
 
 ./train_gpt2cu \
     -i "dev/data/edu_fineweb10B/edu_fineweb_train_*.bin" \

@@ -1,4 +1,20 @@
+nvidia-nccl-cu12         2.20.5
+➜   |tm-pytorch-cuda|llm.c git:(master U:2 ?:4) ✗ nvcc -I/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/include/  --threads=0 -t=0 --use_fast_math -std=c++17 -O3 -DMULTI_GPU -DUSE_MPI -DENABLE_BF16 train_gpt2.cu -lcublas -lcublasLt -lnvidia-ml -L/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/lib/ -L/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/lib/  -I/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/include/  -lnccl -lmpi -o train_gpt2cu^C
+➜   |tm-pytorch-cuda|llm.c git:(master U:2 ?:4) ✗ nvidia-smi topo -m
+        GPU0    GPU1    mlx5_0  CPU Affinity    NUMA Affinity
+GPU0     X      SYS     SYS     0-3     0-1
+GPU1    SYS      X      SYS     0-3     0-1
+mlx5_0  SYS     SYS      X 
 
+Legend:
+
+  X    = Self
+  SYS  = Connection traversing PCIe as well as the SMP interconnect between NUMA nodes (e.g., QPI/UPI)
+  NODE = Connection traversing PCIe as well as the interconnect between PCIe Host Bridges within a NUMA node
+  PHB  = Connection traversing PCIe as well as a PCIe Host Bridge (typically the CPU)
+  PXB  = Connection traversing multiple PCIe bridges (without traversing the PCIe Host Bridge)
+  PIX  = Connection traversing at most a single PCIe bridge
+  NV#  = Connection traversing a bonded set of # NVLinks
 
 深入理解大模型架构和技术:
 详细了解Transformer架构,包括自注意力机制、多头注意力等核心组件

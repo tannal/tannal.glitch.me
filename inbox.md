@@ -1,5 +1,24 @@
 # 2024-9-6 0 | 0
 
+conda uninstall nvidia/label/cuda-11.8.0::cuda-nvcc
+conda install nvidia/label/cuda-11.7.0::cuda-nvcc
+
+ls /datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/include/
+ls /datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/lib/
+
+export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
+export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/g++"
+
+conda install nvidia/label/cuda-11.8.0::cuda-nvcc
+
+export PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/:$PATH
+
+
+export LD_LIBRARY_PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/lib/:$LD_LIBRARY_PATH
+
+
+mpirun -np 2 ./train_gpt2cu
+
 https://www.nowcoder.com/users/569569024
 
 https://blog.csdn.net/Cyril_KI
