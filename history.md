@@ -1,5 +1,86 @@
 # 2024-9-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+Code search results
+https://github.com/search?q=repo%3APaddlePaddle%2FPaddle%20tensor&type=code
+
+community/hackathon/hackathon_7th/【Hackathon 7th】个人挑战赛—科学计算任务合集.md at master · PaddlePaddle/community
+https://github.com/PaddlePaddle/community/blob/master/hackathon/hackathon_7th/%E3%80%90Hackathon%207th%E3%80%91%E4%B8%AA%E4%BA%BA%E6%8C%91%E6%88%98%E8%B5%9B%E2%80%94%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%BB%BB%E5%8A%A1%E5%90%88%E9%9B%86.md#no12-adamadamw-%E4%BC%98%E5%8C%96%E5%99%A8%E6%94%AF%E6%8C%81-amsgrad
+
+Venues | OpenReview
+https://openreview.net/
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494
+
+100% - [0] try: Fuzzy query=!win !osx 'spidermonkey | 'shell-haz
+https://treeherder.mozilla.org/jobs?repo=try&selectedTaskRun=a2jHKcpHSbq7KWlMGRtRLA.0&revision=ad9985f7c143beb7c1b35b7f170fb473a63d407e
+
+1435811 - (es-proposals-stage-3) [meta] ECMAScript stage 3 proposals
+https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
+
+1905229 - Decorator Metadata
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905229
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork
+
+MusicGen - a Hugging Face Space by facebook
+https://huggingface.co/spaces/facebook/MusicGen
+
+Paper page - Simple and Controllable Music Generation
+https://huggingface.co/papers/2306.05284
+
+https://www.youtube.com/watch?v=p3zMlq0Xjvk
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dp3zMlq0Xjvk&q=EhAkAIkFAAAAAPA8lf_-FymIGMPA67YGIjBkdyXMPmLH8n8idTtjZSwmTjBsW3yZdWLauvMXKnxnWaxCSX_4orunnHL2y8RWjNYyAXJaAUM
+
+chavinlo/musicgen_trainer: simple trainer for musicgen/audiocraft
+https://github.com/chavinlo/musicgen_trainer?tab=readme-ov-file
+
+Vocaroo | 線上錄音機
+https://vocaroo.com/19LpwVE44si7
+
+tc39/proposal-decorator-metadata
+https://github.com/tc39/proposal-decorator-metadata?tab=readme-ov-file
+
+Umbraco HQ
+https://github.com/umbraco
+
+Buttons / Button Group - Looks And Colors ⋅ Storybook
+https://uui.umbraco.com/?path=/story/uui-button-group--looks-and-colors
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Umbraco&sort=byPopularity&type=story
+
+mnist neural network - Google 搜索
+https://www.google.com/search?q=mnist+neural+network&client=ubuntu-sn&hs=KBw&sca_esv=51adf4c30f936e67&channel=fs&udm=2&biw=1850&bih=968&sxsrf=ADLYWILujMZmwM-IPNPIAHuyYSwmBtJOTw%3A1725621381417&ei=heTaZo2OGeSTvr0PzIWGwA8&oq=mnist+network&gs_lp=Egxnd3Mtd2l6LXNlcnAiDW1uaXN0IG5ldHdvcmsqAggBMgcQABiABBgTMggQABgTGAgYHjIIEAAYExgIGB4yCBAAGBMYCBgeMggQABgTGAgYHkj1J1CkCVilG3ACeACQAQCYAcsBoAHyDKoBBTAuOC4xuAEDyAEA-AEBmAILoAKiDcICCBAAGBMYBxgewgIIEAAYExgFGB7CAgQQIxgnwgIHEAAYgAQYDMICBRAAGIAEwgIGEAAYExgemAMAiAYBkgcFMi44LjGgB4oW&sclient=gws-wiz-serp#vhid=gKYvTrIB3uTCDM&vssid=mosaic
+
+MNIST(hand written digit) Classification Using Neural Network(Step by Step) From Scratch | by Koushik | Medium
+https://medium.com/@koushikkushal95/mnist-hand-written-digit-classification-using-neural-network-from-scratch-54da85712a06
+
+MIT Deep Learning 6.S191
+http://introtodeeplearning.com/
+
+ggml/examples/mnist at master · ggerganov/ggml
+https://github.com/ggerganov/ggml/tree/master/examples/mnist
+
+Audio/multimedia embeds in pdfs · Issue #3218 · typst/typst
+https://github.com/typst/typst/issues/3218
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+Introducing Claude 3.5 Sonnet \ Anthropic
+https://www.anthropic.com/news/claude-3-5-sonnet
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

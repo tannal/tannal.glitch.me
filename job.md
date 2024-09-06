@@ -598,7 +598,7 @@ igalia申请 deadline
 [x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 [] 9.12 20:00
 [] zuochengyun leetcode
-[] hash compile cache
+[] hash compile cache make a comment
 
 ## life
 
@@ -617,7 +617,7 @@ igalia申请 deadline
 
 [x] 9.5 11.40 gift实验室 同学 *graduate*
 [] 一生一芯 *graduate* *AI*
-[] 音乐AI *graduate* *AI*
+[] autio craft music gen 音乐AI *graduate* *AI*
 
 [x] k30s相册，预约上门退货 *family*
 [] 洞洞鞋 衣服 裤子 秋 *life*
