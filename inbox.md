@@ -1,5 +1,7 @@
 # 2024-9-6 0 | 0
 
+conda activate tm-pytorch-cuda
+
 conda create --name tm-pytorch-cuda --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
 
 localhost;127.*;10.*;172.16.*;172.17.*;172.18.*;172.19.*;172.20.*;172.21.*;172.22.*;172.23.*;172.24.*;172.25.*;172.26.*;172.27.*;172.28.*;172.29.*;172.30.*;172.31.*;192.168.*;tanmeng.org;*.tanmeng.org;124.223.112.154;*.nenu.edu.cn
