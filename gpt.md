@@ -1,4 +1,67 @@
+OBS Studio (https://github.com/obsproject/obs-studio)
+功能最全面的开源屏幕录制和直播软件
+支持多种操作系统：Windows, macOS, Linux
+提供丰富的插件生态系统
+可进行屏幕录制、直播、多源混合等
+SimpleScreenRecorder (https://github.com/MaartenBaert/ssr)
+针对 Linux 系统的轻量级屏幕录制软件
+界面简洁，易于使用
+支持录制全屏、窗口或自定义区域
+Kazam (https://github.com/hzbd/kazam)
+专为 Ubuntu 和其他 Linux 发行版设计的屏幕录制工具
+界面简单直观
+支持全屏和区域录制
+ShareX (https://github.com/ShareX/ShareX)
+功能强大的屏幕捕获和文件分享工具
+主要支持 Windows 系统
+除了屏幕录制，还提供截图、文件上传等功能
+Kap (https://github.com/wulkano/kap)
+为 macOS 设计的现代屏幕录制工具
+界面美观，使用简单
+支持导出为多种格式，包括 GIF
+FFmpeg (https://github.com/FFmpeg/FFmpeg)
+强大的命令行多媒体框架
+可用于屏幕录制，但需要一些命令行知识
+跨平台支持，高度可定制
+Peek (https://github.com/phw/peek)
+简单的 Linux 屏幕录制工具，专注于创建 GIF 动画
+界面简洁，易于使用
+适合快速创建短小的演示动画
+RecordMyDesktop (http://recordmydesktop.sourceforge.net/)
+针对 Linux 系统的屏幕录制软件
+提供命令行和 GUI 两种界面
+支持全屏和窗口录制
 
+
+Jitsi Meet (https://github.com/jitsi/jitsi-meet)
+最知名的开源视频会议平台之一
+使用 JavaScript/React 构建前端，Java 构建后端
+支持 WebRTC，提供高质量的音视频通话
+功能丰富，包括屏幕共享、聊天、举手等
+BigBlueButton (https://github.com/bigbluebutton/bigbluebutton)
+专为在线学习设计的开源 web 会议系统
+提供白板、文档共享、投票等教育相关功能
+使用 HTML5 和 WebRTC 技术
+OpenVidu (https://github.com/OpenVidu/openvidu)
+简化 WebRTC 的开源平台
+提供了易用的 API，方便集成到现有应用中
+支持录制、屏幕共享等功能
+Mediasoup (https://github.com/versatica/mediasoup)
+强大的 WebRTC SFU（选择性转发单元）
+使用 Node.js 编写，性能出色
+高度可定制，适合构建复杂的实时通信应用
+LiveKit (https://github.com/livekit/livekit)
+基于 Go 语言的实时音视频和数据传输平台
+支持 WebRTC，提供低延迟的通信
+易于扩展，适合大规模部署
+Galene (https://github.com/jech/galene)
+轻量级的视频会议服务器
+使用 Go 语言编写，资源消耗较低
+支持 WebRTC，适合小型部署
+Nextcloud Talk (https://github.com/nextcloud/spreed)
+Nextcloud 平台的视频会议和即时通讯组件
+集成了文件共享和协作功能
+注重隐私和数据保护
 
 Prometheus + Grafana + Alertmanager
 Prometheus：监控系统和时间序列数据库
