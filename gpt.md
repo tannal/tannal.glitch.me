@@ -1,3 +1,34 @@
+
+VLC Media Player
+功能强大，支持多核心解码
+安装命令：sudo apt install vlc
+MPV
+轻量级，性能优秀
+安装命令：sudo apt install mpv
+SMPlayer
+基于 MPlayer 的图形界面播放器
+安装命令：sudo apt install smplayer
+Celluloid (原 GNOME MPV)
+GNOME 桌面环境的 MPV 前端
+安装命令：sudo apt install celluloid
+Kodi
+功能丰富的媒体中心软件
+安装命令：sudo apt install kodi
+这些播放器通常都有更好的性能和更广泛的编解码器支持。您可以尝试其中的一个或多个，看哪个最适合您的需求。
+
+对于视频编辑和处理，除了 OBS Studio，您还可以考虑：
+
+Kdenlive
+功能强大的开源视频编辑器
+安装命令：sudo apt install kdenlive
+OpenShot
+简单易用的视频编辑器
+安装命令：sudo apt install openshot
+Shotcut
+跨平台的视频编辑器
+可以从官网下载或通过 Flatpak 安装
+
+
 OBS Studio (https://github.com/obsproject/obs-studio)
 功能最全面的开源屏幕录制和直播软件
 支持多种操作系统：Windows, macOS, Linux
