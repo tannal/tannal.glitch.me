@@ -1,4 +1,11 @@
+# 2024-9-6 0 | 0
+
+ssh-keygen -f "/home/tannal/.ssh/known_hosts" -R "[192.168.43.1]:2222"
+
+./dropbear -r dropbear_rsa_host_key -F -E -p 2222
+
 # 2024-9-5 0 | 0
+
 
 conda install anaconda::sqlite
 

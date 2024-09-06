@@ -3,6 +3,72 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Contributing · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Contributing
+
+Filter Effects Module Level 2
+https://drafts.fxtf.org/filter-effects-2/#BackdropFilterProperty
+
+javascriptcore logging - Google 搜索
+https://www.google.com/search?q=javascriptcore+logging&client=ubuntu-sn&hs=rUd&sca_esv=6fd0d93f9f01f957&channel=fs&sxsrf=ADLYWIIIk_yCfroFBzM0XCzNOggfXo8-gA:1725549557305&ei=9cvZZrGeEtWl2roPnZHN6QQ&start=10&sa=N&sstk=AagrsugmIiYz86OyiJEwriu6lX46nxftOYH3d2-iRFn4MJw64eNLIKU_hTMS_dz5wpZ_K2Jst23nubz25h3ajEISAWsmfgZw-eP-7Q&ved=2ahUKEwjx7J6DjayIAxXVklYBHZ1IM00Q8tMDegQIBBAE&biw=1850&bih=968&dpr=1
+
+DOM - WebKit Documentation
+https://docs.webkit.org/Deep%20Dive/DOM.html
+
+sideshowbarker (sideshowbarker) / Repositories
+https://github.com/sideshowbarker?tab=repositories
+
+Commit search results
+https://github.com/search?o=desc&q=author%3Asideshowbarker&s=author-date&type=Commits&p=5
+
+The Nu Html Checker (v.Nu)
+https://validator.github.io/validator/
+
+Piano Genie - I AM A.I.
+https://www.i-am.ai/piano-genie.html
+
+spectraldoy/music-transformer: My project to build and train a Music Transformer in PyTorch.
+https://github.com/spectraldoy/music-transformer
+
+The MAESTRO Dataset
+https://magenta.tensorflow.org/datasets/maestro
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gwinndr/MusicTransformer-Pytorch: MusicTransformer written for MaestroV2 using the Pytorch framework for music generation
+https://github.com/gwinndr/MusicTransformer-Pytorch?tab=readme-ov-file
+
+SuperPiano/Super_Piano_6_Performer_GPU.ipynb at master · asigalov61/SuperPiano
+https://github.com/asigalov61/SuperPiano/blob/master/Super_Piano_6_Performer_GPU.ipynb
+
+lucidrains/performer-pytorch: An implementation of Performer, a linear attention-based transformer, in Pytorch
+https://github.com/lucidrains/performer-pytorch
+
+2003.05997v5.pdf
+https://arxiv.org/pdf/2003.05997
+
+RoFormer - 2104.09864v5.pdf
+https://arxiv.org/pdf/2104.09864
+
+ZhuiyiTechnology (ZhuiyiTechnology) / Repositories
+https://github.com/ZhuiyiTechnology?tab=repositories
+
+Code search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp%20GLU%20Variants&type=code
+
+1910.05895v2.pdf
+https://arxiv.org/pdf/1910.05895
+
+2003.04887v2.pdf
+https://arxiv.org/pdf/2003.04887
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Joyee Cheung's Blog
 https://joyeecheung.github.io/blog/
 

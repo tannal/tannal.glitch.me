@@ -589,7 +589,7 @@ igalia申请 deadline
 
 ## igalia
 
-[] fast api noe blob revokeObjectURL
+[x] fast api noe blob revokeObjectURL
 [x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 [] 9.12 20:00
 [] zuochengyun leetcode
@@ -610,7 +610,7 @@ igalia申请 deadline
 [] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
 [x] 选课 9.1 24:00 17:00，退补选
 
-[] 9.5 11.40 gift实验室 同学 *graduate*
+[x] 9.5 11.40 gift实验室 同学 *graduate*
 [] 一生一芯 *graduate* *AI*
 [] 音乐AI *graduate* *AI*
 
