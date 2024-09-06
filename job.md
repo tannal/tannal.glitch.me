@@ -589,11 +589,14 @@ igalia申请 deadline
 
 ## igalia
 
+[] ggml-mnist tech report
+[] sport running and fuwocheng
+[] shengpizhong dianhuahaoma
 [x] fast api noe blob revokeObjectURL
 [x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 [] 9.12 20:00
 [] zuochengyun leetcode
-[] 
+[] hash compile cache
 
 ## life
 

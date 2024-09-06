@@ -1,5 +1,8 @@
 # 2024-9-6 0 | 0
 
+stable video diffusion
+https://github.com/leejet/stable-diffusion.cpp/issues/12
+
 ssh-keygen -f "/home/tannal/.ssh/known_hosts" -R "[192.168.43.1]:2222"
 
 ./dropbear -r dropbear_rsa_host_key -F -E -p 2222
