@@ -1,5 +1,14 @@
 # 2024-9-6 0 | 0
 
+conda uninstall -c conda-forge nccl
+conda install -c conda-forge nccl=2.15.5.1
+
+https://docs.nvidia.com/deeplearning/nccl/release-notes/rel_2-15-5.html#rel_2-15-5
+
+nvcc --version
+
+https://anaconda.org/conda-forge/nccl/2.9.9.1/download/linux-64/nccl-2.9.9.1-hdc17891_0.tar.bz2
+
 conda uninstall nvidia/label/cuda-11.8.0::cuda-nvcc
 conda install nvidia/label/cuda-11.7.0::cuda-nvcc
 
@@ -14,7 +23,7 @@ conda install nvidia/label/cuda-11.8.0::cuda-nvcc
 export PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/:$PATH
 
 
-export LD_LIBRARY_PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/lib/:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/lib/:$LD_LIBRARY_PATH
 
 
 mpirun -np 2 ./train_gpt2cu

@@ -1,5 +1,71 @@
 # 2024-9-6
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+rhysjones/gpt2-124M-edu-fineweb-10B · Hugging Face
+https://huggingface.co/rhysjones/gpt2-124M-edu-fineweb-10B
+
+openai-community/gpt2 · Hugging Face
+https://huggingface.co/openai-community/gpt2
+
+Open LLM Leaderboard 2 - a Hugging Face Space by open-llm-leaderboard
+https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
+
+Model Export & Inference · Issue #502 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/502
+
+karpathy/llama2.c: Inference Llama 2 in one file of pure C
+https://github.com/karpathy/llama2.c
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Release Notes :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/release-notes/rel_2-15-5.html#rel_2-15-5
+
+Documentation Archives :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/index.html
+
+Installation Guide :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/nccl_299/install-guide/index.html
+
+Documentation Archives :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/index.html
+
+Installation Guide :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/nccl_2155/install-guide/index.html#downloadnccl
+
+Files | Anaconda.org
+https://anaconda.org/conda-forge/nccl/files?page=3&version=2.15.5.1
+
+cudart version - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cudart+version
+
+python - How to install .conda file downloaded from anaconda package site? - Stack Overflow
+https://stackoverflow.com/questions/77928132/how-to-install-conda-file-downloaded-from-anaconda-package-site
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Linux debug Spidermonkey builds spidermonkey-sm-arm-sim-linux32/debug arm
+https://treeherder.mozilla.org/logviewer?job_id=473192574&repo=try&lineNumber=69311
+
+100% - [1] try: staging release: 132.0b12
+https://treeherder.mozilla.org/jobs?repo=try&revision=1d21f85328a0ab7dc33c870e389c7f0e46b42225&selectedTaskRun=NzgTH2VSSV-6MP7M4G24gg.0
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=starcoder&sort=byPopularity&type=story
+
+h100参数 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=sAm&sca_esv=a254549251fd0cc1&sca_upv=1&channel=fs&q=h100%E5%8F%82%E6%95%B0&sa=X&ved=2ahUKEwjf3vqcsa-IAxX-kO4BHbpzOu4Q1QJ6BAgsEAE&biw=1850&bih=968&dpr=1
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
