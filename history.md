@@ -6,6 +6,87 @@ https://github.dev/tannal/tannal.glitch.me
 创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
 https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
 
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+MusicGen - a Hugging Face Space by facebook
+https://huggingface.co/spaces/facebook/MusicGen
+
+facebookresearch/audiocraft: Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+https://github.com/facebookresearch/audiocraft/tree/main
+
+audiocraft/docs/MUSICGEN.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
+
+MusicGen: Simple and Controllable Music Generation
+https://ai.honu.io/papers/musicgen/
+
+2306.05284v3.pdf
+https://arxiv.org/pdf/2306.05284
+
+audiocraft/docs/MUSICGEN.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+keymaps are confusing to configure · Issue #16638 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/16638
+
+ggml-mnist/src/mnist-common.cpp at 8d7549aaeb273186d21f00a3eaa89acf5d1a1155 · tannal/ggml-mnist
+https://github.com/tannal/ggml-mnist/blob/8d7549aaeb273186d21f00a3eaa89acf5d1a1155/src/mnist-common.cpp#L524
+
+2211.09359v2.pdf
+https://arxiv.org/pdf/2211.09359
+
+Issue search results
+https://github.com/search?q=org%3Atypst+reset+number&type=issues&p=2
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml/?tab=readme-ov-file
+
+Rustformers
+https://github.com/rustformers/
+
+ggml.ai
+http://ggml.ai/
+
+Untitled Diagram.drawio - draw.io
+https://app.diagrams.net/
+
+Typst Documentation
+https://typst.app/docs
+
+MNIST database - Wikipedia
+https://en.wikipedia.org/wiki/MNIST_database#cite_note-yadav2019-17
+
+NeurIPS-2019-cold-case-the-lost-mnist-digits-Paper.pdf
+https://proceedings.neurips.cc/paper_files/paper/2019/file/51c68dc084cb0b8467eafad1330bce66-Paper.pdf
+
+(24) Discord | #browser | Ladybird
+https://discord.com/channels/1247070541085671459/1247090064480014443
+
+hsutter/cppfront: A personal experimental C++ Syntax 2 -> Syntax 1 compiler
+https://github.com/hsutter/cppfront
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/login?next=https%3A%2F%2Fhuggingface.co%2Ffacebook%2Fmusicgen-small
+
+2306.05284v3.pdf
+https://arxiv.org/pdf/2306.05284
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=browser&sort=byPopularity&type=story
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
 Cyril_KI-CSDN博客
 https://blog.csdn.net/Cyril_KI
 

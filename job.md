@@ -589,6 +589,8 @@ igalia申请 deadline
 
 ## igalia
 
+[] zhihu weibo csdn 
+[] weixin block on yinhangka
 [] ggml-mnist tech report
 [] sport running and fuwocheng
 [] shengpizhong dianhuahaoma
@@ -608,8 +610,8 @@ igalia申请 deadline
 
 
 [] 9.10 lean blocking on review
-[] waiting for review https://github.com/nodejs/node/pull/54712 fast api for blobl revokeObjectURLString
-[] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
+[x] waiting for review https://github.com/nodejs/node/pull/54712 fast api for blobl revokeObjectURLString
+[x] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
 [] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
 [x] 选课 9.1 24:00 17:00，退补选
 
