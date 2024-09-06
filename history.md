@@ -1,5 +1,59 @@
 # 2024-9-6
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+video support · Issue #12 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/12
+
+Introducing Stable Video Diffusion — Stability AI
+https://stability.ai/news/stable-video-diffusion-open-ai-video-model
+
+Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets — Stability AI
+https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets
+
+stable_video_diffusion.pdf
+https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf
+
+Stability-AI/generative-models: Generative Models by Stability AI
+https://github.com/Stability-AI/generative-models?tab=readme-ov-file
+
+stabilityai/sv4d · Hugging Face
+https://huggingface.co/stabilityai/sv4d
+
+Issues · evmar/n2
+https://github.com/evmar/n2/issues
+
+(24) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1143835600588386304
+
+tannalwork/ribao.pdf 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/documents/ribao.pdf
+
+Visual Studio Code June 2024
+https://code.visualstudio.com/updates/v1_91
+
+Release June 2024 Recovery 1 · microsoft/vscode
+https://github.com/microsoft/vscode/releases/tag/1.91.1
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+is%3Aopen+vscode
+
+New Issue · zed-industries/zed
+https://github.com/zed-industries/zed/issues/new?assignees=&labels=admin+read%2Ctriage%2Cenhancement&projects=&template=0_feature_request.yml
+
+video_diffusion_pytorch - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=video_diffusion_pytorch
+
+AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+Git | Anaconda.org
+https://anaconda.org/anaconda/git
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

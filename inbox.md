@@ -1,5 +1,8 @@
 # 2024-9-6 0 | 0
 
+curl -v https://update.code.visualstudio.com
+
+
 conda activate tm-pytorch-cuda
 
 conda create --name tm-pytorch-cuda --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
