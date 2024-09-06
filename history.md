@@ -3,6 +3,30 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+Cyril_KI-CSDN博客
+https://blog.csdn.net/Cyril_KI
+
+达摩院 2025届暑期实习 大模型算法_达摩院暑期实习-CSDN博客
+https://blog.csdn.net/Cyril_KI/article/details/138368543?spm=1001.2014.3001.5501
+
+蚂蚁 2025届暑期实习 多模态LLM 面经_多模态面经-CSDN博客
+https://blog.csdn.net/Cyril_KI/article/details/138201756?spm=1001.2014.3001.5501
+
+Cyril-KI - 知乎
+https://www.zhihu.com/people/ki-ki-45-78
+
+怎么感觉 24 秋招比 23 秋招环境更差了？ - 知乎
+https://www.zhihu.com/question/618357219/answer/3292364615
+
+大模型面试八股 - 知乎
+https://zhuanlan.zhihu.com/p/643560888
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
 https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
 
