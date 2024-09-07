@@ -1,5 +1,74 @@
 # 2024-9-7
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+scottchiefbaker/dool: Python3 compatible fork of dstat
+https://github.com/scottchiefbaker/dool
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tinygrad/tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️
+https://github.com/tinygrad/tinygrad
+
+karpathy/micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+https://github.com/karpathy/micrograd
+
+Unprovability Theory - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Unprovability+Theory
+
+But How Do It Know - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=But+How+Do+It+Know
+
+But How Do It Know? - The Basic Principles of Computers for Everyone: Scott, J Clark: 8601400770252: Amazon.com: Books
+https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765
+
+NuminaMath - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=NuminaMath
+
+AI-MO/NuminaMath-7B-TIR · Hugging Face
+https://huggingface.co/AI-MO/NuminaMath-7B-TIR
+
+AIMO Prize
+https://aimoprize.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+conda dool - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=conda+dool
+
+Dool - 实时 Linux 服务器性能监控工具_雷达智富
+https://www.leidazhifu.com/10339
+
+clash web ui - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=clash+web+ui
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214
+
+Linux debug Spidermonkey builds spidermonkey-sm-arm-sim-linux32/debug arm
+https://treeherder.mozilla.org/logviewer?job_id=473192574&repo=try&lineNumber=69311
+
+ChatGGG
+http://192.168.43.1:8080/
+
+ERR CodeError(AsyncPipeFailed(Os { code: 2, kind: NotFound, message: "No such file or directory" })): Error: CodeError(AsyncPipeFailed(Os { code: 2, kind: NotFound, message: "No such file or directory" })) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+ERR+CodeError%28AsyncPipeFailed%28Os+%7B+code%3A+2%2C+kind%3A+NotFound%2C+message%3A+%22No+such+file+or+directory%22+%7D%29%29%3A+Error%3A+CodeError%28AsyncPipeFailed%28Os+%7B+code%3A+2%2C+kind%3A+NotFound%2C+message%3A+%22No+such+file+or+directory%22+%7D%29%29
+
+Os { code: 2, kind: NotFound, message: "No such file or directory" } · Issue #14 · lukaslueg/built
+https://github.com/lukaslueg/built/issues/14
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
