@@ -1,5 +1,77 @@
 # 2024-9-7
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+ChatGGG
+http://192.168.43.1:8080/
+
+(1) cλbai (@_cybai) / X
+https://x.com/_cybai
+
+After realizing that Bun/JavaScriptCore was a fork of KJS : r/kde
+https://www.reddit.com/r/kde/comments/16gomte/after_realizing_that_bunjavascriptcore_was_a_fork/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+(1) François Chollet (@fchollet) / X
+https://x.com/fchollet
+
+ARC Prize 2024 | Kaggle
+https://www.kaggle.com/competitions/arc-prize-2024/overview
+
+Home_2024
+https://oscar-workshop.github.io/
+
+(1) Jim Keller on X: "We love RiscV. Open source architectural verification https://t.co/cHw9inTsNd" / X
+https://x.com/jimkxa/status/1813966176256749946
+
+github.com
+https://github.com/tenstorrent/whisper/issues
+
+DRAM Loopback — TT-Metalium documentation
+https://docs.tenstorrent.com/tt-metalium/latest/tt_metal/examples/dram_loopback.html#silicon-accelerator-setup
+
+chipsalliance/VeeR-ISS
+https://github.com/chipsalliance/VeeR-ISS
+
+(1) Lewis Tunstall on X: "We have just released the ✨NuminaMath datasets: the largest collection of ~1M math competition problem-solution pairs, ranging in difficulty from junior challenge to Math Olympiad preselection. These datasets were used to win the 1st Progress Prize of the AI Math Olympiad and https://t.co/eUFrtlnklN" / X
+https://x.com/_lewtun/status/1814958635732140336
+
+black-forest-labs/flux: Official inference repo for FLUX.1 models
+https://github.com/black-forest-labs/flux
+
+project-numina/aimo-progress-prize
+https://github.com/project-numina/aimo-progress-prize
+
+2005.14165
+https://arxiv.org/pdf/2005.14165
+
+RootbeerComputer/backend-GPT
+https://github.com/RootbeerComputer/backend-GPT
+
+Cursor
+https://www.cursor.com/
+
+getcursor/cursor: The AI Code Editor
+https://github.com/getcursor/cursor
+
+tenstorrent/tt-metal: :metal: TT-NN operator library, and TT-Metalium low level kernel programming model.
+https://github.com/tenstorrent/tt-metal
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=Yeah.%20See%20all%20the%20panic%20with%20the%20James%20Webb%20satellite%20or%20some%20collider%20results&op=translate
+
+boost github - Google 搜索
+https://www.google.com.hk/search?q=boost+github&newwindow=1&sca_esv=a254549251fd0cc1&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJCFEiACLa_PoD32OPhb93fi3wypQ%3A1725662968161&ei=-IbbZsfJCYKkkPIPxsjauA4&ved=0ahUKEwjHpeDBs6-IAxUCEkQIHUakFucQ4dUDCA8&uact=5&oq=boost+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGJvb3N0IGdpdGh1YjIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeSLQEUBZYtANwAHgBkAEAmAGnAqAB0QaqAQMyLTO4AQPIAQD4AQGYAgOgAucGmAMAkgcFMi0yLjGgB4UJ&sclient=gws-wiz-serp
+
+boostorg/boost: Super-project for modularized Boost
+https://github.com/boostorg/boost
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,9 @@
 
 
+https://x.com/jimkxa
+
+https://x.com/fchollet
+
 https://twitter.com/kosamari
 
 https://twitter.com/Yu_Wei_Wu
