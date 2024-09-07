@@ -1,5 +1,9 @@
 # 2024-9-7 0 | 0
 
+pip install torch==2.4.0+cu118 torchaudio==2.4.0+cu118 torchvision==0.19.0+cu118
+
+tar -cvz -f processed_musicgen_dataset.tar.gz ./processed_musicgen_dataset
+
 scp -p 2222 ph_teacher2@192.168.43.1:/datapool/home/ph_teacher2/tannalwork/projects/hyai/
 
 
