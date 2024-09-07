@@ -1,5 +1,11 @@
 # 2024-9-7 0 | 0
 
+scp -p 2222 ph_teacher2@192.168.43.1:/datapool/home/ph_teacher2/tannalwork/projects/hyai/
+
+
+https://gwern.net/gpt-2-music#the-session
+https://arxiv.org/pdf/2402.16153
+
 git clone https://github.com/riscv/riscv-gnu-toolchain.git
 cd riscv-gnu-toolchain
 git submodule update --init --recursive

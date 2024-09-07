@@ -1,5 +1,68 @@
 # 2024-9-7
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+facebookresearch/audiocraft: Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+https://github.com/facebookresearch/audiocraft?tab=readme-ov-file
+
+annahung31 (hung anna)
+https://github.com/annahung31/
+
+Ghadjeres/DeepBach: code accompanying "DeepBach: a Steerable Model for Bach Chorales Generation" paper
+https://github.com/Ghadjeres/DeepBach?tab=readme-ov-file
+
+llm trained on music - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=llm+trained+on+music
+
+ChatMusician: an LLM that can generate and understand music intrinsically : r/LocalLLaMA
+https://www.reddit.com/r/LocalLLaMA/comments/1b1zbh8/chatmusician_an_llm_that_can_generate_and/?rdt=55224
+
+ChatMusician
+https://ezmonyi.github.io/ChatMusician/
+
+2402.16153v1.pdf
+https://arxiv.org/pdf/2402.16153
+
+m-a-p/MusicPile · Datasets at Hugging Face
+https://huggingface.co/datasets/m-a-p/MusicPile?row=24
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#the-session
+
+ChatMusician/asset/chord_cond_gen at main · EZMONYI/ChatMusician
+https://github.com/EZMONYI/ChatMusician/tree/main/asset/chord_cond_gen
+
+abcmidi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=abcmidi
+
+sshlien/abcmidi: The latest version of the abcmidi package is found on https://ifdo.ca/~seymour/runabc/top.html
+https://github.com/sshlien/abcmidi
+
+abcMIDI
+https://abcmidi.sourceforge.io/#channels
+
+scp port number - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=scp+port+number
+
+scp with port number specified - Stack Overflow
+https://stackoverflow.com/questions/10341032/scp-with-port-number-specified
+
+tar xz file decompress - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tar+xz+file+decompress
+
+tar compress directory - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tar+compress+directory
+
+D220704: Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzXTGXFxXTlCNTVNfJqCXhJfp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
