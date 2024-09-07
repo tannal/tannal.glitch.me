@@ -1,5 +1,77 @@
 # 2024-9-7
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?type=edit&version=new&bvid=BV1G2HSe3Etm
+
+chavinlo/musicgen_trainer: simple trainer for musicgen/audiocraft
+https://github.com/chavinlo/musicgen_trainer?tab=readme-ov-file
+
+audiocraft/docs/MUSICGEN.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
+
+audiocraft/docs/TRAINING.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/TRAINING.md
+
+audiocraft/docs/DATASETS.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/DATASETS.md
+
+MusicGen: Simple and Controllable Music Generation
+https://ai.honu.io/papers/musicgen/
+
+2306.05284v3.pdf
+https://arxiv.org/pdf/2306.05284
+
+MusicLM
+https://google-research.github.io/seanet/musiclm/examples/
+
+MusicLM: Generating Music From Text - 2301.11325v1.pdf
+https://arxiv.org/pdf/2301.11325
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+dengxiuqi/ChineseLyrics: 10W首中文歌词数据库
+https://github.com/dengxiuqi/ChineseLyrics
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214
+
+vscode set git path - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+set+git+path
+
+Visual Studio Code cannot detect installed Git - Stack Overflow
+https://stackoverflow.com/questions/29971624/visual-studio-code-cannot-detect-installed-git
+
+MusicLM how much gpu memory - Google 搜索
+https://www.google.com.hk/search?q=MusicLM+how+much+gpu+memory&newwindow=1&client=ubuntu-sn&hs=2BX&sca_esv=f7382333ef397cf0&sca_upv=1&channel=fs&ei=7tnbZpnTGN3dkPIPpsaI4Q0&ved=0ahUKEwiZgvjQgrCIAxXdLkQIHSYjItwQ4dUDCA8&uact=5&oq=MusicLM+how+much+gpu+memory&gs_lp=Egxnd3Mtd2l6LXNlcnAiG011c2ljTE0gaG93IG11Y2ggZ3B1IG1lbW9yeTIHECEYoAEYCjIHECEYoAEYCkizU1CVC1jEUXACeAGQAQCYAd4CoAH8OKoBBjItMjEuNbgBA8gBAPgBAZgCGqACwDXCAgoQABiwAxjWBBhHwgIFEAAYgATCAgcQABiABBgMwgIGEAAYChgewgIEEAAYHsICBhAAGAUYHsICBRAhGKABwgIIEAAYgAQYogTCAgYQABgIGB6YAwCIBgGQBgmSBwgyLjAuMTguNqAH2DU&sclient=gws-wiz-serp
+
+解读谷歌MusicLM: 用文本生成高保真音频音乐 - 知乎
+https://zhuanlan.zhihu.com/p/601360520
+
+sander-wood/text-to-music: Exploring the Efficacy of Pre-trained Checkpoints in Text-to-Music Generation Task [AAAI 2023 Workshop]
+https://github.com/sander-wood/text-to-music
+
+text to music - SciSpace Literature Review
+https://typeset.io/search?q=text%20to%20music
+
+musika-fast-infinite-waveform-music-generation-3vk5lnxb.pdf
+https://typeset.io/pdf/musika-fast-infinite-waveform-music-generation-3vk5lnxb.pdf
+
+marcoppasini/musika: Fast Infinite Waveform Music Generation
+https://github.com/marcoppasini/musika
+
+Melodist
+https://text2songmelodist.github.io/Sample/
+
+(PDF) The Interpretation Gap in Text-to-Music Generation Models (2024) | Yongyi Zang
+https://typeset.io/papers/the-interpretation-gap-in-text-to-music-generation-models-3ex1lume0g
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
