@@ -1,5 +1,50 @@
 # 2024-9-8
 
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hugging%20face&sort=byPopularity&type=story
+
+Hugging Face – The AI community building the future.
+https://huggingface.co/login?next=%2Fsettings%2Fgated-repos
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io
+
+两元店
+https://liangyuandian.xyz/#/node
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+(5) 【歌手·单曲纯享】#那英 携手 #回春丹 乐队 演绎《#鲜花 》 用饱含情感呐喊出对生活、音乐和舞台的热爱 | Singer 2024 EP12 | MangoTV - YouTube
+https://www.youtube.com/watch?v=5erqNMWhRNA
+
+AudioSet - Google 搜索
+https://www.google.com.hk/search?q=AudioSet&oq=AudioSet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+AudioSet
+https://research.google.com/audioset/
+
+爱在西元前钢琴谱 - Google 搜索
+https://www.google.com.hk/search?q=%E7%88%B1%E5%9C%A8%E8%A5%BF%E5%85%83%E5%89%8D%E9%92%A2%E7%90%B4%E8%B0%B1&newwindow=1&sca_esv=a81b7800547df590&sca_upv=1&ei=DsXbZoHNCY29kPIPyejvmQs&oq=%E7%88%B1%E5%9C%A8%E8%A5%BF%E5%85%83%E5%89%8D&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-eIseWcqOilv-WFg-WJjSoCCAgyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIoPIBUABYAHACeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgKgAh2YAwCIBgGQBgqSBwEyoAcA&sclient=gws-wiz-serp
+
+爱在西元前钢琴谱-周杰伦-琴艺谱
+https://www.qinyipu.com/gangqin/gangqinpudaquan/36947.html
+
+JayChou
+https://jayge.netlify.app/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+两元店
+https://liangyuandian.xyz/#/node
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
