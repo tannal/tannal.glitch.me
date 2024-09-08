@@ -1,3 +1,65 @@
+# 2024-9-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+audiocraft/docs/MUSICGEN.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md#fine-tuning-existing-models
+
+audiocraft/docs/ENCODEC.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/ENCODEC.md
+
+audiocraft/docs/DATASETS.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/DATASETS.md
+
+facebookresearch/audiocraft: Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+https://github.com/facebookresearch/audiocraft/tree/main
+
+chavinlo/musicgen_trainer: simple trainer for musicgen/audiocraft
+https://github.com/chavinlo/musicgen_trainer?tab=readme-ov-file
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+Design Of This Website · Gwern.net
+https://gwern.net/design
+
+python run with debugger - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=python+run+with+debugger
+
+debugging - Debug a python program that runs only in command line - Stack Overflow
+https://stackoverflow.com/questions/45876935/debug-a-python-program-that-runs-only-in-command-line
+
+python remote debug server - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=python+remote+debug+server
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Model Export & Inference · Issue #502 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/502
+
+Issues · karpathy/llama2.c
+https://github.com/karpathy/llama2.c/issues?q=is%3Aissue+is%3Aopen+llm.c
+
+rlhf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rlhf
+
+ChatGPT 背后的“功臣”——RLHF 技术详解
+https://huggingface.co/blog/zh/rlhf
+
+Tracking issue: compile cache · Issue #52696 · nodejs/node
+https://github.com/nodejs/node/issues/52696
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music
+
+musiclm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=musiclm
+
+MusicLM - AI Model for Music Generation
+https://musiclm.com/
+
 # 2024-9-7
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
