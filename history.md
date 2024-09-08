@@ -1,5 +1,95 @@
 # 2024-9-8
 
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/55f2ada1564baaeebd69d277b38737961a3ca5f3/modules/libpref/init/StaticPrefList.yaml#13536-13539
+
+nsNetUtil.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/55f2ada1564baaeebd69d277b38737961a3ca5f3/netwerk/base/nsNetUtil.cpp#3471
+
+__dir__.ini - mozsearch
+https://searchfox.org/mozilla-central/rev/55f2ada1564baaeebd69d277b38737961a3ca5f3/testing/web-platform/meta/url/__dir__.ini#3
+
+1874260 - document.referrer is empty string on localhost when coming from secure site
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874260
+
+bug1025445.bmoattachments.org/attachment.cgi?id=8469841
+https://bug1025445.bmoattachments.org/attachment.cgi?id=8469841
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+risc-v simd instruction format - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=risc-v+simd+instruction+format
+
+riscv-spec-v2.2.pdf
+https://riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf
+
+arm64 instruction format - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+instruction+format
+
+objdump source github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=objdump+source+github
+
+Code search results
+https://github.com/search?q=repo%3ACyberGrandChallenge%2Fbinutils%20arm64&type=code
+
+arm64 instruction set simd - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+instruction+set+simd
+
+Arm Compiler armasm User Guide
+https://developer.arm.com/documentation/dui0801/l/A64-SIMD-Vector-Instructions/A64-SIMD-Vector-instructions-in-alphabetical-order
+
+Comparing SIMD on x86-64 and arm64
+https://blog.yiningkarlli.com/2021/09/neon-vs-sse.html
+
+Illustrated A64 SIMD Instruction List: SVE Instructions | Hacker News
+https://news.ycombinator.com/item?id=37747650
+
+A64 SIMD Instruction List: SVE Instructions
+https://dougallj.github.io/asil/
+
+Visualizing the ARM64 Instruction Set | Zachary Yedidia's blog
+https://zyedidia.github.io/blog/posts/6-arm64/
+
+ADD (vector) -- A64
+https://www.scs.stanford.edu/~zyedidia/arm64/add_advsimd.html
+
+armv8 instruction set encoding - Google 搜索
+https://www.google.com.hk/search?q=armv8+instruction+set+encoding&newwindow=1&client=ubuntu-sn&hs=Rch&sca_esv=0d415abb48572199&sca_upv=1&channel=fs&ei=y6zdZrOWK-6jkPIP08Pa4Qc&oq=ARMv8+instruction+set+&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkFSTXY4IGluc3RydWN0aW9uIHNldCAqAggFMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yCBAAGAoYDBgeMgQQABgeMgYQABgFGB4yBhAAGAgYHkjhalCJRViJRXABeACQAQCYAbUCoAHdBKoBBTItMS4xuAEDyAEA-AEBmAICoALDAsICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjMtMaAH_gk&sclient=gws-wiz-serp
+
+x86 - Extracting opcodes from arm64 (ARMv8.5-A) instructions - Stack Overflow
+https://stackoverflow.com/questions/78426027/extracting-opcodes-from-arm64-armv8-5-a-instructions
+
+Floating point data processing 1 source arm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Floating+point+data+processing+1+source+arm
+
+Arm A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0596/2020-12/Index-by-Encoding/Data-Processing----Scalar-Floating-Point-and-Advanced-SIMD?lang=en
+
+Arm A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0596/2020-12/Index-by-Encoding?lang=en
+
+arm64 disassembler github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+disassembler++github
+
+armadillo/source/DataProcessingFloatingPoint.c at master · jsherman212/armadillo
+https://github.com/jsherman212/armadillo/blob/master/source/DataProcessingFloatingPoint.c#L4926
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

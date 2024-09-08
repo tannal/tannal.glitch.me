@@ -19,6 +19,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1916102 - Remove network.url.strict_protocol_setter pref r?gregp
+
 Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 
 https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
