@@ -1,5 +1,80 @@
 # 2024-9-8
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+audiocraft/docs/ENCODEC.md at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/docs/ENCODEC.md
+
+Contributing · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Contributing
+
+Git Config · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Git-Config#coreeditor
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Jukebox - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Jukebox
+
+Jukebox | OpenAI
+https://openai.com/index/jukebox/
+
+Jukebox: A Generative Model for Music - 2005.00341v1.pdf
+https://arxiv.org/pdf/2005.00341
+
+openai/jukebox: Code for the paper "Jukebox: A Generative Model for Music"
+https://github.com/openai/jukebox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?cdn_fallback=1
+
+Fixing a Bug in Google Chrome as a First-Time Contributor - Casey Primozic's Homepage
+https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
+
+Life of a Chromium Developer - Google 幻灯片
+https://docs.google.com/presentation/d/1abnqM9j6zFodPHA38JG1061rG2iGj_GABxEDgZsdbJg/edit#slide=id.i15
+
+MuseNet - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MuseNet
+
+MuseNet | OpenAI
+https://openai.com/index/musenet/
+
+Home - Classical Archives
+https://www.classicalarchives.com/newca/#!/
+
+Popular MIDIs — BitMidi
+https://bitmidi.com/
+
+PyTorch Lightning - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=PyTorch+Lightning
+
+⚡️ Lightning AI
+https://github.com/Lightning-AI/pytorch-lightning
+
+3017218062/Pytorch-Lightning-Learning: Pytorch Lightning入门中文教程，转载请注明来源。（当初是写着玩的，建议看完MNIST这个例子再上手）
+https://github.com/3017218062/Pytorch-Lightning-Learning
+
+ggml: remove bad assert by JohannesGaessler · Pull Request #928 · ggerganov/ggml
+https://github.com/ggerganov/ggml/pull/928
+
+the decorator proposal - Google 搜索
+https://www.google.com.hk/search?q=the+decorator+proposal&newwindow=1&client=ubuntu-sn&hs=4jB&sca_esv=1327fe0773264510&sca_upv=1&channel=fs&ei=dQTdZpD4LcGvur8P28zYuQc&ved=0ahUKEwjQhreqn7KIAxXBl-4BHVsmNncQ4dUDCA8&uact=5&oq=the+decorator+proposal&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnRoZSBkZWNvcmF0b3IgcHJvcG9zYWwyBxAhGKABGAoyBxAhGKABGAoyBBAhGApIrRZQ9gdY6xRwAXgAkAEAmAHiAqAB7w-qAQUyLTYuMbgBA8gBAPgBAZgCB6ACjxDCAgUQABiABMICBBAAGB7CAgYQABgKGB7CAggQABiABBiiBMICBhAAGAgYHsICBRAhGKABmAMA4gMFEgExIECIBgGSBwUyLTUuMqAH-RM&sclient=gws-wiz-serp
+
+tc39/proposal-decorators: Decorators for ES6 classes
+https://github.com/tc39/proposal-decorators
+
+tc39 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tc39
+
+tc39/proposal-decorators: Decorators for ES6 classes
+https://github.com/tc39/proposal-decorators
+
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hugging%20face&sort=byPopularity&type=story
 
