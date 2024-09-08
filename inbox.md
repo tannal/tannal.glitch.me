@@ -1,5 +1,13 @@
 # 2024-9-8 0 | 0
 
+对于SIMD指令集，除了FMOV，还需要实现的指令可能包括：
+
+算术运算：FADD, FSUB, FMUL, FDIV, FMIN, FMAX
+比较运算：FCMP, FCMPE
+转换指令：FCVT (在不同精度的浮点数之间转换)
+向量运算：FADDV, FMAXV, FMINV
+其他常见SIMD指令：AND, ORR, EOR, NOT, ADD, SUB, MUL, etc.
+
 gdb -ex "target remote :6666"
 gdb -ex "target remote 192.168.43.95:1234"
 
