@@ -1,5 +1,7 @@
 # 2024-9-8 0 | 0
 
+conda create --name tm-pytorch-cuda --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
+
 # 2024-9-7 0 | 0
 
 pip install torch==2.4.0+cu118 torchaudio==2.4.0+cu118 torchvision==0.19.0+cu118

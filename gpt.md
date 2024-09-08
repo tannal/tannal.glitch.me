@@ -1,3 +1,109 @@
+
+  hyai conda create --name tm-pytorch-cuda11.8 --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
+Source:      /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
+Destination: /datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda11.8
+Packages: 38
+Files: 46708
+  
+
+Downloading and Extracting Packages:
+
+
+## Package Plan ##
+
+  environment location: /datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda11.8
+
+  added / updated specs:
+    - anaconda/linux-64::git==2.45.2=pl5340h9abc3c3_0
+    - defaults/linux-64::_libgcc_mutex==0.1=main
+    - defaults/linux-64::_openmp_mutex==5.1=1_gnu
+    - defaults/linux-64::bzip2==1.0.8=h5eee18b_6
+    - defaults/linux-64::c-ares==1.19.1=h5eee18b_0
+    - defaults/linux-64::ca-certificates==2024.7.2=h06a4308_0
+    - defaults/linux-64::curl==7.88.1=hdbd6064_2
+    - defaults/linux-64::expat==2.6.2=h6a678d5_0
+    - defaults/linux-64::gdbm==1.18=hd4cb3f1_4
+    - defaults/linux-64::gettext==0.21.0=hedfda30_2
+    - defaults/linux-64::icu==73.1=h6a678d5_0
+    - defaults/linux-64::krb5==1.20.1=h143b758_1
+    - defaults/linux-64::ld_impl_linux-64==2.38=h1181459_1
+    - defaults/linux-64::libcurl==7.88.1=h251f7ec_2
+    - defaults/linux-64::libedit==3.1.20230828=h5eee18b_0
+    - defaults/linux-64::libev==4.33=h7f8727e_1
+    - defaults/linux-64::libffi==3.4.4=h6a678d5_1
+    - defaults/linux-64::libgcc-ng==11.2.0=h1234567_1
+    - defaults/linux-64::libgomp==11.2.0=h1234567_1
+    - defaults/linux-64::libnghttp2==1.57.0=h2d74bed_0
+    - defaults/linux-64::libssh2==1.11.0=h251f7ec_0
+    - defaults/linux-64::libstdcxx-ng==11.2.0=h1234567_1
+    - defaults/linux-64::libuuid==1.41.5=h5eee18b_0
+    - defaults/linux-64::libxml2==2.13.1=hfdd30dd_2
+    - defaults/linux-64::ncurses==6.4=h6a678d5_0
+    - defaults/linux-64::openssl==3.0.14=h5eee18b_0
+    - defaults/linux-64::pcre2==10.42=hebb0a14_1
+    - defaults/linux-64::perl==5.34.0=h5eee18b_2
+    - defaults/linux-64::pip==24.2=py311h06a4308_0
+    - defaults/linux-64::python==3.11.9=h955ad1f_0
+    - defaults/linux-64::readline==8.2=h5eee18b_0
+    - defaults/linux-64::setuptools==72.1.0=py311h06a4308_0
+    - defaults/linux-64::sqlite==3.45.3=h5eee18b_0
+    - defaults/linux-64::tk==8.6.14=h39e8969_0
+    - defaults/linux-64::wheel==0.43.0=py311h06a4308_0
+    - defaults/linux-64::xz==5.4.6=h5eee18b_1
+    - defaults/linux-64::zlib==1.2.13=h5eee18b_1
+    - defaults/noarch::tzdata==2024a=h04d1e81_0
+
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6 
+  c-ares             pkgs/main/linux-64::c-ares-1.19.1-h5eee18b_0 
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2024.7.2-h06a4308_0 
+  curl               pkgs/main/linux-64::curl-7.88.1-hdbd6064_2 
+  expat              pkgs/main/linux-64::expat-2.6.2-h6a678d5_0 
+  gdbm               pkgs/main/linux-64::gdbm-1.18-hd4cb3f1_4 
+  gettext            pkgs/main/linux-64::gettext-0.21.0-hedfda30_2 
+  git                anaconda/linux-64::git-2.45.2-pl5340h9abc3c3_0 
+  icu                pkgs/main/linux-64::icu-73.1-h6a678d5_0 
+  krb5               pkgs/main/linux-64::krb5-1.20.1-h143b758_1 
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1 
+  libcurl            pkgs/main/linux-64::libcurl-7.88.1-h251f7ec_2 
+  libedit            pkgs/main/linux-64::libedit-3.1.20230828-h5eee18b_0 
+  libev              pkgs/main/linux-64::libev-4.33-h7f8727e_1 
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1 
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 
+  libnghttp2         pkgs/main/linux-64::libnghttp2-1.57.0-h2d74bed_0 
+  libssh2            pkgs/main/linux-64::libssh2-1.11.0-h251f7ec_0 
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
+  libxml2            pkgs/main/linux-64::libxml2-2.13.1-hfdd30dd_2 
+  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0 
+  openssl            pkgs/main/linux-64::openssl-3.0.14-h5eee18b_0 
+  pcre2              pkgs/main/linux-64::pcre2-10.42-hebb0a14_1 
+  perl               pkgs/main/linux-64::perl-5.34.0-h5eee18b_2 
+  pip                pkgs/main/linux-64::pip-24.2-py311h06a4308_0 
+  python             pkgs/main/linux-64::python-3.11.9-h955ad1f_0 
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 
+  setuptools         pkgs/main/linux-64::setuptools-72.1.0-py311h06a4308_0 
+  sqlite             pkgs/main/linux-64::sqlite-3.45.3-h5eee18b_0 
+  tk                 pkgs/main/linux-64::tk-8.6.14-h39e8969_0 
+  tzdata             pkgs/main/noarch::tzdata-2024a-h04d1e81_0 
+  wheel              pkgs/main/linux-64::wheel-0.43.0-py311h06a4308_0 
+  xz                 pkgs/main/linux-64::xz-5.4.6-h5eee18b_1 
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_1 
+
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: / 
+
+
 nvidia-nccl-cu12         2.20.5
 ➜   |tm-pytorch-cuda|llm.c git:(master U:2 ?:4) ✗ nvcc -I/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/include/  --threads=0 -t=0 --use_fast_math -std=c++17 -O3 -DMULTI_GPU -DUSE_MPI -DENABLE_BF16 train_gpt2.cu -lcublas -lcublasLt -lnvidia-ml -L/datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda/lib/ -L/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/lib/  -I/opt/ohpc/pub/mpi/openmpi4-gnu12/4.1.4/include/  -lnccl -lmpi -o train_gpt2cu^C
 ➜   |tm-pytorch-cuda|llm.c git:(master U:2 ?:4) ✗ nvidia-smi topo -m
