@@ -1,6 +1,14 @@
 
 # dev
 
+qemu-aarch64 -g 1234 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc test.js
+
+aarch64-linux-gnu-gdb WebKitBuild/JSCOnly/Debug/bin/jsc
+
+qemu-aarch64 -s -S -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc test.js
+
+(gdb) target remote localhost:1234
+
 disassembleBase64('MHg2RjAwRTQwMAo=')
 
 
