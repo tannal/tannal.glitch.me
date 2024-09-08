@@ -1,6 +1,7 @@
 
 # dev
 
+disassembleBase64('MHg2RjAwRTQwMAo=')
 
 
 WEBKIT_DISABLE_SANDBOX=1 WEBKIT_DEBUG=ClipRects,Compositing Tools/Scripts/run-minibrowser --gtk --debug test.html
@@ -56,7 +57,7 @@ Tools/Scripts/build-jsc --jsc-only --debug
 
 
 00402191
-disassembleBase64('AEAhkQ==')
+disassembleBase64('MHg2RjAwRTQwMAo=')
 
 91 00 03 fd
 fd030091 

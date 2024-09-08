@@ -1,5 +1,14 @@
 # 2024-9-8 0 | 0
 
+看了这段代码，你第一时间想到的是什么？
+作为一个有经验的开发者，你会推测系统的其他部分是如何运作的？
+列出所有需要实现的SIMD指令，FMOV ，给出测试示例？
+那么，你如何实现fmov向量指令集的反汇编过程？
+
+export https_proxy=http://192.168.43.1:7890
+
+https://github.com/RustPython/RustPython
+
 conda create --name tm-pytorch-cuda --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
 
 # 2024-9-7 0 | 0

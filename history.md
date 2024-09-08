@@ -1,5 +1,86 @@
 # 2024-9-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+Constellation/iv: ECMAScript Lexer / Parser / Interpreter / VM / method JIT written in C++
+https://github.com/Constellation/iv
+
+1781212 - Implement Decorators proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1781212
+
+v8 decorator proposal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=v8+decorator+proposal
+
+Issue 12763 in v8: Implement the decorators proposal
+https://groups.google.com/g/v8-reviews/c/inK1X-XQQPg
+
+Implement the decorators proposal [42202709] - Chromium
+https://issues.chromium.org/issues/42202709#comment10
+
+Intent to prototype: JavaScript decorators proposal
+https://groups.google.com/a/mozilla.org/g/dev-platform/c/wAomN2An7NQ
+
+rewrite python in rust - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rewrite+python+in+rust
+
+RustPython/RustPython: A Python Interpreter written in Rust
+https://github.com/RustPython/RustPython
+
+RustPython
+https://rustpython.github.io/
+
+(5) How India Is Failing Its Educated Youth - YouTube
+https://www.youtube.com/watch?v=cHkFU8BzeDw
+
+Starlight github rust github - Google 搜索
+https://www.google.com.hk/search?q=Starlight+github+rust+github&newwindow=1&client=ubuntu-sn&hs=bxB&sca_esv=1327fe0773264510&sca_upv=1&channel=fs&ei=vAfdZtnmB73ekPIPuZ2HuAo&ved=0ahUKEwjZtJm6orKIAxU9L0QIHbnOAacQ4dUDCA8&uact=5&oq=Starlight+github+rust+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHFN0YXJsaWdodCBnaXRodWIgcnVzdCBnaXRodWIyBxAhGKABGApI-hVQtwFY6xRwAXgBkAEAmAG6A6AB4hWqAQUzLTcuMbgBA8gBAPgBAZgCCaACiRbCAgoQABiwAxjWBBhHwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwcxLjMtNy4xoAefEA&sclient=gws-wiz-serp
+
+webkit javascriotcore decorators proposal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webkit+javascriotcore+decorators+proposal
+
+The Practical AI podcast
+https://changelog.com/practicalai
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+wapm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wapm
+
+学习笔记 | WebAssembly学习笔记
+https://skyao.io/learning-webassembly/docs.html
+
+Wasmer: The Universal WebAssembly Runtime
+https://wasmer.io/
+
+mozilla/spidermonkey: SpiderMonkey is Mozilla’s JavaScript and WebAssembly...
+https://wasmer.io/mozilla/spidermonkey
+
+wasmerio/wasmer: 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+https://github.com/wasmerio/wasmer
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls?q=is%3Apr+is%3Aopen+%5BJSC%5D
+
+apache tvm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=apache+tvm
+
+apache/tvm: Open deep learning compiler stack for cpu, gpu and specialized accelerators
+https://github.com/apache/tvm
+
+ONNXRuntime - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ONNXRuntime
+
+stylo/style at main · servo/stylo
+https://github.com/servo/stylo/tree/main/style
+
+ChatGGG
+http://192.168.43.1:8080/
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
