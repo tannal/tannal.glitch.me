@@ -19,6 +19,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1917214 - Skip tests for redeclarable eval vars proposal in beta and release build. r?dminor
+
 Bug 1916102 - Remove network.url.strict_protocol_setter pref r?gregp
 
 Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241

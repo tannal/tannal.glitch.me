@@ -1,3 +1,71 @@
+# 2024-9-9
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D070HPU0R89
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+Zero-cost async stack traces - Google 文档
+https://docs.google.com/document/d/13Sy_kBIJGP0XT34V1CV3nkWya4TwYx9L3Yv45LdGB6Q/edit#heading=h.9ss45aibqpw2
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#the-session
+
+1905241 - [Meta] Promise.try
+https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+⚙ D218494 Bug 1905364 - Implement Promise.try. r?dminor
+https://phabricator.services.mozilla.com/D218494
+
+100% - [0] try: Fuzzy query=!win !osx 'spidermonkey | 'shell-haz
+https://treeherder.mozilla.org/jobs?repo=try&selectedTaskRun=a2jHKcpHSbq7KWlMGRtRLA.0&revision=ad9985f7c143beb7c1b35b7f170fb473a63d407e
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+yangguo chromium - Google 搜索
+https://www.google.com.hk/search?q=yangguo+chromium&newwindow=1&client=ubuntu-sn&hs=IbG&sca_esv=2d43429fe375f5d1&sca_upv=1&channel=fs&ei=uYPeZqe8Gv6mkPIPipO4gA0&ved=0ahUKEwjn_NDrjLWIAxV-E0QIHYoJDtAQ4dUDCA8&uact=5&oq=yangguo+chromium&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHlhbmdndW8gY2hyb21pdW0yBxAhGKABGAoyBxAhGKABGApIoBRQiwlY8hJwAXgBkAEAmAHDAqAByBGqAQUyLTYuMrgBA8gBAPgBAZgCCaAC6xHCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICBxAuGIAEGAzCAgUQABiABMICBRAhGKABmAMAiAYBkAYKkgcHMS4wLjYuMqAHmx8&sclient=gws-wiz-serp
+
+Rerender A Video | MMLab@NTU
+https://www.mmlab-ntu.com/project/rerender/
+
+Downloads | MMLab@NTU
+https://www.mmlab-ntu.com/downloads.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214#c4
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214#c4
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704
+
+⚙ D220704 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+https://phabricator.services.mozilla.com/D220704
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7573445
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars prop… · mozilla/gecko-dev@4082df5
+https://github.com/mozilla/gecko-dev/commit/4082df53251b941de339368e72b3e859c3f35a4d
+
+abcmidi github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=abcmidi+github
+
+sshlien/abcmidi: The latest version of the abcmidi package is found on https://ifdo.ca/~seymour/runabc/top.html
+https://github.com/sshlien/abcmidi
+
+tannal (tannal)
+https://github.com/tannal/
+
 # 2024-9-8
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
