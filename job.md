@@ -578,10 +578,10 @@ cv for igalia
 [] content bilibili video tannal.github.io blog post
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] submit a pr for xxhash in compile cache, we need to research the compile cache pr https://github.com/nodejs/node/issues/52696
-[] regressions for https://phabricator.services.mozilla.com/D220381
+[x] regressions for https://phabricator.services.mozilla.com/D220381
 [] find another issues to work with gecko or spidermonkey
-[] 9.12 20
-[] luolan biao gaizhang
+[x] 9.12 20
+[x] luolan biao gaizhang
 [] yundong fuwocheng
 [] zuochengyun leetcode
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
