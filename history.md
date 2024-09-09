@@ -1,5 +1,80 @@
 # 2024-9-8
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Arm Compiler armasm User Guide
+https://developer.arm.com/documentation/dui0801/l/A64-SIMD-Vector-Instructions/A64-SIMD-Vector-instructions-in-alphabetical-order?lang=en
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+245897 – Support V128.const, load, store and extract_lane in BBQ only with O0 register allocation
+https://bugs.webkit.org/show_bug.cgi?id=245897
+
+Support v128 const load store and extract lane in bbq only with O0 register allocation by justinmichaud · Pull Request #5547 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/5547/files#diff-5cac01a2b106b3ffc941952faec021e212213bd447a968f6a5fc51a44040b915
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project%20AArch64%3A%3AUMOVvi64&type=code
+
+Compiler Explorer
+https://godbolt.org/
+
+arm64 instruction length is 32 or 64 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+instruction+length+is+32+or+64
+
+cpu architecture - How many bits do instruction sets have in ARM? - Stack Overflow
+https://stackoverflow.com/questions/73337990/how-many-bits-do-instruction-sets-have-in-arm
+
+arm64 32 bit format - Google 搜索
+https://www.google.com.hk/search?q=arm64+32+bit+format&newwindow=1&client=ubuntu-sn&hs=69N&sca_esv=170c5e6fca5d2d21&sca_upv=1&channel=fs&ei=877dZqfoHsfYkPIP283VgAc&start=10&sa=N&sstk=AagrsuiuxO3UgBmCe7XcSsvGevmzESMKHcCyU6LiKrmCVIdXuqLTRRE0c2zISgpvE_M04KsPtfLPQSz9nqxLiw0ISy7RwvsR6Kq6NQ&ved=2ahUKEwjnrbyX0bOIAxVHLEQIHdtmFXAQ8tMDegQIBRAE&biw=1850&bih=968&dpr=1
+
+AArch64 - Wikipedia
+https://en.wikipedia.org/wiki/AArch64
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Tracking issue: compile cache · Issue #52696 · nodejs/node
+https://github.com/nodejs/node/issues/52696
+
+Daniel Bates webkit apple - Google 搜索
+https://www.google.com.hk/search?q=Daniel+Bates+webkit+apple&newwindow=1&client=ubuntu-sn&hs=W0s&sca_esv=3c6029be58720811&sca_upv=1&channel=fs&ei=y1feZufRDpWgkPIP5PqLiQ8&ved=0ahUKEwin44P54rSIAxUVEEQIHWT9IvEQ4dUDCA8&uact=5&oq=Daniel+Bates+webkit+apple&gs_lp=Egxnd3Mtd2l6LXNlcnAiGURhbmllbCBCYXRlcyB3ZWJraXQgYXBwbGUyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIvi1Q5wNYzyxwAXgBkAEAmAGDA6ABjByqAQUyLTkuM7gBA8gBAPgBAZgCDaAC3hzCAgoQABiwAxjWBBhHwgIHEAAYgAQYE8ICBxAuGIAEGBPCAg0QLhiABBgTGMcBGK8BwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgmSBwcxLjAuNy41oAfGHw&sclient=gws-wiz-serp
+
+Where work happens | Slack
+https://app.slack.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+xxHash - Extremely fast non-cryptographic hash algorithm
+https://xxhash.com/
+
+Central European Time. - Google 搜索
+https://www.google.com.hk/search?q=Central+European+Time.&newwindow=1&client=ubuntu-sn&hs=GmF&sca_esv=fb3e23d84e00bf2e&sca_upv=1&channel=fs&ei=XXfeZpCxLLe4kPIPl86g2AQ&ved=0ahUKEwjQ04eHgbWIAxU3HEQIHRcnCEsQ4dUDCA8&uact=5&oq=Central+European+Time.&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkNlbnRyYWwgRXVyb3BlYW4gVGltZS4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5IrwVQsgJYsgJwAXgBkAEAmAGRAqABkQKqAQMyLTG4AQPIAQD4AQL4AQGYAgKgAp4CwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAfpAw&sclient=gws-wiz-serp
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ChatGGG
+http://192.168.43.1:8080/
+
+xxhash - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=xxhash
+
+Cyan4973/xxHash: Extremely fast non-cryptographic hash algorithm
+https://github.com/Cyan4973/xxHash
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
