@@ -1,5 +1,86 @@
 # 2024-9-9
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ztachip
+https://github.com/ztachip
+
+ztachip/ztachip: Opensource software/hardware platform to build edge AI solutions deployed on FPGA or custom ASIC hardware.
+https://github.com/ztachip/ztachip/tree/master
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#the-session
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9#issuecomment-544830971
+
+GPT-2 Neural Network Poetry, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2
+
+GPT-2 Neural Network Poetry, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2#training-gpt-2-117m-to-generate-poetry
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/
+
+gwern/gwern.net: Site infrastructure for gwern.net. Custom Hakyll website with unique link archiving, popup UX, transclusions/collapses, dark+reader mode, bidirectional backlinks, and typography (sidenotes, dropcaps, link icons, inflation-adjustment, subscripted-citations).
+https://github.com/gwern/gwern.net
+
+Design Of This Website · Gwern.net
+https://gwern.net/design#principles
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Export · Issue #721 · typst/typst
+https://github.com/typst/typst/issues/721
+
+Ask HN: More Sites Like Gwern.net? | Hacker News
+https://news.ycombinator.com/item?id=21976035
+
+Table of contents | Meaningness
+https://meaningness.com/
+
+Ask HN: What niche blogs are worthwhile to follow? | Hacker News
+https://news.ycombinator.com/item?id=21928170
+
+Kicks Condor
+https://www.kickscondor.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=custom%20sentinel%20value&op=translate
+
+[api] Always use the-hole as default return (4315587) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4315587
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars prop… · mozilla/gecko-dev@4082df5
+https://github.com/mozilla/gecko-dev/commit/4082df53251b941de339368e72b3e859c3f35a4d#diff-5836004c5f6800a4d358230c4fcf91e29fc2121600ace60eb1a11b65f32df4a0L663-L666
+
+[Bug 1917214] Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzXcBnMgHjcLbgXKWQjGWPVbd
+
+Linux debug Spidermonkey builds spidermonkey-sm-arm-sim-linux32/debug arm
+https://treeherder.mozilla.org/logviewer?job_id=473192574&repo=try&lineNumber=69311
+
+typst modulo operator - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=typst+modulo+operator
+
+Format number as string with an explicit base · Issue #918 · typst/typst
+https://github.com/typst/typst/issues/918
+
+icu4x/components/plurals/src/rules/reference/ast.rs at bebc6f99ac900abd44574607976c11aa49fb85c7 · typst/icu4x
+https://github.com/typst/icu4x/blob/bebc6f99ac900abd44574607976c11aa49fb85c7/components/plurals/src/rules/reference/ast.rs#L255
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
