@@ -1,5 +1,68 @@
 # 2024-9-10
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+Tracking issue: compile cache · Issue #52696 · nodejs/node
+https://github.com/nodejs/node/issues/52696
+
+About This Website · Gwern.net
+https://gwern.net/about
+
+Language Models are Unsupervised Multitask Learners - 2019-radford.pdf
+https://gwern.net/doc/ai/nn/transformer/gpt/2/2019-radford.pdf#openai
+
+Stream Shawn Presser | Listen to AI-generated Videogame Music playlist online for free on SoundCloud
+https://soundcloud.com/theshawwn/sets/ai-generated-videogame-music
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7610419
+
+Where work happens | Slack
+https://slack.com/intl/en-sg/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Fix ARMv7 JITless wasm exception handling by justinmichaud · Pull Request #32835 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/32835
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+213487 – run-javascriptcore-tests: Support Apple Silicon running x86 processes
+https://bugs.webkit.org/show_bug.cgi?id=213487
+
+unicode-org repositories
+https://github.com/orgs/unicode-org/repositories
+
+(223) #general > WebXR spec updates and WPT testing - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WebXR.20spec.20updates.20and.20WPT.20testing
+
+(1117) #xilem > Scrolling is insanely laggy - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Scrolling.20is.20insanely.20laggy
+
+Pipeline caching, this time not jankily by DJMcNab · Pull Request #524 · linebender/vello
+https://github.com/linebender/vello/pull/524
+
+abc | home
+https://abcnotation.com/
+
+gwern (gwern) / Repositories
+https://github.com/gwern?tab=repositories
+
+#general > Rust target wasm64: invalid table resizable limits flags - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Rust.20target.20wasm64.3A.20invalid.20table.20resizable.20limits.20flags
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

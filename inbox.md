@@ -12,7 +12,7 @@ Tools/Scripts/run-javascriptcore-tests --debug --artifact-exec-wrapper "qemu-aar
 
 Tools/Scripts/run-jsc-stress-tests   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js  --artifact-exec-wrapper "qemu-aarch64"   --arch arm64 | tee /tmp/JSC_log.txt
 
-Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd_f64x2_cmp.wast.js  --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --arch arm64 
+Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd_f64x2_cmp.wast.js  --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --arch arm64 2>&1 | tee /tmp/JSC_log.txt
 
 0x6f00e401
 
@@ -23,7 +23,7 @@ Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 
 # 2024-9-8 0 | 0
 
 
-Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js   --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --architecture arm64
+Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js   --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --arch arm64 2>&1 | tee /tmp/JSC_log.txt
 
 Tools/Scripts/run-jsc-stress-tests \
   --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0" \
