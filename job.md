@@ -571,6 +571,15 @@ igalia申请 deadline
 
 # 2024-9-9 - 2024-9-15
 
+
+[] kaijuan kaoshi ppt
+[] zhouzhiguo 5 bishi 
+[] bijuan shouji kaijuan ppt qiyishi
+[] fuzawangluo xielunwen
+[] bijuankao 
+[] 
+
+
 cv2 for ai algo
 cv for frontend
 cv for igalia

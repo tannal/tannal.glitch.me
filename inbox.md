@@ -1,6 +1,34 @@
 # 2024-9-8 0 | 0
 
 
+ 2>&1 | ts -s "%.S: " | tee /tmp/JSC_log.txt
+
+
+Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js   --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --architecture arm64
+
+Tools/Scripts/run-jsc-stress-tests \
+  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0" \
+  -j $WEBKIT_OUTPUTDIR/bin/jsc \
+  JSTests/wasm.yaml \
+  --filter=simple-inline-exception-inlinee-catch.js \
+  --artifact-exec-wrapper "qemu-aarch64" \
+  --verbose \
+  --report-execution-time
+
+Tools/Scripts/run-jsc-stress-tests   --env-vars "dumpDisassembly=1"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js   --artifact-exec-wrapper "qemu-aarch64"   --verbose
+
+export WEBKIT_TEST_CHILD_PROCESSES=8
+export QEMU_LD_PREFIX=/home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot
+export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
+
+Tools/Scripts/run-jsc-stress-tests \
+  --env-vars "" \
+  -j $WEBKIT_OUTPUTDIR/bin/jsc \
+  JSTests/wasm.yaml \
+  --filter=stress/simd* \
+  --artifact-exec-wrapper "qemu-aarch64" \
+  --verbose
+
 对于SIMD指令集，除了FMOV，还需要实现的指令可能包括：
 
 算术运算：FADD, FSUB, FMUL, FDIV, FMIN, FMAX

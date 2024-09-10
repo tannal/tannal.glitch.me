@@ -1,6 +1,12 @@
 
 # dev
 
+qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc JSTests/wasm/stress/simd-kitchen-sink.js --dumpDisassembly=1
+
+sudo gem install json highline
+
+qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc JSTests/wasm/stress/simd-kitchen-sink.js --dumpDisassembly=1
+
 qemu-aarch64 -g 1234 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc test.js
 
 aarch64-linux-gnu-gdb WebKitBuild/JSCOnly/Debug/bin/jsc
@@ -284,6 +290,7 @@ Tools/Scripts/run-minibrowser --gtk --debug
 Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
 
 export WEBKIT_OUTPUTDIR=WebKitBuild/GTK/Debug/
+export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
 
 Tools/Scripts/run-jsc-stress-tests  --env-vars "JSC_useWasmIPInt=0 JSC_useWasmLLInt=1 JSC_useWebAssembly=1 JSC_useJIT=0" -j $WEBKIT_OUTPUTDIR/bin/jsc JSTests/wasm.yaml --filter=wasm.yaml/wasm/spec-tests/i64
 

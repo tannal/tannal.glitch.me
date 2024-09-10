@@ -1,3 +1,162 @@
+# 2024-9-10
+
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+typst modulo - Google 搜索
+https://www.google.com.hk/search?q=typst+modulo&newwindow=1&client=ubuntu-sn&hs=m4h&sca_esv=cca1506e5bb311d6&sca_upv=1&channel=fs&ei=-OneZo79BsrmkPIPjOm78As&ved=0ahUKEwiO2dis7rWIAxVKM0QIHYz0Dr4Q4dUDCA8&uact=5&oq=typst+modulo&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHR5cHN0IG1vZHVsbzIFEAAYgAQyBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESLUOUPoFWK8McAF4ApABAJgB3AKgAeMLqgEFMi0yLjO4AQPIAQD4AQGYAgegAowMwgIEEAAYR8ICChAAGLADGNYEGEfCAgYQABgIGB6YAwCIBgGQBgqSBwcyLjAuMi4zoAeyCw&sclient=gws-wiz-serp
+
+Text Operator Function – Typst Documentation
+https://typst.app/docs/reference/math/op/
+
+Possible issues regarding the change from `calc.mod` to `calc.rem` · Issue #919 · typst/typst
+https://github.com/typst/typst/issues/919
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=hop%20on%20a%20call&op=translate
+
+tannal (tannal)
+https://github.com/tannal/
+
+MSTtime - Google 搜索
+https://www.google.com.hk/search?q=MSTtime&newwindow=1&client=ubuntu-sn&hs=lY4&sca_esv=ecb8cd266217b6f9&sca_upv=1&channel=fs&ei=QgXfZsjCDZKjur8Ph4yQoQo&ved=0ahUKEwjI6_aviLaIAxWSke4BHQcGJKQQ4dUDCA8&uact=5&oq=MSTtime&gs_lp=Egxnd3Mtd2l6LXNlcnAiB01TVHRpbWUyChAAGIAEGEMYigUyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyChAAGIAEGEMYigUyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGApIt--3ElDXBVj37bcScAF4AZABAJgByQKgAasJqgEFMi0yLjK4AQPIAQD4AQGYAgWgAsEJwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIFEC4YgASYAwCIBgGQBgqSBwcxLjAuMi4yoAfPGg&sclient=gws-wiz-serp
+
+Edmonton - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Edmonton
+
+arm assembly docs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+arm+assembly+docs
+
+arm assembly docs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+arm+assembly+docs
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/SVE-encodings?lang=en
+
+arm64 disassembler online - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+disassembler+online
+
+svcvs arm - Google 搜索
+https://www.google.com.hk/search?q=svcvs+arm&newwindow=1&client=ubuntu-sn&hs=Cs5&sca_esv=fad8c5a4f588c679&sca_upv=1&channel=fs&ei=-xjfZrqjB5HQkPIP5eCZwA0&ved=0ahUKEwj6jLeXm7aIAxURKEQIHWVwBtgQ4dUDCA8&uact=5&oq=svcvs+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXN2Y3ZzIGFybTIREC4YgAQY0QMYExjHARgKGA0yCxAAGIAEGBMYChgNMgsQABiABBgTGAoYDTILEAAYgAQYExgKGA0yChAAGBMYChgNGB4yChAAGBMYChgNGB4yChAAGBMYChgNGB4yDBAAGBMYChgNGB4YDzIJEAAYgAQYExgNMggQABgTGA0YHjIgEC4YgAQY0QMYExjHARgKGA0YlwUY3AQY3gQY4ATYAQFIogtQ5AVY6wlwAXgBkAEAmAHhAqABkgWqAQMzLTK4AQPIAQD4AQGYAgOgApoFwgIKEAAYsAMY1gQYR8ICBxAAGIAEGA3CAggQABgKGA0YHpgDAIgGAZAGBLoGBggBEAEYFJIHBTEuMy0yoAfOCQ&sclient=gws-wiz-serp
+
+6f00e401 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=6f00e401
+
+Where work happens | Slack
+https://slack.com/intl/en-sg/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-42e20316c436c557957d983029f042cea29df064b3272faafc21eca93f96372b
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7610419
+
+122762 – [iOS] Upstream JavaScriptCore support for ARM64
+https://bugs.webkit.org/show_bug.cgi?id=122762
+
+The WebKit Open Source Project
+https://github.com/WebKit
+
+ruby - What is the difference between print and puts? - Stack Overflow
+https://stackoverflow.com/questions/5018633/what-is-the-difference-between-print-and-puts
+
+simd/proposals/simd/SIMD.md at main · WebAssembly/simd
+https://github.com/WebAssembly/simd/blob/main/proposals/simd/SIMD.md
+
+Fast, parallel applications with WebAssembly SIMD · V8
+https://v8.dev/features/simd
+
+ARM architecture family - Wikipedia
+https://en.wikipedia.org/wiki/ARM_architecture_family#Advanced_SIMD_(Neon)
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+typst modulo - Google 搜索
+https://www.google.com.hk/search?q=typst+modulo&newwindow=1&client=ubuntu-sn&hs=m4h&sca_esv=cca1506e5bb311d6&sca_upv=1&channel=fs&ei=-OneZo79BsrmkPIPjOm78As&ved=0ahUKEwiO2dis7rWIAxVKM0QIHYz0Dr4Q4dUDCA8&uact=5&oq=typst+modulo&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHR5cHN0IG1vZHVsbzIFEAAYgAQyBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESLUOUPoFWK8McAF4ApABAJgB3AKgAeMLqgEFMi0yLjO4AQPIAQD4AQGYAgegAowMwgIEEAAYR8ICChAAGLADGNYEGEfCAgYQABgIGB6YAwCIBgGQBgqSBwcyLjAuMi4zoAeyCw&sclient=gws-wiz-serp
+
+Text Operator Function – Typst Documentation
+https://typst.app/docs/reference/math/op/
+
+Possible issues regarding the change from `calc.mod` to `calc.rem` · Issue #919 · typst/typst
+https://github.com/typst/typst/issues/919
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=hop%20on%20a%20call&op=translate
+
+tannal (tannal)
+https://github.com/tannal/
+
+MSTtime - Google 搜索
+https://www.google.com.hk/search?q=MSTtime&newwindow=1&client=ubuntu-sn&hs=lY4&sca_esv=ecb8cd266217b6f9&sca_upv=1&channel=fs&ei=QgXfZsjCDZKjur8Ph4yQoQo&ved=0ahUKEwjI6_aviLaIAxWSke4BHQcGJKQQ4dUDCA8&uact=5&oq=MSTtime&gs_lp=Egxnd3Mtd2l6LXNlcnAiB01TVHRpbWUyChAAGIAEGEMYigUyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyChAAGIAEGEMYigUyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGAoyBxAAGIAEGApIt--3ElDXBVj37bcScAF4AZABAJgByQKgAasJqgEFMi0yLjK4AQPIAQD4AQGYAgWgAsEJwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIFEC4YgASYAwCIBgGQBgqSBwcxLjAuMi4yoAfPGg&sclient=gws-wiz-serp
+
+Edmonton - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Edmonton
+
+arm assembly docs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+arm+assembly+docs
+
+arm assembly docs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+arm+assembly+docs
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/SVE-encodings?lang=en
+
+arm64 disassembler online - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+disassembler+online
+
+svcvs arm - Google 搜索
+https://www.google.com.hk/search?q=svcvs+arm&newwindow=1&client=ubuntu-sn&hs=Cs5&sca_esv=fad8c5a4f588c679&sca_upv=1&channel=fs&ei=-xjfZrqjB5HQkPIP5eCZwA0&ved=0ahUKEwj6jLeXm7aIAxURKEQIHWVwBtgQ4dUDCA8&uact=5&oq=svcvs+arm&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXN2Y3ZzIGFybTIREC4YgAQY0QMYExjHARgKGA0yCxAAGIAEGBMYChgNMgsQABiABBgTGAoYDTILEAAYgAQYExgKGA0yChAAGBMYChgNGB4yChAAGBMYChgNGB4yChAAGBMYChgNGB4yDBAAGBMYChgNGB4YDzIJEAAYgAQYExgNMggQABgTGA0YHjIgEC4YgAQY0QMYExjHARgKGA0YlwUY3AQY3gQY4ATYAQFIogtQ5AVY6wlwAXgBkAEAmAHhAqABkgWqAQMzLTK4AQPIAQD4AQGYAgOgApoFwgIKEAAYsAMY1gQYR8ICBxAAGIAEGA3CAggQABgKGA0YHpgDAIgGAZAGBLoGBggBEAEYFJIHBTEuMy0yoAfOCQ&sclient=gws-wiz-serp
+
+6f00e401 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=6f00e401
+
+Where work happens | Slack
+https://slack.com/intl/en-sg/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-42e20316c436c557957d983029f042cea29df064b3272faafc21eca93f96372b
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7610419
+
+122762 – [iOS] Upstream JavaScriptCore support for ARM64
+https://bugs.webkit.org/show_bug.cgi?id=122762
+
+The WebKit Open Source Project
+https://github.com/WebKit
+
+ruby - What is the difference between print and puts? - Stack Overflow
+https://stackoverflow.com/questions/5018633/what-is-the-difference-between-print-and-puts
+
+simd/proposals/simd/SIMD.md at main · WebAssembly/simd
+https://github.com/WebAssembly/simd/blob/main/proposals/simd/SIMD.md
+
+Fast, parallel applications with WebAssembly SIMD · V8
+https://v8.dev/features/simd
+
+ARM architecture family - Wikipedia
+https://en.wikipedia.org/wiki/ARM_architecture_family#Advanced_SIMD_(Neon)
+
+
 # 2024-9-9
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
