@@ -1,3 +1,77 @@
+# 2024-9-11
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Documentation – Arm Developer
+https://web.archive.org/web/20220916160011/https://developer.arm.com/documentation/#q=Arm%20A-profile%20A64%20Instruction%20Set%20Architecture&firstResult=10
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/Data-Processing----Scalar-Floating-Point-and-Advanced-SIMD?lang=en
+
+Current Local Time in Edmonton, Alberta, Canada
+https://www.timeanddate.com/worldclock/canada/edmonton
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[73 failures] Push Health
+https://treeherder.mozilla.org/push-health/push?repo=try&revision=f7b9af522275e945a154e6e3a7265461979c1b0a&tab=tests&testGroup=pr
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+99% - [0] try: staging release: 132.0b1
+https://treeherder.mozilla.org/jobs?repo=try&resultStatus=success%2Ctestfailed%2Cbusted%2Cexception%2Crunnable&revision=f7b9af522275e945a154e6e3a7265461979c1b0a&searchStr=Linux%2Cdebug%2CSpidermonkey%2Cbuilds%2Cspidermonkey-sm-arm-sim-linux32%2Fdebug%2Carm
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(3) YouTube
+https://www.youtube.com/
+
+Where work happens | Slack
+https://slack.com/intl/en-sg/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+真理元素-哔哩哔哩_bilibili
+https://search.bilibili.com/upuser?keyword=%E7%9C%9F%E7%90%86%E5%85%83%E7%B4%A0&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+Veritasium真理元素投稿视频-Veritasium真理元素视频分享-哔哩哔哩视频
+https://space.bilibili.com/94742590/video
+
+【真理元素无字幕英文视频】The Real Reason Robots Shouldn't Look Like Humans | Compilation_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV13f421i7ek/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+Pain
+https://docs.qq.com/doc/DWVNNVUdlaWF3eFhO
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=images%20search&sort=byPopularity&type=story
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+登陆 - NENUOJ
+http://39.101.69.154/loginpage.php
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&op=translate
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-11
+
 # 2024-9-10
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

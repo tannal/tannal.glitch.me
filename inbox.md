@@ -8,7 +8,7 @@ cargo install --git https://github.com/BurntSushi/ripgrep.git
 export WEBKIT_TEST_CHILD_PROCESSES=8
 export QEMU_LD_PREFIX=/home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot
 export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
-
+p
 Tools/Scripts/run-javascriptcore-tests --debug --artifact-exec-wrapper "qemu-aarch64" --architecture arm64 --jsc-stress | tee /tmp/JSC_log.txt
 
 Tools/Scripts/run-jsc-stress-tests   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js  --artifact-exec-wrapper "qemu-aarch64"   --arch arm64 | tee /tmp/JSC_log.txt
