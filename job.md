@@ -577,7 +577,7 @@ igalia申请 deadline
 [] bijuan shouji kaijuan ppt qiyishi
 [] fuzawangluo xielunwen
 [] bijuankao 
-[] 
+[] jiaoyigelunwen
 
 
 cv2 for ai algo
@@ -585,8 +585,8 @@ cv for frontend
 cv for igalia
 
 
-[] Redmi R7800 book for content 
-[] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213 
+[x] Redmi R7800 book for content 
+[x] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213 
 [] content bilibili video tannal.github.io blog post
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] submit a pr for xxhash in compile cache, we need to research the compile cache pr https://github.com/nodejs/node/issues/52696

@@ -1,7 +1,24 @@
+# 2024-9-10 0 | 0
+
+# 2024-9-9 0 | 0
+
+export WEBKIT_TEST_CHILD_PROCESSES=8
+export QEMU_LD_PREFIX=/home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot
+export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
+
+Tools/Scripts/run-javascriptcore-tests --debug --artifact-exec-wrapper "qemu-aarch64" --architecture arm64 --jsc-stress | tee /tmp/JSC_log.txt
+
+Tools/Scripts/run-jsc-stress-tests   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js  --artifact-exec-wrapper "qemu-aarch64"   --arch arm64 | tee /tmp/JSC_log.txt
+
+Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd_f64x2_cmp.wast.js  --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --arch arm64 
+
+0x6f00e401
+
+01 e4 00 6f
+
+2>&1 | ts -s "%.S: " | tee /tmp/JSC_log.txt
+
 # 2024-9-8 0 | 0
-
-
- 2>&1 | ts -s "%.S: " | tee /tmp/JSC_log.txt
 
 
 Tools/Scripts/run-jsc-stress-tests  --env-vars "useWasmSIMD=1 dumpDisassembly=1 useWasmIPInt=0 useWasmLLInt=1 useWebAssembly=1 useJIT=0"   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js   --artifact-exec-wrapper "qemu-aarch64"   --verbose   --report-execution-time --shell-runner --architecture arm64
