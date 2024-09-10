@@ -1,5 +1,41 @@
 # 2024-9-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GDB commands for WinDbg users | Matthew Justice’s blog
+https://blog.mattjustice.com/2018/08/24/gdb-for-windbg-users/
+
+Get Started with WinDbg (User Mode) - Windows drivers | Microsoft Learn
+https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/getting-started-with-windbg
+
+midi 连接电脑 - Google 搜索
+https://www.google.com.hk/search?q=midi+%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91&newwindow=1&sca_esv=d8162cf97d98a7d0&rlz=1C1GCEA_enJP1090JP1090&ei=s4fdZuCGK7W6kPIPgLekoQQ&ved=0ahUKEwigrJe_nLOIAxU1HUQIHYAbKUQQ4dUDCA8&uact=5&oq=midi+%E8%BF%9E%E6%8E%A5%E7%94%B5%E8%84%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiEW1pZGkg6L-e5o6l55S16ISRMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjgGFAAWOAXcAB4AZABAJgB0wKgAbEnqgEGMi0xMC43uAEDyAEA-AEBmAIPoAL0IsICChAAGIAEGEMYigXCAgUQABiABMICCxAuGIAEGNEDGMcBwgIIEC4YgAQY1ALCAgUQLhiABMICBxAAGIAEGArCAgcQABiABBgMwgIHEC4YgAQYDMICCRAAGIAEGAoYDMICCBAAGAgYChgewgIGEAAYCBgemAMAkgcFMi05LjagB4c8&sclient=gws-wiz-serp
+
+lmms gihtub - Google 搜索
+https://www.google.com.hk/search?q=lmms+gihtub&newwindow=1&sca_esv=d8162cf97d98a7d0&rlz=1C1GCEA_enJP1090JP1090&ei=74jdZof5KKnMkPIP_PDOoQQ&ved=0ahUKEwjHrOzVnbOIAxUpJkQIHXy4M0QQ4dUDCA8&uact=5&oq=lmms+gihtub&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2xtbXMgZ2lodHViMgcQABiABBgNMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGIAEGKIESLcLUIEBWKAKcAF4AZABAJgB6AKgAeYNqgEFMi0zLjO4AQPIAQD4AQGYAgagAtALwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIHEAAYgAQYDMICDRAuGIAEGMcBGAwYrwHCAgcQABiABBgKwgIEEAAYHsICBhAAGAgYHsICBhAAGAoYHpgDAIgGAZAGCpIHBzEuMC4zLjKgB_MP&sclient=gws-wiz-serp
+
+Releases · LMMS/lmms
+https://github.com/LMMS/lmms
+
+web midi online - Google 搜索
+https://www.google.com.hk/search?q=web+midi+online&rlz=1C1GCEA_enJP1090JP1090&oq=web+midi+online&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMjY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Hardware Tester - Online MIDI Keyboard Tester
+https://hardwaretester.com/midi
+
+Build Failed - Poe
+https://poe.com/chat/3faz4qsvqbdxrkvi27o
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Google
+https://www.google.com.hk/
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
