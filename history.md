@@ -1,5 +1,104 @@
 # 2024-9-10
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+https://github.com/BurntSushi/ripgrep
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding?lang=en
+
+Documentation – Arm Developer
+https://web.archive.org/web/20220916160011/https://developer.arm.com/documentation/#q=Arm%20A-profile%20A64%20Instruction%20Set%20Architecture&firstResult=10
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1916757 - [meta] Outreachy 2024 SpiderMonkey Applicant Bugs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1916757
+
+Log in
+https://www.outreachy.org/login/?next=/dashboard/
+
+Log in
+https://www.outreachy.org/login/?next=/outreachy-dec-2024-internship-cohort/communities/servo/
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+About Gwern · Gwern.net
+https://gwern.net/me
+
+Why To Not Write A Book · Gwern.net
+https://gwern.obormot.net/book-writing
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gwern&sort=byPopularity&type=story
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535
+
+Where work happens | Slack
+https://slack.com/intl/en-sg/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Current Local Time in Edmonton, Alberta, Canada
+https://www.timeanddate.com/worldclock/canada/edmonton
+
+slack paused notifications - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=slack+paused+notifications+
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917804
+
+m:l:AsyncPanZoomController::IsZero (AsyncPanZoomController.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/gfx/layers/apz/src/AsyncPanZoomController.cpp#568
+
+1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917804
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+ggml_init: Illegal instruction at address 0x<address> · Issue #44 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/44
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues?q=is%3Aissue+is%3Aopen+crash+windows
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars prop… · mozilla/gecko-dev@4082df5
+https://github.com/mozilla/gecko-dev/commit/4082df53251b941de339368e72b3e859c3f35a4d#diff-598c054769d9df70f3867698a8393ced863b523c25c6b254c5525d8e909a2e16
+
+slack phone calls - Google 搜索
+https://www.google.com/search?q=slack+phone+calls&oq=slack+phone+call&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCAgCEAAYExgeMgoIAxAAGAgYExgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIE0gEIMzg4N2oxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ggml-mnist/src/mnist-common.cpp at main · tannal/ggml-mnist
+https://github.com/tannal/ggml-mnist/blob/main/src/mnist-common.cpp
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

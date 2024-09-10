@@ -1,5 +1,6 @@
 # 2024-9-10 0 | 0
 
+cargo install --git https://github.com/BurntSushi/ripgrep.git
 
 
 # 2024-9-9 0 | 0

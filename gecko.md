@@ -4,6 +4,9 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
 
 # Achievement
 
+
+Bug 1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used. r?ajakobi
+
 Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
 https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
 
