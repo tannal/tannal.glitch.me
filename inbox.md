@@ -1,5 +1,31 @@
 # 2024-9-10 0 | 0
 
+git-webkit setup
+
+. "$HOME/.cargo/env"
+
+export PATH=/home/tannal/.local/bin:$PATH
+export PATH="/usr/lib/ccache:$PATH"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export https_proxy=http://192.168.43.1:7890
+export http_proxy=http://192.168.43.1:7890
+
+#export PATH=/home/tannal/tannalwork/projects/depot_tools:$PATH
+
+if [ -f ~/tannalwork/.bash_aliases ]; then
+    source ~/tannalwork/.bash_aliases
+fi
+
+conda create --name tm-zed --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
+
+conda install -c conda-forge rust git mold ldd glibc
+
+conda install conda-forge/label/broken::gcc_impl_linux-64 conda-forge/label/broken::gxx_impl_linux-64
+
 cargo install --git https://github.com/BurntSushi/ripgrep.git
 
 
