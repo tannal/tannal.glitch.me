@@ -569,6 +569,9 @@ igalia申请 deadline
 
 # 2024-9-15 - 2024-9-22
 
+[] 2024-9-2 10:00 - 11:30
+
+
 # 2024-9-9 - 2024-9-15
 
 
@@ -584,7 +587,7 @@ cv2 for ai algo
 cv for frontend
 cv for igalia
 
-
+[] zhouzhiguo nenuoj 
 [x] Redmi R7800 book for content 
 [x] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213 
 [] content bilibili video tannal.github.io blog post

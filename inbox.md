@@ -1,5 +1,44 @@
 # 2024-9-10 0 | 0
 
+Bug 1917329 - Remove layers.child-process-shutdown pref. r?gregp
+
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     184.9 ms ±   1.3 ms    [User: 171.0 ms, System: 27.2 ms]
+  Range (min … max):   183.1 ms … 188.7 ms    16 runs
+ 
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     184.8 ms ±   1.6 ms    [User: 173.1 ms, System: 25.1 ms]
+  Range (min … max):   182.9 ms … 188.8 ms    16 runs
+ 
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     184.6 ms ±   2.0 ms    [User: 170.4 ms, System: 27.6 ms]
+  Range (min … max):   182.4 ms … 188.9 ms    16 runs
+
+
+
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     184.4 ms ±   2.1 ms    [User: 170.3 ms, System: 27.8 ms]
+  Range (min … max):   182.2 ms … 189.1 ms    16 runs
+ 
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     183.3 ms ±   1.2 ms    [User: 168.8 ms, System: 28.4 ms]
+  Range (min … max):   181.6 ms … 185.1 ms    16 runs
+ 
+tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
+Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
+  Time (mean ± σ):     183.7 ms ±   2.3 ms    [User: 171.4 ms, System: 26.1 ms]
+  Range (min … max):   181.0 ms … 189.1 ms    15 runs
+conda create --name tm-zed
+
+hyperfine 
+
+export PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm-zed/bin/:$PATH
+
 git-webkit setup
 
 . "$HOME/.cargo/env"
@@ -22,7 +61,9 @@ fi
 
 conda create --name tm-zed --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
 
-conda install -c conda-forge rust git mold ldd glibc
+conda install -c conda-forge rust git ldd glibc
+
+mold
 
 conda install conda-forge/label/broken::gcc_impl_linux-64 conda-forge/label/broken::gxx_impl_linux-64
 
@@ -193,7 +234,7 @@ ssh-keygen -f "/home/tannal/.ssh/known_hosts" -R "[192.168.43.1]:2222"
 
 conda install anaconda::sqlite
 
-ln -sfn /usr/bin/ld /usr/bin/mold
+ln -sfn /usr/bin/mold /usr/bin/ld 
 
 export CC="/opt/llvm/bin/clang"
 export CXX="/opt/llvm/bin/clang++"

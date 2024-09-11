@@ -1,5 +1,7 @@
 # todo
 
+./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --download=all --with-icu-source=download --with-ssse3 --with-sse4_1 --with-sse4_2 --with-avx --with-avx2
+
 [] - 
 
 [x] - // TODO(@anonrig): Add V8 Fast API to the following function
