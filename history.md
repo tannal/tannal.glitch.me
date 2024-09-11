@@ -3,6 +3,78 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Cyan4973/xxHash: Extremely fast non-cryptographic hash algorithm
+https://github.com/Cyan4973/xxHash
+
+xxHash - Extremely fast non-cryptographic hash algorithm
+https://xxhash.com/
+
+module: implement NODE_COMPILE_CACHE for automatic on-disk code caching by joyeecheung · Pull Request #52535 · nodejs/node
+https://github.com/nodejs/node/pull/52535
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/Data-Processing----Scalar-Floating-Point-and-Advanced-SIMD?lang=en
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+Where work happens | Slack
+https://app.slack.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+tannal (tannal)
+https://github.com/tannal/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=spidernode&sort=byPopularity&type=story
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+Always use -fasynchronous-unwind-table. by justinmichaud · Pull Request #33279 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/33279
+
+q66/numactl: NUMA support for Linux
+https://github.com/q66/numactl
+
+Chimera Linux - Development
+https://chimera-linux.org/development/
+
+Index of /live/latest/
+https://repo.chimera-linux.org/live/latest/
+
+279300 – Always use -fasynchronous-unwind-table.
+https://bugs.webkit.org/show_bug.cgi?id=279300
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls
+
+Index of /DCIM/Camera/
+http://192.168.43.58:8080/DCIM/Camera/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Codetribute
 https://codetribute.mozilla.org/projects/jseng
 

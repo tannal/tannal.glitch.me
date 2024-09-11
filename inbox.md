@@ -1,5 +1,7 @@
 # 2024-9-10 0 | 0
 
+There are no unknown simd 1 source 
+
 Bug 1917329 - Remove layers.child-process-shutdown pref. r?gregp
 
 tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5

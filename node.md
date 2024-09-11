@@ -1,8 +1,8 @@
 # todo
 
-./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --download=all --with-icu-source=download --with-ssse3 --with-sse4_1 --with-sse4_2 --with-avx --with-avx2
+[] - xxhash
 
-[] - 
+[] - // TODO(joyeecheung): use fast API
 
 [x] - // TODO(@anonrig): Add V8 Fast API to the following function
 
@@ -14,6 +14,30 @@ CLANG_FORMAT_START=$(git merge-base HEAD main) make format-cpp
 make lint-cpp
 
 # dev
+
+CC="/opt/llvm/bin/clang" CXX="/opt/llvm/bin/clang++" \
+./configure \
+  --ninja \
+  --release \
+  --prefix=/usr/local \
+  --with-intl=full-icu \
+  --shared-openssl \
+  --shared-zlib \
+  --shared-libuv \
+  --experimental-http-parser \
+  --dest-cpu=x64 \
+  --openssl-use-def-ca-store \
+  --node-builtin-modules-path $(pwd)
+
+CFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
+CXXFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
+LDFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
+make -j$(nproc)
+
+CC="/opt/llvm/bin/clang" CXX="/opt/llvm/bin/clang++" ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --dest-cpu=x64
+
+./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu 
+
 
 export NODE_DEBUG_NATIVE=module
 unset NODE_DEBUG_NATIVE
