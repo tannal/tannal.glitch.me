@@ -1,5 +1,68 @@
 # 2024-9-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls
+
+Element [7] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$URUnsYMlMjaLW_O8R_VT1AXGTg-MIvR1Dai_zk2Xf8Y
+
+⚙ D221638 Bug 1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used. r?ajakobi
+https://phabricator.services.mozilla.com/D221638
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1229) #xilem > Long build time on Linux - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Long.20build.20time.20on.20Linux
+
+Office Hours 2024-09-12 - Google 文档
+https://docs.google.com/document/d/1u7rlZenMm9Tyk6bU2B2S7DQp30VfIa2Rk7NYrUm2IBU/edit
+
+| Homepage for the Linebender organization
+https://linebender.org/
+
+linebender/2d.graphics: Repo for an ideational book on 2D graphics, plus tools to make images
+https://github.com/linebender/2d.graphics
+
+Images | Principles of 2D Graphics
+https://2d.graphics/book/images.html
+
+Computação Gráfica 2D
+https://w3.impa.br/~diego/teaching/vg/
+
+Pax: Rust GUIs with visual creative tooling : rust
+https://old.reddit.com/r/rust/comments/1cyyt9y/pax_rust_guis_with_visual_creative_tooling/
+
+Faster linking times on nightly on Linux using `rust-lld` | Rust Blog
+https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html
+
+(192) #general > Re-implement ReadableStream - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Re-implement.20ReadableStream
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=facilitating&op=translate
+
+Mumble - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Mumble
+
+Mumble
+https://www.mumble.info/
+
+ChatGGG
+http://192.168.43.1:8080/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
