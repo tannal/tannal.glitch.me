@@ -1,3 +1,56 @@
+# 2024-9-12
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+xxHash - Extremely fast non-cryptographic hash algorithm
+https://xxhash.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist/tree/main
+
+mnist fully connected - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=BMT&sca_esv=9783522cabc36d5f&sca_upv=1&channel=fs&q=mnist+fully+connected&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwj-1oqxk7uIAxUCD0QIHYHnF_oQtKgLegQIDRAB&biw=1850&bih=968&dpr=1
+
+(39) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-11
+
+mnist cnn - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=8H9&sca_esv=0a7eec0d77041e07&sca_upv=1&channel=fs&q=mnist+cnn&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiptqyBnLuIAxVjJEQIHVb6OwAQtKgLegQIDxAB&biw=1850&bih=968&dpr=1#vhid=bg8x2K3j-6UIkM&vssid=mosaic
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(4) 但什么是卷积呢？ - YouTube
+https://www.youtube.com/watch?app=desktop&v=KuXjwB4LzSA
+
+3Blue1Brown - But what is a convolution?
+https://www.3blue1brown.com/lessons/convolutions#thanks
+
+softmax - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=softmax
+
+In gpt-2/convert-h5-to-ggml.py : size mismatch for wpe.weight ... torch.Size([50255, 1024]) ... · Issue #745 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/745
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20o3&type=code
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712/files
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
 # 2024-9-11
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
