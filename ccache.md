@@ -10,4 +10,6 @@ ccache --print-stat
 
 strace -e execve cc
 
+ccache --clear
+
 ```

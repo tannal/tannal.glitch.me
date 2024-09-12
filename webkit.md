@@ -1,6 +1,10 @@
 
 # dev
 
+dup instruction is correct
+smov instruction is correct
+
+
 https://github.com/WebKit/WebKit/wiki/Contributing
 
 qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot WebKitBuild/JSCOnly/Debug/bin/jsc JSTests/wasm/stress/simd-kitchen-sink.js --dumpDisassembly=1

@@ -1,5 +1,7 @@
 # todo
 
+python tools/test.py  -p tap --logfile test.tap --mode=release --flaky-tests=keep_retrying -p actions --node-args='--test-reporter=spec' --node-args='--test-reporter-destination=stdout' --measure-flakiness 9 test/parallel/test-zlib-crc32.js
+
 [] - xxhash
 
 [] - // TODO(joyeecheung): use fast API
@@ -34,9 +36,11 @@ CXXFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-inte
 LDFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
 make -j$(nproc)
 
-CC="/opt/llvm/bin/clang" CXX="/opt/llvm/bin/clang++" ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --dest-cpu=x64
+CC="clang" CXX="clang++" ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --dest-cpu=x64
 
-./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu 
+./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd)
+
+--with-intl=full-icu 
 
 
 export NODE_DEBUG_NATIVE=module

@@ -1,5 +1,77 @@
 # 2024-9-12
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712/files
+
+Element [7] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+memory_js_gc_heap | GLAM
+https://glam.telemetry.mozilla.org/firefox/probe/memory_js_gc_heap/explore?normalizationType=non_normalized&os=Windows&visiblePercentiles=%5B99%2C95%2C50%5D
+
+GC and CC logs — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/performance/memory/gc_and_cc_logs.html
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2022-03/?lang=en
+
+ChatGPT 背后的“功臣”——RLHF 技术详解
+https://huggingface.co/blog/zh/rlhf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video?tid=0&special_type=&pn=1&keyword=&order=click
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917329 - Remove layers.child-process-shutdown pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917329
+
+Where work happens | Slack
+https://app.slack.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+tannal (tannal)
+https://github.com/tannal/
+
+Support v128 const load store and extract lane in bbq only with O0 re… · WebKit/WebKit@baab8dd
+https://github.com/WebKit/WebKit/commit/baab8dd057cfc07c8ba516883f0f1395bc0b1fda
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+Segfault on non-x86_64 architectures · Issue #52606 · nodejs/node
+https://github.com/nodejs/node/issues/52606
+
+SIGSEGV when compiled with -O2 or -O3 on gcc 13.1.1 · Issue #47865 · nodejs/node
+https://github.com/nodejs/node/issues/47865
+
+mold github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mold+github
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segment
+
+hash module · tannal/node@f313b14
+https://github.com/tannal/node/commit/f313b14c39b7b74653a432859a74c2f192fd83bd#diff-cea6643957d66774731d8224242d6e052f3da9198fbb1fa5afb7e91b896b4cc0
+
+ChatGGG
+http://192.168.43.1:8080/
+
+zlib: expose zlib.crc32() by joyeecheung · Pull Request #52692 · nodejs/node
+https://github.com/nodejs/node/pull/52692/files#diff-70148fe890a8c728219a9c147b9be689b169bf0fb549b0992d0c350f1eb51bde
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
