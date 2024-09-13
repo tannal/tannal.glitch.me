@@ -1,5 +1,9 @@
 # 2024-9-13 0 | 0
 
+ggml-mnist train infer
+
+infer 
+
 git cl upload
 
 
