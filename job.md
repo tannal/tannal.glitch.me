@@ -569,9 +569,12 @@ igalia申请 deadline
 
 # 2024-9-15 - 2024-9-22
 
-
-[] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8
+[] webkit javascriptCore pr
+[] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [] 2024-9-2 10:00 - 11:30
+[] 2024-9-19 linebender office hour 23:00
+[] 2024-9-22 tijian
+[] 2024-9-18 4:30 -> 19:00
 
 # 2024-9-9 - 2024-9-15
 
@@ -627,7 +630,7 @@ cv for igalia
 [] shengpizhong dianhuahaoma
 [x] fast api noe blob revokeObjectURL
 [x] Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers! https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
-[] 9.12 20:00
+[x] 9.12 20:00
 [] zuochengyun leetcode
 [] hash function compile cache
 

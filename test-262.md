@@ -1,4 +1,7 @@
 
+# tc39
+
+https://github.com/tc39/agendas/blob/main/2024/10.md
 
 # dev
 
