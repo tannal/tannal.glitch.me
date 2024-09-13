@@ -1,3 +1,89 @@
+# 2024-9-13
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712/files
+
+Element [8] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+status:open - libyuv
+https://libyuv.issues.chromium.org/issues?q=status:open
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Igor Sheludko - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=++Igor+Sheludko+
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+牢大-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E7%89%A2%E5%A4%A7&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+
+unsigned long UINT32 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unsigned+long+UINT32
+
+c - unsigned long and uint32_t? - Stack Overflow
+https://stackoverflow.com/questions/51701021/unsigned-long-and-uint32-t
+
+64-bit computing - Wikipedia
+https://en.wikipedia.org/wiki/64-bit_computing#64-bit_data_models
+
+Where work happens | Slack
+https://app.slack.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+v8 fast api - Google 搜索
+https://www.google.com.hk/search?q=v8+fast+api&newwindow=1&client=ubuntu-sn&hs=PyU&sca_esv=91e3e3360bc36966&sca_upv=1&channel=fs&ei=ef7iZq--L-rXkPIP2rO78A4&start=10&sa=N&sstk=AagrsuhZWaO0zfOJiHvXBCWRpio5ByZL8LDTVWwbGahHTMOV-DMcLmqTu-o9-_HhTVqoYSIHT149d8af_LO-bbPsXV-N8lg3X_zNfA&ved=2ahUKEwjv3va70r2IAxXqK0QIHdrZDu4Q8tMDegQIBRAE&biw=1850&bih=968&dpr=1
+
+c++ method overload subclass and parent which to call - Google 搜索
+https://www.google.com.hk/search?q=c%2B%2B+method+overload+subclass+and+parent+which+to+call&newwindow=1&client=ubuntu-sn&hs=0GV&sca_esv=6cf9c2b9fed3aa1b&sca_upv=1&channel=fs&biw=1850&bih=968&ei=-gLjZpuICaTckPIP1q-YyAY&ved=0ahUKEwib7bXh1r2IAxUkLkQIHdYXBmkQ4dUDCA8&uact=5&oq=c%2B%2B+method+overload+subclass+and+parent+which+to+call&gs_lp=Egxnd3Mtd2l6LXNlcnAiNWMrKyBtZXRob2Qgb3ZlcmxvYWQgc3ViY2xhc3MgYW5kIHBhcmVudCB3aGljaCB0byBjYWxsMgUQIRigATIFECEYoAFIrHVQAFj3c3AEeACQAQOYAcIGoAH3lAGqAQ0yLTI5LjI2LjIuMS4xuAEDyAEA-AEBmAI3oAKafagCAMICBRAAGIAEwgIEEAAYHsICChAAGIAEGEMYigXCAgsQLhiABBjRAxjHAcICBxAAGIAEGAzCAgYQABgeGA_CAgYQABgIGB7CAggQABgKGB4YD8ICCBAAGAgYHhgPwgIIEAAYCBgKGB7CAggQABiABBiiBMICBxAhGKABGAqYAwGSBwszLjAuMjcuMjQuMaAH5b8B&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=just%20js&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1025445 - Optimize math.floor using Range analysis information
+https://bugzilla.mozilla.org/show_bug.cgi?id=1025445
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-feptxo7ei2kymsj45spd&statuses%5B0%5D=open()&order=newest&bucket=action
+
+D220381: Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzNxnfBncxWwwQjjNzVvpkwXx
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-2a81c2212cb0e33167e26dd987d845c5bb7fd20dac4667277fdec360765ec80c
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7626095
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=libyuv&sort=byPopularity&type=story
+
+D220381: Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzNxnfBncxWwwQjjNzVvpkwXx
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-e32152dc0678ffb16fedb57f44c5a7d0b800a7348762464263bfdf1db368d573
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files
+
+D220381: Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVzNxnfBncxWwwQjjNzVvpkwXx
+
 # 2024-9-12
 
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
