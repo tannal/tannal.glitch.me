@@ -3,6 +3,96 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+v8 contribute - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=v8+contribute
+
+Contributing to V8 · V8
+https://v8.dev/docs/contribute
+
+Commits · v8/v8
+https://github.com/v8/v8/commits/main/
+
+[turboshaft][test] Port codegen-tester and test-branch-combine (5349362) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5349362
+
+caitp igalia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=caitp+igalia
+
+Caitlin Potter | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/cpotter
+
+caitp.github.io
+http://caitp.github.io/
+
+failed - V8 Linux64 css - debug 9551 | LUCI
+https://ci.chromium.org/ui/p/v8/builders/ci/V8%20Linux64%20css%20-%20debug/9551/overview
+
+Chromium Docs - Contributing to Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/contributing.md#Legal-stuff
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Issue search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+rect+position&type=issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+typst specify the postion - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=typst+specify+the+postion
+
+Add `page` parameter for `place` function · Issue #2248 · typst/typst
+https://github.com/typst/typst/issues/2248
+
+(41) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+voxell-tech/velyst: Interactive Typst content creator using Vello and Bevy.
+https://github.com/voxell-tech/velyst
+
+TikZ-CeTZ – Typst
+https://typst.app/project/rFJyWAvYiw_xree_DQ73G3
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+univer github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=univer+github
+
+dream-num/univer: Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
+https://github.com/dream-num/univer/issues
+
+cetz - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cetz
+
+cetz/src/canvas.typ at 0bc5f613436aeee50a0672311a69d3e3cec537c7 · cetz-package/cetz
+https://github.com/cetz-package/cetz/blob/0bc5f613436aeee50a0672311a69d3e3cec537c7/src/canvas.typ#L4
+
+sitandr/conchord: Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
+https://github.com/sitandr/conchord
+
+fenjalien/cirCeTZ: A port of circuitikz to Typst using CeTZ!
+https://github.com/fenjalien/cirCeTZ
+
+Jollywatt/typst-fletcher: Typst package for drawing diagrams with arrows, built on top of CeTZ.
+https://github.com/Jollywatt/typst-fletcher
+
+cetz/gallery/pie-chart.typ at master · cetz-package/cetz
+https://github.com/cetz-package/cetz/blob/master/gallery/pie-chart.typ
+
+Tikz - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tikz
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Projects — Open Source Projects
 https://ptomato.name/opensource/projects.html
 

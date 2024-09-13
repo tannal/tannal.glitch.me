@@ -569,8 +569,9 @@ igalia申请 deadline
 
 # 2024-9-15 - 2024-9-22
 
-[] 2024-9-2 10:00 - 11:30
 
+[] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8
+[] 2024-9-2 10:00 - 11:30
 
 # 2024-9-9 - 2024-9-15
 
