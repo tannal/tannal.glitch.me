@@ -1,5 +1,83 @@
 # 2024-9-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Projects — Open Source Projects
+https://ptomato.name/opensource/projects.html
+
+Arm A-profile A32/T32 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0597/2024-06/SIMD-FP-Instructions/VST1--single-element-from-one-lane---Store-single-element-from-one-lane-of-one-register-?lang=en
+
+Contributing · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Contributing
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Refs - external/github.com/tc39/test262 - Git at Google
+https://chromium.googlesource.com/external/github.com/tc39/test262/+refs
+
+(41) Discord | #🗞-playcanvas-news | Official PlayCanvas Chat
+https://discord.com/channels/408617316415307776/905402009849577474
+
+Tools
+https://typst.app/tools/
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml/
+
+softmax - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=softmax
+
+Softmax函数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/Softmax%E5%87%BD%E6%95%B0
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+openai - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=openai
+
+Introducing OpenAI o1 | OpenAI
+https://openai.com/index/introducing-openai-o1-preview/
+
+Learning to Reason with LLMs | OpenAI
+https://openai.com/index/learning-to-reason-with-llms/
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Always use -fasynchronous-unwind-table. by justinmichaud · Pull Request #33279 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/33279
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit
+
+Comparing WebKit:main...tannal:eng/arm64-disassembler · WebKit/WebKit
+https://github.com/WebKit/WebKit/compare/main...tannal:WebKit:eng/arm64-disassembler?expand=1
+
+Home · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki
+
+Comparing WebKit:main...tannal:eng/arm64-disassembler · WebKit/WebKit
+https://github.com/WebKit/WebKit/compare/main...tannal:eng/arm64-disassembler?expand=1
+
+243902 – [WTF] isAllASCII should have SIMD code
+https://bugs.webkit.org/show_bug.cgi?id=243902
+
+contribute to webkit - Google 搜索
+https://www.google.com.hk/search?q=contribute+to+webkit&newwindow=1&client=ubuntu-sn&hs=C95&sca_esv=d21f97ffd6d7790a&sca_upv=1&channel=fs&ei=WfbjZr64G4rHp84PpvG3sAo&start=20&sa=N&sstk=AagrsuhFCyw0EFtZNJgEIPJoOLpAjudHNeY0T_F5jKztHxUfx-9KoHiJGSBbb8KFXM4k-Ix0pCfw7PkEQxEt4XWz3uipWv6oE_cx7GvjQfgdOeRbMXOWou9vTMRzqyYmdZSQ&ved=2ahUKEwj-yPntvr-IAxWK48kDHab4DaY4ChDy0wN6BAgFEAc&biw=1850&bih=968&dpr=1
+
+WebKit and Blink - webkit_linuxcon2013_slides.pdf
+https://people.igalia.com/juanjo/webkit_linuxcon2013_slides.pdf
+
+Issue 680313003: Move input/output counts directly into Operators, simplying OperatorProperties. - Code Review
+https://codereview.chromium.org/680313003
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
