@@ -1,6 +1,14 @@
 # 2024-9-13 0 | 0
 
-ggml-mnist train infer
+ggml-mnist gpt2
+
+whisper.cpp
+llama.cpp
+stable-diffusion.cpp
+clip.cpp
+bark.cpp  
+
+lora 
 
 infer 
 

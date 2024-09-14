@@ -1,3 +1,98 @@
+# 2024-9-14
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+PABannier/bark.cpp: Suno AI's Bark model in C/C++ for fast text-to-speech
+https://github.com/PABannier/bark.cpp
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262
+
+tannal
+https://tannal.github.io/
+
+Tinymist Typst format - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tinymist+Typst+format
+
+Issues · Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist/issues?q=is%3Aissue+format+is%3Aclosed
+
+(41) Discord | #lecture3-mlp | Eureka Labs
+https://discord.com/channels/1020383067459821711/1029849969047375882
+
+a web browser render typst - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=a+web+browser+render+typst
+
+Myriad-Dreamin/typst.ts: Run Typst in JavaScriptWorld.
+https://github.com/Myriad-Dreamin/typst.ts
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Typst: Forgot your password?
+https://typst.app/forgot-password/?success=1
+
+Re: [tc39/test262] Add more tests for v flag (PR #4213) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGhDtrKkwhdjWBXJQzKVMvzp
+
+ggml-mnist-technical-report – Typst
+https://typst.app/project/pBjXb52QRWv4TJV_7pXNfU
+
+Projects — Science
+https://ptomato.name/science/science-projects.html
+
+tannal (tannal)
+https://github.com/tannal
+
+ggml-mnist-technical-report – Typst
+https://typst.app/project/pBjXb52QRWv4TJV_7pXNfU
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+蒲公英的约定_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1eM4EeeET2/?vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+3blue1brown github - Google 搜索
+https://www.google.com.hk/search?q=3blue1brown+github&newwindow=1&client=ubuntu-sn&hs=16q&sca_esv=eeba20fd7f6e6f6c&sca_upv=1&channel=fs&ei=5krkZpXgJubTkPIPrpqh-AQ&ved=0ahUKEwiV65a_j8CIAxXmKUQIHS5NCE8Q4dUDCA8&uact=5&oq=3blue1brown+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEjNibHVlMWJyb3duIGdpdGh1YjIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNwSULUCWPARcAF4AZABAJgBygOgAbMMqgEHMi0zLjEuMbgBA8gBAPgBAZgCBqAC0AzCAgoQABiwAxjWBBhHwgIEEAAYHpgDAIgGAZAGCpIHCTEuMC4zLjEuMaAH2Aw&sclient=gws-wiz-serp
+
+3b1b/videos: Code for the manim-generated scenes used in 3blue1brown videos
+https://github.com/3b1b/videos/tree/master
+
+Where work happens | Slack
+https://app.slack.com/
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+KTV in 9-11
+https://tannal.github.io/p/ktv-in-9-11/
+
+mnist cnn - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=roW&sca_esv=eeba20fd7f6e6f6c&sca_upv=1&channel=fs&q=mnist+cnn&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwizxsjrlMCIAxUzle4BHft4H0QQtKgLegQIEBAB&biw=1850&bih=968&dpr=1#vhid=VTH220inEcn7hM&vssid=mosaic
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.999.0.0
+
+joyeecheung (Joyee Cheung) / August 2024
+https://github.com/joyeecheung?tab=overview&from=2024-08-01&to=2024-08-31
+
 # 2024-9-13
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

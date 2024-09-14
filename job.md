@@ -569,6 +569,7 @@ igalia申请 deadline
 
 # 2024-9-15 - 2024-9-22
 
+[] videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust.
 [] webkit javascriptCore pr
 [] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [] 2024-9-2 10:00 - 11:30
