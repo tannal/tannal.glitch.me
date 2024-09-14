@@ -1,5 +1,53 @@
 # 2024-9-14
 
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+ggml_init: Illegal instruction at address 0x<address> · Issue #44 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/44
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues?q=is%3Aissue+is%3Aopen+crash+windows
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Sign in to your account | Frontend Masters
+https://frontendmasters.com/login/?return=%2Fcourses%2Fintermediate-react-native-v2%2Fintroduction%2F
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars prop… · mozilla/gecko-dev@4082df5
+https://github.com/mozilla/gecko-dev/commit/4082df53251b941de339368e72b3e859c3f35a4d#diff-598c054769d9df70f3867698a8393ced863b523c25c6b254c5525d8e909a2e16
+
+slack phone calls - Google 搜索
+https://www.google.com/search?q=slack+phone+calls&oq=slack+phone+call&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCAgCEAAYExgeMgoIAxAAGAgYExgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIE0gEIMzg4N2oxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+ggml-mnist/src/mnist-common.cpp at main · tannal/ggml-mnist
+https://github.com/tannal/ggml-mnist/blob/main/src/mnist-common.cpp
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+登陆 - NENUOJ
+http://39.101.69.154/loginpage.php
+
+convolution - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=450070a99877800c&sca_upv=1&q=convolution&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiRl4blpbuIAxV3L0QIHXOJLpIQtKgLegQIDRAB&biw=1280&bih=559&dpr=1.5#vhid=7vJByZmTyKb_DM&vssid=mosaic
+
+Git at Google
+https://www.googlesource.com/new-password?state=chromium&code=4/0AQlEd8zVpoy_JyvopRxWTzi-gN2A4OwLKtf-itGZCSYLNA72OGxKRMUhYmda6OfcVF7HAg&scope=https://www.googleapis.com/auth/gerritcodereview
+
+Chromium Docs - Contributing to Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/contributing.md#Legal-stuff
+
+ggml-mnist-technical-report – Typst
+https://typst.app/project/pBjXb52QRWv4TJV_7pXNfU
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
