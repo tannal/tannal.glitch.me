@@ -1,5 +1,56 @@
 # 2024-9-14
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+User Profile: Tooru Fujisawa [:arai] <arai.unmht@gmail.com>
+https://bugzilla.mozilla.org/user_profile?user_id=310076
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=arai.unmht%40gmail.com&list_id=17220921
+
+1234947 - Array element access is too slow when the Array length does not fit into int32_t.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1234947
+
+1234947 - Array element access is too slow when the Array length does not fit into int32_t.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1234947
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=arai.unmht%40gmail.com&list_id=17220927
+
+User Profile: Matthew Gaudet (he/him) [:mgaudet] <mgaudet@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?login=mgaudet%40mozilla.com
+
+1899413 - Support v flag in RegExp.prototype[@@matchAll]
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
+
+User Profile: Dan Minor [:dminor] <dminor@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=466787
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=dminor%40mozilla.com&list_id=17220929
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+♟ Query: Active
+https://phabricator.services.mozilla.com/people/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+ECMAScript 2023 Language Specification Section 22.1.4.1 Array.prototype.length - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ECMAScript+2023+Language+Specification+Section+22.1.4.1+Array.prototype.length
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#sec-properties-of-array-instances-length
+
+max size of array in js - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=max+size+of+array+in+js
+
+Maximum size of an Array in Javascript - Stack Overflow
+https://stackoverflow.com/questions/6154989/maximum-size-of-an-array-in-javascript
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

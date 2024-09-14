@@ -1,5 +1,14 @@
 # 2024-9-14 0 | 0
 
+tannal@desktop:~/tannalwork/projects/gecko$ MOZCONFIG=mozconfig.jsshell ./mach jstests
+[38311|    0|    0| 5701]  84% ===============================>       |  39.1s
+## test262/prs/4213/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-v-flag.js: rc = 3, run time = 33.087342
+uncaught exception: out of memory
+REGRESSION - test262/prs/4213/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-v-flag.js
+[45809|    1|    0| 6273] 100% ======================================>|  46.9s
+REGRESSIONS
+    test262/prs/4213/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-v-flag.js
+FAIL
 
 https://zed.dev/jobs/ai-and-systems
 

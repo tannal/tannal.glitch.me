@@ -53,8 +53,8 @@ https://bugzilla.mozilla.org/user_profile?user_id=310076
 
 https://bugzilla.mozilla.org/user_profile?user_id=466787
 
-
-
+https://bugzilla.mozilla.org/user_profile?login=mgaudet%40mozilla.com
+mgaudet@mozilla.com
 
 # dev
 
