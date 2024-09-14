@@ -1,5 +1,74 @@
 # 2024-9-14
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/3b59c739df66574d94022a684596845cd05e7c65/modules/libpref/init/StaticPrefList.yaml#15923-15927
+
+1918708 - [Meta] Implement the Math.sumPrecise proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918708
+
+proposal-math-sum/Shewchuk-robust-arithmetic.pdf at main · tc39/proposal-math-sum
+https://github.com/tc39/proposal-math-sum/blob/main/Shewchuk-robust-arithmetic.pdf
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+1918706 - [Outreachy] Update test262 and test262 skipped files
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918706
+
+1899303 - Implement Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899303
+
+1917139 - Ship Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917139
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+global eval-introduced vars proposal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=global+eval-introduced+vars+proposal
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#table-additional-fields-of-global-environment-records
+
+tc39/proposal-redeclarable-global-eval-vars: Make eval-introduced global vars redeclarable
+https://github.com/tc39/proposal-redeclarable-global-eval-vars
+
+New issue - Chromium
+https://issues.chromium.org/issues/wizard
+
+Implement Redeclarable global eval-introduced vars proposal [366491591] - Chromium
+https://issues.chromium.org/issues/366491591
+
+279705 – Implement Redeclarable global eval-introduced vars proposal
+https://bugs.webkit.org/show_bug.cgi?id=279705
+
+275359 – Implement Promise.try() proposal
+https://bugs.webkit.org/show_bug.cgi?id=275359
+
+275359 – Implement Promise.try() proposal
+https://bugs.webkit.org/show_bug.cgi?id=275359
+
+`Promise.try` to stage 3, per 2024.06.11 TC39 · tc39/proposals@de20984
+https://github.com/tc39/proposals/commit/de20984cd7f7bc616682c557cb839abc100422cb
+
+Redeclarable global `eval`-introduced `var`s to stage 3, per 2024.04.… · tc39/proposals@4fc40ee
+https://github.com/tc39/proposals/commit/4fc40ee637af095b941fad2b0e717372e3d04f0a
+
+[JSC] Implement Promise.try by rkirsling · Pull Request #24802 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/24802
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
