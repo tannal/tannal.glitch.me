@@ -1,5 +1,68 @@
 # 2024-9-14
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1918708 - [Meta] Implement the Math.sumPrecise proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918708
+
+proposal-math-sum/polyfill/polyfill.mjs at main · tc39/proposal-math-sum
+https://github.com/tc39/proposal-math-sum/blob/main/polyfill/polyfill.mjs
+
+tc39/proposal-math-sum: TC39 proposal to add a summation method to JavaScript
+https://github.com/tc39/proposal-math-sum/tree/main
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+可灵 AI - 新一代 AI 创意生产力平台
+https://klingai.kuaishou.com/text-to-video/40413793
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io
+
+html-midi-player/README.md at a65dfe220a46a0d8c7aed6c79079fb11cb765636 · cifkao/html-midi-player
+https://github.com/cifkao/html-midi-player/blob/a65dfe220a46a0d8c7aed6c79079fb11cb765636/README.md?plain=1#L83
+
+@magenta/music - v1.23.1
+https://magenta.github.io/magenta-js/music/
+
+Magenta
+https://github.com/magenta
+
+Struggling to access hugo server on local network - support - HUGO
+https://discourse.gohugo.io/t/struggling-to-access-hugo-server-on-local-network/33089
+
+Senior AI and Systems Engineer
+https://zed.dev/jobs/ai-and-systems
+
+我的 2024 年，关于工作、开源、副业
+https://tannal.github.io/zh-cn/p/%E6%88%91%E7%9A%84-2024-%E5%B9%B4%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E5%BC%80%E6%BA%90%E5%89%AF%E4%B8%9A/
+
+Element [7] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Migration from ESR 115 to 128 by ptomato · Pull Request #85 · mozilla-spidermonkey/spidermonkey-embedding-examples
+https://github.com/mozilla-spidermonkey/spidermonkey-embedding-examples/pull/85/files#r1694013596
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Boulder&op=translate
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Unable to select Claude 3.5 Sonnet Zed model · Issue #16618 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16618
+
 (1) Shawn Presser (@theshawwn) / X
 https://x.com/theshawwn
 

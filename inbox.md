@@ -1,5 +1,12 @@
 # 2024-9-14 0 | 0
 
+
+https://zed.dev/jobs/ai-and-systems
+
+https://github.com/cifkao/html-midi-player
+
+./mach vendor rust
+
 git checkout branches/default/tip
 
 git pull origin branches/default/tip --rebase
