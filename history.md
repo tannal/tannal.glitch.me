@@ -1,5 +1,59 @@
 # 2024-9-14
 
+(1) Shawn Presser (@theshawwn) / X
+https://x.com/theshawwn
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%E6%98%8E%E6%98%BE%E7%9A%84%E9%94%99%E8%AF%AF&op=translate
+
+状态 - NENUOJ
+http://39.101.69.154/status.php?user_id=GS24_2024103289_tanmeng
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Sign in to your account | Frontend Masters
+https://frontendmasters.com/login/?return=%2Fcourses%2F
+
+(9) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Igor Sheludko (@isheludko) / X
+https://x.com/isheludko
+
+(1) just-js (@justjs14) / X
+https://x.com/justjs14
+
+Tracking bug: Fast wasm <-> webgpu interaction [41492790] - Chromium
+https://issues.chromium.org/issues/41492790
+
+austinEng/wasm-binding-test
+https://github.com/austinEng/wasm-binding-test
+
+just-js repositories
+https://github.com/orgs/just-js/repositories
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+fc cnn mnist - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=ea85460ec5208a83&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIK53ezEmt9_ajxfblL7Zxi9__k8Vw:1726224455294&q=fc+cnn+mnist&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiDkteb37-IAxUZITQIHdSDL0YQtKgLegQIEBAB
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+(9) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
