@@ -1,5 +1,89 @@
 # 2024-9-15
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Are We Fast Yet? Yes We Are!
+https://robert.ocallahan.org/2014/10/are-we-fast-yet-yes-we-are.html
+
+Firefox Performance Dashboard
+https://arewefastyet.com/linux64/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?series=autoland,3915286,1,13&timerange=5184000&series=mozilla-central,3744553,1,13
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?series=autoland,3917204,1,13&timerange=5184000&series=mozilla-central,3746329,1,13
+
+So You Want To Build A Browser Engine
+https://robert.ocallahan.org/2024/06/browser-engine.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+gitalk - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gitalk
+
+gitalk/gitalk: Gitalk is a modern comment component based on Github Issue and Preact.
+https://github.com/gitalk/gitalk
+
+Jump to recent directories · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed
+
+zed/CONTRIBUTING.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/CONTRIBUTING.md
+
+zed-industries/zed · Discussions · GitHub
+https://github.com/zed-industries/zed/discussions
+
+Where work happens | Slack
+https://app.slack.com/
+
+a database use github issues - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=a+database+use+github+issues
+
+issue-db/issue-db: ☁️ Use GitHub Issues as a JSON datastore
+https://github.com/issue-db/issue-db
+
+octokit/rest.js: GitHub REST API client for JavaScript
+https://github.com/octokit/rest.js
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=issue%20db&sort=byPopularity&type=story
+
+DB Weekly Issue 360: June 25, 2021
+https://dbweekly.com/issues/360
+
+add backend github issue for sqlite - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=add+backend+github+issue+for+sqlite
+
+Implement new backend architecture for SQLite · Issue #3069 · FerretDB/FerretDB
+https://github.com/FerretDB/FerretDB/issues/3069
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[cmake] Build Files Generator not pinned to Unix Makefiles · Issue #2083 · leanprover/lean4
+https://github.com/leanprover/lean4/issues/2083
+
+Ubuntu Setup - Lean Manual
+https://lean-lang.org/lean4/doc/make/ubuntu.html
+
+Robert O'Callahan. - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Robert+O%27Callahan.
+
+[lldb] Implement basic support for reverse-continue by rocallahan · Pull Request #99736 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/99736/files#diff-350a729452acb729ca0c357f152bd2b796228a0ba90f58276efb22f4ee52e34a
+
+So you want to build a browser engine | Hacker News
+https://news.ycombinator.com/item?id=40623048
+
+ChatGGG
+http://192.168.43.1:8080/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

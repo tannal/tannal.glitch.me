@@ -1,5 +1,14 @@
 # 2024-9-15 0 | 0
 
+https://dbweekly.com/issues/360
+
+We see many early days projects in rust
+
+linebender
+servo
+zed
+typst
+wasm
 
 Add some ARM SIMD instructions in disassembler.
 
