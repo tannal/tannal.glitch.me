@@ -1,5 +1,77 @@
 # 2024-9-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+登录 - Google 账号
+https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAOJSN-zC-5TLvWpeUoVjCYcw_ZERmMAW77r5KC9hUV7ggmnJyD-82toS6LHZYDsVjmgQedJU-2CX-OdEl9uJYOyRJFxtl1sgPrTaJPl6MYCZT0H3wAWyWovJKU3zgknXeodevKGzhj_BA0YuyNEZsWJ5hPwQ-wbGD0TgNW8svosxZGScobrJNoym0Je3yu-mJhiGlvaEfDlCwnvk1GphSlnYmEZNCiHUkBqrjI0iByfhdCwZrN0z0BIkgR_33lRY47ZlUnUn7YFSLpsw3ZHXX5nmkCYF1wXb_RHn6nu-ElRVFlYVFiUaOgL0pv2LcW-oogtv9-t2r4q2oFosvrC0SnmB26mpY8KfJTigv0Od95CUhXF4HFxc4FFuvhZOAVMyLtuV73a2cDNuMH4RT-xqnH34K_KpiEg6g8UleoswwkNyCxy6mnSq3Pm_m73skPZhRmuB11V-_JhIlqTagZeKeIBQhOdRRIbh0ZY_dIRyAsYF16wUQvSTC-n3d5DfAEh_kh9W4WgNHDE-T7Kpm8UD2YdJDpdzT9vWczxaOJnQkyxcF_kRCL6WeMKK7N2rj4pYfTn7O4c_kbgXZoWMOjjh47sKtBS2ZEvgQ3k9BYD1KzgoiGg2J0JADP5j3vM9W5RDo9JG5-xEDmCSbVJtSGIRrbSbCL2Ekn1DpjwW4k95uoLo6Q1qVP5ftAW0aSKb6wWXZwmpHaly86OJvfC7Eo1Wd9AS6QSXUUFagISxV2M5-4Zf2SsRdH06EbtD2nmUzUim5jSj6XHiU_bHCLEvUupK6Y3MVyK64I5F1w8GwPs_mXmNvvPRUA-qL1AAGsB4wbvNggkXbo8vlYfTSBSKj2xtE_-7Q6k_KVOuaTlVxKgBCHaGjXRabg0NxQ1F8fIMBJVQTdNRM6Jx2ncKeTnJjcFP2YYVFEQyYFvfL8esCAGeHfyL7Oo3YLflC_rvZbH3b7IkTHnjpX54sas8StCElGiRlz1XnxodtSh3nk4bIwNavP3ziU53l9M0PQTkirePwjQoabyAqA3jBWo25Ce6XOlAVqo5ZVVPV9LBa9tubiwGLEFVPExeVC2UfvfelmpMlDv1dIFcpwJxVKPZy8i8b46DeAOn-YsaziVZnhGqIWGie_HSE2Vrf7OsoWa9cVMBYjOl8wBNo72SnwrAhcp4DVAzq9IfOf6z8cslH78HgYqs7zOGCnuv1GSgiYgQkrExLcl0zEdrS4G2HHNXc7X-y_J0OB3y3tQq5shoiRIrXo5N68CwBGyeCBz7nRx-r4TmtV_VrWFiA7g&flowName=GeneralOAuthFlow&as=S-1170993724%3A1726386175474285&client_id=1020196863047-6e6hft2evpsc8t5trrha4vfgrrrt6sjh.apps.googleusercontent.com&rapt=AEjHL4N80cHcXWIzOV1Djzm7Cz0YBoxCqW-Y68cLhu5NRIMv4a8v7Zl712Xjk4j93FKDAY-Rotmegsrv2A6z3WZNYqf6nRCK9A#
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+romainguy/kotlin-explorer: Desktop tool to quickly explore disassembled Kotlin code.
+https://github.com/romainguy/kotlin-explorer
+
+fs: fix subdirectory detection logic by RedYetiDev · Pull Request #54288 · nodejs/node
+https://github.com/nodejs/node/pull/54288
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Element [5] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+tannal (tannal)
+https://github.com/tannal/
+
+KTV in 9-11
+https://tannal.github.io/p/ktv-in-9-11/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Do%20Companies%20Exploit%20Open%20Source%20And%20Programmers%20Are%20Plagiarists%3F&op=translate
+
+WebGPU-based renderer for the editor · Issue #221145 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/221145
+
+Projects · microsoft
+https://github.com/orgs/microsoft/projects
+
+Issues · microsoft/vscode
+https://github.com/microsoft/vscode/issues?q=is%3Aissue+is%3Aopen+zed+editor
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+Block select with mouse after end of lines · Issue #4352 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/4352
+
+Roadmap - Zed - The editor for what's next
+https://zed.dev/roadmap
+
+Comparing WebKit:main...tannal:eng/arm64-disassembler · WebKit/WebKit
+https://github.com/WebKit/WebKit/compare/main...tannal:WebKit:eng/arm64-disassembler?expand=1
+
+zed how to change to right - Google 搜索
+https://www.google.com.hk/search?q=zed+how+to+change+to+right&newwindow=1&client=ubuntu-sn&hs=4vo&sca_esv=51d92fddc59c0275&sca_upv=1&channel=fs&ei=2JbmZrHuNr7gkPIPq8j4uAc&ved=0ahUKEwixuvyZwMSIAxU-MEQIHSskHncQ4dUDCA8&uact=5&oq=zed+how+to+change+to+right&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnplZCBob3cgdG8gY2hhbmdlIHRvIHJpZ2h0MgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSMQiULkGWM4hcAF4AZABAJgBtQKgAYQ0qgEGMi0xOS41uAEDyAEA-AEBmAIXoAKdMMICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgcQABiABBgMwgIHEC4YgAQYDMICEBAuGIAEGNEDGEMYxwEYigXCAgcQABiABBgKwgILEC4YgAQY0QMYxwHCAhkQLhiABBhDGMcBGJgFGJkFGIoFGJ4FGK8BwgIEEAAYHsICBhAAGB4YD8ICBhAAGAgYHsICCBAAGAgYChgewgIIEAAYCBgeGA_CAggQABiABBiiBMICBhAAGAUYHsICBRAhGKABmAMAiAYBkAYKkgcIMS4wLjE3LjWgB7BJ&sclient=gws-wiz-serp
+
+How to move project panel to right side · zed-industries/zed · Discussion #6631
+https://github.com/zed-industries/zed/discussions/6631
+
+Introducing Zed's new panel system
+https://zed.dev/blog/new-panel-system
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

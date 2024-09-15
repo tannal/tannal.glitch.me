@@ -1,5 +1,25 @@
 # 2024-9-15 0 | 0
 
+
+Add some ARM SIMD instructions in disassembler.
+
+Need the bug URL (OOPS!).
+
+Reviewed by Justin Michaud.
+
+This patch enhances the ARM64 disassembler to correctly handle and display
+additional SIMD instructions, particularly those involving different vector
+element sizes (.B, .H, .S, .D). This improvement allows for more accurate
+representation of ARM SIMD instructions in the disassembled output.
+
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.cpp:
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical1Source::opName):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::format):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::opName):
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h:
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneIndexAndType):
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneType):
+
 JFugue
 
 $ elan toolchain link lean4 build/stage1
