@@ -1,5 +1,68 @@
 # 2024-9-15
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[IEEE 2017 IEEE Winter Conference on Applications of Computer Vision (WACV) - Santa Rosa, CA, USA (2017.3.24-2017.3.31)] 2017 IEEE Winter Conference on Applications of Computer Vision (WACV) - Cyclical Learning Rates for Training Neural Networks | 10.1109/WACV.2017.58_Scihub
+https://bothonce.com/10.1109/WACV.2017.58
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Rao, R. P., & Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects.3 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Rao%2C+R.+P.%2C+%26+Ballard%2C+D.+H.+%281999%29.+Predictive+coding+in+the+visual+cortex%3A+a+functional+interpretation+of+some+extra-classical+receptive-field+effects.3
+
+Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects | Nature Neuroscience
+https://www.nature.com/articles/nn0199_79
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Predictive+coding+in+the+visual+cortex%3A+a+functional+interpretation+of+some+extra-classical+receptive-field+effects
+
+Progressive Neural Networks - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Progressive+Neural+Networks
+
+1606.04671v4.pdf
+https://arxiv.org/pdf/1606.04671
+
+ContinualAI
+https://github.com/ContinualAI
+
+Avalanche: an End-to-End Library for Continual Learning | Avalanche
+https://avalanche.continualai.org/
+
+Smith, Leslie N. "Cyclical learning rates for training neural networks." (2017) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Smith%2C+Leslie+N.+%22Cyclical+learning+rates+for+training+neural+networks.%22+%282017%29
+
+Cyclical Learning Rates for Training Neural Networks | IEEE Conference Publication | IEEE Xplore
+https://ieeexplore.ieee.org/document/7926641
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+Language Models are Few-Shot Learners - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Language+Models+are+Few-Shot+Learners
+
+2005.14165v4.pdf
+https://arxiv.org/pdf/2005.14165
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Reformer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Reformer
+
+2001.04451v2.pdf
+https://arxiv.org/pdf/2001.04451
+
+JFugue github - Google 搜索
+https://www.google.com.hk/search?q=JFugue+github&newwindow=1&client=ubuntu-sn&hs=I57&sca_esv=dbcb33e9ec1b098b&sca_upv=1&channel=fs&ei=D4DmZp_QHs6kkPIPvZKdiAc&ved=0ahUKEwjfk7K8qsSIAxVOEkQIHT1JB3EQ4dUDCA8&uact=5&oq=JFugue+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUpGdWd1ZSBnaXRodWIyBxAhGKABGApIvxJQigZYnBFwAXgBkAEAmAGMA6AB5w2qAQMzLTW4AQPIAQD4AQGYAgagAo0OwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGB4YD8ICBRAhGKABmAMAiAYBkAYGkgcFMS4zLTWgB7sK&sclient=gws-wiz-serp
+
+dmkoelle/jfugue: Java API for Music Programming
+https://github.com/dmkoelle/jfugue
+
 表格查询 - Poe
 https://poe.com/chat/3krhq5hygx4rk6sgjge
 

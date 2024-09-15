@@ -1,5 +1,7 @@
 # 2024-9-15 0 | 0
 
+JFugue
+
 $ elan toolchain link lean4 build/stage1
 
 $ elan toolchain link lean4-stage0 build/stage0
