@@ -1,5 +1,65 @@
 # 2024-9-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+The Hitchhiker's Guide to Servo Contributor - Part I | λ. Thoughts -> Text
+https://blog.cybai.dev/servo-contributor-part-i/
+
+Commits · servo/servo
+https://github.com/servo/servo/commits?author=Taym95
+
+So You Want To Build A Browser Engine
+https://robert.ocallahan.org/2024/06/browser-engine.html
+
+tannal
+http://localhost:1313/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Hitchhiker&op=translate
+
+Firefox Gecko development using git - Google 搜索
+https://www.google.com.hk/search?q=Firefox+Gecko+development+using+git&newwindow=1&client=ubuntu-sn&hs=RtY&sca_esv=e7ba6dc809002f5c&sca_upv=1&channel=fs&ei=RdzmZoX-KuDHkPIPwoSdSQ&ved=0ahUKEwjFtNq0gsWIAxXgI0QIHUJCJwkQ4dUDCA8&uact=5&oq=Firefox+Gecko+development+using+git&gs_lp=Egxnd3Mtd2l6LXNlcnAiI0ZpcmVmb3ggR2Vja28gZGV2ZWxvcG1lbnQgdXNpbmcgZ2l0MgUQIRigATIFECEYoAEyBRAhGKABSM5KUKYGWNhJcAV4AJABAJgBxwOgAYEqqgEIMi0xMS42LjG4AQPIAQD4AQL4AQGYAhagApEnwgILEAAYgAQYsAMYogTCAggQABiABBiiBMICBxAhGKABGAqYAwCIBgGQBgSSBwg1LjAuMTEuNqAHvzY&sclient=gws-wiz-serp
+
+Tutorial to walk through the creation of a Git repository for Firefox/Gecko development, initialized from a git bundle.
+https://gist.github.com/Rob--W/b812be6e40e3ad489f6441ce65fdeb83
+
+GitHub/Gecko Repositories - MozillaWiki
+https://wiki.mozilla.org/GitHub/Gecko_Repositories
+
+glandium.org » A git workflow for Gecko development
+https://glandium.org/blog/?page_id=3438
+
+(6) Project Code Rush - The Beginnings of Netscape / Mozilla Documentary - YouTube
+https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
+
+os revolution youtube - Google 搜索
+https://www.google.com.hk/search?q=os+revolution+youtube&newwindow=1&client=ubuntu-sn&hs=pBZ&sca_esv=e7ba6dc809002f5c&sca_upv=1&channel=fs&ei=ueDmZrfnKufHkPIP-N6uiAM&ved=0ahUKEwj3p6bUhsWIAxXnI0QIHXivCzEQ4dUDCA8&uact=5&oq=os+revolution+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFW9zIHJldm9sdXRpb24geW91dHViZTIGEAAYCBgeMggQABiABBiiBEitDlCDBViSDXABeAGQAQCYAa4DoAHEDqoBBTMtMy4yuAEDyAEA-AEBmAIGoALWDsICChAAGLADGNYEGEeYAwCIBgGQBgOSBwcxLjMtMy4yoAfNBQ&sclient=gws-wiz-serp
+
+So you want to build a browser engine | Hacker News
+https://news.ycombinator.com/item?id=40623048
+
+README.txt - mozsearch
+https://searchfox.org/mozilla-central/source/parser/html/java/README.txt
+
+The Validator.nu HTML Parser
+https://about.validator.nu/htmlparser/
+
+Profile: pavpanchekha | Hacker News
+https://news.ycombinator.com/user?id=pavpanchekha
+
+(6) The Lively Kernel - YouTube
+https://www.youtube.com/watch?v=gGw09RZjQf8
+
+Flow Browser | The parallel, multithreaded HTML browser
+https://www.ekioh.com/flow-browser/
+
+Eylenburg's Tech Website
+https://eylenburg.github.io/
+
+SCIter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=SCIter
+
 node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
