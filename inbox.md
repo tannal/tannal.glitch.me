@@ -1,6 +1,33 @@
 # 2024-9-15 0 | 0
 
+$ elan toolchain link lean4 build/stage1
 
+$ elan toolchain link lean4-stage0 build/stage0
+
+$ elan show
+installed toolchains
+--------------------
+
+stable (default)
+lean4
+lean4-stage0
+leanprover/lean4:stable
+
+active toolchain
+----------------
+
+lean4 (overridden by '~/.../lean4/lean-toolchain')
+Lean (version 4.6.0, commit 73b87f255824, Release)
+
+$ lake --version
+Lake version 5.0.0-src (Lean version 4.6.0, commit 73b87f2558245e3e867d95e1948f4fdeca2ffbf4)
+
+$ lean --version
+Lean (version 4.6.0, commit 73b87f255824, Release)
+
+curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
+
+https://gitlab.kitware.com/cmake/cmake
 
 TheBloke的模型：
 TheBloke是Hugging Face上非常活跃的贡献者，提供了许多GGML和GGUF格式的模型。

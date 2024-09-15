@@ -1,3 +1,67 @@
+
+
+
+使用 elan 管理 Lean 版本：
+首先，建议使用 elan 来管理 Lean 的版本。elan 可以帮助您轻松地安装和切换不同版本的 Lean。 安装 elan:
+
+复制
+curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
+安装最新的 Lean 4：
+
+复制
+elan toolchain install leanprover/lean4:stable
+创建一个新的 Lean 项目：
+
+复制
+mkdir my_lean_project
+cd my_lean_project
+lake init
+添加 Mathlib 作为依赖：
+编辑 lakefile.lean，添加以下行：
+lean
+
+复制
+require mathlib from git "https://github.com/leanprover-community/mathlib4.git"
+获取依赖：
+
+复制
+lake update
+构建项目：
+
+复制
+lake build
+现在，您应该能够在您的 Lean 文件中使用 Mathlib 了。
+
+如果您仍然想使用您从源码编译的版本，您需要手动下载和构建 Mathlib。这是一个更复杂的过程，通常不推荐，除非您有特殊需求。
+
+使用 elan 和 lake 管理 Lean 和项目依赖是更简单、更标准的方法，特别是对于包含 Mathlib 在内的大型库。
+
+gpt2_124m.bin 文件是GPT-2模型的预训练权重文件,包含了模型的参数和配置信息。根据代码中的描述,这个文件的结构大致如下:
+
+文件头部 (256个整数):
+魔数 (20240326)
+版本号 (3表示fp32, 5表示bf16)
+模型配置信息 (最大序列长度、词汇表大小、层数、注意力头数、通道数等)
+模型参数:
+按照特定顺序存储的模型权重和偏置,包括:
+词嵌入 (wte)
+位置嵌入 (wpe)
+每一层的权重:
+注意力权重 (q_proj, k_proj, v_proj, c_proj)
+前馈网络权重 (c_fc, c_proj)
+LayerNorm参数
+最后一层的LayerNorm参数
+对于GPT-2 124M模型,具体配置如下:
+
+12层
+768个通道
+12个注意力头
+词汇表大小50257 (填充到50304)
+最大序列长度1024
+文件中的权重是按照特定顺序存储的浮点数值(fp32或bf16),可以直接加载到模型中使用。这个文件包含了模型的全部信息,允许在不需要额外配置的情况下重建和使用模型。
+
+值得注意的是,虽然代码中提到了GPT-3的配置,但gpt2_124m.bin特指GPT-2模型,不包含GPT-3的特定结构。
+
 当然，我很乐意为您介绍一些著名的开源定理证明系统实现。这些系统在数学和计算机科学领域广受认可，并且有活跃的社区支持。
 
     Coq

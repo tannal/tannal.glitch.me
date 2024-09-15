@@ -3,6 +3,75 @@
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Lean
+https://github.com/leanprover
+
+Vjeux
+https://blog.vjeux.com/
+
+(6) Honeypot - YouTube
+https://www.youtube.com/@Honeypotio/videos
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+gpt2 github - Google 搜索
+https://www.google.com.hk/search?q=gpt2+github&newwindow=1&client=ubuntu-sn&hs=f2P&sca_esv=e2666d891400fe50&sca_upv=1&channel=fs&ei=XlfmZtOTFp_FkPIPoqD76A0&ved=0ahUKEwjTuo7Vg8SIAxWfIkQIHSLQHt0Q4dUDCA8&uact=5&oq=gpt2+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2dwdDIgZ2l0aHViMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSLIQUPUOWPUOcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACB5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+GPT2/src/gpt2/modeling/feedforward.py at master · affjljoo3581/GPT2
+https://github.com/affjljoo3581/GPT2/blob/master/src/gpt2/modeling/feedforward.py
+
+llama2 github - Google 搜索
+https://www.google.com.hk/search?q=llama2+github&newwindow=1&client=ubuntu-sn&hs=v3P&sca_esv=e2666d891400fe50&sca_upv=1&channel=fs&ei=rFfmZtrgKMvbkPIP_oOtuQc&ved=0ahUKEwja5rn6g8SIAxXLLUQIHf5BK3cQ4dUDCA8&uact=5&oq=llama2+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWxsYW1hMiBnaXRodWIyBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGAoYHjIGEAAYChgeMgYQABgKGB4yBhAAGAUYHjIIEAAYBRgKGB4yCBAAGAUYChgeMggQABgFGAoYHkjwJVD-BliIJXADeAGQAQCYAZsDoAGEHaoBCDItMTAuMi4xuAEDyAEA-AEBmAIQoALsHcICChAAGLADGNYEGEfCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICDRAuGIAEGEMY1AIYigXCAgsQLhiABBjRAxjHAcICEBAuGIAEGNEDGEMYxwEYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEBwgIIEC4YgAQY1ALCAgcQABiABBgKwgIFEC4YgATCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICBBAAGB6YAwCIBgGQBgi6BgYIARABGBSSBwozLjAuMTAuMi4xoAfObg&sclient=gws-wiz-serp
+
+llama/llama/generation.py at main · meta-llama/llama
+https://github.com/meta-llama/llama/blob/main/llama/generation.py
+
+karpathy/llama2.c: Inference Llama 2 in one file of pure C
+https://github.com/karpathy/llama2.c
+
+pytorch github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pytorch+github
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+cmake github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cmake+github
+
+Kitware/CMake: Mirror of CMake upstream repository
+https://github.com/Kitware/CMake
+
+ninja · Search · GitLab
+https://gitlab.kitware.com/search?search=ninja&nav_source=navbar&project_id=541&group_id=415&search_code=true&repository_ref=master
+
+Issue search results
+https://github.com/search?q=involves%3Avjeux&type=issues
+
+LiveSplit One
+https://one.livesplit.org/
+
+Algorithm-Arena/weekly-challenge-29-tech-cards
+https://github.com/Algorithm-Arena/weekly-challenge-29-tech-cards
+
+electron - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=electron
+
+Attention Is All You Need · Issue #76 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/76
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+cannot download nonexistent lean · Issue #118 · leanprover/elan
+https://github.com/leanprover/elan/issues/118
+
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Hixie's Natural Log
 http://ln.hixie.ch/
 
