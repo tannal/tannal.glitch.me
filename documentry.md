@@ -16,10 +16,11 @@ https://vimeo.com/18539129
 eBPF Documentary - Speakeasy Productions
 https://ebpfdocumentary.com/
 
-
 ebpf
 https://www.youtube.com/watch?v=Wb_vD3XZYOA
 
+kotlin documentry
+https://www.youtube.com/watch?v=E8CtE7qTb-Q
 
 k8s
 https://www.youtube.com/watch?v=BE77h7dmoQU

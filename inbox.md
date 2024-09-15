@@ -1,5 +1,9 @@
 # 2024-9-15 0 | 0
 
+pip install manimgl
+
+If you want to spread a message, you should really convince a few people and have those people to share your message, you can't just be shouting it yourself.
+
 https://dbweekly.com/issues/360
 
 We see many early days projects in rust
