@@ -2,6 +2,28 @@
 
 # inbox
 
+train on one machine with one gpu
+train on one machine with multiple gpus
+parallelism
+model parallelism
+data parallelism
+
+
+ggml-mnist gpt2(llm.c)
+train & infer
+deepspeed lora
+
+inference
+whisper.cpp
+llama.cpp
+stable-diffusion.cpp
+clip.cpp
+bark.cpp  
+
+fine-tuning
+lora QLora ...
+
+
 
 data 6 month
 train 6 month

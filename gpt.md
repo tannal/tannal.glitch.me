@@ -1,3 +1,113 @@
+当然，我很乐意为您介绍一些著名的开源定理证明系统实现。这些系统在数学和计算机科学领域广受认可，并且有活跃的社区支持。
+
+    Coq
+        仓库: https://github.com/coq/coq
+        语言: OCaml
+        描述: Coq 是一个交互式定理证明器，基于直觉类型理论。它被广泛用于形式化数学和验证软件系统。
+
+    Isabelle
+        仓库: https://isabelle.in.tum.de/repos/isabelle (使用 Mercurial)
+        语言: Standard ML, Scala
+        描述: Isabelle 是一个通用的定理证明助手，特别是其 Isabelle/HOL 版本在数学和计算机科学中广泛使用。
+
+    Lean
+        仓库: https://github.com/leanprover/lean4
+        语言: C++, Lean
+        描述: Lean 是一个相对较新但发展迅速的定理证明器，由微软研究院开发。它在数学界获得了很多关注。
+
+    Agda
+        仓库: https://github.com/agda/agda
+        语言: Haskell
+        描述: Agda 是一个依赖类型的函数式编程语言和定理证明助手。
+
+    HOL Light
+        仓库: https://github.com/jrh13/hol-light
+        语言: OCaml
+        描述: HOL Light 是一个用于数学证明的交互式定理证明系统。
+
+    Mizar
+        仓库: https://github.com/JUrban/deepmath/tree/master/mizar
+        语言: Pascal
+        描述: Mizar 是一个用于形式化数学的系统，拥有庞大的数学知识库。
+
+    Metamath
+        仓库: https://github.com/metamath/metamath-exe
+        语言: C
+        描述: Metamath 是一个用于形式化数学的小型而灵活的系统。
+
+    ACL2
+        仓库: https://github.com/acl2/acl2
+        语言: Common Lisp
+        描述: ACL2 是一个定理证明器和编程语言，主要用于硬件和软件验证。
+
+这些系统各有特点，适用于不同的场景：
+
+    Coq 和 Isabelle/HOL 在学术界和工业界都有广泛应用，特别是在软件验证方面。
+    Lean 正在数学界获得越来越多的关注，特别是在形式化复杂数学理论方面。
+    Agda 常用于类型理论和编程语言理论研究。
+    HOL Light 在数学证明方面有重要应用，例如证明了开普勒猜想。
+    Mizar 拥有大量形式化的数学知识。
+    Metamath 以其极简的基础系统而著称。
+    ACL2 在硬件验证领域有重要应用。
+
+选择哪个系统取决于您的具体需求和背景。如果您是初学者，Lean 或 Coq 可能是不错的起点，因为它们有良好的文档和活跃的社区支持。
+
+use egg::{rewrite as rw, *};
+
+fn main() {
+    // 定义我们的语言
+    define_language! {
+        enum Math {
+            "+" = Add([Id; 2]),
+            "*" = Mul([Id; 2]),
+            "^" = Pow([Id; 2]),
+            Num(i32),
+            Symbol(Symbol),
+        }
+    }
+
+    // 定义重写规则
+    let rules: &[Rewrite<Math, ()>] = &[
+        rw!("commute-add"; "(+ ?a ?b)" => "(+ ?b ?a)"),
+        rw!("commute-mul"; "(* ?a ?b)" => "(* ?b ?a)"),
+        rw!("add-0"; "(+ ?a 0)" => "?a"),
+        rw!("mul-0"; "(* ?a 0)" => "0"),
+        rw!("mul-1"; "(* ?a 1)" => "?a"),
+        rw!("square"; "(^ ?a 2)" => "(* ?a ?a)"),
+        rw!("distribute"; "(* ?a (+ ?b ?c))" => "(+ (* ?a ?b) (* ?a ?c))"),
+    ];
+
+    // 创建一个空的EGraph
+    let mut egraph: EGraph<Math, ()> = Default::default();
+
+    // 添加毕达哥拉斯定理的左边和右边
+    let lhs = egraph.add_expr(&"(+ (^ a 2) (^ b 2))".parse().unwrap());
+    let rhs = egraph.add_expr(&"(^ c 2)".parse().unwrap());
+
+    // 运行重写
+    let mut runner = Runner::default().with_egraph(egraph).run(rules);
+
+    // 检查左边和右边是否在同一个等价类中
+    if runner.egraph.find(lhs) == runner.egraph.find(rhs) {
+        println!("毕达哥拉斯定理的代数形式已经被证明！");
+    } else {
+        println!("未能证明毕达哥拉斯定理的代数形式。");
+    }
+
+    // 打印最终的 e-graph
+    println!("最终的 e-graph:");
+    for class in runner.egraph.classes() {
+        println!("Class {:?}:", class.id);
+        for node in class.nodes.iter() {
+            println!("  {:?}", node);
+        }
+    }
+}
+
+定理证明助手:如Coq、Isabelle、Lean等,它们可以辅助数学家进行形式化证明。
+自动定理证明器:如Vampire、E、Z3等,能够在特定领域内自动推导和验证定理。
+计算机代数系统:如Mathematica、Maple等,可以处理符号计算和一些数学推导。
+形式化数学项目:如Mizar、Metamath等,致力于将数学知识形式化。
 
   hyai conda create --name tm-pytorch-cuda11.8 --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
 Source:      /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv

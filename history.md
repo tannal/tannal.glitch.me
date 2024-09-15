@@ -1,5 +1,116 @@
 # 2024-9-15
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Hixie's Natural Log
+http://ln.hixie.ch/
+
+corysama's comments | Hacker News
+https://news.ycombinator.com/threads?id=corysama
+
+video support · Issue #12 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/12
+
+Benchmark ? · Issue #15 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/15
+
+becausecurious/stable-video-diffusion-img2vid-fp16 at main
+https://huggingface.co/becausecurious/stable-video-diffusion-img2vid-fp16/tree/main
+
+Issue search results
+https://github.com/search?q=involves%3Ahixie&type=issues
+
+Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science
+https://ai.stanford.edu/~kzliu/blog/unlearning
+
+Distributed Deep Learning - Pentium.Labs - 博客园
+https://www.cnblogs.com/pdev/p/11528359.html
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+cepe - 19-guest-lecture-long-context.pdf
+https://mlsyscourse.org/slides/19-guest-lecture-long-context.pdf
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#transformers
+
+kohya-ss/misc-models · Hugging Face
+https://huggingface.co/kohya-ss/misc-models
+
+Deep Learning, NLP, and Representations - colah's blog
+https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1204) #xilem > Scrolling is insanely laggy - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Scrolling.20is.20insanely.20laggy
+
+Grid layout by jaredoconnell · Pull Request #570 · linebender/xilem
+https://github.com/linebender/xilem/pull/570/files
+
+safe tensors - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=safe+tensors
+
+TheBloke (Tom Jobbins)
+https://huggingface.co/TheBloke
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+attension is all you need - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=attension+is+all+you+need
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+Mathematica - Google 搜索
+https://www.google.com.hk/search?q=Mathematica+&newwindow=1&client=ubuntu-sn&hs=v8j&sca_esv=1c23d3a7d6e37ba2&sca_upv=1&channel=fs&ei=4U7mZvLYEsqqur8Px-nsyQM&ved=0ahUKEwiyzfXI-8OIAxVKle4BHcc0OzkQ4dUDCA8&uact=5&oq=Mathematica+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDE1hdGhlbWF0aWNhIDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0j5CFCOB1iOB3ACeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgKgAhSYAwCIBgGQBgqSBwEyoAcA&sclient=gws-wiz-serp
+
+Mathics: A free, open-source alternative to Mathematica | Hacker News
+https://news.ycombinator.com/item?id=33477793
+
+SageMath - Open-Source Mathematical Software System
+https://www.sagemath.org/
+
+Sage - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Sage
+
+Mathics github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Mathics+github
+
+Mathics3
+https://github.com/Mathics3
+
+SageMath - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=SageMath
+
+sagemath/sage: Main repository of SageMath
+https://github.com/sagemath/sage
+
+SymPy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=SymPy
+
+sympy/sympy: A computer algebra system written in pure Python
+https://github.com/sympy/sympy
+
+SymPy
+https://www.sympy.org/en/index.html
+
+coq/coq: Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+https://github.com/coq/coq
+
+Releases · leanprover/elan
+https://github.com/leanprover/elan/releases
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

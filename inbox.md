@@ -1,3 +1,53 @@
+# 2024-9-15 0 | 0
+
+
+
+TheBloke的模型：
+TheBloke是Hugging Face上非常活跃的贡献者，提供了许多GGML和GGUF格式的模型。
+例如：
+Stable Diffusion 1.5 GGUF：
+https://huggingface.co/TheBloke/stable-diffusion-v1-5-gguf
+Stable Diffusion XL GGUF：
+https://huggingface.co/TheBloke/stable-diffusion-xl-base-1.0-gguf
+Kohya的SD模型：
+https://huggingface.co/kohya-ss/sd-models-GGUF
+DALL-E 3 GGUF（虽然不是Stable Diffusion，但也是类似的图像生成模型）：
+https://huggingface.co/luminous-beings/dall-e-3-gguf
+
+官方Stable Diffusion模型：
+SD 1.4, 1.5
+SD 2.0, 2.1
+SD-XL 0.9, 1.0
+SD-Turbo
+Stable Video Diffusion (SVD):
+这是Stability AI在2023年推出的视频生成模型。SVD基于Stable Diffusion，但扩展到了视频领域。它包括：
+SVD
+SVD-XT（扩展版本，支持更长的视频）
+著名的微调/自定义模型：
+Midjourney（虽然不是直接基于SD，但常与之比较）
+Anything V3/V4/V5（动漫风格）
+Realistic Vision
+Dreamshaper
+Deliberate
+ChilloutMix（真人风格）
+Counterfeit（动漫风格）
+AbyssOrangeMix（混合风格）
+Waifu Diffusion（动漫风格）
+特定领域模型：
+ControlNet（允许更精确的图像控制）
+InstructPix2Pix（图像编辑）
+Stable Diffusion Inpainting（图像修复）
+DALL-E 2（虽然不是SD，但是类似的文本到图像模型）
+多模态模型：
+LLaVA（Large Language and Vision Assistant）
+CLIP（Contrastive Language-Image Pre-Training）
+优化版本：
+SDXL-Turbo（快速推理）
+SD 1.5 ONNX（针对不同硬件优化）
+
+safetensors from huggiceface
+
+
 # 2024-9-14 0 | 0
 
 tannal@desktop:~/tannalwork/projects/gecko$ MOZCONFIG=mozconfig.jsshell ./mach jstests
