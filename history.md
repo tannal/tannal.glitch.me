@@ -1,5 +1,95 @@
 # 2024-9-15
 
+node.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Vjeux
+https://blog.vjeux.com/
+
+WebKitGTK and WPEWebKit Switching to Skia for 2D Graphics Rendering | Carlos Garcia Campos
+https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Tips and Tricks for Node.js Core Development and Debugging | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=japanese%20indie%20games%20documentary%0A&op=translate
+
+slava egorov - Google 搜索
+https://www.google.com.hk/search?q=slava+egorov&newwindow=1&client=ubuntu-sn&hs=DNW&sca_esv=dc6643e734f963b7&sca_upv=1&channel=fs&ei=b7bmZuCgKtOwur8PobmCiAM&ved=0ahUKEwiglIeq3sSIAxVTmO4BHaGcADEQ4dUDCA8&uact=5&oq=slava+egorov&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHNsYXZhIGVnb3JvdjIHEAAYgAQYEzIGEAAYExgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjJflCWcljnfXABeAGQAQCYAaUCoAH5CqoBAzItNbgBA8gBAPgBAZgCBqACnAvCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIHEAAYgAQYCsICDBAAGIAEGEMYigUYCsICBBAAGB6YAwCIBgGQBgWSBwcxLjAuNC4xoAfzCg&sclient=gws-wiz-serp
+
+(6) The runtime that makes Dart tick - Slava Egorov - YouTube
+https://www.youtube.com/watch?v=jV2Zx3hjHPc
+
+tannal (tannal)
+https://github.com/tannal
+
+(42) Discord | "Velyst (Typst + Vello + Bevy)" | Typst
+https://discord.com/channels/1054443721975922748/1283731521190105108
+
+(1201) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
+
+No module named 'manimlib.mobject.svg.old_tex_mobject' · Issue #59 · 3b1b/videos
+https://github.com/3b1b/videos/issues/59
+
+Issues · 3b1b/manim
+https://github.com/3b1b/manim/issues
+
+Example Scenes - manim documentation
+https://3b1b.github.io/manim/getting_started/example_scenes.html
+
+Wiki search results
+https://github.com/search?q=repo%3A3b1b%2Fmanim+Cairo&type=wikis
+
+mp4 support for rust - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mp4+support+for+rust
+
+alfg/mp4-rust: MP4 reader + writer library in Rust! 🎥🦀
+https://github.com/alfg/mp4-rust
+
+Avoid one allocation in Signature::Builder (4138268) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4138268
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=1&prefix=true&query=documentry&sort=byPopularity&type=story
+
+Noclip Documentary Video Collection : Free Movies : Free Download, Borrow and Streaming : Internet Archive
+https://archive.org/details/noclip
+
+(6) Beyond The Success Of Kotlin / The Documentary by EngX - YouTube
+https://www.youtube.com/watch?v=E8CtE7qTb-Q
+
+(6) Branching Paths (2016, Anne Ferrero) full movie w/ subs - japanese indie games documentary - YouTube
+https://www.youtube.com/watch?v=3Z_dA4dzJ-s
+
+(6) Official PyTorch Documentary: Powering the AI Revolution - YouTube
+https://www.youtube.com/watch?v=rgP_LBtaUEc&t=994s
+
+kotlin in action second edition pdf github - Google 搜索
+https://www.google.com.hk/search?q=kotlin+in+action+second+edition+pdf+github&newwindow=1&client=ubuntu-sn&hs=XVD&sca_esv=bcbd379841abd8b8&sca_upv=1&channel=fs&ei=eNHmZpbdNMivur8PtuCFgAs&oq=kotlin+in+action+se&gs_lp=Egxnd3Mtd2l6LXNlcnAiE2tvdGxpbiBpbiBhY3Rpb24gc2UqAggBMgUQLhiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIUEC4YgAQYlwUY3AQY3gQY4ATYAQFImAxQ_gFYsgRwAXgBkAEAmAG4AqAB3AaqAQUyLTIuMbgBAcgBAPgBAZgCBKAChQfCAgoQABiwAxjWBBhHmAMAiAYBkAYJugYGCAEQARgUkgcHMS4wLjIuMaAHkRQ&sclient=gws-wiz-serp
+
+Kotlin/kotlin-in-action-2e: Code samples for the second edition of "Kotlin in Action".
+https://github.com/Kotlin/kotlin-in-action-2e
+
+Multibuffers - Zed
+https://zed.dev/docs/multibuffers
+
+ChatGGG
+http://192.168.43.1:8080/
+
+React Documentry
+http://localhost:1313/p/react-documentry/
+
+Jorden creator of react - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Jorden+creator+of+react
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
