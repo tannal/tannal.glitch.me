@@ -6,7 +6,7 @@ tannal@desktop:~/tannalwork/projects/gecko$ MOZCONFIG=mozconfig.jsshell ./mach j
 uncaught exception: out of memory
 REGRESSION - test262/prs/4213/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-v-flag.js
 [45809|    1|    0| 6273] 100% ======================================>|  46.9s
-REGRESSIONS
+REGRESSIONSp
     test262/prs/4213/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-v-flag.js
 FAIL
 

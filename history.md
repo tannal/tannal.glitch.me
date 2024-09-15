@@ -1,3 +1,92 @@
+# 2024-9-15
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1234947 - Array element access is too slow when the Array length does not fit into int32_t.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1234947
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=arai.unmht%40gmail.com&list_id=17220921
+
+1904995 - Redundant DisposeDisposables at the end of for-of loop
+https://bugzilla.mozilla.org/show_bug.cgi?id=1904995
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal (tannal)
+https://github.com/tannal
+
+wasmtime - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wasmtime
+
+Bytecode Alliance
+https://github.com/bytecodealliance
+
+Element [6] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+(253) #general > Offline demo webpages - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Offline.20demo.20webpages
+
+servo/servo-experiments: A collection of experiments for Servo
+https://github.com/servo/servo-experiments
+
+(1370) Search results - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/search/simd
+
+TinyGo
+https://github.com/tinygo-org
+
+AIE-ML Architecture • Versal Adaptive SoC AIE-ML Architecture Manual (AM020) • Reader • AMD Technical Information Portal
+https://docs.amd.com/r/en-US/am020-versal-aie-ml/AIE-ML-Architecture
+
+(1246) #xilem > Keyboard driven GUI? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Keyboard.20driven.20GUI.3F
+
+(42) Discord | #lecture4-batchnorm | Eureka Labs
+https://discord.com/channels/1020383067459821711/1029850000081039420
+
+Comparing WebKit:main...tannal:eng/arm64-disassembler · WebKit/WebKit
+https://github.com/WebKit/WebKit/compare/main...tannal:WebKit:eng/arm64-disassembler
+
+Trained and LoRA fine-tuned the models to follow instructions for writing tiny stories · Issue #373 · karpathy/llama2.c
+https://github.com/karpathy/llama2.c/issues/373
+
+qlora - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=qlora
+
+QLORA: Efficient Finetuning of Quantized LLM · Issue #75 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/75
+
+claude 3 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=claude+3
+
+Home \ Anthropic
+https://www.anthropic.com/
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Dario Amodei
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=taN&sca_esv=7bc8da374998b6c4&sca_upv=1&channel=fs&q=Dario+Amodei&stick=H4sIAAAAAAAAAONQFuLVT9c3NEwzyM02L0vKUoJxKwtzkgqTTjGiSp9i5NTP1TcwyspLKTjFyAFiZ6QbJ0OFjfOq0gxPMXKB2PEZBiZGuVAJszxzcxOEWRCzfzHaBaXmJJakpiiU5Cs82T_3-b7WQ9uftna_bO95Nm39i0lNT3bNe7F6n0JiXorCy8YpQOGnS5cf2v5yxv4Xfatf7F-1iwXVcQg-xIJFrDwuiUWZ-QqOufkpqZkT2BhvsUkydD_tMfZZmse2369RSpy9ej_T7MMBtybmPgAAUjW8uQsBAAA&sa=X&stq=1&lei=7DLmZs-BIdHZkPIPm5SRgA4
+
+AI Alignment
+https://ai-alignment.com/
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit/tree/main
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls/joyeecheung
+
+KTV in 9-11
+https://tannal.github.io/p/ktv-in-9-11/
+
 # 2024-9-14
 
 表格查询 - Poe
