@@ -1,6 +1,11 @@
 # dev
 
-./mach run -d -- ./tests/wpt/tests/css/css-tables/table-cell-overflow-auto.htm
+./mach run --devtools=6080 ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html -- --debug dump-display-list
+
+./mach test-wpt ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-row-001
+
+
+./mach run -d -- ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-row-001
 
 ./mach try
 

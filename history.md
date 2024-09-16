@@ -1,3 +1,95 @@
+# 2024-9-16
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+servo/webrender: A GPU-based renderer for the web
+https://github.com/servo/webrender
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Using DevTools - The Servo Book
+https://book.servo.org/hacking/using-devtools.html
+
+Element [5] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1179) #xilem > Startup white background flash on Windows dark mode - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Startup.20white.20background.20flash.20on.20Windows.20dark.20mode
+
+octplane (octplane) / Repositories
+https://github.com/octplane?tab=repositories
+
+Lottie Preview
+https://www.lottie-editor.vgx.dev/
+
+Graphite github - Google 搜索
+https://www.google.com.hk/search?q=Graphite+github&newwindow=1&client=ubuntu-sn&hs=Pz4&sca_esv=c1b25dfc19b526b8&sca_upv=1&channel=fs&ei=5ofnZtWCJNm7kPIPqsrbgA8&ved=0ahUKEwjVjbmLpsaIAxXZHUQIHSrlFvAQ4dUDCA8&uact=5&oq=Graphite+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0dyYXBoaXRlIGdpdGh1YjIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGAgYHhgPMgYQABgIGB5I-QxQ4QRY4QtwAXgBkAEAmAGsAqABgwuqAQUyLTQuMbgBA8gBAPgBAZgCBqACowvCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIGEAAYBRgemAMAiAYBkAYKkgcHMS4wLjQuMaAHuxM&sclient=gws-wiz-serp
+
+Graphite Project
+https://github.com/graphite-project
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Pierre Baillet's homepage – Pierre Baillet's Website, posts, opinions and technical stuff
+https://octplane.github.io/
+
+tannal
+https://tannal.github.io/
+
+Nicolas Silva - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nicolas+Silva
+
+nical (Nicolas Silva)
+https://github.com/nical
+
+GPUI - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=GPUI
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+(42) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+y-crdt/yrs/src/observer.rs at main · y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/blob/main/yrs/src/observer.rs
+
+Deep dive into Yrs architecture
+https://www.bartoszsypytkowski.com/yrs-architecture/
+
+You might not need a CRDT | Hacker News
+https://news.ycombinator.com/item?id=33865672
+
+[css-tables-3] Table height redistribution algorithm · Issue #4418 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/4418
+
+atotic/event-loop: Deep dive into JavaScript event loop
+https://github.com/atotic/event-loop
+
+The collapsed border model - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+collapsed+border+model
+
+border-collapse - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse
+
+CSS 2
+https://drafts.csswg.org/css2/#propdef-border-collapse
+
 # 2024-9-15
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
