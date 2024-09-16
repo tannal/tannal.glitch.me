@@ -1,5 +1,7 @@
 # dev
 
+./mach run -d -- ./tests/wpt/tests/css/css-tables/table-cell-overflow-auto.htm
+
 ./mach try
 
 RUST_BACKTRACE=1

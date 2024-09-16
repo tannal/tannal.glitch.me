@@ -1,5 +1,9 @@
 # 2024-9-15 0 | 0
 
+https://github.com/GraphiteEditor/Graphite
+
+# 2024-9-15 0 | 0
+
 pip install manimgl
 
 If you want to spread a message, you should really convince a few people and have those people to share your message, you can't just be shouting it yourself.
