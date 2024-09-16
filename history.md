@@ -1,5 +1,65 @@
 # 2024-9-16
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement Redeclarable global eval-introduced vars proposal [366491591] - Chromium
+https://issues.chromium.org/issues/366491591
+
+⚙ D222197 Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D222197#7635984
+
+⚙ D222197 Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D222197
+
+⚙ D222197 Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D222197
+
+tannal/WebKit at eng/arm64-disassembler
+https://github.com/tannal/WebKit/tree/eng/arm64-disassembler
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Element [7] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D222197 Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D222197#7636117
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436?tab=comments
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+1917924 - Remove network.http.reject_NULs_in_response_header_values pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917924
+
+httpwg/http-core: Core HTTP Specifications
+https://github.com/httpwg/http-core
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=That%27s%20neat.&op=translate
+
+…/pipeline-data-inl.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436/1..2/src/compiler/pipeline-data-inl.h#b383
+
+⚙ D222271 Bug 1917924 - Remove network.http.reject_NULs_in_response_header_values pref. r?gregp
+https://phabricator.services.mozilla.com/D222271
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

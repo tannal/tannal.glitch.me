@@ -569,8 +569,11 @@ igalia申请 deadline
 
 # 2024-9-15 - 2024-9-22
 
+[] follow up pr for test262 
+[] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
+[] hash function compile cache
 [] github issues can be used as a database I can build various dbms system using github public api.
-
+[] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust.
 [] webkit javascriptCore pr
 [] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
@@ -649,7 +652,7 @@ cv for igalia
 [] 9.10 lean blocking on review
 [x] waiting for review https://github.com/nodejs/node/pull/54712 fast api for blobl revokeObjectURLString
 [x] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
-[] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
+[x] test 262 v flag tests https://github.com/tc39/test262/pull/4213 *igalia* *frontend* *open source*
 [x] 选课 9.1 24:00 17:00，退补选
 
 [x] 9.5 11.40 gift实验室 同学 *graduate*

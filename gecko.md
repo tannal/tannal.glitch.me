@@ -22,6 +22,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1917924 - Remove network.http.reject_NULs_in_response_header_values pref. r?gregp
+
 Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
 
 Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai
@@ -57,6 +59,8 @@ https://bugzilla.mozilla.org/user_profile?login=mgaudet%40mozilla.com
 mgaudet@mozilla.com
 
 # dev
+
+https://github.com/httpwg/http-core
 
 ./mach run file:///home/tannal/tannalwork/projects/servo/tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html > all_output.txt 2>&1
 
