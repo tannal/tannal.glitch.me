@@ -1,5 +1,116 @@
 # 2024-9-16
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Current Local Time in Edmonton, Alberta, Canada
+https://www.timeanddate.com/worldclock/canada/edmonton
+
+gitalk/gitalk: Gitalk is a modern comment component based on Github Issue and Preact.
+https://github.com/gitalk/gitalk?tab=readme-ov-file
+
+OAuth application settings
+https://github.com/settings/applications/2709013
+
+Element [5] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Element [5] | APZ
+https://chat.mozilla.org/#/room/#apz:mozilla.org
+
+739616 - Check or remove rv from GetUrlForUri() call, in nsMsgAttachmentHandler.cpp
+https://bugzilla.mozilla.org/show_bug.cgi?id=739616
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D221424 Bug 1917214 - Skip tests for redeclarable eval vars proposal in beta and release build. r?dminor
+https://phabricator.services.mozilla.com/D221424
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436?tab=comments
+
+Register new GitHub App
+https://github.com/settings/apps/new
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=ptal&op=translate
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+css for javascript developer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=css+for+javascript+developer
+
+CSS for JavaScript Developers | An online course that teaches the fundamentals of CSS for React/Vue devs
+https://css-for-js.dev/
+
+Josh W. Comeau
+https://www.joshwcomeau.com/
+
+joshwcomeau (joshwcomeau) / Repositories
+https://github.com/joshwcomeau?tab=repositories
+
+Trending - CodePen
+https://codepen.io/trending
+
+tannal (tannal)
+https://github.com/tannal/
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+OAuth application settings
+https://github.com/settings/applications/2709037
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
+(6) How to Teach CSS | Josh Comeau | CSS Day 2024 - YouTube
+https://www.youtube.com/watch?v=ZPTVr2pS0XE
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+tannal (tannal)
+https://github.com/tannal/
+
+VID_20240916_143839.mp4
+http://192.168.43.58:8080/storage/shared/DCIM/Camera/VID_20240916_143839.mp4
+
+CSS Day 2024
+https://tannal.github.io/p/css-day-2024/
+
+gittalk i is null cross origin - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gittalk+i+is+null+cross+origin
+
+Issues · go-gitea/gitea
+https://github.com/go-gitea/gitea/issues
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
