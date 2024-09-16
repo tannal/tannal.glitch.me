@@ -1,5 +1,8 @@
 # 2024-9-16 0 | 0
 
+curl -C - -L -O https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-nonema-pruned.safetensors
+curl -C - -L -O http://192.168.43.58:8080/storage/shared/DCIM/Camera/VID_20240916_143839.mp4
+
 Thanks for the review, PTAL again.
 https://github.com/GraphiteEditor/Graphite
 

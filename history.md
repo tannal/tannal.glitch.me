@@ -1,5 +1,44 @@
 # 2024-9-16
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+(2) 南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei/status/1834863733488992673/photo/2
+
+(9) Facebook
+https://www.facebook.com/shiwulo
+
+我对你是有点失望的 - Google 搜索
+https://www.google.com.hk/search?q=%E6%88%91%E5%AF%B9%E4%BD%A0%E6%98%AF%E6%9C%89%E7%82%B9%E5%A4%B1%E6%9C%9B%E7%9A%84&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%88%91%E5%AF%B9%E4%BD%A0%E6%98%AF&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgPGB4yCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYogQYiQUyCggHEAAYgAQYogQyCAgIEAAYBRge0gEINjEwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+第二季度 gdp - Google 搜索
+https://www.google.com.hk/search?q=%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6+gdp&newwindow=1&sca_esv=dbcb33e9ec1b098b&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKC5R-PC4sTcFsVkFYfNyjL8bdNhg%3A1726365954051&ei=AkHmZu7vAuOqur8PiKXQoQE&ved=0ahUKEwju-MWr7sOIAxVjle4BHYgSNBQQ4dUDCA8&uact=5&oq=%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6+gdp&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOesrOS6jOWto-W6piBnZHAyChAAGIAEGLADGAwyCxAAGIAEGLADGKIEMgkQABiwAxgHGB4yCRAAGLADGAcYHjILEAAYgAQYsAMYogQyCxAAGLADGKIEGIkFMgsQABiwAxiiBBiJBUjkBlAAWABwAXgAkAEAmAGlAqABpQKqAQMyLTG4AQPIAQCYAgGgAhKYAwCIBgGQBgeSBwExoAfJAg&sclient=gws-wiz-serp
+
+(2) Slava Egorov (@mraleph) / X
+https://x.com/mraleph
+
+电子签名 - Google 搜索
+https://www.google.com.hk/search?q=%E7%94%B5%E5%AD%90%E7%AD%BE%E5%90%8D&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%94%B5%E5%AD%90%E7%AD%BE%E5%90%8D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIxODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+免费在线签名生成器 | 在线 AI 签名制作器
+https://www.sign.plus/zh/online-signature-generator
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=5c282f3ea9179411&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKLL0wEqN67UpsL9D0UZsH8wTdu2g:1726461395748&q=%E7%BE%8E%E8%81%94%E5%82%A8&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi769jx0caIAxUCD0QIHfX_ATMQt8YBKAF6BAgMEAQ&biw=1280&bih=593&dpr=1.5
+
+零食很忙 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=5c282f3ea9179411&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILfMLU3q2hnzvrNRKLOkMUJh6mKHA:1726461512341&q=%E9%9B%B6%E9%A3%9F%E5%BE%88%E5%BF%99&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiUkKWp0saIAxW-IkQIHX1GBecQtKgLegQIFhAB&biw=1280&bih=593&dpr=1.5
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
