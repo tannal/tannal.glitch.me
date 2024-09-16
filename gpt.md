@@ -1,4 +1,89 @@
 
+使用内置的调试页面：
+    Chrome: chrome://internals/
+    Firefox: about:debugging
+    这些页面提供了大量内部信息和调试选项。
+
+性能分析工具：
+    Chrome的Lighthouse
+    Firefox的Performance工具
+    这些工具可以帮助识别性能瓶颈和渲染问题。
+
+内存泄漏检测：
+使用Chrome的Memory面板或Firefox的内存工具来检测和分析内存问题。
+
+网络请求分析：
+使用浏览器的Network面板详细分析网络请求和响应。
+
+远程调试：
+    Chrome的remote debugging protocol
+    Firefox的remote debugging protocol
+    这允许你从外部工具或脚本控制浏览器。
+
+使用命令行开关：
+    Chrome: --js-flags, --enable-logging
+    Firefox: -jsconsole, -profile
+
+插桩和跟踪：
+在源代码中添加日志输出或使用专门的跟踪工具。
+
+使用调试器：
+    对于Chromium，使用gdb或lldb
+    对于Firefox，使用rr进行时间旅行调试
+
+可视化工具：
+    Chrome的Layers面板可视化渲染层
+    Firefox的Shader Editor用于WebGL调试
+
+模拟器和仿真器：
+使用不同的设备模拟器测试响应式设计和性能。
+
+自定义扩展：
+开发Chrome扩展或Firefox插件来添加自定义调试功能。
+
+源代码注释：
+浏览引擎源代码中的TODO和FIXME注释，了解潜在问题和改进点。
+
+实验性功能标志：
+启用浏览器的实验性功能来测试新特性。
+
+控制台API：
+使用console.time(), console.profile()等高级控制台API。
+
+条件断点和日志点：
+在开发者工具中设置条件断点和日志点，而不是修改源代码。
+
+网络节流：
+使用浏览器的网络节流功能模拟不同的网络条件。
+
+覆盖和本地覆盖：
+使用Chrome DevTools的Overrides功能修改线上资源。
+
+快照比较：
+使用内存快照比较功能识别内存变化。
+
+事件监听器调试：
+使用Event Listener Breakpoints来调试特定事件。
+
+WebAssembly调试：
+使用浏览器的WebAssembly调试工具。
+
+服务工作线程调试：
+使用专门的Service Workers调试工具。
+
+安全性分析：
+使用浏览器的安全面板分析内容安全策略等。
+
+辅助功能测试：
+使用辅助功能审核工具检查网页的可访问性。
+
+CSS概览：
+使用Chrome的CSS Overview面板分析CSS使用情况。
+
+3D视图：
+使用3D视图工具可视化DOM结构。
+
+
 根据Nicolas Silva的描述,她没有直接提到WebRender的不足之处。相反,她在讨论一个新的路径光栅化器原型,旨在改进WebRender的某些方面:
 
 性能提升:新原型旨在比WebRender当前的方法更快。目前WebRender通过CPU上的Skia重放绘图命令,而新方法试图更高效。

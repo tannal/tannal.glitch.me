@@ -58,6 +58,52 @@ mgaudet@mozilla.com
 
 # dev
 
+./mach run file:///home/tannal/tannalwork/projects/servo/tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html > all_output.txt 2>&1
+
+您说得对,Firefox确实也能打印出中间数据结构,包括传给WebRender的display list。要在Firefox中实现这一点,我们可以采取以下步骤:
+
+    启用调试输出:
+
+    打开 about:config,搜索并设置以下首选项:
+
+gfx.webrender.debug.display-lists = true
+gfx.webrender.debug.dump-display-lists = true
+
+使用环境变量:
+
+在启动Firefox时设置环境变量:
+bash
+
+MOZ_LOG="DisplayListBuilder:5" firefox
+
+这会输出DisplayListBuilder的详细日志。
+
+使用Gecko Profiler:
+
+    安装Gecko Profiler插件
+    在Profiler设置中启用"Graphics"选项
+    捕获一个profile,然后在"Marker Chart"中查找"DisplayListBuilding"标记
+
+使用WebRender调试工具:
+
+在 about:config 中设置:
+
+gfx.webrender.debug = true
+
+然后使用快捷键 Ctrl+Shift+Alt+I 打开WebRender调试工具。
+
+查看浏览器控制台:
+
+打开浏览器控制台(Ctrl+Shift+J),可能会看到一些相关的调试输出。
+
+编译调试版Firefox:
+
+如果您愿意编译Firefox,可以在源代码中添加更多的调试输出。
+
+使用远程协议:
+
+Firefox支持远程调试协议,您可以编写脚本来获取这些信息。 
+
 ./test262-update.py --pull 4213
 
 export MOZ_LOG=sLayoutLog:5
