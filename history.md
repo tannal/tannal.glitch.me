@@ -1,5 +1,65 @@
 # 2024-9-17
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+(7) Beyond The Success Of Kotlin / The Documentary by EngX - YouTube
+https://www.youtube.com/watch?v=E8CtE7qTb-Q
+
+电子签名，免费生成电子签名
+http://electronicsignature.wiicha.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Comparing 4db913769178d2aaae20413b995bb19e7801d7f7...main · oven-sh/WebKit
+https://github.com/oven-sh/WebKit/compare/4db913769178d2aaae20413b995bb19e7801d7f7...main
+
+alacritty_terminal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=alacritty_terminal+
+
+Issues · alacritty/alacritty
+https://github.com/alacritty/alacritty/issues?q=is%3Aissue+is%3Aopen+windows
+
+Pull requests · typst/typst
+https://github.com/typst/typst/pulls
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+Commits · v8/v8
+https://github.com/v8/v8/commits?author=tannal&since=2024-08-31&until=2024-09-17
+
+Training an AI for melody creating
+https://tannal.github.io/p/training-an-ai-for-melody-creating/
+
+vscode/src/vs/workbench/contrib/terminal/common/history.ts at ab6a1024293476f9b186a8c73c55a9d9d46e1b4a · microsoft/vscode
+https://github.com/microsoft/vscode/blob/ab6a1024293476f9b186a8c73c55a9d9d46e1b4a/src/vs/workbench/contrib/terminal/common/history.ts#L63
+
+电子签名 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E7%94%B5%E5%AD%90%E7%AD%BE%E5%90%8D
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
