@@ -1,4 +1,5 @@
-
+Stanislav Erokhin erokhins frontend
+brain goetz
 
 
 # people

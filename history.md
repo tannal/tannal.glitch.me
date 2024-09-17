@@ -6,6 +6,90 @@ https://github.dev/tannal/tannal.glitch.me
 music21_setup.ipynb - Colab
 https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
 
+(8) Beyond The Success Of Kotlin / The Documentary by EngX - YouTube
+https://www.youtube.com/watch?v=E8CtE7qTb-Q
+
+Kotlin/KMP-App-Template-Native: Kotlin Multiplatform app template with native UI
+https://github.com/Kotlin/KMP-App-Template-Native?tab=readme-ov-file
+
+terrakok/kmp-awesome: An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
+https://github.com/terrakok/kmp-awesome
+
+Is android studio an open source project? - Stack Overflow
+https://stackoverflow.com/questions/22420726/is-android-studio-an-open-source-project
+
+platform/tools/adt/idea - Git at Google
+https://android.googlesource.com/platform/tools/adt/idea/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+Platform/GFX/Contribute - MozillaWiki
+https://wiki.mozilla.org/Platform/GFX/Contribute
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+99% - [7] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=4ad4230a4e1cadc7c70fdddde8f20420f106fa60
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7638453
+
+Linux - Zed
+https://zed.dev/docs/development/linux
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+sasha doov kotlin - Google 搜索
+https://www.google.com.hk/search?q=sasha+doov+kotlin&newwindow=1&client=ubuntu-sn&hs=fAJ&sca_esv=72aaa3890415b76e&sca_upv=1&channel=fs&ei=IpPpZqGgMOH0kPIP0-aM0Q4&ved=0ahUKEwihufaKmcqIAxVhOkQIHVMzI-oQ4dUDCA8&uact=5&oq=sasha+doov+kotlin&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXNhc2hhIGRvb3Yga290bGluMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSKEVUNsDWMMTcAF4AJABAJgBwAKgAfoNqgEFMi00LjK4AQPIAQD4AQGYAgKgAucEwgIFECEYoAGYAwCIBgGSBwUyLTEuMaAHiwc&sclient=gws-wiz-serp
+
+erokhins (Stanislav Erokhin)
+https://github.com/erokhins
+
+brain goetz - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=brain+goetz
+
+…/signature.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4138268/4/src/codegen/signature.h
+
+jake wharton - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jake+wharton
+
+JakeWharton (Jake Wharton)
+https://github.com/JakeWharton
+
+jonathan levin android - Google 搜索
+https://www.google.com.hk/search?q=jonathan+levin+android&newwindow=1&client=ubuntu-sn&hs=6oJ&sca_esv=825e01edc18a56f7&sca_upv=1&channel=fs&ei=7ZzpZr3EDO6jkPIPjdz16QE&oq=Jonathan+Levin+&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0pvbmF0aGFuIExldmluICoCCAEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESKkQUJQBWJQBcAF4AZABAJgB0AKgAdACqgEDMy0xuAEByAEA-AEBmAICoALdAsICChAAGLADGNYEGEeYAwCIBgGQBgGSBwUxLjMtMaAHvAY&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=android%20internals&sort=byPopularity&type=story
+
+cstest - AppendixA.pdf
+https://newosxbook.com/files/moxii3/AppendixA.pdf
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543/ref=pd_sbs_d_sccl_1_1/143-5348609-1833821?pd_rd_w=lqzoR&content-id=amzn1.sym.156274ff-6322-443d-8bbf-ab3ed87e382f&pf_rd_p=156274ff-6322-443d-8bbf-ab3ed87e382f&pf_rd_r=ZV95R74KXVR7GCCN9YP4&pd_rd_wg=p4Vni&pd_rd_r=3ad06496-55aa-486b-8d97-fd2b0023a768&pd_rd_i=0991055543&psc=1
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=I%20was%20about%20to%20post%20this%2C%20then%20I%20searched%20and%20it%20was%20already%20posted.%0A%0AThe%20author%20says%20the%20book%20was%20being%20illegally%20distributed%20by%20a%20CIA%20agent%20and%20then%20Wikileaks%20and%20that%20you%20can%27t%20trust%20their%20copies%20because%20it%20may%20include%20PDF%20zero%20days.%20But%20he%20is%20another%20security%20guy%20so%2C%20can%20we%20really%20trust%20his%20copy%3F%0A%0AI%20just%20downloaded%20and%20started%20reading%20anyway%20%3A)%20I%20think%20it%20looks%20pretty%20fun.%20A%20nice%20complementary%20book%20besides%20Karim%20Yagmour%27s%20Embedded%20Android.%0A%0AYou%20can%20also%20buy%20the%20original%20one%20if%20you%20want%20to%20have%20info%20on%20Marshmallow%20and%20Nougat.%20Or%20you%20can%20wait%20until%20files%20of%20another%20intelligence%20agency%20is%20dumped%20on%20the%20interne&op=translate
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
 (7) Beyond The Success Of Kotlin / The Documentary by EngX - YouTube
 https://www.youtube.com/watch?v=E8CtE7qTb-Q
 
