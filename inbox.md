@@ -1,6 +1,8 @@
 # 2024-9-17 0 | 0
 
+source ~/tannalwork/projects/emsdk/emsdk_env.sh
 
+emcc tokenizer.c -o tokenizer.wasm -s WASM=1 -s EXPORTED_FUNCTIONS='["_malloc", "_free", "_tokenize", "_initialize"]' -s EXPORTED_RUNTIME_METHODS='["ccall", "cwrap"]' -s ALLOW_MEMORY_GROWTH=1
 
 # 2024-9-16 0 | 0
 
