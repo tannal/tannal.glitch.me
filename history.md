@@ -3,6 +3,57 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Hardware Tester - Online MIDI Keyboard Tester
+https://hardwaretester.com/midi
+
+web midi online - Google 搜索
+https://www.google.com.hk/search?q=web+midi+online&rlz=1C1GCEA_enJP1090JP1090&oq=web+midi+online&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMjY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+New song *
+https://signal.vercel.app/edit
+
+登陆 - NENUOJ
+http://39.101.69.154/loginpage.php
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+Issues · cifkao/html-midi-player
+https://github.com/cifkao/html-midi-player/issues?q=is%3Aissue+is%3Aopen+.midi
+
+cifkao/html-midi-player: 🎹 Play and display MIDI files on the web
+https://github.com/cifkao/html-midi-player
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+midi to text - Google 搜索
+https://www.google.com.hk/search?q=midi+to+text&rlz=1C1GCEA_enJP1090JP1090&oq=midi+to+text&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjE1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+MIDI2txt/run.sh at master · TheAussieTinker/MIDI2txt
+https://github.com/TheAussieTinker/MIDI2txt/blob/master/run.sh
+
+新建聊天 - Poe
+https://poe.com/o1-preview-128k
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 music21_setup.ipynb - Colab
 https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
 
