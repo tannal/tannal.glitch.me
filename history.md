@@ -1,5 +1,86 @@
 # 2024-9-17
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+A Systematic Review of Experimental Paradigms for Exploring Biased Interpretation of Ambiguous Information with Emotional and Neutral Associations | 10.3389/fpsyg.2017.00171_Scihub
+https://bothonce.com/10.3389/fpsyg.2017.00171
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1205) #gpu > Recommendations for learning resources - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Recommendations.20for.20learning.20resources
+
+Vello anti-aliasing rendering seems not fine enough, how to improve it? · Issue #592 · linebender/vello
+https://github.com/linebender/vello/issues/592
+
+DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU
+https://github.com/DioxusLabs/blitz/
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+notpeter (Peter Tripp)
+https://github.com/notpeter
+
+View notpeter's full-sized avatar Peter Tripp - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+View+notpeter%27s+full-sized+avatar+Peter+Tripp+
+
+Claude 3.5 Sonnet not available in my country. · Issue #16844 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16844
+
+Sunny Khemlani - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Sunny+Khemlani
+
+Sangeet Khemlani – Computational cognitive scientist at the US Naval Research Laboratory
+https://khemlani.net/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=khemlani&sort=byPopularity&type=story
+
+JigsawStack/insanely-fast-whisper-api: An API to transcribe audio with OpenAI's Whisper Large v3!
+https://github.com/JigsawStack/insanely-fast-whisper-api?tab=readme-ov-file
+
+Vaibhavs10/insanely-fast-whisper
+https://github.com/Vaibhavs10/insanely-fast-whisper
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=insanely-fast-whisper%20&sort=byPopularity&type=story
+
+Issues · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/issues/64
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=Reasoning%20about%20relations%3A%20Spatial%20and%20nonspatial%20problems&op=translate
+
+When conclusions are drawn from unverified premises: A systematic review of experimental paradigms - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=When+conclusions+are+drawn+from+unverified+premises%3A+A+systematic+review+of+experimental+paradigms
+
+Frontiers | A Systematic Review of Experimental Paradigms for Exploring Biased Interpretation of Ambiguous Information with Emotional and Neutral Associations
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00171/full
+
+When conclusions are drawn from unverified premises: A systematic review of experimental paradigms - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=When+conclusions+are+drawn+from+unverified+premises%3A+A+systematic+review+of+experimental+paradigms
+
+Frontiers | A Systematic Review of Experimental Paradigms for Exploring Biased Interpretation of Ambiguous Information with Emotional and Neutral Associations
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00171/full
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
