@@ -1,3 +1,220 @@
+# 2024-9-17
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to get a job as a remote software developer • Josh W. Comeau
+https://www.joshwcomeau.com/career/remote-work-pt2/
+
+Generating MIDI without prepended primer when using --primer_midi · Issue #267 · magenta/magenta
+https://github.com/magenta/magenta/issues/267
+
+cuthbertLab/music21: music21 is a Toolkit for Computational Musicology
+https://github.com/cuthbertLab/music21?tab=readme-ov-file
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=RtkrxnZAYVg7
+
+magenta/magenta/models/music_vae at main · magenta/magenta
+https://github.com/magenta/magenta/tree/main/magenta/models/music_vae
+
+MusicVAE.ipynb - Colab
+https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb
+
+tannal (tannal)
+https://github.com/tannal
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.788.0.0#/whisper/mid844424930131966
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1296.0.0
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.1296.0.0#/whisper/mid844424930131966
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement Redeclarable global eval-introduced vars proposal [366491591] - Chromium
+https://issues.chromium.org/issues/366491591
+
+tc39/proposal-redeclarable-global-eval-vars: Make eval-introduced global vars redeclarable
+https://github.com/tc39/proposal-redeclarable-global-eval-vars
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Project v8 Run 8896471990854-1-c58c3ed58a45f679 - LUCI Change Verifier
+https://luci-change-verifier.appspot.com/ui/run/v8/8896471990854-1-c58c3ed58a45f679
+
+v8 | buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout | LogDog
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout
+
+logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout?format=raw
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout?format=raw
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840#issuecomment-2353408609
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+CSS Day 2024
+https://tannal.github.io/p/css-day-2024/
+
+Rust 手写 SQL 数据库
+https://roseduan.github.io/p/rust-%E6%89%8B%E5%86%99-sql-%E6%95%B0%E6%8D%AE%E5%BA%93/
+
+CSS Day 2024
+https://tannal.github.io/p/css-day-2024/
+
+Language Models are Few-Shot Learners · Issue #77 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/77
+
+tannal/Curtain: A Forge mod like fabric-carpet
+https://github.com/tannal/Curtain
+
+time travel debugging - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=time+travel+debugging
+
+Facebook paying Dan Abramov only $130K (£100k) | Hacker News
+https://news.ycombinator.com/item?id=22331478
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+# 2024-9-16
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to get a job as a remote software developer • Josh W. Comeau
+https://www.joshwcomeau.com/career/remote-work-pt2/
+
+Generating MIDI without prepended primer when using --primer_midi · Issue #267 · magenta/magenta
+https://github.com/magenta/magenta/issues/267
+
+cuthbertLab/music21: music21 is a Toolkit for Computational Musicology
+https://github.com/cuthbertLab/music21?tab=readme-ov-file
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=RtkrxnZAYVg7
+
+magenta/magenta/models/music_vae at main · magenta/magenta
+https://github.com/magenta/magenta/tree/main/magenta/models/music_vae
+
+MusicVAE.ipynb - Colab
+https://colab.research.google.com/github/magenta/magenta-demos/blob/master/colab-notebooks/MusicVAE.ipynb
+
+tannal (tannal)
+https://github.com/tannal
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.788.0.0#/whisper/mid844424930131966
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1296.0.0
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.1296.0.0#/whisper/mid844424930131966
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement Redeclarable global eval-introduced vars proposal [366491591] - Chromium
+https://issues.chromium.org/issues/366491591
+
+tc39/proposal-redeclarable-global-eval-vars: Make eval-introduced global vars redeclarable
+https://github.com/tc39/proposal-redeclarable-global-eval-vars
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+Project v8 Run 8896471990854-1-c58c3ed58a45f679 - LUCI Change Verifier
+https://luci-change-verifier.appspot.com/ui/run/v8/8896471990854-1-c58c3ed58a45f679
+
+v8 | buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout | LogDog
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout
+
+logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout?format=raw
+https://logs.chromium.org/logs/v8/buildbucket/cr-buildbucket/8736628496182892929/+/u/Unittests_on_Ubuntu-22.04/stdout?format=raw
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840#issuecomment-2353408609
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+CSS Day 2024
+https://tannal.github.io/p/css-day-2024/
+
+Rust 手写 SQL 数据库
+https://roseduan.github.io/p/rust-%E6%89%8B%E5%86%99-sql-%E6%95%B0%E6%8D%AE%E5%BA%93/
+
+CSS Day 2024
+https://tannal.github.io/p/css-day-2024/
+
+Language Models are Few-Shot Learners · Issue #77 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/77
+
+tannal/Curtain: A Forge mod like fabric-carpet
+https://github.com/tannal/Curtain
+
+time travel debugging - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=time+travel+debugging
+
+Facebook paying Dan Abramov only $130K (£100k) | Hacker News
+https://news.ycombinator.com/item?id=2233147
+
 # 2024-9-16
 
 makepad Analysis - Poe

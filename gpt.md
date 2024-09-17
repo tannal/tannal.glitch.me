@@ -1,4 +1,36 @@
 
+Magenta (by Google)
+https://github.com/magenta/magenta
+A research project exploring machine learning for music and art generation. Includes various models for melody generation.
+Music21
+https://github.com/cuthbertLab/music21
+A toolkit for computer-aided musicology that can be used for analyzing and generating music.
+Mido
+https://github.com/mido/mido
+A library for working with MIDI messages and ports. While not a generator itself, it's often used in MIDI generation projects.
+PyDub
+https://github.com/jiaaro/pydub
+A simple audio processing library that can be used for basic melody manipulation and generation.
+MIDI-Neural-Processor
+https://github.com/jason9693/MIDI-Neural-Processor
+A neural network-based MIDI generation and processing tool.
+MusicVAE
+https://github.com/magenta/magenta/tree/main/magenta/models/music_vae
+Part of the Magenta project, specifically for generating and interpolating musical sequences.
+MuseGAN
+https://github.com/salu133445/musegan
+A project for multi-track music generation using GANs.
+DeepBach
+https://github.com/Ghadjeres/DeepBach
+A deep learning model for generating Bach-style polyphonic music.
+Coconet
+https://github.com/czhuang/coconet
+A model for counterpoint generation in the style of Bach chorales.
+BachBot
+https://github.com/feynmanliang/bachbot
+An LSTM neural network for generating music in the style of Bach.
+
+
 使用内置的调试页面：
     Chrome: chrome://internals/
     Firefox: about:debugging

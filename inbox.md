@@ -1,7 +1,9 @@
 # 2024-9-16 0 | 0
 
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=RtkrxnZAYVg7
+
 curl -C - -L -O https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-nonema-pruned.safetensors
-curl -C - -L -O http://192.168.43.58:8080/storage/shared/DCIM/Camera/VID_20240916_143839.mp4
+curl -C - -L -O http://192.168.43.58:8080/storage/shared/DCIM/Camera/VID_20240916_141740.mp4
 
 Thanks for the review, PTAL again.
 https://github.com/GraphiteEditor/Graphite
