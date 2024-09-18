@@ -1,6 +1,22 @@
 
 # dev
 
+git-webkit pull-request --no-add --no-commit --append
+
+export BR2_HOST_DIR="/home/tannal/tannalwork/projects/buildroot/output/host/"
+export CROSS_COMPILE="$(basename $(cat ${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake|grep CMAKE_CXX_COMPILER|awk -F'"' '{print $2}')|sed "s/g++$//g")"
+export PATH="${BR2_HOST_DIR}/usr/bin:${PATH}"
+export CC="/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-gcc"
+export CXX="/home/tannal/tannalwork/projects/buildroot/output/host/usr/bin/aarch64-buildroot-linux-gnu-g++"
+
+export BUILD_JSC_ARGS="--cmakeargs=-DCMAKE_TOOLCHAIN_FILE=/home/tannal/tannalwork/projects/buildroot/output/host/usr/share/buildroot/toolchainfile.cmake"
+Tools/Scripts/build-jsc --jsc-only --debug
+
+git clean -xfd
+Tools/Scripts/build-webkit
+
+Tools/Scripts/webkit-patch format
+
 dup instruction is correct
 smov instruction is correct
 
@@ -52,6 +68,7 @@ export BR2_HOST_DIR="/home/tannal/tannalwork/projects/buildroot"
 export CROSS_COMPILE="$(basename $(cat ${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake|grep CMAKE_CXX_COMPILER|awk -F'"' '{print $2}')|sed "s/g++$//g")"
 export PATH="${BR2_HOST_DIR}/usr/bin:${PATH}"
 export CC="${CROSS_COMPILE}gcc"
+export CXX="${CROSS_COMPILE}g++"
 
 export BUILD_JSC_ARGS="--cmakeargs=-DCMAKE_TOOLCHAIN_FILE=${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake"
 export CC=aarch64-linux-gnu-gcc

@@ -1,3 +1,27 @@
+# 2024-9-18 0 | 0
+
+Add some ARM SIMD instructions in A64disassembler.
+
+Need the bug URL (OOPS!).
+
+Reviewed by Justin Michaud.
+
+This patch enhances the ARM64 disassembler to correctly handle and display
+additional SIMD instructions, particularly those involving different vector
+element sizes (.B, .H, .S, .D). This improvement allows for more accurate
+representation of ARM SIMD instructions in the disassembled output.
+
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.cpp:
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical1Source::opName):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::format):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::opName):
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h:
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneIndexAndType):
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneType):
+
+git fetch origin
+git rebase origin/main  # 或者是 origin/master，取决于主分支的名称
+
 # 2024-9-17 0 | 0
 
 source ~/tannalwork/projects/emsdk/emsdk_env.sh
@@ -253,6 +277,7 @@ cargo install --git https://github.com/BurntSushi/ripgrep.git
 export WEBKIT_TEST_CHILD_PROCESSES=8
 export QEMU_LD_PREFIX=/home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot
 export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
+export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Release/
 p
 Tools/Scripts/run-javascriptcore-tests --debug --artifact-exec-wrapper "qemu-aarch64" --architecture arm64 --jsc-stress | tee /tmp/JSC_log.txt
 
