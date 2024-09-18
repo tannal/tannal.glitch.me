@@ -1,5 +1,92 @@
 # 2024-9-18
 
+people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Node.js Downloads
+https://nodedownloads.nodeland.dev/
+
+Platformatic Open Source Software | Platformatic Open Source Software
+https://platformatic.dev/
+
+YouTube 1080p Video Downloader(3)
+https://downloaderto.com/engf/
+
+Convertr.org
+https://convertr.org/?utm_source=loader&utm_medium=referral&utm_campaign=loader&utm_content=ad_1
+
+Yusuke SUZUKI
+https://constellation.slowstart.org/
+
+José Dapena blog – Just another Igalia Blogs site
+https://blogs.igalia.com/dape/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(8) Beyond The Success Of Kotlin / The Documentary by EngX - YouTube
+https://www.youtube.com/watch?v=E8CtE7qTb-Q&t=2778s
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=6&prefix=true&query=documentry&sort=byPopularity&type=story
+
+curl/everything-curl: The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
+https://github.com/curl/everything-curl
+
+(8) The Story of Grafana | Episode 3: Open (Source) for Business | Grafana Documentary - YouTube
+https://www.youtube.com/watch?v=Q0q0pBnO-6E
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=imposter%20syndrome&op=translate
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Kazam github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Kazam+github
+
+Home · henrywoo/kazam Wiki
+https://github.com/henrywoo/kazam/wiki
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Antia Puentes - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Antia+Puentes
+
+igalia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=igalia
+
+Browsers Developer (WebKit focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_webkit_position
+
+Home · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#hard-tasks
+
+wasm Relaxed SIMD proposal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wasm+Relaxed+SIMD+proposal
+
+WebAssembly/relaxed-simd: Relax the strict determinism requirements of SIMD operations.
+https://github.com/WebAssembly/relaxed-simd
+
+Intent to Ship: WebAssembly Relaxed SIMD
+https://groups.google.com/a/chromium.org/g/blink-dev/c/HzLlEGLSx7E
+
+Relaxed SIMD proposal wasmtime - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Relaxed+SIMD+proposal+wasmtime
+
+relaxed-simd/proposals/relaxed-simd/Overview.md at main · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/blob/main/proposals/relaxed-simd/Overview.md
+
+Relaxed SIMD - Google 幻灯片
+https://docs.google.com/presentation/d/1Qnx0nbNTRYhMONLuKyygEduCXNOv3xtWODfXfYokx1Y/edit#slide=id.gc6ea82adec_0_76
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
