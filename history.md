@@ -1,3 +1,65 @@
+# 2024-9-18
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Re: [tc39/test262] Add more tests for v flag (PR #4213) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGhDtrKkwhdjWBXJQzKVMvzp
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213#discussion_r1759308575
+
+Avoid one allocation in Signature::Builder (4138268) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/4138268
+
+Replace Signature::Build with ::Get (5870695) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5870695
+
+Comparing WebKit:main...tannal:eng/arm64-disassembler · WebKit/WebKit
+https://github.com/WebKit/WebKit/compare/main...tannal:WebKit:eng/arm64-disassembler?expand=1
+
+Add strong root logging and $vm helpers for memory leak debugging by justinmichaud · Pull Request #31924 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/31924
+
+cross compile webkit aarch webkit org wiki - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cross+compile+webkit+aarch+webkit+org+wiki
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+Invalid commit hash in git log webkit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Invalid+commit+hash+in+git+log+webkit+
+
+Contributing · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Contributing#contributing-code
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+git log full hash site:stackoverflow.com - Google 搜索
+https://www.google.com.hk/search?q=git+log+full+hash+site:stackoverflow.com&newwindow=1&client=ubuntu-sn&hs=yQp&sca_esv=a3951d48e92e48e8&sca_upv=1&channel=fs&sa=X&ved=2ahUKEwjP6oWTv8uIAxXxJ0QIHSAyFhEQrQIoBHoECBgQBQ&biw=1850&bih=968&dpr=1
+
+How do I get the hash for the current commit in Git? - Stack Overflow
+https://stackoverflow.com/questions/949314/how-do-i-get-the-hash-for-the-current-commit-in-git
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
 # 2024-9-17
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
