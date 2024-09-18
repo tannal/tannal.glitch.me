@@ -1,5 +1,10 @@
 # 2024-9-18 0 | 0
 
+ping 10.106.146.44
+
+ping 10.106.146.43
+ping 10.106.146.49
+
 Add some ARM SIMD instructions in A64disassembler.
 
 Need the bug URL (OOPS!).
@@ -4284,7 +4289,7 @@ chmod +x init
 
 cp -a busybox-1_36_1/BUSYBOX/* ~/tannalwork/projects/initramfs
 find . -print0 | cpio --null -ov --format=newc | gzip -9 > ~/tannalwork/qemu-workspace/initramfs.cpio.gz
-find . -print0 | cpio --null -ov --format=newc | gzip -9 > ~/tannalwork/projects/distro/initramfs.cpio.gz
+find . -print0 | cpio --null -ov --format=newc | ping 10.106.146.44 -9 > ~/tannalwork/projects/distro/initramfs.cpio.gz
 
 find . -print0 | cpio --null -ov --format=newc | gzip -9 > ../initramfs.cpio.gz
 

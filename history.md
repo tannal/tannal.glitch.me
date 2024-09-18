@@ -1,5 +1,83 @@
 # 2024-9-18
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Issues · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/issues
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#hard-tasks
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/Data-Processing----Scalar-Floating-Point-and-Advanced-SIMD?lang=en
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+738221 - get rid nsIAccessibilityService
+https://bugzilla.mozilla.org/show_bug.cgi?id=738221
+
+1650944 - Remove ReflowInput.h include from nsIFrame.h
+https://bugzilla.mozilla.org/show_bug.cgi?id=1650944
+
+Browsers Developer (WebKit focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_webkit_position#application
+
+Element [9] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(1245) #office hours > 2024-09-12 - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/359642-office-hours/topic/2024-09-12
+
+i9 12900 vs i7 13700kf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=i9+12900+vs+i7+13700kf
+
+(1245) Recent conversations - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/
+
+unzip gz file - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unzip+gz+file
+
+How to Unzip (Extract) Gz File in Linux | Linuxize
+https://linuxize.com/post/how-to-unzip-gz-file/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+platform/tools/adt/idea - Git at Google
+https://android.googlesource.com/platform/tools/adt/idea/
+
+The Hitchhiker's Guide to Node Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-node-contributor/
+
+CaiJimmy/hugo-theme-stack-starter: A quickstart template to create a Hugo blog using hugo-theme-stack
+https://github.com/CaiJimmy/hugo-theme-stack-starter
+
+Constellation (Yusuke Suzuki)
+https://github.com/Constellation
+
+WebKit/Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h#L1001
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+tannal
+https://tannal.github.io/
+
 webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
