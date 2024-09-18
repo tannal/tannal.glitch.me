@@ -1,4 +1,36 @@
 
+WebAssembly (Wasm) 已经在多个领域得到了广泛应用。以下是一些著名的使用案例，涵盖了学术研究、商业产品、开源项目和著名成果：
+
+学术研究：
+WebAssembly Micro Runtime (WAMR): 一个轻量级的 WebAssembly 运行时，用于嵌入式和物联网设备。
+Wasmtime: 一个独立的 WebAssembly 运行时，支持 WASI（WebAssembly 系统接口）。
+Wasmer: 另一个通用的 WebAssembly 运行时，支持多种语言和平台。
+
+商业产品：
+Figma: 一个基于浏览器的协作设计工具，使用 WebAssembly 来提高性能。
+AutoCAD Web: Autodesk 将其桌面 CAD 软件移植到了 Web 上，使用 WebAssembly。
+Google Earth: 使用 WebAssembly 将其复杂的 3D 地图渲染引擎移植到 Web。
+Adobe Photoshop: 正在将部分功能移植到 Web 版本，使用 WebAssembly。
+
+开源项目：
+Emscripten: 一个将 C/C++ 代码编译为 WebAssembly 的工具链。
+Blazor: 微软的框架，允许使用 C# 和 .NET 开发 WebAssembly 应用。
+AssemblyScript: 一个 TypeScript 到 WebAssembly 的编译器。
+Rust + WebAssembly: Rust 语言对 WebAssembly 有着excellent支持。
+
+著名成果：
+Unity 游戏引擎: 支持将游戏导出为 WebAssembly，实现高性能的浏览器游戏。
+eBay: 使用 WebAssembly 优化了其条形码扫描器的性能。
+Pyodide: 在浏览器中运行完整的 Python 环境，包括科学计算库如 NumPy 和 Pandas。
+FFmpeg.wasm: 将强大的 FFmpeg 多媒体框架移植到浏览器中。
+
+新兴领域：
+边缘计算: 使用 WebAssembly 在边缘设备上运行复杂计算。
+区块链: 一些区块链项目使用 WebAssembly 作为智能合约的执行环境。
+服务器端应用: 使用 WebAssembly 作为通用的、高性能的服务器端运行时。
+
+这些案例展示了 WebAssembly 在提高 Web 应用性能、跨平台开发、将复杂应用移植到 Web 等方面的强大能力。随着技术的不断发展，我们可能会看到更多创新的 WebAssembly 应用场景。
+
 我似乎明白了库的重要性，有库就是面向接口编程，没有库就是面向实现编程，后者很麻烦
 
 bash zsh shell sh 这些shell难道没有标准化API么？比如提示符大家都有，难道没有标准化一个提示符change的事件么？对了shell这类应用的事件机制是如何实现的？

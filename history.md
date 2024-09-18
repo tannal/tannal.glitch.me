@@ -1,5 +1,83 @@
 # 2024-9-18
 
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Intent to Ship: WebAssembly Relaxed SIMD
+https://groups.google.com/a/chromium.org/g/blink-dev/c/HzLlEGLSx7E
+
+WebAssembly Relaxed SIMD · Issue #4 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/4
+
+Prototype relaxed-simd instructions [41480401] - Chromium
+https://issues.chromium.org/issues/41480401
+
+src/compiler/backend/x64/instruction-selector-x64.cc - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/9ffb482926d9c2304b38eea2ca9b01154ce7029d/src/compiler/backend/x64/instruction-selector-x64.cc
+
+Tech Notes: n2: revisiting Ninja
+https://neugierig.org/software/blog/2022/03/n2.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#improve-disassembly-output
+
+getting-started (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU667RQP7
+
+WebKit Contributors Meeting 2023 - WebKit Documentation
+https://docs.webkit.org/Other/Contributor%20Meetings/ContributorMeeting2023.html#questions_1
+
+Contributing to Web Inspector - Contributing to Web Inspector.pdf
+https://docs.webkit.org/Other/Contributor%20Meetings/Slides2023/Contributing%20to%20Web%20Inspector.pdf
+
+Bug List
+https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
+
+⚙ D181114 Bug 1838656 - Rename Nadd/Mnadd Wasm instruction identifiers.
+https://phabricator.services.mozilla.com/D181114
+
+winch: Relaxed SIMD support · Issue #8094 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8094
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Adobe%20webassembly&sort=byPopularity&type=story
+
+Figma is powered by WebAssembly | Figma Blog
+https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/
+
+ruffle-rs/ruffle: A Flash Player emulator written in Rust
+https://github.com/ruffle-rs/ruffle
+
+Ruffle - Flash Emulator
+https://ruffle.rs/compatibility
+
+Ruffle – A Flash Player emulator written in Rust | Hacker News
+https://news.ycombinator.com/item?id=25242115
+
+gecko developer meeting conference - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gecko+developer+meeting+conference
+
+FOSDEM 2024 - Packet, where are you?: Track in the stack with pwru
+https://fosdem.org/2024/schedule/event/fosdem-2024-3425-packet-where-are-you-track-in-the-stack-with-pwru/
+
+FOSDEM 2024 - Mainline Linux on Qualcomm SoCs, are we here now ?
+https://fosdem.org/2024/schedule/event/fosdem-2024-1707-mainline-linux-on-qualcomm-socs-are-we-here-now-/
+
+FOSDEM24 - Mainline Linux on Qualcomm SoCs, are we here now ? - FOSDEM24_-_Mainline_Linux_on_Qualcomm_SoCs_are_cW72KOo.pdf
+https://fosdem.org/2024/events/attachments/fosdem-2024-1707-mainline-linux-on-qualcomm-socs-are-we-here-now-/slides/22126/FOSDEM24_-_Mainline_Linux_on_Qualcomm_SoCs_are_cW72KOo.pdf
+
+Packet, where are you? - FOSDEM2024-qmonnet-pwru_Y9an8XJ.pdf
+https://fosdem.org/2024/events/attachments/fosdem-2024-3425-packet-where-are-you-track-in-the-stack-with-pwru/slides/22915/FOSDEM2024-qmonnet-pwru_Y9an8XJ.pdf
+
 people.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

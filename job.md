@@ -575,7 +575,7 @@ igalia申请 deadline
 [] github issues can be used as a database I can build various dbms system using github public api.
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust.
-[x] webkit javascriptCore pr 1 lgtm Yusuke SUZUKI
+[x] webkit javascriptCore pr 1 lgtm Yusuke SUZUKI 
 [] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [x] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [x] 2024-9-2 10:00 - 11:30
