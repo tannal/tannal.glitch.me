@@ -6,6 +6,63 @@ https://github.dev/tannal/tannal.glitch.me
 music21_setup.ipynb - Colab
 https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
 
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/?lang=en
+
+agendas/2024/10.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/10.md
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yusuke SUZUKI
+https://constellation.slowstart.org/
+
+Yusuke SUZUKI
+https://constellation.slowstart.org/
+
+Buildbot: builder JSC-ARMv7-32bits-Tests-EWS build 15609
+https://ews-build.webkit.org/#/builders/25/builds/15609
+
+"promise.try" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=promise.try
+
+improving discussion of generic Promise.try() called against custom constructor by getify · Pull Request #35783 · mdn/content
+https://github.com/mdn/content/pull/35783/files
+
+Introduction - Web App Testing & Tools | Frontend Masters
+https://frontendmasters.com/courses/web-app-testing/unit-testing-a-dataset-algorithm/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+答题 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://www.bilibili.com/v/newbie/basic-1?score=0
+
+tannal
+https://tannal.github.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[3 failures] Push Health
+https://treeherder.mozilla.org/push-health/push?repo=try&revision=4ad4230a4e1cadc7c70fdddde8f20420f106fa60&tab=tests&testGroup=pr
+
+(1222) #gpu > used line drawing algorithm - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/used.20line.20drawing.20algorithm
+
+Brendon Ho - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Brendon+Ho
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
 [turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
 https://chromium-review.googlesource.com/c/v8/v8/+/5860436
 
