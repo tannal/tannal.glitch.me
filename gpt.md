@@ -1,4 +1,13 @@
-
+Natalie Silvanovich - Google Project Zero成员,专注于浏览器和移动操作系统安全研究。她发现了Chrome、Safari等浏览器的多个严重漏洞。
+Ivan Fratric - 同样来自Google Project Zero,专门研究浏览器安全。他发现了WebKit、Chromium等多个高危漏洞。
+Jann Horn - 另一位Google Project Zero成员,在浏览器和操作系统内核安全方面有重要发现。
+Samuel Groß - 现为Google Project Zero成员,之前在Tor浏览器项目工作,对浏览器安全有深入研究。
+Ned Williamson - 专注于Chrome和Android安全研究的独立安全研究员。
+Guang Gong - 腾讯科恩实验室研究员,在Android和浏览器安全方面有多项重要发现。
+Bruno Keith & Niklas Baumstark - 来自Dataflow Security的研究员,发现了WebKit和Firefox的多个漏洞。
+Sergei Glazunov - 前Google Chrome Security团队成员,对Chrome安全贡献巨大。
+Georgi Geshev & Rob Miller - MWR Labs(现为F-Secure Labs)的研究员,在浏览器安全方面有重要工作。
+Manfred Paul - 独立安全研究员,发现了Firefox的多个高危漏洞。
 
 这段代码实现了DDIM (Denoising Diffusion Implicit Models) 采样器。DDIM是一种用于生成高质量图像的扩散模型采样方法。让我简要解释一下主要部分:
 

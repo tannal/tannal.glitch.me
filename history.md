@@ -1,5 +1,62 @@
 # 2024-9-19
 
+history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-1/
+
+jhalon (Jack Halon)
+https://github.com/jhalon/
+
+v8/src/interpreter/bytecodes.h at main · v8/v8
+https://github.com/v8/v8/blob/main/src/interpreter/bytecodes.h
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+matt suiche twitter - Google 搜索
+https://www.google.com.hk/search?q=matt+suiche+twitter&newwindow=1&client=ubuntu-sn&hs=Nxp&sca_esv=0076c89ed9af7a24&sca_upv=1&channel=fs&ei=bH_rZufrH8u8kPIP5_KYmQ0&oq=Matt+Suiche+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDE1hdHQgU3VpY2hlICoCCAAyBBAAGB4yBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESI8ZUKIDWKIDcAF4AZABAJgB2gKgAdoCqgEDMy0xuAEDyAEA-AEBmAICoALjAsICChAAGLADGNYEGEeYAwCIBgGQBgOSBwUxLjMtMaAH8AE&sclient=gws-wiz-serp
+
+Matt Suiche – Medium
+https://medium.com/@msuiche
+
+Commits · v8/v8
+https://github.com/v8/v8/commits?author=tannal&since=2024-08-31&until=2024-09-19
+
+--max-old-space-size default value - Google 搜索
+https://www.google.com.hk/search?q=--max-old-space-size+default+value&newwindow=1&client=ubuntu-sn&hs=Ry&sca_esv=0076c89ed9af7a24&sca_upv=1&channel=fs&ei=rITrZoGmLI6jur8PgK-JuAc&ved=0ahUKEwiBrNLJ882IAxWOke4BHYBXAncQ4dUDCA8&uact=5&oq=--max-old-space-size+default+value&gs_lp=Egxnd3Mtd2l6LXNlcnAiIi0tbWF4LW9sZC1zcGFjZS1zaXplIGRlZmF1bHQgdmFsdWVIhSBQd1iVH3ACeAGQAQCYAc8CoAGVHaoBBTItOC41uAEDyAEA-AEBmAIBoAIOwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHATGgB5cF&sclient=gws-wiz-serp
+
+max-old-space-size could be consider deprecated on > 12? · Issue #2681 · nodejs/help
+https://github.com/nodejs/help/issues/2681
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Crash in v8::internal::Isolate::code_tracer [368118141] - Chromium
+https://issues.chromium.org/issues/368118141
+
+UNKNOWN READ · v8::internal::Isolate::code_tracer
+https://clusterfuzz.com/testcase-detail/4868072410120192
+
+Problem loading page
+https://chromium.googlesource.com/v8/v8/+/3985a3909d0fce7f69d758e1c945efc2aec0d2cd/src/compiler/pipeline-data-inl.h#386
+
+Problem loading page
+https://issues.chromium.org/issues/366863066
+
+Problem loading page
+https://issues.chromium.org/issues/368118141
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. · v8/v8@3d10a76
+https://github.com/v8/v8/commit/3d10a76614557ab6759f88bd0394a7581bcca83c
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
