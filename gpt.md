@@ -1,3 +1,44 @@
+Chronograf
+Part of the InfluxData TICK stack
+Designed for time series data visualization
+Works well with InfluxDB
+Netdata
+Real-time performance and health monitoring
+Lightweight and efficient
+Extensive out-of-the-box metrics collection
+Prometheus + Alertmanager
+Powerful monitoring system and time series database
+Often used in conjunction with Grafana, but can be used independently
+Zabbix
+Enterprise-class monitoring solution
+Supports a wide range of data sources
+Includes its own visualization capabilities
+Kibana
+Part of the Elastic Stack (ELK)
+Primarily designed for log and event data analysis
+Powerful for searching and visualizing log data
+Superset
+Advanced data exploration and visualization platform
+Supports a wide range of databases and data formats
+Offers rich, interactive visualizations
+Redash
+Query-focused data visualization tool
+Supports multiple data sources
+Emphasizes collaboration and sharing
+Metabase
+User-friendly interface for data analysis and visualization
+Supports SQL and NoSQL databases
+Includes a question builder for non-technical users
+Tableau Public
+Free version of Tableau with some limitations
+Powerful data visualization capabilities
+Limited to public data (not suitable for sensitive information)
+CHAOSSEARCH
+Built on open-source technologies
+Focuses on log analytics at scale
+Integrates with S3-compatible object storage
+
+
 Natalie Silvanovich - Google Project Zero成员,专注于浏览器和移动操作系统安全研究。她发现了Chrome、Safari等浏览器的多个严重漏洞。
 Ivan Fratric - 同样来自Google Project Zero,专门研究浏览器安全。他发现了WebKit、Chromium等多个高危漏洞。
 Jann Horn - 另一位Google Project Zero成员,在浏览器和操作系统内核安全方面有重要发现。
