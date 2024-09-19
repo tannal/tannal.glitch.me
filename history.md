@@ -1,5 +1,62 @@
 # 2024-9-19
 
+chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-1/
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#sec-property-attributes
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[JSC] Remove JSGlobalObject::hasVarDeclaration() · WebKit/WebKit@775c66f
+https://github.com/WebKit/WebKit/commit/775c66f97c1049f8e75d9715fb0a684ba71e8dda
+
+[JSC] Remove JSGlobalObject::hasVarDeclaration() · WebKit/WebKit@775c66f
+https://github.com/WebKit/WebKit/commit/775c66f97c1049f8e75d9715fb0a684ba71e8dda
+
+279705 – Implement Redeclarable global eval-introduced vars proposal
+https://bugs.webkit.org/show_bug.cgi?id=279705
+
+[JSC] Remove JSGlobalObject::hasVarDeclaration() · WebKit/WebKit@775c66f
+https://github.com/WebKit/WebKit/commit/775c66f97c1049f8e75d9715fb0a684ba71e8dda
+
+tannal (tannal)
+https://github.com/tannal/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=seed-music&sort=byPopularity&type=story
+
+How Brains See Music as Language - The Atlantic
+https://www.theatlantic.com/health/archive/2014/02/how-brains-see-music-as-language/283936/
+
+seed music a unified - Google 搜索
+https://www.google.com.hk/search?q=seed+music+a+unified&newwindow=1&client=ubuntu-sn&hs=xWt&sca_esv=f2fb15e6fa9c5d79&sca_upv=1&channel=fs&ei=FrXrZraSGvfGkPIPqOj4-Ao&ved=0ahUKEwi29bXfoc6IAxV3I0QIHSg0Hq8Q4dUDCA8&uact=5&oq=seed+music+a+unified&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHNlZWQgbXVzaWMgYSB1bmlmaWVkMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIpYwDUNwBWKaLA3ACeAGQAQCYAc4DoAG9IKoBBTMtNy40uAEDyAEA-AEBmAINoAL7IMICChAAGLADGNYEGEfCAgUQABiABMICBBAAGB7CAgYQABgKGB7CAgoQABiABBhDGIoFwgIGEAAYCBgewgIIEAAYgAQYogTCAgcQIRigARgKmAMAiAYBkAYKkgcHMi4zLTcuNKAHvCE&sclient=gws-wiz-serp
+
+2409.09214v2.pdf
+https://arxiv.org/pdf/2409.09214
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+lidar data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=lidar+data
+
+What is Lidar data and where can I download it? | U.S. Geological Survey
+https://www.usgs.gov/faqs/what-lidar-data-and-where-can-i-download-it
+
 history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
