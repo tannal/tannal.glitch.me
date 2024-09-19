@@ -1,3 +1,71 @@
+# 2024-9-19
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+JavaScript エンジンを組み込む | ちいさな Web ブラウザを作ってみよう
+https://browserbook.shift-js.info/chapters/integrating-v8
+
+Chrome Browser Exploitation, Part 2: Introduction to Ignition, Sparkplug and JIT Compilation via TurboFan - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Element [7] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+v8/v8: The official mirror of the V8 Git repository
+https://github.com/v8/v8
+
+The Hitchhiker's Guide to Firefox Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-firefox-contributor/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit/
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=wasm&sort=byPopularity&type=story
+
+Browsers Developer (WebKit focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_webkit_position
+
+stable-diffusion/ldm/models/diffusion/ddim.py at main · CompVis/stable-diffusion
+https://github.com/CompVis/stable-diffusion/blob/main/ldm/models/diffusion/ddim.py
+
+(1250) #chatter > Should beginners rely on generative AI? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Should.20beginners.20rely.20on.20generative.20AI.3F
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+Clojure github - Google 搜索
+https://www.google.com.hk/search?q=Clojure+github&newwindow=1&client=ubuntu-sn&hs=tjp&sca_esv=86609044e19b39fb&sca_upv=1&channel=fs&ei=KHzrZq-QI-HNkPIPrb3OmAc&ved=0ahUKEwivxIi6682IAxXhJkQIHa2eE3MQ4dUDCA8&uact=5&oq=Clojure+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkNsb2p1cmUgZ2l0aHViMgUQABiABDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAgYHjIGEAAYCBgeSOcRUNwJWIERcAF4AZABApgB_QOgAdgNqgEJMi0yLjIuMC4xuAEDyAEA-AEBmAIEoAKBB8ICChAAGLADGNYEGEeYAwCIBgGQBgqSBwcxLjAuMi4xoAePDg&sclient=gws-wiz-serp
+
+clojure/src/jvm/clojure/java/api/package.html at master · clojure/clojure
+https://github.com/clojure/clojure/blob/master/src/jvm/clojure/java/api/package.html
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
 # 2024-9-18
 
 表格查询 - Poe
