@@ -1,5 +1,80 @@
 # 2024-9-18
 
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+ggml_init: Illegal instruction at address 0x<address> · Issue #44 · ggerganov/ggml
+https://github.com/ggerganov/ggml/issues/44
+
+Issues · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues?q=is%3Aissue+is%3Aopen+crash+windows
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars prop… · mozilla/gecko-dev@4082df5
+https://github.com/mozilla/gecko-dev/commit/4082df53251b941de339368e72b3e859c3f35a4d#diff-598c054769d9df70f3867698a8393ced863b523c25c6b254c5525d8e909a2e16
+
+slack phone calls - Google 搜索
+https://www.google.com/search?q=slack+phone+calls&oq=slack+phone+call&gs_lcrp=EgZjaHJvbWUqCQgAEAAYExiABDIJCAAQABgTGIAEMgYIARBFGDkyCAgCEAAYExgeMgoIAxAAGAgYExgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIE0gEIMzg4N2oxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+tannal (tannal)
+https://github.com/tannal
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+登陆 - NENUOJ
+http://39.101.69.154/loginpage.php
+
+convolution - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=450070a99877800c&sca_upv=1&q=convolution&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiRl4blpbuIAxV3L0QIHXOJLpIQtKgLegQIDRAB&biw=1280&bih=559&dpr=1.5#vhid=7vJByZmTyKb_DM&vssid=mosaic
+
+Git at Google
+https://www.googlesource.com/new-password?state=chromium&code=4/0AQlEd8zVpoy_JyvopRxWTzi-gN2A4OwLKtf-itGZCSYLNA72OGxKRMUhYmda6OfcVF7HAg&scope=https://www.googleapis.com/auth/gerritcodereview
+
+Chromium Docs - Contributing to Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/contributing.md#Legal-stuff
+
+ggml-mnist-technical-report – Typst
+https://typst.app/project/pBjXb52QRWv4TJV_7pXNfU
+
+为啥我进不去新WIKI呀？ - Sagiri's Forum
+https://sagiri.flarum.cloud/d/93-wei-sha-wo-jin-bu-qu-xin-wikiya
+
+Home
+https://sagiriwiki.web.app/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPNIBCDU1NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+美联储 点阵图 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9%E9%98%B5%E5%9B%BE&oq=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9%E9%98%B5%E5%9B%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDI3MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+点阵图解读：美联储今年还将降息50个基点-市场参考-金十数据
+https://xnews.jin10.com/details/148495
+
+FOMC dot plot - Google 搜索
+https://www.google.com.hk/search?q=FOMC+dot+plot&newwindow=1&sca_esv=86609044e19b39fb&sca_upv=1&ei=C27rZqvXMaGWkPIP8aKCyQk&oq=fomc+dot&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGZvbWMgZG90KgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ifD1AAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIQmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+The Federal Reserve’s latest dot plot, explained – and what it says about interest rates Cuts | Bankrate
+https://www.bankrate.com/banking/federal-reserve/how-to-read-fed-dot-plot-explained/#key-benefits-of-reading-the-fed-s-dot-plot
+
+联邦基准利率 - Google 搜索
+https://www.google.com.hk/search?q=%E8%81%94%E9%82%A6%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87&oq=%E8%81%94%E9%82%A6%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgoIBBAAGIAEGKIE0gEIODU3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
