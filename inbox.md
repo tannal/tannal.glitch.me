@@ -1,5 +1,15 @@
 # 2024-9-19 0 | 0
 
+        std::cerr
+        << "---------------------------------------------------\n"
+        << "Why Why Why " << isolate_ << " using "
+        << "You better not be null" << std::endl;
+
+wasm relax
+
+https://jhalon.github.io/chrome-browser-exploitation-1/
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
 %DebugPrint(obj)
 (gdb) x/8gx 0x40d000492d1 -1
 

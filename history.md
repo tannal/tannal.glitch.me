@@ -1,5 +1,65 @@
 # 2024-9-19
 
+v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Chrome Browser Exploitation, Part 2: Introduction to Ignition, Sparkplug and JIT Compilation via TurboFan - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
+828企业上云节_普惠上云专区_数转赢市场,就来828_-华为云
+https://activity.huaweicloud.com/discount_area_v5/index.html?utm_source=google&utm_medium=se-cpc-op&utm_campaign=10056&utm_content=&utm_term=huaweiyun&utm_adplace=AdPlace067158&gad_source=1&gclid=EAIaIQobChMI9Pr1h_7OiAMVDzmtBh309TQeEAAYASAAEgI1m_D_BwE
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Crash in v8::internal::Isolate::code_tracer [368118141] - Chromium
+https://issues.chromium.org/issues/368118141
+
+UNKNOWN READ · v8::internal::Isolate::code_tracer
+https://clusterfuzz.com/testcase-detail/4868072410120192
+
+Diff - 3d10a76614557ab6759f88bd0394a7581bcca83c^! - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/3d10a76614557ab6759f88bd0394a7581bcca83c%5E%21/#F1
+
+(1246) #xilem > Hot Reloading - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Hot.20Reloading
+
+tannal (tannal)
+https://github.com/tannal
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal
+https://tannal.github.io/
+
+ggml-mnist-technical-report – Typst
+https://typst.app/project/pBjXb52QRWv4TJV_7pXNfU
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. · v8/v8@3d10a76
+https://github.com/v8/v8/commit/3d10a76614557ab6759f88bd0394a7581bcca83c#diff-18ebe218680b940460f4c5ccebb6dc1c4e8d857a15c3292d80c66e1efacd0d6eR387
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Element [6] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+tecentcloud - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tecentcloud
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
