@@ -1,6 +1,7 @@
 # 2024-9-19 0 | 0
 
-
+%DebugPrint(obj)
+(gdb) x/8gx 0x40d000492d1 -1
 
 C -> Go better c
 C++ -> Rust better c++

@@ -1,5 +1,104 @@
 # 2024-9-19
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Chrome Browser Exploitation, Part 1: Introduction to V8 and JavaScript Internals - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-1/
+
+transitions.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/objects/transitions.h?q=TransitionsAccessor&ss=chromium%2Fchromium%2Fsrc:v8%2F
+
+V8 IC explorer
+https://v8.github.io/tools/v8.7/ic-explorer.html
+
+Teaching - Systems Software and Security Lab
+https://gts3.org/pages/teaching.html
+
+/diːˈlaːn(.)ˌʕaːzəbaːniː/ | delan azabani
+https://www.azabani.com/about/
+
+cv.pdf
+https://www.azabani.com/about/public/cv.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+lidar data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=lidar+data
+
+(9) The Story of Grafana | Episode 3: Open (Source) for Business | Grafana Documentary - YouTube
+https://www.youtube.com/watch?v=Q0q0pBnO-6E
+
+george hotz - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=george+hotz
+
+tinygrad/tinygrad: You like pytorch? You like micrograd? You love tinygrad! ❤️
+https://github.com/tinygrad/tinygrad
+
+jeff dean interview - Google 搜索
+https://www.google.com.hk/search?q=jeff+dean+interview&newwindow=1&client=ubuntu-sn&hs=ByE&sca_esv=41194bf1d6b73809&sca_upv=1&channel=fs&tbm=vid&ei=rMDrZusqsZ6Q8g_6-oDpCQ&start=30&sa=N&ved=2ahUKEwjrsMLlrM6IAxUxD0QIHXo9IJ04FBDy0wN6BAgCEAk&biw=1850&bih=968&dpr=1
+
+google deepmind the podcast - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=google+deepmind+the+podcast
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Element [7] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=engine&c=courses&dg=1
+
+Introduction - Game Development with Unity for Web Developers | Frontend Masters
+https://frontendmasters.com/courses/unity/unity-overview-installing/
+
+Web Assembly Introductory Course | WASM | Frontend Masters
+https://frontendmasters.com/courses/web-assembly/
+
+Learn to Write Code at Complex Scale with this Functional JS Course | Frontend Masters
+https://frontendmasters.com/courses/functional-js-fundamentals/
+
+Web Components | Learn to Create Web Components | Frontend Masters
+https://frontendmasters.com/courses/web-components/
+
+Introduction - Building Your Own Programming Language | Frontend Masters
+https://frontendmasters.com/courses/programming-language/lexing-lexical-analysis/
+
+Code an Android App with Kotlin | Learn to Create Android Apps with Kotlin & Jetpack Compose | Frontend Masters
+https://frontendmasters.com/courses/android-kotlin/
+
+Improve disassembly output · WebKit/WebKit@347e26a
+https://github.com/WebKit/WebKit/pulls
+
+Chrome Browser Exploitation, Part 2: Introduction to Ignition, Sparkplug and JIT Compilation via TurboFan - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
+jhalon (Jack Halon) / Following
+https://github.com/jhalon?tab=following
+
+see you again歌词 - Google 搜索
+https://www.google.com.hk/search?q=see+you+again%E6%AD%8C%E8%AF%8D&newwindow=1&client=ubuntu-sn&hs=1Yc&sca_esv=658059ba84023065&sca_upv=1&channel=fs&biw=1850&bih=968&ei=o-zrZs-YApTjkPIP3Yq_wQE&oq=see+you+again&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXNlZSB5b3UgYWdhaW4qAggDMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSNwNUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAg6YAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+See You Again (當我們再相見)-歌詞-Various Artists-KKBOX
+https://www.kkbox.com/tw/tc/song/Cq0dKOFSUh-7_AD36P
+
+Doocs
+https://github.com/doocs
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-19
+
+tannal
+https://tannal.github.io/
+
+tannal (tannal)
+https://github.com/tannal/
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
