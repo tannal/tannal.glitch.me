@@ -1,3 +1,5 @@
+
+
 # tc39 stage3 proposals
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
@@ -20,6 +22,10 @@ Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dmin
 implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
 # working on
+
+Bug 1919187 - Remove dom.window.clientinformation.enabled pref. r?gregp
+
+Bug 1919188 - Remove dom.iframe_lazy_loading.enabled pref. r?gregp
 
 Bug 1917924 - Remove network.http.reject_NULs_in_response_header_values pref. r?gregp
 
