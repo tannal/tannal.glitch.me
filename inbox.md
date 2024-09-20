@@ -1,5 +1,30 @@
 # 2024-9-19 0 | 0
 
+克隆仓库：
+
+复制
+git clone https://github.com/JetBrains/intellij-community.git
+进入项目目录：
+
+复制
+cd intellij-community
+初始化子模块：
+
+复制
+git submodule update --init --recursive
+运行构建脚本（指定PyCharm）：
+
+复制
+./gradlew build -PbasePlatform=PyCharmCommunity
+运行IDE：
+
+复制
+./gradlew runIde -PbasePlatform=PyCharmCommunity
+Android Studio
+Android Studio的构建过程比较复杂，因为它基于IntelliJ IDEA，但还包含了许多Android特定的工具和插件。
+
+步骤：
+
         std::cerr
         << "---------------------------------------------------\n"
         << "Why Why Why " << isolate_ << " using "

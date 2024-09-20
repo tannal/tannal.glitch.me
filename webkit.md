@@ -1,4 +1,6 @@
 
+
+
 # layout and renderring
 
 https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
@@ -17,6 +19,9 @@ https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_st
 
 
 # dev
+
+void dumpInContext(PrintStream&, DumpContext*) const;
+void dump(PrintStream&) const;
 
 git-webkit pull-request --no-add --no-commit --append
 
