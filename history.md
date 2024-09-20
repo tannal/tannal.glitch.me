@@ -1,6 +1,67 @@
 # 2024-9-20
 
+documentry.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
 
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit/tree/main
+
+Crash in v8::internal::wasm::WasmImportWrapperCache::CompileWasmImportCallWrapper [368114039] - Chromium
+https://issues.chromium.org/issues/368114039#comment4
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+JavaScriptCore Internals Part II: The LLInt and Baseline JIT :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Attacking+JavaScript+Engines%3A+A+case+study+of+JavaScriptCore+and+CVE-2016-4622
+
+2017_Phrack_CyberGrandShellphish.pdf
+https://sites.cs.ucsb.edu/~vigna/publications/2017_Phrack_CyberGrandShellphish.pdf
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal
+https://tannal.github.io/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+build intelij from source - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=build+intelij+from+source
+
+JetBrains/intellij-community: IntelliJ IDEA Community Edition & IntelliJ Platform
+https://github.com/JetBrains/intellij-community
+
+Epic Developer Community
+https://dev.epicgames.com/community/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+EpicGames/UnrealEngine: Unreal Engine source code
+https://github.com/EpicGames/UnrealEngine
 
 # 2024-9-19
 

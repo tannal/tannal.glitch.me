@@ -1,5 +1,15 @@
 # 2024-9-19 0 | 0
 
+PATH=~/bin:$PATH
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+chmod a+x ~/bin/repo
+
+repo init -u https://android.googlesource.com/platform/manifest
+
+(base) a17@17:~/tannalwork/projects$ git config --global user.email "tannal2409@gmail.com"
+(base) a17@17:~/tannalwork/projects$ git config --global user.name "tannal"
+
+
 克隆仓库：
 
 复制
