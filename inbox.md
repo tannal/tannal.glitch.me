@@ -1,5 +1,9 @@
 # 2024-9-20 0 | 0
 
+yes | flutter doctor --android-licenses
+
+export NO_PROXY=localhost,127.0.0.1,::1
+
 curl -s "https://get.sdkman.io" | bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
 sdk install kotlin
