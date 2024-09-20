@@ -1,4 +1,94 @@
 
+
+作为新加入的 RustDesk 核心和客户端开发者，要手动编译运行和测试 RustDesk，你需要了解项目的结构和编译流程。RustDesk 使用 Rust 作为核心，并且最近迁移到了 Flutter 用于跨平台 UI。以下是编译和运行 RustDesk 的基本步骤：
+
+    克隆仓库：
+
+bash
+
+git clone https://github.com/rustdesk/rustdesk.git
+cd rustdesk
+
+    安装依赖：
+    确保你已经安装了 Rust、Flutter、以及相关的系统依赖。具体依赖可能因操作系统而异。
+
+    编译核心库：
+    RustDesk 的核心功能是用 Rust 编写的。首先编译这部分：
+
+bash
+
+cd libs/hbb_common
+cargo build
+cd ../..
+
+    编译 Flutter 部分：
+    切换到 Flutter 项目目录并运行：
+
+bash
+
+cd flutter
+flutter pub get
+flutter build <platform>
+
+将 <platform> 替换为你的目标平台，如 android、ios、linux、windows 或 macos。
+
+    运行项目：
+    对于桌面平台，你可以使用：
+
+bash
+
+flutter run -d <device>
+
+其中 <device> 是你的目标设备或模拟器。
+
+    测试：
+    RustDesk 可能包含单元测试和集成测试。你可以运行：
+
+bash
+
+cargo test
+
+来执行 Rust 部分的测试。
+
+对于 Flutter 部分的测试：
+bash
+
+flutter test
+
+    调试：
+    使用 VS Code 或 Android Studio 进行调试。配置 launch.json 文件以包含 Rust 和 Flutter 的调试设置。
+
+    热重载：
+    在开发 Flutter UI 时，可以利用热重载功能：
+
+bash
+
+flutter run --hot
+
+    性能分析：
+    使用 Rust 和 Flutter 的性能分析工具来优化代码。
+
+bash
+
+cargo bench
+flutter run --profile
+
+    构建发布版本：
+    对于 Rust 部分：
+
+bash
+
+cargo build --release
+
+对于 Flutter 部分：
+bash
+
+flutter build <platform> --release
+
+记住，RustDesk 是一个复杂的项目，可能需要特定的环境设置和额外的步骤来完全构建和测试所有功能。务必查看项目的 README 和文档以获取最新的构建说明和要求。
+
+作为核心开发者，你可能还需要熟悉 RustDesk 的架构、网络协议、安全实现等方面。定期与团队沟通，了解最新的开发实践和代码规范也很重要。
+
 The software shown in the image is Logic Pro, which is Apple's professional digital audio workstation (DAW) and MIDI sequencer software for macOS.
 
 For modern open-source alternatives to Logic Pro, you might consider:

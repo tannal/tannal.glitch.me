@@ -1,5 +1,13 @@
 # 2024-9-20 0 | 0
 
+curl -s "https://get.sdkman.io" | bash
+source "$HOME/.sdkman/bin/sdkman-init.sh"
+sdk install kotlin
+
+A company is not made by a few of rock stars, they are made by that nice middle class of workers.
+The nice middle class that is talented, engaged and happy.
+That's truly who's going to make a good work environment.
+
 manager chains
 
 M1 -> M2 -> D1 -> D1 -> D2 -> VP1 -> VP2 -> CXX

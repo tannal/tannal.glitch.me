@@ -20,6 +20,8 @@ https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_st
 
 # dev
 
+Tools/Scripts/build-jsc --jsc-only --debug --build-dir=$PWD/WebKitBuild/JSCOnly/x64
+
 void dumpInContext(PrintStream&, DumpContext*) const;
 void dump(PrintStream&) const;
 
