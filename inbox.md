@@ -1,3 +1,12 @@
+# 2024-9-20 0 | 0
+
+M1 -> M2 -> D1 -> D1 -> D2 -> VP1 -> VP2 -> CXX
+
+https://www.jetbrains.com/toolbox-app/
+
+sudo add-apt-repository universe
+sudo apt install libfuse2
+
 # 2024-9-19 0 | 0
 
 PATH=~/bin:$PATH
