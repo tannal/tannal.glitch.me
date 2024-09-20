@@ -1,5 +1,47 @@
 # 2024-9-19
 
+history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+WebKit & JSC Architecture Reading List - For Vulnerability Researchers [Updated 2022] :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers/
+
+V8 / Chrome Architecture Reading List - For Vulnerability Researchers :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[turboshaft] Fix GetCodeTracer for Wasm builtin functions (5876099) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5876099/1..2
+
+Diff - 3e1f61be0b7b15969bd9c86aea098a949ca22568^! - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/3e1f61be0b7b15969bd9c86aea098a949ca22568%5E%21/#F0
+
+unix time commadn - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unix+time+commadn
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+GitHub
+https://github.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 v8.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
