@@ -1,5 +1,19 @@
 
 
+# dev
+
+git clone https://github.com/openjdk/jdk.git
+
+mkdir -p bootjdk
+
+wget https://download.java.net/java/GA/jdk23/3c5b90190c68498b986a97f276efd28a/37/GPL/openjdk-23_linux-x64_bin.tar.gz
+
+tar -xzf openjdk-23_linux-x64_bin.tar.gz -C bootjdk --strip-components=1
+
+./bootjdk/bin/java -version
+
+bash configure --with-boot-jdk=$(pwd)/bootjdk
+
 
 # people
 

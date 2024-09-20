@@ -1,5 +1,89 @@
 # 2024-9-20
 
+openjdk.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Crash in v8::internal::wasm::WasmImportWrapperCache::CompileWasmImportCallWrapper [368114039] - Chromium
+https://issues.chromium.org/issues/368114039#comment7
+
+UNKNOWN READ · v8::internal::wasm::WasmImportWrapperCache::CompileWasmIm...
+https://clusterfuzz.com/testcase-detail/6553938073419776
+
+[turboshaft] Fix GetCodeTracer for Wasm builtin functions (5876099) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5876099
+
+[turboshaft] Fix GetCodeTracer for Wasm builtin functions (5876099) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5876099?tab=comments
+
+Crash in v8::internal::wasm::WasmImportWrapperCache::CompileWasmImportCallWrapper [368114039] - Chromium
+https://issues.chromium.org/issues/368114039#comment9
+
+Crash in v8::internal::Isolate::code_tracer [368118141] - Chromium
+https://issues.chromium.org/issues/368118141#comment12
+
+Pull requests · evmar/n2
+https://github.com/evmar/n2/pulls
+
+JavaScriptCore Internals Part II: The LLInt and Baseline JIT :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/
+
+WebKit & JSC Architecture Reading List - For Vulnerability Researchers [Updated 2022] :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers/
+
+(10) Michael Saboff — JavaScriptCore, many compilers make this engine perform - YouTube
+https://www.youtube.com/watch?v=mtVBAcy7AKA
+
+Flutter
+https://github.com/flutter
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+rebase all other branches with main - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rebase+all+other+branches+with+main
+
+pytorch github - Google 搜索
+https://www.google.com.hk/search?q=pytorch+github&newwindow=1&client=ubuntu-sn&hs=ltK&sca_esv=6d3024b606a56b6b&sca_upv=1&channel=fs&ei=AlDtZv2MOa-nkPIP2qmoCA&ved=0ahUKEwj9lYPRqdGIAxWvE0QIHdoUCgEQ4dUDCA8&uact=5&oq=pytorch+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnB5dG9yY2ggZ2l0aHViMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHkipDVDnBViwDHABeAGQAQCYAYADoAG7DKoBBTItMi4zuAEDyAEA-AEBmAIGoALkDMICChAAGLADGNYEGEfCAgcQABiABBgMwgIHEAAYgAQYCsICCBAAGIAEGKIEmAMAiAYBkAYKkgcFMS4zLTWgB4kO&sclient=gws-wiz-serp
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch
+
+rusttorch - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rusttorch
+
+Candle: Torch Replacement in Rust | Hacker News
+https://news.ycombinator.com/item?id=37049198
+
+candle/candle-examples/examples/stable-diffusion at main · huggingface/candle
+https://github.com/huggingface/candle/tree/main/candle-examples/examples/stable-diffusion
+
+tannal (tannal)
+https://github.com/tannal/
+
+Michael Saboff - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Michael+Saboff
+
+[TZone] Add annotations to unannotated subclasses by msaboff · Pull Request #33185 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/33185/files#diff-df9abdb1d6c35f433217cb0d5a47d41a540da8a457a0f5407fe315ad59df4e31
+
+Element [9] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Byron/dua-cli: View disk space usage and delete unwanted data, fast.
+https://github.com/Byron/dua-cli
+
 chromium.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
