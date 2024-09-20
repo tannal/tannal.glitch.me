@@ -1,5 +1,7 @@
 # 2024-9-20 0 | 0
 
+manager chains
+
 M1 -> M2 -> D1 -> D1 -> D2 -> VP1 -> VP2 -> CXX
 
 https://www.jetbrains.com/toolbox-app/
