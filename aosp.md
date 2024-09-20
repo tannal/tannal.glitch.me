@@ -21,6 +21,32 @@ source build/envsetup.sh
 lunch
 make -j 20
 
+```bash
+
+# 克隆仓库
+git clone https://github.com/google/android-cuttlefish.git
+cd android-cuttlefish
+
+# 切换到 stable 分支
+git checkout stable
+
+# 编译生成 deb 包
+tools/buildutils/build_packages.sh
+
+# 安装 deb 包
+sudo apt install ./cuttlefish-base_*.deb ./cuttlefish-user_*.deb
+
+# 修改用户权限
+sudo usermod -aG kvm,cvdnetwork,render $USER
+
+# 重启系统
+sudo reboot
+
+# 在 AOSP 项目根目录执行
+launch_cvd --start_webrtc=true
+
+```
+
 
 
 build completed successfully (01:58:12 (hh:mm:ss))
