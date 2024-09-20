@@ -1,5 +1,68 @@
 # 2024-9-19
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+[turboshaft] Remove wasm_engine_ field and use GetWasmEngine directly. (5860436) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5860436
+
+JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+
+(10) 35C3 - The Layman's Guide to Zero-Day Engineering - YouTube
+https://www.youtube.com/watch?v=WbuGMs2OcbE&t=570s
+
+(10) Michael Saboff — JavaScriptCore, many compilers make this engine perform - YouTube
+https://www.youtube.com/watch?v=mtVBAcy7AKA
+
+HolyJS 2024 Autumn. Конференция для JavaScript‑разработчиков
+https://holyjs.ru/?utm_source=social&utm_medium=youtube&utm_campaign=page
+
+Zero Day Initiative — Inverting Your Assumptions: A Guide to JIT Comparisons
+https://www.zerodayinitiative.com/blog/2018/4/12/inverting-your-assumptions-a-guide-to-jit-comparisons
+
+googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer
+https://github.com/googleprojectzero/fuzzilli
+
+googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer
+https://github.com/googleprojectzero/fuzzilli
+
+V8 / Chrome Architecture Reading List - For Vulnerability Researchers :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/v8-chrome-architecture-reading-list-for-vulnerability-researchers/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[turboshaft] Fix GetCodeTracer for Wasm builtin functions (5876099) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5876099/1..2?tab=comments
+
+Diff - 3e1f61be0b7b15969bd9c86aea098a949ca22568^! - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/3e1f61be0b7b15969bd9c86aea098a949ca22568%5E%21/#F0
+
+Project v8 Run 8896218151854-1-422f94a30fccd835 - LUCI Change Verifier
+https://luci-change-verifier.appspot.com/ui/run/v8/8896218151854-1-422f94a30fccd835
+
+Crash in v8::internal::wasm::WasmImportWrapperCache::CompileWasmImportCallWrapper [368114039] - Chromium
+https://issues.chromium.org/issues/368114039#comment4
+
+UNKNOWN READ · v8::internal::wasm::WasmImportWrapperCache::CompileWasmIm...
+https://clusterfuzz.com/testcase-detail/6553938073419776
+
+unix time commadn - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unix+time+commadn
+
+please take a look - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=please+take+a+look
+
 history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
