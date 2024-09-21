@@ -1,3 +1,77 @@
+# 2024-9-21
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Replace Signature::Build with ::Get (5870695) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5870695
+
+https fetch: Get https://google.golang.org/grpc?go-get=1: i/o timeout - Google 搜索
+https://www.google.com.hk/search?q=https+fetch%3A+Get+https%3A%2F%2Fgoogle.golang.org%2Fgrpc%3Fgo-get%3D1%3A+i%2Fo+timeout&newwindow=1&client=ubuntu-sn&sca_esv=4002789bc611c637&sca_upv=1&channel=fs&biw=1850&bih=968&ei=qSfuZuznJbzQkPIP5qyB2Aw&ved=0ahUKEwis4M-l99KIAxU8KEQIHWZWAMsQ4dUDCA8&uact=5&oq=https+fetch%3A+Get+https%3A%2F%2Fgoogle.golang.org%2Fgrpc%3Fgo-get%3D1%3A+i%2Fo+timeout&gs_lp=Egxnd3Mtd2l6LXNlcnAiRWh0dHBzIGZldGNoOiBHZXQgaHR0cHM6Ly9nb29nbGUuZ29sYW5nLm9yZy9ncnBjP2dvLWdldD0xOiBpL28gdGltZW91dEjQB1AAWOEEcAB4AZABAJgBwgKgAecGqgEFMi0xLjK4AQPIAQD4AQGYAgCgAgCYAwCSBwCgB48D&sclient=gws-wiz-serp
+
+go get报错 i/o timeout的解决办法_go get timeout-CSDN博客
+https://blog.csdn.net/asty9000/article/details/107720900
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+1919188 - Remove dom.iframe_lazy_loading.enabled pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1919188
+
+Treeherder Logviewer
+https://treeherder.mozilla.org/logviewer?job_id=475182475&repo=autoland&lineNumber=18797
+
+HTMLIFrameElement.webidl - mozsearch
+https://searchfox.org/mozilla-central/rev/a6f4fbcd9b1ce352b7d6d1b87204d3e015266b57/dom/webidl/HTMLIFrameElement.webidl#36
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+cuttlefish debain prebuild - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cuttlefish+debain+prebuild
+
+Posts | Nathan Chancellor
+https://nathanchance.dev/posts/
+
+google/android-cuttlefish: Cuttlefish host support debian package.
+https://github.com/google/android-cuttlefish
+
+aosp 编译 - Google 搜索
+https://www.google.com.hk/search?q=aosp+%E7%BC%96%E8%AF%91&newwindow=1&client=ubuntu-sn&hs=SIu&sca_esv=bb21feec55a18a20&sca_upv=1&channel=fs&biw=1850&bih=968&ei=Ny3uZs2gH9GdkPIP2MKwoA8&oq=aospb&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWFvc3BiKgIIADIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMggQABiABBiiBDIFEAAYgARIhBlQrBBYrBBwAXgBkAEAmAH9AqAB_QKqAQMzLTG4AQHIAQD4AQGYAgKgApMDwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMy0xoAfFAg&sclient=gws-wiz-serp
+
+Android 系统源码编译 | 皮皮小黑屋
+https://www.sunmoonblog.com/2024/07/17/build-aosp/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+android documentary - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=B0u&sca_esv=b7e93e0d53feb37c&sca_upv=1&channel=fs&q=android+documentary&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CRAM25-9apNOMH4QfiuKJIrPUf8-hHebYssYVPQ4c1EJG7MxtO9gbseb2ybqj2iBvtzoxjdeaMPCdovdla5yijtWY26aE1w0U11irR-fbVYb7RcFrs&sa=X&ved=2ahUKEwiRkY_YhtOIAxUEL0QIHbHPAnYQ0pQJegQIFBAB&biw=1850&bih=968&dpr=1
+
+Chet Haase story of android - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=31u&sca_esv=b7e93e0d53feb37c&sca_upv=1&channel=fs&q=Chet+Haase+story+of+android&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CRAM25-9apNOMH4QfiuKJIrPUf8-hHebYssYVPQ4c1EJG7MxtO9gbseb2ybqj2iBvtzoxjdeaMPCdovdla5yijtWY26aE1w0U11irR-fbVYb7RcFrs&sa=X&ved=2ahUKEwimwOWPh9OIAxXuEkQIHTiSG20Q0pQJegQIERAB&biw=1850&bih=968&dpr=1
+
+(11) Why Projects Succeed: Lessons Learned from the Android OS by Romain Guy and Chet Haase, Google EN - YouTube
+https://www.youtube.com/watch?v=29CXukGVcUM
+
+android book the team that - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=android+book+the+team+that
+
+Androids: The Book
+https://www.chethaase.com/androids
+
 # 2024-9-20
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
