@@ -1,3 +1,7 @@
+# 2024-9-21 0 | 0
+
+https://nathanchance.dev/posts/ Linux kernel 
+
 # 2024-9-20 0 | 0
 
 
