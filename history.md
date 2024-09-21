@@ -1,5 +1,92 @@
 # 2024-9-21
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+Release Notes :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/release-notes/rel_2-23-4.html#rel_2-23-4
+
+Documentation Archives :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/index.html
+
+Installation Guide :: NVIDIA Deep Learning NCCL Documentation
+https://docs.nvidia.com/deeplearning/nccl/archives/nccl_2234/install-guide/index.html
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit/tree/main
+
+SeaOfNodes/Simple-Rust
+https://github.com/SeaOfNodes/Simple-Rust
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+flutter/engine: The Flutter engine
+https://github.com/flutter/engine/tree/main
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
+(12) How A Small Team of Developers Created React at Facebook | React.js: The Documentary - YouTube
+https://www.youtube.com/watch?v=8pDqJVdNa44
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+virtme github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=virtme+github
+
+amluto/virtme: An easy way to virtualize the running system
+https://github.com/amluto/virtme
+
+JSC build linux - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=JSC+build+linux
+
+JSCOnly – WebKit
+https://trac.webkit.org/wiki/JSCOnly
+
+Constellation Scorpius
+https://constellation.slowstart.org/blog/
+
+Where work happens | Slack
+https://app.slack.com/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+rustdesk build flutter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rustdesk+build+flutter
+
+Android :: Documentation for RustDesk
+https://rustdesk.com/docs/en/dev/build/android/
+
+flutter run doesn't use proxy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flutter+run+doesn%27t+use+proxy
+
+android - flutter run behind proxy fails to download gradle dependency despite setting proxy explicity - Stack Overflow
+https://stackoverflow.com/questions/65528681/flutter-run-behind-proxy-fails-to-download-gradle-dependency-despite-setting-pro
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+(12) Coffee Compiler Club, 2024_09_20 - YouTube
+https://www.youtube.com/watch?v=P0Yvywbn8qw
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

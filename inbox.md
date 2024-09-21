@@ -1,5 +1,13 @@
 # 2024-9-21 0 | 0
 
+export HTTP_PROXY=http://127.0.0.1:8890
+export HTTPS_PROXY=http://127.0.0.1:8890
+export ALL_PROXY=http://127.0.0.1:8890
+
+export http_proxy=http://127.0.0.1:8890
+export https_proxy=http://127.0.0.1:8890
+export all_proxy=http://127.0.0.1:8890
+
 adb connect localhost:6520
 
 https://127.0.0.1:8443/
