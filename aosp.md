@@ -48,9 +48,12 @@ cvd start --start_webrtc=true
 
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools
+adb connect localhost:6520
 
 ```
 
 
 
 build completed successfully (01:58:12 (hh:mm:ss))
+
+
