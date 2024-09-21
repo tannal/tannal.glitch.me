@@ -6,6 +6,69 @@ https://github.dev/tannal/tannal.glitch.me
 music21_setup.ipynb - Colab
 https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1282) #gpu > Dotted grid drawing - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Dotted.20grid.20drawing
+
+Office Hours 2024-09-19 - Google 文档
+https://docs.google.com/document/d/1YQVCAYl4iBJa1kPaxuzEkQj-HFPQ55_OEys2CCyso4A/edit
+
+Pull request search results
+https://github.com/search?q=org%3Alinebender+-author%3Adjmcnab+-author%3Araphlinus+-author%3Aarmansito+-author%3APhilipp-M+-author%3Awaywardmonkeys+-author%3APoignardAzur+-author%3Asimbleau+-author%3Anicoburns+-author%3Ajaredoconnell+-author%3Aazymohliad+-author%3Adfrg+-author%3Adependabot%5Bbot%5D+-author%3AxStrom+-author%3Axorgy&type=pullrequests&s=created&o=desc
+
+(308) #general > arewebrowseryet.com - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/arewebrowseryet.2Ecom
+
+Update build advice for benchmarking and profiling by delan · Pull Request #22 · servo/book
+https://github.com/servo/book/pull/22
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+animation-audio_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1ncHve1EZt/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+tannal (tannal)
+https://github.com/tannal
+
+Element [7] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+new android book - Google 搜索
+https://www.google.com.hk/search?q=new+android+book&newwindow=1&client=ubuntu-sn&hs=Hwa&sca_esv=a3b9fa461642e16c&sca_upv=1&channel=fs&ei=3UDuZrPnOIndkPIPyu7GkA0&ved=0ahUKEwjzyamqj9OIAxWJLkQIHUq3EdIQ4dUDCA8&uact=5&oq=new+android+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiEG5ldyBhbmRyb2lkIGJvb2syBxAAGIAEGBMyCBAAGBMYCBgeMggQABgTGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYExgIGB5IlzBQuRBY8C5wBngBkAEAmAGmAqABrSOqAQQyLTE3uAEDyAEA-AEBmAIXoAKTJMICChAAGLADGNYEGEfCAgUQABiABMICCxAuGIAEGNEDGMcBwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQHCAgUQLhiABMICDRAuGIAEGNEDGMcBGArCAgcQABiABBgKwgIGEAAYChgewgIHEAAYgAQYDZgDAOIDBRIBMSBAiAYBkAYDugYGCAEQARgUkgcINi4wLjE2LjGgB8Zd&sclient=gws-wiz-serp
+
+MOXiI 1st Ed now officially Free
+https://newosxbook.com/1stEdIsFree.html
+
+http://newosxbook.com/home.html for the lazy :) They are an updated and much exp... | Hacker News
+https://news.ycombinator.com/item?id=35848260
+
+NewOSXBook - Recovery Mode
+https://geosn0w.github.io/isabella/recoveryMode.html
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
 Replace Signature::Build with ::Get (5870695) · Gerrit Code Review
 https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 
