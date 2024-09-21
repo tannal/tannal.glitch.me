@@ -1,5 +1,7 @@
 # 2024-9-21 0 | 0
 
+https://127.0.0.1:8443/
+
 https://nathanchance.dev/posts/ Linux kernel 
 
 # 2024-9-20 0 | 0

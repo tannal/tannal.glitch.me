@@ -43,7 +43,11 @@ sudo usermod -aG kvm,cvdnetwork,render $USER
 sudo reboot
 
 # 在 AOSP 项目根目录执行
-launch_cvd --start_webrtc=true
+cvd create
+cvd start --start_webrtc=true
+
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools
 
 ```
 
