@@ -1,6 +1,32 @@
 
 
-#
+# dev
+
+# 1. Download the CUDA keyring package
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.0-1_all.deb
+
+# 2. Install the keyring package
+sudo dpkg -i cuda-keyring_1.0-1_all.deb
+
+# 3. Update the APT database
+sudo apt update
+
+# 4. Install NCCL libraries
+# If you want the latest version:
+sudo apt install libnccl2 libnccl-dev
+
+# If you want a specific version (example with CUDA 10.0):
+# sudo apt install libnccl2=2.4.8-1+cuda10.0 libnccl-dev=2.4.8-1+cuda10.0
+
+# 5. Verify the installation
+dpkg -l | grep nccl
+
+# 更新系统
+sudo apt update
+sudo apt upgrade
+
+# 重新安装 CUDA（如果需要）
+sudo apt install cuda
 
 /datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc -Ofast -Wno-unused-result -Wno-ignored-pragmas -Wno-unknown-attributes -march=native -fopenmp -DOMP   train_gpt2.c -lm -lgomp -o train_gpt2
 
