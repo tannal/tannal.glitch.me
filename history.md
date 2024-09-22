@@ -1,5 +1,92 @@
 # 2024-9-22
 
+webkit.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+JavaScriptCore Internals Part II: The LLInt and Baseline JIT :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/
+
+asm-source-level-debug.png (PNG Image, 1744 × 719 pixels)
+https://zon8.re/images/jsc-part2/asm-source-level-debug.png
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+WebKit & JSC Architecture Reading List - For Vulnerability Researchers [Updated 2022] :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-architecture-reading-list-for-vulnerability-researchers/
+
+JavaScriptCore Internals Part III: The DFG (Data Flow Graph) JIT -- Graph Building :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-part3-the-dfg-jit-graph-building/
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#hard-tasks
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+CodeLLDB vs NativeDebug for debug assembly - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=CodeLLDB+vs+NativeDebug+for+debug+assembly
+
+webkit assembly debug vscode - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webkit+assembly+debug+vscode
+
+JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/
+
+lldb breakpoint symbol - Google 搜索
+https://www.google.com.hk/search?q=lldb+breakpoint+symbol&newwindow=1&client=ubuntu-sn&hs=eNG&sca_esv=44160bd426f5c1be&sca_upv=1&channel=fs&ei=y3jvZtyJGNHakPIPgJLk4AY&ved=0ahUKEwicm7bnuNWIAxVRLUQIHQAJGWwQ4dUDCA8&uact=5&oq=lldb+breakpoint+symbol&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmxsZGIgYnJlYWtwb2ludCBzeW1ib2wyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjaEFCPBliWD3ABeAGQAQCYAcwCoAHFDqoBBTItNi4xuAEDyAEA-AEBmAIHoALnDMICChAAGLADGNYEGEfCAgUQABiABMICBhAAGB4YD8ICBxAAGIAEGA3CAgYQABgNGB7CAggQABgIGA0YHpgDAIgGAZAGCpIHBzEuMC41LjGgB6oW&sclient=gws-wiz-serp
+
+debugging - Set breakpoint on symbol with lldb - Stack Overflow
+https://stackoverflow.com/questions/23717509/set-breakpoint-on-symbol-with-lldb
+
+amarekano - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=amarekano
+
+Amar Menezes | Archive of some of my security research.
+https://amarekano.github.io/
+
+allow breakpoints anywhere - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=allow+breakpoints+anywhere
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+godot minecraft - Google 搜索
+https://www.google.com.hk/search?q=godot+minecraft&newwindow=1&client=ubuntu-sn&hs=j3G&sca_esv=8e8ead8949b91364&sca_upv=1&channel=fs&ei=_ILvZqjEEvXSkPIPq-3h8Qg&oq=godot+mine&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmdvZG90IG1pbmUqAggAMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeSNcYUOIFWOcRcAJ4AZABAJgB7QKgAe0OqgEFMi0zLjO4AQPIAQD4AQGYAgigApsPwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgcQABiABBgMwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCpIHBzIuMC4yLjSgB7EP&sclient=gws-wiz-serp
+
+Issue search results
+https://github.com/search?q=repo%3Agodotengine%2Fgodot+skia&type=issues
+
+MiniDigger/Godotcraft: Minecraft, but using the godot engine
+https://github.com/MiniDigger/Godotcraft
+
+(12) Learn Godot by Making Minecraft - Complete Crash Course - YouTube
+https://www.youtube.com/watch?v=sAZ8D3rt5yU
+
+tannal (tannal)
+https://github.com/tannal/
+
+(1285) #xilem > "Floating origin" scrolling? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/.22Floating.20origin.22.20scrolling.3F
+
+tc39 regex full unicode - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tc39+regex+full+unicode
+
+tc39/proposal-regexp-unicode-property-escapes: Proposal to add Unicode property escapes `\p{…}` and `\P{…}` to regular expressions in ECMAScript.
+https://github.com/tc39/proposal-regexp-unicode-property-escapes
+
+tc39/proposal-regexp-v-flag: UTS18 set notation in regular expressions
+https://github.com/tc39/proposal-regexp-v-flag?tab=readme-ov-file
+
+Implement the v flag for RegExp in SpiderMonkey
+http://localhost:1313/p/implement-the-v-flag-for-regexp-in-spidermonkey/
+
+testsuite/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast at main · WebAssembly/testsuite
+https://github.com/WebAssembly/testsuite/blob/main/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast
+
 aosp.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
