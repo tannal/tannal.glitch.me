@@ -1,5 +1,89 @@
 # 2024-9-22
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+testsuite/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast at main · WebAssembly/testsuite
+https://github.com/WebAssembly/testsuite/blob/main/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(1278) #chatter > Thoughts on making an accessible minesweeper - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Thoughts.20on.20making.20an.20accessible.20minesweeper
+
+(298) #general > Offline demo webpages - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Offline.20demo.20webpages
+
+HTML5 Audio and Video Browser Tests
+https://midimusic.github.io/browsertest/
+
+Haircomb Wallet - Haircomb Crypto Currency free and open-source wallet
+https://core.haircomber.com/ui/index.html
+
+(1584) #general > overhead of calling an exported function? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/overhead.20of.20calling.20an.20exported.20function.3F
+
+(38) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+minecraft godot 4 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=minecraft+godot+4
+
+LegionGames - itch.io
+https://legiongames.itch.io/
+
+Quaternius • Cube World Kit
+https://quaternius.com/packs/cubeworldkit.html
+
+Hylley/Minedot: Minecraft clone in Godot 4
+https://github.com/Hylley/Minedot
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+ubuntu shortcut kill current application - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ubuntu+shortcut+kill+current+application
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+rwengine/openrw: OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+https://github.com/rwengine/openrw?tab=readme-ov-file
+
+Element [6] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Introduction - Software Developer Success: Soft Skills & Testing | Frontend Masters
+https://frontendmasters.com/courses/dev-soft-skills/time-estimation/
+
+error: identifier "CUBLASLT_EPILOGUE_DGELU" is undefined - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=error%3A+identifier+%22CUBLASLT_EPILOGUE_DGELU%22+is+undefined
+
+nvidia-cuda-dev nvidia-cuda-toolkit version is too old - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nvidia-cuda-dev+nvidia-cuda-toolkit+version+is+too+old
+
+Older versions of Cuda - CUDA / CUDA Setup and Installation - NVIDIA Developer Forums
+https://forums.developer.nvidia.com/t/older-versions-of-cuda/108163
+
+tannal (tannal)
+https://github.com/tannal/
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/mozilla-central/rev/ef77bb7813c6b9b910d60e291d321f7448350596/modules/libpref/init/StaticPrefList.yaml#4134-4138
+
+1880789 - Remove dom.workers.modules.enabled pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1880789
+
 github.dev/tannal/tannal.glitch.me
 https://github.dev/tannal/tannal.glitch.me
 

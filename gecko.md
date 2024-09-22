@@ -23,6 +23,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1880789 - Remove dom.workers.modules.enabled pref. r?gregp
+
 Bug 1919187 - Remove dom.window.clientinformation.enabled pref. r?gregp
 
 Bug 1919188 - Remove dom.iframe_lazy_loading.enabled pref. r?gregp
