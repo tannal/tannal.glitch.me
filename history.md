@@ -1,3 +1,65 @@
+# 2024-9-22
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=0bh1YgqP56Gq
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+https://phabricator.services.mozilla.com/D220381#7638453
+
+(12) Michael Saboff — JavaScriptCore, many compilers make this engine perform - YouTube
+https://www.youtube.com/watch?v=mtVBAcy7AKA
+
+LUCI
+https://github.com/luci
+
+James F. O'Brien - Publications - U.C. Berkeley Computer Graphics Research
+http://graphics.berkeley.edu/people/jObrien-publications.html
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+http://localhost:1313/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=vocal%20music&op=translate
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
+msaboff (Michael Saboff)
+https://github.com/msaboff
+
+armv7 release date - Google 搜索
+https://www.google.com.hk/search?q=armv7+release+date&newwindow=1&client=ubuntu-sn&hs=p53&sca_esv=adc44701641c21aa&sca_upv=1&channel=fs&ei=UMDuZpbYGrLOkPIP44aw-A0&oq=armv7+rel&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWFybXY3IHJlbCoCCAAyBxAAGIAEGBMyCBAAGBMYHhgPMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIqCZQ-gFYjx9wAngBkAEAmAGgAqABqgqqAQMyLTW4AQPIAQD4AQGYAgegAscKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIKEAAYgAQYQxiKBcICBBAAGB7CAgUQIRigAZgDAIgGAZAGCpIHBTIuMC41oAfCDA&sclient=gws-wiz-serp
+
+ARM architecture family - Wikipedia
+https://en.wikipedia.org/wiki/ARM_architecture_family
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 # 2024-9-21
 
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
