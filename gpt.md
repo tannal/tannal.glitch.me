@@ -1,4 +1,37 @@
+NVIDIA在图形编程语言和工具方面的发展确实经历了一些变化。让我们来看看Cg的前身、后继者以及NVIDIA现在专注的领域：
 
+Cg之前：
+
+汇编级着色器语言：在Cg出现之前，程序员主要使用低级的汇编语言来编写着色器。
+DirectX的早期着色器模型：Microsoft的DirectX API提供了一些早期的着色器编程模型。
+Cg时期（2002-2012）：
+
+Cg（C for Graphics）是NVIDIA开发的高级着色器语言，旨在简化图形编程。
+
+Cg之后：
+
+CUDA（Compute Unified Device Architecture）：
+2007年推出
+用于通用计算的并行计算平台和编程模型
+允许开发者利用NVIDIA GPU进行非图形计算
+OptiX：
+2009年推出
+用于光线追踪的API和编程模型
+NVIDIA RTX：
+2018年推出
+实时光线追踪技术
+NVIDIA现在维护和专注的领域：
+
+CUDA：仍然是NVIDIA的主要计算平台，广泛用于科学计算、机器学习等领域。
+RTX技术：包括实时光线追踪和AI加速渲染。
+DLSS（Deep Learning Super Sampling）：利用AI进行图像超分辨率技术。
+NVIDIA AI：各种AI和机器学习相关的技术和工具。
+NVIDIA Omniverse：用于3D设计协作和模拟的平台。
+图形驱动程序：继续为其GPU提供优化的驱动程序支持。
+GameWorks：一套帮助游戏开发者优化性能的工具和技术。
+VRWorks：用于虚拟现实开发的SDK。
+NVIDIA Studio：面向创意专业人士的驱动程序和工具套件。
+虽然NVIDIA不再积极开发Cg，但它继续支持和发展各种图形和计算技术。现代NVIDIA工具更多地集中在实时光线追踪、AI加速、高性能计算和跨行业的3D设计与模拟等领域。对于着色器编程，业界已经大多转向使用标准的GLSL（OpenGL Shading Language）或HLSL（High Level Shading Language），这些都得到了NVIDIA硬件和驱动程序的良好支持。
 
 构建 Dart SDK
 bash

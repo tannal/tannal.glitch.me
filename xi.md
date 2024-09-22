@@ -62,7 +62,7 @@ skia
 2d rendering on gpu based on wgpu
 wgpu
 
-cargo run -p with_winit -- --test-scenes
+cargo run -p with_winit -- --test-scenes 
 
 cargo fmt --all --check
 

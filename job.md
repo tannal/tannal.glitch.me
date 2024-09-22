@@ -580,8 +580,8 @@ igalia申请 deadline
 [x] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [x] 2024-9-2 10:00 - 11:30
 [] 2024-9-19 linebender office hour 23:00
-[] 2024-9-22 tijian
-[] 2024-9-18 4:30 -> 19:00
+[x] 2024-9-22 tijian
+[x] 2024-9-18 4:30 -> 19:00
 
 # 2024-9-9 - 2024-9-15
 
