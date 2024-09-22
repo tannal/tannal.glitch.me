@@ -1,5 +1,68 @@
 # 2024-9-22
 
+aosp.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+clash mihomo github - 搜索
+https://www.bing.com/search?q=clash+mihomo+github&qs=HS&sk=HS2&sc=10-0&cvid=E764AE3B2F8B4439A5A465D7B56ECCF7&FORM=QBLH&sp=3&lq=0
+
+CSDN-专业IT技术社区-登录
+https://passport.csdn.net/login?code=applets
+
+android Git repositories - Git at Google
+https://android.googlesource.com/
+
+JetBrains repositories
+https://github.com/orgs/JetBrains/repositories
+
+JetBrains/intellij-community: IntelliJ IDEA Community Edition & IntelliJ Platform
+https://github.com/JetBrains/intellij-community
+
+OpenJDK JDK 23 GA Release
+https://jdk.java.net/23/
+
+videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust. - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=videos+by+3blue1brown+using+manim+actually+we+can+do+it+in+vello%2Fbevy%2Ftypst+in+rust.
+
+How to run the 3b1b video code successfully? : r/manim
+https://www.reddit.com/r/manim/comments/182o7y1/how_to_run_the_3b1b_video_code_successfully/?rdt=44742
+
+jeertmans/manim-tutorial: Manim tutorial presented to PhD and Master student at UCLouvain
+https://github.com/jeertmans/manim-tutorial/tree/main
+
+Make Videos Like 3Blue1Brown | Manim - YouTube
+https://www.youtube.com/watch?v=d9nbtyO2YcU
+
+Hgghh · Issue #74 · 3b1b/videos
+https://github.com/3b1b/videos/issues/74
+
+vscode 1.90.1 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+1.90.1
+
+Visual Studio Code June 2024
+https://code.visualstudio.com/updates/v1_91
+
+Cuttlefish github - Google 搜索
+https://www.google.com.hk/search?q=Cuttlefish+github&newwindow=1&client=ubuntu-sn&hs=ukt&sca_esv=4002789bc611c637&sca_upv=1&channel=fs&ei=FyXuZs2MDvyqur8PibOoiAI&ved=0ahUKEwiN9Nbr9NKIAxV8le4BHYkZCiEQ4dUDCA8&uact=5&oq=Cuttlefish+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUN1dHRsZWZpc2ggZ2l0aHViMgUQABiABDIFEAAYgAQyCBAAGAgYHhgPMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPAMUNoEWPELcAF4AZABAJgB_QKgAYkLqgEDMy00uAEDyAEA-AEBmAIFoAKaC8ICChAAGLADGNYEGEfCAgUQLhiABMICBBAAGB6YAwCIBgGQBgqSBwUxLjMtNKAHtR8&sclient=gws-wiz-serp
+
+Pull request search results
+https://github.com/search?q=repo%3Agoogle%2Fandroid-cuttlefish+repository&type=pullrequests
+
+Cloud Android
+https://127.0.0.1:8443/
+
+dart-lang/sdk: The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+https://github.com/dart-lang/sdk
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+Ray Tracing in One Weekend
+https://raytracing.github.io/books/RayTracingInOneWeekend.html#surfacenormalsandmultipleobjects/shadingwithsurfacenormals
+
+Export Tabs URLs – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
