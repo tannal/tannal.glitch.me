@@ -1,5 +1,13 @@
 # dev
 
+git lfs install
+git clone https://github.com/cqcallaw/shootergame.git
+
+cd ~/tannalwork/projects/UnrealEngine
+./GenerateProjectFiles.sh -project=/home/a17/tannalwork/projects/shootergame/ShooterGame.uproject -game -engine
+
+./Engine/Binaries/Linux/UnrealEditor ~/tannalwork/projects/shootergame/ShooterGame.uproject
+
 git clone https://github.com/EpicGames/UnrealEngine
 ./Setup.sh 
 ./GenerateProjectFiles.sh

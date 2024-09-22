@@ -1,5 +1,59 @@
 # 2024-9-22
 
+unreal.md (Working Tree) (unreal.md) - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+ShooterGame - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ShooterGame
+
+cqcallaw/shootergame
+https://github.com/cqcallaw/shootergame
+
+Is the UE4 open source? - Google 搜索
+https://www.google.com.hk/search?q=Is+the+UE4+open+source%3F&newwindow=1&client=ubuntu-sn&hs=lxG&sca_esv=44160bd426f5c1be&sca_upv=1&channel=fs&ei=ioHvZp3sKa6wkPIPpM2l8A4&ved=0ahUKEwid2ZmTwdWIAxUuGEQIHaRmCe4Q4dUDCA8&uact=5&oq=Is+the+UE4+open+source%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0lzIHRoZSBVRTQgb3BlbiBzb3VyY2U_MgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSIEMUJoKWOkKcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACBpgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+So... Unreal Engine is already open source and cross platform. I understand they... | Hacker News
+https://news.ycombinator.com/item?id=13762711
+
+godot4 rhythm game github - Google 搜索
+https://www.google.com.hk/search?q=godot4++rhythm+game+github&newwindow=1&client=ubuntu-sn&sca_esv=1056a6de40a7e062&sca_upv=1&channel=fs&udm=7&tbs=qdr:y&ei=d-XvZtT1MNPOkPIPw9-88A4&start=20&sa=N&sstk=AagrsuilkNLUoeIRyOOc-eDVmIrUhTx0Dy_nFFQuUoii2tKPi9pAISZlm6gmbT3ndbKC_zoDJ0_Nc8aOGl8_unw-EzSf8rFVDqtrASMvn7VhejEfqao8Y3J0B5siPaWyMdly&ved=2ahUKEwiUjZ25oNaIAxVTJ0QIHcMvD-44ChDy0wN6BAgEEAc&biw=1850&bih=968&dpr=1
+
+I rebuilt my indie game in a month - YouTube
+https://www.youtube.com/watch?v=q8WL1Z1W4Gs
+
+wojciech-bilicki/PingPongMultiplayer
+https://github.com/wojciech-bilicki/PingPongMultiplayer
+
+I tried to make Godot Pals - YouTube
+https://www.youtube.com/watch?v=YuZJrjN9pk8
+
+clayjohn/godot-volumetric-cloud-demo-v2: V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo
+https://github.com/clayjohn/godot-volumetric-cloud-demo-v2
+
+gtibo/VFX-sketchbook-Godot-4.x: A collection of VFX created with Godot 4.x, exploring the software’s visual capabilities.
+https://github.com/gtibo/VFX-sketchbook-Godot-4.x
+
+clayjohn/godot-volumetric-cloud-demo-v2: V2 of https://github.com/clayjohn/godot-volumetric-cloud-demo
+https://github.com/clayjohn/godot-volumetric-cloud-demo-v2
+
+MiniDigger/Godotcraft: Minecraft, but using the godot engine
+https://github.com/MiniDigger/Godotcraft
+
+Revolutionary-Games/Thrive: The main repository for the development of the evolution game Thrive.
+https://github.com/Revolutionary-Games/Thrive
+
+Index of /compute/cuda/repos/ubuntu2204/x86_64
+https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/
+
+CUDA Toolkit 12.6 Update 1 Downloads | NVIDIA Developer
+https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local
+
+veloren/veloren: An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+https://github.com/veloren/veloren
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
