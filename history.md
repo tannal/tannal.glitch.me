@@ -1,5 +1,95 @@
 # 2024-9-23
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+3D Computer Graphics Resources for Beginners [2023 WIP] - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+szager-chromium
+https://github.com/szager-chromium
+
+CSS Viewport Module Level 1
+https://drafts.csswg.org/css-viewport-1/#zoom-property
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+spidermonkey-dev-tools/make.sh at master · nbp/spidermonkey-dev-tools
+https://github.com/nbp/spidermonkey-dev-tools/blob/master/make.sh
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+Top-Ranking Issues (last 7 days) 📊 · Issue #6952 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/6952
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+New Discussion · zed-industries/zed
+https://github.com/zed-industries/zed/discussions/new?category=q-a
+
+Scenes - Game Development with Unity for Web Developers | Frontend Masters
+https://frontendmasters.com/courses/unity/scenes/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Introduction - Functional JavaScript First Steps | Frontend Masters
+https://frontendmasters.com/courses/functional-first-steps/pure-functions-exercise/
+
+⚙ D223065 Bug 1880789 - Remove dom.workers.modules.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D223065#7665654
+
+⚙ D222929 Bug 1919188 - Remove dom.iframe_lazy_loading.enabled pref. r?gregp
+https://phabricator.services.mozilla.com/D222929
+
+Show HN: Supermaven, the first code completion tool with 300k token context | Hacker News
+https://news.ycombinator.com/item?id=39473773
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+First pass at making a linux keymap by gmorenz · Pull Request #8082 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/8082/files#diff-76d7ba98d16af9d8a0a204d7f869d1ecb04faa1d1de4d5f0afac9be9d1078861
+
+SomeoneToIgnore (Kirill Bulatov)
+https://github.com/SomeoneToIgnore
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+Zed on Linux Is Here | Hacker News
+https://news.ycombinator.com/item?id=40928893
+
+Commits · zed-industries/zed
+https://github.com/zed-industries/zed/commits/main/?author=SomeoneToIgnore
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

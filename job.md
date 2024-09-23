@@ -568,11 +568,12 @@ igalia申请 deadline
 # 2024-9-22 - 2024-9-29
 
 [] follow up pr for test262
-
+[] 
 
 https://github.com/w3c/csswg-drafts/issues/10872
 
-[] implement go to recent directories in zed
+[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+
 ```rs
 // assets/keymaps/default-linux.json add a new context and keymap for new component
 // create a new lib called go_to_rencent directories
@@ -595,8 +596,12 @@ impl Render for FileFinder {
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] 2024-9-25 14:30 233 -> 16:45 banche -> 20:00
 [] erji meeting microphone
+
 [] breads babaozhou lingshi
+
 [] find another issues to work with gecko or spidermonkey
+https://codetribute.mozilla.org/projects/webplatform
+
 [] 2024-9-27 linebender office hour 23:00
 
 # 2024-9-15 - 2024-9-22
