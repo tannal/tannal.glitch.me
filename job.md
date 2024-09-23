@@ -567,6 +567,17 @@ igalia申请 deadline
 
 # 2024-9-22 - 2024-9-29
 
+[] follow up pr for test262
+[] implement go to recent directories in zed
+[] webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+[] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
+[] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
+[] 2024-9-25 14:30 233 -> 16:45 banche -> 20:00
+[] erji meeting microphone
+[] breads babaozhou lingshi
+[] find another issues to work with gecko or spidermonkey
+[] 2024-9-27 linebender office hour 23:00
+
 # 2024-9-15 - 2024-9-22
 
 [] follow up pr for test262 
@@ -598,7 +609,7 @@ cv2 for ai algo
 cv for frontend
 cv for igalia
 
-[] zhouzhiguo nenuoj 
+[x] zhouzhiguo nenuoj 
 [x] Redmi R7800 book for content 
 [x] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213 
 [] content bilibili video tannal.github.io blog post

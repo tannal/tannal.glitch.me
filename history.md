@@ -1,3 +1,89 @@
+# 2024-9-23
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+relaxed-simd/test/Todo.md at c3f9359af2cd607cc46b0a3274f90ea52543a2f2 · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/blob/c3f9359af2cd607cc46b0a3274f90ea52543a2f2/test/Todo.md?plain=1#L34
+
+Using module.enableCompileCache() for the underlying implementation? · Issue #51 · zertosh/v8-compile-cache
+https://github.com/zertosh/v8-compile-cache/issues/51
+
+testsuite/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast at main · WebAssembly/testsuite
+https://github.com/WebAssembly/testsuite/blob/main/proposals/relaxed-simd/i16x8_relaxed_q15mulr_s.wast
+
+Intent to Ship: WebAssembly Relaxed SIMD
+https://groups.google.com/a/chromium.org/g/blink-dev/c/HzLlEGLSx7E
+
+Prototype relaxed-simd instructions [41480401] - Chromium
+https://issues.chromium.org/issues/41480401
+
+[wasm-relaxed-simd][x64] Prototype i8x16 relaxed swizzle (3206502) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/3206502
+
+…/test-run-wasm-relaxed-simd.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/3207006/7/test/cctest/wasm/test-run-wasm-relaxed-simd.cc
+
+1706922 - (wasm-relaxed-simd) [meta] WebAssembly relaxed SIMD
+https://bugzilla.mozilla.org/show_bug.cgi?id=1706922
+
+1731852 - Prototype relaxed-SIMD blend instructions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1731852
+
+blend instructions · Issue #17 · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/issues/17
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+Current Local Time in Edmonton, Alberta, Canada
+https://www.timeanddate.com/worldclock/canada/edmonton
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors#hard-tasks
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+Issue search results
+https://github.com/search?q=author%3Araphlinus&type=issues
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+simde - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=simde
+
+SIMD Everywhere
+https://github.com/simd-everywhere
+
+relaxed fused multiply-add and fused multiply-subtract · Issue #27 · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/issues/27
+
+(13) YouTube
+https://www.youtube.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=incentize&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=newbie&op=translate
+
+vinc17.org/software/fma-tests.c
+http://www.vinc17.org/software/fma-tests.c
+
+Daniel Liu github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Daniel+Liu+github
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls?q=is%3Apr+author%3Adanlliu+is%3Aclosed
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
 # 2024-9-22
 
 unreal.md (Working Tree) (unreal.md) - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
