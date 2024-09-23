@@ -1,5 +1,77 @@
 # 2024-9-23
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+Google
+https://www.google.com.hk/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Replace Signature::Build with ::Get (5870695) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5870695?checksRunsSelected=v8_linux64_css_compile_dbg,v8_linux64_msan_rel,v8_mac_arm64_rel&tab=checks
+
+⚙ D223083 Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp
+https://phabricator.services.mozilla.com/D223083
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1917925 - Remove network.http.strict_response_status_line_parsing pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917925
+
+⚙ D223107 Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+d2mfgivbiy2fiw.cloudfront.net/file/data/zdvday7ap6x5q66y3djt/PHID-FILE-jcncncoy2ihmg7oulbeu/D221691.1727165167.diff
+https://d2mfgivbiy2fiw.cloudfront.net/file/data/zdvday7ap6x5q66y3djt/PHID-FILE-jcncncoy2ihmg7oulbeu/D221691.1727165167.diff
+
+⚙ D221691 WIP: Bug 1917771 - Use bottom of content box as the range frame's baseline.
+https://phabricator.services.mozilla.com/D221691
+
+⚙ D221691 WIP: Bug 1917771 - Use bottom of content box as the range frame's baseline.
+https://phabricator.services.mozilla.com/D221691
+
+bug1918733.bmoattachments.org/attachment.cgi?id=9424708
+https://bug1918733.bmoattachments.org/attachment.cgi?id=9424708
+
+artificial intelligence a new synthesis pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=artificial+intelligence+a+new+synthesis+pdf
+
+cs_books/Nils J. Nilsson-Artificial Intelligence_ A New Synthesis -Morgan Kaufmann Publishers, Inc. (1998).pdf at master · AzatAI/cs_books
+https://github.com/AzatAI/cs_books/blob/master/Nils%20J.%20Nilsson-Artificial%20Intelligence_%20A%20New%20Synthesis%20-Morgan%20Kaufmann%20Publishers%2C%20Inc.%20(1998).pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Linux x64 debug build-linux64/debug B
+https://treeherder.mozilla.org/logviewer?job_id=475406549&repo=autoland&lineNumber=40016
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+New Issue · microsoft/vscode
+https://github.com/microsoft/vscode/issues/new?assignees=&labels=&projects=&template=bug_report.md
+
+cursor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cursor
+
+tannal (tannal)
+https://github.com/tannal/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-23
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

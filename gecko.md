@@ -25,6 +25,10 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
+
+Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp 
+
 Bug 1920352 - Remove unused dom.testing.sync-content-blocking-notifications pref. r?gregp
 
 Bug 1880789 - Remove dom.workers.modules.enabled pref. r?gregp
