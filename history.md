@@ -1,5 +1,62 @@
 # 2024-9-23
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Linux x64 debug build-linux64/debug B
+https://treeherder.mozilla.org/logviewer?job_id=475406549&repo=autoland&lineNumber=40016
+
+Replace Signature::Build with ::Get (5870695) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5870695?tab=comments
+
+69a7bdd52307ffda36e6586dd79603d61fa8106c - v8/v8 - Git at Google
+https://chromium.googlesource.com/v8/v8/+/69a7bdd52307ffda36e6586dd79603d61fa8106c
+
+Crash in v8::internal::wasm::WasmImportWrapperCache::CompileWasmImportCallWrapper [368114039] - Chromium
+https://issues.chromium.org/issues/368114039
+
+1917602 - CSS zoom property is animatable contrary to what spec says
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917602
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D223083 Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp
+https://phabricator.services.mozilla.com/D223083/new/
+
+1917925 - Remove network.http.strict_response_status_line_parsing pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917925
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Element [7] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-23
+
+pdf diff - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pdf+diff
+
+vslavik (Václav Slavík)
+https://github.com/vslavik
+
+⚙ D223139 Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp
+https://phabricator.services.mozilla.com/D223139
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
