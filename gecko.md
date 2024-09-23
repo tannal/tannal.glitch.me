@@ -6,6 +6,8 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
 
 # Achievement
 
+Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+
 Bug 1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used. r?ajakobi
 
 Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
@@ -22,6 +24,8 @@ Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dmin
 implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
 # working on
+
+Bug 1920352 - Remove unused dom.testing.sync-content-blocking-notifications pref. r?gregp
 
 Bug 1880789 - Remove dom.workers.modules.enabled pref. r?gregp
 

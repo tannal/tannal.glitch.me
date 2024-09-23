@@ -568,7 +568,28 @@ igalia申请 deadline
 # 2024-9-22 - 2024-9-29
 
 [] follow up pr for test262
+
+
+https://github.com/w3c/csswg-drafts/issues/10872
+
 [] implement go to recent directories in zed
+```rs
+// assets/keymaps/default-linux.json add a new context and keymap for new component
+// create a new lib called go_to_rencent directories
+// init with picker component 
+impl Render for FileFinder {
+    fn render(&mut self, cx: &mut ViewContext<Self>) -> impl IntoElement {
+        v_flex()
+            .key_context("FileFinder")
+            .w(rems(10000.))
+            .on_modifiers_changed(cx.listener(Self::handle_modifiers_changed))
+            .on_action(cx.listener(Self::handle_select_prev))
+            .child(self.picker.clone())
+    }
+}
+
+```
+
 [] webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
 [] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
