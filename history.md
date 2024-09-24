@@ -1,3 +1,95 @@
+# 2024-9-24
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Assigned to me - Issue Tracker
+https://issuetracker.google.com/issues?q=assignee:tannal2409@gmail.com%20status:open
+
+My Reviews · Gerrit Code Review
+https://android-review.googlesource.com/dashboard/self
+
+Android Code Search
+https://cs.android.com/android-studio
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+build firefox with git - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=build+firefox+with+git
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223083 Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp
+https://phabricator.services.mozilla.com/D223083
+
+⚙ D223083 Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp
+https://phabricator.services.mozilla.com/D223083
+
+Reftests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/reftests.html
+
+⚙ D223078 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+https://phabricator.services.mozilla.com/D223078?id=918170#inline-1239314
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Commits · zed-industries/zed
+https://github.com/zed-industries/zed/commits?author=SomeoneToIgnore&since=2024-08-31&until=2024-09-23
+
+tannal (tannal)
+https://github.com/tannal
+
+267055 – [JSC] Enable alt_entry for newer SDKs
+https://bugs.webkit.org/show_bug.cgi?id=267055
+
+Reporting and Charting Kitchen
+https://bugs.webkit.org/report.cgi
+
+[JSC] Enable alt_entry for newer SDKs by Constellation · Pull Request #22364 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/22364/files
+
+llvm-project/lld/test/MachO/stabs.s at 0673642cab6b6a9eec20d4ea4ee6bc46db47e04c · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/0673642cab6b6a9eec20d4ea4ee6bc46db47e04c/lld/test/MachO/stabs.s#L174
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+webkit developer sdk - Google 搜索
+https://www.google.com.hk/search?q=webkit+developer+sdk&newwindow=1&client=ubuntu-sn&hs=c80&sca_esv=1562c200f56fdc89&sca_upv=1&channel=fs&ei=4TbyZs-CEbzOkPIPgIrMiAI&ved=0ahUKEwiP95uv1tqIAxU8J0QIHQAFEyEQ4dUDCA8&uact=5&oq=webkit+developer+sdk&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdlYmtpdCBkZXZlbG9wZXIgc2RrMgUQIRigATIFECEYoAFIxENQgCFYlkJwAXgCkAEAmAG9AqABqSiqAQYyLTE2LjO4AQPIAQD4AQGYAhWgApIpqAIHwgIEEAAYR8ICGhAAGIAEGLQCGOUCGLcDGIoFGOoCGIoD2AEBwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgkQABiABBgKGAzCAgQQABgewgIGEAAYHhgPwgIGEAAYCBgewgIIEAAYgAQYogSYAwiIBgGQBgq6BgQIARgHkgcIMi4wLjE1LjSgB5hA&sclient=gws-wiz-serp
+
+Igalia/webkit-container-sdk: The all-in-one SDK for WebKit GTK/WPE port development.
+https://github.com/Igalia/webkit-container-sdk
+
+tannal (tannal)
+https://github.com/tannal/
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+google play apk github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=google+play+apk+github
+
+3052/google: Download APK from Google Play or send API requests
+https://github.com/3052/google
+
+Google Play 上的 Android 应用
+https://play.google.com/store/apps
+
 # 2024-9-23
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

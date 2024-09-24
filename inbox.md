@@ -1,4 +1,9 @@
 
+# 2024-9-24 0 | 0
+
+
+
+
 # 2024-9-23 0 | 0
 
 goal -> progress -> human/no-human feedback -> next progress -> achieve -> human/no-human feedback -> next goal
