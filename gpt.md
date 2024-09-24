@@ -1,5 +1,61 @@
 
 
+
+#!/bin/bash
+
+# 设置 SDK 根目录
+SDK_ROOT="$HOME/Android/Sdk"
+
+# 创建必要的目录结构
+mkdir -p "$SDK_ROOT"/{build-tools,cmdline-tools,emulator,licenses,platforms,platform-tools,sources,system-images,tools}
+
+# 下载 platform-tools
+wget -O platform-tools.zip https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+unzip platform-tools.zip -d "$SDK_ROOT"
+rm platform-tools.zip
+
+# 下载 build-tools（这里以 30.0.3 为例）
+wget -O build-tools.zip https://dl.google.com/android/repository/build-tools_r30.0.3-linux.zip
+unzip build-tools.zip -d "$SDK_ROOT/build-tools/30.0.3"
+rm build-tools.zip
+
+# 下载 cmdline-tools
+wget -O cmdline-tools.zip https://dl.google.com/android/repository/commandlinetools-linux-8092744_latest.zip
+unzip cmdline-tools.zip -d "$SDK_ROOT/cmdline-tools"
+rm cmdline-tools.zip
+
+# 下载 emulator
+wget -O emulator.zip https://dl.google.com/android/repository/emulator-linux_x64-8420304.zip
+unzip emulator.zip -d "$SDK_ROOT"
+rm emulator.zip
+
+# 下载 platforms（这里以 android-30 为例）
+wget -O platforms.zip https://dl.google.com/android/repository/platform-30_r03.zip
+unzip platforms.zip -d "$SDK_ROOT/platforms/android-30"
+rm platforms.zip
+
+# 下载 system-images（这里以 android-30/google_apis/x86 为例）
+wget -O system-images.zip https://dl.google.com/android/repository/sys-img/google_apis/x86-30_r10.zip
+mkdir -p "$SDK_ROOT/system-images/android-30/google_apis"
+unzip system-images.zip -d "$SDK_ROOT/system-images/android-30/google_apis/x86"
+rm system-images.zip
+
+# 下载 sources（这里以 android-30 为例）
+wget -O sources.zip https://dl.google.com/android/repository/sources-30_r01.zip
+unzip sources.zip -d "$SDK_ROOT/sources/android-30"
+rm sources.zip
+
+# 下载 tools
+wget -O tools.zip https://dl.google.com/android/repository/tools_r25.2.5-linux.zip
+unzip tools.zip -d "$SDK_ROOT/tools"
+rm tools.zip
+
+# 设置许可证
+mkdir -p "$SDK_ROOT/licenses"
+echo "24333f8a63b6825ea9c5514f83c2829b004d1fee" > "$SDK_ROOT/licenses/android-sdk-license"
+
+echo "Android SDK 安装完成！"
+
 您的观点非常有见地，确实反映了当前技术发展的趋势和可能的未来方向。让我们深入探讨一下这个想法：
 
 AI 增强的移动平台：

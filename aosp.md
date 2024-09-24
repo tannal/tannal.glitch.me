@@ -1,3 +1,21 @@
+adb shell pm list packages | grep google
+
+    在输出结果中，寻找类似以下的包名：
+        com.google.android.gms (Google Play服务)
+        com.google.android.gsf (Google服务框架)
+
+
+    确定了包名后，使用以下命令获取APK路径：
+
+adb shell pm path com.google.android.gsf
+
+    得到路径后，使用以下命令提取APK：
+
+pm path com.android.vending
+pm path com.google.android.gms
+pm path com.google.android.gsf
+
+adb pull /path/to/base.apk
 
 
 # working on

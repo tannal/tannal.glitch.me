@@ -1,5 +1,104 @@
 # 2024-9-24
 
+sqlite.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannalwork/books 位于 main - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main/books
+
+tannal (tannal)
+https://github.com/tannal/
+
+cmu mach paper - Google 搜索
+https://www.google.com.hk/search?q=cmu+mach+paper&newwindow=1&client=ubuntu-sn&hs=7fS&sca_esv=8d08fdb92d3dc4d4&sca_upv=1&channel=fs&ei=FJ7yZsLLD867kPIP_6u7mQc&ved=0ahUKEwjCpeLkuNuIAxXOHUQIHf_VLnMQ4dUDCA8&uact=5&oq=cmu+mach+paper&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmNtdSBtYWNoIHBhcGVyMggQABgKGAwYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPMKUKcEWPYJcAF4AZABAJgBnQKgAawGqgEDMi0zuAEDyAEA-AEBmAIEoALKBsICChAAGLADGNYEGEfCAgYQABgKGB7CAgYQABgIGB7CAgUQIRigAZgDAIgGAZAGCpIHBTEuMC4zoAeOBw&sclient=gws-wiz-serp
+
+Published and Unpublished Mach Papers
+https://www.cs.cmu.edu/afs/cs/project/mach/public/www/doc/publications.html
+
+accetta86.pdf
+https://cseweb.ucsd.edu/classes/wi11/cse221/papers/accetta86.pdf
+
+xerox parc - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=xerox+parc
+
+(14) Steve Jobs The Lost Interview - YouTube
+https://www.youtube.com/watch?v=rDqQcmVqAm4
+
+(14) Bloomberg Originals - YouTube
+https://www.youtube.com/bloomberg/videos
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+sqlite static link arm64 android - Google 搜索
+https://www.google.com.hk/search?q=sqlite+static+link+arm64+android&newwindow=1&client=ubuntu-sn&hs=9bo&sca_esv=2a83cd2c2809a61f&sca_upv=1&channel=fs&ei=JbHyZuHQHpavur8PpvLKwQE&ved=0ahUKEwih96n8ytuIAxWWl-4BHSa5MhgQ4dUDCA8&uact=5&oq=sqlite+static+link+arm64+android&gs_lp=Egxnd3Mtd2l6LXNlcnAiIHNxbGl0ZSBzdGF0aWMgbGluayBhcm02NCBhbmRyb2lkMgcQIRigARgKMgcQIRigARgKSORDUKgGWPVCcAF4AZABAJgBigOgAYE8qgEGMi0zLjIwuAEDyAEA-AEBmAIYoALgPMICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgcQABiABBgMwgIEEAAYHsICBhAAGAwYHsICCBAAGAoYDBgewgIGEAAYHhgPwgIHEAAYgAQYE8ICBhAAGBMYHsICCBAAGBMYHhgPwgIIEAAYExgFGB7CAgYQABgIGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcIMS4wLjIuMjGgB5o9&sclient=gws-wiz-serp
+
+[sqlite3] link failure for android `arm64` and `x86` · Issue #33428 · microsoft/vcpkg
+https://github.com/microsoft/vcpkg/issues/33428
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+[VSCode] Support drag and drop of files (pdf and images) into the typst editor · Issue #508 · Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist/issues/508
+
+Paste Image - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image
+
+vscode-paste-image/src/extension.ts at master · mushanshitiancai/vscode-paste-image
+https://github.com/mushanshitiancai/vscode-paste-image/blob/master/src/extension.ts
+
+poe api - Google 搜索
+https://www.google.com.hk/search?q=poe+api+&newwindow=1&client=ubuntu-sn&hs=uIp&sca_esv=124892d69d68a598&sca_upv=1&channel=fs&ei=gLvyZqKsFLCvur8Pzt22sAk&ved=0ahUKEwii7Kvs1NuIAxWwl-4BHc6uDZYQ4dUDCA8&uact=5&oq=poe+api+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHBvZSBhcGkgMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgkQABiABBgKGAwyCRAAGIAEGAoYDDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjzVlCdD1jlUnADeAGQAQKYAa0EoAHLGKoBCTItMy40LjEuMbgBA8gBAPgBAZgCCqAC9hDCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICCRAuGIAEGAoYDMICBBAAGB6YAwCIBgGQBgqSBwczLjAuMy40oAeKHw&sclient=gws-wiz-serp
+
+poe-api-wrapper/poe_api_wrapper/api.py at main · snowby666/poe-api-wrapper
+https://github.com/snowby666/poe-api-wrapper/blob/main/poe_api_wrapper/api.py
+
+snowby666/poe-api-wrapper: 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀
+https://github.com/snowby666/poe-api-wrapper
+
+cursor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cursor
+
+Cursor  |  Android Developers
+https://developer.android.com/reference/android/database/Cursor
+
+Cursor
+https://www.cursor.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=cursor&op=translate
+
+tannal (tannal) / August 2024
+https://github.com/tannal?tab=overview&from=2024-08-01&to=2024-08-31
+
+zed github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zed+github
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Cursor – The AI-First Code Editor | Hacker News
+https://news.ycombinator.com/item?id=37888477
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=moderately-sized%20codebase&op=translate
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
