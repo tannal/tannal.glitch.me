@@ -1,7 +1,8 @@
 
 # 2024-9-24 0 | 0
 
-
+We are human, we make mistakes.
+That's totally fine.
 
 
 # 2024-9-23 0 | 0
