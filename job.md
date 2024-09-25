@@ -601,7 +601,7 @@ impl Render for FileFinder {
 ```
 
 [] webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
-[] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
+[x] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] 2024-9-25 14:30 233 -> 16:45 banche -> 20:00
 [] erji meeting microphone

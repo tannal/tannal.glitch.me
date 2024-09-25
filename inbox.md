@@ -1,6 +1,8 @@
 
 # 2024-9-24 0 | 0
 
+valgrind --leak-check=full
+
 We are human, we make mistakes.
 That's totally fine.
 
