@@ -1,6 +1,8 @@
 
 # 2024-9-24 0 | 0
 
+Good artists copy, Great artists steal.
+
 valgrind --leak-check=full
 
 We are human, we make mistakes.

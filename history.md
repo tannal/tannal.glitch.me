@@ -1,3 +1,69 @@
+# 2024-9-25
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+richard rashid - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=richard+rashid
+
+(15) CHM Revolutionaries: Microsoft Research's Rick Rashid with John Markoff of The New York Times - YouTube
+https://www.youtube.com/watch?v=SHKFVUAamQY
+
+richard rashid_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=richard%20rashid&fenlei=256&rsv_pq=0xd1ae1b2d0006b3de&rsv_t=407cHozCiiX5WVIeMu2NucMgUGRQsGeOpSe5hyza9RgOEdgP%2F4awDqVKiL7U&rqlang=en&rsv_enter=1&rsv_dl=ib&rsv_n=2&rsv_sug3=1&rsv_sug2=0&rsv_btype=i&inputT=865&rsv_sug4=866
+
+俄发布“价值观敌对”国家地区名单_百度搜索
+https://www.baidu.com/s?rsv_idx=1&wd=%E4%BF%84%E5%8F%91%E5%B8%83%E2%80%9C%E4%BB%B7%E5%80%BC%E8%A7%82%E6%95%8C%E5%AF%B9%E2%80%9D%E5%9B%BD%E5%AE%B6%E5%9C%B0%E5%8C%BA%E5%90%8D%E5%8D%95&fenlei=256&ie=utf-8&rsv_pq=f0e66bee0002aa52&oq=richard%20rashid&rsv_t=d741pQdsq6TVpldSzZTU8EhTWOUap3rTQk7xjlmLIgPwDUWPQDzy%2FRE8nAg&rqid=f0e66bee0002aa52&rsf=b80c09e529ec52bb75e1026d2cfb263c_1_15_2&rsv_dl=0_right_fyb_pchot_20811&sa=0_right_fyb_pchot_20811
+
+avie tevanian - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=avie+tevanian
+
+(15) Cliff Click - YouTube
+https://www.youtube.com/@compilers
+
+avie tevanian_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=avie%20tevanian&fenlei=256&rsv_pq=0xd20b0c480005dda2&rsv_t=8fb0RovpzNTXBx4bib9l2HmdFFZpL8mT0sH5tMBHv5uXBcLU2gEYCbyLqqwF&rqlang=en&rsv_enter=1&rsv_dl=ib&rsv_n=2&rsv_sug3=1&rsv_sug2=0&rsv_btype=i&inputT=371&rsv_sug4=371
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+D223107: Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQKPpWHztlpmWcStvjwsNsGh
+
+testing/web-platform/tests/html/semantics/forms/the-input-element - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/forms/the-input-element
+
+⚙ D223078 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+https://phabricator.services.mozilla.com/D223078#7668650
+
+range-intrinsic-size.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/forms/the-input-element/range-intrinsic-size.html
+
+testing/web-platform/tests/html/semantics/forms/the-input-element - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/forms/the-input-element
+
+(15) 周杰倫自彈自唱《最長的電影》超越了原版CD(周杰倫2007世界巡迴演唱會) - YouTube
+https://www.youtube.com/watch?v=U5xT-r8Ffo4
+
+tannal
+https://tannal.github.io/
+
+(15) Kernel Recipes 2024 - YouTube
+https://www.youtube.com/watch?v=wVY6ix7oH5o
+
+rossberg (Andreas Rossberg)
+https://github.com/rossberg
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+
 # 2024-9-24
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
