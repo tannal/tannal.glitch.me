@@ -6,6 +6,63 @@ https://github.dev/tannal/tannal.glitch.me
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+(16) Kernel Recipes 2024 - YouTube
+https://www.youtube.com/watch?v=wVY6ix7oH5o
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+range-intrinsic-size.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/forms/the-input-element/range-intrinsic-size.html
+
+bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+⚙ D223107 Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7668739
+
+⚙ D223107 Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7668739
+
+Reftests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/reftests.html
+
+range-intrinsic-size-ref.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/semantics/forms/the-input-element/range-intrinsic-size-ref.html
+
+Reftests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/reftests.html
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The Hitchhiker's Guide to Firefox Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-firefox-contributor/
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/input.html#range-state-(type=range)
+
+GitHub
+https://github.com/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 richard rashid - Google 搜索
 https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=richard+rashid
 
