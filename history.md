@@ -1,5 +1,95 @@
 # 2024-9-26
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+RegExp v flag with set notation and properties of strings · V8
+https://v8.dev/features/regexp-v-flag
+
+Lyra Sample Game in Unreal Engine | Unreal Engine 5.4 Documentation | Epic Developer Community
+https://dev.epicgames.com/documentation/en-us/unreal-engine/lyra-sample-game-in-unreal-engine?application_version=5.0
+
+(173) Michael Saboff — JavaScriptCore, many compilers make this engine perform - YouTube
+https://www.youtube.com/watch?v=mtVBAcy7AKA&t=1965s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(1) Resources | Page 3
+https://tutflix.org/resources/?page=3
+
+电子签名在线 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=69fb379725caa853&sca_upv=1&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILETPgYFYujFgXm20vLEzwmtLKYxA:1726574537036&q=%E7%94%B5%E5%AD%90%E7%AD%BE%E5%90%8D%E5%9C%A8%E7%BA%BF&sa=X&ved=2ahUKEwjogNWv98mIAxXgD0QIHZftH5kQ1QJ6BAhAEAE&biw=1280&bih=593&dpr=1.5
+
+电子签名，免费生成电子签名
+http://electronicsignature.wiicha.com/
+
+登录QQ邮箱
+https://mail.qq.com/?cancel_login=true&from=ajax_proxy_retry
+
+Android Internals:Developer's View: Jonathan Levin - Google 搜索
+https://www.google.com.hk/search?q=Android+Internals%3ADeveloper%27s+View%3A+Jonathan+Levin&newwindow=1&sca_esv=825e01edc18a56f7&sca_upv=1&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJEl50Q2AgNusG270kmheT0W5u67Q%3A1726585768044&ei=qJvpZtG4AtbYkPIP8qudiQU&ved=0ahUKEwjRrIObocqIAxVWLEQIHfJVJ1EQ4dUDCA8&uact=5&oq=Android+Internals%3ADeveloper%27s+View%3A+Jonathan+Levin&gs_lp=Egxnd3Mtd2l6LXNlcnAiMkFuZHJvaWQgSW50ZXJuYWxzOkRldmVsb3BlcidzIFZpZXc6IEpvbmF0aGFuIExldmluMgoQABiwAxjWBBhHSJcTUMERWMERcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACBZgDAOIDBRIBMSBAiAYBkAYBkgcBMaAHAA&sclient=gws-wiz-serp
+
+Error 404 (Not Found)!!1
+https://books.google.cn/books/about/Android_internals.html?id=_6agzwEACAAJ&redir_esc=y
+
+Android Internals::Developer's View - ISBN 9780991055548 | CampusBooks
+https://www.campusbooks.com/books/9780991055548-android-internals-developer-s-view
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/dp/0991055543/ref=olp-opf-redir?aod=1&tag=wwwcampusboocom-20&condition=new
+
+Sign Up
+https://www.goodreads.com/user/sign_up?return_url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F61649827-android-internals
+
+Android Internals::Developer's View by Jonathan Levin | 9780991055548 | Get Textbooks | New Textbooks | Used Textbooks | College Textbooks - GetTextbooks.com
+https://www.gettextbooks.com/isbn/9780991055548/
+
+279843 – Null dereference crash of pageClient under WebPageProxy::performDragOperation()
+https://bugs.webkit.org/show_bug.cgi?id=279843
+
+improving discussion of generic Promise.try() called against custom constructor by getify · Pull Request #35783 · mdn/content
+https://github.com/mdn/content/pull/35783/files
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+(8) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+源码编译aosp - Google 搜索
+https://www.google.com.hk/search?q=%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91aosp&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91aosp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiiBBiJBdIBCDQzMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Android 系统源码编译 | 皮皮小黑屋
+https://www.sunmoonblog.com/2024/07/17/build-aosp/
+
+410063005 (sunmoon)
+https://github.com/410063005
+
+(8) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+无法切换到此配置文件 clash - Google 搜索
+https://www.google.com.hk/search?q=%E6%97%A0%E6%B3%95%E5%88%87%E6%8D%A2%E5%88%B0%E6%AD%A4%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6+clash&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%97%A0%E6%B3%95%E5%88%87%E6%8D%A2&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEyNTI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+登陆 - NENUOJ
+http://39.101.69.154/loginpage.php
+
+(2) Amar Menezes (@amarekano) / X
+https://x.com/amarekano
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
