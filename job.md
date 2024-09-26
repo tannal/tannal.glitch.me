@@ -576,7 +576,7 @@ apply intern
 # 2024-9-22 - 2024-9-29
 
 [] follow up pr for test262
-[] wpt test for input vertical align
+[x] wpt test for input vertical align
 [x] wpt test for zoom dicrete animation
 
 https://github.com/w3c/csswg-drafts/issues/10872

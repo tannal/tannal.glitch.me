@@ -1,5 +1,74 @@
 # 2024-9-26
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1918706 - [Outreachy] Update test262 and test262 skipped files
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918706
+
+Current Local Time in Edmonton, Alberta, Canada
+https://www.timeanddate.com/worldclock/canada/edmonton
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(16) Lecture 02 - Process Address Space - YouTube
+https://www.youtube.com/watch?v=7SOelIld4YU
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1915096 - CSS zoom property doesn't change font size when font-size is specified by keywords
+https://bugzilla.mozilla.org/show_bug.cgi?id=1915096
+
+font.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/6e6265bd607cbe4c96e714f86d3d9e36620f63d6/servo/components/style/values/specified/font.rs#583
+
+The Hitchhiker's Guide to Firefox Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-firefox-contributor/
+
+Element [9] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=blast&op=translate
+
+manhatton schiffer math - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=manhatton+schiffer+math
+
+Menahem Max Schiffer - Wikipedia
+https://en.wikipedia.org/wiki/Menahem_Max_Schiffer
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+[Bug 1917602] CSS zoom property is animatable contrary to what spec says - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGtmBkJKdrBMgQgTQSJKRFlV
+
+⚙ D223078 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+https://phabricator.services.mozilla.com/D223078
+
+[css-viewport] Is zoom supposed to be non animatable? · Issue #10872 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10872
+
+CSS Viewport Module Level 1
+https://drafts.csswg.org/css-viewport-1/#zoom-property
+
+Bug 1917602 - Make CSS zoom property discrete animatable. r=emilio · mozilla/gecko-dev@273c630
+https://github.com/mozilla/gecko-dev/commit/273c630f69e752a5bc421db9be19d90f7289d6f1
+
+spain time - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=spain+time
+
+CSS Animations Level 1
+https://drafts.csswg.org/css-animations-1/
+
+csswg github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=csswg+github
+
+w3c/csswg-drafts at baced94c0c78a223d52ca251814c5a8c92b718c9
+https://github.com/w3c/csswg-drafts/tree/baced94c0c78a223d52ca251814c5a8c92b718c9
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
@@ -59,7 +128,7 @@ https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&unti
 
 # 2024-9-25
 
-history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+history.fd - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
 微信文件传输助手网页版
