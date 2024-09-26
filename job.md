@@ -577,7 +577,7 @@ apply intern
 
 [] follow up pr for test262
 [] wpt test for input vertical align
-[] wpt test for zoom dicrete animation
+[x] wpt test for zoom dicrete animation
 
 https://github.com/w3c/csswg-drafts/issues/10872
 

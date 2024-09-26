@@ -1,3 +1,62 @@
+# 2024-9-26
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files#diff-1c9cc7d981f1dfc766bcae67e20355636e5a0a22a285ad47122ab4df5aed4647
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+280243 – Better error message for JIT tier dependencies
+https://bugs.webkit.org/show_bug.cgi?id=280243#add_comment
+
+⚙ D223078 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+https://phabricator.services.mozilla.com/D223078#7682803
+
+280243 – Better error message for JIT tier dependencies
+https://bugs.webkit.org/show_bug.cgi?id=280243
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+Handle feature dependecies better in complie time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
+firefox baseline align vertical - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=firefox+baseline+align+vertical
+
+css - "vertical-align: middle" does not align to the middle in Firefox - Stack Overflow
+https://stackoverflow.com/questions/732139/vertical-align-middle-does-not-align-to-the-middle-in-firefox
+
+how to hidden content box not border - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=how+to+hidden+content+box+not+border
+
+css - Make element transparent except border? - Stack Overflow
+https://stackoverflow.com/questions/25355486/make-element-transparent-except-border
+
+D223107: Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQKPpWHztlpmWcStvjwsNsGh
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7668739
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-26
+
 # 2024-9-25
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
