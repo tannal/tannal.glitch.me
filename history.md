@@ -1,3 +1,110 @@
+# 2024-9-27
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+15-442/15-642 | Schedule
+https://mlsyscourse.org/schedule
+
+18-advanced-topic-mlc.pdf
+https://mlsyscourse.org/slides/18-advanced-topic-mlc.pdf
+
+15-442/15-642 | Home
+https://mlsyscourse.org/
+
+LLM_assessment_improving_2024.4.pdf
+https://www.cs.cmu.edu/~leili/TALKS/LLM_assessment_improving_2024.4.pdf
+
+21-guest-lecture-speculative-decoding.pdf
+https://mlsyscourse.org/slides/21-guest-lecture-speculative-decoding.pdf
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107?id=920607#inline-1242464
+
+1917602 - CSS zoom property is animatable contrary to what spec says
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917602#c14
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/input.html#range-state-(type=range)
+
+[css-viewport] Is zoom supposed to be non animatable? · Issue #10872 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10872
+
+[css-viewport] [cssom-view-1] Add a definition of the `zoom` CSS property by chrishtr · Pull Request #9699 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/pull/9699
+
+DOM APIs affected by CSS zoom - Google 文档
+https://docs.google.com/document/d/1AcnDShjT-kEuRaMchZPm5uaIgNZ4OiYtM4JI9qiV8Po/edit
+
+JS Bin - Collaborative JavaScript Debugging
+https://jsbin.com/wasafateko/edit?html,css,js,output
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev
+
+Chris Harrelson youtube - Google 搜索
+https://www.google.com.hk/search?q=Chris+Harrelson+youtube&newwindow=1&client=ubuntu-sn&sca_esv=21fd2d4e13d87791&sca_upv=1&channel=fs&ei=3j_1ZrTtMKrCkPIP5ZHqoQo&start=10&sa=N&sstk=Aagrsujuaq3bO5znWuF8aVy1J9MlMcZHnD7cF-m0KiBQhcEBpK591wK8J89PHeR-aQGZc0UbMibQBPUvNQZmRwSJjTVpynQH1Rmguw&ved=2ahUKEwi01NWuu-CIAxUqIUQIHeWIOqQQ8tMDegQIIBAE&biw=1850&bih=968&dpr=1
+
+cloud hypervisor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cloud+hypervisor
+
+cloud-hypervisor repositories
+https://github.com/orgs/cloud-hypervisor/repositories
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-26
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Add source-level instrumentation to JITCall.cpp to allow including C++ source in asm disassembly by justinmichaud · Pull Request #34323 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34323/files
+
+test262-update.py firefox - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=test262-update.py+firefox
+
+1652830 - Update Test262 from the project's main branch
+https://bugzilla.mozilla.org/show_bug.cgi?id=1652830
+
+frog protocol - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=frog+protocol
+
+tracy github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tracy+github
+
+wolfpld/tracy: Frame profiler
+https://github.com/wolfpld/tracy
+
+Code search results
+https://github.com/search?q=repo%3Alinebender%2Fvello%20tracy&type=code
+
+(469) #general > Observing Firefox remote debugging - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Observing.20Firefox.20remote.20debugging
+
+nano frames github - Google 搜索
+https://www.google.com.hk/search?q=nano+frames+github&newwindow=1&client=ubuntu-sn&hs=WpF&sca_esv=4b94f3f1e0097547&sca_upv=1&channel=fs&ei=F4D1ZuDkB9z4kPIPoJqUgQU&ved=0ahUKEwigzIPO-OCIAxVcPEQIHSANJVAQ4dUDCA8&uact=5&oq=nano+frames+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEm5hbm8gZnJhbWVzIGdpdGh1YjIHECEYoAEYCkj3G1CYDFiHG3ABeAGQAQCYAfwCoAHrDKoBBTItMS40uAEDyAEA-AEBmAIGoAKFDcICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgMGB7CAgQQABgewgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCZIHBzEuMC4xLjSgB74K&sclient=gws-wiz-serp
+
+ellipse math - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ellipse+math
+
+(1345) #xilem > Multiline textbox? - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Multiline.20textbox.3F
+
 # 2024-9-26
 
 makepad Analysis - Poe
