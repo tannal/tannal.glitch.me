@@ -1,6 +1,53 @@
 
 
 
+如何在huggingface上自建数据集上传数据文件？
+
+对于AI生成 和声 节奏 旋律 除了midi文件还有哪些可以用于训练？
+
+有哪些开源，可下载，其他AI gen music模型也在使用的开源数据集？
+
+Claude-3.5-Sonnet的机器人图片
+Claude-3.5-Sonnet
+
+Poe
+让我为您解答这些问题：
+
+在 Hugging Face 上自建数据集上传数据文件：
+a) 登录 Hugging Face 账户。
+b) 点击右上角的 "New" 按钮，选择 "Dataset"。
+c) 选择数据集的可见性（公开或私有）。
+d) 填写数据集的基本信息，如名称、描述等。
+e) 选择上传方式：可以直接拖放文件，或使用 Git LFS 等方式上传大文件。
+f) 上传完成后，可以编辑数据集卡片，添加标签、许可证等信息。
+
+用于训练 AI 生成和声、节奏、旋律的文件格式：
+除了 MIDI 文件，还可以使用：
+
+a) MusicXML：一种用于记谱的 XML 格式。
+b) ABC 记谱法：一种文本格式的音乐记谱系统。
+c) 音频文件（WAV, MP3 等）：可以用于直接的音频生成任务。
+d) Piano roll：钢琴卷帘格式，可以用图像表示。
+e) Musicology 数据：和弦进行、音阶、调式等理论数据。
+f) Lyrics：歌词文本，用于结合音乐和文字的生成。
+
+开源、可下载、被其他 AI 音乐生成模型使用的数据集：
+a) Lakh MIDI Dataset：包含约 17 万首 MIDI 音乐。
+b) MAESTRO Dataset：古典钢琴音乐数据集。
+c) FMA (Free Music Archive)：包含各种流派的音频文件。
+d) MusicNet：古典音乐数据集，带有乐器、音高等标注。
+e) Million Song Dataset：大规模音乐元数据集。
+f) RWC (Real World Computing) Music Database：包含流行音乐、古典音乐等多种类型。
+g) NSynth Dataset：由 Google 发布的单音音色数据集。
+h) MUSDB18：多轨音乐分离数据集。
+i) Nottingham Database：民谣曲调数据集。
+j) Bach Chorales Dataset：巴赫合唱曲数据集。
+
+这些数据集涵盖了不同的音乐类型和格式，可以根据具体的 AI 音乐生成任务选择合适的数据集。在使用这些数据集时，请务必遵守相关的使用许可和版权规定。
+
+如果您需要更多关于这些数据集的详细信息或使用方法，我可以为您提供进一步的解释。
+
+
 #!/bin/bash
 
 # 设置 SDK 根目录
