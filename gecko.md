@@ -1,69 +1,3 @@
-
-
-# tc39 stage3 proposals
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
-
-# Achievement
-
-Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
-
-Bug 1917804 - Remove redudant zoom null checks when AsyncPanZoomController::ToCSSPixel is used. r?ajakobi
-
-Bug 1905241 - Implement Promise.try r=#spidermonkey-reviewers!
-https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
-
-⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
-
-https://phabricator.services.mozilla.com/D214042
-
-
-Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
-
-
-implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
-
-# working on
-
-Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
-
-Bug 1917925 - network.http.strict_response_status_line_parsing pref. r?gregp 
-
-Bug 1920352 - Remove unused dom.testing.sync-content-blocking-notifications pref. r?gregp
-
-Bug 1880789 - Remove dom.workers.modules.enabled pref. r?gregp
-
-Bug 1919187 - Remove dom.window.clientinformation.enabled pref. r?gregp
-
-Bug 1919188 - Remove dom.iframe_lazy_loading.enabled pref. r?gregp
-
-Bug 1917924 - Remove network.http.reject_NULs_in_response_header_values pref. r?gregp
-
-Bug 1917994 - Remove threads.control_event_queue.enabled pref. r?gregp
-
-Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai
-
-Bug 1917214 - Skip tests for redeclarable eval vars proposal in beta and release build. r?dminor
-
-Bug 1916102 - Remove network.url.strict_protocol_setter pref r?gregp
-
-Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
-
-https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
-
-Bug 1915613 - Remove test_http3_large_post_telemetry.js since the probes are expired. r?sekim
-
-Bug 1914532 - Remove unused layers.iosurfaceimage.use-nv12 pref. r?gregp
-
-Bug 1896539 - Fix typos in ChromeUtils.webidl r?aminomancer
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
-
-
 # follow
 
 https://bugzilla.mozilla.org/user_profile?user_id=310076
@@ -75,6 +9,41 @@ mgaudet@mozilla.com
 
 https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-5cmxqec7hkq4g5p2thju&statuses%5B0%5D=open()&order=newest&bucket=action
 fredw
+
+https://bugzilla.mozilla.org/user_profile?user_id=283262 fierfox devtools team now collabrate with servo
+
+
+# tc39 stage3 proposals
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
+
+# Achievement
+
+Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+
+⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+
+Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+
+implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
+
+# working on
+
+Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
+
+Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai
+
+Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
+
+https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
+
+
 
 # dev
 
