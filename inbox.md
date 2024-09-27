@@ -1,6 +1,13 @@
 
 # 2024-9-27 0 | 0
 
+https://cs.android.com/
+https://ci.android.com/builds/branches/aosp-main/grid?legacy=1
+
+Tools/Scripts/run-jsc-stress-tests JSTests/wasm.yaml -j WebKitBuild/JSCOnly/x64/JSCOnly/Debug/bin/jsc  --filter=simd-const-relaxed-f32-fmsub.js
+
+Tools/Scripts/run-jsc-stress-tests   -j $WEBKIT_OUTPUTDIR/bin/jsc   JSTests/wasm.yaml   --filter=simd-kitchen-sink.js  --artifact-exec-wrapper "qemu-aarch64"   --arch arm64 | tee /tmp/JSC_log.txt
+
 Durham, North Carolina团队：
 谷歌确实在Durham设有一个Skia开发团队。
 

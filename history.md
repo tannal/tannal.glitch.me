@@ -1,5 +1,110 @@
 # 2024-9-27
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+Android Code search  |  Android Open Source Project
+https://source.android.com/docs/setup/contribute/code-search
+
+Android Code Search
+https://cs.android.com/
+
+owncast/owncast: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+https://github.com/owncast/owncast
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+The Hitchhiker's Guide to Firefox Contributor
+http://localhost:1313/p/the-hitchhikers-guide-to-firefox-contributor/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Introduction - Intermediate React Native, v2 | Frontend Masters
+https://frontendmasters.com/courses/intermediate-react-native-v2/ios-android-development-builds/
+
+Expo Go - Expo
+https://expo.dev/go
+
+State management | Intermediate React Native v2
+https://kadikraman.github.io/intermediate-react-native-v2-course/docs/navigation/4-5-state-management
+
+VincentCATILLON (VincentCATILLON) / Repositories
+https://github.com/VincentCATILLON?tab=repositories
+
+react-native-webview/react-native-webview: React Native Cross-Platform WebView
+https://github.com/react-native-webview/react-native-webview
+
+Developer setup
+https://developers.mattermost.com/contribute/more-info/mobile/developer-setup/
+
+react-native-elements/react-native-elements: Cross-Platform React Native UI Toolkit
+https://github.com/react-native-elements/react-native-elements
+
+kadikraman/react-native-v3-course-app: Solutions for React Native v3 course on Frontend Masters
+https://github.com/kadikraman/react-native-v3-course-app
+
+aosp-main | Branch Grid
+https://ci.android.com/builds/branches/aosp-main/grid?legacy=1
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Your First View Component with Styles - React Native, v3 | Frontend Masters
+https://frontendmasters.com/courses/react-native-v3/your-first-view-component-with-styles/
+
+taskly
+http://10.106.146.44:8081/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+taskly
+http://10.106.146.44:8081/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=flutter&c=courses&dg=1
+
+Introduction - Cross-Platform Mobile Apps with Flutter | Frontend Masters
+https://frontendmasters.com/courses/flutter/request-data-with-futures/
+
+firtman (firtman) / Repositories
+https://github.com/firtman?tab=repositories&q=dart&type=&language=&sort=
+
+python vscode plugin working directory change - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=python+vscode+plugin+working+directory+change+
+
+python - How to change VS code working directory to the running file directory - Stack Overflow
+https://stackoverflow.com/questions/67785598/how-to-change-vs-code-working-directory-to-the-running-file-directory
+
+visual studio code - Python in VSCode: Set working directory to python file's path everytime - Stack Overflow
+https://stackoverflow.com/questions/56776521/python-in-vscode-set-working-directory-to-python-files-path-everytime/62331298#62331298
+
+Lakh MIDI Dataset - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Lakh+MIDI+Dataset
+
+The Lakh MIDI Dataset v0.1
+https://colinraffel.com/projects/lmd/#get
+
+Bach Chorales Dataset - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Bach+Chorales+Dataset
+
+czhuang/JSB-Chorales-dataset: Dataset for JSB Chorales at different temporal resolutions, with train, validation, test split from Boulanger-Lewandowski (2012).
+https://github.com/czhuang/JSB-Chorales-dataset
+
+KDLP
+https://spring2024-iit.kdlp.underground.software/index.md
+
+(28) Discord | #state-and-architecture | Flutter Dev
+https://discord.com/channels/420324994703163402/421445334716121091
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
