@@ -1,5 +1,74 @@
 # 2024-9-27
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+bugzilla.mozilla.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7689508
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+hannah fry - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&sca_esv=f9c099d8e8c1a246&sca_upv=1&channel=fs&q=hannah+fry&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwju1vaZ1-KIAxXt78kDHSfAKRwQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
+
+android contribute - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=android+contribute
+
+Submit code changes  |  Android Open Source Project
+https://source.android.com/docs/setup/contribute/submit-patches
+
+Test a build  |  Android Open Source Project
+https://source.android.com/docs/setup/test
+
+CONTRIBUTING.md
+https://android.googlesource.com/platform/frameworks/support/+/androidx-main/CONTRIBUTING.md
+
+html5 input range border - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=html5+input+range+border
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Git at Google
+https://www.googlesource.com/new-password?state=android&code=4/0AQlEd8wW7PI2L1DZiNvJtYNy3ck549JnOtwt2tT_Klo8o-x8NjZhhRME9CuiIoVBdDhFVQ&scope=https://www.googleapis.com/auth/gerritcodereview
+
+fix · llvm/llvm-project@96dca63
+https://github.com/llvm/llvm-project/commit/96dca630817a041c3237ebbf58c7945bc40a3397
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+tannal
+http://localhost:1313/
+
+aws re invent youtube - Google 搜索
+https://www.google.com.hk/search?q=aws+re+invent+youtube&newwindow=1&client=ubuntu-sn&hs=qoB&sca_esv=c768f71cdf49a14c&sca_upv=1&channel=fs&ei=LXr2ZqHsEt79kPIPy5TsyQo&ved=0ahUKEwjhtpeO5-KIAxXePkQIHUsKO6kQ4dUDCA8&uact=5&oq=aws+re+invent+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWF3cyByZSBpbnZlbnQgeW91dHViZTIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIESI0QUI4GWP0OcAB4ApABAJgB_QKgAa4QqgEFMi00LjO4AQPIAQD4AQGYAgigAtEQwgIEEAAYR8ICBRAAGIAEmAMAiAYBkAYKkgcHMS4wLjQuM6AHmgs&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+whatwg/html: HTML Standard
+https://github.com/whatwg/html
+
+tannal (tannal)
+https://github.com/tannal/
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
