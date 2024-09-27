@@ -1,5 +1,113 @@
 # 2024-9-27
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cifkao/html-midi-player: 🎹 Play and display MIDI files on the web
+https://github.com/cifkao/html-midi-player
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=G828ff3KUwUq
+
+(1342) #gpu > Vello limits - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Vello.20limits
+
+(462) #general > ASAN crashes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/ASAN.20crashes
+
+User Profile: Alexandre Poirot [:ochameau]
+https://bugzilla.mozilla.org/user_profile?user_id=283262
+
+SVG images · Issue #33310 · servo/servo
+https://github.com/servo/servo/issues/33310
+
+Generate JS bindings in a separate crate from hand-written implementations by jdm · Pull Request #33416 · servo/servo
+https://github.com/servo/servo/pull/33416
+
+jdm/servo at script-split
+https://github.com/jdm/servo/tree/script-split
+
+(28) Discord | #graphics | Ladybird
+https://discord.com/channels/1247070541085671459/1247090107065040958
+
+登录QQ邮箱
+https://mail.qq.com/?cancel_login=true&from=ajax_proxy_retry
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Assigned to me - Chromium
+https://issues.chromium.org/issues?q=assignee:tannal2409@gmail.com%20status:open
+
+Chromium Docs - Merge Request Process
+https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/docs/process/merge_request.md
+
+(16) Beethoven - Moonlight Sonata (Full) - YouTube
+https://www.youtube.com/watch?v=4591dCHe_sE&list=RDEMIKPJp5eBTtqZDt3CvFZVwQ&index=4
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+(17) 【Piano Cover】李榮浩 - 不遺憾｜《你的婚禮》電影主題曲｜高還原純鋼琴版 - YouTube
+https://www.youtube.com/watch?v=UbIYC1BKBi4&list=RDMM&index=9
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBggCEEUYOzIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg9MgYIBxBFGD3SAQkxNDg5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+美联储大幅降息 如何影响香港及其它亚洲经济体 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/business-69334405
+
+Durham, North Carolina skia team - Google 搜索
+https://www.google.com.hk/search?q=Durham%2C+North+Carolina+skia+team&newwindow=1&sca_esv=3e8e6e4bf17c4bf6&sca_upv=1&rlz=1C1GCEA_enJP1090JP1090&ei=XA72ZqKYH9agkPIPuuXw6AQ&ved=0ahUKEwiitoylgOKIAxVWEEQIHboyHE0Q4dUDCA8&uact=5&oq=Durham%2C+North+Carolina+skia+team&gs_lp=Egxnd3Mtd2l6LXNlcnAiIER1cmhhbSwgTm9ydGggQ2Fyb2xpbmEgc2tpYSB0ZWFtMgUQIRigATIFECEYoAEyBRAhGKABSIsjUJcFWNohcAJ4AZABAJgBzAKgAdsWqgEFMi03LjO4AQPIAQD4AQGYAgygAoQXwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIFEC4YgATCAgcQABiABBgTwgINEC4YgAQYExjHARivAcICBxAuGIAEGBPCAhYQLhiABBgTGJcFGNwEGN4EGOAE2AEBwgIGEAAYExgewgIIEAAYExgIGB7CAggQABiABBiiBMICChAAGBMYCBgeGA-YAwCIBgGQBge6BgYIARABGBSSBwcyLjAuNi40oAeWKg&sclient=gws-wiz-serp
+
+Inside Google’s Chapel Hill outpost: A growing success story | WRAL TechWire
+https://wraltechwire.com/2017/05/24/inside-googles-chapel-hill-outpost-a-growing-success-story/
+
+2D Graphics Software Engineer, Chrome Browser - Google | Raleigh, NC
+https://www.simplyhired.com/job/UuNTZEduIo5vUv8TwKepWqSHUZj-UjPBHftKSR8pxFGAgCcCQMDoVg
+
+Bach Chorales Dataset - Google 搜索
+https://www.google.com.hk/search?q=Bach+Chorales+Dataset&rlz=1C1GCEA_enJP1090JP1090&oq=Bach+Chorales+Dataset&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+handson-ml2/datasets/jsb_chorales/README.md at master · ageron/handson-ml2
+https://github.com/ageron/handson-ml2/blob/master/datasets/jsb_chorales/README.md
+
+(1616) #general > x86_32 Support - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/x86_32.20Support
+
+Issue search results
+https://github.com/search?q=author%3Aalexcrichton&type=issues
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Issue search results
+https://github.com/search?q=involves%3ASomeoneToIgnore&type=issues&p=2
+
+tannal/cn-pop
+https://github.com/tannal/cn-pop
+
+智慧团建 - Google 搜索
+https://www.google.com.hk/search?q=%E6%99%BA%E6%85%A7%E5%9B%A2%E5%BB%BA&rlz=1C1GCEA_enJP1090JP1090&oq=zhihui&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINDI3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+网上共青团·智慧团建
+https://zhtj.youth.cn/zhtj/
+
+两元店
+https://liangyuandian.xyz/#/node
+
+(28) Discord | #intro-llms-video | Eureka Labs
+https://discord.com/channels/1020383067459821711/1179974475383574570
+
 aosp.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
