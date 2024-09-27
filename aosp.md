@@ -110,7 +110,10 @@ repo sync
 source build/envsetup.sh
 
 lunch
-make -j 20
+make -j 22
+
+cvd create
+
 
 ```bash
 

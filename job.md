@@ -578,6 +578,7 @@ apply intern
 [x] follow up pr for test262
 [x] wpt test for input vertical align
 [x] wpt test for zoom dicrete animation
+[] AI agent powered documents
 
 https://github.com/w3c/csswg-drafts/issues/10872
 
