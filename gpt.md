@@ -7,12 +7,6 @@
 
 有哪些开源，可下载，其他AI gen music模型也在使用的开源数据集？
 
-Claude-3.5-Sonnet的机器人图片
-Claude-3.5-Sonnet
-
-Poe
-让我为您解答这些问题：
-
 在 Hugging Face 上自建数据集上传数据文件：
 a) 登录 Hugging Face 账户。
 b) 点击右上角的 "New" 按钮，选择 "Dataset"。
