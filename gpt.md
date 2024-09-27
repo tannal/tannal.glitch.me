@@ -1,5 +1,137 @@
 
 
+Android系统核心库:
+Bluetooth
+Camera2
+Media (MediaEffects, MediaRecorder, MediaRouter)
+Notifications
+RuntimePermissions
+UI/UX相关:
+RecyclerView
+CardView
+SwipeRefreshLayout
+NavigationDrawer
+ActionBarCompat
+Leanback (for Android TV)
+图形和动画:
+RenderScript
+Transitions
+Elevation effects
+输入法和辅助功能:
+LeanbackIME
+Accessibility features
+安全相关:
+FingerprintDialog
+ConfirmCredential
+数据存储和同步:
+ContentProvider
+SyncAdapter
+网络和连接:
+Bluetooth
+WiFi (WifiRttScan)
+NFC
+多媒体:
+Camera
+PdfRenderer
+Wear OS (Android for wearables) 相关库
+开发和调试工具:
+Simpleperf
+构建工具:
+Gradle
+Blueprint
+编程语言支持:
+Java
+Kotlin
+Rust
+其他功能库:
+AppShortcuts
+DirectBoot
+PictureInPicture
+
+Android示例项目:
+这些是为开发者提供的示例代码，展示了各种Android功能的使用方法：
+DownloadableFonts: 可下载字体
+SlidingTabsBasic: 滑动标签
+RuntimePermissionsWear: Wear OS运行时权限
+BasicTransition: 基本转场动画
+BluetoothAdvertisements: 蓝牙广告
+WearDrawers: Wear OS抽屉组件
+JobScheduler: 任务调度器
+DarkTheme: 暗黑主题
+Camera2Video: Camera2 API视频录制
+Geofencing: 地理围栏
+WatchFace: 手表表盘
+等等...
+构建和开发工具:
+Bazel相关: bazelbuild-rules_rust, bazel-skylib, bazelbuild-rules_testing, bazelbuild-rules_android
+Gradle: 各种预构建的Gradle项目
+Dagger2: 依赖注入框架
+Robolectric: Android单元测试框架
+图形和多媒体:
+Skia: 2D图形库
+libvpx: VP8/VP9编解码器
+libdav1d: AV1解码器
+libgav1: AV1解码器
+网络和通信:
+Cronet: Chrome网络栈
+okio: I/O库
+Conscrypt: Java安全提供者
+数据处理和存储:
+flatbuffers: 高效的序列化库
+leveldb: 键值存储库
+protobuf: 数据序列化
+jsoncpp: JSON处理
+Moshi: JSON库
+安全和加密:
+Tink: 多语言、跨平台的加密库
+BoringSSL: OpenSSL分支
+机器学习和性能:
+TensorFlow: 机器学习框架
+ArmNN: 神经网络推理引擎
+google-benchmark: 微基准测试库
+其他重要库:
+abseil-cpp: C++通用库
+re2: 正则表达式库
+zstd: 快速压缩算法
+libpcap: 网络数据包捕获库
+
+编程语言和运行时:
+Rust: 大量Rust crates (rust/, rust-crates/)
+Java: 多个Java相关库 (javapoet, grpc-grpc-java)
+Python: 多个Python库 (python/)
+Kotlin: kotlinx.serialization
+构建工具:
+Bazel: 多个Bazel规则 (bazelbuild-rules_java, bazelbuild-rules_cc, bazelbuild-rules_python)
+测试框架:
+GoogleTest: C++测试框架
+Truth: Java断言库
+网络和通信:
+gRPC: 远程过程调用框架
+OkHttp: HTTP客户端
+WebRTC: 实时通信
+curl: URL传输库
+加密和安全:
+BoringSSL: OpenSSL的一个分支
+selinux: 安全增强型Linux
+数据处理:
+protobuf: 数据序列化
+abseil-cpp: C++通用库
+XNNPACK: 神经网络推理优化
+图形和多媒体:
+Exoplayer: 媒体播放器
+SwiftShader: CPU-based图形渲染
+MPAndroidChart: Android图表库
+开发工具:
+clang-tools-extra: Clang工具
+escapevelocity: 模板引擎
+LeakCanary: 内存泄漏检测
+移动开发:
+Accompanist: Jetpack Compose辅助库
+Mobly: Android自动化测试框架
+其他重要组件:
+Chromium: 浏览器引擎相关组件
+TensorFlow: 机器学习框架
+LLVM: 编译器基础设施
 
 如何在huggingface上自建数据集上传数据文件？
 
