@@ -575,7 +575,7 @@ apply intern
 
 # 2024-9-22 - 2024-9-29
 
-[] follow up pr for test262
+[x] follow up pr for test262
 [x] wpt test for input vertical align
 [x] wpt test for zoom dicrete animation
 
@@ -603,7 +603,7 @@ impl Render for FileFinder {
 [] webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
 [x] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
-[] 2024-9-25 14:30 233 -> 16:45 banche -> 20:00
+[x] 2024-9-25 14:30 233 -> 16:45 banche -> 20:00
 [] erji meeting microphone
 
 [] breads babaozhou lingshi
@@ -611,7 +611,7 @@ impl Render for FileFinder {
 [] find another issues to work with gecko or spidermonkey
 https://codetribute.mozilla.org/projects/webplatform
 
-[] 2024-9-27 linebender office hour 23:00
+[x] 2024-9-27 linebender office hour 23:00
 
 # 2024-9-15 - 2024-9-22
 
