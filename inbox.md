@@ -1,7 +1,8 @@
 
 # 2024-9-27 0 | 0
 
-
+Durham, North Carolina团队：
+谷歌确实在Durham设有一个Skia开发团队。
 
 # 2024-9-26 0 | 0
 
