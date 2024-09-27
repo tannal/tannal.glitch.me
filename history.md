@@ -1,5 +1,71 @@
 # 2024-9-27
 
+aosp.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7689508
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+bugzilla.mozilla.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+280243 – Better error message for JIT tier dependencies
+https://bugs.webkit.org/show_bug.cgi?id=280243#c3
+
+tannal (tannal)
+https://github.com/tannal/
+
+Ecma TC39
+https://github.com/tc39
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+regex exec - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=regex+exec
+
+Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/
+
+Issues · tc39/test262
+https://github.com/tc39/test262/issues
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+tannal (tannal)
+https://github.com/tannal/
+
+servo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=servo+
+
+bao hypervisior - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bao+hypervisior
+
+bao-project/bao-hypervisor: Bao, a Lightweight Static Partitioning Hypervisor
+https://github.com/bao-project/bao-hypervisor/tree/main
+
+aumranet - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aumranet
+
+Asociación Informática Amigus – As Pontes
+https://www.amigus.org/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,3 +1,21 @@
+# potential mentors
+
+
+# dev
+
+repo start static-check art
+
+./gradlew test
+
+mm tests
+
+repo branch
+repo list
+
+repo forall -c 'git diff --cached | $(git rev-parse --show-toplevel)/presubmit-hooks/pre-commit.py'
+
+./gradlew lint
+
 adb shell pm list packages | grep google
 
     在输出结果中，寻找类似以下的包名：
