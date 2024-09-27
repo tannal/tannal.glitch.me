@@ -1,4 +1,4 @@
-# follow
+# potential mentors
 
 https://bugzilla.mozilla.org/user_profile?user_id=310076
 
