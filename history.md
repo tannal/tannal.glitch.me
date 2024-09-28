@@ -1,5 +1,77 @@
 # 2024-9-28
 
+sqlite.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Explore the AOSP Project
+http://localhost:1313/p/explore-the-aosp-project/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issue search results
+https://github.com/search?q=%27%2Fhome%2Frunner%2Fwork%2F_actions%2FJamesIves%2Fgithub-pages-deploy-action%2Fv4%2Flib%2Fmain.js%27&type=issues
+
+bug: 🐝 File not found `v4/lib/main.js` · Issue #1697 · JamesIves/github-pages-deploy-action
+https://github.com/JamesIves/github-pages-deploy-action/issues/1697
+
+ci(github): fix workflow build.yml · remarkablegames/haunted-heir@bd9f596
+https://github.com/remarkablegames/haunted-heir/commit/bd9f59612b560eb75ed59aa04155dce78e9f95ca#diff-5c3fa597431eda03ac3339ae6bf7f05e1a50d6fc7333679ec38e21b337cb6721R27
+
+tannal (tannal)
+https://github.com/tannal/
+
+sqlite3 all tables - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sqlite3+all+tables
+
+sql - How can I list the tables in a SQLite database file that was opened with ATTACH? - Stack Overflow
+https://stackoverflow.com/questions/82875/how-can-i-list-the-tables-in-a-sqlite-database-file-that-was-opened-with-attach
+
+New Owncast Server
+http://10.106.146.44:8080/
+
+nvidia driver 5 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nvidia+driver+5
+
+tannal
+https://tannal.github.io/
+
+Owncast Admin
+http://10.106.146.44:8080/admin/config-video/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+(18) Start over-engineering your CSS | Kevin Powell | CSS Day 2024 - YouTube
+https://www.youtube.com/watch?v=k_3pRxdv-cI
+
+CSS Day 2024
+http://localhost:1313/p/css-day-2024/
+
+roseduan 的 2023 年文章精选
+https://mp.weixin.qq.com/s/hs36eiU7Zr-UdJ0YBtZgKQ
+
+dbms using github issues api - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dbms+using+github+issues+api
+
+SQLite Home Page
+https://www.sqlite.org/index.html
+
+sqlite github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sqlite+github
+
+sqlite/sqlite: Official Git mirror of the SQLite source tree
+https://github.com/sqlite/sqlite
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

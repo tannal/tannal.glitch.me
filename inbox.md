@@ -3,7 +3,21 @@
 
 
 
+List the tables in your database:
 
+.tables
+
+List how the table looks:
+
+.schema tablename
+
+Print the entire table:
+
+SELECT * FROM tablename;
+
+List all of the available SQLite prompt commands:
+
+.help
 
 # 2024-9-27 0 | 0
 
