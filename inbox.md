@@ -1,6 +1,8 @@
 
 # 2024-9-28 0 | 0
 
+cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_INSTALL_PREFIX=/opt/wabt
+
 FWIW
 
 List the tables in your database:
