@@ -1,5 +1,92 @@
 # 2024-9-28
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Commits · WebKit/WebKit
+https://github.com/WebKit/WebKit/commits?author=danlliu
+
+Implemented relaxed_swizzle SIMD opcode. · WebKit/WebKit@e1ec148
+https://github.com/WebKit/WebKit/commit/e1ec14877b7db64cf484cbd62480417029127c05#diff-a8889075b6605fdc9edfd486d77dcd8f018fdb11d816ca50cf597cbdd9ad46c9
+
+relaxed-simd/test/Todo.md at c3f9359af2cd607cc46b0a3274f90ea52543a2f2 · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/blob/c3f9359af2cd607cc46b0a3274f90ea52543a2f2/test/Todo.md?plain=1#L34
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files#diff-affefcf8559958efa0ac2a429c6469370b5e303e97201f42f0d0006d36b689e4
+
+Mentorship
+https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1915096 - CSS zoom property doesn't change font size when font-size is specified by keywords
+https://bugzilla.mozilla.org/show_bug.cgi?id=1915096
+
+1277934 - [css-grid] write more reftests for align/justify-self/content:[last-]baseline
+https://bugzilla.mozilla.org/show_bug.cgi?id=1277934
+
+1913789 - [css-grid] Synthesize the correct baseline for orthogonal blocks
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913789
+
+1874137 - (necko-pref-flips) [meta] Tracking bug for necko pref flips
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874137
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=guidance.&op=translate
+
+Add goals, non-goals, risks by rossberg · Pull Request #3 · WebAssembly/profiles
+https://github.com/WebAssembly/profiles/pull/3
+
+Code search results
+https://github.com/search?q=relaxed_madd&type=code
+
+Implemented relaxed_swizzle SIMD opcode. · WebKit/WebKit@e1ec148
+https://github.com/WebKit/WebKit/commit/e1ec14877b7db64cf484cbd62480417029127c05#diff-ae5de2b990b5b75515536471f341e385e0a024fdf6717f28540b2398938bcd2fR37
+
+Code search results
+https://github.com/search?q=repo%3AWebAssembly%2Fwabt%20relaxed_madd&type=code
+
+New Owncast Server
+http://10.106.146.44:8080/
+
+danlliu umich.edu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=danlliu+umich.edu
+
+daniel liu
+https://danlliu.github.io/
+
+Microsoft Word - Daniel Liu Resume 2023.docx - resume.pdf
+https://danlliu.github.io/resume.pdf
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+tensorflow js github - Google 搜索
+https://www.google.com.hk/search?q=tensorflow+js+github&newwindow=1&client=ubuntu-sn&hs=SvF&sca_esv=82c6bcc348304624&sca_upv=1&channel=fs&ei=J-73ZtCiCLDQkPIPhsT6oAc&ved=0ahUKEwiQ0rLtyeWIAxUwKEQIHQaiHnQQ4dUDCA8&uact=5&oq=tensorflow+js+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHRlbnNvcmZsb3cganMgZ2l0aHViMgUQABiABDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjnFFDXBVjZE3ACeAGQAQCYAZECoAG_DKoBAzItNrgBA8gBAPgBAZgCCKAC5QzCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICCRAAGIAEGAoYDMICBBAAGB7CAgYQABgFGB7CAgcQABiABBgNwgIIEAAYCBgNGB6YAwCIBgGQBgWSBwUyLjAuNqAH9xE&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3Atensorflow%2Ftfjs%20VectorShuffle&type=code
+
+winch: Reference Types · Winch
+https://github.com/orgs/bytecodealliance/projects/12/views/1?pane=issue&itemId=55243774
+
+Element [7] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Bytecode Alliance — New Stack Maps for Wasmtime and Cranelift
+https://bytecodealliance.org/articles/new-stack-maps-for-wasmtime
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
