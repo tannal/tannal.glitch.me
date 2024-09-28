@@ -1,5 +1,6 @@
 # dev
 
+./mach run ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html -- --debug trace-layout
 ./mach run --debugger --devtools=6080 ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html -- --debug dump-display-list
 
 ./mach test-wpt ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-row-001

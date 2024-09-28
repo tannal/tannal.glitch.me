@@ -1,5 +1,77 @@
 # 2024-9-28
 
+test-262.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+Long Ouyang, Jeffrey Wu, Xu Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et al. Training language models to follow instructions with human feedba - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Long+Ouyang%2C+Jeffrey+Wu%2C+Xu+Jiang%2C+Diogo+Almeida%2C+Carroll+Wainwright%2C+Pamela+Mishkin%2C+Chong+Zhang%2C+Sandhini+Agarwal%2C+Katarina+Slama%2C+Alex+Ray%2C+et+al.+Training+language+models+to+follow+instructions+with+human+feedba
+
+2203.02155v1.pdf
+https://arxiv.org/pdf/2203.02155
+
+Training language models to follow instructions with human feedback · Issue #79 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/79
+
+Parts of border collapsing may be missing. · Issue #8586 · servo/servo
+https://github.com/servo/servo/issues/8586
+
+[css-tables][css-sizing] What sizing keywords allow fixed table mode? · Issue #10937 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10937
+
+TablesNG Table Standards Proposals - Google 文档
+https://docs.google.com/document/d/16tK1eX8PJZL_gp3tGdwyy9LKMOa_CDcT_8nRdFP5GYQ/edit
+
+atotic (Aleksandar Totic)
+https://github.com/atotic
+
+Issue search results
+https://github.com/search?q=involves%3ALoirooriol+&type=issues&p=2
+
+CSS Table Module Level 3
+https://drafts.csswg.org/css-tables/#height-distribution
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+CSS Table in Servo
+http://localhost:1313/p/css-table-in-servo/
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=layout&c=courses&dg=1
+
+CSS Table Module Level 3
+https://drafts.csswg.org/css-tables/#row-layout
+
+Re: [tc39/test262] Add basic u flag tests in v flag tests. (PR #4241) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQNsdhFQXMTvVTgGhddbzvSK
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241#issuecomment-2379678531
+
 sqlite.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

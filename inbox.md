@@ -1,7 +1,7 @@
 
 # 2024-9-28 0 | 0
 
-
+FWIW
 
 List the tables in your database:
 
