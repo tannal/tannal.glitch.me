@@ -19,6 +19,21 @@ https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_st
 
 
 # dev
+
+```
+Handle JIT tier dependencies better at compile time
+
+https://bugs.webkit.org/show_bug.cgi?id=280243
+
+Reviewed by NOBODY (OOPS!).
+
+Better error messages for JIT tier dependencies. If DFG and FTL are enabled 
+while baseline is not, print an error message instead of silently disabling 
+them. This fixes two FIXME comments in the code.
+
+* Source/WTF/wtf/PlatformEnable.h:
+```
+
 export CC=clang
 export CXX=clang++
 Tools/Scripts/build-jsc --jsc-only --debug --build-dir=$PWD/WebKitBuild/JSCOnly/x64
@@ -27,6 +42,7 @@ void dumpInContext(PrintStream&, DumpContext*) const;
 void dump(PrintStream&) const;
 
 git-webkit pull-request --no-add --no-commit --append
+git-webkit commit --no-add --append
 
 export BR2_HOST_DIR="/home/tannal/tannalwork/projects/buildroot/output/host/"
 export CROSS_COMPILE="$(basename $(cat ${BR2_HOST_DIR}/usr/share/buildroot/toolchainfile.cmake|grep CMAKE_CXX_COMPILER|awk -F'"' '{print $2}')|sed "s/g++$//g")"

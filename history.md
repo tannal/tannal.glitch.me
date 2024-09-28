@@ -1,3 +1,95 @@
+# 2024-9-28
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241
+
+Ms2ger
+https://github.com/Ms2ger
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241/files
+
+art: Improve assertion in x86_64 calling convention (3284463) · Gerrit Code Review
+https://android-review.googlesource.com/c/platform/art/+/3284463/1?checksPatchset=1&tab=checks
+
+before i can replace vscode with zed · zed-industries/zed · Discussion #18314
+https://github.com/zed-industries/zed/discussions/18314
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+280243 – Better error message for JIT tier dependencies
+https://bugs.webkit.org/show_bug.cgi?id=280243#c4
+
+280243 – Better error message for JIT tier dependencies
+https://bugs.webkit.org/show_bug.cgi?id=280243
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+Element [7] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+WHATUP 2024 (WHATWG @TPAC) - Google 文档
+https://docs.google.com/document/d/1_NLRCWYfYenAYPVP_PyQD6klqxU4jNZJm9FM1XRSlAU/edit#heading=h.vlhnrcs8x7w
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=kotlin&c=courses&dg=1
+
+Introduction - Enterprise Web App Accessibility (feat. React) | Frontend Masters
+https://frontendmasters.com/courses/enterprise-accessibility/testing-an-aria-solution/
+
+Validating internationalized mail addresses in <input type="email"> · Issue #4562 · whatwg/html
+https://github.com/whatwg/html/issues/4562
+
+webgpu: renovate gpucanvascontext and webgpu presentation to match the spec by sagudev · Pull Request #33521 · servo/servo
+https://github.com/servo/servo/pull/33521#issuecomment-2374551788
+
+Live DOM Viewer
+https://software.hixie.ch/utilities/js/live-dom-viewer/?%3Cdiv%20lang%3D1test%3Edfsdfs%0A%3Cstyle%3E%0A%3Alang(%5C31test)%20%7B%20background%3Alime%20%7D%0A%3C%2Fstyle%3E
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-31&until=2024-09-28
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=delegate&op=translate
+
+Explore the AOSP Project
+http://localhost:1313/p/explore-the-aosp-project/
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit
+
+Handle JIT tier dependencies better at compile time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
 # 2024-9-27
 
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

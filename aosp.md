@@ -119,10 +119,10 @@ chmod a+x ~/bin/repo
 git config --global user.name "tannal"
 git config --global user.email "tannal2409@gmail.com"
 
-repo init -u https://android.googlesource.com/platform/manifest
 
 mkdir aosp
 
+repo init -u https://android.googlesource.com/platform/manifest
 repo sync
 
 source build/envsetup.sh

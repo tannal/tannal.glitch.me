@@ -573,9 +573,14 @@ apply intern
 
 # 2024-9-29 - 2024-10-6
 
+[] yundong fuwocheng
+[] zuochengyun leetcode
+[] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
+
 # 2024-9-22 - 2024-9-29
 
-[] review https://android-review.googlesource.com/c/platform/art/+/3284463
+
+[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
 [x] follow up pr for test262
 [x] wpt test for input vertical align
 [x] wpt test for zoom dicrete animation
@@ -617,14 +622,14 @@ https://codetribute.mozilla.org/projects/webplatform
 
 # 2024-9-15 - 2024-9-22
 
-[] follow up pr for test262 
+[x] follow up pr for test262 
 [x] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
 [] hash function compile cache
 [] github issues can be used as a database I can build various dbms system using github public api.
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust.
 [x] webkit javascriptCore pr 1 lgtm Yusuke SUZUKI 
-[] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
+[x] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [x] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [x] 2024-9-2 10:00 - 11:30
 [] 2024-9-19 linebender office hour 23:00
