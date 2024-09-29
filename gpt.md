@@ -1,4 +1,119 @@
 
+
+解密冒险剧情类地图是 Minecraft 中非常受欢迎的一种地图类型。这些地图通常结合了精心设计的剧情、解谜元素和冒险体验。以下是一些优秀的解密冒险剧情类地图和创作者：
+
+著名地图： a) "The Heist" 系列 by Jigarbov Productions
+以银行抢劫为主题的解密冒险
+精美的建筑和引人入胜的剧情
+b) "Diversity" 系列 by QmagnetLP
+结合多种 Minecraft 游戏模式的冒险地图
+每个版本都有不同的主题和挑战
+c) "Assassin's Creep" by Blocks Team
+灵感来自刺客信条的冒险地图
+包含潜行、解谜和战斗元素
+d) "The Dropper" 系列 by Bigre
+结合下落和解谜元素的地图
+每个关卡都有独特的主题和挑战
+e) "Unsighted" by Adrien Vernert
+以视觉障碍为主题的解谜冒险
+创新的游戏机制和感人的故事
+优秀创作者： a) Hypixel Studios
+创作了大量高质量的冒险地图
+代表作："Herobrine's Mansion", "Warlords"
+b) Sethbling
+以创新的红石机制和命令方块使用闻名
+创作了许多独特的小型解谜地图
+c) Jesper the End
+专注于创作高质量的冒险地图
+代表作："The Outbreak", "Dimension Z"
+d) Jigarbov Productions
+以精良的剧情和游戏设计闻名
+除"The Heist"系列外，还有"Chronotide"等作品
+e) Blocks Team
+创作大型冒险地图的团队
+除"Assassin's Creep"外，还有"The Puzzle Realm"等作品
+寻找和游玩这些地图的建议： a) 访问 Planet Minecraft (https://www.planetminecraft.com/) 和 Minecraft Forums (https://www.minecraftforum.net/) 的地图区。 b) 在 CurseForge (https://www.curseforge.com/minecraft/modpacks) 上搜索冒险地图整合包。 c) 关注上述创作者的社交媒体账号，了解他们的最新作品。 d) 使用 YouTube 搜索 "Minecraft adventure maps" 或 "Minecraft puzzle maps"，观看实况视频以获取灵感。 e) 加入 Minecraft 相关的 Discord 社区，与其他玩家交流推荐。
+游玩这些地图时，请注意：
+
+确保使用地图指定的 Minecraft 版本。
+仔细阅读地图附带的说明和规则。
+有些地图可能需要特定的资源包或模组，请按说明安装。
+享受解谜和探索的过程，不要急于寻找攻略。
+这些解密冒险剧情类地图展示了 Minecraft 创作者的创造力和技术实力，为玩家提供了丰富多样的游戏体验。希望你能在这些精彩的冒险中找到乐趣！
+
+现代化 Minecraft 项目：
+
+现代城市建筑：
+"Future City" by Zekroms
+"New Crafton" by Linard
+科技感地图：
+"Cyberpunk City" by Elysium Fire
+"NeoTokyo" by Block Works
+现代生存地图：
+"Modern Skyblock 3" (模组整合包)
+"Project Ozone 3" (高科技模组整合包)
+现代建筑展示：
+"Modern House Tutorial World" by TSMC - Minecraft
+"50 Modern Building Ideas" by Keralis
+优秀的 Minecraft 创作者：
+
+Grian：以建筑教程和创意建筑闻名
+YouTube: https://www.youtube.com/user/Xelqua
+Mumbo Jumbo：红石技术专家
+YouTube: https://www.youtube.com/user/ThatMumboJumbo
+GoodTimesWithScar：富有想象力的地形和建筑创作者
+YouTube: https://www.youtube.com/user/GoodTimesWithScar
+PearlescentMoon：以大型建筑项目和生存系列闻名
+YouTube: https://www.youtube.com/c/PearlescentMoon
+Jeracraft：以史诗级地形和建筑闻名
+YouTube: https://www.youtube.com/user/Jeracraft
+BdoubleO100：擅长细节丰富的建筑和内饰设计
+YouTube: https://www.youtube.com/user/BdoubleO100
+Vesko：以现代和未来主义建筑闻名
+YouTube: https://www.youtube.com/c/Vesko
+FWhip：擅长中世纪和乡村风格的建筑
+YouTube: https://www.youtube.com/c/fWhip
+Mythical Sausage：以独特的建筑风格和教程闻名
+YouTube: https://www.youtube.com/c/MythicalSausage
+TSMC - Minecraft：提供现代建筑教程
+YouTube: https://www.youtube.com/c/TSMCMinecraft
+这些创作者和项目展示了 Minecraft 的多样性和创造力，从现代城市到未来科技，从精细的建筑细节到复杂的红石机制。你可以在他们的 YouTube 频道、Planet Minecraft 页面或其他 Minecraft 社区平台上找到他们的作品和教程。
+
+关于 Minecraft 优秀地图和开源 Mod，有很多选择。以下是一些受欢迎的类别和示例：
+
+冒险地图：
+The Forgotten Land
+Diversity 3
+解谜地图：
+The Code III
+Cryptic Cosmos
+生存地图：
+SkyBlock
+OneBlock
+PVP 地图：
+Bed Wars
+The Walls
+建筑展示地图：
+Imperial City
+Gondolin
+开源 Mod：
+
+JourneyMap：开源地图 Mod
+Botania：魔法主题 Mod
+Applied Energistics 2：存储和自动化 Mod
+Tinkers' Construct：工具和冶炼 Mod
+OpenComputers：在游戏中编程的 Mod
+获取这些地图和 Mod 的一些途径：
+
+CurseForge：https://www.curseforge.com/minecraft
+Planet Minecraft：https://www.planetminecraft.com/
+Minecraft Forum：https://www.minecraftforum.net/
+在下载和使用这些内容时，请确保：
+
+检查兼容性：确保地图或 Mod 与你的 Minecraft 版本兼容
+遵守许可协议：一些地图和 Mod 可能有使用限制
+使用可信来源：避免从不可信的网站下载，以防感染恶意软件
+
 遗忘在神经网络和机器学习中是一个非常有趣且重要的研究领域。它不仅涉及如何让模型"忘记"某些信息，还包括如何利用遗忘来提高模型的性能、隐私保护和适应性。以下是这个领域的一些关键研究、项目和成果：
 
 学术研究：

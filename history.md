@@ -1,5 +1,158 @@
 # 2024-9-29
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+dart-lang/sdk: The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+https://github.com/dart-lang/sdk
+
+Introduction — The Linux Kernel documentation
+https://linux-kernel-labs.github.io/refs/heads/master/labs/introduction.html
+
+Chromium Docs - Threading and Tasks in Chrome
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/threading_and_tasks.md
+
+Element [6] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+awslabs/llrt: LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/llrt
+
+3.4.1 – CouchDB Blog
+https://blog.couchdb.org/2024/09/27/3-4-1/
+
+Anders Hejlsberg and Lars Bak: TypeScript, JavaScript, and Dart | Hacker News
+https://news.ycombinator.com/item?id=5424680
+
+Shows | Microsoft Learn
+https://learn.microsoft.com/en-us/shows/
+
+react | Dart package
+https://pub.dev/packages/react
+
+Packages of publisher workiva.com
+https://pub.dev/publishers/workiva.com/packages
+
+Workiva
+https://github.com/Workiva
+
+Automatic Mixed Precision examples — PyTorch 2.4 documentation
+https://pytorch.org/docs/stable/notes/amp_examples.html
+
+Course Archive | Frontend Masters
+https://frontendmasters.com/courses/archive/?cq=under
+
+Introduction - Build a Fullstack Music App with Next.js | Frontend Masters
+https://frontendmasters.com/courses/archive/fullstack-app-next/seek-bar-controls/
+
+Frontend Masters
+https://github.com/FrontendMasters
+
+The Front End Developer/Engineer Handbook 2024
+https://frontendmasters.com/guides/front-end-handbook/2024/#5.5
+
+Remove legacy layout engine implementation [40056555] - Chromium
+https://issues.chromium.org/issues/40056555
+
+chromium/chromium: The official GitHub mirror of the Chromium source
+https://github.com/chromium/chromium
+
+[RemoveLegacy] DROP legacy table implementation. (4373874) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/4373874
+
+owner:ikilpatrick@chromium.org · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:ikilpatrick@chromium.org
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=table%20layout&sort=byPopularity&type=story
+
+The Anti-hero of CSS Layout - "display:table" | Colin Toh
+https://colintoh.com/blog/display-table-anti-hero
+
+linux-kernel-labs
+https://github.com/linux-kernel-labs
+
+(18) Lecture 05 - Device Drivers - YouTube
+https://www.youtube.com/watch?v=gHLAntZH1Ng
+
+Ian Kilpatrick blink - Google 搜索
+https://www.google.com.hk/search?q=Ian+Kilpatrick+blink&newwindow=1&client=ubuntu-sn&hs=Q2C&sca_esv=338d7d94e3deedef&sca_upv=1&channel=fs&ei=G_n4Zuq6GaLfkPIPpv3ykQg&ved=0ahUKEwiqtMq4yOeIAxWiL0QIHaa-PIIQ4dUDCA8&uact=5&oq=Ian+Kilpatrick+blink&gs_lp=Egxnd3Mtd2l6LXNlcnAiFElhbiBLaWxwYXRyaWNrIGJsaW5rSJ8SUPABWNYQcAF4AJABAJgBxgOgAYgMqgEFMy0yLjK4AQPIAQD4AQGYAgOgAv0GwgIKEAAYgAQYsAMYE8ICCRAAGLADGBMYHsICCxAAGLADGBMYBxgewgISEC4YgAQYsAMYExjIAxgK2AEBwgIWEC4YgAQYsAMYExjHARjIAxivAdgBAcICBxAAGIAEGBPCAgkQLhiABBgTGArCAg0QLhiABBgTGMcBGK8BwgIGEAAYExgewgIFECEYoAGYAwCIBgGQBgu6BgQIARgIkgcFMS40LTKgB_UR&sclient=gws-wiz-serp
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/blink-dev/search?q=Ian%20Kilpatrick
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/communities?time=1y%2B4y&zoom=1.6&repositories=chromium
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/communities?time=1y%2B3y&zoom=1&repositories=chromium
+
+Arthur Sonzogni
+https://arthursonzogni.com/chrome-commit-tracker/
+
+ArthurSonzogni (Arthur Sonzogni)
+https://github.com/ArthurSonzogni
+
+Doug Stockwell blink - Google 搜索
+https://www.google.com.hk/search?q=Doug+Stockwell+blink&newwindow=1&client=ubuntu-sn&hs=gsX&sca_esv=d9dd212ff428d21f&sca_upv=1&channel=fs&ei=wvv4ZvXcEoDIkPIPybGxyAg&ved=0ahUKEwj1xab8yueIAxUAJEQIHclYDIkQ4dUDCA8&uact=5&oq=Doug+Stockwell+blink&gs_lp=Egxnd3Mtd2l6LXNlcnAiFERvdWcgU3RvY2t3ZWxsIGJsaW5rMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUiwD1C_BVjpDXABeACQAQCYAbwDoAHhDKoBBTMtMS4zuAEDyAEA-AEBmAIFoAL5DMICBxAAGLADGB7CAgsQABiABBiwAxiiBMICBxAAGIAEGBPCAgYQABgTGB7CAggQABiABBiiBJgDAIgGAZAGB5IHBzEuMy0xLjOgB8oJ&sclient=gws-wiz-serp
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+raylib github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=raylib+github#vhid=zephyr:0&vssid=atritem-https://github.com/raysan5/raylib
+
+raysan5/raylib: A simple and easy-to-use library to enjoy videogames programming
+https://github.com/raysan5/raylib/tree/master
+
+Mathias Bynens - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Mathias+Bynens
+
+(18) Mathias Bynens - V8 internals for JavaScript developers - YouTube
+https://www.youtube.com/watch?v=m9cTaYI95Zc
+
+V8 internals for JavaScript developers // slidr.io
+https://slidr.io/mathiasbynens/v8-internals-for-javascript-developers#12
+
+JavaScript engines: The Good Parts™ // slidr.io
+https://slidr.io/mathiasbynens/javascript-engines-the-good-parts#51
+
+Help us test the future of Node.js! | by Benedikt Meurer | Medium
+https://medium.com/@bmeurer/help-us-test-the-future-of-node-js-6079900566f
+
+Comparing nodejs:main...v8:main · nodejs/node
+https://github.com/nodejs/node/compare/main...v8:node:main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Feature: Double-tap message to add :+1: reaction · Issue #969 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/969
+
+#mobile > flutter: double-tap to thumbs up? - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20to.20thumbs.20up.3F/near/1890047
+
+the heist minecraft map - Google 搜索
+https://www.google.com.hk/search?q=the+heist+minecraft+map&newwindow=1&client=ubuntu-sn&hs=iuD&sca_esv=bd7a621486b420d8&sca_upv=1&channel=fs&ei=QQb5ZrGRAo_GkPIPg82rsAQ&oq=The+Heist+minecraft&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RoZSBIZWlzdCBtaW5lY3JhZnQqAggAMgUQABiABEjlIFCkAVjpFnABeAGQAQCYAfoEoAH-HaoBCTItMS43LjEuMbgBA8gBAPgBAZgCC6ACpx7CAgoQABiwAxjWBBhHwgIFEC4YgATCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICBBAAGB7CAgYQABgKGB7CAgoQABgIGAoYDBgemAMAiAYBkAYCugYGCAEQARgUkgcLMS4wLjEuNy4xLjGgB8cS&sclient=gws-wiz-serp
+
+Problem loading page
+https://www.mc-ch.com/
+
+神秘岛 minecraft - Google 搜索
+https://www.google.com.hk/search?q=%E7%A5%9E%E7%A7%98%E5%B2%9B+minecraft&newwindow=1&client=ubuntu-sn&hs=BIt&sca_esv=bd7a621486b420d8&sca_upv=1&channel=fs&ei=8gb5Zpe6INfekPIPx46yqQk&ved=0ahUKEwiX-4jS1eeIAxVXL0QIHUeHLJUQ4dUDCA8&uact=5&oq=%E7%A5%9E%E7%A7%98%E5%B2%9B+minecraft&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-elnuenmOWymyBtaW5lY3JhZnQyBhAhGAoYKkifHVDIDFisHHADeAGQAQCYAeYCoAGCFaoBBTItNS40uAEDyAEA-AEBmAIMoAKpFcICChAAGLADGNYEGEfCAgUQABiABMICChAAGIAEGEMYigXCAgcQABiABBgMwgIHEC4YgAQYDMICBhAAGAQYHsICCBAAGAQYHhgPwgIIEAAYgAQYogSYAwCIBgGQBgqSBwczLjAuNS40oAfoEg&sclient=gws-wiz-serp
+
+MC百科|最大的Minecraft中文MOD百科
+https://www.mcmod.cn/
+
+冒险MOD - MC百科|最大的Minecraft中文MOD百科
+https://www.mcmod.cn/class/category/3-3.html
+
+Minetest github - Google 搜索
+https://www.google.com.hk/search?q=Minetest+github&newwindow=1&client=ubuntu-sn&hs=1Ut&sca_esv=bd7a621486b420d8&sca_upv=1&channel=fs&ei=Dgr5ZpOQAqnnkPIP3aam4As&ved=0ahUKEwiTz7LN2OeIAxWpM0QIHV2TCbwQ4dUDCA8&uact=5&oq=Minetest+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD01pbmV0ZXN0IGdpdGh1YjIFEAAYgAQyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGAgYHhgPMgYQABgIGB4yCBAAGIAEGKIESKwPULAEWJAOcAB4ApABAJgBzQOgAbQPqgEFMy0zLjK4AQPIAQD4AQGYAgagAocQwgIEEAAYR5gDAIgGAZAGCpIHBzEuMy0zLjKgB-0N&sclient=gws-wiz-serp
+
+minetest/minetest: Minetest is an open source voxel game-creation platform with easy modding and game creation
+https://github.com/minetest/minetest
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

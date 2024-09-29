@@ -1,6 +1,18 @@
 
 # 2024-9-29 0 | 0
 
+ericwilligers: Possibly Eric Willigers, known for work on web standards.
+dstockwell: Could be Doug Stockwell, who has been involved in various web-related projects.
+slightlyoff: Might refer to Alex Russell, a well-known figure in web standards and Chrome development.
+ericlaw: Possibly Eric Lawrence, known for his work on web browsers and security.
+petermarshall: Could be Peter Marshall, who has contributed to various web technologies.
+aerotwist: Might be Paul Lewis, known for his work on web performance and animations.
+mathias: Possibly Mathias Bynens, known for his work on JavaScript and Unicode.
+timothygu: Could be Timothy Gu, who has contributed to various open-source projects.
+bencoe: Might refer to Ben Coe, known for his work on various JavaScript projects.
+philipp.hancke: Possibly Philipp Hancke, known for work on WebRTC.
+
+https://github.com/ArthurSonzogni
 
 fantasai https://fantasai.inkedblade.net/
 
