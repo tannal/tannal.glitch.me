@@ -1,6 +1,9 @@
 
 # 2024-9-29 0 | 0
 
+
+
+
 glxinfo | grep -i amd
 
 ericwilligers: Possibly Eric Willigers, known for work on web standards.
