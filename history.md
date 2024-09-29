@@ -1,3 +1,125 @@
+# 2024-9-29
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ggerganov/ggml: Tensor library for machine learning
+https://github.com/ggerganov/ggml
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+How to think about algorithms 2nd edition PDF - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=0Vb&sca_esv=4dde135b44896092&sca_upv=1&channel=fs&q=How+to+think+about+algorithms+2nd+edition+PDF&sa=X&ved=2ahUKEwjiuoeK1-WIAxX_JkQIHbb_GfMQ1QJ6BAg4EAE&biw=1850&bih=968&dpr=1
+
+termux install wine - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=termux+install+wine
+
+cheadrian/termux-chroot-proot-wine-box86_64: Repo with instruction about how you can setup Proot / Chroot using Termux and GPU acceleration for Box86, Wine, etc.
+https://github.com/cheadrian/termux-chroot-proot-wine-box86_64
+
+The Lakh MIDI Dataset v0.1
+https://colinraffel.com/projects/lmd/#get
+
+MAESTRO Dataset - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MAESTRO+Dataset
+
+The MAESTRO Dataset
+https://magenta.tensorflow.org/datasets/maestro
+
+The Maestro Dataset v2
+https://www.kaggle.com/datasets/jackvial/themaestrodatasetv2/code
+
+Transformer music generation
+https://www.kaggle.com/code/rachelnataatmadja/transformer-music-generation
+
+FMA (Free Music Archive) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=FMA+%28Free+Music+Archive%29
+
+Search music on Free Music Archive - Free Music Archive
+https://freemusicarchive.org/search/?quicksearch=&search-genre=Classical
+
+Training an AI for melody creating
+https://tannal.github.io/p/training-an-ai-for-melody-creating/
+
+Talks
+https://magenta.tensorflow.org/talks
+
+Jukebox | OpenAI
+https://openai.com/index/jukebox/
+
+MusicNet dataset - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MusicNet+dataset
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=harmony&op=translate
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1918708 - [Meta] Implement the Math.sumPrecise proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918708
+
+proposal-math-sum/polyfill/polyfill.mjs at main · tc39/proposal-math-sum
+https://github.com/tc39/proposal-math-sum/blob/main/polyfill/polyfill.mjs
+
+Outreachy Internships | Apply | Pick a Project
+https://www.outreachy.org/apply/project-selection/
+
+signalapp/Signal-Android: A private messenger for Android.
+https://github.com/signalapp/Signal-Android
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+flutter/packages/flutter_tools/lib/src/commands/channel.dart at 9f88de930bb579b905c427e9142f64165c38804a · flutter/flutter
+https://github.com/flutter/flutter/blob/9f88de930bb579b905c427e9142f64165c38804a/packages/flutter_tools/lib/src/commands/channel.dart#L141
+
+lars bak toit - Google 搜索
+https://www.google.com.hk/search?q=lars+bak+toit&newwindow=1&client=ubuntu-sn&hs=vIx&sca_esv=d4fd5f361ef8046d&sca_upv=1&channel=fs&biw=1850&bih=968&ei=4Az4ZprwDpCnkPIPgZnOuQ8&ved=0ahUKEwia4OKT5-WIAxWQE0QIHYGMM_cQ4dUDCA8&uact=5&oq=lars+bak+toit&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWxhcnMgYmFrIHRvaXRIzzZQrAZYkjJwAXgBkAEAmAH4AqAB_wuqAQUyLTIuM7gBA8gBAPgBAZgCBKAC6gbCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAgYHsICCBAAGIAEGKIEmAMAiAYBkAYGkgcHMS4wLjIuMaAHxAo&sclient=gws-wiz-serp
+
+Indeed if anyone ever earned the right to make a new language - they did. They w... | Hacker News
+https://news.ycombinator.com/item?id=16477368
+
+Micro​benchmarking Dart (Part 1)
+https://mrale.ph/blog/2021/01/21/microbenchmarking-dart-part-1.html
+
+Is Lars Bak no longer involved with Toit? https://toit.io/company/about | Hacker News
+https://news.ycombinator.com/item?id=29308854
+
+Enhedsvisning
+https://datacvr.virk.dk/enhed/virksomhed/38984594
+
+Toit - high-level software platform for the ESP32
+https://toit.io/
+
+Toit documentation
+https://docs.toit.io/getstarted
+
+Discord
+https://discord.com/invite/Q7Y9VQ5nh2
+
+Toit language
+https://github.com/toitlang
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Element [7] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+Handle JIT tier dependencies better at compile time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139
+
 # 2024-9-28
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

@@ -1,4 +1,11 @@
 
+# 2024-9-29 0 | 0
+
+
+
+
+export VCPKG_ROOT=$HOME/tannalwork/projects/vcpkg
+
 # 2024-9-28 0 | 0
 
 cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Release' -DCMAKE_INSTALL_PREFIX=/opt/wabt
