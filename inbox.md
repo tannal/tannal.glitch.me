@@ -2,7 +2,7 @@
 # 2024-9-29 0 | 0
 
 
-
+fantasai https://fantasai.inkedblade.net/
 
 export VCPKG_ROOT=$HOME/tannalwork/projects/vcpkg
 

@@ -3,6 +3,96 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/dp/0991055543/ref=olp-opf-redir?aod=1&tag=wwwcampusboocom-20&condition=new
+
+Transformer music generation
+https://www.kaggle.com/code/rachelnataatmadja/transformer-music-generation/log
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+(18) Kernel Recipes - The Arm laptop project - YouTube
+https://www.youtube.com/watch?v=qffWt4o334Y
+
+meeting_saved_chat.txt
+https://www.dropbox.com/scl/fi/t4zn9hmwl7iqfo5ukvwen/meeting_saved_chat.txt?rlkey=vtsi2j0njf876lwy4c2oz99bv&e=1&dl=0
+
+CCC 27/Sep/2024 - Google 文档
+https://docs.google.com/document/d/1HHct1sgX6sDzttvSfrGyDVHk-jaD_9AyVX6DGcpQFwU/edit
+
+Stefan-Marr.de · personal and research notes
+https://stefan-marr.de/
+
+ACM Error: IP blocked
+https://dl.acm.org/doi/pdf/10.1145/182590.182453
+
+Kick ass computerin' – Pixelambacht
+https://pixelambacht.nl/
+
+fantasai: home
+https://fantasai.inkedblade.net/
+
+Browse
+https://bugzilla.mozilla.org/describecomponents.cgi
+
+Problem loading page
+http://localhost:1313/p/css-table-in-servo/
+
+Flutter - Build apps for any screen
+https://flutter.dev/
+
+Launch HN: FlutterFlow (YC W21) – Build Apps Visually | Hacker News
+https://news.ycombinator.com/item?id=29628716
+
+Flutnet - The fusion between Flutter and Xamarin
+https://www.flutnet.com/
+
+Hello from Hydro-SDK | Hydro-SDK
+https://hydro-sdk.io/
+
+Hydro-SDK
+https://github.com/hydro-sdk
+
+flutter on vello - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flutter+on+vello
+
+Pull request search results
+https://github.com/search?q=org%3Aflutter+vello&type=pullrequests
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+Element | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+music21_setup.ipynb - Colab
+https://colab.research.google.com/gist/mscuthbert/431dee45c01598a0c11bc27823bd1c5b/music21_setup.ipynb#scrollTo=RtkrxnZAYVg7
+
+appbrewery flutter bootcamp - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=appbrewery+flutter+bootcamp+
+
+londonappbrewery/Flutter-Course-Resources: Learn to Code While Building Apps - The Complete Flutter Development Bootcamp
+https://github.com/londonappbrewery/Flutter-Course-Resources
+
+The App Brewery | The App Brewery
+https://appbrewery.com/
+
+The App Brewery
+https://www.appbrewery.co/courses/
+
+Alternatives to sqlite3 - Complete Intro to SQLite | Frontend Masters
+https://frontendmasters.com/courses/sqlite/alternatives-to-sqlite3/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 ggerganov/ggml: Tensor library for machine learning
 https://github.com/ggerganov/ggml
 
