@@ -573,9 +573,12 @@ apply intern
 
 # 2024-9-29 - 2024-10-6
 
+[x] wpt test for input vertical align
+[] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [] yundong fuwocheng
 [] zuochengyun leetcode
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
+
 
 # 2024-9-22 - 2024-9-29
 

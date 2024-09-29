@@ -2,7 +2,15 @@
 # 2024-9-29 0 | 0
 
 
+Embark funding winit and rust-gpu.
+Google Fonts funding us.
+System76 funding iced and COSMIC-Text.
+Futurewei funding Dioxus, Makepad, and Servo.
+Igalia funding Servo (I think).
+Slint funding Slint.
 
+
+redhat
 
 glxinfo | grep -i amd
 

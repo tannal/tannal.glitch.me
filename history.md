@@ -1,5 +1,146 @@
 # 2024-9-29
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+cloud-hypervisor/cloud-hypervisor: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+https://github.com/cloud-hypervisor/cloud-hypervisor
+
+Micro​benchmarking Dart (Part 1)
+https://mrale.ph/blog/2021/01/21/microbenchmarking-dart-part-1.html
+
+SamJakob / NBTX
+https://samjakob.com/
+
+Kotlin/KMP-App-Template-Native: Kotlin Multiplatform app template with native UI
+https://github.com/Kotlin/KMP-App-Template-Native?tab=readme-ov-file
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues?page=3&q=is%3Aissue+is%3Aopen
+
+luajit-remake/luajit-remake: An ongoing attempt to re-engineer LuaJIT from scratch
+https://github.com/luajit-remake/luajit-remake
+
+Slint | Declarative GUI for Rust, C++, JavaScript & Python
+https://slint.dev/#develop
+
+Slint (@slint@fosstodon.org) - Fosstodon
+https://fosstodon.org/@slint
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Exponential Layout!
+https://exponential-layout.glitch.me/
+
+Chromium Docs - Contributing to Chromium
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/contributing.md#Legal-stuff
+
+[TablesNG] Update DCHECK condition in LayoutTable::AddChild (5896813) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[TablesNG] AddChild methods (2212459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/2212459
+
+Alexander Aring - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Alexander+Aring
+
+alexaring (Alexander Aring)
+https://github.com/alexaring
+
+tannal (tannal)
+https://github.com/tannal/
+
+android layout inspector - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=android+layout+inspector
+
+Debug your layout with Layout Inspector  |  Android Studio  |  Android Developers
+https://developer.android.com/studio/debug/layout-inspector
+
+bytebytego github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bytebytego+github
+
+ByteByteGoHq/system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file#netflixs-tech-stack
+
+(18) Du cross-platform embarqué/desktop/mobile avec Slint - YouTube
+https://www.youtube.com/watch?v=hqa7RchDx10&list=PLn7H9CUCuXAtxPltq2mEHc_Wbgckrd4B-&index=27
+
+pixelbuild - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pixelbuild
+
+PixelBuilds
+https://github.com/PixelBuildsROM
+
+android makers 2024 github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=android+makers+2024+github
+
+.Android Makers 2024 - Say Cheese!.md
+https://gist.github.com/JolandaVerhoef/99dafc1861226969ca2f2fd374abb3e8
+
+Conference List - Android Study Group
+https://androidstudygroup.github.io/conferences/
+
+Paris Android User Group
+https://github.com/paug
+
+kodeinkoders - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kodeinkoders
+
+KodeinKoders/CuP: Compose ur Pres: A pure Kotlin Compose Multiplatform presentation system for developer presenters.
+https://github.com/KodeinKoders/CuP
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip?tab=readme-ov-file
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+slint github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=slint+github
+
+slint-ui/slint: Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+https://github.com/slint-ui/slint
+
+(1326) #general > Thoughts about ecosystem funding - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147921-general/topic/Thoughts.20about.20ecosystem.20funding/near/419255404
+
+maston github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=maston+github
+
+mastodon/mastodon: Your self-hosted, globally interconnected microblogging community
+https://github.com/mastodon/mastodon
+
+(461) #general > ✏️ TSC Meeting Minutes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/.E2.9C.8F.EF.B8.8F.20TSC.20Meeting.20Minutes
+
+Comparing servo:main...MarybethGasman:feat/cli-fullscreen-option · servo/servo
+https://github.com/servo/servo/compare/main...MarybethGasman:servo:feat/cli-fullscreen-option
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+igalia cross platform gui report - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=igalia+cross+platform+gui+report
+
+Field Survey: Cross-Platform Mobile App Frameworks in 2023 - 2023-cross-platform-mobile-app-frameworks.pdf
+https://www.igalia.com/downloads/2023-cross-platform-mobile-app-frameworks.pdf
+
+NativeScript - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=NativeScript
+
+NativeScript/NativeScript: ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
+https://github.com/NativeScript/NativeScript
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
