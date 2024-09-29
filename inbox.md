@@ -1,6 +1,8 @@
 
 # 2024-9-29 0 | 0
 
+glxinfo | grep -i amd
+
 ericwilligers: Possibly Eric Willigers, known for work on web standards.
 dstockwell: Could be Doug Stockwell, who has been involved in various web-related projects.
 slightlyoff: Might refer to Alex Russell, a well-known figure in web standards and Chrome development.
