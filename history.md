@@ -1,3 +1,101 @@
+# 2024-9-30
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+mastodon/mastodon-android: Official Android app for Mastodon
+https://github.com/mastodon/mastodon-android
+
+Sam Altman claims “AGI has been achieved internally” | Hacker News
+https://news.ycombinator.com/item?id=37662399
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107#7695638
+
+Tools for Node.js Contributors
+https://www.fhinkel.rocks/posts/Tools-for-Node-js-Contributors
+
+core-validate-commit - npm
+https://www.npmjs.com/package/core-validate-commit
+
+nodejs repositories
+https://github.com/orgs/nodejs/repositories
+
+Evan Lucas – Medium
+https://medium.com/@evanlucas
+
+(18) Discord | "Interactive forms" | Typst
+https://discord.com/channels/1054443721975922748/1175892991135727790
+
+Sometimes whitespace can't be copied from PDF · Issue #671 · typst/typst
+https://github.com/typst/typst/issues/671
+
+“Clang” CFE Internals Manual — Clang 20.0.0git documentation
+https://clang.llvm.org/docs/InternalsManual.html
+
+Tracking Issue: Interactive Forms · Issue #2421 · typst/typst
+https://github.com/typst/typst/issues/2421
+
+RFC: PDF Form Elements · Issue #4368 · typst/typst
+https://github.com/typst/typst/issues/4368
+
+(18) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+Is there any design document for this repo? · Issue #1 · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/issues/1
+
+(18) Collaborative Text Editing with Eg-Walker - YouTube
+https://www.youtube.com/watch?v=rjbEG7COj7o
+
+Collaborative text editing with Eg-Walker: Better, faster, smaller | Hacker News
+https://news.ycombinator.com/item?id=41669840
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=bummer&op=translate
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+bugzilla.mozilla.org/attachment.cgi?id=9424708
+https://bug1918733.bmoattachments.org/attachment.cgi?id=9424708
+
+Pull request search results
+https://github.com/search?q=author%3Ajoyeecheung&type=pullrequests
+
+[TablesNG] Update DCHECK condition in LayoutTable::AddChild (5896813) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+(1299) #checkins > Daniel McNab - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197474-checkins/topic/Daniel.20McNab
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller · Issue #80 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/80
+
+(461) #general > WPT try runs in forks - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/WPT.20try.20runs.20in.20forks
+
 # 2024-9-29
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
