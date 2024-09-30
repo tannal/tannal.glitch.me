@@ -2,6 +2,23 @@
 
 # dev
 
+minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud
+minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud-db
+minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud-redis
+
+minikube kubectl apply -- -f nextcloud-config.yaml
+minikube kubectl apply -- -f nextcloud-secrets.yaml
+minikube kubectl apply -- -f nextcloud-pvc.yaml
+minikube kubectl apply -- -f nextcloud-deployment.yaml
+minikube kubectl apply -- -f nextcloud-db-deployment.yaml
+minikube kubectl apply -- -f nextcloud-redis-deployment.yaml
+minikube kubectl apply -- -f nextcloud-services.yaml
+
+
+```bash
+minikube kubectl get pods -- -n nextcloud
+```
+
 ```bash
 export NO_PROXY=$NO_PROXY,192.168.49.2
 ```
@@ -12,6 +29,10 @@ routeros
 ```bash
 export HTTP_PROXY=http://127.0.0.1:8890/
 export HTTPS_PROXY=http://127.0.0.1:8890/
+export NO_PROXY=localhost,127.0.0.1,10.96.0.0/12,192.168.59.0/24,192.168.49.0/24,192.168.39.0/24
+
+export HTTP_PROXY=http://10.90.243.70:8890/
+export HTTPS_PROXY=http://10.90.243.70:8890/
 export NO_PROXY=localhost,127.0.0.1,10.96.0.0/12,192.168.59.0/24,192.168.49.0/24,192.168.39.0/24
 ```
 Start minikube with proxy settings:
