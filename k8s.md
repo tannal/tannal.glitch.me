@@ -2,6 +2,39 @@
 
 # dev
 
+```bash
+export NO_PROXY=$NO_PROXY,192.168.49.2
+```
+Configure proxy settings for minikube:
+Set the following environment variables before starting minikube:
+routeros
+
+```bash
+export HTTP_PROXY=http://127.0.0.1:8890/
+export HTTPS_PROXY=http://127.0.0.1:8890/
+export NO_PROXY=localhost,127.0.0.1,10.96.0.0/12,192.168.59.0/24,192.168.49.0/24,192.168.39.0/24
+```
+Start minikube with proxy settings:
+Use the following command to start minikube with the proxy settings:
+
+```bash
+minikube start --docker-env HTTP_PROXY=$HTTP_PROXY --docker-env HTTPS_PROXY=$HTTPS_PROXY --docker-env NO_PROXY=$NO_PROXY
+```
+If you're still having issues pulling images, you might need to configure minikube to use a different image repository. You can do this by adding the --image-repository flag:
+
+```bash
+kubectl create namespace nextcloud
+```
+
+复制
+minikube start --docker-env HTTP_PROXY=$HTTP_PROXY --docker-env HTTPS_PROXY=$HTTPS_PROXY --docker-env NO_PROXY=$NO_PROXY --image-repository=auto
+If problems persist, you might want to delete the existing minikube cluster and start fresh:
+
+复制
+minikube delete
+minikube start --docker-env HTTP_PROXY=$HTTP_PROXY --docker-env HTTPS_PROXY=$HTTPS_PROXY --docker-env NO_PROXY=$NO_PROXY --image-repository=auto
+Make sure your proxy allows connections to the necessary Kubernetes repositories and domains.
+
 # inbox
 
 

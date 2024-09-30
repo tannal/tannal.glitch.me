@@ -1,5 +1,74 @@
 # 2024-9-30
 
+k8s.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Grishka AppKit Dependency · Issue #848 · mastodon/mastodon-android
+https://github.com/mastodon/mastodon-android/issues/848
+
+grishka/appkit: Android app boilerplate + image loader
+https://github.com/grishka/appkit
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+nvidia nasdaq - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nvidia+nasdaq
+
+(18) Discord | #bot-corner | Typst
+https://discord.com/channels/1054443721975922748/1056574658771681361
+
+Slack GitHub - Google 搜索
+https://www.google.com.hk/search?q=Slack+GitHub&newwindow=1&client=ubuntu-sn&hs=1YV&sca_esv=1a6ffeee4dcf7c44&sca_upv=1&channel=fs&ei=Rw_6ZvuRKpW5kPIP7O316As&oq=slack+mobile+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3NsYWNrIG1vYmlsZSBnaXRodWIqAggAMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSNcIUABYAHABeAGQAQCYAQCgAQCqAQC4AQHIAQCYAgGgAgSYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+slackhq repositories
+https://github.com/orgs/slackhq/repositories
+
+PeerTube github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=PeerTube+github
+
+Issues · Chocobozzz/PeerTube
+https://github.com/Chocobozzz/PeerTube/issues
+
+Nextcloud github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nextcloud+github
+
+Development environment — Nextcloud latest Developer Manual latest documentation
+https://docs.nextcloud.com/server/latest/developer_manual/getting_started/devenv.html
+
+Files - Nextcloud
+https://cloud.nextcloud.com/s/iyNGp8ryWxc7Efa?path=%2F
+
+server/.devcontainer/Dockerfile at da591eaec3050ab02b4a74d1304db78335eeb7fa · nextcloud/server
+https://github.com/nextcloud/server/blob/da591eaec3050ab02b4a74d1304db78335eeb7fa/.devcontainer/Dockerfile
+
+tannal (tannal)
+https://github.com/tannal/
+
+Implement the v flag for RegExp in SpiderMonkey
+https://tannal.github.io/p/implement-the-v-flag-for-regexp-in-spidermonkey/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&op=translate
+
+php github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=php+github
+
+php repositories
+https://github.com/orgs/php/repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=hiphop&sort=byPopularity&type=story
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+nextcloud dockerhub - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nextcloud+dockerhub
+
+nextcloud - Official Image | Docker Hub
+https://hub.docker.com/_/nextcloud
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

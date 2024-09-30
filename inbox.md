@@ -1,4 +1,10 @@
 
+# 2024-9-30 0 | 0
+
+maston
+slack
+nextcloud
+
 # 2024-9-29 0 | 0
 
 
