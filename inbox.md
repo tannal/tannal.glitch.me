@@ -1,6 +1,9 @@
 
 # 2024-9-30 0 | 0
 
+https://codefuturesql.top/
+https://github.com/barnett-yuxiang
+
 word processing -> text editor -> code editor -> rich text editor
 audio editor
 document editor

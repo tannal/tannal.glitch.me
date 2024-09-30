@@ -1,5 +1,116 @@
 # 2024-9-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Is there any design document for this repo? · Issue #1 · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/issues/1
+
+Collaborative text editing with Eg-Walker: Better, faster, smaller | Hacker News
+https://news.ycombinator.com/item?id=41669840
+
+2305.00583v2.pdf
+https://arxiv.org/pdf/2305.00583
+
+(12) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+Martin Kleppma - Google 搜索
+https://www.google.com.hk/search?q=Martin+Kleppma&newwindow=1&client=ubuntu-sn&hs=vKf&sca_esv=4c0b7159feae1cdb&sca_upv=1&channel=fs&ei=BaL6ZprnB-jIkPIPtrK24AM&ved=0ahUKEwja_erV3eqIAxVoJEQIHTaZDTwQ4dUDCA8&uact=5&oq=Martin+Kleppma&gs_lp=Egxnd3Mtd2l6LXNlcnAiDk1hcnRpbiBLbGVwcG1hMgoQLhiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAUj0FVDeCFi2FHACeAGQAQCYAbMCoAHHBKoBBTItMS4xuAEDyAEA-AEBmAICoAIGwgIKEAAYsAMY1gQYR5gDAOIDBRIBMSBAiAYBkAYEugYGCAEQARgUkgcBMqAHhQ4&sclient=gws-wiz-serp
+
+discord open source github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=discord+open+source+github
+
+Discord
+https://github.com/discord
+
+discord/discord-api-docs: Official Discord API Documentation
+https://github.com/discord/discord-api-docs
+
+facebook/hermes: A JavaScript engine optimized for running React Native.
+https://github.com/facebook/hermes
+
+Profile: peter_d_sherman | Hacker News
+https://news.ycombinator.com/user?id=peter_d_sherman
+
+kgj-0x64/meact.js: Meact.js = My (implementation of) React.js
+https://github.com/kgj-0x64/meact.js
+
+(18) 30 Linux Kernel Developer Workspaces in 30 Weeks: Steve Rostedt - YouTube
+https://www.youtube.com/watch?v=04VpdhLccqk
+
+(18) AT&T Archives: The UNIX Operating System - YouTube
+https://www.youtube.com/watch?v=tc4ROCJYbm0
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+tannal
+https://tannal.github.io/
+
+Learn Next.js – A free video course on React and Next.js.
+https://masteringnextjs.com/
+
+tannal
+http://localhost:1313/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+steven Rostedt github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=steven+Rostedt+github
+
+Zildj1an (Carlos Bilbao)
+https://github.com/Zildj1an
+
+Confidential Computing in Linux for x86 virtualization — The Linux Kernel documentation
+https://docs.kernel.org/security/snp-tdx-threat-model.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=notebooklm&sort=byPopularity&type=story
+
+NotebookLM’s automatically generated podcasts are surprisingly effective
+https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/
+
+NotebookLM | Note Taking & Research Assistant Powered by AI
+https://notebooklm.google/
+
+NotebookLM | Note Taking & Research Assistant Powered by AI
+https://notebooklm.google/?location=unsupported
+
+NotebookLM | Note Taking & Research Assistant Powered by AI
+https://notebooklm.google/?location=unsupported
+
+karpathy (Andrej) / Followers
+https://github.com/karpathy?page=3&tab=followers
+
+Ren-Owen/PaddleRec: Recommendation Algorithm大规模推荐算法库，包含推荐系统经典及最新算法LR、Wide&Deep、DSSM、TDM、MIND、Word2Vec、Bert4Rec、DeepWalk、SSR、AITM，DSIN，SIGN，IPREC、GRU4Rec、Youtube_dnn、NCF、GNN、FM、FFM、DeepFM、DCN、DIN、DIEN、DLRM、MMOE、PLE、ESMM、ESCMM, MAML、xDeepFM、DeepFEFM、NFM、AFM、RALM、DMR、GateNet、NAML、DIFM、Deep Crossing、PNN、BST、AutoInt、FGCNN、FLEN、Fibinet、ListWise、DeepRec、ENSFM，TiSAS，AutoFIS等，
+https://github.com/Ren-Owen/PaddleRec
+
+SilverMoonSecurity (SilverMoon)
+https://github.com/SilverMoonSecurity
+
+jhuangtw (john huang)
+https://github.com/jhuangtw
+
+dilawarm (Dilawar Mahmood)
+https://github.com/dilawarm
+
+CogitoNTNU/AlphaZero: An implementation of AlphaZero, trained to master Tic-Tac-Toe and Four in a row
+https://github.com/CogitoNTNU/AlphaZero
+
+tech layoff - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tech+layoff
+
+Layoffs.fyi - Tech Layoff Tracker and Startup Layoff Lists
+https://layoffs.fyi/
+
+mastodon github - Google 搜索
+https://www.google.com.hk/search?q=mastodon+github&newwindow=1&client=ubuntu-sn&hs=hvT&sca_esv=9b517dd3499faf09&sca_upv=1&channel=fs&ei=Di37ZuvOMcCjur8Pq_DncQ
+
+Discussion search results
+https://github.com/search?q=org%3Amastodon+flutter&type=discussions
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
