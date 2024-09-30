@@ -1,3 +1,46 @@
+即时通讯：
+Zulip（您已提到）
+Matrix（开源的去中心化通讯协议）
+Rocket.Chat（开源的团队协作平台）
+社交网络：
+Mastodon（您已提到）
+Diaspora（另一个去中心化的社交网络）
+Friendica（支持与多个社交网络互通）
+YouTube 替代：
+PeerTube（去中心化的视频平台）
+MediaGoblin（支持多种媒体类型的平台）
+TikTok 替代：
+目前没有完全对应的开源替代品，但 PeerTube 可以在某种程度上满足短视频需求
+云存储替代：
+Nextcloud（功能丰富的个人云存储解决方案）
+ownCloud（另一个流行的个人云平台）
+Seafile（专注于文件同步和共享）
+GitHub 替代：
+Gitea（您已提到）
+GitLab CE（社区版）
+Gogs（轻量级 Git 服务）
+文档编辑替代：
+Typst（您已提到，适合学术写作）
+LibreOffice Writer（更通用的文字处理软件）
+AbiWord（轻量级的文字处理器）
+表格替代：
+LibreOffice Calc
+Gnumeric
+EtherCalc（在线协作电子表格）
+PPT 替代：
+LibreOffice Impress
+Reveal.js（基于 HTML 的演示框架）
+Typst（如您所提，也可用于创建演示文稿）
+开源游戏：
+
+0 A.D.（实时策略游戏）
+SuperTuxKart（卡丁车竞速游戏）
+Minetest（类似 Minecraft 的沙盒游戏）
+OpenTTD（运输主题的模拟游戏）
+The Battle for Wesnoth（回合制策略游戏）
+Hedgewars（类似百战天虫的游戏）
+FreeCiv（类似文明的策略游戏）
+OpenRA（即时战略游戏，重制了经典的命令与征服系列）
 
 
 

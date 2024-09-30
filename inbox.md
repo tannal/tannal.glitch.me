@@ -2,6 +2,7 @@
 # 2024-9-29 0 | 0
 
 
+
 Embark funding winit and rust-gpu.
 Google Fonts funding us.
 System76 funding iced and COSMIC-Text.
