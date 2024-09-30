@@ -1,5 +1,146 @@
 # 2024-9-30
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Element [7] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+3.4.1 – CouchDB Blog
+https://blog.couchdb.org/2024/09/27/3-4-1/
+
+awslabs/llrt: LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+https://github.com/awslabs/llrt
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+LLRT: A low-latency JavaScript runtime from AWS | Hacker News
+https://news.ycombinator.com/item?id=39304188
+
+wasmerio/winterjs: Winter is coming... ❄️
+https://github.com/wasmerio/winterjs
+
+Slack
+https://github.com/slackhq
+
+is slack open source? - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=is+slack+open+source%3F
+
+sharply - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sharply
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=catastro&op=translate
+
+google neel nanda - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=google+neel+nanda
+
+About — Neel Nanda
+https://www.neelnanda.io/about
+
+TransformerLensOrg/TransformerLens: A library for mechanistic interpretability of GPT-style language models
+https://github.com/TransformerLensOrg/TransformerLens
+
+生成扩散模型漫谈（十三）：从万有引力到扩散模型 - 科学空间|Scientific Spaces
+https://kexue.fm/archives/9305
+
+Cool Papers - Immersive Paper Discovery
+https://papers.cool/
+
+knowledge neurons - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=knowledge+neurons
+
+2104.08696v2.pdf
+https://arxiv.org/pdf/2104.08696
+
+EleutherAI/knowledge-neurons: A library for finding knowledge neurons in pretrained transformer models.
+https://github.com/EleutherAI/knowledge-neurons
+
+Philip Johnson-Laird - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Philip+Johnson-Laird
+
+(18) "Goodbye to Logic", keynote by Phil Johnson-Laird at the 2023 meeting in his honor (7/21/2023) - YouTube
+https://www.youtube.com/watch?v=CX_ifCVZw80
+
+wittgenstein's course on the foundations of mathmetiac - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wittgenstein%27s+course+on+the+foundations+of+mathmetiac
+
+wittgenstein's course on the foundations of mathmetia pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wittgenstein%27s+course+on+the+foundations+of+mathmetia+pdf
+
+DjVu Document - Lectures on the foundations1939.pdf
+http://philonantes.free.fr/Lectures%20on%20the%20foundations1939.pdf
+
+Wittgenstein - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Wittgenstei#fpr=r
+
+路德维希·维特根斯坦 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6
+
+News – Page 3 – The Mental Models Global Laboratory
+https://www.modeltheory.org/news/page/3/
+
+skhemlani
+https://github.com/skhemlani
+
+CognitiveComputationLab/ccobra: Framework for the specification and analysis of models for human reasoning.
+https://github.com/CognitiveComputationLab/ccobra
+
+fanglingsu/vimb: Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
+https://github.com/fanglingsu/vimb
+
+Vimb - The Vim like Browser
+https://fanglingsu.github.io/vimb/
+
+Reasoning about possibilities: Modal logics, possible worlds, and mental models - 2024reasoning-about-possibilities.pdf
+https://modeltheory.org/papers/2024reasoning-about-possibilities.pdf
+
+Computational models – The Mental Models Global Laboratory
+https://www.modeltheory.org/models/
+
+LispWorks
+https://www.lispworks.com/
+
+Clozure CL
+https://ccl.clozure.com/
+
+2023replacing-TT.pdf
+https://modeltheory.org/papers/2023replacing-TT.pdf
+
+Welcome to CCOBRA’s documentation! — CCOBRA documentation
+https://orca.informatik.uni-freiburg.de/ccobra-doc/
+
+My First Dataset — CCOBRA documentation
+https://orca.informatik.uni-freiburg.de/ccobra-doc/usage/myfirstdataset.html
+
+Microsoft Word - Eye Movements are like Gestures in the Creation of Informal Algorithms - 2024eyemovements.pdf
+https://modeltheory.org/papers/2024eyemovements.pdf
+
+What it means to “want” something: A model-based theory – The Mental Models Global Laboratory
+https://www.modeltheory.org/2022/06/what-it-means-to-want-something-a-model-based-theory/
+
+Reasoning About Want - 2022want.pdf
+https://modeltheory.org/papers/2022want.pdf
+
+Recursion in programs, thought, and language – The Mental Models Global Laboratory
+https://www.modeltheory.org/2021/12/recursion-in-programs-thought-and-language/
+
+Recursion in programs, thought, and language - 2022recursion.pdf
+https://modeltheory.org/papers/2022recursion.pdf
+
+Recursion in programs, thought, and language · Issue #81 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/81
+
+tannal (tannal)
+https://github.com/tannal/
+
+Clojure
+https://clojure.org/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

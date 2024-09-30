@@ -1,4 +1,26 @@
 
+
+
+图灵机（Turing Machine）：
+    比线性有界自动机更强大
+    具有无限长的存储带
+    可以解决所有可计算问题
+    是理论计算机科学中最重要的抽象模型之一
+
+非确定性图灵机（Non-deterministic Turing Machine）：
+    可以同时探索多个计算路径
+    在某些问题上比确定性图灵机更高效
+
+量子图灵机（Quantum Turing Machine）：
+    利用量子叠加和纠缠原理
+    理论上可以解决某些经典计算机难以处理的问题
+
+超图灵机（Hypercomputation）：
+    纯粹的理论概念，超越了图灵机的计算能力
+    包括各种假设的计算模型，如无限时间图灵机、模拟器等
+
+
+
 对于使用Nginx、MariaDB/PostgreSQL和PHP-FPM来运行Nextcloud，以下是一些开源的高性能实现方案：
 
 Nginx
