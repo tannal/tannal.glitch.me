@@ -1,6 +1,16 @@
 
 # 2024-9-30 0 | 0
 
+word processing -> text editor -> code editor -> rich text editor
+audio editor
+document editor
+music editor
+video editor translation subtitle
+3d model editor
+picture editor
+animation editor
+gif ?
+
 https://opensource.tencent.com/
 
 https://papers.cool/
