@@ -578,16 +578,16 @@ apply intern
 [] yundong fuwocheng
 [] zuochengyun leetcode
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
+[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
+[] AI agent powered documents
 
 
 # 2024-9-22 - 2024-9-29
 
 
-[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
 [x] follow up pr for test262
 [x] wpt test for input vertical align
 [x] wpt test for zoom dicrete animation
-[] AI agent powered documents
 
 https://github.com/w3c/csswg-drafts/issues/10872
 

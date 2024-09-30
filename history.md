@@ -1,5 +1,92 @@
 # 2024-9-30
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Clojure - Getting Started
+https://clojure.org/guides/getting_started
+
+Recursion in programs, thought, and language · Issue #81 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/81
+
+Recursion in programs, thought, and language - 2022recursion.pdf
+https://modeltheory.org/papers/2022recursion.pdf
+
+[TablesNG] Update DCHECK condition in LayoutTable::AddChild (5896813) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+Clojure
+https://github.com/clojure
+
+Clojure-Android github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Clojure-Android+github
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cursor%20claude3&sort=byPopularity&type=story
+
+TexSandbox - The fastest way to write and share LaTeX
+https://www.texsandbox.com/
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+clangbuiltlinux - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=clangbuiltlinux
+
+ClangBuiltLinux
+https://github.com/ClangBuiltLinux
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+(18) Why I'm OBSESSED With eBPF - YouTube
+https://www.youtube.com/watch?v=xMHM6k6z7mc
+
+(18) Olivia Rodrigo & Avril Lavigne - Complicated (Toronto 1 2022) - YouTube
+https://www.youtube.com/watch?v=PFSzd2aO-fU
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840#issuecomment-2380057496
+
+WeChat Database - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=WeChat+Database
+
+Tencent/wcdb: WCDB is a cross-platform database framework developed by WeChat.
+https://github.com/Tencent/wcdb?tab=readme-ov-file
+
+腾讯开源 | Tencent Open Source
+https://opensource.tencent.com/
+
+clang linux distribution fosm - Google 搜索
+https://www.google.com.hk/search?q=clang+linux+distribution+fosm&newwindow=1&client=ubuntu-sn&hs=N9y&sca_esv=f490e4515d851bb1&sca_upv=1&channel=fs&ei=OJX6ZubqF-vhkPIPubOnyAc&ved=0ahUKEwjm5q670eqIAxXrMEQIHbnZCXkQ4dUDCA8&uact=5&oq=clang+linux+distribution+fosm&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWNsYW5nIGxpbnV4IGRpc3RyaWJ1dGlvbiBmb3NtMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUixGVCKBFjSF3ABeAGQAQCYAfICoAGeCqoBBTItMS4zuAEDyAEA-AEBmAIFoAKmCsICChAAGLADGNYEGEfCAgcQIRigARgKmAMAiAYBkAYKkgcHMS4wLjEuM6AH6Qw&sclient=gws-wiz-serp
+
+free open source submit clang linux distro - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=free+open+source+submit+clang+linux+distro
+
+dslm4515/CMLFS: Clang-Built Musl Linux From Scratch
+https://github.com/dslm4515/CMLFS
+
+(18) Building a Linux distro with LLVM - YouTube
+https://www.youtube.com/watch?v=xfTQVnHszi8
+
+Chimera Linux - Development
+https://chimera-linux.org/development/
+
+Chimera Linux (@chimera_linux@floss.social) - FLOSS.social
+https://floss.social/@chimera_linux
+
+Chimera Linux
+https://github.com/chimera-linux
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

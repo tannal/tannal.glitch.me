@@ -1,6 +1,8 @@
 
 # 2024-9-30 0 | 0
 
+https://opensource.tencent.com/
+
 https://papers.cool/
 
 (base) a17@17:~/tannalwork/projects/nextcloud$ docker exec -it bf9552160b7a /bin/bash
