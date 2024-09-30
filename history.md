@@ -1,5 +1,83 @@
 # 2024-9-29
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Ray Tracing in One Weekend
+https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+RayTracing/raytracing.github.io: Main Web Site (Online Books)
+https://github.com/RayTracing/raytracing.github.io
+
+google project ara - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=google+project+ara
+
+Project Ara - Wikipedia
+https://en.wikipedia.org/wiki/Project_Ara
+
+Cloud Android
+https://127.0.0.1:8443/
+
+…/calling_convention_x86_64.cc · Gerrit Code Review
+https://android-review.googlesource.com/c/platform/art/+/3284463/1/compiler/jni/quick/x86_64/calling_convention_x86_64.cc
+
+Projects | LUCI
+https://ci.chromium.org/ui/
+
+taskly
+http://localhost:8081/
+
+kadikraman/react-native-v3-course-app: Solutions for React Native v3 course on Frontend Masters
+https://github.com/kadikraman/react-native-v3-course-app
+
+New project | React Native v3
+https://kadikraman.github.io/react-native-v3-course/docs/new-project/
+
+Cloud Android
+https://localhost:8445/
+
+Create a development build - Expo Documentation
+https://docs.expo.dev/develop/development-builds/create-a-build/
+
+tannal/cn-pop
+https://github.com/tannal/cn-pop
+
+Zulip - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Zulip
+
+zulip/zulip-flutter: Future Zulip client using Flutter
+https://github.com/zulip/zulip-flutter
+
+vcpkg github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vcpkg+github
+
+microsoft/vcpkg: C++ Library Manager for Windows, Linux, and MacOS
+https://github.com/microsoft/vcpkg
+
+tannal/cn-pop
+https://github.com/tannal/cn-pop
+
+New Issue · flutter/flutter
+https://github.com/flutter/flutter/issues/new?title=%5Btool_crash%5D+ProcessException%3A+No+such+file+or+directory+Command%3A+google-chrome%2C+OS+error+code%3A+2&body=%23%23+Command%0A%60%60%60sh%0Aflutter+run%0A%60%60%60%0A%0A%23%23+Steps+to+Reproduce%0A1.+...%0A2.+...%0A3.+...%0A%0A%23%23+Logs%0AProcessException%3A+No+such+file+or+directory+Command%3A+google-chrome%2C+OS+error+code%3A+2%0A%60%60%60console%0A%230++++++_ProcessImpl._start+%28dart%3Aio-patch%2Fprocess_patch.dart%3A402%3A33%29%0A%231++++++Process.start+%28dart%3Aio-patch%2Fprocess_patch.dart%3A38%3A20%29%0A%232++++++Chrome._startProcess+%28package%3Abrowser_launcher%2Fsrc%2Fchrome.dart%3A177%3A26%29%0A%233++++++Chrome.start+%28package%3Abrowser_launcher%2Fsrc%2Fchrome.dart%3A170%3A13%29%0A%234++++++FlutterResidentDevtoolsHandler._launchDevToolsForDevices+%28package%3Aflutter_tools%2Fsrc%2Fresident_devtools_handler.dart%3A180%3A24%29%0A%235++++++FlutterResidentDevtoolsHandler.launchDevToolsInBrowser+%28package%3Aflutter_tools%2Fsrc%2Fresident_devtools_handler.dart%3A168%3A7%29%0A%236++++++TerminalHandler._commonTerminalInputHandler+%28package%3Aflutter_tools%2Fsrc%2Fresident_runner.dart%3A1766%3A56%29%0A%237++++++TerminalHandler.processTerminalInput+%28package%3Aflutter_tools%2Fsrc%2Fresident_runner.dart%3A1784%3A13%29%0A%238++++++_rootRunUnary+%28dart%3Aasync%2Fzone.dart%3A1422%3A47%29%0A%239++++++_CustomZone.runUnary+%28dart%3Aasync%2Fzone.dart%3A1324%3A19%29%0A%2310+++++_CustomZone.runUnaryGuarded+%28dart%3Aasync%2Fzone.dart%3A1233%3A7%29%0A%2311+++++_BufferingStreamSubscription._sendData+%28dart%3Aasync%2Fstream_impl.dart%3A366%3A11%29%0A%2312+++++_BufferingStreamSubscription._add+%28dart%3Aasync%2Fstream_impl.dart%3A297%3A7%29%0A%2313+++++_SyncBroadcastStreamController._sendData+%28dart%3Aasync%2Fbroadcast_stream_controller.dart%3A370%3A25%29%0A%2314+++++_BroadcastStreamController.add+%28dart%3Aasync%2Fbroadcast_stream_controller.dart%3A244%3A5%29%0A%2315+++++_AsBroadcastStreamController.add+%28dart%3Aasync%2Fbroadcast_stream_controller.dart%3A467%3A11%29%0A%2316+++++_rootRunUnary+%28dart%3Aasync%2Fzone.dart%3A1422%3A47%29%0A%2317+++++_CustomZone.runUnary+%28dart%3Aasync%2Fzone.dart%3A1324%3A19%29%0A%2318+++++_CustomZone.runUnaryGuarded+%28dart%3Aasync%2Fzone.dart%3A1233%3A7%29%0A%2319+++++_BufferingStreamSubscription._sendData+%28dart%3Aasync%2Fstream_impl.dart%3A366%3A11%29%0A%2320+++++_BufferingStreamSubscription._add+%28dart%3Aasync%2Fstream_impl.dart%3A297%3A7%29%0A%2321+++++_SinkTransformerStreamSubscription._add+%28dart%3Aasync%2Fstream_transformers.dart%3A63%3A11%29%0A%2322+++++_EventSinkWrapper.add+%28dart%3Aasync%2Fstream_transformers.dart%3A13%3A11%29%0A%2323+++++_StringAdapterSink.add+%28dart%3Aconvert%2Fstring_conversion.dart%3A228%3A11%29%0A%2324+++++_StringAdapterSink.addSlice+%28dart%3Aconvert%2Fstring_conversion.dart%3A233%3A7%29%0A%60%60%60%0A%60%60%60console%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Flutter+%28Channel+main%2C+3.26.0-1.0.pre.259%2C+on+Ubuntu+22.04.5+LTS+6.8.0-45-generic%2C+locale+en_US.UTF-8%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Flutter+version+3.26.0-1.0.pre.259+on+channel+main+at+%2Fhome%2Fa17%2Fsnap%2Fflutter%2Fcommon%2Fflutter%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Upstream+repository+https%3A%2F%2Fgithub.com%2Fflutter%2Fflutter.git%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Framework+revision+9f88de930b+%2824+hours+ago%29%2C+2024-09-28+12%3A20%3A32+%2B0300%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Engine+revision+380fd81444%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Dart+version+3.6.0+%28build+3.6.0-279.0.dev%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+DevTools+version+2.40.0-dev.1%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Android+toolchain+-+develop+for+Android+devices+%28Android+SDK+version+35.0.0%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Android+SDK+at+%2Fhome%2Fa17%2FAndroid%2FSdk%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Platform+android-35%2C+build-tools+35.0.0%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+ANDROID_HOME+%3D+%2Fhome%2Fa17%2FAndroid%2FSdk%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Java+binary+at%3A+%2Fhome%2Fa17%2F.local%2Fshare%2FJetBrains%2FToolbox%2Fapps%2Fandroid-studio%2Fjbr%2Fbin%2Fjava%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Java+version+OpenJDK+Runtime+Environment+%28build+17.0.11%2B0-17.0.11b1207.24-11852314%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+All+Android+licenses+accepted.%0A%0A%1B%5B31m%5B%E2%9C%97%5D%1B%5B39m+Chrome+-+develop+for+the+web+%28Cannot+find+Chrome+executable+at+google-chrome%29%0A++++%1B%5B33m%21%1B%5B39m+Cannot+find+Chrome.+Try+setting+CHROME_EXECUTABLE+to+a+Chrome+executable.%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Linux+toolchain+-+develop+for+Linux+desktop%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+clang+version+10.0.0-4ubuntu1%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+cmake+version+3.16.3%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+ninja+version+1.10.0%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+pkg-config+version+0.29.1%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Android+Studio+%28version+2024.1%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Android+Studio+at+%2Fhome%2Fa17%2F.local%2Fshare%2FJetBrains%2FToolbox%2Fapps%2Fandroid-studio%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Flutter+plugin+can+be+installed+from%3A%0A++++++%F0%9F%94%A8+https%3A%2F%2Fplugins.jetbrains.com%2Fplugin%2F9212-flutter%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Dart+plugin+can+be+installed+from%3A%0A++++++%F0%9F%94%A8+https%3A%2F%2Fplugins.jetbrains.com%2Fplugin%2F6351-dart%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Java+version+OpenJDK+Runtime+Environment+%28build+17.0.11%2B0-17.0.11b1207.24-11852314%29%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+VS+Code+%28version+1.93.1%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+VS+Code+at+%2Fusr%2Fshare%2Fcode%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Flutter+extension+version+3.96.0%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Proxy+Configuration%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+HTTP_PROXY+is+set%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+NO_PROXY+is+localhost%2C127.0.0.0%2F8%2C%3A%3A1%2C127.0.0.1%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+NO_PROXY+contains+localhost%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+NO_PROXY+contains+127.0.0.1%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+NO_PROXY+contains+%3A%3A1%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Connected+device+%282+available%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+MI+8+%28mobile%29+++%E2%80%A2+10.90.243.70%3A5555+%E2%80%A2+android-arm64+%E2%80%A2+Android+10+%28API+29%29%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+Linux+%28desktop%29+%E2%80%A2+linux+++++++++++++%E2%80%A2+linux-x64+++++%E2%80%A2+Ubuntu+22.04.5+LTS+6.8.0-45-generic%0A++++%1B%5B33m%21%1B%5B39m+Device+10.90.109.125%3A5555+is+offline.%0A%0A%1B%5B32m%5B%E2%9C%93%5D%1B%5B39m+Network+resources%0A++++%1B%5B32m%E2%80%A2%1B%5B39m+All+expected+network+resources+are+available.%0A%0A%1B%5B33m%21%1B%5B39m+Doctor+found+issues+in+1+category.%0A%0A%60%60%60%0A%0A%23%23+Flutter+Application+Metadata%0A%2A%2AType%2A%2A%3A+app%0A%2A%2AVersion%2A%2A%3A+0.0.19%2B19%0A%2A%2AMaterial%2A%2A%3A+true%0A%2A%2AAndroid+X%2A%2A%3A+false%0A%2A%2AModule%2A
+
+Issues · flutter/flutter
+https://github.com/flutter/flutter/issues?q=is%3Aissue+ProcessException%3A+No+such+file+or+directory%0A++Command%3A+google-chrome+http%3A%2F%2F127.0.0.1%3A9101%3Furi%3Dhttp%253A%252F%252F127.0.0.1%253A40883%252F614c0P4ZVlo%253D%252F
+
+127.0.0.1:9106/?uri=http://127.0.0.1:43263/ZQ1lF4mhxR0=/
+http://127.0.0.1:9106/inspector?uri=ws://127.0.0.1:43263/ZQ1lF4mhxR0=/ws
+
+kamp kit github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kamp+kit+github
+
+touchlab/KaMPKit: KaMP Kit by Touchlab. A collection of code & tools designed to get your mobile team started quickly w/Kotlin Multiplatform
+https://github.com/touchlab/KaMPKit?tab=readme-ov-file
+
+KaMPKit/docs/APP_BUILD.md at main · touchlab/KaMPKit
+https://github.com/touchlab/KaMPKit/blob/main/docs/APP_BUILD.md
+
+Zulip Mobile – Figma
+https://www.figma.com/design/1JTNtYo9memgW7vV6d0ygq/Zulip-Mobile
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
