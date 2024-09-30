@@ -1,5 +1,77 @@
 # 2024-9-30
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+nextcloud - Official Image | Docker Hub
+https://hub.docker.com/_/nextcloud
+
+nextcloud/server: ☁️ Nextcloud server, a safe home for all your data
+https://github.com/nextcloud/server
+
+nextcloud/android: 📱 Nextcloud Android app
+https://github.com/nextcloud/android
+
+(18) Nextcloud - YouTube
+https://www.youtube.com/@Nextcloud/videos
+
+FOSS Music Production Software - Google 表格
+https://docs.google.com/spreadsheets/d/1YfVyZHy83WHIiZmQJwHhwPTXomc188VcIwhZJB0P8ro/edit?gid=0#gid=0
+
+topdeoo/NENU-Thesis: NENU-Thesis Wrote by Typst
+https://github.com/topdeoo/NENU-Thesis
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Installation wizard — Nextcloud latest Administration Manual latest documentation
+https://docs.nextcloud.com/server/30/admin_manual/installation/installation_wizard.html#trusted-domains
+
+Audacity - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Audacity
+
+audacityteam github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=audacityteam+github
+
+Code search results
+https://github.com/search?q=repo%3Aaudacity%2Faudacity%20qt&type=code
+
+telegram github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=telegram+github
+
+DrKLO (DrKLO)
+https://github.com/DrKLO
+
+Nextcloud: Open-Source Cloud Apps | Hacker News
+https://news.ycombinator.com/item?id=41615102
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Servo (@servo@floss.social) - FLOSS.social
+https://floss.social/@servo
+
+Servo Project Updates
+https://servo.org/slides/2024-09-19-lf-europe-member-summit/#/2
+
+ChatGGG
+http://192.168.43.1:8080/
+
+openharmony github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=openharmony+github
+
+openharmony repositories
+https://github.com/orgs/openharmony/repositories?q=aosp
+
+openharmony - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=openharmony+
+
+OpenHarmony - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/OpenHarmony
+
+开放原子开源基金会 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E5%BC%80%E6%BA%90%E5%9F%BA%E9%87%91%E4%BC%9A
+
 k8s.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

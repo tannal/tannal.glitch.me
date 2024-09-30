@@ -1,6 +1,10 @@
 
 # 2024-9-30 0 | 0
 
+(base) a17@17:~/tannalwork/projects/nextcloud$ docker exec -it bf9552160b7a /bin/bash
+root@bf9552160b7a:/var/www/html# chown www-data:www-data /var/www/html/config/config.php
+root@bf9552160b7a:/var/www/html# chmod 660 /var/www/html/config/config.php
+
 maston
 slack
 nextcloud
