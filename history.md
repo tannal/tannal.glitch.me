@@ -1,5 +1,104 @@
 # 2024-9-30
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cifkao/html-midi-player: 🎹 Play and display MIDI files on the web
+https://github.com/cifkao/html-midi-player
+
+html-midi-player | Play and display MIDI files online
+https://cifkao.github.io/html-midi-player/
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+TransformerLensOrg/TransformerLens: A library for mechanistic interpretability of GPT-style language models
+https://github.com/TransformerLensOrg/TransformerLens
+
+Sometimes, it's backwards - lemmy.studio
+https://lemmy.studio/post/2917489
+
+Don’t believe the hype: AGI is far from inevitable | Radboud University
+https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+cifkao/html-midi-player: 🎹 Play and display MIDI files on the web
+https://github.com/cifkao/html-midi-player
+
+(1260) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+(18) 【Piano Cover】黃義達 - 那女孩對我說(Uu Ver.)｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=7-Ev6pmXlb4&list=RDGMEMCMFH2exzjBeE_zAHHJOdxg&index=10
+
+kdlp - Google 搜索
+https://www.google.com.hk/search?q=kdlp&rlz=1C1GCEA_enJP1090JP1090&oq=kdlp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIJCAgQABgKGIAEMgcICRAAGIAE0gEIOTE5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+KDLP
+https://fall2024-uml.kdlp.underground.software/index.md
+
+登录QQ邮箱
+https://mail.qq.com/
+
+[Slack] Justin Michaud sent you a message - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQQCVmLTrWXjSfDTrwshNtMM
+
+1917602 - CSS zoom property is animatable contrary to what spec says
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917602
+
+[css-viewport] Is zoom supposed to be non animatable? · Issue #10872 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10872
+
+Home
+https://sagiriwiki.web.app/
+
+obs github - Google 搜索
+https://www.google.com.hk/search?q=obs+github&rlz=1C1GCEA_enJP1090JP1090&oq=obs+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgxODg1ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://github.com/obsproject/obs-studio
+
+obsproject/obs-studio: OBS Studio - Free and open source software for live streaming and screen recording
+https://github.com/obsproject/obs-studio
+
+Visual Studio 2022 Runtimes | OBS
+https://obsproject.com/visual-studio-2022-runtimes
+
+owncast/owncast: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+https://github.com/owncast/owncast
+
+mastodon github - Google 搜索
+https://www.google.com.hk/search?q=mastodon+github&rlz=1C1GCEA_enJP1090JP1090&oq=Mastodon+gi&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg0NTAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+mastodon/mastodon: Your self-hosted, globally interconnected microblogging community
+https://github.com/mastodon/mastodon
+
+Stanley Milgram - Google 搜索
+https://www.google.com.hk/search?q=Stanley+Milgram&rlz=1C1GCEA_enJP1090JP1090&oq=Stanley+Milgram&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Google%20acquirr&sort=byPopularity&type=story
+
+shreyans bhansali
+https://shreyans.org/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=meta%20acquires&sort=byPopularity&type=story
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Microsoft%20acquire&sort=byPopularity&type=story
+
+lobste github - Google 搜索
+https://www.google.com.hk/search?q=lobste+github&rlz=1C1GCEA_enJP1090JP1090&oq=lobste+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMTIzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+lobsters/lobsters: Computing-focused community centered around link aggregation and discussion
+https://github.com/lobsters/lobsters
+
+discourse/discourse-ai
+https://github.com/discourse/discourse-ai
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
