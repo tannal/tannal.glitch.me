@@ -1,4 +1,41 @@
 
+系统设计原则和服务器设计：
+这些是通用的概念，适用于各种规模的系统开发。
+Google Search：
+搜索引擎技术被广泛应用，不仅限于大数据。例如，Elasticsearch 是一个流行的开源搜索引擎，被许多中小型项目使用。
+分布式文件系统（GFS）：
+开源替代：HDFS（Hadoop Distributed File System）
+使用案例：Apache Hadoop 生态系统，被许多公司用于数据存储和处理。
+数据处理（MapReduce）：
+开源实现：Apache Hadoop MapReduce
+使用案例：用于大规模数据处理，但也适用于中等规模的数据分析任务。
+共识算法（Paxos, Raft）：
+开源实现：etcd（使用 Raft），Zookeeper（使用 ZAB，类似 Paxos）
+使用案例：分布式系统中的一致性保证，如 Kubernetes 使用 etcd 进行配置管理。
+分布式存储系统：
+BigTable 的开源替代：HBase, Cassandra
+Dynamo 的开源实现：Riak, Voldemort
+使用案例：从大型社交网络到小型 Web 应用的数据存储。
+数据中心管理（Borg）：
+开源替代：Kubernetes（受 Borg 启发）
+使用案例：容器编排和管理，广泛用于各种规模的应用部署。
+虚拟机：
+开源项目：KVM, Xen
+使用案例：从个人开发环境到大型云服务提供商。
+关于 CRDT（Conflict-free Replicated Data Types）和 Y-CRDT：
+
+CRDT 是一种用于分布式系统中数据一致性的技术。
+Y-CRDT 是一个实现 CRDT 的开源库。
+使用案例：实时协作编辑器，如 Atom-Teletype, ProseMirror。
+一些使用这些技术的著名开源项目：
+
+Apache Hadoop 生态系统：使用 HDFS、MapReduce
+Apache Cassandra：分布式存储系统
+Kubernetes：容器编排，使用 etcd 进行一致性管理
+Elasticsearch：分布式搜索和分析引擎
+CockroachDB：分布式 SQL 数据库，使用 Raft 共识算法
+Apache Kafka：分布式流处理平台
+GitLab：使用 CRDT 进行某些功能的实现
 
 The course is taught by Prof. David O'Hallaron.
 Classes are held on Mondays and Wednesdays from 2:00-3:20pm in WeH 4623.
