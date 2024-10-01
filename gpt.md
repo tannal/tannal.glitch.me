@@ -1,5 +1,49 @@
 
 
+The course is taught by Prof. David O'Hallaron.
+Classes are held on Mondays and Wednesdays from 2:00-3:20pm in WeH 4623.
+There is no required textbook, but several reference books are recommended for Linux and network programming.
+The course covers a wide range of topics related to internet services and distributed systems, including:
+System design principles
+Server design
+Google Search
+Distributed file systems (GFS)
+Data processing (MapReduce)
+Consensus algorithms (Paxos, Raft)
+Distributed storage systems (BigTable, Spanner, Dynamo)
+Datacenter management (Borg)
+Virtual machines
+The course structure includes:
+Regular lectures with discussion leaders (often students)
+Students write 1-page critiques of assigned papers for most classes
+A group project component
+Key dates:
+Group project abstracts due March 13
+Oral mid-term reports for group projects due April 1
+Final group project reports due April 18
+Camera-ready group project reports due April 28
+The course uses various computing resources including Andrew cluster, SCS Gates cluster, and ECE cluster.
+There is no use of Canvas or Piazza for this course.
+
+Open Source Projects:
+GNOME, Mboalab, MDAnalysis, OCaml, ODK-X, Oppia, QEMU
+Cloud Platforms and Hosting:
+AWS, Google Cloud Platform (GCP), Microsoft Azure, Heroku, DigitalOcean, Netlify, Vercel, Fly.io, Aliyun, Deno Deploy
+Databases:
+Redis, MongoDB, CockroachDB, Firebase, DenoKV, PostgreSQL, Cassandra, SQLite, Memcached, MySQL
+Monitoring and Observability:
+Sentry, Splunk, Datadog, OpenTelemetry, Zipkin, New Relic, Logstash, Prometheus, Grafana
+ORM and Database Tools:
+Prisma, Mongoose, Oakdex
+Infrastructure as Code:
+Terraform, Pulumi, Puppet, Ansible, AWS CloudFormation, Chef
+Message Brokers:
+RabbitMQ, Amazon SQS, Apache Kafka, GCP Cloud Tasks
+Identity Management:
+Okta, OAuth2, JWT, Firebase Auth, Auth0, Authy
+CDN Providers:
+Akamai, BunnyCDN, Limelight Networks, Fastly, CDN77, Cloudflare
+
 根据提供的Open Collective网站信息,以及我的知识,我可以回答如下:
 
 Open Collective上的一些知名项目包括:

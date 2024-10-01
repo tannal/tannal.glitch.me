@@ -1,3 +1,104 @@
+# 2024-10-1
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Challenge #1: Echo · Fly Docs
+https://fly.io/dist-sys/1/
+
+fly.io
+https://github.com/superfly/
+
+firecracker-microvm
+https://github.com/firecracker-microvm
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class4
+
+ikilpatrick github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ikilpatrick+github
+
+pdr chromium github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pdr+chromium+github
+
+Mirrors · GitLab
+https://isrc.iscas.ac.cn/gitlab/mirrors
+
+Chrome Platform Status
+https://chromestatus.com/reports/spec_mentors
+
+nt1m (nt1m) / Repositories
+https://github.com/nt1m?tab=repositories
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls
+
+Implement FocusOptions.focusVisible by lukewarlow · Pull Request #32833 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/32833/files#diff-9437c5b6548a3d39142fe550a602221fb1d7565add9ebdb56147b487c624bda3
+
+Commits · mdn/browser-compat-data
+https://github.com/mdn/browser-compat-data/commits?author=lukewarlow&since=2024-08-31&until=2024-09-30
+
+Add select explainer redirect by josepharhar · Pull Request #1101 · openui/open-ui
+https://github.com/openui/open-ui/pull/1101
+
+dlibby microsoft - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dlibby+microsoft
+
+dlibby- (dlibby-) / Repositories
+https://github.com/dlibby-?tab=repositories
+
+stateofjs2023 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=stateofjs2023
+
+State of JavaScript 2023: Usage
+https://2023.stateofjs.com/en-US/usage/
+
+Introduction - JavaScript and TypeScript Monorepos | Frontend Masters
+https://frontendmasters.com/courses/monorepos/repo-walkthrough-yarn-workspaces/
+
+Volta: Start your engines. ⚡
+https://github.com/volta-cli
+
+Continuous Integration & Deployment - Full Stack for Front-End Engineers, v3 | Frontend Masters
+https://frontendmasters.com/courses/fullstack-v3/implementing-https-with-certbot/
+
+Fullstack to Backend Learning Path - Expand Your Abilities to the Server and Master the Fullstack | Frontend Masters
+https://frontendmasters.com/learn/fullstack/?utm_source=stateofjs&utm_medium=website&utm_campaign=stateofjs2023&utm_content=textlink
+
+Professional Learning Path - Your Path to Becoming a Senior Web Developer! | Frontend Masters
+https://frontendmasters.com/learn/professional/?utm_source=stateofjs&utm_medium=website&utm_campaign=stateofjs2023&utm_content=textlink
+
+Introduction - JavaScript: The Hard Parts, v2 | Frontend Masters
+https://frontendmasters.com/courses/javascript-hard-parts-v2/generalized-functions/
+
+Tim's website
+https://ntim.me/
+
+js-ts-monorepos github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=js-ts-monorepos+github
+
+Front End Courses | Mike.Works Developer Training
+https://mike.works/courses?cat=Front%20End
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+tannal (tannal) / September 2024
+https://github.com/tannal?tab=overview&from=2024-09-01&to=2024-09-30
+
+tannal (tannal)
+https://github.com/tannal/
+
+(12) Discord | #browser | Ladybird
+https://discord.com/channels/1247070541085671459/1247090064480014443
+
+ladybird/Documentation/BuildInstructionsLadybird.md at master · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/BuildInstructionsLadybird.md
+
 # 2024-9-30
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
