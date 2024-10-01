@@ -1,6 +1,15 @@
 
 # 2024-10-1 0 | 0
 
+Richard Hamming
+Steve Jobs
+
+
+Your and your research
+Your and your money
+Your and your bussiness
+Your and your body
+Your and your company
 
 # 2024-9-30 0 | 0
 
