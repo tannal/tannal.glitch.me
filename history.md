@@ -1,5 +1,152 @@
 # 2024-10-1
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=your%20and%20your%20research&sort=byPopularity&type=story
+
+Hamming, Intro to The Art of Doing Science and Engineering: Learning to Learn (March 28, 1995) - YouTube
+https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
+
+Barbara Sher - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Barbara+Sher
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=But%20one%20thought%20wouldn%E2%80%99t%20leave%20my%20mind%3A%20If%20the%20world%20had%20just%20continued%20to%20accept%20them%20as%20they%20were%2C%20Scanners%20wouldn%E2%80%99t%20have%20had%20any%20problems.%20With%20the%20exception%20of%20learning%20project%20management%20techniques%2C%20the%20only%20thing%20Scanners%20needed%20was%20to%20reject%20conventional%20wisdom%20that%20said%20they%20were%20doing%20something%20wrong%20and%20claim%20their%20true%20identity.%20Almost%20every%20case%20of%20low%20self-esteem%2C%20shame%2C%20frustration%2C%20feelings%20of%20inadequacy%2C%20indecisiveness%2C%20and%20inability%20to%20get%20into%20action%20simply%20disappeared%20the%20moment%20they%20understood%20that%20they%20were%20Scanners%20and%20stopped%20trying%20to%20be%20somebody%20else.&op=translate
+
+barbara sher scanners - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=barbara+sher+scanners
+
+Motivation Articles, Success Tips and Advice to Live Big
+https://www.getmotivation.com/motivationblog/
+
+How To Do *Everything* - YouTube
+https://www.youtube.com/watch?v=Hd4_9B2uA1I
+
+alphachip github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=alphachip+github
+
+LucasCTN (Lucas C)
+https://github.com/LucasCTN
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=In%20fact%2C%20Divers%20often%20wonder%20how%20people%20can%20be%20interested%20in%20anything%20but%20what%20they%E2%80%99re%20interested%20in.&op=translate
+
+refuse choice book - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=refuse+choice+book
+
+Refuse to Choose!: Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams: Sher, Barbara: 9781594866265: Amazon.com: Books
+https://www.amazon.com/Refuse-Choose-Interests-Passions-Hobbies/dp/1594866260
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&op=translate
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+手写的签名图像 - 免费工具
+https://signature.imageonline.co/cn/
+
+首页 - NENUOJ
+http://39.101.69.154/index.php
+
+(2) Connect / X
+https://x.com/i/connect_people?user_id=34611785
+
+(2) rniwa.dev (@rniwa_dev) / X
+https://x.com/rniwa_dev
+
+rniwa (Ryosuke Niwa)
+https://github.com/rniwa
+
+(2) Domenic Denicola (@domenic) / X
+https://x.com/domenic
+
+Thoughts while watching myself be automated
+https://dynomight.net/automated/
+
+(2) Shu-yu Guo (郭纾宇) (@_shu) / X
+https://x.com/_shu
+
+273268 – [Regression: STP193] document.body.getBoundingClientRect() returns incorrect results.
+https://bugs.webkit.org/show_bug.cgi?id=273268
+
+Unreviewed, reverting 276918@main. · WebKit/WebKit@2b2d8fd
+https://github.com/WebKit/WebKit/commit/2b2d8fd2262406b4db5f463f6ee57d0bd0ddc00e
+
+(2) Fernando Serboncini on X: "For the last couple months, our team has been working hard on a few paradigm-changing features for HTML Canvas. One of them is the ability to have HTML elements in a canvas. Here's a ThreeJS demo with a live HTML texture. https://t.co/yTEmJ8wj0h" / X
+https://x.com/fserb/status/1794058245901824349
+
+(2) Yoav Weiss on X: "I wrote a thing: Shipping ES module integrity in Chrome and Safari https://t.co/ob5DV18r3x" / X
+https://x.com/yoavweiss/status/1819430856764670069
+
+(193) Christiaan008 - YouTube
+https://www.youtube.com/@ChRiStIaAn008/videos
+
+(2) Rachel Andrew (@rachelandrew) / X
+https://x.com/rachelandrew
+
+11 years – Rachel Andrew
+https://rachelandrew.co.uk/archives/2024/01/21/11-years/
+
+Hey, it's Cubiq
+https://cubiq.dev/
+
+TheCubiq/Aquad
+https://github.com/TheCubiq/Aquad
+
+Music Video Maker | Vizzy
+https://vizzy.io/
+
+TheCubiq · GitHub
+https://web.archive.org/web/20240608130009/https://github.com/TheCubiq
+
+Motion One - A modern JavaScript animation library
+https://motion.dev/
+
+x.com/BHolmesDev
+https://x.com/BHolmesDev
+
+chrome-commit-tracker.arthursonzogni.com
+https://chrome-commit-tracker.arthursonzogni.com/
+
+(2) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+(2) Resources | Page 3
+https://tutflix.org/resources/?page=3
+
+(2) Epic React V2 (Epic React Pro) - Kent C. Dodds - TutFlix - Free Education Community
+https://tutflix.org/resources/epic-react-v2-epic-react-pro-kent-c-dodds.10950/
+
+MEGA
+https://mega.nz/folder/8ZYCUYTK#wu_bG8Ml3mp6PEVXaxDOJA
+
+(2) Slava Egorov (@mraleph) / X
+https://x.com/mraleph
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=it%27s%20only%20called%20reasoning%20if%20it%27s%20from%20the%20brain%20region%20of%20homo%20sapiens.%20otherwise%2C%20it%27s%20just%20sparkling%20auto-regression&op=translate
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Server not found if specified without http · Issue #3899 · nextcloud/talk-android
+https://github.com/nextcloud/talk-android/issues/3899
+
+(2) Andrej Karpathy (@karpathy) / X
+https://x.com/karpathy
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=The%20course%20is%20taught%20by%20Prof.%20David%20O%27Hallaron.%0AClasses%20are%20held%20on%20Mondays%20and%20Wednesdays%20from%202%3A00-3%3A20pm%20in%20WeH%204623.%0AThere%20is%20no%20required%20textbook%2C%20but%20several%20reference%20books%20are%20recommended%20for%20Linux%20and%20network%20programming.%0AThe%20course%20covers%20a%20wide%20range%20of%20topics%20related%20to%20internet%20services%20and%20distributed%20systems%2C%20including%3A%0ASystem%20design%20principles%0AServer%20design%0AGoogle%20Search%0ADistributed%20file%20systems%20(GFS)%0AData%20processing%20(MapReduce)%0AConsensus%20algorithms%20(Paxos%2C%20Raft)%0ADistributed%20storage%20systems%20(BigTable%2C%20Spanner%2C%20Dynamo)%0ADatacenter%20management%20(Borg)%0AVirtual%20machines%0AThe%20course%20structure%20includes%3A%0ARegular%20lectures%20with%20discussion%20leaders%20(often%20students)%0AStudents%20write%201-page%20critiques%20of%20assigned%20papers%20for%20most%20classes%0AA%20group%20project%20component%0AKey%20dates%3A%0AGroup%20project%20abstracts%20due%20March%2013%0AOral%20mid-term%20reports%20for%20group%20projects%20due%20April%201%0AFinal%20group%20project%20reports%20due%20April%2018%0ACamera-ready%20group%20project%20reports%20due%20April%2028%0AThe%20course%20uses%20various%20computing%20resources%20including%20Andrew%20cluster%2C%20SCS%20Gates%20cluster%2C%20and%20ECE%20cluster.%0AThere%20is%20no%20use%20of%20Canvas%20or%20Piazza%20for%20this%20course.&op=translate
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
