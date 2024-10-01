@@ -573,12 +573,19 @@ apply intern
 
 # 2024-9-29 - 2024-10-6
 
+
+## Doing
+
 [x] wpt test for input vertical align
+
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
+## Exploring
+
 [] yundong fuwocheng
 [] zuochengyun leetcode
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
-[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
 [] AI agent powered documents
 
 
