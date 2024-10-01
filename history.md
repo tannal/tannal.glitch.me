@@ -1,5 +1,110 @@
 # 2024-10-1
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+上帝的指纹 — Mandelbrot 集合的绘制 | Miskcoo’s Space
+https://blog.miskcoo.com/2016/10/mandelbrot-set
+
+miskcoo/programming-training: THU2017年小学期程序设计训练大作业 (Sudoku, Draughts, 人物信息检索)
+https://github.com/miskcoo/programming-training?tab=readme-ov-file#%E7%AE%80%E4%BB%8B
+
+NonTrivialMIPS - FPGA 上实现的 MIPS32 流水线 | Miskcoo’s Space
+https://blog.miskcoo.com/2019/08/nontrivialmips
+
+TrivialDB/testcase/ans/test_foreign.ans at 64016ac9e8ff8860f1714aa8198c9bb1599011ca · miskcoo/TrivialDB
+https://github.com/miskcoo/TrivialDB/blob/64016ac9e8ff8860f1714aa8198c9bb1599011ca/testcase/ans/test_foreign.ans
+
+utterances
+https://utteranc.es/
+
+nontrivial-mips/report/NSCSCC 2019 Final Report.pdf at master · trivialmips/nontrivial-mips
+https://github.com/trivialmips/nontrivial-mips/blob/master/report/NSCSCC%202019%20Final%20Report.pdf
+
+Error
+https://github.com/miskcoo/mandelbrot-render/blob/master/mandelbrot.cpp
+
+(12) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+[TablesNG] Update DCHECK condition in LayoutTable::AddChild (5896813) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+Tree Status | LUCI
+https://ci.chromium.org/ui/tree-status/chromium
+
+John Horton Conway - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=John+Horton+Conway
+
+Andrey Kolmogorov - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Andrey+Kolmogorov
+
+機率公設 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%A9%9F%E7%8E%87%E5%85%AC%E8%A8%AD
+
+Émile Borel math - Google 搜索
+https://www.google.com.hk/search?q=%C3%89mile+Borel+math&newwindow=1&client=ubuntu-sn&hs=MrB&sca_esv=b296caa05b35499c&sca_upv=1&channel=fs&ei=CVT7Ztr7LO27kPIPpNS-gQk&ved=0ahUKEwiapMa4h-yIAxXtHUQIHSSqL5AQ4dUDCA8&uact=5&oq=%C3%89mile+Borel+math&gs_lp=Egxnd3Mtd2l6LXNlcnAiEcOJbWlsZSBCb3JlbCBtYXRoMgUQIRigATIFECEYoAEyBRAhGKABSMQhULYGWOYecAF4AZABAJgBxAKgAckLqgEFMi0zLjK4AQPIAQD4AQGYAgagAtYLwgIKEAAYsAMY1gQYR8ICBhAuGAoYHsICBBAAGB7CAggQABiABBiiBMICBhAAGAUYHsICFRAuGAoYHhiXBRjcBBjeBBjfBNgBAZgDAIgGAZAGA7oGBggBEAEYFJIHBzEuMC4zLjKgB88S&sclient=gws-wiz-serp
+
+Paul Lévy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Paul+L%C3%A9vy
+
+learning math by programming - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=learning+math+by+programming
+
+leanprover/elan: The Lean version manager
+https://github.com/leanprover/elan/
+
+Polymath - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Polymath
+
+Stephen Wolfram - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Stephen+Wolfram
+
+wrong limit in derivative · Issue #17428 · sagemath/sage
+https://github.com/sagemath/sage/issues/17428
+
+Sage Documentation
+https://doc.sagemath.org/html/en/index.html
+
+Sage Cell Server
+https://sagecell.sagemath.org/
+
+Maple github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Maple+github
+
+Metamath - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Metamath
+
+Home Page - Metamath
+https://us.metamath.org/
+
+Proof Explorer - Home Page - Metamath
+https://us.metamath.org/mpeuni/mmset.html
+
+2309.12284v4.pdf
+https://arxiv.org/pdf/2309.12284
+
+MetaMath
+https://meta-math.github.io/
+
+Huawei Noah's Ark Lab - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Huawei+Noah%27s+Ark+Lab
+
+Code search results
+https://github.com/search?q=repo%3Ahuawei-noah%2Fbolt%20tensor&type=code
+
+Introduction · GitBook
+https://huawei-noah.github.io/bolt/
+
+metamath - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=metamath
+
+Metamath
+https://github.com/metamath
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
