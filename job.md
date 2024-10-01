@@ -581,6 +581,9 @@ apply intern
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 
 [x] review https://android-review.googlesource.com/c/platform/art/+/3284463
+
+[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+
 ## Exploring
 
 [] yundong fuwocheng

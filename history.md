@@ -1,5 +1,83 @@
 # 2024-10-1
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+art: Improve assertion in x86_64 calling convention (3284463) · Gerrit Code Review
+https://android-review.googlesource.com/c/platform/art/+/3284463
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=your%20and%20your%20research&sort=byPopularity&type=story
+
+(18) Hamming, Intro to The Art of Doing Science and Engineering: Learning to Learn (March 28, 1995) - YouTube
+https://www.youtube.com/watch?v=AD4b-52jtos&list=PL2FF649D0C4407B30
+
+Barbara Sher - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Barbara+Sher
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=But%20one%20thought%20wouldn%E2%80%99t%20leave%20my%20mind%3A%20If%20the%20world%20had%20just%20continued%20to%20accept%20them%20as%20they%20were%2C%20Scanners%20wouldn%E2%80%99t%20have%20had%20any%20problems.%20With%20the%20exception%20of%20learning%20project%20management%20techniques%2C%20the%20only%20thing%20Scanners%20needed%20was%20to%20reject%20conventional%20wisdom%20that%20said%20they%20were%20doing%20something%20wrong%20and%20claim%20their%20true%20identity.%20Almost%20every%20case%20of%20low%20self-esteem%2C%20shame%2C%20frustration%2C%20feelings%20of%20inadequacy%2C%20indecisiveness%2C%20and%20inability%20to%20get%20into%20action%20simply%20disappeared%20the%20moment%20they%20understood%20that%20they%20were%20Scanners%20and%20stopped%20trying%20to%20be%20somebody%20else.&op=translate
+
+barbara sher scanners - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=barbara+sher+scanners
+
+Motivation Articles, Success Tips and Advice to Live Big
+https://www.getmotivation.com/motivationblog/
+
+(18) Scanner Success Story #1 - YouTube
+https://www.youtube.com/watch?v=ym_R--9rx08&t=563s
+
+(18) Introduction To Scanners - YouTube
+https://www.youtube.com/watch?v=lFZKb2HCZPQ
+
+alphachip github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=alphachip+github
+
+LucasCTN (Lucas C)
+https://github.com/LucasCTN
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&op=translate
+
+refuse choice book - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=refuse+choice+book
+
+Refuse to Choose!: Use All of Your Interests, Passions, and Hobbies to Create the Life and Career of Your Dreams: Sher, Barbara: 9781594866265: Amazon.com: Books
+https://www.amazon.com/Refuse-Choose-Interests-Passions-Hobbies/dp/1594866260
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=ADD&op=translate
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+Attention Is All You Need · Issue #76 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/76
+
+1706.03762v7.pdf
+https://arxiv.org/pdf/1706.03762
+
+Barbara Sher - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Barbara+Sher
+
+Barbara Sher's Official Website
+https://barbarasher.com/index.htm
+
+(18) Isolation is the dream-killer, not your attitude | Barbara Sher | TEDxPrague - YouTube
+https://www.youtube.com/watch?v=H2rG4Dg6xyI
+
+Amazon.com: Refuse to Choose!: A Revolutionary Program for Doing Everything That You Love: 9781594863035: Sher, Barbara: Books
+https://www.amazon.com/gp/product/1594863032/
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=pinterest&op=translate
+
+布拉格 jetbrains - Google 搜索
+https://www.google.com.hk/search?q=%E5%B8%83%E6%8B%89%E6%A0%BC+jetbrains&newwindow=1&client=ubuntu-sn&hs=05e&sca_esv=8e2615eba92645e6&sca_upv=1&channel=fs&ei=uNT7ZsaqNPfekPIPmM2foQg&ved=0ahUKEwjG5oaVgu2IAxV3L0QIHZjmJ4QQ4dUDCA8&uact=5&oq=%E5%B8%83%E6%8B%89%E6%A0%BC+jetbrains&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-W4g-aLieagvCBqZXRicmFpbnMyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiEGVCuBljrF3ABeAGQAQCYAacCoAHxEqoBAzItObgBA8gBAPgBAZgCCqACgBPCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICEBAuGIAEGEMYxwEYigUYrwHCAg0QLhiABBhDGNQCGIoFwgIKEC4YgAQYQxiKBcICDRAuGIAEGMcBGAwYrwHCAgcQABiABBgMwgIHEC4YgAQYDMICBhAAGB4YD5gDAIgGAZAGCpIHBTEuMC45oAfAIw&sclient=gws-wiz-serp
+
+patrick swayze - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=patrick+swayze
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

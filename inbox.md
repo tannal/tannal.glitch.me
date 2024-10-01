@@ -1,6 +1,20 @@
 
 # 2024-10-1 0 | 0
 
+Isolation is the dream killer
+
+intern
+
+full time niuma
+in school
+chi
+
+chuan
+zhu
+xing
+no work weekend jiaqi
+remote
+
 Richard Hamming
 Steve Jobs
 
