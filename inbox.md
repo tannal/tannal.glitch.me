@@ -1,6 +1,88 @@
 
 # 2024-10-2 0 | 0
 
+
+ Sometimes the best cure for stress is failure
+
+Each time you judge yourself, you break your heart.
+
+“Sure, that’s all my family talked about at dinner: who was successful.
+Not money, but accomplishment, accolades, awards. They tried to be a little
+different from everyone else, so they weren’t impressed with investment
+bankers—they sneered at that—but with top artists or top scientists. Even
+my dad’s border collies are all about winning awards—activity awards, not
+appearance awards—but still it’s the same thing. Everything is about how
+you look to the neighbors. That’s the whole thing. Forget happiness; just be
+the best.”
+
+
+Knowing how to do lots of things so I can always jump in and help;
+makes me feel capable
+Insights, revelations, discoveries, glimpses that make me say, “I never
+knew that!”
+Anything new: people, places, experiences
+Having impact, being seen (like teachers, performers, ministers, gurus,
+politicians)
+Exercising intelligence because it feels good
+Sensation: hearing, moving, smelling, seeing, touching
+Using all parts of myself, my logic, my intuition, my empathy, my
+abilities
+Challenging myself, testing my limits, seeing how good I can be
+Studying anything, like how to make sushi, how to sing medieval
+songs
+Creating something that didn’t exist before, creating solutions to
+problems
+Vision: imagining possibilities, building prototypes, getting things
+planned
+Beauty: making things beautiful, having beauty around me,
+recognizing beauty where it’s not obvious
+Building expertise: a reputation, a body of work
+Belonging: finding a community where I can be myself, be part of
+something I admire
+Discovering what’s going on, how things run, what’s behind the
+surface
+Pulling together the big picture, leaving nothing out, seeing
+relationships between things
+Saving the day: being competent and stepping in to fix things other
+people don’t know how to fix
+Helping others with my skills or knowledge
+Learning by doing, for example, how a carpenter builds a table, how to
+make maple syrup, how to speak a few words of a language that’s
+nothing like my own
+
+It’s as natural as sitting down to eat when you’re
+hungry and leaving when you’re full.
+
+1. What was the most exciting or interesting part of the experience?
+2. Why did you stop when you did?
+Go back and rethink the moment you stopped being absorbed in the
+project, when you began to lose interest or started having doubts.
+What had gone away?
+When the magnet that originally attracted you starts diminishing in
+power, you’ve done what you set out to do. Your purpose for being there is
+gone. That’s why you lose interest: not because you’re flawed or lazy or
+unable to focus, but because you’re finished. It seems obvious, but it never
+occurs to most of us.
+
+wish and obstacles
+
+See if you can think back to some of your past interests and remember at
+what point you started to lose interest. Can you put your finger on what was
+no longer there? If so, you can start identifying the Rewards that drive you
+to anything that appeals to you.
+
+
+Q: How long should you stay at something?
+A: However long it takes to get what you came for.
+Q: How do you decide what you came for?
+A: You don’t, you discover it.
+Q: How do you discover it?
+A: You notice what isn’t there anymore when you feel like
+leaving.
+
+A house painter leaves when he’s through
+painting the house; he doesn’t move in and live there.
+
 Ella’s Reward is learning about subjects that
 are completely new to her and helping people with her new knowledge.
 

@@ -1,3 +1,77 @@
+# 2024-10-2
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=acclaim&op=translate
+
+Ben Franklin - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ben+Franklin
+
+Goethe - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Goethe
+
+Leonardo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Leonardo
+
+AI Image Generator - Create Art, Images & Video | Leonardo AI
+https://leonardo.ai/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c10
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+Handle JIT tier dependencies better at compile time by tannal · Pull Request #34139 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34139#event-14477933794
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Add strong root logging and $vm helpers for memory leak debugging by justinmichaud · Pull Request #31924 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/31924
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+tannal (tannal)
+https://github.com/tannal/
+
+Bug 1917771 - Use bottom of border box as the range frame's baseline.… · mozilla/gecko-dev@829f7c5
+https://github.com/mozilla/gecko-dev/commit/829f7c5a917be10bd5fd6efe3a354dd3d06d5fd1#diff-2940cbb5556bf19afd5cbabd938690d18a4898e7584f3557d91776b5ab250955
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+Aristotle - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Aristotle
+
+Hindu Monk - Google 搜索
+https://www.google.com.hk/search?q=Hindu+Monk&newwindow=1&client=ubuntu-sn&hs=SAu&sca_esv=22628e78e0652884&sca_upv=1&channel=fs&ei=B7f8ZubiJPrNkPIPkfWl2AM&ved=0ahUKEwimgr_-2e6IAxX6JkQIHZF6CTsQ4dUDCA8&uact=5&oq=Hindu+Monk&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkhpbmR1IE1vbmsyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSPAMUO4DWO4DcAF4AJABAJgBpAWgAaQFqgEDNS0xuAEDyAEA-AEC-AEBmAIBoAKvBZgDAIgGAZIHAzUtMaAHgAM&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=cure&op=translate
+
 # 2024-10-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
