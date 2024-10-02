@@ -1,4 +1,12 @@
 
+# 2024-10-2 0 | 0
+
+Ella’s Reward is learning about subjects that
+are completely new to her and helping people with her new knowledge.
+
+
+Bug 1922046 - Remove unused ThirdPartyUtil::GetBaseDomainFromWindow(). r?edgul
+
 # 2024-10-1 0 | 0
 
 Isolation is the dream killer
