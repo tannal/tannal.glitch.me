@@ -1,8 +1,38 @@
 
 # 2024-10-2 0 | 0
 
+The truth is, overworked people are scared. They’re scared of forgetting
+to do something, or not meeting a deadline, or letting someone down.
+They’re scared of being overwhelmed, of things careening out of control.
+That’s why they never think to make their lives easier or more fun; they just
+add on more responsibility.
 
- Sometimes the best cure for stress is failure
+
+Learn Try Teach Leave
+
+Rarely will a Scanner be happy sticking around to turn the switches on
+and off or keep the system humming. To require execution and maintenance
+of Scanners is not a good use of their ability. Talent is hard to find. A smart
+boss knows and respects it.
+
+
+You possess a valuable eagerness to explore what’s new and
+an ability to be fascinated where too many people see nothing at all.
+
+The notion that it’s meant to last forever should be discarded with relief.
+Remember that well-known adage “Be careful what you wish for,” and be
+happy you didn’t get it this time.
+
+
+Do everything that interests you.
+
+cn blog about scanner
+
+first make AI fit on the data
+
+make AI different from the data
+
+Sometimes the best cure for stress is failure
 
 Each time you judge yourself, you break your heart.
 

@@ -1,5 +1,101 @@
 # 2024-10-2
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=sigh&op=translate
+
+Leonardo da Vinci - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Leonardo+da+Vinci
+
+tannal (tannal)
+https://github.com/tannal
+
+[denoland/deno] fix(console/ext/repl): support using parseFloat() (PR #25900) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJQRLFbXvFVxTWTLHwqvXhkMV
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+fix(console/ext/repl): support using parseFloat() by MohammadSu1 · Pull Request #25900 · denoland/deno
+https://github.com/denoland/deno/pull/25900#issuecomment-2387766785
+
+tannal
+https://tannal.github.io/
+
+openal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=openal
+
+OpenAL: Cross Platform 3D Audio
+https://www.openal.org/
+
+chcore github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=chcore+github
+
+kikiyu (ipads-lab) - Gitee.com
+https://gitee.com/ipads-lab
+
+chcore-lab: 上海交通大学 IPADS《现代操作系统：原理与实现》ChCore 课程实验 v1，新版请见 https://gitee.com/ipads-lab/chcore-lab-v2
+https://gitee.com/ipads-lab/chcore-lab#https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2FSJTU-IPADS%2FOS-Course-Lab
+
+OS-Course-Lab/Lab6 at main · SJTU-IPADS/OS-Course-Lab
+https://github.com/SJTU-IPADS/OS-Course-Lab/tree/main/Lab6
+
+SJTU-IPADS/OS-Course-Lab at ChCore-Lab5
+https://github.com/SJTU-IPADS/OS-Course-Lab/tree/ChCore-Lab5
+
+Issues · SJTU-IPADS/OS-Course-Lab
+https://github.com/SJTU-IPADS/OS-Course-Lab/issues
+
+raspi3b+ 4gb cpu cortex - Google 搜索
+https://www.google.com.hk/search?q=raspi3b%2B+4gb+cpu+cortex&newwindow=1&client=ubuntu-sn&hs=g5x&sca_esv=4997d9601951f80e&sca_upv=1&channel=fs&ei=7_H8ZpioFJzIkPIPssGxyQQ&ved=0ahUKEwjY24iVku-IAxUcJEQIHbJgLEkQ4dUDCA8&uact=5&oq=raspi3b%2B+4gb+cpu+cortex&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3Jhc3BpM2IrIDRnYiBjcHUgY29ydGV4MgUQIRigATIFECEYoAFIjRtQtgxY2hlwBHgBkAEAmAHcA6AB3BGqAQUzLTUuMbgBA8gBAPgBAZgCCqACkhLCAgoQABiwAxjWBBhHwgIHECEYoAEYCpgDAIgGAZAGCZIHBzQuMy01LjGgB74Q&sclient=gws-wiz-serp
+
+kikiyu (kikiyu) / Repositories
+https://github.com/kikiyu?tab=repositories
+
+kikiyu/CV: My cirriculum vitae
+https://github.com/kikiyu/CV
+
+ARM Cortex-A53 CPU - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ARM+Cortex-A53+CPU+
+
+ARM Cortex-A53 - Wikipedia
+https://en.wikipedia.org/wiki/ARM_Cortex-A53
+
+tannal
+https://tannal.github.io/
+
+libos - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=libos
+
+frans mit - Google 搜索
+https://www.google.com.hk/search?q=frans+mit&newwindow=1&client=ubuntu-sn&hs=WQy&sca_esv=4997d9601951f80e&sca_upv=1&channel=fs&ei=-_b8Zr-zEsCvur8PjeGqyQY&ved=0ahUKEwj_nJD9lu-IAxXAl-4BHY2wKmkQ4dUDCA8&uact=5&oq=frans+mit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWZyYW5zIG1pdDIHEAAYgAQYEzIIEAAYExgKGB4yCBAAGBMYChgeMggQABgTGAgYHjIIEAAYExgIGB4yCBAAGBMYCBgeMggQABgTGAgYHjIIEAAYExgIGB4yCBAAGBMYCBgeMggQABgTGAgYHkihFVDPBljyE3ACeAGQAQCYAf8CoAGCDaoBAzMtNbgBA8gBAPgBAZgCB6ACrQ3CAgoQABiwAxjWBBhHwgIFEAAYgATCAgUQLhiABMICChAAGIAEGEMYigXCAgcQABiABBgMwgIHEC4YgAQYDMICBxAAGIAEGArCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgq6BgYIARABGBSSBwUyLjMtNaAHxBo&sclient=gws-wiz-serp
+
+M. Frans Kaashoek
+https://people.csail.mit.edu/kaashoek/
+
+action-small.jpg (JPEG Image, 201 × 258 pixels)
+https://people.csail.mit.edu/kaashoek/action-small.jpg
+
+action-small.jpg (JPEG Image, 201 × 258 pixels)
+https://people.csail.mit.edu/kaashoek/action-small.jpg
+
+Andy Tanenbaum. - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Andy+Tanenbaum.
+
+sel4 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sel4+
+
+seL4/seL4: The seL4 microkernel
+https://github.com/seL4/seL4
+
+plan9 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=plan9
+
+(18) Google I/O 2012 - Meet the Go Team - YouTube
+https://www.youtube.com/watch?v=sln-gJaURzk
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
