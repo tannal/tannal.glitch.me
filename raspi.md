@@ -1,6 +1,11 @@
 
 # dev
 
+export PREFIX=aarch64-linux-gnu-
+export AARCH=64
+export RASPPI=3
+./configure --qemu -r 3 --
+
 // aarch64-linux-gnu-gcc -c a.S
 // a.S
 .section ".text"
