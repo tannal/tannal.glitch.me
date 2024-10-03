@@ -1,7 +1,9 @@
 
 # 2024-10-3 0 | 0
 
-
+nlnet
+ngi
+opencollective
 
 for object oriented programming we just solve problem by add more field
 for impretiave programming we solve problem just add more state
