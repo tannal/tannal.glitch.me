@@ -574,9 +574,23 @@ apply intern
 # 2024-9-29 - 2024-10-6
 
 
+
 ## Doing
 
 [x] wpt test for input vertical align
+
+[] find a monitor and wire to raspi then boot an os, then do 
+
+[] build a AI which remeber all the users thought context and then make human connections
+
+[] Be good at solving puzzles for code interview
+
+[] build a database systems around github api (issues)
+
+[] Be a pianist play piano
+[] Be a song writer write songs 
+[] Yong bendi damoxing zuo ge ren fanyi, yuyinshishifanyi
+
 
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 

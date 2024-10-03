@@ -1,3 +1,107 @@
+# 2024-10-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+chimera-linux repositories
+https://github.com/orgs/chimera-linux/repositories
+
+cloud-hypervisor/cloud-hypervisor: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+https://github.com/cloud-hypervisor/cloud-hypervisor?tab=readme-ov-file#architectures
+
+Chimera Linux packages - Package index
+https://pkgs.chimera-linux.org/packages?page=4&name=&branch=current&repo=&arch=&origin=
+
+Element [9] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Improve handling of malformed unicode bidi control characters · Issue #10251 · whatwg/html
+https://github.com/whatwg/html/issues/10251
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+ai4human (Ai4Human )
+https://github.com/ai4human
+
+Home - HitoAI
+https://hitoai.ai/v2/
+
+lanntai
+https://github.com/lanntai
+
+tannal (tannal) / September 2024
+https://github.com/tannal?tab=overview&from=2024-09-01&to=2024-09-30
+
+(13) Discord | #browser | Ladybird
+https://discord.com/channels/1247070541085671459/1247090064480014443
+
+Remove the `annote` field from the data model by reknih · Pull Request #220 · typst/hayagriva
+https://github.com/typst/hayagriva/pull/220
+
+(19) Hybrid-Level Programming - Richard Feldman - YouTube
+https://www.youtube.com/watch?v=ug-KuDlMTYw&list=PL5AY2Vv6EsfSgmueLbzGVJpWIw8cIFl8J&index=2
+
+The Zig Website Has Been Re-engineered ⚡ Zig Programming Language
+https://ziglang.org/news/website-zine/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+(470) #general > Standard nomenclature for Servo processes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Standard.20nomenclature.20for.20Servo.20processes
+
+Consistently use Dom in native promise handlers · Issue #33604 · servo/servo
+https://github.com/servo/servo/issues/33604
+
+servoshell should not be blocked waiting on prompts · Issue #33620 · servo/servo
+https://github.com/servo/servo/issues/33620
+
+Upcoming Servo issue triage meeting on September 30 2024 · Issue #102 · servo/project
+https://github.com/servo/project/issues/102#issuecomment-2382710321
+
+Pass WPT tests for ResizeObserver · Issue #31182 · servo/servo
+https://github.com/servo/servo/issues/31182
+
+Process Model — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/dom/ipc/process_model.html
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=play%20the%20fiddle%2C&op=translate
+
+Little Dorrit china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Little+Dorrit+china
+
+github api github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=github+api+github
+
+Rate limits for the REST API - GitHub Docs
+https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api?apiVersion=2022-11-28
+
+Rate limits and node limits for the GraphQL API - GitHub Docs
+https://docs.github.com/en/graphql/overview/rate-limits-and-node-limits-for-the-graphql-api
+
+REST API endpoints for rate limits - GitHub Docs
+https://docs.github.com/en/rest/rate-limit/rate-limit?apiVersion=2022-11-28
+
+Making an Alpine Node.js Container - Complete Intro to Containers, v2 | Frontend Masters
+https://frontendmasters.com/courses/complete-intro-containers-v2/volumes/
+
+(1636) #wasi-gfx > Weekly meeting time - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/425165-wasi-gfx/topic/Weekly.20meeting.20time
+
+wasi-gfx
+https://github.com/wasi-gfx
+
+(19) Lecture 01 - Linux Memory Allocation (continued) - YouTube
+https://www.youtube.com/watch?v=4ZZdavdarM0&t=159s
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
 # 2024-10-2
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
