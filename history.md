@@ -1,5 +1,119 @@
 # 2024-10-3
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+engine/docs/contributing/Compiling-the-engine.md at main · flutter/engine
+https://github.com/flutter/engine/blob/main/docs/contributing/Compiling-the-engine.md
+
+(19) The Boring Flutter Development Show - YouTube
+https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl
+
+scrolling with trackpad+mouse is very fast · Issue #2655 · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/issues/2655
+
+rustdesk (RustDesk) / Following
+https://github.com/rustdesk?tab=following
+
+WillKirkmanM/nodemore: 💾 Saving Your Hard Disk, One Project at a Time
+https://github.com/WillKirkmanM/nodemore
+
+(19) EfficientML.ai Lecture 8 - Neural Architecture Search Part II (MIT 6.5940, Fall 2024) - YouTube
+https://www.youtube.com/watch?v=5ty12mNV4Sg
+
+MIT 6.5940 Fall 2024 TinyML and Efficient Deep Learning Computing
+https://hanlab.mit.edu/courses/2024-fall-65940
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mt8964 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mt8964
+
+Arnavion/riscv: RISC-V assembler for an emulator I made in Turing Complete
+https://github.com/Arnavion/riscv
+
+Turing Complete on Steam
+https://store.steampowered.com/app/1444480/Turing_Complete/
+
+Steam Search
+https://store.steampowered.com/search/?developer=LevelHead
+
+Steam Community :: Turing Complete
+https://steamcommunity.com/app/1444480
+
+arm book - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm+book
+
+(19) YouTube
+https://www.youtube.com/account
+
+youtube live - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=youtube+live+
+
+直播 - YouTube Studio
+https://studio.youtube.com/channel/UCnSWJKq0Q58DAJCkHWXtRrg/livestreaming
+
+Turing Complete game - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Turing+Complete+game
+
+Turing Complete
+https://turingcomplete.game/
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&op=translate
+
+flutter zhihu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flutter+zhihu
+
+xujiyou/zhihu-flutter: Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
+https://github.com/xujiyou/zhihu-flutter?tab=readme-ov-file
+
+Flutter学习指南 - 知乎
+https://zhuanlan.zhihu.com/flutter
+
+xujiyou/zhihu-flutter: Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
+https://github.com/xujiyou/zhihu-flutter
+
+bilibili flutter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bilibili+flutter
+
+guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/guozhigq/pilipala
+
+果汁来一杯
+https://guozhigq.github.io/
+
+tiktok flutter github - Google 搜索
+https://www.google.com.hk/search?q=tiktok+flutter+github&newwindow=1&client=ubuntu-sn&hs=sXQ&sca_esv=50e2a27dfa38a3d4&channel=fs&ei=LZ3-ZpWYBrPLkPIPidC8KA&ved=0ahUKEwjV4sXOqfKIAxWzJUQIHQkoDwUQ4dUDCA8&uact=5&oq=tiktok+flutter+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXRpa3RvayBmbHV0dGVyIGdpdGh1YjIFEAAYgAQyCBAAGIAEGKIEMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBEjWDVDzBVjQDHABeAGQAQCYAYoDoAGEDqoBAzMtNbgBA8gBAPgBAZgCBqACoQ7CAgoQABiwAxjWBBhHwgIEEAAYHpgDAIgGAZAGCpIHBTEuMy01oAfUCg&sclient=gws-wiz-serp
+
+douyin flutter - Google 搜索
+https://www.google.com.hk/search?q=douyin+flutter&newwindow=1&client=ubuntu-sn&hs=FZQ&sca_esv=50e2a27dfa38a3d4&channel=fs&ei=gp3-ZvqdPM_GkPIP0peQ6Ak&ved=0ahUKEwj65r_3qfKIAxVPI0QIHdILBJ0Q4dUDCA8&uact=5&oq=douyin+flutter&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmRvdXlpbiBmbHV0dGVySIIwULwaWKEvcAF4AZABAJgB0QKgAbYdqgEGMi0xMC4zuAEDyAEA-AEBmAIMoALqGcICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIHEAAYgAQYDMICBRAAGIAEwgILEC4YgAQY0QMYxwHCAg4QABiABBhDGIoFGAoYKsICCBAuGIAEGNQCwgIFEC4YgATCAgcQABiABBgKwgILEAAYgAQYChgqGAzCAgkQABiABBgKGAzCAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYIkgcHMS4wLjguM6AH0Tg&sclient=gws-wiz-serp
+
+telsacoin/telsavideo: Community-focused Decentralized Cryptocurrency Video APP like Tiktok
+https://github.com/telsacoin/telsavideo
+
+zyronon/douyin: Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile
+https://github.com/zyronon/douyin
+
+Douyin
+https://dy.ttentau.top/#/message
+
+tiktok kotlin multiplatform - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tiktok+kotlin+multiplatform
+
+TikTok-Clone/app/src/main/java/com/andre_max/tiktokclone/presentation at master · DaChelimo/TikTok-Clone
+https://github.com/DaChelimo/TikTok-Clone/tree/master/app/src/main/java/com/andre_max/tiktokclone/presentation
+
+bilibili kotlin multiplatform - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bilibili+kotlin+multiplatform
+
+SDLMoe
+https://github.com/SDLMoe
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

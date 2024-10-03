@@ -10,7 +10,8 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
-
+bilibili flutter
+https://github.com/guozhigq/pilipala.git
 
 vue3 vite5 pinia music player electron
 https://github.com/sxgan-code/zoey-music-client.git
