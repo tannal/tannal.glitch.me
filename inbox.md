@@ -1,4 +1,9 @@
 
+# 2024-10-3 0 | 0
+
+
+
+
 # 2024-10-2 0 | 0
 
 The truth is, overworked people are scared. They’re scared of forgetting

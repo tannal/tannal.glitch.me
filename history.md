@@ -1,5 +1,74 @@
 # 2024-10-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+David Temperley - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=David+Temperley
+
+the musical language of rock github pdf - Google 搜索
+https://www.google.com.hk/search?q=the+musical+language+of+rock+github+pdf&newwindow=1&client=ubuntu-sn&hs=ADv&sca_esv=aca0b82d24d0905d&channel=fs&ei=A_39ZuvyK5XPkPIPmf-smAM&ved=0ahUKEwirgMjvkPGIAxWVJ0QIHZk_CzMQ4dUDCA8&uact=5&oq=the+musical+language+of+rock+github+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3RoZSBtdXNpY2FsIGxhbmd1YWdlIG9mIHJvY2sgZ2l0aHViIHBkZjIIEAAYgAQYsAMyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEjIFVCpDli3FHABeACQAQCYAcECoAHfDKoBBTItNS4xuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYDkgcBMaAH2A4&sclient=gws-wiz-serp
+
+Guitar Music Theory
+https://gist.github.com/Integralist/b3621d6ed0f46901f200
+
+MusicLang/maidi: Work with symbolic music gen AI easily, based on midi manipulation.
+https://github.com/MusicLang/maidi
+
+MUSEV1N1.pdf
+https://uclamusclgy.github.io/MUSEV1N1.pdf
+
+Releases · pftf/RPi3
+https://github.com/pftf/RPi3/releases
+
+Dashboard - Nextcloud
+http://10.106.146.44:8081/apps/dashboard/
+
+unrealengine clean build - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unrealengine+clean+build
+
+Cleaning up Linux build (building from source) - Development / Programming & Scripting - Epic Developer Community Forums
+https://forums.unrealengine.com/t/cleaning-up-linux-build-building-from-source/1744794
+
+UnrealEngine/Engine/Binaries/ThirdParty at release · EpicGames/UnrealEngine
+https://github.com/EpicGames/UnrealEngine/tree/release/Engine/Binaries/ThirdParty
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+raspi3b+ qemu baremetal gui - Google 搜索
+https://www.google.com.hk/search?q=raspi3b%2B+qemu+baremetal+gui&newwindow=1&client=ubuntu-sn&hs=HJf&sca_esv=433eaf814a238d09&channel=fs&ei=j0T-ZvKMGcvfkPIPuK-28Qk&ved=0ahUKEwiykJWN1fGIAxXLL0QIHbiXLZ4Q4dUDCA8&uact=5&oq=raspi3b%2B+qemu+baremetal+gui&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Jhc3BpM2IrIHFlbXUgYmFyZW1ldGFsIGd1aTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkiPQlCqHlibQHACeAGQAQCYAYcDoAG-FqoBAzMtOLgBA8gBAPgBAZgCCqAC4RbCAgoQABiwAxjWBBhHwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgeSBwUyLjMtOKAHvBY&sclient=gws-wiz-serp
+
+KhalilOuali/Raspbian-Bullseye-with-QEMU: Emulating Raspbian Bullseye with QEMU (arm64, raspi3b) on Ubuntu 22.04 LTS
+https://github.com/KhalilOuali/Raspbian-Bullseye-with-QEMU
+
+Emulating Raspberry Pi 4 with Qemu
+https://gist.github.com/cGandom/23764ad5517c8ec1d7cd904b923ad863
+
+Clock Interrupt · Issue #12 · bztsrc/raspi3-tutorial
+https://github.com/bztsrc/raspi3-tutorial/issues/12
+
+rsta2/circle64: Deprecated project, use https://github.com/rsta2/circle instead!
+https://github.com/rsta2/circle64/tree/master
+
+rsta2/circle: A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+https://github.com/rsta2/circle
+
+rsta2/minisynth: A virtual analog synthesizer for Raspberry Pi
+https://github.com/rsta2/minisynth
+
+Circle - C++ bare metal environment for Raspberry Pi — Circle documentation
+https://circle-rpi.readthedocs.io/en/47.0/
+
+bztsrc (Zoltan Baldaszti)
+https://github.com/bztsrc
+
 qemu.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
