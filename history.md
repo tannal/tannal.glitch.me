@@ -1,5 +1,74 @@
 # 2024-10-3
 
+qemu.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+tannal/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials fork
+https://github.com/tannal/raspi3-tutorial/tree/master
+
+bztsrc/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials
+https://github.com/bztsrc/raspi3-tutorial
+
+SJTU-IPADS/OS-Course-Lab at ChCore-Lab1
+https://github.com/SJTU-IPADS/OS-Course-Lab/tree/ChCore-Lab1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Full Stack Application - Poe
+https://poe.com/chat/3i602rsx7plthcg6quj
+
+New Owncast Server
+http://10.106.146.44:8080/
+
+cursor github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cursor+github
+
+GitHub - getcursor/cursor: The AI Code Editor
+https://github.com/getcursor/cursor?tab=readme-ov-file
+
+Cursor
+https://www.cursor.com/
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/
+
+makeknxbootimg install - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=makeknxbootimg++install
+
+raspi3b uart address - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=raspi3b+uart+address
+
+c - How to print a something in miniUART in Qemu (raspi3b)? - Stack Overflow
+https://stackoverflow.com/questions/77256368/how-to-print-a-something-in-miniuart-in-qemu-raspi3b
+
+Raspberry Pi for home – Raspberry Pi
+https://www.raspberrypi.com/for-home/
+
+zhiyihuang/xv6_rpi2_port: This is an xv6 port on Raspberry Pi 2 and 3
+https://github.com/zhiyihuang/xv6_rpi2_port
+
+patha454/xv6_pi_mp: The xv6 operating system, ported to the Raspberry Pi
+https://github.com/patha454/xv6_pi_mp
+
+Port xv6 to Raspberry Pi: status update - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=41703
+
+Google Code Archive - Long-term storage for Google Code Project Hosting.
+https://code.google.com/archive/p/xv6-rpi/source/default/source
+
+xv6-rpi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=xv6-rpi
+
+rsta2/circle: A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+https://github.com/rsta2/circle
+
+Getting started — Circle documentation
+https://circle-rpi.readthedocs.io/en/47.0/getting-started.html
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

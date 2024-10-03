@@ -1,6 +1,11 @@
 
 # dev
 
+PREFIX = aarch64-linux-gnu-
+AARCH = 64
+RASPPI = 3
+./configure --qemu
+
 ./build/qemu-system-riscv64 -cpu rv64,v=true -M virt -nographic
 
 ./configure --target-list=riscv64-linux-user,riscv64-softmmu --enable-debug
