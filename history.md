@@ -3,6 +3,144 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+(19) 【Piano Cover】Jay Chou 周杰倫 - 蒲公英的約定｜高還原鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=rl2tRoxObnM&list=RDXLWdknMr1ys&index=5
+
+Google
+https://www.google.com.hk/
+
+Google
+https://www.google.com.hk/
+
+tannal (tannal)
+https://github.com/tannal
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+树莓派3b+ uart 引脚图 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=06ff7eeddb29ca03&rlz=1C1GCEA_enJP1090JP1090&q=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B+uart+%E5%BC%95%E8%84%9A%E5%9B%BE&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxsPslfBbOr0vTiGVEAO5RFXP52-A9kh0a8uDgsTpRt-ID_RMPW1rVEskwevipLImbgrzS1AS7sfDGS88IOKj18tychEhjn5K7CwIj01YAigmvSRuzE&sa=X&ved=2ahUKEwjSwt_arvGIAxVaHEQIHcd4EMMQtKgLegQIDhAB&biw=1536&bih=703&dpr=1.25#vhid=wymNalIoZZt48M&vssid=mosaic
+
+基础篇——树莓派通用引脚定义_树莓派引脚定义-CSDN博客
+https://blog.csdn.net/u011198687/article/details/120825043
+
+树莓派3b+ uart 引脚图 - Google 搜尋
+https://www.google.com.hk/imgres?q=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B%20uart%20%E5%BC%95%E8%84%9A%E5%9B%BE&imgurl=https%3A%2F%2Fwww.chipwaygo.com%2Fdoc%2Fimages%2Fgpio_pin%2F01.png%3F_v%3D1614951400&imgrefurl=https%3A%2F%2Fwww.chipwaygo.com%2Fdoc%2Fgpio_pin.php&docid=g6q16skOREK6DM&tbnid=ibWenrAtbGTKYM&vet=12ahUKEwjX5I79rvGIAxWTH0QIHXPqGEgQM3oECEcQAA..i&w=2064&h=1185&hcb=2&ved=2ahUKEwjX5I79rvGIAxWTH0QIHXPqGEgQM3oECEcQAA
+
+树莓派3b+ 电源闪一下 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B+%E7%94%B5%E6%BA%90%E9%97%AA%E4%B8%80%E4%B8%8B&newwindow=1&sca_esv=06ff7eeddb29ca03&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&ei=tB3-ZvfzMKelkPIPxJ7JuQs&ved=0ahUKEwj3naCGsPGIAxWnEkQIHURPMrc4ChDh1QMIDw&uact=5&oq=%E6%A0%91%E8%8E%93%E6%B4%BE3b%2B+%E7%94%B5%E6%BA%90%E9%97%AA%E4%B8%80%E4%B8%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiHOagkeiOk-a0vjNiKyDnlLXmupDpl6rkuIDkuItI_C5QtghYny5wAXgAkAEAmAGDBKAB8ymqAQoyLTE2LjIuMC4xuAEDyAEA-AEBmAILoAKnGcICBRAAGIAEwgIEEAAYHsICBxAAGIAEGAzCAggQABiABBiiBMICBhAAGAwYHsICBRAhGKABmAMAiAYBkgcHMi05LjEuMaAHqR4&sclient=gws-wiz-serp
+
+树莓派折腾日记 一：从拆包到点亮 - 冰棒实验室
+https://blog.beanbang.cn/2018/06/23/raspberry-diary-01/
+
+BookManage/main.cpp at master · Lazyb0x/BookManage
+https://github.com/Lazyb0x/BookManage/blob/master/main.cpp
+
+服务 | Raspberry Pi 树莓派 (官网24年7月更新)
+https://pidoc.cn/docs/services/
+
+putty github - Google 搜索
+https://www.google.com.hk/search?q=putty+github&newwindow=1&sca_esv=433eaf814a238d09&rlz=1C1GCEA_enJP1090JP1090&ei=cDn-ZrbPDeH0kPIP-om-4Qs&ved=0ahUKEwi2x8K_yvGIAxVhOkQIHfqEL7wQ4dUDCA8&uact=5&oq=putty+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHB1dHR5IGdpdGh1YjIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkjyJVCTDFjpJHACeAGQAQCYAeUCoAH_D6oBBTItNS4yuAEDyAEA-AEBmAIJoAKUEMICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIHEAAYgAQYDMICBxAAGIAEGArCAgcQABiABBgNwgIGEAAYDRgewgIIEAAYCBgNGB7CAggQABgFGA0YHpgDAIgGAZAGCZIHBzIuMC41LjKgB5AV&sclient=gws-wiz-serp
+
+github/putty: mirror of git://git.tartarus.org/simon/putty.git, used for client testing
+https://github.com/github/putty
+
+Download PuTTY: latest release (0.81)
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+ch340驱动win10 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=433eaf814a238d09&rlz=1C1GCEA_enJP1090JP1090&q=ch340%E9%A9%B1%E5%8A%A8win10&sa=X&ved=2ahUKEwjM06vLyvGIAxVOHkQIHepOHh8Q1QJ6BAgzEAE&biw=1536&bih=703&dpr=1.25
+
+CH340驱动安装 — 快速使用手册----野火K210 AI视觉相机 文档
+https://doc.embedfire.com/k210/quick_start/zh/latest/k210/environment/ch340_driver/ch340_driver.html
+
+Bend的博客 | Bend's Blog
+https://bend1031.github.io/
+
+树莓派串口登录 - Bend的博客 | Bend's Blog
+https://bend1031.github.io/2019/09/07/Raspberry-Pi-serial-port-login/
+
+树莓派 3 串口登录 没有输出 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%91%E8%8E%93%E6%B4%BE+3+%E4%B8%B2%E5%8F%A3%E7%99%BB%E5%BD%95+%E6%B2%A1%E6%9C%89%E8%BE%93%E5%87%BA&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%A0%91%E8%8E%93%E6%B4%BE+3+%E4%B8%B2%E5%8F%A3%E7%99%BB%E5%BD%95+%E6%B2%A1%E6%9C%89%E8%BE%93%E5%87%BA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDgxMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+树莓派：串口登录不显示打印信息_树莓派串口调试没有信息-CSDN博客
+https://blog.csdn.net/DSK_981029/article/details/120305360
+
+树莓派的串口登录 - LInguistic-零点 - 博客园
+https://www.cnblogs.com/Nic-zhang/p/14375389.html
+
+2146285-20210204223553361-158052771.png (2176×4608)
+https://img2020.cnblogs.com/blog/2146285/202102/2146285-20210204223553361-158052771.png
+
+曼德博集合 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9B%BC%E5%BE%B7%E5%8D%9A%E9%9B%86%E5%90%88&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%9B%BC%E5%BE%B7%E5%8D%9A&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgPGB4yCAgGEAAYDxgeMggIBxAAGA8YHjIKCAgQABiABBiiBDIKCAkQABiABBiiBNIBCDM1NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+qemu dump memory map - Google 搜索
+https://www.google.com.hk/search?q=qemu+dump+memory+map&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+dump&gs_lcrp=EgZjaHJvbWUqBggGEAAYHjIGCAAQRRg5MgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDgwMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+memory management - What do QEMU monitor commands 'info mem' and 'info mtree' do? - Stack Overflow
+https://stackoverflow.com/questions/15107651/what-do-qemu-monitor-commands-info-mem-and-info-mtree-do
+
+qemu machine type android - Google 搜索
+https://www.google.com.hk/search?q=qemu+machine+type+android&rlz=1C1GCEA_enJP1090JP1090&oq=qemu+machine+type+android&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQg3OTU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Running Android L Developer Preview on 64-bit Arm QEMU | Blog | Linaro
+https://old.linaro.org/blog/running-64bit-android-l-qemu/
+
+Hands on Linux & Arm Training | Linaro
+https://old.linaro.org/services/hands-on-training/
+
+Alex Bennée - Google 搜索
+https://www.google.com.hk/search?q=Alex+Benn%C3%A9e&rlz=1C1GCEA_enJP1090JP1090&oq=Alex+Benn%C3%A9e&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Alex's Adventures on the Infobahn – Home
+https://www.bennee.com/~alex/
+
+stsquad/cv: A copy of my current CV in org-mode form
+https://github.com/stsquad/cv
+
+linaro learning - Google 搜索
+https://www.google.com.hk/search?q=linaro+learning&rlz=1C1GCEA_enJP1090JP1090&oq=linaro+learning&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIHCAcQABiABDIJCAgQABgMGIAEMgcICRAAGIAE0gEIODUxMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(19) opensuse - YouTube
+https://www.youtube.com/results?search_query=opensuse
+
+(19) (Exiting) Leo Yan - YouTube
+https://www.youtube.com/@leoyan9205/videos
+
+leo yan linaro - Google 搜索
+https://www.google.com.hk/search?q=leo+yan+linaro&newwindow=1&sca_esv=6b8c054c18cccfdb&rlz=1C1GCEA_enJP1090JP1090&ei=6FL-Zpn3Hq3NkPIPmbuK6AU&oq=Leo+Yan+lin&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0xlbyBZYW4gbGluKgIIATIHEAAYgAQYEzIGEAAYExgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIsCFQzQdYgRFwAXgAkAEAmAGEA6AB3QmqAQUyLTMuMbgBA8gBAPgBAZgCBaAC7AnCAggQABiABBiwA8ICBxAAGLADGB7CAggQABgTGAgYHpgDAIgGAZAGCpIHBzEuMC4zLjGgB-EI&sclient=gws-wiz-serp
+
+Leo-Yan (Leo Yan)
+https://github.com/Leo-Yan
+
+opensuse - Google 搜索
+https://www.google.com.hk/search?q=opensuse&rlz=1C1GCEA_enJP1090JP1090&oq=opensuse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQcxNjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Program Organization | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/organizations/opensuse-project
+
+GSoC Organization Application 2024 · openSUSE/mentoring Wiki
+https://github.com/openSUSE/mentoring/wiki/GSoC-Organization-Application-2024#-chat-to-irc-channel
+
+openSUSE:IRC list - openSUSE Wiki
+https://en.opensuse.org/openSUSE:IRC_list
+
+openSUSE repositories
+https://github.com/orgs/openSUSE/repositories
+
+openSUSE youtube - Google 搜索
+https://www.google.com.hk/search?q=openSUSE+youtube&rlz=1C1GCEA_enJP1090JP1090&oq=openSUSE+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIGCAUQRRg80gEINjMyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(19) openSUSE Contribution Workshop: Packaging Rust in Open Build Service - YouTube
+https://www.youtube.com/watch?v=J__6pqGbR3o
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
