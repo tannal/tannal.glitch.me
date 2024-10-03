@@ -4,7 +4,7 @@
 export PREFIX=aarch64-linux-gnu-
 export AARCH=64
 export RASPPI=3
-./configure --qemu -r 3 --
+./configure --qemu -r 3 --prefix aarch64-linux-gnu-
 
 // aarch64-linux-gnu-gcc -c a.S
 // a.S
