@@ -3,6 +3,210 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+rsta2/circle: A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+https://github.com/rsta2/circle
+
+Circle – A C++ bare metal environment for Raspberry Pi with USB | Hacker News
+https://news.ycombinator.com/item?id=31302271
+
+Circle C++ with Memory Safety
+https://www.circle-lang.org/site/index.html
+
+(1302) #gpu > Longpathdash - artifacts - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Longpathdash.20-.20artifacts
+
+Make tangents at subpath end watertight by raphlinus · Pull Request #695 · linebender/vello
+https://github.com/linebender/vello/pull/695
+
+Glean.core.Upload.PingUploadManager - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Glean.core.Upload.PingUploadManager
+
+Testing - Glean - Cross-platform Telemetry library
+https://mozilla.github.io/glean/dev/testing.html
+
+Dashboard - Nextcloud
+http://10.106.146.44:8081/apps/dashboard/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Chimera Linux
+https://github.com/chimera-linux
+
+Chimera Linux raspi3b+ - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Chimera+Linux+raspi3b%2B
+
+A Month on Chimera Linux - Bit Cannon
+https://bitcannon.net/post/a-month-with-chimera-linux/
+
+Why Chimera Linux - Wesley Moore
+https://www.wezm.net/v2/posts/2024/why-chimera-linux/
+
+Tech Stack 2024 - Wesley Moore
+https://www.wezm.net/v2/posts/2024/tech-stack/
+
+about - awesome window manager
+https://awesomewm.org/
+
+Alacritty - A cross-platform, OpenGL terminal emulator
+https://alacritty.org/
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+getzola/zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+https://github.com/getzola/zola
+
+Gleam
+https://gleam.run/
+
+Tools of the trade — Alex Chan
+https://www.alexchantastic.com/tools-of-the-trade
+
+tannal
+https://tannal.github.io/
+
+branch education - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=branch+education
+
+(19) How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown] - YouTube
+https://www.youtube.com/watch?v=d86ws7mQYIg&t=294s
+
+iphone4 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=iphone4+
+
+IBM lenovo deal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=IBM+lenvon+deal#fpr=r
+
+macontish - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=macontish
+
+iphone4 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=iphone4
+
+iphone first release - Google 搜索
+https://www.google.com.hk/search?q=iphone+first+release&newwindow=1&client=ubuntu-sn&hs=IQM&sca_esv=85604b0bcae66a71&channel=fs&ei=R1_-ZuieBry9kPIP7-O02As&oq=iphone+first&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGlwaG9uZSBmaXJzdCoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPcjULwFWKoccAJ4AZABAJgB1QKgAecWqgEFMi02LjS4AQPIAQD4AQGYAgygAp4XwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgcQABiABBgMwgIEEAAYHpgDAIgGAZAGCpIHBzIuMC42LjSgB6Yd&sclient=gws-wiz-serp
+
+(19) steve Jobs The Lost Interview - YouTube
+https://www.youtube.com/results?search_query=steve+Jobs+The+Lost+Interview
+
+webkit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webkit+
+
+internet bubble - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=internet+bubble
+
+plan9 and unix - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=plan9+and+unix
+
+sun microsystems google cto - Google 搜索
+https://www.google.com.hk/search?q=sun+microsystems+google+cto&newwindow=1&client=ubuntu-sn&hs=wGh&sca_esv=85604b0bcae66a71&channel=fs&ei=BmL-ZqXbFPefkPIPj43xkAg&ved=0ahUKEwil9vSZ8fGIAxX3D0QIHY9GHIIQ4dUDCA8&uact=5&oq=sun+microsystems+google+cto&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3N1biBtaWNyb3N5c3RlbXMgZ29vZ2xlIGN0bzIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESO0oUPcKWKcncAF4AZABAJgBmwOgAf8qqgEGMy0xNS4xuAEDyAEA-AEBmAIRoALcK8ICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgINEC4YgAQYQxjUAhiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAhAQLhiABBjRAxhDGMcBGIoFwgIfEC4YgAQY0QMYQxjHARiKBRiXBRjcBBjeBBjgBNgBAcICBRAuGIAEwgIHEC4YgAQYDMICBxAAGIAEGAzCAhoQLhiABBjRAxjHARiXBRjcBBjeBBjgBNgBAcICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAgYHsICCBAAGBMYBRgewgIGEAAYBRgewgIGEAAYCBgemAMAiAYBkAYKugYGCAEQARgUkgcIMS4zLTE0LjKgB_zAAQ&sclient=gws-wiz-serp
+
+inside chrome - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=inside+chrome
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+Eric Schmidt sun microsystem - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Eric+Schmidt+sun+microsystem
+
+android first release - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=android+first+release
+
+(19) I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo - YouTube
+https://www.youtube.com/watch?v=ovYbgbrQ-v8&t=2802s
+
+Technologies | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/technologies/
+
+csdiy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=csdiy
+
+CS自学指南
+https://csdiy.wiki/
+
+csranking - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=csranking
+
+GitHub
+https://github.com/
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#c%E8%AF%AD%E8%A8%80%E5%92%8C%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+tannal (tannal)
+https://github.com/tannal
+
+mojo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mojo
+
+Get started with Mojo🔥 | Modular Docs
+https://docs.modular.com/mojo/manual/get-started
+
+Community
+https://www.modular.com/community
+
+Releases · modularml/mojo
+https://github.com/modularml/mojo
+
+Get started with Mojo🔥 | Modular Docs
+https://docs.modular.com/mojo/manual/get-started
+
+developer.modular.com/magic/b202902c-df45-45ff-a07d-bedc8eb20cd3
+https://developer.modular.com/magic/b202902c-df45-45ff-a07d-bedc8eb20cd3
+
+llvm developer meet mojo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=llvm+developer+meet+mojo
+
+(19) 2023 LLVM Dev Mtg - Mojo 🔥: A system programming language for heterogenous computing - YouTube
+https://www.youtube.com/watch?v=SEwTjZvy8vw
+
+Mojo – a new programming language for AI developers | Hacker News
+https://news.ycombinator.com/item?id=35790367
+
+mojo llama3 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mojo+llama3
+
+MAX Examples | Modular Docs
+https://docs.modular.com/max/examples/
+
+max/examples/graph-api/pipelines/llama3 at main · modularml/max
+https://github.com/modularml/max/tree/main/examples/graph-api/pipelines/llama3
+
+Modular
+https://github.com/modularml
+
+tannal
+https://tannal.github.io/
+
+the mojo compiler is not open source - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=the+mojo+compiler+is+not+open+source
+
+Is mojo open source / free? · Issue #25 · modularml/mojo
+https://github.com/modularml/mojo/issues/25
+
+Modular: The Next Big Step in Mojo🔥 Open Source
+https://www.modular.com/blog/the-next-big-step-in-mojo-open-source
+
+The Next Big Step in Mojo Open Source | Hacker News
+https://news.ycombinator.com/item?id=39855760
+
+[Proposal] Mojo project manifest and build tool · modularml/mojo · Discussion #1785
+https://github.com/modularml/mojo/discussions/1785
+
+Discussion search results
+https://github.com/search?q=owner%3Amodularml+compiler&type=discussions&p=3
+
+Not Found
+https://dl.modular.com/public/magic/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 2409.09214v3.pdf
 https://arxiv.org/pdf/2409.09214
 

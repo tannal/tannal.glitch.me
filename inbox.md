@@ -1,7 +1,7 @@
 
 # 2024-10-3 0 | 0
 
-
+https://www.wezm.net/v2/posts/2024/why-chimera-linux/
 
 
 # 2024-10-2 0 | 0
