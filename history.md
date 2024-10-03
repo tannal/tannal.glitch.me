@@ -3,6 +3,105 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Reflex SDL2 - Zyghost
+https://zyghost.com/articles/reflex-sdl2.html
+
+NLnet; Search NLnet: servo
+https://nlnet.nl/search/static.html?q=servo&submit=Search
+
+Home
+https://renderling.xyz/
+
+Issue search results
+https://github.com/search?q=author%3Abartlomieju&type=issues&p=2
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&op=translate
+
+FOSDEM 2024 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=FOSDEM+2024
+
+FOSDEM 2024 - AI and Machine Learning devroom
+https://archive.fosdem.org/2024/schedule/track/ai_ml/
+
+FOSDEM 2024 - Building Open Source Language Models
+https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2591-building-open-source-language-models/
+
+FOSDEM 2024 - ML Guided Optimizations in LLVM
+https://archive.fosdem.org/2024/schedule/event/fosdem-2024-1958-ml-guided-optimizations-in-llvm/
+
+FOSDEM 2024 - LangChain From 0 To 1: Unveiling the Power of LLM Programming
+https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2384-langchain-from-0-to-1-unveiling-the-power-of-llm-programming/
+
+LangChain From 0 To 1 (public) - LangChain_From_0_To_1_public_1_PpuSgEN.pdf
+https://archive.fosdem.org/2024/events/attachments/fosdem-2024-2384-langchain-from-0-to-1-unveiling-the-power-of-llm-programming/slides/22587/LangChain_From_0_To_1_public_1_PpuSgEN.pdf
+
+FOSDEM 2024 - Daily blogging embedded Gecko development
+https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2508-daily-blogging-embedded-gecko-development/
+
+fosdem24-gecko-dev.pdf
+https://www.flypig.co.uk/presentations/fosdem24-gecko-dev.pdf
+
+llewelld/gecko-dev
+https://github.com/llewelld/gecko-dev
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+kmiller68 (Keith Miller)
+https://github.com/kmiller68
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c11
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+contributors-meeting-notes (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/C01EN701MAN
+
+[ARMv7] Fix instanceof fast path by justinmichaud · Pull Request #34383 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/34383
+
+Keith Miller webkit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Keith+Miller+webkit++
+
+(1293) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889#issue-2262046512
+
+[layout] Fix synthesis of inline baselines. (5479489) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5479489
+
+Live DOM Viewer
+https://www.software.hixie.ch/utilities/js/live-dom-viewer/?saved=12662
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+document loaders github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=document+loaders+github
+
+langchain/libs/langchain/langchain/document_loaders/pdf.py at master · langchain-ai/langchain
+https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/document_loaders/pdf.py
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 copy.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
