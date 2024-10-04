@@ -1,4 +1,24 @@
 
+https://news.miracleplus.com/feeds?tab=hot
+
+Martin Ren (@renmengye): Typst 的创始人。主要成果是创建了 Typst 排版系统。Twitter: @renmengye。知名于新一代排版系统的开发。目前正在继续开发和改进 Typst。
+Nathan Sobo: Zed 编辑器的创始人，也是 Atom 编辑器的原作者。主要成果包括创建了多个流行的代码编辑器。知名于编辑器开发。目前正在领导 Zed 编辑器的开发。
+Lin Clark (@linclark): Wasmtime 的主要贡献者之一。Twitter: @linclark。知名于 WebAssembly 和浏览器技术。现在在 Fastly 工作，继续推动 WebAssembly 技术的发展。
+Graydon Hoare (@graydon_pub): Rust 语言的原作者，也参与了 ByteAlloc 项目。Twitter: @graydon_pub。知名于编程语言设计。目前在 Apple 工作。
+Michael Yuan (@juntao): WasmEdge 的创始人。Twitter: @juntao。知名于 WebAssembly 运行时开发。目前继续领导 WasmEdge 项目的开发。
+David Baron (@davidbaron): Mozilla 的高级工程师，Gecko 引擎的主要贡献者之一。Twitter: @davidbaron。知名于浏览器引擎开发。目前仍在 Mozilla 工作，继续改进 Gecko 引擎。
+Darin Fisher: Chrome 浏览器和 Blink 引擎的主要贡献者之一。知名于浏览器技术。目前在 Google 工作，继续领导 Chrome 的开发。
+Herb Sutter (@herbsutter): Skia 图形引擎的主要贡献者之一。Twitter: @herbsutter。知名于 C++ 语言和图形技术。目前是 Microsoft 的软件架构师。
+Andrey Breslav (@abreslav): Kotlin 语言的主要设计者，包括 Kotlin Multiplatform。Twitter: @abreslav。知名于编程语言设计。现在是 JetBrains 的 Kotlin 首席架构师。
+Werner Lemberg: FreeType 库的主要维护者之一。知名于字体渲染技术。目前继续维护 FreeType 项目。
+Carl Worth: Cairo 图形库的创始人之一。知名于 2D 图形库开发。目前继续参与 Cairo 的开发和维护。
+Kitware 团队: CMake 的主要开发团队。知名于跨平台构建系统。目前继续改进和维护 CMake。
+Ruki Wang (@waruqi): xmake 的创始人。Twitter: @waruqi。知名于构建系统开发。目前继续领导 xmake 项目的开发。
+Matthias Clasen (@matthiasclasen): GTK 工具包的主要维护者之一。Twitter: @matthiasclasen。知名于 GUI 工具包开发。目前在 Red Hat 工作，继续改进 GTK。
+Tim Sweeney (@TimSweeneyEpic): Unreal Engine 的创始人。Twitter: @TimSweeneyEpic。知名于游戏引擎开发。目前是 Epic Games 的 CEO，继续领导 Unreal Engine 的发展。
+John Riccitiello: Unity Technologies 的 CEO。知名于游戏引擎和开发工具。目前继续领导 Unity 公司。
+Juan Linietsky (@reduzio): Godot 引擎的联合创始人。Twitter: @reduzio。知名于开源游戏引擎开发。目前继续领导 Godot 引擎的开发。
+
 Brendan Eich (@BrendanEich): JavaScript 的创造者,Mozilla 的联合创始人。知名于编程语言设计和浏览器开发。现在是 Brave 浏览器的 CEO。Twitter: @BrendanEich
 Alex Russell (@slightlylate): Google Chrome 团队的高级工程师。知名于 Progressive Web Apps (PWA) 的推广。Twitter: @slightlylate
 Jake Archibald (@jaffathecake): Google 的开发者倡导者。知名于 Service Workers 和 PWA。Twitter: @jaffathecake

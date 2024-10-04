@@ -3,6 +3,105 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Fifteen Years of Contributing to WebKit
+https://rniwa.com/2024-07-20/fifteen-years-of-contributing-to-webkit/
+
+WebCore: · WebKit/WebKit@8e96d8f
+https://github.com/WebKit/WebKit/commit/8e96d8f67ae32c13d81222f243adc281030662bc#diff-a35401970f9acb0a44fc25e1da8a2ed6a08b81d439001385c1a912368290e555
+
+(19) Rui Ueyama - YouTube
+https://www.youtube.com/@RuiUeyama
+
+(19) moldと再現可能なビルド（Reproducible Builds） - YouTube
+https://www.youtube.com/watch?v=xH8eThCt3R0
+
+(19) Google’s adoption of Rust has finally paid off… - YouTube
+https://www.youtube.com/watch?v=umhxH_AxG7I
+
+(19) moldの並行ハッシュマップの最適化 - YouTube
+https://www.youtube.com/watch?v=_LQ6jvB7sq8
+
+youtube live - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=youtube+live
+
+(19) Meng Tan - YouTube
+https://www.youtube.com/@MengTan-b6h
+
+直播 - YouTube Studio
+https://studio.youtube.com/channel/UCnSWJKq0Q58DAJCkHWXtRrg/livestreaming
+
+ゆうすけ（Yusuke）youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E3%82%86%E3%81%86%E3%81%99%E3%81%91%EF%BC%88Yusuke%EF%BC%89youtube
+
+Yusuke Suzuki apple Constellation - Google 搜索
+https://www.google.com.hk/search?q=Yusuke+Suzuki+apple++Constellation&newwindow=1&client=ubuntu-sn&hs=wA5&sca_esv=76f97e55aed1e827&channel=fs&ei=8cj_ZrzVEt7fkPIPi8rRwQo&ved=0ahUKEwj8kZC_x_SIAxXeL0QIHQtlNKgQ4dUDCA8&uact=5&oq=Yusuke+Suzuki+apple++Constellation&gs_lp=Egxnd3Mtd2l6LXNlcnAiIll1c3VrZSBTdXp1a2kgYXBwbGUgIENvbnN0ZWxsYXRpb24yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUiWF1CgBFigBHACeACQAQCYAYwCoAGMAqoBAzItMbgBA8gBAPgBAvgBAZgCAaACjgKYAwCIBgGSBwMyLTGgB9ME&sclient=gws-wiz-serp
+
+Problem loading page
+http://d.hatena.ne.jp/Yusuke_S/
+
+Members · People · apple
+https://github.com/orgs/apple/people?page=4
+
+Fujii Hironori youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Fujii+Hironori+youtube
+
+(19) Emacs elscreen - YouTube
+https://www.youtube.com/watch?v=1B_Q2LHxTz8
+
+rniwa youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rniwa+youtube
+
+Standardize YouTube embed rewriting? · Issue #2390 · whatwg/html
+https://github.com/whatwg/html/issues/2390
+
+renmengye zed - Google 搜索
+https://www.google.com.hk/search?q=renmengye+zed&newwindow=1&client=ubuntu-sn&hs=BZ5&sca_esv=76f97e55aed1e827&channel=fs&ei=0M7_ZtzuOOm7kPIPmOW9mQo&ved=0ahUKEwjclo6MzfSIAxXpHUQIHZhyL6MQ4dUDCA8&uact=5&oq=renmengye+zed&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXJlbm1lbmd5ZSB6ZWQyCBAAGAoYDBgeMggQABiABBiiBEiBCFC5AljgBnABeAGQAQCYAdwCoAGMB6oBBTItMi4xuAEDyAEA-AEBmAIEoAKhB8ICChAAGLADGNYEGEfCAgcQABiABBgMwgIHECEYoAEYCpgDAIgGAZAGCpIHBzEuMC4yLjGgB6AH&sclient=gws-wiz-serp
+
+Zed - The editor for what's next
+https://zed.dev/
+
+Herb Sutter skia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Herb+Sutter+skia
+
+fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+https://github.com/fffaraz/awesome-cpp
+
+A Proposal to Add 2D Graphics Rendering and Display to C++ - p0267r10.pdf
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p0267r10.pdf
+
+A Proposal to Add 2D Graphics Rendering and Display to C++ [pdf] | Hacker News
+https://news.ycombinator.com/item?id=7093761
+
+Andrey Breslav - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Andrey+Breslav
+
+Andrey Breslav - Talks
+https://www.abreslav.com/talks
+
+Skia 图形引擎的主要贡献者之一 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Skia+%E5%9B%BE%E5%BD%A2%E5%BC%95%E6%93%8E%E7%9A%84%E4%B8%BB%E8%A6%81%E8%B4%A1%E7%8C%AE%E8%80%85%E4%B9%8B%E4%B8%80
+
+齐思 - AI维护的最优质科技前沿信号
+https://news.miracleplus.com/feeds?tab=hot
+
+【9月30日大模型日报】资讯 北大陈宝权教授：从图形计算到世界模型；推特 Karpathy强推Deep Dive：按需播客，基于你提供的任何素材生成/链接的内容，在Notebook ML 中生成；信号 Discovering the Gems in Early Layers: Accelerating Long-Context LLMs with 1000x Input Token Reduction；HuggingFace&Github Retrieval-based-Voice-Conversion-WebUI；学习 浅入浅出Megatron框架之训练和保存模型； - 齐思
+https://news.miracleplus.com/share_link/42799
+
+齐思 - AI维护的最优质科技前沿信号
+https://news.miracleplus.com/feeds?tab=hot
+
+用AI短视频「反哺」长视频理解，腾讯MovieLLM框架瞄准电影级连续帧生成 - 齐思
+https://news.miracleplus.com/share_link/20701
+
+tannal (tannal)
+https://github.com/tannal/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 leetcode.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
