@@ -1,4 +1,215 @@
 
+Brendan Eich (@BrendanEich): JavaScript 的创造者,Mozilla 的联合创始人。知名于编程语言设计和浏览器开发。现在是 Brave 浏览器的 CEO。Twitter: @BrendanEich
+Alex Russell (@slightlylate): Google Chrome 团队的高级工程师。知名于 Progressive Web Apps (PWA) 的推广。Twitter: @slightlylate
+Jake Archibald (@jaffathecake): Google 的开发者倡导者。知名于 Service Workers 和 PWA。Twitter: @jaffathecake
+Ada Rose Cannon (@Lady_Ada_King): Samsung Internet 的高级工程师。知名于 WebVR 和 Web 性能优化。Twitter: @Lady_Ada_King
+Lin Clark (@linclark): Mozilla 的工程师和技术讲师。知名于通过卡通解释复杂的技术概念。Twitter: @linclark
+Lea Verou (@LeaVerou): MIT 的研究员,CSS 工作组成员。知名于 CSS 和 Web 标准工作。Twitter: @LeaVerou
+Rachel Andrew (@rachelandrew): Perch CMS 的联合创始人,CSS 工作组成员。知名于 CSS Grid 布局。Twitter: @rachelandrew
+Jen Simmons (@jensimmons): Mozilla 的设计倡导者。知名于 Web 布局和设计。Twitter: @jensimmons
+Paul Irish (@paul_irish): Google Chrome 团队成员。知名于 Web 性能优化和开发工具。Twitter: @paul_irish
+Addy Osmani (@addyosmani): Google Chrome 团队的工程经理。知名于 JavaScript 模式和性能优化。Twitter: @addyosmani
+21-60. 以下是额外推荐的 50 个相关领域的人物:
+
+Evan You (@youyuxi) - Vue.js 创始人
+Dan Abramov (@dan_abramov) - React 核心开发者
+Sarah Drasner (@sarah_edo) - 核心 Vue 团队成员
+Kent C. Dodds (@kentcdodds) - React 和 JavaScript 测试专家
+Rich Harris (@Rich_Harris) - Svelte 框架创建者
+Kyle Simpson (@getify) - "You Don't Know JS" 系列作者
+Wes Bos (@wesbos) - 全栈开发者和教育者
+Sara Soueidan (@SaraSoueidan) - SVG 和 CSS 专家
+Chris Coyier (@chriscoyier) - CSS-Tricks 创始人
+Brad Frost (@brad_frost) - 原子设计 (Atomic Design) 的创造者
+Harry Roberts (@csswizardry) - CSS 架构和性能专家
+Mariko Kosaka (@kosamari) - Google 开发者倡导者
+Una Kravets (@Una) - Google Chrome 团队 UI 工程师
+Surma (@DasSurma) - Google 开发者倡导者
+Monica Dinculescu (@notwaldorf) - Google 工程师,Web Components 专家
+Mathias Bynens (@mathias) - Google V8 团队成员
+Axel Rauschmayer (@rauschma) - JavaScript 专家和作者
+Sarah Drasner (@sarah_edo) - Microsoft 首席开发者倡导者
+Maxim Salnikov (@webmaxru) - PWA 专家
+Nicole Sullivan (@stubbornella) - CSS 专家,OOCSS 的创造者
+Ethan Marcotte (@beep) - 响应式设计的创造者
+Jeremy Keith (@adactio) - Web 标准倡导者
+Eric Meyer (@meyerweb) - CSS 专家和作者
+Jeffrey Zeldman (@zeldman) - Web 标准项目创始人
+Bruce Lawson (@brucel) - Web 标准倡导者
+Remy Sharp (@rem) - JSBin 创始人
+Christian Heilmann (@codepo8) - 微软首席项目经理
+Sara Soueidan (@SaraSoueidan) - 前端 UI/UX 开发者
+Val Head (@vlh) - Web 动画专家
+Sarah Parmenter (@sazzy) - UI 设计师
+Vitaly Friedman (@smashingmag) - Smashing Magazine 创始人
+Tim Kadlec (@tkadlec) - Web 性能顾问
+Zach Leatherman (@zachleat) - 字体加载专家
+Henri Helvetica (@HenriHelvetica) - 性能倡导者
+Ire Aderinokun (@ireaderinokun) - 前端开发者和设计师
+Sarah Drasner (@sarah_edo) - SVG 动画专家
+Chen Hui Jing (@hj_chen) - 自由前端开发者
+Miriam Suzanne (@MiriSuzanne) - CSS 模块和 Sass 专家
+Ana Tudor (@anatudor) - CSS 和 SVG 动画专家
+Andi Smith (@AndiSmith) - 可访问性专家
+
+@zcorpan (Simon Pieters) - Works at Bocoup. Contributes significantly to web standards, particularly HTML and CSS. Known for his work on the WHATWG HTML specification.
+@RByers (Rick Byers) - Works at Google on the Chrome team. Focuses on input and interactions. Contributes to various web standards.
+@annevk (Anne van Kesteren) - Works at Mozilla. Major contributor to web standards, especially around HTML, DOM, and Fetch. Very active in WHATWG.
+@domenic (Domenic Denicola) - Works at Google. Significant contributor to web standards, especially around JavaScript and DOM. Active in TC39 and WHATWG.
+@gregorypappas (Gregory Pappas) - Works at Mozilla. Contributes to web standards and browser implementations.
+@miketaylr (Mike Taylor) - Works at Mozilla. Focuses on web compatibility issues.
+
+Tobias Koppers (@wSokra): Webpack 的创始人。主要成果是创建了 Webpack。Twitter: @wSokra。知名于前端工程化和模块打包。目前仍在积极维护 Webpack 项目。
+Rich Harris (@Rich_Harris): Rollup 的创建者，也是 Svelte 框架的作者。Twitter: @Rich_Harris。知名于 JavaScript 工具链和框架设计。现在在 Vercel 工作，继续开发 Svelte。
+Isaac Z. Schlueter (@izs): npm 的创始人。Twitter: @izs。知名于 Node.js 生态系统。目前是 npm, Inc. 的首席开源架构师。
+Zoltan Kochan (@zoltan_kochan): pnpm 的创建者。Twitter: @zoltan_kochan。知名于 JavaScript 包管理。现在继续维护和改进 pnpm。
+Sebastian McKenzie (@sebmck): Yarn 的主要创建者之一，也是 Babel 的作者。Twitter: @sebmck。知名于 JavaScript 工具链。现在在 Rome Tools 工作，开发新的前端工具链。
+Dan Abramov (@dan_abramov): React 核心开发者。Twitter: @dan_abramov。知名于 React 生态系统。目前在 Facebook 工作，继续改进 React。
+James Gosling (@errcraft): Java 语言的创始人。Twitter: @errcraft。知名于编程语言设计。现在在 Amazon Web Services 工作。
+Rob Pike (@rob_pike): Go 语言的共同创始人。Twitter: @rob_pike。知名于编程语言设计和分布式系统。目前仍在 Google 工作，继续改进 Go 语言。
+Andrey Breslav (@abreslav): Kotlin 语言的主要设计者。Twitter: @abreslav。知名于编程语言设计。现在是 JetBrains 的 Kotlin 首席架构师。
+Cam Jackson: 微前端的倡导者，ThoughtWorks 的技术负责人。知名于微前端架构。目前继续推广和改进微前端实践。
+11-60. 以下是额外推荐的 50 个相关领域的专家：
+
+Evan You (@youyuxi) - Vue.js 创始人
+Ryan Dahl (@ryanrdahl) - Node.js 和 Deno 创始人
+Kent C. Dodds (@kentcdodds) - React 和测试专家
+Kyle Simpson (@getify) - 你不知道的 JavaScript 系列作者
+Addy Osmani (@addyosmani) - Google Chrome 工程经理，性能专家
+Sarah Drasner (@sarah_edo) - Vue 核心团队成员，微软首席开发者倡导者
+Brendan Eich (@BrendanEich) - JavaScript 创始人
+Lin Clark (@linclark) - Mozilla 工程师，代码卡通作者
+Lea Verou (@LeaVerou) - CSS 专家，MIT 研究员
+Alex Russell (@slightlylate) - Google Chrome 团队，PWA 倡导者
+Jeremy Ashkenas (@jashkenas) - CoffeeScript 和 Backbone.js 创始人
+TJ Holowaychuk (@tjholowaychuk) - Express.js 创始人
+Guillermo Rauch (@rauchg) - Socket.io 和 Vercel 创始人
+Kent Beck (@KentBeck) - 极限编程和 TDD 倡导者
+Martin Fowler (@martinfowler) - ThoughtWorks 首席科学家，重构专家
+Robert C. Martin (@unclebobmartin) - 清洁代码作者
+Eric Evans - 领域驱动设计 (DDD) 创始人
+Sam Newman (@samnewman) - 微服务架构专家
+Michael Feathers (@mfeathers) - 遗留代码处理专家
+Greg Young (@gregyoung) - CQRS 模式倡导者
+Udi Dahan (@UdiDahan) - NServiceBus 创始人，SOA 专家
+Martin Kleppmann (@martinkl) - 分布式系统专家，《设计数据密集型应用》作者
+Kelsey Hightower (@kelseyhightower) - Kubernetes 专家
+Jessie Frazelle (@jessfraz) - 容器和 Linux 安全专家
+Mitchell Hashimoto (@mitchellh) - HashiCorp 创始人，基础设施即代码专家
+Jez Humble (@jezhumble) - 持续交付专家
+Nicole Forsgren (@nicolefv) - DevOps 研究和评估专家
+Gene Kim (@RealGeneKim) - DevOps 手册作者
+John Allspaw (@allspaw) - Etsy 前 CTO，DevOps 先驱
+Patrick Debois (@patrickdebois) - DevOps 运动创始人
+Adrian Cockcroft (@adrianco) - 云原生架构专家
+Charity Majors (@mipsytipsy) - 可观察性专家，Honeycomb.io 创始人
+Ben Christensen (@benjchristensen) - RxJava 创始人，前 Netflix 工程师
+Joe Armstrong - Erlang 创始人
+José Valim (@josevalim) - Elixir 创始人
+Chris Lattner (@clattner_llvm) - LLVM 和 Swift 创始人
+Anders Hejlsberg (@ahejlsberg) - TypeScript、C# 和 Delphi 设计者
+Guido van Rossum (@gvanrossum) - Python 创始人
+Yukihiro Matsumoto (@yukihiro_matz) - Ruby 创始人
+Larry Wall - Perl 创始人
+Bjarne Stroustrup - C++ 创始人
+Rasmus Lerdorf (@rasmus) - PHP 创始人
+John Resig (@jeresig) - jQuery 创始人
+Douglas Crockford - JSON 创始人
+Brendan Eich (@BrendanEich) - JavaScript 创始人
+David Heinemeier Hansson (@dhh) - Ruby on Rails 创始人
+Taylor Otwell (@taylorotwell) - Laravel 创始人
+Jeffrey Way (@jeffrey_way) - Laracasts 创始人
+Adam Wathan (@adamwathan) - Tailwind CSS 创始人
+Kent Beck (@KentBeck) - 极限编程和测试驱动开发倡导者
+
+Linus Torvalds (@Linus__Torvalds): Linux 内核和 Git 的创始人。主要成果包括创建和维护 Linux 操作系统内核。Twitter: @Linus__Torvalds。知名于操作系统开发和版本控制系统。现在仍在领导 Linux 内核开发。
+Guido van Rossum (@gvanrossum): Python 编程语言的创始人。主要成果是设计并实现 Python。Twitter: @gvanrossum。知名于编程语言设计。现在是 Python 指导委员会成员，同时在微软工作。
+Anders Hejlsberg (@ahejlsberg): C#、TypeScript 和 Delphi 的首席架构师。主要成果包括设计多种流行的编程语言。Twitter: @ahejlsberg。知名于编程语言设计。现在在微软工作，继续领导 TypeScript 的开发。
+Martin Fowler (@martinfowler): 敏捷开发方法学家，《重构》等多本畅销技术书籍的作者。Twitter: @martinfowler。知名于软件架构和敏捷开发。现在是 ThoughtWorks 的首席科学家。
+Kent Beck (@KentBeck): 极限编程（XP）的创始人，JUnit 的创作者之一。Twitter: @KentBeck。知名于敏捷开发方法学和测试驱动开发（TDD）。现在是独立顾问，同时在 Facebook 担任顾问角色。
+Robert C. Martin (Uncle Bob) (@unclebobmartin): 《Clean Code》作者，敏捷宣言签署人之一。Twitter: @unclebobmartin。知名于软件工程最佳实践。现在经营 Clean Coders 培训公司。
+David Heinemeier Hansson (@dhh): Ruby on Rails 框架的创造者。Twitter: @dhh。知名于 Web 开发框架和创业。现在是 Basecamp 的联合创始人和 CTO。
+Jeff Atwood (@codinghorror): Stack Overflow 的联合创始人。Twitter: @codinghorror。知名于程序员社区建设。现在专注于 Discourse 开源论坛软件的开发。
+Joel Spolsky (@spolsky): Stack Overflow 的另一位联合创始人，前微软 Excel 开发团队成员。Twitter: @spolsky。知名于软件开发管理。现在是 Stack Overflow 的董事会主席。
+Paul Graham (@paulg): Y Combinator 的联合创始人，Lisp 方言的创造者。Twitter: @paulg。知名于创业孵化和编程语言设计。现在主要关注创业投资和写作。
+71-120. 以下是额外推荐的 50 个相关领域的人物：
+
+Satya Nadella (@satyanadella) - 微软 CEO
+Sundar Pichai (@sundarpichai) - Alphabet 和 Google CEO
+Mark Zuckerberg (@zuck) - Facebook 创始人兼 CEO
+Elon Musk (@elonmusk) - Tesla, SpaceX, Neuralink 创始人
+Tim Cook (@tim_cook) - Apple CEO
+Jack Dorsey (@jack) - Twitter 和 Square 联合创始人
+Brian Chesky (@bchesky) - Airbnb 联合创始人兼 CEO
+Reed Hastings (@reedhastings) - Netflix 联合创始人兼 CEO
+Drew Houston (@drewhouston) - Dropbox 创始人兼 CEO
+Stewart Butterfield (@stewart) - Slack 联合创始人兼 CEO
+Daniel Ek (@eldsjal) - Spotify 联合创始人兼 CEO
+Tobi Lütke (@tobi) - Shopify 创始人兼 CEO
+Demis Hassabis (@demishassabis) - DeepMind 联合创始人兼 CEO
+Sam Altman (@sama) - OpenAI CEO，前 Y Combinator 总裁
+Melanie Perkins (@melanieperkins) - Canva 联合创始人兼 CEO
+Patrick Collison (@patrickc) - Stripe 联合创始人兼 CEO
+Brian Armstrong (@brian_armstrong) - Coinbase 联合创始人兼 CEO
+Aaron Levie (@levie) - Box 联合创始人兼 CEO
+Eric Yuan (@ericsyuan) - Zoom 创始人兼 CEO
+Jeff Lawson (@jeffiel) - Twilio 联合创始人兼 CEO
+Tony Xu (@t_xu) - DoorDash 联合创始人兼 CEO
+Vlad Tenev (@vladtenev) - Robinhood 联合创始人兼 CEO
+Dustin Moskovitz (@moskov) - Asana 联合创始人兼 CEO，Facebook 联合创始人
+Julia White (@julwhite) - SAP 首席营销和解决方案官
+Anil Dash (@anildash) - Glitch CEO，知名科技评论家
+Cindy Sridharan (@copyconstruct) - 分布式系统工程师和作家
+Kelsey Hightower (@kelseyhightower) - Google 首席开发者倡导者，Kubernetes 专家
+Mitchell Hashimoto (@mitchellh) - HashiCorp 联合创始人
+Jessie Frazelle (@jessfraz) - 前 Docker 和 Google 工程师，现 Oxide Computer Company 联合创始人
+Sarah Mei (@sarahmei) - Ruby on Rails 核心团队成员，Salesforce 首席技术架构师
+Charity Majors (@mipsytipsy) - Honeycomb.io 联合创始人兼 CTO
+Julia Evans (@b0rk) - 软件工程师和技术博主
+Saron Yitbarek (@saronyitbarek) - CodeNewbie 创始人
+Scott Hanselman (@shanselman) - 微软首席项目经理和开发者倡导者
+Jessie Frazelle (@jessfraz) - 容器和 Linux 安全专家
+Bryan Cantrill (@bcantrill) - Oxide Computer Company CTO，前 Sun 和 Joyent CTO
+Neha Narkhede (@nehanarkhede) - Confluent 联合创始人，Apache Kafka 联合创作者
+Jocelyn Goldfein (@jgoldfein) - Zetta Venture Partners 管理合伙人，前 Facebook 工程总监
+Tracy Chou (@triketora) - Block Party 创始人兼 CEO，前 Pinterest 工程师
+Erica Joy Baker (@EricaJoy) - Microsoft GitHub 工程总监
+Marco Arment (@marcoarment) - Overcast 创始人，前 Tumblr CTO
+John Resig (@jeresig) - jQuery 创始人，Khan Academy 首席软件架构师
+DHH (@dhh) - Ruby on Rails 创始人，Basecamp 联合创始人兼 CTO
+Miguel de Icaza (@migueldeicaza) - .NET 基金会董事会成员，Xamarin 联合创始人
+Jessie Frazelle (@jessfraz) - 容器和 Linux 安全专家
+Sarah Drasner (@sarah_edo) - Netlify 工程副总裁
+Guillermo Rauch (@rauchg) - Vercel（前 ZEIT）CEO 和创始人
+Natalie Silvanovich (@natashenka) - Google Project Zero 安全研究员
+Limor Fried (@adafruit) - Adafruit Industries 创始人
+Quincy Larson (@ossia) - freeCodeCamp 创始人
+
+
+Yusuke Suzuki：日本程序员，WebKit和JavaScript引擎的主要贡献者。他在苹果公司工作，对ECMAScript规范和V8引擎也有重要贡献。
+Constellation (本名Ehsan Akhgari)：伊朗裔加拿大程序员，曾在Mozilla工作，现在是苹果公司WebKit团队的成员。他在浏览器安全和性能优化方面有重要贡献。
+Andreas Kling：您可能指的是这位"辍学的"成员。他是瑞典程序员，indeed曾辍学，后来成为WebKit的重要贡献者。他创建了SerenityOS项目，这是一个从头开始编写的类Unix操作系统。
+Maciej Stachowiak：WebKit项目的联合创始人之一，长期在苹果公司工作。他在HTML5标准的制定过程中发挥了重要作用。
+Darin Adler：另一位WebKit的核心开发者，在苹果公司工作多年，对WebKit的架构和性能优化做出了重大贡献。
+Sam Weinig：也是WebKit的长期贡献者，特别在SVG和CSS方面有重要工作。
+Chris Blumenberg：WebKit移动版本的主要开发者之一，对iOS上的Safari浏览器有重要贡献。
+Anders Carlsson：早期WebKit开发者之一，对项目的基础架构有重要贡献。
+
+这个文件是一个语法高亮规则定义文件，通常用于代码编辑器或IDE中实现Rust语言的语法高亮。它使用的格式是Tree-sitter查询语言，通常保存为.scm（Scheme）文件。
+
+这个文件的主要功能包括：
+
+定义语法元素：如类型、函数、变量、关键字等。
+指定高亮规则：为不同的语法元素分配特定的高亮类别（如@type, @function, @keyword等）。
+使用模式匹配：通过树结构和正则表达式来匹配Rust代码中的不同部分。
+处理特殊情况：如区分方法调用和函数调用，识别宏定义等。
+定义标点符号和运算符的高亮。
+处理注释和文档注释。
+识别字面量（如字符串、数字、布尔值）。
+Zed编译器（或更可能是Zed编辑器）使用这个文件来理解Rust代码的结构，并据此在编辑器中提供准确的语法高亮。这有助于提高代码的可读性，让开发者更容易理解和编写Rust代码。
+
+Tree-sitter是一个解析系统，它能够快速且增量地生成代码的具体语法树，这个.scm文件就是告诉Tree-sitter如何解析Rust代码并应用适当的高亮。
+
 You're right that large projects can lead to massive .git directories, which can become problematic. Here are some strategies to reduce the size and some alternative version control systems that might handle large projects better:
 
 Strategies to reduce Git repository size: a) Use Git LFS (Large File Storage):
