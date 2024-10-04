@@ -1,3 +1,116 @@
+# 2024-10-4
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+LangChain From 0 To 1 (public) - LangChain_From_0_To_1_public_1_PpuSgEN.pdf
+https://archive.fosdem.org/2024/events/attachments/fosdem-2024-2384-langchain-from-0-to-1-unveiling-the-power-of-llm-programming/slides/22587/LangChain_From_0_To_1_public_1_PpuSgEN.pdf
+
+Stell0/youtubetelegramsummaries: Check youtube channels for new vides, then uses LangChain to make the summary and send it to a telegram group
+https://github.com/Stell0/youtubetelegramsummaries/tree/main
+
+Stell0 (Stefano)
+https://github.com/Stell0
+
+dvir yitzchaki - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dvir+yitzchaki
+
+7661709 (JPEG Image, 196 × 196 pixels)
+https://avatars.githubusercontent.com/u/7661709?v=4
+
+reveal-md
+https://dvirtz.github.io/modern-cpp/#/trailing_return
+
+dvirtz/slides: https://dvirtz.github.io/slides
+https://github.com/dvirtz/slides
+
+dvirtz/modern-cpp: Slides for a course on Modern C++
+https://github.com/dvirtz/modern-cpp
+
+mathjax - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mathjax
+
+MathJax/.github at master · mathjax/MathJax
+https://github.com/mathjax/MathJax/tree/master/.github
+
+The Hitchhiker's Guide to Node Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-node-contributor/
+
+(1266) #gpu > Dotted grid drawing - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Dotted.20grid.20drawing
+
+hal: cargo feature to allow using `VK_GOOGLE_display_timing` unsafely by DJMcNab · Pull Request #6149 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/pull/6149
+
+vello/vello_shaders at main · linebender/vello
+https://github.com/linebender/vello/tree/main/vello_shaders
+
+Match CPU/GPU logic for start tangents by raphlinus · Pull Request #705 · linebender/vello
+https://github.com/linebender/vello/pull/705#issuecomment-2389714920
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=Through%20all%20the%20world%20there%20goes%20one%20long%20cry%20from%20the%20heart%20of%20the%20artist%3A%0AGive%20me%20the%20chance%20to%20do%20my%20very%20best!&op=translate
+
+voidzero - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=voidzero
+
+VoidZero
+https://github.com/voidzero-dev
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+Contribution Guide | Rolldown
+https://rolldown.rs/contrib-guide/
+
+(13) Discord | #announcements | Vite Land
+https://discord.com/channels/804011606160703521/861595956143587369
+
+ViteConf 2024 is live!
+https://viteconf.org/live
+
+Discord
+https://discord.com/invite/aYVNktYeEB
+
+Oxlint – JavaScript linter written in Rust | Hacker News
+https://news.ycombinator.com/item?id=38652887
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+freesoftwaremovement - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=freesoftwaremovement
+
+Free software movement - Wikipedia
+https://en.wikipedia.org/wiki/Free_software_movement#Events
+
+Lifetimes - The Rust Programming Language | Frontend Masters
+https://frontendmasters.com/courses/rust/lifetimes/
+
+Andrej Karpathy on X: "I gave a talk at GPU MODE workshop last week on llm.c - the origin story of llm.c - being naked in the world without PyTorch and having to re-invent Array, Autograd, Device, Dtype, Compile, Distributed - how to port a PyTorch layer to 1) explicit PyTorch - and then to 2) write https://t.co/u8JXyy90VE" / X
+https://x.com/karpathy/status/1841536804073439268
+
+Issues · mathjax/MathJax
+https://github.com/mathjax/MathJax/issues
+
+(19) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4
+
+(19) The harsh reality of good software - YouTube
+https://www.youtube.com/watch?v=NiljDyzAOcI
+
+twitter fluuter - Google 搜索
+https://www.google.com.hk/search?q=twitter+fluuter&newwindow=1&client=ubuntu-sn&hs=0gw&sca_esv=15082802f0d72b3a&channel=fs&ei=kUn_Zv_QCse6kPIPp5fjoAQ&ved=0ahUKEwi_3a2CzvOIAxVHHUQIHafLGEQQ4dUDCA8&uact=5&oq=twitter+fluuter&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3R3aXR0ZXIgZmx1dXRlcjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jJC1DECFjlCXACeAGQAQCYAYYCoAGGAqoBAzItMbgBA8gBAPgBAZgCAqACC5gDAOIDBRIBMSBAiAYBkAYKkgcBMqAHwQQ&sclient=gws-wiz-serp
+
+TheAlphamerc/flutter_twitter_clone: Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
+https://github.com/TheAlphamerc/flutter_twitter_clone
+
+react native twitter github - Google 搜索
+https://www.google.com.hk/search?q=react+native+twitter+github&newwindow=1&client=ubuntu-sn&hs=TQH&sca_esv=15082802f0d72b3a&channel=fs&ei=jkr_Zs7zAY29kPIP7PfJgAk&ved=0ahUKEwjO8vb6zvOIAxWNHkQIHex7EpAQ4dUDCA8&uact=5&oq=react+native+twitter+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3JlYWN0IG5hdGl2ZSB0d2l0dGVyIGdpdGh1YjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkjFGVCYBljPGHACeAGQAQCYAYMDoAHyD6oBAzMtNrgBA8gBAPgBAZgCCKACmhDCAgoQABiwAxjWBBhHwgIFEAAYgATCAgQQABgewgIGEAAYHhgPwgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgaSBwUyLjMtNqAHnxQ&sclient=gws-wiz-serp
+
 # 2024-10-3
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

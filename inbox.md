@@ -1,4 +1,18 @@
 
+# 2024-10-4 0 | 0
+
+Seed Round: This is typically the first official equity funding stage.
+Series A: This is usually the first significant round of venture capital financing.
+Series B: This round is about taking the business to the next level, expanding market reach.
+Series C: At this stage, companies are already quite successful and looking to scale further, develop new products, or even acquire other companies.
+Series D and beyond: These are less common, but some companies may go through additional letter rounds (E, F, etc.) before considering an exit.
+Late Stage: This might include private equity rounds or "bridge" rounds before an IPO.
+Initial Public Offering (IPO) or Acquisition: This is often considered the "exit" for many venture-backed startups.
+
+Through all the world there goes one long cry from the heart of the artist: Give me the chance to do my very best!
+
+Be sure you’ve assembled an appreciative audience. No critics allowed.
+
 # 2024-10-3 0 | 0
 
 nlnet
