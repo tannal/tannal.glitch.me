@@ -3,6 +3,84 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Andrej Karpathy on X: "I gave a talk at GPU MODE workshop last week on llm.c - the origin story of llm.c - being naked in the world without PyTorch and having to re-invent Array, Autograd, Device, Dtype, Compile, Distributed - how to port a PyTorch layer to 1) explicit PyTorch - and then to 2) write https://t.co/u8JXyy90VE" / X
+https://x.com/karpathy/status/1841536804073439268
+
+Lifetimes - The Rust Programming Language | Frontend Masters
+https://frontendmasters.com/courses/rust/lifetimes/
+
+discord flutter github - Google 搜索
+https://www.google.com.hk/search?q=discord+flutter+github&newwindow=1&client=ubuntu-sn&hs=0QR&sca_esv=ede45a10bafd6a14&channel=fs&ei=1-D_Zsy_Iver0PEPjoyzoAc&start=10&sa=N&sstk=Aagrsui-vcOFq7Cvwmj3tm_0n4blnGCUSEGp6kISBUKzC7jSo644WbW2h_Zi14Kt69--7oX7tZ1smBcFGGrFoNG1JJmwip5ggcYRrA&ved=2ahUKEwiMh8Wk3vSIAxX3FTQIHQ7GDHQQ8tMDegQIJxAE&biw=1850&bih=968&dpr=1
+
+Add Maps and Location | rapido-mobile.github.io
+https://rapido-mobile.github.io/tutorials/flutter_maps_and_location.html
+
+(365) #general > Clipboard Events API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Clipboard.20Events.20API
+
+Versotile
+https://github.com/versotile-org
+
+servo/servo at readablestream-re-implementation
+https://github.com/servo/servo/tree/readablestream-re-implementation
+
+apply nlnet - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=apply+nlnet
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+cuda mode discord - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cuda+mode+discord
+
+gpu-mode/resource-stream: GPU programming related news and material links
+https://github.com/gpu-mode/resource-stream
+
+ptrblck - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ptrblck
+
+Piotr Bialecki meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=x06&sca_esv=ede45a10bafd6a14&channel=fs&q=Piotr+Bialecki+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxsPslfBbOr0vTiGVEAO5RFXP52-A9kh0a8uDgsTpRt-ID_RMPW1rVEskwevipLImbgrzS1AS7sfDGS88IOKj18tychEhjn5K7CwIj01YAigmvSRuzE&sa=X&ved=2ahUKEwiXk9_p4fSIAxXAl-4BHTlAFOoQtKgLegQIDhAB&biw=1850&bih=968&dpr=1
+
+von neumann probe - Google 搜索
+https://www.google.com.hk/search?q=von+neumann+probe+&newwindow=1&client=ubuntu-sn&hs=ooR&sca_esv=ede45a10bafd6a14&channel=fs&biw=1850&bih=968&ei=m-b_ZvTLHubckPIP18mO0A4&ved=0ahUKEwi0hank4_SIAxVmLkQIHdekA-oQ4dUDCA8&uact=5&oq=von+neumann+probe+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnZvbiBuZXVtYW5uIHByb2JlIDIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0i5CVDhB1jhB3AAeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgeYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+Rent GPUs | Vast.ai
+https://vast.ai/
+
+fineweb100B hugginface - Google 搜索
+https://www.google.com.hk/search?q=fineweb100B+hugginface&newwindow=1&client=ubuntu-sn&hs=iv7&sca_esv=36a5aede6ef96498&channel=fs&ei=TfL_Zu3RH53P0PEP95ntiQ4&ved=0ahUKEwitrP337vSIAxWdJzQIHfdMO-EQ4dUDCA8&uact=5&oq=fineweb100B+hugginface&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmZpbmV3ZWIxMDBCIGh1Z2dpbmZhY2UyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIxTpQ5QVY1zlwBngAkAEAmAHLA6ABsh-qAQcyLTIuOS4xuAEDyAEA-AEBmAIRoAL9H8ICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGSBwo1LjAuMS4xMC4xoAfvHg&sclient=gws-wiz-serp
+
+HuggingFaceFW/fineweb · Discussions
+https://huggingface.co/datasets/HuggingFaceFW/fineweb/discussions
+
+(365) #general > Standard nomenclature for Servo processes - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Standard.20nomenclature.20for.20Servo.20processes
+
+1921922 - Support multiple document rendering for WebRender
+https://bugzilla.mozilla.org/show_bug.cgi?id=1921922
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=synthesia%20piano&op=translate
+
+synthesia piano youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=synthesia+piano+youtube+
+
+(19) Attack On Titan OST - Call of Silence (Synthesia) - YouTube
+https://www.youtube.com/watch?v=hdHi3K9oVls
+
+Issues · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
