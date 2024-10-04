@@ -6,6 +6,123 @@ https://github.dev/tannal/tannal.glitch.me
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+Query: Active Repositories
+https://phabricator.services.mozilla.com/diffusion/query/active/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+test262-harness run tests - Google 搜索
+https://www.google.com.hk/search?q=test262-harness+run+tests&newwindow=1&client=ubuntu-sn&hs=9sH&sca_esv=793534ccb2d373d0&channel=fs&ei=gFH_ZtKrH_-ikPIPn8eEkAg&ved=0ahUKEwjS6_zK1fOIAxV_EUQIHZ8jAYIQ4dUDCA8&uact=5&oq=test262-harness+run+tests&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXRlc3QyNjItaGFybmVzcyBydW4gdGVzdHMyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI5hpQ_ApY8xlwAXgBkAEAmAGhAqAByBCqAQMyLTi4AQPIAQD4AQGYAgmgAvIQwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYIkgcFMS4wLjigB-4X&sclient=gws-wiz-serp
+
+Issues · tc39/test262-harness
+https://github.com/tc39/test262-harness/issues
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241/files
+
+ioannad (Ioanna M Dimitriou H) / September 2024
+https://github.com/ioannad?tab=overview&from=2024-09-01&to=2024-09-30
+
+503 Service Unavailable
+https://ioa.re/
+
+Ecma TC39
+https://github.com/tc39
+
+GitHub
+https://github.com/
+
+Feature Request: Support FlashAttention-3 · Issue #9700 · ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp/issues/9700
+
+canvas openai - Google 搜索
+https://www.google.com.hk/search?q=canvas+openai&newwindow=1&client=ubuntu-sn&hs=vPJ&sca_esv=8957a51bd870705f&channel=fs&ei=dGj_Zoa1Lp3ZkPIP4cqgyQ4&ved=0ahUKEwiGv_686_OIAxWdLEQIHWElKOkQ4dUDCA8&uact=5&oq=canvas+openai&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWNhbnZhcyBvcGVuYWkyCRAAGIAEGBMYDTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYExgFGB4yCBAAGIAEGKIESLQgUMgEWMMecAF4AZABAJgBkAKgAb0MqgEDMi02uAEDyAEA-AEBmAIHoALmDMICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgUQLhiABMICBBAAGB6YAwCIBgGQBgqSBwUxLjAuNqAH_hI&sclient=gws-wiz-serp
+
+Canvas is a new way to write and code with ChatGPT | OpenAI
+https://openai.com/index/introducing-canvas/
+
+duktape - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=duktape
+
+Test262 results for 2.3.0 using C++ harness · Issue #2018 · svaarala/duktape
+https://github.com/svaarala/duktape/issues/2018
+
+plotters/plotters/examples/mandelbrot.rs at master · plotters-rs/plotters
+https://github.com/plotters-rs/plotters/blob/master/plotters/examples/mandelbrot.rs
+
+100% behavior tests passing for the aarch64 backend · Issue #21172 · ziglang/zig
+https://github.com/ziglang/zig/issues/21172
+
+Lifetimes - The Rust Programming Language | Frontend Masters
+https://frontendmasters.com/courses/rust/lifetimes/
+
+dart performance vs js - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dart+performance+vs+js
+
+Dart on backend VS Node.js : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/124ifwj/dart_on_backend_vs_nodejs/
+
+Genez-io/genezio: Deploy on the fastest full-stack cloud. Experience the autoscaling of near-zero latency serverless without rewriting your code.
+https://github.com/Genez-io/genezio
+
+Serverpod github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Serverpod+github
+
+Serverpod
+https://github.com/serverpod
+
+Running Visual Studio Code on Linux
+https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc
+
+hexops/mach: zig game engine & graphics toolkit
+https://github.com/hexops/mach
+
+zig plot - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zig+plot
+
+Remy2701/zigplotlib: A simple library for plotting graphs in Zig
+https://github.com/Remy2701/zigplotlib
+
+reveal-md
+http://localhost:8080/
+
+New Issue · dvirtz/reveal-compiler-explorer
+https://github.com/dvirtz/reveal-compiler-explorer/issues/new
+
+dvirtz/modern-cpp: Slides for a course on Modern C++
+https://github.com/dvirtz/modern-cpp
+
+modern-cpp/package.json at master · dvirtz/modern-cpp
+https://github.com/dvirtz/modern-cpp/blob/master/package.json
+
+reveal-md
+http://localhost:1948/slides.md
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 LangChain From 0 To 1 (public) - LangChain_From_0_To_1_public_1_PpuSgEN.pdf
 https://archive.fosdem.org/2024/events/attachments/fosdem-2024-2384-langchain-from-0-to-1-unveiling-the-power-of-llm-programming/slides/22587/LangChain_From_0_To_1_public_1_PpuSgEN.pdf
 
