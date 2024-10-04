@@ -9,3 +9,8 @@ python tools/lint/lint.py --exceptions lint.exceptions test/built-ins/
 
 
 ./tools/dev/gm.py x64.release test262
+
+npm install -g test262-harness
+
+test262-harness -r node test-v-flag.js
+test262-harness -r jsshell test-v-flag.js

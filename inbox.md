@@ -1,6 +1,15 @@
 
 # 2024-10-4 0 | 0
 
+Be sure you’ve assembled an appreciative audience. No critics allowed.
+nlnet
+ngi
+opencollective
+
+for object oriented programming we just solve problem by add more field
+for impretiave programming we solve problem just add more state
+and for functional programming we solve problem by create more functions
+
 Seed Round: This is typically the first official equity funding stage.
 Series A: This is usually the first significant round of venture capital financing.
 Series B: This round is about taking the business to the next level, expanding market reach.
