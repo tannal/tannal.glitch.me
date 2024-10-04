@@ -1,5 +1,13 @@
 
 
+# zuochengyun
+
+binary search 
+https://www.bilibili.com/video/BV1Mh4y1P7qE/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+
+https://www.bilibili.com/video/BV1WQ4y1W7d1/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
 子串
 子序列
 字符串

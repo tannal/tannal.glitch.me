@@ -3,6 +3,180 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+leetcode.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213
+
+agendas/2024/10.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/10.md
+
+Microsoft Word - standpats-asianplop-final.docx - standpats-asianplop2016.pdf
+http://wirfs-brock.com/allen/files/papers/standpats-asianplop2016.pdf
+
+how-we-work/how-to-participate-in-meetings.md at 8fc19955cfdafb230f49bd1fa299044a7933a3cd · tc39/how-we-work
+https://github.com/tc39/how-we-work/blob/HEAD/how-to-participate-in-meetings.md
+
+how-we-work/matrix-guide.md at 8fc19955cfdafb230f49bd1fa299044a7933a3cd · tc39/how-we-work
+https://github.com/tc39/how-we-work/blob/8fc19955cfdafb230f49bd1fa299044a7933a3cd/matrix-guide.md
+
+Matrix.org - Element X
+https://matrix.org/ecosystem/clients/element-x/
+
+Matrix.org - FluffyChat
+https://matrix.org/ecosystem/clients/fluffychat/
+
+krille-chan/fluffychat: The cutest instant messenger in the [matrix]
+https://github.com/krille-chan/fluffychat
+
+element-hq/element-x-android: Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+https://github.com/element-hq/element-x-android?tab=readme-ov-file
+
+Issues · element-hq/element-x-android
+https://github.com/element-hq/element-x-android/issues?q=is%3Aissue+is%3Aopen+KMP
+
+tcq.app/
+https://tcq.app/
+
+hexops/mach: zig game engine & graphics toolkit
+https://github.com/hexops/mach
+
+zig/src/main.zig at 03457755590c73893bce21f551d5664333baf267 · ziglang/zig
+https://github.com/ziglang/zig/blob/03457755590c73893bce21f551d5664333baf267/src/main.zig#L5126
+
+zig build and socks5 proxy issues · Issue #19717 · ziglang/zig
+https://github.com/ziglang/zig/issues/19717
+
+add http/socks5 proxy support for package manager · Issue #15048 · ziglang/zig
+https://github.com/ziglang/zig/issues/15048
+
+feat: proxy for zig-build · ziglang/zig@7c85410
+https://github.com/ziglang/zig/commit/7c85410f43fe9db3e2c25528dbfb4e33c61a03c5?diff=unified#diff-d924ca21d81d7d5a59eb9e10d3e2689c4c58a7e28e6ecce6a064701666f5a730L4377-R4637
+
+excel roller coaster - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=excel+roller+coaster
+
+(19) 3D Rollercoaster in Excel | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=9HvmqzKgS54
+
+A first look at Unreal Engine 5 | Hacker News
+https://news.ycombinator.com/item?id=23167794
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1922163 - <table align="right/left"> aren't mapped to float as per spec
+https://bugzilla.mozilla.org/show_bug.cgi?id=1922163
+
+HTMLTableElement.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/7e0ae4372c52b8183d1178132dd6493edb576738/dom/html/HTMLTableElement.cpp#860-869
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&op=translate
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+is%3Aopen+contributor
+
+AlbertMarashi (Albert Marashi)
+https://github.com/AlbertMarashi
+
+Lumina » The City of the Future
+https://lumina.earth/
+
+AI Wireframe Generator » SiteForge
+https://siteforge.io/
+
+zig linker - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zig+linker
+
+zig ld: a drop-in linker replacement · Issue #8755 · ziglang/zig
+https://github.com/ziglang/zig/issues/8755
+
+kubkon/zld: Zig's ld drop-in replacement
+https://github.com/kubkon/zld
+
+xrelkd/clipcat: A clipboard manager written in Rust Programming Language.
+https://github.com/xrelkd/clipcat
+
+Matrix client flutter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Matrix+client+flutter
+
+linagora/twake-on-matrix: A multi-platform (Flutter) application for connecting to Matrix - an open network for secure, decentralized communication, with your favorite devices.
+https://github.com/linagora/twake-on-matrix
+
+3304. 找出第 K 个字符 I - 力扣（LeetCode）
+https://leetcode.cn/problems/find-the-k-th-character-in-string-game-i/description/
+
+leetcode ai - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=leetcode+ai+
+
+Why do Leetcode when AI can do it better? : r/leetcode
+https://www.reddit.com/r/leetcode/comments/176n7lp/why_do_leetcode_when_ai_can_do_it_better/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=leetcode%20ai&sort=byPopularity&type=story
+
+Interviews in the Age of AI: Ditch Leetcode – Try Code Reviews Instead | Hacker News
+https://news.ycombinator.com/item?id=37913506
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+左程云-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=30389330&keyword=%E5%B7%A6%E7%A8%8B%E4%BA%91&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+
+左程云投稿视频-左程云视频分享-哔哩哔哩视频
+https://space.bilibili.com/8888480/video?tid=0&special_type=&pn=1&keyword=&order=click
+
+算法讲解051【必备】二分答案法与相关题目_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Mh4y1P7qE/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+算法讲解067【必备】从递归入手二维动态规划_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1WQ4y1W7d1/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+algorithmzuo (algorithmzuo) / Repositories
+https://github.com/algorithmzuo?tab=repositories
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=329
+
+329. 矩阵中的最长递增路径 - 力扣（LeetCode）
+https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/submissions/570028294/
+
+skygragon (skygragon)
+https://github.com/skygragon
+
+tannal (tannal)
+https://github.com/tannal/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -579,6 +579,8 @@ apply intern
 
 [x] wpt test for input vertical align
 
+[] 
+
 [] find a monitor and wire to raspi then boot an os, then do 
 
 [] build a AI which remeber all the users thought context and then make human connections
