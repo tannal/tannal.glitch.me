@@ -571,17 +571,23 @@ apply intern
 
 # 2024-10-6 - 2024-10-13
 
+[x] wpt test for input vertical align
+
+[] 10-7 23 PM GS2024
+[] 10-10 10:00 PM
+[] 10-11 find a monitor and wire to raspi then boot an os
+
 # 2024-9-29 - 2024-10-6
-
-
 
 ## Doing
 
-[x] wpt test for input vertical align
+[x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107 
+
+html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox radio breaking
 
 [] 
 
-[] find a monitor and wire to raspi then boot an os, then do 
+[x] qemu boot circle programs without os, and draw a manblet
 
 [] build a AI which remeber all the users thought context and then make human connections
 
@@ -603,7 +609,12 @@ apply intern
 ## Exploring
 
 [] yundong fuwocheng
-[] zuochengyun leetcode
+
+[x] zuochengyun leetcode binary search and two dimentional memo search dynamic programming
+
+- 10-4 two problems C++
+- 
+
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
 [] AI agent powered documents
 

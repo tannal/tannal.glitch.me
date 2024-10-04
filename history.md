@@ -3,6 +3,81 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+art: Improve assertion in x86_64 calling convention (3284463) · Gerrit Code Review
+https://android-review.googlesource.com/c/platform/art/+/3284463?checksRunsSelected=Coverage&tab=checks
+
+Laurence Tratt (@ltratt@mastodon.social) - Mastodon
+https://mastodon.social/@ltratt
+
+What is the best pointer tagging method? • Core Dumped
+https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/
+
+openjdk CVE jvm internals - Google 搜索
+https://www.google.com.hk/search?q=openjdk+CVE+jvm+internals&newwindow=1&client=ubuntu-sn&sca_esv=fe1d248b964710f2&channel=fs&ei=ndz_Zr3CII2j0PEP2LjZ8AI&start=20&sa=N&sstk=Aagrsugt31SsgivnReBvO9hIDSYy2RFr9WXYgw_DXr27QQVzPsRFzUUtiKpz3WVmWE6PVhEgum8da6W7zoVVbpN9CUcc8GEM7vEInJPme1z16Dcvs3THefKN9ZrWbcxBJ3ze&ved=2ahUKEwj9hMug2vSIAxWNETQIHVhcFi44ChDy0wN6BAglEAc&biw=1850&bih=968&dpr=1
+
+JVM internals : r/java
+https://www.reddit.com/r/java/comments/g8d0cc/jvm_internals/
+
+JVM Anatomy Quarks
+https://shipilev.net/jvm/anatomy-quarks/
+
+(19) Java - YouTube
+https://www.youtube.com/user/java/search
+
+JamesDBloom - Blog
+https://blog.jamesdbloom.com/
+
+(19) Ranjith ramachandran - YouTube
+https://www.youtube.com/@ranjithramachandran5928/videos
+
+Is there a newly released book for jvm internals? : r/java
+https://www.reddit.com/r/java/comments/xa8vm4/is_there_a_newly_released_book_for_jvm_internals/
+
+jvm-anatomy-quarks-complete.pdf
+https://shipilev.net/jvm/anatomy-quarks/jvm-anatomy-quarks-complete.pdf
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jvm%20openjdk%20&sort=byPopularity&type=story
+
+Welcome To The Java Advent Calendar - JVM Advent
+https://www.javaadvent.com/
+
+JVM and v8 youtube - Google 搜索
+https://www.google.com.hk/search?q=JVM+and+v8+youtube&newwindow=1&client=ubuntu-sn&hs=5oQ&sca_esv=fe1d248b964710f2&channel=fs&biw=1850&bih=968&ei=qNf_Zr-nFJXw0PEP1O7o8AU&ved=0ahUKEwi_m7HD1fSIAxUVODQIHVQ3Gl44ChDh1QMIDw&uact=5&oq=JVM+and+v8+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkpWTSBhbmQgdjggeW91dHViZTIFECEYoAFI0DVQwgtY4TRwBHgAkAEAmAHRAqABhCqqAQYyLTExLje4AQPIAQD4AQGYAhSgArsowgIFEAAYgATCAgcQABiABBgKwgIIEAAYgAQYogTCAgcQABiABBgTwgIGEAAYHhgPwgIGEAAYBRgewgIHECEYoAEYCpgDAIgGAZIHBzMuMC44LjmgB6wo&sclient=gws-wiz-serp
+
+JavaDominicano/jvm-advent: Calendario de Adviento By Java Dominicano 2023
+https://github.com/JavaDominicano/jvm-advent
+
+A zero dependency Wasm runtime for the JVM - JVM Advent
+https://www.javaadvent.com/2023/12/chicory-wasm-jvm.html
+
+Get Started - Quarkus
+https://quarkus.io/get-started/
+
+(19) JVM Language Summit 2024 - YouTube
+https://www.youtube.com/playlist?list=PLX8CzqL3ArzUEYnTa6KYORRbP3nhsK0L1
+
+tannal
+https://tannal.github.io/
+
+JVM Anatomy Quarks | Hacker News
+https://news.ycombinator.com/item?id=22190815
+
+(19) CPython internals - Interpreter and source code overview - Lecture 1 - YouTube
+https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
