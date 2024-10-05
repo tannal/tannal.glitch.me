@@ -1,4 +1,8 @@
 
+# 2024-10-5 0 | 0
+
+sudo apt install libstdc++-10-dev libxkbcommon-x11-dev
+
 # 2024-10-4 0 | 0
 
 https://nlnet.nl/propose/

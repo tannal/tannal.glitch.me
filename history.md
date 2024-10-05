@@ -3,6 +3,84 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Pull requests · tc39/test262
+https://github.com/tc39/test262/pulls
+
+(247) #general > Web Speech API - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Web.20Speech.20API
+
+image.png (PNG Image, 1026 × 772 pixels)
+https://servo.zulipchat.com/user_uploads/30542/SSO1FIh1VIFMWAQMZOsrKlNp/image.png
+
+ndarilek/tts-rs
+https://github.com/ndarilek/tts-rs
+
+GitHub
+https://github.com/
+
+zed/docs/src/contribute-to-zed.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/docs/src/contribute-to-zed.md
+
+zed/crates/ui/docs/hello-world.md at 7608000df8c2e70b0381c7d933197242a3cd24ee · zed-industries/zed
+https://github.com/zed-industries/zed/blob/7608000df8c2e70b0381c7d933197242a3cd24ee/crates/ui/docs/hello-world.md?plain=1#L45
+
+Top-Ranking Issues (All Time) 📊 · Issue #5393 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5393
+
+Build and Debug support · Issue #5065 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5065
+
+(13) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+Zed Industries
+https://github.com/zed-industries
+
+copyq github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=copyq+github
+
+hluk/CopyQ: Clipboard manager with advanced features
+https://github.com/hluk/CopyQ
+
+Codeium - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Codeium
+
+Codeium · Free AI Code Completion & Chat
+https://codeium.com/
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&newwindow=1&client=ubuntu-sn&hs=wKx&sca_esv=210a01dbe07330e6&channel=fs&ei=jYkAZ_zoLL6fkPIP5cCt-A4&ved=0ahUKEwi845uX__WIAxW-D0QIHWVgC-8Q4dUDCA8&uact=5&oq=tannal&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnRhbm5hbDILEAAYsAMYBxgKGB4yCxAAGLADGAcYChgeMgkQABiwAxgHGB4yCRAAGLADGAcYHjIIEAAYgAQYsAMyCBAAGIAEGLADMggQABiABBiwAzIIEAAYgAQYsAMyCBAAGIAEGLADMg4QLhiABBiwAxjIA9gBATIOEC4YgAQYsAMYyAPYAQEyEBAuGIAEGLADGMgDGArYAQFIgAZQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAaACC5gDAIgGAZAGDLoGBAgBGAiSBwExoAcA&sclient=gws-wiz-serp
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241
+
+tannal.github.io/en/sitemap.xml at gh-pages · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/blob/gh-pages/en/sitemap.xml
+
+Architecture overview* - The Servo Book
+https://book.servo.org/architecture/overview.html
+
+tannal
+https://tannal.github.io/
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+openhanmony - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=openhanmony
+
+fenwii (分微AGI (FENWII AGI))
+https://github.com/fenwii
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
