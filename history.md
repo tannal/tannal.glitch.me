@@ -1,5 +1,176 @@
 # 2024-10-4
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+(19) 經典好聽的流行曲｜蔡健雅 - Letting Go｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=F6kUepmcsXg&list=RDXLWdknMr1ys&index=18
+
+(1270) #gpu > Best way to Draw an image with transparency - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Best.20way.20to.20Draw.20an.20image.20with.20transparency
+
+wgpu/wgpu-hal/src/vulkan/adapter.rs at 71b41c663838b8a1cf34efeb7d1f7beb14867634 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/blob/71b41c663838b8a1cf34efeb7d1f7beb14867634/wgpu-hal/src/vulkan/adapter.rs#L2255-L2268
+
+Add some simple docs improvements with intra-doc links by DJMcNab · Pull Request #712 · linebender/vello
+https://github.com/linebender/vello/pull/712/files#diff-66fc14806e15e02e527bc58cd6bda1637f08cdc4ec17cb25db007ed4a272f6fe
+
+Office Hours 2024-10-03 - Google 文档
+https://docs.google.com/document/d/15ptSpOnk_uYW5wIfA6gJvjpUFSrJ4JKg0tQ3ArbneLQ/edit
+
+August roadmap - Google 文档
+https://docs.google.com/document/d/1VH-rLsa2DnZ7sAtX4aheUgGMiLC0TDfS1rzMwWiMKxg/edit
+
+(1270) #runebender > Yet another Runebender fork - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197829-runebender/topic/Yet.20another.20Runebender.20fork
+
+Schedule
+https://china2024.gosim.org/schedule
+
+linebender/vello: A GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+Issues · tauri-apps/muda
+https://github.com/tauri-apps/muda/issues
+
+Optional clip shape for layer · Issue #709 · linebender/vello
+https://github.com/linebender/vello/issues/709
+
+(13) Discord | #announcements | Vite Land
+https://discord.com/channels/804011606160703521/861595956143587369
+
+Fixed-point decimal type by PgBiel · Pull Request #4900 · typst/typst
+https://github.com/typst/typst/pull/4900
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+acid accessibility test - Google 搜索
+https://www.google.com.hk/search?q=acid+accessibility+test&newwindow=1&sca_esv=31504b4340b63b2d&rlz=1C1GCEA_enJP1090JP1090&ei=Qb7-ZpziHuu8kPIP-Yi6oQ4&ved=0ahUKEwjchsyUyfKIAxVrHkQIHXmELuQQ4dUDCA8&uact=5&oq=acid+accessibility+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2FjaWQgYWNjZXNzaWJpbGl0eSB0ZXN0MgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUjwNFDyL1iPNHAAeAOQAQCYAekCoAGFB6oBBTItMi4xuAEDyAEA-AEBmAIFoAKSB8ICBBAAGEfCAgYQABgFGB7CAggQABgIGB4YD8ICCBAAGIAEGKIEmAMA4gMFEgExIECIBgGQBgqSBwcyLjAuMi4xoAeBCA&sclient=gws-wiz-serp
+
+<input type="hidden"> Acid Test
+https://accessibility.hhs.texas.gov/acidtests/html/input_hidden.htm
+
+google design platform lead meeting - Google 搜索
+https://www.google.com.hk/search?q=google+design+platform+lead+meeting&newwindow=1&sca_esv=31504b4340b63b2d&rlz=1C1GCEA_enJP1090JP1090&ei=j77-ZsbxOJCqur8PpJfjmA0&ved=0ahUKEwiG9f65yfKIAxUQle4BHaTLGNMQ4dUDCA8&uact=5&oq=google+design+platform+lead+meeting&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2dvb2dsZSBkZXNpZ24gcGxhdGZvcm0gbGVhZCBtZWV0aW5nMgUQIRigATIFECEYoAEyBRAhGKABSOYuUPElWNgtcAF4AZABAJgBpQOgAe8OqgEHMi0zLjIuMbgBA8gBAPgBAZgCB6AC_w7CAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcJMS4wLjMuMi4xoAfpEw&sclient=gws-wiz-serp
+
+rust conf china 2024 - Google 搜索
+https://www.google.com.hk/search?q=rust+conf+china+2024&newwindow=1&sca_esv=31504b4340b63b2d&rlz=1C1GCEA_enJP1090JP1090&ei=Gb_-ZtO3EuXdkPIPqtTFoA8&oq=rust+conf+chin&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnJ1c3QgY29uZiBjaGluKgIIADIFEAAYgAQyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESLgyULcOWJgicAF4AJABAJgB-wKgAc8cqgEFMi03LjW4AQPIAQD4AQGYAgugAsgYwgILEAAYgAQYsAMYogTCAgcQABiABBgMwgIFEC4YgATCAgcQABiABBgKwgIKEAAYgAQYQxiKBcICBhAAGAwYHsICBBAAGB7CAgYQABgKGB6YAwCIBgGQBgKSBwcxLjAuNC42oAehKg&sclient=gws-wiz-serp
+
+Rust China Conf 2024
+https://rustcc.cn/2024conf/org.html
+
+(19) Avril Lavigne | When You're Gone (Chords + Lyrics) | Synthesia Piano Tutorial | By Piano with Rachel - YouTube
+https://www.youtube.com/watch?v=Z98D8Y50axc
+
+gosim youtube - Google 搜索
+https://www.google.com.hk/search?q=gosim+youtube&newwindow=1&sca_esv=f725a80e7498c0c2&rlz=1C1GCEA_enJP1090JP1090&ei=BPn_ZppdsZvQ8Q_w2Ke5BQ&ved=0ahUKEwia77Wr9fSIAxWxDTQIHXDsKVcQ4dUDCA8&uact=5&oq=gosim+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWdvc2ltIHlvdXR1YmUyBxAhGKABGApI0BxQ-QtY1RtwAXgBkAEAmAHsAqABqBGqAQUyLTQuM7gBA8gBAPgBAZgCCKACuhHCAgoQABiwAxjWBBhHwgIFEAAYgATCAggQABiABBiiBMICBhAAGAgYHsICBRAhGKABwgIIEAAYCBgKGB6YAwCIBgGQBgmSBwcxLjAuNC4zoAfcCg&sclient=gws-wiz-serp
+
+(19) GOSIM 2024 Europe APP & WEB Nico Burns: The State of Rust Ul - YouTube
+https://www.youtube.com/watch?v=G9vXU2oXVPw
+
+tannal - Google 搜索
+https://www.google.com/search?q=tannal&rlz=1C1GCEA_enJP1090JP1090&oq=tannal+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQTIGCAcQRRg80gEIMTIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&newwindow=1&sca_esv=210a01dbe07330e6&rlz=1C1GCEA_enJP1090JP1090&ei=R4wAZ4nsF6OhkPIP8ov98AI&start=30&sa=N&sstk=AagrsugW1V-2czshftG9yMd6DLfI4tARfTjZ463j_tiFOUm7BIpdqGMZ1DyKgFLHtEMzE9Tgk_uUsa8NhVKRquaPDdJI0j1l-3TDOJCjXEmVRt1gh3EBlX1LwkiHP8g4dqtrfj2GB-HEWTDWhQMNZgpO-JExm5jX2tw&ved=2ahUKEwjJq_HjgfaIAxWjEEQIHfJFHy44FBDy0wN6BAgDEAk&biw=1536&bih=703&dpr=1.25
+
+tannal.github.io/en/sitemap.xml at gh-pages · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/blob/gh-pages/en/sitemap.xml
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&rlz=1C1GCEA_enJP1090JP1090&oq=tannal+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIMCAEQIxgnGIAEGIoFMgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEIMTk1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Your Followers
+https://github.com/tannal?tab=followers
+
+Xiongxin Yang
+https://yangxx0405.github.io/
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+yangxx0405/yangxx0405.github.io
+https://github.com/yangxx0405/yangxx0405.github.io
+
+Create your Google Sitemap Online - XML Sitemaps Generator
+https://www.xml-sitemaps.com/
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+计算机科学探索指南 - Google 搜索
+https://www.google.com.hk/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97&newwindow=1&sca_esv=7c704608065062ea&rlz=1C1GCEA_enJP1090JP1090&ei=SZMAZ6jlItugkPIPkercuQs&start=40&sa=N&sstk=AagrsuhU2v6pEsrPo-eF3B8oh9WvTxVilzg6imb7xuQMYA2hW2rxpzgIijXT48tXO1sgUWj1Ke5UBUV4KcL3_hyE1NTfstm_QFDE5NqNVasuVNMof3VV3FTvEszYo1aXS6j2L_YcnO5x6yUdluU8h6feidHASW6kbwB_5UCRigOQKhc2ks_h9aZeIMvLwmFqgQ&ved=2ahUKEwjorbW7iPaIAxVbEEQIHRE1N7c4HhDy0wN6BAgEEAs&biw=1536&bih=703&dpr=1.25
+
+runblender github - Google 搜索
+https://www.google.com.hk/search?q=runblender+github&rlz=1C1GCEA_enJP1090JP1090&oq=runblender+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRgeMggICRAAGA0YHtIBCDQ1MDRqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+skrifa github rust - Google 搜索
+https://www.google.com.hk/search?q=skrifa+github+rust&newwindow=1&sca_esv=e728f4e421586095&rlz=1C1GCEA_enJP1090JP1090&ei=PZwAZ6qWMZisur8PvYaIkAk&ved=0ahUKEwjqqLiAkfaIAxUYlu4BHT0DApIQ4dUDCA8&uact=5&oq=skrifa+github+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnNrcmlmYSBnaXRodWIgcnVzdDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI9wtQgwZY4QpwAXgAkAEAmAG2AqAB3AaqAQUyLTIuMbgBA8gBAPgBAZgCA6AC5AaYAwCIBgGSBwUyLTIuMaAH_Qc&sclient=gws-wiz-serp
+
+skrifa - Rust
+https://pop-os.github.io/libcosmic/skrifa/index.html
+
+libcosmic/src at master · pop-os/libcosmic
+https://github.com/pop-os/libcosmic/tree/master/src
+
+Redox OS - Google 搜索
+https://www.google.com.hk/search?q=Redox+OS&rlz=1C1GCEA_enJP1090JP1090&oq=Redox+OS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzMxMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Redox OS
+https://github.com/redox-os
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=Redox%20OS&sort=byPopularity&type=story
+
+Native Build - The Redox Operating System
+https://doc.redox-os.org/book/building-redox.html
+
+gosim beijing 地点 - Google 搜索
+https://www.google.com.hk/search?q=gosim+beijing+%E5%9C%B0%E7%82%B9&newwindow=1&sca_esv=e728f4e421586095&rlz=1C1GCEA_enJP1090JP1090&ei=cqAAZ7bCDeHIkPIP5vCwgAE&ved=0ahUKEwi2w9uBlfaIAxVhJEQIHWY4DBAQ4dUDCA8&uact=5&oq=gosim+beijing+%E5%9C%B0%E7%82%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdvc2ltIGJlaWppbmcg5Zyw54K5MgUQIRigAUiuFVCXDFiRFHABeAGQAQCYAbMCoAGACaoBBTItMi4yuAEDyAEA-AEBmAIFoAKOCcICChAAGLADGNYEGEeYAwCIBgGQBgKSBwcxLjAuMi4yoAf9CA&sclient=gws-wiz-serp
+
+海内外开源大咖齐聚，GOSIM China 2024 盛大开启-CSDN博客
+https://blog.csdn.net/csdnnews/article/details/141877098
+
+GOSIM 参加会议 酒店预订 - Google 搜索
+https://www.google.com.hk/search?q=GOSIM+%E5%8F%82%E5%8A%A0%E4%BC%9A%E8%AE%AE+%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2&newwindow=1&sca_esv=e728f4e421586095&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&ei=PKIAZ_3bE-TRkPIPzcvR-QI&ved=0ahUKEwj96ZPclvaIAxXkKEQIHc1lNC84ChDh1QMIDw&uact=5&oq=GOSIM+%E5%8F%82%E5%8A%A0%E4%BC%9A%E8%AE%AE+%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2&gs_lp=Egxnd3Mtd2l6LXNlcnAiH0dPU0lNIOWPguWKoOS8muiuriDphZLlupfpooTorqJItiFQwQhYhCBwAXgAkAEAmAG8AqAB5CWqAQYyLTE2LjK4AQPIAQD4AQGYAgegAosPwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZIHBTItNi4xoAfuDA&sclient=gws-wiz-serp
+
+gosim beijing 住宿 - Google 搜索
+https://www.google.com.hk/search?q=gosim+beijing+%E4%BD%8F%E5%AE%BF&newwindow=1&sca_esv=e728f4e421586095&rlz=1C1GCEA_enJP1090JP1090&ei=16MAZ8vHHvrMkPIP_OrUyA8&ved=0ahUKEwiLj5ygmPaIAxV6JkQIHXw1FfkQ4dUDCA8&uact=5&oq=gosim+beijing+%E4%BD%8F%E5%AE%BF&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGdvc2ltIGJlaWppbmcg5L2P5a6_MgUQIRigATIFECEYoAFIkOACUKvOAliT3wJwAXgAkAEAmAG7AqABvw2qAQUyLTUuMbgBA8gBAPgBAZgCBqACzA3CAgcQABiABBgTwgIIEAAYgAQYogSYAwCIBgGSBwUyLTUuMaAHkQs&sclient=gws-wiz-serp
+
+首批演讲嘉宾官宣！GOSIM CHINA 2024 十月等你来！-CSDN博客
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142488192
+
+gosim servo - Google 搜索
+https://www.google.com.hk/search?q=gosim+servo&rlz=1C1GCEA_enJP1090JP1090&oq=gosim+servo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDMyNzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Schedule
+https://china2024.gosim.org/schedule
+
+jschwe (Jonathan Schwender)
+https://github.com/jschwe
+
+(248) #general > Facilitating file downloads on the embedder side - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Facilitating.20file.20downloads.20on.20the.20embedder.20side
+
+WGMath github - Google 搜索
+https://www.google.com.hk/search?q=WGMath+github&newwindow=1&sca_esv=374226fec0fbeed9&rlz=1C1GCEA_enJP1090JP1090&ei=FKkAZ-iyDI7bkPIP_u-5QQ&ved=0ahUKEwjojMKfnfaIAxWOLUQIHf53LggQ4dUDCA8&uact=5&oq=WGMath+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVdHTWF0aCBnaXRodWIyBxAhGKABGApI_xRQ6AxY5xNwAXgAkAEAmAHwAqAB5guqAQUyLTMuMrgBA8gBAPgBAZgCBqAC9QvCAggQABiABBiwA8ICCxAAGIAEGLADGKIEwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGBpIHBzEuMC4zLjKgB_IH&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
