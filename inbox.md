@@ -1,6 +1,12 @@
 
 # 2024-10-5 0 | 0
 
+
+Type about:config in the browser address bar.
+Set devtools.inspector.showUserAgentShadowRoots to true // not needed for Firefox 76+
+Set devtools.inspector.showAllAnonymousContent to true (Firefox 76+)
+
+
 sudo apt install libstdc++-10-dev libxkbcommon-x11-dev
 
 # 2024-10-4 0 | 0

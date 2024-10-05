@@ -1,5 +1,50 @@
 # 2024-10-4
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal
+https://tannal.github.io/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+(20) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4&t=2025s
+
+04/Oct/2024 - Google 文档
+https://docs.google.com/document/d/1LrxU6l7-4aDc0pSFJCiEAe5rVu5A4bjisn7okIbjrXg/edit
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gpu%20mode%202024&sort=byPopularity&type=story
+
+CSS Inline Layout Module Level 3
+https://www.w3.org/TR/css-inline-3/#css-metrics
+
+firefoxsource - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=firefoxsource
+
+Layout Overview — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/LayoutOverview.html
+
+firefox devtools show shadow dom - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=firefox+devtools+show+shadow+dom
+
+Inspect Shadow DOM with Firefox - Stack Overflow
+https://stackoverflow.com/questions/19490300/inspect-shadow-dom-with-firefox
+
+HTML: widgets' baseline alignment and interaction with 'overflow'
+http://localhost:8000/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

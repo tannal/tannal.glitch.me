@@ -1,4 +1,96 @@
 
+
+模型参数作为主要状态：
+在GPT-2中，主要的状态是模型的参数（weights和biases）。
+这些参数通常存储在各个层（Layer）对象中，如Linear层、LayerNorm层等。
+虽然层的计算是纯函数，但这些函数操作的是存储在层对象中的参数。
+优化器状态：
+优化器（如Adam）维护着自己的状态，包括动量（momentum）和自适应学习率。
+这些状态在训练过程中不断更新。
+全局配置：
+可能存在一个全局配置对象，存储诸如dropout率、学习率等超参数。
+计算图和梯度：
+在支持自动微分的框架中，计算图本身可以被视为一种临时状态。
+梯度在反向传播过程中累积，也可以被视为临时状态。
+缓存机制：
+某些实现可能使用缓存来存储中间计算结果，以提高效率。
+批处理规范化（Batch Normalization）统计：
+如果使用了BatchNorm，会有运行时的均值和方差统计。
+状态的可见性和管理：
+
+参数树结构：
+模型参数通常组织成一个树状结构，根节点是整个模型，子节点是各个层。
+这个树状结构反映在模型的 state_dict() 方法中。
+命名空间：
+参数和缓冲区通常使用点分隔的命名空间，如 "layer1.attention.weight"。
+注册机制：
+许多框架使用参数注册机制，允许自动追踪和管理参数。
+上下文管理：
+某些状态（如dropout mask）可能通过上下文管理器（如PyTorch的 torch.no_grad()）来控制。
+实现这些方法的类的状态：
+
+Layer类（如Linear, LayerNorm等）：
+状态：权重和偏置参数
+方法：forward, backward（操作这些参数）
+MultiHeadAttention类：
+状态：query, key, value 的权重矩阵
+方法：forward（使用这些权重进行注意力计算）
+Optimizer类：
+状态：每个参数的动量、自适应学习率等
+方法：step（更新这些状态和模型参数）
+Model类（整个GPT-2模型）：
+状态：所有层的集合
+方法：forward（按顺序调用各层的forward方法）
+损失函数类：
+通常是无状态的
+方法：forward（纯计算）
+总的来说，虽然GPT-2的计算过程主要由纯函数组成，但状态确实存在，主要体现在模型参数、优化器状态和某些全局配置中。这些状态形成了一个层次结构，顶层是整个模型对象，然后逐级下降到各个层和参数。框架的设计目标是尽可能地隔离这些状态，使得大部分计算可以表示为纯函数，从而便于并行化、优化和推理。
+
+层（Layers）:
+forward(input): 执行前向传播
+backward(gradient): 执行反向传播，计算梯度
+parameters(): 返回该层的可训练参数
+zero_grad(): 将参数梯度置零
+优化器（Optimizer）类:
+step(): 更新模型参数
+zero_grad(): 将所有参数的梯度置零
+add_param_group(param_group): 添加参数组
+state_dict(): 返回优化器的状态
+load_state_dict(state_dict): 加载优化器状态
+损失函数（Loss Function）类:
+forward(predictions, targets): 计算损失
+backward(): 计算损失对预测的梯度
+Tensor 类:
+数学运算方法: add, sub, mul, div, matmul 等
+形状操作: reshape, transpose, squeeze, unsqueeze 等
+索引和切片方法
+device 相关方法: to(device), cpu(), cuda() 等
+梯度相关: requires_grad_(), backward(), grad 等
+模型（Model）类:
+forward(input): 定义模型的前向传播
+parameters(): 返回模型的所有可训练参数
+train(): 设置模型为训练模式
+eval(): 设置模型为评估模式
+state_dict(): 返回模型的状态
+load_state_dict(state_dict): 加载模型状态
+DataLoader 类:
+iter(): 返回数据迭代器
+next(): 返回下一批数据
+len(): 返回数据批次数量
+工具函数:
+init_weights(layer): 初始化层的权重
+compute_gradients(loss, parameters): 计算梯度
+matrix_multiply(a, b): 矩阵乘法
+convolution2d(input, kernel): 2D卷积运算
+训练循环（Training Loop）:
+train(model, dataloader, optimizer, loss_fn, epochs): 执行训练过程
+评估（Evaluation）函数或类:
+evaluate(model, dataloader, metric): 评估模型性能
+序列化和反序列化函数:
+save_model(model, path): 保存模型到文件
+load_model(path): 从文件加载模型
+
+
 https://news.miracleplus.com/feeds?tab=hot
 
 Martin Ren (@renmengye): Typst 的创始人。主要成果是创建了 Typst 排版系统。Twitter: @renmengye。知名于新一代排版系统的开发。目前正在继续开发和改进 Typst。
