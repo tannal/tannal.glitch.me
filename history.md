@@ -3,6 +3,123 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Anthropic&sort=byPopularity&type=story
+
+time: optimize time <-> date conversions · golang/go@c5de950
+https://github.com/golang/go/commit/c5de95076669ad2416aeec941912af723f2ccf78#diff-f7df0377a687387499e226549f003d1b69ad3fbcef08c0726cabe8693f1b7cae
+
+golang-dev - Google 群组
+https://groups.google.com/g/golang-dev
+
+Matrix.org - Clients
+https://matrix.org/ecosystem/clients/
+
+Matrix.org - FluffyChat
+https://matrix.org/ecosystem/clients/fluffychat/
+
+krille-chan/fluffychat: The cutest instant messenger in the [matrix]
+https://github.com/krille-chan/fluffychat
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+Run:ai - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Run%3Aai
+
+Run:ai - AI Optimization and Orchestration
+https://www.run.ai/
+
+steam - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=steam
+
+claude3 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=claude3
+
+Wercker - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Wercker
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Kernel Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/kernel_developer
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=tailored&op=translate
+
+Penpot - Design Freedom for Teams
+http://10.106.146.44:9001/#/auth/register
+
+Element [4] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+1922900 - [css-contain-2][css-conditional-5] Weaker form of layout containment for container queries.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1922900
+
+SVG images · Issue #33310 · servo/servo
+https://github.com/servo/servo/issues/33310
+
+Moz2D.rst - mozsearch
+https://searchfox.org/mozilla-central/source/gfx/docs/Moz2D.rst
+
+gosub-io/gosub-engine: A web browser in the making. More info at https://gosub.io
+https://github.com/gosub-io/gosub-engine
+
+Log in | Zulip
+https://chat.developer.gosub.io/login/
+
+misc/path_renderer at master · nical/misc
+https://github.com/nical/misc/tree/master/path_renderer
+
+Commits · gfx-rs/wgpu-rs.github.io
+https://github.com/gfx-rs/wgpu-rs.github.io/commits?author=nical&since=2024-09-30&until=2024-10-06
+
+misc/path_renderer/renderers/tiling2 at master · nical/misc
+https://github.com/nical/misc/tree/master/path_renderer/renderers/tiling2
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+rust.zulip - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust.zulip
+
+Code search results
+https://github.com/search?q=repo%3Arust-lang%2Frust%20zulip&type=code
+
+(17) #general > Git dependencies with intentionally invalid Cargo.toml files - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Git.20dependencies.20with.20intentionally.20invalid.20Cargo.2Etoml.20files
+
+js rasing stars 2024 - Google 搜索
+https://www.google.com.hk/search?q=js+rasing+stars+2024&newwindow=1&client=ubuntu-sn&hs=cCn&sca_esv=4ff4415d42662cf1&channel=fs&ei=Al4CZ8vCGJPfkPIPq7GS-AE&ved=0ahUKEwjLy-D3vfmIAxWTL0QIHauYBB8Q4dUDCA8&uact=5&oq=js+rasing+stars+2024&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGpzIHJhc2luZyBzdGFycyAyMDI0MgcQABiABBgNMggQABiABBiiBDIIEAAYgAQYogRI7hJQswpY1hFwAXgBkAEAmAHNAqABiQeqAQUyLTIuMbgBA8gBAPgBAZgCBKACnQfCAgoQABiwAxjWBBhHwgIIEAAYChgNGB6YAwDiAwUSATEgQIgGAZAGCpIHBzEuMC4yLjGgB7MG&sclient=gws-wiz-serp
+
+bestofjs/javascript-risingstars: :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+https://github.com/bestofjs/javascript-risingstars
+
+element - Google 搜索
+https://www.google.com.hk/search?q=element+&newwindow=1&client=ubuntu-sn&hs=8cn&sca_esv=4ff4415d42662cf1&channel=fs&ei=bmQCZ_AB-dCQ8g_au47oCA&ved=0ahUKEwjw8L2HxPmIAxV5KEQIHdqdA40Q4dUDCA8&uact=5&oq=element+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGVsZW1lbnQgMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSMIXUJIVWJsWcAF4AZABAJgBgwKgAYMCqgEDMi0xuAEDyAEA-AEBmAIBoAIImAMAiAYBkAYKkgcBMaAHwgM&sclient=gws-wiz-serp
+
+linagora/twake-on-matrix: A multi-platform (Flutter) application for connecting to Matrix - an open network for secure, decentralized communication, with your favorite devices.
+https://github.com/linagora/twake-on-matrix
+
+matrix flutter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=matrix+flutter
+
+linagora/twake-on-matrix: A multi-platform (Flutter) application for connecting to Matrix - an open network for secure, decentralized communication, with your favorite devices.
+https://github.com/linagora/twake-on-matrix
+
+element client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=element+client
+
+element-hq/element-x-android: Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
+https://github.com/element-hq/element-x-android
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Codetribute
 https://codetribute.mozilla.org/projects/webplatform
 

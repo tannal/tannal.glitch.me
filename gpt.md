@@ -1,3 +1,36 @@
+
+
+
+相同点:
+
+开源贡献: 所有职位都要求参与开源项目的开发和维护。
+远程工作: Igalia 采用分布式开发模式,所有职位都可能是远程工作。
+协作能力: 需要良好的沟通能力,能够在分布式团队中有效协作。
+编程技能: 所有职位都需要扎实的编程基础,尤其是 C/C++ 语言。
+技术写作: 大多数职位都需要撰写技术文档、博客等。
+不同点:
+
+技术领域:
+Browsers Developer (Chromium/WebKit): 专注于浏览器引擎开发
+Core Engineer: 操作系统和底层系统开发
+GStreamer Developer: 多媒体框架开发
+Graphics Developer: 图形驱动和渲染系统开发
+Kernel Developer: Linux 内核开发
+Multimedia Developer: 多媒体技术开发
+Web Platform Engineer: Web 平台技术开发
+所需专业知识:
+浏览器开发者需要熟悉 Web 标准、HTML、CSS、JavaScript
+图形开发者需要了解 GPU 架构、图形 API
+内核开发者需要深入理解操作系统原理
+多媒体开发者需要音视频编解码知识
+工作重点:
+有些职位(如浏览器开发)更侧重于高层应用开发
+有些职位(如内核开发)更侧重于底层系统开发
+目标项目:
+每个职位都有其主要贡献的开源项目,如 Chromium、WebKit、GStreamer、Mesa3D、Linux 内核等
+技能要求:
+虽然都需要良好的编程能力,但对特定技能的要求不同。例如,图形开发可能需要 OpenGL/Vulkan 经验,而 Web 平台工程师则需要更多前端技术经验。
+
 Me: I get it. I worked on Longhorn.
 Coworker: I worked on Itanium.
 Me: Oh. Ouch. Yeah. You win.
