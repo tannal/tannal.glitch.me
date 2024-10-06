@@ -1,12 +1,117 @@
 
 
-
-
 淘天、云智能、阿里国际、菜鸟、本地生活、大文娱和其他等七个板块
 阿里国际、云智能和菜鸟
 
 
 京东零售、京东物流
+
+# IBM
+
+IBM (International Business Machines)：跨国科技公司，提供硬件、软件、云服务和人工智能解决方案。
+Red Hat：开源软件公司，以Linux发行版和企业软件解决方案闻名。
+HashiCorp：提供云基础设施自动化工具的公司。
+The Weather Company：气象数据和预报服务提供商。
+SoftLayer：云计算和托管服务提供商。
+Cloudant：数据库即服务(DBaaS)提供商。
+Blekko：网络搜索引擎公司。
+UStream：视频流媒体平台。
+Kubecost：Kubernetes成本监控和管理工具。
+SPSS：统计分析软件公司。
+Butterfly Software：数据分析和迁移软件公司。
+AlchemyAPI：自然语言处理和机器学习API提供商。
+Compose：数据库即服务(DBaaS)初创公司。
+Instana：应用性能管理和监控解决方案提供商。
+这些收购反映了IBM的几个战略方向：
+
+加强云计算能力（如收购Red Hat、SoftLayer、Cloudant）。
+扩展人工智能和数据分析能力（如Watson相关收购、SPSS）。
+增强开源和DevOps工具组合（如可能收购HashiCorp、Red Hat）。
+拓展视频和流媒体服务（如UStream）。
+增强企业软件和服务产品线。
+IBM的这些收购显示了公司正在努力转型，从传统的硬件和服务公司转向更加注重云计算、人工智能和企业软件的科技公司。特别是收购Red Hat（价值334亿美元）是IBM历史上最大的一次收购，标志着公司向混合云战略的重大转移。
+
+IBM acquires Red Hat
+IBM to Acquire HashiCorp, Inc for $6.4 billion
+IBM to Acquire the Weather Company
+IBM Nears Deal to Acquire Red Hat
+IBM to Acquire SoftLayer
+Google Acquires Over 1,000 IBM Patents
+IBM to Acquire Cloudant
+IBM Watson Acquires Technology from Blekko
+IBM Acquires UStream, Forms New Cloud Video Unit
+IBM acquires Red Hat
+IBM acquires Kubecost
+IBM acquires SPSS
+IBM Acquires Butterfly Software For Data Analysis
+Blekko acquired by IBM Watson
+HashiCorp reportedly being acquired by IBM
+IBM Watson Acquires AlchemyAPI
+IBM to Acquire SoftLayer
+Ustream acquired by IBM for $130M in cash
+IBM acquires Red Hat Storage team
+Hashi Corp to be acquired by IBM
+IBM Is in Advanced Talks to Acquire HashiCorp
+IBM Watson Acquires AlchemyAPI
+How to Integrate an Acquired Company: Lessons from IBM
+IBM Acquires Database-As-A-Service Startup Compose
+IBM to Acquire Linux Distributor Red Hat for $33.4B
+IBM acquires ‘certain assets’ from web crawling startup Blekko
+Google acquires a taste for Power – IBM's processors, that is
+IBM Acquires Instana
+IBM Acquires Ustream
+IBM to Acquire HashiCorp
+
+# Broadcom
+
+这些新闻主要涉及Broadcom(博通)的一系列收购活动。让我简要介绍一下主要涉及的公司：
+
+Broadcom（博通）：一家设计、开发和供应各种半导体和基础设施软件解决方案的公司。
+VMware：虚拟化和云计算软件提供商。
+Qualcomm（高通）：移动技术公司，主要生产芯片组。
+CA Technologies：企业软件公司。
+Symantec（赛门铁克）：网络安全软件公司。
+Brocade Communications Systems：数据和存储网络产品供应商。
+Cypress：嵌入式系统解决方案提供商。
+Avago Technologies：半导体公司，在2015年收购了Broadcom并采用了Broadcom的名称。
+KKR：全球投资公司。
+Ionos：欧洲的网络托管和云服务提供商。
+这些新闻反映了Broadcom的扩张战略，主要通过收购来拓展其在半导体、网络安全、企业软件和云计算等领域的业务。其中最大的交易是收购VMware，价值约610亿美元。
+
+这些收购显示了科技行业的整合趋势，特别是在半导体和企业软件领域。同时，也反映了大型科技公司通过收购来获取新技术、扩大市场份额和多元化业务的策略。
+
+值得注意的是，有些收购谈判并未成功（如Qualcomm），而有些则成功完成（如VMware、CA Technologies和Symantec的企业安全部门）。这些大规模收购也引起了监管机构的关注，可能会影响到行业的竞争格局。
+
+Broadcom to acquire VMware for $61B
+Broadcom Explores Deal to Acquire Chipmaker Qualcomm
+Broadcom in Talks to Acquire VMware
+Broadcom reaches deal to acquire CA Technologies for $18.9B in cash
+KKR to Acquire Broadcom's (VMware) End-User Computing Division
+Broadcom acquires CA Technologies for $18.9B in cash
+Ionos prices go up after Broadcom acquires VMware
+Broadcom to Acquire VMware in $61B Enterprise Computing Deal
+Broadcom in Talks to Acquire VMware for $60bn
+Broadcom in Talks to Acquire VMware
+Symantec is in talks to be acquired by Broadcom
+Broadcom announces plans to acquire CA Technologies for $18.9B
+Broadcom to Acquire VMware for Approximately $61B in Cash and Stock
+Broadcom in Talks to Acquire VMware
+Broadcom Is in Advanced Talks to Acquire Symantec
+KKR to Acquire Broadcom's End-User Computing Division
+Broadcom Seeking to Acquire VMware
+Broadcom in Talks to Acquire Cloud Company VMware
+Broadcom acquires Symantec’s enterprise security division for $10.7B
+Broadcom to Acquire Symantec Enterprise Security Business for $10.7B in Cash
+Broadcom acquires Symantec’s enterprise business for $10.7B
+Broadcom Is in Advanced Talks to Acquire Symantec
+Broadcom offers to acquire Qualcomm for $70 per share
+Broadcom Limited to Acquire Brocade Communications Systems Inc.for $5.9B
+Broadcom acquires Brocade for $5.9B
+Broadcom to Acquire Brocade in ~$5.9B
+Cypress Acquires Broadcom's IoT Business for $550M
+Broadcom to Acquire VMware for Approximately $61B in Cash and Stock [pdf]
+Avago Technologies to Acquire Broadcom for $37B
+Broadcom in Talks to Acquire VMware
 
 
 # Alibaba
