@@ -1,5 +1,13 @@
 # dev
 
+
+## Text Selection in servo
+
+https://github.com/servo/servo/issues/4409
+
+## HTML5 forms in servo
+
+
 ./mach run ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html -- --debug trace-layout
 ./mach run --debugger --devtools=6080 ./tests/wpt/tests/css/css-tables/border-collapse-dynamic-section.html -- --debug dump-display-list
 

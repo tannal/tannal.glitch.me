@@ -584,6 +584,8 @@ apply intern
 
 ## Doing
 
+[] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
+
 [x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107 
 
 html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox radio breaking

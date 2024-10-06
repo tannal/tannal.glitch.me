@@ -1,3 +1,92 @@
+# 2024-10-5
+
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Layout Overview — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/LayoutOverview.html
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+nsGenericHTMLElement.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/7e0ae4372c52b8183d1178132dd6493edb576738/dom/html/nsGenericHTMLElement.cpp#1399-1403
+
+HTMLTableElement.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/7e0ae4372c52b8183d1178132dd6493edb576738/dom/html/HTMLTableElement.cpp#860-869
+
+table align test
+https://bug1922163.bmoattachments.org/attachment.cgi?id=9428691
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#210
+
+研究報告16　カーボン・ナノチューブ・フライホイール
+https://www.madnoda.jp/oldpage/space/mlab16.xml
+
+392994 - Remove support for <input usemap> and <object usemap>
+https://bugzilla.mozilla.org/show_bug.cgi?id=392994
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+Pull requests · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pulls?q=is%3Apr+baseline+is%3Aclosed
+
+[Gecko Bug 1917771] Use bottom of border box as the range frame's baseline. by moz-wptsync-bot · Pull Request #48405 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/48405
+
+[Gecko Bug 1909417] Position mprescripts at per MathML Core. by moz-wptsync-bot · Pull Request #48376 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/48376
+
+web-platform-tests dashboard
+https://wpt.fyi/results/?label=master&label=experimental&aligned&q=html%2Frendering%2Fwidgets%2Fbaseline-alignment-and-overflow.tentative.html
+
+(250) #general > Intrinsic sizing in Layout2020 - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Intrinsic.20sizing.20in.20Layout2020
+
+text selection overlap - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=text+selection+overlap
+
+(249) #general > Facilitating file downloads on the embedder side - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Facilitating.20file.20downloads.20on.20the.20embedder.20side
+
+Issue search results
+https://github.com/search?q=org%3Aservo+text+selection&type=issues
+
+Support selecting DOM elements via the mouse · Issue #4409 · servo/servo
+https://github.com/servo/servo/issues/4409
+
+Highlight text selection · Issue #9993 · servo/servo
+https://github.com/servo/servo/issues/9993
+
+Implement DOM selections · Issue #7492 · servo/servo
+https://github.com/servo/servo/issues/7492
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889#issuecomment-2078048252
+
+HTML: widgets' baseline alignment and interaction with 'overflow'
+http://localhost:8000/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
 # 2024-10-4
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
