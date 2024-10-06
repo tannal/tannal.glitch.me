@@ -1,6 +1,7 @@
 
 # 2024-10-5 0 | 0
 
+sudo sysctl -w fs.inotify.max_user_watches=131072
 
 Type about:config in the browser address bar.
 Set devtools.inspector.showUserAgentShadowRoots to true // not needed for Firefox 76+

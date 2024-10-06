@@ -3,6 +3,84 @@
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r=emilio
+https://phabricator.services.mozilla.com/D223107
+
+dvirtz/modern-cpp: Slides for a course on Modern C++
+https://github.com/dvirtz/modern-cpp
+
+reveal-md
+https://dvirtz.github.io/modern-cpp/#/1/1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Sutter’s Mill – Herb Sutter on software development
+https://herbsutter.com/
+
+Sutter’s Mill – Herb Sutter on software development
+https://herbsutter.com/
+
+tannal
+https://tannal.github.io/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Bug 1917771 - Use bottom of border box as the range frame's baseline.… · mozilla/gecko-dev@829f7c5
+https://github.com/mozilla/gecko-dev/commit/829f7c5a917be10bd5fd6efe3a354dd3d06d5fd1
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+HTML: Add a tentative test for input element's baseline alignment by zcorpan · Pull Request #20306 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/20306/files
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889#issue-2262046512
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889
+
+[layout] Fix synthesis of inline baselines. (5479489) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5479489
+
+New Issue · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/new
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+zcorpan (Simon Pieters)
+https://github.com/zcorpan
+
+The HTML syntax - Idiosyncrasies of the HTML parser
+https://htmlparser.info/syntax/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917602 - CSS zoom property is animatable contrary to what spec says
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917602
+
+[css-viewport] Is zoom supposed to be non animatable? · Issue #10872 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10872
+
+Element [10] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org/$f7g3kYOPjuTYETjKjmKWfk46k3KvnFXzBMa_ZaZVDVY
+
+"appearance" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=appearance
+
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

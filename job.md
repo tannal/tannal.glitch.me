@@ -588,6 +588,9 @@ apply intern
 
 [x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107 
 
+https://chromium-review.googlesource.com/c/chromium/src/+/5479489
+https://github.com/whatwg/html/issues/5065
+
 html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox radio breaking
 
 [] 
