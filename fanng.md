@@ -6,6 +6,72 @@
 
 京东零售、京东物流
 
+# Oracle
+
+Oracle：全球领先的企业软件和数据库管理系统供应商。
+TikTok：短视频社交平台。
+Sun Microsystems：曾是主要的计算机硬件和软件供应商，以Java编程语言闻名。
+Dyn：互联网性能和DNS提供商。
+Involver：社交媒体营销平台。
+Ksplice：提供无需重启的Linux内核更新技术。
+BEA Systems：企业应用和服务导向架构解决方案提供商。
+Eloqua：营销自动化软件公司。
+Endeca：企业搜索和商业智能软件公司。
+NetSuite：云计算和企业资源规划(ERP)软件公司。
+Datascience.com：机器学习平台。
+Wercker：开发者工具初创公司，专注于容器化和微服务。
+EMC：数据存储、信息安全和云计算公司（虽然被提及，但实际上被Dell收购）。
+Nimbula：云计算软件公司。
+Xsigo Systems：网络虚拟化公司。
+Grapeshot：上下文智能和品牌安全技术公司。
+Iron.io：企业级任务处理系统提供商。
+Opower：云软件公司，专注于能源行业。
+Datalogix：数据管理公司。
+Bitzer Mobile：企业移动安全初创公司。
+Compendium：内容营销平台。
+Acme Packet：会话边界控制器制造商。
+这些收购反映了Oracle的几个战略方向：
+
+加强云计算能力（如NetSuite、Nimbula）。
+扩展数据管理和分析能力（如Datalogix、Grapeshot）。
+增强企业软件产品线（如BEA Systems、Eloqua）。
+拓展新兴技术领域，如社交媒体、移动安全和机器学习。
+巩固在硬件和系统软件领域的地位（如Sun Microsystems）。
+Oracle的这些收购显示了公司正在努力扩展其产品和服务范围，从传统的数据库和企业软件公司转向更全面的技术解决方案提供商。特别是收购Sun Microsystems是Oracle历史上最大的收购之一，极大地扩展了公司的硬件和软件能力。
+
+这些收购也反映了科技行业的整合趋势，以及大型公司通过收购来获取新技术、扩大市场份额和多元化业务的策略。
+
+Oracle chosen to acquire TikTok US
+Oracle Agrees to Acquire Sun Microsystems for $7.4B
+Oracle acquires Dyn
+Oracle is in talks to acquire TikTok’s U.S. operations, sources say
+Oracle Acquires Involver
+Oracle has acquired Ksplice
+Oracle to Acquire BEA Systems
+Oracle Acquires Eloqua for $810M
+Oracle Acquires Ksplice to end server reboots
+Oracle Acquires Endeca
+Another sad day: Oracle acquires Ksplice
+Oracle acquires NetSuite for $9.3B
+Oracle and Walmart to Acquire 20% Stake in TikTok, Trump Gives His ‘Blessing’
+Oracle acquires machine learning platform Datascience.com
+Developer tools startup Wercker has been acquired by Oracle
+3 reasons Oracle should acquire EMC
+Oracle Acquires Sequoia-backed Nimbula
+Oracle Acquires Eloqua: A Do-Over For The Era Of Digital Disruption
+Oracle Acquires Virtual Networking Concern Xsigo Systems
+Endeca acquired by Oracle
+Oracle Acquires Ksplice; Drops Support For Red Hat, SUSE, Ubuntu & Others
+Oracle acquires Grapeshot
+Iron.io acquired by Xenon; founders join Oracle
+Oracle acquires Opower in $532M deal
+Oracle to Acquire BEA Systems
+Oracle Acquires Datalogix
+Oracle Quietly Acquires Enterprise Security Startup Bitzer Mobile
+Bitzer Mobile gets acquired by Oracle
+Oracle Acquires Content Marketing Platform Compendium
+On Delphi and Looney Toons: Oracle Acquires Acme Packet
+
 # IBM
 
 IBM (International Business Machines)：跨国科技公司，提供硬件、软件、云服务和人工智能解决方案。
