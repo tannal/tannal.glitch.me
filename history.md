@@ -1,3 +1,98 @@
+# 2024-10-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+392994 - Remove support for <input usemap> and <object usemap>
+https://bugzilla.mozilla.org/show_bug.cgi?id=392994
+
+flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+https://github.com/flutter/flutter
+
+Pull request search results
+https://github.com/search?q=author%3Ahixie&type=pullrequests&p=2
+
+Fix slash to focus search after package:web migration by parlough · Pull Request #3810 · dart-lang/dartdoc
+https://github.com/dart-lang/dartdoc/pull/3810/files#diff-389218715db21eae82edc77d255cd5fdcbab37f3a3d482b84aa82c75a9f9d52e
+
+flutter repositories
+https://github.com/orgs/flutter/repositories
+
+cold play - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cold+play
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Request Data with Futures - Cross-Platform Mobile Apps with Flutter | Frontend Masters
+https://frontendmasters.com/courses/flutter/request-data-with-futures/
+
+Current tasks · Flutter app
+https://github.com/orgs/zulip/projects/5/views/1
+
+(1096) #mobile-dev-help > Figma design - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/516-mobile-dev-help/topic/Figma.20design
+
+Zulip Mobile – Figma
+https://www.figma.com/design/1JTNtYo9memgW7vV6d0ygq/Zulip-Mobile?node-id=2854-3988&node-type=canvas
+
+Missing apt dependencies · Issue #8930 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/8930
+
+dnf dependencies in `script/linux` seem to be missing c++ · Issue #8622 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/8622
+
+(1254) #xilem > Imperative Actions in Xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Imperative.20Actions.20in.20Xilem
+
+Masonry: An imperative widget toolkit in Rust - Google 幻灯片
+https://docs.google.com/presentation/d/1T-0Kr5V3Zm5Mm_sHKBFE474MIkeLEEMHXaHnNh61LEM/edit#slide=id.g30845df444c_0_185
+
+(20) Cracking the 4D Rubik's Cube with simple 3D tricks - YouTube
+https://www.youtube.com/watch?v=yhPH1369OWc&t=50s
+
+DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU
+https://github.com/DioxusLabs/blitz
+
+(13) Discord | #contributing | Rolldown
+https://discord.com/channels/1171783886200643635/1172053132621135942
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Optimize performance of get_events · Issue #13917 · zulip/zulip
+https://github.com/zulip/zulip/issues/13917
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=adobe%20acquire&sort=byPopularity&type=story
+
+Photopea - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Photopea
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+photopea github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=photopea+github
+
+photopea (Photopea)
+https://github.com/photopea
+
+Penpot: The Design Tool for Design & Code Collaboration
+https://penpot.app/
+
+github.com penpot - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=github.com+penpot
+
+1. Self-hosting Guide
+https://help.penpot.app/technical-guide/getting-started/#install-with-docker
+
 # 2024-10-5
 
 makepad Analysis - Poe
