@@ -1,7 +1,8 @@
 
 # 2024-10-6 0 | 0
 
-(base) a17@17:~/tannalwork/projects/penpot$ curl -o docker-compose.yaml https://raw.githubusercontent.com/penpot/penpot/main/docker/images/docker-compose.yaml
+
+(base) a17@17:~/tannalwork/projects/penpot$ curl -o docker-compose.yaml
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  9457  100  9457    0     0   9400      0  0:00:01  0:00:01 --:--:--  9409
