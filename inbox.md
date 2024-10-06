@@ -1,4 +1,10 @@
 
+# 2024-10-6 0 | 0
+
+https://github.com/AlexV525?tab=repositories
+
+https://github.com/luckysmg
+
 # 2024-10-5 0 | 0
 
 sudo sysctl -w fs.inotify.max_user_watches=131072

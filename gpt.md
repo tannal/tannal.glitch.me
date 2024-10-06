@@ -1,4 +1,48 @@
+Me: I get it. I worked on Longhorn.
+Coworker: I worked on Itanium.
+Me: Oh. Ouch. Yeah. You win.
 
+(Young tech workers that don't get those reference: be thankful.)
+
+没看懂
+
+
+Claude-3.5-Sonnet
+
+Poe
+这段对话涉及到微软公司历史上两个著名的失败项目,让我来解释一下:
+
+Longhorn:
+这是Windows Vista操作系统的开发代号。Vista的开发过程艰难曲折,历时多年,最终发布时问题众多,被广泛认为是微软的一次重大失败。
+Itanium:
+这是英特尔与惠普联合开发的64位处理器架构。虽然技术先进,但市场接受度很低,最终成为了一个巨大的商业失败。
+对话的含义:
+
+第一个人说他曾参与Longhorn(Vista)项目,暗示经历了一个困难的项目。
+第二个人回应说他曾参与Itanium项目。
+第一个人承认Itanium项目可能更糟糕("You win"意味着"你的经历更糟")。
+最后一句话是对年轻技术工作者说的,意思是:如果你不理解这些引用,你应该感到庆幸,因为这意味着你没有经历过这些令人沮丧的失败项目。
+
+这个对话展示了科技行业老员工之间的一种幽默方式,通过比较谁参与过更糟糕的项目来相互调侃。它反映了科技行业的快速变化和有时候的不可预测性。
+
+
+Go语言（Golang）和Dart都是属于那个时代Google的项目。让我们来探讨一下那个时期Google的一些重要项目：
+
+Go语言（Golang）：2007年开始开发，2009年公开发布。
+Dart：2011年公开宣布，2013年发布第一个稳定版本。
+Flutter：如Hixie所说，是"旧Google"时代最后的项目之一。
+Google Glass：2012年首次公开展示，虽然最终没有成为主流消费产品，但代表了Google在可穿戴设备领域的早期尝试。
+Project Loon：2013年宣布的互联网气球项目，旨在为偏远地区提供互联网接入。
+Google Fiber：2010年宣布的高速互联网服务项目。
+Self-driving cars：后来成为Waymo的自动驾驶汽车项目，始于2009年。
+Google+：虽然最终没有成功，但它是2011年推出的重要社交网络尝试。
+Google Brain：2011年开始的深度学习研究项目，后来成为Google AI的重要组成部分。
+Android Wear（现在的Wear OS）：2014年发布的可穿戴设备操作系统。
+Project Tango：2014年公布的增强现实计算平台，虽然后来被ARCore取代，但是早期AR探索的重要项目。
+Chromebook：2011年推出的基于Chrome OS的笔记本电脑。
+这些项目大多始于2010年左右到2015年之间，反映了当时Google在Larry Page领导下的创新精神和大胆尝试。它们代表了Google在多个领域的探索，从编程语言到操作系统，从硬件到互联网基础设施。
+
+值得注意的是，"旧Google"和"新Google"之间并没有一个明确的分界线。2015年Alphabet的成立可能被视为一个转折点，但文化和项目的转变是逐渐发生的。Flutter作为这个时期的后期项目，既继承了旧Google的创新精神，又反映了公司逐渐变化的管理方式。
 
 模型参数作为主要状态：
 在GPT-2中，主要的状态是模型的参数（weights和biases）。

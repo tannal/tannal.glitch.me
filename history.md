@@ -1,5 +1,134 @@
 # 2024-10-5
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+下载您的文件 — Convertio
+https://convertio.co/zh/download/92ffae6372c8da06b774dfbd7ce391ac8d3b5a/
+
+Little Dorrit 中国 - Google 搜索
+https://www.google.com.hk/search?q=Little+Dorrit+%E4%B8%AD%E5%9B%BD&rlz=1C1GCEA_enCN1091CN1091&oq=Little+Dorrit+%E4%B8%AD%E5%9B%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgoIAxAAGIAEGKIE0gEIMzg2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(207) 【Piano Cover】周杰倫51首歌曲大串燒 / JayChouMedley｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=DjvGNVadEcI
+
+连接JTAG调试器到树莓派 - Google 搜索
+https://www.google.com.hk/search?q=%E8%BF%9E%E6%8E%A5JTAG%E8%B0%83%E8%AF%95%E5%99%A8%E5%88%B0%E6%A0%91%E8%8E%93%E6%B4%BE&rlz=1C1GCEA_enCN1091CN1091&oq=%E8%BF%9E%E6%8E%A5JTAG%E8%B0%83%E8%AF%95%E5%99%A8%E5%88%B0%E6%A0%91%E8%8E%93%E6%B4%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Home
+https://sagiriwiki.web.app/
+
+(5) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+Re: A new spinlock for multicore (>16) platform - Bagas Sanjaya
+https://lore.kernel.org/lkml/ZptiivWvB97Nhyw2@archie.me/
+
+万物蓝图 看晶片设计巨人安谋的崛起与未来 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%87%E7%89%A9%E8%93%9D%E5%9B%BE+%E7%9C%8B%E6%99%B6%E7%89%87%E8%AE%BE%E8%AE%A1%E5%B7%A8%E4%BA%BA%E5%AE%89%E8%B0%8B%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E6%9C%AA%E6%9D%A5&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%87%E7%89%A9%E8%93%9D%E5%9B%BE+&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyBwgFEAAYgAQyCggGEAAYgAQYogQyCggHEAAYgAQYogTSAQg2ODYxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+A股 bbc - Google 搜索
+https://www.google.com.hk/search?q=A%E8%82%A1+bbc&rlz=1C1GCEA_enCN1091CN1091&oq=A%E8%82%A1+bbc+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgHGB4yCAgCEAAYBxgeMggIAxAAGAcYHjIICAQQABgHGB4yCAgFEAAYBxgeMgoIBhAAGAcYDxgeMgoIBxAAGAcYCBgeMgoICBAAGAcYCBgeMgoICRAAGAcYCBge0gEJMTg3MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中国央行宣布重大经济提振措施 北京民众怎么看？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69376103
+
+“消费降级”和“中产返贫”：中国疫情后经济复苏乏力下的现象 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69122821
+
+中共二十届三中全会：300多项改革出台 2029年中国人的生活将是什么样？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69217074
+
+x.com/mraleph
+https://x.com/mraleph
+
+(2) Andrej Karpathy (@karpathy) / X
+https://x.com/karpathy/
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+(2) Kodeco - The New RayWenderlich.com (Siterip Collection 2023) - TutFlix - Free Education Community - Updates
+https://tutflix.org/resources/kodeco-the-new-raywenderlich-com-siterip-collection-2023.775/updates#resource-update-11512
+
+(2) Kodeco - The New RayWenderlich.com (Siterip Collection 2023) - TutFlix - Free Education Community
+https://tutflix.org/resources/kodeco-the-new-raywenderlich-com-siterip-collection-2023.775/
+
+Android & Kotlin
+https://rentry.org/ivzcm
+
+科学漫聊 - Google 搜索
+https://www.google.com.hk/search?q=%E7%A7%91%E5%AD%A6%E6%BC%AB%E8%81%8A&newwindow=1&sca_esv=36a5aede6ef96498&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKZh4_0j9woR8U9L_QTjvCOUIGxuQ%3A1728049499222&ei=W_H_ZvGmDfyT0PEP5ZKzoAI&oq=%E7%A7%91%E5%AD%A6%E6%BC%AB%E6%B8%B8+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFOenkeWtpua8q-a4uCB5b3V0dWJlKgIIADILEAAYgAQYsAMYogQyCxAAGLADGKIEGIkFMgsQABiABBiwAxiiBEjR-wRQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAaACDpgDAIgGAZAGA5IHATGgBwA&sclient=gws-wiz-serp
+
+科学漫聊的个人空间-科学漫聊个人主页-哔哩哔哩视频
+https://space.bilibili.com/192063031/search/video?keyword=%E4%BA%92%E8%81%94%E7%BD%91
+
+(2) Tim Sneath (@timsneath) / X
+https://x.com/timsneath
+
+Hixie twitter - Google 搜索
+https://www.google.com.hk/search?q=Hixie+twitter&rlz=1C1GCEA_enCN1091CN1091&oq=Hixie+twitter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(2) Ian Hickson on X: "my new mission in life is to replace "scientifically proven" with "scientifically demonstrated a 95% chance of being better than placebo in a double-blind controlled trial wait what no we didn't do that sorry" (this mission will be short-lived i expect)" / X
+https://x.com/Hixie/status/1697009207256768965
+
+(2) kevmoo (@kevmoo) / X
+https://x.com/kevmoo
+
+Support compiling to wasm in `build_web_compilers` (#3727) · dart-lang/build@1b33ba9
+https://github.com/dart-lang/build/commit/1b33ba9ce294e574513db993fa3beeb5962671b8
+
+Kevin Moore - Google Product Manager for Flutter and Dart
+https://j832-com--wasm-check-wzo4ep4u.web.app/
+
+DRE - China | Flutter
+https://docs.flutter.dev/jobs/dre-china
+
+Flutter: 为所有屏幕创造精彩 - Flutter 中文开发者网站 - Flutter
+https://flutter.cn/
+
+DRE - China | Flutter 中文文档 - Flutter 中文开发者网站 - Flutter
+https://docs.flutter.cn/jobs/dre-china
+
+Flutter and Dart team job openings
+https://docs.google.com/forms/d/e/1FAIpQLSdVwTL9-fS9fHNCEPW94neDrMEqifLNuhkoeFPynMfRwEjJXw/viewform
+
+kevmoo.com/web/index.html at main · kevmoo/kevmoo.com
+https://github.com/kevmoo/kevmoo.com/blob/main/web/index.html
+
+Kevin Moore - Google Product Manager for Flutter and Dart
+https://kevmoo.com/
+
+Schedule
+https://china2024.gosim.org/schedule
+
+Google contractor - Google 搜索
+https://www.google.com.hk/search?q=Google+contractor&newwindow=1&sca_esv=ea8ec6ff162e6cfb&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILauvalXwU2f7rEz124x5GTtA0ovg:1728188601609&ei=uRACZ4f3JIfCkPIP1qanqQ8&start=10&sa=N&sstk=Aagrsuj9q0hY5VzlDw8PaNlgXBStCF_oedVNSlLxSlCuzvO8WHzjELTA13Gna0JWgy2xoPYrh5Bj_dedyamLUknxsedXoE3badv0FA&ved=2ahUKEwjHt9Cd9PiIAxUHIUQIHVbTKfUQ8tMDegQIBBAE&biw=1422&bih=659&dpr=1.35
+
+Google contractors don’t enjoy the same work-from-home privileges as Google employees : r/technology
+https://www.reddit.com/r/technology/comments/v0wk6y/google_contractors_dont_enjoy_the_same/
+
+讲讲大厂不卷不毒不oncall，稳定且有技术深度而且收入也不错的部门|一亩三分地职场达人版
+https://www.1point3acres.com/bbs/thread-1090026-1-1.html
+
+谷歌北京外包 - Google 搜索
+https://www.google.com.hk/search?q=%E8%B0%B7%E6%AD%8C%E5%8C%97%E4%BA%AC%E5%A4%96%E5%8C%85&newwindow=1&sca_esv=ea8ec6ff162e6cfb&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJrkxfV6ZBcd0zP6nlG2OzC3OyHmw:1728188515247&ei=YxACZ73YDubHkPIPpJifmAI&start=10&sa=N&sstk=AagrsugkQnRZ3am2EVMHyPOzZk9dIIRK4eSioxsg-i4pGLSQSWjuSpWNiBQU1HKp4xiOs6Mb3tl69Ej9s9QJfJ5BEE6-eOO4Iy3vTA&ved=2ahUKEwj9lbn08_iIAxXmI0QIHSTMByMQ8tMDegQIBRAE&biw=1422&bih=659&dpr=1.35
+
+google flutter 解散 - Google 搜索
+https://www.google.com.hk/search?q=google+flutter+%E8%A7%A3%E6%95%A3&rlz=1C1GCEA_enCN1091CN1091&oq=google+flutter+&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyDAgAEEUYORiABBiiBDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg9MgYIBxBFGDzSAQkxMTY3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Flutter：听说你最近到处和人说我解散了？_flutter团队解散-CSDN博客
+https://blog.csdn.net/ZuoYueLiang/article/details/138308010
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
