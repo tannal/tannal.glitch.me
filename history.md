@@ -1,3 +1,83 @@
+# 2024-10-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Matrix.org - Cinny
+https://matrix.org/ecosystem/clients/cinny/
+
+Matrix.org - Nheko
+https://matrix.org/ecosystem/clients/nheko/
+
+cinnyapp/cinny: Yet another matrix client
+https://github.com/cinnyapp/cinny
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+arm education youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm+education++youtube
+
+asianometry - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=asianometry
+
+(21) 为什么日本的软体业这么弱？ - YouTube
+https://www.youtube.com/watch?v=ky1nGQhHTso&t=581s
+
+wokwi youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wokwi+youtube
+
+(21) Building a custom I2C chip for Wokwi simulation - PCF8575 [full walkthrough] - YouTube
+https://www.youtube.com/watch?v=BS_uTqz3zik
+
+pcf8575 - Wokwi ESP32, STM32, Arduino Simulator
+https://wokwi.com/projects/374157774982675457
+
+Wokwi – Simulate IoT Projects in the Browser | Hacker News
+https://news.ycombinator.com/item?id=38979792
+
+396: Untangle the Mess — Embedded
+https://embedded.fm/episodes/396
+
+(21) Custom Chips: Test any digital circuit in your browser with Wokwi - YouTube
+https://www.youtube.com/watch?v=yzdCS3A4DvU
+
+(21) 2678x Faster with CUDA C: Simple Matrix Multiplication on a GPU | Episode 1: Introduction to GPGPU - YouTube
+https://www.youtube.com/watch?v=oQT7IC0x254
+
+CUDA-C/01_vector_addition at master · tgautam03/CUDA-C
+https://github.com/tgautam03/CUDA-C/tree/master/01_vector_addition
+
+tgautam03/0Mean1Sigma: Animation Code Repository
+https://github.com/tgautam03/0Mean1Sigma/tree/master
+
+TinyGo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=TinyGo
+
+tinygo-org/tinygo: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+https://github.com/tinygo-org/tinygo
+
+TinyGo使用的详细指南[ Auth0 Docs 在几分钟内实施认证](https://auth0.com/docs) - 掘金
+https://juejin.cn/post/7112606521598410783
+
+吴欣 的个人主页 - 文章 - 掘金
+https://juejin.cn/user/2031553215734488/posts
+
+Repository search results
+https://github.com/search?q=element+language%3Adart&type=repositories&s=updated&o=desc
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+刀马旦-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=16462907&keyword=%E5%88%80%E9%A9%AC%E6%97%A6&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+
+【4K修复】李玟 - 刀马旦(Feat.周杰伦) 官方MV 宇宙级修复_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Sb4y127TZ/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 # 2024-10-6
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
