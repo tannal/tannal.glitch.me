@@ -576,17 +576,32 @@ apply
 
 # 2024-10-6 - 2024-10-13
 
+[] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
+
 [x] wpt test for input vertical align
 
+[] yundong fuwocheng
+[] yundong fuwocheng
+[] yundong fuwocheng
+
+
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+
+[] Be a pianist play piano
+[] Be a pianist play piano
+[] Be a pianist play piano
+
+
 [] 10-7 23 PM GS2024
+[x] 2024-10-9 linebender office hour 23:00
 [] 10-10 10:00 PM
 [] 10-11 find a monitor and wire to raspi then boot an os
 
 # 2024-9-29 - 2024-10-6
 
 ## Doing
-
-[] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
 
 [x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107 
 
@@ -595,17 +610,13 @@ https://github.com/whatwg/html/issues/5065
 
 html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox radio breaking
 
-[] 
 
 [x] qemu boot circle programs without os, and draw a manblet
 
 [] build a AI which remeber all the users thought context and then make human connections
 
-[] Be good at solving puzzles for code interview
-
 [] build a database systems around github api (issues)
 
-[] Be a pianist play piano
 [] Be a song writer write songs 
 [] Yong bendi damoxing zuo ge ren fanyi, yuyinshishifanyi
 
@@ -613,8 +624,6 @@ html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox r
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 
 [x] review https://android-review.googlesource.com/c/platform/art/+/3284463
-
-[] implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 ## Exploring
 
