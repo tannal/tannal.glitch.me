@@ -1,3 +1,31 @@
+
+# seol
+
+https://codeforces.com/profile/Karuna
+
+# university of tokio
+
+https://codeforces.com/profile/YoshikaMiyafuji
+https://codeforces.com/profile/noimi
+https://codeforces.com/profile/SSRS_
+
+# National singapore
+
+https://codeforces.com/profile/user202729_
+https://codeforces.com/profile/nvmdava
+https://codeforces.com/profile/rama_pang
+
+# kaist
+
+https://codeforces.com/profile/est_stella
+https://codeforces.com/profile/Worteltje
+https://codeforces.com/submissions/mo_onrabbit2
+
+# tokio 
+
+https://codeforces.com/profile/potato167
+https://codeforces.com/profile/noshi91
+
 # tinghua
 
 https://codeforces.com/profile/qazswedx2
