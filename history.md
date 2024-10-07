@@ -1,5 +1,56 @@
 # 2024-10-7
 
+prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+[TablesNG] Update DCHECK condition in LayoutTable::AddChild (5896813) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=%E4%B8%80%E5%92%8C%E9%9B%B6
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=basic
+
+227. 基本计算器 II - 力扣（LeetCode）
+https://leetcode.cn/problems/basic-calculator-ii/
+
+算法讲解067【必备】从递归入手二维动态规划_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1WQ4y1W7d1/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+左程云的个人空间-左程云个人主页-哔哩哔哩视频
+https://space.bilibili.com/8888480/channel/seriesdetail?sid=3509640
+
+算法讲解039【必备】嵌套类问题的递归解题套路_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1JP411p7KG/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=docs.google.com&sort=byPopularity&type=story
+
+Top Leetcode questions of All Time - most important.xlsx - Google 云端硬盘
+https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/htmlview?pru=AAABhNyw9e0*AzMxD8yFMsV1cIbl2aybMQ
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+ChatGGG
+http://192.168.43.1:8080/
+
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
