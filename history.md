@@ -1,5 +1,206 @@
 # 2024-10-7
 
+prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Personal submissions - Codeforces
+https://codeforces.com/submissions/Pechalka
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r?emilio
+https://phabricator.services.mozilla.com/D223107
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+[Gecko Bug 1917771] Use bottom of border box as the range frame's baseline. by moz-wptsync-bot · Pull Request #48405 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/48405
+
+首批演讲嘉宾官宣！GOSIM CHINA 2024 十月等你来！-CSDN博客
+https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/142488192
+
+(240) #general > SVG support - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/SVG.20support
+
+(1261) #xilem > Scrolling is insanely laggy - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Scrolling.20is.20insanely.20laggy
+
+Office Hours 2024-10-10 - Google 文档
+https://docs.google.com/document/d/1yaXYN-HeRVAffUv6nl5mynbM1uDNiV4lQw1StB3PjE8/edit
+
+(20) 3Blue1Brown - YouTube
+https://www.youtube.com/@3blue1brown/videos
+
+(1647) #general > Running WasmTime components in an async context - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Running.20WasmTime.20components.20in.20an.20async.20context
+
+Improve error messages · Issue #9293 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/9293
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=tech%20layoff&sort=byPopularity&type=story
+
+Home
+https://sagiriwiki.web.app/
+
+X 上的 Tim Sneath：“It's a tough week to be working on #Flutter, so I want to pay homage to some of the amazing engineers, product managers, UX researchers, and developer advocates who work on it. 🧵” / X
+https://x.com/timsneath/status/1727852099407622163?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1727852099407622163%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=
+
+Ian "Hixie" Hickson leaves Google, still working on Flutter : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/181eupr/ian_hixie_hickson_leaves_google_still_working_on/?utm_source=embedv2&utm_medium=post_embed&utm_content=post_title
+
+embed tweets in blog - Google 搜索
+https://www.google.com.hk/search?q=embed+tweets+in+blog&newwindow=1&sca_esv=374226fec0fbeed9&rlz=1C1GCEA_enJP1090JP1090&ei=LbIAZ7ubN_PLkPIP3b6zmQ8&ved=0ahUKEwj75bP2pfaIAxXzJUQIHV3fLPMQ4dUDCA8&uact=5&oq=embed+tweets+in+blog&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGVtYmVkIHR3ZWV0cyBpbiBibG9nMgoQABgFGAoYHhgPMggQABiABBiiBEi1U1DHDljQUnABeAGQAQCYAfQCoAHQG6oBBTItMy44uAEDyAEA-AEBmAILoAL7GMICChAAGLADGNYEGEfCAgUQABiABMICBxAAGIAEGAzCAgoQABiABBhDGIoFwgIEEAAYHsICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGB4YD5gDAIgGAZAGCpIHBzEuMC4yLjigB4Id&sclient=gws-wiz-serp
+
+Pull request search results
+https://github.com/search?q=org%3Aflarum+twitter&type=pullrequests
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=my%20new%20mission%20in%20life%20is%20to%20replace%20%22scientifically%20proven%22%20with%20%22scientifically%20demonstrated%20a%2095%25%20chance%20of%20being%20better%20than%20placebo%20in%20a%20double-blind%20controlled%20trial%20wait%20what%20no%20we%20didn%27t%20do%20that%20sorry%22%0A(this%20mission%20will%20be%20short-lived%20i%20expect)&op=translate
+
+Issues · bytecodealliance/wit-bindgen
+https://github.com/bytecodealliance/wit-bindgen/issues
+
+Add basic u flag tests in v flag tests. by tannal · Pull Request #4241 · tc39/test262
+https://github.com/tc39/test262/pull/4241/files
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+频道内容 - YouTube Studio
+https://studio.youtube.com/channel/UCnSWJKq0Q58DAJCkHWXtRrg/videos/live?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
+
+(20) I Interviewed Uncle Bob - YouTube
+https://www.youtube.com/watch?v=UBXXw2JSloo
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+求人情報を検索 - Google 人材募集
+https://www.google.com/about/careers/applications/jobs/results/
+
+Flutter - Build apps for any screen
+https://flutter.dev/
+
+kotlin multiple platform - Google 搜索
+https://www.google.com.hk/search?q=kotlin+multiple+platform&rlz=1C1GCEA_enJP1090JP1090&oq=kotlin+multiple&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQwNjRqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
+
+Kotlin 多平台概览  |  Android Developers
+https://developer.android.com/kotlin/multiplatform?hl=zh-cn
+
+android/kotlin-multiplatform-samples: Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
+https://github.com/android/kotlin-multiplatform-samples
+
+Open SWE role | Flutter
+https://docs.flutter.dev/jobs/swe_iii
+
+developer relationship engineer meta react native china - Google 搜索
+https://www.google.com.hk/search?q=developer+relationship+engineer+meta+react+native+china&newwindow=1&sca_esv=14445ac05b47c3ed&rlz=1C1GCEA_enJP1090JP1090&ei=0xYCZ7u3FOj1kPIP-qvmgAo&ved=0ahUKEwj77KiG-viIAxXoOkQIHfqVGaAQ4dUDCA8&uact=5&oq=developer+relationship+engineer+meta+react+native+china&gs_lp=Egxnd3Mtd2l6LXNlcnAiN2RldmVsb3BlciByZWxhdGlvbnNoaXAgZW5naW5lZXIgbWV0YSByZWFjdCBuYXRpdmUgY2hpbmEyBRAhGKABMgUQIRigATIFECEYoAFIvCFQ_ARY0iBwAHgCkAEAmAGaBKAByzmqAQoyLTkuMTEuMS4xuAEDyAEA-AEBmAIXoAL2OcICBBAAGEfCAgcQIRigARgKwgIIEAAYgAQYogSYAwCIBgGQBgqSBwoxLjAuOS4xMS4yoAfySQ&sclient=gws-wiz-serp
+
+himalayas.app
+https://himalayas.app/companies/meta/jobs/developer-advocate-3943293439
+
+Mexico City, Mexico - Google 搜索
+https://www.google.com.hk/search?q=Mexico+City%2C+Mexico&rlz=1C1GCEA_enJP1090JP1090&oq=Mexico+City%2C+Mexico&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAuGIAEMgcIAhAAGIAEMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhBFGDwyBggHEEUYPNIBBzMwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(21) 【Piano Cover】Jay Chou 周杰倫 - 蒲公英的約定｜高還原鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=rl2tRoxObnM&list=RDMM34HiPFOpQ_M&index=5
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+Issue search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+wasmtime&type=issues
+
+Takayuki Kosaka acm book - Google 搜索
+https://www.google.com.hk/search?q=Takayuki+Kosaka+acm+book&newwindow=1&sca_esv=4ff4415d42662cf1&rlz=1C1GCEA_enJP1090JP1090&ei=7UQDZ8HWEtPQkPIP79ao-AY&ved=0ahUKEwiBgfiTmvuIAxVTKEQIHW8rCm8Q4dUDCA8&uact=5&oq=Takayuki+Kosaka+acm+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiGFRha2F5dWtpIEtvc2FrYSBhY20gYm9vazIFECEYoAEyBRAhGKABMgUQIRigAUjoElDrCFjJD3ABeACQAQCYAfkCoAH4DqoBBTItMi40uAEDyAEA-AEBmAICoAKMBZgDAIgGAZIHAzMtMqAHzgc&sclient=gws-wiz-serp
+
+Takayuki Kosaka acm - Google 搜索
+https://www.google.com.hk/search?q=Takayuki+Kosaka+acm&newwindow=1&sca_esv=4ff4415d42662cf1&rlz=1C1GCEA_enJP1090JP1090&ei=NWcCZ7XkKvGlkPIPnZmK0Ag&ved=0ahUKEwj10uzaxvmIAxXxEkQIHZ2MAooQ4dUDCA8&uact=5&oq=Takayuki+Kosaka+acm&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1Rha2F5dWtpIEtvc2FrYSBhY21I-whQAFgAcAF4AJABAJgBAKABAKoBALgBA8gBAJgCAKACAJgDAIgGAZIHAKAHAA&sclient=gws-wiz-serp
+
+果糖水果和蔗糖水果 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9E%9C%E7%B3%96%E6%B0%B4%E6%9E%9C%E5%92%8C%E8%94%97%E7%B3%96%E6%B0%B4%E6%9E%9C&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%9E%9C%E7%B3%96%E6%B0%B4%E6%9E%9C%E5%92%8C%E8%94%97%E7%B3%96%E6%B0%B4%E6%9E%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDk4OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+acm icpc world finals - Google 搜索
+https://www.google.com.hk/search?q=acm+icpc+world+finals&rlz=1C1GCEA_enJP1090JP1090&oq=ACM+ICPC+world+&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg2OTQxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(21) [EN] 2024 ICPC World Finals Astana - YouTube
+https://www.youtube.com/watch?v=bfOaKd6DYVk
+
+The ICPC International Collegiate Programming Contest
+https://icpc.global/worldfinals/results
+
+ICPC World Finals Astana
+https://worldfinals.icpc.global/
+
+acm icpc history - Google 搜索
+https://www.google.com.hk/search?q=acm+icpc+history&newwindow=1&sca_esv=911310f7fbac1324&rlz=1C1GCEA_enJP1090JP1090&ei=e0gDZ8ioMYu7kPIPxO6AqQI&ved=0ahUKEwiI0ozGnfuIAxWLHUQIHUQ3ICUQ4dUDCA8&uact=5&oq=acm+icpc+history&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGFjbSBpY3BjIGhpc3RvcnkyBxAhGKABGAoyBxAhGKABGApIiClQygZYySdwAXgBkAEAmAHJAqAByBqqAQUyLTkuM7gBA8gBAPgBAZgCDaAC6RrCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIHEC4YgAQYDMICEBAuGIAEGNEDGEMYxwEYigXCAgcQABiABBgMwgIJEAAYgAQYChgMwgIQEC4YgAQYQxjHARiKBRivAcICBxAAGIAEGBPCAggQABgTGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwcxLjAuOS4zoAeLIw&sclient=gws-wiz-serp
+
+Standings for ICPC World Finals (all years) - Competitive Programming Hall Of Fame
+https://cphof.org/contest/icpc
+
+Profile of Vsevolod Nagibin - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Vsevolod%20Nagibin
+
+Pechalka - Codeforces
+https://codeforces.com/profile/Pechalka
+
+Profile of Tikhon Evteev - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Tikhon%20Evteev
+
+Profile of Tikhon Evteev - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Tikhon%20Evteev
+
+Tikhon228 - Codeforces
+https://codeforces.com/profile/Tikhon228
+
+Profile of Moscow Institute of Physics and Technology - Competitive Programming Hall Of Fame
+https://cphof.org/university/Moscow%20Institute%20of%20Physics%20and%20Technology
+
+Profile of Denis Mustafin - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Denis%20Mustafin
+
+Kapt - Codeforces
+https://codeforces.com/profile/Kapt
+
+Profile of Xiangwen Wang - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Xiangwen%20Wang
+
+Profile of Anyi Xu - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Anyi%20Xu
+
+Profile of Xiangwen Wang - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Xiangwen%20Wang
+
+LJC00118 - Codeforces
+https://codeforces.com/profile/LJC00118
+
+Profile of Xiangwen Wang - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Xiangwen%20Wang
+
+Profile of Weicheng Wang - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Weicheng%20Wang
+
+Dashboard - Codeforces Round 969 (Div. 1) - Codeforces
+https://codeforces.com/contest/2006
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?q=atcoder&rlz=1C1GCEA_enJP1090JP1090&oq=atcoder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhjHARjRAxiABDIHCAIQABiABDIKCAMQLhjUAhiABDIKCAQQLhjUAhiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgxMTI3ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+xay5421
+https://github.com/xay5421
+
+Tikhon228
+https://github.com/Tikhon228
+
+Power of Two acm 集训队 - Google 搜索
+https://www.google.com.hk/search?q=Power+of+Two+acm+%E9%9B%86%E8%AE%AD%E9%98%9F&newwindow=1&sca_esv=911310f7fbac1324&rlz=1C1GCEA_enJP1090JP1090&ei=aU4DZ5byKvLLkPIPq8iNwQs&ved=0ahUKEwjWyvGZo_uIAxXyJUQIHStkI7gQ4dUDCA8&uact=5&oq=Power+of+Two+acm+%E9%9B%86%E8%AE%AD%E9%98%9F&gs_lp=Egxnd3Mtd2l6LXNlcnAiGlBvd2VyIG9mIFR3byBhY20g6ZuG6K6t6ZifMgUQIRigATIFECEYoAEyBRAhGKABSIAkUOIHWIwjcAF4AZABAJgB8gKgAfsbqgEFMi0yLjm4AQPIAQD4AQGYAgygApYcwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIHEAAYgAQYE8ICBxAuGIAEGBPCAggQABgTGAgYHsICBhAAGBMYHsICCBAAGBMYBRgewgIIEAAYgAQYogSYAwDiAwUSATEgQIgGAZAGCpIHBzEuMC4yLjmgB8se&sclient=gws-wiz-serp
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
