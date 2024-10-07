@@ -1,5 +1,84 @@
 # 2024-10-7
 
+
+cf.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Personal submissions - Codeforces
+https://codeforces.com/submissions/Rebelz/page/3
+
+Standings for ICPC 2024 World Finals - Competitive Programming Hall Of Fame
+https://cphof.org/standings/icpc/2024
+
+Profile of Hyunseo Jeong - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Hyunseo%20Jeong
+
+Karuna - Codeforces
+https://codeforces.com/profile/Karuna
+
+Profile of Kentaro Matsushita - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Kentaro%20Matsushita
+
+noimi - Codeforces
+https://codeforces.com/profile/noimi
+
+Profile of Rama Aryasuta Pangestu - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Rama%20Aryasuta%20Pangestu
+
+rama_pang - Codeforces
+https://codeforces.com/profile/rama_pang
+
+Profile of Sungjae Im - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Sungjae%20Im
+
+est_stella - Codeforces
+https://codeforces.com/profile/est_stella
+
+Personal submissions - Codeforces
+https://codeforces.com/submissions/mo_onrabbit2
+
+Profile of Yasunori Kinoshita - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Yasunori%20Kinoshita
+
+noshi91 - Codeforces
+https://codeforces.com/profile/noshi91
+
+Profile of Kosuke Kaneshita - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Kosuke%20Kaneshita
+
+Profile of Hangrui Zhou - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Hangrui%20Zhou
+
+Profile of Tingqiang Xu - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Tingqiang%20Xu
+
+Problem - B - Codeforces
+https://codeforces.com/gym/105255/problem/B
+
+qazswedx2 - Codeforces
+https://codeforces.com/profile/qazswedx2
+
+hehezhou
+https://github.com/hehezhou
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&rlz=1C1GCEA_enJP1090JP1090&oq=tannal+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQdIBCDExMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+iwi ozy topcoder - Google 搜索
+https://www.google.com.hk/search?q=iwi+ozy+topcoder&rlz=1C1GCEA_enJP1090JP1090&oq=iwi+ozy+topcoder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAwYHjIICAgQABgMGB4yBggJEAAYHtIBCDM0ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[[iwi]] | Community Profile | Topcoder
+https://profiles.topcoder.com/[[iwi]]
+
+ALMO デモページ
+https://www.abap34.com/almo.html
+
+Riku Kishida - Google 搜索
+https://www.google.com.hk/search?q=Riku+Kishida&rlz=1C1GCEA_enJP1090JP1090&oq=Riku+Kishida&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMjY5NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+noshi91 (noshi91) / Repositories
+https://github.com/noshi91?tab=repositories
+
 cf.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
