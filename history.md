@@ -1,5 +1,67 @@
 # 2024-10-7
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+算法讲解069【必备】从递归入手三维动态规划_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1gM41197rM/?spm_id_from=autoNext
+
+算法讲解051【必备】二分答案法与相关题目_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Mh4y1P7qE/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+QEMU · Issue #34 · rsta2/circle
+https://github.com/rsta2/circle/issues/34
+
+Getting started — Circle documentation
+https://circle-rpi.readthedocs.io/en/47.0/getting-started.html#download
+
+Cannot enable KVM when guest CPU has EL3 enabled - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Cannot+enable+KVM+when+guest+CPU+has+EL3+enabled
+
+EL3 breaks qemu-kvm - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=340055
+
+arm: trying to use KVM with an EL3-enabled CPU hits an assertion failure (#528) · Issues · QEMU / QEMU · GitLab
+https://gitlab.com/qemu-project/qemu/-/issues/528
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&newwindow=1&client=ubuntu-sn&sca_esv=5a00d1dd542cba5a&channel=fs&biw=1530&bih=783&ei=o2wDZ8AzsNCQ8g-D7fSQCA&ved=0ahUKEwiAkamDwPuIAxUwKEQIHYM2HYI4HhDh1QMIDw&oq=tannal&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnRhbm5hbEgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQzIAQCYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+474. 一和零 - 力扣（LeetCode）
+https://leetcode.cn/problems/ones-and-zeroes/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=410
+
+410. 分割数组的最大值 - 力扣（LeetCode）
+https://leetcode.cn/problems/split-array-largest-sum/description/
+
+Full Stack Application - Poe
+https://poe.com/chat/3i602rsx7plthcg6quj
+
+二叉树_牛客题霸_牛客网
+https://www.nowcoder.com/practice/aaefe5896cce4204b276e213e725f3ea
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+luajit github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=luajit+github
+
+LuaJIT/LuaJIT: Mirror of the LuaJIT git repository
+https://github.com/LuaJIT/LuaJIT
+
+quickjs github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=quickjs+github
+
+bellard/quickjs: Public repository of the QuickJS Javascript Engine.
+https://github.com/bellard/quickjs
 
 cf.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
