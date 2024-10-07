@@ -1,5 +1,71 @@
 # 2024-10-7
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+⚙ D16366 Bug 1336437: Refactor to hardcode the operator dictionary instead of parsing the mathfont.properties file.
+https://phabricator.services.mozilla.com/D16366
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+React TypeScript Playground Hooks
+https://playcode.io/2005664
+
+datetimebox.js - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/toolkit/content/widgets/datetimebox.js#1175
+
+392994 - Remove support for <input usemap> and <object usemap>
+https://bugzilla.mozilla.org/show_bug.cgi?id=392994
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-07
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(22) Coldplay - Viva La Vida (Budapest 16/06/24) - YouTube
+https://www.youtube.com/watch?v=M-l6d2OFwO0
+
+tannal
+https://tannal.github.io/
+
+so remember me when i'm gone - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=so+rembering+me+when+i%27m+gone#fpr=r
+
+wiz khalifa - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wiz+khalifa
+
+Wiz Khalifa | Official Site and Online Store
+https://wizkhalifa.com/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Browser Toolbox — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+(13) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

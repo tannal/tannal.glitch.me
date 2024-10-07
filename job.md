@@ -563,6 +563,9 @@ apply
 
 # 2024-11-4 - 2024-11-11
 
+[] 11.6 chongwangfei
+
+
 # 2024-10-27 - 2024-11-4
 
 # 2024-10-20 - 2024-10-27
@@ -579,6 +582,10 @@ apply
 [] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
 
 [x] wpt test for input vertical align
+
+[] blog
+[] blog
+[] blog
 
 [] yundong fuwocheng
 [] yundong fuwocheng
@@ -598,6 +605,7 @@ apply
 [x] 2024-10-9 linebender office hour 23:00
 [] 10-10 10:00 PM
 [] 10-11 find a monitor and wire to raspi then boot an os
+[] 10-09 
 
 # 2024-9-29 - 2024-10-6
 
