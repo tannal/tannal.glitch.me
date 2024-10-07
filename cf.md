@@ -1,3 +1,9 @@
+# tinghua
+
+https://codeforces.com/profile/qazswedx2
+https://codeforces.com/profile/hehezhou
+https://codeforces.com/profile/Rebelz
+
 # MIT russian
 
 https://codeforces.com/profile/Pechalka

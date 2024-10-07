@@ -1,5 +1,44 @@
 # 2024-10-7
 
+cf.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Personal submissions - Codeforces
+https://codeforces.com/submissions/Rebelz
+
+Standings for ICPC 2024 World Finals - Competitive Programming Hall Of Fame
+https://cphof.org/standings/icpc/2024
+
+Profile of Kosuke Kaneshita - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Kosuke%20Kaneshita
+
+Profile of Hangrui Zhou - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Hangrui%20Zhou
+
+Profile of Tingqiang Xu - Competitive Programming Hall Of Fame
+https://cphof.org/profile/icpc:Tingqiang%20Xu
+
+Problem - B - Codeforces
+https://codeforces.com/gym/105255/problem/B
+
+qazswedx2 - Codeforces
+https://codeforces.com/profile/qazswedx2
+
+hehezhou - Codeforces
+https://codeforces.com/profile/hehezhou
+
+hehezhou
+https://github.com/hehezhou
+
+tannal - Google 搜索
+https://www.google.com.hk/search?q=tannal&rlz=1C1GCEA_enJP1090JP1090&oq=tannal+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQdIBCDExMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+iwi ozy topcoder - Google 搜索
+https://www.google.com.hk/search?q=iwi+ozy+topcoder&rlz=1C1GCEA_enJP1090JP1090&oq=iwi+ozy+topcoder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAwYHjIICAgQABgMGB4yBggJEAAYHtIBCDM0ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[[iwi]] | Community Profile | Topcoder
+https://profiles.topcoder.com/[[iwi]]
+
 prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
