@@ -1,3 +1,86 @@
+# 2024-10-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+Parser | The JavaScript Oxidation Compiler
+https://oxc.rs/docs/guide/usage/parser.html
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+Nova engine presentation - Google 幻灯片
+https://docs.google.com/presentation/d/1PRinuW2Zbw9c-FGArON3YHiCUP22qIeTpYvDRNbP5vc/edit#slide=id.g2aa77d77c35_0_166
+
+(15) Discord | #virtual-machine | Nova Engine
+https://discord.com/channels/1012084654389604372/1058227385696264302
+
+[WIP] feat(ecmascript): Begin SourceTextModuleRecord and module loading implementation by aapoalas · Pull Request #178 · trynova/nova
+https://github.com/trynova/nova/pull/178/files
+
+oxc-project repositories
+https://github.com/orgs/oxc-project/repositories
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+iOS & Android Development Builds - Intermediate React Native, v2 | Frontend Masters
+https://frontendmasters.com/courses/intermediate-react-native-v2/local-images/
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
+tannal (tannal)
+https://github.com/tannal
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+VoidZero: Building a Unified Toolchain for JavaScript | Hacker News
+https://news.ycombinator.com/item?id=41707856
+
+VoidZero | Next Generation Tooling for the Web
+https://voidzero.dev/
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#%E4%BB%A5%E6%8A%80%E6%9C%AF%E6%9D%A5%E5%88%86
+
+meta/CONTRIBUTING.md at main · whatwg/meta
+https://github.com/whatwg/meta/blob/main/CONTRIBUTING.md
+
+(22) Zed, Vim, And The Problem Of Editors - YouTube
+https://www.youtube.com/watch?v=8XweSqTYdMQ
+
+Thorsten Ball - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Thorsten+Ball+
+
+Thorsten Ball - Talks
+https://thorstenball.com/talks/
+
+Thorsten Ball - Books
+https://thorstenball.com/books/
+
+Thorsten Ball - The Tools I Use To Write Books
+https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/
+
+Thorsten Ball - What I didn't do to write a book
+https://thorstenball.com/blog/2017/01/16/what-i-didnt-do-to-write-a-book/
+
+Commits · zed-industries/zed
+https://github.com/zed-industries/zed/commits?author=mrnugget&since=2024-09-30&until=2024-10-07
+
+(15) Discord | #off-topic | Deno
+https://discord.com/channels/684898665143206084/688040863313428503/1012004649089368197
+
+andreubotella (Andreu Botella)
+https://github.com/andreubotella
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
 # 2024-10-7
 
 prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

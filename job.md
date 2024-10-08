@@ -579,6 +579,8 @@ apply
 
 # 2024-10-6 - 2024-10-13
 
+[] zhibo and cut
+
 [] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
 
 [x] wpt test for input vertical align
