@@ -10,7 +10,7 @@
 
 论文作者介绍，作者现在在做什么，论文精讲，论文后续研究，你有什么后续研究idea
 
-介绍一下这里面的人，主要成果，社交媒体账号，知名于，和哪些人是好朋友，现在在做什么
+c
 
 This is a working code.
 but i need to delete some of it for my students to complete as an assignment.

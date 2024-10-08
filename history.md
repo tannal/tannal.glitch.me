@@ -1,5 +1,101 @@
 # 2024-10-8
 
+prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+kdlp underground 2023 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kdlp+underground+2023
+
+KDLP
+https://kdlp.underground.software/course/spring2023/
+
+(22) [Lecture 16] Spring 2023 - Introduction to Linux Kernel Development - YouTube
+https://www.youtube.com/watch?v=sq7KhGaiAXQ
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i/tree/main
+
+jbang - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jbang
+
+JBang
+https://www.jbang.dev/
+
+jbangdev/jbang: Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
+https://github.com/jbangdev/jbang?tab=readme-ov-file
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+CSS Table in Servo
+http://localhost:1313/p/css-table-in-servo/
+
+linuxdoom github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=linuxdoom+github
+
+id Software
+https://github.com/id-Software
+
+Open jobs | Flutter
+https://docs.flutter.dev/jobs?_gl=1*1eofmcx*_ga*MTkzOTk3NTAyMS4xNzI3NTc3NjQw*_ga_04YGWK0175*MTcyODM3NzQwNy4zLjAuMTcyODM3NzQwNy4wLjAuMA..
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+vivado - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vivado+
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vivado&sort=byPopularity&type=story
+
+jhallen/vivado_setup: How to set up Xilinx Vivado for source control
+https://github.com/jhallen/vivado_setup
+
+benreynwar/pyvivado: Python tools for Vivado Projects
+https://github.com/benreynwar/pyvivado
+
+hinton backpropagation - Google 搜索
+https://www.google.com.hk/search?q=hinton+backpropagation&newwindow=1&client=ubuntu-sn&hs=yfW&sca_esv=159f37a1251190f9&channel=fs&ei=yggFZ7zbDbTekPIP4baw8AQ&oq=+hinton+ba&gs_lp=Egxnd3Mtd2l6LXNlcnAiCiBoaW50b24gYmEqAggAMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeSNQoUF1Y3yBwAXgAkAEAmAHtAqABoQ6qAQUyLTIuNLgBAcgBAPgBAZgCBqAClwzCAgoQABiwAxjWBBhHwgIKEC4YgAQYQxiKBcICBhAAGAcYHsICBhAuGAcYHsICGRAuGIAEGEMYigUYlwUY3AQY3gQY3wTYAQGYAwCIBgGQBgq6BgYIARABGBSSBwcxLjAuMi4zoAfjJA&sclient=gws-wiz-serp
+
+(22) Stanford Seminar - Can the brain do back-propagation? Geoffrey Hinton - YouTube
+https://www.youtube.com/watch?v=VIRCybGgHts
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+qiansulian - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=qiansulian
+
+苏联 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/%E8%8B%8F%E8%81%94
+
+Sovet back propagation - Google 搜索
+https://www.google.com.hk/search?q=Sovet+back+propagation&newwindow=1&client=ubuntu-sn&hs=FzW&sca_esv=159f37a1251190f9&channel=fs&ei=dQ0FZ8LBAa7SkPIPl5qq2Ao&ved=0ahUKEwiC0NvEzf6IAxUuKUQIHReNCqsQ4dUDCA8&uact=5&oq=Sovet+back+propagation&gs_lp=Egxnd3Mtd2l6LXNlcnAiFlNvdmV0IGJhY2sgcHJvcGFnYXRpb24yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYogQYiQUyCBAAGIAEGKIESJQ7UPgBWLs1cAJ4AZABAJgB_gOgAewUqgEJMi0yLjMuMC4yuAEDyAEA-AEC-AEBmAIHoALvDsICChAAGLADGNYEGEfCAgUQIRigAZgDAIgGAZAGCpIHCTIuMC4xLjMuMaAH5g8&sclient=gws-wiz-serp
+
+Ask HN: What is your proudest little invention or discovery? | Hacker News
+https://news.ycombinator.com/item?id=36058374
+
+Invention or discovery? | Seth's Blog
+https://seths.blog/2024/05/invention-or-discovery/
+
+aps march meeting - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aps+march+meeting
+
+Schedule | March Meeting 2024
+https://march.aps.org/schedule
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=resemble%20thermodynamics&op=translate
+
+John Hopfield and Geoff Hinton Win Physics Nobel Prize [pdf] | Hacker News
+https://news.ycombinator.com/item?id=41775449
+
+milosgajdos/gopfield: Hopfield neural networks in Go
+https://github.com/milosgajdos/gopfield
+
+Schmidhuber - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Schmidhuber
+
 history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
