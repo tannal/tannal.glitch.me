@@ -579,6 +579,11 @@ apply
 
 # 2024-10-6 - 2024-10-13
 
+
+[] check telegram etc social media
+
+[] check hiring
+
 [] zhibo and cut
 
 [] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 

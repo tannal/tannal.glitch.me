@@ -1,5 +1,92 @@
 # 2024-10-8
 
+history-2024-8-27.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+提交代码更改  |  Android Open Source Project
+https://source.android.com/docs/setup/contribute/submit-patches?hl=zh-cn
+
+online camera test - Google 搜索
+https://www.google.com.hk/search?q=online+camera+test&oq=online+camera&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTE2ODc0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+登录 – Nextcloud
+http://10.106.146.44:8081/login?redirect_url=/apps/spreed/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Issues · Myriad-Dreamin/tinymist
+https://github.com/Myriad-Dreamin/tinymist/issues
+
+FSCloud
+http://web.fscloud.cc/#/dashboard
+
+(1296) #office hours > 2024-10-03 - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/359642-office-hours/topic/2024-10-03
+
+Masonry: An imperative widget toolkit in Rust - Google 幻灯片
+https://docs.google.com/presentation/d/1T-0Kr5V3Zm5Mm_sHKBFE474MIkeLEEMHXaHnNh61LEM/edit#slide=id.g3064581e54b_0_668
+
+(256) #general > build errors - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/build.20errors
+
+crypto: Begin SubtleCrypto implementation by msub2 · Pull Request #33628 · servo/servo
+https://github.com/servo/servo/pull/33628/files
+
+Diagnosing bugs in real websites - The Servo Book
+https://book.servo.org/hacking/web-compat-bugs.html
+
+#general > Does wasmtime support WasmGC? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Does.20wasmtime.20support.20WasmGC.3F
+
+Encode alpha for Images · Issue #692 · linebender/vello
+https://github.com/linebender/vello/issues/692
+
+Pull request search results
+https://github.com/search?q=org%3Alinebender+-author%3Adjmcnab+-author%3Araphlinus+-author%3Aarmansito+-author%3APhilipp-M+-author%3Awaywardmonkeys+-author%3APoignardAzur+-author%3Asimbleau+-author%3Anicoburns+-author%3Ajaredoconnell+-author%3Aazymohliad+-author%3Adfrg+-author%3Adependabot%5Bbot%5D+-author%3AxStrom+-author%3Axorgy&type=pullrequests&s=created&o=desc
+
+winit github - Google 搜索
+https://www.google.com.hk/search?q=winit+github&oq=winit+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDINCAQQLhivARjHARiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDIzNjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Pointer Event Overhaul · Issue #3833 · rust-windowing/winit
+https://github.com/rust-windowing/winit/issues/3833
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+http://web.fscloud.cc/#/dashboard
+
+tannal
+https://tannal.github.io/
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+Sher, Barbara - Google 搜索
+https://www.google.com.hk/search?q=Sher%2C+Barbara&oq=Sher%2C+Barbara&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQc5NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Profile
+https://account.amd.com/en/profile.html
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+Download Center Address Verification
+https://account.amd.com/en/forms/downloads/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_2024.1_0522_2023_Lin64.bin
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
@@ -57,7 +144,7 @@ https://pan.baidu.com/download#linux
 Can not finish running command in servo's repo · Issue #1179 · XAMPPRocky/tokei
 https://github.com/XAMPPRocky/tokei/issues/1179
 
-Penpot - Design Freedom for Teams
+Penpot - Design Freedom for Terasterams
 http://localhost:9001/#/auth/login
 
 A "guard-let"-like statement form · Issue #2537 · dart-lang/language
