@@ -1,5 +1,122 @@
 # 2024-10-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GSoC project ideas — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/outreach/gsoc.html#mobile-app
+
+(1102) #feedback > last message shortcut - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/137-feedback/topic/last.20message.20shortcut
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#where-to-look-for-an-issue
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+(1102) #api design > migrating settings to user-groups framework - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/378-api-design/topic/migrating.20settings.20to.20user-groups.20framework
+
+Login – Nextcloud
+http://localhost:8081/login?redirect_url=/apps/spreed/
+
+Cursor
+https://www.cursor.com/
+
+Auth | Cursor - The AI-first Code Editor
+https://www.cursor.com/loginDeepPage
+
+matlab download - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=matlab+download
+
+New License for MATLAB Student
+https://www.mathworks.com/store/link/products/student/SV?s_tid=ac_buy_sv_but1
+
+MathWorks - License Center
+https://www.mathworks.com/licensecenter/licenses/add?uri=https%3A%2F%2Fmatlab.mathworks.com&s_tid=mlh_nl_link
+
+matlab license - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=matlab+license
+
+Download MATLAB, Simulink, Stateflow and Other MathWorks Products
+https://www.mathworks.com/downloads/message/error_page/unlicensed?release=R2024b
+
+MathWorks - License Center
+https://www.mathworks.com/licensecenter/licenses/add
+
+百度网盘 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98
+
+百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全
+https://pan.baidu.com/login?redirecturl=https%3A%2F%2Fpan.baidu.com%2Fdisk%2Fmain%23%2Findex
+
+百度网盘 客户端下载
+https://pan.baidu.com/download#linux
+
+Can not finish running command in servo's repo · Issue #1179 · XAMPPRocky/tokei
+https://github.com/XAMPPRocky/tokei/issues/1179
+
+Penpot - Design Freedom for Teams
+http://localhost:9001/#/auth/login
+
+A "guard-let"-like statement form · Issue #2537 · dart-lang/language
+https://github.com/dart-lang/language/issues/2537
+
+How To Build · krille-chan/fluffychat Wiki
+https://github.com/krille-chan/fluffychat/wiki/How-To-Build
+
+YouTube
+https://www.youtube.com/
+
+Install Vivado 2023.1 to Ubuntu 22.04.1(LTS)
+https://adaptivesupport.amd.com/s/question/0D54U00007D1k3ySAB/install-vivado-20231-to-ubuntu-22041lts?language=en_US
+
+Download Center Address Verification
+https://account.amd.com/en/forms/downloads/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_2024.1_0522_2023_Lin64.bin
+
+Mojo 🔥: Programming language for all of AI
+https://www.modular.com/mojo
+
+Get started with MAX | Modular Docs
+https://docs.modular.com/max/get-started
+
+Magic FAQ | Modular Docs
+https://docs.modular.com/magic/faq
+
+`test/built-ins/Proxy/revocable/tco-fn-realm.js` is missing `destructuring-assignment` feature flag · Issue #4218 · tc39/test262
+https://github.com/tc39/test262/issues/4218
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-2a81c2212cb0e33167e26dd987d845c5bb7fd20dac4667277fdec360765ec80c
+
+Huliiiiii (狐狸)
+https://github.com/Huliiiiii
+
+Improve syntax highlights by Huliiiiii · Pull Request #18728 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/18728/files
+
+Dev UI | code-with-quarkus 1.0.0-SNAPSHOT
+http://localhost:8888/q/dev-ui/welcome
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i/tree/main
+
+Release Firtool Release 1.40.0 · llvm/circt
+https://github.com/llvm/circt/releases/tag/firtool-1.40.0
+
+Xilinx/Vivado-Design-Tutorials
+https://github.com/Xilinx/Vivado-Design-Tutorials
+
+Problem loading page
+https://adaptivesupport.amd.com/s/question/0D54U00007D1k3ySAB/install-vivado-20231-to-ubuntu-22041lts?language=en_US
+
 books.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
