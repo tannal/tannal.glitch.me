@@ -1,4 +1,8 @@
 
+# people that write great books
+
+https://ben.klemens.org/pubs.index.html
+
 # inbox
 
 https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
