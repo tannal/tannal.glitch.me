@@ -1,5 +1,83 @@
 # 2024-10-8
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Vivado install ubuntu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Vivado+install+ubuntu
+
+Install Vivado using offline installer
+https://gist.github.com/aitesam961/51a8dd9b785d0cc9f0bed5faf51e982e
+
+Install Vivado 2023.1 to Ubuntu 22.04.1(LTS)
+https://adaptivesupport.amd.com/s/question/0D54U00007D1k3ySAB/install-vivado-20231-to-ubuntu-22041lts?language=en_US
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+Xilinx - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Xilinx
+
+Downloads
+https://www.xilinx.com/support/download.html
+
+(22) YouTube
+https://www.youtube.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+最后一页-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=64020635&keyword=%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%B5&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+王赫野＆姚晓棠-最后一页(Live·纯享版)_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Nt421771U/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+Activate Account
+https://www.amd.com/en/registration/activate-account.html?custtarg=aHR0cHM6Ly9hY2NvdW50LmFtZC5jb20vZW4vZm9ybXMvZG93bmxvYWRzL3hlZi5odG1sP2ZpbGVuYW1lPUZQR0FzX0FkYXB0aXZlU29Dc19VbmlmaWVkXzIwMjQuMV8wNTIyXzIwMjNfTGluNjQuYmlu
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=U.S.%20Government%20Export&sort=byPopularity&type=story
+
+IceStorm github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=IceStorm+github
+
+Yosys Headquarters
+https://github.com/YosysHQ
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=intel%20acquire&sort=byPopularity&type=story
+
+jdk jvm rust - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jdk+jvm+rust
+
+douchuan/jvm: JVM in Rust, written as a learning project.
+https://github.com/douchuan/jvm
+
+I have written a JVM in Rust | Hacker News
+https://news.ycombinator.com/item?id=36811554
+
+platypusguy/jacobin: A more than minimal JVM written in Go and capable of running Java 21 classes.
+https://github.com/platypusguy/jacobin
+
+JEP 389: Foreign Linker API (Incubator)
+https://openjdk.org/jeps/389
+
+JikesRVM/JikesRVM: Jikes RVM (Research Virtual Machine)
+https://github.com/JikesRVM/JikesRVM
+
+Run:ai - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Run%3Aai
+
+Run:ai - AI Optimization and Orchestration
+https://www.run.ai/
+
+grallvm github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=grallvm+github
+
+oracle/graal: GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+https://github.com/oracle/graal
+
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,6 +1,11 @@
 
 # 2024-10-8 0 | 0
 
+sdk install scala sbt
+sdk install kotlin
+
+C-3#*d+4L3s25cg
+
 Jvm in rust/go
 
 https://news.ycombinator.com/item?id=36811554
