@@ -1,5 +1,77 @@
 # 2024-10-8
 
+books.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+I have written a JVM in Rust | Hacker News
+https://news.ycombinator.com/item?id=36811554
+
+andreabergia/rjvm: A tiny JVM written in Rust. Learning project
+https://github.com/andreabergia/rjvm
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+WEHF - Nova JavaScript Engine - Google 幻灯片
+https://docs.google.com/presentation/d/1YlHr67ZYCyMp_6uMMvCWOJNOUhleUtxOPlC0Gz8Bg7o/edit#slide=id.g2e1f8adbacb_0_10
+
+Nova engine presentation - Google 幻灯片
+https://docs.google.com/presentation/d/1PRinuW2Zbw9c-FGArON3YHiCUP22qIeTpYvDRNbP5vc/edit#slide=id.p
+
+jsc apple disable jit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jsc+apple+disable+jit
+
+What does `JIT is disabled` mean in Apple's JavaScriptCore (JSC) documentation - Stack Overflow
+https://stackoverflow.com/questions/45422462/what-does-jit-is-disabled-mean-in-apples-javascriptcore-jsc-documentation
+
+can Chrome using jit on ios phone? - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=can+Chrome+using+jit+on+ios+phone%3F
+
+My understanding is that the reason Chrome has to use the iOS webkit view is bec... | Hacker News
+https://news.ycombinator.com/item?id=13533686
+
+As far as I know, JIT is disabled on iOS at the moment, so one thing developers ... | Hacker News
+https://news.ycombinator.com/item?id=34698292
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+boa github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=boa+github
+
+Contributors to boa-dev/boa
+https://github.com/boa-dev/boa/graphs/contributors
+
+den rquickjs github - Google 搜索
+https://www.google.com.hk/search?q=den+rquickjs++github&newwindow=1&client=ubuntu-sn&hs=VT8&sca_esv=159f37a1251190f9&channel=fs&ei=vNMEZ-_ZDevgkPIPipD6cA&ved=0ahUKEwjvp8u-lv6IAxVrMEQIHQqIHg4Q4dUDCA8&uact=5&oq=den+rquickjs++github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGRlbiBycXVpY2tqcyAgZ2l0aHViMggQIRigARjDBDIIECEYoAEYwwQyCBAhGKABGMMESJAqUKoPWLIjcAR4AZABAZgBlwOgAfMcqgEHMi0xLjkuMbgBA8gBAPgBAZgCBqACiwXCAgoQABiwAxjWBBhHwgIKECEYoAEYwwQYCpgDAIgGAZAGCpIHBTQuMy0yoAe-JQ&sclient=gws-wiz-serp
+
+stevefan1999-personal/den: Den - One word less than Deno!
+https://github.com/stevefan1999-personal/den
+
+DelSkayn/rquickjs: High level bindings to the quickjs javascript engine
+https://github.com/DelSkayn/rquickjs
+
+rust python github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+python+github
+
+Tracking pip support in RustPython · Issue #5332 · RustPython/RustPython
+https://github.com/RustPython/RustPython/issues/5332
+
+rustruby - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rustruby
+
+ruby-on-rust/ruby-on-rust: An implementation of ruby in pure rust.
+https://github.com/ruby-on-rust/ruby-on-rust
+
+Ben Klemens - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ben+Klemens
+
+Ben Klemens
+https://ben.klemens.org/pubs.index.html
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
