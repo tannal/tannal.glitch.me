@@ -1,5 +1,56 @@
 # 2024-10-8
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Meet the Team | The JavaScript Oxidation Compiler
+https://oxc.rs/team.html
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+oxc-project repositories
+https://github.com/orgs/oxc-project/repositories?
+
+aapoalas (Aapo Alasuutari)
+https://github.com/aapoalas
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+VoidZero | Next Generation Tooling for the Web
+https://voidzero.dev/
+
+The JavaScript Oxidation Compiler
+https://oxc.rs/
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+The JavaScript Oxidation Compiler
+https://oxc.rs/
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+Rolldown
+https://rolldown.rs/
+
+Rolldown
+https://github.com/rolldown
+
+TypeScript compiler in Rust · Issue #5432 · denoland/deno
+https://github.com/denoland/deno/issues/5432
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Vivado ubuntu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Vivado+ubuntu
+
+Install Vivado 2023.1 to Ubuntu 22.04.1(LTS)
+https://adaptivesupport.amd.com/s/question/0D54U00007D1k3ySAB/install-vivado-20231-to-ubuntu-22041lts?language=en_US
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
