@@ -1,4 +1,11 @@
 
+# 2024-10-8 0 | 0
+
+Jvm in rust/go
+
+https://news.ycombinator.com/item?id=36811554
+
+# 2024-10-7 0 | 0
 # 2024-10-6 0 | 0
 
 https://github.com/xay5421

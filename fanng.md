@@ -6,6 +6,119 @@
 
 京东零售、京东物流
 
+# Intel
+
+这些新闻标题主要涉及英特尔(Intel)的收购活动，以及少数与Intel相关的其他公司的收购。我将简要介绍一下这些被收购的公司：
+
+Linutronix：一家专注于实时Linux系统的公司。
+eASIC：一家提供定制集成电路(ASIC)解决方案的公司。
+Tower Semiconductor：一家专门的半导体代工厂。
+Movidius：一家专注于计算机视觉和深度学习处理器的公司。
+Itseez：OpenCV（开源计算机视觉库）的主要开发者。
+Basis：一家生产智能手表的公司。
+Mashery：一家API管理平台提供商。
+SiFive：一家基于RISC-V架构的芯片设计公司。
+Here：一家数字地图和位置服务公司。
+Wind River Systems：一家嵌入式操作系统和中间件提供商。
+Hacker League：一个黑客马拉松管理平台。
+Cilk和RapidMind：两家多核软件公司。
+Habana Labs：一家AI芯片公司。
+SySDSoft：一家埃及的软件开发公司。
+PasswordBox：一家密码管理服务提供商。
+Granulate：一家以色列的云计算优化初创公司。
+Recon：一家智能眼镜制造商。
+这些收购反映了Intel在多个领域的战略扩张，包括：
+
+人工智能和机器学习（Movidius, Habana Labs）
+计算机视觉（Itseez, Movidius）
+嵌入式系统（Wind River Systems）
+5G和无线通信（部分摩托罗拉的调制解调器业务）
+RISC-V架构（SiFive）
+半导体制造（Tower Semiconductor）
+云计算和API管理（Mashery, Granulate）
+可穿戴设备（Basis, Recon）
+这些收购帮助Intel拓展了其技术组合，增强了在多个领域的竞争力，特别是在AI、边缘计算、5G通信等新兴技术领域。
+
+值得注意的是，其中一些收购可能是传闻或尚未完成的交易。此外，还有一些与Intel相关的其他公司的收购，如Apple收购Intel的智能手机调制解调器业务，以及Amazon在Ohio购买土地等。
+
+Apple to acquire the majority of Intel's smartphone modem business
+Intel acquires Linutronix
+Intel to Acquire eASIC: Lower Cost ASICs in FPGA Design Time
+Intel to Acquire Tower Semiconductor for $5.4B
+Amazon acquires 400 acres near new Intel development in Ohio
+Intel acquires Movidius
+Intel acquires Itseez, leading developer of OpenCV
+Intel Acquires Basis Watch
+Intel Acquires Mashery
+Intel in talks to acquire RISC-V firm SiFive for $2B
+Intel to Acquire 15 Percent Ownership of Here
+Intel to Acquire Wind River Systems for Approximately $884 Million
+Hacker League Acquired by Intel for Undisclosed Amount
+Intel acquires two multicore software firms, Cilk & RapidMind 
+Intel offered to acquire SiFive for more than $2B
+Intel Acquires Habana Labs for $2B
+Apple acquires Intel’s 5G smartphone modem business for $1B
+Intel Acquires Egypt-based SySDSoft 
+Intel acquires Itseez, maker of OpenCV
+Intel Acquires Mashery
+Intel acquires Itseez, company behind OpenCV
+North has acquired the patents and tech behind Intel’s Vaunt AR glasses
+Intel Acquires Recon – Makers of Recon Jet Smart Glasses
+Intel acquires PasswordBox
+Basis acquired by Intel for 100M
+Intel to Acquire Israeli startup Granulate for $650M
+Intel acquires computer vision firm Movidius
+Intel Acquires Habana Labs for $2B
+Intel’s Mashery acquires hackathon management platform Hacker League 
+Intel Set To Acquire Wind River Systems For Approximately $884 Million
+
+
+
+# AMD
+
+这些新闻标题主要涉及 AMD (Advanced Micro Devices) 的收购活动。我将简要介绍一下这些被收购的公司：
+
+Xilinx：一家专门从事可编程逻辑器件（FPGA）设计和生产的公司。这次收购帮助 AMD 扩大了其在数据中心和嵌入式系统市场的影响力。
+SeaMicro：一家专注于低功耗服务器设计的公司。这次收购帮助 AMD 进入了云服务器市场。
+Nod.ai：一家 AI 软件初创公司，专注于 AI 编译器和优化技术。这次收购旨在增强 AMD 的 AI 软件生态系统。
+ZT Systems：一家服务器制造商。这次收购（如果完成）将帮助 AMD 扩大其在数据中心和 AI 基础设施市场的份额。
+Silo AI：一家芬兰 AI 初创公司。这次收购（如果属实）将进一步增强 AMD 在 AI 领域的能力。
+Mipsology：一家专注于 AI 推理软件的公司。这次收购旨在增强 AMD 的 AI 推理能力。
+Pensando：一家专注于数据处理单元（DPU）的公司。这次收购帮助 AMD 进入了 DPU 市场。
+HiAlgo：一家专注于游戏图形优化技术的公司。这次收购旨在增强 AMD 的 Radeon 软件和游戏性能。
+这些收购反映了 AMD 在多个领域的战略扩张，特别是在 AI、数据中心和服务器市场。AMD 通过这些收购不断强化其技术实力，以更好地与英伟达（NVIDIA）等竞争对手竞争。
+
+值得注意的是，其中一些新闻可能是传闻或尚未完成的交易。此外，GlobalFoundries 从 AMD 获得独立性的新闻表明 AMD 剥离了其制造部门，专注于设计。
+
+AMD to Acquire Xilinx
+AMD Acquires Xilinx
+AMD acquires SeaMicro
+AMD to Acquire SeaMicro: Accelerates Disruptive Server Strategy
+AMD to acquire AI software startup in effort to catch Nvidia
+AMD acquires Nod.ai to bolsters its AI software ecosystem
+AMD to Acquire Nod.ai
+AMD to Acquire Server Maker ZT Systems in $4.9B Deal
+AMD to Acquire Open-Source AI Software Expert Nod.ai
+AMD to acquire server builder ZT Systems for $4.9B in cash and stock
+AMD acquires Finnish startup Silo AI for $665M
+AMD to acquire infrastructure player ZT Systems for $4.9B to amp up AI ecosystem
+AMD to acquire server builder ZT Systems for $4.9B in cash and stock
+AMD to Acquire ZT Systems for $4.9 bn
+AMD to acquire AI software startup as it seeks to catch up with Nvidia
+AMD to acquire AI software startup in effort to catch Nvidia
+AMD Acquires an AI Software Company
+AMD Acquires Mipsology to Deepen AI Inference Software Capabilities
+AMD Acquires Pensando for $1.9B
+AMD Acquires Pensando for Its DPU Future
+AMD to acquire Pensando in a $1.9B bid for networking tech
+Rumours: nVidia will acquire AMD
+AMD to Acquire Silo AI to Expand Enterprise AI Solutions Globally
+AMD Acquires Hyperscale Solutions Provider ZT Systems
+GlobalFoundries Granted Independence, Acquires Remaining Stake from AMD
+AMD Acquires HiAlgo to Further Innovate Radeon Software and Gaming
+AMD Buys SeaMicro to Target Cloud Server Market
+
+
 # Oracle
 
 Oracle：全球领先的企业软件和数据库管理系统供应商。
