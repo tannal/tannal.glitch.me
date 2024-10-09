@@ -1,7 +1,11 @@
 
 # 2024-10-9 0 | 0
 
+https://www.cs.cmu.edu/~rsalakhu/
 
+project idea A is good & B is good
+Let's use B in A, or use A in B.
+Let's connect them together
 
 export PATH=$PATH:/usr/bin/pkg-config
 

@@ -1,5 +1,83 @@
 # 2024-10-9
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+meta/CONTRIBUTING.md at main · whatwg/meta
+https://github.com/whatwg/meta/blob/main/CONTRIBUTING.md
+
+whatwg/html-build: Build scripts for https://github.com/whatwg/html
+https://github.com/whatwg/html-build
+
+(15) Discord | #off-topic | Flutter Dev
+https://discord.com/channels/420324994703163402/421444918276390912
+
+Pulse · flutter/flutter
+https://github.com/flutter/flutter/pulse/monthly
+
+(23) Building games using Flame - Luan Nico & Renan C. Araújo | Flutter Europe - YouTube
+https://www.youtube.com/watch?v=sFpjEH-ok2s
+
+(23) Create an Amazing Game with Flutter & Flame - YouTube
+https://www.youtube.com/watch?v=Kwn1eHZP3C4&list=PLRRATgFqhVCh8qD7xmaSbwG1vfaCddvCM
+
+Issues · Spellthorn/pixel_adventure
+https://github.com/Spellthorn/pixel_adventure/issues?q=is%3Aissue+is%3Aclosed
+
+Spellthorn/pixel_adventure: A Flutter and Flame project to make the game Pixel Adventure, a 2D Pixel Art Platformer.
+https://github.com/Spellthorn/pixel_adventure
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=retarded&op=translate
+
+HTML Standard
+http://localhost:8080/#the-input-element
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issue search results
+https://github.com/search?q=repo%3Aw3c%2Fcsswg-drafts+baseline+input+&type=issues
+
+[css-forms] Allow making <button> a real inline (or block/flex/etc) · Issue #3226 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/3226
+
+Specification for the ‘appearance’ CSS property and default rendering of form controls - Google 文档
+https://docs.google.com/document/d/1FE5YIoirPKxYbbnMd8kS6w39M8bzLTl5tf4wwOxR1wc/edit
+
+Issue search results
+https://github.com/search?q=repo%3Aw3c%2Fcsswg-drafts+join+&type=issues&p=4
+
+CSSWG Tools [CSS Working Group Wiki]
+https://wiki.csswg.org/tools
+
+data.microsoftedge.com/
+https://developer.microsoft.com/en-us/microsoft-edge/platform/data/?form=MA13LH
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+github Flutter Pinball - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=github+Flutter+Pinball
+
+flutter/pinball: Google I/O 2022 Pinball game built with Flutter and Firebase
+https://github.com/flutter/pinball
+
+(23) Stanford Seminar - Can the brain do back-propagation? Geoffrey Hinton - YouTube
+https://www.youtube.com/watch?v=VIRCybGgHts&t=1319s
+
+Ruslan Salakhutdinov cmu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ruslan+Salakhutdinov+cmu
+
+Ruslan Salakhutdinov
+https://www.cs.cmu.edu/~rsalakhu/
+
+talk_Simons_part1_pdf.pdf
+https://www.cs.cmu.edu/~rsalakhu/talk_Simons_part1_pdf.pdf
+
 whatwg.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
