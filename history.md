@@ -1,5 +1,80 @@
 # 2024-10-9
 
+whatwg.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Add live update for viewing web-public streams content · Issue #20315 · zulip/zulip
+https://github.com/zulip/zulip/issues/20315
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#%E5%A4%9A%E5%AA%92%E4%BD%93%E5%BA%94%E7%94%A8%E9%9F%B3%E8%A7%86%E9%A2%91%E6%96%87%E6%A1%A3%E5%8A%A8%E7%94%BB%E8%AE%BE%E8%AE%A1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+LLM.C 人工智能训练和推理的最佳实践
+https://tannal.github.io/zh-cn/p/llm.c-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/
+
+Yjs CodeMirror Example
+http://192.168.43.246:3000/codemirror.next/codemirror.next.html
+
+Index of /
+http://10.106.146.44:8080/
+
+talks/tc39-2024-10 at main · ptomato/talks
+https://github.com/ptomato/talks/tree/main/tc39-2024-10
+
+Helpers should be documented in or from CONTRIBUTING.md · Issue #3918 · tc39/test262
+https://github.com/tc39/test262/issues/3918
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit
+
+test262.fyi
+https://test262.fyi/#
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Code search results
+https://github.com/search?q=repo%3Ajbush001%2FNyuziProcessor%20swig&type=code
+
+GraalJS - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=GraalJS
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+element flutter github - Google 搜索
+https://www.google.com/search?q=element+flutter+github&client=ubuntu-sn&hs=khm&sca_esv=68d8021338a969c6&channel=fs&sxsrf=ADLYWIKPi7_sQZQo2zGsh-ygwNW4OHZh7g:1728444792706&ei=ePkFZ7vfKubd2roPppmg-Ak&start=10&sa=N&sstk=AagrsuiMGqhrWDKfuBtR8ttLW5d27J2jX3KoD3FpxRwcK649aJnTNcRhHAigQyJpJH14OhEV1uOzpmi0vjb89o4BkSHtXE583FB2uA&ved=2ahUKEwi7-4fProCJAxXmrlYBHaYMCJ8Q8tMDegQICBAE&biw=1850&bih=968&dpr=1
+
+(15) Discord | #off-topic | Flutter Dev
+https://discord.com/channels/420324994703163402/421444918276390912
+
+Internals of Nova Part 2 - Rows for the Row God, Columns for the Column Throne! · Nova
+https://trynova.dev/blog/internals-of-nova-part-2
+
+Niku - Create Flutter UI, Easier, Faster, Smarter | Niku
+https://niku.saltyaom.com/
+
+SaltyAom (SaltyAom)
+https://github.com/SaltyAom
+
+llvm/circt: Circuit IR Compilers and Tools
+https://github.com/llvm/circt
+
+(15) Discord | #circt | LLVM
+https://discord.com/channels/636084430946959380/742572728787402763
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
