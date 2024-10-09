@@ -1,5 +1,74 @@
 # 2024-10-9
 
+cmd.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Ruslan Salakhutdinov
+https://www.cs.cmu.edu/~rsalakhu/teaching.html
+
+CMU 10707: Deep Learning
+https://deeplearning-cmu-10707.github.io/syllabus.html
+
+Lecture_Variational_Inference_2019.pdf
+https://www.cs.cmu.edu/~rsalakhu/10707/Lectures/Lecture_Variational_Inference_2019.pdf
+
+mit-deep-learning-book-pdf/complete-book-pdf/deeplearningbook.pdf at master · janishar/mit-deep-learning-book-pdf
+https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf
+
+Dropout paper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dropout+paper+
+
+srivastava14a.pdf
+https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+
+Avoid using destructuring in tco-fn-realm.js by tannal · Pull Request #4251 · tc39/test262
+https://github.com/tc39/test262/pull/4251
+
+\}\s*=\s*Proxy\.revocable\( - mozsearch
+https://searchfox.org/mozilla-central/search?q=%5C%7D%5Cs*%3D%5Cs*Proxy%5C.revocable%5C%28&path=js%2Fsrc%2Ftests%2Ftest262%2F&case=false&regexp=true
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+(23) Stanford Seminar - Can the brain do back-propagation? Geoffrey Hinton - YouTube
+https://www.youtube.com/watch?v=VIRCybGgHts&t=1506s
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+hinton - Google 搜索
+https://www.google.com.hk/search?q=hinton&newwindow=1&client=ubuntu-sn&hs=iKU&sca_esv=57f995de952bc4d6&channel=fs&ei=7RsGZ7SGH6OnkPIP08Ko-Qg&ved=0ahUKEwj0sJO9z4CJAxWjE0QIHVMhKo8Q4dUDCA8&uact=5&oq=hinton&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmhpbnRvbjIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAuGIAEMgUQABiABDIFEC4YgAQyBRAAGIAESPUUUMoOWN4TcAF4AJABAJgB7gKgAYEIqgEDMy0zuAEDyAEA-AEBmAIDoAKeCMICCxAuGIAEGNEDGMcBmAMA4gMFEgExIECIBgGSBwMzLTOgB4gu&sclient=gws-wiz-serp
+
+James McClelland - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=James+McClelland
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+Michael I. Jordan - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Michael+I.+Jordan
+
+麥可·喬丹 (學者) - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E4%B9%94%E4%B8%B9_(%E5%AD%A6%E8%80%85)
+
+Problem loading page
+http://www.cs.berkeley.edu/~jordan
+
+Wayback Machine
+https://web.archive.org/web/20120905073614/http://www.cs.berkeley.edu/~jordan/jordan-vita.pdf
+
+oxc project github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=oxc+project+github
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc?tab=readme-ov-file
+
+oxc_ast - Rust
+https://docs.rs/oxc_ast/latest/oxc_ast/#macros
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
