@@ -1,7 +1,46 @@
 # 2024-10-9
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
 
+Mojo 🔥: Programming language for all of AI
+https://www.modular.com/mojo
 
+Get started with MAX | Modular Docs
+https://docs.modular.com/max/get-started
+
+Magic FAQ | Modular Docs
+https://docs.modular.com/magic/faq
+
+`test/built-ins/Proxy/revocable/tco-fn-realm.js` is missing `destructuring-assignment` feature flag · Issue #4218 · tc39/test262
+https://github.com/tc39/test262/issues/4218
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+`test/built-ins/Proxy/revocable/tco-fn-realm.js` is missing `destructuring-assignment` feature flag · Issue #4218 · tc39/test262
+https://github.com/tc39/test262/issues/4218
+
+Add more tests for v flag by tannal · Pull Request #4213 · tc39/test262
+https://github.com/tc39/test262/pull/4213/files#diff-2a81c2212cb0e33167e26dd987d845c5bb7fd20dac4667277fdec360765ec80c
+
+Huliiiiii (狐狸)
+https://github.com/Huliiiiii
+
+Improve syntax highlights by Huliiiiii · Pull Request #18728 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/18728/files
+
+Problem loading page
+http://localhost:8888/q/dev-ui/welcome
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i/tree/main
+
+Release Firtool Release 1.40.0 · llvm/circt
+https://github.com/llvm/circt/releases/tag/firtool-1.40.0
+
+Xilinx/Vivado-Design-Tutorials
+https://github.com/Xilinx/Vivado-Design-Tutorials
 
 # 2024-10-8
 
