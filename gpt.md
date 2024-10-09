@@ -1,4 +1,35 @@
 
+多媒体应用:
+FFmpeg - 音视频处理库
+Blender - 3D创作套件
+Krita - 数字绘画软件
+Audacity - 音频编辑器
+办公/协作:
+LibreOffice - 办公套件
+OnlyOffice - 在线办公套件
+Nextcloud - 文件同步与协作平台
+即时通讯/社交:
+Matrix - 去中心化通讯协议及应用
+Mastodon - 去中心化社交网络
+Jitsi Meet - 视频会议
+文档/知识管理:
+Wiki.js - Wiki系统
+BookStack - 文档管理平台
+Trilium Notes - 个人知识库
+电子商务:
+OpenCart - 电商平台
+PrestaShop - 电商解决方案
+云服务:
+OpenStack - 云计算平台
+Kubernetes - 容器编排
+Nextcloud - 私有云存储
+数据分析:
+Apache Superset - 数据可视化与探索平台
+Metabase - 商业智能工具
+游戏开发:
+Godot - 游戏引擎
+OpenRA - 即时战略游戏引擎
+
 您提出了一个很好的问题。确实,目前完全开源且可生产的GPU替代方案并不多。不过,还是有一些开源GPU项目和替代方案可以考虑:
 
 Lima 和 Panfrost - 这是针对ARM Mali GPU的开源驱动项目。虽然不是完整的GPU硬件,但提供了开源驱动。

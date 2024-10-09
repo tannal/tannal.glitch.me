@@ -29,6 +29,10 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+Bug 1918521 - Remove SetInputValueFromFields  when handlekeydown in datetimebox. r?emilio
+
+User might still typing even if all three fields are not empty.
+
 Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
 
 Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai

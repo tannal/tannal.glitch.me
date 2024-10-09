@@ -1,6 +1,14 @@
 
 # dev 
 
+client flutter https://github.com/zulip/zulip-flutter
+
+server python flask
+https://github.com/zulip/zulip
+
+client desktop electron 
+https://github.com/zulip/zulip-desktop.git
+
 # server
 
 Web应用程序
