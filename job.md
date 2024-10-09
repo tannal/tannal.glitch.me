@@ -579,6 +579,24 @@ apply
 
 # 2024-10-6 - 2024-10-13
 
+[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+
+```rs
+// assets/keymaps/default-linux.json add a new context and keymap for new component
+// create a new lib called go_to_rencent directories
+// init with picker component 
+impl Render for FileFinder {
+    fn render(&mut self, cx: &mut ViewContext<Self>) -> impl IntoElement {
+        v_flex()
+            .key_context("FileFinder")
+            .w(rems(10000.))
+            .on_modifiers_changed(cx.listener(Self::handle_modifiers_changed))
+            .on_action(cx.listener(Self::handle_select_prev))
+            .child(self.picker.clone())
+    }
+}
+
+```
 
 [x] check telegram etc social media
 
