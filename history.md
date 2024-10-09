@@ -1,5 +1,68 @@
 # 2024-10-9
 
+gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Element [9] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org/$bOMfFYDHK4uD_gNouvGWAQRc1HVhYBnV4kjVHQhmPDs
+
+View Transitions (Meeting Notes) - Google 文档
+https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/edit
+
+1918404 - Detect pending animations on each view transition frame
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918404
+
+1906994 - Enable row-gap and gap shorthand for Servo
+https://bugzilla.mozilla.org/show_bug.cgi?id=1906994
+
+Remove AnimatedGeometryRoot - Google 文档
+https://docs.google.com/document/d/1MKH5NYspcici2lomY_ehJaptjhE9kfaPYp2E7UgDsCA/edit
+
+[css-contain] Style containment for counters · Issue #9212 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/9212
+
+element client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=element+client
+
+Download Element
+https://element.io/download
+
+element github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=element+github
+
+element-hq/element-desktop: A glossy Matrix collaboration client for desktop.
+https://github.com/element-hq/element-desktop
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=data%20oriented&sort=byPopularity&type=story
+
+What should I program?
+https://jamesmcm.github.io/blog/programming-projects/
+
+How Does a Database Work? | Let’s Build a Simple Database
+https://cstack.github.io/db_tutorial/
+
+About - Project Euler
+https://projecteuler.net/about
+
+Take 2 - Discovery
+https://docs.rust-embedded.org/discovery/microbit/09-led-compass/take-2.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=jamesmcm.github.io&sort=byPopularity&type=story
+
+Project Euler | Hacker News
+https://news.ycombinator.com/item?id=15893911
+
+ROSALIND | Problems | Locations
+https://rosalind.info/problems/locations/
+
+Riemann Zeta Function -- from Wolfram MathWorld
+https://mathworld.wolfram.com/RiemannZetaFunction.html
+
+element-hq/element-web: A glossy Matrix collaboration client for the web.
+https://github.com/element-hq/element-web
+
 cmd.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
