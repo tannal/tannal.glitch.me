@@ -1,6 +1,8 @@
 
 # 2024-10-9 0 | 0
 
+
+
 export PATH=$PATH:/usr/bin/pkg-config
 
 export PKG_CONFIG_PATH=/usr/lib/pkgconfig:/usr/share/pkgconfig
