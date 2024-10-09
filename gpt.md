@@ -1,4 +1,34 @@
 
+使用lint工具来检查代码风格和潜在问题:
+
+复制
+python tools/lint/lint.py --exceptions lint.exceptions test/built-ins/
+使用gm.py脚本来运行测试:
+
+复制
+./tools/dev/gm.py x64.release test262
+安装并使用test262-harness来运行单个测试:
+
+复制
+npm install -g test262-harness
+
+test262-harness --host-type ch --host-Path /path/to/node test/built-ins/Proxy/revocable/tco-fn-realm.js
+使用jsshell运行带特定标志的测试:
+
+复制
+test262-harness -r jsshell test-v-flag.js
+使用GitHub进行版本控制和协作。
+参与TC39会议讨论Test262相关事项。
+使用Matrix聊天室(#test262-maintainers:matrix.org)进行实时交流。
+查看和更新Test262维护者会议议程文档。
+关注ECMAScript规范的变化,及时更新测试用例。
+审查和合并其他贡献者提交的pull requests。
+定期检查并解决open issues。
+维护测试框架和辅助工具。
+与各大JavaScript引擎开发团队保持沟通,确保测试的兼容性。
+编写文档来帮助新的贡献者了解项目。
+这些实践有助于保持Test262项目的质量和ECMAScript实现的一致性。维护者需要熟悉ECMAScript规范、测试编写技巧,以及项目的工具链。
+
 相关研究者：
 Geoffrey Hinton：被称为"深度学习之父"，现为多伦多大学教授和Google Brain研究员。
 Yann LeCun：现为纽约大学教授和Facebook AI研究院主任。

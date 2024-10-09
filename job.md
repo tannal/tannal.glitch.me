@@ -580,13 +580,15 @@ apply
 # 2024-10-6 - 2024-10-13
 
 
-[] check telegram etc social media
+[x] check telegram etc social media
 
 [] check hiring
 
 [] zhibo and cut
 
-[] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio 
+[] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+
+write wpt test for it
 
 [x] wpt test for input vertical align
 
@@ -608,7 +610,7 @@ apply
 [] Be a pianist play piano
 
 
-[] 10-7 23 PM GS2024
+[x] 10-7 23 PM GS2024
 [x] 2024-10-9 linebender office hour 23:00
 [] 10-10 10:00 PM
 [] 10-11 find a monitor and wire to raspi then boot an os
