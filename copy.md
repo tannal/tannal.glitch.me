@@ -10,6 +10,9 @@ https://github.com/wrongbyte/tuwuitter.git
 
 # Good artists copy, great artists steal.
 
+raster-i GPU chrisel
+https://github.com/alanjian85/raster-i
+
 bilibili flutter
 https://github.com/guozhigq/pilipala.git
 
