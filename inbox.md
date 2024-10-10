@@ -1,4 +1,19 @@
 
+# 2024-10-10 0 | 0
+
+https://github.com/sillycross/PochiVM
+
+Hopefully, it is not off-topic here.
+
+I noticed Cosmic Text is selecting the wrong glyphs for layout, but don't know where to start investigating further.
+
+Parley
+
+Cosmic Text
+
+https://github.com/RagibHasin/text_layout_cmp_rs is the repository.
+
+
 # 2024-10-9 0 | 0
 
 https://github.com/Chaphlagical
