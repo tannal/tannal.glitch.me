@@ -573,8 +573,9 @@ apply
 # 2024-10-13 - 2024-10-20
 
 [] Beijing 17 night 22:00
-[] 
+[] test262 meeting 
 [] ask for intern
+
 
 
 # 2024-10-6 - 2024-10-13

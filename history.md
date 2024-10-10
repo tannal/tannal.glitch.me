@@ -1,5 +1,140 @@
 # 2024-10-9
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+Chaphlagical (Wenbo Chen)
+https://github.com/Chaphlagical
+
+Chaf-Libraries/Ilum: Ilum graphics playground for learning
+https://github.com/Chaf-Libraries/Ilum
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1922606 - Remove or update metrics expiring in Firefox 134: networking.cookie_c* before Gecko version gets increased to 134 on 2024-10-28
+https://bugzilla.mozilla.org/show_bug.cgi?id=1922606
+
+Element [7] | Media
+https://chat.mozilla.org/#/room/#media:mozilla.org
+
+Chaf-Libraries/Ilum: Ilum graphics playground for learning
+https://github.com/Chaf-Libraries/Ilum
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+Google 翻译
+https://translate.google.com/?sl=vi&tl=zh-CN&text=rubberstamping&op=translate
+
+Avoid using destructuring in tco-fn-realm.js by tannal · Pull Request #4251 · tc39/test262
+https://github.com/tc39/test262/pull/4251
+
+Pull request search results
+https://github.com/search?q=org%3Atc39++Destructuring+Assignment&type=pullrequests
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+python http server - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=python+http+server
+
+Index of /
+http://10.106.146.39:8080/
+
+nova/tests at main · trynova/nova
+https://github.com/trynova/nova/tree/main/tests
+
+TC39 - Nova JavaScript Engine - Google 幻灯片
+https://docs.google.com/presentation/d/1Pv6Yn2sUWFIvlLwX9ViCjuyflsVdpEPQBbVlLJnFubM/edit#slide=id.g2de4845003a_1_38
+
+OpenGL insights - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=OpenGL+insights+
+
+OpenGL Insights - OpenGLInsights.pdf
+https://xeolabs.com/pdfs/OpenGLInsights.pdf
+
+OpenGLInsightsCode/Chapter 29 Fermi Asynchronous Texture Transfers/src/GL at master · OpenGLInsights/OpenGLInsightsCode
+https://github.com/OpenGLInsights/OpenGLInsightsCode/tree/master/Chapter%2029%20Fermi%20Asynchronous%20Texture%20Transfers/src/GL
+
+tannal (tannal)
+https://github.com/tannal/
+
+patrick cozzi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=patrick+cozzl#fpr=r
+
+Patrick Cozzi – Cesium
+https://cesium.com/team/patrick-cozzi/
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+HummaWhite (Chang Liu)
+https://github.com/HummaWhite
+
+Christophe Riccio - Google 搜索
+https://www.google.com.hk/search?q=Christophe+Riccio&newwindow=1&client=ubuntu-sn&hs=0Pm&sca_esv=609f3e555a5e0eba&channel=fs&ei=fCsHZ9GVOeXJkPIPr_zh8Qc&ved=0ahUKEwjRw8y60oKJAxXlJEQIHS9-OH4Q4dUDCA8&uact=5&oq=Christophe+Riccio&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUNocmlzdG9waGUgUmljY2lvMgcQABiABBgTMggQABgTGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIkAlQ4gNY4gNwAXgAkAEAmAHXAqAB1wKqAQMzLTG4AQPIAQD4AQL4AQGYAgKgAuECwgIKEAAYgAQYsAMYE8ICCxAAGLADGBMYCBgewgILEAAYgAQYsAMYogSYAwCIBgGQBgaSBwUxLjMtMaAHlwI&sclient=gws-wiz-serp
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+(24) Discord | #state-and-architecture | Flutter Dev
+https://discord.com/channels/420324994703163402/421445334716121091
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(294) #general > Internal WPT pass rate numbers - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Internal.20WPT.20pass.20rate.20numbers
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1302) #gpu > Best way to Draw an image with transparency - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Best.20way.20to.20Draw.20an.20image.20with.20transparency
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+(1648) #cranelift > Are there any plans for variadic calling convention? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Are.20there.20any.20plans.20for.20variadic.20calling.20convention.3F
+
+(82) #general > `&Rc<T>` is goofy? - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/.60.26Rc.3CT.3E.60.20is.20goofy.3F
+
+(1645) #new members > new member - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/95-new-members/topic/new.20.20member
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Element [10] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org/$bOMfFYDHK4uD_gNouvGWAQRc1HVhYBnV4kjVHQhmPDs
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

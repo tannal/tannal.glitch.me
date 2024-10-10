@@ -1,4 +1,35 @@
 
+安装xmake:
+访问 xmake 的官方网站 (https://xmake.io/)
+根据您的操作系统选择合适的安装方法
+对于大多数系统,可以使用以下命令:
+
+Copy
+curl -fsSL https://xmake.io/shget.text | bash
+克隆项目:
+
+Copy
+git clone https://github.com/Chaf-Libraries/Ilum.git
+cd Ilum
+初始化子模块:
+
+Copy
+git submodule update --init --recursive
+使用xmake构建项目:
+
+Copy
+xmake
+运行项目:
+
+Copy
+xmake run
+如果遇到任何问题:
+
+确保您的系统满足项目的所有依赖要求
+检查 README.md 文件是否有特殊的构建说明
+如果出现错误,可以尝试使用 xmake -v 命令查看详细的构建日志
+
+
 使用lint工具来检查代码风格和潜在问题:
 
 复制
