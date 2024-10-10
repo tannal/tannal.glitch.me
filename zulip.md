@@ -6,6 +6,12 @@ client flutter https://github.com/zulip/zulip-flutter
 server python flask
 https://github.com/zulip/zulip
 
+```bash
+sudo apt install python3-virtualenv
+./tools/setup/setup_venvs.py
+
+```
+
 client desktop electron 
 https://github.com/zulip/zulip-desktop.git
 
