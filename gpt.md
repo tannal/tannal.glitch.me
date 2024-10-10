@@ -1,4 +1,31 @@
 
+conda 和 venv 都是 Python 环境管理工具,但它们有一些区别:
+
+来源和目标:
+conda 是 Anaconda 发行版的一部分,主要面向数据科学和科学计算领域。
+venv 是 Python 标准库的一部分,适用于所有 Python 项目。
+包管理:
+conda 使用自己的包管理系统和包仓库,可以安装非 Python 包(如 C/C++ 库)。
+venv 使用 pip 来安装 Python 包。
+环境隔离:
+conda 环境完全独立,每个环境都有自己的 Python 版本和包。
+venv 环境共享系统级 Python 版本,只是创建独立的站点包目录。
+空间占用:
+conda 环境通常占用更多磁盘空间,因为它复制了 Python 版本和所有依赖库。
+venv 环境通常占用较少空间,因为它只复制了站点包目录。
+符号链接:
+conda 不使用符号链接来节省空间,而是在每个环境中复制所需的文件。
+venv 也不使用符号链接,但由于共享系统级 Python,所以空间占用较小。
+跨平台:
+conda 支持 Windows、macOS 和 Linux。
+venv 是 Python 标准库的一部分,在所有平台上都可用。
+包生态系统:
+conda 有自己的包生态系统,包括数据科学和科学计算库。
+venv 使用 PyPI(Python 包索引),可访问更广泛的 Python 包。
+总的来说,conda 更适合于数据科学和科学计算领域,提供了更强大的包管理和环境隔离功能,但占用更多磁盘空间。venv 则更加轻量级,适用于所有 Python 项目,占用空间较少,但功能也相对简单。
+
+就空间优化而言,pnpm、npm 和 yarn 确实使用了符号链接来节省磁盘空间,但 conda 和 venv 都没有采用这种机制。不过,由于 venv 共享系统级 Python,所以通常比 conda 环境占用更少的磁盘空间。
+
 3.2.6 Form control baselines
 
 The baseline of a form control element is determined as follows:

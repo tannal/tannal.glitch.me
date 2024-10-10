@@ -1,5 +1,137 @@
 # 2024-10-10
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+shorebirddev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=shorebirddev
+
+shorebirdtech repositories
+https://github.com/orgs/shorebirdtech/repositories
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+(24) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4&t=2025s
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+研究報告16　カーボン・ナノチューブ・フライホイール
+https://www.madnoda.jp/oldpage/space/mlab16.xml
+
+html.css - mozsearch
+https://searchfox.org/mozilla-central/rev/7e0ae4372c52b8183d1178132dd6493edb576738/layout/style/res/html.css#277-284
+
+Show HN: Shorebird 1.0, Flutter Code Push | Hacker News
+https://news.ycombinator.com/item?id=39973150
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889#issue-2262046512
+
+HTML: Add a tentative test for input element's baseline alignment by zcorpan · Pull Request #20306 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/20306
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Default 'display' value for form controls · Issue #4082 · whatwg/html
+https://github.com/whatwg/html/issues/4082
+
+Live DOM Viewer
+http://software.hixie.ch/utilities/js/live-dom-viewer/?saved=7355
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+⚙ D224630 WIP: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630
+
+hmcl - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=hmcl
+
+Releases · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/releases
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(295) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1272) #gpu > Latency Investigation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Latency.20Investigation
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1650) #cranelift > Are there any plans for variadic calling convention? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Are.20there.20any.20plans.20for.20variadic.20calling.20convention.3F
+
+(82) #general > help with testing cargo - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/help.20with.20testing.20cargo
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+(1661) #mobile-dev-help > Image download issue - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/516-mobile-dev-help/topic/Image.20download.20issue
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Disallow connecting to unsupported ancient servers · Flutter app
+https://github.com/orgs/zulip/projects/5/views/4?pane=issue&itemId=35871666&issue=zulip%7Czulip-flutter%7C267
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit#heading=h.5dm555deg91y
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(24) Discord | #torch | GPU MODE
+https://discord.com/channels/1189498204333543425/1189607750876008468
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1806731 - Anti-pattern of async/await in Promise constructor executor functions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1806731
+
+Element [8] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
