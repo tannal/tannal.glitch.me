@@ -1,6 +1,20 @@
 
+# k3s prometheus
+curl -sfL https://get.k3s.io | sh
 
+sudo k3s kubectl get nodes
+
+curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
+
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo update
+
+kubectl create namespace prometheus
+sudo helm install prometheus prometheus-community/kube-prometheus-stack -n prometheus
+
+kubectl port-forward -n prometheus svc/prometheus-kube-prometheus-prometheus 9090:9090
 # dev
+
 
 minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud
 minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud-db
