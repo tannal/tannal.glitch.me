@@ -1,3 +1,137 @@
+# 2024-10-10
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+IlumEngine
+https://github.com/Chaf-Libraries
+
+AngelMonica126 (Monica的小甜甜)
+https://github.com/AngelMonica126
+
+text_layout_cmp_rs/src/parley_skia.rs at master · RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs/blob/master/src/parley_skia.rs
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+LaurenzV (Laurenz Stampfl)
+https://github.com/LaurenzV
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+zed/docs/src/conversations.md at ab34342664501b9fa946727b12fb99b4bd854847 · zed-industries/zed
+https://github.com/zed-industries/zed/blob/ab34342664501b9fa946727b12fb99b4bd854847/docs/src/conversations.md?plain=1#L7
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip/tree/main?tab=readme-ov-file
+
+Using the development environment — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/development/using.html
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Avoid using destructuring in tco-fn-realm.js by tannal · Pull Request #4251 · tc39/test262
+https://github.com/tc39/test262
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+haoranxu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=haoranxu
+
+haoranxu (Haoran Xu)
+https://huggingface.co/haoranxu
+
+Haoran Xu
+https://www.fe1ixxu.com/
+
+cpython/Doc/whatsnew/3.13.rst at 99400930ac1d4e5e10a5ae30f8202d8bc2661e39 · python/cpython
+https://github.com/python/cpython/blob/99400930ac1d4e5e10a5ae30f8202d8bc2661e39/Doc/whatsnew/3.13.rst#L424
+
+sillycross/PochiVM: Lightweight framework for easy and efficient code generation
+https://github.com/sillycross/PochiVM
+
+Archives |
+https://sillycross.github.io/cnblog/
+
+jfkthame
+https://github.com/jfkthame
+
+gpu mode github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gpu+mode+github
+
+resource-stream/README.md at 2d7447f9eaf582851219d91c5eec7f18d85f3591 · gpu-mode/resource-stream
+https://github.com/gpu-mode/resource-stream/blob/2d7447f9eaf582851219d91c5eec7f18d85f3591/README.md?plain=1#L4
+
+(24) Discord | #llmdotc | GPU MODE
+https://discord.com/channels/1189498204333543425/1227345713348870156
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+(24) Discord | #general | Lutris
+https://discord.com/channels/512538904872747018/512538904872747020
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(296) #general > Internal WPT pass rate numbers - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Internal.20WPT.20pass.20rate.20numbers
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1293) #gpu > Latency Investigation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Latency.20Investigation
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1650) #cranelift > Are there any plans for variadic calling convention? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Are.20there.20any.20plans.20for.20variadic.20calling.20convention.3F
+
+(84) #general > Rust Annual Survey 2024 RFC (gathering feedback) - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Rust.20Annual.20Survey.202024.20RFC.20.28gathering.20feedback.29
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+(1653) #mobile-dev-help > database g error - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/516-mobile-dev-help/topic/database.20g.20error
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Disallow connecting to unsupported ancient servers · Flutter app
+https://github.com/orgs/zulip/projects/5/views/4?pane=issue&itemId=35871666&issue=zulip%7Czulip-flutter%7C267
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Element [8] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org/$VloZIuWkoD0XF0sO9PCp3ULmN9TYhERG4SExHQnkygI
+
 # 2024-10-9
 
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
