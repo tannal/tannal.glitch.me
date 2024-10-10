@@ -1,4 +1,198 @@
 
+3.2.6 Form control baselines
+
+The baseline of a form control element is determined as follows:
+
+1. For <input> elements:
+
+   1. If the 'type' attribute is "text", "password", "email", "tel", "url", or "search":
+      The baseline is aligned with the baseline of the element's text content.
+
+   2. If the 'type' attribute is "button", "submit", or "reset":
+      The baseline is the bottom edge of the content box.
+
+   3. If the 'type' attribute is "checkbox" or "radio":
+      - If the computed value of 'appearance' is 'none':
+        The baseline is the bottom edge of the margin box.
+      - Otherwise:
+        The baseline is the bottom edge of the border box.
+
+   4. If the 'type' attribute is "range":
+      The baseline is the bottom edge of the border box.
+
+   5. If the 'type' attribute is "color":
+      The baseline is the bottom edge of the content box.
+
+   6. For all other 'type' values:
+      - If the element has visible text content:
+        The baseline is aligned with the baseline of the element's text content.
+      - Otherwise:
+        The baseline is the bottom edge of the border box.
+
+2. For <button> elements:
+   The baseline is the bottom edge of the content box.
+
+3. For <select> elements:
+   The baseline is aligned with the baseline of the selected option's text.
+
+4. For <textarea> elements:
+   The baseline is aligned with the baseline of the first line of text.
+
+NOTE: User agents must ensure that changing the 'appearance' property does not affect the baseline calculation, except for checkbox and radio inputs as specified above.
+
+NOTE: Future versions of this specification may introduce a new CSS property to allow authors to explicitly control the baseline alignment of form controls.
+
+EXAMPLE: The following markup demonstrates baseline alignment of various form controls:
+
+```html
+<p>Text <input type="text" value="Input"> <button>Button</button> <input type="checkbox"> <input type="radio"> <input type="range"> <input type="color"></p>
+```
+
+对于 radio 和 checkbox 类型的 input:
+当有效外观(appearance)时,基线是从 border-box 边缘合成的。
+当 appearance:none 时,基线是从 margin-box 边缘合成的。
+对于 range 类型的 input:
+Blink 和 WebKit 引擎从 border-box 边缘合成基线。
+Firefox 从 margin-box 边缘合成基线。
+对于 button、submit、reset 类型的 input 以及 <button> 元素:
+基线从 content-box 边缘合成。
+对于 color 类型的 input:
+使用 content-box 边缘。
+不同浏览器在应用 -webkit-appearance 属性时,对某些控件(如 checkbox)的基线合成也有所不同。
+目前还没有一个明确的规范来定义这些表单控件的基线位置。
+Web Platform Tests 项目中添加了一些试验性测试来检查这些行为。
+
+基本原则：
+为所有表单控件定义一致的基线合成规则。
+考虑到现有的浏览器实现和开发者期望。
+尽量减少对现有网页布局的影响。
+具体规则： a. 文本输入类控件（text, password, email 等）：
+基线应与文本内容的基线一致。
+b. 按钮类控件（button, submit, reset）：
+使用 content-box 边缘作为基线。
+c. 复选框和单选框（checkbox, radio）：
+默认外观：使用 border-box 边缘作为基线。
+当 appearance: none 时：使用 margin-box 边缘作为基线。
+d. 范围选择器（range）：
+统一使用 border-box 边缘作为基线。
+e. 颜色选择器（color）：
+保持使用 content-box 边缘作为基线。
+f. 其他控件（如 file, date 等）：
+如果有可见文本，与文本基线一致。
+否则，使用 border-box 边缘作为基线。
+appearance 属性的影响：
+明确规定 appearance 属性不应改变基线的计算方式，除非是为了匹配原生控件的行为（如复选框和单选框）。
+实现建议：
+浏览器厂商应在未来的版本中逐步采用这些规则。
+为开发者提供一个新的 CSS 属性（如 baseline-align）来在必要时覆盖默认行为。
+向后兼容性：
+在过渡期内，浏览器可以提供一个标志来切换新旧行为。
+鼓励网页开发者测试其页面在新规则下的表现。
+文档和测试：
+在 HTML 规范中明确记录这些规则。
+在 Web Platform Tests 中添加全面的测试用例。
+未来扩展：
+考虑为自定义元素和 Web 组件定义类似的基线对齐规则。
+
+
+基于GitHub仓库的信息,HTML标准的维护和贡献流程大致如下:
+
+仓库结构:
+source文件夹包含主要的源代码
+使用Makefile构建HTML输出
+tests位于单独的web-platform-tests仓库中
+贡献流程:
+阅读CONTRIBUTING.md文件了解贡献指南
+Fork仓库并创建分支
+对source文件进行修改
+使用Makefile在本地构建并预览更改
+提交Pull Request(PR)
+PR流程:
+PR会自动触发CI检查和预览构建
+维护者会审核PR并提供反馈
+可能需要多轮修改才能合并
+合并后会自动更新规范网站
+最佳实践:
+遵循WHATWG行为准则
+对大型更改先开issue讨论
+编写测试用例(在web-platform-tests仓库)
+保持commit信息清晰简洁
+遵循编码风格(.editorconfig)
+维护者工作流:
+定期审核PR和issue
+组织讨论重大更改
+维护规范的一致性和质量
+处理社区反馈
+其他注意事项:
+使用GitHub Actions进行CI/CD
+有专门的PR模板(PULL_REQUEST_TEMPLATE.md)
+FAQ.md包含常见问题解答
+总的来说,这是一个高度协作的开源项目,有明确的贡献指南和工作流程。维护者和贡献者需要密切合作,以确保HTML标准的持续发展和改进。
+
+
+要为 HTML 中的 widgets 的 baseline 行为提出一个标准化提案，你可以按以下步骤进行：
+
+研究现状
+深入研究现有浏览器的实现，如你已经做的那样。
+分析不同 widgets 的 baseline 行为差异。
+考虑这些差异对页面布局和可访问性的影响。
+起草提案
+明确提案的目标:统一和标准化 HTML widgets 的 baseline 行为。
+详细描述每种 widget 类型的建议 baseline 行为。
+解释你的建议如何与现有的 CSS 规范(如 inline-block 和替换元素的 baseline 规则)保持一致。
+考虑向后兼容性问题。
+提交到相关工作组
+将你的提案提交到 WHATWG HTML 工作组。
+可以通过 GitHub 上的 WHATWG/HTML 仓库提交 issue 或 pull request。
+获取反馈并迭代
+与社区成员和浏览器厂商讨论你的提案。
+根据反馈修改和完善提案。
+实现和测试
+鼓励浏览器厂商实现你的提案。
+编写详细的测试用例来验证实现。
+文档化
+更新相关规范文档。
+为开发者编写指南和最佳实践。
+提案的大致结构可能如下：
+
+标题: 标准化 HTML Widgets 的 Baseline 行为
+
+1. 背景和动机
+   - 当前问题的描述
+   - 标准化的重要性
+2. 提案概述
+   - 主要目标
+   - 预期收益
+3. 详细规范
+   - 对每种 widget 类型的 baseline 行为的具体描述
+   - 与 CSS 规范的关系
+4. 兼容性考虑
+   - 对现有网页的潜在影响
+   - 建议的过渡策略
+5. 安全和隐私考虑（如果有）
+6. 示例和用例
+7. 相关工作和参考资料
+8. 致谢
+
+
+
+Kotlin Multiplatform (KMP)
+Kotlin Multiplatform是一个允许你使用Kotlin语言开发跨平台项目的技术。它让你可以在不同平台（如Android、iOS、Web、桌面等）之间共享代码。KMP的主要目标是减少重复代码，提高开发效率。
+
+Compose Multiplatform
+Compose Multiplatform是基于Kotlin Multiplatform的一个UI框架。它源自Android的Jetpack Compose，但被扩展为支持多个平台。Compose Multiplatform允许你使用声明式UI模式为多个平台创建用户界面。
+
+关系：
+
+Compose Multiplatform是建立在Kotlin Multiplatform基础之上的。
+Kotlin Multiplatform提供了跨平台代码共享的基础设施。
+Compose Multiplatform利用了这个基础设施，专注于提供跨平台的UI解决方案。
+简单来说：
+
+Kotlin Multiplatform是基础技术，处理跨平台的代码共享。
+Compose Multiplatform是一个使用KMP构建的UI框架，专注于跨平台的用户界面开发。
+它们经常一起使用，这可能是导致您认为它们是同一件事的原因。在实践中，你可以使用Kotlin Multiplatform来共享业务逻辑，同时使用Compose Multiplatform来创建统一的用户界面。这种组合为开发者提供了一个强大的跨平台开发方案。
+
 对于最方便、最现代且便于管理的方式安装 Kubernetes (K8s)，我推荐使用 k3s。k3s 是一个轻量级的 Kubernetes 发行版，专为边缘计算、IoT 设备和开发环境设计，但也非常适合作为小型生产环境的选择。以下是安装步骤：
 
 准备工作：
