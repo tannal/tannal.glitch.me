@@ -1,6 +1,8 @@
 
 # 2024-10-11 0 | 0
 
+
+remote
 collabrate
 AI
 Performance cpu/gpu/memory/disk
