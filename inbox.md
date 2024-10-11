@@ -1,6 +1,13 @@
 
 # 2024-10-11 0 | 0
 
+collabrate
+AI
+Performance cpu/gpu/memory/disk
+
+
+cargo install --git https://github.com/mozilla/sccache.git sccache
+
 sudo sysctl -w fs.inotify.max_user_watches=262144
 
 # 2024-10-10 0 | 0

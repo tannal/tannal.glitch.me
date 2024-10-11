@@ -1,5 +1,191 @@
 # 2024-10-11
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(24) Building the Zed Text Editor (with Nathan Sobo) - YouTube
+https://www.youtube.com/watch?v=fV4aPy1bmY0
+
+mozilla/sccache: Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.
+https://github.com/mozilla/sccache
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Nathan Sobo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nathan+Sobo
+
+nathansobo (nathansobo) / Repositories
+https://github.com/nathansobo?tab=repositories
+
+Nathan Sobo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nathan+Sobo
+
+Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTbvdLGDsTTrwGlbgKtDs
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7742476
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&selectedTaskRun=Fn5qz3ZRRoKVLtO2uaZKxQ.0&resultStatus=testfailed%2Cbusted%2Cexception%2Cretry%2Cusercancel%2Crunning%2Cpending%2Crunnable&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+1884385 - Commit Access (Level 1) for Simon Pieters zcorpan@mozilla.com
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884385
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+React TypeScript Playground Hooks
+https://playcode.io/2005664
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+Nathan Sobo wikipedia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nathan+Sobo+wikipedia
+
+Nathan Sobo - Zed Industries | LinkedIn
+https://www.linkedin.com/in/nathan-sobo-92b46720
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Files - Nextcloud
+http://10.106.146.44:8081/apps/files/files/787?dir=/Talk&openfile=true
+
+University of Southern California - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+University+of+Southern+California+
+
+Nathan Sobo memo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Nathan+Sobo+memo
+
+rewrite zed in zig - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rewrite+zed+in+zig
+
+Zig support · Issue #5300 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5300
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+sentry ai - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sentry+ai
+
+Careers | Sentry
+https://sentry.io/careers/
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(337) #general > Facilitating file downloads on the embedder side - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Facilitating.20file.20downloads.20on.20the.20embedder.20side
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1227) #gpu > AAA (x86, DirectX) gaming on Asahi Linux - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/AAA.20.28x86.2C.20DirectX.29.20gaming.20on.20Asahi.20Linux
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1629) #general > Component model critique - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Component.20model.20critique
+
+(137) #general > Rust Annual Survey 2024 RFC (gathering feedback) - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Rust.20Annual.20Survey.202024.20RFC.20.28gathering.20feedback.29
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+(1799) #new members > channel events - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/95-new-members/topic/channel.20events
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Offer a list of all streams, and a way to subscribe · Flutter app
+https://github.com/orgs/zulip/projects/5/views/4?pane=issue&itemId=30843211&issue=zulip%7Czulip-flutter%7C188
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit?tab=t.0#heading=h.5dm555deg91y
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(24) Discord | #llmdotc | GPU MODE
+https://discord.com/channels/1189498204333543425/1227345713348870156/threads/1293677893678792795
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [6] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+1277934 - [css-grid] write more reftests for align/justify-self/content:[last-]baseline
+https://bugzilla.mozilla.org/show_bug.cgi?id=1277934
+
+1806731 - Anti-pattern of async/await in Promise constructor executor functions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1806731
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+(24) Discord | 好友
+https://discord.com/channels/@me
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
