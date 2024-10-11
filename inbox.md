@@ -1,5 +1,10 @@
 
+# 2024-10-11 0 | 0
+
+sudo sysctl -w fs.inotify.max_user_watches=262144
+
 # 2024-10-10 0 | 0
+
 
 python -m torch.distributed.run --nproc_per_node=4 --nnodes=2 --node_rank=0 --master_addr="192.168.1.1" --master_port=29500 train.py
 

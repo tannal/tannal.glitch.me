@@ -1,3 +1,173 @@
+# 2024-10-11
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Personal Access Tokens (Classic)
+https://github.com/settings/tokens
+
+bytecodealliance repositories
+https://github.com/orgs/bytecodealliance/repositories
+
+Programmers are most likely to work from home | Hacker News
+https://news.ycombinator.com/item?id=14098057
+
+Spinkube: Running WASM in Kubernetes | Hacker News
+https://news.ycombinator.com/item?id=39697935
+
+WebAssembly Language Support Matrix | Fermyon Developer
+https://developer.fermyon.com/wasm-languages/webassembly-language-support
+
+Fermyon • Experience the next wave of cloud computing.
+https://www.fermyon.com/#
+
+Fermyon
+https://github.com/fermyon
+
+Story: Deciding What to Build - Software Developer Success: Soft Skills & Testing | Frontend Masters
+https://frontendmasters.com/courses/dev-soft-skills/story-deciding-what-to-build/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+K3s – Lightweight Kubernetes | Hacker News
+https://news.ycombinator.com/item?id=19261324
+
+personal-server/README.md at master · erebe/personal-server
+https://github.com/erebe/personal-server/blob/master/README.md#k3s
+
+canonical/multipass: Multipass orchestrates virtual Ubuntu instances
+https://github.com/canonical/multipass
+
+MicroK8s – Low-ops, minimal Kubernetes, for cloud, clusters, Edge and IoT | Hacker News
+https://news.ycombinator.com/item?id=27916178
+
+k0sproject/k0s: k0s - The Zero Friction Kubernetes
+https://github.com/k0sproject/k0s
+
+Francesca Sadikin - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Francesca+Sadikin
+
+tannal (tannal)
+https://github.com/tannal/
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(321) #general > Facilitating file downloads on the embedder side - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Facilitating.20file.20downloads.20on.20the.20embedder.20side
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1225) #gpu > AAA (x86, DirectX) gaming on Asahi Linux - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/AAA.20.28x86.2C.20DirectX.29.20gaming.20on.20Asahi.20Linux
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1629) #general > Component model critique - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Component.20model.20critique
+
+(137) #general > Rust Annual Survey 2024 RFC (gathering feedback) - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Rust.20Annual.20Survey.202024.20RFC.20.28gathering.20feedback.29
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+(1799) #new members > channel events - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/95-new-members/topic/channel.20events
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Offer a list of all streams, and a way to subscribe · Flutter app
+https://github.com/orgs/zulip/projects/5/views/4?pane=issue&itemId=30843211&issue=zulip%7Czulip-flutter%7C188
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+CSS Basic User Interface Module Level 4
+https://drafts.csswg.org/css-ui/#caret-animation
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(24) Discord | #llmdotc | GPU MODE
+https://discord.com/channels/1189498204333543425/1227345713348870156/threads/1293677893678792795
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [8] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+1277934 - [css-grid] write more reftests for align/justify-self/content:[last-]baseline
+https://bugzilla.mozilla.org/show_bug.cgi?id=1277934
+
+1806731 - Anti-pattern of async/await in Promise constructor executor functions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1806731
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+tannal/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/tannal/zed
+
+Zed - The editor for what's next
+https://zed.dev/
+
+Implement go to rencent directories feature by tannal · Pull Request #19059 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/19059
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
 # 2024-10-10
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
