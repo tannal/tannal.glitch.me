@@ -3,6 +3,141 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal
+https://tannal.github.io/
+
+Joining Zed · maxdeviant.com
+https://maxdeviant.com/posts/2023/joining-zed/
+
+lanntai repositories
+https://github.com/orgs/lanntai/repositories
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(338) #general > Facilitating file downloads on the embedder side - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Facilitating.20file.20downloads.20on.20the.20embedder.20side
+
+Fix test timing for all tests using xr_promise_test by jdm · Pull Request #33715 · servo/servo
+https://github.com/servo/servo/pull/33715
+
+(1233) #gpu > Latency Investigation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Latency.20Investigation
+
+Issues · w3c/edit-context
+https://github.com/w3c/edit-context/issues
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1629) #general > Component model critique - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Component.20model.20critique
+
+(140) #general > Rust Annual Survey 2024 RFC (gathering feedback) - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Rust.20Annual.20Survey.202024.20RFC.20.28gathering.20feedback.29
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+(1820) #mobile > Bot icon asset needs update - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/48-mobile/topic/Bot.20icon.20asset.20needs.20update
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#what-makes-a-great-zulip-contributor
+
+Offer a list of all streams, and a way to subscribe · Flutter app
+https://github.com/orgs/zulip/projects/5/views/4?pane=issue&itemId=30843211&issue=zulip%7Czulip-flutter%7C188
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#where-to-look-for-an-issue
+
+Collapse long messages (with "show more") · Issue #984 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/984
+
+(1820) #design > when to condense messages - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/101-design/topic/when.20to.20condense.20messages/near/1934704
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files#diff-1a45c3ce61c4372e42135403d50309a31cde3c6fcea8cc3c546b423ad0c95715
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit?tab=t.0#heading=h.5dm555deg91y
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #🐣┃suno-showcase | Suno
+https://discord.com/channels/1069381916492562582/1083129341870878780/1290072401773596744
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [9] | Introduction
+https://chat.mozilla.org/#/room/#introduction:mozilla.org
+
+1277934 - [css-grid] write more reftests for align/justify-self/content:[last-]baseline
+https://bugzilla.mozilla.org/show_bug.cgi?id=1277934
+
+1806731 - Anti-pattern of async/await in Promise constructor executor functions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1806731
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Code search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=code
+
+Where work happens | Slack
+https://app.slack.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 (24) Building the Zed Text Editor (with Nathan Sobo) - YouTube
 https://www.youtube.com/watch?v=fV4aPy1bmY0
 
