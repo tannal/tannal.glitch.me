@@ -36,6 +36,10 @@ Zulip利用Tornado实时推送服务器和React/Webpack构建的现代Web客户�
 扩展性和可靠性
 Zulip的架构设计考虑了水平扩展和高可用性,可以通过添加更多服务器实例来扩展系统容量。它还支持备份和恢复等功能,以确保数据安全。
 
+# Web App
+
+https://github.com/zulip/zulip-flutter/issues/984
+
 # flutter
 
 https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20to.20thumbs.20up.3F/near/1890047

@@ -631,9 +631,9 @@ write wpt test for it
 
 [x] 10-7 23 PM GS2024
 [x] 2024-10-9 linebender office hour 23:00
-[] 10-10 10:00 PM
+[x] 10-10 10:00 PM
 [] 10-11 find a monitor and wire to raspi then boot an os
-[] 10-09 
+[x] 10-09 
 
 # 2024-9-29 - 2024-10-6
 
