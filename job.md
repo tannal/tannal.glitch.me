@@ -535,18 +535,27 @@ apply ICE
 
 # 2025-2-24 - 2025-3-3
 
-研一下开始，igalia的申请开始，AI实习开始投递，google开源之夏开始
+igalia的申请开始
+
+研一下开始, AI实习开始投递
+
 
 # 2025-2-17 - 2025-2-24
 # 2025-2-10 - 2025-2-17
+
 # 2025-2-3 - 2025-2-10
+
+Gsoc ideas
+
+- https://summerofcode.withgoogle.com/programs/2024/organizations/llvm-compiler-infrastructure
+
 # 2025-1-27 - 2025-2-3
 # 2025-1-20 - 2025-1-27
 # 2025-1-13 - 2025-1-20
 
 # 2025-1-6 - 2025-1-13
 
-研一上结束的寒假,outreachy
+研一上结束的寒假, outreachy
 
 # 2024-12-30 - 2025-1-6
 # 2024-12-23 - 2024-12-30
