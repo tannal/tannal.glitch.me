@@ -1,5 +1,44 @@
 # 2024-10-11
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GitHub - linebender/vello: A GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+探索 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/explore/repos
+
+Problem loading page
+http://192.168.43.246:3000/monaco/monaco.html
+
+Problem loading page
+https://cylab.be/blog/320/build-a-kernel-initramfs-and-busybox-to-create-your-own-micro-linux?accept-cookies=1
+
+微信文件传输助手_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B&fenlei=256&rsv_pq=0xdaf49c7d00a58172&rsv_t=aa2avKuShyuS%2Fsh3sC%2BJ8LiyxQ6VjUKjF3wuW2mpGA922ZmlVcuFt1j4wMKG&rqlang=en&rsv_dl=is_0&rsv_enter=1&rsv_sug3=24&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=weixinwenj&rsp=0&inputT=7442&rsv_sug4=8262
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-01&until=2024-09-24
+
+tannal (tannal)
+https://github.com/tannal/
+
+raspberrypi/firmware: This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+https://github.com/raspberrypi/firmware
+
+tannal/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials fork
+https://github.com/tannal/raspi3-tutorial/
+
+rsta2/circle: A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
+https://github.com/rsta2/circle
+
+tannal (tannal)
+https://github.com/tannal/
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
