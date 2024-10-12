@@ -1,3 +1,245 @@
+# 2024-10-12
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+ggerganov/llama.cpp: LLM inference in C/C++
+https://github.com/ggerganov/llama.cpp
+
+b-k/21st-Century-Examples: Examples for _21st Century C_ by Ben Klemens
+https://github.com/b-k/21st-Century-Examples
+
+(25) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4&t=2025s
+
+(25) webstatus dev Tech Stack [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=pY29akiiw2U
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+Joining Zed · maxdeviant.com
+https://maxdeviant.com/posts/2023/joining-zed/
+
+Implement go to recent directories feature by tannal · Pull Request #19059 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/19059/files
+
+MuseScore 4: Moving from notation software to composition software | Hacker News
+https://news.ycombinator.com/item?id=23525753
+
+AI Song Contest - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=AI+Song+Contest
+
+AI Song Contest 2024
+https://www.aisongcontest.com/
+
+Synthetic Beat Brigade - AI Song Contest 2024
+https://www.aisongcontest.com/participants-2023/synthetic-beat-brigade
+
+Browser Positioning - Front-End System Design | Frontend Masters
+https://frontendmasters.com/courses/frontend-system-design/performance-optimization/
+
+(25) Why Projects Succeed: Lessons Learned from the Android OS by Romain Guy and Chet Haase, Google EN - YouTube
+https://www.youtube.com/watch?v=29CXukGVcUM&t=1534s
+
+Rapier github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Rapier+github
+
+dimforge/rapier: 2D and 3D physics engines focused on performance.
+https://github.com/dimforge/rapier
+
+CryEngine github - Google 搜索
+https://www.google.com.hk/search?q=CryEngine+github&newwindow=1&client=ubuntu-sn&hs=mGB&sca_esv=7501f82bfcd3d2bc&channel=fs&ei=7dYJZ8DPGPKhkPIPiaPfmAc&ved=0ahUKEwiA-p-e3oeJAxXyEEQIHYnRF3MQ4dUDCA8&uact=5&oq=CryEngine+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEENyeUVuZ2luZSBnaXRodWIyBRAAGIAEMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI9xRQ3QNY8hNwAXgBkAEAmAGkAqABqgqqAQMyLTW4AQPIAQD4AQGYAgagAsoKwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgQQABgemAMAiAYBkAYKkgcFMS4wLjWgB8QM&sclient=gws-wiz-serp
+
+ValtoGameEngines
+https://github.com/ValtoGameEngines
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Why%20Projects%20Succeed&sort=byPopularity&type=story
+
+Llama3.2-pth to bin · ggerganov/llama.cpp · Discussion #9768
+https://github.com/ggerganov/llama.cpp/discussions/9768
+
+convert_llama_weights_to_hf.py - problem converting llama 3.2 1B · Issue #33760 · huggingface/transformers
+https://github.com/huggingface/transformers/issues/33760
+
+Support Llama 3.2 conversion (text models) by pcuenca · Pull Request #33778 · huggingface/transformers
+https://github.com/huggingface/transformers/pull/33778
+
+bitsandbytes - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bitsandbytes
+
+bitsandbytes-foundation/bitsandbytes: Accessible large language models via k-bit quantization for PyTorch.
+https://github.com/bitsandbytes-foundation/bitsandbytes
+
+huggingface llama3 gguf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=huggingface+llama3+gguf
+
+QuantFactory/Meta-Llama-3-70B-Instruct-GGUF-v2 at main
+https://huggingface.co/QuantFactory/Meta-Llama-3-70B-Instruct-GGUF-v2/tree/main
+
+ficus kirkpatrick - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ficus+kirkpatrix#fpr=r
+
+Ficus Kirkpatrick, Author at TechCrunch
+https://techcrunch.com/author/ficus-kirkpatrick/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Leopard&sort=byPopularity&type=story
+
+stackoverflow survey - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=stackoverflow+survey
+
+Technology | 2024 Stack Overflow Developer Survey
+https://survey.stackoverflow.co/2024/technology/
+
+Stack Overflow Developer Survey 2023
+https://survey.stackoverflow.co/2023/
+
+(1227) #gpu > Vello timings - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Vello.20timings
+
+Strategy for robust dynamic memory, readback, and async · Issue #366 · linebender/vello
+https://github.com/linebender/vello/issues/366#user-content-fn-1-5c43d568d898b259bf55def2f7b1255f
+
+318775292-d2f01142-6d64-456f-bf30-c6cc694f9ae0.png (PNG Image, 1998 × 1051 pixels) — Scaled (92%)
+https://private-user-images.githubusercontent.com/36049421/318775292-d2f01142-6d64-456f-bf30-c6cc694f9ae0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg3MjM1NzcsIm5iZiI6MTcyODcyMzI3NywicGF0aCI6Ii8zNjA0OTQyMS8zMTg3NzUyOTItZDJmMDExNDItNmQ2NC00NTZmLWJmMzAtYzZjYzY5NGY5YWUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEyVDA4NTQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2MWU2ODViZDU0OGE4NmM3YWM5ZTUwMWVjYTA1NzFiZDg3NGM2ZmNkNjE1YWM3ZjE2YmU3YzkxMzM5MzJmNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vOxbQDEqjabNeDnxePuxegCVIuWV2eD39M1Ujwh7Rzg
+
+2024-03-29 | Vello robust memory followup - Google 文档
+https://docs.google.com/document/d/1mvnGBv0OE3fDYr-8nn8FKRcNr9mIGg_7jJ3WIyH0-JU/edit?tab=t.0#heading=h.v2sxog7b6ovi
+
+318775292-d2f01142-6d64-456f-bf30-c6cc694f9ae0.png (PNG Image, 1998 × 1051 pixels) — Scaled (92%)
+https://private-user-images.githubusercontent.com/36049421/318775292-d2f01142-6d64-456f-bf30-c6cc694f9ae0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg3MjM1NzcsIm5iZiI6MTcyODcyMzI3NywicGF0aCI6Ii8zNjA0OTQyMS8zMTg3NzUyOTItZDJmMDExNDItNmQ2NC00NTZmLWJmMzAtYzZjYzY5NGY5YWUwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEyVDA4NTQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2MWU2ODViZDU0OGE4NmM3YWM5ZTUwMWVjYTA1NzFiZDg3NGM2ZmNkNjE1YWM3ZjE2YmU3YzkxMzM5MzJmNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vOxbQDEqjabNeDnxePuxegCVIuWV2eD39M1Ujwh7Rzg
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(346) #general > Efforts focus // Priorities - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Efforts.20focus.20.2F.2F.20Priorities
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+(1227) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/search/.22profile.22
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1646) #general > wasmtime profiling + pprof-rs? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/wasmtime.20profiling.20.2B.20pprof-rs.3F
+
+(116) #general > standard library LLVM IR - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/standard.20library.20LLVM.20IR
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+(1943) #general > reusing another PR's code - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/reusing.20another.20PR's.20code
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files#diff-1a45c3ce61c4372e42135403d50309a31cde3c6fcea8cc3c546b423ad0c95715
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #ai | Zed Community
+https://discord.com/channels/869392257814519848/1288175835744043028
+
+Program Organization | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/organizations/llvm-compiler-infrastructure
+
+typst/crates/typst-pdf/src/color.rs at 16736feb13eec87eb9ca114deaeb4f7eeb7409d2 · typst/typst
+https://github.com/typst/typst/blob/16736feb13eec87eb9ca114deaeb4f7eeb7409d2/crates/typst-pdf/src/color.rs#L174
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Data Loading – Typst Documentation
+https://typst.app/docs/reference/data-loading/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [8] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Code search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=code
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 # 2024-10-11
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
