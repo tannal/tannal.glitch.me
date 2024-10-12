@@ -5168,10 +5168,7 @@ make LLAMA_CUDA=1 -j16
 
 set substitute-path . ./linux
 
-git clone https://github.com/ggerganov/llama.cpp
 
-cmake -B build -DLLAMA_CUDA=ON
-cmake --build buil --config Release
 
 code can run, easy to use is great.
 

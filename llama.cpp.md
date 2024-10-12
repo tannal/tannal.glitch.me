@@ -9,7 +9,13 @@ cmake . -DCMAKE_C_FLAGS="-mfpu=neon-fp-armv8 -mfp16-format=ieee -mno-unaligned-a
 involves:ggerganov
 
 
+
 # inbox
+
+git clone https://github.com/ggerganov/llama.cpp
+
+cmake -G Ninja -B build -DLLAMA_CUDA=ON
+cmake --build build --config Release
 
 llm.c
 
