@@ -3,6 +3,236 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Upgrade wgpu-profiler by DJMcNab · Pull Request #687 · linebender/vello
+https://github.com/linebender/vello/pull/687/files
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+wgpu-profiler - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wgpu-profiler
+
+Support parsing hev1 by Wumpf · Pull Request #9 · rerun-io/re_mp4
+https://github.com/rerun-io/re_mp4/pull/9
+
+Andreas Reich (@wumpf@mastodon.gamedev.place) - Gamedev Mastodon
+https://mastodon.gamedev.place/@wumpf
+
+Rerun — Rerun
+https://rerun.io/viewer?url=https%3A%2F%2Fapp.rerun.io%2Fversion%2F0.18.2%2Fexamples%2Fplots.rrd
+
+rerun/examples/python/detect_and_track_objects at 59ff15b158de589dfa48eb8d3396bd44df833455 · rerun-io/rerun
+https://github.com/rerun-io/rerun/tree/59ff15b/examples/python/detect_and_track_objects
+
+rerun/examples/python/plots at 59ff15b158de589dfa48eb8d3396bd44df833455 · rerun-io/rerun
+https://github.com/rerun-io/rerun/tree/59ff15b/examples/python/plots
+
+Rerun OSS beta is released | Hacker News
+https://news.ycombinator.com/item?id=34807038
+
+uv rust github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=uv+rust+github
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+Python's pip on steroids | Hacker News
+https://news.ycombinator.com/item?id=39479582
+
+Ask HN: How to determine company's long term dependability? (Ello, Astral) | Hacker News
+https://news.ycombinator.com/item?id=39419523
+
+Anthropic hires OpenAI co-founder Durk Kingma | Hacker News
+https://news.ycombinator.com/item?id=41711913
+
+Durk Kingma - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Durk+Kingma
+
+cover_and_thesis.pdf
+https://www.dropbox.com/scl/fi/7ugxwrlkw5h0k97y13h6f/cover_and_thesis.pdf?rlkey=hxjow32xcy4nhg6rwje1z1hw5&e=1
+
+vello/vello_shaders/shader at main · linebender/vello
+https://github.com/linebender/vello/tree/main/vello_shaders/shader
+
+(1226) #gpu - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu
+
+firefox performace tracing - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=firefox+performace+tracing
+
+Firefox Profiler
+https://profiler.firefox.com/
+
+bun - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bun
+
+bun github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bun+github
+
+No registry, but requesting npmmirror.com · Issue #13221 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/13221
+
+(25) Announcing Deno 2 - YouTube
+https://www.youtube.com/watch?v=d35SlRgVxT8
+
+Future: Move bundling from Rollup to Rolldown · Issue #4669 · maplibre/maplibre-gl-js
+https://github.com/maplibre/maplibre-gl-js/issues/4669
+
+kaleidawave/ezno: A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
+https://github.com/kaleidawave/ezno
+
+Issue search results
+https://github.com/search?q=to+Rolldown&type=issues&p=3
+
+migrate to Oxc and Rolldown · Issue #506 · ryanatkn/gro
+https://github.com/ryanatkn/gro/issues/506
+
+Improve WASI support · Issue #898 · rolldown/rolldown
+https://github.com/rolldown/rolldown/issues/898
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=node%20compatbility&sort=byPopularity&type=story
+
+Bun — A fast all-in-one JavaScript runtime
+https://bun.sh/
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(347) #general > Efforts focus // Priorities - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Efforts.20focus.20.2F.2F.20Priorities
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+(1226) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/search/.22profile.22
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1646) #general > wasmtime profiling + pprof-rs? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/wasmtime.20profiling.20.2B.20pprof-rs.3F
+
+(116) #general > standard library LLVM IR - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/standard.20library.20LLVM.20IR
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+(1946) #general > reusing another PR's code - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/reusing.20another.20PR's.20code
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files#diff-1a45c3ce61c4372e42135403d50309a31cde3c6fcea8cc3c546b423ad0c95715
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #github-feed | Deno
+https://discord.com/channels/684898665143206084/685193730114060300/1203508782940815410
+
+typst/crates/typst-pdf/src/color.rs at 16736feb13eec87eb9ca114deaeb4f7eeb7409d2 · typst/typst
+https://github.com/typst/typst/blob/16736feb13eec87eb9ca114deaeb4f7eeb7409d2/crates/typst-pdf/src/color.rs#L174
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Data Loading – Typst Documentation
+https://typst.app/docs/reference/data-loading/
+
+Does Deno consider replacing `SWC` with `OXC` · denoland/deno · Discussion #22252
+https://github.com/denoland/deno/discussions/22252
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [8] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Code search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=code
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+D224630: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTZngpfxPHCCKrcqlRnvh
+
+
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 ggerganov/llama.cpp: LLM inference in C/C++
 https://github.com/ggerganov/llama.cpp
 
