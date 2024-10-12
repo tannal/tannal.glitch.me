@@ -1,5 +1,212 @@
 # 2024-10-12
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&group_state=expanded&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37&selectedTaskRun=OLB1tc82QnGQ9lOtwMiF7Q.0
+
+1924305 - Commit Access (Level 1) for tannal tannal2409@gmail.com
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924305
+
+⚙ D223107 Bug 1917771 - Use bottom of border box as the range frame's baseline. r=emilio
+https://phabricator.services.mozilla.com/D223107
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Configuring Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/configuration.html
+
+Becoming A Mozilla Committer — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/
+
+Mozilla Commit Access Policy — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/access-policy/
+
+Connecting to GitHub with SSH - GitHub Docs
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+Commit Access Requirements — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/requirements/
+
+Connecting to GitHub with SSH - GitHub Docs
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+1884385 - Commit Access (Level 1) for Simon Pieters zcorpan@mozilla.com
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884385
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+bug1884385.bmoattachments.org/attachment.cgi?id=9390186
+https://bug1884385.bmoattachments.org/attachment.cgi?id=9390186
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1922163 - <table align="right/left"> aren't mapped to float as per spec
+https://bugzilla.mozilla.org/show_bug.cgi?id=1922163
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(347) #general > Efforts focus // Priorities - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Efforts.20focus.20.2F.2F.20Priorities
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+(1226) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/search/.22profile.22
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+RagibHasin/text_layout_cmp_rs
+https://github.com/RagibHasin/text_layout_cmp_rs
+
+(1647) #general > wasmtime profiling + pprof-rs? - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/wasmtime.20profiling.20.2B.20pprof-rs.3F
+
+(116) #general > standard library LLVM IR - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/standard.20library.20LLVM.20IR
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+(1946) #general > reusing another PR's code - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/reusing.20another.20PR's.20code
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files#diff-1a45c3ce61c4372e42135403d50309a31cde3c6fcea8cc3c546b423ad0c95715
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #github-feed | Deno
+https://discord.com/channels/684898665143206084/685193730114060300/1203508782940815410
+
+typst/crates/typst-pdf/src/color.rs at 16736feb13eec87eb9ca114deaeb4f7eeb7409d2 · typst/typst
+https://github.com/typst/typst/blob/16736feb13eec87eb9ca114deaeb4f7eeb7409d2/crates/typst-pdf/src/color.rs#L174
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Data Loading – Typst Documentation
+https://typst.app/docs/reference/data-loading/
+
+Does Deno consider replacing `SWC` with `OXC` · denoland/deno · Discussion #22252
+https://github.com/denoland/deno/discussions/22252
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [8] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Code search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=code
+
+* 搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+D225012: Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTbvdLGDsTTrwGlbgKtDs
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
@@ -227,8 +434,6 @@ https://app.slack.com/client/T09229ZC6/search
 
 D224630: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTZngpfxPHCCKrcqlRnvh
-
-
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
