@@ -8,7 +8,9 @@ cmake . -DCMAKE_C_FLAGS="-mfpu=neon-fp-armv8 -mfp16-format=ieee -mno-unaligned-a
 
 involves:ggerganov
 
+curl -C - -L -O https://huggingface.co/QuantFactory/Meta-Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct.Q3_K_L.gguf
 
+curl -C - -L -O https://huggingface.co/QuantFactory/Meta-Llama-3-70B-Instruct-GGUF-v2/resolve/main/Meta-Llama-3-70B-Instruct-v2.Q3_K_L.gguf
 
 # inbox
 
