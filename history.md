@@ -1,3 +1,215 @@
+# 2024-10-13
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(26) 周杰倫生涯最強【安靜】Live - YouTube
+https://www.youtube.com/watch?v=HmmLSZPL7YY
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+mariadb github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mariadb+github
+
+MariaDB/server: MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+https://github.com/MariaDB/server
+
+#general > Replication - MariaDB Foundation - Zulip
+https://mariadb.zulipchat.com/#narrow/stream/118759-general/topic/Replication
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Alibaba is leading a $27M investment in MariaDB | Hacker News
+https://news.ycombinator.com/item?id=15366365
+
+DBMS 2 : Database management and analytic technologies in a changing world
+http://www.dbms2.com/
+
+(26) #01 - Relational Model & Algebra (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=APqWIjtzNGE
+
+DQN paper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=DQN+paper
+
+1312.5602v1.pdf
+https://arxiv.org/pdf/1312.5602
+
+Technical Note Q Learning · Issue #84 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/84
+
+q learning paper - Google 搜索
+https://www.google.com.hk/search?q=q+learning+paper&newwindow=1&client=ubuntu-sn&hs=BZr&sca_esv=6ce44284366b510a&channel=fs&ei=uBsLZ_GKK4yfkPIP64yUmAo&oq=q+learning+&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3EgbGVhcm5pbmcgKgIIAjIFEAAYgAQyBRAAGIAEMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgkQABiABBgKGAwyBRAAGIAESKUpUNEPWNEPcAF4AZABAJgBjgKgAY4CqgEDMi0xuAEByAEA-AEBmAICoAKaAsICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjAuMaAHnwM&sclient=gws-wiz-serp
+
+cjch.pdf
+https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf
+
+rlhf paper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rlhf+paper
+
+OpenDILab
+https://github.com/opendilab
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#%E5%AD%A6%E7%A7%91%E4%BA%A4%E5%8F%89
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(315) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1206) #gpu > Progress for GPU's Without Forward Progress Guarantees - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/197075-gpu/topic/Progress.20for.20GPU's.20Without.20Forward.20Progress.20Guarantees
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1627) #general > global is immutable: cannot modify it with `global.set` - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/global.20is.20immutable.3A.20cannot.20modify.20it.20with.20.60global.2Eset.60
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+(118) #general > standard library LLVM IR - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/standard.20library.20LLVM.20IR
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+(1960) #general > reusing another PR's code - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/reusing.20another.20PR's.20code
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Data Loading – Typst Documentation
+https://typst.app/docs/reference/data-loading/
+
+Does Deno consider replacing `SWC` with `OXC` · denoland/deno · Discussion #22252
+https://github.com/denoland/deno/discussions/22252
+
+oxc-project/oxc-resolver: Rust version of webpack/enhanced-resolve
+https://github.com/oxc-project/oxc-resolver
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | Media
+https://chat.mozilla.org/#/room/#media:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
 # 2024-10-12
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
