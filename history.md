@@ -1,5 +1,248 @@
 # 2024-10-13
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(26) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4&t=2025s
+
+IRL Keynotes - Google 云端硬盘
+https://drive.google.com/drive/folders/1Pz607n07u382_ybdd4gFdrNyEWra5kpj
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+nsRange.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/181e5bb2645236a617d42e3740420098097f7a0f/dom/base/nsRange.cpp#2955
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Contributors to karpathy/llm.c
+https://github.com/karpathy/llm.c/graphs/contributors?from=10%2F7%2F2023
+
+ambiguous overload for TORCH_LIBRARY `def` · Issue #126519 · pytorch/pytorch
+https://github.com/pytorch/pytorch/issues/126519
+
+pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+https://github.com/pytorch/pytorch?tab=readme-ov-file
+
+Slack
+https://pytorch.slack.com/
+
+PyTorch Slack Invitation
+https://docs.google.com/forms/d/e/1FAIpQLSeADnUNW36fjKjYzyHDOzEB_abKQE9b6gqqW9NXse6O0MWh0A/viewform
+
+SFINAEd - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=SFINAEd
+
+(26) Let's get comfortable with SFINAE (C++) - YouTube
+https://www.youtube.com/watch?v=-Z7EOWVkb3M
+
+compute sanitizers · Issue #393 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/393
+
+Compute Sanitizer — compute-sanitizer 12.6 documentation
+https://docs.nvidia.com/compute-sanitizer/ComputeSanitizer/index.html
+
+cmake build pytorch - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cmake+build+pytorch
+
+Build and Develop PyTorch - Lei Mao's Log Book
+https://leimao.github.io/blog/Build-Develop-PyTorch/
+
+Category: essay - Lei Mao's Log Book
+https://leimao.github.io/essay/page/13/
+
+ppoffice/hexo-theme-icarus: A simple, delicate, and modern theme for the static site generator Hexo.
+https://github.com/ppoffice/hexo-theme-icarus
+
+halide github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=halide+github
+
+halide/SIGGRAPH2015: Example code used in siggraph 2015 Halide course
+https://github.com/halide/SIGGRAPH2015
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+karpathy/llm.c at llama3
+https://github.com/karpathy/llm.c/tree/llama3
+
+artem kirsanov github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=artem+kirsanov+github
+
+Issues · ArtemKirsanov/Youtube-Videos
+https://github.com/ArtemKirsanov/Youtube-Videos/issues
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(314) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1203) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/streams/public/search/orca
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1603) #general > Multiple components subscribe to pollables - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Multiple.20components.20subscribe.20to.20pollables
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(109) #general > Getting `ignoring emit path because multiple .o files` - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Getting.20.60ignoring.20emit.20path.20because.20multiple.20.2Eo.20files.60
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+https://github.com/tokio-rs/tokio
+
+(1953) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [4] | Rust
+https://chat.mozilla.org/#/room/#rust:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
+(23) Discord | #ai | Zed Community
+https://discord.com/channels/869392257814519848/1288175835744043028
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+D224630: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTZngpfxPHCCKrcqlRnvh
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -7,6 +7,8 @@ https://leimao.github.io/essay/%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%
 
 host_softmax
 
+cublas
+cudnn
 
 # dev
 
@@ -17,7 +19,6 @@ conda create --name pytorch
 conda activate pytorch
 
 pip install -r requirements.txt
-
 
 MAX_JOBS=4 DEBUG=1 USE_DISTRIBUTED=0 USE_MKLDNN=0 USE_CUDA=1 BUILD_TEST=0 USE_FBGEMM=0 USE_NNPACK=0 USE_QNNPACK=0 USE_XNNPACK=0 python setup.py develop
 
