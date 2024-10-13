@@ -1,5 +1,227 @@
 # 2024-10-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1&tab=t.0#heading=h.zcnntsspsdb6
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w
+
+Element embedding
+https://flutter-forward-demos.web.app/#/
+
+Flutter web app initialization | Flutter
+https://docs.flutter.dev/platform-integration/web/initialization
+
+Orca
+https://orca-app.dev/
+
+Issues · orca-app/orca
+https://github.com/orca-app/orca/issues
+
+Silverline WASM Research Day 2022 - Google 幻灯片
+https://docs.google.com/presentation/d/1RKRNnFrI8xPvEFfTao40WqqAd6NWuPET8qR5FIKHEEA/edit#slide=id.g1733516d4b3_3_18
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=.web.app&sort=byPopularity&type=story
+
+Braindump Inc
+https://prompty-58a21.web.app/universes/kDDVusqUw4AuTgbtt1FY
+
+Orca: WebAssembly Apps Without the Web | Hacker News
+https://news.ycombinator.com/item?id=41105617
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#%E7%96%AB%E6%83%85%E6%97%B6%E6%9C%9F%E7%9A%84%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A
+
+cmu wasm lab - Google 搜索
+https://www.google.com.hk/search?q=cmu+wasm+lab&newwindow=1&client=ubuntu-sn&hs=mlX&sca_esv=163135a7cecb0d79&channel=fs&ei=xigLZ9_bIOfHkPIP09GZwQY&start=10&sa=N&sstk=AagrsuhrWMzEd5Ve2M7mvQcPppp44_vqLnJ46gmEexqWb95tedAZguJuEy97ukBmmL7R5wzAAvYwYuSXmI9kDUr9hVONFjFgnaOtAw&ved=2ahUKEwjf1r23oIqJAxXnI0QIHdNoJmgQ8tMDegQIBxAE&biw=1850&bih=968&dpr=1
+
+CMU-Perceptual-Computing-Lab
+https://github.com/CMU-Perceptual-Computing-Lab
+
+OpenPose: Main Page
+https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html
+
+(26) Diyi Yang: Building Human Centered LLMs for Social Impact - YouTube
+https://www.youtube.com/watch?v=diS3bt5ejzc
+
+(26) Ben Titzer - Speed at a Price: The Evolution of V8 and the Challenges of Research in a Billion User - YouTube
+https://www.youtube.com/watch?v=z92Xm9VlPjM
+
+(26) John Mumm - A CRDT Primer: Defanging Order Theory - YouTube
+https://www.youtube.com/watch?v=OOlnp2bZVRs
+
+年轻照顾者 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E5%B9%B4%E8%BD%BB%E7%85%A7%E9%A1%BE%E8%80%85
+
+未成年照顾者 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/%E6%9C%AA%E6%88%90%E5%B9%B4%E7%85%A7%E9%A1%A7%E8%80%85
+
+Young carer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Young+carer
+
+Saul Becker - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Saul+Becker
+
+Agnes Leu - Google 搜索
+https://www.google.com.hk/search?q=Agnes+Leu+&newwindow=1&client=ubuntu-sn&hs=ohb&sca_esv=dfe00e6ef900fa4e&channel=fs&ei=4GMLZ9nXJ43IwN4Po8zYSA&ved=0ahUKEwjZx4rm2IqJAxUNJNAFHSMmFgkQ4dUDCA8&uact=5&oq=Agnes+Leu+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkFnbmVzIExldSAyBxAAGIAEGA0yBxAAGIAEGA0yBhAAGA0YHjIEEAAYHjIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIEEAAYHjIGEAAYDRgeMgQQABgeSIoRUPsIWPsIcAJ4AJABAJgBqwKgAasCqgEDMi0xuAEDyAEA-AEBmAIDoAK8AsICCBAAGIAEGLADwgIHEAAYsAMYHpgDAIgGAZAGCpIHBTIuMy0xoAfMAw&sclient=gws-wiz-serp
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(314) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1204) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/streams/public/search/orca
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1614) #general > transitive imports validation failure - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/transitive.20imports.20validation.20failure
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(119) #general > standard library LLVM IR - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/standard.20library.20LLVM.20IR
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+(1961) #general > reusing another PR's code - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/reusing.20another.20PR's.20code
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [4] | Rust
+https://chat.mozilla.org/#/room/#rust:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
+(23) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1292928819849855151
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
