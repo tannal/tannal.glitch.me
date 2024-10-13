@@ -1,6 +1,7 @@
 
 
-
+https://github.com/leimao
+https://leimao.github.io/essay/%E4%BA%8C%E5%8D%81%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%88%91%E4%BD%BF%E7%94%A8%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/
 
 # inbox
 
@@ -11,7 +12,14 @@ host_softmax
 
 git clone https://github.com/pytorch/pytorch.git
 
+conda create --name pytorch
 
+conda activate pytorch
+
+pip install -r requirements.txt
+
+
+MAX_JOBS=4 DEBUG=1 USE_DISTRIBUTED=0 USE_MKLDNN=0 USE_CUDA=1 BUILD_TEST=0 USE_FBGEMM=0 USE_NNPACK=0 USE_QNNPACK=0 USE_XNNPACK=0 python setup.py develop
 
 # people
 

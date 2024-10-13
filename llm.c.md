@@ -191,3 +191,33 @@ step   19/21479 | loss 9.205302 (+nanz)| norm 1.9532 (+nanz)| lr 5.43e-05 | 2435
 step   20/21479 | loss 9.154282 (+nanz)| norm 2.1207 (+nanz)| lr 5.71e-05 | 2439.00 ms | -100.0% bf16 MFU | 189727 tok/s
 step   21/21479 | loss 9.094215 (+nanz)| norm 2.1476 (+nanz)| lr 6.00e-05 | 2444.94 ms | -100.0% bf16 MFU | 189563 tok/s
 step   22/21479 | loss 9.055355 (+nanz)| norm 3.1994 (+nanz)| lr 6.29e-05 | 2449.6
+
+
+
+# people
+
+
+author:karpathy
+author:ngc92
+author:gordicaleksa
+author:ademeure
+author:rosslwheeler
+author:lancerts
+author:ChrisDryden
+author:chinthysl
+author:JaneIllario
+author:dagelf
+author:vyom1611
+author:Ricardicus
+author:azret
+author:al0vya
+author:KarhouTam
+author:austinvhuang
+author:PeterZhizhin
+author:mspronesti
+author:zhangpiu
+author:nopperl
+author:msaroufim
+author:krrishnarraj
+author:Anerudhan
+author:abhilash1910author:
