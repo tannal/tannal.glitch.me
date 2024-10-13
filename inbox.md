@@ -1,5 +1,6 @@
 # 2024-10-13 0 | 0
 
+https://fazzie-key.cool/2023/02/21/MLsys/
 
 https://github.com/siboehm
 matrix multiple
