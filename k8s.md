@@ -1,6 +1,13 @@
 
 # k3s prometheus
 
+
+kubectl get services
+kubectl get pods
+
+sudo systemctl stop k3s
+sudo k3s server --write-kubeconfig-mode 644
+
 curl -sfL https://get.k3s.io | sh
 
 sudo k3s kubectl get nodes
@@ -14,8 +21,13 @@ kubectl create namespace prometheus
 sudo helm install prometheus prometheus-community/kube-prometheus-stack -n prometheus
 
 kubectl port-forward -n prometheus svc/prometheus-kube-prometheus-prometheus 9090:9090
+
 # dev
 
+kubectl apply -f hello-world.yaml
+kubectl get deployments
+kubectl get pods
+kubectl get services
 
 minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud
 minikube  kubectl rollout restart deployment -- -n nextcloud nextcloud-db
