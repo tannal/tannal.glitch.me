@@ -1,5 +1,107 @@
 # 2024-10-13
 
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+Pager 2 - 谭盟
+https://tannal.github.io/zh-cn/page/2/
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+Zed, a collaborative code editor, is now open source | Hacker News
+https://news.ycombinator.com/item?id=39119835
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+Senior AI and Systems Engineer
+https://zed.dev/jobs/ai-and-systems
+
+(1203) #chatter > Pocketwatch games using Rive - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/147932-chatter/topic/Pocketwatch.20games.20using.20Rive
+
+Google Meet
+https://meet.google.com/landing
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+Office Hours 2024-10-10 - Google 文档
+https://docs.google.com/document/d/1yaXYN-HeRVAffUv6nl5mynbM1uDNiV4lQw1StB3PjE8/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Stop storing text in TextLayout by PoignardAzur · Pull Request #666 · linebender/xilem
+https://github.com/linebender/xilem/pull/666
+
+dave crosslands google - Google 搜索
+https://www.google.com.hk/search?q=dave+crosslands+google&newwindow=1&sca_esv=7119977c9af089fa&rlz=1C1GCEA_enJP1090JP1090&ei=8vIHZ63FEu7OkPIPlpbewQo&ved=0ahUKEwithsfWkISJAxVuJ0QIHRaLN6gQ4dUDCA8&uact=5&oq=dave+crosslands+google&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmRhdmUgY3Jvc3NsYW5kcyBnb29nbGVIwgFQPVg9cAB4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+davelab6 (Dave Crossland)
+https://github.com/davelab6
+
+google/filament: Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+https://github.com/google/filament
+
+Avoid using destructuring in tco-fn-realm.js by tannal · Pull Request #4251 · tc39/test262
+https://github.com/tc39/test262/pull/4251
+
+Bug 1917771 - Use bottom of border box as the range frame's baseline.… · mozilla/gecko-dev@829f7c5
+https://github.com/mozilla/gecko-dev/commit/829f7c5a917be10bd5fd6efe3a354dd3d06d5fd1
+
+euclid github rust - Google 搜索
+https://www.google.com.hk/search?q=euclid+github+rust&rlz=1C1GCEA_enJP1090JP1090&oq=euclid+github+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDINCAcQLhjHARjRAxiABDIHCAgQABiABDIHCAkQABiABNIBCDQwNjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+servo/euclid: Geometry primitives (basic linear algebra) for Rust
+https://github.com/servo/euclid/issues
+
+Code search results
+https://github.com/search?q=org%3Alinebender%20euclid&type=code
+
+kurbo rust github - Google 搜索
+https://www.google.com.hk/search?q=kurbo+rust+github&rlz=1C1GCEA_enJP1090JP1090&oq=kurbo+rust+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIJCAcQABgKGIAEMgcICBAAGIAEMgYICRAAGB7SAQgyMDQ2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Make move_to less strict · Issue #303 · linebender/kurbo
+https://github.com/linebender/kurbo/issues/303
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+glam github - Google 搜索
+https://www.google.com.hk/search?q=glam+github&rlz=1C1GCEA_enJP1090JP1090&oq=glam+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE1MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+yvquanli/GLAM: Code for "An adaptive graph learning method for automated molecular interactions and properties predictions".
+https://github.com/yvquanli/GLAM
+
+patholdjs - Google 搜索
+https://www.google.com.hk/search?q=patholdjs&rlz=1C1GCEA_enJP1090JP1090&oq=patholdjs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCTEyNzA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(26) Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition - YouTube
+https://www.youtube.com/watch?v=n4IQOBka8bc
+
+donald hebb - Google 搜索
+https://www.google.com.hk/search?gs_ssp=eJzj4tTP1TcwLCtOrzRg9OJOyc9LzElRyEhNSgIAW8wHsg&q=donald+hebb&rlz=1C1GCEA_enJP1090JP1090&oq=donald+h&gs_lcrp=EgZjaHJvbWUqBwgEEC4YgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQABiABNIBCDY5MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+【Piano Cover】周杰倫 Jay Chou - 說了再見 Say Goodbye｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=G9hI6-RoySY&list=RDKnZIniG8spI&index=27
+
+uv github - Google 搜索
+https://www.google.com.hk/search?q=uv+github&rlz=1C1GCEA_enJP1090JP1090&oq=uv+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAjGCcYgAQYigUyDQgDEC4YxwEY0QMYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNzI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+Yibo Zhu - 知乎
+https://www.zhihu.com/people/yibozhu
+
 cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
