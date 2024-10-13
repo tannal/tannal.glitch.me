@@ -3,6 +3,261 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+A Systematic Review of Experimental Paradigms for Exploring Biased Interpretation of Ambiguous Information with Emotional and Neutral Associations | 10.3389/fpsyg.2017.00171_Scihub
+https://bothonce.com/10.3389/fpsyg.2017.00171
+
+(26) GPU MODE IRL 2024 Keynotes - YouTube
+https://www.youtube.com/watch?v=FH5wiwOyPX4&t=2025s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Young Adult Carers in the UK: Experiences, Needs and Services for Carers aged 16-24 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Young+Adult+Carers+in+the+UK%3A+Experiences%2C+Needs+and+Services+for+Carers+aged+16-24
+
+The psychosocial impact of caregiving on young people who have a parent with an illness or disability: Comparisons between young caregivers and noncaregivers - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+psychosocial+impact+of+caregiving+on+young+people+who+have+a+parent+with+an+illness+or+disability%3A+Comparisons+between+young+caregivers+and+noncaregivers
+
+The psychosocial impact of caregiving on young people who have a parent with an illness or disability: Comparisons between young caregivers and noncaregivers.
+https://psycnet.apa.org/record/2006-06814-002
+
+The psychosocial impact of caregiving on young people who have a parent with an illness or disability: Comparisons between young caregivers and noncaregivers. | 10.1037/0090-5550.51.2.113_Scihub
+https://bothonce.com/10.1037/0090-5550.51.2.113
+
+Happiness and well-being of young carers: Extent, nature and correlates of caring among 10 and 11 year old school children - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Happiness+and+well-being+of+young+carers%3A+Extent%2C+nature+and+correlates+of+caring+among+10+and+11+year+old+school+children
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630#7742460
+
+nsGenericHTMLElement.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/0cd8e314881fc6c216586d1adc13eb8a03f5d040/dom/html/nsGenericHTMLElement.cpp#1207-1212
+
+nsGenericHTMLElement.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/0cd8e314881fc6c216586d1adc13eb8a03f5d040/dom/html/nsGenericHTMLElement.cpp#1207-1212
+
+esm: mark import attributes and JSON module as stable · tannal/node@d881fcb
+https://github.com/tannal/node/commit/d881fcba86f72ff506eea53a5eca9a0ab2e4a02f#diff-6081e39de0b93e0eda68d0f084d901dd1606b4ecc5055efa5c1d7664f682db52
+
+vscode show .git file - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+show+.git+file
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+372761 - Out-of-date error message that tells people to "install the Personal Security Manager (PSM)".
+https://bugzilla.mozilla.org/show_bug.cgi?id=372761
+
+appstrings.properties - mozsearch
+https://searchfox.org/mozilla-central/rev/cb5faf5dd5176494302068c553da97b4d08aa339/dom/locales/en-US/chrome/appstrings.properties#18
+
+Code search results
+https://github.com/search?q=%22def+forward%28x%2C+w%2C+b%29%22&type=code&p=1
+
+llm.c/doc/layernorm/layernorm.md at master · karpathy/llm.c
+https://github.com/karpathy/llm.c/blob/master/doc/layernorm/layernorm.md
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1568489 - Add telemetry to track how often we do a minor GC
+https://bugzilla.mozilla.org/show_bug.cgi?id=1568489
+
+How to optimize a CUDA matmul kernel for cuBLAS-like performance (2022) | Hacker News
+https://news.ycombinator.com/item?id=41079083
+
+How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: a Worklog
+https://siboehm.com/articles/22/CUDA-MMM
+
+About
+https://siboehm.com/about/
+
+siboehm (Simon Boehm)
+https://github.com/siboehm
+
+Submissions from siboehm.com | Hacker News
+https://news.ycombinator.com/from?site=siboehm.com
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%0AAnthropic&op=translate
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(314) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1204) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/streams/public/search/orca
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1603) #general > Multiple components subscribe to pollables - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Multiple.20components.20subscribe.20to.20pollables
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(109) #general > Getting `ignoring emit path because multiple .o files` - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Getting.20.60ignoring.20emit.20path.20because.20multiple.20.2Eo.20files.60
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+https://github.com/tokio-rs/tokio
+
+(1952) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [4] | Rust
+https://chat.mozilla.org/#/room/#rust:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
+(23) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1292928819849855151
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+D224630: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTZngpfxPHCCKrcqlRnvh
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Ignition Design Doc - Google 文档
 https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1&tab=t.0#heading=h.zcnntsspsdb6
 

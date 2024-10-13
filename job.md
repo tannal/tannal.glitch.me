@@ -588,7 +588,28 @@ apply
 [] test262 meeting 
 [] ask for intern
 
+[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+[x] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+[] Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
 
+[x] blog
+[] blog
+[] blog
+
+[] yundong fuwocheng
+[] yundong fuwocheng
+[] yundong fuwocheng
+
+
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+
+[] Be a pianist play piano
+[] Be a pianist play piano
+[] Be a pianist play piano
+
+[] 10-11 find a monitor and wire to raspi then boot an os
 
 # 2024-10-6 - 2024-10-13
 
