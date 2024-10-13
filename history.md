@@ -1,5 +1,263 @@
 # 2024-10-13
 
+cn.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=jim%20keller&sort=byPopularity&type=story
+
+(26) Why The Future of AI Is Minecraft Worlds! - YouTube
+https://www.youtube.com/watch?v=FyC5ZAMWDi4
+
+NVLM: Open Frontier-Class Multimodal LLMs - NVIDIA ADLR
+https://research.nvidia.com/labs/adlr/NVLM-1/
+
+2409.11402v1.pdf
+https://arxiv.org/pdf/2409.11402
+
+NVIDIA Corporation
+https://github.com/NVIDIA
+
+NVIDIA Applied Deep Learning Research - NVIDIA ADLR
+https://research.nvidia.com/labs/adlr/
+
+nvidia/NVLM-D-72B at main
+https://huggingface.co/nvidia/NVLM-D-72B/tree/main
+
+(26) AI Hardware w/ Jim Keller - YouTube
+https://www.youtube.com/watch?v=lPX1H3jW8ZQ
+
+(26) Notes on AI Hardware - Benjamin Spector | Stanford MLSys #88 - YouTube
+https://www.youtube.com/watch?v=PlraH57ey4k
+
+Nvidia releases NVLM 1.0 72B open weight model | Hacker News
+https://news.ycombinator.com/item?id=41716975
+
+Issue search results
+https://github.com/search?q=repo%3Aggerganov%2Fllama.cpp++NVLM&type=issues
+
+borg google github - Google 搜索
+https://www.google.com.hk/search?q=borg+google+github&newwindow=1&client=ubuntu-sn&hs=hAM&sca_esv=341fc45e8ec89d31&channel=fs&ei=8LALZ67AOKa6kPIP5IDr4AI&ved=0ahUKEwiu-KCloouJAxUmHUQIHWTAGiwQ4dUDCA8&uact=5&oq=borg+google+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmJvcmcgZ29vZ2xlIGdpdGh1YjIGEAAYCBgeMggQABiiBBiJBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIvA9QgAdYvQ5wAXgBkAEAmAG-AqAB2wqqAQUyLTQuMbgBA8gBAPgBAZgCBqAC9ArCAgoQABiwAxjWBBhHwgIFEAAYgATCAgQQABgewgIGEAAYBRgemAMAiAYBkAYGkgcHMS4wLjQuMaAHlAo&sclient=gws-wiz-serp
+
+Borg
+https://github.com/borg-land
+
+open-gpu-kernel-modules/src/nvidia/src/kernel/gpu_mgr/gpu_mgr.c at main · NVIDIA/open-gpu-kernel-modules
+https://github.com/NVIDIA/open-gpu-kernel-modules/blob/main/src/nvidia/src/kernel/gpu_mgr/gpu_mgr.c
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+science clic youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=science+clic+youtube
+
+(26) ScienceClic - YouTube
+https://www.youtube.com/@ScienceClic/videos
+
+black hole book - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=3t2&sca_esv=b2f4af84c6259c63&channel=fs&q=black+hole+book&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwj6jsCptouJAxXkMUQIHXJEBwgQtKgLegQIDxAB&biw=1850&bih=968&dpr=1#vhid=pm2WYyKYIMMzVM&vssid=mosaic
+
+Black Holes - By Brian Cox & Jeff Forshaw : Target
+https://www.target.com/p/black-holes-by-brian-cox-jeff-forshaw/-/A-89761242
+
+Brian Cox - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Brian+Cox
+
+Jeff Forshaw - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Jeff+Forshaw
+
+cmumlsys - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cmumlsys
+
+15-849 | Schedule
+https://www.cs.cmu.edu/~zhihaoj2/15-849/schedule.html
+
+04-systems-for-deep-learning.pdf
+https://www.cs.cmu.edu/~zhihaoj2/15-849/slides/04-systems-for-deep-learning.pdf
+
+(26) Machine Learning Department at CMU - YouTube
+https://www.youtube.com/@mldcmu/videos
+
+ML system 入坑指南 | 摸黑干活
+https://fazzie-key.cool/2023/02/21/MLsys/
+
+Fazzie - 知乎
+https://www.zhihu.com/people/fazzie/answers
+
+Mooncake (1): 在月之暗面做月饼，Kimi 以 KVCache 为中心的分离式推理架构 - 知乎
+https://zhuanlan.zhihu.com/p/705754254
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(315) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1203) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/streams/public/search/orca
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1603) #general > Multiple components subscribe to pollables - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Multiple.20components.20subscribe.20to.20pollables
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(109) #general > Getting `ignoring emit path because multiple .o files` - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Getting.20.60ignoring.20emit.20path.20because.20multiple.20.2Eo.20files.60
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+https://github.com/tokio-rs/tokio
+
+(1955) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+icons: Updated bot icon with single antenna version. by fombalang · Pull Request #986 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/986/files
+
+message: Do not differentiate topics by case when aggregating. by alexmv · Pull Request #31869 · zulip/zulip
+https://github.com/zulip/zulip/pull/31869/files
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | Rust
+https://chat.mozilla.org/#/room/#rust:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
+(23) Discord | #ai | Zed Community
+https://discord.com/channels/869392257814519848/1288175835744043028
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+D224630: Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZvgTZngpfxPHCCKrcqlRnvh
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
