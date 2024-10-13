@@ -1,5 +1,242 @@
 # 2024-10-13
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Mooncake (1): 在月之暗面做月饼，Kimi 以 KVCache 为中心的分离式推理架构 - 知乎
+https://zhuanlan.zhihu.com/p/705754254
+
+kvcache.ai
+https://github.com/kvcache-ai
+
+MADSys
+https://madsys.cs.tsinghua.edu.cn/
+
+Yibo Zhu - 知乎
+https://www.zhihu.com/people/yibozhu
+
+使用MLIR完成一个端到端的编译流程 -- 一条通路 - 知乎
+https://zhuanlan.zhihu.com/p/328993481
+
+机器学习科研的十年 - 知乎
+https://zhuanlan.zhihu.com/p/74249758
+
+玻尔兹曼机 - 知乎直答
+https://zhida.zhihu.com/search/3625623173265422951
+
+04-systems-for-deep-learning.pdf
+https://www.cs.cmu.edu/~zhihaoj2/15-849/slides/04-systems-for-deep-learning.pdf
+
+fastfetch-cli/fastfetch: An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+https://github.com/fastfetch-cli/fastfetch
+
+hpcaitech/ColossalAI: Making large AI models cheaper, faster and more accessible
+https://github.com/hpcaitech/ColossalAI
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Matrix/Tensor Low-Rank Approximation。 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Matrix%2FTensor+Low-Rank+Approximation%E3%80%82
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+horovod/horovod: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+https://github.com/horovod/horovod
+
+Dario Amodei - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dario+Amodei
+
+大模型音乐创作和生成
+https://tannal.github.io/zh-cn/p/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%9F%B3%E4%B9%90%E5%88%9B%E4%BD%9C%E5%92%8C%E7%94%9F%E6%88%90/
+
+MuseScore github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MuseScore+github
+
+musescore/MuseScore: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+https://github.com/musescore/MuseScore
+
+deepseek - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=deepseek
+
+DeepSeek
+https://www.deepseek.com/
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(315) #Outreachy > Improve code linting in Servo's CI - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/426955-Outreachy/topic/Improve.20code.20linting.20in.20Servo's.20CI
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1203) Search results - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/streams/public/search/orca
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1603) #general > Multiple components subscribe to pollables - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/206238-general/topic/Multiple.20components.20subscribe.20to.20pollables
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(149) #general > Rust Annual Survey 2024 RFC (gathering feedback) - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Rust.20Annual.20Survey.202024.20RFC.20.28gathering.20feedback.29
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue+is%3Aopen+segfaults+
+
+tokio-rs/tokio: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+https://github.com/tokio-rs/tokio
+
+(1956) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | Rust
+https://chat.mozilla.org/#/room/#rust:mozilla.org
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+100% - [18] try: Fuzzy query=!asan !tsan !jsreftest !shippable !webgl !condprof !med...
+https://treeherder.mozilla.org/jobs?repo=try&revision=9d59ff5b649f570ca5e659fb4413b2fd54515f37
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#7746786
+
+arc github browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arc+github+browser
+
+The Browser Company
+https://github.com/thebrowsercompany
+
+Arc from The Browser Company
+https://arc.net/
+
+(23) Discord | #today-im-learning | Eureka Labs
+https://discord.com/channels/1020383067459821711/1086310340775645355
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=anthropic&sort=byPopularity&type=story
+
+why claude3 is better - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=why+claude3+is+better
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
 表格查询 - Poe
 https://poe.com/chat/3krhq5hygx4rk6sgjge
 
