@@ -1,5 +1,9 @@
 # 2024-10-13 0 | 0
 
+12th Gen Intel(R) Core(TM) i9-12900K RTX4090 24G x 2
+A800 40G x2
+AMD graphcs
+
 https://fazzie-key.cool/2023/02/21/MLsys/
 
 https://github.com/siboehm
