@@ -1,5 +1,281 @@
 # 2024-10-14
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+src · main · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/tree/main/src?ref_type=heads
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=1&prefix=true&query=anthropic&sort=byPopularity&type=story
+
+Anthropic's Prompt Engineering Interactive Tutorial [PUBLIC ACCESS] - Google 表格
+https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=1213680236#gid=1213680236
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Poverty&op=translate
+
+TheAlphamerc/flutter_twitter_clone: Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage
+https://github.com/TheAlphamerc/flutter_twitter_clone
+
+Roman Belov kotlin github - Google 搜索
+https://www.google.com.hk/search?q=Roman+Belov+kotlin+github&newwindow=1&client=ubuntu-sn&hs=VQd&sca_esv=33073fab614d76a8&channel=fs&ei=B7QMZ9y8Ia-1wN4Pzr3JyQk&ved=0ahUKEwic3KCwmY2JAxWvGtAFHc5eMpkQ4dUDCA8&uact=5&oq=Roman+Belov+kotlin+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGVJvbWFuIEJlbG92IGtvdGxpbiBnaXRodWIyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIxg1QnQNYiAxwAXgAkAEAmAGKA6ABtQ-qAQUyLTMuM7gBA8gBAPgBAZgCBqACyQ_CAgUQIRigAZgDAIgGAZIHBTItMi40oAf7EQ&sclient=gws-wiz-serp
+
+(27) DataFrame: Kotlin's Innovative Approach to Data Structures by Roman Belov - YouTube
+https://www.youtube.com/watch?v=rgkMSZDgbA8
+
+(27) Outliers: Why Some People Succeed and Some Don't - YouTube
+https://www.youtube.com/watch?v=EcMKLwVlpJk
+
+kotlin notebook github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kotlin+notebook+github
+
+Issues · Kotlin/kotlin-jupyter
+https://github.com/Kotlin/kotlin-jupyter/issues
+
+Code search results
+https://github.com/search?q=repo%3Alinebender%2Fvello+peniko+language%3ATOML&type=code&l=TOML
+
+peniko github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=peniko+github
+
+linebender/peniko at 250b4074e0f358a51722dddf39c69952a5ecea1b
+https://github.com/linebender/peniko/tree/250b4074e0f358a51722dddf39c69952a5ecea1b
+
+kurbo - crates.io: Rust Package Registry
+https://crates.io/crates/kurbo
+
+linebender/kurbo: A Rust library for manipulating curves
+https://github.com/linebender/kurbo
+
+taffy github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=taffy+github
+
+DioxusLabs/taffy: A high performance rust-powered UI layout library
+https://github.com/DioxusLabs/taffy
+
+qTox
+https://github.com/qTox
+
+(22) Discord | #general | sphaerophoria's server
+https://discord.com/channels/1177391512670191676/1177391513962033234/1293744694580346910
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i
+
+FuryGPU github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=FuryGPU+github
+
+fury-gl/fury: FURY - Free Unified Rendering in pYthon.
+https://github.com/fury-gl/fury
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Raster%20I&sort=byPopularity&type=story
+
+(22) Discord | #🙂welcome | Graphite
+https://discord.com/channels/731730685944922173/812218569248997396
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+stanford-cs248 repositories
+https://github.com/orgs/stanford-cs248/repositories
+
+Alice 4 FPGA Rasterizer
+https://lkesteloot.github.io/alice/alice4/fpga-rasterizer.html
+
+Rasterization in One Weekend – Tayfun Kayhan
+https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend/
+
+Pathfinder, a fast GPU-based font rasterizer in Rust | Hacker News
+https://news.ycombinator.com/item?id=13647146
+
+Pathfinder, a fast GPU-based font rasterizer in Rust – pcwalton – pcwalton's blog
+https://pcwalton.github.io/_posts/2017-02-14-pathfinder.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pcwalton&sort=byPopularity&type=story
+
+web-platform-tests dashboard
+https://wpt.fyi/results/?label=experimental&label=master&aligned
+
+document.readyState
+https://wpt.live/html/dom/documents/resource-metadata-management/document-readyState.html
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(315) #general > offsetTop/offsetLeft - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/offsetTop.2FoffsetLeft
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1204) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1601) #cranelift > Basic block level code generation - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Basic.20block.20level.20code.20generation
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(158) #new members > Heloo Rustaceans! - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122652-new-members/topic/Heloo.20Rustaceans!
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(1972) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(22) Discord | #gpui | Zed Community
+https://discord.com/channels/869392257814519848/1199799855007158352/1242507059828625418
+
+feat(parser): Generate `Serialize` impls in ast_tools by ottomated · Pull Request #6404 · oxc-project/oxc
+https://github.com/oxc-project/oxc/pull/6404/files#diff-acbbb2b626663cab2bed8ac095fb9a52f327db02d720b95b064fcdf18eed4cc7
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+429
+https://bugzilla.mozilla.org/attachment.cgi?id=9024431
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Collapse long messages (with "show more") · Issue #984 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/984
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+why claude3 is better - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=why+claude3+is+better
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pnpm%20in%20rust&sort=byPopularity&type=story
+
+krzkaczor/ny: 🗽 Fast, Proxy Package Manager for JavaScript
+https://github.com/krzkaczor/ny
+
+tannal
+https://tannal.github.io/
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

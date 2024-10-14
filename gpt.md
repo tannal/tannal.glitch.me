@@ -1,5 +1,52 @@
 
 
+
+场景信息 (Scene infos):
+    刚体数量 (# rigid-bodies): 23个
+    碰撞体数量 (# colliders): 23个
+    冲量关节数量 (# impulse joint): 0个
+
+这些数据描述了模拟场景的复杂度。
+
+性能分析 (Profile infos):
+    总耗时 (Total): 0.04ms，对应22883 fps
+    碰撞检测 (Collision detection): 0.02ms
+        广域阶段 (Broad-phase): 0.01ms
+        窄域阶段 (Narrow-phase): 0.01ms
+    求解器 (Solver): 0.01ms
+    CCD (连续碰撞检测): 0.00ms
+
+这些数据展示了物理引擎各个计算阶段的性能表现。
+
+求解器设置 (Serialization infos):
+    求解器类型 (solver type): TgsSoft
+    求解器迭代次数 (num solver iters): 7
+    内部PGS迭代次数 (num internal PGS iters): 1
+    最大内部稳定化迭代次数 (max internal stabilization iters): 13
+    预热启动系数 (warmstart coefficient): 0.80
+    接触频率 (contacts Hz): 30
+    阻尼比 (damping ratio): 5.0
+    关节误差修正参数 (joint erp): 1000000.0
+    关节阻尼比 (joint damping ratio): 1.0
+
+这些参数控制物理模拟的精度和稳定性。
+
+可视化部分:
+图片右侧显示了一个2D物理模拟场景，包含多个不同颜色的方块和两个灰色的平台。这些物体正在进行物理交互，展示了引擎的实时模拟能力。
+
+性能分析原理:
+    广域阶段：快速筛选可能发生碰撞的物体对
+    窄域阶段：精确计算碰撞点和碰撞响应
+    求解器：解决约束和计算物体运动
+    CCD：处理高速运动物体的碰撞
+
+引擎优化:
+    高效的碰撞检测算法
+    并行计算
+    缓存优化
+    数学优化（如使用SIMD指令）
+
+
 图形相关:
 MESA_DEBUG: Mesa 图形驱动的调试输出
 LIBGL_DEBUG: OpenGL 调试信息
