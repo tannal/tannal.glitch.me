@@ -618,6 +618,7 @@ https://github.com/pytorch/pytorch/issues/126519
 # 2024-10-6 - 2024-10-13
 
 [] implement go to recent directories in zed potential mentor SomeoneToIgnore
+[] k3s zulip server for testing
 
 ```rs
 // assets/keymaps/default-linux.json add a new context and keymap for new component

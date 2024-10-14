@@ -1,5 +1,9 @@
 # 2024-10-14 0 | 0
 
+ sudo apt install libncurses5-dev libtinfo5
+
+./mach --no-interactive bootstrap --application-choice="GeckoView/Firefox for Android"
+
 LD_DEBUG=libs target/release/all_examples2 2> output.txt
 
 /usr/lib/x86_64-linux-gnu/libVulkan.so

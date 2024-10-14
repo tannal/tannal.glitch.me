@@ -880,3 +880,36 @@ https://blog.mozilla.org/javascript/
 # reference
 
 https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
+
+# config
+
+```bash
+# 启用调试模式
+ac_add_options --enable-debug
+
+# 禁用优化，以便更容易调试
+ac_add_options --disable-optimize
+
+# 启用地址消毒（Address Sanitizer）以检测内存错误
+ac_add_options --enable-address-sanitizer
+
+# 启用 Gecko 特定的开发工具
+ac_add_options --enable-application=browser
+ac_add_options --enable-tests
+
+# 使用 clang 编译器（如果可用）
+export CC=clang
+export CXX=clang++
+
+# 启用 artifact 构建，加快构建速度（可选，但会限制某些更改）
+# ac_add_options --enable-artifact-builds
+
+# 设置输出目录
+mk_add_options MOZ_OBJDIR=./objdir-gecko
+
+# 启用额外的警告
+ac_add_options --enable-warnings-as-errors
+
+# 启用 DevTools 调试
+ac_add_options --enable-devtools
+```
