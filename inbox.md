@@ -1,5 +1,9 @@
 # 2024-10-14 0 | 0
 
+LD_DEBUG=libs target/release/all_examples2 2> output.txt
+
+/usr/lib/x86_64-linux-gnu/libVulkan.so
+
 https://wp.nyu.edu/arg/
 
 GPQA: A Graduate-Level Google-Proof Q&A Benchmark

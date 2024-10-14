@@ -1,4 +1,32 @@
 
+
+图形相关:
+MESA_DEBUG: Mesa 图形驱动的调试输出
+LIBGL_DEBUG: OpenGL 调试信息
+WAYLAND_DEBUG: Wayland 协议调试
+DISPLAY: 指定 X11 显示
+WAYLAND_DISPLAY: 指定 Wayland 显示
+系统和库:
+XDG_SESSION_TYPE: 指定会话类型(x11, wayland, tty等)
+XDG_RUNTIME_DIR: 指定运行时目录
+MALLOC_CHECK_: glibc 内存分配器的调试
+GLIBCXX_DEBUG: C++ 标准库的调试模式
+应用程序特定:
+GTK_DEBUG: GTK 应用程序调试
+QT_DEBUG_PLUGINS: Qt 插件调试
+性能分析:
+CPUPROFILE: 用于 gperftools 的 CPU 分析
+HEAPPROFILE: 用于 gperftools 的堆内存分析
+日志和追踪:
+LIBC_FATAL_STDERR_: 将 libc 致命错误输出到 stderr
+RUST_BACKTRACE: Rust 程序的堆栈跟踪
+PYTHONINSPECT: Python 交互式 shell
+编译器和开发工具:
+GCC_COLORS: GCC 编译器输出颜色
+ASAN_OPTIONS: AddressSanitizer 选项
+网络:
+http_proxy, https_proxy: 设置 HTTP/HTTPS 代理
+
 MESA是一个开源的3D图形库,它实现了各种图形API的实现,其编译产物包括以下几个主要库:
 
 libGL.so
