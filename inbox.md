@@ -1,3 +1,13 @@
+# 2024-10-14 0 | 0
+
+sudo apt install qt6-l10n-tools
+
+sudo apt install libqt6svg6-dev
+
+sudo apt install libqt6core6 libqt6gui6 libqt6widgets6 libqt6network6 libqt6xml6 libqt6sql6 libqt6printsupport6 libqt6concurrent6 libqt6dbus6 libqt6opengl6 libqt6openglwidgets6 qt6-declarative-dev qt6-tools-dev
+
+sudo apt install qt6-base-dev qt6-declarative-dev qt6-tools-dev libqt6networkauth6-dev
+
 # 2024-10-13 0 | 0
 
 Kimi deepseek

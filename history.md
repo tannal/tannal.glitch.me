@@ -1,5 +1,101 @@
 # 2024-10-13
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+LLVM
+https://github.com/llvm
+
+华强北 - Google 搜索
+https://www.google.com.hk/search?q=%E5%8D%8E%E5%BC%BA%E5%8C%97&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%8D%8E%E5%BC%BA%E5%8C%97&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNTY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+华强北 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%BC%BA%E5%8C%97
+
+首页 - NENUOJ
+http://39.101.69.154/index.php
+
+算法讲解069【必备】从递归入手三维动态规划_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1gM41197rM/?spm_id_from=autoNext
+
+(2) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+kasmtech/KasmVNC: Modern VNC Server and client, web based and secure
+https://github.com/kasmtech/KasmVNC?fbclid=IwY2xjawF3Iq9leHRuA2FlbQIxMAABHbWhEyyKOJoNdnQl9mga6BLOrVc5_Zzr2b71ztWUtDX5jNG1diqiTzNzJA_aem_XlFF3BcCFC6WC6vY5xmJrA
+
+(221) Sana - YouTube
+https://www.youtube.com/@SanaLabs/videos
+
+A tiled FPGA GPU for real-time rasterization : r/FPGA
+https://www.reddit.com/r/FPGA/comments/1fycg6a/a_tiled_fpga_gpu_for_realtime_rasterization/
+
+Arnavion/riscv: RISC-V assembler for an emulator I made in Turing Complete
+https://github.com/Arnavion/riscv?fbclid=IwY2xjawFxy-VleHRuA2FlbQIxMAABHZMxpE8fGGS__5Dxij3tazDwrL9ZmFmKoB-JwWD_Y0H2XCCIdtXrLMVliA_aem_j13FZZlPaS-E1i2jUDIkaQ
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i?tab=readme-ov-file
+
+Vitis HLS
+https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-hls.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收到 1封新邮件
+https://mail.qq.com/cgi-bin/frame_html?sid=TpsOXvqVR6_jlTtc&r=6902107b337819bf5b9f8eada55908be&lang=zh
+
+中概股 港股 美股 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E6%A6%82%E8%82%A1+%E6%B8%AF%E8%82%A1+%E7%BE%8E%E8%82%A1&sca_esv=159f37a1251190f9&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJFhxhfmjj3VD9IxC6mmnCEGHnSxw%3A1728374641819&ei=cecEZ8DQMfzl2roP0qq4kQk&ved=0ahUKEwiAzcGkqf6IAxX8slYBHVIVLpIQ4dUDCA8&uact=5&oq=%E4%B8%AD%E6%A6%82%E8%82%A1+%E6%B8%AF%E8%82%A1+%E7%BE%8E%E8%82%A1&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-S4reamguiCoSDmuK_ogqEg576O6IKhMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHSLoxUNYJWOctcAB4ApABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACF5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+c 程序设计新思维 - Google 搜索
+https://www.google.com.hk/search?q=c+%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4&rlz=1C1GCEA_enCN1091CN1091&oq=c+%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBCDgxNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ylecun twitter - Google 搜索
+https://www.google.com.hk/search?q=ylecun+twitter&rlz=1C1GCEA_enCN1091CN1091&oq=yan+leecun&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDBgeMgYIABBFGDkyCAgBEAAYDBgeMggIAhAAGAoYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDQ4NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(2) Ned Baldessin on X: "@zcorpan button { display: inline; } should work." / X
+https://x.com/ned/status/1051798190951940096
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+(2) 南小北 on X: "根据 "一开始不舒服就别继续否则可能一直如梗在喉或陷入更大的坑" 原则，拒了一份可能涨薪 1w 多点的机会" / X
+https://x.com/nanxiaobei/status/1834839052715262003
+
+LLM.C 人工智能训练和推理的最佳实践
+https://tannal.github.io/zh-cn/p/llm.c-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyCwgDEEUYDBg7GIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEIMzUzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+美联储11月还降不降？今晚的美国CPI“突然”尤为重要 - 华尔街见闻
+https://wallstreetcn.com/articles/3729962
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Home
+https://sagiriwiki.web.app/
+
+(2) ficus (@ficus) / X
+https://x.com/ficus
+
+(2) Durk Kingma (@dpkingma) / X
+https://x.com/dpkingma
+
+中国9月份cpi数据？ - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD9%E6%9C%88%E4%BB%BDcpi%E6%95%B0%E6%8D%AE%EF%BC%9F&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%AD%E5%9B%BD9%E6%9C%88%E4%BB%BDcpi%E6%95%B0%E6%8D%AE%EF%BC%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiiBBiJBTIKCAMQABiABBiiBNIBCTExOTI4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(2) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+东北师范大学2024年秋季学期研究生在线开放公共课程开课的通知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1123/6073.htm
+
+公告通知-东北师范大学研究生院
+http://dbsdyjsy.fanya.chaoxing.com/portal/news/notice?pageNum=1&searchKey=%E7%A7%91%E7%A0%94%E8%AF%9A%E4%BF%A1%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
