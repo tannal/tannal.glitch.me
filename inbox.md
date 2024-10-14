@@ -1,6 +1,8 @@
 # 2024-10-14 0 | 0
 
- sudo apt install libncurses5-dev libtinfo5
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+sudo apt install libncurses5-dev libtinfo5
 
 ./mach --no-interactive bootstrap --application-choice="GeckoView/Firefox for Android"
 

@@ -3,6 +3,222 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+ambiguous overload for TORCH_LIBRARY `def` · Issue #126519 · pytorch/pytorch
+https://github.com/pytorch/pytorch/issues/126519
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+左程云-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=04635822&keyword=%E5%B7%A6%E7%A8%8B%E4%BA%91&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+左程云投稿视频-左程云视频分享-哔哩哔哩视频
+https://space.bilibili.com/8888480/video?tid=0&pn=4&keyword=&order=pubdate
+
+算法讲解054【必备】单调队列-上_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV11h4y1w7Bu/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=tree%20algorithms&sort=byPopularity&type=story
+
+Algorithms/trees at master · iamtrk/Algorithms
+https://github.com/iamtrk/Algorithms/tree/master/trees
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=tree&c=courses&dg=1
+
+Course Overview - Tree and Graph Data Structures | Frontend Masters
+https://frontendmasters.com/courses/trees-and-graphs/course-overview/
+
+Problem loading page
+http://slides.com/bgando/intro-graph-trees
+
+Introduction - Building Your Own Programming Language | Frontend Masters
+https://frontendmasters.com/courses/programming-language/steps-to-build-an-ast/
+
+Sign in to your account | Frontend Masters
+https://frontendmasters.com/login/?return=%2Fcourses%2Fadvanced-algorithms%2Fb-trees%2F
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=berkeley&sort=byPopularity&type=story
+
+CS 6120
+https://www.cs.cornell.edu/courses/cs6120/2023fa/
+
+Project 2 - Turtle Graphics - CS 61AS Textbook
+http://berkeley-cs61as.github.io/textbook/project-2-turtle-graphics.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=peer%20pressure&op=translate
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Configuring Authentication — Mozilla Version Control Tools 0 documentation
+https://mozilla-version-control-tools.readthedocs.io/en/latest/hgmozilla/auth.html
+
+1884385 - Commit Access (Level 1) for Simon Pieters zcorpan@mozilla.com
+https://bugzilla.mozilla.org/show_bug.cgi?id=1884385
+
+firefox try run - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=firefox+try+run+
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Treeherder Jobs View
+https://treeherder.mozilla.org/jobs?repo=try&revision=7b0d5584ce10a139221ec45215bcad55897ff6a9
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(336) #Performance > Benchmarking report - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/416779-Performance/topic/Benchmarking.20report
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+(1247) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+(1599) #cranelift > Translating Rust code to Cranelift IR - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Translating.20Rust.20code.20to.20Cranelift.20IR
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+WebAssembly/design: WebAssembly Design Documents
+https://github.com/WebAssembly/design
+
+(158) #general > Need assistance for this Issue #131084 - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Need.20assistance.20for.20this.20Issue.20.20.23131084
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(2003) #general > Discovering Security Vulnerabilities - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/Discovering.20Security.20Vulnerabilities
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(22) Discord | #ask-for-help | Lit
+https://discord.com/channels/1012791295170859069/1047015641225371718
+
+feat(parser): Generate `Serialize` impls in ast_tools by ottomated · Pull Request #6404 · oxc-project/oxc
+https://github.com/oxc-project/oxc/pull/6404/files#diff-acbbb2b626663cab2bed8ac095fb9a52f327db02d720b95b064fcdf18eed4cc7
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=download%20wasm&sort=byPopularity&type=story
+
+pretzelai/pretzelai: The modern replacement for Jupyter Notebooks
+https://github.com/pretzelai/pretzelai
+
+floneum/floneum: Instant, controllable, local pre-trained AI models in Rust
+https://github.com/floneum/floneum
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+wasm hub registry - Google 搜索
+https://www.google.com.hk/search?q=wasm+hub+registry&newwindow=1&client=ubuntu-sn&hs=CIK&sca_esv=966f55c4364fcb00&channel=fs&ei=CcsMZ4ODLJzOkPIPjK-5yAg&start=10&sa=N&sstk=AagrsugYLw4-vqriLOafBtFlb8nfbR-nBidry5uszX4FPEO9LhvYpCrG8HtMYsJ0dQrOArX8jPoRJoBa5AMvdiHnGA1YGLLPcKiflw&ved=2ahUKEwjDq_Sor42JAxUcJ0QIHYxXDokQ8tMDegQIBRAE&biw=1850&bih=968&dpr=1
+
+bytecodealliance/registry: WebAssembly Registry (Warg)
+https://github.com/bytecodealliance/registry
+
+build - Hello wasm-pack!
+https://rustwasm.github.io/docs/wasm-pack/commands/build.html
+
+WebAssembly and Containers with Docker Desktop - Hello World & Beyond · Thorsten Hans' blog
+https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Codetribute
 https://codetribute.mozilla.org/
 

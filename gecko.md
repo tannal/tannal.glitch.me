@@ -32,6 +32,8 @@ implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spid
 
 # working on
 
+./mach try auto
+
 Bug 1918521 - Remove SetInputValueFromFields  when handlekeydown in datetimebox. r?emilio
 
 User might still typing even if all three fields are not empty.

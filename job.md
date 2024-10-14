@@ -609,7 +609,7 @@ https://github.com/pytorch/pytorch/issues/126519
 [] Be good at solving puzzles for code interview
 [] Be good at solving puzzles for code interview
 
-[] Be a pianist play piano
+[x] Be a pianist play piano
 [] Be a pianist play piano
 [] Be a pianist play piano
 
