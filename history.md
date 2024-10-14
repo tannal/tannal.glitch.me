@@ -1,3 +1,266 @@
+# 2024-10-14
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+MusicLM: Generating Music From Text - 2301.11325v1.pdf
+https://arxiv.org/pdf/2301.11325
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+tannal/tannalwork - tannalwork - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/tannalwork/src/branch/main
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Representation Learning - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Representation+Learning
+
+1206.5538v3.pdf
+https://arxiv.org/pdf/1206.5538
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=anthropic%20&sort=byPopularity&type=story
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Anthropic's Claude vulnerable to 'emotional manipulation' • The Register
+https://www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/
+
+Model_Card_Claude_3_Addendum.pdf
+https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf
+
+openai/simple-evals
+https://github.com/openai/simple-evals/?tab=readme-ov-file#user-content-fn-6-591df1881992d8d72124a447b8732739
+
+prm800k/prm800k/math_splits/test.jsonl at main · openai/prm800k
+https://github.com/openai/prm800k/blob/main/prm800k/math_splits/test.jsonl
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=cdn.anthropic.com&sort=byPopularity&type=story
+
+GPQA - Google 搜索
+https://www.google.com.hk/search?q=GPQA&newwindow=1&client=ubuntu-sn&hs=fzw&sca_esv=a531d7c2178cf6c1&channel=fs&ei=hqMMZ5SaIKOekPIPzJvhuQI&ved=0ahUKEwiU9c3RiY2JAxUjD0QIHcxNOCcQ4dUDCA8&uact=5&oq=GPQA&gs_lp=Egxnd3Mtd2l6LXNlcnAiBEdQUUEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgKMgcQABiABBgKMgcQLhiABBgKMgcQABiABBgKMgcQABiABBgKSKUTUJ0QWJ0QcAF4AJABAJgBugKgAboCqgEDMy0xuAEDyAEA-AEC-AEBmAICoALFAsICCxAAGIAEGLADGKIEwgILEAAYsAMYogQYiQWYAwCIBgGQBgWSBwUxLjMtMaAHogU&sclient=gws-wiz-serp
+
+david rein
+https://idavidrein.github.io/
+
+Idavidrein/gpqa · Datasets at Hugging Face
+https://huggingface.co/datasets/Idavidrein/gpqa
+
+david rein
+https://idavidrein.github.io/
+
+NYU Alignment Research Group
+https://wp.nyu.edu/arg/
+
+【开源 LLM 基准测试】全新大语言模型基准测试论文：GAIA 与 GPQA 概览 | AIHunt | 几百个AI工具导航，国内外AI工具导航大全
+https://www.aihunt.one/787.html
+
+GAIA: 一个严苛的智能体基准 | AIHunt | 几百个AI工具导航，国内外AI工具导航大全
+https://www.aihunt.one/1660.html
+
+【开源 LLM 基准测试】全新大语言模型基准测试论文：GAIA 与 GPQA 概览 | AIHunt | 几百个AI工具导航，国内外AI工具导航大全
+https://www.aihunt.one/787.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+Large Language Model based AGI evaluation and safety · Issue #85 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/85
+
+ACT-R - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ACT-R
+
+Anthropic youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Anthropic+youtube
+
+Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI | WIRED
+https://www.wired.com/story/youtube-training-data-apple-nvidia-anthropic/
+
+AI prompt engineering: A deep dive - YouTube
+https://www.youtube.com/watch?v=T9aRN5JkmL8
+
+amanda askell - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=amanda+askell
+
+About Me | Amanda Askell
+https://askell.io/
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(314) #general > EmbedderMsg::ShowContextMenu - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/EmbedderMsg.3A.3AShowContextMenu
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1205) #xilem > Relicensing Masonry to dual MIT/Apache - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Relicensing.20Masonry.20to.20dual.20MIT.2FApache
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1601) #cranelift > Basic block level code generation - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Basic.20block.20level.20code.20generation
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(153) #new members > Heloo Rustaceans! - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122652-new-members/topic/Heloo.20Rustaceans!
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(1964) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(22) Discord | #minifier | oxc
+https://discord.com/channels/1079625926024900739/1096103456189722744
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(22) Discord | #android | Flutter Dev
+https://discord.com/channels/420324994703163402/465280806924058654
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+算法集 - @roadup
+https://www.roadup.cc/space/7103039660082855937
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=anthropic&sort=byPopularity&type=story
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+why claude3 is better - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=why+claude3+is+better
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pnpm%20in%20rust&sort=byPopularity&type=story
+
+Issues · krzkaczor/ny
+https://github.com/krzkaczor/ny/issues
+
 # 2024-10-13
 
 gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

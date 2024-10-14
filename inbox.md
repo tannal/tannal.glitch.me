@@ -1,5 +1,9 @@
 # 2024-10-14 0 | 0
 
+https://wp.nyu.edu/arg/
+
+GPQA: A Graduate-Level Google-Proof Q&A Benchmark
+
 Title: Simple Melody
 Time Signature: 4/4
 
