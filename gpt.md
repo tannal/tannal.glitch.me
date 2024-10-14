@@ -1,4 +1,20 @@
 
+MESA是一个开源的3D图形库,它实现了各种图形API的实现,其编译产物包括以下几个主要库:
+
+libGL.so
+这是实现OpenGL规范的核心库。
+libEGL.so
+实现EGL(Embedded-System Graphics Library)规范,用于嵌入式和移动设备上的3D渲染。
+libGLESv1_CM.so 和 libGLESv2.so
+分别实现了OpenGL ES 1.x和2.x版本的规范,用于嵌入式和移植设备。
+libGLX.so
+实现GLX(OpenGL Extension to X Window System)规范,允许OpenGL在X Window系统中运行。
+libOSMesa.so
+这是一个Off-Screen渲染库,允许在内存中进行OpenGL渲染而不依赖本地窗口系统。
+libVulkan.so(自Mesa 17.2版本开始支持)
+实现Vulkan图形API的ICD(Installable Client Driver)库。
+这些库实现了主流的OpenGL、OpenGL ES、Vulkan等图形API标准,因此可以被各种图形程序和应用链接和使用,从而满足各种图形渲染需求。除了这些核心库外,Mesa还提供了一些实用工具库以及相关的驱动程序。值得一提的是,除了Mesa之外,还有一些其他的图形库实现,如AMD的Radeon图形组件,NVIDIA的专有图形驱动等。
+
 这两个认知架构系统在实际应用中确实有一些成功案例。让我为您简要介绍一下：
 
 ACT-R的成功案例：
