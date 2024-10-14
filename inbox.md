@@ -1,5 +1,16 @@
 # 2024-10-14 0 | 0
 
+Title: Simple Melody
+Time Signature: 4/4
+
+Melody:
+C4 E4 G4 C5 | C5 G4 E4 D4 |
+D4 F4 A4 D5 | D5 A4 F4 E4 |
+
+Rhythm:
+4 4 4 2   | 4 4 4 2     |
+4 4 4 2   | 4 4 4 2     |
+
 sudo apt install qt6-l10n-tools
 
 sudo apt install libqt6svg6-dev

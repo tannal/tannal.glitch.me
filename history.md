@@ -1,5 +1,257 @@
 # 2024-10-13
 
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+CONDA_PREFIX not leading to conda env being used · Issue #7829 · astral-sh/uv
+https://github.com/astral-sh/uv/issues/7829
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-ovlr37yfp3loy53g6wgo&statuses%5B0%5D=open()&order=newest&bucket=action
+
+2409.09214v3.pdf
+https://arxiv.org/pdf/2409.09214
+
+MusicLM: Generating Music From Text - 2301.11325v1.pdf
+https://arxiv.org/pdf/2301.11325
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+pnpm github - Google 搜索
+https://www.google.com.hk/search?q=pnpm+github&newwindow=1&client=ubuntu-sn&sca_esv=8e018ca7fa204961&channel=fs&biw=1850&bih=968&ei=zHcMZ7i3BsjRkPIPvcC2eQ&ved=0ahUKEwi4zdj334yJAxXIKEQIHT2gLQ84ChDh1QMIDw&uact=5&oq=pnpm+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3BucG0gZ2l0aHViMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgYQABgKGB4yCBAAGAUYChgeMgYQABgKGB4yCBAAGAgYChgeSK0YUL8KWP0WcAF4AZABAJgB4AOgAcgVqgEHMi02LjIuMbgBA8gBAPgBAZgCCqAC5RXCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIMEAAYgAQYQxiKBRgKwgIHEAAYgAQYCpgDAIgGAZAGAZIHCTEuMC42LjIuMaAHpRs&sclient=gws-wiz-serp
+
+[upcoming] Volt - A rust-based package manager that's up to 12x faster than Yarn : r/rust
+https://www.reddit.com/r/rust/comments/oymdoj/upcoming_volt_a_rustbased_package_manager_thats/?chainedPosts=t3_45h6bk%2Ct3_oymdoj
+
+Issues · dimensionhq/volt
+https://github.com/dimensionhq/volt/issues
+
+Volta: Start your engines. ⚡
+https://github.com/volta-cli
+
+Discussion search results
+https://github.com/search?q=repo%3Apnpm%2Fpnpm+rust&type=discussions
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=volt%20&sort=byPopularity&type=story
+
+Volta | Hacker News
+https://news.ycombinator.com/item?id=27023453
+
+graalvm github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=graalvm+github
+
+oracle/graal: GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+https://github.com/oracle/graal?tab=readme-ov-file
+
+频道 - graalvm - 1 个新项目 - Slack
+https://app.slack.com/client/TN37RDLPK/channels
+
+Native Minecraft servers with GraalVM Native Image | Hacker News
+https://news.ycombinator.com/item?id=32690205
+
+hpi-swa/native-minecraft-server: Use GraalVM Native Image to turn the Minecraft server into native executables that are small in footprint, fast, and cheap to deploy.
+https://github.com/hpi-swa/native-minecraft-server
+
+libcurl github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=libcurl+github
+
+Discussion search results
+https://github.com/search?q=repo%3Acurl%2Fcurl+rust&type=discussions
+
+ROSE Compiler Infrastructure - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ROSE+Compiler+Infrastructure
+
+rose-compiler/rose: Developed at Lawrence Livermore National Laboratory (LLNL), ROSE is an open source compiler infrastructure to build source-to-source program transformation and analysis tools for large-scale C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python and PHP applications.
+https://github.com/rose-compiler/rose
+
+Zapcc – A faster C++ compiler | Hacker News
+https://news.ycombinator.com/item?id=13044005
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Vocoder%20latent%20&op=translate
+
+Vocoder latent - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Vocoder+latent+
+
+2105.09856v2.pdf
+https://arxiv.org/pdf/2105.09856
+
+dcgm export - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dcgm+export
+
+NVIDIA/dcgm-exporter: NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
+https://github.com/NVIDIA/dcgm-exporter
+
+Implement the Wasm `gc` proposal · Issue #775 · wasmi-labs/wasmi
+https://github.com/wasmi-labs/wasmi/issues/775
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(314) #general > EmbedderMsg::ShowContextMenu - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/EmbedderMsg.3A.3AShowContextMenu
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+(1205) #xilem > Relicensing Masonry to dual MIT/Apache - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Relicensing.20Masonry.20to.20dual.20MIT.2FApache
+
+w3c/edit-context: EditContext API
+https://github.com/w3c/edit-context
+
+CriticalPath: Mobile app profiler with synchronized video of app UI
+https://crpath.app/
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Wasmphobia
+https://wasmphobia.surma.technology/
+
+(1601) #cranelift > Basic block level code generation - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Basic.20block.20level.20code.20generation
+
+TiKV Project
+https://github.com/tikv
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Disallow duplicate imports? · Issue #1402 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1402
+
+(153) #new members > Heloo Rustaceans! - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122652-new-members/topic/Heloo.20Rustaceans!
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(1964) #general > General questions - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/2-general/topic/General.20questions
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Asking great questions — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/asking-great-questions.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ways-to-contribute
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#your-first-codebase-contribution
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Development community | Zulip
+https://zulip.com/development-community/#community-norms
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Invalid Image upload UI element Bug · Issue #17571 · zulip/zulip
+https://github.com/zulip/zulip/issues/17571
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+Intent to Ship: CSS caret-animation property
+https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(22) Discord | #minifier | oxc
+https://discord.com/channels/1079625926024900739/1096103456189722744
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+Add focusin and focusout events by josepharhar · Pull Request #10235 · whatwg/html
+https://github.com/whatwg/html/pull/10235/files
+
+Pull request search results
+https://github.com/search?q=repo%3Azulip%2Fzulip-flutter+Collapse+&type=pullrequests
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(22) Discord | #android | Flutter Dev
+https://discord.com/channels/420324994703163402/465280806924058654
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+算法集 - @roadup
+https://www.roadup.cc/space/7103039660082855937
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=anthropic&sort=byPopularity&type=story
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+why claude3 is better - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=why+claude3+is+better
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=pnpm%20in%20rust&sort=byPopularity&type=story
+
+Issues · krzkaczor/ny
+https://github.com/krzkaczor/ny/issues
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
