@@ -1,5 +1,272 @@
 # 2024-10-15
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+登录 - 腾讯云
+https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Flighthouse%2Finstance%2Fdetail%3FsearchParams%3Drid%253D1%26rid%3D4%26id%3Dlhins-55wyqhpe
+
+云产品免费体验馆_云产品免费试用_个人云产品试用-腾讯云
+https://cloud.tencent.com/act/pro/free
+
+Recommended environment setup tutorial — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/development/setup-recommended.html#step-4-developing
+
+josephg/eg-walker-reference: Simple reimplementation of the diamond types sequence CRDT in simple, pure, unoptimized typescript.
+https://github.com/josephg/eg-walker-reference
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+Dataflow Forensics
+https://www.df-f.com/
+
+Chrome Browser Exploitation, Part 2: Introduction to Ignition, Sparkplug and JIT Compilation via TurboFan - Jack Hacks
+https://jhalon.github.io/chrome-browser-exploitation-2/
+
+CSS Table in Servo
+https://tannal.github.io/p/css-table-in-servo/
+
+腾讯云最新活动_腾讯云促销优惠_代金券-腾讯云官网入口
+https://cloud.tencent.com/act
+
+Obsidian.md
+https://github.com/obsidianmd
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=obsidian%20open%20source&sort=byPopularity&type=story
+
+eBPF Documentary | Hacker News
+https://news.ycombinator.com/item?id=39663135
+
+About – random blog
+https://threedots.ovh/blog/about/
+
+Zulip — organized team chat
+http://10.106.146.39:9991/
+
+Issue search results
+https://github.com/search?q=repo%3Azulip%2Fzulip+HOST_IP_ADDR&type=issues
+
+czerny - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=czerny
+
+robert schumann - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=robert+schumann
+
+羅伯特·舒曼 - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E8%88%92%E6%9B%BC
+
+(29) The Best of Schumann - YouTube
+https://www.youtube.com/watch?v=Z8AuECXCTU0
+
+bun/CONTRIBUTING.md at 5532e1af10b308d2d5cdedd388764e88b275f7b3 · oven-sh/bun
+https://github.com/oven-sh/bun/blob/5532e1af10b308d2d5cdedd388764e88b275f7b3/CONTRIBUTING.md?plain=1
+
+debug.bun.sh/#localhost:6499/i3sf4ggnuem
+https://debug.bun.sh/#localhost:6499/i3sf4ggnuem
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(367) #general > Building basics - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Building.20basics
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+(1254) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+(1585) #cranelift > ✔ Implementing a backend for simple architecture (VM) - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/.E2.9C.94.20Implementing.20a.20backend.20for.20simple.20architecture.20.28VM.29
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+WebAssembly/design: WebAssembly Design Documents
+https://github.com/WebAssembly/design
+
+AbleOS/ableos: A non-unix-like micro-kernel written in rust with an embedded bytecode virtual machine. - AbleHub
+https://git.ablecorp.us/AbleOS/ableos
+
+(165) #general > Iterator lifetimes again, item to follow parent lifetime - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/Iterator.20lifetimes.20again.2C.20item.20to.20follow.20parent.20lifetime
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(2117) #new members > Ethan Tan - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/95-new-members/topic/Ethan.20Tan
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(23) Discord | #chinese | Bun
+https://discord.com/channels/876711213126520882/996381628702142485
+
+feat(parser): Generate `Serialize` impls in ast_tools by ottomated · Pull Request #6404 · oxc-project/oxc
+https://github.com/oxc-project/oxc/pull/6404/files#diff-acbbb2b626663cab2bed8ac095fb9a52f327db02d720b95b064fcdf18eed4cc7
+
+ROCm & Windows Support · Issue #106608 · pytorch/pytorch
+https://github.com/pytorch/pytorch/issues/106608
+
+(28) Advancing AI 2024 ‪@AMD‬ - YouTube
+https://www.youtube.com/watch?v=vJ8aEO6ggOs
+
+20241015_153142.png - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [8] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=download%20wasm&sort=byPopularity&type=story
+
+pretzelai/pretzelai: The modern replacement for Jupyter Notebooks
+https://github.com/pretzelai/pretzelai
+
+floneum/floneum: Instant, controllable, local pre-trained AI models in Rust
+https://github.com/floneum/floneum
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+wasm hub registry - Google 搜索
+https://www.google.com.hk/search?q=wasm+hub+registry&newwindow=1&client=ubuntu-sn&hs=CIK&sca_esv=966f55c4364fcb00&channel=fs&ei=CcsMZ4ODLJzOkPIPjK-5yAg&start=10&sa=N&sstk=AagrsugYLw4-vqriLOafBtFlb8nfbR-nBidry5uszX4FPEO9LhvYpCrG8HtMYsJ0dQrOArX8jPoRJoBa5AMvdiHnGA1YGLLPcKiflw&ved=2ahUKEwjDq_Sor42JAxUcJ0QIHYxXDokQ8tMDegQIBRAE&biw=1850&bih=968&dpr=1
+
+bytecodealliance/registry: WebAssembly Registry (Warg)
+https://github.com/bytecodealliance/registry
+
+build - Hello wasm-pack!
+https://rustwasm.github.io/docs/wasm-pack/commands/build.html
+
+WebAssembly and Containers with Docker Desktop - Hello World & Beyond · Thorsten Hans' blog
+https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/
+
+zulip/zulip-desktop: Zulip Desktop client for Mac, Windows and Linux.
+https://github.com/zulip/zulip-desktop?tab=readme-ov-file
+
+zulip-desktop/development.md at main · zulip/zulip-desktop
+https://github.com/zulip/zulip-desktop/blob/main/development.md
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=the%20art%20of%20&sort=byPopularity&type=story
+
+stormrider
+https://billwear.github.io/art-of-attention.html
+
+The Art of HPC
+https://theartofhpc.com/
+
+Tiffany Matthé
+https://tiffanymatthe.com/not-thinking
+
+github Tommi Virtanen - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=github+Tommi+Virtanen
+
+Flutegram github - Google 搜索
+https://www.google.com.hk/search?q=Flutegram+github&newwindow=1&client=ubuntu-sn&sca_esv=be665a62fa86d23b&channel=fs&ei=DFAOZ5j5CKqrur8PuN_2gAk&ved=0ahUKEwiYr7WnopCJAxWqle4BHbivHZAQ4dUDCA8&uact=5&oq=Flutegram+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEZsdXRlZ3JhbSBnaXRodWIyBRAhGKABMgUQIRigATIFECEYoAFIvBNQ7ghY3BJwAXgBkAEAmAG9AqAB4wqqAQUyLTQuMbgBA8gBAPgBAvgBAZgCBqAC7wrCAgoQABiwAxjWBBhHwgIHEAAYgAQYE8ICCBAAGIAEGKIEmAMAiAYBkAYJkgcHMS4wLjQuMaAHzwg&sclient=gws-wiz-serp
+
+Github话题分类 | topics | app
+https://flutter.ducafecat.com/github/topics/app
+
+Nekogram/Nekogram: Open-source third-party Telegram client with not many but useful modifications.
+https://github.com/Nekogram/Nekogram
+
+qwq233/Nullgram: 3rd party client of Telegram
+https://github.com/qwq233/Nullgram?tab=readme-ov-file
+
+fsdf – Telegraph
+https://telegra.ph/fsdf-10-15
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=telegra.ph&sort=byPopularity&type=story
+
+mgartner/pg_flame: A flamegraph generator for Postgres EXPLAIN ANALYZE output.
+https://github.com/mgartner/pg_flame
+
+telegram site:telegra.ph - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=telegram+site%3Atelegra.ph
+
+zulip/zulip-desktop: Zulip Desktop client for Mac, Windows and Linux.
+https://github.com/zulip/zulip-desktop
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
