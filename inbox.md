@@ -1,8 +1,70 @@
 # 2024-10-15 0 | 0
 
+   default: #7 exporting to image
+    default: #7 exporting layers done
+    default: #7 writing image sha256:a5ef59f244025398f41126a45c746d8a3cd651ec4e15bb2da17fb907ab231ba4 done
+    default: #7 DONE 0.0s
+    default: 
+    default: Image: a5ef59f244025398f41126a45c746d8a3cd651ec4e15bb2da17fb907ab231ba4
+==> default: Creating the container...
+    default:   Name: zulip_default_1728976078
+    default:  Image: a5ef59f244025398f41126a45c746d8a3cd651ec4e15bb2da17fb907ab231ba4
+    default: Volume: /home/a13/tannalwork/projects/zulip:/srv/zulip:z
+    default:   Port: 0.0.0.0:9991:9991
+    default:   Port: 0.0.0.0:9994:9994
+    default:   Port: 127.0.0.1:2222:22
+    default:  
+    default: Container created: 713cb20e1e04a2ff
+==> default: Enabling network interfaces...
+==> default: Starting container...
+==> default: Waiting for machine to boot. This may take a few minutes...
+    default: SSH address: 127.0.0.1:2222
+    default: SSH username: vagrant
+    default: SSH auth method: private key
+    default: 
+    default: Vagrant insecure key detected. Vagrant will automatically replace
+    default: this with a newly generated keypair for better security.
+    default: 
+    default: Inserting generated public key within guest...
+    default: Removing insecure key from the guest if it's present...
+    default: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> default: Machine booted and ready!
+==> default: Configuring proxy for Apt...
+==> default: Configuring proxy environment variables...
+==> default: Running provisioner: shell...
+    default: Running: /tmp/vagrant-shell20241015-529793-ksub32
+    default: + set -e
+    default: + set -o pipefail
+    default: + '[' '!' '' ']'
+    default: + sudo ln -nsf /srv/zulip/tools/setup/dev-motd /etc/update-motd.d/99-zulip-dev
+    default: + sudo rm -f /etc/update-motd.d/10-help-text /etc/update-motd.d/99-bento
+    default: + sudo dpkg --purge landscape-common
+    default: dpkg: warning: ignoring request to remove landscape-common which isn't installed
+    default: + sudo dpkg-divert --add --rename /etc/default/motd-news
+    default: Adding 'local diversion of /etc/default/motd-news to /etc/default/motd-news.distrib'
+    default: + sudo sh -c 'echo ENABLED=0 > /etc/default/motd-news'
+    default: + grep -q LC_ALL=C.UTF-8 /etc/default/locale
+    default: + echo LC_ALL=C.UTF-8
+    default: + sudo tee -a /etc/default/locale
+    default: LC_ALL=C.UTF-8
+    default: + export SKIP_VENV_SHELL_WARNING=1
+    default: + SKIP_VENV_SHELL_WARNING=1
+    default: + set +x
+    default: + sudo -- sh -c 'echo "$1" > "$2"' - 7b2435d2-7ecf-460b-a312-252c182bcd01 /srv/.zulip-dev-uuid
+    default: + sudo -- ./scripts/lib/setup-apt-repo
+    default: + set -e
+    default: + set -u
+    default: + set -o pipefail
+    default: + shopt -s extglob
+    default: + verify=false
+    default: ++ getopt -o '' --long verify,list: --
+    default: + args=' --'
+    default: + eval 'set --  
+
 target/debug/cloud-hypervisor --kernel vmlinux --disk_path noble-server-cloudimg-amd64.img --serial tty
 
 https://hamel.dev/blog/posts/dokku/
+open source okku netlify
 
 projects often count time monthes
 6 month project

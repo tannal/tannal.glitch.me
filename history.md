@@ -6,6 +6,219 @@ https://github.dev/tannal/tannal.glitch.me
 Recommended environment setup tutorial — Zulip 10.0-dev+git documentation
 https://zulip.readthedocs.io/en/latest/development/setup-recommended.html#step-2-get-zulip-code
 
+Recommended environment setup tutorial — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/development/setup-recommended.html#specifying-a-proxy
+
+Testing overview — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/testing/testing.html
+
+cloud-hypervisor/cloud-hypervisor: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+https://github.com/cloud-hypervisor/cloud-hypervisor?tab=readme-ov-file#architectures
+
+LevelDB ldb - Google 搜索
+https://www.google.com.hk/search?q=LevelDB+ldb&newwindow=1&client=ubuntu-sn&hs=HdK&sca_esv=4465b960e5384484&channel=fs&ei=dAYOZ4XVM43dwN4PlvXCsAs&ved=0ahUKEwiF35GQ3I-JAxWNLtAFHZa6ELYQ4dUDCA8&uact=5&oq=LevelDB+ldb&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0xldmVsREIgbGRiMgQQABgeMgQQABgeMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI-gtQgwVY3wpwAXgBkAEAmAHBA6ABhQiqAQcyLTEuMS4xuAEDyAEA-AEBmAIEoAKYCMICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgcQABiABBgMmAMAiAYBkAYKkgcJMS4wLjEuMS4xoAfuBw&sclient=gws-wiz-serp
+
+harshvsingh8/leveldb-reader: A colleciton of platform specific binaries, written in Go, to query LevelDB (or SnappyDB) databases.
+https://github.com/harshvsingh8/leveldb-reader
+
+google/leveldb: LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+https://github.com/google/leveldb/tree/main
+
+mdawsonuk/LevelDBDumper: Dumps all of the Key/Value pairs from a LevelDB database
+https://github.com/mdawsonuk/LevelDBDumper
+
+Otto, the successor to Vagrant | Hacker News
+https://news.ycombinator.com/item?id=10291778
+
+Eggheads
+https://github.com/eggheads/
+
+progrium/buildstep: Buildstep uses Docker and Buildpacks to build applications like Heroku
+https://github.com/progrium/buildstep
+
+dokku/dokku: A docker-powered PaaS that helps you build and manage the lifecycle of applications
+https://github.com/dokku/dokku
+
+Dokku - The smallest PaaS implementation you've ever seen
+https://dokku.com/
+
+Upgrading - Dokku Documentation
+https://dokku.com/docs/getting-started/upgrading/
+
+vagrant github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vagrant+github
+
+HashiCorp
+https://github.com/hashicorp
+
+Dokku: My favorite personal serverless platform | Hacker News
+https://news.ycombinator.com/item?id=41358020
+
+Dokku: my favorite personal serverless platform – Hamel’s Blog
+https://hamel.dev/blog/posts/dokku/
+
+Team – Parlance
+https://parlance-labs.com/team.html
+
+Dokploy/dokploy: Open Source Alternative to Vercel, Netlify and Heroku.
+https://github.com/Dokploy/dokploy
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+(349) #general > Building basics - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/Building.20basics
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+(1248) #xilem > Weekly New Examples - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/stream/354396-xilem/topic/Weekly.20New.20Examples
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+(1586) #cranelift > Basic block level code generation - Bytecode Alliance - Zulip
+https://bytecodealliance.zulipchat.com/#narrow/stream/217117-cranelift/topic/Basic.20block.20level.20code.20generation
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+WebAssembly/design: WebAssembly Design Documents
+https://github.com/WebAssembly/design
+
+(165) #general > feedback on github issues improvements - rust-lang - Zulip
+https://rust-lang.zulipchat.com/#narrow/stream/122651-general/topic/feedback.20on.20github.20issues.20improvements
+
+Resolving Rust Symbols • Shriram Balaji's Blog
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+Code search results
+https://github.com/search?q=repo%3Atokio-rs%2Ftokio%20socket&type=code
+
+(2102) #new members > Ethan Tan - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/95-new-members/topic/Ethan.20Tan
+
+Collapse messages less by default · Issue #31501 · zulip/zulip
+https://github.com/zulip/zulip/issues/31501
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+CanadaHonk/eshost: A uniform wrapper around a multitude of ECMAScript hosts. CLI: https://github.com/bterlson/eshost-cli
+https://github.com/CanadaHonk/eshost
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Discussion search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+unicode&type=discussions&p=2
+
+simoncozens/fonts-and-layout: Fonts and Layout for Global Scripts
+https://github.com/simoncozens/fonts-and-layout
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+(24) Discord | #ask-for-help | Lit
+https://discord.com/channels/1012791295170859069/1047015641225371718
+
+feat(parser): Generate `Serialize` impls in ast_tools by ottomated · Pull Request #6404 · oxc-project/oxc
+https://github.com/oxc-project/oxc/pull/6404/files#diff-acbbb2b626663cab2bed8ac095fb9a52f327db02d720b95b064fcdf18eed4cc7
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Element [5] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+https://bug1506266.bmoattachments.org/attachment.cgi?id=9024431
+
+⚙ D225454 Bug 87248: Remove "if 0"'d SdpIdentityAttribute::Serialize class
+https://phabricator.services.mozilla.com/D225454
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+搜索 - kotlinlang - 1 个新项目 - Slack
+https://app.slack.com/client/T09229ZC6/search
+
+mcxiaoke/awesome-kotlin: A curated list of awesome Kotlin frameworks, libraries, documents and other resources
+https://github.com/mcxiaoke/awesome-kotlin
+
+Klibs.io — Search 1500+ KMP libraries
+https://klibs.io/
+
+Telegram: Contact @jrychn
+https://t.me/jrychn
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+HTML Standard
+https://html.spec.whatwg.org/#tables-2
+
+anthropics repositories
+https://github.com/orgs/anthropics/repositories
+
+‪Geoffrey Hinton‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=download%20wasm&sort=byPopularity&type=story
+
+pretzelai/pretzelai: The modern replacement for Jupyter Notebooks
+https://github.com/pretzelai/pretzelai
+
+floneum/floneum: Instant, controllable, local pre-trained AI models in Rust
+https://github.com/floneum/floneum
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+wasm hub registry - Google 搜索
+https://www.google.com.hk/search?q=wasm+hub+registry&newwindow=1&client=ubuntu-sn&hs=CIK&sca_esv=966f55c4364fcb00&channel=fs&ei=CcsMZ4ODLJzOkPIPjK-5yAg&start=10&sa=N&sstk=AagrsugYLw4-vqriLOafBtFlb8nfbR-nBidry5uszX4FPEO9LhvYpCrG8HtMYsJ0dQrOArX8jPoRJoBa5AMvdiHnGA1YGLLPcKiflw&ved=2ahUKEwjDq_Sor42JAxUcJ0QIHYxXDokQ8tMDegQIBRAE&biw=1850&bih=968&dpr=1
+
+bytecodealliance/registry: WebAssembly Registry (Warg)
+https://github.com/bytecodealliance/registry
+
+build - Hello wasm-pack!
+https://rustwasm.github.io/docs/wasm-pack/commands/build.html
+
+WebAssembly and Containers with Docker Desktop - Hello World & Beyond · Thorsten Hans' blog
+https://www.thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/
+
+zulip/zulip-desktop: Zulip Desktop client for Mac, Windows and Linux.
+https://github.com/zulip/zulip-desktop?tab=readme-ov-file
+
+zulip-desktop/development.md at main · zulip/zulip-desktop
+https://github.com/zulip/zulip-desktop/blob/main/development.md
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Recommended environment setup tutorial — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/development/setup-recommended.html#step-2-get-zulip-code
+
 100% - [855] try: Tasks automatically selected
 https://treeherder.mozilla.org/jobs?repo=try&selectedTaskRun=PuFjKgneTQeDxwmRtUMH_Q.0&resultStatus=success%2Cretry%2Cusercancel%2Crunning%2Cpending%2Crunnable
 
