@@ -1,3 +1,7 @@
+# 2024-10-15 0 | 0
+
+export PYTHONPATH="/home/a13/tannalwork/projects/zulip:$PYTHONPATH"
+
 # 2024-10-14 0 | 0
 
 https://firefox-source-docs.mozilla.org/tools/try/index.html

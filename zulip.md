@@ -4,19 +4,21 @@
 client flutter https://github.com/zulip/zulip-flutter
 
 server python flask
-https://github.com/zulip/zulip
-
-```bash
-sudo apt install python3-virtualenv
-./tools/setup/setup_venvs.py
-
-```
 
 client desktop electron 
 https://github.com/zulip/zulip-desktop.git
 
 # server
 
+
+
+```bash
+git clone https://github.com/zulip/zulip
+
+sudo apt install python3-virtualenv vagrant
+
+vagrant up --provider=docker
+```
 Web应用程序
 Zulip的Web应用程序是使用Python的Django Web框架开发的。它处理HTTP请求、渲染页面以及与其他后端服务进行交互。
 Tornado服务器
