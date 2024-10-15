@@ -1,5 +1,8 @@
 # 2024-10-15 0 | 0
 
+target/debug/cloud-hypervisor --kernel vmlinux --disk_path noble-server-cloudimg-amd64.img --serial tty
+
+
 projects often count time monthes
 6 month project
 9 month project
