@@ -1,5 +1,13 @@
 # 2024-10-15 0 | 0
 
+/opt/sqlite/bin/sqlite3 ~/.mozilla/firefox/l415lxcz.default-default/places.sqlite 
+SELECT datetime(moz_historyvisits.visit_date/1000000, 'unixepoch', 'localtime') AS visit_time,
+       moz_places.url, moz_places.title
+FROM moz_places, moz_historyvisits
+WHERE moz_places.id = moz_historyvisits.place_id
+ORDER BY visit_time DESC
+LIMIT 50;
+
 vagrant plugin install vagrant-proxyconf
 code ~/.zulip-vagrant-config
 HTTP_PROXY http://10.106.146.44:8890
