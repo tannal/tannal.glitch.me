@@ -1,5 +1,215 @@
 # 2024-10-15
 
+v2ex.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Does not work with electron-builder · Issue #9895 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/9895
+
+Code search results
+https://github.com/search?q=repo%3Aelectron%2Felectron+rebuild+bun&type=code
+
+Upcoming Servo issue triage meeting on October 28 2024 · Issue #106 · servo/project
+https://github.com/servo/project/issues/106
+
+jitsi meet github - Google 搜索
+https://www.google.com.hk/search?q=jitsi+meet+github&newwindow=1&client=ubuntu-sn&hs=gZk&sca_esv=be665a62fa86d23b&channel=fs&ei=rFUOZ92gJu2_kPIPnZO_iAg&ved=0ahUKEwjdpqXWp5CJAxXtH0QIHZ3JD4EQ4dUDCA8&uact=5&oq=jitsi+meet+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWppdHNpIG1lZXQgZ2l0aHViMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgFGB5IqhtQmhBYshpwAXgBkAEAmAGUA6ABhQ-qAQcyLTEuNC4xuAEDyAEA-AEBmAIGoAKYDcICChAAGLADGNYEGEeYAwCIBgGQBgqSBwcxLjMtNC4xoAefEQ&sclient=gws-wiz-serp
+
+Developer Guide for Jitsi Meet | Jitsi Meet
+https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-web-jitsi-meet
+
+jitsi/jitsi-meet: Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+https://github.com/jitsi/jitsi-meet
+
+youtube flutter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=youtube+flutter+github
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=vladmandic&sort=byPopularity&type=story
+
+vladmandic/human: Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
+https://github.com/vladmandic/human
+
+registry.npmjs.org/jsc-android/
+https://registry.npmjs.org/jsc-android/
+
+React Native Community
+https://github.com/react-native-community
+
+element-hq/element-desktop: A glossy Matrix collaboration client for desktop.
+https://github.com/element-hq/element-desktop/
+
+kde browser - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kde+browser
+
+Development - Falkon
+https://www.falkon.org/development/
+
+Network / Falkon · GitLab
+https://invent.kde.org/network/falkon
+
+Log in to KDE Bugtracking System
+https://bugs.kde.org/enter_bug.cgi?format=guided&product=falkon
+
+KDE GitHub Mirror
+https://github.com/KDE
+
+khtml project - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=khtml+project
+
+KDE/ghostwriter: Text editor for Markdown
+https://github.com/KDE/ghostwriter?tab=readme-ov-file
+
+ghostwriter - No excuses. No distractions. Just write.
+https://ghostwriter.kde.org/
+
+Profile: kizer | Hacker News
+https://news.ycombinator.com/user?id=kizer
+
+Your Element is misconfigured Unexpected error preparing the app. See console for details. · Issue #1886 · element-hq/element-desktop
+https://github.com/element-hq/element-desktop/issues/1886
+
+RustDesk – Remote desktop software, written in Rust | Hacker News
+https://news.ycombinator.com/item?id=34722979
+
+LizardByte/Sunshine: Self-hosted game stream host for Moonlight.
+https://github.com/LizardByte/Sunshine
+
+我也发一个 TeamViewer 替代品，个人产品 - V2EX
+https://www.v2ex.com/t/712086?p=1
+
+OpenIndex/RemoteSupportTool: an easy single click solution for remote maintenance
+https://github.com/OpenIndex/RemoteSupportTool
+
+On-Demand Assist by RealVNC
+https://www.realvnc.help/
+
+moonlight github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=moonlight+github
+
+moonlight-stream/moonlight-qt: GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+https://github.com/moonlight-stream/moonlight-qt?tab=readme-ov-file
+
+Moonlight Game Streaming: Play Your PC Games Remotely
+https://moonlight-stream.org/
+
+rustdesk (RustDesk)
+https://github.com/rustdesk
+
+vultr 服务器 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+vultr+%E6%9C%8D%E5%8A%A1%E5%99%A8
+
+Splashtop github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Splashtop+github
+
+realvnc github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=realvnc+github
+
+RealVNC Ltd.
+https://github.com/RealVNC
+
+Zerotier github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Zerotier+github
+
+zerotier/ZeroTierOne: A Smart Ethernet Switch for Earth
+https://github.com/zerotier/ZeroTierOne
+
+Parsec github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Parsec+github
+
+Parsec
+https://github.com/parsec-cloud
+
+Rustdesk – Remote desktop software, an open source TeamViewer alternative | Hacker News
+https://news.ycombinator.com/item?id=31456007
+
+rustdesk/rustdesk-server: RustDesk Server Program
+https://github.com/rustdesk/rustdesk-server
+
+rustdesk/src/ui/index.tis at 45375517b960add9010667dcce867d1351f55a6e · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/blob/45375517b960add9010667dcce867d1351f55a6e/src/ui/index.tis
+
+rustdesk/src/ui/index.tis at 45375517b960add9010667dcce867d1351f55a6e · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/blob/45375517b960add9010667dcce867d1351f55a6e/src/ui/index.tis
+
+roife (roife)
+https://github.com/roife
+
+resume/resume-cn-post.pdf at master · roife/resume
+https://github.com/roife/resume/blob/master/resume-cn-post.pdf
+
+roife/roife.github.io: My blog
+https://github.com/roife/roife.github.io
+
+[形式语言] 06 Context-free Language | ROIFE BLOG
+https://roife.github.io/posts/formal-languages-and-automata-06/
+
+Rust Foundation - Announcing the Rust Foundation’s 2024 Fellows
+https://foundation.rust-lang.org/news/announcing-the-rust-foundation-s-2024-fellows/
+
+Rust Foundation - Rust Foundation
+https://foundation.rust-lang.org/grants/fellowships/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Masonry: An imperative widget toolkit in Rust - Google 幻灯片
+https://docs.google.com/presentation/d/1T-0Kr5V3Zm5Mm_sHKBFE474MIkeLEEMHXaHnNh61LEM/edit#slide=id.g30addfcd179_0_24
+
+wasmi-labs/wasmi: WebAssembly (Wasm) interpreter.
+https://github.com/wasmi-labs/wasmi
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #chinese | Bun
+https://discord.com/channels/876711213126520882/996381628702142485
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [5] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630#7752645
+
+[Feature Request]: Bun runtime instead of Node.js · Issue #34876 · electron/electron
+https://github.com/electron/electron/issues/34876
+
+Bun edition · Issue #10 · gluon-framework/gluon
+https://github.com/gluon-framework/gluon/issues/10
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
