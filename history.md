@@ -1,5 +1,203 @@
 # 2024-10-15
 
+archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Profiling* - The Servo Book
+https://book.servo.org/hacking/profiling.html?highlight=profiling#profiling
+
+Nsight Systems | NVIDIA Developer
+https://developer.nvidia.com/nsight-systems
+
+Profiling* - The Servo Book
+https://book.servo.org/hacking/profiling.html
+
+Building Servo - The Servo Book
+https://book.servo.org/hacking/building-servo.html#build-profiles
+
+Rust Foundation - Rust Foundation
+https://foundation.rust-lang.org/members/
+
+Goals - Rust Project Goals
+https://rust-lang.github.io/rust-project-goals/2024h2/goals.html
+
+rust-cross
+https://github.com/rust-cross/
+
+rust-cross
+https://github.com/rust-cross/
+
+Mouse clicks are intermittently lost · Issue #33010 · servo/servo
+https://github.com/servo/servo/issues/33010
+
+(29) GOSIM 2024 Europe APP & WEB Nico Burns: The State of Rust Ul - YouTube
+https://www.youtube.com/watch?v=G9vXU2oXVPw
+
+bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+https://github.com/bilibili/ijkplayer
+
+Support selecting DOM elements via the mouse · Issue #4409 · servo/servo
+https://github.com/servo/servo/issues/4409
+
+Firefox DevTools
+https://github.com/firefox-devtools
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1922163 - <table align="right/left"> aren't mapped to float as per spec
+https://bugzilla.mozilla.org/show_bug.cgi?id=1922163
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fbook%20profil&type=code
+
+Codetribute
+https://codetribute.mozilla.org/
+
+rust-lang/rust-forge: Information useful to people contributing to Rust
+https://github.com/rust-lang/rust-forge
+
+GitHub - Rust Forge
+https://forge.rust-lang.org/platforms/github.html
+
+Grouped Stack Bar · Issue #196 · apexcharts/apexcharts.js
+https://github.com/apexcharts/apexcharts.js/issues/196
+
+RustWeek 2025
+https://rustweek.org/
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+Niko Matsakis youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Niko+Matsakis+youtube
+
+View 1 · Layout 2020: Tables
+https://github.com/orgs/servo/projects/18/views/1
+
+table-cell with width:100% does not take up enough space · Issue #33671 · servo/servo
+https://github.com/servo/servo/issues/33671
+
+Issue with table cells with explicit height · Issue #6578 · servo/servo
+https://github.com/servo/servo/issues/6578
+
+Dioxus Labs
+https://github.com/DioxusLabs
+
+Ask HN: Search engine for discussions about a URL? | Hacker News
+https://news.ycombinator.com/item?id=24833534
+
+Search Result - BlogSearchEngine.org
+http://www.blogsearchengine.org/search.html?cx=partner-pub-9634067433254658%3A5laonibews6&cof=FORID%3A10&ie=ISO-8859-1&q=llvm&sa.x=0&sa.y=0
+
+flutter | Boardreader
+https://boardreader.com/s/flutter.html;language=English
+
+Google Search Operators: The Complete List (44 Advanced Operators)
+https://ahrefs.com/blog/google-advanced-search-operators/
+
+RFC: introduce the color syntactic design pattern by nikomatsakis · Pull Request #3710 · rust-lang/rfcs
+https://github.com/rust-lang/rfcs/pull/3710
+
+rust after mozilla - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+after+mozilla
+
+Was abandoning Rust a strategic failure on Mozilla's part? : r/firefox
+https://www.reddit.com/r/firefox/comments/w45poj/was_abandoning_rust_a_strategic_failure_on/
+
+Firefox will consider a Rust implementation of JPEG-XL | Hacker News
+https://news.ycombinator.com/item?id=41443336
+
+Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/
+
+gtk.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/47a0a01e1f7ad0451c6ba6c790d5c6855df512c1/toolkit/crashreporter/client/app/src/ui/gtk.rs#96,105
+
+Firefox will consider a Rust implementation of JPEG-XL by bholley · Pull Request #1064 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/pull/1064
+
+Firefox Platform Graphics team
+https://github.com/FirefoxGraphics
+
+Issue search results
+https://github.com/search?q=author%3Abholley&type=issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=firefox%20devtoo&sort=byPopularity&type=story
+
+DevTools Challenger for Firefox | Hacker News
+https://news.ycombinator.com/item?id=10500237
+
+Supercharging CSS variables debugging in Firefox 131 | Hacker News
+https://news.ycombinator.com/item?id=41790100
+
+Firefox DevTools Newsletter — 131 – Firefox Developer Experience
+https://fxdx.dev/firefox-devtools-newsletter-131/
+
+Firefox WebDriver Newsletter 131 – Firefox Developer Experience
+https://fxdx.dev/firefox-webdriver-newsletter-131/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #github | Dioxus Labs
+https://discord.com/channels/899851952891002890/1037894362216005713
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [5] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630#7752645
+
+[Feature Request]: Bun runtime instead of Node.js · Issue #34876 · electron/electron
+https://github.com/electron/electron/issues/34876
+
+Bun edition · Issue #10 · gluon-framework/gluon
+https://github.com/gluon-framework/gluon/issues/10
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/cargo
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
 v2ex.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

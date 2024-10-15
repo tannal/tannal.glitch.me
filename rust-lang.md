@@ -1,4 +1,34 @@
 
+
+# projects
+
+rust-analyzer
+
+cargo
+
+clippy
+
+rust-analyzer
+
+https://github.com/rust-windowing
+
+https://github.com/rust-cross/
+
+https://github.com/rust-embedded/
+
+https://github.com/rust-unofficial/
+
+https://github.com/rust-osdev/
+
+https://github.com/rust-skia
+
+https://github.com/Rust-GCC
+
+https://github.com/rust-mobile/ 
+
+https://github.com/gfx-rs/  
+
+
 # people
 
 involves:LegionMammal978

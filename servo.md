@@ -1,5 +1,30 @@
 # dev
 
+# tests
+
+http://lobste.rs
+radicle.xyz
+
+
+./mach run --bin target/profiling/servo -p 5 https://www.cnn.com/
+./mach run --bin target/profiling/servo -p 5 https://lobste.rs
+
+Error initializing controller for "section" on "<div data-uri="cms.cnn.com/_components/section/instances/clg35wfxm004z47qb0l3pcubw@published" class="section" role="main" data-drag-disable="true" data-unselectable="true">" (new ReferenceError("IntersectionObserver is not defined", "https://edition.cnn.com/", 13024))
+[2024-10-15T14:44:20Z ERROR script::dom::bindings::error] Error at https://edition.cnn.com/:12908:456 ResizeObserver is not defined
+ModuleFlags:  {"DOM": 1, "INTL": 2, "ADF": 4}
+ad-slot: Failed to request ads - (new ReferenceError("IntersectionObserver is not defined", "https://edition.cnn.com/", 12828))
+collectorUrl //collector.cdp.cnn.com
+[2024-10-15T14:44:22Z ERROR script::dom::bindings::error] Error at https://ads.stickyadstv.com/auto-user-sync:1:7 illegal character U+0001
+[2024-10-15T14:44:22Z ERROR script::dom::bindings::error] Error at https://edition.cnn.com/:2:24135 s.manageVars is not a function
+[2024-10-15T14:44:22Z ERROR script::dom::htmlmediaelement] Player error: "Error from element /GstPlayBin:playbin/GstURIDecodeBin:uridecodebin3/GstDecodeBin:decodebin3/avdec_h264:avdec_h264-0: Could not decode stream.\nNo valid frames decoded before end of stream\n../gst-libs/gst/video/gstvideodecoder.c(1416): gst_video_decoder_sink_event_default (): /GstPlayBin:playbin/GstURIDecodeBin:uridecodebin3/GstDecodeBin:decodebin3/avdec_h264:avdec_h264-0:\nno valid frames found"
+[2024-10-15T14:44:22Z ERROR script::dom::htmlmediaelement] Player error: "Error from element /GstPlayBin:playbin/GstURIDecodeBin:uridecodebin4/GstDecodeBin:decodebin4/avdec_h264:avdec_h264-1: Could not decode stream.\nNo valid frames decoded before end of stream\n../gst-libs/gst/video/gstvideodecoder.c(1416): gst_video_decoder_sink_event_default (): /GstPlayBin:playbin/GstURIDecodeBin:uridecodebin4/GstDecodeBin:decodebin4/avdec_h264:avdec_h264-1:\nno valid frames found"
+[GPT] Legacy browser does not support intersection observer causing lazy render/fetch as well as viewability events not to work properly.
+https://goo.gle/gpt-message#150
+[2024-10-15T14:44:24Z ERROR script::dom::bindings::error] Error at https://1f2e7.v.fwmrm.net/ad/u?nw=127719&dpid=127719&token=b8ce708402a6286faf64c964294f2046&gif=1&buid=b2231b5accf50d6c24cf6f326c10fc&_fw_gdpr=0&_fw_gdpr_consent=&_fw_gdpr=0&_fw_gdpr_consent=:1:7 illegal character U+0001
+
+
+ResizeObserver
+IntersectionObserver
 
 ## Text Selection in servo
 

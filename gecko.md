@@ -12,6 +12,12 @@ fredw
 
 https://bugzilla.mozilla.org/user_profile?user_id=283262 fierfox devtools team now collabrate with servo
 
+
+author:bholley
+author:tantek
+author:martinthomson
+
+
 # Meeting Notes layout & Spidermonkey
 
 https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/edit

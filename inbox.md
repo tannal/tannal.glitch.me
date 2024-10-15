@@ -1,5 +1,7 @@
 # 2024-10-15 0 | 0
 
+https://github.com/FirefoxGraphics
+
 https://github.com/jitsi/jitsi-meet.git
 
 curl -fsSL https://bun.sh/install | bash
