@@ -18,6 +18,19 @@ git clone https://github.com/zulip/zulip
 sudo apt install python3-virtualenv vagrant
 
 vagrant up --provider=docker
+
+vim ~/.zulip-vagrant-config
+HTTP_PROXY http://10.106.146.44:8890
+HTTPS_PROXY http://10.106.146.44:8890
+NO_PROXY localhost,127.0.0.1,.example.com,.zulipdev.com
+HOST_IP_ADDR 0.0.0.0
+
+vagrant reload
+
+vagrant ssh
+./tools/run-dev
+
+~                   
 ```
 Web应用程序
 Zulip的Web应用程序是使用Python的Django Web框架开发的。它处理HTTP请求、渲染页面以及与其他后端服务进行交互。

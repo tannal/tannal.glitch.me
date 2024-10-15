@@ -1,5 +1,12 @@
 # 2024-10-15 0 | 0
 
+projects often count time monthes
+6 month project
+9 month project
+
+LLm 6 data perparation +6 pretraining+6 fintuning
+
+
 /opt/sqlite/bin/sqlite3 ~/.mozilla/firefox/l415lxcz.default-default/places.sqlite 
 SELECT datetime(moz_historyvisits.visit_date/1000000, 'unixepoch', 'localtime') AS visit_time,
        moz_places.url, moz_places.title
