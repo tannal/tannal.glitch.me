@@ -2,6 +2,7 @@
 
 target/debug/cloud-hypervisor --kernel vmlinux --disk_path noble-server-cloudimg-amd64.img --serial tty
 
+https://hamel.dev/blog/posts/dokku/
 
 projects often count time monthes
 6 month project
