@@ -1,5 +1,49 @@
 
 
+4. 为 Vagrant 设置代理：
+   编辑 Vagrantfile（通常在项目根目录下），添加以下行：
+
+   ```ruby
+   config.vm.provider "docker" do |d|
+     d.build_args = ["--build-arg", "http_proxy=http://10.106.146.44:8890", "--build-arg", "https_proxy=http://10.106.146.44:8890"]
+   end
+   ```
+
+5. 如果您使用的是 docker-compose，创建或编辑 ~/.docker/config.json 文件：
+
+   ```json
+   {
+     "proxies": {
+       "default": {
+         "httpProxy": "http://10.106.146.44:8890",
+         "httpsProxy": "http://10.106.146.44:8890",
+         "noProxy": "localhost,127.0.0.1"
+       }
+     }
+   }
+   ```
+
+6. 对于 Dockerfile，您可以在构建时传递代理设置：
+
+   ```
+   docker build --build-arg HTTP_PROXY=http://10.106.146.44:8890 --build-arg HTTPS_PROXY=http://10.106.146.44:8890 -t your_image_name .
+   ```
+
+7. 如果您直接使用 docker run，可以在运行时设置环境变量：
+
+   ```
+   docker run -e HTTP_PROXY=http://10.106.146.44:8890 -e HTTPS_PROXY=http://10.106.146.44:8890 your_image_name
+   ```
+
+8. 确保您的代理服务器允许 Docker 的连接。有些代理服务器可能需要额外的配置或认证。
+
+9. 如果仍然遇到问题，可以尝试使用 `--network host` 选项运行 Docker，这会使 Docker 容器使用主机的网络栈：
+
+   ```
+   docker run --network host your_image_name
+   ```
+
+在进行这些更改后，尝试重新运行您的 Vagrant 或 Docker 命令。如果问题仍然存在，可能需要检查代理服务器的日志，以确保没有被阻止的连接。
 
 场景信息 (Scene infos):
     刚体数量 (# rigid-bodies): 23个

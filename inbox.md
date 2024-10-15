@@ -1,5 +1,47 @@
 # 2024-10-15 0 | 0
 
+ENV HTTP_PROXY http://10.106.146.44:8890
+ENV HTTPS_PROXY http://10.106.146.44:8890
+
+您已经设置了系统代理，但看起来 Docker 并没有使用这些代理设置。这是一个常见的问题，因为 Docker 有自己的网络设置，不会自动使用系统的代理设置。让我们尝试以下几个步骤来解决这个问题：
+
+1. 为 Docker 设置代理：
+   创建或编辑 Docker 的配置文件：
+
+   ```
+   sudo mkdir -p /etc/systemd/system/docker.service.d
+   sudo vim /etc/systemd/system/docker.service.d/http-proxy.conf
+   ```
+
+   在文件中添加以下内容：
+
+   ```
+   [Service]
+   Environment="HTTP_PROXY=http://10.106.146.44:8890"
+   Environment="HTTPS_PROXY=http://10.106.146.44:8890"
+   Environment="NO_PROXY=localhost,127.0.0.1"
+
+   [Service]
+   Environment="HTTP_PROXY=http://10.90.143.168:7890"
+   Environment="HTTPS_PROXY=http://10.90.143.168:7890"
+   Environment="NO_PROXY=localhost,127.0.0.1"
+   ```
+
+2. 重新加载 Docker 配置并重启服务：
+
+   ```
+   sudo systemctl daemon-reload
+   sudo systemctl restart docker
+   ```
+
+3. 验证 Docker 环境变量：
+
+   ```
+   sudo docker info | grep -i proxy
+   ```
+
+
+
 export PYTHONPATH="/home/a13/tannalwork/projects/zulip:$PYTHONPATH"
 
 # 2024-10-14 0 | 0
