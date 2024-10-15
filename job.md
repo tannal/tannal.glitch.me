@@ -589,7 +589,7 @@ apply
 [] test262 meeting 
 [] ask for intern
 [] 10-16 12:00 PM
-[] 
+[] 10-16 16:45 PM
 
 https://github.com/pytorch/pytorch/issues/126519
 
@@ -611,7 +611,7 @@ https://github.com/pytorch/pytorch/issues/126519
 [] Be good at solving puzzles for code interview
 
 [x] Be a pianist play piano
-[] Be a pianist play piano
+[x] Be a pianist play piano
 [] Be a pianist play piano
 
 [] 10-11 find a monitor and wire to raspi then boot an os
