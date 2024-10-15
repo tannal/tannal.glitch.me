@@ -1,5 +1,12 @@
 # 2024-10-15 0 | 0
 
+vagrant plugin install vagrant-proxyconf
+code ~/.zulip-vagrant-config
+HTTP_PROXY http://10.106.146.44:8890
+HTTPS_PROXY http://10.106.146.44:8890
+NO_PROXY localhost,127.0.0.1,.example.com,.zulipdev.com
+
+
 ENV HTTP_PROXY http://10.106.146.44:8890
 ENV HTTPS_PROXY http://10.106.146.44:8890
 
