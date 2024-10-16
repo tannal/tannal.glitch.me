@@ -1,5 +1,12 @@
 # 2024-10-16 0 | 0
 
+java -jar revanced-cli-5.0.0-dev.6-all.jar patch -p piko-twitter-patches-1.42.0.jar -m revanced-integrations-1.16.0-dev.5.apk -o out.apk base.apk
+
+java -jar cli.jar patch \
+  -b piko.jar \
+  -m integrations.apk \
+  -o out.apk input.apk
+
 sudo apt install libgtk-3-dev libsoup2.4-dev libjavascriptcoregtk-4.0-dev libwebkit2gtk-4.0-dev
 
 # 2024-10-15 0 | 0

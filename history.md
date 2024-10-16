@@ -1,5 +1,215 @@
 # 2024-10-15
 
+Arthur Sonzogni
+https://arthursonzogni.com/chrome-commit-tracker/
+
+Your Element is misconfigured Unexpected error preparing the app. See console for details. · Issue #1886 · element-hq/element-desktop
+https://github.com/element-hq/element-desktop/issues/1886
+
+wasm-pack causes an npm install issue on m1 mac's · Issue #396 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/issues/396
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+eg-walker-reference/src/index.ts at 9b0ae13b2ece57ff9c0b3a59849098aa7adc7814 · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/blob/9b0ae13b2ece57ff9c0b3a59849098aa7adc7814/src/index.ts#L454
+
+Ask HN: What do you want to see added to / fixed in JavaFX? | Hacker News
+https://news.ycombinator.com/item?id=33439550
+
+Rapid Enterprise Mobile Apps: Build, Connect, Manage with Gluon
+https://gluonhq.com/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+gluohq github - Google 搜索
+https://www.google.com.hk/search?q=gluohq+github&newwindow=1&client=ubuntu-sn&hs=hv8&sca_esv=d909a4843931226e&channel=fs&ei=EI0OZ7HlIIC5kPIPgtGjiQw&ved=0ahUKEwixrea_3JCJAxWAHEQIHYLoKMEQ4dUDCA8&uact=5&oq=gluohq+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWdsdW9ocSBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI5AhQ6wZYzgdwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIJmAMAiAYBkAYEkgcBMaAHAA&sclient=gws-wiz-serp
+
+gluonhq/scenebuilder: Scene Builder is a visual, drag 'n' drop, layout tool for designing JavaFX application user interfaces.
+https://github.com/gluonhq/scenebuilder
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=bmeurer&sort=byPopularity&type=story
+
+An Introduction to Speculative Optimization in V8 · Benedikt Meurer
+https://benediktmeurer.de/2017/12/13/an-introduction-to-speculative-optimization-in-v8/
+
+An Introduction to Speculative Optimization in V8
+https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8
+
+Graphics Tricks from Boomers
+https://arnaud-carre.github.io/2024-09-08-4ktribute/
+
+debug.bun.sh/#localhost:6499/s36jh1cmsh
+https://debug.bun.sh/#localhost:6499/s36jh1cmsh
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Upcoming Servo issue triage meeting on September 30 2024 · Issue #102 · servo/project
+https://github.com/servo/project/issues/102
+
+Ask HN: Is the “The Art of Computer Programming” Worth the Investment? | Hacker News
+https://news.ycombinator.com/item?id=19976957
+
+Reflections on Three Years of Reading Knuth
+https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070
+
+flamegraph/out.chromiumgpuprocstacks01.svg 位于 6f1b57d2371107dfb76da40933d9c56b7e6379b9 - flamegraph - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/flamegraph/src/commit/6f1b57d2371107dfb76da40933d9c56b7e6379b9/graph/out.chromiumgpuprocstacks01.svg
+
+gsoc-2024-final-submission.md
+https://gist.github.com/rajveermalviya/5f6eb8a6916656bee419741663601958
+
+Zulip architectural overview — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/overview/architecture-overview.html#zulip-architectural-overview
+
+livekit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=livekit
+
+livekit/livekit: End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/livekit/livekit
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #🔥announcements | Graphite
+https://discord.com/channels/731730685944922173/1134980515678658670
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [8] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+⚙ D225693 Bug 1924803 - Remove warning when CSS zoom is used
+https://phabricator.services.mozilla.com/D225693
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630#7752645
+
+[Feature Request]: Bun runtime instead of Node.js · Issue #34876 · electron/electron
+https://github.com/electron/electron/issues/34876
+
+Bun edition · Issue #10 · gluon-framework/gluon
+https://github.com/gluon-framework/gluon/issues/10
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/cargo
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
 archive1_history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

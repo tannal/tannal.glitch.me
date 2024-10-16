@@ -1,4 +1,50 @@
 
+要使用 ADB (Android Debug Bridge) 获取已安装的 APK 文件，您可以按照以下步骤操作：
+
+1. 确保 ADB 已安装并正常工作：
+   首先，确保您的计算机上已经安装了 ADB，并且您的 Android 设备已通过 USB 连接到计算机，且已启用 USB 调试。
+
+2. 列出已安装的包：
+   打开命令行界面，输入以下命令来列出设备上所有已安装的包：
+
+   ```
+   adb shell pm list packages
+   ```
+
+   如果您知道应用的大致名称，可以使用 grep 来过滤结果：
+
+   ```
+   adb shell pm list packages | grep 'keyword'
+   ```
+
+3. 找到 APK 的路径：
+   一旦您找到了目标应用的包名，使用以下命令来获取 APK 的路径：
+
+   ```
+   adb shell pm path com.example.app
+   ```
+
+   将 `com.example.app` 替换为您找到的实际包名。
+
+4. 拉取 APK 文件：
+   使用以下命令将 APK 文件从设备拉取到您的计算机：
+
+   ```
+   adb pull /data/app/com.example.app-1/base.apk /path/to/save/app.apk
+   ```
+
+   将 `/data/app/com.example.app-1/base.apk` 替换为上一步获得的实际路径，`/path/to/save/app.apk` 替换为您想要保存 APK 的本地路径。
+
+5. 对于系统应用：
+   如果是系统应用，其路径可能在 `/system/app/` 或 `/system/priv-app/` 目录下。您可能需要 root 权限来访问这些目录。
+
+注意事项：
+- 某些设备可能需要 root 权限才能访问某些 APK 文件。
+- 请确保您有合法权利提取和使用这些 APK 文件。
+- 对于一些加密的 APK，直接提取可能无法正常使用。
+
+如果您需要针对特定应用或遇到任何问题，请告诉我，我会提供更具体的帮助。
+
 你提到了深度学习框架中PyTorch的主要竞争对手,并指出TensorFlow已经不再是主要竞争者。这是一个很好的观察。让我们来看看PyTorch当前的主要竞争对手:
 
 JAX

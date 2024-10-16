@@ -10,6 +10,8 @@ https://github.com/zulip/zulip-desktop.git
 
 # server
 
+
+
 ```bash
 git clone https://github.com/zulip/zulip
 
@@ -27,18 +29,6 @@ vagrant reload
 
 vagrant ssh
 ./tools/run-dev
-
-(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep python -a
-14087 python3 ./tools/run-dev
-14089 python3 ./tools/webpack --watch --port=9994 --disable-host-check --host=0.0.0.0
-14090 python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992
-14091 python3 -m tornado.autoreload --until-success ./manage.py runtornado --autoreload --immediate-reloads --settings=zproject.settings 127.0.0.1:9993
-14092 python3 ./manage.py process_queue --all --settings=zproject.settings
-14093 python3 ./puppet/zulip/files/postgresql/process_fts_updates --quiet
-14094 python3 ./manage.py deliver_scheduled_messages
-14111 /srv/zulip-py3-venv/bin/python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992 --traceback
-14123 /srv/zulip-py3-venv/bin/python3 ./manage.py process_queue --all --settings=zproject.settings --traceback
-
 
 ~                   
 ```
@@ -68,3 +58,36 @@ https://github.com/zulip/zulip-flutter/issues/984
 # flutter
 
 https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20to.20thumbs.20up.3F/near/1890047
+
+
+
+```bash
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep python -a
+14087 python3 ./tools/run-dev
+14089 python3 ./tools/webpack --watch --port=9994 --disable-host-check --host=0.0.0.0
+14090 python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992
+14091 python3 -m tornado.autoreload --until-success ./manage.py runtornado --autoreload --immediate-reloads --settings=zproject.settings 127.0.0.1:9993
+14092 python3 ./manage.py process_queue --all --settings=zproject.settings
+14093 python3 ./puppet/zulip/files/postgresql/process_fts_updates --quiet
+14094 python3 ./manage.py deliver_scheduled_messages
+14111 /srv/zulip-py3-venv/bin/python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992 --traceback
+14123 /srv/zulip-py3-venv/bin/python3 ./manage.py process_queue --all --settings=zproject.settings --traceback
+
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep rabbitmq -a
+7979 /bin/sh /usr/sbin/rabbitmq-server
+7987 /bin/sh /usr/lib/rabbitmq/bin/rabbitmq-server
+
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep redis -a
+5986 /usr/bin/redis-server 127.0.0.1:6379       
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep memcached -a
+6716 /usr/bin/memcached -m 64 -p 11211 -u memcache -l 127.0.0.1 -P /var/run/memcached/memcached.pid
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep postgres -a
+7737 /usr/lib/postgresql/14/bin/postgres -D /var/lib/postgresql/14/main -c config_file=/etc/postgresql/14/main/postgresql.conf
+7739 postgres: 14/main: checkpointer                                                                                          
+7740 postgres: 14/main: background writer                                                                                     
+7741 postgres: 14/main: walwriter                                                                                             
+7742 postgres: 14/main: autovacuum launcher
+
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep nginx -a
+
+```
