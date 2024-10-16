@@ -10,8 +10,6 @@ https://github.com/zulip/zulip-desktop.git
 
 # server
 
-
-
 ```bash
 git clone https://github.com/zulip/zulip
 
@@ -29,6 +27,18 @@ vagrant reload
 
 vagrant ssh
 ./tools/run-dev
+
+(zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep python -a
+14087 python3 ./tools/run-dev
+14089 python3 ./tools/webpack --watch --port=9994 --disable-host-check --host=0.0.0.0
+14090 python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992
+14091 python3 -m tornado.autoreload --until-success ./manage.py runtornado --autoreload --immediate-reloads --settings=zproject.settings 127.0.0.1:9993
+14092 python3 ./manage.py process_queue --all --settings=zproject.settings
+14093 python3 ./puppet/zulip/files/postgresql/process_fts_updates --quiet
+14094 python3 ./manage.py deliver_scheduled_messages
+14111 /srv/zulip-py3-venv/bin/python3 ./manage.py rundjangoserver --settings=zproject.settings 127.0.0.1:9992 --traceback
+14123 /srv/zulip-py3-venv/bin/python3 ./manage.py process_queue --all --settings=zproject.settings --traceback
+
 
 ~                   
 ```

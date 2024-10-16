@@ -1,4 +1,33 @@
 
+你提到了深度学习框架中PyTorch的主要竞争对手,并指出TensorFlow已经不再是主要竞争者。这是一个很好的观察。让我们来看看PyTorch当前的主要竞争对手:
+
+JAX
+由Google开发
+强调函数式编程和自动微分
+在科学计算和机器学习研究领域越来越受欢迎
+MXNet
+由亚马逊支持
+在云计算和边缘设备上有优势
+支持多种编程语言
+Paddle Paddle
+由百度开发
+在中国市场有较强影响力
+提供了丰富的预训练模型和API
+OneFlow
+专注于分布式训练和大规模模型
+在性能优化方面有独特优势
+Keras
+虽然常与TensorFlow关联,但现在是独立的高级API
+简单易用,适合快速原型开发
+Chainer
+日本开发的框架
+在动态计算图方面有创新
+Flux.jl
+基于Julia语言的机器学习框架
+在科学计算领域有优势
+DeepMind的框架 (如Sonnet)
+虽然不是完全开源,但在某些研究领域有影响力
+
 Cloud Hypervisor 是一个用 Rust 编写的开源虚拟机监视器(Virtual Machine Monitor, VMM)。它旨在为现代云工作负载提供一个轻量级、安全且高性能的虚拟化解决方案。下面是一个使用 Cloud Hypervisor 运行 Hello World 的示例:
 
 1. 安装 Cloud Hypervisor

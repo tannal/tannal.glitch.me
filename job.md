@@ -552,6 +552,12 @@ Gsoc ideas
 
 - https://summerofcode.withgoogle.com/programs/2024/organizations/llvm-compiler-infrastructure
 
+https://gist.github.com/rajveermalviya/5f6eb8a6916656bee419741663601958
+
+https://blog.zulip.com/2024/10/09/google-summer-of-code-2024/
+
+https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
+
 # 2025-1-27 - 2025-2-3
 # 2025-1-20 - 2025-1-27
 # 2025-1-13 - 2025-1-20

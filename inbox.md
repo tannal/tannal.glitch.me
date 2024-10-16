@@ -1,3 +1,7 @@
+# 2024-10-16 0 | 0
+
+sudo apt install libgtk-3-dev libsoup2.4-dev libjavascriptcoregtk-4.0-dev libwebkit2gtk-4.0-dev
+
 # 2024-10-15 0 | 0
 
 https://github.com/FirefoxGraphics
@@ -6,7 +10,7 @@ https://github.com/jitsi/jitsi-meet.git
 
 curl -fsSL https://bun.sh/install | bash
 
-K&D
+kim & Docs & zed
 
 czerny
 
