@@ -1,4 +1,8 @@
 
+tModLoader：这是泰拉瑞亚最知名的开源模组加载器和开发框架。它允许创建、管理和使用泰拉瑞亚模组。 GitHub 链接：https://github.com/tModLoader/tModLoader tModLoader 是学习泰拉瑞亚模组开发的最佳起点，也是一个展示良好开源实践的项目。
+Open Terraria API (OTAPI)：这是一个用于泰拉瑞亚服务器和客户端的开源 API。 GitHub 链接：https://github.com/DeathCradle/Open-Terraria-API
+TShock：基于 OTAPI 的泰拉瑞亚服务器 mod，提供了额外的管理功能和插件支持。 GitHub 链接：https://github.com/Pryaxis/TShock
+
 要使用 ADB (Android Debug Bridge) 获取已安装的 APK 文件，您可以按照以下步骤操作：
 
 1. 确保 ADB 已安装并正常工作：
