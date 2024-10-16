@@ -1,3 +1,230 @@
+# 2024-10-16
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Arthur Sonzogni
+https://arthursonzogni.com/chrome-commit-tracker/
+
+Your Element is misconfigured Unexpected error preparing the app. See console for details. · Issue #1886 · element-hq/element-desktop
+https://github.com/element-hq/element-desktop/issues/1886
+
+wasm-pack causes an npm install issue on m1 mac's · Issue #396 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/issues/396
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+eg-walker-reference/src/index.ts at 9b0ae13b2ece57ff9c0b3a59849098aa7adc7814 · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/blob/9b0ae13b2ece57ff9c0b3a59849098aa7adc7814/src/index.ts#L454
+
+Ask HN: What do you want to see added to / fixed in JavaFX? | Hacker News
+https://news.ycombinator.com/item?id=33439550
+
+Rapid Enterprise Mobile Apps: Build, Connect, Manage with Gluon
+https://gluonhq.com/
+
+revanced patch twitter youtube - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=L0M&sca_esv=ec0a7266f41121fb&channel=fs&q=revanced+patch+twitter+youtube&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CQSLRs--VndZDemg_vRJY6u8dcef0aU8XzqpWbJBsjUnsPBhiLihGqR52EliZjFEoUSj3SlHjeC9OCQuvrZADJHMXTVyk2VUyq7bADBMZXxXE5gkRw&sa=X&ved=2ahUKEwiX7_mDppKJAxVEle4BHfELBt4Q0pQJegQIERAB&biw=1850&bih=968&dpr=1
+
+(30) How to patch third-party apps for Reddit with Revanced manager and make them work again! - YouTube
+https://www.youtube.com/watch?v=1vEuWQDgziE
+
+solidjs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=solidjs
+
+Docs | SolidJS
+https://www.solidjs.com/guides/getting-started#buildless-options
+
+swc - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=swc
+
+SWC Playground – SWC
+https://swc.rs/playground
+
+solidjs compiler playground - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=solidjs+compiler+playground
+
+Solid Playground
+https://playground.solidjs.com/
+
+solidjs npm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=solidjs+npm
+
+rust zero to production - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+zero+to+production+
+
+refactor: remove content · tannal/tannal.github.io-legacy@a45b189
+https://github.com/tannal/tannal.github.io-legacy/commit/a45b189b0f902b7863f348ad77a61899184baa46
+
+127.0.0.1:8080/test.html
+http://127.0.0.1:8080/test.html
+
+esm sh react development mode - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=esm+sh+react+development+mode
+
+esm.sh/react-dom@18.2.0/client?dev
+https://esm.sh/react-dom@18.2.0/client?dev
+
+esm.sh/react-dom@18.2.0/client?dev
+https://esm.sh/v135/scheduler@0.23.0/es2022/scheduler.development.mjs
+
+react esmodule - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=react+esmodule
+
+node.js - How to obtain ES6 module of React and ReactDOM? - Stack Overflow
+https://stackoverflow.com/questions/51765686/how-to-obtain-es6-module-of-react-and-reactdom
+
+react github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=react+github
+
+Issue search results
+https://github.com/search?q=repo%3Afacebook%2Freact++Invalid+hook+call&type=issues
+
+Invalid hook call - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Invalid+hook+call
+
+"rolldown" react project - Google 搜索
+https://www.google.com.hk/search?q=%22rolldown%22+react+project&newwindow=1&client=ubuntu-sn&hs=mu8&sca_esv=beca34c916e0512e&channel=fs&ei=J8MPZ7mhMsjAkPIPtbnCkAY&ved=0ahUKEwj50NmchJOJAxVIIEQIHbWcEGIQ4dUDCA8&uact=5&oq=%22rolldown%22+react+project&gs_lp=Egxnd3Mtd2l6LXNlcnAiGCJyb2xsZG93biIgcmVhY3QgcHJvamVjdDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESO0lUMsIWPcjcAF4AZABAJgBrgKgAdEGqgEFMi0xLjK4AQPIAQD4AQGYAgSgAuIGwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBzEuMC4xLjKgB9QF&sclient=gws-wiz-serp
+
+Getting Started | Rolldown
+https://rolldown.rs/guide/
+
+Issue search results
+https://github.com/search?q=repo%3Arolldown%2Frolldown+%40vitejs%2Fplugin-react&type=issues
+
+bun run build script - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bun+run+build+script
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #🔥announcements | Graphite
+https://discord.com/channels/731730685944922173/1134980515678658670
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+⚙ D225693 Bug 1924803 - Remove warning when CSS zoom is used
+https://phabricator.services.mozilla.com/D225693
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D224630 Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
+https://phabricator.services.mozilla.com/D224630#7752645
+
+[Feature Request]: Bun runtime instead of Node.js · Issue #34876 · electron/electron
+https://github.com/electron/electron/issues/34876
+
+Bun edition · Issue #10 · gluon-framework/gluon
+https://github.com/gluon-framework/gluon/issues/10
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/cargo
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-16
+
 # 2024-10-15
 
 Arthur Sonzogni
