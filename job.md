@@ -586,16 +586,18 @@ apply
 
 # 2024-10-27 - 2024-11-4
 
+[] October 28 2024
+
 # 2024-10-20 - 2024-10-27
 
 # 2024-10-13 - 2024-10-20
 
 [] Beijing 17 night 22:00
-[] October 28 2024
 [] test262 meeting 
 [] ask for intern
-[] 10-16 12:00 PM
-[] 10-16 16:45 PM
+[x] 10-16 12:00 PM
+[x] 10-16 16:45 PM
+[] 10-17 linebender office hour 
 
 https://github.com/pytorch/pytorch/issues/126519
 
@@ -620,7 +622,7 @@ https://github.com/pytorch/pytorch/issues/126519
 [x] Be a pianist play piano
 [] Be a pianist play piano
 
-[] 10-11 find a monitor and wire to raspi then boot an os
+[] 10-11 find a monitor and wire to raspi3b+ then boot an os
 
 # 2024-10-6 - 2024-10-13
 

@@ -1,5 +1,24 @@
 # 2024-10-16 0 | 0
 
+conda create -n gpt2-irish python=3.7
+conda activate gpt2-irish
+conda install tensorflow-gpu=1.13.1
+pip install transformers==2.5.1
+pip install torch==1.4.0
+
+
+
+conda create -n lm-human-preferences python=3.7
+conda activate lm-human-preferences
+
+conda install tensorflow-gpu=1.13.1
+conda install -c conda-forge horovod=0.18.1
+conda install pip
+pip install gsutil
+
+python sample.py sample --save_dir ./2019 --savescope policy --mpi 1
+
+git clone https://github.com/openai/lm-human-preferences.git
 
 java -jar revanced-cli-5.0.0-dev.6-all.jar patch -p piko-twitter-patches-1.42.0.jar -m revanced-integrations-1.16.0-dev.5.apk -o out.apk base.apk
 
