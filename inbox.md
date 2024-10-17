@@ -1,6 +1,6 @@
 # 2024-10-17 0 | 0
 
-
+pip install --upgrade master.zip -i https://pypi.org/simple
 
 # 2024-10-16 0 | 0
 
