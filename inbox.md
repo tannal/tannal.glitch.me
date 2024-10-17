@@ -1,3 +1,7 @@
+# 2024-10-17 0 | 0
+
+
+
 # 2024-10-16 0 | 0
 
 conda create -n gpt2-irish python=3.7
