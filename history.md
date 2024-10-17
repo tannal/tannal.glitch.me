@@ -1,3 +1,233 @@
+# 2024-10-17
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#transformers
+
+Commits · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/commits/master/
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/
+
+Download - MEGA
+https://mega.nz/file/7K4lBYaa#haf3sa65vXDbqyi2bkEQWzqiWWOB1zn5ySEDqPQsiz0
+
+1909.05858v2.pdf
+https://arxiv.org/pdf/1909.05858
+
+salesforce/ctrl: Conditional Transformer Language Model for Controllable Generation
+https://github.com/salesforce/ctrl
+
+Code search results
+https://github.com/search?q=rolldown.config.js&type=code
+
+rolldown/examples/basic-vue/rolldown.config.js at e5c8b2fc1803e922e41b7a259c23078d545e2fb7 · rolldown/rolldown
+https://github.com/rolldown/rolldown/blob/e5c8b2fc1803e922e41b7a259c23078d545e2fb7/examples/basic-vue/rolldown.config.js#L4
+
+irish-nospaces3 gpt2 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=irish-nospaces3+gpt2
+
+GPT-2 Preference Learning for Music Generation · Gwern.net
+https://gwern.net/gpt-2-preference-learning
+
+gwern.net/doc/ai/music/2019-12-22-gpt2-preferencelearning-gwern-abcmusic.patch
+https://gwern.net/doc/ai/music/2019-12-22-gpt2-preferencelearning-gwern-abcmusic.patch
+
+GPT-2 Preference Learning for Music Generation · Gwern.net
+https://gwern.net/gpt-2-preference-learning#link-bibliography
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/tune/121274
+
+IraKorshunova
+https://github.com/IraKorshunova
+
+‪Iryna Korshunova‬ - ‪Google Scholar‬
+https://scholar.google.dk/citations?user=Jduf-SwWS84C&hl=en
+
+1604.08723v1.pdf
+https://arxiv.org/pdf/1604.08723
+
+lm_human_preferences - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=lm_human_preferences
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences?tab=readme-ov-file
+
+Fine-Tuning Language Models from Human Preferences - 1909.08593v2.pdf
+https://arxiv.org/pdf/1909.08593
+
+75x faster: optimizing the Ion compiler backend | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html
+
+firefox's low-latency webassembly compiler — wingolog
+https://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler
+
+Adobe Photoshop
+https://photoshop.adobe.com/discover
+
+Scroll syncRect()
+https://leeoniya.github.io/uPlot/demos/scroll-sync.html
+
+Vega github - Google 搜索
+https://www.google.com.hk/search?q=Vega+github&newwindow=1&client=ubuntu-sn&hs=q8x&sca_esv=992c006e90961474&channel=fs&ei=s1cQZ6egJM3DkPIPgYXvUA&ved=0ahUKEwjnxeDxkZSJAxXNIUQIHYHCGwoQ4dUDCA8&uact=5&oq=Vega+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1ZlZ2EgZ2l0aHViMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgFGB4yBhAAGAUYHkj-DlDTBFipDnABeAGQAQCYAZ8CoAHGDKoBAzItNrgBA8gBAPgBAZgCB6AC9AzCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAuGIAEwgILEC4YgAQY0QMYxwHCAgcQABiABBgMwgIEEC4YHpgDAIgGAZAGCpIHBTEuMC42oAf0GQ&sclient=gws-wiz-serp
+
+vega/vega-lite: A concise grammar of interactive graphics, built on Vega.
+https://github.com/vega/vega-lite
+
+Chart.js | Open source HTML5 Charts for your website
+https://www.chartjs.org/
+
+chartjs/Chart.js: Simple HTML5 Charts using the <canvas> tag
+https://github.com/chartjs/Chart.js
+
+Fine-Tuning Language Models from Human Preference · Issue #86 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/86
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(14) Discord | #gpui | Zed Community
+https://discord.com/channels/869392257814519848/1199799855007158352
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [9] | Fenix
+https://chat.mozilla.org/#/room/#fenix:mozilla.org
+
+⚙ D225693 Bug 1924803 - Remove warning when CSS zoom is used
+https://phabricator.services.mozilla.com/D225693
+
+Update Authorship by mgaudet · Pull Request #186 · mozilla-spidermonkey/spidermonkey.dev
+https://github.com/mozilla-spidermonkey/spidermonkey.dev/pull/186
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[Feature Request]: Bun runtime instead of Node.js · Issue #34876 · electron/electron
+https://github.com/electron/electron/issues/34876
+
+Bun edition · Issue #10 · gluon-framework/gluon
+https://github.com/gluon-framework/gluon/issues/10
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+1924567 - Firefox does not use preferred color scheme for embedded text documents
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924567
+
+plaintext.css - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/layout/style/res/plaintext.css#20
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-16
+
 # 2024-10-16
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
