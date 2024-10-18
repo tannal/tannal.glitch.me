@@ -6,7 +6,7 @@ cargo install --git https://github.com/rust-mobile/cargo-apk
 cargo run -p headless
 
 cargo run --example run_on_demand
-
+h
 cargo run
 
 cargo search cargo-apk

@@ -1,3 +1,248 @@
+# 2024-10-18
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1290118699373694987
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Program Projects | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [11] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+1924567 - Firefox does not use preferred color scheme for embedded text documents
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924567
+
+plaintext.css - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/layout/style/res/plaintext.css#20
+
+document_rule.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/servo/components/style/stylesheets/document_rule.rs#177-182
+
+⚙ D101518 Bug 1551040 - Add dark mode to plaintext.css, and a document rule to target plaintext documents. r=boris
+https://phabricator.services.mozilla.com/D101518
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-16
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+boblsturm/aimusicstudies2024: The First International Conference in AI Music Studies 2024
+https://github.com/boblsturm/aimusicstudies2024
+
+Boomy - Sign In
+https://boomy.com/
+
+Stochastic Pirate Radio (KSPR): Generative AI applied to simulate commercial radio · AIMC 2024 (09/09 - 11/09 )
+https://aimc2024.pubpub.org/pub/rppff8mc/release/1
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+Sattva Songbird | Budigere Road | Bangalore | Township | Price | Location
+https://www.sattvasongbird.info/
+
+1846606 - parseFloat() and console.log("%f") disagree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1846606
+
+⚙ D194711 Bug 1723784: Rewrite dom/media/test/test_access_control.html to use https URLs
+https://phabricator.services.mozilla.com/D194711
+
+Android could soon have a native Linux terminal app | Hacker News
+https://news.ycombinator.com/item?id=41834409
+
+copy and patch paper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=copy+and+patch+paper
+
+Copy-and-Patch Compilation - copy-and-patch.pdf
+https://fredrikbk.com/publications/copy-and-patch.pdf
+
+Liftoff: a new baseline compiler for WebAssembly in V8 · V8
+https://v8.dev/blog/liftoff
+
+Copy-and-patch - Wikipedia
+https://en.wikipedia.org/wiki/Copy-and-patch#cite_note-3
+
+Python 3.13 gets a JIT
+https://tonybaloney.github.io/posts/python-gets-a-jit.html
+
+brandtbucher (Brandt Bucher)
+https://github.com/brandtbucher
+
+brandtbucher/2024/09/26/enabling_cpythons_jit_compiler.pdf at master · brandtbucher/brandtbucher
+https://github.com/brandtbucher/brandtbucher/blob/master/2024/09/26/enabling_cpythons_jit_compiler.pdf
+
+aha_050621_xu_copy-and-patch.pdf
+https://aha.stanford.edu/sites/g/files/sbiybj20066/files/media/file/aha_050621_xu_copy-and-patch.pdf
+
+A copy-and-patch JIT compiler for CPython | Hacker News
+https://news.ycombinator.com/item?id=38769874
+
+Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020) | Hacker News
+https://news.ycombinator.com/item?id=40553448
+
+HAORAN XU, Stanford University, US paper - Google 搜索
+https://www.google.com.hk/search?q=HAORAN+XU,+Stanford+University,+US+paper&newwindow=1&client=ubuntu-sn&hs=8c&sca_esv=987a2e6060705a91&channel=fs&ei=g0kSZ9yDD8TRkPIP4rKlgQ0&start=20&sa=N&sstk=Aagrsugwe7ckxJzPk7qQ-Toz-u5znHQ53ZV_9cegOik3HD7La7is12PCuXSt13TcGKMVXXeX7NHKLL0ILFMRnlF1js9dwTal1uAIsdeiBKuo4Txtl_6D7Q5SbSkoihAiolAU&ved=2ahUKEwic0dvR7JeJAxXEKEQIHWJZKdA4ChDy0wN6BAgEEAc&biw=1850&bih=968&dpr=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Recording the videos · Issue #1 · boblsturm/aimusicstudies2024
+https://github.com/boblsturm/aimusicstudies2024/issues/1
+
+memsql - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=memsql
+
+SingleStore (MemSQL)
+https://github.com/memsql
+
+Issue search results
+https://github.com/search?q=repo%3Abytecodealliance%2Fwasmtime+copy-and-patch&type=issues&p=3
+
+Mozilla
+https://github.com/mozilla/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+webkit developer meetings - Google 搜索
+https://www.google.com.hk/search?q=webkit+developer+meetings&newwindow=1&client=ubuntu-sn&hs=tgq&sca_esv=987a2e6060705a91&channel=fs&ei=clQSZ4bYJMWlkPIPpK2qiAs&start=10&sa=N&sstk=AagrsujM_XLh1IU4WgzbaaG7q68sD6HW0VFrqOAUWBcjm9LhYEX-E23jhIcpTtCL0lbfPQXtJT4117AtJkGnAAblKLZsEP83QWFAeQ&ved=2ahUKEwiG2caI95eJAxXFEkQIHaSWCrEQ8tMDegQIBhAE&biw=1850&bih=968&dpr=1
+
+2024 WebKit Contributors Meeting | WebKit
+https://webkit.org/meeting/
+
+Eric Meyer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Eric+Meyer
+
+Unhandled suspension in embedding API · Issue #95 · WebAssembly/stack-switching
+https://github.com/WebAssembly/stack-switching/issues/95
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2023-10-01&until=2024-10-18
+
 # 2024-10-17
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
