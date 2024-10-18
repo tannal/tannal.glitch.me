@@ -1,5 +1,15 @@
 # 2024-10-18 0 | 0
 
+python inference.py --model_path metadata/default_config-data_v3-20241018-105356_best.pt --seed "<bos>" --max_length 200 --temperature 0.8 --num_tunes 5
+
+rsync -avz --progress data/ configurations/ ph_teacher2@10.68.162.201:~/tannalwork/cn-pop/ --relative
+
+curl -L https://nixos.org/nix/install | sh
+
+cargo install --git https://github.com/astral-sh/uv
+
+python train.py default_config data/data_v3
+
 混合使用：可以在同一个项目中使用Django处理主要的Web功能，而用Tornado处理需要实时功能的部分（如聊天、通知等）。
 
 Spring Boot 默认使用同步模型，但也支持异步/响应式编程。
