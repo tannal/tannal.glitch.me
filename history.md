@@ -1,5 +1,188 @@
 # 2024-10-17
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/tune/121298
+
+Problem loading page
+http://gtr.rcuk.ac.uk/projects?ref=AH%2FR004706%2F1
+
+IraKorshunova/folk-rnn: folk music modelling with LSTM
+https://github.com/IraKorshunova/folk-rnn?tab=readme-ov-file
+
+Bob Sturm – Medium
+https://medium.com/@boblsturm
+
+Problem loading page
+http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1248565&dswid=-8707
+
+PyPI · The Python Package Index
+https://pypi.org/
+
+folk-rnn paper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=folk-rnn+paper
+
+LBD13.pdf
+https://ismir2015.ismir.net/LBD/LBD13.pdf
+
+2211.09124v3.pdf
+https://arxiv.org/pdf/2211.09124
+
+Search | arXiv e-print repository
+https://arxiv.org/search/?query=Folk-rnn&searchtype=all&abstracts=show&order=-announced_date_first&size=50
+
+1604.08723v1.pdf
+https://arxiv.org/pdf/1604.08723
+
+jeff dean machine learning youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=jeff+dean+machine+learning+youtube
+
+(30) Jeff Dean (Google): Exciting Trends in Machine Learning - YouTube
+https://www.youtube.com/watch?v=oSCRZkSQ1CE
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element [Offline] | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #help-react | Reactiflux
+https://discord.com/channels/102860784329052160/103696749012467712
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Program Projects | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [Offline] [10] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+1924567 - Firefox does not use preferred color scheme for embedded text documents
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924567
+
+plaintext.css - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/layout/style/res/plaintext.css#20
+
+document_rule.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/servo/components/style/stylesheets/document_rule.rs#177-182
+
+⚙ D101518 Bug 1551040 - Add dark mode to plaintext.css, and a document rule to target plaintext documents. r=boris
+https://phabricator.services.mozilla.com/D101518
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-16
+
 gecko.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
