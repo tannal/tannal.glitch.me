@@ -597,7 +597,7 @@ apply
 [] ask for intern
 [x] 10-16 12:00 PM
 [x] 10-16 16:45 PM
-[] 10-17 linebender office hour 
+[x] 10-17 linebender office hour 
 
 https://github.com/pytorch/pytorch/issues/126519
 
@@ -620,7 +620,7 @@ https://github.com/pytorch/pytorch/issues/126519
 
 [x] Be a pianist play piano
 [x] Be a pianist play piano
-[] Be a pianist play piano
+[x] Be a pianist play piano
 
 [] 10-11 find a monitor and wire to raspi3b+ then boot an os
 
