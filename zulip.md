@@ -152,6 +152,10 @@ https://github.com/zulip/zulip-desktop.git
 
 # server
 
+https://zulip.readthedocs.io/en/latest/production/authentication-methods.html
+
+https://zulip.readthedocs.io/en/latest/production/modify.html
+
 Webhook是一种HTTP回调:一个HTTP POST请求,当某些事情发生时会被发送到特定的URL。它允许一个应用程序向另一个应用程序提供实时信息。
 
 Webhook如何工作:
