@@ -1,5 +1,263 @@
 # 2024-10-17
 
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+Writing a new application feature — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/new-feature-tutorial.html
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+Priorities overview · Zulip release priorities
+https://github.com/orgs/zulip/projects/9/views/13
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+Package uv
+https://github.com/astral-sh/uv/pkgs/container/uv
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/tune/121356
+
+Sci-Hub - search proxy to download article
+https://bothonce.com/
+
+GitHub
+https://github.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+100% - [12] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=89e3b7d85658bb094b3e493c79d46712b2996ebf&selectedTaskRun=DXRr2gjLRVafK8MwYB7paw.0
+
+1775795 - Intermittent browser/modules/test/browser/browser_UsageTelemetry_interaction.js | single tracking bug
+https://bugzilla.mozilla.org/show_bug.cgi?id=1775795
+
+Pull request search results
+https://github.com/search?q=org%3Azulip+vdom&type=pullrequests
+
+vercel/hyper: A terminal built on web technologies
+https://github.com/vercel/hyper
+
+IraKorshunova/folk-rnn: folk music modelling with LSTM
+https://github.com/IraKorshunova/folk-rnn
+
+abc music notation - Google 搜索
+https://www.google.com.hk/search?q=abc+music+notation&newwindow=1&client=ubuntu-sn&hs=uO3&sca_esv=339a018dea4bc811&channel=fs&ei=-9wRZ7f4MLDEkPIPxcGuqAs&ved=0ahUKEwj34cSRhZeJAxUwIkQIHcWgC7UQ4dUDCA8&uact=5&oq=abc+music+notation&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmFiYyBtdXNpYyBub3RhdGlvbjIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5I2AhQ7QJY7QJwAXgBkAEAmAGCAqABggKqAQMyLTG4AQPIAQD4AQL4AQGYAgKgApACwgIKEAAYsAMY1gQYR5gDAIgGAZAGBJIHBTEuMC4xoAfBAw&sclient=gws-wiz-serp
+
+abcMIDI
+https://abcmidi.sourceforge.io/
+
+abc notation minor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=abc+notation+minor
+
+ABC notation - Wikipedia
+https://en.wikipedia.org/wiki/ABC_notation
+
+Steve Mansfield's Abc music tutorial
+http://www.lesession.co.uk/abc/abc_notation.htm
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=woke%20mind%20virus&op=translate
+
+woke mind virus - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=woke+mind+virus
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=elon%20musk%20interview&sort=byPopularity&type=story
+
+bluestacks open source alternative - Google 搜索
+https://www.google.com.hk/search?q=bluestacks+open+source+alternative&newwindow=1&client=ubuntu-sn&hs=0xl&sca_esv=339a018dea4bc811&channel=fs&ei=hA0SZ-u1JoSrur8Pq5_LkQo&oq=BlueStacks+open+source&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkJsdWVTdGFja3Mgb3BlbiBzb3VyY2UqAggBMgUQABiABDIEEAAYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMgoQABgIGAoYHhgPSJ0sULQGWLUkcAF4AZABAJgBvwKgAbUbqgEFMi03LjW4AQPIAQD4AQGYAg2gAvcbwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgYQABgKGB6YAwCIBgGQBgqSBwcxLjAuNS43oAe9Jg&sclient=gws-wiz-serp
+
+Open Source alternative to Android emulators on Linux? : r/linux_gaming
+https://www.reddit.com/r/linux_gaming/comments/fjrxfx/open_source_alternative_to_android_emulators_on/
+
+1604.08723v1.pdf
+https://arxiv.org/pdf/1604.08723
+
+Banish Misfortune (jig) on The Session
+https://thesession.org/tunes/9
+
+Bob L. Sturm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Bob+L.+Sturm
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+Jo˜ao Felipe Santos - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Jo%CB%9Cao+Felipe+Santos
+
+seaandsailor
+http://www.seaandsailor.com/
+
+Oded Ben-Ta - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Oded+Ben-Ta
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+GitHub
+https://github.com/
+
+Pager 2 - tannal
+https://tannal.github.io/page/2/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452/1290118699373694987
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Program Projects | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2024/projects
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [11] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+1924567 - Firefox does not use preferred color scheme for embedded text documents
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924567
+
+plaintext.css - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/layout/style/res/plaintext.css#20
+
+document_rule.rs - mozsearch
+https://searchfox.org/mozilla-central/rev/3265b390bd5d08a5be520253ef71835bcb715f27/servo/components/style/stylesheets/document_rule.rs#177-182
+
+⚙ D101518 Bug 1551040 - Add dark mode to plaintext.css, and a document rule to target plaintext documents. r=boris
+https://phabricator.services.mozilla.com/D101518
+
+Console Standard
+https://console.spec.whatwg.org/#trace
+
+twitter open source client - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+open+source+client
+
+Is there any twitter/x client that is still working? : r/androidapps
+https://www.reddit.com/r/androidapps/comments/18v2z7m/is_there_any_twitterx_client_that_is_still_working/?chainedPosts=t3_14fpmdy
+
+Fritter: A privacy-friendly Twitter frontend for mobile devices
+https://fritter.cc/
+
+[BUG] Profile feeds and search no longer work · Issue #756 · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues/756
+
+david-vodus/fritter: A privacy-friendly Twitter frontend for mobile devices
+https://github.com/david-vodus/fritter/tree/master
+
+nyas1/Material-You-app-list: 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+https://github.com/nyas1/Material-You-app-list#-social-media
+
+AeroWitter | Official Web Site
+https://aerowitter.com/
+
+auto_direction github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=auto_direction+github
+
+AhmedAlYousif/auto_direction: This flutter package changes the direction of a widget from ltr direction into rtl direction and vice versa based on the language of the text provided.
+https://github.com/AhmedAlYousif/auto_direction
+
+dart_twitter_api github - Google 搜索
+https://www.google.com.hk/search?q=dart_twitter_api+github&newwindow=1&client=ubuntu-sn&hs=7jx&sca_esv=d161937f2a63904d&channel=fs&ei=ZhsPZ-juHrG7kPIPlYWu2A4&ved=0ahUKEwjoueOe5JGJAxWxHUQIHZWCC-sQ4dUDCA8&uact=5&oq=dart_twitter_api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2RhcnRfdHdpdHRlcl9hcGkgZ2l0aHViSPwTUJ4HWKQScAF4AJABAJgB0QKgAYMOqgEFMi0zLjO4AQPIAQD4AQGYAgOgAq4HwgIIEAAYgAQYogTCAgcQIRigARgKwgIFECEYoAGYAwCIBgGSBwUyLTEuMqAHuAo&sclient=gws-wiz-serp
+
+twitter-dart/twitter-api-v2: The most famous and powerful Dart/Flutter library for Twitter API v2.0 🐦
+https://github.com/twitter-dart/twitter-api-v2
+
+aerowitter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=aerowitter+github
+
+ReVanced - Continuing the legacy of Vanced
+https://www.reddit.com/r/revancedapp/
+
+revancedapp github - Google 搜索
+https://www.google.com.hk/search?q=revancedapp+github&newwindow=1&client=ubuntu-sn&hs=PSd&sca_esv=d161937f2a63904d&channel=fs&ei=HSEPZ_TbB-3akPIP3aqh2QQ&ved=0ahUKEwi03prY6ZGJAxVtLUQIHV1VKEsQ4dUDCA8&uact=5&oq=revancedapp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJldmFuY2VkYXBwIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXB1DoBFivBnABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwDiAwUSATEgQIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-16
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

@@ -1,5 +1,7 @@
 # 2024-10-18 0 | 0
 
+folk-rnn is a project funded by the UK Arts and Humanities Research Council, grant no. AH/R004706/1: "Engaging three user communities with applications and outcomes of computational music creativity". The generated tunes and the patterns of use that generated them may be used for research purposes, such as this grant.
+
 python inference.py --model_path metadata/default_config-data_v3-20241018-105356_best.pt --seed "<bos>" --max_length 200 --temperature 0.8 --num_tunes 5
 
 rsync -avz --progress data/ configurations/ ph_teacher2@10.68.162.201:~/tannalwork/cn-pop/ --relative
