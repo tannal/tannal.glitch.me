@@ -233,7 +233,7 @@ HTTP_PROXY http://10.106.146.44:8890
 HTTPS_PROXY http://10.106.146.44:8890
 NO_PROXY localhost,127.0.0.1,.example.com,.zulipdev.com
 HOST_IP_ADDR 0.0.0.0
-
+ARG VAGRANT_UID=1000
 vagrant reload
 
 vagrant ssh
