@@ -1,3 +1,239 @@
+# 2024-10-19
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #libc | LLVM
+https://discord.com/channels/636084430946959380/636732994891284500
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+josephg/eg-walker-reference: Simple reimplementation of the diamond types sequence CRDT in simple, pure, unoptimized typescript.
+https://github.com/josephg/eg-walker-reference
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+EvanatorM/ScuffedMinecraft: A Minecraft Clone in C++
+https://github.com/EvanatorM/ScuffedMinecraft/tree/main
+
+Element [11] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+JS::SetKeys (MapObject.cpp - mozsearch)
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+tannal (tannal)
+https://github.com/tannal/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-19
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+Modern text rendering with Linux: Overview | Home
+https://mrandri19.github.io/2019/07/24/modern-text-rendering-linux-overview.html
+
+ICU Documentation | ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications. The ICU User Guide provides documentation on how to use ICU.
+https://unicode-org.github.io/icu/
+
+The Font Wars - Paste Magazine
+https://www.pastemagazine.com/design/adobe/the-font-wars
+
+SVG - Scalable vector graphics table (OpenType 1.9.1) - Typography | Microsoft Learn
+https://learn.microsoft.com/en-us/typography/opentype/spec/svg
+
+Color Fonts - Get ready for the revolution!
+https://www.colorfonts.wtf/
+
+googlefonts/colr-gradients-spec
+https://github.com/googlefonts/colr-gradients-spec/
+
+googlefonts/nanoemoji: A wee tool to build color fonts.
+https://github.com/googlefonts/nanoemoji
+
+Creating and supporting OpenType fonts for the Universal Shaping Engine - Typography | Microsoft Learn
+https://learn.microsoft.com/en-us/typography/script-development/use
+
+Metafont - Wikipedia
+https://en.wikipedia.org/wiki/Metafont
+
+fonttools/fonttools: A library to manipulate font files from Python.
+https://github.com/fonttools/fonttools
+
+googlefonts/fontra: A browser-based font editor
+https://github.com/googlefonts/fontra
+
+Why do I need a shaping engine?: HarfBuzz Manual
+https://harfbuzz.github.io/why-do-i-need-a-shaping-engine.html
+
+Problem loading page
+https://www.pango.org/
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+Sploot!
+https://simoncozens.github.io/sploot/
+
+Open source thanks | Prezi
+https://prezi.com/open-source-thanks/
+
+rougier/recursive-voronoi: Recursive voronoi diagram
+https://github.com/rougier/recursive-voronoi
+
+googlefonts/fontations: Reading and writing font files
+https://github.com/googlefonts/fontations
+
+harfbuzz/rustybuzz: A complete harfbuzz's shaping algorithm port to Rust
+https://github.com/harfbuzz/rustybuzz
+
+fribidi/m4/m4_ax_prog_cc_for_build.m4 at master · fribidi/fribidi
+https://github.com/fribidi/fribidi/blob/master/m4/m4_ax_prog_cc_for_build.m4
+
+New Development Infrastructure — Blender Developers Blog
+https://code.blender.org/2023/02/new-blender-development-infrastructure/
+
+Behdad Esfahbod on X: "At keynote by Pankaj Joshi at #BITS9 about support for South-East Asian script support in @Adobe products. Nope, that still not Arabic!!! lol https://t.co/6z5IuGm1u6" / X
+https://x.com/behdadesfahbod/status/1182234290240806912
+
+TeX-Live/texlive-source: source part of the TeX Live subversion repository - for issues please contact the tex-k mailing list at tug.org
+https://github.com/TeX-Live/texlive-source
+
+Better Engineered Font Formats - Google 幻灯片
+https://docs.google.com/presentation/d/1dVfuU7YhUBXg9MtU6kYBXVs9082PiHpwhGPYa--yA7c/preview#slide=id.ge1e66518a2_0_107
+
+photopea (Photopea)
+https://github.com/photopea
+
+(31) Olivia Rodrigo & Avril Lavigne - Complicated (Toronto 1 2022) - YouTube
+https://www.youtube.com/watch?v=PFSzd2aO-fU
+
+meeting_saved_chat.txt
+https://www.dropbox.com/scl/fi/icwt12znn7yywpsflpkla/meeting_saved_chat.txt?rlkey=dmcgvris3rhrou7qqktn33n1b&e=1&dl=0
+
+17/Oct/2024 - Google 文档
+https://docs.google.com/document/d/1G1lLKXBMjeqHbXn_K6kzzq2dG22s6Ie_yccPSlrcQb4/edit?tab=t.0
+
+Add Board widget for absolute positioning by RagibHasin · Pull Request #591 · linebender/xilem
+https://github.com/linebender/xilem/pull/591/files#diff-b4c6af5160ec3d4e96f182126906a1aa0322a00c93bccb9518bccf6f8d6d2781
+
+Create skeleton of documentation by PoignardAzur · Pull Request #632 · linebender/xilem
+https://github.com/linebender/xilem/pull/632/files
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+zig build and socks5 proxy issues · Issue #19717 · ziglang/zig
+https://github.com/ziglang/zig/issues/19717
+
+Monotype - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Monotype
+
+he map of biology - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=he+map+of+biology
+
+(31) 化學的地圖 - YouTube
+https://www.youtube.com/watch?v=P3RXtoYCW4M&list=PLOYRlicwLG3St5aEm02ncj-sPDJwmojIS&index=6
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Unicode&sort=byPopularity&type=story
+
+mojo - Google 搜索
+https://www.google.com.hk/search?q=mojo+&newwindow=1&client=ubuntu-sn&hs=UXi&sca_esv=19d6168bd764b7e1&channel=fs&ei=XBATZ7z7KrzJkPIPzZbcyA4&ved=0ahUKEwi8maqjqpmJAxW8JEQIHU0LF-kQ4dUDCA8&uact=5&oq=mojo+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBW1vam8gMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSPQQULAPWLAPcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACFZgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Modular: Career Post
+https://www.modular.com/company/career-post?4341219005&gh_jid=4341219005
+
+Plasma kde rust - Google 搜索
+https://www.google.com.hk/search?q=Plasma+kde+rust&newwindow=1&client=ubuntu-sn&hs=eti&sca_esv=19d6168bd764b7e1&channel=fs&ei=uhUTZ-XqJLDakPIPttfl4A4&ved=0ahUKEwjlr7qyr5mJAxUwLUQIHbZrGewQ4dUDCA8&uact=5&oq=Plasma+kde+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiD1BsYXNtYSBrZGUgcnVzdDIGEAAYCBgeMgYQABgIGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESM8KUK0DWKMJcAF4AZABAJgBvAKgAZYHqgEFMi0xLjK4AQPIAQD4AQGYAgSgAqkHwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgUQABiABMICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAgoQABgTGAgYChgemAMAiAYBkAYKkgcFMS4zLTOgB7QI&sclient=gws-wiz-serp
+
 # 2024-10-18
 
 jsc (Channel) - WebKit - Slack

@@ -1,6 +1,10 @@
+# 2024-10-19 0 | 0
+
+FreeType (for general font processing with C and often rasterization) and HarfBuzz (for general font processing with C++ and very popularly for shaping).
+
 # 2024-10-18 0 | 0
 
-
+https://github.com/fonttools/fonttools
 
 folk-rnn is a project funded by the UK Arts and Humanities Research Council, grant no. AH/R004706/1: "Engaging three user communities with applications and outcomes of computational music creativity". The generated tunes and the patterns of use that generated them may be used for research purposes, such as this grant.
 
