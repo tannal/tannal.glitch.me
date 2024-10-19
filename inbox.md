@@ -1,5 +1,7 @@
 # 2024-10-19 0 | 0
 
+
+
 FreeType (for general font processing with C and often rasterization) and HarfBuzz (for general font processing with C++ and very popularly for shaping).
 
 # 2024-10-18 0 | 0

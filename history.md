@@ -1,5 +1,128 @@
 # 2024-10-19
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+LLVM
+https://github.com/llvm
+
+华强北 - Google 搜索
+https://www.google.com.hk/search?q=%E5%8D%8E%E5%BC%BA%E5%8C%97&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%8D%8E%E5%BC%BA%E5%8C%97&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxNTY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+华强北 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8D%8E%E5%BC%BA%E5%8C%97
+
+P1257 - B001 快乐的蠕虫 - NENUOJ
+http://39.101.69.154/problem.php?id=1257
+
+算法讲解069【必备】从递归入手三维动态规划_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1gM41197rM/?spm_id_from=autoNext
+
+(2) Facebook
+https://www.facebook.com/
+
+riscv2os/kleine-riscv: A small and simple rv32i core written in Verilog
+https://github.com/riscv2os/kleine-riscv/tree/master
+
+Android could soon have a native Linux terminal app
+https://www.androidpolice.com/android-linux-terminal/?fbclid=IwY2xjawF_JgZleHRuA2FlbQIxMQABHeap6cFw-gyQnzQyGsMxHJ7kXVpQ9uD_uhlNO3gEz0Lwt67kJuMU4aQZyA_aem_PXRs_tBIe13G127MGxsNgA
+
+Linux Terminal app could be coming to Android, just like ChromeOS - Android Authority
+https://www.androidauthority.com/android-linux-terminal-app-3489887/
+
+kasmtech/KasmVNC: Modern VNC Server and client, web based and secure
+https://github.com/kasmtech/KasmVNC?fbclid=IwY2xjawF3Iq9leHRuA2FlbQIxMAABHbWhEyyKOJoNdnQl9mga6BLOrVc5_Zzr2b71ztWUtDX5jNG1diqiTzNzJA_aem_XlFF3BcCFC6WC6vY5xmJrA
+
+(221) Philip Goff, Adam Becker, Åsa Wikforss | AI and consciousness | Sana AI Summit 2023 - YouTube
+https://www.youtube.com/watch?v=t4cuIeUMReY
+
+A tiled FPGA GPU for real-time rasterization : r/FPGA
+https://www.reddit.com/r/FPGA/comments/1fycg6a/a_tiled_fpga_gpu_for_realtime_rasterization/
+
+Arnavion/riscv: RISC-V assembler for an emulator I made in Turing Complete
+https://github.com/Arnavion/riscv?fbclid=IwY2xjawFxy-VleHRuA2FlbQIxMAABHZMxpE8fGGS__5Dxij3tazDwrL9ZmFmKoB-JwWD_Y0H2XCCIdtXrLMVliA_aem_j13FZZlPaS-E1i2jUDIkaQ
+
+alanjian85/raster-i: A 3D FPGA GPU for real-time rasterization with a tile-based deferred rendering (TBDR) architecture, featuring transform & lighting (T&L), back-face culling, MSAA anti-aliasing, ordered dithering, etc.
+https://github.com/alanjian85/raster-i?tab=readme-ov-file
+
+Vitis HLS
+https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vitis/vitis-hls.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收到 1封新邮件
+https://mail.qq.com/cgi-bin/frame_html?sid=tmPQFLBHkHhq030a&r=6902107b337819bf5b9f8eada55908be&lang=zh
+
+中概股 港股 美股 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E6%A6%82%E8%82%A1+%E6%B8%AF%E8%82%A1+%E7%BE%8E%E8%82%A1&sca_esv=159f37a1251190f9&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJFhxhfmjj3VD9IxC6mmnCEGHnSxw%3A1728374641819&ei=cecEZ8DQMfzl2roP0qq4kQk&ved=0ahUKEwiAzcGkqf6IAxX8slYBHVIVLpIQ4dUDCA8&uact=5&oq=%E4%B8%AD%E6%A6%82%E8%82%A1+%E6%B8%AF%E8%82%A1+%E7%BE%8E%E8%82%A1&gs_lp=Egxnd3Mtd2l6LXNlcnAiF-S4reamguiCoSDmuK_ogqEg576O6IKhMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHSLoxUNYJWOctcAB4ApABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACF5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+c 程序设计新思维 - Google 搜索
+https://www.google.com.hk/search?q=c+%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4&rlz=1C1GCEA_enCN1091CN1091&oq=c+%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%96%B0%E6%80%9D%E7%BB%B4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEAyBggDEEUYQNIBCDgxNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ylecun twitter - Google 搜索
+https://www.google.com.hk/search?q=ylecun+twitter&rlz=1C1GCEA_enCN1091CN1091&oq=yan+leecun&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDBgeMgYIABBFGDkyCAgBEAAYDBgeMggIAhAAGAoYHjIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDQ4NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(1) Andreas Kling on X: "What's a website you visit regularly that most people don't know about?" / X
+https://x.com/awesomekling/status/1845858779063017774
+
+yonkeltron.com | Post: Boring Tech Is Stifling Improvement
+https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+(1) meng Alan (@mengAlan1) / X
+https://x.com/mengAlan1
+
+LLM.C 人工智能训练和推理的最佳实践
+https://tannal.github.io/zh-cn/p/llm.c-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyCwgDEEUYDBg7GIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEIMzUzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+美联储11月还降不降？今晚的美国CPI“突然”尤为重要 - 华尔街见闻
+https://wallstreetcn.com/articles/3729962
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Home
+https://sagiriwiki.web.app/
+
+Connect / X
+https://x.com/i/connect_people?user_id=41180840
+
+(1) Durk Kingma (@dpkingma) / X
+https://x.com/dpkingma
+
+(1) Search results for query: rust
+https://tutflix.org/search/2788495/?q=rust&o=date
+
+(1) Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+(1) Benedikt Meurer (@bmeurer) / X
+https://x.com/bmeurer
+
+斯科讷省 - Google 搜索
+https://www.google.com.hk/search?q=%E6%96%AF%E7%A7%91%E8%AE%B7%E7%9C%81&newwindow=1&sca_esv=339a018dea4bc811&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKhAUWMRhPJvNC6B5wb15-YKHHcNA%3A1729238055914&ei=JxQSZ7TGN6LPkPIP8_7x-A8&ved=0ahUKEwj09bfguZeJAxWiJ0QIHXN_HP8Q4dUDCA8&uact=5&oq=%E6%96%AF%E7%A7%91%E8%AE%B7%E7%9C%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOaWr-enkeiut-ecgTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jPWlCCVVjZWHACeAGQAQCYAfYCoAHYB6oBAzMtM7gBA8gBAPgBAZgCAqACKZgDAIgGAZAGCZIHATKgB7IL&sclient=gws-wiz-serp
+
+Suno
+https://suno.com/
+
+Sploot!
+https://simoncozens.github.io/sploot/#
+
+(1) Behdad Esfahbod on X: "At keynote by Pankaj Joshi at #BITS9 about support for South-East Asian script support in @Adobe products. Nope, that still not Arabic!!! lol https://t.co/6z5IuGm1u6" / X
+https://x.com/behdadesfahbod/status/1182234290240806912
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+github学生包申请 2024 - Google 搜索
+https://www.google.com.hk/search?q=github%E5%AD%A6%E7%94%9F%E5%8C%85%E7%94%B3%E8%AF%B7+2024&rlz=1C1GCEA_enCN1091CN1091&oq=github%E5%AD%A6%E7%94%9F%E5%8C%85%E7%94%B3%E8%AF%B7+2024&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEwNDgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 jsc (Channel) - WebKit - Slack
 https://app.slack.com/client/T06G50708/CTV4FGWF4
 
