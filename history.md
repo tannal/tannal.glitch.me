@@ -1,5 +1,191 @@
 # 2024-10-19
 
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Fuse `instanceof` bytecodes to one to reduce the emitted byteco… · WebKit/WebKit@74d2332
+https://github.com/WebKit/WebKit/commit/74d23321eec8326b0df93803a0517a92737f368b#diff-57acc875a02bbc92fc443ec8ef211a22c8ed773be1bc7e2c5749aca7cb7720e8R7072
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+Comparing servo:main...nicoburns:taffy · servo/servo
+https://github.com/servo/servo/compare/main...nicoburns:servo:taffy
+
+Show HN: CriticalPath – Advanced Profiler for Android | Hacker News
+https://news.ycombinator.com/item?id=39543275
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #meetups | Zig Programming Language
+https://discord.com/channels/605571803288698900/1245376441034477628/threads/1281580607696011295
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+Issues · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/issues
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+EvanatorM/ScuffedMinecraft: A Minecraft Clone in C++
+https://github.com/EvanatorM/ScuffedMinecraft/tree/main
+
+Element [10] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+JS::SetKeys (MapObject.cpp - mozsearch)
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Bun? · tauri-apps/tauri · Discussion #5837
+https://github.com/tauri-apps/tauri/discussions/5837
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+Improve documentation quality · Issue #20 · ReVanced/revanced-documentation
+https://github.com/ReVanced/revanced-documentation/issues/20
+
+ReVanced | Hacker News
+https://news.ycombinator.com/item?id=30801912
+
+ReVanced twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ReVanced+twitter
+
+Could you suggest your opinions on Revanced X App : r/revancedapp
+https://www.reddit.com/r/revancedapp/comments/1cvaeiu/could_you_suggest_your_opinions_on_revanced_x_app/
+
+Pull requests · crimera/revanced-integrations
+https://github.com/crimera/revanced-integrations/pulls
+
+The Apk Signer in the cli is broken - Error initialising store of key store · Issue #53 · ReVanced/revanced-cli
+https://github.com/ReVanced/revanced-cli/issues/53
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+tannal (tannal)
+https://github.com/tannal/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-19
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Copy-and-Patch Compilation - copy-and-patch.pdf
+https://fredrikbk.com/publications/copy-and-patch.pdf
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+State of Text Rendering 2024 | Hacker News
+https://news.ycombinator.com/item?id=40911869
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=svg&sort=byPopularity&type=story
+
+Problem loading page
+http://slides.com/sdrasner/svg-can-do-that#/
+
+Me and SVG by Amelia Bellamy-Royds on CodePen
+https://codepen.io/AmeliaBR/post/me-and-svg
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1326193 - Inline code to compare strings
+https://bugzilla.mozilla.org/show_bug.cgi?id=1326193
+
+taocp pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=taocp+pdf
+
+Index of /media/pdf/book
+https://seriouscomputerist.atariverse.com/media/pdf/book/
+
+raph levien - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=raph+levien
+
+The Last Algorithms Course You'll Want - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=iiT&sca_esv=dad75147e23334e7&channel=fs&q=The+Last+Algorithms+Course+You%27ll+Want&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CQSLRs--VndZDemg_vRJY6u8dcef0aU8XzqpWbJBsjUnsPBhiLihGqR52EliZjFEoUSj3SlHjeC9OCQuvrZADJHMXTVyk2VUyq7bADBMZXxXE5gkRw&sa=X&ved=2ahUKEwiG0PyA_pmJAxVuJUQIHbvXACwQ0pQJegQICxAB&biw=1850&bih=968&dpr=1
+
+The Last Algorithms Course You'll Need
+https://theprimeagen.github.io/fem-algos/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+andersk (andersk) / Repositories
+https://github.com/andersk?tab=repositories
+
+100% - [12] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=89e3b7d85658bb094b3e493c79d46712b2996ebf&selectedTaskRun=DXRr2gjLRVafK8MwYB7paw.0
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Dominator (graph theory) - Wikipedia
+https://en.wikipedia.org/wiki/Dominator_(graph_theory)
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/data-up/video?tab=video
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
