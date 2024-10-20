@@ -6,7 +6,7 @@ export CXX=/opt/llvm-17/bin/clang++
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 
-cmake _G -B build -DLLVM_FOUND=/opt/llvm-17/ -DCMAKE_FIND_DEBUG_MODE=ON -DZIG_USE_LLVM_CONFIG=OFF -DLLD_FOUND=/opt/llvm-17/lld -DLLD_INCLUDE_DIRS=/opt/llvm-17/include/lld/ -DCLANG_INCLUDE_DIRS=/opt/llvm-17/include/clang
+cmake -G Ninja -B build -DLLVM_FOUND=/opt/llvm/ -DCMAKE_FIND_DEBUG_MODE=ON -DZIG_USE_LLVM_CONFIG=OFF -DLLD_FOUND=/opt/llvm/bin/lld -DLLD_INCLUDE_DIRS=/opt/llvm/include/lld/ -DCLANG_INCLUDE_DIRS=/opt/llvm/include/clang
 
 1. Build LLVM-17
 
