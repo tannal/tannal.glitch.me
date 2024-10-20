@@ -3,6 +3,198 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(15) Discord | #cpp-mc-discussion | WSAL Evan
+https://discord.com/channels/1282436827843920026/1284244188585791640/1296795825116282940
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+pedrogao (pedrogao) / Repositories
+https://github.com/pedrogao?tab=repositories
+
+tddebart/Minecraft-Unity: An as exact as possible recreation of Minecraft that i can make in Unity
+https://github.com/tddebart/Minecraft-Unity
+
+(33) My Minecraft Unity clone | showcase - YouTube
+https://www.youtube.com/watch?v=xWuzHTZZvcw
+
+tddebart/Minecraft-Unity: An as exact as possible recreation of Minecraft that i can make in Unity
+https://github.com/tddebart/Minecraft-Unity
+
+tddebart/Minecraft-Unity: An as exact as possible recreation of Minecraft that i can make in Unity
+https://github.com/tddebart/Minecraft-Unity
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · EvanatorM/ScuffedMinecraft
+https://github.com/EvanatorM/ScuffedMinecraft/issues?q=is%3Aissue+is%3Aclosed
+
+Element [9] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues?q=is%3Aissue%20state%3Aclosed
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+1848571 - network.dns.upgrade_with_https_rr blocks mixed display content
+https://bugzilla.mozilla.org/show_bug.cgi?id=1848571
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win11/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=1&highlightChangelogData=1&highlightCommonAlerts=0&replicates=0&series=autoland,86414,1,1&timerange=5184000&zoom=1725862038844,1726526519554,1415.1808628835568,1449.0686879143616
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+深入理解CRDT-RGA篇 | 廊中别苑
+https://pedrogao.github.io/posts/co/crdt2.html#%E6%8E%A8%E6%BC%94
+
+mono github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mono+github
+
+research.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+josephg/eg-walker-reference: Simple reimplementation of the diamond types sequence CRDT in simple, pure, unoptimized typescript.
+https://github.com/josephg/eg-walker-reference
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+Automated Unit Test Generation via Chain of Thought Prompt and Reinforcement Learning from Coverage Feedback
+https://zenodo.org/records/10390998
+
+Rob Pike on good commit messages (2014) | Hacker News
+https://news.ycombinator.com/item?id=21835874
+
+unity id - Google 搜索
+https://www.google.com.hk/search?q=unity+id+&newwindow=1&client=ubuntu-sn&sca_esv=3d198ea2673918d8&channel=fs&ei=yrMUZ8CWDu6hwN4P6LDa6QI&ved=0ahUKEwjAo4KjupyJAxXuENAFHWiYNi0Q4dUDCA8&uact=5&oq=unity+id+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXVuaXR5IGlkIDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHkjYJlCnCliWHnACeAGQAQCYAf0CoAGUCqoBBTItMS4zuAEDyAEA-AEBmAIGoAKfCsICChAAGLADGNYEGEfCAgYQABgIGB7CAgUQIRigAZgDAIgGAZAGCpIHBzIuMC4xLjOgB9IM&sclient=gws-wiz-serp
+
+I will never return back to Node.JS after writing Go : r/golang
+https://www.reddit.com/r/golang/comments/u5hw3x/i_will_never_return_back_to_nodejs_after_writing/
+
+Node.js/Deno Creator Discusses Rust, C++, TypeScript, and Vim - Slashdot
+https://developers.slashdot.org/story/21/02/20/0513258/nodejsdeno-creator-discusses-rust-c-typescript-and-vim
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=He%20also%20programs%20in%20vim%20because%20%22If%20you%20use%20grep%20instead%20of%20jump-to-definition%20too%20much%20indirection%20becomes%20intolerable.%20For%20what%20I%20do%2C%20I%20think%20this%20results%20in%20better%20software.%22%20&op=translate
+
+[Exec format error]: deno on raspberrypi · Issue #26423 · denoland/deno
+https://github.com/denoland/deno/issues/26423
+
+unityhub appimage - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=unityhub+appimage
+
+How to Install Unity Engine on Ubuntu 22.04 via AppImage
+https://terminalroot.com/how-to-install-unity-engine-on-ubuntu-via-appimage/
+
+two factor authentication is lost unity id - Google 搜索
+https://www.google.com.hk/search?q=two+factor+authentication+is+lost+unity+id&newwindow=1&client=ubuntu-sn&hs=Bpp&sca_esv=3f4285871134fb95&channel=fs&ei=ELQUZ5bqJd7cwN4Pw8PeoA0&ved=0ahUKEwiWssrEupyJAxVeLtAFHcOhF9QQ4dUDCA8&uact=5&oq=two+factor+authentication+is+lost+unity+id&gs_lp=Egxnd3Mtd2l6LXNlcnAiKnR3byBmYWN0b3IgYXV0aGVudGljYXRpb24gaXMgbG9zdCB1bml0eSBpZDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIhBJQ_gVYrRFwAXgBkAEAmAGdA6ABoxGqAQcyLTQuMi4xuAEDyAEA-AEBmAIIoAKwEcICChAAGLADGNYEGEeYAwCIBgGQBgqSBwkxLjAuNC4yLjGgB7ob&sclient=gws-wiz-serp
+
+Google
+https://www.google.com/
+
+Ryan Dahl - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+Ryan+Dahl
+
+JusticeFighterDance/JusticeFighter110: 田柯宇 (Tian Keyu)恶意攻击集群事件的证据揭露
+https://github.com/JusticeFighterDance/JusticeFighter110
+
+tannal (tannal)
+https://github.com/tannal/
+
+hayagriva/docs/file-format.md at main · typst/hayagriva
+https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+Fine-Tuning Language Models from Human Preference · Issue #86 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/86
+
+The latest in Machine Learning | Papers With Code
+https://paperswithcode.com/
+
+Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think | Papers With Code
+https://paperswithcode.com/paper/representation-alignment-for-generation
+
+sihyun-yu (Sihyun Yu)
+https://github.com/sihyun-yu
+
+Issues · y-crdt/y-crdt
+https://github.com/y-crdt/y-crdt/issues?q=is%3Aissue+is%3Aopen+wasm
+
+Differential Transformer | Hacker News
+https://news.ycombinator.com/item?id=41776324
+
+Differential Transformer | Hacker News
+https://news.ycombinator.com/item?id=41776324
+
+[2310.09423] QUIC is not Quick Enough over Fast Internet
+https://arxiv.org/abs/2310.09423
+
+Clean Shutdown of Servo · Issue #30849 · servo/servo
+https://github.com/servo/servo/issues/30849
+
+toronto database class - Google 搜索
+https://www.google.com.hk/search?q=toronto+database+class&newwindow=1&client=ubuntu-sn&hs=DoB&sca_esv=bdf35d4ce1cd0f1b&channel=fs&ei=1scUZ4mJB_vPkPIPvdiHsAU&ved=0ahUKEwiJzIuyzZyJAxX7J0QIHT3sAVYQ4dUDCA8&uact=5&oq=toronto+database+class&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnRvcm9udG8gZGF0YWJhc2UgY2xhc3MyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIvyJQuAxYvyFwAXgBkAEAmAGrAqABmQqqAQMyLTW4AQPIAQD4AQGYAgagAqQKwgIKEAAYsAMY1gQYR8ICBBAAGB7CAgYQABgIGB7CAggQABgFGAoYHsICBhAAGAUYHsICCBAAGIAEGKIEwgIIEAAYCBgeGA_CAgUQIRigAZgDAIgGAZAGCpIHBzEuMC40LjGgB6IR&sclient=gws-wiz-serp
+
+atabase System Technology CSC443/CSC2525H - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atabase+System+Technology+CSC443%2FCSC2525H
+
+Course | nivdayan
+https://www.nivdayan.net/database-system-technology-csc443
+
+Niv Dayan's Personal Meeting Room - Zoom
+https://utoronto.zoom.us/rec/play/MnppDNPYAYQAvy5BqA2bCwJSZGTgAvjVwK2xCOLVxu5QVa7u-E0Kso-5m66qZq8GhUELM3wkLO1YRicy.GQ1LiMeRoK7Zlaua?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Futoronto.zoom.us%2Frec%2Fshare%2FzoVKzIgLQjX3sGzVIX8JWExuyRngTXLtZnXfTrMb1ywF9g2B8XiafPrxTMc2ZjZm.yQ4d2HxdNDqJpqna
+
+(33) moldリンカの品質を支えるソフトウェアテスト手法 - YouTube
+https://www.youtube.com/watch?v=Bk_kCk2-pEE
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (15) Discord | #wsal-evan-yt-discussion | WSAL Evan
 https://discord.com/channels/1282436827843920026/1284244138354671658
 
