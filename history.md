@@ -1,5 +1,41 @@
 # 2024-10-19
 
+mesa.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Full Stack Application - Poe
+https://poe.com/chat/3i602rsx7plthcg6quj
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+Office Hours 2024-10-17 - Google 文档
+https://docs.google.com/document/d/1wEU7I1OU-kkC9xFfJd3K8Lpp3Bos2qfCZVpbjm5c2zM/edit?pli=1&tab=t.0#heading=h.evjimzdnrevx
+
+taocp pdf - Google 搜索
+https://www.google.com.hk/search?q=taocp+pdf&newwindow=1&client=ubuntu-sn&hs=NFl&sca_esv=ac8689b25b270a0f&channel=fs&ei=BTkTZ8m9Dse9kPIP0czxmQ8&ved=0ahUKEwiJ1MCG0ZmJAxXHHkQIHVFmPPMQ4dUDCA8&uact=5&oq=taocp+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXRhb2NwIHBkZjIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABEj-EFC4C1iTEHAAeAKQAQCYAe8DoAHvA6oBAzQtMbgBA8gBAPgBAZgCAqACugTCAgQQABhHmAMAiAYBkAYKkgcFMS40LTGgB-wC&sclient=gws-wiz-serp
+
+Art of Computer Programming - Volume 3 (Sorting & Searching).pdf
+https://seriouscomputerist.atariverse.com/media/pdf/book/Art%20of%20Computer%20Programming%20-%20Volume%203%20(Sorting%20&%20Searching).pdf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+GitHub - EvanatorM/ScuffedMinecraft: A Minecraft Clone in C++
+https://github.com/EvanatorM/ScuffedMinecraft
+
+glfw window nullptr rasperry pi 5 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=glfw+window+nullptr+rasperry+pi+5
+
+Getting raylib to work on Raspberry Pi 5 with VS Code and Ubuntu 22.04? : r/raylib
+https://www.reddit.com/r/raylib/comments/1cy2c5g/getting_raylib_to_work_on_raspberry_pi_5_with_vs/?rdt=45399
+
+ChatGGG
+http://192.168.43.1:8080/
+
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 

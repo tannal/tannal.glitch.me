@@ -44,6 +44,8 @@ sudo zypper source-install --build-deps-only Mesa
 glxinfo
 glxgears
 
+meson setup --reconfigure build/ -Dplatforms=x11,wayland -Dgallium-drivers=v3d,vc4 -Dvulkan-drivers=broadcom -Dgbm=enabled -Degl=enabled -Dopengl=true
+
 glxinfo | grep "OpenGL renderer"
 
 # dev
@@ -63,6 +65,7 @@ meson setup build
 sudo apt install llvm
 meson setup build
 
+ninja install -C build
 ninja uninstall -C build
 
 ```
