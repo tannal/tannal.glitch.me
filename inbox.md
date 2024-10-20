@@ -1,5 +1,22 @@
 # 2024-10-20 0 | 0
 
+
+
+sudo apt install fuse libfuse2
+
+Configure for your user:
+
+sudo modprobe fuse
+sudo groupadd fuse
+sudo usermod -a -G fuse $USER
+
+wget https://public-cdn.cloud.unity3d.com/hub/prod/UnityHub.AppImage
+chmod +x UnityHub.AppImage
+./UnityHub.AppImage
+
+UnityHub.AppImage
+https://unity.com/cn/download
+
 1. Read the title
 2. Read the abstract and authors
 3. Read the paper through quickly.
