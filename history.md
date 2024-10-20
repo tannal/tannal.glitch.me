@@ -3,6 +3,138 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(15) Discord | #ceen-news | WSAL Evan
+https://discord.com/channels/1282436827843920026/1297507512228249661
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [9] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+1848571 - network.dns.upgrade_with_https_rr blocks mixed display content
+https://bugzilla.mozilla.org/show_bug.cgi?id=1848571
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win11/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=1&highlightChangelogData=1&highlightCommonAlerts=0&replicates=0&series=autoland,86414,1,1&timerange=5184000&zoom=1725862038844,1726526519554,1415.1808628835568,1449.0686879143616
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+谈谈在线表格协同方案 | 廊中别苑
+https://pedrogao.github.io/posts/co/sheet.html
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) [CB16] The ARMs race for kernel protection by Jonathan​ ​Levin - YouTube
+https://www.youtube.com/watch?v=7qSr5p3wJ_8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+josephg/eg-walker-reference: Simple reimplementation of the diamond types sequence CRDT in simple, pure, unoptimized typescript.
+https://github.com/josephg/eg-walker-reference
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+(33) moldリンカの品質を支えるソフトウェアテスト手法 - YouTube
+https://www.youtube.com/watch?v=Bk_kCk2-pEE
+
+ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites
+https://github.com/ytdl-org/youtube-dl
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Rui%20U&sort=byPopularity&type=story
+
+tannal
+https://tannal.github.io/
+
+(33) Exposing GPU memory to userspace - YouTube
+https://www.youtube.com/watch?v=C3LvmRPh8kI
+
+deezer/spleeter: Deezer source separation library including pretrained models.
+https://github.com/deezer/spleeter
+
+AIcrowd | Music Demixing Challenge ISMIR 2021 | Challenges
+https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021
+
+spleeter.ipynb - Colab
+https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb
+
+Japanese React To The US Healthcare Costs | Street Interview - DownSub.com
+https://downsub.com/?url=https%3A%2F%2Fyoutu.be%2FxMKKy5tsUX4%3Fsi%3D5_fnoC3DJyV7tq6R
+
+屋顶-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=27621082&keyword=%E5%B1%8B%E9%A1%B6&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+周杰倫 & 温岚 【屋顶】现场LIVE版_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1tJ411T7Va/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+【官拍修复】周杰伦2007世界巡回演唱会上海站 《最长的电影》 神级变调仅此一场_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Ja411T73o?spm_id_from=333.788.player.switch&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+【4K伪官方】猛干原Key《听见下雨的声音》高音质完整版！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16C411J77R?spm_id_from=333.788.player.switch&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+(33) 康士坦的變化球 KST－美好的事可不可以發生在我身上 Lucky As You （Official Music Video） - YouTube
+https://www.youtube.com/watch?v=n7xF4UYrkq8
+
+bilibili dl github - Google 搜索
+https://www.google.com.hk/search?q=bilibili+dl+github&newwindow=1&client=ubuntu-sn&hs=4HG&sca_esv=e411ff6a35958a33&channel=fs&ei=IQsVZ6HXHt7AkPIP5PqnoAM&ved=0ahUKEwjh69_IjZ2JAxVeIEQIHWT9CTQQ4dUDCA8&uact=5&oq=bilibili+dl+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmJpbGliaWxpIGRsIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0inDFCJCljoCnACeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgKgAgaYAwCIBgGQBgqSBwEyoAcA&sclient=gws-wiz-serp
+
+SocialSisterYi/bilibili-API-collect: 哔哩哔哩-API收集整理【不断更新中....】
+https://github.com/SocialSisterYi/bilibili-API-collect
+
+filifili flutter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=filifili+flutter+github
+
+biliibili flutter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=biliibili+flutter+github
+
+guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/guozhigq/pilipala
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (15) Discord | #cpp-mc-discussion | WSAL Evan
 https://discord.com/channels/1282436827843920026/1284244188585791640/1296795825116282940
 
