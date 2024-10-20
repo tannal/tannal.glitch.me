@@ -1,3 +1,158 @@
+# 2024-10-20
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #wsal-evan-yt-discussion | WSAL Evan
+https://discord.com/channels/1282436827843920026/1284244138354671658
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+pedrogao (pedrogao) / Repositories
+https://github.com/pedrogao?tab=repositories
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · EvanatorM/ScuffedMinecraft
+https://github.com/EvanatorM/ScuffedMinecraft/issues?q=is%3Aissue+is%3Aclosed
+
+Element [10] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues?q=is%3Aissue%20state%3Aclosed
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+1848571 - network.dns.upgrade_with_https_rr blocks mixed display content
+https://bugzilla.mozilla.org/show_bug.cgi?id=1848571
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win11/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=1&highlightChangelogData=1&highlightCommonAlerts=0&replicates=0&series=autoland,86414,1,1&timerange=5184000&zoom=1725862038844,1726526519554,1415.1808628835568,1449.0686879143616
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+廊中别苑 | 廊中别苑
+https://pedrogao.github.io/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+How to Think about Algorithms: Edmonds, Jeff: 9781009302135: Amazon.com: Books
+https://www.amazon.com/Think-about-Algorithms-Jeff-Edmonds-dp-1009302132/dp/1009302132/ref=dp_ob_title_bk
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=how%20to%20think%20about&sort=byPopularity&type=story
+
+How to think about `async`/`await` in Rust - Cliffle
+https://cliffle.com/blog/async-inversion/
+
+How to think about HTML responsive images · Dan Cătălin Burzo
+https://danburzo.ro/responsive-images-html/
+
+How to Think About Compiling -
+https://uptointerpretation.com/posts/how-to-think-about-compiling/
+
+reddit search algolia - Google 搜索
+https://www.google.com.hk/search?q=reddit+search+algolia&newwindow=1&client=ubuntu-sn&hs=uBl&sca_esv=ce985a1e0c81157c&channel=fs&ei=fm4UZ8iaOMijkPIP8IzVmAc&ved=0ahUKEwjI0aCY-JuJAxXIEUQIHXBGFXMQ4dUDCA8&uact=5&oq=reddit+search+algolia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXJlZGRpdCBzZWFyY2ggYWxnb2xpYTIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEizM1CaA1iwMnABeAGQAQCYAfYCoAGUDqoBBTItNC4yuAEDyAEA-AEBmAIHoALEDsICChAAGLADGNYEGEfCAgUQABiABMICBBAAGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABgIGB4YD5gDAIgGAZAGCpIHBzEuMC40LjKgB6kT&sclient=gws-wiz-serp
+
+nathan chenette how to think about algorithms - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nathan+chenette+how+to+think+about+algorithms
+
+Cranelift: Incorrect abi for i128, i128 return value on x86_64 sysv · Issue #9250 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/9250
+
+Android Code Search
+https://cs.android.com/
+
+HiSilicon - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=HiSilicon+
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Lustre&sort=byPopularity&type=story
+
+Minio github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Minio+github
+
+hugo github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=hugo+github
+
+gohugoio/hugo: The world’s fastest framework for building websites.
+https://github.com/gohugoio/hugo
+
+The Next Generation of Neural Networks - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Next+Generation+of+Neural+Networks
+
+(33) The Next Generation of Neural Networks - YouTube
+https://www.youtube.com/watch?v=AyzOUbkUf3M
+
+geoffey hinton - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=geoffey+hinton
+
+Home Page of Geoffrey Hinton
+https://www.cs.toronto.edu/~hinton/
+
+(33) Prof. Geoffrey Hinton - "Will digital intelligence replace biological intelligence?" Romanes Lecture - YouTube
+https://www.youtube.com/watch?v=N1TEjTeQeg0&t=39s
+
+Home Page of Geoffrey Hinton
+http://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Gary%20Marcus%20&sort=byPopularity&type=story
+
+GNU Octave | Hacker News
+https://news.ycombinator.com/item?id=34464512
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=surveillance&op=translate
+
 # 2024-10-19
 
 mesa.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
