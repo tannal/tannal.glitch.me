@@ -586,12 +586,14 @@ apply
 
 # 2024-10-27 - 2024-11-4
 
-[] October 28 2024
+[] October 28 2024 servo month meeting
 
 # 2024-10-20 - 2024-10-27
 
 ## TODO
 
+[] 10-23
+[] Coffee Compiler Club 10-25
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [x] review https://android-review.googlesource.com/c/platform/art/+/3284463
 [x] 10-24 linebender office hour

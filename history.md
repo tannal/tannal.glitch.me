@@ -27,6 +27,153 @@ https://chat.mozilla.org/#/room/#whatwg:matrix.org
 MapObject.cpp - mozsearch
 https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
 
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues?q=is%3Aissue%20state%3Aclosed
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+1848571 - network.dns.upgrade_with_https_rr blocks mixed display content
+https://bugzilla.mozilla.org/show_bug.cgi?id=1848571
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win11/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=1&highlightChangelogData=1&highlightCommonAlerts=0&replicates=0&series=autoland,86414,1,1&timerange=5184000&zoom=1725862038844,1726526519554,1415.1808628835568,1449.0686879143616
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+廊中别苑 | 廊中别苑
+https://pedrogao.github.io/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+regalloc3/src/internal/value_live_ranges.rs at main · Amanieu/regalloc3
+https://github.com/Amanieu/regalloc3/blob/main/src/internal/value_live_ranges.rs
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=regalloc3&sort=byPopularity&type=story
+
+Cranelift, Part 4: A New Register Allocator
+https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
+
+bytecodealliance/regalloc2: A new register allocator
+https://github.com/bytecodealliance/regalloc2/tree/main
+
+Ask HN: Is Knuth's TAOCP worth the time and effort? | Hacker News
+https://news.ycombinator.com/item?id=38443668
+
+The Book "A=B"
+https://www2.math.upenn.edu/~wilf/AeqB.html
+
+A = B: Petkovsek, Marko, Wilf, Herbert S, Zeilberger, Doron: 9781568810638: Amazon.com: Books
+https://www.amazon.com/B-Marko-Petkovsek/dp/1568810636
+
+The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast
+https://corecursive.com/066-sqlite-with-richard-hipp/#b-trees-and-the-art-of-computer-programming
+
+Familiar and Unfamiliar Quotations
+https://www.norvig.com/quotations.html
+
+cvm-note.dvi - cvm-note.pdf
+https://cs.stanford.edu/~knuth/papers/cvm-note.pdf
+
+Distinct Elements in Streams: An Algorithm for the (Text) Book - 2301.10191v1.pdf
+https://arxiv.org/pdf/2301.10191v1
+
+The Algorithms Illuminated Book Series
+https://www.algorithmsilluminated.org/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=coffee%20%20compiler&sort=byPopularity&type=story
+
+(32) The Magic Of ARM w/ Casey Muratori - YouTube
+https://www.youtube.com/watch?v=Zr09I5OlOjs
+
+(32) Coffee Compiler Club, 2024_10_18 - YouTube
+https://www.youtube.com/watch?v=0H41ZVYb278&t=2917s
+
+Cliff Click - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Cliff+Click
+
+Y. N. Srikant - Google 搜索
+https://www.google.com.hk/search?q=Y.+N.+Srikant+&newwindow=1&client=ubuntu-sn&hs=Yhk&sca_esv=713e5b7857b012d2&channel=fs&ei=JGcUZ42cAaSjur8PqYPt6Qc&ved=0ahUKEwiNvrWW8ZuJAxWkke4BHalBO30Q4dUDCA8&uact=5&oq=Y.+N.+Srikant+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDlkuIE4uIFNyaWthbnQgSJQGUKkEWKkEcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAIgGAZIHAKAHAA&sclient=gws-wiz-serp
+
+Tim Peters - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tim+Peters
+
+tim-one (Tim Peters)
+https://github.com/tim-one
+
+The computational beauty of nature - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+computational+beauty+of+nature
+
+The Computational Beauty of Nature
+https://mitpress.mit.edu/9780262561273/the-computational-beauty-of-nature/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #general | GPU MODE
+https://discord.com/channels/1189498204333543425/1189498205101109300
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+pedrogao (pedrogao) / Repositories
+https://github.com/pedrogao?tab=repositories
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · EvanatorM/ScuffedMinecraft
+https://github.com/EvanatorM/ScuffedMinecraft/issues?q=is%3Aissue+is%3Aclosed
+
+Element [10] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
 收件箱 - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 

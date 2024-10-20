@@ -1,3 +1,12 @@
+# 2024-10-20 0 | 0
+
+1. Read the title
+2. Read the abstract and authors
+3. Read the paper through quickly.
+4. Read the paper through slowly being more optimistical, making notes. (like you are the big fan of the authors, whatever they say is truth)
+5. Read the paper through slowly being more critical, making notes. (like you are the hater of the authors, whatever they say is nosense)
+6. Read the paper through again working through the maths, implementing the algorithms, making sure you understand everything.
+
 # 2024-10-19 0 | 0
 
 ln -sfn /opt/mold/bin/mold /usr/bin/ld 
