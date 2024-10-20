@@ -1,5 +1,7 @@
 # 2024-10-19 0 | 0
 
+
+
 python samples_rnn.py ~/ --rng_seed 42 --temperature 1.0 --ntunes 5 --seed "abc"
 
 minecraft world scene

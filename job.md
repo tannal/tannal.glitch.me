@@ -604,7 +604,8 @@ Who: anyone is welcome, but if there are no issues to discuss the meeting will b
 Please express your interest to attend and note the issue(s) you would like to triage(which can be one someone else already brought up).
 Last meeting at #104
 [] Impment SIMD
-[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
+[] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 
 [x] blog
 [x] blog
