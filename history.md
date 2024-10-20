@@ -1,5 +1,164 @@
 # 2024-10-19
 
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #general | GPU MODE
+https://discord.com/channels/1189498204333543425/1189498205101109300
+
+[libc] Fix unit test compile flags propagation. by lntue · Pull Request #106128 · llvm/llvm-project
+https://github.com/llvm/llvm-project/pull/106128
+
+Is typst app using CRDT for collaborative editing? · typst/webapp-issues · Discussion #436
+https://github.com/typst/webapp-issues/discussions/436
+
+pedrogao (pedrogao) / Repositories
+https://github.com/pedrogao?tab=repositories
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · EvanatorM/ScuffedMinecraft
+https://github.com/EvanatorM/ScuffedMinecraft/issues?q=is%3Aissue+is%3Aclosed
+
+Element [10] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri
+
+cztomsik/ava: All-in-one desktop app for running LLMs locally.
+https://github.com/cztomsik/ava/tree/main
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+Error message regression in Cargo 1.80 when fetching particular git revision · Issue #14621 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/14621
+
+Office Hours · rust-lang/cargo Wiki
+https://github.com/rust-lang/cargo/wiki/Office-Hours
+
+Issues · rust-lang/calendar
+https://github.com/rust-lang/calendar/issues?q=is%3Aissue%20state%3Aclosed
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D209776 Bug 1895075 - part 1: implement the Fetch standard's Extract a MimeType and related algorithms; r?hsivonen
+https://phabricator.services.mozilla.com/D209776
+
+1514311 - Color interpolation does not work if one of the endpoint colors is context-fill or context-stroke
+https://bugzilla.mozilla.org/show_bug.cgi?id=1514311
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+1848571 - network.dns.upgrade_with_https_rr blocks mixed display content
+https://bugzilla.mozilla.org/show_bug.cgi?id=1848571
+
+Firefox Performance Dashboard
+https://arewefastyet.com/win11/benchmarks/overview?numDays=60
+
+Perfherder
+https://treeherder.mozilla.org/perfherder/graphs?highlightAlerts=1&highlightChangelogData=1&highlightCommonAlerts=0&replicates=0&series=autoland,86414,1,1&timerange=5184000&zoom=1725862038844,1726526519554,1415.1808628835568,1449.0686879143616
+
+Android Internals
+http://technologeeks.com/course.jl?course=AIRE
+
+廊中别苑 | 廊中别苑
+https://pedrogao.github.io/
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/tune/121356
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#transformers
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+MAC OS X Internals: A Systems Approach - Google 搜索
+https://www.google.com.hk/search?q=MAC+OS+X+Internals%3A+A+Systems+Approach&newwindow=1&client=ubuntu-sn&sca_esv=6298c17d4a9e2aad&channel=fs&biw=1850&bih=968&ei=t04UZ57IGLTIkPIP6IKU0Qk&ved=0ahUKEwje__fw2ZuJAxU0JEQIHWgBJZoQ4dUDCA8&uact=5&oq=MAC+OS+X+Internals%3A+A+Systems+Approach&gs_lp=Egxnd3Mtd2l6LXNlcnAiJk1BQyBPUyBYIEludGVybmFsczogQSBTeXN0ZW1zIEFwcHJvYWNoMgUQABiABDIIEAAYgAQYogQyCBAAGIAEGKIESKkQUO4DWO4DcAF4AJABAJgBwwKgAcMCqgEDMy0xuAEDyAEA-AEC-AEBmAIBoALIApgDAIgGAZIHAzMtMaAH2AE&sclient=gws-wiz-serp
+
+Mac OS® X and iOS Internals - MOXiI.pdf
+https://newosxbook.com/MOXiI.pdf
+
+Chapter 1.  Origins of Mac OS X - Mac OS X Internals - A Systems Approach.pdf
+https://atakua.org/p/books/Mac%20OS%20X%20Internals%20-%20A%20Systems%20Approach.pdf
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Russinov- ich’s Windows Internals d - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Russinov-+ich%E2%80%99s+Windows+Internals+d
+
+Microsoft Windows Internals, Fourth Edition: Microsoft Windows Server 2003, Windows XP, and Windows 2000 eBook - WindowsInternals-4e.pdf
+https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/WindowsInternals-4e.pdf
+
+Lottie github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Lottie+github
+
+airbnb repositories
+https://github.com/orgs/airbnb/repositories
+
+Android - Jetpack Compose
+http://airbnb.io/lottie/#/android-compose?id=basic-usage
+
+linux kernel development - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=YgN&sca_esv=dfe20882d9dd7621&channel=fs&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDPQhNTjUUswhKPOWWeoNrnLEk0X6rYfCHWHJifbqLvqcnoUvqKVbHO4kO1Z9NafZFvplPd7p0H-sMTG6f0ntr-JgEHSUGQYI4hLgUB0T7u172_Z1HZ0_-_Y9Jt0Gw0xlJhe3dl9PNebtXQPuBFx75mmsz-whE1Hvf1wi3TN_Nyn61P6K9_bb9B6XibcRApjg6UjWPkszYBdMt2k4R8wY122KTMn7mrSBm0aQWsgKxsY7L-blllJfoLUDbs388VNTfrsXRONBKqT6AgHkQeaJD2XkuMGmKrDFTTMLzWcyYAbOq1Hlg%3D%3D&q=linux+kernel+development&sa=X&ved=2ahUKEwii0rvDz5uJAxULH0QIHXSCOJYQs9oBKAB6BAgfEAU&biw=1850&bih=968&dpr=1
+
+UnderStanding The Linux Kernel 3rd Edition - ulk3.pdf
+https://www.cs.utexas.edu/~rossbach/cs380p/papers/ulk3.pdf
+
+Linux Kernel Development (3rd Edition) - Linux Kernel Development, 3rd Edition.pdf
+https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf
+
+ABOUT ME | Zaw Zaw
+https://zawzaww.github.io/about/
+
+(32) How do Graphics Cards Work? Exploring GPU Architecture - YouTube
+https://www.youtube.com/watch?v=h9Z4oGN89MU
+
+Upcoming Servo issue triage meeting on October 28 2024 · Issue #106 · servo/project
+https://github.com/servo/project/issues/106
+
+Building Zig From Source · ziglang/zig Wiki
+https://github.com/ziglang/zig/wiki/Building-Zig-From-Source
+
+tannal/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/tannal/llvm-project/tree/main
+
+Mold 2.0 | Hacker News
+https://news.ycombinator.com/item?id=36876783
+
+rui314/mold at v2.0.0
+https://github.com/rui314/mold/tree/v2.0.0
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+tannal - 首页 - Gitea: Git with a cup of tea
+http://git.tanmeng.org/
+
 jsc (Channel) - WebKit - Slack
 https://app.slack.com/client/T06G50708/CTV4FGWF4
 

@@ -1,6 +1,6 @@
 # 2024-10-19 0 | 0
 
-
+ln -sfn /opt/mold/bin/mold /usr/bin/ld 
 
 python samples_rnn.py ~/ --rng_seed 42 --temperature 1.0 --ntunes 5 --seed "abc"
 
