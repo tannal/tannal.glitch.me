@@ -44,13 +44,23 @@ ninja install
 2. Build zig
 
 ```bash
-mkdir build
-cd build
-cmake ..
-make -j8
+cmake -G Ninja -B build \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_BUILD_TYPE='Debug' \
+  -DLLVM_CONFIG_PATH=/opt/llvm/bin/llvm-config
+
+n2 -C build
+
+
 ```
 
 3. run and test
+
+zig build \
+  -p stage3 \
+  --search-prefix "$LLVM_PREFIX" \
+  --zig-lib-dir lib \
+  -Dstatic-llvm
 
 
 ```bash

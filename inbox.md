@@ -1,6 +1,9 @@
 # 2024-10-19 0 | 0
 
+python samples_rnn.py ~/ --rng_seed 42 --temperature 1.0 --ntunes 5 --seed "abc"
 
+minecraft world scene
+cube
 
 FreeType (for general font processing with C and often rasterization) and HarfBuzz (for general font processing with C++ and very popularly for shaping).
 

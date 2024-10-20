@@ -590,6 +590,46 @@ apply
 
 # 2024-10-20 - 2024-10-27
 
+## TODO
+
+[] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[x] review https://android-review.googlesource.com/c/platform/art/+/3284463
+[x] 10-24 linebender office hour
+[] Where: https://meet.jit.si/ServoTriage.
+[] Original folk-rnn training and inference. Build App around it.
+
+When: 10:00 AM GMT on October 28 2024 (Europe and Asia friendly, we can later alternate with a US friendly time if needed).
+What: any issue one wishes to triage.
+Who: anyone is welcome, but if there are no issues to discuss the meeting will be canceled.
+Please express your interest to attend and note the issue(s) you would like to triage(which can be one someone else already brought up).
+Last meeting at #104
+[] Impment SIMD
+[] implement go to recent directories in zed potential mentor SomeoneToIgnore
+
+[x] blog
+[x] blog
+[] blog
+
+[] yundong fuwocheng
+[] yundong fuwocheng
+[] yundong fuwocheng
+
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+[] Be good at solving puzzles for code interview
+
+[x] Be a pianist play piano
+[x] Be a pianist play piano
+[x] Be a pianist play piano
+
+[] Do less day
+
+## Explore
+
+[] zulip-server and frontend and flutter app.
+[] webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+[] zig strerror | typst | wasmtime | bun | ...
+
 # 2024-10-13 - 2024-10-20
 
 [] Beijing 17 night 22:00
@@ -603,10 +643,10 @@ https://github.com/pytorch/pytorch/issues/126519
 
 [] implement go to recent directories in zed potential mentor SomeoneToIgnore
 [x] Bug 1922163 - Table element align attribute mapped to float as per spec. r?emilio
-[] Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+[x] Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
 
 [x] blog
-[] blog
+[x] blog
 [] blog
 
 [] yundong fuwocheng

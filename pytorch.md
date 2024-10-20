@@ -18,9 +18,11 @@ conda create --name pytorch
 
 conda activate pytorch
 
-pip install -r requirements.txt
+make setup-env  # or make setup-env-cuda for pre-built CUDA binaries
+make setup-env-cuda
+conda activate pytorch-deps
 
-MAX_JOBS=4 DEBUG=1 USE_DISTRIBUTED=0 USE_MKLDNN=0 USE_CUDA=1 BUILD_TEST=0 USE_FBGEMM=0 USE_NNPACK=0 USE_QNNPACK=0 USE_XNNPACK=0 python setup.py develop
+MAX_JOBS=4 DEBUG=1 USE_DISTRIBUTED=0 USE_MKLDNN=0 USE_CUDA=1 BUILD_TEST=0 USE_FBGEMM=0 USE_NNPACK=0 USE_QNNPACK=0 USE_XNNPACK=0 python3 setup.py develop
 
 # people
 
