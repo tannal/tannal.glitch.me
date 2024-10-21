@@ -1,5 +1,7 @@
 # 2024-10-21 0 | 0
 
+we should kill documentation and even search engine and use a good gpt for it.
+
 cargo install cargo-watch
 cargo install wasm-pack
 cargo install -f wasm-bindgen-cli@0.2.95
