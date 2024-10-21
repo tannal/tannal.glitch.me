@@ -1,4 +1,10 @@
 
+https://mastodon.social/@ltratt
+
+https://mastodon.social/@mreinhold
+
+https://mastodon.social/@b0rk@jvns.ca
+
 https://mastodon.gamedev.place/@Nical
 
 ```bash

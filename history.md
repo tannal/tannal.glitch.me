@@ -3,6 +3,144 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(15) Discord | #native | Dioxus Labs
+https://discord.com/channels/899851952891002890/954257659597553664/1295480014027882527
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [10] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) 24C3: Inside the Mac OS X Kernel - YouTube
+https://www.youtube.com/watch?v=-7GMHB3Plc8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+(33) Android Automotive Architecture Explained in Detail 2023 - YouTube
+https://www.youtube.com/watch?v=KFf4IH4CQ48&list=PLAlSOSt8vS8Ss3uEshNXQe3cbx9qtl8m4&index=19
+
+Linux Kernel Exploit Development: 1day case study – Hacktive Security Blog
+https://blog.hacktivesecurity.com/index.php/2022/06/13/linux-kernel-exploit-development-1day-case-study/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Laurence Tratt (@ltratt@mastodon.social) - Mastodon
+https://mastodon.social/@ltratt
+
+Codetribute
+https://codetribute.mozilla.org/projects/gfx
+
+1763742 - LOCAL_GL_PACK_ALIGNMENT is sometimes used with functions other than glReadPixels
+https://bugzilla.mozilla.org/show_bug.cgi?id=1763742
+
+NativeLayerCA.mm - mozsearch
+https://searchfox.org/mozilla-central/rev/fc5c4461124b8572442c71bc34947bee68b75551/gfx/layers/NativeLayerCA.mm#715
+
+Add wrench test for images without premultiplied blend mode. · Issue #3258 · servo/webrender
+https://github.com/servo/webrender/issues/3258
+
+Re-export app_units::Au or disable serde for app_units · Issue #3045 · servo/webrender
+https://github.com/servo/webrender/issues/3045
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Re-export RendererError · Issue #3572 · servo/webrender
+https://github.com/servo/webrender/issues/3572
+
+rerun-io/rerun: Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
+https://github.com/rerun-io/rerun/
+
+hackernews dataset - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=hackernews+dataset
+
+"HACKER NEWS - A dataset that contains all stories and comments from Hacker News... | Hacker News
+https://news.ycombinator.com/item?id=11384872
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=webrender&sort=byPopularity&type=story
+
+Challenge: Snitch on the glitch! Help the Graphics team track down an interesting WebRender bug… – Mozilla Gfx Team Blog
+https://mozillagfx.wordpress.com/2020/02/18/challenge-snitch-on-the-glitch-help-the-graphics-team-track-down-an-interesting-webrender-bug/
+
+Eight million pixels and counting – A look at pathfinder
+https://nical.github.io/posts/a-look-at-pathfinder.html
+
+Nicolas Silva (@nical@mastodon.gamedev.place) - Gamedev Mastodon
+https://mastodon.gamedev.place/@Nical
+
+Designing A Fast Concurrent Hash Table
+https://ibraheem.ca/posts/designing-papaya/
+
+Graphics Programming weekly - Issue 361 - October 13th, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-361/
+
+Inkscape launches version 1.4, with powerful new accessible and customizable features | Inkscape
+https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/
+
+GPU Work Graphs mesh nodes now in Vulkan® - AMD GPUOpen
+https://gpuopen.com/learn/gpu-workgraphs-mesh-nodes-vulkan/
+
+Graphics Programming weekly - Issue 359 - September 29th, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-359/
+
+(33) Master Class: Being a Tech Art Detective - YouTube
+https://www.youtube.com/watch?v=etNmLiaLxb8
+
+Join our speakers in the Netherlands this November for the inaugural Graphics Programming Conference - AMD GPUOpen
+https://gpuopen.com/gpc-2024/
+
+Inkscape github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Inkscape+github
+
+inkscape/inkscape: Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
+https://github.com/inkscape/inkscape
+
+maston client flutter github - Google 搜索
+https://www.google.com.hk/search?q=maston+client+flutter+github&newwindow=1&client=ubuntu-sn&hs=kJ7&sca_esv=c4803f513892b5ac&channel=fs&ei=u7oVZ93PHsvLkPIPh8DMuA0&ved=0ahUKEwidmb6EtZ6JAxXLJUQIHQcgE9cQ4dUDCA8&uact=5&oq=maston+client+flutter+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHG1hc3RvbiBjbGllbnQgZmx1dHRlciBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEdItiRQohtY9iJwAngBkAEAmAHfAqAB0Q6qAQUyLTIuNLgBA8gBAPgBAZgCAqACCpgDAIgGAZAGApIHATKgB7UK&sclient=gws-wiz-serp
+
+feathr-space/feathr: A Mastodon client built in Flutter (in development).
+https://github.com/feathr-space/feathr
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (15) Discord | #✨general | Graphite
 https://discord.com/channels/731730685944922173/732667246756757504
 
