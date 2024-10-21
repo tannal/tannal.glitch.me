@@ -1,6 +1,27 @@
+# 2024-10-21 0 | 0
+
+cargo install cargo-watch
+cargo install wasm-pack
+cargo install -f wasm-bindgen-cli@0.2.95
+
+author:dhardy
+author:waywardmonkeys
+author:RazrFalcon
+author:laurmaedje
+author:emilk
+author:hecrj
+author:ogoffart
+author:lucasfernog
+author:cmyr
+author:dhardy
+
 # 2024-10-20 0 | 0
 
+fvm install 3.16.5
+fvm flutter --version
 
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+dart pub global activate fvm
 
 sudo apt install fuse libfuse2
 

@@ -1,3 +1,119 @@
+# 2024-10-21
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #✨general | Graphite
+https://discord.com/channels/731730685944922173/732667246756757504
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [10] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) 24C3: Inside the Mac OS X Kernel - YouTube
+https://www.youtube.com/watch?v=-7GMHB3Plc8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+(33) Android Automotive Architecture Explained in Detail 2023 - YouTube
+https://www.youtube.com/watch?v=KFf4IH4CQ48&list=PLAlSOSt8vS8Ss3uEshNXQe3cbx9qtl8m4&index=19
+
+Linux Kernel Exploit Development: 1day case study – Hacktive Security Blog
+https://blog.hacktivesecurity.com/index.php/2022/06/13/linux-kernel-exploit-development-1day-case-study/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+cfagot/space_survival: Simple game using xilem as app framework
+https://github.com/cfagot/space_survival
+
+fvm github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=fvm+github
+
+Issues · leoafarias/fvm
+https://github.com/leoafarias/fvm/issues?q=is%3Aissue+is%3Aopen+cache
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1723784 - Rewrite dom/media/test/test_access_control.html to use https URLs
+https://bugzilla.mozilla.org/show_bug.cgi?id=1723784
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+1277934 - [css-grid] write more reftests for align/justify-self/content:[last-]baseline
+https://bugzilla.mozilla.org/show_bug.cgi?id=1277934
+
+950479 - getUserMedia camera auto-focus needs center weighting
+https://bugzilla.mozilla.org/show_bug.cgi?id=950479
+
+1573290 - Remove unnecessary [Throws] annotation from Document.createTreeWalker
+https://bugzilla.mozilla.org/show_bug.cgi?id=1573290
+
+Document::createElement (Document.webidl - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/webidl/Document.webidl#106-107
+
+1314868 - <li>s not in any <ol>/<ul> should still have ordinal value calculated
+https://bugzilla.mozilla.org/show_bug.cgi?id=1314868
+
+Fix how <li>s are numbered and associated with <ol>s by domenic · Pull Request #2002 · whatwg/html
+https://github.com/whatwg/html/pull/2002
+
+Live DOM Viewer
+http://software.hixie.ch/utilities/js/live-dom-viewer/?saved=4640
+
+rsvg-convert rust - Google 搜索
+https://www.google.com.hk/search?q=rsvg-convert+rust&newwindow=1&client=ubuntu-sn&hs=VJ5&sca_esv=f1335be37f2cdbad&channel=fs&ei=pJwVZ7OaJZTQkPIP-Kv98AI&ved=0ahUKEwiz_LqrmJ6JAxUUKEQIHfhVHy4Q4dUDCA8&uact=5&oq=rsvg-convert+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXJzdmctY29udmVydCBydXN0MgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIrBBQ4wdYkg1wAHgCkAEAmAG4AqABlgqqAQUyLTQuMbgBA8gBAPgBAZgCBqACrwrCAgQQABhHwgIFEAAYgATCAgQQABgewgIGEAAYHhgPwgIIEAAYgAQYogSYAwCIBgGQBgOSBwcxLjAuNC4xoAffDQ&sclient=gws-wiz-serp
+
+Port rsvg-convert to Rust (#534) · Issues · GNOME / librsvg · GitLab
+https://gitlab.gnome.org/GNOME/librsvg/-/issues/534
+
+american think positive - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=american+think+poistive#fpr=r
+
+rerun-io/rerun: Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
+https://github.com/rerun-io/rerun
+
+Issue search results
+https://github.com/search?q=author%3Ahecrj&type=issues
+
 # 2024-10-20
 
 Chromium-dev - Google 群组
