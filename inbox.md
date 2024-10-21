@@ -1,5 +1,8 @@
 # 2024-10-21 0 | 0
 
+2010 的 Sketch、 2014 Zeplin 到 2016 的 Figma 都是在試圖解決這個困擾。
+
+cargo install --git https://github.com/cargo-bins/cargo-binstall
 
 we should kill documentation and even search engine and use a good gpt for it.
 
