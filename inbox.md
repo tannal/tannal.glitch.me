@@ -1,5 +1,6 @@
 # 2024-10-21 0 | 0
 
+
 we should kill documentation and even search engine and use a good gpt for it.
 
 cargo install cargo-watch
