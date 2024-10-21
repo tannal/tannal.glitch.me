@@ -1,5 +1,21 @@
 # 2024-10-21 0 | 0
 
+ffmpeg -hwaccel cuda -i input.mp4 -vf "subtitles=audio.wav.srt" -c:v h264_nvenc -preset p7 -tune hq -crf 23 -c:a copy output.mp4
+
+bash ./models/download-ggml-model.sh large-v3
+bash ./models/download-ggml-model.sh large-v3-turbo
+
+ffmpeg -i input.mp4 -vf subtitles=audio.wav.srt output.mp4
+
+../whisper.cpp/build/bin/main -m ../whisper.cpp/models/ggml-large-v3.bin -of srt -l ja audio.wav
+
+../whisper.cpp/build/bin/main -tr -l ja -m ../whisper.cpp/models/ggml-large-v3.bin --output-srt audio.wav
+../whisper.cpp/build/bin/main -l ja -m ../whisper.cpp/models/ggml-large-v3.bin --output-srt audio.wav
+
+./whisper -m models/ggml-base.en.bin -f audio.wav -of srt
+
+ffmpeg -i input.mp4 -vn -acodec pcm_s16le -ar 16000 -ac 1 audio.wav
+
 2010 的 Sketch、 2014 Zeplin 到 2016 的 Figma 都是在試圖解決這個困擾。
 
 cargo install --git https://github.com/cargo-bins/cargo-binstall

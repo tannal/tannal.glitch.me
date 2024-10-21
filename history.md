@@ -3,6 +3,141 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(15) Discord | #chinese | Bun
+https://discord.com/channels/876711213126520882/996381628702142485
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
+bunpy - npm
+https://www.npmjs.com/package/bunpy
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [10] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) 24C3: Inside the Mac OS X Kernel - YouTube
+https://www.youtube.com/watch?v=-7GMHB3Plc8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+(33) Android Automotive Architecture Explained in Detail 2023 - YouTube
+https://www.youtube.com/watch?v=KFf4IH4CQ48&list=PLAlSOSt8vS8Ss3uEshNXQe3cbx9qtl8m4&index=19
+
+Linux Kernel Exploit Development: 1day case study – Hacktive Security Blog
+https://blog.hacktivesecurity.com/index.php/2022/06/13/linux-kernel-exploit-development-1day-case-study/
+
+build gui with wasm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=build+gui+with+wasm
+
+Can you run GUI app with web assembly? : r/webdev
+https://www.reddit.com/r/webdev/comments/16b2i5r/can_you_run_gui_app_with_web_assembly/
+
+Drake_Stafford
+https://wavacity.com/
+
+(33) Have Young Japanese Given Up on Dating? | Street Interview - YouTube
+https://www.youtube.com/watch?v=J0uQJH8EBlA
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+rerun/BUILD.md at main · rerun-io/rerun
+https://github.com/rerun-io/rerun/blob/main/BUILD.md
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bunpy&sort=byPopularity&type=story
+
+stripe atlas - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=stripe+atlas
+
+speculative optimization in javascriptcore - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=speculative+optimization+in+javascriptcore
+
+Speculation in JavaScriptCore | WebKit
+https://webkit.org/blog/10308/speculation-in-javascriptcore/
+
+Speculation in JavaScriptCore | Hacker News
+https://news.ycombinator.com/item?id=23989035
+
+speculation in jsc - pizlo-speculation-in-jsc-slides.pdf
+http://www.filpizlo.com/slides/pizlo-speculation-in-jsc-slides.pdf
+
+Gephi - The Open Graph Viz Platform
+https://gephi.org/
+
+gephi github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gephi+github
+
+gephi/gephi: Gephi - The Open Graph Viz Platform
+https://github.com/gephi/gephi
+
+hhromic (hhromic) / Repositories
+https://github.com/hhromic?tab=repositories
+
+Large-v3-turbo model not translating japanese into English · Issue #2476 · ggerganov/whisper.cpp
+https://github.com/ggerganov/whisper.cpp/issues/2476
+
+twitter relation analysis visualization - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+relation+analysis+visualization
+
+Mark Vanderstay - Viewing Twitter Influence With Network Graphs
+https://markvanderstay.com/posts/twitter-analysis-of-retweets-with-r/index.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=twitter%20visualization&sort=byPopularity&type=story
+
+dart twitter api - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dart+twitter+api
+
+twitter_api_v2 | Dart package
+https://pub.dev/packages/twitter_api_v2
+
+GET /2/users/:id/followers | Docs | Twitter Developer Platform
+https://developer.x.com/en/docs/x-api/users/follows/api-reference/get-users-id-followers
+
+Code search results
+https://github.com/search?q=+%09lookupFollowings+language%3ADart&type=code&l=Dart
+
+myConsciousness/pocket-twitter-api at 49697e46491748da96db09e2159fc7ef81f25aab
+https://github.com/myConsciousness/pocket-twitter-api/tree/49697e46491748da96db09e2159fc7ef81f25aab
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (15) Discord | #native | Dioxus Labs
 https://discord.com/channels/899851952891002890/954257659597553664/1295480014027882527
 
