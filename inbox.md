@@ -1,5 +1,6 @@
 # 2024-10-21 0 | 0
 
+nlnet
 
 
 sudo apt install qtdeclarative5-dev qt5-qmake qtbase5-dev qtbase5-dev-tools qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs
