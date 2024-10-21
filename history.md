@@ -12,6 +12,108 @@ https://www.youtube.com/watch?v=gdj1rBxx5_A
 Graphite | Getting started
 https://graphite.rs/volunteer/guide/getting-started/
 
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [10] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+1874689 - [forkserver] Enable forkserver by default on Nightly
+https://bugzilla.mozilla.org/show_bug.cgi?id=1874689#c59
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) 24C3: Inside the Mac OS X Kernel - YouTube
+https://www.youtube.com/watch?v=-7GMHB3Plc8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+(33) Android Automotive Architecture Explained in Detail 2023 - YouTube
+https://www.youtube.com/watch?v=KFf4IH4CQ48&list=PLAlSOSt8vS8Ss3uEshNXQe3cbx9qtl8m4&index=19
+
+Linux Kernel Exploit Development: 1day case study – Hacktive Security Blog
+https://blog.hacktivesecurity.com/index.php/2022/06/13/linux-kernel-exploit-development-1day-case-study/
+
+build gui with wasm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=build+gui+with+wasm
+
+Can you run GUI app with web assembly? : r/webdev
+https://www.reddit.com/r/webdev/comments/16b2i5r/can_you_run_gui_app_with_web_assembly/
+
+Drake_Stafford
+https://wavacity.com/
+
+(33) Have Young Japanese Given Up on Dating? | Street Interview - YouTube
+https://www.youtube.com/watch?v=J0uQJH8EBlA
+
+8mantech - Google 搜索
+https://www.google.com/search?q=8mantech+&client=ubuntu-sn&hs=daD&sca_esv=0ba5b4315e0bd468&channel=fs&sxsrf=ADLYWIKNGsXoIhpzrBXz_ivtcRgGomUXKA%3A1729501412677&ei=5BgWZ-W5Jcukvr0P95LesQQ&ved=0ahUKEwjlu9nqjp-JAxVLkq8BHXeJN0YQ4dUDCA8&uact=5&oq=8mantech+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCThtYW50ZWNoIDIEECMYJzIIEAAYgAQYogQyCBAAGIAEGKIESOgVUNMTWNMTcAJ4AJABAJgByQGgAckBqgEDMi0xuAEDyAEA-AEBmAIDoALaAcICCxAAGIAEGLADGKIEmAMAiAYBkAYDkgcFMi4wLjGgB_kC&sclient=gws-wiz-serp
+
+austriancoder (Christian Gmeiner)
+https://github.com/austriancoder
+
+It All Started With a Nop - Part I | Christian Gmeiner
+https://christian-gmeiner.info/2024-07-11-it-all-started-with-a-nop-part1/
+
+Issues · rerun-io/rerun
+https://github.com/rerun-io/rerun/issues
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rerun%200.19&sort=byPopularity&type=story
+
+Encoded video, dataframe view and query API — Rerun
+https://rerun.io/blog/dataframe
+
+aosp.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(15) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
 bunpy - npm
 https://www.npmjs.com/package/bunpy
 

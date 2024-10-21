@@ -161,7 +161,7 @@ cvd start --start_webrtc=true
 export ANDROID_HOME=$HOME/Android/Sdk
 export ANDROID_NDK_HOME=$ANDROID_HOME/ndk/26.1.10909125/
 export PATH=$PATH:$ANDROID_HOME/cmdline-tools/latest/bin:$ANDROID_HOME/platform-tools
-adb connect localhost:6520
+adb -s 0.0.0.0:6520 shell
 
 ```
 
