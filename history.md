@@ -3,6 +3,174 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(15) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+(33) Gmod | Super Mario Odyssey Movement | Addon showcase - YouTube
+https://www.youtube.com/watch?v=gdj1rBxx5_A
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
+bunpy - npm
+https://www.npmjs.com/package/bunpy
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Element [11] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Desktop support (Electron replacement) · oven-sh/bun · Discussion #790
+https://github.com/oven-sh/bun/discussions/790
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun
+
+Android Internals jonathan levin youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Android+Internals+jonathan+levin+youtube
+
+(33) Android Internals Live - Session #1 - YouTube
+https://www.youtube.com/watch?v=5YxeAH34rpU
+
+(33) Building Compilers for AI Programming Frameworks | Prof. Uday Reddy Bondhugula | IICT 2024 - YouTube
+https://www.youtube.com/watch?v=-ZxDqcSCrhg
+
+(33) 24C3: Inside the Mac OS X Kernel - YouTube
+https://www.youtube.com/watch?v=-7GMHB3Plc8
+
+(33) Yonatan Levin. WTF with Android Background Restrictions. Mobile Fest 2018 - YouTube
+https://www.youtube.com/watch?v=QqVDvCG3Kck
+
+RazrFalcon/resvg: An SVG rendering library.
+https://github.com/RazrFalcon/resvg
+
+Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+(33) Android Automotive Architecture Explained in Detail 2023 - YouTube
+https://www.youtube.com/watch?v=KFf4IH4CQ48&list=PLAlSOSt8vS8Ss3uEshNXQe3cbx9qtl8m4&index=19
+
+Linux Kernel Exploit Development: 1day case study – Hacktive Security Blog
+https://blog.hacktivesecurity.com/index.php/2022/06/13/linux-kernel-exploit-development-1day-case-study/
+
+build gui with wasm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=build+gui+with+wasm
+
+Can you run GUI app with web assembly? : r/webdev
+https://www.reddit.com/r/webdev/comments/16b2i5r/can_you_run_gui_app_with_web_assembly/
+
+Drake_Stafford
+https://wavacity.com/
+
+(33) Have Young Japanese Given Up on Dating? | Street Interview - YouTube
+https://www.youtube.com/watch?v=J0uQJH8EBlA
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+dvirtz/modern-cpp: Slides for a course on Modern C++
+https://github.com/dvirtz/modern-cpp
+
+qwen2.5 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=qwen2.5
+
+Publication | Qwen
+https://qwenlm.github.io/publication/
+
+Qwen/Qwen2.5-14B-Instruct-GGUF at main
+https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-GGUF/tree/main
+
+quickjs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=quickjs
+
+LibNC: C Library for Tensor Manipulation
+https://bellard.org/libnc/
+
+TextSynth Server
+https://bellard.org/ts_server/?s=09
+
+TextSynth Server playground - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=TextSynth+Server+playground
+
+tinyemu - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tinyemu
+
+TinyEMU
+https://bellard.org/tinyemu/
+
+dearchap/tinyemu: TinyEMU is a system emulator for the RISC-V and x86 architectures. Its purpose is to be small and simple while being complete.
+https://github.com/dearchap/tinyemu
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=abrice%20Bellard%20--%20the%20programmer%20that%20makes%20John%20Carmack%20go%20%22whoa%2C%20slow%20down%20buddy%2C%20let%20the%20rest%20of%20us%20catch%20up%22.&op=translate
+
+fabrice bellard - Google 搜索
+https://www.google.com.hk/search?q=fabrice+bellard+&newwindow=1&client=ubuntu-sn&hs=SvB&sca_esv=0ba5b4315e0bd468&channel=fs&biw=1850&bih=968&ei=5_8VZ-7xEITTp84Pt47osAY&ved=0ahUKEwiugZuA956JAxWE6ckDHTcHGmY4ChDh1QMIDw&uact=5&oq=fabrice+bellard+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGZhYnJpY2UgYmVsbGFyZCBIyAtQlQpYlQpwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAcA&sclient=gws-wiz-serp
+
+Fabrice Bellard: Portrait of a Super-Productive Programmer (2011) | Hacker News
+https://news.ycombinator.com/item?id=32795067
+
+Justine Tunney - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Justine+Tunney
+
+jart/cosmopolitan: build-once run-anywhere c library
+https://github.com/jart/cosmopolitan
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Fabrice%20Bellard&sort=byPopularity&type=story
+
+Fabrice Bellard: Portrait of a super-productive programmer (2011) | Hacker News
+https://news.ycombinator.com/item?id=5187585
+
+LTE/NR Base Station Software
+https://bellard.org/lte/
+
+Julian Seward, - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Julian+Seward%2C
+
+Steve Wozniak - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Steve+Wozniak
+
+Dan Bernstein - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dan+Bernstein
+
+Asahi Linux - Google 搜索
+https://www.google.com.hk/search?q=Asahi+Linux&newwindow=1&client=ubuntu-sn&hs=7jr&sca_esv=0ba5b4315e0bd468&channel=fs&ei=LgcWZ8qiA-jdwN4PqYet0AY&ved=0ahUKEwjK8bn4_Z6JAxXoLtAFHalDC2oQ4dUDCA8&uact=5&oq=Asahi+Linux&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0FzYWhpIExpbnV4MgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSNQFULQEWLQEcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACB5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Asahi%20Linux&sort=byPopularity&type=story
+
+Rosenzweig – AAA gaming on Asahi Linux
+https://rosenzweig.io/blog/aaa-gaming-on-m1.html
+
+FEX-Emu/FEX: A fast usermode x86 and x86-64 emulator for Arm64 Linux
+https://github.com/FEX-Emu/FEX?tab=readme-ov-file
+
+Development:Setting up RootFS - FEX-Emu Wiki
+https://wiki.fex-emu.com/index.php/Development:Setting_up_RootFS
+
+Development:Setting up FEX - FEX-Emu Wiki
+https://wiki.fex-emu.com/index.php/Development:Setting_up_FEX
+
+Fedora Asahi Remix - Asahi Linux
+https://asahilinux.org/fedora/
+
+Apple GPU drivers now in Asahi Linux - Asahi Linux
+https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (15) Discord | #chinese | Bun
 https://discord.com/channels/876711213126520882/996381628702142485
 

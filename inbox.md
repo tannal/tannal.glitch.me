@@ -1,5 +1,9 @@
 # 2024-10-21 0 | 0
 
+sudo apt install qtdeclarative5-dev qt5-qmake qtbase5-dev qtbase5-dev-tools qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs
+
+CC=clang CXX=clang++ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release -DUSE_LINKER=lld -DENABLE_LTO=True -DBUILD_TESTS=False -DENABLE_ASSERTIONS=False -G Ninja -B build
+
 ffmpeg -hwaccel cuda -i input.mp4 -vf "subtitles=audio.wav.srt" -c:v h264_nvenc -preset p7 -tune hq -crf 23 -c:a copy output.mp4
 
 bash ./models/download-ggml-model.sh large-v3

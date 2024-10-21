@@ -1,4 +1,22 @@
 
+
+Fabrice Bellard: 文章的主角,一位非常有才华和高产的程序员。他的成就包括:
+开发了LTE/4G基站在PC上运行的软件
+打破了计算Pi值的速度记录
+开发了QEMU虚拟机
+创造了TCC (Tiny C Compiler)
+开发了FFmpeg多媒体框架
+Dan Bernstein: 另一位著名的程序员和密码学家,开发了无bug的软件。
+Ricardo Quesada: 开发了多个知名项目,如:
+Cocos2D for iPhone (流行的2D游戏引擎)
+Cocos2D的JavaScript和Python绑定
+SqueakNOS操作系统
+Julian Seward: 创造了bzip2压缩程序和Valgrind调试工具,参与了GHC (Glasgow Haskell Compiler)的开发。
+Steve Wozniak: 苹果公司联合创始人,被描述为性格好、不自负的天才。
+Andrew Tridgell: 开发了rsync、rzip和Samba等工具。
+Ilya Grigorik: 在Shopify担任杰出工程师,曾在Google工作,著有《High Performance Browser Networking》一书。
+
+
 尽管如此,这一想法有一些优缺点值得探讨:
 
 优点:
