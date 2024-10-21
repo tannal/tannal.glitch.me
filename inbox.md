@@ -1,5 +1,7 @@
 # 2024-10-21 0 | 0
 
+
+
 sudo apt install qtdeclarative5-dev qt5-qmake qtbase5-dev qtbase5-dev-tools qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs
 
 CC=clang CXX=clang++ cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release -DUSE_LINKER=lld -DENABLE_LTO=True -DBUILD_TESTS=False -DENABLE_ASSERTIONS=False -G Ninja -B build

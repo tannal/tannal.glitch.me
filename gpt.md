@@ -1,5 +1,51 @@
 
 
+Ilya Sutskever
+    现任OpenAI的首席科学家
+    在多伦多大学师从Hinton
+
+Yann LeCun
+    Facebook AI研究院的创始人和首席AI科学家
+    纽约大学教授
+    在多伦多大学做博士后时与Hinton共事
+
+Yoshua Bengio
+    蒙特利尔大学教授
+    蒙特利尔学习算法研究所(MILA)创始人
+    在麦吉尔大学读博时师从Hinton
+
+Ruslan Salakhutdinov
+    卡内基梅隆大学教授
+    曾任苹果公司AI研究主管
+    在多伦多大学师从Hinton
+
+Hugo Larochelle
+    Google Brain研究员
+    在舍布鲁克大学任教
+    在多伦多大学师从Hinton
+
+Alex Krizhevsky
+    ImageNet挑战赛的获胜者之一
+    AlexNet的创造者
+    在多伦多大学师从Hinton
+
+Roland Memisevic
+    Twenty Billion Neurons公司的联合创始人
+    在蒙特利尔大学任教
+    在多伦多大学师从Hinton
+
+Navdeep Jaitly
+    Google Brain研究科学家
+    在多伦多大学师从Hinton
+
+George Dahl
+    多伦多大学助理教授
+    在多伦多大学师从Hinton
+
+Abdel-rahman Mohamed
+    微软研究院研究员
+    在多伦多大学师从Hinton
+
 Fabrice Bellard: 文章的主角,一位非常有才华和高产的程序员。他的成就包括:
 开发了LTE/4G基站在PC上运行的软件
 打破了计算Pi值的速度记录
