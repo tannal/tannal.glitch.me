@@ -1,5 +1,7 @@
 # 2024-10-22 0 | 0
 
+
+
 export PATH=/home/a13/.fvm_flutter/bin/:$PATH
 
 curl -fsSL https://fvm.app/install.sh | bash

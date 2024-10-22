@@ -3,6 +3,144 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(23) Discord | #🧭user-help | Graphite
+https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [12] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+You've got 17 unread messages - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkWklfRdFQxLZSPXNpJJTKlf
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issues · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues?q=is%3Aissue+is%3Aopen+build
+
+Issues · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues
+
+2211.09124v3.pdf
+https://arxiv.org/pdf/2211.09124
+
+1604.08723v1.pdf
+https://arxiv.org/pdf/1604.08723
+
+Underwood (hornpipe) on The Session
+https://thesession.org/tunes/5677
+
+Durham Rangers (barndance) on The Session
+https://thesession.org/tunes/3376
+
+twitter api reverse - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+api+reverse
+
+the-convocation/twitter-scraper: A port of n0madic/twitter-scraper to Node.js.
+https://github.com/the-convocation/twitter-scraper
+
+ChatGGG
+http://192.168.43.1:8080/
+
+twitter unofficial api github - Google 搜索
+https://www.google.com.hk/search?q=twitter+unofficial+api+github&newwindow=1&client=ubuntu-sn&hs=6qY&sca_esv=3d49dca8ff2984e3&channel=fs&biw=1850&bih=968&ei=NFgXZ9LkHpW-kPIPoN3GgQk&oq=Twitter+api+gith&gs_lp=Egxnd3Mtd2l6LXNlcnAiEFR3aXR0ZXIgYXBpIGdpdGgqAggCMgUQABiABDIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyBhAAGAUYHkjOM1DLB1ihGHACeAGQAQGYAbgFoAGDHqoBCTItMy4zLjIuMrgBA8gBAPgBAZgCC6AC7hjCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBxAAGIAEGAzCAgcQABiABBgNwgIJEAAYgAQYChgMmAMAiAYBkAYKkgcJMi4wLjMuMy4zoAfnHw&sclient=gws-wiz-serp
+
+shaypal5/awesome-twitter-data: A list of Twitter datasets and related resources.
+https://github.com/shaypal5/awesome-twitter-data?tab=readme-ov-file
+
+xdevplatform/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints
+https://github.com/xdevplatform/Twitter-API-v2-sample-code
+
+Issues · d60/twikit
+https://github.com/d60/twikit/issues
+
+Twitter API Wrapper for Python without API Keys : r/Python
+https://www.reddit.com/r/Python/comments/1aj53tt/twitter_api_wrapper_for_python_without_api_keys/
+
+Code search results
+https://github.com/search?q=repo%3Ad60%2Ftwikit+Client%28language&type=code
+
+Get the Dart SDK | Dart
+https://dart.dev/get-dart#install
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+Issues · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/issues
+
+Pull request search results
+https://github.com/search?q=author%3Ajazelly+org%3Anodejs&type=pullrequests
+
+Installation – FVM
+https://fvm.app/documentation/getting-started/installation
+
+leoafarias/fvm: Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+https://github.com/leoafarias/fvm
+
+flutter version manager - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flutter+version+manager
+
+tannal (tannal)
+https://github.com/tannal/
+
+facebookresearch/lingua: Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+https://github.com/facebookresearch/lingua
+
+abc notation online player - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&sca_esv=31fc9eb8bb598b81&channel=fs&q=abc+notation+online+player&spell=1&sa=X&ved=2ahUKEwis0_Pm36GJAxWEC0QIHYWCLBEQBSgAegQIDhAB&biw=1850&bih=968&dpr=1
+
+ABC Player and Editor 2.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+rust playground - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+playground
+
+Rust Playground
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+
+dsound lib - Google 搜索
+https://www.google.com.hk/search?q=dsound+lib&newwindow=1&client=ubuntu-sn&hs=DHw&sca_esv=0a37820849624505&channel=fs&ei=koEXZ7b7GcOekPIP0vC4uQQ&ved=0ahUKEwi2jPLm5qGJAxVDD0QIHVI4LkcQ4dUDCA8&uact=5&oq=dsound+lib&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmRzb3VuZCBsaWIyBhAAGB4YDzIIEAAYChgeGA8yBhAAGAgYHjIIEAAYCBgeGA8yCBAAGAgYHhgPMggQABgKGB4YDzIGEAAYChgeMggQABgFGAoYHjIIEC4YCBgKGB4yCBAAGAgYHhgPSOoYUNMVWOIXcAB4AZABAJgBigOgAcQFqgEDMy0yuAEDyAEA-AEBmAICoALHBcICBRAAGIAEwgIIEAAYgAQYogSYAwCSBwMzLTKgB8oH&sclient=gws-wiz-serp
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (22) Discord | #🧭user-help | Graphite
 https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
 
@@ -116,6 +254,7 @@ https://github.com/trevorhobenshield/twitter-api-client/tree/main
 
 ChatGGG
 http://192.168.43.1:8080/
+
 
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
