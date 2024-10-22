@@ -594,11 +594,13 @@ apply
 
 [] 10-23
 [] Coffee Compiler Club 10-25
+[] fritter flutter 3.7.8 fvm lese
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [x] review https://android-review.googlesource.com/c/platform/art/+/3284463
 [x] 10-24 linebender office hour
 [] Where: https://meet.jit.si/ServoTriage.
-[] Original folk-rnn training and inference. Build App around it.
+[x] Original folk-rnn training and inference.
+    - [] .
 
 When: 10:00 AM GMT on October 28 2024 (Europe and Asia friendly, we can later alternate with a US friendly time if needed).
 What: any issue one wishes to triage.
