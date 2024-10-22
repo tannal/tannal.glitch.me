@@ -1,4 +1,17 @@
+# 2024-10-22 0 | 0
+
+mitmproxy --mode upstream:http://10.90.26.12:7890 -p 8083
+
+dumpsys package com.jonjomckay.fritter | grep userId=
+
+pm list packages | grep fritter
+
+iptables -t nat -A OUTPUT -p tcp -m owner --uid-owner 10270 -j DNAT --to-destination 10.106.146.44:8083
+iptables -t nat -D OUTPUT -p tcp -m owner --uid-owner 10270 -j DNAT --to-destination 10.106.146.44:8083
+
+
 # 2024-10-21 0 | 0
+
 
 nlnet
 

@@ -1,4 +1,24 @@
+Jeff Dean：Google的传奇工程师之一，现任Google AI的负责人。他在分布式系统和机器学习方面做出了重大贡献。
+Greg Corrado：Google的高级研究科学家，在机器学习和神经网络方面有重要贡献。
+Quoc Le：Google Brain团队的主要研究员，在深度学习领域有许多重要成果。
+Ilya Sutskever：OpenAI的联合创始人兼首席科学家，曾是Google Brain的研究科学家。
+Ian Goodfellow：生成对抗网络(GAN)的发明者，曾在Google和Apple工作，现在是Anthropic的员工。
+Michael Nielsen：量子计算领域的专家，也是深度学习和科学交流方面的知名作者。
+Yoshua Bengio：深度学习领域的先驱之一，蒙特利尔大学教授，图灵奖获得者。
+D3.js, MathJax, jQuery, three.js：这些是非常流行的JavaScript库，广泛用于数据可视化、数学公式渲染和web开发。
 
+Jeff Dean
+Greg Corrado
+Jon Shlens
+Matthieu Devin
+Andrew Dai
+Quoc Le
+Anelia Angelova
+Oriol Vinyals
+Ilya Sutskever
+Ian Goodfellow
+Jutta Degener
+Anna Goldie
 
 Ilya Sutskever
     现任OpenAI的首席科学家
