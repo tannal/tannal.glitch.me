@@ -611,8 +611,8 @@ Last meeting at #104
 [] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 [] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 
-[x] blog
-[x] blog
+[] blog
+[] blog
 [] blog
 
 [] yundong fuwocheng
@@ -623,9 +623,9 @@ Last meeting at #104
 [] Be good at solving puzzles for code interview
 [] Be good at solving puzzles for code interview
 
-[x] Be a pianist play piano
-[x] Be a pianist play piano
-[x] Be a pianist play piano
+[] Be a pianist play piano
+[] Be a pianist play piano
+[] Be a pianist play piano
 
 [] Do less day
 
