@@ -1,3 +1,161 @@
+# 2024-10-23
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(27) Discord | #🧭user-help | Graphite
+https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [12] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+You've got 17 unread messages - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkWklfRdFQxLZSPXNpJJTKlf
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(35) Tutorials How To Play Chained Together Multiplayer Online Fix Game version: 1.8.2 Step Step Gameplay - YouTube
+https://www.youtube.com/watch?v=9kP5iBFEcJw
+
+Implement `VerticalList` widget · Issue #607 · linebender/xilem
+https://github.com/linebender/xilem/issues/607
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Text layout is a loose hierarchy of segmentation | Raph Levien’s blog
+https://raphlinus.github.io/text/2020/10/26/text-layout.html
+
+The compositor is evil | Raph Levien’s blog
+https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html
+
+Swapchains and frame pacing | Raph Levien’s blog
+https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html
+
+Implement Hardware Composer HAL  |  Android Open Source Project
+https://source.android.com/docs/core/graphics/implement-hwc
+
+ui/gl/direct_composition_surface_win.cc - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/b6d0e4eb43481c191e0189025820bea8f87c7049/ui/gl/direct_composition_surface_win.cc
+
+Blur Busters Lagless VSYNC ON Algorithm For Emulators: True Beam Racing | Blur Busters
+https://blurbusters.com/blur-busters-lagless-raster-follower-algorithm-for-emulator-developers/
+
+Careers - Open Source Consulting | Collabora
+https://www.collabora.com/careers.html
+
+Collabora - Linux Kernel Developer - Core Kernel (Remote/Anywhere)
+https://jobs.lever.co/collabora/3f822c30-d5d0-4ea0-80ac-db50aded0132
+
+Home - KernelCI Foundation
+https://kernelci.org/
+
+KernelCI
+https://github.com/kernelci/
+
+Collabora - Senior C++ Software Engineer (Remote/Anywhere)
+https://jobs.lever.co/collabora/afb6f2ea-9c39-498c-863c-82764ea247a0
+
+Sway
+https://github.com/swaywm
+
+Text Rendering Hates You - Faultlore
+https://faultlore.com/blah/text-hates-you/
+
+Requirements for Japanese Text Layout 日本語組版処理の要件（日本語版）
+https://www.w3.org/TR/jlreq/
+
+[HarfBuzz] HarfBuzz-driven font fallback in Chrome
+https://lists.freedesktop.org/archives/harfbuzz/2015-October/005168.html
+
+Issue 1397423004: Improve shaping segmentation for grapheme cluster based font fallback - Code Review
+https://codereview.chromium.org/1397423004/#ps20001
+
+Code page 437 - Wikipedia
+https://en.wikipedia.org/wiki/Code_page_437
+
+Fonts and Layout for Global Scripts
+https://simoncozens.github.io/fonts-and-layout/
+
+SIGGRAPH 2018 - Digital typography | PPT
+https://www.slideshare.net/slideshow/siggraph-2018-digital-typography/110385070
+
+mrandri19 (mrandri19) / Repositories
+https://github.com/mrandri19?tab=repositories
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=coarsest%20&op=translate
+
+mutter compositor github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mutter+compositor+github
+
+mutter/src/core/display.c at 7f624800bf557d66136163c1a1e662c95ec3fbef · GNOME/mutter
+https://github.com/GNOME/mutter/blob/7f624800bf557d66136163c1a1e662c95ec3fbef/src/core/display.c
+
+GNOME / mutter · GitLab
+https://gitlab.gnome.org/GNOME/mutter
+
+discord flutter github - Google 搜索
+https://www.google.com.hk/search?q=discord+flutter+github&newwindow=1&client=ubuntu-sn&hs=Bdd&sca_esv=59de4d94fc229621&channel=fs&ei=6Z8XZ8rrMvDUkPIPtsSn-As&ved=0ahUKEwiKhNfeg6KJAxVwKkQIHTbiCb8Q4dUDCA8&uact=5&oq=discord+flutter+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmRpc2NvcmQgZmx1dHRlciBnaXRodWIyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEi4K1CkGlj4KHACeAGQAQGYAfEDoAGuGqoBBzItMS42LjK4AQPIAQD4AQGYAgSgApAGwgIKEAAYsAMY1gQYR8ICBxAAGIAEGA3CAgYQABgHGB6YAwCIBgGQBgmSBwkyLjAuMS4wLjGgB5wZ&sclient=gws-wiz-serp
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+Make `PlainEditor` sufficient for current Masonry text editing use cases. · Issue #131 · linebender/parley
+https://github.com/linebender/parley/issues/131
+
+create t3 app - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=create+t3+app
+
+citeme benchmark - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=citeme+benchmark
+
+bethgelab/CiteME: CiteME is a benchmark designed to test the abilities of language models in finding papers that are cited in scientific texts.
+https://github.com/bethgelab/CiteME
+
+srinivasa ramanujan - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=srinivasa+ramanujan
+
+斯里尼瓦瑟·拉馬努金 - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/%E6%96%AF%E9%87%8C%E5%B0%BC%E7%93%A6%E7%91%9F%C2%B7%E6%8B%89%E9%A9%AC%E5%8A%AA%E9%87%91
+
 # 2024-10-22
 
 Sign in to GitHub · GitHub
