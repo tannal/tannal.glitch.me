@@ -1,3 +1,164 @@
+# 2024-10-22
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(16) Discord | #🧭user-help | Graphite
+https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [12] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Deprecating Excalidraw Electron in favor of the Web version | Excalidraw Blog
+https://blog.excalidraw.com/deprecating-excalidraw-electron/
+
+Browse - Database of Databases
+https://dbdb.io/browse?programming=rust
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Use Cases, Tutorials, & Documentation | Twitter Developer Platform
+https://developer.x.com/en
+
+Authentication — tweepy 4.14.0 documentation
+https://docs.tweepy.org/en/latest/authentication.html#twitter-api-v2
+
+Starting February 9, we will no longer support free access to the Twitter API | Hacker News
+https://news.ycombinator.com/item?id=34622788
+
+loynoir
+https://github.com/loynoir
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Geometric%20structures%20on%20manifolds&op=translate
+
+LibWeb/CSS: Properties that don't support `calc()` but should · Issue #1812 · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/issues/1812
+
+使用Meta的客户端 | Clash.Meta Wiki-older
+https://clash-meta.gitbook.io/clash.meta-wiki-older/used
+
+Chained Together 下载
+https://koyso.com/game/907?l=schinese
+
+(34) Tutorials How To Play Chained Together Multiplayer Online Fix Game version: 1.8.2 Step Step Gameplay - YouTube
+https://www.youtube.com/watch?v=9kP5iBFEcJw
+
+Recording the videos · Issue #1 · boblsturm/aimusicstudies2024
+https://github.com/boblsturm/aimusicstudies2024
+
+Issue search results
+https://github.com/search?q=author%3Ahecrj&type=issues
+
+Get TAGS – TAGS
+https://tags.hawksey.info/get-tags/
+
+Issues · versotile-org/verso
+https://github.com/versotile-org/verso/issues
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+Fabrice Bellard GitHub - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&hs=ACz&sca_esv=abe1209c8be175c1&channel=fs&sxsrf=ADLYWIJlLO6WkwIKL8UqCODG7PzXn2NNTQ:1729525525048&q=Fabrice+Bellard+GitHub&sa=X&ved=2ahUKEwjjsrPU6J-JAxUubPUHHbJWLq4Q1QJ6BAgpEAE&biw=1850&bih=968
+
+z101/tcc: Fabrice Bellard's tiny C compiler
+https://github.com/z101/tcc
+
+mufeed vh on X: "Fabrice Bellard just followed the creator of RWKV on GitHub. I will be reading into this a bit too much, thanks. AGI soon? https://t.co/P890FhUqLM" / X
+https://x.com/mufeedvh/status/1760054029751644647
+
+Fabrice Bellard：一个人抵得上一个百人团队-CSDN博客
+https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/118425259
+
+Crypto Hashes and Collisions | Practical Cryptography for Developers
+https://cryptobook.nakov.com/cryptographic-hash-functions/crypto-hashes-and-collisions
+
+Vue Fes Japan 2024
+https://vuefes.jp/2024/en
+
+Bill Goldman's Home Page
+https://math.umd.edu/~wmg/
+
+2024年最佳Linux Twitter客户端四选 - HaHaGood
+https://hahagood.com/post/2024/03/20240306223547-best_twitter_clients_for_linux_in_2024/
+
+KDE/choqok: Microblogging client by KDE
+https://github.com/KDE/choqok?via=tecmint
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bellard.org&sort=byPopularity&type=story
+
+TinyGL : a Small, Free and Fast Subset of OpenGL*
+https://bellard.org/TinyGL/
+
+LTE/NR Base Station Software
+https://bellard.org/lte/
+
+LTE/NR Base Station Software github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=LTE%2FNR+Base+Station+Software+github
+
+srsRAN
+https://github.com/srsran
+
+srsRAN 4G 23.11 Documentation — srsRAN 4G 23.11 documentation
+https://docs.srsran.com/projects/4g/en/latest/
+
+Internet Archive - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Internet+Archive
+
+JSLinux
+https://bellard.org/jslinux/vm.html?cpu=riscv64&url=buildroot-riscv64-xwin.cfg&graphic=1&mem=256
+
+rwkv - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rwkv
+
+BlinkDL/RWKV-LM: RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
+https://github.com/BlinkDL/RWKV-LM
+
 # 2024-10-21
 
 Chromium-dev - Google 群组
