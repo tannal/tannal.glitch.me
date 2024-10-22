@@ -3,6 +3,123 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(22) Discord | #🧭user-help | Graphite
+https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [12] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+fritter/lib/subscriptions/_import.dart at a42e370ca97bc9263a2b184da6d6b4982ef0532f · jonjomckay/fritter
+https://github.com/jonjomckay/fritter/blob/a42e370ca97bc9263a2b184da6d6b4982ef0532f/lib/subscriptions/_import.dart#L138
+
+colah (colah) / Repositories
+https://github.com/colah?tab=repositories
+
+Greg Corrado - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Greg+Corrado
+
+About Me - colah's blog
+https://colah.github.io/about.html
+
+Quoc Le - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Quoc+Le
+
+Ian Goodfellow - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ian+Goodfellow
+
+tannal (tannal)
+https://github.com/tannal/
+
+Composing and Decomposing Op-Based CRDTs with Semidirect Products - 2004.04303v1.pdf
+https://arxiv.org/pdf/2004.04303
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Issue search results
+https://github.com/search?q=repo%3Ajonjomckay%2Ffritter+flutter+version&type=issues
+
+TWITTER_BEARER_TOKEN - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=TWITTER_BEARER_TOKEN
+
+Example of how to generate and use a Twitter bearer token for the purpose of performing application-only authentication for the Twitter API
+https://gist.github.com/Xyncgas/2ad605b2667bb6d4d6b9770119fdb9c0
+
+mitmproxy
+https://github.com/mitmproxy
+
+elazarl/goproxy: An HTTP proxy library for Go
+https://github.com/elazarl/goproxy
+
+MagiskTrustUserCerts - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MagiskTrustUserCerts
+
+Android 11 · Issue #35 · NVISOsecurity/MagiskTrustUserCerts
+https://github.com/NVISOsecurity/MagiskTrustUserCerts/issues/35
+
+twitter api reverse engi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=twitter+api+reverse+engi
+
+zmovane/reX: Reverse Engineered Twitter's API
+https://github.com/zmovane/reX
+
+Show HN: Twitter API Reverse Engineered | Hacker News
+https://news.ycombinator.com/item?id=35548778
+
+trevorhobenshield/twitter-api-client: Implementation of X/Twitter v1, v2, and GraphQL APIs
+https://github.com/trevorhobenshield/twitter-api-client/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (16) Discord | #🧭user-help | Graphite
 https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
 
