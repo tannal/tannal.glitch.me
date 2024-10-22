@@ -1,5 +1,107 @@
 # 2024-10-22
 
+Sign in to GitHub · GitHub
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fauth%2Fgithub_editor%3Fredirect%3D%252Ftannal%252Ftannal.glitch.me%26requestId%3D35712125-c18e-496a-bc27-228cdba02303
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&newwindow=1&sca_esv=42a48887cea6b7f2&source=lnms&sa=X&ved=2ahUKEwjqx5i6xYeJAxWyLEQIHSUTJ24Q0pQJegQIBhAD&biw=1280&bih=559&dpr=1.5
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&newwindow=1&sca_esv=9c1db43462cf1df4&ei=Xf0MZ5inAZOJkPIP-pyGyAs&ved=0ahUKEwjYyZKo342JAxWTBEQIHXqOAbkQ4dUDCA8&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iHCVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAImmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+http://web.fscloud.cc/#/invite
+
+Yibo Zhu - 知乎
+https://www.zhihu.com/people/yibozhu
+
+财经数据 _ 工业品出厂价格指数(PPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/ppi.html
+
+国内大模型 claude3 - Google 搜索
+https://www.google.com.hk/search?q=%E5%9B%BD%E5%86%85%E5%A4%A7%E6%A8%A1%E5%9E%8B+claude3+&newwindow=1&sca_esv=0ddce2aac02c1925&ei=-9YLZ9H4Kt_GkPIPxJPtmQY&ved=0ahUKEwiR4ojJxouJAxVfI0QIHcRJO2MQ4dUDCA8&uact=5&oq=%E5%9B%BD%E5%86%85%E5%A4%A7%E6%A8%A1%E5%9E%8B+claude3+&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOWbveWGheWkp-aooeWeiyBjbGF1ZGUzIDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFIyixQygxYkyRwAXgBkAEAmAGMBaABwyqqAQoyLTIuMTEuMC4yuAEDyAEA-AEB-AECmAILoAKQH8ICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQHCAgcQABiABBgMmAMAiAYBkAYJugYGCAEQARgUkgcLMS4wLjEuNi4yLjGgB8FO&sclient=gws-wiz-serp
+
+Claude3出了，中国AI还有希望吗？-36氪
+https://36kr.com/p/2698507627378561
+
+智谱AI - Google 搜索
+https://www.google.com.hk/search?q=%E6%99%BA%E8%B0%B1AI&oq=%E6%99%BA%E8%B0%B1AI&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxODU5ajBqOagCALACAQ&sourceid=chrome&ie=UTF-8
+
+中国人均gdp - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9D%87gdp&oq=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9D%87gdp&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDRg5GIAEMgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIJCAkQABgNGIAE0gEIODg2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+中国 | 人均国内生产总值 | 1957 – 2024 | 经济指标 | CEIC | 人均GDP | 人均国内生产总值 | 经济指标CEIC
+https://www.ceicdata.com/zh-hans/indicator/china/gdp-per-capita
+
+Idavidrein/gpqa · Datasets at Hugging Face
+https://huggingface.co/datasets/Idavidrein/gpqa/viewer/gpqa_diamond/train?p=1
+
+huggingface.co/datasets/Idavidrein/gpqa/raw/main/gpqa_main.csv
+https://huggingface.co/datasets/Idavidrein/gpqa/raw/main/gpqa_main.csv
+
+My Account | Subscription | Frontend Masters
+https://frontendmasters.com/my-account/subscription/
+
+login.mozilla.com
+https://login.mozilla.com/
+
+Mozilla Corporation/Foundation Password Changes
+https://passwordreset.mozilla.org/
+
+login.mozilla.com
+https://login.mozilla.com/
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/#location-stallet-stallgatan-7-stockholm-t-kungstr%C3%A4dg%C3%A5rden
+
+Stockholm, Sweden - Google 搜索
+https://www.google.com.hk/search?q=Stockholm%2C+Sweden&oq=Stockholm%2C+Sweden&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQgzODkzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+sunoai - Google 搜索
+https://www.google.com.hk/search?q=sunoai&oq=sunoai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgATSAQgxODg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Atlas – New Business – Stripe [Test]
+https://dashboard.stripe.com/atlas/verify
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Stripe Atlas
+https://checkout.stripe.com/c/pay/cs_live_a1AApXV5V1xMW7lBL0AuNNSAP3vfJsY6N3yOUxrH40D2kvMIwa4ruIMiOw#fidkdWxOYHwnPyd1blppbHNgWk5vZ3xgYWhpQ21rUTZyMkRTNEBhcEJnaCcpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+
+Stripe Atlas 限制业务类别 : Stripe: 帮助与支持
+https://support.stripe.com/questions/stripe-atlas-restricted-business-categories
+
+长春市南关区净月大街2555 邮编 - Google 搜索
+https://www.google.com.hk/search?q=%E9%95%BF%E6%98%A5%E5%B8%82%E5%8D%97%E5%85%B3%E5%8C%BA%E5%87%80%E6%9C%88%E5%A4%A7%E8%A1%972555+%E9%82%AE%E7%BC%96&oq=%E9%95%BF%E6%98%A5%E5%B8%82%E5%8D%97%E5%85%B3%E5%8C%BA%E5%87%80%E6%9C%88%E5%A4%A7%E8%A1%972555+%E9%82%AE%E7%BC%96&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCTIyMDk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+link 中国大陆注册？ - Google 搜索
+https://www.google.com.hk/search?q=link+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B3%A8%E5%86%8C%EF%BC%9F&oq=link+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B3%A8%E5%86%8C%EF%BC%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCDg5OTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Project IDX
+https://idx.google.com/new/flutter
+
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
