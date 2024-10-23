@@ -3,6 +3,180 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(22) Discord | #general | Bun
+https://discord.com/channels/876711213126520882/876711213126520885
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [9] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+⚙ D225693 Bug 1924803 - Remove warning when CSS zoom is used
+https://phabricator.services.mozilla.com/D225693
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+INSTALL.md · master · Inkscape / inkscape · GitLab
+https://gitlab.com/inkscape/inkscape/-/blob/master/INSTALL.md
+
+Inkscape - Draw Freely. | Inkscape
+https://inkscape.org/
+
+Raph Levien · GraphiteEditor/Graphite · Discussion #1615
+https://github.com/GraphiteEditor/Graphite/discussions/1615
+
+SD3.5-large (8B) support · Issue #442 · leejet/stable-diffusion.cpp
+https://github.com/leejet/stable-diffusion.cpp/issues/442
+
+SYSTRAN/faster-whisper: Faster Whisper transcription with CTranslate2
+https://github.com/SYSTRAN/faster-whisper
+
+deezer/spleeter: Deezer source separation library including pretrained models.
+https://github.com/deezer/spleeter
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+Continuing unfinished work — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/continuing-unfinished-work.html
+
+outgoing_webhook: Separate command and text fields. by salandei · Pull Request #29922 · zulip/zulip
+https://github.com/zulip/zulip/pull/29922
+
+saved_replies: Add new feature for saved replies. by Vector73 · Pull Request #31359 · zulip/zulip
+https://github.com/zulip/zulip/pull/31359/files
+
+mnist visualization - Google 搜索
+https://www.google.com.hk/search?q=mnist+visualization&newwindow=1&client=ubuntu-sn&hs=UKp&sca_esv=8a44ed1edae166f5&channel=fs&ei=kk8YZ-zgB7HOkPIPjoPG4A4&oq=EMNIST+visula&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUVNTklTVCB2aXN1bGEqAggAMgcQABiABBgNMgYQABgNGB4yBhAAGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGIAEGKIEMggQABgIGA0YHjIIEAAYCBgNGB5IhxpQqQtYnRRwAXgBkAEAmAGnA6AB0hCqAQcyLTUuMS4xuAEDyAEA-AEBmAIIoAKQEcICChAAGLADGNYEGEfCAgcQABiABBgKwgIFEAAYgATCAgkQABiABBgKGA3CAgoQABgIGAoYDRgemAMAiAYBkAYKkgcJMS4wLjUuMS4xoAfnHA&sclient=gws-wiz-serp
+
+Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+Kernel tricks and nonlinear dimensionality reduction via RBF kernel PCA
+https://sebastianraschka.com/Articles/2014_kernel_pca.html
+
+How did you visualize the Superpixel MNIST? · Issue #320 · pyg-team/pytorch_geometric
+https://github.com/pyg-team/pytorch_geometric/issues/320
+
+Your figures are *too* good · Issue #19 · colah/colah.github.io
+https://github.com/colah/colah.github.io/issues/19
+
+About Me - colah's blog
+http://localhost:8081/about.html
+
+greghendershott/frog: Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
+https://github.com/greghendershott/frog
+
+1 Getting Started
+https://docs.racket-lang.org/scribble/getting-started.html#%28part._first-example%29
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Chromium DevTools Docs - Get the Code: Checkout and Build Chromium DevTools front-end
+https://chromium.googlesource.com/devtools/devtools-frontend/+/main/docs/get_the_code.md
+
+lanntai/tutorial
+https://github.com/lanntai/tutorial
+
+github app flutter github - Google 搜索
+https://www.google.com.hk/search?q=github+app+flutter+github&newwindow=1&client=ubuntu-sn&sca_esv=8a44ed1edae166f5&channel=fs&ei=HmAYZ6q8GuS6kPIPm6eRoAg&ved=0ahUKEwiqw6GFu6OJAxVkHUQIHZtTBIQQ4dUDCA8&uact=5&oq=github+app+flutter+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWdpdGh1YiBhcHAgZmx1dHRlciBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdInhRQ4Q5YwBNwAngBkAEAmAGlAqAByQSqAQMyLTK4AQPIAQD4AQGYAgKgAgmYAwCIBgGQBgqSBwEyoAfMBw&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=github+client+app+language%3Adart&type=repositories&s=updated&o=desc
+
+sheat-git (sheat)
+https://github.com/sheat-git
+
+Graphite/libraries/bezier-rs/src/symmetrical_basis.rs at c3a3c4c907419e2ebb9a382546a1d7b66f57cdc0 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/blob/c3a3c4c907419e2ebb9a382546a1d7b66f57cdc0/libraries/bezier-rs/src/symmetrical_basis.rs#L18
+
+python in browser github - Google 搜索
+https://www.google.com.hk/search?q=python+in+browser+github&newwindow=1&client=ubuntu-sn&hs=gxV&sca_esv=8a44ed1edae166f5&channel=fs&ei=EGMYZ8niO5qekPIP4pecQQ&ved=0ahUKEwjJqoftvaOJAxUaD0QIHeILJwgQ4dUDCA8&uact=5&oq=python+in+browser+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGHB5dGhvbiBpbiBicm93c2VyIGdpdGh1YjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCki6D1CoCFiuDnABeAGQAQCYAe4CoAHjDKoBBTItMS40uAEDyAEA-AEBmAIGoAKEDcICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgeGA_CAggQABgTGAUYHsICBRAhGKABmAMAiAYBkAYKkgcFMS4zLTWgB_YP&sclient=gws-wiz-serp
+
+audio editor wasm in brower - Google 搜索
+https://www.google.com.hk/search?q=audio+editor+wasm+in+brower&newwindow=1&client=ubuntu-sn&hs=jLs&sca_esv=134127add3b21746&channel=fs&ei=6nwYZ-P4FN_QkPIP9ZuxwAM&ved=0ahUKEwjjlbvA1qOJAxVfKEQIHfVNDDgQ4dUDCA8&uact=5&oq=audio+editor+wasm+in+brower&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2F1ZGlvIGVkaXRvciB3YXNtIGluIGJyb3dlcjIKECEYoAEYwwQYCjIKECEYoAEYwwQYCkjPH1CXA1iGHnACeAGQAQCYAd8CoAGxG6oBBjItMTEuMbgBA8gBAPgBAZgCBKAC0gTCAgoQABiwAxjWBBhHwgIIEAAYgAQYogSYAwDiAwUSATEgQIgGAZAGCpIHBTIuMC4yoAfeLQ&sclient=gws-wiz-serp
+
+test
+https://wavacity.com/
+
+红尘客栈-ddd2315d.flac
+https://jayge.netlify.app/assets/%E7%BA%A2%E5%B0%98%E5%AE%A2%E6%A0%88-ddd2315d.flac
+
+(22) Discord | #general | sphaerophoria's server
+https://discord.com/channels/1177391512670191676/1177391513962033234/1296490108303966239
+
+Paulo-D2000/imrisc: RV32I(M) Emulator written in C
+https://github.com/Paulo-D2000/imrisc/
+
+jeffmahoney (Jeff Mahoney)
+https://github.com/jeffmahoney
+
+mandelbrot set - Google 搜索
+https://www.google.com.hk/search?q=mandelbrot+set&newwindow=1&client=ubuntu-sn&hs=vXY&sca_esv=afa6f46ee3e11409&channel=fs&ei=34kYZ4r5MLuekPIPodDLiAE&oq=manle+set&gs_lp=Egxnd3Mtd2l6LXNlcnAiCW1hbmxlIHNldCoCCAAyCBAAGAcYChgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIKEAAYBRgHGAoYHjIKEAAYBRgHGAoYHjIIEAAYBRgHGB4yCBAAGAUYBxgeMggQABgHGAgYHkiJHlCjE1jlFXABeACQAQCYAaICoAGhBqoBAzItM7gBA8gBAPgBAZgCAqACrgLCAgsQABiABBiwAxiiBJgDAIgGAZAGBJIHBTEuMC4xoAeUCA&sclient=gws-wiz-serp
+
+Gosub でのパスワードリセットリクエスト - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkXtGmWsMWmWTfftVFwZSsWP
+
+New password successfully set | Zulip
+https://chat.developer.gosub.io/accounts/password/done/
+
+Kiyoshika (Zach Weaver)
+https://github.com/Kiyoshika
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (27) Discord | #🧭user-help | Graphite
 https://discord.com/channels/731730685944922173/1134981447539761273/1297969529502302309
 
