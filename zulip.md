@@ -1,6 +1,9 @@
 
 # dev 
 
+./tools/test-js-with-puppeteer settings.test.ts
+./tools/test-all
+./tools/test-backend --rerun
 
 Zulip使用RabbitMQ作为消息队列系统来处理异步任务和实现组件间通信。以下是Zulip使用RabbitMQ的核心过程和相关源码解析：
 
