@@ -3,6 +3,126 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(24) Discord | #libc | LLVM
+https://discord.com/channels/636084430946959380/636732994891284500
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [12] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+…/layout_table.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813/1/third_party/blink/renderer/core/layout/table/layout_table.cc#b235
+
+(36) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=238s
+
+test
+https://wavacity.com/
+
+emilk (Emil Ernerfeldt)
+https://github.com/emilk
+
+Code search results
+https://github.com/search?q=org%3Aservo%20egui&type=code
+
+Fernando J. Corbató - Google 搜索
+https://www.google.com.hk/search?q=Fernando+J.+Corbat%C3%B3&newwindow=1&client=ubuntu-sn&hs=Ll0&sca_esv=b8f7a68888e6939d&channel=fs&ei=PvsYZ4XhDu3DkPIP8ru9-AY&ved=0ahUKEwiF-Kn9zqSJAxXtIUQIHfJdD28Q4dUDCA8&uact=5&oq=Fernando+J.+Corbat%C3%B3&gs_lp=Egxnd3Mtd2l6LXNlcnAiFEZlcm5hbmRvIEouIENvcmJhdMOzMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSPYFUNIDWNIDcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACCJgDAOIDBRIBMSBAiAYBkAYIkgcBMaAHAA&sclient=gws-wiz-serp
+
+Jerome H. Saltzer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Jerome+H.+Saltzer
+
+Principles of Computer System Design: An Introduction: Saltzer, Jerome H., Kaashoek, M. Frans: 9780123749574: Amazon.com: Books
+https://www.amazon.com/Principles-Computer-System-Design-Introduction/dp/0123749573
+
+Pull requests · llvm/llvm-project
+https://github.com/llvm/llvm-project/pulls
+
+Contributors to llvm/llvm-project
+https://github.com/llvm/llvm-project/graphs/contributors?from=10%2F21%2F2023
+
+Issue search results
+https://github.com/search?q=author%3Atopperc&type=issues
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/query/2Ub3lcFBdbo_/#R
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1924340 - Remove network.url.strict_data_url_base64_placement pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924340
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+Parser | The JavaScript Oxidation Compiler
+https://oxc.rs/docs/learn/parser_in_rust/parser.html#typescript
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (23) Discord | #general | Bun
 https://discord.com/channels/876711213126520882/876711213126520885
 

@@ -1,6 +1,7 @@
 
-
 # 2024-10-23 0 | 0
+
+python -m http.server 6969
 
 sudo apt install \
     libgsl-dev \
