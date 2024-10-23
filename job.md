@@ -592,6 +592,8 @@ apply
 
 ## TODO
 
+[] yong gihtub issues he qita public api ganfan weixin gongzhonghao
+    flutter kehuduan t
 [] 10-23
 [] Coffee Compiler Club 10-25
 [] fritter flutter 3.7.8 fvm lese
