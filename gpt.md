@@ -1,5 +1,32 @@
 
 
+Based on the content provided and your question about notable figures and achievements in protein docking, here are some key points:
+
+1. 历史重要人物：
+- Cyrus Levinthal - 1960年代首次提出蛋白质折叠问题
+- Ruth Nussinov - 开发了第一个系统性的蛋白质-蛋白质对接算法
+- Martin Karplus - 发展分子动力学模拟方法,获2013年诺贝尔化学奖
+- David Baker - Rosetta对接程序的开发者
+
+2. 重要成果：
+- AutoDock - 最早的自动化对接软件之一
+- HADDOCK - 整合实验数据的对接方法
+- RosettaDock - 基于Monte Carlo的对接算法
+- AlphaFold - DeepMind开发的革命性蛋白质结构预测工具
+- 你提到的KaiC蛋白研究就是一个很好的例子,展示了对接技术在研究蛋白质复合物中的应用
+
+3. 近期发展：
+- 深度学习在蛋白质对接中的应用
+- 整合cryo-EM等实验数据
+- 预测蛋白质复合物的结构和相互作用
+
+4. 未来趋势：
+- 将单体预测扩展到多聚体结构预测
+- 提高对接精度和计算效率 
+- 更好地整合实验数据和计算预测
+
+我可以根据您的兴趣进一步详细介绍任何特定方面。您想了解哪个方面的更多细节?
+
 有关DNA结构数据的组织和分析，以下是一些重要的机构和数据库：
 
 1. 主要数据库和组织：
