@@ -18,3 +18,4 @@ cd devtools-frontend
 gclient sync
 gn gen out/Default
 autoninja -C out/Default
+
