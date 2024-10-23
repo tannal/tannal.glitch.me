@@ -2,6 +2,8 @@
 
 # 2024-10-23 0 | 0
 
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
 真正难的问题很少人去尝试解决的，被人研究过的问题大部分都很弱
 
 你不应该怀疑你不知道的事情？你只能选择相信他？
