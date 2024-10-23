@@ -1,4 +1,79 @@
 
+对分子对接领域的 Rosetta Docking 的现代开源替代方案：
+
+主要替代品：
+
+1. AutoDock Vina
+- 最广泛使用的开源对接软件
+- 性能优秀，速度快
+- 支持柔性对接
+- 易于使用的命令行界面
+
+2. PLANTS (Protein-Ligand ANT System)
+- 基于蚁群算法的分子对接
+- 开源且免费使用
+- 准确度较高
+
+3. rDock
+- 原 RiboDock 的开源版本
+- 支持蛋白质-配体、蛋白质-蛋白质对接
+- 高度可配置
+
+4. HADDOCK
+- 专注于蛋白质-蛋白质对接
+- 支持多体对接
+- 考虑生物学和生化数据
+
+5. OpenBabel + PyRx
+- 开源的虚拟筛选工具
+- 集成多个对接引擎
+- 用户友好的图形界面
+
+比较优势：
+- AutoDock Vina：通用性强，速度快
+- PLANTS：准确度高，适合精确对接
+- rDock：灵活性好，可深度定制
+- HADDOCK：蛋白质复合物预测优秀
+
+需要特定应用场景的详细建议吗？
+
+开源社区已经开发了多个 Rosetta 的现代替代方案：
+
+主要替代品：
+
+1. RetroArch + Libretro
+- 最流行的模拟器前端
+- 支持多平台、多架构
+- 活跃的开发和社区
+
+2. Box86/Box64
+- x86/x64 到 ARM 的动态翻译器
+- 专注于 Linux 应用程序兼容性
+- 性能良好，持续更新
+
+3. FEX-Emu 
+- x86/x64 模拟器和运行时
+- 支持 Linux 主机系统
+- 开发活跃，性能优化
+
+4. WINE + Proton
+- Windows 应用程序兼容层
+- 支持跨平台运行
+- 由 Valve 等商业公司支持
+
+5. Darling
+- macOS 兼容层for Linux
+- 类似 WINE 的架构
+- 仍在开发中
+
+选择建议：
+- 游戏模拟：RetroArch
+- Linux ARM 设备运行 x86 程序：Box86/Box64
+- 通用 x86 模拟：FEX-Emu
+- Windows 程序：WINE/Proton 
+
+需要更详细的信息或特定场景建议吗？
+
 
 Based on the content provided and your question about notable figures and achievements in protein docking, here are some key points:
 

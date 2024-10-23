@@ -3,6 +3,141 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(23) Discord | #general | Bun
+https://discord.com/channels/876711213126520882/876711213126520885
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+⚙ D225693 Bug 1924803 - Remove warning when CSS zoom is used
+https://phabricator.services.mozilla.com/D225693
+
+LinuxのZulipからの新しいログイン - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkXtGmXCRJPBDxJGPClcXQrT
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+wavacity github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wavacity+github
+
+Issues · ahilss/wavacity
+https://github.com/ahilss/wavacity/issues
+
+ahilss
+https://github.com/ahilss
+
+Wavacity – a FOSS port of Audacity to the web | Hacker News
+https://news.ycombinator.com/item?id=37356497
+
+ahilss/wxWidgets-wasm: Read-only mirror of the wxWidgets SVN repo (automatically updated). Report issues here: http://trac.wxwidgets.org/
+https://github.com/ahilss/wxWidgets-wasm
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Typehint for AnnotationContext not accepting tuple with varying lengths despite working fine · Issue #4570 · rerun-io/rerun
+https://github.com/rerun-io/rerun/issues/4570
+
+protein - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=protien#fpr=r
+
+alphafold3 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=alphafold3
+
+kyegomez/AlphaFold3: Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
+https://github.com/kyegomez/AlphaFold3
+
+AlphaFold reveals the structure of the protein universe | Hacker News
+https://news.ycombinator.com/item?id=32262856
+
+Orphan gene - Wikipedia
+https://en.wikipedia.org/wiki/Orphan_gene
+
+molecules github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=molecules+github
+
+pymol教程 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=UFK&sca_esv=a623e55cf0889534&channel=fs&q=pymol%E6%95%99%E7%A8%8B&sa=X&ved=2ahUKEwimzoyIvqSJAxX0LkQIHY-EKDcQ1QJ6BAhREAE&biw=1850&bih=968&dpr=1
+
+Schrodinger, Inc.
+https://github.com/schrodinger
+
+ishitatsuyuki (Tatsuyuki Ishi)
+https://github.com/ishitatsuyuki
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Many%20thanks%20to%20Deepmind%20for%20releasing%20predicted%20structures%20of%20all%20known%20protein%20monomers.%20What%20I%27d%20like%20next%20is%20for%20Alphafold%20(or%20some%20other%20software)%20to%20be%20able%20to%20show%20us%20multimeric%20structures%20based%20on%20the%20single%20monomer%2Fsubunit%20predictions%20and%20protein-protein%20interactions%20(i.e.%20docking).%20For%20example%20the%20one%20I%20helped%20work%20on%20back%20in%20my%20structural%20biology%20days%20was%20the%20circadian%20clock%20protein%20KaiC%20%3A%20https%3A%2F%2Fwww.rcsb.org%2Fstructure%2F2GBL%2C%20that%27s%20the%20%22complete%22%20hexameric%20structure%20that%20shows%20how%20each%20of%20the%20subunits%20pack.%20The%20prediction%20for%20the%20single%20monomer%20that%20forms%20a%20hexamer%20is%20very%20close%20to%20the%20experimental%20https%3A%2F%2Falphafold.ebi.ac.uk%2Fentry%2FQ79PF4%20and%20in%20fact%20shows%20the%20correct%20structure%20of%20AA%20residues%20500%20-%20519%20which%20we%20were%20never%20able%20to%20validate%20until%2012%20years%20later%20(https%3A%2F%2Fwww.rcsb.org%2Fstructure%2F5C5E)%20when%20we%20expressed%20those%20residues%20along%20with%20another%20protein%20called%20KaiA%20which%20we%20knew%20binds%20to%20the%20%22top%22%20CII%20terminal%20(AAs%20497-519)%20of%20KaiC.%20If%20we%20would%20have%20had%20this%20data%20then%2C%20it%20would%20have%20allowed%20us%20to%20not%20only%20make%20better%20predictions%20about%20biological%20function%20and%20protein-protein%20interactions%20but%20would%20have%20helped%20better%20guide%20future%20experiments.%0A%0AWhat%20we%20can%20do%20with%20this%20data%20now%20is%20use%20methods%20such%20as%20cryo-em%20to%20see%20the%20%22big%20picture%22%2C%20i.e.%20multi-subunit%20protein-protein%20interactions%20where%20we%20can%20plug%20in%20the%20Alphafold%20predicted%20structure%20into%20the%20cryo-em%203d%20density%20map%20and%20get%20predicted%20angstrom%20level%20views%20of%20what%27s%20happening%20without%20necessarily%20having%20to%20resort%20to%20slower%20methods%20such%20as%20NMR%20or%20x-ray%20crystallography%20to%20elucidate%20macromolecular%20interactions.%0A%0AA%20small%20gripe%20about%20the%20alphafold%20ebi%20website%3A%20it%20doesn%27t%20seem%20to%20show%20the%20known%20experimental%20structure%2C%20it%20just%20shows%20%22Experimental%20structures%3A%20None%20available%20in%20PDB%22.%20For%20example%20the%20link%20to%20the%20alphafold%20structure%20above%20should%20link%20to%20the%202GBL%2C%201TF7%2C%20or%20any%20of%20the%20other%20kaic%20structures%20from%20organism%20PCC7942%20at%20RCSB.%20This%20would%20require%20merging%2Fmapping%20data%20from%20RCSB%20with%20EBI%20and%20at%20least%20doing%20some%20string%20matching%2C%20hopefully%20they%27re%20working%20on%20it!&op=translate
+
+AutoDock github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=AutoDock+github
+
+Center for Computational Structural Biology
+https://github.com/ccsb-scripps
+
+rDock github - Google 搜索
+https://www.google.com.hk/search?q=rDock+github&newwindow=1&client=ubuntu-sn&hs=igK&sca_esv=d19b47973d8008ce&channel=fs&ei=GfAYZ5OmJrygkPIP4ITNkAk&ved=0ahUKEwjTloytxKSJAxU8EEQIHWBCE5IQ4dUDCA8&uact=5&oq=rDock+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHJEb2NrIGdpdGh1YjIFEAAYgAQyCBAAGIAEGKIESOoQUIkGWP4PcAF4AZABAJgBpwKgAdAKqgEDMi01uAEDyAEA-AEBmAIGoALcCsICChAAGLADGNYEGEfCAgcQABiABBgKwgIMEAAYgAQYQxiKBRgKwgIEEAAYHsICCBAAGAgYHhgPmAMAiAYBkAYIkgcFMS4wLjWgB40J&sclient=gws-wiz-serp
+
+CBDD/rDock: rDock is a fast and versatile Open Source docking program that can be used to dock small molecules against proteins and nucleic acids. It is designed for High Throughput Virtual Screening (HTVS) campaigns and Binding Mode prediction studies.
+https://github.com/CBDD/rDock
+
+Docking in 3 steps | rDock
+https://rdock.github.io/docking-in-3-steps/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (22) Discord | #general | Bun
 https://discord.com/channels/876711213126520882/876711213126520885
 
