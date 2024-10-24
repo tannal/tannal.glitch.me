@@ -1,5 +1,155 @@
 # 2024-10-24
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+夜神模拟器开源 - Google 搜索
+https://www.google.com.hk/search?q=%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%BC%80%E6%BA%90&newwindow=1&sca_esv=3e6674360602a208&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIK0_Wi4PLoTkCijgzH1i81NsFqT9A%3A1729341244110&ei=PKcTZ-q2BqfGkPIPzK-d6AQ&ved=0ahUKEwjqxLOUupqJAxUnI0QIHcxXB00Q4dUDCA8&uact=5&oq=%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%BC%80%E6%BA%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeWknOelnuaooeaLn-WZqOW8gOa6kDIIEAAYgAQYogQyCBAAGIAEGKIESLIXUL4PWLwWcAF4AZABAJgBqAKgAf4MqgEDMi02uAEDyAEA-AEBmAIGoAKtC8ICChAAGLADGNYEGEfCAgcQABiABBgMmAMAiAYBkAYKkgcHMS4wLjQuMaAHphA&sclient=gws-wiz-serp
+
+android emulator for game player github - Google 搜索
+https://www.google.com.hk/search?q=android+emulator+for+game+player+github&newwindow=1&sca_esv=3e6674360602a208&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKVEPlmvgbiBpbvpbkrH8GFKDLK-w%3A1729341961137&ei=CaoTZ66NCKqrur8Pg9DD-Aw&ved=0ahUKEwjutafqvJqJAxWqle4BHQPoEM8Q4dUDCA8&uact=5&oq=android+emulator+for+game+player+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ2FuZHJvaWQgZW11bGF0b3IgZm9yIGdhbWUgcGxheWVyIGdpdGh1YjIFECEYoAFIlQxQvwJYlgtwAHgCkAEAmAGUA6AB6AiqAQUzLTIuMbgBA8gBAPgBAZgCBKACiwnCAgQQABhHmAMAiAYBkAYKkgcHMS4zLTIuMaAH-Ag&sclient=gws-wiz-serp
+
+alnacle (Alvaro Navarro)
+https://github.com/alnacle
+
+TrinityEmulator
+https://github.com/TrinityEmulator
+
+泡姆 steam 下载 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B3%A1%E5%A7%86+steam+%E4%B8%8B%E8%BD%BD&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B3%A1%E5%A7%86+steam+%E4%B8%8B%E8%BD%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDk3NjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Steam 上的 泡姆泡姆
+https://store.steampowered.com/app/2543180/_/?l=schinese
+
+泡姆泡姆 下载 wine - Google 搜索
+https://www.google.com.hk/search?q=%E6%B3%A1%E5%A7%86%E6%B3%A1%E5%A7%86+%E4%B8%8B%E8%BD%BD+wine&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B3%A1%E5%A7%86%E6%B3%A1%E5%A7%86+%E4%B8%8B%E8%BD%BD+wine&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDMzMjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+《泡姆泡姆》官方网站 - POPUCOM
+https://popucom.hypergryph.com/
+
+microsoft/BitNet: Official inference framework for 1-bit LLMs
+https://github.com/microsoft/BitNet?fbclid=IwY2xjawGArS5leHRuA2FlbQIxMAABHYYMWZwZ4eKEzmYt-7dS9GVdNajFXorAcelWflAOAxvIo8hRLTQbNSHyeg_aem_36PSVqu5fFC3C1mJP-NRSQ
+
+Cliff Click on X: "Coffee Compiler Club tomorrow morning, 18/Oct/2024, 10am PST. CCC is open to all compiler (and language design and implementation) lovers. Ask via private msg or email cliffc@acm.org for invite." / X
+https://x.com/cliff_click/status/1847160084759302625
+
+SeaOfNodes repositories
+https://github.com/orgs/SeaOfNodes/repositories
+
+Andrei Pangin (@AndreiPangin) / X
+https://x.com/AndreiPangin
+
+openjdk/jol: https://openjdk.org/projects/code-tools/jol
+https://github.com/openjdk/jol/
+
+Understanding Request Latency with Profiling | Richard Startin’s Blog
+https://richardstartin.github.io/posts/wallclock-profiler
+
+builds.shipilev.net: OpenJDK Maintenance, Development, and Testing
+https://builds.shipilev.net/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=422e53398117162e&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJAF458hOyvvywl2Z4DV1ihUSleSA:1729474102717&q=%E7%BE%8E%E8%81%94%E5%82%A8&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjHramMqZ6JAxW5he4BHQ31ASAQt8YBKAF6BAgIEAQ&biw=1422&bih=659&dpr=1.35
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=antecedent&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+webarchivev - Google 搜索
+https://www.google.com.hk/search?q=webarchivev&rlz=1C1GCEA_enCN1091CN1091&oq=webarchivev&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fabrice Bellard: Portrait of a Superproductive Programmer
+http://web.archive.org/web/20120814171122/http://blog.smartbear.com/software-quality/bid/167059/
+
+École Polytechnique - Accueil site de l'Ecole Polytechnique
+http://web.archive.org/web/20120814053755/http://www.polytechnique.edu/
+
+Phil Eaton on X: "&gt; There is no difference between processes (the result of fork) and threads (the result of pthread_create) for the Linux kernel. https://t.co/jHqV5xwm2n https://t.co/L54Bu9k6TE" / X
+https://x.com/eatonphil/status/1848769159515034064
+
+Postprint_1010147.pdf
+https://publikace.k.utb.cz/bitstream/handle/10563/1010147/Postprint_1010147.pdf
+
+中国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+bbc&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%AD%E5%9B%BD+bbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyCQgDEAAYDBiABDIJCAQQABgMGIAEMg8IBRAuGAwYxwEY0QMYgAQyDwgGEC4YDBjHARjRAxiABDIJCAcQABgMGIAEMg8ICBAuGAwYxwEY0QMYgAQyCQgJEAAYDBiABNIBCDIzMTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+BBC News 中文 on X: "新加坡建国总理李光耀的次子李显扬周二（10月22日）表示，在新加坡政府“多次打压”其家庭后，他已依国际人权法寻求国际保护，成为“政治难民”。 67岁的李显扬在社交媒体上的一份声明中称，他于2022在英国申请政治庇护。英国政府已确定其“很有可能会遭受迫害的风险，所以无法回返新加坡”。 https://t.co/cY86N5EOT7" / X
+https://x.com/bbcchinese/status/1848679985466552765?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+
+邓紫棋 我的秘密 flac - Google 搜索
+https://www.google.com.hk/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B+%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86+flac&rlz=1C1GCEA_enCN1091CN1091&oq=%E9%82%93%E7%B4%AB%E6%A3%8B+%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86+flac&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyBggEEAAYHjIICAUQABgPGB4yBggGEAAYHjIGCAcQABgeMggICBAAGA8YHjIICAkQABgPGB7SAQkxMTkwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+G.E.M.邓紫棋 - 我的秘密 (Live Piano Session).flac | 小雅的分类 Alist
+http://103.140.126.135:5678/%E9%9F%B3%E4%B9%90/%E5%A4%A7%E5%90%88%E9%9B%86/%E5%A4%A7%E5%9E%8B%E9%AB%98%E6%B8%85%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%208.5T/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%E4%B8%AA%E4%BA%BA%E6%9B%B2%E7%9B%AEFLAC%E5%90%88%E9%9B%86/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%20(Live%20Piano%20Session)/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%20(Live%20Piano%20Session).flac
+
+rustdesk - Google 搜索
+https://www.google.com.hk/search?q=rustdesk&rlz=1C1GCEA_enCN1091CN1091&oq=rustdesk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMjM1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+RustDesk：开源远程桌面与自建服务器解决方案
+https://rustdesk.com/zh-cn/
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+ISMIR - Google 搜索
+https://www.google.com.hk/search?q=ISMIR&rlz=1C1GCEA_enCN1091CN1091&oq=ISMIR&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyBwgDEAAYgAQyDQgEEC4YxwEY0QMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyCQgJEC4YChiABNIBCDQxODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+International Society of Music Information Retrieval
+https://github.com/ismir
+
+ISMIR folk-rnn - Google 搜索
+https://www.google.com.hk/search?q=ISMIR+folk-rnn&rlz=1C1GCEA_enCN1091CN1091&oq=ISMIR+folk-rnn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTIyMzk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+http://folkrnn.org
+https://ismir2018.ircam.fr/doc/pdfs2/harris.pdf
+
+2211.09124
+https://arxiv.org/pdf/2211.09124
+
+Trieu, N. and Keller, R. M. (2018). JazzGAN: Improvising with Generative Adversarial Networks. In MUME 2018: 6th International Workshop on Musical Metacreation. - Google 搜索
+https://www.google.com.hk/search?q=Trieu%2C+N.+and+Keller%2C+R.+M.+(2018).+JazzGAN%3A+Improvising+with+Generative+Adversarial+Networks.+In+MUME+2018%3A+6th+International+Workshop+on+Musical+Metacreation.&rlz=1C1GCEA_enCN1091CN1091&oq=Trieu%2C+N.+and+Keller%2C+R.+M.+(2018).+JazzGAN%3A+Improvising+with+Generative+Adversarial+Networks.+In+MUME+2018%3A+6th+International+Workshop+on+Musical+Metacreation.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+JazzGAN: Improvising with Generative Adversarial Networks
+https://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf
+
+XiaoIce Band - Google 搜索
+https://www.google.com.hk/search?q=XiaoIce+Band&rlz=1C1GCEA_enCN1091CN1091&oq=XiaoIce+Band&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzU0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+音乐生成模型 Music generation - Rayinfos - 博客园
+https://www.cnblogs.com/rayinfos/p/17189353.html
+
+1812.10906
+https://arxiv.org/pdf/1812.10906
+
+performance rnn generating music with expressive timing and dynamics - Google 搜索
+https://www.google.com.hk/search?q=performance+rnn+generating+music+with+expressive+timing+and+dynamics&rlz=1C1GCEA_enCN1091CN1091&oq=performance+rnn+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCAgAEEUYHhg5MgcIARAAGIAEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMggIBhAAGAgYHtIBCDkyNDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Performance RNN: Generating Music with Expressive Timing and Dynamics
+https://magenta.tensorflow.org/performance-rnn
+
+About | Folk the Algorithms
+https://highnoongmt.wordpress.com/about/
+
+(29) Bob Sturm - YouTube
+https://www.youtube.com/@boblsturm/videos
+
+The Machine Folk Session – An archive of folk music co-composed with machines
+https://themachinefolksession.org/
+
+mozilla hacks a gecko layout - Google 搜索
+https://www.google.com.hk/search?q=mozilla+hacks+a+gecko+layout&rlz=1C1GCEA_enCN1091CN1091&oq=mozilla+hacks+a+gecko+layout&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(29) An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE
+
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
