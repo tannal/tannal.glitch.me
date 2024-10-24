@@ -1,6 +1,8 @@
 
 # 2024-10-23 0 | 0
 
+adb -s 192.168.43.58 pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
+
 python -m http.server 6969
 
 sudo apt install \

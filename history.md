@@ -1,3 +1,218 @@
+# 2024-10-24
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #debuggers | Zed Community
+https://discord.com/channels/869392257814519848/1255246362220691456
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+10.106.146.44:8081/apps/spreed/not-found
+http://10.106.146.44:8081/apps/spreed/not-found
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(37) Zed Decoded: Text Coordinate Systems - YouTube
+https://www.youtube.com/watch?v=il7NoDUFCWU
+
+(37) JavaScript Is Becoming 2 Languages?? FROM TC39 - YouTube
+https://www.youtube.com/watch?v=onCHSujPlfg
+
+JS0/JSSugar: the tooling will continue until morale improves · Caolan
+https://caolan.uk/notes/2024-10-14_js0_jssugar.cm
+
+Software, Scarcity, and Zig · Caolan
+https://caolan.uk/notes/2024-10-17_software_scarcity_and_zig.cm
+
+bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+React TypeScript Playground Hooks
+https://playcode.io/2005664
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+test
+https://wavacity.com/
+
+MDN Curriculum
+https://developer.mozilla.org/en-US/curriculum/
+
+Office Hours 2024-10-24 - Google 文档
+https://docs.google.com/document/d/1fy8lz3DhNkI7wuQjUOQLd-NGNmHm4j5RNcO72O9x2AY/edit?tab=t.0
+
+linebender/piet: An abstraction for 2D graphics.
+https://github.com/linebender/piet
+
+parley/fontique at main · linebender/parley
+https://github.com/linebender/parley/tree/main/fontique
+
+Issues · linebender/parley
+https://github.com/linebender/parley/issues
+
+xilem/masonry at main · linebender/xilem
+https://github.com/linebender/xilem/tree/main/masonry
+
+xilem/masonry at main · linebender/xilem
+https://github.com/linebender/xilem/tree/main/masonry
+
+vscode java run tests std out err - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+java+run+tests+std+out+err
+
+Test output not showing · Issue #344 · microsoft/vscode-java-test
+https://github.com/microsoft/vscode-java-test/issues/344
+
+dot graph online - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dot+graph+online
+
+Graphviz Online
+https://dreampuf.github.io/GraphvizOnline/#digraph%20chapter02%20%7B%0A%2F*%0Areturn%201%2B2*3%2B-5%3B%0A*%2F%0A%09rankdir%3DBT%3B%0A%09ordering%3D%22in%22%3B%0A%09concentrate%3D%22true%22%3B%0A%09subgraph%20cluster_Nodes%20%7B%0A%09%09Start1%20%5B%20shape%3Dbox%20style%3Dfilled%20fillcolor%3Dyellow%20label%3D%22Start%22%20%5D%3B%0A%09%09Con_2%20%5B%20label%3D%22%231%22%20%5D%3B%0A%09%09Con_3%20%5B%20label%3D%22%232%22%20%5D%3B%0A%09%09Con_4%20%5B%20label%3D%22%233%22%20%5D%3B%0A%09%09Mul5%20%5B%20label%3D%22*%22%20%5D%3B%0A%09%09Con_6%20%5B%20label%3D%22%235%22%20%5D%3B%0A%09%09Minus7%20%5B%20label%3D%22-%22%20%5D%3B%0A%09%09Add8%20%5B%20label%3D%22%2B%22%20%5D%3B%0A%09%09Add9%20%5B%20label%3D%22%2B%22%20%5D%3B%0A%09%09Return10%20%5B%20shape%3Dbox%20style%3Dfilled%20fillcolor%3Dyellow%20label%3D%22Return%22%20%5D%3B%0A%09%7D%0A%09edge%20%5B%20fontname%3DHelvetica%2C%20fontsize%3D8%20%5D%3B%0A%09Con_2%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Con_3%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Con_4%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Mul5%20-%3E%20Con_3%5Btaillabel%3D1%5D%3B%0A%09Mul5%20-%3E%20Con_4%5Btaillabel%3D2%5D%3B%0A%09Con_6%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Minus7%20-%3E%20Con_6%5Btaillabel%3D1%5D%3B%0A%09Add8%20-%3E%20Mul5%5Btaillabel%3D1%5D%3B%0A%09Add8%20-%3E%20Minus7%5Btaillabel%3D2%5D%3B%0A%09Add9%20-%3E%20Con_2%5Btaillabel%3D1%5D%3B%0A%09Add9%20-%3E%20Add8%5Btaillabel%3D2%5D%3B%0A%09Return10%20-%3E%20Start1%5Btaillabel%3D0%20color%3Dred%5D%3B%0A%09Return10%20-%3E%20Add9%5Btaillabel%3D1%5D%3B%0A%7D
+
+Microsoft PowerPoint - 08monotoneFramework - 08monotoneFramework.pdf
+https://www.cse.psu.edu/~gxt29/teaching/cse597s21/slides/08monotoneFramework.pdf
+
+cse.psu.edu/~gxt29/teaching/cse522s23/schedule.html
+https://www.cse.psu.edu/~gxt29/teaching/cse522s23/schedule.html
+
+control flow graph - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=D2p&sca_esv=72649dfb51480aee&channel=fs&q=control+flow+graph&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwi2_K2l3aWJAxWOHEQIHaKKNWkQtKgLegQICRAB&biw=1850&bih=968&dpr=1
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=peepholes&op=translate
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite
+https://editor.graphite.rs/
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+shish (Shish)
+https://github.com/shish
+
+What if Nova was a Typescript engine? · Issue #427 · trynova/nova
+https://github.com/trynova/nova/issues/427
+
+JS0/JSSugar: the tooling will continue until morale improves | Hacker News
+https://news.ycombinator.com/item?id=41876583
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev/
+
+Layout Debugger — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/LayoutDebugger.html
+
+SF All Hands - Layout Overview - June 13, 2018
+https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34ff8151-353a-40c4-89e3-ac3201363608
+
+An Overview of Gecko Layout youtube - Google 搜索
+https://www.google.com.hk/search?q=An+Overview+of+Gecko+Layout+youtube&newwindow=1&client=ubuntu-sn&hs=IDs&sca_esv=b4d3f7bebdf6aa5f&channel=fs&ei=L7EZZ-HDDt2fkPIPht6sgQU&ved=0ahUKEwihl_y-_KWJAxXdD0QIHQYvK1AQ4dUDCA8&uact=5&oq=An+Overview+of+Gecko+Layout+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiI0FuIE92ZXJ2aWV3IG9mIEdlY2tvIExheW91dCB5b3V0dWJlMgcQIRigARgKSL0VUABYrRRwAHgAkAEAmAHdAqAB-hGqAQUyLTcuMbgBA8gBAPgBAZgCCKAClRLCAgUQIRigAZgDAJIHBTItNi4yoAeoEw&sclient=gws-wiz-serp
+
+(37) An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE
+
+(36) Compiler Compiler - Part 1: Fixing a bug - YouTube
+https://www.youtube.com/watch?v=gPcHBzWXq1E
+
+Bug 1917771 - Use bottom of border box as the range frame's baseline.… · mozilla/gecko-dev@829f7c5
+https://github.com/mozilla/gecko-dev/commit/829f7c5a917be10bd5fd6efe3a354dd3d06d5fd1#diff-a7f2480b8fe4e6e170096bfb3aa04323eb7b19671dcf92e16b5a1c1f5733ad90R679
+
+Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in d… · mozilla/gecko-dev@e90c355
+https://github.com/mozilla/gecko-dev/commit/e90c355513f060794563a314c9d777af3537f39d#diff-6b63df1bc7f32f7499e9dcac1e700f90436cb9279deef66c9daeb23e348b1ee3
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-01&until=2024-09-30
+
+Bug 1917602 - Make CSS zoom property discrete animatable. r=emilio · mozilla/gecko-dev@273c630
+https://github.com/mozilla/gecko-dev/commit/273c630f69e752a5bc421db9be19d90f7289d6f1#diff-e6193c19fa2b64bff54feafc229401fb70152754e6c930c76fb8dc5e8f3c108f
+
+mozilla hacks - Google 搜索
+https://www.google.com.hk/search?q=mozilla+hacks&newwindow=1&client=ubuntu-sn&hs=U2X&sca_esv=b4d3f7bebdf6aa5f&channel=fs&ei=krgZZ-z3Gt2lkPIP4v70qAw&ved=0ahUKEwjsiOLEg6aJAxXdEkQIHWI_HcUQ4dUDCA8&uact=5&oq=mozilla+hacks&gs_lp=Egxnd3Mtd2l6LXNlcnAiDW1vemlsbGEgaGFja3NInBpQmAlYrBlwAXgBkAEBmAGgA6AB0RyqAQcyLTQuNS4yuAEDyAEA-AEBmAIJoAKuFcICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIKEC4YgAQYQxiKBcICBxAAGIAEGAzCAg0QLhiABBjRAxjHARgMmAMAiAYBkAYKkgcJMS4wLjEuNi4xoAf5TA&sclient=gws-wiz-serp
+
+Home - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/
+
+calaendar input html5 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=calaendar+input+html5
+
+aimusicstudies2024/index.md at main · boblsturm/aimusicstudies2024
+https://github.com/boblsturm/aimusicstudies2024/blob/main/index.md
+
+tc39/agendas: TC39 meeting agendas
+https://github.com/tc39/agendas/
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+test262.fyi
+https://test262.fyi/#
+
+Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
 # 2024-10-23
 
 Chromium-dev - Google 群组
