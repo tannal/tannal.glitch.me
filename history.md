@@ -1,5 +1,368 @@
 # 2024-10-24
 
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #debuggers | Zed Community
+https://discord.com/channels/869392257814519848/1255246362220691456
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+10.106.146.44:8081/apps/spreed/not-found
+http://10.106.146.44:8081/apps/spreed/not-found
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(37) Zed Decoded: Text Coordinate Systems - YouTube
+https://www.youtube.com/watch?v=il7NoDUFCWU
+
+(37) JavaScript Is Becoming 2 Languages?? FROM TC39 - YouTube
+https://www.youtube.com/watch?v=onCHSujPlfg
+
+JS0/JSSugar: the tooling will continue until morale improves · Caolan
+https://caolan.uk/notes/2024-10-14_js0_jssugar.cm
+
+Software, Scarcity, and Zig · Caolan
+https://caolan.uk/notes/2024-10-17_software_scarcity_and_zig.cm
+
+bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+https://bug1917771.bmoattachments.org/attachment.cgi?id=9423767
+
+React TypeScript Playground Hooks
+https://playcode.io/2005664
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012
+
+test
+https://wavacity.com/
+
+MDN Curriculum
+https://developer.mozilla.org/en-US/curriculum/
+
+Office Hours 2024-10-24 - Google 文档
+https://docs.google.com/document/d/1fy8lz3DhNkI7wuQjUOQLd-NGNmHm4j5RNcO72O9x2AY/edit?tab=t.0
+
+linebender/piet: An abstraction for 2D graphics.
+https://github.com/linebender/piet
+
+parley/fontique at main · linebender/parley
+https://github.com/linebender/parley/tree/main/fontique
+
+Issues · linebender/parley
+https://github.com/linebender/parley/issues
+
+xilem/masonry at main · linebender/xilem
+https://github.com/linebender/xilem/tree/main/masonry
+
+xilem/masonry at main · linebender/xilem
+https://github.com/linebender/xilem/tree/main/masonry
+
+vscode java run tests std out err - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+java+run+tests+std+out+err
+
+Test output not showing · Issue #344 · microsoft/vscode-java-test
+https://github.com/microsoft/vscode-java-test/issues/344
+
+dot graph online - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dot+graph+online
+
+Graphviz Online
+https://dreampuf.github.io/GraphvizOnline/#digraph%20chapter02%20%7B%0A%2F*%0Areturn%201%2B2*3%2B-5%3B%0A*%2F%0A%09rankdir%3DBT%3B%0A%09ordering%3D%22in%22%3B%0A%09concentrate%3D%22true%22%3B%0A%09subgraph%20cluster_Nodes%20%7B%0A%09%09Start1%20%5B%20shape%3Dbox%20style%3Dfilled%20fillcolor%3Dyellow%20label%3D%22Start%22%20%5D%3B%0A%09%09Con_2%20%5B%20label%3D%22%231%22%20%5D%3B%0A%09%09Con_3%20%5B%20label%3D%22%232%22%20%5D%3B%0A%09%09Con_4%20%5B%20label%3D%22%233%22%20%5D%3B%0A%09%09Mul5%20%5B%20label%3D%22*%22%20%5D%3B%0A%09%09Con_6%20%5B%20label%3D%22%235%22%20%5D%3B%0A%09%09Minus7%20%5B%20label%3D%22-%22%20%5D%3B%0A%09%09Add8%20%5B%20label%3D%22%2B%22%20%5D%3B%0A%09%09Add9%20%5B%20label%3D%22%2B%22%20%5D%3B%0A%09%09Return10%20%5B%20shape%3Dbox%20style%3Dfilled%20fillcolor%3Dyellow%20label%3D%22Return%22%20%5D%3B%0A%09%7D%0A%09edge%20%5B%20fontname%3DHelvetica%2C%20fontsize%3D8%20%5D%3B%0A%09Con_2%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Con_3%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Con_4%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Mul5%20-%3E%20Con_3%5Btaillabel%3D1%5D%3B%0A%09Mul5%20-%3E%20Con_4%5Btaillabel%3D2%5D%3B%0A%09Con_6%20-%3E%20Start1%5Btaillabel%3D0%20style%3Ddotted%5D%3B%0A%09Minus7%20-%3E%20Con_6%5Btaillabel%3D1%5D%3B%0A%09Add8%20-%3E%20Mul5%5Btaillabel%3D1%5D%3B%0A%09Add8%20-%3E%20Minus7%5Btaillabel%3D2%5D%3B%0A%09Add9%20-%3E%20Con_2%5Btaillabel%3D1%5D%3B%0A%09Add9%20-%3E%20Add8%5Btaillabel%3D2%5D%3B%0A%09Return10%20-%3E%20Start1%5Btaillabel%3D0%20color%3Dred%5D%3B%0A%09Return10%20-%3E%20Add9%5Btaillabel%3D1%5D%3B%0A%7D
+
+Microsoft PowerPoint - 08monotoneFramework - 08monotoneFramework.pdf
+https://www.cse.psu.edu/~gxt29/teaching/cse597s21/slides/08monotoneFramework.pdf
+
+cse.psu.edu/~gxt29/teaching/cse522s23/schedule.html
+https://www.cse.psu.edu/~gxt29/teaching/cse522s23/schedule.html
+
+control flow graph - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=D2p&sca_esv=72649dfb51480aee&channel=fs&q=control+flow+graph&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwi2_K2l3aWJAxWOHEQIHaKKNWkQtKgLegQICRAB&biw=1850&bih=968&dpr=1
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=peepholes&op=translate
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite
+https://editor.graphite.rs/
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+shish (Shish)
+https://github.com/shish
+
+What if Nova was a Typescript engine? · Issue #427 · trynova/nova
+https://github.com/trynova/nova/issues/427
+
+JS0/JSSugar: the tooling will continue until morale improves | Hacker News
+https://news.ycombinator.com/item?id=41876583
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev/
+
+Layout Debugger — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/layout/LayoutDebugger.html
+
+SF All Hands - Layout Overview - June 13, 2018
+https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34ff8151-353a-40c4-89e3-ac3201363608
+
+An Overview of Gecko Layout youtube - Google 搜索
+https://www.google.com.hk/search?q=An+Overview+of+Gecko+Layout+youtube&newwindow=1&client=ubuntu-sn&hs=IDs&sca_esv=b4d3f7bebdf6aa5f&channel=fs&ei=L7EZZ-HDDt2fkPIPht6sgQU&ved=0ahUKEwihl_y-_KWJAxXdD0QIHQYvK1AQ4dUDCA8&uact=5&oq=An+Overview+of+Gecko+Layout+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiI0FuIE92ZXJ2aWV3IG9mIEdlY2tvIExheW91dCB5b3V0dWJlMgcQIRigARgKSL0VUABYrRRwAHgAkAEAmAHdAqAB-hGqAQUyLTcuMbgBA8gBAPgBAZgCCKAClRLCAgUQIRigAZgDAJIHBTItNi4yoAeoEw&sclient=gws-wiz-serp
+
+(37) An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE
+
+(36) Compiler Compiler - Part 1: Fixing a bug - YouTube
+https://www.youtube.com/watch?v=gPcHBzWXq1E
+
+Bug 1917771 - Use bottom of border box as the range frame's baseline.… · mozilla/gecko-dev@829f7c5
+https://github.com/mozilla/gecko-dev/commit/829f7c5a917be10bd5fd6efe3a354dd3d06d5fd1#diff-a7f2480b8fe4e6e170096bfb3aa04323eb7b19671dcf92e16b5a1c1f5733ad90R679
+
+Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in d… · mozilla/gecko-dev@e90c355
+https://github.com/mozilla/gecko-dev/commit/e90c355513f060794563a314c9d777af3537f39d#diff-6b63df1bc7f32f7499e9dcac1e700f90436cb9279deef66c9daeb23e348b1ee3
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-08-01&until=2024-09-30
+
+Bug 1917602 - Make CSS zoom property discrete animatable. r=emilio · mozilla/gecko-dev@273c630
+https://github.com/mozilla/gecko-dev/commit/273c630f69e752a5bc421db9be19d90f7289d6f1#diff-e6193c19fa2b64bff54feafc229401fb70152754e6c930c76fb8dc5e8f3c108f
+
+mozilla hacks - Google 搜索
+https://www.google.com.hk/search?q=mozilla+hacks&newwindow=1&client=ubuntu-sn&hs=U2X&sca_esv=b4d3f7bebdf6aa5f&channel=fs&ei=krgZZ-z3Gt2lkPIP4v70qAw&ved=0ahUKEwjsiOLEg6aJAxXdEkQIHWI_HcUQ4dUDCA8&uact=5&oq=mozilla+hacks&gs_lp=Egxnd3Mtd2l6LXNlcnAiDW1vemlsbGEgaGFja3NInBpQmAlYrBlwAXgBkAEBmAGgA6AB0RyqAQcyLTQuNS4yuAEDyAEA-AEBmAIJoAKuFcICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIKEC4YgAQYQxiKBcICBxAAGIAEGAzCAg0QLhiABBjRAxjHARgMmAMAiAYBkAYKkgcJMS4wLjEuNi4xoAf5TA&sclient=gws-wiz-serp
+
+Home - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/
+
+calaendar input html5 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=calaendar+input+html5
+
+aimusicstudies2024/index.md at main · boblsturm/aimusicstudies2024
+https://github.com/boblsturm/aimusicstudies2024/blob/main/index.md
+
+tc39/agendas: TC39 meeting agendas
+https://github.com/tc39/agendas/
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+test262.fyi
+https://test262.fyi/#
+
+Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
+https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+夜神模拟器开源 - Google 搜索
+https://www.google.com.hk/search?q=%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%BC%80%E6%BA%90&newwindow=1&sca_esv=3e6674360602a208&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIK0_Wi4PLoTkCijgzH1i81NsFqT9A%3A1729341244110&ei=PKcTZ-q2BqfGkPIPzK-d6AQ&ved=0ahUKEwjqxLOUupqJAxUnI0QIHcxXB00Q4dUDCA8&uact=5&oq=%E5%A4%9C%E7%A5%9E%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%BC%80%E6%BA%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeWknOelnuaooeaLn-WZqOW8gOa6kDIIEAAYgAQYogQyCBAAGIAEGKIESLIXUL4PWLwWcAF4AZABAJgBqAKgAf4MqgEDMi02uAEDyAEA-AEBmAIGoAKtC8ICChAAGLADGNYEGEfCAgcQABiABBgMmAMAiAYBkAYKkgcHMS4wLjQuMaAHphA&sclient=gws-wiz-serp
+
+android emulator for game player github - Google 搜索
+https://www.google.com.hk/search?q=android+emulator+for+game+player+github&newwindow=1&sca_esv=3e6674360602a208&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKVEPlmvgbiBpbvpbkrH8GFKDLK-w%3A1729341961137&ei=CaoTZ66NCKqrur8Pg9DD-Aw&ved=0ahUKEwjutafqvJqJAxWqle4BHQPoEM8Q4dUDCA8&uact=5&oq=android+emulator+for+game+player+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ2FuZHJvaWQgZW11bGF0b3IgZm9yIGdhbWUgcGxheWVyIGdpdGh1YjIFECEYoAFIlQxQvwJYlgtwAHgCkAEAmAGUA6AB6AiqAQUzLTIuMbgBA8gBAPgBAZgCBKACiwnCAgQQABhHmAMAiAYBkAYKkgcHMS4zLTIuMaAH-Ag&sclient=gws-wiz-serp
+
+alnacle (Alvaro Navarro)
+https://github.com/alnacle
+
+TrinityEmulator
+https://github.com/TrinityEmulator
+
+泡姆 steam 下载 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B3%A1%E5%A7%86+steam+%E4%B8%8B%E8%BD%BD&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B3%A1%E5%A7%86+steam+%E4%B8%8B%E8%BD%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDk3NjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Steam 上的 泡姆泡姆
+https://store.steampowered.com/app/2543180/_/?l=schinese
+
+泡姆泡姆 下载 wine - Google 搜索
+https://www.google.com.hk/search?q=%E6%B3%A1%E5%A7%86%E6%B3%A1%E5%A7%86+%E4%B8%8B%E8%BD%BD+wine&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B3%A1%E5%A7%86%E6%B3%A1%E5%A7%86+%E4%B8%8B%E8%BD%BD+wine&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBNIBCDMzMjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+《泡姆泡姆》官方网站 - POPUCOM
+https://popucom.hypergryph.com/
+
+microsoft/BitNet: Official inference framework for 1-bit LLMs
+https://github.com/microsoft/BitNet?fbclid=IwY2xjawGArS5leHRuA2FlbQIxMAABHYYMWZwZ4eKEzmYt-7dS9GVdNajFXorAcelWflAOAxvIo8hRLTQbNSHyeg_aem_36PSVqu5fFC3C1mJP-NRSQ
+
+Cliff Click on X: "Coffee Compiler Club tomorrow morning, 18/Oct/2024, 10am PST. CCC is open to all compiler (and language design and implementation) lovers. Ask via private msg or email cliffc@acm.org for invite." / X
+https://x.com/cliff_click/status/1847160084759302625
+
+SeaOfNodes repositories
+https://github.com/orgs/SeaOfNodes/repositories
+
+Andrei Pangin (@AndreiPangin) / X
+https://x.com/AndreiPangin
+
+openjdk/jol: https://openjdk.org/projects/code-tools/jol
+https://github.com/openjdk/jol/
+
+Understanding Request Latency with Profiling | Richard Startin’s Blog
+https://richardstartin.github.io/posts/wallclock-profiler
+
+builds.shipilev.net: OpenJDK Maintenance, Development, and Testing
+https://builds.shipilev.net/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=422e53398117162e&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJAF458hOyvvywl2Z4DV1ihUSleSA:1729474102717&q=%E7%BE%8E%E8%81%94%E5%82%A8&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjHramMqZ6JAxW5he4BHQ31ASAQt8YBKAF6BAgIEAQ&biw=1422&bih=659&dpr=1.35
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&text=antecedent&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+webarchivev - Google 搜索
+https://www.google.com.hk/search?q=webarchivev&rlz=1C1GCEA_enCN1091CN1091&oq=webarchivev&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2ODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Fabrice Bellard: Portrait of a Superproductive Programmer
+http://web.archive.org/web/20120814171122/http://blog.smartbear.com/software-quality/bid/167059/
+
+École Polytechnique - Accueil site de l'Ecole Polytechnique
+http://web.archive.org/web/20120814053755/http://www.polytechnique.edu/
+
+Phil Eaton on X: "&gt; There is no difference between processes (the result of fork) and threads (the result of pthread_create) for the Linux kernel. https://t.co/jHqV5xwm2n https://t.co/L54Bu9k6TE" / X
+https://x.com/eatonphil/status/1848769159515034064
+
+Postprint_1010147.pdf
+https://publikace.k.utb.cz/bitstream/handle/10563/1010147/Postprint_1010147.pdf
+
+中国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+bbc&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%AD%E5%9B%BD+bbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyCQgDEAAYDBiABDIJCAQQABgMGIAEMg8IBRAuGAwYxwEY0QMYgAQyDwgGEC4YDBjHARjRAxiABDIJCAcQABgMGIAEMg8ICBAuGAwYxwEY0QMYgAQyCQgJEAAYDBiABNIBCDIzMTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+BBC News 中文 on X: "新加坡建国总理李光耀的次子李显扬周二（10月22日）表示，在新加坡政府“多次打压”其家庭后，他已依国际人权法寻求国际保护，成为“政治难民”。 67岁的李显扬在社交媒体上的一份声明中称，他于2022在英国申请政治庇护。英国政府已确定其“很有可能会遭受迫害的风险，所以无法回返新加坡”。 https://t.co/cY86N5EOT7" / X
+https://x.com/bbcchinese/status/1848679985466552765?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+
+邓紫棋 我的秘密 flac - Google 搜索
+https://www.google.com.hk/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B+%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86+flac&rlz=1C1GCEA_enCN1091CN1091&oq=%E9%82%93%E7%B4%AB%E6%A3%8B+%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86+flac&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyBggEEAAYHjIICAUQABgPGB4yBggGEAAYHjIGCAcQABgeMggICBAAGA8YHjIICAkQABgPGB7SAQkxMTkwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+G.E.M.邓紫棋 - 我的秘密 (Live Piano Session).flac | 小雅的分类 Alist
+http://103.140.126.135:5678/%E9%9F%B3%E4%B9%90/%E5%A4%A7%E5%90%88%E9%9B%86/%E5%A4%A7%E5%9E%8B%E9%AB%98%E6%B8%85%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%208.5T/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%E4%B8%AA%E4%BA%BA%E6%9B%B2%E7%9B%AEFLAC%E5%90%88%E9%9B%86/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%20(Live%20Piano%20Session)/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E6%88%91%E7%9A%84%E7%A7%98%E5%AF%86%20(Live%20Piano%20Session).flac
+
+rustdesk - Google 搜索
+https://www.google.com.hk/search?q=rustdesk&rlz=1C1GCEA_enCN1091CN1091&oq=rustdesk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMjM1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+RustDesk：开源远程桌面与自建服务器解决方案
+https://rustdesk.com/zh-cn/
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+ISMIR - Google 搜索
+https://www.google.com.hk/search?q=ISMIR&rlz=1C1GCEA_enCN1091CN1091&oq=ISMIR&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyBwgDEAAYgAQyDQgEEC4YxwEY0QMYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyCQgJEC4YChiABNIBCDQxODZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+International Society of Music Information Retrieval
+https://github.com/ismir
+
+ISMIR folk-rnn - Google 搜索
+https://www.google.com.hk/search?q=ISMIR+folk-rnn&rlz=1C1GCEA_enCN1091CN1091&oq=ISMIR+folk-rnn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTIyMzk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+http://folkrnn.org
+https://ismir2018.ircam.fr/doc/pdfs2/harris.pdf
+
+2211.09124
+https://arxiv.org/pdf/2211.09124
+
+Trieu, N. and Keller, R. M. (2018). JazzGAN: Improvising with Generative Adversarial Networks. In MUME 2018: 6th International Workshop on Musical Metacreation. - Google 搜索
+https://www.google.com.hk/search?q=Trieu%2C+N.+and+Keller%2C+R.+M.+(2018).+JazzGAN%3A+Improvising+with+Generative+Adversarial+Networks.+In+MUME+2018%3A+6th+International+Workshop+on+Musical+Metacreation.&rlz=1C1GCEA_enCN1091CN1091&oq=Trieu%2C+N.+and+Keller%2C+R.+M.+(2018).+JazzGAN%3A+Improvising+with+Generative+Adversarial+Networks.+In+MUME+2018%3A+6th+International+Workshop+on+Musical+Metacreation.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+JazzGAN: Improvising with Generative Adversarial Networks
+https://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf
+
+XiaoIce Band - Google 搜索
+https://www.google.com.hk/search?q=XiaoIce+Band&rlz=1C1GCEA_enCN1091CN1091&oq=XiaoIce+Band&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzU0MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+音乐生成模型 Music generation - Rayinfos - 博客园
+https://www.cnblogs.com/rayinfos/p/17189353.html
+
+1812.10906
+https://arxiv.org/pdf/1812.10906
+
+performance rnn generating music with expressive timing and dynamics - Google 搜索
+https://www.google.com.hk/search?q=performance+rnn+generating+music+with+expressive+timing+and+dynamics&rlz=1C1GCEA_enCN1091CN1091&oq=performance+rnn+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCAgAEEUYHhg5MgcIARAAGIAEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMggIBhAAGAgYHtIBCDkyNDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Performance RNN: Generating Music with Expressive Timing and Dynamics
+https://magenta.tensorflow.org/performance-rnn
+
+About | Folk the Algorithms
+https://highnoongmt.wordpress.com/about/
+
+(29) Bob Sturm - YouTube
+https://www.youtube.com/@boblsturm/videos
+
+The Machine Folk Session – An archive of folk music co-composed with machines
+https://themachinefolksession.org/
+
+mozilla hacks a gecko layout - Google 搜索
+https://www.google.com.hk/search?q=mozilla+hacks+a+gecko+layout&rlz=1C1GCEA_enCN1091CN1091&oq=mozilla+hacks+a+gecko+layout&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(29) An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
