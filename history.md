@@ -1,5 +1,149 @@
 # 2024-10-24
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+LLM.C 人工智能训练和推理的最佳实践
+https://tannal.github.io/zh-cn/p/llm.c-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E7%9A%84%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/
+
+滕尚华 google scholar - Google 搜索
+https://www.google.com.hk/search?q=%E6%BB%95%E5%B0%9A%E5%8D%8E+google+scholar&newwindow=1&sca_esv=0ddce2aac02c1925&rlz=1C1GCEA_enJP1090JP1090&ei=buALZ6n-AYvhkPIP1pX66AY&ved=0ahUKEwip7ZvKz4uJAxWLMEQIHdaKHm0Q4dUDCA8&uact=5&oq=%E6%BB%95%E5%B0%9A%E5%8D%8E+google+scholar&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOa7leWwmuWNjiBnb29nbGUgc2Nob2xhcjIJECEYoAEYChgqSIEaUOQFWJAYcAF4AJABAZgBpgSgAbAfqgEHMy03LjEuMrgBA8gBAPgBAZgCCaACrhjCAggQLhiABBiwA8ICCxAAGIAEGLADGKIEwgIIEAAYgAQYogTCAgYQIRgKGCrCAgUQIRigAZgDAIgGAZAGBZIHBzEuMy02LjKgB5wM&sclient=gws-wiz-serp
+
+jetbrains 多维表格 - Google 搜索
+https://www.google.com.hk/search?q=jetbrains+%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC&newwindow=1&sca_esv=d17ceb6839836056&rlz=1C1GCEA_enJP1090JP1090&ei=J4oMZ97kDcX5kPIPy7_4oAc&start=10&sa=N&sstk=Aagrsujdp_vYyR00xbV63uMQ5iJ1gsv50LhZq0wH_QOe7yvZqY3naDnsqMexfjrpBj4Z9VwnzY3VMQf-493LRp63VjJ5lYo_2ozwgA&ved=2ahUKEwielLS48YyJAxXFPEQIHcsfHnQQ8tMDegQIBxAE&biw=1536&bih=703&dpr=1.25
+
+JetBrains/lets-plot: Multiplatform plotting library based on the Grammar of Graphics
+https://github.com/JetBrains/lets-plot
+
+(37) Compiler Compiler - Part 1: Fixing a bug - YouTube
+https://www.youtube.com/watch?v=gPcHBzWXq1E
+
+cifkao/html-midi-player: 🎹 Play and display MIDI files on the web
+https://github.com/cifkao/html-midi-player
+
+github 学生认证 2024 - Google 搜索
+https://www.google.com.hk/search?q=github+%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81+2024&rlz=1C1GCEA_enJP1090JP1090&oq=github+%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81+2024&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGKIEGIkFMgoIBhAAGIAEGKIEMgYIBxBFGEDSAQg3OTQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(1382) Inbox - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#inbox
+
+philipturner/metal-benchmarks: Apple GPU microarchitecture
+https://github.com/philipturner/metal-benchmarks?tab=readme-ov-file#on-chip-memory
+
+Office Hours 2024-10-17 - Google 文档
+https://docs.google.com/document/d/1wEU7I1OU-kkC9xFfJd3K8Lpp3Bos2qfCZVpbjm5c2zM/edit?tab=t.0#heading=h.evjimzdnrevx
+
+This Month in Linebender, September 2024 - Linebender
+https://linebender.org/blog/tmil-09/
+
+DJMcNab Xilem Discussions
+https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ32eQYJ9DtZ_wJaYNtT36YioETiloZDIdImFpBFRo5-XsqGzpikgkg47LPsiHhpiwiQ1orOwwW2
+
+Olivier Faure - Xilem discussions
+https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2t767ZRETD_TkRI_VxK2ZTG0VrO9OZ4l7HvTxefhtJcg85iK0ZN7zWNnAEZtH0Dn7C1GKxrmYM
+
+(1382) #xilem > Embedding Xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/354396-xilem/topic/Embedding.20Xilem
+
+(1) Transferring ownership · Issue #834 · RazrFalcon/resvg
+https://github.com/RazrFalcon/resvg/issues/834
+
+Add target field to EventCtx by PoignardAzur · Pull Request #657 · linebender/xilem
+https://github.com/linebender/xilem/pull/657/files
+
+(1370) #gpu > Latency Investigation - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197075-gpu/topic/Latency.20Investigation
+
+frankvgompel/xilem at color_styling
+https://github.com/frankvgompel/xilem/tree/color_styling
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+taffy github - Google 搜索
+https://www.google.com.hk/search?q=taffy+github&rlz=1C1GCEA_enJP1090JP1090&oq=taffy+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDU3NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+taffy/examples/cosmic_text.rs at c14a177f2ed3c2e38877b4d260b1fae1a35dfa5b · DioxusLabs/taffy
+https://github.com/DioxusLabs/taffy/blob/c14a177f2ed3c2e38877b4d260b1fae1a35dfa5b/examples/cosmic_text.rs#L22
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-17
+
+SVG with embedded SVG doesn't export correctly to PDF · Issue #5174 · typst/typst
+https://github.com/typst/typst/issues/5174
+
+Code search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+resvg&type=code
+
+dfrg/swash: Font introspection, complex text shaping and glyph rendering.
+https://github.com/dfrg/swash
+
+Stockholm, Sweden - Google 搜索
+https://www.google.com.hk/search?q=Stockholm%2C+Sweden&rlz=1C1GCEA_enJP1090JP1090&oq=Stockholm%2C+Sweden&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+两元店
+https://liangyuandian.xyz/#/node
+
+中国经济 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+bbc&newwindow=1&sca_esv=9e0268609add2099&rlz=1C1GCEA_enJP1090JP1090&ei=5RsTZ-j2CKTRkPIP2NDvwAE&ved=0ahUKEwio_ZSjtZmJAxWkKEQIHVjoGxgQ4dUDCA8&oq=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOS4reWbvee7j-a1jiBiYmNIAFAAWABwAHgBkAEAmAEAoAEAqgEAuAEMyAEAmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rob%20pike&sort=byPopularity&type=story
+
+sendfile() in Go
+https://groups.google.com/g/golang-nuts/c/gdp1q6T0DNY/m/sFaRetnWPWIJ
+
+(33) The History of Unix, Rob Pike - YouTube
+https://www.youtube.com/watch?v=_2NI6t2r_Hs
+
+irrelevant.pdf
+https://tianyin.github.io/misc/irrelevant.pdf
+
+tianyin.github.io
+https://tianyin.github.io/
+
+CS 591: UIUC Systems Reading Group
+https://systems-seminar-uiuc.github.io/fall24/
+
+CS 423 -- Operating System Design (Fall 2024)
+https://cs423-uiuc.github.io/fall24/
+
+CS 523 -- Advanced Operating Systems (Spring 2024)
+https://cs523-uiuc.github.io/spring24/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=system%20research%20is%20ir&sort=byPopularity&type=story
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=notwithstanding&op=translate
+
+(34) 【Piano Cover】六哲 - 畢竟深愛過｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=56zKcLtz69U&list=RDKnZIniG8spI&index=16
+
+eBPF Verification Is Untenable | Hacker News
+https://news.ycombinator.com/item?id=36438831
+
+Doug McIlroy - Google 搜索
+https://www.google.com.hk/search?q=Doug+McIlroy&rlz=1C1GCEA_enJP1090JP1090&oq=Doug+McIlroy&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIGCAIQABgeMgYIAxAAGB4yCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogTSAQgxNDc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+That was quite unfair criticism, and even Doug McIlroy knew it (as he admitted l... | Hacker News
+https://news.ycombinator.com/item?id=18699718
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+Getting Set Up To Work On The Firefox Codebase — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/setup/index.html
+
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
