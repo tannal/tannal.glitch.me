@@ -1,7 +1,7 @@
 
 # 2024-10-25 0 | 0
 
-
+Right now we have at least two big potential users of Vello (Servo and Deno) blocked on not having support for filters. Even if we give an ugly API with big "this is inefficient" / "this is unstable" caveats, it's still better than not having the feature at all. And I think having big famous industry-grade dependents is a selling point for telling Google "we're doing something worth funding".
 
 # 2024-10-24 0 | 0
 
