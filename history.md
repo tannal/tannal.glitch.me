@@ -4,6 +4,225 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(22) Discord | #general | Voxell
+https://discord.com/channels/442334985471655946/501429618331484160
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+SIMD in the lexer · Issue #2296 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/2296
+
+Commands | EpicFreeGames
+https://epicfreegames.net/commands
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+Re: [llvm/llvm-project] [LLD] -Ttext-segment is not supported (Issue #90044) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkcMKwKlkGvvPDPCznptZxvW
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/90044
+
+25207 – ld: support --image-base= for elf (and -Ttext-segment -z separate-code strangeness)
+https://sourceware.org/bugzilla/show_bug.cgi?id=25207
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/113671
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+Avoid using destructuring in tco-fn-realm.js · tc39/test262@954d637
+https://github.com/tc39/test262/pull/4251
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/90044
+
+nextcloud github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nextcloud+github
+
+Nextcloud
+https://github.com/nextcloud
+
+Dashboard - Nextcloud
+http://10.106.146.44:8081/apps/dashboard/
+
+manimgl github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=manimgl+github
+
+Code search results
+https://github.com/search?q=repo%3A3b1b%2Fmanim%20latex&type=code
+
+mozilla careers - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=mozilla+careers
+
+Mozilla Careers — All open positions at Mozilla
+https://www.mozilla.org/en-US/careers/listings/
+
+videos/_2024/transformers/mlp.py at master · 3b1b/videos
+https://github.com/3b1b/videos/blob/master/_2024/transformers/mlp.py
+
+bevy_vello_graphics/src at main · voxell-tech/bevy_vello_graphics
+https://github.com/voxell-tech/bevy_vello_graphics/tree/main/src
+
+JayChou
+https://jayge.netlify.app/
+
+Daniel Liu github - Google 搜索
+https://www.google.com.hk/search?q=Daniel+Liu+github&newwindow=1&client=ubuntu-sn&hs=hlM&sca_esv=640dfa46d8859720&channel=fs&ei=9nsbZ5m3LY_x0PEPgZmEuAc&ved=0ahUKEwiZiqeCsqmJAxWPODQIHYEMAXcQ4dUDCA8&uact=5&oq=Daniel+Liu+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEURhbmllbCBMaXUgZ2l0aHViMgcQIRigARgKMgcQIRigARgKSLUMUNECWMILcAF4AZABAJgB8AKgAbsMqgEFMi0xLjS4AQPIAQD4AQGYAgagAswMwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAoYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIHEAAYgAQYE8ICCBAAGBMYChgewgIIEAAYExgIGB7CAgUQIRigAZgDAIgGAZAGCpIHBTEuMy01oAe5Cw&sclient=gws-wiz-serp
+
+danlliu/armstdlib: ARMv8 Standard Library
+https://github.com/danlliu/armstdlib
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Language Evolution - Google 幻灯片
+https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/edit#slide=id.g30432c5cd9c_0_144
+
+SWC Playground – SWC
+https://swc.rs/playground
+
+swc/packages/helpers/esm/_decorate.js at 78500af546ea3c92f016c729e173c66fccbe46ed · swc-project/swc
+https://github.com/swc-project/swc/blob/78500af546ea3c92f016c729e173c66fccbe46ed/packages/helpers/esm/_decorate.js#L5
+
+babel playground - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=babel+playground
+
+Write upgrade guide for previous iterations to Stage 3 · Issue #526 · tc39/proposal-decorators
+https://github.com/tc39/proposal-decorators/issues/526
+
+cpython github - Google 搜索
+https://www.google.com.hk/search?q=cpython+github&newwindow=1&client=ubuntu-sn&hs=DAN&sca_esv=640dfa46d8859720&channel=fs&ei=5oEbZ4eeBrDJkPIP-dD4qAY&ved=0ahUKEwiHqeXWt6mJAxWwJEQIHXkoHmUQ4dUDCA8&uact=5&oq=cpython+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmNweXRob24gZ2l0aHViMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgYQABgHGB4yBhAAGAcYHkjnOlDhL1jYOXAEeAGQAQCYAf4CoAG1DaoBBTItMS40uAEDyAEA-AEBmAIFoALDAsICChAAGLADGNYEGEeYAwDiAwUSATEgQIgGAZAGCpIHBTQuMy0xoAeGEw&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3Apython%2Fcpython+decorator+path%3A%2F%5ELib%5C%2F%2F&type=code
+
+babel github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=babel+github
+
+babel/babel: 🐠 Babel is a compiler for writing next generation JavaScript.
+https://github.com/babel/babel
+
+Babel · The compiler for next generation JavaScript
+https://babel.dev/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=AIMwrgxg1gFARARgEwGY4EoBQEA2BDAZwIAICALASwBdiBvTY4zAXyA&debug=false&forceAllTransforms=false&modules=false&shippedProposals=false&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Cstage-2%2Cstage-3&prettier=false&targets=&version=7.25.9&externalPlugins=&assumptions=%7B%7D
+
+Node.js require(esm) and __esModule · Issue #16441 · babel/babel
+https://github.com/babel/babel/issues/16441
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+theanarkh/nojs
+https://github.com/theanarkh/nojs
+
+lanntai
+https://github.com/lanntai
+
+tannal (tannal)
+https://github.com/tannal/
+
+deno prebuild v8 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=deno+prebuild+v8
+
+Releases · denoland/rusty_v8
+https://github.com/denoland/rusty_v8
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+prebuild+v8&type=issues
+
+zig v8 github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zig+v8+github
+
+fubark/zig-v8: Simple V8 builds with C and Zig bindings.
+https://github.com/fubark/zig-v8
+
+A runtime for Javascript built with Zig and V8. : r/Zig
+https://www.reddit.com/r/Zig/comments/su3r2b/a_runtime_for_javascript_built_with_zig_and_v8/
+
+Cosmic github - Google 搜索
+https://www.google.com.hk/search?q=Cosmic+github&newwindow=1&client=ubuntu-sn&hs=ldh&sca_esv=640dfa46d8859720&channel=fs&ei=DX8bZ57SCbO40PEPub7LkAw&ved=0ahUKEwjejJr7tKmJAxUzHDQIHTnfEsIQ4dUDCA8&uact=5&oq=Cosmic+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUNvc21pYyBnaXRodWIyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEixD1DlBliXDnAAeAKQAQCYAY4DoAGMCKoBAzMtM7gBA8gBAPgBAZgCBKACmQjCAgQQABhHwgIKEAAYgAQYQxiKBcICBRAuGIAEwgIHEAAYgAQYDJgDAIgGAZAGCpIHBzEuMy0yLjGgB40O&sclient=gws-wiz-serp
+
+Pop!_OS
+https://github.com/pop-os
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20Pop%21_OS%20&sort=byPopularity&type=story
+
+Pop!_OS arm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Pop%21_OS++arm
+
+ARM64 support · Issue #2759 · pop-os/pop
+https://github.com/pop-os/pop/issues/2759
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (23) Discord | #general | Typst
 https://discord.com/channels/1054443721975922748/1054443722592497796
 

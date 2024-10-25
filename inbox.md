@@ -1,6 +1,8 @@
 
 # 2024-10-25 0 | 0
 
+docker run -d -p 8081:80 nextcloud
+
 tail -n 100 /var/log/apache2/error.log
 
 逻辑和形式化数学语言最大的错误就是认为内容是不重要的，认为形式大于内容本身。
