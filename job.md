@@ -592,7 +592,7 @@ apply
 
 ## TODO
 
-
+[] manimgl cario/vello latex/typst
 [] vello_editor with y-crt or eg-walker collabration 
 [] yong gihtub issues he qita public api ganfan weixin gongzhonghao
     flutter kehuduan t
