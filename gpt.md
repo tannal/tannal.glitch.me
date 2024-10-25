@@ -1,4 +1,17 @@
 
+Hi there, :wave::skin-tone-2:.  I’m Glen Ratcliffe part of the Epic Games team.  Creators of Unreal Engine 5 and various AAA game franchises such as Fortnite.Our team is in the midst of some exciting Webkit projects and as such are now looking to hire Senior programmers who’d like to join us as we build some cool stuff.In summary,
+
+    We are looking for Advanced C++ programming skills including templates and C++17/20 skills 
+    Technical knowledge of WebKit (Web Core / JavascriptCore) and browser engine code base in general
+    Working knowledge of web standards HTML5, CSS, JavaScript, DOM
+    Advanced debugging skills
+
+We are open to hiring fully remote or hybrid working  in either North America US/Canada) (West Coast To East Coast or indeed Europe. We can support relocation should you wish to live and work in a new country/City.  Our established team consists of some great people all collaborating to build truly groundbreaking tech that contributes to the future of 3D on the web.  This role offers the chance for you to collaborate with others on Webkit projects as well as enter the realms of Game engine technologies.Our hiring process:
+Step1:   A coffee chat with me 30 mins :coffee: via zoom
+Step 2:  Meet our tech lead  45 mins  :desktop_computer:
+Step 3:  Take Home Coding challenge (C++ focus to be completed in your own time) :man-facepalming:… I know .. but we all do this before joining the team here
+Step 4:  Panel interview -  meet with multiple team members across epic gamesI’m sure you are all super busy right now with your current projects, if you are interested or know of someone that would be? , then please reach out to me on here via slack DM or e-mail Glen.ratcliffe@epicgames.com   From there we can coordinate a meeting and walk through the particulars in more detail.thank you very much for reading my note….  is it too early to say it? ,,,…… nah… I’m going for it …. Merry Xmas to you all :santa:
+
 这个错误 0x80072ee7 确实是网络连接问题，这里有几个解决方案：
 
 1. DNS 设置修改：
