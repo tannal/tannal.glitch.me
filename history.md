@@ -7,6 +7,132 @@ https://groups.google.com/a/chromium.org/g/chromium-dev
 (22) Discord | #general | Voxell
 https://discord.com/channels/442334985471655946/501429618331484160
 
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+About | Arcan
+https://arcan-fe.com/about/
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+25207 – ld: support --image-base= for elf (and -Ttext-segment -z separate-code strangeness)
+https://sourceware.org/bugzilla/show_bug.cgi?id=25207
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/113671
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Mozilla Careers — All open positions at Mozilla
+https://www.mozilla.org/en-US/careers/listings/
+
+JayChou
+https://jayge.netlify.app/
+
+Daniel Liu github - Google 搜索
+https://www.google.com.hk/search?q=Daniel+Liu+github&newwindow=1&client=ubuntu-sn&hs=hlM&sca_esv=640dfa46d8859720&channel=fs&ei=9nsbZ5m3LY_x0PEPgZmEuAc&ved=0ahUKEwiZiqeCsqmJAxWPODQIHYEMAXcQ4dUDCA8&uact=5&oq=Daniel+Liu+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEURhbmllbCBMaXUgZ2l0aHViMgcQIRigARgKMgcQIRigARgKSLUMUNECWMILcAF4AZABAJgB8AKgAbsMqgEFMi0xLjS4AQPIAQD4AQGYAgagAswMwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAoYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIHEAAYgAQYE8ICCBAAGBMYChgewgIIEAAYExgIGB7CAgUQIRigAZgDAIgGAZAGCpIHBTEuMy01oAe5Cw&sclient=gws-wiz-serp
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+腾讯云最新活动_腾讯云促销优惠_代金券-腾讯云官网入口
+https://cloud.tencent.com/act
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Babel · The compiler for next generation JavaScript
+https://babel.dev/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&corejs=3.21&spec=false&loose=false&code_lz=AIMwrgxg1gFARARgEwGY4EoBQEA2BDAZwIAICALASwBdiBvTY4zAXyA&debug=false&forceAllTransforms=false&modules=false&shippedProposals=false&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Cstage-2%2Cstage-3&prettier=false&targets=&version=7.25.9&externalPlugins=&assumptions=%7B%7D
+
+Henri Sivonen's pages
+https://hsivonen.fi/
+
+An HTML5 Conformance Checker - html5-conformance-checker.pdf
+https://hsivonen.fi/thesis/html5-conformance-checker.pdf
+
+boblsturm (Bob L. T. Sturm)
+https://github.com/boblsturm
+
+Bob L. T. Sturm - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Bob+L.+T.+Sturm+
+
+Problem loading page
+https://www.kth.se/profile/bobs
+
+‪Bob L. T. Sturm‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=KdeYIvMAAAAJ&view_op=list_works&sortby=pubdate
+
+Profiles
+https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:music_generation
+
+ISMIR 2023: The Chordinator: Chord Progression Modeling and Generation using Transformers
+https://ismir2023program.ismir.net/lbd_316.html
+
+ISMIR 2025 - Google 搜索
+https://www.google.com.hk/search?q=ISMIR+2025&newwindow=1&client=ubuntu-sn&hs=QQN&sca_esv=640dfa46d8859720&channel=fs&ei=04UbZ7OhEvG6kPIPkrbjqQY&oq=ISMIR&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUlTTUlSKgIIATIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0j2yQFQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACC5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+International Society for Music Information Retrieval - Wikipedia
+https://en.wikipedia.org/wiki/International_Society_for_Music_Information_Retrieval
+
+ISMIR 2024
+https://ismir2024.ismir.net/
+
+AI Audio Models to Power Your Music Business | Music AI
+https://music.ai/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+music.ai github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=music.ai+github
+
+Curated-Awesome-Lists/awesome-ai-music-generation: A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
+https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation?tab=readme-ov-file
+
+hinton mnist pytorch github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=hinton+mnist+pytorch+github
+
+mpezeshki/pytorch_forward_forward: Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
+https://github.com/mpezeshki/pytorch_forward_forward
+
+mpezeshki/pytorch_forward_forward: Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
+https://github.com/mpezeshki/pytorch_forward_forward
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(22) Discord | #general | Voxell
+https://discord.com/channels/442334985471655946/501429618331484160
+
 Graphite | User manual
 https://graphite.rs/learn/
 
