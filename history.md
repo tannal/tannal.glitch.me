@@ -4,6 +4,171 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(23) Discord | #general | Voxell
+https://discord.com/channels/442334985471655946/501429618331484160
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+About | Arcan
+https://arcan-fe.com/about/
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [13] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+25207 – ld: support --image-base= for elf (and -Ttext-segment -z separate-code strangeness)
+https://sourceware.org/bugzilla/show_bug.cgi?id=25207
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/113671
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+jobs (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTUMDLB5Z
+
+Systems Engineer - Oven
+https://apply.workable.com/oven/j/A7A1388873/
+
+Mozilla Careers — All open positions at Mozilla
+https://www.mozilla.org/en-US/careers/listings/
+
+JayChou
+https://jayge.netlify.app/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+online-fix - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=online-fix
+
+Don't understand all this "online fix" thing. : r/PiratedGames
+https://www.reddit.com/r/PiratedGames/comments/1ahmcbc/dont_understand_all_this_online_fix_thing/
+
+windows subsystem for linux history - Google 搜索
+https://www.google.com.hk/search?q=windows+subsystem+for+linux+history&newwindow=1&client=ubuntu-sn&hs=672&sca_esv=b5f308da97a3efdb&channel=fs&ei=aYsbZ9X7KqzSkPIPxKyAqQY&ved=0ahUKEwiV1JbgwKmJAxUsKUQIHUQWIGUQ4dUDCA8&uact=5&oq=windows+subsystem+for+linux+history&gs_lp=Egxnd3Mtd2l6LXNlcnAiI3dpbmRvd3Mgc3Vic3lzdGVtIGZvciBsaW51eCBoaXN0b3J5MgoQABiABBhDGIoFMhAQLhiABBjRAxhDGMcBGIoFMgUQABiABDIGEAAYBxgeMgwQLhjRAxgHGMcBGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeSKMuUPQLWLstcAF4AZABAZgB8QOgAdhDqgEIMi0yLjIxLjK4AQPIAQD4AQGYAgKgAr8CwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMy0xoAf5VQ&sclient=gws-wiz-serp
+
+Windows Subsystem for Linux - Wikipedia
+https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(37) Teaching myself C so I can build a particle simulation - YouTube
+https://www.youtube.com/watch?v=NorXFOobehY
+
+VerletIntegration/src at main · marichardson137/VerletIntegration
+https://github.com/marichardson137/VerletIntegration/tree/main/src
+
+Diffrntleqn3.dvi - Diffrntleqn3.pdf
+http://physics.drexel.edu/~valliere/PHYS305/Diff_Eq_Integrators/Verlet_Methods/Diffrntleqn3.pdf
+
+(37) YouTube
+https://www.youtube.com/
+
+(37) Watch Firefox Linux developer debug Twitch & YouTube Livestreaming [AUDIO Codec & SANDBOX] ! - YouTube
+https://www.youtube.com/watch?v=W80DJjNGE7c
+
+(37) YouTube
+https://www.youtube.com/feed/history
+
+(37) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=914s
+
+codehag's Schedule - Twitch
+https://www.twitch.tv/codehag/schedule
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=sanctions&op=translate
+
+codehag/compiler-compiler-dev
+https://github.com/codehag/compiler-compiler-dev
+
+es corejs - Google 搜索
+https://www.google.com.hk/search?q=es+corejs&newwindow=1&client=ubuntu-sn&hs=Umj&sca_esv=caeede1df1a57461&channel=fs&ei=Mp8bZ-m6J__KkPIP1IrJ2AY&ved=0ahUKEwjpm6rP06mJAxV_JUQIHVRFEmsQ4dUDCA8&uact=5&oq=es+corejs&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWVzIGNvcmVqczIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIpQxQmgZYtgtwAngBkAEAmAHZAqAB-AaqAQUyLTIuMbgBA8gBAPgBAZgCBaAClQfCAgoQABiwAxjWBBhHwgIHEAAYgAQYDMICChAAGIAEGEMYigXCAgUQLhiABJgDAIgGAZAGBZIHBzIuMC4yLjGgB6AL&sclient=gws-wiz-serp
+
+zloirock (Denis Pushkarev)
+https://github.com/zloirock
+
+zloirock
+http://zloirock.ru/
+
+do expression proposal github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=do+expression+proposal+github
+
+How should this proposal work with pattern matching? · Issue #77 · tc39/proposal-do-expressions
+https://github.com/tc39/proposal-do-expressions/issues/77
+
+kotlin compiler github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kotlin+compiler+github
+
+JetBrains/kotlin: The Kotlin Programming Language.
+https://github.com/JetBrains/kotlin
+
+Linus Torvalds comments on the Russian Linux maintainers being delisted | Hacker News
+https://news.ycombinator.com/item?id=41927838
+
+a tour of tensorflow - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=a+tour+of+tensorflow
+
+1610.01178v1.pdf
+https://arxiv.org/pdf/1610.01178
+
+Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Peter+Goldsborough#vhid=eKNaEYtFLiSG0M&vssid=_W6wbZ-DsJqqxur8PxeXwkAc_43
+
+A Promenade of PyTorch – Peter Goldsborough
+http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+goldsborough (Peter Goldsborough)
+https://github.com/goldsborough
+
+(37) CppCon 2018: Peter Goldsborough “Machine Learning in C++ with PyTorch” - YouTube
+https://www.youtube.com/watch?v=auRPXMMHJzc
+
+Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?q=Peter+Goldsborough+&newwindow=1&client=ubuntu-sn&sca_esv=5cd8ca07d431f45d&channel=fs&ei=qa0bZ4jwJJnQkPIPu--l8AU&ved=0ahUKEwjI6IS14amJAxUZKEQIHbt3CV4Q4dUDCA8&uact=5&oq=Peter+Goldsborough+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1BldGVyIEdvbGRzYm9yb3VnaCAyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIESLgMUKgKWKgKcAB4AJABAJgBygigAesLqgEHNC0xLjctMbgBA8gBAPgBAZgCAqAC_AuYAwCIBgGQBgSSBwc0LTEuNy0xoAfeAw&sclient=gws-wiz-serp
+
+(37) CppCon 2017: Peter Goldsborough “A Tour of Deep Learning With C++” - YouTube
+https://www.youtube.com/watch?v=Lo1rXJdAJ7w
+
+The LD_PRELOAD trick (2016) | Hacker News
+https://news.ycombinator.com/item?id=22715005
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (22) Discord | #general | Voxell
 https://discord.com/channels/442334985471655946/501429618331484160
 
