@@ -1,4 +1,48 @@
 
+vanim
+Manim/ManimGL 使用 LaTeX 主要用于：
+
+1. 数学公式渲染
+```python
+# Manim中的LaTeX使用
+Text("$\\frac{d}{dx}\\int_a^x f(t)\\,dt=f(x)$")
+```
+
+2. 文本排版
+- 定理环境
+- 多行公式对齐
+- 专业的数学符号
+
+用Typst你需要实现类似功能：
+
+1. 核心需求
+```rust
+// 基础数学公式
+let formula = typst.parse(r"$f(x) = \sum_{n=0}^∞ a_n x^n$")
+
+// 定理/证明环境
+let theorem = typst.parse(r"
+#theorem[
+  For any continuous function...
+]")
+
+// 公式动画
+render_formula_step_by_step(formula)
+```
+
+2. 动画特性
+- 公式渐现
+- 公式变换
+- 逐步构建
+- 高亮效果
+
+主要区别：
+- Typst编译更快
+- 语法更简洁
+- 更容易程序化控制
+- 原生Unicode支持
+
+实际上Typst的应用范围可能比Manim中的LaTeX更广，因为它的API更现代化。
 
 主要工作量分以下几个部分：
 

@@ -1,7 +1,146 @@
 
 # 2024-10-25
 
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(22) Discord | #free-epic-games | Game Shark
+https://discord.com/channels/842312201708634164/1131121623282499686
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+SIMD in the lexer · Issue #2296 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/2296
+
+Tutorial | EpicFreeGames
+https://epicfreegames.net/tutorial
+
+voxell-tech/bevy_motiongfx: Motion graphics creation tool in Bevy. (Highly inspired by Motion Canvas and Manim)
+https://github.com/voxell-tech/bevy_motiongfx
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Nextcloud: Open-Source Cloud Apps | Hacker News
+https://news.ycombinator.com/item?id=41615102
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=rustcloud&sort=byPopularity&type=story
+
+Launching Rust Cloud Native · Nick Gerace Hacks
+https://nickgerace.dev/posts/launching-rust-cloud-native/
+
+linebender/vello_svg at f95acf98bf954ecc068bd848cbfd2bfd880ecbc9
+https://github.com/linebender/vello_svg/tree/f95acf98bf954ecc068bd848cbfd2bfd880ecbc9?tab=readme-ov-file
+
+NVIDIA GPU profiling with Rust | Spencer C. Imbleau’s blog
+https://simbleau.github.io/rust/graphics/2022/06/19/nvidia-gpu-profiling-with-rust.html
+
+Spencer C. Imbleau | Homepage
+https://www.spencer.imbleau.com/resume
+
+simbleau/resume: My personal résumé's source code.
+https://github.com/simbleau/resume
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.999.0.0
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+PeerTube
+https://github.com/PeerTube
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+yongkyuns/noon: Animation engine inspired by manim, written in Rust
+https://github.com/yongkyuns/noon
+
+vanim github - Google 搜索
+https://www.google.com.hk/search?q=vanim+github&newwindow=1&client=ubuntu-sn&hs=FRc&sca_esv=d0a9eaf1d562b5fc&channel=fs&ei=8TAbZ461HOLJwN4Poum5oAQ&ved=0ahUKEwjO8cG86qiJAxXiJNAFHaJ0DkQQ4dUDCA8&uact=5&oq=vanim+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHZhbmltIGdpdGh1YjIHEAAYgAQYDTIHEAAYgAQYDTIHEAAYgAQYDTIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeMgYQABgNGB4yBhAAGA0YHjIGEAAYDRgeSIsWUP4FWOcUcAB4AJABAJgBwwigAckVqgELMi0zLjAuMi43LTG4AQPIAQD4AQGYAgagAtoVwgIJEAAYsAMYBxgewgIKEAAYgAQYsAMYCsICChAuGIAEGLADGArCAgwQABiwAxgHGMcDGB7CAhAQLhiABBiwAxjIAxgK2AEBwgIHEAAYgAQYE8ICBxAuGIAEGBPCAgkQABiABBgTGArCAgkQLhiABBgTGArCAggQABgNGB4YD5gDAIgGAZAGDLoGBAgBGAiSBwsyLTMuMC4yLjAuMaAH6SQ&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3AReantric%2Fvanim%20skia&type=code
+
+JayChou
+https://jayge.netlify.app/
 
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
