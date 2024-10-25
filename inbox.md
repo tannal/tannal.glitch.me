@@ -1,6 +1,13 @@
 
 # 2024-10-25 0 | 0
 
+
+逻辑和形式化数学语言最大的错误就是认为内容是不重要的，认为形式大于内容本身。
+认为”一头牛“中的”牛“是无关紧要的而只想着去表达”一“。
+对于任何的智能系统，内容均严格大于形式，形式是计算而不是智能。
+
+rerun.io seems also doing some kind of data visualization
+
 kpsewhich standalone.cls
 
 hobby project -> talks/blog posts/videos outreach -> funding -> seious project
