@@ -1,4 +1,18 @@
 
+戴尔EMC
+戴尔EMC是存储领域的主要厂商之一,他们在SSD RAID方面做了大量工作。2014年,他们推出了基于SSD的RAID解决方案VMAX3,支持RAID 1、RAID 5和RAID 6。这为SSD RAID在企业级存储中的应用奠定了基础。
+Steven Pelissier
+Steven Pelissier是加州大学尔湾分校的教授,他的研究团队专注于SSD RAID的性能优化。他们提出了多种算法和技术,如扩展的RAID 5/6、分组写入和SSD感知的RAID等,以更好地利用SSD的性能特点。
+Mateusz Berezecki和Ada Goławska
+他们是来自华沙大学的研究人员,在2019年提出了一种适用于SSD的新RAID技术,被称为RAID-SP。该技术通过减少奇偶校验计算来降低SSD的写入放大,从而延长SSD的使用寿命。
+OpenZFS项目
+OpenZFS是一个开源项目,致力于为基于ZFS文件系统的存储设备提供支持。他们在OpenZFS 6.0版本中加入了对SSD RAID的实验性支持,包括了一些针对SSD优化的特性。
+英特尔
+作为SSD主要厂商之一,英特尔也在推进SSD RAID技术。他们的Optane SSD产品针对RAID环境进行了优化,提高了随机写入性能和耐久性。同时,他们还发布了SSD RAID白皮书,分享了最佳实践和经验。
+Avago Technologies
+Avago是一家知名的存储芯片和解决方案供应商,他们推出了针对SSD RAID的RAID控制芯片和技术,如DataON存储解决方案就采用了他们的芯片。
+
+
 目前最先进的开源 LaTeX 实现主要有以下几个:
 
 1. LuaTeX
