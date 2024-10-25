@@ -1,4 +1,11 @@
 
+
+# news
+
+https://gigazine.net/news/20241025-x-india-revenue-falls-90/
+
+# Social Media
+
 export CC="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/gcc"
 export CXX="/datapool/home/ph_teacher2/anaconda3/envs/tm_cuda11/bin/g++"
 
