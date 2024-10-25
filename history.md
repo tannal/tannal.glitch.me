@@ -1,3 +1,151 @@
+
+# 2024-10-25
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(28) Discord | #parser | oxc
+https://discord.com/channels/1079625926024900739/1080712024683708466
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+SIMD in the lexer · Issue #2296 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/2296
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c12
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+开展工作的平台 | Slack
+https://slack.com/intl/zh-cn/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+diodon - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=diodon
+
+Diodon Devs
+https://github.com/diodon-dev
+
+GPaste - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=GPaste
+
+Keruspe/GPaste: Clipboard management system
+https://github.com/Keruspe/GPaste
+
+Keruspe's blag - GPaste 2.9.1 released
+https://www.imagination-land.org/posts/2012-12-01-gpaste-released.html
+
+Keruspe/GPaste: Clipboard management system
+https://github.com/Keruspe/GPaste/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=gpaste&sort=byPopularity&type=story
+
+Parcellite - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Parcellite
+
+Issues · rickyrockrat/parcellite
+https://github.com/rickyrockrat/parcellite/issues
+
+gcr-4 pkgconfig - Google 搜索
+https://www.google.com.hk/search?q=gcr-4+pkgconfig&newwindow=1&client=ubuntu-sn&hs=FS3&sca_esv=6ac826d67940f619&channel=fs&ei=-lkaZ7L7Apm9kPIPhdOAkAE&ved=0ahUKEwiy4L67naeJAxWZHkQIHYUpABIQ4dUDCA8&uact=5&oq=gcr-4+pkgconfig&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2djci00IHBrZ2NvbmZpZzIFECEYoAEyBRAhGKABMgUQIRigAUj7KVDYBFj7KHABeAGQAQCYAcMCoAHgE6oBBTItOC4xuAEDyAEA-AEBmAIKoAKLFMICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABgTGAUYHsICBxAhGKABGAqYAwCIBgGQBgqSBwcxLjAuNy4yoAeuEQ&sclient=gws-wiz-serp
+
+build fail ----- ERROR: Dependency "gcr-4" not found, tried pkgconfig and cmake · Issue #407 · Keruspe/GPaste
+https://github.com/Keruspe/GPaste/issues/407
+
+Dependency "gnome-keybindings" not found - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dependency+%22gnome-keybindings%22+not+found
+
+No package 'gnome-keybindings' found · Issue #201 · Keruspe/GPaste
+https://github.com/Keruspe/GPaste/issues/201
+
+agendas/2024/10.md at fbe1bb6443aac8bd0e8b7749212a165dbc6b94e1 · tc39/agendas
+https://github.com/tc39/agendas/blob/fbe1bb6443aac8bd0e8b7749212a165dbc6b94e1/2024/10.md?plain=1#L155
+
+Language Evolution - Google 幻灯片
+https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/edit#slide=id.g30432c5cd9c_0_829
+
+moddable - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=moddable
+
+Moddable-OpenSource/moddable: Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.
+https://github.com/Moddable-OpenSource/moddable
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=moddable%20&sort=byPopularity&type=story
+
+ModuleNotFoundError: No module named 'mesonbuild.utils' - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ModuleNotFoundError%3A+No+module+named+%27mesonbuild.utils%27
+
+(ninja install,Ubuntu20.04)ModuleNotFoundError: No module named 'mesonbuild' · Issue #7258 · mesonbuild/meson
+https://github.com/mesonbuild/meson/issues/7258
+
+
 # 2024-10-24
 
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

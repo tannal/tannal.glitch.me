@@ -1,5 +1,16 @@
 
+# 2024-10-25 0 | 0
+
+
+
+# 2024-10-24 0 | 0
+
+
 # 2024-10-23 0 | 0
+
+meson setup --prefix=/opt/gpaste/ build
+
+sudo apt install libappstream-glib-dev gnome-control-center-dev 
 
 adb -s 192.168.43.58 pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
 
