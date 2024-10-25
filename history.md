@@ -4,6 +4,174 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(23) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+SIMD in the lexer · Issue #2296 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/2296
+
+Tutorial | EpicFreeGames
+https://epicfreegames.net/tutorial
+
+voxell-tech/bevy_motiongfx: Motion graphics creation tool in Bevy. (Highly inspired by Motion Canvas and Manim)
+https://github.com/voxell-tech/bevy_motiongfx
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+Re: [llvm/llvm-project] [LLD] -Ttext-segment is not supported (Issue #90044) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkcMKwKlkGvvPDPCznptZxvW
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/90044
+
+25207 – ld: support --image-base= for elf (and -Ttext-segment -z separate-code strangeness)
+https://sourceware.org/bugzilla/show_bug.cgi?id=25207
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+Avoid using destructuring in tco-fn-realm.js · tc39/test262@954d637
+https://github.com/tc39/test262/pull/4251
+
+Re: [llvm/llvm-project] [LLD] -Ttext-segment is not supported (Issue #90044) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJkcMKwKlkGvvPDPCznptZxvW
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/90044
+
+nextcloud github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nextcloud+github
+
+Nextcloud
+https://github.com/nextcloud
+
+10.106.146.44:8081/
+http://10.106.146.44:8081/
+
+tc39.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Language Evolution - Google 幻灯片
+https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/edit#slide=id.g30432c5cd9c_0_829
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Reserve critical free disk space to avoid server crash · Issue #47123 · nextcloud/server
+https://github.com/nextcloud/server/issues/47123
+
+nextcloud/all-in-one: 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+https://github.com/nextcloud/all-in-one#nextcloud-all-in-one
+
+Search — Nextcloud latest Developer Manual latest documentation
+https://docs.nextcloud.com/server/latest/developer_manual/search.html?q=docker&check_keywords=yes&area=default
+
+Search — Nextcloud latest User Manual latest documentation
+https://docs.nextcloud.com/server/latest/user_manual/en/search.html?q=docker&check_keywords=yes&area=default
+
+Nextcloud
+https://github.com/nextcloud
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Language Evolution - Google 幻灯片
+https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/edit#slide=id.g30432c5cd9c_2_0
+
+sysprog21/mado: A window system for resource-constrained devices
+https://github.com/sysprog21/mado/
+
+csranking - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=csranking
+
+Lottie - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Lottie+
+
+rerun-io/kittest: Automated GUI testing using accesskit
+https://github.com/rerun-io/kittest/tree/main
+
+Introduction | Testing Library
+https://testing-library.com/docs/dom-testing-library/intro
+
+tc39 decorators - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tc39+decorators
+
+tc39/proposal-decorators: Decorators for ES6 classes
+https://github.com/tc39/proposal-decorators
+
+"decorator" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=decorator
+
+Proposal of JavaScript becoming a compiled language: JS0 and JSSugar | Hacker News
+https://news.ycombinator.com/item?id=41764825
+
+(37) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (22) Discord | #free-epic-games | Game Shark
 https://discord.com/channels/842312201708634164/1131121623282499686
 
