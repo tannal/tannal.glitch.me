@@ -1,6 +1,14 @@
 
 # 2024-10-25 0 | 0
 
+ISMIR
+
+Bob L. T. Sturm
+
+https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation?tab=readme-ov-file
+
+https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation?tab=readme-ov-file
+
 docker run -d -p 8081:80 nextcloud
 
 tail -n 100 /var/log/apache2/error.log
