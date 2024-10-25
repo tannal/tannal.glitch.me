@@ -40,6 +40,150 @@ https://chat.mozilla.org/#/room/#gfx:mozilla.org
 MapObject.cpp - mozsearch
 https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
 
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c12
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+blackboardsh/electrobun: Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+https://github.com/blackboardsh/electrobun?tab=readme-ov-file
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=miniblink%20&sort=byPopularity&type=story
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+3blue1brown - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3blue1brown+
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(37) How I animate 3Blue1Brown | A Manim demo with Ben Sparks - YouTube
+https://www.youtube.com/watch?v=rbu7Zu5X1zI&t=196s
+
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+(37) An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE&t=2137s
+
+(37) How AI Solved Protein Folding and Won a Nobel Prize - YouTube
+https://www.youtube.com/watch?v=cx7l9ZGFZkw
+
+heycam github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=heycam+github
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=mozilla%20all%20hands&sort=byPopularity&type=story
+
+mozilla all hands recording - Google 搜索
+https://www.google.com.hk/search?q=mozilla+all+hands+recording&newwindow=1&client=ubuntu-sn&hs=5sX&sca_esv=19606ed1b9d5a8fa&channel=fs&ei=m-waZ63RI6fnkPIPqcPiuQ0&ved=0ahUKEwjtiuSmqaiJAxWnM0QIHamhONcQ4dUDCA8&uact=5&oq=mozilla+all+hands+recording&gs_lp=Egxnd3Mtd2l6LXNlcnAiG21vemlsbGEgYWxsIGhhbmRzIHJlY29yZGluZzIHECEYoAEYCjIHECEYoAEYCjIEECEYCkiyF1DkCVizFnABeACQAQCYAe0CoAGHF6oBBTItNi40uAEDyAEA-AEBmAIKoAKNFcICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGApIHBzEuMC41LjSgB9AZ&sclient=gws-wiz-serp
+
+MozWeek conference youtube - Google 搜索
+https://www.google.com.hk/search?q=MozWeek+conference+youtube&newwindow=1&client=ubuntu-sn&hs=Oas&sca_esv=19606ed1b9d5a8fa&channel=fs&ei=F-0aZ4jtM8PdkPIPvK6juQ0&ved=0ahUKEwjI1ITiqaiJAxXDLkQIHTzXKNcQ4dUDCA8&uact=5&oq=MozWeek+conference+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiGk1veldlZWsgY29uZmVyZW5jZSB5b3V0dWJlMggQIRigARjDBDIIECEYoAEYwwRI6iZQlBRY0CVwAXgAkAEAmAHkAqABpBeqAQUyLTcuM7gBA8gBAPgBAZgCA6AC4QTCAgsQABiABBiwAxiiBMICChAhGKABGMMEGAqYAwCIBgGQBgSSBwcxLjAuMS4xoAfCIw&sclient=gws-wiz-serp
+
+webkit developer meetings - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webkit+developer+meetings
+
+An Overview of webkit Layout - Google 搜索
+https://www.google.com.hk/search?q=An+Overview+of+webkit+Layout&newwindow=1&client=ubuntu-sn&hs=tJD&sca_esv=19606ed1b9d5a8fa&channel=fs&tbm=vid&ei=Fu4aZ8WNGcXVkPIPvcaEyAE&start=10&sa=N&ved=2ahUKEwjF8LXbqqiJAxXFKkQIHT0jARkQ8tMDegQIDxAE&biw=1850&bih=968&dpr=1
+
+An Overview of webkit Layout - Google 学术搜索
+https://scholar.google.com/scholar?q=An+Overview+of+webkit+Layout&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart
+
+Layout | WebKit
+https://webkit.org/blog/category/layout/
+
+(37) Status of the Layer Based SVG Engine in WebKit - YouTube
+https://www.youtube.com/watch?v=AC45xY8UBxs
+
+History of WebGPU in Deno - history_of_webgpu_in_deno_by_leo_kettmeir.pdf
+https://webengineshackfest.org/2024/slides/history_of_webgpu_in_deno_by_leo_kettmeir.pdf
+
+(37) How might LLMs store facts | Chapter 7, Deep Learning - YouTube
+https://www.youtube.com/watch?v=9-Jl0dxWQs8&t=122s
+
+webkitigalia github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webkitigalia+github
+
+nikolaszimmermann (Nikolas Zimmermann)
+https://github.com/nikolaszimmermann
+
+Zimmermann IT Consulting
+https://www.nikolaszimmermann.de/
+
+3b1b/videos: Code for the manim-generated scenes used in 3blue1brown videos
+https://github.com/3b1b/videos/issues
+
+3Blue1Brown Dropbox - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=3Blue1Brown+Dropbox
+
+manimProjects | Playing around with manim - animation engine used by 3Blue1Brown
+https://sujay-mahadik.github.io/manimProjects/
+
+luatex github - Google 搜索
+https://www.google.com.hk/search?q=luatex+github&newwindow=1&client=ubuntu-sn&hs=47s&sca_esv=b90d53d636259e2e&channel=fs&ei=P_UaZ73fKJickPIPnsbf0Qg&ved=0ahUKEwj9-srFsaiJAxUYDkQIHR7jN4oQ4dUDCA8&uact=5&oq=luatex+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWx1YXRleCBnaXRodWIyBBAAGB4yCBAAGIAEGKIESMEMUJICWLkLcAF4AZABAJgBqgKgAf4MqgEDMi02uAEDyAEA-AEBmAIHoAKJDcICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIFEAAYgATCAgcQABiABBgKmAMAiAYBkAYKkgcFMS4wLjagB4AJ&sclient=gws-wiz-serp
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(28) Discord | #parser | oxc
+https://discord.com/channels/1079625926024900739/1080712024683708466
+
+Graphite | User manual
+https://graphite.rs/learn/
+
+DjDeveloperr/skia_canvas: Fast HTML Canvas API implementation for Deno using Google Skia
+https://github.com/DjDeveloperr/skia_canvas
+
+rust-analyzer/docs/dev/architecture.md at master · rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/blob/master/docs/dev/architecture.md
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+Arcan | IRC: #arcan @ irc.libera.chat
+https://arcan-fe.com/
+
+pwndbg/pwndbg: Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+Graphite
+https://dev.graphite.rs/
+
+SIMD in the lexer · Issue #2296 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/2296
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
 收件箱 - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 
