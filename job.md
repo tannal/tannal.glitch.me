@@ -592,6 +592,7 @@ apply
 
 ## TODO
 
+[] tiktok AI generate output.
 [] manimgl cario/vello latex/typst
 [] vello_editor with y-crt or eg-walker collabration 
 [] yong gihtub issues he qita public api ganfan weixin gongzhonghao

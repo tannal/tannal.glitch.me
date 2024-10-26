@@ -1,4 +1,132 @@
 
+# 2024-10-26
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(24) Discord | #general | Voxell
+https://discord.com/channels/442334985471655946/501429618331484160
+
+NLnet; Apply for a grant
+https://nlnet.nl/propose/
+
+About | Arcan
+https://arcan-fe.com/about/
+
+canny-edge-detection/main.cu at ca50f72414c1ec6e50353e413ba5985e0e8b6a62 · akhuntsaria/canny-edge-detection
+https://github.com/akhuntsaria/canny-edge-detection/blob/ca50f72414c1ec6e50353e413ba5985e0e8b6a62/main.cu#L167
+
+Element [11] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+MapObject.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/ec82d34b786f309f9901efe989d59cb55bd61cf0/js/src/builtin/MapObject.cpp#2132-2134
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Failing to initialize remote · Issue #16406 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/16406#issuecomment-2430394712
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771#c4
+
+25207 – ld: support --image-base= for elf (and -Ttext-segment -z separate-code strangeness)
+https://sourceware.org/bugzilla/show_bug.cgi?id=25207
+
+[LLD] -Ttext-segment is not supported · Issue #90044 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/113671
+
+1926280 - BounceTrackingProtectionStorage::mFinalized is never read
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926280
+
+Symbol F_<T_mozilla::BounceTrackingProtectionStorage>_mFinalized - mozsearch
+https://searchfox.org/mozilla-central/search?q=symbol:F_%3CT_mozilla%3A%3ABounceTrackingProtectionStorage%3E_mFinalized&redirect=false
+
+random (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/C06G51PFZ
+
+Systems Engineer - Oven
+https://apply.workable.com/oven/j/A7A1388873/apply/
+
+Pull requests · oven-sh/bun
+https://github.com/oven-sh/bun/pulls
+
+Mozilla Careers — All open positions at Mozilla
+https://www.mozilla.org/en-US/careers/listings/
+
+JayChou
+https://jayge.netlify.app/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Peter+Goldsborough
+
+TartanLlama/sdb: Source code for the book Building a Debugger
+https://github.com/TartanLlama/sdb
+
+Yangqing Jia
+http://daggerfs.com/
+
+Building a Debugger | No Starch Press
+https://nostarch.com/building-a-debugger
+
+cpuhrsch (cpuhrsch) / Repositories
+https://github.com/cpuhrsch?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastYear&page=0&prefix=true&query=documentry%20&sort=byPopularity&type=story
+
+The Documentries
+https://tannal.github.io/p/the-documentries/#pytorch-documentry
+
+Stanley Chan - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsa&sca_esv=ddfd98cd2ab249ea&channel=fs&q=Stanley+Chan&spell=1&sa=X&ved=2ahUKEwiP1pqN_KqJAxU8JEQIHWRqFW0QBSgAegQIChAB
+
+ECE 50024: Machine Learning
+https://engineering.purdue.edu/ChanGroup/ECE595/index.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+(37) Deriving 3D Rigid Body Physics and implementing it in C/C++ (with intuitions) - YouTube
+https://www.youtube.com/watch?v=4r_EvmPKOvY
+
+notes_opener_99.PDF - phys_model.pdf
+https://graphics.stanford.edu/courses/cs448b-00-winter/papers/phys_model.pdf
+
+(37) All Rust features explained - YouTube
+https://www.youtube.com/watch?v=784JWR4oxOI
+
+test262.fyi
+https://test262.fyi/#|v8,jsc,sm,hermes,qjs,libjs,graaljs,nova,engine262,babel
+
+engine262 github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=engine262+github
+
+engine262/src/parser/LanguageParser.mts at main · engine262/engine262
+https://github.com/engine262/engine262/blob/main/src/parser/LanguageParser.mts
+
 # 2024-10-25
 
 Chromium-dev - Google 群组
