@@ -4,6 +4,153 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(25) Discord | #main-chat | Online-Fix
+https://discord.com/channels/619452924522922013/653706482713624599/1294447640322375730
+
+Element [11] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Code search results
+https://github.com/search?q=repo%3Atc39%2Ftest262%20Meng%20Tan&type=code
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+JayChou
+https://jayge.netlify.app/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+tannal (tannal)
+https://github.com/tannal/
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Unicode Technologu Workshop 2024 youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Unicode+Technologu+Workshop+2024+youtube
+
+online-fix with steam - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=online-fix+with+steam
+
+BadKiko/steam-online-fix-launcher: This script allows you to launch 'steam is not running' online-fix games
+https://github.com/BadKiko/steam-online-fix-launcher
+
+(37) Steve Jobs The Lost Interview - YouTube
+https://www.youtube.com/watch?v=rDqQcmVqAm4
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Problem loading page
+http://web.archive.org/web/20120814171122/http://blog.smartbear.com/software-quality/bid/167059/
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Issues · test262-fyi/test262.fyi
+https://github.com/test262-fyi/test262.fyi/issues?page=2&q=is%3Aissue+is%3Aclosed
+
+web-platform-tests dashboard
+https://wpt.fyi/results/?label=experimental&label=master&aligned
+
+web-platform-tests dashboard
+https://wpt.fyi/about
+
+web-platform-tests/wpt.fyi: web-platform-tests dashboard
+https://github.com/web-platform-tests/wpt.fyi
+
+test262.fyi
+https://test262.fyi/#|v8,jsc,babel
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=legit&op=translate
+
+test262 fyi tests online - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=test262+fyi+tests+online
+
+Porffor passes 50% of Test262
+https://goose.icu/porffor-50/
+
+test262.fyi
+https://test262.fyi/#
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+bterlson/eshost-cli: Run ECMAScript code uniformly across any ECMAScript host
+https://github.com/bterlson/eshost-cli
+
+test262 github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=test262+github
+
+ptomato (Philip Chimento) / Following
+https://github.com/ptomato?tab=following
+
+CanadaHonk (Oliver Medhurst)
+https://github.com/CanadaHonk
+
+2021年总结 | MaskRay
+https://maskray.me/blog/2021-12-31-summary
+
+MaskRay's profile - asciinema.org
+https://asciinema.org/~MaskRay
+
+Yuxin's Homepage
+https://ppwwyyxx.com/
+
+近况 | MaskRay
+https://maskray.me/blog/2016-12-10-situation
+
+MaskRay/pcap-search
+https://github.com/MaskRay/pcap-search
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=How%20to%20create%20a%20private%20npm.js%20repository&sort=byPopularity&type=story
+
+Wayback Machine
+https://web.archive.org/web/20121101000000*/http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository
+
+How to create a private npm.js repository by Tom Gallacher
+https://web.archive.org/web/20121230033020/http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository
+
+Erik Lundin (mjorhimself) no Twitter
+https://web.archive.org/web/20130917074810/https://twitter.com/mjorhimself
+
+Michele Cronnelle (MikeCronn) on Twitter
+https://web.archive.org/web/20130929103158/https://twitter.com/MikeCronn
+
+Tom Gallacher (tomgco) no Twitter
+https://web.archive.org/web/20130917095156/https://twitter.com/tomgco
+
+Robert X. Cringely - Google 搜索
+https://www.google.com.hk/search?q=+Robert+X.+Cringely&newwindow=1&client=ubuntu-sn&hs=ltd&sca_esv=f331bfbc6967d90b&channel=fs&ei=LX0cZ_DSH6Tep84P8tya6QQ&ved=0ahUKEwiwnb-op6uJAxUk78kDHXKuJk0Q4dUDCA8&uact=5&oq=+Robert+X.+Cringely&gs_lp=Egxnd3Mtd2l6LXNlcnAiEyBSb2JlcnQgWC4gQ3JpbmdlbHkyBxAuGIAEGBMyBhAAGBMYHjIGEAAYExgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyFhAuGIAEGBMYlwUY3AQY3gQY4ATYAQFIyClQvhdYvhdwAXgBkAEAmAGcAqABnAKqAQMyLTG4AQPIAQD4AQGYAgKgAqsCwgIKEAAYsAMY1gQYR5gDAIgGAZAGCroGBggBEAEYFJIHBTEuMC4xoAfTBQ&sclient=gws-wiz-serp
+
+evlun
+https://github.com/evlun
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (24) Discord | #general | Voxell
 https://discord.com/channels/442334985471655946/501429618331484160
 

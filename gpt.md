@@ -1,4 +1,39 @@
 
+
+Bloomberg的前端团队规模大有几个主要原因：
+
+1. 核心业务需求
+- 金融终端复杂的实时数据展示
+- 大规模数据可视化
+- 高性能交易界面
+- 专业的金融分析工具
+
+2. 技术投入
+- TypeScript的重度使用者和贡献者
+- JavaScript语言标准(TC39)参与
+- 前端基础设施建设
+- 自研组件库和工具链
+
+3. 战略考虑
+- 核心竞争力在于终端产品体验
+- 从传统终端向Web化转型
+- 降低对专有技术的依赖
+- 吸引优秀工程师
+
+4. 行业特点
+- 金融行业利润高，技术投入大
+- 对性能和可靠性要求极高
+- 需要大量定制化开发
+- 用户愿意为好的工具付费
+
+投入TC39和TypeScript：
+- 确保语言发展符合企业需求
+- 影响技术标准制定
+- 提升技术品牌影响力
+- 帮助招聘和保留人才
+
+因此大规模前端投入对Bloomberg来说是很合理的业务决策。
+
 Hi there, :wave::skin-tone-2:.  I’m Glen Ratcliffe part of the Epic Games team.  Creators of Unreal Engine 5 and various AAA game franchises such as Fortnite.Our team is in the midst of some exciting Webkit projects and as such are now looking to hire Senior programmers who’d like to join us as we build some cool stuff.In summary,
 
     We are looking for Advanced C++ programming skills including templates and C++17/20 skills 

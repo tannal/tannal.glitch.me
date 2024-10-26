@@ -340,6 +340,12 @@ static void getPredecessors(BasicBlock &BB, SmallVectorImpl<BasicBlock *> &Prede
 }
 ```
 
+# Company
+
+RedHat
+SiFive
+
+
 # people
 
 author:topperc
