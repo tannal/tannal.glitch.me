@@ -586,7 +586,71 @@ apply
 
 # 2024-10-27 - 2024-11-4
 
+## Shit
+
+[] leetcode
+
+## Sleep
+
+[] 2024-10-26 23:40 dalay sleep
+
+## Eating
+
+[] 2024-10-27 12:02 delay lunch
+
+## Sports
+
+## Social Activities
+
+[] Chain Together with ruyu 10/26
+[] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [] October 28 2024 servo month meeting
+[] 10-24 zuhui
+[] 10-30 4:40PM 
+[] Coffee Compiler Club 10-01
+[] 10-24 linebender office hour 23:00
+[] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
+
+## Action needed from Me TODO
+
+[] Impment SIMD relaxed for wasm in JSC
+webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+
+[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
+
+## Blocked on others
+
+[] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[] review https://android-review.googlesource.com/c/platform/art/+/3284463
+
+
+[√] Do less day
+
+## Explore
+
+[] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
+[] Original folk-rnn training and inference.
+[] fritter flutter 3.7.8 fvm lese
+[] tiktok AI generate output.
+[] manimgl cario/vello latex/typst
+[] vello_editor with y-crt or eg-walker collabration 
+[] yong gihtub issues he qita public api ganfan weixin gongzhonghao
+    flutter kehuduan t
+[] zulip-server and frontend and flutter app.
+
+## Short Term Goal (one month)
+
+
+## Long Term Goal (three months & a year & three years & five years & ten years)
+
+[] 2025 4/ GSOC
+[] 2025 4/ sing
+[] 2025 1/ outreachy
+[] zed bun zig firefox/layout,grahics,sm,patform wasmtime wasmedge lineblender typst graphite
+[] bussieness centered tech zulip collarate CRDT
+[] RD centered tech
+[] chinese english japanese koera
+[] artists content maker
 
 # 2024-10-20 - 2024-10-27
 
@@ -613,7 +677,7 @@ What: any issue one wishes to triage.
 Who: anyone is welcome, but if there are no issues to discuss the meeting will be canceled.
 Please express your interest to attend and note the issue(s) you would like to triage(which can be one someone else already brought up).
 Last meeting at #104
-[] Impment SIMD
+[] Impment SIMD relaxed for wasm in JSC
 [] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 [] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 
@@ -629,7 +693,7 @@ Last meeting at #104
 [] Be good at solving puzzles for code interview
 [] Be good at solving puzzles for code interview
 
-[] Be a pianist play piano
+[x] Be a pianist play piano
 [] Be a pianist play piano
 [] Be a pianist play piano
 
