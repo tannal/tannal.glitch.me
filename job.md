@@ -645,12 +645,12 @@ apply
 ## Short Term Goal (one year)
 
 [] 50/800 20/700 achievements/commits
-
-## Long Term Goal (three years & five years & ten years)
-
 [] 2025 4/ GSOC
 [] 2025 4/ sing
 [] 2025 1/ outreachy
+
+## Long Term Goal (three years & five years & ten years)
+
 [] zed bun zig firefox/layout,grahics,sm,patform wasmtime wasmedge lineblender typst graphite
 [] bussieness centered tech zulip collarate CRDT
 [] RD centered tech
