@@ -638,10 +638,11 @@ webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14
     flutter kehuduan t
 [] zulip-server and frontend and flutter app.
 
-## Short Term Goal (one month)
+## Short Term Goal (one year)
 
+[] 50/800 20/700 achievements/commits
 
-## Long Term Goal (three months & a year & three years & five years & ten years)
+## Long Term Goal (three years & five years & ten years)
 
 [] 2025 4/ GSOC
 [] 2025 4/ sing
