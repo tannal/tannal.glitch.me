@@ -4,6 +4,177 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(23) Discord | #my-youtube-channel | Game Shark
+https://discord.com/channels/842312201708634164/1158156602734542918
+
+Element [12] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Code search results
+https://github.com/search?q=repo%3Atc39%2Ftest262%20Meng%20Tan&type=code
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+JayChou
+https://jayge.netlify.app/
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+Re: linux: Goodbye from a Linux community volunteer - James Bottomley
+https://lore.kernel.org/netdev/e7d548a7fc835f9f3c9cb2e5ed97dfdfa164813f.camel@HansenPartnership.com/
+
+Sanctions List Search
+https://sanctionssearch.ofac.treas.gov/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+tannal (tannal)
+https://github.com/tannal/
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Unicode Technologu Workshop 2024 youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Unicode+Technologu+Workshop+2024+youtube
+
+online-fix with steam - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=online-fix+with+steam
+
+BadKiko/steam-online-fix-launcher: This script allows you to launch 'steam is not running' online-fix games
+https://github.com/BadKiko/steam-online-fix-launcher
+
+(38) Steve Jobs The Lost Interview - YouTube
+https://www.youtube.com/watch?v=rDqQcmVqAm4
+
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Eric Lengyel youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Eric+Lengyel+youtube
+
+(38) TIMS講座－黎曼面導論(一)－齊震宇老師主講（2013.02.18.） - YouTube
+https://www.youtube.com/watch?v=tC841KEjnaY&list=PLp24IEwWwtLK9U512g8nmCGngognXsOrP
+
+Klein.js - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Klein.js
+
+Issues · node101-io/klein
+https://github.com/node101-io/klein/issues
+
+self pity - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=self+pity
+
+Self-pity - Wikipedia
+https://en.wikipedia.org/wiki/Self-pity
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=My%20notes%3A%0A%0A-%20Confucius%E2%80%99%20ideas%3A%20Filial%20piety%0A-%20the%20safest%20way%20to%20get%20what%20you%20want%20is%20to%20deserve%20what%20you%20want%0A-%20admiration-based%20love%0A-%20wisdom%20acquisition%20is%20a%20moral%20duty.%20It%20also%20means%20without%20lifelong%20learning%2C%20you%20won%E2%80%99t%20get%20very%20far%20in%20life.%0A-%20you%20can%20progress%20only%20when%20you%20learn%20the%20method%20of%20learning.%0A-%20learn%20all%20the%20big%20ideas%20from%20all%20the%20big%20disciplines%20in%20a%20mental%20lattice%20kind%20of%20way.%20It%20is%20equally%20important%20to%20practice%20those%20ideas%20otherwise%20you%20lose%20them.%0A-%20the%20man%20who%20doesn%E2%80%99t%20know%20what%20happened%20before%20he%20was%20born%20goes%20through%20life%20as%20a%20child.%0A-%20problems%20are%20usually%20easier%20to%20solve%20by%20reversing%20them.%20Ex.%20instead%20of%20finding%20ways%20to%20succeed%2C%20find%20ways%20to%20definitely%20fail.%0A-%20What%20will%20fail%20in%20life%3A%0A%20%20%20%20-%20sloth%20%26%20unreliability%3A%20If%20you%E2%80%99re%20unreliable%2C%20it%20doesn%E2%80%99t%20matter%20what%20your%20virtues%20are.%0A%20%20%20%20-%20extremely%20intense%20ideology%3A%20It%20clouds%20your%20mind%20%26%20your%20judgment.%20Especially%20when%20you%20declare%20support%20for%20it.%20Don%E2%80%99t%20have%20an%20opinion%20unless%20you%20can%20present%20the%20other%20side%E2%80%99s%20arguments%20better%20than%20they%20can.%0A%20%20%20%20-%20self-serving%20bias%3A%20You%20can%20use%20it%20to%20your%20advantage.%20Appeal%20to%20interest%20not%20to%20reason.%0A%20%20%20%20-%20envy%3A%20it%20never%20gives%20you%20joy.%0A%20%20%20%20-%20resentment%20%26%20revenge%3A%20instead%20practice%20Disraeli%20compromise.%0A%20%20%20%20-%20self-pity%3A%20it%20never%20improves%20the%20situation.%20carry%20cards%20with%20the%20words%20%E2%80%9CYour%20story%20has%20touched%20my%20heart.%20Never%20have%20I%20heard%20of%20anyone%20with%20as%20many%20misfortunes%20as%20you.%E2%80%9D%20Give%20it%20to%20yourself%20when%20you%20indulge%20in%20self-pity.%0A%20%20%20%20-%20work%20in%20perverse%20incentives.%0A%20%20%20%20-%20work%20in%20perverse%20associations.%0A-%20objectivity%20maintenance%3A%20pay%20special%20attention%20to%20disconfirming%20evidence.%0A-%20checklist%20routine%3A%20go%20through%20a%20mental%20routine%20of%20multidisciplinary%20concepts%20while%20making%20decisions.%20Helps%20avoid%20a%20lot%20of%20errors.%0A-%20Non%20egality%3A%20correct%20people%20should%20be%20chosen%20instead%20of%20dividing%20equally.%0A-%20Work%20with%20people%20with%20plank%20knowledge%20%26%20avoid%20people%20with%20chauffeur%20knowledge.%0A-%20always%20be%20prepared%20%26%20anticipate%20trouble.%0A-%20what%20you%20want%20is%20to%20work%20with%20people%20with%20whom%20you%E2%80%99ve%20got%20a%20seamless%20web%20of%20deserved%20trust.%20&op=translate
+
+(38) Charlie Munger Commencement Address - USC - YouTube
+https://www.youtube.com/watch?v=5U0TE4oqj24
+
+Slug Library for GPU font rendering github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Slug+Library+for+GPU+font+rendering+github
+
+Issues · GreenLightning/gpu-font-rendering
+https://github.com/GreenLightning/gpu-font-rendering/issues
+
+Slug: Dynamic GPU Font Rendering and Advanced Text Layout | Hacker News
+https://news.ycombinator.com/item?id=20475111
+
+Build Error · Issue #570 · servo/pathfinder
+https://github.com/servo/pathfinder/issues/570
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/
+
+paranoia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=paranoia
+
+Graphite/frontend at master · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/tree/master/frontend
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=merit&op=translate
+
+Ask HN: any type theory book recommendation? | Hacker News
+https://news.ycombinator.com/item?id=1224778
+
+tng-lics2003-slides.pdf
+https://www.cis.upenn.edu/~bcpierce/papers/tng-lics2003-slides.pdf
+
+Getting Started | Lambda the Ultimate
+http://lambda-the-ultimate.org/node/492
+
+ttfp.pdf
+https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf
+
+Programming in Martin-Lof's Type Theory
+https://www.cse.chalmers.se/research/group/logic/book/
+
+Benjamin C. Pierce - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Benjamin+C.+Pierce
+
+(38) Coffee Compiler Club, 2024_10_25 - YouTube
+https://www.youtube.com/watch?v=0nuTe22YAq8
+
+h2 database - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=h2+database
+
+svladykin/ReplicaMap: Key-value Kafka Database
+https://github.com/svladykin/ReplicaMap
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=H2%20Database%20Engine%20&sort=byPopularity&type=story
+
+H2 Database Engine vs sqlite - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=H2+Database+Engine+vs+sqlite
+
+database - H2 vs SQLite for java swing, which one should I use? - Stack Overflow
+https://stackoverflow.com/questions/75948260/h2-vs-sqlite-for-java-swing-which-one-should-i-use
+
+typed raw memory - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=typed+raw+memory
+
+typed-screeps/src/raw-memory.ts at master · screepers/typed-screeps
+https://github.com/screepers/typed-screeps/blob/master/src/raw-memory.ts
+
+张宏波(ZHANG, Hongbo) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E5%BC%A0%E5%AE%8F%E6%B3%A2%28ZHANG%2C+Hongbo%29
+
+全球马格尼茨基法案 - Google 搜索
+https://www.google.com.hk/search?q=%E5%85%A8%E7%90%83%E9%A9%AC%E6%A0%BC%E5%B0%BC%E8%8C%A8%E5%9F%BA%E6%B3%95%E6%A1%88&newwindow=1&client=ubuntu-sn&hs=NjH&sca_esv=ad8b10f10a4c0d3c&channel=fs&ei=8pwdZ46KLci4kPIPybG2IA&ved=0ahUKEwiOy9vgua2JAxVIHEQIHcmYDQQQ4dUDCA8&uact=5&oq=%E5%85%A8%E7%90%83%E9%A9%AC%E6%A0%BC%E5%B0%BC%E8%8C%A8%E5%9F%BA%E6%B3%95%E6%A1%88&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-WFqOeQg-mprOagvOWwvOiMqOWfuuazleahiDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jIKVDsJ1jsJ3ABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgGgAguYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+全球马格尼茨基人权问责法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/%E5%85%A8%E7%90%83%E9%A6%AC%E6%A0%BC%E5%B0%BC%E8%8C%A8%E5%9F%BA%E4%BA%BA%E6%AC%8A%E5%95%8F%E8%B2%AC%E6%B3%95
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (25) Discord | #main-chat | Online-Fix
 https://discord.com/channels/619452924522922013/653706482713624599/1294447640322375730
 
