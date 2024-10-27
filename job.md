@@ -611,7 +611,7 @@ apply
 [] 10-24 linebender office hour 23:00
 [] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
 
-## Action needed from Me TODO (don't need supervisor)
+## Action needed from Me TODO (don't need supervisor) 4
 
 [] complexity paper 11.10 17:00
 [] 10-28 ggml-mnist 
@@ -631,7 +631,7 @@ webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14
 
 [√] Do less day
 
-## Exploring & Learning (need supervisor)
+## Exploring & Learning (need supervisor) 1
 
 [] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 [] Original folk-rnn training and inference.
