@@ -602,7 +602,7 @@ apply
 [] fritter flutter 3.7.8 fvm lese
 [] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [x] review https://android-review.googlesource.com/c/platform/art/+/3284463
-[] 10-24 linebender office hour 23:00
+[x] 10-24 linebender office hour 23:00
 [x] 10-24 zuhui
 [] Where: https://meet.jit.si/ServoTriage.
 [x] Original folk-rnn training and inference.
@@ -633,7 +633,7 @@ Last meeting at #104
 [] Be a pianist play piano
 [] Be a pianist play piano
 
-[] Do less day
+[x] Do less day
 
 ## Explore
 
