@@ -620,8 +620,8 @@ webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14
 
 ## Blocked on others
 
-[] review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
-[] review https://android-review.googlesource.com/c/platform/art/+/3284463
+[] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
 
 
 [√] Do less day
