@@ -613,6 +613,7 @@ apply
 
 ## Action needed from Me TODO (don't need supervisor) 4
 
+[x] boost day E.G. 2024-10-27 KTV
 [] complexity paper 11.10 17:00
 [] 10-28 ggml-mnist 
 [] complex networking abstract 11.

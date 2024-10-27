@@ -1,4 +1,150 @@
 
+# 2024-10-27
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(24) Discord | #general | Flutter Dev
+https://discord.com/channels/420324994703163402/421445316617961502
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+Element [10] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+2023年总结 | MaskRay
+https://maskray.me/blog/2023-12-31-summary
+
+Segment tree | MaskRay
+https://maskray.me/blog/2021-04-11-segment-tree
+
+wechatircd/README.zhs.md at master · MaskRay/wechatircd
+https://github.com/MaskRay/wechatircd/blob/master/README.zhs.md
+
+Issues · MaskRay/telegramircd
+https://github.com/MaskRay/telegramircd/issues
+
+meowray (@meowray@hachyderm.io) - Hachyderm.io
+https://hachyderm.io/@meowray/media
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+test
+https://wavacity.com/
+
+Graphite
+https://editor.graphite.rs/
+
+mathematics for computer science from scratch pdf - Google 搜索
+https://www.google.com.hk/search?q=mathematics+for+computer+science+from+scratch+pdf&newwindow=1&client=ubuntu-sn&hs=gDf&sca_esv=691261aa57c4f8d5&channel=fs&ei=VMcdZ-KKBI_dkPIPkKKv0Aw&ved=0ahUKEwjihIqW4q2JAxWPLkQIHRDRC8oQ4dUDCA8&uact=5&oq=mathematics+for+computer+science+from+scratch+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiMW1hdGhlbWF0aWNzIGZvciBjb21wdXRlciBzY2llbmNlIGZyb20gc2NyYXRjaCBwZGYyBRAhGKABMgUQIRigAUjlKFCOGVjWJ3ADeACQAQCYAcoCoAHbDaoBBTItNC4yuAEDyAEA-AEBmAIHoAKrCcICCxAAGIAEGLADGKIEwgIHECEYoAEYCpgDAIgGAZAGA5IHBzMuMC4yLjKgB-QR&sclient=gws-wiz-serp
+
+mcs.pdf
+https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+
+Transformer Circuits Thread
+https://transformer-circuits.pub/
+
+(39) Ubuntu Summit 2024 | Day One - YouTube
+https://www.youtube.com/live/LPCg0NcQICQ?t=1089s
+
+(39) Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+屋顶-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=06066903&keyword=%E5%B1%8B%E9%A1%B6&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+
+【4K修复】【周杰伦&侯佩岑】经典屋顶合唱_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Sd4y127m7/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+tannal (tannal)
+https://github.com/tannal/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+utf8 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=utf8
+
+UTF-8 - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/UTF-8
+
+Bjarne Stroustrup utf8 string - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Bjarne+Stroustrup+utf8+string+
+
+Bjarne Stroustrup Quotes | Hacker News
+https://news.ycombinator.com/item?id=38424689
+
+Bjarne Stroustrup Quotes
+https://www.stroustrup.com/quotes.html
+
+P.J. Plauger c++ string utf8 - Google 搜索
+https://www.google.com.hk/search?q=P.J.+Plauger+c%2B%2B+string+utf8&newwindow=1&client=ubuntu-sn&hs=sXk&sca_esv=12c32a9e01a03173&channel=fs&ei=TBceZ5uZN_LNkPIP3NjdmQY&ved=0ahUKEwib76S4rq6JAxXyJkQIHVxsN2MQ4dUDCA8&uact=5&oq=P.J.+Plauger+c%2B%2B+string+utf8&gs_lp=Egxnd3Mtd2l6LXNlcnAiHFAuSi4gUGxhdWdlciBjKysgc3RyaW5nIHV0ZjgyCRAAGLADGAcYHjIJEAAYsAMYBxgeMgkQABiwAxgHGB4yCRAAGLADGAcYHjIJEAAYsAMYBxgeMgkQABiwAxgHGB4yCRAAGLADGAcYHjIIEAAYgAQYsAMyCBAAGIAEGLADMgcQABiwAxgeSKgzUIkHWO0vcAF4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACDJgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Language support (UTF-8 with std::string and std::cout) help - Post.Byes
+https://post.bytes.com/forum/topic/c/102756-language-support-utf-8-with-std-string-and-std-cout-help?t=131872
+
+deno/.github at main · denoland/deno
+https://github.com/denoland/deno/tree/main/.github
+
+vscode hardware acceration config - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+hardware+acceration+config
+
+Disable Hardware Acceleration (GPU) on Visual Studio Code
+https://gist.github.com/andriyudatama/fe5d00deb36feeea30ef35a5ea0f7eff
+
+Hardware acceleration on linux? · Issue #223996 · microsoft/vscode
+https://github.com/microsoft/vscode/issues/223996
+
 # 2024-10-26
 
 Chromium-dev - Google 群组
