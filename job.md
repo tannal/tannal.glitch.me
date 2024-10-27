@@ -602,8 +602,8 @@ apply
 
 ## Social Activities
 
-[] Chain Together with ruyu 10/26
-[] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
+[x] Chain Together with ruyu 10/26
+[x] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [] October 28 2024 servo month meeting
 [] 10-24 zuhui
 [] 10-30 4:40PM 
@@ -618,6 +618,8 @@ apply
 [] complex networking abstract 11.
 [] vidoes 
 [] blog
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 
 ## Blocked on others/supervisor
@@ -625,9 +627,6 @@ apply
 [] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
 
-[] Impment SIMD relaxed for wasm in JSC
-webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
-[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 [√] Do less day
 
