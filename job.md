@@ -611,22 +611,22 @@ apply
 [] 10-24 linebender office hour 23:00
 [] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
 
-## Action needed from Me TODO
+## Action needed from Me TODO (don't need supervisor)
 
-[] Impment SIMD relaxed for wasm in JSC
-webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
 
-[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
-## Blocked on others
+## Blocked on others/supervisor
 
 [] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
 [] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
 
+[] Impment SIMD relaxed for wasm in JSC
+webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 [√] Do less day
 
-## Explore
+## Exploring & Learning (need supervisor)
 
 [] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 [] Original folk-rnn training and inference.
