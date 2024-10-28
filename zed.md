@@ -335,3 +335,48 @@ We have a [YouTube channel](https://www.youtube.com/@zeddotdev) where we post lo
 ## Blog
 
 Our [blog](https://zed.dev/blog) gets frequent updates. We post about big releases, new features, and under-the-hood Zed tech.
+
+
+# Data Structures
+
+```rust
+pub struct AppContext {
+    pub(crate) this: Weak<AppCell>,
+    pub(crate) platform: Rc<dyn Platform>, (gpui, ui, picker, remote, terminal, title_bar, vim)
+    text_system: Arc<TextSystem>, (assets, editor, gpui, languages, markdown, repl, storybook, terminal, theme, zed)
+    flushing_effects: bool,
+    pending_updates: usize,
+    pub(crate) actions: Rc<ActionRegistry>, (editor, gpui, project, remote_server, vim, workspace, zed)
+    pub(crate) active_drag: Option<AnyDrag>, (gpui)
+    pub(crate) background_executor: BackgroundExecutor, (assistant, auto_update, call, channel, client, collab, collab_ui, command_palette, context servers, copilot, db, editor, extenstion, feedback, file_finder, gpui, image_viewer, indexed_docs, journal, language, language_model, live_kit_client, lsp, markdown, multi_buffer, outline, outline_pannel, prettier, project, project_pannel, project_symbols, rencent_projects, remote, repl, search, semantic_index,session, settings, snippets_ui, storybook, supermaven, task, tasks_ui, terminal, terminal_view, theme_selector, ui, vcs_menu, vim, welcome, workspace, worktree, zed)
+    pub(crate) foreground_executor: ForegroundExecutor, (assistant, call, collab, editor, extension, gpui, lsp, project, project_panel, remote, workspace, zed)
+    pub(crate) loading_assets: FxHashMap<(TypeId, u64), Box<dyn Any>>, (gpui)
+    asset_source: Arc<dyn AssetSource>, (assets, gpui, storybook, zed)
+    pub(crate) svg_renderer: SvgRenderer, (gpui)
+    http_client: Arc<dyn HttpClient>, (assistant, auto_update, client, collab, editor, extension, feedback, gpui, indexed_docs, language_model, lanuages, project, supermaven, zed)
+    pub(crate) globals_by_type: FxHashMap<TypeId, Box<dyn Any>>, (gpui)
+    pub(crate) entities: EntityMap, (client, gpui, remote, rpc)
+    pub(crate) new_view_observers: SubscriberSet<TypeId, NewViewListener>, (gpui)
+    pub(crate) windows: SlotMap<WindowId, Option<Window>>, (assisant, collab, command_palette, editor, gpui, recent_projects, workspace, zed)
+    pub(crate) window_handles: FxHashMap<WindowId, AnyWindowHandle>, (gpui)
+    pub(crate) keymap: Rc<RefCell<Keymap>>, (gpui)
+    pub(crate) global_action_listeners: (gpui)
+        FxHashMap<TypeId, Vec<Rc<dyn Fn(&dyn Any, DispatchPhase, &mut Self)>>>,
+    pending_effects: VecDeque<Effect>, (gpui)
+    pub(crate) pending_notifications: FxHashSet<EntityId>, (gpui)
+    pub(crate) pending_global_notifications: FxHashSet<TypeId>,(gpui)
+    pub(crate) observers: SubscriberSet<EntityId, Handler>,
+    // TypeId is the type of the event that the listener callback expects
+    pub(crate) event_listeners: SubscriberSet<EntityId, (TypeId, Listener)>, (gpui)
+    pub(crate) keystroke_observers: SubscriberSet<(), KeystrokeObserver>, (gpui)
+    pub(crate) release_listeners: SubscriberSet<EntityId, ReleaseListener>, (gpui)
+    pub(crate) global_observers: SubscriberSet<TypeId, Handler>, (gpui)
+    pub(crate) quit_observers: SubscriberSet<(), QuitHandler>, (gpui)
+    pub(crate) layout_id_buffer: Vec<LayoutId>, // We recycle this memory across layout requests. (gpui)
+    pub(crate) propagate_event: bool, (gpui)
+    pub(crate) prompt_builder: Option<PromptBuilder>, (assitant, gpui)
+
+    #[cfg(any(test, feature = "test-support", debug_assertions))]
+    pub(crate) name: Option<&'static str>,
+}
+```

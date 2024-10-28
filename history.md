@@ -4,6 +4,162 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(31) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+Yulia Startsev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Yulia+Startsev
+
+(40) JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/
+
+servo.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Graphite
+https://editor.graphite.rs/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Sourcetrail - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Sourcetrail
+
+egraether - home
+http://egraether.com/
+
+Discontinue Sourcetrail – Sourcetrail Developer Blog
+https://web.archive.org/web/20211115131149/https://www.sourcetrail.com/blog/discontinue_sourcetrail/
+
+CoatiSoftware/Sourcetrail: Sourcetrail - free and open-source interactive source explorer
+https://github.com/CoatiSoftware/Sourcetrail
+
+Sourcetrail: Free and Open-Source Interactive Source Explorer | Hacker News
+https://news.ycombinator.com/item?id=41179446
+
+Flomp/wanderer: wanderer is a self-hosted trail database. Save your adventures!
+https://github.com/Flomp/wanderer
+
+JavaScript JIT Engines timeline | Egbert Blog
+https://egbert.net/blog/articles/javascript-jit-engines-timeline.html
+
+egbert.net/images/timeline-js-jit-engines.svg
+https://egbert.net/images/timeline-js-jit-engines.svg
+
+CodeViz - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=CodeViz
+
+Problem loading page
+https://www.codeviz.ai/
+
+OpenSourceSpotter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=OpenSourceSpotter
+
+Add a section about how to request a new crate version by mrobinson · Pull Request #28 · servo/book
+https://github.com/servo/book/pull/28/files
+
+Implement go to recent directories feature by tannal · Pull Request #19059 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/19059/files#diff-eac7c8c99856f77cee39117708cd1467fd5bbc8805da2564f851951638020842
+
+Poe Preview
+https://poe.com/preview/EoiTtp46qYAgEO3prBW6
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+tannal/servo: The Servo Browser Engine
+https://github.com/tannal/servo/tree/main
+
+perplexity - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=perplexity
+
+Perplexity
+https://www.perplexity.ai/search/servo-full-screen-options-gkXNtWkPTca4NMf88WIe_g
+
+Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://servo.org/
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/css-flexbox/flex-flow-002.html?label=experimental&label=master&aligned
+
+midjourney - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=midjourney
+
+Explore
+https://www.midjourney.com/explore?tab=top
+
+CSS Flexbox: flex factors less than one
+https://wpt.live/css/css-flexbox/flex-factor-less-than-one.html
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (27) Discord | #offtopic | Lapce
 https://discord.com/channels/946858761413328946/1034162742766096494/1234305908901937243
 

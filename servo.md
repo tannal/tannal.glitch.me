@@ -1,5 +1,6 @@
 # dev
 
+./mach test-wpt ./tests/wpt/tests/css/css-flexbox/flex-factor-less-than-one.html
 # tests
 
 http://lobste.rs

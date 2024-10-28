@@ -2,8 +2,8 @@
 
 # 2024-10-28 0 | 0
 
-
-
+https://egbert.net/blog/articles/javascript-jit-engines-timeline.html
+http://egraether.com/
 
 # 2024-10-27 0 | 0
 
