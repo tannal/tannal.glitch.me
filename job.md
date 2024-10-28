@@ -588,9 +588,9 @@ apply
 
 ## Shit
 
-[x] leetcode
-[x] leetcode
-[] leetcode
+[x] leetcode Regex
+[x] leetcode N-Queue
+[] leetcode basic-calculator
 
 ## Sleep
 
@@ -618,9 +618,9 @@ apply
 
 [x] boost day E.G. 2024-10-27 KTV
 [] complexity paper 11.10 17:00
-[] 10-28 ggml-mnist 
+[x] 10-28 ggml-mnist 
 [] complex networking abstract 11.
-[] vidoes 
+[x] vidoes 
 [] blog
 [] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
 [] Implement go to recent directories in zed potential mentor SomeoneToIgnore
