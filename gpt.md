@@ -1,4 +1,38 @@
+WebAssembly团队在2020年裁员中的情况：
 
+主要人员变动：
+
+1. Luke Wagner (元老级人物)
+- 继续留在Mozilla
+- WebAssembly规范主要贡献者
+- SpiderMonkey团队核心成员
+
+2. Ben Smith
+- 从Mozilla离职
+- 加入了Google，继续从事WebAssembly工作
+- 现在是WebAssembly CG主席之一
+
+3. Alex Crichton
+- 离开Mozilla
+- 加入了MongoDB
+- 继续维护wasm-bindgen等Rust WebAssembly工具链
+
+4. 其他team成员:
+- Till Schneidereit - 离开后联合创立Futurewei
+- Nick Fitzgerald - 离职后去向不太清楚
+- Ryan Hunt - 离开Mozilla后的具体去向不详
+
+需要注意，这些信息可能有所缺漏或不够新。Mozilla的WebAssembly工作现在主要集中在:
+
+- SpiderMonkey引擎中的WebAssembly支持
+- 基础工具链维护
+- 规范参与
+
+很多原Mozilla WebAssembly团队成员现在分散在:
+- Google
+- Bytecode Alliance
+- 其他科技公司
+继续推动WebAssembly技术发展。
 
 让我系统地介绍形式验证领域的情况：
 
