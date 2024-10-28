@@ -589,17 +589,19 @@ apply
 ## Shit
 
 [x] leetcode
+[x] leetcode
 [] leetcode
 
 ## Sleep
 
 [] 2024-10-26 23:40 dalay sleep
+[] 2024-10-26 23:30 - 9:00 dalay sleep
 
 ## Eating
 
 [] 2024-10-27 12:02 delay lunch
 
-## Sports1
+## Sports
 
 ## Social Activities
 
