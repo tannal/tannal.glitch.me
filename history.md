@@ -1,6 +1,117 @@
 
 # 2024-10-28
 
+job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+html-midi-player | Play and display MIDI files online
+https://cifkao.github.io/html-midi-player/
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+Contributors to GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/graphs/contributors?from=2022%2F10%2F22
+
+(1424) #chatter > safe memory mapped IO - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/147932-chatter/topic/safe.20memory.20mapped.20IO
+
+yongkyuns/noon: Animation engine inspired by manim, written in Rust
+https://github.com/yongkyuns/noon
+
+Parser: avoid closing a sub-path twice if parsing an endpoint fails i… · nical/lyon@9db95fe
+https://github.com/nical/lyon/commit/9db95fe1486dc792755158c41780d59d9a9030a9#diff-7a45e99007ceecdab6199dc6a39fa22670fe59764b27c21bd2a464edbd89cefaR765
+
+nical/lyon: 2D graphics rendering on the GPU in rust using path tessellation.
+https://github.com/nical/lyon
+
+Google Meet
+https://meet.google.com/landing
+
+Office Hours 2024-10-24 - Google 文档
+https://docs.google.com/document/d/1fy8lz3DhNkI7wuQjUOQLd-NGNmHm4j5RNcO72O9x2AY/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Graphite | Web-based vector graphics editor and design tool
+https://graphite.rs/
+
+lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust
+https://github.com/lapce/lapce?tab=readme-ov-file
+
+(31) Discord | #general | Lapce
+https://discord.com/channels/946858761413328946/946858761413328949
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+linebender repositories
+https://github.com/orgs/linebender/repositories
+
+kittests github - Google 搜索
+https://www.google.com.hk/search?q=kittests+github&rlz=1C1GCEA_enJP1090JP1090&oq=kittests+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GKAB0gEIMzA1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+rerun-io/kittest: Automated GUI testing using accesskit
+https://github.com/rerun-io/kittest
+
+firefox graphics youtube - Google 搜索
+https://www.google.com.hk/search?q=firefox+graphics+youtube&newwindow=1&sca_esv=74fa343e22e000d7&rlz=1C1GCEA_enJP1090JP1090&ei=EW0aZ9cw5pyQ8g-f2Y8B&ved=0ahUKEwiX_eLVr6eJAxVmDkQIHZ_sIwAQ4dUDCA8&uact=5&oq=firefox+graphics+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGZpcmVmb3ggZ3JhcGhpY3MgeW91dHViZTILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEiXFFCiEliiEnABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgOYAwCIBgGQBgOSBwExoAcA&sclient=gws-wiz-serp
+
+manim/manim/renderer at 327db11c54ebad52d67d447989e08f1f075f370a · ManimCommunity/manim
+https://github.com/ManimCommunity/manim/tree/327db11c54ebad52d67d447989e08f1f075f370a/manim/renderer
+
+rerun-io/rerun: Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
+https://github.com/rerun-io/rerun
+
+nixon (nixon) / Repositories
+https://github.com/nixon?tab=repositories
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+on the problem taylor swift - Google 搜索
+https://www.google.com.hk/search?q=on+the+problem+taylor+swift&rlz=1C1GCEA_enJP1090JP1090&oq=on+the+problem+tayler&gs_lcrp=EgZjaHJvbWUqCQgBECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigAdIBCTEyODEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Q1w1N/3d-piano: Piano made with three js
+https://github.com/Q1w1N/3d-piano
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+淘宝京东比价 github - Google 搜索
+https://www.google.com.hk/search?q=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7+github&newwindow=1&sca_esv=facc281beda2ee36&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&ei=HLIdZ_WQN7nbkPIPu9XmsQM&ved=0ahUKEwj1jqb4za2JAxW5LUQIHbuqOTY4ChDh1QMIDw&uact=5&oq=%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGea3mOWuneS6rOS4nOavlOS7tyBnaXRodWIyBhAhGAoYKki6DVDLBFixC3ABeAGQAQCYAZcDoAH9EKoBBTMtNS4xuAEDyAEA-AEBmAIFoALQC8ICChAAGLADGNYEGEfCAggQABiABBiiBJgDAIgGAZAGCpIHBzEuMy0zLjGgB4AI&sclient=gws-wiz-serp
+
+DoracisMu/quanX_rewirte: quanX重写脚本订阅，去开屏广告，京东比价，淘宝比价
+https://github.com/DoracisMu/quanX_rewirte
+
+root 树莓派默认 - Google 搜索
+https://www.google.com.hk/search?q=root+%E6%A0%91%E8%8E%93%E6%B4%BE%E9%BB%98%E8%AE%A4&rlz=1C1GCEA_enJP1090JP1090&oq=root+%E6%A0%91%E8%8E%93%E6%B4%BE%E9%BB%98%E8%AE%A4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIODUxNmoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(40) 【Piano Cover】最近爆紅的台語歌曲｜邱軍Kui - 運轉人生｜高還原純鋼琴版｜高音質/附譜 - YouTube
+https://www.youtube.com/watch?v=hWm9NAYrxEs&list=RDMM&index=27
+
+(659) #general > Contacting the TSC - Servo - Zulip
+https://servo.zulipchat.com/#narrow/channel/263398-general/topic/Contacting.20the.20TSC
+
+Upcoming Servo issue triage meeting on October 28 2024 · Issue #106 · servo/project
+https://github.com/servo/project/issues/106
+
+Upcoming Servo issue triage meeting on October 28 2024 · Issue #106 · servo/project
+https://github.com/servo/project/issues/106
+
+(659) #general > EmbedderMsg::ShowContextMenu - Servo - Zulip
+https://servo.zulipchat.com/#narrow/stream/263398-general/topic/EmbedderMsg.3A.3AShowContextMenu/near/476287489
+
+Element: contextmenu event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/contextmenu_event
+
+Playground | MDN
+https://developer.mozilla.org/en-US/play
+
+Implement ReadableStreamDefaultReader by Taym95 · Pull Request #33160 · servo/servo
+https://github.com/servo/servo/pull/33160/files#diff-09888dfa911f121670b8b905131455cf548d1816bf65bdeff76fb00f9e55e743
+
+online video microphone tester - Google 搜索
+https://www.google.com.hk/search?q=online+video+microphone+tester&rlz=1C1GCEA_enJP1090JP1090&oq=online+video+microphone+tester&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTExNzkxajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
