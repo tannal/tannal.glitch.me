@@ -1,3 +1,69 @@
+
+让我分别介绍这几个引擎/团队的主要变动：
+
+1. JavaScriptCore/WebKit团队：
+
+核心成员相对稳定：
+- Mark Lam - 继续在Apple
+- Keith Miller - 继续负责JavaScriptCore
+- Filip Pizlo - 仍在Apple
+- Andy Estes - 继续WebKit开发
+- Sam Weinig - 仍在Apple主导WebKit开发
+
+2. V8/Blink团队：
+
+V8核心成员：
+- Benedikt Meurer - 从Chrome DevTools转到V8
+- Leszek Swirski - 继续V8开发
+- Yang Guo - V8 tech lead
+- Marja Hölttä - V8优化专家
+
+Blink团队：
+- Chris Wilson - 继续负责Web Platform
+- Eric Seidel - 转向Chrome架构
+- Domenic Denicola - Web标准和Blink开发
+
+3. Flutter/Dart团队：
+
+Flutter：
+- Tim Sneath - 目前是Flutter产品管理director
+- Eric Seidel - Flutter创始人(从Blink转来)
+- Ian Hickson - 继续Flutter开发
+- Kevin Chisholm - Flutter DevRel
+
+Dart：
+- Bob Nystrom - 继续Dart语言设计
+- Leaf Petersen - Dart编译器开发
+- Michael Thomsen - Dart核心开发
+- Lasse Nielsen - Dart运行时开发
+
+主要变化趋势：
+
+1. 跨团队流动：
+- 从浏览器引擎到跨平台框架
+- 从底层引擎到开发者工具
+- 从实现到标准制定
+
+2. 技术方向：
+- WebAssembly越来越重要
+- 性能优化持续深入
+- 跨平台开发工具链完善
+
+3. 焦点转移：
+- 从纯Web向混合应用
+- 从桌面向移动端
+- 从单一平台到跨平台
+
+需要注意这些信息可能不完全准确，因为：
+1. 很多人事变动并不公开
+2. 技术社区变化很快
+3. 有些信息可能已经过时
+
+如果需要更准确的信息，建议：
+1. 查看个人LinkedIn
+2. 关注GitHub活动
+3. 追踪相关博客文章
+
 WebAssembly团队在2020年裁员中的情况：
 
 主要人员变动：
