@@ -588,6 +588,7 @@ apply
 
 ## Shit
 
+[x] leetcode
 [] leetcode
 
 ## Sleep
