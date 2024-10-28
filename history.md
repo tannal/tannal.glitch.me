@@ -1,4 +1,195 @@
 
+# 2024-10-28
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(25) Discord | #offtopic | Lapce
+https://discord.com/channels/946858761413328946/1034162742766096494/1234305908901937243
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+Element [11] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Chromium DevTools Docs - Get the Code: Checkout and Build Chromium DevTools front-end
+https://chromium.googlesource.com/devtools/devtools-frontend/+/main/docs/get_the_code.md
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+tannal
+https://tannal.github.io/
+
+EGRAPHS 2023 keynote - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=EGRAPHS+2023+keynote+
+
+Program - PLDI 2024
+https://pldi24.sigplan.org/program/program-pldi-2024/Session-Timeline
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+kLabUM repositories
+https://github.com/orgs/kLabUM/repositories
+
+arizvisa (arizvisa) / Repositories
+https://github.com/arizvisa?tab=repositories
+
+Graphite
+https://editor.graphite.rs/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.999.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+VID_20241027_170607_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16G1GYpEn4/?spm_id_from=333.999.0.0&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video?tid=0&special_type=&pn=1&keyword=&order=pubdate
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+起个名字叫犟驴投稿视频-起个名字叫犟驴视频分享-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476/video
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1296.0.0
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1296.0.0
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.999.0.0#/whisper/mid844424930131966
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1296.0.0
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+VID_20241027_161153.mp4
+http://192.168.43.58:8080/storage/shared/DCIM/Camera/VID_20241027_161153.mp4
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+QQ Mail
+https://wx.mail.qq.com/home/index?sid=zdVzR4ykYXcu6GxQAK5rVwAA#/compose/success
+
+ægraphs: Acyclic E-graphs for Efficient Optimization in a Production Compiler on Vimeo
+https://vimeo.com/843540328
+
+Dan Gohman - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dan+Gohman
+
+sunfishcode's blog · A blog by sunfishcode
+https://blog.sunfishcode.online/
+
+Dan Gohman (@sunfish@hachyderm.io) - Hachyderm.io
+https://hachyderm.io/@sunfish
+
+maston desktop github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=maston+desktop+github
+
+mattermost/desktop: Mattermost Desktop application for Windows, Mac and Linux
+https://github.com/mattermost/desktop
+
+electron bun postinstall github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=electron+bun+postinstall+github
+
+Does not work with electron-builder · Issue #9895 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/9895
+
+bun Script not found "rebuild" - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bun+Script+not+found+%22rebuild%22
+
 # 2024-10-27
 
 Chromium-dev - Google 群组

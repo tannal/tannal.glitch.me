@@ -598,17 +598,17 @@ apply
 
 [] 2024-10-27 12:02 delay lunch
 
-## Sports
+## Sports1
 
 ## Social Activities
 
 [x] Chain Together with ruyu 10/26
 [x] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [] October 28 2024 servo month meeting
-[] 10-24 zuhui
-[] 10-30 4:40PM 
-[] Coffee Compiler Club 10-01
-[] 10-24 linebender office hour 23:00
+[] 10-30 16:40 
+[] 10-31 11:40 
+[] Coffee Compiler Club 11-01
+[] 10-31 linebender office hour 23:00
 [] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
 
 ## Action needed from Me TODO (don't need supervisor) 4
