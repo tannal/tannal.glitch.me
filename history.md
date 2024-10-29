@@ -28,6 +28,138 @@ https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
 Element | TC39 Test262 Maintainers
 https://app.element.io/#/room/#test262-maintainers:matrix.org
 
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+queue.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+skia google build - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=skia+google+build
+
+How to build Skia | Skia
+https://skia.org/docs/user/build/
+
+近况 | MaskRay
+https://maskray.me/blog/2016-12-10-situation
+
+LeetCode/basic-calculator.cc at master · MaskRay/LeetCode
+https://github.com/MaskRay/LeetCode/blob/master/basic-calculator.cc
+
+Stefan-Marr.de · personal and research notes
+https://stefan-marr.de/
+
+CCC 27/Sep/2024 - Google 文档
+https://docs.google.com/document/d/1HHct1sgX6sDzttvSfrGyDVHk-jaD_9AyVX6DGcpQFwU/edit?tab=t.0
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(41) Coffee Compiler Club, 2020_05_15 - YouTube
+https://www.youtube.com/watch?v=F-5hpKM84cs&list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e&index=2
+
+Matt Godbolt - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Matt+Godbolt
+
+(41) Live coding: some work on Compiler Explorer (day 5 of 5) - YouTube
+https://www.youtube.com/watch?v=RMkcD5B_6Mg
+
+compiler-explorer/compiler-explorer: Run compilers interactively from your web browser and interact with the assembly
+https://github.com/compiler-explorer/compiler-explorer
+
+Matt Godbolt’s blog
+https://xania.org/
+
+John Regehr - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=John+Regehr
+
+regehr (John Regehr)
+https://github.com/regehr
+
+Problem loading page
+http://www.cs.utah.edu/~regehr/
+
+larry page disease - Google 搜索
+https://www.google.com.hk/search?q=larry+page+disease&newwindow=1&client=ubuntu-sn&hs=41T&sca_esv=492959cb0fa9f70d&channel=fs&ei=ScIgZ9qDL62ckPIPjbntsAs&oq=larry+page+dis&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmxhcnJ5IHBhZ2UgZGlzKgIIADIHEAAYgAQYEzIHEAAYgAQYEzIGEAAYExgeMgYQABgTGB4yCBAAGBMYCBgeMgYQABgTGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGBMYBRgeSNtTUPMWWMVKcAN4AJABAJgBsAKgAcsNqgEFMi01LjG4AQPIAQD4AQGYAgmgAv4NwgIIEC4YgAQYsAPCAggQABiABBiwA8ICCRAAGLADGAcYHsICChAuGIAEGEMYigXCAgUQABiABMICGRAuGIAEGEMYigUYlwUY3AQY3gQY3wTYAQHCAgQQABgewgIJEAAYgAQYExgKwgIFECEYoAGYAwCIBgGQBgq6BgYIARABGBSSBwczLjAuMy4zoAflGA&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%E2%80%9CAbout%2014%20years%20ago%2C%20I%20got%20a%20bad%20cold%2C%20and%20my%20voice%20became%20hoarse%2C%E2%80%9D%20wrote%20Page.%20%E2%80%9CAt%20the%20time%20I%20didn%27t%20think%20much%20about%20it.%20But%20my%20voice%20never%20fully%20recovered.%20So%20I%20went%20to%20a%20doctor%20and%20was%20diagnosed%20with%20left%20vocal%20cord%20paralysis.&op=translate
+
+Tanya Lattner - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tanya+Lattner
+
+Hans Wennborg - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Hans+Wennborg+
+
+cameron purdy java - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=6Tp&sca_esv=492959cb0fa9f70d&channel=fs&tbm=vid&q=cameron+purdy+java&sa=X&ved=2ahUKEwiXxYqFxbOJAxUuJEQIHUyXPOAQ8ccDegQIDxAF&biw=1850&bih=968&dpr=1
+
+cpurdy (Cameron Purdy)
+https://github.com/cpurdy
+
+the garbage collection handbook - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=the+garbage+collection+handbook
+
+random access video player - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=random+access+video+playere#fpr=r
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(30) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
 收件箱 - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 
