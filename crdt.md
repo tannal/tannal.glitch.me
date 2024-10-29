@@ -1,6 +1,59 @@
 
 
+
+# y-crdt
+
 # eg walker
+
+```ts
+{ type: 'ins', pos: 0, content: 'A' },
+```
+
+```ts
+enum ItemState {
+  NotYetInserted = -1,
+  Inserted = 0,
+  Deleted = 1, // Or some +ive number of times the item has been deleted.
+}
+
+// This is internal only, and used while reconstructing the changes.
+interface Item {
+  opId: number,
+
+  /**
+   * The item's state at this point in the merge. This is initially set to Inserted,
+   * but if we reverse the operation out we'll end up in NotYetInserted. And if the item
+   * is deleted multiple times (by multiple concurrent users), we'll end up storing the
+   * number of times the item was deleted here.
+   */
+  curState: ItemState,
+
+  /**
+   * The item's state when *EVERYTHING* has been merged. This is always either Inserted or Deleted.
+   */
+  endState: ItemState,
+
+  // -1 means start / end of document. This is the core list CRDT (sync9/fugue).
+  originLeft: number | -1,
+
+  // -1 means the end of the document. This uses fugue's semantics.
+  // All right children have a rightParent of -1.
+  rightParent: number | -1,
+}
+```
+
+```ts
+
+interface Doc {
+  oplog: ListOpLog<number>,
+  content: number[],
+
+  // And to make sure our behaviour matches actual fugue, run the same operations with
+  // the reference fugue implementation to make sure the output is the same.
+  fugue: ListFugueSimple<number> | null
+}
+
+```
 
 ```ts
 interface EditContext {
@@ -47,6 +100,23 @@ export type LVRange = [start: number, end: number]
 
 
 ```ts
+type CGEntry = {
+  version: LV,
+  vEnd: LV, // > version.
+
+  agent: string,
+  seq: number, // Seq for version.
+
+  parents: LV[] // Parents for version
+}
+
+type ClientEntry = {
+  seq: number,
+  seqEnd: number,
+  /** LV of the first item in this run */
+  version: LV,
+}
+
 export interface CausalGraph {
   /** Current global version frontier */
   heads: LV[],

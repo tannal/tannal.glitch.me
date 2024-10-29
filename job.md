@@ -599,6 +599,7 @@ apply
 [x] leetcode Regex
 [x] leetcode N-Queue
 [] leetcode basic-calculator
+[] leetcode nearest common ancestor
 
 ## Sleep
 
@@ -649,6 +650,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
 ## Exploring & Learning (need supervisor) 1
 
+[] vello editor integrate with y-crdt
 [] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
 [] Original folk-rnn training and inference.
 [] fritter flutter 3.7.8 fvm lese
