@@ -4,6 +4,189 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(30) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+Yulia Startsev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Yulia+Startsev
+
+(40) JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Excalidraw
+https://excalidraw.com/
+
+irregexp - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=irregexp
+
+Chromium Blog: Irregexp, Google Chrome's New Regexp Implementation
+https://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit+Thompson&type=code&p=2
+
+Graphite
+https://editor.graphite.rs/
+
+All you need to know about regex engine
+https://tannal.github.io/p/all-you-need-to-know-about-regex-engine/
+
+deno.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller - 2409.14252v1.pdf
+https://arxiv.org/pdf/2409.14252
+
+Martin Kleppmann (0000-0001-7252-6958) - ORCID
+https://orcid.org/0000-0001-7252-6958
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Martin Kleppmann - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Martin+Kleppmann+
+
+tannal - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tannal+
+
+wrong placement of MathML in SVG with Safari · Issue #3302 · mathjax/MathJax
+https://github.com/mathjax/MathJax/issues/3302
+
+tannal
+https://tannal.github.io/
+
+steve jobs wrong about "svg" - Google 搜索
+https://www.google.com.hk/search?q=steve+jobs+wrong+about+%22svg%22&newwindow=1&client=ubuntu-sn&hs=nB4&sca_esv=bf79918fe07ad690&channel=fs&ei=knQgZ9aXMpK7kPIPirPNgAM&ved=0ahUKEwjWqJXW77KJAxWSHUQIHYpZEzAQ4dUDCA8&uact=5&oq=steve+jobs+wrong+about+%22svg%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiHHN0ZXZlIGpvYnMgd3JvbmcgYWJvdXQgInN2ZyIyBRAhGKABMgUQIRigAUiiFFDkCVjTEnACeACQAQCYAecCoAHnAqoBAzMtMbgBA8gBAPgBAZgCA6AC9wLCAgsQABiABBiwAxiiBJgDAIgGAZAGApIHBTIuMy0xoAeUAg&sclient=gws-wiz-serp
+
+SVG ;) : r/ProgrammerHumor
+https://www.reddit.com/r/ProgrammerHumor/comments/sa6ls7/svg/
+
+flash steve jobs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flash+steve+jobs
+
+Steve Jobs - Thoughts on Flash - Thoughts-on-Flash.pdf
+https://newslang.ch/wp-content/uploads/2022/06/Thoughts-on-Flash.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%20proverbial%20garage&op=translate
+
+KeyKit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=KeyKit
+
+nosuchtim (Tim Thompson)
+https://github.com/nosuchtim
+
+maston desktop github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=maston+desktop+github
+
+mattermost/desktop: Mattermost Desktop application for Windows, Mac and Linux
+https://github.com/mattermost/desktop
+
+Flatpak or AppImage package · Issue #584 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/issues/584
+
+[bug] Flickering with raw display handle + winit + wgpu + tauri v2 + transparency · Issue #9220 · tauri-apps/tauri
+https://github.com/tauri-apps/tauri/issues/9220
+
+Marshall Greenblatt - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Marshall+Greenblatt
+
+(40) Cheng Zhao: Electron - A Community Story - JSConf.Asia 2016 - YouTube
+https://www.youtube.com/watch?v=JDtc1xdZ-a0
+
+porfprof github oliver medhurst - Google 搜索
+https://www.google.com.hk/search?q=porfprof+github+oliver+medhurst&newwindow=1&client=ubuntu-sn&hs=AQP&sca_esv=7a86a5b4c6bacfe2&channel=fs&ei=C30gZ83mLJuuur8Pt4b0sAY&ved=0ahUKEwiNmLHg97KJAxUbl-4BHTcDHWYQ4dUDCA8&uact=5&oq=porfprof+github+oliver+medhurst&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3BvcmZwcm9mIGdpdGh1YiBvbGl2ZXIgbWVkaHVyc3QyBRAhGKABMgUQIRigATIFECEYoAFIvjhQvw5Y4TdwAXgAkAEAmAHEAqABjCCqAQUyLTguNrgBA8gBAPgBAZgCD6ACxCDCAgsQABiABBiwAxiiBJgDAIgGAZAGBZIHBzEuMC44LjagB4Ej&sclient=gws-wiz-serp
+
+CanadaHonk (CanadaHonk) / Repositories
+https://github.com/CanadaHonk?tab=repositories
+
+esm sh hello world - Google 搜索
+https://www.google.com.hk/search?q=esm+sh+hello+world&newwindow=1&client=ubuntu-sn&hs=h6j&sca_esv=7a86a5b4c6bacfe2&channel=fs&ei=V30gZ5DYINLTkPIP-NLOuAQ&ved=0ahUKEwjQ38OE-LKJAxXSKUQIHXipE0cQ4dUDCA8&uact=5&oq=esm+sh+hello+world&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmVzbSBzaCBoZWxsbyB3b3JsZDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jbElCrD1jNEXABeAGQAQCYAcACoAHAAqoBAzMtMbgBA8gBAPgBAZgCAaACBJgDAIgGAZAGCZIHATGgB6QE&sclient=gws-wiz-serp
+
+Index of /
+http://localhost:8081/
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+tannal/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/tannal/deno
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (30) Discord | #contributors | Typst
 https://discord.com/channels/1054443721975922748/1088371867913572452
 
