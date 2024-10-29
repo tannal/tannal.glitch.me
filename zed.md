@@ -7,6 +7,8 @@ SomeoneToIgnore
 
 # inbox
 
+cargo install --path crates/zed/
+
 history_items
 
 # dev

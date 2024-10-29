@@ -19,6 +19,165 @@ https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
 programmable-markup-language-for-typesetting.pdf
 https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
 
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Rewriting Rust
+https://josephg.com/blog/rewriting-rust/
+
+Comptime | zig.guide
+https://zig.guide/language-basics/comptime/
+
+2515-type_alias_impl_trait - The Rust RFC Book
+https://rust-lang.github.io/rfcs/2515-type_alias_impl_trait.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw
+
+(40) Building a collaborative text editor with WebRTC and CRDTs - YouTube
+https://www.youtube.com/watch?v=hy0ePbpna5Y
+
+evernote - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=evernote+
+
+紅杉資本 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E7%B4%85%E6%9D%89%E8%B3%87%E6%9C%AC
+
+Issue search results
+https://github.com/search?q=repo%3Ay-crdt%2Fy-crdt+wasm&type=issues
+
+yrs - Rust
+https://docs.rs/yrs/latest/yrs/
+
+Deep dive into Yrs architecture
+https://www.bartoszsypytkowski.com/yrs-architecture/
+
+236. 二叉树的最近公共祖先 - 力扣（LeetCode）
+https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/
+
+Commits · josephg/diamond-types
+https://github.com/josephg/diamond-types/commits?author=josephg&since=2024-09-30&until=2024-10-29
+
+josephg/egwalker-paper: Eg-walker paper, experiments and data.
+https://github.com/josephg/egwalker-paper
+
+josephg/egwalker-paper: Eg-walker paper, experiments and data.
+https://github.com/josephg/egwalker-paper
+
+josephg/gossip: Simple proof-of-concept gossip protocol for CRDTs
+https://github.com/josephg/gossip
+
+git source code - Google 搜索
+https://www.google.com.hk/search?q=git+source+code&newwindow=1&client=ubuntu-sn&hs=nd6&sca_esv=04491e030e2b56fd&channel=fs&ei=YpkgZ6MWjrmQ8g-_koP4BQ&ved=0ahUKEwijz77jkrOJAxWOHEQIHT_JAF8Q4dUDCA8&uact=5&oq=git+source+code&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2dpdCBzb3VyY2UgY29kZTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jHC1CJCFjXCnACeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgKgAgyYAwCIBgGQBgqSBwEyoAcA&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3Agit%2Fgit+ancestor+language%3AC&type=code&p=1&l=C
+
+GitGitGadget - contributing git.git patches via GitHub PRs
+https://gitgitgadget.github.io/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Code search results
+https://github.com/search?q=y-crdt&type=code
+
+yjs text editor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=yjs+text+editor
+
+Content synchronization error when co-editing with Korean IME. · Issue #17 · yjs/y-quill
+https://github.com/yjs/y-quill/issues/17
+
+unicode-org/icu: The home of the ICU project source code.
+https://github.com/unicode-org/icu?tab=readme-ov-file
+
+icu4x - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=icu4x
+
+unicode-org/icu4x: Solving i18n for client-side and resource-constrained environments.
+https://github.com/unicode-org/icu4x
+
+icu4x/utils/zerovec/src/map/borrowed.rs at bebc6f99ac900abd44574607976c11aa49fb85c7 · typst/icu4x
+https://github.com/typst/icu4x/blob/bebc6f99ac900abd44574607976c11aa49fb85c7/utils/zerovec/src/map/borrowed.rs#L4
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.999.0.0
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(30) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
 Element [12] | SpiderMonkey
 https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
 
