@@ -1,4 +1,153 @@
 
+# 2024-10-29
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(30) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+Element [13] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+Yulia Startsev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Yulia+Startsev
+
+(40) JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Graphite
+https://editor.graphite.rs/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+nicoburns/servo at taffy
+https://github.com/nicoburns/servo/tree/taffy
+
+Layout: Add Taffy implementations of Flexbox and CSS Grid by nicoburns · Pull Request #32619 · servo/servo
+https://github.com/servo/servo/pull/32619
+
+Servo TSC Meeting October 2024 · Issue #105 · servo/project
+https://github.com/servo/project/issues/105
+
+Implement DOMRectList interface and switch Element.getClientRects to use it · Issue #33799 · servo/servo
+https://github.com/servo/servo/issues/33799
+
+Projects · servo
+https://github.com/servo/servo/projects?query=is%3Aopen
+
+Re-fixing Servo’s event-loop | Medium
+https://medium.com/@polyglot_factotum/re-fixing-servos-event-loop-e00bdf267385
+
+tlaplus/tlaplus: TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
+https://github.com/tlaplus/tlaplus
+
+Code search results
+https://github.com/search?q=org%3AGraphiteEditor%20resvg&type=code
+
+Till Schneidereit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Till+Schneidereit
+
+tschneidereit (Till Schneidereit)
+https://github.com/tschneidereit
+
+git worktree - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=git+worktree
+
+Git - git-worktree Documentation
+https://git-scm.com/docs/git-worktree/zh_HANS-CN
+
+Git Worktree 的使用 - 尛惢刕孨 - 博客园
+https://www.cnblogs.com/wellcherish/p/17220100.html
+
+wamr-app-framework/app-framework/wgl at main · bytecodealliance/wamr-app-framework
+https://github.com/bytecodealliance/wamr-app-framework/tree/main/app-framework/wgl
+
+Hello World | WASM-4
+https://wasm4.org/docs/getting-started/hello-world
+
+aduros/wasm4: Build retro games using WebAssembly for a fantasy console.
+https://github.com/aduros/wasm4
+
+wasi-gfx/wasi-gfx-runtime
+https://github.com/wasi-gfx/wasi-gfx-runtime
+
+File not found
+https://github.com/wasi-gfx/wasi-gfx-runtime/blob/main/wit/mini-canvas.wit
+
+rust-windowing/softbuffer: Easily write an image to a window
+https://github.com/rust-windowing/softbuffer
+
+delan (Delan Azabani)
+https://github.com/delan
+
 # 2024-10-28
 
 job.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
