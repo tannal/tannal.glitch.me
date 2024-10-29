@@ -19,6 +19,180 @@ https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
 programmable-markup-language-for-typesetting.pdf
 https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
 
+Element [12] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+Yulia Startsev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Yulia+Startsev
+
+(40) JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Excalidraw
+https://excalidraw.com/
+
+irregexp - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=irregexp
+
+Chromium Blog: Irregexp, Google Chrome's New Regexp Implementation
+https://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit+Thompson&type=code&p=2
+
+Graphite
+https://editor.graphite.rs/
+
+All you need to know about regex engine
+https://tannal.github.io/p/all-you-need-to-know-about-regex-engine/
+
+User Profile: Yulia Startsev [:yulia] <ystartsev@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=600802
+
+Home | Open UI
+https://open-ui.org/
+
+gpt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Index of /
+http://localhost:8081/
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20esrun&type=code
+
+Vendoring to fix HTTP import reliability concerns · Issue #41951 · nodejs/node
+https://github.com/nodejs/node/issues/41951
+
+Https imports integrity checksums · Issue #41920 · nodejs/node
+https://github.com/nodejs/node/issues/41920
+
+Https imports by bmeck · Pull Request #36328 · nodejs/node
+https://github.com/nodejs/node/pull/36328#issuecomment-1035094800
+
+wicg http url module deno - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=wicg+http+url+module+deno
+
+Require https for url imports · Issue #3632 · denoland/deno
+https://github.com/denoland/deno/issues/3632
+
+esrun - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=esrun
+
+test262/CONTRIBUTING.md at main · tc39/test262
+https://github.com/tc39/test262/blob/main/CONTRIBUTING.md
+
+github wpt.live - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=github+wpt.live
+
+Recover from DoS · Issue #71 · web-platform-tests/wpt.live
+https://github.com/web-platform-tests/wpt.live/issues/71
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+import+map&type=issues
+
+Add support for multiple import maps · Issue #54784 · nodejs/node
+https://github.com/nodejs/node/issues/54784
+
+Support for Import Maps · Issue #49443 · nodejs/node
+https://github.com/nodejs/node/issues/49443
+
+module: add import map support by wesleytodd · Pull Request #50590 · nodejs/node
+https://github.com/nodejs/node/pull/50590
+
+Import Maps Implementation Plan · Issue #168 · nodejs/loaders
+https://github.com/nodejs/loaders/issues/168
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-09-30&until=2024-10-29
+
+Improve disassembly output · WebKit/WebKit@347e26a
+https://github.com/WebKit/WebKit/commit/347e26a214696b9a82d84b47967d39f438344892
+
+(40) Collaborative Text Editing with Eg-Walker - YouTube
+https://www.youtube.com/watch?v=rjbEG7COj7o&t=436s
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(30) Discord | #docs | Rolldown
+https://discord.com/channels/1171783886200643635/1172053457448992778
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
 Element [13] | gfx-firefox
 https://chat.mozilla.org/#/room/#gfx:mozilla.org
 
