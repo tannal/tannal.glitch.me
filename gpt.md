@@ -1,4 +1,253 @@
 
+没错，JSC的WebAssembly编译现在有两条路径：
+
+1. BBQ路径 (Better Backend Quickly，通过B3)
+2. OMG路径 (Optimizing Meta Generator，直接到Air)
+
+WasmOMGIRGenerator.cpp 代表更新的编译路径：Wasm -> Air
+
+核心实现：
+```cpp
+// WasmOMGIRGenerator.cpp
+class WasmOMGIRGenerator {
+    void generate() {
+        // 直接生成Air指令，跳过B3
+        for (auto& block : m_function->blocks()) {
+            generateBlock(block);
+        }
+    }
+
+    void generateBlock(WasmBlock& block) {
+        // Wasm指令直接映射到Air
+        for (auto& inst : block.instructions()) {
+            switch (inst.op()) {
+                case WasmOp::i32_add:
+                    m_code.append(Air::Add32, inst.src(), inst.dst());
+                    break;
+                case WasmOp::i64_mul:
+                    m_code.append(Air::Mul64, inst.src(), inst.dst());
+                    break;
+                // 向量指令
+                case WasmOp::v128_add:
+                    m_code.append(Air::VectorAdd, inst.src(), inst.dst());
+                    break;
+            }
+        }
+    }
+};
+```
+
+对比两种路径：
+
+1. BBQ路径 (老):
+```plaintext
+Wasm -> AST -> B3 IR -> B3优化 -> Air -> 机器码
+优点:
+- 利用B3优化
+- 更多优化机会
+缺点:
+- 编译时间长
+- 内存占用大
+```
+
+2. OMG路径 (新):
+```plaintext
+Wasm -> AST -> Air -> 机器码
+优点:
+- 编译更快
+- 内存效率高
+- 更简单直接
+缺点:
+- 优化机会较少
+```
+
+关键区别：
+
+1. 指令选择
+```cpp
+// BBQ: 通过B3选择指令
+void B3IRGenerator::generateAdd() {
+    // B3会做指令选择优化
+    Value* result = m_proc.add(lhs, rhs);
+    // ...后续B3优化
+}
+
+// OMG: 直接选择Air指令
+void OMGGenerator::generateAdd() {
+    // 直接映射到目标平台指令
+    m_code.append(Air::Add32, src, dst);
+}
+```
+
+2. 优化处理
+```cpp
+// BBQ: 可以进行B3级优化
+void B3Procedure::optimize() {
+    // CSE
+    // 循环优化
+    // 寄存器分配
+}
+
+// OMG: 仅限于Air级优化
+void AirOptimizer::optimize() {
+    // 基本块重排
+    // 窥孔优化
+}
+```
+
+3. SIMD处理
+```cpp
+// BBQ: B3可以做向量化转换
+void B3IRGenerator::generateSIMD() {
+    // B3可以自动向量化
+    Value* vec = m_proc.vectorize(scalar);
+}
+
+// OMG: 直接映射SIMD指令
+void OMGGenerator::generateSIMD() {
+    // 直接生成向量指令
+    m_code.append(Air::VectorAdd);
+}
+```
+
+选择依据：
+
+1. 如果需要快速编译
+- 使用OMG路径
+- 适合小函数
+- 开发调试场景
+
+2. 如果需要更好性能
+- 使用BBQ路径
+- 适合热点函数
+- 生产环境
+
+你想了解哪个具体实现部分？
+
+让我对比一下不同语言/引擎的中间表示(IR)和优化层：
+
+1. JSC的B3系统：
+```plaintext
+DFG -> B3 -> Air -> 机器码
+特点：
+- SSA形式
+- 低级优化
+- 类型特化
+- 向量化
+```
+
+2. V8：
+```plaintext
+对应层次：TurboFan
+Bytecode -> Graph -> MachineGraph -> 机器码
+
+特点：
+- Sea of Nodes IR
+- 类型推导
+- 内联优化
+- 死代码消除
+```
+
+3. SpiderMonkey：
+```plaintext
+对应层次：IonMonkey
+Bytecode -> MIR -> LIR -> 机器码
+
+特点：
+- 基于基本块的IR
+- 类型推断
+- 范围分析
+- 循环优化
+```
+
+4. CPython：
+```plaintext
+新版本(3.12+)：Tier编译器
+字节码 -> 基本块分析 -> 特化字节码
+
+传统：
+- 解释执行
+- 简单优化
+- 无JIT
+```
+
+5. Ruby：
+```plaintext
+YARV (CRuby)：
+AST -> YARV指令 -> 解释执行
+
+YJIT/MJIT：
+- 方法级JIT
+- 基本块优化
+- 内联缓存
+```
+
+6. Java (HotSpot)：
+```plaintext
+对应层次：C2编译器
+Bytecode -> IR -> Sea of Nodes -> 机器码
+
+特点：
+- 图形式IR
+- 逃逸分析
+- 循环优化
+- 向量化
+```
+
+共同特点：
+1. IR设计目标：
+```plaintext
+- 便于优化分析
+- 类型信息保留
+- 控制流表示
+- 平台无关
+```
+
+2. 优化passes：
+```plaintext
+- 死代码消除
+- 常量折叠
+- 循环优化
+- 内联优化
+```
+
+3. 后端生成：
+```plaintext
+- 寄存器分配
+- 指令选择
+- 指令调度
+- 代码生成
+```
+
+主要区别：
+1. IR抽象级别：
+```plaintext
+高层：DFG, TurboFan Graph
+中层：B3, MIR
+低层：Air, LIR
+```
+
+2. 优化重点：
+```plaintext
+JSC B3: 向量化、低级优化
+V8: 类型特化、Sea of Nodes优化
+HotSpot: 全局优化、逃逸分析
+```
+
+3. 编译策略：
+```plaintext
+即时编译：JS引擎
+分层编译：Java
+解释优化：Python/Ruby
+```
+
+这些系统反映了不同语言特性和性能需求：
+- JS: 动态类型、JIT必需
+- Java: 静态类型、可预编译
+- Python/Ruby: 灵活性优先
+
+需要我详细解释某个部分吗？
+
 MacroAssembler在这三个主流JS引擎中都是关键的JIT编译组件，我分别介绍：
 
 1. V8的MacroAssembler:
