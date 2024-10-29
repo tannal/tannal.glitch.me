@@ -594,9 +594,9 @@ apply
 
 ## Sleep
 
-[] 2024-10-26 23:40 dalay sleep
-[] 2024-10-26 23:30 - 9:00 dalay sleep
-[] 2024-10-28 1:00 - 8:00 dalay sleep
+[] 2024-10-26 23:40 delay sleep
+[] 2024-10-26 23:30 - 9:00 delay sleep
+[] 2024-10-28 1:00 - 8:00 delay sleep
 
 ## Eating
 
@@ -623,7 +623,11 @@ apply
 [] complex networking abstract 11.
 [x] vidoes 
 [] blog
-[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub see https://github.com/WebKit/WebKit/pull/14937/files
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
 [] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 
