@@ -16,6 +16,150 @@ https://github.com/shaRk-033/ai.c
 torch_compile.webm - Google 云端硬盘
 https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
 
+Element [14] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+UTF-8 | ICU Documentation
+https://unicode-org.github.io/icu/userguide/strings/utf-8.html
+
+icu/icu4c/readme.html at main · unicode-org/icu
+https://github.com/unicode-org/icu/blob/main/icu4c/readme.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+bpf-db cmu - Google 搜索
+https://www.google.com.hk/search?q=bpf-db+cmu&newwindow=1&client=ubuntu-sn&hs=jyn&sca_esv=e36431e15c4328a9&channel=fs&biw=1850&bih=968&tbm=vid&ei=2UoeZ5vYGpahkPIPyZncqQg&ved=0ahUKEwjbqPHM366JAxWWEEQIHckMN4UQ4dUDCA0&uact=5&oq=bpf-db+cmu&gs_lp=Eg1nd3Mtd2l6LXZpZGVvIgpicGYtZGIgY211MgUQIRigATIFECEYoAEyBRAhGKABSIQZUHVYzBdwAHgAkAEAmAG1BKABgg2qAQkyLTEuMS4wLjK4AQPIAQD4AQGYAgSgAp8NwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgKGB6YAwCIBgGSBwcyLTEuMS4yoAfGBw&sclient=gws-wiz-video
+
+(39) ScyllaDB - YouTube
+https://www.youtube.com/@ScyllaDB/search?query=andy%20pavlo
+
+(39) #06 - Memory & Disk I/O Management (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=aoewwZwVmv4
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Buffer Pool Management - 06-bufferpool.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/06-bufferpool.pdf
+
+Yulia Startsev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Yulia+Startsev
+
+(40) JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/
+
+zed.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+jitst meet github - Google 搜索
+https://www.google.com.hk/search?q=jitst+meet+github&newwindow=1&client=ubuntu-sn&hs=YWe&sca_esv=3f48a25a88a0a09a&channel=fs&ei=gikgZ8L0GNzPkPIPr8m6wQU&ved=0ahUKEwjCvYiLqLKJAxXcJ0QIHa-kLlgQ4dUDCA8&uact=5&oq=jitst+meet+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWppdHN0IG1lZXQgZ2l0aHViMgcQABiABBgNMgYQABgNGB4yBhAAGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABgIGA0YHjIIEAAYCBgNGB4yCBAAGAgYDRgeMggQABiABBiiBDIIEAAYBRgNGB5I_gJQMljIAXAAeAGQAQCYAZYCoAGZBKoBAzItMrgBA8gBAPgBAZgCAqACqASYAwCSBwMyLTKgB_kI&sclient=gws-wiz-serp
+
+lib-jitsi-meet API (low level) | Jitsi Meet
+https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ljm-api
+
+Freeze NODE_OPTIONS for SingeExecutableApplications · Issue #55573 · nodejs/node
+https://github.com/nodejs/node/issues/55573
+
+arm64 aarch64 abi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=arm64+aarch64+abi
+
+Releases · ARM-software/abi-aa
+https://github.com/ARM-software/abi-aa/releases
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+relaxed fused multiply-add and fused multiply-subtract · Issue #27 · WebAssembly/relaxed-simd
+https://github.com/WebAssembly/relaxed-simd/issues/27
+
+Tasks for new contributors · WebKit/WebKit Wiki
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Power%20dynamics%20in%20web%20specifications&sort=byPopularity&type=story
+
+npm ERR! git@github.com: Permission denied (publickey) · Issue #10856 · jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet/issues/10856
+
+Npm ERR code EINTEGRITY sha512 on npm install on jitsi-meet web - Install & Config - Jitsi Community Forum - developers & users
+https://community.jitsi.org/t/npm-err-code-eintegrity-sha512-on-npm-install-on-jitsi-meet-web/107799/23
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=fraud&op=translate
+
+Peter Medawar - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Peter+Medawar
+
+nvmrc & lockfileVersion v2 · Issue #9338 · jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet/issues/9338
+
+rust terminal emulator - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+terminal+emulator
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(30) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
 Element [13] | SpiderMonkey
 https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
 

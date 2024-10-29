@@ -336,6 +336,162 @@ We have a [YouTube channel](https://www.youtube.com/@zeddotdev) where we post lo
 
 Our [blog](https://zed.dev/blog) gets frequent updates. We post about big releases, new features, and under-the-hood Zed tech.
 
+根据AppContext的结构，我来分析Zed编辑器的整体架构：
+
+**1. 核心架构层次**
+
+1. **底层基础设施**
+- `gpui`: 自研GUI框架，负责渲染和事件系统
+- `platform`: 平台抽象层，处理不同操作系统差异
+- `background_executor`/`foreground_executor`: 双线程执行器模型
+
+2. **编辑器核心**
+- `text_system`: 文本处理核心
+- `editor`: 编辑器核心功能
+- `language`: 语言支持
+- `lsp`: 语言服务器协议实现
+
+3. **协作功能**
+- `collab`: 协作编辑核心
+- `remote`: 远程开发支持
+- `call`: 音视频通话
+- `live_kit_client`: 实时通信
+
+4. **AI增强**
+- `copilot`: GitHub Copilot集成
+- `assistant`: AI助手
+- `language_model`: 语言模型集成
+
+**2. 核心过程**
+
+1. **启动流程**
+```rust
+// 简化的启动流程
+1. 初始化Platform
+2. 创建AppContext
+3. 注册全局服务
+4. 加载配置
+5. 启动工作区
+```
+
+2. **事件处理**
+```rust
+// 事件分发系统
+- global_action_listeners: 全局动作监听
+- event_listeners: 实体级事件监听
+- keystroke_observers: 按键监听
+```
+
+3. **视图管理**
+```rust
+// 视图系统
+windows: 窗口管理
+entities: 实体管理
+observers: 观察者模式实现
+```
+
+**3. 主要模块解析**
+
+1. **GUI系统 (gpui)**
+```rust
+- 自绘制GUI框架
+- 事件系统
+- 布局引擎
+- SVG渲染
+```
+
+2. **编辑器核心 (editor)**
+```rust
+- 文本缓冲区管理
+- 语法高亮
+- 编辑操作
+- 多光标支持
+```
+
+3. **项目管理 (project)**
+```rust
+- 文件系统集成
+- 工作区管理
+- 搜索功能
+- VCS集成
+```
+
+**4. 特色功能架构**
+
+1. **协作系统**
+```rust
+- 实时协作编辑
+- 冲突解决
+- 状态同步
+- 音视频通话
+```
+
+2. **AI集成**
+```rust
+- 代码补全
+- AI助手
+- 语言模型集成
+```
+
+**5. 扩展系统**
+
+1. **插件架构**
+```rust
+- extension: 插件系统
+- command_palette: 命令面板
+- language_servers: LSP支持
+```
+
+**6. 数据流**
+
+1. **状态管理**
+```rust
+Entity -> Observer -> Update -> Effect
+```
+
+2. **事件流**
+```rust
+Input -> Action -> Dispatch -> Handler -> Effect
+```
+
+**7. 关键特性**
+
+1. **性能优化**
+- 自研GUI框架
+- 双线程执行器
+- 异步IO
+
+2. **开发者体验**
+- LSP集成
+- 实时协作
+- AI辅助
+
+**8. 源码组织**
+
+```
+zed/
+├── crates/
+│   ├── gpui/        # GUI框架
+│   ├── editor/      # 编辑器核心
+│   ├── collab/      # 协作功能
+│   ├── language/    # 语言支持
+│   └── ...
+```
+
+**9. 核心交互流程**
+
+```rust
+// 简化的编辑操作流程
+Input 
+-> KeymapLookup 
+-> Action 
+-> Dispatch 
+-> EditorUpdate 
+-> TextBuffer 
+-> Render
+```
+
+需要我详细展开某个部分吗？
 
 # Data Structures
 
