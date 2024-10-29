@@ -1,4 +1,159 @@
 
+MacroAssembler在这三个主流JS引擎中都是关键的JIT编译组件，我分别介绍：
+
+1. V8的MacroAssembler:
+```cpp
+// 分层设计
+Assembler (底层)
+  - 基本指令编码
+  - 直接生成机器码
+
+MacroAssembler (中层)
+  - 常用指令组合
+  - 平台无关抽象
+  - 提供高级操作API
+
+TurboAssembler (高层)
+  - 更复杂的代码生成逻辑
+  - 寄存器分配
+  - 优化相关功能
+
+示例:
+class MacroAssembler : public TurboAssembler {
+  void LoadRoot(...);  // 加载V8根对象
+  void Jump(...);      // 跳转抽象
+  void Call(...);      // 调用约定
+}
+```
+
+2. JavaScriptCore (JSC)的MacroAssembler:
+```cpp
+// 分层较少，更直接
+MacroAssemblerCodeRef
+  - 代码生成容器
+  - 管理已生成代码
+
+MacroAssembler
+  - 包装底层Assembler
+  - 提供高级操作
+  - SIMD支持
+  - 平台特定优化
+
+示例:
+class MacroAssembler {
+  void moveVector(...);     // SIMD操作
+  void addPtr(...);         // 指针运算
+  void branchPtr(...);      // 条件分支
+}
+```
+
+3. SpiderMonkey (SM)的MacroAssembler:
+```cpp
+// 模板化设计
+MacroAssembler<...>
+  - 通过模板参数配置行为
+  - 支持不同编码模式
+
+MacroAssemblerSpecific
+  - 平台特定实现
+  - 优化指令序列
+
+示例:
+template <class Assembler>
+class MacroAssemblerImpl {
+  void move32(...);         // 数据移动
+  void branch32(...);       // 条件控制
+  void computeEffectiveAddress(...);
+}
+```
+
+共同特点：
+1. 抽象层次：
+```plaintext
+- 隐藏底层指令细节
+- 提供可移植接口
+- 简化代码生成
+```
+
+2. 功能支持：
+```plaintext
+- 内存操作
+- 算术运算
+- 控制流
+- SIMD运算
+- 调用约定
+```
+
+3. 优化机制：
+```plaintext
+- 指令调度
+- 寄存器分配
+- 内联优化
+- 平台特定优化
+```
+
+4. 使用场景：
+```plaintext
+- JIT编译
+- 内联缓存
+- 类型特化
+- 热点代码优化
+```
+
+主要区别：
+1. 架构设计：
+- V8: 三层架构，更模块化
+- JSC: 扁平架构，直接优化
+- SM: 模板化设计，灵活配置
+
+2. 优化重点：
+- V8: 通用性能优化
+- JSC: SIMD和向量化
+- SM: 灵活性和可配置性
+
+需要我详细展开某个方面吗？
+
+对于ARM64 (AArch64) ABI，主要需要关注这几个文件：
+
+1. **aapcs64.pdf** (主要的)
+```plaintext
+ARM Architecture Procedure Call Standard for ARM 64-bit architecture
+- 定义了函数调用约定
+- 寄存器使用规则
+- 参数传递规则
+- 栈帧组织
+```
+
+2. **aaelf64.pdf**
+```plaintext
+ELF for ARM 64-bit architecture
+- 可执行文件格式
+- 目标文件格式
+- 动态链接规则
+```
+
+3. **cppabi64.pdf**
+```plaintext
+C++ ABI for ARM 64-bit architecture
+- C++特定的ABI规则
+- 异常处理
+- 虚函数表布局
+- 名称修饰(name mangling)
+```
+
+4. **atomicsabi64.pdf**
+```plaintext
+Atomic操作的ABI规范
+- 内存序
+- 原子操作
+```
+
+对于你之前问到的SIMD和寄存器使用规则，主要参考 **aapcs64.pdf**，它定义了：
+- SIMD寄存器约定 (V0-V31)
+- 调用者保存/被调用者保存规则
+- 向量参数传递规则
+- SIMD操作的ABI要求
+
 让我分别介绍这几个引擎/团队的主要变动：
 
 1. JavaScriptCore/WebKit团队：

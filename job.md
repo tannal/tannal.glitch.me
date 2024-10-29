@@ -596,6 +596,7 @@ apply
 
 [] 2024-10-26 23:40 dalay sleep
 [] 2024-10-26 23:30 - 9:00 dalay sleep
+[] 2024-10-28 1:00 - 8:00 dalay sleep
 
 ## Eating
 
