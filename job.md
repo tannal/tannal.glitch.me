@@ -588,6 +588,14 @@ apply
 
 ## Shit
 
+[] AI research -> AGI -> AI for music
+[] AI application -> code editor like zed AI & collabrate & rust
+[] frontend / corss gui / bussiness
+[] jsengine tc39 tests ecmascript
+[] techinal / science / entertatment content provider / learning / langugage learning / gaming  / livestream coding
+[] brand flac performance
+[] build a company cause zed might failed to achieve all three goals and not doing any of them the best. if that happens we can pick it up.
+[] that's all
 [x] leetcode Regex
 [x] leetcode N-Queue
 [] leetcode basic-calculator

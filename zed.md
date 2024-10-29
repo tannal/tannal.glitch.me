@@ -496,6 +496,26 @@ Input
 # Data Structures
 
 ```rust
+
+pub struct TerminalPanel {
+    pane: View<Pane>, (assitant, collab_ui, file_finder, outlint_panel, search, theme, theme_importer)
+    fs: Arc<dyn Fs>, (assitant, collab, collab_ui, command_panel, repl, semantic_indx, recent_projects, snippets_providers, terminal_view, welcome, workspace, zed)
+    workspace: WeakView<Workspace>, (assistant, auto_)
+    width: Option<Pixels>,
+    height: Option<Pixels>,
+    pending_serialization: Task<Option<()>>,
+    pending_terminals_to_add: usize,
+    _subscriptions: Vec<Subscription>,
+    deferred_tasks: HashMap<TaskId, Task<()>>,
+    enabled: bool,
+    assistant_enabled: bool,
+    assistant_tab_bar_button: Option<AnyView>,
+}
+
+
+```
+
+```rust
 pub struct AppContext {
     pub(crate) this: Weak<AppCell>,
     pub(crate) platform: Rc<dyn Platform>, (gpui, ui, picker, remote, terminal, title_bar, vim)
