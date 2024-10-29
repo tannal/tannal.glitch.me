@@ -4,16 +4,29 @@
 
 ## JavaScriptCore
 
-Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
-Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
-implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
+Improve disassembly output
+https://bugs.webkit.org/show_bug.cgi?id=279861
+
+Reviewed by Justin Michaud.
+
+This patch enhances the ARM64 disassembler to correctly handle and display
+additional SIMD instructions, particularly those involving different vector
+element sizes (.B, .H, .S, .D). This improvement allows for more accurate
+representation of ARM SIMD instructions in the disassembled output.
+
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.cpp:
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical1Source::opName):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::format):
+(JSC::ARM64Disassembler::A64DOpcodeVectorDataProcessingLogical2Source::opName):
+* Source/JavaScriptCore/disassembler/ARM64/A64DOpcode.h:
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneIndexAndType):
+(JSC::ARM64Disassembler::A64DOpcode::appendSIMDLaneType):
+
+Canonical link: https://commits.webkit.org/283855@main
 
 ## Platform
 
-Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r=emilio
-Bug 1922163 - Table element align attribute mapped to float as per spec. r=emilio
-Bug 1917771 - Use bottom of border box as the range frame's baseline. r=emilio
-Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+
 
 ## Graphics
 
@@ -21,19 +34,6 @@ Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
 
 https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
 
-```
-Handle JIT tier dependencies better at compile time
-
-https://bugs.webkit.org/show_bug.cgi?id=280243
-
-Reviewed by NOBODY (OOPS!).
-
-Better error messages for JIT tier dependencies. If DFG and FTL are enabled 
-while baseline is not, print an error message instead of silently disabling 
-them. This fixes two FIXME comments in the code.
-
-* Source/WTF/wtf/PlatformEnable.h:
-```
 
 export CC=clang
 export CXX=clang++
