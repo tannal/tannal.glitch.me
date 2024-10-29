@@ -595,7 +595,7 @@ apply
 [] techinal / science / entertatment content provider / learning / langugage learning / gaming  / livestream coding
 [] brand flac performance
 [] build a company cause zed might failed to achieve all three goals and not doing any of them the best. if that happens we can pick it up.
-[] that's all
+[] wpt.live and we need test262.live
 [x] leetcode Regex
 [x] leetcode N-Queue
 [] leetcode basic-calculator

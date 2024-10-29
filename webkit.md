@@ -1,24 +1,25 @@
 
 
+# Achievements
 
-# layout and renderring
+## JavaScriptCore
 
-https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
+Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
-# graphics
+## Platform
 
-# SDK and embedding api
+Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r=emilio
+Bug 1922163 - Table element align attribute mapped to float as per spec. r=emilio
+Bug 1917771 - Use bottom of border box as the range frame's baseline. r=emilio
+Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
 
-# Javascript Engine
-
-# Networking
-
-# Security
-
-# OS
-
+## Graphics
 
 # dev
+
+https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
 
 ```
 Handle JIT tier dependencies better at compile time

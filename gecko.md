@@ -1,5 +1,7 @@
 # potential mentors
 
+https://bugzilla.mozilla.org/user_profile?user_id=600802
+
 https://bugzilla.mozilla.org/user_profile?user_id=310076
 
 https://bugzilla.mozilla.org/user_profile?user_id=466787
@@ -26,15 +28,23 @@ https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
 
-# Achievement
+# Achievements
 
+## Spidermonkey
+
+Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
+implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
+
+## Platform
+
+Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r=emilio
+Bug 1922163 - Table element align attribute mapped to float as per spec. r=emilio
+Bug 1917771 - Use bottom of border box as the range frame's baseline. r=emilio
 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
 
-⚙ D220381 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
+## Graphics
 
-Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
-
-implement https://github.com/tc39/proposal-redeclarable-global-eval-vars in spidermonkey js engine
 
 # working on
 
