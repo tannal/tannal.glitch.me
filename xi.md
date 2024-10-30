@@ -1,5 +1,12 @@
 # inbox
 
+Aaron Muir Hamilton parley text input IME Android
+ 
+Daniel McNab GPU infrastructure and performance wgpu
+
+Matt Campbell accessibility 
+
+Olivier Faure widget tree developer experience
 
 cargo install --git https://github.com/rust-mobile/cargo-apk
 
