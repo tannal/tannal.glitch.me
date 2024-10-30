@@ -2,6 +2,10 @@
 
 # 2024-10-29 0 | 0
 
+yt-dlp -f 136 --write-sub --write-auto-sub --sub-lang en yrzv6o9Pnao
+
+sudo apt-get install gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+
 ./third_party/chrome/chrome-linux/chrome   --disable-infobars   --custom-devtools-frontend=file://$(realpath out/Default/gen/front_end)   --remote-debugging-port=9222
 
 > 51 * 17
