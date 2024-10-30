@@ -1,8 +1,36 @@
+
+# Parley
+
+PlainEditor
+    |
+    +-- Buffer (String)
+    |
+    +-- Layout
+    |   +-- Lines
+    |   +-- Properties
+    |
+    +-- Selection
+        +-- Position (anchor)
+        +-- Position (focus)
+
+# AccessKit
+
+# Xilem WGPU vello
+
+Daniel McNab
+
+# Xilem Widge Tree & examples
+
+
+
+
 # inbox
+
+kurbo peniko winit vello
 
 Aaron Muir Hamilton parley text input IME Android
  
-Daniel McNab GPU infrastructure and performance wgpu
+GPU infrastructure and performance wgpu
 
 Matt Campbell accessibility 
 
