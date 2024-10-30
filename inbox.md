@@ -1,5 +1,24 @@
 
 
+# 2024-10-30 0 | 0
+
+adb connect 10.90.89.150
+connected to 10.90.89.150:5555
+adb shell
+adb: more than one device/emulator
+adb -s 10.90.89.150 shell
+lmi:/ $ pm list package com.android.vending 
+package:com.android.vending
+lmi:/ $ pm path com.android.vending
+package:/data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
+lmi:/ $ ^D
+adb pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
+adb: error: failed to get feature set: more than one device/emulator
+adb -s 10.90.89.150 pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
+adb: error: cannot write './base.apk': No space left on device
+adb -s 10.90.89.150 pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk^C
+
+
 # 2024-10-29 0 | 0
 
 
