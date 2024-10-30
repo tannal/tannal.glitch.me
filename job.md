@@ -592,7 +592,7 @@ apply
 [] AI application -> code editor like zed AI & collabrate & rust
 [] frontend / corss gui / bussiness
 [] jsengine tc39 tests ecmascript
-[] techinal / science / entertatment content provider / learning / langugage learning / gaming  / livestream coding
+[] techinal / science / entertatment content / learning / langugage learning / gaming  / livestream coding / tooling
 [] brand flac performance
 [] build a company cause zed might failed to achieve all three goals and not doing any of them the best. if that happens we can pick it up.
 [] wpt.live and we need test262.live
@@ -601,18 +601,19 @@ apply
 [x] leetcode basic-calculator
 [x] leetcode nearest common ancestor
 [x] leetcode chuanglian
-[x] leetcode zuichangyouxiao
+[x] leetcode zuichangyouxiaokuohao
 [x] leetcode sukato 
 
 ## Sleep
 
-[] 2024-10-26 23:40 delay sleep
-[] 2024-10-26 23:30 - 9:00 delay sleep
-[] 2024-10-28 1:00 - 8:00 delay sleep
+[x] 2024-10-26 23:40 delay sleep
+[x] 2024-10-26 23:30 - 9:00 delay sleep
+[x] 2024-10-28 1:00 - 8:00 delay sleep
 
 ## Eating
 
-[] 2024-10-27 12:02 delay lunch
+[x] 2024-10-27 12:02 delay lunch
+[x] 2024-10-29 19:00 delay dinner
 
 ## Sports
 
@@ -667,9 +668,9 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 ## Short Term Goal (one year)
 
 [] 50/800 20/700 achievements/commits
-[] 2025 4/ GSOC
-[] 2025 4/ sing
-[] 2025 1/ outreachy
+[] 2025 4/ GSOC zulip rust llvm
+[] 2025 4/ sing 
+[] 2025 1/ outreachy servo and others
 
 ## Long Term Goal (three years & five years & ten years)
 
@@ -716,8 +717,8 @@ Last meeting at #104
 [] yundong fuwocheng
 [] yundong fuwocheng
 
-[] Be good at solving puzzles for code interview
-[] Be good at solving puzzles for code interview
+[x] Be good at solving puzzles for code interview
+[x] Be good at solving puzzles for code interview
 [] Be good at solving puzzles for code interview
 
 [x] Be a pianist play piano
