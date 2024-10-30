@@ -2,6 +2,7 @@
 
 # 2024-10-30 0 | 0
 
+
 adb connect 10.90.89.150
 connected to 10.90.89.150:5555
 adb shell

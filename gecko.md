@@ -50,25 +50,7 @@ Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
 
 ./mach try auto
 
-Bug 1918521 - Remove SetInputValueFromFields  when handlekeydown in datetimebox. r?emilio
-
-User might still typing even if all three fields are not empty.
-
-Bug 1917771 - Use bottom of content box as the range frame's baseline. r?emilio
-
 Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai
-
-Promise.try proposal https://bugzilla.mozilla.org/show_bug.cgi?id=1905241
-
-https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailreporter1=1&email1=nicolas.b.pierron%40mozilla.com&list_id=17195506
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1899413
-
-https://bugzilla.mozilla.org/show_bug.cgi?id=1906157
-
-
 
 # dev
 

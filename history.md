@@ -4,6 +4,183 @@
 Chromium-dev - Google 群组
 https://groups.google.com/a/chromium.org/g/chromium-dev
 
+(16) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+Element [12] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+Home - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/
+
+(41) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+Position Paper for the W3C Workshop on Web Applications and Compound Documents
+https://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html
+
+Web Forms 2.0
+https://whatwg.org/specs/web-forms/current-work/
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun+unsupport+cmake&type=code
+
+…/layout_table.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5896813/1/third_party/blink/renderer/core/layout/table/layout_table.cc
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tiktok-player/player.py at main · tannal/tiktok-player
+https://github.com/tannal/tiktok-player/blob/main/player.py
+
+Xilem 2024 plans - Linebender
+https://linebender.org/blog/xilem-2024/
+
+Pull requests · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/pulls/nical
+
+AccessKit/accesskit: Accessibility infrastructure for UI toolkits
+https://github.com/AccessKit/accesskit
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ Edit Revision D227350: Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/differential/revision/edit/227350/
+
+CookieStorage.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/50588a0b728b365afdd298debd35e8302efe7850/netwerk/cookie/CookieStorage.cpp#535
+
+CookieStorage.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/50588a0b728b365afdd298debd35e8302efe7850/netwerk/cookie/CookieStorage.cpp#535
+
+all.js - mozsearch
+https://searchfox.org/mozilla-central/source/modules/libpref/init/all.js#1469
+
+Codetribute
+https://codetribute.mozilla.org/projects/gfx
+
+1763742 - LOCAL_GL_PACK_ALIGNMENT is sometimes used with functions other than glReadPixels
+https://bugzilla.mozilla.org/show_bug.cgi?id=1763742
+
+rerun-io/kittest: Automated GUI testing using accesskit
+https://github.com/rerun-io/kittest
+
+Add `egui_kittest`, a test harness for egui by lucasmerlin · Pull Request #5166 · emilk/egui
+https://github.com/emilk/egui/pull/5166/files
+
+emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+https://github.com/emilk/egui/
+
+fontations/skrifa/README.md at main · googlefonts/fontations
+https://github.com/googlefonts/fontations/blob/main/skrifa/README.md
+
+peniko/src/style.rs at 250b4074e0f358a51722dddf39c69952a5ecea1b · linebender/peniko
+https://github.com/linebender/peniko/blob/250b4074e0f358a51722dddf39c69952a5ecea1b/src/style.rs
+
+linebender/kurbo: A Rust library for manipulating curves
+https://github.com/linebender/kurbo
+
+Pull requests · nodejs/node
+https://github.com/nodejs/node/pulls?page=2&q=is%3Apr+author%3Ajoyeecheung+esm+is%3Aclosed
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/css-borders/tentative/border-radius-side-shorthands?label=experimental&label=master&aligned
+
+CSS Borders and Box Decorations 4 Test: Physical 'border-*-radius' shorthands set the two radii of one side.
+https://wpt.live/css/css-borders/tentative/border-radius-side-shorthands/border-radius-side-shorthands-001.html
+
+CSS Borders and Box Decorations Module Level 4
+https://drafts.csswg.org/css-borders-4/#corner-sizing
+
+asynchronously - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=asynchronously
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=quota%20&op=translate
+
+CookieStorage.cpp - mozsearch
+https://searchfox.org/mozilla-central/source/netwerk/cookie/CookieStorage.cpp
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+搜索结果 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#search/in%3Atrash+you+can
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
 (27) Discord | #general | Typst
 https://discord.com/channels/1054443721975922748/1054443722592497796
 

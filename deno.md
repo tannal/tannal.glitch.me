@@ -1,5 +1,55 @@
-# people
 
+
+
+# dev
+
+
+Browser <-> WebSocket <-> InspectorSessionProxy <-> V8Inspector
+   |           |              |                         |
+   |           |              |                         |
+JSON/HTTP   WS Messages   Channel Messages         Debug Protocol
+
+
+server()
+    |
+    +-- register_inspector_handler    // 处理注册请求
+    |
+    +-- deregister_inspector_handler  // 处理注销请求
+    |
+    +-- HTTP endpoints               // 处理HTTP请求
+        +-- /ws/                    // WebSocket连接
+        +-- /json/version           // 版本信息
+        +-- /json                   // 调试器列表
+        +-- /json/list              // 调试器列表
+
+
+// 1. 服务器初始化流程
+InspectorServer::new()
+    |
+    +-- TcpListener
+    |   +-- NonBlocking
+    |
+    +-- Channels
+        +-- register_inspector (mpsc::unbounded)
+        +-- shutdown_server (broadcast)
+
+// 2. 调试器注册流程
+register_inspector()
+    |
+    +-- JsRuntime
+    |   +-- Inspector
+    |       +-- SessionSender
+    |       +-- DeregisterHandler
+    |
+    +-- InspectorInfo
+        +-- UUID
+        +-- Host
+        +-- ModuleUrl
+
+
+
+
+# people
 
 involves:bartlomieju
 involves:dsherret
