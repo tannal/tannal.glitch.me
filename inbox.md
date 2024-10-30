@@ -2,6 +2,12 @@
 
 # 2024-10-29 0 | 0
 
+
+git clone https://gitlab.freedesktop.org/pipewire/pipewire.git
+./autogen.sh --prefix=/opt/pipewire
+
+Wim Taymans
+
 yt-dlp -f 136 --write-sub --write-auto-sub --sub-lang en yrzv6o9Pnao
 
 sudo apt-get install gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav

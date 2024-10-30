@@ -79,6 +79,147 @@ https://github.com/astral-sh
 atcoder - Google 搜索
 https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Raph Levien xi editor - Google 搜索
+https://www.google.com.hk/search?q=Raph+Levien+xi+editor&newwindow=1&client=ubuntu-sn&hs=D1i&sca_esv=eb239daa366442ce&channel=fs&ei=T6MhZ46OM8HCkPIP_72P2Qs&ved=0ahUKEwjO8cOxkLWJAxVBIUQIHf_eI7sQ4dUDCA8&uact=5&oq=Raph+Levien+xi+editor&gs_lp=Egxnd3Mtd2l6LXNlcnAiFVJhcGggTGV2aWVuIHhpIGVkaXRvcjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkiWElDvAVj_EHABeAGQAQCYAeUCoAGUEaoBBTItMi41uAEDyAEA-AEBmAIIoAKzEcICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGAZIHBzEuMC4yLjWgB7IR&sclient=gws-wiz-serp
+
+xi-editor/xi-editor: A modern editor with a backend written in Rust.
+https://github.com/xi-editor/xi-editor/tree/master?tab=readme-ov-file
+
+Issues · lapce/lapce
+https://github.com/lapce/lapce/issues
+
+Swimm: AI Code Documentation And Knowledge Sharing
+https://swimm.io/
+
+Xi: an editor for the next 20 years - Recurse Center
+https://www.recurse.com/events/localhost-raph-levien
+
+gstremer pypi - Google 搜索
+https://www.google.com.hk/search?q=gstremer+pypi&newwindow=1&client=ubuntu-sn&hs=KfO&sca_esv=bc4a53e56beeb6d8&channel=fs&ei=A6ghZ4bEBvbLkPIPh4q26QM&ved=0ahUKEwjG0aXvlLWJAxX2JUQIHQeFLT0Q4dUDCA8&uact=5&oq=gstremer+pypi&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWdzdHJlbWVyIHB5cGkyBhAAGA0YHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPgbULIFWJAacAF4AZABAJgB3QKgAcsaqgEFMi05LjO4AQPIAQD4AQGYAg2gAuIawgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAgUQABiABMICBRAuGIAEwgILEC4YgAQY0QMYxwHCAgcQABiABBgKwgIGEAAYChgewgIHEAAYgAQYDZgDAIgGAZAGCJIHBzEuMC45LjOgB-E1&sclient=gws-wiz-serp
+
+Search results · PyPI
+https://pypi.org/search/?q=gi
+
+gstreamer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gstreamer
+
+Basic tutorial 1: Hello world!
+https://gstreamer.freedesktop.org/documentation/tutorials/basic/hello-world.html?gi-language=python#
+
+GStreamer/gstreamer: GStreamer open-source multimedia framework
+https://github.com/GStreamer/gstreamer
+
+[youtube] Sign in to confirm you’re not a bot. This helps protect our community · Issue #10128 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp
+
+tannal/tiktok-player: A video player for a titok like experience.
+https://github.com/tannal/tiktok-player
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=swimm.io&sort=byPopularity&type=story
+
+Vue vs React: Best Choice for Startups | Hacker News
+https://news.ycombinator.com/item?id=25141661
+
+Wim Taymans - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Wim+Taymans
+
+(41) Wim Taymans: PipeWire: Rethinking Multimedia - YouTube
+https://www.youtube.com/watch?v=6Xgx7cRoS0M
+
+Wim Taymans - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=7cQ&sca_esv=b42237714339f3fb&channel=fs&tbm=vid&q=Wim+Taymans&sa=X&ved=2ahUKEwj53PX_sLWJAxUm48kDHfv-GqQQ8ccDegQIJBAD&biw=1850&bih=968&dpr=1
+
+pipewire - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pipewire
+
+PipeWire
+https://pipewire.org/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(27) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Mozilla Security
+https://chat.mozilla.org/#/room/#security:mozilla.org
+
+Home - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/
+
+(41) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+Position Paper for the W3C Workshop on Web Applications and Compound Documents
+https://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html
+
+Web Forms 2.0
+https://whatwg.org/specs/web-forms/current-work/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
