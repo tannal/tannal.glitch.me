@@ -1,4 +1,67 @@
 
+我将为您详细介绍这些JavaScript引擎的垃圾回收机制和相关研究：
+V8 (CPPGC)
+主要人物与贡献
+Lars Bak：V8引擎的主要设计者
+Ulan Degenbaev：领导了CPPGC (C++ Garbage Collection)的开发
+Peter Weinberger：对V8的垃圾回收机制有重要贡献
+主要成果
+Oilpan：Chrome浏览器中的垃圾回收器
+CPPGC：新一代C++垃圾回收器
+并发标记和增量式回收
+JavaScriptCore (JSC)
+主要人物
+Geoffrey Garen：JSC垃圾回收器的主要开发者
+Filip Pizlo：对JSC性能优化做出重要贡献
+主要特点
+分代收集
+并发回收
+写屏障优化
+SpiderMonkey
+主要人物
+Brendan Eich：JavaScript语言创始人，最初的SpiderMonkey实现者
+Jon Coppeard：主导了精确垃圾回收的实现
+主要特点
+增量式标记-清除
+精确垃圾回收
+并发回收
+JVM垃圾回收
+重要人物
+Richard Jones：《垃圾回收》经典著作作者
+Tony Printezis：G1收集器的设计者
+主要收集器
+Serial GC
+Parallel GC
+CMS
+G1
+ZGC
+支持的商业应用和开源项目
+支持CPPGC方向
+Chrome浏览器
+Node.js
+Electron
+Deno
+支持传统引用计数
+WebKit/Safari
+Firefox
+IE/Edge(旧版)
+研究成果和论文
+支持现代GC
+1. 《The Garbage Collection Handbook》- Richard Jones
+《Uniprocessor Garbage Collection Techniques》- Wilson
+《A Generational Garbage Collector with Performance Enhancements》- Ungar
+传统方案支持者
+《Real-time Reference Counting in RT-11》- Collins
+《Reference Counting Can Manage the Circular Problem》- Bacon
+值得注意的是
+1. 不同的垃圾回收策略各有优劣，需要根据具体应用场景选择：
+CPPGC适合大型Web应用
+引用计数适合小型嵌入式系统
+分代收集适合一般用途
+现代浏览器引擎都在向并发和增量式GC发展，以减少主线程暂停时间
+垃圾回收领域仍在不断发展，新的算法和优化方案持续出现
+这个领域的研究和实践仍在继续，各种方案都有其适用场景，很难说哪种方案完全优于其他方案。选择合适的垃圾回收策略需要考虑具体的应用需求、性能要求和资源限制。
+
 主要研究方向和成果：
 
 移动端优化：

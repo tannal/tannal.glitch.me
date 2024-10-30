@@ -2,6 +2,8 @@
 
 # 2024-10-29 0 | 0
 
+./third_party/chrome/chrome-linux/chrome   --disable-infobars   --custom-devtools-frontend=file://$(realpath out/Default/gen/front_end)   --remote-debugging-port=9222
+
 > 51 * 17
 867
 

@@ -1,4 +1,135 @@
 
+# 2024-10-30
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(27) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Mozilla Security
+https://chat.mozilla.org/#/room/#security:mozilla.org
+
+Home - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/
+
+(41) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+Position Paper for the W3C Workshop on Web Applications and Compound Documents
+https://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html
+
+Web Forms 2.0
+https://whatwg.org/specs/web-forms/current-work/
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+LeetCode/basic-calculator.cc at master · MaskRay/LeetCode
+https://github.com/MaskRay/LeetCode/blob/master/basic-calculator.cc
+
+Chromium DevTools Docs - Get the Code: Checkout and Build Chromium DevTools front-end
+https://chromium.googlesource.com/devtools/devtools-frontend/+/main/docs/get_the_code.md#Run-in-a-pre_built-Chromium
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+11AM - 12PM Pacific Time. china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+11AM+-+12PM+Pacific+Time.+china
+
+PST to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pst-to-china-beijing
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Code search results
+https://github.com/search?q=repo%3Aastral-sh%2Fuv+SAT+solver&type=code
+
+Issues · pubgrub-rs/pubgrub
+https://github.com/pubgrub-rs/pubgrub/issues
+
+copilot claude - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=OQM&sca_esv=95be9b4eddff4e70&channel=fs&q=copilot+claude&sa=X&ved=2ahUKEwjj5I_k9LSJAxXwJEQIHR1OKgEQ7xYoAHoECAkQAQ&biw=1850&bih=968&dpr=1
+
+Asking GitHub Copilot questions in GitHub - GitHub Docs
+https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github#changing-your-ai-model
+
+Using Claude 3.5 Sonnet in GitHub Copilot - GitHub Docs
+https://docs.github.com/en/copilot/using-github-copilot/using-claude-sonnet-in-github-copilot
+
+GitHub Copilot documentation - GitHub Docs
+https://docs.github.com/en/copilot#all-docs
+
+(41) Claude 3.5 Sonnet now available in GitHub Copilot! - YouTube
+https://www.youtube.com/watch?v=EAM2aigY0vw
+
+write a garbage collector - Google 搜索
+https://www.google.com.hk/search?q=write+a+garbage+collector&newwindow=1&client=ubuntu-sn&hs=lSi&sca_esv=95be9b4eddff4e70&channel=fs&ei=95ohZ-nwB8Gsur8P4-q5uAw&oq=write+a+garba&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXdyaXRlIGEgZ2FyYmEqAggAMgUQABiABDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESMEeUO4HWOwWcAF4AZABAJgByQKgAbUcqgEGMi0xMS4yuAEDyAEA-AEBmAIOoAKRHcICChAAGLADGNYEGEfCAgsQLhiABBjRAxjHAcICChAuGIAEGEMYigXCAgUQLhiABMICGRAuGIAEGEMYigUYlwUY3AQY3gQY4ATYAQHCAgoQABiABBhDGIoFwgILEC4YgAQYxwEYrwHCAggQABgKGAwYHsICBBAAGB7CAggQABgFGAoYHsICBhAAGAUYHpgDAIgGAZAGCroGBggBEAEYFJIHCDEuMC4xMS4yoAfRQw&sclient=gws-wiz-serp
+
+Writing a Simple Garbage Collector in C
+https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html
+
+How to implement a garbage collector? - Stack Overflow
+https://stackoverflow.com/questions/6866531/how-to-implement-a-garbage-collector
+
 # 2024-10-29
 
 Chromium-dev - Google 群组
