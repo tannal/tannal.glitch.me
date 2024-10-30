@@ -598,8 +598,8 @@ apply
 [] wpt.live and we need test262.live
 [x] leetcode Regex
 [x] leetcode N-Queue
-[] leetcode basic-calculator
-[] leetcode nearest common ancestor
+[x] leetcode basic-calculator
+[x] leetcode nearest common ancestor
 
 ## Sleep
 
