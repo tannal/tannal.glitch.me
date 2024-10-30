@@ -600,6 +600,9 @@ apply
 [x] leetcode N-Queue
 [x] leetcode basic-calculator
 [x] leetcode nearest common ancestor
+[x] leetcode chuanglian
+[x] leetcode zuichangyouxiao
+[x] leetcode sukato 
 
 ## Sleep
 
