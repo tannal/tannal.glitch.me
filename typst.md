@@ -1,3 +1,180 @@
+
+# Ascii
+
+// 1. 网格和表格的基础元素
+struct GridElem {
+    children: Vec<GridChild>,
+    // ... 其他字段
+}
+
+struct TableElem {
+    children: Vec<TableChild>,
+    // ... 其他字段
+}
+
+// 2. 子元素枚举
+enum GridChild {
+    Header(HeaderElem),
+    Footer(FooterElem),
+    Item(GridItem),
+}
+
+enum TableChild {
+    Header(HeaderElem),
+    Footer(FooterElem),
+    Item(TableItem),
+}
+
+// 3. 网格项目枚举
+enum GridItem {
+    HLine(HLine),    // 水平线
+    VLine(VLine),    // 垂直线
+    Cell(GridCell),  // 单元格
+}
+
+// 4. 可解析的网格子元素
+enum ResolvableGridChild<T> {
+    Header {
+        repeat: Repeat,
+        span: Span,
+        items: impl Iterator<Item = ResolvableGridItem<T>>,
+    },
+    Footer {
+        repeat: Repeat,
+        span: Span,
+        items: impl Iterator<Item = ResolvableGridItem<T>>,
+    },
+    Item(ResolvableGridItem<T>),
+}
+
+// 5. 可解析的网格项目
+enum ResolvableGridItem<T> {
+    HLine {
+        y: f64,
+        start: f64,
+        end: f64,
+        stroke: Stroke,
+        span: Span,
+        position: LinePosition,
+    },
+    VLine {
+        x: f64,
+        start: f64,
+        end: f64,
+        stroke: Stroke,
+        span: Span,
+        position: LinePosition,
+    },
+    Cell(T),
+}
+
+// 6. 轴向数据结构
+struct Axes<T> {
+    x: T,  // 列
+    y: T,  // 行
+}
+
+impl<T> Axes<T> {
+    fn new(x: T, y: T) -> Self {
+        Self { x, y }
+    }
+}
+
+// 7. 网格布局器
+struct GridLayouter<'a> {
+    grid: &'a CellGrid,
+    regions: Regions,
+    styles: StyleChain,
+    span: Span,
+}
+
+// 8. 单元格网格
+struct CellGrid {
+    tracks: Axes<Vec<Track>>,
+    gutter: Axes<Vec<f64>>,
+    fill: Fill,
+    align: Alignment,
+    inset: Inset,
+    stroke: Stroke,
+    // ... 其他字段
+}
+
+// 9. 样式相关
+enum Dir {
+    LTR,
+    RTL,
+}
+
+enum LinePosition {
+    Before,
+    After,
+}
+
+enum OuterVAlignment {
+    Top,
+    Bottom,
+}
+
+enum OuterHAlignment {
+    Left,
+    Right,
+    Start,
+    End,
+}
+
+// 10. 布局引擎和区域
+struct Engine {
+    world: World,
+    // ... 其他字段
+}
+
+struct Regions {
+    // 布局区域信息
+}
+
+// 11. 定位和跟踪
+struct Locator {
+    // 位置信息
+}
+
+struct Tracepoint {
+    Call(Option<String>),
+}
+
+struct Span {
+    // 跨度信息
+}
+
+GridElem/TableElem
+    |
+    +-- GridChild/TableChild
+        |
+        +-- Header
+        +-- Footer
+        +-- Item
+            |
+            +-- HLine
+            +-- VLine
+            +-- Cell
+
+CellGrid
+    |
+    +-- Axes<Track>
+    +-- Axes<Gutter>
+    |
+    +-- GridLayouter
+
+// 1. 解析网格/表格结构
+GridElem/TableElem
+    -> ResolvableGridChild
+    -> ResolvableGridItem
+
+// 2. 创建网格
+CellGrid::resolve(...)
+
+// 3. 布局
+GridLayouter::layout(...)
+
 # inbox
 
 335 lines
