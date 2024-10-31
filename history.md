@@ -1,4 +1,198 @@
 
+# 2024-10-31
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(21) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+Element [13] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+(42) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Site not found · GitHub Pages
+https://ccameron-chromium.github.io/
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#7847691
+
+⚙ D227350 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227350
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+Position Paper for the W3C Workshop on Web Applications and Compound Documents
+https://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/forms.html#forms
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files
+
+D227349: Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJswdRgXMMnJpmKTfGNpzzJnB
+
+100% - [21] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=77d564820ea542fef72eb3700634712408e163b5&selectedTaskRun=Byotw-QzQoeiYlBU9bnSsQ.0
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1611813 - Wrong #endif comment in js/src/vm/CodeCoverage.h
+https://bugzilla.mozilla.org/show_bug.cgi?id=1611813
+
+CodeCoverage.h - mozsearch
+https://searchfox.org/mozilla-central/rev/aa684c0c76136be80af4c6e429bce81dea55c429/js/src/vm/CodeCoverage.h#177
+
+1568489 - Add telemetry to track how often we do a minor GC
+https://bugzilla.mozilla.org/show_bug.cgi?id=1568489
+
+Validating References with Lifetimes - The Rust Programming Language
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html?highlight=lifetime#lifetime-elision
+
+ccameron-chromium (Christopher Cameron)
+https://github.com/ccameron-chromium
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=detexify&op=translate
+
+Category: Spidermonkey - tannal
+https://tannal.github.io/categories/spidermonkey/
+
+update · tannal/tannal.github.io@6399be0
+https://github.com/tannal/tannal.github.io/actions/runs/11605140274/job/32315025628
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+google/re2: RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+https://github.com/google/re2
+
+(42) Paul Wankadia - YouTube
+https://www.youtube.com/user/jeunedotus/videos
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+veritasium github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=veritasium+github
+
+jonnyhyman/Chaos: Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video
+https://github.com/jonnyhyman/Chaos
+
+skia.git - Git at Google
+https://skia.googlesource.com/skia.git
+
+Git at Google
+https://www.googlesource.com/new-password?state=skia&code=4/0AVG7fiSdys7-bWv1ljI6GxSBdYzEskwdHZDskCkYTrrpZBUBP1uqhgjn7fFI6qVM5ZOrKA&scope=https://www.googleapis.com/auth/gerritcodereview
+
+visit the UI to create a Gerrit Account google - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=visit+the+UI+to+create+a+Gerrit+Account+google
+
+Settings · Gerrit Code Review
+https://gerrit-review.googlesource.com/settings/
+
+My Reviews · Gerrit Code Review
+https://skia-review.googlesource.com/dashboard/self
+
+contribute to skia - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=contribute+to+skia
+
+How to submit a patch | Skia
+https://skia.org/docs/dev/contrib/submit/
+
+Rename fLines to fParas and TextLine to TextParagraph (915136) · Gerrit Code Review
+https://skia-review.googlesource.com/c/skia/+/915136
+
+veritasium github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=veritasium+github
+
+Chaos/logistic_zoom.py at master · jonnyhyman/Chaos
+https://github.com/jonnyhyman/Chaos/blob/master/logistic_zoom.py
+
+vispy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vispy
+
+Home — VisPy
+https://vispy.org/
+
+Code search results
+https://github.com/search?q=repo%3Avispy%2Fvispy%20manim&type=code
+
 # 2024-10-30
 
 Chromium-dev - Google 群组
