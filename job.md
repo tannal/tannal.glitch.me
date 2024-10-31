@@ -622,8 +622,8 @@ apply
 [x] Chain Together with ruyu 10/26
 [x] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [x] October 28 2024 servo month meeting
-[] 10-30 16:40 
-[] 10-31 11:40 
+[x] 10-30 16:40 
+[] 10-31 11:45 
 [] Coffee Compiler Club 11-01
 [] 10-31 linebender office hour 23:00
 [x] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
@@ -633,7 +633,7 @@ apply
 [x] boost day E.G. 2024-10-27 KTV
 [] complexity paper 11.10 17:00
 [x] 10-28 ggml-mnist 
-[] complex networking abstract 11.
+[] complex networking abstract 11.30
 [x] vidoes 
 [] blog
 [] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
