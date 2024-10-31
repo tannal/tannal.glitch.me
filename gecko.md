@@ -1,3 +1,28 @@
+
+
+# ipc
+
+// IPDL (Inter-Process Communication Protocol Definition Language)
+class IpcSystem {
+    // 主要使用 Socket + 共享内存
+    MessageChannel message_channel;
+    SharedMemory shared_memory;
+    
+    enum Protocol {
+        SYNC,    // 同步调用
+        ASYNC,   // 异步调用
+        BOTH     // 混合模式
+    };
+}
+
+
+# cookie
+
+Windows: %APPDATA%\Mozilla\Firefox\Profiles\[profile]\cookies.sqlite
+Linux: ~/.mozilla/firefox/[profile]/cookies.sqlite
+Mac: ~/Library/Application Support/Firefox/Profiles/[profile]/cookies.sqlite
+
+
 # potential mentors
 
 https://bugzilla.mozilla.org/user_profile?user_id=600802

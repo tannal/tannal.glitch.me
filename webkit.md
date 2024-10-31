@@ -1,5 +1,18 @@
 
 
+# IPC
+
+// XPC (Cross Process Communication)
+class XpcSystem {
+    // macOS 专有 IPC 机制
+    XPCConnection connection;
+    
+    enum SecurityLevel {
+        PRIVILEGED,
+        SANDBOXED
+    };
+}
+
 # Achievements
 
 ## JavaScriptCore

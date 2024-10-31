@@ -1,3 +1,41 @@
+主要浏览器对存储的处理方式比较类似:
+
+Chrome/Edge(Chromium架构):
+1. 文件系统操作:
+- Storage Service Worker进程专门负责
+- 内部有专门的File System线程池处理读写
+- 主要在browser_process的IO线程进行调度
+
+2. SQLite操作: 
+- Browser进程中的SQL Thread Pool
+- 每个数据库文件对应一个专门线程
+- 避免SQLite操作阻塞UI
+
+3. IndexedDB:
+- Storage Service Worker进程
+- 内部维护线程池处理事务
+- 使用LevelDB作为存储引擎
+
+Firefox:
+1. 文件系统:
+- Parent进程的IO线程
+- 使用线程池处理异步操作
+
+2. SQLite:
+- Parent进程中的Storage线程
+- 维护connection池处理并发
+
+3. IndexedDB:
+- Parent进程的Storage线程
+- 使用自己的存储引擎实现
+
+Safari:
+- WebKit进程处理存储
+- Storage线程专门负责数据库操作
+- IO线程处理文件系统
+
+要了解更多具体实现细节吗?
+
 
 Open UI 是一个由来自不同公司和组织的个人组成的社区项目,核心贡献者团队相对精简。除了你列出的那些核心成员外,以下是一些其他值得关注的现代化前端开发团队和社区:
 

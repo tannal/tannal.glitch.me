@@ -94,6 +94,12 @@ LayoutReplaced 对象布局示意图:
 |                        |
 +------------------------+
 
+# cookie
+
+Windows: %LocalAppData%\Google\Chrome\User Data\Default\Network\Cookies
+Linux: ~/.config/google-chrome/Default/Cookies
+Mac: ~/Library/Application Support/Google/Chrome/Default/Cookies
+
 # dev
 
 export CHROMIUM_BUILDTOOLS_PATH=/home/tannal/tannalwork/projects/chromium/src/buildtools
