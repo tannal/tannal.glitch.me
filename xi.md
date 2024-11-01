@@ -13,6 +13,22 @@ PlainEditor
         +-- Position (anchor)
         +-- Position (focus)
 
+- druid (被 xilem 替代?)
+  - 老的 UI 框架
+  - xilem 是新的实验性 UI 框架
+  
+- druid-widget-nursery 
+  - druid 的组件库
+  - 随着 druid 可能被替代而停滞
+
+- svgtypes (SVG类型解析)
+- resvg (SVG渲染库)
+- resvg-test-suite (测试套件)
+
+css color
+
+jetpack compose
+
 # AccessKit
 
 # Xilem WGPU vello
@@ -24,7 +40,6 @@ Daniel McNab
 Olivier Faure
 
 masonry
-
 
 # inbox
 
@@ -60,6 +75,7 @@ com
 
 Xilem
 swiftui/flutter engine
+
 
 # vello
 
