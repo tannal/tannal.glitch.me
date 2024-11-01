@@ -1,6 +1,10 @@
 
 # 2024-11-1
 
+ffmpeg -i input.webm  -vf "fps=30,scale=640:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 output.gif
+
+ffmpeg -i input.webm -c:v libx264 -preset slow -crf 18 -vf "fps=60" -c:a aac -b:a 192k output.mp4
+
 positive thinking
 positive wrongly is better than negative right
 
