@@ -242,6 +242,9 @@ vagrant reload
 vagrant ssh
 ./tools/run-dev
 
+tools/test-js-with-node
+
+
 ~                   
 ```
 Web应用程序
@@ -302,4 +305,16 @@ https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20
 
 (zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep nginx -a
 
+```
+
+
+# networking problem
+
+```bash
++RUN sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list && \
++    sed -i 's/security.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
++
++
++ENV HTTP_PROXY="http://10.106.146.44:8890"
++ENV HTTPS_PROXY="http://10.106.146.44:8890"
 ```

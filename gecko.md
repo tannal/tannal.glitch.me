@@ -77,6 +77,30 @@ Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
 
 Bug 1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_. r?arai
 
+Though I think there are some tests that need to be updated.
+For example, netwerk/cookie/test/unit/test_eviction.js. I think this line needs to be removed. And probably this line needs to have session_foo_path_6 removed from the beginning of the list. There may be other issues, I just took a quick look. Give ./mach xpcshell-test netwerk/cookie/test/unit/test_eviction.js a shot.
+
+Also if you haven't already, can you also run your change against the other cookie tests locally to see if there are more?
+
+    There are xpcshell, mochitest and browser tests in netwerk/cookie/test
+
+There are some more in netwerk/test
+
+    ./mach test netwerk/test/unit/test_*cookie* --headless
+    ./mach mochitest -f browser netwerk/test/browser/browser*cookie* --headless
+
+There are also some gtests which can be run like this
+./mach gtest TestCookie.*
+
+There are some other tests that we should exercise with try. I would advise using try chooser on at least linux64 and linux64-noopt and select:
+
+    xpcshell tests
+    mochitests
+    mochi browser tests
+    web platform tests
+    gtest
+    the above with verify (where appropriate)
+
 # dev
 
 https://github.com/httpwg/http-core

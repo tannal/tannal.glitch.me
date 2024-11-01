@@ -2,6 +2,7 @@
 # 2024-11-1
 
 
+
 https://github.com/thx
 
 https://kdab.group/contact/working-at-kdab/
@@ -949,6 +950,8 @@ repo init -u https://android.googlesource.com/platform/manifest
 (base) a17@17:~/tannalwork/projects$ git config --global user.email "tannal2409@gmail.com"
 (base) a17@17:~/tannalwork/projects$ git config --global user.name "tannal"
 
+git config --global user.email "tannal2409@gmail.com"
+git config --global user.name "tannal" 
 
 克隆仓库：
 

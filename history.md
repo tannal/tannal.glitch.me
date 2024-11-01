@@ -4,6 +4,246 @@
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Issues · ioquake/ioq3
+https://github.com/ioquake/ioq3/issues?q=is%3Aissue+copy+is%3Aclosed
+
+100% - [21] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=77d564820ea542fef72eb3700634712408e163b5&selectedTaskRun=DQbnB6XxQjqFiCxN6Ac2yw.0
+
+68. 文本左右对齐 - 力扣（LeetCode）
+https://leetcode.cn/problems/text-justification/description/
+
+Code browser - Explore C++ code on the web
+https://codebrowser.dev/
+
+Working at KDAB - KDAB Group
+https://kdab.group/contact/working-at-kdab/
+
+KDAB/codebrowser: Woboq CodeBrowser
+https://github.com/KDAB/codebrowser
+
+Glean | Glean
+https://glean.software/
+
+Glean/glean/ROADMAP.md at 3ef693a0c973abc7ea66f213dc0596373a5ee1ba · facebookincubator/Glean
+https://github.com/facebookincubator/Glean/blob/3ef693a0c973abc7ea66f213dc0596373a5ee1ba/glean/ROADMAP.md?plain=1#L44
+
+zulip web frontend docs - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=zulip+web+frontend+docs
+
+portico: Improve layout of the form in realm redirect page. · zulip/zulip@319db6e
+https://github.com/zulip/zulip/actions/runs/11629055466/job/32385345583?pr=32200
+
+Find your accounts | Zulip
+https://chat.zulip.org/accounts/find/
+
+Prioritized backlog · Zulip release priorities
+https://github.com/orgs/zulip/projects/9/views/1
+
+tannal (tannal) / October 2024
+https://github.com/tannal?tab=overview&from=2024-10-01&to=2024-10-31
+
+Find your accounts | Zulip
+https://zulip.com/accounts/find/
+
+Improve layout of log in page (/go) · Issue #32198 · zulip/zulip
+https://github.com/zulip/zulip/issues/32198
+
+Commits · zulip/zulip
+https://github.com/zulip/zulip/commits/main/
+
+Internationalization for developers — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/translating/internationalization.html#translation-process
+
+JavaScript/TypeScript unit tests — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/testing/testing-with-node.html
+
+Web frontend black-box Puppeteer tests — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/testing/testing-with-puppeteer.html
+
+Re: [zulip/zulip] Improve layout of log in page (/go) (Issue #32198) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJsztsXjFPgxmCbqNHRQjSwpr
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#7847691
+
+Improve layout of log in page (/go) · Issue #32198 · zulip/zulip
+https://github.com/zulip/zulip/issues/32198
+
+electron open link - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=electron+open+link
+
+javascript - Make a link from Electron open in browser - Stack Overflow
+https://stackoverflow.com/questions/31749625/make-a-link-from-electron-open-in-browser
+
+Log in to your organization | Zulip
+http://localhost:9991/accounts/go/
+
+Create a new organization | Zulip
+http://localhost:9991/new/
+
+portico: Add page for redirecting to a realm subdomain. · zulip/zulip@788b98d
+https://github.com/zulip/zulip/commit/788b98d041959bcdffa49db4c20a030d07b5c7c6#diff-f7bea0de77760c9d3939d7d37924cc8f4a086f40fd93aea6632e67415be3d7d8
+
+tannal/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/tannal/zulip
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+Screenshot and GIF software — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/tutorials/screenshot-and-gif-software.html
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+[zulip/zulip] PR run failed: Zulip CI - portico: Improve layout of the form in realm redirect page. (319db6e) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJszvCqjVtNhmQwFxqxHtFgrL
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=semiring&op=translate
+
+Create Next App
+https://www.kitlangton.com/
+
+kitlangton (Kit Langton)
+https://github.com/kitlangton?tab=repositories
+
+How browser paint box border
+http://localhost:1313/p/how-browser-paint-box-border/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #contributors | Typst
+https://discord.com/channels/1054443721975922748/1088371867913572452
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+Upcoming WHATNOT meeting on 2024-11-7 · Issue #10734 · whatwg/html
+https://github.com/whatwg/html/issues/10734
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Bump version on main by laurmaedje · Pull Request #5246 · typst/typst
+https://github.com/typst/typst/pull/5246
+
+Element [14] | [Discord] Linux Gaming #support-gaming
+https://chat.mozilla.org/#/room/#support_gaming-linuxgaming:opensuse.org
+
+1928095 - x86/x86_64 architecture are exposed through sign bit on NaN arithmetic
+https://bugzilla.mozilla.org/show_bug.cgi?id=1928095
+
+(43) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+(31 封私信 / 80 条消息) 为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？ - 知乎
+https://www.zhihu.com/question/347578102/answer/3457406517
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
+Who You’re Following
+https://github.com/tannal?tab=following
+
+October 31, 1am PDT china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=October+31%2C+1am+PDT+china
+
+PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pdt-to-china-beijing
+
+THX
+https://github.com/thx
+
+CSS Easing Functions Level 2
+https://drafts.csswg.org/css-easing-2/#the-linear-easing-function
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+tc39 meeting youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tc39+meeting+youtube
+
+(43) What's Coming Next to JavaScript? by Nicolò Ribaudo - YouTube
+https://www.youtube.com/watch?v=tKHdASf_OOI&list=PL37ZVnwpeshEczPCbFGVGd-hj1DR7_SKy
+
+Are tc39 meetings video recorded and aggregated in one location by anyone? · Issue #410 · tc39/agendas
+https://github.com/tc39/agendas/issues/410
+
+(43) Extremely Modular Distributed JavaScript - YouTube
+https://www.youtube.com/watch?v=9WdbTucMaRo&list=PLKr-mvz8uvUgybLg53lgXSeLOp4BiwvB2
+
+(43) Mark Miller - YouTube
+https://www.youtube.com/@markmiller2891/videos
+
+tc39/dataset: The automatic track tc39 proposals
+https://github.com/tc39/dataset?tab=readme-ov-file
+
+tc39.es/dataset/proposals.json
+https://tc39.es/dataset/proposals.json
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Choose Boring Technology
 https://boringtechnology.club/
 

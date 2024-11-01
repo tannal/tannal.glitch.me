@@ -1,5 +1,7 @@
 
 
+首先告诉我这道题的出处，作者，历史故事，接着用有趣和便于理解的方式叙述题目，然后把每个步骤描述清楚给新手程序员实现，和所需要的现代C++特性和注意事项
+
 比BinaryFunction更 high level的概念有什么？
 跟BinaryFunction一样level的概念有什么？
 比BinaryFunction更low level的概念有什么？
