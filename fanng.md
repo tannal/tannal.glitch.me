@@ -295,6 +295,48 @@ Broadcom in Talks to Acquire VMware
 
 # Alibaba
 
+阿里巴巴的主要事业线包括：
+
+1. 淘系（淘宝、天猫）
+- 核心电商平台
+- C2C和B2C业务
+
+2. 本地生活
+- 饿了么 
+- 口碑
+- 高德地图
+
+3. 阿里云智能
+- 云计算
+- 人工智能
+- IOT物联网
+
+4. 菜鸟
+- 物流
+- 供应链
+- 仓储配送
+
+5. 国际数字商业
+- 速卖通(AliExpress)
+- Lazada
+- Trendyol等
+
+6. 盒马
+- 新零售
+- 生鲜超市
+
+7. 蚂蚁集团（关联公司）
+- 支付宝
+- 数字金融
+- 信用服务
+
+8. 大文娱
+- 优酷
+- 阿里影业
+- 阿里音乐
+
+这些业务线可能会随公司战略调整而变化，但基本涵盖了阿里巴巴的主要业务范围。
+
 Alibaba acquires Berlin-based data Artisans for $103M
 What is happening to Lazada is happening to all companies acquired by Alibaba
 China acquires 'golden shares' in two Alibaba units
@@ -325,6 +367,14 @@ South China Morning Post (南华早报): 香港知名英文报纸。
 
 
 # Tencent
+
+CSIG (Cloud & Smart Industries Group)
+
+云与智慧产业事业群
+腾讯云
+政务民生
+智慧零售
+智慧教育等
 
 Tencent（腾讯）：中国互联网巨头，业务涵盖社交媒体、游戏、金融科技等多个领域。
 1C Entertainment：波兰游戏开发商和发行商。

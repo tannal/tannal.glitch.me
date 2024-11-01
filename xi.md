@@ -43,6 +43,8 @@ masonry
 
 # inbox
 
+resvg rerun graphie.rs typst egui
+
 kurbo peniko winit vello
 
 Aaron Muir Hamilton parley text input IME Android
