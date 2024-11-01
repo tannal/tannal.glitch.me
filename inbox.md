@@ -1,6 +1,13 @@
 
 # 2024-11-1
 
+
+https://github.com/thx
+
+https://kdab.group/contact/working-at-kdab/
+
+doxygen clangd
+
 michael park developer experiences native language developer experience
 
 John Klein 和 David Weiss - 软件架构领域的专家，在软件系统设计方面有重要贡献。
