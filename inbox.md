@@ -1,7 +1,8 @@
 
 # 2024-11-1
 
-
+positive thinking
+positive wrongly is better than negative right
 
 # 2024-10-31 0 | 0
 
