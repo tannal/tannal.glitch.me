@@ -1,4 +1,9 @@
 
+
+比BinaryFunction更 high level的概念有什么？
+跟BinaryFunction一样level的概念有什么？
+比BinaryFunction更low level的概念有什么？
+
 给你方法实现，猜数据结构
 
 给你数据结构猜实现？

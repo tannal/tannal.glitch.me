@@ -1,5 +1,24 @@
 # inbox
 
+
+High Level:
+    Program
+        └── BinaryModule
+            └── BinaryContext
+                
+Same Level:
+    ├── BinaryFunction
+    ├── BinarySection
+    ├── BinaryData
+    └── Symbol
+
+Low Level:
+    BinaryFunction
+        ├── BinaryBasicBlock
+        │   └── MCInst
+        ├── JumpTable
+        └── Relocation
+
 gh workflow run "LLVM Project Tests" --ref main
 
 cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-18/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
@@ -421,6 +440,9 @@ author:River707
 author:DougGregor
 
 # LLVM IR
+
+Module *M = Builder->GetInsertBlock()->getParent()->getParent();
+// BasicBlock -> Function -> Module 的层次关系
 
 A pass operates on some unit of IR (e.g. Module or Function)
 

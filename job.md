@@ -609,6 +609,7 @@ apply
 [x] 2024-10-26 23:40 delay sleep
 [x] 2024-10-26 23:30 - 9:00 delay sleep
 [x] 2024-10-28 1:00 - 8:00 delay sleep
+[x] 2024-10-31 5:00 - 7:40 thursiday high for 
 
 ## Eating
 
@@ -623,9 +624,9 @@ apply
 [x] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [x] October 28 2024 servo month meeting
 [x] 10-30 16:40 
-[] 10-31 11:45 
+[x] 10-31 11:45 
 [] Coffee Compiler Club 11-01
-[] 10-31 linebender office hour 23:00
+[x] 10-31 linebender office hour 23:00
 [x] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
 
 ## Action needed from Me TODO (don't need supervisor) 4
