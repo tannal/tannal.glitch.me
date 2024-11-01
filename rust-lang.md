@@ -80,6 +80,7 @@ involves:RReverser
 
 https://github.com/rust-lang/rustup/issues/904
 
+https://internals.rust-lang.org/t/globalalloc-alloc-for-zero-sized-layouts/21791/7
 
 ```bash
 

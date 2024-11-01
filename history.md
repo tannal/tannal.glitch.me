@@ -1,6 +1,201 @@
 
 # 2024-11-1
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Choose Boring Technology
+https://boringtechnology.club/
+
+(43) Learn about JVM internals - what does the JVM do? - YouTube
+https://www.youtube.com/watch?v=UwB0OSmkOtQ
+
+Add support for debugging Node internals when they are externally loaded · Issue #823 · microsoft/vscode-js-debug
+https://github.com/microsoft/vscode-js-debug/issues/823
+
+GlobalAlloc::alloc() for zero sized layouts - libs - Rust Internals
+https://internals.rust-lang.org/t/globalalloc-alloc-for-zero-sized-layouts/21791/7
+
+5.3. Inserting, Deleting and Updating Tuples :: Hironobu SUZUKI @ InterDB
+https://www.interdb.jp/pg/pgsql05/03.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=incur&op=translate
+
+Dr. Ian Rogers azul - Google 搜索
+https://www.google.com.hk/search?q=Dr.+Ian+Rogers+azul&newwindow=1&client=ubuntu-sn&hs=nuB&sca_esv=afafad7443bfd762&channel=fs&ei=foskZ7XqFa3fp84PtoiHCQ&ved=0ahUKEwi1oYOM1rqJAxWt78kDHTbEIQEQ4dUDCA8&uact=5&oq=Dr.+Ian+Rogers+azul&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0RyLiBJYW4gUm9nZXJzIGF6dWwyBRAhGKABMgUQIRigAUipD1D_BFjqDXABeAGQAQCYAdQCoAHiCaoBBTItMi4yuAEDyAEA-AEBmAIFoAL5CcICChAAGLADGNYEGEfCAgQQABgewgIIEAAYgAQYogSYAwCIBgGQBgSSBwcxLjAuMS4zoAeWCA&sclient=gws-wiz-serp
+
+Ian Rogers
+https://sites.google.com/site/rogersemail/home
+
+georgios gousios - Google 搜索
+https://www.google.com.hk/search?q=georgios+gousios&newwindow=1&client=ubuntu-sn&hs=JJr&sca_esv=afafad7443bfd762&channel=fs&ei=cIwkZ9mFAbP9p84P0vv9gA0&gs_ssp=eJzj4tVP1zc0TM61yEoyMjQ0YPQSSE_NL0rPzC9WSM8vLQbSAKR-Cro&oq=Georgios+Gous&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUdlb3JnaW9zIEdvdXMqAggAMgUQLhiABDIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIGEAAYBRgeMggQABiABBiiBDIUEC4YgAQYlwUY3AQY3gQY4ATYAQFIuYQBUPsHWNl9cAJ4AJABAJgB4wKgAZ0iqgEGMi00LjEwuAEDyAEA-AEBmAIQoAKaI8ICCxAAGIAEGLADGKIEwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgsQLhiABBjHARivAcICCBAuGIAEGNQCwgIKEC4YgAQYQxiKBcICGRAuGIAEGEMYigUYlwUY3AQY3gQY3wTYAQHCAgYQABgKGB7CAgUQIRigAZgDAIgGAZAGBboGBggBEAEYFJIHBjIuMy0xNKAHr7AB&sclient=gws-wiz-serp
+
+dspinellis (Diomidis Spinellis)
+https://github.com/dspinellis
+
+Lecture Notes in English
+https://www.spinellis.gr/notes.en.html
+
+gousiosg/java-callgraph: Programs for producing static and dynamic (runtime) call graphs for Java programs
+https://github.com/gousiosg/java-callgraph
+
+Anwar Ghuloum github - Google 搜索
+https://www.google.com.hk/search?q=Anwar+Ghuloum+github&newwindow=1&client=ubuntu-sn&hs=hNr&sca_esv=afafad7443bfd762&channel=fs&ei=gI0kZ-PRPIKGp84Pwqyf0AE&ved=0ahUKEwjjkbaB2LqJAxUCw8kDHULWBxoQ4dUDCA8&uact=5&oq=Anwar+Ghuloum+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFEFud2FyIEdodWxvdW0gZ2l0aHViMgcQIRigARgKSO0LUIkEWP4KcAF4AJABAJgBzAKgAakMqgEFMi0xLjS4AQPIAQD4AQGYAgagAr8MwgIKEAAYgAQYsAMYE8ICCxAAGIAEGLADGKIEwgIEEAAYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgOSBwUxLjMtNaAH7Qg&sclient=gws-wiz-serp
+
+kneep’s gists
+https://gist.github.com/kneep?direction=asc&page=3&sort=updated
+
+We’re on the Android engineering team and built Android Nougat. Ask us Anything! : r/androiddev
+https://www.reddit.com/r/androiddev/comments/4tm8i6/were_on_the_android_engineering_team_and_built/?rdt=59607
+
+kotlin foundation - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kotlin+foundation
+
+Jim Waldo github - Google 搜索
+https://www.google.com.hk/search?q=Jim+Waldo+github&newwindow=1&client=ubuntu-sn&hs=ghr&sca_esv=afafad7443bfd762&channel=fs&ei=V5IkZ_DpG63Fp84PgdqlkAU&ved=0ahUKEwiw8fvP3LqJAxWt4skDHQFtCVIQ4dUDCA8&uact=5&oq=Jim+Waldo+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEppbSBXYWxkbyBnaXRodWIyBxAhGKABGApI9RRQhQVY-RNwA3gBkAEAmAHPAqABvRCqAQUyLTQuM7gBA8gBAPgBAZgCCqAC6xDCAgoQABiwAxjWBBhHwgIHEC4YgAQYE8ICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAgYHsICChAAGBMYCBgKGB7CAggQABiABBiiBMICFhAuGIAEGBMYlwUY3AQY3gQY4ATYAQHCAgUQIRigAZgDAIgGAZAGAboGBggBEAEYFJIHBzMuMC4zLjSgB5sQ&sclient=gws-wiz-serp
+
+Jim Waldo
+https://www.eecs.harvard.edu/~waldo/
+
+Java: The Good Parts[Book]
+https://www.oreilly.com/library/view/java-the-good/9781449382322/
+
+papers-we-love/distributed_systems/a-note-on-distributed-computing.pdf at main · papers-we-love/papers-we-love
+https://github.com/papers-we-love/papers-we-love/blob/main/distributed_systems/a-note-on-distributed-computing.pdf
+
+javascript the good parts - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=javascript+the+good+parts
+
+Is JavaScript: The Good Parts still worth reading? : r/javascript
+https://www.reddit.com/r/javascript/comments/92sdr2/is_javascript_the_good_parts_still_worth_reading/
+
+getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.
+https://github.com/getify/You-Dont-Know-JS
+
+cp查理 we don't talk anymore - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=SlC&sca_esv=282b0e5fe8b6ca8d&channel=fs&q=cp%E6%9F%A5%E7%90%86+we+don%27t+talk+anymore&stick=H4sIAAAAAAAAAONgFuLWz9U3MDQ2zCo2NVDi1U_XNzRMyyjJK0pOstAS9C0tzkx2LCrJLC4JyQ_Oz0tfxCqXXPBs_tLnE9oUylMVUvLz1EsUShJzshUS8ypz84tSATM9TNJSAAAA&sa=X&ved=2ahUKEwjbsIqh4rqJAxXT4ckDHeqON3kQri56BAhIEAM&biw=1850&bih=968&dpr=1
+
+Bertrand Meyer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Bertrand+Meyer
+
+ioquake/ioq3: The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+https://github.com/ioquake/ioq3
+
+michael park meta - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=michael+park+meta
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+(23) Discord | #🍂nodevember | Graphite
+https://discord.com/channels/731730685944922173/1301699499139534859
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+torch_compile.webm - Google 云端硬盘
+https://drive.google.com/file/d/1HzhrvSjgM7y0ks61AdAJAW0jKCHVdOyF/view
+
+shaRk-033/ai.c: gpt written in plain c
+https://github.com/shaRk-033/ai.c
+
+cuda-course/01_Deep_Learning_Ecosystem/README.md at master · Infatoshi/cuda-course
+https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md
+
+Upcoming WHATNOT meeting on 2024-11-7 · Issue #10734 · whatwg/html
+https://github.com/whatwg/html/issues/10734
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Element [13] | [Discord] Linux Gaming #support-gaming
+https://chat.mozilla.org/#/room/#support_gaming-linuxgaming:opensuse.org
+
+1928095 - x86/x86_64 architecture are exposed through sign bit on NaN arithmetic
+https://bugzilla.mozilla.org/show_bug.cgi?id=1928095
+
+(43) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+(31 封私信 / 80 条消息) 为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？ - 知乎
+https://www.zhihu.com/question/347578102/answer/3457406517
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+ruff github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ruff+github
+
+Astral
+https://github.com/astral-sh
+
+atcoder - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=atcoder
+
+Who You’re Following
+https://github.com/tannal?tab=following
+
+October 31, 1am PDT china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=October+31%2C+1am+PDT+china
+
+PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pdt-to-china-beijing
+
+[css-easing-2] Time for FPWD · Issue #10688 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10688
+
+w3c/csswg-drafts: CSS Working Group Editor Drafts
+https://github.com/w3c/csswg-drafts/tree/main
+
+www-style@w3.org Mail Archives
+https://lists.w3.org/Archives/Public/www-style/
+
+dimforge/wgmath: GPU scientific computing on every platform
+https://github.com/dimforge/wgmath/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
 prompt.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

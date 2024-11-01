@@ -1,6 +1,14 @@
 # potential mentors
 
 
+# ART
+
+Anwar Ghuloum
+
+Brian Carlstrom
+
+Ian Rogers
+
 # dev
 
 repo start static-check art

@@ -2,6 +2,27 @@ Stanislav Erokhin erokhins frontend
 brain goetz
 
 
+总裁：Andrey Breslav（JetBrains）
+
+秘书：Max Sills（Google）
+
+董事会：
+
+    Andrey Breslav（JetBrains）
+    William R. Cook（德克萨斯大学奥斯汀分校）
+    Stephanie Saad Cuthbertson（Google）
+    Anwar Ghuloum（Google）
+    Maxim Shafirov（JetBrains）
+
+首席语言设计师：Andrey Breslav（JetBrains）
+
+语言委员会：
+
+    Andrey Breslav（JetBrains）
+    William R. Cook（德克萨斯大学奥斯汀分校）
+    Jeffrey van Gogh（Google）
+
+
 # people
 
 involves:dimonchik0036

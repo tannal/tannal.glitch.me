@@ -1,6 +1,23 @@
 
 # 2024-11-1
 
+michael park developer experiences native language developer experience
+
+John Klein 和 David Weiss - 软件架构领域的专家，在软件系统设计方面有重要贡献。
+Greg Lehey - 著名的FreeBSD开发者，写过多本关于操作系统的书籍，在BSD Unix社区非常活跃。
+Pete Goodliffe - 软件开发专家，著有《Code Craft》等编程书籍。
+Rhys Newman 和 Christopher Dennis - 在系统架构和软件开发领域有重要贡献。
+Jim Waldo - Sun Microsystems前首席技术架构师，现为Harvard大学教授，在分布式系统领域很有建树。
+Ian Rogers 和 Dave Grove - 在编程语言和运行时系统方面有深入研究。
+Michael Nygard - 著名的《Release It!》一书作者，在架构设计和系统可靠性方面经验丰富。
+Jim Blandy - GNU Emacs和Subversion的主要开发者之一，在开源社区非常活跃。
+Brian Sletten - 专注于语义网络和新兴技术的专家。
+Till Adam 和 Mirko Boehm - KDE项目的重要贡献者。
+Dave Fetterman - 曾在Facebook担任重要工程职位，对Facebook的技术架构有重要贡献。
+Bertrand Meyer - Eiffel编程语言的创造者，面向对象编程的先驱，著有多本计算机科学教材。
+Derek Murray 和 Keir Fraser - 在系统软件和虚拟化技术方面有重要研究。
+Panagiotis Louridas - 软件工程领域的研究者和教育者。
+
 ffmpeg -i input.webm  -vf "fps=30,scale=640:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 output.gif
 
 ffmpeg -i input.webm -c:v libx264 -preset slow -crf 18 -vf "fps=60" -c:a aac -b:a 192k output.mp4
