@@ -1,4 +1,23 @@
 
+# dependencies
+
+export ZED_BUILD_REMOTE_SERVER='/home/a13/.cargo/bin/remote_server'
+export ZED_BUILD_REMOTE_SERVER='~/.cargo/bin/remote_server'
+ssh -o SendEnv=ZED_BUILD_REMOTE_SERVER -i ~/Desktop/key.txt a13@10.106.146.39
+ssh -i ~/Desktop/key.txt a13@10.106.146.39 
+Updating git repository `https://github.com/kvark/blade`
+Updating git repository `https://github.com/pop-os/cosmic-text`
+Updating git repository `https://github.com/zed-industries/font-kit`
+Updating git repository `https://github.com/XDeme1/xim-rs`
+Updating git repository `https://github.com/ConradIrwin/xkbcommon-rs`
+Updating git repository `https://github.com/microsoft/python-environment-tools.git`
+Updating git repository `https://github.com/zed-industries/tree-sitter-go-mod`
+Updating git repository `https://github.com/zed-industries/tree-sitter-go-work`
+Updating git repository `https://github.com/tree-sitter-grammars/tree-sitter-markdown`
+Updating git repository `https://github.com/zed-industries/tree-sitter-yaml`
+Updating git repository `https://github.com/alacritty/alacritty`
+Updating git repository `https://github.com/zed-industries/reqwest.git`
+Updating git repository `https://github.com/zed-industries/lsp-types`
 
 # potential mentors
 

@@ -1,6 +1,201 @@
 
 # 2024-11-2
 
+zed.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+winit/src/platform_impl/linux/wayland/event_loop/mod.rs at d3207a8d76c7b6a6283dee36c19c1dac4e378fa7 · rust-windowing/winit
+https://github.com/rust-windowing/winit/blob/d3207a8d76c7b6a6283dee36c19c1dac4e378fa7/src/platform_impl/linux/wayland/event_loop/mod.rs#L35
+
+Code search results
+https://github.com/search?q=uv_timer_t*+handle%3B+&type=code&p=2
+
+swow/swow: Coroutine-based cross-platform concurrent I/O engine.
+https://github.com/swow/swow
+
+understand-nodejs/chapter10 定时器.md at master · meixg/understand-nodejs
+https://github.com/meixg/understand-nodejs/blob/master/chapter10%20%E5%AE%9A%E6%97%B6%E5%99%A8.md
+
+跟风写的 2023 读书总结 | Mayo的前端技术记录与生活
+https://meixg.cn/2023/12/31/2023-reading/#more
+
+icj/part1/1-6-ast-interpreter.md at master · hsiaosiyuan0/icj
+https://github.com/hsiaosiyuan0/icj/blob/master/part1/1-6-ast-interpreter.md
+
+linux clock youtube - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=cwS&sca_esv=b83ae7c870d94983&channel=fs&q=linux+clock+youtube&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CQSLRs--VndZDemg_vRJY6u8dcef0aU8XzqpWbJBsjUnsPBhiLihGqR52EliZjFEoUSj3SlHjeC9OCQuvrZADJHMXTVyk2VUyq7bADBMZXxXE5gkRw&sa=X&ved=2ahUKEwj__J_6ybyJAxWIMEQIHbRYC8QQ0pQJegQIERAB&biw=1850&bih=968&dpr=1
+
+(44) Coffee Compiler Club, 2024_11_01 - YouTube
+https://www.youtube.com/watch?v=NvOnAfCCR7w
+
+01/Nov/2024 - Google 文档
+https://docs.google.com/document/d/1JwABPZY1svsnXz2L8x5aeJGLzhTYzbNvNXnG1_ELLzE/edit?pli=1&tab=t.0
+
+meeting_saved_chat.txt
+https://www.dropbox.com/scl/fi/e10govrdvlbo568e97d4u/meeting_saved_chat.txt?rlkey=ipp1nzjl4trvripeajx40vyyw&e=1&dl=0
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/#sec-numerictorawbytes
+
+4a0b2585caec80bb83755f58d7562033 (PNG Image, 80 × 80 pixels)
+https://secure.gravatar.com/avatar/4a0b2585caec80bb83755f58d7562033?d=identicon
+
+ECMAScript® 2025 pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ECMAScript%C2%AE+2025+pdf
+
+c++23 pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=c%2B%2B23+pdf
+
+rust spec pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rust+spec+pdf
+
+comprehensive-rust.pdf
+https://google.github.io/comprehensive-rust/comprehensive-rust.pdf
+
+go spec pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=go+spec+pdf
+
+The Go Programming Language Specification - The Go Programming Language
+https://go.dev/ref/spec
+
+google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+https://github.com/google/comprehensive-rust/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [14] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pdt-to-china-beijing
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(25) Discord | #general | Zed Community
+https://discord.com/channels/869392257814519848/873293828805771284
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200/files
+
+OrbStack: The fast, light, and easy way to run Docker containers and Linux | Hacker News
+https://news.ycombinator.com/item?id=41421846
+
+positive thinking elon musk - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=VFo&sca_esv=1d6392e9ccd6ab5b&channel=fs&q=positive+thinking+elon+musk&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNK2qT4XAroHE0d1g_A6pmUCCkEiT_qU1STQoAu4YwExvdzNXrU8jTrQRV6di6_rUcPs05Dz1DW8nbcDsjU_ReLohNqCs0yvOdt1MR75uvWf7T6NQI&sa=X&ved=2ahUKEwiA2bqM07yJAxV1IEQIHUVHCMUQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=react%20native%20&sort=byPopularity&type=story
+
+New Architecture is here · React Native
+https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here
+
+React Working Group
+https://github.com/reactwg
+
+reactwg/react-native-new-architecture: Workgroup for the New React Native Architecture
+https://github.com/reactwg/react-native-new-architecture/
+
+react native b3tgg - Google 搜索
+https://www.google.com.hk/search?q=react+native+b3tgg&newwindow=1&client=ubuntu-sn&hs=sx8&sca_esv=b83ae7c870d94983&channel=fs&ei=h5UlZ9-dN_Grur8PwPTxsAw&ved=0ahUKEwif_aPn07yJAxXxle4BHUB6HMYQ4dUDCA8&uact=5&oq=react+native+b3tgg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJlYWN0IG5hdGl2ZSBiM3RnZzIIECEYoAEYwwRI1xtQvBFYuhpwAXgBkAEAmAHCAqABlwyqAQUyLTEuNLgBA8gBAPgBAZgCAqACzwLCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB4oH&sclient=gws-wiz-serp
+
+(44) Making Minecraft 100x faster (by rewriting it in Rust) - YouTube
+https://www.youtube.com/watch?v=meup98Okxwk
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+GitHub
+https://github.com/
+
+jsi-rs/vendor/build-hermes.sh at main · laptou/jsi-rs
+https://github.com/laptou/jsi-rs/blob/main/vendor/build-hermes.sh
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

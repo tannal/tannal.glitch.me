@@ -1,6 +1,8 @@
 
 # 2024-11-2
 
+https://meixg.cn/2023/12/31/2023-reading/#more
+
 rm -rf ~/.rustup/tmp/*
 rm -rf ~/.rustup/downloads/*
 
