@@ -1,6 +1,13 @@
 
 # 2024-11-2
 
+sudo apt install libcurl4-openssl-dev
+
+UX is about platform.
+DX is about tooling.
+Flutter is trying to solving them together.
+While React Native is tring to solve them seprately.
+
 https://meixg.cn/2023/12/31/2023-reading/#more
 
 rm -rf ~/.rustup/tmp/*
