@@ -1,4 +1,17 @@
 
+. 从代码中的 serde_json::to_string(&request)? 可以看出 Request 是可序列化的结构体
+从响应处理逻辑可以看出：
+ResponseEvent 包含 choices 字段，是一个数组
+每个 Choice 有 finish_reason 字段，是 Option 类型
+这是一个流式 API 实现：
+使用 SSE (Server-Sent Events) 格式
+每行以 "data: " 开头
+可能返回 "[DONE]" 表示结束
+支持超时设置 (low_speed_timeout)
+这似乎是对 GitHub Copilot Chat API 的封装，因为：
+使用了 COPILOT_CHAT_COMPLETION_URL 常量
+设置了 "Copilot-Integration-Id" 头部
+结构类似于 OpenAI 的 Chat Completion API
 
 让我为您介绍一些现代化的代码浏览器实现方案：
 1. OpenGrok

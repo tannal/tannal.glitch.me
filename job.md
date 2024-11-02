@@ -583,7 +583,8 @@ apply
 
 [] 11.6 chongwangfei
 
-[] 
+[] 11.7 https://github.com/whatwg/html/issues/10734 
+
 
 
 # 2024-10-27 - 2024-11-4

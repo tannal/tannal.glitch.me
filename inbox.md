@@ -1,4 +1,20 @@
 
+# 2024-11-2
+
+
+// 视频帧数据
+struct VideoFrame {
+    const SkPixmap* pixmap;           // 图像数据
+    int64_t timestamp;                // 时间戳(微秒)
+};
+
+// 音频帧数据
+struct AudioFrame {
+    const float* samples;             // PCM音频样本
+    size_t sampleCount;              // 样本数量
+    int64_t timestamp;               // 时间戳(微秒)
+};
+
 # 2024-11-1
 
 

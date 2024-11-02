@@ -1,3 +1,24 @@
+# architecture
+
+Client <---> Webpack Dev Server (9994)
+   |
+   |         Django (9992)
+   +------>  - 处理 HTTP 请求
+   |         - 数据库操作
+   |         - 业务逻辑
+   |
+   |         Tornado (9993)
+   +------>  - WebSocket 连接
+             - 实时消息推送
+   
+后台服务：
+- 消息队列处理
+- 定时任务
+- 搜索索引更新
+
+数据存储：
+- PostgreSQL（主数据库）
+- 全文搜索
 
 # dev 
 
@@ -318,3 +339,31 @@ https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20
 +ENV HTTP_PROXY="http://10.106.146.44:8890"
 +ENV HTTPS_PROXY="http://10.106.146.44:8890"
 ```
+
+
+# zulip
+
+从 inspect 的输出中，可以看到关键的挂载配置在 Mounts 部分：
+这表明：
+挂载类型：使用了 bind mount（绑定挂载）
+源路径：主机上的 /home/a13/tannalwork/projects/zulip 目录
+目标路径：容器内的 /srv/zulip 目录
+权限：
+RW: true 表示可读可写
+Mode: "z" 是 SELinux 标签，允许容器访问共享内容
+传播模式：rprivate 表示挂载点的私有传播
+这个挂载配置可能是通过以下命令实现的：
+Bash
+这就是为什么你在主机上修改代码时，容器内立即可见的原因 —— 它们实际上是指向同一个文件系统位置的硬链接。这不是复制或同步，而是直接共享同一块磁盘空间。
+
+"Mounts": [
+    {
+        "Type": "bind",
+        "Source": "/home/a13/tannalwork/projects/zulip",
+        "Destination": "/srv/zulip",
+        "Mode": "z",
+        "RW": true,
+        "Propagation": "rprivate"
+    }
+]
+docker run -v /home/a13/tannalwork/projects/zulip:/srv/zulip:z ...
