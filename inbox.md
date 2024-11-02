@@ -1,6 +1,11 @@
 
 # 2024-11-2
 
+
+export http_proxy=http://10.90.92.225:7890
+export https_proxy=http://10.90.92.225:7890
+./gradlew assembleRelease
+
 https://github.com/signalapp/
 
 sudo apt install libcurl4-openssl-dev
