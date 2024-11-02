@@ -1,4 +1,162 @@
 
+# 2024-11-2
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(44) Life of a Zed Extension: Rust, WIT, Wasm - YouTube
+https://www.youtube.com/watch?v=Ft58q9E0G5Y&t=142s
+
+scalameta
+https://github.com/scalameta
+
+SomeoneToIgnore/rust-sdks: LiveKit realtime and server SDKs for Rust
+https://github.com/SomeoneToIgnore/rust-sdks
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=adventurous&op=translate
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+livekit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=livekit
+
+livekit/livekit: End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/livekit/livekit
+
+livekit-examples/meet: Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
+https://github.com/livekit-examples/meet
+
+livekit-examples/meet: Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next.js.
+https://github.com/livekit-examples/meet
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Blink Insertion Point/Use std highlight color by modelorganism · Pull Request #133 · xi-editor/xi-editor
+https://github.com/xi-editor/xi-editor/pull/133/files#diff-9c0a3c8f07c38a471a584a5da87a0bbc41d27d15c671a7664f44b98e16213e2e
+
+76. 最小覆盖子串 - 力扣（LeetCode）
+https://leetcode.cn/problems/minimum-window-substring/description/
+
+Pull requests · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pulls
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476?spm_id_from=333.1007.0.0
+
+zed.dev/api/releases/dev/0.160.0/zed-remote-server-linux-x86_64.gz?update=1
+https://zed.dev/api/releases/dev/0.160.0/zed-remote-server-linux-x86_64.gz?update=1
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Upcoming WHATNOT meeting on 2024-11-7 · Issue #10734 · whatwg/html
+https://github.com/whatwg/html/issues/10734
+
+Element [14] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Pull requests · zed-industries/zed
+https://github.com/zed-industries/zed/pull/19556/files
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monetizing&op=translate
+
+Astral
+https://github.com/astral-sh
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+October 31, 1am PDT china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=October+31%2C+1am+PDT+china
+
+PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pdt-to-china-beijing
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(25) Discord | #general | Zed Community
+https://discord.com/channels/869392257814519848/873293828805771284/1249479363477372938
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+JetBrains/ideavim: IdeaVim – A Vim engine for JetBrains IDEs
+https://github.com/JetBrains/ideavim
+
+maxbrunsfeld (Max Brunsfeld)
+https://github.com/maxbrunsfeld
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+This Week at Zed Industries: #4
+https://zed.dev/blog/this-week-at-zed-4
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+View maxbrunsfeld's full-sized avatar Max Brunsfeld - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+View+maxbrunsfeld%27s+full-sized+avatar+Max+Brunsfeld+
+
 # 2024-11-1
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

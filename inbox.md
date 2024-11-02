@@ -1,6 +1,8 @@
 
 # 2024-11-2
 
+rm -rf ~/.rustup/tmp/*
+rm -rf ~/.rustup/downloads/*
 
 // 视频帧数据
 struct VideoFrame {
