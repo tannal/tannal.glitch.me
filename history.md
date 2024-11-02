@@ -1,6 +1,177 @@
 
 # 2024-11-2
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+ChatGGG
+http://192.168.43.1:8080/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+在百万豪装录音棚大声听 陶喆《小镇姑娘》【Hi-res】_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1s5411v72x?spm_id_from=333.788.player.switch&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+taozhe - Google 搜索
+https://www.google.com.hk/search?q=taozhe&newwindow=1&client=ubuntu-sn&hs=P5T&sca_esv=b83ae7c870d94983&channel=fs&ei=WJwlZ-qwFeTjkPIP0vCHmAw&ved=0ahUKEwjqvIyn2ryJAxXkMUQIHVL4AcMQ4dUDCA8&uact=5&oq=taozhe&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnRhb3poZTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAuGIAEMgUQLhiABDIFEAAYgARIuw5QnQdYpg1wAXgBkAEAmAHfA6AB0wiqAQcyLTEuMS4xuAEDyAEA-AEBmAICoALvA8ICChAAGLADGNYEGEeYAwCIBgGQBgGSBwUxLjQtMaAH7kY&sclient=gws-wiz-serp
+
+声音玩具 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=WU9&sca_esv=b83ae7c870d94983&channel=fs&q=%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7&spell=1&sa=X&ved=2ahUKEwiJyI6s27yJAxV6E0QIHfp1IswQBSgAegQIDRAB&biw=1850&bih=968&dpr=1
+
+声音玩具乐队_百度百科
+https://baike.baidu.com/item/%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7%E4%B9%90%E9%98%9F/51853603
+
+回春丹 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=CV9&sca_esv=b83ae7c870d94983&channel=fs&q=%E5%9B%9E%E6%98%A5%E4%B8%B9&spell=1&sa=X&ved=2ahUKEwjl5pHA27yJAxVMMEQIHXuLK-IQBSgAegQIDBAB&biw=1850&bih=968&dpr=1
+
+康士坦的变化球 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=FV9&sa=X&sca_esv=b83ae7c870d94983&channel=fs&biw=1850&bih=968&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgDSQTicZ-P9vokw7gUqpnF7NmANC-MINLUFHR-MWEzr_uV6dv9QX5NhvO6UCMz9DHhFmlDpI_J7H1tKq45R8yk5SOTM2z-scJb3ueKdq34Lt6FF8b1FOxs1H6Vz8mzN3087lAkqay3xR8WFSL523FhfiSP0rAOfFeqivyIF9BO7fof1e8uej5uCkd5r9GVz9fEO76ESUTX8-cf9OyJUceG_WG_x56iUs-tD6HmugAe_GKjl4T58Zaqu5lt0lp92YcdVqWSgJftIBBT2akDXGeOJGEIW4uLmDK5_njNk4OA0aQbp1ug%3D%3D&q=%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E5%8F%98%E5%8C%96%E7%90%83&ved=2ahUKEwiF6rzB27yJAxXFIUQIHfCMCcMQs9oBKAB6BAgZEAk
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+open-ui/meetings/telecon/2024-10-31.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-10-31.md
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [14] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+m:H264ChangeMonitor::UpdateConfigFromExtraData (MediaChangeMonitor.cpp - mozsearch)
+https://searchfox.org/mozilla-central/source/dom/media/platforms/wrappers/MediaChangeMonitor.cpp#149,154
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
+https://www.worldtimebuddy.com/pdt-to-china-beijing
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(26) Discord | #general | Zed Community
+https://discord.com/channels/869392257814519848/873293828805771284
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200/files
+
+OrbStack: The fast, light, and easy way to run Docker containers and Linux | Hacker News
+https://news.ycombinator.com/item?id=41421846
+
+positive thinking elon musk - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=VFo&sca_esv=1d6392e9ccd6ab5b&channel=fs&q=positive+thinking+elon+musk&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNK2qT4XAroHE0d1g_A6pmUCCkEiT_qU1STQoAu4YwExvdzNXrU8jTrQRV6di6_rUcPs05Dz1DW8nbcDsjU_ReLohNqCs0yvOdt1MR75uvWf7T6NQI&sa=X&ved=2ahUKEwiA2bqM07yJAxV1IEQIHUVHCMUQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=react%20native%20&sort=byPopularity&type=story
+
+New Architecture is here · React Native
+https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here
+
+React Working Group
+https://github.com/reactwg
+
+reactwg/react-native-new-architecture: Workgroup for the New React Native Architecture
+https://github.com/reactwg/react-native-new-architecture/
+
+react native b3tgg - Google 搜索
+https://www.google.com.hk/search?q=react+native+b3tgg&newwindow=1&client=ubuntu-sn&hs=sx8&sca_esv=b83ae7c870d94983&channel=fs&ei=h5UlZ9-dN_Grur8PwPTxsAw&ved=0ahUKEwif_aPn07yJAxXxle4BHUB6HMYQ4dUDCA8&uact=5&oq=react+native+b3tgg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJlYWN0IG5hdGl2ZSBiM3RnZzIIECEYoAEYwwRI1xtQvBFYuhpwAXgBkAEAmAHCAqABlwyqAQUyLTEuNLgBA8gBAPgBAZgCAqACzwLCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB4oH&sclient=gws-wiz-serp
+
+(44) Making Minecraft 100x faster (by rewriting it in Rust) - YouTube
+https://www.youtube.com/watch?v=meup98Okxwk
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+jsi-rs/vendor/build-hermes.sh at main · laptou/jsi-rs
+https://github.com/laptou/jsi-rs/blob/main/vendor/build-hermes.sh
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+The Documentries
+https://tannal.github.io/p/the-documentries/
+
 zed.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
