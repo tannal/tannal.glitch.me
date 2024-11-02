@@ -1,6 +1,8 @@
 
 # 2024-11-2
 
+开源+商业化确实是现代技术创业的最佳路径之一：
+
 sudo apt install build-essential cmake ninja-build pkg-config
 
 sudo apt install libboost-all-dev
