@@ -1,6 +1,237 @@
 
 # 2024-11-2
 
+tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Signal
+https://github.com/signalapp/
+
+migration from react native to flutter - Google 搜索
+https://www.google.com.hk/search?q=migration+from+react+native+to+flutter&newwindow=1&client=ubuntu-sn&hs=mKs&sca_esv=1e38a34194835510&channel=fs&ei=H9IlZ-2cD6bPkPIP8a62mAw&ved=0ahUKEwitqNXLjb2JAxWmJ0QIHXGXDcMQ4dUDCA8&uact=5&oq=migration+from+react+native+to+flutter&gs_lp=Egxnd3Mtd2l6LXNlcnAiJm1pZ3JhdGlvbiBmcm9tIHJlYWN0IG5hdGl2ZSB0byBmbHV0dGVyMgcQIRigARgKSMrzAVCitQFYzPIBcAV4AZABAJgBwQKgAaVNqgEGMi0zMy40uAEDyAEA-AEBmAIqoALdTsICChAAGLADGNYEGEfCAgUQABiABMICCxAuGIAEGNEDGMcBwgIKEAAYgAQYQxiKBcICDRAuGIAEGEMY1AIYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIMEC4YgAQYQxiKBRgKwgIKEC4YgAQYQxiKBcICBRAuGIAEwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAcICCRAAGIAEGAoYDMICBxAAGIAEGAzCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABiABBiiBMICCRAAGIAEGBMYDcICBhAAGAgYHsICBRAhGKABmAMAiAYBkAYKugYGCAEQARgUkgcINS4wLjMyLjWgB-SzAQ&sclient=gws-wiz-serp
+
+(44) Moving Off React Native - YouTube
+https://www.youtube.com/watch?v=gntZth3mIbM
+
+migration from flutter to react native - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=migration+from+flutter+to+react+native
+
+Code search results
+https://github.com/search?q=repo%3Afacebook%2Freact-native%20Hermes&type=code
+
+Chinese Simplified (zh-CN): Catch-up with EN version · Issue #2122 · google/comprehensive-rust
+https://github.com/google/comprehensive-rust/issues/2122
+
+google/comprehensive-rust at 5a576319118b00c9d75a75c2246f63881614af80
+https://github.com/google/comprehensive-rust/tree/5a576319118b00c9d75a75c2246f63881614af80
+
+库 - Comprehensive Rust 🦀
+https://google.github.io/comprehensive-rust/zh-CN/android/build-rules/library.html
+
+不安全代码 - Comprehensive Rust 🦀
+https://google.github.io/comprehensive-rust/zh-CN/chromium/build-rules/unsafe.html
+
+anlunx (Anlun Xu)
+https://github.com/anlunx
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#3d%E5%9B%BE%E5%BD%A2%E6%B8%B8%E6%88%8F%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%87%BA%E6%9D%A5%E7%9A%84
+
+#01 - Relational Model & Algebra (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=APqWIjtzNGE
+
+cursor context window - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cursor+context+window
+
+Input > context window - General - Cursor Community Forum
+https://forum.cursor.com/t/input-context-window/319
+
+Anyone found out context length for Cursor ? : r/ChatGPTCoding
+https://www.reddit.com/r/ChatGPTCoding/comments/1eq3fkc/anyone_found_out_context_length_for_cursor/
+
+euler book - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=euler+book
+
+how veritasium make videos manim - Google 搜索
+https://www.google.com.hk/search?q=how+veritasium+make+videos+manim&newwindow=1&client=ubuntu-sn&hs=Z1D&sca_esv=71ff475f48642a55&channel=fs&ei=euElZ8D0Gu_dkPIPn-3z4Q8&ved=0ahUKEwjAmZqenL2JAxXvLkQIHZ_2PPwQ4dUDCA8&uact=5&oq=how+veritasium+make+videos+manim&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGhvdyB2ZXJpdGFzaXVtIG1ha2UgdmlkZW9zIG1hbmltMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI4xVQ9wlYhBRwAXgBkAEAmAGGBaAB5Q6qAQczLTIuMC4yuAEDyAEA-AEBmAIFoAL5DsICChAAGLADGNYEGEeYAwCIBgGQBgSSBwkxLjMtMi4xLjGgB5kO&sclient=gws-wiz-serp
+
+Do you know what animation/video libraries that channels like Vsauce or Veritasium use? I don’t really know where else to ask. : r/PhysicsStudents
+https://www.reddit.com/r/PhysicsStudents/comments/ilfrrm/do_you_know_what_animationvideo_libraries_that/
+
+Sozi
+https://sozi.baierouge.fr/
+
+sozi-projects/Sozi: A "zooming" presentation editor
+https://github.com/sozi-projects/Sozi
+
+Three Body Problem github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Three+Body+Problem+github
+
+Fer14/3-body-problem: A simple Python-based simulation of the three-body problem using Pygame.
+https://github.com/Fer14/3-body-problem
+
+3 Body Problem Simulation In Python : r/AskPhysics
+https://www.reddit.com/r/AskPhysics/comments/18ar4ta/3_body_problem_simulation_in_python/
+
+Javiops/3-Body-Problem-Simulation: 3 Body Problem Simulation
+https://github.com/Javiops/3-Body-Problem-Simulation/tree/main
+
+ditto database github - Google 搜索
+https://www.google.com.hk/search?q=ditto+database+github&newwindow=1&client=ubuntu-sn&hs=dBZ&sca_esv=71ff475f48642a55&channel=fs&ei=7eglZ4fZGObjkPIPiaOyiA0&ved=0ahUKEwjHg8Kro72JAxXmMUQIHYmRDNEQ4dUDCA8&uact=5&oq=ditto+database+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWRpdHRvIGRhdGFiYXNlIGdpdGh1YjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iXFFDHC1iBE3ACeAGQAQCYAeICoAHPDqoBBTItMi40uAEDyAEA-AEBmAICoAIJmAMAiAYBkAYKkgcBMqAHrA4&sclient=gws-wiz-serp
+
+docs-nextra/docs/4.6/4.4-basics-4-data-structures-types.md at 71763993616f87774b6aecfe423b4edf136a8c5a · getditto/docs-nextra
+https://github.com/getditto/docs-nextra/blob/71763993616f87774b6aecfe423b4edf136a8c5a/docs/4.6/4.4-basics-4-data-structures-types.md?plain=1#L28
+
+NeDB - Database of Databases
+https://dbdb.io/db/nedb
+
+NeDB - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=NeDB+
+
+louischatriot/nedb: The JavaScript Database, for Node.js, nw.js, electron and the browser
+https://github.com/louischatriot/nedb
+
+everything is a text - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=everything+is+a+text
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=everything%20is%20a%20text&sort=byPopularity&type=story
+
+Page not found · GitHub
+https://github.com/ifeelalright1970/ytmp
+
+vscode naming terminal switch - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=vscode+naming+terminal+switch
+
+Issue search results
+https://github.com/search?q=repo%3Amicrosoft%2Fvscode+rename+terminal&type=issues&p=2
+
+Zellij github - Google 搜索
+https://www.google.com.hk/search?q=Zellij+github&newwindow=1&client=ubuntu-sn&hs=GuZ&sca_esv=e57be6f841ea6b69&channel=fs&ei=vPMlZ_r7KsmikPIPyL7uoAw&ved=0ahUKEwj6yYjTrb2JAxVJEUQIHUifG8QQ4dUDCA8&uact=5&oq=Zellij+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDVplbGxpaiBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIoQlQpgFYyAhwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+MeirKriheli/rusmux: Tmux automation in rust
+https://github.com/MeirKriheli/rusmux
+
+zellij-org/zellij: A terminal workspace with batteries included
+https://github.com/zellij-org/zellij/tree/main
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+Zellij – A Terminal Workspace and Multiplexer | Hacker News
+https://news.ycombinator.com/item?id=26902430
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [14] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(27) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733/threads/1302039545566462062
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(44) Making Minecraft 100x faster (by rewriting it in Rust) - YouTube
+https://www.youtube.com/watch?v=meup98Okxwk
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+LizardByte/Sunshine: Self-hosted game stream host for Moonlight.
+https://github.com/LizardByte/Sunshine
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

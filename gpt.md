@@ -1,4 +1,65 @@
+有没有符合我观点的人和成果和著作和商业应用和开源项目？
 
+"Everything is a text" - 这个更纯粹的文本理念！让我重新筛选：
+Unix 传统：
+1. Plan 9 from Bell Labs
+"一切皆文件" 进化为 "一切皆文本"
+包括网络接口、设备等都是可读文本
+Bash
+文件系统：
+procfs/sysfs
+Bash
+关键人物：
+Rob Pike
+Plan 9 的主要设计者
+"数据应该是透明的文本"
+acme 编辑器的作者
+Brian Kernighan
+Unix 文本处理工具的创造者
+《Software Tools》作者
+提倡文本处理的力量
+工具链：
+acme 编辑器
+一切操作都基于文本
+命令即文本
+界面元素都是可编辑文本
+sam 编辑器
+文本编辑器
+命令语言也是文本
+现代实践：
+1. Gemini 协议
+Gopher 协议
+纯文本的互联网协议
+所有内容都是文本
+开发理念：
+1. literate programming
+著作：
+《The Unix Programming Environment》
+Kernighan & Pike
+文本处理的圣经
+《Software Tools》
+Kernighan & Plauger
+文本工具的设计艺术
+现代项目：
+1. 9front
+Plan 9 的继承者
+保持纯文本理念
+suckless tools
+Bash
+设计原则：
+核心思想：
+透明性
+可读性
+可编辑性
+互操作性
+长期可维护性
+这些才是真正践行 "Everything is a text" 的典范。它们不仅仅是存储用文本，而是在系统的每个层面都坚持文本的理念。
+这种方法的优势：
+容易理解
+容易调试
+容易修改
+容易集成
+经得起时间考验
 
 让我列举一些其他领域的杰出学者/专家：
 物理学：
