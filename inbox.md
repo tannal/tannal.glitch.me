@@ -1,6 +1,8 @@
 
 # 2024-11-2
 
+https://github.com/signalapp/
+
 sudo apt install libcurl4-openssl-dev
 
 UX is about platform.
