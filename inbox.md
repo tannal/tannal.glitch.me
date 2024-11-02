@@ -1,6 +1,37 @@
 
 # 2024-11-2
 
+sudo apt install build-essential cmake ninja-build pkg-config
+
+sudo apt install libboost-all-dev
+
+sudo apt install \
+    libavdevice-dev \
+    libavfilter-dev \
+    libavformat-dev \
+    libavcodec-dev \
+    libswscale-dev \
+    libswresample-dev \
+    libavutil-dev \
+    libopus-dev \
+    libvpx-dev \
+    libx264-dev \
+    libcurl4-openssl-dev \
+    libssl-dev \
+    libdrm-dev \
+    libva-dev \
+    libevdev-dev \
+    libminiupnpc-dev \
+    libnuma-dev \
+    libwayland-dev \
+    libxcb-randr0-dev \
+    libxcb-shm0-dev \
+    libxcb-xfixes0-dev \
+    libxcb-xtest0-dev \
+    libxfixes-dev \
+    libxrandr-dev \
+    libxtst-dev
+
 
 export http_proxy=http://10.90.92.225:7890
 export https_proxy=http://10.90.92.225:7890
