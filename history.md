@@ -1,6 +1,192 @@
 
 # 2024-11-2
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+servo/servo: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+https://github.com/servo/servo
+
+__builtin_available is intermittently not available on macOS · Issue #504 · servo/mozjs
+https://github.com/servo/mozjs/issues/504
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+finland education system - Google 搜索
+https://www.google.com.hk/search?q=finland+education+system&newwindow=1&client=ubuntu-sn&hs=YoG&sca_esv=b81127c47418f4ee&channel=fs&ei=XwsmZ-y-IaOlkPIPpI7J4Qw&ved=0ahUKEwis6qqYxL2JAxWjEkQIHSRHMswQ4dUDCA8&uact=5&oq=finland+education+system&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGZpbmxhbmQgZWR1Y2F0aW9uIHN5c3RlbTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB5I9CxQpgJY1xxwAXgBkAEAmAGMBKABxhWqAQczLTUuMS4xuAEDyAEA-AEBmAIIoALwFcICChAAGLADGNYEGEeYAwCIBgGQBgqSBwcxLjMtNC4zoAf2Gg&sclient=gws-wiz-serp
+
+芬蘭教育 - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/%E8%8A%AC%E8%98%AD%E6%95%99%E8%82%B2
+
+chinese education system - Google 搜索
+https://www.google.com.hk/search?q=chinese+education+system&newwindow=1&client=ubuntu-sn&hs=gob&sca_esv=808c4f249ba0e78b&channel=fs&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvHeTVMvW1e5dFpf7LkrSPneJ7MnTowJmKQkE00SKZ4fjsJuUghC_NJfPRR-0kl-tJX_Ys_UHmKEXHdRnrbUcg83w69BOKXKuBdh_EsebtZWv_exJ8&sa=X&ved=2ahUKEwiZ4d3_yL2JAxXlI0QIHddmJMsQ0pQJegQIAxAD&biw=1850&bih=968&dpr=1
+
+Education in China - Wikipedia
+https://en.wikipedia.org/wiki/Education_in_China
+
+Ghostscript github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ghostscript+github
+
+Artifex Software
+https://github.com/ArtifexSoftware
+
+ArtifexSoftware/ghostpdl: This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
+https://github.com/ArtifexSoftware/ghostpdl
+
+pdf-writer/src/font.rs at main · typst/pdf-writer
+https://github.com/typst/pdf-writer/blob/main/src/font.rs
+
+TeX Live
+https://github.com/TeX-Live
+
+Comparing main...9.x · zulip/zulip
+https://github.com/zulip/zulip/compare/main...9.x
+
+zellij-org/zellij: A terminal workspace with batteries included
+https://github.com/zellij-org/zellij/tree/main
+
+helix github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=helix+github
+
+helix-editor/helix: A post-modern modal text editor.
+https://github.com/helix-editor/helix
+
+flutter wasmgc - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=flutter+wasmgc
+
+Wasm | Flutter
+https://docs.flutter.dev/platform-integration/web/wasm
+
+Wasm | Flutter
+https://docs.flutter.dev/platform-integration/web/wasm#js-interop-wasm
+
+1788206 - OffscreenCanvas.transferToImageBitmap incurs a copy
+https://bugzilla.mozilla.org/show_bug.cgi?id=1788206
+
+User Profile: sebastien.videcoq@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=621050
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues?q=is%3Aissue+is%3Aopen+wasm
+
+Flutter Demo
+http://10.106.146.44:8084/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [14] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Alert #42404
+https://treeherder.mozilla.org/perfherder/alerts?id=42404&hideDwnToInv=0
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(27) Discord | #general | Zed Community
+https://discord.com/channels/869392257814519848/873293828805771284
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
 tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
