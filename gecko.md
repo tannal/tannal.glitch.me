@@ -1,4 +1,47 @@
+# Graphics
 
+Graphics System
+├── Display Pipeline
+│   ├── Application Layer
+│   │   ├── UI Components
+│   │   └── Application Windows
+│   │
+│   ├── Window System
+│   │   ├── Window Manager
+│   │   └── Compositor
+│   │
+│   ├── Composition Layer  <-- 这里
+│   │   ├── Layer Tree
+│   │   │   ├── Root Layer
+│   │   │   ├── Parent Layers
+│   │   │   └── Child Layers
+│   │   │
+│   │   ├── Layer Properties
+│   │   │   ├── Transform
+│   │   │   ├── Opacity
+│   │   │   ├── Masks
+│   │   │   └── Filters
+│   │   │
+│   │   └── Layer Operations
+│   │       ├── Blending
+│   │       ├── Clipping
+│   │       └── Effects
+│   │
+│   ├── Graphics API Layer
+│   │   ├── OpenGL/Vulkan/Metal
+│   │   ├── Hardware Acceleration
+│   │   └── Rendering Commands
+│   │
+│   └── Display Hardware
+│       ├── GPU
+│       ├── Display Controller
+│       └── Screen
+│
+└── Graphics Memory
+    ├── Textures
+    ├── Buffers
+    └── Framebuffers
+    
 # media
 
 Raw Sensor Data -> ISP Pipeline
