@@ -1,6 +1,129 @@
 
 # 2024-11-3
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(3) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+ptitSeb/box64: Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+https://github.com/ptitSeb/box64?fbclid=IwY2xjawGTqz1leHRuA2FlbQIxMAABHTEM0EOQrvEowjXXGYeQAkdUViOjRYKzKQQO0es-jyOLSzUMNrZxw_xK4w_aem_mtK5Kbg4OP5eby6TfcaVlw
+
+Re: linux: Goodbye from a Linux community volunteer - Hantong Chen
+https://lore.kernel.org/netdev/20241024181917.1119-1-cxwdyx620@gmail.com/?fbclid=IwY2xjawGKdBVleHRuA2FlbQIxMAABHetdCITrwuHjyUoJEWaAc-P0FOyzPZ3FauLEv_SkiyXcQBdz6qJdS4pjNw_aem_XKr8o6wlibFz2g9bo9SOHw
+
+X(旧Twitter)のインドでの収益が90％減少、大幅な人員削減が原因か - GIGAZINE
+https://gigazine.net/news/20241025-x-india-revenue-falls-90/
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=ja&tl=en&text=%E6%9B%B8%E9%A1%9E&op=translate
+
+steam 加入家庭 - Google 搜索
+https://www.google.com.hk/search?q=steam+%E5%8A%A0%E5%85%A5%E5%AE%B6%E5%BA%AD&rlz=1C1GCEA_enCN1091CN1091&oq=steam+%E5%8A%A0%E5%85%A5&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIHCAMQABiABDIHCAQQABiABDIJCAUQABgMGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEJNDQxNTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/not-found
+
+(2) Search results for query: FrontendMasters
+https://tutflix.org/search/2822441/?q=FrontendMasters&o=date
+
+(2) Epic React V2 (Epic React Pro) - Kent C. Dodds - TutFlix - Free Education Community
+https://tutflix.org/resources/epic-react-v2-epic-react-pro-kent-c-dodds.10950/
+
+MEGA
+https://mega.nz/folder/8ZYCUYTK#wu_bG8Ml3mp6PEVXaxDOJA/folder/kV42RIIL
+
+黃家駒 - Google 搜索
+https://www.google.com.hk/search?q=%0D%0A%E9%BB%83%E5%AE%B6%E9%A7%92&newwindow=1&sca_esv=42551ec7f1844d58&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWII9a4ZHYBEKxsjeR1D8yX66YKjSgQ%3A1730035386509&ei=uj4eZ7PnHvTJkPIP0e6UsQI&ved=0ahUKEwizrKWF1K6JAxX0JEQIHVE3JSYQ4dUDCA8&uact=5&oq=%0D%0A%E9%BB%83%E5%AE%B6%E9%A7%92&gs_lp=Egxnd3Mtd2l6LXNlcnAiCgrpu4Plrrbpp5IyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI0AlQmgRYmgRwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIBoAIWmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+调性稳定性 音乐生成 - Google 搜索
+https://www.google.com.hk/search?q=%E8%B0%83%E6%80%A7%E7%A8%B3%E5%AE%9A%E6%80%A7+%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90&newwindow=1&sca_esv=42551ec7f1844d58&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKEf2wHB54xtZs_xyO-mNMAvnU-Yg%3A1730036606531&ei=fkMeZ4aOIOHbkPIP2ISBgQk&ved=0ahUKEwiGxYXL2K6JAxXhLUQIHVhCIJAQ4dUDCA8&uact=5&oq=%E8%B0%83%E6%80%A7%E7%A8%B3%E5%AE%9A%E6%80%A7+%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiHOiwg-aAp-eos-WumuaApyDpn7PkuZDnlJ_miJBIlR5Q4gZY-xxwAXgBkAEBmAHaBqABiRyqAQsyLTIuMy4xLjEuMbgBA8gBAPgBAZgCAaACF8ICChAAGLADGNYEGEeYAwCIBgGQBgKSBwExoAfQBA&sclient=gws-wiz-serp
+
+文本到音乐生成 AI：稳定音频、Google 的 MusicLM 等 - Unite.AI
+https://www.unite.ai/zh-CN/%E6%96%87%E6%9C%AC%E5%88%B0%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A8%B3%E5%AE%9A%E6%80%A7%E9%9F%B3%E9%A2%91%E8%B0%B7%E6%AD%8Cmusiclm%E7%AD%89%E7%AD%89/
+
+suno ai paper - Google 搜索
+https://www.google.com.hk/search?q=suno+ai+paper&newwindow=1&sca_esv=42551ec7f1844d58&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIIjKrATiaNhSmzU1Gz7lUZuRYl06w%3A1730037075810&ei=U0UeZ-ecMa2ckPIPu4-vgAQ&ved=0ahUKEwinkuiq2q6JAxUtDkQIHbvHC0AQ4dUDCA8&uact=5&oq=suno+ai+paper&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXN1bm8gYWkgcGFwZXIyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogRI6RRQuwVY_xJwAXgBkAEAmAH-AqAB4Q-qAQMzLTa4AQPIAQD4AQGYAgWgAtEKwgIKEAAYsAMY1gQYR8ICBBAjGCeYAwCIBgGQBgGSBwUxLjMtNKAHyBE&sclient=gws-wiz-serp
+
+How exactly do suno ai and udio.com work? (technical view)
+https://vi-control.net/community/threads/how-exactly-do-suno-ai-and-udio-com-work-technical-view.151041/
+
+2306.05284
+https://arxiv.org/pdf/2306.05284
+
+萝莉岛 - Google 搜索
+https://www.google.com.hk/search?q=%E8%90%9D%E8%8E%89%E5%B2%9B&rlz=1C1GCEA_enCN1091CN1091&oq=%E8%90%9D%E8%8E%89%E5%B2%9B&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAjGCcYgAQYigUyDAgCEAAYQxiABBiKBTIHCAMQABiABDIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgYIBhBFGD0yBggHEEUYPNIBCDUyOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+原创 | 疑似克林顿“萝莉岛”照片曝光，马斯克曝猛料有何深意 | 明察天下_腾讯新闻
+https://news.qq.com/rain/a/20241012A085V700
+
+jeffrey epstein - Google 搜索
+https://www.google.com.hk/search?gs_ssp=eJzj4tTP1TdIqzK0NDNg9OLPSk1LK0qtVEgtKC5JzcwDAHcxCRw&q=jeffrey+epstein&rlz=1C1GCEA_enCN1091CN1091&oq=Jeffreyepste&gs_lcrp=EgZjaHJvbWUqCQgBEC4YChiABDIGCAAQRRg5MgkIARAuGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABNIBCDYxMjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Who was Jeffrey Epstein? The disgraced financier with powerful associates
+https://www.bbc.com/news/world-us-canada-48913377
+
+linux 游戏 - Google 搜索
+https://www.google.com.hk/search?q=linux+%E6%B8%B8%E6%88%8F&rlz=1C1GCEA_enCN1091CN1091&oq=linux+%E6%B8%B8%E6%88%8F&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyBwgCEAAYgAQyCQgDEAAYDBiABNIBCDY5ODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Linux游戏站 | 为Linux用户的娱乐性而奋斗！
+https://www.linuxgame.cn/
+
+LaserWriter - Google 搜索
+https://www.google.com.hk/search?q=LaserWriter&newwindow=1&sca_esv=bf79918fe07ad690&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIK4O8zQ5QMeM8OJ9P5oRr2cQ-Hc2A%3A1730180608257&ei=AHYgZ-ywD7CkkPIP9b2S6A4&ved=0ahUKEwjssLWE8bKJAxUwEkQIHfWeBO0Q4dUDCA8&uact=5&oq=LaserWriter&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0xhc2VyV3JpdGVySI8CUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+练习&作业 - NENUOJ
+http://39.101.69.154/contest.php?my
+
+yt-dlp gstreamer github - Google 搜索
+https://www.google.com.hk/search?q=yt-dlp+gstreamer+github&newwindow=1&sca_esv=d43be9027bdcd404&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIL6Oo3cm7asDl_uEf0paoykxXLUpA%3A1730362169458&ei=OTsjZ6nJG9zPp84Ph5vq4Qc&ved=0ahUKEwjpycWzlbiJAxXc58kDHYeNOnwQ4dUDCA8&uact=5&oq=yt-dlp+gstreamer+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiF3l0LWRscCBnc3RyZWFtZXIgZ2l0aHViMgcQIRigARgKSJ0JUEJYjwhwAHgCkAEAmAHPAqAB4QuqAQUyLTMuMrgBA8gBAPgBAZgCBqAC9gvCAgQQABhHwgIFECEYoAGYAwCIBgGQBgGSBwcxLjAuMy4yoAe5CA&sclient=gws-wiz-serp
+
+Error when extracting subtitles from PlutoTV · Issue #4413 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/issues/4413
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYPNIBCDEyNTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+腾讯云vpn搭建局域组网 - Google 搜索
+https://www.google.com.hk/search?q=%E8%85%BE%E8%AE%AF%E4%BA%91vpn%E6%90%AD%E5%BB%BA%E5%B1%80%E5%9F%9F%E7%BB%84%E7%BD%91&newwindow=1&sca_esv=bee009eac89b8b21&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILQrzaFfTKtnBqBJesKHwMYrN_x0w%3A1730430655035&ei=v0YkZ7ryAaHSkPIPvezlyAU&ved=0ahUKEwj6zYHElLqJAxUhKUQIHT12GVkQ4dUDCA8&uact=5&oq=%E8%85%BE%E8%AE%AF%E4%BA%91vpn%E6%90%AD%E5%BB%BA%E5%B1%80%E5%9F%9F%E7%BB%84%E7%BD%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuiFvuiur-S6kXZwbuaQreW7uuWxgOWfn-e7hOe9kTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYogQYiQVIqSlQjAxYiyhwAXgBkAEAmAHHAqABpBmqAQUyLTcuNLgBA8gBAPgBAZgCDKAChBrCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcHMS4wLjYuNaAHtBI&sclient=gws-wiz-serp
+
+wireguard 绕过校园网认证 - Google 搜索
+https://www.google.com.hk/search?q=wireguard+%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%AE%A4%E8%AF%81&rlz=1C1GCEA_enCN1091CN1091&oq=wireguard+%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%AE%A4%E8%AF%81&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDkzNTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+服务器搭建WireGuard53端口绕过校园网网页认证 - Yenshthen研学绅
+https://study.imold.wang/server/686.html
+
+nslookup linux equivalent - Google 搜索
+https://www.google.com.hk/search?q=nslookup+linux+equivalent&rlz=1C1GCEA_enCN1091CN1091&oq=nslookup+linux&gs_lcrp=EgZjaHJvbWUqBggGEAAYHjIJCAAQRRg5GIAEMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINzYwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(31 封私信 / 80 条消息) 首页 - 知乎
+https://www.zhihu.com/
+
+(31 封私信 / 80 条消息) 为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？ - 知乎
+https://www.zhihu.com/question/347578102/answer/3457406517
+
+We Don't Talk Anymore 无法播放 - Google 搜索
+https://www.google.com.hk/search?q=We+Don%27t+Talk+Anymore+%E6%97%A0%E6%B3%95%E6%92%AD%E6%94%BE&rlz=1C1GCEA_enCN1091CN1091&oq=We+Don%27t+Talk+Anymore+%E6%97%A0%E6%B3%95%E6%92%AD%E6%94%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGEDSAQgzNTA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+七里香原版带歌词flac - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%83%E9%87%8C%E9%A6%99%E5%8E%9F%E7%89%88%E5%B8%A6%E6%AD%8C%E8%AF%8Dflac&rlz=1C1GCEA_enCN1091CN1091&oq=%E4%B8%83%E9%87%8C%E9%A6%99%E5%8E%9F%E7%89%88%E5%B8%A6%E6%AD%8C%E8%AF%8Dflac&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwODc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+404 Not Found
+https://www.xxedm.com/thread-79092.htm
+
+(54) 周杰倫 七里香 無損音樂FLAC 歌詞LYRICS 純享 - YouTube
+https://www.youtube.com/watch?v=QsXO-TsX6j0
+
+brillant - Google 搜索
+https://www.google.com.hk/search?q=brillant&rlz=1C1GCEA_enCN1091CN1091&oq=brillant&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQLhgKGIAEMgkIBRAAGAoYgAQyCQgGEC4YChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCTE2Mzg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Home | Brilliant
+https://brilliant.org/home/
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

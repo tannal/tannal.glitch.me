@@ -1,4 +1,33 @@
 
+# media
+
+Raw Sensor Data -> ISP Pipeline
+[Bayer数据]       - 去噪
+                 - 白平衡
+                 - 色彩校正
+                 - 锐化
+
+- RAW格式
+- YUV格式
+- RGB格式
+
+YUV/RGB -> Encoder -> Container
+         - H.264     - MP4
+         - H.265     - MKV
+         - VP8/VP9   - WebM
+
+视频/音频源 -> 解复用(Demuxer) -> 解码器(Decoder) -> 原始数据
+[容器格式]     [分离音视频]      [解码压缩数据]    [YUV/PCM]
+
+
+[Source] -> [Decoder] -> [Processor] -> [Sink]
+输入源     解码器        处理器        输出端
+
+
+# camera
+
+[Camera Sensor] -> [ISP] -> [Encoder] -> [Sink]
+    原始数据     图像处理   编码器      输出
 
 # ipc
 

@@ -1,5 +1,9 @@
 # potential mentors
 
+# Camera
+
+CameraDevice -> CaptureSession -> ImageReader -> MediaCodec -> MediaMuxer
+[采集]         [处理]           [格式转换]    [编码]       [封装]
 
 # ART
 

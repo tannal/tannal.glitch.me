@@ -1,7 +1,35 @@
 
 # 2024-11-3
 
+这张图展示的是现代文本渲染引擎的主要功能和挑战。让我分析一下问题域和当前最佳解决方案：
+问题域：
+字体渲染 (Font Rendering)
+字体样式处理 (Regular, Italic, Bold, Code)
+字形变换 (Stretch and Skew)
+文本装饰 (下划线、删除线等)
+字距调整 (Tracking)
+Unicode & Emoji 支持
+多色表情符号渲染
+肤色修改器
+复杂字形组合
+当前主流解决方案：
+文本布局引擎：
+HarfBuzz (开源)
+DirectWrite (Windows)
+Core Text (Apple)
+渲染技术：
+FreeType (字体栅格化)
+Skia (2D图形)
+Cairo (矢量图形)
+关键技术：
+子像素渲染
+字形缓存
+OpenType 特性支持
+Unicode 标准实现
+GPU 加速
+这些解决方案需要处理的核心挑战包括性能优化、跨平台兼容性、国际化支持等。
 
+sudo snap install cmake --classic
 
 # 2024-11-2
 
