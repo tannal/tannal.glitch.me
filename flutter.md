@@ -1,3 +1,37 @@
+
+
+# inbox
+
+// 三棵树
+Widget Tree    -> 配置
+Element Tree   -> 逻辑
+RenderObject   -> 布局和绘制
+
+// 合成层
+Layer Tree     -> GPU渲染
+
+// 1. Sliver虚拟化
+- 只构建可见项
+- 复用视图
+
+// 2. 合成层优化
+- 可滚动区域单独层
+- 避免重绘
+
+// 3. 帧调度
+- VSync同步
+- 帧预测
+
+// 1. 主线程
+- 布局计算
+- 构建管理
+
+// 2. GPU线程
+- 栅格化
+- 合成
+- 实际滚动
+
+
 构建 Dart SDK
 bash
 

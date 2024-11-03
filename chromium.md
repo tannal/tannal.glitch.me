@@ -3,9 +3,18 @@
 
 Browser Process
     ↓
-Renderer Process (Web Process)
-    |-> Main Thread (JS/DOM)
-    |-> Compositor Thread
+Renderer Process
+    |-> Main Thread (JS/DOM/Layout)
+    |-> Compositor Thread (合成)
+    |-> V8 线程
+        |-> Main V8 
+        |-> GC Thread
+        |-> Compiler Thread(s) 
+            - JIT编译
+            - 优化编译
+    |-> Web Worker Threads
+    |-> Raster Threads (栅格化)
+    |-> IO Thread
     ↓
 GPU Process
     |-> Command Buffer
