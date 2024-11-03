@@ -2,6 +2,29 @@
 
 # 2024-11-3
 
+export VISUAL=vim
+export EDITOR=vim
+crontab -e
+
+# 添加以下行（每分钟执行一次）
+* * * * * /bin/bash /home/tannal/tannalwork/projects/tannal.glitch.me/auto-commit.sh
+
+#!/bin/bash
+
+# 进入你的git仓库目录
+cd /home/tannal/tannalwork/projects/tannal.glitch.me
+
+# 获取当前时间作为commit信息
+timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+
+# 执行git命令
+git add .
+git commit -m "Auto commit at $timestamp"
+git push
+
+# 可选：添加日志
+echo "Committed and pushed at $timestamp" >> auto-commit.log
+
 cell
 
 内存管理系统
