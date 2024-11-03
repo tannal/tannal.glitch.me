@@ -1,6 +1,222 @@
 
 # 2024-11-3
 
+workspace.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+1845870 - Cookie per host quota enforcement is off by one
+https://bugzilla.mozilla.org/show_bug.cgi?id=1845870
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+oven-sh repositories
+https://github.com/orgs/oven-sh/repositories
+
+webnn webcamera - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=webnn+webcamera
+
+Register an event queue | Zulip API documentation
+https://zulip.com/api/register-queue
+
+install: Remove PostgreSQL 12 support by andersk · Pull Request #32207 · zulip/zulip
+https://github.com/zulip/zulip/pull/32207/files
+
+Bun Stack Trace Remapper
+https://bun.report/
+
+oven-sh/bun.report
+https://github.com/oven-sh/bun.report
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=struct%2520ReasonAndDescription%2520%257B%250A%2520%2520CompositingReasons%2520reason%253B%250A%2520%2520const%2520char*%2520description%253B%250A%257D%253B%250Aconstexpr%2520ReasonAndDescription%2520kReasonDescriptionMap%255B%255D%2520%253D%2520%257B%250A%2520%2520%2520%2520%257BCompositingReason%253A%253Ak3DTransform%252C%2520%2522Has%2520a%25203d%2520transform.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253Ak3DScale%252C%2520%2522Has%2520a%25203d%2520scale.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253Ak3DRotate%252C%2520%2522Has%2520a%25203d%2520rotate.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253Ak3DTranslate%252C%2520%2522Has%2520a%25203d%2520translate.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkTrivial3DTransform%252C%2520%2522Has%2520a%2520trivial%25203d%2520transform.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkIFrame%252C%2520%2522Is%2520an%2520accelerated%2520iFrame.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveTransformAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520transform%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveScaleAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520scale%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveRotateAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520rotate%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveTranslateAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520translate%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveOpacityAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520opacity%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveFilterAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520filter%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkActiveBackdropFilterAnimation%252C%250A%2520%2520%2520%2520%2520%2522Has%2520an%2520active%2520accelerated%2520backdrop%2520filter%2520animation%2520or%2520transition.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkAffectedByOuterViewportBoundsDelta%252C%250A%2520%2520%2520%2520%2520%2522Is%2520fixed%2520position%2520affected%2520by%2520outer%2520viewport%2520bounds%2520delta.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkFixedPosition%252C%250A%2520%2520%2520%2520%2520%2522Is%2520fixed%2520position%2520in%2520a%2520scrollable%2520view.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkUndoOverscroll%252C%250A%2520%2520%2520%2520%2520%2522Is%2520fixed%2520position%2520that%2520should%2520undo%2520overscroll%2520of%2520the%2520viewport.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkStickyPosition%252C%2520%2522Is%2520sticky%2520position.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkAnchorPosition%252C%250A%2520%2520%2520%2520%2520%2522Is%2520an%2520anchor-positioned%2520element%2520translated%2520by%2520its%2520anchor%27s%2520scroll%2520%2522%250A%2520%2520%2520%2520%2520%2522offset.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkBackdropFilter%252C%2520%2522Has%2520a%2520backdrop%2520filter.%2522%257D%252C%250A%2520%2520%2520%2520%257BCompositingReason%253A%253AkBackdropFilterMask%252C%2520%2522Is
+
+videolan devday - Google 搜索
+https://www.google.com.hk/search?q=videolan+devday&newwindow=1&client=ubuntu-sn&hs=R2p&sca_esv=8e338ee155dc6b6b&channel=fs&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CQSLRs--VndZDemg_vRJY6u8dcef0aU8XzqpWbJBsjUnsPBhiLihGqR52EliZjFEoUSj3SlHjeC9OCQuvrZADJHMXTVyk2VUyq7bADBMZXxXE5gkRw&sa=X&ved=2ahUKEwid9uvTlL-JAxUNIEQIHW3DNM4Q0pQJegQIAxAD&biw=1850&bih=968&dpr=1
+
+12th Video Dev Days, September 23-24, 2023 - VideoLAN
+https://www.videolan.org/videolan/events/vdd23/
+
+videolan youtube - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=videolan+youtube
+
+flutter/packages/flutter/lib/src/widgets/scroll_context.dart at 574b7e765d86f3f70eac8817a2906ac3099c0bf9 · flutter/flutter
+https://github.com/flutter/flutter/blob/574b7e765d86f3f70eac8817a2906ac3099c0bf9/packages/flutter/lib/src/widgets/scroll_context.dart#L22
+
+evmartin n2 github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=evmartin+n2+github
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+n64decomp/sm64: A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+https://github.com/n64decomp/sm64
+
+Super Mario 64 ROM z64 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Super+Mario+64+ROM+z64
+
+jb1361/Super-Mario-64-AI
+https://github.com/jb1361/Super-Mario-64-AI/tree/development
+
+Cursor
+https://www.cursor.com/
+
+Larger Tokenizers · Issue #701 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/701
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Media
+https://chat.mozilla.org/#/room/#media:mozilla.org
+
+Alert #42404
+https://treeherder.mozilla.org/perfherder/alerts?id=42404&hideDwnToInv=0
+
+Raptor — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html#google-slides-d
+
+Enable cross-compilation of rust libraries. by mutexlox-signal · Pull Request #106 · mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs/pull/106
+
+mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(31) Discord | #build-system | Zig Programming Language
+https://discord.com/channels/605571803288698900/1145919498801655839
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+Possible memory leak · Issue #14846 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/14846
+
+systeminformation
+https://systeminformation.io/
+
+azat-io/todoctor: 🐍 CLI tool to track and visualize TODO comments in Git repositories and make report
+https://github.com/azat-io/todoctor
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+Pumpkin: How does it perform at 300 moving bots ? : r/rust
+https://www.reddit.com/r/rust/comments/1evhurt/pumpkin_how_does_it_perform_at_300_moving_bots/
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
+code editor in zeg - Google 搜索
+https://www.google.com.hk/search?q=code+editor+in+zeg&newwindow=1&client=ubuntu-sn&hs=Woo&sca_esv=b6652a83a08e5308&channel=fs&ei=lNMmZ8HfF7PBkPIPpeu--Q0&ved=0ahUKEwjB-cuPg7-JAxWzIEQIHaW1L98Q4dUDCA8&uact=5&oq=code+editor+in+zeg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvZGUgZWRpdG9yIGluIHplZzIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRI0wxQ9whY7AlwAXgBkAEAmAHdAqAB8QSqAQUyLTEuMbgBA8gBAPgBAZgCAqAC8ALCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB7ME&sclient=gws-wiz-serp
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 

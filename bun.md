@@ -9,6 +9,11 @@ export PATH=/opt/llvm/bin:$PATH
     -DCMAKE_C_COMPILER=/opt/llvm/bin/clang \
     -DCMAKE_CXX_COMPILER=/opt/llvm/bin/clang++
 
+/snap/bin/cmake -G Ninja -B build \
+    -DCMAKE_BUILD_TYPE=Debug \
+    -DCMAKE_C_COMPILER=/opt/llvm/bin/clang \
+    -DCMAKE_CXX_COMPILER=/opt/llvm/bin/clang++ \
+    -DUSE_CACHE=OFF  # 禁用缓存
 
 /snap/bin/cmake -G Ninja -B build \
     -DCMAKE_BUILD_TYPE=Debug \
