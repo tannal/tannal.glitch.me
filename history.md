@@ -1,6 +1,243 @@
 
 # 2024-11-3
 
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Pull requests · n64decomp/sm64
+https://github.com/n64decomp/sm64/pulls
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+georgjz (clc_xce)
+https://github.com/georgjz/
+
+A CMake Template for Game Boy Development – Machine Code Construction Yard
+https://georgjz.github.io/game-boy-template/
+
+76. 最小覆盖子串 - 力扣（LeetCode）
+https://leetcode.cn/problems/minimum-window-substring/
+
+A short guide for cross-compiling Servo to ARM and AArch64
+http://mmatyas.github.io/blog/servo-short-cross-compilation-guide
+
+mmatyas/supermariowar: A fan-made multiplayer Super Mario Bros. style deathmatch game
+https://github.com/mmatyas/supermariowar
+
+BryanHaley (Bryan Haley)
+https://github.com/BryanHaley/
+
+ValveSoftware/Proton: Compatibility tool for Steam Play based on Wine and additional components
+https://github.com/ValveSoftware/Proton
+
+Explore projects · GitLab
+https://gitlab.steamos.cloud/explore/projects/starred
+
+Rust Programming Language
+https://www.rust-lang.org/
+
+gerrit grunwald youtube - Google 搜索
+https://www.google.com.hk/search?q=gerrit+grunwald+youtube&newwindow=1&client=ubuntu-sn&hs=FqG&sca_esv=12ce420749b4de42&channel=fs&ei=GEInZ4MdhvmQ8g-d4_3gDA&ved=0ahUKEwiDiYvC7L-JAxWGPEQIHZ1xH8wQ4dUDCA8&uact=5&oq=gerrit+grunwald+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2dlcnJpdCBncnVud2FsZCB5b3V0dWJlMgUQIRigATIFECEYoAFI3xNQkwpY3xJwAngAkAEAmAGLA6AB8hCqAQMzLTa4AQPIAQD4AQGYAgigApARwgIKEC4YgAQYsAMYE8ICCxAAGIAEGLADGKIEwgIEEAAYHsICCBAAGIAEGKIEmAMAiAYBkAYGkgcFMi4zLTagB5gN&sclient=gws-wiz-serp
+
+HanSolo (Gerrit Grunwald)
+https://github.com/hansolo
+
+David Ungar - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=David+Ungar+
+
+open developer tools cursor - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=open+developer+tools+cursor
+
+Learn C++ – Skill up with our free tutorials
+https://www.learncpp.com/
+
+kate gregory - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=kate+gregory+
+
+Kate Gregory's Blog
+http://www.gregcons.com/kateblog/
+
+布魯斯·埃克爾 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=okc&sca_esv=6afdee832c06e966&channel=fs&q=%E5%B8%83%E9%AD%AF%E6%96%AF%C2%B7%E5%9F%83%E5%85%8B%E7%88%BE&stick=H4sIAAAAAAAAAONgVuLUz9U3MLHIMTZ-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrGKPN3R_HLt-mfT1h_a_nR-89PW7ucd-wDQotx1WwAAAA&sa=X&ved=2ahUKEwi_kLyu_r-JAxUDLEQIHdPuIhsQgYUCegQIHhAC&biw=1850&bih=968&dpr=1
+
+Zulip Chat with Tim Abbott
+https://www.pythonpodcast.com/episodepage/zulip-chat-with-tim-abbott-episode-118
+
+hashcon github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=hashcon+github
+
+Roadmap/Priorities · Issue #109 · servo/project
+https://github.com/servo/project/issues/109
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20sanitizers&type=code
+
+gosql github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gosql+github
+
+gosql/main.go at main · archiewood/gosql
+https://github.com/archiewood/gosql/blob/main/main.go
+
+cwhy github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=cwhy+github
+
+plasma-umass/cwhy: "See why!" Explains and suggests fixes for compile-time errors for C, C++, C#, Go, Java, LaTeX, PHP, Python, Ruby, Rust, and TypeScript
+https://github.com/plasma-umass/cwhy
+
+niels bohr - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=niels+bohr
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+spin formal verification github - Google 搜索
+https://www.google.com.hk/search?q=spin+formal+verification+github&newwindow=1&client=ubuntu-sn&hs=V8y&sca_esv=acbfc1477591e29f&channel=fs&ei=km4nZ9SjCajEkPIPoMTbqQw&ved=0ahUKEwjUtLb3lsCJAxUoIkQIHSDiNsUQ4dUDCA8&uact=5&oq=spin+formal+verification+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiH3NwaW4gZm9ybWFsIHZlcmlmaWNhdGlvbiBnaXRodWIyBxAhGKABGApIiStQpxJYyipwAXgBkAEAmAGJA6ABkSKqAQQzLTEzuAEDyAEA-AEBmAIOoALHIsICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIKEC4YgAQYQxiKBcICBxAAGIAEGAzCAgUQABiABMICCRAAGIAEGAoYDMICBBAAGB7CAgYQABgMGB7CAggQABgKGAwYHsICBhAAGAgYHsICCBAAGAgYHhgPwgIIEAAYBRgKGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcGMS4zLTEzoAfyHg&sclient=gws-wiz-serp
+
+fermyon/spin: Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+https://github.com/fermyon/spin
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Media
+https://chat.mozilla.org/#/room/#media:mozilla.org
+
+Alert #42404
+https://treeherder.mozilla.org/perfherder/alerts?id=42404&hideDwnToInv=0
+
+Raptor — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html#google-slides-d
+
+Enable cross-compilation of rust libraries. by mutexlox-signal · Pull Request #106 · mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs/pull/106
+
+mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(33) Discord | #build-system | Zig Programming Language
+https://discord.com/channels/605571803288698900/1145919498801655839
+
+Possible memory leak · Issue #14846 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/14846
+
+systeminformation
+https://systeminformation.io/
+
+azat-io/todoctor: 🐍 CLI tool to track and visualize TODO comments in Git repositories and make report
+https://github.com/azat-io/todoctor
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+Pumpkin: How does it perform at 300 moving bots ? : r/rust
+https://www.reddit.com/r/rust/comments/1evhurt/pumpkin_how_does_it_perform_at_300_moving_bots/
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
+code editor in zeg - Google 搜索
+https://www.google.com.hk/search?q=code+editor+in+zeg&newwindow=1&client=ubuntu-sn&hs=Woo&sca_esv=b6652a83a08e5308&channel=fs&ei=lNMmZ8HfF7PBkPIPpeu--Q0&ved=0ahUKEwjB-cuPg7-JAxWzIEQIHaW1L98Q4dUDCA8&uact=5&oq=code+editor+in+zeg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvZGUgZWRpdG9yIGluIHplZzIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRI0wxQ9whY7AlwAXgBkAEAmAHdAqAB8QSqAQUyLTEuMbgBA8gBAPgBAZgCAqAC8ALCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB7ME&sclient=gws-wiz-serp
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+Problem loading page
+https://github.com/cpython
+
 workspace.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 

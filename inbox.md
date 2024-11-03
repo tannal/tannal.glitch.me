@@ -2,6 +2,24 @@
 
 # 2024-11-3
 
+static analysis 
+
+godbolt
+C++ Insights
+Time travel debugging
+Continuous Integration
+Configuration management docker apt homebrew
+formal method tools
+
+test suite
+
+sanitizers
+
+fuzzing
+AFL clang fuzzer
+
+clang-tidy
+
 export VISUAL=vim
 export EDITOR=vim
 crontab -e
