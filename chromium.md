@@ -1,3 +1,42 @@
+
+# Compositing 
+
+Browser Process
+    ↓
+Renderer Process (Web Process)
+    |-> Main Thread (JS/DOM)
+    |-> Compositor Thread
+    ↓
+GPU Process
+    |-> Command Buffer
+    |-> 实际渲染和合成
+
+触摸/滚轮事件 -> 合成线程 -> GPU进程
+                   |
+                   不经过主线程
+
+// 初始化时
+Main Thread: 创建层树和事件区域
+    ↓
+Compositor: 获得独立的层信息和事件处理权限
+    ↓
+GPU Process: 维护实际图层和处理合成
+
+// JS阻塞时
+Main Thread: 阻塞 ❌
+Compositor: 继续处理输入 ✅
+GPU Process: 继续渲染和合成 ✅
+
+无合成滚动:
+JS -> Style -> Layout -> Paint -> Composite
+                 ↑         ↑
+            每帧都执行   每帧都执行
+
+合成滚动:
+JS -> Transform Update -> Composite
+           ↑
+      只更新矩阵
+
 # Acsii
 
 LayoutObject (基类)
