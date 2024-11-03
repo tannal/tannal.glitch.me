@@ -1,4 +1,177 @@
 
+# 2024-11-3
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+100% - [21] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=77d564820ea542fef72eb3700634712408e163b5&selectedTaskRun=Ap15FgWtSnK-rGi8W3nWAg.0
+
+Issue search results
+https://github.com/search?q=repo%3Aggerganov%2Fwhisper.cpp+srt+file&type=issues
+
+消息中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://message.bilibili.com/?spm_id_from=333.1007.0.0#/system
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+难过的时候你在身边_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV15z421B7Uy?spm_id_from=player_end_recommend_autoplay&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+qilixiang geci - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=qilixiang+geci
+
+七里香 (Qi-Li-Xiang)-歌词-周杰伦 (Jay Chou)-KKBOX
+https://www.kkbox.com/sg/sc/song/GlDzSfAJylVNGBDTJJ
+
+JayChou
+https://jayge.netlify.app/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload-manager/article
+
+MediaStream Recording
+https://w3c.github.io/mediacapture-record/MediaRecorder.html
+
+⚙ D195705 Bug 1749047 - Implement the boilerplate for VideoEncoder. r?chunmin
+https://phabricator.services.mozilla.com/D195705
+
+WebCodecs
+https://w3c.github.io/webcodecs/#videoencoder-interface
+
+orion openai - Google 搜索
+https://www.google.com.hk/search?q=orion+openai&newwindow=1&client=ubuntu-sn&hs=kKT&sca_esv=ebc5f503c41e575a&channel=fs&ei=W8cmZ9qfG4vFkPIP9KTBgQ0&ved=0ahUKEwiaucy7976JAxWLIkQIHXRSMNAQ4dUDCA8&uact=5&oq=orion+openai&gs_lp=Egxnd3Mtd2l6LXNlcnAiDG9yaW9uIG9wZW5haTIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yCBAAGAoYDBgeMgQQABgeMgQQABgeMgQQABgeMgYQABgKGB5IoC1Q9glYzCtwB3gBkAEAmAGlAqABuReqAQQyLTExuAEDyAEA-AEBmAIPoALUFcICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIHEAAYgAQYDMICCxAuGIAEGNEDGMcBwgIJEAAYgAQYExgNwgIIEAAYExgNGB7CAgYQABgTGB7CAgoQABgTGAgYDRgewgIHEAAYgAQYDcICCBAAGIAEGKIEwgIIEAAYBRgNGB7CAgUQIRigAZgDAIgGAZAGCpIHBzUuMC45LjGgB8cm&sclient=gws-wiz-serp
+
+OpenAI plans to release its next big AI model by December | Hacker News
+https://news.ycombinator.com/item?id=41941574
+
+interpoli/graphics/Interpoli-light.svg at main · linebender/interpoli
+https://github.com/linebender/interpoli/blob/main/graphics/Interpoli-light.svg
+
+dimforge/nalgebra: Linear algebra library for Rust.
+https://github.com/dimforge/nalgebra
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [15] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+(44) Compiler Compiler - Part 2: TC39 and how JavaScript gets made - YouTube
+https://www.youtube.com/watch?v=XP5gmk3lkXM&t=2329s
+
+Alert #42404
+https://treeherder.mozilla.org/perfherder/alerts?id=42404&hideDwnToInv=0
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+GC crash in /xhr/open-url-multi-window-6.htm with zealous GC enabled · Issue #33986 · servo/servo
+https://github.com/servo/servo/issues/33986
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(30) Discord | #general | Zed Community
+https://discord.com/channels/869392257814519848/873293828805771284
+
+notpeter (notpeter) / Repositories
+https://github.com/notpeter?tab=repositories
+
+Enter Booking Details - Calendly
+https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(44) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs/ferrumc
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
 # 2024-11-2
 
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
