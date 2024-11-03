@@ -10,7 +10,7 @@ timestamp=$(date '+%Y-%m-%d %H:%M:%S')
 git add .
 git commit -m "Auto commit at $timestamp"
 git pull --rebase -X theirs
-git push
+git push origin main
 
 # 可选：添加日志
 echo "Committed and pushed at $timestamp" >> auto-commit.log
