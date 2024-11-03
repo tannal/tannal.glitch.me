@@ -2,6 +2,10 @@
 
 # 2024-11-3
 
+~/.config/Cursor/User/workspaceStorage/f7439f96971934f995015340ea546c71$ 
+sqlite3 ~/.config/Cursor/User/globalStorage/state.vscdb 
+
+
 static analysis 
 
 godbolt
