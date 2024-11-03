@@ -2,6 +2,14 @@
 
 # inbox
 
+export PATH=/opt/llvm/bin:$PATH
+
+/snap/bin/cmake -G Ninja -B build \
+    -DCMAKE_BUILD_TYPE=Debug \
+    -DCMAKE_C_COMPILER=/opt/llvm/bin/clang \
+    -DCMAKE_CXX_COMPILER=/opt/llvm/bin/clang++
+
+
 /snap/bin/cmake -G Ninja -B build \
     -DCMAKE_BUILD_TYPE=Debug \
     -DCMAKE_C_COMPILER=/opt/llvm/bin/clang \
