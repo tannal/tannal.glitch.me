@@ -1,6 +1,300 @@
 
 # 2024-11-3
 
+xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+84. 柱状图中最大的矩形 - 力扣（LeetCode）
+https://leetcode.cn/problems/largest-rectangle-in-histogram/description/
+
+The TLA Toolbox
+https://lamport.azurewebsites.net/tla/toolbox.html
+
+webgpu: Introduce PresentationId to ensure updates with newer presentation by sagudev · Pull Request #33613 · servo/servo
+https://github.com/servo/servo/pull/33613#pullrequestreview-2343079696
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=janky&op=translate
+
+atiriko/Music
+https://github.com/atiriko/Music
+
+bigcode-project/starcoder2: Home of StarCoder2!
+https://github.com/bigcode-project/starcoder2
+
+Dan Gusfield - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Dan+Gusfield
+
+(45) OLISSIPO Invited Lecture - Prof. Dan Gusfield (University of California) - YouTube
+https://www.youtube.com/watch?v=1-WAe-M2nIA
+
+compositing scrolling - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=compositing+scrolling
+
+compositor_threaded_scrollbar_scrolling - Google 文档
+https://docs.google.com/document/d/1JqykSXnCkqwA1E3bUhhIi-IgEvM9HZdKtIu_S4Ncm6o/edit?tab=t.0
+
+Rahul Arakeri chromium youtube - Google 搜索
+https://www.google.com.hk/search?q=Rahul+Arakeri+chromium+youtube&newwindow=1&client=ubuntu-sn&hs=uZL&sca_esv=5d78772388d73bb4&channel=fs&biw=1850&bih=968&ei=N4knZ7v4D5LOkPIPkrHRyAw&ved=0ahUKEwj77_2rsMCJAxUSJ0QIHZJYFMkQ4dUDCA8&uact=5&oq=Rahul+Arakeri+chromium+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiHlJhaHVsIEFyYWtlcmkgY2hyb21pdW0geW91dHViZTILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEjOE1CpCVjjEnABeACQAQCYAYYDoAHWEqoBAzMtN7gBA8gBAPgBAZgCAaACA5gDAIgGAZAGA5IHATGgB5cZ&sclient=gws-wiz-serp
+
+Chromium Dash
+https://chromiumdash.appspot.com/commit/22a9299caa0719e8c720c56fae165efc0af5abbd
+
+(45) Lightning Talks - Session 3 [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=h71uFuzvBIs
+
+Clean up IME handling code by PoignardAzur · Pull Request #599 · linebender/xilem
+https://github.com/linebender/xilem/pull/599
+
+Compositor Threaded Scrollbar Scrolling firefox - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Compositor+Threaded+Scrollbar+Scrolling+firefox
+
+Asynchronous Panning and Zooming — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/gfx/AsyncPanZoom.html
+
+Platform/GFX/APZ - MozillaWiki
+https://wiki.mozilla.org/Platform/GFX/APZ
+
+Intent to Implement: Impl threaded scrollbar scrolling
+https://groups.google.com/a/chromium.org/g/input-dev/c/6ACOSDoAik4
+
+(45) Optimizing Chromium for low memory Linux based systems [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=6d6Wn8Nf-Fo
+
+How to Parallelize the Main Thread - Google 幻灯片
+https://docs.google.com/presentation/d/1iqAZ1xKHzs8gqdqCP78aOhHVf2lixCtGg8-yy1ARTkY/edit#slide=id.g3044e4e8d4a_1_417
+
+Generational DOM - Google 幻灯片
+https://docs.google.com/presentation/d/1KQXqXabUNfTWxB9clBblwFIjmVrBOJhNr29Pz30m-Cg/edit#slide=id.gd449002c38_0_571
+
+open-s4c/vsyncer: Verification and optimization tool for concurrent code
+https://github.com/open-s4c/vsyncer
+
+BlinkOn 19: Chromium for low memory Linux
+https://dape.pages.igalia.com/blink-on-19-chromium-for-low-memory-linux/#/6/1
+
+Slack
+https://chromium.slack.com/?sso_failed=1
+
+(45) Let's code a Linux Driver: 1: A minimal Hello World Linux Kernel Module - YouTube
+https://www.youtube.com/watch?v=RuocwHw0MzE
+
+david bokan - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=david+bokan
+
+bokand/web-annotations
+https://github.com/bokand/web-annotations
+
+bokand (David Bokan)
+https://github.com/bokand
+
+bokand.github.io/demo/urlbarsize.html
+http://bokand.github.io/demo/urlbarsize.html
+
+chromium slack - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=chromium+slack
+
+Announcing chromium.slack.com!
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/Nr-SENBRPI0
+
+登录 | Slack
+https://slack.com/signin#/confirmemail?domain=chromiumdev&domainLogin=1&email=tannal2409%40gmail.com
+
+Chromium Slack - Google 文档
+https://docs.google.com/document/d/1nCqDQEF2pW5cUMNBBZPP20DZ7TVCu58ylhCk_Q8LqU4/edit?tab=t.0#heading=h.ipom4o22r4jd
+
+chromium slack - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=chromium+slack
+
+注册新帐户 | Slack
+https://chromium.slack.com/signup#/domain-signup
+
+Chromium Slack - Google 文档
+https://docs.google.com/document/d/1nCqDQEF2pW5cUMNBBZPP20DZ7TVCu58ylhCk_Q8LqU4/edit?tab=t.0#heading=h.ipom4o22r4jd
+
+chromium Git repositories - Git at Google
+https://chromium.googlesource.com/
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Media
+https://chat.mozilla.org/#/room/#media:mozilla.org
+
+Alert #42404
+https://treeherder.mozilla.org/perfherder/alerts?id=42404&hideDwnToInv=0
+
+Raptor — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html#google-slides-d
+
+Enable cross-compilation of rust libraries. by mutexlox-signal · Pull Request #106 · mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs/pull/106
+
+mozilla/cubeb-rs
+https://github.com/mozilla/cubeb-rs
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond, Third Edition - 96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+https://icourse.club/uploads/files/96a2b94d4be48285f2605d843a1e6db37da9a944.pdf
+
+2403.18103v2.pdf
+https://arxiv.org/pdf/2403.18103
+
+1906.02691v3.pdf
+https://arxiv.org/pdf/1906.02691
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(33) Discord | #build-system | Zig Programming Language
+https://discord.com/channels/605571803288698900/1145919498801655839
+
+Possible memory leak · Issue #14846 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/14846
+
+systeminformation
+https://systeminformation.io/
+
+azat-io/todoctor: 🐍 CLI tool to track and visualize TODO comments in Git repositories and make report
+https://github.com/azat-io/todoctor
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+greenfork/kisa: Text editor of the new world
+https://github.com/greenfork/kisa
+
+zed/docs/src/development/windows.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/docs/src/development/windows.md
+
+wrk wrk · trynova/nova@c5e1235
+https://github.com/trynova/nova/commit/c5e123534aaf1c7424bf5f8e36be44919045f694
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(45) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+Pumpkin: How does it perform at 300 moving bots ? : r/rust
+https://www.reddit.com/r/rust/comments/1evhurt/pumpkin_how_does_it_perform_at_300_moving_bots/
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
+LizardByte/Sunshine: Self-hosted game stream host for Moonlight.
+https://github.com/LizardByte/Sunshine
+
+code editor in zeg - Google 搜索
+https://www.google.com.hk/search?q=code+editor+in+zeg&newwindow=1&client=ubuntu-sn&hs=Woo&sca_esv=b6652a83a08e5308&channel=fs&ei=lNMmZ8HfF7PBkPIPpeu--Q0&ved=0ahUKEwjB-cuPg7-JAxWzIEQIHaW1L98Q4dUDCA8&uact=5&oq=code+editor+in+zeg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvZGUgZWRpdG9yIGluIHplZzIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRI0wxQ9whY7AlwAXgBkAEAmAHdAqAB8QSqAQUyLTEuMbgBA8gBAPgBAZgCAqAC8ALCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB7ME&sclient=gws-wiz-serp
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+CPython
+https://github.com/cpython
+
+informalsystems/quint: An executable specification language with delightful tooling based on the temporal logic of actions (TLA)
+https://github.com/informalsystems/quint
+
+We're forking Flutter | Hacker News
+https://news.ycombinator.com/item?id=41975047
+
+flock github flutter - Google 搜索
+https://www.google.com.hk/search?q=flock+github+flutter&newwindow=1&client=ubuntu-sn&hs=Pqf&sca_esv=f9fa188a74abf180&channel=fs&ei=NYMnZ4_NJZjckPIPhe24yAw&ved=0ahUKEwjPu-POqsCJAxUYLkQIHYU2DskQ4dUDCA8&uact=5&oq=flock+github+flutter&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGZsb2NrIGdpdGh1YiBmbHV0dGVyMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSJ0ZUKENWMUXcAF4AZABAJgBiQOgAZsRqgEDMy02uAEDyAEA-AEBmAIHoALDEcICChAAGLADGNYEGEfCAgQQABgewgIGEAAYHhgPwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGBJIHBTEuMy02oAe8Dg&sclient=gws-wiz-serp
+
+Flock
+https://github.com/join-the-flock
+
+Steven Skiena - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Steven+Skiena
+
+where is cursor chat history - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=where+is+cursor+chat+history+
+
+Chat history folder - How To - Cursor Community Forum
+https://forum.cursor.com/t/chat-history-folder/7653/2
+
+cursor-chat-export/config.yml at main · somogyijanos/cursor-chat-export
+https://github.com/somogyijanos/cursor-chat-export/blob/main/config.yml
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
