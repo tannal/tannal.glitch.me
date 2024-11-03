@@ -1,6 +1,39 @@
 
 # 2024-11-2
 
+export MOZ_LOG="MediaDecoder:5,MediaResourceIndex:5"
+./mach run https://v.qq.com/x/cover/mzc002008g3h7y3/u41001tyoyk.html
+
+./mach run https://v.qq.com/
+b MediaDecoder::Play
+
+MediaResourceIndex
+
+b MediaRecorder::Session::OnDataAvailable
+
+/opt/ffmpeg/bin/ffprobe -show_format -show_streams test.flac
+
+export PATH=/opt/ffmpeg/bin/:$PATH
+
+ffmpeg -i test/LyricVideo.mp4 -i 七里香.wav \
+    -c:v copy \                # 复制视频流，不重新编码
+    -c:a aac \                # 音频使用 AAC 编码
+    -b:a 192k \               # 音频比特率
+    -shortest \               # 使用最短的流的长度
+    -map 0:v:0 \              # 从第一个输入取视频
+    -map 1:a:0 \              # 从第二个输入取音频
+    output.mp4
+
+manimgl lyrics_video.py LyricVideo -o --video_dir ./ -q l --fps 30 \
+    --write_to_movie \
+    --video_codec libx264 \
+    --video_preset ultrafast \
+    --video_crf 28
+
+echo  | xclip -selection clipboard 
+
+ffmpeg -i 七里香.mp4 -vn -acodec pcm_s16le -ar 16000 -ac 1 七里香.wav
+build/bin/main -m models/ggml-large-v3.bin -osrt -l cn audio.wav
 开源+商业化确实是现代技术创业的最佳路径之一：
 
 sudo apt install build-essential cmake ninja-build pkg-config

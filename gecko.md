@@ -122,6 +122,7 @@ gfx.webrender.debug.dump-display-lists = true
 bash
 
 MOZ_LOG="DisplayListBuilder:5" firefox
+MOZ_LOG="MediaDecoder:5" firefox
 
 这会输出DisplayListBuilder的详细日志。
 
