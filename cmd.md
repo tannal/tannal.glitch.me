@@ -45,6 +45,7 @@ winget install ChristianSchenk.MiKTeX
 winget install -e --id Logitech.OptionsPlus
 winget install --id chocolatey.chocolatey
 winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id Microsoft.VisualStudioCode.1.94.2
 winget install -e --id Microsoft.vcpkg
 winget install Microsoft.OpenJDK.21
 winget install Microsoft.OpenJDK.17

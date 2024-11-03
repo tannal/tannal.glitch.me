@@ -1,5 +1,14 @@
 
+
 # 2024-11-3
+
+https://gitlab.steamos.cloud/public
+
+../configure.sh --build-name="proton_custom" \
+    --no-mingw \
+    --with-ffmpeg \
+    --with-vkd3d \
+    --with-dxvk
 
 export HTTP_PROXY=http://10.106.146.44:8890
 export HTTPS_PROXY=http://10.106.146.44:8890
@@ -2533,7 +2542,7 @@ wasm_eval 和 wasm_random_digit 函数:
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DGGML_OPENMP=OFF
 
 GPT-2:小型语言模型,可用于文本生成等任务。
-BERT:用于自然语言处理的双向Transformer模型。
+BERT:用于自然语言处理的双向Tran sformer模型。
 ResNet:用于图像分类的深度残差网络。
 YOLOv3:实时目标检测模型。
 U-Net:用于图像分割的卷积神经网络。
