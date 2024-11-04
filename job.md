@@ -583,9 +583,93 @@ apply
 
 [] 11.6 chongwangfei
 
-[] 11.7 https://github.com/whatwg/html/issues/10734 
+## Shit
+
+[] AI research -> AGI -> AI for music
+[] AI application -> code editor like zed AI & collabrate & rust
+[] frontend / corss gui / bussiness
+[] jsengine tc39 tests ecmascript
+[] techinal / science / entertatment content / learning / langugage learning / gaming  / livestream coding / tooling
+[] brand flac performance
+[] build a company cause zed might failed to achieve all three goals and not doing any of them the best. if that happens we can pick it up.
+[] wpt.live and we need test262.live
+
+## Sleep
+
+[x] 2024-11-3 25:20 delay sleep
+
+## Eating
+
+[x] 2024-11-3 19:02 delay lunch
+
+## Sports
+
+## Social Activities
+
+[] text editor -> code editor blog
+[] 10-06 16:40 
+[] 11-07 text editor code editor 11:45 
+[] 11.7 https://github.com/whatwg/html/issues/10734
+让我帮你计算:
+11月7日 9:00 PST (太平洋标准时间)
+= UTC-8
+= 北京时间(UTC+8) + 16小时
+所以对应的北京时间是:
+11月8日 1:00 (凌晨1点)
+简单记忆:
+北京时间 = PST + 16小时
+(即第二天凌晨,需要跨一天)
+[] Coffee Compiler Club 11-01
+[] 11-7 linebender office hour 23:00
+
+## Action needed from Me TODO (don't need supervisor) 4
+
+[] complexity paper 11.10 17:00
+[] complex networking abstract 11.30
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+[] Implement go to recent directories in zed potential mentor SomeoneToIgnore
 
 
+## Blocked on others/supervisor
+
+[] waiting for review https://skia-review.googlesource.com/c/skia/+/915136
+[] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
+
+
+[] Do less day
+
+## Exploring & Learning (need supervisor) 1
+
+[] vello editor integrate with y-crdt
+[] In computer programming, you always plus or minus by 1 and multiply/divide by 2.
+[] Original folk-rnn training and inference.
+[] fritter flutter 3.7.8 fvm lese
+[] tiktok AI generate output.
+[] manimgl cario/vello latex/typst
+[] vello_editor with y-crt or eg-walker collabration 
+[] yong gihtub issues he qita public api ganfan weixin gongzhonghao
+    flutter kehuduan t
+[] zulip-server and frontend and flutter app.
+
+## Short Term Goal (one year)
+
+[] 50/800 20/700 achievements/commits
+[] 2025 4/ GSOC zulip rust llvm
+[] 2025 4/ sing 
+[] 2025 1/ outreachy servo and others
+
+## Long Term Goal (three years & five years & ten years)
+
+[] zed bun zig firefox/layout,grahics,sm,patform wasmtime wasmedge lineblender typst graphite.rs
+[] bussieness centered tech zulip collarate CRDT
+[] RD centered tech
+[] chinese english japanese koera
+[] artists content maker
 
 # 2024-10-27 - 2024-11-4
 
