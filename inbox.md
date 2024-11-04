@@ -1,6 +1,7 @@
 
 # 2024-11-4
 
+
 https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
 
 # 2024-11-3

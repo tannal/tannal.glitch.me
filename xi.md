@@ -1,6 +1,30 @@
 
 # Parley
 
+#[derive(Default)]
+pub struct Editor {
+    font_cx: FontContext,
+    layout_cx: LayoutContext<Color>,
+    editor: PlainEditor<Color>,
+    last_click_time: Option<Instant>,
+    click_count: u32,
+    pointer_down: bool,
+    cursor_pos: (f32, f32),
+    cursor_blink: bool,
+    modifiers: Option<Modifiers>,
+}
+
+wgpu -> vello
+peniko
+winit
+parley
+
+Vello is a 2d graphics rendering engine written in Rust, using wgpu. 
+
+It efficiently draws large 2d scenes with interactive or near-interactive performance.
+
+
+
 PlainEditor
     |
     +-- Buffer (String)

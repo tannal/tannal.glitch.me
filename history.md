@@ -1,6 +1,366 @@
 
 # 2024-11-4
 
+xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(45) Why Projects Succeed: Lessons Learned from the Android OS by Romain Guy and Chet Haase, Google EN - YouTube
+https://www.youtube.com/watch?v=29CXukGVcUM&t=462s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+(45) Coffee Compiler Club, 2023_10_06, Guest Simon Peyton Jones - YouTube
+https://www.youtube.com/watch?v=pYNgu7dG0Tc
+
+Jake Bailey
+https://jakebailey.dev/
+
+jakebailey/jakebailey.github.io
+https://github.com/jakebailey/jakebailey.github.io/tree/main
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%25E8%25AE%25A9%25E6%2588%2591%25E8%25A7%25A3%25E9%2587%258A%25E4%25B8%2580%25E4%25B8%258B%25E8%25BF%2599%25E5%258F%25A5%25E8%25AF%259D%25E6%258F%2590%25E5%2588%25B0%25E7%259A%2584%25E5%2589%258D%25E7%25AB%25AF%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7%25E7%259A%2584%25E6%25BC%2594%25E8%25BF%259B%25EF%25BC%259A%250A%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E6%25BC%2594%25E8%25BF%259B%25E8%25B7%25AF%25E7%25BA%25BF%250ARedux%25C2%25A0%25E2%2586%2592%25C2%25A0MobX%25C2%25A0%25E2%2586%2592%25C2%25A0React%25C2%25A0Query%25C2%25A0%28RQ%29%250A1.%2520Redux%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E4%25B8%25A5%25E6%25A0%25BC%25E7%259A%2584%25E5%258D%2595%25E5%2590%2591%25E6%2595%25B0%25E6%258D%25AE%25E6%25B5%2581%250A%25E4%25B8%258D%25E5%258F%25AF%25E5%258F%2598%25E7%258A%25B6%25E6%2580%2581%250AAction%252FReducer%2520%25E6%25A8%25A1%25E5%25BC%258F%250A%25E7%25BC%25BA%25E7%2582%25B9%25EF%25BC%259A%250A%25E6%25A8%25A1%25E6%259D%25BF%25E4%25BB%25A3%25E7%25A0%2581%25E5%25A4%259A%250A%25E9%2585%258D%25E7%25BD%25AE%25E5%25A4%258D%25E6%259D%2582%250A%25E5%25AD%25A6%25E4%25B9%25A0%25E6%259B%25B2%25E7%25BA%25BF%25E9%2599%25A1%25E5%25B3%25AD%250A2.%2520MobX%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E5%2593%258D%25E5%25BA%2594%25E5%25BC%258F%25E7%25BC%2596%25E7%25A8%258B%250A%25E5%258F%25AF%25E5%258F%2598%25E7%258A%25B6%25E6%2580%2581%250A%25E6%259B%25B4%25E7%25AE%2580%25E5%258D%2595%25E7%259A%2584API%250A%25E7%25BC%25BA%25E7%2582%25B9%25EF%25BC%259A%250Aad-hoc%25EF%25BC%2588%25E4%25B8%25B4%25E6%2597%25B6%25EF%25BC%2589%25E8%25AE%25BE%25E7%25BD%25AE%25E5%258F%25AF%25E8%2583%25BD%25E5%25AF%25BC%25E8%2587%25B4%25E6%25B7%25B7%25E4%25B9%25B1%250A%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E4%25B8%258D%25E5%25A4%259F%25E6%25B8%2585%25E6%2599%25B0%250A%25E7%25BC%25BA%25E4%25B9%258F%25E6%25A0%2587%25E5%2587%2586%25E5%258C%2596%25E7%259A%2584%25E6%259C%2580%25E4%25BD%25B3%25E5%25AE%259E%25E8%25B7%25B5%250A3.%2520React%2520Query%2520%28RQ%29%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E4%25B8%2593%25E6%25B3%25A8%25E4%25BA%258E%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%250A%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E5%2590%258C%25E6%25AD%25A5%250A%25E5%2586%2585%25E7%25BD%25AE%25E7%25BC%2593%25E5%25AD%2598%25E6%259C%25BA%25E5%2588%25B6%250A%25E4%25BC%2598%25E5%258C%2596%25E7%259A%2584%25E6%2580%25A7%25E8%2583%25BD%250A%25E4%25BC%2598%25E5%258A%25BF%25EF%25BC%259A%250A%25E5%2587%258F%25E5%25B0%2591%25E6%25A0%25B7%25E6%259D%25BF%25E4%25BB%25A3%25E7%25A0%2581%250A%25E8%2587%25AA%25E5%258A%25A8%25E5%25A4%2584%25E7%2590%2586%25E5%258A%25A0%25E8%25BD%25BD%252F%25E9%2594%2599%25E8%25AF%25AF%25E7%258A%25B6%25E6%2580%2581%250A%25E6%259B%25B4%25E5%25A5%25BD%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E4%25B8%2580%25E8%2587%25B4%25E6%2580%25A7%250A%2522wild%2520gains%2520in%2520productivity%2522%25EF%25BC%2588%25E7%2594%259F%25E4%25BA%25A7%25E5%258A%259B%25E7%259A%2584%25E5%25B7%25A8%25E5%25A4%25A7%25E6%258F%2590%25E5%258D%2587%25EF%25BC%2589%25E4%25BD%2593%25E7%258E%25B0%25E5%259C%25A8%25EF%25BC%259A%250A%25E4%25BB%25A3%25E7%25A0%2581%25E9%2587%258F%25E5%2587%258F%25E5%25B0%2591%25EF%25BC%259A%250A%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E6%2589%258B%25E5%258A%25A8%25E7%25AE%25A1%25E7%2590%2586%25E5%258A%25A0%25E8%25BD%25BD%25E7%258A%25B6%25E6%2580%2581%250A%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E5%2586%2599%25E5%2590%258C%25E6%25AD%25A5%25E9%2580%25BB%25E8%25BE%2591%250A%25E5%258A%259F%25E8%2583%25BD%25E5%25A2%259E%25E5%25BC%25BA%25EF%25BC%259A%250A%25E8%2587%25AA%25E5%258A%25A8%25E9%2587%258D%25E8%25AF%2595%250A%25E5%2590%258E%25E5%258F%25B0%25E6%2595%25B0%25E6%258D%25AE%25E6%259B%25B4%25E6%2596%25B0%250A%25E6%2599%25BA%25E8%2583%25BD%25E7%25BC%2593%25E5%25AD%2598%250A%25E5%25BC%2580%25E5%258F%2591%25E4%25BD%2593%25E9%25AA%258C%25EF%25BC%259A%250A%25E6%259B%25B4%25E5%25B0%2591%25E7%259A%2584%25E7%25BB%25B4%25E6%258A%25A4%25E6%2588%2590%25E6%259C%25AC%250A%25E6%259B%25B4%25E6%25B8%2585%25E6%2599%25B0%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E6%25B5%2581%250A%25E6%259B%25B4%25E5%25A5%25BD%25E7%259A%2584%25E5%258F%25AF%25E9%25A2%2584%25E6%25B5%258B%25E6%2580%25A7%250A%25E7%258E%25B0%25E4%25BB%25A3%25E5%2589%258D%25E7%25AB%25AF%25E6%258E%25A8%25E8%258D%2590%25E5%25AE%259E%25E8%25B7%25B5%250A%252F%252F%25C2%25A0React%25C2%25A0Query%25C2%25A0%25E7%25A4%25BA%25E4%25BE%258B%250Aconst%25C2%25A0%257B%25C2%25A0data%252C%25C2%25A0isLoading%252C%25C2%25A0error%25C2%25A0%257D%25C2%25A0%253D%25C2%25A0useQuery%28%27todos%27%252C%25C2%25A0fetchTodos%29%253B%250A%252F%252F%25C2%25A0vs%25C2%25A0%25E4%25BC%25A0%25E7%25BB%259F%25C2%25A0MobX%250A%2540observable%25C2%25A0todos%25C2%25A0%253D%25C2%25A0%255B%255D%253B%250A%2540action%250Aasync%25C2%25A0fetchTodos%28%29%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0this.loading%25C2%25A0%253D%25C2%25A0true%253B%250A%25C2%25A0%25C2%25A0try%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0%25C2%25A0%25C2%25A0this.todos%25C2%25A0%253D%25C2%25A0await%25C2%25A0api.getTodos%28%29%253B%250A%25C2%25A0%25C2%25A0%257D%25C2%25A0catch%25C2%25A0%28error%29%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0%25C2%25A0%25C2%25A0this.error%25C2%25A0%253D%25C2%25A0error%253B%250A%25C2%25A0%25C2%25A0%257D%250A%25C2%25A0%25C2%25A0this.loading%25C2%25A0%253D%25C2%25A0false%253B%250A%257D%250A%25E8%25BF%2599%25E7%25A7%258D%25E8%25BD%25AC%25E5%258F%2598%25E4%25BB%25A3%25E8%25A1%25A8%25E4%25BA%2586%25E5%2589%258D%25E7%25AB%25AF%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E7%259A%2584%25E4%25B8%2580%25E4%25B8%25AA%25E9%2587%258D%25E8%25A6%2581%25E8%25B6%258B%25E5%258A%25BF%25EF%25BC%259A%25E4%25BB%258E%25E9%2580%259A%25E7%2594%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%2590%2591%25E4%25B8%2593%25E9%2597%25A8%25E7%259A%2584%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7%25E8%25BD%25AC%25E5%258F%2598%25EF%25BC%258C%25E4%25BD%25BF%25E5%25BE%2597%25E5%25BC%2580%25E5%258F%2591%25E6%259B%25B4%25E5%258A%25A0%25E9%25AB%2598%25E6%2595%2588%25E5%2592%258C%25E5%258F%25AF%25E7%25BB%25B4%25E6%258A%25A4%25E3%2580%2582
+
+react query - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=react+query
+
+Initial Query Data | TanStack Query React Docs
+https://tanstack.com/query/latest/docs/framework/react/guides/initial-query-data
+
+QuarticCat/detypify: Typst symbol classifier
+https://github.com/QuarticCat/detypify
+
+GitHub
+https://github.com/
+
+vlt package manager github - Google 搜索
+https://www.google.com.hk/search?q=vlt+package+manager++github&newwindow=1&client=ubuntu-sn&hs=o1e&sca_esv=3206a0d791935f63&channel=fs&ei=RK0oZ4nuE8XbkPIP1M_n8Aw&ved=0ahUKEwiJoN_uxsKJAxXFLUQIHdTnGc4Q4dUDCA8&uact=5&oq=vlt+package+manager++github&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3ZsdCBwYWNrYWdlIG1hbmFnZXIgIGdpdGh1YjIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBEihKFD0D1iaJ3ABeAGQAQCYAdYCoAHuH6oBBTItOS41uAEDyAEA-AEBmAIDoAKtBMICChAAGLADGNYEGEfCAgUQABiABMICCBAAGIAEGKIEmAMAiAYBkAYBkgcFMS4wLjKgB7so&sclient=gws-wiz-serp
+
+vlt /vōlt/
+https://www.vlt.sh/
+
+[DOCS] Migrating from `pnpm`, `npm`, `yarn` & `bun` · Issue #97 · vltpkg/vltpkg
+https://github.com/vltpkg/vltpkg/issues/97
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+namesilo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nameslio#fpr=r
+
+tannal.github.io/.well-known/atproto-did at gh-pages · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/blob/gh-pages/.well-known/atproto-did
+
+Zach Leatherman: "reply here if you want to be on my “the absolute worst” starter pack" — Bluesky
+https://bsky.app/profile/zachleat.com/post/3la35ig2ngr2x
+
+tannal/tannal.github.io at gh-pages
+https://github.com/tannal/tannal.github.io/tree/gh-pages
+
+NameSilo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+NameSilo+
+
+NameSilo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=NameSilo
+
+Low-Cost Domain Names & Hosting from $0.99 | NameSilo
+https://www.namesilo.com/
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+tannal
+https://tannal.github.io/
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+UOX3DevTeam/UOX3 at feature/spidermonkey-esr115
+https://github.com/UOX3DevTeam/UOX3/tree/feature/spidermonkey-esr115
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Problem loading page
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+Bluesky announces data federation for self hosters | Hacker News
+https://news.ycombinator.com/item?id=39471116
+
+Bluesky user own this data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Bluesky+user+own+this+data
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+! nodejs-tooling（频道） - OpenJS Foundation - 1 个新项目 - Slack
+https://app.slack.com/client/T0K2RM7F0/C01GNCK8EUD
+
+Running Your Own Bluesky | Hacker News
+https://news.ycombinator.com/item?id=42009212
+
+Problem loading page
+https://bsky.app/profile/hbuchel.bsky.social/post/3l7yndn6lbj2p
+
+Problem loading page
+https://github.com/elk-zone/elk
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2540tannal%253A%7E%252Ftannalwork%252Fprojects%252Fsocial-app%2524%2520yarn%250Ayarn%2520install%2520v1.22.19%250A%255B1%252F5%255D%2520Validating%2520package.json...%250A%255B2%252F5%255D%2520Resolving%2520packages...%250Awarning%2520Resolution%2520field%2520%2522%2540radix-ui%252Freact-focus-scope%25401.1.0%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540radix-ui%252Freact-focus-scope%25401.0.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%7E0.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%25400.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522expo-constants%254016.0.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-constants%2540%255E13.0.2%2522%250Awarning%2520Resolution%2520field%2520%2522expo-device%25406.0.2%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-device%2540%7E4.1.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%255E0.73.18%2522%250A%255B3%252F5%255D%2520Fetching%2520packages...%250A%255B4%252F5%255D%2520Linking%2520dependencies...%250Awarning%2520%2522%2520%253E%2520%2540discord%252Fbottom-sheet%25404.6.1%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522%2540shopify%252Fflash-list%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fwebpack-config%254019.0.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522expo%2540%255E49.0.7%2522.%250Awarning%2520%2522%2520%253E%2520%2540tanstack%252Freact-query-persist-client%25405.25.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522%2540tanstack%252Freact-query%2540%255E5.25.0%2522.%250Awarning%2520%2522expo-splash-screen%2520%253E%2520%2540expo%252Fprebuild-config%25407.0.3%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540%253E%253D0.8.1%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native%25400.72.6%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-gesture-handler%2540%7E2.12.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-reanimated%2540%7E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-web-webview%25401.0.2%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522file-loader%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-module-scripts%2540%255E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540
+
+it works on my machine meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=RjG&sca_esv=1de901faed03aeba&channel=fs&q=it+works+on+my+machine+meme&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvT6d1vMap-MzuosHXDsIz-SLKhjyxQZgconEfxPMICVwO5Vyv3vd_-k8V09ohwogZcIzAauvlo7GPWDfhUKJKcyoFMuZveOh1Ikjrz8l_xoU0uO3U&sa=X&ved=2ahUKEwj-3PjwksKJAxXJG9AFHbwfGfoQ0pQJegQIEhAB&biw=1850&bih=968&dpr=1#vhid=rTzTQGVn1vbM7M&vssid=_0HYoZ9WBMt6-p84PkcirIA_33
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?q=elon+meme&newwindow=1&client=ubuntu-sn&hs=w5v&sca_esv=1de901faed03aeba&channel=fs&udm=2&biw=1850&bih=968&ei=N3coZ8inKO7Bp84PvZH9gAU&ved=0ahUKEwiIn_Sok8KJAxXu4MkDHb1IH1AQ4dUDCBA&uact=5&oq=elon+meme&gs_lp=EgNpbWciCWVsb24gbWVtZTIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIIEAAYChgMGB5InwlQBFiwB3AAeACQAQCYAZgCoAGTCqoBAzItNbgBA8gBAPgBAZgCBKACrgiYAwCIBgGSBwMyLTSgB-QM&sclient=img
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+FOSS Release · Issue #2222 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/issues/2222
+
+andy pavlo random javascript programmer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=andy+pavlo+random+javascript+programmer
+
+(45) #02 - Modern SQL (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=MzigBKf84aY
+
+pandoc - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pandoc
+
+theprimeagen discord - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=theprimeagen+discord
+
+yt-dlp twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=yt-dlp+twitter
+
+[Twitter] Account is now required to download (Failed to parse JSON) · Issue #7473 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/issues?q=is%3Aissue+is%3Aopen+twitter
+
+onnx github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=onnx+github
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Problem loading page
+https://github.com/linebender/simplecss
+
+inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+(45) Why Projects Succeed: Lessons Learned from the Android OS by Romain Guy and Chet Haase, Google EN - YouTube
+https://www.youtube.com/watch?v=29CXukGVcUM&t=462s
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+@tannal.bsky.social — Bluesky
+https://bsky.app/profile/tannal.bsky.social
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%25E8%25AE%25A9%25E6%2588%2591%25E8%25A7%25A3%25E9%2587%258A%25E4%25B8%2580%25E4%25B8%258B%25E8%25BF%2599%25E5%258F%25A5%25E8%25AF%259D%25E6%258F%2590%25E5%2588%25B0%25E7%259A%2584%25E5%2589%258D%25E7%25AB%25AF%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7%25E7%259A%2584%25E6%25BC%2594%25E8%25BF%259B%25EF%25BC%259A%250A%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E6%25BC%2594%25E8%25BF%259B%25E8%25B7%25AF%25E7%25BA%25BF%250ARedux%25C2%25A0%25E2%2586%2592%25C2%25A0MobX%25C2%25A0%25E2%2586%2592%25C2%25A0React%25C2%25A0Query%25C2%25A0%28RQ%29%250A1.%2520Redux%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E4%25B8%25A5%25E6%25A0%25BC%25E7%259A%2584%25E5%258D%2595%25E5%2590%2591%25E6%2595%25B0%25E6%258D%25AE%25E6%25B5%2581%250A%25E4%25B8%258D%25E5%258F%25AF%25E5%258F%2598%25E7%258A%25B6%25E6%2580%2581%250AAction%252FReducer%2520%25E6%25A8%25A1%25E5%25BC%258F%250A%25E7%25BC%25BA%25E7%2582%25B9%25EF%25BC%259A%250A%25E6%25A8%25A1%25E6%259D%25BF%25E4%25BB%25A3%25E7%25A0%2581%25E5%25A4%259A%250A%25E9%2585%258D%25E7%25BD%25AE%25E5%25A4%258D%25E6%259D%2582%250A%25E5%25AD%25A6%25E4%25B9%25A0%25E6%259B%25B2%25E7%25BA%25BF%25E9%2599%25A1%25E5%25B3%25AD%250A2.%2520MobX%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E5%2593%258D%25E5%25BA%2594%25E5%25BC%258F%25E7%25BC%2596%25E7%25A8%258B%250A%25E5%258F%25AF%25E5%258F%2598%25E7%258A%25B6%25E6%2580%2581%250A%25E6%259B%25B4%25E7%25AE%2580%25E5%258D%2595%25E7%259A%2584API%250A%25E7%25BC%25BA%25E7%2582%25B9%25EF%25BC%259A%250Aad-hoc%25EF%25BC%2588%25E4%25B8%25B4%25E6%2597%25B6%25EF%25BC%2589%25E8%25AE%25BE%25E7%25BD%25AE%25E5%258F%25AF%25E8%2583%25BD%25E5%25AF%25BC%25E8%2587%25B4%25E6%25B7%25B7%25E4%25B9%25B1%250A%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E4%25B8%258D%25E5%25A4%259F%25E6%25B8%2585%25E6%2599%25B0%250A%25E7%25BC%25BA%25E4%25B9%258F%25E6%25A0%2587%25E5%2587%2586%25E5%258C%2596%25E7%259A%2584%25E6%259C%2580%25E4%25BD%25B3%25E5%25AE%259E%25E8%25B7%25B5%250A3.%2520React%2520Query%2520%28RQ%29%250A%25E7%2589%25B9%25E7%2582%25B9%25EF%25BC%259A%250A%25E4%25B8%2593%25E6%25B3%25A8%25E4%25BA%258E%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%250A%25E8%2587%25AA%25E5%258A%25A8%25E5%258C%2596%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E5%2590%258C%25E6%25AD%25A5%250A%25E5%2586%2585%25E7%25BD%25AE%25E7%25BC%2593%25E5%25AD%2598%25E6%259C%25BA%25E5%2588%25B6%250A%25E4%25BC%2598%25E5%258C%2596%25E7%259A%2584%25E6%2580%25A7%25E8%2583%25BD%250A%25E4%25BC%2598%25E5%258A%25BF%25EF%25BC%259A%250A%25E5%2587%258F%25E5%25B0%2591%25E6%25A0%25B7%25E6%259D%25BF%25E4%25BB%25A3%25E7%25A0%2581%250A%25E8%2587%25AA%25E5%258A%25A8%25E5%25A4%2584%25E7%2590%2586%25E5%258A%25A0%25E8%25BD%25BD%252F%25E9%2594%2599%25E8%25AF%25AF%25E7%258A%25B6%25E6%2580%2581%250A%25E6%259B%25B4%25E5%25A5%25BD%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E4%25B8%2580%25E8%2587%25B4%25E6%2580%25A7%250A%2522wild%2520gains%2520in%2520productivity%2522%25EF%25BC%2588%25E7%2594%259F%25E4%25BA%25A7%25E5%258A%259B%25E7%259A%2584%25E5%25B7%25A8%25E5%25A4%25A7%25E6%258F%2590%25E5%258D%2587%25EF%25BC%2589%25E4%25BD%2593%25E7%258E%25B0%25E5%259C%25A8%25EF%25BC%259A%250A%25E4%25BB%25A3%25E7%25A0%2581%25E9%2587%258F%25E5%2587%258F%25E5%25B0%2591%25EF%25BC%259A%250A%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E6%2589%258B%25E5%258A%25A8%25E7%25AE%25A1%25E7%2590%2586%25E5%258A%25A0%25E8%25BD%25BD%25E7%258A%25B6%25E6%2580%2581%250A%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E5%2586%2599%25E5%2590%258C%25E6%25AD%25A5%25E9%2580%25BB%25E8%25BE%2591%250A%25E5%258A%259F%25E8%2583%25BD%25E5%25A2%259E%25E5%25BC%25BA%25EF%25BC%259A%250A%25E8%2587%25AA%25E5%258A%25A8%25E9%2587%258D%25E8%25AF%2595%250A%25E5%2590%258E%25E5%258F%25B0%25E6%2595%25B0%25E6%258D%25AE%25E6%259B%25B4%25E6%2596%25B0%250A%25E6%2599%25BA%25E8%2583%25BD%25E7%25BC%2593%25E5%25AD%2598%250A%25E5%25BC%2580%25E5%258F%2591%25E4%25BD%2593%25E9%25AA%258C%25EF%25BC%259A%250A%25E6%259B%25B4%25E5%25B0%2591%25E7%259A%2584%25E7%25BB%25B4%25E6%258A%25A4%25E6%2588%2590%25E6%259C%25AC%250A%25E6%259B%25B4%25E6%25B8%2585%25E6%2599%25B0%25E7%259A%2584%25E6%2595%25B0%25E6%258D%25AE%25E6%25B5%2581%250A%25E6%259B%25B4%25E5%25A5%25BD%25E7%259A%2584%25E5%258F%25AF%25E9%25A2%2584%25E6%25B5%258B%25E6%2580%25A7%250A%25E7%258E%25B0%25E4%25BB%25A3%25E5%2589%258D%25E7%25AB%25AF%25E6%258E%25A8%25E8%258D%2590%25E5%25AE%259E%25E8%25B7%25B5%250A%252F%252F%25C2%25A0React%25C2%25A0Query%25C2%25A0%25E7%25A4%25BA%25E4%25BE%258B%250Aconst%25C2%25A0%257B%25C2%25A0data%252C%25C2%25A0isLoading%252C%25C2%25A0error%25C2%25A0%257D%25C2%25A0%253D%25C2%25A0useQuery%28%27todos%27%252C%25C2%25A0fetchTodos%29%253B%250A%252F%252F%25C2%25A0vs%25C2%25A0%25E4%25BC%25A0%25E7%25BB%259F%25C2%25A0MobX%250A%2540observable%25C2%25A0todos%25C2%25A0%253D%25C2%25A0%255B%255D%253B%250A%2540action%250Aasync%25C2%25A0fetchTodos%28%29%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0this.loading%25C2%25A0%253D%25C2%25A0true%253B%250A%25C2%25A0%25C2%25A0try%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0%25C2%25A0%25C2%25A0this.todos%25C2%25A0%253D%25C2%25A0await%25C2%25A0api.getTodos%28%29%253B%250A%25C2%25A0%25C2%25A0%257D%25C2%25A0catch%25C2%25A0%28error%29%25C2%25A0%257B%250A%25C2%25A0%25C2%25A0%25C2%25A0%25C2%25A0this.error%25C2%25A0%253D%25C2%25A0error%253B%250A%25C2%25A0%25C2%25A0%257D%250A%25C2%25A0%25C2%25A0this.loading%25C2%25A0%253D%25C2%25A0false%253B%250A%257D%250A%25E8%25BF%2599%25E7%25A7%258D%25E8%25BD%25AC%25E5%258F%2598%25E4%25BB%25A3%25E8%25A1%25A8%25E4%25BA%2586%25E5%2589%258D%25E7%25AB%25AF%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E7%259A%2584%25E4%25B8%2580%25E4%25B8%25AA%25E9%2587%258D%25E8%25A6%2581%25E8%25B6%258B%25E5%258A%25BF%25EF%25BC%259A%25E4%25BB%258E%25E9%2580%259A%25E7%2594%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%2590%2591%25E4%25B8%2593%25E9%2597%25A8%25E7%259A%2584%25E6%259C%258D%25E5%258A%25A1%25E5%2599%25A8%25E7%258A%25B6%25E6%2580%2581%25E7%25AE%25A1%25E7%2590%2586%25E5%25B7%25A5%25E5%2585%25B7%25E8%25BD%25AC%25E5%258F%2598%25EF%25BC%258C%25E4%25BD%25BF%25E5%25BE%2597%25E5%25BC%2580%25E5%258F%2591%25E6%259B%25B4%25E5%258A%25A0%25E9%25AB%2598%25E6%2595%2588%25E5%2592%258C%25E5%258F%25AF%25E7%25BB%25B4%25E6%258A%25A4%25E3%2580%2582
+
+react query - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=react+query
+
+Initial Query Data | TanStack Query React Docs
+https://tanstack.com/query/latest/docs/framework/react/guides/initial-query-data
+
+QuarticCat/detypify: Typst symbol classifier
+https://github.com/QuarticCat/detypify
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+IPDL: Inter-Thread and Inter-Process Message Passing — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/ipc/ipdl.html
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-limits
+
+(45) Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube
+https://www.youtube.com/watch?v=IP_rtWEMR0o
+
+UOX3DevTeam/UOX3 at feature/spidermonkey-esr115
+https://github.com/UOX3DevTeam/UOX3/tree/feature/spidermonkey-esr115
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(37) Discord | #contributing | Rolldown
+https://discord.com/channels/1171783886200643635/1172053132621135942
+
+Self-hosting - AT Protocol
+https://atproto.com/guides/self-hosting
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app/tree/main
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun%20NPM_CONFIG_REGISTRY&type=code
+
+lewiszlw (lewiszlw) / Repositories
+https://github.com/lewiszlw?tab=repositories
+
+SystemX Labs
+https://systemxlabs.github.io/projects/
+
+Night's Watch Games
+https://github.com/NightsWatchGames
+
+NightsWatchGames/tiny-renderer: A tiny software renderer written in Rust.
+https://github.com/NightsWatchGames/tiny-renderer
+
+bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust
+https://github.com/bevyengine/bevy?tab=readme-ov-file
+
+(37) Discord | #🗞-playcanvas-news | Official PlayCanvas Chat
+https://discord.com/channels/408617316415307776/905402009849577474
+
+Sublime Text open source - Google 搜索
+https://www.google.com.hk/search?q=Sublime+Text+open+source&newwindow=1&client=ubuntu-sn&hs=lPs&sca_esv=a3b6cc451068929f&channel=fs&ei=9D8oZ6WMAt_GkPIP0tyQ-Qw&ved=0ahUKEwil1uXO3sGJAxVfI0QIHVIuJM8Q4dUDCA8&uact=5&oq=Sublime+Text+open+source&gs_lp=Egxnd3Mtd2l6LXNlcnAiGFN1YmxpbWUgVGV4dCBvcGVuIHNvdXJjZTIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEilJVCDD1i-JHABeAGQAQCYAbMCoAH9FqoBBjItMTAuMbgBA8gBAPgBAZgCDKACuRfCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBZgDAIgGAZAGCJIHCDEuMC4xMC4xoAeYJw&sclient=gws-wiz-serp
+
+jon skinner sublime - Google 搜索
+https://www.google.com.hk/search?q=jon+skinner+sublime&newwindow=1&client=ubuntu-sn&hs=PnX&sca_esv=a3b6cc451068929f&channel=fs&ei=q0AoZ8nnIe-7kPIP6uKWoAw&oq=Jon+Skinner+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEpvbiBTa2lubmVyICoCCAAyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYChgeSNIJUKoCWKoCcAF4AZABAJgBngKgAZ4CqgEDMi0xuAEByAEA-AEBmAICoAKvAsICChAAGLADGNYEGEeYAwCIBgGQBgKSBwUxLjAuMaAHqAM&sclient=gws-wiz-serp
+
+Hi HN - Jon Skinner here, I made Sublime Text and Sublime Merge, alongside the r... | Hacker News
+https://news.ycombinator.com/item?id=18030450
+
+bluesky app flutter github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bluesky+app+flutter+github
+
+Repository search results
+https://github.com/search?q=Bluesky++language%3ADart&type=repositories&s=updated&o=desc
+
+igz0/skyclad: An experimental ATP/Bluesky client app for iOS and Android by Flutter.
+https://github.com/igz0/skyclad
+
+pablouser1/LightBluesky: A client for Bluesky made in Flutter aiming to be lightweight and functional.
+https://github.com/pablouser1/LightBluesky
+
+AI with guns - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=gyY&sca_esv=02f133a8e8b390ea&channel=fs&tbm=vid&q=AI+with+guns&sa=X&ved=2ahUKEwiZ38ec8MGJAxX6IUQIHRjvMcUQ8ccDegQIFxAF&biw=1850&bih=968&dpr=1
+
+morpho-app/Morpho: Fast, flexible Kotlin Multiplatform client for Bluesky
+https://github.com/morpho-app/Morpho
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+Bluesky announces data federation for self hosters | Hacker News
+https://news.ycombinator.com/item?id=39471116
+
+Bluesky user own this data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Bluesky+user+own+this+data
+
+Notifications — Bluesky
+https://bsky.app/notifications
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+nodejs-tooling（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C01GNCK8EUD
+
+Running Your Own Bluesky | Hacker News
+https://news.ycombinator.com/item?id=42009212
+
+@tannal.bsky.social — Bluesky
+https://bsky.app/profile/tannal.bsky.social
+
+Cross-platform client · elk-zone/elk · Discussion #3030
+https://github.com/elk-zone/elk/discussions/3030
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2540tannal%253A%7E%252Ftannalwork%252Fprojects%252Fsocial-app%2524%2520yarn%250Ayarn%2520install%2520v1.22.19%250A%255B1%252F5%255D%2520Validating%2520package.json...%250A%255B2%252F5%255D%2520Resolving%2520packages...%250Awarning%2520Resolution%2520field%2520%2522%2540radix-ui%252Freact-focus-scope%25401.1.0%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540radix-ui%252Freact-focus-scope%25401.0.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%7E0.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%25400.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522expo-constants%254016.0.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-constants%2540%255E13.0.2%2522%250Awarning%2520Resolution%2520field%2520%2522expo-device%25406.0.2%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-device%2540%7E4.1.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%255E0.73.18%2522%250A%255B3%252F5%255D%2520Fetching%2520packages...%250A%255B4%252F5%255D%2520Linking%2520dependencies...%250Awarning%2520%2522%2520%253E%2520%2540discord%252Fbottom-sheet%25404.6.1%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522%2540shopify%252Fflash-list%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fwebpack-config%254019.0.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522expo%2540%255E49.0.7%2522.%250Awarning%2520%2522%2520%253E%2520%2540tanstack%252Freact-query-persist-client%25405.25.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522%2540tanstack%252Freact-query%2540%255E5.25.0%2522.%250Awarning%2520%2522expo-splash-screen%2520%253E%2520%2540expo%252Fprebuild-config%25407.0.3%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540%253E%253D0.8.1%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native%25400.72.6%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-gesture-handler%2540%7E2.12.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-reanimated%2540%7E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-web-webview%25401.0.2%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522file-loader%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-module-scripts%2540%255E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540
+
+it works on my machine meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=RjG&sca_esv=1de901faed03aeba&channel=fs&q=it+works+on+my+machine+meme&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvT6d1vMap-MzuosHXDsIz-SLKhjyxQZgconEfxPMICVwO5Vyv3vd_-k8V09ohwogZcIzAauvlo7GPWDfhUKJKcyoFMuZveOh1Ikjrz8l_xoU0uO3U&sa=X&ved=2ahUKEwj-3PjwksKJAxXJG9AFHbwfGfoQ0pQJegQIEhAB&biw=1850&bih=968&dpr=1#vhid=rTzTQGVn1vbM7M&vssid=_0HYoZ9WBMt6-p84PkcirIA_33
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?q=elon+meme&newwindow=1&client=ubuntu-sn&hs=w5v&sca_esv=1de901faed03aeba&channel=fs&udm=2&biw=1850&bih=968&ei=N3coZ8inKO7Bp84PvZH9gAU&ved=0ahUKEwiIn_Sok8KJAxXu4MkDHb1IH1AQ4dUDCBA&uact=5&oq=elon+meme&gs_lp=EgNpbWciCWVsb24gbWVtZTIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIIEAAYChgMGB5InwlQBFiwB3AAeACQAQCYAZgCoAGTCqoBAzItNbgBA8gBAPgBAZgCBKACrgiYAwCIBgGSBwMyLTSgB-QM&sclient=img
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+FOSS Release · Issue #2222 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/issues/2222
+
+andy pavlo random javascript programmer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=andy+pavlo+random+javascript+programmer
+
+(45) #02 - Modern SQL (CMU Intro to Database Systems) - YouTube
+https://www.youtube.com/watch?v=MzigBKf84aY
+
+pandoc - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=pandoc
+
+theprimeagen discord - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=theprimeagen+discord
+
+yt-dlp twitter - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=yt-dlp+twitter
+
+[Twitter] Account is now required to download (Failed to parse JSON) · Issue #7473 · yt-dlp/yt-dlp
+https://github.com/yt-dlp/yt-dlp/issues?q=is%3Aissue+is%3Aopen+twitter
+
+onnx github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=onnx+github
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
