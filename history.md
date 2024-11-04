@@ -4,6 +4,270 @@
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
+Upcoming WHATNOT meeting on 2024-11-7 · Issue #10734 · whatwg/html
+https://github.com/whatwg/html/issues/10734
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+eslint-plugin-bsky-internal is not linked - Google 搜索
+https://www.google.com.hk/search?q=eslint-plugin-bsky-internal+is+not+linked&newwindow=1&client=ubuntu-sn&hs=VJr&sca_esv=a3b6cc451068929f&channel=fs&ei=bC8oZ_vRGIvMkPIPjbn1uAw&ved=0ahUKEwj7t__szsGJAxULJkQIHY1cHccQ4dUDCA8&uact=5&oq=eslint-plugin-bsky-internal+is+not+linked&gs_lp=Egxnd3Mtd2l6LXNlcnAiKWVzbGludC1wbHVnaW4tYnNreS1pbnRlcm5hbCBpcyBub3QgbGlua2VkMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSNcaUKMFWOUZcAF4AZABAJgB2wKgAcccqgEGMi0xMS4yuAEDyAEA-AEBmAIOoAKCHcICChAAGLADGNYEGEfCAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcIMS4wLjExLjKgB7wn&sclient=gws-wiz-serp
+
+tannal
+https://tannal.github.io/
+
+cursor api github - Google 搜索
+https://www.google.com.hk/search?q=cursor+api+github&newwindow=1&client=ubuntu-sn&hs=kDC&sca_esv=a3b6cc451068929f&channel=fs&ei=BTMoZ4nQN4nGkPIPp-miyAw&ved=0ahUKEwjJ5rOk0sGJAxUJI0QIHae0CMkQ4dUDCA8&uact=5&oq=cursor+api+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWN1cnNvciBhcGkgZ2l0aHViMgUQABiABDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRInXVQkzBY0nNwA3gBkAEAmAGzAqAB9hCqAQUyLTcuMbgBA8gBAPgBAZgCC6ACnRHCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBhAAGAgYHsICBRAhGKABmAMAiAYBkAYHkgcHMy4wLjcuMaAHyxE&sclient=gws-wiz-serp
+
+Issue search results
+https://github.com/search?q=repo%3Abluesky-social%2Fsocial-app+sharp&type=issues
+
+lovell/sharp-libvips: Packaging scripts to prebuild libvips and its dependencies - you're probably looking for https://github.com/lovell/sharp
+https://github.com/lovell/sharp-libvips
+
+datafusion github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=datafusion+github
+
+Example Usage — Apache DataFusion documentation
+https://datafusion.apache.org/user-guide/example-usage.html
+
+norm parser library - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=norm+parser+library
+
+rust-bakery/nom: Rust parser combinator framework
+https://github.com/rust-bakery/nom
+
+Adobe Firefly - Free Generative AI for creatives
+https://www.adobe.com/products/firefly.html
+
+photoshop express是什么 - Google 搜索
+https://www.google.com.hk/search?q=photoshop+express%E6%98%AF%E4%BB%80%E4%B9%88&newwindow=1&client=ubuntu-sn&hs=VfX&sca_esv=a3b6cc451068929f&channel=fs&ei=wT4oZ5TXMrfakPIPzfaCwQw&oq=photoshop+express&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXBob3Rvc2hvcCBleHByZXNzKgIIATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIjyJQ1QVYrA9wAXgBkAEAmAGZAqAB5RCqAQMyLTi4AQPIAQD4AQGYAgmgAowRwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigWYAwCIBgGQBgqSBwUxLjAuOKAHohk&sclient=gws-wiz-serp
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+IPDL: Inter-Thread and Inter-Process Message Passing — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/ipc/ipdl.html
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-limits
+
+(45) Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube
+https://www.youtube.com/watch?v=IP_rtWEMR0o
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://web.archive.org/web/20240613070602/https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux#no1
+
+Screenshot_2024-11-04-11-28-33-687_com.zhihu.android.jpg - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(35) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303/1215927896149987449
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+zed/docs/src/development/windows.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/docs/src/development/windows.md
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(45) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+Pumpkin: How does it perform at 300 moving bots ? : r/rust
+https://www.reddit.com/r/rust/comments/1evhurt/pumpkin_how_does_it_perform_at_300_moving_bots/
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
+LizardByte/Sunshine: Self-hosted game stream host for Moonlight.
+https://github.com/LizardByte/Sunshine
+
+code editor in zeg - Google 搜索
+https://www.google.com.hk/search?q=code+editor+in+zeg&newwindow=1&client=ubuntu-sn&hs=Woo&sca_esv=b6652a83a08e5308&channel=fs&ei=lNMmZ8HfF7PBkPIPpeu--Q0&ved=0ahUKEwjB-cuPg7-JAxWzIEQIHaW1L98Q4dUDCA8&uact=5&oq=code+editor+in+zeg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvZGUgZWRpdG9yIGluIHplZzIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRI0wxQ9whY7AlwAXgBkAEAmAHdAqAB8QSqAQUyLTEuMbgBA8gBAPgBAZgCAqAC8ALCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB7ME&sclient=gws-wiz-serp
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+CPython
+https://github.com/cpython
+
+informalsystems/quint: An executable specification language with delightful tooling based on the temporal logic of actions (TLA)
+https://github.com/informalsystems/quint
+
+We're forking Flutter | Hacker News
+https://news.ycombinator.com/item?id=41975047
+
+flock github flutter - Google 搜索
+https://www.google.com.hk/search?q=flock+github+flutter&newwindow=1&client=ubuntu-sn&hs=Pqf&sca_esv=f9fa188a74abf180&channel=fs&ei=NYMnZ4_NJZjckPIPhe24yAw&ved=0ahUKEwjPu-POqsCJAxUYLkQIHYU2DskQ4dUDCA8&uact=5&oq=flock+github+flutter&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGZsb2NrIGdpdGh1YiBmbHV0dGVyMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSJ0ZUKENWMUXcAF4AZABAJgBiQOgAZsRqgEDMy02uAEDyAEA-AEBmAIHoALDEcICChAAGLADGNYEGEfCAgQQABgewgIGEAAYHhgPwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGBJIHBTEuMy02oAe8Dg&sclient=gws-wiz-serp
+
+Flock
+https://github.com/join-the-flock
+
+Steven Skiena - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Steven+Skiena
+
+where is cursor chat history - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=where+is+cursor+chat+history+
+
+Chat history folder - How To - Cursor Community Forum
+https://forum.cursor.com/t/chat-history-folder/7653/2
+
+cursor-chat-export/config.yml at main · somogyijanos/cursor-chat-export
+https://github.com/somogyijanos/cursor-chat-export/blob/main/config.yml
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Roadmap/Priorities · Issue #109 · servo/project
+https://github.com/servo/project/issues/109
+
+sosukesuzuki (SUZUKI Sosuke)
+https://github.com/sosukesuzuki
+
+ubie - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ubie
+
+livekit/livekit: End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/livekit/livekit
+
+livekit-examples/livestream
+https://github.com/livekit-examples/livestream
+
+Discover — Bluesky
+https://bsky.app/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bsky.app&sort=byPopularity&type=story
+
+Martin Kleppmann (@martin.kleppmann.com) — Bluesky
+https://bsky.app/profile/martin.kleppmann.com
+
+bluesky github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bluesky+github
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun%20NPM_CONFIG_REGISTRY&type=code
+
+lewiszlw (lewiszlw) / Repositories
+https://github.com/lewiszlw?tab=repositories&q=tiny&type=&language=&sort=
+
+SystemX Labs
+https://systemxlabs.github.io/projects/
+
+Night's Watch Games
+https://github.com/NightsWatchGames
+
+NightsWatchGames/tiny-renderer: A tiny software renderer written in Rust.
+https://github.com/NightsWatchGames/tiny-renderer
+
+bevyengine/bevy: A refreshingly simple data-driven game engine built in Rust
+https://github.com/bevyengine/bevy?tab=readme-ov-file
+
+(35) Discord
+https://discord.com/channels/691052431525675048/@home
+
+Sublime Text open source - Google 搜索
+https://www.google.com.hk/search?q=Sublime+Text+open+source&newwindow=1&client=ubuntu-sn&hs=lPs&sca_esv=a3b6cc451068929f&channel=fs&ei=9D8oZ6WMAt_GkPIP0tyQ-Qw&ved=0ahUKEwil1uXO3sGJAxVfI0QIHVIuJM8Q4dUDCA8&uact=5&oq=Sublime+Text+open+source&gs_lp=Egxnd3Mtd2l6LXNlcnAiGFN1YmxpbWUgVGV4dCBvcGVuIHNvdXJjZTIFEAAYgAQyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEilJVCDD1i-JHABeAGQAQCYAbMCoAH9FqoBBjItMTAuMbgBA8gBAPgBAZgCDKACuRfCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBZgDAIgGAZAGCJIHCDEuMC4xMC4xoAeYJw&sclient=gws-wiz-serp
+
+jon skinner sublime - Google 搜索
+https://www.google.com.hk/search?q=jon+skinner+sublime&newwindow=1&client=ubuntu-sn&hs=PnX&sca_esv=a3b6cc451068929f&channel=fs&ei=q0AoZ8nnIe-7kPIP6uKWoAw&oq=Jon+Skinner+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEpvbiBTa2lubmVyICoCCAAyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYChgeSNIJUKoCWKoCcAF4AZABAJgBngKgAZ4CqgEDMi0xuAEByAEA-AEBmAICoAKvAsICChAAGLADGNYEGEeYAwCIBgGQBgKSBwUxLjAuMaAHqAM&sclient=gws-wiz-serp
+
+Hi HN - Jon Skinner here, I made Sublime Text and Sublime Merge, alongside the r... | Hacker News
+https://news.ycombinator.com/item?id=18030450
+
+helix-editor/helix: A post-modern modal text editor.
+https://github.com/helix-editor/helix?tab=readme-ov-file
+
+Element * | Random
+https://app.element.io/#/room/#helix-random:matrix.org
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
 Issue search results
 https://github.com/search?q=repo%3Allvm%2Fllvm-project+autovectorization&type=issues
 

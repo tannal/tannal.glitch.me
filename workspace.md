@@ -2,7 +2,27 @@
 
 # a13
 
+## Social-app
+
+sudo apt-get update
+sudo apt-get install -y build-essential libvips-dev
+yarn cache clean
+
+rm -rf node_modules
+rm yarn.lock
+
+## Graphite
+
+
+
+## LadyBird
+
+
+
 ## Proton 
+
+- [] build error
+
 
 ## folk-rnn
 
