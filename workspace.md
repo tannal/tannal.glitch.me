@@ -11,6 +11,9 @@ yarn cache clean
 rm -rf node_modules
 rm yarn.lock
 
+yarn config set https-proxy http://10.90.92.225:7890
+
+
 ## Graphite
 
 
