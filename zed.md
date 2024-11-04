@@ -1,4 +1,14 @@
 
+# Ascii
+
+View<V>
+  ↓
+Model<V> (强引用)
+  ↙     ↘
+WeakView<V>   Element (渲染)
+  ↓           ↓
+WeakModel<V>  Layout → Prepaint → Paint
+
 # dependencies
 
 export ZED_BUILD_REMOTE_SERVER='/home/a13/.cargo/bin/remote_server'

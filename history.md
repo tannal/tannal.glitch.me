@@ -1,4 +1,252 @@
 
+# 2024-11-4
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Issue search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project+autovectorization&type=issues
+
+ffmpeg conference - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ffmpeg+conference
+
+videolan Dev Days 2024 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=videolan+Dev+Days+2024
+
+13th Video Dev Days, November 2nd-3rd, 2024 - VideoLAN
+https://www.videolan.org/videolan/events/vdd24/
+
+wes castro meta - Google 搜索
+https://www.google.com.hk/search?q=wes+castro+meta&newwindow=1&client=ubuntu-sn&hs=Dm1&sca_esv=44ceae893c66cd9e&channel=fs&ei=OJYnZ73iLffHkPIPzKGjqAw&ved=0ahUKEwi93s3fvMCJAxX3I0QIHczQCMUQ4dUDCA8&uact=5&oq=wes+castro+meta&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3dlcyBjYXN0cm8gbWV0YTIFECEYoAEyBRAhGKABSKkMUO8EWKkLcAF4AJABAJgB_QKgAagIqgEDMy0zuAEDyAEA-AEBmAIEoAK2CMICCxAAGLADGAoYHhgPwgILEAAYgAQYsAMYogTCAgYQABgMGB7CAggQABgMGB4YD8ICCBAAGIAEGKIEmAMAiAYBkAYGkgcFMS4zLTOgB9wF&sclient=gws-wiz-serp
+
+web frontend for firefox performance data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=web+frontend+for+firefox+performance+data
+
+mozilla/performance: Web-frontend for Firefox performance data.
+https://github.com/mozilla/performance
+
+"view transitions" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=view%20transitions
+
+Code search results
+https://github.com/search?q=repo%3Aflutter%2Fflutter%20skia&type=code
+
+engine/impeller/display_list/dl_image_impeller.h at a215a3e97fa89f719fcb28cc00b693f614be4ed4 · flutter/engine
+https://github.com/flutter/engine/blob/a215a3e97fa89f719fcb28cc00b693f614be4ed4/impeller/display_list/dl_image_impeller.h#L15
+
+504 Gateway Time-out
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=partying&op=translate
+
+vscode/src/vs/workbench/contrib/terminalContrib/history/browser/terminalRunRecentQuickPick.ts at 6f2d4781e857a550b7e9b05d40b969c840e264db · microsoft/vscode
+https://github.com/microsoft/vscode/blob/6f2d4781e857a550b7e9b05d40b969c840e264db/src/vs/workbench/contrib/terminalContrib/history/browser/terminalRunRecentQuickPick.ts#L200
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor
+
+First draft of cuss crate by raphlinus · Pull Request #75 · linebender/xilem
+https://github.com/linebender/xilem/pull/75/files#diff-eeb5bd01ebdfde885020f3a027c4de3304f15f7d095916645b935891bfe558c1
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Problem loading page
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+QQ Mail
+https://wx.mail.qq.com/home/index?sid=zdV6cYykWDcu6EEzAK5yaAAA#/compose/new
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+IPDL: Inter-Thread and Inter-Process Message Passing — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/ipc/ipdl.html
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-limits
+
+(45) Don't Use JS for That: Moving Features to CSS and HTML by Kilian Valkhof - YouTube
+https://www.youtube.com/watch?v=IP_rtWEMR0o
+
+Element | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://web.archive.org/web/20240613070602/https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux#no1
+
+Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.
+https://www.worldtimebuddy.com/
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+(35) Discord | #off-topic-discussion | Lutris
+https://discord.com/channels/512538904872747018/538911003497201674
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+zed/docs/src/development/windows.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/docs/src/development/windows.md
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+SSH Remoting | Hacker News
+https://news.ycombinator.com/item?id=42004206
+
+Architecture · OrbStack Docs
+https://docs.orbstack.dev/architecture#linux-machines
+
+orbstack/orbstack: Fast, light, simple Docker containers & Linux machines
+https://github.com/orbstack/orbstack
+
+debugpy - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=debugpy
+
+microsoft/debugpy: An implementation of the Debug Adapter Protocol for Python
+https://github.com/microsoft/debugpy
+
+The First International Conference in AI Music Studies | aimusicstudies2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+(44) Interview With A Sr JavaScript Dev | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=6SNQlSRAqAY
+
+(45) React Native Just Got 550% Faster - YouTube
+https://www.youtube.com/watch?v=G1gyNV7mp5E
+
+ferrumC github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ferrumC+github
+
+FerrumC
+https://github.com/ferrumc-rs
+
+pumpkin mc github - Google 搜索
+https://www.google.com.hk/search?q=pumpkin+mc+github&newwindow=1&client=ubuntu-sn&hs=XfT&sca_esv=b83ae7c870d94983&channel=fs&ei=FJYlZ4SZN43UkPIPsNKXoAw&ved=0ahUKEwiE88Gq1LyJAxUNKkQIHTDpBcQQ4dUDCA8&uact=5&oq=pumpkin+mc+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXB1bXBraW4gbWMgZ2l0aHViMgkQABiwAxgHGB4yCRAAGLADGAgYHjIIEAAYgAQYsAMyCxAAGIAEGLADGMcDMgkQABiwAxgIGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEj6EVDaD1i6EXABeACQAQCYAY8CoAGPAqoBAzItMbgBA8gBAPgBAZgCAaACCZgDAIgGAZAGCpIHATGgB-YD&sclient=gws-wiz-serp
+
+Snowiiii/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Snowiiii/Pumpkin/issues/26
+
+Quick Start | Pumpkin
+https://snowiiii.github.io/Pumpkin/about/quick-start.html
+
+Pumpkin: How does it perform at 300 moving bots ? : r/rust
+https://www.reddit.com/r/rust/comments/1evhurt/pumpkin_how_does_it_perform_at_300_moving_bots/
+
+spidermonkey_servo/README.md at e142d038be3533d37393aadfb12409011c8399a1 · gterzian/spidermonkey_servo
+https://github.com/gterzian/spidermonkey_servo/blob/e142d038be3533d37393aadfb12409011c8399a1/README.md#prior-art-jsi-and-react-native
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+Issues · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL/issues?q=is%3Aissue+is%3Aopen+Pumpkin+
+
+github Sunshine nvidia - Google 搜索
+https://www.google.com.hk/search?q=github+Sunshine+nvidia&newwindow=1&client=ubuntu-sn&hs=BhV&sca_esv=b83ae7c870d94983&channel=fs&ei=gbQlZ6WOD7TNkPIPmfKkwAw&ved=0ahUKEwjl0qSs8byJAxW0JkQIHRk5CcgQ4dUDCA8&uact=5&oq=github+Sunshine+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdpdGh1YiBTdW5zaGluZSBudmlkaWEyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApI0g5Q_wJY2w1wAXgBkAEAmAGkAqAByQqqAQMyLTW4AQPIAQD4AQGYAgagAugKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUxLjAuNaAHsAs&sclient=gws-wiz-serp
+
+Code search results
+https://github.com/search?q=repo%3ALizardByte%2FSunshine%20sudo%20apt&type=code
+
+LizardByte/Sunshine: Self-hosted game stream host for Moonlight.
+https://github.com/LizardByte/Sunshine
+
+code editor in zeg - Google 搜索
+https://www.google.com.hk/search?q=code+editor+in+zeg&newwindow=1&client=ubuntu-sn&hs=Woo&sca_esv=b6652a83a08e5308&channel=fs&ei=lNMmZ8HfF7PBkPIPpeu--Q0&ved=0ahUKEwjB-cuPg7-JAxWzIEQIHaW1L98Q4dUDCA8&uact=5&oq=code+editor+in+zeg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmNvZGUgZWRpdG9yIGluIHplZzIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRI0wxQ9whY7AlwAXgBkAEAmAHdAqAB8QSqAQUyLTEuMbgBA8gBAPgBAZgCAqAC8ALCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB7ME&sclient=gws-wiz-serp
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+CPython
+https://github.com/cpython
+
+informalsystems/quint: An executable specification language with delightful tooling based on the temporal logic of actions (TLA)
+https://github.com/informalsystems/quint
+
+We're forking Flutter | Hacker News
+https://news.ycombinator.com/item?id=41975047
+
+flock github flutter - Google 搜索
+https://www.google.com.hk/search?q=flock+github+flutter&newwindow=1&client=ubuntu-sn&hs=Pqf&sca_esv=f9fa188a74abf180&channel=fs&ei=NYMnZ4_NJZjckPIPhe24yAw&ved=0ahUKEwjPu-POqsCJAxUYLkQIHYU2DskQ4dUDCA8&uact=5&oq=flock+github+flutter&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGZsb2NrIGdpdGh1YiBmbHV0dGVyMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSJ0ZUKENWMUXcAF4AZABAJgBiQOgAZsRqgEDMy02uAEDyAEA-AEBmAIHoALDEcICChAAGLADGNYEGEfCAgQQABgewgIGEAAYHhgPwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGBJIHBTEuMy02oAe8Dg&sclient=gws-wiz-serp
+
+Flock
+https://github.com/join-the-flock
+
+Steven Skiena - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Steven+Skiena
+
+where is cursor chat history - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=where+is+cursor+chat+history+
+
+Chat history folder - How To - Cursor Community Forum
+https://forum.cursor.com/t/chat-history-folder/7653/2
+
+cursor-chat-export/config.yml at main · somogyijanos/cursor-chat-export
+https://github.com/somogyijanos/cursor-chat-export/blob/main/config.yml
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Roadmap/Priorities · Issue #109 · servo/project
+https://github.com/servo/project/issues/109
+
+sosukesuzuki (SUZUKI Sosuke)
+https://github.com/sosukesuzuki
+
+ubie - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ubie
+
+livekit/livekit: End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/livekit/livekit
+
+livekit-examples/livestream
+https://github.com/livekit-examples/livestream
+
+Discover — Bluesky
+https://bsky.app/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=bsky.app&sort=byPopularity&type=story
+
+Martin Kleppmann (@martin.kleppmann.com) — Bluesky
+https://bsky.app/profile/martin.kleppmann.com
+
+bluesky github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bluesky+github
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app?tab=readme-ov-file
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun%20NPM_CONFIG_REGISTRY&type=code
+
 # 2024-11-3
 
 xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

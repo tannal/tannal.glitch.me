@@ -2,6 +2,14 @@
 
 # 2024-11-3
 
+zip -r 计算机科学与技术-2024103289-谭盟.zip . -x "books/*" -x "data/*" -x ".git/*" -x "soundexamples/*" -x "metadata/*"
+
+If you taught children music by giving them the written scores for Mozart or
+Michael Jackson to decipher without their ever having heard it played, music
+would be as universally hated as math.
+
+https://chromium.slack.com/
+
 ~/.config/Cursor/User/workspaceStorage/f7439f96971934f995015340ea546c71$ 
 sqlite3 ~/.config/Cursor/User/globalStorage/state.vscdb 
 
