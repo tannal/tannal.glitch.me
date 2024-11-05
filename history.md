@@ -1,4 +1,141 @@
 
+# 2024-11-5
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Servo TSC Meeting October 2024 · Issue #105 · servo/project
+https://github.com/servo/project/issues/105
+
+github.com
+https://github.com/TobyAsE/Serenity-CSS-properties
+
+Compare Ladybirds CSS support to most used
+https://css.tobyase.de/
+
+html-midi-player | Play and display MIDI files online
+https://cifkao.github.io/html-midi-player/
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+servo.zulipchat.com
+https://servo.zulipchat.com/#reload:303033438060
+
+github.com
+https://github.com/servo/book/pull/27/files
+
+github.com
+https://github.com/servo/servo/pull/33613#pullrequestreview-2343079696
+
+Presentation.tla
+https://gist.github.com/gterzian/aa5d96a89db280017b04917eee67f6ac
+
+Servo TSC Meeting October 2024 · Issue #105 · servo/project
+https://github.com/servo/project/issues/105
+
+github.com
+https://github.com/jitsi
+
+github.com
+https://github.com/search?q=org%3Aservo+electron&type=issues
+
+github.com
+https://github.com/servo/servo/issues/7379
+
+www.google.com.hk
+https://www.google.com.hk/search?q=chromium+embedded+framework&newwindow=1&sca_esv=977fe9b89071f032&rlz=1C1GCEA_enJP1090JP1090&ei=irsfZ9f8LPn3kPIP9ZfpmAw&ved=0ahUKEwjX6aabv7GJAxX5O0QIHfVLGsMQ4dUDCA8&uact=5&oq=chromium+embedded+framework&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2Nocm9taXVtIGVtYmVkZGVkIGZyYW1ld29yazIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImB1Q4RZYqhhwAXgBkAEAmAHrAqAB0gWqAQMzLTK4AQPIAQD4AQGYAgKgAu8CwgIKEAAYsAMY1gQYR5gDAOIDBRIBMSBAiAYBkAYKkgcFMS4zLTGgB-oG&sclient=gws-wiz-serp
+
+github.com
+https://github.com/chromiumembedded/cef
+
+github.com
+https://github.com/chromiumembedded/cef/issues
+
+www.google.com.hk
+https://www.google.com.hk/search?q=webassembly+gui+framework&rlz=1C1GCEA_enJP1090JP1090&oq=webassembly+gui&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB4yBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yCAgFEAAYBRgeMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYBRgeMggICRAAGAUYHtIBCDU4NDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Do any GUI frameworks support WASM? I've been looking for a way to run GUI appli... | Hacker News
+https://news.ycombinator.com/item?id=38860946
+
+Predicting an enormous waste of time building UI frameworks with WASM and WebGPU | Hacker News
+https://news.ycombinator.com/item?id=33730173
+
+What is .NET MAUI? - .NET MAUI | Microsoft Learn
+https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0&viewFallbackFrom=net-maui-7.0
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+www.google.com.hk
+https://www.google.com.hk/search?q=gosim+china+2024+youtube&rlz=1C1GCEA_enJP1090JP1090&oq=gosim+china+2024+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDU0MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(46) 【Piano Cover】周杰倫 Jay Chou - 青花瓷｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=pzdPd6J51V8&list=RDXLWdknMr1ys&index=10
+
+poe.com
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+周杰倫【安靜】钢琴伴奏谱 - 自弹自唱 钢琴教学 | Jay Chou [Silence] Piano accompaniment Tutorial & Sheet - YouTube
+https://www.youtube.com/watch?v=8DHPwnkRFFo
+
+(1361) #checkins > Aaron Muir Hamilton - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197474-checkins/topic/Aaron.20Muir.20Hamilton
+
+Google Meet
+https://meet.google.com/landing
+
+Office Hours 2024-10-31 - Google 文档
+https://docs.google.com/document/d/1FW31dsNUbUfiPMzxgSyVFpFtCkl0oF3SvhBfnl62d3k/edit?tab=t.0#heading=h.evjimzdnrevx
+
+CSS Color Module Level 4
+https://www.w3.org/TR/css-color-4/
+
+color - crates.io: Rust Package Registry
+https://crates.io/crates/color
+
+Pull request search results
+https://github.com/search?q=org%3Alinebender+-author%3Adjmcnab+-author%3Araphlinus+-author%3Aarmansito+-author%3APhilipp-M+-author%3Awaywardmonkeys+-author%3APoignardAzur+-author%3Asimbleau+-author%3Anicoburns+-author%3Ajaredoconnell+-author%3Aazymohliad+-author%3Adfrg+-author%3Adependabot%5Bbot%5D+-author%3AxStrom+-author%3Axorgy&type=pullrequests&s=created&o=desc
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152/files
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=antimodel&op=translate
+
+Bug 1922163 - Table element align attribute mapped to float as per sp… · mozilla/gecko-dev@802a017
+https://github.com/mozilla/gecko-dev/commit/802a0177d086d9118baa446e6a2ca44a5cde76e6
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+gelar github timer - Google 搜索
+https://www.google.com.hk/search?q=gelar+github+timer&rlz=1C1GCEA_enJP1090JP1090&oq=gelar+github+timer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDg4NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+arrogant - Google 搜索
+https://www.google.com.hk/search?q=arrogant&rlz=1C1GCEA_enJP1090JP1090&oq=arrogant&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI1MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cursor blinking mac - Google 搜索
+https://www.google.com.hk/search?q=cursor+blinking+mac&rlz=1C1GCEA_enJP1090JP1090&oq=cursor+blinking+mac&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIHCAUQABiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMDc5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Index of /
+http://10.106.146.44:8085/
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+http://web.fscloud.cc/#/dashboard
+
+www.google.com
+https://www.google.com/search?q=cursor&rlz=1C1GCEA_enJP1090JP1090&oq=cursor+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPTIGCAQQRRg90gEIMTg5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+登录 – Nextcloud
+http://10.106.146.44:8081/login?redirect_url=/call/bar6x255
+
 # 2024-11-4
 
 xi.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
