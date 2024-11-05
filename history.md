@@ -1,6 +1,48 @@
 
 # 2024-11-5
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+安装失败 安装包异常 oppo - Google 搜索
+https://www.google.com.hk/search?q=%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5+%E5%AE%89%E8%A3%85%E5%8C%85%E5%BC%82%E5%B8%B8+oppo&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5+%E5%AE%89%E8%A3%85%E5%8C%85%E5%BC%82%E5%B8%B8+oppo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiiBBiJBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDgyODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+windows 11 代理配置不上？ - Google 搜索
+https://www.google.com.hk/search?q=windows+11+%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE%E4%B8%8D%E4%B8%8A%EF%BC%9F&rlz=1C1GCEA_enCN1091CN1091&oq=windows+11+%E4%BB%A3%E7%90%86%E9%85%8D%E7%BD%AE%E4%B8%8D%E4%B8%8A%EF%BC%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQ5OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+windows11 22H2无法连接任何代理 - Microsoft Community
+https://answers.microsoft.com/zh-hans/windows/forum/all/windows11/3a9c6f47-8572-42e4-860e-8756aed67416
+
+windows 11 23h2 代理 - Google 搜索
+https://www.google.com.hk/search?q=windows+11+23h2+%E4%BB%A3%E7%90%86&rlz=1C1GCEA_enCN1091CN1091&oq=windows+11+23h2+%E4%BB%A3%E7%90%86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+在 Windows 11 上设置代理：逐步说明
+https://proxys.io/zh/blog/proxy-settings/windows-11-proxy-zh
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+www.google.com
+https://www.google.com/
+
+(2) Search results for query: complete-css
+https://tutflix.org/search/2830273/?q=complete-css&o=date
+
+u boot 树莓派 裸机 hdmi 显示器 - Google 搜索
+https://www.google.com.hk/search?q=u+boot+%E6%A0%91%E8%8E%93%E6%B4%BE+%E8%A3%B8%E6%9C%BA+hdmi+%E6%98%BE%E7%A4%BA%E5%99%A8&newwindow=1&sca_esv=86ba961531420a8b&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKKQisMp7SLBH3cS8hqKMbjxj3gHg%3A1730795933292&ei=ndkpZ96_EYbjwN4P2YCG8AQ&ved=0ahUKEwiegqGm5cSJAxWGMdAFHVmAAU4Q4dUDCA8&uact=5&oq=u+boot+%E6%A0%91%E8%8E%93%E6%B4%BE+%E8%A3%B8%E6%9C%BA+hdmi+%E6%98%BE%E7%A4%BA%E5%99%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiJnUgYm9vdCDmoJHojpPmtL4g6KO45py6IGhkbWkg5pi-56S65ZmoSNwaUOEFWLwXcAF4AJABAZgBgAOgAdEfqgEGMi0xLjExuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAfUBw&sclient=gws-wiz-serp
+
+SmartCat's Blog
+https://smartcat.online/page.aspx?id=3475
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+linux md5 ubuntu - Google 搜索
+https://www.google.com/search?q=linux+md5+ubuntu&rlz=1C1GCEA_enCN1091CN1091&oq=linux+md5+ubuntu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY4NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+linux md5_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=linux%20md5%20&fenlei=256&rsv_pq=0xa0d5f0dd00043f2c&rsv_t=a9d7S4REHt1cT%2FvqfLvhopOVCoNiNisjkssTQcIlI4%2BeQNkg123eNT1AZdrI&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=13&rsv_sug1=13&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=linux%2520md5%2520&rsp=3&inputT=7379&rsv_sug4=7379
+
 inbox.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
 https://github.dev/tannal/tannal.glitch.me
 
