@@ -60,6 +60,18 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 # desktop
 
+## linux
+
+make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- -j$(nproc)
+
+## u-boot
+
+sd.img drive
+
+## jitsi-meet
+
+bun install
+
 ## circle
 
 ## llvm-project
@@ -77,6 +89,39 @@ yarn config set https-proxy http://10.90.92.225:7890
 ## node-new
 
 ## bun
+
+https://github.com/oven-sh/bun/pull/11917
+
+fetch] handleResponseMetadata: content_length is null and transfer_encoding src.http.Encoding.identity
+src.install.install.PackageManager.runTasks__anon_146165
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:6768:87
+
+src.install.install.PackageManager.installWithManager__anon_82882__struct_83392.runAndWaitFn__anon_83395__struct_105788.isDone
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:14337:42
+
+src.bun.js.event_loop.MiniEventLoop.tick__anon_162824
+/home/tannal/tannalwork/projects/bun/src/bun.js/event_loop.zig:1909:23
+
+src.bun.js.event_loop.AnyEventLoop.tick__anon_146167
+/home/tannal/tannalwork/projects/bun/src/bun.js/event_loop.zig:2084:31
+
+src.install.install.PackageManager.sleepUntil__anon_123853
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:3106:29
+
+src.install.install.PackageManager.installWithManager__anon_82882__struct_83392.runAndWaitFn__anon_83395__struct_105788.runAndWait
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:14380:44
+
+src.install.install.PackageManager.installWithManager__anon_82882
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:14399:49
+
+src.install.install.PackageManager.install
+/home/tannal/tannalwork/projects/bun/src/install/install.zig:11960:66
+
+src.cli.install_command.InstallCommand.exec
+/home/tannal/tannalwork/projects/bun/src/cli/install_command.zig:7:31
+
+src.cli.Command.start
+/home/tannal/tannalwork/projects/bun/src/cli.zig:1691:40
 
 bun-debug
 

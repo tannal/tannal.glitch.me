@@ -1150,7 +1150,7 @@ tannal@desktop:~/tannalwork/projects/gecko$ tokei .
  |- HTML                35          710          668           20           22
  |- INI                  7           33           31            0            2
  |- Java                 8          140          113           18            9
- |- JavaScript          31         1038          782          170           86
+ |- JavaScript          31         103 8          782          170           86
  |- JSON                56         1639         1635            0            4
  |- Kotlin              58         3150         2294          547          309
  |- Markdown             2           16            0           12            4

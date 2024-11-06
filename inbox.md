@@ -3,9 +3,9 @@
 
 # U-Boot 命令
 mmc dev 0
-fatload mmc 0:1 ${kernel_addr_r} Image
+fatload mmc 0 ${kernel_addr_r} Image
 # 如果有设备树文件
-fatload mmc 0:1 ${fdt_addr_r} bcm2710-rpi-3-b-plus.dtb
+fatload mmc 0 ${fdt_addr_r} bcm2710-rpi-3-b-plus.dtb
 # 启动内核
 booti ${kernel_addr_r} - ${fdt_addr_r}
 

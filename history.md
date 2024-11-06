@@ -1,4 +1,169 @@
 
+# 2024-11-6
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+bun install with Gitlab repository in dependencies not working · Issue #4068 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/4068
+
+Emulating Raspberry Pi 4 with Qemu
+https://gist.github.com/cGandom/23764ad5517c8ec1d7cd904b923ad863
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Project List - Patchwork
+https://patchwork.kernel.org/
+
+u-boot/u-boot: "Das U-Boot" Source Tree
+https://github.com/u-boot/u-boot
+
+nihalpasham/rustBoot: rustBoot is a standalone bootloader written entirely in `Rust`, designed to run on anything from a microcontroller to a system on chip. It can be used to boot into bare-metal firmware or Linux.
+https://github.com/nihalpasham/rustBoot
+
+shinpei0208/gdev: First-Class GPU Resource Management: Device Drivers, Runtimes, and CUDA Compilers for Nouveau.
+https://github.com/shinpei0208/gdev
+
+Parallel and Distributed Systems Lab - PDSL
+https://www.pdsl.jp/
+
+linux/drivers/gpu/drm/nouveau/nouveau_drm.c at master · torvalds/linux
+https://github.com/torvalds/linux/blob/master/drivers/gpu/drm/nouveau/nouveau_drm.c
+
+Issue search results
+https://github.com/search?q=repo%3Aalacritty%2Falacritty+opengl&type=issues
+
+Code search results
+https://github.com/search?q=repo%3Akovidgoyal%2Fkitty%20opengl&type=code
+
+Mozilla is eliminating its advocacy division | Hacker News
+https://news.ycombinator.com/item?id=42055979
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun+libclang_rt.ubsan_standalone.a&type=code
+
+Code search results
+https://github.com/search?q=%22DRIVER_GEM+%7C+DRIVER_MODESET+%7C+DRIVER_PRIME%22&type=code&p=3
+
+Issues · utsaslab/chipmunk
+https://github.com/utsaslab/chipmunk/issues
+
+UT SaSLab
+https://utsaslab.cs.utexas.edu/#section-people
+
+utsaslab/pebblesdb: The PebblesDB write-optimized key-value store (SOSP 17)
+https://github.com/utsaslab/pebblesdb
+
+Get Rust code linking in with filament · google/filament@133c5ff
+https://github.com/google/filament/commit/133c5ff08735f99553da6ac644f4c16f9df10101#diff-a12387578cdfed7739ec6ed9df692a58bcd1b16888bcf3183fbc7ca6772711b0L57-R129
+
+Populate first draft of color crate by raphlinus · Pull Request #3 · linebender/color
+https://github.com/linebender/color/pull/3
+
+Inside Flutter | Flutter
+https://docs.flutter.dev/resources/inside-flutter
+
+sfshaza2 (Shams Zakhour (ignore Sfshaza))
+https://github.com/sfshaza2
+
+Following — Bluesky
+https://bsky.app/
+
+(47) Raw dogging linux graphics (DRM) - YouTube
+https://www.youtube.com/watch?v=B8xHWwCuxKA
+
+[webpack-cli] TypeError: cli.isMultipleCompiler is not a function · Issue #15951 · webpack/webpack
+https://github.com/webpack/webpack/issues/15951
+
+Jitsi Meet
+https://127.0.0.1:8080/
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+UOX3DevTeam/UOX3 at feature/spidermonkey-esr115
+https://github.com/UOX3DevTeam/UOX3/tree/feature/spidermonkey-esr115
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+(43) Discord | #announcements | ThePrimeagen
+https://discord.com/channels/478925420616482816/741155222176661514
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+Bluesky announces data federation for self hosters | Hacker News
+https://news.ycombinator.com/item?id=39471116
+
+Bluesky user own this data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Bluesky+user+own+this+data
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+nodejs-build（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C03BJP63CH0
+
+Running Your Own Bluesky | Hacker News
+https://news.ycombinator.com/item?id=42009212
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+elk-zone/elk: A nimble Mastodon web client
+https://github.com/elk-zone/elk
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2540tannal%253A%7E%252Ftannalwork%252Fprojects%252Fsocial-app%2524%2520yarn%250Ayarn%2520install%2520v1.22.19%250A%255B1%252F5%255D%2520Validating%2520package.json...%250A%255B2%252F5%255D%2520Resolving%2520packages...%250Awarning%2520Resolution%2520field%2520%2522%2540radix-ui%252Freact-focus-scope%25401.1.0%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540radix-ui%252Freact-focus-scope%25401.0.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%7E0.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%25400.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522expo-constants%254016.0.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-constants%2540%255E13.0.2%2522%250Awarning%2520Resolution%2520field%2520%2522expo-device%25406.0.2%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-device%2540%7E4.1.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%255E0.73.18%2522%250A%255B3%252F5%255D%2520Fetching%2520packages...%250A%255B4%252F5%255D%2520Linking%2520dependencies...%250Awarning%2520%2522%2520%253E%2520%2540discord%252Fbottom-sheet%25404.6.1%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522%2540shopify%252Fflash-list%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fwebpack-config%254019.0.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522expo%2540%255E49.0.7%2522.%250Awarning%2520%2522%2520%253E%2520%2540tanstack%252Freact-query-persist-client%25405.25.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522%2540tanstack%252Freact-query%2540%255E5.25.0%2522.%250Awarning%2520%2522expo-splash-screen%2520%253E%2520%2540expo%252Fprebuild-config%25407.0.3%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540%253E%253D0.8.1%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native%25400.72.6%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-gesture-handler%2540%7E2.12.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-reanimated%2540%7E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-web-webview%25401.0.2%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522file-loader%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-module-scripts%2540%255E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540
+
+it works on my machine meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=RjG&sca_esv=1de901faed03aeba&channel=fs&q=it+works+on+my+machine+meme&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvT6d1vMap-MzuosHXDsIz-SLKhjyxQZgconEfxPMICVwO5Vyv3vd_-k8V09ohwogZcIzAauvlo7GPWDfhUKJKcyoFMuZveOh1Ikjrz8l_xoU0uO3U&sa=X&ved=2ahUKEwj-3PjwksKJAxXJG9AFHbwfGfoQ0pQJegQIEhAB&biw=1850&bih=968&dpr=1#vhid=rTzTQGVn1vbM7M&vssid=_0HYoZ9WBMt6-p84PkcirIA_33
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?q=elon+meme&newwindow=1&client=ubuntu-sn&hs=w5v&sca_esv=1de901faed03aeba&channel=fs&udm=2&biw=1850&bih=968&ei=N3coZ8inKO7Bp84PvZH9gAU&ved=0ahUKEwiIn_Sok8KJAxXu4MkDHb1IH1AQ4dUDCBA&uact=5&oq=elon+meme&gs_lp=EgNpbWciCWVsb24gbWVtZTIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIIEAAYChgMGB5InwlQBFiwB3AAeACQAQCYAZgCoAGTCqoBAzItNbgBA8gBAPgBAZgCBKACrgiYAwCIBgGSBwMyLTSgB-QM&sclient=img
+
+FOSS Release · Issue #2222 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/issues/2222
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Lemmy - Browse servers
+https://join-lemmy.org/instances?topic=music&language=ja&scroll=true
+
+US election 2024 results: When will we know who won?
+https://www.bbc.com/news/articles/cde7ng85jwgo
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`bun install ` can only add a dependency from a `github` repository · Issue #10559 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10559
+
+fix(install): use ssh keys for private git repos by Eckhardt-D · Pull Request #11917 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11917
+
+
 # 2024-11-5
 
 makepad Analysis - Poe
