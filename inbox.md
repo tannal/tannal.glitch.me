@@ -1,8 +1,44 @@
 
 # 2024-11-6
 
+# U-Boot 命令
+mmc dev 0
+fatload mmc 0:1 ${kernel_addr_r} Image
+# 如果有设备树文件
+fatload mmc 0:1 ${fdt_addr_r} bcm2710-rpi-3-b-plus.dtb
+# 启动内核
+booti ${kernel_addr_r} - ${fdt_addr_r}
+
+make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- defconfig
+make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- -j$(nproc)
+
+# 1. 创建镜像文件
+dd if=/dev/zero of=sd.img bs=1M count=1024
+
+# 2. 使用 parted 创建分区表和分区
+sudo parted sd.img mklabel msdos
+sudo parted sd.img mkpart primary fat32 1MiB 100%
+
+# 3. 设置回环设备
+sudo losetup -fP --show sd.img  # 这会自动创建分区设备
+
+# 4. 格式化分区
+sudo mkfs.fat -F 32 /dev/loop34
+
+# 5. 挂载并添加一些基本文件（可选）
+sudo mkdir -p /mnt/sd
+sudo mount /dev/loop34 /mnt/sd
+
+# 可以在这里添加文件
+# sudo cp some_file /mnt/sd/
+
+# 6. 卸载并清理
+sudo umount /mnt/sd
+sudo losetup -d /dev/loop34
+
 setenv kernel_addr 0x80000
 fatload mmc 0 ${kernel_addr} kernel8.img
+fatload mmc 0 ${kernel_addr} bzImage
 go ${kernel_addr}
 
 
