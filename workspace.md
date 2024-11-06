@@ -61,7 +61,6 @@ yarn config set https-proxy http://10.90.92.225:7890
 # desktop
 
 
-
 ## WasmEdge
 
 ## Wasmtime
@@ -75,6 +74,8 @@ yarn config set https-proxy http://10.90.92.225:7890
 ## node-new
 
 ## bun
+
+bun-debug
 
 ## src
 

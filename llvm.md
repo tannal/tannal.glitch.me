@@ -1,6 +1,6 @@
 # inbox
 
-cmake -S llvm  -DCMAKE_INSTALL_PREFIX=/usr/local=/opt/llvm/ -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld'     -DCMAKE_BUILD_TYPE=Release \
+cmake -S llvm  -DCMAKE_INSTALL_PREFIX=/usr/local=/opt/llvm/ -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE=Release \
     -DLLVM_BUILD_LLVM_DYLIB=ON \
     -DLLVM_LINK_LLVM_DYLIB=ON \
     -DCMAKE_INSTALL_PREFIX=/opt/llvm \
