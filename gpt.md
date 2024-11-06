@@ -1,4 +1,13 @@
 
+texstudio - LaTeX 编辑器
+mlpack - 机器学习库
+libcvd - 计算机视觉库
+PGD - 图论算法库
+DBoW2 - 视觉词袋库
+3. 这些引用通常出现在：
+头文件注释中
+文档字符串中
+算法实现的参考文献中
 
 让我来解释一下 AT Protocol (ATP) 与传统 Web 的区别：
 传统 Web 模式

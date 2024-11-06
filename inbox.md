@@ -7,8 +7,7 @@ go ${kernel_addr}
 
 
 
-qemu-system-aarch64 -M raspi3b -nographic -kernel u-boot.bin -dtb bcm2710-rpi-3-b-plus.dtb
-
+qemu-system-aarch64     -M raspi3b     -kernel u-boot.bin     -dtb bcm2710-rpi-3-b-plus.dtb     -drive file=sd.img,if=sd,format=raw     -serial mon:stdio     -device usb-kbd     -device usb-mouse     -display default  -d in_asm
 # 2024-11-5
 
 
