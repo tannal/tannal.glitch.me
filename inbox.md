@@ -1,6 +1,10 @@
 
 # 2024-11-6
 
+setenv kernel_addr 0x80000
+fatload mmc 0 ${kernel_addr} kernel8.img
+go ${kernel_addr}
+
 
 
 qemu-system-aarch64 -M raspi3b -nographic -kernel u-boot.bin -dtb bcm2710-rpi-3-b-plus.dtb
