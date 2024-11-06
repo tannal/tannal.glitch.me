@@ -60,6 +60,9 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 # desktop
 
+## circle
+
+## llvm-project
 
 ## WasmEdge
 
