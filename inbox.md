@@ -1,4 +1,13 @@
 
+# 2024-11-6
+
+
+
+qemu-system-aarch64 -M raspi3b -nographic -kernel u-boot.bin -dtb bcm2710-rpi-3-b-plus.dtb
+
+# 2024-11-5
+
+
 # 2024-11-4
 
 364.265625
