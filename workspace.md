@@ -142,11 +142,22 @@ bun-debug
 ## gecko
 
 - On branch cookie-count
+LazyLogModule
 [] fix failing tests
 https://bugzilla.mozilla.org/show_bug.cgi?id=1845870
+./mach mochitest -f browser netwerk/test/browser/browser*cookie* --headless
+./mach gtest TestCookie.*
+
+./mach run https://example.org/
+
+export MOZ_LOG="cookie:3"
+
+
+https://treeherder.mozilla.org/jobs?repo=try
 
 - On branch 
 [] remove meidia query
+
 
 ## WebKit
 

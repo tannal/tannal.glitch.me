@@ -1,4 +1,195 @@
 
+# 2024-11-7
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=dissonance%20&op=translate
+
+kiwi - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=kiwi
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+Jean-Pierre Serre - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Jean-Pierre+Serre
+
+讓-皮埃爾·塞爾 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%AE%93-%E7%9A%AE%E5%9F%83%E7%88%BE%C2%B7%E5%A1%9E%E7%88%BE
+
+亚历山大·格罗滕迪克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%A0%BC%E7%BD%97%E6%BB%95%E8%BF%AA%E5%85%8B#%E5%AD%A6%E6%9C%AF%E7%94%9F%E6%B6%AF
+
+格列戈里·马尔古利斯 - Google 搜索
+https://www.google.com/search?q=%E6%A0%BC%E5%88%97%E6%88%88%E9%87%8C%C2%B7%E9%A9%AC%E5%B0%94%E5%8F%A4%E5%88%A9%E6%96%AF&sca_esv=f58891cc94206bbf&sxsrf=ADLYWIJbtDYP4r2TEfSgNGFwqC2GPHFxoQ%3A1730949161565&source=hp&ei=KTAsZ4D1H8ir4-EP59XW8Ag&iflsig=AL9hbdgAAAAAZyw-OTsS3VXXPml2usvwcWtWQyXavlFO&ved=0ahUKEwjArZaPoMmJAxXI1TgGHeeqFY4Q4dUDCBY&uact=5&oq=%E6%A0%BC%E5%88%97%E6%88%88%E9%87%8C%C2%B7%E9%A9%AC%E5%B0%94%E5%8F%A4%E5%88%A9%E6%96%AF&gs_lp=Egdnd3Mtd2l6Ih3moLzliJfmiIjph4zCt-mprOWwlOWPpOWIqeaWrzIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI9qsHUJqjB1iaowdwAXgAkAEAmAHZAaAB2QGqAQMyLTG4AQPIAQD4AQL4AQGYAgKgAusBqAIKwgIHECMYJxjqApgDCZIHBTEuMC4xoAf1AQ&sclient=gws-wiz
+
+zkwinkle.is-a.dev/uwgpu
+https://zkwinkle.is-a.dev/uwgpu/
+
+gitconfig
+https://gist.github.com/gnprice/5f71b63464a76bd7e0480f207b1bbff3
+
+Louis-le-Grand, - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+Louis-le-Grand%2C
+
+settings_users: Convert module to typescript. by evykassirer · Pull Request #32239 · zulip/zulip
+https://github.com/zulip/zulip/pull/32239/files
+
+Pierre Deligne - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+Pierre+Deligne
+
+庞加莱猜想 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BA%9E%E5%8A%A0%E8%8E%B1%E7%8C%9C%E6%83%B3
+
+Grigori Perelman - Google 搜索
+https://www.google.com/search?q=Grigori+Perelman&client=ubuntu-sn&hs=LBe&sca_esv=9c429154c95b1c4b&channel=fs&sxsrf=ADLYWILecaMZCHnGL8EcNbpg9R6KfgDn7Q%3A1730954111039&ei=f0MsZ--UApuSseMPsbO64AY&ved=0ahUKEwiv0KTHssmJAxUbSWwGHbGZDmwQ4dUDCA8&uact=5&oq=Grigori+Perelman&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEdyaWdvcmkgUGVyZWxtYW4yCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMhcQLhiABBjLARiXBRjcBBjeBBjgBNgBAUjgB1AAWABwAHgAkAEAmAGwAaABsAGqAQMwLjG4AQPIAQD4AQL4AQGYAgGgAr8BmAMAugYGCAEQARgUkgcDMC4xoAexBg&sclient=gws-wiz-serp
+
+(47) Coffee Compiler Club, 2024_11_01 - YouTube
+https://www.youtube.com/watch?v=NvOnAfCCR7w&t=401s
+
+(47) Programming Is DEAD In Corporations | Tsoding - YouTube
+https://www.youtube.com/watch?v=4GZdeWWraTs
+
+D227349: Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJswdRgXMMnJpmKTfGNpzzJnB
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152/files/ed532d2deed421b13be8772e7f9ae60bb9e661e8
+
+100% - [21] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=77d564820ea542fef72eb3700634712408e163b5&selectedTaskRun=DQbnB6XxQjqFiCxN6Ac2yw.0
+
+test_eviction.js - mozsearch
+https://searchfox.org/mozilla-central/source/netwerk/cookie/test/unit/test_eviction.js#59
+
+test_eviction.js - mozsearch
+https://searchfox.org/mozilla-central/source/netwerk/cookie/test/unit/test_eviction.js#108
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152/files
+
+[91] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Add explicit or zero constructor for `std::time::Instant` · Issue #40910 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/40910
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=d5prPwxNQMWy9wCTDAW91w.0
+
+1845870 - Cookie per host quota enforcement is off by one
+https://bugzilla.mozilla.org/show_bug.cgi?id=1845870
+
+ChatGGG
+http://192.168.43.1:8080/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [13] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+UOX3DevTeam/UOX3 at feature/spidermonkey-esr115
+https://github.com/UOX3DevTeam/UOX3/tree/feature/spidermonkey-esr115
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Duplicate session - Talk - Nextcloud
+http://10.106.146.44:8081/apps/spreed/duplicate-session
+
+(43) Discord | #announcements | ThePrimeagen
+https://discord.com/channels/478925420616482816/741155222176661514
+
+sertraline/zlibrary: Unofficial Z-Library API
+https://github.com/sertraline/zlibrary
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+Bluesky announces data federation for self hosters | Hacker News
+https://news.ycombinator.com/item?id=39471116
+
+Bluesky user own this data - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+Bluesky+user+own+this+data
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+* nodejs-build（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C03BJP63CH0
+
+Running Your Own Bluesky | Hacker News
+https://news.ycombinator.com/item?id=42009212
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+elk-zone/elk: A nimble Mastodon web client
+https://github.com/elk-zone/elk
+
+Carbon | Create and share beautiful images of your source code
+https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=%2540tannal%253A%7E%252Ftannalwork%252Fprojects%252Fsocial-app%2524%2520yarn%250Ayarn%2520install%2520v1.22.19%250A%255B1%252F5%255D%2520Validating%2520package.json...%250A%255B2%252F5%255D%2520Resolving%2520packages...%250Awarning%2520Resolution%2520field%2520%2522%2540radix-ui%252Freact-focus-scope%25401.1.0%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540radix-ui%252Freact-focus-scope%25401.0.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%7E0.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%25400.74.83%2522%250Awarning%2520Resolution%2520field%2520%2522expo-constants%254016.0.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-constants%2540%255E13.0.2%2522%250Awarning%2520Resolution%2520field%2520%2522expo-device%25406.0.2%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522expo-device%2540%7E4.1.1%2522%250Awarning%2520Resolution%2520field%2520%2522%2540react-native%252Fbabel-preset%25400.74.1%2522%2520is%2520incompatible%2520with%2520requested%2520version%2520%2522%2540react-native%252Fbabel-preset%2540%255E0.73.18%2522%250A%255B3%252F5%255D%2520Fetching%2520packages...%250A%255B4%252F5%255D%2520Linking%2520dependencies...%250Awarning%2520%2522%2520%253E%2520%2540discord%252Fbottom-sheet%25404.6.1%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522%2540shopify%252Fflash-list%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fwebpack-config%254019.0.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522expo%2540%255E49.0.7%2522.%250Awarning%2520%2522%2520%253E%2520%2540tanstack%252Freact-query-persist-client%25405.25.0%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522%2540tanstack%252Freact-query%2540%255E5.25.0%2522.%250Awarning%2520%2522expo-splash-screen%2520%253E%2520%2540expo%252Fprebuild-config%25407.0.3%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540%253E%253D0.8.1%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native%25400.72.6%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-gesture-handler%2540%7E2.12.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-drawer-layout%25404.0.0-alpha.3%2522%2520has%2520incorrect%2520peer%2520dependency%2520%2522react-native-reanimated%2540%7E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520react-native-web-webview%25401.0.2%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522file-loader%2540*%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-module-scripts%2540%255E3.3.0%2522.%250Awarning%2520%2522%2520%253E%2520%2540expo%252Fprebuild-config%25406.7.0%2522%2520has%2520unmet%2520peer%2520dependency%2520%2522expo-modules-autolinking%2540
+
+it works on my machine meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=RjG&sca_esv=1de901faed03aeba&channel=fs&q=it+works+on+my+machine+meme&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxvT6d1vMap-MzuosHXDsIz-SLKhjyxQZgconEfxPMICVwO5Vyv3vd_-k8V09ohwogZcIzAauvlo7GPWDfhUKJKcyoFMuZveOh1Ikjrz8l_xoU0uO3U&sa=X&ved=2ahUKEwj-3PjwksKJAxXJG9AFHbwfGfoQ0pQJegQIEhAB&biw=1850&bih=968&dpr=1#vhid=rTzTQGVn1vbM7M&vssid=_0HYoZ9WBMt6-p84PkcirIA_33
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?q=elon+meme&newwindow=1&client=ubuntu-sn&hs=w5v&sca_esv=1de901faed03aeba&channel=fs&udm=2&biw=1850&bih=968&ei=N3coZ8inKO7Bp84PvZH9gAU&ved=0ahUKEwiIn_Sok8KJAxXu4MkDHb1IH1AQ4dUDCBA&uact=5&oq=elon+meme&gs_lp=EgNpbWciCWVsb24gbWVtZTIFEAAYgAQyBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIIEAAYChgMGB5InwlQBFiwB3AAeACQAQCYAZgCoAGTCqoBAzItNbgBA8gBAPgBAZgCBKACrgiYAwCIBgGSBwMyLTSgB-QM&sclient=img
+
+FOSS Release · Issue #2222 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/issues/2222
+
+onnx/onnx: Open standard for machine learning interoperability
+https://github.com/onnx/onnx
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Lemmy - Browse servers
+https://join-lemmy.org/instances?topic=music&language=ja&scroll=true
+
+US election 2024 results: When will we know who won?
+https://www.bbc.com/news/articles/cde7ng85jwgo
+
+Note to self - Talk - Nextcloud
+http://10.106.146.44:8081/call/bar6x255
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`bun install ` can only add a dependency from a `github` repository · Issue #10559 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10559
+
+fix(install): use ssh keys for private git repos by Eckhardt-D · Pull Request #11917 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11917
+
 # 2024-11-6
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub

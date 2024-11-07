@@ -607,7 +607,7 @@ apply
 ## Social Activities
 
 [] text editor -> code editor blog
-[] 10-06 16:40 
+[] 11-06 16:40 
 [] 11-07 text editor code editor 11:45 
 [] 11.7 https://github.com/whatwg/html/issues/10734
 让我帮你计算:
@@ -619,7 +619,7 @@ apply
 简单记忆:
 北京时间 = PST + 16小时
 (即第二天凌晨,需要跨一天)
-[] Coffee Compiler Club 11-01
+[] Coffee Compiler Club 11-08
 [] 11-7 linebender office hour 23:00
 
 ## Action needed from Me TODO (don't need supervisor) 4

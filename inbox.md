@@ -1,6 +1,13 @@
 
 # 2024-11-7
 
+
+Progress is slow because the body needs time to transform itself. It doesn’t
+help to force it, which may end up hurting you. You just need to commit to a
+regular training schedule, keep your cool, keep going even when it seems you’re
+not making any progress. It’s like going to the speech or physical therapist,
+except you’re all alone and inside your head.
+
 Logic doesn’t help you think. It helps you find out where you’re thinking
 wrong.
 
