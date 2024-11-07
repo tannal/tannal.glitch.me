@@ -1,4 +1,9 @@
 
+# 2024-11-7
+
+Logic doesn’t help you think. It helps you find out where you’re thinking
+wrong.
+
 # 2024-11-6
 
 # U-Boot 命令

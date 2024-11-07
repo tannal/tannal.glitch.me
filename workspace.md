@@ -88,6 +88,18 @@ bun install
 
 ## node-new
 
+## jitsi-meet
+
+#errors_common_system_errors)
+<e> [webpack-dev-server] [HPM] Error occurred while proxying request 127.0.0.1:8080/hihao to https://alpha.jitsi.net/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)
+<e> [webpack-dev-server] [HPM] Error occurred while proxying request 127.0.0.1:8080/hihao to https://alpha.jitsi.net/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)
+<e> [webpack-dev-server] [HPM] Error occurred while proxying request 127.0.0.1:8080/hihao to https://alpha.jitsi.net/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)
+<e> [webpack-dev-server] [HPM] Error occurred while proxying request 127.0.0.1:8080/hihao to https://alpha.jitsi.net/ [ETIMEDOUT] (https://nodejs.org/api/errors.html#errors_common_system_errors)
+^C<i> [webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...
+<i> [webpack-dev-server] [HPM] server close signal received: closing proxy server
+
+tannal@desktop:~/tannalwork/projects/jitsi-meet$ 
+
 ## bun
 
 https://github.com/oven-sh/bun/pull/11917
