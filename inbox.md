@@ -1,6 +1,11 @@
 
+# 2024-11-8
+
+Note that addressing feedback on in-progress PRs should always take priority over starting a new PR.
+
 # 2024-11-7
 
+29344821233@qq.com
 
 Progress is slow because the body needs time to transform itself. It doesn’t
 help to force it, which may end up hurting you. You just need to commit to a

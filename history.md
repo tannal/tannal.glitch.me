@@ -1,4 +1,159 @@
 
+# 2024-11-8
+
+history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
+https://github.dev/tannal/tannal.glitch.me
+
+John Regehr's Home Page
+https://users.cs.utah.edu/~regehr/#teaching
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Note to self - Talk - Nextcloud
+http://localhost:8081/call/bar6x255
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+all.js - mozsearch
+https://searchfox.org/mozilla-central/source/modules/libpref/init/all.js#1469
+
+MenloDorian (Mark Lam)
+https://github.com/MenloDorian
+
+(47) Lecture 01 - Linux Memory Allocation (continued) - YouTube
+https://www.youtube.com/watch?v=4ZZdavdarM0&t=129s
+
+(47) Cliff Does Coding - YouTube
+https://www.youtube.com/watch?v=MnuO-Ouru94
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Compiler Explorer
+https://rust.godbolt.org/z/8qs9s51hT
+
+instruction_tables.pdf
+https://www.agner.org/optimize/instruction_tables.pdf
+
+Issues · jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet/issues?page=2&q=is%3Aissue+is%3Aopen
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+Dudu Companheiro: "" — Bluesky
+https://bsky.app/profile/duducompanheiro.bsky.social/post/3labviukfn52s
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Crash: Buffer size 17179869184 is greater than the maximum buffer size · Issue #736 · linebender/vello
+https://github.com/linebender/vello/issues/736
+
+period function - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=period+function
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Pull requests · linebender/parley
+https://github.com/linebender/parley/pulls
+
+parley: add IME support to text editor example by tomcur · Pull Request #111 · linebender/parley
+https://github.com/linebender/parley/pull/111/files
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#submitting-a-pull-request
+
+Code search results
+https://github.com/search?q=repo%3Abluesky-social%2Fsocial-app%20video&type=code
+
+Bluesky Video Downloader
+https://www.bskydownloader.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~ - bilibili
+https://account.bilibili.com/account/home?spm_id_from=333.1007.0.0
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~
+https://member.bilibili.com/platform/upload/video/frame?spm_id_from=333.999.top_bar.upload
+
+起个名字叫犟驴的个人空间-起个名字叫犟驴个人主页-哔哩哔哩视频
+https://space.bilibili.com/3546751254399476
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [16] | Mozilla Security
+https://chat.mozilla.org/#/room/#security:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+* dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+(53) Discord | #general | Flutter Dev
+https://discord.com/channels/420324994703163402/421445316617961502
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app/tree/main
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Node.js Technical Steering Committee (TSC) Meeting 2024-11-06 · Issue #1648 · nodejs/TSC
+https://github.com/nodejs/TSC/issues/1648
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+elk-zone/elk: A nimble Mastodon web client
+https://github.com/elk-zone/elk
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`bun install ` can only add a dependency from a `github` repository · Issue #10559 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10559
+
+fix(install): use ssh keys for private git repos by Eckhardt-D · Pull Request #11917 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11917
+
+karpathy (Andrej)
+https://github.com/karpathy
+
+Hacktoberfest 2024
+https://hacktoberfest.com/
+
 # 2024-11-7
 
 history.md - tannal.glitch.me [GitHub] - Visual Studio Code - GitHub
