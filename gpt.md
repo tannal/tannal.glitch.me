@@ -1,4 +1,100 @@
 
+这看起来是一个构建矩阵配置，通常用于 CI/CD 系统（如 GitHub Actions, Jenkins 或其他 CI 平台）。让我帮你解析一下这些构建配置的含义：
+
+按平台分类：
+
+1. Linux 构建变体：
+```
+- Debug 版本
+- x64 优化版本
+- Address Sanitizer (ASAN) 版本
+- Thread Sanitizer (TSAN) 版本
+- Shippable 版本
+- NoOpt (无优化) 版本
+- WebRender 特定版本
+```
+
+2. macOS (OS X) 构建变体：
+```
+- 交叉编译的优化版本
+- 交叉编译的 ASAN 版本
+- 交叉编译的调试版本
+- AArch64 架构版本
+- Shippable 版本
+```
+
+3. Windows 构建变体：
+```
+- 32位和64位版本
+- 优化和调试版本
+- ASAN 版本
+- AArch64 架构版本
+- WebRender 特定版本
+```
+
+4. Android 构建变体：
+```
+- ARMv7 优化版本
+- AArch64 优化版本
+- x86 优化版本
+- x86-64 版本（优化、ASAN、调试）
+```
+
+特殊构建类型：
+```
+- Gecko Decision Task (可能用于决定具体运行哪些测试)
+- Linting (代码风格检查)
+```
+
+关键构建选项说明：
+```
+opt - 优化构建
+debug - 调试构建
+asan - Address Sanitizer（内存错误检测）
+tsan - Thread Sanitizer（线程问题检测）
+NoOpt - 禁用优化
+Shippable - 发布版本
+WebRender - 特定渲染引擎
+```
+
+典型的 CI 配置示例（YAML格式）：
+```yaml
+jobs:
+  include:
+    - name: "Linux debug"
+      os: linux
+      env: BUILD_TYPE=debug
+
+    - name: "Linux x64 opt"
+      os: linux
+      arch: amd64
+      env: BUILD_TYPE=opt
+
+    - name: "Linux x64 asan"
+      os: linux
+      arch: amd64
+      env:
+        - BUILD_TYPE=opt
+        - SANITIZER=address
+
+    - name: "OS X Cross Compiled opt"
+      os: osx
+      env:
+        - BUILD_TYPE=opt
+        - CROSS_COMPILE=true
+
+    - name: "Windows x64 debug"
+      os: windows
+      arch: amd64
+      env: BUILD_TYPE=debug
+```
+
+构建矩阵的主要目的：
+1. 确保代码在不同平台上正常工作
+2. 检测不同配置下的潜在问题
+3. 进行性能和安全性测试
+4. 确保跨平台兼容性
+5. 提供不同用途的构建版本
 
 使用 FFmpeg 旋转视频有几种常用方法：
 
