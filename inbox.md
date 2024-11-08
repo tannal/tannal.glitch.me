@@ -1,6 +1,8 @@
 
 # 2024-11-8
 
+https://cloud.tencent.com/act/pro/double11-2024?from=22374&from_column=22374#miaosha
+
 sudo systemctl daemon-reload
 sudo systemctl restart docker
 

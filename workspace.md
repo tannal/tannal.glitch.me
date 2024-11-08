@@ -22,9 +22,11 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 
 
-## Proton 
+## Proton
 
 - [] build error
+
+## music-cnn
 
 
 ## folk-rnn
@@ -47,7 +49,7 @@ yarn config set https-proxy http://10.90.92.225:7890
 ## talk-android
 
 - [] build for android.injected.testOnly=false
-- [] 
+- []
 
 
 ## zulip
@@ -98,7 +100,7 @@ bun install
 ^C<i> [webpack-dev-server] Gracefully shutting down. To force exit, press ^C again. Please wait...
 <i> [webpack-dev-server] [HPM] server close signal received: closing proxy server
 
-tannal@desktop:~/tannalwork/projects/jitsi-meet$ 
+tannal@desktop:~/tannalwork/projects/jitsi-meet$
 
 ## bun
 
@@ -155,7 +157,7 @@ export MOZ_LOG="cookie:3"
 
 https://treeherder.mozilla.org/jobs?repo=try
 
-- On branch 
+- On branch
 [] remove meidia query
 
 
@@ -163,7 +165,7 @@ https://treeherder.mozilla.org/jobs?repo=try
 
 - [] Implment WASM Relaxed SIMD proposal
 Air BBQ B3
-- [] 
+- []
 
 
 
