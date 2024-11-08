@@ -1,3 +1,19 @@
+
+# dev
+```
+应用程序
+    ↓
+libGL.so (Mesa的实现)
+    ↓
+libGLX.so (GLX 抽象层)
+    ↓
+libGLX_nvidia.so (NVIDIA的GLX实现) 或 libGLX_mesa.so (Mesa的GLX实现)
+    ↓
+显卡驱动 (NVIDIA kernel driver)
+```
+
+
+
 # people
 
 # inbox
@@ -16,7 +32,7 @@ Graphics:
     diag: 686mm (27") ratio: 16:9 modes: max: 1920x1080 min: 720x400
   API: OpenGL v: 3.1 Mesa 24.1.0-devel (git-e1afffe7fa) renderer: V3D 7.1.7
     direct-render: Yes
-    
+
 tannal@raspi:~/tannalwork/projects/Vulkan$ inxi -Gay
 Graphics:
   Device-1: bcm2712-hdmi0 driver: vc4_hdmi v: N/A bus-ID: N/A
@@ -54,14 +70,14 @@ glxinfo | grep "OpenGL renderer"
 sudo apt-get install qtwayland5 libwayland-egl-backend-dev libx11-xcb-dev libxcb-glx0-dev libxcb-dri2-0-dev libxcb-dri3-dev
 git clone https://github.com/Mesa3D/mesa.git
 
-git config --global http.sslverify false 
+git config --global http.sslverify false
 git config --global imap.sslverify false
 
 git clone https://github.com/Mesa3D/mesa.git
 cd mesa/
 meson setup build
 sudo apt install glslang-tools
-meson setup build 
+meson setup build
 sudo apt install llvm
 meson setup build
 
@@ -69,4 +85,3 @@ ninja install -C build
 ninja uninstall -C build
 
 ```
-

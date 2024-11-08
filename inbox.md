@@ -1,6 +1,27 @@
 
 # 2024-11-8
 
+Late regrets
+
+Client -> API Gateway (Kong)
+           ↓
+    Rate Limiter (Redis)
+           ↓
+    Load Balancer (HAProxy)
+           ↓
+    Model Fleet Manager
+           ↓
+    Model Replicas (Kubernetes)
+
+Client -> Load Balancer -> API Gateway
+                            ↓
+                    Inference Cluster
+                    (vLLM/llama.cpp)
+                            ↓
+                    Model Shards (Ray)
+
+ffmpeg -i input.mp4 -vf "transpose=1" output.mp4
+
 Note that addressing feedback on in-progress PRs should always take priority over starting a new PR.
 
 # 2024-11-7
@@ -85,11 +106,11 @@ would be as universally hated as math.
 
 https://chromium.slack.com/
 
-~/.config/Cursor/User/workspaceStorage/f7439f96971934f995015340ea546c71$ 
-sqlite3 ~/.config/Cursor/User/globalStorage/state.vscdb 
+~/.config/Cursor/User/workspaceStorage/f7439f96971934f995015340ea546c71$
+sqlite3 ~/.config/Cursor/User/globalStorage/state.vscdb
 
 
-static analysis 
+static analysis
 
 godbolt
 C++ Insights
@@ -216,7 +237,7 @@ manimgl lyrics_video.py LyricVideo -o --video_dir ./ -q l --fps 30 \
     --video_preset ultrafast \
     --video_crf 28
 
-echo  | xclip -selection clipboard 
+echo  | xclip -selection clipboard
 
 ffmpeg -i 七里香.mp4 -vn -acodec pcm_s16le -ar 16000 -ac 1 七里香.wav
 build/bin/main -m models/ggml-large-v3.bin -osrt -l cn audio.wav
@@ -332,7 +353,7 @@ connected to 10.90.89.150:5555
 adb shell
 adb: more than one device/emulator
 adb -s 10.90.89.150 shell
-lmi:/ $ pm list package com.android.vending 
+lmi:/ $ pm list package com.android.vending
 package:com.android.vending
 lmi:/ $ pm path com.android.vending
 package:/data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
@@ -417,7 +438,7 @@ Right now we have at least two big potential users of Vello (Servo and Deno) blo
 
 meson setup --prefix=/opt/gpaste/ build
 
-sudo apt install libappstream-glib-dev gnome-control-center-dev 
+sudo apt install libappstream-glib-dev gnome-control-center-dev
 
 adb -s 192.168.43.58 pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk
 
@@ -542,7 +563,7 @@ https://unity.com/cn/download
 
 # 2024-10-19 0 | 0
 
-ln -sfn /opt/mold/bin/mold /usr/bin/ld 
+ln -sfn /opt/mold/bin/mold /usr/bin/ld
 
 python samples_rnn.py ~/ --rng_seed 42 --temperature 1.0 --ntunes 5 --seed "abc"
 
@@ -640,7 +661,7 @@ projects often count time monthes
 LLm 6 data perparation +6 pretraining+6 fintuning
 
 
-/opt/sqlite/bin/sqlite3 ~/.mozilla/firefox/l415lxcz.default-default/places.sqlite 
+/opt/sqlite/bin/sqlite3 ~/.mozilla/firefox/l415lxcz.default-default/places.sqlite
 SELECT datetime(moz_historyvisits.visit_date/1000000, 'unixepoch', 'localtime') AS visit_time,
        moz_places.url, moz_places.title
 FROM moz_places, moz_historyvisits
@@ -1132,7 +1153,7 @@ Durham, North Carolina团队：
 
 # 2024-9-26 0 | 0
 
-emilio (GMT+2) 
+emilio (GMT+2)
 justin (GMT-6)
 
 
@@ -1195,7 +1216,7 @@ adb connect localhost:6520
 
 https://127.0.0.1:8443/
 
-https://nathanchance.dev/posts/ Linux kernel 
+https://nathanchance.dev/posts/ Linux kernel
 
 # 2024-9-20 0 | 0
 
@@ -1237,7 +1258,7 @@ repo init -u https://android.googlesource.com/platform/manifest
 (base) a17@17:~/tannalwork/projects$ git config --global user.name "tannal"
 
 git config --global user.email "tannal2409@gmail.com"
-git config --global user.name "tannal" 
+git config --global user.name "tannal"
 
 克隆仓库：
 
@@ -1499,11 +1520,11 @@ whisper.cpp
 llama.cpp
 stable-diffusion.cpp
 clip.cpp
-bark.cpp  
+bark.cpp
 
-lora 
+lora
 
-infer 
+infer
 
 git cl upload
 
@@ -1517,7 +1538,7 @@ git cl upload
 
 # 2024-9-10 0 | 0
 
-There are no unknown simd 1 source 
+There are no unknown simd 1 source
 
 Bug 1917329 - Remove layers.child-process-shutdown pref. r?gregp
 
@@ -1525,12 +1546,12 @@ tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node tes
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     184.9 ms ±   1.3 ms    [User: 171.0 ms, System: 27.2 ms]
   Range (min … max):   183.1 ms … 188.7 ms    16 runs
- 
+
 tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     184.8 ms ±   1.6 ms    [User: 173.1 ms, System: 25.1 ms]
   Range (min … max):   182.9 ms … 188.8 ms    16 runs
- 
+
 tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     184.6 ms ±   2.0 ms    [User: 170.4 ms, System: 27.6 ms]
@@ -1542,19 +1563,19 @@ tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node tes
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     184.4 ms ±   2.1 ms    [User: 170.3 ms, System: 27.8 ms]
   Range (min … max):   182.2 ms … 189.1 ms    16 runs
- 
+
 tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     183.3 ms ±   1.2 ms    [User: 168.8 ms, System: 28.4 ms]
   Range (min … max):   181.6 ms … 185.1 ms    16 runs
- 
+
 tannal@desktop:~/tannalwork/projects/node-new$ hyperfine "./out/Release/node test/fixtures/snapshot/typescript.js" --warmup 5
 Benchmark 1: ./out/Release/node test/fixtures/snapshot/typescript.js
   Time (mean ± σ):     183.7 ms ±   2.3 ms    [User: 171.4 ms, System: 26.1 ms]
   Range (min … max):   181.0 ms … 189.1 ms    15 runs
 conda create --name tm-zed
 
-hyperfine 
+hyperfine
 
 export PATH=/datapool/home/ph_teacher2/anaconda3/envs/tm-zed/bin/:$PATH
 
@@ -1735,7 +1756,7 @@ sudo dpkg --remove-architecture i386
 
 curl -v https://update.code.visualstudio.com
 
-pip install -r requirements/pt2.txt 
+pip install -r requirements/pt2.txt
 conda activate tm-pytorch-cuda
 
 conda create --name tm-pytorch-cuda --clone /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda11.8-cudnn8-devel/opt/conda/envs/zls_venv
@@ -1754,7 +1775,7 @@ ssh-keygen -f "/home/tannal/.ssh/known_hosts" -R "[192.168.43.1]:2222"
 
 conda install anaconda::sqlite
 
-ln -sfn /usr/bin/mold /usr/bin/ld 
+ln -sfn /usr/bin/mold /usr/bin/ld
 
 export CC="/opt/llvm/bin/clang"
 export CXX="/opt/llvm/bin/clang++"
@@ -1871,7 +1892,7 @@ https://phabricator.services.mozilla.com/D218494
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1905364
 
-Tools/Scripts/run-jsc --jsc-only --usePromiseTryMethod=1 test.js 
+Tools/Scripts/run-jsc --jsc-only --usePromiseTryMethod=1 test.js
 
 CGO_ENABLED=1 go build -tags extended
 
@@ -2224,7 +2245,7 @@ cat /etc/os-release
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 pip install TTS -i https://pypi.tuna.tsinghua.edu.cn/simple
-git clone https://github.com/mozilla/TTS.git 
+git clone https://github.com/mozilla/TTS.git
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple
@@ -2237,7 +2258,7 @@ WINEPREFIX=~/.wine /opt/wine/bin/wine ChainedTogether.exe
 
 WINEPREFIX=~/.wine64 wine64 ChainedTogether.exe
 
-# 2024-8-30 0 | 0 
+# 2024-8-30 0 | 0
 
 
 
@@ -2602,7 +2623,7 @@ scala-cli -Dhttps.proxyHost=192.168.43.1 -Dhttps.proxyPort=7890 chisel-example.s
 
 verilator --cc --exe --build -j 4 -Wall Alu.v tb_Alu.cpp
 ./obj_dir/VAlu
-sudo apt-get install verilator 
+sudo apt-get install verilator
 
 R7-6800H
 R5-5600U
@@ -2627,7 +2648,7 @@ iwasm wasmtime wasmedge wasmer
 
 ../emsdk/WasmEdge-0.14.1-rc.1-Linux/bin/wasmedge build/my_wasm_module.wasm add 2 3
 
-emcmake cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 
+emcmake cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 emcc -I./include -I./include/ggml -I./examples ./src/ggml.c ./src/ggml-quants.c ./src/ggml-aarch64.c main.cpp -o web/mnist.js -s EXPORTED_FUNCTIONS='["_wasm_eval","_wasm_random_digit","_malloc","_free"]' -s EXPORTED_RUNTIME_METHODS='["ccall"]' -s ALLOW_MEMORY_GROWTH=1 --preload-file models/mnist
 
@@ -2640,7 +2661,7 @@ https://github.com/gnab/remark
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DCMAKE_EXE_LINKER_FLAGS="-fopenmp"
 
-$env:Path += ';C:\Users\tannal\tannalwork\projects\vcpkg\' 
+$env:Path += ';C:\Users\tannal\tannalwork\projects\vcpkg\'
 
 cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' -DCMAKE_TOOLCHAIN_FILE=C:/Users/tannal/tannalwork/projects/vcpkg/scripts/buildsystems/vcpkg.cmake
 
@@ -2829,19 +2850,19 @@ Vendor ID:                GenuineIntel
                           priority ept vpid ept_ad fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm avx512f avx512dq
                            rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat avx512
                           _vnni md_clear arch_capabilities
-Virtualization features:  
+Virtualization features:
   Virtualization:         VT-x
   Hypervisor vendor:      KVM
   Virtualization type:    full
-Caches (sum of all):      
+Caches (sum of all):
   L1d:                    128 KiB (4 instances)
   L1i:                    128 KiB (4 instances)
   L2:                     4 MiB (4 instances)
   L3:                     33 MiB (1 instance)
-NUMA:                     
+NUMA:
   NUMA node(s):           1
   NUMA node0 CPU(s):      0-7
-Vulnerabilities:          
+Vulnerabilities:
   Gather data sampling:   Not affected
   Itlb multihit:          Not affected
   L1tf:                   Not affected
@@ -2853,7 +2874,7 @@ Vulnerabilities:
   Spec rstack overflow:   Not affected
   Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
   Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
-  Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW 
+  Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI SW
                           loop, KVM SW loop
   Srbds:                  Not affected
   Tsx async abort:        Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown
@@ -3018,7 +3039,7 @@ https://github.com/fserb/canvas2D/tree/master
 
 对话逐句分析，核心过程，原理梳理，源码解析
 
-pnpm i @univerjs/docs    @univerjs/ui    vue    ws    y-websocket    yjs 
+pnpm i @univerjs/docs    @univerjs/ui    vue    ws    y-websocket    yjs
 pnpm i -D @vitejs/plugin-vue vite
 
 git format-patch -1 6590ab32bcac9e7444e6b10e05ec96ae5175114f --stdout > merge.patch
@@ -3059,7 +3080,7 @@ public:
     Tensor A, B;
     int r;
 
-    LoRA(int in_features, int out_features, int r) 
+    LoRA(int in_features, int out_features, int r)
         : A({in_features, r}), B({r, out_features}), r(r) {
         // 初始化为小的随机值
         std::random_device rd;
@@ -3095,7 +3116,7 @@ public:
     int dim, heads;
     LoRA Wq, Wk, Wv, Wo;
 
-    SelfAttention(int dim, int heads) 
+    SelfAttention(int dim, int heads)
         : dim(dim), heads(heads),
           Wq(dim, dim, 8), Wk(dim, dim, 8), Wv(dim, dim, 8), Wo(dim, dim, 8) {}
 
@@ -3138,7 +3159,7 @@ public:
     SelfAttention attn;
     LoRA ffn1, ffn2;
 
-    TransformerBlock(int dim, int heads) 
+    TransformerBlock(int dim, int heads)
         : attn(dim, heads), ffn1(dim, 4*dim, 8), ffn2(4*dim, dim, 8) {}
 
     Tensor forward(const Tensor& x) {
@@ -3149,7 +3170,7 @@ public:
                 attn_out(i, j) += x(i, j);
             }
         }
-        
+
         Tensor ffn_out = ffn2.forward(ffn1.forward(attn_out));
         // 另一个残差连接
         for (int i = 0; i < x.shape[0]; i++) {
@@ -3157,7 +3178,7 @@ public:
                 ffn_out(i, j) += attn_out(i, j);
             }
         }
-        
+
         return ffn_out;
     }
 };
@@ -3168,7 +3189,7 @@ public:
     std::vector<TransformerBlock> layers;
     LoRA embed, output;
 
-    LLaMA(int num_layers, int dim, int vocab_size) 
+    LLaMA(int num_layers, int dim, int vocab_size)
         : embed(vocab_size, dim, 8), output(dim, vocab_size, 8) {
         for (int i = 0; i < num_layers; i++) {
             layers.emplace_back(dim, 8);
@@ -3191,7 +3212,7 @@ void train(LLaMA& model, const std::vector<Tensor>& dataset, int epochs) {
             Tensor output = model.forward(batch);
             // 这里应该计算损失和梯度,然后更新参数
             // 为简化起见,我们省略这些步骤
-            std::cout << "Epoch " << epoch << ": processed batch of size " 
+            std::cout << "Epoch " << epoch << ": processed batch of size "
                       << batch.shape[0] << "x" << batch.shape[1] << std::endl;
         }
     }
@@ -3199,7 +3220,7 @@ void train(LLaMA& model, const std::vector<Tensor>& dataset, int epochs) {
 
 int main() {
     LLaMA model(12, 768, 32000);  // 12层,768维,32000词汇量
-    
+
     // 模拟数据集
     std::vector<Tensor> dataset;
     for (int i = 0; i < 10; i++) {
@@ -3284,7 +3305,7 @@ cl /EHsc main.cc user32.lib gdi32.lib
 
 # 2024-8-11 0 | 0 W
 
-vello winit raw-window-handle env_logger log nalgebra rand 
+vello winit raw-window-handle env_logger log nalgebra rand
 gh workflow run "ci" --ref main-ci
 gh workflow run "Main" --ref fix
 
@@ -3421,7 +3442,7 @@ https://huggingface.co/CompVis
 数据、训练、评测、推理部署
 
 
-预训练 微调 
+预训练 微调
 
 
 训练至少需要 6GB VRAM
@@ -3538,7 +3559,7 @@ https://codeberg.org/explore/repos
 
 sudo timedatectl set-timezone Asia/Shanghai
 
-cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug' 
+cmake -G Ninja -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 
 # 2024-8-6 0 | 0 W
@@ -3601,7 +3622,7 @@ source database.sql;
 
 mysqld --initialize
 
-mysqld --console --skip-grant-tables --shared-memory 
+mysqld --console --skip-grant-tables --shared-memory
 
 mysql -h localhost -u root -p
 
@@ -3729,7 +3750,7 @@ https://github.com/rustdesk/rustdesk-server/releases/
 systemProp.https.proxyHost=127.0.0.1
 systemProp.https.proxyPort=7890
 
-Webkit applyMatchedProperties is not used 
+Webkit applyMatchedProperties is not used
 
 https://github.com/search?q=repo%3AWebKit%2FWebKit+applyMatchedProperties&type=code
 
@@ -3846,8 +3867,8 @@ $env:NPM_CONFIG_REGISTRY="https://registry.npmmirror.com"
 
 pnpm install --save-dev rollup @rollup/plugin-typescript @rollup/plugin-node-resolve @rollup/plugin-commonjs typescript tslib jest ts-jest @types/jest
 
-$env:Path += ';C:\Users\tanna\tannalwork\projects\prebuild\windows\d8\' 
-$env:Path += ';C:\Users\tannal\tannalwork\projects\prebuild\windows\d8\' 
+$env:Path += ';C:\Users\tanna\tannalwork\projects\prebuild\windows\d8\'
+$env:Path += ';C:\Users\tannal\tannalwork\projects\prebuild\windows\d8\'
 
 
 
@@ -3865,7 +3886,7 @@ pnpm --filter @elephantd/core run build
 pnpm --filter @elephantd/core add @emotion/css
 pnpm --filter @elephantd/core add -D @types/react @vitejs/plugin-react vite typescript
 
-pnpm i @emotion/css @emotion/react @emotion/styled react react-dom vue svelte 
+pnpm i @emotion/css @emotion/react @emotion/styled react react-dom vue svelte
 
 
 pnpm i -D @vitejs/plugin-react @vitejs/plugin-vue @sveltejs/vite-plugin-svelte @types/react @types/react-dom jest @types/jest ts-jest @testing-library/react @testing-library/jest-dom cypress @storybook/react @storybook/vue3 @storybook/svelte @storybook/addon-essentials vitepress eslint prettier husky lint-staged typescript vite
@@ -3895,7 +3916,7 @@ set MOZCONFIG=./debug
 
 https://ftp.mozilla.org/pub/firefox/releases/128.0/source/
 
-$env:Path += ';C:\Users\tanna\Downloads\depot_tools\'  
+$env:Path += ';C:\Users\tanna\Downloads\depot_tools\'
 $env:https_proxy='http://192.168.43.1:7890'
 
 function mklink ($target, $link) {
@@ -4037,7 +4058,7 @@ pnpm install clean-webpack-plugin -D
 
 https://gitee.com/geektime-geekbang/geektime-webpack-course/raw/master/ppt/%E3%80%8A%E7%8E%A9%E8%BD%ACwebpack%E3%80%8B%20%E7%AC%AC%E4%BA%8C%E7%AB%A0.pdf
 
-pnpm add -D css-minimizer-webpack-plugin 
+pnpm add -D css-minimizer-webpack-plugin
 
 $env:NODE_OPTIONS='--experimental-detect-module'
 
@@ -4092,7 +4113,7 @@ pnpm i webpack webpack-cli -D
 
 # 2024-7-17 0 | 0 W
 
-MEL 频谱图 
+MEL 频谱图
 
 Terraform ElasticSearch
 Web applications: Ruby on Rails, Golang, NodeJS, VueJS, Svelte
@@ -4176,7 +4197,7 @@ pnpm store path
 web windows android macos ios and embeded systems
 
 
-2018/2017/2016 
+2018/2017/2016
 
 2019
 
@@ -4192,11 +4213,11 @@ adb connect 192.168.70.112  :5555
 # 2024-6-4 0 | 0 W
 
 curl -X POST http://localhost:8000/create-order -H "Content-Type: application/json" -d '{
-    "user_id": 1000000,  
-    "order_type": 4,     
-    "type": "ask",       
-    "price": 100,        
-    "volume": 150,       
+    "user_id": 1000000,
+    "order_type": 4,
+    "type": "ask",
+    "price": 100,
+    "volume": 150,
     "buying_pair": "usd",
     "selling_pair": "btc"
 }'
@@ -4281,7 +4302,7 @@ git revert d6963c0c3a93fb97faa197e224b177ca02c308f9
 
 git checkout c5f567 -- file1/to/restore file2/to/restore
 
-git reset to commit 
+git reset to commit
 
 git remote set-url origin http://git.tanmeng.org/tannal/springboot-microservices.git
 
@@ -4318,7 +4339,7 @@ typographic
 main process
 renderer process
 
-electron 23 26 28 30 
+electron 23 26 28 30
 
 adb exec-out screencap -p > screenshot.png && clip < screenshot.png
 
@@ -4351,7 +4372,7 @@ git remote set-url origin http://git.tanmeng.org/tannal/springboot-backend.git
 git branch -D origin/master --remote
 git branch --unset-upstream
 git push --set-upstream origin main
-git push -d origin master 
+git push -d origin master
 
 curl -v -X POST http://localhost:8383/api/auth/login \
      -H "Content-Type: application/json" \
@@ -4442,11 +4463,11 @@ gem install bundler -v 2.4.0
 
 $env:PATH += ";$(Get-Location)\node_modules\.bin"
 
-pnpm install --save-dev ts-node nodemon 
+pnpm install --save-dev ts-node nodemon
 
 $env:NODE_OPTIONS="--openssl-legacy-provider"
 
-$env:TS_NODE_PROJECT="webpack-tsconfig.json" 
+$env:TS_NODE_PROJECT="webpack-tsconfig.json"
 
 AKS algorithm, the KMP algorithm, and the LLL algorithm, I shall
 call it the CVM algorithm in the present note.
@@ -4486,7 +4507,7 @@ https://bbs.kanxue.com/
 https://github.com/Tencent/libpag.git
 libpag
 
-I believe bytevc1 is TikTok/ByteDance's version of h265/hevc1. 
+I believe bytevc1 is TikTok/ByteDance's version of h265/hevc1.
 That's a newer codec, and it needs less space for the same quality
 
 腾讯的播放器SDK
@@ -4555,7 +4576,7 @@ bool QtiMapper::ValidDescriptor(const BufferDescriptorInfo_2_1 &bd) {
 goodix fingerprint
 https://www.goodix.com/en/about_goodix/careers/social
 
-aarch64-linux-gnu-objdump -s -d I 
+aarch64-linux-gnu-objdump -s -d I
 
 npm i supabase --save-dev
 
@@ -4572,10 +4593,10 @@ curl -X POST http://localhost:8888/api/v1/auth/login \
 xh --offline post localhost:8888/api/v1/auth/register email=tannal2409@gmail.com password=password
 xh post localhost:8888/api/v1/auth/register email=tannal2409@gmail.com password=password
 
-layout render engine js engine 
+layout render engine js engine
 multimedia video audio
 database & storage systems
-operating systems and 
+operating systems and
 
 embeded arm linux rtos https://www.linaro.org/careers/
 
@@ -4650,7 +4671,7 @@ ls .git/refs/heads/
 
 git config --add fem.git "would"
 
-git config --unset 
+git config --unset
 
 git config --get-regexp user
 
@@ -4716,8 +4737,8 @@ DB_TYPE = sqlite3
 HOST = 127.0.0.1:3306
 NAME = gitea
 USER = gitea
-PASSWD = 
-SCHEMA = 
+PASSWD =
+SCHEMA =
 SSL_MODE = disable
 PATH = C:\Users\tanna\tannalwork\projects\gitea\data\gitea.db
 LOG_SQL = false
@@ -4935,7 +4956,7 @@ wasm bytecodealliance
 Wasmtime, Wasmer, WAMR, and Wasmi
 OCamlPro/owi
 
-typst y-crdt 
+typst y-crdt
 
 Linebender
 
@@ -5141,7 +5162,7 @@ sudo mkdir -p /usr/lib/x86_64-linux-gnu/cmake/sdl2_image/
 
 sudo vim /usr/lib/x86_64-linux-gnu/cmake/sdl2_image/sdl2_image-config.cmake
 
-set(prefix "/usr") 
+set(prefix "/usr")
 set(exec_prefix "${prefix}")
 set(libdir "${prefix}/lib/x86_64-linux-gnu")
 set(SDL2_IMAGE_PREFIX "/usr")
@@ -5155,7 +5176,7 @@ sudo mkdir -p /usr/lib/x86_64-linux-gnu/cmake/sdl2_mixer/
 sudo vim /usr/lib/x86_64-linux-gnu/cmake/sdl2_mixer/sdl2_mixer-config.cmake
 
 
-set(prefix "/usr") 
+set(prefix "/usr")
 set(exec_prefix "${prefix}")
 set(libdir "${prefix}/lib/x86_64-linux-gnu")
 set(SDL2_mixer_PREFIX "/usr")
@@ -5204,7 +5225,7 @@ sudo dnf install lld ccache
 repoquery -l ncurses-compat-libs.x86_64
 
 yum install ncurses-devel gnutls-devel
-yum install 
+yum install
 
 if the problem happens, it must happens recently if there is people.
 If a problem haapens and it stays for a long time, that means nobody is doing what you do now?
@@ -5376,14 +5397,14 @@ https://tc39.es/ecma262/#execution-context-stack
 if A then B doesn't matter
 
 what does it means if A(B) is true(false) matters?
-the logical is 
+the logical is
 what meanings of A and B matters?
- 
+
 the only things that matters is meaning.
 
 export PATH=/usr/aarch64-linux-gnu/:$PATH
 
-ln -sfn /usr/bin/aarch64-linux-gnu-gcc /usr/aarch64-linux-gnu/cc 
+ln -sfn /usr/bin/aarch64-linux-gnu-gcc /usr/aarch64-linux-gnu/cc
 
 ln -sfn /run/systemd/resolve/resolv.conf /etc/resolv.conf
 
@@ -5404,7 +5425,7 @@ export CXX_aarch64_unknown_none=/home/tannal/Downloads/gcc-arm-9.2-2019.12-x86_6
 
 git branch -d webgl-profile
 
-git cherry-pick 
+git cherry-pick
 
 gdb -ex "target remote :6666" ~/tannalwork/qemu-workspace/vmlinux
 
@@ -5469,9 +5490,9 @@ mount -t debugfs none /sys/kernel/debug
 ln -sf /dev/null /dev/tty2
 ln -sf /dev/null /dev/tty3
 ln -sf /dev/null /dev/tty4
- 
+
 echo -e "\nBoot took $(cut -d' ' -f1 /proc/uptime) seconds\n"
- 
+
 sh
 
 qemu-system-riscv64 -kernel arch/riscv/boot/Image \
@@ -5500,7 +5521,7 @@ You find a concept, when you know a word(symbol) to refer it.
 You understand a concept, when you can come up with a sentences that contains the word(symbol) and with a posiibility of whether it is true or false.
 You familar with a concept, when your predicition is good enough to fool other people.
 
-Philip Chimento 
+Philip Chimento
 
 106.7 rmb / hour
 15 $ / hour
@@ -5633,8 +5654,8 @@ http://csapp.cs.cmu.edu/3e/labs.html
 cargo install --git https://github.com/typst/typst --locked typst-cli
 
 import os
-os.environ['http_proxy'] = "http://10.90.18.152:7890" 
-os.environ['https_proxy'] = "https://10.90.18.152:7890" 
+os.environ['http_proxy'] = "http://10.90.18.152:7890"
+os.environ['https_proxy'] = "https://10.90.18.152:7890"
 
 python -m pip install jupyter
 python -m ipykernel install --user --name=tannal
@@ -5666,7 +5687,7 @@ wget -qO - http://packages.lunarg.com/lunarg-signing-key-pub.asc | sudo apt-key 
 sudo wget -qO /etc/apt/sources.list.d/lunarg-vulkan-jammy.list https://packages.lunarg.com/vulkan/lunarg-vulkan-jammy.list
 sudo apt update
 sudo apt install vulkan-sdk
-sudo apt install vulkan-tools 
+sudo apt install vulkan-tools
 
 # 2024-4-28 0 | 0 W
 
@@ -5678,7 +5699,7 @@ cmake -S . -B build -D UPDATE_DEPS=ON -D BUILD_WERROR=ON -D BUILD_TESTS=ON -D CM
 cmake --build build --config Debug
 
 https://github.com/rabbitmq/rabbitmq-server
-sudo apt install elixir 
+sudo apt install elixir
 
 sudo apt install erlang-nox erlang-dev erlang-src
 sudo apt install xsltproc xmlto
@@ -5746,7 +5767,7 @@ git apply --check a_file.patch
 Finally, you can use git am to apply your patch as a commit. This also allows you to sign off an applied patch.
 This can be useful for later reference.
 
-git am --keep-cr --signoff < a_file.patch 
+git am --keep-cr --signoff < a_file.patch
 
 
 git format-patch -1 --pretty=fuller 3e63d66651ca
@@ -5917,7 +5938,7 @@ tell the caller the memory address of the data
 
 https://sourceware.org/gdb/current/onlinedocs/gdb.html/TUI-Keys.html#TUI-Keys
 
-involves:Manishearth 
+involves:Manishearth
 
 git pull
 vcpkg update
@@ -5984,10 +6005,10 @@ https://www.felixcloutier.com/x86/intn:into:int3:int1
 
 
 wasm ebpf mlsys go rust mesa graphics web glphy
-layout render engine js engine 
+layout render engine js engine
 multimedia video audio
 database & storage systems
-operating systems and 
+operating systems and
 
 embeded arm linux rtos https://www.linaro.org/careers/
 
@@ -6023,13 +6044,13 @@ igalian
 
 javac -encoding utf8 Solution.java
 
-So the memory used when calling a function is working memory, 
+So the memory used when calling a function is working memory,
 
 the state of the object is actually acquired by experience, and it's size can be very big.
 
 # 2024-4-15 0 | 0 W
 
-is:issue is:closed reason:completed 
+is:issue is:closed reason:completed
 
 cargo add --git https://github.com/servo/html5ever
 
@@ -6060,7 +6081,7 @@ Apple folks llvm -> objective C -> swift
 
 Microsoft folks C# Typescript
 
-oop C++ 
+oop C++
 
 
 # 2024-4-14 0 | 0 W
@@ -6070,7 +6091,7 @@ Dan Ingalls the smalltalk project now at yc combinator research
 Programmers want to work on one routine without having to think about all of them at the same time.
 if this is true, when you reading code, you also don't need to think all of them at the same time.
 
-go install 
+go install
 go uninstall
 
 export PATH=${PATH}:`go env GOPATH`/bin
@@ -6124,7 +6145,7 @@ trident
 https://webapi.link/
 
 the power of default and trasparency and automatic
-people don't complian the implicit dependency 
+people don't complian the implicit dependency
 
 vertex shader
 Tessellation shader
@@ -6139,7 +6160,7 @@ target record-core
 
 https://gecko-embedded.org/
 
-qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp" 
+qemu-system-x86_64 -kernel bzImage-debug -m 3G -initrd root.cpio.gz -append "console=ttyS0 console=tty0 root=/dev/ram ip=dhcp"
 
 -device virtio-9p-pci,id=fs0,fsdev=fsdev0,mount_tag=hostshare -fsdev local,security_model=passthrough,id=fsdev0,path=sharem/file/
 
@@ -6219,7 +6240,7 @@ git clone https://github.com/rr-debugger/rr.git
 rr debugger
 cmake --install build
 
-cmake -B build 
+cmake -B build
 
 sudo apt-get install ccache cmake make g++-multilib gdb lldb \
   pkg-config coreutils python3-pexpect manpages-dev git \
@@ -6300,7 +6321,7 @@ code as an universal language
 math symbols as an universal language
 music as  an universal language
 
-regiter integer float 
+regiter integer float
 
 compiler
 involves:dnovillo
@@ -6369,7 +6390,7 @@ geodns
 
 start nginx
 nginx.exe -s stop
-nginx.exe -c 
+nginx.exe -c
 
 
 dig -x 192.168.43.62 @127.1 -p 5053
@@ -6421,13 +6442,13 @@ speed up syscall bypass syscalls
 
 https://github.com/search?q=involves%3Asaschanaz&type=issues
 
-psql -h 192.168.43.246 -p 5432 -U tannal -d postgres 
+psql -h 192.168.43.246 -p 5432 -U tannal -d postgres
 
 int iret syscall sysret sysenter page fault(mov) hardware exception
 
 https://wiki.linuxfoundation.org/gsoc/2024-gsoc-perf
 
-make sense flush 
+make sense flush
 
 code run/debug/log tell you the idea
 change the code to program slightly different idea
@@ -6514,7 +6535,7 @@ Hotspot 编译器是自 Oracle Hotspot VM 的 1.3 版本引入的，Dalvik VM �
   -print-sysroot           Display the target libraries directory.
   --sysroot=<directory>    Use <directory> as the root directory for headers
   -B <directory>           Add <directory> to the compiler's search paths.
-(python(base) [root@g08 ultralytics-8.1.0]# 
+(python(base) [root@g08 ultralytics-8.1.0]#
 
 BIOS load bootloader
 
@@ -6554,7 +6575,7 @@ aggregation scan filter
 let count = 0
 
 while(tuple = get_next()) {
-  
+
   if(tuple.x + tuple.y > 20) {
     count++
   }
@@ -6726,7 +6747,7 @@ cargo run --example hello-redis
 
 libuv, twisted, tornado, asyncIO, Netty, Boost.Asio
 
-# 2024-3-20 0 | 0 W 
+# 2024-3-20 0 | 0 W
 
 flex bison css parser
 
@@ -6785,10 +6806,10 @@ wget https://developer.nvidia.com/downloads/compute/machine-learning/tensorrt/se
 tar xvf TensorRT-8.6.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz
 
 sudo apt update && sudo apt install -y cmake g++ wget unzip
- 
+
 wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip
 unzip opencv.zip
- 
+
 cmake -B build
 cmake --build build -j15
 cmake --install build
@@ -6982,7 +7003,7 @@ columnar specific encoding adbc
 
 mysql postgres redis
 
-JDBC ODBC wrapper java 
+JDBC ODBC wrapper java
 ODBC c api
 
 
@@ -7094,7 +7115,7 @@ W3C Verifiable Credentials Working Group
 
 go install github.com/boyter/scc@master
 scc
-~/go/bin/scc 
+~/go/bin/scc
 
 https://boyter.org/
 
@@ -7109,7 +7130,7 @@ ls
 gclient sync --jobs=4
 CC=clang CXX=clang++ cmake -GNinja -B build
 sudo apt install libxinerama
-sudo apt install libxinerama-dev 
+sudo apt install libxinerama-dev
 tokie
 tokei
 CC=clang CXX=clang++ cmake -GNinja -B build
@@ -7142,7 +7163,7 @@ auto rid1 = *table_info->table_->InsertTuple(TupleMeta{txn4->GetTransactionTempT
                                               Tuple{{Int(1), DoubleNull(), BoolNull()}, schema.get()});
 
 ```
-table_page 
+table_page
 table_heap memory
 
 acess method intermedia table temp space
@@ -7190,7 +7211,7 @@ ws2_32 network stack
 ole32 object linking and embedding
 
 
-# 2024-3-11 | 
+# 2024-3-11 |
 
 brcmf
 you own your data & language model & query
@@ -7198,7 +7219,7 @@ you own your data & language model & query
 reboot&inspire
 from scratch
 
-use_glib=false 
+use_glib=false
 
 call gn gen out.gn/x64.release --args="is_debug=false use_glib=false is_component_build=true v8_use_external_startup_data=true v8_static_library=false is_clang = false v8_enable_i18n_support=false target_cpu=\"x64\""
 
@@ -7250,7 +7271,7 @@ Exynos SoCs typically integrate various components, including CPUs, GPUs, DSPs (
 
 graphics buffer manager
 
-# 2024-3-10 | 
+# 2024-3-10 |
 
 https://github.com/luci
 
@@ -7283,8 +7304,8 @@ WantedBy = multi-user.target
 sudo cp /usr/lib/clang/16/include/*.h /usr/include/
 
 ```bash
-nv MESA_SHADER_CACHE_DISABLE=true 
-/home/tannal/tannalwork/projects/mesa/build/src/intel/compiler/intel_clc 
+nv MESA_SHADER_CACHE_DISABLE=true
+/home/tannal/tannalwork/projects/mesa/build/src/intel/compiler/intel_clc
 --nir --gfx-version=12 --prefix gfx12_intel_shaders --in ../src/intel/shaders/libintel_shaders.h --in ../src/intel/shaders/generate.cl --in ../src/intel/shaders/generate_draws.cl --in ../src/intel/shaders/generate_draws_iris.cl --in ../src/intel/shaders/memcpy.cl --in ../src/intel/shaders/query_copy.cl -o src/intel/shaders/intel_gfx12_shaders_code.h -- -cl-std=cl2.0 -D__OPENCL_VERSION__=200 -DGFX_VERx10=120 -I/home/tannal/tannalwork/projects/mesa/src/intel/shaders/. -I/home/tannal/tannalwork/projects/mesa/src -I/home/tannal/tannalwork/projects/mesa/src/intel -I/home/tannal/tannalwork/projects/mesa/build/src/intel -I/home/tannal/tannalwork/projects/mesa/src/intel/genxml
 
 ```
@@ -7345,7 +7366,7 @@ Netscape Enterprise Server:
 
 asymmetric multi-process eventdriven (AMPED) architecture
 
-# 2024-3-9 | 
+# 2024-3-9 |
 
 Cloud Computing Systems class.
 The class covers the design principles behind systems the make up the cloud infrastructure and enable cloud applications.
@@ -7360,8 +7381,8 @@ https://charap.co/spring-term-reading-group-papers-131-140/
 
 https://rhaas.blogspot.com/
 
-As part of this project we'll add support for more CSS features to the Servo layout. 
-The main areas of work on this project would be support for floats, writing modes and tables; 
+As part of this project we'll add support for more CSS features to the Servo layout.
+The main areas of work on this project would be support for floats, writing modes and tables;
 which will increase the number of web pages and applications render properly in Servo.
 
 https://www.enterprisedb.com/careers/job-openings
@@ -7374,7 +7395,7 @@ rm Python3
 
 [Error - 10:01:13 PM] Request textDocument/codeAction failed.
   Message: Request textDocument/codeAction failed with message: too much recursion
-  Code: -32603 
+  Code: -32603
 
 sudo systemctl daemon-reload
 sudo systemctl restart y-websocket
@@ -7399,7 +7420,7 @@ https://news.ycombinator.com/threads?id=sondr3
 https://ceph.io/en/community/team/
 https://github.com/idryomov
 
-tannal@raspi:~/tannalwork/cans$ ls /dev/fuse 
+tannal@raspi:~/tannalwork/cans$ ls /dev/fuse
 /dev/fuse
 tannal@raspi:~/tannalwork/cans$ lsmod | grep fuse
 fuse                  159744  5
@@ -7411,11 +7432,11 @@ watch -d -n 0.5 nvidia-smi
 
 https://github.com/pentium3/sys_reading
 
-g_application_run 
+g_application_run
 libgio-2.0.so.0
 
 
-# 2024-3-8 | 
+# 2024-3-8 |
 
 Exec=env QT_QPA_PLATFORM=xcb copyq
 
@@ -7441,7 +7462,7 @@ inet 10.68.136.133  netmask 255.255.255.128  broadcast 10.68.136.255
 
 nmap -A -T4
 
-nmap -sP 10.68.136.0/24  
+nmap -sP 10.68.136.0/24
 
 
 # 2024-3-7 | W
@@ -7460,7 +7481,7 @@ ens9f0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 810865  overruns 0  frame 0
         TX packets 10293932  bytes 813444793 (775.7 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-        device interrupt 18  
+        device interrupt 18
 
 ens9f1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         ether 04:32:01:5d:ce:6b  txqueuelen 1000  (Ethernet)
@@ -7468,7 +7489,7 @@ ens9f1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-        device interrupt 19  
+        device interrupt 19
 
 ens9f2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         ether 04:32:01:5d:ce:6c  txqueuelen 1000  (Ethernet)
@@ -7476,7 +7497,7 @@ ens9f2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-        device interrupt 18  
+        device interrupt 18
 
 ens9f3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         ether 04:32:01:5d:ce:6d  txqueuelen 1000  (Ethernet)
@@ -7484,7 +7505,7 @@ ens9f3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 0  bytes 0 (0.0 B)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-        device interrupt 19  
+        device interrupt 19
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
@@ -7801,7 +7822,7 @@ git clone --recursive https://github.com/SaschaWillems/Vulkan.git
 git submodule init
 git submodule update
 cmake -B build -G Ninja -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
-ln -sfn ./build/compile_commands.json compile_commands.json 
+ln -sfn ./build/compile_commands.json compile_commands.json
 
 
 git clone https://github.com/cinderblock/node-gyp-test.git
@@ -7838,7 +7859,7 @@ Unless WebView2 for macOS arrives, which would have a more sane cross-platform s
 [1]: https://github.com/webview/webview/blob/master/webview.h
 
 mozilla 1998
-2004 
+2004
 
 go install github.com/shurcooL/goexec
 
@@ -7852,7 +7873,7 @@ cargo add clipboard crossterm
 
 I am pursuing a bachelor's degree in Computer Science and expect to graduate in 2025.
 
-Ever since I was young, I have had a deep interest in programming and tinkering. I started my programming journey by making open-source homebrew apps for the Nintendo 3DS which received 300K+ downloads. 
+Ever since I was young, I have had a deep interest in programming and tinkering. I started my programming journey by making open-source homebrew apps for the Nintendo 3DS which received 300K+ downloads.
 
 My experience with the open-source community has helped me immensely in my career. In 2019, I participated and won Google Code-in. In 2023, I participated in Google Summer of Code and worked with an amazing open-source project - ScummVM.
 
@@ -7916,14 +7937,14 @@ make it work
 make it correct
 make it fast
 
-The traditional way to prove that you’ve achieved code execution is by “popping a calc.” 
+The traditional way to prove that you’ve achieved code execution is by “popping a calc.”
 
 Mesa is indeed a prominent open-source graphics library that provides implementations for APIs like OpenGL and Vulkan.
 
-Windows does not use Mesa by default; instead, it relies on proprietary drivers from hardware vendors like NVIDIA and AMD, as well as its own set of APIs like Direct3D, 
- 
-which are part of the DirectX suite for handling multimedia tasks, including video and game programming. 
- 
+Windows does not use Mesa by default; instead, it relies on proprietary drivers from hardware vendors like NVIDIA and AMD, as well as its own set of APIs like Direct3D,
+
+which are part of the DirectX suite for handling multimedia tasks, including video and game programming.
+
 These vendor-specific drivers are optimized for performance on Windows and provide direct support for the GPU hardware they are designed for.
 
 
@@ -7955,7 +7976,7 @@ sudo crontab -e
 59 22 * * * /sbin/shutdown -h now
 
 
-Get-Content input | node vj.js 
+Get-Content input | node vj.js
 
 sudo apt install libgl-dev libglew-dev
 
@@ -8007,7 +8028,7 @@ https://www.mlsys.ai/
 
 https://mlsys.stanford.edu/
 
-main HPC languages. 
+main HPC languages.
 
 How to build a compiler with llvm and MLIR
 https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5
@@ -8041,7 +8062,7 @@ nixos
 
 A program is a proof of some theory.
 
-Remote Application Interface Layer 
+Remote Application Interface Layer
 
 
 # 2024-2-27 | W
@@ -8106,7 +8127,7 @@ function linear_relu(input, weights) {
 Tensor model parallelism
 pipeline model parallelism
 
-model parallelism 
+model parallelism
 
 scale the training process
 
@@ -8155,7 +8176,7 @@ https://github.com/gabime/spdlog C++ logging lib
 export PATH=/home/tannal/tannalwork/projects/WasmEdge/_install/bin/:$PATH
 
 
-Serde is a framework for serializing and deserializing Rust data structures efficiently and generically. 
+Serde is a framework for serializing and deserializing Rust data structures efficiently and generically.
 
 wasmedge 2019
 
@@ -8185,7 +8206,7 @@ https://github.com/paperdave
 
 https://herbsutter.com/
 
-# 2024-2-25 | 
+# 2024-2-25 |
 
 sudo perf record -g ./a.out
 
@@ -8253,7 +8274,7 @@ https://www.fsf.org/community/
 
 FSF/GNU
 
-# 2024-2-24 | 
+# 2024-2-24 |
 
 https://www.kxxt.dev/about/
 
@@ -8278,7 +8299,7 @@ sudo vim ~/.config/apport/settings
 [main]
 unpackaged=true
 
-cat /proc/sys/kernel/core_pattern 
+cat /proc/sys/kernel/core_pattern
 
 https://www.codethink.co.uk/join-us.html
 
@@ -8296,10 +8317,10 @@ https://github.com/kubernetes/kubernetes/issues/96564
 
 If you don't believe it, you can't understand it.
 
-Flap Hero relies on several excellent third-party libraries: 
-Assimp to load 3D models, 
-SoLoud for audio, 
-stb to load textures and fonts, and 
+Flap Hero relies on several excellent third-party libraries:
+Assimp to load 3D models,
+SoLoud for audio,
+stb to load textures and fonts, and
 GLFW for desktop windowing & input.
 
 RCU grace periods
@@ -8322,7 +8343,7 @@ https://xkcd.com/927/
 
 SMI heap integer
 
-# 2024-2-23 | 
+# 2024-2-23 |
 
 npx create-next-app -e with-supabase todo-base
 
@@ -8340,7 +8361,7 @@ The more innovations happens in a field, the less people who in the field know.
 https://jakstys.lt/2023/microsoft-git/
 
 
-# 2024-2-22 | 
+# 2024-2-22 |
 
 https://github.com/servo/servo/commits?author=Loirooriol
 
@@ -8457,7 +8478,7 @@ https://git.nju.edu.cn/hengxin/compilers-lectures/-/tree/master/2023?ref_type=he
 
 projection push down
 
-# 2024-2-21 | 
+# 2024-2-21 |
 
 ggml https://github.com/NVIDIA/TensorRT
 
@@ -8572,7 +8593,7 @@ https://knoxxs.github.io/chat/architecture/real-time/2015/11/23/chat-architectur
 
 https://hsmemo.github.io/
 
-# 2024-2-20 | 
+# 2024-2-20 |
 
 https://people.eecs.berkeley.edu/~matei/#teaching
 
@@ -8596,7 +8617,7 @@ https://www.twitch.tv/videos/2065150462
 
 https://twitter.com/arighi
 
-# 2024-2-19 | 
+# 2024-2-19 |
 
 JAX/Pytorch
 
@@ -8630,7 +8651,7 @@ convert
 
 https://www.cs.columbia.edu/~blei/fogm/2023F/readings.html
 
-# 2024-2-18 | 
+# 2024-2-18 |
 
 https://twitter.com/ylecun
 
@@ -8641,7 +8662,7 @@ sudo apt-get install gcc-arm-none-eabi
 护照 签证申请书
 
 证件照(1～2张)(长4.5cm×宽4.5cm)* 也有要求宽3.5cm的日本驻外使领馆
-	
+
 在留资格认定证明及复印件
 
 IPA的各类资格https://www.jitec.ipa.go.jp/Lpic
@@ -8660,7 +8681,7 @@ not by design, you have to hack very hard.
 qemu-system-x86_64 -kernel linux/arch/x86_64/boot/bzImage -initrd initramfs.img -append "console=ttyS0 ip=dhcp debug" -nographic -m 1G
 
 
-You can use $_ or !$ to recall the last argument of the previous 
+You can use $_ or !$ to recall the last argument of the previous
 
 tar -czvf boa.tar.gz boa
 
@@ -8674,7 +8695,7 @@ dumpbin /exports /symbols runtime\our_code.lib
 
 https://askubuntu.com/questions/105848/rsync-between-two-computers-on-lan
 
-# 2024-2-17 | 
+# 2024-2-17 |
 
 https://www.cs.cmu.edu/~fp/courses/15411-f14/schedule.html
 
@@ -8690,7 +8711,7 @@ git clone https://github.com/ssloy/tinyrenderer.git
 
 https://www.youtube.com/watch?v=RCbxOZ9qYBw&6m50s
 
-# 2024-2-16 | 
+# 2024-2-16 |
 
 https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor
 
@@ -8763,7 +8784,7 @@ https://www.alibabagroup.com/en-US/ir-financial-reports-financial-results
 
 Best user is great than best coder/implementer.
 
-# 2024-2-15 | 
+# 2024-2-15 |
 
 make defconfig
 
@@ -8802,7 +8823,7 @@ qemu-system-x86_64 \
     -initrd initramfs.img \
     -append "console=ttyS0 root=/dev/ram ip=dhcp" \
     -m 2G \
-  -nographic 
+  -nographic
 
 
 sudo apt-get install initramfs-tools-core
@@ -8844,7 +8865,7 @@ http://graphics.berkeley.edu/people/jObrien-publications.html
 Now you are a cs professor, I give you slides one by one, you expain the point and great idea in it.
 
 ucb cs 169 126 188 162 186 170 182 161 189
-cs 169 
+cs 169
 
 cs 186 database systems
 cs 162 operating systems
@@ -8865,7 +8886,7 @@ https://github.com/apache/arrow
 
 https://github.com/citusdata/citus
 
-# 2024-2-14 | 
+# 2024-2-14 |
 
 cmake -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DENABLE_EXAMPLES=ON '&&' ninja -v
 
@@ -8885,7 +8906,7 @@ https://www.intc.com/financial-info/financial-results
 
 https://investors.arm.com/financials/quarterly-annual-results
 
-# 2024-2-13 | 
+# 2024-2-13 |
 
 start .
 
@@ -8895,13 +8916,13 @@ interface vs implementation
 
 I still should try weird things courageously.
 
-# 2024-2-12 | 
+# 2024-2-12 |
 
 https://git-scm.com/book/en/v2
 
 Nick hengeveld Git 2005 9.26
 
-# 2024-2-10 | 
+# 2024-2-10 |
 
 you need to initialise a window before you can load a texture (OpenGL needs a current context!)
 
@@ -8949,9 +8970,9 @@ https://pdos.csail.mit.edu/6.S081/2023/schedule.html
 
 https://css.csail.mit.edu/6.858/2023/
 
-# 2024-2-9 | 
+# 2024-2-9 |
 
-# 2024-2-8 | 
+# 2024-2-8 |
 
 
 don't repeat yourself.
@@ -8973,13 +8994,13 @@ sudo exportfs -a
 sudo apt install build-essential
 
 
-# 2024-2-7 | 
+# 2024-2-7 |
 
-# 2024-2-6 | 
+# 2024-2-6 |
 
 process.stdout.write
 
-# 2024-2-5 | 
+# 2024-2-5 |
 
 ttl.sh
 
@@ -9023,7 +9044,7 @@ https://www.cs.rit.edu/~ats/books/ooc.pdf
 
 pointer wizzling
 
-# 2024-2-4 | 
+# 2024-2-4 |
 
 Do the right shit down with a foolish mind.
 
@@ -9084,7 +9105,7 @@ Introduction to Algorithms.
 
 http://www.algorithmsilluminated.org/
 
-# 2024-2-3 1+1 | 
+# 2024-2-3 1+1 |
 
 Lua Roberto Ierusalimschy
 Waldemar Celes
@@ -9188,7 +9209,7 @@ page table vs page directory
 lock is protect user's concept (logical contents for user, transactions)
 latch is used protect interrnal structure in database. (typical mutex)
 
-# 2024-2-1 | 
+# 2024-2-1 |
 
 在gradle.properties 文件中添加如下指令：
 
@@ -9234,7 +9255,7 @@ user=tannal:tannal
 
 lsof -i:10088
 
-# 2024-1-31 | 
+# 2024-1-31 |
 
 beat per minute
 
@@ -9271,7 +9292,7 @@ don't really give up, write down your attempt and most time you will come back t
 
 redshift
 
-# 2024-1-30 | 
+# 2024-1-30 |
 
 create table schema catalog
 
@@ -9333,7 +9354,7 @@ getconf LEVEL1_DCACHE_LINESIZE
 LEVEL1_DCACHE_LINESIZE
 
 
-# 2024-1-29 | 
+# 2024-1-29 |
 
 
 export CC=/usr/bin/clang
@@ -9507,13 +9528,13 @@ entity components systems composition oriented design
 
 Object Orient Design
 
-combox tab imGui 
+combox tab imGui
 
 pip install gdown
 
 gdown --id
 
-# 2024-1-28 | 
+# 2024-1-28 |
 
 nc -u 127.0.0.1 14000
 
@@ -9570,9 +9591,9 @@ llvm::IRbuilder
 Entry Basic Block
 Control Flow Blocks
 
-# 2024-1-27 | 
+# 2024-1-27 |
 
-llvm-config 
+llvm-config
 
 sudo update-alternatives --list cc
 
@@ -9607,7 +9628,7 @@ CMakeUserPresets.json – user-specific
 llvm compilers
 plrt v8 jsc toit dart spidermonkey cpython
 
-# 2024-1-26 | 
+# 2024-1-26 |
 
 https://github.com/HMCL-dev/HMCL/releases/download/release-3.5.5/HMCL-3.5.5.jar
 
@@ -9628,7 +9649,7 @@ namei pathname -> inode
 
 LL LL(k) LR LR(k) LALR GLR
 
-# 2024-1-25 | 
+# 2024-1-25 |
 
 GNOME Mboalab MDAnalysis OCaml ODK-X Oppia QEMU
 
@@ -9644,9 +9665,9 @@ Prisma Mongoose Oakdex
 
 Infrastructure As Code Terraform Plulumi Puppet Ansible AWS Cloud Formation Chef
 
-message brokers RabbitMQ SQS Kafka GCP Cloud Tasks other 
+message brokers RabbitMQ SQS Kafka GCP Cloud Tasks other
 
-identity management Okta OAuth2 JWT Firebase Auth0 Authy 
+identity management Okta OAuth2 JWT Firebase Auth0 Authy
 
 CDN providers Akamai BunnyCDN Limelight Networks Fastly CDN77 Cloudflare
 
@@ -9658,7 +9679,7 @@ static data-flow graphs
 
 discriminator generator GAN
 
-binary cross entropy 
+binary cross entropy
 
 nn.Sequential
 nn.Linear
@@ -9802,7 +9823,7 @@ problem hole idea hole code
 ROC Curve
 Line Graph
 Bar Chart
-Box Plot 
+Box Plot
 
 Scatter Plot
 Heatmap for Classification
@@ -9838,7 +9859,7 @@ git clone https://huggingface.co/tannal/build
 git lfs install
 git lfs pull
 
-tar zcvf 
+tar zcvf
 
 pip install huggingface_hub
 huggingface-cli login
@@ -9873,13 +9894,13 @@ vite vitest
 
 it expect test
 
-happydom jsdom servo-rustdom vitest 
+happydom jsdom servo-rustdom vitest
 
 fail runIf skipIf
 
 process.env.NODE_ENV .test .spec
 
-https://google.github.io/comprehensive-rust/memory-management/approaches.html 
+https://google.github.io/comprehensive-rust/memory-management/approaches.html
 
 v8 pku feature
 
@@ -9988,7 +10009,7 @@ Hans Wennborg
 
 cmake --build build --target clean
 cmake -S . -B build -G Ninja
-cmake --build build 
+cmake --build build
 
 chocolatey winget
 
@@ -9999,14 +10020,14 @@ llc a.bc -o a.o
 clang a.o -o a.out
 
 
-lli llc 
+lli llc
 
 objdump a.o
 history
 
 ```
 
-https://github.com/ggerganov/ggml -> https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022 -> llama.cpp -> 
+https://github.com/ggerganov/ggml -> https://github.com/ggerganov/llama.cpp/issues/33#issuecomment-1465108022 -> llama.cpp ->
 
 dl.acm.org/citation.cfm?id=977673
 https://llvm.org/pubs/2003-09-30-LifelongOptimizationTR.pdf
@@ -10023,8 +10044,8 @@ cd local/
 
 cd ..
 ls
-./node local/addon.js 
-../node addon.js 
+./node local/addon.js
+../node addon.js
 history
 
 ```
@@ -10183,7 +10204,7 @@ activity application service
 
 tasks(process) backstack standard single top single task single instance
 
-view model per screen mvvm 
+view model per screen mvvm
 
 context App betwwen Android OS (system & other app)
 
@@ -10238,7 +10259,7 @@ SYCL Khronos Standard OpenMP / OpenCL kernels codeplay
 online offline compilation IR finalization
 
 AMD HIP Heterogeneous https://github.com/ROCm/HIP
-OpenCL 
+OpenCL
 
 AI/ML Tensorflow / pytorch
 HPC
@@ -10252,7 +10273,7 @@ cuDNN BLAS
 
 https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary?hl=en#NavigationBar(androidx.compose.ui.Modifier,androidx.compose.ui.graphics.Color,androidx.compose.ui.graphics.Color,androidx.compose.ui.unit.Dp,androidx.compose.foundation.layout.WindowInsets,kotlin.Function1)
 
-Card Text 
+Card Text
 
 alt enter
 CTRL+P - show parameters of method when cursor inside parameters;
@@ -10263,7 +10284,7 @@ ALT+J - multiline selection;
 CTRL+ALT+T - surround with menu (useful for adding try/catch blocks);
 CTRL+ALT+SHIFT+T - refactor code menu;
 ALT+INSERT - generate code menu (override/implement methods, generate toString()/hash() methods);
-CTRL+ALT+L - reformat code according language code convention (i press this shortcut every time code is changed); 
+CTRL+ALT+L - reformat code according language code convention (i press this shortcut every time code is changed);
 CTRL+ALT+O - delete unused imports;
 SHIFT+F6 - rename anything renamable;
 CTRL+/ - comment/uncomment line;
@@ -10481,7 +10502,7 @@ computer networking
 
 operating systems
 
-clay tablets pen and paper ink and parchment 
+clay tablets pen and paper ink and parchment
 
 vinyl audio record film photography
 
@@ -10525,7 +10546,7 @@ when you do research, you read and understand, then write it down.
 
 when you do programming, you have a goal and make a program that achieve the goal
 
-might not love programming 
+might not love programming
 
 phase locked loop
 
@@ -10538,7 +10559,7 @@ battery crystal oscillator integrated circuit electromagnet gear train
 
 tokio::main tokio::spawn
 
-triangles (a, b) (c, d) find 
+triangles (a, b) (c, d) find
 
 grid squares that are surrounded by at least one of the given rectangles.
 
@@ -10660,7 +10681,7 @@ cmake --build build
 cmake -S . -B aarch64 -DCMAKE_CXX_FLAGS="-mtune=cortex-a76" -DCMAKE_C_FLAGS="-mtune=cortex-a76"
 cmake --build aarch64 --config Release
 
-dnf Fedora 
+dnf Fedora
 
 # 2024-1-16  | 1
 
@@ -10691,7 +10712,7 @@ unsafe dereference a raw pointer call an unsafe function impl unsafe trait acces
 
 macro_rules!
 
-unsafe async procedure macro 
+unsafe async procedure macro
 
 computer has "infinite" bits to flip and move, so it can "fool" people.
 
@@ -10876,21 +10897,21 @@ back to cn social media
 rmeote & open source / typical cn company / cn startup
 make sure 1.01 theory
 no restriction ways
-make it impressive amazing 
+make it impressive amazing
 
 # 2024-1-13 1+1+1+1+1+1 | 1+1+1
 
-► Computer architecture	
-► Computer networks	
-► Computer security	
-► Databases	
-► Design automation	
-► Embedded & real-time systems  	
-► High-performance computing	
-► Mobile computing	
-► Measurement & perf. analysis 	
-► Operating systems	
-► Programming languages	
+► Computer architecture
+► Computer networks
+► Computer security
+► Databases
+► Design automation
+► Embedded & real-time systems
+► High-performance computing
+► Mobile computing
+► Measurement & perf. analysis
+► Operating systems
+► Programming languages
 ► Software engineering
 
 https://marabos.nl/atomics/
@@ -10919,10 +10940,10 @@ sudo sysctl -w fs.inotify.max_user_watches=131072
 
 sudo swapoff -a
 
-.debug_str 
+.debug_str
 .debug_line
-.debug_abbrev 
-.debug_info 
+.debug_abbrev
+.debug_info
 .debug_aranges
 
 pnpm, like npm and Yarn deal with package.json
@@ -10972,7 +10993,7 @@ why people can create new words.
 naming things
 
 stable things will remain stable, rapidly chaning things will remain rapdily changes which will blow your mind.
-corpus 
+corpus
 
 Chatbots, predictive text, and virtual assistants all use language models.
 
@@ -10988,7 +11009,7 @@ thoughts on replace the default yjs-demo use contenteditable for local sharing
 
 https://en.wikipedia.org/wiki/Generative_artificial_intelligence
 
-text and images 
+text and images
 
 https://twitter.com/servodev
 
@@ -10998,9 +11019,9 @@ https://www.infinitech-intl.com/en/page/careers
 
 https://next-ai-news.vercel.app/search?q=remote
 
-testing error handling logging 
+testing error handling logging
 
-astro vite rollup -> 
+astro vite rollup ->
 
 vscode ssh tunning port forwarding
 
@@ -11060,7 +11081,7 @@ DevOps Software Development Engineer
 AI Software Solutions Engineer
 
 
-nvidia 
+nvidia
 Graphics Tools Software Engineer Intern
 Software Engineering Intern - Compiler Technology
 NVIDIA 2024 Internships: Computer Architecture Intern
@@ -11123,14 +11144,14 @@ pip install requests -U
 
 change docker-compose to docker compose
 
-# 2024-1-10 
+# 2024-1-10
 # 2024-1-11
 
 lots of good information but no claims of any accuracy do your own research
 
 # 2024-1-10 1 | 1
 
-Bazel CMake ninja auto-ninja 
+Bazel CMake ninja auto-ninja
 
 CMake -> ninja
 Cmake -> make
@@ -11162,7 +11183,7 @@ tar gcc-13.2.0.tar.xz
 
 Judea Pearl's home page.
 
-nvidia dlss scaling to 4k 
+nvidia dlss scaling to 4k
 
 CUDA/Shading cores run graphics rendering pipeline
 ray tracing cores
@@ -11174,9 +11195,9 @@ Tensor Cores dlss
 
 This explosion in computing power has let scientists build ANNs that learn to identify people in images, play chess, and even help doctors make medical diagnoses.
 
-still weak AI identify things in 
+still weak AI identify things in
 
-## reinstalling ubuntu 
+## reinstalling ubuntu
 
 ```bash
 
@@ -11186,7 +11207,7 @@ sudo systemctl enable ssh
 
 ```
 
-send: ok, make sense | 
+send: ok, make sense |
 recv: use tools/import_map.json | IMO, ...|
 
 https://github.com/rust-lang/rust/issues/33159
@@ -11195,7 +11216,7 @@ https://github.com/rust-lang/rust/issues/33159
 # 2024-1-9  1+1+1+1+1 | 1+1+1
 
 
-## x86 registers 
+## x86 registers
 
 %eax %ebx %esp
 
@@ -11278,7 +11299,7 @@ parabola
 
 how to c t p l
 
-1T1C Cell 
+1T1C Cell
 
 2**11 * 2**16 * 2**5 4GB
 
@@ -11287,7 +11308,7 @@ how to c t p l
 
 32gb memory
 
-bank row decoder back section address input bank group bank control bank selection column multiplexer 
+bank row decoder back section address input bank group bank control bank selection column multiplexer
 
 video editing https://www.remotion.dev/ kdenlive
 
@@ -11327,7 +11348,7 @@ date --universal --iso-8601=s
 
 cd src/pages/posts/
 
-git pull 
+git pull
 
 cd ../../../
 
@@ -11401,7 +11422,7 @@ sudo update-alternatives --config java
 1990-2005 Server-rendered HTML /cgi-bin php django ASP.NET pearl
 2005-2010 Server html scattered js jquery ajax
 2010-2015 Early client rendering backbone.js knockout angular ember
-2015-2024 Modern Client rendering (SPA) react vue angular 
+2015-2024 Modern Client rendering (SPA) react vue angular
 2024-future Server + Client Components NEXT.js Nuxt.js Astro svelte blazor
 
 SSR enhanced dev
@@ -11494,7 +11515,7 @@ strace -e execve node
 
 node detect is debug in program
 
-context (real time analogy joke) -> computing problem 
+context (real time analogy joke) -> computing problem
 
 CTRL-Z as sending EOF
 
@@ -11620,7 +11641,7 @@ sudo apt update
 sudo apt install gh
 gh auth login
 
-git config --global http.sslverify false 
+git config --global http.sslverify false
 git config --global imap.sslverify false
 
 .\vcpkg\bootstrap-vcpkg.bat
@@ -11658,7 +11679,7 @@ pnpm build && firebase deploy --only hosting
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
-nvm 
+nvm
 
 git clone https://www.github.com/tannal/tannal.web.app
 
@@ -11718,20 +11739,20 @@ sudo fdisk -l
 
 sudo fdisk /dev/sda
 
-sudo fdisk /dev/sda 
+sudo fdisk /dev/sda
 lsblk
 sudo umount /dev/sda
 lsblk
 sudo umount /dev/sda
 lsblk
-ls /dev/sda 
-sudo umount /dev/sda 
-sudo mkfs.vfat /dev/sda 
+ls /dev/sda
+sudo umount /dev/sda
+sudo mkfs.vfat /dev/sda
 sudo fsck /dev/sda
 
 sudo apt-get -y install m4
 sudo apt install mesa-utils
-DRI_PRIME=1 glxinfo | grep "OpenGL renderer" 
+DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
 
 ```bash
 
@@ -11769,7 +11790,7 @@ shutdown -h 0
 
 include/v8.h
 
-servo surfman webrender 
+servo surfman webrender
 
 STM32MP1 platform boot
 
@@ -11812,12 +11833,12 @@ stats
 
 ```bash
 
-// TODO tcpdump wireshark 
+// TODO tcpdump wireshark
 set lisi 0 0  3    3       #插入一个数据
 aaa              #插入的数据为aaa
 STORED             #返回“STORED”则表示插入成功
 get lisi                  #查询插入的数据
-VALUE lisi 0 3          
+VALUE lisi 0 3
 aaa
 END
 set lisi 0 0 4          #修改“lisi”这个key的值为bbbb
@@ -11966,7 +11987,7 @@ pip freeze
 
 BuildRoot OpenWrt Yocto
 
-LLVM IR 
+LLVM IR
 
 instructions
 
@@ -12077,7 +12098,7 @@ LLVM MIR
 
 Machine code
 
-clang opt llc llc llc Machine Code 
+clang opt llc llc llc Machine Code
 
 wabt
 
@@ -12155,7 +12176,7 @@ calling convention
 
 may push stack
 
-jump 
+jump
 
 bus transport blocks of words (32bit or 64bit)
 cpu register size is a word
@@ -12166,7 +12187,7 @@ OS/360 Multics Honeywell
 
 An example of getpeername security problem in Freebsd
 
-copy_from_kernel 
+copy_from_kernel
 
 
 # 2023-12-17
@@ -12225,7 +12246,7 @@ https://xuanwo.io/reports/2022-21/
 
 # 2023-12-14
 
-tree -L 2 .  
+tree -L 2 .
 
 # 2023-12-13
 
@@ -12387,10 +12408,10 @@ Garbage Collection
 The Immix mark-region garbage collector
 
 type system
-module system design, 
-efficient compilation of functional programming languages, 
-bytecode verification, 
-verified compilation, and 
+module system design,
+efficient compilation of functional programming languages,
+bytecode verification,
+verified compilation, and
 verified static analysis.
 
 # 2023-12-07
@@ -12408,7 +12429,7 @@ verified static analysis.
 (list ) make a list
 
 
-- haoranxu 
+- haoranxu
 
 Garbage Collection in webkit
 
@@ -12426,7 +12447,7 @@ virtualize cpu & device
 
 ## docker
 
-chroot 
+chroot
 
 security
 
@@ -12487,11 +12508,11 @@ https://slideplayer.com/slide/3855960/
 - Sam Westrick https://www.cs.cmu.edu/~swestric/
 
   phd thesis implement a compiler
-  
-  currently CMU postdoc 
-  
+
+  currently CMU postdoc
+
   known from [PLMW@ICFP'23] How to Thrive as a PhD student in PL
-  
+
   https://www.youtube.com/watch?v=Nn729OkfzBQ&list=PLyrlk8Xaylp60H6hgCjcRengd2O1DoS3E&index=1
 
 

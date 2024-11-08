@@ -2,6 +2,27 @@
 
 # inbox
 
+文本：vLLM
+视觉：TorchServe + CLIP
+音频：Whisper + Triton
+视频：VideoMAE
+调度：Ray
+监控：Prometheus + Grafana
+10. 关键优化点：
+模态特定的批处理策略
+跨模态缓存机制
+GPU 内存管理
+模态间的负载均衡
+特征提取复用
+推理结果缓存
+这种架构能够支持：
+多模态输入处理
+模态间的协同推理
+高效的资源利用
+灵活的扩展性
+端到端的流式处理
+
+
 train on one machine with one gpu
 train on one machine with multiple gpus
 parallelism
@@ -18,7 +39,7 @@ whisper.cpp
 llama.cpp
 stable-diffusion.cpp
 clip.cpp
-bark.cpp  
+bark.cpp
 
 fine-tuning
 lora QLora ...
@@ -57,5 +78,3 @@ make train_gpt2cu
     -n 5000 \
     -v 250 -s 20000 \
     -h 1
-
-

@@ -1,5 +1,61 @@
 
 
+使用 FFmpeg 旋转视频有几种常用方法：
+
+1. 使用 transpose 滤镜旋转90度的倍数：
+
+```bash
+# 顺时针旋转90度
+ffmpeg -i input.mp4 -vf "transpose=1" output.mp4
+
+# 逆时针旋转90度
+ffmpeg -i input.mp4 -vf "transpose=2" output.mp4
+
+# 旋转180度
+ffmpeg -i input.mp4 -vf "transpose=2,transpose=2" output.mp4
+```
+
+2. 使用 rotate 滤镜旋转任意角度：
+
+```bash
+# 旋转45度
+ffmpeg -i input.mp4 -vf "rotate=45*PI/180" output.mp4
+
+# 旋转180度
+ffmpeg -i input.mp4 -vf "rotate=PI" output.mp4
+```
+
+3. 对于竖屏视频转横屏的特殊处理：
+
+```bash
+# 竖屏视频转横屏（添加黑边）
+ffmpeg -i input.mp4 -vf "rotate=PI/2:ow=ih:oh=iw,pad=width=max(iw\,ih):height=min(iw\,ih):x=(max(iw\,ih)-ow)/2:y=0" output.mp4
+```
+
+transpose 参数说明：
+- 0 = 90度逆时针旋转并垂直翻转
+- 1 = 90度顺时针旋转
+- 2 = 90度逆时针旋转
+- 3 = 90度顺时针旋转并垂直翻转
+
+如果需要保持视频质量，可以添加编码参数：
+
+```bash
+ffmpeg -i input.mp4 -vf "transpose=1" -c:v libx264 -crf 23 -c:a copy output.mp4
+```
+
+对于你的情况，如果要将竖屏视频转为横屏：
+
+```bash
+ffmpeg -i input.mp4 -vf "transpose=1" -c:v libx264 -crf 23 -c:a copy output.mp4
+```
+
+这将会：
+1. 顺时针旋转90度
+2. 使用x264编码器
+3. 设置合理的压缩率(crf=23)
+4. 保持原有的音频流不变
+
 
 我来分析一些比较有代表性的游戏及其开发团队：
 1. 经典系列游戏
@@ -829,11 +885,11 @@ Chalk.ist:
         content: string(title);
       }
     }
-    
+
     h1 {
       string-set: title content(text);
     }
-    
+
     .columns {
       column-count: 2;
       column-gap: 1cm;
@@ -985,20 +1041,20 @@ pandoc input.md \
     margin: (x: 2.5cm, y: 2.5cm),
     numbering: "1",
   )
-  
+
   // 标题页
   align(center)[
     #block(text(2em, weight: 700, title))
     #block(spacing(2cm))
     #block(text(1.2em, authors.join(", ")))
   ]
-  
+
   // 目录
   outline(
     title: "目录",
     indent: true
   )
-  
+
   // 正文
   body
 }
@@ -1041,30 +1097,30 @@ def hello():
       --page-height: 297mm;
       --margin: 25mm;
     }
-    
+
     @page {
       size: var(--page-width) var(--page-height);
       margin: var(--margin);
-      
+
       @top-center {
         content: string(chapter);
       }
-      
+
       @bottom-center {
         content: counter(page);
       }
     }
-    
+
     h1 {
       string-set: chapter content(text);
       break-before: page;
     }
-    
+
     .two-columns {
       column-count: 2;
       column-gap: 1cm;
     }
-    
+
     .code {
       font-family: 'Source Code Pro';
       background: #f5f5f5;
@@ -1072,12 +1128,12 @@ def hello():
       margin: 1em 0;
       white-space: pre-wrap;
     }
-    
+
     table {
       width: 100%;
       border-collapse: collapse;
     }
-    
+
     td, th {
       border: 1px solid #ddd;
       padding: 0.5em;
@@ -1338,7 +1394,7 @@ stroke
     /width 200 def
     /x 72 def
     /y 300 def
-    
+
     0 1 steps {
         /i exch def
         i steps div /g exch def
@@ -1359,14 +1415,14 @@ gradient
     /spacing 20 def
     .8 setgray
     .5 setlinewidth
-    
+
     0 spacing 300 {
         /i exch def
         72 i moveto
         272 i lineto
         stroke
     } for
-    
+
     72 spacing 272 {
         /i exch def
         i 100 moveto
@@ -3051,7 +3107,7 @@ Chrome/Edge(Chromium架构):
 - 内部有专门的File System线程池处理读写
 - 主要在browser_process的IO线程进行调度
 
-2. SQLite操作: 
+2. SQLite操作:
 - Browser进程中的SQL Thread Pool
 - 每个数据库文件对应一个专门线程
 - 避免SQLite操作阻塞UI
@@ -3192,7 +3248,7 @@ int transcode_video() {
     AVFormatContext *output_ctx = NULL;
     AVCodecContext *decoder_ctx = NULL;
     AVCodecContext *encoder_ctx = NULL;
-    
+
     // 配置转码参数
     avformat_open_input(&input_ctx, input_file, NULL, NULL);
     avformat_alloc_output_context2(&output_ctx, NULL, NULL, output_file);
@@ -3233,10 +3289,10 @@ class HybridPipeline:
         # 结合GStreamer和FFmpeg优点
         self.gst_pipeline = GStreamerPipeline()
         self.ffmpeg_transcoder = FFmpegTranscoder()
-        
+
         # 智能调度系统
         self.scheduler = MediaScheduler()
-        
+
     def process(self, media):
         if media.needs_realtime:
             return self.gst_pipeline.process(media)
@@ -3309,13 +3365,13 @@ impl VideoPlayer {
         let file = self.random_file();
         // 选择随机时间点
         let timestamp = self.random_timestamp(&file);
-        
+
         // 记录日志
         self.log.record(&file, timestamp);
-        
+
         // 预加载下一段
         self.prepare_next_segment();
-        
+
         // 无缝切换
         self.transition_to_next();
     }
@@ -3436,7 +3492,7 @@ fn create_pipeline() -> gst::Pipeline {
 - Joe Armstrong (Erlang创始人)
   - 论文：《Making reliable distributed systems in the presence of software errors》
   - 主张: Actor模型与消息传递
-  
+
 - Carl Hewitt
   - 发表Actor模型理论
   - 强调状态隔离和消息传递的重要性
@@ -3450,7 +3506,7 @@ fn create_pipeline() -> gst::Pipeline {
 - Zed Editor (之前的Atom)
   - 使用类似的状态管理模式
   - Nathan Sobo主导开发
-  
+
 - Xi Editor
   - Raph Levien设计
   - 使用CRDT与状态同步
@@ -3579,7 +3635,7 @@ impl Editor {
             buffer.notify_changes(cx);
         });
     }
-    
+
     // 读取内容
     pub fn get_text(&self) -> String {
         self.buffer.read(|buffer| {
@@ -7924,7 +7980,7 @@ sample = np.random.normal(mean, std)  # 得到一个帽子尺寸
   - libdispatch (GCD) - 开源
   - libsystem_kernel - 开源
   - libsystem_platform - 开源
-  
+
 - libc (基于FreeBSD) - 开源
 - libclosure (Blocks runtime) - 开源
 - compiler-rt - 开源
@@ -8345,7 +8401,7 @@ VEB ASIA LIMITED:
 工业界/商业产品:
 
 1. Gil Tene - Azul Systems的CTO,开发了C4垃圾收集器
-2. Tony Printezis - G1 GC的设计者,现任Red Hat首席工程师  
+2. Tony Printezis - G1 GC的设计者,现任Red Hat首席工程师
 3. Oracle JVM团队 - ZGC低延迟垃圾收集器
 
 开源社区:
@@ -8464,7 +8520,7 @@ SwiftUI：
 // Apple的声明式UI框架
 struct ContentView: View {
     @State private var text: String
-    
+
     var body: some View {
         TextField("Enter text", text: $text)
             .textFieldStyle(RoundedBorderTextFieldStyle())
@@ -8526,7 +8582,7 @@ Dan Abramov
 状态管理类型系统：
 ```typescript
 // Redux类型安全
-type Action = 
+type Action =
   | { type: 'INCREMENT' }
   | { type: 'SET_COUNT', payload: number };
 
@@ -8551,10 +8607,10 @@ struct Layout<Content: View> {
     let content: Content
     let alignment: Alignment
     let spacing: CGFloat?
-    
+
     func spacing(_ spacing: CGFloat?) -> Layout {
-        Layout(content: content, 
-              alignment: alignment, 
+        Layout(content: content,
+              alignment: alignment,
               spacing: spacing)
     }
 }
@@ -8599,7 +8655,7 @@ $('#button')
 data Layout : Type where
     HBox : Vect n Widget -> Layout
     VBox : Vect n Widget -> Layout
-    
+
 -- 类型安全的布局组合
 arrangeWidgets : Layout -> Dimensions -> Layout
 ```
@@ -9013,7 +9069,7 @@ type family MapList f xs where
 // Solidity with types
 contract TypeSafe {
     mapping(address => uint) balances;
-    
+
     function transfer(address to, uint amount) public {
         require(balances[msg.sender] >= amount);
         balances[msg.sender] -= amount;
@@ -9100,7 +9156,7 @@ typedef struct hb_font_t {
     hb_face_t *face;
     float scale_x;           // x方向缩放
     float scale_y;           // y方向缩放
-    
+
     // FreeType相关数据
     FT_Face ft_face;         // FreeType字体face
     hb_ft_font_funcs_t *ft_funcs; // FreeType函数接口
@@ -9170,7 +9226,7 @@ hb_font_get_glyph(font, unicode, 0, &glyph_id);
 字形定位：
 ```c
 hb_position_t x_advance, y_advance;
-hb_font_get_glyph_advance_for_direction(font, 
+hb_font_get_glyph_advance_for_direction(font,
                                       glyph_id,
                                       HB_DIRECTION_LTR,
                                       &x_advance,
@@ -9180,7 +9236,7 @@ hb_font_get_glyph_advance_for_direction(font,
 连字处理：
 ```c
 hb_codepoint_t ligature;
-hb_font_get_ligature(font, 
+hb_font_get_ligature(font,
                      first_glyph,
                      second_glyph,
                      &ligature);
@@ -9194,29 +9250,29 @@ void render_text(const char* text, FT_Face ft_face) {
     // 1. HarfBuzz处理
     hb_buffer_t *buf = hb_buffer_create();
     hb_font_t *hb_font = hb_ft_font_create(ft_face, NULL);
-    
+
     hb_buffer_add_utf8(buf, text, -1, 0, -1);
     hb_shape(hb_font, buf, NULL, 0);
-    
+
     // 2. 获取排版结果
     unsigned int glyph_count;
-    hb_glyph_info_t *glyph_info = 
+    hb_glyph_info_t *glyph_info =
         hb_buffer_get_glyph_infos(buf, &glyph_count);
-    hb_glyph_position_t *glyph_pos = 
+    hb_glyph_position_t *glyph_pos =
         hb_buffer_get_glyph_positions(buf, &glyph_count);
-    
+
     // 3. FreeType渲染
     for (unsigned int i = 0; i < glyph_count; i++) {
         FT_Load_Glyph(ft_face, glyph_info[i].codepoint, FT_LOAD_DEFAULT);
         FT_Render_Glyph(ft_face->glyph, FT_RENDER_MODE_NORMAL);
-        
+
         // 使用位置信息渲染
         int x = glyph_pos[i].x_offset / 64;
         int y = glyph_pos[i].y_offset / 64;
-        
+
         render_bitmap(&ft_face->glyph->bitmap, x, y);
     }
-    
+
     // 清理
     hb_buffer_destroy(buf);
     hb_font_destroy(hb_font);
@@ -9237,20 +9293,20 @@ typedef struct {
 // 缓存管理
 class GlyphCacheManager {
     std::unordered_map<uint32_t, GlyphCache> cache;
-    
+
 public:
     const GlyphCache* get_cached_glyph(uint32_t glyph_index) {
         auto it = cache.find(glyph_index);
         return it != cache.end() ? &it->second : nullptr;
     }
-    
+
     void cache_glyph(uint32_t glyph_index, const FT_GlyphSlot glyph) {
         GlyphCache gc;
         gc.glyph_index = glyph_index;
         gc.bitmap = glyph->bitmap;
         gc.advance = glyph->advance;
         FT_Glyph_Get_CBox(glyph, FT_GLYPH_BBOX_PIXELS, &gc.bbox);
-        
+
         cache[glyph_index] = gc;
     }
 };
@@ -9263,13 +9319,13 @@ public:
 struct GlyphBatch {
     std::vector<hb_glyph_info_t> glyphs;
     std::vector<hb_glyph_position_t> positions;
-    
-    void add_glyph(const hb_glyph_info_t& info, 
+
+    void add_glyph(const hb_glyph_info_t& info,
                    const hb_glyph_position_t& pos) {
         glyphs.push_back(info);
         positions.push_back(pos);
     }
-    
+
     void render_batch(FT_Face face, GlyphCacheManager& cache) {
         for (size_t i = 0; i < glyphs.size(); i++) {
             const auto* cached = cache.get_cached_glyph(glyphs[i].codepoint);
@@ -9425,7 +9481,7 @@ Bloomberg的前端团队规模大有几个主要原因：
 
 Hi there, :wave::skin-tone-2:.  I’m Glen Ratcliffe part of the Epic Games team.  Creators of Unreal Engine 5 and various AAA game franchises such as Fortnite.Our team is in the midst of some exciting Webkit projects and as such are now looking to hire Senior programmers who’d like to join us as we build some cool stuff.In summary,
 
-    We are looking for Advanced C++ programming skills including templates and C++17/20 skills 
+    We are looking for Advanced C++ programming skills including templates and C++17/20 skills
     Technical knowledge of WebKit (Web Core / JavascriptCore) and browser engine code base in general
     Working knowledge of web standards HTML5, CSS, JavaScript, DOM
     Advanced debugging skills
@@ -9918,7 +9974,7 @@ class WikiPage:
         self.content = ""
         self.history = []
         self.discussions = []
-    
+
     def edit(self, user, new_content):
         # 版本控制和协作编辑
         pass
@@ -9981,7 +10037,7 @@ class AIKnowledgeAssistant:
     def __init__(self):
         self.knowledge_base = []
         self.learning_model = None
-    
+
     def integrate_knowledge(self, new_info):
         # AI辅助知识整合
         pass
@@ -10302,7 +10358,7 @@ SVG确实主要关注矢量图形，但其实涉及多个重要领域：
 - 可访问性(Accessibility)
 - 打印输出
 - 颜色管理
-- DOM操作和脚本交互 
+- DOM操作和脚本交互
 - 响应式设计
 
 4. 重要应用场景：
@@ -10510,7 +10566,7 @@ Frontend (API):
 
 Core:
 - Vello 渲染引擎
-- Typst 排版引擎 
+- Typst 排版引擎
 - GPU加速动画系统
 
 Output:
@@ -10735,25 +10791,25 @@ enum Filter {
         radius: f32,
         edge_mode: EdgeMode,
     },
-    
+
     // 颜色变换
     ColorMatrix {
         matrix: [f32; 20], // 5x4 矩阵
     },
-    
+
     // 光照效果
     Lighting {
         light_source: LightSource,
         surface_scale: f32,
     },
-    
+
     // 合成
     Composite {
         mode: CompositeMode,
         input1: FilterInput,
         input2: FilterInput,
     },
-    
+
     // 变形
     Displacement {
         scale: Vec2,
@@ -10773,7 +10829,7 @@ class SkImageFilter {
                     const SkImage* src,
                     const SkImageFilter::Context&,
                     SkIRect* bounds) const;
-                    
+
     // CPU实现
     bool filterImage(const SkImage* src,
                     const SkImageFilter::Context&,
@@ -10783,7 +10839,7 @@ class SkImageFilter {
 // 高斯模糊示例
 class SkBlurImageFilter : public SkImageFilter {
     float sigmaX, sigmaY;
-    
+
     void computeFastBounds(const SkRect& src) {
         // 快速边界计算
         bounds.outset(3 * sigmaX, 3 * sigmaY);
@@ -10797,13 +10853,13 @@ Cairo实现:
 cairo_surface_t* apply_filter(
     cairo_surface_t* surface,
     const cairo_filter_t* filter) {
-    
+
     // 1. 创建临时surface
     cairo_surface_t* tmp = cairo_surface_create_similar(
         surface,
         CAIRO_CONTENT_COLOR_ALPHA,
         width, height);
-        
+
     // 2. 应用过滤器
     cairo_t* cr = cairo_create(tmp);
     switch(filter->type) {
@@ -10812,7 +10868,7 @@ cairo_surface_t* apply_filter(
             break;
         // ...
     }
-    
+
     return tmp;
 }
 ```
@@ -10827,26 +10883,26 @@ enum GraphicsOperation {
         matrix: Mat3,
         child: Box<GraphicsOperation>,
     },
-    
+
     // 2. 遮罩(Mask)
     Mask {
         mask: Path,
         child: Box<GraphicsOperation>,
     },
-    
+
     // 3. 混合模式(Blend Mode)
     Blend {
         mode: BlendMode,
         top: Box<GraphicsOperation>,
         bottom: Box<GraphicsOperation>,
     },
-    
+
     // 4. 过滤器(Filter)
     Filter {
         filter: Filter,
         input: Box<GraphicsOperation>,
     },
-    
+
     // 5. 剪切(Clip)
     Clip {
         path: Path,
@@ -10866,13 +10922,13 @@ struct UIEffect {
         color: Color::BLACK,
         offset: Vec2::new(2.0, 2.0),
     },
-    
+
     // 2. 磨砂玻璃效果
     frost_glass: Vec<Filter> {
         Filter::Blur { radius: 20.0 },
         Filter::ColorMatrix { /* ... */ },
     },
-    
+
     // 3. 发光效果
     glow: Filter::Lighting {
         light_source: LightSource::Point { /* ... */ },
@@ -10888,13 +10944,13 @@ struct ImageProcessor {
         Filter::ColorMatrix { /* 对比度调整 */ },
         Filter::ColorMatrix { /* 饱和度调整 */ },
     },
-    
+
     // 2. 艺术效果
     artistic: Vec<Filter> {
         Filter::Displacement { /* 扭曲 */ },
         Filter::Blur { /* 柔化 */ },
     },
-    
+
     // 3. 特殊效果
     special: Vec<Filter> {
         Filter::Composite { /* 多重曝光 */ },
@@ -10908,10 +10964,10 @@ struct ImageProcessor {
 struct DataViz {
     // 1. 热力图
     heatmap: Filter::ColorMatrix { /* 颜色映射 */ },
-    
+
     // 2. 等高线
     contour: Filter::Displacement { /* 梯度映射 */ },
-    
+
     // 3. 流场可视化
     flow_field: Filter::Displacement { /* 向量场 */ },
 }
@@ -10923,13 +10979,13 @@ struct DataViz {
 struct FilterOptimization {
     // 1. 边界优化
     bounds: Rect,
-    
+
     // 2. 缓存策略
     cache: Option<Surface>,
-    
+
     // 3. 硬件加速
     gpu_accelerated: bool,
-    
+
     // 4. 降采样
     downscale_factor: f32,
 }
@@ -10982,11 +11038,11 @@ sort_inout_decls(struct exec_list *var_list)
       if (var->data.mode != nir_var_shader_in &&
           var->data.mode != nir_var_shader_out)
          continue;
-      
+
       // 基于location进行排序
       list_addtail(&var->node, &sorted_list);
    }
-   
+
    // 插入排序算法
    list_for_each_entry_safe(nir_variable, var, &sorted_list, node) {
       if (var->data.location < prev_loc) {
@@ -11001,15 +11057,15 @@ sort_inout_decls(struct exec_list *var_list)
 2. 图形管线中的深度排序：
 ```c
 // Z-buffer排序实现
-void depth_sort(DrawCommand* cmds, uint32_t count) 
+void depth_sort(DrawCommand* cmds, uint32_t count)
 {
     // 计算每个绘制命令的深度值
     for (uint32_t i = 0; i < count; i++) {
         cmds[i].depth = calculate_depth(cmds[i]);
     }
-    
+
     // 基于深度值排序
-    qsort(cmds, count, sizeof(DrawCommand), 
+    qsort(cmds, count, sizeof(DrawCommand),
           [](const void* a, const void* b) {
               const DrawCommand* cmd1 = (const DrawCommand*)a;
               const DrawCommand* cmd2 = (const DrawCommand*)b;
@@ -11026,14 +11082,14 @@ sort_transparent_objects(struct pipe_context *pipe,
                         struct draw_context *draw)
 {
     struct draw_batch *batch = draw->current_batch;
-    
+
     // 收集透明对象
     for (uint i = 0; i < batch->prim_count; i++) {
         if (batch->prims[i].material.alpha < 1.0f) {
             transparent_list[trans_count++] = &batch->prims[i];
         }
     }
-    
+
     // 从后向前排序
     qsort(transparent_list, trans_count, sizeof(void*),
           compare_primitive_depth);
@@ -11047,12 +11103,12 @@ static void
 sort_uniforms(struct gl_shader_program *prog)
 {
     struct gl_uniform_storage *uniforms = prog->UniformStorage;
-    
+
     // 按照大小和对齐要求排序
     qsort(uniforms, prog->NumUniformStorage,
           sizeof(struct gl_uniform_storage),
           compare_uniform_slots);
-          
+
     // 重新计算偏移量
     GLint offset = 0;
     for (unsigned i = 0; i < prog->NumUniformStorage; i++) {
@@ -11070,16 +11126,16 @@ static void
 schedule_instructions(nir_block *block)
 {
     struct list_head instructions;
-    
+
     // 收集指令依赖关系
     NIR_PASS_V(shader, nir_collect_definitions);
-    
+
     // 拓扑排序
     list_for_each_entry_safe(nir_instr, instr, &block->instructions, node) {
         // 检查依赖
         if (has_unscheduled_deps(instr))
             continue;
-            
+
         // 移动到已调度列表
         list_del(&instr->node);
         list_add_tail(&instr->node, &instructions);
@@ -11124,12 +11180,12 @@ void batch_sort(DrawCmd* cmds, uint32_t count) {
 struct DrawHeap {
     DrawCmd* cmds;
     uint32_t size;
-    
+
     void push(DrawCmd cmd) {
         cmds[size] = cmd;
         heap_up(size++);
     }
-    
+
     DrawCmd pop() {
         DrawCmd top = cmds[0];
         cmds[0] = cmds[--size];
@@ -11146,7 +11202,7 @@ struct DrawCmds {
     float* depths;
     uint32_t* indices;
     uint32_t count;
-    
+
     void sort() {
         // 只排序深度和索引
         parallel_sort(depths, indices, count);
@@ -11162,17 +11218,17 @@ void parallel_merge_sort(DrawCmd* cmds, uint32_t count) {
         sequential_sort(cmds, count);
         return;
     }
-    
+
     uint32_t mid = count / 2;
     #pragma omp parallel sections
     {
         #pragma omp section
         parallel_merge_sort(cmds, mid);
-        
+
         #pragma omp section
         parallel_merge_sort(cmds + mid, count - mid);
     }
-    
+
     merge(cmds, mid, count);
 }
 ```
@@ -11386,7 +11442,7 @@ Based on how people actually make judgments and find truth, there are several ke
 - 专注于 Linux 应用程序兼容性
 - 性能良好，持续更新
 
-3. FEX-Emu 
+3. FEX-Emu
 - x86/x64 模拟器和运行时
 - 支持 Linux 主机系统
 - 开发活跃，性能优化
@@ -11405,7 +11461,7 @@ Based on how people actually make judgments and find truth, there are several ke
 - 游戏模拟：RetroArch
 - Linux ARM 设备运行 x86 程序：Box86/Box64
 - 通用 x86 模拟：FEX-Emu
-- Windows 程序：WINE/Proton 
+- Windows 程序：WINE/Proton
 
 需要更详细的信息或特定场景建议吗？
 
@@ -11432,7 +11488,7 @@ Based on the content provided and your question about notable figures and achiev
 
 4. 未来趋势：
 - 将单体预测扩展到多聚体结构预测
-- 提高对接精度和计算效率 
+- 提高对接精度和计算效率
 - 更好地整合实验数据和计算预测
 
 我可以根据您的兴趣进一步详细介绍任何特定方面。您想了解哪个方面的更多细节?
@@ -11891,22 +11947,22 @@ public:
     WhisperServer() {
         // 加载模型
         ctx = whisper_init_from_file("ggml-base.en.bin");
-        
+
         // WebSocket配置
         server.set_message_handler([this](auto hdl, auto msg) {
             // 接收音频数据
             auto audio_data = msg->get_payload();
-            
+
             // 使用whisper进行推理
             whisper_full_params wparams = whisper_full_default_params(WHISPER_SAMPLING_GREEDY);
             whisper_full(ctx, wparams, audio_data.data(), audio_data.size());
-            
+
             // 返回转写结果
             std::string result = whisper_get_text(ctx);
             server.send(hdl, result, msg->get_opcode());
         });
     }
-    
+
     void run() {
         server.listen(9002);
         server.start_accept();
@@ -11924,12 +11980,12 @@ public:
 class WhisperClient {
     websocketpp::client<websocketpp::config::asio_client> client;
     Pa_Stream *stream;
-    
+
 public:
     void startRecording() {
         // 初始化PortAudio
         Pa_Initialize();
-        
+
         // 打开音频流
         Pa_OpenDefaultStream(&stream,
                            1, // 单声道输入
@@ -11939,10 +11995,10 @@ public:
                            256, // 缓冲区大小
                            audioCallback,
                            this);
-                           
+
         Pa_StartStream(stream);
     }
-    
+
     static int audioCallback(const void *input, void *output,
                            unsigned long frameCount,
                            const PaStreamCallbackTimeInfo* timeInfo,
@@ -12964,7 +13020,7 @@ OpenAI和Anthropic在让AI拥有外部存储或记住当前用户方面采取了
 - 模型并行:将大型模型分割到多个设备上,每个设备只负责部分层的计算。
 - 流水线并行:将模型的不同层分配到不同设备,形成流水线结构。
 
-2. 模型压缩和优化 
+2. 模型压缩和优化
 
 - 知识蒸馏:用小模型学习大模型的知识。
 - 量化:将模型参数从float32压缩到int8等低精度。
@@ -13127,7 +13183,7 @@ bool GateKeeper::Enroll(uint32_t uid,
 
 public class FingerprintService extends SystemService implements IFingerprintService {
     // ...
-    
+
     public void authenticate(IBinder token, long operationId, int userId,
             IFingerprintServiceReceiver receiver, int flags, String opPackageName) {
         // 执行指纹认证
@@ -13206,7 +13262,7 @@ Return<void> Wifi::start(const sp<IWifiEventCallback>& eventCallback,
 
 public class WifiServiceImpl extends IWifiManager.Stub {
     // ...
-    
+
     public boolean setWifiEnabled(String packageName, boolean enable) {
         // 启用或禁用 Wi-Fi
     }
@@ -13251,7 +13307,7 @@ Return<void> BluetoothHci::initialize(
 
 public class AdapterService extends Service {
     // ...
-    
+
     public boolean enable() {
         // 启用蓝牙
     }
@@ -13294,7 +13350,7 @@ Return<NfcStatus> Nfc::open(const sp<INfcClientCallback>& clientCallback) {
 
 public class NfcService implements DeviceHostListener {
     // ...
-    
+
     public boolean enable() {
         // 启用 NFC
     }
@@ -13338,7 +13394,7 @@ Return<void> Radio::setDataAllowed(int32_t serial, bool allow) {
 
 public class DcTracker extends Handler {
     // ...
-    
+
     private void onSetDataEnabled(boolean enabled) {
         // 设置数据启用状态
     }
@@ -13364,7 +13420,7 @@ b. 应用框架层：
 
 public class SyncManager {
     // ...
-    
+
     public void scheduleSync(Account account, int userId, Bundle extras, String authority,
             int source, int reason) {
         // 安排同步操作
@@ -13377,7 +13433,7 @@ public class SyncManager {
 
 public abstract class SyncAdapter {
     // ...
-    
+
     public abstract void onPerformSync(Account account, Bundle extras,
             String authority, ContentProviderClient provider, SyncResult syncResult);
 }
@@ -13440,7 +13496,7 @@ Return<RequestStatus> BiometricsFingerprint::enroll(const hidl_array<uint8_t, 69
 
 public class FingerprintService extends SystemService implements IFingerprintService {
     // ...
-    
+
     public void authenticate(IBinder token, long operationId, int userId,
             IFingerprintServiceReceiver receiver, int flags, String opPackageName) {
         // 开始指纹认证过程
@@ -13490,7 +13546,7 @@ Return<void> Face::enroll(const hidl_array<uint8_t, 69>& hat, uint32_t timeoutSe
 
 public class FaceService extends SystemService {
     // ...
-    
+
     public void authenticate(IBinder token, long operationId, int userId,
             IFaceServiceReceiver receiver, int flags, String opPackageName) {
         // 开始人脸认证过程
@@ -13537,7 +13593,7 @@ void InputHub::processEvents(int timeoutMillis) {
 public class InputManagerService extends IInputManager.Stub
         implements Watchdog.Monitor {
     // ...
-    
+
     public void registerInputChannel(InputChannel inputChannel, InputWindowHandle inputWindowHandle) {
         // 注册输入通道，用于接收输入事件（包括手势）
     }
@@ -13549,7 +13605,7 @@ public class InputManagerService extends IInputManager.Stub
 
 public class GestureDetector {
     // ...
-    
+
     public boolean onTouchEvent(MotionEvent ev) {
         // 检测手势
     }
@@ -14106,7 +14162,7 @@ libXau.so.6：X11授权协议库。
 libXdmcp.so.6：X Display Manager Control Protocol库。
 libbsd.so.0：Berkeley Software Distribution兼容性库。
 libmd.so.0：消息摘要库。
-libXcursor.so.1：X11光标管理库。                                                                                                              
+libXcursor.so.1：X11光标管理库。
 libXrender.so.1：X Rendering Extension客户端库。
 libXfixes.so.3：X11 Fixes扩展库。
 这些库都是开源的，主要由以下组织维护：
@@ -14170,10 +14226,10 @@ def generate_sequence(model, token2idx, start_sequence, max_length=200, temperat
             probabilities = torch.softmax(output, dim=-1)
             next_token_idx = torch.multinomial(probabilities, 1).item()
             next_token = idx2token[next_token_idx]
-            
+
             if next_token == '</s>' and len(generated) < min_length:
                 continue  # 忽略过早的结束标记
-            
+
             generated.append(next_token)
             if next_token == '</s>' and len(generated) >= min_length:
                 break
@@ -14475,7 +14531,7 @@ Cloud Hypervisor 是一个用 Rust 编写的开源虚拟机监视器(Virtual Mac
 
 1. 安装 Cloud Hypervisor
    - 在 Ubuntu 上,可以使用 `apt` 安装:
-   
+
      ```
      sudo apt update
      sudo apt install cloud-hypervisor
@@ -14515,7 +14571,7 @@ Cloud Hypervisor 是一个用 Rust 编写的开源虚拟机监视器(Virtual Mac
 这个示例展示了如何使用 Cloud Hypervisor 快速启动一个最小化的 Linux 虚拟机。Cloud Hypervisor 还支持更高级的功能,如设备热插拔、vhost-user 设备离线等。
 
 将 Cloud Hypervisor 与 Docker 或 K3s 结合使用的一种可能方式是,将 Cloud Hypervisor 作为底层的虚拟化层,在其上运行 Docker 或 K3s 容器。您可以先在主机上安装 Cloud Hypervisor,然后在虚拟机内部安装 Docker 或 K3s。这种架构可以提供额外的隔离和安全性,同时仍能利用容器化技术的优势。
-    
+
 
 您提到的 Cloud Hypervisor 是一个非常有趣的项目。让我们比较一下 Cloud Hypervisor、Vagrant、KVM 和 Docker：
 
@@ -17622,11 +17678,11 @@ from scipy.io import wavfile
 def process_audio(file_path):
     # 读取音频文件
     sample_rate, data = wavfile.read(file_path)
-    
+
     # 应用简单的音量增益
     gain = 1.5
     processed_data = np.int16(data * gain)
-    
+
     # 保存处理后的音频
     wavfile.write("processed_audio.wav", sample_rate, processed_data)
 
@@ -17697,11 +17753,11 @@ from scipy.io import wavfile
 def process_audio(file_path):
     # 读取音频文件
     sample_rate, data = wavfile.read(file_path)
-    
+
     # 应用简单的音量增益
     gain = 1.5
     processed_data = np.int16(data * gain)
-    
+
     # 保存处理后的音频
     wavfile.write("processed_audio.wav", sample_rate, processed_data)
 
@@ -18541,7 +18597,7 @@ for epoch in range(num_epochs):
         loss = criterion(output.view(-1, vocab_size), tgt[1:].view(-1))
         loss.backward()
         optimizer.step()
-    
+
     if (epoch + 1) % 10 == 0:
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {loss.item():.4f}')
 
@@ -20738,12 +20794,12 @@ class MelodyRLHF:
     def __init__(self, base_model, reward_model):
         self.base_model = base_model
         self.reward_model = reward_model
-    
+
     def generate_and_evaluate(self, prompt):
         melody = self.base_model.generate(prompt)
         reward = self.reward_model.predict(melody)
         return melody, reward
-    
+
     def update_policy(self, melodies, rewards):
         # 使用PPO或其他RL算法更新base_model
         pass
@@ -20775,7 +20831,7 @@ class DynamicLossWeights:
             'novelty': 1.0,
             'human_preference': 1.0
         }
-    
+
     def update(self, performance_metrics):
         # 基于性能指标动态调整权重
         pass
@@ -20784,14 +20840,14 @@ class MelodyGenerator:
     def __init__(self, model, loss_weights):
         self.model = model
         self.loss_weights = loss_weights
-    
+
     def compute_loss(self, melody):
         total_loss = 0
         for loss_name, weight in self.loss_weights.weights.items():
             loss_value = self.compute_specific_loss(melody, loss_name)
             total_loss += weight * loss_value
         return total_loss
-    
+
     def compute_specific_loss(self, melody, loss_name):
         # 实现各种具体的loss计算
         pass
@@ -20804,7 +20860,7 @@ for epoch in range(num_epochs):
         loss = generator.compute_loss(melody)
         loss.backward()
         optimizer.step()
-    
+
     # 更新loss权重
     performance_metrics = evaluate_model(generator.model)
     generator.loss_weights.update(performance_metrics)
@@ -20840,7 +20896,7 @@ class HybridLoss(nn.Module):
     def __init__(self, alpha=0.5):
         super().__init__()
         self.alpha = alpha
-    
+
     def forward(self, melody):
         math_loss = compute_math_loss(melody)
         human_loss = compute_human_perception_loss(melody)
@@ -20890,12 +20946,12 @@ class MelodyRLHF:
     def __init__(self, base_model, reward_model):
         self.base_model = base_model
         self.reward_model = reward_model
-    
+
     def generate_and_evaluate(self, prompt):
         melody = self.base_model.generate(prompt)
         reward = self.reward_model.predict(melody)
         return melody, reward
-    
+
     def update_policy(self, melodies, rewards):
         # 使用PPO或其他RL算法更新base_model
         pass
@@ -20927,7 +20983,7 @@ class DynamicLossWeights:
             'novelty': 1.0,
             'human_preference': 1.0
         }
-    
+
     def update(self, performance_metrics):
         # 基于性能指标动态调整权重
         pass
@@ -20936,14 +20992,14 @@ class MelodyGenerator:
     def __init__(self, model, loss_weights):
         self.model = model
         self.loss_weights = loss_weights
-    
+
     def compute_loss(self, melody):
         total_loss = 0
         for loss_name, weight in self.loss_weights.weights.items():
             loss_value = self.compute_specific_loss(melody, loss_name)
             total_loss += weight * loss_value
         return total_loss
-    
+
     def compute_specific_loss(self, melody, loss_name):
         # 实现各种具体的loss计算
         pass
@@ -20956,7 +21012,7 @@ for epoch in range(num_epochs):
         loss = generator.compute_loss(melody)
         loss.backward()
         optimizer.step()
-    
+
     # 更新loss权重
     performance_metrics = evaluate_model(generator.model)
     generator.loss_weights.update(performance_metrics)
@@ -20992,7 +21048,7 @@ class HybridLoss(nn.Module):
     def __init__(self, alpha=0.5):
         super().__init__()
         self.alpha = alpha
-    
+
     def forward(self, melody):
         math_loss = compute_math_loss(melody)
         human_loss = compute_human_perception_loss(melody)
@@ -21241,7 +21297,7 @@ class TransformerLM(nn.Module):
         super().__init__()
         self.token_embedding = nn.Embedding(vocab_size, d_model)
         self.transformer_layers = nn.ModuleList([TransformerLayer() for _ in range(num_layers)])
-        
+
         # 使用相同的权重进行输入嵌入和输出映射
         self.output_projection = lambda x: torch.matmul(x, self.token_embedding.weight.T)
 
@@ -22379,7 +22435,7 @@ Source:      /datapool/home/ph_teacher2/ls_experiment/images/pytorch_2.3.0-cuda1
 Destination: /datapool/home/ph_teacher2/anaconda3/envs/tm-pytorch-cuda11.8
 Packages: 38
 Files: 46708
-  
+
 
 Downloading and Extracting Packages:
 
@@ -22431,44 +22487,44 @@ Downloading and Extracting Packages:
 
 The following NEW packages will be INSTALLED:
 
-  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main 
-  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu 
-  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6 
-  c-ares             pkgs/main/linux-64::c-ares-1.19.1-h5eee18b_0 
-  ca-certificates    pkgs/main/linux-64::ca-certificates-2024.7.2-h06a4308_0 
-  curl               pkgs/main/linux-64::curl-7.88.1-hdbd6064_2 
-  expat              pkgs/main/linux-64::expat-2.6.2-h6a678d5_0 
-  gdbm               pkgs/main/linux-64::gdbm-1.18-hd4cb3f1_4 
-  gettext            pkgs/main/linux-64::gettext-0.21.0-hedfda30_2 
-  git                anaconda/linux-64::git-2.45.2-pl5340h9abc3c3_0 
-  icu                pkgs/main/linux-64::icu-73.1-h6a678d5_0 
-  krb5               pkgs/main/linux-64::krb5-1.20.1-h143b758_1 
-  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1 
-  libcurl            pkgs/main/linux-64::libcurl-7.88.1-h251f7ec_2 
-  libedit            pkgs/main/linux-64::libedit-3.1.20230828-h5eee18b_0 
-  libev              pkgs/main/linux-64::libev-4.33-h7f8727e_1 
-  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1 
-  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1 
-  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1 
-  libnghttp2         pkgs/main/linux-64::libnghttp2-1.57.0-h2d74bed_0 
-  libssh2            pkgs/main/linux-64::libssh2-1.11.0-h251f7ec_0 
-  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1 
-  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0 
-  libxml2            pkgs/main/linux-64::libxml2-2.13.1-hfdd30dd_2 
-  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0 
-  openssl            pkgs/main/linux-64::openssl-3.0.14-h5eee18b_0 
-  pcre2              pkgs/main/linux-64::pcre2-10.42-hebb0a14_1 
-  perl               pkgs/main/linux-64::perl-5.34.0-h5eee18b_2 
-  pip                pkgs/main/linux-64::pip-24.2-py311h06a4308_0 
-  python             pkgs/main/linux-64::python-3.11.9-h955ad1f_0 
-  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0 
-  setuptools         pkgs/main/linux-64::setuptools-72.1.0-py311h06a4308_0 
-  sqlite             pkgs/main/linux-64::sqlite-3.45.3-h5eee18b_0 
-  tk                 pkgs/main/linux-64::tk-8.6.14-h39e8969_0 
-  tzdata             pkgs/main/noarch::tzdata-2024a-h04d1e81_0 
-  wheel              pkgs/main/linux-64::wheel-0.43.0-py311h06a4308_0 
-  xz                 pkgs/main/linux-64::xz-5.4.6-h5eee18b_1 
-  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_1 
+  _libgcc_mutex      pkgs/main/linux-64::_libgcc_mutex-0.1-main
+  _openmp_mutex      pkgs/main/linux-64::_openmp_mutex-5.1-1_gnu
+  bzip2              pkgs/main/linux-64::bzip2-1.0.8-h5eee18b_6
+  c-ares             pkgs/main/linux-64::c-ares-1.19.1-h5eee18b_0
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2024.7.2-h06a4308_0
+  curl               pkgs/main/linux-64::curl-7.88.1-hdbd6064_2
+  expat              pkgs/main/linux-64::expat-2.6.2-h6a678d5_0
+  gdbm               pkgs/main/linux-64::gdbm-1.18-hd4cb3f1_4
+  gettext            pkgs/main/linux-64::gettext-0.21.0-hedfda30_2
+  git                anaconda/linux-64::git-2.45.2-pl5340h9abc3c3_0
+  icu                pkgs/main/linux-64::icu-73.1-h6a678d5_0
+  krb5               pkgs/main/linux-64::krb5-1.20.1-h143b758_1
+  ld_impl_linux-64   pkgs/main/linux-64::ld_impl_linux-64-2.38-h1181459_1
+  libcurl            pkgs/main/linux-64::libcurl-7.88.1-h251f7ec_2
+  libedit            pkgs/main/linux-64::libedit-3.1.20230828-h5eee18b_0
+  libev              pkgs/main/linux-64::libev-4.33-h7f8727e_1
+  libffi             pkgs/main/linux-64::libffi-3.4.4-h6a678d5_1
+  libgcc-ng          pkgs/main/linux-64::libgcc-ng-11.2.0-h1234567_1
+  libgomp            pkgs/main/linux-64::libgomp-11.2.0-h1234567_1
+  libnghttp2         pkgs/main/linux-64::libnghttp2-1.57.0-h2d74bed_0
+  libssh2            pkgs/main/linux-64::libssh2-1.11.0-h251f7ec_0
+  libstdcxx-ng       pkgs/main/linux-64::libstdcxx-ng-11.2.0-h1234567_1
+  libuuid            pkgs/main/linux-64::libuuid-1.41.5-h5eee18b_0
+  libxml2            pkgs/main/linux-64::libxml2-2.13.1-hfdd30dd_2
+  ncurses            pkgs/main/linux-64::ncurses-6.4-h6a678d5_0
+  openssl            pkgs/main/linux-64::openssl-3.0.14-h5eee18b_0
+  pcre2              pkgs/main/linux-64::pcre2-10.42-hebb0a14_1
+  perl               pkgs/main/linux-64::perl-5.34.0-h5eee18b_2
+  pip                pkgs/main/linux-64::pip-24.2-py311h06a4308_0
+  python             pkgs/main/linux-64::python-3.11.9-h955ad1f_0
+  readline           pkgs/main/linux-64::readline-8.2-h5eee18b_0
+  setuptools         pkgs/main/linux-64::setuptools-72.1.0-py311h06a4308_0
+  sqlite             pkgs/main/linux-64::sqlite-3.45.3-h5eee18b_0
+  tk                 pkgs/main/linux-64::tk-8.6.14-h39e8969_0
+  tzdata             pkgs/main/noarch::tzdata-2024a-h04d1e81_0
+  wheel              pkgs/main/linux-64::wheel-0.43.0-py311h06a4308_0
+  xz                 pkgs/main/linux-64::xz-5.4.6-h5eee18b_1
+  zlib               pkgs/main/linux-64::zlib-1.2.13-h5eee18b_1
 
 
 
@@ -22476,7 +22532,7 @@ Downloading and Extracting Packages:
 
 Preparing transaction: done
 Verifying transaction: done
-Executing transaction: / 
+Executing transaction: /
 
 
 nvidia-nccl-cu12         2.20.5
@@ -22485,7 +22541,7 @@ nvidia-nccl-cu12         2.20.5
         GPU0    GPU1    mlx5_0  CPU Affinity    NUMA Affinity
 GPU0     X      SYS     SYS     0-3     0-1
 GPU1    SYS      X      SYS     0-3     0-1
-mlx5_0  SYS     SYS      X 
+mlx5_0  SYS     SYS      X
 
 Legend:
 
@@ -23165,7 +23221,7 @@ _sitter_md-78c015f5253823e5.rlib" "/tmp/rustcUX0lTN/libtree_sitter_jsdoc-50d2037
           ld.lld: error: unable to find library -lxkbcommon
           ld.lld: error: unable to find library -lxkbcommon-x11
           collect2: error: ld returned 1 exit status
-          
+
 
 The following warnings were emitted during compilation:
 
@@ -23430,28 +23486,28 @@ class DynamicNetwork(nn.Module):
         super().__init__()
         self.layers = nn.ModuleList([nn.Linear(10, 10)])
         self.memory = []
-        
+
     def forward(self, x):
         for layer in self.layers:
             x = torch.relu(layer(x))
         return x
-    
+
     def predict_next_input(self, current_input):
         # 预测下一个输入
         return self.forward(current_input)
-    
+
     def update_structure(self):
         # 根据某些条件动态更新网络结构
         if len(self.layers) < 5:  # 示例条件
             self.layers.append(nn.Linear(10, 10))
-    
+
     def awake_phase(self, input_data):
         for data in input_data:
             output = self.forward(data)
             predicted_next = self.predict_next_input(data)
             self.memory.append((data, output, predicted_next))
             self.update_structure()
-    
+
     def sleep_phase(self):
         for data, output, predicted_next in self.memory:
             # 重放记忆并自我调整
@@ -23465,7 +23521,7 @@ for day in range(10):  # 模拟10天
     # 清醒阶段
     awake_data = [torch.randn(10) for _ in range(100)]  # 模拟输入数据
     model.awake_phase(awake_data)
-    
+
     # 睡眠阶段
     model.sleep_phase()
 
@@ -23575,14 +23631,14 @@ class DynamicSelfAdjustingNetwork(nn.Module):
 
         # Randomly sample from memory buffer
         sample = random.sample(self.memory_buffer, min(100, len(self.memory_buffer)))
-        
+
         for input_data, target in sample:
             self.optimizer.zero_grad()
             output = self(input_data)
             loss = nn.MSELoss()(output, target)
             loss.backward()
             self.optimizer.step()
-            
+
             # Self-adjust structure based on performance
             self.adjust_structure(loss.item())
 
@@ -23592,10 +23648,10 @@ class DynamicSelfAdjustingNetwork(nn.Module):
         loss = nn.MSELoss()(output, input_data)  # Autoencoder-like loss
         loss.backward()
         self.optimizer.step()
-        
+
         self.store_experience(input_data, output.detach())
         self.adjust_structure(loss.item())
-        
+
         return output, loss.item()
 
     def sleep_phase(self):
@@ -23609,10 +23665,10 @@ for epoch in range(1000):
     # Awake phase
     input_data = torch.randn(1, 10)
     output, loss = model.awake_phase(input_data)
-    
+
     if epoch % 10 == 0:
         print(f"Epoch {epoch}, Loss: {loss:.4f}, Layers: {len(model.layers)}")
-    
+
     # Sleep phase (every 100 epochs)
     if epoch % 100 == 99:
         model.sleep_phase()
@@ -25175,12 +25231,12 @@ test_loader = get_data_loader('sevir', 'test', batch_size=4)
 for batch in test_loader:
     input_seq = batch['input_seq']
     target_seq = batch['target_seq']
-    
+
     with torch.no_grad():
         output = model(input_seq)
-    
+
     # 这里可以添加可视化或评估代码
-    
+
 print("预测完成")
 
     深度学习框架:
@@ -25827,7 +25883,7 @@ GitHub: https://github.com/sveltejs/svelte
 Marko
 由eBay开发，性能优秀
 支持服务器端渲染和浏览器端渲染
-GitHub: 
+GitHub:
 
 通用AI加速器：
 a) NVDLA (NVIDIA Deep Learning Accelerator)：
@@ -26024,34 +26080,34 @@ cpp
 int main(int argc, char** argv) {
     Verilated::commandArgs(argc, argv);
     VAluTop* top = new VAluTop;
-    
+
     // 测试用例
     struct TestCase {
         uint16_t sw;
         uint16_t expected_led;
     };
-    
+
     TestCase testCases[] = {
         {0b0000001100, 0b0000000011}, // 加法: 1 + 2 = 3
         {0b0100011001, 0b0000000010}, // 减法: 3 - 1 = 2
         {0b1000101110, 0b0000000111}, // 或运算: 5 | 6 = 7
         {0b1100101110, 0b0000000100}  // 与运算: 5 & 6 = 4
     };
-    
+
     for (const auto& tc : testCases) {
         top->io_sw = tc.sw;
         top->eval();
-        
+
         if (top->io_led != tc.expected_led) {
-            std::cout << "Test failed! Input: " << tc.sw 
-                      << ", Expected: " << tc.expected_led 
+            std::cout << "Test failed! Input: " << tc.sw
+                      << ", Expected: " << tc.expected_led
                       << ", Got: " << top->io_led << std::endl;
         } else {
-            std::cout << "Test passed! Input: " << tc.sw 
+            std::cout << "Test passed! Input: " << tc.sw
                       << ", Output: " << top->io_led << std::endl;
         }
     }
-    
+
     delete top;
     return 0;
 }
@@ -26564,14 +26620,14 @@ python
 for epoch in range(num_epochs):
     for batch in dataloader:
         optimizer.zero_grad()  # 清零梯度
-        
+
         # 前向传播
         outputs = model(batch)
         loss = criterion(outputs, targets)
-        
+
         # 反向传播
         loss.backward()
-        
+
         # 参数更新
         optimizer.step()
 在loss.backward()调用中，PyTorch会构建一个计算图，追踪所有操作以计算梯度。这个过程涉及到：
@@ -26674,7 +26730,7 @@ Horovod (由Uber开发，现在是开源项目)
         def training_step(self, batch, batch_idx):
             # 定义训练步骤
             pass
-        
+
         def configure_optimizers(self):
             # 配置优化器
             pass
@@ -26954,7 +27010,7 @@ Alpaca: A Strong, Replicable Instruction-Following Model (2023)
 
 [INFO ] stable-diffusion.cpp:171  - loading model from 'v1-5-pruned-emaonly.safetensors'
 [INFO ] model.cpp:737  - load v1-5-pruned-emaonly.safetensors using safetensors format
-[INFO ] stable-diffusion.cpp:194  - Stable Diffusion 1.x 
+[INFO ] stable-diffusion.cpp:194  - Stable Diffusion 1.x
 [INFO ] stable-diffusion.cpp:200  - Stable Diffusion weight type: f32
 [INFO ] stable-diffusion.cpp:407  - total params memory size = 2719.24MB (VRAM 0.00MB, RAM 2719.24MB): clip 469.44MB(RAM), unet 2155.33MB(RAM), vae 94.47MB(RAM), controlnet 0.00MB(VRAM), pmid 0.00MB(RAM)
 [INFO ] stable-diffusion.cpp:426  - loading model from 'v1-5-pruned-emaonly.safetensors' completed, taking 31.85s
