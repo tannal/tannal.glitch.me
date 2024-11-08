@@ -1,5 +1,7 @@
 # architecture
 
+./tools/lint --fix
+
 Client <---> Webpack Dev Server (9994)
    |
    |         Django (9992)
@@ -10,7 +12,7 @@ Client <---> Webpack Dev Server (9994)
    |         Tornado (9993)
    +------>  - WebSocket 连接
              - 实时消息推送
-   
+
 后台服务：
 - 消息队列处理
 - 定时任务
@@ -20,7 +22,9 @@ Client <---> Webpack Dev Server (9994)
 - PostgreSQL（主数据库）
 - 全文搜索
 
-# dev 
+# dev
+
+docker pull ubuntu:22.04
 
 ./tools/test-js-with-puppeteer settings.test.ts
 ./tools/test-all
@@ -109,7 +113,7 @@ class QueueProcessingWorker:
         while True:
             # 从队列获取消息
             message = self.queue_client.get()
-            
+
             # 处理消息
             self.consume(message)
 ```
@@ -171,7 +175,7 @@ client flutter https://github.com/zulip/zulip-flutter
 
 server python flask
 
-client desktop electron 
+client desktop electron
 https://github.com/zulip/zulip-desktop.git
 
 # server
@@ -253,8 +257,8 @@ sudo apt install python3-virtualenv vagrant
 vagrant up --provider=docker
 
 vim ~/.zulip-vagrant-config
-HTTP_PROXY http://10.106.146.44:8890
-HTTPS_PROXY http://10.106.146.44:8890
+HTTP_PROXY http://10.106.146.44:7890
+HTTPS_PROXY http://10.106.146.44:7890
 NO_PROXY localhost,127.0.0.1,.example.com,.zulipdev.com
 HOST_IP_ADDR 0.0.0.0
 ARG VAGRANT_UID=1000
@@ -266,7 +270,7 @@ vagrant ssh
 tools/test-js-with-node
 
 
-~                   
+~
 ```
 Web应用程序
 Zulip的Web应用程序是使用Python的Django Web框架开发的。它处理HTTP请求、渲染页面以及与其他后端服务进行交互。
@@ -314,14 +318,14 @@ https://chat.zulip.org/#narrow/stream/48-mobile/topic/flutter.3A.20double-tap.20
 7987 /bin/sh /usr/lib/rabbitmq/bin/rabbitmq-server
 
 (zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep redis -a
-5986 /usr/bin/redis-server 127.0.0.1:6379       
+5986 /usr/bin/redis-server 127.0.0.1:6379
 (zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep memcached -a
 6716 /usr/bin/memcached -m 64 -p 11211 -u memcache -l 127.0.0.1 -P /var/run/memcached/memcached.pid
 (zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep postgres -a
 7737 /usr/lib/postgresql/14/bin/postgres -D /var/lib/postgresql/14/main -c config_file=/etc/postgresql/14/main/postgresql.conf
-7739 postgres: 14/main: checkpointer                                                                                          
-7740 postgres: 14/main: background writer                                                                                     
-7741 postgres: 14/main: walwriter                                                                                             
+7739 postgres: 14/main: checkpointer
+7740 postgres: 14/main: background writer
+7741 postgres: 14/main: walwriter
 7742 postgres: 14/main: autovacuum launcher
 
 (zulip-py3-venv) vagrant@3d18211a3ebb:/srv$ pgrep nginx -a

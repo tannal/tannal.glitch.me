@@ -1,6 +1,9 @@
 
 # 2024-11-8
 
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+
 Late regrets
 
 Client -> API Gateway (Kong)
