@@ -1,3 +1,52 @@
+
+# 渲染引擎核心(Gecko)相关：
+Layout: 负责页面布局，包括块级、内联、弹性盒子、网格等布局系统
+Graphics: 图形渲染系统，包括Canvas、WebGL、文本渲染等
+SVG: 矢量图形处理
+CSS: 样式解析和计算
+DOM: 文档对象模型实现
+
+# 多媒体处理：
+Audio/Video: 音视频播放、录制
+Web Audio: Web音频API
+WebRTC: 实时通信
+JavaScript引擎：
+JavaScript Engine: JS解释器
+JavaScript: GC: 垃圾回收
+WebAssembly: WebAssembly支持
+
+# 网络相关：
+Networking: 网络库(Necko)
+HTTP/WebSocket: 协议实现
+Cache: 缓存系统
+DNS: 域名解析
+
+# 存储系统：
+Storage: IndexedDB、localStorage等
+SQLite: 嵌入式数据库
+Cache API: 缓存API实现
+
+# 安全相关：
+Security: 一般安全问题
+Privacy: 隐私保护
+Process Sandboxing: 进程沙箱
+
+# 国际化：
+Internationalization: 多语言支持
+Text: 文本处理和字体
+
+# 系统集成：
+Widget: 跨平台UI组件
+Window Management: 窗口管理
+IPC: 进程间通信
+
+# 性能和调试：
+Performance: 性能优化
+Gecko Profiler: 性能分析器
+Memory Allocator: 内存分配
+Developer Tools: 开发者工具
+
+
 # Graphics
 
 Graphics System
@@ -41,7 +90,7 @@ Graphics System
     ├── Textures
     ├── Buffers
     └── Framebuffers
-    
+
 # media
 
 Raw Sensor Data -> ISP Pipeline
@@ -79,7 +128,7 @@ class IpcSystem {
     // 主要使用 Socket + 共享内存
     MessageChannel message_channel;
     SharedMemory shared_memory;
-    
+
     enum Protocol {
         SYNC,    // 同步调用
         ASYNC,   // 异步调用
@@ -222,7 +271,7 @@ gfx.webrender.debug = true
 
 使用远程协议:
 
-Firefox支持远程调试协议,您可以编写脚本来获取这些信息。 
+Firefox支持远程调试协议,您可以编写脚本来获取这些信息。
 
 ./test262-update.py --pull 4213
 
@@ -243,8 +292,8 @@ ReportOutOfMemory
 
 ./test262-export.py --out ../test-262/ --src js/src/tests/test262/built-ins/String/prototype/matchAll/regexp-prototype-matchAll-flags.js
 
-MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb 
-MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb 
+MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb
+MOZCONFIG=mozconfig.jsshell ./mach run --debugger=gdb
 
 ./mach jstests --jitflags=all test.js
 
@@ -538,7 +587,7 @@ Bug 1898653 Remove layout.css.inline-style-caching.always-enabled pref r?emilio
 Bug 1906157 - Use AsyncPanZoomController::ToCSSPixel in more places r?ajakobi
 
 
-python ./mach lint -l clippy toolkit/components/glean/api/src/ -W -v    
+python ./mach lint -l clippy toolkit/components/glean/api/src/ -W -v
 
 python.exe ./mach lint --warnings
 
@@ -609,8 +658,8 @@ hg remove -f
 
 Bug 1868293 - Fix clippy warnings in glean-ffi r=sylvestre
 
-./mach lint modules/libpref/init/StaticPrefList.yaml -W -v    
-./mach lint uriloader/exthandler/nsExternalHelperAppService.cpp -W -v    
+./mach lint modules/libpref/init/StaticPrefList.yaml -W -v
+./mach lint uriloader/exthandler/nsExternalHelperAppService.cpp -W -v
 
 this->mContentType->mData
 
@@ -667,7 +716,7 @@ hg up -C central
 
 find . -name compile_commands.json
 
-ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.json 
+ln -s ./obj-x86_64-pc-linux-gnu/clangd/compile_commands.json compile_commands.json
 
 RUST_LOG="debug" obj-x86_64-unknown-linux-gnu/dist/bin/firefox -no-remote -P
 RUST_LOG="debug" obj-x86_64-pc-windows-msvc/dist/bin/firefox -no-remote -P
@@ -792,7 +841,7 @@ hg rollback
 ./mach lint toolkit/components/glean/api/src/ffi/event.rs
 
 
-./mach lint -l clippy toolkit/components/glean/api/src/ -W -v    
+./mach lint -l clippy toolkit/components/glean/api/src/ -W -v
 
 
 

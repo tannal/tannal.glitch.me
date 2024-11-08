@@ -1,4 +1,47 @@
 
+
+从这个目录列表中，我可以解释一些重要的 Firefox 配置文件：
+数据库文件：
+places.sqlite: 历史记录和书签
+cookies.sqlite: Cookie 数据
+formhistory.sqlite: 表单历史
+storage.sqlite: Web 存储数据
+favicons.sqlite: 网站图标
+安全相关：
+key4.db: 密码和证书存储
+cert9.db: 证书数据库
+logins.json: 保存的登录信息
+permissions.sqlite: 网站权限设置
+扩展相关：
+addons.json: 安装的扩展信息
+extensions.json: 扩展配置
+extension-settings.json: 扩展设置
+browser-extension-data/: 扩展数据目录
+会话和恢复：
+sessionstore-backups/: 会话备份
+sessionCheckpoints.json: 会话检查点
+bookmarkbackups/: 书签备份
+配置文件：
+prefs.js: 用户首选项
+search.json.mozlz4: 搜索引擎配置
+handlers.json: 协议处理器配置
+缓存和临时文件：
+*.sqlite-wal: Write-Ahead Logging 文件
+*.sqlite-shm: 共享内存文件
+minidumps/: 崩溃报告
+如果你想查看特定数据，可以使用相应的工具：
+Bash
+Ask
+Copy
+Run
+# 查看 cookies
+sqlite3 cookies.sqlite
+# 查看表单历史
+sqlite3 formhistory.sqlite
+# 查看保存的登录信息(JSON格式)
+cat logins.json
+
+
 这看起来是一个构建矩阵配置，通常用于 CI/CD 系统（如 GitHub Actions, Jenkins 或其他 CI 平台）。让我帮你解析一下这些构建配置的含义：
 
 按平台分类：
