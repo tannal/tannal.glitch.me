@@ -2,6 +2,7 @@
 
 # IPC
 
+Tools/Scripts/build-jsc --jsc-only --debug -DCMAKE_CXX_FLAGS="-Wno-unsafe-buffer-usage"
 // XPC (Cross Process Communication)
 class XpcSystem {
     // macOS 专有 IPC 机制
