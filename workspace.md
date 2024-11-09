@@ -62,6 +62,10 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 # desktop
 
+## Simple
+
+
+
 ## linux
 
 make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- -j$(nproc)

@@ -1,3 +1,281 @@
+# 2024-11-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+jitsi/jitsi-meet-electron: Jitsi Meet desktop application powered by :electron:
+https://github.com/jitsi/jitsi-meet-electron
+
+Pull request review process — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/review-process.html
+
+Reviewing Zulip code — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/code-reviewing.html#asking-for-a-code-review
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200/files
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+Markdown / Markdown Preview improvements · Issue #5346 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/5346
+
+zulip/web/e2e-tests/stream_create.test.ts at main · zulip/zulip
+https://github.com/zulip/zulip/blob/main/web/e2e-tests/stream_create.test.ts#L113
+
+(49) Taylor Swift - Anti-Hero (Official Music Video) - YouTube
+https://www.youtube.com/watch?v=b1kbLwvqugk
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+100% - [46] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537c36f50025d4cf8&selectedTaskRun=MprGTxjNTIGX_ir40zJCcA.0
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152/files
+
+#gpu > Rendering a blinking cursor - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197075-gpu/topic/Rendering.20a.20blinking.20cursor
+
+#glazier > Cursor Blink interval - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/351333-glazier/topic/Cursor.20Blink.20interval
+
+Digging into MusiCNN, pt. 11 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2022/12/12/digging-into-musicnn-pt-11/
+
+Demos | Jordi Pons
+https://www.jordipons.me/demos/
+
+China: A landmark court ruling on copyright protection for AI-generated works - Global Litigation News
+https://globallitigationnews.bakermckenzie.com/2024/05/08/china-a-landmark-court-ruling-on-copyright-protection-for-ai-generated-works/
+
+AudioSet Ontology - Tree visualization
+https://www.jordipons.me/apps/audioset/
+
+CLIPSonic
+https://hermandong.com/clipsonic/
+
+2210.14661v1.pdf
+https://arxiv.org/pdf/2210.14661
+
+musicnn/musicnn/models.py at master · jordipons/musicnn
+https://github.com/jordipons/musicnn/blob/master/musicnn/models.py
+
+Digging into MusiCNN, pt. 1 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2022/10/31/digging-into-musicnn-pt-1/
+
+The musiXmatch Dataset | Million Song Dataset
+http://millionsongdataset.com/musixmatch/#getting
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152
+
+tannal/cn-pop
+https://github.com/tannal/cn-pop
+
+LinuxLists.cc - Users
+https://www.linuxlists.cc/users
+
+♟ longsonr
+https://phabricator.services.mozilla.com/p/longsonr/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+1734476 - 'vector-effect: non-scaling-stroke' attribute does not work when animating SVG scale.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1734476
+
+Components for DevTools
+https://bugzilla.mozilla.org/describecomponents.cgi?product=DevTools
+
+vger.kernel.org — subspace.kernel.org documentation
+https://subspace.kernel.org/vger.kernel.org.html
+
+Chroma Spectrum - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=G29&sca_esv=9f144a8a30519894&channel=fs&sxsrf=ADLYWILjWKuDGpQxs5AMuajGywVjmujc0g:1731076555804&q=Chroma+Spectrum&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWqHKgdZdrSYFcPeM_PaVhb7uTGgT5_YBBxDIzUFx418J6lA82fnZBfGa1mhfGUn83JoY-kZGiSAAOpyWJS7q5w-VyFaJR5JlSOGnzaCfzjFOBLktGHmRBpQ43PrdD1-JJsG6jXzcY7J_SdP0uvgX6kT-URJx&sa=X&ved=2ahUKEwjp6b_Z-syJAxURxDgGHe-KJQsQtKgLegQIFBAB&biw=1850&bih=968&dpr=1
+
+1806.09905v1.pdf
+https://arxiv.org/pdf/1806.09905
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+JazzGAN: Improvising with Generative Adversarial Networks - Trieu.pdf
+https://musicalmetacreation.org/mume2018/proceedings/Trieu.pdf
+
+MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment | Proceedings of the AAAI Conference on Artificial Intelligence
+https://ojs.aaai.org/index.php/AAAI/article/view/11312
+
+MuseGAN: Multi-Track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment - 11312-13-14840-1-2-20201228.pdf
+https://cdn.aaai.org/ojs/11312/11312-13-14840-1-2-20201228.pdf
+
+Learning Adversarial Transformer for Symbolic Music Generation | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/9132664/authors#authors
+
+Learning Adversarial Transformer for Symbolic Music Generation | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/9132664
+
+Sci-Hub | Learning Adversarial Transformer for Symbolic Music Generation. IEEE Transactions on Neural Networks and Learning Systems, 1–10 | 10.1109/TNNLS.2020.2990746
+https://sci-hub.se/10.1109/TNNLS.2020.2990746
+
+englmeier2015btw.pdf
+https://www.medien.ifi.lmu.de/pubdb/publications/pub/englmeier2015btw/englmeier2015btw.pdf
+
+ChromaFeatureCmajorScaleScoreAudioColor - Chroma feature - Wikipedia
+https://en.wikipedia.org/wiki/Chroma_feature#/media/File:ChromaFeatureCmajorScaleScoreAudioColor.png
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+#glazier > Cursor Blink interval - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/351333-glazier/topic/Cursor.20Blink.20interval
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+dfrg/swash: Font introspection, complex text shaping and glyph rendering.
+https://github.com/dfrg/swash
+
+vlt /vōlt/
+https://github.com/vltpkg
+
+vlt serverless registry
+http://localhost:1337/#description/compatible-clients
+
+improve the proptest of the resolver. · Issue #6120 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/6120
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+skia font test online glph - Google 搜索
+https://www.google.com/search?q=skia+font+test+online+glph&client=ubuntu-sn&hs=Hyy&sca_esv=62ffb42049f4a414&channel=fs&sxsrf=ADLYWIKBT8VYPeZ41F_OVJgT2FjK0mYJ7Q:1731113464275&ei=-LEuZ4DBEPCe4-EPqeLAsAE&start=30&sa=N&sstk=ATObxK5XbewGkGgnR6W-NgpCNtwiX_1gYqNSWQzgWz_bOsSb9WXbCPHfMwFCuwNKfXoS_wWKATtAfZHfNRMQOXKZBNiCRCn4fO6wNzXOcdsiSCv2Vyf20k6uFKWPh-cujpTWswg8zY3QCCeb1tghc4up9B4DVaRZdc0&ved=2ahUKEwiAneqYhM6JAxVwzzgGHSkxEBY4FBDy0wN6BAgHEAk&biw=1850&bih=968&dpr=1
+
+GreenLightning/gpu-font-rendering: GPU font rendering from vector outlines demonstration
+https://github.com/GreenLightning/gpu-font-rendering
+
+Slug Font Rendering Library
+https://sluglibrary.com/
+
+GPU-Centered Font Rendering Directly from Glyph Outlines - i3d2018_lengyel.pdf
+http://terathon.com/i3d2018_lengyel.pdf
+
+GPU Font Rendering: Current State of the Art - font_rendering_sota_lengyel.pdf
+http://terathon.com/font_rendering_sota_lengyel.pdf
+
+C4 Engine
+http://c4engine.com/
+
+Optimizing Glyphs for Real-Time Vector Rendering - optimizing_glyphs_lengyel.pdf
+https://terathon.com/optimizing_glyphs_lengyel.pdf
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class220
+
+The Anatomy of a Search Engine - google98.pdf
+https://course.ece.cmu.edu/~ece845/docs/google98.pdf
+
+chord_sigcomm.pdf
+https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
+
+Multiplix: using D for kernel development - dconf23.pdf
+https://www.scs.stanford.edu/~zyedidia/docs/slides/dconf23.pdf
+
+zyedidia/riscinator: A tiny 3-stage RISC-V core written in Chisel.
+https://github.com/zyedidia/riscinator
+
+zyedidia/multiplix: An operating system kernel for RISC-V and AArch64 SBCs
+https://github.com/zyedidia/multiplix
+
+zyedidia/knit: A simple and flexible build tool using Lua, similar to make/mk.
+https://github.com/zyedidia/knit
+
+(49) Xi: an editor for the next 20 years – Raph Levien - YouTube
+https://www.youtube.com/watch?v=4FbQre9VQLI
+
+nginx/nginx: The official NGINX Open Source repository.
+https://github.com/nginx/nginx
+
+1812.08466v4.pdf
+https://arxiv.org/pdf/1812.08466
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [19] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(57) Discord | #parser | oxc
+https://discord.com/channels/1079625926024900739/1080712024683708466
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app/tree/main
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+Node.js Technical Steering Committee (TSC) Meeting 2024-11-06 · Issue #1648 · nodejs/TSC
+https://github.com/nodejs/TSC/issues/1648
+
+repl: don't use deprecated `domain` module by RedYetiDev · Pull Request #55204 · nodejs/node
+https://github.com/nodejs/node/pull/55204/files#diff-25028e2a7d2f7b55d8325ef4098b431b59a49ae129b66c33a0108549a37ff0b8
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+elk-zone/elk: A nimble Mastodon web client
+https://github.com/elk-zone/elk
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`bun install ` can only add a dependency from a `github` repository · Issue #10559 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10559
+
+fix(install): use ssh keys for private git repos by Eckhardt-D · Pull Request #11917 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11917
+
+karpathy (Andrej)
+https://github.com/karpathy
+
+About | Hacktoberfest 2024
+https://hacktoberfest.com/about/
+
+Snowiiii (Alexander Medvedev)
+https://github.com/Snowiiii
+
+d-sonuga (Demilade Sonuga)
+https://github.com/d-sonuga
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200/files
+
+OpenJDK JDK 23.0.1 GA Release
+https://jdk.java.net/23/
+
 
 # 2024-11-8
 
