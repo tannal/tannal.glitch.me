@@ -1,6 +1,22 @@
 
 # 2024-11-9
 
+ES6+新特性:
+类语法
+模块系统
+解构赋值
+箭头函数
+Promise/async/await
+TypeScript:
+类型系统
+接口
+泛型
+装饰器
+
+It may not seem like you’re making progress, until the day the right answer
+suddenly seems obvious.
+
+
 if you want speed, keep your ir in the cache Simple.
 
 音乐推荐的三个特征维度：
