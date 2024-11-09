@@ -14,6 +14,8 @@ tar -xzf openjdk-23_linux-x64_bin.tar.gz -C bootjdk --strip-components=1
 
 bash configure --with-boot-jdk=$(pwd)/bootjdk
 
+bash configure --with-boot-jdk=/home/a13/tannalwork/jdk/jdk-23.0.1/
+
 
 # people
 
