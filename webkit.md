@@ -6,7 +6,7 @@
 class XpcSystem {
     // macOS 专有 IPC 机制
     XPCConnection connection;
-    
+
     enum SecurityLevel {
         PRIVILEGED,
         SANDBOXED
@@ -47,7 +47,7 @@ Canonical link: https://commits.webkit.org/283855@main
 
 https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
 
-
+export PATH=/opt/llvm/bin:$PATH
 export CC=clang
 export CXX=clang++
 Tools/Scripts/build-jsc --jsc-only --debug --build-dir=$PWD/WebKitBuild/JSCOnly/x64
@@ -152,7 +152,7 @@ Tools/Scripts/build-jsc --jsc-only --debug
 disassembleBase64('MHg2RjAwRTQwMAo=')
 
 91 00 03 fd
-fd030091 
+fd030091
 
 qemu-aarch64 -L /home/tannal/tannalwork/projects/buildroot/output/host/aarch64-buildroot-linux-gnu/sysroot  WebKitBuild/JSCOnly/Debug/bin/jsc
 
@@ -165,7 +165,7 @@ git pull
 ./Tools/Scripts/build-jsc --jsc-only
 ./Tools/Scripts/run-jsc --jsc-only
 
-Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
+Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1
 
 
 ./Tools/Scripts/update-webkit-flatpak
@@ -210,14 +210,14 @@ export LD_LIBRARY_PATH=/opt/llvm/lib:$LD_LIBRARY_PATH
 
 ./Tools/Scripts/build-webkit --gtk --debug --export-compile-commands WK_USE_CCACHE=YES -- -j 8
 ./Tools/Scripts/build-webkit --gtk --debug WK_USE_CCACHE=YES
-                  
+
 ./Tools/Scripts/run-minibrowser --gtk --debug
 
-ln -s WebKitBuild/GTK/Debug/compile_commands.json compile_commands.json 
+ln -s WebKitBuild/GTK/Debug/compile_commands.json compile_commands.json
 
-rm compile_commands.json 
+rm compile_commands.json
 
-ln -s ./WebKitBuild/GTK/Debug/DeveloperTools/compile_commands.json compile_commands.json 
+ln -s ./WebKitBuild/GTK/Debug/DeveloperTools/compile_commands.json compile_commands.json
 
 import-w3c-tests web-platform-tests/[testsDir] -l -s [wptParentDir] --clean-dest-dir
 
@@ -363,9 +363,9 @@ git log --grep=LTO -- Source/JavaScriptCore
 
 Elliott Williams
 
-Tools/Scripts/run-minibrowser --gtk --debug 
+Tools/Scripts/run-minibrowser --gtk --debug
 
-Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1 
+Tools/Scripts/run-jsc --jsc-only --release -m ~/tannalwork/cans/add.js --useJIT=0 --useWebAssembly=1
 
 export WEBKIT_OUTPUTDIR=WebKitBuild/GTK/Debug/
 export WEBKIT_OUTPUTDIR=WebKitBuild/JSCOnly/Debug/
@@ -446,4 +446,3 @@ for minor gc add old space objects with hold reference to the eden space, we nee
 # reference
 
 https://blogs.igalia.com/aboya/2021/10/02/setting-up-visualstudio-code-to-work-with-webkitgtk-using-clangd/
-
