@@ -6,6 +6,242 @@ https://szfilehelper.weixin.qq.com/
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
+Projects | Jordi Pons
+https://www.jordipons.me/projects/
+
+Stability-AI/stable-audio-tools: Generative models for conditional audio generation
+https://github.com/Stability-AI/stable-audio-tools
+
+2404.10301v2.pdf
+https://arxiv.org/pdf/2404.10301
+
+(5127) #backend > Verbose tusd output - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/3-backend/topic/Verbose.20tusd.20output
+
+tus/tusd: Reference server implementation in Go of tus: the open protocol for resumable file uploads
+https://github.com/tus/tusd
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200/files
+
+Spotify Dataset 1921-2020, 600k+ Tracks
+https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Issue search results
+https://github.com/search?q=involves%3Agwern+&type=issues&p=10
+
+gwern.net/docs/ai/2019-10-23-gwern-gpt2-folkrnn-irishmusic-samples.txt
+https://gwern.net/doc/ai/music/2019-10-23-gwern-gpt2-folkrnn-irishmusic-samples.txt
+
+Download - MEGA
+https://mega.nz/file/ffIW0Y4Q#s98tWDmdphJtmCD_j1nYoDiL12sPe4j40hJL_CtIFnk
+
+Chris Donahue
+https://chrisdonahue.com/
+
+2311.07069v1.pdf
+https://arxiv.org/pdf/2311.07069
+
+DADABOTS - Eliminate humans from music
+https://dadabots.com/music/
+
+Monika (DDLC) | Doki Doki Literature Club Wiki | Fandom
+https://doki-doki-literature-club.fandom.com/wiki/Monika_(DDLC)
+
+Training on TPU for StyleGan2 · Issue #31 · mit-han-lab/data-efficient-gans
+https://github.com/mit-han-lab/data-efficient-gans/issues/31
+
+1912.04958v2.pdf
+https://arxiv.org/pdf/1912.04958
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=plagiarized&op=translate
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=TikTok%20Acquires%20&sort=byPopularity&type=story
+
+Andy Hertzfeld youtube - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=gK1&sca_esv=8d934776617c6809&channel=fs&sxsrf=ADLYWIIBMDliyrQwfJAhZprrKoXM9pjfAQ:1731122541457&q=Andy+Hertzfeld+youtube&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCBjj7Qh2T44wVPlShdsqpCHCf2XxEw8Ao0hZsW9sc8CSxoFVmD_dL8woqla9mMNxBSRBaK29IAm-TQRmShIY9wdHsr-0MWJT8KqxO5CPJ2qyzfLgXgqmhzDX-HCtkRBB6he6uu1ZcQkzQh4Yt0z5ii5m12XRGCZWeZtAe2y8SDS4ZgBaT&sa=X&ved=2ahUKEwj4uJWBps6JAxWu3jgGHW0wKRgQ0pQJegQIFhAB&biw=1850&bih=968&dpr=1
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+Folklore.org: The Original Macintosh
+https://folklore.org/0-index.html
+
+Bill Atkinson - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Bill+Atkinson
+
+nodejs/tweet: Guidelines for the Node.js Twitter and automation through PRs to tweet.
+https://github.com/nodejs/tweet
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+John Bowlby - Google 搜索
+https://www.google.com/search?q=John+Bowlby&client=ubuntu-sn&hs=WBh&sca_esv=8efbaedaa6cb9083&channel=fs&sxsrf=ADLYWILpNSSDBTu9fGkYJ-zlAYAlnF3UGg%3A1731124534347&ei=Nt0uZ8D2FJaV4-EPz56K-Q4&ved=0ahUKEwjA6bm3rc6JAxWWyjgGHU-PIu8Q4dUDCA8&uact=5&oq=John+Bowlby&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0pvaG4gQm93bGJ5MgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSMMGUIkFWIkFcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACApgDAIgGAZAGApIHATGgBwA&sclient=gws-wiz-serp
+
+John Bowlby's Attachment Theory
+https://www.simplypsychology.org/bowlby.html
+
+搜索会话
+https://groups.google.com/a/chromium.org/g/chromium-dev/search?q=media
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [19] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(58) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app
+
+elon meme - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=fsF&sca_esv=d13727888d1d456a&channel=fs&q=elon+meme&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINN1magm1rAiDHtF-6VBADhzU790SthuiXuUKmMb3L13FPpwUsgOjVbg4uzmkbBKoIvdqCpGfc3PALMftmxmgx64jpPspGM0le5OTK-ilf15ZgD228g&sa=X&ved=2ahUKEwjlueTYhsKJAxXwle4BHaBiE8cQtKgLegQIERAB&biw=1850&bih=968&dpr=1
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+Node.js Technical Steering Committee (TSC) Meeting 2024-11-06 · Issue #1648 · nodejs/TSC
+https://github.com/nodejs/TSC/issues/1648
+
+repl: don't use deprecated `domain` module by RedYetiDev · Pull Request #55204 · nodejs/node
+https://github.com/nodejs/node/pull/55204/files#diff-25028e2a7d2f7b55d8325ef4098b431b59a49ae129b66c33a0108549a37ff0b8
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+elk-zone/elk: A nimble Mastodon web client
+https://github.com/elk-zone/elk
+
+Functional vs Classic Web Components
+https://codepen.io/Jon-DeWitt/pen/oNKQpWw
+
+Haunted
+https://hauntedhooks.netlify.app/
+
+Virtual Components · Issue #475 · matthewp/haunted
+https://github.com/matthewp/haunted/issues/475
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+`bun install ` can only add a dependency from a `github` repository · Issue #10559 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10559
+
+fix(install): use ssh keys for private git repos by Eckhardt-D · Pull Request #11917 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11917
+
+karpathy (Andrej)
+https://github.com/karpathy
+
+About | Hacktoberfest 2024
+https://hacktoberfest.com/about/
+
+轻量应用服务器特惠活动_轻量应用服务器购买_轻量应用服务器选购-腾讯云
+https://cloud.tencent.com/act/pro/lighthouse2021
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+OpenJDK JDK 23.0.1 GA Release
+https://jdk.java.net/23/
+
+(49) Coffee Compiler Club, 2024_11_08 - YouTube
+https://www.youtube.com/watch?v=FxIQZhck_fA&t=2s
+
+thunderous webcomponent github - Google 搜索
+https://www.google.com/search?q=thunderous+webcomponent+github&client=ubuntu-sn&hs=D4h&sca_esv=82389d40a5dd1a5b&channel=fs&sxsrf=ADLYWILo5jrtTKsULKlJGERxXJ4EMqIz3w%3A1731127925600&ei=deouZ7euJJjx4-EP3MbbyQs&ved=0ahUKEwj3vMOIus6JAxWY-DgGHVzjNrkQ4dUDCA8&uact=5&oq=thunderous+webcomponent+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHnRodW5kZXJvdXMgd2ViY29tcG9uZW50IGdpdGh1YjIKECEYoAEYwwQYCjIKECEYoAEYwwQYCki8FlDVB1jZFXABeAGQAQCYAcUBoAGfEKoBBDAuMTK4AQPIAQD4AQGYAgagAvEGwgIKEAAYsAMY1gQYR8ICBxAjGLACGCfCAggQABiABBiiBJgDAIgGAZAGA5IHBTEuNC4xoAehMQ&sclient=gws-wiz-serp
+
+webcomponents/custom-elements-everywhere: Custom Element + Framework Interoperability Tests.
+https://github.com/webcomponents/custom-elements-everywhere
+
+Custom Elements Everywhere
+https://custom-elements-everywhere.com/
+
+thunder-app/thunder: Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+https://github.com/thunder-app/thunder
+
+sam smith jvm - Google 搜索
+https://www.google.com/search?q=sam+smith+jvm&client=ubuntu-sn&hs=RWN&sca_esv=82389d40a5dd1a5b&channel=fs&sxsrf=ADLYWIJeZX7bnstJMtwt0aXxKPwQpd9afA%3A1731128392650&ei=SOwuZ8WuJ9_v4-EPkujywA8&ved=0ahUKEwjF8p3nu86JAxXf9zgGHRK0HPgQ4dUDCA8&uact=5&oq=sam+smith+jvm&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXNhbSBzbWl0aCBqdm0yCBAAGIAEGKIESOQfUFFYpR5wAXgBkAEAmAG_AaABzQWqAQMwLjS4AQPIAQD4AQGYAgWgAu8FwgIKEAAYsAMY1gQYR8ICBxAjGLECGCfCAgoQLhiABBhDGIoFwgIFEC4YgATCAgUQABiABMICChAAGIAEGEMYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGN8E2AEBwgIIEC4YgAQYywHCAggQABiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIEEAAYHpgDAIgGAZAGBLoGBggBEAEYFJIHBTEuMy4xoAeHIg&sclient=gws-wiz-serp
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+sicp javascript - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=sicp+javascript
+
+SICP
+https://sws.comp.nus.edu.sg/SICP.html
+
+SICP in JavaScript | Hacker News
+https://news.ycombinator.com/item?id=36836729
+
+Ben Underwood - Google 搜索
+https://www.google.com/search?q=Ben+Underwood+&client=ubuntu-sn&hs=jDj&sca_esv=37a762383bb6b26f&channel=fs&sxsrf=ADLYWIJXj8YCqrGQYBPlCUMRsDLCNr-JOA%3A1731132359497&ei=x_suZ7GJHqDH4-EPzrqm6QI&ved=0ahUKEwjxiOPKys6JAxWg4zgGHU6dKS0Q4dUDCA8&uact=5&oq=Ben+Underwood+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkJlbiBVbmRlcndvb2QgMgQQIxgnMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkjoB1CJBliJBnABeAGQAQCYAbMBoAGzAaoBAzAuMbgBA8gBAPgBAZgCAqACuQHCAgoQABiwAxjWBBhHmAMAiAYBkAYIkgcDMS4xoAefBA&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Daniel Kahneman - Google 搜索
+https://www.google.com/search?q=Daniel+Kahneman&client=ubuntu-sn&hs=ifj&sca_esv=e9d6b29d1358ef38&channel=fs&sxsrf=ADLYWIJeNqj3bHztihEJEakzkkW2VdSeaA%3A1731134094992&ei=jgIvZ9yTPKeK4-EP7PLfoQg&ved=0ahUKEwjckqmG0c6JAxUnxTgGHWz5N4QQ4dUDCA8&uact=5&oq=Daniel+Kahneman&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0RhbmllbCBLYWhuZW1hbjIEECMYJzIKEC4YgAQYQxiKBTIFEC4YgAQyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIighQswZYswZwAXgBkAEAmAGzAaABswGqAQMwLjG4AQPIAQD4AQGYAgKgArcBwgIKEAAYsAMY1gQYR5gDAIgGAZAGAZIHAzEuMaAHjg8&sclient=gws-wiz-serp
+
+Pierre Deligne - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Pierre+Deligne+
+
+“cohomology objects - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%E2%80%9Ccohomology+objects
+
+勒内·笛卡尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8B%92%E5%86%85%C2%B7%E7%AC%9B%E5%8D%A1%E5%B0%94#%E7%94%9F%E5%B9%B3
+
+scip book javascript - Google 搜索
+https://www.google.com/search?q=scip+book+javascript&client=ubuntu-sn&hs=ApQ&sca_esv=fbd782787e425adc&channel=fs&sxsrf=ADLYWII2sPm58_umRnJLWxg2z-92iRaUhw%3A1731141085618&ei=3R0vZ_60JYay4-EPqJeEiQc&ved=0ahUKEwi-l9uL686JAxUG2TgGHagLIXEQ4dUDCA8&uact=5&oq=scip+book+javascript&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHNjaXAgYm9vayBqYXZhc2NyaXB0MgcQIRigARgKSKUWUNYFWKEVcAJ4AZABAJgBvwGgAawNqgEEMC4xMLgBA8gBAPgBAZgCC6ACswzCAgoQABiwAxjWBBhHwgIGEC4YChgewgIIEAAYgAQYogTCAhUQLhgKGB4YlwUY3AQY3gQY4ATYAQHCAgUQIRigAZgDAIgGAZAGCroGBggBEAEYFJIHAzIuOaAHthE&sclient=gws-wiz-serp
+
+(49) 周杰倫 Jay Chou - 晴天 Sunny Day (Piano Tutorial by Javin Tham) - YouTube
+https://www.youtube.com/watch?v=Xaxg4C4iCG0
+
+sicpjs.pdf
+https://sicp.sourceacademy.org/sicpjs.pdf
+
+Martin Henz - Google 搜索
+https://www.google.com/search?q=Martin+Henz&client=ubuntu-sn&hs=Zbl&sca_esv=fbd782787e425adc&channel=fs&sxsrf=ADLYWIK_yk969E9HMZGhwxaH8b4m-EfBzg%3A1731141525268&ei=lR8vZ4WNEL3G4-EPnfrXyAQ&ved=0ahUKEwjFq63d7M6JAxU94zgGHR39FUkQ4dUDCA8&uact=5&oq=Martin+Henz&gs_lp=Egxnd3Mtd2l6LXNlcnAiC01hcnRpbiBIZW56MggQLhiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBSLUTUNsRWNsRcAJ4AZABAJgBsgGgAbIBqgEDMC4xuAEDyAEA-AEBmAIDoALEAcICChAAGLADGNYEGEeYAwCIBgGQBgG6BgYIARABGBSSBwMyLjGgB8wF&sclient=gws-wiz-serp
+
+Tobias Wrigstad, teaching
+http://wrigstad.com/teaching.html
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+# 2024-11-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 jitsi/jitsi-meet-electron: Jitsi Meet desktop application powered by :electron:
 https://github.com/jitsi/jitsi-meet-electron
 
