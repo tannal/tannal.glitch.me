@@ -1,6 +1,16 @@
 
 # 2024-11-9
 
+there are
+two levels of understanding. The first level consists of following the reasoning
+step by step and accepting that it’s correct. Accepting is not the same as
+understanding. The second level is real understanding. It requires seeing where
+the reasoning comes from and why it’s natural.
+
+These are the two central superstitions of the System
+2 dogma, this belief that our intuition isn’t worth a dime and that we have to
+mechanically apply methods that we don’t fully understand.
+
 ES6+新特性:
 类语法
 模块系统
