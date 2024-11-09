@@ -1,5 +1,7 @@
 # architecture
 
+git reset --hard origin/main  # main 是你的分支名
+
 ./tools/lint --fix
 
 Client <---> Webpack Dev Server (9994)

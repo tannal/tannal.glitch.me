@@ -1,6 +1,5 @@
 # inbox
 
-
 co-founder of Anthropic Claude
 https://colah.github.io/
 
@@ -28,17 +27,17 @@ Diego Ongaro Raft https://ongardie.net/
 
 Jeffrey Van Gogh is a Engineering Manager for Android Studio. Mads Ager is a Software Engineer and Tech Lead at Google.
 
-Laurence Tratt compiler expert shopify https://mastodon.social/@ltratt 
+Laurence Tratt compiler expert shopify https://mastodon.social/@ltratt
 
 Timothy J Fontaine early hire of nodejs team https://github.com/tjfontaine
 
 Isaac Z. Schlueter creator of npm nodejs original team https://blog.izs.me/
 
-Mendel Rosenblum VMware Cofounder 
+Mendel Rosenblum VMware Cofounder
 
 wasm openjs https://github.com/devsnek
 
-Solomon Hykes one of the co-founders of Docker 
+Solomon Hykes one of the co-founders of Docker
 
 Brendan Dahl v8 team https://github.com/brendandahl
 
@@ -72,7 +71,7 @@ https://fanpu.io/
 
 http://dmitrysoshnikov.com/ pl llvm interpreter
 
-https://ggerganov.github.io/ machine learning cpp 
+https://ggerganov.github.io/ machine learning cpp
 
 https://brendaneich.com/
 
@@ -104,7 +103,7 @@ https://wirfs-brock.com/allen/about
 
 https://smus.com/
 
-Yehuda Katz https://yehudakatz.com/about/ ecmascript emberjs cargo 
+Yehuda Katz https://yehudakatz.com/about/ ecmascript emberjs cargo
 
 https://hachyderm.io/@arv
 
@@ -268,15 +267,15 @@ Mario Sánchez Prada https://mariospr.org/about/ chromium & webkit igalian
 
 Matthew Flatt https://users.cs.utah.edu/~mflatt/ PL professor
 
-Shriram Krishnamurthi https://cs.brown.edu/~sk/ PL professor https://www.plai.org/ 
+Shriram Krishnamurthi https://cs.brown.edu/~sk/ PL professor https://www.plai.org/
 
 Robby Findler https://users.cs.northwestern.edu/~robby/ Functional PL proof professor
-	
+
 Matthias Felleisen https://felleisen.org/matthias/ functional PL Software professor
 
 Chris Harrelson https://twitter.com/chrishtr Chrome Rendering Lead
 
-Pavel Panchekha[*] https://pavpanchekha.com/ Web Browser Researcher 
+Pavel Panchekha[*] https://pavpanchekha.com/ Web Browser Researcher
 
 Tali Garsiel https://taligarsiel.com/ Chrome Team How Browser works
 
@@ -378,7 +377,7 @@ Damian Gryski https://github.com/dgryski goperf-book go-wasm
 
 Ron Buckton https://twitter.com/rbuckton SDE Typescript
 
-Enrique Ocaña González https://eocanha.org/blog/about/ Webkit 
+Enrique Ocaña González https://eocanha.org/blog/about/ Webkit
 
 Ryosuke Niwa https://rniwa.com/ webkit
 
@@ -450,14 +449,14 @@ Chris Down https://chrisdown.name/ Kernel Developer at Meta
 
 Haoran Xu https://sillycross.github.io/
 
-- 
+-
 
 John Graham-Cumming https://blog.jgc.org/search?q=go CTO cloudfare
 
 Lorenzo Sciandra https://kelset.dev/
 
 Peter Bengtsson https://www.peterbe.com/about
- 
+
 Jake Archibald https://jakearchibald.com/
 
 ## Stage 2 (from 2023-07-04)
@@ -500,9 +499,9 @@ Christos Kozyrakis https://web.stanford.edu/~kozyraki/
 
 Adam Belay http://www.abelay.me/
 
-Aurojit Panda https://cs.nyu.edu/~apanda/ 
+Aurojit Panda https://cs.nyu.edu/~apanda/
 
-Amy Ousterhout https://amyousterhout.com/ 
+Amy Ousterhout https://amyousterhout.com/
 
 Sarah E. Chasins https://schasins.com/ programming languages
 
@@ -512,7 +511,7 @@ Arindam Banerjee https://arindam.cs.illinois.edu/
 
 Tianyin Xu https://tianyin.github.io/
 
-Aishwarya Ganesan https://aishwaryaganesan.github.io/ 
+Aishwarya Ganesan https://aishwaryaganesan.github.io/
 
 Ramnatthan Alagappan https://ramalagappan.github.io/ illinois
 
@@ -708,6 +707,3 @@ larry schwimmer
 William Nelson Joy
 
 Vaughan Pratt
-
-
-
