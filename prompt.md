@@ -1,4 +1,7 @@
 
+
+rust语言设计的the good parts和the bad parts
+
 给你局部猜整体
 
 给我一大段文字写长一些，不要分点

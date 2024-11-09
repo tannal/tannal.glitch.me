@@ -1,6 +1,8 @@
 
 # 2024-11-9
 
+if you want speed, keep your ir in the cache Simple.
+
 音乐推荐的三个特征维度：
 音乐内容特征
 旋律
