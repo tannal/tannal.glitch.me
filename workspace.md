@@ -171,6 +171,18 @@ https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537
 
 - [] Implment WASM Relaxed SIMD proposal
 Air BBQ B3
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+tannal@desktop:~/tannalwork/projects/webkit-wasm-relaxed-min-max$ ./WebKitBuild/JSCOnly/Debug/bin/jsc --module-file=JSTests/wasm/stress/simd-const-relaxed-f32-min-max.js
+WARNING: Not running inside JSC test harness
+WARNING: Not running inside JSC test harness
+Test failed with exception:  CompileError: WebAssembly.Module doesn't parse at byte 40: invalid extended simd op 269, in function at index 0 (evaluating 'new WebAssembly.Module(binaryResult.buffer)')
+Module@[native code]
+@/home/tannal/tannalwork/projects/webkit-wasm-relaxed-min-max/JSTests/wasm/wabt-wrapper.js:16:34
+object
+
 - []
 
 
