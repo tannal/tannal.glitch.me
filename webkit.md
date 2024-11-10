@@ -5,7 +5,17 @@
 export PATH=/opt/llvm/bin:$PATH
 export CC=clang
 export CXX=clang++
+
+cmake -DCMAKE_BUILD_TYPE=Debug \
+      -DENABLE_WEBASSEMBLY=ON \
+      -DENABLE_WEBASSEMBLY_SIMD=ON \
+      -DENABLE_WEBASSEMBLY_RELAXED_SIMD=ON \
+      -DENABLE_JIT=OFF \
+      -DUSE_SYSTEM_MALLOC=ON \
+      -S Source/JavaScriptCore
+
 Tools/Scripts/build-jsc --jsc-only --debug -DCMAKE_CXX_FLAGS="-Wno-unsafe-buffer-usage"
+CC="clang -fuse-ld=mold" CXX="clang++ -fuse-ld=mold" Tools/Scripts/build-webkit --debug --jsc-only
 
 // XPC (Cross Process Communication)
 class XpcSystem {
