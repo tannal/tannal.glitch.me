@@ -3,11 +3,12 @@
 # inbox
 
 export PATH=/opt/llvm/bin:$PATH
+export PATH=/opt/llvm-17/bin:$PATH
 
 /snap/bin/cmake -G Ninja -B build \
     -DCMAKE_BUILD_TYPE=Debug \
-    -DCMAKE_C_COMPILER=/opt/llvm/bin/clang \
-    -DCMAKE_CXX_COMPILER=/opt/llvm/bin/clang++
+    -DCMAKE_C_COMPILER=/opt/llvm-17/bin/clang \
+    -DCMAKE_CXX_COMPILER=/opt/llvm-17/bin/clang++
 
 /snap/bin/cmake -G Ninja -B build \
     -DCMAKE_BUILD_TYPE=Debug \
@@ -21,7 +22,7 @@ export PATH=/opt/llvm/bin:$PATH
     -DCMAKE_CXX_COMPILER=/opt/llvm/bin/clang++ \
     -DLLVM_DIR=/opt/llvm/lib/cmake/llvm \
     -DCLANG_DIR=/opt/llvm/lib/cmake/clang \
-    -DLLVM_LINK_BINARY=/opt/llvm/bin/llvm-link \ 
+    -DLLVM_LINK_BINARY=/opt/llvm/bin/llvm-link \
     -DLLVM_VERSION=ignore
 
 # dev
