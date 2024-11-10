@@ -1,19 +1,32 @@
 # inbox
 
-cmake -S llvm  -DCMAKE_INSTALL_PREFIX=/usr/local=/opt/llvm/ -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld' -DCMAKE_BUILD_TYPE=Release \
+cmake -S llvm -B build -G Ninja \
+    -DCMAKE_INSTALL_PREFIX=/opt/llvm-17/ \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DLLVM_ENABLE_PROJECTS='clang;lld' \
+    -DLLVM_ENABLE_RUNTIMES='compiler-rt' \
+    -DLLVM_BUILD_LLVM_DYLIB=ON \
+    -DLLVM_LINK_LLVM_DYLIB=ON \
+    -DCMAKE_INSTALL_PREFIX=/opt/llvm \
+    -DLLVM_ENABLE_ASSERTIONS=OFF
+
+cmake -S llvm  -DCMAKE_INSTALL_PREFIX=/opt/llvm/ -B build -G Ninja -DLLVM_ENABLE_PROJECTS='clang;lld;compiler-rt'
+    -DLLVM_ENABLE_RUNTIMES='compiler-rt' \
+    -DCMAKE_BUILD_TYPE=Release \
     -DLLVM_BUILD_LLVM_DYLIB=ON \
     -DLLVM_LINK_LLVM_DYLIB=ON \
     -DCMAKE_INSTALL_PREFIX=/opt/llvm \
     -DLLVM_ENABLE_RTTI=ON \
     -DCOMPILER_RT_BUILD_SANITIZERS=ON \
     -DCOMPILER_RT_BUILD_XRAY=ON \
-    -DCOMPILER_RT_BUILD_LIBFUZZER=ON
+    -DCOMPILER_RT_BUILD_LIBFUZZER=ON \
+    -DLLVM_ENABLE_ASSERTIONS=OFF
 
 High Level:
     Program
         └── BinaryModule
             └── BinaryContext
-                
+
 Same Level:
     ├── BinaryFunction
     ├── BinarySection
@@ -29,7 +42,7 @@ Low Level:
 
 gh workflow run "LLVM Project Tests" --ref main
 
-cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-18/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/usr/lib/llvm-18/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 ln -sfn /build/compile_commands.json compile_commands.json
 
 export DOCKER_HOST="tcp://192.168.43.62:2375"
@@ -47,7 +60,7 @@ clang/lib/Lex/Lexer.cpp
 GEP get element pointer
 InstCombiner
 
-cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON 
+cmake -G Ninja -B build -DLT_LLVM_INSTALL_DIR=/opt/llvm-17/ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 . -DClang_DIR=/opt/llvm-17/lib/cmake/clang/
 
 
@@ -460,7 +473,7 @@ Analysis pass will generate some high level information
 
 
 
-llvm bitcode 
+llvm bitcode
 
 clang -emit-llvm main.c -c -o main.bc
 
