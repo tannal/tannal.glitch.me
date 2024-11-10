@@ -1,6 +1,79 @@
 
 # 2024-11-10
 
+让我尝试从不同层次列举主要的调度器:
+硬件层CPU
+内部调度器(指令级并行)
+内存控制器调度器(内存访问排队)
+DMA 调度器(直接内存访问)
+网卡调度器(数据包队列)
+操作系统层
+CPU 调度器(如 Linux CFS、EEVDF)
+I/O 调度器(如 CFQ、Deadline)
+网络包调度器(TC - Traffic Control)
+内存页面调度器(Page replacement)
+中断调度器(IRQ Balancing)
+虚拟化层Hypervisor 调度器(如 KVM、Xen)
+容器运行时调度器(如 containerd)
+资源调度器(如 cgroup)
+集群/云平台层Kubernetes
+调度器Mesos
+调度器YARN
+调度器Borg
+调度器OpenStack
+Nova 调度器
+分布式系统层
+任务调度器(如 Airflow、Azkaban)
+消息队列调度器(如 Kafka、RabbitMQ)
+负载均衡调度器(如 nginx、HAProxy)
+应用框架层
+React Scheduler
+Flutter Scheduler
+Chrome/V8 调度器
+Node.js Event Loop
+Spring Task Scheduler
+7. 应用层数据库查询调度器
+(如 MySQL Query Scheduler)
+缓存调度器(如 Redis、Memcached)线程池调度器
+连接池调度器
+任务队列调度器
+编程语言运行时层
+GC(垃圾回收)调度器
+协程调度器(如 Go scheduler)
+JVM 调度器
+Python GIL 调度器
+9. 多媒体/图形层GPU
+调度器视频编解码调度器
+音频处理调度器
+渲染引擎调度器(如 WebKit)
+网络协议层TCP 调度器(拥塞控制)
+QoS 调度器带宽调度器包
+过滤调度器
+实时系统层
+硬实时调度器
+软实时调度器
+周期性任务调度器
+事件驱动调度器
+能源管理层
+电源管理调度器
+温度控制调度器
+频率调节调度器
+负载均衡调度器
+13. 存储系统层
+RAID 调度器存储卷调度器
+文件系统调度器
+块设备调度器
+安全层访问控制调度器
+资源限制调度器
+审计调度器
+加密任务调度器
+这些调度器之间往往存在复杂的交互关系,共同工作以确保系统的:
+性能优化
+资源利用
+公平性实时性可靠性安全性
+每个层次的调度器都有其特定的:调度策略优先级
+系统资源管理方式
+性能指标监控机制理解这些调度器的层次关系和交互方式,对于:系统设计2. 性能优化问题诊断架构决策都非常重要。
 
 Geoffrey Hinton 的学生：
 Ilya Sutskever (OpenAI前CTO)

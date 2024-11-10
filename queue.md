@@ -1,6 +1,8 @@
 
 # waiting for me to reading
 
+https://www.bluepuni.com/archives/aosp-process-management/
+
 https://www.scs.stanford.edu/~zyedidia/docs/slides/dconf23.pdf
 
 https://www.youtube.com/watch?v=4FbQre9VQLI
