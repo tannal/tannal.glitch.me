@@ -1,3 +1,218 @@
+# 2024-11-10
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Neargye/magic_enum: Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
+https://github.com/Neargye/magic_enum
+
+Recordings of Money In Both Pockets (reel) on The Session
+https://thesession.org/tunes/5186/recordings
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Why Google Sheets ported its calculation worker from JavaScript to WasmGC  |  web.dev
+https://web.dev/case-studies/google-sheets-wasmgc
+
+Issues · zoidyzoidzoid/awesome-ebpf
+https://github.com/zoidyzoidzoid/awesome-ebpf/issues
+
+ebpf xdp server - Google 搜索
+https://www.google.com/search?q=ebpf+xdp+server&client=ubuntu-sn&hs=Si8&sca_esv=8041a4cf452d95ac&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIKrVWYfTDC8Js2fU-PKsqaZhhOLPA%3A1731150923222&ei=S0QvZ8qqDYeW4-EP3MGMqAI&ved=0ahUKEwiK_NLej8-JAxUHyzgGHdwgAyU4ChDh1QMIDw&uact=5&oq=ebpf+xdp+server&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2VicGYgeGRwIHNlcnZlcjIFECEYoAEyBRAhGKABMgUQIRigAUiUL1CHEljhLXABeAGQAQCYAbYBoAHBD6oBBDAuMTK4AQPIAQD4AQGYAgqgAvcLwgIKEAAYsAMY1gQYR8ICDBAjGIAEGBMYJxiKBcICCBAAGIAEGMsBwgIHEAAYgAQYDMICBRAAGIAEwgIEEAAYHpgDAIgGAZAGCpIHAzEuOaAHihw&sclient=gws-wiz-serp
+
+Pull requests · facebook/zstd
+https://github.com/facebook/zstd/pulls
+
+mathis-s/SoomRV: A simple superscalar out-of-order RISC-V microprocessor
+https://github.com/mathis-s/SoomRV
+
+sched-ext/scx: sched_ext schedulers and tools
+https://github.com/sched-ext/scx
+
+Terria
+https://github.com/TerriaJS
+
+Issues · TerriaJS/terriajs
+https://github.com/TerriaJS/terriajs/issues
+
+tModLoader/tModLoader: A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
+https://github.com/tModLoader/tModLoader
+
+gnu-octave/octave: GNU Octave Mirror (https://www.octave.org/hg/octave). Report bugs and submit pull requests (patches) at https://bugs.octave.org
+https://github.com/gnu-octave/octave
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20terriajs%20&sort=byPopularity&type=story
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+Pull requests · linebender/parley
+https://github.com/linebender/parley/pulls
+
+DasLixou/wavefoam at d2ca6737a3a304bf22f5c418c1581b529fe5ccc7
+https://github.com/DasLixou/wavefoam/tree/d2ca6737a3a304bf22f5c418c1581b529fe5ccc7
+
+Notifications
+https://github.com/notifications
+
+zellij-org/zellij: A terminal workspace with batteries included
+https://github.com/zellij-org/zellij?tab=readme-ov-file
+
+Terminal Trove - The $HOME of all things in the terminal.
+https://terminaltrove.com/
+
+Go / Golang Terminal Tools - Terminal Trove
+https://terminaltrove.com/language/go/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+(50) PipeWire Interview with Wim Taymans on Destination Linux - YouTube
+https://www.youtube.com/watch?v=_buKw1la_tg
+
+PipeWire/pipewire: Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
+https://github.com/PipeWire/pipewire
+
+PipeWire / pipewire · GitLab
+https://gitlab.freedesktop.org/pipewire/pipewire/
+
+jackaudio/jack2: jack2 codebase
+https://github.com/jackaudio/jack2
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Top-Ranking Issues (last 7 days) 📊 · Issue #6952 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/6952
+
+cppreference.com
+https://cppref.microblock.cc/
+
+std-microblock/cpp-reference-refined: Make cppreference.com Great Again.
+https://github.com/std-microblock/cpp-reference-refined
+
+MicroBlock | 主页
+https://microblock.cc/
+
+std-microblock (MicroBlock)
+https://github.com/std-microblock
+
+Soumith Chintala
+https://soumith.ch/
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [19] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/search
+
+(61) Discord | #contributing | Bun
+https://discord.com/channels/876711213126520882/888839314056839309
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(50) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+nodejs/package-examples: Repository documenting package shipping patterns
+https://github.com/nodejs/package-examples
+
+Matteo Collina (@nodeland.dev) — Bluesky
+https://bsky.app/profile/nodeland.dev
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Changwoo Min | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/changwoo
+
+multics69 (Changwoo Min)
+https://github.com/multics69
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+托马斯·黑尔斯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%BB%91%E5%B0%94%E6%96%AF
+
+克卜勒猜想 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8D%9C%E5%8B%92%E7%8C%9C%E6%83%B3
+
+Maryna Viazovska - Wikipedia
+https://en.wikipedia.org/wiki/Maryna_Viazovska
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+bun llvm version - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=bun+llvm+version
+
+Abdenasser/neohtop: 💪🏻 htop on steroids
+https://github.com/Abdenasser/neohtop
+
+jaywcjlove/quick-rss: A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.
+https://github.com/jaywcjlove/quick-rss
+
+Clipboard Indicator - GNOME Shell Extensions
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+You are leaving GNOME Extensions website
+https://extensions.gnome.org/away/https%253A%252F%252Fgithub.com%252FTudmotu%252Fgnome-shell-extension-clipboard-indicator
+
+codestoryai/aide: The open-source AI-native IDE
+https://github.com/codestoryai/aide
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+lilianweng (Lilian)
+https://github.com/lilianweng
+
+GNOME Shell integration – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/
+
+YuriKonotopov – GNOME Wiki Archive
+https://wiki.gnome.org/YuriKonotopov.html
+
+Clipboard Indicator - GNOME Shell Extensions
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+leaving openai - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=leaving+openai
+
+Chip War PDF - Google 搜索
+https://www.google.com/search?q=Chip+War+PDF&client=ubuntu-sn&hs=2PQ&sca_esv=fb1607ebde4714f4&channel=fs&sxsrf=ADLYWII_ZOrWWE6euQoAlbTMMTW6Vc5fnQ%3A1731218967862&ei=F04wZ_muNNHH1e8Pxuav6Ac&oq=Chip+Wars&gs_lp=Egxnd3Mtd2l6LXNlcnAiCUNoaXAgV2FycyoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdImAtQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+# 2024-11-9
+
+
 # 2024-11-8
 
 微信文件传输助手网页版

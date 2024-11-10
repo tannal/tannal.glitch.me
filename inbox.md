@@ -2,6 +2,67 @@
 # 2024-11-10
 
 
+Geoffrey Hinton 的学生：
+Ilya Sutskever (OpenAI前CTO)
+Yann LeCun (也是三巨头之一)
+Yoshua Bengio (也是三巨头之一)
+Alex Krizhevsky (AlexNet作者)
+Ruslan Salakhutdinov (Apple AI主管)
+Hugo Larochelle (Google Brain)
+Yoshua Bengio 的学生：
+Ian Goodfellow (GAN发明者，前Google/Apple)
+Aaron Courville (蒙特利尔大学教授)
+Pascal Vincent (自编码器研究)
+Roland Memisevic (Twenty Billion Neurons创始人)
+David Warde-Farley (DeepMind)
+Yann LeCun 的学生：
+Rob Fergus (Facebook AI Research)
+Pierre Sermanet (Google Brain)
+Clement Farabet (Twitter AI)
+Marc'Aurelio Ranzato (Google Brain/Meta)
+Soumith Chintala (PyTorch创始人)
+
+这些学生现在都在：
+科技巨头（Google、Meta、Apple等）
+研究机构
+创业公司
+顶尖大学
+形成了AI领域的重要人才网络。
+
+Hinton 的著名学生包括：
+Ilya Sutskever
+OpenAI 联合创始人/前CTO
+AlexNet 的作者之一
+在深度学习领域有重要贡献
+2. Yann LeCun
+Facebook/Meta AI 负责人
+CNN 的先驱
+2018年图灵奖得主(与Hinton、Bengio共同获得)
+Yoshua Bengio
+MILA创始人
+深度学习三巨头之一
+2018年图灵奖得主
+Ruslan Salakhutdinov
+Apple AI 研究主管
+CMU教授
+深度学习和机器学习领域专家
+Alex Krizhevsky
+AlexNet 作者之一
+深度学习革命的关键人物
+6. Hugo Larochelle
+Google Brain 研究科学家
+深度学习领域专家
+这些学生都在AI领域取得了重要成就，形成了深度学习领域的重要学术谱系。
+
+- St (Shell Toolkit) - GNOME Shell 的 UI 工具包
+- Clutter - 图形渲染库
+- GObject - 对象系统
+
+https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator
+网站 <-> 浏览器扩展 <-> Native Connector <-> GNOME Shell
+sudo apt install gnome-shell-extensions chrome-gnome-shell
+sudo apt install gnome-shell-extension-manager
+https://extensions.gnome.org/extension/779/clipboard-indicator/
 
 # 2024-11-9
 
