@@ -1,6 +1,13 @@
 
 # 2024-11-10
 
+linux 200k
+linux security 110k
+linux sound 15000k
+typst 88k
+bun 500k
+
+
 让我尝试从不同层次列举主要的调度器:
 硬件层CPU
 内部调度器(指令级并行)
