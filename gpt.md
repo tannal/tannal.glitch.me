@@ -1,4 +1,57 @@
-
+以下是 MAC 和 Windows 的一些优秀开源替代方案：
+MAC 替代品：
+1. 窗口管理器：
+Yabai (类似 i3/awesome)
+Amethyst (自动平铺)
+Rectangle (开源的 Magnet 替代)
+启动器：
+Raycast (部分开源)
+Albert
+Cerebro
+系统工具：
+Homebrew (包管理器)
+MacPorts (包管理器)
+Alacritty (终端模拟器)
+Windows 替代品：
+窗口管理器：
+Komorebi (平铺式)
+bug.n (类似 awesome)
+FancyWM (平铺式)
+系统增强：
+PowerToys (微软官方开源工具集)
+AutoHotkey (自动化工具)
+Chocolatey (包管理器)
+启动器：
+Wox
+PowerToys Run
+Launchy
+终端：
+Windows Terminal (微软开源)
+Alacritty
+Kitty
+文件管理：
+Files (现代 UI)
+Explorer++
+Double Commander
+跨平台工具：
+1. 编辑器：
+VSCode
+Neovim
+Sublime Text (部分开源)
+浏览器：
+Firefox
+Chromium
+Brave
+办公套件：
+LibreOffice
+OpenOffice
+OnlyOffice
+这些工具大多数都有活跃的社区支持，而且持续在改进。选择时可以考虑：
+1. 使用场景
+配置难度
+3. 社区活跃度
+4. 更新频率
+文档完整性
 
 
 zed 查找快捷键？

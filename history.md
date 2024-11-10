@@ -1,5 +1,317 @@
 # 2024-11-10
 
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Tudmotu's Profile - GNOME Shell Extensions
+https://extensions.gnome.org/accounts/profile/Tudmotu
+
+Tudmotu/gnome-shell-extension-clipboard-indicator: The most popular clipboard manager for GNOME, with over 1M downloads
+https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator
+
+Addy Osmani: "Sometimes the best engineering happens when you’re just tinkering, free from expectations and deadlines." — Bluesky
+https://bsky.app/profile/addyosmani.bsky.social/post/3laliugt5fk2p
+
+Pop!_OS
+https://github.com/pop-os
+
+Issues · pop-os/cosmic-text
+https://github.com/pop-os/cosmic-text/issues
+
+cosmic_text - Rust
+https://pop-os.github.io/cosmic-text/cosmic_text/
+
+Dioxus Community
+https://github.com/dioxus-community
+
+(51) First Look at Pop!_OS's Rust-based New COSMIC Desktop Environment - YouTube
+https://www.youtube.com/watch?v=86DvvsKzJdw
+
+(51) 陳小春 Jordan Chan - 我愛的人(Official MV) - YouTube
+https://www.youtube.com/watch?v=ZeghG09iaNY
+
+ubuntu with Cosmic - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=ubuntu+with+Cosmic
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+kludgine/examples/offscreen.rs at main · khonsulabs/kludgine
+https://github.com/khonsulabs/kludgine/blob/main/examples/offscreen.rs
+
+Earliest Eligible Virtual Deadline First - Google 搜索
+https://www.google.com/search?q=Earliest+Eligible+Virtual+Deadline+First&client=ubuntu-sn&hs=V4o&sca_esv=0f6bc26575d0dce8&channel=fs&sxsrf=ADLYWIIFCk7MCOH3XEFM60bZ7qNqWaOoVg:1731234291919&ei=84kwZ4LlN5Tm1e8PqI-hqAQ&start=20&sa=N&sstk=ATObxK7XYNQtTB3uW11aglNVmN92al8m7wGxkrZGvV0psVn177Nnn5vtx4ji2ai4cBkq5xReO6-V-cszsomCKQL-OMqrgDy_e7wOfsaGCk-tSjwizEltlQdMbd0EMndlbQ7r&ved=2ahUKEwjCqvinxtGJAxUUc_UHHahHCEU4ChDy0wN6BAgIEAc&biw=1850&bih=968&dpr=1
+
+thinking about eevdf
+https://chunyu.sh/blog/thinking-about-eevdf/
+
+Linux 核心設計: Scheduler(5): EEVDF 排程器/1 - HackMD
+https://hackmd.io/@RinHizakura/SyG4t5u1a
+
+Chapter 4 Design of the Hierarchical Scheduler Infrastructure
+https://users.cs.utah.edu/~regehr/papers/diss/doc-wwwch4.html
+
+Following — Bluesky
+https://bsky.app/
+
+Web Locks API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API
+
+Implement cursor blinking in text editor (#152) · linebender/parley@a35e00f
+https://github.com/linebender/parley/commit/a35e00f468409942ccf98e788eb6022d9267a10d
+
+Microkernels – component-based operating systems
+https://www.microkernel.info/
+
+Jochen Liedtke - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Jochen+Liedtke
+
+cgi.cse.unsw.edu.au/~kevine/
+https://cgi.cse.unsw.edu.au/~kevine/
+
+wen wei wu webkit - Google 搜索
+https://www.google.com/search?q=wen+wei+wu+webkit&client=ubuntu-sn&hs=yX&sca_esv=c5d1db8986e685e6&channel=fs&sxsrf=ADLYWIKFBIX3wPfYQXNcMWgGLO_Pb7bdlA:1731237395097&ei=E5YwZ8m_BYHf2roPruXMuQ0&start=10&sa=N&sstk=ATObxK5PTvTmwvGoCIB9jTiuGuSx-KXpBHuXROqSnyU05lmy32qpNWEympbhLcql_J2H0pjnx4zfzOkJvGMWAFQ_4t9x3BBnySIlcQ&ved=2ahUKEwiJldPv0dGJAxWBr1YBHa4yM9cQ8tMDegQICBAE&biw=1850&bih=968&dpr=1
+
+phetsims/binder: Generates and publishes documentation for PhET simulation components.
+https://github.com/phetsims/binder
+
+PhET Interactive Simulations Style Guide
+https://phetsims.github.io/binder/#sliders
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [19] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(65) Discord | #contributing | Bun
+https://discord.com/channels/876711213126520882/888839314056839309
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+nodejs/package-examples: Repository documenting package shipping patterns
+https://github.com/nodejs/package-examples
+
+Matteo Collina (@nodeland.dev) — Bluesky
+https://bsky.app/profile/nodeland.dev
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Changwoo Min | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/changwoo
+
+multics69 (Changwoo Min)
+https://github.com/multics69
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+托马斯·黑尔斯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%BB%91%E5%B0%94%E6%96%AF
+
+克卜勒猜想 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8D%9C%E5%8B%92%E7%8C%9C%E6%83%B3
+
+Maryna Viazovska - Wikipedia
+https://en.wikipedia.org/wiki/Maryna_Viazovska
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+bun llvm version - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=bun+llvm+version
+
+Abdenasser/neohtop: 💪🏻 htop on steroids
+https://github.com/Abdenasser/neohtop
+
+jaywcjlove/quick-rss: A powerful and intuitive macOS desktop RSS reader that helps you manage and read your favorite RSS feeds with ease.
+https://github.com/jaywcjlove/quick-rss
+
+Clipboard Indicator - GNOME Shell Extensions
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+You are leaving GNOME Extensions website
+https://extensions.gnome.org/away/https%253A%252F%252Fgithub.com%252FTudmotu%252Fgnome-shell-extension-clipboard-indicator
+
+codestoryai/aide: The open-source AI-native IDE
+https://github.com/codestoryai/aide
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+lilianweng (Lilian)
+https://github.com/lilianweng
+
+GNOME Shell integration – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/gnome-shell-integration/
+
+YuriKonotopov – GNOME Wiki Archive
+https://wiki.gnome.org/YuriKonotopov.html
+
+Clipboard Indicator - GNOME Shell Extensions
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+leaving openai - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=leaving+openai
+
+Chip War PDF - Google 搜索
+https://www.google.com/search?q=Chip+War+PDF&client=ubuntu-sn&hs=2PQ&sca_esv=fb1607ebde4714f4&channel=fs&sxsrf=ADLYWII_ZOrWWE6euQoAlbTMMTW6Vc5fnQ%3A1731218967862&ei=F04wZ_muNNHH1e8Pxuav6Ac&oq=Chip+Wars&gs_lp=Egxnd3Mtd2l6LXNlcnAiCUNoaXAgV2FycyoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdImAtQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+Implement relaxed SIMD madd and nmadd instructions by danlliu · Pull Request #14937 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/14937/files#diff-bc737e3614197a55433a8ec56e92e8abcd7bcd2348a099ae1fbdd0d2c9df9e6a
+
+Earliest Eligible Virtual Deadline First) - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Earliest+Eligible+Virtual+Deadline+First%29
+
+Earliest Eligible Virtual Deadline First: How the Linux Kernel Schedules Jobs
+https://rohanav.com/earliest-eligible-virtual-deadline-first/
+
+Caturra000 (Caturra)
+https://github.com/caturra000
+
+AOSP 的进程管理 | Caturra's Blog
+https://www.bluepuni.com/archives/aosp-process-management/
+
+redox os - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=nOq&sca_esv=5b849b7daf8d0f89&channel=fs&sxsrf=ADLYWIKr-xxTfXN_tipLvAdW4pZA-RqJTg:1731239392262&q=redox+os&spell=1&sa=X&ved=2ahUKEwiayfyn2dGJAxWQdvUHHSQcHI4QBSgAegQIDRAB&biw=1850&bih=968&dpr=1
+
+pop os rust - Google 搜索
+https://www.google.com/search?q=pop+os+rust&client=ubuntu-sn&hs=T4&sca_esv=5b849b7daf8d0f89&channel=fs&sxsrf=ADLYWIJ3c8LAfK3K7uc-dBauZ3ubHg5Xww%3A1731239410766&ei=8p0wZ8e9LsOTvr0P_Nzf2Ao&ved=0ahUKEwjH_uWw2dGJAxXDia8BHXzuF6sQ4dUDCA8&uact=5&oq=pop+os+rust&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3BvcCBvcyBydXN0MggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB5I_CVQgQdY_CRwAXgAkAEAmAHkAaAB7QeqAQUwLjMuMrgBA8gBAPgBAZgCBaACxAbCAgoQABiwAxjWBBhHwgIIEAAYgAQYogSYAwCIBgGQBgqSBwUxLjIuMqAH6hE&sclient=gws-wiz-serp
+
+redox-os repositories
+https://github.com/orgs/redox-os/repositories?type=all
+
+redox-os · GitLab
+https://gitlab.redox-os.org/redox-os
+
+(51) Redox OS 0.8.0 : A glimpse of what is to come - YouTube
+https://www.youtube.com/watch?v=viL5Yx5RxHw
+
+pop-os/cosmic: GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
+https://github.com/pop-os/cosmic
+
+orbital github - Google 搜索
+https://www.google.com/search?q=orbital+github&client=ubuntu-sn&hs=rRq&sca_esv=5b849b7daf8d0f89&channel=fs&sxsrf=ADLYWILt_QNhAtCd6oVZi0IN_0mzTexwhw%3A1731239582738&ei=np4wZ_ndLNeUvr0P-eWboQQ&ved=0ahUKEwj5pOaC2tGJAxVXiq8BHfnyJkQQ4dUDCA8&uact=5&oq=orbital+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDm9yYml0YWwgZ2l0aHViMggQABiABBjLATIHEAAYgAQYDTIGEAAYDRgeMggQABgFGA0YHjIIEAAYBRgNGB4yCBAAGAUYDRgeMgYQABgFGB4yCBAAGAUYDRgeMggQABgFGA0YHjIIEAAYBRgNGB5Iwg9QjQFY6Q5wAngBkAEAmAHuAaABsQqqAQUwLjEuNbgBA8gBAPgBAZgCCKAC1grCAgoQABiwAxjWBBhHwgIHECMYsQIYJ8ICCBAuGIAEGMsBwgIOEC4YgAQYxwEYywEYrwHCAgoQABiABBgKGMsBwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwUyLjEuNaAHrR8&sclient=gws-wiz-serp
+
+redox os desktop - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=redox+os+desktop
+
+popos - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=popos
+
+(51) Pop OS 24.04 COSMIC Desktop | The Unparalleled Stunning DE That Will Make You Want It - YouTube
+https://www.youtube.com/watch?v=Bas2f3KTHH8
+
+freebsd/freebsd-src: The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
+https://github.com/freebsd/freebsd-src
+
+Status - OFTC Web IRC
+https://webchat.oftc.net/?channels=#chimera-linux
+
+OFTC - Home
+https://oftc.net/
+
+screenshot.png (PNG Image, 3840 × 2400 pixels) — Scaled (40%)
+https://chimera-linux.org/assets/screenshot.png
+
+Microsoft
+https://github.com/microsoft
+
+Anthropic - Raised $4.51B Funding from 44 investors - Tracxn
+https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors#funding
+
+Chimera Linux | Hacker News
+https://news.ycombinator.com/item?id=38667503
+
+Index of /live/latest/
+https://repo.chimera-linux.org/live/latest/
+
+Redmi K30 Pro Black Screen (#2096) · Issues · postmarketOS / pmaports · GitLab
+https://gitlab.com/postmarketOS/pmaports/-/issues/2096
+
+Olaki - A list of Android devices by compatible operating systems
+https://kedio-labs.github.io/olaki/
+
+LineageOS github - Google 搜索
+https://www.google.com/search?q=LineageOS+github&client=ubuntu-sn&hs=zNs&sca_esv=1286343edbdc9c9c&channel=fs&sxsrf=ADLYWIITq5_51eIJBFgsxp2eCGmUKH-ugA%3A1731247030969&ei=trswZ4HkOrzs1e8PvPjKmA8&ved=0ahUKEwiBl7Li9dGJAxU8dvUHHTy8EvMQ4dUDCA8&uact=5&oq=LineageOS+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEExpbmVhZ2VPUyBnaXRodWIyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeSNIRUIADWJEQcAF4AZABAJgB4QKgAb8KqgEHMC4yLjMuMbgBA8gBAPgBAZgCB6AC4QrCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEmAMAiAYBkAYKkgcHMS4yLjMuMaAH2BI&sclient=gws-wiz-serp
+
+Chimera Linux
+https://github.com/chimera-linux
+
+systemd/src/shared/utmp-wtmp.c at main · systemd/systemd
+https://github.com/systemd/systemd/blob/main/src/shared/utmp-wtmp.c
+
+1581495 – lightdm + pam-kwallet causes polkit issues
+https://bugzilla.redhat.com/show_bug.cgi?id=1581495
+
+Bug #1781418 “User not being initialized correctly on login” : Bugs : Light Display Manager
+https://bugs.launchpad.net/lightdm/+bug/1781418
+
+(51) The 1st AI Agent Millionaire - YouTube
+https://www.youtube.com/watch?v=rsKZX1GiIf8
+
+Chimera Linux
+https://github.com/chimera-linux
+
+Index of /live/latest/
+https://repo.chimera-linux.org/live/latest/
+
+patak (@patak.dev) — Bluesky
+https://bsky.app/profile/patak.dev
+
+shiki/packages/engine-javascript/src/index.ts at main · shikijs/shiki
+https://github.com/shikijs/shiki/blob/main/packages/engine-javascript/src/index.ts
+
+A Month on Chimera Linux - Bit Cannon
+https://bitcannon.net/post/a-month-with-chimera-linux/
+
+about - awesome window manager
+https://awesomewm.org/
+
+A Month on Chimera Linux - Bit Cannon
+https://bitcannon.net/post/a-month-with-chimera-linux/
+
+Void Linux (musl) on the Huawei MateBook X Pro - Bit Cannon
+https://bitcannon.net/post/huawei-matebook-x-pro-void-linux/
+
+patak
+https://patak.dev/blog.html
+
+hipstersmoothie/bluesky-migrate: A website to help people migrate to bsky
+https://github.com/hipstersmoothie/bluesky-migrate
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
