@@ -2,8 +2,32 @@
 
 
 
+
 # 2D
 
+
+Adobe Graphics Engine 团队
+- Thomas Knoll (Photoshop 创始人)
+- John Warnock (PostScript 创始人)
+- Charles Geschke
+
+Adobe PDF/PostScript 团队
+- John Warnock
+- Chuck Geschke
+- Doug Brotz
+
+Microsoft Direct2D & Windows Imaging Component (WIC) 团队
+- Kevin Kerr (主要架构师)
+- Kenny Kerr (技术专家，写过很多 Direct2D 相关文章)
+- Sam Fortiner
+- Mike Wasserman
+
+Direct2D 技术栈:
+- Direct2D
+- DirectWrite
+- Windows Imaging Component (WIC)
+
+Jeff Bolz
 Mark Kilgard
 Pat Brown
 Christoph Kubisch
