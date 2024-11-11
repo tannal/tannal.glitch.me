@@ -1,4 +1,8 @@
 
+介绍一下著名的人物和研究成果和里面的人和成果和事
+
+介绍一下里面的人和成果和事
+
 
 rust语言设计的the good parts和the bad parts
 
