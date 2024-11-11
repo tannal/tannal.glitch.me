@@ -1,5 +1,314 @@
 # 2024-11-11
 
+192.168.43.246:3000/
+http://192.168.43.246:3000/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Issues · whatwg/html
+https://github.com/whatwg/html/issues
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+me tienenharto [378223016] - Chromium
+https://issues.chromium.org/issues/378223016
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+sunzhongshan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=sunzhongshan
+
+[impeller:opengles] wonderous broken clipping or zorder missing content · Issue #158392 · flutter/flutter
+https://github.com/flutter/flutter/issues/158392
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+kevin kerr microsoft - Google 搜索
+https://www.google.com/search?q=kevin+kerr+microsoft&client=ubuntu-sn&hs=kS7&sca_esv=f126b848cbaf5375&channel=fs&sxsrf=ADLYWIJmvW6HgmvqPLNfUdKgo8Mid1d8bA%3A1731304985567&ei=GZ4xZ_2pIvjf2roPqJmT2QU&oq=Kevin+Kerr+micro&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEtldmluIEtlcnIgbWljcm8qAggAMgUQIRigATIFECEYoAEyBRAhGKABSMIWUL4EWPoPcAF4AZABAJgB0AKgAdYMqgEFMi01LjG4AQPIAQD4AQGYAgegAvoMwgIKEAAYsAMY1gQYR8ICBxAAGIAEGBPCAg0QLhiABBgTGMcBGK8BwgIHEC4YgAQYE8ICBhAAGBMYHsICHBAuGIAEGBMYxwEYrwEYlwUY3AQY3gQY4ATYAQHCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogSYAwCIBgGQBgq6BgYIARABGBSSBwcxLjAuNS4xoAfNGg&sclient=gws-wiz-serp
+
+kennykerr (Kenny Kerr)
+https://github.com/kennykerr
+
+Diff - 31ec6cc5fea1b872472ccd70693814421ff5dae3^! - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/31ec6cc5fea1b872472ccd70693814421ff5dae3%5E%21/#F0
+
+Mike Wasserman microsfot - Google 搜索
+https://www.google.com/search?q=Mike+Wasserman+microsfot&client=ubuntu-sn&hs=uDS&sca_esv=f126b848cbaf5375&channel=fs&sxsrf=ADLYWIJe_OCsYWi8zbrmab6omv8kana--Q%3A1731305343576&ei=f58xZ6vpIuzK0-kPzdW34Qc&ved=0ahUKEwjrpIGAz9OJAxVs5TQHHc3qLXwQ4dUDCA8&uact=5&oq=Mike+Wasserman+microsfot&gs_lp=Egxnd3Mtd2l6LXNlcnAiGE1pa2UgV2Fzc2VybWFuIG1pY3Jvc2ZvdDIHECEYoAEYCjIHECEYoAEYCkiQE1DFBliiEnABeAGQAQCYAaUCoAHKEKoBAzItObgBA8gBAPgBAZgCCqACjBHCAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGBZIHBTEuMC45oAf9GA&sclient=gws-wiz-serp
+
+sean-parent (sean-parent) / Repositories
+https://github.com/sean-parent?tab=repositories
+
+markkilgard/glut: OpenGL Utility Toolkit
+https://github.com/markkilgard/glut
+
+Sean Parent - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Sean+Parent
+
+Behdad Esfahbod
+https://behdad.org/
+
+Nicolas Rougier - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Nicolas+Rougier
+
+Marek Jeziorek - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Marek+Jeziorek
+
+Roozbeh Pournader - Wikipedia
+https://en.wikipedia.org/wiki/Roozbeh_Pournader
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Iranian&op=translate
+
+2410.11163v1.pdf
+https://arxiv.org/pdf/2410.11163
+
+Dave Cutler - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Dave+Cutler
+
+马克·洛考夫斯基 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%A6%AC%E5%85%8B%C2%B7%E6%B4%9B%E8%80%83%E5%A4%AB%E6%96%AF%E5%9F%BA
+
+Jordan Hubbard - Wikipedia
+https://en.wikipedia.org/wiki/Jordan_Hubbard#cite_note-10
+
+David Holmes openjdk - Google 搜索
+https://www.google.com/search?q=David+Holmes+openjdk&client=ubuntu-sn&hs=DaS&sca_esv=3d9420929d94cce6&channel=fs&sxsrf=ADLYWIKuJ4yFBZHOvuM_Ad5ia3qLgU5oOw%3A1731306726862&ei=5qQxZ7epNNPS1e8PoMqImQI&ved=0ahUKEwi3tM6T1NOJAxVTafUHHSAlIiMQ4dUDCA8&uact=5&oq=David+Holmes+openjdk&gs_lp=Egxnd3Mtd2l6LXNlcnAiFERhdmlkIEhvbG1lcyBvcGVuamRrMgUQIRigAUjPJ1CUFFi7JnACeAKQAQCYAe4BoAGbDaoBBTAuMy41uAEDyAEA-AEBmAILoALJDcICBBAAGEfCAgoQABiwAxjWBBhHwgIIEC4YgAQYywHCAggQABiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIGEAAYCBgewgIIEAAYgAQYogTCAgYQABgFGB7CAgcQIRigARgKmAMAiAYBkAYBugYGCAEQARgUkgcFMy4yLjagB9gn&sclient=gws-wiz-serp
+
+Scott Forstall - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Scott+Forstall
+
+Jordan react - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Jordan+react
+
+Inside Chrome: The Secret Project to Crush IE and Remake the Web | WIRED
+https://www.wired.com/2008/09/mf-chrome/
+
+Ben Goodger - OpenAI | LinkedIn
+https://www.linkedin.com/in/bengoodger
+
+奥克兰大学 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%E5%A5%A5%E5%85%8B%E5%85%B0%E5%A4%A7%E5%AD%A6
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Ben Goodger (@bengoodger) / X
+https://x.com/bengoodger
+
+No-Poach Agreement - Google 搜索
+https://www.google.com/search?q=No-Poach+Agreement&client=ubuntu-sn&hs=0Xn&sca_esv=3d9420929d94cce6&channel=fs&sxsrf=ADLYWII9jCE8YBORw0Ih0GDVenC-OQiSkg%3A1731307872280&ei=YKkxZ8fnENil2roPt4Wx6As&ved=0ahUKEwjHl-W12NOJAxXYklYBHbdCDL0Q4dUDCA8&uact=5&oq=No-Poach+Agreement&gs_lp=Egxnd3Mtd2l6LXNlcnAiEk5vLVBvYWNoIEFncmVlbWVudDIEECMYJzIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHkjWCVCBCFiBCHACeAGQAQCYAcIBoAHCAaoBAzAuMbgBA8gBAPgBAZgCA6AC1AHCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMi4wLjGgB_oE&sclient=gws-wiz-serp
+
+Ask HN: Why are so many people leaving OpenAI? | Hacker News
+https://news.ycombinator.com/item?id=41736468
+
+Before Mira Murati's surprise exit from OpenAI, staff grumbled its o1 model had been released prematurely | Fortune
+https://fortune.com/2024/10/01/openai-sam-altman-mira-murati-gpt-4o-o1-chatgpt-turbulent-year/
+
+Code search results
+https://github.com/search?q=repo%3Akovidgoyal%2Fkitty%20svg&type=code
+
+wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+https://github.com/wez/wezterm
+
+Okay, I Like WezTerm | Hacker News
+https://news.ycombinator.com/item?id=41223934
+
+skircle (@skircle.bsky.social) — Bluesky
+https://bsky.app/profile/did:plc:7neczgqjegyixcjlr4dlnkf5
+
+chardoncs (Charles Dong)
+https://github.com/chardoncs
+
+Site not found · GitHub Pages
+https://chardoncs.com/
+
+snapshot v8 javascriptcore spidermonkey - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=snapshot+v8+javascriptcore+spidermonkey
+
+View Transitions (Meeting Notes) - Google 文档
+https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/edit?tab=t.0
+
+1926021 - Make sure we iterate in paint order in order to capture view transition state.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1926021
+
+GDSC-NITH
+https://github.com/GDSC-NITH
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#picking-an-issue-to-work-on
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · zulip/zulip
+https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+
+mattermost/mattermost: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+https://github.com/mattermost/mattermost
+
+Rocket.Chat
+https://github.com/RocketChat
+
+BarquistLab
+https://github.com/BarquistLab
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(65) Discord | #off-topic | Flutter Dev
+https://discord.com/channels/420324994703163402/421444918276390912/1304056351277973587
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+Warning: Potential Security Risk Ahead
+https://energypihi.fi/
+
+Flock
+https://github.com/join-the-flock
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+Flock
+https://getflocked.dev/
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+sched-ext
+https://github.com/sched-ext
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+Chip War PDF - Google 搜索
+https://www.google.com/search?q=Chip+War+PDF&client=ubuntu-sn&hs=2PQ&sca_esv=fb1607ebde4714f4&channel=fs&sxsrf=ADLYWII_ZOrWWE6euQoAlbTMMTW6Vc5fnQ%3A1731218967862&ei=F04wZ_muNNHH1e8Pxuav6Ac&oq=Chip+Wars&gs_lp=Egxnd3Mtd2l6LXNlcnAiCUNoaXAgV2FycyoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdImAtQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+Caturra000 (Caturra)
+https://github.com/caturra000
+
+Pop!_OS by System76
+https://pop.system76.com/
+
+cosmic
+https://system76.com/cosmic/
+
+Lil'Log
+https://lilianweng.github.io/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+pola-rs/polars: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+https://github.com/pola-rs/polars
+
+Espanso - A Privacy-first, Cross-platform Text Expander
+https://espanso.org/
+
+gruns/icecream: 🍦 Never use print() to debug again.
+https://github.com/gruns/icecream
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Flutter is here to stay - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Flutter+is+here+to+stay
+
+ruidian music - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=ruidian+music
+
+Sparse strip path rendering · Issue #670 · linebender/vello
+https://github.com/linebender/vello/issues/670
+
+Efficient GPU Path Rendering Using Scanline Rasterization
+http://kunzhou.net/zjugaps/pathrendering/
+
+Efficient GPU Path Rendering Using Scanline Rasterization - GPUpathrendering.pdf
+http://kunzhou.net/zjugaps/pathrendering/GPUpathrendering.pdf
+
+Sparse strip path rendering - Google 文档
+https://docs.google.com/document/d/16dlcHvvLMumRa5MAyk2Du_MsjF32w0G-n7L9NOJUbRI/edit?tab=t.0#heading=h.9lokdzrz8r5x
+
+CVG@ZJU
+http://www.zjucvg.net/
+
+Alexandru Orzan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Alexandru+Orzan
+
+Diffusion Curves: A Vector Representation for Smooth-Shaded Images - Archive ouverte HAL
+https://hal.science/inria-00274768/
+
+Alexandrina Orzan Home page
+https://maverick.inria.fr/~Alexandrina.Orzan/index.html
+
+maverick.inria.fr/~Joelle.Thollot/index.html#teaching
+https://maverick.inria.fr/~Joelle.Thollot/index.html#teaching
+
+Jean-Marc Hasenfratz
+https://maverick.inria.fr/~Jean-Marc.Hasenfratz/index.html
+
+Mark Kilgard - Wikipedia
+https://en.wikipedia.org/wiki/Mark_Kilgard
+
+alps_01 - 博客园
+https://www.cnblogs.com/alps
+
+Wolfgang Engel - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Wolfgang+Engel
+
+Discover — Bluesky
+https://bsky.app/
+
+The Cg Tutorial - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Cg+Tutorial
+
+Author: Jeff Bolz | NVIDIA Technical Blog
+https://developer.nvidia.com/blog/author/jbolz/
+
+NV Path Rendering Videos | NVIDIA Developer
+https://developer.nvidia.com/nv-path-rendering-videos
+
+Problem loading page
+http://pixeljetstream.blogspot.com/
+
+Page not found · GitHub
+https://github.com/zju2dv
+
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
