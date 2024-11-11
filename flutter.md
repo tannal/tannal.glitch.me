@@ -2,6 +2,63 @@
 
 # inbox
 
+P0: 最高优先级，如构建中断或重大回归
+P1: 高优先级，工作列表顶部的问题
+P2: 重要但不是最紧急的问题
+P3: 相对较低优先级的问题
+
+a: accessibility: 无障碍相关(VoiceOver/TalkBack)
+a: animation: 动画 API 相关
+a: assets: 资源包管理和使用
+a: debugging: 调试和断点相关
+a: desktop: 桌面平台相关
+a: internationalization: 国际化支持
+a: layout: 布局系统问题
+
+f: material design: Material 设计组件
+f: cupertino: iOS 风格组件
+f: gestures: 手势系统
+f: scrolling: 滚动视图相关
+f: routes: 导航和路由
+
+platform-android: Android 平台特定
+platform-ios: iOS 平台特定
+platform-web: Web 平台特定
+platform-windows: Windows 平台特定
+platform-linux: Linux 平台特定
+platform-mac: macOS 平台特定
+
+team-engine: 引擎团队负责
+team-framework: 框架团队负责
+team-tool: 工具团队负责
+team-web: Web 团队负责
+team-accessibility: 无障碍团队负责
+
+perf: app size: 应用大小相关
+perf: memory: 内存性能问题
+perf: speed: 渲染速度问题
+perf: startup: 启动时间问题
+
+t: flutter doctor: flutter doctor 工具问题
+t: hot reload: 热重载相关
+t: gradle: Android 构建系统
+t: xcode: iOS 构建系统
+
+p: camera: 相机插件
+p: firebase: Firebase 相关插件
+p: google_sign_in: Google 登录插件
+p: image_picker: 图片选择器插件
+
+has reproducible steps: 有重现步骤
+waiting for customer response: 等待用户响应
+workaround available: 有可用解决方案
+blocked: 被其他问题阻塞
+
+e: impeller: Impeller 渲染后端
+e: opengl: OpenGL 相关
+e: web_canvaskit: Web CanvasKit 渲染
+e: wasm: WebAssembly 相关
+
 // 三棵树
 Widget Tree    -> 配置
 Element Tree   -> 逻辑

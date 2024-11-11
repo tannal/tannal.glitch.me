@@ -1,4 +1,15 @@
 
+
+# The compiler contribution book
+
+// 生成阶段
+- MIR 优化
+- 常量求值
+- 单态化
+- MIR 降级
+- 代码生成
+- LLVM 集成
+
 # 所有权系统
 
 # 生命周期系统
@@ -39,9 +50,9 @@ https://github.com/rust-skia
 
 https://github.com/Rust-GCC
 
-https://github.com/rust-mobile/ 
+https://github.com/rust-mobile/
 
-https://github.com/gfx-rs/  
+https://github.com/gfx-rs/
 
 
 # people
@@ -155,7 +166,7 @@ tokio task
 
 deno use tokio task spawn to run subcommand
 
-# community 
+# community
 
 
 https://rust-lang.zulipchat.com/#all_messages
@@ -207,7 +218,7 @@ Options:
       --include-default-paths
           include default paths in addition to the provided ones
       --rustc-error-format <RUSTC_ERROR_FORMAT>
-          
+
       --on-fail <CMD>
           command to run on failure
       --dry-run
