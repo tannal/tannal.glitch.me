@@ -1,5 +1,37 @@
 # todo
 
+这是 Node.js 的 GitHub Issues 列表，主要包含以下几类问题：
+文档相关 (doc)
+1. URL 类和 URLSearchParams 类的版本信息缺失 (#55806)
+crypto.hash 文档位置混乱 (#55801)
+zlib.crc32 文档章节位置错误 (#55800)
+4. PerformanceResourceTiming 相关属性文档缺失 (#55793)
+process.emit 文档缺失 (#55731)
+功能问题/Bug
+模块自定义钩子/加载器的异常行为 (#55808)
+子进程命令执行中断 (#55802)
+HTTP/S agents 的 keepAlive 选项默认值设置 (#55770)
+fs.opendir 的 bufferSize 选项支持 (#55764)
+Node 20+ 版本自定义 DNS 查找失败 (#55762)
+性能优化
+ESM Loader 同步化追踪 (#55782)
+Pointer Compression 和 Isolate Groups (#55735)
+node:test 模块的基准测试 (#55723)
+API 设计/使用问题
+AbortController 异常处理位置不当 (#55742)
+napi_threadsafe_function 使用安全性问题 (#55706)
+stream 的 readable 事件和 data 事件行为 (#55704)
+工具链/开发相关
+shared-libuv 依赖问题 (#55787)
+TypeScript 文件的 lint 工具 (#55702)
+这些问题反映了 Node.js 作为一个成熟的项目面临的各种挑战：
+文档完善和维护
+功能 bug 修复
+性能优化
+API 设计改进
+开发工具链优化
+大部分问题都很具体，涉及特定的 API 或功能模块，这有助于维护者快速定位和解决问题。
+
 python tools/test.py  -p tap --logfile test.tap --mode=release --flaky-tests=keep_retrying -p actions --node-args='--test-reporter=spec' --node-args='--test-reporter-destination=stdout' --measure-flakiness 9 test/parallel/test-zlib-crc32.js
 
 [] - xxhash
@@ -42,7 +74,7 @@ CC="clang" CXX="clang++" ./configure --ninja --debug --v8-with-dchecks -C --node
 
 ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd)
 
---with-intl=full-icu 
+--with-intl=full-icu
 
 
 export NODE_DEBUG_NATIVE=module
@@ -99,7 +131,7 @@ https://github.com/tannal/node/actions/runs/10382466923/job/28745595189
 
 $env:NODE_PATH="node"
 
-python tools/test.py  -p tap --logfile test.tap --mode=release --flaky-tests=keep_retrying -p actions --node-args='--test-reporter=spec' --node-args='--test-reporter-destination=stdout' --measure-flakiness 9 default pummel addons js-native-api node-api benchmark 
+python tools/test.py  -p tap --logfile test.tap --mode=release --flaky-tests=keep_retrying -p actions --node-args='--test-reporter=spec' --node-args='--test-reporter-destination=stdout' --measure-flakiness 9 default pummel addons js-native-api node-api benchmark
 
 <!--
 Before submitting a pull request, please read:
@@ -119,7 +151,7 @@ please add the `notable-change` label.
 
 ### Description
 
-This pull request merges the `ongc.js` file and the `gcUntil` function from `common/index.js` into a single file. This addresses the TODO comment 
+This pull request merges the `ongc.js` file and the `gcUntil` function from `common/index.js` into a single file. This addresses the TODO comment
 
 ### Changes Made
 
@@ -392,7 +424,7 @@ nodejs performance team
 https://github.com/search?q=involves%3Abenjamingr%20&type=issues
 https://github.com/search?q=involves%3AMoLow%20&type=issues
 
-ringbuffer 
+ringbuffer
 
 b MacrotaskQueue::RunMacrotasks
 
@@ -462,7 +494,7 @@ git reset --soft ec6ddcecbfdbd66c96d6f40fda8da5162544093e
 
 
 node threads
-PlatformWorkerThread 5 
+PlatformWorkerThread 5
 node::WorkerThreadsTaskRunner::DelayedTaskScheduler::Start() 1
 
 gdb ./node
@@ -575,7 +607,7 @@ set_primordials(primordials.As<Object>());
 
 
 ![Alt text](image-4.png)
- 
+
 
 node::inspector::NodeInspectorClient::runMessageLoopOnPause
 
@@ -654,7 +686,7 @@ https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
  6: 0x55af34475607 v8::internal::Debug::Break(v8::internal::JavaScriptFrame*, v8::internal::Handle<v8::internal::JSFunction>) [./node_g]
  7: 0x55af34df043f  [./node_g]
  8: 0x55af34df0a07 v8::internal::Runtime_DebugBreakOnBytecode(int, unsigned long*, v8::internal::Isolate*) [./node_g]
- 9: 0x55aed5885476 
+ 9: 0x55aed5885476
 
 
   1: 0x56282d88fd3c node::DumpNativeBacktrace(_IO_FILE*) [./node_g]
@@ -708,5 +740,5 @@ https://joyeecheung.github.io/blog/2018/12/31/tips-and-tricks-node-core/
 49: 0x56282d981482 node::builtins::BuiltinLoader::LookupAndCompileInternal(v8::Local<v8::Context>, char const*, std::vector<v8::Local<v8::String>, std::allocator<v8::Local<v8::String> > >*, node::Realm*) [./node_g]
 50: 0x56282d981a88 node::builtins::BuiltinLoader::LookupAndCompile(v8::Local<v8::Context>, char const*, node::Realm*) [./node_g]
 51: 0x56282d9833c2 node::builtins::BuiltinLoader::CompileFunction(v8::FunctionCallbackInfo<v8::Value> const&) [./node_g]
-52: 0x5627cf3d2ba2 
+52: 0x5627cf3d2ba2
 Trace/breakpoint trap (core dumped)

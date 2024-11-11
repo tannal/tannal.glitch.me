@@ -1,42 +1,42 @@
 
 
 
-# 2034-7-3 - 2034-7-10 
+# 2034-7-3 - 2034-7-10
 
 身份证过期
 
-# 2034-6-26 - 2034-7-3    
-# 2034-6-19 - 2034-6-26   
-# 2034-6-12 - 2034-6-19   
-# 2034-6-5 - 2034-6-12    
-# 2034-5-29 - 2034-6-5    
-# 2034-5-22 - 2034-5-29   
-# 2034-5-15 - 2034-5-22   
-# 2034-5-8 - 2034-5-15    
-# 2034-5-1 - 2034-5-8     
-# 2034-4-24 - 2034-5-1    
-# 2034-4-17 - 2034-4-24   
-# 2034-4-10 - 2034-4-17   
-# 2034-4-3 - 2034-4-10    
-# 2034-3-27 - 2034-4-3    
-# 2034-3-20 - 2034-3-27   
-# 2034-3-13 - 2034-3-20   
-# 2034-3-6 - 2034-3-13    
-# 2034-2-27 - 2034-3-6    
-# 2034-2-20 - 2034-2-27   
-# 2034-2-13 - 2034-2-20   
-# 2034-2-6 - 2034-2-13    
-# 2034-1-30 - 2034-2-6    
-# 2034-1-23 - 2034-1-30   
-# 2034-1-16 - 2034-1-23   
-# 2034-1-9 - 2034-1-16    
-# 2034-1-2 - 2034-1-9     
-# 2033-12-26 - 2034-1-2   
-# 2033-12-19 - 2033-12-26 
-# 2033-12-12 - 2033-12-19 
-# 2033-12-5 - 2033-12-12  
-# 2033-11-28 - 2033-12-5  
-# 2033-11-21 - 2033-11-28 
+# 2034-6-26 - 2034-7-3
+# 2034-6-19 - 2034-6-26
+# 2034-6-12 - 2034-6-19
+# 2034-6-5 - 2034-6-12
+# 2034-5-29 - 2034-6-5
+# 2034-5-22 - 2034-5-29
+# 2034-5-15 - 2034-5-22
+# 2034-5-8 - 2034-5-15
+# 2034-5-1 - 2034-5-8
+# 2034-4-24 - 2034-5-1
+# 2034-4-17 - 2034-4-24
+# 2034-4-10 - 2034-4-17
+# 2034-4-3 - 2034-4-10
+# 2034-3-27 - 2034-4-3
+# 2034-3-20 - 2034-3-27
+# 2034-3-13 - 2034-3-20
+# 2034-3-6 - 2034-3-13
+# 2034-2-27 - 2034-3-6
+# 2034-2-20 - 2034-2-27
+# 2034-2-13 - 2034-2-20
+# 2034-2-6 - 2034-2-13
+# 2034-1-30 - 2034-2-6
+# 2034-1-23 - 2034-1-30
+# 2034-1-16 - 2034-1-23
+# 2034-1-9 - 2034-1-16
+# 2034-1-2 - 2034-1-9
+# 2033-12-26 - 2034-1-2
+# 2033-12-19 - 2033-12-26
+# 2033-12-12 - 2033-12-19
+# 2033-12-5 - 2033-12-12
+# 2033-11-28 - 2033-12-5
+# 2033-11-21 - 2033-11-28
 # 2033-11-14 - 2033-11-21
 # 2033-11-7 - 2033-11-14
 # 2033-10-31 - 2033-11-7
@@ -62,7 +62,7 @@
 # 2033-6-13 - 2033-6-20
 # 2033-6-6 - 2033-6-13
 # 2033-5-30 - 2033-6-6
-# 2033-5-23 - 2033-5-30 
+# 2033-5-23 - 2033-5-30
 # 2033-5-16 - 2033-5-23
 # 2033-5-9 - 2033-5-16
 # 2033-5-2 - 2033-5-9
@@ -106,8 +106,8 @@
 # 2032-8-9 - 2032-8-16
 # 2032-8-2 - 2032-8-9
 # 2032-7-26 - 2032-8-2
-# 2032-7-19 - 2032-7-26 
-# 2032-7-12 - 2032-7-19 
+# 2032-7-19 - 2032-7-26
+# 2032-7-12 - 2032-7-19
 # 2032-7-5 - 2032-7-12
 # 2032-6-28 - 2032-7-5
 # 2032-6-21 - 2032-6-28
@@ -142,7 +142,7 @@
 # 2031-12-1 - 2031-12-8
 # 2031-11-24 - 2031-12-1
 # 2031-11-17 - 2031-11-24
-# 2031-11-10 - 2031-11-17 
+# 2031-11-10 - 2031-11-17
 # 2031-11-3 - 2031-11-10
 # 2031-10-27 - 2031-11-3
 # 2031-10-20 - 2031-10-27
@@ -186,7 +186,7 @@
 # 2031-1-27 - 2031-2-3
 # 2031-1-20 - 2031-1-27
 # 2031-1-13 - 2031-1-20
-# 2031-1-6 - 2031-1-13 
+# 2031-1-6 - 2031-1-13
 # 2030-12-30 - 2031-1-6
 # 2030-12-23 - 2030-12-30
 # 2030-12-16 - 2030-12-23
@@ -273,7 +273,7 @@
 # 2029-5-28 - 2029-6-4
 # 2029-5-21 - 2029-5-28
 # 2029-5-14 - 2029-5-21
-# 2029-5-7 - 2029-5-14 
+# 2029-5-7 - 2029-5-14
 # 2029-4-30 - 2029-5-7
 # 2029-4-23 - 2029-4-30
 # 2029-4-16 - 2029-4-23
@@ -369,7 +369,7 @@
 # 2027-7-26 - 2027-8-2
 # 2027-7-19 - 2027-7-26
 
-# 2027-7-12 - 2027-7-19 
+# 2027-7-12 - 2027-7-19
 
 入职
 
@@ -378,47 +378,47 @@
 # 2027-6-21 - 2027-6-28
 
 
-# 2027-6-14 - 2027-6-21 
-# 2027-6-7 - 2027-6-14   
-学位证，毕业 
-# 2027-5-31 - 2027-6-7    
-# 2027-5-24 - 2027-5-31   
-# 2027-5-17 - 2027-5-24   
-# 2027-5-10 - 2027-5-17   
-# 2027-5-3 - 2027-5-10   
+# 2027-6-14 - 2027-6-21
+# 2027-6-7 - 2027-6-14
+学位证，毕业
+# 2027-5-31 - 2027-6-7
+# 2027-5-24 - 2027-5-31
+# 2027-5-17 - 2027-5-24
+# 2027-5-10 - 2027-5-17
+# 2027-5-3 - 2027-5-10
 
 答辩
 
-# 2027-4-26 - 2027-5-3    
-# 2027-4-19 - 2027-4-26   
-# 2027-4-12 - 2027-4-19   
-# 2027-4-5 - 2027-4-12    
-# 2027-3-29 - 2027-4-5    
-# 2027-3-22 - 2027-3-29   
-# 2027-3-15 - 2027-3-22   
-# 2027-3-8 - 2027-3-15    
+# 2027-4-26 - 2027-5-3
+# 2027-4-19 - 2027-4-26
+# 2027-4-12 - 2027-4-19
+# 2027-4-5 - 2027-4-12
+# 2027-3-29 - 2027-4-5
+# 2027-3-22 - 2027-3-29
+# 2027-3-15 - 2027-3-22
+# 2027-3-8 - 2027-3-15
 # 2027-3-1 - 2027-3-8
 送审，盲审
-# 2027-2-22 - 2027-3-1    
-# 2027-2-15 - 2027-2-22   
-# 2027-2-8 - 2027-2-15    
-# 2027-2-1 - 2027-2-8     
-# 2027-1-25 - 2027-2-1    
-# 2027-1-18 - 2027-1-25   
-# 2027-1-11 - 2027-1-18   
+# 2027-2-22 - 2027-3-1
+# 2027-2-15 - 2027-2-22
+# 2027-2-8 - 2027-2-15
+# 2027-2-1 - 2027-2-8
+# 2027-1-25 - 2027-2-1
+# 2027-1-18 - 2027-1-25
+# 2027-1-11 - 2027-1-18
 # 2027-1-4 - 2027-1-11
 
 论文终稿完成
 
-# 2026-12-28 - 2027-1-4   
-# 2026-12-21 - 2026-12-28 
-# 2026-12-14 - 2026-12-21 
-# 2026-12-7 - 2026-12-14  
-# 2026-11-30 - 2026-12-7  
-# 2026-11-23 - 2026-11-30 
-# 2026-11-16 - 2026-11-23 
-# 2026-11-9 - 2026-11-16  
-# 2026-11-2 - 2026-11-9   
+# 2026-12-28 - 2027-1-4
+# 2026-12-21 - 2026-12-28
+# 2026-12-14 - 2026-12-21
+# 2026-12-7 - 2026-12-14
+# 2026-11-30 - 2026-12-7
+# 2026-11-23 - 2026-11-30
+# 2026-11-16 - 2026-11-23
+# 2026-11-9 - 2026-11-16
+# 2026-11-2 - 2026-11-9
 # 2026-10-26 - 2026-11-2
 # 2026-10-19 - 2026-10-26
 # 2026-10-12 - 2026-10-19
@@ -531,7 +531,7 @@ igalia申请 deadline
 # 2025-3-31 - 2025-4-7
 # 2025-3-24 - 2025-3-31
 # 2025-3-17 - 2025-3-24
-# 2025-3-10 - 2025-3-17 
+# 2025-3-10 - 2025-3-17
 # 2025-3-3 - 2025-3-10
 
 apply ICE
@@ -575,13 +575,60 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2024-11-18 - 2024-11-25
 # 2024-11-11 - 2024-11-18
 
-[] update cv
+[] update cv apply
+[] jsengine tc39 tests ecmascript
+[] 11.13 16:40
+[] 11.14 24:00 office hour
+[] 11.14
+https://github.com/whatwg/html/issues/10750
 
-apply 
+## Shit
+
+## Sleep
+
+[x] 2024-11-3 25:20 delay sleep
+
+## Eating
+
+[x] 2024-11-3 19:02 delay lunch
+
+## Sports
+
+## Social Activities
+
+[] text editor -> code editor blog
+
+## Action needed from Me TODO (don't need supervisor) 4
+
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+## Blocked on others/supervisor
+
+[] waiting for review https://skia-review.googlesource.com/c/skia/+/915136
+[] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
+
+## Short Term Goal (one year)
+
+[] 50/800 20/700 achievements/commits
+[] 2025 4/ GSOC zulip rust llvm
+[] 2025 4/ sing
+[] 2025 1/ outreachy servo and others
+
+## Long Term Goal (three years & five years & ten years)
+
+[] zed bun zig firefox/layout,grahics,sm,patform wasmtime wasmedge lineblender typst graphite.rs
+[] bussieness centered tech zulip collarate CRDT
+[] RD centered tech
+[] chinese english japanese koera
+[] artists content maker
 
 # 2024-11-4 - 2024-11-11
 
-[] 11.6 chongwangfei
+[x] 11.6 chongwangfei
 
 ## Shit
 
@@ -607,8 +654,8 @@ apply
 ## Social Activities
 
 [] text editor -> code editor blog
-[] 11-06 16:40 
-[] 11-07 text editor code editor 11:45 
+[] 11-06 16:40
+[] 11-07 text editor code editor 11:45
 [] 11.7 https://github.com/whatwg/html/issues/10734
 让我帮你计算:
 11月7日 9:00 PST (太平洋标准时间)
@@ -624,7 +671,7 @@ apply
 
 ## Action needed from Me TODO (don't need supervisor) 4
 
-[] complexity paper 11.10 17:00
+[x] complexity paper 11.10 17:00
 [] complex networking abstract 11.30
 [] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
 see https://github.com/WebKit/WebKit/pull/14937/files
@@ -641,7 +688,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
 
 
-[] Do less day
+[x] Do less day
 
 ## Exploring & Learning (need supervisor) 1
 
@@ -651,7 +698,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [] fritter flutter 3.7.8 fvm lese
 [] tiktok AI generate output.
 [] manimgl cario/vello latex/typst
-[] vello_editor with y-crt or eg-walker collabration 
+[] vello_editor with y-crt or eg-walker collabration
 [] yong gihtub issues he qita public api ganfan weixin gongzhonghao
     flutter kehuduan t
 [] zulip-server and frontend and flutter app.
@@ -660,7 +707,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
 [] 50/800 20/700 achievements/commits
 [] 2025 4/ GSOC zulip rust llvm
-[] 2025 4/ sing 
+[] 2025 4/ sing
 [] 2025 1/ outreachy servo and others
 
 ## Long Term Goal (three years & five years & ten years)
@@ -689,14 +736,14 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [x] leetcode nearest common ancestor
 [x] leetcode chuanglian
 [x] leetcode zuichangyouxiaokuohao
-[x] leetcode sukato 
+[x] leetcode sukato
 
 ## Sleep
 
 [x] 2024-10-26 23:40 delay sleep
 [x] 2024-10-26 23:30 - 9:00 delay sleep
 [x] 2024-10-28 1:00 - 8:00 delay sleep
-[x] 2024-10-31 5:00 - 7:40 thursiday high for 
+[x] 2024-10-31 5:00 - 7:40 thursiday high for
 
 ## Eating
 
@@ -710,19 +757,19 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [x] Chain Together with ruyu 10/26
 [x] Varant with 南号尚风 1RShow 我智力有问题 三金 主治医师
 [x] October 28 2024 servo month meeting
-[x] 10-30 16:40 
-[x] 10-31 11:45 
+[x] 10-30 16:40
+[x] 10-31 11:45
 [] Coffee Compiler Club 11-01
 [x] 10-31 linebender office hour 23:00
-[x] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024 
+[x] Where: https://meet.jit.si/ServoTriage. When: 10:00 AM GMT on October 28 2024
 
 ## Action needed from Me TODO (don't need supervisor) 4
 
 [x] boost day E.G. 2024-10-27 KTV
 [] complexity paper 11.10 17:00
-[x] 10-28 ggml-mnist 
+[x] 10-28 ggml-mnist
 [] complex networking abstract 11.30
-[x] vidoes 
+[x] vidoes
 [] blog
 [] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
 see https://github.com/WebKit/WebKit/pull/14937/files
@@ -749,7 +796,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [] fritter flutter 3.7.8 fvm lese
 [] tiktok AI generate output.
 [] manimgl cario/vello latex/typst
-[] vello_editor with y-crt or eg-walker collabration 
+[] vello_editor with y-crt or eg-walker collabration
 [] yong gihtub issues he qita public api ganfan weixin gongzhonghao
     flutter kehuduan t
 [] zulip-server and frontend and flutter app.
@@ -758,7 +805,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
 [] 50/800 20/700 achievements/commits
 [] 2025 4/ GSOC zulip rust llvm
-[] 2025 4/ sing 
+[] 2025 4/ sing
 [] 2025 1/ outreachy servo and others
 
 ## Long Term Goal (three years & five years & ten years)
@@ -775,7 +822,7 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
 [] tiktok AI generate output.
 [] manimgl cario/vello latex/typst
-[] vello_editor with y-crt or eg-walker collabration 
+[] vello_editor with y-crt or eg-walker collabration
 [] yong gihtub issues he qita public api ganfan weixin gongzhonghao
     flutter kehuduan t
 [x] 10-23
@@ -825,11 +872,11 @@ Last meeting at #104
 # 2024-10-13 - 2024-10-20
 
 [] Beijing 17 night 22:00
-[] test262 meeting 
+[] test262 meeting
 [] ask for intern
 [x] 10-16 12:00 PM
 [x] 10-16 16:45 PM
-[x] 10-17 linebender office hour 
+[x] 10-17 linebender office hour
 
 https://github.com/pytorch/pytorch/issues/126519
 
@@ -864,7 +911,7 @@ https://github.com/pytorch/pytorch/issues/126519
 ```rs
 // assets/keymaps/default-linux.json add a new context and keymap for new component
 // create a new lib called go_to_rencent directories
-// init with picker component 
+// init with picker component
 impl Render for FileFinder {
     fn render(&mut self, cx: &mut ViewContext<Self>) -> impl IntoElement {
         v_flex()
@@ -912,13 +959,13 @@ write wpt test for it
 [x] 2024-10-9 linebender office hour 23:00
 [x] 10-10 10:00 PM
 [] 10-11 find a monitor and wire to raspi then boot an os
-[x] 10-09 
+[x] 10-09
 
 # 2024-9-29 - 2024-10-6
 
 ## Doing
 
-[x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107 
+[x] wpt test for input vertical align https://phabricator.services.mozilla.com/D223107
 
 https://chromium-review.googlesource.com/c/chromium/src/+/5479489
 https://github.com/whatwg/html/issues/5065
@@ -932,7 +979,7 @@ html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox r
 
 [] build a database systems around github api (issues)
 
-[] Be a song writer write songs 
+[] Be a song writer write songs
 [] Yong bendi damoxing zuo ge ren fanyi, yuyinshishifanyi
 
 
@@ -947,7 +994,7 @@ html/rendering/widgets/baseline-alignment-and-overflow.tentative.html checkbox r
 [x] zuochengyun leetcode binary search and two dimentional memo search dynamic programming
 
 - 10-4 two problems C++
-- 
+-
 
 [] damoxing weitiao xunlianyin https://huggingface.co/blog/zh/rlhf
 [] AI agent powered documents
@@ -967,7 +1014,7 @@ https://github.com/w3c/csswg-drafts/issues/10872
 ```rs
 // assets/keymaps/default-linux.json add a new context and keymap for new component
 // create a new lib called go_to_rencent directories
-// init with picker component 
+// init with picker component
 impl Render for FileFinder {
     fn render(&mut self, cx: &mut ViewContext<Self>) -> impl IntoElement {
         v_flex()
@@ -996,13 +1043,13 @@ https://codetribute.mozilla.org/projects/webplatform
 
 # 2024-9-15 - 2024-9-22
 
-[x] follow up pr for test262 
+[x] follow up pr for test262
 [x] reviewed Reg v flag https://phabricator.services.mozilla.com/D220381 *igalia* *frontend* *open source*
 [] hash function compile cache
 [] github issues can be used as a database I can build various dbms system using github public api.
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] videos by 3blue1brown using manim actually we can do it in vello/bevy/typst in rust.
-[x] webkit javascriptCore pr 1 lgtm Yusuke SUZUKI 
+[x] webkit javascriptCore pr 1 lgtm Yusuke SUZUKI
 [x] waiting for reviewing https://chromium-review.googlesource.com/c/v8/v8/+/5870695
 [x] https://chromium-review.googlesource.com/c/v8/v8/+/5860436 a simple fix for v8 clemensb is off office until 9.16
 [x] 2024-9-2 10:00 - 11:30
@@ -1014,10 +1061,10 @@ https://codetribute.mozilla.org/projects/webplatform
 
 
 [] kaijuan kaoshi ppt
-[] zhouzhiguo 5 bishi 
+[] zhouzhiguo 5 bishi
 [] bijuan shouji kaijuan ppt qiyishi
 [] fuzawangluo xielunwen
-[] bijuankao 
+[] bijuankao
 [] jiaoyigelunwen
 
 
@@ -1025,9 +1072,9 @@ cv2 for ai algo
 cv for frontend
 cv for igalia
 
-[x] zhouzhiguo nenuoj 
-[x] Redmi R7800 book for content 
-[x] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213 
+[x] zhouzhiguo nenuoj
+[x] Redmi R7800 book for content
+[x] tests the v flag in RegExp.prototype you can learning something from promise.try tests and  v flag tests https://github.com/tc39/test262/pull/4213
 [] content bilibili video tannal.github.io blog post
 [] https://github.com/karpathy/llm.c/issues/502 datasets training gpt2 used for https://gwern.net/gpt-2-music#the-session
 [] submit a pr for xxhash in compile cache, we need to research the compile cache pr https://github.com/nodejs/node/issues/52696
@@ -1043,7 +1090,7 @@ cv for igalia
 
 
 
-## weight 
+## weight
 
 ## house car wife
 
@@ -1057,7 +1104,7 @@ cv for igalia
 
 ## igalia
 
-[] zhihu weibo csdn 
+[] zhihu weibo csdn
 [] weixin block on yinhangka
 [] ggml-mnist tech report
 [] sport running and fuwocheng
@@ -1089,7 +1136,7 @@ cv for igalia
 
 [x] k30s相册，预约上门退货 *family*
 [] 洞洞鞋 衣服 裤子 秋 *life*
-[x] redeclare variables proposal 
+[x] redeclare variables proposal
 [x] A800 whisper.cpp stable-diffusion.cpp *AI*
 
 # 2024-8-28 - 2024-9-2
@@ -1111,7 +1158,7 @@ spidermonkey
 https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-4bmd7d25nix2m4x6y6uw&statuses%5B0%5D=open()&order=newest&bucket=action
 
 文字进文字出 llama.cpp gpt2 etc trasformer tranditional llm
-文字进语音出 mozilla tts 
+文字进语音出 mozilla tts
 文字进图片出 stable diffusion
 文字进视频出 sora
 文字进行为出 生成代码 Claude3

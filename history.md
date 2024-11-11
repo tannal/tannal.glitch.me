@@ -1,10 +1,171 @@
-# 2024-11-10
+# 2024-11-11
 
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
+
+Issues · pop-os/cosmic-text
+https://github.com/pop-os/cosmic-text/issues?q=is%3Aissue+is%3Aopen+IME
+
+Support inline box layout · Issue #25 · linebender/parley
+https://github.com/linebender/parley/issues/25
+
+Use CSS definition of line height by nicoburns · Pull Request #84 · linebender/parley
+https://github.com/linebender/parley/pull/84/files
+
+Side Projects - The Redox Operating System
+https://doc.redox-os.org/book/side-projects.html
+
+redox-os / h2 · GitLab
+https://gitlab.redox-os.org/redox-os/h2
+
+summerwind/h2spec: A conformance testing tool for HTTP/2 implementation.
+https://github.com/summerwind/h2spec
+
+redox-os · GitLab
+https://gitlab.redox-os.org/redox-os
+
+smoltcp-rs/smoltcp: a smol tcp/ip stack
+https://github.com/smoltcp-rs/smoltcp
+
+redox os vs pop os - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=redox+os+vs+pop+os
+
+sifive - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=sifive
+
+rust-embedded/rust-raspberrypi-OS-tutorials: :books: Learn to write an embedded OS in Rust :crab:
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+
+rsta2/circle-rust
+https://github.com/rsta2/circle-rust
+
+Zach Leatherman: "Software developers say “Use the right tool for the job—but wouldn’t it be better if this one tool solved every problem and use case for everyone for the remainder of time as we perceive and understand it”" — Bluesky
+https://bsky.app/profile/zachleat.com/post/3lajkf2dbsj2r
+
+Cloud Application Platform | Render
+https://render.com/
+
+IP/DNS Detect - What is your IP, what is your DNS, what informations you send to websites.
+https://ipleak.net/
+
+http2 crash on h2spec check · Issue #34311 · nodejs/node
+https://github.com/nodejs/node/issues/34311
+
+Smoltcp: A small TCP/IP stack in Rust | Hacker News
+https://news.ycombinator.com/item?id=20230163
+
+kovidgoyal/calibre: The official source code repository for the calibre ebook manager
+https://github.com/kovidgoyal/calibre
+
+Convertio — File Converter
+https://convertio.co/
+
+IronCalc
+https://github.com/ironcalc
+
+IronCalc – Open-Source Spreadsheet Engine | Hacker News
+https://news.ycombinator.com/item?id=42095292
+
+logisky/LogiSheets: LogiSheets is a web spreadsheet application that is compatible with Excel and designed for easy further development.
+https://github.com/logisky/LogiSheets
+
+apoch/formula-engine: A simple but powerful embeddable scripting library for games
+https://github.com/apoch/formula-engine
+
+Don't guarantee left join ordering. · Issue #19576 · pola-rs/polars
+https://github.com/pola-rs/polars/issues/19576
+
+Polars | Hacker News
+https://news.ycombinator.com/item?id=38920043
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(64) Discord | #contributing | Bun
+https://discord.com/channels/876711213126520882/888839314056839309
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+sched-ext
+https://github.com/sched-ext
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+Chip War PDF - Google 搜索
+https://www.google.com/search?q=Chip+War+PDF&client=ubuntu-sn&hs=2PQ&sca_esv=fb1607ebde4714f4&channel=fs&sxsrf=ADLYWII_ZOrWWE6euQoAlbTMMTW6Vc5fnQ%3A1731218967862&ei=F04wZ_muNNHH1e8Pxuav6Ac&oq=Chip+Wars&gs_lp=Egxnd3Mtd2l6LXNlcnAiCUNoaXAgV2FycyoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdImAtQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+Caturra000 (Caturra)
+https://github.com/caturra000
+
+Pop!_OS by System76
+https://pop.system76.com/
+
+cosmic
+https://system76.com/cosmic/
+
+Lil'Log
+https://lilianweng.github.io/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+pola-rs/polars: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+https://github.com/pola-rs/polars
+
+Espanso - A Privacy-first, Cross-platform Text Expander
+https://espanso.org/
+
+gruns/icecream: 🍦 Never use print() to debug again.
+https://github.com/gruns/icecream
+
+chip war - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=chip+war
+
+Chris miller chip war pdf | Devfolio
+https://devfolio.co/projects/chris-miller-chip-war-pdf-45ff
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+# 2024-11-10
 
 Tudmotu's Profile - GNOME Shell Extensions
 https://extensions.gnome.org/accounts/profile/Tudmotu
