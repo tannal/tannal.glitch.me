@@ -1,7 +1,38 @@
 
 # 2024-11-11
 
+1. 优化器架构差异
+- V8: 使用Sea of Nodes IR,可同时优化数据流和控制流
+- JavaScriptCore: 有专门的JIT层优化数据流
+- SpiderMonkey: 主要关注控制流优化,数据流优化相对较弱
 
+2. 优化Pass差异
+- SpiderMonkey缺少一些关键优化pass
+- 例如:没有Common Subexpression Elimination
+- 优化器是单pass的,而其他引擎是多pass
+
+3. JIT编译器差异
+- SpiderMonkey使用TracingJIT
+- 虽然LuaJIT也是Tracing但性能更好
+- WarpMonkey试图改进这一点
+
+1. 测试环境
+- 浏览器环境:DOM和布局也会影响性能
+- 独立环境:纯JS引擎测试仍显示差距
+
+2. 运行时生态
+- V8有Node/Deno
+- JavaScriptCore有Bun
+- SpiderMonkey缺乏成熟的运行时
+
+3. 优化重点
+- V8/JSC更注重实际性能
+- 一些基准测试可能不能完全反映实际性能
+
+1. 提交性能分析报告
+2. 使用Firefox Profiler分析具体瓶颈
+3. 考虑增加数据流优化pass
+4. 改进优化器架构,支持多pass优化
 
 台湾人口红利期(1960s-1990s)
 日本人口红利期(1950s-1980s)
