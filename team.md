@@ -1,3 +1,17 @@
+
+# Zig team
+
+- Veikka Tuominen
+- Andrew Kelley
+- Loris Cro
+- Jacob Carlborg
+- Josh de Kock
+- Frank Denis
+- Robert O'Callahan
+- Andrew Kelley
+- Josh de Kock
+
+
 # Chromium V8 team
 
 - Mads Ager (TL)
