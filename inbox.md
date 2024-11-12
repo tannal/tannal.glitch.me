@@ -1,7 +1,8 @@
 
 # 2024-11-12
 
-不是的。垃圾回收(Garbage Collection)的历史比 Java 要早得多：
+https://github.com/search?q=%22See+Knuth%22&type=code
+
 1. 最早期(1959-1960)：
 Lisp 是第一个引入垃圾回收的语言
 John McCarthy 在 MIT 发明了标记-清除(Mark-Sweep)算法
