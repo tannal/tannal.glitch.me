@@ -1,4 +1,11 @@
 
+确实有数据库使用了 Z-order curve (Z序曲线)！
+
+PostgreSQL 的 BRIN (Block Range INdex) 索引：
+R-trees
+KD-trees
+Geohash
+其他专门的空间索引结构
 
 
 
