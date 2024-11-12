@@ -1,6 +1,36 @@
 
 # 2024-11-12
 
+不是的。垃圾回收(Garbage Collection)的历史比 Java 要早得多：
+1. 最早期(1959-1960)：
+Lisp 是第一个引入垃圾回收的语言
+John McCarthy 在 MIT 发明了标记-清除(Mark-Sweep)算法
+这是为了解决手动内存管理的困难
+1960-1970年代：
+Smalltalk 使用了垃圾回收
+引入了引用计数(Reference Counting)技术
+发展了复制收集(Copying Collection)算法
+1980年代：
+Xerox PARC 开发了分代收集(Generational Collection)
+Scheme、ML 等函数式语言采用垃圾回收
+垃圾回收理论得到深入研究
+4. 1990年代：
+Java(1995)将垃圾回收带入主流
+使 GC 技术获得广泛关注和应用
+推动了垃圾回收算法的进一步发展
+5. 现代垃圾回收：
+V8: Oilpan, Orinoco
+SpiderMonkey: 精确 GC
+.NET: 分代 GC
+Go: 并发 GC
+Rust: 所有权系统(另一种内存管理方式)
+Java 的贡献在于：
+将 GC 带入企业级应用开发
+推动了 GC 性能的提升
+证明了 GC 在生产环境的可行性
+影响了后续很多语言选择 GC
+所以说，Java 不是垃圾回收的起源，但确实是让垃圾回收成为主流的重要推手。
+
 主要玩家：
 - OpenAI (GPT-4)
 - Google (Gemini)

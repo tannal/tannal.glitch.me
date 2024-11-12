@@ -1,4 +1,47 @@
 
+
+Boris Zbarsky (@bz)
+Mozilla 的资深技术专家
+Gecko 渲染引擎的主要架构师之一
+对 CSS 引擎和 DOM 实现有深入研究
+在 Web 标准制定方面非常活跃
+Emilio Cobos Álvarez (@emilio)
+Mozilla 的资深工程师
+Servo/Gecko 的主要贡献者
+专注于 CSS 引擎和布局系统
+Rust 语言的积极贡献者
+Marco Castelluccio
+Mozilla 的工程师
+主要负责自动化测试和 CI/CD 系统
+参与 Rust 重写项目
+Nicolas B. Pierron
+SpiderMonkey JavaScript 引擎的核心开发者
+专注于 JIT 编译器优化
+Valerie Young
+Mozilla 的工程师
+参与 Servo 项目开发
+专注于浏览器性能优化
+他们的一些重要同事包括：
+Patrick Brosset
+开发者工具团队负责人
+Firefox DevTools 的主要贡献者
+Dave Herman
+Mozilla Research 的主要研究员
+Rust 语言设计的早期参与者
+Bobby Holley
+Firefox 性能团队负责人
+Gecko 平台架构师
+Anne van Kesteren
+Web 标准专家
+WHATWG 规范的主要作者之一
+这些开发者共同推动了 Firefox 浏览器的发展，特别是在:
+Rust 语言的采用
+Servo 新一代渲染引擎的开发
+Web 标准的制定和实现
+浏览器性能和安全性的提升
+他们的工作对整个 Web 生态系统都产生了重要影响
+
+
 # 渲染引擎核心(Gecko)相关：
 Layout: 负责页面布局，包括块级、内联、弹性盒子、网格等布局系统
 Graphics: 图形渲染系统，包括Canvas、WebGL、文本渲染等
@@ -167,6 +210,11 @@ author:martinthomson
 
 
 # Meeting Notes layout & Spidermonkey
+
+V8                    SpiderMonkey
+Isolate       <->     JSRuntime
+Context       <->     Activation/JSContext
+ExecutionStack <->    Activation链表
 
 https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/edit
 

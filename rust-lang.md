@@ -57,7 +57,6 @@ https://github.com/rust-mobile/
 
 https://github.com/gfx-rs/
 
-
 # people
 
 involves:LegionMammal978

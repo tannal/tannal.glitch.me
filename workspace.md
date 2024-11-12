@@ -148,6 +148,11 @@ bun-debug
 ## gecko
 
 - On branch cookie-count
+
+Bug 1924567 - Remove  r?emilio
+
+Differential Revision: https://phabricator.services.mozilla.com/D225966
+
 LazyLogModule
 [] fix failing tests
 https://bugzilla.mozilla.org/show_bug.cgi?id=1845870

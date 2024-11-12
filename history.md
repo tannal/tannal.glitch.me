@@ -1,3 +1,430 @@
+
+# 2024-11-12
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+LeetCode/anagrams.cc at master · MaskRay/LeetCode
+https://github.com/MaskRay/LeetCode/blob/master/anagrams.cc
+
+不要只是坐看未来发生，帮助我们一同引领未来 - 在SiFive工作
+https://www.sifive.cn/careers
+
+Careers
+https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Astro
+https://github.com/withastro
+
+Cassidy Williams
+https://cassidoo.co/
+
+jim keller - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=jim+keller
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU
+https://github.com/DioxusLabs/blitz
+
+Roadmap · Issue #119 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/119
+
+CSS Masonry & CSS Grid | CSS-Tricks
+https://css-tricks.com/css-masonry-css-grid/
+
+Alternative masonry path forward · Issue #9041 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/9041
+
+(51) 陳小春 Jordan Chan - 我愛的人(Official MV) - YouTube
+https://www.youtube.com/watch?v=ZeghG09iaNY
+
+BlinkOn 19 - The Trials and Tribulations of Implementing Masonry - Google 幻灯片
+https://docs.google.com/presentation/d/1bsGv9tTvaNF4Lno9rhHkaLj52TxLwdCbdgVPiWX3-Q4/edit#slide=id.g30944265ea4_0_64
+
+CSS Grid Layout Module Level 3
+https://drafts.csswg.org/css-grid-3/
+
+(51) Flutter got forked (and I support it) - YouTube
+https://www.youtube.com/watch?v=PblbmwS0Qj4
+
+Flock
+https://getflocked.dev/
+
+Flock
+https://github.com/join-the-flock/
+
+We're forking Flutter. This is why.
+https://getflocked.dev/blog/posts/we-are-forking-flutter-this-is-why/
+
+Tufte CSS
+https://edwardtufte.github.io/tufte-css/
+
+Stephen Few - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Stephen+Few
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cortex-js/compute-engine: An engine for symbolic manipulation and numeric evaluation of math formulas expressed with MathJSON
+https://github.com/cortex-js/compute-engine
+
+CortexJS - Scientific Computing and Math for the Web
+https://cortexjs.io/
+
+geoffrey hinton theory - Google 搜索
+https://www.google.com/search?q=geoffrey+hinton+theory&client=ubuntu-sn&hs=jIX&sca_esv=a07f0383584960a3&channel=fs&sxsrf=ADLYWIKUdmb7D3XyQHtmbu6aGAxc3L39xA%3A1731324861711&ei=vesxZ6iMK8Go2roP-N3t0QY&ved=0ahUKEwjo3v3al9SJAxVBlFYBHfhuO2oQ4dUDCA8&uact=5&oq=geoffrey+hinton+theory&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmdlb2ZmcmV5IGhpbnRvbiB0aGVvcnkyCBAAGIAEGMsBMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjgNlDwCVjsNHACeAKQAQCYAY8CoAGzD6oBBTAuMi43uAEDyAEA-AEBmAIMoALwD8ICBBAAGEfCAgUQABiABMICBRAuGIAEwgIFECEYoAHCAggQLhiABBjLAcICBBAAGB7CAgYQABgIGB6YAwDiAwUSATEgQIgGAZAGCpIHBTMuMS44oAecJw&sclient=gws-wiz-serp
+
+paulrobustelli
+https://github.com/paulrobustelli
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=newcastle&op=translate
+
+Flock
+https://github.com/join-the-flock
+
+Text Rendering Hates You - Faultlore
+https://faultlore.com/blah/text-hates-you/
+
+Higher-Order and Tuple-Based Massively-Parallel Prefix Sums (PLDI 2016 - Research Papers) - PLDI 2016
+https://pldi16.sigplan.org/details/pldi-2016-papers/9/Higher-Order-and-Tuple-Based-Massively-Parallel-Prefix-Sums
+
+CUDA Optimization Tutorial - pldi16-presentation42.pdf
+https://raw.githubusercontent.com/emeryberger/PLDI-2016/master/presentations/pldi16-presentation42.pdf
+
+google-deepmind/alphafold3: AlphaFold 3 inference pipeline.
+https://github.com/google-deepmind/alphafold3
+
+Ryan Skinner: "i'm a div centering merchant, how did this happen" — Bluesky
+https://bsky.app/profile/ryanskinner.com/post/3lan6atpzhc26
+
+bytedance/Protenix: A trainable PyTorch reproduction of AlphaFold 3.
+https://github.com/bytedance/Protenix?tab=readme-ov-file
+
+Protenix/Protenix_Technical_Report.pdf at main · bytedance/Protenix
+https://github.com/bytedance/Protenix/blob/main/Protenix_Technical_Report.pdf
+
+Pull requests · schrodinger/pymol-open-source
+https://github.com/schrodinger/pymol-open-source/pulls
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app
+
+Principles of 2D Graphics | Gathering resources for possibly becoming a book on 2D graphics.
+https://2d.graphics/
+
+DJMcNab/filament at rust_crate
+https://github.com/DJMcNab/filament/tree/rust_crate
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(68) Discord | #wg-embedded | The Rust Programming Language
+https://discord.com/channels/442252698964721669/443151017681485835
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Implement `timeout` support in `node:vm` · Issue #10035 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/10035
+
+Flock
+https://github.com/join-the-flock
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+rust-lang/rust: Empowering everyone to build reliable and efficient software.
+https://github.com/rust-lang/rust/tree/master
+
+Flock
+https://getflocked.dev/
+
+(51) Angela Collier - YouTube
+https://www.youtube.com/@acollierastro/videos
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+sched-ext
+https://github.com/sched-ext
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+Chip War PDF - Google 搜索
+https://www.google.com/search?q=Chip+War+PDF&client=ubuntu-sn&hs=2PQ&sca_esv=fb1607ebde4714f4&channel=fs&sxsrf=ADLYWII_ZOrWWE6euQoAlbTMMTW6Vc5fnQ%3A1731218967862&ei=F04wZ_muNNHH1e8Pxuav6Ac&oq=Chip+Wars&gs_lp=Egxnd3Mtd2l6LXNlcnAiCUNoaXAgV2FycyoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdImAtQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGBJIHATGgBwA&sclient=gws-wiz-serp
+
+Caturra000 (Caturra)
+https://github.com/caturra000
+
+Pop!_OS by System76
+https://pop.system76.com/
+
+cosmic
+https://system76.com/cosmic/
+
+Lil'Log
+https://lilianweng.github.io/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+pola-rs/polars: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+https://github.com/pola-rs/polars
+
+Espanso - A Privacy-first, Cross-platform Text Expander
+https://espanso.org/
+
+gruns/icecream: 🍦 Never use print() to debug again.
+https://github.com/gruns/icecream
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+Flutter is here to stay - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Flutter+is+here+to+stay
+
+ruidian music - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=ruidian+music
+
+Sparse strip path rendering · Issue #670 · linebender/vello
+https://github.com/linebender/vello/issues/670
+
+Efficient GPU Path Rendering Using Scanline Rasterization
+http://kunzhou.net/zjugaps/pathrendering/
+
+Efficient GPU Path Rendering Using Scanline Rasterization - GPUpathrendering.pdf
+http://kunzhou.net/zjugaps/pathrendering/GPUpathrendering.pdf
+
+Sparse strip path rendering - Google 文档
+https://docs.google.com/document/d/16dlcHvvLMumRa5MAyk2Du_MsjF32w0G-n7L9NOJUbRI/edit?tab=t.0
+
+CVG@ZJU
+http://www.zjucvg.net/
+
+Alexandru Orzan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Alexandru+Orzan
+
+Diffusion Curves: A Vector Representation for Smooth-Shaded Images - Archive ouverte HAL
+https://hal.science/inria-00274768/
+
+Alexandrina Orzan Home page
+https://maverick.inria.fr/~Alexandrina.Orzan/index.html
+
+https://maverick.inria.fr/~Joelle.Thollot/index.html#teaching
+https://maverick.inria.fr/~Joelle.Thollot/index.html#teaching
+
+Jean-Marc Hasenfratz
+https://maverick.inria.fr/~Jean-Marc.Hasenfratz/index.html
+
+Mark Kilgard - Wikipedia
+https://en.wikipedia.org/wiki/Mark_Kilgard
+
+alps_01 - 博客园
+https://www.cnblogs.com/alps
+
+wolfgangfengel (Wolfgang Engel)
+https://github.com/wolfgangfengel
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+The Cg Tutorial - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Cg+Tutorial
+
+Author: Jeff Bolz | NVIDIA Technical Blog
+https://developer.nvidia.com/blog/author/jbolz/
+
+NV Path Rendering Videos | NVIDIA Developer
+https://developer.nvidia.com/nv-path-rendering-videos
+
+http://pixeljetstream.blogspot.com/
+http://pixeljetstream.blogspot.com/
+
+knarkowicz (Krzysztof Narkowicz)
+https://github.com/knarkowicz
+
+关于 SLAM - SLAM 之旅
+https://lsxiang.github.io/Journey2SLAM/aboutSLAM/
+
+GitHub
+https://github.com/
+
+path rendering - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=vX9&sca_esv=714665b28972e132&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIJyvlUd-XMRY8ihEOJf33vCoR8NVA:1731312994895&q=path+rendering&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxtJYxcZepOH2vE0swxstF3DFSkuHWDHWpqCYazlPL_wBDS5tjvXu4iNeNLgz0QVHTBVm26uOkEp65OKRe6GKflGIc44CUkLST4hfVlG7tBKRzCY1v5orJOWwW2tPHmUxfCbEBneE5ZmJzXoXUljO7s3li_2HA&sa=X&ved=2ahUKEwjS5bjA69OJAxXjs1YBHQkjAlwQ0pQJegQIExAB
+
+Wolfram Language and Mathematica Free on Every Raspberry Pi | Hacker News
+https://news.ycombinator.com/item?id=34944058
+
+Page not found | Undergraduate Admissions
+https://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
+
+MathCad - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=xHU&sca_esv=714665b28972e132&channel=fs&sxsrf=ADLYWILlESF3LdksRRi3_XqJd4wE5a9ybQ:1731313282713&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L6fObm_C_A7P1HUXODGnoW6tgK2OBQgejB7sgCd9sat2jBHcI_Oa_SUG7IPNZ-C9xl3NQ3U0Pq_oinqDON8ety9HribS4CdfS-TbzYg_2zwUPYd0c2dHYQ_SKIVgYp9mL5noommrSY-ezCXNoKlIA1lugc4VV8OATcgxMHfkMoMlj2nFBcyn78nXOrbqoMMdyttRcP9R5Gr4mD_1FkVR8q0Xs0_8GRbnLYPsv-D4QDTfgd5IOpZmUIjztsWynjZwM_MpRxw%3D&q=MathCad&sa=X&ved=2ahUKEwjp4tfJ7NOJAxVSslYBHY82IfYQs9oBKAB6BAgwEAU&biw=1850&bih=968&dpr=1
+
+SVG with embedded SVG doesn't export correctly to PDF · Issue #5174 · typst/typst
+https://github.com/typst/typst/issues/5174
+
+Support embedded fonts via @font-face · Issue #541 · linebender/resvg
+https://github.com/linebender/resvg/issues/541
+
+sagemath/sage: Main repository of SageMath
+https://github.com/sagemath/sage?tab=readme-ov-file
+
+SageMath - Open-Source Mathematical Software System
+https://www.sagemath.org/
+
+GNU Octave
+https://github.com/gnu-octave
+
+SageMath – Open-Source Mathematical Software System | Hacker News
+https://news.ycombinator.com/item?id=17995031
+
+The origins of SageMath – creating a viable open source alternative to Magma, Maple, Mathematica, and Matlab - bp.pdf
+https://wstein.org/talks/2016-06-sage-bp/bp.pdf
+
+cran/magma: Matrix Algebra on GPU and Multicore Architectures
+https://github.com/cran/magma/tree/master
+
+Register Allocation - L12-Register-Allocation.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L12-Register-Allocation.pdf
+
+Vexu (Veikka Tuominen)
+https://github.com/Vexu
+
+Auckland Half Marathon 2024
+https://robert.ocallahan.org/2024/11/half-marathon.html
+
+vlt /vōlt/
+https://www.vlt.sh/
+
+JavaScript code coverage · V8
+https://v8.dev/blog/javascript-code-coverage
+
+jest/packages/jest-runtime/src/index.ts at 22029ba06b69716699254bb9397f2b3bc7b3cf3b · jestjs/jest
+https://github.com/jestjs/jest/blob/22029ba06b69716699254bb9397f2b3bc7b3cf3b/packages/jest-runtime/src/index.ts#L22
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+(51) Lex Fridman - YouTube
+https://www.youtube.com/@lexfridman/playlists
+
+AST explorer
+https://astexplorer.net/
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+(51) [Vietsub] You Belong With Me - Taylor Swift (live) - YouTube
+https://www.youtube.com/watch?v=q_v75PbkCBE
+
+Bowen Li's Website
+https://jaraxxus-me.github.io/
+
+PostgreSQL 的 BRIN (Block Range INdex) 索引 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=PostgreSQL+%E7%9A%84+BRIN+%28Block+Range+INdex%29+%E7%B4%A2%E5%BC%95
+
+issues with package.json exports resolution · Issue #15053 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15053
+
+WinterCG Common key proposal · Issue #5 · wintercg/runtime-keys
+https://github.com/wintercg/runtime-keys/issues/5
+
+c-ares/c-ares: A C library for asynchronous DNS requests
+https://github.com/c-ares/c-ares
+
+Could not read package.json file github - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Could+not+read+package.json+file+github
+
+Bun could not find a package.json file. · Issue #5483 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/5483
+
+vltpkg/vltpkg: the vlt monorepo
+https://github.com/vltpkg/vltpkg
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+NExT-GPT (NExT-GPT)
+https://github.com/NExT-GPT
+
+Spatial perception - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=L&sca_esv=2d8cb97d50a81fba&channel=fs&sxsrf=ADLYWIKT95uh6s8CPYbG1CjEaSIIeWlT0w:1731394810108&q=Spatial+perception&sa=X&ved=2ahUKEwjVkf2knNaJAxUbcPUHHdK9BPoQ1QJ6BAgvEAE&biw=1850&bih=968&dpr=1
+
+fibonacci - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=fibonacci
+
+EdgeHTML - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/EdgeHTML#cite_note-6
+
+MSEdge/README.md at 7d69268e85e198cee1c2b452d888ac5b9e5995ca · MicrosoftEdge/MSEdge
+https://github.com/MicrosoftEdge/MSEdge/blob/7d69268e85e198cee1c2b452d888ac5b9e5995ca/README.md
+
+Trident web engine - Google 搜索
+https://www.google.com/search?q=Trident+web+engine&client=ubuntu-sn&hs=K3U&sca_esv=2d8cb97d50a81fba&channel=fs&sxsrf=ADLYWIILyxGNXYgxoK8P1ikqv_gNi8ZhmA%3A1731395658323&ei=SgAzZ7u0E8SBvr0P0OnP4Ak&ved=0ahUKEwi7gbi5n9aJAxXEgK8BHdD0E5wQ4dUDCA8&uact=5&oq=Trident+web+engine&gs_lp=Egxnd3Mtd2l6LXNlcnAiElRyaWRlbnQgd2ViIGVuZ2luZTIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEimE1CLBFjQEnABeAGQAQCYAfkBoAGwD6oBAzItObgBA8gBAPgBAZgCCqAC1w_CAgoQABiwAxjWBBhHwgIIEAAYgAQYywHCAg4QLhiABBjHARjLARivAcICCBAuGIAEGMsBwgIFEAAYgATCAgYQABgKGB7CAgYQABgIGB6YAwCIBgGQBgqSBwUxLjAuOaAHkyU&sclient=gws-wiz-serp
+
+Microsoft Edge and open source collaboration | Hacker News
+https://news.ycombinator.com/item?id=18619774
+
+AR VR video? - Google 搜索
+https://www.google.com/search?q=AR+VR+video%3F&client=ubuntu-sn&hs=rBV&sca_esv=2d8cb97d50a81fba&channel=fs&sxsrf=ADLYWIIEK-JzQA4gphGh7JHIHfZDENPoxQ%3A1731396187609&ei=WwIzZ_CBIO-cvr0Pvd7uIA&ved=0ahUKEwiwm-S1odaJAxVvjq8BHT2vGwQQ4dUDCA8&uact=5&oq=AR+VR+video%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEFSIFZSIHZpZGVvPzIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYBxgIGB4yCBAAGAcYCBgeMggQABgHGAgYHjIIEAAYBxgIGB4yCBAAGAcYCBgeMgoQABgHGAgYChgeMggQABgHGAgYHkiLDFCaBFj_CnACeAGQAQCYAdABoAGhBqoBBTAuMi4yuAEDyAEA-AEBmAIDoALXAcICChAAGLADGNYEGEeYAwDiAwUSATEgQIgGAZAGB5IHBTIuMC4xoAeqEA&sclient=gws-wiz-serp
+
+why vr failed - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=why+vr+failed
+
+同时定位与地图构建 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%90%8C%E6%97%B6%E5%AE%9A%E4%BD%8D%E4%B8%8E%E5%9C%B0%E5%9B%BE%E6%9E%84%E5%BB%BA
+
+haptic gloves - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=haptic+gloves
+
+Alie Ward - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=Ic&sca_esv=2d8cb97d50a81fba&channel=fs&sxsrf=ADLYWII8n51YUIoO34Jig3bTNCj20_kgJQ:1731396543018&q=Alie+Ward&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxslkzvAJ1lYQsSoax1x00N7-UrigLCUeG_hujF_JCeo-QsbbRbLOWQG-MaMRBpSzrnzblkzGmvOqwJuJa7xhvV49XUsdyH7CWVZPKtbnNGwS2oL-Lc5LDvu12gKsl1r81AO-0ijK4ibEv4bYaH46YLEaRxa5A&sa=X&ved=2ahUKEwicvKXfotaJAxXjjq8BHaRTLPIQ0pQJegQIChAB&biw=1850&bih=968&dpr=1
+
+等离子体xianshi - Google 搜索
+https://www.google.com/search?q=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93xianshi&client=ubuntu-sn&hs=3MV&sca_esv=2d8cb97d50a81fba&channel=fs&sxsrf=ADLYWIJg_vIPy9tHbL8iv8QDbqf3a6ijkw%3A1731396881617&ei=EQUzZ42zJa_I1e8Ppbfc0Ao&ved=0ahUKEwjN_9-ApNaJAxUvZPUHHaUbF6oQ4dUDCA8&uact=5&oq=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93xianshi&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-etieemu-WtkOS9k3hpYW5zaGkyCBAAGIAEGKIESOsXUKkNWO4ScAF4AZABAJgB_gGgAeIKqgEFMC42LjG4AQPIAQD4AQGYAgigAoELwgIKEAAYsAMY1gQYR8ICCBAAGKIEGIkFwgIKEAAYBBgNGB4YD5gDAIgGAZAGCpIHBTEuNi4xoAfGCg&sclient=gws-wiz-serp
+
+Rust Graphics Mages
+https://github.com/gfx-rs
+
+
 # 2024-11-11
 
 192.168.43.246:3000/
