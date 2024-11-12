@@ -1,4 +1,13 @@
 
+Error
+InternalError
+AggregateError
+EvalError
+RangeError
+ReferenceError
+SyntaxError
+TypeError
+URIError
 
 Boris Zbarsky (@bz)
 Mozilla 的资深技术专家
