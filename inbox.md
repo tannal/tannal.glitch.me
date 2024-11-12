@@ -1,6 +1,25 @@
 
 # 2024-11-12
 
+// SpiderMonkey
+window.location = "domain-a.com"
+  => Compartment A
+     |-- Realm (main frame)
+     |-- Realm (iframe 1)
+     |-- Realm (iframe 2)
+
+// V8
+window.location = "domain-a.com"
+  => Isolate (renderer process)
+     |-- Context (main frame)
+     |-- Context (iframe 1)
+     |-- Context (iframe 2)
+
+LCOV
+Clang Coverage
+Istanbul(JavaScript)
+Coverage.py(Python)
+
 https://github.com/search?q=%22See+Knuth%22&type=code
 
 1. 最早期(1959-1960)：
