@@ -1,6 +1,109 @@
 
 # 2024-11-13
 
+```bash
+# 1. 查看当前 swap 情况
+sudo swapon --show
+free -h
+
+# 2. 关闭所有 swap
+sudo swapoff -a
+
+# 3. 删除或备份原有的 swap 文件
+# 如果是 swap 文件
+sudo rm /swapfile   # 或其他位置的 swap 文件
+
+# 如果是 swap 分区，需要从 /etc/fstab 中删除对应条目
+sudo nano /etc/fstab
+# 删除包含 swap 的行
+
+# 4. 创建新的 64G swap 文件
+sudo fallocate -l 64G /swapfile
+# 或者使用 dd
+# sudo dd if=/dev/zero of=/swapfile bs=1G count=64
+
+# 5. 设置权限
+sudo chmod 600 /swapfile
+
+# 6. 格式化为 swap
+sudo mkswap /swapfile
+
+# 7. 启用新的 swap
+sudo swapon /swapfile
+
+# 8. 验证
+sudo swapon --show
+free -h
+
+# 9. 设置开机自动挂载（如果需要）
+# 先备份 fstab
+sudo cp /etc/fstab /etc/fstab.bak
+
+# 添加到 fstab（如果还没有 swap 条目）
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+```
+
+让我来梳理一下2D图形API的历史发展脉络：
+Xerox PARC 时期 (1970s)
+在Xerox PARC，Alan Kay领导的团队开发了第一个图形用户界面系统
+Butler Lampson和Charles Simonyi开发了Bravo，这是第一个所见即所得的文字处理器
+John Warnock在PARC工作时开发了InterPress打印协议
+Bob Sproull和William Newman写了《Principles of Interactive Computer Graphics》，奠定了计算机图形学基础
+Adobe的诞生 (1982)
+John Warnock和Charles Geschke离开PARC创建Adobe
+开发了PostScript语言，这是现代2D图形系统的基础
+PostScript是一种堆栈式编程语言，受Forth语言影响
+引入了贝塞尔曲线、字体轮廓等关键概念
+Apple的贡献
+1984年的Macintosh是首个大规模采用图形界面的个人电脑
+QuickDraw由Bill Atkinson开发，是早期Mac的核心图形系统
+后来发展出Core Graphics (Quartz)
+Display PostScript合作项目(与Adobe)
+现代发展
+PDF格式(1993)：由Adobe开发，基于PostScript但更简化
+SVG(2001)：W3C标准，XML描述的矢量图形
+Canvas：HTML5引入，提供即时模式绘图API
+Skia：Google开发，用于Chrome和Android
+Direct2D：微软的现代2D图形API
+关键概念的演变：
+图形原语
+路径(Path)
+填充(Fill)
+描边(Stroke)
+变换(Transform)
+剪切(Clip)
+渲染模型
+从打印机的页面描述语言
+到屏幕显示的光栅化
+再到GPU加速渲染
+API设计范式
+PostScript的堆栈模型
+即时模式 vs 保留模式
+声明式 vs 命令式
+状态机模型
+这些历史遗产在现代API中仍然可见：
+Canvas API与PostScript很相似
+SVG保留了许多PostScript概念
+现代框架如Skia虽然使用新技术，但基本概念变化不大
+影响：
+标准化
+图形原语的标准化
+文件格式的标准化(PDF, SVG)
+API设计模式的标准化
+性能优化
+从CPU到GPU
+矢量到光栅的优化
+缓存策略
+跨平台
+Web标准的统一
+移动平台的兴起
+新显示技术(高DPI等)
+这个历史告诉我们：
+好的设计经得起时间考验
+标准化对生态系统很重要
+性能和易用性需要平衡
+跨平台是持续的挑战
+
 这是一个关于UI工具包开发社区的哲学讨论。我来总结几个主要观点：
 
 现代设计流程:

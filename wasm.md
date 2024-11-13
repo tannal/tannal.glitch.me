@@ -7,11 +7,13 @@ gh repo set-default tannal/wasm-micro-runtime
 
 gh workflow run "build wamrc" --ref ci
 
-
++---------------+----------------+------------------+
+| Section ID(1) | Size(VarUint) |  Payload(Size)  |
++---------------+----------------+------------------+
 
 # people
 
-A CMU reasearch group founded by a former v8 engineer. 
+A CMU reasearch group founded by a former v8 engineer.
 Ben L. Titzer
 https://www.cs.cmu.edu/wrc/
 
@@ -157,7 +159,7 @@ no global absolute path
 
 # platforms
 
-Linux 
+Linux
 
 Freebsd
 
@@ -168,4 +170,3 @@ Freebsd
 # promising ideas
 
 ## The Webassembly Component Model
-

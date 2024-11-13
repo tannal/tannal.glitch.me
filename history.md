@@ -7,6 +7,177 @@ http://192.168.43.246:3000/monaco/monaco.html
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+zyantific/zydis: Fast and lightweight x86/x86-64 disassembler and code generation library
+https://github.com/zyantific/zydis
+
+KhafraDev (Khafra)
+https://github.com/KhafraDev
+
+[FEATURE] Add wit defines for host funcs · Issue #7 · eunomia-bpf/wasm-bpf
+https://github.com/eunomia-bpf/wasm-bpf/issues/7
+
+bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly
+https://github.com/bytecodealliance/wasmtime
+
+wasm registry - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=wasm+registry
+
+(32 封私信) 云微 - 知乎
+https://www.zhihu.com/people/yun-wei-64-11/posts?page=5
+
+qq906907952 (Dexian YI)
+https://github.com/qq906907952
+
+Manjusaka | Manjusaka
+https://www.manjusaka.blog/leetcode/
+
+关于 CPU Burst 在 K8s 中的一些设计想法 | Manjusaka
+https://www.manjusaka.blog/posts/2023/08/26/a-little-bit-design-about-cpu-burst-in-k8s/#koordinator-%E4%B8%AD-CPU-Burst-%E7%9A%84%E5%AE%9E%E7%8E%B0
+
+Open Container Initiative
+https://github.com/opencontainers
+
+https://compilers.iecc.com/crenshaw/tutor3.txt
+https://compilers.iecc.com/crenshaw/tutor3.txt
+
+yunwei37/tryC: Write a tiny interpreter by C language in 500+ lines
+https://github.com/yunwei37/tryC?tab=readme-ov-file
+
+yunshan network - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=yunshan+network
+
+Support eBPF as target arch · Issue #1129 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/1129
+
+dokku/dokku: A docker-powered PaaS that helps you build and manage the lifecycle of applications
+https://github.com/dokku/dokku
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/#51-gui%E5%B7%A5%E5%85%B7%E5%8C%85%E7%9A%84%E5%AE%9A%E4%B9%89%E5%92%8C%E4%BD%9C%E7%94%A8
+
+Implement `DataTransfer` and related interfaces by Gae24 · Pull Request #34205 · servo/servo
+https://github.com/servo/servo/pull/34205/files#diff-f704b319b019c96a2e98db7ca5b434ceefcbc73999396a3b75b42d868439977c
+
+YosysHQ/yosys: Yosys Open SYnthesis Suite
+https://github.com/YosysHQ/yosys
+
+daipom (Daijiro Fukuda)
+https://github.com/daipom
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Re: [denoland/deno] Does Deno consider replacing `SWC` with `OXC` (Discussion #22252) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJZxzLFZkJNwmngjQzMPtbBCM
+
+JeremyLikness (Jeremy Likness)
+https://github.com/JeremyLikness
+
+Deep sky astrophotography | Deep Sky Workflows by Jeremy Likness
+https://deepskyworkflows.com/#AllStories
+
+Uno Platform
+https://github.com/unoplatform
+
+Uno Playground
+https://playground.platform.uno/#wasm-start
+
+Uno Gallery
+https://gallery.platform.uno/
+
+Uno platform: Build single-codebase applications across all platforms | Hacker News
+https://news.ycombinator.com/item?id=32492977
+
+Tauri 2.0 Release Candidate | Hacker News
+https://news.ycombinator.com/item?id=41141962
+
+wailsapp/wails: Create beautiful applications using Go
+https://github.com/wailsapp/wails
+
+Terra Informatica Software – UI and frontend software design and consulting since 1991
+https://terrainformatica.com/
+
+neutralinojs/neutralinojs: Portable and lightweight cross-platform desktop application development framework
+https://github.com/neutralinojs/neutralinojs
+
+Project status · Issue #1604 · Linen-dev/linen.dev
+https://github.com/Linen-dev/linen.dev/issues/1604
+
+Show HN: Linen – Open-source Slack for communities | Hacker News
+https://news.ycombinator.com/item?id=33248488
+
+linen.dev/docs/getting-started.md at main · Linen-dev/linen.dev
+https://github.com/Linen-dev/linen.dev/blob/main/docs/getting-started.md
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Does Deno consider replacing `SWC` with `OXC` · denoland/deno · Discussion #22252
+https://github.com/denoland/deno/discussions/22252#discussioncomment-11238483
+
+(52) Creator of Node talks Deno 2.0 and the Future of JS - YouTube
+https://www.youtube.com/watch?v=2x2eIhn2BJM&t=4724s
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Supermaven: Free AI Code Completion
+https://supermaven.com/
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20internal%2Fmodules%2Ftypescript&type=code
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+WebAssembly Threads and Atomics | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/wasm-threads
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Problem loading page
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Input Method Editor API | Can I use... Support tables for HTML5, CSS3, etc
 https://caniuse.com/ime
 

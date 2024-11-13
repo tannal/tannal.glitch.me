@@ -1,3 +1,71 @@
+
+# issues
+
+buffer - 缓冲区相关
+crypto - 加密模块
+fs - 文件系统
+http/https - HTTP/HTTPS 模块
+net - 网络模块
+stream - 流处理
+vm - 虚拟机
+worker - 工作线程
+
+async_hooks - 异步钩子
+esm - ES 模块系统
+wasm - WebAssembly 支持
+wasi - WebAssembly 系统接口
+snapshot - 启动快照
+realm - 领域/沙箱
+
+windows - Windows 平台
+linux - Linux 平台
+macos - macOS 平台
+android - Android 平台
+wsl - Windows 子系统
+freebsd - FreeBSD 平台
+
+arm - ARM 架构
+mips - MIPS 架构
+ppc - Power 架构
+riscv64 - RISC-V 64位
+s390 - S390 架构
+
+v8 engine - V8 引擎
+libuv - libuv 库
+openssl - OpenSSL 库
+npm - NPM 包管理器
+icu - 国际化支持库
+
+good first issue - 适合新手的问题
+help wanted - 需要帮助
+wip - 进行中的工作
+review wanted - 需要代码审查
+needs-ci - 需要CI测试
+
+semver-major - 主版本变更
+semver-minor - 次版本变更
+v18.x - 18.x版本相关
+v20.x - 20.x版本相关
+lts - 长期支持版本
+
+bug - 程序错误
+feature request - 功能请求
+security - 安全问题
+performance - 性能问题
+regression - 回归问题
+
+doc - 文档
+typings - 类型定义
+deprecations - 废弃特性
+
+doc - 文档
+typings - 类型定义
+deprecations - 废弃特性
+
+tsc-agenda - 技术指导委员会议程
+modules-agenda - 模块工作组议程
+next-10-agenda - 未来10年规划议程
+
 # todo
 
 这是 Node.js 的 GitHub Issues 列表，主要包含以下几类问题：

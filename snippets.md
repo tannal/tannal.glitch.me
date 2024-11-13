@@ -52,7 +52,7 @@ user
 
 # swap file
 
-sudo fallocate -l 4G /swapfile
+sudo fallocate -l 64G /swapfile
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 sudo swapon /swapfile
@@ -556,17 +556,17 @@ CPU:                     24
                          adow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdt_a rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves s
                          plit_lock_detect avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi umip pku ospke waitpkg gfni vaes vpclmulqdq tme rdpid movdiri movdir64b fs
                          rm md_clear serialize pconfig arch_lbr ibt flush_l1d arch_capabilities
-Virtualization features: 
+Virtualization features:
   虚拟化：               VT-x
-Caches (sum of all):     
+Caches (sum of all):
   L1d:                   640 KiB (16 instances)
   L1i:                   768 KiB (16 instances)
   L2:                    14 MiB (10 instances)
   L3:                    30 MiB (1 instance)
-NUMA:                    
+NUMA:
   NUMA 节点：            1
   NUMA 节点0 CPU：       0-23
-Vulnerabilities:         
+Vulnerabilities:
   Itlb multihit:         Not affected
   L1tf:                  Not affected
   Mds:                   Not affected
@@ -1094,7 +1094,7 @@ vim ~/.config/verdaccio/config.yaml
 
 
 uplinks:
-  npmjs:       
+  npmjs:
     #url: https://registry.npmjs.org/
     #url: https://repo.huaweicloud.com/repository/npm/
     url: https://registry.npm.taobao.org/
@@ -1102,7 +1102,7 @@ uplinks:
       keepAlive: true
       maxSockets: 40
       maxFreeSockets: 10
-  npmjs2:  
+  npmjs2:
     url: https://registry.npmjs.org/
     agent_options:
       keepAlive: true
@@ -1242,7 +1242,7 @@ git config --global alias.bb !better-branch.sh
 git rm -r --cached examples/*.swap
 git update-index --assume-unchanged examples/*.swap
 
-git rm -r --cached 
+git rm -r --cached
 
 git pull --ff-only
 git pull --rebase
@@ -1565,13 +1565,13 @@ function playVideoAtRandomTime() {
       if (video.readyState >= 2) {
         // Get the duration of the video
         const duration = video.duration;
-        
+
         // Generate a random time within the duration
         const randomTime = getRandomTime(duration);
-        
+
         // Set the current time of the video to the random time
         video.currentTime = randomTime;
-        
+
         // Play the video
         video.play();
       }
@@ -1599,8 +1599,8 @@ DB_TYPE = sqlite3
 HOST = 127.0.0.1:3306
 NAME = gitea
 USER = gitea
-PASSWD = 
-SCHEMA = 
+PASSWD =
+SCHEMA =
 SSL_MODE = disable
 PATH = /home/ubuntu/tannalwork/projects/gitea/data/gitea.db
 LOG_SQL = false
@@ -1700,8 +1700,8 @@ DB_TYPE = sqlite3
 HOST = 127.0.0.1:3306
 NAME = gitea
 USER = gitea
-PASSWD = 
-SCHEMA = 
+PASSWD =
+SCHEMA =
 SSL_MODE = disable
 PATH = C:\Users\tanna\tannalwork\projects\gitea\data\gitea.db
 LOG_SQL = false
@@ -1799,8 +1799,8 @@ DB_TYPE = sqlite3
 HOST = 127.0.0.1:3306
 NAME = gitea
 USER = gitea
-PASSWD = 
-SCHEMA = 
+PASSWD =
+SCHEMA =
 SSL_MODE = disable
 PATH = /home/tannal/tannalwork/projects/gitea/data/gitea.db
 LOG_SQL = false
@@ -1960,7 +1960,7 @@ http {
     }
 
     upstream home {
-        server 
+        server
     }
 
     server {
@@ -2113,13 +2113,13 @@ function playVideoAtRandomTime() {
       if (video.readyState >= 2) {
         // Get the duration of the video
         const duration = video.duration;
-        
+
         // Generate a random time within the duration
         const randomTime = getRandomTime(duration);
-        
+
         // Set the current time of the video to the random time
         video.currentTime = randomTime;
-        
+
         // Play the video
         video.play();
       }
@@ -3023,7 +3023,7 @@ func main() {
 
 const bubbleSort = (array) => {
     let n = array.length;
-    
+
     let swapped = false;
 
     do{
@@ -3802,7 +3802,7 @@ fn main() -> @location(0) vec4f {
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
- 
+
 typedef struct WaveHeader{
     int riff_id;
     int riff_sz;
@@ -3812,35 +3812,35 @@ typedef struct WaveHeader{
     short audio_fmt;
     short num_chn;
     int sample_rate;
-    int byte_rate;                                                                                                                                                                                          
+    int byte_rate;
     short block_align;
     short bits_per_sample;
     int data_id;
     int data_sz;
 } WaveHeader;
- 
+
 int main(void)
 {
 	FILE *stream;
 	WaveHeader wh;
- 
+
 	memset(&wh, 0x00, sizeof(wh));
- 
+
 	printf("sizeof(WaveHeader) = %ld.\n", sizeof(WaveHeader));
- 
+
 	if((stream=fopen("startup.wav","ro"))==NULL)
 	{
 		fprintf(stderr,"Can not open file.\n");
 		return 0;
 	}
 	printf("open success.\n");
- 
+
 	fseek(stream, 0, SEEK_SET);
- 
+
 	fread(&wh,1,sizeof(wh),stream);
- 
+
 	fclose(stream);
-	
+
 	printf("riff_id %d,\n" \
 			"riff_size %d\n" \
 			"num_chn %d.\n" \
@@ -3848,7 +3848,7 @@ int main(void)
 			"byte_rate %d.\n" \
 			"block_align %d.\n" \
 			, wh.riff_id, wh.riff_sz, wh.num_chn, wh.sample_rate, wh.byte_rate, wh.block_align);
- 
+
 	return 0;
 }
 
@@ -4474,10 +4474,10 @@ function solve(/** @type {number[]} */ balloons) {
   let current = []
 
   for(let i = 0; i < balloons.length; i++) {
-    if(current.some(v => v === balloons[i])) {  
+    if(current.some(v => v === balloons[i])) {
       let idx = current.findIndex(v => v === balloons[i])
       current[idx]--
-    }else {   
+    }else {
       count++
       current.push(balloons[i] - 1)
     }
@@ -4506,7 +4506,7 @@ readInputLines().then(lines => {
 ```
 
 
-# python plt 
+# python plt
 
 ```py
 
@@ -4793,12 +4793,12 @@ message("LIBRARIES = ${LIBRARIES}")
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(myproject ${SOURCES})
-target_link_libraries(myproject ${LIBRARIES})  
+target_link_libraries(myproject ${LIBRARIES})
 
 cmake -S . -B build
 cmake --build build
 
-ln -s build/compile_commands.json compile_commands.json 
+ln -s build/compile_commands.json compile_commands.json
 
 ```
 

@@ -1,5 +1,65 @@
 
+# issues
 
+cli - CLI相关功能
+runtime - 运行时相关
+lsp - 语言服务器协议
+debugger - 调试器功能
+crypto - 加密相关
+wasm - WebAssembly支持
+webgpu - WebGPU API支持
+
+windows - Windows平台问题
+linux - Linux平台问题
+macos - macOS平台问题
+web - Web API相关
+
+bug - 程序错误
+perf - 性能问题
+security - 安全问题
+docs - 文档相关
+test - 测试相关
+panic - 崩溃问题
+
+high priority - 高优先级
+needs triage - 需要分类
+needs investigation - 需要调查
+stale - 过期的问题
+duplicate - 重复问题
+
+breaking change - 破坏性变更
+good first issue - 适合新手的问题
+help wanted - 需要社区帮助
+needs discussion - 需要讨论
+
+permissions - 权限系统
+node compat - Node.js 兼容性
+FFI - 外部函数接口
+task runner - 任务运行器
+bundler - 打包工具
+
+
+ext/console - 控制台扩展
+ext/crypto - 加密扩展
+ext/fetch - 网络请求扩展
+ext/fs - 文件系统扩展
+ext/http - HTTP扩展
+ext/websocket - WebSocket扩展
+
+deno fmt - 代码格式化
+deno lint - 代码检查
+compile - 编译相关
+vendor - 依赖管理
+
+suggestion - 新功能建议
+feat - 已接受的新功能
+chore - 日常维护任务
+refactor - 代码重构
+
+ci-full - 运行完整CI
+ci-draft - 在草稿PR上运行CI
+backport - 需要向后移植
+flaky - 不稳定的测试
 
 # dev
 
@@ -123,7 +183,7 @@ lsp::diagnostic
     options=..., will_snapshot=false) at runtime/jsruntime.rs:769
 #8  0x0000555560cc74a1 in deno_core::runtime::jsruntime::JsRuntime::new (options=...)
     at runtime/jsruntime.rs:595
-#9  0x000055555a4d0dcb in deno::lsp::tsc::run_tsc_thread (request_rx=..., performance=..., 
+#9  0x000055555a4d0dcb in deno::lsp::tsc::run_tsc_thread (request_rx=..., performance=...,
     cache=..., specifier_map=..., maybe_inspector_server=...) at cli/lsp/tsc.rs:4082
 #10 0x000055555ac643ab in deno::lsp::tsc::{impl#2}::start::{closure#1} ()
     at cli/lsp/tsc.rs:271
@@ -243,19 +303,19 @@ The + 'static lifetime ensures that the future can live for the duration of the 
 {
     // Launch configuration for debugging Rust code inside VS Code with LLDB
     // This configuration is used by the extension 'LLDB Debugger'
-    // 
+    //
     // The necessary extension may be downloaded at: https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
     // Alternatively, the repository for it may be found at: https://github.com/vadimcn/vscode-lldb.git
-    
+
     "version": "0.1.0",
     "configurations": [
         {
             "name": "Debug with LLDB",
             "type": "lldb",
             "request": "launch",
-            // The following configuration option, 'program', may in some cases need to be modified. 
+            // The following configuration option, 'program', may in some cases need to be modified.
             // This is so that the correct executable is targeted.
-            // For example, on non-Windows systems, the ".exe" suffix must be removed. 
+            // For example, on non-Windows systems, the ".exe" suffix must be removed.
             // Alternatively, the directory that rustc/cargo outputs debug builds may change in future
             // As such, this path would have to change accordingly.
             "program": "${workspaceFolder}/target/debug/${workspaceFolderBasename}.exe",
@@ -294,4 +354,3 @@ author:jsejcksn
 author:panva
 author:piscisaureus
 author:kitsonk
-

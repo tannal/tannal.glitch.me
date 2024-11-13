@@ -1,4 +1,10 @@
 
+# Xilem
+
+architecture - 架构设计相关
+masonry - Masonry 部件层相关
+web - Web 相关功能
+
 # Parley
 
 #[derive(Default)]
@@ -19,7 +25,7 @@ peniko
 winit
 parley
 
-Vello is a 2d graphics rendering engine written in Rust, using wgpu. 
+Vello is a 2d graphics rendering engine written in Rust, using wgpu.
 
 It efficiently draws large 2d scenes with interactive or near-interactive performance.
 
@@ -40,8 +46,8 @@ PlainEditor
 - druid (被 xilem 替代?)
   - 老的 UI 框架
   - xilem 是新的实验性 UI 框架
-  
-- druid-widget-nursery 
+
+- druid-widget-nursery
   - druid 的组件库
   - 随着 druid 可能被替代而停滞
 
@@ -72,10 +78,10 @@ resvg rerun graphie.rs typst egui
 kurbo peniko winit vello
 
 Aaron Muir Hamilton parley text input IME Android
- 
+
 GPU infrastructure and performance wgpu
 
-Matt Campbell accessibility 
+Matt Campbell accessibility
 
 Olivier Faure widget tree developer experience
 
@@ -138,11 +144,11 @@ Best regards,
 [Your Name]
 
 Vello
-skia 
+skia
 2d rendering on gpu based on wgpu
 wgpu
 
-cargo run -p with_winit -- --test-scenes 
+cargo run -p with_winit -- --test-scenes
 
 cargo fmt --all --check
 

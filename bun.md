@@ -1,4 +1,67 @@
+# issues tag
 
+bun.js - Bun 特定 API
+runtime - 运行时相关
+bundler - 打包器相关
+transpiler - 转译器相关
+minifier - 代码压缩
+sourcemaps - 源码映射
+
+bun install - 包管理器
+bunx - bunx 命令
+cli - 命令行接口
+bun --hot - 热重载
+bun --watch - 文件监视
+bun patch - 补丁功能
+
+bun:crypto - 加密模块
+bun:dns - DNS 解析
+bun:ffi - 外部函数接口
+bun:fs - 文件系统
+bun:http - HTTP 服务
+bun:sqlite - SQLite 支持
+bun:tcp - TCP 网络
+bun:test - 测试运行器
+
+node.js - Node.js API 兼容
+node:fs - 文件系统兼容
+node:http - HTTP 兼容
+node:crypto - 加密兼容
+node:stream - 流兼容
+napi - 原生模块兼容
+
+linux - Linux 平台
+macOS - macOS 平台
+windows - Windows 平台
+docker - Docker 环境
+lambda - AWS Lambda
+
+bug - 程序错误
+crash - 崩溃问题
+enhancement - 功能增强
+regression - 回归问题
+performance - 性能问题
+memory leak - 内存泄漏
+
+good first issue - 适合新手
+needs investigate - 需要调查
+needs repro - 需要复现步骤
+needs triage - 需要分类
+stale - 过期问题
+
+docs - 文档改进
+types - TypeScript 类型
+typescript - TypeScript 相关
+
+debugger - 调试器
+repl - 交互式环境
+shell - Shell 功能
+single-file-executable - 单文件可执行
+
+ecosystem - 包/框架兼容性
+tracking-pkg - 库支持追踪
+HTMLRewriter - Cloudflare Workers API
+Worker - Web/Node Worker API
 
 # inbox
 
