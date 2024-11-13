@@ -1,6 +1,12 @@
 
 # 2024-11-13
 
+
+文本编辑器(Xi Editor)
+模板引擎(TruffleRuby)
+数据库(MongoDB)
+日志系统
+
 Lisp 语言(1958)就有不可变字符串的概念
 Smalltalk(1972)也采用了不可变字符串
 

@@ -1,4 +1,360 @@
 
+# 2024-11-13
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Input Method Editor API | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/ime
+
+Add android ime support by lucasmerlin · Pull Request #2993 · rust-windowing/winit
+https://github.com/rust-windowing/winit/pull/2993/files
+
+tc39/proposal-explicit-resource-management: ECMAScript Explicit Resource Management
+https://github.com/tc39/proposal-explicit-resource-management
+
+ECMAScript Language Specification Comparator
+https://arai-a.github.io/ecma262-compare/?pr=3000
+
+IP Address Lookup for 104.16.132.229 in San Francisco, United States
+https://whatismyipaddress.com/ip/104.16.132.229
+
+bake production build tracking issue · Issue #14763 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/14763
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(73) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+sched_ext: scheduler architecture and interfaces (Part 2)
+https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/
+
+Neural Architecture Search | Lil'Log
+https://lilianweng.github.io/posts/2020-08-06-nas/
+
+Caturra000 (Caturra)
+https://github.com/caturra000
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Add Pandas `.compare()` Functionality · Issue #14373 · pola-rs/polars
+https://github.com/pola-rs/polars/issues/14373
+
+espanso/espanso: Cross-platform Text Expander written in Rust
+https://github.com/espanso/espanso
+
+Sparse strip path rendering · Issue #670 · linebender/vello
+https://github.com/linebender/vello/issues/670
+
+Efficient GPU Path Rendering Using Scanline Rasterization - GPUpathrendering.pdf
+http://kunzhou.net/zjugaps/pathrendering/GPUpathrendering.pdf
+
+Sparse strip path rendering - Google 文档
+https://docs.google.com/document/d/16dlcHvvLMumRa5MAyk2Du_MsjF32w0G-n7L9NOJUbRI/edit?tab=t.0#heading=h.9lokdzrz8r5x
+
+wolfgangfengel (Wolfgang Engel)
+https://github.com/wolfgangfengel
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+The Cg Tutorial - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Cg+Tutorial
+
+Author: Jeff Bolz | NVIDIA Technical Blog
+https://developer.nvidia.com/blog/author/jbolz/
+
+NV Path Rendering Videos | NVIDIA Developer
+https://developer.nvidia.com/nv-path-rendering-videos
+
+http://pixeljetstream.blogspot.com/
+http://pixeljetstream.blogspot.com/
+
+knarkowicz (Krzysztof Narkowicz)
+https://github.com/knarkowicz
+
+关于 SLAM - SLAM 之旅
+https://lsxiang.github.io/Journey2SLAM/aboutSLAM/
+
+GitHub
+https://github.com/
+
+path rendering - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=vX9&sca_esv=714665b28972e132&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIJyvlUd-XMRY8ihEOJf33vCoR8NVA:1731312994895&q=path+rendering&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWvns3PnbKLxkXEhI71m1WxtJYxcZepOH2vE0swxstF3DFSkuHWDHWpqCYazlPL_wBDS5tjvXu4iNeNLgz0QVHTBVm26uOkEp65OKRe6GKflGIc44CUkLST4hfVlG7tBKRzCY1v5orJOWwW2tPHmUxfCbEBneE5ZmJzXoXUljO7s3li_2HA&sa=X&ved=2ahUKEwjS5bjA69OJAxXjs1YBHQkjAlwQ0pQJegQIExAB
+
+Wolfram Language and Mathematica Free on Every Raspberry Pi | Hacker News
+https://news.ycombinator.com/item?id=34944058
+
+Page not found | Undergraduate Admissions
+https://www.maths.cam.ac.uk/undergrad/admissions/readinglist.pdf
+
+SVG with embedded SVG doesn't export correctly to PDF · Issue #5174 · typst/typst
+https://github.com/typst/typst/issues/5174
+
+Support embedded fonts via @font-face · Issue #541 · linebender/resvg
+https://github.com/linebender/resvg/issues/541
+
+Register Allocation - L12-Register-Allocation.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/L12-Register-Allocation.pdf
+
+Vexu (Veikka Tuominen)
+https://github.com/Vexu
+
+JavaScript code coverage · V8
+https://v8.dev/blog/javascript-code-coverage
+
+jest/packages/jest-runtime/src/index.ts at 22029ba06b69716699254bb9397f2b3bc7b3cf3b · jestjs/jest
+https://github.com/jestjs/jest/blob/22029ba06b69716699254bb9397f2b3bc7b3cf3b/packages/jest-runtime/src/index.ts#L22
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+(51) Lex Fridman - YouTube
+https://www.youtube.com/@lexfridman/playlists
+
+AST explorer
+https://astexplorer.net/
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Bowen Li's Website
+https://jaraxxus-me.github.io/
+
+PostgreSQL 的 BRIN (Block Range INdex) 索引 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=PostgreSQL+%E7%9A%84+BRIN+%28Block+Range+INdex%29+%E7%B4%A2%E5%BC%95
+
+issues with package.json exports resolution · Issue #15053 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15053
+
+WinterCG Common key proposal · Issue #5 · wintercg/runtime-keys
+https://github.com/wintercg/runtime-keys/issues/5
+
+c-ares/c-ares: A C library for asynchronous DNS requests
+https://github.com/c-ares/c-ares
+
+Bun could not find a package.json file. · Issue #5483 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/5483
+
+vltpkg/vltpkg: the vlt monorepo
+https://github.com/vltpkg/vltpkg
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Index of /afs/cs/academic/class/15745-s19/www/lectures
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/lectures/
+
+[naga]Naga does not generate `for` loops · Issue #6521 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/6521
+
+View Transitions (Meeting Notes) - Google 文档
+https://docs.google.com/document/d/1w5ss3hSdh5x4imgvh4q9eZk6o0zz7B--e_rsamjKozw/edit?tab=t.0#heading=h.7r32xxnsxqll
+
+Iterator.prototype.take() - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Iterator/take
+
+Question: What specification of PDF format is implemented? · Issue #8 · typst/pdf-writer
+https://github.com/typst/pdf-writer/issues/8
+
+PDF32000.book - PDF32000_2008.pdf
+https://opensource.adobe.com/dc-acrobat-sdk-docs/standards/pdfstandards/pdf/PDF32000_2008.pdf
+
+tc39/proposal-iterator-helpers: Methods for working with iterators in ECMAScript
+https://github.com/tc39/proposal-iterator-helpers?tab=readme-ov-file
+
+Normative: add Iterator Helpers by michaelficarra · Pull Request #3395 · tc39/ecma262
+https://github.com/tc39/ecma262/pull/3395
+
+Type Declarations for `Iterator.from` · Issue #26783 · denoland/deno
+https://github.com/denoland/deno/issues/26783
+
+michaelficarra (Michael Ficarra)
+https://github.com/michaelficarra
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1911623 - Remove JS_SetParallelParsingEnabled and JSRuntime::parallelParsingEnabled_
+https://bugzilla.mozilla.org/show_bug.cgi?id=1911623
+
+Code search results
+https://github.com/search?q=%22See+Knuth%22&type=code
+
+tc39/proposal-decimal: Built-in exact decimal numbers for JavaScript
+https://github.com/tc39/proposal-decimal
+
+jessealama (jessealama) / Repositories
+https://github.com/jessealama?tab=repositories
+
+(51) Adele - Someone Like You (Official Music Video) - YouTube
+https://www.youtube.com/watch?v=hLQl3WQQoQ0
+
+project-robius/robrix: A multi-platform Matrix chat client written in pure Rust using the Makepad UI toolkit and the Robius app dev framework
+https://github.com/project-robius/robrix
+
+Let Go (Avril Lavigne album) - Wikipedia
+https://en.wikipedia.org/wiki/Let_Go_(Avril_Lavigne_album)
+
+GNOME / gjs · GitLab
+https://gitlab.gnome.org/GNOME/gjs
+
+doc/Internship-Getting-Started.md · HEAD · GNOME / gjs · GitLab
+https://gitlab.gnome.org/GNOME/gjs/blob/HEAD/doc/Internship-Getting-Started.md
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues
+
+GNOME - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/GNOME
+
+tc39 repositories
+https://github.com/orgs/tc39/repositories?q=proposal-
+
+Incorrect cursor_range Calculation in Ime::Preedit · Issue #3967 · rust-windowing/winit
+https://github.com/rust-windowing/winit/issues/3967
+
+Implement IME primitives for PlainEditor. by xorgy · Pull Request #136 · linebender/parley
+https://github.com/linebender/parley/pull/136/files
+
+fix(ext/node): New async setInterval function to improve the nodejs compatibility by cu8code · Pull Request #26703 · denoland/deno
+https://github.com/denoland/deno/pull/26703
+
+b0nes164 (Thomas Smith)
+https://github.com/b0nes164
+
+lm-human-preferences/lm_human_preferences/train_policy.py at cbfd210bb8b08f6bc5c26878c10984b90f516c66 · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/cbfd210bb8b08f6bc5c26878c10984b90f516c66/lm_human_preferences/train_policy.py#L47
+
+rune-rs/rune: An embeddable dynamic programming language for Rust.
+https://github.com/rune-rs/rune/tree/main
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+khtml kjs - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=khtml+kjs
+
+chakra-core
+https://github.com/chakra-core
+
+chakra-core
+https://github.com/chakra-core
+
+- DocumentDB (Azure) - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=-+DocumentDB+%28Azure%29+
+
+Minecraft Bedrock Edition - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Minecraft+Bedrock+Edition
+
+Issues · mindspore-ai/mindspore
+https://github.com/mindspore-ai/mindspore/issues
+
+MicrosoftEdge repositories
+https://github.com/orgs/MicrosoftEdge/repositories?page=2
+
+MicrosoftEdge/JSBrowser: :evergreen_tree: A web browser built with JavaScript as a Windows app
+https://github.com/MicrosoftEdge/JSBrowser
+
+tc39/proposal-record-tuple: ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
+https://github.com/tc39/proposal-record-tuple?tab=readme-ov-file
+
+record-tuple-polyfill/packages/record-tuple-playground/src/babel.js at 5f9cae34f0d331c4836efbc9cd618836c03e75f5 · bloomberg/record-tuple-polyfill
+https://github.com/bloomberg/record-tuple-polyfill/blob/5f9cae34f0d331c4836efbc9cd618836c03e75f5/packages/record-tuple-playground/src/babel.js#L4
+
+oxc github - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=oxc+github
+
+Issue search results
+https://github.com/search?q=repo%3Aswc-project%2Fswc+oxc&type=issues
+
+swc-project/swc · Discussions · GitHub
+https://github.com/swc-project/swc/discussions
+
+Commits · oxc-project/oxc
+https://github.com/oxc-project/oxc/commits/main/
+
+The JavaScript Oxidation Compiler
+https://oxc.rs/
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+Samsung/yarr: Regular expression engine that compiles and interpretes any regular expression.
+https://github.com/Samsung/yarr
+
+Masayuki Nakano javascriptcore - Google 搜索
+https://www.google.com/search?q=Masayuki+Nakano+javascriptcore&client=ubuntu-sn&hs=Btn&sca_esv=97e2aa4d8d7c0b82&channel=fs&sxsrf=ADLYWIK2KScfISHu8swUjiKHmn_ALQ6HSQ%3A1731468065118&ei=IRs0Z_DwBpa9vr0PvP-pYQ&ved=0ahUKEwiwhdiXrdiJAxWWnq8BHbx_KgwQ4dUDCA8&uact=5&oq=Masayuki+Nakano+javascriptcore&gs_lp=Egxnd3Mtd2l6LXNlcnAiHk1hc2F5dWtpIE5ha2FubyBqYXZhc2NyaXB0Y29yZTIHECEYoAEYCkjzWVDDM1iMWXADeACQAQCYAbsBoAGzFKoBBDAuMTW4AQPIAQD4AQGYAg-gAuIQwgIHECMYsAMYJ8ICCRAAGLADGAcYHsICCxAuGIAEGLADGMsBwgIHEAAYsAMYHsICCxAAGIAEGLADGKIEwgIEECMYJ8ICBBAAGB7CAggQABiABBiiBMICBRAhGKABmAMAiAYBkAYKkgcEMy4xMqAHlxc&sclient=gws-wiz-serp
+
+tc39/proposal-module-declarations: JavaScript Module Declarations
+https://github.com/tc39/proposal-module-declarations
+
+Ropes: an Alternative to Strings - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Ropes%3A+an+Alternative+to+Strings
+
+Ropes, an Alternative to Strings [pdf] (1995) | Hacker News
+https://news.ycombinator.com/item?id=24955650
+
+Ropes: an Alternative to Strings - rope-paper.pdf
+https://www.cs.rit.edu/usr/local/pub/jeh/courses/QUARTERS/FP/Labs/CedarRope/rope-paper.pdf
+
+Hybrid Rope tree string - Google 搜索
+https://www.google.com/search?q=Hybrid+Rope+tree+string&client=ubuntu-sn&hs=JK9&sca_esv=c45d8de146ff5dbc&channel=fs&sxsrf=ADLYWIKu5nl2ZvLHt3q3BZ5CoMnStCGoDw%3A1731471030756&ei=tiY0Z-7rLb2pvr0P--v9IA&ved=0ahUKEwjunuiduNiJAxW9lK8BHft1HwQQ4dUDCA8&uact=5&oq=Hybrid+Rope+tree+string&gs_lp=Egxnd3Mtd2l6LXNlcnAiF0h5YnJpZCBSb3BlIHRyZWUgc3RyaW5nMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSNcPUPQCWMwOcAF4AJABAJgBzwGgAYEJqgEFMC41LjG4AQPIAQD4AQGYAgegAqQJwgILEAAYgAQYsAMYogTCAgUQIRigAZgDAIgGAZAGApIHBTEuNC4yoAe1Dw&sclient=gws-wiz-serp
+
+data structures - Using rope in text editors - Stack Overflow
+https://stackoverflow.com/questions/46638217/using-rope-in-text-editors
+
+xi-editor/rust/rope/src/tree.rs at master · xi-editor/xi-editor
+https://github.com/xi-editor/xi-editor/blob/master/rust/rope/src/tree.rs
+
+Zed Decoded: Rope and SumTree | Hacker News
+https://news.ycombinator.com/item?id=40187971
+
+Remove support for rope · Issue #10440 · microsoft/vscode-python
+https://github.com/microsoft/vscode-python/issues/10440
+
+Rope science - Introduction
+https://xi-editor.io/docs/rope_science_00.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Zed Decoded: Rope and SumTree youtube - Google 搜索
+https://www.google.com/search?q=Zed+Decoded%3A+Rope+and+SumTree+youtube&client=ubuntu-sn&hs=Hc9&sca_esv=c45d8de146ff5dbc&channel=fs&sxsrf=ADLYWIL_G8aKNdb6nb3fNU4Qzd6_q2b4mw%3A1731472144628&ei=ECs0Z4mHJu7e1e8P3_DauAo&ved=0ahUKEwiJz_mwvNiJAxVub_UHHV-4FqcQ4dUDCA8&uact=5&oq=Zed+Decoded%3A+Rope+and+SumTree+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiJVplZCBEZWNvZGVkOiBSb3BlIGFuZCBTdW1UcmVlIHlvdXR1YmUyBxAhGKABGApI7BJQqgVY7xFwAXgAkAEAmAGWAqABkg2qAQMyLTe4AQPIAQD4AQGYAgigArMNwgILEAAYgAQYsAMYogTCAgQQIxgnwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGAZIHBTEuMC43oAezEQ&sclient=gws-wiz-serp
+
 # 2024-11-12
 
 Yjs Monaco Example
