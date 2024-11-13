@@ -2,6 +2,8 @@
 
 # IPC
 
+WebKit/Source/JavaScriptCore/yarr/
+
 export PATH=/opt/llvm/bin:$PATH
 export CC=clang
 export CXX=clang++

@@ -1,6 +1,25 @@
 
 # 2024-11-13
 
+Lisp 语言(1958)就有不可变字符串的概念
+Smalltalk(1972)也采用了不可变字符串
+
+YARR (Yet Another Regular expression Runtime) 最初是由 Apple 的工程师为 WebKit/JavaScriptCore 开发的。
+主要贡献者包括：
+Masayuki Nakano (中野 正行)
+最初的主要开发者
+当时在 Apple 工作
+2009年左右开始开发 YARR
+Geoffrey Garen
+Apple WebKit 团队的资深工程师
+对 YARR 做了大量改进和优化
+YARR 的一些历史：
+
+2009: 首次引入 WebKit
+2010: 添加 JIT 编译支持
+2014: SpiderMonkey 曾使用 YARR (后来换成了 Irregexp)
+现在: 仍然是 JavaScriptCore 的默认正则引擎
+
 class AICompetition:
     # 芯片战场
     Hardware = {
