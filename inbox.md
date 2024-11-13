@@ -1,4 +1,101 @@
 
+# 2024-11-13
+
+class AICompetition:
+    # 芯片战场
+    Hardware = {
+        "NVIDIA": "H100/L40S",
+        "AMD": "MI300X",
+        "Intel": "Gaudi3",
+        "Google": "TPU v5",
+        "AWS": "Trainium/Inferentia"
+    }
+
+    # 框架之争
+    Frameworks = {
+        "PyTorch": ["Meta", "开源社区"],
+        "TensorFlow": ["Google"],
+        "JAX": ["Google Research"],
+        "MindSpore": ["华为"],
+        "OneFlow": ["智源"]
+    }
+
+
+class QuantumComputing:
+    # 技术路线之争
+    Approaches = {
+        "超导量子": ["Google", "IBM", "Origin"],
+        "离子阱": ["IonQ", "Quantinuum"],
+        "光量子": ["PsiQuantum", "Xanadu"],
+        "中性原子": ["QuEra", "ColdQuanta"]
+    }
+
+    # 编程框架
+    Frameworks = {
+        "Qiskit": "IBM",
+        "Cirq": "Google",
+        "Q#": "Microsoft",
+        "Braket": "AWS"
+    }
+
+class AutonomousDriving:
+    # 技术路线
+    Approaches = {
+        "纯视觉": ["Tesla"],
+        "多传感器融合": ["Waymo", "Cruise"],
+        "高精地图依赖": ["百度", "AutoX"]
+    }
+
+    # 核心技术点
+    Competitions = {
+        "感知算法",
+        "决策系统",
+        "控制策略",
+        "数据闭环"
+    }
+
+class XRCompetition:
+    # 硬件之争
+    Hardware = {
+        "Meta": "Quest系列",
+        "Apple": "Vision Pro",
+        "ByteDance": "Pico",
+        "Microsoft": "HoloLens"
+    }
+
+    # 操作系统之争
+    OS = {
+        "Meta": "Horizon OS",
+        "Apple": "visionOS",
+        "Google": "Android XR",
+    }
+
+class StorageTech:
+    # 新型存储
+    NewStorage = {
+        "CXL": ["Intel", "AMD"],
+        "UFS4.0": ["三星", "美光"],
+        "PCM": ["Intel/美光"],
+        "HAMR": ["希捷"],
+        "MAMR": ["西数"]
+    }
+
+
+class SatelliteInternet:
+    Competitors = {
+        "SpaceX": "Starlink",
+        "Amazon": "Project Kuiper",
+        "OneWeb": "OneWeb",
+        "中国星网": "国家队"
+    }
+
+    Challenges = {
+        "轨道资源",
+        "频谱分配",
+        "终端成本",
+        "服务质量"
+    }
+
 # 2024-11-12
 
 // SpiderMonkey

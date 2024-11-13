@@ -1,4 +1,15 @@
 
+代码首次执行:
+Classic Interpreter
+      ↓
+(达到热度阈值)
+      ↓
+Baseline Interpreter/JIT
+      ↓
+(达到更高热度阈值)
+      ↓
+IonMonkey JIT
+
 Error
 InternalError
 AggregateError
