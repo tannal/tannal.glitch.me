@@ -1,6 +1,92 @@
 
 # 2024-11-13
 
+现代设计流程:
+需求 -> 研究 -> 设计 -> 原型 -> 测试 -> 交付
+
+工具链:
+Figma -> Protopie -> Maze -> Zeplin
+     -> Storybook -> GitHub
+
+设计系统:
+Tokens -> Components -> Patterns -> Guidelines
+
+EDA工具:
+- Synopsys
+- Cadence
+- Mentor Graphics
+
+硬件描述语言:
+- Verilog
+- VHDL
+- SystemVerilog
+- Chisel
+
+IP核管理:
+- ARM IP
+- RISC-V生态
+- 开源IP库
+
+RTOS:
+- FreeRTOS
+- RT-Thread
+- Zephyr
+- QNX
+
+开发工具:
+- Keil MDK
+- IAR
+- Arduino IDE
+- PlatformIO
+
+调试工具:
+- JTAG
+- OpenOCD
+- GDB
+
+厂商工具:
+- Xilinx Vivado
+- Intel Quartus
+- Lattice Diamond
+
+高层综合:
+- High Level Synthesis
+- OpenCL
+- OneAPI
+
+开源工具链:
+- Yosys
+- nextpnr
+- Project X-Ray
+
+自动化测试:
+- Jenkins
+- Robot Framework
+- pytest
+
+硬件验证:
+- UVM
+- SVUnit
+- Formal Verification
+
+CI/CD:
+- GitLab CI
+- GitHub Actions
+
+云端EDA:
+- AWS EDA
+- Cadence Cloud
+
+AI芯片:
+- TensorFlow ASIC
+- PyTorch FPGA
+- AutoML Hardware
+
+开源硬件:
+- RISC-V工具链
+- OpenHW Group
+- LibreSilicon
+
 物理基础设施:
 - 服务器集群
 - 存储系统
