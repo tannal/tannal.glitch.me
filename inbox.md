@@ -1,6 +1,79 @@
 
 # 2024-11-13
 
+物理基础设施:
+- 服务器集群
+- 存储系统
+- 网络设备
+- 供电制冷
+
+虚拟化层:
+- 计算虚拟化(KVM/VMware)
+- 存储虚拟化(Ceph)
+- 网络虚拟化(OVS)
+
+技术:
+- Enterprise Linux
+- OpenShift(容器平台)
+- OpenStack(私有云)
+- Ansible(自动化)
+
+服务:
+- 企业级支持
+- 咨询服务
+- 培训认证
+- 解决方案集成
+
+网络虚拟化:
+- VXLAN/NVGRE
+- OVS(Open vSwitch)
+- NFV(网络功能虚拟化)
+
+自动化编排:
+- OpenStack Neutron
+- Kubernetes CNI
+- Istio Service Mesh
+
+# 虚拟网络定义
+network = {
+    'vxlan_id': 100,
+    'subnet': '10.0.0.0/24',
+    'segments': [
+        {'id': 1, 'type': 'web'},
+        {'id': 2, 'type': 'app'},
+        {'id': 3, 'type': 'db'}
+    ]
+}
+
+控制平面(Controller):
+- 网络拓扑管理
+- 路由策略
+- QoS控制
+- 安全策略
+
+数据平面(Switch/Router):
+- 数据包转发
+- 流量控制
+- ACL执行
+- 负载均衡
+
+物理层:
+- 服务器集群
+- 存储阵列
+- 网络设备
+- 供电系统
+- 制冷系统
+
+管理层:
+- 资源调度
+- 监控告警
+- 运维自动化
+- 能源管理
+
+1 	蒋周奇 	华中科技大学
+2 	郑昱笙 	浙江大学
+3 	吴一凡 	华为
+4 	满鉴霆 	RT-Thread 社区华为加拿大研究院
 
 文本编辑器(Xi Editor)
 模板引擎(TruffleRuby)
