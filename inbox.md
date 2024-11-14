@@ -1,15 +1,15 @@
 
 # 2024-11-13
 
-                    Collection (字体集合)
-                          |
-         +----------------+----------------+
-         |                |               |
-    Font Family     Font Matching    Font Fallback
-         |                |               |
-    Font Source      Attributes      Script/Language
-         |                |               |
-    Source Cache     Synthesis        Generic Family
+                Collection (字体集合)
+                      |
+      +----------------+----------------+
+      |                |               |
+Font Family     Font Matching    Font Fallback
+      |                |               |
+Font Source      Attributes      Script/Language
+      |                |               |
+Source Cache     Synthesis        Generic Family
 
 # 2024-11-13
 
