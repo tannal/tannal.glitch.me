@@ -1,6 +1,18 @@
 
 # 2024-11-13
 
+                    Collection (字体集合)
+                          |
+         +----------------+----------------+
+         |                |               |
+    Font Family     Font Matching    Font Fallback
+         |                |               |
+    Font Source      Attributes      Script/Language
+         |                |               |
+    Source Cache     Synthesis        Generic Family
+
+# 2024-11-13
+
 小型模型(125M-350M参数):
 - 模型参数: ~0.25-0.7GB
 - 优化器状态: ~0.5-1.4GB
