@@ -1,7 +1,328 @@
 
+# 2024-11-16
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+192.168.43.246:3000/
+http://192.168.43.246:3000/
+
+Code search results
+https://github.com/search?q=repo%3Alinebender%2Fpeniko%20vello&type=code
+
+Add epsilon API by ctrlcctrlv · Pull Request #248 · linebender/kurbo
+https://github.com/linebender/kurbo/pull/248
+
+New Issue · linebender/parley
+https://github.com/linebender/parley/issues/new
+
+林俊傑 她說 （高清版） - YouTube
+https://www.youtube.com/watch?v=a03rusIcxmg
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=presume&op=translate
+
+rust-windowing/winit: Window handling library in pure Rust
+https://github.com/rust-windowing/winit?tab=readme-ov-file
+
+Are we GUI yet?
+https://areweguiyet.com/
+
+2D Rendering | Are we game yet?
+https://arewegameyet.rs/ecosystem/2drendering/
+
+>... (inventors of the mouse, GUI, and object oriented programming), Xerox PARC ... | Hacker News
+https://news.ycombinator.com/item?id=13120704
+
+Douglas Engelbart - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Douglas+Engelbart
+
+Simula - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Simula
+
+real time rendering - Google 搜索
+https://www.google.com/search?q=real+time+rendering&client=ubuntu-sn&hs=BoK&sca_esv=4cf2b0c3a1330b61&channel=fs&sxsrf=ADLYWIKiNCW0MgXDgAW_8d7NfcOncCWQrw%3A1731594600506&ei=aAk2Z-TKHqHf2roPspClsQw&gs_ssp=eJzj4tLP1TcwqSo2Ksg2YPQSLkpNzFEoycxNVShKzUtJLcrMSwcArvYLHQ&oq=real+time+ren&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXJlYWwgdGltZSByZW4qAggAMggQLhiABBjLATIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQFIkCVQhwdYoh9wAXgBkAEAmAGSB6AB-SyqAQsyLTQuMi4xLjMuMrgBA8gBAPgBAZgCDaACrS3CAgoQABiwAxjWBBhHwgIEECMYJ8ICChAjGIAEGCcYigXCAgoQABiABBhDGIoFwgILEC4YgAQY0QMYxwHCAgoQLhiABBhDGIoFwgIMECMYgAQYExgnGIoFwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQHCAgsQLhiABBjUAhjLAcICDhAuGIAEGNEDGMcBGMsBwgIOEC4YgAQYxwEYywEYrwGYAwCIBgGQBgq6BgYIARABGBSSBw0xLjAuNC4yLjEuMy4yoAezZw&sclient=gws-wiz-serp
+
+Real-Time Rendering Resources
+https://www.realtimerendering.com/
+
+Real-Time Rendering, Fourth Edition: Akenine-Möller, Tomas, Haines, Eric, Hoffman, Naty: 9781138627000: Amazon.com: Books
+https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003?tag=realtimerenderin
+
+linebender/vello: A GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+(1) Latest General topics - Typst Forum
+https://forum.typst.app/c/general/4
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=korea&op=translate
+
+Autodesk - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Autodesk
+
+Optimal Heap Limits for Reducing Browser Memory UseOptimal Heap Limits for Reducing Browser Memory Use - 2204.10455v4.pdf
+https://arxiv.org/pdf/2204.10455
+
+Pavel Panchekha
+https://pavpanchekha.com/resume.html
+
+Optimal Heap Limits for Reducing Browser Memory Use · Issue #90 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/90
+
+Ephemeron - Wikipedia
+https://en.wikipedia.org/wiki/Ephemeron
+
+npm is owned by microsoft? - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=npm+is+owned+by+microsoft%3F
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Real-Time Rendering Resources
+https://www.realtimerendering.com/#xforms
+
+Pull requests · erich666/RealTimeRendering
+https://github.com/erich666/RealTimeRendering/pulls
+
+realtimerendering.com/udacity/transforms.html
+https://www.realtimerendering.com/udacity/transforms.html
+
+WIP cursor rework by dfrg · Pull Request #170 · linebender/parley
+https://github.com/linebender/parley/pull/170
+
+AMD GPUOpen - AMD GPUOpen
+https://gpuopen.com/
+
+CLOCK_MONOTONIC - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=CLOCK_MONOTONIC
+
+Discover — Bluesky
+https://bsky.app/
+
+rustc might never be as fast as the Go compiler because the language has so many... | Hacker News
+https://news.ycombinator.com/item?id=21760908
+
+OpenJS Foundation
+https://github.com/openjs-foundation
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+geoffrey hinton time scale fast weight - Google 搜索
+https://www.google.com/search?q=geoffrey+hinton+time+scale+fast+weight&client=ubuntu-sn&sca_esv=3c7b9bf68f65825c&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIIvQrVj4Ct96wADvKZf8gZnDrEHrw%3A1731727746231&ei=ghE4Z57tDYONvr0P4vWJiQU&ved=0ahUKEwietqXJ9N-JAxWDhq8BHeJ6IlEQ4dUDCA8&uact=5&oq=geoffrey+hinton+time+scale+fast+weight&gs_lp=Egxnd3Mtd2l6LXNlcnAiJmdlb2ZmcmV5IGhpbnRvbiB0aW1lIHNjYWxlIGZhc3Qgd2VpZ2h0MgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigAUjaEVCDAljaEHAAeACQAQCYAcoDoAGOFaoBCDItMTAuMC4xuAEDyAEA-AEBmAILoAK5FcICCxAAGIAEGLADGKIEmAMAiAYBkAYFkgcIMi0xMC4wLjGgB74h&sclient=gws-wiz-serp
+
+Geoffrey Hinton on X: "@andywalters Yes, I was wrong about the time scale, but AI is already comparable with radiologists for several types of images. It seems likely that in a few years it will routinely be giving second opinions and in 10 more years the second opinions will be better than the human opinions." / X
+https://x.com/geoffreyhinton/status/1719451766599659591
+
+1610.06258v3.pdf
+https://arxiv.org/pdf/1610.06258
+
+tannal/ggml-mnist: 手写数字识别
+https://github.com/tannal/ggml-mnist
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+leetcode test data github - Google 搜索
+https://www.google.com/search?q=leetcode+test+data+github&client=ubuntu-sn&hs=BvY&sca_esv=3c7b9bf68f65825c&channel=fs&sxsrf=ADLYWIIfS0GpELWc1GmJtk6191LRn3vp5g:1731728289663&ei=oRM4Z86VKJObvr0PsJS3yQY&start=10&sa=N&sstk=ATObxK6hedwbn_55taXpQdqzLzaa2hHRmmCZqYNXMbBIwp3TbP1OZ0SI9hOZbzVl9W2yD_LYujdz_LWrGlnH-0i1C8IzpsLZ0eTOLw&ved=2ahUKEwiO6rXM9t-JAxWTja8BHTDKLWkQ8tMDegQICBAE&biw=1850&bih=968&dpr=1
+
+Raph Levien (@raphlinus.bsky.social) — Bluesky
+https://bsky.app/profile/raphlinus.bsky.social
+
+Using Fast Weights to Attend to the Recent. · Issue #89 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/89
+
+allocsite garbage collection - Google 搜索
+https://www.google.com/search?q=allocsite+garbage+collection&client=ubuntu-sn&hs=FLc&sca_esv=31c7c02de220de3d&channel=fs&sxsrf=ADLYWIJfknlXsCytvFIscQ3sYW9SpxPa3Q%3A1731741437450&ei=_UY4Z_GHG6W9vr0Pl8DcmAI&oq=AllocSite+garbage+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkFsbG9jU2l0ZSBnYXJiYWdlICoCCAAyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIyBlQoAFY2RJwAXgBkAEAmAGJAqAB5g-qAQUwLjEuOLgBA8gBAPgBAZgCCqACihDCAgoQABiwAxjWBBhHwgIHEAAYgAQYDcICBhAAGA0YHsICCBAAGAoYDRgewgIIEAAYCBgNGB7CAggQABgFGA0YHsICChAAGAgYChgNGB7CAgUQIRigAZgDAOIDBRIBMSBAiAYBkAYIkgcFMS4xLjigB8kf&sclient=gws-wiz-serp
+
+cbgc.pdf
+https://www.cs.purdue.edu/homes/hosking/690M/cbgc.pdf
+
+Go garbage collection generational - Google 搜索
+https://www.google.com/search?q=Go+garbage+collection+generational&client=ubuntu-sn&hs=ZOc&sca_esv=31c7c02de220de3d&channel=fs&sxsrf=ADLYWIJwI20LxmISmAkf2J3fzNuEDYIK-A%3A1731741643604&ei=y0c4Z6LGJKzP1e8Ph4nz0QM&ved=0ahUKEwji14msqOCJAxWsZ_UHHYfEPDoQ4dUDCA8&uact=5&oq=Go+garbage+collection+generational&gs_lp=Egxnd3Mtd2l6LXNlcnAiIkdvIGdhcmJhZ2UgY29sbGVjdGlvbiBnZW5lcmF0aW9uYWwyBxAhGKABGApIlSRQlgZYmSJwAngBkAEAmAHjAaABrBOqAQYwLjIuMTC4AQPIAQD4AQGYAg6gAuETwgIKEAAYsAMY1gQYR8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAgYHsICBhAAGAUYHsICBRAhGKABmAMAiAYBkAYKkgcGMi4xLjExoAfoIw&sclient=gws-wiz-serp
+
+Why golang garbage-collector not implement Generational and Compact gc?
+https://groups.google.com/g/golang-nuts/c/KJiyv2mV2pU
+
+runtime: aggressive GC completion is disruptive to co-tenants · Issue #17969 · golang/go
+https://github.com/golang/go/issues/17969
+
+Transaction Oriented Collector (TOC) - Go's next GC
+https://groups.google.com/g/golang-dev/c/WcZaqTE51ZU
+
+golang functional programming - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=golang+functional+programming
+
+Go Playground - The Go Programming Language
+https://go.dev/play/
+
+JSR: the JavaScript Registry
+https://jsr.io/
+
+nest.land
+https://nest.land/
+
+react - Packages
+https://jsr.io/packages?search=react
+
+Using JSR with Bun · oven-sh/bun · Discussion #11897
+https://github.com/oven-sh/bun/discussions/11897
+
+"bunx jsr add ___" throws "error: Script not found "jsr"" · Issue #12465 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/12465
+
+deno - npm
+https://www.npmjs.com/package/deno
+
+YounGoat (Triver YounGoat Ching, 羊三河)
+https://github.com/YounGoat
+
+Links
+https://youngoat.github.io/links/
+
+JavaScript™
+https://javascript.tm/signatories
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues
+
+spidermonkey stack based interpreter - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=spidermonkey+stack+based+interpreter
+
+Compilation of JavaScript to Wasm, Part 3: Partial Evaluation
+https://cfallin.org/blog/2024/08/28/weval/
+
+branch inversion - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=branch+inversion
+
 # 2024-11-13
-greegrergre
-123
 Yjs Monaco Example
 http://192.168.43.246:3000/monaco/monaco.html
 

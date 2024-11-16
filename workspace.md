@@ -60,6 +60,42 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 ## zulip-flutter
 
+```json
+issue_labels = {
+    "功能模块标签": {
+        "a-api": "实现Zulip服务器API相关",
+        "a-compose": "消息编辑器、自动完成、文件/图片附件",
+        "a-content": "解析和渲染Zulip HTML内容，特别是消息内容",
+        "a-home": "应用主页面、查找和开始对话",
+        "a-msglist": "消息列表界面",
+        "a-model": "数据模型实现(PerAccountStore等)",
+        "a-sync": "事件队列、重试、本地回显、竞态处理",
+        "a-notifications": "通知相关功能"
+    },
+
+    "平台相关": {
+        "a-Android": "Android特定问题或工作",
+        "a-iOS": "iOS特定问题或工作"
+    },
+
+    "横切关注点": {
+        "a-a11y": "无障碍功能",
+        "a-i18n": "翻译和国际化",
+        "a-design": "视觉和用户体验设计",
+        "a-documentation": "文档相关",
+        "performance": "性能优化、修复卡顿"
+    },
+
+    "流程标签": {
+        "good first issue": "适合新手的问题",
+        "help wanted": "需要帮助",
+        "design review": "等待设计审查",
+        "maintainer review": "等待维护者审查",
+        "duplicate": "重复问题"
+    }
+}
+```
+
 # desktop
 
 ## Simple

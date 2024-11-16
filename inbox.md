@@ -1,4 +1,11 @@
 
+# 2024-11-14
+
+复杂系统需要从一开始就考虑测试
+增量迁移路径很重要
+启发式优化永远有改进空间
+缓存友好的数据结构设计至关重要
+
 # 2024-11-13
 
                 Collection (字体集合)
@@ -9,7 +16,7 @@ Font Family     Font Matching    Font Fallback
       |                |               |
 Font Source      Attributes      Script/Language
       |                |               |
-Source Cache     Synthesis        Generic Family
+Source Cache     Synthesis       Generic Family
 
 # 2024-11-13
 
