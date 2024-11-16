@@ -60,6 +60,8 @@ yarn config set https-proxy http://10.90.92.225:7890
 
 ## zulip-flutter
 
+"very_active": 98  // 每3周至少1个PR
+
 ```json
 issue_labels = {
     "功能模块标签": {
