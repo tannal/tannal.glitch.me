@@ -10,6 +10,9 @@ DevOps工具
 
 # inbox
 
+Go Garbage Collecttor
+https://groups.google.com/g/golang-dev/c/WcZaqTE51ZU
+
 Nigel Tao
 https://github.com/nigeltao
 

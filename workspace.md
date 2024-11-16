@@ -169,6 +169,44 @@ https://treeherder.mozilla.org/jobs?repo=try
 - On branch color-theme
 [] remove meidia query
 
+```cpp
+void ParallelMarker::donateWorkFrom(GCMarker* src) {
+  if (!gHelperThreadLock.tryLock()) {
+    return;
+  }
+
+  // Check there are tasks waiting for work while holding the lock.
+  if (waitingTaskCount == 0) {
+    gHelperThreadLock.unlock();
+    return;
+  }
+
+  // Take the first waiting task off the list.
+  ParallelMarkTask* waitingTask = waitingTasks.ref().popFront();
+  waitingTaskCount--;
+
+  // |task| is not running so it's safe to move work to it.
+  MOZ_ASSERT(waitingTask->isWaiting);
+
+  gHelperThreadLock.unlock();
+
+  // Move some work from this thread's mark stack to the waiting task.
+  MOZ_ASSERT(!waitingTask->hasWork());
+  GCMarker::moveWork(waitingTask->marker, src);
+
+  gc->stats().count(gcstats::COUNT_PARALLEL_MARK_INTERRUPTIONS);
+
+  GeckoProfilerRuntime& profiler = gc->rt->geckoProfiler();
+  if (profiler.enabled()) {
+    profiler.markEvent("Parallel marking donated work", "");
+  }
+
+  // Resume waiting task.
+  waitingTask->resume();
+}
+
+```
+
 https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537c36f50025d4cf8&selectedTaskRun=MprGTxjNTIGX_ir40zJCcA.0
 
 
