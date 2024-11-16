@@ -576,9 +576,10 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2024-11-11 - 2024-11-18
 
 [] update cv apply
-[] jsengine tc39 tests ecmascript
-[] 11.13 16:40
-[] 11.14 24:00 office hour
+[] jsengine tc39 tests ecmascript bun JavaScriptCore
+[] iterator and transformer z order neural network
+[x] 11.13 16:40
+[x] 11.14 24:00 office hour
 [] 11.14
 https://github.com/whatwg/html/issues/10750
 
@@ -596,7 +597,7 @@ https://github.com/whatwg/html/issues/10750
 
 ## Social Activities
 
-[] text editor -> code editor blog
+[x] text editor -> code editor blog
 
 ## Action needed from Me TODO (don't need supervisor) 4
 
