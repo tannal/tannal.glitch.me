@@ -1,6 +1,177 @@
 
 # 2024-11-17
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+百度一下，你就知道
+https://www.baidu.com/
+
+习近平向特朗普致贺电_百度搜索
+https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E8%B4%BA%E7%94%B5&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+
+免费机场收集 - Askahh测速
+https://askahh.com/archives/101/
+
+第2页 - 机场概览 - Askahh测速
+https://www.askahh.com/archives/191/comment-page-2#comments
+
+EFCloud
+https://www.efc1.net/dashboard
+
+Releases · clash-verge-rev/clash-verge-rev
+https://github.com/Clash-Verge-rev/clash-verge-rev/releases
+
+EFCloud
+https://www.efc1.net/dashboard
+
+便宜机场汇总 - Askahh测速
+https://www.askahh.com/archives/26/
+
+Releases · clash-verge-rev/clash-verge-rev · GitHub
+https://github.com/clash-verge-rev/clash-verge-rev/releases
+
+Releases · SagerNet/sing-box
+https://github.com/SagerNet/sing-box/releases
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Nathan Benaich (@nathanbenaich) / X
+https://x.com/nathanbenaich
+
+Support Linux DRM backend by Bennctu · Pull Request #69 · sysprog21/mado · GitHub
+https://github.com/sysprog21/mado/pull/69?fbclid=IwY2xjawGaQuNleHRuA2FlbQIxMAABHVHcfgyDp595mhbp7OJ7nRprXpz6Na5oB6D4Luxc_kv2cjSh-0iLt59doA_aem_cVbbHMpRyA3AGMW9IPhu-w
+
+使用 GDB + Qemu 调试 Linux 内核-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/1793157
+
+腾讯云11.11上云拼团Go
+https://cloud.tencent.com/act/pro/double11-2024?from=22374&from_column=22374#miaosha
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+金藝源 - Google 搜索
+https://www.google.com.hk/search?q=%E9%87%91%E8%97%9D%E6%BA%90&rlz=1C1GCEA_enCN1091CN1091&oq=%E9%87%91%E8%97%9D%E6%BA%90&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+吹牛老爹 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwNC43zzJg9OJ5OmHn887ZLxoan3fsBABz7Atc&q=%E5%90%B9%E7%89%9B%E8%80%81%E7%88%B9&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%90%B9%E7%89%9B&gs_lcrp=EgZjaHJvbWUqDQgBEC4YgwEYsQMYgAQyCQgAEEUYORiABDINCAEQLhiDARixAxiABDINCAIQABiDARixAxiABDIGCAMQABgDMgYIBBAAGAMyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgATSAQgzNDUxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+GitHub - smores56/TigerCompilerCS4240: A compiler for Georgia Tech CS 4240's toy language, Tiger.
+https://github.com/smores56/TigerCompilerCS4240
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&op=translate
+
+美联储？ - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%EF%BC%9F&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8%EF%BC%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyDQgDEAAYsQMYgAQYigUyEwgEEC4YxwEYsQMY0QMYgAQYigUyEAgFEAAYgwEYsQMYgAQYigUyDQgGEAAYsQMYgAQYigUyBwgHEAAYgAQyBggIEAAYAzIQCAkQABiDARixAxiABBiKBdIBCDE3MDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+More people leaving OpenAI : r/OpenAI
+https://www.reddit.com/r/OpenAI/comments/1fpjn4a/more_people_leaving_openai/?rdt=44669
+
+System76 Is Poised to Cause a COSMIC Shift In the Linux Desktop Space : r/pop_os
+https://www.reddit.com/r/pop_os/comments/1bvvphf/system76_is_poised_to_cause_a_cosmic_shift_in_the/
+
+Cosmic Desktop in Ubuntu 24.04? : r/Ubuntu
+https://www.reddit.com/r/Ubuntu/comments/1esub0w/cosmic_desktop_in_ubuntu_2404/
+
+Redox OS, a Rust and micro-kernel based OS, now ships with COSMIC apps : r/pop_os
+https://www.reddit.com/r/pop_os/comments/1dae8ej/redox_os_a_rust_and_microkernel_based_os_now/
+
+Alpha 2 of 24.04 : r/pop_os
+https://www.reddit.com/r/pop_os/comments/1fbdev8/alpha_2_of_2404/
+
+Convertio — 文件转换器
+https://convertio.co/zh/
+
+Notifications / X
+https://x.com/notifications
+
+What happened at OpenAI? : r/ArtificialInteligence
+https://www.reddit.com/r/ArtificialInteligence/comments/1cuxjrs/what_happened_at_openai/
+
+Why Spidermonkey is way slower than V8 or JavaScriptCore? : r/firefox
+https://www.reddit.com/r/firefox/comments/138uciq/why_spidermonkey_is_way_slower_than_v8_or/
+
+日本大选 - Google 搜索
+https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%80%89&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%80%89&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM4MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+日本IT派遣指南
+https://sagiriwiki.web.app/posts/5%20countries/b%20it.html
+
+Anarcho-capitalism，最適合人類的政治體制
+https://sagiriwiki.web.app/posts/4%20worldview/1%20anarchism.html
+
+Sagiri's Forum
+https://sagiri.flarum.cloud/
+
+自然法 | 和泉紗霧 | Substack
+https://sagiri.substack.com/
+
+Home
+https://sagiriwiki.web.app/
+
+Google 翻译
+https://translate.google.com/?hl=zh-CN&sl=en&tl=zh-CN&op=translate
+
+杭州公积金提取 - Google 搜索
+https://www.google.com/search?q=%E6%9D%AD%E5%B7%9E%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96&sca_esv=c45d8de146ff5dbc&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIKLp_eRGp3a3VnE9NPigMdkO6V_Ng%3A1731468971295&ei=qx40Z8_aEdvd1e8Ptq-d-QI&ved=0ahUKEwiP3OTHsNiJAxXbbvUHHbZXJy8Q4dUDCA8&uact=5&oq=%E6%9D%AD%E5%B7%9E%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeadreW3nuWFrOenr-mHkeaPkOWPljIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEikIVDXBljBIHACeACQAQGYAaQCoAGBH6oBBjAuNi4xMrgBA8gBAPgBAZgCEaAC0xrCAggQABiABBiwA8ICCxAAGIAEGLADGKIEwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEC4YgAQY1ALCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICCBAuGIAEGMsBwgIIEAAYgAQYywHCAg4QLhiABBjHARjLARivAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIKEAAYgAQYQxiKBcICEBAuGIAEGEMYxwEYigUYrwHCAgsQLhiABBjHARivAcICCBAAGIAEGKIEmAMAiAYBkAYFugYGCAEQARgUkgcGMi4yLjEzoAeCuQE&sclient=gws-wiz-serp
+
+十月份cpi ppi - Google 搜索
+https://www.google.com/search?q=%E5%8D%81%E6%9C%88%E4%BB%BDcpi+ppi&sca_esv=04e68c913ef2a454&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJN0PdDZfUHZRmsgQrvdnxAMj5ZJA%3A1731652614484&ei=Buw2Z8GTHbbb2roPiPSjqQo&ved=0ahUKEwjBrtfX3N2JAxW2rVYBHQj6KKUQ4dUDCA8&uact=5&oq=%E5%8D%81%E6%9C%88%E4%BB%BDcpi+ppi&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOWNgeaciOS7vWNwaSBwcGkyBRAhGKABSM00UNwYWJMqcAF4AJABAJgB5AGgAe0HqgEFMC4yLjO4AQPIAQD4AQGYAgWgAtoGwgILEAAYgAQYsAMYogTCAggQABiABBiiBMICCRAhGKABGAoYKsICBxAhGKABGAqYAwCIBgGQBgSSBwUxLjAuNKAH4wc&sclient=gws-wiz-serp
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+支付宝安全漏洞被曝 回应:仅在特定情况下才会实现——人民政协网
+https://www.rmzxb.com.cn/c/2017-01-10/1275962_1.shtml
+
+FamilyMar - Google 搜索
+https://www.google.com/search?q=FamilyMar&rlz=1C1GCEA_enCN1091CN1091&oq=FamilyMar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+visa application china passport to us - Google 搜索
+https://www.google.com/search?q=visa+application+china+passport+to+us&rlz=1C1GCEA_enCN1091CN1091&oq=visa+application+china+passport+to+us&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTExMDY3ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+Electronic Visa Update System (EVUS) Frequently Asked Questions | U.S. Customs and Border Protection
+https://www.cbp.gov/travel/international-visitors/electronic-visa-update-system-evus/frequently-asked-questions
+
+Career Center
+https://career.ucsd.edu/
+
+xmu 李生物科学课 - Google 搜索
+https://www.google.com/search?q=xmu+%E6%9D%8E%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E8%AF%BE&sca_esv=bde359ce1c16eb93&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIIMWC4i9s8946ExI0FHkThDb3T2Fg%3A1731822334165&ei=_oI5Z8bTCc7k2roP9J6P4QI&ved=0ahUKEwjGyqr41OKJAxVOslYBHXTPIywQ4dUDCA8&uact=5&oq=xmu+%E6%9D%8E%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E8%AF%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnhtdSDmnY7nlJ_niannp5Hlrabor74yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI7EdQoB1Y10ZwDXgAkAEDmAGrAqAB1R6qAQQyLTE3uAEDyAEA-AEBmAINoALbD8ICChAAGLADGNYEGEfCAgQQIxgnwgIFECEYoAGYAwCIBgGQBgGSBwc1LjAuNy4xoAeOEw&sclient=gws-wiz-serp
+
+Hallelu Yah - Google 搜索
+https://www.google.com/search?q=Hallelu+Yah&rlz=1C1GCEA_enCN1091CN1091&oq=Hallelu+Yah&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQLhgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgATSAQgxMjA3ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+白夜追凶 - Google 搜索
+https://www.google.com/search?q=%E7%99%BD%E5%A4%9C%E8%BF%BD%E5%87%B6&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%99%BD%E5%A4%9C%E8%BF%BD%E5%87%B6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIMCAIQIxgnGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGD3SAQgzODQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+唐朝诡事录（2022年杨旭文、杨志刚主演的悬疑奇幻电视剧）_百度百科
+https://baike.baidu.com/item/%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95/54131055
+
+林宥嘉 - Google 搜索
+https://www.google.com/search?q=%E6%9E%97%E5%AE%A5%E5%98%89&sca_esv=6ed545d10eefd9f7&rlz=1C1GCEA_enCN1091CN1091&cs=0&sxsrf=ADLYWILmU68O6Q0fdgv__dtLXxcReSB7_A:1731846722336&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINPqFwr8y9Z7vYpxn6c8VTg_W3n-tj-OqwpSzydjr8YEnU-xo_ZyJOADydHfKfVIYRpPgQrjVvaoIOq79Lk4KqJ8S0xpnrLZtNoPJLVWFvrsJkggBrreZXeDu_wykf39LJ7QLEUOfXUkgLlSmgCkC6QjmWzLEw&sa=X&ved=2ahUKEwjku8Llr-OJAxXFlFYBHUrlM5YQ0pQJegQIAxAD&biw=1280&bih=593&dpr=1.5
+
+周杰伦 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%91%A8%E6%9D%B0%E5%80%AB#%E9%9F%B3%E6%A8%82%E4%BD%9C%E5%93%81
+
+中国好声音 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3#%E6%9D%8E%E7%8E%9F%E7%8F%BE%E5%A0%B4%E8%B3%AA%E7%96%91%E8%B3%BD%E5%88%B6%E4%B8%8D%E5%85%AC%E8%A2%AB%E7%BE%9E%E8%BE%B1%E4%BA%8B%E4%BB%B6
+
+新北市私立淡江高级中学 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8C%97%E5%B8%82%E7%A7%81%E7%AB%8B%E6%B7%A1%E6%B1%9F%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8
+
+(3) 2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+科学天地 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/topics/c9mjeq29pxlt
+
 Yjs Monaco Example
 http://192.168.43.246:3000/monaco/monaco.html
 
