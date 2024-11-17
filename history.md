@@ -1,4 +1,237 @@
 
+# 2024-11-17
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+ChromaFeatureCmajorScaleScoreAudioColor.png (PNG Image, 1024 × 896 pixels)
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ChromaFeatureCmajorScaleScoreAudioColor.png/1024px-ChromaFeatureCmajorScaleScoreAudioColor.png
+
+Sparse Crosscoders for Cross-Layer Features and Model Diffing
+https://transformer-circuits.pub/2024/crosscoders/index.html
+
+Crosscoders - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Crosscoders
+
+TransformerLensOrg repositories
+https://github.com/orgs/TransformerLensOrg/repositories
+
+SWC Playground – SWC
+https://swc.rs/playground
+
+oxc-project/oxc: ⚓ A collection of JavaScript tools written in Rust.
+https://github.com/oxc-project/oxc
+
+evanw (Evan Wallace)
+https://github.com/evanw
+
+Oxc - The JavaScript Oxidation Compiler Playground
+https://oxc-project.github.io/oxc/playground/?code=3YCAAIDbgYCAgICAgIC0G8rnONK88yBy9gF2iiieayjKrgMZxIq8mEeJXIshFBO8zDODxzozyHKiRmdtKDlDz0HUZFkWB4B5wVzdkq%2BhvCgUrO0g3s41raDxaxyh1HmTg8mwWbPFvDRG9Pry92As3Ky0DyCZpMgeEFNn1QtlCRLt1KJSTpwYkL1kpN9vesEXMqpJqR0VascZsLR%2Fu7OQCWKWzi1p04tw73WvXyaaM78rwD4cExRZ1%2FnH5MyMNNuUi1NcLDN9PAsQz1XJij07WsUJCFnndUTb2VvpKaDoBgKmAhPfAldEkt7bwnNYDsJ9lEDI1yXgkBk6hX9YQ%2FaA
+
+Hixie's Natural Log
+https://ln.hixie.ch/
+
+Position Paper for the W3C Workshop on Web Applications and Compound Documents
+https://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w&tab=t.0#heading=h.x6gf9taea4se
+
+Flutter Blank Canvas Custom Controls (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1rS_RO2DQ_d4_roc3taAB6vXFjv7-9hJP7pyZ9NhPOdA/edit?resourcekey=0-VBzTPoqLwsruo0j9dokuOg&tab=t.0
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+Ask HN: What's the best documentary you've watched this year? | Hacker News
+https://news.ycombinator.com/item?id=41906454
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+白夜追凶（2017年潘粤明、王泷正主演的悬疑犯罪剧）_百度百科
+https://baike.baidu.com/item/%E7%99%BD%E5%A4%9C%E8%BF%BD%E5%87%B6/20808255#%E5%88%86%E9%9B%86%E5%89%A7%E6%83%85
+
+Beyond the Spider-Verse potential release date, cast and more
+https://www.digitalspy.com/movies/a44049725/beyond-the-spiderverse-release-date/
+
+Discover — Bluesky
+https://bsky.app/
+
+teal.fm
+https://github.com/teal-fm
+
+Ff133 dialog toggle beforetoggle events by hamishwillee · Pull Request #36606 · mdn/content
+https://github.com/mdn/content/pull/36606
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Scheduled%20the%20flash%20mob%20tweet%20and%20went%20to%20sleep%2C%20and%20woke%20up%20to%20nothing%20on%20my%20Twitter%20timeline&op=translate
+
+陳小春 Jordan Chan - 我愛的人(Official MV) - YouTube
+https://www.youtube.com/watch?v=ZeghG09iaNY&list=RDU5xT-r8Ffo4&index=3
+
+maroon 5 - Google 搜索
+https://www.google.com/search?q=maroon+5&client=ubuntu-sn&hs=O6E&sca_esv=b3aa834d5fa37549&channel=fs&sxsrf=ADLYWIIyFRPu2VHSO9Q7-4KbcmsnH3SVgQ%3A1731810985357&ei=qVY5Z9G6FfPo1e8PkKnL2Qo&gs_ssp=eJzj4tTP1TcwyjYtTjZg9OLITSzKz89TMAUAQUUGGw&oq=maroon+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB21hcm9vbiAqAggAMgoQLhiABBhDGIoFMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgoQABiABBhDGIoFMgoQLhiABBhDGIoFMgUQABiABDIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAUirEFC8Ali8AnABeAGQAQCYAdkBoAHZAaoBAzItMbgBA8gBAPgBAZgCAqAC5wHCAgoQABiwAxjWBBhHmAMAiAYBkAYKugYGCAEQARgUkgcFMS4wLjGgB6UK&sclient=gws-wiz-serp
+
+Coldplay - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=4Qu&sca_esv=b3aa834d5fa37549&channel=fs&sxsrf=ADLYWIIRpq7sslN0qrowwP8aovEcca6Q3g:1731810989097&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm6pAZ3bT4x2DZW8-ldsLeDinooeSTfVt33sNG8iw5BcySRJYATqJJAA-utwuoLbR31hIZWR6quZaUj4rcjSsTtP7-8JkRaIbZynpLPzvWoTYeLZ1Wv6ZuPd-8uM5db7G8dgjM4YUHvd4OF19qEyZCyCLve1Ustij_0_CoVlqlo4mAeWpDO6lA1UnrEsWpSKGKWFUoh5qFY9w9qsfBsM7-ucL_EE_oeFtHOhih2DaTsJBP8J_f-1Y5TNAeHTYuvmRepWQGDE%3D&q=Coldplay&sa=X&ved=2ahUKEwjH2crWquKJAxWMl68BHec2NHwQs9oBKAB6BAgdEAU
+
+Imagine Dragons - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=4Qu&sca_esv=b3aa834d5fa37549&channel=fs&sxsrf=ADLYWIIRpq7sslN0qrowwP8aovEcca6Q3g:1731810989097&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQT08nkPtYHrwkhBkqQ-QrOfAmAg_GdfygCXbgHYHeADesalUuG4bbWnqRCqe5BAH9pnhHxSLcogiJvhlJqNSBsRovE4mvlAHeYXYhDRdDbcCjrlEpzV4TfKSMJAxF4u1s7Dj72HuSWZRhG0lT61c99JbWSJFyKI9ioxpwDBxccEH-QHWLNpdjAk7q_euhhau3BCxyOWZZJOgeLEErv_IsLmsaTmMf7rvE_5mRTV-B1gpPl-FNMJWi88vTp14HVqVTV6B8wc%3D&q=Imagine+Dragons&sa=X&ved=2ahUKEwjH2crWquKJAxWMl68BHec2NHwQs9oBKAB6BAgdEAk
+
+one direction - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=one+direction
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152/files
+
+Google
+https://www.google.com/
+
+File uploaded from Clipboard · mozilla-necko/meeting-notes@81932f9
+https://github.com/mozilla-necko/meeting-notes/commit/81932f9a8e85997cefdf3ad178da374941fe66ea#diff-f5f559ca88c4fff24d18e657c0f9d5472a4690f9e77a5c48fe537715f9cf8a9aR72
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yangqing (Yangqing Jia)
+https://github.com/Yangqing
+
+Charles Dong: "What is that convenience store? Didn't see anything like this at 7-eleven, FamilyMart, or Lawson 🫠" — Bluesky
+https://bsky.app/profile/chardoncs.dev/post/3lb35siqges23
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement cursor blinking in text editor (#152) · linebender/parley@a35e00f
+https://github.com/linebender/parley/commit/a35e00f468409942ccf98e788eb6022d9267a10d
+
 # 2024-11-16
 
 Yjs Monaco Example
