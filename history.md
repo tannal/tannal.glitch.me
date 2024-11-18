@@ -1,4 +1,225 @@
 
+# 2024-11-18
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Pretraining (with CPUs) · Issue #660 · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues/660
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yangqing (Yangqing Jia)
+https://github.com/Yangqing
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+A Micro-optimization You Will Never Need · Romain Guy
+https://www.romainguy.dev/posts/2024/a-micro-optimization-you-will-never-need/
+
+[WIP] implement module.registerHooks() to run synchronous module customization hooks in thread by joyeecheung · Pull Request #55698 · nodejs/node
+https://github.com/nodejs/node/pull/55698/files#diff-df366d528c7f26317e2cc3c01e6b86d0c25279aead78bae16792ce54471b8644
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement cursor blinking in text editor (#152) · linebender/parley@a35e00f
+https://github.com/linebender/parley/issues/134
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=When%20you%20wife%20has%20your%20wallet%20but%20you%20really%20need%20that%20adhd%20med%20refill&op=translate
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/multipage/indexed-collections.html
+
+TMUX in 100 seconds | Prime Reacts - YouTube
+https://www.youtube.com/watch?v=0eHZRPzbiJ0
+
+Coffee Compiler Club, 2024_11_15 - YouTube
+https://www.youtube.com/watch?v=S5eGsvuCjsE&t=1809s
+
+周杰倫 Jay Chou【鬥牛 Basketball Match】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=npiAxeLtHDM
+
+Pull requests · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/pulls
+
+2212.08073v1.pdf
+https://arxiv.org/pdf/2212.08073
+
+reinforcement learning pacman - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=reinforcement+learning+pacman
+
+5241109.pdf
+https://cs229.stanford.edu/proj2017/final-reports/5241109.pdf
+
+Berkeley AI Materials
+https://ai.berkeley.edu/reinforcement.html
+
+Berkeley Artificial Intelligence Research Lab
+https://bair.berkeley.edu/
+
+cs188 pacman reinforce learning - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cs188+pacman+reinforce+learning
+
+Project 2 | CS 188 Fall 2024
+https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj2/#q1-4-pts-reflex-agent
+
+Jay Chou 周杰倫【周大俠 Master Chou】-Official Music Video(電影「功夫灌籃」主題曲) - YouTube
+https://www.youtube.com/watch?v=EZxhW-uSN_I&list=RDEZxhW-uSN_I&start_radio=1
+
+cs188 pacman reinforce learning github - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cs188+pacman+reinforce+learning+github
+
+Repository search results
+https://github.com/search?q=CS188+reinforce&type=repositories&s=updated&o=desc
+
+WendyamSawadogo/Pacman-UC_Berkeley-Cs188-ReinforcementLearning
+https://github.com/WendyamSawadogo/Pacman-UC_Berkeley-Cs188-ReinforcementLearning
+
+Arlene036/CS188Proj3-Reinforcement-Learning: https://inst.eecs.berkeley.edu/~cs188/fa23/projects/proj3/
+https://github.com/Arlene036/CS188Proj3-Reinforcement-Learning
+
+Issue search results
+https://github.com/search?q=repo%3Arust-windowing%2Fwinit+ime&type=issues
+
+An Introduction to Speculative Optimization in V8
+https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8
+
+Steve Jobs - Thoughts on Flash - Thoughts-on-Flash.pdf
+https://newslang.ch/wp-content/uploads/2022/06/Thoughts-on-Flash.pdf
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
 # 2024-11-17
 
 makepad Analysis - Poe

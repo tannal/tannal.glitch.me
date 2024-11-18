@@ -1,3 +1,37 @@
+
+# issues
+
+// 常见崩溃场景
+- Docker 下 Rosetta2 翻译导致 Bun.serve 崩溃
+- 大数组字符串处理崩溃 (macOS ARM64)
+- CLI 命令调用次数过多导致崩溃
+- 测试运行时崩溃
+
+// Node.js API 兼容
+- setTimeout 缺少 promisify 实现
+- @elastic/elasticsearch 模块无法找到
+- eval() 堆栈跟踪不完整
+
+// 跨平台问题
+- Windows 特定问题
+- Linux kernel 6.5.0 段错误
+- macOS ARM64 问题
+
+// 核心功能问题
+- 文件变更未被检测
+- .env 文件在二进制运行时未加载
+- fetch 不正确处理 302/308 重定向
+- bunshell dirname 命令不工作
+
+// 构建相关
+- CSS 十六进制内容属性输出冗余字符
+- 单文件 exe 启动时终端窗口问题
+
+// 工具链问题
+- bun test 在入口点解析失败时返回 0
+- npm 命令支持不完整
+- Bun.inspect() 深度设置问题
+
 # issues tag
 
 bun.js - Bun 特定 API
