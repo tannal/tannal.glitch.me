@@ -1,6 +1,13 @@
 
 # 2024-11-17
 
+如果你對開源 IC 設計的 EDA 有興趣
+目前的狀況是
+1. Verilator ： Verilog 模擬測試
+2. Yosys: Verilog 寫完後直到燒錄 FPGA 的所有過程
+3. OpenRoad: 在 Yosys 工具後，接著到給晶圓廠的所有過程，也就是 Placement & Routing 的動作
+然後在瑞士蘇黎世理工 CROC 這個展示了整個開源 EDA 的串聯運作方式
+
 sudo apt-get install libjavascriptcoregtk-dev libwebkit2gtk-dev
 
 # 2024-11-14

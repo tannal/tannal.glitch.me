@@ -192,7 +192,7 @@ bun-debug
 ## gecko
 
 - On branch cookie-count
-
+git worktree add -b cookie-count ../gecko-cookie-main
 ./mach try fuzzy --stage-changes
 Differential Revision: https://phabricator.services.mozilla.com/D227349
 Bug 1924567 - Remove  r?emilio
