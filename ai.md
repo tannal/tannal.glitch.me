@@ -44,12 +44,38 @@ Business
 
 # inbox
 
+pre-training
+fine-tuning
+post-training x
+
+小型模型(125M-350M参数):
+- 模型参数: ~0.25-0.7GB
+- 优化器状态: ~0.5-1.4GB
+- 梯度: ~0.25-0.7GB
+- 激活值(batch=32): ~2-4GB
+总计: ~3-7GB
+
+中型模型(1.3B-2.7B参数):
+- 模型参数: ~2.6-5.4GB
+- 优化器状态: ~5.2-10.8GB
+- 梯度: ~2.6-5.4GB
+- 激活值(batch=16): ~6-10GB
+总计: ~16-32GB
+
+大型模型(6B-13B参数):
+- 模型参数: ~12-26GB
+- 优化器状态: ~24-52GB
+- 梯度: ~12-26GB
+- 激活值(batch=8): ~12-20GB
+总计: ~60-124GB
+
 文本：vLLM
 视觉：TorchServe + CLIP
 音频：Whisper + Triton
 视频：VideoMAE
 调度：Ray
 监控：Prometheus + Grafana
+
 10. 关键优化点：
 模态特定的批处理策略
 跨模态缓存机制

@@ -100,6 +100,12 @@ issue_labels = {
 
 # desktop
 
+## Parley
+
+## Xliem
+
+## Vello
+
 ## Simple
 
 
@@ -190,6 +196,12 @@ bun-debug
 Bug 1924567 - Remove  r?emilio
 
 Differential Revision: https://phabricator.services.mozilla.com/D225966
+
+TEST-UNEXPECTED-FAIL | toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_good.html | got no eviction event
+TEST-UNEXPECTED-FAIL | toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_bad.html | expected two cookies for host - 1 == 2 - got 1, expected 2 (operator ==)
+TEST-UNEXPECTED-FAIL | xpcshell.toml:toolkit/mozapps/extensions/test/xpcshell/test_sideloads_after_rebuild.js | xpcshell return code: 0
+TEST-UNEXPECTED-FAIL | devtools/client/responsive/test/browser/browser_touch_event_iframes.js | ID 24 - untranslated iframe with DPR 2 and path http://example.com/browser/devtools/client/responsive/test/browser/ got click at close enough X 52, screen is 732. - 52 == 100 -
+TEST-UNEXPECTED-FAIL | toolkit/components/resistfingerprinting/tests/browser/browser_service_worker_overrides.js | Timezone offset should be 420 in the service worker - Got 480, expected 420
 
 LazyLogModule
 [] fix failing tests
