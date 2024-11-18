@@ -192,6 +192,9 @@ bun-debug
 ## gecko
 
 - On branch cookie-count
+
+moz-phab submit --no-wip
+--jsdebugger
 git worktree add -b cookie-count ../gecko-cookie-main
 ./mach try fuzzy --stage-changes
 Differential Revision: https://phabricator.services.mozilla.com/D227349
