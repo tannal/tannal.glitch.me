@@ -1,7 +1,7 @@
 
 # 2024-11-17
 
-
+sudo apt-get install libjavascriptcoregtk-dev libwebkit2gtk-dev
 
 # 2024-11-14
 
