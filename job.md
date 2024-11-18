@@ -568,11 +568,31 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-30 - 2025-1-6
 # 2024-12-23 - 2024-12-30
-# 2024-12-16 - 2024-12-23
-# 2024-12-9 - 2024-12-16
-# 2024-12-2 - 2024-12-9
-# 2024-11-25 - 2024-12-2
-# 2024-11-18 - 2024-11-25
+# 2024-12-16 - 2024-12-23 16
+# 2024-12-9 - 2024-12-16 15
+# 2024-12-2 - 2024-12-9 14
+# 2024-11-25 - 2024-12-2 13
+# 2024-11-18 - 2024-11-25 12
+
+[] update cv apply
+[] jsengine tc39 tests ecmascript bun JavaScriptCore
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
+## Short Term Goal (one year)
+
+[] 50/800 20/700 achievements/commits
+[] 2025 4/ GSOC zulip rust llvm
+[] 2025 4/ sing
+[] 2025 1/ JavaScript Engine Engineer language / Compiler Team
+
+## Long Term Goal (three years & five years & ten years)
+
+[] chinese english japanese koera
+[] artists content maker
+
 # 2024-11-11 - 2024-11-18
 
 [] update cv apply
