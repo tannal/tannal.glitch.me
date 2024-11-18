@@ -193,6 +193,8 @@ bun-debug
 
 - On branch cookie-count
 
+./mach try fuzzy --stage-changes
+Differential Revision: https://phabricator.services.mozilla.com/D227349
 Bug 1924567 - Remove  r?emilio
 
 Differential Revision: https://phabricator.services.mozilla.com/D225966

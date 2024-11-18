@@ -130,6 +130,270 @@ http://192.168.43.246:3000/prosemirror/prosemirror.html
 收件箱 - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+cs188 reinforcement learning github - Google 搜索
+https://www.google.com/search?q=cs188+reinforcement+learning+github&client=ubuntu-sn&hs=efF&sca_esv=64f8529f49f92281&channel=fs&sxsrf=ADLYWILMi5Utq_f0nv9ZwzMfAjNc3DTq6g%3A1731892611271&ei=g5U6Z9ScEJOevr0PzJvBkQs&oq=cs188+pacman+reinforce+learning+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiJmNzMTg4IHBhY21hbiByZWluZm9yY2UgbGVhcm5pbmcgZ2l0aHViKgIIADIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iLCVAAWABwAXgAkAEAmAG6AaABugGqAQMwLjG4AQHIAQCYAgGgAgaYAwCIBgGQBgqSBwExoAe5Bg&sclient=gws-wiz-serp
+
+Repository search results
+https://github.com/search?q=cs188+reinforcement+learning+&type=repositories&s=updated&o=desc
+
+WendyamSawadogo/Pacman-UC_Berkeley-Cs188-ReinforcementLearning
+https://github.com/WendyamSawadogo/Pacman-UC_Berkeley-Cs188-ReinforcementLearning
+
+Gururaj29/UC-Berkeley-Pacman-AI: This project implements various AI techniques for controlling Pac-Man agents, developed as part of UC Berkeley's CS188 Intro to AI course. It explores search algorithms, neural networks, Markov Decision Process (MDP) and reinforcement learning in a simulated environment.
+https://github.com/Gururaj29/UC-Berkeley-Pacman-AI
+
+Project 1 | CS 188 Fall 2024
+https://inst.eecs.berkeley.edu/~cs188/fa24/projects/proj1/#q1-3-pts-finding-a-fixed-food-dot-using-depth-first-search-lecture-2
+
+Discover — Bluesky
+https://bsky.app/
+
+GitHub Receipt
+https://gitreceipt.vercel.app/
+
+[2] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+chore(console.dir): added jsdoc by arthurvanl · Pull Request #14923 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/14923
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+Breakpoints are being hit at unexpected locations when using Bun for debugging · Issue #15131 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15131
+
+setTimeout hasn't promisify implementation · Issue #15201 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15201
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2FWebKit%20JSTimeout&type=code
+
+rewrite timers for setTimeout, setInterval, setImmediate by Jarred-Sumner · Pull Request #11419 · oven-sh/bun
+https://github.com/oven-sh/bun/pull/11419
+
+javascript - What does Promisify do? - Stack Overflow
+https://stackoverflow.com/questions/53239200/what-does-promisify-do
+
+Issues · denoland/deno
+https://github.com/denoland/deno/issues?q=is%3Aissue+is%3Aopen+promisify
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+(96) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+open-ui/meetings/telecon/2024-11-14.md at main · openui/open-ui
+https://github.com/openui/open-ui/blob/main/meetings/telecon/2024-11-14.md
+
+vaivaswatha/debugir: DebugIR: Debugging LLVM-IR Files
+https://github.com/vaivaswatha/debugir
+
+Naming - Rust API Guidelines
+https://rust-lang.github.io/api-guidelines/naming.html#getter-names-follow-rust-convention-c-getter
+
+Vaivaswatha's Homepage
+https://www.puttu.net/
+
+nodejs-modules（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C01810KG1EF
+
+kepler.gl
+https://kepler.gl/demo
+
+[59] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [46] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537c36f50025d4cf8&selectedTaskRun=AQ3Rqw1NRKOyVaraQGTDFw.0
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=TtwhF3plR1C5zJvXn1Pg-w.0
+
+Element [1] | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Issues · tc39/test262
+https://github.com/tc39/test262/issues
+
+Need to add test for ECMA402 PR #724 · Issue #4327 · tc39/test262
+https://github.com/tc39/test262/issues/4327
+
+Test262 Maintainers Call Agenda - Google 文档
+https://docs.google.com/document/d/1JRG6FeYmZIievBPpAdvJjDhfsEjRrdzsFPTYG86KSmM/edit?tab=t.0
+
+Boshen Chen - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Boshen+Chen
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+eth croc - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=eth+croc
+
+D227349: Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJswdRgXMMnJpmKTfGNpzzJnB
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712#issuecomment-2471535775
+
+test_eviction.js - mozsearch
+https://searchfox.org/mozilla-central/source/netwerk/cookie/test/unit/test_eviction.js#108
+
+TCP sockets – API | Bun Docs
+https://bun.sh/docs/api/tcp
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Login successful |
+https://auth.mozilla.auth0.com/device/success
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 Pretraining (with CPUs) · Issue #660 · karpathy/llm.c
 https://github.com/karpathy/llm.c/issues/660
 
