@@ -1,4 +1,372 @@
 
+# 2024-11-19
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+(99) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+nodejs-modules（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C01810KG1EF
+
+[1514] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [46] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537c36f50025d4cf8&selectedTaskRun=AQ3Rqw1NRKOyVaraQGTDFw.0
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=ewy6wYjBTCOOZkJl8zyYBg.0
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+Element [1] | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712#issuecomment-2471535775
+
+test_eviction.js - mozsearch
+https://searchfox.org/mozilla-central/source/netwerk/cookie/test/unit/test_eviction.js#108
+
+100% - [0] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=39fd95db8b1beb23ba4df81d01239cc545548ede
+
+What is Bun? | Bun Docs
+https://bun.sh/docs
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+ETHZ ASL
+https://github.com/ethz-asl
+
+Advanced Machine Learning
+https://ml2.inf.ethz.ch/courses/aml/
+
+Advanced Systems Lab - Spring 2024
+https://acl.inf.ethz.ch/teaching/fastcode/2024/
+
+begeli/advanced-systems-lab-project: The term project for ETH Zürich Advanced Systems Lab. The aim of the project is to implement, optimize and analyze numerical problems. This project optimizes Gilbert-Johnson-Keerthi (GJK) and Bounding Volume Hierarchy (BVH) algorithms which are collision detection algorithms.
+https://github.com/begeli/advanced-systems-lab-project
+
+Brass instrument simulation.pdf
+https://acl.inf.ethz.ch/teaching/fastcode/2024/project/project%20ideas/Brass%20instrument%20simulation.pdf
+
+How to Write Fast Numerical Code - 10-linear-algebra-MMM.pdf
+https://acl.inf.ethz.ch/teaching/fastcode/2024/slides/10-linear-algebra-MMM.pdf
+
+pulp-platform/croc: A PULP SoC for education, easy to understand and extend with a full flow for a physical design.
+https://github.com/pulp-platform/croc
+
+open-ic repositories
+https://github.com/orgs/open-ic/repositories
+
+Industry Academia Collaborations on Open-Source Hardware - phsauter_coscup24.pdf
+https://pulp-platform.org/docs/coscup2024/phsauter_coscup24.pdf
+
+lowRISC/ibex: Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.
+https://github.com/lowRISC/ibex
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+Mochitest — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/testing/mochitest-plain/index.html
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1870091
+
+User Profile: Sean Kim <sekim@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=753926
+
+1918733 - `range.getBoundingClientRect()` has 0 width/height for `content-visibility: hidden`
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918733
+
+An Overview of Gecko Layout - YouTube
+https://www.youtube.com/watch?v=SyUBuio_ooE
+
+Cameron McCormack graphics - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Cameron+McCormack+graphics
+
+cameron mccormack graphics - Google 搜索
+https://www.google.com/search?q=cameron+mccormack+graphics&client=ubuntu-sn&hs=nDR&sca_esv=2da04da2b3fed0e0&channel=fs&sxsrf=ADLYWIL9L4cElNvLvlevN2q9UfohFjwh-A%3A1731937012995&ei=9EI7Z42zPPup0-kP_6r74Ag&oq=Cameron+McCormack&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUNhbWVyb24gTWNDb3JtYWNrKgIIADIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jbB1AAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIDmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+heycam (Cameron McCormack)
+https://github.com/heycam
+
+An Overview of webkit layout youtube - Google 搜索
+https://www.google.com/search?q=An+Overview+of+webkit+layout+youtube&client=ubuntu-sn&hs=Kb6&sca_esv=2da04da2b3fed0e0&channel=fs&sxsrf=ADLYWIIIQhCpV6A0HtXPaPNggukHGPIUTw%3A1731937193235&ei=qUM7Z_byDYPQ2roPjNaYqA8&ved=0ahUKEwi267PpgOaJAxUDqFYBHQwrBvUQ4dUDCA8&uact=5&oq=An+Overview+of+webkit+layout+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiJEFuIE92ZXJ2aWV3IG9mIHdlYmtpdCBsYXlvdXQgeW91dHViZTIHECEYoAEYCkiRDVDcBFiODHABeAGQAQCYAZICoAG_DKoBAzItN7gBA8gBAPgBAZgCCKAC0gzCAgoQABiwAxjWBBhHwgIFECEYoAGYAwCIBgGQBgGSBwUxLjAuN6AHuA8&sclient=gws-wiz-serp
+
+Linux.conf.au 2013 -- Canberra, Australia - YouTube
+https://www.youtube.com/@linuxconfau2013/videos
+
+dirkschulze (Dirk Schulze)
+https://github.com/dirkschulze
+
+Blog | Dirk Schulze
+https://blog.dschulze.com/
+
+webkit layout youtube - Google 搜索
+https://www.google.com/search?q=webkit+layout+youtube&client=ubuntu-sn&sca_esv=2da04da2b3fed0e0&channel=fs&sxsrf=ADLYWILxsbUpY8zyrVMYc_3ah4_B4anqwg:1731937850738&ei=OkY7Z-veLLXf2roPmKGKgA8&start=30&sa=N&sstk=ATObxK5X-ExbkNuwy5yBBPm82uHwr_cwr0uHTUw3c7HgRglEBrEz87aS0sR7E3quGEW99ZapFUpyM3cBe-w58ipDtXroZJwnEvFCIqTeFDMspyeVKExVZPp_3sH_CZHFsJQqLdCJhKsltIaNP_OHP9PIPtzUlu-ffPw&ved=2ahUKEwjr4_aig-aJAxW1r1YBHZiQAvA4FBDy0wN6BAgKEAk&biw=1850&bih=968&dpr=1
+
+How to render in WebKit - YouTube
+https://www.youtube.com/watch?v=RVnARGhhs9w
+
+Discover — Bluesky
+https://bsky.app/
+
+flutterfx/flutterfx_widgets: Collection of animated flutter widgets for busy flutter developers. Copy paste into your app!
+https://github.com/flutterfx/flutterfx_widgets
+
+Which accounts should we have? · Issue #1 · nodejs/bluesky
+https://github.com/nodejs/bluesky/issues/1
+
+Discover — Bluesky
+https://bsky.app/
+
+guts of WebKit - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=guts+of+WebKit
+
+The webkit-dev November 2009 Archive by thread
+https://lists.webkit.org/pipermail/webkit-dev/2009-November/thread.html
+
+squelart (Gerald Squelart)
+https://github.com/squelart
+
+Tangent Spaces | Programming, cats, random stuff
+https://tangentspaces.com/
+
+Developing Mozilla C++ code with clangd and VSCode – There's Waldo!
+https://botondballo.wordpress.com/2019/12/02/developing-mozilla-c-code-with-clangd-and-vscode/
+
+factorio - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=factorio
+
+VLSI Lynn Conway - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=VLSI+Lynn+Conway
+
+pizlonator
+https://github.com/pizlonator
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+ChibiHash: Small, Fast 64 bit hash function
+https://nrk.neocities.org/articles/chibihash
+
+Interview contributors and post them on the blog · Issue #68 · servo/servo.org
+https://github.com/servo/servo.org/issues/68
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+test_ext_cookies_permissions_good.html - mozsearch
+https://searchfox.org/mozilla-central/rev/6d5be71ac78856ab388a1a5a923c666080f61e6a/toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_good.html#22-23
+
+test_ext_cookies_permissions_bad.html - mozsearch
+https://searchfox.org/mozilla-central/rev/6d5be71ac78856ab388a1a5a923c666080f61e6a/toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_bad.html#22-23
+
+test_ext_cookies_permissions_good.html - mozsearch
+https://searchfox.org/mozilla-central/rev/6d5be71ac78856ab388a1a5a923c666080f61e6a/toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_good.html#22-23
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#7932888
+
+test_ext_cookies_permissions_good.html - mozsearch
+https://searchfox.org/mozilla-central/rev/6d5be71ac78856ab388a1a5a923c666080f61e6a/toolkit/components/extensions/test/mochitest/test_ext_cookies_permissions_good.html#22-23
+
+javascript - Cookies is get evicted on new key insert - Stack Overflow
+https://stackoverflow.com/questions/50715495/cookies-is-get-evicted-on-new-key-insert
+
+Storage Standard
+https://storage.spec.whatwg.org/
+
+quotaPerHost - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=quotaPerHost
+
+⚙ D3342 Bug 1357676 - Implement batch eviction
+https://phabricator.services.mozilla.com/D3342
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+High-Performance Software Rasterization on GPUs - laine2011hpg_paper.pdf
+https://research.nvidia.com/sites/default/files/pubs/2011-08_High-Performance-Software-Rasterization/laine2011hpg_paper.pdf
+
+MSAA16 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=MSAA16
+
+fine rasterization - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=fine+rasterization
+
+Confusing warning in "rasterize_coarse.cu" · Issue #1064 · facebookresearch/pytorch3d
+https://github.com/facebookresearch/pytorch3d/issues/1064
+
+cudaraster - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cudaraster
+
+TagMonoid - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=TagMonoid
+
+src/gpu/graphite/compute/VelloRenderer.cpp - skia - Git at Google
+https://skia.googlesource.com/skia/+/2e551697dc56/src/gpu/graphite/compute/VelloRenderer.cpp?autodive=0%2F%2F%2F%2F%2F
+
+Floating-Point Numbers - Algorithmica
+https://en.algorithmica.org/hpc/arithmetic/float/
+
+sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware"
+https://github.com/sslotin/amh-code
+
 # 2024-11-18
 
 Yjs Monaco Example
