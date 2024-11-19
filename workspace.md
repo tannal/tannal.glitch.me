@@ -271,6 +271,18 @@ https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537
 
 ## WebKit
 
+export PATH=/opt/llvm-17/bin:$PATH
+export CC=clang
+export CXX=clang++
+Tools/Scripts/build-jsc --jsc-only --debug
+
+set disassembly-flavor intel
+
+llint_op_mov
+llint_op_stricteq
+slow_path_stricteq
+
+
 - [] Implment WASM Relaxed SIMD proposal
 Air BBQ B3
 [] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub

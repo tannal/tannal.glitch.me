@@ -65,6 +65,10 @@ Canonical link: https://commits.webkit.org/283855@main
 Tools/Scripts/build-webkit --debug --jsc-only --fuse-ld=mold
 
 https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=fantasai.bugs%40inkedblade.net&emailassigned_to1=1&emailreporter1=1&emailtype1=substring&list_id=11573322&query_format=advanced
+export PATH=/opt/llvm-17/bin:$PATH
+export CC=clang
+export CXX=clang++
+Tools/Scripts/build-jsc --jsc-only --debug
 
 export PATH=/opt/llvm/bin:$PATH
 export CC=clang
