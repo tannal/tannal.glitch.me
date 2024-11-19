@@ -127,6 +127,246 @@ https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-t
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
+speculative optimization - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=speculative+optimization+
+
+Speculation in JavaScriptCore | WebKit
+https://webkit.org/blog/10308/speculation-in-javascriptcore/
+
+speculation in jsc - pizlo-speculation-in-jsc-slides.pdf
+http://www.filpizlo.com/slides/pizlo-speculation-in-jsc-slides.pdf
+
+Correctness of Speculative Optimizations with Dynamic Deoptimization - 1711.03050v2.pdf
+https://arxiv.org/pdf/1711.03050
+
+dan: "still trying to chase down Android choppy feed scrolling. added some instrumentation to the app — using React profiling builds and <Profiler> to track long render phases. we *do* have long tasks (presumably rendering offscreen story items as you scroll) but they’re on the JS thread. so why stutter?" — Bluesky
+https://bsky.app/profile/danabra.mov/post/3lbbcxa6zu22g
+
+Add Profiler build for Android by gaearon · Pull Request #6510 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/pull/6510/files
+
+Code search results
+https://github.com/search?q=repo%3Aoven-sh%2Fbun+mmsghdr&type=code
+
+i3wm - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=i3wm
+
+data flow graph in webkit - Google 搜索
+https://www.google.com/search?q=data+flow+graph+in+webkit&client=ubuntu-sn&hs=631&sca_esv=8e300a61fb8ea468&channel=fs&sxsrf=ADLYWIIRkuA2KE8Fy7PT9IotHVQadQ_YDA%3A1731999197770&ei=3TU8Z-ngLoHp1e8P2d6KoQg&ved=0ahUKEwipw7zn5-eJAxWBdPUHHVmvIoQQ4dUDCA8&uact=5&oq=data+flow+graph+in+webkit&gs_lp=Egxnd3Mtd2l6LXNlcnAiGWRhdGEgZmxvdyBncmFwaCBpbiB3ZWJraXQyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGAoyBxAhGKABGApIqVJQ0jBYuVFwAXgBkAEAmAGmAqAB6iqqAQQyLTIzuAEDyAEA-AEBmAIYoAKALMICChAAGLADGNYEGEfCAgoQIxiABBgnGIoFwgIMECMYgAQYExgnGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgQQIxgnwgIOEC4YgAQYxwEYjgUYrwHCAgUQLhiABMICCBAAGIAEGMsBwgIOEC4YgAQY0QMYxwEYywHCAgcQIxixAhgnwgIQEC4YgAQY0QMYxwEYChjLAcICChAAGIAEGAoYywHCAh8QLhiABBjRAxjHARgKGMsBGJcFGNwEGN4EGOAE2AEBwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgm6BgYIARABGBSSBwYxLjAuMjOgB8p2&sclient=gws-wiz-serp
+
+JavaScriptCore Internals Part II: The LLInt and Baseline JIT :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/
+
+entry_address.png (PNG Image, 1344 × 1014 pixels) — Scaled (95%)
+https://zon8.re/images/jsc-part2/entry_address.png
+
+WebKit/Source/JavaScriptCore/jit/JIT.cpp at b7e84a4224b3934868bc08f5c89b583355a6c87a · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/b7e84a4224b3934868bc08f5c89b583355a6c87a/Source/JavaScriptCore/jit/JIT.cpp#L54
+
+WebKit/Source/JavaScriptCore/jit/JIT.cpp at b7e84a4224b3934868bc08f5c89b583355a6c87a · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/b7e84a4224b3934868bc08f5c89b583355a6c87a/Source/JavaScriptCore/jit/JIT.cpp#L402
+
+WebKit/Source/JavaScriptCore/jit/JIT.cpp at b7e84a4224b3934868bc08f5c89b583355a6c87a · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/b7e84a4224b3934868bc08f5c89b583355a6c87a/Source/JavaScriptCore/jit/JIT.cpp#L980
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+Rough draft of hyperbezier blog post by raphlinus · Pull Request #111 · raphlinus/raphlinus.github.io
+https://github.com/raphlinus/raphlinus.github.io/pull/111
+
+Looking for a 'cmake clean' command to clear up CMake output - Stack Overflow
+https://stackoverflow.com/questions/9680420/looking-for-a-cmake-clean-command-to-clear-up-cmake-output
+
+ccache clear - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=ccache+clear
+
+How do I scroll in tmux? - Super User
+https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
+
+Discover — Bluesky
+https://bsky.app/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+草稿 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#drafts?compose=CllgCJvkXKlKFwvgWplJtgrGMhFkcVVNjKbtmcLpWCCVRpnknXvtLVkzjRCwGKGMXgtQzbLRQzg
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+expo-image-loader - Packages
+https://jsr.io/packages?search=expo-image-loader
+
+JavaScriptCore Internals Part III: The DFG (Data Flow Graph) JIT -- Graph Building :: Zon8 Research — Vulnerability research journal.
+https://zon8.re/posts/jsc-part3-the-dfg-jit-graph-building/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(100) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+nodejs-modules（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C01810KG1EF
+
+[1997] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=ewy6wYjBTCOOZkJl8zyYBg.0
+
+Element | Helix
+https://app.element.io/#/room/#helix-editor:matrix.org
+
+flutterfx/flutterfx_widgets: Collection of animated flutter widgets for busy flutter developers. Copy paste into your app!
+https://github.com/flutterfx/flutterfx_widgets
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+src/gpu/graphite/compute/VelloRenderer.cpp - skia - Git at Google
+https://skia.googlesource.com/skia/+/2e551697dc56/src/gpu/graphite/compute/VelloRenderer.cpp?autodive=0%2F%2F%2F%2F%2F
+
+Stages of Compilation - Algorithmica
+https://en.algorithmica.org/hpc/compilation/stages/
+
+sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware"
+https://github.com/sslotin/amh-code
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 

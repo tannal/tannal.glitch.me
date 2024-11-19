@@ -138,6 +138,9 @@ bun install
 
 ## node-new
 
+https://github.com/nodejs/node/issues/55782
+https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hooks.md
+
 ## jitsi-meet
 
 #errors_common_system_errors)
