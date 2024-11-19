@@ -152,6 +152,10 @@ tannal@desktop:~/tannalwork/projects/jitsi-meet$
 
 ## bun
 
+git bisect start
+git bisect bad
+git bisect good <commit-hash>
+
 https://github.com/oven-sh/bun/pull/11917
 
 fetch] handleResponseMetadata: content_length is null and transfer_encoding src.http.Encoding.identity
