@@ -102,6 +102,23 @@ issue_labels = {
 
 # desktop
 
+## Typst
+
+typst to html
+https://github.com/typst/typst/issues/721
+
+insert pdf as figures
+https://github.com/typst/typst/issues/145
+
+booklet printing
+https://github.com/typst/typst/issues/5092
+
+WebAssembly 插件系统 (最终采用):
+// 定义清晰的插件 API
+// 插件可以是完全封装的(只能计算)或更危险的(可以做更多事情)
+// 通过 WebAssembly 限制插件能力
+// 可以与其他选项组合使用
+
 ## Parley
 
 ## Xliem
@@ -285,6 +302,8 @@ export CC=clang
 export CXX=clang++
 Tools/Scripts/build-jsc --jsc-only --debug
 
+
+
 set disassembly-flavor intel
 
 llint_op_mov
@@ -298,6 +317,7 @@ Air BBQ B3
 see https://github.com/WebKit/WebKit/pull/14937/files
 https://github.com/WebAssembly/relaxed-simd/issues/27
 https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+
 tannal@desktop:~/tannalwork/projects/webkit-wasm-relaxed-min-max$ ./WebKitBuild/JSCOnly/Debug/bin/jsc --module-file=JSTests/wasm/stress/simd-const-relaxed-f32-min-max.js
 WARNING: Not running inside JSC test harness
 WARNING: Not running inside JSC test harness
@@ -305,6 +325,9 @@ Test failed with exception:  CompileError: WebAssembly.Module doesn't parse at b
 Module@[native code]
 @/home/tannal/tannalwork/projects/webkit-wasm-relaxed-min-max/JSTests/wasm/wabt-wrapper.js:16:34
 object
+
+wat2wasm test.wat --enable-relaxed-simd
+
 
 - []
 
