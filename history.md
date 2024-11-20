@@ -1,4 +1,414 @@
 
+# 2024-11-20
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Contributors to flutter/flutter
+https://github.com/flutter/flutter/graphs/contributors?from=11%2F19%2F2022
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com&pli=1
+
+Discover — Bluesky
+https://bsky.app/
+
+Node.js Loaders Team Meeting 2024-11-19 · Issue #236 · nodejs/loaders
+https://github.com/nodejs/loaders/issues/236
+
+Node.js Loaders Team Meeting 2024-11-19 - Google 文档
+https://docs.google.com/document/d/1YmF3w-1MBsYa1LdzN3_wiF-3D28aVcP-sDvDTJ2X_gs/edit?tab=t.0
+
+藤井風 - YouTube
+https://www.youtube.com/results?search_query=%E8%97%A4%E4%BA%95%E9%A2%A8
+
+blog-post-architecture.webp (WEBP Image, 774 × 353 pixels)
+https://hacks.mozilla.org/wp-content/uploads/2020/06/blog-post-architecture.png
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
+
+Improve the layout of the log in page (/go). by VANSH3104 · Pull Request #32243 · zulip/zulip
+https://github.com/zulip/zulip
+
+Contributing guide — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html
+
+jitsi/jitsi-meet: Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+https://github.com/jitsi/jitsi-meet
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+ladybird/Documentation/GettingStartedContributing.md at master · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/GettingStartedContributing.md
+
+Laying Out Pages | Web Browser Engineering
+https://browser.engineering/layout.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=psychopath&op=translate
+
+Issue search results
+https://github.com/search?q=author%3Ableroux&type=issues
+
+aosp-main | Branch Grid
+https://ci.android.com/builds/branches/aosp-main/grid?legacy=1
+
+Projects | LUCI
+https://ci.chromium.org/ui/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cs188 pacman deep q learning refeiment - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cs188+pacman+deep+q+learning+refeiment
+
+CS 188 Fall 2024 | Introduction to Artificial Intelligence at UC Berkeley
+https://inst.eecs.berkeley.edu/~cs188/fa24/
+
+cs188-fa24-lec10.pdf
+https://inst.eecs.berkeley.edu/~cs188/fa24/assets/lectures/cs188-fa24-lec10.pdf
+
+cs188-fa24-lec11.pdf
+https://inst.eecs.berkeley.edu/~cs188/fa24/assets/lectures/cs188-fa24-lec11.pdf
+
+GitHub
+https://github.com/
+
+lm-human-preferences/lm_human_preferences/policy.py at cbfd210bb8b08f6bc5c26878c10984b90f516c66 · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/cbfd210bb8b08f6bc5c26878c10984b90f516c66/lm_human_preferences/policy.py
+
+Fine-Tuning Language Models from Human Preferences - 1909.08593v2.pdf
+https://arxiv.org/pdf/1909.08593
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+adobe 2d graphics - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=adobe+2d+graphics
+
+Adobe Research » Publications
+https://research.adobe.com/publications/page/14/?research-area=2d-3d-graphics
+
+Painting_with_Texture_electronic.pdf
+https://grail.cs.washington.edu/projects/painting-with-texture/media/Painting_with_Texture_electronic.pdf
+
+A lightweight, procedural, vector watercolor painting engine | Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games
+https://dl.acm.org/doi/10.1145/2159616.2159627#core-collateral-purchase-access
+
+Sci-Hub | [ACM Press the ACM SIGGRAPH Symposium - Costa Mesa, California (2012.03.09-2012.03.11)] Proceedings of the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games - I3D '12 - A lightweight, procedural, vector watercolor painting engine | 10.1145/2159616.2159627
+https://sci-hub.vkif.top/10.1145/2159616.2159627
+
+Discover — Bluesky
+https://bsky.app/
+
+State of JavaScript 2024
+https://survey.devographics.com/en-US/survey/state-of-js/2024?source=theo_bluesky
+
+adobe 2d graphics engine youtube - Google 搜索
+https://www.google.com/search?q=adobe+2d+graphics+engine+youtube&client=ubuntu-sn&hs=39I&sca_esv=7fc9e9e0d3593017&channel=fs&sxsrf=ADLYWILncgkTRofsQbWd0xPmL7ZstIbNnA:1732064908242&ei=jDY9Z_W4DuCl2roP7tTcyAs&start=10&sa=N&sstk=ATObxK5MYC6wEz1JzQbwxrYDtRESMjS3L7SBri3-cROuoVnWrE3W8oS16suvzDUiCKj6YocH4rLOxvaFszKzf9OAVJImE4ZjQ5_-qg&ved=2ahUKEwj1rtXM3OmJAxXgklYBHW4qF7kQ8tMDegQICRAE&biw=1850&bih=968&dpr=1
+
+Ken Perlin - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Ken+Perlin+
+
+15-463, 15-663, 15-862 Computational photography, Fall 2024
+http://graphics.cs.cmu.edu/courses/15-463/
+
+Digital photography - lecture_02.pdf
+http://graphics.cs.cmu.edu/courses/15-463/lectures/lecture_02.pdf
+
+keithp.com
+https://keithp.com/
+
+Carl Worth - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Carl+Worth
+
+Ghostscript - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Ghostscript
+
+bgfx/src at master · bkaradzic/bgfx
+https://github.com/bkaradzic/bgfx/tree/master/src
+
+Examples — bgfx 1.128.8816 documentation
+https://bkaradzic.github.io/bgfx/examples.html
+
+Site not found · GitHub Pages
+http://atilimcetin.com/
+
+Hello React Native Skia - YouTube
+https://www.youtube.com/watch?v=EHxEX78alZE
+
+nightelf3/FirstSkiaApp
+https://github.com/nightelf3/FirstSkiaApp
+
+React Native Skia | React Native Skia
+https://shopify.github.io/react-native-skia/
+
+Shopify/react-native-skia: High-performance React Native Graphics using Skia
+https://github.com/shopify/react-native-skia
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345#7937371
+
+nsHttpHandler.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/6050bf4eca89956c9d91bfd89fa59294ae32a689/netwerk/protocol/http/nsHttpHandler.cpp#1566-1569
+
+libpref — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/modules/libpref/index.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(116) Discord | #research | TPU Podcast
+https://discord.com/channels/687504710118146232/688839488138510463
+
+* nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+Tracking Issue: Syncify the ESM Loader · Issue #55782 · nodejs/node
+https://github.com/nodejs/node/issues/55782
+
+loaders/doc/design/proposal-synchronous-hooks.md at main · nodejs/loaders
+https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hooks.md
+
+implement module.registerHooks() to run synchronous module customization hooks in thread by joyeecheung · Pull Request #55698 · nodejs/node
+https://github.com/nodejs/node/pull/55698/files#diff-91086bbfa41550d2f4023b7284c8e4ec048511e3380195daa455898437654f6a
+
+[1997] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=ewy6wYjBTCOOZkJl8zyYBg.0
+
+Element [1] | Helix
+https://app.element.io/#/room/#helix-editor:matrix.org
+
+flutterfx/flutterfx_widgets: Collection of animated flutter widgets for busy flutter developers. Copy paste into your app!
+https://github.com/flutterfx/flutterfx_widgets
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+src/gpu/graphite/compute/VelloRenderer.cpp - skia - Git at Google
+https://skia.googlesource.com/skia/+/2e551697dc56/src/gpu/graphite/compute/VelloRenderer.cpp?autodive=0%2F%2F%2F%2F%2F
+
+Stages of Compilation - Algorithmica
+https://en.algorithmica.org/hpc/compilation/stages/
+
+sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware"
+https://github.com/sslotin/amh-code
+
+Pull requests · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/pulls
+
+lm-human-preferences/lm_human_preferences/label_types.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/label_types.py
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9#issuecomment-544981110
+
+The Bottomless Tune Box - YouTube
+https://www.youtube.com/@thebottomlesstunebox4646/streams
+
+Making sense of the folk-rnn v2 model, part 12 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/08/21/making-sense-of-the-folk-rnn-v2-model-part-12/
+
+Making sense of the folk-rnn v2 model, part 1 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2017/12/27/making-sense-of-the-folk-rnn-v2-model-part-1/
+
+Making sense of the folk-rnn v2 model, part 2 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2017/12/28/making-sense-of-the-folk-rnn-v2-model-part-2/
+
+softmax_layer_specificvectorsdifferences2.png (PNG Image, 3000 × 1050 pixels) — Scaled (61%)
+https://highnoongmt.wordpress.com/wp-content/uploads/2017/12/softmax_layer_specificvectorsdifferences2.png
+
+amplitude - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=amplitude
+
+Problem loading page
+http://10.106.146.44:8081/
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#generating-midi-with-10k30k-context-windows
+
+Interacting with GPT-2 to Generate Controlled and Believable Musical Sequences in ABC Notation - 2020-geerlings.pdf
+https://gwern.net/doc/ai/music/2020-geerlings.pdf
+
+Generating Piano Music with Transformer
+https://magenta.tensorflow.org/piano-transformer
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music
+
+Site not found · GitHub Pages
+https://lvwerra.github.io/trl/
+
+huggingface/trl: Train transformer language models with reinforcement learning.
+https://github.com/huggingface/trl
+
+Research Ideas · Gwern.net
+https://gwern.net/idea
+
+Stream Shawn Presser | Listen to AI-generated Videogame Music playlist online for free on SoundCloud
+https://soundcloud.com/theshawwn/sets/ai-generated-videogame-music
+
+D229345: Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKMzjVHlwrdNNJKnpPRbddRXt
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345#7937371
+
+m:n:nsHttpHandler::PrefsChanged (nsHttpHandler.cpp - mozsearch)
+https://searchfox.org/mozilla-central/rev/6050bf4eca89956c9d91bfd89fa59294ae32a689/netwerk/protocol/http/nsHttpHandler.cpp#1566-1569
+
 # 2024-11-19
 
 Yjs Monaco Example

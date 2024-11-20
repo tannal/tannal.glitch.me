@@ -140,6 +140,9 @@ bun install
 
 ## node-new
 
+https://github.com/nodejs/node/pull/55698/files#diff-5b5902273122e094ff474fda358605ffa45a4a58b51cd0bf4c1acb93779df142
+
+
 https://github.com/nodejs/node/issues/55782
 https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hooks.md
 
