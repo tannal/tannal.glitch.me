@@ -127,6 +127,336 @@ https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-t
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
+karpathy/llm.c at llama3
+https://github.com/karpathy/llm.c/tree/llama3
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+google/re2: RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+https://github.com/google/re2
+
+A New RegExp Engine in SpiderMonkey - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/
+
+An additional non-backtracking RegExp engine · V8
+https://v8.dev/blog/non-backtracking-regexp
+
+Chromium Blog: Irregexp, Google Chrome's New Regexp Implementation
+https://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html
+
+rust-lang/regex: An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+https://github.com/rust-lang/regex
+
+787. K 站中转内最便宜的航班 - 力扣（LeetCode）
+https://leetcode.cn/problems/cheapest-flights-within-k-stops/
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+`deno install`
+https://docs.deno.com/runtime/reference/cli/install/
+
+Martin E. Bidlingmaier
+https://www.mbid.me/
+
+Type Checking with Eqlog: Parsing
+https://www.mbid.me/posts/type-checking-with-eqlog-parsing/
+
+webkit regex - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=webkit+regex
+
+LiveOverflow - YouTube
+https://www.youtube.com/@LiveOverflow/featured
+
+LinusHenze/WebKit-RegEx-Exploit
+https://github.com/LinusHenze/WebKit-RegEx-Exploit
+
+ashinn/irregex: Portable Efficient IrRegular Expressions for Scheme
+https://github.com/ashinn/irregex
+
+Compiler Compiler - Part 3: Debugging SpiderMonkey continued - YouTube
+https://www.youtube.com/watch?v=DZ0cvTiHcf8
+
+The Fil-C Manifesto: Garbage In, Memory Safety Out | Hacker News
+https://news.ycombinator.com/item?id=39449500
+
+good mozilla deal - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=good+mozilla+deal
+
+Servo Benchmarking Report (November 2024) · servo/servo Wiki
+https://github.com/servo/servo/wiki/Servo-Benchmarking-Report-(November-2024)
+
+test262.fyi/site at main · test262-fyi/test262.fyi
+https://github.com/test262-fyi/test262.fyi/tree/main/site
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&s=updated&o=desc
+
+kumatheworld/kurose-ross-solutions: My exercise solutions to Computer Networking: A Top-Down Approach, 8th edition by Jim Kurose and Keith Ross
+https://github.com/kumatheworld/kurose-ross-solutions
+
+Typst 0.12 is just ... better | Lobsters
+https://lobste.rs/s/xbknvr/typst_0_12_is_just_better
+
+Issue search results
+https://github.com/search?q=org%3Atypst+accessibility&type=issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(117) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+Tracking Issue: Syncify the ESM Loader · Issue #55782 · nodejs/node
+https://github.com/nodejs/node/issues/55782
+
+loaders/doc/design/proposal-synchronous-hooks.md at main · nodejs/loaders
+https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hooks.md
+
+implement module.registerHooks() to run synchronous module customization hooks in thread by joyeecheung · Pull Request #55698 · nodejs/node
+https://github.com/nodejs/node/pull/55698/files#diff-5b5902273122e094ff474fda358605ffa45a4a58b51cd0bf4c1acb93779df142
+
+[1997] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=ewy6wYjBTCOOZkJl8zyYBg.0
+
+flutterfx/flutterfx_widgets: Collection of animated flutter widgets for busy flutter developers. Copy paste into your app!
+https://github.com/flutterfx/flutterfx_widgets
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+src/gpu/graphite/compute/VelloRenderer.cpp - skia - Git at Google
+https://skia.googlesource.com/skia/+/2e551697dc56/src/gpu/graphite/compute/VelloRenderer.cpp?autodive=0%2F%2F%2F%2F%2F
+
+Intrinsics and Vector Types - Algorithmica
+https://en.algorithmica.org/hpc/simd/intrinsics/
+
+sslotin/amh-code: Complete implementations from "Algorithms for Modern Hardware"
+https://github.com/sslotin/amh-code
+
+sslotin/jay: Command-line tool for testing competitive programming solutions
+https://github.com/sslotin/jay
+
+Sergey Slotin
+http://sereja.me/
+
+Pull requests · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/pulls
+
+lm-human-preferences/lm_human_preferences/label_types.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/label_types.py
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9#issuecomment-544981110
+
+Making sense of the folk-rnn v2 model, part 12 | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/08/21/making-sense-of-the-folk-rnn-v2-model-part-12/
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music#generating-midi-with-10k30k-context-windows
+
+GPT-2 Folk Music, by Gwern Branwen, Shawn Presser · Gwern.net
+https://gwern.net/gpt-2-music
+
+Stream Shawn Presser | Listen to AI-generated Videogame Music playlist online for free on SoundCloud
+https://soundcloud.com/theshawwn/sets/ai-generated-videogame-music
+
+Code search results
+https://github.com/search?q=%22module.registerHooks%22&type=code&p=2
+
+pizlonator/llvm-project-deluge: LLVM - Deluge
+https://github.com/pizlonator/llvm-project-deluge
+
+tannal
+https://tannal.github.io/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+HTML Export · Issue #721 · typst/typst
+https://github.com/typst/typst/issues/721
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Typst
+https://typst.app/project/pi56q7eeJLk6i4S-gBET5u
+
+Integration with other languages · Issue #117 · typst/typst
+https://github.com/typst/typst/issues/117
+
+Algorithms for Optimization - optimization.pdf
+https://algorithmsbook.com/optimization/files/optimization.pdf
+
+ArtifexSoftware/mupdf: mupdf mirror
+https://github.com/ArtifexSoftware/mupdf
+
+tannal
+https://tannal.github.io/
+
+TikZ vs svg - Google 搜索
+https://www.google.com/search?q=TikZ+vs+svg&client=ubuntu-sn&hs=V7i&sca_esv=5401da233fd812cf&channel=fs&sxsrf=ADLYWII27vVQlrZJ7TjlNcQJgjQD85fExg%3A1732085253351&ei=BYY9Z_iHFbXI0-kP5dnvyA8&ved=0ahUKEwi4nvyxqOqJAxU15DQHHeXsG_kQ4dUDCA8&uact=5&oq=TikZ+vs+svg&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1Rpa1ogdnMgc3ZnMgoQABiABBgKGMsBSPMRUOMFWNAQcAF4AJABAJgBpwKgAdsOqgEDMi04uAEDyAEA-AEBmAIHoAK4C8ICCxAAGIAEGLADGKIEwgIEECMYJ8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAoYHsICCBAAGIAEGKIEmAMAiAYBkAYEkgcFMS4wLjagB6oU&sclient=gws-wiz-serp
+
+Why you should draw things in TikZ instead of SVG
+http://canonical.org/~kragen/sw/dev3/tikz-vs-svg.html
+
+Pull request search results
+https://github.com/search?q=repo%3AGraphiteEditor%2FGraphite+resvg&type=pullrequests
+
+W3C SVG Working Group
+https://www.w3.org/Graphics/SVG/
+
+open-ic
+https://github.com/open-ic
+
+Industry Academia Collaborations on Open-Source Hardware - phsauter_coscup24.pdf
+https://pulp-platform.org/docs/coscup2024/phsauter_coscup24.pdf
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 Contributors to flutter/flutter
 https://github.com/flutter/flutter/graphs/contributors?from=11%2F19%2F2022
 

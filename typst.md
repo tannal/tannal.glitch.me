@@ -1,5 +1,77 @@
+# issues
+
+- #1511: 语法高亮支持语言列表
+  - 改善文档可读性
+  - 添加悬停提示信息
+
+- #1032: 模板预览图像替代文本
+  - 修复拼写错误
+  - 改善替代文本的描述性
+
+- #721: HTML 导出功能
+  - 强调语义区分的重要性
+  - 与可访问性的关系
+
+- #4812: 通过 ID 引用 SVG 对象
+  - 改善图表标签的可访问性
+  - 自动保持文本和图表同步
+
+- #21: SVG 文本嵌入
+  - 将文本作为真实文本而非路径
+  - 提升 PDF 的可访问性
+
+- #133: PDF 标签和替代文本支持
+  - 与 LaTeX 相比的优势机会
+  - 基础可访问性标记需求
+
+- #3701: 图片替代文本
+  - 需要在语法层面支持 alt text
+  - 为将来的功能实现做准备
+
 
 # Ascii
+
+- 目前仅支持 PDF 输出被认为是局限
+- HTML 输出对现代文档系统很重要
+- 可以支持更灵活的阅读体验(移动设备等)
+- 最初专注 PDF 是有意识的选择
+- 这迫使团队建立自己的技术栈
+- 计划逐步添加 HTML 输出支持
+- 将首先关注语义正确性，而非样式
+- 使用 Typst elements 作为中间表示
+- 分为高级语义 IR 和低级布局 IR
+- 通过 show rules 实现到 HTML 的转换
+- 支持自定义元素定义
+
+- PDF 仍然重要的领域：
+  - 学术出版
+  - 航空航天文档
+  - 政府文件
+  - 法律文档
+- HTML 更适合的场景：
+  - 在线阅读
+  - 移动设备
+  - 电子书
+
+- 计划改进可访问性
+- 保持语义化 HTML 输出
+- 逐步完善 PDF 输出的可访问性
+- 当前可以通过 pandoc 转换到其他格式
+
+- scripting: 编程能力相关
+- layout: 布局和定位
+- math: 数学公式相关
+- text: 文本排版、字形和国际化
+- docs: 文档改进
+- bibliography: 引用和参考文献
+- html: HTML 导出
+- pdf: PDF 导出
+- svg: SVG 相关
+- png: PNG 导出
+- cli: 命令行接口
+- ide: 开发工具支持
+- packages: 包管理
+- dependencies: 依赖更新
 
 // 1. 网格和表格的基础元素
 struct GridElem {
@@ -205,7 +277,7 @@ show规则可以根据输出格式(HTML/布局)进行条件判断。
 数学渲染是计划的一部分,但具体优先级和实现方式(自建还是基于现有库)还在讨论中。
 
 git remote add remote "Continuous integration"
-gh repo set-default 
+gh repo set-default
 gh workflow run "Continuous integration" --ref ci
 
 cargo test -p typst-tests --test tests text-spacing

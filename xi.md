@@ -1,4 +1,76 @@
 
+
+# History
+
+- 作者: Bill Atkinson (1980s)
+- 故事:
+  - 是 Apple Lisa 和早期 Mac 的核心图形系统
+  - Atkinson 在一次车祸后卧床时构思了许多算法
+  - 创新性地使用了区域裁剪和快速填充算法
+  - 影响了后来的许多图形系统设计
+
+- 核心人物: Charles Simonyi
+- 发展:
+  - Windows 1.0 开始就存在的基础图形系统
+  - 从简单的线条绘制发展到复杂的字体渲染
+  - GDI+ 是其面向对象的升级版
+  - 直到 Windows 7 仍然是主要的 2D 渲染系统
+
+- 关键人物: Bob Scheifler, Jim Gettys
+- 特点:
+  - 1984年 MIT 开发
+  - 网络透明的设计理念
+  - 客户端/服务器架构
+  - Xlib 成为标准绘图库
+
+- 创始人: John Warnock, Chuck Geschke
+- 历史:
+  - 1982年从 Xerox PARC 离职创建 Adobe
+  - PostScript 革命性地改变了打印行业
+  - 引入了矢量图形和字体技术
+  - 后来发展出 PDF 格式
+
+1. QuickDraw 的诞生
+- Atkinson 在车祸康复期间，用纸笔设计了核心算法
+- 为了优化性能，他手写了大量 68000 汇编代码
+- 最终让 Mac 128K 实现了流畅的图形界面
+
+2. PostScript 的起源
+- Warnock 在施乐期间开发了 InterPress
+- 施乐不愿意将其商业化
+- 这促使他创建 Adobe 并开发 PostScript
+
+3. X Window 的发展
+- 最初是 MIT 的一个学生项目
+- 因其网络透明性，迅速成为 Unix 图形标准
+- 带来了远程显示等创新概念
+
+
+1. 传统层
+   - GDI/GDI+ (仍然保留向后兼容)
+   - DirectX 9/10/11
+
+2. 现代层
+   - DirectX 12
+   - DirectComposition
+   - Windows.UI.Composition
+   - DXGI (DirectX Graphics Infrastructure)
+
+3. 混合系统
+   - DWM (Desktop Window Manager)
+   - 硬件加速的合成器
+
+主流选择：
+- Web 领域：几乎被 Skia 统治
+- 移动端：Skia (Android) + Core Graphics (iOS)
+- 桌面：Direct2D (Windows) + Skia/Cairo (Linux) + Core Graphics (macOS)
+
+发展趋势：
+- GPU 加速成为标配
+- 跨平台需求增加
+- 性能要求提高
+- API 简化和现代化
+
 # Xilem
 
 architecture - 架构设计相关

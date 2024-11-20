@@ -1,8 +1,36 @@
 
 # 2024-11-20
 
+- 开源社
+  - 国内最大的开源社区组织之一
+  - 组织多种开源活动
 
+- KAIYUANSHE
+  - 开源软件供应链点亮计划
+  - 开源治理
 
+- LUG (Linux User Group)
+  - 各大高校的 Linux 用户组
+  - 如: TUNA(清华)、USTC LUG等
+
+- COSCon (中国开源年会)
+  - 由开源社主办
+  - 每年举办
+  - 规模较大的综合性开源会议
+
+- PyCon China
+  - Python 开发者大会
+  - 多个城市轮办
+
+- GopherChina
+  - Go语言社区会议
+  - 专注 Go 生态
+
+- RustCon Asia
+  - Rust语言开发者大会
+  - 亚洲范围
+
+You will be payed for a big old project, but your happiness will be from a small new project.
 
 Programming is about fixing the gap between what you have and what you want.
 
