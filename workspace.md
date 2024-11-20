@@ -222,6 +222,7 @@ TEST-UNEXPECTED-FAIL | toolkit/components/resistfingerprinting/tests/browser/bro
 
 LazyLogModule
 [] fix failing tests
+ShadowRealm API
 https://bugzilla.mozilla.org/show_bug.cgi?id=1845870
 ./mach mochitest -f browser netwerk/test/browser/browser*cookie* --headless
 ./mach gtest TestCookie.*

@@ -1,6 +1,10 @@
 
 # waiting for me to reading
 
+
+Real-Time Concurrent Garbage Collection
+https://www.youtube.com/watch?v=BHe9bFEkqfw
+
 https://www.bluepuni.com/archives/aosp-process-management/
 
 https://www.scs.stanford.edu/~zyedidia/docs/slides/dconf23.pdf

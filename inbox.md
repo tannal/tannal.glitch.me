@@ -1,6 +1,9 @@
 
 # 2024-11-20
 
+
+
+
 Programming is about fixing the gap between what you have and what you want.
 
 如果你對開源 IC 設計的 EDA 有興趣
@@ -1084,18 +1087,18 @@ sudo parted sd.img mkpart primary fat32 1MiB 100%
 sudo losetup -fP --show sd.img  # 这会自动创建分区设备
 
 # 4. 格式化分区
-sudo mkfs.fat -F 32 /dev/loop34
+sudo mkfs.fat -F 32 /dev/loop18
 
 # 5. 挂载并添加一些基本文件（可选）
 sudo mkdir -p /mnt/sd
-sudo mount /dev/loop34 /mnt/sd
+sudo mount /dev/loop18 /mnt/sd
 
 # 可以在这里添加文件
 # sudo cp some_file /mnt/sd/
 
 # 6. 卸载并清理
 sudo umount /mnt/sd
-sudo losetup -d /dev/loop34
+sudo losetup -d /dev/loop18
 
 setenv kernel_addr 0x80000
 fatload mmc 0 ${kernel_addr} kernel8.img
