@@ -1,7 +1,7 @@
 
-# 2024-11-17
+# 2024-11-20
 
-
+Programming is about fixing the gap between what you have and what you want.
 
 如果你對開源 IC 設計的 EDA 有興趣
 目前的狀況是
@@ -31,11 +31,7 @@ Font Source      Attributes      Script/Language
       |                |               |
 Source Cache     Synthesis       Generic Family
 
-# 2024-11-13
-
-
-
-
+# 2024-11-12
 
 - 曲式结构完整性：
   - 主题-发展-再现
