@@ -1,6 +1,95 @@
 
 # 2024-11-22
 
+1984: H.120 - 第一个数字视频编码标准
+1988: H.261 - 视频会议标准
+1993: MPEG-1
+      - CD-ROM视频
+      - VCD标准的基础
+1995: MPEG-2/H.262
+      - DVD和数字电视标准
+      - 支持隔行扫描
+
+2003: H.264/AVC (Advanced Video Coding)
+      - 更高效的压缩
+      - 广泛应用于:
+        * Blu-ray
+        * 在线视频
+        * 数字广播
+
+2005: VC-1 (Microsoft)
+      - Windows Media Video 9的标准化版本
+      - HD DVD和Blu-ray支持
+
+2008: VP8 (Google收购On2)
+      - 开源视频编码器
+      - WebM项目的一部分
+
+2013: H.265/HEVC
+      - H.264的继任者
+      - 更好的压缩效率
+      - 但有专利费问题
+
+2016: VP9 (Google)
+      - YouTube默认编码器
+      - 开源免费
+
+2018: AV1 (Alliance for Open Media)
+      - 开源和免版税
+      - 成员包括：
+        * Google
+        * Mozilla
+        * Microsoft
+        * Apple
+.avi (1992)
+  - Microsoft开发
+  - 简单但限制多
+
+.mov (1991)
+  - Apple QuickTime
+  - 专业视频制作常用
+
+.mp4 (2001)
+  - MPEG-4 Part 14
+  - 最广泛使用的容器
+
+.mkv (2002)
+  - Matroska
+  - 开源容器
+  - 支持多种编解码器
+
+RTMP (1997)
+  - Adobe Flash
+  - 低延迟直播
+
+HLS (2009)
+  - Apple开发
+  - 基于HTTP的自适应流
+
+DASH (2012)
+  - MPEG标准
+  - 自适应比特率流
+
+1985: PCX - PC Paintbrush的原生格式
+1987: GIF (Graphics Interchange Format)
+      - CompuServe开发
+      - 支持256色和动画
+1989: JPEG - 联合图像专家组开发
+
+2010: WebP (Google)
+      - 同时支持有损和无损压缩
+      - 支持动画和透明度
+
+2015: HEIF/HEIC (Apple采用)
+      - 更高效的压缩
+      - 支持图像序列
+
+2019: AVIF
+      - 基于AV1视频编码
+      - 更好的压缩效率
+
+
+
 git worktree add ../gecko-network-http-throttle -b http-throttle
 
 AAA - Analytical Anti-Aliasing
