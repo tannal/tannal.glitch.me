@@ -569,9 +569,13 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2024-12-30 - 2025-1-6
 # 2024-12-23 - 2024-12-30
 # 2024-12-16 - 2024-12-23 16
+
 # 2024-12-9 - 2024-12-16 15
+
 # 2024-12-2 - 2024-12-9 14
+
 # 2024-11-25 - 2024-12-2 13
+
 # 2024-11-18 - 2024-11-25 12
 
 [] update cv apply
@@ -580,6 +584,15 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 see https://github.com/WebKit/WebKit/pull/14937/files
 https://github.com/WebAssembly/relaxed-simd/issues/27
 https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+[] complex networking abstract 11.30
+[] linebender office hour 11.22 00:00 - 01:00
+[] reinforcement learning
+
+## Blocked on others/supervisor
+
+[] waiting for review https://skia-review.googlesource.com/c/skia/+/915136
+[] waiting for review https://chromium-review.googlesource.com/c/chromium/src/+/5896813
+[] waiting for review https://android-review.googlesource.com/c/platform/art/+/3284463
 
 ## Short Term Goal (one year)
 
@@ -592,6 +605,8 @@ https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 
 [] chinese english japanese koera
 [] artists content maker
+[] JS Engine Engineer
+[] Web Platform Engineer
 
 # 2024-11-11 - 2024-11-18
 

@@ -1,4 +1,348 @@
 
+# 2024-11-22
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+陳柏宇 Jason Chan - 你瞞我瞞 (Official MV) - YouTube
+https://www.youtube.com/watch?v=JWcuUHVD4Ng
+
+Excalidraw
+https://excalidraw.com/
+
+Alvy Ray Smith Homepage
+http://alvyray.com/
+
+Computer Graphics - cg4_2012.pdf
+https://www.inf.ed.ac.uk/teaching/courses/cg/lectures/cg4_2012.pdf
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1296.0.0
+
+Issues · boblsturm/aimusicstudies2024
+https://github.com/boblsturm/aimusicstudies2024/issues
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+m:n:nsHttpConnectionMgr::mThrottleVersion (nsHttpConnectionMgr.h - mozsearch)
+https://searchfox.org/mozilla-central/source/netwerk/protocol/http/nsHttpConnectionMgr.h#241
+
+hyperlight-dev/hyperlight: Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+https://github.com/hyperlight-dev/hyperlight
+
+3D Computer Graphics Resources for Beginners - 2023 - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit?tab=t.0
+
+Chapter 1. Hello, Triangle!
+https://paroj.github.io/gltut/Basics/Tutorial%2001.html
+
+Coding Adventure: Rendering Text - YouTube
+https://www.youtube.com/watch?v=SO83KQuuZvg&t=509s
+
+Text-Rendering/Packages at main · SebLague/Text-Rendering
+https://github.com/SebLague/Text-Rendering/tree/main/Packages
+
+Game Engine Architecture
+https://www.gameenginebook.com/index.html
+
+Optimizing Metal: Stitch several Metal functions into a single shader using MTLFunctionStitchingGraph | MTLDoc
+https://mtldoc.com/metal/2023/08/18/optimizing-metal-stitching
+
+YouTube
+https://www.youtube.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+399. 除法求值 - 力扣（LeetCode）
+https://leetcode.cn/problems/evaluate-division/description/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(119) Discord | #parser | oxc
+https://discord.com/channels/1079625926024900739/1080712024683708466
+
+oxc-project/oxc-resolver: Rust version of webpack/enhanced-resolve
+https://github.com/oxc-project/oxc-resolver
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+Search - WebKit - Slack
+https://app.slack.com/client/T06G50708/search
+
+Commits · WebKit/WebKit
+https://github.com/WebKit/WebKit/commits/main/
+
+JSCOnly/CrossBuildAndRemoteTestJSCLinux – WebKit
+https://trac.webkit.org/wiki/JSCOnly/CrossBuildAndRemoteTestJSCLinux
+
+WebKitGTK/Debugging – WebKit
+https://trac.webkit.org/wiki/WebKitGTK/Debugging
+
+loaders/doc/design/proposal-synchronous-hooks.md at main · nodejs/loaders
+https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hooks.md
+
+implement module.registerHooks() to run synchronous module customization hooks in thread by joyeecheung · Pull Request #55698 · nodejs/node
+https://github.com/nodejs/node/pull/55698/files#diff-4e8f3cce79719e4a337f58575b20c998b093eb64164b847ca0eb9ba884d8a801
+
+[7136] try
+https://treeherder.mozilla.org/jobs?repo=try
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+100% - [23] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=5af047db1ca9c2f1f6b597b30e9b8c2f1b8ea2da&selectedTaskRun=ewy6wYjBTCOOZkJl8zyYBg.0
+
+WebVM - Linux virtualization in WebAssembly
+https://webvm.io/
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+src/gpu/graphite/compute/VelloRenderer.cpp - skia - Git at Google
+https://skia.googlesource.com/skia/+/2e551697dc56/src/gpu/graphite/compute/VelloRenderer.cpp?autodive=0%2F%2F%2F%2F%2F
+
+Sergey Slotin
+http://sereja.me/
+
+Algorithms for Modern Hardware - Algorithmica
+https://en.algorithmica.org/hpc/
+
+Matrix Multiplication - Algorithmica
+https://en.algorithmica.org/hpc/algorithms/matmul/
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Stream Shawn Presser | Listen to AI-generated Videogame Music playlist online for free on SoundCloud
+https://soundcloud.com/theshawwn/sets/ai-generated-videogame-music
+
+pizlonator/llvm-project-deluge: LLVM - Deluge
+https://github.com/pizlonator/llvm-project-deluge
+
+WebGPU
+https://www.w3.org/TR/webgpu/#security-driver-bugs
+
+WebGPU WGSL
+https://webgpufundamentals.org/webgpu/lessons/webgpu-wgsl.html
+
+tannal (tannal)
+https://github.com/tannal
+
+My next book will be "Practical Math for Programmers" || Math ∩ Programming
+https://www.jeremykun.com/2022/03/16/my-next-book-will-be-practical-math-for-programmers/
+
+Alpha合成 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/Alpha%E5%90%88%E6%88%90
+
+匠白光 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8C%A0%E7%99%BD%E5%85%89
+
+皮克斯动画工作室 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%85%8B%E6%96%AF%E5%8A%A8%E7%94%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+搜索 - 力扣(LeetCode)
+https://leetcode.cn/search/?q=1109
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+utc-8 - Google 搜索
+https://www.google.com/search?q=utc-8&client=ubuntu-sn&hs=a4O&sca_esv=c64f92f75d6f9f24&channel=fs&sxsrf=ADLYWILT5JzvGarkr-V-8F--bNC6aGg7SQ%3A1732167073531&ei=ocU-Z_KJIOjf2roP46zAkAY&ved=0ahUKEwiy3u-Y2eyJAxXor1YBHWMWEGIQ4dUDCBA&uact=5&oq=utc-8&gs_lp=Egxnd3Mtd2l6LXNlcnAiBXV0Yy04MgYQABgHGB4yCBAAGIAEGMsBMggQABiABBjLATIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywFI5gtQ_wZY3AlwAXgBkAEAmAH2AaABzwOqAQMyLTK4AQPIAQD4AQGYAgOgAt8DwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4yoAecBQ&sclient=gws-wiz-serp
+
+utc是哪个国家的时间 - Google 搜索
+https://www.google.com/search?q=utc%E6%98%AF%E5%93%AA%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%97%B6%E9%97%B4&client=ubuntu-sn&hs=A5O&sca_esv=c64f92f75d6f9f24&channel=fs&sxsrf=ADLYWIJgtwrJft6cbAeTBy6VcFpOkkJGJQ%3A1732167109488&ei=xcU-Z-yzHe_m2roPlpa76QE&oq=utc+shijian&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3V0YyBzaGlqaWFuKgIIAzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jAFlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIGmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+Joyee Cheung: "I decided to stop spamming my followers and quietly spam this test account 😀" — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social/post/3lbgaxef6n22u
+
+bluesky-playground/.github/workflows at main · joyeecheung/bluesky-playground
+https://github.com/joyeecheung/bluesky-playground/tree/main/.github/workflows
+
+altamira microsoft - Google 搜索
+https://www.google.com/search?q=altamira+microsoft&client=ubuntu-sn&hs=WO2&sca_esv=a623e1c1dcc41472&channel=fs&sxsrf=ADLYWILcBdQx8OUoqA8Wp9oKh5lFiKjh7A%3A1732238783354&ei=v90_Z_yeFYjV4-EPv5m6gQw&oq=Altamira+micros&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0FsdGFtaXJhIG1pY3JvcyoCCAAyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSOA8UNkHWPctcAN4AZABAJgBxgGgAbAMqgEDMC45uAEDyAEA-AEBmAIMoAL9DMICChAAGLADGNYEGEfCAgUQABiABMICBRAuGIAEwgIIEC4YgAQYywHCAggQABiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIOEC4YgAQYxwEYywEYrwHCAhAQLhiABBjHARgKGMsBGK8BwgIEEAAYHsICBBAuGB7CAgYQABgIGB7CAggQABgIGAoYHsICBhAAGAUYHsICCBAAGIAEGKIEmAMAiAYBkAYFugYGCAEQARgUkgcFMy42LjOgB6wm&sclient=gws-wiz-serp
+
+Bun: "Bun v1.1.35 - Fixes 46 bugs (addressing 570 👍) - Native support for Musl & Alpine Linux - 6 MB smaller binary - JUnit test reporter - `preload` option for `Worker` - `http://console.group` - `net` compatibility improvements Thanks to 16 contributors! bun.sh/blog/bun-v1...." — Bluesky
+https://bsky.app/profile/bun.sh/post/3lbdn3k4na22g
+
+pamburus/hl: A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
+https://github.com/pamburus/hl
+
+Keep Rules in the Age of Kotlin - Droidcon London - YouTube
+https://www.youtube.com/watch?v=wdUaeMiw3QE
+
+gfxcourses.stanford.edu/cs149/fall24
+https://gfxcourses.stanford.edu/cs149/fall24
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/whyparallelism/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/whyparallelism/slide_14
+
+prman-pixar (RenderMan Developers)
+https://github.com/prman-pixar
+
+prman-pixar (RenderMan Developers)
+https://github.com/prman-pixar
+
+Mitsuba Physically Based Renderer
+https://github.com/mitsuba-renderer
+
+mmp (Matt Pharr)
+https://github.com/mmp
+
+Physically Based Rendering: From Theory to Implementation
+https://www.pbrt.org/
+
+Every JIT tier enabled for JavaScriptCore on Windows | Ian Grunert
+https://iangrunert.com/2024/10/07/every-jit-tier-enabled-jsc-windows.html
+
+Bun v1.1.35 | Bun Blog
+https://bun.sh/blog/bun-v1.1.35
+
+yamalight (Tim Ermilov)
+https://github.com/yamalight
+
+Comparing oven-sh:main...yamalight:fix/data-url-import · oven-sh/bun
+https://github.com/oven-sh/bun/compare/main...yamalight:bun:fix/data-url-import
+
+Best of JavaScript
+https://github.com/bestofjs
+
+Deno 2.1: Wasm Imports and other enhancements
+https://deno.com/blog/v2.1
+
+Node.js — Node v23.3.0 (Current)
+https://nodejs.org/en/blog/release/v23.3.0
+
 # 2024-11-20
 
 Yjs Monaco Example

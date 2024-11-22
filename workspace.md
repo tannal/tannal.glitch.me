@@ -190,7 +190,11 @@ bun install
 
 ## deno
 
+https://deno.com/blog/v2.1
+
 ## node-new
+
+https://nodejs.org/en/blog
 
 https://github.com/nodejs/node/pull/55698/files#diff-5b5902273122e094ff474fda358605ffa45a4a58b51cd0bf4c1acb93779df142
 
@@ -211,6 +215,8 @@ https://github.com/nodejs/loaders/blob/main/doc/design/proposal-synchronous-hook
 tannal@desktop:~/tannalwork/projects/jitsi-meet$
 
 ## bun
+
+https://bun.sh/blog/bun-v1.1.35
 
 git bisect start
 git bisect bad
@@ -331,6 +337,18 @@ https://treeherder.mozilla.org/jobs?repo=try&revision=dee049bd1f29f6f5bd74e80537
 
 
 ## WebKit
+
+WebAssembly Binary
+       ↓
+   Interpreter
+       ↓
+     BBQ JIT  →  OMG JIT
+                    ↓
+                   B3
+                    ↓
+                   Air
+                    ↓
+              Machine Code
 
 export PATH=/opt/llvm-17/bin:$PATH
 export CC=clang
