@@ -261,6 +261,8 @@ bun-debug
 
 ## gecko
 
+https://es.discourse.group/
+
 Make input range better cross the browsers Gecko/Webkit/Blink.
 https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
 https://html.spec.whatwg.org/#range-state-(type=range)
@@ -278,6 +280,8 @@ Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sek
 
 Differential Revision: https://phabricator.services.mozilla.com/D229345
 
+
+git pull origin branches/default/tip --rebase
 
 
 - On branch cookie-count
