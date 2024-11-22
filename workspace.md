@@ -264,6 +264,7 @@ bun-debug
 Make input range better cross the browsers Gecko/Webkit/Blink.
 https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
 https://html.spec.whatwg.org/#range-state-(type=range)
+https://bsky.app/profile/cory.laviska.com/post/3latjr3l6f22c
 
 - On branch input-range-vertical-center
 

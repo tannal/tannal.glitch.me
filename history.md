@@ -124,6 +124,246 @@ https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitati
 Why is network-byte-order defined to be big-endian? - Stack Overflow
 https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
 
+白夜破晓 白夜破晓 01-电视剧-高清完整正版视频在线观看-优酷
+https://v.youku.com/v_show/id_XNjQzNzM0MDg4NA==.html?spm=a2hja.14919748_WEBHOME_NEW.drawer1.d_zj1_1&s=2cefbfbd6113efbfbd6c&scm=20140719.manual.35026.show_2cefbfbd6113efbfbd6c&s=2cefbfbd6113efbfbd6c
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Excalidraw
+https://excalidraw.com/
+
+Aimer - Google 搜索
+https://www.google.com/search?q=Aimer&client=ubuntu-sn&hs=pHO&sca_esv=7025c20cef8c26a5&channel=fs&sxsrf=ADLYWILlumvekNyjYmbWNX0kGhH_jcDXJw%3A1732243490890&ei=IvA_Z9uDNvWq4-EP1sjQ2Qw&ved=0ahUKEwjbnMHv9e6JAxV11TgGHVYkNMsQ4dUDCA8&uact=5&oq=Aimer&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUFpbWVyMgQQIxgnMgoQLhiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIOEC4YgAQYsQMY0QMYxwEyBRAAGIAEMgsQABiABBixAxiDATIFEAAYgARImhZQ8AVY2xVwAngBkAEAmAHJA6AB1geqAQcwLjMuNC0xuAEDyAEA-AEBmAIGoALwB6gCC8ICChAAGLADGNYEGEfCAgcQIxgnGOoCwgIUEAAYgAQY4wQYtAIY6QQY6gLYAQHCAgoQIxiABBgnGIoFwgIREC4YgAQYsQMY0QMYgwEYxwHCAggQABiABBixA8ICDBAjGIAEGBMYJxiKBcICCxAuGIAEGNEDGMcBmAMFiAYBkAYKugYGCAEQARgBkgcHMi4zLjQtMaAHrS0&sclient=gws-wiz-serp
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345#7943626
+
+m:n:nsHttpConnectionMgr::mThrottleVersion (nsHttpConnectionMgr.h - mozsearch)
+https://searchfox.org/mozilla-central/source/netwerk/protocol/http/nsHttpConnectionMgr.h#241
+
+HTTP: Primer on Web Performance - High Performance Browser Networking (O'Reilly)
+https://hpbn.co/primer-on-web-performance/#performance-pillars-computing-rendering-networking
+
+anasanzari (Anas Muhammed)
+https://github.com/anasanzari
+
+YouTube
+https://www.youtube.com/feed/history
+
+Mike Belshe - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Mike+Belshe+
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+barebox/barebox: The barebox bootloader - Mirror of ssh://public@git.pengutronix.de/barebox
+https://github.com/barebox/barebox
+
+Barebox - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=240622
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Matthew Flatt: Publications
+https://users.cs.utah.edu/~mflatt/publications/index.html
+
+creduce - Google 幻灯片
+https://docs.google.com/presentation/d/1xLI1BVLTs_TS817Yl313v7-sYKTKb126Uv6rYyIk8QY/edit#slide=id.g23b9c065272_0_0
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+D229345: Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKMzjVHlwrdNNJKnpPRbddRXt
+
+quotaPerHost to maxPerHost - 1, so - mozsearch
+https://searchfox.org/mozilla-central/search?q=quotaPerHost%20to%20maxPerHost%20-%201%2C%20so&path=&case=false&regexp=false
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+1917771 - <input type=“range” style=“margin: 50px”> vertical alignment is different from Chrome (range inputs have no inherent baseline).
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+Konnor Rogers (@konnorrogers.com) — Bluesky
+https://bsky.app/profile/konnorrogers.com
+
+I don't have time to learn React - Keith Cirkel
+https://www.keithcirkel.co.uk/i-dont-have-time-to-learn-react/
+
+Cross-browser Vertical Slider using input type="range" - DEV Community
+https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
+
+HTML Standard
+https://html.spec.whatwg.org/#range-state-(type=range)
+
+Following — Bluesky
+https://bsky.app/
+
+Pull request search results
+https://github.com/search?q=author%3AKonnorRogers+owner%3Amdn&type=pullrequests
+
+improving discussion of generic Promise.try() called against custom constructor by getify · Pull Request #35783 · mdn/content
+https://github.com/mdn/content/pull/35783/files
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(120) Discord | #parser | oxc
+https://discord.com/channels/1079625926024900739/1080712024683708466
+
+oxc-project/oxc-resolver: Rust version of webpack/enhanced-resolve
+https://github.com/oxc-project/oxc-resolver
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+amhndu/SimpleNES: An NES emulator in C++
+https://github.com/amhndu/SimpleNES
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Problem loading page
+https://static.emulatorgames.net/roms/nintendo/Super%20Mario%20Bros%20(E).zip
+
+Introduction - Mergiraf
+https://mergiraf.org/
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
