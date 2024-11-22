@@ -261,6 +261,24 @@ bun-debug
 
 ## gecko
 
+Make input range better cross the browsers Gecko/Webkit/Blink.
+https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
+https://html.spec.whatwg.org/#range-state-(type=range)
+
+- On branch input-range-vertical-center
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
+
+
+
+- On branch http-throttle
+
+Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+
+Differential Revision: https://phabricator.services.mozilla.com/D229345
+
+
+
 - On branch cookie-count
 
 moz-phab submit --no-wip
