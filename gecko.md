@@ -1,6 +1,8 @@
 
 
+# Cookie
 
+https://datatracker.ietf.org/doc/html/rfc6265
 
 Zone -> Realm -> Arena -> Cell
 
@@ -250,6 +252,8 @@ https://bugzilla.mozilla.org/show_bug.cgi?id=1435811
 # Achievements
 
 ## Spidermonkey
+
+Jan de Mooij Baseline JIT for SpiderMonkey
 
 Bug 1899413 - Support v flag in RegExp.prototype r?mgaudet
 Bug 1899303 - Implement Redeclarable global eval-introduced vars proposal r?dminor
