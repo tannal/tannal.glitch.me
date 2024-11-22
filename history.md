@@ -130,6 +130,255 @@ https://v.youku.com/v_show/id_XNjQzNzM0MDg4NA==.html?spm=a2hja.14919748_WEBHOME_
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Tiling an image · Issue #724 · linebender/vello
+https://github.com/linebender/vello/issues/724
+
+Clippy Lints
+https://rust-lang.github.io/rust-clippy/master/index.html#trivially_copy_pass_by_ref
+
+Clippy Lints
+https://rust-lang.github.io/rust-clippy/master/index.html#trivially_copy_pass_by_ref
+
+Import the Linebender lint set. MSRV -> 1.74 by DJMcNab · Pull Request #47 · linebender/peniko
+https://github.com/linebender/peniko/pull/47/files#diff-2e9d962a08321605940b5a657135052fbcef87b5e360662bb527c96d9a615542
+
+linebender.github.io/content/wiki/canonical_lints.md at main · linebender/linebender.github.io
+https://github.com/linebender/linebender.github.io/blob/main/content/wiki/canonical_lints.md
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=slop&op=translate
+
+Compiler Compiler - Part 3: Debugging SpiderMonkey continued - YouTube
+https://www.youtube.com/watch?v=DZ0cvTiHcf8&t=293s
+
+TC39 - Specifying JavaScript
+https://es.discourse.group/
+
+engine262/engine262: An implementation of ECMA-262 in JavaScript
+https://github.com/engine262/engine262
+
+oracle/graaljs: GraalJS – A high-performance, ECMAScript compliant, and embeddable JavaScript runtime for Java
+https://github.com/oracle/graaljs
+
+spidermonkey baseline jit - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=spidermonkey+baseline+jit
+
+The Baseline Interpreter: a faster JS interpreter in Firefox 70 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/
+
+architecture - What is a baseline compiler? - Stack Overflow
+https://stackoverflow.com/questions/59638327/what-is-a-baseline-compiler
+
+W^X JIT-code enabled in Firefox
+https://jandemooij.nl/blog/wx-jit-code-enabled-in-firefox/
+
+mozilla-spidermonkey/jsparagus: Experimental JS parser-generator project.
+https://github.com/mozilla-spidermonkey/jsparagus
+
+Add Boa to Test262-Harness · Issue #3431 · boa-dev/boa
+https://github.com/boa-dev/boa/issues/3431
+
+O'Reilly SVG Essentials.pdf
+https://theswissbay.ch/pdf/Gentoomen%20Library/Misc/O%27Reilly%20SVG%20Essentials.pdf
+
+David Eisenberg svg - Google 搜索
+https://www.google.com/search?q=David+Eisenberg+svg&client=ubuntu-sn&hs=7Ks&sca_esv=332c1457e26e21ac&channel=fs&sxsrf=ADLYWIIbxeKgJwAIHiLYkS8WFegLN9UGuw%3A1732279572109&ei=FH1AZ8ubBt-X4-EP5qDP2AI&ved=0ahUKEwjL9a-k_O-JAxXfyzgGHWbQEysQ4dUDCA8&uact=5&oq=David+Eisenberg+svg&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0RhdmlkIEVpc2VuYmVyZyBzdmcyBBAjGCcyBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIESJEHUF5Y4QVwAXgBkAEAmAGbAqABqQaqAQUwLjIuMrgBA8gBAPgBAZgCBKAC6wTCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR8ICCxAuGIAEGNQCGMsBwgIIEC4YgAQYywHCAggQABiABBjLAZgDAIgGAZAGBZIHBTEuMi4xoAfeFw&sclient=gws-wiz-serp
+
+Storage Standard
+https://storage.spec.whatwg.org/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Add "Contributing" to the navigation bar? · Issue #7237 · nodejs/nodejs.org
+https://github.com/nodejs/nodejs.org/issues/7237
+
+Using HTTP cookies - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+
+RFC 6265 - HTTP State Management Mechanism
+https://datatracker.ietf.org/doc/html/rfc6265
+
+♟ iain
+https://phabricator.services.mozilla.com/p/iain/
+
+Iain Ireland spidermonkey - Google 搜索
+https://www.google.com/search?q=Iain+Ireland+spidermonkey&client=ubuntu-sn&hs=ims&sca_esv=31b482def4c88829&channel=fs&sxsrf=ADLYWIK52fuHe3Q3c9jp0b1smCuJB4VoBA%3A1732281283419&ei=w4NAZ5acGYbf4-EPtL7pqAw&ved=0ahUKEwjWibLUgvCJAxWG7zgGHTRfGsUQ4dUDCA8&uact=5&oq=Iain+Ireland+spidermonkey&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUlhaW4gSXJlbGFuZCBzcGlkZXJtb25rZXkyBxAhGKABGAoyBxAhGKABGApIvxNQxgVYthJwAXgAkAEBmAHFAqABvhKqAQgwLjEwLjEuMbgBA8gBAPgBAZgCDKACqhDCAgcQABiwAxgewgIJEAAYsAMYCBgewgILEAAYsAMYCBgKGB7CAgQQABgewgIGEAAYCBgewgIIEAAYCBgKGB7CAggQABiABBiiBMICChAAGAgYChgMGB7CAgUQIRigAZgDAIgGAZAGCpIHBjEuMTAuMaAHnRg&sclient=gws-wiz-serp
+
+Component Experts | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/component-experts/
+
+(1) Following — Bluesky
+https://bsky.app/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(124) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+oxc-project/oxc-resolver: Rust version of webpack/enhanced-resolve
+https://github.com/oxc-project/oxc-resolver
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+amhndu/SimpleNES: An NES emulator in C++
+https://github.com/amhndu/SimpleNES
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Problem loading page
+https://static.emulatorgames.net/roms/nintendo/Super%20Mario%20Bros%20(E).zip
+
+Introduction - Mergiraf
+https://mergiraf.org/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw/
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+白夜破晓 白夜破晓 01-电视剧-高清完整正版视频在线观看-优酷
+https://v.youku.com/v_show/id_XNjQzNzM0MDg4NA==.html?spm=a2hja.14919748_WEBHOME_NEW.drawer1.d_zj1_1&s=2cefbfbd6113efbfbd6c&scm=20140719.manual.35026.show_2cefbfbd6113efbfbd6c&s=2cefbfbd6113efbfbd6c
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 Excalidraw
 https://excalidraw.com/
 

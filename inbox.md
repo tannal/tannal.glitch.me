@@ -1,6 +1,21 @@
 
 # 2024-11-22
 
+Component 	Short Description 	Point of Contact
+ctypes
+Debugger API 	API for the JS Debugger 	Bryan Thrall (bugzilla), arai (bugzilla)
+JavaScript specification and language 	ECMAScript and TC39 dealings 	Matt Gaudet (bugzilla)
+Frontend 	Parser, Stencil, and Bytecode generation 	Matt Gaudet (bugzilla), arai (bugzilla)
+GC 	Rooting & Marking & Sweeping 	Steve Fink (bugzilla)
+JS JIT Compilers 	Warp and Ion, the optimizing Just-In-Time Compilers 	Iain Ireland (bugzilla), Jan de Mooij (bugzilla)
+Internationalization support 	Internationalization support, Ecma 402
+Promises 	Promises, async functions, and the job queue 	arai (bugzilla)
+Proxies, Wrappers 	CCW, ES proxies 	Jan de Mooij (bugzilla)
+Regular Expression Engine 	Our import of V8’s RegExp JIT 	Iain Ireland (bugzilla)
+Test suites
+WebAssembly
+WebIDL 	WebIDL bindings 	arai (bugzilla)
+
 1984: H.120 - 第一个数字视频编码标准
 1988: H.261 - 视频会议标准
 1993: MPEG-1
