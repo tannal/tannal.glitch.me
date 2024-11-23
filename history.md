@@ -1,4 +1,285 @@
 
+# 2024-11-23
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+白夜破晓 白夜破晓 02-电视剧-高清完整正版视频在线观看-优酷
+https://v.youku.com/v_show/id_XNjQzNzMzNjcyOA==.html?s=2cefbfbd6113efbfbd6c&spm=a2hje.13141534.1_3.d_3_2&scm=20140719.apircmd.240015.video_XNjQzNzMzNjcyOA==
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917925 - Remove network.http.strict_response_status_line_parsing pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917925
+
+1917139 - Ship Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917139
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345#7954318
+
+1917139 - Ship Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917139
+
+1899303 - Implement Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1899303
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+Coffee Compiler Club, 2024_11_22 - YouTube
+https://www.youtube.com/watch?v=ncLZEYJubmM
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Working Group for Rust Bindings
+https://github.com/vfx-rs
+
+Cookie Store API
+https://wicg.github.io/cookie-store/#CookieChangeEvent
+
+[Bug 1917139] Ship Redeclarable global eval-introduced vars proposal - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKNFKlSnzTZnkFwhfLlzSgVSJ
+
+♟ tannal2409
+https://phabricator.services.mozilla.com/p/tannal2409/
+
+1917139 - Ship Redeclarable global eval-introduced vars proposal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917139
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+linebender - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=linebender
+
+Following — Bluesky
+https://bsky.app/
+
+Igalia (@igalia.com) — Bluesky
+https://bsky.app/profile/igalia.com
+
+Igalia Chats: Fellowships of the Contributors 2024 | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/chats/fellowships-2024
+
+Canvas Text Editing
+https://blogs.igalia.com/schenney/canvas-text-editing/
+
+tannal
+https://tannal.github.io/
+
+tannal (tannal)
+https://github.com/tannal
+
+Pull requests · tc39/test262
+https://github.com/tc39/test262/pulls?q=is%3Apr+author%3Atannal+is%3Aclosed
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214
+
+1917214 - Perma test262/annexB/language/eval-code/direct/script-decl-lex-no-collision.js | (args: "") [0.0 s] when Gecko 132 merges to beta on 2024-09-30
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917214
+
+gjs gtk js - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gjs+gtk+js
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005
+
+Component Experts | SpiderMonkey JavaScript/WebAssembly Engine
+https://spidermonkey.dev/component-experts/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+tannal
+https://tannal.github.io/
+
+Bloomberg L.P - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Bloomberg+L.P
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(127) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+oxc
+https://github.com/oxc-project
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+amhndu/SimpleNES: An NES emulator in C++
+https://github.com/amhndu/SimpleNES
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Introduction - Mergiraf
+https://mergiraf.org/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw/
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Allow alternative era for Chinese calendar by anba · Pull Request #4309 · tc39/test262
+https://github.com/tc39/test262/pull/4309
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+tannal
+https://tannal.github.io/
+
+Segfault with readline · Issue #15344 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15344
+
 # 2024-11-22
 
 Yjs Monaco Example
