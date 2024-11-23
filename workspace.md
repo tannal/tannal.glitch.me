@@ -261,6 +261,10 @@ bun-debug
 
 ## gecko
 
+Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+
+Differential Revision: https://phabricator.services.mozilla.com/D229345
+
 https://es.discourse.group/
 
 Make input range better cross the browsers Gecko/Webkit/Blink.
