@@ -1,4 +1,8 @@
 
+# 2024-11-23
+
+Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+
 # 2024-11-22
 
 Component 	Short Description 	Point of Contact
