@@ -1,6 +1,207 @@
 
 # 2024-11-24
 
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+test: add fast api tests for getLibuvNow() by anonrig · Pull Request #55905 · nodejs/node
+https://github.com/nodejs/node/pull/55905/files#diff-2cc92781a9c6d2ed05b4cc6f3e10378f66ac4318af0b43cc3356433780173169
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+Farama-Foundation/Gymnasium: An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+https://github.com/Farama-Foundation/Gymnasium
+
+2407.17032v3.pdf
+https://arxiv.org/pdf/2407.17032
+
+Farama-Foundation/PettingZoo: An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities
+https://github.com/Farama-Foundation/PettingZoo
+
+美国佐治亚州 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=TYV&sca_esv=0c814c2424608e41&channel=fs&sxsrf=ADLYWILxo1pxLMsSYjvpwXOAlVhXBV-SPg:1732350869653&q=%E7%BE%8E%E5%9B%BD%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCAxfUXblyFhp5IdiVAbZEgibpdU36pRpxgVm2HjpLHXGyksbcmbytGmKOp4OFTQ7CiLWFGsVY4wkMh2ow53YMF_qJQHHR3J2uhQ_UA7LdntW0DH0wPjf2iSVXERRJgAILoczUNE32jpME0035e5VrgnuI0LExE_gxlyy-QiaCc-fQ4QPDNwLSqrQAPkGg5JXq_YQg-w&sa=X&ved=2ahUKEwiu6NjxhfKJAxUc3jgGHR4lE-IQtKgLegQIDRAB&biw=1850&bih=968&dpr=1
+
+thiblahute (thiblahute) / Repositories
+https://github.com/thiblahute?tab=repositories
+
+DQN 算法
+https://hrl.boyuai.com/chapter/2/dqn%E7%AE%97%E6%B3%95/
+
+alphago reinforcement learning - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=alphago+reinforcement+learning
+
+AlphaGo - Wikipedia
+https://en.wikipedia.org/wiki/AlphaGo
+
+cetz-package/cetz: CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+https://github.com/cetz-package/cetz
+
+Issues · linebender/resvg
+https://github.com/linebender/resvg/issues
+
+usvg --preserve-markers feature request · Issue #706 · linebender/resvg
+https://github.com/linebender/resvg/issues/706
+
+Node's bounding box should not include markers · Issue #701 · linebender/resvg
+https://github.com/linebender/resvg/issues/701
+
+metronome real time garbage collection - Google 搜索
+https://www.google.com/search?q=metronome+real+time+garbage+collection&client=ubuntu-sn&hs=Dl7&sca_esv=ecacba330ca1712d&channel=fs&sxsrf=ADLYWIL1kSDFpLPXPv8KbsPGeo-k7l0HSA%3A1732418290681&ei=8ppCZ9ugKZud4-EPgNa0sQc&oq=Metronome+real+time+garbage+col&gs_lp=Egxnd3Mtd2l6LXNlcnAiH01ldHJvbm9tZSByZWFsIHRpbWUgZ2FyYmFnZSBjb2wqAggAMgUQIRigATIFECEYoAFI4kxQrQRYoUZwAngBkAEBmAGgBqAB9SSqAQowLjE4LjQuNi0xuAEDyAEA-AEBmAIYoALBH8ICChAAGLADGNYEGEfCAgUQLhiABMICBRAAGIAEwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgcQIxixAhgnwgIIEAAYgAQYywHCAgoQLhiABBhDGIoFwgIOEC4YgAQYxwEYywEYrwHCAgQQABgewgIGEAAYCBgewgIIEAAYCBgKGB7CAggQABiABBiiBMICBxAhGKABGAqYAwCIBgGQBgq6BgYIARABGBSSBwYyLjE4LjSgB8BC&sclient=gws-wiz-serp
+
+Controlling fragmentation and space consumption in the metronome, a real-time garbage collector for Java | Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems
+https://dl.acm.org/doi/10.1145/780732.780744#core-collateral-purchase-access
+
+Sci-Hub | [ACM Press the 2003 ACM SIGPLAN conference - San Diego, California, USA (2003.06.11-2003.06.13)] Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems - LCTES '03 - Controlling fragmentation and space consumption in the metronome, a real-time garbage collector for Java | 10.1145/780732.780744
+https://sci-hub.vkif.top/10.1145/780732.780744
+
+Code search results
+https://github.com/search?q=%22requires+requires%22+language%3AC%2B%2B+&type=code
+
+freeorion/freeorion: Source code repository of the FreeOrion project.
+https://github.com/freeorion/freeorion
+
+Palm OS - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Palm+OS
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+Android Internals::TOC
+https://newandroidbook.com/TOC.html
+
+usvg - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=usvg
+
+garbage collection - Java G1GC - Card Table (CT) vs Remembered Set (RS) - Stack Overflow
+https://stackoverflow.com/questions/65475533/java-g1gc-card-table-ct-vs-remembered-set-rs
+
+facebook/fbthrift: Facebook's branch of Apache Thrift, including a new C++ server.
+https://github.com/facebook/fbthrift
+
+Controlling Fragmentation and Space Consumption in the Metronome, a Real-time Garbage Collector for Java · Issue #91 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/91
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(131) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+oxc
+https://github.com/oxc-project
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Issues · amhndu/SimpleNES
+https://github.com/amhndu/SimpleNES/issues
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Introduction - Mergiraf
+https://mergiraf.org/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw/
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Allow alternative era for Chinese calendar by anba · Pull Request #4309 · tc39/test262
+https://github.com/tc39/test262/pull/4309
+
+⚙ D229445 Bug 1928966, part 2: Add tests for JS::ParseInt. r=yulia,arai
+https://phabricator.services.mozilla.com/D229445
+
+⚙ D228292 Bug 1928966, part 1: Implement JS::ParseInt. r=yulia,arai
+https://phabricator.services.mozilla.com/D228292#change-9QaKAy6uGSyI
+
+Console Standard
+https://console.spec.whatwg.org/#formatter
+
+Coffee Compiler Club, 2024_11_22 - YouTube
+https://www.youtube.com/watch?v=ncLZEYJubmM&t=2738s
+
+Segfault with readline · Issue #15344 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15344
+
+google-summer-of-code/gsoc/past/2024.md at main · rust-lang/google-summer-of-code
+https://github.com/rust-lang/google-summer-of-code/blob/main/gsoc/past/2024.md#Faster-register-allocator-for-Cranelift
+
+Following — Bluesky
+https://bsky.app/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+microsoft/react-native-windows: A framework for building native Windows apps with React.
+https://github.com/microsoft/react-native-windows
+
+microsoft/react-native-macos: A framework for building native macOS apps with React.
+https://github.com/microsoft/react-native-macos
+
+Issues · mobxjs/mobx
+https://github.com/mobxjs/mobx/issues
+
+battlefield - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=battlefield
+
+vampire survivors - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=vampire+survivors
+
+phaserjs/phaser: Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+https://github.com/phaserjs/phaser
+
+The Origin Story Behind Counter-Strike's Most Iconic Map - Noclip Documentary - YouTube
+https://www.youtube.com/watch?v=FWWhxfGq_yk
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+TrenchBroom/TrenchBroom: Cross-Platform Level Editor
+https://github.com/TrenchBroom/TrenchBroom
+
+competitive programming - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=competitive+programming
+
+book.pdf
+https://cses.fi/book/book.pdf
+
+Antti Laaksonen
+https://www.cs.helsinki.fi/u/ahslaaks/
+
+Guide to Competitive Programming: Learning and Improving Algorithms Through Contests | SpringerLink
+https://link.springer.com/book/10.1007/978-3-031-61794-2
+
+pdftk-java
+https://github.com/pdftk-java
+
+tannal
+https://tannal.github.io/
+
+Types and Programming Languages
+https://www.cis.upenn.edu/~bcpierce/tapl/index.html
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+java - How actually card table and writer barrier work? - Stack Overflow
+https://stackoverflow.com/questions/19154607/how-actually-card-table-and-writer-barrier-work
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
 Yjs Monaco Example
 http://192.168.43.246:3000/monaco/monaco.html
 
