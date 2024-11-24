@@ -1,6 +1,37 @@
 
 # 2024-11-23
 
+#!/bin/bash
+# 随机选择PDF和页面
+PDF_FILE=$(find . -name "*.pdf" | shuf -n 1)
+PAGES=$(pdfinfo "$PDF_FILE" | grep Pages | awk '{print $2}')
+PAGE=$((1 + RANDOM % PAGES))
+# 提取文件名（不含路径和扩展名）
+BASENAME=$(basename "$PDF_FILE" .pdf)
+
+# 创建新的文件名：原文件名_页码.pdf
+OUTPUT_FILE="/tmp/${BASENAME}_page${PAGE}.pdf"
+
+# 提取指定页面并保存为新的PDF
+pdftk "$PDF_FILE" cat $PAGE output "$OUTPUT_FILE"
+open "$OUTPUT_FILE"
+
+# 显示信息
+echo "原文件: $PDF_FILE"
+echo "页数: $PAGES"
+echo "选择页: $PAGE"
+echo "已保存: $OUTPUT_FILE"
+
+tannal@desktop:~/tannalwork/books$ while true; do
+  PDF_FILE=$(find . -name "*.pdf" | shuf -n 1)
+  PAGES=$(pdfinfo "$PDF_FILE" | grep Pages | awk '{print $2}')
+  PAGE=$((1 + RANDOM % PAGES))
+  pdftoppm -f $PAGE -l $PAGE "$PDF_FILE" | convert - /tmp/random_page.jpg;   display /tmp/random_page.jpg     sleep 10; done
+grep: (standard input): binary file matches
+-bash: 1 + RANDOM % PAGES: division by 0 (error token is "PAGES")
+tannal@desktop:~/tannalwork/books$ while true; do   PDF_FILE=$(find . -name "*.pdf" | shuf -n 1)  ;   PAGES=$(pdfinfo "$PDF_FILE" | grep Pages | awk '{print $2}')  ;   PAGE=$((1 + RANDOM % PAGES))  ;   pdftoppm -f $PAGE -l $PAGE "$PDF_FILE" | convert - /tmp/random_page.jpg;   display /tmp/random_page.jpg     sleep 10; done
+
+
 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
 
 # 2024-11-22
