@@ -1,4 +1,258 @@
 
+# 2024-11-24
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+WebAssembly/threads: Threads and Atomics in WebAssembly
+https://github.com/WebAssembly/threads
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+Cap'n Proto
+https://github.com/capnproto
+
+Cap’n Proto | Hacker News
+https://news.ycombinator.com/item?id=12471266
+
+Protobuf seems like a lot of overhead for this use case? · Issue #269 · denoland/deno
+https://github.com/denoland/deno/issues/269
+
+The Computer Language Benchmarks Game - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Computer+Language+Benchmarks+Game
+
+jmahler/shootout: Computer Language Shootout
+https://github.com/jmahler/shootout
+
+Measured : Which programming language is fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/
+
+Python 3 vs Java - Which programs are fastest? (Benchmarks Game)
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html
+
+Timo Bingmann - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Timo+Bingmann+
+
+gunnarmorling/1brc: 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+
+1brc/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java at main · gunnarmorling/1brc
+https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java
+
+Recent Problems - Project Euler
+https://projecteuler.net/recent
+
+TPC-H - PostgreSQL wiki
+https://wiki.postgresql.org/wiki/TPC-H
+
+Machine Folk from GPT-2! | Folk the Algorithms
+https://highnoongmt.wordpress.com/2019/10/28/machine-folk-from-gpt-2/#comments
+
+Data formatting issue: missing unique IDs & stray HTML · Issue #9 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/issues/9
+
+Code search results
+https://github.com/search?q=repo%3Akarpathy%2Fllm.c+alignment&type=code
+
+lm-human-preferences/lm_human_preferences/train_reward.py at master · openai/lm-human-preferences
+https://github.com/openai/lm-human-preferences/blob/master/lm_human_preferences/train_reward.py
+
+gpt3 Ada 350m - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpt3+Ada++350m
+
+openai/lm-human-preferences: Code for the paper Fine-Tuning Language Models from Human Preferences
+https://github.com/openai/lm-human-preferences
+
+Fine-tuning GPT-2 from human preferences | OpenAI
+https://openai.com/index/fine-tuning-gpt-2/
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+js-training-examples/memory/leaks-node/examples/trackRetaining.js at master · naugtur/js-training-examples
+https://github.com/naugtur/js-training-examples/blob/master/memory/leaks-node/examples/trackRetaining.js
+
+Issue search results
+https://github.com/search?q=repo%3Anodejs%2Fnode+track-retaining-path&type=issues
+
+vlt serverless registry
+http://localhost:1337/
+
+Photoshop is now on the web!. Enabled by WebAssembly, Web Components… | by Addy Osmani | Medium
+https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a
+
+Mountains - Adobe Photoshop
+https://photoshop.adobe.com/id?learnid=7b050fa34872
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+programmable-markup-language-for-typesetting.pdf
+https://laurmaedje.github.io/programmable-markup-language-for-typesetting.pdf
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1929060 - NER model fails on GPU for `q8` (int8)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1929060#c5
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+(78) Discord | #internals | Dioxus Labs
+https://discord.com/channels/899851952891002890/928812591126569000
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+(51) Pen and Path tool improvements (Issue #1870) Requirements Explainer - YouTube
+https://www.youtube.com/watch?v=OmveqhzXJFg
+
+Getting Started - Rust Compiler Development Guide
+https://rustc-dev-guide.rust-lang.org/
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+sched-ext
+https://github.com/sched-ext
+
+Introduction to SpiderMonkey exploitation.
+https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/
+
+Why is network-byte-order defined to be big-endian? - Stack Overflow
+https://stackoverflow.com/questions/13514614/why-is-network-byte-order-defined-to-be-big-endian
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+test: add fast api tests for getLibuvNow() by anonrig · Pull Request #55905 · nodejs/node
+https://github.com/nodejs/node/pull/55905/files#diff-2cc92781a9c6d2ed05b4cc6f3e10378f66ac4318af0b43cc3356433780173169
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+Farama-Foundation/Gymnasium: An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+https://github.com/Farama-Foundation/Gymnasium
+
+2407.17032v3.pdf
+https://arxiv.org/pdf/2407.17032
+
+Farama-Foundation/PettingZoo: An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities
+https://github.com/Farama-Foundation/PettingZoo
+
+美国佐治亚州 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=TYV&sca_esv=0c814c2424608e41&channel=fs&sxsrf=ADLYWILxo1pxLMsSYjvpwXOAlVhXBV-SPg:1732350869653&q=%E7%BE%8E%E5%9B%BD%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCAxfUXblyFhp5IdiVAbZEgibpdU36pRpxgVm2HjpLHXGyksbcmbytGmKOp4OFTQ7CiLWFGsVY4wkMh2ow53YMF_qJQHHR3J2uhQ_UA7LdntW0DH0wPjf2iSVXERRJgAILoczUNE32jpME0035e5VrgnuI0LExE_gxlyy-QiaCc-fQ4QPDNwLSqrQAPkGg5JXq_YQg-w&sa=X&ved=2ahUKEwiu6NjxhfKJAxUc3jgGHR4lE-IQtKgLegQIDRAB&biw=1850&bih=968&dpr=1
+
+thiblahute (thiblahute) / Repositories
+https://github.com/thiblahute?tab=repositories
+
+DQN 算法
+https://hrl.boyuai.com/chapter/2/dqn%E7%AE%97%E6%B3%95
+
+alphago reinforcement learning - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=alphago+reinforcement+learning
+
+AlphaGo - Wikipedia
+https://en.wikipedia.org/wiki/AlphaGo
+
+cetz-package/cetz: CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+https://github.com/cetz-package/cetz
+
+Issues · linebender/resvg
+https://github.com/linebender/resvg/issues
+
+usvg --preserve-markers feature request · Issue #706 · linebender/resvg
+https://github.com/linebender/resvg/issues/706
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(131) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+oxc
+https://github.com/oxc-project
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+amhndu/SimpleNES: An NES emulator in C++
+https://github.com/amhndu/SimpleNES
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Introduction - Mergiraf
+https://mergiraf.org/
+
+excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams
+https://github.com/excalidraw/excalidraw/
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Allow alternative era for Chinese calendar by anba · Pull Request #4309 · tc39/test262
+https://github.com/tc39/test262/pull/4309
+
+⚙ D229445 Bug 1928966, part 2: Add tests for JS::ParseInt. r=yulia,arai
+https://phabricator.services.mozilla.com/D229445
+
+⚙ D228292 Bug 1928966, part 1: Implement JS::ParseInt. r=yulia,arai
+https://phabricator.services.mozilla.com/D228292#change-9QaKAy6uGSyI
+
+Console Standard
+https://console.spec.whatwg.org/#formatter
+
+Coffee Compiler Club, 2024_11_22 - YouTube
+https://www.youtube.com/watch?v=ncLZEYJubmM&t=2738s
+
+Segfault with readline · Issue #15344 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15344
+
+google-summer-of-code/gsoc/past/2024.md at main · rust-lang/google-summer-of-code
+https://github.com/rust-lang/google-summer-of-code/blob/main/gsoc/past/2024.md#Faster-register-allocator-for-Cranelift
+
+Following — Bluesky
+https://bsky.app/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+microsoft/react-native-windows: A framework for building native Windows apps with React.
+https://github.com/microsoft/react-native-windows
+
+microsoft/react-native-macos: A framework for building native macOS apps with React.
+https://github.com/microsoft/react-native-macos
+
+Who uses MobX? · mobxjs/mobx · Discussion #681
+https://github.com/mobxjs/mobx/discussions/681
+
+battlefield - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=battlefield
+
+vampire survivors - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=vampire+survivors
+
+phaserjs/phaser: Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+https://github.com/phaserjs/phaser
+
+The Origin Story Behind Counter-Strike's Most Iconic Map - Noclip Documentary - YouTube
+https://www.youtube.com/watch?v=FWWhxfGq_yk
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+TrenchBroom/TrenchBroom: Cross-Platform Level Editor
+https://github.com/TrenchBroom/TrenchBroom
+
 # 2024-11-23
 
 Yjs Monaco Example
