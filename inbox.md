@@ -1,5 +1,13 @@
 
+# 2024-11-24
+
+git worktree add ../node-blob-fast-api -b blob-fast-api
+
+CC="clang" CXX="clang++" ./configure --ninja --debug -C --node-builtin-modules-path $(pwd)
+
+
 # 2024-11-23
+
 
 #!/bin/bash
 # 随机选择PDF和页面
