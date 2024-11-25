@@ -1,4 +1,162 @@
 
+# 2024-11-25
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+test: add fast api tests for getLibuvNow() by anonrig · Pull Request #55905 · nodejs/node
+https://github.com/nodejs/node/pull/55905/files
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+Farama-Foundation/Gymnasium: An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+https://github.com/Farama-Foundation/Gymnasium
+
+2407.17032v3.pdf
+https://arxiv.org/pdf/2407.17032
+
+Farama-Foundation/PettingZoo: An API standard for multi-agent reinforcement learning environments, with popular reference environments and related utilities
+https://github.com/Farama-Foundation/PettingZoo
+
+thiblahute (thiblahute) / Repositories
+https://github.com/thiblahute?tab=repositories
+
+DQN 算法
+https://hrl.boyuai.com/chapter/2/dqn%E7%AE%97%E6%B3%95
+
+BoyuAI Group
+https://github.com/boyu-ai
+
+alphago reinforcement learning - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=alphago+reinforcement+learning
+
+AlphaGo - Wikipedia
+https://en.wikipedia.org/wiki/AlphaGo
+
+cetz-package/cetz: CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+https://github.com/cetz-package/cetz
+
+tannal (tannal)
+https://github.com/tannal
+
+gpu zen3 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpu+zen3
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=sterile&op=translate
+
+JellyBean android - Google 搜索
+https://www.google.com/search?q=JellyBean+android&client=ubuntu-sn&hs=aRD&sca_esv=1c4f30f7000000d8&channel=fs&sxsrf=ADLYWIKwxA7twHsLPv7mxiBOjY8Fb4PV4Q%3A1732440131226&ei=Q_BCZ_avDfTE4-EP-7LcgAY&ved=0ahUKEwi23fa00vSJAxV04jgGHXsZF2AQ4dUDCA8&uact=5&oq=JellyBean+android&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUplbGx5QmVhbiBhbmRyb2lkMggQABiABBjLATIGEAAYCBgeMgYQABgIGB4yCBAAGAgYChgeMggQABgIGAoYHjIIEAAYCBgKGB4yBhAAGAgYHjIIEAAYCBgKGB4yBhAAGAgYHjIIEAAYCBgKGB5I6SNQmAhY4iJwA3gBkAEAmAH0AaABlhCqAQUwLjMuN7gBA8gBAPgBAZgCDaAC6RDCAgoQABiwAxjWBBhHwgIEECMYJ8ICCxAuGIAEGMcBGK8BwgIFEAAYgATCAgcQABiABBgKwgIOEC4YgAQYxwEYywEYrwHCAggQLhiABBjLAcICBBAAGB7CAgYQABgFGB7CAgUQIRigAcICChAAGIAEGAoYywHCAh0QLhiABBjHARjLARivARiXBRjcBBjeBBjgBNgBAZgDAIgGAZAGCroGBggBEAEYFJIHBTMuMS45oAfiPg&sclient=gws-wiz-serp
+
+SEAndroid-NDSS2013.pdf
+http://www.cs.columbia.edu/~lierranli/coms6998-7Spring2014/papers/SEAndroid-NDSS2013.pdf
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+security_binder_set_context_mgr(struct - Search
+https://cs.android.com/search?q=security_binder_set_context_mgr(struct&sq=
+
+鲍勃·李_百度百科
+https://baike.baidu.com/item/%E9%B2%8D%E5%8B%83%C2%B7%E6%9D%8E/62860613
+
+Discover — Bluesky
+https://bsky.app/
+
+Roadmap · servo/servo Wiki
+https://github.com/servo/servo/wiki/Roadmap
+
+Firesky
+https://firesky.tv/
+
+Get Rust code linking in with filament · google/filament@133c5ff
+https://github.com/google/filament/commit/133c5ff08735f99553da6ac644f4c16f9df10101#diff-43fa1e7087d0cb3802258fc31c9ebca3ceeb318ec6178560feffaa04592ed7d2
+
+Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug - The GitHub Blog
+https://github.blog/security/vulnerability-research/privilege-escalation-polkit-root-on-linux-with-bug/
+
+Linux local privilege escalation using authentication bypass vulnerability in polkit CVE-2021-3560 - YouTube
+https://www.youtube.com/watch?v=QZhz64yEd0g
+
+kevinbackhouse (Kevin Backhouse)
+https://github.com/kevinbackhouse
+
+kevinbackhouse/securitylab: Resources related to GitHub Security Lab
+https://github.com/kevinbackhouse/securitylab
+
+2211.09124v3.pdf
+https://arxiv.org/pdf/2211.09124
+
+google stop fund mozilla - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=google+stop+fund+mozilla
+
+> Mozilla is funded by Google You aren't saying it, but it is implied or can eas... | Hacker News
+https://news.ycombinator.com/item?id=39725490
+
+Will the ban on Google payments kill Mozillas Firefox? | Tuta
+https://tuta.com/blog/will-ban-on-google-payments-kill-mozilla-firefox
+
+python - How to solve AttributeError: module 'numpy' has no attribute 'bool'? - Stack Overflow
+https://stackoverflow.com/questions/74893742/how-to-solve-attributeerror-module-numpy-has-no-attribute-bool
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Martin Abadi & Luca Cardelli - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Martin+Abadi+%26+Luca+Cardelli
+
+FOOL1-report.pdf
+https://www.cs.cmu.edu/~aldrich/FOOL/FOOL1/FOOL1-report.pdf
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(129) Discord | #announcements | GPU MODE
+https://discord.com/channels/1189498204333543425/1189640399476764692
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Issues · amhndu/SimpleNES
+https://github.com/amhndu/SimpleNES/issues
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Web Incubator CG
+https://github.com/WICG
+
+Coffee Compiler Club, 2024_11_22 - YouTube
+https://www.youtube.com/watch?v=ncLZEYJubmM&t=2738s
+
+Segfault with readline · Issue #15344 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15344
+
+Following — Bluesky
+https://bsky.app/
+
+The Origin Story Behind Counter-Strike's Most Iconic Map - Noclip Documentary - YouTube
+https://www.youtube.com/watch?v=FWWhxfGq_yk
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 # 2024-11-24
 
 Yjs Prosemirror Example
