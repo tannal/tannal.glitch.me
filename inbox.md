@@ -1,6 +1,8 @@
 
 # 2024-11-24
 
+12.5+3.5+2.5+10
+
 git worktree add ../node-blob-fast-api -b blob-fast-api
 
 ./configure --ninja --debug -C --node-builtin-modules-path $(pwd) --v8-with-dchecks
