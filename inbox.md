@@ -3,7 +3,7 @@
 
 git worktree add ../node-blob-fast-api -b blob-fast-api
 
-CC="clang" CXX="clang++" ./configure --ninja --debug -C --node-builtin-modules-path $(pwd)
+./configure --ninja --debug -C --node-builtin-modules-path $(pwd) --v8-with-dchecks
 
 
 # 2024-11-23
