@@ -1,6 +1,130 @@
 
 # 2024-11-25
 
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(135) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Issues · amhndu/SimpleNES
+https://github.com/amhndu/SimpleNES/issues
+
+SuperMarioBros nes rom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SuperMarioBros+nes+rom
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+WICG repositories
+https://github.com/orgs/WICG/repositories
+
+Coffee Compiler Club, 2024_11_22 - YouTube
+https://www.youtube.com/watch?v=ncLZEYJubmM&t=2738s
+
+Segfault with readline · Issue #15344 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/15344
+
+Discover — Bluesky
+https://bsky.app/
+
+The Origin Story Behind Counter-Strike's Most Iconic Map - Noclip Documentary - YouTube
+https://www.youtube.com/watch?v=FWWhxfGq_yk
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+URL: revokeObjectURL() static method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/URL/revokeObjectURL_static
+
+Faster JavaScript calls · V8
+https://v8.dev/blog/adaptor-frame
+
+Using V8 Fast API in Node.js core - Yagiz Nizipli's blog
+https://www.yagiz.co/using-v8-fast-api-in-node-js-core/
+
+v8-fast-api-calls.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/include/v8-fast-api-calls.h
+
+src: implement v8 fast api for url canParse by KhafraDev · Pull Request #47552 · nodejs/node
+https://github.com/nodejs/node/pull/47552/files#diff-fba491d8512c61feda6d00a4808d7446e4a51e9352f0d29dade98f34c72084e5
+
+…/js-heap-broker.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/2066971/4/src/compiler/js-heap-broker.cc
+
+there can be more than one Blob URL Store · Issue #290 · whatwg/url
+https://github.com/whatwg/url/issues/290
+
+File API
+https://w3c.github.io/FileAPI/#BlobURLStore
+
+681-400x400.jpg (JPEG Image, 400 × 400 pixels)
+https://fastly.picsum.photos/id/681/400/400.jpg?hmac=HRS7JxcpqzUdJwMymnYn4hGCJGs2Vo9ehfo4N4PFKDg
+
+ArrayBuffer - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+XPCJSRuntime.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/6027d1d91f2d3204a3992633b3ef730ff005fc64/js/xpconnect/src/XPCJSRuntime.cpp#1718-1722
+
+counter strike github - Google 搜索
+https://www.google.com/search?q=counter+strike+github&client=ubuntu-sn&hs=hRE&sca_esv=c744cb070de47b7e&channel=fs&sxsrf=ADLYWIJg610e5bQJO4xwtTEaUwGUgaSe3Q:1732523422527&ei=njVEZ6_dH5GZ4-EPxoqdmA0&start=10&sa=N&sstk=ATObxK69PRNt6cR6lt7KDRxzA_6Um1IN8ScLLKIgk9oMPwh8Jf40xWfLl0rCWL3jK4Rov567N5kIWKd9StQZv0omlFSFC4TbHsjnlA&ved=2ahUKEwivpKjZiPeJAxWRzDgGHUZFB9MQ8tMDegQILRAE&biw=1850&bih=968&dpr=1
+
+tatjam/CSCOVersion: A repository containing the latest version of CS:CO and a link to its download
+https://github.com/tatjam/CSCOVersion
+
+csco repositories
+https://github.com/orgs/csco/repositories
+
+eukara/freecs: Clean-room Counter-Strike 1.5 in QuakeC, using Nuclide SDK. Previously known as OpenCS! (2016)
+https://github.com/eukara/freecs
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005
+
+MemoryMetrics.h - mozsearch
+https://searchfox.org/mozilla-central/rev/6027d1d91f2d3204a3992633b3ef730ff005fc64/js/public/MemoryMetrics.h#190
+
+XPCJSRuntime.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/6027d1d91f2d3204a3992633b3ef730ff005fc64/js/xpconnect/src/XPCJSRuntime.cpp#1718-1722
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+mwcampbell/xilem-to-do-mvc-android
+https://github.com/mwcampbell/xilem-to-do-mvc-android
+
+David Johnston | Counter-Strike Wiki | Fandom
+https://counterstrike.fandom.com/wiki/David_Johnston
+
+林俊傑 她說 （高清版） - YouTube
+https://www.youtube.com/watch?v=a03rusIcxmg
+
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
