@@ -1,7 +1,9 @@
 
 # dev
 
-Go的优势领域 server and services
+Go的优势领域
+servers and internet services
+
 云原生应用
 微服务架构
 DevOps工具
@@ -34,8 +36,6 @@ sudo snap install go --classic
 
 GOROOT_BOOTSTRAP=/usr ./make.bash
 GOOS=linux GOARCH=amd64 curl -sSL https://go.dev/src/bootstrap.bash | bash
-
-
 
 git clone https://go.googlesource.com/go
 

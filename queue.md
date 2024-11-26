@@ -1,7 +1,6 @@
 
 # waiting for me to reading
 
-
 Real-Time Concurrent Garbage Collection
 https://www.youtube.com/watch?v=BHe9bFEkqfw
 
@@ -21,3 +20,9 @@ The Next Generation of Neural Networks
 https://behdad.org/text2024/
 
 https://github.com/sillycross/PochiVM
+
+
+# worth review again
+
+Really Understanding Garbage Collection Gil Tene Talk QCon SF 2019
+https://www.youtube.com/watch?v=ocUx-QUJMfo

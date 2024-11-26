@@ -576,6 +576,30 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-11-25 - 2024-12-2 13
 
+## Shit
+
+## Sleep
+
+## Eating
+
+## Sports
+
+## Social Activities
+[] Baiye zhui xiong
+
+## Action needed from Me TODO (don't need supervisor) 4
+[] complex networking abstract 11.30
+[x] update cv & cover letter
+[] nodejs tests for fast api calls & reading v8 blogs about fast api calls invest why test is failing.
+[] bun & JavaScriptCore
+[] Impment SIMD relaxed for wasm in JSC webkit relaxed simi pr fmsub fnmsub
+see https://github.com/WebKit/WebKit/pull/14937/files
+https://github.com/WebAssembly/relaxed-simd/issues/27
+https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
+[] linebender office hour 11.28 00:00 - 01:00
+[] 50/800 20/700 achievements/commits
+
+
 # 2024-11-18 - 2024-11-25 12
 
 [] update cv apply
@@ -586,7 +610,7 @@ https://github.com/WebAssembly/relaxed-simd/issues/27
 https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [] complex networking abstract 11.30
 [] linebender office hour 11.22 00:00 - 01:00
-[] reinforcement learning
+[x] reinforcement learning
 
 ## Blocked on others/supervisor
 
