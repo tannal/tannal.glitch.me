@@ -1,4 +1,136 @@
 
+# 2024-11-26
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Faster JavaScript calls · V8
+https://v8.dev/blog/adaptor-frame
+
+constant-array-builder.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/interpreter/constant-array-builder.cc
+
+TurboFan · V8
+https://v8.dev/docs/turbofan
+
+tannal
+https://tannal.github.io/
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005#7961309
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=epilogue&op=translate
+
+javascript - create blob from file path vue electron bulider - Stack Overflow
+https://stackoverflow.com/questions/65157889/create-blob-from-file-path-vue-electron-bulider
+
+CanadaHonk/porffor: A from-scratch experimental AOT JS engine, written in JS
+https://github.com/CanadaHonk/porffor/tree/main
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=contours&op=translate
+
+注意缺陷多动障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Terminal: Go to Recent Directory · Issue #17840 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/17840
+
+openai browser - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=openai+browser
+
+OpenAI Considers Taking on Google with Browser | Hacker News
+https://news.ycombinator.com/item?id=42213096
+
+"The Future is RISC-Y" -- Linus Sebastian , Jim Keller interview : r/RISCV
+https://www.reddit.com/r/RISCV/comments/1cx31oc/the_future_is_riscy_linus_sebastian_jim_keller/
+
+tenstorrent/pytorch2.0_ttnn: ⭐️ TTNN Compiler for PyTorch 2.0 ⭐️ It enables running PyTorch2.0 models on Tenstorrent hardware
+https://github.com/tenstorrent/pytorch2.0_ttnn
+
+boom-pipeline-detailed.webp (PNG Image, 1910 × 2635 pixels) — Scaled (36%)
+https://docs.boom-core.org/en/latest/_images/boom-pipeline-detailed.png
+
+BOOM: The Berkeley Out-of-Order RISC-V Processor
+https://github.com/riscv-boom
+
+User Speakjava - Stack Overflow
+https://stackoverflow.com/users/8153713/speakjava
+
+Really Understanding Garbage Collection Gil Tene Talk QCon SF 2019 - YouTube
+https://www.youtube.com/watch?v=ocUx-QUJMfo
+
+zig jvm - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=zig+jvm
+
+High Performance JVM for Superior Java | Azul Platform Prime
+https://www.azul.com/products/prime/
+
+Extracting glyphs from a font file (it's not easy) - YouTube
+https://www.youtube.com/watch?v=IRw57wFtkVs
+
+Orinoco: young generation garbage collection · V8
+https://v8.dev/blog/orinoco-parallel-scavenger
+
+Jank Busters Part Two: Orinoco · V8
+https://v8.dev/blog/orinoco
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=capsules&op=translate
+
+pest-parser/pest: The Elegant Parser
+https://github.com/pest-parser/pest
+
+Expose update function · slowtec/xilem@24ed448
+https://github.com/slowtec/xilem/commit/24ed448dd0d9b4c5fc17241000167bc28cd78f68
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+tbillington/kondo: Cleans dependencies and build artifacts from your projects.
+https://github.com/tbillington/kondo
+
+…/camera_hal.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromiumos/platform2/+/6040761/6/camera/hal/usb/camera_hal.cc
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(128) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+1680362 - warning: Usage of ASCII file functions (here fopen) is forbidden on Windows.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1680362
+
+The Origin Story Behind Counter-Strike's Most Iconic Map - Noclip Documentary - YouTube
+https://www.youtube.com/watch?v=FWWhxfGq_yk
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+
 # 2024-11-25
 
 
