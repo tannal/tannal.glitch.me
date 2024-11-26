@@ -1,4 +1,29 @@
 
+# 2024-11-26
+
+Tenstorrent的Ascalon：
+- Jim Keller领导设计
+- 性能目标接近Apple A16
+- 支持向量扩展(V-ext)
+- 面向AI加速
+
+SiFive的P670/P470：
+- 商用成熟度最高
+- 支持Linux/Android
+- 性能接近A75级别
+- 已有量产芯片
+
+- 平头哥玄铁C910
+- 芯来科技N900
+- 主要面向嵌入式市场
+- 性能相对较低
+
+- BOOM(Berkeley Out-of-Order Machine)
+- Rocket Core
+- CVA6(前身是ARIANE)
+- 主要用于研究和教育
+
+
 # 2024-11-24
 
 12.5+3.5+2.5+10
