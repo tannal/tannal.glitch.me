@@ -1,6 +1,12 @@
 
 # 2024-11-26
 
+Hi, Dan,
+Not related to this revision, I'm struggling to find more bugs/features to work on.
+Do you happen to have one?
+I can send you DM on `chat.mozilla.org` if needed.
+
+
 Tenstorrent的Ascalon：
 - Jim Keller领导设计
 - 性能目标接近Apple A16
