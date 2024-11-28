@@ -1,6 +1,13 @@
 
 # 2024-11-26
 
+
+sudo modprobe snd-aloop
+sudo modprobe v4l2loopback
+
+droidcam-cli -a -v 192.168.1.100 4747  # 替换为你的IP
+pactl set-default-source "droidcam"
+
 https://futurefrontend.com/schedule/
 
 cd /tmp
