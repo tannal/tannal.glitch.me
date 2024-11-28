@@ -2,7 +2,7 @@
 # 2024-11-26
 
 Hi, Dan,
-Not related to this revision, I'm struggling to find more bugs/features to work on.
+Not related to this revision, I'm struggling to find more bugs/features in spidermonkey to work on.
 Do you happen to have one?
 I can send you DM on `chat.mozilla.org` if needed.
 

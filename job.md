@@ -568,6 +568,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-30 - 2025-1-6
 # 2024-12-23 - 2024-12-30
+
 # 2024-12-16 - 2024-12-23 16
 
 # 2024-12-9 - 2024-12-16 15
