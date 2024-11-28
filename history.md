@@ -1,4 +1,204 @@
 
+# 2024-11-28
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+DOJ says Google must sell Chrome to crack open its search monopoly - The Verge
+https://www.theverge.com/2024/11/20/24300617/doj-google-search-antitrust-chrome-breakup
+
+url: add V8 Fast API for Blob RevokeObjectURL by tannal · Pull Request #54712 · nodejs/node
+https://github.com/nodejs/node/pull/54712
+
+node/lib/fs.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/lib/fs.js#L1458
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#7936454
+
+File system | Node.js v23.3.0 Documentation
+https://nodejs.org/docs/latest/api/fs.html#fspromisesreaddirpath-options
+
+Issues · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/issues
+
+Security Enhanced (SE) Android: Bringing Flexible MAC to Android · Issue #92 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/92
+
+tannal
+https://tannal.github.io/
+
+mac m4 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=mac+m4
+
+sum notation - Wolfram|Alpha
+https://www.wolframalpha.com/input?i=sum+notation
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=abysmal&op=translate
+
+How to submit a patch — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/how_to_submit_a_patch.html
+
+math – Typst
+https://typst.app/project/pi2nqnGD75p5NtqYq66p13
+
+Math – Typst Documentation
+https://typst.app/docs/reference/math/
+
+Cursor rework by dfrg · Pull Request #170 · linebender/parley
+https://github.com/linebender/parley/pull/170
+
+Implement cursor blinking in text editor by tannal · Pull Request #152 · linebender/parley
+https://github.com/linebender/parley/pull/152
+
+978-3-030-98467-0_9.pdf
+https://link.springer.com/content/pdf/10.1007/978-3-030-98467-0_9.pdf
+
+Chris Currier - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Chris+Currier
+
+Alex Petrov - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Alex+Petrov
+
+Discover — Bluesky
+https://bsky.app/
+
+State of Frontend 2024
+https://tsh.io/state-of-frontend/
+
+paperdave/bake-svelte-plugin-example: extremely barebones concept of "svelte server components"
+https://github.com/paperdave/bake-svelte-plugin-example/tree/master
+
+Cross-browser Vertical Slider using input type="range" - DEV Community
+https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
+
+"vertical slider" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=vertical%20slider
+
+A Sliding Nightmare: Understanding The Range Input | CSS-Tricks
+https://css-tricks.com/sliding-nightmare-understanding-range-input/#orientation
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/input.html#range-state-(type=range)
+
+Content delivery network - Wikipedia
+https://en.wikipedia.org/wiki/Content_delivery_network
+
+Security Enhanced (SE) Android: Bringing Flexible MAC to Android · Issue #92 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/92
+
+我的秘密-G.E.M(邓紫棋) X.X.X.Live - YouTube
+https://www.youtube.com/watch?v=FfNo5UjMZ2g
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6836
+
+The Art of WebKit Exploitation - YouTube
+https://www.youtube.com/watch?v=mkLLieBksEs
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Bug 1597544 [wpt PR 20306] - HTML: Add a tentative test for input ele… · xeonchen/gecko@2a9cb37
+https://github.com/xeonchen/gecko/commit/2a9cb37752b64ea4ca6a95e141512c9761c0dbd1
+
+zcorpan (Simon Pieters)
+https://github.com/zcorpan
+
+zcorpan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=zcorpan
+
+tannal (tannal)
+https://github.com/tannal
+
+Add ::file-selector-button to the UA stylesheet by zcorpan · Pull Request #6447 · whatwg/html
+https://github.com/whatwg/html/pull/6447
+
+UA style rules for input[type=file] and its ::file-selector-button · Issue #6452 · whatwg/html
+https://github.com/whatwg/html/issues/6452
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(141) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Element [20] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org/$0n1ksL6Vy-kQ7ffWEOwsLoN9Mr6x6m8TRKUEcclcO5g
+
+1680362 - warning: Usage of ASCII file functions (here fopen) is forbidden on Windows.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1680362
+
+State of JavaScript 2024: Build Tools
+https://survey.devographics.com/en-US/survey/state-of-js/2024/yo3fjiwpw3LD3sJzbxXn-/6#rolldown
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+https://phabricator.services.mozilla.com/D230005
+https://phabricator.services.mozilla.com/D230005
+
+⚙ D230005 Bug 1917139 - Ship Redeclarable global eval-introduced vars proposal. r?dminor
+https://phabricator.services.mozilla.com/D230005
+
+MemoryMetrics.h - mozsearch
+https://searchfox.org/mozilla-central/rev/6027d1d91f2d3204a3992633b3ef730ff005fc64/js/public/MemoryMetrics.h#190
+
+XPCJSRuntime.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/6027d1d91f2d3204a3992633b3ef730ff005fc64/js/xpconnect/src/XPCJSRuntime.cpp#1718-1722
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+droidcam github - Google 搜索
+https://www.google.com/search?q=droidcam+github&client=ubuntu-sn&hs=jSf&sca_esv=f04f39c9057254ed&channel=fs&sxsrf=ADLYWIIn17p1macIuG0zKl8vD85q0FGEXg%3A1732786153361&ei=6TdIZ_XfFb3N1e8P4s25wQQ&ved=0ahUKEwi1-JG52_6JAxW9ZvUHHeJmLkgQ4dUDCA8&uact=5&oq=droidcam+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2Ryb2lkY2FtIGdpdGh1YjIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5I0wxQ3ANY6wtwAXgBkAEAmAHiAaABmgqqAQMyLTa4AQPIAQD4AQGYAgegAqoKwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIHEAAYgAQYCsICBxAAGIAEGAyYAwCIBgGQBgqSBwUxLjAuNqAH-hE&sclient=gws-wiz-serp
+
+dev47apps/droidcam-linux-client: GNU/Linux/nix client for DroidCam
+https://github.com/dev47apps/droidcam-linux-client
+
+dev47apps repositories
+https://github.com/orgs/dev47apps/repositories
+
+GitHub
+https://github.com/
+
+xiph/rav1e: The fastest and safest AV1 encoder.
+https://github.com/xiph/rav1e
+
+Rav1e, an AV1 encoder written in Rust and assembly | Hacker News
+https://news.ycombinator.com/item?id=23512161
+
 # 2024-11-26
 
 Yjs Prosemirror Example

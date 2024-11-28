@@ -322,6 +322,17 @@ https://treeherder.mozilla.org/jobs?repo=try
 - On branch color-theme
 [] remove meidia query
 
+- On branch input-range-vertical-align
+
+Cross-browser Vertical Slider using input type="range" - DEV Community
+https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
+"vertical slider" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=vertical%20slider
+A Sliding Nightmare: Understanding The Range Input | CSS-Tricks
+https://css-tricks.com/sliding-nightmare-understanding-range-input/#orientation
+HTML Standard
+https://html.spec.whatwg.org/multipage/input.html#range-state-(type=range)
+
 ```cpp
 void ParallelMarker::donateWorkFrom(GCMarker* src) {
   if (!gHelperThreadLock.tryLock()) {
