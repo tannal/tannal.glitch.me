@@ -3,6 +3,24 @@
 
 https://futurefrontend.com/schedule/
 
+cd /tmp
+wget https://files.dev47apps.net/linux/droidcam_latest.zip
+unzip droidcam_latest.zip -d droidcam
+cd droidcam
+sudo ./install-client
+
+droidcam-cli adb 4747
+
+sudo apt-get install adb
+sudo apt-get install v4l2loopback-dkms
+
+https://github.com/dev47apps/droidcam-linux-client
+
+# 加载内核模块
+sudo modprobe v4l2loopback
+
+# 设备会出现在
+/dev/video0  # 或其他数字
 
 # 2024-11-26
 
