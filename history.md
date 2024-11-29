@@ -1,6 +1,111 @@
 
 # 2024-11-29
 
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+tc39 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=qQu&sca_esv=d94789332f67040a&channel=fs&sxsrf=ADLYWIL_hPfTZrT9pTsM3x8yzZlHDsnLdg:1732843695385&q=tc39&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWmPFVdZpPWP9TZgZsLh8KhI-uBlX1rf6ENGN0Pvz-zA_Jb6RG-TI6onRTYiHTE_dYjLXkqLfjArKTbJ8IBsxgLx49yd3JRUnzaOP8_lvCD9guEqeXktjnMAhl9MVFdIkLCvinNfyymI4EQhto--w6P1lMvrU9OjBZ60sP_EIWZm-gSNy5A&sa=X&ved=2ahUKEwitj6jnsYCKAxWGk1YBHexHHqgQtKgLegQIGBAB&biw=1850&bih=968&dpr=1#vhid=Nz5iMcizHGWA2M&vssid=mosaic
+
+TC39 and its contributions to ECMAScript
+https://www.freecodecamp.org/news/tc39-and-its-contributions-to-ecmascript-c178b77f32e1/
+
+Issues · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues
+
+Graphite
+https://editor.graphite.rs/
+
+Graphite | Getting started
+https://graphite.rs/volunteer/guide/getting-started/
+
+Local Font Access API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Local_Font_Access_API
+
+How vector image editing app Boxy SVG uses the Local Font Access API to let users pick their favorite local fonts  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/how-boxysvg-uses-the-local-font-access-api
+
+Botspot/Boxy-SVG-RPi
+https://github.com/Botspot/Boxy-SVG-RPi
+
+Graphite
+http://localhost:8080/
+
+Graphite | Codebase overview
+https://graphite.rs/volunteer/guide/codebase-overview/
+
+WebAssembly BigInt to i64 conversion in JS API | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/wasm-bigint,wasm-bulk-memory,wasm-multi-value,wasm-mutable-globals,wasm-nontrapping-fptoint,wasm-signext,wasm-simd,wasm-threads
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=grinded&op=translate
+
+roseduan/roseduan.github.io: my blog roseduan.github.io
+https://github.com/roseduan/roseduan.github.io/tree/master
+
+react.dev/src/content/learn/thinking-in-react.md at main · reactjs/react.dev
+https://github.com/reactjs/react.dev/blob/main/src/content/learn/thinking-in-react.md
+
+[Code] A markdown parser. · Issue #96 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/96
+
+doj google chrome - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=doj+google+chrome
+
+Eric Schmidt says DOJ’s push to sell Chrome is a 'bad idea' : NPR
+https://www.npr.org/2024/11/22/nx-s1-5199766/eric-schmidt-interview-the-justice-department-google-ai
+
+DOJ will push Google to sell off Chrome | Hacker News
+https://news.ycombinator.com/item?id=42177767
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=rehearsed&op=translate
+
+Lecture 37: Introduction to SASS & GPU Microarchitecture - YouTube
+https://www.youtube.com/watch?v=we3i5VuoPWk
+
+lectures/lecture_004/cuda-mode-2024-02-03.pdf at main · gpu-mode/lectures
+https://github.com/gpu-mode/lectures/blob/main/lecture_004/cuda-mode-2024-02-03.pdf
+
+Coldplay - Yellow (Live in Madrid 2011) - YouTube
+https://www.youtube.com/watch?v=mRP72Ib2e9I
+
+ademeure (Aroun Demeure)
+https://github.com/ademeure
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(148) Discord | #announcements | Vite Land
+https://discord.com/channels/804011606160703521/861595956143587369
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Element [18] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+1680362 - warning: Usage of ASCII file functions (here fopen) is forbidden on Windows.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1680362
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Pull requests · tc39/test262
+https://github.com/tc39/test262/pulls?q=is%3Apr+author%3Atannal+is%3Aclosed
+
 tannal.glitch.me - Visual Studio Code - github+7b2276223a312c22726566223a7b2274797065223a362c226964223a226d61696e227d7d
 https://github.dev/tannal/tannal.glitch.me
 
