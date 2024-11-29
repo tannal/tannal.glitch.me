@@ -577,6 +577,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-11-25 - 2024-12-2 13
 
+
 ## Shit
 
 ## Sleep
@@ -599,6 +600,8 @@ https://github.com/WebAssembly/relaxed-simd/issues/27
 https://github.com/WebKit/WebKit/wiki/Tasks-for-new-contributors
 [] linebender office hour 11.28 00:00 - 01:00
 [] 50/800 20/700 achievements/commits
+https://arxiv.org/abs/2402.11523
+
 
 
 # 2024-11-18 - 2024-11-25 12

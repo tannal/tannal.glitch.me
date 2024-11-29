@@ -1,4 +1,109 @@
 
+# 2024-11-29
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+social network graph neural network - Google 搜索
+https://www.google.com/search?q=social+network+graph+neural+network&client=ubuntu-sn&hs=iW4&sca_esv=2519e3bcac7d97bc&channel=fs&sxsrf=ADLYWIK8_zBwDxU8r79_T8AGPn5V675dYA%3A1732803059305&ei=83lIZ_GhEqmM2roPzNCx2Ac&oq=social+network+graph+n&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnNvY2lhbCBuZXR3b3JrIGdyYXBoIG4qAggAMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI-HJQ8BhY311wA3gAkAEAmAGkAqABgiyqAQQyLTIyuAEDyAEA-AEBmAIZoAKcLagCCsICBxAjGCcY6gLCAgQQIxgnwgIFEAAYgATCAgsQLhiABBjRAxjHAcICChAjGIAEGCcYigXCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEBwgIIEAAYgAQYywHCAg4QLhiABBjRAxjHARjLAcICCBAuGIAEGMsBwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQGYAwe6BgYIARABGBSSBwYzLjAuMjKgB6KKAQ&sclient=gws-wiz-serp
+
+Graph Neural Networks for Social Recommendation - 1902.07243v2.pdf
+https://arxiv.org/pdf/1902.07243
+
+wenqifan03/GraphRec-WWW19: Graph Neural Networks for Social Recommendation, WWW'19
+https://github.com/wenqifan03/GraphRec-WWW19
+
+Wenqi Fan
+https://wenqifan03.github.io/
+
+Tutorial Graph Neural Networks on Social Networks
+https://www.kaggle.com/code/awadelrahman/tutorial-graph-neural-networks-on-social-networks#3.-Adjacency-matrix?-Degree-matrix?-an-example
+
+Backstreet Boys - As Long As You Love Me (Official HD Video) - YouTube
+https://www.youtube.com/watch?v=0Gl2QnHNpkA
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+PeiJieSun/NESCL: The code repository for the paper: Peijie et al., Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering. IEEE TKDE, 2023.
+https://github.com/PeiJieSun/NESCL?tab=readme-ov-file
+
+[2402.11523] Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering
+https://arxiv.org/abs/2402.11523
+
+Peijie Sun (孙培杰) - Homepage
+https://www.peijiesun.com/
+
+2402.11523v1.pdf
+https://arxiv.org/pdf/2402.11523
+
+LLM-Guided POI Recommendation with Multi-View Location Profiles - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=LLM-Guided+POI+Recommendation+with+Multi-View+Location+Profiles
+
+accessible HTML - arXiv info
+https://info.arxiv.org/about/accessible_HTML.html
+
+Unleashing the Power of Large Language Models for Group POI Recommendations - 2411.13415v1.pdf
+https://arxiv.org/pdf/2411.13415v1
+
+1609.02907v4.pdf
+https://arxiv.org/pdf/1609.02907
+
+blackpark - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=blackpark
+
+linkinpark - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=linkinpark
+
+Bass (sound) - Wikipedia
+https://en.wikipedia.org/wiki/Bass_(sound)
+
+对比学习 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0
+
+Missing translation in bibliography content · Issue #1838 · typst/typst
+https://github.com/typst/typst/issues/1838
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+YouTube
+https://www.youtube.com/
+
+New Issue · typst/typst
+https://github.com/typst/typst/issues/new?assignees=&labels=bug&projects=&template=1-bug.yml&title=Write+a+short+and+descriptive+title%21
+
+typst/citationberg: A library for parsing CSL styles.
+https://github.com/typst/citationberg
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(143) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Element [20] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org/$0n1ksL6Vy-kQ7ffWEOwsLoN9Mr6x6m8TRKUEcclcO5g
+
+1680362 - warning: Usage of ASCII file functions (here fopen) is forbidden on Windows.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1680362
+
+State of JavaScript 2024: Build Tools
+https://survey.devographics.com/en-US/survey/state-of-js/2024/yo3fjiwpw3LD3sJzbxXn-/6#rolldown
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+
 # 2024-11-28
 
 Yjs Prosemirror Example
