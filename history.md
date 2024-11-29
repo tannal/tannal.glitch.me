@@ -4,6 +4,87 @@
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+1812.07527v3.pdf
+https://arxiv.org/pdf/1812.07527
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+support for Typst language · Issue #12088 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/12088
+
+Issues · WeetHet/typst.zed
+https://github.com/WeetHet/typst.zed/issues
+
+Webview via Extensions · Issue #21208 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/21208
+
+bitcask-intro.pdf
+https://riak.com/assets/bitcask-intro.pdf
+
+doi2bib
+https://www.doi2bib.org/
+
+fletcher – Typst Universe
+https://typst.app/universe/package/fletcher
+
+cetz-package/cetz: CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+https://github.com/cetz-package/cetz
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=marched%20to%20waltzes.&op=translate
+
+topdeoo/NENU-Thesis-Typst: NENU-Thesis Template Wrote by Typst
+https://github.com/topdeoo/NENU-Thesis-Typst
+
+tannal (tannal) / October 2024
+https://github.com/tannal?tab=stars
+
+Marvin Minsky - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Marvin+Minsky
+
+@tannal.github.io — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+AAA - Analytical Anti-Aliasing
+https://blog.frost.kiwi/analytical-anti-aliasing/
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(143) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+dev (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU64U6FDW
+
+Element [20] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org/$0n1ksL6Vy-kQ7ffWEOwsLoN9Mr6x6m8TRKUEcclcO5g
+
+1680362 - warning: Usage of ASCII file functions (here fopen) is forbidden on Windows.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1680362
+
+State of JavaScript 2024: Build Tools
+https://survey.devographics.com/en-US/survey/state-of-js/2024/yo3fjiwpw3LD3sJzbxXn-/6#rolldown
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
 social network graph neural network - Google 搜索
 https://www.google.com/search?q=social+network+graph+neural+network&client=ubuntu-sn&hs=iW4&sca_esv=2519e3bcac7d97bc&channel=fs&sxsrf=ADLYWIK8_zBwDxU8r79_T8AGPn5V675dYA%3A1732803059305&ei=83lIZ_GhEqmM2roPzNCx2Ac&oq=social+network+graph+n&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnNvY2lhbCBuZXR3b3JrIGdyYXBoIG4qAggAMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI-HJQ8BhY311wA3gAkAEAmAGkAqABgiyqAQQyLTIyuAEDyAEA-AEBmAIZoAKcLagCCsICBxAjGCcY6gLCAgQQIxgnwgIFEAAYgATCAgsQLhiABBjRAxjHAcICChAjGIAEGCcYigXCAgoQLhiABBhDGIoFwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGOAE2AEBwgIIEAAYgAQYywHCAg4QLhiABBjRAxjHARjLAcICCBAuGIAEGMsBwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQGYAwe6BgYIARABGBSSBwYzLjAuMjKgB6KKAQ&sclient=gws-wiz-serp
 

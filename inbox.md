@@ -1,9 +1,12 @@
 
+# 2024-11-29
 
+Bun & JavaScriptCore & PLVM
+Web platform & Graphics
+Artificial Intelligence
 
 
 # 2024-11-26
-
 
 sudo modprobe snd-aloop
 sudo modprobe v4l2loopback
