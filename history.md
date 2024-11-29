@@ -1,6 +1,204 @@
 
 # 2024-11-29
 
+tannal.glitch.me - Visual Studio Code - github+7b2276223a312c22726566223a7b2274797065223a362c226964223a226d61696e227d7d
+https://github.dev/tannal/tannal.glitch.me
+
+百度一下，你就知道
+https://www.baidu.com/
+
+东北师范大学_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=2&tn=baidutop10&wd=%E4%B8%9C%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6&oq=%25E7%259B%25B4%25E6%2592%25AD%253A%25E5%259B%25BD%25E8%25B6%25B3%25E5%25B0%2586%25E6%2588%2598%25E6%2597%25A5%25E6%259C%25AC%2520%25E7%2590%2583%25E8%25BF%25B7%25E5%258A%25A0%25E6%25B2%25B9%25E5%258A%25A9%25E5%25A8%2581&rsv_pq=871f7a380006e6a0&rsv_t=a9473WzUPqV1qrOguyuCDSYp%2BwG5qPQuTIUxRCNOqLHquhNsiGtKfdcBrNGmjyjILA&rqlang=cn&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=7&rsv_sug1=7&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=dbsfdx&rsp=0&inputT=2794&rsv_sug4=2833
+
+东北师范大学
+https://www.nenu.edu.cn/
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+东北师范大学融合门户
+https://m-443.webvpn.nenu.edu.cn/portal_main/toPortalPage
+
+网上服务大厅
+https://my-443.webvpn.nenu.edu.cn/portal_main/toPortalPage
+
+创建 - 研究生学籍审核
+https://oa-443.webvpn.nenu.edu.cn/spa/workflow/static4form/index.html?_rdm=1731660453094#/main/workflow/req?iscreate=1&workflowid=33021&_key=qckxzz
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+「鋼琴教學」說好的幸福呢－周杰倫 Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=Are-BgiRg4Y
+
+MIDI Recorder
+https://midi-recorder.web.app/#viz=on&layout=equal&gravity-direction=up&pixels-per-second=20&3d-vertical=0&3d-distance=100&scale-x=1&midi-range=0..128&theme=white-and-accent-color&hue-rotate=0
+
+html-midi-player | Play and display MIDI files online
+https://cifkao.github.io/html-midi-player/
+
+harfbuzz font text online glyph - Google 搜索
+https://www.google.com/search?q=harfbuzz+font+text+online+glyph&sca_esv=62ffb42049f4a414&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIylLdH_e0t0FwgfXYtWbFujkKH-A%3A1731113543571&ei=R7IuZ4THIqTe4-EPt4rhyQI&ved=0ahUKEwjEhtK-hM6JAxUk7zgGHTdFOCkQ4dUDCA8&uact=5&oq=harfbuzz+font+text+online+glyph&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2hhcmZidXp6IGZvbnQgdGV4dCBvbmxpbmUgZ2x5cGgyCBAhGKABGMMESNsbUI8KWJUacAJ4AZABAJgB1gGgAfUNqgEFMC41LjS4AQPIAQD4AQGYAgagAqwGwgIKEAAYsAMY1gQYR8ICChAhGKABGMMEGArCAggQABiABBiiBJgDAIgGAZAGCpIHBTIuMS4zoAeJHg&sclient=gws-wiz-serp
+
+xi.zulipchat.com
+https://xi.zulipchat.com/#reload:120331668948
+
+harfbuzz/docs/wasm-shaper.md at main · harfbuzz/harfbuzz · GitHub
+https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md
+
+Slang Playground
+https://shader-slang.com/slang-playground/
+
+AAA - Analytical Anti-Aliasing
+https://blog.frost.kiwi/analytical-anti-aliasing/
+
+Office Hours 2024-11-21 - Google 文档
+https://docs.google.com/document/d/17EaoQ4nPSFYolzjmL-YNH-QCPjeyYRkIAZJJoKV7DA8/edit?tab=t.0#heading=h.evjimzdnrevx
+
+[css-color-4] Premultiplication in cylindrical spaces and mixing · Issue #11238 · w3c/csswg-drafts · GitHub
+https://github.com/w3c/csswg-drafts/issues/11238
+
+spirali (Ada Böhm) · GitHub
+https://github.com/spirali
+
+Compile times · Issue #1249 · googlefonts/fontations
+https://github.com/googlefonts/fontations/issues/1249
+
+Add ConcreteShape type by PoignardAzur · Pull Request #401 · linebender/kurbo · GitHub
+https://github.com/linebender/kurbo/pull/401
+
+Press Release - The Khronos Group Inc
+https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia
+
+Issue search results · GitHub
+https://github.com/search?q=repo%3AAccessKit%2Faccesskit%20vello&type=issues
+
+Ctrl-End followed by Ctrl-Del makes the vello_editor example panic · Issue #179 · linebender/parley · GitHub
+https://github.com/linebender/parley/issues/179
+
+WIP cursor rework by dfrg · Pull Request #170 · linebender/parley · GitHub
+https://github.com/linebender/parley/pull/170/files#diff-c8325095a0c6136817eb6f954e76dba6b25cc1d929beec3aa69d139ba9be68f4
+
+GitHub - mwcampbell/xilem-to-do-mvc-android
+https://github.com/mwcampbell/xilem-to-do-mvc-android
+
+Add cosmic text example by AustinMReppert · Pull Request #739 · linebender/vello · GitHub
+https://github.com/linebender/vello/pull/739/files#diff-df620d1b9b3d31d0c8e0558e1164960a2ce5d45dc3c6657797c82ee317de3031
+
+Google Meet
+https://meet.google.com/landing
+
+Raph Levien (@raphlinus.bsky.social) — Bluesky
+https://bsky.app/profile/raphlinus.bsky.social
+
+October TMIL: Resvg Adoption by DJMcNab · Pull Request #72 · linebender/linebender.github.io · GitHub
+https://github.com/linebender/linebender.github.io/pull/72/files
+
+Rgba8 · Issue #24 · linebender/color · GitHub
+https://github.com/linebender/color/issues/24
+
+CSS 4: Predefined color spaces · Issue #20 · linebender/color · GitHub
+https://github.com/linebender/color/issues/20
+
+WIP cursor rework by dfrg · Pull Request #170 · linebender/parley · GitHub
+https://github.com/linebender/parley/pull/170/files
+
+Parley rendering beyond measured bounds · Issue #165 · linebender/parley · GitHub
+https://github.com/linebender/parley/issues/165
+
+Issues · tannal/ohmywork · GitHub
+https://github.com/tannal/ohmywork/issues
+
+chore: update deps (vello, thiserror) by simbleau · Pull Request #44 · linebender/velato · GitHub
+https://github.com/linebender/velato/pull/44
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=I%27m%20still%20catching%20stuff%20up.&op=translate
+
+Commits · mozilla/gecko-dev · GitHub
+https://github.com/mozilla/gecko-dev/commits?author=tannal&since=2024-10-01&until=2024-11-01
+
+Linebender · GitHub
+https://github.com/linebender/
+
+Google
+https://www.google.com/webhp?hl=zh-CN&sa=X&ved=0ahUKEwiAvuPpiuqJAxWOklYBHWAkGokQPAgI
+
+实习生职位
+https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=INTERNSHIPRECRUITMENT
+
+google meet not showing network issues - Google 搜索
+https://www.google.com/search?q=google+meet+not+showing+network+issues&sca_esv=35a14008bdd29155&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIInQ3U7j0Z4xLDuH91LxkXLCdA57g%3A1732205490222&ei=sls_Z9OgDYSy4-EPi-ynoAM&ved=0ahUKEwjTwbCn6O2JAxUE2TgGHQv2CTQQ4dUDCA8&uact=5&oq=google+meet+not+showing+network+issues&gs_lp=Egxnd3Mtd2l6LXNlcnAiJmdvb2dsZSBtZWV0IG5vdCBzaG93aW5nIG5ldHdvcmsgaXNzdWVzMgUQIRigATIFECEYoAEyBRAhGKABSOcnUK4IWP0mcAF4AZABAJgBzQGgAZYVqgEGMC4xNS4xuAEDyAEA-AEBmAIQoAKEFMICChAAGLADGNYEGEfCAgwQIxiABBgTGCcYigXCAgQQABgewgIGEAAYCBgewgIIEAAYgAQYogTCAggQABiABBjLAcICBxAhGKABGAqYAwCIBgGQBgqSBwYxLjE0LjGgB9Ax&sclient=gws-wiz-serp
+
+Google Fonts · GitHub
+https://github.com/googlefonts
+
+Font Eng 101: The Basics | Rod
+https://rsheeter.github.io/font101/
+
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+GitHub - RazrFalcon/fontdb: A simple, in-memory font database with CSS-like queries.
+https://github.com/RazrFalcon/fontdb
+
+Speakers - RustNL 2024
+https://2024.rustnl.org/speakers/
+
+GitHub - shader-slang/slang: Making it easier to work with shaders
+https://github.com/shader-slang/slang
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+yong_he_thesis.pdf
+http://graphics.cs.cmu.edu/projects/renderergenerator/yong_he_thesis.pdf
+
+Slang: language mechanisms for extensible real-time shading systems
+http://graphics.cs.cmu.edu/projects/slang/he18_slang.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Mengo&op=translate
+
+advised - Google 搜索
+https://www.google.com/search?q=advised&rlz=1C1GCEA_enJP1090JP1090&oq=advisied&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDRiABDIGCAAQRRg5MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyODg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+美国 大选 2024 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E5%9B%BD+%E5%A4%A7%E9%80%89+2024&sca_esv=0c814c2424608e41&rlz=1C1GCEA_enJP1090JP1090&biw=1536&bih=703&sxsrf=ADLYWIKzGLbEaKZ8KamByf-EA7cDgnfVEg%3A1732350985379&ei=CZRBZ6TeFoq74-EP0cnDwAI&oq=%E7%BE%8E%E5%9B%BD2024&gs_lp=Egxnd3Mtd2l6LXNlcnAiCue-juWbvTIwMjQqAggAMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjaIlD6E1jSGHACeAGQAQCYAcsBoAGbBKoBBTAuMi4xuAEDyAEA-AEBmAIFoAKlBMICChAAGLADGNYEGEfCAggQABiABBiiBJgDAIgGAZAGCpIHBTIuMi4xoAeFBw&sclient=gws-wiz-serp
+
+佐治亚州 - Google 搜索
+https://www.google.com/search?sca_esv=0c814c2424608e41&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJrZES3kA8GWANw5aiYvB-9ERVBeg:1732350953660&q=%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCAxfUXblyFhp5IdiVAbZEgvWt9hWyOzdvkQdpdKbco8iWjQTGS7raFx0BcM_JHpEaRuocVSYMNKvsdlS9Qzmlxlbo2PpO-31OVE7OvH7dj771sswCmOLeeIXCOqDXREKwUl1M1z3_2OcUjODjmGUuJBhE2yoejyUJDPDmaSsoNyBG4JyWa31ItSW2tZ5Dk9HBIZOuhQ&sa=X&ved=2ahUKEwjhluCZhvKJAxX2zTgGHUB-K14QtKgLegQIFBAB&biw=1536&bih=703&dpr=1.25
+
+silicon valley - Google 搜索
+https://www.google.com/search?q=silicon+valley&rlz=1C1GCEA_enJP1090JP1090&oq=silicon+&gs_lcrp=EgZjaHJvbWUqDQgBEAAYgwEYsQMYgAQyBggAEEUYOTINCAEQABiDARixAxiABDIJCAIQABgMGIAEMgYIAxAAGEAyCQgEEAAYDBiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEINzk1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Monaco Example
+http://192.168.43.246:3000/monaco/monaco.html
+
+「鋼琴教學」說好的幸福呢－周杰倫 Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=Are-BgiRg4Y
+
+Call of Silence | Synthesia Piano Tutorial - YouTube
+https://www.youtube.com/watch?v=c5ux5Oblcao
+
+宫商角徵羽 起风了 - Google 搜索
+https://www.google.com/search?q=%E5%AE%AB%E5%95%86%E8%A7%92%E5%BE%B5%E7%BE%BD+%E8%B5%B7%E9%A3%8E%E4%BA%86&sca_esv=9d65c0a684302e9e&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKugY7KKr1OM5F5g5zuBq3Z7oS5Eg%3A1732864707318&ei=w2pJZ5iLE9DS1e8PuOnruAE&ved=0ahUKEwjY-MqKgIGKAxVQafUHHbj0GhcQ4dUDCA8&uact=5&oq=%E5%AE%AB%E5%95%86%E8%A7%92%E5%BE%B5%E7%BE%BD+%E8%B5%B7%E9%A3%8E%E4%BA%86&gs_lp=Egxnd3Mtd2l6LXNlcnAiGeWuq-WVhuinkuW-tee-vSDotbfpo47kuoYyBRAhGKABSKplULIqWNRicAF4AJABAJgBvgKgAf0jqgEGMi0xNy4xuAEDyAEA-AEBmAISoALLIsICChAAGLADGNYEGEfCAgQQIxgnwgIMECMYgAQYExgnGIoFwgIKECMYgAQYJxiKBcICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgUQLhiABMICCBAuGIAEGNQCwgIOEC4YgAQYxwEYjgUYrwHCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICBxAAGIAEGArCAgsQLhiABBjHARivAcICERAuGIAEGMcBGJgFGJkFGK8BwgIKEAAYgAQYQxiKBcICBxAAGIAEGAzCAggQABiABBiiBJgDAIgGAZAGCroGBggBEAEYFJIHCDEuMC4xNS4yoAfOpgE&sclient=gws-wiz-serp
+
+周杰倫,周杰倫,周杰倫,周杰倫 - 說好的幸福呢 結他譜 Chord譜 吉他譜| 曲 : 周杰倫 詞 : 方文山 | Guitarians.com
+https://zh-hans.guitarians.com/chord/385/%E5%91%A8%E6%9D%B0%E5%80%AB%2C%E5%91%A8%E6%9D%B0%E5%80%AB%2C%E5%91%A8%E6%9D%B0%E5%80%AB%2C%E5%91%A8%E6%9D%B0%E5%80%AB-%E8%AA%AA%E5%A5%BD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%91%A2?targetKey=F
+
+B minor 7 on Piano - Bm7 - YouTube
+https://www.youtube.com/watch?v=MmD_UCWDiow
+
+对位法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%AF%B9%E4%BD%8D%E6%B3%95
+
 Yjs Prosemirror Example
 http://192.168.43.246:3000/prosemirror/prosemirror.html
 
