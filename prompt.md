@@ -1,4 +1,6 @@
 
+写一个markdown 解析器 parser 和 lexer类都需要哪些state？
+
 看看这个，你要注意跟之前的代码联系起来
 
 rust语言设计的the good parts和the bad parts
