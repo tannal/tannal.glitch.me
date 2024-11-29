@@ -1,6 +1,10 @@
 
 # 2024-11-29
 
+cargo install cargo-watch
+cargo install wasm-pack
+cargo install -f wasm-bindgen-cli@0.2.95
+
 3840 × 4320
 
 Bun & JavaScriptCore & PLVM
