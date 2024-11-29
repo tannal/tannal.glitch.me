@@ -1,6 +1,8 @@
 
 # 2024-11-29
 
+pavucontrol
+
 cargo install cargo-watch
 cargo install wasm-pack
 cargo install -f wasm-bindgen-cli@0.2.95
@@ -74,7 +76,9 @@ SiFive的P670/P470：
 
 # 2024-11-24
 
-12.5+3.5+2.5+10
+26-29 something
+
+12.5+3.5+2.5+10+13
 
 git worktree add ../node-blob-fast-api -b blob-fast-api
 
