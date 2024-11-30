@@ -1,6 +1,37 @@
 
 # 2024-11-30
 
+"compiler optimization" (dissertation OR thesis OR "technical report") filetype:pdf
+"compiler optimization" ("PhD thesis" OR "doctoral thesis") filetype:pdf
+"static analysis" "program optimization" thesis filetype:pdf
+
+"compiler optimization" site:mit.edu filetype:pdf
+"compiler optimization" site:stanford.edu filetype:pdf
+"compiler optimization" site:berkeley.edu filetype:pdf
+"compiler optimization" site:ethz.ch filetype:pdf
+
+"LLVM" "optimization pass" thesis filetype:pdf
+"static single assignment" "compiler optimization" thesis filetype:pdf
+"data flow analysis" "compiler optimization" thesis filetype:pdf
+"loop optimization" "compiler" thesis filetype:pdf
+
+"just in time compilation" thesis filetype:pdf
+"GPU compiler optimization" thesis filetype:pdf
+"parallel compiler optimization" thesis filetype:pdf
+"machine learning" "compiler optimization" thesis filetype:pdf
+
+"compiler optimization" thesis after:2020 filetype:pdf
+"MLIR" "compiler" thesis after:2021 filetype:pdf
+
+"Chris Lattner" "LLVM" thesis filetype:pdf
+"Cliff Click" "compiler optimization" filetype:pdf
+
+"PLDI" "compiler optimization" filetype:pdf
+"POPL" "static analysis" filetype:pdf
+"CGO" "compiler optimization" filetype:pdf
+
+melody folk-rnn symbolic site:mit.edu filetype:pdf
+
 wav
 YUV420p
 YUV422
