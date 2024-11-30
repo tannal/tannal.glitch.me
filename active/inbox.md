@@ -2,6 +2,13 @@
 # 2024-11-30
 
 
+connect D5:7E:FC:5D:C3:71
+
+bluetoothctl
+
+disconnect 41:42:28:0A:D6:92
+disconnect 41:42:28:0A:D6:92
+
 # 2024-11-29
 
 pavucontrol
