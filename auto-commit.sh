@@ -15,3 +15,4 @@ git push origin main
 # 可选：添加日志
 echo "Committed and pushed at $timestamp" >> auto-commit.log
 
+bun ./scripts/date.js

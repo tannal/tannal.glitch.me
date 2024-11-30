@@ -582,15 +582,18 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 ## Sleep
 
+5-6 23:30 - 9:50 2
+
 ## Eating
 
 ## Sports
 
 ## Social Activities
-[] Baiye zhui xiong
+
+[x] Baiye zhui xiong 19 epso
 
 ## Action needed from Me TODO (don't need supervisor) 4
-[] complex networking abstract 11.30
+[x] complex networking abstract 11.30
 [x] update cv & cover letter
 [] nodejs tests for fast api calls & reading v8 blogs about fast api calls invest why test is failing.
 [] bun & JavaScriptCore
