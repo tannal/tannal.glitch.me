@@ -722,34 +722,120 @@ while there don't seem to be many overweight people
 do you have any idea why that is?
 
 うーんどうなんでしょう
+
+I think it's because
+
 そもそも分かんないですけど
+
+Although I don't know
+
 少食なんじゃないですかね
+
+eating less is it?
+
 なんかその時間に食べたとしてもあんま食べないとか
+
+the fact that you don't eat much even if you eat at that time
+
 そういうのが多いからあんまりいいのかなと思います
+
+why I think it's not so good
+
 もし深夜にご自身が食べるとしたらどれぐらい食べますか
+
+how much do you eat if you eat late at night?
+
 あとどこのお店とかでも
+
+a restaurant or something
+
 自分深夜だったら山岡屋っていうラーメン屋とか行っちゃいますね
+
+when I eat late at night, I go to a ramen shop called Yamaokay
+
 それでラーメンいっぱいぐらいください
+
+and I'll have a lot of ramen
+
 自分もそうなんですけど夜食べて朝昼を抜いたりとか
+
+I also eat at night and skip breakfast and lunch
+
 あとエクササイズダイエットしたりとかして
+
+what's more, I exercise and diet
+
 そこでカロリーを消費してるんじゃないかなって思います
+
+which I think burns calories
+
 深夜に食べてる人って言うと毎日じゃないと思うんで
+
+At night, I don't think people eat every day
+
 たまにこう飲みに
+
+they drink occasionally
+
 友達と会って飲みに行ってが深夜にっていうだけなのかなと思うんですけどね
+
+but I think it's just that they go out drinking with friends at night
+
 さすがに毎日とかだと防飲防食してる人は多分太ってるのかな
+
+not every day, but I think people who drink and eat every day are probably overweight
+
 寒食についてなんですけど
+
+less eating is it?
+
 食事以外で何か食べることってありますか3食以外で
+
+eating something other than meals, do you eat anything other than three meals?
+
 アイスとか食べますね
+
+some ice cream
+
 アイスお菓子食べますね
+
+some ice cream and snacks
+
 1日にどれぐらいの量食べますか
+
+1 day, how much do you eat?
+
 実家にいた時はめちゃくちゃ食べちゃって
+
+about how much do you eat when you're at home?
+
+
 あのなんだっけせんべいあるじゃないですか
+
+and you know, there's a rice cracker
+
 あれ一袋この大きいやつあれ食べてる人
+
+people who eat a bag of that big one
+
 毎日ですか
+
+every day?
+
 まあほぼ毎日
+
+yeah, almost every day
+
 今は違う?
+
+how about now?
+
 今はもうそんな食べてないです
+
+today, I don't eat that much
+
 どれぐらい食べますか
+
 自分も高校の時は結構毎日夜ご飯食べ終わった後に
 グミ買って食べたりポテチ買って食べたりしてました
 結構毎日ぐらいで
