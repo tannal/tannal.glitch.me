@@ -1,6 +1,156 @@
 
 # 2024-12-01
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(37) 林俊傑 JJ Lin - 浪漫血液 The Romantic（華納Official 高畫質HD官方完整版MV) - YouTube
+https://www.youtube.com/watch?v=UsLDdteZSVc
+
+网络启动您的树莓派 - 树莓派中文文档
+https://hackpi.fun/docs/hardware/raspberrypi/bootmodes/net_tutorial/
+
+【SD卡/TF卡还原】不引入其他软件，只用镜像写入工具将安装过树莓派系统的SD卡还原卡 - 树莓派4代论坛 - 树莓派论坛 - Powered by Shumeipai.net!
+http://www.shumeipai.net/thread-1263-1-1.html
+
+树莓派3B+新特性：直接从USB存储设备启动_树莓派3b+ 使用usb启动-CSDN博客
+https://blog.csdn.net/ki1381/article/details/84338420
+
+Raspberry Pi hardware - Raspberry Pi Documentation
+https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
+
+Facebook
+https://www.facebook.com/ccckmit
+
+In search of the AOSP community [LWN.net]
+https://lwn.net/Articles/992992/?fbclid=IwY2xjawGynnhleHRuA2FlbQIxMAABHUNQ77SD45qEDj3gWYiWl6VZ0x0ARmtubRGl4yfDHCKC5qQQvmeES6Cs-w_aem_j1eYLZb_CEZEJpEu_q75Zg
+
+Support path function to fulfill TinyVG rendering by ndsl7109256 · Pull Request #74 · sysprog21/mado · GitHub
+https://github.com/sysprog21/mado/pull/74?fbclid=IwY2xjawGsu3RleHRuA2FlbQIxMAABHbZEOs98YJM4yCmGd3kLJQ2vUpdXR-ahVVZHuVN4k7J2QD4dcY4FHXOHvQ_aem_8zXe3g3zSlWkgzmgx-210g
+
+GitHub - davidly/ntvdm: NT Virtual DOS Machine. Not the real one, but this one runs on 64-bit Windows (x64 and ARM64). It also runs on Linux (32 and 64 bit) and MacOS.
+https://github.com/davidly/ntvdm?fbclid=IwY2xjawGn2OlleHRuA2FlbQIxMAABHW7qfz3TiC5Q-enSAiN0TxY2rAqZ3DBDyY7_mbHUhOo3h_ElIHd6M2OGeQ_aem_thC0XebXuml7hJvua4AXyg
+
+gist.githubusercontent.com/jserv/d32b8ddbda6102d11397524881b700b6/raw/4f5b28a7b91ddf043c0d65bd6e7cc53ca3fa2f93/main.c
+https://gist.githubusercontent.com/jserv/d32b8ddbda6102d11397524881b700b6/raw/4f5b28a7b91ddf043c0d65bd6e7cc53ca3fa2f93/main.c
+
+雅马哈 YAMAHA KB290电子琴音色中英文对照表 - 百度文库
+https://wenku.baidu.com/view/6ae2e0b96f1aff00bfd51e57?pcf=2&bfetype=new&bfetype=new&_wkts_=1732063672761&needWelcomeRecommand=1
+
+Android Studio 模拟器设置代理（FQ) | PERFECT BLUE
+https://sakronos.github.io/Note/2020/03/31/AndroidStudio%E6%A8%A1%E6%8B%9F%E5%99%A8%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86/
+
+为啥国内的服务器的带宽贵如金？ - V2EX
+https://v2ex.com/t/961278
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+大功率无线路由器最远 - Google 搜索
+https://www.google.com/search?q=%E5%A4%A7%E5%8A%9F%E7%8E%87%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8%E6%9C%80%E8%BF%9C&sca_esv=5401da233fd812cf&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJeCtTnyXq0CfNDarOERsXW4r2Zag%3A1732082586517&ei=mns9Z92gH_u10-kP6-eKqQg&ved=0ahUKEwjd1am6nuqJAxX72jQHHeuzIoUQ4dUDCA8&uact=5&oq=%E5%A4%A7%E5%8A%9F%E7%8E%87%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8%E6%9C%80%E8%BF%9C&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuWkp-WKn-eOh-aXoOe6v-i3r-eUseWZqOacgOi_nDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESKIVUJwJWKUUcAF4AJABAZgB3AKgAZcOqgEFMi02LjG4AQPIAQD4AQGYAgWgAsMHwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwUxLjAuNKAHuA0&sclient=gws-wiz-serp
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+杀了他 顺便杀了我 ptt - Google 搜索
+https://www.google.com/search?q=%E6%9D%80%E4%BA%86%E4%BB%96+%E9%A1%BA%E4%BE%BF%E6%9D%80%E4%BA%86%E6%88%91+ptt&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%9D%80%E4%BA%86%E4%BB%96%E9%A1%BA%E4%BE%BF&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABNIBCDk5MzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+刘英剑（ARC LIGHT弧光联盟成员、摄影指导）_百度百科
+https://baike.baidu.com/item/%E5%88%98%E8%8B%B1%E5%89%91/22229889
+
+唐朝诡事录 - Google 搜索
+https://www.google.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABgMGLEDGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIHCAQQLhiABDIJCAUQABgMGIAEMgkIBhAAGAwYgAQyBggHEEUYPNIBCDc3MjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+柏杉 - Google 搜索
+https://www.google.com/search?q=%E6%9F%8F%E6%9D%89&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%9F%8F%E6%9D%89&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCAgFEAAYBRgeMggIBhAAGAUYHjIKCAcQABiABBiiBDIKCAgQABiABBiiBDIKCAkQABiABBiiBNIBBzU3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+香港性教育教材惹争议，到底应该如何跟中学生谈“性” - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69325584
+
+芬太尼及类似产品：“中国造”合成类毒品泛滥为何难以遏制？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-68854448
+
+红米k60 摄像头 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3k60+%E6%91%84%E5%83%8F%E5%A4%B4&sca_esv=f04f39c9057254ed&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILvOR9LoZvXabLazZvPoWCDgEVirw%3A1732787932981&ei=3D5IZ7LGO5TJ0-kPzt6T2AI&ved=0ahUKEwiypN2J4v6JAxWU5DQHHU7vBCsQ4dUDCA8&uact=5&oq=%E7%BA%A2%E7%B1%B3k60+%E6%91%84%E5%83%8F%E5%A4%B4&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-e6ouexs2s2MCDmkYTlg4_lpLQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRIw-M2UOfRNliA3zZwA3gBkAEAmAGmAqABuAaqAQMyLTO4AQPIAQD4AQGYAgWgAsIEwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEmAMAiAYBkAYDkgcFMy4wLjKgB_YD&sclient=gws-wiz-serp
+
+(64) test - YouTube
+https://www.youtube.com/live/g7JzmQlTcRQ
+
+手机摄像头长时间使用 - Google 搜索
+https://www.google.com/search?q=%E6%89%8B%E6%9C%BA%E6%91%84%E5%83%8F%E5%A4%B4%E9%95%BF%E6%97%B6%E9%97%B4%E4%BD%BF%E7%94%A8&sca_esv=4daba4fcecb7e45f&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIK1zIqUp0oWMy6y0evVZyz9svxA2A%3A1732885524440&ei=FLxJZ7iuGpTS2roPsfbvQA&ved=0ahUKEwi4iPvQzYGKAxUUqVYBHTH7GwgQ4dUDCA8&uact=5&oq=%E6%89%8B%E6%9C%BA%E6%91%84%E5%83%8F%E5%A4%B4%E9%95%BF%E6%97%B6%E9%97%B4%E4%BD%BF%E7%94%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiHuaJi-acuuaRhOWDj-WktOmVv-aXtumXtOS9v-eUqDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjzHFD2CFjdG3ABeACQAQCYAaACoAGeE6oBAzItObgBA8gBAPgBAZgCB6AC6gzCAgsQABiABBiwAxiiBMICCxAAGLADGKIEGIkFwgIIEAAYogQYiQWYAwCIBgGQBgSSBwUxLjAuNqAH_Q8&sclient=gws-wiz-serp
+
+中国数字音乐产业霸主 阿里还是腾讯？
+https://m.yicai.com/news/5044766.html
+
+(64) YouTube
+https://www.youtube.com/
+
+2024 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/1531876370923589
+
+手机CPU性能天梯图
+https://www.mydrivers.com/zhuanti/tianti/01/index.html
+
+骁龙 8 Gen2_百度百科
+https://baike.baidu.com/item/%E9%AA%81%E9%BE%99%208%20Gen2/61916643
+
+多款骁龙X Elite笔记本上市：价格不菲，问题不少_产品_联想_机型
+https://www.sohu.com/a/787387387_122331
+
+腾讯云服务器按带宽计费与使用流量计费有什么区别？如何选择？-腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/article/2010783
+
+腾讯云 产业智变·云启未来 - 腾讯
+https://cloud.tencent.com/
+
+年终盛典 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?from=24350
+
+红米k30 pro和红米k30s至尊纪念版相比较，购买哪个好？|手机|摄像头|像素_网易订阅
+https://www.163.com/dy/article/FRU7K3P705370IEX.html
+
+红米k60pro 摄像头 k30 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3k60pro+%E6%91%84%E5%83%8F%E5%A4%B4+k30&sca_esv=d26643f06fe9da09&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIIt2T2sKQkcJC1QEW5mgQMk5e2DfQ:1733028074292&ei=6uhLZ-LKEaaUvr0P_cj_yAQ&start=10&sa=N&sstk=ATObxK7t0hfxAGP9l0mgfJvlm1Weu9L5ynG9_2-l_OLfxPdUQ0kBwQWy3eiwZm95Sd0ckaBvqD0TXtpVaQxXr4RZRqO9XGUjTbmJHw&ved=2ahUKEwji54PW4IWKAxUmiq8BHX3kH0kQ8tMDegQIDRAE&biw=1280&bih=593&dpr=1.5
+
+曹孝櫟 youtube - Google 搜索
+https://www.google.com/search?q=%E6%9B%B9%E5%AD%9D%E6%AB%9F+youtube&sca_esv=c8423814197b4f2d&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJt-l5MxUBrcohdWD08WAor9mM6sg:1733041236984&ei=VBxMZ8DeO-Ph0-kPz8n-uA0&start=10&sa=N&sstk=ATObxK5JWKa47C4GPjEvP51S4jRNKPuF_nyPB2wP93kOBH_KRXLmtewgi1-dpdaSGBo7W1tPb4m3qxAJ0uSQeRXuKBl2gmJjm83D_Q&ved=2ahUKEwjA2L7akYaKAxXj8DQHHc-kH9cQ8tMDegQIDBAE&biw=1280&bih=593&dpr=1.5
+
+2024/06/07 (Fri.) 14:20 曹孝櫟 處長 啓碁科技 - Industrial AI: From Theory to Practices
+https://com.site.nthu.edu.tw/p/406-1173-270081,r16.php?Lang=zh-tw
+
+系所成員 - 國立陽明交通大學資訊工程學系
+https://www.cs.nycu.edu.tw/members/detail/sltsao
+
+美联储最新点阵图 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E6%9C%80%E6%96%B0%E7%82%B9%E9%98%B5%E5%9B%BE&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8%E6%9C%80%E6%96%B0d&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDg2MjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+点阵图解读：美联储今年还将降息50个基点-市场参考-金十数据
+https://xnews.jin10.com/details/148495
+
+中国刺激 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E5%88%BA%E6%BF%80&sca_esv=eaaf0e9c6402a61d&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWII9ilLqAJ9zKTWhpq2TyAmSFF3wVg%3A1733046722394&ei=wjFMZ6LkF_bg0-kPqvDTuAU&ved=0ahUKEwiizZGSpoaKAxV28DQHHSr4FFcQ4dUDCA8&uact=5&oq=%E4%B8%AD%E5%9B%BD%E5%88%BA%E6%BF%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOS4reWbveWIuua_gDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIjidQjghYjSNwAngBkAEBmAGpAqAB0ROqAQMyLTm4AQPIAQD4AQGYAgqgAo8SqAIRwgIKEAAYsAMY1gQYR8ICBxAjGCcY6gLCAgcQLhgnGOoCwgIUEAAYgAQY4wQYtAIY6QQY6gLYAQHCAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICDhAuGIAEGNEDGNQCGMcBwgILEC4YgAQY0QMYxwHCAgUQLhiABMICChAuGIAEGEMYigXCAgQQIxgnwgIOEC4YgAQYxwEYjgUYrwHCAgcQABiABBgMmAMgiAYBkAYKugYGCAEQARgBkgcHMi4wLjYuMqAH4jc&sclient=gws-wiz-serp
+
+彭博：中国刺激方案细节披露时间点仍存悬念 | 联合早报
+https://www.zaobao.com.sg/realtime/china/story20241104-5294636
+
+如何看即将到来的中国财政刺激政策 日经中文网
+https://cn.nikkei.com/politicsaeconomy/stockforex/57144-2024-11-05-05-00-47.html
+
+中国刺激经济画风突变 提振股市能否让经济走出“负反馈循环” - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69422626
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
 (156) Discord | #📄development | Graphite
 https://discord.com/channels/731730685944922173/731738914812854303
 

@@ -1,6 +1,37 @@
 
 # 2024-12-01
 
+- Quickjs
+- Libjs SerenityOS 项目的一部分
+- Graaljs Oracle 开发的 JavaScript 引擎
+- ChakraCore (已停止开发): 微软曾经的 JavaScript 引擎
+- Rhino: Mozilla 的 Java 实现的 JavaScript 引擎
+- Boa: Rust 实现的 JavaScript 引擎
+- Kiesel: 另一个 JavaScript 实现
+- Nova: 实验性 JavaScript 引擎
+- NJS: Nginx 的 JavaScript 引擎
+- engine262: ECMAScript 规范的参考实现
+
+TrueType Font
+.ttf
+
+- TrueType: 由 Apple 开发(1991年)
+- PostScript Type 1: 由 Adobe 开发(1984年)
+- OpenType: 由 Microsoft 和 Adobe 共同开发(1996年),基于 TrueType 格式扩展
+
+- DirectWrite (Microsoft): OpenType 的原生实现
+- CoreText (Apple): 继承了 ATSUI,支持 OpenType 和 AAT(Apple Advanced Typography)
+- FreeType + HarfBuzz: 开源实现,被 Android、Chrome 等广泛使用
+
+- AAT (Apple Advanced Typography): Apple 的专有技术
+- Multiple Master (Adobe): 早期的字体插值技术,后来被移除
+- WOFF/WOFF2: Web Open Font Format,专门为 Web 设计的字体压缩格式
+- Variable Fonts: OpenType 1.8 引入的新特性,支持字体变体插值
+
+- Adobe 正在放弃自己的实现,转向使用开源栈
+- Microsoft Edge 转向 Chromium 后也使用了开源实现
+- 开源实现(FreeType + HarfBuzz)市场份额持续增长
+- 新的字体技术(如 Variable Fonts)正在被广泛采用
 
 
 "melody" "song" "music"  "symbolic"  site:cmu.edu filetype:pdf

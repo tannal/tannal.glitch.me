@@ -1,6 +1,6 @@
 # inbox
 
-突然 です が 今ご 自身 の こと はどれくらい 細身 だ と 思います か
+突然 です が 今ご 自身 の こと は どれくらい 細身 だ と 思います か
 
 suddenly is now yourself about how thin do you think
 
