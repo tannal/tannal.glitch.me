@@ -25,6 +25,144 @@ https://app.slack.com/client/T06G50708/CTV4FGWF4
 [ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
 https://github.com/WebKit/WebKit/pull/37240
 
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+mstange’s gists
+https://gist.github.com/mstange
+
+1934315 - JSRuntime::atExit routines run in such a state that sementation faults don't print anything
+https://bugzilla.mozilla.org/show_bug.cgi?id=1934315
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Missing tests for bindings that shadow globalThis properties · Issue #4332 · tc39/test262
+https://github.com/tc39/test262/issues/4332
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Following — Bluesky
+https://bsky.app/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Cross-browser Vertical Slider using input type="range" - DEV Community
+https://dev.to/konnorrogers/creating-a-vertical-slider-using-input-typerange-1pen
+
+"vertical slider" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=vertical%20slider
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=slender&op=translate
+
+What do the Japanese Eat To Stay Slim? | Street Interview - YouTube
+https://www.youtube.com/watch?v=jriYcIRPmI8
+
+systemtap - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=kJJ&sca_esv=f9439907e5543505&channel=fs&sxsrf=ADLYWIL4jwCiOfplzfPV5z5CZuUK5aeR6A:1733018789479&q=systemtap&spell=1&sa=X&ved=2ahUKEwiu5NeKvoWKAxW-e_UHHWCqBecQBSgAegQIDhAB&biw=1850&bih=968&dpr=1
+
+高通驍龍元件列表 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%AB%98%E9%80%9A%E9%A9%8D%E9%BE%8D%E5%85%83%E4%BB%B6%E5%88%97%E8%A1%A8#%E9%AA%81%E9%BE%99Snapdragon_X_Elite
+
+AMD 锐龙台式处理器
+https://www.amd.com/zh-cn/products/processors/desktops/ryzen.html
+
+NVIDIA to Acquire Arm for $40 Billion, Creating World’s Premier Computing Company for the Age of AI | NVIDIA Newsroom
+https://nvidianews.nvidia.com/news/nvidia-to-acquire-arm-for-40-billion-creating-worlds-premier-computing-company-for-the-age-of-ai
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Index of /
+http://petherfish.cn:18080/
+
+(JPEG Image, 660 × 968 pixels)
+https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2FYGhv83gjesjyQB4yeVj5aMAsXAPwVUCyaLVmkKuv0EVNU1605901726159compressflag.jpeg&thumbnail=660x2147483647&quality=80&type=jpg
+
+raspberry pi 6 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=raspberry+pi+6
+
+My Vision for the Raspberry Pi 6 - Design Proposal - Raspberry Pi Forums
+https://forums.raspberrypi.com/viewtopic.php?t=379953
+
+cmd0s/Raspberry-Pi-6-Design-Proposal: This repository outlines my vision for the ideal Raspberry Pi 6, incorporating changes and features based on my professional experience to make it more versatile and competitive for real-world applications.
+https://github.com/cmd0s/Raspberry-Pi-6-Design-Proposal/
+
+unified assembly language - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=unified+assembly+language
+
+Arm A-profile A64 Instruction Set Architecture
+https://developer.arm.com/documentation/ddi0602/2024-06/Index-by-Encoding/Data-Processing----Register?lang=en
+
+ARM Compiler armasm User Guide Version 5.06
+https://developer.arm.com/documentation/dui0473/m/arm-and-thumb-instructions/mov
+
+Code search results
+https://github.com/search?q=repo%3Apython%2Fcpython+haoran&type=code
+
+sillycross/WasmNow: Fast WebAssembly Baseline Compiler
+https://github.com/sillycross/WasmNow
+
+sillycross.github.io/
+https://sillycross.github.io/
+
+"claude" "anthropic" thesis site:cmu.edu filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22claude%22+%22anthropic%22+++thesis%0D%0A+site:cmu.edu+filetype:pdf&client=ubuntu-sn&hs=z4O&sca_esv=da67c2a2e4e26a05&channel=fs&sxsrf=ADLYWIIv08CTz8S7FEwMfS5tyrtW5bGuhw:1733040938731&filter=0&biw=1850&bih=968&dpr=1
+
+ouyang2023autoplan.pdf
+http://www.cs.cmu.edu/~./leili/pubs/ouyang2023autoplan.pdf
+
+newman2024degustabot.pdf
+https://www.andrew.cmu.edu/user/bnewman1/data/newman2024degustabot.pdf
+
+MAG_Initiator-2024_WEB-1.pdf
+https://magazine.mcs.cmu.edu/chemistry/wp-content/uploads/sites/5/2024/08/MAG_Initiator-2024_WEB-1.pdf
+
+FashionFreedom/Seamly2D: Open source patternmaking software to democratize fashion.
+https://github.com/FashionFreedom/Seamly2D
+
+Seamly – Fashion Design Software
+https://seamly.io/
+
+DeepFashion Database
+https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+
+(156) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37240
+
 Element [18] | SpiderMonkey
 https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
 

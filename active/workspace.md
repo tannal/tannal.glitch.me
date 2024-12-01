@@ -194,6 +194,8 @@ https://deno.com/blog/v2.1
 
 ## node-new
 
+v8 fast api https://v8.dev/blog/fast-api
+
 https://nodejs.org/en/blog
 
 https://github.com/nodejs/node/pull/55698/files#diff-5b5902273122e094ff474fda358605ffa45a4a58b51cd0bf4c1acb93779df142
