@@ -1,6 +1,144 @@
 
 # 2024-12-01
 
+(156) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37240
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+mstange’s gists
+https://gist.github.com/mstange
+
+1934315 - JSRuntime::atExit routines run in such a state that sementation faults don't print anything
+https://bugzilla.mozilla.org/show_bug.cgi?id=1934315
+
+j:Debugger::enterDebuggerHook (Debugger.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/c597e9c789ad36af84a0370d395be066b7dc94f4/js/src/debugger/Debugger.h#1059
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+gibson042 (Richard Gibson)
+https://github.com/gibson042
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+Are css/css-contain/contain-layout-baseline-005.html css/css-contain/contain-layout-button-001.html correct? · Issue #45889 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/45889
+
+owner:schenney@chromium.org · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:schenney@chromium.org
+
+…/shape_result.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6038625/10/third_party/blink/renderer/platform/fonts/shaping/shape_result.cc#2370
+
+Issue search results
+https://github.com/search?q=author%3Avjeux%20&type=issues
+
+Vjeux's arbiter · Issue #4 · Algorithm-Arena/weekly-challenge-36-challenge-running
+https://github.com/Algorithm-Arena/weekly-challenge-36-challenge-running/issues/4
+
+"CSSCaretAnimation" | Can I use... Support tables for HTML5, CSS3, etc
+https://caniuse.com/?search=CSSCaretAnimation
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+denoland/deno: A modern runtime for JavaScript and TypeScript.
+https://github.com/denoland/deno
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+wangshijun (shijun)
+https://github.com/wangshijun
+
+behdad.org/text2024/
+https://behdad.org/text2024/
+
+test262.fyi
+https://test262.fyi/#|v8,v8_exp,jsc,sm,hermes,qjs,libjs,graaljs,babel
+
+anthropic - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=anthropic
+
+Newsroom \ Anthropic
+https://www.anthropic.com/news
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=1%20%E3%81%8C%20%E3%81%99%E3%81%94%E3%81%8F%20%E7%97%A9%E3%81%9B%20%E3%81%A6%20%E3%81%A6%2010%20%E3%81%8C%20%E6%99%AE%E9%80%9A%20%E3%81%90%E3%82%89%E3%81%84&op=translate
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+terminology - Stateless vs Stateful - Stack Overflow
+https://stackoverflow.com/questions/5329618/stateless-vs-stateful
+
+Haskell has no state monad
+https://smallbone.se/no-state-monad.html
+
+Graphics Programming weekly - Issue 367 - November 24th, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-367/
+
+Photorealistic Rendering and the Ray-Tracing Algorithm
+https://pbr-book.org/4ed/Introduction/Photorealistic_Rendering_and_the_Ray-Tracing_Algorithm
+
+"state" "stateless" "state management" site:cmu.edu filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22state%22+%22statelss%22+%22state+management%22+site%3Acmu.edu+filetype%3Apdf&client=ubuntu-sn&hs=6I9&sca_esv=d0e50f9e7d94bfb9&channel=fs&sxsrf=ADLYWIIRm0EfqMV3JG3NmPVcogXIHts0aA%3A1733059755926&ei=q2RMZ92gOOXq1e8PxOfhoAI&ved=0ahUKEwidooHZ1oaKAxVldfUHHcRzGCQQ4dUDCA8&uact=5&oq=%22state%22+%22statelss%22+%22state+management%22+site%3Acmu.edu+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiPyJzdGF0ZSIgInN0YXRlbHNzIiAic3RhdGUgbWFuYWdlbWVudCIgc2l0ZTpjbXUuZWR1IGZpbGV0eXBlOnBkZkiDNVDdDFjGM3ABeACQAQCYAYMCoAH5IKoBBDItMTi4AQPIAQD4AQGYAgCgAgCYAwDiAwUSATEgQIgGAZIHAKAHlgc&sclient=gws-wiz-serp
+
+GPU Zen 3: Advanced Rendering Techniques 3th pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=GPU+Zen+3%3A+Advanced+Rendering+Techniques+3th+pdf
+
+Amazon.com: GPU Zen 3: Advanced Rendering Techniques: 9798344236797: Engel, Wolfgang Friedrich, Reznikov, Laura, Kaplanyan, Anton S., Bazhenov, Kirill, Lopez, Nicolas, Sickachev, Peter, Bahnassi, Wessam: Books
+https://www.amazon.com/GPU-Zen-Advanced-Rendering-Techniques/dp/B0DNXNM14K
+
+Machine Unlearning in 2024 - Ken Ziyu Liu - Stanford Computer Science
+https://ai.stanford.edu/~kzliu/blog/unlearning
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 

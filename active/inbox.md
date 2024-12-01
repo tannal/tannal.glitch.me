@@ -1,6 +1,29 @@
 
 # 2024-12-01
 
+- Jakub Knapik
+- Giovanni De Francesco
+- Dmitrii Zhdan
+- Edward Liu
+- Evgeny Makarov
+- Jon Kennedy
+- Juho Marttila
+- Michael Murphy
+- Nathan Hoobler
+- Tim Cheblokov
+- Pawel Kozlowski
+
+- 状态传播是通用的计算模式
+- 在计算机图形学中表现为光能量传递
+- 在深度学习中表现为信息流动
+- 在任何复杂系统中都不可或缺
+
+任何试图回避状态的方法都将使问题变得更复杂
+
+计算机就是关于状态的,任何尝试回避这一点的方法都不可能成功
+
+https://www.jendrikillner.com/books/
+
 - Quickjs
 - Libjs SerenityOS 项目的一部分
 - Graaljs Oracle 开发的 JavaScript 引擎
@@ -33,7 +56,7 @@ TrueType Font
 - 开源实现(FreeType + HarfBuzz)市场份额持续增长
 - 新的字体技术(如 Variable Fonts)正在被广泛采用
 
-
+"state" "statelss" site:cmu.edu filetype:pdf
 "melody" "song" "music"  "symbolic"  site:cmu.edu filetype:pdf
 
 这是一篇关于可控深度旋律生成的学术论文，作者来自卡内基梅隆大学和Adobe公司。论文介绍了一种名为MusicFrameworks的分层音乐结构表示方法，以及一个多步骤生成过程，用于创建具有长期重复结构、和弦、旋律轮廓和节奏约束的完整旋律。
