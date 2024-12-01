@@ -1,6 +1,8 @@
 
 # 2024-12-01
 
+
+
 "melody" "song" "music"  "symbolic"  site:cmu.edu filetype:pdf
 
 这是一篇关于可控深度旋律生成的学术论文，作者来自卡内基梅隆大学和Adobe公司。论文介绍了一种名为MusicFrameworks的分层音乐结构表示方法，以及一个多步骤生成过程，用于创建具有长期重复结构、和弦、旋律轮廓和节奏约束的完整旋律。
