@@ -837,167 +837,656 @@ today, I don't eat that much
 どれぐらい食べますか
 
 自分も高校の時は結構毎日夜ご飯食べ終わった後に
+
+From high school, I ate a lot of rice crackers every day after dinner
+
 グミ買って食べたりポテチ買って食べたりしてました
+
+I bought gummy bears and potato chips and ate them
+
 結構毎日ぐらいで
+
+Every day, I ate a lot
+
 それでなんかすごい太ったりとかはしないんですか
+
+So, you don't get fat or anything?
+
 部活やってたんでそれがまあまあプラマイゼロかな
+
+Because I was in a club, it was more or less zero
+
 そんな感じでコントントンって
+
+Do you have any favorite snacks?
+
 お気に入りのおやつ教えてください
+
+Do you have any favorite snacks?
+
 ローソンに売ってるチョコとチョッキーみたいな
+
+My favorite snack is the chocolate and chocochi sold at Lawson
+
 130円のやつが美味しいです
+
+It costs 130 yen and it's delicious
+
 ハッピーターンですね
+
+I like Happy Turn
+
 あれまじ美味しいです
+
+it tastes really good
+
 定番ですけどカルビーのポテトチップスとかカッパエビセンとか
+
+My favorite is Calbee's potato chips and Kappa Ebisen
+
+
 そんな感じですね
+
+I like that kind of thing
+
 あーまさにスナック系
+
+My favorite is the snack series
+
 そうですかね
+
+is that so?
+
+
 ビールに合うっていうような
+
+beer goes well with it
+
 そうですね
+
+is that so?
+
 50%ぐらいなのかな
+
+Half of it, I guess
+
 朝とかちゃんとねそういった納豆とか
+
+Morning and so on, I eat natto and so on
+
 いわゆるサラダとかもとってるので
+
+do you eat salad and so on?
+
 ただ夜に関してはお酒を飲むし
+
+In the evening, I drink alcohol
+
 そういったらポテトチップスとかも食べるから
+
+do you eat potato chips and so on?
+
 50%ぐらいかな
+
+A little less than half
+
 あなたのジャンクフードの定義は何ですか?
+
+Do you have a definition of junk food?
+
 えっ?
+
+just a moment
+
 ジャンクフードの定義?
+
+Did you say the definition of junk food?
+
 えー難しいですね
+
+Yeah, it's difficult
+
 どういうかのものでもいいですね
+
+It's okay to say anything
+
 あーさっき言ったマクドナルドとか
+
+I said McDonald's earlier
+
 ポテトチップス
+
+And potato chips
+
 ピザ
+
+And pizza
+
 炭酸飲料ジュースとかですかね
+
+Also carbonated drinks and juice
+
 砂糖と油を使ったものがジャンクフードに使ってね
+
+Sugar and oil are used in junk food
+
 じゃあマクドナルドとかケンタッキーとかはジャンクフードですか?
+
+Do you think McDonald's and Kentucky are junk food?
+
 そうですね
+
+Yes, that's right
+
 そうですねファストフードもジャンクフードに入ると思います
+
+Do you think fast food is also junk food?
+
 油っすね
+
+Oil
+
 ジャンクだったら油かなやっぱり
+
+Do you think junk food is oil?
+
 ちょっとでも細くいるためのなんかコツとか
+
+Yeah, do you have any tips for getting thinner?
+
 個人的なものあったりします
+
+My personal one is that
+
 それ俺に聞きます?
+
+Speak to me
+
 適切な運動とかじゃないですかやっぱり
+
+Really, it's appropriate exercise
+
 どういう運動がいいと思います?
+
+Appropriate exercise
+
 でもなんだろう
+
+Even if it's a little bit
+
 水泳とかいいって聞きますよね
+
+water swimming is good
+
 あの全身動かすし
+
+exercise the whole body
+
 だから俺だったら多分水泳とかやるのかなと思います
+
+water swimming is good
+
 普段は運動されますか?
+
+regularly exercise?
+
 そうですね
+
+Yes, that's right
+
 一応こんな体型ですけど
+
+Usually, I'm like this
+
 週2ぐらいでキックボクシングはいってます
+
+When I go to kickboxing twice a week
+
 めっちゃ知りたいですねそれ
+
+I really want to know that
+
 一番最近
+
+Recently
+
 まだこれからやるところなんですけど
+
+Do you have any plans to do it?
+
 妻とマラソン大会に応募して
+
+My wife and I have applied for a marathon
+
 それに向けて一緒に歩く走るっていうのを秘訣にしたいと思ってます
+
+Do you want to make it a secret to walk and run together?
+
 今日はワイドな服ですけど
+
+Today, I'm wearing wide clothes
+
 結構スタイリッシュなスリムな服を着るので
+
+My clothes are quite stylish and slim
+
 それがキープできるように
+
+Do you think you can keep it?
+
 シャツとかをいいにしてもお腹が出ないようにとかを見ながらですよね
+
+Even if you wear a shirt, you can see your stomach
+
 常に自分の見て気遣うって感じです
+
+Usually, I'm always looking at myself
+
 あまり運動っていう運動はしてないですけど
+
+I don't do much exercise
+
 できるだけ
+
+do as much as possible
+
 特に東京はいろんなものがあるので
+
+In particular, Tokyo has a lot of things
+
 日々ウォーキングしてますね
-大体1日に合計でどれくらい歩いたことになりますか?
+
+Japan is walking every day
+
+大体1日に合計でどれくらい歩いたことになりますか
+
+About how much do you walk in total in a day?
+
 そうですね
+
+Let's see
+
 通勤とかも含めて
+
+If you include commuting
+
 1時間か1時間半を歩いてる
+
+it is walking for 1 hour or 1 hour and a half
+
 休みの日はやっぱり3,4時間は歩きます
+
+On weekends, I walk for 3 or 4 hours
+
 電車に乗らずにあえて歩いて
+
+I walk without taking the train
+
 いろんなお店を探すとか
+
+Usually, I'm looking for various shops
+
 3,4時間は結構長いですよ
+
+I think 3 or 4 hours is quite long
+
 そうですね
+
+is that so?
+
 でも間に休憩してカフェでコーヒー飲んで
+
+do you take a break and drink coffee at a cafe?
+
 また歩いて
+
+Usually, I walk again
+
 帰りもずっと歩いて
+
+You walk all the way back
+
 週に2,3日以上はダンスで運動はしてます
+
+When you dance more than 2 or 3 days a week
+
 なんかどういうタイプのダンスです?
+
+do you have any type of dance?
+
 アイドルダンスをやってるので
+
+it is an idol dance
+
 それでガッツリではないんですけど
+
+do you have any guts?
+
 運動はしてます
+
+I exercise
+
 じゃあ結構動いてるのは
+
+exercise a lot
+
 週に2,3回ある?
+
+twice, three times a week?
+
 あります
+
+Yes, that's right
+
 日本の文化として
+
+the culture of Japan
+
 みんなが細くなきゃいけないっていう風潮ってあると思いますか?
+
+it's a trend that everyone has to be thin
+
 あるとは思います
+
+I do think so
+
 なんかどこから来てると思いますか?
+
+where do you think it comes from?
+
 やっぱりモデルとか
+
+it's a model
+
 あとアニメキャラクターの影響もあるかなとは思います
+
+I think it's also influenced by anime characters
+
 結構細い女の子が可愛いって定義されちゃってる気がするので
+
+girls who are quite thin are defined as cute
+
 そこから日本のそういう文化があるのではないかなって思います
+
+In japan, I think there is such a culture
+
 でもね日本の女性は
+
+It's true that Japanese
+
 スリムなのに
+
+like to be slim
+
 太ってる太ってるって言うから
+
+Too fat, too fat
+
 口癖のようにほとんどの人が言ってます
+
+Like a catchphrase, most people say
+
 私はもうスリムだから大丈夫満足ですっていう人はあんまりいないです
+
+I don't think there are many people who say, "I'm already slim, so I'm satisfied."
+
 それは年齢とか関係ないですか?
+
+Or is it not related to age?
+
 関係なくですね
+
+regardless of age
+
 そういう風に
+
+it's like that
+
 日本の女性はいつも思ってるのかもしれないですね
+
+girls in Japan may always think so
+
 本当は男の人から見てもスリンダーなのに
+
+men think they are slender
+
 私は自分に自信を持ってないというか
+
+I think I don't have confidence in myself
+
 いつも痩せたい痩せたいって言ってる人が多いですよ
+
+I see a lot of people saying they want to lose weight
+
 なんかそれって何で起こってると思いました?
+
+Do you have any idea why this is happening?
+
 日本人特有の性格なんでしょうね
+
+Japanese people have a unique personality
+
 海外の人は自信があるでしょ
+
+While foreigners are confident
+
 すでに綺麗で私を見てほしいっていうのが
+
+Do you want to see me already beautiful?
+
 日本の人っておとなしいじゃないですか?
+
+people in Japan are quiet, aren't they?
+
 あまり日本の女性って私綺麗でしょみたいなっていう人は
+
+I don't think there are many Japanese
+
 周りの女の子からちょっとこう嫌われるっていうか
+
+think they are beautiful
+
 そういう多分民族なのかなって
+
+Also, I think
+
 常にちょっと控えめに控えめに
+
+Usually, a little modestly
+
 でも心の中では私を綺麗って思ってる
+
+I think I'm beautiful in my heart
+
 彼女はずっと痩せなきゃって言ってます
+
+Other people always say they have to lose weight
+
 顔痩せしたいみたいな感じで言ってて
+
+The face looks like it wants to lose weight
+
 別に自分はあんま気になってないんですけど
+
+There's nothing I'm really worried about
+
 ちょっと痩せなきゃって言われるんで
+
+Be thin a little
+
 なんて返せばいいかなみたいな
+
+Do you think I should say something?
+
 毎回困ってます
+
+Every time I'm in trouble
+
 痩せた方がいいと思いますか?
+
+is it better to lose weight?
+
 そのままでいいと思うんですけど
+
+I think it's fine as it is
+
 そんな別に大きいなとも思わないし
+
+personally, I don't think it's that big
+
+
 全然いいと思うんですけど
+
+definitely fine
+
 自分で思ってるんですよ
+
+first of all, I think
+
 多分きっと
+
+it's probably
+
 Twitterとかインスタルアカメントだと
+
+because of Twitter and Instagram accounts
+
 痩せるための方法みたいなのが多くて
+
+people are looking for ways to lose weight
+
 あまり痩せてる方がいいみたいなのは
+
+do you think it's better to be thin?
+
 よく見かけるなと思います
+
+you often see it
+
 僕の職場って意外と年が近い人もいるんですけど
+
+Age is close to my workplace
+
 年下ばっかいるんで
+
+Younger people are there
+
 それの印象だと
+
+As far as that impression goes
+
 もう痩せてるのに
+
+They're already thin
+
 さらに痩せようとする人ばっかですね
+
+They are all trying to lose weight
+
 それは思いました
+
+what do you think?
+
 ダイエットの話とかをされる?
+
+I think you're talking about dieting
+
 いやそうですね
+
+Also, I think
+
 どこ削るねんっていう話を持ってるんですけど
+
+why are you talking about cutting?
+
 これ以上
+
+this is more
+
+
 だからそうですね
+
+definitely
+
 周りはめっちゃ痩せたいと思ってるんじゃないですかね
+
+people around me really want to lose weight
+
 ずっとちっちゃい頃から体大きかったんで
+
+Do you think you've been big since you were little?
+
 言われ始めたのは
+
+You started saying
+
 二十歳近くなってからですね
+
+When I was almost twenty
+
 別に子供の頃それで
+
+personally, I think
+
 なんかすごい友達から言われるとかもなく
+
+My friends didn't say anything
+
 まあなんだろう
+
+But what is it?
+
 体系児っていうか
+
+The system is
+
 まああれじゃないですか
+
+that's what it is
+
 小学校の時とか
+
+when I was in elementary school
+
 例えば
+
+For example
+
 言ったらゴリラとか
+
+say gorilla
+
 動物のあだ名みたいなのあるじゃないですか
+
+names like animals
+
 別にそれは俺は苦に感じなかったんで
+
+I felt no pain in that
+
 まあそういうのはあったかな
+
+but I think there was
+
 でもちょっと思い返してみれば
+
+personally, I think
+
 子供らしいというか
+
+when I was a child
+
 まあそうですね
+
+well, that's right
+
 子供らしいと思ってました
+
+when I was a child
+
 ご視聴ありがとうございました
+
+and thank you for watching
 
 
 
