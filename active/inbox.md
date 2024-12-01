@@ -1,5 +1,23 @@
 
+# 2024-12-01
+
+"melody" "song" "music"  "symbolic"  site:cmu.edu filetype:pdf
+
+这是一篇关于可控深度旋律生成的学术论文，作者来自卡内基梅隆大学和Adobe公司。论文介绍了一种名为MusicFrameworks的分层音乐结构表示方法，以及一个多步骤生成过程，用于创建具有长期重复结构、和弦、旋律轮廓和节奏约束的完整旋律。
+https://www.cs.cmu.edu/~rbd/papers/frameworks-ismir2021.pdf
+
+phd thesis deep learning
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/450816/1/dissertation_researchCollection.pdf
+
+MIDI-VAE 的深度学习模型,用于音乐风格转换
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/292318/204_Paper.pdf?sequence=2&isAllowed=y
+
+使用神经网络(特别是 CycleGAN)将一首音乐从一种风格转换为另一种风格,比如将古典音乐转换成爵士风格。
+研究了在原有 CycleGAN 架构上添加谱归一化(spectral normalization)和自注意力(self-attention)机制的效果:
+https://tik-db.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
+
 # 2024-11-30
+
 
 
 104

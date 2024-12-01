@@ -1,4 +1,135 @@
 
+# 2024-12-01
+
+(156) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37240
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+mstange’s gists
+https://gist.github.com/mstange
+
+1934315 - JSRuntime::atExit routines run in such a state that sementation faults don't print anything
+https://bugzilla.mozilla.org/show_bug.cgi?id=1934315
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Missing tests for bindings that shadow globalThis properties · Issue #4332 · tc39/test262
+https://github.com/tc39/test262/issues/4332
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+"melody" "song" "music" "symbolic" site:cmu.edu filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22melody%22+%22song%22+%22music%22++%22symbolic%22++site%3Acmu.edu+filetype%3Apdf&client=ubuntu-sn&sca_esv=70e0b69637db890c&channel=fs&sxsrf=ADLYWIJdbpG0PZBMj7Av50bFf_8ZRFlS4g%3A1733013042603&ei=Mq5LZ9LAJPKYvr0PttTP6Qc&ved=0ahUKEwjSoa7WqIWKAxVyjK8BHTbqM30Q4dUDCA8&uact=5&oq=%22melody%22+%22song%22+%22music%22++%22symbolic%22++site%3Acmu.edu+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiPiJtZWxvZHkiICJzb25nIiAibXVzaWMiICAic3ltYm9saWMiICBzaXRlOmNtdS5lZHUgZmlsZXR5cGU6cGRmSO8oUJAKWMYmcAJ4AJABAJgB7AGgAaQOqgEDMi04uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAeYAw&sclient=gws-wiz-serp
+
+music_generation.pdf
+http://www.cs.cmu.edu/~shkarp/course_projects/music_generation.pdf
+
+Modeling Self-Repetition in Music Generation using Generative Adversarial Networks - music_workshop_paper.pdf
+https://www.cs.cmu.edu/~jharsh/papers/music_workshop_paper.pdf
+
+Shuqi_PhD_Thesis_Proposal.pdf
+https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/Posters/Shuqi_PhD_Thesis_Proposal.pdf
+
+Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
+https://tik-db.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
+
+204_Paper.pdf
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/292318/204_Paper.pdf?sequence=2&isAllowed=y
+
+Applications of Deep Learning for Sequential Data: Music, Human Activity and Language - dissertation_researchCollection.pdf
+https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/450816/1/dissertation_researchCollection.pdf
+
+frameworks-ismir2021.pdf
+https://www.cs.cmu.edu/~rbd/papers/frameworks-ismir2021.pdf
+
+Stylistic Melody Generation with Conditional Variational Auto-Encoder - project8.pdf
+https://www.cs.cmu.edu/~epxing/Class/10708-19/assets/project/final-reports/project8.pdf
+
+SMC2019_Proceedings - melody-identification-midi-smc2019.pdf
+https://www.cs.cmu.edu/~rbd/papers/melody-identification-midi-smc2019.pdf
+
+icm-text-rbd-2021.pdf
+https://www.cs.cmu.edu/~music/icm-online/icm-text-rbd-2021.pdf
+
+melody song folk rnn symbolic site:arxiv.org filetype:pdf - Google 搜索
+https://www.google.com/search?q=melody+song+++folk+rnn+symbolic++site:arxiv.org+filetype:pdf&client=ubuntu-sn&hs=XZQ&sca_esv=857fdb1044b4db16&channel=fs&sxsrf=ADLYWIJe6UEEh0CzOyz6GH5IYPN7ZgVQ-w:1732967236710&ei=RPtKZ9eJK4ekvr0Pw8qsoQ4&start=110&sa=N&sstk=ATObxK48FAWUhQmclmpVXtld4sjCUvqeBKY3_PHhREjfAkJtMRpm75eQCbNoyK6A22IPUZ848e8dkj1DOhZcc3NC7bqaDrsvcfGRl1xvfy2bg6blo1pPveb0ohqHz5GB3CLQGAz-D5OH9SFuQBfLFYDQnLWIgSG1xsmf_hM37n1LLhSJkUQqq2F6pQR2vELmCg&ved=2ahUKEwjXu7SE_oOKAxUHkq8BHUMlK-Q4eBDy0wN6BAgLEBQ&biw=1850&bih=968&dpr=1
+
+Microsoft Word - 2017_ismir (final)4.docx - 1712.01011v1.pdf
+https://arxiv.org/pdf/1712.01011
+
+"PLDI" "compiler optimization" filetype:pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%22PLDI%22+%22compiler+optimization%22+filetype%3Apdf+
+
+stockholm - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=stockholm
+
+Hans Wennborg youtube - Google 搜索
+https://www.google.com/search?q=Hans+Wennborg+youtube&client=ubuntu-sn&hs=lZn&sca_esv=334922e174cf79f6&channel=fs&sxsrf=ADLYWILTF2ZqGs0ewgZ5l6wKbMB4tfU9nw%3A1732976221745&ei=XR5LZ-uVLYvk2roPzuW0iAE&ved=0ahUKEwiruOfAn4SKAxULslYBHc4yDREQ4dUDCA8&uact=5&oq=Hans+Wennborg+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiFUhhbnMgV2VubmJvcmcgeW91dHViZTIIEAAYgAQYogRIq_kBUPLjAViG8gFwAngAkAEAmAGWAqABtxCqAQMyLTi4AQPIAQD4AQGYAgigAq0MwgIKEAAYgAQYsAMYE8ICCxAAGIAEGLADGKIEwgIEEAAYHsICBRAhGKABwgIHECEYoAEYCpgDAIgGAZAGBJIHBTIuMC42oAfcCQ&sclient=gws-wiz-serp
+
+C++ Switch Statements Under the Hood in LLVM – Hans Wennborg [video] | Hacker News
+https://news.ycombinator.com/item?id=42267980
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Issues · LadybirdBrowser/ladybird
+https://github.com/LadybirdBrowser/ladybird/issues
+
+Taylor Swift - Anti-Hero (Official Music Video) - YouTube
+https://www.youtube.com/watch?v=b1kbLwvqugk&list=RDb1kbLwvqugk&start_radio=1
+
+Code search results
+https://github.com/search?q=repo%3Aschlagercollin%2Fmeta-learning-music%20pitch&type=code
+
+Dataset | Lakh Pianoroll Dataset
+https://hermandong.com/lakh-pianoroll-dataset/dataset
+
+2762076.pdf
+https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports/2762076.pdf
+
+CS330_Omer_Gul_Collin_Schlager_Graham_Todd.pdf
+https://cs330.stanford.edu/fall2020/projects2020/CS330_Omer_Gul_Collin_Schlager_Graham_Todd.pdf
+
+Microsoft Word - Dissertation.doc - Machine-Listening_Scheirer.pdf
+https://web.media.mit.edu/~tod/media/pdfs/Machine-Listening_Scheirer.pdf
+
+MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment - 1709.06298v2.pdf
+https://arxiv.org/pdf/1709.06298
+
 # 2024-11-30
 
 Yjs Prosemirror Example
