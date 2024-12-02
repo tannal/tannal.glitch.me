@@ -1,6 +1,11 @@
 
 # 2024-12-02
 
+"context" "dispatch" "jit" (dissertation OR thesis OR "technical report") filetype:pdf
+
+speculate execution in cpu branch prediction
+ROB(ReOrder Buffer)
+
 "card table" "incremental" "GC" (dissertation OR thesis OR "technical report") filetype:pdf
 
 "compiler" "turbofan" "v8" "torchscript" (dissertation OR thesis OR "technical report") filetype:pdf
