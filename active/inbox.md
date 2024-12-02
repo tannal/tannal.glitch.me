@@ -1,6 +1,31 @@
 
 # 2024-12-02
 
+具体实现方法:
+├── 插值方法
+│   ├── 线性插值
+│   ├── 多项式插值
+│   └── 样条插值
+│
+├── 逼近方法
+│   ├── 贝塞尔曲线
+│   ├── B样条
+│   └── NURBS
+│
+├── 拟合方法
+│   ├── 最小二乘法
+│   └── 回归分析
+│
+└── 平滑方法
+    ├── 移动平均
+    └── 高斯平滑
+
+数值方法:
+├── 插值(Interpolation)
+├── 逼近(Approximation)
+├── 拟合(Fitting)
+└── 平滑(Smoothing)
+
 wget https://dot.net/v1/dotnet-install.sh
 chmod +x dotnet-install.sh
 ./dotnet-install.sh
