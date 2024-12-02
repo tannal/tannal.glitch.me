@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+Just in Time Compilation
+https://janvitek.org/pubs/fluckiger-phd-22.pdf
+
 MSC thesis from Chris Lattner
 https://llvm.org/pubs/2002-12-LattnerMSThesis.pdf
 
