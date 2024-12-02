@@ -1,6 +1,18 @@
 
 # 2024-12-02
 
+
+"strok" "fill" "path" "GPU" "shader" "render" "2D" (dissertation OR thesis OR "technical report") filetype:pdf
+
+
+"remember set" "GC" (dissertation OR thesis OR "technical report") filetype:pdf
+
+"compiler" "v8" (dissertation OR thesis OR "technical report") filetype:pdf
+
+Supporting multi-scope and multi-level compilation in a meta-tracing just-in-time compiler
+https://prg.is.titech.ac.jp/papers/pdf/thesis-d/2023-izawa.pdf
+
+
 具体实现方法:
 ├── 插值方法
 │   ├── 线性插值

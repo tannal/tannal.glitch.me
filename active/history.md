@@ -1,6 +1,116 @@
 
 # 2024-12-02
 
+(157) Discord | #type-theory | The Rust Programming Language
+https://discord.com/channels/442252698964721669/618432855294607371
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37240
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+mstange’s gists
+https://gist.github.com/mstange
+
+1934315 - JSRuntime::atExit routines run in such a state that sementation faults don't print anything
+https://bugzilla.mozilla.org/show_bug.cgi?id=1934315
+
+j:Debugger::enterDebuggerHook (Debugger.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/c597e9c789ad36af84a0370d395be066b7dc94f4/js/src/debugger/Debugger.h#1059
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[Code] A markdown parser. · Issue #96 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/96
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Graphics Programming weekly - Issue 366 - November 17th, 2024 | Jendrik Illner - 3D Programmer
+https://www.jendrikillner.com/post/graphics-programming-weekly-issue-366/
+
+GPU Zen 3: Advanced Rendering Techniques, Engel, Wolfgang, Reznikov, Laura, Kaplanyan, Anton, Bazhenov, Kirill, Lopez, Nicolas, Sickachev, Peter, Bahnassi, Wessam, eBook - Amazon.com
+https://www.amazon.com/GPU-Zen-Advanced-Rendering-Techniques-ebook/dp/B0DNWXT24X?crid=JDGNI6GBR79F&dib=eyJ2IjoiMSJ9.E5an0lZUrGIn6ASX9f7-2glxwTAGazZKD7ufJN8inC4.nqMul15WtqrKbSjZAogHRK8g2oN_tCWyZhyn2rHBN94&dib_tag=se&keywords=GPU+Zen+3:+Advanced+Rendering+Techniques&qid=1732938896&sprefix=gpu+zen+3+advanced+rendering+techniques,aps,104&sr=8-1&linkCode=sl1&tag=jendrikilln05-20&linkId=402ef81acad70bc50ab1bfa815b47f4f&language=en_US&ref_=as_li_ss_tl
+
+AAA - Analytical Anti-Aliasing
+https://blog.frost.kiwi/analytical-anti-aliasing/
+
+Sketchfab - The best 3D viewer on the web
+https://sketchfab.com/3d-models/free-stylzed-anime-character-03b1a4e3a1ef42e99c1245888ab045dd
+
+Tyrannosarus rex (Free model) - Download Free 3D model by Joel Anderson (@joel3d) [e18c433]
+https://sketchfab.com/3d-models/tyrannosarus-rex-free-model-e18c433cdd1c49f8ac152348b7384037
+
+davidezordan (Davide Zordan)
+https://github.com/davidezordan/
+
+mmmovania/opencloth: A collection of source codes implementing cloth simulation algorithms in OpenGL
+https://github.com/mmmovania/opencloth/tree/master
+
+Discover — Bluesky
+https://bsky.app/
+
+LLM 0.19
+https://simonwillison.net/2024/Dec/1/llm-019/
+
+Ask questions of SQLite databases and CSV/JSON files in your terminal
+https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/
+
+LLM: A CLI utility and Python library for interacting with Large Language Models
+https://llm.datasette.io/en/stable/
+
+Language models on the command-line w/ Simon Willison - YouTube
+https://www.youtube.com/watch?v=QUXQNi6jQ30
+
+simonw/sqlite-utils-ask: Ask questions of your data with LLM assistance
+https://github.com/simonw/sqlite-utils-ask
+
+rust/src/idna.rs at main · ada-url/rust
+https://github.com/ada-url/rust/blob/main/src/idna.rs
+
+resvg/crates/usvg/src/tree/mod.rs at c019cec3e30aebb136169ab9cb7c24e382c6ae3f · linebender/resvg
+https://github.com/linebender/resvg/blob/c019cec3e30aebb136169ab9cb7c24e382c6ae3f/crates/usvg/src/tree/mod.rs#L106
+
+斯坦福监狱实验 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9B%91%E7%8B%B1%E5%AE%9E%E9%AA%8C
+
+GPT4All
+https://www.nomic.ai/gpt4all
+
+Repository search results
+https://github.com/search?q=bluesky&type=repositories
 
 # 2024-12-01
 
