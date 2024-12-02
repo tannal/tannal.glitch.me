@@ -1,6 +1,135 @@
 
 # 2024-12-02
 
+(161) Discord | #type-theory | The Rust Programming Language
+https://discord.com/channels/442252698964721669/618432855294607371
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[ARMv7] Fix up some B3 validation errors in B3LowerToAir by justinmichaud · Pull Request #37240 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37240
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+State of JavaScript
+https://stateofjs.com/en-US
+
+mstange’s gists
+https://gist.github.com/mstange
+
+1934315 - JSRuntime::atExit routines run in such a state that sementation faults don't print anything
+https://bugzilla.mozilla.org/show_bug.cgi?id=1934315
+
+j:Debugger::enterDebuggerHook (Debugger.h - mozsearch)
+https://searchfox.org/mozilla-central/rev/c597e9c789ad36af84a0370d395be066b7dc94f4/js/src/debugger/Debugger.h#1059
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[Code] A markdown parser. · Issue #96 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/96
+
+"card table" "incremental" "GC" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22card+table%22+%22incremental%22+%22GC%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&client=ubuntu-sn&sca_esv=b4addd1bfcd356e3&channel=fs&sxsrf=ADLYWIImU409KPCAOU4mq5CUXd-hfZ_nJA%3A1733107494414&ei=Jh9NZ47_GOCCvr0P0qaE0QM&ved=0ahUKEwiOqr_EiIiKAxVgga8BHVITIToQ4dUDCA8&uact=5&oq=%22card+table%22+%22incremental%22+%22GC%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiWyJjYXJkIHRhYmxlIiAiaW5jcmVtZW50YWwiICJHQyIgKGRpc3NlcnRhdGlvbiBPUiB0aGVzaXMgT1IgInRlY2huaWNhbCByZXBvcnQiKSBmaWxldHlwZTpwZGZI2kBQAFiTP3AAeACQAQCYAb0BoAHYBaoBAzAuNLgBA8gBAPgBAZgCAKACAJgDAJIHAKAHzAE&sclient=gws-wiz-serp
+
+Supporting multi-scope and multi-level compilation in a meta-tracing just-in-time compiler - 2023-izawa.pdf
+https://prg.is.titech.ac.jp/papers/pdf/thesis-d/2023-izawa.pdf
+
+A parallel, incremental, mostly concurrent garbage collector for servers - 1108970.1108972.pdf
+https://dl.acm.org/doi/pdf/10.1145/1108970.1108972
+
+· Yusuke IZAWA
+https://www.yuiza.org/pres/
+
+"compiler" "v8" "JavaScript" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22compiler%22+%22v8%22+%22JavaScript%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&client=ubuntu-sn&hs=AhL&sca_esv=b4addd1bfcd356e3&channel=fs&sxsrf=ADLYWIL-RrrWrNWtNtsfNjri_e22YntTjw%3A1733107369909&ei=qR5NZ8mYN93u1e8P7PnN4Aw&ved=0ahUKEwiJkZCJiIiKAxVdd_UHHex8E8wQ4dUDCA8&uact=5&oq=%22compiler%22+%22v8%22+%22JavaScript%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiWCJjb21waWxlciIgInY4IiAiSmF2YVNjcmlwdCIgKGRpc3NlcnRhdGlvbiBPUiB0aGVzaXMgT1IgInRlY2huaWNhbCByZXBvcnQiKSBmaWxldHlwZTpwZGZIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+Problem loading page
+http://uu.diva-portal.org/smash/get/diva2:1626575/FULLTEXT01.pdf
+
+"stroke" "path" "GPU" "shader" "render" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%22stroke%22+%22path%22+%22GPU%22+%22shader%22+%22render%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf+
+
+GPU-accelerated Path Rendering - gpupathrender.pdf
+https://developer.download.nvidia.com/devzone/devcenter/gamegraphics/files/opengl/gpupathrender.pdf
+
+google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://waseda.repo.nii.ac.jp/record/65256/files/Honbun-8733.pdf&ved=2ahUKEwj70e2YiYiKAxUwbfUHHR-UCokQFnoECBgQAQ&usg=AOvVaw21hAjg-TxRZi6FarsVQm6Q
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://waseda.repo.nii.ac.jp/record/65256/files/Honbun-8733.pdf&ved=2ahUKEwj70e2YiYiKAxUwbfUHHR-UCokQFnoECBgQAQ&usg=AOvVaw21hAjg-TxRZi6FarsVQm6Q
+
+"stroke" "fill" "path" "GPU" "shader" "render" "2D" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=k70&sca_esv=b4addd1bfcd356e3&channel=fs&sxsrf=ADLYWIKCIiOSXWcZvtKurayIW4EB_oZr-Q:1733107739253&q=%22stroke%22+%22fill%22+%22path%22+%22GPU%22+%22shader%22+%22render%22+%222D%22+(dissertation+OR+thesis+OR+%22technical+report%22)+filetype:pdf&spell=1&sa=X&ved=2ahUKEwi8kp-5iYiKAxXKlK8BHQ9MBs0QBSgAegQIDxAB&biw=1850&bih=968&dpr=1
+
+GPU-Accelerated Bézier Paths Rendering - Belko_Martin___GPU_Accelerated_Bezier_Paths_Rendering.pdf
+https://is.muni.cz/th/cd4xh/Belko_Martin___GPU_Accelerated_Bezier_Paths_Rendering.pdf
+
+"glyph" "FreeType" "advance" "curve" "2D" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22glyph%22+%22FreeType%22+%22advance%22+%22curve%22+%222D%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&client=ubuntu-sn&sca_esv=b4addd1bfcd356e3&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIKJVhNLcljB1VmxJYQQMALIh51zaQ%3A1733109076789&ei=VCVNZ-_tL727vr0PncznyQE&ved=0ahUKEwjv54O3joiKAxW9na8BHR3mORkQ4dUDCA8&uact=5&oq=%22glyph%22+%22FreeType%22+%22advance%22+%22curve%22+%222D%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiZSJnbHlwaCIgIkZyZWVUeXBlIiAiYWR2YW5jZSIgImN1cnZlIiAiMkQiIChkaXNzZXJ0YXRpb24gT1IgdGhlc2lzIE9SICJ0ZWNobmljYWwgcmVwb3J0IikgZmlsZXR5cGU6cGRmSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+Front Rendering on the GPU - 151574883.pdf
+https://core.ac.uk/download/pdf/151574883.pdf
+
+176609.pdf
+https://odr.chalmers.se/server/api/core/bitstreams/7ddc49e4-ae0f-47cf-888a-75c248ddff18/content
+
+21027_Masterarbeit.pdf
+https://capuana.ifi.uzh.ch/publications/PDFs/21027_Masterarbeit.pdf
+
+OmniPrint: A Configurable Printed Character Synthesizer - merged_file.pdf
+https://hal.science/hal-03506905/file/merged_file.pdf
+
+dissertation.pdf
+http://josiahmanson.com/research/dissertation/dissertation.pdf
+
+"compiler" "turbofan" "v8" "OSR" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22compiler%22+%22turbofan%22+%22v8%22+%22OSR%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&client=ubuntu-sn&hs=wxg&sca_esv=f80fe920d1a8d783&channel=fs&biw=1850&bih=968&sxsrf=ADLYWILGMe0NlBTK-f2faJUxLdDSpsWqmA%3A1733109692482&ei=vCdNZ5-NHcW8vr0PveHt8Qc&ved=0ahUKEwif287ckIiKAxVFnq8BHb1wO34Q4dUDCA8&uact=5&oq=%22compiler%22+%22turbofan%22+%22v8%22+%22OSR%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiXCJjb21waWxlciIgInR1cmJvZmFuIiAidjgiICJPU1IiIChkaXNzZXJ0YXRpb24gT1IgdGhlc2lzIE9SICJ0ZWNobmljYWwgcmVwb3J0IikgZmlsZXR5cGU6cGRmSABQAFgAcAB4AJABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHAA&sclient=gws-wiz-serp
+
+Problem loading page
+http://uu.diva-portal.org/smash/get/diva2:1626575/FULLTEXT01.pdf
+
+1708.02512v1.pdf
+https://arxiv.org/pdf/1708.02512
+
+On-Stack Replacement for Program Generators and Source-to-Source Compilers - 3486609.3487207.pdf
+https://dl.acm.org/doi/pdf/10.1145/3486609.3487207
+
+fluckiger-phd-22.pdf
+https://janvitek.org/pubs/fluckiger-phd-22.pdf
+
+Jan Vitek @ NEU
+https://janvitek.org/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+fluckiger-phd-22.pdf
+https://janvitek.org/pubs/fluckiger-phd-22.pdf
+
 (157) Discord | #type-theory | The Rust Programming Language
 https://discord.com/channels/442252698964721669/618432855294607371
 
