@@ -1,4 +1,10 @@
 
+# 2024-12-02
+
+wget https://dot.net/v1/dotnet-install.sh
+chmod +x dotnet-install.sh
+./dotnet-install.sh
+
 # 2024-12-01
 
 - Jakub Knapik
