@@ -1,6 +1,9 @@
 
 # 2024-12-02
 
+"card table" "incremental" "GC" (dissertation OR thesis OR "technical report") filetype:pdf
+
+"compiler" "turbofan" "v8" "torchscript" (dissertation OR thesis OR "technical report") filetype:pdf
 
 "strok" "fill" "path" "GPU" "shader" "render" "2D" (dissertation OR thesis OR "technical report") filetype:pdf
 "font" "TrueType" "apple" "GPU" "shader" "render" "2D" (dissertation OR thesis OR "technical report") filetype:pdf
