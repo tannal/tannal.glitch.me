@@ -1,4 +1,82 @@
 
+# 2024-12-03
+
+
+Whatwg CSSWG ECMAScript
+
+Web Applications Working Group (WebApps WG)
+Web Platform Working Group
+Web Audio Working Group
+WebRTC Working Group
+Web Performance Working Group
+Web Authentication Working Group
+Immersive Web Working Group
+Web Machine Learning Working Group
+
+- 字形复杂性
+  - 曲线数量多(一个中文字可能包含几十条贝塞尔曲线)
+  - 笔画交叉复杂
+  - 需要处理衬线、装饰等细节
+
+- 光栅化挑战
+  - 需要高质量抗锯齿
+  - 亚像素渲染(LCD优化)
+  - Hinting处理(网格对齐)
+  - 不同尺寸下保持清晰度
+
+- 缓存管理
+  - Glyph缓存
+  - 纹理图集管理
+  - 内存与性能平衡
+
+  - 多语言支持
+    - 不同书写方向(RTL、垂直等)
+    - 连字处理(阿拉伯文等)
+    - 变音符号位置
+    - 标点符号规则
+
+  - 布局算法
+    - 断行算法
+    - 两端对齐
+    - 字距调整
+    - 行距计算
+
+  - 高级排版特性
+    - OpenType特性支持
+    - 字距微调
+    - 连字(Ligatures)
+    - 上下标处理
+
+- 规则明确
+  - 盒模型定义清晰
+  - 计算规则统一
+  - 边界条件少
+
+- 数据结构简单
+  - 矩形为主
+  - 嵌套关系清晰
+  - 属性数量有限
+
+- 渲染简单
+  - 主要是矩形绘制
+  - 边框效果可预计算
+  - 不需要复杂的抗锯齿
+
+a) 物理模拟渲染:
+- 需要精确的物理计算
+- 涉及复杂的光线追踪
+- 需要处理大量动态对象的交互
+
+b) 医学图像渲染:
+- 需要处理海量体素数据
+- 要求极高的精确度
+- 可能需要实时三维重建
+
+c) 科学可视化:
+- 需处理复杂的数学模型
+- 可能涉及高维数据降维显示
+- 对精确度要求极高
+
 # 2024-12-02
 
 "context" "dispatch" "jit" (dissertation OR thesis OR "technical report") filetype:pdf

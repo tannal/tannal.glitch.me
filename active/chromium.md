@@ -1,5 +1,35 @@
 
-# Compositing 
+
+
+光栅化 -> 生成图层 -> 合成 -> 最终图像
+
+- 光栅化关注"如何将矢量转为像素"
+- 合成关注"如何高效组织和显示这些像素"
+
+Layout -> Paint -> Rasterization -> Composite
+
+// 光栅化过程包括:
+1. 路径处理
+2. 填充规则应用
+3. 抗锯齿处理
+4. 透明度处理
+
+# Compositing
+
+
+- 核心是布局算法(Layout Algorithm)
+  - 盒模型计算(Box Model)
+  - 流式布局(Flow Layout)
+  - 弹性布局(Flexbox)
+  - 网格布局(Grid)
+
+- 字体只是其中一个重要组件
+  - 文字排版(Text Layout)
+  - 行高计算(Line Height)
+  - 字距调整(Kerning)
+  - 连字处理(Ligatures)
+
+
 
 Browser Process
     ↓
@@ -7,9 +37,9 @@ Renderer Process
     |-> Main Thread (JS/DOM/Layout)
     |-> Compositor Thread (合成)
     |-> V8 线程
-        |-> Main V8 
+        |-> Main V8
         |-> GC Thread
-        |-> Compiler Thread(s) 
+        |-> Compiler Thread(s)
             - JIT编译
             - 优化编译
     |-> Web Worker Threads
@@ -94,7 +124,7 @@ LayoutReplaced 对象布局示意图:
     +----------------+----------------+
     |     26位      |      6位      |
     +----------------+----------------+
-    
+
     例如: 768 (frame_location_.x_)
     二进制: 0000 0011 0000 0000
     实际值: 12px (768/64)
@@ -202,7 +232,7 @@ sudo perf script > ./graph/out.chromiumgpuprocstacks01
 ./stackcollapse-perf.pl < ./graph/out.chromiumgpuprocstacks01 | ./flamegraph.pl > ./graph/out.chromiumgpuprocstacks01.svg
 
 
-./out/Default/chrome bilibili.com 
+./out/Default/chrome bilibili.com
 --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
 
 sudo perf record -F 99 -p 409806 -g -- sleep 30
@@ -295,7 +325,7 @@ printf "%s\n",  data.Latin1().data()
 printf "%s\n",  html.Latin1().data()
 
 
-document.readystate -> parsing(dom loading) -> interactive (parse done) -> 
+document.readystate -> parsing(dom loading) -> interactive (parse done) ->
 
 Dom use Element
 layout use Node
@@ -316,14 +346,14 @@ fieldset
 A fieldset is (almost) a regular block container, and should be treated as such.
 
 label input textarea select checkbox radio button help
-<form> <button> <input> <textarea> and <label>. 
+<form> <button> <input> <textarea> and <label>.
 
 p layout_results_.size()
 
 LayoutText can get orignal text
 printf "%s\n",  text.Latin1().data()
 
-#if DCHECK_IS_ON() 
+#if DCHECK_IS_ON()
 call ShowTree(GetNode())
 
 
@@ -357,7 +387,7 @@ Element is subclass ContainerNode which is subclass Node.
 
 Element object has a reference of LayoutTreeBuilderForElement which is subclass of LayoutTreeBuilder
 
-StyleEngine and document is a subclass of style_engine_ parsing_state_ 
+StyleEngine and document is a subclass of style_engine_ parsing_state_
 
 LocalFrame has a reference of FrameSelection which is selection_
 
@@ -393,7 +423,7 @@ there is a super long extends chian
 LayoutView -> LayoutNGBlockFlow -> LayoutBlockFlow -> LayoutBlock -> LayoutBox -> LayoutBoxModelObject -> LayoutObject and more.
 
 layout_view_ has a reference to a ComputedStyle which is style_
-it can apply the ComputedStyle to 
+it can apply the ComputedStyle to
 
 the document object has a reference to a layout_view_
 
@@ -420,7 +450,7 @@ also has a reference to document_ and DOMVisualViewport
 just like dom window, all the layout scrolling information come from this object.
 also has script_controller_
 
-the LocalFrame has a reference to LocalDOMWindow 
+the LocalFrame has a reference to LocalDOMWindow
 also a reference to a page
 also a reference to a LayoutView
 
@@ -599,7 +629,7 @@ printf "%s\n",  decoded.Latin1().data()
 the document parser hold a tokenier and the input stream
 
 when some one give some code to parser the parser just (maybe decode it first)
-then append it to the inputstream 
+then append it to the inputstream
 
 
 ln -sfn out/Default/gen gen
@@ -664,7 +694,7 @@ third_party/blink/tools/run_wpt_tests.py -t Default -p chrome third_party/blink/
 
 chrome
 
-./out/Default/chrome baidu.com --enable-gpu-benchmarking --no-sandbox 
+./out/Default/chrome baidu.com --enable-gpu-benchmarking --no-sandbox
 
 ./out/Default/chrome ~/tannalwork/cans/sk.html --enable-gpu-benchmarking --no-sandbox --enable-logging=stderr --v=1 2>&1 | ts -s "%.S: " | tee /tmp/chrome_log.txt
 
@@ -687,7 +717,7 @@ p GetDocument().document_classes_
 Base class for all LayoutNG algorithms.
 LayoutAlgorithm
 - const InputNodeType& Node() const { return node_; }
-- 
+-
 
 --nohooks --no-history
 
@@ -1042,7 +1072,7 @@ LOG(INFO) << "Hello World" << std::endl;
 
 ```
 
-## src/net/socket/ssl_client_socket_impl.cc 
+## src/net/socket/ssl_client_socket_impl.cc
 
 `DoHandshake` https handshake
 
@@ -1086,7 +1116,7 @@ Rendering Core
 Speed Metrics Team
 Style Team
 Web Capabilities (Project Fugu 🐡)
-Worker Team 
+Worker Team
 
 
 # community
