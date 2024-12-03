@@ -1,6 +1,113 @@
 
 # 2024-12-03
 
+(171) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-calendar（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C011U9EU8AF
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+Element [18] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+The World’s Highest Website—a CSS Experiment
+https://worlds-highest-website.com/#pos1
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+svg.js - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=svg.js+
+
+SVG.js v3.2 | Contributing
+https://svgjs.dev/docs/3.2/contributing/
+
+Issues · d3/d3
+https://github.com/d3/d3/issues
+
+Raphaël js - Google 搜索
+https://www.google.com/search?q=Rapha%C3%ABl+js&client=ubuntu-sn&hs=pZW&sca_esv=b7414eef6243bef6&channel=fs&sxsrf=ADLYWIJXDiD8EQn8iE-8yok8VftcCm9SUQ%3A1733149197484&ei=DcJNZ-qhHbPX1e8Pta6BqA4&ved=0ahUKEwiq3Ijyo4mKAxWza_UHHTVXAOUQ4dUDCA8&uact=5&oq=Rapha%C3%ABl+js&gs_lp=Egxnd3Mtd2l6LXNlcnAiC1JhcGhhw6tsIGpzMgcQABiABBgKMgUQLhiABDIFEAAYgAQyBxAuGIAEGAoyChAuGIAEGEMYigUyBxAAGIAEGAoyBRAuGIAEMgUQABiABDIFEAAYgAQyBxAAGIAEGApI8gpQ3AdY-wlwAXgBkAEAmAGoAqABqAKqAQMyLTG4AQPIAQD4AQGYAgKgArsCwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMy0xoAfBFg&sclient=gws-wiz-serp
+
+Raphaël—JavaScript Library
+https://dmitrybaranovskiy.github.io/raphael/
+
+DmitryBaranovskiy/raphael: JavaScript Vector Library
+https://github.com/DmitryBaranovskiy/raphael
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+tc39-transfer/proposal-intl-currency-display-choices
+https://github.com/tc39-transfer/proposal-intl-currency-display-choices
+
+gpu Texture - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=gpu+Texture
+
+vello/doc/vision.md at d796c786de01da57882dfb7de2537a22a7beb74a · linebender/vello
+https://github.com/linebender/vello/blob/d796c786de01da57882dfb7de2537a22a7beb74a/doc/vision.md?plain=1#L26
+
+RenderEffect - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=RenderEffect
+
+林俊傑 她說 （高清版） - YouTube
+https://www.youtube.com/watch?v=a03rusIcxmg
+
+vello/doc/ARCHITECTURE.md at main · linebender/vello
+https://github.com/linebender/vello/blob/main/doc/ARCHITECTURE.md
+
+vello/doc/blogs.md at main · linebender/vello
+https://github.com/linebender/vello/blob/main/doc/blogs.md
+
+The stack monoid revisited | Raph Levien’s blog
+https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html
+
+Platform/GFX/Moz2D - MozillaWiki
+https://wiki.mozilla.org/Platform/GFX/Moz2D
+
+"server" "internet" "services" "scale" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22server%22+%22internet%22+%22services%22+%22scale%22+(dissertation+OR+thesis+OR+%22technical+report%22)+filetype:pdf&client=ubuntu-sn&hs=5w5&sca_esv=c802bcab525137d8&channel=fs&sxsrf=ADLYWIIuUjs6ADSz7HbEvdlsnaeWAKX-HQ:1733205738895&ei=6p5OZ-OqNvWh0-kP2drqwAM&start=10&sa=N&sstk=ATObxK63iXu8zVrSNugV2ArvtgwTYR3-nf3hoT3w_G_G94k6UH0klGBPlA_xfxFSjfT1eaX0zpwV6aDwyKHMKDyfFT_-5Ak-Kw4Bzw&ved=2ahUKEwjjx47D9oqKAxX10DQHHVmtGjgQ8tMDegQICxAE&biw=1850&bih=968&dpr=1
+
+mdw-phdthesis.pdf
+https://cs.uwaterloo.ca/~brecht/servers/readings-new/mdw-phdthesis.pdf
+
+Problem loading page
+http://www.diva-portal.org/smash/get/diva2:274373/FULLTEXT01.pdf
+
+phd-thesis.pdf
+https://brucespang.com/papers/phd-thesis.pdf
+
+justin-phd-thesis-December_25_2018.pdf
+https://kratos4.ethz.ch/wp-content/uploads/2019/01/justin-phd-thesis-December_25_2018.pdf
+
+thesis.pdf
+https://thesis.library.caltech.edu/7815/1/thesis.pdf
 
 # 2024-12-02
 
