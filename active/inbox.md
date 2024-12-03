@@ -1,6 +1,7 @@
 
 # 2024-12-03
 
+输入列表 -> 变换 -> 平坦化 -> 分块 -> 光栅化 -> compositing -> 最终渲染
 
 Whatwg CSSWG ECMAScript
 
