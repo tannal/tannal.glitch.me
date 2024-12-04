@@ -36,39 +36,39 @@ thin may be
 
 by the way can you tell me your height and weight
 
-173,4の62,3ぐらいです体重
+173,4の62,3 ぐらい です 体重
 
-173,4 is 62,3 is weight
+it is about 173 and 62,3 height and weight
 
-身長は173センチで体重は50キロ前後ぐらいですね
+身長 は 173 センチ で 体重 は 50 キロ 前後 ぐらい です ね
 
 173 centimeters tall and weighs about 50 kilograms
 
-身長は152センチで体重は40キロです
+身長 は 152 センチ で 体重 は 40 キロ です
 
 152 centimeters tall and weighs 40 kilograms
 
-理想の体重や身長ってあります
+理想 の 体重 や 身長 って あ ります
 
 are there ideal weight and height
 
-身長は今のままでいいかなって思うんですけど
+身長 は 今 の まま で いい かな って 思う んです けど
 
 height is fine as it is
 
-体重は数字だけで見るともう少し30キロ台ぐらいがいいかなって思います
+体重 は 数字 だけで 見 ると もう少 し 30 キロ台 ぐらいが いい かな って 思い ます
 
 weight is a little more 30 kilograms is good
 
-外国人っていうのは一般的に日本人は結構細い人が多いっていう風な印象を持ってるんですけど
+外国人 っていう の は 一般的 に 日本人 は 結構細 い人が多いっていう 風な 印象 を持 って る んです けど
 
 foreigners generally have the impression that many Japanese people are thin
 
-そういうのご存知でしたか
+そういう の ご存知 でし たか
 
 is that something you knew
 
-外国人みんな凄いんで
+外国人 みんな凄 いんで
 
 foreigners are amazing
 
@@ -76,20 +76,20 @@ foreigners are amazing
 
 yes
 
-皆さんね国によって体型が違うから
+皆さんね国によ って 体型が違うから
 
 many people have different body types depending on the country
 
-大体同じ職場の人たち
+大体同じ 職場 の人 たち
 
 people in the same workplace
 
 
-欧米の人とかになるとやっぱりどっちかっていうと
+欧米 の 人 とか にな ると やっぱり どっち か って いう と
 
 when it comes to Westerners, it's more like
 
-ふくよかな人が多いイメージですよね
+ふく よかな 人が 多 い イメージ です よね
 
 I have the impression that there are many plump people
 
