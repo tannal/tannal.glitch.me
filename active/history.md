@@ -1,4 +1,111 @@
 
+# 2024-12-04
+
+(181) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+Element [20] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+The World’s Highest Website—a CSS Experiment
+https://worlds-highest-website.com/#pos1
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+"sparse" "Strip" "CPU" "GPU" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com/search?q=%22sparse%22+%22Strip%22+%22CPU%22+%22GPU%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&client=ubuntu-sn&hs=f27&sca_esv=f020a7a3a9c0faaa&channel=fs&sxsrf=ADLYWII0eH1QG_eS5bEzdE8YG-m7ICRkrQ%3A1733213772174&ei=TL5OZ7eYCrbc2roP5q-J8AM&ved=0ahUKEwi37ta5lIuKAxU2rlYBHeZXAj4Q4dUDCA8&uact=5&oq=%22sparse%22+%22Strip%22+%22CPU%22+%22GPU%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiWCJzcGFyc2UiICJTdHJpcCIgIkNQVSIgIkdQVSIgKGRpc3NlcnRhdGlvbiBPUiB0aGVzaXMgT1IgInRlY2huaWNhbCByZXBvcnQiKSBmaWxldHlwZTpwZGZIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+Sparse Tensor Algebra Compilation - kjolstad-phd-thesis-taco-compiler.pdf
+http://tensor-compiler.org/files/kjolstad-phd-thesis-taco-compiler.pdf
+
+LNCS 7385 - Improving GPU Sparse Matrix-Vector Multiplication for Probabilistic Model Checking - improvinggpuspmv.pdf
+https://awijs.win.tue.nl/articles/improvinggpuspmv.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Complete CSS - Piccalilli
+https://piccalil.li/complete-css/
+
+What do the Japanese Eat To Stay Slim? | Street Interview - YouTube
+https://www.youtube.com/watch?v=jriYcIRPmI8&t=742s
+
+Google 翻译
+https://translate.google.com/details?sl=ja&tl=en&text=%E3%81%AB%E3%82%88%E3%82%8A&op=translate
+
+max fisher - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=max+fisher
+
+Napoleon Bonaparte - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Napoleon+Bonaparte
+
+2024-12 - Deferred import evaluation update - Google 幻灯片
+https://docs.google.com/presentation/d/1yFbqn6px5rIwAVjBbXgrYgql1L90tKPTWZq2A5D6f5Q/edit#slide=id.g316ca0eaf21_1_82
+
+tc39 repositories
+https://github.com/orgs/tc39/repositories?type=all
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+イメージ - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8
+
+coders at work - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=coders+at+work
+
+aosa open source - Google 搜索
+https://www.google.com/search?q=aosa+open+source&client=ubuntu-sn&hs=7R5&sca_esv=22e2dfd6070c855c&channel=fs&sxsrf=ADLYWIIzI1i2Nv4lf5_XXCD_h--XeOK6zg%3A1733283258983&ei=us1PZ6_SO4vn2roP7YucyA0&ved=0ahUKEwivl8mnl42KAxWLs1YBHe0FB9kQ4dUDCA8&uact=5&oq=aosa+open+source&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGFvc2Egb3BlbiBzb3VyY2UyBxAjGLACGCcyBhAAGAoYHjIGEAAYDRgeMgoQABgIGAoYDRgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGAgYDRgeSKoPUABYsA5wBXgAkAEAmAH7AaABzAqqAQMyLTa4AQPIAQD4AQGYAgugAoELwgIIEC4YgAQYywHCAggQABiABBjLAcICBxAuGIAEGAzCAgcQABiABBgMwgIXEC4YgAQYywEYlwUY3AQY3gQY3wTYAQHCAgQQABgewgIGEAAYCBgewgIGEAAYDBgewgIIEAAYChgMGB7CAggQABgFGAwYHsICChAAGAUYChgMGB6YAwC6BgYIARABGBSSBwU1LjAuNqAH6RA&sclient=gws-wiz-serp
+
+The Architecture of Open Source Applications (Volume 2)nginx
+https://aosabook.org/en/v2/nginx.html
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+agendas/2024/12.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2024/12.md
+
+richard sutton - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=richard+sutton
+
 # 2024-12-03
 
 (171) Discord | #📄development | Graphite
