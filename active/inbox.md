@@ -1,7 +1,11 @@
 
 # 2024-12-04
 
+deep mind
+meta ai lab
+openai anthropic
 
+Richard Sutton
 
 # 2024-12-03
 

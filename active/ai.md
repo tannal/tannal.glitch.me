@@ -1,6 +1,68 @@
 
+以下是一些在AI领域
+有重要贡献的公司：
+学术/研究机构背景：Cohere (多伦多大学背景)
 
-# Anthorpic
+AI21 Labs (以色列)
+Inflection AI (DeepMind前员工创立)
+Claude (前OpenAI研究员创立)
+大型科技公司：
+Microsoft Research
+IBM Research (Watson等项目)
+Apple (机器学习团队)
+Nvidia (AI芯片和框架)
+Baidu Research (文心一言)
+阿里达摩院
+腾讯AI Lab
+专注特定领域的AI公司：
+Hugging Face (开源AI模型和工具)
+Runway ML (AI视频和创意工具)
+Midjourney (AI图像生成)
+Character.ai (AI对话角色)
+Replika (AI伴侣)
+Scale AI (AI数据标注和训练)
+开源社区：EleutherAI (开源语言模型)
+Stability AI (开源图像生成)
+LAION (开源数据集)新兴的重要玩家：xAI (马斯克的AI公司)
+Claude (Anthropic的竞品)
+Adept AI (AI助手)
+Databricks (企业AI解决方案)这些公司在不同方向都有其独特贡献：
+基础研究应用开发开源工具数据集建设计算基础设施特定领域应用
+
+- Microsoft Research
+- IBM Research
+- Amazon Research
+- Baidu Research
+- Tencent AI Lab
+- Huawei Noah's Ark Lab
+- Nvidia Research
+- MIT-IBM Watson AI Lab
+- CMU AI Lab
+- Stanford AI Lab
+
+# Hinton
+
+# Meta AI Lab
+
+john Hopfield
+Yann LeCun
+Antoine Bordes
+Jason Weston
+
+
+# OpenAI
+
+# DeepMind
+
+Richard Sutton
+David Silver
+Adam White
+Joseph Modayil
+Martha White
+Andy Barto
+
+
+# Anthropic
 
 Research
 
