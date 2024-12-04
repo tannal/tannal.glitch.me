@@ -93,51 +93,51 @@ when it comes to Westerners, it's more like
 
 I have the impression that there are many plump people
 
-背も高いとかね
+背も高 いと かね
 
 they are tall
 
-全体的に大きい
+全体 的 に大 きい
 
 overall big
 
-そうですね骨が太いというか肉付きがいいっていう風な
+そう です ね骨が太いというか 肉付 きが いい って いう 風な
 
 Yes, bones are thick or meat is good
 
-日本人はもともと骨自体が細いのかなと思うくらい
+日本人 はも ともと 骨自体が細い の かなと 思うく らい
 
 when it comes to Japanese people, I think the bones are thin
 
-だからそれにつく筋肉とかそういった背肉とかの違いもあるのかなって思ったりするんですけどね
+だからそれ に つく 筋肉 とかそういった 背肉 とか の 違いもある の かなって思ったりするん です けどね
 
 that's why I think there are differences in muscles and back meat
 
-そういうことがあるかもしれないけども最近の日本人も太ってる人いるね
+そういうことがあるかもしれないけども 最近 の 日本人 も太ってる人い るね
 
 although there may be such things, there are also fat Japanese people these days
 
-日本人の体型は大体が痩せてるんでしょ小柄でね
+日本人 の 体型 は 大体 が 痩せ てるんでしょ 小柄 でね
 
 many Japanese people are thin and small
 
-和食がそうだからね
+和食 がそうだからね
 
 it is because of Japanese food
 
-最近だから若い人は違うから若い人は太ってるのがいるね
+最近 だから 若い人は違うから若い人は太ってる の がいるね
 
 recently, young people are different, so there are fat young people
 
-やっぱり食事何ですか?ケーキなんかのせいですかね
+やっぱり 食事 何 です か? ケーキ なんか の せい です かね
 
 but what about the food? is it because of cakes?
 
-僕はずっと今飲食店やってるんですけど
+僕はずっと今 飲食店 やってるん です けど
 
 maybe it's because I've been running a restaurant for a long time
 
-結構やっぱどうしても日本の人ってお酒とか飲む人めっちゃ多いんで
+結構 やっぱどうしても 日本 の 人 って お酒とか飲む人めっちゃ多いんで
 
 the fact is that many Japanese people drink alcohol
 
@@ -145,28 +145,28 @@ the fact is that many Japanese people drink alcohol
 
 which makes the stomach come out
 
-正直そんなに痩せる人が多いかって言ったら
+正直 そんなに痩せる 人 が多いかって言ったら
 
-and to be honest, there are not many thin people
+and to be honest, there are not many thin peo ple
 
 そうではない気がしますね
 
 but I don't think so
 
-男性に質問してるんですけど
+男性 に 質問 してるんですけど
 
 I mean men
 
-こちらはポッチャリした女性って魅力的だと思います
+こ ちら はポッチャリした女性 って 魅力 的だと思い ます
 
 I think girls with a little meat on them are attractive
 
 
-程度によります
+程度 により ます
 
 it depends on the degree
 
-別に見た目が普通だったら
+別 に見た目が 普通 だっ たら
 
 other than that, if it looks normal
 
@@ -194,20 +194,20 @@ or do you think it's a little too big
 
 Well I don't think it's too big
 
-例えば体重だと何キロからは女性だと重すぎるかな
+例えば 体重 だと何キロからは 女性 だと重すぎるかな
 
 For example, how many kilograms is too heavy
 
 
-でも70ぐらいじゃないですか
+でも 70 ぐ らいじゃないですか
 
 I think it's about 70
 
-結構あると思ったら
+結構 ある と思ったら
 
 maybe it's quite a lot
 
-ちなみに私今76キロあるんですけど
+ちなみに私 今76キロあるんですけど
 
 my weight is 76 kilograms now
 
