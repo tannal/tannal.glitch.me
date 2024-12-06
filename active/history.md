@@ -1,6 +1,167 @@
 
 # 2024-12-06
 
+(178) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+Element [20] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+The World’s Highest Website—a CSS Experiment
+https://worlds-highest-website.com/#pos1
+
+⚙ D229926 Bug 1932800 - Fix caret baseline of empty inline and text frames. r=dshin
+https://phabricator.services.mozilla.com/D229926
+
+Contact - success | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/success-form.html
+
+freshout - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=freshout
+
+boblsturm/aimusicstudies2024: The First International Conference in AI Music Studies 2024
+https://github.com/boblsturm/aimusicstudies2024?tab=readme-ov-file
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+GMT+8 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=GMT%2B8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+snow-fall Web Component—zachleat.com
+https://www.zachleat.com/web/snow-fall/
+
+Filament Group, Inc. | User Interface Design & Responsive, Accessible, Resilient Web Development | Filament Group, Inc.
+https://www.filamentgroup.com/
+
+snow-fall/LICENSE at main · zachleat/snow-fall
+https://github.com/zachleat/snow-fall/blob/main/LICENSE
+
+Your Name OST - Zenzenzense - Hard Piano Tutorial [钢琴编曲] 你的名字 - YouTube
+https://www.youtube.com/watch?v=G6SLxUYDZF0
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E3%82%84%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%93&op=translate
+
+What do the Japanese Eat To Stay Slim? | Street Interview - YouTube
+https://www.youtube.com/watch?v=jriYcIRPmI8&t=754s
+
+richard sutton reinforcement learning - Google 搜索
+https://www.google.com/search?q=richard+sutton+reinforcement+learning&client=ubuntu-sn&hs=Beo&sca_esv=4efe3cc755905106&channel=fs&sxsrf=ADLYWIIZMp-9y9zg3qy8tGeSDaa6zm8QQw%3A1733298099762&ei=swdQZ8iYLpLK1e8Ppo34oAc&gs_ssp=eJzj4tVP1zc0TC7ITqvMKMwyYPRSLcpMzkgsSlEoLi0pyc9TKErNzEvLL0pOzU3NK1HISU0sysvMSwcACX4T6g&oq=Richard+Sutton+re&gs_lp=Egxnd3Mtd2l6LXNlcnAiEVJpY2hhcmQgU3V0dG9uIHJlKgIIADIIEC4YgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBRAAGIAEMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBSNRgUJYKWIdWcAJ4AZABAJgB9QGgAdQGqgEFMC4xLjO4AQPIAQD4AQH4AQKYAgagApUHqAILwgIKEAAYsAMY1gQYR8ICBxAjGCcY6gLCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICChAjGIAEGCcYigXCAgoQLhiABBhDGIoFwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAZgDC4gGAZAGCroGBggBEAEYAZIHBTIuMC40oAfkLA&sclient=gws-wiz-serp
+
+Robert Morris mit - Google 搜索
+https://www.google.com/search?q=Robert+Morris+mit&client=ubuntu-sn&hs=m0T&sca_esv=4efe3cc755905106&channel=fs&sxsrf=ADLYWII8NF26W2RnTELNXqEvtwe690J0lg%3A1733298217465&ei=KQhQZ_eRHPChvr0P5NS2gA0&ved=0ahUKEwi3yqqEz42KAxXwkK8BHWSqDdAQ4dUDCA8&uact=5&oq=Robert+Morris+mit&gs_lp=Egxnd3Mtd2l6LXNlcnAiEVJvYmVydCBNb3JyaXMgbWl0MggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQFInAxQ2wNYngtwAXgBkAEAmAH0AaAB3AOqAQMyLTK4AQPIAQD4AQGYAgOgAv8DwgIKEAAYsAMY1gQYR8ICCxAuGIAEGMcDGMsBwgILEC4YgAQY1AIYywGYAwCIBgGQBgS6BgYIARABGBSSBwUxLjAuMqAHuR0&sclient=gws-wiz-serp
+
+tannal
+http://localhost:1313/
+
+Getting started | D3 by Observable
+https://d3js.org/getting-started
+
+快排杀手 | Bin Wang - My Personal Blog
+https://www.binwang.me/2011-07-11-quick-sort.html
+
+wb14123 (Bin Wang)
+https://github.com/wb14123
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+tannal
+https://tannal.github.io/
+
+AMD64 Architecture Programmer's Manual - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=AMD64+Architecture+Programmer%27s+Manual
+
+AMD64 Architecture Programmer’s Manual, Volume 1: Application Programming - 24592.pdf
+https://www.amd.com/content/dam/amd/en/documents/processor-tech-docs/programmer-references/24592.pdf
+
+computer architecture a quantitative approach 6th - Google 搜索
+https://www.google.com/search?q=computer+architecture+a+quantitative+approach+6th&client=ubuntu-sn&hs=9lS&sca_esv=66697bfd130ff546&channel=fs&sxsrf=ADLYWIJ46cEijJ7CkPueF7DWqgsJhu4RIQ%3A1733452346687&ei=OmJSZ5nXKaGhvr0Pr_y14Qw&ved=0ahUKEwiZ3O-ajZKKAxWhkK8BHS9-LcwQ4dUDCA8&uact=5&oq=computer+architecture+a+quantitative+approach+6th&gs_lp=Egxnd3Mtd2l6LXNlcnAiMWNvbXB1dGVyIGFyY2hpdGVjdHVyZSBhIHF1YW50aXRhdGl2ZSBhcHByb2FjaCA2dGgyChAAGLADGNYEGEcyChAAGLADGNYEGEdI0b4CULu8AljNvQJwAngBkAEAmAHYAaAB2AGqAQMyLTG4AQPIAQD4AQGYAgKgAgiYAwCIBgGQBgKSBwEyoAekBA&sclient=gws-wiz-serp
+
+tannal
+http://localhost:1313/
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Sources for symbols - Standard Music Font Layout (SMuFL)
+https://w3c.github.io/smufl/latest/about/sources-for-symbols.html
+
+steinbergmedia/bravura: Bravura music font, reference font for SMuFL (Standard Music Font Layout)
+https://github.com/steinbergmedia/bravura
+
+MusicXML - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/MusicXML
+
+VexFlow - HTML5 Music Engraving
+https://www.vexflow.com/
+
+VexFlow Repository Has Moved >>> · Issue #1635 · 0xfe/vexflow
+https://github.com/0xfe/vexflow/issues/1635
+
+vexflow/vexflow: TypeScript library for rendering music notation & guitar tablature.
+https://github.com/vexflow/vexflow/?tab=readme-ov-file
+
+Home · 0xfe/vexflow Wiki
+https://github.com/0xfe/vexflow/wiki
+
+Renderer | vexflow
+https://0xfe.github.io/vexflow/api/classes/Renderer.html
+
+cdn.jsdelivr.net/npm/vexflow@5.0.0-alpha.4/build/esm/entry/vexflow.js
+https://cdn.jsdelivr.net/npm/vexflow@5.0.0-alpha.4/build/esm/entry/vexflow.js
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+svg-piano/keyboard.js at master · felixroos/svg-piano
+https://github.com/felixroos/svg-piano/blob/master/keyboard.js
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
 
 # 2024-12-05
 
