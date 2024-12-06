@@ -1,4 +1,21 @@
 
+# 2024-12-06
+
+Krste Asanović
+David Patterson
+Andrew Waterman
+
+Jim Keller
+Fred Weber
+Dirk Meyer
+Mike Clark
+
+Sophie Wilson
+Richard Grisenthwaite
+Jon Masters
+Will Deacon
+Stuart Monro
+
 # 2024-12-05
 
 
