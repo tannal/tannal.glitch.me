@@ -1,6 +1,11 @@
 
 # 2024-12-06
 
+MusicXML
+MEI (Music Encoding Initiative)
+VexFlow (JavaScript 乐谱渲染库)
+MIDI
+
 Krste Asanović
 David Patterson
 Andrew Waterman
