@@ -1,4 +1,9 @@
 
+# history
+
+module loading esm async or sync
+https://github.com/nodejs/node-eps/pull/39#discussion-diff-76436912
+
 # issues
 
 buffer - 缓冲区相关

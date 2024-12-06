@@ -1,6 +1,11 @@
 
 # 2024-12-06
 
+Working memory doesn’t hold very much at any one time.
+It is a bottleneck in intelligence.
+Indeed, the heart of computational power is the capacity to hold the results of intermediate computations in memory.
+
+
 在复杂系统中和所有的编程中，数据有三种形式，消息（message），元数据 (metadata)，和用于计算过程的状态（state）
 
 ```
