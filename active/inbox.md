@@ -1,6 +1,58 @@
 
 # 2024-12-06
 
+在复杂系统中和所有的编程中，数据有三种形式，消息（message），元数据 (metadata)，和用于计算过程的状态（state）
+
+```
+# 消息
+message = {
+    "type": "user_created",
+    "payload": {"id": 123, "name": "John"}
+}
+
+# 元数据
+metadata = {
+    "version": "1.0",
+    "timestamp": "2024-03-19T10:00:00Z",
+    "schema": "user_v1"
+}
+
+# 状态
+state = {
+    "current_step": 2,
+    "retry_count": 0,
+    "is_processing": True
+}
+
+# 原始数据
+raw_data = file.read()
+
+# 结构化数据
+user = {
+    "id": 123,
+    "name": "John",
+    "email": "john@example.com"
+}
+
+# 派生数据
+statistics = {
+    "total_users": 1000,
+    "active_users": 750
+}
+
+# 控制数据
+acl = {
+    "user_123": ["read", "write"],
+    "user_456": ["read"]
+}
+```
+
+H. Willstrand
+Evgeniy Polyakov
+Bill Fink
+Ilpo Jarvinen
+Herbert Xu
+
 MusicXML
 MEI (Music Encoding Initiative)
 VexFlow (JavaScript 乐谱渲染库)
