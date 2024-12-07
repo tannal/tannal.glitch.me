@@ -1,6 +1,153 @@
 
 # 2024-12-07
 
+(184) Discord | #native | Dioxus Labs
+https://discord.com/channels/899851952891002890/954257659597553664/1314471600770383883
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [19] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+About - Blend2D
+https://blend2d.com/about.html#:~:text=How%20Blend2D%20competes%20against%20GPU%20Rendering%3F
+
+apache repositories
+https://github.com/orgs/apache/repositories
+
+Apache(tm) Batik SVG Toolkit - a Java-based toolkit for applications or applets that want to use images in the Scalable Vector Graphics (SVG)
+https://xmlgraphics.apache.org/batik/
+
+raw.githubusercontent.com/linebender/vello/3275ec85d831180be81820de06cca29a97a757f5/examples/assets/Ghostscript_Tiger.svg
+https://raw.githubusercontent.com/linebender/vello/3275ec85d831180be81820de06cca29a97a757f5/examples/assets/Ghostscript_Tiger.svg
+
+upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg
+https://upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg
+
+Wikimedia Error
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ghostscript_Tiger.svg/512px-Ghostscript_Tiger.svg
+
+How to Build Ghostscript from Source Code — Ghostscript 10.05.0 documentation
+https://ghostscript.readthedocs.io/en/latest/Make.html
+
+File:Ghostscript Tiger.svg - Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Ghostscript_Tiger.svg
+
+ArtifexSoftware/ghostpdl: This is a mirror: the canonical repo is: git.ghostscript.com/ghostpdl.git https://www.ghostscript.com
+https://github.com/ArtifexSoftware/ghostpdl
+
+ISO C++ Standards Committee
+https://github.com/cplusplus
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2024_12_06 - YouTube
+https://www.youtube.com/watch?v=AVfPRmZGZ4k
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=1&prefix=true&query=documentry%20&sort=byPopularity&type=story
+
+AlphaGo - The Movie | Full award-winning documentary - YouTube
+https://www.youtube.com/watch?v=WXuK6gekU1Y
+
+All methods on `PlainEditor` should also be available on `PlainEditorDriver` · Issue #200 · linebender/parley
+https://github.com/linebender/parley/issues/200
+
+tannal
+https://tannal.github.io/
+
+RichTextBuilder in druid::text - Rust
+https://docs.rs/druid/latest/druid/text/struct.RichTextBuilder.html
+
+Micron Technology - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Micron+Technology
+
+Following — Bluesky
+https://bsky.app/
+
+Writing down (and searching through) every UUID · eieio.games
+https://eieio.games/blog/writing-down-every-uuid/
+
+You can pay for that: How web browser features get built - Stephanie Stimac's Blog
+https://blog.stephaniestimac.com/posts/2024/12/how-browser-features-are-built/
+
+Bug 1934561 - Part 2: Return length from int-to-string conversion fun… · mozilla/gecko-dev@8ae8c25
+https://github.com/mozilla/gecko-dev/commit/8ae8c252a1a4108b57080d9e11b6f51f66a94980
+
+Advanced C and C++ Compiling - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Advanced+C+and+C%2B%2B+Compiling
+
+Advanced C and C++ Compiling (Apress, 2014).pdf
+https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/Advanced%20C%20and%20C++%20Compiling%20(Apress,%202014).pdf
+
+ChatGGG
+http://192.168.43.1:8080/
+
+"Peephole" "RHS" "SSA" (dissertation OR thesis OR "technical report") filetype:pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%22Peephole%22+%22RHS%22+%22SSA%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+filetype%3Apdf+
+
+Hydra: Generalizing Peephole Optimizations with Program Synthesis - generalization-oopsla24.pdf
+https://users.cs.utah.edu/~regehr/generalization-oopsla24.pdf
+
+qt8h18x5f0.pdf
+https://escholarship.org/content/qt8h18x5f0/qt8h18x5f0.pdf?t=rpg8q9
+
+00-dissertation.pdf
+https://archiv.ub.uni-heidelberg.de/volltextserver/29213/1/00-dissertation.pdf
+
+John Regehr's Home Page
+https://users.cs.utah.edu/~regehr/
+
+Code search results
+https://github.com/search?q=org%3Allvm%20Peephole&type=code
+
 (181) Discord | #linux | Zed Community
 https://discord.com/channels/869392257814519848/1204679850208657418
 
