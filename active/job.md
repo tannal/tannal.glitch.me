@@ -575,7 +575,17 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-2 - 2024-12-9 14
 
-forget password
+[] forget password
+[x] apply for igalia 12-5
+[x] sleep late 12-6 23:30 - 5:30
+[] ji suan fu za xing kao shi
+[] ju zheng lun kao shi
+[] qi miao kao shi
+[] ji qi xue xi kao shi
+[] zhou zhi guo kao shi
+[] fu za wang luo bao gao ppt
+[] ke ji xie zuo
+[] yin yue jian shang
 
 
 # 2024-11-25 - 2024-12-2 13
