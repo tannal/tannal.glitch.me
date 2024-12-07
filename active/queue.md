@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+AlphaGo the movie
+https://www.youtube.com/watch?v=WXuK6gekU1Y
+
 GPUI in Zed
 https://zed.dev/blog/videogame
 
