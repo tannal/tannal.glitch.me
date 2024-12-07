@@ -1,4 +1,168 @@
 
+# 2024-12-07
+
+(181) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+Element [20] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Mego Tan: "So how do we SSR web components?" — Bluesky
+https://bsky.app/profile/tannal.github.io/post/3lcmt253ymc2v
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+The ultimate SO_LINGER page, or: why is my tcp not reliable
+https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
+
+H. Willstrand - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=H.+Willstrand
+
+Re: TCP IPv4 strange retransmits - H. Willstrand
+https://lore.kernel.org/netdev/175f5a0f0803041304k3bb75170v7bee8e7448389a81@mail.gmail.com/
+
+ssr web component - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=ssr+web+component
+
+Web Components and SSR - 2024 Edition - DEV Community
+https://dev.to/stuffbreaker/web-components-and-ssr-2024-edition-1nel
+
+Cory LaViska: "New CSS logo just dropped. Thanks for the tip, @jabron.us! More info: github.com/CSS-Next/log..." — Bluesky
+https://bsky.app/profile/cory.laviska.com/post/3layyv5zuz224
+
+Do You Need to SSR Your Web Components? - DEV Community
+https://dev.to/stuffbreaker/do-you-need-to-ssr-your-web-components-2oao
+
+Do You Need to SSR Your Web Components? - DEV Community
+https://dev.to/stuffbreaker/do-you-need-to-ssr-your-web-components-2oao
+
+Slider ticks
+https://codepen.io/leaverou/pen/gOVJZxb
+
+No SVG, no image, CSS-only fluid slider with input[type=range]
+https://codepen.io/thebabydino/pen/qByGqOm
+
+Issues · CSS-Next/css-next
+https://github.com/CSS-Next/css-next/issues
+
+Rewrite 002 - esm by bmeck · Pull Request #39 · nodejs/node-eps
+https://github.com/nodejs/node-eps/pull/39#discussion-diff-76436912
+
+webcomponents/proposals/Declarative-Custom-Elements-Strawman.md at gh-pages · WICG/webcomponents
+https://github.com/WICG/webcomponents/blob/gh-pages/proposals/Declarative-Custom-Elements-Strawman.md
+
+bun js dom - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=bun+js+dom
+
+Support JSDOM · Issue #3554 · oven-sh/bun
+https://github.com/oven-sh/bun/issues/3554
+
+Archive
+https://madeofmistake.com/archive
+
+108. 将有序数组转换为二叉搜索树 - 力扣（LeetCode）
+https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/description/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Anyway%2C%20maybe%20we%20can%20fix%20these%20two%20bugs%20by%20preventing%20validation%20from%20changing%20the%20view%3F&op=translate
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+cockroachdb/cockroach: CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+https://github.com/cockroachdb/cockroach
+
+yugabyte/yugabyte-db: YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+https://github.com/yugabyte/yugabyte-db
+
+YugabyteDB - Database of Databases
+https://dbdb.io/db/yugabytedb
+
+graphmuse python - Google 搜索
+https://www.google.com/search?q=graphmuse+python+&client=ubuntu-sn&hs=VIn&sca_esv=c640cfee960680c8&channel=fs&sxsrf=ADLYWIJQlb9_YyAoFScgP2CY90AFrjvHhA%3A1733531231510&ei=X5ZTZ9jfHv_G0-kP2pO40Q0&ved=0ahUKEwiYi4uKs5SKAxV_4zQHHdoJLtoQ4dUDCA8&uact=5&oq=graphmuse+python+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWdyYXBobXVzZSBweXRob24gMggQABgIGA0YHjIKEAAYCBgKGA0YHjIIEAAYCBgNGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGKIEGIkFMggQABiABBiiBEjNVFDXCVjPUnABeAKQAQCYAdABoAGcBqoBBTAuMi4yuAEDyAEA-AEBmAIGoALHBsICBBAAGEfCAgYQABgIGB7CAggQABgIGAoYHsICCBAAGAcYCBgewgIKEAAYBxgIGAoYHpgDAOIDBRIBMSBAiAYBkAYKkgcFMi4xLjOgB4MR&sclient=gws-wiz-serp
+
+GraphMuse: A Library for Symbolic Music Graph Processing
+https://arxiv.org/html/2407.12671v1
+
+manoskary/graphmuse: A Graph Deep Learning Library for Music.
+https://github.com/manoskary/graphmuse
+
+manoskary (Emmanouil Karystinaios)
+https://github.com/manoskary
+
+HTML Standard
+https://html.spec.whatwg.org/#time-state-(type=time)
+
+wpt-cli - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+wpt-cli
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues?q=is%3Aissue+is%3Aopen+end+to+end
+
+end to end system design pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=end+to+end+system+design+pdf
+
+upenn03.ppt - upenn_shin.pdf
+https://www.cs.cmu.edu/~weigand/aro/presentations/upenn_shin.pdf
+
+flutter date picker - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=flutter+date+picker
+
+How browser paint box border
+http://localhost:1313/p/how-browser-paint-box-border/
+
+How browser paint box border
+http://localhost:1313/p/how-browser-paint-box-border/
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+pmndrs/zustand: 🐻 Bear necessities for state management in React
+https://github.com/pmndrs/zustand
+
+llm_related/table_extract at main · wyf3/llm_related
+https://github.com/wyf3/llm_related/tree/main/table_extract
+
 # 2024-12-06
 
 (178) Discord | #📄development | Graphite
