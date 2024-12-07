@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+GPUI in Zed
+https://zed.dev/blog/videogame
+
 Just in Time Compilation
 https://janvitek.org/pubs/fluckiger-phd-22.pdf
 
