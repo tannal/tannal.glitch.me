@@ -1,4 +1,25 @@
+
+
+17-18 centuries
+19 century
+20 century
+21 century
+
 # pure math
+
+James Bernoulli
+Leonhard Euler
+Daniel Bernoulli
+
+Gustav Kirchhoff
+Marie Alfred Cornu
+
+Isaac Jacob Schoenberg
+Pierre Bézier
+Carl de Boor
+
+Raphael Levien
+Even Mehlum
 
 ## number systems
 
