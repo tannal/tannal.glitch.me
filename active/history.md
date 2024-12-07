@@ -1,6 +1,117 @@
 
 # 2024-12-07
 
+(181) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [20] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+A more perfect curve family · Issue #26 · linebender/spline
+https://github.com/linebender/spline/issues/26
+
+The Hyperbezier Pen Tool | Hacker News
+https://news.ycombinator.com/item?id=25554205
+
+raphlinus/spline-research: A repository for research code, papers, interactive visualizers, etc., for spline research
+https://github.com/raphlinus/spline-research
+
+Raph Levien’s thesis
+https://levien.com/phd/phd.html
+
+From Spiral to Spline: Optimal Techniques in Interactive Curve Design - thesis.pdf
+https://levien.com/phd/thesis.pdf
+
+Spiro
+https://levien.com/spiro/
+
+The Mighty Pen Tool. Given my past in designing creative… | by Andrei Herasimchuk | Medium
+https://medium.com/@trenti/the-mighty-pen-tool-6b44ff1c32d
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Do You Need to SSR Your Web Components? - DEV Community
+https://dev.to/stuffbreaker/do-you-need-to-ssr-your-web-components-2oao
+
+DuckDB – An in-process SQL OLAP database management system
+https://duckdb.org/
+
+duckdb/src/storage/checkpoint at main · duckdb/duckdb
+https://github.com/duckdb/duckdb/tree/main/src/storage/checkpoint
+
+Satchidananda Panda - Google 搜索
+https://www.google.com/search?q=Satchidananda+Panda&client=ubuntu-sn&sca_esv=22db317853775bed&channel=fs&sxsrf=ADLYWIJfMgWq8lmaTDVN5FnoDsmSfcs-jQ:1733545307227&ei=W81TZ7XLDeHm1e8Pwc6MQQ&start=0&sa=N&sstk=ATObxK5WfPW6lZHUK2-d4_p_z0SzYSO1QMu4OMj73GzUJm7_Ylk8w0Zu6OXhRgtKDYKKVsHr-CATxc9TiOH5_-h9DaDyCMpQlCn1vl8ymyUq1P-wrWbcpIWBNCrBrsas66o9&ved=2ahUKEwj15PTB55SKAxVhc_UHHUEnIwg4ChDy0wN6BAgLEAQ&biw=1850&bih=968&dpr=1
+
+时间生物学 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-hans/%E6%99%82%E9%96%93%E7%94%9F%E7%89%A9%E5%AD%B8
+
+tannal
+https://tannal.github.io/
+
+uikit - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=uikit
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+the idea factory - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=the+idea+factory
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=3&prefix=true&query=The%20Idea%20Factory%20&sort=byPopularity&type=story
+
+The Idea Factory: Bell Labs and the Great Age of American Innovation pdf github - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=The+Idea+Factory%3A+Bell+Labs+and+the+Great+Age+of+American+Innovation++pdf+github
+
+Convertio — File Converter
+https://convertio.co/
+
+The Hitchhiker's Guide to Firefox Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-firefox-contributor/
+
+Leveraging Rust and the GPU to render user interfaces at 120 FPS
+https://zed.dev/blog/videogame
+
+About - Blend2D
+https://blend2d.com/about.html
+
 (181) Discord | #general | Typst
 https://discord.com/channels/1054443721975922748/1054443722592497796
 
