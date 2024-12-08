@@ -1,4 +1,25 @@
 
+
+
+## Deepmind
+
+DQN
+AlphaGo
+AlphaGo Zero
+AlphaFold
+AlphaFold 2
+
+OpenAI ChatGPT
+
+DALL-E 图像生成
+
+StabilityAI
+CompVis
+Runway
+
+IBM Watson
+
+
 以下是一些在AI领域
 有重要贡献的公司：
 学术/研究机构背景：Cohere (多伦多大学背景)

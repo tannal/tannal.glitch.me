@@ -1,4 +1,8 @@
 
+
+AlphaGo - The Movie | Full Documentary
+https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1049s
+
 japanese indie games documentary
 https://www.youtube.com/watch?v=3Z_dA4dzJ-s
 
@@ -37,4 +41,3 @@ https://www.youtube.com/watch?v=8pDqJVdNa44
 
 typescript
 https://www.youtube.com/watch?v=U6s2pdxebSo
-
