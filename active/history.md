@@ -1,6 +1,126 @@
 
 # 2024-12-08
 
+表格查询 - Poe
+https://poe.com/chat/3krhq5hygx4rk6sgjge
+
+ICAROS
+https://github.com/icaros-usc/
+
+阿斯伯格综合征 - Google 搜索
+https://www.google.com.hk/search?q=%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81&oq=%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%BB%BC%E5%90%88%E5%BE%81&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+阿斯伯格综合征 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%97%87%E5%80%99%E7%BE%A4#cite_note-NIH2015-1
+
+镜像神经元 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%95%9C%E5%83%8F%E7%A5%9E%E7%BB%8F%E5%85%83
+
+阿梓 dota2 - Google 搜索
+https://www.google.com.hk/search?q=%E9%98%BF%E6%A2%93+dota2&newwindow=1&sca_esv=e70c19ab269e1f71&ei=22UbZ-OaCsG0wN4P56zRuQE&ved=0ahUKEwij9M33nKmJAxVBGtAFHWdWNBcQ4dUDCA8&uact=5&oq=%E9%98%BF%E6%A2%93+dota2&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOmYv-aikyBkb3RhMjIFECEYoAEyBRAhGKABSLUHUJMEWJMEcAF4AZABAJgB0QKgAdECqgEDMy0xuAEDyAEA-AEBmAICoALxAsICChAAGLADGNYEGEeYAwCIBgGQBgmSBwUxLjMtMaAH5gE&sclient=gws-wiz-serp
+
+Ame 阿梓 - Google 搜索
+https://www.google.com.hk/search?q=Ame+%E9%98%BF%E6%A2%93&oq=Ame+%E9%98%BF%E6%A2%93&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEINTc4MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+Ame与阿梓再起波澜，网友看完表示剧情有点乱 - 哔哩哔哩
+https://www.bilibili.com/read/cv16796815/
+
+查理芒格 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC&oq=%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBzY1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+骗子酒吧 - Google 搜索
+https://www.google.com.hk/search?q=%E9%AA%97%E5%AD%90%E9%85%92%E5%90%A7&oq=%E9%AA%97%E5%AD%90%E9%85%92%E5%90%A7&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgwIARAAGAwYiwMYgAQyDAgCEAAYDBiLAxiABDIMCAMQABgMGIsDGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgATSAQgyODg1ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Steam 上的 Liar's Bar
+https://store.steampowered.com/app/3097560/Liars_Bar/?l=schinese
+
+border-image-width interpolation with css math functions
+https://wpt.live/css/css-borders/border-image-width-interpolation-math-functions.html
+
+为什么说鹦鹉是长着翅膀的狗子，养鹦鹉到底有多欢乐呢？ - 知乎
+https://www.zhihu.com/question/347578102/answer/3457406517
+
+Practice Introduction to Neural Networks | Brilliant
+https://brilliant.org/courses/intro-neural-networks/layers-2/
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+Néstor Nápoles López
+https://napulen.github.io/
+
+2211.09124
+https://arxiv.org/pdf/2211.09124
+
+2211.09124
+https://arxiv.org/pdf/2211.09124
+
+FSCloud
+https://web.fscloud.cc/#/knowledge
+
+大局觀：市場原理：你賺的錢來自哪裏
+https://sagiriwiki.web.app/posts/1%20crypto/4%20where.html
+
+sagiri 和泉 - Google 搜索
+https://www.google.com/search?q=sagiri+%E5%92%8C%E6%B3%89&sca_esv=2dda131dccfb844c&sxsrf=ADLYWIJFXNrYn7PHQm_y6GEkhrQeoEddzg%3A1731319472005&ei=r9YxZ_iDPZeBvr0P8sqkoA0&ved=0ahUKEwi4l_zQg9SJAxWXgK8BHXIlCdQQ4dUDCA8&uact=5&oq=sagiri+%E5%92%8C%E6%B3%89&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXNhZ2lyaSDlkozms4lImCFQ5ghYzB9wAXgAkAEAmAHrAaAB6hCqAQUwLjEuObgBA8gBAPgBAZgCBqAClgnCAgoQABiwAxjWBBhHwgIIEC4YgAQYywHCAggQABiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIEEAAYHsICChAAGAQYCBgeGA_CAggQABiABBiiBJgDAIgGAZAGCroGBggBEAEYFJIHBTEuMC41oAfOFg&sclient=gws-wiz-serp
+
+1604.08723
+https://arxiv.org/pdf/1604.08723
+
+arxiv.org/pdf/2211.09124
+https://arxiv.org/pdf/2211.09124
+
+万代南梦宫 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tLP1TcwKkirzK1UYDRgdGDw4n-yo_3J7sVPe6c_W7Ts6brVAMosDzw&q=%E4%B8%87%E4%BB%A3%E5%8D%97%E6%A2%A6%E5%AE%AB&oq=%E4%B8%87%E4%BB%A3&gs_lcrp=EgZjaHJvbWUqDQgCEC4YxwEY0QMYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyDQgCEC4YxwEY0QMYgAQyDQgDEC4YxwEY0QMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEC4YrwEYxwEYgAQyBwgJEAAYgATSAQg0MjE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+黄家驹 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%BB%83%E5%AE%B6%E9%A7%92
+
+如果没有如果 周杰伦采访 - Google 搜索
+https://www.google.com/search?sca_esv=e4af76ca050776ea&udm=7&sxsrf=ADLYWILasVwaq6gWo-B6RyMM6nsq2wyymg:1732451743474&q=%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E5%A6%82%E6%9E%9C+%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%87%87%E8%AE%BF&sa=X&ved=2ahUKEwjcnorW_fSJAxXEumMGHV7VOj8Q8ccDegQIEhAF&biw=1280&bih=559&dpr=1.5
+
+Microsoft Word - Dissertation.doc
+https://web.media.mit.edu/~tod/media/pdfs/Machine-Listening_Scheirer.pdf
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+找回密码 - NENUOJ
+http://39.101.69.154/lostpassword.php
+
+GitHub - schlagercollin/meta-learning-music: Meta-learning musical style in few-shot fashion using MAML and deep generative models.
+https://github.com/schlagercollin/meta-learning-music
+
+中国996现状 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=f3e18d54170f723c&q=%E4%B8%AD%E5%9B%BD996%E7%8E%B0%E7%8A%B6&sa=X&ved=2ahUKEwit7Pfv5peKAxV3JEQIHQMsHfwQ1QJ6BAhDEAE&biw=1280&bih=559&dpr=1.5
+
+发现没？大家也不怎么批996了 | 人人都是产品经理
+https://www.woshipm.com/it/5372167.html
+
+中国第四季度gdp - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6gdp&oq=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6gdp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2023年劳动年龄人口 - Google 搜索
+https://www.google.com.hk/search?q=2023%E5%B9%B4%E5%8A%B3%E5%8A%A8%E5%B9%B4%E9%BE%84%E4%BA%BA%E5%8F%A3&newwindow=1&sca_esv=f3e18d54170f723c&ei=s2BVZ6DPDMXDkPIP_qem4QE&ved=0ahUKEwjg9JmW6JeKAxXFIUQIHf6TKRwQ4dUDCA8&uact=5&oq=2023%E5%B9%B4%E5%8A%B3%E5%8A%A8%E5%B9%B4%E9%BE%84%E4%BA%BA%E5%8F%A3&gs_lp=Egxnd3Mtd2l6LXNlcnAiGTIwMjPlubTlirPliqjlubTpvoTkurrlj6MyCBAAGIAEGKIEMggQABiABBiiBEjJI1DkAlifInABeAGQAQCYAZIHoAGdDaoBCTMtMS4xLjAuMbgBA8gBAPgBAvgBAZgCBKACwg3CAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcLMS4zLTEuMS4wLjGgB78D&sclient=gws-wiz-serp
+
+中国 | 劳动人口参与率 | 1990 – 2024 | 经济指标 | CEIC
+https://www.ceicdata.com/zh-hans/indicator/china/labour-force-participation-rate
+
+人口迈入“零增长”，劳动年龄人口10年前已达峰，人才红利如何释放|数读中国
+https://www.yicai.com/news/101655451.html
+
+中国出生人口曲线 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%9B%B2%E7%BA%BF&oq=%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%9B%B2%E7%BA%BF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDY4MzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中国历年出生人口数量 数据来源：统计局 图表：数据GO按照惯例，我们结合1949年以来历年人口数据，整理成表格。根据年平均人口和历年人口出生率... - 雪球
+https://xueqiu.com/2524803655/297810998
+
 (189) Discord | #native | Dioxus Labs
 https://discord.com/channels/899851952891002890/954257659597553664/1314471600770383883
 
