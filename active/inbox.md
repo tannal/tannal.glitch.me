@@ -1,4 +1,16 @@
 
+# 2024-12-08
+
+ACM Transactions on Architecture and Code Optimization
+
+"Stop" "node" "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf
+"compiler optimization" site:mit.edu filetype:pdf
+"compiler optimization" site:stanford.edu filetype:pdf
+"compiler optimization" site:berkeley.edu filetype:pdf
+"compiler optimization" site:ethz.ch filetype:pdf
+
+Stop node
+
 # 2024-12-07
 
 "Peephole" "RHS" "SSA" (dissertation OR thesis OR "technical report") filetype:pdf
