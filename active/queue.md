@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+crafting interpreters
+https://craftinginterpreters.com/evaluating-expressions.html
+
 GPUs
 https://web.stanford.edu/class/cs343/resources/gpus.pdf
 

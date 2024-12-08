@@ -1,6 +1,159 @@
 
 # 2024-12-08
 
+(192) Discord | #native | Dioxus Labs
+https://discord.com/channels/899851952891002890/954257659597553664/1314471600770383883
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [18] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=documentry%20&sort=byPopularity&type=story
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Following — Bluesky
+https://bsky.app/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=conventional%20move&op=translate
+
+generative-models/requirements/pt2.txt at 1659a1c09b0953ad9cc0d480f42e4526c5575b37 · Stability-AI/generative-models
+https://github.com/Stability-AI/generative-models/blob/1659a1c09b0953ad9cc0d480f42e4526c5575b37/requirements/pt2.txt#L29
+
+torchaudio - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=torchaudio
+
+Torchaudio Documentation — Torchaudio 2.5.0 documentation
+https://pytorch.org/audio/stable/index.html
+
+crocotile3d - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=crocotile3d
+
+frameworks-ismir2021.pdf
+https://www.cs.cmu.edu/~rbd/papers/frameworks-ismir2021.pdf
+
+schlagercollin/meta-learning-music: Meta-learning musical style in few-shot fashion using MAML and deep generative models.
+https://github.com/schlagercollin/meta-learning-music
+
+Coffee Compiler Club, 2024_12_06 - YouTube
+https://www.youtube.com/watch?v=AVfPRmZGZ4k&t=1160s
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+tannal (tannal)
+https://github.com/tannal
+
+uv create environment yml - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=uv+create+environment+yml
+
+Using environments | uv
+https://docs.astral.sh/uv/pip/environments/#discovery-of-python-environments
+
+meta-learning-music/environment.yml at main · schlagercollin/meta-learning-music
+https://github.com/schlagercollin/meta-learning-music/blob/main/environment.yml
+
+uv pip search - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=uv+pip+search
+
+Compatibility with pip | uv
+https://docs.astral.sh/uv/pip/compatibility/#transitive-url-dependencies
+
+"Phi" "node" "CFG" (dissertation OR thesis OR "technical report") site:mit.edu filetype:pdf - Google 搜索
+https://www.google.com.hk/search?q=%22Phi%22+%22node%22+%22CFG%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+site%3Amit.edu+filetype%3Apdf&newwindow=1&client=ubuntu-sn&hs=2mx&sca_esv=1120a35018769cc5&channel=fs&ei=O2pVZ4WLAu7nkPIPgvONgAI&ved=0ahUKEwjFlM2h8ZeKAxXuM0QIHYJ5AyAQ4dUDCA8&uact=5&oq=%22Phi%22+%22node%22+%22CFG%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+site%3Amit.edu+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiWyJQaGkiICJub2RlIiAiQ0ZHIiAoZGlzc2VydGF0aW9uIE9SIHRoZXNpcyBPUiAidGVjaG5pY2FsIHJlcG9ydCIpIHNpdGU6bWl0LmVkdSBmaWxldHlwZTpwZGZIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+AHA: An Agile Approach to the Design of Coarse-Grained Reconfigurable Accelerators and Compilers - KMS+22.pdf
+http://theory.stanford.edu/~barrett/pubs/KMS+22.pdf
+
+Microsoft Word - 436ACB95-412F-283E84.doc - lfg05.pdf
+https://web.stanford.edu/group/cslipublications/cslipublications/LFG/10/pdfs/lfg05.pdf
+
+48072795-MIT.pdf
+https://dspace.mit.edu/bitstream/handle/1721.1/86578/48072795-MIT.pdf
+
+value state dependency graph vs ssa - Google 搜索
+https://www.google.com.hk/search?q=value+state+dependency+graph+vs+ssa&newwindow=1&client=ubuntu-sn&hs=6vx&sca_esv=1120a35018769cc5&channel=fs&ei=bWxVZ6-rHL25kPIPge6X-A8&ved=0ahUKEwjvleWt85eKAxW9HEQIHQH3Bf8Q4dUDCA8&uact=5&oq=value+state+dependency+graph+vs+ssa&gs_lp=Egxnd3Mtd2l6LXNlcnAiI3ZhbHVlIHN0YXRlIGRlcGVuZGVuY3kgZ3JhcGggdnMgc3NhMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSNYQUNYBWKQOcAF4AZABAJgB4gKgAY8PqgEFMi0yLjS4AQPIAQD4AQGYAgegAqwPwgIKEAAYsAMY1gQYR8ICBhAAGA0YHsICCBAAGAUYDRgewgIIEAAYgAQYogSYAwCIBgGQBgaSBwcxLjAuMS41oAfEGQ&sclient=gws-wiz-serp
+
+Optimizing compilation with the Value State Dependence Graph - UCAM-CL-TR-705.pdf
+https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-705.pdf
+
+Efficiently computing static single assignment form and the control dependence graph - ssaCytron.pdf
+https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf
+
+Static Single Assignment Book - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Static+Single+Assignment+Book
+
+SSA-based Compiler Design - book-full.pdf
+https://pfalcon.github.io/ssabook/latest/book-full.pdf
+
+Engineering a Compiler 3rd Edition filetype:pdf - Google 搜索
+https://www.google.com.hk/search?q=Engineering+a+Compiler+3rd+Edition+filetype:pdf&newwindow=1&client=ubuntu-sn&sca_esv=1120a35018769cc5&channel=fs&ei=DHFVZ8ehDsWgkPIPmNWSmAc&start=20&sa=N&sstk=ATObxK72vC5CzpXt8npBZMXKRMKx4k8Ymc2wxINZg93c6Iaaxy565oi3AAbpIodvXNvWiauk61UIdcajWIq4lWfJsXlgb4CVSQxsIxzRDGfJUOoTusLqEHsljjA1mbh9QXkw&ved=2ahUKEwjH1-Ph95eKAxVFEEQIHZiqBHM4ChDy0wN6BAgKEAc&biw=1850&bih=968&dpr=1
+
+Introduction to Compilers and Language Design - compilerbook.pdf
+https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf
+
+Modern Compiler Implementation in C - Modern Compiler Implementation in C.pdf
+https://raw.githubusercontent.com/yihui-he/Modern-Compiler-Implementation-in-C/master/Modern%20Compiler%20Implementation%20in%20C.pdf
+
+Engineering a Compiler 3rd Edition pdf github - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=IVd&sca_esv=1120a35018769cc5&channel=fs&q=Engineering+a+Compiler+3rd+Edition+pdf+github&sa=X&ved=2ahUKEwjUlsTa9peKAxUxL0QIHbv6ADAQ1QJ6BAgsEAE&biw=1850&bih=968&dpr=1
+
+CnTransGroup/EngineeringACompiler: Engineering a Compiler
+https://github.com/CnTransGroup/EngineeringACompiler
+
+Crafting Interpreters - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Crafting+Interpreters
+
+Evaluating Expressions · Crafting Interpreters
+https://craftinginterpreters.com/evaluating-expressions.html
+
 表格查询 - Poe
 https://poe.com/chat/3krhq5hygx4rk6sgjge
 

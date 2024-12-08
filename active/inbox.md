@@ -1,8 +1,12 @@
 
 # 2024-12-08
 
-"Phi" "node" "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf
+- Find Engineering a Compiler 3rd Edition
 
+- 用最快方式记录，不展开
+- 立即返回当前任务
+
+"Phi" "node" "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf
 
 系统类课程：CS140 (操作系统)
 CS144 (计算机网络)
