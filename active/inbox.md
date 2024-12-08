@@ -1,6 +1,32 @@
 
 # 2024-12-08
 
+系统类课程：CS140 (操作系统)
+CS144 (计算机网络)
+CS149 (并行计算)
+CS240 (高级操作系统)
+人工智能/机器学习：
+CS221 (人工智能导论)
+CS224n (自然语言处理)
+CS229 (机器学习)
+CS231n (计算机视觉)
+理论课程：
+CS103 (数学基础)
+CS161 (算法设计与分析)
+CS154 (计算理论)
+数据库/数据系统：
+CS145 (数据库导论)
+CS245 (数据库系统原理)
+CS246 (数据挖掘)
+编程语言/编译器：
+CS242 (编程语言)
+CS243 (程序分析与优化)
+CS244 (网络系统)
+
+simplify is right, is just subset of the truth
+
+vertics primitives fragments pixels
+
 ACM Transactions on Architecture and Code Optimization
 
 "Stop" "node" "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf

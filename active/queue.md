@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+GPUs
+https://web.stanford.edu/class/cs343/resources/gpus.pdf
+
 AlphaGo the movie
 https://www.youtube.com/watch?v=WXuK6gekU1Y
 
