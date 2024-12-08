@@ -1,6 +1,116 @@
 
 # 2024-12-08
 
+(189) Discord | #native | Dioxus Labs
+https://discord.com/channels/899851952891002890/954257659597553664/1314471600770383883
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Status · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [19] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bob Sturm - YouTube
+https://www.youtube.com/@boblsturm/videos
+
+newandroidbook.com/ddb/IQOO3/
+https://newandroidbook.com/ddb/IQOO3/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1935672 - incomplete time input value returns empty string since 133.0
+https://bugzilla.mozilla.org/show_bug.cgi?id=1935672
+
+BugBot: Bugzilla triaging bot and alerting system - MozillaWiki
+https://wiki.mozilla.org/BugBot#needinfo_regression_author.py
+
+"Stop" sea of nodes "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf - Google 搜索
+https://www.google.com.hk/search?q=%22Stop%22+sea+of+nodes+%22CFG%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+site%3Astanford.edu+filetype%3Apdf&newwindow=1&client=ubuntu-sn&hs=LMq&sca_esv=a0afefd7843ec9f3&channel=fs&ei=qPpUZ5DqL8SikPIP7OjqqQ8&ved=0ahUKEwiQ3ofuhpeKAxVEEUQIHWy0OvUQ4dUDCA8&uact=5&oq=%22Stop%22+sea+of+nodes+%22CFG%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+site%3Astanford.edu+filetype%3Apdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiZyJTdG9wIiBzZWEgb2Ygbm9kZXMgIkNGRyIgKGRpc3NlcnRhdGlvbiBPUiB0aGVzaXMgT1IgInRlY2huaWNhbCByZXBvcnQiKSBzaXRlOnN0YW5mb3JkLmVkdSBmaWxldHlwZTpwZGZIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+thesis-augmented.pdf
+https://stacks.stanford.edu/file/druid:sz578bm8460/thesis-augmented.pdf
+
+CS244: Advanced Topics in Networking, Spring 2024
+https://web.stanford.edu/class/cs244/
+
+ACM Transactions on Architecture and Code Optimizat - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ACM+Transactions+on+Architecture+and+Code+Optimizat
+
+How to get a job as a remote software developer • Josh W. Comeau
+https://www.joshwcomeau.com/career/remote-work-pt2/
+
+The Internet Was Built on the Free Labor of Open Source Developers. Is That Sustainable?
+https://www.vice.com/en/article/the-internet-was-built-on-the-free-labor-of-open-source-developers-is-that-sustainable/
+
+Introducing: How to Contribute to Open Source
+https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source
+
+Make a Pull Request
+https://makeapullrequest.com/
+
+tannal
+https://tannal.github.io/
+
+joshwcomeau github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=joshwcomeau+github
+
+joshwcomeau (joshwcomeau) / Repositories
+https://github.com/joshwcomeau?page=2&tab=repositories
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=though%20none%20that%20I%27ve%20met%20have%20been%20the%20unshaven%20recluse%20so%20often%20depicted%20in%20remote-work%20discussions&op=translate
+
+Jon Kuperman (@jonkuperman.com) — Bluesky
+https://bsky.app/profile/jonkuperman.com
+
+购买 16 英寸 MacBook Pro (M4 Pro 机型) - Apple (中国大陆)
+https://www.apple.com.cn/shop/buy-mac/macbook-pro/16-%E8%8B%B1%E5%AF%B8-m4-pro
+
+european workday hours - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=european+workday+hours
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
 
 # 2024-12-07
 
