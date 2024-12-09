@@ -1,4 +1,9 @@
 
+# 2024-12-09
+
+More state More features More bugs
+
+
 # 2024-12-08
 
 - Find Engineering a Compiler 3rd Edition

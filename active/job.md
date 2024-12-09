@@ -574,6 +574,10 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-9 - 2024-12-16 15
 
+[] qi mo kao shi & ke cheng zuo ye
+[] JS Engine & Compiler & Language Runtime Simple -> V8 & JSC & SpiderMonkey -> Node & Qjs & Bun & Deno -> frontend tooling
+[] Graphics & Layouting & Rendering -> WebPlatform -> Linebender
+
 # 2024-12-2 - 2024-12-9 14
 
 [] forget password
@@ -587,6 +591,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [] fu za wang luo bao gao ppt
 [] ke ji xie zuo
 [] yin yue jian shang
+[]
 
 
 # 2024-11-25 - 2024-12-2 13
