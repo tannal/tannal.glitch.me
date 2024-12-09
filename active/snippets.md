@@ -1,6 +1,6 @@
 # vscode user settings
 
-```text
+```js
 // 防抖函数
 function debounce(fn, delay = 200) {
     let timer = null;
@@ -34,7 +34,7 @@ function handleSelection() {
 }
 
 // 使用防抖包装处理函数
-const debouncedHandler = debounce(handleSelection, 300);
+const debouncedHandler = debounce(handleSelection, 1000);
 
 // 添加事件监听
 document.addEventListener('selectionchange', debouncedHandler);
