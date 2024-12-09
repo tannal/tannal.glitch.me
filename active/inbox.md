@@ -1,8 +1,6 @@
 
 # 2024-12-09
 
-
-
 Richard Feynman
 Carl Sagan
 Thomas Kuhn

@@ -1,6 +1,140 @@
 
 # 2024-12-09
 
+(191) Discord | #general | Nova Engine
+https://discord.com/channels/1012084654389604372/1012084654389604376
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Eric Ries - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Eric+Ries+
+
+Tracking issue: HTML export · Issue #5512 · typst/typst
+https://github.com/typst/typst/issues/5512
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2024_12_06 - YouTube
+https://www.youtube.com/watch?v=AVfPRmZGZ4k&t=2889s
+
+You are not expected to understand this - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=+You+are+not+expected+to+understand+this
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Charlie Marsh: "python-build-standalone has exploded in popularity, with over 70M downloads all-time. But what is a "standalone" Python build? It wasn't obvious to me at first! Initially, I didn't understand what problem was being solved or why it mattered..." — Bluesky
+https://bsky.app/profile/crmarsh.com/post/3lch35lrdi224
+
+RedYetiDev (Aviv Keller)
+https://github.com/redyetidev
+
+Always bet on JavaScript - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Always+bet+on+JavaScript
+
+Engineering a Compiler 3rd Edition pdf - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=jtX&sca_esv=4ea9ed7b68a81626&channel=fs&q=Engineering+a+Compiler+3rd+Edition+pdf&sa=X&ved=2ahUKEwj93KSvzpmKAxWNJ0QIHWv8MGAQ1QJ6BAgwEAE&biw=1850&bih=968&dpr=1
+
+Engineering a Compiler 3rd Ed (Morgan Kaufmann)
+https://www.i-programmer.info/book-watch-archive/15849-engineering-a-compiler-3rd-ed-morgan-kaufmann.html
+
+cargo publish multiple packages at once · Issue #1169 · rust-lang/cargo
+https://github.com/rust-lang/cargo/issues/1169
+
+1610.01178v1.pdf
+https://arxiv.org/pdf/1610.01178
+
+Peter Goldsborough - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Peter+Goldsborough
+
+Peter Goldsborough
+http://www.goldsborough.me/
+
+How We Learn: People, Trial and Error – Peter Goldsborough
+http://www.goldsborough.me/learning/2020/08/09/15-22-26-how_we_learn-_people,_trial_and_error/
+
+A Promenade of PyTorch – Peter Goldsborough
+http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
+https://github.com/CaiJimmy/hugo-theme-stack
+
+Footer | Stack
+https://stack.jimmycai.com/config/footer
+
+Joseph LeDoux - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Joseph+LeDoux
+
+【纯享版】王赫野姚晓棠全新演绎情歌《最后一页》 忧伤旋律搭配歌声中的惆怅感 情感渲染力十足！ #天赐的声音5 EP1 20240426 - YouTube
+https://www.youtube.com/watch?v=ULYksmjBwzY&list=RDULYksmjBwzY&start_radio=1
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=foster&op=translate
+
+Cryptexes - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Cryptexes
+
+terminal - What is this weird directory in my PATH on my Mac, (running latest macOS Ventura)? - Unix & Linux Stack Exchange
+https://unix.stackexchange.com/questions/725215/what-is-this-weird-directory-in-my-path-on-my-mac-running-latest-macos-ventura
+
+Cryptex: how a custom iPhone is changing macOS updates – The Eclectic Light Company
+https://eclecticlight.co/2022/11/16/cryptex-how-a-custom-iphone-is-changing-macos-updates/
+
+bluesky-social
+https://github.com/bluesky-social
+
+SerenityOS - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=SerenityOS
+
+Make LibGfx use LibUnicode's bidi support · Issue #25457 · SerenityOS/serenity
+https://github.com/SerenityOS/serenity/issues/25457
 
 # 2024-12-08
 
