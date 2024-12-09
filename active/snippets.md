@@ -1,6 +1,53 @@
 # vscode user settings
 
+```text
+// 防抖函数
+function debounce(fn, delay = 200) {
+    let timer = null;
+    return function(...args) {
+        if (timer) clearTimeout(timer);
+        timer = setTimeout(() => {
+            fn.apply(this, args);
+        }, delay);
+    };
+}
 
+// 处理选中文本的函数
+function handleSelection() {
+    const selection = window.getSelection();
+    if (!selection.rangeCount) return;
+
+    const range = selection.getRangeAt(0);
+    if (range.collapsed) return;
+
+    try {
+        // 创建空的文本节点替换选中内容
+        const emptyNode = document.createTextNode('');
+        range.deleteContents();
+        range.insertNode(emptyNode);
+
+        // 清除选中状态
+        selection.removeAllRanges();
+    } catch (e) {
+        console.error('Failed to modify selection:', e);
+    }
+}
+
+// 使用防抖包装处理函数
+const debouncedHandler = debounce(handleSelection, 300);
+
+// 添加事件监听
+document.addEventListener('selectionchange', debouncedHandler);
+
+// 清理函数 (可选)
+function cleanup() {
+    document.removeEventListener('selectionchange', debouncedHandler);
+}
+
+console.log('Text disappearing script activated! (with debounce)');
+```
+
+# vscode user settings
 
 user
 ```

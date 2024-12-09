@@ -577,6 +577,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [] qi mo kao shi & ke cheng zuo ye
 [] JS Engine & Compiler & Language Runtime Simple -> V8 & JSC & SpiderMonkey -> Node & Qjs & Bun & Deno -> frontend tooling
 [] Graphics & Layouting & Rendering -> WebPlatform -> Linebender
+[] AI & Geoff High Level -> TensorFlow & PyTorch & ONNX -> TFLite & PyTorch Mobile & ONNX Runtime
+[] WebAssembly & WebGPU & WebNN & WebML & WebXR & WebRTC & WebTransport & WebCodecs
+[] relax
 
 # 2024-12-2 - 2024-12-9 14
 

@@ -1,6 +1,53 @@
 
 # 2024-12-09
 
+
+
+Richard Feynman
+Carl Sagan
+Thomas Kuhn
+Karl Popper
+Stephen Jay Gould
+Oliver Sacks
+
+Martin Heidegger
+Jacques Derrida
+Judith Butler
+Gilles Deleuze
+
+Peter Medawar
+
+1. CPS (Continuation-Passing Style)
+   - 发明者：Gerald Jay Sussman, Guy Lewis Steele Jr.
+   - 特点：显式表示控制流转移
+
+2. LLVM IR
+   - 发明者：Chris Lattner
+   - 特点：强类型、平台无关
+
+3. MLIR (Multi-Level IR)
+   - 来自：Google
+   - 特点：可扩展的多层次IR
+
+4. GCC GIMPLE
+   - 特点：简化的三地址码形式
+
+1. 全局值编号(Global Value Numbering)
+   - 识别等价表达式
+
+2. 循环优化
+   - 循环不变量外提
+   - 循环展开
+   - 自动向量化
+
+3. 别名分析
+   - Andersen分析
+   - Steensgaard分析
+
+4. JIT 编译技术
+   - Tracing JIT
+   - Method JIT
+
 More state More features More bugs
 
 
