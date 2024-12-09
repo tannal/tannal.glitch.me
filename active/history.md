@@ -1,6 +1,129 @@
 
 # 2024-12-09
 
+(192) Discord | #general | Nova Engine
+https://discord.com/channels/1012084654389604372/1012084654389604376
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+module: fix error reporting by geeksilva97 · Pull Request #55561 · nodejs/node
+https://github.com/nodejs/node/pull/55561
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Ravi Krishnaswami and Michael Clemens: "Building My Replacement: Experimental Methods in Evaluating Generative Music Systems" - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Ravi+Krishnaswami+and+Michael+Clemens%3A+%22Building+My+Replacement%3A+Experimental+Methods+in+Evaluating+Generative+Music+Systems%22
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Element [1] | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+“Building My Replacement: Experimental Methods in Evaluating Generative Music Systems”, Ravi Krishnaswami and Michael Clemens - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E2%80%9CBuilding+My+Replacement%3A+Experimental+Methods+in+Evaluating+Generative+Music+Systems%E2%80%9D%2C+Ravi+Krishnaswami+and+Michael+Clemens
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AIMS 2024 Book of Abstracts - Google 文档
+https://docs.google.com/document/d/1tkwnypVQ6EKNPcQjAQrJ4J_a1v3Yqct1IJKHsMkbJUc/edit?tab=t.0#heading=h.rnib97k7v9e
+
+Building My Replacement: Experimental Methods in Evaluating Generative Music Systems - Google 搜索
+https://www.google.com.hk/search?q=Building+My+Replacement:+Experimental+Methods+in+Evaluating+Generative+Music+Systems&newwindow=1&client=ubuntu-sn&hs=a0a&sca_esv=ef311a85dcfd2b9c&channel=fs&ei=yIBWZ5DrE4GZkPIPls65MA&start=10&sa=N&sstk=ATObxK5bErj-ACfQ_Mv_OpkYMTDMpbL03tKi4uj1YUZs9MNGJlackmbsvDmyAP_9EQ6uIckeoBNuXMuhM2IZKUNEUyoxozD-v7luBQ&ved=2ahUKEwiQ78L0-pmKAxWBDEQIHRZnDgYQ8tMDegQICxAE&biw=1850&bih=968&dpr=1
+
+AI for Musical Discovery · From Novel Chemicals to Opera
+https://mit-genai.pubpub.org/pub/30vaia0v/release/9
+
+postprint.pdf
+https://musicinformatics.gatech.edu/wp-content_nondefault/uploads/2018/11/postprint.pdf
+
+Axaco Air
+https://axacoair.se/go?o3JJnuLr
+
+Manaswi Mishra - Google 搜索
+https://www.google.com.hk/search?q=Manaswi+Mishra&newwindow=1&client=ubuntu-sn&hs=B1c&sca_esv=f238d9e00975a7c7&channel=fs&ei=9Z5WZ_OZBq7ekPIP7cSuqA8&ved=0ahUKEwiz6P3Xl5qKAxUuL0QIHW2iC_UQ4dUDCA8&uact=5&oq=Manaswi+Mishra&gs_lp=Egxnd3Mtd2l6LXNlcnAiDk1hbmFzd2kgTWlzaHJhMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSLEFUMwDWMwDcAF4AJABAJgBwQKgAcECqgEDMy0xuAEDyAEA-AEC-AEBmAIBoAILmAMAiAYBkAYFkgcBMaAH_wI&sclient=gws-wiz-serp
+
+Music – Manaswi Mishra
+https://manaswimishra.com/music/
+
+MIT Media Lab - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MIT+Media+Lab
+
+Deep Dream - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Deep+Dream
+
+google/deepdream
+https://github.com/google/deepdream
+
+Tod Machover - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Tod+Machover
+
+Tod Machover - Composer, Inventor, Educator
+https://web.media.mit.edu/~tod/
+
+Antescofo github - Google 搜索
+https://www.google.com.hk/search?q=Antescofo+github&newwindow=1&client=ubuntu-sn&hs=hox&sca_esv=82e125c7d904eb9e&channel=fs&ei=8qBWZ6zzJJmgkPIPyvqKsA4&ved=0ahUKEwistPfKmZqKAxUZEEQIHUq9AuYQ4dUDCA8&uact=5&oq=Antescofo+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEEFudGVzY29mbyBnaXRodWIyBxAhGKABGApIzRBQlANYnQ5wAXgBkAEAmAHHA6AB5RKqAQUzLTMuM7gBA8gBAPgBAZgCB6ACghPCAgoQABiwAxjWBBhHwgIEEAAYHsICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgGSBwcxLjMtMi40oAeZCw&sclient=gws-wiz-serp
+
+Antescofo
+https://github.com/Antescofo
+
+tannal/node - node - Gitea: Git with a cup of tea
+http://git.tanmeng.org/tannal/node
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2024_12_06 - YouTube
+https://www.youtube.com/watch?v=AVfPRmZGZ4k&t=3565s
+
+Oral History of Jim Keller - YouTube
+https://www.youtube.com/watch?v=Xh8nhK7WS80
+
+oracle/javavscode: Java platform support for Visual Studio Code for full featured Java development (edit-compile-debug & test cycle)
+https://github.com/oracle/javavscode
+
 (191) Discord | #general | Nova Engine
 https://discord.com/channels/1012084654389604372/1012084654389604376
 
