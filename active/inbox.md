@@ -1,6 +1,45 @@
 
 # 2024-12-09
 
+https://www.media.mit.edu/
+
+SLAC National Accelerator Laboratory
+Stanford AI Lab (SAIL)
+Stanford Bio-X
+Stanford Institute for Human-Centered Artificial Intelligence (HAI)
+Stanford Woods Institute for the Environment
+Precourt Institute for Energy
+Stanford SystemX Alliance
+Stanford Center for Blockchain Research
+Stanford Institute for Materials and Energy Sciences (SIMES)
+Stanford Center for Internet and Society
+
+Computer Science and Artificial Intelligence Laboratory (CSAIL)
+Lincoln Laboratory
+Research Laboratory of Electronics (RLE)
+Koch Institute for Integrative Cancer Research
+Plasma Science and Fusion Center (PSFC)
+Laboratory for Nuclear Science (LNS)
+Microsystems Technology Laboratories (MTL)
+McGovern Institute for Brain Research
+Picower Institute for Learning and Memory
+Broad Institute
+MIT.nano
+Haystack Observatory
+
+绝对测量：分析单个数据集的特征
+相对测量：比较两个数据集之间的差异
+
+音高计数(PC)
+音高类直方图(PCH)
+音高类转移矩阵(PCTM)
+音域范围(PR)
+音域范围(PR)
+音符计数(NC)
+平均起音间隔(IOI)
+音符长度直方图(NLH)
+音符长度转移矩阵(NLTM)
+
 Richard Feynman
 Carl Sagan
 Thomas Kuhn
