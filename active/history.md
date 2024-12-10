@@ -1,4 +1,141 @@
 
+# 2024-12-10
+
+(194) Discord | #general | Nova Engine
+https://discord.com/channels/1012084654389604372/1012084654389604376
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Pen and Path tool improvements · Task Board
+https://github.com/orgs/GraphiteEditor/projects/1/views/1?pane=issue&itemId=72563079&issue=GraphiteEditor%7CGraphite%7C1870
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Element [2] | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-conformance
+
+halilozercan (Halil Ozercan)
+https://github.com/halilozercan
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+paperwithcode - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=paperwithcode
+
+Papers with code
+https://github.com/paperswithcode
+
+Crafting Interpreters
+https://craftinginterpreters.com/
+
+halilozercan/compose-richtext: A collection of Compose libraries for advanced text formatting and alternative display types.
+https://github.com/halilozercan/compose-richtext
+
+Compose Richtext
+https://halilibo.com/compose-richtext/
+
+Minikin retrospective | Raph Levien’s blog
+https://raphlinus.github.io/text/2022/11/08/minikin.html
+
+ATypI 2015, Raph Levien (4:3) - Google 幻灯片
+https://docs.google.com/presentation/d/1-b1loWe23QNk0ydrmEBG31iVABYWSpE28JmdXDHs73E/edit#slide=id.gbe6e13194_0_550
+
+Text layout is a loose hierarchy of segmentation | Raph Levien’s blog
+https://raphlinus.github.io/text/2020/10/26/text-layout.html
+
+GraphemeBreak.cpp - Android Code Search
+https://cs.android.com/android/platform/superproject/+/android14-qpr3-release:frameworks/minikin/libs/minikin/GraphemeBreak.cpp;l=1
+
+ATypI São Paulo - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ATypI+S%C3%A3o+Paulo
+
+Unicode Explained - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Unicode+Explained+
+
+ROSÉ - APT. in the Radio 1 Live Lounge - YouTube
+https://www.youtube.com/watch?v=Lwv254J8Ozk
+
+munificent (Bob Nystrom)
+https://github.com/munificent
+
+sdk/runtime/vm at 71f7a42f4219ce3864834df76b9c644e92c15075 · dart-lang/sdk
+https://github.com/dart-lang/sdk/tree/71f7a42f4219ce3864834df76b9c644e92c15075/runtime/vm
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2024-11-01&to=2024-11-30
+
+gopher conf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=gopher+conf
+
+GopherCon 2024 - Register Now
+https://www.gophercon.com/
+
+GopherCon china - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=GopherCon+china
+
+Conferences · golang/go Wiki
+https://github.com/golang/go/wiki/Conferences/121311785110b518d2e166bd04c26e3647d9f941
+
+gopherchina/meetup: meetup in China
+https://github.com/gopherchina/meetup/tree/master
+
+GopherCon China - 2.5 Go Modules in day to day life - Florin Patan.pdf
+https://gitea.mrx.ltd/go-pkg/conference/raw/commit/7799a0c265464f986b818ddd5c4b98054e35a953/2019/2.5%20Go%20Modules%20in%20day%20to%20day%20life%20-%20Florin%20Patan.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Following — Bluesky
+https://bsky.app/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+peephole optimization system - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=peephole+optimization+system
+
+Peephole optimization - Wikipedia
+https://en.wikipedia.org/wiki/Peephole_optimization
+
+tannal (tannal)
+https://github.com/tannal/
+
+Savannah Ostrowski (@savannah.dev) — Bluesky
+https://bsky.app/profile/savannah.dev
+
 # 2024-12-09
 
 (192) Discord | #general | Nova Engine

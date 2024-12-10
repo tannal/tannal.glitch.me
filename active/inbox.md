@@ -1,4 +1,7 @@
 
+# 2024-12-10
+
+
 # 2024-12-09
 
 [idea] book with code reading books and related code supdervisied by a powerful AI
