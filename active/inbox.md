@@ -1,7 +1,29 @@
 
+# 2024-12-11
+
+- Android Dev with Kotlin/Jetpack Compose
+- iOS/Mac Dev with Swift/SwiftuI
+- Flutter/Dart
+- .NET Dev with Maui/Blazor
+- Javascript/Typescript
+- React/React Native
+- Ionic/Cordova
+
 # 2024-12-10
 
-
+n的最优停止点查找表
+OPTIMAL_STOPS = {
+    1: 1/1,    # 1.000
+    2: 1/2,    # 0.500
+    3: 1/3,    # 0.333
+    4: 2/4,    # 0.500
+    5: 2/5,    # 0.400
+    6: 2/6,    # 0.333
+    7: 2/7,    # 0.286
+    8: 3/8,    # 0.375
+    9: 3/9,    # 0.333
+    10: 3/10,  # 0.300
+}
 
 
 # 2024-12-09

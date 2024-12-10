@@ -1,4 +1,147 @@
 
+# 2024-12-11
+
+(197) Discord | #algorithms | TC39 Signals
+https://discord.com/channels/1224208557126193333/1224360040018743377
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Element [1] | Helix
+https://app.element.io/#/room/#helix-editor:matrix.org
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-conformance
+
+halilozercan (Halil Ozercan)
+https://github.com/halilozercan
+
+Graphite
+https://editor.graphite.rs/
+
+karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+https://github.com/karpathy/nanoGPT
+
+Skylion007/openwebtext · Datasets at Hugging Face
+https://huggingface.co/datasets/Skylion007/openwebtext
+
+Introduce `default_field_values` feature by estebank · Pull Request #129514 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/129514
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+fa.laser-lovers - Google 群组
+https://groups.google.com/g/fa.laser-lovers
+
+Short Essays on Engineering Culture - barroso.pdf
+https://fontoura.org/papers/barroso.pdf
+
+vlt /vōlt/
+https://www.vlt.sh/
+
+vltpkg/vltpkg: the vlt monorepo
+https://github.com/vltpkg/vltpkg
+
+toit lang - Google 搜索
+https://www.google.com.hk/search?q=toit+lang&newwindow=1&client=ubuntu-sn&hs=EKm&sca_esv=81f30840a9163d6c&channel=fs&ei=BmFYZ97ODMS_kPIPtrSZgA4&ved=0ahUKEwje6ePzxJ2KAxXEH0QIHTZaBuAQ4dUDCA8&uact=5&oq=toit+lang&gs_lp=Egxnd3Mtd2l6LXNlcnAiCXRvaXQgbGFuZzIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBBAAGB4yBBAAGB4yBBAAGB5I_RdQ7wxY5xZwAXgBkAEAmAH6AqAByw-qAQMzLTa4AQPIAQD4AQGYAgegAvIPwgIKEAAYsAMY1gQYR8ICCxAuGIAEGNEDGMcBwgIHEAAYgAQYCsICBxAuGIAEGArCAhYQLhiABBgKGJcFGNwEGN4EGOAE2AEBmAMAiAYBkAYKugYGCAEQARgUkgcFMS4zLTagB8kc&sclient=gws-wiz-serp
+
+Archive | Dart
+https://dart.dev/get-dart/archive
+
+Toit language
+https://github.com/toitlang
+
+sdk/DEPS at 189fee43660cdc23a7476ed84c253a3c2975f668 · dart-lang/sdk
+https://github.com/dart-lang/sdk/blob/189fee43660cdc23a7476ed84c253a3c2975f668/DEPS#L53
+
+toitlang raspi - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=toitlang+raspi
+
+吐槽物联网开发难搞，一群工程师搞了个Toit 语言并宣布开源，其与Python类似 - 腾讯云开发者社区-腾讯云
+https://cloud.tencent.com/developer/news/878545
+
+Free Online Video Editor | wide.video
+https://wide.video/app/1.6.14/
+
+photopea - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=photopea+
+
+Photopea | Online Photo Editor
+https://www.photopea.com/
+
+State of React Native 2023: Graphics and animations
+https://results.2023.stateofreactnative.com/animations/
+
+Loading 3D models – three.js docs
+https://threejs.org/docs/index.html#manual/en/introduction/Loading-3D-models
+
+Edit fiddle - JSFiddle - Code Playground
+https://jsfiddle.net/tswh48fL/
+
+Fabric.js: - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Fabric.js%3A
+
+fabricjs/fabric.js: Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+https://github.com/fabricjs/fabric.js?tab=readme-ov-file#nodejs
+
+Interpress vs postscript - Google 搜索
+https://www.google.com.hk/search?q=Interpress+vs+postscript&newwindow=1&client=ubuntu-sn&hs=DIS&sca_esv=81f30840a9163d6c&channel=fs&ei=impYZ8S_EoW_kPIPprS-4Qg&ved=0ahUKEwjErLP9zZ2KAxWFH0QIHSaaL4wQ4dUDCA8&uact=5&oq=Interpress+vs+postscript&gs_lp=Egxnd3Mtd2l6LXNlcnAiGEludGVycHJlc3MgdnMgcG9zdHNjcmlwdDIHECEYoAEYCjIHECEYoAEYCkjrHFDtAli5G3ABeAGQAQCYAYMDoAGAIKoBBDMtMTK4AQPIAQD4AQGYAg2gArIgwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIHEAAYgAQYCsICCxAuGIAEGMcBGK8BwgIEEAAYHsICCBAAGIAEGKIEwgIGEAAYCBgewgIFECEYoAGYAwCIBgGQBgqSBwYxLjMtMTKgB_Yd&sclient=gws-wiz-serp
+
+Interpress - Wikipedia
+https://en.wikipedia.org/wiki/Interpress
+
+React Native for Windows - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=React+Native+for+Windows+
+
+react-native-windows-samples/samples/Calculator at main · microsoft/react-native-windows-samples
+https://github.com/microsoft/react-native-windows-samples/tree/main/samples/Calculator
+
+Core Components and APIs · React Native
+https://reactnative.dev/docs/components-and-apis
+
+rolldown github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rolldown+github
+
+Feedback on Rolldown Dev (hmr-poc branch) · Issue #2866 · rolldown/rolldown
+https://github.com/rolldown/rolldown/issues/2866
+
 # 2024-12-10
 
 (197) Discord | #general | Nova Engine

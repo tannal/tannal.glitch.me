@@ -11,7 +11,16 @@ class DateInserter {
   }
 
   async insertDate() {
-    const today = new Date().toISOString().split("T")[0];
+    // 方法3：使用 Intl API
+    const today = new Intl.DateTimeFormat("zh-CN", {
+      timeZone: "Asia/Shanghai",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    })
+      .format(new Date())
+      .replace(/\//g, "-");
+
     const dateHeader = `\n# ${today}\n\n`;
 
     for (const file of this.config.files) {
