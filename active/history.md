@@ -1,6 +1,117 @@
 
 # 2024-12-10
 
+(197) Discord | #general | Nova Engine
+https://discord.com/channels/1012084654389604372/1012084654389604376
+
+select: clarifying what should be used as the chosen value · Issue #1117 · openui/open-ui
+https://github.com/openui/open-ui/issues/1117
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+ARC Lab, Tencent PCG
+https://github.com/TencentARC
+
+Graphite
+https://github.com/GraphiteEditor
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419/files#diff-6b24e225993b3ab3229b57e9279aae265badb1c9fd28f1a07d060073ecee8bf9
+
+node:sqlite: support database.backup · Issue #55413 · nodejs/node
+https://github.com/nodejs/node/issues/55413
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Element [2] | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-conformance
+
+halilozercan (Halil Ozercan)
+https://github.com/halilozercan
+
+Graphite
+http://localhost:8080/
+
+Graphite
+https://editor.graphite.rs/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Accountants%20don%E2%80%99t%20use%20erasers%20or%20they%20end%20up%20in%20jail.&op=translate
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Keith D. Cooper - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Keith+D.+Cooper
+
+Advanced Compiler Construction - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Advanced+Compiler+Construction
+
+Advanced compiler construction - CS-420 - EPFL
+https://edu.epfl.ch/coursebook/en/advanced-compiler-construction-CS-420
+
+lec3.pdf
+https://charithm.web.illinois.edu/cs526/sp2022/lec3.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Low-Level Software Security for Compiler Developers
+https://llsoftsec.github.io/llsoftsecbook/#assignment-and-equality-confusion
+
+Writing a C Compiler is a book!
+https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html
+
+Writing a C Compiler | No Starch Press
+https://nostarch.com/writing-c-compiler
+
+Server Not Found
+http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf
+
+Writing a C Compiler | No Starch Press
+https://nostarch.com/writing-c-compiler
+
+pascal programming language - Google 搜索
+https://www.google.com.hk/search?q=pascal+programming+language&newwindow=1&client=ubuntu-sn&sca_esv=da052a448206c26a&channel=fs&ei=sRVYZ5q7K_OjkPIP-OLC0Ag&oq=pascal+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB3Bhc2NhbCAqAggAMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgcQABiABBgMMgUQABiABDIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyChAuGIAEGEMYigVIiw5QqwFYqwFwAXgBkAEAmAGMAqABjAKqAQMyLTG4AQPIAQD4AQGYAgKgAqICwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMC4xoAe5Cg&sclient=gws-wiz-serp
+
+尼克劳斯·维尔特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%85%8B%E5%8A%B3%E6%96%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%89%B9
+
+Coffee Compiler Club, 2024_12_06 - YouTube
+https://www.youtube.com/watch?v=AVfPRmZGZ4k&t=3569s
+
+Oral History of Jim Keller - YouTube
+https://www.youtube.com/watch?v=Xh8nhK7WS80&t=838s
+
+684. 冗余连接 - 力扣（LeetCode）
+https://leetcode.cn/problems/redundant-connection/description/
+
+The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Data+Warehouse+Toolkit%3A+The+Definitive+Guide+to+Dimensional+Modeling
+
 (194) Discord | #general | Nova Engine
 https://discord.com/channels/1012084654389604372/1012084654389604376
 
