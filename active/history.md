@@ -1,6 +1,156 @@
 
 # 2024-12-11
 
+(199) Discord | #android | Flutter Dev
+https://discord.com/channels/420324994703163402/465280806924058654
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+WebAssembly source phase imports · Issue #56056 · nodejs/node
+https://github.com/nodejs/node/issues/56056
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+v8 source - Google 搜索
+https://www.google.com.hk/search?q=v8+source&newwindow=1&client=ubuntu-sn&sca_esv=16b82813b0686bd1&channel=fs&udm=7&ei=LmRZZ4aDD-GgkPIPiJ65yQ4&start=20&sa=N&sstk=ATObxK5g3vAt7dit3oNYWlhtySL6DfZYHHxM55GgEkM7uKgaPqvcyaH86hGwz0DXhVh15ZNemv0exf2ORtdAO0Vt-H6dgFRQNZALBiO321Q5fOy9QJPD1-uyV_K6pe-xnOXw&ved=2ahUKEwiG0oqHvJ-KAxVhEEQIHQhPLuk4ChDy0wN6BAgFEAc&biw=1850&bih=968&dpr=1
+
+Google I/O 2009 - V8: ..High Performance JavaScript Engine - YouTube
+https://www.youtube.com/watch?v=FrufJFBSoQY
+
+tannal (tannal)
+https://github.com/tannal
+
+Slack
+https://chromium.slack.com/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+Element [1] | TC39 Implementers
+https://app.element.io/#/room/#tc39-implementers:matrix.org/$CleOmDHygnHOm3kAzuRoIuMhMaHHzVh1m4dg345eLYw
+
+Add switch attribute to the input element to allow for a two-state switch control. by lilyspiniolas · Pull Request #9546 · whatwg/html
+https://github.com/whatwg/html/pull/9546/files#r1879416670
+
+Make headers sticky? · Issue #320 · whatwg/whatwg.org
+https://github.com/whatwg/whatwg.org/issues/320
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+Teilhard de Chardin - Google 搜索
+https://www.google.com.hk/search?q=Teilhard+de+Chardin&newwindow=1&client=ubuntu-sn&hs=Kxi&sca_esv=636238c710bc0fc7&channel=fs&ei=vmRZZ-a6EtifkPIP1rmz-Ao&ved=0ahUKEwjmkePLvJ-KAxXYD0QIHdbcDK8Q4dUDCA8&uact=5&oq=Teilhard+de+Chardin&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RlaWxoYXJkIGRlIENoYXJkaW4yBRAuGIAEMgsQLhiABBjHARivATIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIUEC4YgAQYlwUY3AQY3gQY4ATYAQFItoQMUN6ADFjegAxwAXgBkAEAmAHEAqABxAKqAQMzLTG4AQPIAQD4AQL4AQGYAgKgAtsCwgIKEAAYsAMY1gQYR5gDAIgGAZAGBLoGBggBEAEYFJIHBTEuMy0xoAfSCQ&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wasmtime/pulley/CONTRIBUTING.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/pulley/CONTRIBUTING.md
+
+Add a guide for adding instructions to Pulley by alexcrichton · Pull Request #9765 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/9765/files#diff-7dbc17b5f612f4b0ed07ab5605fe1f2687d9b50f0d23c9832ca3940e06e0d93b
+
+How browser paint box border
+http://localhost:1313/p/how-browser-paint-box-border/
+
+Search — Bluesky
+https://bsky.app/search?q=wasmtime
+
+RustWeek 2025
+https://rustweek.org/#explainer
+
+The Art of Software Testing - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Art+of+Software+Testing
+
+How Google Tests Software - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=How+Google+Tests+Software
+
+Exploratory Software Testing) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Exploratory+Software+Testing%29
+
+Modern Testing Principles - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Modern+Testing+Principles
+
+Modern Testing – Not that modern, and not that much about testing
+https://www.moderntesting.org/
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mThrottleReadInterval - mozsearch
+https://searchfox.org/mozilla-central/search?path=&q=mThrottleReadInterval
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764#8019924
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+front mobile IME safari - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=rD1&sca_esv=3c1a55819b6b7e41&channel=fs&q=front+mobile+IME+safari&spell=1&sa=X&ved=2ahUKEwj8kMmdmp-KAxUWIkQIHQc_J90QBSgAegQIEBAB
+
+tannal
+https://tannal.github.io/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Google DeepMind - YouTube
+https://www.youtube.com/@Google_DeepMind/videos
+
+encode and decode tinyurl leetcode - Google 搜索
+https://www.google.com.hk/search?q=encode+and+decode+tinyurl+leetcode&newwindow=1&client=ubuntu-sn&hs=ZoN&sca_esv=636238c710bc0fc7&channel=fs&ei=nF1ZZ6PQFO6jkPIP4YTfaQ&oq=Encode+and+Decode+TinyURL+l&gs_lp=Egxnd3Mtd2l6LXNlcnAiG0VuY29kZSBhbmQgRGVjb2RlIFRpbnlVUkwgbCoCCAAyBxAAGIAEGBMyBhAAGBMYHjIIEAAYgAQYogRIuTRQowZY-SdwC3gBkAEAmAHjAqAB7wmqAQUyLTEuM7gBA8gBAPgBAZgCD6ACoQrCAgoQABiwAxjWBBhHwgIIEAAYExgFGB7CAgUQIRigAcICBxAhGKABGAqYAwCIBgGQBgeSBwgxMS4wLjEuM6AHkAs&sclient=gws-wiz-serp
+
+535. TinyURL 的加密与解密 - 力扣（LeetCode）
+https://leetcode.cn/problems/encode-and-decode-tinyurl/
+
+Peter Medawar - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=N1N&sca_esv=636238c710bc0fc7&channel=fs&q=Peter+Medawar&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNJUQKUjvt0lrtOlKXIWyB5WYNkOhubM6ZglLaMSiYCGPI0ilcUmvWMadFNyq8LeCITSgGxTst8aG8CuxWqXR1Bd_66nlTxQfkJb15PlfXez2-eXoU&sa=X&ved=2ahUKEwjn_vffuJ-KAxXPIUQIHaWdLFsQ0pQJegQIDBAB&biw=1850&bih=968&dpr=1
+
+John Maynard Smith - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=John+Maynard+Smith
+
+Avrion Mitchison - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Avrion+Mitchison+
+
+The Art of the Soluble - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Art+of+the+Soluble
+
 (199) Discord | #off-topic | Flutter Dev
 https://discord.com/channels/420324994703163402/421444918276390912
 
