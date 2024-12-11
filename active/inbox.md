@@ -1,6 +1,17 @@
 
 # 2024-12-11
 
+https://chromium.slack.com/
+
+数据、模板、样式、逻辑
+
+http-throtte-v2
+modules/libpref/init/all.js
+
+https://matrixlogs.bakkot.com/
+
+https://matrix.to/#/#csswg:matrix.org
+
 - Android Dev with Kotlin/Jetpack Compose
 - iOS/Mac Dev with Swift/SwiftuI
 - Flutter/Dart

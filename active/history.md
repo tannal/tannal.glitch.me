@@ -1,6 +1,180 @@
 
 # 2024-12-11
 
+(199) Discord | #gsoc | LLVM
+https://discord.com/channels/636084430946959380/951035440260071444
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Element | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Infra Standard
+https://infra.spec.whatwg.org/#algorithm-conformance
+
+halilozercan (Halil Ozercan)
+https://github.com/halilozercan
+
+Graphite
+https://editor.graphite.rs/
+
+karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+https://github.com/karpathy/nanoGPT
+
+Skylion007/openwebtext · Datasets at Hugging Face
+https://huggingface.co/datasets/Skylion007/openwebtext
+
+Introduce `default_field_values` feature by estebank · Pull Request #129514 · rust-lang/rust
+https://github.com/rust-lang/rust/pull/129514
+
+chromium slack - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=chromium+slack
+
+Slack
+https://www.chromium.org/developers/slack/#good-behavior-required
+
+Slack
+https://chromium.slack.com/
+
+AUTHORS - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/HEAD/AUTHORS
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+v8 source - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=Cev&sca_esv=16b82813b0686bd1&channel=fs&udm=7&q=v8+source&sa=X&ved=2ahUKEwjLubCyyp6KAxXFI0QIHUDhHUcQ8ccDegQIEBAF&biw=1850&bih=968&dpr=1
+
+AUTHORS - v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git/+/refs/heads/main/AUTHORS#213
+
+Google I/O 2009 - V8: ..High Performance JavaScript Engine - YouTube
+https://www.youtube.com/watch?v=FrufJFBSoQY
+
+AUTHORS - v8/v8.git - Git at Google
+https://chromium.googlesource.com/v8/v8.git/+/refs/heads/main/AUTHORS#213
+
+tannal (tannal) / November 2024
+https://github.com/tannal?tab=overview&from=2024-11-01&to=2024-11-30
+
+Slack
+https://chromium.slack.com/
+
+tc39 Matrix - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=tc39+Matrix
+
+TC39 Delegates on 2024-12-06
+https://matrixlogs.bakkot.com/TC39_Delegates/2024-12-06
+
+Discord Server for Javascript/Ecmascript - 💡 Ideas - TC39
+https://es.discourse.group/t/discord-server-for-javascript-ecmascript/1397/2
+
+TC39 - Specifying JavaScript.
+https://tc39.es/
+
+how-we-work/matrix-guide.md at a64ad4bf2276063bfd268d50d5fbe393369b9fff · tc39/how-we-work
+https://github.com/tc39/how-we-work/blob/a64ad4bf2276063bfd268d50d5fbe393369b9fff/matrix-guide.md
+
+TC39 - Specifying JavaScript
+https://es.discourse.group/
+
+csswg element room - Google 搜索
+https://www.google.com.hk/search?q=csswg+element++room&newwindow=1&client=ubuntu-sn&sca_esv=16b82813b0686bd1&channel=fs&ei=5PNYZ97ALMTMkPIPnvD0qAc&start=20&sa=N&sstk=ATObxK7aMGLaPRLYNbhioxT8xK1DnU-GA79eF9ZAA7lAOO0MMRotHzVhx7tVMcLw8etwlOene4U9u0G9VRbJrgO0gWmzwUd4Sk0ztk5_lUXvnPk0rIKRl8wcOPisBWS45zz1&ved=2ahUKEwjewpP80J6KAxVEJkQIHR44HXU4ChDy0wN6BAgLEAc&biw=1850&bih=968&dpr=1
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+TC39 Tools_Transpilers on 2024-11-26
+https://matrixlogs.bakkot.com/TC39_Tools_Transpilers/2024-11-26
+
+Element | TC39 General
+https://app.element.io/#/room/#tc39-general:matrix.org
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Search — Bluesky
+https://bsky.app/search?q=csswg
+
+Why Google Sheets ported its calculation worker from JavaScript to WasmGC  |  web.dev
+https://web.dev/case-studies/google-sheets-wasmgc
+
+Issues · google/j2cl
+https://github.com/google/j2cl/issues
+
+A new way to bring garbage collected programming languages efficiently to WebAssembly · V8
+https://v8.dev/blog/wasm-gc-porting
+
+Code search results
+https://github.com/search?q=repo%3Acloudflare%2Fworkerd+parser&type=code
+
+Kotlin/kotlin-wasm-wasi-template: A template repository for Kotlin/Wasm with WASI
+https://github.com/Kotlin/kotlin-wasm-wasi-template
+
+Wasm | Flutter
+https://docs.flutter.dev/platform-integration/web/wasm
+
+Flutter Engineering Trainings
+https://www.flutterengineering.io/
+
+State of React Native 2024
+https://stateofreactnative.com/
+
+vlt Docs | docs | vlt
+https://docs.vlt.sh/
+
+Archive | Dart
+https://dart.dev/get-dart/archive
+
+Web IDL bindings — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/dom/webIdlBindings/index.html
+
+Governance — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/mots/index.html
+
+Document Object Model (DOM) - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
+TC39 ECMA402 on 2024-11-22
+https://matrixlogs.bakkot.com/TC39_ECMA402/2024-11-22
+
 (197) Discord | #algorithms | TC39 Signals
 https://discord.com/channels/1224208557126193333/1224360040018743377
 
