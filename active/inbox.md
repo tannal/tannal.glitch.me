@@ -1,6 +1,19 @@
 
 # 2024-12-11
 
+
+
+Jennifer Doudna（与Emmanuelle Charpentier）：CRISPR基因编辑技术
+杨振宁：理论物理学家，虽主要成就在20世纪，但其影响延续至今
+Peter Higgs：希格斯玻色子的理论预言（虽然理论提出在20世纪，但2012年才被实验证实）
+Craig Venter：人类基因组测序的先驱
+Shinya Yamanaka：诱导多能干细胞研究
+屠呦呦：青蒿素研究，2015年诺贝尔生理学或医学奖
+James Hansen：气候变化研究的先驱
+Grigori Perelman：庞加莱猜想的证明
+Terence Tao：数学领域多项突破
+
+
 https://chromium.slack.com/
 
 数据、模板、样式、逻辑
