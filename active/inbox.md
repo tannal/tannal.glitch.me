@@ -1,6 +1,10 @@
 
 # 2024-12-11
 
+
+export WASI_SDK_PATH=/home/tannal/tannalwork/projects/wasi-libc
+export CC="clang --sysroot=${WASI_SDK_PATH}/share/wasi-sysroot"
+clang -target wasm32-wasi --sysroot=/home/tannal/tannalwork/projects/wasi-libc/sysroot -nodefaultlibs -lc -o wasm32_wasi.wasm test.c
 音乐 数学 哲学 科学 工程
 
 天文学
