@@ -1,6 +1,120 @@
 
 # 2024-12-11
 
+(199) Discord | #off-topic | Flutter Dev
+https://discord.com/channels/420324994703163402/421444918276390912
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+WebAssembly source phase imports · Issue #56056 · nodejs/node
+https://github.com/nodejs/node/issues/56056
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+v8 source - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=Cev&sca_esv=16b82813b0686bd1&channel=fs&udm=7&q=v8+source&sa=X&ved=2ahUKEwjLubCyyp6KAxXFI0QIHUDhHUcQ8ccDegQIEBAF&biw=1850&bih=968&dpr=1
+
+Google I/O 2009 - V8: ..High Performance JavaScript Engine - YouTube
+https://www.youtube.com/watch?v=FrufJFBSoQY
+
+tannal (tannal)
+https://github.com/tannal
+
+Slack
+https://chromium.slack.com/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+Element | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+Add switch attribute to the input element to allow for a two-state switch control. by lilyspiniolas · Pull Request #9546 · whatwg/html
+https://github.com/whatwg/html/pull/9546/files#r1879416670
+
+network firefox - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=ly0&sca_esv=3c1a55819b6b7e41&channel=fs&q=network+firefox&sa=X&ved=2ahUKEwjxvq7flp-KAxVoI0QIHQp5ILoQ7xYoAHoECA8QAQ&biw=1850&bih=968&dpr=1
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+蒲公英的约定 - YouTube
+https://www.youtube.com/results?search_query=%E8%92%B2%E5%85%AC%E8%8B%B1%E7%9A%84%E7%BA%A6%E5%AE%9A
+
+Google I/O 2009 - V8: ..High Performance JavaScript Engine - YouTube
+https://www.youtube.com/watch?v=FrufJFBSoQY
+
+youtube download mp3 - Google 搜索
+https://www.google.com.hk/search?q=youtube+download+mp3&newwindow=1&client=ubuntu-sn&hs=zTd&sca_esv=3c1a55819b6b7e41&channel=fs&ei=jxJZZ67OK7jYkPIP24OuqQU&ved=0ahUKEwju0eWb7p6KAxU4LEQIHduBK1UQ4dUDCA8&uact=5&oq=youtube+download+mp3&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHlvdXR1YmUgZG93bmxvYWQgbXAzMggQABiABBiwAzIIEAAYgAQYsAMyCBAAGIAEGLADMggQABiABBiwAzIHEAAYsAMYHjILEAAYgAQYsAMYogRI8whQvgdYiAhwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYGkgcBMaAHAA&sclient=gws-wiz-serp
+
+ytmp4
+https://ytmp4.is/convert
+
+Kevin Hart vs Adam Sandler: Vote for the Funniest Comedian
+https://www.xxtrabutta.com/polls/kevin-hart-vs-adam-sandler/?cid=pra&sub_id=pratd_5117836&utm_source=pratd_5117836&utm_campaign=pra
+
+Y2Mate - YouTube to MP3 Converter
+https://y2mate.nu/en-8TqV/
+
+BetRivers NJ Online Casino & NJ Sportsbook
+https://nj.betrivers.com/?page=landing&btag=a_16119b_3813c_&siteid=16119
+
+How to Earn Money in 2024: Top Strategies and Emerging Trends – AI-MACAU BLOG
+https://ai-macau.com/blog/index.php/2024/09/08/how-to-earn-money-in-2024-top-strategies-and-emerging-trends/
+
+tannal (tannal) / November 2024
+https://github.com/tannal?tab=overview&from=2024-11-01&to=2024-11-30
+
+tannal
+https://tannal.github.io/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+State of React Native 2023: React Native features
+https://results.2023.stateofreactnative.com/react-native-specific-features/
+
+【纯享版】王赫野姚晓棠全新演绎情歌《最后一页》 忧伤旋律搭配歌声中的惆怅感 情感渲染力十足！ #天赐的声音5 EP1 20240426 - YouTube
+https://www.youtube.com/watch?v=ULYksmjBwzY&list=RDULYksmjBwzY&start_radio=1
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
 (199) Discord | #gsoc | LLVM
 https://discord.com/channels/636084430946959380/951035440260071444
 
