@@ -1,4 +1,168 @@
 
+# 2024-12-12
+
+(203) Discord | #android | Flutter Dev
+https://discord.com/channels/420324994703163402/465280806924058654
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+flxzt/rnote: Sketch and take handwritten notes.
+https://github.com/flxzt/rnote
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+284514 – ASSERTION FAILED: regs.contains(reg) in JSC::B3::Air::Code::pinRegister(JSC::Reg)
+https://bugs.webkit.org/show_bug.cgi?id=284514
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+WebAssembly source phase imports · Issue #56056 · nodejs/node
+https://github.com/nodejs/node/issues/56056
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Compiler Explorer
+https://godbolt.org/
+
+Slack
+https://chromium.slack.com/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+Element [2] | TC39 Implementers
+https://app.element.io/#/room/#tc39-implementers:matrix.org/$CleOmDHygnHOm3kAzuRoIuMhMaHHzVh1m4dg345eLYw
+
+Add switch attribute to the input element to allow for a two-state switch control. by lilyspiniolas · Pull Request #9546 · whatwg/html
+https://github.com/whatwg/html/pull/9546/files#r1879416670
+
+Make headers sticky? · Issue #320 · whatwg/whatwg.org
+https://github.com/whatwg/whatwg.org/issues/320
+
+223533 – [JSC] Redeclaring parameter of a generator / async function makes it `undefined`
+https://bugs.webkit.org/show_bug.cgi?id=223533
+
+Teilhard de Chardin - Google 搜索
+https://www.google.com.hk/search?q=Teilhard+de+Chardin&newwindow=1&client=ubuntu-sn&hs=Kxi&sca_esv=636238c710bc0fc7&channel=fs&ei=vmRZZ-a6EtifkPIP1rmz-Ao&ved=0ahUKEwjmkePLvJ-KAxXYD0QIHdbcDK8Q4dUDCA8&uact=5&oq=Teilhard+de+Chardin&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1RlaWxoYXJkIGRlIENoYXJkaW4yBRAuGIAEMgsQLhiABBjHARivATIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIUEC4YgAQYlwUY3AQY3gQY4ATYAQFItoQMUN6ADFjegAxwAXgBkAEAmAHEAqABxAKqAQMzLTG4AQPIAQD4AQL4AQGYAgKgAtsCwgIKEAAYsAMY1gQYR5gDAIgGAZAGBLoGBggBEAEYFJIHBTEuMy0xoAfSCQ&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wasmtime/pulley/CONTRIBUTING.md at main · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/main/pulley/CONTRIBUTING.md
+
+Add a guide for adding instructions to Pulley by alexcrichton · Pull Request #9765 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/pull/9765/files#diff-7dbc17b5f612f4b0ed07ab5605fe1f2687d9b50f0d23c9832ca3940e06e0d93b
+
+Cory LaViska (@cory.laviska.com) — Bluesky
+https://bsky.app/profile/cory.laviska.com
+
+RustWeek 2025
+https://rustweek.org/#explainer
+
+Zero to WASI with Clang 17 · Daniel Mangum
+https://danielmangum.com/posts/wasm-wasi-clang-17/
+
+Add support for nested CSS · Issue #9 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/issues/9
+
+Add a test suite and converting the existing test files to the new test suite by romainmenke · Pull Request #35 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/pull/35/files#diff-b803fcb7f17ed9235f1e5cb1fcd2f5d3b2838429d4368ae4c57ce4436577f03f
+
+The Art of Software Testing - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Art+of+Software+Testing
+
+How Google Tests Software - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=How+Google+Tests+Software
+
+Exploratory Software Testing) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Exploratory+Software+Testing%29
+
+Modern Testing Principles - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Modern+Testing+Principles
+
+Modern Testing – Not that modern, and not that much about testing
+https://www.moderntesting.org/
+
+Alexander Grothendieck - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Alexander+Grotbendick#fpr=r
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+build: fix GN build on macOS by joyeecheung · Pull Request #56141 · nodejs/node
+https://github.com/nodejs/node/pull/56141
+
+Diff - ebbab76f116bb0afd91881b1640e834f69540fd1^! - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/ebbab76f116bb0afd91881b1640e834f69540fd1%5E%21/buildtools/third_party/libc++/BUILD.gn
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+William Thurston - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=William+Thurston
+
+The Geometry and Topology of Three-Manifolds - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Geometry+and+Topology+of+Three-Manifolds
+
+thurston.pdf
+https://www.math.unl.edu/~jkettinger2/thurston.pdf
+
+On proof and progress in mathematics - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=On+proof+and+progress+in+mathematics
+
+arXiv:math/9404236v1 [math.HO] 1 Apr 1994 - 9404236v1.pdf
+https://arxiv.org/pdf/math/9404236
+
+Descartes - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Descartes
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Unabomber - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Unabomber
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+StrongAlias::Hasher should be removed [380246463] - Chromium
+https://issues.chromium.org/issues/380246463
+
+joyeecheung/simdjson: Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+https://github.com/joyeecheung/simdjson
+
+Cory LaViska (@cory.laviska.com) — Bluesky
+https://bsky.app/profile/cory.laviska.com
+
+Add support for nested CSS · Issue #9 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/issues/9
+
+Add a test suite and converting the existing test files to the new test suite by romainmenke · Pull Request #35 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/pull/35/files#diff-2c8effdf840690ccb88c7e21e56148978c6adb2c6926530c58ff0e47a9588b44
+
+thurston.pdf
+https://www.math.unl.edu/~jkettinger2/thurston.pdf
+
+RISC-V Chromium zlib optimizations - Google 幻灯片
+https://docs.google.com/presentation/d/1tTDlyT3W-0Ka64RBFbKeQTVb3Ho1Rrt--Y0YTfMzLn8/edit#slide=id.g309316272c8_0_21
+
 # 2024-12-11
 
 (199) Discord | #android | Flutter Dev

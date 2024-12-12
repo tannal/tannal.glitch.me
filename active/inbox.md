@@ -1,4 +1,7 @@
 
+# 2024-12-12
+
+
 # 2024-12-11
 
 /opt/llvm-17/bin/clang -target wasm32-wasi --sysroot=/home/tannal/tannalwork/projects/wasi-libc/sysroot -nodefaultlibs -lc -o wasm32_wasi.wasm test.c
