@@ -1,6 +1,8 @@
 
 # 2024-12-13
 
+
+
 adb shell pm path com.android.vending
 
 adb -s device1 pull $(adb -s device1 shell pm path com.android.vending | cut -d ":" -f2) ./GooglePlayStore.apk
