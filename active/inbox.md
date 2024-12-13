@@ -1,6 +1,8 @@
 
 # 2024-12-13
 
+git reset 'HEAD@{1}'
+
 /home/a17/.config/Cursor/User/globalStorage/storage.json 新的 machineId: 526424d8-ff5f-472a-a312-c82713335440
 
 adb shell pm path com.android.vending
