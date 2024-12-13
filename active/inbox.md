@@ -1,6 +1,11 @@
 
 # 2024-12-13
 
+adb shell pm path com.android.vending
+
+adb -s device1 pull $(adb -s device1 shell pm path com.android.vending | cut -d ":" -f2) ./GooglePlayStore.apk
+
+adb pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk ./GooglePlayStore.apk
 
 # 2024-12-12
 
