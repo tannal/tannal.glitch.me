@@ -1,4 +1,147 @@
 
+# 2024-12-14
+
+(198) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+* general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+284514 – ASSERTION FAILED: regs.contains(reg) in JSC::B3::Air::Code::pinRegister(JSC::Reg)
+https://bugs.webkit.org/show_bug.cgi?id=284514
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Compiler Explorer
+https://godbolt.org/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+Element [1] | TC39 Implementers
+https://app.element.io/#/room/#tc39-implementers:matrix.org
+
+Make headers sticky? · Issue #320 · whatwg/whatwg.org
+https://github.com/whatwg/whatwg.org/issues/320
+
+223533 – [JSC] Redeclaring parameter of a generator / async function makes it `undefined`
+https://bugs.webkit.org/show_bug.cgi?id=223533
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/
+
+temporal-polyfill - npm
+https://www.npmjs.com/package/temporal-polyfill?activeTab=code
+
+whatwg/html: HTML Standard
+https://github.com/whatwg/html
+
+network (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGKMS241Z
+
+build: fix GN build on macOS by joyeecheung · Pull Request #56141 · nodejs/node
+https://github.com/nodejs/node/pull/56141
+
+nodejs calendar - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=nodejs+calendar
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+tannal (tannal)
+https://github.com/tannal/
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+clash meta github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=clash+meta+github
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
+tannal/tiktok-player: A video player for a titok like experience.
+https://github.com/tannal/tiktok-player
+
+ChatGGG
+http://192.168.43.1:8080/
+
+tannal (tannal)
+https://github.com/tannal
+
+频道内容 - YouTube Studio
+https://studio.youtube.com/channel/UCnSWJKq0Q58DAJCkHWXtRrg/content/inspiration
+
+bestK/cursor-fake-machine
+https://github.com/bestK/cursor-fake-machine
+
+dom event cause - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dom+event+cause
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+My Dashboard
+https://bugzilla.mozilla.org/page.cgi?id=mydashboard.html
+
+Mochitest — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/testing/mochitest-plain/index.html
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764#change-QzNSRkViCVNB
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+Mattermost - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Mattermost
+
+mattermost/mattermost: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+https://github.com/mattermost/mattermost?tab=readme-ov-file#get-involved
+
+Avoid SELECT * in status_store.go · Issue #29550 · mattermost/mattermost
+https://github.com/mattermost/mattermost/issues/29550
+
+Mattermost @ Mattermost Weblate
+https://translate.mattermost.com/projects/mattermost/
+
+Contribute code
+https://developers.mattermost.com/contribute/more-info/getting-started/
+
+Get started
+https://developers.mattermost.com/integrate/getting-started/
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+android 16 - Google 搜索
+https://www.google.com.hk/search?q=android+16&newwindow=1&client=ubuntu-sn&hs=wAN&sca_esv=fc34d2dabe7a617b&channel=fs&ei=8_ZcZ4zPDoHIkPIP_czhqAE&ved=0ahUKEwjMlKS5pKaKAxUBJEQIHX1mGBUQ4dUDCA8&uact=5&oq=android+16&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmFuZHJvaWQgMTYyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAuGIAEGEMYigUyChAAGIAEGEMYigUyChAuGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABEjiCVCsBVjTCHABeAGQAQCYAfcCoAH3AqoBAzMtMbgBA8gBAPgBAZgCAqAC_QLCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB-EH&sclient=gws-wiz-serp
+
+Android 16 Preview  |  Android Developers
+https://developer.android.com/about/versions/16/overview
+
 # 2024-12-13
 
 
