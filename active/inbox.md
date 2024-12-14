@@ -1,6 +1,10 @@
 
 # 2024-12-13
 
+Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+
+Differential Revision: https://phabricator.services.mozilla.com/D231764
+
 git reset 'HEAD@{1}'
 
 /home/a17/.config/Cursor/User/globalStorage/storage.json 新的 machineId: 526424d8-ff5f-472a-a312-c82713335440
