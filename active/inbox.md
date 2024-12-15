@@ -1,9 +1,8 @@
 
 # 2024-12-15
 
-
-
-
+Dynamic language JIT compilation thesis
+"Dynamic" "language" "JIT" "compilation" "parsing" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf
 
 中国作家张弛在狱中创作《狱中笔记》
 
@@ -204,8 +203,6 @@ More state More features More bugs
 
 
 # 2024-12-08
-
-- Find Engineering a Compiler 3rd Edition
 
 - 用最快方式记录，不展开
 - 立即返回当前任务
