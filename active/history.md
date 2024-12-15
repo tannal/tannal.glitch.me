@@ -16,6 +16,258 @@ https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
 jsc (Channel) - WebKit - Slack
 https://app.slack.com/client/T06G50708/CTV4FGWF4
 
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Compiler Explorer
+https://godbolt.org/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/
+
+Consider providing a natural ordering for URLPattern objects · Issue #61 · whatwg/urlpattern
+https://github.com/whatwg/urlpattern/issues/61
+
+linux (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGK0X6X19
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Epilogue%20Early%20in%201913%2C%20G.%20H.%20Hardy%2C%20an%20eminent%20mathematician%20at%20the%20University%20of%20Cambridge%2C%20received%20a%20strange%20letter%20from%20Madras%2C%20India.%20The%20writer%20was%20a%20man%20named%20Srinivasa%20Ramanujan.%20He%20said%20he%20was%20a%20twenty-%20three-year-old%20clerk%20living%20in%20poverty%2C%20without%20any%20higher%20education%2C%20who%20spent%20his%20free%20time%20studying%20mathematics%20on%20his%20own.%20He%20accompanied%20his%20letter%20with%20a%20selection%20of%20theorems%20he%20claimed%20to%20have%20obtained%20and%20that%20the%20local%20mathematicians%20had%20deemed%20%E2%80%9Csurprising.%E2%80%9D%20He%20was%20curious%20to%20hear%20Hardy%E2%80%99s%20opinion.%20Hardy%20gave%20the%20theorems%20a%20quick%20glance.%20He%20thought%20at%20first%20it%20was%20some%20kind%20of%20a%20hoax.%20However%2C%20the%20more%20he%20looked%20at%20the%20manuscript%2C%20the%20more%20perplexed%20he%20became.%20Not%20only%20did%20the%20results%20seem%20credible%2C%20their%20depth%20and%20originality%20were%20extraordinary%2C%20and%20Hardy%20felt%20completely%20blown%20away.%20The%20theorems%20were%20given%20without%20proofs.%20Hardy%20himself%20was%20incapable%20of%20proving%20them.%20He%20thought%2C%20however%2C%20that%20%E2%80%9Cthey%20must%20be%20true%20because%2C%20if%20they%20were%20not%20true%2C%20no%20one%20would%20have%20had%20the%20imagination%20to%20invent%20them.%E2%80%9D%20Hardy%20therefore%20concluded%20that%20Ramanujan%20was%20a%20mathematician%20of%20the%20highest%20order%2C%20who%20would%20take%20his%20place%20among%20the%20greatest%20in%20history.%20Formalism%20and%20Intuition%20The%20story%20of%20the%20encounter%20and%20friendship%20between%20Hardy%20and%20Ramanujan%20is%20so%20improbable%20that%20you%E2%80%99d%20think%20it%20was%20taken%20from%20fiction.%20It%20can%20be%20read%20as%20a%20social%20fable.%20At%20the%20height%20of%20British%20colonial%20domination%2C%20two%20worlds%20collide.%20Hardy%20is%20a%20pure%20product%20of%20Western%20intellectual%20arrogance%2C%20a%20member%20of%20the%20most%20elite%20circles%2C%20comfortably%20ensconced%20in%20his%20ivory%20tower.%20Ramanujan%20is%20a%20self-taught%20amateur%20mathematician%2C%20the%20son%20of%20a%20sari%20vendor.%20Hardy%20invites%20Ramanujan%20to%20Cambridge%2C%20where%20he%20lives%20for%20five%20years%2C%20from%201914%20until%201919%2C%20when%2C%20gravely%20ill%2C%20he%20decides%20to%20return%20to%20India%2C%20where%20he%20dies%20the%20following%20year%20at%20the%20age%20of%20thirty-two.%20At%20the%20end%20of%20his%20career%2C%20when%20Hardy%20was%20asked%20about%20his%20greatest%20contribution%20to%20mathematics%2C%20he%20replied%20without%20hesitation%20%E2%80%9Cthe%20discovery%20of%20Ramanujan.%E2%80%9D%20Hardy%20had%20reason%20to%20be%20proud.%20He%20had%20immediately%20recognized%20the%20extraordinary%20genius%20of%20Ramanujan.%20He%E2%80%99d%20had%20the%20courage%20and%20integrity%20to%20act%20on%20this%20even%20though%20it%20meant%20going%20against%20established%20norms.%20Ramanujan%20was%20the%20first%20Indian%20to%20be%20elected%20as%20a%20fellow%20of%20Trinity%20College%20and%20one%20of%20the%20youngest%20fellows%20of%20the%20Royal%20Society.%20On%20another%20level%2C%20the%20story%20can%20also%20be%20read%20as%20a%20mathematical%20fable.&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=I%20reprises%20the%20principal%20themes%20we%E2%80%99ve%20addressed%20in%20this%20book%20and%20constitutes%20the%20perfect%20epilogue.%20From%20the%20beginning%20of%20this%20book%2C%20we%E2%80%99ve%20talked%20about%20how%20mathematics%20feeds%20on%20the%20tension%20between%20two%20contradictory%20forces%3A%20the%20inhuman%20coldness%20of%20logical%20formalism%20and%20the%20phenomenal%20power%20of%20intuition.%20All%20mathematical%20work%2C%20whether%20the%20resolution%20of%20a%20primary%20school%20exercise%20or%20research%20that%20extends%20the%20boundaries%20of%20human%20knowledge%2C%20requires%20a%20constant%20dialogue%20between%20formalism%20and%20intuition.%20Not%20everyone%20approaches%20this%20dialogue%20in%20the%20same%20manner.%20Some%20mathematicians%20are%20spontaneously%20more%20%E2%80%9Cformalist%2C%E2%80%9D%20while%20others%20are%20more%20profoundly%20%E2%80%9Cintuitive.%E2%80%9D%20Yet%20they%20all%20know%20that%20in%20order%20to%20progress%20they%20need%20to%20reach%20out%20to%20both%20sides.%20The%20duo%20act%20formed%20by%20Hardy%20and%20Ramanujan%20is%20all%20the%20more%20fascinating%20in%20that%20they%20are%20perfect%20incarnations%2C%20almost%20to%20the%20point%20of%20caricature%2C%20of%20these%20two%20polarities.%20Hardy%20was%20one%20of%20the%20most%20famous%20mathematicians%20of%20his%20time%20and%20one%20of%20the%20principal%20figures%20in%20the%20formalist%20revolution%20that%2C%20at%20the%20beginning%20of%20the%20twentieth%20century%2C%20allowed%20for%20the%20unification%20of%20mathematics%20and%20the%20formalization%20of%20the%20notion%20of%20proof.%20Hardy%20was%20a%20friend%20of%20Bertrand%20Russell%2C%20the%20coauthor%20(along%20with%20Alfred%20North%20Whitehead)%20of%20the%20most%20inhuman%20book%20in%20the%20history%20of%20thought%3A%20Principia%20Mathematica.%20In%20an%20ultra-formalist%20style%20verging%20on%20the%20delirious%2C%20this%20treatise%20(whose%20title%20alludes%20to%20Newton%E2%80%99s%20great%20work)%20provides%20axiomatic%20foundations%20to%20set%20theory%2C%20solidifying%20Cantor%E2%80%99s%20initial%20vision%20and%20demonstrating%20along%20the%20way%20that%20the%20concept%20of%20numbers%20can%20be%20reconstructed%20from%20the%20concept%20of%20sets.%20This%20monumental%20work%20changed%20the%20face%20of%20mathematics.%20Conceived%20for%20the%20ages%2C%20it%20was%20unfortunately%20disfigured%20by%20a%20nasty%20birth%20defect%3A%20it%20was%20indecipherable%20to%20any%20person%20of%20normal%20understanding.%20If%20you%E2%80%99re%20looking%20for%20the%20proof%20that%201%20%2B%201%20%3D%202%2C%20you%E2%80%99ll%20find%20it%20on%20page%20379.%20Upon%20the%20publication%20of%20Principia%20Mathematica%2C%20Hardy%20wrote%20a%20review%20for%20the%20general%20public%20that%20appeared%20in%20the%20Times%20Literary%20Supplement.%20With%20characteristic%20British%20humor%2C%20he%20stated%2C%20%E2%80%9CNon-mathematical%20readers%20may%20very%20naturally%20be%20frightened%20by%20an%20exaggerated%20notion%20of%20the%20technical%20difficulty%20of%20the%20book.%E2%80%9D%20As%20for%20Ramanujan%2C%20he%20was%20the%20most%20phenomenally%20intuitive%20mathematician%20in%20history.%20It%20is%20difficult%20to%20speak%20of%20him%20without%20recourse%20to%20superlatives.%20Our%20vocabulary%20simply%20isn%E2%80%99t%20adequate.%20Even%20the%20word%20genius%20seems%20too%20feeble.%20The%20way%20he%20worked%20defies%20understanding.%20He%20simply%20wrote%20down%20bizarre%20formulas%20on%20pieces%20of%20paper%20headed%20by%20the%20word%20theorem%20without%20giving%20the%20least%20explanation%20of%20his%20thought%20processes.%20When%20Hardy%20insisted%20upon%20the%20necessity%20of%20coming%20up%20with%20rigorous%20proofs%2C%20Ramanujan%20responded%20that%20he%20didn%E2%80%99t%20see%20the%20need.%20He%20knew%20that%20the%20formulas%20were%20correct%2C%20because%20his%20family%E2%80%99s%20goddess%20Namagiri%20Thayar%20had%20revealed%20them%20to%20him%20in%20a%20dream.%20I%20would%20have%20loved%20to%20have%20been%20a%20fly%20on%20the%20wall%20to%20see%20the%20expression%20on%20the%20face%20of%20Hardy%2C%20a%20confirmed%20atheist%20and%20fervent%20rationalist%2C%20when%20Ramanujan%20dared%20say%20such%20things.%20In%20the%20course%20of%20his%20short%20career%2C%20Ramanujan%20produced%20more%20than%20thirty-nine%20hundred%20%E2%80%9Cresults.%E2%80%9D%20What%20status%20should%20they%20be%20given%3F%20Normally%2C%20a%20theorem%20without%20a%20proof%20is%20not%20a%20theorem%20but%20simply%20a%20conjecture.%20In%20any%20case%2C%20that%E2%80%99s%20the%20official%20version.%20A%20century%20after%20his%20death%2C%20his%20confirmed%20record%20is%20prodigious.%20Almost%20all%20of%20his%20formulas%20have%20been%20shown%20to%20be%20correct.%20The%20search%20for%20proofs%20has%20inspired%20the%20development%20of%20entire%20fields%20of%20mathematics%20and%20required%20the%20invention%20of%20sophisticated%20new%20conceptual%20tools.%20This%20work%20involved%20mathematicians%20of%20the%20first%20order%20over%20decades%20upon%20decades.%20We%E2%80%99re%20only%20just%20now%20beginning%20to%20have%20the%20end%20in%20sight%20&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=How%20did%20Ramanujan%20discover%20his%20formulas%3F%20Wasn%E2%80%99t%20his%20way%20of%20seeing%20them%20the%20beginning%20of%20a%20proof%2C%20if%20not%20a%20complete%20but%20nonverbal%20proof%3F%20Did%20he%20really%20have%20no%20way%20of%20saying%20more%20about%20it%20without%20invoking%20his%20goddess%3F%20Under%20Hardy%E2%80%99s%20influence%2C%20Ramanujan%20was%20able%20to%20learn%20the%20rudiments%20of%20%E2%80%9Cacademic%E2%80%9D%20mathematics.%20He%20finished%20his%20thesis%20and%20wrote%20a%20couple%20of%20articles%20that%20contained%20actual%20proofs.%20However%2C%20he%20never%20succeeded%20in%20explaining%20his%20work%20method.%20If%20he%20had%20lived%20longer%2C%20perhaps%20he%20would%20have%20been%20able%20to%20find%20a%20way%20to%20better%20explain%20the%20images%2C%20colors%2C%20or%20structures%2C%20the%20tastes%20or%20the%20textures%20that%20formed%20inside%20his%20head%2C%20and%20how%20he%20learned%20to%20invoke%20them.%20If%20you%20really%20want%20to%20believe%20in%20magic%20or%20the%20existence%20of%20supermen%20with%20supernatural%20powers%2C%20you%20might%20find%20some%20inspiration%20in%20the%20story%20of%20Ramanujan.%20As%20for%20me%2C%20I%E2%80%99m%20siding%20with%20Misha%20Gromov%2C%20one%20of%20the%20greatest%20living%20mathematicians%20(he%20received%20the%20Abel%20Prize%20in%202009).%20For%20Gromov%2C%20it%20would%20be%20a%20mistake%20to%20attribute%20Ramanujan%E2%80%99s%20genius%20to%20some%20cosmic%20anomaly%2C%20a%20singularity%20cut%20off%20from%20common%20human%20experience%3A%20%E2%80%9CThis%20miracle%20of%20Ramanujan%20forcefully%20points%20toward%20the%20same%20universal%20principles%20that%20make%20possible%20mastering%20native%20languages%20by%20billions%20of%20children.%E2%80%9D%20I%20suspect%20that%20Gromov%E2%80%99s%20affirmation%20is%20born%20of%20his%20personal%20experience%2C%20of%20the%20intimate%20understanding%20he%20has%20of%20the%20mechanisms%20of%20his%20own%20creativity%2C%20which%20is%20itself%20miraculous%20enough.%20As%20we%20near%20the%20end%20of%20this%20book%2C%20I%20hope%20that%20a%20remark%20like%20Gromov%E2%80%99s%20no%20longer%20comes%20as%20a%20surprise%20to%20you%2C%20and%20that%20it%20even%20seems%20quite%20natural.%20Someone%20Exactly%20Like%20You%20or%20Me%20In%20Hardy%E2%80%99s%20review%20of%20Principia%20Mathematica%2C%20lurking%20behind%20his%20British%20sense%20of%20humor%2C%20you%20can%20discern%20a%20less%20sympathetic%20aspect%20of%20his%20personality%3A%20his%20morbid%20elitism.%20The%20review%20was%20written%20for%20a%20general%20audience%2C%20the%20readers%20of%20the%20Times%2C%20on%20a%20subject%20they%20had%20legitimate%20reasons%20to%20find%20intimidating%3A%20a%20666-page%20book%20with%20a%20Latin%20title%20that%20aspired%20to%20serve%20as%20a%20new%20foundation%20to%20logic%2C%20mathematics%2C%20and%20human%20thought%20as%20a%20whole.%20While%20admitting%20that%20%E2%80%9Cthe%20general%20tone%20of%20the%20book%20is%20mathematical%2C%E2%80%9D%20Hardy%20prefers%20to%20insist%20on%20its%20philosophical%20implications%20and%20historical%20character%2C%20employing%20a%20lighthearted%20tone%20that%20makes%20you%20think%20he%20enjoyed%20delving%20into%20it.%20He%20correctly%20notes%20that%20the%20book%20contains%20%E2%80%9Ccrazy%20looking%20symbolism%E2%80%9D%20and%20that%20%E2%80%9Cit%20would%20be%20silly%20to%20pretend%20that%20the%20book%20is%20not%20really%20difficult%2C%E2%80%9D%20but%20that%20doesn%E2%80%99t%20prevent%20him%20from%20asserting%2C%20%E2%80%9CIt%20has%20many%20claims%20to%20be%20widely%20read.%E2%80%9D%20Hardy%20goes%20so%20far%20as%20to%20say%20that%20%E2%80%9Csome%20of%20the%20jokes%20are%20very%20good.%E2%80%9D%20At%20no%20point%20does%20he%20reveal%20the%20key%20to%20the%20enigma%2C%20the%20crucial%20advice%20my%20friend%20Raphael%20gave%20me%20that%20I%20shared%20in%20chapter%206.%20To%20anyone%20confronted%20with%20Principia%20Mathematica%2C%20this%20advice%20becomes%20a%20basic%20mental%20health%20tip%3A%20%E2%80%9CNever%20ever%20read%20math%20books.%E2%80%9D%20For%20Hardy%2C%20mathematics%20was%20a%20gentlemen%E2%80%99s%20club%20that%20only%20the%20select%20few%20could%20enter.%20In%20his%20famous%20autobiography%2C%20A%20Mathematician%E2%80%99s%20Apology%2C%20a%20book%20that%20was%20once%20considered%20a%20classic%20but%2C%20to%20modern%20readers%2C%20seems%20plainly%20obnoxious%2C%20Hardy%20goes%20so%20far%20as%20to%20proclaim%20this%20malediction%3A%20%E2%80%9CThere%20is%20no%20scorn%20more%20profound%2C%20or%20on%20the%20whole%20more%20justifiable%2C%20than%20that%20of%20the%20men%20who%20make%20for%20the%20men%20who%20explain.%20Exposition%2C%20criticism%2C%20appreciation%2C%20is%20work%20for%20second-%20rate%20minds.%E2%80%9D%20The%20brutal%20elitism%20of%20the%20mathematical%20community%20is%20unfortunately%20a%20topic%20on%20its%20own.%20It%E2%80%99s%20a%20tradition%20that%20goes%20back%20centuries.%20In%20the%20academic%20world%2C%20mathematicians%20build%20their%20careers%20and%20legitimacy%20upon%20the%20new%20theorems%20they%20prove%2C%20and%20upon%20nothing%20else.%20All%20the%20rest%20doesn%E2%80%99t%20really%20count%2C%20apart%20from%20the%20rare%20conjectures%20that%20become%20famous%20in%20themselves%20and%20confer%20a%20special%20prestige%20&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=This%20system%20has%20its%20merits.%20It%20reduces%20arbitrariness%20and%20helps%20mathematicians%20guard%20against%20complacency%20and%20nepotism.%20When%20a%20discipline%20deals%20with%20eternal%20truths%2C%20it%20offers%20a%20neat%20way%20to%20evaluate%20careers.%20The%20approach%20also%20has%20its%20blind%20spots.%20Hardy%E2%80%99s%20curse%20remains%20very%20potent%20and%20no%20one%20is%20immune%20to%20it.%20In%20the%20research%20community%2C%20an%20exaggerated%20interest%20in%20mathematical%20education%20is%20commonly%20perceived%20as%20a%20sign%20of%20weakness.%20Fortunately%2C%20mathematicians%20have%20started%20to%20change%20their%20opinions%20in%20this%20issue.%20They%20have%20learned%20to%20slightly%20less%20despise%20teaching%20and%20popularization.%20But%20there%E2%80%99s%20still%20a%20long%20way%20to%20go.%20The%20secret%20math%2C%20the%20one%20that%20deals%20with%20human%20understanding%2C%20will%20never%20possess%20the%20rigor%20and%20objectivity%20of%20official%20math.%20Because%20of%20this%2C%20it%20will%20never%20be%20considered%20as%20a%20%E2%80%9Cserious%E2%80%9D%20topic.%20This%20%E2%80%9Cnonserious%E2%80%9D%20topic%2C%20however%2C%20is%20arguably%20much%20more%20important%20than%20most%20properly%20mathematical%20questions.%20It%20concerns%20anyone%20who%20at%20one%20moment%20or%20another%20has%20been%20faced%20with%20learning%20math%E2%80%94that%20is%20to%20say%2C%20absolutely%20everyone.%20Mathematicians%20themselves%20are%20passionate%20about%20it%2C%20and%20it%20regularly%20comes%20up%20in%20their%20private%20conversations.%20It%20raises%20fundamental%20questions%20about%20human%20intelligence%2C%20language%2C%20and%20how%20our%20brains%20work.%20It%20would%20be%20a%20terrible%20mistake%20to%20confine%20this%20subject%20to%20the%20backstage%20of%20science%2C%20to%20late-night%20conversations%20and%20the%20autobiographies%20of%20retired%20mathematicians.%20It%20would%20equally%20be%20a%20shame%20to%20exile%20it%20from%20the%20field%20of%20mathematics%20and%20make%20it%20the%20exclusive%20domain%20of%20neurology.%20Failing%20to%20place%20human%20understanding%20at%20the%20center%20of%20mathematics%20is%20failing%20to%20acknowledge%20the%20very%20nature%20of%20mathematics.%20Undoubtedly%20we%20did%20not%20have%2C%20until%20quite%20recently%2C%20the%20tools%20and%20the%20framework%20to%20approach%20the%20subject%20in%20a%20constructive%20manner.%20We%20were%20collectively%20trapped%20in%20fatalism%20and%20passivity%3A%20%E2%80%9CSome%20people%20in%20this%20world%20are%20incredibly%20brilliant%20at%20math%2C%20but%20it%E2%80%99s%20no%20use%20trying%20to%20figure%20out%20why%2C%20it%E2%80%99s%20simply%20a%20miracle%2C%20a%20gift%20from%20heaven.%20And%20too%20bad%20for%20those%20who%20can%E2%80%99t%20understand.%E2%80%9D%20This%20%E2%80%9Cnonserious%E2%80%9D%20but%20burning%20topic%20is%20the%20subject%20of%20this%20book.%20I%20have%20tried%20to%20approach%20it%20in%20my%20own%20way%2C%20starting%20from%20a%20simple%20premise%3A%20talking%20about%20math%20as%20I%20have%20experienced%20it%2C%20in%20the%20simplest%20way%20possible%2C%20examining%20what%20it%20really%20consists%20of%2C%20the%20things%20you%20do%20inside%20your%20head%2C%20and%20how%20to%20approach%20it%20concretely.%20If%20Hardy%20had%20known%20the%20right%20questions%20to%20ask%20Ramanujan%2C%20who%20knows%20what%20we%20might%20have%20learned%3F%20Fortunately%20we%20have%20the%20writings%20of%20Descartes%2C%20Grothendieck%2C%20Thurston%2C%20and%20of%20course%20Einstein.%20It%E2%80%99s%20hard%20to%20overestimate%20the%20value%20of%20these%20writings.%20Their%20most%20troubling%20message%2C%20the%20most%20powerful%20and%20subversive%2C%20is%20this%3A%20we%20construct%20our%20intelligence%20on%20our%20own%2C%20with%20ordinary%20human%20means%2C%20with%20our%20imagination%2C%20curiosity%2C%20and%20sincerity.%20Grothendieck%20wrote%3A%20%E2%80%9CThe%20man%20who%20first%20discovered%20and%20mastered%20fire%20was%20someone%20exactly%20like%20you%20or%20me.%20Not%20at%20all%20what%20you%E2%80%99d%20call%20a%20%E2%80%98hero%2C%E2%80%99%20or%20%E2%80%98demi-%20god%2C%E2%80%99%20or%20whatever.%E2%80%9D%20Descartes%20and%20Einstein%20said%20essentially%20the%20same%20thing%2C%20albeit%20in%20different%20words.%20We%20sliced%20their%20brains%20into%20sections%20and%20put%20their%20skulls%20into%20museums%E2%80%94%20but%20we%20refused%20to%20listen.%20What%20to%20Do%20about%20All%20of%20This%3F%20I%20wrote%20this%20as%20a%20kind%20of%20handbook%2C%20something%20that%20I%20would%20have%20loved%20to%20have%20on%20my%20nightstand%20during%20my%20studies%20to%20guide%20me%2C%20to%20encourage%20me%2C%20to%20help%20overcome%20my%20inhibitions.%20I%20believe%20it%20would%20have%20helped%20me%20immensely.%20I%20hope%20it%20will%20help%20you.%20My%20ambition%20isn%E2%80%99t%20to%20make%20math%20easier.%20It%20never%20will%20be%2C%20not%20for%20anyone.%20It%E2%80%99s%20not%20math%E2%80%99s%20job%20to%20be%20easy.%20I%20simply%20want%20to%20make%20it%20more%20accessible%2C%20to%20allow%20&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=those%20who%20want%20to%20explore%20it%20be%20able%20to%20do%20so%2C%20according%20to%20their%20desire%20and%20ambition.%20There%20will%20always%20be%20some%20people%20who%20are%20better%20at%20math%20than%20others%3A%20the%20visionaries%2C%20the%20passionate%2C%20the%20adventurous.%20But%20pretending%20that%20being%20good%20at%20math%20requires%20a%20special%20gift%20is%20a%20lie.%20Math%20belongs%20to%20all%20of%20us.%20There%E2%80%99s%20no%20reason%20to%20accept%20being%20petrified%20and%20giving%20up%2C%20neither%20for%20ourselves%20nor%20for%20others.%20One%20of%20the%20great%20lessons%20math%20has%20taught%20me%20is%20that%20it%E2%80%99s%20only%20by%20confronting%20head-on%20our%20impression%20of%20not%20understanding%20something%20that%20we%20have%20a%20chance%20to%20finally%20understand%20it.%20It%20seems%20that%20scrutinizing%20our%20own%20perplexity%20is%20the%20best%20way%20to%20mobilize%20our%20natural%20faculties%20for%20learning.%20This%20is%20precisely%20why%20math%20is%20difficult%3A%20it%20requires%20looking%20straight%20at%20what%20is%20beyond%20our%20comprehension.%20We%20must%20become%20genuinely%20interested%20in%20it.%20We%20must%20force%20ourselves%20to%20imagine%20it%20and%20put%20words%20to%20all%20our%20impressions%2C%20without%20being%20distracted%20by%20our%20constant%20feeling%20of%20inferiority.%20And%20we%20must%20do%20that%20precisely%20when%20our%20instinct%20tells%20us%20to%20run%20away%20as%20quickly%20as%20we%20can.%20For%20Descartes%2C%20math%20is%20the%20only%20place%20where%20one%20can%20fully%20experience%20what%20it%20means%20to%20understand%20something.%20This%20is%20also%20what%20I%20personally%20get%20from%20math.%20Math%20has%20taught%20me%20to%20pay%20attention%20to%20that%20special%20taste%20in%20my%20mouth%2C%20this%20impression%20that%20something%E2%80%99s%20not%20quite%20right%20and%20doesn%E2%80%99t%20work%20like%20it%20should.%20It%20has%20taught%20me%20to%20recognize%20a%20novel%20idea%20when%20it%20still%20looks%20like%20nothing%2C%20to%20nurture%20it%20and%20pay%20close%20attention%2C%20so%20that%20it%20has%20a%20chance%20to%20grow.%20It%20has%20taught%20me%20to%20listen%20to%20my%20emotions.%20I%20know%20now%20that%20my%20candor%20and%20my%20sensitivity%20are%20my%20most%20powerful%20intellectual%20weapons.%20The%20mathematical%20approach%20is%20one%20of%20integrity%20and%20being%20in%20tune%20with%20oneself.%20Using%20this%20approach%2C%20I%20formed%20habits%20that%20I%E2%80%99ve%20kept%20to%20this%20day.%20I%20stopped%20believing%20that%20there%20were%20things%20that%20were%20counterintuitive%20by%20nature.%20The%20things%20we%E2%80%99re%20told%20are%20%E2%80%9Ccounterintuitive%E2%80%9D%20or%20%E2%80%9Cparadoxical%E2%80%9D%20are%20either%20false%20or%20poorly%20explained.%20No%20one%20is%20forcing%20us%20to%20live%20in%20a%20world%20that%20is%20indecipherable%20and%20incoherent.%20By%20adopting%20the%20right%20habits%20and%20developing%20our%20confidence%20in%20our%20ability%20to%20imagine%20and%20to%20formalize%2C%20we%20can%20continually%20grow%20our%20mental%20clarity.%20If%20we%20teach%20math%20to%20children%2C%20it%E2%80%99s%20not%20so%20much%20in%20order%20to%20teach%20them%20about%20numbers%20and%20shapes%20as%20to%20give%20them%20the%20chance%20to%20approach%20the%20world%20in%20this%20manner.%20Understanding%20things%20is%20one%20of%20the%20great%20pleasures%20in%20life.%20This%20pleasure%20is%20sometimes%20spoiled%20by%20a%20feeling%20of%20regret%20for%20lost%20time%3A%20How%20is%20it%20I%20was%20so%20stupid%20not%20to%20have%20understood%20this%20earlier%3F%20I%E2%80%99ve%20known%20this%20feeling%20for%20so%20long%20that%20I%20no%20longer%20pay%20any%20attention%20to%20it.%20As%20the%20saying%20goes%2C%20the%20best%20time%20to%20plant%20a%20tree%20was%20twenty%20years%20ago%3B%20the%20second%20best%20time%20is%20now.%20If%20you%20think%20you%E2%80%99re%20terrible%20at%20math%2C%20and%20this%20book%20makes%20you%20want%20to%20try%20again%2C%20keep%20this%20in%20mind%3A%20there%20are%20nice%20stories%20about%20climbing%20Mount%20Everest%2C%20some%20even%20read%20like%20novels%2C%20but%20nothing%20beats%20training.%20For%20beginners%2C%20the%20first%20few%20yards%20of%20the%20climb%20can%20be%20the%20hardest.%20My%20advice%20is%20to%20have%20no%20shame%20in%20starting%20at%20the%20beginning%2C%20with%20the%20most%20classical%20and%20elementary%20proofs.%20Since%20it%20won%E2%80%99t%20be%20easy%20for%20you%20to%20know%20if%20you%20really%20understand%20them%2C%20try%20explaining%20them%20to%20someone%20else%2C%20perhaps%20a%20child.%20When%20we%20try%20explaining%20things%20to%20others%2C%20we%20often%20realize%20that%20our%20own%20ideas%20aren%E2%80%99t%20as%20clear%20as%20we%20thought.%20It%E2%80%99s%20a%20painful%20and%20humiliating%20experience%2C%20but%20one%20that%20you%20can%20get%20over%2C%20and%20it%E2%80%99s%20precisely%20by%20getting%20over%20it%20that%20you%20get%20ahead%20in%20math.%20My%20only%20way%20of%20understanding%20things%20is%20to%20explain%20them%20to%20myself%2C%20in%20the%20simplest%20terms%20possible%2C%20as%20if%20I%20were%20a%20child.%20It%E2%80%99s%20the%20same%20principle%20that%20I%20used%20to%20write%20this%20book.%20In%20%E2%80%9COn%20Proof%20and%20Progress%20in%20Mathematics%2C%E2%80%9D%20Thurston%20gave%20this%20beautiful%20definition%3A%20%E2%80%9CMathematicians%20are%20those%20humans%20who%20advance%20human%20understanding%20of%20mathematics.%E2%80%9D%20That%E2%80%99s%20exactly%20what%20I%E2%80%99ve%20tried%20to%20do.%20&op=translate
+
+Justin Bieber - As Long As You Love Me ft. Big Sean - YouTube
+https://www.youtube.com/watch?v=R4em3LKQCAQ
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+fluckiger-phd-22.pdf
+https://janvitek.org/pubs/fluckiger-phd-22.pdf
+
+JuliaLang/julia: The Julia Programming Language
+https://github.com/JuliaLang/julia
+
+topdeoo/NENU-Thesis-Typst: NENU-Thesis Template Wrote by Typst
+https://github.com/topdeoo/NENU-Thesis-Typst
+
+辛几何 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%87%A0%E4%BD%95
+
+赫尔曼·外尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%A4%96%E5%B0%94
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Jan Vitek @ NEU
+https://janvitek.org/
+
+Reusing Just-in-Time Compiled Code - oopsla23.pdf
+https://janvitek.org/pubs/oopsla23.pdf
+
+Quicksilver java - Google 搜索
+https://www.google.com.hk/search?q=Quicksilver+java&newwindow=1&client=ubuntu-sn&hs=9wB&sca_esv=bc35caec20b99123&channel=fs&ei=ELteZ_e5IqjKkPIPzqi2-QI&ved=0ahUKEwj3gYbP06mKAxUoJUQIHU6ULS8Q4dUDCA8&uact=5&oq=Quicksilver+java&gs_lp=Egxnd3Mtd2l6LXNlcnAiEFF1aWNrc2lsdmVyIGphdmEyBRAAGIAEMgcQABiABBgMMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIGEAAYChgeMgQQABgeSL4NUKYHWKEMcAF4AZABAJgBhQSgAfgHqgEFNC0xLjG4AQPIAQD4AQGYAgOgApIIwgIKEAAYsAMY1gQYR8ICCxAuGIAEGMcBGK8BwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIKEC4YgAQYQxiKBZgDAIgGAZAGCpIHBTEuNC0yoAfrDQ&sclient=gws-wiz-serp
+
+"Dynamic" "language" "JIT" "compilation" "parsing" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%22Dynamic%22+%22language%22+%22JIT%22+%22compilation%22+%22parsing%22+%28dissertation+OR+thesis+OR+%22technical+report%22%29+site%3Astanford.edu+filetype%3Apdf+
+
+A Framework for Evaluating Browser Support • Josh W. Comeau
+https://www.joshwcomeau.com/css/browser-support/
+
+Text layout is a loose hierarchy of segmentation | Raph Levien’s blog
+https://raphlinus.github.io/text/2020/10/26/text-layout.html
+
+"Phi" "node" "CFG" (dissertation OR thesis OR "technical report") site:stanford.edu filetype:pdf - Google 搜索
+https://www.google.com.hk/search?q=%22Phi%22+%22node%22+%22CFG%22+(dissertation+OR+thesis+OR+%22technical+report%22)+site:stanford.edu+filetype:pdf&newwindow=1&client=ubuntu-sn&hs=1RC&sca_esv=bafafc6381751c67&channel=fs&ei=isJeZ9XPGPnFkPIP8-yauQ0&start=10&sa=N&sstk=ATObxK5V4te1dgpjovFbPfSiquSu4M7H90jQNe04-y91Gbrc9v3Dpap0wM5ESaXQhYC17R3iFpy8Qd0ALlAoUn5lihczf5xokSaoqg&ved=2ahUKEwjVvNHf2qmKAxX5IkQIHXO2JtcQ8tMDegQIKhAE&biw=1850&bih=968&dpr=1
+
+9610626.PDF
+https://repository.rice.edu/server/api/core/bitstreams/c5ea1ab7-e6c6-41e7-8e06-3cd5b80aeccd/content
+
+Avril Lavigne height - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Avril+Lavigne+height
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+上空解放 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%8A%E7%A9%BA%E8%A7%A3%E6%94%BE#cite_note-14
+
+解放乳头运动 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%94%BE%E4%B9%B3%E9%A0%AD%E9%81%8B%E5%8B%95
+
+貿易戰2.0版啟幕：關稅是特朗普的「意識形態一致性領域」 作好最壞準備 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/cj90n3j0xkpo/trad
+
+邓紫棋 - Google 搜索
+https://www.google.com.hk/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B&rlz=1C1GCEA_enCN1091CN1091&oq=%E9%82%93%E7%B4%AB%E6%A3%8B&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAjGCcYgAQYigUyBggCECMYJzIHCAMQABiABDIHCAQQABiABDIGCAUQRRg9MgYIBhBFGDwyBggHEEUYPNIBCDM0MTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How do you think Mozilla can better optimize Firefox (and Gecko)? : r/firefox
+https://www.reddit.com/r/firefox/comments/wrxd22/how_do_you_think_mozilla_can_better_optimize/
+
+39.101.69.154
+http://39.101.69.154/lostpassword.php
+
+39.101.69.154
+http://39.101.69.154/lostpassword.php
+
+Convertio — 文件转换器
+https://convertio.co/zh/
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+杨立昆 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9D%A8%E7%AB%8B%E6%98%86&newwindow=1&sca_esv=623de68151eac4f8&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJiwSNZlISIMfLLbaEDK574X4LhhA%3A1733661413810&ei=5ZJVZ7ibMdHJkPIPlpS_mQE&gs_ssp=eJzj4tLP1TcwKzeNz7UwYPTifDZ3xfPV3c9mtAEAXWwJxg&oq=yangli+kun&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnlhbmdsaSBrdW4qAggAMgcQLhiABBgMMgcQABiABBgMMgcQABiABBgMMgcQLhiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMhYQLhiABBgMGJcFGNwEGN4EGN8E2AEBSPhRUNAKWJA2cAN4AZABAJgB9AigAfsNqgEHMy0yLjctMbgBAcgBAPgBAZgCCKAC0TTCAgoQABiwAxjWBBhHwgIEECMYJ8ICBRAuGIAEwgIFEAAYgATCAgoQABiABBgKGMsBwgIIEAAYgAQYogSYAwCIBgGQBgq6BgYIARABGBSSBw0zLjMtMi43LTIuMC4xoAfnGg&sclient=gws-wiz-serp
+
+hintion - Google 搜索
+https://www.google.com.hk/search?q=hintion&rlz=1C1GCEA_enCN1091CN1091&oq=hintion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+提交 - NENUOJ
+http://39.101.69.154/submitpage.php?cid=1251&pid=6&sid=625329
+
+Convertio — 文件转换器
+https://convertio.co/zh/
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&newwindow=1&sca_esv=3b91e47ab754cb87&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJCGi_zzISmZ05QOw6AkEizJs-E0g%3A1733916023417&ei=d3VZZ7uXGYa4kPIP65uo8Qc&ved=0ahUKEwj7rpXFzJ-KAxUGHEQIHesNKn4Q4dUDCA8&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqDIHECMYsAMYJzIHECMYsAMYJzIHECMYsAMYJzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0ilDVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIXmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+Contest1251 - 24秋硕士算法课课后练习5 - NENUOJ
+http://39.101.69.154/contest.php?cid=1251
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+(4) 周杰倫 蒲公英的約定 伴奏 - YouTube
+https://www.youtube.com/watch?v=LlBaGST7xnY
+
+(4) 【Piano Cover】周杰倫 Jay Chou - 安靜/Silence｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=ti4GsaiePDI
+
+汉芯一号 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B1%89%E8%8A%AF%E4%B8%80%E5%8F%B7&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%B1%89%E8%8A%AF&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU4NDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+汉芯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B1%89%E8%8A%AF
+
+汉芯 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B1%89%E8%8A%AF
+
+国外短信收不到 - Google 搜索
+https://www.google.com.hk/search?q=%E5%9B%BD%E5%A4%96%E7%9F%AD%E4%BF%A1%E6%94%B6%E4%B8%8D%E5%88%B0&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%9B%BD%E5%A4%96%E7%9F%AD%E4%BF%A1%E6%94%B6%E4%B8%8D%E5%88%B0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU3NThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中国联通好像收不到国外的短信？ - V2EX
+https://v2ex.com/t/908969
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+digitial ocean学生 - Google 搜索
+https://www.google.com.hk/search?q=digitial+ocean%E5%AD%A6%E7%94%9F&rlz=1C1GCEA_enCN1091CN1091&oq=digitial+ocean%E5%AD%A6%E7%94%9F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQg3MDgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Digitalocean学生包激活仍需信用卡，任意信用卡都行吗？ - 开发调优 - LINUX DO
+https://linux.do/t/topic/97728/13
+
+申请信用卡需要什么条件 - Google 搜索
+https://www.google.com.hk/search?q=%E7%94%B3%E8%AF%B7%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%9D%A1%E4%BB%B6&newwindow=1&sca_esv=dfa970682d15eccc&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJa3rTMO3ROAiK2okNsavFp65mkHQ%3A1734142751062&ei=H-tcZ8i9A8LokPIPqZqTYQ&oq=%E7%94%B3%E8%AF%B7%E4%BF%A1%E7%94%A8%E5%8D%A1&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-eUs-ivt-S_oeeUqOWNoSoCCAAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI9A9QAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACCZgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&rlz=1C1GCEA_enCN1091CN1091&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgsIARBFGAwYOxiABDIJCAIQABgMGIAEMgkIAxAAGAwYgAQyCQgEEAAYDBiABDIJCAUQABgMGIAEMgYIBhBFGDwyBggHEEUYPNIBCDM2OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+卡辛斯基工业社会及其未来 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=48cf0eca814055db&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILkOB-K_Sah1trT8hw8RXCjtpVicQ:1734157421812&q=%E5%8D%A1%E8%BE%9B%E6%96%AF%E5%9F%BA%E5%B7%A5%E4%B8%9A%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E6%9C%AA%E6%9D%A5&sa=X&ved=2ahUKEwiIlvLoz6aKAxW4LEQIHVjOC4MQ1QJ6BAhAEAE&biw=1422&bih=659&dpr=1.35
+
+工业社会及其未来-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=57567161&keyword=%E5%B7%A5%E4%B8%9A%E7%A4%BE%E4%BC%9A%E5%8F%8A%E5%85%B6%E6%9C%AA%E6%9D%A5&from_source=video_tag
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+航空炸弹客 - Google 搜索
+https://www.google.com.hk/search?q=%E8%88%AA%E7%A9%BA%E7%82%B8%E5%BC%B9%E5%AE%A2&rlz=1C1GCEA_enCN1091CN1091&oq=%E8%88%AA%E7%A9%BA%E7%82%B8%E5%BC%B9%E5%AE%A2&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPNIBCDMwMDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+泰德·卡辛斯基 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E5%8D%A1%E8%BE%9B%E6%96%AF%E5%9F%BA
+
+裕仁天皇 - Google 搜索
+https://www.google.com.hk/search?q=%E8%A3%95%E4%BB%81%E5%A4%A9%E7%9A%87&rlz=1C1GCEA_enCN1091CN1091&oq=%E8%A3%95%E4%BB%81%E5%A4%A9%E7%9A%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+格洛腾迪克 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A0%BC%E6%B4%9B%E8%85%BE%E8%BF%AA%E5%85%8B&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%A0%BC%E6%B4%9B%E8%85%BE%E8%BF%AA%E5%85%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDk5NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Technological Slavery - Google 搜索
+https://www.google.com.hk/search?q=Technological+Slavery&rlz=1C1GCEA_enCN1091CN1091&oq=Technological+Slavery&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://filehelper.weixin.qq.com/
+
+Yjs CodeMirror Example
+http://192.168.43.246:3000/codemirror.next/codemirror.next.html
+
+(202) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
 [JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
 https://github.com/WebKit/WebKit/pull/37419
 
