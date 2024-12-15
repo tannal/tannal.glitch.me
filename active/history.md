@@ -1,4 +1,159 @@
 
+# 2024-12-15
+
+(202) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+[JSC] Implement `Array.prototype.toReversed` in C++ by sosukesuzuki · Pull Request #37419 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/37419
+
+284514 – ASSERTION FAILED: regs.contains(reg) in JSC::B3::Air::Code::pinRegister(JSC::Reg)
+https://bugs.webkit.org/show_bug.cgi?id=284514
+
+Element [19] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/$3jLBc5F6I-FIMm_uPCYYK0Bk38zSfN18IT_4zjckTgw
+
+gjs/tools/heapgraph.md at master · GNOME/gjs
+https://github.com/GNOME/gjs/blob/master/tools/heapgraph.md
+
+Compiler Explorer
+https://godbolt.org/
+
+The CSSWG adopted a new CSS form-sizing property - Geoff Graham
+https://geoffgraham.me/the-csswg-adopted-a-new-css-form-sizing-property/
+
+Element [1] | TC39 General
+https://app.element.io/#/room/#tc39-general:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+Reproducible Node.js built-in snapshots, part 2 - V8 code cache and snapshot blobs | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-2/
+
+Reproducible Node.js built-in snapshots, part 3 - fixing V8 startup snapshot | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-3/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+aimusicstudies2024 | The First International Conference in AI Music Studies 2024
+https://boblsturm.github.io/aimusicstudies2024/
+
+AI Music Studies Sessions 2024 - Google 文档
+https://docs.google.com/document/d/1ReNoykBSAJ4M84UuUfmxrDhVROTSj4FUwUwcg9NwV6M/edit?tab=t.0#heading=h.bou6zde6klgc
+
+AIMS 2024 Book of Abstracts - Google 文档
+https://docs.google.com/document/d/1tkwnypVQ6EKNPcQjAQrJ4J_a1v3Yqct1IJKHsMkbJUc/edit?tab=t.0#heading=h.ofrsef5xddux
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=It%20would%20be%20a%20terrible%20mistake%20to%20confine%20this%20subject%20to%20the%20backstage%20of%20science%2C%20to%20late-night%20conversations%20and%20the%20autobiographies%20of%20retired%20mathematicians.%20It%20would%20equally%20be%20a%20shame%20to%20exile%20it%20from%20the%20field%20of%20mathematics%20and%20make%20it%20the%20exclusive%20domain%20of%20neurology.%20Failing%20to%20place%20human%20understanding%20at%20the%20center%20of%20mathematics%20is%20failing%20to%20acknowledge%20the%20very%20nature%20of%20mathematics.%20Undoubtedly%20we%20did%20not%20have%2C%20until%20quite%20recently%2C%20the%20tools%20and%20the%20framework%20to%20approach%20the%20subject%20in%20a%20constructive%20manner.%20We%20were%20collectively%20trapped%20in%20fatalism%20and%20passivity%3A%20%E2%80%9CSome%20people%20in%20this%20world%20are%20incredibly%20brilliant%20at%20math%2C%20but%20it%E2%80%99s%20no%20use%20trying%20to%20figure%20out%20why%2C%20it%E2%80%99s%20simply%20a%20miracle%2C%20a%20gift%20from%20heaven.%20And%20too%20bad%20for%20those%20who%20can%E2%80%99t%20understand.%E2%80%9D%20This%20%E2%80%9Cnonserious%E2%80%9D%20but%20burning%20topic%20is%20the%20subject%20of%20this%20book.%20I%20have%20tried%20to%20approach%20it%20in%20my%20own%20way%2C%20starting%20from%20a%20simple%20premise%3A%20talking%20about%20math%20as%20I%20have%20experienced%20it%2C%20in%20the%20simplest%20way%20possible%2C%20examining%20what%20it%20really%20consists%20of%2C%20the%20things%20you%20do%20inside%20your%20head%2C%20and%20how%20to%20approach%20it%20concretely.%20If%20Hardy%20had%20known%20the%20right%20questions%20to%20ask%20Ramanujan%2C%20who%20knows%20what%20we%20might%20have%20learned%3F%20Fortunately%20we%20have%20the%20writings%20of%20Descartes%2C%20Grothendieck%2C%20Thurston%2C%20and%20of%20course%20Einstein.%20It%E2%80%99s%20hard%20to%20overestimate%20the%20value%20of%20these%20writings.%20Their%20most%20troubling%20message%2C%20the%20most%20powerful%20and%20subversive%2C%20is%20this%3A%20we%20construct%20our%20intelligence%20on%20our%20own%2C%20with%20ordinary%20human%20means%2C%20with%20our%20imagination%2C%20curiosity%2C%20and%20sincerity.%20Grothendieck%20wrote%3A%20%E2%80%9CThe%20man%20who%20first%20discovered%20and%20mastered%20fire%20was%20someone%20exactly%20like%20you%20or%20me.%20Not%20at%20all%20what%20you%E2%80%99d%20call%20a%20%E2%80%98hero%2C%E2%80%99%20or%20%E2%80%98demi-%20god%2C%E2%80%99%20or%20whatever.%E2%80%9D%20Descartes%20and%20Einstein%20said%20essentially%20the%20same%20thing%2C%20albeit%20in%20different%20words.%20We%20sliced%20their%20brains%20into%20sections%20and%20put%20their%20skulls%20into%20museums%E2%80%94%20but%20we%20refused%20to%20listen%20&op=translate
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+midi to abcnotations - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=midi+to+abcnotations
+
+midi2abc
+https://marmooo.github.io/midi2abc/
+
+尼安德特人 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA
+
+尼安德塔人 - 維基百科，自由的百科全書
+https://zh.wikipedia.org/zh-tw/%E5%B0%BC%E5%AE%89%E5%BE%B7%E7%89%B9%E4%BA%BA
+
+The Industrial Society and Its Future - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=The+Industrial+Society+and+Its+Future
+
+Industrial Society and Its Future.pdf
+https://web.cs.ucdavis.edu/~rogaway/classes/188/materials/Industrial%20Society%20and%20Its%20Future.pdf
+
+Theodore Kaczynsk - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Theodore+Kaczynsk
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=%20wrote%20this%20as%20a%20kind%20of%20handbook%2C%20something%20that%20I%20would%20have%20loved%20to%20have%20on%20my%20nightstand%20during%20my%20studies%20to%20guide%20me%2C%20to%20encourage%20me%2C%20to%20help%20overcome%20my%20inhibitions.%20I%20believe%20it%20would%20have%20helped%20me%20immensely.%20I%20hope%20it%20will%20help%20you.%20My%20ambition%20isn%E2%80%99t%20to%20make%20math%20easier.%20It%20never%20will%20be%2C%20not%20for%20anyone.%20It%E2%80%99s%20not%20math%E2%80%99s%20job%20to%20be%20easy.%20I%20simply%20want%20to%20make%20it%20more%20accessible%2C%20to%20allow%20those%20who%20want%20to%20explore%20it%20be%20able%20to%20do%20so%2C%20according%20to%20their%20desire%20and%20ambition.%20There%20will%20always%20be%20some%20people%20who%20are%20better%20at%20math%20than%20others%3A%20the%20visionaries%2C%20the%20passionate%2C%20the%20adventurous.%20But%20pretending%20that%20being%20good%20at%20math%20requires%20a%20special%20gift%20is%20a%20lie.%20Math%20belongs%20to%20all%20of%20us.%20There%E2%80%99s%20no%20reason%20to%20accept%20being%20petrified%20and%20giving%20up%2C%20neither%20for%20ourselves%20nor%20for%20others.%20One%20of%20the%20great%20lessons%20math%20has%20taught%20me%20is%20that%20it%E2%80%99s%20only%20by%20confronting%20head-on%20our%20impression%20of%20not%20understanding%20something%20that%20we%20have%20a%20chance%20to%20finally%20understand%20it.%20It%20seems%20that%20scrutinizing%20our%20own%20perplexity%20is%20the%20best%20way%20to%20mobilize%20our%20natural%20faculties%20for%20learning.%20This%20is%20precisely%20why%20math%20is%20difficult%3A%20it%20requires%20looking%20straight%20at%20what%20is%20beyond%20our%20comprehension.%20We%20must%20become%20genuinely%20interested%20in%20it.%20We%20must%20force%20ourselves%20to%20imagine%20it%20and%20put%20words%20to%20all%20our%20impressions%2C%20without%20being%20distracted%20by%20our%20constant%20feeling%20of%20inferiority.%20And%20we%20must%20do%20that%20precisely%20when%20our%20instinct%20tells%20us%20to%20run%20away%20as%20quickly%20as%20we%20can.%20For%20Descartes%2C%20math%20is%20the%20only%20place%20where%20one%20can%20fully%20experience%20what%20it%20means%20to%20understand%20something.%20&op=translate
+
+Mathematical Thinking Isn’t What You Think It Is | Quanta Magazine
+https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1870091 - Remove HTTP throttling v2 prefs (network.http.throttle.version 2)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1870091
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+Page not found | Department of Mathematics
+https://math.cornell.edu/People/Faculty/thurston.html
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=This%20is%20also%20what%20I%20personally%20get%20from%20math.%20Math%20has%20taught%20me%20to%20pay%20attention%20to%20that%20special%20taste%20in%20my%20mouth%2C%20this%20impression%20that%20something%E2%80%99s%20not%20quite%20right%20and%20doesn%E2%80%99t%20work%20like%20it%20should.%20It%20has%20taught%20me%20to%20recognize%20a%20novel%20idea%20when%20it%20still%20looks%20like%20nothing%2C%20to%20nurture%20it%20and%20pay%20close%20attention%2C%20so%20that%20it%20has%20a%20chance%20to%20grow.%20It%20has%20taught%20me%20to%20listen%20to%20my%20emotions.%20I%20know%20now%20that%20my%20candor%20and%20my%20sensitivity%20are%20my%20most%20powerful%20intellectual%20weapons.%20The%20mathematical%20approach%20is%20one%20of%20integrity%20and%20being%20in%20tune%20with%20oneself.%20Using%20this%20approach%2C%20I%20formed%20habits%20that%20I%E2%80%99ve%20kept%20to%20this%20day.%20I%20stopped%20believing%20that%20there%20were%20things%20that%20were%20counterintuitive%20by%20nature.%20The%20things%20we%E2%80%99re%20told%20are%20%E2%80%9Ccounterintuitive%E2%80%9D%20or%20%E2%80%9Cparadoxical%E2%80%9D%20are%20either%20false%20or%20poorly%20explained.%20No%20one%20is%20forcing%20us%20to%20live%20in%20a%20world%20that%20is%20indecipherable%20and%20incoherent.%20By%20adopting%20the%20right%20habits%20and%20developing%20our%20confidence%20in%20our%20ability%20to%20imagine%20and%20to%20formalize%2C%20we%20can%20continually%20grow%20our%20mental%20clarity.%20If%20we%20teach%20math%20to%20children%2C%20it%E2%80%99s%20not%20so%20much%20in%20order%20to%20teach%20them%20about%20numbers%20and%20shapes%20as%20to%20give%20them%20the%20chance%20to%20approach%20the%20world%20in%20this%20manner.%20Understanding%20things%20is%20one%20of%20the%20great%20pleasures%20in%20life.%20This%20pleasure%20is%20sometimes%20spoiled%20by%20a%20feeling%20of%20regret%20for%20lost%20time%3A%20How%20is%20it%20I%20was%20so%20stupid%20not%20to%20have%20understood%20this%20earlier%3F%20I%E2%80%99ve%20known%20this%20feeling%20for%20so%20long%20that%20I%20no%20longer%20pay%20any%20attention%20to%20it.%20As%20the%20saying%20goes%2C%20the%20best%20time%20to%20plant%20a%20tree%20was%20twenty%20years%20ago%3B%20the%20second%20best%20time%20is%20now.%20&op=translate
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=If%20you%20think%20you%E2%80%99re%20terrible%20at%20math%2C%20and%20this%20book%20makes%20you%20want%20to%20try%20again%2C%20keep%20this%20in%20mind%3A%20there%20are%20nice%20stories%20about%20climbing%20Mount%20Everest%2C%20some%20even%20read%20like%20novels%2C%20but%20nothing%20beats%20training.%20For%20beginners%2C%20the%20first%20few%20yards%20of%20the%20climb%20can%20be%20the%20hardest.%20My%20advice%20is%20to%20have%20no%20shame%20in%20starting%20at%20the%20beginning%2C%20with%20the%20most%20classical%20and%20elementary%20proofs.%20Since%20it%20won%E2%80%99t%20be%20easy%20for%20you%20to%20know%20if%20you%20really%20understand%20them%2C%20try%20explaining%20them%20to%20someone%20else%2C%20perhaps%20a%20child.%20When%20we%20try%20explaining%20things%20to%20others%2C%20we%20often%20realize%20that%20our%20own%20ideas%20aren%E2%80%99t%20as%20clear%20as%20we%20thought.%20It%E2%80%99s%20a%20painful%20and%20humiliating%20experience%2C%20but%20one%20that%20you%20can%20get%20over%2C%20and%20it%E2%80%99s%20precisely%20by%20getting%20over%20it%20that%20you%20get%20ahead%20in%20math.%20My%20only%20way%20of%20understanding%20things%20is%20to%20explain%20them%20to%20myself%2C%20in%20the%20simplest%20terms%20possible%2C%20as%20if%20I%20were%20a%20child.%20It%E2%80%99s%20the%20same%20principle%20that%20I%20used%20to%20write%20this%20book.%20In%20%E2%80%9COn%20Proof%20and%20Progress%20in%20Mathematics%2C%E2%80%9D%20Thurston%20gave%20this%20beautiful%20definition%3A%20%E2%80%9CMathematicians%20are%20those%20humans%20who%20advance%20human%20understanding%20of%20mathematics.%E2%80%9D%20That%E2%80%99s%20exactly%20what%20I%E2%80%99ve%20tried%20to%20do.%20&op=translate
+
+joyeecheung (Joyee Cheung)
+https://github.com/joyeecheung
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=occasionally&op=translate
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
 # 2024-12-14
 
 (198) Discord | #general | Typst
