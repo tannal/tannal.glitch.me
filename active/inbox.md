@@ -2,6 +2,14 @@
 # 2024-12-15
 
 
+
+中国作家张弛在狱中创作《狱中笔记》
+
+WebAssembly 作为补充而非替代
+TypeScript 继续流行但编译到 JS
+JS 本身不断进化改进
+混合开发模式：JS + WebAssembly
+
 # 2024-12-14
 
 git rebase -i HEAD~2
