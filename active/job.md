@@ -572,6 +572,13 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-16 - 2024-12-23 16
 
+[] qimiao kaijuan
+[] zhouzhiguo bijuan
+[] igalia no response
+[] lineblender & wasm & typst
+[] piano dl & machine music
+
+
 # 2024-12-9 - 2024-12-16 15
 
 [] qi mo kao shi & ke cheng zuo ye
@@ -579,7 +586,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [] Graphics & Layouting & Rendering -> WebPlatform -> Linebender
 [] AI & Geoff High Level -> TensorFlow & PyTorch & ONNX -> TFLite & PyTorch Mobile & ONNX Runtime
 [] WebAssembly & WebGPU & WebNN & WebML & WebXR & WebRTC & WebTransport & WebCodecs
-[] relax
+[x] relax
+
+[x] KTV in the afternoon 12-13 13:00 16:30
 
 # 2024-12-2 - 2024-12-9 14
 
