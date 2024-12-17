@@ -572,11 +572,12 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-16 - 2024-12-23 16
 
-[] qimiao kaijuan
+[x] qimiao kaijuan
 [] zhouzhiguo bijuan
 [] igalia no response
 [] lineblender & wasm & typst
 [] piano dl & machine music
+[] yuan dan wan hui
 
 
 # 2024-12-9 - 2024-12-16 15

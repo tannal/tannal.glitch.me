@@ -1,6 +1,13 @@
 
 # 2024-12-17
 
+从化学成像转向数字成像
+
+模型坐标 → 世界坐标 → 观察坐标 → NDC坐标 → 屏幕坐标
+(Model)   (World)    (View)     (NDC)     (Screen)
+
+3D世界坐标 → 相机坐标 → 投影到虚拟传感器 → 归一化设备坐标(NDC) → 屏幕坐标
+
 AI traning -> Algorithms data
 AI sevices -> Backend & Server
 AI User Experience -> Frontend & Client
