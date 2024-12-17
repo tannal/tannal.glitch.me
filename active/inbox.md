@@ -1,6 +1,44 @@
 
 # 2024-12-17
 
+AI traning -> Algorithms data
+AI sevices -> Backend & Server
+AI User Experience -> Frontend & Client
+
+high priority bug
+系统宕机、服务不可用
+严重的数据错误
+影响用户支付/交易的问题
+
+数据泄露
+安全漏洞
+异常访问
+
+影响重要客户使用
+影响大量用户的功能问题
+公共场合的明显错误
+
+违反法律法规的问题
+需要监管报告的问题
+可能造成处罚的问题
+
+
+low priority bug
+UI 改进建议
+非核心功能增强
+性能小幅提升
+
+个别用户的非关键问题
+可以绕过的问题
+有临时解决方案的问题
+
+新功能请求
+架构改进
+技术债务
+
+文档更新
+注释补充
+说明优化
 
 # 2024-12-16
 

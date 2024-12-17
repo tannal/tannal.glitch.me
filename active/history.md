@@ -1,6 +1,167 @@
 
 # 2024-12-17
 
+(206) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/
+
+rendering (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGHQC6BK7
+
+Rendering Core
+https://www.chromium.org/teams/rendering/
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+9610626.PDF
+https://repository.rice.edu/server/api/core/bitstreams/c5ea1ab7-e6c6-41e7-8e06-3cd5b80aeccd/content
+
+PitchDetector Android github - Google 搜索
+https://www.google.com.hk/search?q=PitchDetector+Android+github&newwindow=1&client=ubuntu-sn&hs=PKF&sca_esv=41e1805164364b40&channel=fs&ei=vu1eZ8iYMbSgur8Pl7iH2Qw&ved=0ahUKEwjI79L5g6qKAxU0kO4BHRfcIcsQ4dUDCA8&uact=5&oq=PitchDetector+Android+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiHFBpdGNoRGV0ZWN0b3IgQW5kcm9pZCBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI1BZQ9QhYvBVwAXgBkAEAmAHMBKAB9hGqAQM1LTS4AQPIAQD4AQGYAgGgAgWYAwCIBgGQBgOSBwExoAecCQ&sclient=gws-wiz-serp
+
+mikkipastel (Monthira Chayabanjonglerd)
+https://github.com/mikkipastel
+
+N2K Networks - YouTube
+https://www.youtube.com/@n2kcyber/videos
+
+end to end system design - Google 搜索
+https://www.google.com.hk/search?q=end+to+end+system+design&newwindow=1&client=ubuntu-sn&hs=aJk&sca_esv=82b59f373f6483bb&channel=fs&ei=tohfZ5LsLe-7kPIPk_XCqQw&ved=0ahUKEwiSn9rel6uKAxXvHUQIHZO6MMUQ4dUDCA8&uact=5&oq=end+to+end+system+des&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWVuZCB0byBlbmQgc3lzdGVtIGRlczIHEAAYgAQYEzIIEAAYExgIGB4yCBAAGBMYCBgeMggQABgTGAgYHjIIEAAYExgIGB4yCBAAGBMYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEi1DlC3AljqB3ABeAGQAQCYAYkHoAHhF6oBBTUtMi4yuAEDyAEA-AEBmAIFoAL-F8ICChAAGLADGNYEGEfCAgoQABiABBhDGIoFwgIEEAAYHsICBhAAGAoYHsICBhAAGAgYHsICBhAAGBMYHpgDAIgGAZAGCpIHBzEuNS0yLjKgB_QQ&sclient=gws-wiz-serp
+
+endtoend.pdf
+https://web.mit.edu/saltzer/www/publications/endtoend/endtoend.pdf
+
+A Portable Machine-Independent Global Optimizer—Design and Measurements - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=A+Portable+Machine-Independent+Global+Optimizer%E2%80%94Design+and+Measurements
+
+Chow_-_A_Portable_Machine-Independent_Global_Optimizer_1984.pdf
+https://bitsavers.trailing-edge.com/pdf/llnl/s1/Chow_-_A_Portable_Machine-Independent_Global_Optimizer_1984.pdf
+
+A Mathematical Theory of Communication - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=A+Mathematical+Theory+of+Communication
+
+shannon1948.dvi - entropy.pdf
+https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+
+bert - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=bert
+
+attension is all you need - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=attension+is+all+you+need
+
+Discover — Bluesky
+https://bsky.app/
+
+Simple/chapter01/README.md at main · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/blob/main/chapter01/README.md
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1007.0.0
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345#8035890
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764#8035887
+
+mThrottleReadLimit - mozsearch
+https://searchfox.org/mozilla-central/search?path=&q=mThrottleReadLimit
+
+1935672 - incomplete time input value returns empty string since 133.0
+https://bugzilla.mozilla.org/show_bug.cgi?id=1935672
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+⚙ D231764 Bug 1870091 - Remove HTTP throttling v2 prefs. r?sekim
+https://phabricator.services.mozilla.com/D231764
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+sphaerophoria/sphimp
+https://github.com/sphaerophoria/sphimp
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class4
+
+Aegean: Replication beyond the client-server model-0.2cm - aegean-sosp19.pdf
+https://web.eecs.umich.edu/~manosk/assets/papers/aegean-sosp19.pdf
+
+18-845: Internet Services - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=18-845%3A+Internet+Services
+
+Network Programming with Go - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Network+Programming+with+Go
+
+我怀念的 - Google 搜索
+https://www.google.com.hk/search?q=%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84&newwindow=1&client=ubuntu-sn&hs=R2v&sca_esv=d4a5450862dcd9df&channel=fs&biw=1850&bih=968&ei=vjhgZ7q-N46-kPIPovjp0Ag&ved=0ahUKEwi6lfzOv6yKAxUOH0QIHSJ8GooQ4dUDCA8&uact=5&oq=%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOaIkeaAgOW_teeahDIIEAAYsAMY7wUyCBAAGLADGO8FMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCBAAGLADGO8FSMMXUMoLWP8VcAJ4AJABAJgByQSgAaMeqgEDNS03uAEDyAEA-AEBmAICoAIDmAMAiAYBkAYFkgcBMqAHnxU&sclient=gws-wiz-serp
+
+孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV) - YouTube
+https://www.youtube.com/watch?v=3Xj6QoLmoF0
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+ziglang/zig: General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+https://github.com/ziglang/zig
+
+Let's build GPT: from scratch, in code, spelled out. - YouTube
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+fix bug due to bf16 adamw mv · karpathy/llm.c@2c5ced6
+https://github.com/karpathy/llm.c/commit/2c5ced6a77fe820a25c58c82a6ad1fe724e86923
+
+karpathy/ng-video-lecture
+https://github.com/karpathy/ng-video-lecture
+
+sphaerophoria
+https://github.com/sphaerophoria
 
 # 2024-12-16
 
