@@ -1,5 +1,80 @@
 
 
+[1]: https://github.com/facebookresearch/audiocraft/blob/main/dataset/example/electro_1.mp3
+[2]: https://ai.honu.io/papers/musicgen/
+[3]: Andrea Agostinelli, Timo I Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam
+Roberts, Marco Tagliasacchi, et al. Musiclm: Generating music from text. arXiv preprint arXiv:2301.11325, 2023.
+[4]: S Forsgren and H Martiros. Riffusion-stable diffusion for real-time music generation. 2022. URL: https://riffusion.com/about.
+[5]: Flavio Schneider, Zhijing Jin, and Bernhard Schölkopf. Moûsai: Text-to-music generation with long-context latent diffusion. arXiv
+preprint arXiv:2301.11757, 2023.
+[6]: Alexandre Défossez, Jade Copet, Gabriel Synnaeve, and Yossi Adi. High fidelity neural audio compression. arXiv preprint
+arXiv:2210.13438, 2022.
+[7]: J. Copet, F. Kreuk, I. Gat, T. Remez, D. Kant, G. Synnaeve, Y. Adi, and A. Défossez. Simple and controllable music generation. arXiv
+preprint arXiv:2306.05284, 2023.
+[8]: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Ł ukasz Kaiser, and Illia Polosukhin.
+Attention is all you need. In I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, edi- tors,
+Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017. URL
+https://proceedings.neurips.cc/paper_files/paper/2017/file/ 3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf.
+[9]: https://towardsdatascience.com/how-metas-ai-generates-music-based-on-a-reference-melody-de34acd783
+[10]: Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). Audioldm: Text-to-audio generation with latent
+diffusion models. arXiv preprint arXiv:2301.12503.
+[11]: https://www.stableaudio.com
+[12]: https://www.suno.ai
+[13]: Lam, M. W., Tian, Q., Li, T., Yin, Z., Feng, S., Tu, M., ... & Wang, Y. (2024). Efficient neural music generation. Advances in Neural
+Information Processing Systems, 36.
+[14]: https://drscotthawley.github.io/blog/posts/2023-06-12-RVQ.html
+
+1.相对位置编码
+# 不是简单的位置编码
+position = sin(pos/10000^(2i/d))  # 传统Transformer
+
+2. 音程感知层
+# 而是基于音高差的编码
+pitch_diff = note[t] - note[t-1]  # 相邻音符的音高差
+relative_encoding = encode(pitch_diff)  # 编码音高差
+
+3. 和声约束
+class IntervalLayer(nn.Module):
+    def forward(self, x):
+        # 计算相邻音符的音程关系
+        intervals = x[:, 1:] - x[:, :-1]
+        # 可以加入音程分类（如大三度、纯五度等）
+        interval_type = classify_interval(intervals)
+        return interval_type
+
+        def harmony_loss(pred_notes):
+            # 计算和声张力
+            chord = extract_chord(pred_notes)
+            tension = compute_tension(chord)
+
+            # 和声进行约束
+            progression = chord_progression(chord)
+            return tension_loss + progression_loss
+
+4. 多尺度生成
+class MelodyGenerator:
+    def generate(self):
+        # 1. 先生成骨干音符
+        skeleton = generate_skeleton()
+
+        # 2. 基于音程填充细节
+        details = fill_by_intervals(skeleton)
+
+        # 3. 添加装饰音
+        melody = add_ornaments(details)
+
+        return melody
+
+5. 调性感知注意力
+class TonalityAttention(nn.Module):
+    def forward(self, q, k, v):
+        # 计算调性相关度
+        tonality_scores = compute_tonality_relation(q, k)
+
+        # 结合传统注意力和调性约束
+        attention = softmax(tonality_scores @ standard_attention)
+        return attention @ v
+
 https://web.stanford.edu/~jurafsky/slp3/
 https://llmsystem.github.io/llmsystem2024spring/docs/Syllabus
 https://cmu-llms.org/schedule/
