@@ -1,6 +1,135 @@
 
 # 2024-12-17
 
+(207) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+jrihon/thesis: My doctoral thesis !
+https://github.com/jrihon/thesis
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org/
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/
+
+rendering-paint (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGG81K8CC
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Canvas team OKRs
+https://www.chromium.org/teams/paint-team/canvas-okrs/
+
+The Future of Math with o1 Reasoning with Terence Tao, Mark Chen, and James Donovan - YouTube
+https://www.youtube.com/watch?v=Zu2oET6Xjow
+
+Computer Graphics : Fall 2024
+http://15362.courses.cs.cmu.edu/fall2024/
+
+Slide View : Computer Graphics : 15-462/662 Fall 2015
+http://15462.courses.cs.cmu.edu/fall2015/lecture/triangle/slide_002
+
+Slide View : Computer Graphics : 15-462/662 Fall 2015
+http://15462.courses.cs.cmu.edu/fall2015/lecture/introduction/slide_018
+
+Tips for Making Good Lecture Comments : Computer Graphics : 15-462/662 Fall 2015
+http://15462.courses.cs.cmu.edu/fall2015/article/1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+normalized device coordinate - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=normalized+device+coordinate
+
+Sketchpad - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Sketchpad
+
+OverviewConformalGeometryProcessing.pdf
+https://www.cs.cmu.edu/~kmcrane/Projects/Other/OverviewConformalGeometryProcessing.pdf
+
+ssloy/tinyrenderer: A brief computer graphics / rendering course
+https://github.com/ssloy/tinyrenderer
+
+llmsys-09-transformer-acc - llmsys-09-transformer-acc-64cc3b2a16cde051f7dd387b489b1d8e.pdf
+https://llmsystem.github.io/llmsystem2024spring/assets/files/llmsys-09-transformer-acc-64cc3b2a16cde051f7dd387b489b1d8e.pdf
+
+lightseq/examples/inference/python at master · bytedance/lightseq
+https://github.com/bytedance/lightseq/tree/master/examples/inference/python
+
+11868 pre: Flamingo - Group-Flamingo-98ae9c68fca94cd437716229a2cf42c1.pdf
+https://llmsystem.github.io/llmsystem2024spring/assets/files/Group-Flamingo-98ae9c68fca94cd437716229a2cf42c1.pdf
+
+llm cmu - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=llm+cmu
+
+Schedule - Large Language Models: Methods and Applications / Fall 2024
+https://cmu-llms.org/schedule/
+
+transformer stanford - Google 搜索
+https://www.google.com/search?q=transformer++stanford&client=ubuntu-sn&hs=qCD&sca_esv=9931d7f4e0845048&channel=fs&sxsrf=ADLYWIKCtIv7Y-98CUB78JMjUz3cOh5thA%3A1734425217829&ei=gTphZ9CtMu-Ni-gPz4nu2Qk&ved=0ahUKEwiQ8v23ta6KAxXvxgIHHc-EO5sQ4dUDCBA&uact=5&oq=transformer++stanford&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXRyYW5zZm9ybWVyICBzdGFuZm9yZDIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMggQABiABBjLATIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5IjTJQgRtYiy5wA3gCkAEAmAGbA6ABliiqAQYzLTEzLjG4AQPIAQD4AQGYAgagAoAGwgIEEAAYR8ICChAAGLADGNYEGEeYAwCIBgGQBgqSBwU0LjMtMqAHtEU&sclient=gws-wiz-serp
+
+Speech and Language Processing
+https://web.stanford.edu/~jurafsky/slp3/
+
+ed3bookaug20_2024.pdf
+https://web.stanford.edu/~jurafsky/slp3/ed3bookaug20_2024.pdf
+
+Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2024. All rights reserved. Draft of August 20, 2024 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Speech+and+Language+Processing.+Daniel+Jurafsky+%26+James+H.+Martin.+Copyright+%C2%A9+2024.+All+rights+reserved.+Draft+of+August+20%2C+2024
+
+Seminar in Deep Neural Networks (FS 2024) - DISCO
+https://disco.ethz.ch/courses/seminar/
+
+27_02_audio.pdf
+https://disco.ethz.ch/courses/seminar/talks/27_02_audio.pdf
+
+音程 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%9F%B3%E7%A8%8B
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/#chromium
+
+Authorized GitHub Apps
+https://github.com/settings/apps/authorizations
+
+jackyzha0/quartz: 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+https://github.com/jackyzha0/quartz
+
 (206) Discord | #linux | Zed Community
 https://discord.com/channels/869392257814519848/1204679850208657418
 
