@@ -1,5 +1,34 @@
 
 
+https://web.stanford.edu/~jurafsky/slp3/
+https://llmsystem.github.io/llmsystem2024spring/docs/Syllabus
+https://cmu-llms.org/schedule/
+
+自动微分引擎实现
+Adam, AdamW 优化器
+Dropout 实现
+基础神经网络训练
+
+卷积网络的自动微分
+Dropout2d 实现
+BatchNorm2d 实现
+ResNet 架构实现
+图像相关任务
+
+RNN/LSTM 实现
+序列处理
+时间序列预测
+
+语言建模 (HW4P1)
+注意力机制
+编码器-解码器架构
+自动语音识别 (HW4P2)
+
+计算机视觉
+自然语言处理
+语音识别
+序列建模
+
 AI大模型目前的竞争主要集中在以下几个方面：
 
 1. 核心能力竞争

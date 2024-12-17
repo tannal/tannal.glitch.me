@@ -1,6 +1,28 @@
 
 # 2024-12-17
 
+CMU自己的项目：
+
+CMU Graphics 15-462
+
+这是官方的框架，包含了四个作业
+其他优秀的学习资源：
+TinyRenderer
+软件光栅化器的简单实现
+Ray Tracing in One Weekend
+经典的光线追踪入门教程
+OpenMesh
+专业的网格处理库
+pbrt-v4
+专业级物理渲染器
+
+./build/tinyrenderer ./obj/diablo3_pose/diablo3_pose.obj ./obj/floor.obj
+
+Rasterizer（光栅化器）
+MeshEdit（网格编辑）
+PathTracer（路径追踪）
+Animation（动画）
+
 从化学成像转向数字成像
 
 模型坐标 → 世界坐标 → 观察坐标 → NDC坐标 → 屏幕坐标
