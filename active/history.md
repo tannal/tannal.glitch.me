@@ -1,7 +1,62 @@
 
+# 2024-12-17
+
+
 # 2024-12-16
 
-布麦热亚姆是维吾尔族的一种传统舞蹈。
+判断 - Poe
+https://poe.com/chat/2z8zgqsl9eqz551zy7j
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits/master/
+
+(1) 我怀念的 孙燕姿 - YouTube
+https://www.youtube.com/results?search_query=%E6%88%91%E6%80%80%E5%BF%B5%E7%9A%84+%E5%AD%99%E7%87%95%E5%A7%BF
+
+美联储议息会议时间表_会议纪要_美联储 主席_美联储(FED)-汇通网
+https://bank.fx678.com/FED
+
+Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#reload:352601596739
+
+Office Hours 2024-12-12 - Google 文档
+https://docs.google.com/document/d/1k6tDiS8-5hiwQetk5BSCgYFvq2NnODUWIt8UeLcnSBs/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Linebender
+https://github.com/linebender
+
+Image x/y extend, alpha, nearest neighbor sampling by dfrg · Pull Request #766 · linebender/vello
+https://github.com/linebender/vello/pull/766
+
+uk time now - Google 搜索
+https://www.google.com.hk/search?q=uk+time+now&rlz=1C1GCEA_enJP1090JP1090&oq=uk+time+now&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=I%20think%20Winit%20people%20will%20accept%20a%20PR%20without%20any%20convincing%2C%20it%27s%20just%20a%20manpower%20issue.&op=translate
+
+11 月cpi - Google 搜索
+https://www.google.com.hk/search?q=11+%E6%9C%88cpi&newwindow=1&sca_esv=87ab822241439fb3&rlz=1C1GCEA_enJP1090JP1090&ei=ixVcZ4X5MN7mkPIP8Izq2QU&ved=0ahUKEwjF6pG-zaSKAxVeM0QIHXCGOlsQ4dUDCBA&uact=5&oq=11+%E6%9C%88cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCTExIOaciGNwaTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgARIiSFQvQRY8h9wA3gCkAEBmAH9BKABhhiqAQM1LTW4AQPIAQD4AQGYAgWgArcEqAIJwgIEEAAYR8ICHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBwgIaEAAYgAQYtAIY5QIYtwMYigUY6gIYigPYAQGYAwLxBcR1nsJBJ-oriAYBkAYKugYECAEYB5IHBTQuNC0xoAfGDQ&sclient=gws-wiz-serp
+
+2024年11月份居民消费价格同比上涨0.2% - 国家统计局
+https://www.stats.gov.cn/sj/zxfb/202412/t20241209_1957689.html
+
+v2ex - Google 搜索
+https://www.google.com.hk/search?q=v2ex&rlz=1C1GCEA_enJP1090JP1090&oq=v2ex&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxOTk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+V2EX
+https://www.v2ex.com/
+
+site:v2ex.com/t cpi - Google 搜索
+https://www.google.com.hk/search?q=site:v2ex.com/t+cpi&newwindow=1&sca_esv=87ab822241439fb3&ei=_xxgZ9axOOPQkPIP4IbVcA&start=10&sa=N&sstk=ATObxK7lt23XnIeCeVI7GGLBEzPPnBV1JYo1nM91rMIplD6r9xdWjfcObm_D-81O_QZMBJjTwORUg6SGYL09XHz_cIE6XQVODfM3Bg&ved=2ahUKEwiWrYCUpayKAxVjKEQIHWBDFQ4Q8tMDegQIIRAE&biw=1536&bih=703&dpr=1.25
+
+2024 年 12 月了，一年又见底了，大家都过得怎样呢？ - V2EX
+https://www.v2ex.com/t/1094197#reply203
+
+携百万资金，再次梭哈娜娜 - V2EX
+https://www.v2ex.com/t/1064910
+
+今天中概股大涨，牛市来了吗？ - V2EX
+https://www.v2ex.com/t/1075544
 
 # 2024-12-15
 
