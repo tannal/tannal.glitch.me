@@ -1,5 +1,22 @@
 
+# 2024-12-18
+
+bring people together in the special interests that they have
+
+等比例字体：Arial, Times New Roman, Helvetica
+用于网页内容、书籍、杂志等
+更容易阅读大段文字
+更美观
+等宽字体：Consolas, Courier New, Monaco
+用于编程
+代码对齐
+便于识别格式和结构
+
 # 2024-12-17
+
+
+communication
+ration -> televisions
 
 CMU自己的项目：
 
