@@ -1,6 +1,12 @@
 
 # waiting for me to reading
 
+AlphaGo - The Movie | Full award-winning documentary
+https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1271s
+
+Steve Jobs talk at the 1983 International Design Conference in Aspen
+https://www.youtube.com/watch?v=yHB_5WmRbho
+
 crafting interpreters
 https://craftinginterpreters.com/evaluating-expressions.html
 

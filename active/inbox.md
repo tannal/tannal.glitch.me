@@ -1,6 +1,19 @@
 
 # 2024-12-18
 
+
+We hire people from other companys.
+The reason they come to apple is because they know what to do and the commany they are working for are not willing to take the rist to do it.
+In Apple(startup), you just do it and no need to convince anyone.
+
+音频：时间域采样
+视频：时空域采样
+图形：空间采样（光栅化）
+触摸屏：空间+压力采样
+传感器：物理量采样
+
+three / four layer
+
 bring people together in the special interests that they have
 
 等比例字体：Arial, Times New Roman, Helvetica
