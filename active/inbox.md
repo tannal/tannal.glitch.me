@@ -1,13 +1,9 @@
 
 # 2024-12-19
 
-
-
 proleptic-Gregorian 历法系统
 
 # 2024-12-18
-
-
 
 We hire people from other companys.
 The reason they come to apple is because they know what to do and the commany they are working for are not willing to take the rist to do it.
