@@ -1,6 +1,119 @@
 
 # 2024-12-19
 
+(227) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Element * | TC39 General
+https://app.element.io/#/room/#tc39-general:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/#syntax_features
+
+* rendering-compositing (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGCS9PL0Y
+
+CSS highlight painting: paint originating and highlight decorations (3538562) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3538562
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 1 - Overview and Node.js fixes | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-1/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Add support for nested CSS · Issue #9 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/issues/9
+
+Yjs CodeMirror Example
+http://192.168.43.246:3000/codemirror.next/codemirror.next.html
+
+AlphaGo - The Movie | Full award-winning documentary - YouTube
+https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1271s
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+International Design Conference in Aspen youtube - Google 搜索
+https://www.google.com/search?q=International+Design+Conference+in+Aspen+youtube&client=ubuntu-sn&hs=kSX&sca_esv=664a1b17173617b9&channel=fs&sxsrf=ADLYWIKL7F2Ti3fGkaheXMY6W1NRXch2Pw%3A1734503082015&ei=qmpiZ6ZJ9IqL6A_A-9KBAw&ved=0ahUKEwimxsLA17CKAxV0xQIHHcC9NDAQ4dUDCBA&uact=5&oq=International+Design+Conference+in+Aspen+youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiMEludGVybmF0aW9uYWwgRGVzaWduIENvbmZlcmVuY2UgaW4gQXNwZW4geW91dHViZTIJEAAYsAMYBxgeMgkQABiwAxgHGB4yCRAAGLADGAcYHjIIEAAYgAQYsAMyCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBEiMEFClB1idD3ABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgKYAwCIBgGQBgaSBwExoAcA&sclient=gws-wiz-serp
+
+Let's build GPT: from scratch, in code, spelled out. - YouTube
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1935672 - incomplete time input value returns empty string since 133.0
+https://bugzilla.mozilla.org/show_bug.cgi?id=1935672
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+EventTarget: addEventListener() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#proleptic-gregorian-date
+
+flutter/packages/flutter/lib/src/material/date.dart at f0bf49559444e3ee66d9d208d4b25ec2d442b8e6 · flutter/flutter
+https://github.com/flutter/flutter/blob/f0bf49559444e3ee66d9d208d4b25ec2d442b8e6/packages/flutter/lib/src/material/date.dart#L132
+
+codemirror/dev: Development repository for the CodeMirror editor project
+https://github.com/codemirror/dev/tree/main
+
+192.168.43.246:3000/
+http://192.168.43.246:3000/
+
+1412.6596v3.pdf
+https://arxiv.org/pdf/1412.6596
+
+Learning with Noisy Labels - NIPS-2013-learning-with-noisy-labels-Paper.pdf
+https://proceedings.neurips.cc/paper_files/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf
+
+[1412.6596] Training Deep Neural Networks on Noisy Labels with Bootstrapping
+https://arxiv.org/abs/1412.6596
+
+tannal (tannal)
+https://github.com/tannal/
 
 # 2024-12-18
 
