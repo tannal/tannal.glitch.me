@@ -1,7 +1,20 @@
 
+# 2024-12-20
+
+
+
 # 2024-12-19
 
+
 proleptic-Gregorian 历法系统
+
+https://github.com/IraKorshunova/folk-rnn/blob/bc45ed73e7cb949940277b9bc5a8597c94f0dc99/train_rnn.py#L149
+
+https://github.com/schlagercollin/meta-learning-music/blob/49f89762e8a52c741ac550962f87101d18f2159a/train_maml.py#L208
+
+https://github.com/yinoue93/CS224N_proj/blob/93ae286cce19e8966f7b3e2e8e97096e6a1f432a/models.py#L105
+
+https://tik-db.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
 
 # 2024-12-18
 
