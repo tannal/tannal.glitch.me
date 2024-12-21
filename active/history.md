@@ -1,6 +1,147 @@
 
 # 2024-12-21
 
+(245) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [17] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+Iterator Sequencing · Issue #1133 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1133
+
+⚙ D229014 Bug 1931350: Add initial implementation for the Iterator Sequencing proposal. r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D229014
+
+Element * | TC39 Delegates
+https://app.element.io/#/room/#tc39-delegates:matrix.org
+
+State of JavaScript 2024: Front-end Frameworks
+https://state-of-js-2024.onrender.com/en-US/libraries/front-end-frameworks/#front_end_frameworks_pain_points
+
+TC39 - Specifying JavaScript
+https://es.discourse.group/
+
+rendering-compositing (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGCS9PL0Y
+
+…/ng_text_fragment_painter.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3538562/24/third_party/blink/renderer/core/paint/ng/ng_text_fragment_painter.cc#318
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions#tools
+
+joyeecheung/talks: Slides for my talks
+https://github.com/joyeecheung/talks
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D232786 WIP: Bug 1935672 - Fix a potential race condition in the blur event r?emilio
+https://phabricator.services.mozilla.com/D232786
+
+⚙ D225012 Bug 1918521 - Remove SetInputValueFromFields when handlekeydown in datetimebox. r?emilio
+https://phabricator.services.mozilla.com/D225012#change-FRxMVee1Qu0J
+
+Speed up stroke expansion · Issue #317 · linebender/kurbo
+https://github.com/linebender/kurbo/issues/317
+
+(1911) #chatter > Slang now under Khronos - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/147932-chatter/topic/Slang.20now.20under.20Khronos
+
+Event.eventPhase - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase
+
+DateTimeBoxWidget.mozSystemGroup (datetimebox.js - mozsearch)
+https://searchfox.org/mozilla-central/source/toolkit/content/widgets/datetimebox.js#303
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+YouTube
+https://www.youtube.com/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Ted Kaczynski - Wikiwand
+https://www.wikiwand.com/en/articles/Ted_Kaczynski#/Other
+
+Theodore_John_Kaczynski_-_Boundary_functions_(1967).pdf
+https://upload.wikimedia.org/wikipedia/commons/b/bd/Theodore_John_Kaczynski_-_Boundary_functions_%281967%29.pdf
+
+Why the Future Doesn't Need Us - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Why+the+Future+Doesn%27t+Need+Us
+
+Wired 8.04: Why the future doesn't need us. - Joy - Why the Future Doesn't Need Us.pdf
+https://sites.cc.gatech.edu/computing/nano/documents/Joy%20-%20Why%20the%20Future%20Doesn%27t%20Need%20Us.pdf
+
+David Skrbina - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=David+Skrbina
+
+緝凶：飛機炸彈客 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%B7%9D%E5%87%B6%EF%BC%9A%E9%A3%9B%E6%A9%9F%E7%82%B8%E5%BD%88%E5%AE%A2
+
+盧德運動 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%9B%A7%E5%BE%B7%E9%81%8B%E5%8B%95
+
+泰德·卡辛斯基 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%BE%B7%C2%B7%E5%8D%A1%E8%BE%9B%E6%96%AF%E5%9F%BA
+
+Manhunt - Unabomber - Se1 - Ep04 - UNABOM HD Watch - Google 搜索
+https://www.google.com/search?q=Manhunt+-+Unabomber+-+Se1+-+Ep04+-+UNABOM+HD+Watch&client=ubuntu-sn&sca_esv=068d2c6be4a01bb2&channel=fs&sxsrf=ADLYWILWkDBLA_jH2OKweZcy8RhUCuoWCg%3A1734770012468&ei=XH1mZ7KdHJaI9u8P7KaViQw&ved=0ahUKEwiyu_DyubiKAxUWhP0HHWxTJcEQ4dUDCBA&uact=5&oq=Manhunt+-+Unabomber+-+Se1+-+Ep04+-+UNABOM+HD+Watch&gs_lp=Egxnd3Mtd2l6LXNlcnAiMk1hbmh1bnQgLSBVbmFib21iZXIgLSBTZTEgLSBFcDA0IC0gVU5BQk9NIEhEIFdhdGNoMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSKwJUIoIWIoIcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACC5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Manhunt - Unabomber - Se1 - Ep01 - UNABOM HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebpog
+
+Manhunt - Unabomber - Se1 - Ep02 - Pure Wudder HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebprg
+
+Manhunt - Unabomber - Se1 - Ep03 - Fruit Of The Poisonous Tree HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebpsf
+
+Manhunt - Unabomber - Se1 - Ep04 - Publish or Parish HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8eg22z
+
+追缉：炸弹客_百度百科
+https://baike.baidu.com/item/%E8%BF%BD%E7%BC%89%EF%BC%9A%E7%82%B8%E5%BC%B9%E5%AE%A2/22104772
+
+今年最惊喜黑马剧：天才对决，够刺激_百科TA说
+https://baike.baidu.com/tashuo/browse/content?id=fbf08c2df33c3e1250d02bea&fromModule=tashuo-article_tashuo-tab-item
+
+nuvia - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=nuvia
+
+Gerard Williams III | Golden
+https://golden.com/wiki/Gerard_Williams_III-RJVN66
+
+John Bruno (special effects) - Wikipedia
+https://en.wikipedia.org/wiki/John_Bruno_(special_effects)
+
 (242) Discord | #linux | Zed Community
 https://discord.com/channels/869392257814519848/1204679850208657418
 
