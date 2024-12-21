@@ -1,6 +1,10 @@
 
 # 2024-12-21
 
+Qualcomm
+Apple
+Gerard Williams III
+
 // Vello 的优点
 - 支持 GPU 加速的 2D 图形渲染
 - 可以动态渲染可变字体，无需字形缓存
