@@ -1,4 +1,141 @@
 
+# 2024-12-21
+
+(242) Discord | #linux | Zed Community
+https://discord.com/channels/869392257814519848/1204679850208657418
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [20] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
+Iterator Sequencing · Issue #1133 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1133
+
+⚙ D229014 Bug 1931350: Add initial implementation for the Iterator Sequencing proposal. r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D229014
+
+Element * | TC39 General
+https://app.element.io/#/room/#tc39-general:matrix.org
+
+State of JavaScript 2024: Features
+https://state-of-js-2024.onrender.com/en-US/features/#browser_api_features
+
+TC39 - Specifying JavaScript
+https://es.discourse.group/
+
+rendering-compositing (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGCS9PL0Y
+
+CSS highlight painting: paint originating and highlight decorations (3538562) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3538562
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+About Me | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/about/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Regular expressions - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+joyeecheung/talks: Slides for my talks
+https://github.com/joyeecheung/talks
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+music21 Documentation — music21 Documentation
+https://www.music21.org/music21docs/
+
+meta-learning-music/models/simple_transformer.py at 49f89762e8a52c741ac550962f87101d18f2159a · schlagercollin/meta-learning-music
+https://github.com/schlagercollin/meta-learning-music/blob/49f89762e8a52c741ac550962f87101d18f2159a/models/simple_transformer.py
+
+Code search results
+https://github.com/search?q=repo%3Aluggroo%2F230-melody-to-chords%20loss&type=code
+
+CS224N_proj/models.py at 93ae286cce19e8966f7b3e2e8e97096e6a1f432a · yinoue93/CS224N_proj
+https://github.com/yinoue93/CS224N_proj/blob/93ae286cce19e8966f7b3e2e8e97096e6a1f432a/models.py#L105
+
+call of silence - Google 搜索
+https://www.google.com/search?q=call+of+silence&client=ubuntu-sn&hs=apB&sca_esv=a9494f1037489592&channel=fs&sxsrf=ADLYWIKFgmojOvmJtqj8gvdXd4Jwqxqtaw:1734658251101&lr=lang_zh-CN&sa=X&ved=2ahUKEwjP_fPGmbWKAxUog_0HHe1qPfIQuAF6BAgLEAE&biw=1850&bih=968&dpr=1
+
+folk-rnn/train_rnn.py at bc45ed73e7cb949940277b9bc5a8597c94f0dc99 · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/blob/bc45ed73e7cb949940277b9bc5a8597c94f0dc99/train_rnn.py#L149
+
+Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
+https://tik-db.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Transfer___ECML_MML_Workshop_CR.pdf
+
+27_02_audio.pdf
+https://disco.ethz.ch/courses/seminar/talks/27_02_audio.pdf
+
+Code search results
+https://github.com/search?q=repo%3Afacebookresearch%2Faudiocraft%20SpectralConvergenceLoss&type=code
+
+Seminar in Deep Neural Networks (FS 2024) - DISCO
+https://disco.ethz.ch/courses/seminar/
+
+12_03_audioldm.pdf
+https://disco.ethz.ch/courses/seminar/talks/12_03_audioldm.pdf
+
+figma - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=figma+
+
+Inside Figma: Go Behind the Scenes | Figma Blog
+https://www.figma.com/blog/inside-figma/
+
+Figma Blog | Shortcut
+https://www.figma.com/blog/
+
+how plugin runs site:figma.com/blog - Google 搜索
+https://www.google.com/search?q=how+plugin+runs+site%3Afigma.com%2Fblog&client=ubuntu-sn&hs=kVs&sca_esv=d4e3f7087fe6a6a7&channel=fs&biw=1850&bih=968&sxsrf=ADLYWIJ4WJ3RAcMhKfVzbURgA3DMTHytag%3A1734663431203&ei=B91kZ9SODNyni-gPipe1sQ0&ved=0ahUKEwiUrvzsrLWKAxXc0wIHHYpLLdY4ChDh1QMIEA&uact=5&oq=how+plugin+runs+site%3Afigma.com%2Fblog&gs_lp=Egxnd3Mtd2l6LXNlcnAiI2hvdyBwbHVnaW4gcnVucyBzaXRlOmZpZ21hLmNvbS9ibG9nSIcNUNIHWPcLcAF4AJABAJgBwAKgAb4HqgEDMy0zuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAeZAQ&sclient=gws-wiz-serp
+
+figma/widget-samples: FigJam widget code examples & starter projects using the FigJam Widget API
+https://github.com/figma/widget-samples
+
+Search Results | Figma Blog
+https://www.figma.com/blog/search-results/
+
+Tag: Plugins and tooling | Figma Blog
+https://www.figma.com/blog/plugins-and-tooling/?page=5
+
+How to build a plugin system on the web and also sleep well at night | Figma Blog
+https://www.figma.com/blog/how-we-built-the-figma-plugin-system/#attempt-2-compile-a-javascript-interpreter-to
+
+An in-depth sneak peak at what 5 plugin developers are cooking up | Figma Blog
+https://www.figma.com/blog/plugin-show-and-tell-highlights/
+
+Problem loading page
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
 # 2024-12-20
 
 
