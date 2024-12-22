@@ -1,6 +1,173 @@
 
 # 2024-12-22
 
+(252) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+Chromium Blog: Giving users and developers more control over focus
+https://blog.chromium.org/2020/09/giving-users-and-developers-more.html
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [16] | DevTools
+https://chat.mozilla.org/#/room/#devtools:mozilla.org
+
+Iterator Sequencing · Issue #1133 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1133
+
+⚙ D229014 Bug 1931350: Add initial implementation for the Iterator Sequencing proposal. r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D229014
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+State of JavaScript 2024: Front-end Frameworks
+https://state-of-js-2024.onrender.com/en-US/libraries/front-end-frameworks/#front_end_frameworks_pain_points
+
+Top topics - TC39
+https://es.discourse.group/top
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+…/ng_text_fragment_painter.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3538562/24/third_party/blink/renderer/core/paint/ng/ng_text_fragment_painter.cc#318
+
+build: fix GN build on macOS by joyeecheung · Pull Request #56141 · nodejs/node
+https://github.com/nodejs/node/pull/56141
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+joyeecheung/talks: Slides for my talks
+https://github.com/joyeecheung/talks
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D232786 WIP: Bug 1935672 - Fix a potential race condition in the blur event r?emilio
+https://phabricator.services.mozilla.com/D232786
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+Speed up stroke expansion · Issue #317 · linebender/kurbo
+https://github.com/linebender/kurbo/issues/317
+
+(1943) #text > Testing API - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/205635-text/topic/Testing.20API
+
+Event.eventPhase - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase
+
+DateTimeBoxWidget.mozSystemGroup (datetimebox.js - mozsearch)
+https://searchfox.org/mozilla-central/source/toolkit/content/widgets/datetimebox.js#303
+
+fz-wu/i3_user_guide_Chinese: i3wm官方指南,方便同学们学习i3wm. i3是一个平铺式的窗口管理器
+https://github.com/fz-wu/i3_user_guide_Chinese
+
+i3 - improved tiling wm
+https://i3wm.org/
+
+Manhunt - Unabomber - Se1 - Ep01 - UNABOM HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebpog
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+JS Bin - Collaborative JavaScript Debugging
+https://jsbin.com/voxonat/edit?html,css,js,output
+
+大卫·布鲁尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E8%A1%9B%C2%B7%E5%B8%83%E9%AD%AF%E7%88%BE
+
+布鲁诺·拉图尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E8%AF%BA%C2%B7%E6%8B%89%E5%9B%BE%E5%B0%94
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Taylor Swift - Anti-Hero (Official Music Video) - YouTube
+https://www.youtube.com/watch?v=b1kbLwvqugk
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+Windows 11 x86 22H2 WebRender opt Web platform tests test-windows11-32-2009-qr/opt-web-platform-tests wpt4
+https://treeherder.mozilla.org/logviewer?job_id=476405532&repo=autoland&lineNumber=6848
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+portico: Improve layout of the /go page by Harshbansal8705 · Pull Request #32411 · zulip/zulip
+https://github.com/zulip/zulip/pull/32411
+
+portico: Improve layout of the form in realm redirect page. by tannal · Pull Request #32200 · zulip/zulip
+https://github.com/zulip/zulip/pull/32200
+
+Explore the AOSP Project
+https://tannal.github.io/p/explore-the-aosp-project/
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Specify where text baseline is for form controls / widgets · Issue #5065 · whatwg/html
+https://github.com/whatwg/html/issues/5065
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+Harry C. Triandis - Google 搜索
+https://www.google.com/search?q=Harry+C.+Triandis&client=ubuntu-sn&hs=CHb&sca_esv=f67d18d546fc3e94&channel=fs&biw=1850&bih=927&sxsrf=ADLYWIJ2--1aFLT1_2svJsxyqLsxC7rn0Q%3A1734835502054&ei=Ln1nZ6qDA42Bi-gP-vSr2Q4&ved=0ahUKEwiq0t_urbqKAxWNwAIHHXr6KusQ4dUDCBA&uact=5&oq=Harry+C.+Triandis&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUhhcnJ5IEMuIFRyaWFuZGlzMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSJAEUJEDWJEDcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAaACBZgDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+Amy Edmondson - Google 搜索
+https://www.google.com/search?q=Amy+Edmondson+&client=ubuntu-sn&hs=PLb&sca_esv=f67d18d546fc3e94&channel=fs&sxsrf=ADLYWIIM_-HAGq8mHqspMadxRrJhBLTp3g%3A1734835763050&ei=M35nZ-DqApGni-gPrJWc6Qc&ved=0ahUKEwig0JnrrrqKAxWR0wIHHawKJ30Q4dUDCBA&uact=5&oq=Amy+Edmondson+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDkFteSBFZG1vbmRzb24gMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSKQOUNUEWKQNcAF4AZABAJgB_wKgAeUQqgEDMy02uAEDyAEA-AEBmAIBoAICmAMAiAYBkAYEkgcBMaAH9xI&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+tannal
+https://tannal.github.io/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+圣诞快乐劳伦斯先生-视频-哔哩哔哩视频
+https://search.bilibili.com/all?vt=45557753&keyword=%E5%9C%A3%E8%AF%9E%E5%BF%AB%E4%B9%90%E5%8A%B3%E4%BC%A6%E6%96%AF%E5%85%88%E7%94%9F&from_source=webtop_search&spm_id_from=333.1007&search_source=2
+
+『4K60p·Hi-Res』坂本龍一《圣诞快乐劳伦斯先生/Merry Christmas Mr.Lawrence》祝大家圣诞快乐!_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1oK411q7mp/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
 
 # 2024-12-21
 
