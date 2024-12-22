@@ -549,6 +549,13 @@ igalia的申请开始
 
 # 2025-2-3 - 2025-2-10
 
+- 稳定的工作收入
+- 固定的居住环境
+- 核心的朋友圈
+- 基本的生活作息
+- 持续的技能积累
+- 良好的身心状态
+
 Gsoc ideas
 
 - https://summerofcode.withgoogle.com/programs/2024/organizations/llvm-compiler-infrastructure
@@ -570,14 +577,37 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2024-12-30 - 2025-1-6
 # 2024-12-23 - 2024-12-30
 
-# 2024-12-16 - 2024-12-23 16
+# 2024-12-16 - 2024-12-23 16 (busy week)
 
+## Sleep
+[x] sleep late 12:30 in Firday night
+[x] cold from wednesday to Starturday, I got my beizi on Starturday.
+[x] wake up late 10:30 in Saturday morning
+
+## Eat
+[x] skip dinner in Firday
+[x] skip breakfast in Saturday
+
+## Sports
+[] No
+
+## Social Activity
+
+[x] 220 xuan jie ran feng :D
+[] Thursday zuhui
+[] Thursday late night line blender I skip it because too tired
+[] Firday late night compiler coffe shop ski it because too tired
+[x] yuan dan wan hui SB shit worst experience both people and the experience in Friday
+
+## TODO
 [x] qimiao kaijuan
-[] zhouzhiguo bijuan
+[x] zhouzhiguo bijuan
+[] I updated the input bug issue to state that we need to change the spec on
 [] igalia no response
 [] lineblender & wasm & typst
 [] piano dl & machine music
-[] yuan dan wan hui
+
+
 
 
 # 2024-12-9 - 2024-12-16 15
