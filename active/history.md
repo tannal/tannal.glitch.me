@@ -1,6 +1,258 @@
 
 # 2024-12-24
 
+(259) Discord | #off-topic | Typst
+https://discord.com/channels/1054443721975922748/1080791870982078504
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+Chromium Blog: Giving users and developers more control over focus
+https://blog.chromium.org/2020/09/giving-users-and-developers-more.html
+
+dataset.tar.gz - Google 云端硬盘
+https://drive.google.com/file/d/14VhtomE5qE5yWUV3QlimwAWCdnh53T_Q/view
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [16] | outreachy
+https://chat.mozilla.org/#/room/#outreachy:mozilla.org
+
+Iterator Sequencing · Issue #1133 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1133
+
+⚙ D229014 Bug 1931350: Add initial implementation for the Iterator Sequencing proposal. r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D229014
+
+Add initial tests for the "iterator-sequencing" proposal by anba · Pull Request #4326 · tc39/test262
+https://github.com/tc39/test262/pull/4326/files#diff-1def49e9b3fdc2e1e06550a4903536fd8d5994c2260e9828721273147f8b0003
+
+♟ anba
+https://phabricator.services.mozilla.com/p/anba/
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element * | TC39 Delegates
+https://app.element.io/#/room/#tc39-delegates:matrix.org
+
+State of JavaScript 2024: Front-end Frameworks
+https://state-of-js-2024.onrender.com/en-US/libraries/front-end-frameworks/#front_end_frameworks_pain_points
+
+Top topics - TC39
+https://es.discourse.group/top
+
+ops (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGM8DQ3ST
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+Reproducible Node.js built-in snapshots, part 3 - fixing V8 startup snapshot | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-3/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D232786 WIP: Bug 1935672 - Fix a potential race condition in the blur event r?emilio
+https://phabricator.services.mozilla.com/D232786
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+Speed up stroke expansion · Issue #317 · linebender/kurbo
+https://github.com/linebender/kurbo/issues/317
+
+Event.eventPhase - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase
+
+DateTimeBoxWidget.mozSystemGroup (datetimebox.js - mozsearch)
+https://searchfox.org/mozilla-central/source/toolkit/content/widgets/datetimebox.js#303
+
+fz-wu/i3_user_guide_Chinese: i3wm官方指南,方便同学们学习i3wm. i3是一个平铺式的窗口管理器
+https://github.com/fz-wu/i3_user_guide_Chinese
+
+i3 - improved tiling wm
+https://i3wm.org/
+
+Manhunt - Unabomber - Se1 - Ep01 - UNABOM HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebpog
+
+blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+JS Bin - Collaborative JavaScript Debugging
+https://jsbin.com/voxonat/edit?html,css,js,output
+
+9610626.PDF
+https://repository.rice.edu/server/api/core/bitstreams/c5ea1ab7-e6c6-41e7-8e06-3cd5b80aeccd/content
+
+Gecko / Firefox hacking #1 - Fixing out-of-process external application links - YouTube
+https://www.youtube.com/watch?v=6sHW_agCNmk
+
+The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/
+
+Episode 380 | The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/episodes/0380/index.html
+
+The Joy of Coding Agenda - October 23rd, 2024 - Episode 380
+https://mikeconley.ca/joc/agendas/Episode-0380.html
+
+Intel Engineers Adding GNU Debugger "GDB" Support For Intel GPUs - Phoronix
+https://www.phoronix.com/news/GNU-Debugger-GDB-Intel-GPUs
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Save the Date - EuroLLVM and AsiaLLVM - Announcements - LLVM Discussion Forums
+https://discourse.llvm.org/t/save-the-date-eurollvm-and-asiallvm/83727
+
+Introduction to Developer Tools, v4 Online Workshop
+https://frontendmasters.com/workshops/dev-tools-v4/
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+interest rate tech layoff - Google 搜索
+https://www.google.com/search?q=interest+rate+tech+layoff&client=ubuntu-sn&hs=Rq3&sca_esv=5d7f9f4f1d79ea9b&channel=fs&sxsrf=ADLYWIIZC7dFePWCYsiWQIZAW7FLTxHxQw%3A1735024758482&ei=dmBqZ9OSHam9i-gPltfr6A0&oq=interest+rate+tech+layo&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2ludGVyZXN0IHJhdGUgdGVjaCBsYXlvKgIIADIHECEYoAEYCjIHECEYoAEYCkiYL1CODFi4I3ABeAGQAQCYAcEDoAHjGaoBBTMtNy4yuAEDyAEA-AEBmAIKoAKNGsICChAAGLADGNYEGEfCAgcQIxixAhgnwgIFEAAYgATCAggQABiABBjLAcICBBAAGB7CAgYQABgIGB7CAggQABgIGAoYHsICBRAAGO8FwgIIEAAYgAQYogTCAgUQIRigAZgDAIgGAZAGCpIHBzEuMy03LjKgB-Ec&sclient=gws-wiz-serp
+
+google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/cscareerquestions/comments/1dxxyyw/will_tech_hiring_pick_up_if_interest_rates_go_down/&ved=2ahUKEwiXsPT27r-KAxVoRP4FHXFjKeYQFnoECCAQAQ&usg=AOvVaw3NgHDdDB8wUG8sXLtXjiWA
+https://www.reddit.com/r/cscareerquestions/comments/1dxxyyw/will_tech_hiring_pick_up_if_interest_rates_go_down/
+
+What caused tech layoff 2022–2024 | by Daniel Foo | Medium
+https://danielfoo.medium.com/what-caused-tech-layoff-2022-2024-2be2caf9cf4b
+
+audiocraft/dataset/example/electro_1.mp3 at main · facebookresearch/audiocraft
+https://github.com/facebookresearch/audiocraft/blob/main/dataset/example/electro_1.mp3
+
+Google MusicLM: Turn Text into Mind-Blowing Music! (AI GENERATED MUSIC IS REAL) - YouTube
+https://www.youtube.com/watch?v=IwtXUcbs7aI
+
+Why does everyone sing it like THAT? - YouTube
+https://www.youtube.com/watch?v=Q1m9S6K-Kr4
+
+yip harburg - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=yip+harburg
+
+5 Open Source Generative Music Models You Can't Miss - YouTube
+https://www.youtube.com/watch?v=GQfKoIMpea8
+
+Doctor Mix - YouTube
+https://www.youtube.com/@Doctormix/videos
+
+Eron Smith | Oberlin College and Conservatory
+https://www.oberlin.edu/eron-smith
+
+(MTO - Music Theory Online) - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%28MTO+-+Music+Theory+Online%29
+
+David Temperley - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=David+Temperley+
+
+music and probability pdf - Google 搜索
+https://www.google.com/search?q=music+and+probability+pdf&client=ubuntu-sn&hs=094&sca_esv=9029f727d4831701&channel=fs&sxsrf=ADLYWIJ5dOw2fpk5syqB1y3P89J6v0yvjg%3A1735029815622&ei=N3RqZ-rXJfSS9u8PsqLOuA4&ved=0ahUKEwiqz9begcCKAxV0if0HHTKRE-cQ4dUDCBA&uact=5&oq=music+and+probability+pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW11c2ljIGFuZCBwcm9iYWJpbGl0eSBwZGYyBBAAGB4yBBAAGB4yBBAAGB4yCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wVI0glQoQJYzghwAHgAkAEAmAHWBKABtweqAQczLTEuMC4xuAEDyAEA-AEBmAICoALCB8ICCBAAGIAEGLADwgIHEAAYsAMYHsICCxAAGIAEGLADGKIEwgIJEAAYsAMYCBgewgIIEAAYsAMY7wWYAwCIBgGQBgeSBwczLTEuMC4xoAe8BQ&sclient=gws-wiz-serp
+
+Music and Probability | Books Gateway | MIT Press
+https://direct.mit.edu/books/monograph/2326/Music-and-Probability
+
+Applications of the Polyphonic Key-Finding Model | Music and Probability | Books Gateway | MIT Press
+https://direct.mit.edu/books/monograph/2326/chapter-abstract/60969/Applications-of-the-Polyphonic-Key-Finding-Model?redirectedFrom=PDF
+
+Chris Donahue
+https://chrisdonahue.com/
+
+gclef-cmu/apply: Information for prospective students
+https://github.com/gclef-cmu/apply/?tab=readme-ov-file
+
+24-10-17 SANE - Google 幻灯片
+https://docs.google.com/presentation/d/1Zh7NO7TeDtd95i3eemWOa5Y3w1cvXOk18_LoQrUgLSA/edit#slide=id.g30b7c39d13e_0_978
+
+[2311.07069] Music ControlNet: Multiple Time-varying Controls for Music Generation
+https://arxiv.org/abs/2311.07069
+
+Hooktheory - Signup Courses
+https://www.hooktheory.com/courses/signup
+
+2024 Research Statement.pdf
+https://raw.githubusercontent.com/gclef-cmu/apply/refs/heads/main/2024%20Research%20Statement.pdf
+
+Stanford CS336 | Language Modeling from Scratch
+https://stanford-cs336.github.io/spring2024/
+
+stanford-cs336/spring2024-lectures
+https://github.com/stanford-cs336/spring2024-lectures
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Show HN: Hookpad, a music editor with music theory inside made with React/Redux | Hacker News
+https://news.ycombinator.com/item?id=17810451
+
+Introducing Hookpad: A Musical Sketchpad With Music Theory Built In - The Hooktheory Blog
+https://www.hooktheory.com/blog/introducing-hookpad-2-a-musical-sketchpad-with-music-theory-built-in/
+
+Open-Source Hookpad - other - Hooktheory Forum
+https://forum.hooktheory.com/t/open-source-hookpad/546/14
+
+hlorenzi (Lorenzi)
+https://github.com/hlorenzi
+
+Flat
+https://github.com/FlatIO
+
+musescore/MuseScore: MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+https://github.com/musescore/MuseScore
+
+vercel/hyper: A terminal built on web technologies
+https://github.com/vercel/hyper
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Chromium Blog
+https://blog.chromium.org/
+
+Chromium Dash
+https://chromiumdash.appspot.com/commit/dfbc1a660bbe3a219dbbd61365036009008188ad
+
+Idle-Time Garbage-Collection Scheduling - ACM Queue
+https://queue.acm.org/detail.cfm?id=2977741
+
+Enable inner html parser fastpath for all android devices (4365843) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/4365843
+
+Android Internals: A Confectioner's Cookbook
+https://newandroidbook.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
 (257) Discord | #general | Typst
 https://discord.com/channels/1054443721975922748/1054443722592497796
 
