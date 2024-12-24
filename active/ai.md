@@ -1,5 +1,56 @@
 
 
+# Money
+
+基础模型研发
+OpenAI：GPT系列
+Anthropic：Claude系列
+Google：Gemini
+Meta：Llama系列
+xAI：Grok
+主要投入：算力、数据中心、人才招聘
+
+芯片与算力基础设施
+NVIDIA：H100、L40等AI芯片
+AMD：MI300系列
+Intel：Gaudi系列
+数据中心扩建
+云服务提供商的AI基础设施
+
+垂直领域应用
+企业AI助手
+AI辅助编程（GitHub Copilot、Amazon CodeWhisperer）
+AI创作工具（Midjourney、DALL-E、Stable Diffusion）
+医疗AI
+自动驾驶
+
+AI工具链与开发平台
+模型训练框架
+开发工具
+推理优化
+部署平台
+数据标注与处理
+
+AI安全与治理
+模型对齐研究
+安全评估
+伦理研究
+监管合规
+
+人才市场
+高薪招聘AI研究员
+收购AI创业公司
+AI教育培训
+数据资源
+高质量训练数据收集
+数据清洗与标注
+数据合规
+商业化与落地
+AI产品设计
+市场营销
+客户服务
+解决方案集成
+
 [1]: https://github.com/facebookresearch/audiocraft/blob/main/dataset/example/electro_1.mp3
 [2]: https://ai.honu.io/papers/musicgen/
 [3]: Andrea Agostinelli, Timo I Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam
@@ -432,3 +483,20 @@ make train_gpt2cu
     -n 5000 \
     -v 250 -s 20000 \
     -h 1
+
+
+# master thesis
+
+
+## Abstract
+
+
+## Introduction
+
+
+## Related theory & analysis
+
+
+##
+
+## DataSet
