@@ -1,6 +1,194 @@
 
 # 2024-12-24
 
+(257) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+Chromium Blog: Giving users and developers more control over focus
+https://blog.chromium.org/2020/09/giving-users-and-developers-more.html
+
+dataset.tar.gz - Google 云端硬盘
+https://drive.google.com/file/d/14VhtomE5qE5yWUV3QlimwAWCdnh53T_Q/view
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [17] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+Iterator Sequencing · Issue #1133 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1133
+
+⚙ D229014 Bug 1931350: Add initial implementation for the Iterator Sequencing proposal. r=#spidermonkey-reviewers!
+https://phabricator.services.mozilla.com/D229014
+
+Add initial tests for the "iterator-sequencing" proposal by anba · Pull Request #4326 · tc39/test262
+https://github.com/tc39/test262/pull/4326/files#diff-1def49e9b3fdc2e1e06550a4903536fd8d5994c2260e9828721273147f8b0003
+
+♟ anba
+https://phabricator.services.mozilla.com/p/anba/
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element * | TC39 Delegates
+https://app.element.io/#/room/#tc39-delegates:matrix.org
+
+State of JavaScript 2024: Front-end Frameworks
+https://state-of-js-2024.onrender.com/en-US/libraries/front-end-frameworks/#front_end_frameworks_pain_points
+
+Top topics - TC39
+https://es.discourse.group/top
+
+December notes by gesa · Pull Request #360 · tc39/notes
+https://github.com/tc39/notes/pull/360
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+…/ng_text_fragment_painter.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3538562/24/third_party/blink/renderer/core/paint/ng/ng_text_fragment_painter.cc#318
+
+build: fix GN build on macOS by joyeecheung · Pull Request #56141 · nodejs/node
+https://github.com/nodejs/node/pull/56141
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+About Me | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/about/
+
+Custom startup snapshots · V8
+https://v8.dev/blog/custom-startup-snapshots
+
+Commits · nodejs/node
+https://github.com/nodejs/node/commits?author=joyeecheung&since=2024-11-30&until=2024-12-23
+
+Reproducible Node.js built-in snapshots, part 3 - fixing V8 startup snapshot | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/09/28/reproducible-nodejs-builtin-snapshots-3/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D232786 WIP: Bug 1935672 - Fix a potential race condition in the blur event r?emilio
+https://phabricator.services.mozilla.com/D232786
+
+1918521 - Can't type leap year in date input (because we think it's a wrong date when typing the year?)
+https://bugzilla.mozilla.org/show_bug.cgi?id=1918521
+
+Speed up stroke expansion · Issue #317 · linebender/kurbo
+https://github.com/linebender/kurbo/issues/317
+
+Event.eventPhase - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Event/eventPhase
+
+DateTimeBoxWidget.mozSystemGroup (datetimebox.js - mozsearch)
+https://searchfox.org/mozilla-central/source/toolkit/content/widgets/datetimebox.js#303
+
+fz-wu/i3_user_guide_Chinese: i3wm官方指南,方便同学们学习i3wm. i3是一个平铺式的窗口管理器
+https://github.com/fz-wu/i3_user_guide_Chinese
+
+i3 - improved tiling wm
+https://i3wm.org/
+
+Manhunt - Unabomber - Se1 - Ep01 - UNABOM HD Watch HD Deutsch - video Dailymotion
+https://www.dailymotion.com/video/x8ebpog
+
+blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+JS Bin - Collaborative JavaScript Debugging
+https://jsbin.com/voxonat/edit?html,css,js,output
+
+大卫·布鲁尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E8%A1%9B%C2%B7%E5%B8%83%E9%AD%AF%E7%88%BE
+
+布鲁诺·拉图尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B8%83%E9%B2%81%E8%AF%BA%C2%B7%E6%8B%89%E5%9B%BE%E5%B0%94
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+RFC 1925: The Twelve Networking Truths
+https://www.rfc-editor.org/rfc/rfc1925
+
+tannal (tannal)
+https://github.com/tannal
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+GitHub
+https://github.com/
+
+Parsing millions of URLs per second - Nizipli - 2024 - Software: Practice and Experience - Wiley Online Library
+https://onlinelibrary.wiley.com/doi/10.1002/spe.3296
+
+Parsing millions of URLs per second
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3296
+
+Yagiz Nizipli's blog
+https://www.yagiz.co/
+
+About - Yagiz Nizipli's blog
+https://www.yagiz.co/about/
+
+ada-url/rust: Rust bindings for Ada URL parser
+https://github.com/ada-url/rust
+
+Daniel Lemire's blog – Daniel Lemire is a computer science professor at the Data Science Laboratory of the Université du Québec (TÉLUQ) in Montreal. His research is focused on software performance.
+https://lemire.me/blog/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+【小明&老王】此物天下绝响_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Ls41127sG?spm_id_from=333.788.player.switch&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.1296.0.0
+
+“这部剧实在是太棒了，真是常看常新”_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1gqznY2EKc/?t=31&spm_id_from=333.1007.tianma.1-1-1.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1924340 - Remove network.url.strict_data_url_base64_placement pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924340
+
+A Promenade of PyTorch – Peter Goldsborough
+http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+Peter Goldsborough
+http://www.goldsborough.me/
+
+搜索结果 - Google 云端硬盘
+https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab)
+
+A Promenade of PyTorch – Peter Goldsborough
+http://www.goldsborough.me/ml/ai/python/2018/02/04/20-17-20-a_promenade_of_pytorch/
+
+Issue search results
+https://github.com/search?q=involves%3Atabatkins&type=issues
+
+w3ctag/design-reviews: W3C specs and API reviews
+https://github.com/w3ctag/design-reviews
 
 # 2024-12-23
 
