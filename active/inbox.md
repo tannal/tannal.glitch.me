@@ -1,7 +1,7 @@
 
 # 2024-12-24
 
-
+https://cs.stanford.edu/~pliang/
 
 web平台的创新力量和预算正在抛向AI？
 
