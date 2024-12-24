@@ -576,13 +576,39 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2024-12-30 - 2025-1-6
 
-# 2024-12-23 - 2024-12-30
+# 2024-12-23 - 2024-12-30 (deadline week)
 
-# 2024-12-16 - 2024-12-23 16 (busy week)
+## Sleep
 
+[] Got my sleep well again from 22 23 night, feels better
+
+## Eat
+[] breakfirst recover
+[] eat less than pre 21 still feels better than 21 22 23
+
+## Sports
+[] No
+
+## Social Activity
+
+[] shiyanshi
+[] yanjiusheng shiyou
+[] benke shiyou
+
+## TODO
 [] fu za wang luo bao gao ppt
 [] ke ji xie zuo
 [] yin yue jian shang
+
+[] I updated the input bug issue to state that we need to change the spec on
+[] igalia no response
+[] lineblender & wasm & typst
+[] piano dl & machine music
+
+
+
+# 2024-12-16 - 2024-12-23 16 (busy week)
+
 
 ## Sleep
 [x] sleep late 12:30 in Firday night
@@ -601,16 +627,12 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [x] 220 xuan jie ran feng :D
 [] Thursday zuhui
 [] Thursday late night line blender I skip it because too tired
-[] Firday late night compiler coffe shop ski it because too tired
+[] Firday late night compiler coffe shop skip it because too tired
 [x] yuan dan wan hui SB shit worst experience both people and the experience in Friday
 
 ## TODO
 [x] qimiao kaijuan
 [x] zhouzhiguo bijuan
-[] I updated the input bug issue to state that we need to change the spec on
-[] igalia no response
-[] lineblender & wasm & typst
-[] piano dl & machine music
 
 
 
