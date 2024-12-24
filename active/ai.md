@@ -51,29 +51,7 @@ AI产品设计
 客户服务
 解决方案集成
 
-[1]: https://github.com/facebookresearch/audiocraft/blob/main/dataset/example/electro_1.mp3
-[2]: https://ai.honu.io/papers/musicgen/
-[3]: Andrea Agostinelli, Timo I Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam
-Roberts, Marco Tagliasacchi, et al. Musiclm: Generating music from text. arXiv preprint arXiv:2301.11325, 2023.
-[4]: S Forsgren and H Martiros. Riffusion-stable diffusion for real-time music generation. 2022. URL: https://riffusion.com/about.
-[5]: Flavio Schneider, Zhijing Jin, and Bernhard Schölkopf. Moûsai: Text-to-music generation with long-context latent diffusion. arXiv
-preprint arXiv:2301.11757, 2023.
-[6]: Alexandre Défossez, Jade Copet, Gabriel Synnaeve, and Yossi Adi. High fidelity neural audio compression. arXiv preprint
-arXiv:2210.13438, 2022.
-[7]: J. Copet, F. Kreuk, I. Gat, T. Remez, D. Kant, G. Synnaeve, Y. Adi, and A. Défossez. Simple and controllable music generation. arXiv
-preprint arXiv:2306.05284, 2023.
-[8]: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Ł ukasz Kaiser, and Illia Polosukhin.
-Attention is all you need. In I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, edi- tors,
-Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017. URL
-https://proceedings.neurips.cc/paper_files/paper/2017/file/ 3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf.
-[9]: https://towardsdatascience.com/how-metas-ai-generates-music-based-on-a-reference-melody-de34acd783
-[10]: Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). Audioldm: Text-to-audio generation with latent
-diffusion models. arXiv preprint arXiv:2301.12503.
-[11]: https://www.stableaudio.com
-[12]: https://www.suno.ai
-[13]: Lam, M. W., Tian, Q., Li, T., Yin, Z., Feng, S., Tu, M., ... & Wang, Y. (2024). Efficient neural music generation. Advances in Neural
-Information Processing Systems, 36.
-[14]: https://drscotthawley.github.io/blog/posts/2023-06-12-RVQ.html
+
 
 1.相对位置编码
 # 不是简单的位置编码
@@ -493,10 +471,92 @@ make train_gpt2cu
 
 ## Introduction
 
+早期阶段 (1950s-1980s)
+
+1957年：Illiac Suite，第一个由计算机生成的弦乐四重奏
+1965年：Hiller和Baker开发了MUSICOMP系统
+1981年：CHORAL系统，用于生成巴赫风格的四部和声
+主要使用规则基础(rule-based)和马尔可夫链等算法
+
+符号音乐生成时期 (1990s-2000s)
+
+EMI (Experiments in Musical Intelligence)系统
+David Cope的作曲系统能模仿巴赫、莫扎特等作曲家风格
+使用文法(grammar)和概率模型进行音乐生成
+基于案例(case-based)的音乐生成系统开始出现
+
+深度学习早期 (2010-2015)
+
+RNN/LSTM开始应用于音乐生成
+Google的Magenta项目启动
+DeepBach等系统展示了神经网络在和声生成上的潜力
+
+深度学习繁荣期 (2016-2020)
+
+WaveNet (2016) 实现高质量音频合成
+MuseNet能生成多种乐器的配器
+Music Transformer改进了长序列音乐生成
+Jukebox实现了带歌词的歌曲生成
+
+大模型时代 (2020-至今)
+
+MusicLM：高质量音乐生成模型
+AudioCraft：Meta的音频生成框架
+Stable Audio：稳定扩散在音乐领域的应用
+多模态音乐生成：文本/图像到音乐
+
+规则基础 → 统计模型 → 神经网络 → Transformer → 扩散模型
+单一乐器 → 多乐器配器
+MIDI生成 → 原始音频生成
+单一风格 → 多风格融合
+
+## Chanllege
+
+长期结构的控制
+音乐表现力和情感的把握
+版权和伦理问题
+与人类创作的协同
 
 ## Related theory & analysis
 
-
-##
+David Lewin - 变换理论(Transformational Theory)
+Fred Lerdahl - 生成音乐理论
+Joseph Straus - 后调性理论
+Richard Cohn - 新里曼理论
+David Temperley - 音乐认知和计算分析
 
 ## DataSet
+
+## Future Work
+
+未来趋势
+更精确的音乐控制接口
+实时互动音乐生成
+AI辅助作曲工具的普及
+个性化音乐定制服务
+
+## References
+
+[1]: https://github.com/facebookresearch/audiocraft/blob/main/dataset/example/electro_1.mp3
+[2]: https://ai.honu.io/papers/musicgen/
+[3]: Andrea Agostinelli, Timo I Denk, Zalán Borsos, Jesse Engel, Mauro Verzetti, Antoine Caillon, Qingqing Huang, Aren Jansen, Adam
+Roberts, Marco Tagliasacchi, et al. Musiclm: Generating music from text. arXiv preprint arXiv:2301.11325, 2023.
+[4]: S Forsgren and H Martiros. Riffusion-stable diffusion for real-time music generation. 2022. URL: https://riffusion.com/about.
+[5]: Flavio Schneider, Zhijing Jin, and Bernhard Schölkopf. Moûsai: Text-to-music generation with long-context latent diffusion. arXiv
+preprint arXiv:2301.11757, 2023.
+[6]: Alexandre Défossez, Jade Copet, Gabriel Synnaeve, and Yossi Adi. High fidelity neural audio compression. arXiv preprint
+arXiv:2210.13438, 2022.
+[7]: J. Copet, F. Kreuk, I. Gat, T. Remez, D. Kant, G. Synnaeve, Y. Adi, and A. Défossez. Simple and controllable music generation. arXiv
+preprint arXiv:2306.05284, 2023.
+[8]: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Ł ukasz Kaiser, and Illia Polosukhin.
+Attention is all you need. In I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, edi- tors,
+Advances in Neural Information Processing Systems, volume 30. Curran Associates, Inc., 2017. URL
+https://proceedings.neurips.cc/paper_files/paper/2017/file/ 3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf.
+[9]: https://towardsdatascience.com/how-metas-ai-generates-music-based-on-a-reference-melody-de34acd783
+[10]: Liu, H., Chen, Z., Yuan, Y., Mei, X., Liu, X., Mandic, D., ... & Plumbley, M. D. (2023). Audioldm: Text-to-audio generation with latent
+diffusion models. arXiv preprint arXiv:2301.12503.
+[11]: https://www.stableaudio.com
+[12]: https://www.suno.ai
+[13]: Lam, M. W., Tian, Q., Li, T., Yin, Z., Feng, S., Tu, M., ... & Wang, Y. (2024). Efficient neural music generation. Advances in Neural
+Information Processing Systems, 36.
+[14]: https://drscotthawley.github.io/blog/posts/2023-06-12-RVQ.html
