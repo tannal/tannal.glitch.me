@@ -1,6 +1,13 @@
 
 # 2024-12-25
 
+Deep Neural Networks (FS 2024)
+Advanced Systems Lab
+Machine Learning for Science
+Computer Vision Seminar
+
+https://build-your-own.org/blog/20240813_css_vertical_center/
+
 这篇论文的实验和结果部分可以从以下几个方面总结:
 实验设置
 数据集:
