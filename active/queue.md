@@ -1,6 +1,12 @@
 
 # waiting for me to reading
 
+Reinforcement Learning with DeepMind
+https://www.youtube.com/watch?v=ISk80iLhdfU
+
+Deep Learning with DeepMind
+https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+
 AlphaGo - The Movie | Full award-winning documentary
 https://www.youtube.com/watch?v=WXuK6gekU1Y&t=1271s
 

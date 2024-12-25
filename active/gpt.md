@@ -1,4 +1,30 @@
 
+
+ETH research group
+1. 计算机科学相关：
+DISCO (Distributed Computing Group) - 分布式计算实验室
+Systems Group - 系统研究组
+ASL (Autonomous Systems Lab) - 自主系统实验室
+IGL (Information Security Group) - 信息安全组
+AIT (Advanced Interactive Technologies) - 高级交互技术实验室
+2. 工程相关：
+ITA (Institute for Transport Planning and Systems) - 交通规划与系统研究所
+IBK (Institute of Structural Engineering) - 结构工程研究所
+IVT (Institute for Transport Planning and Systems) - 交通规划与系统研究所
+物理与材料科学：
+Laboratory for Solid State Physics - 固态物理实验室
+Institute for Quantum Electronics - 量子电子学研究所
+Laboratory of Physical Chemistry - 物理化学实验室
+4. 生命科学：
+Institute of Molecular Systems Biology - 分子系统生物学研究所
+Institute of Biochemistry - 生物化学研究所
+Institute of Molecular Health Sciences - 分子健康科学研究所
+5. 环境与地球科学：
+Institute of Environmental Engineering - 环境工程研究所
+Institute of Geophysics - 地球物理研究所
+Institute of Atmospheric and Climate Science - 大气与气候科学研究所
+ETH 以其高质量的研究和教育而闻名,这些实验室在各自领域都有重要的研究成果和国际影响力。
+
 基于目前开源EDA工具链，从RTL设计到可以流片的GDSII文件，完整流程可以这样实现：
 
 1. RTL设计和验证阶段：

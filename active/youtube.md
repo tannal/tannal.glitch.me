@@ -1,3 +1,8 @@
+
+
+Neural Network
+https://www.youtube.com/@algorithmicsimplicity
+
 Michael Kerrisk :: Understanding Linux user namespaces - YouTube
 https://www.youtube.com/watch?v=XgThPoL9mPE
 
