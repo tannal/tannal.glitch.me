@@ -1,6 +1,321 @@
 
 # 2024-12-25
 
+(265) Discord | #off-topic | Typst
+https://discord.com/channels/1054443721975922748/1080791870982078504
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+dataset.tar.gz - Google 云端硬盘
+https://drive.google.com/file/d/14VhtomE5qE5yWUV3QlimwAWCdnh53T_Q/view
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [16] | outreachy
+https://chat.mozilla.org/#/room/#outreachy:mozilla.org
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element * | TC39 Delegates
+https://app.element.io/#/room/#tc39-delegates:matrix.org
+
+ops (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGM8DQ3ST
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 活动详情
+https://calendar.google.com/calendar/u/0/r/eventedit/copy/MDRuOWdyajczbGxwYzYyY2s1OHZ0cmVlM2tfMjAyNDEyMTdUMTkwMDAwWiBjXzE2ZjBhZTVkM2EyMjYyNTE3NWQxOTlkYmRiMWNhYzg0YzJkMDllYWI3ZjE3M2U5NGY1NTg0MTdjYjVjZGJmZDhAZw
+
+blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+Gecko / Firefox hacking #1 - Fixing out-of-process external application links - YouTube
+https://www.youtube.com/watch?v=6sHW_agCNmk
+
+The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev/commits/master/
+
+joy-of-coding-episode-guide/CONTRIBUTING.md at master · mikeconley/joy-of-coding-episode-guide
+https://github.com/mikeconley/joy-of-coding-episode-guide/blob/master/CONTRIBUTING.md
+
+A Blog by Mike Conley | The personal blog of a Toronto based software mechanic, musician, sound designer, and theatre enthusiast.
+https://mikeconley.ca/blog/
+
+Episode 380 | The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/episodes/0380/index.html
+
+Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+https://www.phoronix.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Save the Date - EuroLLVM and AsiaLLVM - Announcements - LLVM Discussion Forums
+https://discourse.llvm.org/t/save-the-date-eurollvm-and-asiallvm/83727
+
+Google to court: we’ll change our Apple deal, but please let us keep Chrome - The Verge
+https://www.theverge.com/2024/12/23/24328087/google-proposed-final-judgement-search-monopoly-antitrust-default-contracts?utm_content=buffer4d296&utm_medium=social&utm_source=bsky.app&utm_campaign=verge_social
+
+Medium: Read and write stories.
+https://medium.com/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Learning and Improving Every Day - These Weeks in Firefox: Issue 173
+https://groups.google.com/a/mozilla.org/g/firefox-dev/c/CzCGOW4d5Zc
+
+Firefox Headlines - Google 文档
+https://docs.google.com/document/d/1u9YH3ULNRYg6G-fN-Udkvfkcvg0alJfzi_zIAfFNkL8/edit?tab=t.0
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Introducing Hookpad: A Musical Sketchpad With Music Theory Built In - The Hooktheory Blog
+https://www.hooktheory.com/blog/introducing-hookpad-2-a-musical-sketchpad-with-music-theory-built-in/
+
+hlorenzi (Lorenzi)
+https://github.com/hlorenzi
+
+webpack/webpack: A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+https://github.com/webpack/webpack
+
+Anshuman Verma - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Anshuman+Verma
+
+基于邻域增强的监督对比学习推荐方法 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%E5%9F%BA%E4%BA%8E%E9%82%BB%E5%9F%9F%E5%A2%9E%E5%BC%BA%E7%9A%84%E7%9B%91%E7%9D%A3%E5%AF%B9%E6%AF%94%E5%AD%A6%E4%B9%A0%E6%8E%A8%E8%8D%90%E6%96%B9%E6%B3%95
+
+2402.11523v1.pdf
+https://arxiv.org/pdf/2402.11523
+
+PeiJieSun/NESCL: The code repository for the paper: Peijie et al., Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering. IEEE TKDE, 2023.
+https://github.com/PeiJieSun/NESCL
+
+年终盛典 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?from=22374&from_column=22374&page=double11-2024#TONGJIA
+
+Unlock your productivity potential with Slack Platform | Slack
+https://api.slack.com/
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=821s
+
+PyTorch internals : ezyang’s blog
+http://blog.ezyang.com/2019/05/pytorch-internals/
+
+A Tour of PyTorch Internals (Part I) | PyTorch
+https://pytorch.org/blog/a-tour-of-pytorch-internals-1/
+
+pytorch-internals.pdf
+https://web.mit.edu/~ezyang/Public/pytorch-internals.pdf
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&p=2
+
+kiwiyou/algorithm-lecture
+https://github.com/kiwiyou/algorithm-lecture
+
+강한 연결 요소(SCC) 구현 톺아보기
+https://blog.kiwiyou.dev/posts/scc/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%EC%82%B4%ED%8E%B4%EB%B4%85%EB%8B%88%EB%8B%A4&op=translate
+
+Counter Type – Typst Documentation
+https://typst.app/docs/reference/introspection/counter/#definitions-display
+
+texmf/typst/slide_example.typ at f982040769683ad031a34c48288a30f9b08196f6 · luhsra/texmf
+https://github.com/luhsra/texmf/blob/f982040769683ad031a34c48288a30f9b08196f6/typst/slide_example.typ#L33
+
+Outline slides for each subsection · Issue #137 · touying-typ/touying
+https://github.com/touying-typ/touying/issues/137
+
+Fix Selection isCollapsed in Shadow DOM - Chrome Platform Status
+https://chromestatus.com/feature/5175599392620544
+
+238371 – [CSS Shapes] Add support for shape()
+https://bugs.webkit.org/show_bug.cgi?id=238371
+
+Typst
+https://typst.app/
+
+ezyang (Edward Z. Yang)
+https://github.com/ezyang
+
+ezyang (Edward Z. Yang)
+https://github.com/ezyang
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=4&prefix=true&query=2024%20&sort=byPopularity&type=story
+
+Eloquent JavaScript
+https://eloquentjavascript.net/
+
+Music Theory that isn't boring - Lightnote
+https://www.lightnote.co/
+
+CSS finally adds vertical centering in 2024 | Blog | build-your-own.org
+https://build-your-own.org/blog/20240813_css_vertical_center/
+
+What You Need to Know about Modern CSS (Spring 2024 Edition) | Hacker News
+https://news.ycombinator.com/item?id=40248530
+
+Ask HN: Why is nobody manufacturing low tech electric cars in 2024? | Hacker News
+https://news.ycombinator.com/item?id=40668427
+
+A 2024 Plea for Lean Software | Hacker News
+https://news.ycombinator.com/item?id=39049956
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=modern&c=courses&dg=1
+
+Seminar in Deep Neural Networks (FS 2024) - DISCO
+https://disco.ethz.ch/courses/seminar/
+
+Clock Synchronization - YouTube
+https://www.youtube.com/watch?v=i-WXEkjm018
+
+Why Does Diffusion Work Better than Auto-Regression? - YouTube
+https://www.youtube.com/watch?v=zc5NTeJbk-k
+
+Algorithmic Simplicity - YouTube
+https://www.youtube.com/@algorithmicsimplicity/videos
+
+27_02_audio.pdf
+https://disco.ethz.ch/courses/seminar/talks/27_02_audio.pdf
+
+Sutton & Barto Book: Reinforcement Learning: An Introduction
+http://incompleteideas.net/book/the-book-2nd.html
+
+auto regressor - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=auto+regressor
+
+Issues · typst/typst
+https://github.com/typst/typst/issues?q=is%3Aissue+is%3Aopen+label%3Asvg
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+CSS margin-trim and line height units | 12 Days of Web
+https://12daysofweb.dev/2024/css-margin-trim-line-height-units/
+
+24-10-17 SANE - Google 幻灯片
+https://docs.google.com/presentation/d/1Zh7NO7TeDtd95i3eemWOa5Y3w1cvXOk18_LoQrUgLSA/edit#slide=id.g30b7c39d13e_0_236
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/featured
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · tc39/test262
+https://github.com/tc39/test262/issues
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+mathematica - Google 搜索
+https://www.google.com/search?q=mathematia&client=ubuntu-sn&hs=3v1&sca_esv=217f92c2b6785191&channel=fs&sxsrf=ADLYWIJwabGb-yqcf9wEme8J5EQmxlcGRA%3A1735096858413&ei=GnprZ_7zGLmLi-gP_eyQOA&ved=0ahUKEwj-6JW_-8GKAxW5xQIHHX02BAcQ4dUDCBA&uact=5&oq=mathematia&gs_lp=Egxnd3Mtd2l6LXNlcnAiCm1hdGhlbWF0aWEyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEcyBBAAGEdIqgpQyQZYpglwAHgCkAEAmAH4AqAB-AKqAQMzLTG4AQPIAQD4AQGYAgGgAgyYAwDiAwUSATEgQIgGAZAGCpIHATGgB8kH&sclient=gws-wiz-serp
+
+Text Search—Wolfram Language Documentation
+https://reference.wolfram.com/language/guide/TextSearch.html
+
+tr(AB) = tr(BA) - Wolfram|Alpha
+https://www.wolframalpha.com/input?i=tr%28AB%29+%3D+tr%28BA%29
+
+Raph Levien’s thesis
+https://levien.com/phd/phd.html
+
+From Spiral to Spline: Optimal Techniques in Interactive Curve Design - thesis.pdf
+https://levien.com/phd/thesis.pdf
+
+numeric algorithm - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=numeric+algorithm
+
+numerical_book.pdf
+https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
+
+Coffee Compiler Club, 2024_12_20 - YouTube
+https://www.youtube.com/watch?v=pBx6hoNV_eQ&t=2311s
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+Chris Donahue
+https://chrisdonahue.com/
+
+Code search results
+https://github.com/search?q=repo%3Atldraw%2Ftldraw+patch+language%3AJSON&type=code&l=JSON
+
+Yjs Quill Example
+http://192.168.43.246:3000/quill/quill.html
+
+lllyasviel
+https://github.com/lllyasviel
+
+Lightricks/LTX-Video: Official repository for LTX-Video
+https://github.com/Lightricks/LTX-Video
+
+Lightricks
+https://www.lightricks.com/
+
+LTX-Video-Playground - a Hugging Face Space by Lightricks
+https://huggingface.co/spaces/Lightricks/LTX-Video-Playground
+
+LTX Video (preview) | Text to Video | AI Playground | fal.ai
+https://fal.ai/models/fal-ai/ltx-video
+
+genmoai/mochi: The best OSS video generation models
+https://github.com/genmoai/mochi
+
+Tencent/HunyuanVideo: HunyuanVideo: A Systematic Framework For Large Video Generation Model
+https://github.com/Tencent/HunyuanVideo
+
+CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+OpenPose: OpenPose Doc - C++ API
+https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_04_cpp_api.html
+
+THUDM/CogVideo: text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+https://github.com/THUDM/CogVideo
+
+comfyanonymous/ComfyUI: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing
+
+SUSE Labs - YouTube
+https://www.youtube.com/@suselabs6148
+
+bun/src/install/lockfile.zig at 608101c9751c12d5d1e361c6304584f69e20b9b9 · oven-sh/bun
+https://github.com/oven-sh/bun/blob/608101c9751c12d5d1e361c6304584f69e20b9b9/src/install/lockfile.zig#L2963
+
+tldraw - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=tldraw
+
+SSA · Search · GitLab
+https://gitlab.freedesktop.org/search?search=SSA&nav_source=navbar&project_id=176&group_id=1155&search_code=true&repository_ref=main
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
