@@ -1,6 +1,10 @@
 
 # 2024-12-25
 
+https://github.com/genmoai/mochi.git
+https://github.com/Lightricks/LTX-Video
+https://github.com/Tencent/HunyuanVideo
+
 Deep Neural Networks (FS 2024)
 Advanced Systems Lab
 Machine Learning for Science
