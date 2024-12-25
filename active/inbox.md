@@ -1,6 +1,46 @@
 
 # 2024-12-25
 
+https://arxiv.org/pdf/2402.11523
+https://github.com/PeiJieSun/NESCL
+
+人类追求目标不仅仅是为了生存,更是一种基本的心理需求。
+
+20-30岁：自己奋斗的阶段
+积累专业技能和经验
+建立职业基础
+探索自己的兴趣和优势
+投资自我提升
+建立初步的人脉网络
+学会独立解决问题
+
+30-40岁：和合伙人奋斗的阶段
+寻找志同道合的伙伴
+整合各方资源
+扩大事业规模
+分担风险与责任
+互补优势
+建立商业生态
+
+40-50岁：帮助他人奋斗的阶段
+成为导师/投资人
+分享经验和资源
+培养新一代人才
+回馈社会
+建立更大的商业生态系统
+实现价值传承
+
+好的合作是建立在双方都有价值的基础上，而不是互相依赖或单方面索取。自己奋斗的阶段就是在打造自己的核心价值，为未来的合作奠定基础。
+
+Master the Art of "Inside Game"（掌握"内部游戏"的艺术）
+Credentials Matter（资历很重要）
+Win in the First Three Weeks（在前三周取得胜利）
+Build Trust through Over-Communicating and Over-Delivering（通过过度沟通和超额交付建立信任）
+Share the Glory: Build Your Personal Brand by Sharing Success（分享荣耀：通过分享成功建立个人品牌）
+Become a Resource Magnet: Be the "Go-To" Person for Problem-Solving（成为资源磁铁：成为解决问题的"首选人"）
+Always Have a Next Step: Progress Over Perfection（始终有下一步：进步优于完美）
+Prioritize Strategic Visibility（优先考虑战略可见性）
+
 ViggleAI
 
 # 2024-12-24

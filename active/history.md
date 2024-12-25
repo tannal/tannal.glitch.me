@@ -1,6 +1,80 @@
 
 # 2024-12-25
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+2024年11月cpi 知乎 - Google 搜索
+https://www.google.com.hk/search?q=2024%E5%B9%B411%E6%9C%88cpi+%E7%9F%A5%E4%B9%8E&newwindow=1&sca_esv=82b59f373f6483bb&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWII0m_et905w05X1JnocNO8Uhq5zZQ%3A1734345887529&ei=nwRgZ5X6H-jKkPIP1fmRoQ0&ved=0ahUKEwjVxaz0jayKAxVoJUQIHdV8JNQQ4dUDCBA&uact=5&oq=2024%E5%B9%B411%E6%9C%88cpi+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiFjIwMjTlubQxMeaciGNwaSDnn6XkuY4yBRAhGKABSLYbUKYIWO4acAF4AJABAJgBsASgAYIVqgEDNS01uAEDyAEA-AEBmAIFoAKOEcICCxAAGIAEGLADGKIEwgIIEAAYgAQYogTCAggQABiiBBiJBZgDAIgGAZAGAZIHBTEuNC00oAfvBg&sclient=gws-wiz-serp
+
+(23 封私信 / 2 条消息) 11 月份 CPI 同比上涨 0.2%，PPI 同比下降 2.5%，该数据说明了什么？ - 知乎
+https://www.zhihu.com/question/6353720781
+
+(23 封私信) 11 月份 CPI 同比上涨 0.2%，PPI 同比下降 2.5%，该数据说明了什么？ - 知乎
+https://www.zhihu.com/question/6353720781
+
+(26 封私信) 首页 - 知乎
+https://www.zhihu.com/
+
+(26 封私信) 开心的小福 - 知乎
+https://www.zhihu.com/people/wx6db65c561568cbe2/answers
+
+下周美联储的看点：12月降息没悬念，有悬念的是1月 - 华尔街见闻
+https://wallstreetcn.com/articles/3736996
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+情歌王 - 古巨基 [超高清] [歌詞] - YouTube
+https://www.youtube.com/watch?v=abtsOJE8PcE
+
+josephus - Google 搜索
+https://www.google.com/search?q=josephus&rlz=1C1GCEA_enCN1091CN1091&oq=josephus&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDINCAMQLhjHARjRAxiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQLhiABDIHCAcQLhiABDIHCAgQLhiABNIBCDQ5OTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+牛顿烈焰击光剑 - Google 搜索
+https://www.google.com/search?q=%E7%89%9B%E9%A1%BF%E7%83%88%E7%84%B0%E5%87%BB%E5%85%89%E5%89%91&sca_esv=0c2c2c7fe2c65901&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIIpSbbnPO9YjsUCWNbAQ1SlkozHaA:1734495313178&ei=UUxiZ_7GCuixi-gPm63U8AU&start=10&sa=N&sstk=ATObxK5p3pm9YvrdsaOgLr1rHICst6lF1aQfPed01XnBcqHUtlqWWSlEsos6FuhClVRAlmR4FKrF_EK_GJjPn6GDVFdVF5rZTlB7oQ&ved=2ahUKEwi-s4bIurCKAxXo2AIHHZsWFV4Q8tMDegQICRAE&biw=1280&bih=593&dpr=1.5
+
+美联储如期再降息25基点，一名票委反对，暗示放缓步伐，预计明年降息次数砍半至两次 - 华尔街见闻
+https://wallstreetcn.com/articles/3737300
+
+美国-消费者物价指数[CPI] | 美国-物价 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/5/us-price-relative/10/cpi
+
+包邮区 - Google 搜索
+https://www.google.com/search?q=%E5%8C%85%E9%82%AE%E5%8C%BA&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%8C%85%E9%82%AE%E5%8C%BA&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgoIAxAAGIAEGKIEMggIBBAAGAUYHjIICAUQABgFGB4yCAgGEAAYBRge0gEINDU1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+旋风少女 - Google 搜索
+https://www.google.com/search?q=%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&rlz=1C1GCEA_enCN1091CN1091&oq=%E6%97%8B%E9%A3%8E%E5%B0%91%E5%A5%B3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABNIBCDMzMjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+六便士 - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwSjEwtzBg9OJ82rr2yb79TxevBgBRHQlz&q=%E5%85%AD%E4%BE%BF%E5%A3%AB&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%85%AD%E4%BE%BF%E5%A3%AB&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg1MDIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+你们听过这样一句话吗？ “满地都是六便士，但是他却抬头看见了月亮。”_特里克兰德
+https://www.sohu.com/a/343976726_731816
+
+蜘蛛侠 - Google 搜索
+https://www.google.com/search?q=%E8%9C%98%E8%9B%9B%E4%BE%A0&sca_esv=b49ee4eb3250b196&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWIJxL5IymRjEnwXAaew_Lz8iWQ5NuA:1734942114094&ei=oh1pZ5WRBbbp7_UP1P_-gAI&start=10&sa=N&sstk=ATObxK7iYBMbKKEYHKkYf6sKxT1DyM0CtIM5I6JeZ0UYvDKvjzRQl9fK3Zb90Zdu95q91ANNkA8iBzEXSQdLqkTM93-_12WtiKwf8g&ved=2ahUKEwiV6qmDu72KAxW29LsIHdS_HyAQ8tMDegQICRAE&biw=1280&bih=593&dpr=1.5
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+(3) Facebook
+https://www.facebook.com/ccckmit
+
+Search results for query: master | Page 2
+https://tutflix.org/search/2922395/?page=2&q=master&o=date
+
+Will tech hiring pick up if interest rates go down? : r/cscareerquestions
+https://www.reddit.com/r/cscareerquestions/comments/1dxxyyw/will_tech_hiring_pick_up_if_interest_rates_go_down/
+
+Resources | Page 2
+https://tutflix.org/resources/?page=2
+
+China_single_age_population_pyramid_2020.png (2213×1777)
+https://upload.wikimedia.org/wikipedia/commons/7/74/China_single_age_population_pyramid_2020.png
+
+ViggleAI - Google 搜索
+https://www.google.com/search?q=ViggleAI&rlz=1C1GCEA_enCN1091CN1091&oq=ViggleAI&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 # 2024-12-24
 
