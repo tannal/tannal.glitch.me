@@ -1,4 +1,11 @@
 
+# 2024-12-26
+
+overlay
+
+显示管线？
+[Frame Buffer] -> [Plane] -> [CRTC] -> [Encoder] -> [Connector] -> [Display]
+
 # 2024-12-25
 
 https://github.com/genmoai/mochi.git
