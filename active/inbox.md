@@ -1,6 +1,8 @@
 
 # 2024-12-26
 
+专业数据分析平台
+
 python run_recbole_autodl.py --model=SUPCCL --dataset=yelp2018 --config=True --dataloader_file=~/yelp2018-for-SUPCCL-dataloader.pth
 
 uv venv --python=python3.8 .venv

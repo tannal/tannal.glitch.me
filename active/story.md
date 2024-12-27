@@ -1,6 +1,34 @@
 
 # inbox
 
+Based on the notes, this person appears to have experience with:
+1. System Programming & Tools
+Linux kernel development/debugging
+Performance tools (perf, bpf)
+Build systems (CMake, Make)
+Version control (Git)
+Virtualization/containers (Docker, K8s)
+Web Technologies
+WebKit/browser development
+JavaScript/Node.js
+Web standards/APIs
+Languages & Development
+C/C++
+Python
+Rust
+Build tools & package managers
+System Administration
+Linux system configuration
+Package management
+Service management
+Networking
+Hardware/Low-level
+ARM architecture
+GPU/graphics programming
+Memory management
+Boot processes
+The notes suggest someone working in systems programming with a focus on performance, browsers and low-level development, while also having broad full-stack development knowledge.
+
 I managed serval services
 gitea for source control
 geodns for dns resolution
@@ -34,7 +62,7 @@ docs/content app
 
 I use flamegraph.
 
-know about git, 
+know about git,
 
 5+ patches to firefox
 
