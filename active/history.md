@@ -1,6 +1,284 @@
 
 # 2024-12-26
 
+(260) Discord | #general | Typst
+https://discord.com/channels/1054443721975922748/1054443722592497796
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+dataset.tar.gz - Google 云端硬盘
+https://drive.google.com/file/d/14VhtomE5qE5yWUV3QlimwAWCdnh53T_Q/view
+
+A blue screen made by typst
+https://gist.github.com/realybin/1c5bda00e26f0d2bee585c5be414f846
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [15] | Standards
+https://chat.mozilla.org/#/room/#standards:mozilla.org
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+techdebt (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGHL3QKC4
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Chromium Docs - Ozone Overview
+https://chromium.googlesource.com/chromium/src/+/main/docs/ozone_overview.md#wayland
+
+bw (Brandon Wang)
+https://github.com/bw
+
+The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/
+
+mikeconley/joy-of-coding-episode-guide: Volunteer-driven episode guide for The Joy of Coding
+https://github.com/mikeconley/joy-of-coding-episode-guide/tree/master
+
+A Blog by Mike Conley | The personal blog of a Toronto based software mechanic, musician, sound designer, and theatre enthusiast.
+https://mikeconley.ca/blog/
+
+Episode 380 | The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/episodes/0380/index.html
+
+Save the Date - EuroLLVM and AsiaLLVM - Announcements - LLVM Discussion Forums
+https://discourse.llvm.org/t/save-the-date-eurollvm-and-asiallvm/83727
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Learning and Improving Every Day - These Weeks in Firefox: Issue 173
+https://groups.google.com/a/mozilla.org/g/firefox-dev/c/CzCGOW4d5Zc/m/PvwpeNsXAwAJ
+
+Firefox Headlines - Google 文档
+https://docs.google.com/document/d/1u9YH3ULNRYg6G-fN-Udkvfkcvg0alJfzi_zIAfFNkL8/edit?tab=t.0#heading=h.fg3ua1ju36fl
+
+⚙ D229523 Bug 1931747 - Make picture in picture deal with outer != inner sizes correctly. r=#pip-reviewers
+https://phabricator.services.mozilla.com/D229523
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+hlorenzi (Lorenzi)
+https://github.com/hlorenzi
+
+hlorenzi/theorytracker: 🎼 HTML5/WebAudio multi-track songwriting app with chord analysis support! -- https://hlorenzi.github.io/theorytracker/
+https://github.com/hlorenzi/theorytracker
+
+2402.11523v1.pdf
+https://arxiv.org/pdf/2402.11523
+
+PeiJieSun/NESCL: The code repository for the paper: Peijie et al., Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering. IEEE TKDE, 2023.
+https://github.com/PeiJieSun/NESCL
+
+年终盛典 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?from=22374&from_column=22374&page=double11-2024#TONGJIA
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=821s
+
+PyTorch internals : ezyang’s blog
+http://blog.ezyang.com/2019/05/pytorch-internals/
+
+A Tour of PyTorch Internals (Part I) | PyTorch
+https://pytorch.org/blog/a-tour-of-pytorch-internals-1/
+
+pytorch-internals.pdf
+https://web.mit.edu/~ezyang/Public/pytorch-internals.pdf
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories&p=2
+
+kiwiyou/algorithm-lecture
+https://github.com/kiwiyou/algorithm-lecture
+
+강한 연결 요소(SCC) 구현 톺아보기
+https://blog.kiwiyou.dev/posts/scc/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%EC%82%B4%ED%8E%B4%EB%B4%85%EB%8B%88%EB%8B%A4&op=translate
+
+Counter Type – Typst Documentation
+https://typst.app/docs/reference/introspection/counter/#definitions-display
+
+texmf/typst/slide_example.typ at f982040769683ad031a34c48288a30f9b08196f6 · luhsra/texmf
+https://github.com/luhsra/texmf/blob/f982040769683ad031a34c48288a30f9b08196f6/typst/slide_example.typ#L33
+
+Outline slides for each subsection · Issue #137 · touying-typ/touying
+https://github.com/touying-typ/touying/issues/137
+
+Fix Selection isCollapsed in Shadow DOM - Chrome Platform Status
+https://chromestatus.com/feature/5175599392620544
+
+238371 – [CSS Shapes] Add support for shape()
+https://bugs.webkit.org/show_bug.cgi?id=238371
+
+Typst
+https://typst.app/
+
+ezyang (Edward Z. Yang)
+https://github.com/ezyang
+
+ezyang (Edward Z. Yang)
+https://github.com/ezyang
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=4&prefix=true&query=2024%20&sort=byPopularity&type=story
+
+Eloquent JavaScript
+https://eloquentjavascript.net/
+
+Eloquent_JavaScript.pdf
+https://eloquentjavascript.net/Eloquent_JavaScript.pdf
+
+Music Theory that isn't boring - Lightnote
+https://www.lightnote.co/
+
+CSS finally adds vertical centering in 2024 | Blog | build-your-own.org
+https://build-your-own.org/blog/20240813_css_vertical_center/
+
+What You Need to Know about Modern CSS (Spring 2024 Edition) | Hacker News
+https://news.ycombinator.com/item?id=40248530
+
+Ask HN: Why is nobody manufacturing low tech electric cars in 2024? | Hacker News
+https://news.ycombinator.com/item?id=40668427
+
+A 2024 Plea for Lean Software | Hacker News
+https://news.ycombinator.com/item?id=39049956
+
+Cory LaViska: "it's so awesome to see support roll in like this...every bit counts in open source 💙 Hope we can get nested CSS into VS Code soon! 💪" — Bluesky
+https://bsky.app/profile/cory.laviska.com/post/3ld2eucmjys2p
+
+Add support for nested CSS · Issue #9 · microsoft/vscode-css
+https://github.com/microsoft/vscode-css/issues/9
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=modern&c=courses&dg=1
+
+Seminar in Deep Neural Networks (FS 2024) - DISCO
+https://disco.ethz.ch/courses/seminar/
+
+Clock Synchronization - YouTube
+https://www.youtube.com/watch?v=i-WXEkjm018
+
+Why Does Diffusion Work Better than Auto-Regression? - YouTube
+https://www.youtube.com/watch?v=zc5NTeJbk-k
+
+27_02_audio.pdf
+https://disco.ethz.ch/courses/seminar/talks/27_02_audio.pdf
+
+Sutton & Barto Book: Reinforcement Learning: An Introduction
+http://incompleteideas.net/book/the-book-2nd.html
+
+auto regressor - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=auto+regressor
+
+Support SVG Colour Specification · Issue #5600 · typst/typst
+https://github.com/typst/typst/issues/5600
+
+ezyang’s blog
+http://blog.ezyang.com/
+
+Diagrams - Hilbert curve
+https://diagrams.github.io/gallery/Hilbert.html
+
+Mc-Zen
+https://github.com/Mc-Zen
+
+touying-brandred-uobristol – Typst Universe
+https://typst.app/universe/package/touying-brandred-uobristol
+
+DRM_CURSOR - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=DRM_CURSOR
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Iterator in std::iter - Rust
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.intersperse
+
+littledan (Daniel Ehrenberg)
+https://github.com/littledan
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+2302.03917v2.pdf
+https://arxiv.org/pdf/2302.03917
+
+Site not found · GitHub Pages
+https://google-research.github.io/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+cuda - How do I select which GPU to run a job on? - Stack Overflow
+https://stackoverflow.com/questions/39649102/how-do-i-select-which-gpu-to-run-a-job-on
+
+2402.11523v1.pdf
+https://arxiv.org/pdf/2402.11523
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+PeiJieSun/NESCL: The code repository for the paper: Peijie et al., Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering. IEEE TKDE, 2023.
+https://github.com/PeiJieSun/NESCL
+
+SUPCCL - Google 云端硬盘
+https://drive.google.com/drive/folders/1coHwFat2b4prNPQ4Q8QHznbg8rsi6-P1
+
+kuandeng/LightGCN
+https://github.com/kuandeng/LightGCN
+
+LightGCN - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=LightGCN
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+HTML Standard
+https://html.spec.whatwg.org/#critical-subresources
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=unbeknownst&op=translate
+
+Mc-Zen
+https://github.com/Mc-Zen
+
+2402.11523v1.pdf
+https://arxiv.org/pdf/2402.11523
+
+PeiJieSun/NESCL: The code repository for the paper: Peijie et al., Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering. IEEE TKDE, 2023.
+https://github.com/PeiJieSun/NESCL?tab=readme-ov-file
+
+SUPCCL - Google 云端硬盘
+https://drive.google.com/drive/folders/1coHwFat2b4prNPQ4Q8QHznbg8rsi6-P1
+
+kuandeng/LightGCN
+https://github.com/kuandeng/LightGCN
+
+tannal (tannal)
+https://github.com/tannal?tab=overview&from=2024-11-01&to=2024-11-30
 
 # 2024-12-25
 
