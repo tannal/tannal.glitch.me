@@ -1,7 +1,16 @@
 
 # 2024-12-27
 
+CFG 的解析器：
+- LL(k)
+- LR(k)
+- LALR(1)
 
+PEG 的解析器：
+- Packrat Parser（最常见）
+- 其他基于PEG的递归下降解析器
+
+C++不是PEG语法，它是一个基于CFG(Context-Free Grammar)的语言，通常使用LALR(1)或LR(1)解析器来处理。
 
 # 2024-12-26
 
