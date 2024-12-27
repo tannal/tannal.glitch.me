@@ -1,6 +1,25 @@
 
+# 2024-12-27
+
+
+
 # 2024-12-26
 
+代码编辑器（如 VS Code, Monaco Editor）
+富文本编辑器（如 Word Online, Google Docs）
+图形编辑器（如 Figma, AutoCAD Web）
+游戏引擎 Web 版（如 Cocos Creator）
+3D 建模软件（如 OnShape, Fusion 360 Web）
+专业仿真软件（如 SimScale）
+在线视频编辑器（如 LumaFusion Web）
+大规模数据可视化（如 Grafana）
+AI 辅助创作平台
+专业音频工作站 (DAW Web版)
+BIM/CAD在线协作平台
+在线GIS系统
+大规模低代码平台
+企业级监控平台
+在线电路设计工具
 专业数据分析平台
 
 python run_recbole_autodl.py --model=SUPCCL --dataset=yelp2018 --config=True --dataloader_file=~/yelp2018-for-SUPCCL-dataloader.pth
