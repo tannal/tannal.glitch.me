@@ -1,6 +1,8 @@
 
 # 2024-12-28
 
+Dmitri Tymoczko
+
 和弦度数移动 (chordal degrees)
 音阶度数移动 (scalar degrees)
 半音移动 (chromatic degrees)
