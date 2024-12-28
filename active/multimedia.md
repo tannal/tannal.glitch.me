@@ -1,3 +1,17 @@
+V4L2 (Video4Linux2)
+GStreamer
+
+- Intel: VA-API, 媒体驱动
+- AMD: GPU驱动
+- NVIDIA: GPU驱动
+- Collabora: GStreamer, V4L2
+- Red Hat: 系统集成
+
+- Linux Media Subsystem
+- Mesa3D
+- libdrm
+- libcamera
+- PipeWire
 
 # pipewire
 
