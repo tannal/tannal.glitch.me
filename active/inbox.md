@@ -1,6 +1,49 @@
 
 # 2024-12-28
 
+React Native Core
+├── UIManager (主项目)
+│   ├── 视图创建和更新
+│   ├── 布局计算结果应用
+│   └── 批量更新处理
+│
+├── Yoga (独立项目)
+│   └── 布局计算
+│
+└── Bridge/JSI (主项目)
+    └── 跨语言通信
+
+新人阶段 (0-6个月)：
+依赖mentor是正常的：
+- 学习最佳实践
+- 理解决策逻辑
+- 积累经验
+
+成长阶段 (6个月-1年)：
+开始承担责任：
+- 提出自己的想法
+- 与mentor讨论方案
+- 开始独立决策小事项
+
+独立阶段 (1年+)：
+完全承担责任：
+- 独立做技术决策
+- 能够解释决策理由
+- 承担决策后果
+
+1. 起初："按mentor说的做，同时理解原因"
+2. 过渡："我的想法是...，请帮我看看"
+3. 最终："我决定这样做，因为..."
+
+做工程比的是执行力
+而科研比的bushi
+
+https://softwareengineeringdaily.com/
+
+JS层 → Bridge/JSI → Native UI Manager → Platform Views
+   ↓          ↓            ↓                ↓
+React     消息传递     原生视图管理     实际UI组件
+
 Action trigger command which has redo/undo stack.
 
 Model 负责数据管理
