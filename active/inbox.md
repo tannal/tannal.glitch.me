@@ -1,4 +1,17 @@
 
+# 2024-12-28
+
+Action trigger command which has redo/undo stack.
+
+Model 负责数据管理
+View 负责渲染
+InputHandler 处理用户输入
+Selection 管理选区
+Decoration 提供视觉增强
+Language 提供语言特性支持
+Configuration 管理配置
+Event System 实现组件通信
+
 # 2024-12-27
 
 CFG 的解析器：
