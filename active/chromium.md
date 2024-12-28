@@ -1,4 +1,13 @@
 
+# New Porjects
+
+WebGPU
+Project Fugu (Web Capabilities)
+Privacy Sandbox
+WebAssembly
+Web Environment Integrity
+Passkeys
+WebGPU + WebNN
 
 # 2025
 

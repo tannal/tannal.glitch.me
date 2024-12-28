@@ -54,11 +54,11 @@ Intel in talks to acquire RISC-V firm SiFive for $2B
 Intel to Acquire 15 Percent Ownership of Here
 Intel to Acquire Wind River Systems for Approximately $884 Million
 Hacker League Acquired by Intel for Undisclosed Amount
-Intel acquires two multicore software firms, Cilk & RapidMind 
+Intel acquires two multicore software firms, Cilk & RapidMind
 Intel offered to acquire SiFive for more than $2B
 Intel Acquires Habana Labs for $2B
 Apple acquires Intel’s 5G smartphone modem business for $1B
-Intel Acquires Egypt-based SySDSoft 
+Intel Acquires Egypt-based SySDSoft
 Intel acquires Itseez, maker of OpenCV
 Intel Acquires Mashery
 Intel acquires Itseez, company behind OpenCV
@@ -69,7 +69,7 @@ Basis acquired by Intel for 100M
 Intel to Acquire Israeli startup Granulate for $650M
 Intel acquires computer vision firm Movidius
 Intel Acquires Habana Labs for $2B
-Intel’s Mashery acquires hackathon management platform Hacker League 
+Intel’s Mashery acquires hackathon management platform Hacker League
 Intel Set To Acquire Wind River Systems For Approximately $884 Million
 
 
@@ -534,7 +534,7 @@ Broadcom in Talks to Acquire VMware
 - C2C和B2C业务
 
 2. 本地生活
-- 饿了么 
+- 饿了么
 - 口碑
 - 高德地图
 
@@ -722,6 +722,14 @@ Cumulus Networks是一家提供基于Linux的网络操作系统的公司。2020�
 
 # Google
 
+AI/ML Team
+Android Team
+Cloud Team
+AR/VR Team
+基础设施团队
+研究院 (Google Research)
+X Lab (Moonshot)
+
 我介绍一下这些公司及其主要成就,但是为了保护个人隐私,我不会透露个人信息或社交媒体账号:
 Boston Dynamics - 一家机器人公司,开发出像Atlas、SpotMini等多款高度智能化的机器人,在机器人行走、平衡等技术领先。
 Nest - 一家智能家居公司,其智能恒温器产品开创了智能家居热潮。由前苹果高管托尼·法德尔创立。
@@ -807,7 +815,7 @@ Facebook acquires Instagram
 Palantir worked with Cambridge Analytica on the Facebook data it acquired
 Facebook almost acquired Waze, but we ended up with Google
 Instagram is acquired by Facebook
-Facebook Acquires FriendFeed 
+Facebook Acquires FriendFeed
 Facebook to acquire CTRL-Labs, a startup for controlling computers with the mind
 Amazon has acquired Facebook's satellite internet team
 Facebook has acquired Divvyshot (YC W09)
@@ -917,7 +925,7 @@ Yahoo Once Considered Buying Netflix – But Unfortunately Acquired Tumblr Inste
 Netflix acquires AI-powered language learning app THINKIN
 Netflix acquires its first game studio
 Netflix Acquires Roald Dahl Story Company, Including Catalog
-Amazon acquires LoveFilm, Europe’s Netflix, for approximately $200 million 
+Amazon acquires LoveFilm, Europe’s Netflix, for approximately $200 million
 Netflix Rumored to Acquire Roku
 Netflix Acquires 3D Printing Documentary ‘Print the Legend’
 Netflix acquired rights to stream NFL games on Christmas Day for ~$150M/game
@@ -1017,7 +1025,7 @@ Adobe to Acquire Frame.io
 Adobe Acquires Marketo for $4.75B
 Adobe Acquires PhoneGap
 Adobe Acquires Allegorithmic (maker of Substance Designer)
-Adobe To Acquire Omniture For Approximately $1.8 Billion 
+Adobe To Acquire Omniture For Approximately $1.8 Billion
 PhoneGap to become an Apache project as Adobe acquires Nitobi
 Adobe acquire Nitobi Software - makers of PhoneGap
 Adobe acquires ecommerce CMS Magento for $1.68B
@@ -1031,4 +1039,3 @@ Adobe to Acquire Marketo
 Adobe acquires Mettle’s SkyBox tools to expands its VR video portfolio
 Adobe acquires Livefyre
 Adobe acquires social engagement platform Livefyre
-

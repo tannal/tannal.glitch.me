@@ -1,17 +1,13 @@
 
 # 2024-12-28
 
-React Native Core
-├── UIManager (主项目)
-│   ├── 视图创建和更新
-│   ├── 布局计算结果应用
-│   └── 批量更新处理
-│
-├── Yoga (独立项目)
-│   └── 布局计算
-│
-└── Bridge/JSI (主项目)
-    └── 跨语言通信
+和弦度数移动 (chordal degrees)
+音阶度数移动 (scalar degrees)
+半音移动 (chromatic degrees)
+
+1年：MVP和早期采用者
+2年：1.0和生产可用
+3年+：生态系统成熟
 
 新人阶段 (0-6个月)：
 依赖mentor是正常的：

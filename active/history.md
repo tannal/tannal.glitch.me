@@ -1,6 +1,203 @@
 
 # 2024-12-28
 
+(277) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303/1318575648993972274
+
+Issues · jrihon/thesis
+https://github.com/jrihon/thesis/issues
+
+Issues · flxzt/rnote
+https://github.com/flxzt/rnote/issues
+
+dataset.tar.gz - Google 云端硬盘
+https://drive.google.com/file/d/14VhtomE5qE5yWUV3QlimwAWCdnh53T_Q/view
+
+A blue screen made by typst
+https://gist.github.com/realybin/1c5bda00e26f0d2bee585c5be414f846
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
+
+Graphite | Debugging
+https://graphite.rs/volunteer/guide/codebase-overview/debugging/
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [17] | Standards
+https://chat.mozilla.org/#/room/#standards:mozilla.org
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+techdebt (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGHL3QKC4
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+rust (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Chromium Docs - Ozone Overview
+https://chromium.googlesource.com/chromium/src/+/main/docs/ozone_overview.md#wayland
+
+bw (Brandon Wang)
+https://github.com/bw
+
+[css-scoping] Inclusive vs exclusive lower boundary · Issue #6577 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/6577
+
+[css-pseudo] clarify paired-cascading behavior · Issue #6386 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/6386
+
+Add `wasm32-unknown-unknown` (and `rust-lld`) to the Rust toolchain [383232124] - Chromium
+https://issues.chromium.org/u/0/issues/383232124
+
+Software Engineering Daily
+https://softwareengineeringdaily.com/
+
+The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/
+
+mikeconley/joy-of-coding-episode-guide: Volunteer-driven episode guide for The Joy of Coding
+https://github.com/mikeconley/joy-of-coding-episode-guide/tree/master
+
+A Blog by Mike Conley | The personal blog of a Toronto based software mechanic, musician, sound designer, and theatre enthusiast.
+https://mikeconley.ca/blog/
+
+Episode 380 | The Joy of Coding: Episode Guide
+https://mikeconley.github.io/joy-of-coding-episode-guide/episodes/0380/index.html
+
+LLVM Discussion Forums - Our community includes both users and developers of various compiler technologies within the LLVM project.
+https://discourse.llvm.org/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Firefox Headlines - Google 文档
+https://docs.google.com/document/d/1u9YH3ULNRYg6G-fN-Udkvfkcvg0alJfzi_zIAfFNkL8/edit?tab=t.0#heading=h.fg3ua1ju36fl
+
+⚙ D229523 Bug 1931747 - Make picture in picture deal with outer != inner sizes correctly. r=#pip-reviewers
+https://phabricator.services.mozilla.com/D229523
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+hlorenzi (hlorenzi) / Repositories
+https://github.com/hlorenzi?tab=repositories
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=821s
+
+music and geometry - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=music+and+geometry+
+
+OOEW05 | Prof. Dmitri Tymoczko | A new model of musical hierarchy - YouTube
+https://www.youtube.com/watch?v=dO4mYeBMf84
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Search — Bluesky
+https://bsky.app/search?q=risingstars.js.org
+
+DioxusLabs/blitz: A radically modular HTML/CSS rendering engine
+https://github.com/DioxusLabs/blitz/
+
+Codetribute
+https://codetribute.mozilla.org/
+
+998485 - Replace EdgeCaseAnalysis (Forward & Backward), by equivalent RangeAnalysis collectRangeInfoPreTrunc(ate)
+https://bugzilla.mozilla.org/show_bug.cgi?id=998485
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Taylor Swift & Avril Lavigne - Complicated (Live on The 1989 World Tour) - YouTube
+https://www.youtube.com/watch?v=1EA2R4amgJ8
+
+解析表达文法 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%A7%A3%E6%9E%90%E8%A1%A8%E8%BE%BE%E6%96%87%E6%B3%95
+
+Packrat parsing:: simple, powerful, lazy, linear time, functional pearl: ACM SIGPLAN Notices: Vol 37, No 9
+https://dl.acm.org/doi/10.1145/583852.581483#core-collateral-purchase-access
+
+Eli Bendersky's website
+https://eli.thegreenplace.net/
+
+CFFI documentation — CFFI 1.17.1 documentation
+https://cffi.readthedocs.io/en/stable/index.html
+
+eliben/raft: :rowboat: Raft implementation in Go
+https://github.com/eliben/raft
+
+Parsing Techniques - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Parsing+Techniques
+
+Index of /class/archive/cs/cs143/cs143.1128/lectures/00
+https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/00/
+
+Index of /class/archive/cs/cs143/cs143.1128/lectures/01
+https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/01/
+
+Slides01.pdf
+https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/lectures/01/Slides01.pdf
+
+yarnpkg/yarn: The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+https://github.com/yarnpkg/yarn/tree/master
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite
+https://editor.graphite.rs/
+
+Code search results
+https://github.com/search?q=repo%3Atldraw%2Ftldraw+command+language%3ATypeScript&type=code&p=3&l=TypeScript
+
+smalltalk-80.pdf
+https://web.stanford.edu/class/cs343/resources/smalltalk-80.pdf
+
+Efficient Implementation of the Smalltalk-80 · Issue #98 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/98
+
+Ingalls_1981_-_Design_Principles_Behind_Smalltalk.pdf
+https://worrydream.com/refs/Ingalls_1981_-_Design_Principles_Behind_Smalltalk.pdf
+
+Code search results
+https://github.com/search?q=repo%3Afacebook%2Fyoga%20ReactViewManager&type=code
+
+Code search results
+https://github.com/search?q=repo%3Afacebook%2Freact-native%20ReactActivity&type=code
+
+Graphite
+http://localhost:8080/
+
+Graphite
+https://github.com/GraphiteEditor/
+
+Code search results
+https://github.com/search?q=repo%3Afacebook%2Freact-native%20UIManager&type=code
+
+关于我们 - 美团技术团队
+https://tech.meituan.com/about
+
+Mike Schroepfer - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Mike+Schroepfer+
+
+Shawn Edwards - Chief Technology Officer | Bloomberg LP
+https://www.bloomberg.com/company/values/tech-at-bloomberg/features/shawn-edwards/
 
 # 2024-12-27
 
