@@ -1,6 +1,16 @@
 
 # 2024-12-28
 
+12900k 4090 1T 64G x2
+13700kf 64G 2T x1
+pulibc IP 8m bandwith x1
+windows x2
+popos rust desktop x1
+arm64 cortex A76 rasberrypi 5 8G 512G x1
+cortex A53 arm64 1G x1
+AOSP phone x4
+A800 x2
+
 Dmitri Tymoczko
 
 和弦度数移动 (chordal degrees)
