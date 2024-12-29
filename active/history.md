@@ -1,6 +1,161 @@
 
 # 2024-12-29
 
+(285) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303/1211110413249552424
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
+
+Graphite | Debugging
+https://graphite.rs/volunteer/guide/codebase-overview/debugging/
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite | Contributing guidelines
+https://graphite.rs/volunteer/guide/codebase-overview/contributing-guidelines/
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [15] | gfx-firefox
+https://chat.mozilla.org/#/room/#gfx:mozilla.org
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+skia-chat (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/C01GA0R525P
+
+[base] Add fixed_flat_map and fixed_flat_set (2532247) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/2532247/1
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+rust (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Chromium Docs - Ozone Overview
+https://chromium.googlesource.com/chromium/src/+/main/docs/ozone_overview.md#wayland
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+music and geometry - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=music+and+geometry+
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Join SEMF
+https://semf.org.es/participate/join.html
+
+madmusicalscience.com/arcaexplanation.html
+https://www.madmusicalscience.com/arcaexplanation.html
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+建构主义 (学习理论) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%BB%BA%E6%A7%8B%E4%B8%BB%E7%BE%A9_(%E5%AD%B8%E7%BF%92%E7%90%86%E8%AB%96)
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Browsers Developer (Chromium focus) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/browsers_chromium_position
+
+McCoy Tyner - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=McCoy+Tyner
+
+Issues · Anjok07/ultimatevocalremovergui
+https://github.com/Anjok07/ultimatevocalremovergui/issues
+
+tannal
+https://tannal.github.io/
+
+Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015 - YouTube
+https://www.youtube.com/watch?v=SmE4OwHztCc
+
+ghostty-org/ghostty: 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+https://github.com/ghostty-org/ghostty
+
+zig fetch doesn't handle proxy properly? · Issue #21792 · ziglang/zig
+https://github.com/ziglang/zig/issues/21792
+
+tinybasic/src/parser.zig at master · timothyqiu/tinybasic
+https://github.com/timothyqiu/tinybasic/blob/master/src/parser.zig
+
+What the The end of 0% interest rates means for software engineers | Hacker News
+https://news.ycombinator.com/item?id=39193331
+
+Kenneth Graunke youtube - Google 搜索
+https://www.google.com/search?q=Kenneth+Graunke+youtube&client=ubuntu-sn&hs=jhs&sca_esv=4afd992475402443&channel=fs&udm=7&sxsrf=ADLYWIJGiXKZpJ6LUjBHKc_bVD-8SDwv_w:1735379134366&ei=vshvZ9r7FemJ9u8P5YzN6AI&start=10&sa=N&sstk=ATObxK5hijR1YkYj8H3oZHk5G3pOztprZwRejaNu_p2eQ4dnvzNDgDbtTy60oMeyto7kGVIz5sM6aIq-7dySMl3gExzzsE6chvk1tQ&ved=2ahUKEwja0uqGl8qKAxXphP0HHWVGEy0Q8tMDegQIBBAG&biw=1850&bih=968&dpr=1
+
+linux.conf.au - YouTube
+https://www.youtube.com/@linuxconfau/videos
+
+OverviewConformalGeometryProcessing.pdf
+https://www.cs.cmu.edu/~kmcrane/Projects/Other/OverviewConformalGeometryProcessing.pdf
+
+Supercomputing, Infrastructure | OpenAI | OpenAI
+https://openai.com/careers/supercomputing-infrastructure/
+
+A Romp Through Database History (w/ Postgres co-creator Mike Stonebraker + Andy Palmer) - YouTube
+https://www.youtube.com/watch?v=-OvWECNUcJo
+
+Lecture 11: Digital Geometry Processing (CMU 15-462/662) - YouTube
+https://www.youtube.com/watch?v=BwpEoZYcrwY&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=13
+
+Rust and WebAssembly
+https://github.com/rustwasm
+
+debug rust in chromedevtools - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=debug+rust+in+chromedevtools
+
+Getting raw .wasm debugging working nicely in chrome devtools! - Editors and IDEs - The Rust Programming Language Forum
+https://users.rust-lang.org/t/getting-raw-wasm-debugging-working-nicely-in-chrome-devtools/94646
+
+Debugging - Rust and WebAssembly
+https://rustwasm.github.io/book/reference/debugging.html
+
+Improved WebAssembly debugging in Chrome DevTools  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/wasm-debugging-2019
+
+Source map support? · Issue #824 · rustwasm/wasm-pack
+https://github.com/rustwasm/wasm-pack/issues/824
+
+haraldreingruber-dedalus/rust-wasm-dwarf-debugging: This is a hello-world example, demostrating the Rust-WebAssembly-DWARF debugging workflow.
+https://github.com/haraldreingruber-dedalus/rust-wasm-dwarf-debugging
+
+Add an option to --keep-debug · Issue #1351 · rustwasm/wasm-pack
+https://github.com/rustwasm/wasm-pack/issues/1351
+
+Source map support? · Issue #824 · rustwasm/wasm-pack
+https://github.com/rustwasm/wasm-pack/issues/824
 
 # 2024-12-28
 
