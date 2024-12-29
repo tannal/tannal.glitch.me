@@ -1,6 +1,29 @@
 
 # 2024-12-29
 
+TopCoder
+HackerRank
+Google Competitions
+AtCoder
+LeetCode 周赛
+HackerRank 练习
+提高阶段：
+Codeforces Div.2
+AtCoder ABC
+竞赛阶段：
+Codeforces Div.1
+TopCoder SRM
+Google 比赛
+4. 求职准备：
+LeetCode 企业题库
+牛客网专题
+
+We are always seeking new collaborators to help test, design, and develop the software.
+
+although our plans for version history and CRDTs might mean we end up encoding it differently in the end
+
+问题不会消失，只会转移。
+
 Yerkes-Dodson(1908)实际上说的是"适度压力"和"最佳表现"的关系
 舒适圈理论指出在舒适圈内无法进步，这是错误的
 建构主义学习理论强调在已有知识基础上构建新知识
