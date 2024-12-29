@@ -6,7 +6,6 @@
 计算样式和排版
 最后是渲染，取决于最后的输出是svg，pdf，png，html还是
 
-
 https://blog.mitrichev.ch/
 
 - STOC (Theory of Computing)

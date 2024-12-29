@@ -1,6 +1,186 @@
 
 # 2024-12-29
 
+(286) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303/1211110413249552424
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
+
+Graphite | Debugging
+https://graphite.rs/volunteer/guide/codebase-overview/debugging/
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite | Graphene
+https://graphite.rs/volunteer/guide/graphene/
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [15] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Web Performance Calendar » Top 8 things I want in the Devtools Network Panel
+https://calendar.perfplanet.com/2024/top-8-things-i-want-in-the-devtools-network-panel/
+
+Element | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+misc (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+rust (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Chromium Docs - Ozone Overview
+https://chromium.googlesource.com/chromium/src/+/main/docs/ozone_overview.md#wayland
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+music and geometry - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=music+and+geometry+
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Join SEMF
+https://semf.org.es/participate/join.html
+
+madmusicalscience.com/arcaexplanation.html
+https://www.madmusicalscience.com/arcaexplanation.html
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Graphite
+https://dev.graphite.rs/
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+mihomo - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=mihomo
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Six Things I Bet You Didn't Know About Typst | Laurenz Mädje @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=WQyqyrRQcSw&t=10s
+
+Reading Typst Like a Parser | Ian Wrzesinski @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=htiFam61Nwo
+
+Why Sponsor Oils?
+https://www.oilshell.org/why-sponsor.html
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/
+
+3403. 从盒子中找出字典序最大的字符串 - 力扣（LeetCode）
+https://leetcode.cn/problems/find-the-lexicographically-largest-string-from-the-box-i/
+
+第 430 场周赛 排名 - 力扣（LeetCode）
+https://leetcode.cn/contest/weekly-contest-430/ranking/
+
+Codeforces
+https://codeforces.com/
+
+Problem - 196A - Codeforces
+https://codeforces.com/problemset/problem/196/A
+
+Contests - Codeforces
+https://codeforces.com/contests
+
+42. 接雨水 - 力扣（LeetCode）
+https://leetcode.cn/problems/trapping-rain-water/
+
+约翰·霍普克洛夫特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%B4%84%E7%BF%B0%C2%B7%E9%9C%8D%E6%99%AE%E5%85%8B%E6%B4%9B%E5%A4%AB%E7%89%B9
+
+Algorithms Weekly by Petr Mitrichev
+https://blog.mitrichev.ch/
+
+Kamil Debowski - Harbour.Space University
+https://harbour.space/faculty/Kamil-Debowski
+
+Day 6 | Advent of Code 2024 - YouTube
+https://www.youtube.com/watch?v=UwV47y3GqsY
+
+George Hotz | Just Chatting | how to actually win? | tinygrad.org - YouTube
+https://www.youtube.com/watch?v=LJbUaciFdV8&t=2479s
+
+Fast Input & Output · USACO Guide
+https://usaco.guide/general/fast-io
+
+Douglas Crockford - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=+Douglas+Crockford+
+
+TDOP Pratt
+https://tdop.github.io/
+
+parser-base.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/parsing/parser-base.h;l=2277;drc=e3f856ae03dd1c131b435a16d71f36de3f0f44a3;bpv=1;bpt=1
+
+oils-for-unix/oils: Oils is our upgrade path from bash to a better language and runtime. It's also for Python and JavaScript users who avoid shell!
+https://github.com/oils-for-unix/oils
+
+stop set compiler parsing - Google 搜索
+https://www.google.com/search?q=stop+set+compiler+parsing&client=ubuntu-sn&hs=2fD&sca_esv=4b5b0e3022d3b140&channel=fs&sxsrf=ADLYWIJU3Ui9uEqnK3vSh3KKVOiuyvtPuQ%3A1735459747278&ei=owNxZ9nWEJGzi-gPq_rKyAQ&ved=0ahUKEwiZtIiuw8yKAxWR2QIHHSu9EkkQ4dUDCBA&uact=5&oq=stop+set+compiler+parsing&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXN0b3Agc2V0IGNvbXBpbGVyIHBhcnNpbmcyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSJ4NUMUDWJgMcAF4AZABAJgB6QKgAfsPqgEDMy02uAEDyAEA-AEBmAIHoAKdEMICChAAGLADGNYEGEfCAgcQIRigARgKmAMAiAYBkAYKkgcFMS4zLTagB9wR&sclient=gws-wiz-serp
+
+Lewis & Stearns - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Lewis+%26+Stearns+
+
+Brian Kernighan & Dennis Ritchie - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Brian+Kernighan+%26+Dennis+Ritchie
+
+[lex.comment]
+https://eel.is/c++draft/lex.comment
+
+programming pearls - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=programming+pearls
+
+Home / X
+https://x.com/home
+
+Software Engineer, Security Product and Platform | OpenAI | OpenAI
+https://openai.com/careers/software-engineer-security-product-and-platform/
+
+tannal (tannal)
+https://github.com/tannal
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+TDOP Pratt
+https://tdop.github.io/
+
+2ality – JavaScript and more
+https://2ality.com/
+
+TDOP Pratt
+https://tdop.github.io/
+
 (285) Discord | #📄development | Graphite
 https://discord.com/channels/731730685944922173/731738914812854303/1211110413249552424
 
