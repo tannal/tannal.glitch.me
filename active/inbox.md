@@ -1,6 +1,8 @@
 
 # 2024-12-29
 
+https://blog.rakina.fyi/
+
 将 AST nodes 转换为 frames
 语义分析后会进行布局（Layout）过程，将 AST nodes 转换为 frames
 计算样式和排版

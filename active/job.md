@@ -578,13 +578,18 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2025-1-20 - 2025-1-27
 # 2025-1-13 - 2025-1-20
 
-# 2025-1-6 - 2025-1-13
+# 2025-1-6 - 2025-1-13 (travel week)
+
+[] 1-10 heading shanghai
+
 
 研一上结束的寒假, outreachy
 
-# 2024-12-30 - 2025-1-6
+# 2024-12-30 - 2025-1-6 (feels better week full of energy)
 
-# 2024-12-23 - 2024-12-30 (deadline week)
+
+
+# 2024-12-23 - 2024-12-30 (deadline & recover week)
 
 ## Sleep
 
@@ -604,9 +609,10 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [] benke shiyou
 
 ## TODO
-[] fu za wang luo bao gao ppt
-[] ke ji xie zuo
-[] yin yue jian shang
+
+[x] fu za wang luo bao gao ppt
+[x] ke ji xie zuo
+[x] yin yue jian shang
 
 [] I updated the input bug issue to state that we need to change the spec on
 [] igalia no response
@@ -615,7 +621,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 
 
-# 2024-12-16 - 2024-12-23 16 (busy week)
+# 2024-12-16 - 2024-12-23 16 (busy & burn out week)
 
 
 ## Sleep
