@@ -1,4 +1,23 @@
 
+
+主要比赛时间：22:35 UTC+8（北京时间晚上10:35）
+持续时间：
+- Div.2: 2小时
+- Div.3: 2小时15分钟
+- Div.4: 2小时15-30分钟
+- Global Round: 3小时
+
+- Educational Round: 每月1-2次
+- Div.2 Round: 每周1-2次
+- Div.3 Round: 每月2-3次
+- Div.4 Round: 每月1次
+- Global Round: 每2-3个月一次
+
+周末（周六/周日）最常见
+工作日通常在晚上
+重要比赛会提前公布时间
+教育回合(Educational Round)时间相对固定
+
 # seol
 
 https://codeforces.com/profile/Karuna
@@ -21,7 +40,7 @@ https://codeforces.com/profile/est_stella
 https://codeforces.com/profile/Worteltje
 https://codeforces.com/submissions/mo_onrabbit2
 
-# tokio 
+# tokio
 
 https://codeforces.com/profile/potato167
 https://codeforces.com/profile/noshi91

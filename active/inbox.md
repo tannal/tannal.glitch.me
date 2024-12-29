@@ -1,6 +1,21 @@
 
 # 2024-12-29
 
+
+- STOC (Theory of Computing)
+- FOCS (Foundations of Computer Science)
+- SODA (Algorithms and Data Structures)
+- ICALP (Automata, Languages and Programming)
+
+http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/
+
+John Edward Hopcroft
+Robert Endre Tarjan
+
+Cracking the Coding Interview
+Elements of Programming Interviews
+Programming Interviews Exposed
+
 TopCoder
 HackerRank
 Google Competitions
