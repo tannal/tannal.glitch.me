@@ -1,6 +1,43 @@
 
 # 2024-12-30
 
+做更少的事(Do fewer things)
+以自然的节奏工作(Work at a natural pace)
+专注于质量(Obsess over quality)
+工作应该以更多样化和人性化的节奏展开
+在不同时间尺度上,紧张工作期应与放松期相平衡
+重视季节性和周期性的工作方式
+
+
+https://calnewport.com/my-new-book-slow-productivity/
+
+- In Pursuit of the Unknown: 17 Equations That Changed the World, by Ian Stewart
+- Slow Productivity, by Cal Newport
+- Children of Memory, by Adrian Tchaikovsky
+- Quicksilver, by
+@nealstephenson.bsky.social
+
+- The Wisdom of Finance, by Mihir Desai
+
+1. Recession Proof Graduate, Charlie Hoehn
+2. So Good They Can't Ignore You, Cal Newport
+3. Essentialism, Greg McKeown
+4. This is Marketing, Seth Godin
+5. Youtility, Jay Baer
+
+食物与水
+住所与安全
+基础医疗
+基础教育
+社交关系
+自我实现的机会
+
+奢侈品消费
+过度娱乐设备
+过剩的衣物
+频繁更换的电子产品
+多余的居住空间
+
 如何在复杂的现代社会中，找到真正有价值的东西，并过上更有质量的生活。
 
 传统商业 → 电商
