@@ -582,10 +582,20 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 [] 1-10 heading shanghai
 
-
 研一上结束的寒假, outreachy
 
 # 2024-12-30 - 2025-1-6 (feels better week full of energy)
+
+## Sleep
+[] 12-29-30 wake up on 6:00am x and sleep to 9:30am
+
+## Eat
+
+[] Skip breakfirst
+
+## Sports
+
+No
 
 
 
