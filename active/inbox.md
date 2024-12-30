@@ -1,6 +1,12 @@
 
 # 2024-12-30
 
+能不能理解问题
+有没有经验，有没有做过
+会不会说，清晰，充分
+对于常见的问题知不知道思路解法
+会不会写，测试，部署，上线
+
 C -> Go better c
 C++ -> Rust better c++
 java -> kotlin,scala,closure better java
