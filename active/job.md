@@ -587,6 +587,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2024-12-30 - 2025-1-6 (feels better week full of energy)
 
 ## Sleep
+
 [] 12-29-30 wake up on 6:00am x and sleep to 9:30am
 
 ## Eat
@@ -595,8 +596,11 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 ## Sports
 
-No
+[] No
 
+## Social Activity
+
+[] wangzhe rongyao 12-29 evening
 
 
 # 2024-12-23 - 2024-12-30 (deadline & recover week)
@@ -614,9 +618,9 @@ No
 
 ## Social Activity
 
-[] shiyanshi
-[] yanjiusheng shiyou
-[] benke shiyou
+[x] shiyanshi
+[x] yanjiusheng shiyou
+[x] benke shiyou
 
 ## TODO
 
