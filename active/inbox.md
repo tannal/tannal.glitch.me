@@ -1,6 +1,26 @@
 
 # 2024-12-30
 
+C -> Go better c
+C++ -> Rust better c++
+java -> kotlin,scala,closure better java
+
+C# -> F# (for functional programming in .NET)
+JavaScript -> TypeScript,Dart
+PHP -> Hack
+Objective-C -> Swift
+Pascal -> Delphi
+BASIC -> Visual Basic -> VB.NET
+Perl -> Raku (formerly Perl 6)
+Fortran -> Chapel
+Chapel is a modern parallel programming language that can be seen as a successor to Fortran for high-performance computing.
+Lisp -> Clojure
+Clojure is a modern Lisp dialect that runs on the Java Virtual Machine.
+Erlang -> Elixir
+SQL -> NoSQL languages (e.g., MongoDB's query language)
+Shell scripting -> Python
+MATLAB -> Julia
+
 
 yarn add -D metro-react-native-babel-preset
 import 'react-native-reanimated';
@@ -3798,37 +3818,6 @@ https://jhalon.github.io/chrome-browser-exploitation-2/
 %DebugPrint(obj)
 (gdb) x/8gx 0x40d000492d1 -1
 
-C -> Go better c
-C++ -> Rust better c++
-java -> kotlin,scala,closure better java
-
-C# -> F# (for functional programming in .NET)
-Some other notable transitions:
-
-JavaScript -> TypeScript
-TypeScript adds static typing and other features to JavaScript, making it more suitable for large-scale applications.
-PHP -> Hack
-Hack, developed by Facebook, adds static typing and other features to PHP.
-Objective-C -> Swift
-Swift is Apple's modern replacement for Objective-C in iOS and macOS development.
-Pascal -> Delphi
-Delphi is an object-oriented descendant of Pascal.
-BASIC -> Visual Basic -> VB.NET
-Visual Basic modernized BASIC, and VB.NET further modernized it for the .NET framework.
-Perl -> Raku (formerly Perl 6)
-Raku is a major redesign and improvement of Perl.
-Fortran -> Chapel
-Chapel is a modern parallel programming language that can be seen as a successor to Fortran for high-performance computing.
-Lisp -> Clojure
-Clojure is a modern Lisp dialect that runs on the Java Virtual Machine.
-Erlang -> Elixir
-Elixir is a functional, concurrent language that runs on the Erlang VM, with a more modern syntax.
-SQL -> NoSQL languages (e.g., MongoDB's query language)
-While not a direct transition, NoSQL databases often offer more flexible query languages for working with unstructured data.
-Shell scripting -> Python
-For many system administration tasks, Python has become a popular alternative to traditional shell scripting.
-MATLAB -> Julia
-Julia aims to address the two-language problem in scientific computing, providing MATLAB-like syntax with C-like performance.
 
 
 # 2024-9-18 0 | 0

@@ -5,7 +5,6 @@ yarn remove react-native-gesture-handler react-native-reanimated
 yarn add react-native-gesture-handler@2.14.0 react-native-reanimated@3.6.1
 
 
-
 > Task :shopify_react-native-skia:configureCMakeDebug[x86_64]
 C/C++: -- ABI     : x86_64
 C/C++: -- PREBUILT: /home/a17/tannalwork/projects/RippleDemo/node_modules/@shopify/react-native-skia/android/build/react-native-0*/jni
