@@ -1,6 +1,35 @@
 
 # 2024-12-30
 
+
+yarn add -D metro-react-native-babel-preset
+import 'react-native-reanimated';
+
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: [
+    'react-native-reanimated/plugin',
+  ],
+};
+
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: ['react-native-reanimated/plugin'],
+};
+
+import { GestureHandlerRootView } from 'react-native-gesture-handler';
+import { Ripple } from './Ripple';  // 根据实际路径调整
+
+export default function App() {
+  return (
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <Ripple />
+    </GestureHandlerRootView>
+  );
+}
+
+yarn add @shopify/react-native-skia react-native-reanimated react-native-gesture-handler
+
 SQLite version 3.37.2 2022-01-06 13:25:41
 Enter ".help" for usage hints.
 sqlite> .schema
