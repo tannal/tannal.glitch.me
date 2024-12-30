@@ -1,6 +1,254 @@
 
 # 2024-12-30
 
+(291) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
+
+Graphite | Debugging
+https://graphite.rs/volunteer/guide/codebase-overview/debugging/
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+Graphite | Graphene
+https://graphite.rs/volunteer/guide/graphene/
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Web Performance Calendar » 2024
+https://calendar.perfplanet.com/2024/
+
+URL Standard
+https://url.spec.whatwg.org/#url-path-serializer
+
+[Bug]: Font fallback does not work on node-js/legacy build · Issue #19234 · mozilla/pdf.js
+https://github.com/mozilla/pdf.js
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+webstatus dev Tech Stack [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=pY29akiiw2U&t=1092s
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Chromium Docs - Ozone Overview
+https://chromium.googlesource.com/chromium/src/+/main/docs/ozone_overview.md#wayland
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+music and geometry - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=music+and+geometry+
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Events
+https://semf.org.es/events/
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+madmusicalscience.com/arcaexplanation.html
+https://www.madmusicalscience.com/arcaexplanation.html
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Graphite
+https://dev.graphite.rs/
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+mihomo - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=mihomo
+
+Anders Hejlsberg (@ahejlsberg) / X
+https://x.com/ahejlsberg
+
+Browser as an Interactive Disassembler
+https://mrale.ph/blog/2015/03/29/browser-as-an-interactive-disassembler.html
+
+Saga
+https://mrale.ph/saga/index.html
+
+Preserve type refinements in closures created past last assignment by ahejlsberg · Pull Request #56908 · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/pull/56908
+
+ESNext: Private Methods - Google 文档
+https://docs.google.com/document/d/1T-Ql6HOIH2U_8YjWkwK2rTfywwb7b3Qe8d3jkz72KwA/edit?tab=t.0
+
+Private Methods and Accessors Proposal
+https://tc39.es/proposal-private-methods/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+Revisions · Ripple Effect Shader with react-native-skia
+https://gist.github.com/Saadnajmi/9d46dcd093068404239ee32402d93e41/revisions
+
+Leo Babauta - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Leo+Babauta
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+have better ubsan stack trace by anonrig · Pull Request #816 · ada-url/ada
+https://github.com/ada-url/ada/pull/816/files#js-repo-pjax-container
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Erich Fromm - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Erich+Fromm
+
+Zygmunt Bauman - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Zygmunt+Bauman
+
+Jacques Ellul - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Jacques+Ellul
+
+My new book: Slow Productivity - Cal Newport
+https://calnewport.com/my-new-book-slow-productivity/
+
+Excalidraw
+https://excalidraw.com/
+
+gist.githubusercontent.com/Saadnajmi/9d46dcd093068404239ee32402d93e41/raw/73773dbad39e5d14791e8e4d7ca5219222443c23/Ripple.tsx
+https://gist.githubusercontent.com/Saadnajmi/9d46dcd093068404239ee32402d93e41/raw/73773dbad39e5d14791e8e4d7ca5219222443c23/Ripple.tsx
+
+Loop Transformations Leveraging Hardware Prefetching - cgo18.pdf
+https://www.es.ele.tue.nl/~sander/publications/cgo18.pdf
+
+Bounds-checking elimination - Wikipedia
+https://en.wikipedia.org/wiki/Bounds-checking_elimination
+
+CS 5314 Concepts of Programming Languages
+https://ei.cs.vt.edu/~cs5314/presentations/
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+yaphook.com/
+https://yaphook.com/
+
+A-Lin 黄丽玲《给我一个理由忘记》 - 单曲纯享《我是歌手3》I AM A SINGER 3【歌手官方音乐频道】 - YouTube
+https://www.youtube.com/watch?v=Z-8uTUU5SR8
+
+Footnote near bottom appears on the next page · Issue #5603 · typst/typst
+https://github.com/typst/typst/issues/5603
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/transforms/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/transforms/
+
+* 03_transforms.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/transforms/03_transforms.pdf
+
+stanford-cs248/draw-svg: Stanford CS248 Assignment 1: Implement a simple SVG renderer
+https://github.com/stanford-cs248/draw-svg
+
+social-app/docs/build.md at main · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/main/docs/build.md
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+woocommerce/packages/js/e2e-utils-playwright at trunk · woocommerce/woocommerce
+https://github.com/woocommerce/woocommerce/tree/trunk/packages/js/e2e-utils-playwright
+
+keymapperorg/KeyMapper: An Android app that change what the buttons do on your devices!
+https://github.com/keymapperorg/KeyMapper
+
+Quick Start Guide - Key Mapper Documentation
+https://docs.keymapper.club/quick-start/
+
+Issues · 521xueweihan/HelloGitHub
+https://github.com/521xueweihan/HelloGitHub/issues
+
+osdt-weekly/weekly-2024/2024-12-25.md at master · hellogcc/osdt-weekly
+https://github.com/hellogcc/osdt-weekly/blob/master/weekly-2024/2024-12-25.md
+
+HelloLLVM.org
+https://github.com/hellollvm
+
+LiveCode/node_modules/arepl-backend/index.js at master · Xirider/LiveCode
+https://github.com/Xirider/LiveCode/blob/master/node_modules/arepl-backend/index.js
+
+rust-analyzer - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+
+Contributors to rust-lang/rust-analyzer
+https://github.com/rust-lang/rust-analyzer/graphs/contributors
+
+python-shell - npm
+https://www.npmjs.com/package/python-shell
+
+utoni/ptunnel-ng: Tunnel TCP connections through ICMP.
+https://github.com/utoni/ptunnel-ng
+
+libpnet/libpnet: Cross-platform, low level networking using the Rust programming language.
+https://github.com/libpnet/libpnet
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+VPNs on iOS are a scam
+https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php
 
 # 2024-12-29
 
