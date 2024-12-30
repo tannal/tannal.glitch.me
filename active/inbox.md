@@ -1,6 +1,11 @@
 
 # 2024-12-30
 
+npx react-native init RippleDemo
+cd RippleDemo
+
+但已经演变成更复杂的偏向锁（Biased Locking）和锁膨胀（Lock Inflation）机制
+
 冬季(12-2月): 深度工作期
 - 设定重要项目
 - 进行创造性工作
