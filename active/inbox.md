@@ -1,6 +1,13 @@
 
 # 2024-12-30
 
+SQLite version 3.37.2 2022-01-06 13:25:41
+Enter ".help" for usage hints.
+sqlite> .schema
+CREATE TABLE ItemTable (key TEXT UNIQUE ON CONFLICT REPLACE, value BLOB);
+CREATE TABLE cursorDiskKV (key TEXT UNIQUE ON CONFLICT REPLACE, value BLOB);
+sqlite>
+
 npx react-native init RippleDemo
 cd RippleDemo
 
