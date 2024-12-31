@@ -1,6 +1,7 @@
 
 # 2024-12-31 3
 
+9天的时间
 https://app.element.io/#/room/!YjdVtWkyMLFjdRjkaX:matrix.org
 
 所以计算机不需要"理解"领域知识，它只需要执行正确的指令序列。领域知识的"理解"发生在更高的抽象层次上。
