@@ -1,6 +1,164 @@
 
 # 2024-12-31
 
+(295) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+* nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [13] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+* blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Events
+https://semf.org.es/events/
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/transforms/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/transforms/
+
+* 03_transforms.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/transforms/03_transforms.pdf
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/texture/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/texture/
+
+* 04_texture - 04_texture.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/texture/04_texture.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Code search results
+https://github.com/search?q=repo%3Agoogle%2Ffilament+texture+language%3AC%2B%2B&type=code&l=C%2B%2B
+
+qgis/QGIS: QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+https://github.com/qgis/QGIS
+
+maplibre/martin: Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+https://github.com/maplibre/martin
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+
+05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+Home / X
+https://x.com/home
+
+Rolldown is here, can it save Vite? - YouTube
+https://www.youtube.com/watch?v=IDe1zVWoX94
+
+[infra] Migrate to `valibot` from `zod` · Issue #3099 · rolldown/rolldown
+https://github.com/rolldown/rolldown/issues/3099
+
+libpnet/libpnet: Cross-platform, low level networking using the Rust programming language.
+https://github.com/libpnet/libpnet?tab=readme-ov-file
+
+pnet - Rust
+https://docs.rs/pnet/latest/pnet/
+
+pizlonator
+https://github.com/pizlonator
+
+pizlonator/llvm-project-deluge: Fil-C
+https://github.com/pizlonator/llvm-project-deluge/tree/deluge
+
+Fil-C - Google 搜索
+https://www.google.com/search?q=Fil-C&client=ubuntu-sn&hs=vVC&sca_esv=ca1233d2d3302f24&channel=fs&sxsrf=ADLYWIJ3hodV2TrAjc_MVBlBubuZ0Houpg%3A1735614156442&ei=zF5zZ9XZGtXyi-gPtY69QA&ved=0ahUKEwjV74vKgtGKAxVV-QIHHTVHDwgQ4dUDCBA&uact=5&oq=Fil-C&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUZpbC1DMgoQABiwAxjWBBhHSJgjUIohWIohcAJ4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAqACApgDAIgGAZAGAZIHATKgBwA&sclient=gws-wiz-serp
+
+The last widget we need in our GUI framework - YouTube
+https://www.youtube.com/watch?v=CZZfJYU8EJI&t=6157s
+
+revoltchat/android: Revolt Android app and internal API library
+https://github.com/revoltchat/android
+
+Home / X
+https://x.com/home
+
+napi-rs repositories
+https://github.com/orgs/napi-rs/repositories
+
+paroj (Pavel Rojtberg)
+https://github.com/paroj
+
+Jonathan Ho (@hojonathanho) / X
+https://x.com/hojonathanho
+
+Jonathan Ho
+http://www.jonathanho.me/
+
+Rivers Have Wings (@RiversHaveWings) / X
+https://x.com/RiversHaveWings
+
+mifi/lossless-cut: The swiss army knife of lossless video/audio editing
+https://github.com/mifi/lossless-cut
+
+olive-editor/olive: Free open-source non-linear video editor
+https://github.com/olive-editor/olive
+
+mltframework/shotcut: cross-platform (Qt), open-source (GPLv3) video editor
+https://github.com/mltframework/shotcut
+
+Multimedia / Kdenlive · GitLab
+https://invent.kde.org/multimedia/kdenlive
+
+OpenShot/openshot-qt: OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
+https://github.com/OpenShot/openshot-qt
+
+OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!
+https://www.openshot.org/
 
 # 2024-12-30
 
