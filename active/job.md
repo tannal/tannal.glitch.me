@@ -1,4 +1,28 @@
 
+- 稳定的工作收入
+  - tech job eg frontend
+  - content creation (tech or entertainment)
+  - consulting services & self hosting & start a company & open source tech stuff
+
+- 固定的居住环境
+  - guangdong
+  - japan
+
+- 核心的朋友圈
+  - high scholl friends & hengyang & human
+  - friends in tech ali/kuaishou/bytedance/tencent/shoppee
+  - friends around projects linebender/servo/firefox/tc39 etc
+  - others
+
+- 持续的技能积累
+  - tech
+  - content
+  - music & performance
+  - languages & bussiness
+  - sports & health
+  - art & design
+- 基本的生活作息
+- 良好的身心状态
 
 
 # 2034-7-3 - 2034-7-10
@@ -592,7 +616,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [x] <graphics> 12-31 morning reading slides from Standford https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
 
 ## TODO
-[] <compilers>
+[] <PL/VM/Compilers>
 [] <platform>
 
 # 2024-12-23 - 2024-12-30 (deadline & recover week)
