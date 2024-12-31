@@ -1,6 +1,9 @@
 
 # New Porjects
 
+gdb --args out/Default/chrome test.html
+
+
 WebGPU
 Project Fugu (Web Capabilities)
 Privacy Sandbox

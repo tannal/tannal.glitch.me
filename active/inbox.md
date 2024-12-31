@@ -1,6 +1,8 @@
 
 # 2024-12-31 3
 
+https://app.element.io/#/room/!YjdVtWkyMLFjdRjkaX:matrix.org
+
 所以计算机不需要"理解"领域知识，它只需要执行正确的指令序列。领域知识的"理解"发生在更高的抽象层次上。
 
 当处于"Open"阶段时：
