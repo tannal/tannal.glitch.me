@@ -1,6 +1,180 @@
 
 # 2024-12-31
 
+(297) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+* nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [13] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Events
+https://semf.org.es/events/
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+Chris Donahue
+https://chrisdonahue.com/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Who We Are - The Web Standards Project
+https://www.webstandards.org/about/members/
+
+imgui/docs/FONTS.md at 6982ce43f5b143c5dce5fab0ce07dd4867b705ae · ocornut/imgui
+https://github.com/ocornut/imgui/blob/6982ce43f5b143c5dce5fab0ce07dd4867b705ae/docs/FONTS.md?plain=1
+
+[viewer] Add support for animated GIF, WEBP · google/skia@2c51595
+https://github.com/google/skia/commit/2c5159518cf2694fcc31634e8c4640104d3fbca0
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+
+* 05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+How Should We Test wgpu · gfx-rs/wgpu · Discussion #1611
+https://github.com/gfx-rs/wgpu/discussions/1611
+
+Releases · MetaCubeX/mihomo
+https://github.com/MetaCubeX/mihomo
+
+tannal (tannal)
+https://github.com/tannal
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+tannal (tannal)
+https://github.com/tannal
+
+Issues · microsoft/vscode
+https://github.com/microsoft/vscode/issues?q=is%3Aissue%20state%3Aopen%20ctrl%20e
+
+rive-app/rive-flutter: Flutter runtime for Rive
+https://github.com/rive-app/rive-flutter
+
+Home / X
+https://x.com/home
+
+GNtrNBSbEAAVPMi (JPEG Image, 4032 × 3024 pixels) — Scaled (32%)
+https://pbs.twimg.com/media/GNtrNBSbEAAVPMi?format=jpg&name=4096x4096
+
+New to the web platform in January  |  Blog  |  web.dev
+https://web.dev/blog/web-platform-01-2024
+
+Home / X
+https://x.com/home
+
+raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+https://raw.githubusercontent.com/linebender/vello/vello-diagram/doc/images/vello-diagram.svg
+
+Comparing ssloy:master...tannal:as-a-lib · ssloy/tinyrenderer
+https://github.com/ssloy/tinyrenderer/compare/master...tannal:tinyrenderer:as-a-lib
+
+Issues · facebook/yoga
+https://github.com/facebook/yoga/issues?q=is%3Aissue+is%3Aopen+taffy++
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm
+
+Code search results
+https://github.com/search?q=repo%3AHMCL-dev%2FHMCL+javafx&type=code
+
+Search — Bluesky
+https://bsky.app/search?q=javafx
+
+trixon/nbRsync: rsync GUI with an integrated scheduler, and a CLI
+https://github.com/trixon/nbRsync
+
+Steve Hannah: jDeploy, to distribute your Java app as a native bundle (#12) - YouTube
+https://www.youtube.com/watch?v=Lhmf9U0KYsg
+
+dlsc-software-consulting-gmbh/CalendarFX: A Java framework for creating sophisticated calendar views (JavaFX 8, 9, 10, and 11)
+https://github.com/dlsc-software-consulting-gmbh/CalendarFX
+
+goxr3plus/FX-BorderlessScene: 💠 Undecorated JavaFX Scene with implemented move, resize, minimise, maximise, close and Windows Aero Snap controls.
+https://github.com/goxr3plus/FX-BorderlessScene
+
+JonathanGiles/scenic-view: Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.
+https://github.com/JonathanGiles/scenic-view
+
+FXyz/FXyz: A JavaFX 3D Visualization and Component Library
+https://github.com/FXyz/FXyz
+
+edvin (Edvin Syse)
+https://github.com/edvin
+
+Kotlin Multiplatform Plugin for Android Studio | JetBrains Marketplace
+https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform
+
+Vector + ClickHouse: - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Vector+%2B+ClickHouse%3A+
+
+Roadmap 2024 (discussion) · Issue #58392 · ClickHouse/ClickHouse
+https://github.com/ClickHouse/ClickHouse/issues/58392
+
+slog 终极指南
+https://colobu.com/2024/03/10/slog-the-ultimate-guide/
+
+wucao (wucao) / Repositories
+https://github.com/wucao?tab=repositories
+
+关于我 | 叉叉哥的BLOG
+https://xxgblog.com/about/index.html
+
 (295) Discord | #showcase | Typst
 https://discord.com/channels/1054443721975922748/1175784402333212733
 
