@@ -1,6 +1,12 @@
 
 # New Porjects
 
+z-index 处理DOM元素的遮挡顺序
+overflow 属性控制内容遮挡
+box-shadow 会考虑遮挡效果
+opacity 会影响遮挡处理
+
+
 gdb --args out/Default/chrome test.html
 
 
