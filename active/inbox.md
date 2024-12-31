@@ -1,6 +1,20 @@
 
 # 2024-12-31 3
 
+../mvnw javafx:run
+
+配置即代码(IaC):
+微服务架构模式:
+可观测性(Observability):
+函数式编程概念:
+事件驱动架构:
+
+响应式编程:
+组件化开发:
+CSS-in-JS理念:
+虚拟DOM/差异化更新:
+声明式UI:
+状态管理模式:
 
 9天的时间
 https://app.element.io/#/room/!YjdVtWkyMLFjdRjkaX:matrix.org
