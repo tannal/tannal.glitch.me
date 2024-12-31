@@ -557,12 +557,6 @@ igalia的申请开始
 
 # 2025-2-3 - 2025-2-10 深度工作期
 
-- 稳定的工作收入
-- 固定的居住环境
-- 核心的朋友圈
-- 基本的生活作息
-- 持续的技能积累
-- 良好的身心状态
 
 Gsoc ideas
 
@@ -581,27 +575,25 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2025-1-6 - 2025-1-13 深度工作期 (travel week)
 
 [] 1-10 heading shanghai
-
-研一上结束的寒假, outreachy
+[] 研一上结束的寒假, outreachy
 
 # 2024-12-30 - 2025-1-6 (feels better week full of energy)
 
 ## Sleep
-
-[] 12-29-30 wake up on 6:00am x and sleep to 9:30am
-
+[] Monday morning wake up on 6:00am x and sleep to 9:30am
 ## Eat
-
-[] Skip breakfirst
-
+[] Monday Skip breakfirst
 ## Sports
-
 [] No
-
 ## Social Activity
-
 [x] wangzhe rongyao 12-29 evening
 
+## LOG
+[x] <graphics> 12-31 morning reading slides from Standford https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+## TODO
+[] <compilers>
+[] <platform>
 
 # 2024-12-23 - 2024-12-30 (deadline & recover week)
 
