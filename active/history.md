@@ -10,6 +10,174 @@ https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
 jsc (Channel) - WebKit - Slack
 https://app.slack.com/client/T06G50708/CTV4FGWF4
 
+Element [14] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+RISC-V Chromium zlib optimizations - Google 幻灯片
+https://docs.google.com/presentation/d/1tTDlyT3W-0Ka64RBFbKeQTVb3Ho1Rrt--Y0YTfMzLn8/edit#slide=id.g27fd1062532_0_0
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+SEMF - Events
+https://semf.org.es/events/
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week/2025/1/1
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+Chris Donahue
+https://chrisdonahue.com/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Who We Are - The Web Standards Project
+https://www.webstandards.org/about/members/
+
+imgui/docs/FONTS.md at 6982ce43f5b143c5dce5fab0ce07dd4867b705ae · ocornut/imgui
+https://github.com/ocornut/imgui/blob/6982ce43f5b143c5dce5fab0ce07dd4867b705ae/docs/FONTS.md?plain=1
+
+[viewer] Add support for animated GIF, WEBP · google/skia@2c51595
+https://github.com/google/skia/commit/2c5159518cf2694fcc31634e8c4640104d3fbca0
+
+vanilla ts - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=vanilla+ts
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/rastpipeline/
+
+* 05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+How Should We Test wgpu · gfx-rs/wgpu · Discussion #1611
+https://github.com/gfx-rs/wgpu/issues
+
+Rust and WebAssembly
+https://github.com/rustwasm
+
+Algorithms Weekly by Petr Mitrichev
+https://blog.mitrichev.ch/
+
+[Feature] Support CSS Grid · Issue #867 · facebook/yoga
+https://github.com/facebook/yoga/issues/867
+
+[Feature] Support CSS Grid · Issue #63 · vislyhq/stretch
+https://github.com/vislyhq/stretch/issues/63
+
+CSS Grid Layout Module Level 1 CR Test Suite
+https://test.csswg.org/harness/test/css-grid-1_dev/single/grid-first-letter-003/format/html5/
+
+DioxusLabs/taffy: A high performance rust-powered UI layout library
+https://github.com/DioxusLabs/taffy
+
+Issues · facebook/react-strict-dom
+https://github.com/facebook/react-strict-dom/issues
+
+vislyhq/stretch: High performance flexbox implementation written in rust
+https://github.com/vislyhq/stretch
+
+Beyond PNG: Supporting More Image Formats | Pau Kaifler @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=rmjXkiXrASg
+
+cmyk - Google 搜索
+https://www.google.com/search?q=cmyk&client=ubuntu-sn&hs=SGK&sca_esv=8d1c32b3a5e69dfb&channel=fs&sxsrf=ADLYWIId_fvIQCGpKB_UV7Zx4-rwFzVMzA%3A1735643949174&ei=LdNzZ--mCtahi-gP0f7aqQw&ved=0ahUKEwiv8a_I8dGKAxXW0AIHHVG_NsUQ4dUDCBA&uact=5&oq=cmyk&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGNteWsyBhAAGAcYHjIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESIEMUN4IWN4IcAF4AZABAJgB4AKgAeACqgEDMy0xuAEDyAEA-AEBmAICoALmAsICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjMtMaAHrAI&sclient=gws-wiz-serp
+
+Home / X
+https://x.com/home
+
+js in css - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=js+in+css
+
+Search — Bluesky
+https://bsky.app/search?q=tsoding+react
+
+Evan You on X: "@theo Theo - would be much better if you reached out first. Rolldown itself is beta but we haven't really made a proper release for Rolldown-Vite yet so you are testing the wrong target. There are some unfortunate issues with your benchmarks: 1. Rolldown-Vite doesn't need" / X
+https://x.com/youyuxi/status/1874076170742096110
+
+"The Mess We're In" by Joe Armstrong - YouTube
+https://www.youtube.com/watch?v=lKXe3HUG2l4
+
+t3dotgg/rolldown-vite-demo
+https://github.com/t3dotgg/rolldown-vite-demo
+
+Rolldown is here, can it save Vite? - YouTube
+https://www.youtube.com/watch?v=IDe1zVWoX94
+
+rolldown/benchmarks
+https://github.com/rolldown/benchmarks/tree/main
+
+feat: Add support for injecting sourcemap debug ids by timfish · Pull Request #18947 · webpack/webpack
+https://github.com/webpack/webpack/pull/18947
+
+Replace `express` examples with `h3` · Issue #13582 · vitejs/vite
+https://github.com/vitejs/vite/issues/13582
+
+Issues with select-word · Issue #3842 · tmux/tmux
+https://github.com/tmux/tmux/issues/3842
+
+Issue search results
+https://github.com/search?q=repo%3Atypst%2Ftypst+parley&type=issues
+
+Issues · revoltchat/frontend
+https://github.com/revoltchat/frontend/issues
+
+bug: Login button does not do anything when pressed · Issue #339 · revoltchat/frontend
+https://github.com/revoltchat/frontend/issues/339
+
+(297) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+* nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
 Element [13] | WHATWG
 https://chat.mozilla.org/#/room/#whatwg:matrix.org
 
