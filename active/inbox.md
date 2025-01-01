@@ -1,6 +1,15 @@
 
 # 2025-01-01 3
 
+
+yt-dlp -x --audio-format mp3 "https://www.bilibili.com/video/BV1jiseeCEcR"
+
+
+
+spleeter separate -p spleeter:2stems -o . ../yt-dlp/【张艺兴X陶喆X张加帅】《找自己》｜江苏卫视跨年演唱会\ \[BV1wW6dYTEFJ\].mp3
+
+yt-dlp -x --audio-format mp3 "https://www.bilibili.com/video/BV1wW6dYTEFJ/?spm_id_from=333.337.search-card.all.click"
+
 - 航空: CompCert + DO-178C
 - 金融: Formal Methods
 - 医疗设备: FDA 认证 + 形式化验证
