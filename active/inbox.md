@@ -1,6 +1,11 @@
 
 # 2025-01-01 3
 
+- 航空: CompCert + DO-178C
+- 金融: Formal Methods
+- 医疗设备: FDA 认证 + 形式化验证
+- 核电站: IEC 61508 安全标准
+
 Shu-yu Guo:
 Google V8 团队的资深工程师
 TC39 (ECMAScript 标准委员会) 的成员
