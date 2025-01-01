@@ -1,10 +1,15 @@
 
 # 2025-01-01 3
 
+STFT (短时傅里叶变换)处理
+掩码生成
+反STFT
+
+
+pip install demucs
+demucs --six-stems vocals,bass,drums,guitar,piano,other input.mp3
 
 yt-dlp -x --audio-format mp3 "https://www.bilibili.com/video/BV1jiseeCEcR"
-
-
 
 spleeter separate -p spleeter:2stems -o . ../yt-dlp/【张艺兴X陶喆X张加帅】《找自己》｜江苏卫视跨年演唱会\ \[BV1wW6dYTEFJ\].mp3
 
