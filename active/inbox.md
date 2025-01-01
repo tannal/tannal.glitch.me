@@ -1,6 +1,37 @@
 
 # 2025-01-01 3
 
+STEM学生 = "Nerds/Geeks"
+体育生 = "Popular/Cool"
+艺术生 = "Creative/Free spirit"
+
+生物技术/生命科学:
+材料科学:
+能源工程:
+环境科学:
+量子科技:
+航空航天:
+机器人工程:
+
+6.824 分布式系统 (Robert Morris)
+6.S081 操作系统 (Frans Kaashoek)
+6.006/6.046 算法导论
+
+Berkeley
+CS61A/B/C 计算机基础trilogy (Brian Harvey/John DeNero)
+CS162 操作系统
+CS186 数据库系统
+
+Carnegie Mellon (CMU)
+15-213 CSAPP (Randy Bryant/David O'Hallaron)
+15-445 数据库系统 (Andy Pavlo)
+15-721 高级数据库系统
+
+Stanford
+CS144 计算机网络
+CS143 编译原理
+CS231n 深度学习计算机视觉
+https://gfxcourses.stanford.edu/cs348b/spring22
 
 # 2024-12-31 3
 
