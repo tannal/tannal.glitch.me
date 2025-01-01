@@ -1,6 +1,20 @@
 
 # 2025-01-01 3
 
+Shu-yu Guo:
+Google V8 团队的资深工程师
+TC39 (ECMAScript 标准委员会) 的成员
+主要专注于 JavaScript 语言规范和 V8 引擎实现
+在 JavaScript 语言设计和实现方面做出了重要贡献
+Yang Guo:
+同样是 Google V8 团队的资深工程师
+也是 TC39 成员
+在 Node.js 和 V8 性能优化方面有很多贡献
+经常在各种技术会议上分享 V8 相关的主题
+Shu-yu Guo 是华裔美国人，而 Yang Guo 则来自德国。
+
+adamk Chrome/V8 团队的高级工程师
+
 STEM学生 = "Nerds/Geeks"
 体育生 = "Popular/Cool"
 艺术生 = "Creative/Free spirit"
