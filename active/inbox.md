@@ -1,6 +1,67 @@
 
 # 2025-01-01 3
 
+ROOT=https://raw.githubusercontent.com/chrisdonahue/sheetsage/main
+wget $ROOT/prepare.sh && wget $ROOT/sheetsage.sh
+chmod +x *.sh && ./prepare.sh
+
+./sheetsage.sh https://www.youtube.com/watch?v=ULYksmjBwzY
+
+MusicLM (Google, 2023):
+AudioCraft (Meta, 2023):
+Stable Audio (Stability AI, 2023):
+
+- Julius O. Smith III (斯坦福)
+  - 数字音频处理理论
+  - 物理建模合成
+  - CCRMA中心创始人
+
+- Xavier Serra
+  - SMS(频谱建模合成)
+  - 音乐信息检索
+  - MTG实验室创始人
+
+- Dzmitry Bahdanau
+  - 注意力机制
+  - 序列到序列学习
+
+- Ashish Vaswani
+  - Transformer架构
+  - 自注意力机制
+
+- Curtis Roads
+  - 微声学
+  - 颗粒合成
+
+- Jean-Claude Risset
+  - 计算机音乐
+  - 声音合成
+
+理论突破：
+- FFT快速算法
+- 小波变换
+- 深度学习
+
+工具突破：
+- Max/MSP
+- SuperCollider
+- TensorFlow/PyTorch
+
+应用突破：
+- Spleeter
+- MuseNet
+- AudioCraft
+
+
+MuseNet (OpenAI):
+Music Transformer (Google):
+DeepBach (Sony):
+
+MuseScore/Museformer:
+AnthemScore Pro:
+Logic Pro/MainStage:
+Ableton Live + Max for Live:
+
 STFT (短时傅里叶变换)处理
 掩码生成
 反STFT

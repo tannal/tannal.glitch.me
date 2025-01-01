@@ -1,6 +1,182 @@
 
 # 2025-01-01
 
+(304) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733
+
+* nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [14] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+Element * | WHATWG
+https://app.element.io/#/room/#whatwg:matrix.org
+
+blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+RISC-V Chromium zlib optimizations - Google 幻灯片
+https://docs.google.com/presentation/d/1tTDlyT3W-0Ka64RBFbKeQTVb3Ho1Rrt--Y0YTfMzLn8/edit#slide=id.g309316272c8_0_21
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+techdebt (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Removing inline event handlers from the browser UI
+https://groups.google.com/a/mozilla.org/g/firefox-dev/c/u5WaRJMeYzE
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+atuinsh/atuin: ✨ Magical shell history
+https://github.com/atuinsh/atuin
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week/2025/1/1
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+Chris Donahue
+https://chrisdonahue.com/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Who We Are - The Web Standards Project
+https://www.webstandards.org/about/members/
+
+Home / X
+https://x.com/home
+
+status:open componentid:1456329 - Chromium
+https://issues.chromium.org/issues?q=status:open%20componentid:1456329&s=created_time:desc
+
+…/css_font_feature_values_rule.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/1/third_party/blink/renderer/core/css/css_font_feature_values_rule.idl
+
+Comparing ssloy:master...tannal:as-a-lib · ssloy/tinyrenderer
+https://github.com/ssloy/tinyrenderer/compare/master...tannal:tinyrenderer:as-a-lib
+
+colour revolution - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=colour+revolution
+
+Home / X
+https://x.com/home
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+千山万水周杰伦-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=16657247&keyword=%E5%8D%83%E5%B1%B1%E4%B8%87%E6%B0%B4%E5%91%A8%E6%9D%B0%E4%BC%A6&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+【唯三“千山万水”现场】周杰伦2008年世界巡回北京站_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1jiseeCEcR/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs348b/spring22
+https://gfxcourses.stanford.edu/cs348b/spring22
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 06_geometry.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometry/06_geometry.pdf
+
+tannal
+https://tannal.github.io/
+
+YouTube
+https://www.youtube.com/
+
+Home / X
+https://x.com/home
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+material-components/material-web: Material Design Web Components
+https://github.com/material-components/material-web/tree/main
+
+capture.png (PNG Image, 2515 × 1467 pixels) — Scaled (65%)
+https://files.keavon.com/-/SurprisedGaseousAnhinga/capture.png
+
+GraphiteEditor/Graphite: 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+https://github.com/GraphiteEditor/Graphite
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+friggog/tree-gen: Procedural generation of tree models in blender
+https://github.com/friggog/tree-gen
+
+SpeedTree - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=SpeedTree
+
+lecture01 - lecture01.pdf
+https://web.stanford.edu/class/cs143/lectures/lecture01.pdf
+
+Fredrik Kjolstad
+http://fredrikbk.com/
+
+Free System Programming Textbook (Illinois CS241) | Hacker News
+https://news.ycombinator.com/item?id=22798616
+
+分类 | JR's Blog
+https://willendless.github.io/categories/
+
+xinu-os/xinu: Repository for Xinu source code
+https://github.com/xinu-os/xinu
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/multipage/grammar-summary.html#sec-grammar-summary
+
+Issues · deezer/spleeter
+https://github.com/deezer/spleeter/issues
+
+2211.08553v1.pdf
+https://arxiv.org/pdf/2211.08553
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Spleeter: a fast and efficient music source separation tool with pre-trained models - 10.21105.joss.02154.pdf
+https://www.theoj.org/joss-papers/joss.02154/10.21105.joss.02154.pdf
+
+spleeter/spleeter/model/__init__.py at fa2bd2a4c498cc7206d005d8c4b0f21dd891f298 · deezer/spleeter
+https://github.com/deezer/spleeter/blob/fa2bd2a4c498cc7206d005d8c4b0f21dd891f298/spleeter/model/__init__.py#L184
 
 # 2024-12-31
 
