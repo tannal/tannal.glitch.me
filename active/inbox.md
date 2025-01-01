@@ -1,6 +1,43 @@
 
 # 2025-01-01 3
 
+- 3D建模: Maya, 3ds Max, Blender
+- 贴图制作: Photoshop, Substance Painter
+- 动画制作: Maya, Motion Builder
+- 音效制作: FMOD, Wwise
+- 特效制作: Houdini
+
+// 常用服务器框架
+- KCP (可靠UDP协议)
+- gRPC
+- Photon
+- SpatialOS
+
+-- 需要多种数据库
+- MySQL (用户数据、游戏数据)
+- Redis (缓存、实时数据)
+- MongoDB (日志、分析数据)
+- Elasticsearch (搜索、日志分析)
+
+- JIRA (任务管理)
+- Confluence (文档管理)
+- Git (代码版本控制)
+- Perforce (资源版本控制)
+
+SPIR-V (Vulkan)
+GLSL (OpenGL)
+MSL (Metal)
+HLSL (DirectX)
+
+多遍解析(Multi-pass Parsing):
+延迟解析(Lazy Parsing):
+上下文敏感解析(Context-Sensitive Parsing):
+符号表集成(Symbol Table Integration):
+预处理器集成(Preprocessor Integration):
+错误恢复和容错(Error Recovery):
+增量解析(Incremental Parsing):
+并行解析(Parallel Parsing):
+
 ROOT=https://raw.githubusercontent.com/chrisdonahue/sheetsage/main
 wget $ROOT/prepare.sh && wget $ROOT/sheetsage.sh
 chmod +x *.sh && ./prepare.sh
