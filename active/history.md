@@ -1,6 +1,258 @@
 
 # 2025-01-02
 
+(311) Discord | #rust-usage | The Rust Programming Language
+https://discord.com/channels/442252698964721669/443150878111694848/1323810485518467092
+
+general（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [13] | MDN Web Docs
+https://chat.mozilla.org/#/room/#mdn:mozilla.org
+
+* blinkon (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGDK02Y7M
+
+RISC-V Chromium zlib optimizations - Google 幻灯片
+https://docs.google.com/presentation/d/1tTDlyT3W-0Ka64RBFbKeQTVb3Ho1Rrt--Y0YTfMzLn8/edit#slide=id.g190458f06d3_0_113
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+* blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+DeepDrake ft. BTS-GAN and TayloRVC Raw Data - Google 表格
+https://docs.google.com/spreadsheets/d/1tZa9YsTiFIYCF-gIndquFFnMNV_50TD81EFf4Z95ajE/edit?gid=0#gid=0
+
+chrisdonahue/sheetsage: Transcribe music into lead sheets!
+https://github.com/chrisdonahue/sheetsage?tab=readme-ov-file#transcribing-a-shorter-segment
+
+Who We Are - The Web Standards Project
+https://www.webstandards.org/about/members/
+
+Home / X
+https://x.com/home
+
+status:open componentid:1456329 - Chromium
+https://issues.chromium.org/issues?q=status:open%20componentid:1456329&s=created_time:desc
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Comparing ssloy:master...tannal:as-a-lib · ssloy/tinyrenderer
+https://github.com/ssloy/tinyrenderer/compare/master...tannal:tinyrenderer:as-a-lib
+
+colour revolution - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=colour+revolution
+
+Home / X
+https://x.com/home
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+千山万水周杰伦-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=16657247&keyword=%E5%8D%83%E5%B1%B1%E4%B8%87%E6%B0%B4%E5%91%A8%E6%9D%B0%E4%BC%A6&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+【唯三“千山万水”现场】周杰伦2008年世界巡回北京站_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1jiseeCEcR/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs348b/spring22
+https://gfxcourses.stanford.edu/cs348b/spring22
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 06_geometry.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometry/06_geometry.pdf
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+nesmdb/nesmdb at master · chrisdonahue/nesmdb
+https://github.com/chrisdonahue/nesmdb/tree/master/nesmdb
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · TaylorSMarks/playsound
+https://github.com/TaylorSMarks/playsound/issues
+
+[glsl-in] Consider supporting combined image/samplers · Issue #4342 · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues/4342
+
+gpuweb/gpuweb: Where the GPU for the Web work happens!
+https://github.com/gpuweb/gpuweb?tab=readme-ov-file
+
+WebGPU Shading Language
+https://gpuweb.github.io/gpuweb/wgsl/#grammar-recursive-descent
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/multipage/grammar-summary.html#sec-grammar-summary
+
+UnrealEngine/Engine/Shaders/Private/PostProcessTonemap.usf at 585df42eb3a391efd295abd231333df20cddbcf3 · EpicGames/UnrealEngine
+https://github.com/EpicGames/UnrealEngine/blob/585df42eb3a391efd295abd231333df20cddbcf3/Engine/Shaders/Private/PostProcessTonemap.usf#L492
+
+Unity - Manual: Optimize your Web build with WebAssembly 2023
+https://docs.unity3d.com/6000.0/Documentation/Manual/wasm-2023-features.html
+
+Unity - Manual: Introduction to render pipelines
+https://docs.unity3d.com/6000.0/Documentation/Manual/render-pipelines-overview.html
+
+Learn game development w/ Unity | Courses & tutorials in game design, VR, AR, & Real-time 3D | Unity Learn
+https://learn.unity.com/tutorial/introduction-to-lighting-and-rendering-2019-3
+
+Havok source engine github - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Havok+source+engine+github#vhid=zephyr:0&vssid=atritem-https://github.com/nitaigao/engine-showcase/blob/master/etc/vendor/havok/Source/Physics/Dynamics/World/hkpWorldCinfo.h
+
+Verse (programming language) - Wikipedia
+https://en.wikipedia.org/wiki/Verse_(programming_language)
+
+Notifications / X
+https://x.com/notifications
+
+RustPython/Lib/email/parser.py at 1abaf87abe241da7a9836bd387f2aee33a1d6378 · RustPython/RustPython
+https://github.com/RustPython/RustPython/blob/1abaf87abe241da7a9836bd387f2aee33a1d6378/Lib/email/parser.py#L17
+
+Arlo
+https://arlo7.me/
+
+webfansplz (Arlo)
+https://github.com/webfansplz
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Search Jobs — Google Careers
+https://www.google.com/about/careers/applications/jobs/results?q=chrome
+
+chromeos is dead - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=chromeos+is+dead
+
+Non-uniform rational B-spline - Wikipedia
+https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline
+
+2106.10689v3.pdf
+https://arxiv.org/pdf/2106.10689
+
+Charlie Munger Commencement Address USC - YouTube
+https://www.youtube.com/watch?v=4HRWgnHDu-w
+
+kurbo/src/lib.rs at ebb855376937616086c75b47c163c3b3f0c81229 · linebender/kurbo
+https://github.com/linebender/kurbo/blob/ebb855376937616086c75b47c163c3b3f0c81229/src/lib.rs#L119
+
+Chris Donahue
+https://chrisdonahue.com/
+
+gclef-cmu/apply: Information for prospective students
+https://github.com/gclef-cmu/apply/?tab=readme-ov-file#phd-applicants
+
+SANE 2024 - Speech and Audio in the Northeast
+https://www.saneworkshop.org/sane2024/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Industrial Society and Its Future - Wikipedia
+https://en.wikipedia.org/wiki/Industrial_Society_and_Its_Future
+
+卡伦·霍妮 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8D%A1%E4%BC%A6%C2%B7%E9%9C%8D%E5%A6%AE
+
+Erving Goffman - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Erving+Goffman
+
+Henri Tajfel - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Henri+Tajfel
+
+Aaron Beck - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Aaron+Beck
+
+亚伯拉罕·马斯洛 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E9%A9%AC%E6%96%AF%E6%B4%9B
+
+christopher Lasch - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=christopher+Lasch
+
+Neil Postman - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Neil+Postman
+
+Jacques Ellul, The Technological Society, Introduction (1) - YouTube
+https://www.youtube.com/watch?v=BqCKjzs4_4I
+
+Herbert Marcuse - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Herbert+Marcuse
+
+(Jonathan Crary - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=%28Jonathan+Crary
+
+Sherry Turkle "Technology, AI, and What Makes Us Human" - YouTube
+https://www.youtube.com/watch?v=vqTVUx7HkjQ
+
+Bill McKibben - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Bill+McKibben
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9&op=translate
+
+What do the Japanese Eat To Stay Slim? | Street Interview - YouTube
+https://www.youtube.com/watch?v=jriYcIRPmI8&t=126s
+
+Home / X
+https://x.com/home
+
+"Heart and Soul" by Hoagy Carmichael and Frank Loesser (Katie Morrison Cover) - YouTube
+https://www.youtube.com/watch?v=WkxqiYdeALw
+
+Vincent Abbott | Deep Learning on X: "DeepSeek-V3, diagrammed. https://t.co/Tk8qKnGKtq" / X
+https://x.com/vtabbott_/status/1874449446056177717/photo/1
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 
