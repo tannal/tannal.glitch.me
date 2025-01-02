@@ -1,6 +1,8 @@
 
 # 2025-01-02 3
 
+标题提到 "A manifold polygon mesh has fans, not fins"（流形多边形网格有扇形，没有鳍片），这说明：
+
 - fonttools (字体处理核心库)
 - cu2qu (曲线转换)
 - glyphsLib (Glyphs文件转换)

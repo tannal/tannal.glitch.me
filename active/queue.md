@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+Charlie Mungers at USC 1994
+https://www.youtube.com/watch?v=4HRWgnHDu-w
+
 Reinforcement Learning with DeepMind
 https://www.youtube.com/watch?v=ISk80iLhdfU
 
