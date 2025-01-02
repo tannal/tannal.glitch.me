@@ -1,4 +1,47 @@
 
+# 2025-01-02 3
+
+- fonttools (字体处理核心库)
+- cu2qu (曲线转换)
+- glyphsLib (Glyphs文件转换)
+- ufo2ft (UFO转字体)
+- fontbakery (字体质量检查)
+
+NURBS (Non-Uniform Rational B-Splines):
+Gregory Patch:
+Pm (P-方法):
+
+Subdivision Surfaces (细分曲面):
+T-Splines:
+IsoGeometric Analysis (等几何分析):
+Neural Surfaces (神经曲面):
+
+3D视觉重建领域
+
+- fonttools (字体处理核心库)
+- cu2qu (曲线转换)
+- glyphsLib (Glyphs文件转换)
+- ufo2ft (UFO转字体)
+- fontbakery (字体质量检查)
+
+贝塞尔曲线是一维的，使用Bernstein基函数的线性组合
+贝塞尔曲面是二维的，使用Bernstein基函数的张量积
+
+一个字符通常由多个贝塞尔曲线段组成:
+- 主要使用二次和三次贝塞尔曲线
+- TrueType主要使用二次贝塞尔曲线
+- OpenType可以使用三次贝塞尔曲线
+
+通常使用分段的二次和三次贝塞尔曲线
+图中的"e"字母就是由多段三次贝塞尔曲线组成
+每段曲线都有其自己的控制点（2-3个）
+
+// - MoveTo
+// - LineTo
+// - QuadTo (二次贝塞尔)
+// - CurveTo (三次贝塞尔)
+// - ClosePath
+
 # 2025-01-01 3
 
 - 3D建模: Maya, 3ds Max, Blender
