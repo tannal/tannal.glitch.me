@@ -1,6 +1,9 @@
 
 # waiting for me to reading
 
+Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor
+https://www.youtube.com/watch?v=CKmNpAO5rS4&list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&index=2
+
 Charlie Mungers at USC 1994
 https://www.youtube.com/watch?v=4HRWgnHDu-w
 

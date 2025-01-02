@@ -1,6 +1,14 @@
 
 # 2025-01-02 3
 
+droidcam-cli -a -v 192.168.43.95 4747  # 替换为你的IP
+
+sudo apt-get update
+sudo apt-get install -y \
+    qt6-wayland \
+    qt6-qpa-plugins \
+    qtwayland5
+
 Mendel Rosenblum
 
 获得好伙伴的方法：

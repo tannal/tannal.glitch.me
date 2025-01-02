@@ -1,6 +1,159 @@
 
 # 2025-01-02
 
+(311) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [13] | PDF.js
+https://chat.mozilla.org/#/room/#pdfjs:mozilla.org
+
+* misc (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Collective to Support Chromium
+https://docs.google.com/forms/d/e/1FAIpQLSdsYhCmxXaaFhtj4uHQHslRqumPHjo_1sC0tGIDVyDrWgrrOQ/viewform
+
+commons-wg@chromium.org - Google 群组
+https://groups.google.com/u/0/a/chromium.org/g/commons-wg
+
+OpenWebAdvocacy/OpenWebCompetitionPlatform: Open Web Competition Platform is a repo for documenting and tracking issues related to browser and web competition. Its aim is to facilitate coordination between browser vendors, operating systems, developers, and industry to help document outstanding competition issues with an eye towards resolving them more quickly.
+https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs348b/spring22
+https://gfxcourses.stanford.edu/cs348b/spring22
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/
+
+* 06_geometry.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometry/06_geometry.pdf
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+English-Syntax-Parser/pos.py at master · swyetzner/English-Syntax-Parser
+https://github.com/swyetzner/English-Syntax-Parser/blob/master/pos.py
+
+Code search results
+https://github.com/search?q=repo%3Ablender%2Fblender+GHOST&type=code
+
+Blender Builds - blender.org
+https://builder.blender.org/dashboard
+
+Developer Portal - developer.blender.org
+https://developer.blender.org/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Nina Kalinina's home page
+https://www.ninakalinina.com/
+
+Dashboard Updates [09/12/24 - 23/12/24] · supabase · Discussion #31318
+https://github.com/orgs/supabase/discussions/31318
+
+What do the Japanese Eat To Stay Slim? | Street Interview - YouTube
+https://www.youtube.com/watch?v=jriYcIRPmI8&t=633s
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%81%A6%E3%82%8B%E4%BA%BA%E3%81%A7%E3%82%82%E3%81%9D%E6%AF%8E%E6%97%A5%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%A8%E6%80%9D%E3%81%86%E3%81%AE%E3%81%A7&op=translate
+
+linebender/peniko: Primitive types for styling vector graphics.
+https://github.com/linebender/peniko
+
+kurbo/src/insets.rs at ebb855376937616086c75b47c163c3b3f0c81229 · linebender/kurbo
+https://github.com/linebender/kurbo/blob/ebb855376937616086c75b47c163c3b3f0c81229/src/insets.rs
+
+Home / X
+https://x.com/home
+
+STORM
+https://storm.genie.stanford.edu/
+
+Discover — Bluesky
+https://bsky.app/
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+Home / X
+https://x.com/home
+
+Twitch
+https://www.twitch.tv/
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+gfxcourses.stanford.edu/cs149/fall24
+https://gfxcourses.stanford.edu/cs149/fall24
+
+gfxcourses.stanford.edu/cs149/fall24/courseinfo
+https://gfxcourses.stanford.edu/cs149/fall24/courseinfo
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor - YouTube
+https://www.youtube.com/watch?v=CKmNpAO5rS4&list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&index=2
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+Kayvon Fatahalian - YouTube
+https://www.youtube.com/results?search_query=Kayvon+Fatahalian
+
+i7-13700KF vs Ryzen Threadripper 3990X [3-Benchmark Showdown]
+https://technical.city/en/cpu/Ryzen-Threadripper-3990X-vs-Core-i7-13700KF
+
 (311) Discord | #rust-usage | The Rust Programming Language
 https://discord.com/channels/442252698964721669/443150878111694848/1323810485518467092
 
