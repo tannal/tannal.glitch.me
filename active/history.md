@@ -1,6 +1,125 @@
 
 # 2025-01-02
 
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Will tech hiring pick up if interest rates go down? : r/cscareerquestions
+https://www.reddit.com/r/cscareerquestions/comments/1dxxyyw/will_tech_hiring_pick_up_if_interest_rates_go_down/
+
+合肥工业大学 推荐系统 github - Google 搜索
+https://www.google.com/search?q=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6+%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F+github&sca_esv=217f92c2b6785191&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWII4J9epsLRpGk2aiwGX7i6NaY7J8g%3A1735098253949&ei=jX9rZ_rEOdWNi-gPtu3vsA0&ved=0ahUKEwi6v87YgMKKAxXVxgIHHbb2G9YQ4dUDCBA&uact=5&oq=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6+%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiJuWQiOiCpeW3peS4muWkp-WtpiDmjqjojZDns7vnu58gZ2l0aHViMgYQIRgKGCpIgSVQmwVYhiNwAXgBkAEAmAGAA6ABpTGqAQQzLTE4uAEDyAEA-AEBmAIOoALyJMICChAAGLADGNYEGEfCAgcQABiABBgMwgIHEC4YgAQYDMICCBAAGIAEGKIEwgIFECEYoAGYAwCIBgGQBgqSBwYxLjMtMTOgB64w&sclient=gws-wiz-serp
+
+年终盛典 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?from=22374&from_column=22374&page=double11-2024#newuser
+
+美國前總統卡特逝世：懷著「中國情結」任內與華建交 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/clyj07pl381o/trad
+
+轻量应用服务器 | 腾讯云
+https://www.tencentcloud.com/zh/products/lighthouse
+
+腾讯轻量云_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%85%BE%E8%AE%AF%E8%BD%BB%E9%87%8F%E4%BA%91&fenlei=256&rsv_pq=0xfe9fb64a000a0ea2&rsv_t=5209MjBggY6uiKBo019%2BdB1BMsV5uAA%2F%2FtQWymtYIONPEmJKjCFSu%2BFtAGV3&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_sug3=22&rsv_sug1=22&rsv_sug7=101&rsv_sug2=0&rsv_btype=i&prefixsug=%25E8%2585%25BE%25E8%25AE%25AF%25E8%25BD%25BB%25E9%2587%258F%25E4%25BA%2591&rsp=6&inputT=7170&rsv_sug4=7739
+
+年终盛典 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured?fromSource=gwzcw.9208717.9208717.9208717&utm_medium=cpc&utm_id=gwzcw.9208717.9208717.9208717&bd_vid=10888246248713359210#newuser
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-55wyqhpe
+
+Yjs Prosemirror Example
+http://192.168.43.246:3000/prosemirror/prosemirror.html
+
+【26卒】大阪與京都的新卒求職イベント - Sagiri's Forum
+https://sagiri.flarum.cloud/d/110-26zu-da-ban-yu-jing-du-de-xin-zu-qiu-zhi-ibento
+
+SimpleX Chat: private and secure messenger without any user IDs (not even random)
+https://simplex.chat/
+
+GitHub - revoltchat/rvmob: React Native Revolt client. Community-led project.
+https://github.com/revoltchat/rvmob
+
+音乐通论 书籍 - Google 搜索
+https://www.google.com/search?q=%E9%9F%B3%E4%B9%90%E9%80%9A%E8%AE%BA+%E4%B9%A6%E7%B1%8D&sca_esv=7031b7dbb708f9b4&rlz=1C1GCEA_enCN1091CN1091&sxsrf=ADLYWILzTj7FgXokxaRSEZi8nvRArz1JbA%3A1735396657874&ei=MQ1wZ_7kNLaK9u8P-K6m6QI&ved=0ahUKEwi-wdiq2MqKAxU2hf0HHXiXKS0Q4dUDCBA&uact=5&oq=%E9%9F%B3%E4%B9%90%E9%80%9A%E8%AE%BA+%E4%B9%A6%E7%B1%8D&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-mfs-S5kOmAmuiuuiDkuabnsY0yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSOURUL0GWPQOcAF4AJABAJgBmQOgAf0TqgEFMy02LjG4AQPIAQD4AQGYAgWgAo0MwgILEAAYgAQYsAMYogTCAgsQABiwAxiiBBiJBcICCBAAGIAEGKIEwgIIEAAYogQYiQWYAwCIBgGQBgSSBwcxLjMtMy4xoAfLCg&sclient=gws-wiz-serp
+
+学习通 科研诚信与学术规范 - Google 搜索
+https://www.google.com/search?q=%E5%AD%A6%E4%B9%A0%E9%80%9A+%E7%A7%91%E7%A0%94%E8%AF%9A%E4%BF%A1%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83&rlz=1C1GCEA_enCN1091CN1091&oq=%E5%AD%A6%E4%B9%A0%E9%80%9A+%E7%A7%91%E7%A0%94%E8%AF%9A%E4%BF%A1%E4%B8%8E%E5%AD%A6%E6%9C%AF%E8%A7%84%E8%8C%83&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCTMzNzAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+超星学习通科研诚信与学术规范答案 - 网课宝盒
+https://www.wangkebaohe.com/post/992.html
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+下载您的文件 — Convertio
+https://convertio.co/zh/download/92ffae6372c8da06b774dfbd7ce391ac094e2e/
+
+和泉紗霧 | Linktree
+https://linktr.ee/sagiriizumi
+
+Resources | Page 3
+https://tutflix.org/resources/?page=3
+
+GitHub - epicweb-dev/full-stack-foundations: Learn the foundational skills of building full stack web applications.
+https://github.com/epicweb-dev/full-stack-foundations
+
+GG bound_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=GG%20bound&fenlei=256&rsv_pq=0xd294524c0009a822&rsv_t=503c3Ozfi3LcJs%2FWF7koFtSFMPKwFCyT6ztasMS4J60Cxp7toAf9MNx%2BO04H&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=GG%2520bound&rsp=0&inputT=979&rsv_sug4=979
+
+中共党史掩盖和歪曲的重大历史事件(1): 八九六四那一夜，“人民军队” 残杀了人民
+https://www.voachinese.com/a/distorted-ccp-history-part-1-Tienanmen-massacre/5908517.html
+
+六四清场 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E6%B8%85%E5%9C%BA#cite_note-118
+
+吾尔开希·多莱特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%90%BE%E7%88%BE%E9%96%8B%E5%B8%8C%C2%B7%E5%A4%9A%E8%90%8A%E7%89%B9
+
+侯德健 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%BE%B7%E5%81%A5
+
+刘晓波 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%88%98%E6%99%93%E6%B3%A2
+
+周舵 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%91%A8%E8%88%B5
+
+中国民航2311号班机空难_百度百科
+https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%B0%91%E8%88%AA2311%E5%8F%B7%E7%8F%AD%E6%9C%BA%E7%A9%BA%E9%9A%BE/17100795
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+陶喆-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=15726101&keyword=%E9%99%B6%E5%96%86&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+【张艺兴X陶喆X张加帅】《找自己》｜江苏卫视跨年演唱会_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1wW6dYTEFJ/?spm_id_from=333.337.search-card.all.click
+
+heart and soul - Google 搜索
+https://www.google.com/search?q=heart+and+soul&rlz=1C1GCEA_enCN1091CN1091&oq=heart+and+soul&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyDQgHEC4YxwEY0QMYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0MDc4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Resources
+https://tutflix.org/resources/
+
+Linux source code (v6.13-rc3) - Bootlin Elixir Cross Referencer
+https://elixir.bootlin.com/linux/v6.13-rc3/source
+
+Branding Blueprint by Thoughtleadr on X: "The greatest betrayal in tech history: Steve Jobs trusted Google's CEO on Apple's board. Then Google launched Android. Jobs' response? "I will spend every penny of Apple's $40 billion to destroy Android." Here's what happened next🧵 https://t.co/hnTQLJEQyS" / X
+https://x.com/TL_branding/status/1874108588194750697
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+QQ邮箱 - 写信
+https://mail.qq.com/cgi-bin/frame_html?sid=il8mW-8I8hpvmDZR&r=2ff2dea8cd6f1f998f022465d76e753f&lang=zh
+
+查理·芒格 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%9F%A5%E7%90%86%C2%B7%E8%8A%92%E6%A0%BC
 
 # 2025-01-01
 
