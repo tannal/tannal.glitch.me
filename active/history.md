@@ -4,6 +4,147 @@
 (311) Discord | #rust-usage | The Rust Programming Language
 https://discord.com/channels/442252698964721669/443150878111694848/1323810485518467092
 
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+proposal-compartments/4-compartment.md at master · tc39/proposal-compartments
+https://github.com/tc39/proposal-compartments/blob/master/4-compartment.md
+
+Element [13] | MDN Web Docs
+https://chat.mozilla.org/#/room/#mdn:mozilla.org
+
+misc (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+RISC-V Chromium zlib optimizations - Google 幻灯片
+https://docs.google.com/presentation/d/1tTDlyT3W-0Ka64RBFbKeQTVb3Ho1Rrt--Y0YTfMzLn8/edit#slide=id.g190458f06d3_0_113
+
+[BlinkOn19] External Contributions to Chromium - Google 幻灯片
+https://docs.google.com/presentation/d/1yX12Rn1tXlKJVIG8XMFXVA6o9Zhw46Zf7kZy4v_tbtQ/edit#slide=id.g3081dd53ff3_0_32
+
+Collective to Support Chromium
+https://docs.google.com/forms/d/e/1FAIpQLSdsYhCmxXaaFhtj4uHQHslRqumPHjo_1sC0tGIDVyDrWgrrOQ/viewform
+
+commons-wg@chromium.org - Google 群组
+https://groups.google.com/u/0/a/chromium.org/g/commons-wg
+
+OpenWebAdvocacy/OpenWebCompetitionPlatform: Open Web Competition Platform is a repo for documenting and tracking issues related to browser and web competition. Its aim is to facilitate coordination between browser vendors, operating systems, developers, and industry to help document outstanding competition issues with an eye towards resolving them more quickly.
+https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore/
+
+gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/multicore2/
+
+Back to Virtual Teaching, but Not Back to Zoom
+https://graphics.stanford.edu/~kayvonf/notes/virtualteachingkit/
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+DeepDrake ft. BTS-GAN and TayloRVC Raw Data - Google 表格
+https://docs.google.com/spreadsheets/d/1tZa9YsTiFIYCF-gIndquFFnMNV_50TD81EFf4Z95ajE/edit?gid=0#gid=0
+
+chrisdonahue/sheetsage: Transcribe music into lead sheets!
+https://github.com/chrisdonahue/sheetsage?tab=readme-ov-file#transcribing-a-shorter-segment
+
+Who We Are - The Web Standards Project
+https://www.webstandards.org/about/members/
+
+Chromium
+https://issues.chromium.org/issues/384605099
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Courses - Carnegie Mellon Database Group
+https://db.cs.cmu.edu/courses/
+
+cmu-db/bustub: The BusTub Relational Database Management System (Educational)
+https://github.com/cmu-db/bustub
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Database Storage I - 03-storage1.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/03-storage1.pdf
+
+Index of /afs/cs/academic/class/15745-s18/www/lectures
+https://www.cs.cmu.edu/afs/cs/academic/class/15745-s18/www/lectures/
+
+Why I Signed The "Pause" Letter
+https://robert.ocallahan.org/2023/04/why-i-signed-pause-letter.html
+
+Shtetl-Optimized » Blog Archive » If AI scaling is to be shut down, let it be for a coherent reason
+https://scottaaronson.blog/?p=7174
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class23
+
+CS349D Cloud Computing Technology, Spring 2024
+http://web.stanford.edu/class/cs349d/
+
+15-719 Advanced Cloud Computing: Syllabus
+https://www.cs.cmu.edu/~15719/schedule.html
+
+15-719 Advanced Cloud Computing filetype:pdf - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=15-719+Advanced+Cloud+Computing+filetype%3Apdf
+
+Index of /~15719/old/spring2019/lectures
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/
+
+719_S19-L06_Storage_1_online - 719_S19-L06_Storage_1.pdf
+https://www.cs.cmu.edu/~15719/old/spring2019/lectures/719_S19-L06_Storage_1.pdf
+
+Distributed Systems
+https://www.andrew.cmu.edu/course/15-440/
+
+Home / X
+https://x.com/home
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs348b/spring22
+https://gfxcourses.stanford.edu/cs348b/spring22
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 06_geometry.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometry/06_geometry.pdf
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+(311) Discord | #rust-usage | The Rust Programming Language
+https://discord.com/channels/442252698964721669/443150878111694848/1323810485518467092
+
 general（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/C0K2NFFV1
 
