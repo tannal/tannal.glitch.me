@@ -1,5 +1,26 @@
 
 
+混合架构:
+WebKit进程:
+    |-> WebCore (渲染引擎)
+        - HTML解析
+        - CSS解析
+        - DOM树构建
+        - 布局计算
+    |-> JavaScriptCore (JS引擎)
+        - 解释器
+        - JIT编译器
+        - 垃圾回收
+    |-> WebKit2 (进程管理)
+        - Web Process (网页内容)
+        - Network Process (网络)
+        - Plugin Process (插件)
+
+特点:
+- 更轻量级
+- 内存占用小
+- 进程隔离相对较少
+
 # IPC
 
 WebKit/Source/JavaScriptCore/yarr/

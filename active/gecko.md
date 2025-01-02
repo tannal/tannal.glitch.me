@@ -1,4 +1,28 @@
 
+项目Fission前(传统单进程):
+主进程:
+    |-> 主线程
+        - UI
+        - 网络
+        - 存储
+    |-> 内容线程
+        - 渲染
+        - JS执行
+    |-> 合成线程
+    |-> IO线程
+
+项目Fission后(多进程):
+- Parent Process (主进程)
+- Content Process (内容进程)
+- GPU Process
+- Web Extension Process
+- Socket Process
+
+特点:
+- 逐步走向多进程
+- 保持向后兼容
+- 内存占用适中
+- 灵活的进程模型
 
 # Cookie
 

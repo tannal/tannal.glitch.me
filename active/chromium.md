@@ -21,108 +21,48 @@ WebGPU + WebNN
 
 # 2025
 
-# 2024
-
-1. WebGPU 相关:
-WebGPU: implement requestAdapter()'s featureLevel placeholder: 实现 WebGPU 适配器的特性级别占位符
-WebGPU: Expose GPUAdapterInfo from GPUDevice: 从 GPU 设备暴露 GPU 适配器信息
-WebGPU: 32-bit float textures blending: 支持 32 位浮点纹理混合
-WebGPU: Dual source blending: 双源混合支持
-WebGPU extended range (HDR) support: 扩展范围(HDR)支持
-
-2. 隐私和安全相关:
-Protected Audience Auction Nonce Hardening: 加强受保护受众拍卖的随机数安全性
-Protected Audience: Private Aggregation per-participant usage metrics: 受保护受众的每参与者私有聚合使用指标
-Ignore Strict-Transport-Security for localhost: 对本地主机忽略严格传输安全策略
-Fenced frames - Fix 'src' permissions policy allowlist: 修复围栏框架的源权限策略允许列表
-Private Aggregation API: 私有聚合 API 的多项改进
-Dynamic safe area insets: 动态安全区域插入
-
-
-3. 网页 API 改进:
-QUIC ACK-ECN: QUIC 协议的 ACK-ECN 支持
-Support Web Locks API in Shared Storage: 在共享存储中支持 Web Locks API
-Attribution Reporting API 相关改进
-
-4. 导航和 DOM 相关:
-Remove non-standard navigations targeted at _current: 移除针对 current 的非标准导航
-navigator.storage no longer an EventTarget: navigator.storage 不再作为事件目标
-scroll-initial-target: 滚动初始目标功能
-
-5.CSS 改进:
-CSS inertness: CSS 惰性特性
-::column pseudo element for Carousel: 轮播图的列伪元素
-CSS Nesting: The Nested Declarations Rule: CSS 嵌套声明规则
-CSS Container Queries flat tree lookup: 容器查询平面树查找
-meter element fallback styles: 度量元素的后备样式
-Support currentcolor in Relative Color Syntax: 相对颜色语法中支持 currentcolor
-CSS Anchor Positioning: 锚点定位相关改进
-Update CSS backdrop-filter: 更新背景滤镜使用镜像边缘模式
-Full and unprefixed box-decoration-break support: 完整的无前缀盒装饰断开支持
-
-6.事件处理:
-Coalesced/predicted events in untrusted PointerEvents: 不受信任指针事件中的合并/预测事件
-Remove PointerEvent.getCoalescedEvents(): 移除指针事件的获取合并事件方法
-Coalesce selectionchange events: 合并选择更改事件
-
-7.性能优化:
-Concurrent Smooth scrollIntoViews: 并发平滑滚动到视图
-Transferable RTCDataChannel to dedicated workers: 可传输的 RTC 数据通道到专用工作线程
-
-
-8.废弃和重命名:
-Deprecate CHIPS and Relaunch in WebView: 在 WebView 中废弃 CHIPS 并重新启动
-Rename position-try-options to position-try-fallbacks: 重命名位置尝试选项
-Deprecation of CSS Anchor Positioning property 'inset-area': 废弃 CSS 锚点定位属性
-
-光栅化 -> 生成图层 -> 合成 -> 最终图像
-
-- 光栅化关注"如何将矢量转为像素"
-- 合成关注"如何高效组织和显示这些像素"
-
-Layout -> Paint -> Rasterization -> Composite
-
-// 光栅化过程包括:
-1. 路径处理
-2. 填充规则应用
-3. 抗锯齿处理
-4. 透明度处理
-
-# Compositing
-
-
-- 核心是布局算法(Layout Algorithm)
-  - 盒模型计算(Box Model)
-  - 流式布局(Flow Layout)
-  - 弹性布局(Flexbox)
-  - 网格布局(Grid)
-
-- 字体只是其中一个重要组件
-  - 文字排版(Text Layout)
-  - 行高计算(Line Height)
-  - 字距调整(Kerning)
-  - 连字处理(Ligatures)
-
-
-
-Browser Process
+Browser Process (主进程)
+    |-> UI Thread (界面绘制)
+    |-> Network Thread (网络请求)
+    |-> Storage Thread (存储)
+    |-> GPU Thread (GPU任务协调)
+    |-> Plugin Thread (插件管理)
+    |-> Extension Thread (扩展管理)
     ↓
-Renderer Process
-    |-> Main Thread (JS/DOM/Layout)
-    |-> Compositor Thread (合成)
-    |-> V8 线程
-        |-> Main V8
-        |-> GC Thread
+
+Renderer Process (渲染进程, 每个标签页一个)
+    |-> Main Thread (主线程)
+        |-> Parsing (HTML解析)
+        |-> DOM Tree Construction
+        |-> Style Calculation
+        |-> Layout
+        |-> Paint
+    |-> Compositor Thread (合成线程)
+        |-> Layer Management
+        |-> Frame Production
+    |-> V8 Thread(s)
+        |-> Main V8 Thread
+        |-> GC Thread(s)
         |-> Compiler Thread(s)
-            - JIT编译
-            - 优化编译
-    |-> Web Worker Threads
-    |-> Raster Threads (栅格化)
+            - JIT Compilation
+            - Optimization
+            - Deoptimization
+    |-> Web Worker Thread(s)
+    |-> Raster Thread(s)
     |-> IO Thread
     ↓
-GPU Process
+
+GPU Process (GPU进程, 整个浏览器共享)
     |-> Command Buffer
-    |-> 实际渲染和合成
+    |-> Hardware Acceleration
+    |-> Compositing
+    |-> Video Decode
+
+其他进程:
+- Plugin Process (插件进程)
+- Utility Process (工具进程)
+- Extension Process (扩展进程)
+- Network Service Process (网络服务进程)
 
 触摸/滚轮事件 -> 合成线程 -> GPU进程
                    |
