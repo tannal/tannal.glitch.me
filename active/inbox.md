@@ -1,7 +1,7 @@
 
 # 2025-01-03 3
 
-
+uv venv --python=python3.10 .venv
 
 
 resmon.exe - 资源监视器
