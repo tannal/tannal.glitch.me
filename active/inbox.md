@@ -1,4 +1,15 @@
 
+# 2025-01-03 3
+
+
+UIUC (University of Illinois Urbana-Champaign):
+CMU (Carnegie Mellon University):
+MIT (Massachusetts Institute of Technology):
+Stanford University:
+ETH Zurich:
+
+
+
 # 2025-01-02 3
 
 droidcam-cli -a -v 192.168.43.95 4747  # 替换为你的IP
