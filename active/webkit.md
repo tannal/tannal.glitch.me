@@ -1,5 +1,15 @@
 
 
+Maciej Stachowiak: One of the early contributors to WebKit and JavaScriptCore, playing a significant role in its development and direction.
+Geoffrey Garen: A long-time contributor to the JSC team, known for his work on performance improvements and architectural decisions.
+Filip Pizlo: Known for his work on optimizing JavaScriptCore, particularly in areas like garbage collection and just-in-time (JIT) compilation.
+4. Mark Lam: Another key contributor, focusing on various aspects of the engine's performance and stability.
+
+Don Melton (2001-2007): Often credited as the original project leader of WebKit at Apple. He led the team during the early development stages when WebKit was derived from the KHTML and KJS libraries.
+Maciej Stachowiak (2007 onwards): Became a prominent figure in the WebKit project, contributing significantly to its development and direction. He has been involved in various aspects of the project, including standards and architecture.
+3. Darin Adler: Another key figure in the WebKit team, known for his contributions to the architecture and development of the engine. He has been involved with WebKit for many years and has played a significant role in its evolution.
+Geoffrey Garen: Also a significant contributor to the WebKit project, focusing on JavaScript and other core components of the engine.
+
 混合架构:
 WebKit进程:
     |-> WebCore (渲染引擎)

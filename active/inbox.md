@@ -1,6 +1,9 @@
 
 # 2025-01-03 3
 
+clang++ -Og test.cc -S -o test_arm64.S -target aarch64-linux-gnu
+clang++ -Og test.cc -S -o test_riscv64.S -target riscv64-linux-gnu
+
 Blender
 这个故事也展示了开源软件的一个重要发展路径：从内部工具，到商业产品，最后转型为开源项目。这种转变让 Blender 不仅存活下来，还获得了更大的成功。
 

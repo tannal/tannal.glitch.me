@@ -1,4 +1,10 @@
 
+1. Brendan Eich (1995): Created JavaScript and was instrumental in the early development of SpiderMonkey, the first JavaScript engine.
+2. Dave Mandelin (circa 2009-2011): Played a significant role in the development of SpiderMonkey, particularly during the introduction of features like JIT compilation.
+David Anderson (circa 2011-2013): Contributed to the development of the IonMonkey JIT compiler, which improved the performance of SpiderMonkey.
+4. Jason Orendorff (2013-2016): Led the SpiderMonkey team, focusing on performance improvements and ECMAScript standard compliance.
+5. Till Schneidereit (2016-2018): Took over leadership, continuing the focus on performance and new JavaScript features.
+6. Jan de Mooij (2018-present): Has been a key figure in the SpiderMonkey team, focusing on performance optimizations and maintaining the engine's competitiveness.
 
 https://phabricator.services.mozilla.com/D233087
 

@@ -1,4 +1,16 @@
 
+Sundar Pichai (2008 - 2013): Sundar Pichai was instrumental in the development and launch of Google Chrome. He led the Chrome project from its inception and played a significant role in its success. He later became the CEO of Google.
+Linus Upson (2008 - 2013): Worked alongside Sundar Pichai and was a key figure in the early development of Chrome.
+Brian Rakowski (2013 - 2018): Took over as the Vice President of Product Management for Chrome, overseeing its development and growth.
+4. Darin Fisher (2013 - 2020): A long-time engineer at Google, Darin Fisher played a significant role in the technical leadership of the Chrome team.
+5. Parisa Tabriz (2018 - present): Known as Google's "Security Princess," she has been involved in leading Chrome's security efforts and has taken on broader leadership roles within the Chrome team.
+Ben Goodger (early years): One of the original engineers on the Chrome project, contributing significantly to its initial development.
+
+1. 2013: Blink was forked from WebKit in April 2013. At this time, the project was led by a group of engineers at Google, including Adam Barth and Eric Seidel, who were instrumental in the initial development and direction of Blink.
+2014-2015: During this period, the Blink team was led by a collaborative group of engineers, with key figures like Alex Komoroske and others contributing to its development and feature set.
+2016-2017: The leadership continued to evolve with contributions from several senior engineers. Key figures included Rick Byers, who focused on input and scrolling performance, and other engineers who led various aspects of the project.
+4. 2018 and beyond: The Blink team continued to operate with a collaborative leadership structure, with several engineers taking on leadership roles in different areas, such as performance, security, and new web standards.
+
 # New Porjects
 
 z-index 处理DOM元素的遮挡顺序
