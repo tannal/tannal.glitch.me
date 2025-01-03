@@ -1,7 +1,14 @@
 
 # 2025-01-03 3
 
+
+
+
 resmon.exe - 资源监视器
+
+cd "C:\Program Files\Microsoft Office\Office16"
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
 
 winget install Microsoft.OfficeDeploymentTool
 
@@ -28,7 +35,7 @@ winget install Microsoft.OfficeDeploymentTool
 
 "C:\Program Files\OfficeDeploymentTool\setup.exe"  /download config.xml
 
-setup /configure config.xml
+"C:\Program Files\OfficeDeploymentTool\setup.exe" /configure config.xml
 setup /download config.xml
 
 Android Internals:
