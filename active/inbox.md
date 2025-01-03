@@ -1,6 +1,21 @@
 
 # 2025-01-03 3
 
+Android Internals:
+- Volume 1: 系统基础
+- Volume 2: 硬件和 HAL 实现
+- Volume 3: 安全（开发中）
+- Volume 4: 新卷（开发中）
+
+find . -name "*.ipynb" -not -path "*/aosp/*"
+
+find . -name "*.ipynb"
+
+The Book of Why: The New Science of Cause and Effect
+Causality: Models, Reasoning, and Inference
+
+Causal inference in statistics
+
 clang++ -Og test.cc -S -o test_arm64.S -target aarch64-linux-gnu
 clang++ -Og test.cc -S -o test_riscv64.S -target riscv64-linux-gnu
 
