@@ -1,4 +1,26 @@
 
+
+https://phabricator.services.mozilla.com/D233087
+
+捕获阶段 (Capturing) ↓
+    |
+    ▼
+目标阶段 (Target)
+    |
+    ▼
+冒泡阶段 (Bubbling) ↑
+
+
+1. PreHandleEvent (系统预处理)
+   ↓
+2. Capturing Phase (捕获阶段)
+   ↓
+3. Target Phase (目标阶段)
+   ↓
+4. Bubbling Phase (冒泡阶段)
+   ↓
+5. PostHandleEvent (系统后处理)
+
 项目Fission前(传统单进程):
 主进程:
     |-> 主线程
