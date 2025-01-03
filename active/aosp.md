@@ -117,7 +117,7 @@ https://android-developers.googleblog.com/
 # dev
 
 
-root android phone setup adb server 
+root android phone setup adb server
 
 ```bash
 setprop service.adb.tcp.port 5555
@@ -182,6 +182,7 @@ adb -s 10.90.26.12:5555 shell
 
 build completed successfully (01:58:12 (hh:mm:ss))
 
+https://groups.google.com/g/android-ndk
 
 # tokie
 

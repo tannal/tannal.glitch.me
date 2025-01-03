@@ -1,6 +1,218 @@
 
 # 2025-01-03
 
+Discord
+https://discord.com/channels/714891843556606052/717071794032345099
+
+nodejs-loaders（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C053UCCP940
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [13] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+If a resource allows credentials but omits Vary, shouldn't responses to non-CORS requests also contain Access-Control-Allow-Credentials? · Issue #1601 · whatwg/fetch
+https://github.com/whatwg/fetch/issues/1601
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Collective to Support Chromium
+https://docs.google.com/forms/d/e/1FAIpQLSdsYhCmxXaaFhtj4uHQHslRqumPHjo_1sC0tGIDVyDrWgrrOQ/viewform
+
+commons-wg@chromium.org - Google 群组
+https://groups.google.com/u/0/a/chromium.org/g/commons-wg
+
+OpenWebAdvocacy/OpenWebCompetitionPlatform: Open Web Competition Platform is a repo for documenting and tracking issues related to browser and web competition. Its aim is to facilitate coordination between browser vendors, operating systems, developers, and industry to help document outstanding competition issues with an eye towards resolving them more quickly.
+https://github.com/OpenWebAdvocacy/OpenWebCompetitionPlatform?tab=readme-ov-file
+
+IBM PC Software | PCjs Machines
+https://www.pcjs.org/software/pcx86/
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mstarzinger/coolc: Cool Compiler for MIPS written in Haskell
+https://github.com/mstarzinger/coolc
+
+othermaciej's comments | Hacker News
+https://news.ycombinator.com/threads?id=othermaciej
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor - YouTube
+https://www.youtube.com/watch?v=CKmNpAO5rS4&t=10s
+
+cline deepseek - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cline+deepseek
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+(1) Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+el.cine on X: "This can’t be real… 🤯 AGI Mocap can generate 3D character rigging in real-time and export it straight to 3D software. https://t.co/gEtCPAMh17" / X
+https://x.com/EHuanglu/status/1874565427717963818
+
+Home | The FreeMoCap Project
+https://freemocap.org/
+
+freemocap/freemocap: Free Motion Capture for Everyone 💀✨
+https://github.com/freemocap/freemocap
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D233087 Bug 1935672 - Handle blur on the datetime box earlier. r=smaug!
+https://phabricator.services.mozilla.com/D233087
+
+1935672 - incomplete time input value returns empty string since 133.0
+https://bugzilla.mozilla.org/show_bug.cgi?id=1935672#c9
+
+【纯享版】王赫野姚晓棠全新演绎情歌《最后一页》 忧伤旋律搭配歌声中的惆怅感 情感渲染力十足！ #天赐的声音5 EP1 20240426 - YouTube
+https://www.youtube.com/watch?v=ULYksmjBwzY&list=RDULYksmjBwzY&index=1
+
+Code search results
+https://github.com/search?q=repo%3Amozilla%2Fgecko-dev+74fab528f49d5c9fe8c65382013a8768985eddfc&type=code
+
+The Hitchhiker's Guide to Firefox Contributor
+https://tannal.github.io/p/the-hitchhikers-guide-to-firefox-contributor/
+
+Toeverything
+https://github.com/toeverything
+
+Schniz/fnm: 🚀 Fast and simple Node.js version manager, built in Rust
+https://github.com/Schniz/fnm
+
+Schniz/fnm: 🚀 Fast and simple Node.js version manager, built in Rust
+https://github.com/Schniz/fnm
+
+y-octo/y-octo/src/codec/string.rs at main · y-crdt/y-octo
+https://github.com/y-crdt/y-octo/blob/main/y-octo/src/codec/string.rs
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Unreal Engine 6: Everything You Need to Know [Article + Images] – KitBash3D
+https://kitbash3d.com/a/blog/unreal-engine-6-everything-you-need-to-know?srsltid=AfmBOopVQ5VEIjv_2Wfzpo2-pksPh_s82Av7LuHB_zh9Cou6rbGvFxto
+
+Brian Kar - Search / X
+https://x.com/search?q=%20Brian%20Kar&src=typed_query
+
+Browser Use
+https://github.com/browser-use
+
+Andrej Karpathy (@karpathy) / X
+https://x.com/karpathy
+
+Stanford University CS231n: Deep Learning for Computer Vision
+https://cs231n.stanford.edu/schedule.html
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Autoregressive Models
+https://deepgenerativemodels.github.io/notes/autoregressive/
+
+CS294-158-SP20 Deep Unsupervised Learning Spring 2020
+https://sites.google.com/view/berkeley-cs294-158-sp20/home
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g580c5cd750_0_119
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+The spelled-out intro to neural networks and backpropagation: building micrograd - YouTube
+https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
+android-platform - Google 群组
+https://groups.google.com/g/android-platform
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+newandroidbook filetype:pdf - Google 搜索
+https://www.google.com/search?q=newandroidbook+filetype%3Apdf+&client=ubuntu-sn&hs=Pyg&sca_esv=371188a085045cf5&channel=fs&biw=1850&bih=968&sxsrf=ADLYWII0JQnpnpsprvo4IYs7bhmvY6z7jw%3A1735890121787&ei=yZR3Z-DhL77DkPIPxPnBuQM&ved=0ahUKEwig6s_QhtmKAxW-IUQIHcR8MDcQ4dUDCBA&uact=5&oq=newandroidbook+filetype%3Apdf+&gs_lp=Egxnd3Mtd2l6LXNlcnAiHG5ld2FuZHJvaWRib29rIGZpbGV0eXBlOnBkZiBI-ghQxgdYxgdwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAcA&sclient=gws-wiz-serp
+
+AnSec2.0 - AnSec2.0.pdf
+http://technologeeks.com/files/AnSec2.0.pdf
+
+Trending Challenge / Adventure Minecraft Maps | Planet Minecraft Community
+https://www.planetminecraft.com/projects/challenge-adventure/?order=order_hot
+
+PROJECT | Planet Minecraft
+https://www.planetminecraft.com/project/escape-game-6500626/download/worldmap/
+
+Minecraft Puzzle Maps: Download For Free
+https://www.minecraftmaps.com/puzzle
+
+Android Dev Notes (@androiddevnotes) / X
+https://x.com/androiddevnotes
+
+androiddevnotes/android-modern-movie-app: Modern Movie App in Jetpack Compose
+https://github.com/androiddevnotes/android-modern-movie-app
+
+The Movie Database (TMDB)
+https://www.themoviedb.org/
+
+Home / X
+https://x.com/home
+
+Raw WebGL
+http://nickdesaulniers.github.io/RawWebGL/#/66
+
+Basic JIT
+http://nickdesaulniers.github.io/blog/2013/04/03/basic-jit/
+
+windows office - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=windows+office
+
+microsoft/PowerToys: Windows system utilities to maximize productivity
+https://github.com/microsoft/PowerToys
 
 # 2025-01-02
 
