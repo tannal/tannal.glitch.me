@@ -1,7 +1,35 @@
 
 # 2025-01-03 3
 
+resmon.exe - 资源监视器
 
+winget install Microsoft.OfficeDeploymentTool
+
+<Configuration ID="0248227a-1b5f-413b-9d5c-83d451736957">
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+    <Product ID="ProPlus2024Volume" PIDKEY="XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB">
+      <Language ID="zh-cn" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Publisher" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Updates Enabled="TRUE" />
+  <RemoveMSI />
+</Configuration>
+
+"C:\Program Files\OfficeDeploymentTool\setup.exe"  /download config.xml
+
+setup /configure config.xml
+setup /download config.xml
 
 Android Internals:
 - Volume 1: 系统基础

@@ -35676,7 +35676,6 @@ eventvwr.msc - 事件查看器
 gpedit.msc - 组策略编辑器（仅专业版及以上版本）
 msinfo32.exe - 系统信息
 perfmon.exe - 性能监视器
-resmon.exe - 资源监视器
 compmgmt.msc - 计算机管理
 
 
