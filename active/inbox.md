@@ -1,6 +1,25 @@
 
 # 2025-01-04 3
 
+vim ~/.tmux.conf
+
+```
+# 启用鼠标支持
+set -g mouse on
+
+# 增加滚动缓冲区大小
+set-option -g history-limit 5000
+
+# 设置vi模式按键绑定
+set-window-option -g mode-keys vi
+
+# 使用前缀键 + [ 进入复制模式
+# 在复制模式下:
+# - 空格键开始选择
+# - 回车键复制选中内容
+# - q 退出复制模式
+```
+
 echo '.youtube.com	TRUE	/	TRUE	1735689600	[cookie]' > cookies.txt
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
