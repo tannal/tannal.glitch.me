@@ -1,7 +1,37 @@
 
 # 2025-01-04 3
 
+tree -I "target" | wl-copy
 
+这种区别的理论意义:
+系统的完备性
+形式可达的功能在现有系统框架内可实现
+形式不可达的功能需要扩展系统的表达能力
+2. 系统的复杂度
+形式可达的变更不增加系统的本质复杂度
+形式不可达的变更引入新的复杂度层次
+系统的演化
+形式可达的改动是渐进式的
+形式不可达的改动是革命式的
+这确实类似于哥德尔不完备定理:
+任何形式系统都有其表达极限
+突破这个极限需要引入新的公理(结构)
+系统扩展会带来新的不可达命题
+这个观察对系统设计有重要启示:
+识别系统的表达边界
+评估功能扩展的本质复杂度
+在必要时才引入新的抽象层次
+
+虽然目前不是最活跃的玩家，但考虑到Anthropic的技术实力和研究深度，他们在音乐AI领域的潜在影响力不容忽视。
+Google Research/DeepMind MusicLM AudioLM Music Transformer
+Meta AI (Facebook) MusicGen AudioCraft
+Microsoft Research Muzic SingSong
+Stanford MuseNet
+MIT
+QMUL
+
+OpenAI Jukebox
+Harmonai Dance Diffusion
 Yi-Hsuan Yang
 领导台湾中研院的音乐AI研究组
 
