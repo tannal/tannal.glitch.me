@@ -3,7 +3,6 @@
 
 
 
-
 sudo ptunnel -p 10.106.146.44 -lp 25565 -r 192.168.43.95 -R 25565
 
 sudo apt install ptunnel
