@@ -1,6 +1,189 @@
 
 # 2025-01-04
 
+(313) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+STL algorithms for trivial relocation – Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/2023/03/03/relocate-algorithm-design/
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
+
+main--earnest-semifreddo-71f4ac.netlify.app/benchmark.html
+https://main--earnest-semifreddo-71f4ac.netlify.app/benchmark.html
+
+访问遭拒
+https://docs.google.com/document/d/1wSbBV6tS-KLlHWxaK_FmEJFOwkY-pb8_YDoFJgDrbMg/edit#heading=h.8sr59f3v8ooi
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 4 - Parallel Programming Basics - YouTube
+https://www.youtube.com/watch?v=0-ztm8SKq70
+
+youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbF9yYi1IQmRHdGNST0hPVHA0OWFxbTh4UjRod3xBQ3Jtc0tuSzZKT0hNRVVMV1RFTy1qTlVTOTRTX2hPUzE5QjZaZl83TmVERUtIbFhRb1VpdHY4c3ZZOHRhclRuMkxqRi1sN1NZMlpXUFpxUmpjbDR6QjlSYnFOeXJoM19Dd0hjN3Q4TFpRbWRBSnJLazV4N0ZuQQ&q=https%3A%2F%2Fgfxcourses.stanford.edu%2Fcs149%2Ffall23%2F&v=0-ztm8SKq70
+https://gfxcourses.stanford.edu/cs149/fall23/lecture/multicore2-ispc/slide_54
+
+Michael Lippautz
+https://www.cs.uni-salzburg.at/~mlippautz/
+
+Michael Lippautz – “Live and let die: Untangling the web of objects“ | .concat() 2018 - YouTube
+https://www.youtube.com/watch?v=qETWAqrhUL4
+
+[OOPSLA] Fast, Multicore-Scalable, Low-Fragmentation Memory Allocation - YouTube
+https://www.youtube.com/watch?v=TJPIsU8Yqzw
+
+Fast, Multicore-Scalable, Low-Fragmentation Memory Allocation through Large Virtual Memory and Global Data Structures (SPLASH 2015 - OOPSLA) - SPLASH 2015
+https://2015.splashcon.org/details/oopsla2015/32/Fast-Multicore-Scalable-Low-Fragmentation-Memory-Allocation-through-Large-Virtual-M
+
+Fast, Multicore-Scalable, Low-Fragmentation Memory Allocation through Large Virtual Memory and Global Data Structures - OOPSLA15-Scalloc.pdf
+https://www.cs.uni-salzburg.at/~ck/content/publications/conferences/OOPSLA15-Scalloc.pdf
+
+dblp: Michael Lippautz
+https://dblp.org/pid/71/9697.html
+
+Ulan Degenbaev youtube - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Ulan+Degenbaev+youtube
+
+using risc-v toolchain riscv64-unknown-elf-as to directly compile selfie generated asm · Issue #393 · cksystemsteaching/selfie
+https://github.com/cksystemsteaching/selfie/issues/393
+
+Sparse strip path rendering · Issue #670 · linebender/vello
+https://github.com/linebender/vello/issues/670
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D8&rid=8&id=lhins-j6sk0bb4
+
+Index of /
+http://petherfish.cn:18080/
+
+996.ICU
+https://996.icu/#/zh_CN
+
+Create Your NameSilo Account and Get Started Today
+https://www.namesilo.com/sign-up?redirect=%2Fcart
+
+Pumpkin-MC/Pumpkin: Empowering everyone to host fast and efficient Minecraft servers.
+https://github.com/Pumpkin-MC/Pumpkin
+
+Site not found · GitHub Pages
+https://snowiiii.github.io/
+
+Coffee Compiler Club, 2025_1_3 - YouTube
+https://www.youtube.com/watch?v=C0uTG-CxSt8
+
+YouTube
+https://www.youtube.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+y-crdt/y-octo: CRDT implementation which is compatible with https://github.com/yjs/yjs
+https://github.com/y-crdt/y-octo/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g580c5cd750_0_302
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+Eureka Labs
+https://eurekalabs.ai/
+
+karpathy/LLM101n: LLM101n: Let's build a Storyteller
+https://github.com/karpathy/LLM101n
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+Discover — Bluesky
+https://bsky.app/
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools/
+
+guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/guozhigq/pilipala
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/videos
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases/
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+cookie editor - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cookie+editor+
+
+Extractors · yt-dlp/yt-dlp Wiki
+https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies
+
 (311) Discord | #telecon-agendas | openui
 https://discord.com/channels/714891843556606052/717071794032345099
 
