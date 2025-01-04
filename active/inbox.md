@@ -1,11 +1,16 @@
 
 # 2025-01-04 3
 
+LD_PRELOAD=/opt/gperftools/lib/libprofiler.so \
+CPUPROFILE=selfie.prof \
+CPUPROFILE_FREQUENCY=1000 \
+../selfie/selfie ../selfie/selfie.c
+
 git clone https://github.com/gperftools/gperftools.git
 cd gperftools
 
 ./autogen.sh
-./configure
+./configure --prefix=/opt/gperftools
 make
 
 所以，Go语言的并发模型主要是受到CSP理论的影响，而不是ISPC。它们是两种不同的并发/并行编程范式。
