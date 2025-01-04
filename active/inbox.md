@@ -2,6 +2,25 @@
 # 2025-01-04 3
 
 
+
+
+sudo ptunnel -p 10.106.146.44 -lp 25565 -r 192.168.43.95 -R 25565
+
+sudo apt install ptunnel
+
+# 启动ptunnel服务端
+sudo ptunnel -v 4
+
+# 如果需要密码保护
+sudo ptunnel -x your_password
+# 创建隧道
+ip tunnel add tun0 mode gre remote 10.106.146.44 local 10.90.79.248
+ip addr add 10.0.0.2/24 dev tun0
+ip link set tun0 up
+
+# 添加路由（如果需要访问10.106网段）
+ip route add 10.106.0.0/16 via 10.0.0.1
+
 # 创建隧道
 sudo ip tunnel add tun0 mode gre remote 10.106.146.44 local 10.90.79.248
 sudo ip addr add 10.0.0.2/24 dev tun0
