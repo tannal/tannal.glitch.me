@@ -1,6 +1,9 @@
 
 # 2025-01-04 3
 
+echo '.youtube.com	TRUE	/	TRUE	1735689600	[cookie]' > cookies.txt
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
 LD_PRELOAD=/opt/gperftools/lib/libprofiler.so \
 CPUPROFILE=selfie.prof \
 CPUPROFILE_FREQUENCY=1000 \
