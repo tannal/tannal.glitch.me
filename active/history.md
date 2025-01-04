@@ -1,4 +1,156 @@
 
+# 2025-01-04
+
+(311) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
+* nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [14] | MDN Web Docs
+https://chat.mozilla.org/#/room/#mdn:mozilla.org
+
+If a resource allows credentials but omits Vary, shouldn't responses to non-CORS requests also contain Access-Control-Allow-Credentials? · Issue #1601 · whatwg/fetch
+https://github.com/whatwg/fetch/issues/1601
+
+* Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mstarzinger/coolc: Cool Compiler for MIPS written in Haskell
+https://github.com/mstarzinger/coolc
+
+othermaciej's comments | Hacker News
+https://news.ycombinator.com/threads?id=othermaciej
+
+Stanford CS149 I 2023 I Lecture 3 - Multi-core Arch Part II + ISPC Programming Abstractions - YouTube
+https://www.youtube.com/watch?v=F4bVSyz_jxo
+
+cline deepseek - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cline+deepseek
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+Make "fnm" an official installation method for Node.js on Windows · Issue #1357 · Schniz/fnm
+https://github.com/Schniz/fnm/issues/1357
+
+y-crdt/y-octo: CRDT implementation which is compatible with https://github.com/yjs/yjs
+https://github.com/y-crdt/y-octo/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Unreal Engine 6: Everything You Need to Know [Article + Images] – KitBash3D
+https://kitbash3d.com/a/blog/unreal-engine-6-everything-you-need-to-know?srsltid=AfmBOopVQ5VEIjv_2Wfzpo2-pksPh_s82Av7LuHB_zh9Cou6rbGvFxto
+
+Eric Seidel (@_eseidel) / X
+https://x.com/_eseidel
+
+breck7/pldb: PLDB: a Programming Language DataBase
+https://github.com/breck7/pldb
+
+@eseidel.bsky.social — Bluesky
+https://bsky.app/profile/eseidel.bsky.social
+
+PLDB: a Programming Language DataBase
+https://pldb.io/
+
+Browser Use
+https://github.com/browser-use
+
+People you know following Andrej Karpathy (@karpathy) / X
+https://x.com/karpathy/followers_you_follow
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g580c5cd750_0_209
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+Home / X
+https://x.com/home
+
+Issues · Brooooooklyn/canvas
+https://github.com/Brooooooklyn/canvas/issues
+
+Motion Diffusion - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Motion+Diffusion
+
+2209.14916v2.pdf
+https://arxiv.org/pdf/2209.14916
+
+Motion Diffusion Model (MDM) · Issue #100 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+stable animation github - Google 搜索
+https://www.google.com/search?q=stable+animation+github&client=ubuntu-sn&hs=RMl&sca_esv=b9d59735341c7a85&channel=fs&sxsrf=ADLYWIKUtdrPpedcO1fearNKoJc22JEz_g%3A1735906987980&ei=q9Z3Z4W6O5C5kPIPqcymoQY&oq=Stable+Animation+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEVN0YWJsZSBBbmltYXRpb24gKgIIATIIEAAYgAQYywEyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5I5SBQlg5Y4hlwAngBkAEAmAG2AqAB5wSqAQMzLTK4AQPIAQD4AQGYAgSgAvgEwgIKEAAYsAMY1gQYR8ICBRAAGO8FwgIIEAAYgAQYogSYAwCIBgGQBgqSBwUyLjMtMqAH1Qc&sclient=gws-wiz-serp
+
+mozilla/TTS: :robot: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)
+https://github.com/mozilla/TTS
+
+Plachtaa/VALL-E-X: An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
+https://github.com/Plachtaa/VALL-E-X
+
+myshell-ai/OpenVoice: Instant voice cloning by MIT and MyShell.
+https://github.com/myshell-ai/OpenVoice
+
 # 2025-01-03
 
 Discord
