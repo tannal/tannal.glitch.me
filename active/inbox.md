@@ -1,5 +1,18 @@
 
-# 2025-01-04
+# 2025-01-04 3
+
+
+Yi-Hsuan Yang
+领导台湾中研院的音乐AI研究组
+
+Music ControlNet (2024)
+MuseMorphose (2022-2023)
+Theme Transformer (2022)
+Jazz Transformer (2020)
+
+避免在已有消息循环中再创建新的消息循环，应该使用异步回调的方式来处理。这不是指普通的事件处理机制，而是特指阻塞式的嵌套消息泵。
+
+可能程序员只写make sense的代码，而不是写perfect和correct的代码，只是大多数时候make sense就是correct的
 
 Query 和 Key 的分离设计：
 - Q 代表"我想要什么"
@@ -8,6 +21,10 @@ Query 和 Key 的分离设计：
 - 类似于数据库查询：
   - Q = 搜索关键词
   - K = 索引
+
+先找到相关的信息(通过 Q·K)
+2. 再提取有用的内容(通过 V)
+最后合成所需的表示
 
 # 2025-01-03 3
 

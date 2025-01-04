@@ -4,6 +4,156 @@
 (311) Discord | #telecon-agendas | openui
 https://discord.com/channels/714891843556606052/717071794032345099
 
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+cxx (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+STL algorithms for trivial relocation – Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/2023/03/03/relocate-algorithm-design/
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2024年12月29日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+2005.05339v2.pdf
+https://arxiv.org/pdf/2005.05339
+
+2311.07069v1.pdf
+https://arxiv.org/pdf/2311.07069
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Discover — Bluesky
+https://bsky.app/
+
+mstarzinger/coolc: Cool Compiler for MIPS written in Haskell
+https://github.com/mstarzinger/coolc
+
+othermaciej's comments | Hacker News
+https://news.ycombinator.com/threads?id=othermaciej
+
+Stanford CS149 I 2023 I Lecture 3 - Multi-core Arch Part II + ISPC Programming Abstractions - YouTube
+https://www.youtube.com/watch?v=F4bVSyz_jxo
+
+2102.11972v2.pdf
+https://arxiv.org/pdf/2102.11972
+
+Publications | Shih-Lun Wu | Homepage
+https://slseanwu.github.io/publications/
+
+Real Data - Google 云端硬盘
+https://drive.google.com/drive/folders/1-DtWQsX_fPYi8xPOJrO73yV22cgZ7fJt
+
+riffusion/riffusion-hobby: Stable diffusion for real-time music generation
+https://github.com/riffusion/riffusion-hobby
+
+Riffusion – Stable Diffusion fine-tuned to generate music | Hacker News
+https://news.ycombinator.com/item?id=33999162
+
+Riffusion
+https://www.riffusion.com/
+
+Discord
+https://discord.com/invite/riffusion-1053034685590143047
+
+riffusion/riffusion-app-hobby: Stable diffusion for real-time music generation (web app)
+https://github.com/riffusion/riffusion-app-hobby
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+[2008.01307] The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-composed Music through Quantitative Measures
+https://arxiv.org/abs/2008.01307
+
+[2111.04093] Theme Transformer: Symbolic Music Generation with Theme-Conditioned Transformer
+https://arxiv.org/abs/2111.04093
+
+‪Yi-Hsuan Yang‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=OL-XGxcAAAAJ&view_op=list_works&sortby=pubdate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+y-crdt/y-octo: CRDT implementation which is compatible with https://github.com/yjs/yjs
+https://github.com/y-crdt/y-octo/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g580c5cd750_0_209
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+Eureka Labs
+https://eurekalabs.ai/
+
+karpathy/LLM101n: LLM101n: Let's build a Storyteller
+https://github.com/karpathy/LLM101n
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+(311) Discord | #telecon-agendas | openui
+https://discord.com/channels/714891843556606052/717071794032345099
+
 * nodejs-core（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
 
