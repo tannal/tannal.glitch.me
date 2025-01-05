@@ -1,4 +1,171 @@
 
+# 2025-01-05
+
+(316) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733/threads/1322173443071803423
+
+cursor - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+Advanced Pythagoras – Typst
+https://typst.app/project/pY8h3TfaNxzkVfDsvH34it
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Element [13] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+* Search - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+STL algorithms for trivial relocation – Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/2023/03/03/relocate-algorithm-design/
+
+Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
+
+main--earnest-semifreddo-71f4ac.netlify.app/benchmark.html
+https://main--earnest-semifreddo-71f4ac.netlify.app/benchmark.html
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+firefox-dev@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/firefox-dev
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy - YouTube
+https://www.youtube.com/watch?v=XfpMkf4rD6E
+
+Stanford CS 25 | Transformers United
+https://web.stanford.edu/class/cs25/
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Google 日历 - 2025年1月5日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+LittleSkin - A fast, reliable, free Minecraft skin hosting server.
+https://littleskin.cn/
+
+Infinite block placing + incorrect block placing · Issue #230 · Pumpkin-MC/Pumpkin
+https://github.com/Pumpkin-MC/Pumpkin/issues/230
+
+合理哥-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=90081587&keyword=%E5%90%88%E7%90%86%E5%93%A5&from_source=webtop_search&spm_id_from=333.1007&search_source=3
+
+utoni/ptunnel-ng: Tunnel TCP connections through ICMP.
+https://github.com/utoni/ptunnel-ng
+
+Aitch on X: "Replay takeover is here! Try it out! Download rwing, available now on my patreon https://t.co/wVwYAqxZq8 https://t.co/J0DUV2YbRD" / X
+https://x.com/rwing_aitch/status/1844056466283692388
+
+Problem loading page
+https://www.patreon.com/posts/try-out-rwing-113440077
+
+DEV47APPS
+https://github.com/dev47apps
+
+陳小春 Jordan Chan - 我愛的人(Official MV) - YouTube
+https://www.youtube.com/watch?v=ZeghG09iaNY&list=RDULYksmjBwzY&index=10
+
+dmitri.mycpanel.princeton.edu/canons.html
+https://dmitri.mycpanel.princeton.edu/canons.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+y-crdt/y-octo: CRDT implementation which is compatible with https://github.com/yjs/yjs
+https://github.com/y-crdt/y-octo/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g4fe9d1e6e7_2_3
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+Eureka Labs
+https://eurekalabs.ai/
+
+karpathy/LLM101n: LLM101n: Let's build a Storyteller
+https://github.com/karpathy/LLM101n
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools/
+
+guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/guozhigq/pilipala
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/videos
+
+Releases · rustdesk/rustdesk-server
+https://github.com/rustdesk/rustdesk-server/releases/
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+cookie editor - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cookie+editor+
+
+Extractors · yt-dlp/yt-dlp Wiki
+https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies
+
 # 2025-01-04
 
 (313) Discord | #telecon-agendas | openui
