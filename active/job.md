@@ -5,25 +5,38 @@
   - consulting services & self hosting & start a company & open source tech stuff
 
 - 固定的居住环境
-  - guangdong
+  - guangdong dongguan
   - japan
+  - Europe
+  - short period of time Beijing ShangHai Hangzhou Chengdu Guangzhou ShenZhen
 
 - 核心的朋友圈
-  - high scholl friends & hengyang & human
+  - high school friends & hengyang & hunan
   - friends in tech ali/kuaishou/bytedance/tencent/shoppee
   - friends around projects linebender/servo/firefox/tc39 etc
-  - others
+  - friends in higher education and university
+  - friends with performance and content creation
+  - twitter & Bluesky & Github
 
 - 持续的技能积累
   - tech
-  - content
+  - content creation
   - music & performance
   - languages & bussiness
   - sports & health
   - art & design
+
 - 基本的生活作息
+
+23:00 - 07:50
+22:30 - 07:30
+
 - 良好的身心状态
 
+eat three times a day
+work after eat
+mental & good looking
+clean & people
 
 # 2034-7-3 - 2034-7-10
 
@@ -598,8 +611,17 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-6 - 2025-1-13 深度工作期 (travel week)
 
-[] 1-10 heading shanghai
+## Sleep
+[] Monday sleep 23:30 - 8:40 with x and play games Sunday Night to 23:10
+## Eat
+## Sports
+[] No
+## Outlook
+Wash body & clothes & wazi & shoes
+## Social Activity
+[] 1-9 heading shanghai 16:40 - 19:30
 [] 研一上结束的寒假, outreachy
+[] linebender stuff
 
 # 2024-12-30 - 2025-1-6 (feels better week full of energy)
 

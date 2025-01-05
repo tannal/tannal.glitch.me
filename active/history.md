@@ -1,4 +1,168 @@
 
+# 2025-01-06
+
+(320) Discord | #showcase | Typst
+https://discord.com/channels/1054443721975922748/1175784402333212733/threads/1322173443071803423
+
+cursor - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+Advanced Pythagoras – Typst
+https://typst.app/project/pY8h3TfaNxzkVfDsvH34it
+
+nodejs-core（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Element [12] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+* cxx (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/search
+
+STL algorithms for trivial relocation – Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/2023/03/03/relocate-algorithm-design/
+
+What I watched and read this year – Arthur O'Dwyer – Stuff mostly about C++
+https://quuxplusone.github.io/blog/2024/12/31/media-roundup/
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
+
+Lightning Talks - Session 3 [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=h71uFuzvBIs&t=163s
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+…/block_layout_algorithm.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5317993/16/third_party/blink/renderer/core/layout/block_layout_algorithm.cc#646
+
+trynova/nova: JS engine lolz
+https://github.com/trynova/nova
+
+Blink中的line-clamp和断行机制
+https://tannal.github.io/zh-cn/p/blink%E4%B8%AD%E7%9A%84line-clamp%E5%92%8C%E6%96%AD%E8%A1%8C%E6%9C%BA%E5%88%B6/
+
+-webkit-line-clamp - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp
+
+Playground | MDN
+https://developer.mozilla.org/en-US/play
+
+codelldb/MANUAL.md at v1.11.1 · vadimcn/codelldb
+https://github.com/vadimcn/codelldb/blob/v1.11.1/MANUAL.md
+
+pytorch/CONTRIBUTING.md at main · pytorch/pytorch
+https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md
+
+PyTorch Contributor's Guide: How and Why? - Emil Bogomolov - YouTube
+https://www.youtube.com/watch?v=RCfnWe9VVGM
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 4 - Parallel Programming Basics - YouTube
+https://www.youtube.com/watch?v=0-ztm8SKq70&t=642s
+
+使用FRP搭建P2P点对点穿透 - Demon_运维笔记
+https://blog.demon.ren/685.html
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+Note to self - Talk - Nextcloud
+http://192.168.43.95:8081/call/bar6x255
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 07_meshprocessing.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/meshprocessing/07_meshprocessing.pdf
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+Home - Twitch
+https://dashboard.twitch.tv/u/megotannal/home
+
+y-crdt/y-octo: CRDT implementation which is compatible with https://github.com/yjs/yjs
+https://github.com/y-crdt/y-octo/tree/main
+
+ChatGGG
+http://192.168.43.1:8080/
+
+lecture_13.pdf
+https://cs231n.stanford.edu/slides/2024/lecture_13.pdf
+
+Lecture 11 Learning from Text -- Alec Radford (public) - Google 幻灯片
+https://docs.google.com/presentation/d/1sdH-9KQipnu3RMN0-YUqU8R4ZMLapz8IJzfe7VLN39o/edit#slide=id.g73af628783_0_40
+
+Building makemore Part 2: MLP - YouTube
+https://www.youtube.com/watch?v=TCH_1BHY58I&t=2871s
+
+Eureka Labs
+https://eurekalabs.ai/
+
+karpathy/LLM101n: LLM101n: Let's build a Storyteller
+https://github.com/karpathy/LLM101n
+
+android-ndk - Google 群组
+https://groups.google.com/g/android-ndk
+
+Android
+https://github.com/android
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+gperftools/gperftools: Main gperftools repository
+https://github.com/gperftools/gperftools/
+
+guozhigq/pilipala: PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+https://github.com/guozhigq/pilipala
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/featured
+
+rustdesk/rustdesk-server: RustDesk Server Program
+https://github.com/rustdesk/rustdesk-server
+
+astral-sh/uv: An extremely fast Python package and project manager, written in Rust.
+https://github.com/astral-sh/uv
+
+cookie editor - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cookie+editor+
+
+Extractors · yt-dlp/yt-dlp Wiki
+https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies
+
 # 2025-01-05
 
 (316) Discord | #showcase | Typst
@@ -20471,9 +20635,6 @@ https://github.com/zulip/zulip/pull/32200/files
 OrbStack: The fast, light, and easy way to run Docker containers and Linux | Hacker News
 https://news.ycombinator.com/item?id=41421846
 
-positive thinking elon musk - Google 搜索
-https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=VFo&sca_esv=1d6392e9ccd6ab5b&channel=fs&q=positive+thinking+elon+musk&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNK2qT4XAroHE0d1g_A6pmUCCkEiT_qU1STQoAu4YwExvdzNXrU8jTrQRV6di6_rUcPs05Dz1DW8nbcDsjU_ReLohNqCs0yvOdt1MR75uvWf7T6NQI&sa=X&ved=2ahUKEwiA2bqM07yJAxV1IEQIHUVHCMUQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
-
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=react%20native%20&sort=byPopularity&type=story
 
@@ -20618,9 +20779,6 @@ https://terathon.com/optimizing_glyphs_lengyel.pdf
 Google 翻译
 https://translate.google.com/?sl=en&tl=zh-CN&text=meme&op=translate
 
-PDT to Beijing Converter - Convert Pacific Time to Beijing, China Time - World Time Buddy
-https://www.worldtimebuddy.com/pdt-to-china-beijing
-
 agendas/2024/12.md at main · tc39/agendas
 https://github.com/tc39/agendas/blob/main/2024/12.md
 
@@ -20656,9 +20814,6 @@ https://github.com/zulip/zulip/pull/32200/files
 
 OrbStack: The fast, light, and easy way to run Docker containers and Linux | Hacker News
 https://news.ycombinator.com/item?id=41421846
-
-positive thinking elon musk - Google 搜索
-https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=VFo&sca_esv=1d6392e9ccd6ab5b&channel=fs&q=positive+thinking+elon+musk&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNK2qT4XAroHE0d1g_A6pmUCCkEiT_qU1STQoAu4YwExvdzNXrU8jTrQRV6di6_rUcPs05Dz1DW8nbcDsjU_ReLohNqCs0yvOdt1MR75uvWf7T6NQI&sa=X&ved=2ahUKEwiA2bqM07yJAxV1IEQIHUVHCMUQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
 
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=react%20native%20&sort=byPopularity&type=story
@@ -20857,9 +21012,6 @@ https://github.com/zulip/zulip/pull/32200/files
 
 OrbStack: The fast, light, and easy way to run Docker containers and Linux | Hacker News
 https://news.ycombinator.com/item?id=41421846
-
-positive thinking elon musk - Google 搜索
-https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=VFo&sca_esv=1d6392e9ccd6ab5b&channel=fs&q=positive+thinking+elon+musk&tbm=vid&source=lnms&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWuukDLWwBeeO8_nlzK5bINNK2qT4XAroHE0d1g_A6pmUCCkEiT_qU1STQoAu4YwExvdzNXrU8jTrQRV6di6_rUcPs05Dz1DW8nbcDsjU_ReLohNqCs0yvOdt1MR75uvWf7T6NQI&sa=X&ved=2ahUKEwiA2bqM07yJAxV1IEQIHUVHCMUQ0pQJegQIExAB&biw=1850&bih=968&dpr=1
 
 All | Search powered by Algolia
 https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=react%20native%20&sort=byPopularity&type=story

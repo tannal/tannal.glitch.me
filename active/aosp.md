@@ -28,7 +28,7 @@ repo forall -c 'git diff --cached | $(git rev-parse --show-toplevel)/presubmit-h
 
 ./gradlew lint
 
-adb shell pm list packages | grep google
+adb shell  pm list packages | grep google
 
     在输出结果中，寻找类似以下的包名：
         com.google.android.gms (Google Play服务)
