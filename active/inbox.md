@@ -1,6 +1,9 @@
 
 # 2025-01-05 3
 
+3402576
+
+/cmd process handle SIGSTOP -n false -p false -s false
 
 
 # 2025-01-04 3
@@ -8,72 +11,10 @@
 sudo ptunnel -p 10.106.146.44 -lp 25565 -r 192.168.43.95 -R 25565
 
 sudo apt install ptunnel
-
-# 启动ptunnel服务端
 sudo ptunnel -v 4
-
-# 如果需要密码保护
 sudo ptunnel -x your_password
-# 创建隧道
-ip tunnel add tun0 mode gre remote 10.106.146.44 local 10.90.79.248
-ip addr add 10.0.0.2/24 dev tun0
-ip link set tun0 up
-
-# 添加路由（如果需要访问10.106网段）
-ip route add 10.106.0.0/16 via 10.0.0.1
-
-# 创建隧道
-sudo ip tunnel add tun0 mode gre remote 10.106.146.44 local 10.90.79.248
-sudo ip addr add 10.0.0.2/24 dev tun0
-sudo ip link set tun0 up
-
-# 添加路由（如果需要访问10.106网段）
-sudo ip route add 10.106.0.0/16 via 10.0.0.1
-
-
-# 删除现有隧道
-sudo ip tunnel del tun0
-
-# 重新创建GRE隧道
-sudo ip tunnel add tun0 mode gre \
-    remote 10.90.79.248 \
-    local 10.106.146.44 \
-    ttl 255
-
-# 配置IP和启用
-sudo ip addr add 10.0.0.1/24 dev tun0
-sudo ip link set tun0 up
-
-# 添加路由
-sudo ip route add 192.168.43.0/24 via 10.0.0.2
-
-# 检查MTU（可能需要调整）
-sudo ip link set tun0 mtu 1400
-
-#!/bin/bash
-# 创建隧道
-sudo ip tunnel add tun0 mode gre remote 10.90.79.248 local 10.106.146.44
-sudo ip addr add 10.0.0.1/24 dev tun0
-sudo ip link set tun0 up
-
-# 添加路由
-sudo ip route add 10.90.0.0/16 via 10.0.0.2
-sudo ip route add 192.168.43.0/24 via 10.0.0.2
-
-# 保存为脚本
-cat > setup-tunnel.sh << 'EOF'
-#!/bin/bash
-ip tunnel add tun0 mode gre remote 10.90.79.248 local 10.106.146.44
-ip addr add 10.0.0.1/24 dev tun0
-ip link set tun0 up
-ip route add 10.90.0.0/16 via 10.0.0.2
-ip route add 192.168.43.0/24 via 10.0.0.2
-EOF
-
-chmod +x setup-tunnel.sh
 
 curl https://littleskin.cn/session/minecraft/hasJoined?username=tannal
-
 
 82.156.147.151
 
