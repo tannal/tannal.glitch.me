@@ -20128,9 +20128,6 @@ https://github.com/typst/pdf-writer/blob/main/src/font.rs
 TeX Live
 https://github.com/TeX-Live
 
-Comparing main...9.x · zulip/zulip
-https://github.com/zulip/zulip/compare/main...9.x
-
 zellij-org/zellij: A terminal workspace with batteries included
 https://github.com/zellij-org/zellij/tree/main
 
@@ -20824,9 +20821,6 @@ https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here
 React Working Group
 https://github.com/reactwg
 
-reactwg/react-native-new-architecture: Workgroup for the New React Native Architecture
-https://github.com/reactwg/react-native-new-architecture/
-
 react native b3tgg - Google 搜索
 https://www.google.com.hk/search?q=react+native+b3tgg&newwindow=1&client=ubuntu-sn&hs=sx8&sca_esv=b83ae7c870d94983&channel=fs&ei=h5UlZ9-dN_Grur8PwPTxsAw&ved=0ahUKEwif_aPn07yJAxXxle4BHUB6HMYQ4dUDCA8&uact=5&oq=react+native+b3tgg&gs_lp=Egxnd3Mtd2l6LXNlcnAiEnJlYWN0IG5hdGl2ZSBiM3RnZzIIECEYoAEYwwRI1xtQvBFYuhpwAXgBkAEAmAHCAqABlwyqAQUyLTEuNLgBA8gBAPgBAZgCAqACzwLCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4zLTGgB4oH&sclient=gws-wiz-serp
 
@@ -20982,9 +20976,6 @@ https://github.com/tc39/agendas/blob/main/2024/12.md
 
 (25) Discord | #general | Zed Community
 https://discord.com/channels/869392257814519848/873293828805771284
-
-notpeter (notpeter) / Repositories
-https://github.com/notpeter?tab=repositories
 
 Enter Booking Details - Calendly
 https://calendly.com/nathansobo/30min/2024-11-06T08:30:00+08:00?back=1&month=2024-11&date=2024-11-06
