@@ -1,6 +1,8 @@
 
 # 2025-01-06 3
 
+https://app.element.io/#/room/!YjdVtWkyMLFjdRjkaX:matrix.org
+
 https://cs.stanford.edu/~pliang/
 
 Elements of Mathematics
