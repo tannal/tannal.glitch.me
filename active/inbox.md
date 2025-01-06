@@ -1,6 +1,8 @@
 
 # 2025-01-06 3
 
+https://cs.stanford.edu/~pliang/
+
 Elements of Mathematics
 
 Éléments de mathématique
