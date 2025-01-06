@@ -1,6 +1,29 @@
 
 # Ascii
 
+// 1. 元素树结构
+AnyElement
+  ├── EditorElement
+  ├── DivElement
+  └── Other Elements
+
+// 2. 渲染流程
+prepaint()  // 预渲染
+layout()    // 布局计算
+paint()     // 实际绘制
+
+// 3. 上下文管理
+WindowContext
+  ├── content_mask    // 裁剪区域
+  ├── text_style     // 文本样式
+  └── element_offset // 元素位置
+
+crates/
+  ├── gpui/        // GUI框架
+  ├── editor/      // 编辑器核心
+  ├── time_format/ // 时间处理
+  └── workspace/   // 工作区管理
+
 View<V>
   ↓
 Model<V> (强引用)
@@ -14,7 +37,7 @@ WeakModel<V>  Layout → Prepaint → Paint
 export ZED_BUILD_REMOTE_SERVER='/home/a13/.cargo/bin/remote_server'
 export ZED_BUILD_REMOTE_SERVER='~/.cargo/bin/remote_server'
 ssh -o SendEnv=ZED_BUILD_REMOTE_SERVER -i ~/Desktop/key.txt a13@10.106.146.39
-ssh -i ~/Desktop/key.txt a13@10.106.146.39 
+ssh -i ~/Desktop/key.txt a13@10.106.146.39
 Updating git repository `https://github.com/kvark/blade`
 Updating git repository `https://github.com/pop-os/cosmic-text`
 Updating git repository `https://github.com/zed-industries/font-kit`
@@ -513,12 +536,12 @@ zed/
 
 ```rust
 // 简化的编辑操作流程
-Input 
--> KeymapLookup 
--> Action 
--> Dispatch 
--> EditorUpdate 
--> TextBuffer 
+Input
+-> KeymapLookup
+-> Action
+-> Dispatch
+-> EditorUpdate
+-> TextBuffer
 -> Render
 ```
 
