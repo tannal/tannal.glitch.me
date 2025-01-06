@@ -1,6 +1,10 @@
 
 # 2025-01-06 3
 
+Elements of Mathematics
+
+Éléments de mathématique
+
 meza lisp smmaltalk
 
 大模型出来之后，搜索引擎就不用分语言了，因为大模型的embedding语言无关
