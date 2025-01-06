@@ -1,10 +1,15 @@
 
 # 2025-01-06 3
 
+Box (立方体/长方体)
+Sphere (球体)
+Cylinder (圆柱体)
+Capsule (胶囊体)
+Plane (平面)
+Cone (圆锥体)
+Torus (圆环体)
 
 # 2025-01-05 3
-
-
 
 git -c http.sslVerify=false clone https://github.com/pytorch/pytorch.git
 
