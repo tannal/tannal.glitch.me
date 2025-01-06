@@ -1,6 +1,12 @@
 
 # 2025-01-06 3
 
+meza lisp smmaltalk
+
+大模型出来之后，搜索引擎就不用分语言了，因为大模型的embedding语言无关
+
+louis monier是搜索引擎之父么？
+
 https://www.youtube.com/watch?v=yHB_5WmRbho
 
 https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
