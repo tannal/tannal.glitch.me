@@ -1,6 +1,27 @@
 
 # 2025-01-07 3
 
+计算机科学先驱:
+Ivan Sutherland (图形学先驱)
+Ken Thompson (Unix创始人)
+Donald Knuth (计算机科学家)
+Margaret Hamilton (NASA软件工程师)
+科技公司领袖:
+Steve Ballmer (微软前CEO)
+Michael Dell (Dell创始人)
+Larry Ellison (Oracle创始人)
+Elon Musk (Tesla创始人)
+创新者和企业家:
+Reid Hoffman (LinkedIn创始人)
+Marc Benioff (Salesforce创始人)
+Sheryl Sandberg (Facebook前COO)
+学术界人士:
+Leonard Kleinrock (互联网先驱)
+Butler Lampson (计算机科学家)
+Barry Boehm (软件工程先驱)
+
+API encapsulate knowledge
+
 I managed to mostly avoid doing any work
 
 Yi-Hsuan Yang
