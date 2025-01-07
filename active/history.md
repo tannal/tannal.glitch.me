@@ -4,6 +4,186 @@
 Advanced Pythagoras – Typst
 https://typst.app/project/pY8h3TfaNxzkVfDsvH34it
 
+* nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Working on Node.js Core - Twitch
+https://www.twitch.tv/videos/2339884279
+
+Element [15] | PDF.js
+https://chat.mozilla.org/#/room/#pdfjs:mozilla.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+Color serialization with channel keywords and calc · Issue #47921 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/47921
+
+* linux (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGK0X6X19
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
+
+Introduce CppHeapWrapper field for types that can hold external pointers (5320908) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5320908
+
+Lightning Talks - Session 3 [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=h71uFuzvBIs&t=163s
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+…/block_layout_algorithm.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5317993/16/third_party/blink/renderer/core/layout/block_layout_algorithm.cc#646
+
+Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling - YouTube
+https://www.youtube.com/watch?v=mmO2Ri_dJkk&list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&index=5
+
+Note to self - Talk - Nextcloud
+http://192.168.43.95:8081/call/bar6x255#message_152
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling - YouTube
+https://www.youtube.com/watch?v=mmO2Ri_dJkk
+
+Steve Jobs talk at the 1983 International Design Conference in Aspen - YouTube
+https://www.youtube.com/watch?v=yHB_5WmRbho
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+The Rust Programming Language
+https://old.reddit.com/r/rust/
+
+24-10-17 SANE - Google 幻灯片
+https://docs.google.com/presentation/d/1Zh7NO7TeDtd95i3eemWOa5Y3w1cvXOk18_LoQrUgLSA/edit#slide=id.g30b254f2c59_0_5757
+
+Generative theory of tonal music - Wikipedia
+https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music
+
+PaperCall.io
+https://www.papercall.io/speakers/129468
+
+Yang Feng's homepage
+https://fengyang-nju.github.io/#
+
+aristocratos/btop: A monitor of resources
+https://github.com/aristocratos/btop
+
+Big Tech - Wikipedia
+https://en.wikipedia.org/wiki/Big_Tech
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Issue search results
+https://github.com/search?q=repo%3Akosua20%2FMIDIVisualizer+output&type=issues
+
+BassMidi VSTi by Falcosoft - Synth (Wavetable) Plugin VST
+https://www.kvraudio.com/product/bassmidi-vsti-by-falcosoft
+
+rtx 5090 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=rtx+5090
+
+osx 9 - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=osx+9
+
+osx14 - Google 搜索
+https://www.google.com/search?q=osx14&client=ubuntu-sn&hs=nln&sca_esv=c182dbbc388e6267&channel=fs&sxsrf=ADLYWILUp9g0jn351ytYLRF8catZNjuhyg%3A1736234007827&ei=F9R8Z7eUMuvcwN4Px6SUyQw&ved=0ahUKEwj3-6Hah-OKAxVrLtAFHUcSJckQ4dUDCBA&uact=5&oq=osx14&gs_lp=Egxnd3Mtd2l6LXNlcnAiBW9zeDE0MgoQABiwAxjWBBhHSOcOUOgMWN8NcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACApgDAIgGAZAGAZIHATGgBwA&sclient=gws-wiz-serp
+
+Steve Naroff spoke about the motivation for clang at the (first, I think) LLVM m... | Hacker News
+https://news.ycombinator.com/item?id=23139129
+
+snaroff-llvmTalk (5/25/07) - 09-Naroff-CFE.pdf
+https://llvm.org/devmtg/2007-05/09-Naroff-CFE.pdf
+
+Installing Ubuntu on MacBook Pro
+https://gist.github.com/cjonesy/2e2d8ca5e50ee1811f70
+
+数据处理单元 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83
+
+Branch Education - YouTube
+https://www.youtube.com/@BranchEducation/videos
+
+Blender - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Blender
+
+Audio · Issue #61 · kosua20/MIDIVisualizer
+https://github.com/kosua20/MIDIVisualizer/issues/61
+
+Synthesia - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Synthesia
+
+pianobooster/PianoBooster: A MIDI file player/game that displays the musical notes and teaches you how to play the piano.
+https://github.com/pianobooster/PianoBooster
+
+linthesia/linthesia: Linthesia is a game. A game of playing music
+https://github.com/linthesia/linthesia
+
+Music ControlNet
+https://musiccontrolnet.github.io/web/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+* 05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+nodejs/help: :sparkles: Need help with Node.js? File an Issue here. :rocket:
+https://github.com/nodejs/help
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksRunsSelected=android-x64-rel,linux-rel,mac-rel,win-rel&tab=checks
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksPatchset=1&tab=checks
+
+Advanced Pythagoras – Typst
+https://typst.app/project/pY8h3TfaNxzkVfDsvH34it
+
 nodejs（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/CK9Q4MB53
 

@@ -1,6 +1,10 @@
 
 # 2025-01-07 3
 
+meson --prefix /opt/linthesia build
+n2 -C build
+ninja -C build install #probably with sudo
+
 计算机科学先驱:
 Ivan Sutherland (图形学先驱)
 Ken Thompson (Unix创始人)
