@@ -1,8 +1,9 @@
 
 # 2025-01-07 3
 
-Yi-Hsuan Yang
+I managed to mostly avoid doing any work
 
+Yi-Hsuan Yang
 
 音乐生成系统相关:
 Ravi Krishnaswami and Michael Clemens: "Building My Replacement: Experimental Methods in Evaluating Generative Music Systems"
