@@ -1,6 +1,170 @@
 
 # 2025-01-07
 
+Advanced Pythagoras – Typst
+https://typst.app/project/pY8h3TfaNxzkVfDsvH34it
+
+nodejs（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/CK9Q4MB53
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+bench.js
+https://gist.github.com/evanwashere/17778413aba8b1eec1adfe5c6ef04a69
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files#diff-8e43f19e56e6d8674c75e1a0af4be51a685b935d7d42e54aec5619265db838f2
+
+Element [15] | necko
+https://chat.mozilla.org/#/room/#necko:mozilla.org
+
+src: implement whatwg's URLPattern spec by anonrig · Pull Request #56452 · nodejs/node
+https://github.com/nodejs/node/pull/56452/files
+
+Color serialization with channel keywords and calc · Issue #47921 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/47921
+
+* cxx (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGF4Y2J4W
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0
+
+Introduce CppHeapWrapper field for types that can hold external pointers (5320908) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/v8/v8/+/5320908
+
+Lightning Talks - Session 3 [BlinkOn 19] - YouTube
+https://www.youtube.com/watch?v=h71uFuzvBIs&t=163s
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Dmitri Tymoczko | Visualizing Musical Structure - YouTube
+https://www.youtube.com/watch?v=MgVt2kQxTzU
+
+Topology of Networks in Generalized Musical Spaces [Marco Buongiorno Nardelli] - YouTube
+https://www.youtube.com/watch?v=4Gv0WD1Df4k&list=PLZlVBTf7N6GpB7yGsteqDwH84e5n-7zyh
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+…/block_layout_algorithm.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5317993/16/third_party/blink/renderer/core/layout/block_layout_algorithm.cc#646
+
+Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling - YouTube
+https://www.youtube.com/watch?v=mmO2Ri_dJkk&list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&index=5
+
+Note to self - Talk - Nextcloud
+http://192.168.43.95:8081/call/bar6x255#message_152
+
+ChatGGG
+http://192.168.43.1:8080/
+
+Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling - YouTube
+https://www.youtube.com/watch?v=mmO2Ri_dJkk
+
+Steve Jobs talk at the 1983 International Design Conference in Aspen - YouTube
+https://www.youtube.com/watch?v=yHB_5WmRbho
+
+Oral History of Bertrand Serlet - YouTube
+https://www.youtube.com/watch?v=qpIuIImN0YI
+
+--watch prints messages to stdout, but should print to stderr · Issue #56478 · nodejs/node
+https://github.com/nodejs/node/issues/56478
+
+Discord
+https://discord.com/app
+
+Discord Status
+https://discordstatus.com/
+
+The Rust Programming Language
+https://old.reddit.com/r/rust/
+
+bytedance/GiantMIDI-Piano
+https://github.com/bytedance/GiantMIDI-Piano
+
+music-x-lab/POP909-Dataset: This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
+https://github.com/music-x-lab/POP909-Dataset
+
+chrisdonahue (Chris Donahue)
+https://github.com/chrisdonahue
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+24-10-17 SANE - Google 幻灯片
+https://docs.google.com/presentation/d/1Zh7NO7TeDtd95i3eemWOa5Y3w1cvXOk18_LoQrUgLSA/edit#slide=id.g30b254f2c59_0_3204
+
+2311.07069v1.pdf
+https://arxiv.org/pdf/2311.07069
+
+Music ControlNet
+https://musiccontrolnet.github.io/web/
+
+Reckoning: Frontend's Lost Decade | Alex Russell | performance.now() 2024 - YouTube
+https://www.youtube.com/watch?v=0XwWVjQOmyg
+
+2311.07069v1.pdf
+https://arxiv.org/pdf/2311.07069
+
+Publications | Chris Donahue
+https://chrisdonahue.com/publication/
+
+MusicCaps
+https://www.kaggle.com/datasets/googleai/musiccaps
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Computer History Museum Bertrand Serlet-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=Computer+History+Museum+Bertrand+Serlet&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+Gilad bracha - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&hs=glP&sca_esv=5a7521aecf6aaae0&channel=fs&sxsrf=ADLYWIJm8TLCmMDUs1GXuEfIt-Mgp8NX0g:1736221185684&q=Gilad+bracha&spell=1&sa=X&ved=2ahUKEwj9tZj41-KKAxVcmO4BHV4CGLkQBSgAegQIGBAB&biw=1850&bih=968&dpr=1
+
+lars bak - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=lars+bak
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+nodejs/help: :sparkles: Need help with Node.js? File an Issue here. :rocket:
+https://github.com/nodejs/help
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksRunsSelected=android-x64-rel,linux-rel,mac-rel,win-rel&tab=checks
+
+results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6e5662a36464fe11/tests/ninja:%2F%2F:blink_web_tests%2Fvirtual%2Fstable%2Fwebexposed%2Fglobal-interface-listing.html/results/170b66c6-00909/artifacts/text_diff?token=AXsiX2kiOiIxNzM2MjAyNDc4Njg3IiwiX3giOiIzNjAwMDAwIn0DlxLvNo762qSMhusYO4Fh173ErF84Vzq0cOHXm4hkPA
+https://results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6e5662a36464fe11/tests/ninja:%2F%2F:blink_web_tests%2Fvirtual%2Fstable%2Fwebexposed%2Fglobal-interface-listing.html/results/170b66c6-00909/artifacts/text_diff?token=AXsiX2kiOiIxNzM2MjAyNDc4Njg3IiwiX3giOiIzNjAwMDAwIn0DlxLvNo762qSMhusYO4Fh173ErF84Vzq0cOHXm4hkPA
+
+results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6e5662a68fedda11/tests/ninja:%2F%2F:headless_shell_wpt%2Fexternal%2Fwpt%2Fcss%2Fcss-fonts%2Fidlharness.html/results/f97f498c-01467/artifacts/text_diff?token=AXsiX2kiOiIxNzM2MjAyNTk3OTUwIiwiX3giOiIzNjAwMDAwIn20FfcU7BCLOI9mei9cf3YiqwJ7PsLDIrOphEkWjC5ZQg
+https://results.usercontent.cr.dev/invocations/task-chromium-swarm.appspot.com-6e5662a68fedda11/tests/ninja:%2F%2F:headless_shell_wpt%2Fexternal%2Fwpt%2Fcss%2Fcss-fonts%2Fidlharness.html/results/f97f498c-01467/artifacts/text_diff?token=AXsiX2kiOiIxNzM2MjAyNTk3OTUwIiwiX3giOiIzNjAwMDAwIn20FfcU7BCLOI9mei9cf3YiqwJ7PsLDIrOphEkWjC5ZQg
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksPatchset=1&tab=checks
 
 # 2025-01-06
 
