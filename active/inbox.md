@@ -1,5 +1,27 @@
 
+# 2025-01-07 3
+
+
+
+
+音乐生成系统相关:
+Ravi Krishnaswami and Michael Clemens: "Building My Replacement: Experimental Methods in Evaluating Generative Music Systems"
+Qianyi Sun and Claire Arthur: "An Interdisciplinary Approach to Evaluating Generative Music Systems with Musicologically-Informed Quantitative Metrics"
+
+AI模型与数据集分析:
+Michèle Duguay and Johanna Devaney: "Representations of Gender and Voice in Music Language Models and Datasets: A Critical Examination of the Gender Binary in MusicLM and MusicCaps"
+Landon Morrison and Andrew McPherson: "Critical (Post-)Humanist Perspectives on 'Disentangled' Representations in AI Music"
+
+音乐创作与系统设计:
+Craig Vear, Fabrizio Poltronieri: "Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity"
+Steve Benford, Marco Amerotti, Bob L. T. Sturm and Craig Vear: "Performing with AI as a Practice-led Methodology for AI Music"
+
+音乐理论与AI:
+Alex Rehding: "J.S. Bach, Musicology/Music Theory, and AI: Convergences and Divergences Between Disciplines"
+
 # 2025-01-06 3
+
+http://www.piano-midi.de/
 
 https://app.element.io/#/room/!YjdVtWkyMLFjdRjkaX:matrix.org
 
