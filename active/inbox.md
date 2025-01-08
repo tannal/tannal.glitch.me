@@ -1,4 +1,32 @@
 
+# 2025-01-09 3
+
+
+console.log(Object.getOwnPropertyDescriptor(window, 'CSSFontFeatureValuesRule'));
+
+```bash
+# 回退到指定 commit，但保留修改和暂存状态
+git reset --soft HEAD~1  # 回退一个提交
+# 然后可以重新提交，使用之前的信息
+git commit -c ORIG_HEAD  # 重用上一个提交的信息
+```
+
+这是一个名为GTTM (Generative Theory of Tonal Music，调性音乐生成理论)的音乐分析系统。主要内容：
+基本概念：
+由音乐理论家Fred Lerdahl和语言学家Ray Jackendoff在1983年提出
+目的是解释人类如何理解和感知音乐
+受到乔姆斯基语言学理论的启发
+四个主要分析层面：
+分组结构(Grouping structure)：音乐如何被分成动机、乐句等
+节拍结构(Metrical structure)：强拍弱拍的层级关系
+时距归约(Time-span reduction)：音乐事件的时间层级关系
+延展归约(Prolongational reduction)：音乐的张力和松弛模式
+规则系统：
+良构规则(Well-formedness rules)
+偏好规则(Preference rules)
+转换规则(Transformational rules)
+这是一个试图用科学和系统化方法来分析音乐认知的理论，类似于语言学中分析语法的方法。它对音乐理论和认知音乐学有重要影响。
+
 # 2025-01-07 3
 
 meson --prefix /opt/linthesia build
