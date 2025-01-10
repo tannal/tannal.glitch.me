@@ -2,9 +2,7 @@
 # 2025-01-10 2
 
 
-
 # 2025-01-09 3
-
 
 console.log(Object.getOwnPropertyDescriptor(window, 'CSSFontFeatureValuesRule'));
 
