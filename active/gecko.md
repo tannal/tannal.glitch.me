@@ -1,4 +1,8 @@
 
+Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+
+Differential Revision: https://phabricator.services.mozilla.com/D227349
+
 1. Brendan Eich (1995): Created JavaScript and was instrumental in the early development of SpiderMonkey, the first JavaScript engine.
 2. Dave Mandelin (circa 2009-2011): Played a significant role in the development of SpiderMonkey, particularly during the introduction of features like JIT compilation.
 David Anderson (circa 2011-2013): Contributed to the development of the IonMonkey JIT compiler, which improved the performance of SpiderMonkey.
