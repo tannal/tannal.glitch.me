@@ -1,6 +1,8 @@
 
 # 2025-01-10 2
 
+export MOZ_LOG_FILE="/tmp/mozilla_$(date +%Y%m%d_%H%M%S).log"
+export MOZ_LOG_FD=2
 
 # 2025-01-09 3
 
