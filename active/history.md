@@ -1,4 +1,108 @@
 
+# 2025-01-11
+
+makepad Analysis - Poe
+https://poe.com/chat/3f5wdi2ttd3gs2ionqd
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+秩序、博雅、工业化 · @南小北
+https://lee.so/blog/order-elegance-industrialization
+
+Home / X
+https://x.com/home
+
+(4) Facebook
+https://www.facebook.com/ccckmit
+
+GitHub - Aider-AI/aider: aider is AI pair programming in your terminal
+https://github.com/Aider-AI/aider?fbclid=IwZXh0bgNhZW0CMTAAAR2C91n7kIKnI5xDbh0wpsTM1erzxujYR8zMlp0PskkuKMjdH25TT8NWW5s_aem_1oBHRSyUXTjRJVgVKekIig
+
+Custom Data Extension | Visual Studio Code Extension API
+https://code.visualstudio.com/api/extension-guides/custom-data-extension?fbclid=IwZXh0bgNhZW0CMTAAAR17MwzCCMs4qMp_8GIpqyqNYSfuTLcxPjY8Mj_PE-Lg0incG5juQqu4ohI_aem_V3EpHEdGa4orZy-aH8TtEA
+
+Intro - Operating System in 1,000 Lines
+https://operating-system-in-1000-lines.vercel.app/en?fbclid=IwZXh0bgNhZW0CMTAAAR2FHUhkrpzzBklJ4vM-2jQsd5ERAi88jUnLTmbpkSU2NIvX_zoTdVxadwE_aem_tKPn-IKBMUFsH2oQI27uBA
+
+kernel-debugging.pdf
+https://wiki.csie.ncku.edu.tw/kernel-debugging.pdf?fbclid=IwZXh0bgNhZW0CMTAAAR09EVqDX47SHPauSJLRM4azbAlkZuo1PO1tJrd_Va4eQiroWId8_AyLe8Y_aem_rlmrIqQpyk5rgsZO8oduTA
+
+Courses | Brilliant
+https://brilliant.org/courses/
+
+Upgraded - Wappalyzer
+https://www.wappalyzer.com/upgraded/?utm_source=upgraded&utm_medium=extension&utm_campaign=wappalyzer
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+两元店
+https://liangyuandian.xyz/#/plan
+
+2024 microsoft office 破解 - Google 搜索
+https://www.google.com/search?q=2024+microsoft+office+%E7%A0%B4%E8%A7%A3&rlz=1C1GCEA_enCN1091CN1091&oq=2024+microsoft+office+%E7%A0%B4%E8%A7%A3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQg4NDY2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+(23) 永久免费使用office 2024 最新版 | word excel ppt | 官网下载，附安装和激活教程 - YouTube
+https://www.youtube.com/watch?v=lBT9_3mRsUY
+
+(23) ZenTech: Relax & Learn 禅意科技 - YouTube
+https://www.youtube.com/@ZenTech-RelaxLearn/videos
+
+GitHub - TGSAN/CMWTAT_Digital_Edition: CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+https://github.com/TGSAN/CMWTAT_Digital_Edition
+
+Microsoft Activation Scripts (MAS) | MAS
+https://massgrave.dev/
+
+MASSGRAVE · GitHub
+https://github.com/massgravel
+
+Office &#x81EA;&#x5B9A;&#x4E49;&#x5DE5;&#x5177; - Microsoft 365 &#x5E94;&#x7528;&#x7248;&#x7BA1;&#x7406;&#x4E2D;&#x5FC3;
+https://config.office.com/deploymentsettings
+
+Windows11专业版KMS命令激活（不需要激活工具） - 下一朵云
+https://www.orcy.net.cn/1802.html
+
+wps - Google 搜索
+https://www.google.com/search?q=wps&rlz=1C1GCEA_enCN1091CN1091&oq=wps+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIJCAcQABgMGIAEMgkICBAAGAwYgAQyCQgJEAAYDBiABNIBCDE3NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+HMPV - Google 搜索
+https://www.google.com/search?q=HMPV&rlz=1C1GCEA_enCN1091CN1091&oq=HMPV&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzYwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(15) Michael Saboff — JavaScriptCore, many compilers make this engine perform - YouTube
+https://www.youtube.com/watch?v=mtVBAcy7AKA&t=1965s
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Android studio真机运行失败，提示“软件包似乎无效” “应用程序安装异常（-15）”-CSDN博客
+https://blog.csdn.net/weixin_46409629/article/details/124904358
+
+小米红米K30pro解BL+ROOT教程（小米红米手机通用型教程） - 吾爱破解 - 52pojie.cn
+https://www.52pojie.cn/thread-1259797-1-1.html
+
+小米（Mi） 红米（Redmi）K30 Pro小米（Mi） 红米（Redmi）K30 Pro 手机BL解锁、加锁详细教程，以及解锁过程中可能遇到的问题刷机解锁
+https://onfix.cn/course/318?bid=1&mid=90
+
+申请解锁小米手机
+http://www.miui.com/unlock/download.html
+
+Love Story - Taylor Swift (Taylor's Version) Sheet music for Piano, Mezzo soprano (Mixed Duet) | Musescore.com
+https://musescore.com/user/39375368/scores/9829603
+
+Google
+https://www.google.com/
+
+Resources
+https://tutflix.org/resources/
+
+中国经济观察：2024年四季度
+https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2024/11/china-economic-monitor-q4-2024.pdf
+
 # 2025-01-10
 
 
