@@ -611,13 +611,30 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-6 - 2025-1-13 深度工作期 (travel week)
 
+
+[] https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78
+
 ## Sleep
+
 [] Monday sleep 23:30 - 8:40 with x and play games Sunday Night to 23:10
+[] Thursday sleep 01:30 - 11:00
+[] Firday sleep 00:00 - 10:30
+
 ## Eat
+
+[] Eat two times a day
+[] Firday 20 hong shao niu rou & shaxianxiaochi
+[] Saturday 12:00 - 13:00 18:00 - 19:00
+[] Sunday 12:00 - 13:00 18:00
+
 ## Sports
+
 [] No
+
 ## Outlook
+
 Wash body & clothes & wazi & shoes
+
 ## Social Activity
 [] 1-9 heading shanghai 16:40 - 19:30
 [] 研一上结束的寒假, outreachy
