@@ -1,54 +1,8 @@
 
-- 稳定的工作收入
-  - tech job eg frontend
-  - content creation (tech or entertainment)
-  - consulting services & self hosting & start a company & open source tech stuff
-
-- 固定的居住环境
-  - guangdong dongguan
-  - japan
-  - Europe
-  - short period of time Beijing ShangHai Hangzhou Chengdu Guangzhou ShenZhen
-
-- 核心的朋友圈
-  - high school friends & hengyang & hunan
-  - friends in tech ali/kuaishou/bytedance/tencent/shoppee
-  - friends around projects linebender/servo/firefox/tc39 etc
-  - friends in higher education and university
-  - friends with performance and content creation
-  - twitter & Bluesky & Github
-
-- 持续的技能积累
-  - tech
-  - content creation
-  - music & performance
-  - languages & bussiness
-  - sports & health
-  - art & design
-
-- 基本的生活作息
-
-23:00 - 07:50
-22:30 - 07:30
-
-- 良好的身心状态
-
-eat three times a day
-work after eat
-mental & good looking
-clean & people
 
 # 2034-7-3 - 2034-7-10
 
 身份证过期
-
-30-40岁：和合伙人奋斗的阶段
-寻找志同道合的伙伴
-整合各方资源
-扩大事业规模
-分担风险与责任
-互补优势
-建立商业生态
 
 # 2034-6-26 - 2034-7-3
 # 2034-6-19 - 2034-6-26
