@@ -1,6 +1,138 @@
 
 # 2025-01-11
 
+* nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+Element [17] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+* cxx (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGF4Y2J4W
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Note to self - Talk - Nextcloud
+http://192.168.43.95:8081/call/bar6x255#message_152
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksRunsSelected=android-x64-rel
+
+failed - mac-rel b8726457158045041105 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/try/mac-rel/b8726457158045041105/test-results?q=ExactID%3Aninja%3A%2F%2F%3Aheadless_shell_wpt%2Fexternal%2Fwpt%2Fcss%2Fcss-fonts%2Fidlharness.html+VHash%3Ae5be6376d3365f76&clean=&sortby=&groupby=
+
+LUCI
+https://ci.chromium.org/ui/artifact/text-diff/invocations/task-chromium-swarm.appspot.com-6e5667027fb5bb11/tests/ninja:%2F%2F:headless_shell_wpt%2Fexternal%2Fwpt%2Fcss%2Fcss-fonts%2Fidlharness.html/results/6d9bb4c5-01351/artifacts/text_diff
+
+failed - win-rel b8726457158045041025 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/try/win-rel/b8726457158045041025/test-results?q=ExactID%3Aninja%3A%2F%2F%3Ablink_web_tests%2Fvirtual%2Fstable%2Fwebexposed%2Fglobal-interface-listing.html+VHash%3A95a352ef61bdad14&clean=&sortby=&groupby=
+
+failed - linux-rel b8726457158045041169 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/b8726457158045041169/test-results?q=ExactID%3Aninja%3A%2F%2F%3Ablink_web_tests%2Fvirtual%2Fstable%2Fwebexposed%2Fglobal-interface-listing.html+VHash%3A32f081785efe9631&clean=&sortby=&groupby=
+
+failed - android-x64-rel b8726457158045041377 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/b8726457158045041377/test-results?q=ExactID%3Aninja%3A%2F%2Fchrome%2Fandroid%3Achrome_public_wpt%2Fexternal%2Fwpt%2Fcss%2Fcss-fonts%2Fidlharness.html+VHash%3Ad7fb630fee9e9a05&clean=&sortby=&groupby=
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Dawn Graphics - Google 群组
+https://groups.google.com/g/dawn-graphics
+
+Blink IDL Extended Attributes
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/bindings/IDLExtendedAttributes.md#exposed
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+file:global-interface-listing-expected.txt - Search
+https://source.chromium.org/search?q=file:global-interface-listing-expected.txt&ss=chromium
+
+Branch Grid
+https://ci.android.com/builds/branches/aosp-main/grid?legacy=1
+
+Code search results
+https://github.com/search?q=CSSFontFeatureValuesRule&type=code
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksRunsSelected=android-x64-rel
+
+failed - android-x64-rel b8726275454453598737 | LUCI
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/b8726275454453598737/test-results?q=ExactID%3Aninja%3A%2F%2Fandroid_webview%2Ftest%3Awebview_instrumentation_test_apk%2Forg.chromium.android_webview.test.WebExposedTest%23testGlobalInterfaceListingStable+VHash%3A48f3c2774c7319a3&clean=&sortby=&groupby=
+
+Office Hours 2025-01-09 - Google 文档
+https://docs.google.com/document/d/1AdW43Im2vHZeANCKC_xEDWqZj0P4Dv9O-77r-fxXCvs/edit?tab=t.0
+
+Create CursorTest harness by PoignardAzur · Pull Request #227 · linebender/parley
+https://github.com/linebender/parley/pull/227
+
+feat: Android adapter by mwcampbell · Pull Request #500 · AccessKit/accesskit
+https://github.com/AccessKit/accesskit/pull/500/files
+
+Myriad Group - Wikipedia
+https://en.wikipedia.org/wiki/Myriad_Group
+
+Codetribute
+https://codetribute.mozilla.org/languages/c++
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+Home / X
+https://x.com/home
+
+100% - [1] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78&selectedTaskRun=VKAcZm1ISZuPTAHOLviN8Q.0
+
+Working on Node.js Core - Twitch
+https://www.twitch.tv/videos/2339884279
+
+RafaelGSS - Twitch
+https://www.twitch.tv/rafaelgss
+
+Coffee Compiler Club, 2025_1_10 - YouTube
+https://www.youtube.com/watch?v=hEVrLSjmaoA
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+* 05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+Add Status Page link to README / and/or website · Issue #7050 · nodejs/nodejs.org
+https://github.com/nodejs/nodejs.org/issues/7050
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksPatchset=1
+
+[47 failures] Push Health
+https://treeherder.mozilla.org/push-health/push?repo=try&revision=ba24a9bce3e453543ea0bf95c2f2c9bd372ab61e&tab=tests&testGroup=pr&selectedTest=securitymanagerssltestsunittestcertstoragejs&selectedTaskId=
+
+Code search results
+https://github.com/search?q=repo%3A11ty%2Feleventy%20nunjucks&type=code
+
 makepad Analysis - Poe
 https://poe.com/chat/3f5wdi2ttd3gs2ionqd
 

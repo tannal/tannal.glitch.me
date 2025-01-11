@@ -29,4 +29,4 @@ git clone https://github.com/LadybirdBrowser/ladybird/
 export CC=clang-18
 export CXX=clang++-18
 
-CC=$CC=clang-18 CXX=clang++-18 ./Meta/ladybird.sh run
+CC=clang-18 CXX=clang++-18 ./Meta/ladybird.sh run
