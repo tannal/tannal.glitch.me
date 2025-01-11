@@ -1,7 +1,6 @@
 
 # 2025-01-11 2
 
-
 yaml居然是的json超集
 
 https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78
