@@ -1,3 +1,45 @@
+
+集中度：
+- 14个城市
+- 占全国GDP近1/4
+- 平均每城贡献1.9%
+
+长三角：上海、苏州、杭州、南京、宁波
+珠三角：深圳、广州
+京津冀：北京、天津
+中西部：重庆、成都、武汉
+山东：青岛
+
+## 北京 BeiJing
+
+## 上海 ShangHai
+
+## 广州 GuangZhou
+
+## 深圳 ShenZhen
+
+## 杭州 HangZhou
+
+## 南京 NanJing
+
+## 宁波 NingBo
+
+## HengYang
+
+## DongGuan
+
+## 苏州
+
+## 天津
+
+## 重庆
+
+## 成都
+
+## 武汉
+
+## 青岛
+
 ## Bytedance Seed team
 
 

@@ -547,18 +547,15 @@ igalia申请 deadline
 # 2025-3-10 - 2025-3-17 春
 
 
-
 # 2025-3-3 - 2025-3-10 春
-
 
 
 # 2025-2-24 - 2025-3-3 春
 
 [] igalia Code Experience
 [] Google Summer Of Code
-
-
-研一下开始, AI实习开始投递
+[] Chui realm plugin systems & layouting
+[] 研一下开始, AI实习开始投递
 
 # 2025-2-17 - 2025-2-24 冬夏秋
 
@@ -566,10 +563,9 @@ igalia申请 deadline
 [] kai ti bao gao
 [] AI music
 
-
 # 2025-2-10 - 2025-2-17 冬
 
-[] Fly to ChangChun at Sunday
+[] Fly to ChangChun at Sunday or Saturday from GuangZhou BaiYun
 
 # 2025-2-3 - 2025-2-10 冬
 
