@@ -484,39 +484,45 @@ zhongqidabian
 # 2025-12-1 - 2025-12-8
 # 2025-11-24 - 2025-12-1
 # 2025-11-17 - 2025-11-24
+
 # 2025-11-10 - 2025-11-17
+
 # 2025-11-3 - 2025-11-10
+
 # 2025-10-27 - 2025-11-3
+
 # 2025-10-20 - 2025-10-27
-# 2025-10-13 - 2025-10-20
-# 2025-10-6 - 2025-10-13
-# 2025-9-29 - 2025-10-6
-# 2025-9-22 - 2025-9-29
-# 2025-9-15 - 2025-9-22
-# 2025-9-8 - 2025-9-15
-# 2025-9-1 - 2025-9-8
+
+
+# 2025-10-13 - 2025-10-20 秋
+# 2025-10-6 - 2025-10-13 秋
+# 2025-9-29 - 2025-10-6 秋
+# 2025-9-22 - 2025-9-29 秋
+# 2025-9-15 - 2025-9-22 秋
+# 2025-9-8 - 2025-9-15 秋
+# 2025-9-1 - 2025-9-8 秋
 
 研二上开始，开题报告
 
-# 2025-8-25 - 2025-9-1 休闲期
-# 2025-8-18 - 2025-8-25 休闲期
-# 2025-8-11 - 2025-8-18 休闲期
-# 2025-8-4 - 2025-8-11 休闲期
-# 2025-7-28 - 2025-8-4 休闲期
-# 2025-7-21 - 2025-7-28 休闲期
-# 2025-7-14 - 2025-7-21 休闲期
-# 2025-7-7 - 2025-7-14 休闲期
+# 2025-8-25 - 2025-9-1 夏
+# 2025-8-18 - 2025-8-25 夏
+# 2025-8-11 - 2025-8-18 夏
+# 2025-8-4 - 2025-8-11 夏
+# 2025-7-28 - 2025-8-4 夏
+# 2025-7-21 - 2025-7-28 夏
+# 2025-7-14 - 2025-7-21 夏
+# 2025-7-7 - 2025-7-14 夏
 
 研一下结束的暑假
 
-# 2025-6-30 - 2025-7-7 休闲期
-# 2025-6-23 - 2025-6-30 休闲期
-# 2025-6-16 - 2025-6-23 休闲期
-# 2025-6-9 - 2025-6-16 休闲期
-# 2025-6-2 - 2025-6-9 休闲期
-# 2025-5-26 - 2025-6-2
-# 2025-5-19 - 2025-5-26
-# 2025-5-12 - 2025-5-19
+# 2025-6-30 - 2025-7-7 夏
+# 2025-6-23 - 2025-6-30 夏
+# 2025-6-16 - 2025-6-23 夏
+# 2025-6-9 - 2025-6-16 春
+# 2025-6-2 - 2025-6-9 春
+# 2025-5-26 - 2025-6-2 春
+# 2025-5-19 - 2025-5-26 春
+# 2025-5-12 - 2025-5-19 春
 
 igalia申请出通知，google开源之夏deadline
 
@@ -544,20 +550,28 @@ igalia申请 deadline
 
 # 2025-3-3 - 2025-3-10 春
 
-apply ICE
+
 
 # 2025-2-24 - 2025-3-3 春
 
-igalia的申请开始
+[] igalia Code Experience
+[] Google Summer Of Code
+
 
 研一下开始, AI实习开始投递
 
-
 # 2025-2-17 - 2025-2-24 冬夏秋
+
+[] choose class for next semester
+[] kai ti bao gao
+[] AI music
+
+
 # 2025-2-10 - 2025-2-17 冬
 
-# 2025-2-3 - 2025-2-10 冬
+[] Fly to ChangChun at Sunday
 
+# 2025-2-3 - 2025-2-10 冬
 
 Gsoc ideas
 
@@ -577,6 +591,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-6 - 2025-1-13 冬 (travel week)
 
+[x] Chromium expose CSS to window object LGTM
+[] Firefox fix cookie storagemaxperhost offset by one I think I need tests
+[] Linebender
 [] https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78
 
 ## Sleep
@@ -584,6 +601,8 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 [] Monday sleep 23:30 - 8:40 with x and play games Sunday Night to 23:10
 [] Thursday sleep 01:30 - 11:00
 [] Firday sleep 00:00 - 10:30
+[] Saturday sleep 00:00 - 09:30 with x and play games Saturday Night to 22:00
+[] Sunday sleep 00:00 - 10:00
 
 ## Eat
 
@@ -598,12 +617,14 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 ## Outlook
 
+Saturday 22:00 wash body 30 mins
+
 Wash body & clothes & wazi & shoes
 
 ## Social Activity
-[] 1-9 heading shanghai 16:40 - 19:30
-[] 研一上结束的寒假, outreachy
-[] linebender stuff
+
+[x] 1-9 heading shanghai 16:40 - 19:30
+[x] linebender Thursday 00:00 - 01:00
 
 # 2024-12-30 - 2025-1-6 (feels better week full of energy)
 
