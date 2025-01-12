@@ -1,4 +1,56 @@
 
+主要科技巨头:
+Google, Microsoft, Apple, Amazon, Meta(原Facebook) - 全球最大的科技公司
+Intel, AMD, Nvidia - 主要的芯片和GPU制造商
+Samsung - 韩国最大的科技公司，主要生产电子产品和半导体
+中国科技公司:
+ByteDance - 抖音/TikTok的母公司
+Alibaba - 中国电商巨头
+Huawei - 中国通信设备和智能手机制造商
+Xiaomi - 中国智能手机和智能硬件制造商
+Tencent - 中国互联网和游戏巨头
+浏览器相关:
+Mozilla - Firefox浏览器开发商
+Opera - 挪威浏览器公司
+Brave - 注重隐私的浏览器开发商
+Vivaldi - 由前Opera员工创建的浏览器公司
+
+半导体和硬件:
+ARM - 处理器架构设计公司
+Qualcomm - 移动处理器制造商
+MediaTek - 台湾芯片制造商
+MIPS - 处理器架构公司
+SiFive - RISC-V处理器设计公司
+开源组织:
+Linux Foundation - Linux基金会
+LLVM - 编译器基础设施项目
+GNU - 自由软件运动
+KDE, GNOME - 开源桌面环境项目
+Debian, Gentoo - Linux发行版
+教育机构:
+Harvard - 哈佛大学
+Cornell University - 康奈尔大学
+NYU - 纽约大学
+CERN - 欧洲核子研究组织
+Chinese Academy of Sciences - 中国科学院
+
+企业软件和服务:
+Salesforce - 客户关系管理软件
+SAP - 企业资源规划软件
+Slack - 企业通讯平台
+Jetbrains - 开发工具制造商
+Adobe - 创意软件开发商
+游戏和娱乐:
+Valve - 游戏开发商和Steam平台运营商
+Ubisoft - 法国游戏开发商
+Netflix - 流媒体服务提供商
+Sony - 日本电子和娱乐公司
+云服务和网络:
+Cloudflare - CDN和网络安全服务
+Akamai - 内容分发网络
+IBM - 企业IT服务和云计算
+Oracle - 企业软件和数据库管理系统
+
 
 淘天、云智能、阿里国际、菜鸟、本地生活、大文娱和其他等七个板块
 阿里国际、云智能和菜鸟

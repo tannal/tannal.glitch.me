@@ -1,6 +1,163 @@
 
 # 2025-01-12
 
+Taylor Swift - Style (Taylor’s Version) | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=cH-9f-CtLno
+
+RNN题目 - Poe
+https://poe.com/chat/2zyvkfoi8jftamosrr7
+
+olivia rodrigo辱华 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=5eec4df861aac159&rlz=1C1GCEA_enJP1090JP1090&q=olivia+rodrigo%E8%BE%B1%E5%8D%8E&sa=X&ved=2ahUKEwiu4fC58OqKAxWSSvEDHWAnNBMQ1QJ6BAhgEAE&biw=1536&bih=703&dpr=1.25
+
+Olivia Rodrigo - Google 搜索
+https://www.google.com/search?q=Olivia+Rodrigo&rlz=1C1GCEA_enJP1090JP1090&oq=Olivia+Rodrigo&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPTIGCAMQRRg90gEHMTE4ajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8
+
+Olivia Rodrigo & Avril Lavigne - Complicated (Toronto 1 2022) - YouTube
+https://www.youtube.com/watch?v=PFSzd2aO-fU
+
+Olivia Rodrigo - Google 搜索
+https://www.google.com/search?q=Olivia+Rodrigo&rlz=1C1GCEA_enJP1090JP1090&oq=Olivia+Rodrigo&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg9MgYIBBBFGD0yBggFEEUYPdIBBzExMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+kosua20/MIDIVisualizer: A small MIDI visualizer tool, using OpenGL
+https://github.com/kosua20/MIDIVisualizer
+
+(396) #checkins > Olivier Faure - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197474-checkins/topic/Olivier.20Faure
+
+PT Sans - Google Fonts
+https://fonts.google.com/specimen/PT+Sans
+
+Linebender in November 2024: color! - Linebender
+https://linebender.org/blog/tmil-11/
+
+yangxx0405/yangxx0405.github.io
+https://github.com/yangxx0405/yangxx0405.github.io/tree/main
+
+tannal/MIDIVisualizer: A small MIDI visualizer tool, using OpenGL
+https://github.com/tannal/MIDIVisualizer
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Browser extensions - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
+
+draft-ietf-httpbis-cookie-alone - Google 搜索
+https://www.google.com.hk/search?q=draft-ietf-httpbis-cookie-alone&rlz=1C1GCEA_enJP1090JP1090&oq=draft-ietf-httpbis-cookie-alone&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+draft-ietf-httpbis-cookie-alone-01
+https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-cookie-alone-01#section-3
+
+cookies - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/cookies
+
+Following — Bluesky
+https://bsky.app/
+
+Executable loading and startup performance on macOS | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2025/01/11/executable-loading-and-startup-performance-on-macos/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Firefox Source Tree Documentation — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D4&rid=4&id=lhins-55wyqhpe&tab=firewall
+
+Noise2Music: Text-conditioned Music Generation with Diffusion Model · Issue #102 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/102
+
+tannal (tannal)
+https://github.com/tannal
+
+Issue search results
+https://github.com/search?q=involves%3Abpastene&type=issues
+
+Glyph names of Type3 fonts are ignored [356891463] - Chromium
+https://issues.chromium.org/issues/356891463
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Biome github - Google 搜索
+https://www.google.com.hk/search?q=Biome+github&newwindow=1&sca_esv=1ecfe17b57fb50e1&rlz=1C1GCEA_enJP1090JP1090&ei=o5SCZ6eVB4WJi-gPwO7tgAQ&ved=0ahUKEwjn8peEhO6KAxWFxAIHHUB3G0AQ4dUDCBA&uact=5&oq=Biome+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEJpb21lIGdpdGh1YjIFEAAYgAQyBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI_QdQkgFYkQdwAXgBkAEAmAGyAqABxgqqAQUyLTQuMbgBA8gBAPgBAZgCBqAC3grCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBmAMAiAYBkAYJkgcHMS4wLjQuMaAHoA8&sclient=gws-wiz-serp
+
+Biome
+https://github.com/biomejs
+
+题库 - 力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/problemset/?sorting=W3sic29ydE9yZGVyIjoiQVNDRU5ESU5HIiwib3JkZXJCeSI6IkFDX1JBVEUifV0%3D
+
+nowcoder - Google 搜索
+https://www.google.com.hk/search?q=nowcoder&rlz=1C1GCEA_enJP1090JP1090&oq=nowcoder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIEMggICBAAGAUYHjIKCAkQABgFGAoYHtIBCDI4NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+前端面试-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+#前端面经_牛客网
+https://www.nowcoder.com/feed/main/detail/de3c6bbb318a4c809dbb5b679e60553d?sourceSSR=search
+
+字节前端面试_牛客网
+https://www.nowcoder.com/discuss/669102274588749824?sourceSSR=search
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+is coding interview still - Google 搜索
+https://www.google.com.hk/search?q=is+coding+interview+still&rlz=1C1GCEA_enJP1090JP1090&oq=is+coding+interview+still&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgcIBBAAGO8FMgcIBRAAGO8FMgoIBhAAGIAEGKIE0gEINTcyOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Are coding interviews still a thing? : r/dataengineering
+https://www.reddit.com/r/dataengineering/comments/1gsekjl/are_coding_interviews_still_a_thing/
+
+中国第四季度gdp - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6gdp&newwindow=1&sca_esv=272dbc5c12b3a66f&rlz=1C1GCEA_enJP1090JP1090&ei=nTyDZ7e5M9yC9u8PjeHF2Qg&ved=0ahUKEwj3-72dpO-KAxVcgf0HHY1wMYsQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6gdp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeS4reWbveesrOWbm-Wto-W6pmdkcDIFEAAYgAQyCBAAGIAEGKIESPgJUM4DWOQIcAF4AJABAJgBrQKgAcEGqgEFMi0yLjG4AQPIAQD4AQGYAgOgAp4EwgIIEAAYgAQYsAPCAgsQABiABBiwAxiiBJgDAIgGAZAGBJIHBTEuMC4yoAeOBA&sclient=gws-wiz-serp
+
+bbc 韩国 外滩 - Google 搜索
+https://www.google.com.hk/search?q=bbc+%E9%9F%A9%E5%9B%BD+%E5%A4%96%E6%BB%A9&newwindow=1&sca_esv=272dbc5c12b3a66f&rlz=1C1GCEA_enJP1090JP1090&ei=GD6DZ56fNt-Bi-gP97_RiAQ&ved=0ahUKEwiei53Spe-KAxXfwAIHHfdfFEEQ4dUDCBA&uact=5&oq=bbc+%E9%9F%A9%E5%9B%BD+%E5%A4%96%E6%BB%A9&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWJiYyDpn6nlm70g5aSW5rupMggQIRigARjDBEjwBFBzWHNwAXgAkAEAmAH5AaAB-QGqAQMyLTG4AQPIAQD4AQGYAgGgAv0BmAMAiAYBkgcDMi0xoAeuAQ&sclient=gws-wiz-serp
+
+对韩免签政策效果显现 韩国游客赴华游成潮流_凤凰网财经_凤凰网
+https://finance.ifeng.com/c/8fvg4W9paTx
+
+单方面免签 知乎 - Google 搜索
+https://www.google.com.hk/search?q=%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE+%E7%9F%A5%E4%B9%8E&newwindow=1&sca_esv=272dbc5c12b3a66f&rlz=1C1GCEA_enJP1090JP1090&ei=rD6DZ7vVJvWO9u8Pu-DeiAo&ved=0ahUKEwi729aYpu-KAxV1h_0HHTuwF6EQ4dUDCBA&uact=5&oq=%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuWNleaWuemdouWFjeetviDnn6XkuY4yCBAAGIAEGKIEMggQABiABBiiBEiVWVAAWJBYcAp4AZABAZgB4wOgAfJIqgEIMi0zOC4wLjG4AQPIAQD4AQGYAiygAv1AqAIKwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGNEDGMcBwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgsQLhiABBjHARivAcICBBAAGB7CAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAsICIBAAGIAEGLQCGNQDGOUCGNUDGLcDGIoFGOoCGIoD2AECwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQHCAhQQLhiABBiXBRjcBBjeBBjfBNgBAcICBxAAGIAEGA3CAgoQABiABBhDGIoFwgIHEAAYgAQYDJgDAvEFQ1EihFJZ8Si6BgYIARABGBS6BgQIAhgHkgcLMTAuMC4zMy4wLjGgB9u1Ag&sclient=gws-wiz-serp
+
+中方决定对法国、德国、意大利等 6 国试行单方面免签政策，有哪些信息值得关注？ - 知乎
+https://www.zhihu.com/question/631685952
+
+zulip github - Google 搜索
+https://www.google.com.hk/search?q=zulip+github&rlz=1C1GCEA_enJP1090JP1090&oq=zulip+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYCBgeMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjY1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+zulip/zulip-flutter: Upcoming Zulip mobile apps for Android and iOS, using Flutter
+https://github.com/zulip/zulip-flutter
+
+中国12月cpi 知乎 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD12%E6%9C%88cpi+%E7%9F%A5%E4%B9%8E&newwindow=1&sca_esv=bd997e1f421b6b7e&rlz=1C1GCEA_enJP1090JP1090&ei=a1eDZ-i_GOW3i-gPjZewyQQ&ved=0ahUKEwiooarlve-KAxXl2wIHHY0LLEkQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD12%E6%9C%88cpi+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeS4reWbvTEy5pyIY3BpIOefpeS5jjIFECEYoAFIqAtQ0QJY-glwAXgAkAEAmAH_AaAB7AqqAQMyLTa4AQPIAQD4AQGYAgagApwJwgILEAAYgAQYsAMYogTCAggQABiABBiiBJgDAIgGAZAGBZIHBTEuMC41oAfYCg&sclient=gws-wiz-serp
+
+2024年 12 月 CPI 同比上涨 0.1%，2024年全年同比上涨 0.2%，说明了什么？ - 知乎
+https://www.zhihu.com/question/9122462193
+
+对日本单方面免签 知乎 - Google 搜索
+https://www.google.com.hk/search?q=%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE+%E7%9F%A5%E4%B9%8E&newwindow=1&sca_esv=88df517020fa2be8&rlz=1C1GCEA_enJP1090JP1090&ei=DWGDZ-WrOKiPxc8PrLPDAQ&ved=0ahUKEwil5rr9xu-KAxWoR_EDHazZMAAQ4dUDCBA&uact=5&oq=%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE+%E7%9F%A5%E4%B9%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiH-WvueaXpeacrOWNleaWuemdouWFjeetviDnn6XkuY4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRI5AdQAFjvBnAAeACQAQCYAZECoAGHDaoBAzItN7gBA8gBAPgBAZgCBqACrwuYAwCSBwMyLTagB_4O&sclient=gws-wiz-serp
+
+YouTube
+https://www.youtube.com/
+
+nameslio - Google 搜索
+https://www.google.com.hk/search?q=nameslio&rlz=1C1GCEA_enJP1090JP1090&oq=nameslio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIPCAEQLhgKGMcBGNEDGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgATSAQgyODgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Website Domain Name | Search and Buy Domain | NameSilo
+https://www.namesilo.com/domain/search-domains/
+
+nowcoder - Google 搜索
+https://www.google.com.hk/search?q=nowcoder&rlz=1C1GCEA_enJP1090JP1090&oq=now&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgkIARBFGDkYgAQyBwgCEC4YgAQyBwgDEAAYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDIyODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+
 
 # 2025-01-11
 
