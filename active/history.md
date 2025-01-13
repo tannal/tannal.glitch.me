@@ -1,6 +1,140 @@
 
 # 2025-01-13
 
+YouTube
+https://www.youtube.com/watch?v=cH-9f-CtLno
+
+Executable loading and startup performance on macOS | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2025/01/11/executable-loading-and-startup-performance-on-macos/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+炎 (LiSA单曲) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%82%8E_(LiSA%E5%96%AE%E6%9B%B2)
+
+你现在晚上通常几点睡觉？早上几点起床？睡几个小时？ - 知乎
+https://www.zhihu.com/question/2391210887/answer/25675122394
+
+小调歌曲 - Google 搜索
+https://www.google.com.hk/search?q=%E5%B0%8F%E8%B0%83%E6%AD%8C%E6%9B%B2&rlz=1C1GCEA_enJP1090JP1090&oq=%E5%B0%8F%E8%B0%83%E6%AD%8C%E6%9B%B2+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyBwgFEAAY7wUyCAgGEAAYBRgeMgcIBxAAGO8F0gEIMzg2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.google.com.hk
+https://www.google.com.hk/search?newwindow=1&sca_esv=458dc05ad97e3dfc&rlz=1C1GCEA_enJP1090JP1090&q=%E7%83%9F%E8%8A%B1%E6%98%93%E5%86%B7+piano&udm=7&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzCjPEAP5HX2BE31zy5nlFpWgRy-PqQtovf-_9Bj7xS0EsJTk9Jy8PEUTlqnLkEGYSlArb-I65__SV2UBYfQRxhDwxctUQ2_gLatBhxC9Zcr79YuHlyCZGpfHB1y3cjV-hMGMMb0aqVWKd7628phtOeSX_vZoY&sa=X&ved=2ahUKEwj1t6zJ-_GKAxVI1gIHHeAbEtoQtKgLegQIFxAB&biw=1536&bih=703&dpr=1.25#ip=1
+
+YouTube
+https://www.youtube.com/
+
+Coldplay - Yellow | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=MzrFziiyhYk
+
+Google
+https://www.google.com.hk/webhp?hl=zh-CN&sa=X&ved=0ahUKEwiQocaz3vKKAxUbRPEDHaOGNiwQPAgI
+
+窄琴键电钢琴 - Google 搜索
+https://www.google.com.hk/search?q=%E7%AA%84%E7%90%B4%E9%94%AE%E7%94%B5%E9%92%A2%E7%90%B4&newwindow=1&sca_esv=e36a4ff5f6253b72&rlz=1C1GCEA_enJP1090JP1090&ei=EL6EZ9aqO8qA9u8PpOn1GA&ved=0ahUKEwjW8rnpk_KKAxVKgP0HHaR0HQMQ4dUDCBA&uact=5&oq=%E7%AA%84%E7%90%B4%E9%94%AE%E7%94%B5%E9%92%A2%E7%90%B4&gs_lp=Egxnd3Mtd2l6LXNlcnAiEueqhOeQtOmUrueUtemSoueQtDIIEAAYgAQYogRIrlhQzQdYrFdwB3gAkAEAmAG9AqABgSuqAQYyLTE5LjK4AQPIAQD4AQGYAg6gAs4OwgILEAAYgAQYsAMYogTCAgcQABiABBgMwgIGEAAYBxgewgIIEAAYogQYiQWYAwCIBgGQBgSSBwc3LjAuNi4xoAeGLA&sclient=gws-wiz-serp
+
+Josef Hofmann - Google 搜索
+https://www.google.com.hk/search?q=Josef+Hofmann&rlz=1C1GCEA_enJP1090JP1090&oq=Josef+Hofmann&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+when You're Gone key - Google 搜索
+https://www.google.com.hk/search?q=when+You%27re+Gone+key&rlz=1C1GCEA_enJP1090JP1090&oq=when+You%27re+Gone+key&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABgIGAoYDRgeMgwIAhAAGAgYChgNGB4yCggDEAAYCBgNGB4yBwgEEAAY7wUyBwgFEAAY7wUyBwgGEAAY7wUyCggHEAAYgAQYogQyBwgIEAAY7wXSAQg4ODcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+what key is payphone - Google 搜索
+https://www.google.com.hk/search?q=what+key+is+payphone&newwindow=1&sca_esv=458dc05ad97e3dfc&rlz=1C1GCEA_enJP1090JP1090&ei=XK-EZ6rGLpX_7_UPu4SToQU&ved=0ahUKEwiq5MTmhfKKAxWV_7sIHTvCJFQQ4dUDCBA&uact=5&oq=what+key+is+payphone&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdoYXQga2V5IGlzIHBheXBob25lMgkQABiABBgTGA0yCBAAGBMYChgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESMksULIHWOUrcAJ4AZABAZgB8wegAcokqgEJMi04LjYtMi4xuAEDyAEA-AEBmAIMoALuIqgCAsICChAAGLADGNYEGEfCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAhoQLhiABBjRAxjHARiXBRjcBBjeBBjgBNgBAsICBRAuGIAEwgIEEAAYHsICBxAAGIAEGBPCAgYQABgKGB6YAwLxBSNyBiAqM1pjiAYBkAYJugYECAEYB7oGBggCEAEYFJIHCzIuMC43LjUtMS4yoAfaNA&sclient=gws-wiz-serp
+
+次中音萨克斯 - Google 搜索
+https://www.google.com.hk/search?q=%E6%AC%A1%E4%B8%AD%E9%9F%B3%E8%90%A8%E5%85%8B%E6%96%AF&rlz=1C1GCEA_enJP1090JP1090&oq=%E6%AC%A1%E4%B8%AD%E9%9F%B3%E8%90%A8%E5%85%8B%E6%96%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+【Piano Cover】田馥甄 Hebe Tien - 小幸運 A Little Happiness｜我的少女時代 電影主題曲｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=uxxxhQAjPLU
+
+My Heart Will Go On key - Google 搜索
+https://www.google.com.hk/search?q=My+Heart+Will+Go+On+key&rlz=1C1GCEA_enJP1090JP1090&oq=My+Heart+Will+Go+On+key&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBBzk0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+My Heart Will Go On - Wikipedia
+https://en.wikipedia.org/wiki/My_Heart_Will_Go_On
+
+美国非农 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E5%9B%BD%E9%9D%9E%E5%86%9C&newwindow=1&sca_esv=b4cd2f1c6bbf0cee&rlz=1C1GCEA_enJP1090JP1090&ei=g7uEZ7GbJ7mD9u8P_Z-LuAM&ved=0ahUKEwjx6PWxkfKKAxW5gf0HHf3PAjcQ4dUDCBA&uact=5&oq=%E7%BE%8E%E5%9B%BD%E9%9D%9E%E5%86%9C&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOe-juWbvemdnuWGnDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEiBLFDDEViJK3ACeAGQAQCYAfsGoAHKHKoBCzItNi4xLjEuMS4xuAEDyAEA-AEBmAIKoAL6GKgCCsICChAAGLADGNYEGEfCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICChAAGIAEGEMYigXCAgUQLhiABMICBRAAGIAEmAMC8QVVHIngZtY4XIgGAZAGCroGBAgBGAeSBw0yLjAuNC4xLjIuMC4xoAfbMw&sclient=gws-wiz-serp
+
+大超预期！美国12月非农新增就业25.6万人，失业率降至4.1% - 华尔街见闻
+https://wallstreetcn.com/articles/3738895
+
+本周重磅日程：中国全年GDP、美国12月通胀、地方两会密集召开、美股财报季拉开帷幕 - 华尔街见闻
+https://wallstreetcn.com/articles/3738937
+
+新加坡总人口 - Google 搜索
+https://www.google.com.hk/search?q=%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E4%BA%BA%E5%8F%A3&newwindow=1&sca_esv=b4cd2f1c6bbf0cee&rlz=1C1GCEA_enJP1090JP1090&ei=ZbyEZ4O1Cp-B9u8PkuipiA0&ved=0ahUKEwjD-7qdkvKKAxWfgP0HHRJ0CtEQ4dUDCBA&uact=5&oq=%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E4%BA%BA%E5%8F%A3&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuaWsOWKoOWdoeaAu-S6uuWPozIPEAAYgAQYQxiKBRhGGPsBMgUQABiABDIFEAAYgAQyBRAAGIAEMgsQLhiABBjHARivATIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIQEC4YgAQYQxjHARiKBRivATIKEAAYgAQYQxiKBTIbEAAYgAQYQxiKBRhGGPsBGJcFGIwFGN0E2AEBSOkPUABY7A5wAHgBkAEAmAGVA6AB_RaqAQcyLTkuMC4xuAEDyAEA-AEBmAIGoAKvDsICCxAuGIAEGNEDGMcBwgIFEC4YgATCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICChAuGIAEGEMYigXCAgwQABiABBgMGEYY-wHCAgcQABiABBgMwgINEC4YgAQYxwEYDBivAcICGBAAGIAEGAwYRhj7ARiXBRiMBRjdBNgBAZgDALoGBggBEAEYFJIHBzItNS4wLjGgB7hs&sclient=gws-wiz-serp
+
+登录 - 腾讯云
+https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Flighthouse%2Finstance%2Fdetail%3FsearchParams%3Drid%253D4%26rid%3D4%26id%3Dlhins-55wyqhpe
+
+How to build a plugin system on the web and also sleep well at night | Figma Blog
+https://www.figma.com/blog/how-we-built-the-figma-plugin-system/#attempt-2-compile-a-javascript-interpreter-to
+
+javascript realm mdn - Google 搜索
+https://www.google.com.hk/search?q=javascript+realm+mdn&newwindow=1&sca_esv=579fa9cb7f57f8d8&rlz=1C1GCEA_enJP1090JP1090&ei=YtGEZ7Yl7ofs1g_I6dCJDw&ved=0ahUKEwi23rafpvKKAxXuA9sEHcg0NPEQ4dUDCBA&uact=5&oq=javascript+realm+mdn&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGphdmFzY3JpcHQgcmVhbG0gbWRuMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQFI_yJQoAJY0iFwAngBkAEAmAEAoAEAqgEAuAEDyAEA-AEBmAICoAIHqAIIwgIKEAAYsAMY1gQYR5gDAvEFgrz1lj4zV_KIBgGQBgm6BgQIARgHkgcBMqAHAA&sclient=gws-wiz-serp
+
+javascript - How to understand JS realms - Stack Overflow
+https://stackoverflow.com/questions/49832187/how-to-understand-js-realms
+
+Agoric/realms-shim: Spec-compliant shim for Realms TC39 Proposal
+https://github.com/Agoric/realms-shim
+
+remote-ui/README.md at main · developit/remote-ui
+https://github.com/developit/remote-ui/blob/main/README.md
+
+cevek
+https://github.com/cevek
+
+Introduction | i18next documentation
+https://www.i18next.com/
+
+Make the Spline tool draw a polylines with a `Path -> Spline from Points` node setup · Issue #2184 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/issues/2184
+
+files.keavon.com/-/ChillyTenseAdamsstaghornedbeetle/capture_16_.mp4
+https://files.keavon.com/-/ChillyTenseAdamsstaghornedbeetle/capture_16_.mp4
+
+杨光荣 小杨生煎 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9D%A8%E5%85%89%E8%8D%A3+%E5%B0%8F%E6%9D%A8%E7%94%9F%E7%85%8E&newwindow=1&sca_esv=4fbe7c869920a6f3&rlz=1C1GCEA_enJP1090JP1090&ei=tPKEZ77kDbiHxc8PrbtA&oq=%E6%9D%A8%E5%85%89%E8%8D%A3+%E5%B0%8F%E6%9D%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOadqOWFieiNoyDlsI_mnagqAggBMgUQIRigATIFECEYoAEyBRAhGKABSNQvUPQCWM0icAF4AJABAJgBkQKgAdgUqgEEMi0xMbgBA8gBAPgBAZgCC6AC9xTCAgcQABiABBgMwgIIEAAYgAQYogSYAwCIBgGSBwQyLTExoAecFA&sclient=gws-wiz-serp
+
+小杨生煎 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%9D%A8%E7%94%9F%E7%85%8E
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Blog | Otter.ai
+https://otter.ai/blog
+
+files.keavon.com/-/ChillyTenseAdamsstaghornedbeetle/capture_16_.mp4
+https://files.keavon.com/-/ChillyTenseAdamsstaghornedbeetle/capture_16_.mp4
+
+2024 JavaScript Rising Stars
+https://risingstars.js.org/2024/en
+
+校招职位 - miHoYo招聘官网
+https://jobs.mihoyo.com/#/campus/position?jobName=&jobNatures%5B0%5D=3
+
+【日常实习】图形算法工程师（动捕动画方向）
+https://jobs.mihoyo.com/#/campus/position/5779
+
+Home / X
+https://x.com/home
+
+Rendering equation - Wikipedia
+https://en.wikipedia.org/wiki/Rendering_equation
+
+LuaJIT/src/lj_parse.c at f73e649a954b599fc184726c376476e7a5c439ca · LuaJIT/LuaJIT
+https://github.com/LuaJIT/LuaJIT/blob/f73e649a954b599fc184726c376476e7a5c439ca/src/lj_parse.c
+
+davidflam (David Lunardi Flam)
+https://github.com/davidflam
+
+Welcome to 3dRender.com
+https://www.3drender.com/
 
 # 2025-01-12
 
