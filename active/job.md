@@ -590,7 +590,6 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-13 - 2025-1-20 冬 enconomy data week
 
-协同方案 文档内部插件化架构 SSR首屏秒开 AST洗代码成TS工程化 前端插件方案 前端应用SDK化嵌入
 
 
 ## Sleep

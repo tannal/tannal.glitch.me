@@ -1,7 +1,58 @@
 
 # 2025-01-13 2
 
+协同方案
+{
+  // 第一个项目
+  "@koko/core": "1.0.0-alpha.20",
+  "immer": "^3.2.0",  // 不可变数据处理
+  "redux": "^4.0.1",  // 状态管理
+  "redux-saga": "^0.16.2",  // 异步处理
 
+  // 第二个项目
+  "@vodka/block-model": "workspace:*", // 可能是文档模型
+  "@vodka/model": "workspace:*",
+  "quill-delta": "^4.2.2",  // 文本协同编辑
+  "immer": "^3.2.0"
+}
+editor like client side project & 文档内部插件化架构
+
+SSR首屏秒开
+{
+  // 第二个项目
+  "@nestjs/cli": "^9.0.0",  // Nest.js SSR
+  "react-loadable": "^5.5.0", // 组件懒加载
+  "react-helmet": "^5.2.1",  // SEO优化
+  "compression": "^1.7.4"    // 响应压缩
+}
+
+AST洗代码成TS工程化
+{
+  // 都有的
+  "@babel/parser": "^7.14.4",
+  "@babel/generator": "^7.14.3",
+  "@babel/types": "^7.14.4",
+  "typescript": "4.7.4",
+  "ttypescript": "^1.5.12"
+}
+
+埋点和监控，数据平台
+
+国际化支持
+i18next
+
+前端插件方案 sandbox & iframe
+{
+  // 第一个项目
+  "@database/types": "workspace:*",
+  "@database/ui": "workspace:*",
+
+  // 第二个项目
+  "@remote-ui/rpc": "1.4.1",
+  "iframe-msg": "1.0.1"
+}
+
+前端应用SDK化嵌入
 
 东亚：更强调集体认同，人际关系网络中的面子
 西方：更注重个人尊严和权利，相对更个人主义
