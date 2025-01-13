@@ -536,7 +536,7 @@ igalia申请 deadline
 
 # 2025-4-14 - 2025-4-21 春
 
-# 2025-4-7 - 2025-4-14 春
+# 2025-4-7 - 2025-4-14 春 enconomy data week
 
 # 2025-3-31 - 2025-4-7 春
 
@@ -544,7 +544,7 @@ igalia申请 deadline
 
 # 2025-3-17 - 2025-3-24 春
 
-# 2025-3-10 - 2025-3-17 春
+# 2025-3-10 - 2025-3-17 春 enconomy data week
 
 
 # 2025-3-3 - 2025-3-10 春
@@ -563,7 +563,7 @@ igalia申请 deadline
 [] kai ti bao gao
 [] AI music
 
-# 2025-2-10 - 2025-2-17 冬
+# 2025-2-10 - 2025-2-17 冬 enconomy data week
 
 [] Fly to ChangChun at Sunday or Saturday from GuangZhou BaiYun
 
@@ -581,10 +581,17 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-27 - 2025-2-3 冬
 
+- 1-29 Chinese New Year
+-
+
 # 2025-1-20 - 2025-1-27 冬
 
-# 2025-1-13 - 2025-1-20 冬
+- Donald Trump Monday
 
+# 2025-1-13 - 2025-1-20 冬 enconomy data week
+
+
+-
 ## Sleep
 
 [] Sunday Night sleep 2:00 to 11:30 well it sucks
