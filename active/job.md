@@ -585,6 +585,13 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-13 - 2025-1-20 冬
 
+## Sleep
+
+[] Sunday Night sleep 2:00 to 11:30 well it sucks
+
+
+## Eat
+
 # 2025-1-6 - 2025-1-13 冬 (travel week)
 
 [x] Chromium expose CSS to window object LGTM
