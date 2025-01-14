@@ -1,6 +1,10 @@
 
 # 2025-01-14 2
 
+Nico 32
+
+21
+
 Anthropic AI21 Labs Covariant competition with OpenAI
 
 这是 Crunchbase，一个提供公司、投资、创业者等商业信息的数据平台。主要功能包括：
