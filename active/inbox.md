@@ -1,4 +1,23 @@
 
+# 2025-01-14 2
+
+RunwayML的开源替代：
+Stable Diffusion - 开源的图像生成模型
+ComfyUI - 开源的AI视频生成工具
+AnimatedDiff - 用于生成动画的开源框架
+Luma AI的替代：
+Meshroom - 开源的3D重建软件
+COLMAP - 开源的Structure from Motion工具
+OpenMVS - 开源的多视图立体视觉系统
+Leonardo.ai的替代：
+Stable Diffusion web UI - 开源的图像生成界面
+InvokeAI - 开源的AI艺术创作工具
+AUTOMATIC1111的Stable Diffusion Web UI
+视频生成相关的开源工具：
+DeepFaceLab - 开源的换脸工具
+MoviePy - 开源的视频编辑库
+OpenCV - 开源的计算机视觉库
+
 # 2025-01-13 2
 
 重要工具
