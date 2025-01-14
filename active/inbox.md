@@ -1,6 +1,13 @@
 
 # 2025-01-14 2
 
+Anthropic AI21 Labs Covariant competition with OpenAI
+
+这是 Crunchbase，一个提供公司、投资、创业者等商业信息的数据平台。主要功能包括：
+
+"Everyone is entitled to scratch their own itch" - 这是开源社区常用的一句话，意思是每个人都有权按自己的想法解决问题
+"but this seems like the most useless configuration language I've ever seen" - 但作者认为这个配置语言非常没用
+
 RunwayML的开源替代：
 Stable Diffusion - 开源的图像生成模型
 ComfyUI - 开源的AI视频生成工具
