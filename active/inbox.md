@@ -1,8 +1,6 @@
 
 # 2025-01-14 2
 
-
-
 RunwayML的开源替代：
 Stable Diffusion - 开源的图像生成模型
 ComfyUI - 开源的AI视频生成工具

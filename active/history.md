@@ -1,6 +1,92 @@
 
 # 2025-01-14
 
+Taylor Swift - Style (Taylor’s Version) | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=cH-9f-CtLno
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+John Legend - All of Me (Piano Cover) - YouTube
+https://www.youtube.com/watch?v=b3E6E6hYSSI
+
+sonic-visualiser/sonic-visualiser: Visualisation, analysis, and annotation of music audio recordings
+https://github.com/sonic-visualiser/sonic-visualiser
+
+Sound Software .ac.uk
+https://code.soundsoftware.ac.uk/
+
+Chris Donahue
+https://chrisdonahue.com/
+
+gclef-cmu/apply: Information for prospective students
+https://github.com/gclef-cmu/apply/
+
+G-CLef application
+https://docs.google.com/forms/d/e/1FAIpQLSe2gW7XlbEd3xb5qmem_yl5ZxYBG0bigVRTUouR77_oIqc6Vg/viewform
+
+G-CLef application
+https://docs.google.com/forms/d/e/1FAIpQLSe2gW7XlbEd3xb5qmem_yl5ZxYBG0bigVRTUouR77_oIqc6Vg/viewform
+
+x.com/home
+https://x.com/home
+
+SingSong: Generating musical accompaniments from singing
+https://arxiv.org/pdf/2301.12662
+
+腾讯云 产业智变·云启未来 - 腾讯
+https://cloud.tencent.com/
+
+Calendar – 15-322/622 Spring 2023
+https://courses.ideate.cmu.edu/15-322/s2023/index.html%3Fp=11.html
+
+Introduction to Computer Music | Carnegie Mellon University Computer Science Department
+https://csd.cmu.edu/course/15622/s24
+
+15-322/622 Introduction to Computer Music | Carnegie Mellon University Computer Science Department
+https://csd.cmu.edu/15322622-introduction-to-computer-music
+
+1812.08466
+https://arxiv.org/pdf/1812.08466
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wave2vec - Google 搜索
+https://www.google.com.hk/search?q=wave2vec&rlz=1C1GCEA_enJP1090JP1090&oq=wave2vec&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI5MTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2006.11477
+https://arxiv.org/pdf/2006.11477
+
+Google
+https://www.google.com.hk/
+
+Welcome! | Music 220A @ CCRMA
+https://ccrma.stanford.edu/courses/220a/
+
+About - Chris Chafe
+https://chrischafe.net/about-2-2/
+
+Constantin Basica
+http://www.constantinbasica.com/
+
+Music | Nicholas Shaheed
+https://nicholasshaheed.com/
+
+Barbara Nerness
+http://www.barbaranerness.com/
+
+Mike Mulshine | Music
+https://www.mikemulshine.com/music/
+
+facebookresearch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+https://github.com/facebookresearch/fairseq
+
+A comprehensive breakdown of how websites render - YouTube
+https://www.youtube.com/watch?v=Cifkb-ZVps4
+
+MIT 音乐技术导论 (21M.080) - Google 搜索
+https://www.google.com.hk/search?q=MIT+%E9%9F%B3%E4%B9%90%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA+(21M.080)&rlz=1C1GCEA_enJP1090JP1090&oq=MIT+%E9%9F%B3%E4%B9%90%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA+(21M.080)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBBzg0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 # 2025-01-13
 
