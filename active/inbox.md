@@ -1,6 +1,11 @@
 
 # 2025-01-15 1
 
+前端播放器
+
+使用 translate3d 触发GPU加速 使用 requestAnimationFrame 优化动画性能 缓存DOM查询结果 使用 transform 而不是改变 left/top 值
+window.requestIdleCallback( nano.prefetch.bind(void 0, config, { kind: nano.GroupKind[type], enableHEVC: true, enableAV1: false }) );
+
 CoT (Chain of Thought，思维链）搜索是一种提升AI推理能力的技术：
 
 高校
