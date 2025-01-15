@@ -1,5 +1,19 @@
 
+# 2025-01-16
+
+
 # 2025-01-15 1
+
+```
+# 安装 Scoop
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+irm get.scoop.sh | iex
+
+scoop config proxy 127.0.0.1:7890
+# 添加软件源
+scoop bucket add versions
+scoop install versions/zed-nightly
+```
 
 教育系统的理想：鼓励直面问题 追根溯源 寻找最优解 完全理解原理
 工程实践的现实：避免风险 选择稳妥方案 快速解决问题 不追求完美
