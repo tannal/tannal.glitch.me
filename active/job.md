@@ -729,13 +729,16 @@ https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
 
 ## Outlook
 
-# 2025-1-13 - 2025-1-20 冬 enconomy data week
+# 2025-1-13 - 2025-1-20 [x] 冬 enconomy data week
 
 ## Sleep
 
 [] Sunday Night sleep 2:00 to 11:30 well it sucks
+[] Tues Night -> Weds Night 23:50 to 10:30 x
 
 ## Eat
+
+
 
 # 2025-1-6 - 2025-1-13 冬 (travel week)
 
@@ -852,9 +855,6 @@ Wash body & clothes & wazi & shoes
 [x] qimiao kaijuan
 [x] zhouzhiguo bijuan
 
-
-
-
 # 2024-12-9 - 2024-12-16 15
 
 [] qi mo kao shi & ke cheng zuo ye
@@ -880,7 +880,6 @@ Wash body & clothes & wazi & shoes
 
 
 # 2024-11-25 - 2024-12-2 13
-
 
 ## Shit
 
