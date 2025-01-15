@@ -1,6 +1,281 @@
 
 # 2025-01-15
 
+nodejs（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/CK9Q4MB53
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+catamorphism (Tim Chevalier)
+https://github.com/catamorphism
+
+Element [19] | Layout
+https://chat.mozilla.org/#/room/#layout:mozilla.org
+
+HTML Standard
+https://html.spec.whatwg.org/#evaluate-a-javascript:-url
+
+What about touch-based scrolling? · Issue #54 · w3c/mediacapture-surface-control
+https://github.com/w3c/mediacapture-surface-control/issues/54
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Untitled - Edited
+https://hookpad.hooktheory.com/
+
+Note to self - Talk - Nextcloud
+http://192.168.43.95:8081/call/bar6x255#message_152
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksRunsSelected=android-x64-rel
+
+file:global-interface-listing-expected.txt - Search
+https://source.chromium.org/search?q=file:global-interface-listing-expected.txt&ss=chromium
+
+⚙ D225966 WIP: Bug 1924567 - Remove unobservable-document media query r?emilio
+https://phabricator.services.mozilla.com/D225966
+
+Home / X
+https://x.com/home
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/organizations/commits?repositories=clusterfuzz&organizations=Northeastern+University&grouping=decennial&colors=organizations&kind=author&metric=contributor&chart=line&dates=2010-07-19,2024-10-15
+
+100% - [1] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78&selectedTaskRun=VKAcZm1ISZuPTAHOLviN8Q.0
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#change-OLK8L8mZQ6ye
+
+100% - [17] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=ba24a9bce3e453543ea0bf95c2f2c9bd372ab61e&selectedTaskRun=B5OOl4WtStaCW3-FyOWCDg.0
+
+BEAM and JVM virtual machines | Concurrency
+https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines/
+
+Home / X
+https://x.com/home
+
+2024 JavaScript Rising Stars
+https://risingstars.js.org/2024/en
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+⚙ D226654 Bug 1924340 - Remove network.url.strict_data_url_base64_placement pref. r?gregp
+https://phabricator.services.mozilla.com/D226654
+
+⚙ D223078 Bug 1917602 - Make CSS zoom property discrete animatable. r?emilio
+https://phabricator.services.mozilla.com/D223078
+
+1506266 - HttpChannelChild::ActorDestroy doesn't call OnStopRequest
+https://bugzilla.mozilla.org/show_bug.cgi?id=1506266
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+hotlistid:5483263 status:new - Chromium
+https://issues.chromium.org/issues?q=hotlistid:5483263%20status:new
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%20Neva%20Programming%20Language%20&sort=byPopularity&type=story
+
+100% - [1] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7d8729486988eee8de139f42d2e9978717674c78
+
+Home / X
+https://x.com/home
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+isaacs (@izs) / X
+https://x.com/izs
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Issues · zulip/zulip
+https://github.com/zulip/zulip/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+
+Discover — Bluesky
+https://bsky.app/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Commit message · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/5//COMMIT_MSG
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Web-Facing Change PSA: Expose CSSFontFeaturesValueRule
+https://groups.google.com/a/chromium.org/g/blink-dev/c/zqC2dYxKpQw/m/6kC6qKlYDAAJ
+
+needinfo requested: [Bug 1924340] Remove network.url.strict_data_url_base64_placement pref - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSjbwDhzxFclnxpTKPRzVDpDz
+
+1924340 - Remove network.url.strict_data_url_base64_placement pref
+https://bugzilla.mozilla.org/show_bug.cgi?id=1924340
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+* 08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+* 05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+Add Status Page link to README / and/or website · Issue #7050 · nodejs/nodejs.org
+https://github.com/nodejs/nodejs.org/issues/7050
+
+ChatGGG
+http://192.168.43.1:8080/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksPatchset=1
+
+[47 failures] Push Health
+https://treeherder.mozilla.org/push-health/push?repo=try&revision=ba24a9bce3e453543ea0bf95c2f2c9bd372ab61e&tab=tests&testGroup=pr&selectedTest=securitymanagerssltestsunittestcertstoragejs&selectedTaskId=
+
+Code search results
+https://github.com/search?q=repo%3A11ty%2Feleventy%20nunjucks&type=code
+
+Taylor Swift - Style (Taylor’s Version) | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=cH-9f-CtLno
+
+CSS Wish List 2025 – Eric’s Archived Thoughts
+https://meyerweb.com/eric/thoughts/2025/01/08/css-wish-list-2025/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Lars Bak - Google 搜索
+https://www.google.com.hk/search?q=Lars+Bak&newwindow=1&sca_esv=7b844f1bc8109de5&rlz=1C1GCEA_enJP1090JP1090&ei=BguGZ47gM8SP9u8PjdLviQY&start=10&sa=N&sstk=ATObxK6_sr7kcQ4AsX0xjejMj6ygv2MXJRDkcsfLHDQwcrnr1vL6NCnf2ZIb0LzTmZR5lUdyQ8RYF0ljcDHIXnuvzWvwx_6_ME1Zbg&ved=2ahUKEwiO-4Su0fSKAxXEh_0HHQ3pO2EQ8tMDegQIChAE&biw=1536&bih=703&dpr=1.25
+
+Lars Bak (computer programmer) - Wikipedia
+https://en.wikipedia.org/wiki/Lars_Bak_(computer_programmer)
+
+toit - Google 搜索
+https://www.google.com.hk/search?q=toit&rlz=1C1GCEA_enJP1090JP1090&oq=toit&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQRRg7MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgkIBRAAGAoYgAQyBggGEEUYPDIGCAcQRRg80gEIMTI1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Toit - high-level software platform for the ESP32
+https://toit.io/
+
+Home / X
+https://x.com/home
+
+x.com/domenic/status/1879375046634041854/photo/1
+https://x.com/domenic/status/1879375046634041854
+
+Presentations — Benedict Evans
+https://www.ben-evans.com/presentations
+
+This is Gjensidige Builders
+https://www.gjensidige.builders/
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#use-reclient
+
+MAXIMUM VS Code Productivity — Navigating Codebases Quickly - YouTube
+https://www.youtube.com/watch?v=c0HO_-NDJCk
+
+2501.00663v1
+https://arxiv.org/pdf/2501.00663v1
+
+Toit package registry
+https://pkg.toit.io/
+
+Dmitrii Kovanikov - Google 搜索
+https://www.google.com.hk/search?q=Dmitrii+Kovanikov&rlz=1C1GCEA_enJP1090JP1090&oq=Dmitrii+Kovanikov&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE1ODJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+chshersh (Dmitrii Kovanikov)
+https://github.com/chshersh
+
+Crunchbase: Discover innovative companies and the people behind them
+https://www.crunchbase.com/
+
+kwai - Google 搜索
+https://www.google.com.hk/search?q=kwai&rlz=1C1GCEA_enJP1090JP1090&oq=kwai&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIJCAkQABgKGIAE0gEIMTU0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+kuaishou - Google 搜索
+https://www.google.com.hk/search?q=kuaishou&newwindow=1&sca_esv=ca17728f75a1c1f3&rlz=1C1GCEA_enJP1090JP1090&ei=qROGZ7XyOJKL9u8PzMGWoQE&ved=0ahUKEwj16q7M2fSKAxWShf0HHcygJRQQ4dUDCBA&uact=5&oq=kuaishou&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGt1YWlzaG91MgoQABiABBhDGIoFMgoQLhiABBhDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgARIrRdQjwdY7xVwAngAkAEAmAGzAqABnQmqAQUyLTIuMrgBA8gBAPgBAZgCBqACrwnCAgkQABiwAxgIGB7CAgsQABiABBiwAxiiBMICCxAuGIAEGNEDGMcBwgIQEC4YgAQY0QMYQxjHARiKBcICDhAuGIAEGNEDGNQCGMcBmAMAiAYBkAYGkgcHMi4wLjIuMqAH6zM&sclient=gws-wiz-serp
+
+Kuaishou - Wikipedia
+https://en.wikipedia.org/wiki/Kuaishou
+
+Toit language
+https://github.com/toitlang
+
+All the ways HTML gets to your browser - YouTube
+https://www.youtube.com/watch?v=Cifkb-ZVps4&t=627s
+
+JNI bridge for BackForwardTransitionAnimationManager [354031424] - Chromium
+https://issues.chromium.org/issues/354031424
+
+Discover — Bluesky
+https://bsky.app/
+
+toit github - Google 搜索
+https://www.google.com.hk/search?q=toit+github&rlz=1C1GCEA_enJP1090JP1090&oq=toit+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDIwMjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+IE6 - Google 搜索
+https://www.google.com.hk/search?q=IE6&rlz=1C1GCEA_enJP1090JP1090&oq=IE6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Internet Explorer 6 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/Internet_Explorer_6
+
+zulip desktop - Google 搜索
+https://www.google.com.hk/search?q=zulip+desktop&newwindow=1&sca_esv=e993029fa676fbb3&rlz=1C1GCEA_enJP1090JP1090&ei=NCeGZ7asNJ2Uxc8Pm_aIoAw&ved=0ahUKEwi2lvmd7PSKAxUdSvEDHRs7AsQQ4dUDCBA&uact=5&oq=zulip+desktop&gs_lp=Egxnd3Mtd2l6LXNlcnAiDXp1bGlwIGRlc2t0b3AyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESNQMUABYuwlwAHgBkAEBmAHMA6ABxhKqAQcyLTguMC4xuAEDyAEA-AEBmAIHoAKdDcICChAAGIAEGEMYigXCAgcQABiABBgMwgIGEAAYCBgemAMAkgcDMi03oAf9Fg&sclient=gws-wiz-serp
+
+Releases · zulip/zulip-desktop
+https://github.com/zulip/zulip-desktop/releases
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+graphics.stanford.edu
+https://graphics.stanford.edu/courses/
+
+Zuckerberg says Meta will lay off more 'low-performers' | Hacker News
+https://news.ycombinator.com/item?id=42702016
+
+tannal (tannal)
+https://github.com/tannal
 
 # 2025-01-14
 

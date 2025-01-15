@@ -1,5 +1,5 @@
 
-# 2025-01-15 2
+# 2025-01-15 1
 
 CoT (Chain of Thought，思维链）搜索是一种提升AI推理能力的技术：
 
@@ -12,8 +12,6 @@ CoT (Chain of Thought，思维链）搜索是一种提升AI推理能力的技术
 非营利组织
 
 # 2025-01-14 2
-
-
 
 Eclipse的起源 Eclipse最初是由IBM公司在2001年开发的。它的前身是IBM的VisualAge系列产品。IBM投入了大约4000万美元来开发最初的Eclipse代码。 与Sun公司的关系 竞争关系：Eclipse最初是作为IBM对抗Sun公司的NetBeans IDE的一个战略举措。NetBeans是Sun公司开发的开源IDE。 开源策略：为了与Sun的NetBeans竞争，IBM决定将Eclipse开源，并成立了Eclipse基金会来管理这个项目。 Java开发：尽管Eclipse和Sun存在竞争关系，但Eclipse仍然是一个主要的Java开发工具，而Java是由Sun公司创建的。 Eclipse基金会 2004年，IBM将Eclipse项目捐赠给了新成立的Eclipse基金会，使其成为一个独立的非营利组织。这一举措增加了Eclipse的中立性和开放性。 与斯坦福大学的关系 虽然Eclipse与斯坦福大学没有直接的正式关系，但有一些间接的联系：
 
