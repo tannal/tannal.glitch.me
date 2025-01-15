@@ -1,6 +1,84 @@
 
 # 2025-01-15
 
+Taylor Swift - Style (Taylor’s Version) | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=cH-9f-CtLno
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/organizations/commits/?repositories=clusterfuzz&organizations=Northeastern+University&grouping=decennial&colors=organizations&kind=author&metric=contributor&chart=line&dates=2010-07-19,2024-10-15
+
+ArthurSonzogni (ArthurSonzogni) / Repositories
+https://github.com/ArthurSonzogni?tab=repositories
+
+Arthur Sonzogni
+https://arthursonzogni.com/
+
+Code search results
+https://github.com/search?q=repo%3AArthurSonzogni%2FCommitTracker%20data&type=code
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/communities
+
+chrome-commit-tracker.arthursonzogni.com/community-map/v8_forever.svg
+https://chrome-commit-tracker.arthursonzogni.com/community-map/v8_forever.svg
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/repositories?repositories=angle,chromeos,chromium,dawn,devtool-frontend,gn,pdfium,perfetto,swiftshader,v8,webrtc&what=first_commit&grouping=monthly&display=average&kind=author&percentile=0.7071&individual=300&developers=&min_contributions=0
+
+Home / X
+https://x.com/home
+
+ArthurSonzogni (Arthur Sonzogni)
+https://github.com/ArthurSonzogni
+
+AOSP - Google 搜索
+https://www.google.com/search?q=AOSP&rlz=1C1GCEA_enJP1090JP1090&oq=AOSP&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMTQ1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeaturesValueRule - Chrome Platform Status
+https://chromestatus.com/feature/6275972238934016
+
+RFC: Font system redesign · Issue #32033 · servo/servo
+https://github.com/servo/servo/issues/32033
+
+Issues · servo/project
+https://github.com/servo/project/issues
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+activity.hdslb.com/blackboard/static/live-mini-player.min.js
+https://activity.hdslb.com/blackboard/static/live-mini-player.min.js
+
+Nano player bilibili - Google 搜索
+https://www.google.com/search?q=Nano+player+bilibili&sca_esv=ec4e310bc6b52ebd&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIKEU2UrFnmImi866cPX0KBY5LfPHQ%3A1736922074839&ei=2lOHZ9_vMr_c2roPhJKYgAQ&ved=0ahUKEwjfxJf6iveKAxU_rlYBHQQJBkAQ4dUDCA8&uact=5&oq=Nano+player+bilibili&gs_lp=Egxnd3Mtd2l6LXNlcnAiFE5hbm8gcGxheWVyIGJpbGliaWxpMggQABiABBiiBDIFEAAY7wUyCBAAGKIEGIkFMgUQABjvBTIFEAAY7wVIugxQAFiLC3AAeAGQAQCYAeEBoAGQDqoBBTEuNi4zuAEDyAEA-AEBmAIKoAKnDsICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAUYHsICBRAhGKABwgIHECEYoAEYCpgDAJIHBTEuNi4zoAfPEg&sclient=gws-wiz-serp
+
+抖音-记录美好生活
+https://www.douyin.com/?recommend=1
+
+About - html2canvas
+https://html2canvas.hertzen.com/documentation
+
+niklasvh/html2canvas: Screenshots with JavaScript
+https://github.com/niklasvh/html2canvas
+
+web-infra-dev/garfish: A powerful micro front-end framework 🚚
+https://github.com/web-infra-dev/garfish
+
+uknownothingsnow/JsBridge: android java and javascript bridge, inspired by wechat webview jsbridge
+https://github.com/uknownothingsnow/JsBridge
+
+Code search results
+https://github.com/search?q=repo%3Agoogle%2Fclosure-compiler%20dead%20code&type=code
+
+dayjs - Google 搜索
+https://www.google.com/search?q=dayjs&rlz=1C1GCEA_enJP1090JP1090&oq=dayjs&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQLhiABDIHCAcQABiABDIHCAgQABiABDINCAkQLhivARjHARiABNIBBzc4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 nodejs（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/CK9Q4MB53
 
