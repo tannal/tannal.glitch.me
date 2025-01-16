@@ -1,4 +1,7 @@
 
+# 2025-01-17
+
+
 # 2025-01-16 2
 
 ```bash
@@ -6,6 +9,7 @@ scoop bucket add extras
 
 scoop install discord
 scoop install slack
+scoop install zulip
 ```
 
 ```bash
