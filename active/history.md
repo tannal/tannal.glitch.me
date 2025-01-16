@@ -25,6 +25,114 @@ https://www.google.com/search?q=i+sensed+anxiety+and+frustration+at+NeurIPS%E2%8
 I sensed anxiety and frustration at NeurIPS 24 | Hacker News
 https://news.ycombinator.com/item?id=42484628
 
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/users/notice/privateChat?entranceType=%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B6%88%E6%81%AF
+
+美团大模型应用算法实习工程_牛客网
+https://www.nowcoder.com/feed/main/detail/25878ea15d5d4e49933c416c25a55e91?sourceSSR=search
+
+暑期实习去哪_牛客网
+https://www.nowcoder.com/feed/main/detail/fd2cf99dfa6942a19f201784f46744de?sourceSSR=search
+
+作息 吃饭-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E4%BD%9C%E6%81%AF%20%E5%90%83%E9%A5%AD&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+#租房前辈的忠告# 11号入职，昨天晚上才签好，历经两天两夜的战斗，贝壳（只看房_牛客网
+https://www.nowcoder.com/feed/main/detail/30fb56a6424b480a9abf5c3790ff3098?sourceSSR=search
+
+搞什么？连着上班很爽吗_牛客网
+https://www.nowcoder.com/feed/main/detail/27268fc30b044142bd06d0b20a6981b2?sourceSSR=search
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Home / X
+https://x.com/home
+
+LibChecker/LibChecker: An app to view libraries used in apps in your device.
+https://github.com/LibChecker/LibChecker
+
+Home
+https://sagiriwiki.web.app/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+microsoft/react-native-windows: A framework for building native Windows apps with React.
+https://github.com/microsoft/react-native-windows
+
+React Native for Windows + macOS · Build native Windows & macOS apps with Javascript and React
+https://microsoft.github.io/react-native-windows/
+
+DeepSpeed Chat - Google 搜索
+https://www.google.com.hk/search?q=DeepSpeed+Chat&rlz=1C1GCEA_enJP1090JP1090&oq=DeepSpeed+Chat&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEHNDY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+DeepSpeedExamples/applications/DeepSpeed-Chat/README.md at master · microsoft/DeepSpeedExamples
+https://github.com/microsoft/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/README.md
+
+Training Language Models to Follow Instructions (InstructGPT) - Google 搜索
+https://www.google.com.hk/search?q=Training+Language+Models+to+Follow+Instructions+(InstructGPT)&rlz=1C1GCEA_enJP1090JP1090&oq=Training+Language+Models+to+Follow+Instructions+(InstructGPT)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2203.02155
+https://arxiv.org/pdf/2203.02155
+
+Training language models to follow instructions with human feedback github - Google 搜索
+https://www.google.com.hk/search?q=Training+language+models+to+follow+instructions+with+human+feedback+github&rlz=1C1GCEA_enJP1090JP1090&oq=Training+language+models+to+follow+instructions+with+human+feedback+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDQ3MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Issues · openai/following-instructions-human-feedback
+https://github.com/openai/following-instructions-human-feedback/issues
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Chain of Thought Prompting Elicits Reasoning in Large Language Models - Google 搜索
+https://www.google.com.hk/search?q=Chain+of+Thought+Prompting+Elicits+Reasoning+in+Large+Language+Models&rlz=1C1GCEA_enJP1090JP1090&oq=Chain+of+Thought+Prompting+Elicits+Reasoning+in+Large+Language+Models&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+2201.11903
+https://arxiv.org/pdf/2201.11903
+
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models · Issue #103 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/103
+
+Constitutional AI (Anthropic) - Google 搜索
+https://www.google.com.hk/search?q=Constitutional+AI+(Anthropic)&rlz=1C1GCEA_enJP1090JP1090&oq=Constitutional+AI+(Anthropic)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2212.08073
+https://arxiv.org/pdf/2212.08073
+
+Code search results
+https://github.com/search?q=repo%3Atannal%2Fohmywork%20Constitutional%20AI&type=code
+
+ShareGPT - Google 搜索
+https://www.google.com.hk/search?q=ShareGPT&rlz=1C1GCEA_enJP1090JP1090&oq=ShareGPT&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.google.com
+https://www.google.com/search?q=%E3%80%8AFluent+C%E3%80%8B&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%80%8AFluent+C%E3%80%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Home / X
+https://x.com/home
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Home / X
+https://x.com/home
+
+i sensed anxiety and frustration at NeurIPS’24 – Kyunghyun Cho
+https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/
+
+[D] i sensed anxiety and frustration at NeurIPS’24 (kyunghyuncho blog) : MachineLearning
+https://old.reddit.com/r/MachineLearning/comments/1hjp5gc/d_i_sensed_anxiety_and_frustration_at_neurips24/
+
+i sensed anxiety and frustration at NeurIPS’24 (kyunghyuncho blog) - Google 搜索
+https://www.google.com/search?q=i+sensed+anxiety+and+frustration+at+NeurIPS%E2%80%9924+(kyunghyuncho+blog)&rlz=1C1GCEA_enJP1090JP1090&oq=i+sensed+anxiety+and+frustration+at+NeurIPS%E2%80%9924+(kyunghyuncho+blog)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQgzNjE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+I sensed anxiety and frustration at NeurIPS 24 | Hacker News
+https://news.ycombinator.com/item?id=42484628
+
 大模型 应用-搜索结果-牛客网
 https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E5%BA%94%E7%94%A8&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
 
