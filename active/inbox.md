@@ -1,6 +1,20 @@
 
 # 2025-01-16 2
 
+```bash
+scoop bucket add extras
+
+scoop install discord
+scoop install slack
+```
+
+```bash
+# setup-task.ps1
+$Action = New-ScheduledTaskAction -Execute "C:\Users\tannal\tannalwork\projects\notes\auto-commit.cmd"
+$Trigger = New-ScheduledTaskTrigger -Once -At (Get-Date) -RepetitionInterval (New-TimeSpan -Hours 1)
+Register-ScheduledTask -TaskName "AutoCommit" -Action $Action -Trigger $Trigger -Force
+```
+
 CPU: 50 × 16核 = 800核心
 內存: 50 × 64GB = 3.2TB RAM
 GPU: 50 × RTX 4090 (如果用於計算)
