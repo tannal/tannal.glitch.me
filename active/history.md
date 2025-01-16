@@ -1,4 +1,249 @@
 
+# 2025-01-16
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Home / X
+https://x.com/home
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Home / X
+https://x.com/home
+
+i sensed anxiety and frustration at NeurIPS’24 – Kyunghyun Cho
+https://kyunghyuncho.me/i-sensed-anxiety-and-frustration-at-neurips24/
+
+[D] i sensed anxiety and frustration at NeurIPS’24 (kyunghyuncho blog) : MachineLearning
+https://old.reddit.com/r/MachineLearning/comments/1hjp5gc/d_i_sensed_anxiety_and_frustration_at_neurips24/
+
+i sensed anxiety and frustration at NeurIPS’24 (kyunghyuncho blog) - Google 搜索
+https://www.google.com/search?q=i+sensed+anxiety+and+frustration+at+NeurIPS%E2%80%9924+(kyunghyuncho+blog)&rlz=1C1GCEA_enJP1090JP1090&oq=i+sensed+anxiety+and+frustration+at+NeurIPS%E2%80%9924+(kyunghyuncho+blog)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQgzNjE3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+I sensed anxiety and frustration at NeurIPS 24 | Hacker News
+https://news.ycombinator.com/item?id=42484628
+
+大模型 应用-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%20%E5%BA%94%E7%94%A8&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+美团大模型应用算法实习工程_牛客网
+https://www.nowcoder.com/feed/main/detail/25878ea15d5d4e49933c416c25a55e91?sourceSSR=search
+
+暑期实习去哪_牛客网
+https://www.nowcoder.com/feed/main/detail/fd2cf99dfa6942a19f201784f46744de?sourceSSR=search
+
+作息 吃饭-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E4%BD%9C%E6%81%AF%20%E5%90%83%E9%A5%AD&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+#租房前辈的忠告# 11号入职，昨天晚上才签好，历经两天两夜的战斗，贝壳（只看房_牛客网
+https://www.nowcoder.com/feed/main/detail/30fb56a6424b480a9abf5c3790ff3098?sourceSSR=search
+
+搞什么？连着上班很爽吗_牛客网
+https://www.nowcoder.com/feed/main/detail/27268fc30b044142bd06d0b20a6981b2?sourceSSR=search
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Home / X
+https://x.com/home
+
+LibChecker/LibChecker: An app to view libraries used in apps in your device.
+https://github.com/LibChecker/LibChecker
+
+Home
+https://sagiriwiki.web.app/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+microsoft/react-native-windows: A framework for building native Windows apps with React.
+https://github.com/microsoft/react-native-windows
+
+React Native for Windows + macOS · Build native Windows & macOS apps with Javascript and React
+https://microsoft.github.io/react-native-windows/
+
+DeepSpeed Chat - Google 搜索
+https://www.google.com.hk/search?q=DeepSpeed+Chat&rlz=1C1GCEA_enJP1090JP1090&oq=DeepSpeed+Chat&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEHNDY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+DeepSpeedExamples/applications/DeepSpeed-Chat/README.md at master · microsoft/DeepSpeedExamples
+https://github.com/microsoft/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/README.md
+
+Training Language Models to Follow Instructions (InstructGPT) - Google 搜索
+https://www.google.com.hk/search?q=Training+Language+Models+to+Follow+Instructions+(InstructGPT)&rlz=1C1GCEA_enJP1090JP1090&oq=Training+Language+Models+to+Follow+Instructions+(InstructGPT)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2203.02155
+https://arxiv.org/pdf/2203.02155
+
+Training language models to follow instructions with human feedback github - Google 搜索
+https://www.google.com.hk/search?q=Training+language+models+to+follow+instructions+with+human+feedback+github&rlz=1C1GCEA_enJP1090JP1090&oq=Training+language+models+to+follow+instructions+with+human+feedback+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDQ3MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Issues · openai/following-instructions-human-feedback
+https://github.com/openai/following-instructions-human-feedback/issues
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+Chain of Thought Prompting Elicits Reasoning in Large Language Models - Google 搜索
+https://www.google.com.hk/search?q=Chain+of+Thought+Prompting+Elicits+Reasoning+in+Large+Language+Models&rlz=1C1GCEA_enJP1090JP1090&oq=Chain+of+Thought+Prompting+Elicits+Reasoning+in+Large+Language+Models&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+2201.11903
+https://arxiv.org/pdf/2201.11903
+
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models · Issue #103 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/103
+
+Constitutional AI (Anthropic) - Google 搜索
+https://www.google.com.hk/search?q=Constitutional+AI+(Anthropic)&rlz=1C1GCEA_enJP1090JP1090&oq=Constitutional+AI+(Anthropic)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2212.08073
+https://arxiv.org/pdf/2212.08073
+
+Code search results
+https://github.com/search?q=repo%3Atannal%2Fohmywork%20Constitutional%20AI&type=code
+
+ShareGPT - Google 搜索
+https://www.google.com.hk/search?q=ShareGPT&rlz=1C1GCEA_enJP1090JP1090&oq=ShareGPT&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+www.google.com
+https://www.google.com/search?q=%E3%80%8AFluent+C%E3%80%8B&rlz=1C1GCEA_enJP1090JP1090&oq=%E3%80%8AFluent+C%E3%80%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Coldplay - Hymn For The Weekend | Piano cover - YouTube
+https://www.youtube.com/watch?v=LDd6uxiCN18
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Discover — Bluesky
+https://bsky.app/
+
+pvdz/zero-sugar: Compiles JS/TS from JSSugar to JS0. Sort of.
+https://github.com/pvdz/zero-sugar
+
+Zero Sugar REPL, by Peter van der Zee, pvdz.ee
+https://pvdz.ee/project/zero-sugar/
+
+linter: `--report-unused-disable-directives` · Issue #7544 · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues/7544
+
+Language Evolution - Google 幻灯片
+https://docs.google.com/presentation/d/1ylROTu3N6MyHzNzWJXQAc7Bo1O0FHO3lNKfQMfPOA4o/edit#slide=id.p
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+pvdz/preval: A wannabe JS compiler (still very much wip, not production ready)
+https://github.com/pvdz/preval
+
+Issues · oxc-project/oxc
+https://github.com/oxc-project/oxc/issues
+
+Language Evolution - Google 搜索
+https://www.google.com/search?q=Language+Evolution&rlz=1C1GCEA_enJP1090JP1090&oq=Language+Evolution&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEHMjE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+x.com/home
+https://x.com/home
+
+agendas/2024/10.md at b5cb37948b0170b97a5accb6440527d6b1521be2 · tc39/agendas
+https://github.com/tc39/agendas/blob/b5cb37948b0170b97a5accb6440527d6b1521be2/2024/10.md?plain=1#L156
+
+下载源代码  |  Android Open Source Project
+https://source.android.com/docs/setup/download/downloading?hl=zh-cn
+
+2187ba40dacebc773b0a9e57b4d222fa27d9d1ee - platform/superproject/main - Git at Google
+https://android.googlesource.com/platform/superproject/main/+/2187ba40dacebc773b0a9e57b4d222fa27d9d1ee
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349#8098082
+
+patch.c\src - patch.git - GNU patch
+https://git.savannah.gnu.org/cgit/patch.git/tree/src/patch.c
+
+Linebender
+https://github.com/linebender
+
+Cannot add augment line to matrix at the end of matrix. · Issue #5699 · typst/typst
+https://github.com/typst/typst/issues/5699
+
+zed github - Google 搜索
+https://www.google.com.hk/search?q=zed+github&rlz=1C1GCEA_enJP1090JP1090&oq=zed+github&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMgYIARAjGCcyDAgCEAAYQxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgMGIAEMgYIBxBFGDzSAQgxOTczajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+zed-industries repositories
+https://github.com/orgs/zed-industries/repositories
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+YouTube
+https://www.youtube.com/
+
+ios mobile ie6 - Google 搜索
+https://www.google.com.hk/search?q=ios+mobile+ie6&newwindow=1&sca_esv=a3944c8b8683a63b&rlz=1C1GCEA_enJP1090JP1090&ei=dNeHZ-PeK7zq7_UPtefr4Qo&ved=0ahUKEwjj6OK6iPiKAxU89bsIHbXzOqwQ4dUDCBA&uact=5&oq=ios+mobile+ie6&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmlvcyBtb2JpbGUgaWU2MgUQIRigATIFECEYoAFI0RpQhQdY0RhwAXgBkAEAmAGAA6ABqQiqAQMzLTO4AQPIAQD4AQGYAgSgAr8IwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIGEAAYDBgewgIIEAAYChgMGB7CAgQQABgewgIGEAAYChgewgIHEAAYgAQYE8ICCBAAGBMYCBgewgIIEAAYgAQYogSYAwCIBgGQBgqSBwUxLjMtM6AH5QY&sclient=gws-wiz-serp
+
+Safari is the new IE6 : r/webdev
+https://www.reddit.com/r/webdev/comments/1ecmtll/safari_is_the_new_ie6/
+
+搜索 — Bluesky
+https://bsky.app/search?q=safari+is+the+new
+
+File upload is terminated by ERR_UPLOAD_FILE_CHANGED error on android when choosing a file from Google Drive [40123366] - Chromium
+https://issues.chromium.org/issues/40123366
+
+iOS Safari: unwanted scroll when keyboard is opened - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=a3944c8b8683a63b&rlz=1C1GCEA_enJP1090JP1090&q=iOS+Safari:+unwanted+scroll+when+keyboard+is+opened&sa=X&ved=2ahUKEwiyjOb6iviKAxX68LsIHeWnIAEQ1QJ6BAhNEAE&biw=1536&bih=703&dpr=1.25
+
+css - Keyboard and scroll problems on forms in iOS - Stack Overflow
+https://stackoverflow.com/questions/58997163/keyboard-and-scroll-problems-on-forms-in-ios
+
+tannal/MIDIVisualizer: A small MIDI visualizer tool, using OpenGL
+https://github.com/tannal/MIDIVisualizer
+
+Michael Saboff - Google 搜索
+https://www.google.com.hk/search?q=Michael+Saboff&rlz=1C1GCEA_enJP1090JP1090&oq=Michael+Saboff&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Michael Saboff (@msaboff) / X
+https://x.com/msaboff
+
+Matthew Gaude - Google 搜索
+https://www.google.com.hk/search?q=Matthew+Gaude&rlz=1C1GCEA_enJP1090JP1090&oq=Matthew+Gaude&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+yulia (@codehag) / X
+https://x.com/codehag
+
+JSConf JP 2023「THERE AND BACK AGAIN: A PROPOSAL'S TALE / Yulia Startsev」 - YouTube
+https://www.youtube.com/watch?v=kEeSgRya-aw
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Matthew Gaudet mozilla - Google 搜索
+https://www.google.com.hk/search?q=Matthew+Gaudet+mozilla&newwindow=1&sca_esv=a3944c8b8683a63b&rlz=1C1GCEA_enJP1090JP1090&ei=yeCHZ-3KBbeF9u8Pvrnu2A4&ved=0ahUKEwit09GtkfiKAxW3gv0HHb6cG-sQ4dUDCBA&uact=5&oq=Matthew+Gaudet+mozilla&gs_lp=Egxnd3Mtd2l6LXNlcnAiFk1hdHRoZXcgR2F1ZGV0IG1vemlsbGEyBRAhGKABSLcPUKQDWKoNcAF4AZABAJgBxAKgAdIRqgEFMi02LjK4AQPIAQD4AQGYAgigAtgPwgIKEAAYsAMY1gQYR8ICBxAAGIAEGBPCAgYQABgTGB7CAggQABgTGAUYHsICCBAAGBMYCBgewgIIEAAYgAQYogTCAgYQABgIGB7CAgcQIRigARgKmAMAiAYBkAYDkgcHMS4wLjUuMqAHqg4&sclient=gws-wiz-serp
+
+CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area
+https://mgaudet.github.io/CompilerJobs/
+
+zed windows build - Google 搜索
+https://www.google.com.hk/search?q=zed+windows+build&rlz=1C1GCEA_enJP1090JP1090&oq=zed+windows+build&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQzNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+Scoop
+https://scoop.sh/
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+vscode release - Google 搜索
+https://www.google.com.hk/search?q=vscode+release&rlz=1C1GCEA_enJP1090JP1090&oq=vscod&gs_lcrp=EgZjaHJvbWUqDAgCECMYJxiABBiKBTIGCAAQRRg5MgwIARAjGCcYgAQYigUyDAgCECMYJxiABBiKBTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQzNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Visual Studio Code November 2024
+https://code.visualstudio.com/updates/v1_96
+
 # 2025-01-15
 
 Taylor Swift - Style (Taylor’s Version) | Piano Cover by Pianella Piano - YouTube
