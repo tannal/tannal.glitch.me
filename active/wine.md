@@ -2,8 +2,6 @@
 # people
 
 
-
-
 # inbox
 
 box64
@@ -13,11 +11,10 @@ cd box64
 cmake -B build -G Ninja -DCMAKE_INSTALL_PREFIX:PATH=/opt/box64 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
 
 ninja -C build
-ln -sfn ./build/compile_commands.json compile_commands.json 
+ln -sfn ./build/compile_commands.json compile_commands.json
 
 cmake --install build
 set follow-fork-mode child
-
 
 install wine mono c sharp
 

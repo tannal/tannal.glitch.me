@@ -1,6 +1,13 @@
 
 # 2025-01-17
 
+As of September 2024, Anthropic,
+the creators of Claude AI,
+employ 1,035 people.
+This marks a significant increase from 2023,
+when they had 240 employees, representing a 331.25% growth.
+
+https://cmu-l3.github.io/anlp-spring2025/
 
 # 2025-01-16 2
 

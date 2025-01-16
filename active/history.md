@@ -1,6 +1,206 @@
 
 # 2025-01-17
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+YouTube
+https://www.youtube.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Vaughn Vernon on X: "Domain Expert communicates concept [ ]. That doesn't mean that everyone grasps and sees the same [ ] mental imagery. Depending on the hearers, it's [ ] to O, [?], [ N ], [~] ... To get to [ ] in all minds will require setting a context and using concrete examples/scenarios." / X
+https://x.com/VaughnVernon/status/1879935355664916771
+
+Jolig (Akhila Veerapuraju)
+https://github.com/Jolig
+
+Home / X
+https://x.com/home
+
+Hadley Wickham (@hadleywickham) / X
+https://x.com/hadleywickham
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Scoop
+https://scoop.sh/
+
+Careers \ Anthropic
+https://www.anthropic.com/careers
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Software Engineer, Data Ingestion at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4465088008
+
+Job Application for Research Engineer / Research Scientist, Multimodal at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4453764008
+
+Job Application for Performance Engineer at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4020350008
+
+Home / X
+https://x.com/home
+
+wgpu v24.0.0 Released! : r/rust
+https://www.reddit.com/r/rust/comments/1i28o61/comment/m7fqfha/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+dawn - Git at Google
+https://dawn.googlesource.com/dawn
+
+Andy Pavlo (@andypavlo.bsky.social) on X: "New @CMUDB Course: Database Query Optimization! A survey of how to build a SQL optimizer from scratch covering foundational and state-of-the-art implementations. All lectures available on Youtube: https://t.co/I8dMflK9dP" / X
+https://x.com/andy_pavlo/status/1879944459317817364
+
+dawn - Git at Google
+https://dawn.googlesource.com/dawn
+
+Issue search results
+https://github.com/search?q=repo%3Agfx-rs%2Fwgpu+dawn&type=issues
+
+Remote Debugging Protocol — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools/backend/protocol.html#interacting-with-thread-like-actors
+
+Giving What We Can 🔸 (@givingwhatwecan) / X
+https://x.com/givingwhatwecan
+
+CMU Advanced NLP S2025
+https://cmu-l3.github.io/anlp-spring2025/#schedule
+
+Dagger.io
+https://dagger.io/
+
+dagger/dagger: An engine to run your pipelines in containers
+https://github.com/dagger/dagger
+
+Savannah Git Server
+https://git.savannah.gnu.org/
+
+ggplot2 - Google 搜索
+https://www.google.com/search?q=ggplot2&rlz=1C1GCEA_enJP1090JP1090&oq=ggplot2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Virginia Smith (@gingsmith) / X
+https://x.com/gingsmith
+
+how many people in anthropic - Google 搜索
+https://www.google.com/search?q=how+many+people+in+anthropic&rlz=1C1GCEA_enJP1090JP1090&oq=how+many+people+in+anth&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDYxOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+rice7th/vesania: WIP 2D graphics library
+https://github.com/rice7th/vesania
+
+The Grammar of Graphics - Google 搜索
+https://www.google.com/search?q=The+Grammar+of+Graphics&rlz=1C1GCEA_enJP1090JP1090&oq=The+Grammar+of+Graphics&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Repository search results
+https://github.com/search?q=%22The+Grammar+of+Graphics%22&type=repositories
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+YouTube
+https://www.youtube.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Vaughn Vernon on X: "Domain Expert communicates concept [ ]. That doesn't mean that everyone grasps and sees the same [ ] mental imagery. Depending on the hearers, it's [ ] to O, [?], [ N ], [~] ... To get to [ ] in all minds will require setting a context and using concrete examples/scenarios." / X
+https://x.com/VaughnVernon/status/1879935355664916771
+
+Jolig (Akhila Veerapuraju)
+https://github.com/Jolig
+
+Home / X
+https://x.com/home
+
+Hadley Wickham (@hadleywickham) / X
+https://x.com/hadleywickham
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Scoop
+https://scoop.sh/
+
+Careers \ Anthropic
+https://www.anthropic.com/careers
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Software Engineer, Data Ingestion at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4465088008
+
+Job Application for Research Engineer / Research Scientist, Multimodal at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4453764008
+
+Job Application for Performance Engineer at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4020350008
+
+Home / X
+https://x.com/home
+
+wgpu v24.0.0 Released! : r/rust
+https://www.reddit.com/r/rust/comments/1i28o61/comment/m7fqfha/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+dawn - Git at Google
+https://dawn.googlesource.com/dawn
+
+Andy Pavlo (@andypavlo.bsky.social) on X: "New @CMUDB Course: Database Query Optimization! A survey of how to build a SQL optimizer from scratch covering foundational and state-of-the-art implementations. All lectures available on Youtube: https://t.co/I8dMflK9dP" / X
+https://x.com/andy_pavlo/status/1879944459317817364
+
+dawn - Git at Google
+https://dawn.googlesource.com/dawn
+
+Issue search results
+https://github.com/search?q=repo%3Agfx-rs%2Fwgpu+dawn&type=issues
+
+Remote Debugging Protocol — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools/backend/protocol.html#interacting-with-thread-like-actors
+
+Giving What We Can 🔸 (@givingwhatwecan) / X
+https://x.com/givingwhatwecan
+
+CMU Advanced NLP S2025
+https://cmu-l3.github.io/anlp-spring2025/#schedule
+
+Dagger.io
+https://dagger.io/
+
+dagger/dagger: An engine to run your pipelines in containers
+https://github.com/dagger/dagger
+
+Savannah Git Server
+https://git.savannah.gnu.org/
+
+ggplot2 - Google 搜索
+https://www.google.com/search?q=ggplot2&rlz=1C1GCEA_enJP1090JP1090&oq=ggplot2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Virginia Smith (@gingsmith) / X
+https://x.com/gingsmith
+
+how many people in anthropic - Google 搜索
+https://www.google.com/search?q=how+many+people+in+anthropic&rlz=1C1GCEA_enJP1090JP1090&oq=how+many+people+in+anth&gs_lcrp=EgZjaHJvbWUqBggBEAAYHjIGCAAQRRg5MgYIARAAGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMggIBhAAGAgYHjIICAcQABgIGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDYxOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
 # 2025-01-16
 
