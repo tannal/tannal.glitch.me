@@ -1,6 +1,8 @@
 
 # 2025-01-18
 
+git config --local user.name "TanBot"
+git config --local user.email "tan@bot.com"
 
 # 2025-01-17
 
