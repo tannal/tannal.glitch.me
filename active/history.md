@@ -1,6 +1,89 @@
 
 # 2025-01-18
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+2501.06252
+https://arxiv.org/pdf/2501.06252
+
+SakanaAI/self-adaptive-llms: A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
+https://github.com/SakanaAI/self-adaptive-llms
+
+Eric Alper 🎧 on X: "What's a piece of 'obsolete' technology you still use today because it's better than the modern version?" / X
+https://x.com/sanderssays/status/1880249047895929086/photo/1
+
+Scroll Driven Galaxy Orbital Rotation
+https://codepen.io/argyleink/pen/JoPvBzj
+
+Accordion - shadcn/ui
+https://ui.shadcn.com/docs/components/accordion
+
+shadcn-ui/ui: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+https://github.com/shadcn-ui/ui
+
+HTML Standard
+https://html.spec.whatwg.org/#date-state-(type=date)
+
+api.iconify.design/material-symbols:sunny-rounded.svg
+https://api.iconify.design/material-symbols:sunny-rounded.svg
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+KLING
+https://kling.kuaishou.com/en
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Chromium Docs - Chromium Flag Guarding Guidelines
+https://chromium.googlesource.com/chromium/src/+/main/docs/flag_guarding_guidelines.md#when-is-a-flag-required
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Discover — Bluesky
+https://bsky.app/
+
+Compilers in Rust: Cranelift, the All-Rust Codegen Alternative to LLVM (No C/C++, Part 1) - YouTube
+https://www.youtube.com/watch?v=ilhSdmv6bAY
+
+Google
+https://www.google.com.hk/
+
+nvidia career - Google 搜索
+https://www.google.com.hk/search?q=nvidia+career&rlz=1C1GCEA_enJP1090JP1090&oq=nvidia+c&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhjHARjRAxiABDIGCAcQRRg80gEIMjk5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Jobs at NVIDIA | NVIDIA Careers
+https://www.nvidia.com/en-us/about-nvidia/careers/
+
+CAREERS AT NVIDIA
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/details/Senior-Software-Engineer--TensorRT-LLM_JR1992858?locationHierarchy2=0c3f5f117e9a0101f63dc469c3010000&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78
+
+Alec Radford： - Search / X
+https://x.com/search?q=Alec%20Radford%EF%BC%9A&src=typed_query
+
+Frontiers | BitBrain and Sparse Binary Coincidence (SBC) memories: Fast, robust learning and inference for neuromorphic architectures
+https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2023.1125844/full
+
+Redfish - Google 搜索
+https://www.google.com.hk/search?q=Redfish&rlz=1C1GCEA_enJP1090JP1090&oq=Redfish&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+OpenBMC - Google 搜索
+https://www.google.com.hk/search?q=OpenBMC&rlz=1C1GCEA_enJP1090JP1090&oq=OpenBMC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+openbmc/openbmc: OpenBMC Distribution
+https://github.com/openbmc/openbmc
+
+tannal (tannal)
+https://github.com/tannal
 
 # 2025-01-17
 
