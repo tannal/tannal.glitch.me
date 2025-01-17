@@ -184,7 +184,7 @@ build completed successfully (01:58:12 (hh:mm:ss))
 
 https://groups.google.com/g/android-ndk
 
-# tokie
+# tokei
 
 (base) a17@17:~/tannalwork/projects/aosp$ tokei .
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
