@@ -1,4 +1,7 @@
 
+# 2025-01-19
+
+
 # 2025-01-18 2
 
 scoop install cursor

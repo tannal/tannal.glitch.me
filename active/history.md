@@ -1,4 +1,126 @@
 
+# 2025-01-19
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+github.com
+https://github.com/orgs/linebender/repositories
+
+tailscale - Google 搜索
+https://www.google.com.hk/search?q=tailscale&rlz=1C1GCEA_enJP1090JP1090&oq=tailscale&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMg0IARAuGMcBGNEDGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjY4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tailscale/tailscale: The easiest, most secure way to use WireGuard and 2FA.
+https://github.com/tailscale/tailscale
+
+What repositories would you like to get tracked? · Issue #2 · ArthurSonzogni/CommitTracker
+https://github.com/ArthurSonzogni/CommitTracker/issues/2
+
+Google
+https://www.google.com/
+
+CMU Advanced NLP S2025
+https://cmu-l3.github.io/anlp-spring2025/#schedule
+
+Cliff Click (@cliffclick.bsky.social) — Bluesky
+https://bsky.app/profile/cliffclick.bsky.social
+
+1511.07916
+https://arxiv.org/pdf/1511.07916
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+anlp-s2025-01-intro
+https://cmu-l3.github.io/anlp-spring2025/static_files/anlp-s2025-01-intro.pdf
+
+YouTube
+https://www.youtube.com/watch?v=4hBpLHqBSOg
+
+YouTube
+https://www.youtube.com/watch?v=ZIKDJBrk56k
+
+node - Google 搜索
+https://www.google.com/search?q=node&sca_esv=d4a0d971d424f4c0&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJjLNVocBefYX-Yi14xtfuKol2xQA%3A1737181702569&ei=BkqLZ8SvIr2D9u8P0cqAwAE&ved=0ahUKEwjEyqqS0v6KAxW9gf0HHVElABgQ4dUDCA8&uact=5&oq=node&gs_lp=Egxnd3Mtd2l6LXNlcnAiBG5vZGUyChAjGIAEGCcYigUyChAjGIAEGCcYigUyChAjGIAEGCcYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgcQABiABBgKSPMWUPEKWI8VcAF4AZABAJgBgAKgAeAHqgEDMi00uAEDyAEA-AEBmAIFoAKACMICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIEECMYJ8ICCxAuGIAEGNEDGMcBmAMAiAYBkAYKkgcFMS4wLjSgB8sa&sclient=gws-wiz-serp
+
+OpenAI
+https://github.com/OPENAI
+
+scoop install cursor - Google 搜索
+https://www.google.com/search?q=scoop+install+cursor&sca_esv=1f4a6e3d386086c2&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIIEZ58LTl8YB2vq8N-j0iKJ4RELdg:1737209422085&ei=TraLZ47pBOfI0PEPq9ahiQg&start=10&sa=N&sstk=ATObxK4El0mjVxA03uGjsr9LKaUJk1_FLul-c_f24lQPNnd07MAxsAM-CFogNiA1e55mlIs35VzC6GEBhSdDp-2nrnRxdXl8k3K4ww&ved=2ahUKEwiOyIO0uf-KAxVnJDQIHStrKIEQ8tMDegQIIBAE&biw=1536&bih=703&dpr=1.25
+
+Sign up
+https://authenticator.cursor.sh/sign-up/password?first_name=Mego&last_name=Tan&email=.wcisafly%2Ba%40gmail.com&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252FloginDeepControl%253Fchallenge%253Dm9Pa6bCQUZWQOC4DczSgdRCIsr-DUfw8M1qhUqJz67Q%2526uuid%253Dadb51d71-6d3b-4e5e-bb36-e446e8784aaf%2526mode%253Dsignup%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JHW404GW77S5CKB3GMXEEKM0
+
+bestK/cursor-fake-machine
+https://github.com/bestK/cursor-fake-machine
+
+RNN题目 - Poe
+https://poe.com/chat/2zyvkfoi8jftamosrr7
+
+DevTools Tips
+https://devtoolstips.org/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Home / X
+https://x.com/home
+
+Multi-cage mode and multiple sandboxes | Dmitry Bezhetskov
+https://dbezhetskov.dev/multi-sandboxes/
+
+src: integrate ContextifyContext to cppgc by joyeecheung · Pull Request #56522 · nodejs/node
+https://github.com/nodejs/node/pull/56522/files
+
+dot-to-ascii
+https://dot-to-ascii.ggerganov.com/
+
+ASCIIFlow
+https://asciiflow.com/#/
+
+Patterns of use of Vello crate · PoignardAzur
+https://poignardazur.github.io/2025/01/18/vello-analysis/
+
+2501.09223
+https://arxiv.org/pdf/2501.09223
+
+[BlinkOn19] External Contributions to Chromium - Google 幻灯片
+https://docs.google.com/presentation/d/1yX12Rn1tXlKJVIG8XMFXVA6o9Zhw46Zf7kZy4v_tbtQ/edit#slide=id.g3081dd53ff3_0_39
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple/tree/main
+
+explain the way to access inner class in java? - Stack Overflow
+https://stackoverflow.com/questions/22866454/explain-the-way-to-access-inner-class-in-java
+
+Excalidraw
+https://excalidraw.com/
+
+peephole optimization - Google 搜索
+https://www.google.com/search?q=peephole+optimization&rlz=1C1GCEA_enJP1090JP1090&oq=peephole+&gs_lcrp=EgZjaHJvbWUqCQgCEAAYDBiABDIGCAAQRRg5MgcIARAAGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyCQgEEAAYDBiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDg0MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/tannal/Simple
+
+Expose CSSFontFeatureValuesRule to window scope · chromium/chromium@9d821a1
+https://github.com/chromium/chromium/commit/9d821a1e08753f8ec3c389e3bc8014f28595c90a
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+Copy chapter12 -> chapter13 · SeaOfNodes/Simple@a15a645
+https://github.com/SeaOfNodes/Simple/commit/a15a64509645a238357416066eac27780962aaec
+
+tannal (tannal)
+https://github.com/tannal/
+
 # 2025-01-18
 
 Settings | Cursor - The AI Code Editor
