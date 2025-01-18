@@ -1,6 +1,8 @@
 
 # 2025-01-18 2
 
+scoop install cursor
+
 git config --local user.name "TanBot"
 git config --local user.email "tan@bot.com"
 
