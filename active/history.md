@@ -1,6 +1,95 @@
 
 # 2025-01-18
 
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+2024年青年公寓行业发展现状分析：国内青年公寓市场占比已超过71%_报告大厅
+https://m.chinabgao.com/info/1254256.html
+
+青年公寓 vs 小区 - 搜索
+https://www.bing.com/search?q=%E9%9D%92%E5%B9%B4%E5%85%AC%E5%AF%93+vs+%E5%B0%8F%E5%8C%BA&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=%E9%9D%92%E5%B9%B4%E5%85%AC%E5%AF%93+vs+%E5%B0%8F%E5%8C%BA&sc=2-10&sk=&cvid=913BE810C4D0441E8676F5D4A3454AF6&ghsh=0&ghacc=0&ghpl=&ntref=1
+
+知乎 - 有问题，就会有答案
+https://www.zhihu.com/signin?next=%2F
+
+21世纪资本论 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E4%B8%80%E4%B8%96%E7%B4%80%E8%B3%87%E6%9C%AC%E8%AB%96
+
+Issues · janl/mustache.js · GitHub
+https://github.com/janl/mustache.js/issues
+
+Issues · mozilla/nunjucks · GitHub
+https://github.com/mozilla/nunjucks/issues
+
+yangxx0405 (Xiongxin Yang) / Following · GitHub
+https://github.com/yangxx0405?tab=following
+
+njk file encoding problem - Google 搜索
+https://www.google.com/search?q=njk+file++encoding+problem&client=ubuntu-sn&hs=w5D&sca_esv=164f5e659371ab33&channel=fs&sxsrf=ADLYWIKeVtFyGsC6Zm3YtYkodD6zDMNCpw%3A1736494073918&ei=-cuAZ6TjN--xi-gPutCYgAg&ved=0ahUKEwjkw7jD0OqKAxXv2AIHHTooBoAQ4dUDCBA&uact=5&oq=njk+file++encoding+problem&gs_lp=Egxnd3Mtd2l6LXNlcnAiGm5qayBmaWxlICBlbmNvZGluZyBwcm9ibGVtMgcQIRigARgKSJYUUM8GWLUScAF4AZABAJgBwwKgAYEQqgEFMi02LjG4AQPIAQD4AQGYAgigApUQwgIKEAAYsAMY1gQYR8ICBRAhGKABmAMAiAYBkAYJkgcHMS4wLjYuMaAHxRA&sclient=gws-wiz-serp
+
+Xiongxin Yang
+http://localhost:8080/people/
+
+Code search results · GitHub
+https://github.com/search?q=repo%3Anodejs%2Fnode+--watch+ignore&type=code
+
+Nunjucks
+https://mozilla.github.io/nunjucks/templating.html
+
+Xiongxin Yang
+https://yangxx0405.github.io/reading/
+
+21世纪资本论 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=21%E4%B8%96%E7%BA%AA%E8%B5%84%E6%9C%AC%E8%AE%BA
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Stanford 音乐与计算机科学 (Music 220A/320A) - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Stanford+%E9%9F%B3%E4%B9%90%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6+%28Music+220A%2F320A%29
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252FloginDeepControl%253Fchallenge%253DSCSJQIOYnvL0I6jgrbR_K6wfaMp9d8010Y_2udryKbQ%2526uuid%253Daee6090f-6a99-4068-9575-95ab452af754%2526mode%253Dlogin%2522%257D&authorization_session_id=01JHPKKC7KCTXWXCX9XDX7WVAB
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+`uv` does not understand URL-encoded link data · Issue #1542 · astral-sh/uv
+https://github.com/astral-sh/uv/issues/1542
+
+uv fails building a wheel (e. g. mysqlclient) · Issue #10679 · astral-sh/uv
+https://github.com/astral-sh/uv/issues/10679
+
+Google
+https://www.google.com/
+
+Sign up
+https://authenticator.cursor.sh/sign-up/password?first_name=meng&last_name=alan&email=.wcisafly%2Ba%40gmail.com&state=%257B%2522returnTo%2522%253A%2522%252Fsettings%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JHW2QMV80C1YYREAYF508NP8
+
+Export Tabs URLs – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+
+
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
