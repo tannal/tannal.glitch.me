@@ -4,6 +4,48 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+tannal
+https://tannal.github.io/
+
+Discover — Bluesky
+https://bsky.app/
+
+Day: Beautiful C++ - Google 搜索
+https://www.google.com/search?q=Day%3A+Beautiful+C%2B%2B&rlz=1C1GCEA_enJP1090JP1090&oq=Day%3A+Beautiful+C%2B%2B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHNTk4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+ScoopInstaller
+https://github.com/ScoopInstaller
+
+poe.com
+https://poe.com/chat/2yzlldagh7a4lpmhweg
+
+win11笔记本怎么合并磁盘？win11怎么合并磁盘到c盘 - 哔哩哔哩
+https://www.bilibili.com/opus/772447720907472903
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Simple-Cpp/Chapter17 at main · SeaOfNodes/Simple-Cpp
+https://github.com/SeaOfNodes/Simple-Cpp/tree/main/Chapter17
+
+content
+https://repository.rice.edu/server/api/core/bitstreams/c5ea1ab7-e6c6-41e7-8e06-3cd5b80aeccd/content
+
+Home / X
+https://x.com/home
+
+Bund_at_night_(with_Bund_Financial_Center).jpg (2288×1520)
+https://upload.wikimedia.org/wikipedia/commons/4/45/Bund_at_night_%28with_Bund_Financial_Center%29.jpg
+
+ch01-Linux的安裝及操作 - YouTube
+https://www.youtube.com/watch?v=d3IPYGejLfo&list=PLMWkAn-aOA0bfxeNMp0auqV1OM-xEtqyG
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 收件箱 - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 

@@ -25,6 +25,8 @@ scoop bucket add versions
 scoop install versions/zed-nightly
 ```
 
+https://www.youtube.com/@cs50/videos
+
 ## 第一课 指令、状态、编程
 
 C 语言 指令
