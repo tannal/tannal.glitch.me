@@ -2,6 +2,11 @@
 
 # inbox
 
+Cranelift - WebAssembly 编译器后端
+Pulley - WebAssembly 解释器
+Winch - 另一个编译器实现
+WASI (WebAssembly System Interface)
+
 node tools/eslint/node_modules/eslint/bin/eslint.js --cache --max-warnings=0 --report-unused-disable-directives eslint.config.mjs .\test\
 
 gh workflow run "CI" --ref ci
