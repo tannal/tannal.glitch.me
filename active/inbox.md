@@ -1,6 +1,9 @@
 
 # 2025-01-20
 
+uv pip install modelscope modelscope[multi-modal] torch torchvision opencv-python decords
+
+https://meet.jit.si/ControversialGatheringsUnifyMostly
 
 Text-to-Video
 VideoPoet (multiframe) - 24.1%

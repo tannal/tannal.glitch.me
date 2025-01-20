@@ -1,6 +1,125 @@
 
 # 2025-01-20
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Discover — Bluesky
+https://bsky.app/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Compilers in Rust: Cranelift, the All-Rust Codegen Alternative to LLVM (No C/C++, Part 1) - YouTube
+https://www.youtube.com/watch?v=ilhSdmv6bAY&t=257s
+
+regionaltantrums - YouTube
+https://www.youtube.com/@regionaltantrums/videos
+
+win10底部任务栏无反应鼠标一直转圈，系统假死
+https://edianyun.com/wenda_dnyj_bjb/1699.html
+
+rust-lang/rustc_codegen_cranelift: Cranelift based backend for rustc
+https://github.com/rust-lang/rustc_codegen_cranelift
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+Web Page for CSE501 wi19
+https://docs.google.com/document/u/1/d/e/2PACX-1vTPc9EKdR9oTSOjbcB5jtMEK5iWTlW-mxS-Wnwq_3B3fJc-sy-B7SyLMC_NmWiICERPOVto14PhONN-/pub
+
+CS448H - domain-specific languages for graphics, imaging, and beyond
+https://cs448h.stanford.edu/
+
+performance
+https://cs448h.stanford.edu/performance.pdf
+
+tannal
+https://tannal.github.io/
+
+重定向声明
+https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F67nu0638z970zeh%2FL01%2520Overview%2520and%2520Planning.pdf%3Fdl%3D1&sa=D&source=docs
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+A Systems-Minded Approach to Creating a Music Player Application by Andrew Kelley - YouTube
+https://www.youtube.com/watch?v=SCLrNqc9jdE
+
+Browser History | tannal's Org | Supabase
+https://supabase.com/dashboard/project/lgevdzhlthaffrqkmbjx
+
+JavaScript API Reference | Supabase Docs
+https://supabase.com/docs/reference/javascript/installing
+
+alct/export-tabs-urls: https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+https://github.com/alct/export-tabs-urls
+
+tannal (tannal)
+https://github.com/tannal/
+
+bytecodealliance/wasmtime: A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+https://github.com/bytecodealliance/wasmtime
+
+Following — Bluesky
+https://bsky.app/
+
+Graphviz Online
+https://dreampuf.github.io/GraphvizOnline/?engine=dot#digraph%20%22%25sdiv_i16_const%22%20%7B%0A%20%20%20%20%7Brank%3Dmin%3B%20block0%7D%0A%20%20%20%20block0%20%5Bshape%3Drecord%2C%20label%3D%22%7Bblock0(v0%3A%20i16)%3A%0A%20%7C%20%3Cinst2%3Ereturn%20v2%0A%7D%22%5D%0A%7D
+
+dot-to-ascii
+https://dot-to-ascii.ggerganov.com/
+
+Home / X
+https://x.com/home
+
+2501.09038
+https://arxiv.org/pdf/2501.09038
+
+wasi preview 3 - Google 搜索
+https://www.google.com/search?q=wasi+preview+3&sca_esv=f6da024592f419a4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIJaWmXNJEWARNpzAK8ou4eAaCRT0A%3A1737335420579&ei=fKKNZ8eMI5iS0PEPlpfCsQg&oq=&gs_lp=Egxnd3Mtd2l6LXNlcnAiACoCCAUyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gJI96YHUABYAHABeACQAQCYAQCgAQCqAQC4AQHIAQD4AQGYAgGgAg6oAgqYAw7xBVWlzsxKqbh8kgcBMaAHAA&sclient=gws-wiz-serp
+
+VideoPoet: A Large Language Model for Zero-Shot Video Generation
+https://arxiv.org/pdf/2312.14125
+
+VideoPoet: A Large Language Model for Zero-Shot Video Generation · Issue #104 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/104
+
+Issues · typst/typst
+https://github.com/typst/typst/issues?q=is%3Aissue%20state%3Aopen%20excel
+
+Coldplay - Hymn For The Weekend | Piano cover - YouTube
+https://www.youtube.com/watch?v=LDd6uxiCN18
+
+施坦威钢琴定制 - Steinway & Sons
+https://www.steinway.com.cn/pianos/steinway/bespoke
+
+Attack On Titan OST - Call of Silence (Ymir's Theme) - YouTube
+https://www.youtube.com/watch?v=buZcLljh9eI
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+(406) Discord | #🔥announcements | Graphite
+https://discord.com/channels/731730685944922173/1134980515678658670
+
+Six Things I Bet You Didn't Know About Typst | Laurenz Mädje @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=WQyqyrRQcSw&t=227s
+
+qjcg/awesome-typst: Awesome Typst Links
+https://github.com/qjcg/awesome-typst
+
+YouTube在Game Shark 中提及了您 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSjjrSxcxpvnZgnWhKnXXDHhR
+
+特朗普 - Google 搜索
+https://www.google.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE&rlz=1C1GCEA_enJP1090JP1090&oq=%E7%89%B9%E6%9C%97%E6%99%AE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIOCAIQRRgnGDsYgAQYigUyCAgDEEUYJxg7MgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINDgzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Node.js Core Development - Twitch
+https://www.twitch.tv/videos/2355925457
 
 # 2025-01-19
 
