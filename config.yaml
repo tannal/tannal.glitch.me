@@ -1,0 +1,653 @@
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: rule
+log-level: info
+external-controller: '127.0.0.1:9090'
+
+dns:
+    enable: true
+    ipv6: false
+    default-nameserver: [223.5.5.5, 119.29.29.29]
+    enhanced-mode: fake-ip
+    fake-ip-range: 198.18.0.1/16
+    use-hosts: true
+    nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    fallback: ['https://doh.dns.sb/dns-query', 'https://dns.cloudflare.com/dns-query', 'https://dns.twnic.tw/dns-query', 'tls://8.8.4.4:853']
+    proxy-server-nameserver: ['https://doh.pub/dns-query']
+    fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32] }
+proxies:
+    - { name: '剩余流量：42.25 GB', type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: e7c3315d-87ea-47c8-a594-d751560141cf, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+    - { name: '距离下次重置剩余：5 天', type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: e7c3315d-87ea-47c8-a594-d751560141cf, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+    - { name: 套餐到期：2025-05-13, type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: e7c3315d-87ea-47c8-a594-d751560141cf, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+    - { name: 新加坡-vless, type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: e7c3315d-87ea-47c8-a594-d751560141cf, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+    - { name: 日本-vless, type: vless, server: vljp.interld123456789.com, port: 56702, uuid: e7c3315d-87ea-47c8-a594-d751560141cf, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+    - { name: '一元百G：https://fscloud.vip', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '日本aws - 001', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '日本aws - 002', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '日本aws - 003', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '新加坡aws - 001', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '新加坡aws - 002', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '新加坡aws - 003', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '香港001 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '香港002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '香港003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '台湾01 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '台湾002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '台湾003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '美国001 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28000, ports: 28000-29000, mport: 28000-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '美国002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28001, ports: 28001-29000, mport: 28001-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+    - { name: '美国003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28002, ports: 28002-29000, mport: 28002-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: e7c3315d-87ea-47c8-a594-d751560141cf }
+proxy-groups:
+    - { name: FSCloud, type: select, proxies: [自动选择, 故障转移, '剩余流量：42.25 GB', '距离下次重置剩余：5 天', 套餐到期：2025-05-13, 新加坡-vless, 日本-vless, '一元百G：https://fscloud.vip', '日本aws - 001', '日本aws - 002', '日本aws - 003', '新加坡aws - 001', '新加坡aws - 002', '新加坡aws - 003', '香港001 - hysteria2', '香港002 - hysteria2', '香港003 - hysteria2', '台湾01 - hysteria2', '台湾002 - hysteria2', '台湾003 - hysteria2', '美国001 - hysteria2', '美国002 - hysteria2', '美国003 - hysteria2'] }
+    - { name: 自动选择, type: url-test, proxies: ['剩余流量：42.25 GB', '距离下次重置剩余：5 天', 套餐到期：2025-05-13, 新加坡-vless, 日本-vless, '一元百G：https://fscloud.vip', '日本aws - 001', '日本aws - 002', '日本aws - 003', '新加坡aws - 001', '新加坡aws - 002', '新加坡aws - 003', '香港001 - hysteria2', '香港002 - hysteria2', '香港003 - hysteria2', '台湾01 - hysteria2', '台湾002 - hysteria2', '台湾003 - hysteria2', '美国001 - hysteria2', '美国002 - hysteria2', '美国003 - hysteria2'], url: 'http://www.gstatic.com/generate_204', interval: 86400 }
+    - { name: 故障转移, type: fallback, proxies: ['剩余流量：42.25 GB', '距离下次重置剩余：5 天', 套餐到期：2025-05-13, 新加坡-vless, 日本-vless, '一元百G：https://fscloud.vip', '日本aws - 001', '日本aws - 002', '日本aws - 003', '新加坡aws - 001', '新加坡aws - 002', '新加坡aws - 003', '香港001 - hysteria2', '香港002 - hysteria2', '香港003 - hysteria2', '台湾01 - hysteria2', '台湾002 - hysteria2', '台湾003 - hysteria2', '美国001 - hysteria2', '美国002 - hysteria2', '美国003 - hysteria2'], url: 'http://www.gstatic.com/generate_204', interval: 7200 }
+rules:
+    - 'DOMAIN,fscloud.huhu.icu:8080,DIRECT'
+    - 'DOMAIN-SUFFIX,services.googleapis.cn,FSCloud'
+    - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,FSCloud'
+    - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
+    - 'DOMAIN,safebrowsing.googleapis.com,DIRECT'
+    - 'DOMAIN,developer.apple.com,FSCloud'
+    - 'DOMAIN-SUFFIX,digicert.com,FSCloud'
+    - 'DOMAIN,ocsp.apple.com,FSCloud'
+    - 'DOMAIN,ocsp.comodoca.com,FSCloud'
+    - 'DOMAIN,ocsp.usertrust.com,FSCloud'
+    - 'DOMAIN,ocsp.sectigo.com,FSCloud'
+    - 'DOMAIN,ocsp.verisign.net,FSCloud'
+    - 'DOMAIN-SUFFIX,apple-dns.net,FSCloud'
+    - 'DOMAIN,testflight.apple.com,FSCloud'
+    - 'DOMAIN,sandbox.itunes.apple.com,FSCloud'
+    - 'DOMAIN,itunes.apple.com,FSCloud'
+    - 'DOMAIN-SUFFIX,apps.apple.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blobstore.apple.com,FSCloud'
+    - 'DOMAIN,cvws.icloud-content.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mzstatic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,itunes.apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,icloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,icloud-content.com,DIRECT'
+    - 'DOMAIN-SUFFIX,me.com,DIRECT'
+    - 'DOMAIN-SUFFIX,aaplimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cdn20.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cdn-apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,akadns.net,DIRECT'
+    - 'DOMAIN-SUFFIX,akamaiedge.net,DIRECT'
+    - 'DOMAIN-SUFFIX,edgekey.net,DIRECT'
+    - 'DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,mwcname.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple-mapkit.com,DIRECT'
+    - 'DOMAIN-SUFFIX,126.com,DIRECT'
+    - 'DOMAIN-SUFFIX,126.net,DIRECT'
+    - 'DOMAIN-SUFFIX,127.net,DIRECT'
+    - 'DOMAIN-SUFFIX,163.com,DIRECT'
+    - 'DOMAIN-SUFFIX,360buyimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,36kr.com,DIRECT'
+    - 'DOMAIN-SUFFIX,acfun.tv,DIRECT'
+    - 'DOMAIN-SUFFIX,air-matters.com,DIRECT'
+    - 'DOMAIN-SUFFIX,aixifan.com,DIRECT'
+    - 'DOMAIN-KEYWORD,alicdn,DIRECT'
+    - 'DOMAIN-KEYWORD,alipay,DIRECT'
+    - 'DOMAIN-KEYWORD,taobao,DIRECT'
+    - 'DOMAIN-SUFFIX,amap.com,DIRECT'
+    - 'DOMAIN-SUFFIX,autonavi.com,DIRECT'
+    - 'DOMAIN-KEYWORD,baidu,DIRECT'
+    - 'DOMAIN-SUFFIX,bdimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,bdstatic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,bilibili.com,DIRECT'
+    - 'DOMAIN-SUFFIX,bilivideo.com,DIRECT'
+    - 'DOMAIN-SUFFIX,caiyunapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,clouddn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cnbeta.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cnbetacdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cootekservice.com,DIRECT'
+    - 'DOMAIN-SUFFIX,csdn.net,DIRECT'
+    - 'DOMAIN-SUFFIX,ctrip.com,DIRECT'
+    - 'DOMAIN-SUFFIX,dgtle.com,DIRECT'
+    - 'DOMAIN-SUFFIX,dianping.com,DIRECT'
+    - 'DOMAIN-SUFFIX,douban.com,DIRECT'
+    - 'DOMAIN-SUFFIX,doubanio.com,DIRECT'
+    - 'DOMAIN-SUFFIX,duokan.com,DIRECT'
+    - 'DOMAIN-SUFFIX,easou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ele.me,DIRECT'
+    - 'DOMAIN-SUFFIX,feng.com,DIRECT'
+    - 'DOMAIN-SUFFIX,fir.im,DIRECT'
+    - 'DOMAIN-SUFFIX,frdic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,g-cores.com,DIRECT'
+    - 'DOMAIN-SUFFIX,godic.net,DIRECT'
+    - 'DOMAIN-SUFFIX,gtimg.com,DIRECT'
+    - 'DOMAIN,cdn.hockeyapp.net,DIRECT'
+    - 'DOMAIN-SUFFIX,hongxiu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,hxcdn.net,DIRECT'
+    - 'DOMAIN-SUFFIX,iciba.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ifeng.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ifengimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ipip.net,DIRECT'
+    - 'DOMAIN-SUFFIX,iqiyi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,jd.com,DIRECT'
+    - 'DOMAIN-SUFFIX,jianshu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,knewone.com,DIRECT'
+    - 'DOMAIN-SUFFIX,le.com,DIRECT'
+    - 'DOMAIN-SUFFIX,lecloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,lemicp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,licdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,luoo.net,DIRECT'
+    - 'DOMAIN-SUFFIX,meituan.com,DIRECT'
+    - 'DOMAIN-SUFFIX,meituan.net,DIRECT'
+    - 'DOMAIN-SUFFIX,mi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miaopai.com,DIRECT'
+    - 'DOMAIN-SUFFIX,microsoft.com,DIRECT'
+    - 'DOMAIN-SUFFIX,microsoftonline.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miui.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miwifi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,mob.com,DIRECT'
+    - 'DOMAIN-SUFFIX,netease.com,DIRECT'
+    - 'DOMAIN-SUFFIX,office.com,DIRECT'
+    - 'DOMAIN-SUFFIX,office365.com,DIRECT'
+    - 'DOMAIN-KEYWORD,officecdn,DIRECT'
+    - 'DOMAIN-SUFFIX,oschina.net,DIRECT'
+    - 'DOMAIN-SUFFIX,ppsimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,pstatp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qcloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qdaily.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qdmm.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qhimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qhres.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qidian.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qihucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiniu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiniucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiyipic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qqurl.com,DIRECT'
+    - 'DOMAIN-SUFFIX,rarbg.to,DIRECT'
+    - 'DOMAIN-SUFFIX,ruguoapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,segmentfault.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sinaapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,smzdm.com,DIRECT'
+    - 'DOMAIN-SUFFIX,snapdrop.net,DIRECT'
+    - 'DOMAIN-SUFFIX,sogou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sogoucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sohu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,soku.com,DIRECT'
+    - 'DOMAIN-SUFFIX,speedtest.net,DIRECT'
+    - 'DOMAIN-SUFFIX,sspai.com,DIRECT'
+    - 'DOMAIN-SUFFIX,suning.com,DIRECT'
+    - 'DOMAIN-SUFFIX,taobao.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tencent.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tenpay.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tianyancha.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tmall.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tudou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,umetrip.com,DIRECT'
+    - 'DOMAIN-SUFFIX,upaiyun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,upyun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,veryzhun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weather.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weibo.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xiami.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xiami.net,DIRECT'
+    - 'DOMAIN-SUFFIX,xiaomicp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ximalaya.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xmcdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xunlei.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yhd.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yihaodianimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yinxiang.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ykimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,youdao.com,DIRECT'
+    - 'DOMAIN-SUFFIX,youku.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zealer.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zhihu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zhimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zimuzu.tv,DIRECT'
+    - 'DOMAIN-SUFFIX,zoho.com,DIRECT'
+    - 'DOMAIN-KEYWORD,amazon,FSCloud'
+    - 'DOMAIN-KEYWORD,google,FSCloud'
+    - 'DOMAIN-KEYWORD,gmail,FSCloud'
+    - 'DOMAIN-KEYWORD,youtube,FSCloud'
+    - 'DOMAIN-KEYWORD,facebook,FSCloud'
+    - 'DOMAIN-SUFFIX,fb.me,FSCloud'
+    - 'DOMAIN-SUFFIX,fbcdn.net,FSCloud'
+    - 'DOMAIN-KEYWORD,twitter,FSCloud'
+    - 'DOMAIN-KEYWORD,instagram,FSCloud'
+    - 'DOMAIN-KEYWORD,dropbox,FSCloud'
+    - 'DOMAIN-SUFFIX,twimg.com,FSCloud'
+    - 'DOMAIN-KEYWORD,blogspot,FSCloud'
+    - 'DOMAIN-SUFFIX,youtu.be,FSCloud'
+    - 'DOMAIN-KEYWORD,whatsapp,FSCloud'
+    - 'DOMAIN-KEYWORD,admarvel,REJECT'
+    - 'DOMAIN-KEYWORD,admaster,REJECT'
+    - 'DOMAIN-KEYWORD,adsage,REJECT'
+    - 'DOMAIN-KEYWORD,adsmogo,REJECT'
+    - 'DOMAIN-KEYWORD,adsrvmedia,REJECT'
+    - 'DOMAIN-KEYWORD,adwords,REJECT'
+    - 'DOMAIN-KEYWORD,adservice,REJECT'
+    - 'DOMAIN-SUFFIX,appsflyer.com,REJECT'
+    - 'DOMAIN-KEYWORD,domob,REJECT'
+    - 'DOMAIN-SUFFIX,doubleclick.net,REJECT'
+    - 'DOMAIN-KEYWORD,duomeng,REJECT'
+    - 'DOMAIN-KEYWORD,dwtrack,REJECT'
+    - 'DOMAIN-KEYWORD,guanggao,REJECT'
+    - 'DOMAIN-KEYWORD,lianmeng,REJECT'
+    - 'DOMAIN-SUFFIX,mmstat.com,REJECT'
+    - 'DOMAIN-KEYWORD,mopub,REJECT'
+    - 'DOMAIN-KEYWORD,omgmta,REJECT'
+    - 'DOMAIN-KEYWORD,openx,REJECT'
+    - 'DOMAIN-KEYWORD,partnerad,REJECT'
+    - 'DOMAIN-KEYWORD,pingfore,REJECT'
+    - 'DOMAIN-KEYWORD,supersonicads,REJECT'
+    - 'DOMAIN-KEYWORD,uedas,REJECT'
+    - 'DOMAIN-KEYWORD,umeng,REJECT'
+    - 'DOMAIN-KEYWORD,usage,REJECT'
+    - 'DOMAIN-SUFFIX,vungle.com,REJECT'
+    - 'DOMAIN-KEYWORD,wlmonitor,REJECT'
+    - 'DOMAIN-KEYWORD,zjtoolbar,REJECT'
+    - 'DOMAIN-SUFFIX,9to5mac.com,FSCloud'
+    - 'DOMAIN-SUFFIX,abpchina.org,FSCloud'
+    - 'DOMAIN-SUFFIX,adblockplus.org,FSCloud'
+    - 'DOMAIN-SUFFIX,adobe.com,FSCloud'
+    - 'DOMAIN-SUFFIX,akamaized.net,FSCloud'
+    - 'DOMAIN-SUFFIX,alfredapp.com,FSCloud'
+    - 'DOMAIN-SUFFIX,amplitude.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ampproject.org,FSCloud'
+    - 'DOMAIN-SUFFIX,android.com,FSCloud'
+    - 'DOMAIN-SUFFIX,angularjs.org,FSCloud'
+    - 'DOMAIN-SUFFIX,aolcdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,apkpure.com,FSCloud'
+    - 'DOMAIN-SUFFIX,appledaily.com,FSCloud'
+    - 'DOMAIN-SUFFIX,appshopper.com,FSCloud'
+    - 'DOMAIN-SUFFIX,appspot.com,FSCloud'
+    - 'DOMAIN-SUFFIX,arcgis.com,FSCloud'
+    - 'DOMAIN-SUFFIX,archive.org,FSCloud'
+    - 'DOMAIN-SUFFIX,armorgames.com,FSCloud'
+    - 'DOMAIN-SUFFIX,aspnetcdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,att.com,FSCloud'
+    - 'DOMAIN-SUFFIX,awsstatic.com,FSCloud'
+    - 'DOMAIN-SUFFIX,azureedge.net,FSCloud'
+    - 'DOMAIN-SUFFIX,azurewebsites.net,FSCloud'
+    - 'DOMAIN-SUFFIX,bing.com,FSCloud'
+    - 'DOMAIN-SUFFIX,bintray.com,FSCloud'
+    - 'DOMAIN-SUFFIX,bit.com,FSCloud'
+    - 'DOMAIN-SUFFIX,bit.ly,FSCloud'
+    - 'DOMAIN-SUFFIX,bitbucket.org,FSCloud'
+    - 'DOMAIN-SUFFIX,bjango.com,FSCloud'
+    - 'DOMAIN-SUFFIX,bkrtx.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blog.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blogcdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blogger.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blogsmithmedia.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blogspot.com,FSCloud'
+    - 'DOMAIN-SUFFIX,blogspot.hk,FSCloud'
+    - 'DOMAIN-SUFFIX,bloomberg.com,FSCloud'
+    - 'DOMAIN-SUFFIX,box.com,FSCloud'
+    - 'DOMAIN-SUFFIX,box.net,FSCloud'
+    - 'DOMAIN-SUFFIX,cachefly.net,FSCloud'
+    - 'DOMAIN-SUFFIX,chromium.org,FSCloud'
+    - 'DOMAIN-SUFFIX,cl.ly,FSCloud'
+    - 'DOMAIN-SUFFIX,cloudflare.com,FSCloud'
+    - 'DOMAIN-SUFFIX,cloudfront.net,FSCloud'
+    - 'DOMAIN-SUFFIX,cloudmagic.com,FSCloud'
+    - 'DOMAIN-SUFFIX,cmail19.com,FSCloud'
+    - 'DOMAIN-SUFFIX,cnet.com,FSCloud'
+    - 'DOMAIN-SUFFIX,cocoapods.org,FSCloud'
+    - 'DOMAIN-SUFFIX,comodoca.com,FSCloud'
+    - 'DOMAIN-SUFFIX,crashlytics.com,FSCloud'
+    - 'DOMAIN-SUFFIX,culturedcode.com,FSCloud'
+    - 'DOMAIN-SUFFIX,d.pr,FSCloud'
+    - 'DOMAIN-SUFFIX,danilo.to,FSCloud'
+    - 'DOMAIN-SUFFIX,dayone.me,FSCloud'
+    - 'DOMAIN-SUFFIX,db.tt,FSCloud'
+    - 'DOMAIN-SUFFIX,deskconnect.com,FSCloud'
+    - 'DOMAIN-SUFFIX,disq.us,FSCloud'
+    - 'DOMAIN-SUFFIX,disqus.com,FSCloud'
+    - 'DOMAIN-SUFFIX,disquscdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,dnsimple.com,FSCloud'
+    - 'DOMAIN-SUFFIX,docker.com,FSCloud'
+    - 'DOMAIN-SUFFIX,dribbble.com,FSCloud'
+    - 'DOMAIN-SUFFIX,droplr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,duckduckgo.com,FSCloud'
+    - 'DOMAIN-SUFFIX,dueapp.com,FSCloud'
+    - 'DOMAIN-SUFFIX,dytt8.net,FSCloud'
+    - 'DOMAIN-SUFFIX,edgecastcdn.net,FSCloud'
+    - 'DOMAIN-SUFFIX,edgekey.net,FSCloud'
+    - 'DOMAIN-SUFFIX,edgesuite.net,FSCloud'
+    - 'DOMAIN-SUFFIX,engadget.com,FSCloud'
+    - 'DOMAIN-SUFFIX,entrust.net,FSCloud'
+    - 'DOMAIN-SUFFIX,eurekavpt.com,FSCloud'
+    - 'DOMAIN-SUFFIX,evernote.com,FSCloud'
+    - 'DOMAIN-SUFFIX,fabric.io,FSCloud'
+    - 'DOMAIN-SUFFIX,fast.com,FSCloud'
+    - 'DOMAIN-SUFFIX,fastly.net,FSCloud'
+    - 'DOMAIN-SUFFIX,fc2.com,FSCloud'
+    - 'DOMAIN-SUFFIX,feedburner.com,FSCloud'
+    - 'DOMAIN-SUFFIX,feedly.com,FSCloud'
+    - 'DOMAIN-SUFFIX,feedsportal.com,FSCloud'
+    - 'DOMAIN-SUFFIX,fiftythree.com,FSCloud'
+    - 'DOMAIN-SUFFIX,firebaseio.com,FSCloud'
+    - 'DOMAIN-SUFFIX,flexibits.com,FSCloud'
+    - 'DOMAIN-SUFFIX,flickr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,flipboard.com,FSCloud'
+    - 'DOMAIN-SUFFIX,g.co,FSCloud'
+    - 'DOMAIN-SUFFIX,gabia.net,FSCloud'
+    - 'DOMAIN-SUFFIX,geni.us,FSCloud'
+    - 'DOMAIN-SUFFIX,gfx.ms,FSCloud'
+    - 'DOMAIN-SUFFIX,ggpht.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ghostnoteapp.com,FSCloud'
+    - 'DOMAIN-SUFFIX,git.io,FSCloud'
+    - 'DOMAIN-KEYWORD,github,FSCloud'
+    - 'DOMAIN-SUFFIX,globalsign.com,FSCloud'
+    - 'DOMAIN-SUFFIX,gmodules.com,FSCloud'
+    - 'DOMAIN-SUFFIX,godaddy.com,FSCloud'
+    - 'DOMAIN-SUFFIX,golang.org,FSCloud'
+    - 'DOMAIN-SUFFIX,gongm.in,FSCloud'
+    - 'DOMAIN-SUFFIX,goo.gl,FSCloud'
+    - 'DOMAIN-SUFFIX,goodreaders.com,FSCloud'
+    - 'DOMAIN-SUFFIX,goodreads.com,FSCloud'
+    - 'DOMAIN-SUFFIX,gravatar.com,FSCloud'
+    - 'DOMAIN-SUFFIX,gstatic.com,FSCloud'
+    - 'DOMAIN-SUFFIX,gvt0.com,FSCloud'
+    - 'DOMAIN-SUFFIX,hockeyapp.net,FSCloud'
+    - 'DOMAIN-SUFFIX,hotmail.com,FSCloud'
+    - 'DOMAIN-SUFFIX,icons8.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ifixit.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ift.tt,FSCloud'
+    - 'DOMAIN-SUFFIX,ifttt.com,FSCloud'
+    - 'DOMAIN-SUFFIX,iherb.com,FSCloud'
+    - 'DOMAIN-SUFFIX,imageshack.us,FSCloud'
+    - 'DOMAIN-SUFFIX,img.ly,FSCloud'
+    - 'DOMAIN-SUFFIX,imgur.com,FSCloud'
+    - 'DOMAIN-SUFFIX,imore.com,FSCloud'
+    - 'DOMAIN-SUFFIX,instapaper.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ipn.li,FSCloud'
+    - 'DOMAIN-SUFFIX,is.gd,FSCloud'
+    - 'DOMAIN-SUFFIX,issuu.com,FSCloud'
+    - 'DOMAIN-SUFFIX,itgonglun.com,FSCloud'
+    - 'DOMAIN-SUFFIX,itun.es,FSCloud'
+    - 'DOMAIN-SUFFIX,ixquick.com,FSCloud'
+    - 'DOMAIN-SUFFIX,j.mp,FSCloud'
+    - 'DOMAIN-SUFFIX,js.revsci.net,FSCloud'
+    - 'DOMAIN-SUFFIX,jshint.com,FSCloud'
+    - 'DOMAIN-SUFFIX,jtvnw.net,FSCloud'
+    - 'DOMAIN-SUFFIX,justgetflux.com,FSCloud'
+    - 'DOMAIN-SUFFIX,kat.cr,FSCloud'
+    - 'DOMAIN-SUFFIX,klip.me,FSCloud'
+    - 'DOMAIN-SUFFIX,libsyn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,linkedin.com,FSCloud'
+    - 'DOMAIN-SUFFIX,line-apps.com,FSCloud'
+    - 'DOMAIN-SUFFIX,linode.com,FSCloud'
+    - 'DOMAIN-SUFFIX,lithium.com,FSCloud'
+    - 'DOMAIN-SUFFIX,littlehj.com,FSCloud'
+    - 'DOMAIN-SUFFIX,live.com,FSCloud'
+    - 'DOMAIN-SUFFIX,live.net,FSCloud'
+    - 'DOMAIN-SUFFIX,livefilestore.com,FSCloud'
+    - 'DOMAIN-SUFFIX,llnwd.net,FSCloud'
+    - 'DOMAIN-SUFFIX,macid.co,FSCloud'
+    - 'DOMAIN-SUFFIX,macromedia.com,FSCloud'
+    - 'DOMAIN-SUFFIX,macrumors.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mashable.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mathjax.org,FSCloud'
+    - 'DOMAIN-SUFFIX,medium.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mega.co.nz,FSCloud'
+    - 'DOMAIN-SUFFIX,mega.nz,FSCloud'
+    - 'DOMAIN-SUFFIX,megaupload.com,FSCloud'
+    - 'DOMAIN-SUFFIX,microsofttranslator.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mindnode.com,FSCloud'
+    - 'DOMAIN-SUFFIX,mobile01.com,FSCloud'
+    - 'DOMAIN-SUFFIX,modmyi.com,FSCloud'
+    - 'DOMAIN-SUFFIX,msedge.net,FSCloud'
+    - 'DOMAIN-SUFFIX,myfontastic.com,FSCloud'
+    - 'DOMAIN-SUFFIX,name.com,FSCloud'
+    - 'DOMAIN-SUFFIX,nextmedia.com,FSCloud'
+    - 'DOMAIN-SUFFIX,nsstatic.net,FSCloud'
+    - 'DOMAIN-SUFFIX,nssurge.com,FSCloud'
+    - 'DOMAIN-SUFFIX,nyt.com,FSCloud'
+    - 'DOMAIN-SUFFIX,nytimes.com,FSCloud'
+    - 'DOMAIN-SUFFIX,omnigroup.com,FSCloud'
+    - 'DOMAIN-SUFFIX,onedrive.com,FSCloud'
+    - 'DOMAIN-SUFFIX,onenote.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ooyala.com,FSCloud'
+    - 'DOMAIN-SUFFIX,openvpn.net,FSCloud'
+    - 'DOMAIN-SUFFIX,openwrt.org,FSCloud'
+    - 'DOMAIN-SUFFIX,orkut.com,FSCloud'
+    - 'DOMAIN-SUFFIX,osxdaily.com,FSCloud'
+    - 'DOMAIN-SUFFIX,outlook.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ow.ly,FSCloud'
+    - 'DOMAIN-SUFFIX,paddleapi.com,FSCloud'
+    - 'DOMAIN-SUFFIX,parallels.com,FSCloud'
+    - 'DOMAIN-SUFFIX,parse.com,FSCloud'
+    - 'DOMAIN-SUFFIX,pdfexpert.com,FSCloud'
+    - 'DOMAIN-SUFFIX,periscope.tv,FSCloud'
+    - 'DOMAIN-SUFFIX,pinboard.in,FSCloud'
+    - 'DOMAIN-SUFFIX,pinterest.com,FSCloud'
+    - 'DOMAIN-SUFFIX,pixelmator.com,FSCloud'
+    - 'DOMAIN-SUFFIX,pixiv.net,FSCloud'
+    - 'DOMAIN-SUFFIX,playpcesor.com,FSCloud'
+    - 'DOMAIN-SUFFIX,playstation.com,FSCloud'
+    - 'DOMAIN-SUFFIX,playstation.com.hk,FSCloud'
+    - 'DOMAIN-SUFFIX,playstation.net,FSCloud'
+    - 'DOMAIN-SUFFIX,playstationnetwork.com,FSCloud'
+    - 'DOMAIN-SUFFIX,pushwoosh.com,FSCloud'
+    - 'DOMAIN-SUFFIX,rime.im,FSCloud'
+    - 'DOMAIN-SUFFIX,servebom.com,FSCloud'
+    - 'DOMAIN-SUFFIX,sfx.ms,FSCloud'
+    - 'DOMAIN-SUFFIX,shadowsocks.org,FSCloud'
+    - 'DOMAIN-SUFFIX,sharethis.com,FSCloud'
+    - 'DOMAIN-SUFFIX,shazam.com,FSCloud'
+    - 'DOMAIN-SUFFIX,skype.com,FSCloud'
+    - 'DOMAIN-SUFFIX,smartdnsFSCloud.com,FSCloud'
+    - 'DOMAIN-SUFFIX,smartmailcloud.com,FSCloud'
+    - 'DOMAIN-SUFFIX,sndcdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,sony.com,FSCloud'
+    - 'DOMAIN-SUFFIX,soundcloud.com,FSCloud'
+    - 'DOMAIN-SUFFIX,sourceforge.net,FSCloud'
+    - 'DOMAIN-SUFFIX,spotify.com,FSCloud'
+    - 'DOMAIN-SUFFIX,squarespace.com,FSCloud'
+    - 'DOMAIN-SUFFIX,sstatic.net,FSCloud'
+    - 'DOMAIN-SUFFIX,st.luluku.pw,FSCloud'
+    - 'DOMAIN-SUFFIX,stackoverflow.com,FSCloud'
+    - 'DOMAIN-SUFFIX,startpage.com,FSCloud'
+    - 'DOMAIN-SUFFIX,staticflickr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,steamcommunity.com,FSCloud'
+    - 'DOMAIN-SUFFIX,symauth.com,FSCloud'
+    - 'DOMAIN-SUFFIX,symcb.com,FSCloud'
+    - 'DOMAIN-SUFFIX,symcd.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tapbots.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tapbots.net,FSCloud'
+    - 'DOMAIN-SUFFIX,tdesktop.com,FSCloud'
+    - 'DOMAIN-SUFFIX,techcrunch.com,FSCloud'
+    - 'DOMAIN-SUFFIX,techsmith.com,FSCloud'
+    - 'DOMAIN-SUFFIX,thepiratebay.org,FSCloud'
+    - 'DOMAIN-SUFFIX,theverge.com,FSCloud'
+    - 'DOMAIN-SUFFIX,time.com,FSCloud'
+    - 'DOMAIN-SUFFIX,timeinc.net,FSCloud'
+    - 'DOMAIN-SUFFIX,tiny.cc,FSCloud'
+    - 'DOMAIN-SUFFIX,tinypic.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tmblr.co,FSCloud'
+    - 'DOMAIN-SUFFIX,todoist.com,FSCloud'
+    - 'DOMAIN-SUFFIX,trello.com,FSCloud'
+    - 'DOMAIN-SUFFIX,trustasiassl.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tumblr.co,FSCloud'
+    - 'DOMAIN-SUFFIX,tumblr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tweetdeck.com,FSCloud'
+    - 'DOMAIN-SUFFIX,tweetmarker.net,FSCloud'
+    - 'DOMAIN-SUFFIX,twitch.tv,FSCloud'
+    - 'DOMAIN-SUFFIX,txmblr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,typekit.net,FSCloud'
+    - 'DOMAIN-SUFFIX,ubertags.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ublock.org,FSCloud'
+    - 'DOMAIN-SUFFIX,ubnt.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ulyssesapp.com,FSCloud'
+    - 'DOMAIN-SUFFIX,urchin.com,FSCloud'
+    - 'DOMAIN-SUFFIX,usertrust.com,FSCloud'
+    - 'DOMAIN-SUFFIX,v.gd,FSCloud'
+    - 'DOMAIN-SUFFIX,v2ex.com,FSCloud'
+    - 'DOMAIN-SUFFIX,vimeo.com,FSCloud'
+    - 'DOMAIN-SUFFIX,vimeocdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,vine.co,FSCloud'
+    - 'DOMAIN-SUFFIX,vivaldi.com,FSCloud'
+    - 'DOMAIN-SUFFIX,vox-cdn.com,FSCloud'
+    - 'DOMAIN-SUFFIX,vsco.co,FSCloud'
+    - 'DOMAIN-SUFFIX,vultr.com,FSCloud'
+    - 'DOMAIN-SUFFIX,w.org,FSCloud'
+    - 'DOMAIN-SUFFIX,w3schools.com,FSCloud'
+    - 'DOMAIN-SUFFIX,webtype.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wikiwand.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wikileaks.org,FSCloud'
+    - 'DOMAIN-SUFFIX,wikimedia.org,FSCloud'
+    - 'DOMAIN-SUFFIX,wikipedia.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wikipedia.org,FSCloud'
+    - 'DOMAIN-SUFFIX,windows.com,FSCloud'
+    - 'DOMAIN-SUFFIX,windows.net,FSCloud'
+    - 'DOMAIN-SUFFIX,wire.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wordpress.com,FSCloud'
+    - 'DOMAIN-SUFFIX,workflowy.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wp.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wsj.com,FSCloud'
+    - 'DOMAIN-SUFFIX,wsj.net,FSCloud'
+    - 'DOMAIN-SUFFIX,xda-developers.com,FSCloud'
+    - 'DOMAIN-SUFFIX,xeeno.com,FSCloud'
+    - 'DOMAIN-SUFFIX,xiti.com,FSCloud'
+    - 'DOMAIN-SUFFIX,yahoo.com,FSCloud'
+    - 'DOMAIN-SUFFIX,yimg.com,FSCloud'
+    - 'DOMAIN-SUFFIX,ying.com,FSCloud'
+    - 'DOMAIN-SUFFIX,yoyo.org,FSCloud'
+    - 'DOMAIN-SUFFIX,ytimg.com,FSCloud'
+    - 'DOMAIN-SUFFIX,telegra.ph,FSCloud'
+    - 'DOMAIN-SUFFIX,telegram.org,FSCloud'
+    - 'IP-CIDR,91.108.4.0/22,FSCloud,no-resolve'
+    - 'IP-CIDR,91.108.8.0/21,FSCloud,no-resolve'
+    - 'IP-CIDR,91.108.16.0/22,FSCloud,no-resolve'
+    - 'IP-CIDR,91.108.56.0/22,FSCloud,no-resolve'
+    - 'IP-CIDR,149.154.160.0/20,FSCloud,no-resolve'
+    - 'IP-CIDR6,2001:67c:4e8::/48,FSCloud,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23d::/48,FSCloud,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23f::/48,FSCloud,no-resolve'
+    - 'IP-CIDR,120.232.181.162/32,FSCloud,no-resolve'
+    - 'IP-CIDR,120.241.147.226/32,FSCloud,no-resolve'
+    - 'IP-CIDR,120.253.253.226/32,FSCloud,no-resolve'
+    - 'IP-CIDR,120.253.255.162/32,FSCloud,no-resolve'
+    - 'IP-CIDR,120.253.255.34/32,FSCloud,no-resolve'
+    - 'IP-CIDR,120.253.255.98/32,FSCloud,no-resolve'
+    - 'IP-CIDR,180.163.150.162/32,FSCloud,no-resolve'
+    - 'IP-CIDR,180.163.150.34/32,FSCloud,no-resolve'
+    - 'IP-CIDR,180.163.151.162/32,FSCloud,no-resolve'
+    - 'IP-CIDR,180.163.151.34/32,FSCloud,no-resolve'
+    - 'IP-CIDR,203.208.39.0/24,FSCloud,no-resolve'
+    - 'IP-CIDR,203.208.40.0/24,FSCloud,no-resolve'
+    - 'IP-CIDR,203.208.41.0/24,FSCloud,no-resolve'
+    - 'IP-CIDR,203.208.43.0/24,FSCloud,no-resolve'
+    - 'IP-CIDR,203.208.50.0/24,FSCloud,no-resolve'
+    - 'IP-CIDR,220.181.174.162/32,FSCloud,no-resolve'
+    - 'IP-CIDR,220.181.174.226/32,FSCloud,no-resolve'
+    - 'IP-CIDR,220.181.174.34/32,FSCloud,no-resolve'
+    - 'DOMAIN,injections.adguard.org,DIRECT'
+    - 'DOMAIN,local.adguard.org,DIRECT'
+    - 'DOMAIN-SUFFIX,local,DIRECT'
+    - 'IP-CIDR,127.0.0.0/8,DIRECT'
+    - 'IP-CIDR,172.16.0.0/12,DIRECT'
+    - 'IP-CIDR,192.168.0.0/16,DIRECT'
+    - 'IP-CIDR,10.0.0.0/8,DIRECT'
+    - 'IP-CIDR,17.0.0.0/8,DIRECT'
+    - 'IP-CIDR,100.64.0.0/10,DIRECT'
+    - 'IP-CIDR,224.0.0.0/4,DIRECT'
+    - 'IP-CIDR6,fe80::/10,DIRECT'
+    - 'DOMAIN-SUFFIX,cn,DIRECT'
+    - 'DOMAIN-KEYWORD,-cn,DIRECT'
+    - 'GEOIP,CN,DIRECT'
+    - 'MATCH,FSCloud'
+
+
+# dns:
+#   enable: true
+#   ipv6: false
+#   default-nameserver: [223.5.5.5, 119.29.29.29]
+#   enhanced-mode: fake-ip
+#   fake-ip-range: 198.18.0.1/16
+#   use-hosts: true
+#   nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+#   fallback: ['https://doh.dns.sb/dns-query', 'https://dns.cloudflare.com/dns-query', 'https://dns.twnic.tw/dns-query', 'tls://8.8.4.4:853']
+#   fallback-filter: { geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32] }
+
+# proxies:
+#   - name: 'JP日本001 两元店.com'
+#     type: trojan
+#     server: jp.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: 'JP日本002'
+#     type: trojan
+#     server: jp.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: 'JP日本003'
+#     type: trojan
+#     server: jp.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+
+#   - name: HK香港流媒体节点001
+#     type: trojan
+#     server: hkjs.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: HK香港流媒体节点002
+#     type: trojan
+#     server: hkjs.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: HK香港流媒体节点003
+#     type: trojan
+#     server: hkjs.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: SG新加坡002
+#     type: trojan
+#     server: sg.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+#   - name: USA美国002
+#     type: trojan
+#     server: usa.lydurlclub.top
+#     port: 443
+#     password: 2b784540-fdcd-4a8b-bef2-e3d1a96fcbd0
+#     udp: true
+
+
+
+# proxy-groups:
+#   - name: 'Auto - SG'
+#     type: url-test
+#     proxies:
+#       - SG新加坡002
+#       - USA美国002
+#     url: 'http://www.gstatic.com/generate_204'
+#     interval: 300
+
+
+# rules:
+#   # 添加内网直连规则
+#   - IP-CIDR,10.0.0.0/8,DIRECT
+#   - IP-CIDR,172.16.0.0/12,DIRECT
+#   - IP-CIDR,192.168.0.0/16,DIRECT
+#   - IP-CIDR,127.0.0.0/8,DIRECT
+#   - IP-CIDR,100.64.0.0/10,DIRECT
+#   - IP-CIDR,224.0.0.0/4,DIRECT
+#   # 局域网直连
+#   - DOMAIN-SUFFIX,local,DIRECT
+#   - DOMAIN-SUFFIX,localhost,DIRECT
+#   # 最后的默认规则
+#   - MATCH,Auto - SG(base)

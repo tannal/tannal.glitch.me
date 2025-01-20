@@ -1,5 +1,34 @@
 
+# 2025-01-20
+
+
+Text-to-Video
+VideoPoet (multiframe) - 24.1%
+Runway Gen 3 (i2v)    - 18.4%
+Lumiere (multiframe)  - 18.2%
+VideoPoet (i2v)       - 18.0%
+Lumiere (i2v)        - 17.1%
+Stable Video Diffusion- 13.5%
+Pika 1.0 (i2v)       - 9.5%
+Sora (i2v)           - 8.7%
+
+uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+uv pip install transformers accelerate safetensors
+
+CLIF -> legalization -> mid-end egraph rewrites -> lowering -> regalloc -> binary emission
+
 # 2025-01-19 2
+
+rustc_codegen_cranelift
+
+```bash
+Get-Process *StartMenuExperienceHost* | Stop-Process -Force
+Get-Process *YourPhone* | Stop-Process -Force
+Get-Process *PCManager* | Stop-Process -Force
+
+Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+```
 
 # 2025-01-18 2
 

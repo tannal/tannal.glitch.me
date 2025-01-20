@@ -31,11 +31,16 @@ involves:cfallin
 
 # dev
 
+## cranelift
+
+cargo run -- test .\filetests\filetests\isa\aarch64\arithmetic.clif
 
 
 # community
 
 https://bytecodealliance.zulipchat.com/#narrow/stream/352111-warg
+
+https://www.youtube.com/watch?v=ilhSdmv6bAY&t=257s
 
 # setup
 

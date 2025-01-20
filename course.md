@@ -76,6 +76,20 @@ OOP
 
 解释器和JIT编译器
 
+讲一下构建系统和依赖管理
+
+C/C++ m4 autoconf Makefile CMake Meson xmake
+Rust Cargo
+Java/JVM Maven/Gradle
+Python UV/pyproject
+Javascript/Typescript webpack/vite/rolldown/oxc
+
+Rust cranelift
+https://www.youtube.com/watch?v=ilhSdmv6bAY&t=257s
+c/c++ GNU/LLVM/Microsoft
+
+ABI System-V/Apple/GNU/Microsoft
+
 显式中间代码语言 Java Python JavaScript Python Julia R ...
 
 Cliff Click的博士论文还有他的报告和Simple Sea of Nodes IR（同样用在V8的优化编译器里面）
@@ -114,6 +128,11 @@ Jserv老师的
 
 ## 第五课 存储
 
+File System
+
+CMU Database Group
+Postgresql
+
 ## 第六课 硬件系统 & 并行与分布式
 
 
@@ -147,7 +166,8 @@ CPU Memory flash
 
 ## 第八课 工具使用 效率 文档
 
-键盘打字，人体工学键盘
+键盘打字
+人体工学键盘
 椅子
 脖子
 办公桌
