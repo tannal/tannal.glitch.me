@@ -1,6 +1,180 @@
 
 # 2025-01-20
 
+Vscode
+https://bjansen.github.io/scoop-apps/extras/vscode/?query=doyin
+
+scoop - Google 搜索
+https://www.google.com/search?q=scoop&sca_esv=ea0d4eb3289e42cf&ei=qLKMZ96EKemU0PEPp-2I-AM&ved=0ahUKEwje-PiIqoGLAxVpCjQIHac2Aj8Q4dUDCBA&uact=5&oq=winget+install+%E7%88%B1%E5%A5%87%E8%89%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiGHdpbmdldCBpbnN0YWxsIOeIseWlh-iJujIKEAAYgAQYQxiKBTIKEC4YgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyChAAGIAEGEMYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyBRAAGIAEMgoQABiABBhDGIoFMgUQABiABEiNZVAAWABwAngAkAEBmAGpBqAB_A6qAQU1LTIuMbgBA8gBAJgCBKAC3AjCAgsQABiABBiwAxiiBMICCBAAGLADGO8FwgILEAAYsAMYogQYiQWYAwCIBgGQBgWSBwUyLjQtMqAHmA0&sclient=gws-wiz-serp
+
+Scoop - Apps (clang)
+https://scoop.sh/#/apps?q=clang
+
+Getting started - Rust Programming Language
+https://www.rust-lang.org/learn/get-started
+
+harvard - Google 搜索
+https://www.google.com/search?q=harvard&oq=harvard&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIPCAIQLhhDGNQCGIAEGIoFMg8IAxAuGEMY1AIYgAQYigUyDwgEEC4YQxjUAhiABBiKBTIPCAUQLhhDGNQCGIAEGIoFMgcIBhAuGIAEMg0IBxAuGMcBGNEDGIAEMg0ICBAuGMcBGNEDGIAE0gEIMTY2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Latest supported Visual C++ Redistributable downloads | Microsoft Learn
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+installation - How to install llvm on Windows? - Stack Overflow
+https://stackoverflow.com/questions/76862060/how-to-install-llvm-on-windows
+
+Install 爱奇艺 with winget - winstall
+https://winstall.app/apps/iQIYI.iQIYI
+
+Install 优酷 with winget - winstall
+https://winstall.app/apps/Youku.Youku
+
+Releases · MetaCubeX/mihomo · GitHub
+https://github.com/MetaCubeX/mihomo/releases
+
+Typing Practice
+https://www.keybr.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+192.168.25.27:8081/active/inbox.md
+http://192.168.25.27:8081/active/inbox.md
+
+游戏下载-VALORANT《无畏契约》官方网站-腾讯游戏
+https://val.qq.com/download.html
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+openjdk8 is missing · Issue #2771 · ScoopInstaller/Scoop
+https://github.com/ScoopInstaller/Scoop/issues/2771
+
+Install nodejs > Error 1304 · Issue #847 · ScoopInstaller/Scoop
+https://github.com/ScoopInstaller/Scoop/issues/847
+
+java 11 - How to install OpenJDK 11 on Windows? - Stack Overflow
+https://stackoverflow.com/questions/52511778/how-to-install-openjdk-11-on-windows
+
+tannal (tannal) · GitHub
+https://github.com/tannal
+
+ch01-Linux的安裝及操作 - YouTube
+https://www.youtube.com/watch?v=d3IPYGejLfo&list=PLMWkAn-aOA0bfxeNMp0auqV1OM-xEtqyG
+
+win10底部任务栏无反应鼠标一直转圈，系统假死
+https://edianyun.com/wenda_dnyj_bjb/1699.html
+
+win10 升级win11 - Google 搜索
+https://www.google.com/search?q=win10+%E5%8D%87%E7%BA%A7win11&oq=win10+%E5%8D%87%E7%BA%A7win11&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2NDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+[Python] Cannot install Python from scoop. · Issue #3973 · ScoopInstaller/Scoop
+https://github.com/ScoopInstaller/Scoop/issues/3973
+
+scoop install nodejs from a particular source - Google 搜索
+https://www.google.com/search?q=scoop+install+nodejs+from+a+particular+source&oq=scoop+install+nodejs+from+a+particular+source&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIODQzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Sign up to GitHub · GitHub
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header
+
+twitch - Google 搜索
+https://www.google.com/search?q=twitch&oq=twitch&gs_lcrp=EgZjaHJvbWUqDAgAEAAYQxiABBiKBTIMCAAQABhDGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyEggCEC4YQxjHARjRAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEC4YQxiABBiKBTIHCAYQLhiABDIHCAcQLhiABDIHCAgQABiABNIBCDQzMTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+精选特惠 上云无忧_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/Featured
+
+amd r7 - Google 搜索
+https://www.google.com/search?q=amd+r7&oq=amd+r7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzNTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+scoop install rustdesk - Google 搜索
+https://www.google.com/search?q=scoop+install+rustdesk&oq=scoop+install+rustdesk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEIMzYwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+GitHub - rustdesk/rustdesk: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+https://github.com/rustdesk/rustdesk
+
+kms 03k error code - Google 搜索
+https://www.google.com/search?q=kms+03k+error+code&oq=kms+03k+error+code&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ1MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+windows11 03k kms 错误 - Google 搜索
+https://www.google.com/search?q=windows11+03k+kms+%E9%94%99%E8%AF%AF&oq=windows11+03k+kms+%E9%94%99%E8%AF%AF&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCTMxNDk2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+192.168.73.27:8080/config.yaml
+http://192.168.73.27:8080/config.yaml
+
+Missing git-remote-hg on Windows 10? · Issue #296 · glandium/git-cinnabar
+https://github.com/glandium/git-cinnabar/issues/296
+
+Export Tabs URLs - Chrome 应用商店
+https://chromewebstore.google.com/detail/export-tabs-urls/jfcmbgcnangoalgpopaakignejjfpcmo
+
+Supabase | The Open Source Firebase Alternative
+https://supabase.com/
+
+GitHub - supabase/supabase: The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+https://github.com/supabase/supabase
+
+tailscale vpn - Google 搜索
+https://www.google.com/search?q=tailscale+vpn&sca_esv=0715a1f1b922b825&ei=6w2NZ5iVNtjB0PEP_uusgQU&oq=&gs_lp=Egxnd3Mtd2l6LXNlcnAiACoCCAAyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBSO3kAlAAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEA-AEBmAIBoAIGqAIKmAMG8QVSuDbhpVWW27oGBAgBGAeSBwExoAcA&sclient=gws-wiz-serp
+
+Discover — Bluesky
+https://bsky.app/
+
+industrial society and its future - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tZP1zc0MixMTzHJMWD0UszMSyktLinKTMxRKM5PzkwtqVRIzEtRyCwpVkgrLSktSgUAf5gQxA&q=industrial+society+and+its+future&oq=industrial+so&gs_lcrp=EgZjaHJvbWUqBwgCEC4YgAQyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDINCAcQLhjHARjRAxiABDIHCAgQABiABDIHCAkQABiABNIBCTE1ODcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+v8 cranelift backend - Google 搜索
+https://www.google.com/search?q=v8+cranelift+backend&sca_esv=f6da024592f419a4&ei=eJmNZ8iWC8GR0PEPr6KViA8&start=10&sa=N&sstk=ATObxK4A6bgDphdpoo16Fead8TmdsekK9TMeSMjYomdqWPLbN8v2PBOIz-nREAPClvLVzi_S1r_-xJVQv6OVTmXix9bKE4fykIjNcQ&ved=2ahUKEwjIsoiYhoOLAxXBCDQIHS9RBfEQ8tMDegQICBAE&biw=1454&bih=786&dpr=2.2
+
+Discover — Bluesky
+https://bsky.app/
+
+Discover — Bluesky
+https://bsky.app/
+
+Jitsi Meet
+https://meet.jit.si/
+
+Visualize data using graphs or charts · Issue #636 · typst/typst
+https://github.com/typst/typst/issues/636
+
+GitHub - cetz-package/cetz: CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+https://github.com/cetz-package/cetz
+
+Issues · glandium/git-cinnabar
+https://github.com/glandium/git-cinnabar/issues
+
+git-cinnabar windows - Google 搜索
+https://www.google.com/search?q=git-cinnabar+windows&oq=git-cinnabar+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDM0MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+特朗普重回白宫，TikTok恢复在美运营 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/c4gw2de85dno/simp
+
+GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+office 仓库-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=office+%E4%BB%93%E5%BA%93&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+GitHub - microsoft/v8-jsi: React Native V8 JSI adapter
+https://github.com/microsoft/v8-jsi
+
+Releases · HMCL-dev/HMCL
+https://github.com/HMCL-dev/HMCL
+
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 

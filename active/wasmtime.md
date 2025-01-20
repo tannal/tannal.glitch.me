@@ -7,6 +7,10 @@ Pulley - WebAssembly 解释器
 Winch - 另一个编译器实现
 WASI (WebAssembly System Interface)
 
+调试工具链优化
+GC (垃圾回收) 相关问题
+架构支持扩展
+
 node tools/eslint/node_modules/eslint/bin/eslint.js --cache --max-warnings=0 --report-unused-disable-directives eslint.config.mjs .\test\
 
 gh workflow run "CI" --ref ci
