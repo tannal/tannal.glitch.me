@@ -1,5 +1,9 @@
 # 2025-01-22
 
+C:\WINDOWS\system32>slmgr /skms kms.03k.org
+C:\WINDOWS\system32>slmgr /ato
+C:\WINDOWS\system32
+
 Breaking changes is the reason to not update
 Bug fix is the reasion to update
 
