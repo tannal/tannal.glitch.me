@@ -1,5 +1,8 @@
 # 2025-01-22
 
+Breaking changes is the reason to not update
+Bug fix is the reasion to update
+
 https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
 
 精髓在于你的 follow up 问题问的好不好
