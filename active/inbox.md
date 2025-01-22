@@ -1,4 +1,7 @@
 
+# 2025-01-21
+
+
 # 2025-01-20
 
 uv pip install modelscope modelscope[multi-modal] torch torchvision opencv-python decords
