@@ -4,6 +4,129 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+CSS Grid Layout Module Level 1
+https://www.w3.org/TR/css-grid-1/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+RSVP to Bun 1.2 Launch Party | Partiful
+https://partiful.com/e/L8AzZo0gIYsyhAEEmdzm?
+
+285840 – Bogus GC roots in environment on armv7/linux
+https://bugs.webkit.org/show_bug.cgi?id=285840
+
+Code search results
+https://github.com/search?q=repo%3Abluesky-social%2Findigo%20recommend&type=code
+
+Discover — Bluesky
+https://bsky.app/
+
+Jobs - Bluesky
+https://bsky.social/about/join
+
+Backend Go Developer - Data Infrastructure
+https://jobs.gem.com/bluesky/am9icG9zdDojUfV5u9SSp_tydYRdQe9D
+
+"bluesky dosen't have an algorithm" so what is the discover tab? : r/BlueskySocial
+https://www.reddit.com/r/BlueskySocial/comments/1g9zzca/bluesky_dosent_have_an_algorithm_so_what_is_the/
+
+Goodfeeds
+https://goodfeeds.co/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Collaboration - Zed
+https://zed.dev/docs/collaboration
+
+Xerox - Wikipedia
+https://en.wikipedia.org/wiki/Xerox
+
+285840 – Bogus GC roots in environment on armv7/linux
+https://bugs.webkit.org/show_bug.cgi?id=285840
+
+Coldplay - Hymn For The Weekend | Piano cover - YouTube
+https://www.youtube.com/watch?v=LDd6uxiCN18
+
+Home / X
+https://x.com/home
+
+Mego Tan: "build-your-own.org/blog/2024081..." — Bluesky
+https://bsky.app/profile/tannal.github.io/post/3le4hsb3mhc2f
+
+tannal (tannal)
+https://github.com/tannal
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+native-watchdog - Google 搜索
+https://www.google.com/search?q=native-watchdog&rlz=1C1GCEA_enJP1090JP1090&oq=native-watchdog&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzU2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+vscode-windows-registry/src/winregistry.cc at main · microsoft/vscode-windows-registry
+https://github.com/microsoft/vscode-windows-registry/blob/main/src/winregistry.cc
+
+Discover — Bluesky
+https://bsky.app/
+
+CSS finally adds vertical centering in 2024 | Blog | build-your-own.org
+https://build-your-own.org/blog/20240813_css_vertical_center/
+
+Tannal
+https://tannall.deno.dev/blog
+
+World of Seven - Steven Halim's Personal Website
+https://www.comp.nus.edu.sg/~stevenha/
+
+Competitive Programming Book
+https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
+
+Right-of-Way – Kattis, Kattis
+https://open.kattis.com/problems/vajningsplikt
+
+Moscow Dream – Kattis, Kattis
+https://open.kattis.com/problems/moscowdream
+
+kattis-cli/submit.py at master · Kattis/kattis-cli
+https://github.com/Kattis/kattis-cli/blob/master/submit.py
+
+bestK/cursor-fake-machine
+https://github.com/bestK/cursor-fake-machine
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Code search results
+https://github.com/search?q=repo%3Abluesky-social%2Ffeed-generator%20like&type=code
+
+Code search results
+https://github.com/search?q=repo%3Abluesky-social%2Ffeed-generator%20algorithm&type=code
+
+Popular Feed Generator github - Google 搜索
+https://www.google.com/search?q=Popular+Feed+Generator+github&rlz=1C1GCEA_enJP1090JP1090&oq=Popular+Feed+Generator+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI0MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+搜广推-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E6%90%9C%E5%B9%BF%E6%8E%A8&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+chore: Bump taffy to 0.5.2 (#18729) · zed-industries/zed@a99750f
+https://github.com/zed-industries/zed/commit/a99750fd35ef4f44409f474228285b1842c1b7d3
+
+Home / X
+https://x.com/home
+
+Repo Issues
+https://github.com/ScoopInstaller/Scoop/issues?q=is%3Aissue%20state%3Aopen%20discord%20update
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Compilers in Rust: Understanding Cranelift’s (ISLE) lowering rules (Part 2) - YouTube
 https://www.youtube.com/watch?v=b8PWG5GrbB8&t=5s
 

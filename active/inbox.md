@@ -1,5 +1,29 @@
 # 2025-01-22
 
+https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
+
+精髓在于你的 follow up 问题问的好不好
+
+clang++ test.cc; Get-Content .\input.txt | .\a.exe
+
+纯原生：极致性能和体验
+React Native/Flutter：平衡性能和效率
+Hybrid/WebView：快速开发和迭代
+PWA：Web平台能力扩展
+
+13:00 起床
+13:30-14:30 午餐+准备
+14:30-17:00 个人时间/运动
+17:00-00:00 工作第一阶段（对应 PST 1:00-8:00）
+00:00-00:30 晚餐休息
+00:30-04:00 工作第二阶段（对应 PST 8:30-12:00）
+04:30 睡觉
+
+20:00 睡觉
+04:00 起床
+04:30-12:00 工作时间（对应 PST 12:30-20:00）
+12:00-20:00 生活时间
+
 Elastic: ElasticSearch开源 + Elastic Cloud服务
 MongoDB: 数据库开源 + Atlas云服务
 Redis: 开源 + Redis Enterprise
