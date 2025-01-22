@@ -586,7 +586,12 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-20 - 2025-1-27 冬
 
-- Donald Trump Monday
+[] Donald Trump Monday
+[] graphite
+[] performance
+[] firefox cookie off by one
+[x] <graphics> 12-31 morning reading slides from Standford https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
 
 # 2025-1-13 - 2025-1-20 冬 enconomy data week
 

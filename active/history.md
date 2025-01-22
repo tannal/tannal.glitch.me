@@ -1,4 +1,111 @@
 
+# 2025-01-22
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Compilers in Rust: Understanding Cranelift’s (ISLE) lowering rules (Part 2) - YouTube
+https://www.youtube.com/watch?v=b8PWG5GrbB8&t=5s
+
+Attack On Titan OST - Call of Silence (Ymir's Theme) - YouTube
+https://www.youtube.com/watch?v=buZcLljh9eI
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+wasmtime/crates/cranelift/src/gc/enabled/drc.rs at 2eb65138e9e0f331776d7d3747a47117f706d406 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/blob/2eb65138e9e0f331776d7d3747a47117f706d406/crates/cranelift/src/gc/enabled/drc.rs
+
+Issues · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Chrome Platform Status
+https://chromestatus.com/roadmap
+
+CSS Fonts Module Level 4
+https://drafts.csswg.org/css-fonts/#cssfontfeaturevaluesrule
+
+Web-Facing Change PSA: Expose CSSFontFeaturesValueRule
+https://groups.google.com/a/chromium.org/g/blink-dev/c/zqC2dYxKpQw
+
+GPU - Google 搜索
+https://www.google.com/search?q=GPU&rlz=1C1GCEA_enJP1090JP1090&oq=GPU&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHNDYzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+NVIDIA GeForce RTX 4090 - Google 搜索
+https://www.google.com/search?q=NVIDIA+GeForce+RTX+4090&rlz=1C1GCEA_enJP1090JP1090&oq=NVIDIA+GeForce+RTX+4090&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+lumiere-pytorch/lumiere_pytorch at main · lucidrains/lumiere-pytorch
+https://github.com/lucidrains/lumiere-pytorch/tree/main/lumiere_pytorch
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope · chromium/chromium@9d821a1
+https://github.com/chromium/chromium/commit/9d821a1e08753f8ec3c389e3bc8014f28595c90a
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Expose CSSFontFeaturesValueRule - Chrome Platform Status
+https://chromestatus.com/feature/6275972238934016?gate=5181189507514368
+
+tannal (tannal)
+https://github.com/tannal
+
+Coldplay - Hymn For The Weekend | Piano cover - YouTube
+https://www.youtube.com/watch?v=LDd6uxiCN18
+
+How browser paint box border
+https://tannal.github.io/p/how-browser-paint-box-border/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal (tannal)
+https://github.com/tannal/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+edgehtml chatracore - Google 搜索
+https://www.google.com/search?q=edgehtml+chatracore&rlz=1C1GCEA_enJP1090JP1090&oq=edgehtml+chatracore&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYzOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+EdgeHTML Chakra - Google 搜索
+https://www.google.com/search?q=EdgeHTML+Chakra&rlz=1C1GCEA_enJP1090JP1090&oq=EdgeHTML+Chakra&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ChakraCore Archives - Microsoft Edge Blog
+https://blogs.windows.com/msedgedev/tag/chakracore/
+
+Recapping yesterday’s Microsoft Edge and open source announcements - Microsoft Edge Blog
+https://blogs.windows.com/msedgedev/2018/12/07/recapping-open-source-announcements/
+
+Microsoft Edge: Making the web better through more open source collaboration | Windows Experience Blog
+https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/#GmSJg4uFjBM5y8Hz.97
+
+nativemodule - Google 搜索
+https://www.google.com/search?q=nativemodule+&sca_esv=741dc4f98c90c9c4&rlz=1C1GCEA_enJP1090JP1090&sxsrf=ADLYWIK2A0GO32HC8xmAmotqsaRr5aCT-A%3A1737378438152&ei=hkqOZ4mACdjN0PEP0fq1iAQ&ved=0ahUKEwiJ25WFr4SLAxXYJjQIHVF9DUEQ4dUDCBE&uact=5&oq=nativemodule+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDW5hdGl2ZW1vZHVsZSAyCBAAGIAEGMsBMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgYQABgKGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB5ImbKxKFCNrbEoWI2tsShwAHgCkAEAmAH-AaAB_gGqAQMyLTG4AQPIAQD4AQGYAgKgAogCwgIEEAAYR5gDAIgGAZAGAZIHBTEuMC4xoAfzBA&sclient=gws-wiz-serp
+
+native module-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=native%20module&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F&subType=0
+
+microsoft/do-client: Delivery Optimization client components
+https://github.com/microsoft/do-client
+
+llvm-project/libcxx/src/vector.cpp at main · llvm/llvm-project
+https://github.com/llvm/llvm-project/blob/main/libcxx/src/vector.cpp
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling - YouTube
+https://www.youtube.com/watch?v=mmO2Ri_dJkk&t=1059s
+
 # 2025-01-21
 
 
