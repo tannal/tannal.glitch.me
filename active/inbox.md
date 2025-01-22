@@ -1,5 +1,12 @@
-
 # 2025-01-22
+
+Elastic: ElasticSearch开源 + Elastic Cloud服务
+MongoDB: 数据库开源 + Atlas云服务
+Redis: 开源 + Redis Enterprise
+GitLab: 开源 + Enterprise Edition
+Bluesky: AT Protocol开源 + 托管服务
+
+我们不收费代码和程序，我们只收费运行起来的代码和进程,服务。
 
 https://goodfeeds.co/
 
