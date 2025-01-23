@@ -1,6 +1,10 @@
 
 # inbox
 
+affected:https://github.com/GraphiteEditor/Graphite
+https://github.com/WebAssembly/js-promise-integration
+https://github.com/WebAssembly/esm-integration
+
 emscripten
 
 gh repo set-default tannal/wasm-micro-runtime

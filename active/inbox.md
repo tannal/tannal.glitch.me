@@ -1,4 +1,58 @@
-# 2025-01-22
+
+# 2025-01-23 3
+
+clang++ -S -emit-llvm test.cc -o vtable_test.ll
+:: 先生成目标文件
+clang++ -c test.cc -o vtable_test.obj
+
+:: 查看目标文件信息
+llvm-readobj --all vtable_test.obj
+
+Free Software Foundation
+Mozilla Foundation
+
+先尝试精益创业，验证商业模式
+根据实际增长需求决定是否融资
+
+考虑其他融资方式（天使投资、众筹等）
+评估VC带来的机会和压力是否匹配团队目标
+保持财务健康是首要任务
+记住：不是所有成功的企业都需要VC，选择合适的发展路径比追求快速增长更重要。
+
+科技行业
+创意行业
+教育行业
+健康医疗
+可持续发展
+服务业
+文创产业
+社会企业
+体育产业
+金融服务
+
+Short-Term 栏目描述为 "Available anytime to be completed soon"
+Short Term 时间跨度：
+2-4周内可完成的任务
+通常是一个 Sprint（敏捷开发冲刺）周期内
+最长不超过一个季度（3个月）
+
+Short-Term: 2-4周
+
+Medium-Term: 1-3个月
+Long-Term: 3个月以上
+
+大型需求：每2-4周一个
+中型需求：每周1-2个
+小型修复：视情况而定
+
+# 2025-01-22 3
+
+Morris Weitz 的著名论文《美学理论的作用》(The Role of Theory in Aesthetics)
+
+企业盛衰 = f(技术创新, 市场适应, 管理决策, 竞争环境)
+
+这段话强调了个人成长和工作质量的密不可分性，以及持续改进的重要性。
+它反对"速成"或"捷径"的思维方式，强调整体性的自我提升。
 
 C:\WINDOWS\system32>slmgr /skms kms.03k.org
 C:\WINDOWS\system32>slmgr /ato
@@ -41,10 +95,10 @@ Bluesky: AT Protocol开源 + 托管服务
 
 https://goodfeeds.co/
 
-# 2025-01-21
+# 2025-01-21 2
 
 
-# 2025-01-20
+# 2025-01-20 2
 
 uv pip install modelscope modelscope[multi-modal] torch torchvision opencv-python decords
 

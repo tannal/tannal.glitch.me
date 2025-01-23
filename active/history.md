@@ -1,5 +1,505 @@
 
+# 2025-01-23
+
+Home / X
+https://x.com/home
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+James: "This just got merged. Looking forward to seeing this shipped in typescript 😍" — Bluesky
+https://bsky.app/profile/43081j.com/post/3lgfg23uws22a
+
+Graphite
+http://localhost:8080/
+
+Home / X
+https://x.com/home
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?pli=1&tab=t.0#heading=h.evjimzdnrevx
+
+CMU Database Group - YouTube
+https://www.youtube.com/@CMUDatabaseGroup/playlists
+
+Update developing.md to include "Install Rust and Cargo" as 1st step by williamli · Pull Request #60761 · vercel/next.js
+https://github.com/vercel/next.js/pull/60761
+
+TS2823 import attributes error when using node16 module · Issue #60507 · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/issues/60507
+
+Issues · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/issues
+
+Tannal
+https://tannall.deno.dev/posts/cs-foundation
+
+glapul
+https://github.com/glapul
+
+William Lin
+https://williamlin.io/
+
+CompetitiveProgramming/SPOJ/DYNACON1.cpp at master · tmwilliamlin168/CompetitiveProgramming
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SPOJ/DYNACON1.cpp
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+Link-Cut Tree - Google 搜索
+https://www.google.com/search?q=Link-Cut+Tree&oq=Link-Cut+Tree&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Steven Halim - Google 搜索
+https://www.google.com/search?q=Steven+Halim&oq=Steven+Halim&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+Petition: Codeforces should partner with OpenAI for AI participation in live contests - Codeforces
+https://codeforces.com/blog/entry/137551
+
+cs5460 Lectue 00 and 01: Logistics and Introduction - YouTube
+https://www.youtube.com/watch?v=lLwee3ElfyA
+
+Problem - E - Codeforces
+https://codeforces.com/contest/2042/problem/E
+
+Search - Codeforces
+https://codeforces.com/search
+
+VK Cup 2019-2020 — Elimination Round (Engine) and Codeforces Round #623 - Codeforces
+https://codeforces.com/blog/entry/74214
+
+Competitive Programming resources that I found useful (and you might too) : r/Btechtards
+https://www.reddit.com/r/Btechtards/comments/1dv6ttx/competitive_programming_resources_that_i_found/
+
+Competitive Programming Helper Extension for VS Code - Codeforces
+https://codeforces.com/blog/entry/71386
+
+Errichto Algorithms - YouTube
+https://www.youtube.com/@Errichto
+
+Competitive Programming Helper (cph) - Visual Studio Marketplace
+https://marketplace.visua+lstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper
+
+agrawal-d (Divyanshu Agrawal)
+https://github.com/agrawal-d
+
+Competitive Programming Helper (CPH) - VS Code extension
+https://agrawal-d.com/cph/
+
+competive programming openai o3 - Search / X
+https://x.com/search?q=competive%20programming%20openai%20o3&src=typed_query&f=top
+
+NoLeet.com - Tech Jobs Without LeetCode
+https://www.noleet.com/
+
+openai o3 "leetcode" - Google 搜索
+https://www.google.com/search?q=openai+o3+%22leetcode%22&sca_esv=5791a0164e19b13c&sxsrf=AHTn8zqwt6hXwrdpBnxNQyHBuijt2hLW5Q%3A1737637193008&ei=ST2SZ_AcgpyQ8g-Xio3YDA&ved=0ahUKEwiw5Yz98ouLAxUCDkQIHRdFA8sQ4dUDCBI&uact=5&oq=openai+o3+%22leetcode%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiFG9wZW5haSBvMyAibGVldGNvZGUiMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRIgxtQlARYyxZwAXgAkAEAmAHNAqABuAeqAQUyLTEuMrgBA8gBAPgBAZgCBKACywfCAggQABiwAxjvBcICCxAAGIAEGLADGKIEwgIFECEYoAGYAwCIBgGQBgWSBwcxLjAuMS4yoAfjBg&sclient=gws-wiz-serp
+
+Gennady Korotkevich on X: "Excited to work on making Devin smarter!" / X
+https://x.com/que_tourist/status/1866705352710033467
+
+搜索 — Bluesky
+https://bsky.app/search?q=noleet.com
+
+Christoph Kirsch
+https://github.com/cksystemsteaching
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?tab=t.0#heading=h.evjimzdnrevx
+
+EricLaw 🎻 (@ericlawrence.com) — Bluesky
+https://bsky.app/profile/ericlawrence.com
+
+Eric Lawrence
+https://ericlawrence.com/eric/
+
+Home / X
+https://x.com/home
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+James: "This just got merged. Looking forward to seeing this shipped in typescript 😍" — Bluesky
+https://bsky.app/profile/43081j.com/post/3lgfg23uws22a
+
+Graphite
+http://localhost:8080/
+
+Home / X
+https://x.com/home
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?pli=1&tab=t.0#heading=h.evjimzdnrevx
+
+CMU Database Group - YouTube
+https://www.youtube.com/@CMUDatabaseGroup/playlists
+
+Update developing.md to include "Install Rust and Cargo" as 1st step by williamli · Pull Request #60761 · vercel/next.js
+https://github.com/vercel/next.js/pull/60761
+
+TS2823 import attributes error when using node16 module · Issue #60507 · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/issues/60507
+
+Issues · microsoft/TypeScript
+https://github.com/microsoft/TypeScript/issues
+
+Tannal
+https://tannall.deno.dev/posts/cs-foundation
+
+glapul
+https://github.com/glapul
+
+William Lin
+https://williamlin.io/
+
+CompetitiveProgramming/SPOJ/DYNACON1.cpp at master · tmwilliamlin168/CompetitiveProgramming
+https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/SPOJ/DYNACON1.cpp
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+Link-Cut Tree - Google 搜索
+https://www.google.com/search?q=Link-Cut+Tree&oq=Link-Cut+Tree&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Steven Halim - Google 搜索
+https://www.google.com/search?q=Steven+Halim&oq=Steven+Halim&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMTI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+bqi343/cp-notebook: General Resources for Competitive Programming
+https://github.com/bqi343/cp-notebook
+
+Petition: Codeforces should partner with OpenAI for AI participation in live contests - Codeforces
+https://codeforces.com/blog/entry/137551
+
+cs5460 Lectue 00 and 01: Logistics and Introduction - YouTube
+https://www.youtube.com/watch?v=lLwee3ElfyA
+
+Problem - E - Codeforces
+https://codeforces.com/contest/2042/problem/E
+
+Search - Codeforces
+https://codeforces.com/search
+
+VK Cup 2019-2020 — Elimination Round (Engine) and Codeforces Round #623 - Codeforces
+https://codeforces.com/blog/entry/74214
+
+Competitive Programming resources that I found useful (and you might too) : r/Btechtards
+https://www.reddit.com/r/Btechtards/comments/1dv6ttx/competitive_programming_resources_that_i_found/
+
+Competitive Programming Helper Extension for VS Code - Codeforces
+https://codeforces.com/blog/entry/71386
+
+Errichto Algorithms - YouTube
+https://www.youtube.com/@Errichto
+
+Competitive Programming Helper (cph) - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper
+
+agrawal-d (Divyanshu Agrawal)
+https://github.com/agrawal-d
+
+Competitive Programming Helper (CPH) - VS Code extension
+https://agrawal-d.com/cph/
+
+competive programming openai o3 - Search / X
+https://x.com/search?q=competive%20programming%20openai%20o3&src=typed_query&f=top
+
+NoLeet.com - Tech Jobs Without LeetCode
+https://www.noleet.com/
+
+openai o3 "leetcode" - Google 搜索
+https://www.google.com/search?q=openai+o3+%22leetcode%22&sca_esv=5791a0164e19b13c&sxsrf=AHTn8zqwt6hXwrdpBnxNQyHBuijt2hLW5Q%3A1737637193008&ei=ST2SZ_AcgpyQ8g-Xio3YDA&ved=0ahUKEwiw5Yz98ouLAxUCDkQIHRdFA8sQ4dUDCBI&uact=5&oq=openai+o3+%22leetcode%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiFG9wZW5haSBvMyAibGVldGNvZGUiMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogRIgxtQlARYyxZwAXgAkAEAmAHNAqABuAeqAQUyLTEuMrgBA8gBAPgBAZgCBKACywfCAggQABiwAxjvBcICCxAAGIAEGLADGKIEwgIFECEYoAGYAwCIBgGQBgWSBwcxLjAuMS4yoAfjBg&sclient=gws-wiz-serp
+
+Gennady Korotkevich on X: "Excited to work on making Devin smarter!" / X
+https://x.com/que_tourist/status/1866705352710033467
+
+搜索 — Bluesky
+https://bsky.app/search?q=noleet.com
+
+Christoph Kirsch
+https://github.com/cksystemsteaching
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?tab=t.0#heading=h.evjimzdnrevx
+
+EricLaw 🎻 (@ericlawrence.com) — Bluesky
+https://bsky.app/profile/ericlawrence.com
+
+Eric Lawrence
+https://ericlawrence.com/eric/
+
+x.com/polynoamial/status/1881039073558806617
+https://x.com/polynoamial/status/1881039073558806617
+
+(1) Umar Jamil (@hkproj) / X
+https://x.com/hkproj
+
+YouTube
+https://www.youtube.com/watch?v=FINJ0zhdfQ0
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543
+
+x.com/search?q=stargate anthropic&src=typed_query
+https://x.com/search?q=stargate%20anthropic&src=typed_query
+
+Following — Bluesky
+https://bsky.app/
+
+Very Promising Linux Patch Optimizes TLB Flushes During Page Reclamation - Phoronix
+https://www.phoronix.com/news/Linux-Optimize-TLB-Flush-Reclaim
+
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&oq=nvidia+nasdaq&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwMjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+android cookbook github - Google 搜索
+https://www.google.com/search?q=android+cookbook+github&oq=android+cookbook+github&gs_lcrp=EgZjaHJvbWUyCggAEEUYExgeGDkyCQgBEAAYExiABDIICAIQABgTGB4yCAgDEAAYExgeMggIBBAAGBMYHjIICAUQABgTGB4yCAgGEAAYExgeMgoIBxAAGAgYExgeMgoICBAAGAgYExgeMgoICRAAGAgYExge0gEINjcxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+art-hack/Lectures-on-Android-Development
+https://github.com/art-hack/Lectures-on-Android-Development/tree/master
+
+Graphite | Codebase overview
+https://graphite.rs/volunteer/guide/codebase-overview/
+
+Graphite | Graphene
+https://graphite.rs/volunteer/guide/graphene/
+
+fnm - Google 搜索
+https://www.google.com/search?q=fnm&oq=fnm&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDISCAEQLhhDGMcBGNEDGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAuGIAEMgcICBAAGIAE0gEIMTY1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+牙周袋 - Google 搜索
+https://www.google.com/search?q=%E7%89%99%E5%91%A8%E8%A2%8B&sca_esv=1cb0409e6943169a&sxsrf=AHTn8zpQOMXrf5CuGsHAIH7UoOZlaKi0fA%3A1737559831109&ei=Fw-RZ4ScBOqA0PEPy7K5kQE&ved=0ahUKEwjEg4fk0omLAxVqADQIHUtZLhIQ4dUDCBA&uact=5&oq=%E7%89%99%E5%91%A8%E8%A2%8B&gs_lp=Egxnd3Mtd2l6LXNlcnAiCeeJmeWRqOiiizIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iWBVDKA1jKA3ABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgGgAhSYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+Schniz/fnm: 🚀 Fast and simple Node.js version manager, built in Rust
+https://github.com/Schniz/fnm#shell-setup
+
+Schniz/fnm: 🚀 Fast and simple Node.js version manager, built in Rust
+https://github.com/Schniz/fnm?tab=readme-ov-file#shell-setup
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+Following — Bluesky
+https://bsky.app/
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Graphite
+http://localhost:8080/
+
+Hiroyuki Sawano - Google 搜索
+https://www.google.com/search?q=Hiroyuki+Sawano&oq=Hiroyuki+Sawano&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMzU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+Following — Bluesky
+https://bsky.app/
+
+Houdini (software) - Wikipedia
+https://en.wikipedia.org/wiki/Houdini_(software)
+
+Houdini - 3D modeling, animation, VFX, look development, lighting and rendering | SideFX
+https://www.sidefx.com/
+
+GafferHQ
+https://github.com/GafferHQ
+
+WebAssembly/esm-integration: ECMAScript module integration
+https://github.com/WebAssembly/esm-integration
+
+WebAssembly/js-promise-integration: JavaScript Promise Integration
+https://github.com/WebAssembly/js-promise-integration
+
+Settings Sync in Visual Studio Code
+https://code.visualstudio.com/docs/editor/settings-sync
+
+Graphite
+http://localhost:8080/
+
+upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg
+https://upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg
+
+Home / X
+https://x.com/home
+
+Cal.com | Open Scheduling Infrastructure
+https://cal.com/zh-CN
+
+Graphite | Free online vector editor & procedural design tool
+https://graphite.rs/
+
+南充市 - Google 搜索
+https://www.google.com/search?q=%E5%8D%97%E5%85%85%E5%B8%82&oq=%E5%8D%97%E5%85%85%E5%B8%82&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwMDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#eim=CAEQBBoRMzYuOTE1OTgzODQxNDU3NTYiEjEwNS4zMTkyMzQ3MDIzNTg0Mw
+
+Log in to desktop app | Zulip
+https://auth.zulipchat.com/complete/github/?code=c686368faecc8449b245&state=NUv1bU5Ne24dkMCOzeTjzsk10CmXein9
+
+美团外卖基于GPU的向量检索系统实践 - 美团技术团队
+https://tech.meituan.com/2024/04/11/gpu-vector-retrieval-system-practice.html
+
+facebookresearch/faiss: A library for efficient similarity search and clustering of dense vectors.
+https://github.com/facebookresearch/faiss
+
+What’s New In Milvus 2.3 Beta - 10X faster with GPUs - Zilliz blog
+https://zilliz.com/blog/milvus-2-3-beta-new-features-and-updates
+
+Milvus: A Purpose-Built Vector Data Management System! (Li Liu) - YouTube
+https://www.youtube.com/watch?v=kIj-KKnC-PA&list=PLSE8ODhjZXjYVdJKka5g3xTKfPBITrxOu&index=9
+
 # 2025-01-22
+
+Shubham Saboo on X: "Run Deepseek R1 locally on your computer with thinking UI (100% free and without internet): https://t.co/0IvW4fOUC0" / X
+https://x.com/Saboo_Shubham_/status/1881906382896840947
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me
+
+Expose `Store` emitter to the outside world · Issue #7925 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues/7925
+
+Is there any design document for this repo? · Issue #1 · josephg/eg-walker-reference
+https://github.com/josephg/eg-walker-reference/issues/1
+
+Home / X
+https://x.com/home
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Getting started - Rust Programming Language
+https://www.rust-lang.org/learn/get-started
+
+Software Mansion: "Announcing React Native Reanimated 4 🐴 Long-awaited CSS Animations and Transitions support is here! ✨ Available now in Beta. Read more 👇" — Bluesky
+https://bsky.app/profile/swmansion.com/post/3lgba75gkwk2b
+
+Reanimated 4 is new, but also very familiar | by Krzysztof Magiera | Jan, 2025 | Software Mansion
+https://blog.swmansion.com/reanimated-4-is-new-but-also-very-familiar-b926dd59aa40
+
+Byron/dua-cli: View disk space usage and delete unwanted data, fast.
+https://github.com/Byron/dua-cli
+
+Developer Community
+https://developercommunity.visualstudio.com/VisualStudio/report?port=1025&fsid=844096a0-ce4a-46b5-a9e4-8db82fd10a71
+
+react-native-reanimated/packages/react-native-reanimated/src/animation/styleAnimation.ts at main · software-mansion/react-native-reanimated
+https://github.com/software-mansion/react-native-reanimated/blob/main/packages/react-native-reanimated/src/animation/styleAnimation.ts
+
+Following — Bluesky
+https://bsky.app/
+
+太阳朋克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E9%BE%90%E5%85%8B
+
+Moloch - Google 搜索
+https://www.google.com/search?q=Moloch&oq=Moloch&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Shubham Saboo on X: "Run Deepseek R1 locally on your computer with thinking UI (100% free and without internet): https://t.co/0IvW4fOUC0" / X
+https://x.com/Saboo_Shubham_/status/1881906382896840947
+
+GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+https://github.com/Shubhamsaboo/awesome-llm-apps
+
+Windows KMS激活 – 星林の小站
+https://blog.tfseek.top/index.php/2024/09/07/windows-kms%E6%BF%80%E6%B4%BB/
+
+KMS服务器排行榜,kms服务器排行
+https://www.kms.pub/rank.html
+
+Win10/11激活新方法出炉，依旧永久 · Issue #81 · TGSAN/CMWTAT_Digital_Edition
+https://github.com/TGSAN/CMWTAT_Digital_Edition/issues/81
+
+Microsoft Activation Scripts (MAS) | MAS
+https://massgrave.dev/
+
+GitHub - massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+https://github.com/massgravel/Microsoft-Activation-Scripts
+
+Latest supported Visual C++ Redistributable downloads | Microsoft Learn
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-microsoft-visual-c-redistributable-version
+
+Scoop
+https://scoop.sh/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Code search results
+https://github.com/search?q=showquestionMessage&type=code
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+scoop clean cache - Google 搜索
+https://www.google.com/search?q=scoop+clean+cache&oq=scoop+clean&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMzIwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ScoopInstaller/Scoop: A command-line installer for Windows.
+https://github.com/ScoopInstaller/Scoop
+
+openjdk/jfx: JavaFX mainline development
+https://github.com/openjdk/jfx?tab=readme-ov-file
+
+Building OpenJFX - Building OpenJFX - OpenJDK Wiki
+https://wiki.openjdk.org/display/OpenJFX/Building+OpenJFX
+
+[JDK-8325379] Refactor Glass classes to support both GL and Metal - Java Bug System
+https://bugs.openjdk.org/browse/JDK-8325379?filter=39543
+
+Bug Report
+https://bugreport.java.com/bugreport/
+
+Minecraft Forge
+https://github.com/MinecraftForge
+
+Minecraft Names
+https://mcp.thiakil.com/#/search
+
+cursor is owned by - Google 搜索
+https://www.google.com/search?q=cursor+is+owned+by&sca_esv=cb75dbb3c59e956c&sxsrf=ADLYWIJdhWeKgXKg0Pgz_bT9TQMjYa8Rjg%3A1737548332614&ei=LOKQZ_SaJarh0PEPjKKtoQo
+
+Donald Clarke: "What’s the right collective noun here? A grovel of billionaires?" — Bluesky
+https://bsky.app/profile/donaldcclarke.bsky.social/post/3lgcjksn6a22k
+
+Code search results
+https://github.com/search?q=repo%3Ajitsi%2Fjibri%20livekit&type=code
+
+zed/crates/text/src/operation_queue.rs at f0b5b0b4dfca4188779d1a1a057ea9b25644f41d · zed-industries/zed
+https://github.com/zed-industries/zed/blob/f0b5b0b4dfca4188779d1a1a057ea9b25644f41d/crates/text/src/operation_queue.rs#L4
+
+LiveKit
+https://github.com/livekit
+
+OperationQueue - Google 搜索
+https://www.google.com/search?q=OperationQueue&oq=OperationQueue&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Slava Egorov (@mraleph) / X
+https://x.com/mraleph/status/1881983190690373805/photo/1
+
+Home / X
+https://x.com/home
+
+Robert M. Pirsig - Google 搜索
+https://www.google.com/search?q=Robert+M.+Pirsig&oq=Robert+M.+Pirsig&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller · Issue #80 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/80
+
+Collaborative Text Editing with Eg-walker: Better, Faster, Smaller
+https://arxiv.org/pdf/2409.14252
 
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/

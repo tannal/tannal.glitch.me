@@ -557,11 +557,13 @@ igalia申请 deadline
 [] Chui realm plugin systems & layouting
 [] 研一下开始, AI实习开始投递
 
-# 2025-2-17 - 2025-2-24 冬夏秋
+# 2025-2-17 - 2025-2-24 冬
+
 
 [] choose class for next semester
 [] kai ti bao gao
 [] AI music
+[]
 
 # 2025-2-10 - 2025-2-17 冬 enconomy data week
 
@@ -579,28 +581,61 @@ https://blog.zulip.com/2024/10/09/google-summer-of-code-2024/
 
 https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
-# 2025-1-27 - 2025-2-3 冬
+# 2025-1-27 - 2025-2-3 冬 change
 
-- 1-29 Chinese New Year
--
+√ 1-29 Chinese New Year
+√
 
-# 2025-1-20 - 2025-1-27 冬
+# 2025-1-20 - 2025-1-27 冬 keep
 
-[] Donald Trump Monday
+√ update to windows 11 pro
+√ change all application installed from winget & scoop
+√ solve 5 problems on kattis
+√ revisited tannall.deno.dev
+√ fork cursor-fake-machine and patch it
+√ install discord slack cursor zulip
+√ build graphite from source
+[x] Donald Trump Monday
+https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
+[] cpbook problems
+[] leetcode problems
+[] leetcode div
+[] nowcoder div
 [] graphite
 [] performance
 [] firefox cookie off by one
 [x] <graphics> 12-31 morning reading slides from Standford https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
 
+## Sleep
+
+√ Wed-Thursday 00:00-10:00
+√ Tues-Wed 22:30-8:30
+√ Mon-Tues
+
+## Eat
+
+√ Thurs
+√ Wed
+√ Tues
+√ Mon
+
+
+## Sports
+
+## Social
+
+√ MC 4 people
+√ vodka-tellia 3 people
+√ 6 people nong
+√ family 4 people
+
+## Outlook
 
 # 2025-1-13 - 2025-1-20 冬 enconomy data week
-
-
 
 ## Sleep
 
 [] Sunday Night sleep 2:00 to 11:30 well it sucks
-
 
 ## Eat
 
