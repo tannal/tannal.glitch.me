@@ -4,6 +4,96 @@
 Home / X
 https://x.com/home
 
+deepseek v3 local - YouTube
+https://www.youtube.com/results?search_query=deepseek+v3+local
+
+Trae: An AI-powered IDE by ByteDance | Hacker News
+https://news.ycombinator.com/item?id=42799540
+
+Repo Issues
+https://github.com/ggerganov/llama.cpp/issues?q=is%3Aissue%20state%3Aopen%20deepseek
+
+deepseek-ai/awesome-deepseek-integration
+https://github.com/deepseek-ai/awesome-deepseek-integration
+
+Competitive Programming Helper (cph) - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper
+
+cph/docs/user-guide.md at main · agrawal-d/cph
+https://github.com/agrawal-d/cph/blob/main/docs/user-guide.md
+
+Contests – Kattis, Kattis
+https://open.kattis.com/contests
+
+Kattis
+https://github.com/Kattis
+
+wasm memory usage - Google 搜索
+https://www.google.com/search?q=wasm+memory+usage&oq=wasm+memory+usage&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Wasm needs a better memory management story · Issue #1397 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1397
+
+Up to 4GB of memory in WebAssembly · V8
+https://v8.dev/blog/4gb-wasm-memory
+
+inkscape/inkscape: Project Website: https://inkscape.org - Code Repository: https://gitlab.com/inkscape/inkscape - Draw freely. 🖌
+https://github.com/inkscape/inkscape?tab=readme-ov-file
+
+Inkscape / inkscape · GitLab
+https://gitlab.com/inkscape/inkscape
+
+Code search results
+https://github.com/search?q=repo%3AGraphiteEditor%2FGraphite%20inkscape&type=code
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues
+
+Graphite
+https://editor.graphite.rs/
+
+从 Windows PowerShell 5.1 迁移到 PowerShell 7 - PowerShell | Microsoft Learn
+https://learn.microsoft.com/zh-cn/powershell/scripting/whats-new/migrating-from-windows-powershell-51-to-powershell-7?view=powershell-7.4
+
+WebAssembly/spec: WebAssembly specification, reference interpreter, and test suite.
+https://github.com/WebAssembly/spec/
+
+exports for wasi_snapshot_preview1::fd_write in memory64 has 32 bit pointers · Issue #3594 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/3594
+
+tannal/tannal.glitch.me: Yet another place to put random thoughts.
+https://github.com/tannal/tannal.glitch.me/
+
+scoop install google meet - Google 搜索
+https://www.google.com/search?q=scoop+install+google+meet&oq=scoop+install+google+meet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBCDM3MjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+NeetCode's Hot Take Is SO Good - YouTube
+https://www.youtube.com/watch?v=1-hk3JaGlSU
+
+google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.
+https://github.com/google-ai-edge/mediapipe
+
+ECMAScript® 2025 Language Specification
+https://tc39.es/ecma262/
+
+uBlock Origin - Chrome 应用商店
+https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?pli=1
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com&pli=1
+
+YouTube
+https://www.youtube.com/
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Home / X
+https://x.com/home
+
 Settings | Cursor - The AI Code Editor
 https://www.cursor.com/settings
 
