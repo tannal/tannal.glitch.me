@@ -1,6 +1,8 @@
 
 # 2025-01-23 3
 
+如果我的背景并不是一块绿色的遮挡布，如何做到？需要AI么？有没有开源项目？
+
 clang++ -S -emit-llvm test.cc -o vtable_test.ll
 :: 先生成目标文件
 clang++ -c test.cc -o vtable_test.obj
