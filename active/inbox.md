@@ -1,6 +1,24 @@
 
 # 2025-01-23 3
 
+clang++ -std=c++17 test.cc -o test.exe
+
+Write-Host "`nRunning tests..."
+
+1..3 | ForEach-Object {
+    Write-Host "`nTest case $_ (input$_.txt):"
+    Write-Host "Input:"
+    Get-Content "input$_.txt"
+    Write-Host "Output:"
+    Get-Content "input$_.txt" | ./test.exe
+    Write-Host "------------------------"
+}
+
+因此对方可能在 UTC+1 时区（如中欧时间）
+
+Display List 方式在滚动时需要不断重新生成命令列表
+纹理方式可以直接移动已渲染的内容
+复合层方式让 GPU 直接处理位置变换
 
 uBlock Origin plugin
 

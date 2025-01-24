@@ -588,6 +588,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-20 - 2025-1-27 冬 keep
 
+√ LineBlender office hour
+
+
 √ update to windows 11 pro
 √ change all application installed from winget & scoop
 √ solve 5 problems on kattis
