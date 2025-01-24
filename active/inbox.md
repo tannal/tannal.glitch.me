@@ -2,6 +2,7 @@
 # 2025-01-24 2
 
 https://johnthickstun.com/
+https://openreview.net/forum?id=EBNJ33Fcrl
 
 对齐任务：已有乐谱，需要找到音频和乐谱的对应关系
 转录任务：没有乐谱，需要从音频直接生成乐谱
