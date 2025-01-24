@@ -1,5 +1,7 @@
 
 
+https://bugs.webkit.org/buglist.cgi?quicksearch=GoodFirstBug&list_id=11815556
+
 Maciej Stachowiak: One of the early contributors to WebKit and JavaScriptCore, playing a significant role in its development and direction.
 Geoffrey Garen: A long-time contributor to the JSC team, known for his work on performance improvements and architectural decisions.
 Filip Pizlo: Known for his work on optimizing JavaScriptCore, particularly in areas like garbage collection and just-in-time (JIT) compilation.

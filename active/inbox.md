@@ -1,6 +1,54 @@
 
 # 2025-01-24 2
 
+https://johnthickstun.com/
+
+对齐任务：已有乐谱，需要找到音频和乐谱的对应关系
+转录任务：没有乐谱，需要从音频直接生成乐谱
+
+- V8 JavaScript Engine (JavaScript引擎)
+- WebKit (浏览器引擎)
+- Skia (2D图形库)
+- BoringSSL (加密库)
+- Protocol Buffers (数据序列化)
+- WebRTC (实时通信)
+- ffmpeg (音视频处理)
+- libvpx (VP8/VP9编解码)
+- WebP (图像格式)
+- OpenH264 (视频编解码)
+- libyuv (图像处理)
+- Brotli (压缩算法)
+- Snappy (快速压缩/解压)
+- LevelDB (键值存储)
+- zlib (压缩库)
+- Devtools-Frontend (开发者工具)
+- Puppeteer (浏览器自动化)
+- Lighthouse (网站性能分析)
+- Material Components
+- Polymer
+- harfbuzz-ng (文本渲染)
+- FreeType (字体渲染)
+- TensorFlow Lite
+- MediaPipe
+- Compact Language Detector
+
+Learning is happening when you achieve a goal
+when you don't think you can do that
+along with the help with other people or tools or not
+
+also share goal with a bunch of people and achieve it together
+you will learn a lot from that
+
+语音识别
+目标检测
+
+https://bugs.webkit.org/buglist.cgi?quicksearch=GoodFirstBug&list_id=11815556
+
+https://cilium.slack.com/signup#/domain-signup
+https://cloud-native.slack.com/?redir=%2Fmessages%2FCHY2THYUU
+
+潜力比能力更重要
+当前能力比潜力更重要
 
 # 2025-01-23 3
 
@@ -19,7 +67,7 @@ Write-Host "`nRunning tests..."
 
 因此对方可能在 UTC+1 时区（如中欧时间）
 
-Display List 方式在滚动时需要不断重新生成命令列表
+Display List 方式在滚动时需要不断重
 纹理方式可以直接移动已渲染的内容
 复合层方式让 GPU 直接处理位置变换
 

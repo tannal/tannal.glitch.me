@@ -528,6 +528,8 @@ igalia申请出通知，google开源之夏deadline
 
 # 2025-5-5 - 2025-5-12 春
 
+[] FED interest rate
+
 # 2025-4-28 - 2025-5-5 春
 
 igalia申请 deadline
@@ -552,6 +554,7 @@ igalia申请 deadline
 
 # 2025-2-24 - 2025-3-3 春
 
+[] FED interest rate
 [] igalia Code Experience
 [] Google Summer Of Code
 [] Chui realm plugin systems & layouting
@@ -583,12 +586,30 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-27 - 2025-2-3 冬 change
 
+[] FED interest rate
+[]
+
 √ 1-29 Chinese New Year
 √
 
 # 2025-1-20 - 2025-1-27 冬 keep
 
+[] zulip flutter profile local timezone time show
+https://github.com/zulip/zulip-flutter/issues/292
+[] cpbook problems
+[] leetcode problems
+[] leetcode div
+[] nowcoder div
+[] graphite
+[] performance
+[] firefox cookie off by one
+
 √ LineBlender office hour
+√ watch AlphaGO Documentry
+√ watch Hinton talk
+√ setup flutter with scoop and jetbrian-toolbox
+√ graphite
+√
 
 
 √ update to windows 11 pro
@@ -600,13 +621,6 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 √ build graphite from source
 [x] Donald Trump Monday
 https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
-[] cpbook problems
-[] leetcode problems
-[] leetcode div
-[] nowcoder div
-[] graphite
-[] performance
-[] firefox cookie off by one
 [x] <graphics> 12-31 morning reading slides from Standford https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
 
 ## Sleep

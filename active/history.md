@@ -1,6 +1,147 @@
 
 # 2025-01-24
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Home / X
+https://x.com/home
+
+Right-of-Way – Kattis, Kattis
+https://open.kattis.com/problems/vajningsplikt
+
+Discover — Bluesky
+https://bsky.app/
+
+Umar Jamil on X: "So, Don’t learn SWE =&gt; AI will replace you Don’t learn AI =&gt; DeepSeek will replace you Learn Mandarin" / X
+https://x.com/hkproj/status/1882654257780019420
+
+美联储议息会议时间表_会议纪要_美联储 主席_美联储(FED)-汇通网
+https://bank.fx678.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=2&prefix=true&query=documentry&sort=byPopularity&type=story
+
+There goes all hope of Minecraft being released as open source. There was a blog... | Hacker News
+https://news.ycombinator.com/item?id=8318553
+
+Kayvon Fatahalian - YouTube
+https://www.youtube.com/results?search_query=Kayvon+Fatahalian
+
+Kayvon Fatahalian (@kayvonf) / X
+https://x.com/kayvonf
+
+profile: Display user's local time · Issue #292 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/292
+
+profile: Keep "current" local time current · Issue #293 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/293
+
+M3: Summer 2024 Milestone
+https://github.com/zulip/zulip-flutter/milestone/6
+
+イシュー · Inkscape / inkscape · GitLab
+https://gitlab.com/inkscape/inkscape/-/issues
+
+v8_initializer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/bindings/core/v8/v8_initializer.cc;l=926;drc=27d34700b83f381c62e3a348de2e6dfdc08364b8
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=soft&c=courses&dg=1
+
+Software Engineer Career Growth: TDD, Refactoring & Soft Skills | Frontend Masters
+https://frontendmasters.com/courses/dev-soft-skills/
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Software Engineer, UI - Anthropic Labs at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4495205008
+
+Job Application for Software Engineer, TypeScript at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4495074008
+
+DeepSeek
+https://github.com/deepseek-ai
+
+Josh W. Comeau (@JoshWComeau) / X
+https://x.com/JoshWComeau
+
+Myriad-Dreamin/shiroa: shiroa is a simple tool for creating modern online books in pure typst.
+https://github.com/Myriad-Dreamin/shiroa
+
+Home
+https://sagiriwiki.web.app/
+
+申請教程|日本第一張信用卡選哪家 - Sagiri's Forum
+https://sagiri.flarum.cloud/d/111-shen-qing-jiao-cheng-ri-ben-di-yi-zhang-xin-yong-qia-xuan-na-jia
+
+ghostty-org/ghostty: 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+https://github.com/ghostty-org/ghostty
+
+Linux Foundation slack - Google 搜索
+https://www.google.com/search?q=Linux+Foundation+slack&oq=Linux+Foundation+slack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE4MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+注册新帐户 | Slack
+https://cilium.slack.com/signup#/domain-signup
+
+Slack for ASF projects - Apache Infrastructure Website
+https://infra.apache.org/slack.html
+
+Mozilla Foundation slack - Google 搜索
+https://www.google.com/search?q=Mozilla+Foundation+slack&oq=Mozilla+Foundation+slack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEyMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+slack-go/slack: Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
+https://github.com/slack-go/slack
+
+revoltchat/android: Revolt Android app and internal API library
+https://github.com/revoltchat/android
+
+chat mozilla org - Google 搜索
+https://www.google.com/search?q=chat+mozilla+org&sca_esv=0cd5d31f344aa732&sxsrf=AHTn8zr7Eg4u0ReWntinYMx79OEcJ96ufg%3A1737706641016&ei=kUyTZ5Vc8s2Q8g_5pPjgBg&ved=0ahUKEwjV6L7Y9Y2LAxXyJkQIHXkSHmwQ4dUDCBA&uact=5&oq=chat+mozilla+org&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGNoYXQgbW96aWxsYSBvcmcyBBAAGB4yBRAAGO8FMggQABiABBiiBEjdB1AAWN4GcAB4AJABAJgBrAKgAdQHqgEHMC4xLjIuMbgBA8gBAPgBAZgCBKAC5QfCAgYQABgIGB7CAgYQABgFGB7CAggQABgIGAoYHpgDAJIHBzAuMS4yLjGgB_cI&sclient=gws-wiz-serp
+
+Bug List
+https://bugs.webkit.org/buglist.cgi?quicksearch=GoodFirstBug&list_id=11815556
+
+21638 – WebCore/page/FrameTree.cpp:find() dispatches form submissions to incorrect frame
+https://bugs.webkit.org/show_bug.cgi?id=21638
+
+Log in to Bugzilla
+https://bugs.webkit.org/show_bug.cgi?id=21638&GoAheadAndLogIn=1
+
+大模型面经-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%9D%A2%E7%BB%8F&type=all&searchType=%E8%81%94%E6%83%B3%E8%AF%8D
+
+大模型算法面经-京东_牛客网
+https://www.nowcoder.com/discuss/696466506158268416?sourceSSR=search
+
+Geoffrey Hinton talk "What is wrong with convolutional neural nets ?" - YouTube
+https://www.youtube.com/watch?v=rTawFwUvnLE
+
+Chrome Platform Status
+https://chromestatus.com/roadmap
+
+Expose CSSFontFeatureValuesRule to window scope · chromium/chromium@9d821a1
+https://github.com/chromium/chromium/commit/9d821a1e08753f8ec3c389e3bc8014f28595c90a
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/css-fonts/idlharness.html?label=master&label=experimental&aligned&q=css-fonts
+
+Expose CSSFontFeaturesValueRule - Chrome Platform Status
+https://chromestatus.com/feature/6275972238934016
+
+Web-Facing Change PSA: Expose CSSFontFeaturesValueRule
+https://groups.google.com/a/chromium.org/g/blink-dev/c/zqC2dYxKpQw?pli=1
+
+Rick Byers: "If anyone here is looking for an easy first Chromium bug to fix, here's a trivial one: issues.chromium.org/385925149" — Bluesky
+https://bsky.app/profile/rbyers.net/post/3lek3czqxus2i
+
 Home / X
 https://x.com/home
 
