@@ -1,6 +1,101 @@
 
 # 2025-01-24
 
+Home / X
+https://x.com/home
+
+Office Hours 2025-01-23 - Google 文档
+https://docs.google.com/document/d/1js_2elHUBvnZjq606cFMdlRWeQgBCwLTjX7mn0K6a78/edit?tab=t.0
+
+All methods on `PlainEditor` should also be available on `PlainEditorDriver` · Issue #200 · linebender/parley
+https://github.com/linebender/parley/issues/200
+
+Google Meet
+https://meet.google.com/landing
+
+Releases · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/releases
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+iphone - What is a CALayer? - Stack Overflow
+https://stackoverflow.com/questions/3633137/what-is-a-calayer
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+CSS numeric font style - One line height - Stack Overflow
+https://stackoverflow.com/questions/60723836/css-numeric-font-style-one-line-height
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+zeu: "i’m so tired but i’ve got obligations 😩" — Bluesky
+https://bsky.app/profile/zeu.dev/post/3lggariovlc22
+
+just-js/lo: it's JavaScript Jim, but not as we know it. :space_invader:
+https://github.com/just-js/lo
+
+TikTok made an IDE and it's actually good? (free cursor killer??) - YouTube
+https://www.youtube.com/watch?v=hqJDKTqCESE
+
+Trae - Ship Faster with Trae
+https://www.trae.ai/home
+
+Command run failed with error : spawn EINVAL · Issue #52554 · nodejs/node
+https://github.com/nodejs/node/issues/52554
+
+NodeBox
+https://github.com/nodebox
+
+nodejs/node at 869ea331f3a8215229290e2e6038956874c382a6
+https://github.com/nodejs/node/tree/869ea331f3a8215229290e2e6038956874c382a6
+
+Mitchell Hashimoto on X: "To test IME (input method editors) properly in Linux, you need to build a matrix of: ibus/fcitx, wayland/x11, a few input archetypes (CJK, deadkey like Spanish, Emoji, Unicode hex), and then versions (i.e. ibus 1.5.29 is in Ubuntu LTS but has bugs). Its a wild ride, but I did it!" / X
+https://x.com/mitchellh/status/1882590956580716714
+
+Linux Plumbers Conference 2024 (18-2024年9月20日): Sched-Ext: The BPF extensible scheduler class MC · Indico
+https://lpc.events/event/18/sessions/192/#20240918
+
+Discover — Bluesky
+https://bsky.app/
+
+Discover — Bluesky
+https://bsky.app/
+
+Why the C programming language still rules | InfoWorld
+https://www.infoworld.com/article/2261151/why-the-c-programming-language-still-rules.html
+
+Introduction - Cloud Hypervisor
+https://www.cloudhypervisor.org/docs/prologue/introduction/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ghostty-org/ghostty: 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+https://github.com/ghostty-org/ghostty
+
+Competitive Programming Book
+https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
+
+Moscow Dream – Kattis, Kattis
+https://open.kattis.com/problems/moscowdream
+
+Right-of-Way – Kattis, Kattis
+https://open.kattis.com/problems/vajningsplikt
+
+Debugging using LLDB on Windows - The Rust Programming Language Forum
+https://users.rust-lang.org/t/debugging-using-lldb-on-windows/92964/4
+
+Install WinDbg - Windows drivers | Microsoft Learn
+https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/#install-windbg-with-windows-package-manager
+
+Google
+https://www.google.com/
 
 # 2025-01-23
 
