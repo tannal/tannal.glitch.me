@@ -1,6 +1,134 @@
 
 # 2025-01-25
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+“Anticipatory-Music-Transformer”的副本 - Colab
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Tilde, My LLVM Alternative | Hacker News
+https://news.ycombinator.com/item?id=42782872
+
+Coffee Compiler Club, 2024_08_16 - YouTube
+https://www.youtube.com/watch?v=Vu372dnk2Ak&t=184s
+
+CCC 16/Aug/2024 - Google 文档
+https://docs.google.com/document/d/10bQI_Ah1MEqZwXMwZ2uOes5zI_ib5IC85UG2ILxjclk/edit?pli=1&tab=t.0
+
+CCC 16/Aug/2024 - Google 文档
+https://docs.google.com/document/d/10bQI_Ah1MEqZwXMwZ2uOes5zI_ib5IC85UG2ILxjclk/edit?pli=1&tab=t.0
+
+meeting_saved_chat.txt
+https://www.dropbox.com/scl/fi/7yia71bcw5dm34jvapold/meeting_saved_chat.txt?rlkey=rzytkgqda7kwh7jgyil60f6ju&e=1&dl=0
+
+TB
+https://yasserarg.com/tb
+
+Cuik/cuik_c/ir_gen.h at master · RealNeGate/Cuik
+https://github.com/RealNeGate/Cuik/blob/master/cuik_c/ir_gen.h
+
+Every System is a Log: Avoiding coordination in distributed applications | Hacker News
+https://news.ycombinator.com/item?id=42813049
+
+restatedev/restate: Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+https://github.com/restatedev/restate
+
+TB
+https://yasserarg.com/tb
+
+Pull requests · RealNeGate/Cuik
+https://github.com/RealNeGate/Cuik/pulls
+
+Classic ML to cope with Dumb LLM Judges
+https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree
+
+Coping with dumb LLMs using classic ML | Hacker News
+https://news.ycombinator.com/item?id=42790820
+
+Releases · lightpanda-io/browser
+https://github.com/lightpanda-io/browser
+
+Tilde, my LLVM alternative | Lobsters
+https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative
+
+Compile-Time Analysis of Compiler Frameworks for Query Compilation
+https://home.cit.tum.de/~engelke/pubs/2403-cgo.pdf
+
+Tilde Backend (TB)
+https://handmadecities.com/media/seattle-2023/tb/
+
+Node.js Core Development - Twitch
+https://www.twitch.tv/videos/2355925457
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/679487ffced861001b603a15
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+dkoes_thesis.pdf
+https://www.cs.cmu.edu/~dkoes/research/dkoes_thesis.pdf
+
+tribal knowledge - Google 搜索
+https://www.google.com/search?q=tribal+knowledge&oq=tribal+knowledge&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Christian Wimmer cllif click - Google 搜索
+https://www.google.com/search?q=Christian+Wimmer+cllif+click&sca_esv=12a61663b916a70f&sxsrf=AHTn8zrjdExziWyTiGeZ4gARe5DaS_OzGQ%3A1737788547512&ei=g4yUZ477HojAkPIPwLXWiAE&ved=0ahUKEwjOyMboppCLAxUIIEQIHcCaFREQ4dUDCBA&uact=5&oq=Christian+Wimmer+cllif+click&gs_lp=Egxnd3Mtd2l6LXNlcnAiHENocmlzdGlhbiBXaW1tZXIgY2xsaWYgY2xpY2syBxAhGKABGAoyBxAhGKABGApI0zdQAFjLM3AJeACQAQCYAb0DoAHYJqoBCDItMTYuMC4yuAEDyAEA-AEBmAIboALTJ8ICBBAjGCfCAggQABiABBjLAcICBhAAGA0YHsICBBAAGB7CAggQABiABBiiBMICBRAAGO8FwgIFECEYoAHCAgYQABgIGB6YAwCSBwo5LjAuMTYuMC4yoAf9Pg&sclient=gws-wiz-serp
+
+Seeking feedback on Simple Sea of Nodes Book/Compiler project : r/Compilers
+https://www.reddit.com/r/Compilers/comments/1etjqj4/seeking_feedback_on_simple_sea_of_nodes/
+
+LNCS 7791 - Simple and Efficient Construction of Static Single Assignment Form
+https://link.springer.com/content/pdf/10.1007/978-3-642-37051-9_6.pdf
+
+Simple-Cpp/Chapter13 at main · SeaOfNodes/Simple-Cpp
+https://github.com/SeaOfNodes/Simple-Cpp/tree/main/Chapter13
+
+Dendi Suhubdy - Google 搜索
+https://www.google.com/search?q=Dendi+Suhubdy&oq=Dendi+Suhubdy&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMxMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+curse of expertise - Google 搜索
+https://www.google.com/search?q=curse+of+expertise&oq=curse+of+exper&gs_lcrp=EgZjaHJvbWUqCQgBEAAYExiABDIGCAAQRRg5MgkIARAAGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMgoIBRAAGAgYExgeMgoIBhAAGIAEGKIEMgcIBxAAGO8FMgcICBAAGO8FMgcICRAAGO8F0gEINTYwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=RHBFGOp3ZxSNCM&vssid=l
+
+c++ - How to enable optimization locally in Debug mode? - Stack Overflow
+https://stackoverflow.com/questions/73388480/how-to-enable-optimization-locally-in-debug-mode
+
+RealNeGate/Cuik: A Modern C11 compiler (STILL EARLY)
+https://github.com/RealNeGate/Cuik
+
+Maxine github - Google 搜索
+https://www.google.com/search?q=Maxine+github&oq=Maxine+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgYIAhAjGCcyDQgDEC4YxwEY0QMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEAUYQNIBCDI0NzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Graal compiler - Google 搜索
+https://www.google.com/search?q=Graal+compiler&oq=Graal+compiler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTY2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Thomas Wuerthinger
+https://thomaswue.dev/
+
+Twitter archive
+https://thomaswue.dev/twitter/archive/tweets.html
+
+graal/vm at master · oracle/graal
+https://github.com/oracle/graal/tree/master/vm
+
+Purist vs. Pragmatist | Automation Panda
+https://automationpanda.com/2017/09/26/purist-vs-pragmatist/
+
+ECMA-335 - Ecma International
+https://ecma-international.org/publications-and-standards/standards/ecma-335/
+
+Joyee Cheung: "Landed a PR that integrates TypeScript transpilation into the Node.js compile cache ✨ When benchmarking files of 500-600+ bytes, type stripping is 65% faster and full transform is 128% faster (it should be more significant on bigger files though, because it's a cache) github.com/nodejs/node/..." — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social/post/3lgjvcaqizk2c
+
+module: integrate TypeScript into compile cache by joyeecheung · Pull Request #56629 · nodejs/node
+https://github.com/nodejs/node/pull/56629/files
+
+Igalia Careers | Levels.fyi
+https://www.levels.fyi/companies/igalia
 
 # 2025-01-24
 

@@ -1,6 +1,32 @@
 
 # 2025-01-25 3
 
+物理服务器
+├── Hypervisor
+│   ├── VM1 (k8s worker节点)
+│   │   ├── Container1
+│   │   ├── Container2
+│   │   └── Container3
+│   ├── VM2 (k8s worker节点)
+│   └── VM3 (k8s master节点)
+
+这也解释了为什么开源如此成功：
+它创造了一个所有参与者都能受益的生态系统，而不是零和博弈的竞争关系。
+
+大型项目最终都会变得混乱
+
+Sifting through old notes and I rediscovered
+@lxt
+’s “MBTI” of Engineering Happiness:
+ - Senior/Junior
+ - Structured/Chaotic
+ - Team/Loner
+ - Purist/Pragmatist
+ - Starter/Finisher
+
+Purist
+paramist
+
 Tribal knowledge
 
 > 25000 / 21.75
