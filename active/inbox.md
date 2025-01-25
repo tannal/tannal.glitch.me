@@ -1,6 +1,75 @@
 
 # 2025-01-25 3
 
+Tech history's pattern:
+
+1980s: Xerox invented GUI → Apple/MS commercialized it
+1990s: SGI pioneered 3D → NVIDIA/AMD took over
+2000s: Sun created JVM → Google/Oracle scaled it
+2010s: Will OpenAI's AI breakthroughs follow the same path?
+
+History Doesn't Repeat Itself, but It Often Rhymes
+
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/
+
+缺乏调试器支持
+部分语言支持不完善
+插件生态系统还不成熟
+只有GUI版本，没有终端版本
+
+数据中心
+├── 物理负载均衡器
+├── 管理平面
+│   └── VM
+│       ├── k8s master节点
+│       ├── 监控系统
+│       └── CI/CD工具
+│
+├── 应用平面 (k8s集群)
+│   └── VM (worker节点)
+│       ├── 前端容器
+│       ├── 后端容器
+│       └── 中间件容器
+│
+└── 数据平面
+    └── VM
+        ├── 主数据库
+        └── 从数据库
+
+物理服务器 (GPU服务器)
+├── NVIDIA GPU
+├── CUDA Drivers
+└── 直接部署AI框架
+    └── PyTorch/TensorFlow
+
+高性能计算集群
+├── 计算节点（物理机）
+│   ├── MPI
+│   └── 科学计算软件
+└── 存储节点
+    └── 并行文件系统
+
+物理服务器/高配VM
+├── Spark/Flink集群
+│   ├── Master节点
+│   └── Worker节点
+└── 高速存储
+
+GPU直通示例：
+物理服务器
+├── GPU
+├── CUDA
+└── AI应用
+    └── 直接GPU访问
+
+vs 容器方案：
+物理服务器
+├── GPU
+├── Docker
+│   ├── CUDA容器
+│   └── AI应用容器
+│       └── 通过nvidia-docker访问GPU
+
 物理服务器
 ├── Hypervisor
 │   ├── VM1 (k8s worker节点)

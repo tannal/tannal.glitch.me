@@ -5,6 +5,123 @@
 https://szfilehelper.weixin.qq.com/
 
 “Anticipatory-Music-Transformer”的副本 - Colab
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=5OKuRb-JtBEb
+
+stanford-crfm/music-large-800k · Hugging Face
+https://huggingface.co/stanford-crfm/music-large-800k
+
+jeffreyjohnens/MetaMIDIDataset
+https://github.com/jeffreyjohnens/MetaMIDIDataset
+
+mdeff/fma: FMA: A Dataset For Music Analysis
+https://github.com/mdeff/fma
+
+ISMIR 2022: Scaling Polyphonic Transcription with Mixtures of Monophonic Transcriptions
+https://ismir2022program.ismir.net/poster_287.html
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=true&query=&sort=byPopularity&type=story
+
+wedistribute.org
+https://wedistribute.org/2024/11/loops-early-look/
+
+First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024) | Hacker News
+https://news.ycombinator.com/item?id=42820053
+
+java - Difference between purist's and pragmatist's model of programming - Stack Overflow
+https://stackoverflow.com/questions/67117861/difference-between-purists-and-pragmatists-model-of-programming
+
+Home / X
+https://x.com/home
+
+p5.js
+https://p5js.org/
+
+Kuba Suder 🇵🇱🇺🇦: "I made two #Ruby scripts that let you print statistics about which users make how many posts/RTs on average - you can use this when you're thinking about following someone, or when some people you follow post a bit too much :> Option 1: scans listed accounts: gist.github.com/mackuba/9911..." — Bluesky
+https://bsky.app/profile/mackuba.eu/post/3lgiw6irsos2p
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=en&text=%E3%83%95%E3%82%A7%E3%83%87%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A9%9F%E8%83%BD%E3%81%AE%E5%BC%B7%E5%8C%96&op=translate
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Temp Mail - Temporary Email
+https://tempail.com/en/mail_3314222309/
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Chocobozzz/PeerTube: ActivityPub-federated video streaming platform using P2P directly in your web browser
+https://github.com/Chocobozzz/PeerTube?tab=readme-ov-file
+
+搜索 bluesky - New Ellijay TV
+https://vod.newellijay.tv/search?search=bluesky&searchTarget=local
+
+ATProtocol youtube - Google 搜索
+https://www.google.com/search?q=ATProtocol+youtube&oq=ATProtocol+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgKGB4yCAgCEAAYChgeMggIAxAAGAoYHjIICAQQABgKGB4yBggFEAAYHjIICAYQABgKGB4yBggHEAAYHjIGCAgQABgeMggICRAAGAoYHtIBCDEyOThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+つるるん🥕: "# Bluesky/ATProtocol 勉強会#1 04/28 22:00ごろから勉強会があります。 今回もYouTube配信の予定なので予めConnpassで参加登録だけしてくれると助かります！(Connpass登録しなくても見れる予定) https://428lab.connpass.com/event/280610/ 今回も、副音声としてわいがやしてるので、ぜひ二窓して聞いてください。 (登壇せずに副音声だけやるつもり) https://youtube.com/live/a3fSQq64rCk" — Bluesky
+https://bsky.app/profile/robo358.com/post/3jtr6e42zlo2e
+
+ATProtocol - Google 搜索
+https://www.google.com/search?q=ATProtocol+&sca_esv=517be5ec3daabeed&sxsrf=AHTn8zo8AYrzLkcYQE0wQIIcgZPs6VJd4g%3A1737808056410&ei=uNiUZ97dGI7MkPIPztfIuAk&ved=0ahUKEwjemY-_75CLAxUOJkQIHc4rEpcQ4dUDCBA&uact=5&oq=ATProtocol+&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0FUUHJvdG9jb2wgMgQQIxgnMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBMgoQABiABBgKGMsBSJQLUOUBWOUBcAF4AJABAJgB_gGgAf4BqgEDMi0xuAEDyAEA-AEBmAICoAKNAsICCBAAGLADGO8FwgILEAAYgAQYsAMYogSYAwCIBgGQBgWSBwUxLjAuMaAHygQ&sclient=gws-wiz-serp
+
+Discover — Bluesky
+https://bsky.app/
+
+Video Service issues · Issue #3026 · bluesky-social/atproto
+https://github.com/bluesky-social/atproto/issues/3026
+
+Why won't Bluesky allow use on the desktop instead of only mobile? | Hacker News
+https://news.ycombinator.com/item?id=35750383
+
+social-app/src/state/messages/convo/agent.ts at 355c50fc0fe97feb8b4ec4e29d47b725252088c7 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/blob/355c50fc0fe97feb8b4ec4e29d47b725252088c7/src/state/messages/convo/agent.ts#L828
+
+Why won't Bluesky allow use on the desktop instead of only mobile? | Hacker News
+https://news.ycombinator.com/item?id=35750383
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+micr-28-02-lind 39..55
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/lindholm08_tesla.pdf
+
+A 35 year Career at Silicon Graphics and Nvidia - Google 搜索
+https://www.google.com/search?q=A+35+year+Career+at+Silicon+Graphics+and+Nvidia&oq=A+35+year+Career+at+Silicon+Graphics+and+Nvidia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzNTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+Graphics and Imaging Architectures (CMU 15-869, Fall 2011)
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/
+
+Just Kidding: "It's extra annoying that the country is being run by several guys who couldn't make it through an interview for a regular job because they're too weird and don't know how to do anything" — Bluesky
+https://bsky.app/profile/internethippo.bsky.social/post/3lgjtfhrmik2s
+
+Curtis Priem - Search / X
+https://x.com/search?q=Curtis%20Priem&src=typed_query
+
+david kirk nvidia book - Google 搜索
+https://www.google.com/search?q=david+kirk+nvidia+book&sca_esv=fed3e2472714e5db&sxsrf=AHTn8zqRL5A4U_gZ0d6bOO3uYjrWtf-FvA%3A1737814431809&ei=n_GUZ6yDMYPg0PEP_dqdqQM&ved=0ahUKEwjszpKfh5GLAxUDMDQIHX1tJzUQ4dUDCBA&uact=5&oq=david+kirk+nvidia+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmRhdmlkIGtpcmsgbnZpZGlhIGJvb2syBRAhGKABMgUQIRigAUjiKlCECVibKXABeAGQAQCYAf0CoAHADaoBBTItNC4yuAEDyAEA-AEBmAIIoAL0IcICChAAGLADGNYEGEfCAgwQIxiABBgTGCcYigXCAggQLhiABBjLAcICCBAAGIAEGMsBwgIGEAAYDBgewgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQHCAgQQABgewgIFEAAY7wXCAggQABiABBiiBMICBhAAGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHCzEuMC40LjIuOC0xoAfuKw&sclient=gws-wiz-serp
+
+Nvidia - Wikipedia
+https://en.wikipedia.org/wiki/Nvidia
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Good%20to%20know%20that%20triangles%20as%20the%C2%A0basic%20primitive%20in%203D%20graphics%20wasn%27t%20a%20technical%20decision.%0AMicrosoft%27s%20DirectX%20mandated%20triangles%2C%20forcing%20NVIDIA%20(who%C2%A0used%20quads)%20to%20redesign%20their%20first%20chip.&op=translate
+
+Why do 3D engines primarily use triangles to draw surfaces? - Stack Overflow
+https://stackoverflow.com/questions/6100528/why-do-3d-engines-primarily-use-triangles-to-draw-surfaces
+
+NV1 - Wikipedia
+https://en.wikipedia.org/wiki/NV1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+“Anticipatory-Music-Transformer”的副本 - Colab
 https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
 
 收件箱 - tannal2409@gmail.com - Gmail
