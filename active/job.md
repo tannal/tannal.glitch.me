@@ -606,7 +606,7 @@ https://github.com/zulip/zulip-flutter/issues/292
 
 ## Saturday
 
-√ I was trying to view nodejs
+√ I was trying to look through some electron apps and I need d8 to view the startup snapshot
 √
 
 ## Friday
@@ -621,7 +621,7 @@ https://github.com/zulip/zulip-flutter/issues/292
 √ element 安装好了，不过账号有问题，我想看mozilla和firefox的群聊
 √ 我发现了webkit的good first issue的标签
 √ typst可以写书，有方案需要调研
-√ coding interview 面试不是为了考察你解决新问题的能力，而是验证你对常见问题的掌握程度和解决方案的理解深度。
+√ coding interview 不是为了考察你解决新问题的能力，而是验证你对常见问题的掌握程度和解决方案的理解深度。
 √ zulip的服务端
 √ 发现了chris的一篇论文，应该对我毕业非常有用
 https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
