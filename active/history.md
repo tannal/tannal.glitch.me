@@ -4,6 +4,180 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+“Anticipatory-Music-Transformer”的副本 - Colab
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
+
+jthickstun/anticipation: Anticipatory Autoregressive Models
+https://github.com/jthickstun/anticipation
+
+anticipation/anticipation/tokenize.py at main · jthickstun/anticipation
+https://github.com/jthickstun/anticipation/blob/main/anticipation/tokenize.py
+
+Stanford Center for Research on Foundation Models
+https://github.com/stanford-crfm
+
+Stanford CRFM
+https://crfm.stanford.edu/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+dream-num/univer: Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+https://github.com/dream-num/univer
+
+Home / X
+https://x.com/home
+
+OpenAI is terrified (there's finally a great open source LLM) - YouTube
+https://www.youtube.com/watch?v=by9PUlqtJlM
+
+Microtonality - Wikipedia
+https://en.wikipedia.org/wiki/Microtonality
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal (tannal)
+https://github.com/tannal
+
+ace studio - Google 搜索
+https://www.google.com/search?q=ace+studio&oq=ace+studio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINDgwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+typst book - Google 搜索
+https://www.google.com/search?q=typst+book&oq=typst+book&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQgyNDMyajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+qjcg/awesome-typst: Awesome Typst Links
+https://github.com/qjcg/awesome-typst?tab=readme-ov-file
+
+flavio20002/typst-orange-template: The Legrand Orange Book implemented in Typst
+https://github.com/flavio20002/typst-orange-template
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+windows second class citizen open source - Google 搜索
+https://www.google.com/search?q=windows+second+class+citizen+open+source&sca_esv=5593be2ce5ed860b&sxsrf=AHTn8zpTlug1TympNf1l4qJugAP9gdGYXA%3A1737726756445&ei=JJuTZ6z0GpmekPIPkuf_-A4&ved=0ahUKEwislqPQwI6LAxUZD0QIHZLzH-8Q4dUDCBA&uact=5&oq=windows+second+class+citizen+open+source&gs_lp=Egxnd3Mtd2l6LXNlcnAiKHdpbmRvd3Mgc2Vjb25kIGNsYXNzIGNpdGl6ZW4gb3BlbiBzb3VyY2UyBRAhGKABSPUVUJEEWIQVcAF4AJABAZgB5wWgAYseqgELMC4xLjcuMS42LTK4AQPIAQD4AQGYAgqgAsoWwgILEAAYgAQYsAMYogTCAggQABiwAxjvBcICBxAhGKABGAqYAwCIBgGQBgWSBwsxLjEuNi4xLjAuMaAHyR4&sclient=gws-wiz-serp
+
+Sharing my frustration with using React for a desktop Windows app : r/reactjs
+https://www.reddit.com/r/reactjs/comments/18bh9s6/sharing_my_frustration_with_using_react_for_a/
+
+How do you improve developer experience on non-expo projects? : r/reactnative
+https://www.reddit.com/r/reactnative/comments/1fo0xhe/how_do_you_improve_developer_experience_on/
+
+Discover — Bluesky
+https://bsky.app/
+
+Hash table cheatsheet for coding interviews | Tech Interview Handbook
+https://www.techinterviewhandbook.org/algorithms/hash-table/
+
+Home / X
+https://x.com/home
+
+Feature Visualization
+https://distill.pub/2017/feature-visualization/
+
+How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings · Issue #105 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/105
+
+A Structural Probe for Finding Syntax in Word Representations
+https://aclanthology.org/N19-1419.pdf
+
+How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings · Issue #105 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/105
+
+Nick (@nickcammarata) / X
+https://x.com/nickcammarata
+
+2012.14261
+https://arxiv.org/pdf/2012.14261
+
+Swee Kiat Lim - Search / X
+https://x.com/search?q=Swee%20Kiat%20Lim&src=typed_query&f=top
+
+Distill — Latest articles about machine learning
+https://distill.pub/
+
+Observable Framework
+https://observablehq.com/framework/
+
+Home / X
+https://x.com/home
+
+Beej's Guide to C Programming
+https://beej.us/guide/bgc/html/split/
+
+deepseek-ai/DeepSeek-R1
+https://github.com/deepseek-ai/DeepSeek-R1
+
+beejjorgensen/bgnet: Beej's Guide to Network Programming source
+https://github.com/beejjorgensen/bgnet?tab=readme-ov-file
+
+bgnet_usl_c_1.pdf
+https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+lapce/floem: A native Rust UI library with fine-grained reactivity
+https://github.com/lapce/floem
+
+A new JavaScript wrapper object layout - Google 文档
+https://docs.google.com/document/d/1FWnrKxjl0P-jY0CMPlzbXkH8xkKoX6nM4e2OXq1EGHU/edit?tab=t.0#heading=h.troryjib1xau
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?pli=1&tab=t.0#heading=h.zcnntsspsdb6
+
+Towards a modern Web stack (PUBLICLY SHARED) - Google 文档
+https://docs.google.com/document/d/1peUSMsvFGvqD5yKh3GprskLC3KVdAlLGOsK6gFoEOD0/edit?resourcekey=0-bPajpoo9IBZpG__-uCBE6w&tab=t.0#heading=h.34a91yqebirw
+
+Silverline WASM Research Day 2022 - Google 幻灯片
+https://docs.google.com/presentation/d/1RKRNnFrI8xPvEFfTao40WqqAd6NWuPET8qR5FIKHEEA/edit#slide=id.gfe9021db5d_0_524
+
+3D Computer Graphics Resources for Beginners - 2024 - Google 文档
+https://docs.google.com/document/d/1JwwLYxFMDwuxX4Sc3znE-8jVIQMW1LWjuvYeLpiVf_8/edit?tab=t.0
+
+John Thickstun on X: "I'm joining @Cornell this fall as an Assistant Professor of Computer Science! Looking forward to work with students and colleagues @Cornell_CS, @cornellCIS on generative models, controllable generation, and creative applications like #musictechnology" / X
+https://x.com/jwthickstun/status/1816495433029652694
+
+Stanford CRFM
+https://crfm.stanford.edu/2023/06/16/anticipatory-music-transformer.html
+
+2306.08620
+https://arxiv.org/pdf/2306.08620
+
+jthickstun/anticipation: Anticipatory Autoregressive Models
+https://github.com/jthickstun/anticipation?tab=readme-ov-file
+
+“Anticipatory-Music-Transformer”的副本 - Colab
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
+
+SingSong: Generating musical accompaniments from singing (Online Supplement)
+https://storage.googleapis.com/sing-song/index.html
+
+ISMIR 2024
+https://ismir2024program.ismir.net/poster_357.html
+
+John Thickstun
+https://johnthickstun.com/
+
+Anticipatory Music Transformer | OpenReview
+https://openreview.net/forum?id=EBNJ33Fcrl
+
+The Lakh MIDI Dataset v0.1
+https://colinraffel.com/projects/lmd/#get
+
+bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR)
+https://github.com/bytecodealliance/wasm-micro-runtime
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Home / X
 https://x.com/home
 

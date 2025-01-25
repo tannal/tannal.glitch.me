@@ -1,6 +1,12 @@
 
 # 2025-01-24 2
 
+Ace Studio
+Synthesizer V
+
+我估计在单张4090上完成这个训练配置可能需要10-20小时左右，具体取决于实际的batch size和数据集大小。
+
+
 https://johnthickstun.com/
 https://openreview.net/forum?id=EBNJ33Fcrl
 

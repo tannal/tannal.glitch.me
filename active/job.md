@@ -604,14 +604,31 @@ https://github.com/zulip/zulip-flutter/issues/292
 [] performance
 [] firefox cookie off by one
 
+## Friday
+
+√ 开车开了半天没开明白不开了 https://open.kattis.com/problems/vajningsplikt
+√ 下载 Android Studio，和 flutter on windows 基本上scoop解决
+虽然我也不明白1.3G的东西下这么久是为什么，究竟是我的网速慢还是google的服务器慢
+√ flutter zulip 跑起来了，感觉不错，flutter再windows上面的DX明显比RN好
+√ mattermos RN 跑起来了，感觉不错，不过没找到注册账号的地方
+√ social-app 跑起来但报错，用expo跑起来的，报错没解决
+√ 看了hinton一半的报告，几个theprimeagin的视频，theo的视频
+√ element 安装好了，不过账号有问题，我想看mozilla和firefox的群聊
+√ 我发现了webkit的good first issue的标签
+√ typst可以写书，有方案需要调研
+√ coding interview 面试不是为了考察你解决新问题的能力，而是验证你对常见问题的掌握程度和解决方案的理解深度。
+√ zulip的服务端
+√ 发现了chris的一篇论文，应该对我毕业非常有用
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=PlMSkS-1qJyj
+
+## Thursday
 √ LineBlender office hour
 √ watch AlphaGO Documentry
 √ watch Hinton talk
 √ setup flutter with scoop and jetbrian-toolbox
 √ graphite
-√
 
-
+## Tuesday
 √ update to windows 11 pro
 √ change all application installed from winget & scoop
 √ solve 5 problems on kattis
@@ -635,7 +652,6 @@ https://cpbook.net/methodstosolve?oj=both&topic=all&quality=starred
 √ Wed
 √ Tues
 √ Mon
-
 
 ## Sports
 
