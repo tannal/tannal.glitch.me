@@ -1,6 +1,39 @@
 
 # 2025-01-26
 
+// 从UI开发
+const CustomButton = styled.button`
+  // 大量样式代码
+`;
+
+// 转向业务逻辑
+const handleUserAction = async () => {
+  // 业务流程处理
+  // 状态管理
+  // API调用
+  // 数据转换
+  // 错误处理
+};
+
+Ant Design (蚂蚁集团)
+Material-UI (Google)
+Chakra UI (Vercel支持)
+Shopify Polaris
+Microsoft Fluent UI
+Atlassian Design System
+Adobe Spectrum
+Salesforce Lightning
+Twitter Bootstrap
+Element Plus (饿了么)
+Semi Design (抖音)
+Arco Design (字节跳动)
+MTD (Meituan Design)
+KDesign
+NutUI
+AceUI
+TDesign
+Fusion Design
+
 依赖倾向：可能过度依赖或难以建立平等关系
 
 Erik Erikson
