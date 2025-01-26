@@ -1,6 +1,9 @@
 
 # people that write great books
 
+SGI 创新者的窘境
+克莱顿·克里斯坦森
+
 https://ben.klemens.org/pubs.index.html
 
 # inbox

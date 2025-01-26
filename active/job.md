@@ -604,10 +604,18 @@ https://github.com/zulip/zulip-flutter/issues/292
 [] performance
 [] firefox cookie off by one
 
+
+## Sunday
+
+
 ## Saturday
 
 √ I was trying to look through some electron apps and I need d8 to view the startup snapshot
-√
+√ prompt to learn language feel be understood
+√ flutter developer experience is way better than RN
+√ Microsoft is embrace arm too, so we see all the major platforms are embrace arm.
+
+
 
 ## Friday
 
