@@ -1,4 +1,276 @@
 
+# 2025-01-26
+
+microsoft/markitdown: Python tool for converting files and office documents to Markdown.
+https://github.com/microsoft/markitdown
+
+Startup Snapshot in Node.js
+https://www.slideshare.net/slideshow/startup-snapshot-in-nodejs/258402943#12
+
+前端工程师- Lynx方向 - 字节跳动
+https://jobs.bytedance.com/experienced/position/7316840185592858918/detail
+
+Android高级开发工程师-OS - 字节跳动
+https://jobs.bytedance.com/experienced/position/7412533520160508186/detail?recomId=28c2506b-dad7-11ef-858d-b8cef650d614&sourceJobId=7316840185592858918
+
+Android高级开发工程师-OS - 字节跳动
+https://jobs.bytedance.com/experienced/position/7412533520160508186/detail?recomId=28c2506b-dad7-11ef-858d-b8cef650d614&sourceJobId=7316840185592858918
+
+服务端研发工程师/架构师-飞书IM - 字节跳动
+https://jobs.bytedance.com/experienced/position/7424793128114915622/detail?recomId=7eeac2d2-db06-11ef-bb53-00163e088145&sourceJobId=7412533520160508186
+
+字节跳动招聘
+https://jobs.bytedance.com/experienced/
+
+机器学习平台数据工程师-PICO - 字节跳动
+https://jobs.bytedance.com/experienced/position/7423073254086478117/detail?recomId=7197fb90-dba3-11ef-93fc-98039ba8c202&sourceJobId=7424793128114915622
+
+字节跳动招聘
+https://jobs.bytedance.com/experienced/position?keywords=&category=6704215862603155720%2C6704215862557018372%2C6704215886108035339%2C6704215888985327886%2C6704215897130666254%2C6704215956018694411%2C6704215957146962184%2C6704215958816295181%2C6704215963966900491%2C6704216109274368264%2C6704216296701036811%2C6704216635923761412%2C6704217321877014787%2C6704219452277262596%2C6704219534724696331%2C6938376045242353957&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=
+
+I hope it was possible for Static Hermes to native AOT compile all the existing NPM modules. · Issue #1341 · facebook/hermes
+https://github.com/facebook/hermes/issues/1341
+
+Ai Pin：把人工智能“别”在身上 - 纽约时报中文网
+https://cn.nytimes.com/technology/20240412/ai-pin-humane-openai-microsoft/
+
+Humane - Crunchbase Company Profile & Funding
+https://www.crunchbase.com/organization/humane
+
+Chris Harrison | Human-Computer Interaction Institute
+https://hcii.cmu.edu/people/chris-harrison
+
+OmniTouch革新多点触控技术 打造无处不触摸的数字生活我的搜狐 - 综合电子 - -EETOP-创芯网
+https://www.eetop.cn/consumer/25947.html
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fsettings%2522%257D&authorization_session_id=01JJGMBGRSTV5JXYAWJMZQT2J3
+
+收件箱 (1) - 19196015861edge@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cursor 白嫖指南在哪儿 - 开发调优 - LINUX DO
+https://linux.do/t/topic/205270
+
+临时Gmail，临时Gmail帐户，临时Gmail邮箱，Gmail生成器
+https://www.emailtick.com/zh
+
+请稍候…
+https://temp-mail.org/en/view/67948480b4315b0021fadb8a
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Correct the path for cursor installing from scoop by tannal · Pull Request #7 · bestK/cursor-fake-machine
+https://github.com/bestK/cursor-fake-machine/pull/7/files
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=%E3%81%93%E3%82%8C%E3%81%AFZulip%E3%81%A8%E3%81%84%E3%81%86%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AEFlutter%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E3%81%99%E3%80%82%E4%B8%BB%E3%81%AB%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%A9%9F%E8%83%BD%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99&op=translate
+
+CocoaPods - Google 搜索
+https://www.google.com/search?q=CocoaPods&oq=CocoaPods&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E3%82%BA&op=translate
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+bluesky desktop - Google 搜索
+https://www.google.com/search?q=bluesky+desktop&oq=bluesky+desktop&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIICAUQABgKGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yCAgJEAAYChge0gEIMjcwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Silicon Graphics - Wikipedia
+https://en.wikipedia.org/wiki/Silicon_Graphics
+
+Discover — Bluesky
+https://bsky.app/
+
+intel is old - Google 搜索
+https://www.google.com/search?q=intel+is+old&oq=intel+is+old&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIwNjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+History doesn't repeat, but it rhymes - Google 搜索
+https://www.google.com/search?q=History+doesn%27t+repeat%2C+but+it+rhymes&oq=History+doesn%27t+repeat%2C+but+it+rhymes&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+sdk/sdk/lib/_internal/vm/lib/convert_patch.dart at 6c7452ac1530fe6161023c9b3007764ab26cc96d · dart-lang/sdk
+https://github.com/dart-lang/sdk/blob/6c7452ac1530fe6161023c9b3007764ab26cc96d/sdk/lib/_internal/vm/lib/convert_patch.dart#L55
+
+白天上完班晚上通宵开车回家要注意什么 - V2EX
+https://www.v2ex.com/t/1107239#reply236
+
+:669
+https://dazihou.com/669
+
+CPU理应会在运算时产生错误，而这些错误，我们为何没有感知？ - 知乎
+https://www.zhihu.com/question/609914342
+
+FlowUs 息流｜一站式知识创作与发布平台
+https://flowus.cn/58da5f2b-f741-446e-8046-3a73e5dae836
+
+2.上下文详解
+https://flowus.cn/share/34340661-a550-493f-9f21-8933260810d6
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 (1) - 19196015861edge@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Philip Kotler - Google 搜索
+https://www.google.com/search?q=Philip+Kotler&oq=Philip+Kotler&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+沉默螺旋 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B2%89%E9%BB%98%E8%9E%BA%E6%97%8B
+
+当今世界的无知 by Massimo Pigliucci - Project Syndicate
+https://www.project-syndicate.org/commentary/ignorance-today/chinese
+
+同侪压力 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%90%8C%E5%84%95%E5%A3%93%E5%8A%9B
+
+Erik Erikson - Google 搜索
+https://www.google.com/search?q=Erik+Erikson&oq=Erik+Erikson&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Bio | Political Science | Vanderbilt University
+https://as.vanderbilt.edu/political-science/bio/jennifer-larson/
+
+Robert J. Havighurst - Wikipedia
+https://en.wikipedia.org/wiki/Robert_J._Havighurst
+
+埃里克森社会心理发展阶段 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%85%8B%E6%A3%AE%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5
+
+Persistence of Early Childhood Maturity: International Evidence of Long-Run Age Effects* | The Quarterly Journal of Economics | Oxford Academic
+https://academic.oup.com/qje/article-abstract/121/4/1437/1855234
+
+Persistence of Early Childhood Maturity: International Evidence of Long-Run Age Effects* | The Quarterly Journal of Economics | Oxford Academic
+https://academic.oup.com/qje/article-abstract/121/4/1437/1855234?redirectedFrom=fulltext
+
+Sci-Hub | The Persistence of Early Childhood Maturity: International Evidence of Long-Run Age Effects. The Quarterly Journal of Economics, 121(4), 1437–1472 | 10.1093/qje/121.4.1437
+https://sci-hub.se/https://doi.org/10.1093/qje/121.4.1437
+
+THE PERSISTENCE OF EARLY CHILDHOOD MATURITY: INTERNATIONAL EVIDENCE OF LONG-RUN AGE EFFECTS - Google 搜索
+https://www.google.com/search?q=THE+PERSISTENCE+OF+EARLY+CHILDHOOD+MATURITY%3A+INTERNATIONAL+EVIDENCE+OF+LONG-RUN+AGE+EFFECTS&oq=THE+PERSISTENCE+OF+EARLY+CHILDHOOD+MATURITY%3A+INTERNATIONAL+EVIDENCE+OF+LONG-RUN+AGE+EFFECTS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDExMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+International Evidence of Long-Run Age Effects · Issue #108 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/108
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+open-r1/src/open_r1 at main · huggingface/open-r1
+https://github.com/huggingface/open-r1/tree/main/src/open_r1
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Discover — Bluesky
+https://bsky.app/
+
+Home / X
+https://x.com/home
+
+Visual Effects | Computer Graphics World | 3D Modeling | Animation | CGI
+https://www.cgw.com/
+
+www.igalia.com
+https://www.igalia.com/jobs/open
+
+COMS 6160, Advanced Topics In Computer Graphics
+https://cseweb.ucsd.edu/~ravir/6160-fall04/
+
+File Not Found
+https://www.cs.columbia.edu/~ravir
+
+A User-Programmable Vertex Engine · Issue #107 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/107
+
+A pixel is not a little square - Google 搜索
+https://www.google.com/search?q=A+pixel+is+not+a+little+square&sca_esv=7a77ebcaa46a83bd&sxsrf=AHTn8zpOPR-P-FWNAz3CEdRf9gdfnoM0Pg%3A1737863755413&ei=S7KVZ_nzGMqNm9cPvezb6AM&ved=0ahUKEwi5xbz-vpKLAxXKxuYEHT32Fj0Q4dUDCBA&uact=5&oq=A+pixel+is+not+a+little+square&gs_lp=Egxnd3Mtd2l6LXNlcnAiHkEgcGl4ZWwgaXMgbm90IGEgbGl0dGxlIHNxdWFyZUiAAVAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcA&sclient=gws-wiz-serp
+
+micr-28-02-lind 39..55
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/readings/lindholm08_tesla.pdf
+
+Scalable Parallel Programming with CUDA on Manycore GPUs - YouTube
+https://www.youtube.com/watch?v=nlGnKPpOpbE
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Graphics and Imaging Architectures (CMU 15-869, Fall 2011)
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/
+
+shader-slang/slang: Making it easier to work with shaders
+https://github.com/shader-slang/slang
+
+CSE 167 - Schedule
+https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi24/schedule.html
+
+How to Open a Black Box (2007)
+https://caseymuratori.com/blog_0029
+
+Jonathan Blow (@Jonathan_Blow) / X
+https://x.com/jonathan_blow
+
+Martin Fowler (@martinfowler) / X
+https://x.com/martinfowler
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+ACS-Wayland · GitLab
+https://gitlab.com/acs-wayland
+
+Windows NT - Wikipedia
+https://en.wikipedia.org/wiki/Windows_NT#64-bit_platforms
+
+怎么给手机安装Windows 11 ARM64？ - Microsoft Community
+https://answers.microsoft.com/zh-hans/windows/forum/all/%E6%80%8E%E4%B9%88%E7%BB%99%E6%89%8B%E6%9C%BA/c7c96b24-883b-4450-9040-4ad362b5b28b
+
+Have you tried running windows 10/11 on your xiaomi phone? How's your experience? : r/Xiaomi
+https://www.reddit.com/r/Xiaomi/comments/13q4stz/have_you_tried_running_windows_1011_on_your/
+
+gesangtome (探险小队梅狸猫)
+https://github.com/gesangtome
+
+设备 | Renegade Project
+https://renegade-project.tech/zh/devices
+
+Lethal Company - Google 搜索
+https://www.google.com/search?q=Lethal+Company&oq=Lethal+Company&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Zeekerss - Google 搜索
+https://www.google.com/search?q=Zeekerss&oq=Zeekerss&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+n00b69/woa-dipper: Windows installation guide for Xiaomi Mi 8
+https://github.com/n00b69/woa-dipper?tab=readme-ov-file
+
+mu-qcom红米k30pro启动win11arm骁龙865_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Jv4y1n72v/?spm_id_from=333.788.recommend_more_video.1
+
+起个破铭想半天投稿视频-起个破铭想半天视频分享-哔哩哔哩视频
+https://space.bilibili.com/113231373/upload/video
+
+Project Silicium
+https://github.com/Project-Silicium
+
+Project Mu
+https://microsoft.github.io/mu/
+
+microsoft/mu: Project Mu Documentation
+https://github.com/microsoft/mu
+
+Mu-Silicium/Status.md at main · Project-Silicium/Mu-Silicium
+https://github.com/Project-Silicium/Mu-Silicium/blob/main/Status.md
+
 # 2025-01-25
 
 微信文件传输助手网页版

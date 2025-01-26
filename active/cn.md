@@ -43,7 +43,8 @@
 ## Bytedance Seed team
 
 
-
+RedMi30PRO windows11
+https://space.bilibili.com/113231373/upload/video
 
 frontend
 https://www.zhihu.com/people/nanxiaobei

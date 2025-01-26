@@ -1,12 +1,38 @@
 
+# 2025-01-26
+
+依赖倾向：可能过度依赖或难以建立平等关系
+
+Erik Erikson
+Christopher Marquis
+András Tilcsik
+Jennifer M. Larson
+Kyungeun Jang
+Namkee Park
+Hayeon Song
+
+先驱者开创新技术
+后来者通过更好的商业化和规模化获得市场主导地位
+
+Intel -> ARM
+
+OpenAI -> Anthropic
+
+为什么，要么是讨论自然科学，要么在讨论历史。
+别无他项
+`GeForce 8800`
+
+https://www.cs.cmu.edu/afs/cs/academic/class/15869-f11/www/
+
 # 2025-01-25 3
 
 Tech history's pattern:
 
 1980s: Xerox invented GUI → Apple/MS commercialized it
 1990s: SGI pioneered 3D → NVIDIA/AMD took over
-2000s: Sun created JVM → Google/Oracle scaled it
-2010s: Will OpenAI's AI breakthroughs follow the same path?
+2000s: Sun created JVM → Google/Amazon scaled it
+2010s: Intel dominant ISA → ARM/RISCV eating it.
+2020s: Will OpenAI's AI breakthroughs follow the same path?
 
 History Doesn't Repeat Itself, but It Often Rhymes
 
