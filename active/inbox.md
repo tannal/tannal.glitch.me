@@ -1,6 +1,32 @@
 
 # 2025-01-26
 
+多伦多/Hinton谱系
+Geoffrey Hinton (多伦多)
+代表人物：Yann LeCun, Yoshua Bengio等
+特点：深度学习的早期推动者,在神经网络领域有重要贡献
+斯坦福/Berkeley谱系
+Michael Jordan (Berkeley)
+Andrew Ng (斯坦福)
+Daphne Koller (斯坦福)
+特点：统计学习理论、概率图模型等方向
+MIT谱系
+Marvin Minsky
+Patrick
+
+CMU谱系
+Herbert Simon
+Allen Newell
+Tom Mitchell
+特点：符号主义AI,机器学习理论基础
+以色列谱系
+Judea Pearl (UCLA)
+特点：因果推理,贝叶斯网络
+Tomaso Poggio
+特点：早期AI基础理论,计算机视觉等
+
+https://github.com/larmel/lacc/
+
 // 从UI开发
 const CustomButton = styled.button`
   // 大量样式代码

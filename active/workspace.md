@@ -278,15 +278,6 @@ https://bsky.app/profile/cory.laviska.com/post/3latjr3l6f22c
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1917771
 
-
-
-- On branch http-throttle
-
-Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
-
-Differential Revision: https://phabricator.services.mozilla.com/D229345
-
-
 git pull origin branches/default/tip --rebase
 
 
@@ -309,8 +300,10 @@ TEST-UNEXPECTED-FAIL | toolkit/components/resistfingerprinting/tests/browser/bro
 
 LazyLogModule
 [] fix failing tests
+
 ShadowRealm API
 https://bugzilla.mozilla.org/show_bug.cgi?id=1845870
+
 ./mach mochitest -f browser netwerk/test/browser/browser*cookie* --headless
 ./mach gtest TestCookie.*
 

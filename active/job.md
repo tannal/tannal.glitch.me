@@ -614,7 +614,8 @@ https://github.com/zulip/zulip-flutter/issues/292
 √ prompt to learn language feel be understood
 √ flutter developer experience is way better than RN
 √ Microsoft is embrace arm too, so we see all the major platforms are embrace arm.
-
+√ copy all the things from my old server to new server
+√ dicover some old projects like lacc and
 
 
 ## Friday
