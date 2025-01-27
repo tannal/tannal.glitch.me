@@ -1,6 +1,134 @@
 
 # 2025-01-27
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+⚙ D229345 Bug 1870091 - Remove HTTP throttling v2 (network.http.throttle.version 2). r?sekim
+https://phabricator.services.mozilla.com/D229345
+
+ckirsch (Christoph Kirsch) / Following
+https://github.com/ckirsch?tab=following
+
+Chris Donahue
+https://chrisdonahue.com/
+
+Percy Liang
+https://cs.stanford.edu/~pliang/
+
+Tom Mitchell's Home Page
+https://www.cs.cmu.edu/~tom/
+
+Discover — Bluesky
+https://bsky.app/
+
+Alex Russell - Infrequently Noted
+https://infrequently.org/about-me/
+
+Blink API owners
+https://www.chromium.org/blink/guidelines/api-owners/
+
+Hire me to work with you - fberriman.com
+https://fberriman.com/work/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/#%22but...%22
+
+You're not Facebook. Why use their tools? – Phill MV
+http://okayfail.com/garden/youre-not-facebook-why-use-their-tools.html
+
+Site speed audit for m.facebook.com on phones – Treo
+https://treo.sh/sitespeed/m.facebook.com/vs/instagram.com/vs/www.threads.net?metrics=lcp%2Cr&formFactor=phone
+
+[Guide][5 steps] Exporting chats & prompts from Cursor - Discussion - Cursor - Community Forum
+https://forum.cursor.com/t/guide-5-steps-exporting-chats-prompts-from-cursor/2825
+
+Discover — Bluesky
+https://bsky.app/
+
+Tom M. Mitchell - Wikipedia
+https://en.wikipedia.org/wiki/Tom_M._Mitchell
+
+Bruce Buchanan's Home Page
+https://people.cs.pitt.edu/~buchanan/
+
+利率 - Google 搜索
+https://www.google.com/search?q=%E5%88%A9%E7%8E%87&oq=%E5%88%A9%E7%8E%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEIMTA1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+大超预期！美国12月非农新增就业25.6万人，失业率降至4.1% - 华尔街见闻
+https://wallstreetcn.com/articles/3738895
+
+Add DeepSeek Model · Issue #1509 · getcursor/cursor
+https://github.com/getcursor/cursor/issues/1509
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBggCEEUYOzIGCAMQRRg7MgYIBBBFGDsyBwgFEAAYgAQyBggGEEUYPTIGCAcQRRg90gEINDM3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2003.05991
+https://arxiv.org/pdf/2003.05991
+
+Lightning-Universe/lightning-bolts: Toolbox of models, callbacks, and datasets for AI/ML researchers.
+https://github.com/Lightning-Universe/lightning-bolts
+
+化学反应 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BA%94
+
+Discover — Bluesky
+https://bsky.app/
+
+Language Representation Favored Zero-Shot Cross-Domain Cognitive Diagnosis
+https://arxiv.org/pdf/2501.13943
+
+Emre Sevinç on X: "Accidentally discovered this interesting #database #internals book by Prof. Guido Moerkotte: "Building Query Compilers" #CS #SQL https://t.co/eI4cHjPxah" / X
+https://x.com/EmreSevinc/status/1883521974980563060
+
+querycompiler.pdf
+https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Research Engineer, Interpretability at Anthropic
+https://boards.greenhouse.io/anthropic/jobs/4020305008
+
+Chase on X: "@junxian_he Great work @junxian_he, and thank you for open sourcing the work. Can you elaborate on this further? Did models not do this prior to DeepSeek? https://t.co/lrOW0h6BpD" / X
+https://x.com/itsmechase/status/1883293497161310403
+
+hkust-nlp/simpleRL-reason: This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
+https://github.com/hkust-nlp/simpleRL-reason
+
+Cursor - The AI Code Editor
+https://www.cursor.com/
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/6797388430d7aa002ca3631e
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+【科普】如何优雅地“注意到”关于e、π的不等式 - 知乎
+https://zhuanlan.zhihu.com/p/669285539
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+Anticipatory-Music-Transformer - Colab
+https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing#scrollTo=N7iVK1jhpoAv
+
+Untitled0.ipynb - Colab
+https://colab.research.google.com/drive/1y_344_WyKyqkmg7mevUPIcYyU6DlMluR#scrollTo=0Msd6i8DWYJi
+
+Untitled1.ipynb - Colab
+https://colab.research.google.com/drive/1S3nq6V8JDOwTtTqD9Lsi9qUn3X0wFoDH#scrollTo=ceC0VAXeoXmd
+
+Oura Ring - Google 搜索
+https://www.google.com/search?q=Oura+Ring&oq=Oura+Ring&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Mego Tan, confirm your email address to access all of X’s features - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsGSXzhRgbcTMRLSHGthchhL
 
 # 2025-01-26
 
