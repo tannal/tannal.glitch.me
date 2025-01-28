@@ -123,7 +123,6 @@ https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sh
 
 Untitled0.ipynb - Colab
 https://colab.research.google.com/drive/1y_344_WyKyqkmg7mevUPIcYyU6DlMluR#scrollTo=0Msd6i8DWYJi
-
 Untitled1.ipynb - Colab
 https://colab.research.google.com/drive/1S3nq6V8JDOwTtTqD9Lsi9qUn3X0wFoDH#scrollTo=ceC0VAXeoXmd
 
