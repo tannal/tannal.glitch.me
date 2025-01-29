@@ -4,6 +4,90 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+Home / X
+https://x.com/home
+
+Dario Amodei — Machines of Loving Grace
+https://darioamodei.com/machines-of-loving-grace
+
+1706.03762
+https://arxiv.org/pdf/1706.03762
+
+1992_Siegelmann_COLT.pdf
+https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf
+
+Opportunities for neuromorphic computing algorithms and applications | Nature Computational Science
+https://www.nature.com/articles/s43588-021-00184-y
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+Oral History of Donna Dubinsky Part 1 of 2 - YouTube
+https://www.youtube.com/watch?v=b3flHmn2NKg
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+正义之心 (豆瓣)
+https://book.douban.com/subject/25867785/
+
+YouTube
+https://www.youtube.com/
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev/streams
+
+YouTube
+https://www.youtube.com/
+
+Code search results
+https://github.com/search?q=owner%3ADioxusLabs%20wei&type=code
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+cpu - Google 搜索
+https://www.google.com/search?sca_esv=b3f94a2ddadc3e46&sxsrf=AHTn8zrI3zRFmDlxDPXvMs3Agt33w6b0Zw:1738147226739&q=cpu&udm=2&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9XSASLdCNmBvs6Xj8xORx7DdQ5Qf-hUGrUlZE47p3nt-4wvHOKCEveZcaC0W7Ti5C0alHkM9v59-5FLXdVE28YJLChyU0lsg4evrr0ELp8KaY_LtUCk3RoYwZptn6CkPy1VPdmreqcI5fvb2ic84I3VdcVrbYLSBCLIjS40DqZlNAaKB8KldsUpGz9en9w8dqZpsT2Q&sa=X&ved=2ahUKEwi2oJGA35qLAxVwHkQIHfWrJpcQtKgLegQIFhAB&biw=1536&bih=695&dpr=1.25#vhid=Q2gtMfVWT0_VQM&vssid=mosaic
+
+Technology Size Comparison 🤯🤯 3D Animation - YouTube
+https://www.youtube.com/watch?v=gfOD-Qpl6eg&list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu&index=3
+
+Neural Turing Machines - Google 搜索
+https://www.google.com/search?q=Neural+Turing+Machines&oq=Neural+Turing+Machines&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Repo Issues
+https://github.com/tannal/ohmywork/issues
+
+tannal (tannal)
+https://github.com/tannal/
+
+1410.5401
+https://arxiv.org/pdf/1410.5401
+
+2006.09286
+https://arxiv.org/pdf/2006.09286
+
+Neural networks and physical systems with emergent collective computational abilities. | PNAS
+https://www.pnas.org/doi/10.1073/pnas.79.8.2554
+
+scihub - Google 搜索
+https://www.google.com/search?q=scihub&oq=scihub&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+A million spiking-neuron integrated circuit with a scalable communication network and interface | Science
+https://www.science.org/doi/10.1126/science.1254642
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Avril Lavigne - When You're Gone | Piano Cover with Strings (with Lyrics & PIANO SHEET) - YouTube
 https://www.youtube.com/watch?v=mWjgPZG4G5c&list=RD5Ggnzs2hP3s&index=3
 
