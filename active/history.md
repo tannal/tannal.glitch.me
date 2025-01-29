@@ -1,6 +1,107 @@
 
 # 2025-01-29
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Avril Lavigne - When You're Gone | Piano Cover with Strings (with Lyrics & PIANO SHEET) - YouTube
+https://www.youtube.com/watch?v=mWjgPZG4G5c&list=RD5Ggnzs2hP3s&index=3
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+IntentToShip: "Blink: Intent to Prototype: CSS if() function" — Bluesky
+https://bsky.app/profile/intenttoship.dev/post/3lgs7acwo7v23
+
+Intent to Prototype: CSS if() function
+https://groups.google.com/a/chromium.org/g/blink-dev/c/ySEBHgVlhBM/m/zO5OcgtWEgAJ
+
+CSS if() [346977961] - Chromium
+https://issues.chromium.org/issues/346977961
+
+[css-values-5] What is the MVP for inline conditionals on custom properties? · Issue #10064 · w3c/csswg-drafts
+https://github.com/w3c/csswg-drafts/issues/10064#issuecomment-2165157958
+
+CSS if() function - Chrome Platform Status
+https://chromestatus.com/feature/6313805904347136?gate=5132766385274880
+
+CSS Functions and Mixins Module
+https://drafts.csswg.org/css-mixins-1/#defining-custom-functions
+
+Multi-cage mode and multiple sandboxes | Dmitry Bezhetskov
+https://dbezhetskov.dev/multi-sandboxes/
+
+google repositories
+https://github.com/orgs/google/repositories
+
+「資訊科技產業專案設計」(2024 年) 第 7 週課程 (補課) - YouTube
+https://www.youtube.com/watch?v=oPD7Tiu0qdI&t=4699s
+
+List of countries by GDP (nominal) per capita - Wikipedia
+https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
+
+chrisdonahue/ai-deadlines: :alarm_clock: AI conference deadline countdowns
+https://github.com/chrisdonahue/ai-deadlines
+
+Anticipatory-Music-Transformer - Colab
+https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing#scrollTo=N7iVK1jhpoAv
+
+Anticipatory-Music-Transformer - Colab
+https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing#scrollTo=_YDCWNNbBI_n
+
+jthickstun/anticipation: Anticipatory Autoregressive Models
+https://github.com/jthickstun/anticipation?tab=readme-ov-file
+
+David Hall: Curriculum Vitae
+http://dlwh.org/cv.pdf
+
+Anticipatory-Music-Transformer - Colab
+https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing#scrollTo=5OKuRb-JtBEb
+
+chrisdonahue/nesmdb: The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
+https://github.com/chrisdonahue/nesmdb
+
+chrisdonahue (chrisdonahue) / Repositories
+https://github.com/chrisdonahue?tab=repositories
+
+爱情公寓 - Google 搜索
+https://www.google.com/search?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93&oq=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEC4YgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzMzgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+Cursor - The AI Code Editor
+https://www.cursor.com/
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/6798d8bdd028770069ec90ee
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Haas, Rossberg, Schuff, Titzer, Gohman, Wagner, Zakai, Bastien, Holman - Bringing the Web up to Speed with WebAssembly.pdf
+https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+(123) Discord | @Mc-Zen
+https://discord.com/channels/@me/1321830740140490762
+
+lilaq-project/lilaq at 0c39c82a376f80c1352b0f9442415114c6b80b41
+https://github.com/lilaq-project/lilaq/tree/0c39c82a376f80c1352b0f9442415114c6b80b41
+
+A Picture Is Worth a Thousand Words | Kyano Levi @ Typst Meetup - YouTube
+https://www.youtube.com/watch?v=cuVYyej_H54
 
 # 2025-01-28
 
