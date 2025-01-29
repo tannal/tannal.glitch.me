@@ -572,7 +572,7 @@ igalia申请 deadline
 
 [] Fly to ChangChun at Sunday or Saturday from GuangZhou BaiYun
 
-# 2025-2-3 - 2025-2-10 冬
+# 2025-2-3 - 2025-2-10 冬 change
 
 Gsoc ideas
 
@@ -584,7 +584,7 @@ https://blog.zulip.com/2024/10/09/google-summer-of-code-2024/
 
 https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
-# 2025-1-27 - 2025-2-3 冬 change
+# 2025-1-27 - 2025-2-3 冬 keep
 
 [] FED interest rate
 []
@@ -607,6 +607,7 @@ https://github.com/zulip/zulip-flutter/issues/292
 
 ## Sunday
 
+No things
 
 ## Saturday
 

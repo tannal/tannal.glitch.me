@@ -1,6 +1,19 @@
 
 # 2025-01-29
 
+In the future, my daily life as the true me is
+sleep wakeup take breakfirst talking to ai with all the things in my life & do the job & talking to people & sleep
+No skiming articles, No reading books twitter and short video, No reading papers unless I have to.
+Because those things can be done with AI.
+
+Sometimes, I need to act like a social people (not exactlly true me)
+travel
+
+约1000个处理单元就可以计算通用递归函数
+
+可以在线性时间内完成模拟
+只需要线性连接(first-order)就足够,不需要高阶连接
+证明了有理权重的递归神经网络(RNN)可以模拟任意图灵机
 
 # 2025-01-28
 
