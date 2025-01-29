@@ -1,6 +1,8 @@
 
 # 2025-01-29
 
+cmake -G "Visual Studio 17 2022" -A x64 -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
+
 In the future, my daily life as the true me is
 sleep wakeup take breakfirst talking to ai with all the things in my life & do the job & talking to people & sleep
 No skiming articles, No reading books twitter and short video, No reading papers unless I have to.

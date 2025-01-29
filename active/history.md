@@ -4,6 +4,78 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+nvidia nasdaq - Google 搜索
+https://www.google.com/search?q=nvidia+nasdaq&oq=nvidia+na&gs_lcrp=EgZjaHJvbWUqFggBEEUYJxg7GEYY-gEYnQIYgAQYigUyBggAEEUYOTIWCAEQRRgnGDsYRhj6ARidAhiABBiKBTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Netscape - Wikipedia
+https://en.wikipedia.org/wiki/Netscape
+
+Oral History of Jim Clark - YouTube
+https://www.youtube.com/watch?v=phk0w1dGYic
+
+安德里森·霍罗威茨 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%AE%89%E5%BE%B7%E9%87%8C%E6%A3%AE%C2%B7%E9%9C%8D%E7%BD%97%E5%A8%81%E8%8C%A8
+
+超級天使 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%B6%85%E7%B4%9A%E5%A4%A9%E4%BD%BF
+
+Super angel - Wikipedia
+https://en.wikipedia.org/wiki/Super_angel
+
+Simon Green (@simesgreen) / X
+https://x.com/simesgreen
+
+Maneesh Agrawala
+https://graphics.stanford.edu/~maneesh/
+
+penrose/penrose: Create beautiful diagrams just by typing notation in plain text.
+https://github.com/penrose/penrose/tree/main?tab=readme-ov-file
+
+Penrose Editor
+https://penrose.cs.cmu.edu/try/
+
+Pat Hanrahan - Search / X
+https://x.com/search?q=Pat%20Hanrahan&src=typed_query&f=top
+
+2019 Turing Award
+https://awards.acm.org/about/2019-turing
+
+RenderMan - Google 搜索
+https://www.google.com/search?q=RenderMan&oq=RenderMan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+appleseedhq/appleseed: A modern open source rendering engine for animation and visual effects
+https://github.com/appleseedhq/appleseed
+
+LuxCoreRender - Google 搜索
+https://www.google.com/search?q=LuxCoreRender&oq=LuxCoreRender&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Home / X
+https://x.com/evenstensberg/status/1884568253592223918/photo/1
+
+GitHub on X: "What tips would you give to someone wanting to get into open source? Here are ours👇 https://t.co/ocVJ6ZVuiz" / X
+https://x.com/github/status/1884288095413055985
+
+X
+https://x.com/evenstensberg
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Maneesh Agrawala (@magrawala) / X
+https://x.com/magrawala
+
+Maneesh Agrawala
+https://graphics.stanford.edu/~maneesh/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Home / X
 https://x.com/home
 
