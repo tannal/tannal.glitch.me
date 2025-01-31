@@ -1,4 +1,215 @@
 
+# 2025-01-30
+
+
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+
+Contents hide
+(Top)
+Origins
+Implications
+Criticism
+Related theories
+
+Moravec's paradox
+Plato's Problem
+Poverty of the stimulus (POS)
+Meno’s Paradox
+The Learning Paradox
+References
+Polanyi's paradox
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+
+Professor Michael Polanyi on a hike in England
+Polanyi's paradox, named in honour of the British-Hungarian philosopher Michael Polanyi, is the theory that human knowledge of how the world functions and of our own capability are, to a large extent, beyond our explicit understanding. The theory was articulated by Michael Polanyi in his book The Tacit Dimension in 1966, and economist David Autor gave it a name in his 2014 research paper "Polanyi's Paradox and the Shape of Employment Growth".[1]
+
+Summarised in the slogan "We can know more than we can tell", Polanyi's paradox is mainly to explain the cognitive phenomenon that there exist many tasks which we, human beings, understand intuitively how to perform but cannot verbalize their rules or procedures.[2]
+
+This "self-ignorance" is common to many human activities, from driving a car in traffic to face recognition.[3] As Polanyi argues, humans are relying on their tacit knowledge, which is difficult to adequately express by verbal means, when engaging these tasks.[2] Polanyi's paradox has been widely considered to identify a major obstacle in the fields of AI and automation, since programming an automated task or system is difficult unless a complete and fully specific description of the procedure is available.[4]
+
+Origins
+British-Hungarian philosopher Michael Polanyi regularly studied the causes behind human ability to acquire knowledge that they cannot explain through logical deduction. In his work The Tacit Dimension (1966), Polanyi explored the 'tacit' dimension to human knowledge and developed the concept of "tacit knowledge", as opposed to the term "explicit knowledge".[2]
+
+Tacit knowledge can be defined as knowledge people learn from experiences and internalize unconsciously, which is therefore difficult to articulate and codify it in a tangible form. Explicit knowledge, the opposite of tacit knowledge, is knowledge that can be readily verbalized and formalized.[2] Tacit knowledge is largely acquired through implicit learning, the process by which information is learned independently of the subjects' awareness. For example, native speakers tacitly acquire their language in early childhood without consciously studying specific grammar rules (explicit knowledge), but with extensive exposure to day-to-day communication.[5] Besides, people can only limitedly transfer their tacit knowledge through close interactions (sharing experiences with one another or observing others' behaviors). A certain level of trust needs to be established between individuals to capture tacit knowledge.[6]
+
+Tacit knowledge comprises a range of conceptual and sensory information that is featured with strong personal subjectivity. It is implicitly reflected in human actions; as argued by Polanyi, "tacit knowledge dwells in our awareness".[2] People's skills, experiences, insight, creativity and judgement all fall into this dimension.[7] Tacit knowledge can also be described as know-how, distinguishing from know-that or facts.[6] Before Polanyi, Gilbert Ryle published a paper in 1945 drawing the distinction between knowing-that (knowledge of proposition) and knowing-how. According to Ryle, this know-how knowledge is the instinctive and intrinsic knowledge ingrained in the individual's human capability.[8]
+
+Since tacit knowledge cannot be stated in propositional or formal form, Polanyi concludes such inability in articulation in the slogan ‘We can know more than we can tell’.[2] Daily activities based on tacit knowledge include recognizing a face, driving a car, riding a bike, writing a persuasive paragraph, developing a hypothesis to explain a poorly understood phenomenon.[7] Take facial recognition as an illustration: we can recognize our acquaintance's face out of a million others while we are not conscious about the knowledge of his face. It would be difficult for us to describe the precise arrangement of his eyes, nose and mouth, since we memorize the face unconsciously.[4]
+
+As a prelude to The Tacit Dimension, in his book Personal Knowledge (1958), Polanyi claims that all knowing is personal, emphasizing the profound effects of personal feelings and commitments on the practice of science and knowledge. Arguing against the then dominant Empiricists view that minds and experiences are reducible to sense data and collections of rules, he advocates a post-positivist approach that recognizes human knowledge is often beyond their explicit expression. Any attempt to specify tacit knowing only leads to self-evident axioms that cannot tell us why we should accept them.[9]
+
+Implications
+Polanyi's observation has deep implications in the AI field since the paradox he identified that "our tacit knowledge of how the world works often exceeds our explicit understanding" accounts for many of the challenges for computerization and automation over the past five decades.[1] Automation requires high levels of exactness to inform the computer what is supposed to be done while tacit knowledge cannot be conveyed in a propositional form. Therefore, machines cannot provide successful outcomes in many cases: they have explicit knowledge (raw data) but nevertheless, do not know how to use such knowledge to understand the task as whole.[6] This discrepancy between human reasoning and AI learning algorithms makes it difficult to automate tasks that demand common sense, flexibility, adaptability and judgment — human intuitive knowledge.[4]
+
+MIT economist David Autor is one of the leading sceptics who doubt the prospects for machine intelligence. Despite the exponential growth in computational resources and the relentless pace of automation since the 1990s, Autor argues, Polanyi's paradox impedes modern algorithms to replace human labor in a range of skilled jobs. The extent of machine substitution of human labor, therefore, has been overestimated by journalists and expert commentators.[1] Although contemporary computer science strives for prevailing over Polanyi's paradox, the ever-changing, unstructured nature of some activities currently presents intimidating challenges for automation. Despite years of time and billions of investment spent on the development of self-driving cars and cleaning robots, these machine learning systems continue to struggle with their low adaptability and interpretability, from self-driving cars' inability to make an unexpected detour to cleaning robots' vulnerability to unmonitored pets or kids.[10] Instead, to let self-driving cars function optimally, we have to change current road infrastructure significantly, minimizing the need for human capabilities in the whole driving process.[11]
+
+The increasing occupational polarisation in the past few decades —the growth of both high-paid, high-skill abstract jobs and lower-paid, low-skill manual jobs — has been a manifestation of Polanyi's paradox. According to Autor, there are two types of tasks proven stubbornly challenging for artificial intelligence (AI): abstract tasks that require problem-solving capabilities, intuition, creativity and persuasion on the one hand, and manual tasks demanding situational adaptability, visual recognition, language understanding, and in-person interactions on the other. Abstract tasks are characteristic of professional, managerial, and technical occupations, while service and laborer occupations involve many manual tasks (e.g. cleaning, lifting and throwing). These jobs tend to be complemented by machines rather than substituted.[1]
+
+By contrast, as the price of computing power declines, computers extensively substitute for routine tasks that can be codified into clear sets of instructions, resulting in a dramatical decline in employment of routine task-­intensive jobs.[1] This polarization has resulted in a shrinking middle class across industrialized economies since many middle-income occupations in sales, office and administrative work and repetitive production work are task-­intensive. Moreover, the subsequent growth in income inequality and wealth disparity has recently emerged as a major socio-economic issue in developed countries.[12]
+
+Criticism
+
+This section may contain material not related to its topic and should be moved to Artificial intelligence instead. Please help improve this section or discuss this issue on the talk page. (August 2022) (Learn how and when to remove this message)
+Some technological optimists argue that recent advances in machine learning have overcome Polanyi's paradox. Instead of relying on programmer’s algorithms to instruct them in human knowledge, computer systems are now able to learn tacit rules from context, abundant data, and applied statistics on their own. Since machines can infer the tacit knowledge that human beings draw upon from examples without human assistance, they are no longer limited by those rules tacitly applied but not explicitly understood by humans.[13]
+
+
+Lee Sedol (B) vs AlphaGo (W) - Game 1
+AlphaGo program built by the Google subsidiary DeepMind is an example of how advances in AI have allowed mindless machines to perform very well in tasks based on tacit knowledge. In the 2016 tournament of the strategy game Go, DeepMind's AlphaGo program successfully defeated one of the world's top GO players, Lee Se-dol, four games to one. DeepMind team employed an approach known as deep learning to build human-type judgment into AI systems; such a system can figure out complex winning strategies by analyzing large amounts of data from previous Go matches.[3]
+
+On the other hand, as Carr argues, the assumption that computers need to be able to reproduce the tacit knowledge humans would apply to perform complicated tasks is itself open to doubt. When performing tasks, it is not at all necessary for systems and machines to follow the rules that human beings follow. The goal in having a machine perform a task is to replicate our outcomes for practical purposes, rather than our means.[14]
+
+Jerry Kaplan, a Silicon Valley entrepreneur and AI expert, also illustrates this point in his book Humans Need Not Apply by discussing four resources and capabilities required to accomplish any given task: awareness, energy, reasoning and means. Humans' biological system (the brain-body complex) naturally integrates all these four properties, while in the electronic domain machines can be given these abilities by developments in robotics, machine learning, and perception powering systems. For example, data provided by a wide network of sensors enable AI to perceive various aspects of the environment and respond instantly in chaotic and complex real-world situations (i.e. awareness); orders and signals for actuating devices can be centralised and managed in server clusters or on the 'cloud' (reasoning).[15] Kaplan's argument directly supports the proposition that Polanyi's paradox can no longer impede further levels of automation, whether in performing routine jobs or manual jobs. As Kaplan puts it, "Automation is blind to the colour of your collar."[15]
+
+One example confirms Kaplan's argument is the introduction of Cloud AutoML, an automated system that could help every business design AI software, by Google Brain AI research group in 2017. The learning algorithms of AutoML automates the process of building machine-learning models that can take on a particular task, aiming to democratize AI to the largest possible community of developers and businesses. According to Google’s CEO, Cloud AutoML has taken over some of the work of programmers (which is, in the words of Autor, "abstract task") and thereby offered one solution to the shortage in machine-learning experts.[16]
+
+Related theories
+Moravec's paradox
+Moravec’s paradox claims that compared with sophisticated tasks demanding high-level reasoning, it is harder for computers to master low-level physical and cognitive skills that are natural and easy for humans to perform. Examples include natural language processing and dextrous physical movements (e.g. running over rough terrain).[17]
+
+Robotics experts have, accordingly, found it difficult to automate the skills of even the least-trained manual worker, since these jobs require perception and mobility (tacit knowledge).[17] In the words of the cognitive scientist Steven Pinker from his book The Language Instinct, "The main lesson of thirty-five years of AI research is that the hard problems are easy and the easy problems are hard."[18]
+
+Corresponding to David Autor's discussion on jobs polarization, Pinker maintains that the appearance of the new generation's intelligent machines would place stock analysts, petrochemical engineers and parole board members in danger of being replaced. Gardeners, receptionists, and cooks are, by contrast, currently secure.[18]
+
+Plato's Problem
+Plato's Problem is the term given by Noam Chomsky to "the problem of explaining how we can know so much" given our limited experience.
+
+Poverty of the stimulus (POS)
+Poverty of the stimulus (POS) is the argument from linguistics that children are not exposed to rich enough data within their linguistic environments to acquire every feature of their language.
+
+Meno’s Paradox
+Meno’s Paradox can be formulated as follows:
+
+If you know what you’re looking for, inquiry is unnecessary.
+If you don’t know what you’re looking for, inquiry is impossible.
+Therefore, inquiry is either unnecessary or impossible.
+There is within these arguments an implicit premise that either you know what you’re looking for or you don’t know what you’re looking for.
+
+The Learning Paradox
+The Learning Paradox (Fodor 1980) holds that knowledge can either not be new, or not be learned. If new knowledge can be expressed in terms of old knowledge, it is not new. If it cannot be expressed in terms of old knowledge, it cannot be understood. Therefore, learning something genuinely novel is impossible and all essential structures must be present at birth.
+
+References
+ Autor, David (2014), Polanyi's Paradox and the Shape of Employment Growth, NBER Working Paper Series, Cambridge, MA: National Bureau of Economic Research, pp. 1–48
+ Polanyi, Michael (May 2009). The Tacit Dimension. Chicago: University of Chicago Press. pp. 1–26. ISBN 9780226672984. OCLC 262429494.
+ McAfee, Andrew; Brynjolfsson, Erik (16 March 2016). "Where Computers Defeat Humans, and Where They Can't". The New York Times. Archived from the original on 16 October 2018. Retrieved 2018-10-04.
+ Walsh, Toby (September 7, 2017). Android Dreams: the Past, Present and Future of Artificial Intelligence. London: C Hurst & Co Publishers Ltd. pp. 89–97. ISBN 9781849048712. OCLC 985805795.
+ Reber, Arthur (September 1989). "Implicit Learning and Tacit Knowledge". Journal of Experimental Psychology: General. 118 (3): 219–235. CiteSeerX 10.1.1.207.6707. doi:10.1037/0096-3445.118.3.219.
+ Asanarong, Thanathorn; Jeon, Sowon; Ren, Yuanlin; Yeo, Christopher (18 December 2018). "Creating a Knowledge Management Culture for Ganga River". Ganga Rejuvenation : Governance Challenges and Policy Options. Wu Xun, Robert James Wasson, Ora-Orn Poocharoen. New Jersey: World Scientific. p. 349. ISBN 9789814704588. OCLC 1013819475.
+ Chugh, Ritesh (2015), "Do Australian Universities Encourage Tacit Knowledge Transfer", Proceedings of the 7th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management, Lisbon, PT: 128–135
+ Ryle, Gilbert (1945). "Knowing How and Knowing That: The Presidential Address". Proceedings of the Aristotelian Society. 46: 1–16. doi:10.1093/aristotelian/46.1.1. JSTOR 4544405.
+ Polanyi, Michael (1974). Personal Knowledge : Towards a Post-critical Philosophy. Chicago: University Of Chicago Press. ISBN 978-0226672885. OCLC 880960082.
+ Prassl, Jeremias (2018). Humans as a Service : the Promise and Perils of Work in the Gig Economy. Oxford: Oxford University Press. pp. 138–139. ISBN 9780198797012. OCLC 1005117556.
+ Badger, Emily (January 15, 2015). "5 Confounding Questions that Hold the Key to the Future of Driverless Cars". Washington Post. Archived from the original on August 25, 2018. Retrieved 2018-10-31.
+ Vardi, Moshe (February 2015). "Is Information Technology Destroying the Middle Class?". Communications of the ACM. 58 (2): 5. doi:10.1145/2666241.
+ Susskind, Daniel (2017), Re-Thinking the Capabilities of Machines in Economics (PDF), University of Oxford Department of Economics Discussion Paper Series, Oxford, OX, pp. 1–14, archived (PDF) from the original on 2017-06-26, retrieved 2018-10-04
+ Carr, Nicholas (September 29, 2014). The Glass Cage: Automation and Us (First ed.). New York: W. W. Norton & Company. pp. 11–12. ISBN 9780393240764. OCLC 870098283.
+ Kaplan, Jerry (August 4, 2015). Humans Need Not Apply : a Guide to Wealth and Work in the Age of Artificial Intelligence. New Haven: Yale University Press. pp. 41–43, 145. ISBN 9780300223576. OCLC 907143085.
+ Simonite, Tom (May 17, 2017). "Google's CEO is excited about seeing AI take over some work of his AI experts". MIT Technology Review. Retrieved 2018-10-30.
+ Brynjolfsson, Erik; McAfee, Andrew (January 20, 2014). The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies (First ed.). New York: W. W. Norton & Company. pp. 47–50. ISBN 9780393239355. OCLC 867423744.
+ Pinker, Steven (1994). The Language Instinct: How the Mind Creates Language. New York: William Morrow and Company. ISBN 978-0688121419. OCLC 28723210.
+Category: Philosophical paradoxes
+This page was last edited on 2 February 2024, at 21:08 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia FoundationPowered by MediaWiki
+
+Polanyi's paradox
+
+1 language
+Add topic
+
+
+他本人这么认为
+
+试图完全明确说明隐性知识只会导致无法解释为什么我们要接受它们的自明公理？
+
+人类真有意思，既然如此你不可能教会别人骑自行车
+
+我们可以说"保持平衡"，但如何保持平衡是学生自己独立发现的，并不依赖于我的教授
+
+学生发现了什么是平衡什么是不平衡，然后学会了如何保持平衡，
+而不是老师告诉学生要保持平衡导致学生学会了保持平衡
+
+我们以为是"告诉→理解→执行"
+实际是"体验→发现→理解→掌握"
+老师说"保持平衡"对初学者而言只是空洞的词语
+只有在自己发现后，这句话才有真正的意义
+
+我不理解
+
+实际的学习过程（"体验→发现→理解→掌握"）：
+那老师说保持平衡有什么用？
+
+给学习者一个心理暗示："这是可以做到的"
+这个太重要了，这是竞赛生对别人分享经验的时候经常说的，这题一定有解
+
+从这个角度，人类之所以能互相理解，本质上是因为基因的相似性，
+语言理解只是一个大家想到一块去了的一个表现
+
+即便有很多信息不直接编码在语言中，用于训练的数据只要有足够的上下文就能够区分歧义，
+人类现在能够利用计算机编码这些信息，成为一个大语言模型，挺厉害的。
+
+Document
+├── Block Box
+│   ├── Margin
+│   ├── Border
+│   ├── Padding
+│   └── Content (Text)
+│       ├── Font
+│       ├── Layout
+│       └── Line Height
+└── Inline Box
+    ├── Text Flow
+    └── Alignment
+
+- 字形渲染(Glyph Rendering)
+- 字体特性(Font Features)
+- 文本布局(Text Layout)
+- 连字(Ligatures)
+- 双向文本(BiDi)
+- 行间距(Line Height)
+- 块级盒子(Block Box)
+- 行内盒子(Inline Box)
+- 边距(Margin)
+- 内边距(Padding)
+- 边框(Border)
+- 对齐(Alignment)
+- 浮动(Float)
+- 定位(Position)
+
 # 2025-01-29
 
 cmake -G "Visual Studio 17 2022" -A x64 -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_BUILD_TYPE='Debug'
