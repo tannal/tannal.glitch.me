@@ -1,4 +1,114 @@
 
+# 2025-01-31
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Get Rust code linking in with filament · raphlinus/filament@133c5ff
+https://github.com/raphlinus/filament/commit/133c5ff08735f99553da6ac644f4c16f9df10101
+
+arman on X: "if you’re a software engineer, mandarin chinese should be the next language you learn." / X
+https://x.com/armankhon/status/1884630555301687668
+
+Kurt Akeley Interview; 2010-11-05
+http://archive.computerhistory.org/resources/access/text/2012/03/102754049-05-01-acc.pdf
+
+akeley-reality-engine-graphics.pdf
+http://cva.stanford.edu/classes/cs99s/papers/akeley-reality-engine-graphics.pdf
+
+evmar/n2: n2 ("into"), a ninja compatible build system
+https://github.com/evmar/n2
+
+linebender/gpu-stroke-expansion-paper
+https://github.com/linebender/gpu-stroke-expansion-paper
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+两元店
+https://liangyuandian.xyz/#/node
+
+tannal (tannal)
+https://github.com/tannal/
+
+Office Hours 2025-01-30 - Google 文档
+https://docs.google.com/document/d/1cL4CywyDJ-AdTyQTYTySYJWCsaq0nT50uV9rliFM6zU/edit?tab=t.0#heading=h.9ii7nw9suctt
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+Add Decorators implementation update to the agenda · tc39/agendas@78aa37a
+https://github.com/tc39/agendas/commit/78aa37a448fae727470f8625656cdad800fccc9a
+
+tc39-agenda-time.deno.dev/2025/02/
+https://tc39-agenda-time.deno.dev/2025/02/
+
+Kane Jamison: "I would pay good money if macOS would just let me name my Desktops." — Bluesky
+https://bsky.app/profile/kanejamison.com/post/3lgy2a5vdn22m
+
+llms.txt directory
+https://directory.llmstxt.cloud/
+
+docs.anthropic.com/llms-full.txt
+https://docs.anthropic.com/llms-full.txt
+
+Issue search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+cosmic-text&type=issues
+
+两元店
+https://liangyuandian.xyz/#/dashboard
+
+Home / X
+https://x.com/home
+
+My Journey is Finally Over - I know Network Programming - YouTube
+https://www.youtube.com/watch?v=jwb7SmyGr3A
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+搜索 — Bluesky
+https://bsky.app/search?q=Andrej+Karpathy
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Discover — Bluesky
+https://bsky.app/
+
+Polanyi's paradox - Wikipedia
+https://en.wikipedia.org/wiki/Polanyi%27s_paradox
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal (tannal)
+https://github.com/tannal/
+
+how to solve book - Google 搜索
+https://www.google.com/search?q=how+to+solve+book&sca_esv=f7d0e50f4e4a8e82&sxsrf=AHTn8zo6zMCZ38guCCaR2BQUAh2Auvf8zA%3A1738312295643&ei=Z4qcZ4f2Jp3MkPIP5de0uAU&ved=0ahUKEwjHxY_3xZ-LAxUdJkQIHeUrDVcQ4dUDCBE&uact=5&oq=how+to+solve+book&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWhvdyB0byBzb2x2ZSBib29rMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUiIBlAAWOYEcAB4AZABAJgB8QKgAfwEqgEFMi0xLjG4AQPIAQD4AQGYAgKgApAFwgIIEC4YgAQYywGYAwCSBwUyLTEuMaAH0ws&sclient=gws-wiz-serp
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/679c9b446a95f70015820f26
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+Home / X
+https://x.com/home
+
 # 2025-01-30
 
 
