@@ -4,6 +4,141 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+Jason Turner on X: "If you are un- or under- employed, you MUST think of this time as an opportunity, not a setback! It's hard, I've done it many times. * learn new things * exercise * invest in your family * speak at conferences There's a chance to come out ahead after this time between jobs!" / X
+https://x.com/lefticus/status/1885125095049347474
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+bytedance ai code editor - Google 搜索
+https://www.google.com.hk/search?q=bytedance+ai+code+editor&newwindow=1&sca_esv=61c64a259e7d732d&ei=iMGcZ_GZGdH1i-gPiunwoQw&ved=0ahUKEwjx_c7A-p-LAxXR-gIHHYo0PMQQ4dUDCBE&uact=5&oq=bytedance+ai+code+editor&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhhieXRlZGFuY2UgYWkgY29kZSBlZGl0b3IyBxAhGKABGAoyBxAhGKABGApI_h5QngRY-x1wAXgBkAEAmAHmAqABjxyqAQYyLTEyLjG4AQPIAQD4AQGYAg6gAsocwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIUEC4YgAQY0QMY0gMYxwEYqAMYiwPCAg0QABiABBhDGIoFGIsDwgIIEAAYgAQYiwPCAgcQABiABBgMwgILEC4YgAQYxwEYrwHCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABgTGAUYHsICChAAGBMYCBgKGB7CAgQQABgewgIIEAAYgAQYogTCAgUQABjvBcICCBAAGAgYChgewgIFECEYoAGYAwCIBgGQBgeSBwgxLjAuMTEuMqAHsCg&sclient=gws-wiz-serp
+
+VSCodium - Google 搜索
+https://www.google.com.hk/search?q=VSCodium&oq=VSCodium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+VSCodium repositories
+https://github.com/orgs/VSCodium/repositories
+
+Atom Shell vscode - Google 搜索
+https://www.google.com.hk/search?q=Atom+Shell+vscode&newwindow=1&sca_esv=61c64a259e7d732d&ei=xMKcZ5qNMfCei-gPx_SEgQ4&ved=0ahUKEwia_73X-5-LAxVwzwIHHUc6IeAQ4dUDCBE&uact=5&oq=Atom+Shell+vscode&gs_lp=Egxnd3Mtd2l6LXNlcnAiEUF0b20gU2hlbGwgdnNjb2RlMgcQIRigARgKMgcQIRigARgKSN8PUABYqQ1wAHgBkAEAmAH6AqAB0BCqAQUyLTQuM7gBA8gBAPgBAZgCB6AC8RDCAgUQABiABMICBBAAGB7CAgYQABgKGB7CAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAggQABiABBiiBMICBRAAGO8FwgIFECEYoAGYAwCSBwUyLTQuM6AHpxA&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal/
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+D3 by Observable | The JavaScript library for bespoke data visualization
+https://d3js.org/
+
+Hexbin (area) / D3 | Observable
+https://observablehq.com/@d3/hexbin-area
+
+d3-selection/src/matcher.js at main · d3/d3-selection
+https://github.com/d3/d3-selection/blob/main/src/matcher.js
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+linebender repositories
+https://github.com/orgs/linebender/repositories
+
+dixous - Google 搜索
+https://www.google.com.hk/search?q=dixous&oq=dixous&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDINCAIQLhjHARjRAxiABDIHCAMQLhiABDIHCAQQLhiABDIJCAUQABgKGIAEMg0IBhAuGMcBGNEDGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjUzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Dioxus Labs
+https://github.com/DioxusLabs
+
+Home / X
+https://x.com/home
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Home / X
+https://x.com/home
+
+Discover — Bluesky
+https://bsky.app/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+tannal (tannal)
+https://github.com/tannal/
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Following — Bluesky
+https://bsky.app/
+
+北京贷款买房 知乎 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E4%BA%AC%E8%B4%B7%E6%AC%BE%E4%B9%B0%E6%88%BF+%E7%9F%A5%E4%B9%8E&sca_esv=d94bf74ecc524227&sxsrf=AHTn8zoJtp75qak-0hbeWzFL5_PCdDIwxQ:1738394612062&ei=9MudZ63AA7WY0PEPlbWKoQI&start=10&sa=N&sstk=Af40H4VZs1h7INacsbxkt7wkxqLLjasNQ43mndVv41MWby5C06LRk_-gViLyD4OUtQJcNiyFFtwCzLMisaT_loIMCwqbuplz3TYUVw&ved=2ahUKEwititPK-KGLAxU1DDQIHZWaIiQQ8tMDegQIBxAE&biw=1536&bih=695&dpr=1.25
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+皮埃尔·布迪厄 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E5%B8%83%E8%BF%AA%E5%8E%84#%E7%AC%A6%E8%99%9F%E6%9A%B4%E5%8A%9B
+
+框架 (社会科学) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%A1%86%E6%9E%B6_(%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8)
+
+Mego Tan: "Talking to AI is like looking in a mirror - it reflects our knowledge, thinking patterns, and biases. The quality of AI responses often mirrors the quality of our questions. It's both a tool for self-reflection and a reminder to maintain independent thinking. #AI #ChatGPT" — Bluesky
+https://bsky.app/profile/tannal.github.io/post/3lgoysoweak2t
+
+Noam Chomsky - Google 搜索
+https://www.google.com/search?sca_esv=577bb668e7e98e33&sxsrf=AHTn8zrretfH9w3SAQ71MQAbN2AddxmADA:1738396460611&q=Noam+Chomsky&udm=7&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9XSASLdCNmBvs6Xj8xORx7Om7_H8Etm1pfHATnTepsdei1JEH97XUpQrBGn0b9_p48Y8dOKzRj9ihkqlxyyW9iRxP9uAWvY6K2zXVCExARVbCYXXwSD1Sc046S22pyNISTlTDmW2f9RvG-_HnwJor8g3cMuJGKlHF9Q0SMw8c1mvrZ2u7Ys76EudS_A8RA2aT025cWg&sa=X&ved=2ahUKEwjfyY28_6GLAxXvOTQIHZpiKF8QtKgLegQIGBAB&biw=1536&bih=695&dpr=1.25#ip=1
+
+bsky.app
+https://bsky.app/profile/tannal.github.io
+
+Home / X
+https://x.com/home
+
+Steve Jobs talk at the 1983 International Design Conference in Aspen - YouTube
+https://www.youtube.com/watch?v=yHB_5WmRbho&t=2508s
+
+Home / X
+https://x.com/home
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+Falling Into The Pit of Success
+https://blog.codinghorror.com/falling-into-the-pit-of-success/
+
+Following — Bluesky
+https://bsky.app/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+Platform Strategy and Its Discontents - Infrequently Noted
+https://infrequently.org/2024/10/platforms-are-competitions/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Get Rust code linking in with filament · raphlinus/filament@133c5ff
 https://github.com/raphlinus/filament/commit/133c5ff08735f99553da6ac644f4c16f9df10101
 
