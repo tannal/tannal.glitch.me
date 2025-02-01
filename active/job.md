@@ -586,10 +586,13 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-27 - 2025-2-3 冬 keep
 
-[] FED interest rate
-[]
+[x] FED interest rate
+[] bluesky RN windows
 
 √ 1-29 Chinese New Year
+√ Leetcode top 150 voting algorithm rotate reducedupII
+√ Hinton talk Cliff Click JVM Talk regionaltantrums GPU talk
+https://www.youtube.com/@regionaltantrums
 √
 
 # 2025-1-20 - 2025-1-27 冬 keep
