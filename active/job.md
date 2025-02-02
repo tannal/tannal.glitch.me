@@ -587,7 +587,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 # 2025-1-27 - 2025-2-3 冬 keep
 
 [x] FED interest rate
-[] bluesky RN windows
+[] bluesky RN windows startup BdReactNative not found
+[] leetcode batch processing
+[] AI as workdesk capture internal thought process
 
 √ 1-29 Chinese New Year
 √ Leetcode top 150 voting algorithm rotate reducedupII

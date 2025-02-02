@@ -1,6 +1,281 @@
 
 # 2025-02-02
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+cursor + claude 3.5 sonnet - Google 搜索
+https://www.google.com/search?q=cursor+%2B+claude+3.5+sonnet&sca_esv=504743a70e2da67d&sxsrf=AHTn8zqwL76WJhTDtHLKcEuuQvY8D6UE4w%3A1738499814708&ei=5mafZ678KoakkPIPmdC9qQo&oq=cursor+%2B+cl&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2N1cnNvciArIGNsKgIIATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBBAAGB4yBhAAGAoYHkjcH1DCAljLFXABeACQAQGYAbUFoAGdFqoBCTItMy4xLjEuMrgBA8gBAPgBAZgCBqAC_Q_CAgkQABiwAxgHGB7CAgkQABiwAxgIGB7CAgQQIxgnwgIKECMYgAQYJxiKBcICBRAAGIAEmAMAiAYBkAYKkgcLMS4wLjIuMS4xLjGgB_oa&sclient=gws-wiz-serp
+
+Cursor - Community Forum - The official forum to discuss Cursor.
+https://forum.cursor.com/
+
+Repo Issues
+https://github.com/coder/cursor-arm/issues
+
+I take everything back what I said about cursor + Claude Sonnet 3.5 it's awesome : r/ClaudeAI
+https://www.reddit.com/r/ClaudeAI/comments/1fgkgy2/i_take_everything_back_what_i_said_about_cursor/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1898679 - canvas.toDataURL creates a string that does not work as src for an image element
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898679
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/videos
+
+Adam Foxman (@afoxman4) / X
+https://x.com/afoxman4
+
+microsoft/microsoft-ui-xaml: WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+https://github.com/microsoft/microsoft-ui-xaml
+
+Home / X
+https://x.com/home
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+spacedriveapp/spacedrive: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+https://github.com/spacedriveapp/spacedrive
+
+Releases · immense/Remotely
+https://github.com/immense/Remotely
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+PageSpeed Insights
+https://pagespeed.web.dev/analysis/https-www-bilibili-com/fw2epjmstl?form_factor=mobile
+
+figma electron .net - Google 搜索
+https://www.google.com/search?q=figma+electron+.net&oq=figma+electron+.net&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMggIAhAAGBMYHjIKCAMQABgIGBMYHjIKCAQQABgIGBMYHjIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBDIHCAkQABjvBdIBCDkxMDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+Ian 'Hixie' Hickson: Towards a Modern Web Stack | Hacker News
+https://news.ycombinator.com/item?id=36968263
+
+Odysseys in Technology: Research and Fun, lecture by Ivan Sutherland - YouTube
+https://www.youtube.com/watch?v=FIMaf4RemOU
+
+Issue search results
+https://github.com/search?q=author%3Ajoyeecheung+&type=issues&p=3
+
+Enable ccache on Windows v2 by StefanStojanovic · Pull Request #56847 · nodejs/node
+https://github.com/nodejs/node/pull/56847/commits/185bf60ee967cdb633520e4717987cfa2c886bb5
+
+Home / X
+https://x.com/home
+
+Careers | Tenstorrent
+https://tenstorrent.com/careers
+
+Job Application for Middle East Regional Sales Lead at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4590678007
+
+tenstorrent/tt-mlir: Tenstorrent MLIR compiler
+https://github.com/tenstorrent/tt-mlir?tab=readme-ov-file
+
+Building - tt-mlir documentation
+https://docs.tenstorrent.com/tt-mlir/build.html
+
+15-668 Advanced Parallel Graphics
+https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/
+
+Need support for non-Vulkan GLSL and ESSL backends · Issue #6142 · shader-slang/slang
+https://github.com/shader-slang/slang/issues/6142
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+Max-Flow.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/proj03/Max-Flow.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Posts with replies by Mego Tan (@megotannal) / X
+https://x.com/megotannal/with_replies
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+using vello in flutter - Google 搜索
+https://www.google.com/search?q=using+vello+in+flutter&oq=using+vello+in+flutter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDU4NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+DioxusLabs/dioxus: Fullstack app framework for web, desktop, mobile, and more.
+https://github.com/DioxusLabs/dioxus
+
+Home / X
+https://x.com/home
+
+ratatui/ratatui: A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+https://github.com/ratatui/ratatui
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+tannal (tannal)
+https://github.com/tannal/
+
+Flutter is the best cross platform app development and I hope they don't discontinue it! : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1bdg6w6/flutter_is_the_best_cross_platform_app/
+
+Following — Bluesky
+https://bsky.app/
+
+WIP: replace cassowary with taffy (Proof-of-Concept) by hasezoey · Pull Request #385 · ratatui/ratatui
+https://github.com/ratatui/ratatui/pull/385
+
+how to think about algorithms 2nd edition pdf - Google 搜索
+https://www.google.com/search?q=how+to+think+about+algorithms+2nd+edition++pdf&sca_esv=f4447c646f0a5466&sxsrf=AHTn8zpCx63p3Ea5P0vPrLV2H2Q8si0rTQ%3A1738497286251&ei=Bl2fZ6j7Dvarur8P2pnO6Ac&ved=0ahUKEwiolsKJ96SLAxX2le4BHdqME30Q4dUDCBE&uact=5&oq=how+to+think+about+algorithms+2nd+edition++pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmhvdyB0byB0aGluayBhYm91dCBhbGdvcml0aG1zIDJuZCBlZGl0aW9uICBwZGYyBxAAGLADGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMggQABiwAxjvBUiJC1CSAViFCnABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgSYAwCIBgGQBgaSBwExoAcA&sclient=gws-wiz-serp
+
+SGI - Google 搜索
+https://www.google.com/search?q=SGI&oq=SGI&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIMCAMQIxgnGIAEGIoFMgwIBBAjGCcYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPdIBBzkxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Following — Bluesky
+https://bsky.app/
+
+Half-Edge | Handmade Network
+https://half-edge.handmade.network/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/#other-application-classes
+
+Preact
+https://preactjs.com/
+
+Stencil
+https://stenciljs.com/
+
+ionic-team/stencil: A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
+https://github.com/ionic-team/stencil
+
+Issue search results
+https://github.com/search?q=repo%3Alapce%2Flapce+rich+text&type=issues
+
+xi-editor/xi-editor: A modern editor with a backend written in Rust.
+https://github.com/xi-editor/xi-editor
+
+Implement workspaces [pub client] · Issue #4127 · dart-lang/pub
+https://github.com/dart-lang/pub/issues/4127
+
+Flutter Zego - Google 搜索
+https://www.google.com/search?q=Flutter+Zego&oq=Flutter+Zego&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+FlutterFlow
+https://github.com/FlutterFlow
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Jim Keller (@jimkxa) / X
+https://x.com/jimkxa
+
+Ian 'Hixie' Hickson: Towards a Modern Web Stack | Hacker News
+https://news.ycombinator.com/item?id=36968263
+
+Odysseys in Technology: Research and Fun, lecture by Ivan Sutherland - YouTube
+https://www.youtube.com/watch?v=FIMaf4RemOU
+
+Issue search results
+https://github.com/search?q=author%3Ajoyeecheung+&type=issues&p=3
+
+Enable ccache on Windows v2 by StefanStojanovic · Pull Request #56847 · nodejs/node
+https://github.com/nodejs/node/pull/56847/commits/185bf60ee967cdb633520e4717987cfa2c886bb5
+
+Home / X
+https://x.com/home
+
+Careers | Tenstorrent
+https://tenstorrent.com/careers
+
+Job Application for Middle East Regional Sales Lead at Tenstorrent
+https://boards.greenhouse.io/tenstorrent/jobs/4590678007
+
+tenstorrent/tt-mlir: Tenstorrent MLIR compiler
+https://github.com/tenstorrent/tt-mlir?tab=readme-ov-file
+
+Building - tt-mlir documentation
+https://docs.tenstorrent.com/tt-mlir/build.html
+
+15-668 Advanced Parallel Graphics
+https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/
+
+Need support for non-Vulkan GLSL and ESSL backends · Issue #6142 · shader-slang/slang
+https://github.com/shader-slang/slang/issues/6142
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+Max-Flow.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/proj03/Max-Flow.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Posts with replies by Mego Tan (@megotannal) / X
+https://x.com/megotannal/with_replies
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+using vello in flutter - Google 搜索
+https://www.google.com/search?q=using+vello+in+flutter&oq=using+vello+in+flutter&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDU4NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+DioxusLabs/dioxus: Fullstack app framework for web, desktop, mobile, and more.
+https://github.com/DioxusLabs/dioxus
+
+Home / X
+https://x.com/home
+
+ratatui/ratatui: A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+https://github.com/ratatui/ratatui
+
+alacritty/alacritty: A cross-platform, OpenGL terminal emulator.
+https://github.com/alacritty/alacritty
+
+tannal (tannal)
+https://github.com/tannal/
+
+Flutter is the best cross platform app development and I hope they don't discontinue it! : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1bdg6w6/flutter_is_the_best_cross_platform_app/
+
+Following — Bluesky
+https://bsky.app/
+
+WIP: replace cassowary with taffy (Proof-of-Concept) by hasezoey · Pull Request #385 · ratatui/ratatui
+https://github.com/ratatui/ratatui/pull/385
+
+how to think about algorithms 2nd edition pdf - Google 搜索
+https://www.google.com/search?q=how+to+think+about+algorithms+2nd+edition++pdf&sca_esv=f4447c646f0a5466&sxsrf=AHTn8zpCx63p3Ea5P0vPrLV2H2Q8si0rTQ%3A1738497286251&ei=Bl2fZ6j7Dvarur8P2pnO6Ac&ved=0ahUKEwiolsKJ96SLAxX2le4BHdqME30Q4dUDCBE&uact=5&oq=how+to+think+about+algorithms+2nd+edition++pdf&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmhvdyB0byB0aGluayBhYm91dCBhbGdvcml0aG1zIDJuZCBlZGl0aW9uICBwZGYyBxAAGLADGB4yCxAAGIAEGLADGKIEMgsQABiABBiwAxiiBDILEAAYgAQYsAMYogQyCxAAGIAEGLADGKIEMggQABiwAxjvBUiJC1CSAViFCnABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgSYAwCIBgGQBgaSBwExoAcA&sclient=gws-wiz-serp
+
+SGI - Google 搜索
+https://www.google.com/search?q=SGI&oq=SGI&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIMCAMQIxgnGIAEGIoFMgwIBBAjGCcYgAQYigUyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPdIBBzkxOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 # 2025-02-01
 
