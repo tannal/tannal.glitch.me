@@ -588,6 +588,9 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-27 - 2025-2-3 冬 keep
 
+[] zulip-flutter
+[] bluesky social-app
+
 [x] FED interest rate
 [] bluesky RN windows startup BdReactNative not found
 [] leetcode batch processing

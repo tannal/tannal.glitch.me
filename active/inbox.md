@@ -3,6 +3,12 @@
 
 
 
+C:\Users\tannal\AppData\Local\Google\Chrome\User Data\Default\History
+
+The longer we wait, The AGI we got.
+
+The bigger the model got, the AGI we got.
+
 # 2025-02-02
 
 
