@@ -574,6 +574,8 @@ igalia申请 deadline
 
 # 2025-2-3 - 2025-2-10 冬 change
 
+[] compat layer
+
 Gsoc ideas
 
 - https://summerofcode.withgoogle.com/programs/2024/organizations/llvm-compiler-infrastructure
@@ -595,6 +597,7 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 √ Leetcode top 150 voting algorithm rotate reducedupII
 √ Hinton talk Cliff Click JVM Talk regionaltantrums GPU talk
 https://www.youtube.com/@regionaltantrums
+√ compat layer is building we will focus on income first
 √
 
 # 2025-1-20 - 2025-1-27 冬 keep
