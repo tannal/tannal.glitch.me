@@ -574,7 +574,12 @@ igalia申请 deadline
 
 # 2025-2-3 - 2025-2-10 冬 change
 
-[] compat layer
+## Tuesday
+
+## Monday
+√ compat layer is building
+√ blesky social app is working on windows, we just need android_home and bash RN is good
+√ zulip-flutter is good
 
 Gsoc ideas
 

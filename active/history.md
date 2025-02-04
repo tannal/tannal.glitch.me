@@ -1,4 +1,267 @@
 
+# 2025-02-04
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
+Rust(ing) the Future of Compilers: Pliron as the MLIR Alternative (No C/C++) - YouTube
+https://www.youtube.com/watch?v=rRgYGBAhKQ0
+
+vaivaswatha (Vaivaswatha N)
+https://github.com/vaivaswatha
+
+Vaivaswatha's Homepage
+https://www.puttu.net/
+
+misc/LLVMBuild.md at master · vaivaswatha/misc
+https://github.com/vaivaswatha/misc/blob/master/LLVMBuild.md
+
+Vaivaswatha N (@VaivaswathaN) / X
+https://x.com/VaivaswathaN
+
+Declarative Syntax Specification · vaivaswatha/pliron Wiki
+https://github.com/vaivaswatha/pliron/wiki/Declarative-Syntax-Specification
+
+laurent22 (Laurent Cozic)
+https://github.com/laurent22?tab=repositories
+
+laurent22/joplin-android: Android releases for Joplin
+https://github.com/laurent22/joplin-android
+
+Laurent Cozic (@LaurentCoz7) / X
+https://x.com/LaurentCoz7
+
+Introducing Triton: Open-source GPU programming for neural networks | OpenAI
+https://openai.com/index/triton/
+
+[2309.11036] Scalable Acceleration for Classification-Based Derivative-Free Optimization
+https://arxiv.org/abs/2309.11036
+
+posts tagged "compilers"
+https://wingolog.org/tags/compilers
+
+what does v8 do with that loop? — wingolog
+https://wingolog.org/archives/2011/06/08/what-does-v8-do-with-that-loop
+
+Mozilla's New JavaScript Value Representation : r/programming
+https://www.reddit.com/r/programming/comments/cwn0q/comment/c0vu1zf/
+
+The Strongtalk Type System for Smalltalk (2004) | Hacker News
+https://news.ycombinator.com/item?id=14481339
+
+David Griswold (@DavidGriswoldHH) / X
+https://x.com/DavidGriswoldHH
+
+Tom Tromey - Search / X
+https://x.com/search?q=Tom%20Tromey&src=typed_query&f=top
+
+arity-distribution
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=ea40c9972b70a0e32f82169ec4ffa2abcfa4201d
+
+New Issue
+https://github.com/tannal/ohmywork/issues/new?template=Blank+issue
+
+John Maloney - Search / X
+https://x.com/search?q=John%20Maloney&src=typed_query&f=top
+
+David Ungar (@senderPath) / X
+https://x.com/senderpath
+
+Insights – Helpful hints for Swift programmers, and more …
+https://blog.davidungar.net/
+
+Craig Chambers
+https://homes.cs.washington.edu/~chambers/
+
+Mario Wolczko - Search / X
+https://x.com/search?q=Mario%20Wolczko&src=typed_query&f=top
+
+UCB CS294-113: Virtual Machines and Managed Runtimes
+https://www.wolczko.com/CS294/index.html
+
+8 Self VM internals.pdf
+https://www.dropbox.com/scl/fi/1mcdvkhwrjdvb6346c04b/8-Self-VM-internals.pdf?rlkey=aohm29yixp8zgxbgrkhasy5vw&e=1
+
+Patrick Dubroy (@dubroy) / X
+https://x.com/dubroy
+
+Patrick Dubroy (@dubroy.com) — Bluesky
+https://bsky.app/profile/dubroy.com
+
+Five coding hats
+https://dubroy.com/blog/five-coding-hats/
+
+WebAssembly from the Ground Up
+https://wasmgroundup.com/
+
+Home / X
+https://x.com/adversariel/status/1886613502783324349/photo/1
+
+Long gone, DEC is still powering the world of computing | Hacker News
+https://news.ycombinator.com/item?id=37789514
+
+David Cutler - Search / X
+https://x.com/search?q=David%20Cutler&src=typed_query&f=top
+
+The Rise and Fall of Thinking Machines (1995) | Hacker News
+https://news.ycombinator.com/item?id=7121058
+
+Brewster Kahle (@brewster_kahle) / X
+https://x.com/brewster_kahle
+
+IRCAM - Google 搜索
+https://www.google.com/search?q=IRCAM&oq=IRCAM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+百老汇 音乐 - Google 搜索
+https://www.google.com/search?q=%E7%99%BE%E8%80%81%E6%B1%87+%E9%9F%B3%E4%B9%90&sca_esv=1e35dc1f4110e681&sxsrf=AHTn8zpYxm5xQvA_ZCJZrWzIgQLEZ8h1nA%3A1738641047503&ei=l46hZ52yHqS40PEP4tbWgQo&ved=0ahUKEwjd2ZzQjqmLAxUkHDQIHWKrNaAQ4dUDCBE&uact=5&oq=%E7%99%BE%E8%80%81%E6%B1%87+%E9%9F%B3%E4%B9%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOeZvuiAgeaxhyDpn7PkuZAyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBEjOIlCPBFiuIXADeAGQAQCYAbkCoAG1EaoBBTItNi4yuAEDyAEA-AEBmAILoALvEcICChAAGLADGNYEGEfCAgcQABiABBgMwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIHEC4YgAQYDMICBRAuGIAEwgIIEAAYCBgNGB7CAgoQABgEGAgYDRgemAMAiAYBkAYKkgcHMy4wLjUuM6AHozc&sclient=gws-wiz-serp
+
+Discussion: next generation of games using LLMs to power NPC dialogues : r/pcgaming
+https://www.reddit.com/r/pcgaming/comments/1955tjq/discussion_next_generation_of_games_using_llms_to/
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a190d5903fa300141a197e
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Human Verification
+https://www.clo3d.com/
+
+Fashion Design Software | 2D/3D CAD CAM  – Optitex
+https://optitex.com/
+
+Page not found · GitHub
+https://github.com/valentina-project/valentina
+
+blender Cloth - Google 搜索
+https://www.google.com/search?q=blender+Cloth&oq=blender+Cloth+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI1MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+profile: Display user's local time · Issue #292 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/292
+
+Home / X
+https://x.com/home
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
+Following — Bluesky
+https://bsky.app/
+
+Following — Bluesky
+https://bsky.app/
+
+github.com
+https://github.com/tannal?tab=stars
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+错失恐惧症 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E9%94%99%E5%A4%B1%E6%81%90%E6%83%A7%E7%97%87
+
+自我决定论 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%87%AA%E6%88%91%E6%B1%BA%E5%AE%9A%E8%AB%96
+
+profile: Display user's local time · Issue #292 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/292
+
+(23570) #mobile-team > timezone initialization time - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/243-mobile-team/topic/timezone.20initialization.20time/near/1633906
+
+(23927) #announce > server releases - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/channel/1-announce/topic/server.20releases
+
+tannal/zulip-flutter: Upcoming Zulip mobile apps for Android and iOS, using Flutter
+https://github.com/tannal/zulip-flutter
+
+switching to - Reddit Search!
+https://www.reddit.com/r/FlutterDev/search/?q=switching+to&cId=6186de85-d552-4c31-af67-82d3866b0ebb&iId=0dcf1b52-0bcb-4c73-8733-78de33512d50
+
+Happy with Google and Flutter Team : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1hkni6b/happy_with_google_and_flutter_team/
+
+I'm switching to React Native : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/wy9j3q/im_switching_to_react_native/
+
+interest rate fed - Google 搜索
+https://www.google.com/search?q=interest+rate+fed&sca_esv=852589f66dd45186&sxsrf=AHTn8zoWpR3qtuKDnA9iX621_9od5xt0RQ%3A1738587294829&ei=nrygZ8CrMtzRkPIP_sD24Ak&ved=0ahUKEwjA8vmwxqeLAxXcKEQIHX6gHZwQ4dUDCBE&uact=5&oq=interest+rate+fed&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWludGVyZXN0IHJhdGUgZmVkMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUiVCFAAWOgGcAB4AZABAJgB_AOgAfYIqgEJMi0xLjEuMC4xuAEDyAEA-AEBmAIDoAKFCcICBBAjGCeYAwCSBwcyLTEuMS4xoAf9Dw&sclient=gws-wiz-serp
+
+Home / X
+https://x.com/home
+
+Login - ChatGPT
+https://auth.openai.com/authorize?audience=https%3A%2F%2Fapi.openai.com%2Fv1&client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&country_code=SG&device_id=3c11f056-96ab-47b1-b4da-b8b24731461b&ext-oai-did=3c11f056-96ab-47b1-b4da-b8b24731461b&prompt=login&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Fopenai&response_type=code&scope=openid+email+profile+offline_access+model.request+model.read+organization.read+organization.write&screen_hint=login&state=qn2xUuS8y2pub7Jrn_zix5LdZjZQ3UUfBkJOVAtQhRQ&flow=treatment
+
+amd vs apple m4 - Google 搜索
+https://www.google.com/search?q=amd+vs+apple+m4&sca_esv=98651d259623c413&sxsrf=AHTn8zo8q4t4DF3z4Et2IVrNZGcwU3gE-Q%3A1738636608800&ei=QH2hZ-PIMJ6Cm9cP5NHe8AY&ved=0ahUKEwjj6NeL_qiLAxUeweYEHeSoF24Q4dUDCBE&uact=5&oq=amd+vs+apple+m4&gs_lp=Egxnd3Mtd2l6LXNlcnAiD2FtZCB2cyBhcHBsZSBtNDIIEAAYgAQYywEyBBAAGB4yBBAAGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjfPFCcIFi-O3ABeACQAQCYAf0CoAG6JKoBBTItOC43uAEDyAEA-AEBmAIPoAKCI8ICChAAGLADGNYEGEfCAgQQIxgnwgIKECMYgAQYJxiKBcICChAAGIAEGEMYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIMEAAYgAQYQxiKBRgKwgILEC4YgAQY0QMYxwHCAgUQABiABMICBxAAGIAEGAzCAgYQABgFGB6YAwCIBgGQBgKSBwgxLjAuMy4xMaAHj0I&sclient=gws-wiz-serp
+
+Issues · facebook/flipper
+https://github.com/facebook/flipper/issues
+
+Other Debugging Methods · React Native
+https://reactnative.dev/docs/other-debugging-methods
+
+People followed by Mego Tan (@megotannal) / X
+https://x.com/megotannal/following
+
+Supabase Docs
+https://supabase.com/docs
+
+Julie Zebrak: "The experts, lawyers, and scholars who I’ve been speaking with since last night agree with me that it’s a coup and that this a 5-alarm fire." — Bluesky
+https://bsky.app/profile/juliezebrak.bsky.social/post/3lh7ve3f5o22i
+
+Google
+https://www.google.com/
+
+profile: Display user's local time · Issue #292 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/292
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files#diff-8253d0525d4c624039fc1d0854d34295025360ca5e69bf76f9381587484af150
+
+(23927) #mobile-team > timezone initialization time - Zulip Community - Zulip
+https://chat.zulip.org/#narrow/stream/243-mobile-team/topic/timezone.20initialization.20time/near/1633906
+
+timezone | Dart package
+https://pub.dev/packages/timezone
+
+Time Zone Database
+https://www.iana.org/time-zones
+
+Time Zone Database
+https://www.iana.org/time-zones
+
+Time zone and daylight saving time data
+https://data.iana.org/time-zones/tz-link.html#download
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318
+
+东京理科大学qs - Google 搜索
+https://www.google.com/search?q=%E4%B8%9C%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6qs&sca_esv=794ca49ae42723f1&sxsrf=AHTn8zqB70_P6IM6FUBfNiaJZChITG96Nw%3A1738593314686&ei=ItSgZ_zNKdCxur8PtKeS6AU&oq=%E4%B8%9C%E4%BA%AC%E7%90%86%E7%A7%91%E5%A4%A7%E5%AD%A6&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuS4nOS6rOeQhuenkeWkp-WtpioCCAEyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIwBFQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAJgCAaACC5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+bluesky-social
+https://github.com/bluesky-social
+
+bsky.app
+https://bsky.app/
+
+tannal (tannal)
+https://github.com/tannal/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
 # 2025-02-03
 
 
