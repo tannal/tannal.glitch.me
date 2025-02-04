@@ -7,6 +7,105 @@ https://szfilehelper.weixin.qq.com/
 Untitled
 https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
 
+blender/cycles: The Cycles Render Engine - official mirror
+https://github.com/blender/cycles
+
+blender/blender: The official Blender project repository. - blender - Blender Projects
+https://projects.blender.org/blender/blender
+
+TiernoGs (Tierno)
+https://github.com/TiernoGs
+
+realnetworks - Google 搜索
+https://www.google.com/search?q=realnetowrks&oq=realnetowrks&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Node.js Core Development - Twitch
+https://www.twitch.tv/videos/2355925457
+
+RafaelGSS - Twitch
+https://www.twitch.tv/rafaelgss
+
+Modernize search page (take 2) by mozzius · Pull Request #7642 · bluesky-social/social-app
+https://github.com/bluesky-social/social-app/pull/7642
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Rafael Gonzaga (@_rafaelgss) / X
+https://x.com/_rafaelgss
+
+Fastify (@fastifyjs) / X
+https://x.com/fastifyjs
+
+Fast and low overhead web framework, for Node.js | Fastify
+https://fastify.dev/
+
+(9) Facebook
+https://www.facebook.com/
+
+Groq deepseek - Google 搜索
+https://www.google.com/search?q=Groq+deepseek&oq=Groq+deepseek&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI3MzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Running Deepseek R1 671B Versions Locally or 70B on Groq Remotely | NextBigFuture.com
+https://www.nextbigfuture.com/2025/02/running-deepseek-r1-671b-locally-or-70b-on-groq.html
+
+tannal (tannal)
+https://github.com/tannal/
+
+layoff - Reddit Search!
+https://www.reddit.com/r/FlutterDev/search/?q=layoff&cId=8ed8aeb6-3642-4726-9ea0-5890f8332a9d&iId=cafc4959-7f87-4d60-a170-c506c0385219
+
+More layoffs for the flutter team 😬 : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1cduhra/more_layoffs_for_the_flutter_team/
+
+Flutter PM shares update on the state of the project after recent layoffs : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1chwqtu/flutter_pm_shares_update_on_the_state_of_the/
+
+Google’s Fuchsia (OS with UI written in Flutter) see significant cuts in layoffs : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/10i98l1/googles_fuchsia_os_with_ui_written_in_flutter_see/
+
+前端、小程序 端智能、MNN工作台、安卓、 ios等开源技术介绍
+https://tech.taobao.org/open-source
+
+Hixie's Natural Log: Reflecting on 18 years at Google
+https://ln.hixie.ch/?start=1700627373&count=1
+
+chromeos is dead - Google 搜索
+https://www.google.com/search?q=chromeos+is+dead&oq=chromeos+is+dead&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMggIAxAAGAoYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yCAgJEAAYCBge0gEINTE2N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+等你来答 - 知乎
+https://www.zhihu.com/question/waiting
+
+favicon.ico (32×32)
+https://static.zhihu.com/heifetz/favicon.ico
+
+豪名字 - 知乎
+https://www.zhihu.com/people/28-20-44-16
+
+创作中心 - 知乎
+https://www.zhihu.com/creator
+
+首页 - 知乎
+https://www.zhihu.com/
+
+豪名字 的想法: - 知乎
+https://www.zhihu.com/pin/1870151705007628288
+
+豪名字 - 知乎
+https://www.zhihu.com/people/28-20-44-16
+
+the future is flutter - Google 搜索
+https://www.google.com/search?q=the+future+is+flutter&oq=the+future+is+flutter+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCggCEAAYgAQYogQyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYgAQYogQyBwgGEAAY7wXSAQg1NDI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+辉瑞 - Google 搜索
+https://www.google.com/search?q=%E8%BE%89%E7%91%9E&sca_esv=634afa39e27538b7&sxsrf=AHTn8zqikLMeSOo4AbdUnYMiG0bLdui6sw%3A1738663773014&ei=XeehZ-ZNycSQ8g-qyNjBBQ&ved=0ahUKEwim8Muk46mLAxVJIkQIHSokNlgQ4dUDCBA&uact=5&oq=%E8%BE%89%E7%91%9E&gs_lp=Egxnd3Mtd2l6LXNlcnAiBui-ieeRnjIKEAAYgAQYQxiKBTIQEC4YgAQY0QMYQxjHARiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPgiUGVYyR1wAngBkAEAmAHQAqABjxWqAQUyLTQuNbgBA8gBAPgBAZgCC6AC9RXCAgoQABiwAxjWBBhHwgIFEAAY7wXCAggQABiABBiiBMICBBAjGCfCAgUQLhiABMICChAjGIAEGCcYigXCAgoQLhiABBhDGIoFwgILEC4YgAQY0QMYxwHCAgwQIxiABBgTGCcYigXCAhoQLhiABBjRAxjHARiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGMsBwgIIEC4YgAQYywGYAwCIBgGQBgq6BgYIARABGBSSBwcyLjAuMy42oAebUg&sclient=gws-wiz-serp
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
 Rust(ing) the Future of Compilers: Pliron as the MLIR Alternative (No C/C++) - YouTube
 https://www.youtube.com/watch?v=rRgYGBAhKQ0
 
