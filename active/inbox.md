@@ -32,8 +32,8 @@ devops
 
 https://tech.taobao.org/open-source
 
-$PGDATA/                  # 数据目录
-├── base/                 # 所有数据库的数据文件目录
+$PGDATA/                # 数据目录
+├── base/               # 所有数据库的数据文件目录
 │   ├── 1/               # template1数据库(OID=1)
 │   ├── 12345/          # 用户数据库A(OID=12345)
 │   │   ├── 16384      # 表文件

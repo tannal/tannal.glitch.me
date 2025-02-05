@@ -7,6 +7,84 @@ https://szfilehelper.weixin.qq.com/
 Untitled
 https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
 
+Home / X
+https://x.com/home
+
+Is Bun The End Of Vite? - YouTube
+https://www.youtube.com/watch?v=NvitRPQqaSs
+
+Angular: The Documentary | An origin story - YouTube
+https://www.youtube.com/watch?v=cRC9DlH45lA
+
+Leaking Memory is Safe - YouTube
+https://www.youtube.com/watch?v=3DEEqxtxXFk
+
+通知 — Bluesky
+https://bsky.app/notifications
+
+A Content List With Bulk Actions Using Ancient HTML and Modern CSS – Cloud Four
+https://cloudfour.com/thinks/a-content-list-with-bulk-actions-using-ancient-html-and-modern-css/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=angular%20documentry&sort=byPopularity&type=story
+
+2408.03314
+https://arxiv.org/pdf/2408.03314
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Home / X
+https://x.com/home
+
+2411.02344
+https://arxiv.org/pdf/2411.02344
+
+2207.00729
+https://arxiv.org/pdf/2207.00729
+
+tannal (tannal)
+https://github.com/tannal/
+
+2207.00729
+https://arxiv.org/pdf/2207.00729#page=12&zoom=100,402,980
+
+Ekin Akyürek on X: "Why do we treat train and test times so differently? Why is one “training” and the other “in-context learning”? Just take a few gradients during test-time — a simple way to increase test time compute — and get a SoTA in ARC public validation set 61%=avg. human score! @arcprize https://t.co/JNewkrilQo" / X
+https://x.com/akyurekekin/status/1855680785715478546
+
+人工智能悖论 - Google 搜索
+https://www.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%82%96%E8%AE%BA&sca_esv=b71b87a039ad9bf1&sxsrf=AHTn8zqzW6vxS5yT-cJs6tFoDzUH9hXU9g%3A1738721552942&ei=EMmiZ46ZOaiH0PEP5qTA8A4&ved=0ahUKEwiO4ZrEuquLAxWoAzQIHWYSEO4Q4dUDCBA&uact=5&oq=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%82%96%E8%AE%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuS6uuW3peaZuuiDveaCluiuujIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iUCFC4AViVB3ABeAGQAQCYAZECoAGZCKoBAzItNLgBA8gBAPgBAZgCAaACB5gDAIgGAZAGCpIHATGgB4QG&sclient=gws-wiz-serp
+
+Home / X
+https://x.com/home
+
+ourself - Google 搜索
+https://www.google.com/search?q=ourself&oq=ourself&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+通知 — Bluesky
+https://bsky.app/notifications
+
+主页 — Bluesky
+https://bsky.app/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318#issuecomment-2633816810
+
+中国bbc - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BDbbc&oq=%E4%B8%AD%E5%9B%BDbbc&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgwIARAjGCcYgAQYigUyBggCECMYJzIHCAMQABiABDIHCAQQLhiABDINCAUQLhjHARjRAxiABDINCAYQLhjHARjRAxiABDIHCAcQABiABDINCAgQLhjHARjRAxiABDIHCAkQABiABNIBCDQ5MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Test-Time Training Project Website
+https://yueatsprograms.github.io/ttt/home.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
 收件箱 (2) - tannal2409@gmail.com - Gmail
 https://mail.google.com/mail/u/0/#inbox
 
