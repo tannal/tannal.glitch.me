@@ -1,4 +1,111 @@
 
+# 2025-02-05
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+A quick deep dive into asynchronous programming in an embedded context with Rust and Embassy - YouTube
+https://www.youtube.com/watch?v=9cKwfbHC7Aw
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a1ee658beebb006aec3228
+
+OpenAI Considers Taking on Google With Browser : r/singularity
+https://www.reddit.com/r/singularity/comments/1gwse96/openai_considers_taking_on_google_with_browser/
+
+OpenStack - Google 搜索
+https://www.google.com/search?q=OpenStack&oq=OpenStack&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+chrisdonahue/nesmdb: The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
+https://github.com/chrisdonahue/nesmdb?tab=readme-ov-file
+
+chrisdonahue/nesmdb: The NES Music Database: use machine learning to compose music for the Nintendo Entertainment System!
+https://github.com/chrisdonahue/nesmdb#language-modeling-format
+
+gclef-cmu/pyquist: Basic computer music utilities for Python / NumPy
+https://github.com/gclef-cmu/pyquist
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+&sca_esv=71611abca5e5e6db&sxsrf=AHTn8zr7yyXMdSNkZdc-Gk3TJxlTqX0JKA%3A1738667201643&ei=wfShZ-X4Jratur8PybnKuA4&ved=0ahUKEwil3b6H8KmLAxW2lu4BHcmcEucQ4dUDCBA&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCue-juiBlOWCqCAyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI0QVQjQFYgwRwAXgBkAEAmAH9AqABoAWqAQUyLTEuMbgBA8gBAPgBAZgCAaACEZgDAIgGAZAGCpIHATGgB6AK&sclient=gws-wiz-serp
+
+ionic-team/capacitor: Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+https://github.com/ionic-team/capacitor
+
+Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
+https://neutralino.js.org/
+
+Neutralinojs
+https://github.com/neutralinojs
+
+Issues · NativeScript/NativeScript
+https://github.com/NativeScript/NativeScript/issues?q=is%3Aissue%20state%3Aopen%20wasm
+
+webassembly native - Google 搜索
+https://www.google.com/search?q=webassembly+native&oq=webassembly+natie&gs_lcrp=EgZjaHJvbWUqCAgBEAAYDRgeMgYIABBFGDkyCAgBEAAYDRgeMggIAhAAGA0YHjIMCAMQABgIGAoYDRgeMgoIBBAAGAUYDRgeMgoIBRAAGAgYDRgeMgoIBhAAGAgYDRgeMgoIBxAAGAgYDRgeMgoICBAAGAgYDRgeMgoICRAAGAgYDRge0gEINDc4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/#%22...react-native!%22
+
+Capacitor by Ionic - Cross-platform apps with web technology
+https://capacitorjs.com/
+
+ionic-team/capacitor: Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+https://github.com/ionic-team/capacitor
+
+Apache Cordova
+https://cordova.apache.org/
+
+if not react then what? - Google 搜索
+https://www.google.com/search?q=if+not+react+then+what%3F&oq=if+not+react+then+what%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGD3SAQg0NTkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+If not React, then what? | Hacker News
+https://news.ycombinator.com/item?id=42279172
+
+If not React, then what? : r/react
+https://www.reddit.com/r/react/comments/1ib9lhm/if_not_react_then_what/
+
+X/BlueSky: React recently feels biased against Vite and SPA : r/react
+https://www.reddit.com/r/react/comments/1iarj85/xbluesky_react_recently_feels_biased_against_vite/
+
+Discover — Bluesky
+https://bsky.app/
+
+Introduction to PWA & TWA. The basic | by Kevin Kurniawan | Medium
+https://medium.com/@kevinkurniawan97/introduction-to-pwa-twa-dcc2368268a3
+
+Capacitor - Google 搜索
+https://www.google.com/search?q=Capacitor&oq=Capacitor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPNIBBzEzOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+microsoft/react-native-macos: A framework for building native macOS apps with React.
+https://github.com/microsoft/react-native-macos
+
+Microsoft is quietly merging Office code into their react-native-macos repo | Hacker News
+https://news.ycombinator.com/item?id=17729176
+
+vue native - Google 搜索
+https://www.google.com/search?q=vue+native&oq=vue+native&gs_lcrp=EgZjaHJvbWUqDAgAEAAYQxiABBiKBTIMCAAQABhDGIAEGIoFMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyBggHEEUYPNIBCDI2MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Is there an official SolidJS-powered framework for mobile apps? (Like React has React Native and Svelte has Svelte Native) : r/solidjs
+https://www.reddit.com/r/solidjs/comments/10u66wa/is_there_an_official_solidjspowered_framework_for/
+
+ionic-team/capacitor: Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+https://github.com/ionic-team/capacitor
+
+NativeScript/NativeScript: ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
+https://github.com/NativeScript/NativeScript
+
+Aiden Bai (@aidenybai) / X
+https://x.com/aidenybai
+
 # 2025-02-04
 
 微信文件传输助手网页版
