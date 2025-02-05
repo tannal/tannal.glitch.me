@@ -7,6 +7,120 @@ https://szfilehelper.weixin.qq.com/
 Untitled
 https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
 
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+UCB CS294-113: Virtual Machines and Managed Runtimes
+https://www.wolczko.com/CS294/index.html
+
+6 Dynamic languages.pdf
+https://www.dropbox.com/scl/fi/tcm6z5px7y4gjass271ys/6-Dynamic-languages.pdf?rlkey=k85sqiej0mzfozqb6jrrrw2zw&e=1
+
+Mario Wolczko @ VMSS16: A Concise and Opinionated History of Virtual Machines - YouTube
+https://www.youtube.com/watch?v=QnQYhrpX39M
+
+softdevteamuk - YouTube
+https://www.youtube.com/@softdevteamuk/videos
+
+Discover — Bluesky
+https://bsky.app/
+
+Mario Wolczko's Home Page
+http://www.wolczko.com/
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a32b01b862b6001a90746b
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252FloginDeepControl%253Fchallenge%253D4LKkRVxC30Fk1VHdExyyrjOqZic3M0_tixXoYa2L2GY%2526uuid%253D60ee0f47-9930-44e2-8844-9201fc586db7%2526mode%253Dlogin%2522%257D&authorization_session_id=01JKANZE10EXJN0TNSGXWH00SN
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+require(esm) in Node.js | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js/
+
+node require hook - Google 搜索
+https://www.google.com/search?q=node+require+hook&oq=node+require+hook+&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgoIARAAGIAEGKIEMgcIAhAAGO8F0gEINDAwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Modules: node:module API | Node.js v23.7.0 Documentation
+https://nodejs.org/api/module.html
+
+Tracking issue: require(esm) · Issue #52697 · nodejs/node
+https://github.com/nodejs/node/issues/52697
+
+module: support ESM detection in the CJS loader by joyeecheung · Pull Request #52047 · nodejs/node
+https://github.com/nodejs/node/pull/52047/files#diff-093bb7db014796fac54de280ecb4a674b7fd374f4ba679971b10674e94c2a6f0
+
+Google
+https://www.google.com/
+
+34913.pdf
+https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/34913.pdf
+
+Code search results
+https://github.com/search?q=repo%3Acopy%2Fv86%20interrupt&type=code
+
+v86
+https://copy.sh/v86/
+
+qemu wasm - Google 搜索
+https://www.google.com/search?q=qemu+wasm&oq=qemu+wasm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2MTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://github.com/ktock/qemu-wasm-demo
+
+[Qemu-devel] Building QEMU for WebAssembly
+https://lore.kernel.org/all/CAJSP0QUTMsB4RfH6v3MeR7P_1bFDVecMeht049QOWLs-LZFzkQ@mail.gmail.com/t/
+
+Raspberry Pi board demo (AArch64)
+https://ktock.github.io/qemu-wasm-demo/raspi3ap.html
+
+Qemu.js – a proof-of-concept port of QEMU to web browser using WASM JIT (2019) | Hacker News
+https://news.ycombinator.com/item?id=35607885
+
+atrosinenko/qemujs: Qemu.js source code with proof-of-concept machine-code-to-WASM JIT.
+https://github.com/atrosinenko/qemujs
+
+FOSDEM 2025 - Resource Not Found
+https://fosdem.org/2025/events/attachments/fosdem-2025-6290-running-qemu-inside-browser/slides/236499/slides_1dDtpcS.pdf
+
+qemu fosem - Google 搜索
+https://www.google.com/search?q=qemu+fosem&sca_esv=061cf45e01aae854&sxsrf=AHTn8zoau1yAzujSyYNoHqFVRgUYUz-AqA%3A1738753764371&ei=5EajZ42tFsbdkPIPlPLUuAU&ved=0ahUKEwiNr-jDsqyLAxXGLkQIHRQ5FVcQ4dUDCBA&uact=5&oq=qemu+fosem&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnFlbXUgZm9zZW1I5hRQlAJYoBNwAXgBkAEAmAHKAqABuw6qAQUyLTEuNbgBA8gBAPgBAZgCBKACvwfCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAjGIAEGCcYigXCAggQABiABBjLAZgDAIgGAZAGBpIHBTEuMy0zoAfeEQ&sclient=gws-wiz-serp
+
+DeepSeek's AI breakthrough bypasses industry-standard CUDA, uses PTX | Hacker News
+https://news.ycombinator.com/item?id=42859909
+
+ryzen 7 7700x vs i7-13700kf - Google 搜索
+https://www.google.com/search?q=ryzen+7+7700x+vs+i7-13700kf&sca_esv=061cf45e01aae854&sxsrf=AHTn8zpIXB97rbmkNPwnQ9UmjCEG85W5Hw%3A1738754872762&ei=OEujZ7ScLuy8kPIP8siMiQo&ved=0ahUKEwi0mKvUtqyLAxVsHkQIHXIkI6EQ4dUDCBA&uact=5&oq=ryzen+7+7700x+vs+i7-13700kf&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3J5emVuIDcgNzcwMHggdnMgaTctMTM3MDBrZjIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0i7BFDRAljRAnAAeAKQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgSYAwCIBgGQBgqSBwExoAcA&sclient=gws-wiz-serp
+
+Intel 13700KF vs Ryzen 7 7700X : r/thefinals
+https://www.reddit.com/r/thefinals/comments/1bd5twj/intel_13700kf_vs_ryzen_7_7700x/
+
+AMD Ryzen™ 9 7950X3D Gaming Processor
+https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x3d.html
+
+15代cpu - Google 搜索
+https://www.google.com/search?q=15%E4%BB%A3cpu&sca_esv=0122e517cc9bd786&sxsrf=AHTn8zrBTdAiZM4wXOlnjOw3nl97OpCbLg%3A1738755510840&ei=tk2jZ_X4MqrNkPIPhaaG6As&ved=0ahUKEwj1q8yEuayLAxWqJkQIHQWTAb0Q4dUDCBA&uact=5&oq=15%E4%BB%A3cpu&gs_lp=Egxnd3Mtd2l6LXNlcnAiCDE15LujY3B1MgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSLoPUIkNWMkOcAF4AZABAJgBiwKgAYsCqgEDMi0xuAEDyAEA-AEBmAIBoAIFmAMAiAYBkAYKkgcBMaAHnAE&sclient=gws-wiz-serp
+
+AMD Ryzen™ 9 7950X Desktop Processor
+https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html
+
+7950X - Google 搜索
+https://www.google.com/search?sca_esv=0122e517cc9bd786&sxsrf=AHTn8zqyYqvQjPYimzuBE1WxAzJS8Z_LvQ:1738755988506&q=7950X&udm=2&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9Tgc-3gA4mtvQ0XiEBx4ZXKl9uYMNGQwAzqp6zH-BM_zfIWQysjnMefLm3Rd5sXgdyR5NSjr1mbRbsn_wpm9ffd4J7ygGOQ_fx63Xz3ayfs6PBc-7cg6fbTgyYu1dG1opgmldhnBwO38otY3Y-KJYr5zfioUWo4GVIfC0qmV-w2p1GrWqAVfkwbXQtgMP9MXL4uIP7Q&sa=X&ved=2ahUKEwiv5a7ouqyLAxVoDkQIHQv2FpMQtKgLegQIERAB&biw=1536&bih=695&dpr=1.25#vhid=kQ2jvkLHyje7QM&vssid=mosaic
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Untitled
+https://codepen.io/noamr/pen/pvzBYGZ?editors=1111
+
 Home / X
 https://x.com/home
 

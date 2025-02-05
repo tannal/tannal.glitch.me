@@ -1,6 +1,10 @@
 
 # 2025-02-05
 
+
+
+AMD Ryzen™ 9 7950X
+
 intel 在cpu isa上也被arm和riscv吃紧
 芯片制造又被台积电超越
 GPU战场又开局不利，真实天崩
