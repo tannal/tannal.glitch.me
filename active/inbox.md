@@ -3,6 +3,14 @@
 
 
 
+- 解释器
+- 字节码
+- 对象模型
+
+- 栈帧管理
+- 垃圾回收
+- 异常处理
+
 AMD Ryzen™ 9 7950X
 
 intel 在cpu isa上也被arm和riscv吃紧
