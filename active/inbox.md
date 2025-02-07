@@ -1,10 +1,29 @@
 
-# 2025-02-06
-
-
 # 2025-02-05
 
+调度系统
+heap
+interpreter
+optimized compiler
+runtime system
+parser
+debugging protocol
+Security
 
+Platform specific embedding
+node deno chrome electron
+这就是为什么 Node.js、Electron 等项目可以基于 V8 构建强大的原生能力扩展。
+
+Local Heap
+Code Heap
+Stack Memory
+Zone Memory
+Read-only Heap
+
+LocalHeap 只负责内存分配
+Factory 负责对象布局和构造
+HandleScope 负责生命周期管理
+通过 TLS 让每个线程都能快速访问所需的组件
 
 - 解释器
 - 字节码

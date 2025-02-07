@@ -1,6 +1,101 @@
 
 # 2025-02-06
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+UserBenchmark: AMD Ryzen 9 7950X vs Intel Core i7-13700K
+https://cpu.userbenchmark.com/Compare/Intel-Core-i7-13700K-vs-AMD-Ryzen-9-7950X/4137vs4133
+
+AMD Ryzen™ 9 7950X Desktop Processor
+https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html
+
+Cursor - The AI Code Editor
+https://www.cursor.com/
+
+Login Deep Control
+https://www.cursor.com/loginDeepControl?challenge=v7QRYJgGYym2yujuUF6npg73BqgAnluJa2gZMeMxV4g&uuid=cf219cf9-be97-4830-841b-5a2935f0fb8d&mode=login
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a376e7fc03cd006afb50e7
+
+dart-lang repositories
+https://github.com/orgs/dart-lang/repositories
+
+libvio - Google 搜索
+https://www.google.com/search?q=libvio&oq=libvio&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0ODFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files#diff-9ed76a3002c14786d497c488f11f13e5d80fc6201d23b274d7259cf2279bdab9
+
+Haas, Rossberg, Schuff, Titzer, Gohman, Wagner, Zakai, Bastien, Holman - Bringing the Web up to Speed with WebAssembly.pdf
+https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly.pdf
+
+BigDecimal proposal - Google 搜索
+https://www.google.com/search?q=BigDecimal+proposal&oq=BigDecimal+proposal&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIyOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+I've written a full BigDecimal implementation polyfill. · Issue #82 · tc39/proposal-decimal
+https://github.com/tc39/proposal-decimal/issues/82
+
+GitHub
+https://github.com/
+
+Code search results
+https://github.com/search?q=repo%3Anodejs%2Fnode%20crc32&type=code
+
+UCB CS294-113: Virtual Machines and Managed Runtimes
+https://www.wolczko.com/CS294/index.html
+
+5 JVM bytecodes.pdf
+https://www.dropbox.com/scl/fi/ih4xgqap262nmx8dzzudc/5-JVM-bytecodes.pdf?rlkey=4ictbmr5qkwmgnhokb2jop53w&e=1
+
+www.codeproject.com
+https://www.codeproject.com/Articles/35915/
+
+4 Bytecodes and bytecode interpretation.pdf
+https://www.dropbox.com/scl/fi/buvmxyd1cyzaukeriw2bl/4-Bytecodes-and-bytecode-interpretation.pdf?rlkey=85n7vnhb4f7umlnknoo3rsbll&e=1
+
+6 Dynamic languages.pdf
+https://www.dropbox.com/scl/fi/tcm6z5px7y4gjass271ys/6-Dynamic-languages.pdf?rlkey=k85sqiej0mzfozqb6jrrrw2zw&e=2
+
+Konloch/bytecode-viewer: A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+https://github.com/Konloch/bytecode-viewer
+
+ClassViewer/ClassViewer: ClassViewer is a lightweight Java class file viewer that you can use to view the structure of Java class files.
+https://github.com/ClassViewer/ClassViewer
+
+Jarred Sumner (@jarredsumner) / X
+https://x.com/jarredsumner
+
+WebKit/Source/JavaScriptCore/runtime/JSGlobalObjectFunctions.cpp at c1b41e05223901c8b5a7eba74f5c72de09c12f50 · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/c1b41e05223901c8b5a7eba74f5c72de09c12f50/Source/JavaScriptCore/runtime/JSGlobalObjectFunctions.cpp#L509
+
+WebKit/Source/JavaScriptCore/builtins/ArrayPrototype.js at 18fc2c8a829238a023b22f9c584ce09756d4b757 · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/18fc2c8a829238a023b22f9c584ce09756d4b757/Source/JavaScriptCore/builtins/ArrayPrototype.js#L115-L131
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+paged-spaces.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/heap/paged-spaces.h?q=codespace&ss=chromium%2Fchromium%2Fsrc
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a5779fae75460013af234d
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+FSCloud
+https://web.fscloud.cc/#/knowledge
 
 # 2025-02-05
 
