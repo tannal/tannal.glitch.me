@@ -562,21 +562,48 @@ igalia申请 deadline
 
 # 2025-2-17 - 2025-2-24 冬
 
+## Sunday
+## Saturday
+## Friday
+## Thursday
+## Wednesday
+## Tuesday
+## Monday
 
+[] one for iga one for client side, I wish I can do AI things that's not required
+[] Fly to ChangChun at Tuesday from GuangZhou BaiYun
 [] choose class for next semester
 [] kai ti bao gao
 [] AI music
-[]
+[] GSoc
 
 # 2025-2-10 - 2025-2-17 冬 enconomy data week
 
-[] Fly to ChangChun at Sunday or Saturday from GuangZhou BaiYun
+[] firefox cookie extension tests as we can't change the limit
+[] nodejs URL revokeObject seems have side effect and turobfan not using fast call
+[] leetcode batch processing
+
+## Sunday
+## Saturday
+## Friday
+## Thursday
+## Wednesday
+## Tuesday
+## Monday
 
 # 2025-2-3 - 2025-2-10 冬 change
 
-## Tuesday
+## Sunday
+## Saturday
 
+√ 伴奏需要固定，节奏快，可预测，这样方便system 1自动处理，旋律要有变化，不那么好预测，把注意力吸引过来
+√ 流行歌的结构 前奏 主歌 副歌 间奏 主歌 副歌 桥接 副歌 尾奏 奏环节通常多个声部开始配合，
+其他环节多个声部依然独立，你会发现桥接和奏环节多个声部靠的很近，如左右手弹的音符
+√ α波 β波等 脉搏等是人类的起搏器，就像cpu的 fetch decode execution writeback
+
+## Tuesday
 ## Monday
+
 √ compat layer is building
 √ blesky social app is working on windows, we just need android_home and bash RN is good
 √ zulip-flutter is good
@@ -593,20 +620,18 @@ https://summerofcode.withgoogle.com/programs/2024/organizations/zulip
 
 # 2025-1-27 - 2025-2-3 冬 keep
 
-[] zulip-flutter
-[] bluesky social-app
+[x] zulip-flutter flutter app success
+[x] bluesky social-app success RN
 
-[x] FED interest rate
-[] bluesky RN windows startup BdReactNative not found
-[] leetcode batch processing
-[] AI as workdesk capture internal thought process
+[x] FED interest rate keep the same
+[x] bluesky RN windows startup BdReactNative not found
+[z] AI as workdesk capture internal thought process
 
 √ 1-29 Chinese New Year
 √ Leetcode top 150 voting algorithm rotate reducedupII
 √ Hinton talk Cliff Click JVM Talk regionaltantrums GPU talk
 https://www.youtube.com/@regionaltantrums
 √ compat layer is building we will focus on income first
-√
 
 # 2025-1-20 - 2025-1-27 冬 keep
 
@@ -622,15 +647,12 @@ https://github.com/zulip/zulip-flutter/issues/292
 
 
 ## Sunday
-
-No things
-
 ## Saturday
 
 √ I was trying to look through some electron apps and I need d8 to view the startup snapshot
 √ prompt to learn language feel be understood
 √ flutter developer experience is way better than RN
-√ Microsoft is embrace arm too, so we see all the major platforms are embrace arm.
+√ Microsoft is embrace arm too, so we see all the major platforms are embracing arm.
 √ copy all the things from my old server to new server
 √ dicover some old projects like lacc and
 

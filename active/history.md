@@ -1,4 +1,102 @@
 
+# 2025-02-09
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Posts with replies by Mego Tan (@megotannal) / X
+https://x.com/megotannal/with_replies
+
+Commits · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/commits?author=tannal&since=2024-12-31&until=2025-01-31
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Add a test for redefining variables in chapter 3 by tannal · Pull Request #146 · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/pull/146
+
+Beyond nature and nurture - David Bessis
+https://davidbessis.substack.com/p/beyond-nature-and-nurture
+
+tannal (tannal) / January 2025
+https://github.com/tannal?tab=overview&from=2025-01-01&to=2025-01-31
+
+LKML: Hector Martin: Re: On community influencing (was Re: [PATCH v8 2/2] rust: add dma coherent allocator abstraction.)
+https://lkml.org/lkml/2025/2/6/404
+
+Beyond nature and nurture - David Bessis
+https://davidbessis.substack.com/p/beyond-nature-and-nurture
+
+How to Enable Remote Control ? · Issue #1437 · jitsi/jitsi-meet
+https://github.com/jitsi/jitsi-meet/issues/1437
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files/e9be8d6cb9fbe7ff08019a6addebff5cb2b3108e..8e5589aa054fc78805758f3f8697ead7c379e8c4
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/#%E6%89%80%E4%BB%A5%E5%91%A2
+
+Show pronouns in @-mention autocomplete · Issue #313 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues/313
+
+数值算法 - Google 搜索
+https://www.google.com/search?q=%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95&sca_esv=6c5b8bb7f034a1cd&sxsrf=AHTn8zoGCVVUQnt_x7h0U4GWGRg9CxrQog%3A1738979752160&ei=qLmmZ46nCfCC0PEP4PaC6AY&ved=0ahUKEwiOm5iz_LKLAxVwATQIHWC7AG0Q4dUDCBA&uact=5&oq=%E6%95%B0%E5%80%BC%E7%AE%97%E6%B3%95&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOaVsOWAvOeul-azlTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iMAVAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIFmAMAiAYBkAYFkgcBMaAHAA&sclient=gws-wiz-serp
+
+德拉贡内特 - Google 搜索
+https://www.google.com/search?q=%E5%BE%B7%E6%8B%89%E8%B4%A1%E5%86%85%E7%89%B9&oq=%E5%BE%B7%E6%8B%89%E8%B4%A1%E5%86%85%E7%89%B9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/ja/settings
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Repo Issues
+https://github.com/GraphiteEditor/Graphite/issues
+
+Graphite/editor/src/messages/tool/common_functionality/shape_editor.rs at f13efd2d06082d9e4d580bd7660eff8d106f9e86 · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/blob/f13efd2d06082d9e4d580bd7660eff8d106f9e86/editor/src/messages/tool/common_functionality/shape_editor.rs#L736
+
+Kuaishou - Wikipedia
+https://en.wikipedia.org/wiki/Kuaishou
+
+Home / X
+https://x.com/home
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
+
+International Evidence of Long-Run Age Effects · Issue #108 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/108
+
+Persistence of Early Childhood Maturity: International Evidence of Long-Run Age Effects* | The Quarterly Journal of Economics | Oxford Academic
+https://academic.oup.com/qje/article-abstract/121/4/1437/1855234?redirectedFrom=fulltext&login=false
+
+周杰倫 Jay Chou 退後 A Step Back 鋼琴教學 Synthesia 琴譜 - YouTube
+https://www.youtube.com/watch?v=7Sd9n0h_NoU
+
+Mego Tan on X: "@davidbessis @ChekhovianGun As someone who entered university at 16 and landed a tech job at 19, I often hear "You must be born gifted!" Please, being "precocious" ≠ being "innate"" / X
+https://x.com/megotannal/status/1888075584733069575
+
+twitter.com
+https://twitter.com/
+
 # 2025-02-08
 
 
