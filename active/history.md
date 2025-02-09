@@ -4,6 +4,102 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/#%E6%89%80%E4%BB%A5%E5%91%A2
+
+https://www.youtube.com/watch?v=7Sd9n0h_NoU
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D7Sd9n0h_NoU&q=EgQtT2_IGIi5or0GIjDQ3ZJddqEaeihUNayFb6cXB1JWJJ99JqMYFK6qVpThruJ7jzVIlp2gnu4aH-DqRPAyAXJaAUM
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files#diff-8253d0525d4c624039fc1d0854d34295025360ca5e69bf76f9381587484af150
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+天翼云API中的鸡鸡ID
+https://mp.weixin.qq.com/s/WfjTshE2njH3i4eT1HhVeA
+
+Sensory processing sensitivity - Wikipedia
+https://en.wikipedia.org/wiki/Sensory_processing_sensitivity
+
+tannal (tannal)
+https://github.com/tannal
+
+joyeecheung (Joyee Cheung)
+https://github.com/joyeecheung
+
+Sensory processing sensitivity - Wikipedia
+https://en.wikipedia.org/wiki/Sensory_processing_sensitivity
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+YouTube
+https://www.youtube.com/
+
+美国-基准利率 | 美国-市场指标 | 图组 | MacroMicro 财经M平方
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+YouTube
+https://www.youtube.com/
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/ja/settings
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a88cd1f7c21700128b9009
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/ja/loginDeepPage
+
+感官处理灵敏度 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%84%9F%E5%AE%98%E8%99%95%E7%90%86%E9%9D%88%E6%95%8F%E5%BA%A6
+
+The Highly Sensitive Person
+https://hsperson.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+草稿 (8) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#drafts?compose=GTvVlcRwPkcPSlWkrzTRtZjqRMprmwtxzdSfVHXwXJFDgZMdbgcNWSTbCVgNLfnvrmrtfXsKtnLzp
+
+Komyyy (Miyahara Kō)
+https://github.com/Komyyy
+
+joyeecheung (Joyee Cheung)
+https://github.com/joyeecheung
+
+Web APIs in Node.js Core: Past, Present, and Future by Joyee Cheung | JSConf EU 2019 - YouTube
+https://www.youtube.com/watch?v=ceiUozUFF3Y
+
+Kuaishou - Wikipedia
+https://en.wikipedia.org/wiki/Kuaishou
+
+bytedance - Google 搜索
+https://www.google.com/search?q=bytedance&oq=bytedance&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMjIxOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+alibaba - Google 搜索
+https://www.google.com/search?q=alibaba&oq=alibaba&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMhIIARAuGEMYxwEY0QMYgAQYigUyEggCEC4YQxjHARjRAxiABBiKBTISCAMQLhhDGMcBGNEDGIAEGIoFMgkIBBAAGAwYgAQyBwgFEAAYgAQyBwgGEAAYgATSAQgxMjI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Your Repositories
 https://github.com/tannal?tab=repositories
 
