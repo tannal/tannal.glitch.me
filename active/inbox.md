@@ -1,6 +1,8 @@
 
 # 2025-02-09
 
+Sensory Processing Sensitivity
+
 可能在信息过载时感到压力
 过度关注细节可能影响整体把握
 可能需要更多时间来处理信息
