@@ -4,6 +4,129 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+boblsturm/aimusicstudies2024: The First International Conference in AI Music Studies 2024
+https://github.com/boblsturm/aimusicstudies2024
+
+美联储议息会议时间表_会议纪要_美联储 主席_美联储(FED)-汇通网
+https://bank.fx678.com/
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer#application
+
+“Anticipatory-Music-Transformer”的副本 - Colab
+https://colab.research.google.com/drive/1PmWwn86PsUwckVeaJNovNmpzxyc00LBd#scrollTo=_YDCWNNbBI_n
+
+jthickstun/anticipation: Anticipatory Autoregressive Models
+https://github.com/jthickstun/anticipation
+
+Home / X
+https://x.com/home
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Everything — GMUNK
+https://gmunk.com/Everything
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+注意缺陷多动障碍 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%B3%A8%E6%84%8F%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%81%8E%E5%8B%95%E7%97%87
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Brain-to-Text Decoding: A Non-invasive Approach via Typing | Research - AI at Meta
+https://ai.meta.com/research/publications/brain-to-text-decoding-a-non-invasive-approach-via-typing/
+
+475464888_600710912891423_9108680259802499048_n.pdf
+https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/475464888_600710912891423_9108680259802499048_n.pdf?_nc_cat=102&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=skBEbLcNeccQ7kNvgHmoota&_nc_oc=Adhj15KPMQmUxQMqEDXKu4plbZMU_6FGB4QWCqiIY1xPR8SnVaxk2K9c1Lo33Kx7q5afJP7nXbMsMSfo-tzU8Knj&_nc_zt=14&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AZNuE4bA-B8gg0hXyw8dqaA&oh=00_AYAl2XNdt4XaCXFaLxp5muDWdae5q_1Y1HgYKgAjDE7T6g&oe=67ADCE96
+
+Schizophrenia - Wikipedia
+https://en.wikipedia.org/wiki/Schizophrenia
+
+Kuaishou - Wikipedia
+https://en.wikipedia.org/wiki/Kuaishou
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+革命尚未成功 - Google 搜索
+https://www.google.com/search?q=%E9%9D%A9%E5%91%BD%E5%B0%9A%E6%9C%AA%E6%88%90%E5%8A%9F&oq=%E9%9D%A9%E5%91%BD&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQLhiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQABiABDIHCAkQLhiABNIBCDM3NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+草稿 (8) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#drafts?compose=GTvVlcRwPkcPSlWkrzTRtZjqRMprmwtxzdSfVHXwXJFDgZMdbgcNWSTbCVgNLfnvrmrtfXsKtnLzp
+
+joyeecheung (Joyee Cheung)
+https://github.com/joyeecheung
+
+tannal (tannal)
+https://github.com/tannal/
+
+Facebook
+https://www.facebook.com/
+
+475781375_1022418749918917_7908774294226341859_n.jpg (1437×1673)
+https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/475781375_1022418749918917_7908774294226341859_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=C2zG4M2fXVEQ7kNvgE91nTN&_nc_oc=Adg7dz61RPOMJS_1lthcCEL9nbL4C6b7uD27pfOBN1cBvH_i1B1ya8nPwwQjUdyu1537pqewevYbeaf9OXxAp_d3&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=ATy6SJTEv9VxO7YgzXksYx4&oh=00_AYCD3PBZkbxD_y88d_DvVomNYt6VOEf71ERweWW4kmSxqQ&oe=67ADF76E
+
+tannal (tannal)
+https://github.com/tannal/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Ecma TC39
+https://github.com/tc39
+
+给领导画饼 牛客 - Google 搜索
+https://www.google.com/search?q=%E7%BB%99%E9%A2%86%E5%AF%BC%E7%94%BB%E9%A5%BC+%E7%89%9B%E5%AE%A2&sca_esv=360ab29c550ae11e&sxsrf=AHTn8zpGAyUB9jdP9UXU_dkZ0J4hTePRDA%3A1739069939363&ei=8xmoZ6HiFbmZ0PEP_PjxuA4&ved=0ahUKEwjhp-avzLWLAxW5DDQIHXx8HOcQ4dUDCBA&uact=5&oq=%E7%BB%99%E9%A2%86%E5%AF%BC%E7%94%BB%E9%A5%BC+%E7%89%9B%E5%AE%A2&gs_lp=Egxnd3Mtd2l6LXNlcnAiFue7memihuWvvOeUu-mlvCDniZvlrqIyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FMggQABiABBiiBEigJVDQA1ikJHABeACQAQCYAeEDoAHTEaoBBzItNS4wLjK4AQPIAQD4AQGYAgagApEMwgIIEAAYsAMY7wXCAgsQABiABBiwAxiiBMICBBAjGCeYAwCIBgGQBgWSBwkxLjAuNC4wLjGgB6wQ&sclient=gws-wiz-serp
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files/f4e892723ca5f88a90bf51df447fae51b86e6ab9..36a6bd45c74849fff8d830191bd6317f7d330ea6
+
+莱布尼兹 - Google 搜索
+https://www.google.com/search?sca_esv=360ab29c550ae11e&sxsrf=AHTn8zqOLKo1O8SWFAPs6p3i2OJXi_mBeg:1739071355528&q=%E8%8E%B1%E5%B8%83%E5%B0%BC%E5%85%B9&udm=2&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9XSASLdCNmBvs6Xj8xORx7OLI8Qw2o0eaitm-Nl0CS9Z-E7bajIQTo2vYgYm90i2VbAqeuatHjS8XEX8i8JG2bVvtWJSMYziG_bPLEqHGWwfc7ngH_2w_65GTse1zFqRHxQItn849EMCCqLDrsyXj41fy8x8FIT4khjOKWBhD0OguzyJ2pPwqZsInWbQ0tEE0tmpfdg&sa=X&ved=2ahUKEwjGo4rT0bWLAxVaMTQIHSv8OAkQtKgLegQICxAB&biw=1536&bih=695&dpr=1.25
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/
+
+information hardness - Google 搜索
+https://www.google.com/search?q=information+hardness&oq=information+hardness&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIHCAQQABjvBTIHCAUQABjvBTIKCAYQABgIGAoYHjIKCAcQABiABBiiBNIBCTE0NjQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Posts with replies by Mego Tan (@megotannal) / X
+https://x.com/megotannal/with_replies
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+Distilling System 2 into System 1
+https://arxiv.org/html/2407.06023v1
+
+Distilling System 2 into System 1
+https://arxiv.org/html/2407.06023v1#bib.bib3
+
+Distilling System 2 into System 1
+https://arxiv.org/html/2407.06023v1#bib.bib21
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Posts with replies by Mego Tan (@megotannal) / X
 https://x.com/megotannal/with_replies
 
