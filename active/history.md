@@ -1,6 +1,113 @@
 
 # 2025-02-10
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Update 02.md · tc39/agendas@daf782c
+https://github.com/tc39/agendas/commit/daf782c696fef9172a906f0a6b86d4446b162933
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Mc-Zen
+https://github.com/Mc-Zen
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+YouTube
+https://www.youtube.com/feed/history
+
+Home / X
+https://x.com/home
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/#%E6%89%80%E4%BB%A5%E5%91%A2
+
+Node.js Core Development - Twitch
+https://www.twitch.tv/videos/2375041966
+
+What repositories would you like to get tracked? · Issue #2 · ArthurSonzogni/CommitTracker
+https://github.com/ArthurSonzogni/CommitTracker/issues/2#issuecomment-2592102098
+
+platform/art - Git at Google
+https://android.googlesource.com/platform/art/
+
+Kuaishou - Wikipedia
+https://en.wikipedia.org/wiki/Kuaishou
+
+小米集团 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9C%98
+
+Ben Goodger (@bengoodger) / X
+https://x.com/bengoodger
+
+bluesky/automation.md at main · nodejs/bluesky
+https://github.com/nodejs/bluesky/blob/main/automation.md#perform-actions-with-a-pull-request
+
+lgbt - Google 搜索
+https://www.google.com/search?q=lgbt&oq=lgbt&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzNDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+北海道g8 - Google 搜索
+https://www.google.com/search?q=%E5%8C%97%E6%B5%B7%E9%81%93g8&oq=%E5%8C%97%E6%B5%B7%E9%81%93g8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyCQgEEAAYDBiABDIPCAUQLhgMGMcBGNEDGIAEMgkIBhAAGAwYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEC4YgATSAQgyMzAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Oral History of Donna Dubinsky Part 1 of 2 - YouTube
+https://www.youtube.com/watch?v=b3flHmn2NKg&t=1549s
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/videos
+
+The Geometry of Music - YouTube
+https://www.youtube.com/watch?v=ZWzwb4BumIk
+
+YouTube
+https://www.youtube.com/
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Aiden Bai on X: "JS sourcemaps are so cool sourcemaps are "mappings" of generated code (JS that runs on your browser) to the original source https://t.co/7F5NaNM0Yq" / X
+https://x.com/aidenybai/status/1888282898756927947
+
+Source Map Visualization
+https://evanw.github.io/source-map-visualization/
+
+Figma (软件) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Figma_(%E8%BB%9F%E9%AB%94)
+
+evan loves worf (@esjesjesj) / X
+https://x.com/esjesjesj
+
+Dylan Field (@zoink) / X
+https://x.com/zoink
+
+蒂尔奖学金 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%B0%E7%88%BE%E7%8D%8E%E5%AD%B8%E9%87%91
+
+南小北 on X: "Next.js 使用 Link 跳转首次进入页面时惊人的慢（当然后面都秒进，被迫写了个 LoadingLink 组件点击后显示个 loading icon 我真觉得 SSR 的这种 "硬等待" 体验（请注意我要造词了，hard-waiting-ssr！不如 CSR 页面秒进显示骨架屏 当然可能有人会说 "你不会优化"，请看！↓ https://t.co/NhenvpM5AK" / X
+https://x.com/nanxiaobei/status/1783570182939767053
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+cf 蝴蝶刀 金箍棒 - Google 搜索
+https://www.google.com/search?q=cf+%E8%9D%B4%E8%9D%B6%E5%88%80+%E9%87%91%E7%AE%8D%E6%A3%92&oq=cf+%E8%9D%B4%E8%9D%B6%E5%88%80+%E9%87%91%E7%AE%8D%E6%A3%92&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDQ0MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/
 
 # 2025-02-09
 

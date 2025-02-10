@@ -1,6 +1,95 @@
 
 # 2025-02-10
 
+Pioneer
+新兴公司：
+- Mighty
+- Contra
+- Synthesia
+- Watershed
+Sam Altman
+Peter Thiel/Founders Fund
+Naval Ravikant
+
+超级独角兽：
+- Stripe (支付) - 950亿美元
+- Airbnb (住宿) - 上市
+- Dropbox (存储) - 上市
+- Coinbase (加密货币) - 上市
+
+AI时代新星：
+- OpenAI (最早期投资)
+- Anthropic
+- Replicate
+- Scale AI
+
+
+早期投资：
+- Facebook (最早机构投资人)
+- SpaceX
+- Palantir (上市)
+- LinkedIn
+
+Web3：
+- BitPanda
+- Block.one
+
+
+个人投资：
+- Reddit
+- Pinterest
+- Stripe
+- GitHub
+- OpenAI (创始人)
+
+
+早期投资：
+- Twitter
+- Uber
+- Stack Overflow
+- Notion
+- AngelList (创始人)
+
+Y Combinator (YC)
+- 创始人：Paul Graham
+- 特点：支持非常早期创业者
+- 案例：Dropbox、Airbnb、Stripe
+
+Pioneer
+- 创始人：Daniel Gross (前YC合伙人)
+- 特点：完全在线、全球化
+- 形式：每月比赛，获胜者获得投资
+
+Founders Fund
+- 创始人：Peter Thiel等
+- 特点：激进投资理念
+- 案例：SpaceX、Palantir
+
+Sam Altman
+- 前YC总裁
+- OpenAI CEO
+- 个人天使投资多个项目
+
+Naval Ravikant
+- AngelList创始人
+- 早期投资Twitter、Uber等
+
+Paul Buchheit
+- Gmail创始人
+- Y Combinator合伙人
+
+1517 Fund
+- 针对25岁以下创始人
+- 受Thiel Fellowship启发
+
+Emergent Ventures
+- 由Tyler Cowen创立
+- 支持有创新想法的个人
+
+Schmidt Futures
+- 由前Google CEO Eric Schmidt创立
+- 支持人才发展项目
+
 认为政府总是落后于技术发展，难以理解技术本质
 担心可能出现过度监管或监管不足的问题
 
