@@ -1,7 +1,18 @@
 
 # 2025-02-10
 
+认为政府总是落后于技术发展，难以理解技术本质
+担心可能出现过度监管或监管不足的问题
 
+Dear Igalia Recruitment Team,
+Dear Hiring Manager,
+
+2019 - 2025
+
+startup
+big company
+
+神经网络在传递梯度，传递预测误差
 
 # 2025-02-09
 
