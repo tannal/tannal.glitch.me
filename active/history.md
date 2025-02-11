@@ -4,6 +4,129 @@
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+Discover — Bluesky
+https://bsky.app/
+
+24-10-17 SANE - Google 幻灯片
+https://docs.google.com/presentation/d/1Zh7NO7TeDtd95i3eemWOa5Y3w1cvXOk18_LoQrUgLSA/edit#slide=id.g30b254f2c59_0_3901
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+sgi computer graphics - Google 搜索
+https://www.google.com/search?q=sgi+computer+graphics&sca_esv=1d0cabc81ac55904&sxsrf=AHTn8zqiHlWG35EnFHmrEgYjdiKrdVtFBw:1739160948110&ei=dH2pZ5OnBpXYkPIPuoPXqAs&start=10&sa=N&sstk=Af40H4VCT66UXnWzKsw9ruJtZZEIv4j2z0j4-VNfqRm5cuXClwGeueZMCeDNXYn1B7uIXtOm4YLaDyeuEKwdx00RHT3TNXj3WZHVRQ&ved=2ahUKEwiTsZO0n7iLAxUVLEQIHbrBFbUQ8tMDegQIHhAE&biw=1536&bih=695&dpr=1.25
+
+计算机和神经网络
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/
+
+openui/open-ui: Maintain an open standard for UI and promote its adherence and adoption.
+https://github.com/openui/open-ui
+
+github.com
+https://github.com/openui
+
+openui/open-ui: Maintain an open standard for UI and promote its adherence and adoption.
+https://github.com/openui/open-ui
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Sadness and Sorrow (Special ver.) - Naruto OST [Piano] - YouTube
+https://www.youtube.com/watch?v=4UEnnIChm8U
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+MusicXML - Google 搜索
+https://www.google.com/search?q=MusicXML&oq=MusicXML&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzM2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+lilypond/lilypond: This is just a mirror of GNU LilyPond repository. If you'd like to contribute to LilyPond, please look at http://www.lilypond.org/development.html
+https://github.com/lilypond/lilypond
+
+Max Mathews - Google 搜索
+https://www.google.com/search?q=Max+Mathews&oq=Max+Mathews&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIyMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Home / X
+https://x.com/home
+
+Titanic - My Heart Will Go On (Piano Cover) - YouTube
+https://www.youtube.com/watch?v=KAQWzHokZXg&list=RDMM5Ggnzs2hP3s&index=8
+
+周杰倫二鍵即興作曲 驚豔全場 JayChou - YouTube
+https://www.youtube.com/watch?v=bfv6wd6lpkQ
+
+Discover — Bluesky
+https://bsky.app/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+BlackPlayer github - Google 搜索
+https://www.google.com/search?q=BlackPlayer+github&sca_esv=f2490263f6e84848&sxsrf=AHTn8zpN32jn8HboF9aNvR7S8f-CgSUHAg%3A1739164493155&ei=TYupZ7WXCfDQkPIP8oTDqAI&ved=0ahUKEwj18cfOrLiLAxVwKEQIHXLCECUQ4dUDCBA&uact=5&oq=BlackPlayer+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkJsYWNrUGxheWVyIGdpdGh1YjIEEAAYHjIGEAAYCBgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESLUKUDdYtglwAXgBkAEAmAGQA6ABxwmqAQcyLTMuMC4xuAEDyAEA-AEBmAIFoALbCcICChAAGLADGNYEGEfCAggQABiABBjLAcICBRAAGO8FmAMAiAYBkAYCkgcJMS4wLjMuMC4xoAefCQ&sclient=gws-wiz-serp
+
+Ankit-Sangwaan/BlackHole
+https://github.com/Ankit-Sangwaan/BlackHole
+
+namidaco/namida: A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
+https://github.com/namidaco/namida
+
+Node.js Core Development - Twitch
+https://www.twitch.tv/videos/2375041966
+
+Home / X
+https://x.com/home
+
+node/doc/contributing/writing-and-running-benchmarks.md at main · nodejs/node
+https://github.com/nodejs/node/blob/main/doc/contributing/writing-and-running-benchmarks.md
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522%252Fsettings%2522%257D&authorization_session_id=01JKQMP9X0J5QB3D42NJ9C2NJ4
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67a9cee41dac330026041d9e
+
+Cursor - The AI Code Editor
+https://www.cursor.com/ja
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Action requested - Verify Expose CSSFontFeaturesValueRule - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTCnGrqrbTXvBZHbpwDNgnWQZ
+
+Expose CSSFontFeaturesValueRule - Chrome Platform Status
+https://chromestatus.com/feature/6275972238934016
+
+CSSFontFeatureValuesRule should be exposed to window scope [385925149] - Chromium
+https://issues.chromium.org/issues/385925149
+
+403 Forbidden
+https://chromestatus.com/guide/verify_accuracy/6275972238934016?loginStatus=False
+
+Expose CSSFontFeaturesValueRule - Chrome Platform Status
+https://chromestatus.com/feature/6275972238934016
+
+web-platform-tests dashboard
+https://wpt.fyi/results/css/css-fonts/idlharness.html?label=master&label=experimental&aligned&q=css-fonts
+
+Chrome Platform Status
+https://chromestatus.com/roadmap
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 Update 02.md · tc39/agendas@daf782c
 https://github.com/tc39/agendas/commit/daf782c696fef9172a906f0a6b86d4446b162933
 

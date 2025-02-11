@@ -1,6 +1,14 @@
 
 # 2025-02-10
 
+我认为不要过分强调独立反而有好处，你应该默认会有人帮助你，这样你会记录下关键信息，同步给别人，如果你过度独立总是在自己控制不住的时候跟别人说，
+别人一是觉得你十万火急，二是context也不好找，
+
+我选择不骂他是我有教养，虽然让自己积累情绪，我相信能通过别的方式自然散出去，而不是传播，不想有的傻逼。
+虽然不认同，但还得做，所以现代人需要替代活动解压
+
+表达自己的需求是正常且必要的，这不是"让别人按照你的想法来"，而是在寻求一个互相理解和尊重的相处方式。
+
 Max Mathews
 
 Pioneer
@@ -1082,7 +1090,7 @@ Tech history's pattern:
 1980s: Xerox invented GUI → Apple/MS commercialized it
 1990s: SGI pioneered 3D → NVIDIA/AMD took over
 2000s: Sun created JVM → Google/Amazon scaled it
-2010s: Intel dominant ISA → ARM/RISCV eating it.
+2010s: Intel dominant ISA → ARM/RISCV eating it
 2020s: Will OpenAI's AI breakthroughs follow the same path?
 
 History Doesn't Repeat Itself, but It Often Rhymes
