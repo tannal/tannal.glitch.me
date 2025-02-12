@@ -1,6 +1,107 @@
 
 # 2025-02-11
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Chrome Platform Status
+https://chromestatus.com/roadmap
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+module: integrate TypeScript into compile cache by joyeecheung · Pull Request #56629 · nodejs/node
+https://github.com/nodejs/node
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app
+
+tannal (tannal)
+https://github.com/tannal/
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+tannal (tannal)
+https://github.com/tannal/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Justin Bieber - Sorry | Piano Cover by Pianella Piano - YouTube
+https://www.youtube.com/watch?v=IoWLPQH0y0U&list=RDMMF-J-gOqYOFA&index=6
+
+2408.03314
+https://arxiv.org/pdf/2408.03314
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Executable loading and startup performance on macOS | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2025/01/11/executable-loading-and-startup-performance-on-macos/
+
+module: integrate TypeScript into compile cache by joyeecheung · Pull Request #56629 · nodejs/node
+https://github.com/nodejs/node/pull/56629
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Ted Kaczynski - Wikipedia
+https://en.wikipedia.org/wiki/Ted_Kaczynski
+
+tannal (tannal)
+https://github.com/tannal/
+
+伽利略·伽利莱 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1
+
+Cursor - The AI Code Editor
+https://www.cursor.com/ja
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fja%252FloginDeepControl%253Fchallenge%253DRU5e_gJ9iYjcG0ypOwc0OduvjROzKnbUfCUZjwfBhho%2526uuid%253D965135f7-7bcd-4036-8414-3ca642d6f327%2526mode%253Dlogin%2522%257D&authorization_session_id=01JKTGSQEFTQBEZE2JWPRQFKN1
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fja%252FloginDeepControl%253Fchallenge%253DNTqwgt8Ab_3850F3ir_1rn8BuzFRzfHyhajbMqMFq4A%2526uuid%253D50416c38-6354-416f-a4a6-ad382d706238%2526mode%253Dlogin%2522%257D&authorization_session_id=01JKTGYFGXK2ZKPDXJX2YA8YK2
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67ab47d0f499640014ea12a1
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fja%252FloginDeepControl%253Fchallenge%253DN52uum68M_TNfKnVLZrDhbcVU92-7_ZAjruTkdgu-AE%2526uuid%253Dbc693577-b1de-4b49-8c7b-d9037d2c2eb9%2526mode%253Dlogin%2522%257D&authorization_session_id=01JKTH094FZQB15XG5DVGZJXHS
+
+勒伊岑·布劳威尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%8B%92%E4%BC%8A%E5%B2%91%C2%B7%E5%B8%83%E5%8A%B3%E5%A8%81%E5%B0%94
+
+结构主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%B5%90%E6%A7%8B%E4%B8%BB%E7%BE%A9#%E6%9E%84%E9%80%A0%E4%B8%BB%E4%B9%89
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/ja/loginDeepPage
+
+Per Martin-Löf - Google 搜索
+https://www.google.com/search?q=Per+Martin-L%C3%B6f&oq=Per+Martin-L%C3%B6f&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Robert Harper's Home Page
+https://www.cs.cmu.edu/~rwh/
+
+直觉主义逻辑 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%9B%B4%E8%A7%89%E4%B8%BB%E4%B9%89%E9%80%BB%E8%BE%91
 
 # 2025-02-10
 
