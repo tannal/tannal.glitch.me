@@ -573,7 +573,7 @@ igalia申请 deadline
 
 [] one for iga one for client side, I wish I can do AI things that's not required
 [] Fly to ChangChun at Tuesday from GuangZhou BaiYun
-[] choose class for next semester !!!!!!!!!! attention only happens in first week
+[] !!!!!!! choose class for next semester !!!!!!!!!! attention only happens in first week
 [] kai ti bao gao
 [] AI music
 [] GSoc
