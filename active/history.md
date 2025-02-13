@@ -1,6 +1,98 @@
 
 # 2025-02-13
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+tannal
+https://tannal.github.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+JavaScript Engine Developer | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/javascript_engine_developer
+
+tannal (tannal)
+https://github.com/tannal/
+
+字节跳动
+https://www.bytedance.com/zh/
+
+字节跳动招聘
+https://jobs.bytedance.com/experienced/position?keywords=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90
+
+抖音数据分析师-生态方向 - 字节跳动
+https://jobs.bytedance.com/experienced/position/7413258149170366758/detail
+
+chrome - Google 搜索
+https://www.google.com/search?q=chrome&sca_esv=60136f8a4720c294&sxsrf=AHTn8zpK-2SQMOgd3Rvv7ayY_DbdxXfMyA:1739416489725&ei=qWOtZ-bmK_TJ0PEPkareyAU&start=20&sa=N&sstk=Af40H4WZnp2N4uHUE4c38XA7RqMFEUBpE9PV4MZ9KWNrzH9NK5DQWPCYUBXSE5KsQOsZqhCEcs8bOAkMKsp5Secq7KzvXUn8DdKaBw&ved=2ahUKEwim3_Gv17-LAxX0JDQIHRGVF1kQ8tMDegQIPRAG&biw=1536&bih=695&dpr=1.25
+
+Slava Egorov (@mraleph) / X
+https://x.com/mraleph
+
+mraleph (mraleph) / Repositories
+https://github.com/mraleph?tab=repositories
+
+Following — Bluesky
+https://bsky.app/
+
+Reading in 2025
+https://mrale.ph/blog/2025/01/06/reading-in-2025.html
+
+mraleph (mraleph) / Repositories
+https://github.com/mraleph?tab=repositories
+
+tannal - Google 搜索
+https://www.google.com/search?q=tannal&oq=tannal+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQdIBBzk2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+巴黎高等师范学院 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%BB%8E%E9%AB%98%E7%AD%89%E5%B8%AB%E7%AF%84%E5%AD%B8%E9%99%A2
+
+哥本哈根诠释 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9%E8%A9%AE%E9%87%8B
+
+勒伊岑·布劳威尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8B%92%E4%BC%8A%E5%B2%91%C2%B7%E5%B8%83%E5%8A%B3%E5%A8%81%E5%B0%94
+
+大卫·希尔伯特 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9
+
+regionaltantrums - YouTube
+https://www.youtube.com/@regionaltantrums/videos
+
+Anton Burtsev - YouTube
+https://www.youtube.com/@AntonBurtsev/featured
+
+mraleph (Slava Egorov)
+https://github.com/mraleph
+
+Per Martin-Löf - Google 搜索
+https://www.google.com/search?q=Per+Martin-L%C3%B6f&oq=per+ma&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDkyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQgyOTE2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+superintelligent - Google 搜索
+https://www.google.com/search?q=superintelligent&sca_esv=a3ac4c9784873c8a&sxsrf=AHTn8zrOANTGMlitvaVPC2L4BJtQNEPb9A%3A1739426315746&ei=C4qtZ5qXLeCekPIPg7HQkQE&oq=superintelli&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHN1cGVyaW50ZWxsaSoCCAIyCBAuGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBSPkqUABYmh1wAHgBkAEAmAHcBKAB9iGqAQkyLTEuNC4yLjO4AQPIAQD4AQGYAg2gAq9BwgIMECMYgAQYExgnGIoFwgIKECMYgAQYJxiKBcICChAuGIAEGEMYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgsQLhiABBjUAhjLAcICDhAuGIAEGNEDGMcBGMsBwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQGYAwC6BgYIARABGBSSBwszLTUuNC4xLjAuM6AHpG8&sclient=gws-wiz-serp
+
+Sam Altman (@sama) / X
+https://x.com/sama
+
+Sam Altman
+https://blog.samaltman.com/
+
+Ilya Sutskever - Google 搜索
+https://www.google.com/search?sca_esv=a3ac4c9784873c8a&sxsrf=AHTn8zpihHQ27h2UGnfveGd23-eJ_i_X0A:1739426471200&q=Ilya+Sutskever&udm=7&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9jStM6SlnlVZPI1CseVcNELEiko-BqDyio3kvCurHeCzaDrHhtE9MmAbSAETGeCInLh8rZc2McCdDbqBsotNdLfuKkVJERpUo4WD81CNK7oruGB9-zIpHtSeJLIqv89WsEhExos2AEf_1O2ZQJYf3y49kV2QoQCXN4fJmhP4JB2ovhiv9JhK8Fo09j1VdTlzjxri4Sw&sa=X&ved=2ahUKEwir6rbH_L-LAxUmLEQIHSYjFMwQtKgLegQIEBAB&biw=1536&bih=695&dpr=1.25
+
+Ilya Sutskever: Sequence to Sequence Learning with Neural Networks at NeurIPS 2024 - YouTube
+https://www.youtube.com/watch?v=WQQdd6qGxNs
+
+Ilya Sutskever: Sequence to Sequence Learning with Neural Networks at NeurIPS 2024 - YouTube
+https://www.youtube.com/watch?v=WQQdd6qGxNs&t=808s
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
 
 # 2025-02-12
 
