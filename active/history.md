@@ -1,4 +1,165 @@
 
+# 2025-02-14
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+YouTube
+https://www.youtube.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Reland "[wasm][cleanup] Drop ValueType::Rtt" · v8/v8@c52830a
+https://github.com/v8/v8/commit/main
+
+isolate.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/execution/isolate.cc;l=1570?q=%20GetFirstBytecodeAddress&sq=&ss=chromium%2Fchromium%2Fsrc
+
+Cheney's algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Cheney%27s_algorithm
+
+Office Hours 2025-02-13 - Google 文档
+https://docs.google.com/document/d/1xDtEZIx4nKHcWWjIezrTF_qeusjWSXbdpfS8MTyhX9Y/edit?tab=t.0
+
+This Month in Linebender, January 2025 by DJMcNab · Pull Request #89 · linebender/linebender.github.io
+https://github.com/linebender/linebender.github.io/pull/89/files
+
+this is the most hypocritical company in tech - YouTube
+https://www.youtube.com/watch?v=OkR6-74jq0E
+
+LaurenzV (Laurenz Stampfl)
+https://github.com/LaurenzV
+
+Test `no_std` in CI by waywardmonkeys · Pull Request #239 · linebender/parley
+https://github.com/linebender/parley/pull/239
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Carter Anderson (@cart_cart) / X
+https://x.com/cart_cart
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=tight&op=translate
+
+PDFium (PDFium)
+https://github.com/PDFium
+
+pdfium - Git at Google
+https://pdfium.googlesource.com/pdfium/
+
+tc39/agendas: TC39 meeting agendas
+https://github.com/tc39/agendas
+
+RustWeek 2025 Tickets, Tue, May 13, 2025 at 9:00 AM | Eventbrite
+https://www.eventbrite.nl/e/rustweek-2025-tickets-1001676961757?aff=oddtdtcreator
+
+Apply for a visa | vfsglobal
+https://visa.vfsglobal.com/ind/en/jpn/apply-visa
+
+waywardmonkeys (Bruce Mitchener)
+https://github.com/waywardmonkeys
+
+keyboard - Keywords - crates.io: Rust Package Registry
+https://crates.io/keywords/keyboard
+
+2025-02-13-Node.js Build WG meeting - YouTube
+https://www.youtube.com/watch?v=HCSAUDCPqxI
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+YouTube
+https://www.youtube.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Reland "[wasm][cleanup] Drop ValueType::Rtt" · v8/v8@c52830a
+https://github.com/v8/v8/commit/main
+
+isolate.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:v8/src/execution/isolate.cc;l=1570?q=%20GetFirstBytecodeAddress&sq=&ss=chromium%2Fchromium%2Fsrc
+
+Cheney's algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Cheney%27s_algorithm
+
+Office Hours 2025-02-13 - Google 文档
+https://docs.google.com/document/d/1xDtEZIx4nKHcWWjIezrTF_qeusjWSXbdpfS8MTyhX9Y/edit?tab=t.0
+
+This Month in Linebender, January 2025 by DJMcNab · Pull Request #89 · linebender/linebender.github.io
+https://github.com/linebender/linebender.github.io/pull/89/files
+
+this is the most hypocritical company in tech - YouTube
+https://www.youtube.com/watch?v=OkR6-74jq0E
+
+`fontdb` is unmaintained · Issue #862 · linebender/resvg
+https://github.com/linebender/resvg/issues/862
+
+Test `no_std` in CI by waywardmonkeys · Pull Request #239 · linebender/parley
+https://github.com/linebender/parley/pull/239
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Carter Anderson (@cart_cart) / X
+https://x.com/cart_cart
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=tight&op=translate
+
+PDFium (PDFium)
+https://github.com/PDFium
+
+pdfium - Git at Google
+https://pdfium.googlesource.com/pdfium/
+
+tc39/agendas: TC39 meeting agendas
+https://github.com/tc39/agendas
+
+RustWeek 2025 Tickets, Tue, May 13, 2025 at 9:00 AM | Eventbrite
+https://www.eventbrite.nl/e/rustweek-2025-tickets-1001676961757?aff=oddtdtcreator
+
+Apply for a visa | vfsglobal
+https://visa.vfsglobal.com/ind/en/jpn/apply-visa
+
+waywardmonkeys (Bruce Mitchener)
+https://github.com/waywardmonkeys
+
+keyboard - Keywords - crates.io: Rust Package Registry
+https://crates.io/keywords/keyboard
+
+Rust UI Joint Meeting - Google 搜索
+https://www.google.com/search?q=Rust+UI+Joint+Meeting&oq=Rust+UI+Joint+Meeting&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhA0gEHMjMyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
 # 2025-02-13
 
 微信文件传输助手网页版

@@ -1,6 +1,13 @@
 
 # 2025-02-13
 
+https://nodejs.org/calendar
+
+Rust UI Joint Meeting
+futurewei
+
+dioxus is funded by futurewei &
+
 所以 joyee 的时区比北京时间晚 10 小时
 因此 joyee 很可能在美国东部时区 (EST/EDT, UTC-5)，因为：
 美东时间正好比北京时间晚 13 小时
