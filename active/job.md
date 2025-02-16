@@ -585,8 +585,17 @@ igalia申请 deadline
 [] leetcode batch processing
 
 ## Sunday
+√ M going to hospital
+√ eating breakfirst 5 RMB
+
 ## Saturday
+√ wake up in 6am.
+√ nodejs mentoring tests & benchmarking
+https://www.twitch.tv/videos/2381122535
+
 ## Friday
+√ KTV from 15:00 PM to 18:00 PM
+√ Var VALORANT 20:00 PM - 22:30 PM
 ## Thursday
 ## Wednesday
 ## Tuesday
