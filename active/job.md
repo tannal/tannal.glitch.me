@@ -563,6 +563,13 @@ igalia申请 deadline
 
 # 2025-2-17 - 2025-2-24 冬
 
+[] one for iga one for client side, I wish I can do AI things that's not required
+[] Fly to ChangChun at Tuesday from GuangZhou BaiYun
+[] !!!!!!! choose class for next semester !!!!!!!!!! attention please only happens in first week
+[] kai ti bao gao
+[] AI music
+[] GSoc
+
 ## Sunday
 ## Saturday
 ## Friday
@@ -571,12 +578,6 @@ igalia申请 deadline
 ## Tuesday
 ## Monday
 
-[] one for iga one for client side, I wish I can do AI things that's not required
-[] Fly to ChangChun at Tuesday from GuangZhou BaiYun
-[] !!!!!!! choose class for next semester !!!!!!!!!! attention only happens in first week
-[] kai ti bao gao
-[] AI music
-[] GSoc
 
 
 # 2025-2-10 - 2025-2-17 冬 enconomy data week
