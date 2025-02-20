@@ -579,6 +579,8 @@ igalia申请 deadline
 
 √ breakfeast 8:30 am lunch 11:00 am
 √ piano
+√ Get used to gecko maxquota offset by one bug and node blob fast api bug
+
 
 
 ## Wednesday

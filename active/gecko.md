@@ -1,4 +1,7 @@
 
+
+Bug 1947949 - Remove unused NS_ERROR_HTMLPARSER_* codes. r?hsivonen
+
 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
 
 Differential Revision: https://phabricator.services.mozilla.com/D227349
