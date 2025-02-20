@@ -570,11 +570,16 @@ igalia申请 deadline
 [] AI music
 [] watch out your
 [] GSoc
+[] I can try v8 startup snapshot now I think haha electron fucking but but
 
 ## Sunday
 ## Saturday
 ## Friday
 ## Thursday
+
+√ breakfeast 8:30 am lunch 11:00 am
+√ piano
+
 
 ## Wednesday
 
