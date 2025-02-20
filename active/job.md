@@ -568,9 +568,10 @@ igalia申请 deadline
 [x] !!!!!!! choose class for next semester !!!!!!!!!! attention please only happens in first week
 [] kai ti bao gao
 [] AI music
-[] watch out your
+[] watch out your teeth
 [] GSoc
-[] I can try v8 startup snapshot now I think haha electron fucking but but
+[] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
+[]
 
 ## Sunday
 ## Saturday
