@@ -140,17 +140,11 @@ CC="/opt/llvm/bin/clang" CXX="/opt/llvm/bin/clang++" \
   --openssl-use-def-ca-store \
   --node-builtin-modules-path $(pwd)
 
-CFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
-CXXFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
-LDFLAGS="-O3 -march=native -mtune=native -flto -fuse-ld=gold -fno-semantic-interposition" \
-make -j$(nproc)
-
-CC="clang" CXX="clang++" ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --dest-cpu=x64
+CC="/opt/llvm/bin/clang" CXX="/opt/llvm/bin/clang++" ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd) --with-intl=full-icu --dest-cpu=x64
 
 ./configure --ninja --debug --v8-with-dchecks -C --node-builtin-modules-path $(pwd)
 
 --with-intl=full-icu
-
 
 export NODE_DEBUG_NATIVE=module
 unset NODE_DEBUG_NATIVE
