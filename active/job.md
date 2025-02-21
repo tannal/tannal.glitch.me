@@ -571,7 +571,7 @@ igalia申请 deadline
 [] watch out your teeth
 [] GSoc
 [] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
-[]
+[] https://www.youtube.com/watch?v=WOv9N0Ws2_U
 
 ## Sunday
 ## Saturday
