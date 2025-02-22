@@ -1333,6 +1333,7 @@ https://tik-db.ee.ethz.ch/file/0d41d7d657f1a65f65373c4797caaeac/Music_Genre_Tran
 
 # 2024-12-18
 
+https://www.youtube.com/watch?v=yHB_5WmRbho&t=898s
 We hire people from other companys.
 The reason they come to apple is because they know what to do and the commany they are working for are not willing to take the rist to do it.
 In Apple(startup), you just do it and no need to convince anyone.
