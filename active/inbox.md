@@ -1,6 +1,14 @@
 
 # 2025-02-22
 
+$action = New-ScheduledTaskAction -Execute "C:\Users\tannal\tannalwork\projects\notes\auto-commit.cmd"
+$trigger = New-ScheduledTaskTrigger -Daily -At 21:47
+Register-ScheduledTask -TaskName "AutoCommit" -Action $action -Trigger $trigger
+
+schtasks /delete /tn "AutoCommit" /f
+
+北京时间早上 9 点对应埃德蒙顿时间的前一天晚上 6 点（18:00）到 7 点（19:00）。
+
 虽然您有在 Chromium 方面的贡献，但简历中没有详细说明您在 Chromium 项目中的具体工作或成就。如果您在 Chromium 的经验较少，可能会影响申请的竞争力。
 
 您的简历中没有提到与多媒体处理或 GStreamer 相关的经验或项目。这个领域通常需要对音视频处理、流媒体技术等有深入的理解和实践经验。

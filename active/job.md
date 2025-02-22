@@ -555,35 +555,56 @@ igalia申请 deadline
 
 # 2025-2-24 - 2025-3-3 春
 
+[] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
 [] FED interest rate
 [] igalia Code Experience
+- ask Joyee timezone & CV & Cover letter & Shebao & en communication
+- ask Justin
 [] Google Summer Of Code
 [] Chui realm plugin systems & layouting
 [] 研一下开始, AI实习开始投递
+
+## Sunday
+## Saturday
+
+## Friday
+
+[] Coffee Compiler Club meeting 4:00 am - 5:00 am
+[] Nodejs mentoring 3:00 am - 4:00 am https://www.twitch.tv/rafaelgss
+
+## Thursday
+
+[] Lineblender meeting 24:00 - 25:00
+
+## Wednesday
+## Tuesday
+
+## Monday
+
+[] I have a meeting on 13:30 - 14:20 on 208
 
 # 2025-2-17 - 2025-2-24 冬
 
 [] CV & CoverLetter for ICE
 [] Should I ask
+[] GSoc
 [] one for iga one for client side, I wish I can do AI things that's not required
 [x] Fly to ChangChun at Tuesday from GuangZhou BaiYun
 [x] !!!!!!! choose class for next semester !!!!!!!!!! attention please only happens in first week
-[] kai ti bao gao
-[] AI music
-[] watch out your teeth
-[] GSoc
-[] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
+[] kai ti bao gao AI music
+https://x.com/chrisdonahuey
 [] https://www.youtube.com/watch?v=WOv9N0Ws2_U
 
 ## Sunday
 ## Saturday
 
-√ Watch out my teeth
+√ I'm apply a meeting with YingYuZhang at 208 on Monday next week.
+√ I deleted the "auto commit" task on windows 11
 √ I have some sympotoms of anxiety disorder, such as sweaty palms or palmar hyperhidrosis, I should be careful
-√ Answerd some questins from ChenWei about choosing a supervisor
+√ Answerd some questins from WeiChen about choosing a supervisor.
 √ I didn't chat with yy, I think I will find some time to chat with her
 √ My brother is getting a job
-√ I'm considering applying for GSOC and ICE.
+
 
 ## Friday
 ## Thursday

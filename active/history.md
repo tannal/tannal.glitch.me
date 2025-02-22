@@ -1,6 +1,213 @@
 
 # 2025-02-22
 
+! nodejs-core（频道） - OpenJS Foundation - 1 个新项目 - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Node.js Core Development - 3rd session! - Twitch
+https://www.twitch.tv/videos/2375041966
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+cross-project-council/community-fund/COMMUNITY_FUND_POLICY.md at main · openjs-foundation/cross-project-council
+https://github.com/openjs-foundation/cross-project-council/blob/main/community-fund/COMMUNITY_FUND_POLICY.md#how-to-apply
+
+News - Ecma International
+https://ecma-international.org/news/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+catamorphism (Tim Chevalier) · GitHub
+https://github.com/catamorphism
+
+Element [20] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+HTML Standard
+https://html.spec.whatwg.org/#evaluate-a-javascript:-url
+
+w3c/mediacapture-surface-control: Web API allowing capturing applications limited control over captured surfaces.
+https://github.com/w3c/mediacapture-surface-control
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Design of V8 bindings
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md
+
+Untitled
+https://hookpad.hooktheory.com/
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/repositories?repositories=angle,blink,chromeos,chromium,clusterfuzz,dawn,devtool-frontend,gecko,gn,jsc,ladybird,llvm,partition_alloc,pdfium,perfetto,servo,skia,spidermonkey,swiftshader,v8,webkit,webrtc,wpt&what=commit&grouping=yearly&display=average&kind=author&percentile=0.7071&individual=300&developers=&min_contributions=0
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/5
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mgaudet/proposal-error-capturestacktrace: Standardizing Error.captureStackTrace
+https://github.com/mgaudet/proposal-error-capturestacktrace
+
+Stack trace API · V8
+https://v8.dev/docs/stack-trace-api
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+JSMSG_TEMPORAL_INVALID_OBJECT - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_INVALID_OBJECT&redirect=false
+
+⚙ D219210 Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+https://phabricator.services.mozilla.com/D219210
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs[0]=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses[0]=open()&order=newest&bucket=action
+
+Bluesky Social Dataset (235M posts from 4M users) | Hacker News
+https://news.ycombinator.com/item?id=42261804
+
+LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/leetbook/
+
+Meaning of Life (Rachel McAdams & Benedict Cumberbatch) - Doctor Strange (2016) - YouTube
+https://www.youtube.com/watch?v=WOv9N0Ws2_U
+
+Christine & Stephen || Loving You is a Losing Game (Arcade) - YouTube
+https://www.youtube.com/watch?v=igjGkl6HX4U
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+(210) Discord | @Mc-Zen
+https://discord.com/channels/@me/1321830740140490762
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+process: improve error message for process.cwd() when directory is deleted by Ankush1oo8 · Pull Request #57053 · nodejs/node
+https://github.com/nodejs/node/pull/57053
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318
+
+⚙ D239239 Bug 1947949 - Remove unused NS_ERROR_HTMLPARSER_* codes. r?hsivonen
+https://phabricator.services.mozilla.com/D239239
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2025_02_21 - YouTube
+https://www.youtube.com/watch?v=21-NCa7eWcY
+
+CCC 21/Feb/2025 - Google 文档
+https://docs.google.com/document/d/1XQvX4WLTyneCCcrZx0-UjVb3rbdFhPj-WKGQxvzVhNY/edit?tab=t.0
+
+Getting to Go: The Journey of Go's Garbage Collector - The Go Programming Language
+https://go.dev/blog/ismmkeynote
+
+Atlas Research - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Atlas+Research&sei=CZe5Z_iQNfKgur8Pu5u44QI
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#learn-more
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+https://gfxcourses.stanford.edu/cs248a/winter24
+https://gfxcourses.stanford.edu/cs248a/winter24
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+tannal/zulip-flutter: Upcoming Zulip mobile apps for Android and iOS, using Flutter
+https://github.com/tannal/zulip-flutter
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469?checksPatchset=11&tab=checks
+
+Public Funding (Fondos Públicos) | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/public-funding/
+
+Expose CSSFontFeatureValuesRule to window scope · chromium/chromium@9d821a1
+https://github.com/chromium/chromium/commit/9d821a1e08753f8ec3c389e3bc8014f28595c90a
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Google Open Source Blog: gsoc
+https://opensource.googleblog.com/search/label/gsoc
+
+Google Open Source Blog: gsoc
+https://opensource.googleblog.com/search/label/gsoc
+
+Chris Donahue
+https://chrisdonahue.com/
+
+chrisdonahue/sheetsage: Transcribe music into lead sheets!
+https://github.com/chrisdonahue/sheetsage
+
+Chris Donahue (@chrisdonahuey) / X
+https://x.com/chrisdonahuey
+
+Vision not working - Discussion - Cursor - Community Forum
+https://forum.cursor.com/t/vision-not-working/3849
+
+Anticipatory-Music-Transformer - Colab
+https://colab.research.google.com/drive/1HCQDtGFwROpHRqcmZbV0byqbxDb74YGu?usp=sharing#scrollTo=_YDCWNNbBI_n
+
+jthickstun/anticipation: Anticipatory Autoregressive Models
+https://github.com/jthickstun/anticipation?tab=readme-ov-file
+
+2306.08620v2.pdf
+https://arxiv.org/pdf/2306.08620
+
+mido/mido: MIDI Objects for Python
+https://github.com/mido/mido
+
+Mido - MIDI Objects for Python — Mido 1.3.2 documentation
+https://mido.readthedocs.io/en/stable/
+
+Home / X
+https://x.com/home
+
+Program Details | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2025-ao
+
+Linker error when using an archive created with `ar` · Issue #54787 · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues/54787
+
 【纯享版】张碧晨王赫野深情对唱《字字句句》太好哭了！独特的嗓音搭配悠扬的曲调 “字字句句”都唱进了心里！ #天赐的声音4 EP3 - YouTube
 https://www.youtube.com/watch?v=lnXn6sblxB8&list=RDULYksmjBwzY&index=13
 
