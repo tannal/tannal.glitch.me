@@ -1,6 +1,173 @@
 
 # 2025-02-22
 
+【纯享版】张碧晨王赫野深情对唱《字字句句》太好哭了！独特的嗓音搭配悠扬的曲调 “字字句句”都唱进了心里！ #天赐的声音4 EP3 - YouTube
+https://www.youtube.com/watch?v=lnXn6sblxB8&list=RDULYksmjBwzY&index=13
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+sc.macromicro.me
+https://sc.macromicro.me/collections/9/us-market-relative/48/target-rate
+
+github.com
+https://github.com/tannal?tab=repositories
+
+github.com
+https://github.com/Mc-Zen?tab=repositories
+
+github.com
+https://github.com/topdeoo/NENU-Thesis-Typst
+
+Honeypot - YouTube
+https://www.youtube.com/@Honeypotio/videos
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+github.com
+https://github.com/orgs/ScoopInstaller/repositories
+
+duanebester/gpui-todos: A todo app written in GPUI
+https://github.com/duanebester/gpui-todos
+
+Broooooklyn on X: "Can’t believe this issue still exists: https://t.co/A8Fhm4uvot. @github, why don’t you just fire the whole npm team, archive this shit project, and let developers simply use @pnpmjs and @yarnpkg ?" / X
+https://x.com/Brooooook_lyn/status/1893209004957892615
+
+RAD Game Tools - Google 搜索
+https://www.google.com.hk/search?q=RAD+Game+Tools&oq=RAD+Game+Tools&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMxMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+RAD Game Tools
+https://www.radgametools.com/
+
+RAD Game Tools scoop - Google 搜索
+https://www.google.com.hk/search?q=RAD+Game+Tools+scoop&oq=RAD+Game+Tools+scoop&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhgNGMcBGNQCGNEDGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIICAQQABgNGB4yCAgFEAAYDRgeMggIBhAAGA0YHjIICAcQABgNGB4yCAgIEAAYDRge0gEIMjIwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+操作系统概念（恐龙书） - Google 搜索
+https://www.google.com/search?sca_esv=32cceb17385ab000&sxsrf=AHTn8zpDaFeBBAojfilm4xknmruPuW7Big:1740041678102&q=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%EF%BC%88%E6%81%90%E9%BE%99%E4%B9%A6%EF%BC%89&source=lnms&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9CT7sZgJ3YxDyvo6Z5PmHS5PNgCuw3vKnQewLEQwPokpKPvozbdppVSfSqHCDQKD_dZIR_N01BeRn3ta6JYKuWahyb45p-ax5J-PcGXKtkzfiefXgms8mRZGdTAySTBVjy5FL_H8DHlRbAzaj2-0Z5n52et39WNEQfHgJ7xcsUPEpPZVJVV9aGC7A68BHnvivsMXzOg&sa=X&ved=2ahUKEwjCjviw8NGLAxWpRmcHHTgmJXsQ0pQJegQIDhAB&biw=1536&bih=695&dpr=1.25
+
+operating system concepts - Google 搜索
+https://www.google.com/search?q=operating+system+concepts&oq=operating+system+conc&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyCggBEC4Y1AIYgAQyCggCEC4Y1AIYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTExMTg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Hixie's Natural Log: Reflecting on 18 years at Google
+https://ln.hixie.ch/?start=1700627373&count=1
+
+tannal (tannal)
+https://github.com/tannal
+
+x64dbg/x64dbg: An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+https://github.com/x64dbg/x64dbg
+
+bluewww/ddd: GNU DDD is a graphical front-end for command-line debuggers such as GDB, DBX, WDB, Ladebug, JDB, XDB, the Perl debugger, the bash debugger bashdb, the GNU Make debugger remake, or the Python debugger pydb. This is a git conversion of the original svn repository. Focus on RISC-V support.
+https://github.com/bluewww/ddd
+
+Slow Masonry startup time · Issue #804 · linebender/xilem
+https://github.com/linebender/xilem/issues/804
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Facebook
+https://www.facebook.com/
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318/files#diff-f4dad89f4d375585bec6f18f231c805622bb478cd7fc6e74995080a8fad63d32
+
+「鋼琴教學」APT. (唯美抒情鋼琴版)－ROSÉ & Bruno Mars | Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=vptMEPOOd3Q
+
+🇺🇦 Ingvar Stepanyan: "This all feels surreal. Like, surely the US will snap out of it, right? They won't be going down this trajectory for *years* to come, right?!" — Bluesky
+https://bsky.app/profile/rreverser.com/post/3liq7ecqrsc2k
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+东北师范大学
+https://yjsy.nenu.edu.cn/aop_views/search/modules/resultpc/soso.html?query=eyJrZXlXb3JkIjoi6YCJ6K++Iiwib3duZXIiOiIxMzkyNjY0MTE2IiwidG9rZW4iOiJcclxuXHJcblxyXG5cclxuXHJcblxyXG5cclxuXHJcblxyXG5cclxuXHJcbnRvdXJpc3RcclxuIiwidXJsUHJlZml4IjoiL2FvcF9jb21wb25lbnQvIiwibGFuZyI6ImkxOG5femhfQ04ifQ==
+
+关于2025年春季学期研究生选课的通知-东北师范大学研究生院
+https://yjsy.nenu.edu.cn/info/1123/6145.htm
+
+Taylor Swift - You Belong With Me - YouTube
+https://www.youtube.com/watch?v=VuNIsY6JdUw
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Linux 核心設計 (2025): 課程介紹 - YouTube
+https://www.youtube.com/watch?v=HiT19cs_Ys0
+
+附件5：《国际化拔尖创新人才培养计划》学生选课报名汇总表
+https://365.kdocs.cn/l/ccXD5qqKim9r
+
+周杰倫 Jay Chou - 菊花台 Chrysanthemum Terrace (Piano Tutorial by Javin Tham) 電影《滿城盡帶黃金甲》片尾曲 - YouTube
+https://www.youtube.com/watch?v=ATSm49PwQCU&list=PLT-JPuS1gwf_7sxROq7Kp2UtO_roN6aBv&index=24
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Taylor Swift - You Belong With Me - YouTube
+https://www.youtube.com/watch?v=VuNIsY6JdUw&list=RDMMOovd1wTzAOc&index=12
+
+tannal (tannal)
+https://github.com/tannal/
+
+Linux 核心設計 (2025): 第一週課程 - YouTube
+https://www.youtube.com/watch?v=WlZwJDcrvcc
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Office Hours 2025-02-20 - Google 文档
+https://docs.google.com/document/d/1x-0S33uIFFrRMPR50Vv_aFpFlpp69WUf5WCDeIDZEEY/edit?tab=t.0
+
+Linebender
+https://github.com/linebender
+
+NixOS - Google 搜索
+https://www.google.com/search?q=NixOS&oq=NixOS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Avoid tracking revisions for untracked fields · Issue #672 · salsa-rs/salsa
+https://github.com/salsa-rs/salsa/issues/672
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67b803948cfd9500150ff35d
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+研究生院
+https://pg.nenu.edu.cn/HProg/sys/php/Main.php
+
+www.nhk.or.jp
+https://www.nhk.or.jp/school/
+
+github.com
+https://github.com/cemyuksel/cyCodeBase/blob/master/cyPolynomial.h
+
+SeaOfNodes/Simple: A Simple showcase for the Sea-of-Nodes compiler IR
+https://github.com/SeaOfNodes/Simple/
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+
+「鋼琴教學」說好的幸福呢－周杰倫 Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=Are-BgiRg4Y
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+winch(x64): Relaxed SIMD · Issue #8094 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/8094
 
 # 2025-02-20
 

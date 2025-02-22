@@ -563,8 +563,8 @@ igalia申请 deadline
 
 # 2025-2-17 - 2025-2-24 冬
 
-√
-
+[] CV & CoverLetter for ICE
+[] Should I ask
 [] one for iga one for client side, I wish I can do AI things that's not required
 [x] Fly to ChangChun at Tuesday from GuangZhou BaiYun
 [x] !!!!!!! choose class for next semester !!!!!!!!!! attention please only happens in first week
@@ -577,6 +577,14 @@ igalia申请 deadline
 
 ## Sunday
 ## Saturday
+
+√ Watch out my teeth
+√ I have some sympotoms of anxiety disorder, such as sweaty palms or palmar hyperhidrosis, I should be careful
+√ Answerd some questins from ChenWei about choosing a supervisor
+√ I didn't chat with yy, I think I will find some time to chat with her
+√ My brother is getting a job
+√ I'm considering applying for GSOC and ICE.
+
 ## Friday
 ## Thursday
 
