@@ -1,6 +1,18 @@
 
 # 2025-02-23
 
+https://phabricator.services.mozilla.com/
+
+Bug 1948118 - Reword JSMSG_TEMPORAL_UNEXPECTED_PROPERTY error message; r=dminor!
+
+
+Bug 1947949 - Remove unused NS_ERROR_HTMLPARSER_* codes. r?hsivonen
+
+Differential Revision: https://phabricator.services.mozilla.com/D239239
+
+
+git log -1 --pretty=%B > commit_message.txt
+
 Java 和 Servlet 的兴起（1995 年）：
 JSP 和 EJB（1999 年）：
 Web 2.0（2000 年代初）：
