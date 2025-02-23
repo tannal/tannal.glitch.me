@@ -1,6 +1,29 @@
 
 # 2025-02-23
 
+早期职业
+建议先加入研究型公司/实验室
+积累深厚的技术功底
+建立行业视野和人脉
+参与前沿技术研发
+中期转型
+择机转入商业化公司
+利用前期积累的技术优势
+学习商业化和产品化能力
+获得更好的职业发展机会
+现代应用
+可以考虑：
+研究型公司：DeepMind, OpenAI, Anthropic
+商业化公司：Google, Microsoft, Amazon
+注意事项
+关注技术趋势
+保持学习能力
+建立个人品牌
+维护职业网络
+
+Testing is good
+Don't panic
+
 https://phabricator.services.mozilla.com/
 
 Bug 1948118 - Reword JSMSG_TEMPORAL_UNEXPECTED_PROPERTY error message; r=dminor!
