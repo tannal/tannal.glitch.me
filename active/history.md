@@ -1,6 +1,218 @@
 
 # 2025-02-23
 
+! nodejs-core（频道） - OpenJS Foundation - 1 个新项目 - Slack
+https://app.slack.com/client/T0K2RM7F0/C019Y2T6STH
+
+Node.js Core Development - 3rd session! - Twitch
+https://www.twitch.tv/videos/2375041966
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+cross-project-council/community-fund/COMMUNITY_FUND_POLICY.md at main · openjs-foundation/cross-project-council
+https://github.com/openjs-foundation/cross-project-council/blob/main/community-fund/COMMUNITY_FUND_POLICY.md#how-to-apply
+
+News - Ecma International
+https://ecma-international.org/news/
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+catamorphism (Tim Chevalier) · GitHub
+https://github.com/catamorphism
+
+Element [20] | developers
+https://chat.mozilla.org/#/room/#developers:mozilla.org
+
+HTML Standard
+https://html.spec.whatwg.org/#evaluate-a-javascript:-url
+
+w3c/mediacapture-surface-control: Web API allowing capturing applications limited control over captured surfaces.
+https://github.com/w3c/mediacapture-surface-control
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Design of V8 bindings
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md
+
+Untitled
+https://hookpad.hooktheory.com/
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/repositories?repositories=angle,blink,chromeos,chromium,clusterfuzz,dawn,devtool-frontend,gecko,gn,jsc,ladybird,llvm,partition_alloc,pdfium,perfetto,servo,skia,spidermonkey,swiftshader,v8,webkit,webrtc,wpt&what=commit&grouping=yearly&display=average&kind=author&percentile=0.7071&individual=300&developers=&min_contributions=0
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/5
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mgaudet/proposal-error-capturestacktrace: Standardizing Error.captureStackTrace
+https://github.com/mgaudet/proposal-error-capturestacktrace
+
+Stack trace API · V8
+https://v8.dev/docs/stack-trace-api
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+JSMSG_TEMPORAL_INVALID_OBJECT - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_INVALID_OBJECT&redirect=false
+
+⚙ D219210 Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+https://phabricator.services.mozilla.com/D219210
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs[0]=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses[0]=open()&order=newest&bucket=action
+
+Bluesky Social Dataset (235M posts from 4M users) | Hacker News
+https://news.ycombinator.com/item?id=42261804
+
+LeetBook - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/leetbook/
+
+Meaning of Life (Rachel McAdams & Benedict Cumberbatch) - Doctor Strange (2016) - YouTube
+https://www.youtube.com/watch?v=WOv9N0Ws2_U
+
+Christine & Stephen || Loving You is a Losing Game (Arcade) - YouTube
+https://www.youtube.com/watch?v=igjGkl6HX4U
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+(219) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+process: improve error message for process.cwd() when directory is deleted by Ankush1oo8 · Pull Request #57053 · nodejs/node
+https://github.com/nodejs/node/pull/57053
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+profile: Display user's local time by Komyyy · Pull Request #1318 · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/pull/1318
+
+Bugzilla Main Page
+https://bugzilla.mozilla.org/login
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2025_02_21 - YouTube
+https://www.youtube.com/watch?v=21-NCa7eWcY
+
+CCC 21/Feb/2025 - Google 文档
+https://docs.google.com/document/d/1XQvX4WLTyneCCcrZx0-UjVb3rbdFhPj-WKGQxvzVhNY/edit?tab=t.0
+
+Getting to Go: The Journey of Go's Garbage Collector - The Go Programming Language
+https://go.dev/blog/ismmkeynote
+
+Atlas Research - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Atlas+Research&sei=CZe5Z_iQNfKgur8Pu5u44QI
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#learn-more
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=fraud&op=translate
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+gfxcourses.stanford.edu/cs149/fall24
+https://gfxcourses.stanford.edu/cs149/fall24
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+08_geometricqueries.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/geometricqueries/08_geometricqueries.pdf
+
+05_pipeline_oCu532u.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/rastpipeline/05_pipeline_oCu532u.pdf
+
+gfxcourses.stanford.edu/cs248a/winter24/lecture/compression/
+https://gfxcourses.stanford.edu/cs248a/winter24/lecture/compression/
+
+15_color_pnhwbUr.pdf
+https://gfxcourses.stanford.edu/cs248a/winter24content/media/color/15_color_pnhwbUr.pdf
+
+Generative Theory of Tonal Music - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Generative+Theory+of+Tonal+Music
+
+Generative theory of tonal music - Wikipedia
+https://en.wikipedia.org/wiki/Generative_theory_of_tonal_music
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+UCB CS294-113: Virtual Machines and Managed Runtimes
+https://www.wolczko.com/CS294/index.html
+
+How Dart Learned From Past Object-Oriented Systems (SPLASH 2015 - Keynotes) - SPLASH 2015
+https://2015.splashcon.org/details/splash2015-keynotes/3/How-Dart-Learned-From-Past-Object-Oriented-Systems
+
+How Dart Learned From Past Object-Oriented Systems (SPLASH 2015 - Keynotes) - SPLASH 2015
+https://2015.splashcon.org/details/splash2015-keynotes/3/How-Dart-Learned-From-Past-Object-Oriented-Systems
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#2
+
+SPLASH 2024
+https://2024.splashcon.org/
+
+Expert to Expert - Erik Meijer and Lars Bak: Inside V8 - A Javascript Virtual Machine | Going Deep | Channel 9
+https://web.archive.org/web/20120306170534/https://channel9.msdn.com/shows/Going+Deep/Expert-to-Expert-Erik-Meijer-and-Lars-Bak-Inside-V8-A-Javascript-Virtual-Machine/
+
+Commit search results
+https://github.com/search?q=repo%3Adart-lang%2Fsdk++language%3AC%2B%2B&type=commits
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+18-845: Internet Services (Carnegie Mellon University)
+https://course.ece.cmu.edu/~ece845/#class4
+
+banga.pdf
+https://www.usenix.org/legacy/publications/library/proceedings/usenix99/full_papers/banga/banga.pdf
+
+brecht.pdf
+https://www.usenix.org/legacy/event/usenix04/tech/general/full_papers/brecht/brecht.pdf
+
+linearscan.pdf
+https://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf
+
+Linear Scan Register Allocation · Issue #112 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/112
+
+Following — Bluesky
+https://bsky.app/
+
+Commits · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/commits?author=tannal&since=2024-12-31&until=2025-01-31
 
 # 2025-02-22
 
