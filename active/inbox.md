@@ -1,7 +1,11 @@
 
+# 2025-02-25
+
+I've had marvelous partners all my life.
+I think I got them partly because I tried to deserve them
+and partly because I was wise enough to select them.
+
 # 2025-02-23
-
-
 
 what would
 

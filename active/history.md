@@ -1,4 +1,346 @@
 
+# 2025-02-25
+
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+cross-project-council/community-fund/COMMUNITY_FUND_POLICY.md at main · openjs-foundation/cross-project-council
+https://github.com/openjs-foundation/cross-project-council/blob/main/community-fund/COMMUNITY_FUND_POLICY.md#how-to-apply
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+catamorphism (catamorphism) / Repositories
+https://github.com/catamorphism?tab=repositories
+
+Element [20] | PDF.js
+https://chat.mozilla.org/#/room/#pdfjs:mozilla.org
+
+HTML Standard
+https://html.spec.whatwg.org/#evaluate-a-javascript:-url
+
+w3c/mediacapture-surface-control: Web API allowing capturing applications limited control over captured surfaces.
+https://github.com/w3c/mediacapture-surface-control
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Design of V8 bindings
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md
+
+Untitled
+https://hookpad.hooktheory.com/
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/repositories/?repositories=angle,blink,chromeos,chromium,clusterfuzz,dawn,devtool-frontend,gecko,gn,jsc,ladybird,llvm,partition_alloc,pdfium,perfetto,servo,skia,spidermonkey,swiftshader,v8,webkit,webrtc,wpt&what=commit&grouping=yearly&display=average&kind=author&percentile=0.7071&individual=300&developers=&min_contributions=0
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mgaudet/proposal-error-capturestacktrace: Standardizing Error.captureStackTrace
+https://github.com/mgaudet/proposal-error-capturestacktrace
+
+Introducing the WebAssembly JavaScript Promise Integration API · V8
+https://v8.dev/blog/jspi
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D219210 Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+https://phabricator.services.mozilla.com/D219210
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs[0]=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses[0]=open()&order=newest&bucket=action
+
+⚙ D233087 Bug 1935672 - Handle blur on the datetime box earlier. r=smaug!
+https://phabricator.services.mozilla.com/D233087
+
+Bluesky Social Dataset (235M posts from 4M users) | Hacker News
+https://news.ycombinator.com/item?id=42261804
+
+Meaning of Life (Rachel McAdams & Benedict Cumberbatch) - Doctor Strange (2016) - YouTube
+https://www.youtube.com/watch?v=WOv9N0Ws2_U
+
+Christine & Stephen || Loving You is a Losing Game (Arcade) - YouTube
+https://www.youtube.com/watch?v=igjGkl6HX4U
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+(244) Discord | #🚀getting-started | Atlas Research
+https://discord.com/channels/1031111879562645544/1341261038082986004
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+transformrs/trv: Transform slides and speaker notes into video
+https://github.com/transformrs/trv
+
+process: improve error message for process.cwd() when directory is deleted by Ankush1oo8 · Pull Request #57053 · nodejs/node
+https://github.com/nodejs/node/pull/57053#pullrequestreview-2634172686
+
+GSoC project ideas — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/outreach/gsoc.html#mobile-app
+
+Joyee Cheung: "Tried building Node.js with clang-cl and ccache on Windows and wrote some notes about it: joyeecheung.github.io/blog/2025/02... (Thanks to @targos.dev @lemire.bsky.social and Stefan Stojanovic et al., who made it possible to build Node.js on Windows with clang-cl 😍)" — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social/post/3lib2h6tmbk24
+
+Coffee Compiler Club, 2025_02_21 - YouTube
+https://www.youtube.com/watch?v=21-NCa7eWcY
+
+CCC 21/Feb/2025 - Google 文档
+https://docs.google.com/document/d/1XQvX4WLTyneCCcrZx0-UjVb3rbdFhPj-WKGQxvzVhNY/edit?tab=t.0
+
+Getting to Go: The Journey of Go's Garbage Collector - The Go Programming Language
+https://go.dev/blog/ismmkeynote
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Atlas Research - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Atlas+Research&sei=CZe5Z_iQNfKgur8Pu5u44QI
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#learn-more
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=fraud&op=translate
+
+[JSC] Use C++ concepts to constrain `Delegate` type parameter for `Yarr::parse()` by tetsuharuohzeki · Pull Request #40045 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/40045
+
+Home / X
+https://x.com/home
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+276751 – /css/CSS2/syntax/counters-010 fails while it should pass
+https://bugs.webkit.org/show_bug.cgi?id=276751
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#2
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk
+
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+cross-project-council/community-fund/COMMUNITY_FUND_POLICY.md at main · openjs-foundation/cross-project-council
+https://github.com/openjs-foundation/cross-project-council/blob/main/community-fund/COMMUNITY_FUND_POLICY.md#how-to-apply
+
+Justin Michaud (DM) - WebKit - Slack
+https://app.slack.com/client/T06G50708/D07LGKFJG2F
+
+catamorphism (catamorphism) / Repositories
+https://github.com/catamorphism?tab=repositories
+
+Element [20] | PDF.js
+https://chat.mozilla.org/#/room/#pdfjs:mozilla.org
+
+HTML Standard
+https://html.spec.whatwg.org/#evaluate-a-javascript:-url
+
+w3c/mediacapture-surface-control: Web API allowing capturing applications limited control over captured surfaces.
+https://github.com/w3c/mediacapture-surface-control
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Design of V8 bindings
+https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md
+
+Untitled
+https://hookpad.hooktheory.com/
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/repositories/?repositories=angle,blink,chromeos,chromium,clusterfuzz,dawn,devtool-frontend,gecko,gn,jsc,ladybird,llvm,partition_alloc,pdfium,perfetto,servo,skia,spidermonkey,swiftshader,v8,webkit,webrtc,wpt&what=commit&grouping=yearly&display=average&kind=author&percentile=0.7071&individual=300&developers=&min_contributions=0
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+mgaudet/proposal-error-capturestacktrace: Standardizing Error.captureStackTrace
+https://github.com/mgaudet/proposal-error-capturestacktrace
+
+Introducing the WebAssembly JavaScript Promise Integration API · V8
+https://v8.dev/blog/jspi
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D219210 Bug 1841061 - Remove network.compress.allow_truncated_empty_brotli pref r?gregp
+https://phabricator.services.mozilla.com/D219210
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs[0]=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses[0]=open()&order=newest&bucket=action
+
+⚙ D233087 Bug 1935672 - Handle blur on the datetime box earlier. r=smaug!
+https://phabricator.services.mozilla.com/D233087
+
+Bluesky Social Dataset (235M posts from 4M users) | Hacker News
+https://news.ycombinator.com/item?id=42261804
+
+Meaning of Life (Rachel McAdams & Benedict Cumberbatch) - Doctor Strange (2016) - YouTube
+https://www.youtube.com/watch?v=WOv9N0Ws2_U
+
+Christine & Stephen || Loving You is a Losing Game (Arcade) - YouTube
+https://www.youtube.com/watch?v=igjGkl6HX4U
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+baseline-alignment-and-overflow.tentative.html - mozsearch
+https://searchfox.org/mozilla-central/source/testing/web-platform/tests/html/rendering/widgets/baseline-alignment-and-overflow.tentative.html#202
+
+⚙ D227349 Bug 1845870 - Cookie per host quota shouldn't be greater than mMaxCookiesPerHost. r?edgul
+https://phabricator.services.mozilla.com/D227349
+
+(244) Discord | #🚀getting-started | Atlas Research
+https://discord.com/channels/1031111879562645544/1341261038082986004
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+transformrs/trv: Transform slides and speaker notes into video
+https://github.com/transformrs/trv
+
+process: improve error message for process.cwd() when directory is deleted by Ankush1oo8 · Pull Request #57053 · nodejs/node
+https://github.com/nodejs/node/pull/57053#pullrequestreview-2634172686
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+GSoC project ideas — Zulip 10.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/outreach/gsoc.html#mobile-app
+
+Joyee Cheung: "Tried building Node.js with clang-cl and ccache on Windows and wrote some notes about it: joyeecheung.github.io/blog/2025/02... (Thanks to @targos.dev @lemire.bsky.social and Stefan Stojanovic et al., who made it possible to build Node.js on Windows with clang-cl 😍)" — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social/post/3lib2h6tmbk24
+
+Coffee Compiler Club, 2025_02_21 - YouTube
+https://www.youtube.com/watch?v=21-NCa7eWcY
+
+CCC 21/Feb/2025 - Google 文档
+https://docs.google.com/document/d/1XQvX4WLTyneCCcrZx0-UjVb3rbdFhPj-WKGQxvzVhNY/edit?tab=t.0
+
+Getting to Go: The Journey of Go's Garbage Collector - The Go Programming Language
+https://go.dev/blog/ismmkeynote
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Atlas Research - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=Atlas+Research&sei=CZe5Z_iQNfKgur8Pu5u44QI
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/#learn-more
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=fraud&op=translate
+
+[JSC] Use C++ concepts to constrain `Delegate` type parameter for `Yarr::parse()` by tetsuharuohzeki · Pull Request #40045 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/40045
+
+Home / X
+https://x.com/home
+
+Node.js Public Calendar
+https://calendar.google.com/calendar/u/0/embed?src=c_16f0ae5d3a22625175d199dbdb1cac84c2d09eab7f173e94f558417cb5cdbfd8@group.calendar.google.com
+
+276751 – /css/CSS2/syntax/counters-010 fails while it should pass
+https://bugs.webkit.org/show_bug.cgi?id=276751
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#2
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Following — Bluesky
+https://bsky.app/
+
+SharedArrayBuffer and postMessage() · Issue #4732 · whatwg/html
+https://github.com/whatwg/html/issues/4732#issuecomment-597937413
+
+Speeding up the JavaScript ecosystem - Rust and JavaScript Plugins
+https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-11/
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+mraleph (Slava Egorov)
+https://github.com/mraleph
+
+Slava Egorov (@mraleph) / X
+https://x.com/mraleph
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+⚙ D232786 WIP: Bug 1935672 - Fix a potential race condition in the blur event r?emilio
+https://phabricator.services.mozilla.com/D232786
+
+Add wrench test for images without premultiplied blend mode. · Issue #3258 · servo/webrender
+https://github.com/servo/webrender/issues/3258
+
+tldraw
+https://github.com/tldraw
+
+perfect-freehand
+https://www.perfectfreehand.com/
+
+Registration for the H1 2025 Node.js collaboration summit in Paris
+https://docs.google.com/forms/d/e/1FAIpQLSfgv3q5eIkCVMHesUNXiGiQmm3Dxv3uSa4KxB0rHb8BLZ65pg/viewform
+
+Node.js Collaborator Summit 2025 / Paris · Issue #433 · openjs-foundation/summit
+https://github.com/openjs-foundation/summit/issues/433
+
+openjs-foundation/cross-project-council: OpenJS Foundation Cross Project Council
+https://github.com/openjs-foundation/cross-project-council
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+sdk/runtime/vm/snapshot.cc at 62dd31e8af6b98eb8b97e8a64da8dd72f2d82590 · dart-lang/sdk
+https://github.com/dart-lang/sdk/blob/62dd31e8af6b98eb8b97e8a64da8dd72f2d82590/runtime/vm/snapshot.cc#L5
+
+
 # 2025-02-23
 
 ! nodejs-core（频道） - OpenJS Foundation - 1 个新项目 - Slack
