@@ -555,7 +555,7 @@ igalia申请 deadline
 
 # 2025-2-24 - 2025-3-3 春
 
-[] inform the interviewer
+[x] inform the interviewer
 [] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
 [] FED interest rate
 [] igalia Code Experience

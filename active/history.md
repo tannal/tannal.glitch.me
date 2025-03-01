@@ -1,6 +1,164 @@
 
 # 2025-03-01
 
+https://www.youtube.com/watch?v=h2Tt7BhjwqM
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dh2Tt7BhjwqM&q=EgRgfma-GNaw7L0GIjD0t0H1P9iPzuDCcaPk2Jjat2WgTRtuJAyF3Wju7xiVJelP_zdP_GVNxsYg1wzMtIAyAXJaAUM
+
+林俊傑 JJ Lin 交換餘生 No Turning Back 鋼琴教學 Synthesia 琴譜 - YouTube
+https://www.youtube.com/watch?v=RP9et5t-urQ
+
+Color padding in snapshot testing images by wfdewith · Pull Request #275 · linebender/parley
+https://github.com/linebender/parley/pull/275
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67ba7747a3fceb0012c6d30f
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cs5460/6460 Lecture 08 - System Init - YouTube
+https://www.youtube.com/watch?v=t7UnnRWz4k4
+
+Home / X
+https://x.com/home
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk&t=214s
+
+contributing-change-to-dart-core-libraries.md
+https://gist.github.com/mraleph/5926b1638246fd0d5bf9849d39cf0542
+
+SQLite is a local optimum for Chromium - Google 文档
+https://docs.google.com/document/d/1jW-tvPvxyn6PO9Tlu2tgrjA2P2_azQZKihZnjE4kgv0/edit?tab=t.0
+
+key_value_table.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:components/sqlite_proto/key_value_table.cc
+
+database.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:sql/database.cc
+
+LevelDB Scopes: Special Transactions for IndexedDB - Google 文档
+https://docs.google.com/document/d/16_igCI15Gfzb6UYqeuJTmJPrzEtawz6Y1tVOKNtYgiU/edit?tab=t.0
+
+Facebook
+https://www.facebook.com/ccckmit
+
+Phoronix - Google 搜索
+https://www.google.com.hk/search?q=Phoronix&oq=Phoronix&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix
+https://www.phoronix.com/
+
+新春传奇福利，开局即封神！-CFHD-官方网站-腾讯游戏
+https://cfhd.cf.qq.com/
+
+像第一次那样热血-穿越火线官方网站-腾讯游戏
+https://cfhd.cf.qq.com/cp/a20210607download/?ADTAG=EventBlackTop.button.btnav.ecter
+
+web-platform-tests repositories
+https://github.com/orgs/web-platform-tests/repositories
+
+WebKitW3CTesting – WebKit
+https://trac.webkit.org/wiki/WebKitW3CTesting
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/view/67bc854a9dde3c00133f47f3
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+Cursor - Community Forum - The official forum to discuss Cursor.
+https://forum.cursor.com/
+
+Home
+https://sagiriwiki.web.app/
+
+和泉紗霧 | Substack
+https://substack.com/@sagiri/likes
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+time-vs-space.pdf
+https://people.csail.mit.edu/rrw/time-vs-space.pdf
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+小乐数学科普：挂谷猜想专题系列——新证明穿针引线到一个粘性几何问题上——译自Quanta Magazine量子杂志
+https://mp.weixin.qq.com/s?__biz=MjM5NDIwNjU1Mw==&mid=2648903734&idx=1&sn=4e3ff124d1323fc0c290b28441d9bd1f&chksm=bf03bd5dcd5e52b5eed2d26bd5ebdd651d257ee7d07da690310b6645c92a2459a280a266db70&mpshare=1&scene=1&srcid=02276wa9QgmV3wVIo0h6qmge&sharer_shareinfo=5c033776e616549c9f094609ce12ee85&sharer_shareinfo_first=5c033776e616549c9f094609ce12ee85#rd
+
+小乐数学科普：挂谷猜想专题系列——新数系将几何问题指向实数解——译自Quanta Magazine量子杂志
+https://mp.weixin.qq.com/s?__biz=MjM5NDIwNjU1Mw==&mid=2648903682&idx=1&sn=9a1cc81912794d423fcae3346c694a18&chksm=bfbecc2224de94832f9fd27023104896306cc38b25e5696ed124cad4e0a739559b70cbe03dc9&mpshare=1&scene=1&srcid=0227apC8FIKY7psndz1PStTq&sharer_shareinfo=21456f189edbd5f9b1762b6905f6f1c3&sharer_shareinfo_first=21456f189edbd5f9b1762b6905f6f1c3&poc_token=HOaCwGej4Vk76HpYkJd39Ns3msbm8fY_SYjWGC30
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+
+Office Hours 2025-02-27 - Google 文档
+https://docs.google.com/document/d/13EJ254CEM3PWsIpZWz-fKXVDQ845bmikBrHIstgh0Lw/edit?tab=t.0
+
+#new members > Taj Pereira & Alex Gemberg - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/147922-new-members/topic/Taj.20Pereira.20.26.20Alex.20Gemberg
+
+Academics are very keen on attribution - Google 搜索
+https://www.google.com/search?q=Academics+are+very+keen+on+attribution&oq=Academics+are+very+keen+on+attribution&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Academics%20are%20very%20keen%20on%20attribution&op=translate
+
+Evan Wallace - Google 搜索
+https://www.google.com/search?q=Evan+Wallace&oq=Evan+Wallace&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEHMzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+evanw (evanw) / Repositories
+https://github.com/evanw?tab=repositories
+
+Made by Evan
+https://madebyevan.com/
+
+Inside Figma: Go Behind the Scenes | Figma Blog
+https://www.figma.com/blog/inside-figma/
+
+I think Figma shouldn't technically be described as a CRDT · Issue #60 · ept/crdt-website
+https://github.com/ept/crdt-website/issues/60
+
+蒂尔奖学金 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%B0%E7%88%BE%E7%8D%8E%E5%AD%B8%E9%87%91
+
+蒂尔奖学金 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B3%B0%E7%88%BE%E7%8D%8E%E5%AD%B8%E9%87%91
+
+Dylan Field - Google 搜索
+https://www.google.com/search?q=Dylan+Field&sca_esv=aedf5bb4ef8e9c7e&sxsrf=AHTn8zp1iAoCCARXyObsvUfXiqRtxyEfWw%3A1740711634039&ei=0ibBZ5vPAZ640PEPldSWwAg&ved=0ahUKEwibgOmUsOWLAxUeHDQIHRWqBYgQ4dUDCBA&uact=5&oq=Dylan+Field&gs_lp=Egxnd3Mtd2l6LXNlcnAiC0R5bGFuIEZpZWxkMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMgYQABgHGB4yFxAuGIAEGMsBGJcFGNwEGN4EGN8E2AEBSO4bUM0EWPsYcAF4AZABApgBnwOgAdMSqgEHMi0yLjQuMbgBA8gBAPgBAvgBAZgCB6ACpRbCAgoQABiwAxjWBBhHwgIJEC4YgAQYExgNwgIKEAAYExgIGA0YHsICBRAAGO8FwgIIEAAYgAQYogTCAhgQLhiABBgTGA0YlwUY3AQY3gQY3wTYAQGYAwCIBgGQBgq6BgYIARABGBSSBw0xLjAuMi4yLjEuMC4xoAfrSA&sclient=gws-wiz-serp
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Discover — Bluesky
+https://bsky.app/
+
+dylan field - Google 搜索
+https://www.google.com/search?q=dylan+field&sca_esv=988d6dd98493f1da&sxsrf=AHTn8zqnuKxIdanoKxd_bPdel2ukGEfI-A%3A1740716911225&ei=bzvBZ-y2DdHA0PEP-fiX0Q8&oq=Dylan&gs_lp=Egxnd3Mtd2l6LXNlcnAiBUR5bGFuKgIIADIKECMYgAQYJxiKBTILEC4YgAQY1AIYywEyCBAuGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAuGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAuGIAEGMsBMggQLhiABBjLAUjIIlDUDFiPF3ABeAGQAQCYAb4CoAH8C6oBBTItMS40uAEDyAEA-AEBmAIGoALoDMICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEwgILEC4YgAQY0QMYxwHCAgoQLhiABBhDGIoFwgIQEC4YgAQY0QMYQxjHARiKBcICBRAuGIAEwgIIEC4YgAQY1ALCAhkQLhiABBhDGIoFGJcFGNwEGN4EGN8E2AEBmAMAiAYBkAYKugYGCAEQARgUkgcFMS4zLTWgB7mXAQ&sclient=gws-wiz-serp
+
+Evan Wallace - Google 搜索
+https://www.google.com/search?q=Evan+Wallace&sca_esv=988d6dd98493f1da&sxsrf=AHTn8zrmLZjiisW8gnCFoIgqknlMyJH8dA%3A1740716937540&ei=iTvBZ-3YINmS0PEP4dXf0AY&ved=0ahUKEwitwd31w-WLAxVZCTQIHeHqF2oQ4dUDCBA&uact=5&oq=Evan+Wallace&gs_lp=Egxnd3Mtd2l6LXNlcnAiDEV2YW4gV2FsbGFjZUgAUABYAHAAeACQAQCYAQCgAQCqAQC4AQPIAQCYAgCgAgCYAwCSBwCgBwA&sclient=gws-wiz-serp
+
+理想主义 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E4%B8%BB%E7%BE%A9
+
+cliff click - Google 搜索
+https://www.google.com/search?q=cliff+click&oq=cliff+click&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYPdIBCDQ4NzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+【Piano Cover】G.E.M.鄧紫棋 - 多遠都要在一起/LONG DISTANCE｜高音質/附譜/附歌詞｜高還原純鋼琴版 - YouTube
+https://www.youtube.com/watch?v=l_vLw1WOtV0
+
+奇异博士第1集播放 - LIBVIO
+https://www.libvio.site/play/655-1-1.html
+
+如何评价电影《奇异博士》？ - 知乎
+https://www.zhihu.com/question/32312537
 
 # 2025-02-28
 
