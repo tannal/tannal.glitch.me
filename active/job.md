@@ -565,16 +565,21 @@ igalia申请 deadline
 - ask philip
 [] Google Summer Of Code
 [] Chui realm plugin systems & layouting
+
+
 [] 研一下开始, AI实习开始投递
 
 
 
 ## Sunday
+
+√ Making progress with my piano skills.
+
+
 ## Saturday
 
-√ My piano skills are improvin! So happy.
+√ My piano skills are improving! So happy.
 √ I played badminton with my friends this afternoon
-√
 
 ## Friday
 
