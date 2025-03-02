@@ -556,17 +556,25 @@ igalia申请 deadline
 # 2025-2-24 - 2025-3-3 春
 
 [x] inform the interviewer
+[] choose class !!!!!! attention please
 [] I can try v8 startup snapshot now I think haha electron fucking but I don't have the snapshot binary which is on the Redmibook
 [] FED interest rate
 [] igalia Code Experience
 - ask Joyee timezone & CV & Cover letter & Shebao & en communication
 - ask Justin about ICE
+- ask philip
 [] Google Summer Of Code
 [] Chui realm plugin systems & layouting
 [] 研一下开始, AI实习开始投递
 
+
+
 ## Sunday
 ## Saturday
+
+√ My piano skills are improvin! So happy.
+√ I played badminton with my friends this afternoon
+√
 
 ## Friday
 
