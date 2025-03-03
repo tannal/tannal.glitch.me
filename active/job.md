@@ -550,10 +550,10 @@ igalia申请 deadline
 # 2025-3-10 - 2025-3-17 春 enconomy data week
 
 
-# 2025-3-3 - 2025-3-10 春
+# 2025-3-3 - 2025-3-10 冬
 
 
-# 2025-2-24 - 2025-3-3 春
+# 2025-2-24 - 2025-3-3 冬
 
 [x] inform the interviewer
 [] choose class !!!!!! attention please
