@@ -1,6 +1,13 @@
 
 # 2025-03-03
 
+不是所有变化都意味着危险
+人们的行为通常与你无关
+给自己和他人多一些信任空间
+如果影响生活，建议寻求专业帮助
+
+ffmpeg -i input.mp4 -c:v libx264 -crf 28 -preset slower -c:a aac -b:a 96k output.mp4
+
 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
 
 # 2025-03-01
