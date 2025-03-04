@@ -569,6 +569,10 @@ igalia申请 deadline
 
 [] 研一下开始, AI实习开始投递
 
+## What's your most afraid of?
+
+[] gift gao wo
+[] yuy gao wo
 
 
 ## Sunday

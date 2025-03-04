@@ -1,6 +1,7 @@
 
 # 2025-03-03
 
+Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
 
 # 2025-03-01
 
