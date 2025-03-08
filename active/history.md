@@ -1,6 +1,144 @@
 
 # 2025-03-08
 
+https://www.youtube.com/watch?v=U_pKjmTktaQ
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DU_pKjmTktaQ&q=EgRKz_EtGKHplb4GIjAZ9Aklk-U8XfJaCNryWaD83_lkV4hpCWcUKWFwwQFdMmSAwX27fyhT6ua4Sfo1FRkyAXJaAUM
+
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DOovd1wTzAOc&q=EgRKz_EtGKbplb4GIjDYlXW6OsqvEwsoVYEgXuTou7y2XajHjbxm4lZzdMpgN7LLjszJQLUkpCNKlJzdqIYyAXJaAUM
+
+www.twitch.tv
+https://www.twitch.tv/rafaelgss/videos
+
+www.google.com
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+bbc&sca_esv=108ac3b3f1b82d53&sxsrf=AHTn8zq77118LsiGlxGYZ_y-Bjkv0GQirA%3A1740978595764&ei=oznFZ8SLLv2s0PEPuOKm4AI&ved=0ahUKEwiE6YvWku2LAxV9FjQIHTixCSwQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBiYmMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI-ARQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAJgCAaACB5gDAIgGAZAGCpIHATGgBwA&sclient=gws-wiz-serp
+
+www.bbc.com
+https://www.bbc.com/zhongwen/articles/c5y008804gko/simp
+
+Home
+https://sagiriwiki.web.app/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+首页
+https://itstp.neoscholar.com/
+
+www.facebook.com
+https://www.facebook.com/
+
+https://www.youtube.com/watch?v=ViaHCzpcAX0
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DViaHCzpcAX0&q=EhAkAIkBAAAAAPA8lf_-d9M8GLavmr4GIjB3nSTB3Ky5xMseQ85qqUOhs90hoRa7NWMRQiAEQ82CoyJwxwMdoWTRChq8ESToB4syAXJaAUM
+
+首页
+https://itstp.neoscholar.com/
+
+选课-CIS NanoMaster
+https://www.neoscholar.com/#/explore?keyword=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6
+
+选课-CIS NanoMaster
+https://www.neoscholar.com/#/explore?keyword=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6
+
+选课-CIS NanoMaster
+https://www.neoscholar.com/#/explore
+
+全部课程-CIS NanoMaster
+https://www.neoscholar.com/#/allCourse?keyword=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6
+
+课程详情-CIS NanoMaster
+https://www.neoscholar.com/#/advance/detail/course/1839145702512074753
+
+Check your email
+https://authenticator.cursor.sh/magic-code?email=wcisa.f.l.y%2Bc%40gmail.com&authentication_challenge_id=auth_challenge_01JNDCF9DE5PW2RCVMEK14N4G9&state=%257B%2522returnTo%2522%253A%2522%252Fsettings%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JNDCECDHGZXHQA6QPQN8V4ZH&radar_auth_attempt_id=01JNDCF9BN2CX50YK1XRWRKANJ&radar_auth_attempt_created_at=2025-03-03T06%3A53%3A08.337Z
+
+收件箱 (2) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+雷神加速器-专线加速游戏,按分钟计费可暂停【官方网站】
+https://www.leigod.com/
+
+加速器下载_网游加速器下载-雷神加速器客户端下载
+https://www.leigod.com/download-win.html
+
+Check your email
+https://authenticator.cursor.sh/magic-code?email=wcisaf.l.y%2Ba%40gmail.com&authentication_challenge_id=auth_challenge_01JNE4Q7MSFC58ZBAW9CPZ9DXF&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252FloginDeepControl%253Fchallenge%253DZataUgqZ_T_7UHmGMh4TD5zI6fKX9SVPIC3XdSFgQ68%2526uuid%253D939cd7f1-03f1-408a-a0af-fdac4f7ef8e4%2526mode%253Dlogin%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JNE4PHCJHR8QWP5QN3M7JQAA&radar_auth_attempt_id=01JNE4Q7JSZNXT37BH7PEGSM81&radar_auth_attempt_created_at=2025-03-03T13%3A56%3A54.417Z
+
+Sign in
+https://authenticator.cursor.sh/?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&response_type=code&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252FloginDeepControl%253Fchallenge%253Dq2r10u7Z2yRY_uFXPXoxIbg78ERY2kgirK3koknbECA%2526uuid%253Dd6f8c1bb-6ff4-41fb-8af5-b08443dbc4ce%2526mode%253Dlogin%2522%257D&authorization_session_id=01JNE6274V0T6E390EF676DF83
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/settings
+
+周杰倫 Jay Chou 楓 Maple Leaf 鋼琴教學 Synthesia 琴譜 - YouTube
+https://www.youtube.com/watch?v=mwUbFi4rRIs
+
+中国 呼吸道 bbc 激增 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+%E5%91%BC%E5%90%B8%E9%81%93+bbc+%E6%BF%80%E5%A2%9E&sca_esv=c92ff9e555bf2671&sxsrf=AHTn8zrT1lQVSGs3wc-gYc18QM7d045stw:1741087181836&ei=zeHGZ6LcMvL24-EPrZ-5oA8&start=10&sa=N&sstk=Af40H4VBqCbbpTQRiZE4br4Rabdg76WfHZkWLQ39XbP8JnDqFvlDwuQTefhgGgeK8WBYVnQPedE3uYIoXIiaI-NVwOUeTHsx2HA4cA&ved=2ahUKEwji9vuXp_CLAxVy-zgGHa1PDvQQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+19. 删除链表的倒数第 N 个结点 - 力扣（LeetCode）
+https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/
+
+周杰倫 Jay Chou 退後 A Step Back 鋼琴教學 Synthesia 琴譜 - YouTube
+https://www.youtube.com/watch?v=7Sd9n0h_NoU
+
+YouTube
+https://www.youtube.com/
+
+(834) #gpu > Snapshot test compression - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197075-gpu/topic/Snapshot.20test.20compression
+
+Office Hours 2025-03-06 - Google 文档
+https://docs.google.com/document/d/1qOlJbJxUApnPC_r4D_agXQ-GSZasn_eFq0xG9G47GKQ/edit?tab=t.0
+
+mwcampbell/android-view: Implement an Android view in Rust
+https://github.com/mwcampbell/android-view
+
+floating point to integer casts can cause undefined behaviour · Issue #10184 · rust-lang/rust
+https://github.com/rust-lang/rust/issues/10184
+
+写一下 - Poe
+https://poe.com/chat/2yzlldagh7a4lpmhweg
+
+WebAssembly/relaxed-simd: Relax the strict determinism requirements of SIMD operations.
+https://github.com/WebAssembly/relaxed-simd
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=monomorphization&op=translate
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+选课-CIS NanoMaster
+https://www.neoscholar.com/#/explore?keyword=%E7%A6%BB%E6%95%A3
+
+课程详情-CIS NanoMaster
+https://www.neoscholar.com/#/advance/detail/course/1839145702512074753
+
+临时邮箱 - 十秒钟内收到邮件
+https://linshiyouxiang.net/
+
+Sign in to Cursor - 临时邮箱
+https://linshiyouxiang.net/mail/view/7bc7f0458a59ffd67aea01bdd7322e51
+
+Google
+https://www.google.com/
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/loginDeepPage
+
+Check your email
+https://authenticator.cursor.sh/magic-code?email=wcisafl....y%40gmail.com&authentication_challenge_id=auth_challenge_01H7TH58PNMADB69JFFR1687MF&state=%257B%2522returnTo%2522%253A%2522%252Fsettings%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JNT9K3ZZ72T942FXS3VQ45KJ&radar_auth_attempt_id=auth_attempt_01H7TH58PNMADB69JFFR1687MF&radar_auth_attempt_created_at=2025-01-01T00%3A00%3A00.000Z
+
+Trae - Ship Faster with Trae
+https://www.trae.ai/
+
+Install Trae with winget - winstall
+https://winstall.app/apps/ByteDance.Trae
+
+TraeAI - Authorization
+https://www.trae.ai/authorization?login_version=1&auth_from=trae&login_channel=native_ide&plugin_version=1.0.8482&auth_type=local&client_id=ono9krqynydwx5&redirect=1&login_trace_id=c15a5a0a-e97f-438b-9efe-5e92a72f7f90&auth_callback_url=http://127.0.0.1:58926/authorize&machine_id=60da70cc78acf761f630a9807151734e79fbb6df6bcbea04b13ae4e7299f4ee9&device_id=7479333403089208848
+
 nodejs-mentoring（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
 
