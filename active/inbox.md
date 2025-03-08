@@ -19,6 +19,8 @@ ffmpeg -i input.mp4 -c:v libx264 -crf 28 -preset slower -c:a aac -b:a 96k output
 
 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
 
+Differential Revision: https://phabricator.services.mozilla.com/D240567
+
 # 2025-03-01
 
 "工作收入追溯到自然资源"的论点：
