@@ -1,6 +1,317 @@
 
 # 2025-03-08
 
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Schedule - Twitch
+https://www.twitch.tv/rafaelgss/schedule
+
+OpenJS Foundation
+https://github.com/openjs-foundation
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+elegaanz (Ana Gelez)
+https://github.com/elegaanz
+
+evan wallace - Google 搜索
+https://www.google.com/search?q=evan+wallace&client=ubuntu-sn&hs=2fe&sca_esv=edb0a1435178ebbd&channel=fs&sxsrf=AHTn8zrL8A9EsSK8R4nStpERqb44CifkHg%3A1740727134335&ei=XmPBZ42LFJeC0PEPzLTVkAY&ved=0ahUKEwiNsvjz6eWLAxUXATQIHUxaFWIQ4dUDCBA&uact=5&oq=evan+wallace&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGV2YW4gd2FsbGFjZTIKEAAYsAMY1gQYR0jU7vELUABYAHACeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgKgAguYAwCIBgGQBgGSBwEyoAcA&sclient=gws-wiz-serp
+
+dylan field - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dylan+field
+
+thiel fellowship - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=thiel+fellowship
+
+Apply - Thiel Fellowship
+https://thielfellowship.org/apply
+
+Contributing a change to Dart SDK Core Libraries (Part 2): Responding to a Review - YouTube
+https://www.youtube.com/watch?v=r0irDLVOXyw
+
+Office Hours 2025-03-08 - Google 文档
+https://docs.google.com/document/d/1INF-tXKqW8NMpC5Z9nawSFhLRHjroc65DrbvOnvcn5Y/edit?tab=t.0#heading=h.nzlv6zhwlhd2
+
+Issue search results
+https://github.com/search?q=repo%3Atc39%2Ftest262+%22Am+I+really+in+a+script%22&type=issues
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+evanw (Evan Wallace)
+https://github.com/evanw
+
+cliff click - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cliff+click
+
+cs5460/6460 Lecture 05 - Linking and Loading - YouTube
+https://www.youtube.com/watch?v=SkyJH1wTPjc&t=1626s
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+Linebender
+https://github.com/linebender
+
+| Homepage for the Linebender organization
+https://linebender.org/
+
+Linebender
+https://github.com/linebender
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#50
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Schedule - Twitch
+https://www.twitch.tv/rafaelgss/schedule
+
+OpenJS Foundation
+https://github.com/openjs-foundation
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+elegaanz (Ana Gelez)
+https://github.com/elegaanz
+
+evan wallace - Google 搜索
+https://www.google.com/search?q=evan+wallace&client=ubuntu-sn&hs=2fe&sca_esv=edb0a1435178ebbd&channel=fs&sxsrf=AHTn8zrL8A9EsSK8R4nStpERqb44CifkHg%3A1740727134335&ei=XmPBZ42LFJeC0PEPzLTVkAY&ved=0ahUKEwiNsvjz6eWLAxUXATQIHUxaFWIQ4dUDCBA&uact=5&oq=evan+wallace&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGV2YW4gd2FsbGFjZTIKEAAYsAMY1gQYR0jU7vELUABYAHACeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgKgAguYAwCIBgGQBgGSBwEyoAcA&sclient=gws-wiz-serp
+
+dylan field - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=dylan+field
+
+thiel fellowship - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=thiel+fellowship
+
+Apply - Thiel Fellowship
+https://thielfellowship.org/apply
+
+Contributing a change to Dart SDK Core Libraries (Part 2): Responding to a Review - YouTube
+https://www.youtube.com/watch?v=r0irDLVOXyw
+
+Office Hours 2025-03-08 - Google 文档
+https://docs.google.com/document/d/1INF-tXKqW8NMpC5Z9nawSFhLRHjroc65DrbvOnvcn5Y/edit?tab=t.0#heading=h.nzlv6zhwlhd2
+
+Issue search results
+https://github.com/search?q=repo%3Atc39%2Ftest262+%22Am+I+really+in+a+script%22&type=issues
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+evanw (Evan Wallace)
+https://github.com/evanw
+
+cliff click - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=cliff+click
+
+cs5460/6460 Lecture 05 - Linking and Loading - YouTube
+https://www.youtube.com/watch?v=SkyJH1wTPjc&t=1626s
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+Linebender
+https://github.com/linebender
+
+| Homepage for the Linebender organization
+https://linebender.org/
+
+Linebender
+https://github.com/linebender
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#50
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Program Organizations | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2025/organizations
+
+Google 日历 - 2025年3月2日这周
+https://calendar.google.com/calendar/u/0/r/week
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk&t=336s
+
+two-heart/v8-design-docs: collection of V8 design documents
+https://github.com/two-heart/v8-design-docs
+
+Discover — Bluesky
+https://bsky.app/
+
+Programming with Pixels: Computer-Use Meets Software-Engineering
+http://programmingwithpixels.com/
+
+ProgrammingWithPixels/PwP
+https://github.com/ProgrammingWithPixels/PwP/tree/main
+
+SotB13 | State of the Browser 13
+https://2025.stateofthebrowser.com/
+
+chore: use `unplugin-isolated-decl` with `oxc-transform` for dts build by hi-ogawa · Pull Request #7609 · vitest-dev/vitest
+https://github.com/vitest-dev/vitest/pull/7609
+
+1948118 - Reword JSMSG_TEMPORAL_UNEXPECTED_PROPERTY error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1948118
+
+193077 – JSC cli should use absolute paths as the URL.
+https://bugs.webkit.org/show_bug.cgi?id=193077
+
+Coffee Compiler Club, 2025_02_28 - YouTube
+https://www.youtube.com/watch?v=cn9tA-tD-8g
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API
+
+How I use LLMs - YouTube
+https://www.youtube.com/watch?v=EWvNQjAaOHw&t=1s
+
+Office Hours 2025-03-08 - Google 文档
+https://docs.google.com/document/d/1INF-tXKqW8NMpC5Z9nawSFhLRHjroc65DrbvOnvcn5Y/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Join multiple paths · Issue #66 · linebender/tiny-skia
+https://github.com/linebender/tiny-skia/issues/66
+
+Andrej Karpathy - YouTube
+https://www.youtube.com/@AndrejKarpathy/featured
+
+X
+https://x.com/jobs
+
+Andrej Karpathy - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Andrej+Karpathy
+
+Andrej Karpathy - YouTube
+https://www.youtube.com/@AndrejKarpathy/featured
+
+Posts with replies by Mego Tan (@megotannal) / X
+https://x.com/megotannal/with_replies
+
+Alex Russell - Infrequently Noted
+https://infrequently.org/about-me/
+
+jensen - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&sca_esv=0e9bad69322fc6e4&channel=fs&sxsrf=AHTn8zqaArLeJwW9TKuWGawMMn3gdTB5ZQ:1740984668472&q=jensen&source=lnms&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9XSASLdCNmBvs6Xj8xORx7OLI8Qw2o0eaitm-Nl0CS9aHxIQoGwgEp7JqCuJN_N-rlq3dTSM7xoAYvRidHyvFrEHM0YPZ-lsslthKMCUh5mk95Jv55vU5TVvc_MAXR2eh3kbn65d9qN1H2BBCL6Y2dDBIR4JP8oKKmg8sYqvZZ6oDWhqYxjaKhu2yFP8LUhxeEZimFA&sa=X&ved=2ahUKEwjm3OSlqe2LAxXOBzQIHcwDM-AQ0pQJegQIDhAB&biw=1850&bih=968&dpr=1
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Computer History Museum hinton - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Computer+History+Museum+hinton
+
+CHM Live | Fei-Fei Li's AI Journey - YouTube
+https://www.youtube.com/watch?v=JgQ1FJ_wow8
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+피아노쌤 PianoSSam - YouTube
+https://www.youtube.com/@PianoSSamYouTube/videos
+
+https://www.youtube.com/watch?v=ViaHCzpcAX0
+https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DViaHCzpcAX0&q=EgSPxj0bGIL5o74GIjD3NCsfL8GCi1CupT_OrzGSv-dDWkgTgDNySSyS9kRp88MMuetFH-EjnyRexfmQv90yAXJaAUM
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+Contributing a change to Dart SDK Core Libraries (Part 2): Responding to a Review - YouTube
+https://www.youtube.com/watch?v=r0irDLVOXyw
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Program Organizations | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2025/organizations
+
+Program Organization | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2025/organizations/graphite
+
+Graphite | Student projects
+https://graphite.rs/volunteer/guide/student-projects/
+
+Program Organization | Google Summer of Code
+https://summerofcode.withgoogle.com/programs/2025/organizations/graphite
+
+Graphite
+https://github.com/GraphiteEditor
+
+contributing-change-to-dart-core-libraries.md
+https://gist.github.com/mraleph/5926b1638246fd0d5bf9849d39cf0542
+
+YouTube
+https://www.youtube.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
 
 # 2025-03-06
 
