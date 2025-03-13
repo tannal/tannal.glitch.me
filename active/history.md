@@ -1,4 +1,102 @@
 
+# 2025-03-13
+
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Schedule - Twitch
+https://www.twitch.tv/rafaelgss/schedule
+
+Linux 核心設計 (2025): 第 3 份作業解說 - YouTube
+https://www.youtube.com/watch?v=b7AkUgz_xvg
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/videos
+
+Registration for the H1 2025 Node.js collaboration summit in Paris
+https://docs.google.com/forms/d/e/1FAIpQLSfgv3q5eIkCVMHesUNXiGiQmm3Dxv3uSa4KxB0rHb8BLZ65pg/viewform
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365
+https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0
+
+Wiz Khalifa - See You Again ft. Charlie Puth (Piano Cover) - YouTube
+https://www.youtube.com/watch?v=DGjKDQc8LMM&list=RD5Ggnzs2hP3s&index=23
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+YouTube
+https://www.youtube.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Bits of Advice for the VM Writer, by Cliff Click @ Curry On 2015 | PPT
+https://www.slideshare.net/slideshow/cliff-clickbitsofadviceforthevmwriter/50300495#52
+
+Programacion orientada a objetos en javascript | PPT
+https://www.slideshare.net/slideshow/programacion-orientada-a-objetos-en-javascript/67702514
+
+Contributing a change to Dart SDK Core Libraries (Part 1) - YouTube
+https://www.youtube.com/watch?v=f01bFCYy0Uk
+
+⚙ D240567 Bug 1948113 - Reword JSMSG_TEMPORAL_MISSING_PROPERTY error message; r=dminor!
+https://phabricator.services.mozilla.com/D240567
+
+src/2geom/sbasis.cpp · master · Inkscape / lib2geom · GitLab
+https://gitlab.com/inkscape/lib2geom/-/blob/master/src/2geom/sbasis.cpp#L323
+
+Discover — Bluesky
+https://bsky.app/
+
+lynx-family/lynx: Empower the Web community and invite more to build across platforms.
+https://github.com/lynx-family/lynx
+
+Theo - t3.gg (@theo) / X
+https://x.com/theo
+
+Mozilla
+https://github.com/mozilla
+
+tannal (tannal)
+https://github.com/tannal
+
+Following — Bluesky
+https://bsky.app/
+
+linearscan.pdf
+https://web.cs.ucla.edu/~palsberg/course/cs132/linearscan.pdf
+
+N2K Networks - YouTube
+https://www.youtube.com/@n2kcyber/videos
+
+ChromiumCommitTracker
+https://chrome-commit-tracker.arthursonzogni.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+Philipp Lackner - YouTube
+https://www.youtube.com/@PhilippLackner/featured
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Tokyo Ghoul OP - Unravel [Piano/Animenz arr.] - YouTube
+https://www.youtube.com/watch?v=xFMPBPOy9SI&list=RDOovd1wTzAOc&index=27
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
 # 2025-03-12
 
 nodejs-mentoring（频道） - OpenJS Foundation - Slack
