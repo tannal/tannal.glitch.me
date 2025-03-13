@@ -1,6 +1,93 @@
 
 # 2025-03-13
 
+* nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Schedule - Twitch
+https://www.twitch.tv/rafaelgss/schedule
+
+Node.js Core Development - Session 6 - Twitch
+https://www.twitch.tv/videos/2393500852?t=0h40m12s
+
+Linux 核心設計 (2025): 第 3 份作業解說 - YouTube
+https://www.youtube.com/watch?v=b7AkUgz_xvg
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/videos
+
+Registration for the H1 2025 Node.js collaboration summit in Paris
+https://docs.google.com/forms/d/e/1FAIpQLSfgv3q5eIkCVMHesUNXiGiQmm3Dxv3uSa4KxB0rHb8BLZ65pg/viewform
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Microsoft Outlook (formerly Hotmail): Free email and calendar | Microsoft 365
+https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2fowa%2f&sdf=0
+
+【Piano Cover】五月天 Mayday - 突然好想你｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=34HiPFOpQ_M&list=RD5Ggnzs2hP3s&index=16
+
+tannal/v8: The official mirror of the V8 Git repository
+https://github.com/tannal/v8
+
+Philipp Lackner - YouTube
+https://www.youtube.com/@PhilippLackner/playlists
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1952021 - Remove JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1952021
+
+tannal (tannal)
+https://github.com/tannal
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc&list=RDOovd1wTzAOc&start_radio=1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/featured
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1952021 - Remove JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1952021
+
+JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME&redirect=false
+
+tannal (tannal)
+https://github.com/tannal
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+Anthropic - YouTube
+https://www.youtube.com/@anthropic-ai/videos
+
+(951) #office hours > Renderer 2025-03-12 - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/359642-office-hours/topic/Renderer.202025-03-12/with/505362066
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
 nodejs-mentoring（频道） - OpenJS Foundation - Slack
 https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
 
