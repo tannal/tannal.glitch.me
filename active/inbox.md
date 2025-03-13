@@ -1,10 +1,9 @@
 
 # 2025-03-13
 
+Bug 1952021 - Remove JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME error message; r=dminor!
 
 # 2025-03-12
-
-
 
 # 2025-03-08
 
