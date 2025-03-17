@@ -1,6 +1,221 @@
 
 # 2025-03-17
 
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+Node.js Core Development - Session 6 - Twitch
+https://www.twitch.tv/videos/2393500852?t=0h40m12s
+
+Linux 核心設計 (2025): 第 3 份作業解說 - YouTube
+https://www.youtube.com/watch?v=b7AkUgz_xvg
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/videos
+
+Registration for the H1 2025 Node.js collaboration summit in Paris
+https://docs.google.com/forms/d/e/1FAIpQLSfgv3q5eIkCVMHesUNXiGiQmm3Dxv3uSa4KxB0rHb8BLZ65pg/viewform
+
+anonrig (anonrig) / Repositories
+https://github.com/anonrig?tab=repositories
+
+Node.js Collaborator Summit 2025 / Paris · Issue #433 · openjs-foundation/summit
+https://github.com/openjs-foundation/summit/issues/433
+
+[Bug 1845870] Cookie per host quota enforcement is off by one - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgZJlDLcqfdWvKbfTbsvGChL
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Microsoft Outlook for Mac | Microsoft 365
+https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-mac
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+test262-fyi/test262.fyi: Daily runner of test262 for many engines
+https://github.com/test262-fyi/test262.fyi
+
+test262.fyi
+https://test262.fyi/#
+
+Philipp Lackner - YouTube
+https://www.youtube.com/@PhilippLackner/videos
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Discover — Bluesky
+https://bsky.app/
+
+Beautiful in White x Canon in D (Piano Cover by Riyandi Kusuma) - YouTube
+https://www.youtube.com/watch?v=tX73H2FRcK8&list=RDOovd1wTzAOc&index=22
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/playlists
+
+YouTube
+https://www.youtube.com/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+⚙ D241435 Bug 1952021 - Remove JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME error message; r=dminor!
+https://phabricator.services.mozilla.com/D241435
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+nodejs-mentoring（频道） - OpenJS Foundation - Slack
+https://app.slack.com/client/T0K2RM7F0/C06BNHP62Q6
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+Node.js Core Development - Session 6 - Twitch
+https://www.twitch.tv/videos/2393500852?t=0h40m12s
+
+Linux 核心設計 (2025): 第 3 份作業解說 - YouTube
+https://www.youtube.com/watch?v=b7AkUgz_xvg
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/videos
+
+Registration for the H1 2025 Node.js collaboration summit in Paris
+https://docs.google.com/forms/d/e/1FAIpQLSfgv3q5eIkCVMHesUNXiGiQmm3Dxv3uSa4KxB0rHb8BLZ65pg/viewform
+
+anonrig (anonrig) / Repositories
+https://github.com/anonrig?tab=repositories
+
+Node.js Collaborator Summit 2025 / Paris · Issue #433 · openjs-foundation/summit
+https://github.com/openjs-foundation/summit/issues/433
+
+[Bug 1845870] Cookie per host quota enforcement is off by one - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgZJlDLcqfdWvKbfTbsvGChL
+
+Claude
+https://claude.ai/login?returnTo=%2F%3F
+
+Microsoft Outlook for Mac | Microsoft 365
+https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-mac
+
+tc39/test262: Official ECMAScript Conformance Test Suite
+https://github.com/tc39/test262
+
+test262-fyi/test262.fyi: Daily runner of test262 for many engines
+https://github.com/test262-fyi/test262.fyi
+
+test262.fyi
+https://test262.fyi/#
+
+Philipp Lackner - YouTube
+https://www.youtube.com/@PhilippLackner/videos
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+Discover — Bluesky
+https://bsky.app/
+
+Beautiful in White x Canon in D (Piano Cover by Riyandi Kusuma) - YouTube
+https://www.youtube.com/watch?v=tX73H2FRcK8&list=RDOovd1wTzAOc&index=22
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/playlists
+
+YouTube
+https://www.youtube.com/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+⚙ D241435 Bug 1952021 - Remove JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME error message; r=dminor!
+https://phabricator.services.mozilla.com/D241435
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+GitHub
+https://github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+My favorite way to write a depth first search - YouTube
+https://www.youtube.com/watch?v=XScVR8O2S6o&t=116s
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_PARSER_INVALID_CALENDAR_NAME&redirect=false
+
+tannal (tannal)
+https://github.com/tannal
+
+N2K Networks - YouTube
+https://www.youtube.com/@n2kcyber/videos
+
+(909) #xilem - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/354396-xilem
+
+linebender/vello: A GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+vello_svg Web Demo
+https://linebender.org/vello_svg/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+♟ tannal2409
+https://phabricator.services.mozilla.com/p/tannal2409/
+
+CHM Live | Sal Khan's Brave New Words: AI and Education - YouTube
+https://www.youtube.com/watch?v=sLynm1O6vhY&t=2742s
+
+Bloomberg Originals - YouTube
+https://www.youtube.com/@business/featured
+
+GitHub
+https://github.com/
+
+src,lib: make JSTransferables based on private symbols by legendecas · Pull Request #47956 · nodejs/node
+https://github.com/nodejs/node/pull/47956/files
+
+Zig SHOWTIME - YouTube
+https://www.youtube.com/@ZigSHOWTIME/videos
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc&list=RDOovd1wTzAOc&start_radio=1
 
 # 2025-03-13
 
