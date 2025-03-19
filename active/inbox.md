@@ -1,6 +1,7 @@
 
 # 2025-03-17
 
+Bug 1953200 - Remove JSMSG_TEMPORAL_PLAIN_TIME_CALENDAR_NOT_ISO8601 error message. r=dminor!
 
 # 2025-03-13
 

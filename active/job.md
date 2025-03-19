@@ -547,6 +547,8 @@ igalia申请 deadline
 
 # 2025-3-17 - 2025-3-24 春
 
+
+
 # 2025-3-10 - 2025-3-17 春 enconomy data week
 
 []
@@ -574,7 +576,7 @@ igalia申请 deadline
 ## What's your most afraid of?
 
 [] gift gao wo
-[] yuy gao wo
+[x] yuy gao wo
 
 
 ## Sunday
