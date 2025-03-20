@@ -1,4 +1,8 @@
 
+# 2025-03-20
+
+Bug 1951734 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NON_FINITE error message. r=dminor!
+
 # 2025-03-17
 
 Bug 1953200 - Remove JSMSG_TEMPORAL_PLAIN_TIME_CALENDAR_NOT_ISO8601 error message. r=dminor!
