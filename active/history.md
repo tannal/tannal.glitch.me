@@ -1,6 +1,136 @@
 
-# 2025-03-20
+# 2025-03-22
 
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+* base (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGGKQ3KA9
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1048) #checkins > Olivier Faure - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/197474-checkins/topic/Olivier.20Faure/with/507368020
+
+Renderer Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1r28-uhSl3w9-MhPIfgt7uQXDxPBBVzkw25tlS3b6VMM/edit?tab=t.avx6gaq4z8qf#heading=h.gsd3qibwjgrp
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D242074 Bug 1953200 - Remove JSMSG_TEMPORAL_PLAIN_TIME_CALENDAR_NOT_ISO8601 error message. r=dminor!
+https://phabricator.services.mozilla.com/D242074
+
+JSMSG_TEMPORAL_PLAIN_TIME_CALENDAR_NOT_ISO8601 - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_PLAIN_TIME_CALENDAR_NOT_ISO8601&redirect=false
+
+Discover — Bluesky
+https://bsky.app/
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Meet the Mentoring organizations of GSoC 2025! | Google Open Source Blog
+https://opensource.googleblog.com/2025/02/meet-mentoring-organizations-of-gsoc.html
+
+node.js - YouTube
+https://www.youtube.com/@nodejs-foundation/streams
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Following — Bluesky
+https://bsky.app/
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Building Node.js on Windows with clang-cl | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Home / X
+https://x.com/home
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Steve Jobs Talks About Microsoft - YouTube
+https://www.youtube.com/watch?v=KSg3fU9XWow
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1951734 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NON_FINITE error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1951734
+
+JSMSG_TEMPORAL_DURATION_INVALID_NON_FINITE - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_DURATION_INVALID_NON_FINITE&redirect=false
+
+⚙ D242251 Bug 1951734 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NON_FINITE error message. r=dminor!
+https://phabricator.services.mozilla.com/D242251
+
+mozilla/gecko-dev: Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+https://github.com/mozilla/gecko-dev
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app
+
+Avril Lavigne - When You're Gone (The Best Damn Tour - Live In Toronto) - YouTube
+https://www.youtube.com/watch?v=Oovd1wTzAOc
+
+【Piano Cover】道明中學105級畢業歌 - 夢想藍圖｜高還原純鋼琴版｜畢業歌中的神曲 - YouTube
+https://www.youtube.com/watch?v=fza2skz9WrQ
+
+Following — Bluesky
+https://bsky.app/
+
+http: support HTTP[S]_PROXY environment variables in fetch by joyeecheung · Pull Request #57165 · nodejs/node
+https://github.com/nodejs/node/pull/57165
+
+Repo Issues
+https://github.com/nodejs/node/issues
+
+romainguy (romainguy) / Repositories
+https://github.com/romainguy?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+tannal (tannal)
+https://github.com/tannal
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+# 2025-03-20
 
 # 2025-03-17
 
