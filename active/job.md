@@ -521,37 +521,36 @@ zhongqidabian
 # 2025-6-16 - 2025-6-23 夏
 # 2025-6-9 - 2025-6-16 春
 # 2025-6-2 - 2025-6-9 春
-# 2025-5-26 - 2025-6-2 春
-# 2025-5-19 - 2025-5-26 春
-# 2025-5-12 - 2025-5-19 春
+# 2025-5-26 - 2025-6-2 春 Socialization
+# 2025-5-19 - 2025-5-26 春 Socialization
+# 2025-5-12 - 2025-5-19 春 Socialization
 
 igalia申请出通知，google开源之夏deadline
 
-# 2025-5-5 - 2025-5-12 春
+# 2025-5-5 - 2025-5-12 春 Socialization
 
 [] FED interest rate
 
-# 2025-4-28 - 2025-5-5 春
+# 2025-4-28 - 2025-5-5 春 Socialization
+
+# 2025-4-21 - 2025-4-28 春 Socialization
+
+# 2025-4-14 - 2025-4-21 春 Socialization
+
+# 2025-4-7 - 2025-4-14 春 enconomy data week Socialization
+
+# 2025-3-31 - 2025-4-7 春 Socialization
 
 igalia申请 deadline
 
-# 2025-4-21 - 2025-4-28 春
+# 2025-3-24 - 2025-3-31 春 Socialization
 
-# 2025-4-14 - 2025-4-21 春
-
-# 2025-4-7 - 2025-4-14 春 enconomy data week
-
-# 2025-3-31 - 2025-4-7 春
-
-# 2025-3-24 - 2025-3-31 春
-
-# 2025-3-17 - 2025-3-24 春
+# 2025-3-17 - 2025-3-24 春 Socialization
 
 [] The Match
 [] Leetcode & Frontend Intern & Bytedance
 [] ICE GSOC Linebender Joyee
 [] Socialization & Communication & Connection
-
 
 ## Sunday
 
