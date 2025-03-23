@@ -548,7 +548,7 @@ igalia申请 deadline
 # 2025-3-17 - 2025-3-24 春
 
 [] The Match
-[] Leetcode & Frontend Intern
+[] Leetcode & Frontend Intern & Bytedance
 [] ICE GSOC Linebender Joyee
 [] Socialization & Communication & Connection
 
