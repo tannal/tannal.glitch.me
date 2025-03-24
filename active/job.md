@@ -545,6 +545,23 @@ igalia申请 deadline
 
 # 2025-3-24 - 2025-3-31 春 Socialization
 
+
+## Sunday
+## Saturday
+
+## Friday
+## Thursday
+## Wednesday
+## Tuesday
+
+## Monday
+
+√ Week Report
+√ KTV
+√ bring my laptop back
+√ go to lab
+√ Video
+
 # 2025-3-17 - 2025-3-24 春 Socialization
 
 [] The Match
