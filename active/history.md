@@ -1,4 +1,129 @@
 
+# 2025-03-26
+
+Node.js Core Development - Session 5! - Twitch
+https://www.twitch.tv/videos/2387405235
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4
+
+* base (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGGKQ3KA9
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Working at Igalia | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/jobs/open/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Home | Google Summer of Code
+https://summerofcode.withgoogle.com/
+
+Google Open Source
+https://opensource.google/
+
+cs5460 Lecture 02 - OS Interfaces - YouTube
+https://www.youtube.com/watch?v=0cZx8caiIS8
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Following — Bluesky
+https://bsky.app/
+
+web-platform-tests dashboard
+https://wpt.fyi/interop-2025
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/
+
+joyeecheung/talks: Slides for my talks
+https://github.com/joyeecheung/talks?tab=readme-ov-file
+
+talks/nodeconfeu_2024/require-esm-in-node.pdf at master · joyeecheung/talks
+https://github.com/joyeecheung/talks/blob/master/nodeconfeu_2024/require-esm-in-node.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=false&query=&sort=byPopularity&type=story
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+2311.07069v1.pdf
+https://arxiv.org/pdf/2311.07069
+
+Crushing Tower Defense Game Engine - DAY 3 #ad - YouTube
+https://www.youtube.com/watch?v=-B_DhqUP2rU
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation - 1505.04597v1.pdf
+https://arxiv.org/pdf/1505.04597
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Miscellaneous&op=translate
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Animating bones in my OpenGL app - YouTube
+https://www.youtube.com/watch?v=K6EU8iZbv0o
+
+webgl - Google 搜索
+https://www.google.com/search?q=webgl&client=ubuntu-sn&sca_esv=b981c6def567073f&channel=fs&sxsrf=AHTn8zr5Bp7LOf5yXWHtBDRIbSrrm26f9A:1742822020769&ei=hFrhZ4ygLu_z0PEPiabbgAQ&start=20&sa=N&sstk=Af40H4Uww7a7dFAeF7d3LXlb7dfMOV6v4NndyyLPbE8Qq82YMesMowOyUnEN4umuG6f8uynvjOvm86EHhdXeD3iOtyodJ547bjgrQ8DfYSgE8aqB_CHZNfsgkpovJNZkHS2G&ved=2ahUKEwiM8tD75aKMAxXvOTQIHQnTFkA4ChDy0wN6BAgIEAc&biw=1850&bih=968&dpr=1
+
+WebGL/three.js Resources
+https://www.realtimerendering.com/webgl.html
+
+Pull requests · gfxfundamentals/webgl-fundamentals
+https://github.com/gfxfundamentals/webgl-fundamentals/pulls
+
+WebGL Fundamentals
+https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
+
+Android Internals: A Confectioner's Cookbook
+http://newandroidbook.com/
+
+newdebuggingbook.com/
+https://newdebuggingbook.com/
+
+Home / X
+https://x.com/home
+
+01_introduction.pdf
+https://gfxcourses.stanford.edu/cs248a/winter25content/media/introdrawing/01_introduction.pdf
+
+YouTube
+https://www.youtube.com/
+
+tannal (tannal)
+https://github.com/tannal/
+
+2306.08620v2.pdf
+https://arxiv.org/pdf/2306.08620
+
+Discover — Bluesky
+https://bsky.app/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=false&query=&sort=byPopularity&type=story
+
 # 2025-03-23
 
 

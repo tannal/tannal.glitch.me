@@ -1,4 +1,8 @@
 
+# 2025-03-26
+
+Bug 1953195 - Remove JSMSG_TEMPORAL_CALENDAR_INVALID_FIELD error message; r=dminor!
+
 # 2025-03-23
 
 
