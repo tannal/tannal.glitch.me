@@ -1,6 +1,13 @@
 
 # 2025-03-27
 
+Raph Levien
+Tom Churchman
+Taj Pereira
+Alex Gemberg
+Dominik Honnef
+Laurenz Stampf
+
 Bug 1953197 - Remove JSMSG_TEMPORAL_CALENDAR_INCOMPATIBLE_ERA error message; r=dminor!
 
 # 2025-03-26
