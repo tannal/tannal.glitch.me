@@ -548,7 +548,7 @@ igalia申请 deadline
 [] Leetcode & Frontend Intern & Bytedance
 [] ICE GSOC Linebender Joyee
 [] Socialization & Communication & Connection
-
+[] GOTO 438 update rustdesk to 1.3.8
 ## Sunday
 ## Saturday
 
@@ -557,6 +557,7 @@ igalia申请 deadline
 ## Thursday
 
 √ Valorant
+√ Rustdesk update to 1.3.8
 
 ## Wednesday
 
