@@ -549,6 +549,7 @@ igalia申请 deadline
 [] ICE GSOC Linebender Joyee
 [] Socialization & Communication & Connection
 [] GOTO 438 update rustdesk to 1.3.8
+
 ## Sunday
 ## Saturday
 
