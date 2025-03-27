@@ -519,8 +519,8 @@ zhongqidabian
 # 2025-6-30 - 2025-7-7 夏
 # 2025-6-23 - 2025-6-30 夏
 # 2025-6-16 - 2025-6-23 夏
-# 2025-6-9 - 2025-6-16 春
-# 2025-6-2 - 2025-6-9 春
+# 2025-6-9 - 2025-6-16 春 Socialization
+# 2025-6-2 - 2025-6-9 春 Socialization
 # 2025-5-26 - 2025-6-2 春 Socialization
 # 2025-5-19 - 2025-5-26 春 Socialization
 # 2025-5-12 - 2025-5-19 春 Socialization
@@ -545,15 +545,23 @@ igalia申请 deadline
 
 # 2025-3-24 - 2025-3-31 春 Socialization
 
+[] Leetcode & Frontend Intern & Bytedance
+[] ICE GSOC Linebender Joyee
+[] Socialization & Communication & Connection
 
 ## Sunday
 ## Saturday
 
 ## Friday
+
 ## Thursday
+
+√ Valorant
+
 ## Wednesday
 
 ## Tuesday
+
 
 ## Monday
 
@@ -566,9 +574,7 @@ igalia申请 deadline
 # 2025-3-17 - 2025-3-24 春 Socialization
 
 [] The Match
-[] Leetcode & Frontend Intern & Bytedance
-[] ICE GSOC Linebender Joyee
-[] Socialization & Communication & Connection
+
 
 ## Sunday
 
