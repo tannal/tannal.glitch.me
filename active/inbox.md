@@ -1,6 +1,14 @@
 
 # 2025-03-28
 
+观察优秀的演讲者和作者，分析他们的技巧，并尝试将适合您风格的元素融入自己的表达中。
+
+Written communication - Being able to write clear reports, papers, and documentation
+
+Oral communication - Giving effective presentations and lectures
+
+Casual conversation - Being able to make your point quickly in meetings or informal discussions
+
 "You should study your successes. You don't study your failures, study successes.
 Because when your time comes, you will know how to succeed. If you study failures, you'll know how to fail."
 
