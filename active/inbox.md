@@ -1,4 +1,8 @@
 
+# 2025-03-28
+
+Bug 1951737 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NORMALIZED_TIME error message; r=dminor!
+
 # 2025-03-27
 
 Raph Levien
