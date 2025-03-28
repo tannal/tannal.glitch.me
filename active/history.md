@@ -1,6 +1,113 @@
 
 # 2025-03-28
 
+Node.js Core Development - Session 6 - Twitch
+https://www.twitch.tv/videos/2393500852?t=1h4m46s
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?cdn_fallback=1
+
+base (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGGKQ3KA9
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Graphite | Student projects
+https://graphite.rs/volunteer/guide/student-projects/
+
+FOSDEM 2025 Talk: From Pixels to Procedures - YouTube
+https://www.youtube.com/watch?v=HPh_Cs_8kVc
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1953197 - Remove JSMSG_TEMPORAL_CALENDAR_INCOMPATIBLE_ERA error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1953197
+
+JSMSG_TEMPORAL_CALENDAR_INCOMPATIBLE_ERA - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_CALENDAR_INCOMPATIBLE_ERA&redirect=false
+
+1951737 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NORMALIZED_TIME error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1951737
+
+Following — Bluesky
+https://bsky.app/
+
+DevSDK (Seokho Song, dave@modusign)
+https://github.com/DevSDK?tab=stars
+
+How to collect coverage with Jest (V8) | Seokho’s blog
+https://blog.seokho.dev/development/2023/09/23/how-to-collect-coverage-jest-v8.html
+
+Resume - resume.pdf
+https://resume.seokho.dev/resume.pdf
+
+Renderer office hours - 2025/03/26 12:54 PDT - Transcript - Google 文档
+https://docs.google.com/document/d/1hE-0T4R3YveQJsZYccIGVofpmqkogwrfj2TomIXcSjo/edit?tab=t.0
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Office Hours 2025-03-27 - Google 文档
+https://docs.google.com/document/d/1NbWId7sgnDWFY71EjYic-FJUu8-oB8UmVvFuyuvpnho/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Implement getting 'flags' property for RegExp.p.@@match · v8/v8@6522bcb
+https://github.com/v8/v8/commit/6522bcb458abf4121d76e307e58bb6a7fdf35168
+
+aosp - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=aosp
+
+Anthropic - YouTube
+https://www.youtube.com/@anthropic-ai/videos
+
+Releases · rustdesk/rustdesk
+https://github.com/rustdesk/rustdesk/releases
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D243031 Bug 1953195 - Remove JSMSG_TEMPORAL_CALENDAR_INVALID_FIELD error message; r=dminor!
+https://phabricator.services.mozilla.com/D243031
+
+JSMSG_TEMPORAL_CALENDAR_INVALID_FIELD - mozsearch
+https://searchfox.org/mozilla-central/search?q=JSMSG_TEMPORAL_CALENDAR_INVALID_FIELD&redirect=false
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Your Repositories
+https://github.com/tannal?tab=repositories
 
 # 2025-03-27
 
