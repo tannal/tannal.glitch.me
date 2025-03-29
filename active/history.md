@@ -1,6 +1,92 @@
 
 # 2025-03-29
 
+tannal (tannal)
+https://github.com/tannal/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Item Flow – Part 1: A new unified concept for layout | WebKit
+https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/
+
+Should Corepack stay in the Node.js distribution? by github-actions[bot] · Pull Request #1697 · nodejs/TSC
+https://github.com/nodejs/TSC/pull/1697/files
+
+林俊傑 JJ Lin & 胡彥斌 Tiger Hu - 《黑夜問白天》 53 Dawns - JJ20 蘇州站現場版 Live in Suzhou - YouTube
+https://www.youtube.com/watch?v=8-PY_BRWHsk
+
+2205.05982
+https://arxiv.org/pdf/2205.05982
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+134. 加油站 - 力扣（LeetCode）
+https://leetcode.cn/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150
+
+item-pack mdn - Google 搜索
+https://www.google.com/search?q=item-pack+mdn&oq=item-pack+mdn&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDI5MTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+林俊傑 JJ Lin & 胡彥斌 Tiger Hu - 《黑夜問白天》 53 Dawns - JJ20 蘇州站現場版 Live in Suzhou - YouTube
+https://www.youtube.com/watch?v=8-PY_BRWHsk
+
+Kelly Clarkson - Because Of You (VIDEO) - YouTube
+https://www.youtube.com/watch?v=Ra-Om7UMSJc&list=RDVT1-sitWRtY&index=5
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD3SAQc1NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+2302.05543
+https://arxiv.org/pdf/2302.05543
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation
+https://arxiv.org/pdf/1505.04597
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+A Computational Approach to Edge Detection | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/4767851
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+CMU-Perceptual-Computing-Lab
+https://github.com/CMU-Perceptual-Computing-Lab
+
+Canny Edge Detector from Scratch
+https://www.kaggle.com/code/patrickb1912/canny-edge-detector-from-scratch/notebook
+
+美国刹不住的贸易逆差，根本原因是什么? - YouTube
+https://www.youtube.com/watch?v=XDXeZk6a170
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+某种物质 - Google 搜索
+https://www.google.com/search?q=%E6%9F%90%E7%A7%8D%E7%89%A9%E8%B4%A8&oq=%E6%9F%90%E7%A7%8D%E7%89%A9%E8%B4%A8&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI4OTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/videos
+
+Following — Bluesky
+https://bsky.app/
+
+金士顿 - Google 搜索
+https://www.google.com/search?q=%E9%87%91%E5%A3%AB%E9%A1%BF&oq=%E9%87%91%E5%A3%AB%E9%A1%BF&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyCQgIEC4YChiABDIJCAkQABgKGIAE0gEIMTc2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal
 
 # 2025-03-28
 
