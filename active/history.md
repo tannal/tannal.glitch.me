@@ -1,4 +1,153 @@
 
+# 2025-03-30
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?cdn_fallback=1
+
+The WebKit Open Source Project
+https://github.com/WebKit
+
+v8 (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJDZJVG9
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Notifications — Bluesky
+https://bsky.app/notifications
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+User Profile: tannal2409@gmail.com
+https://bugzilla.mozilla.org/user_profile?user_id=740908
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+cs149.stanford.edu/
+https://gfxcourses.stanford.edu/cs149/fall24/lecture/whyparallelism/slide_6
+
+01_whyparallelism.pdf
+https://gfxcourses.stanford.edu/cs149/fall24content/media/whyparallelism/01_whyparallelism.pdf
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Coffee Compiler Club, 2025_03_28 - YouTube
+https://www.youtube.com/watch?v=iNWAgSAEPAg
+
+mozilla/gecko-dev - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=++++++mozilla%2Fgecko-dev
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+tannal (tannal)
+https://github.com/tannal
+
+About
+https://tannal.github.io/about/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+two-heart/v8-design-docs: collection of V8 design documents
+https://github.com/two-heart/v8-design-docs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ D243031 Bug 1953195 - Remove JSMSG_TEMPORAL_CALENDAR_INVALID_FIELD error message; r=dminor!
+https://phabricator.services.mozilla.com/D243031
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project
+
+Learn JavaScript, React, and TypeScript to Node.js, Fullstack, and Backend | Frontend Masters
+https://frontendmasters.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Rick Byers (@rbyers.net) — Bluesky
+https://bsky.app/profile/rbyers.net
+
+two-heart/v8-design-docs: collection of V8 design documents
+https://github.com/two-heart/v8-design-docs
+
+Hamming, "You and Your Research" (June 6, 1995) - YouTube
+https://www.youtube.com/watch?v=a1zDuOPkMSw
+
+Future Frontend - YouTube
+https://www.youtube.com/@FutureFrontend/featured
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
+Trust: Foundation of Human Knowledge yet online Platforms won't allow | David Karger | TEDxMIT Salon - YouTube
+https://www.youtube.com/watch?v=nTaAKbK6nXg
+
+Apple History and Apple Psychology, How Apple Should Capitalize On Its AI Potential, Why It Probably Won't
+https://sharptech.fm/member/episode/apple-history-and-apple-psychology-how-apple-should-capitalize-on-its-ai-potential-why-it-probably-wont
+
+Element [12] | WHATWG
+https://chat.mozilla.org/#/room/#whatwg:matrix.org
+
+irc.w3.org #css
+https://log.csswg.org/irc.w3.org/css/2025-03-29/
+
+CSS Working Group Wiki [CSS Working Group Wiki]
+https://wiki.csswg.org/
+
+simple cliff click github - Google 搜索
+https://www.google.com.hk/search?q=simple+cliff+click+github&newwindow=1&client=ubuntu-sn&hs=Qfl&sca_esv=e755a530549ef1e0&channel=fs&ei=VJboZ7nbB4KIkPIPlsDsuQs&ved=0ahUKEwi51dT-y7CMAxUCBEQIHRYgO7cQ4dUDCBA&uact=5&oq=simple+cliff+click+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXNpbXBsZSBjbGlmZiBjbGljayBnaXRodWIyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIpRxQwBBYnRtwAXgBkAEAmAHQAqAB9BSqAQUyLTkuMbgBA8gBAPgBAZgCAaACBpgDAIgGAZAGBpIHATGgB9Qr&sclient=gws-wiz-serp
+
+sea of nodes github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=sea+of+nodes+github
+
+Add a test for redefining variables in chapter 3 by tannal · Pull Request #146 · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/pull/146
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · oven-sh/bun
+https://github.com/oven-sh/bun/issues
+
+Contributors to linebender/parley
+https://github.com/linebender/parley/graphs/contributors
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
 # 2025-03-29
 
 tannal (tannal)
