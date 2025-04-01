@@ -1,4 +1,108 @@
 
+# 2025-04-01
+
+RafaelGSS's Videos - Twitch
+https://www.twitch.tv/rafaelgss/videos
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?cdn_fallback=1
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+Home / X
+https://x.com/home
+
+Investigate recent Windows build failures · Issue #7438 · nodejs/nodejs.org
+https://github.com/nodejs/nodejs.org/issues/7438#issuecomment-2744658887
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+New Jetpack Compose and internals cohort course edition - June 2 🥳
+https://newsletter.jorgecastillo.dev/p/new-jetpack-compose-and-internals
+
+mozilla repositories
+https://github.com/orgs/mozilla/repositories
+
+【纯享版】王赫野姚晓棠全新演绎情歌《最后一页》 忧伤旋律搭配歌声中的惆怅感 情感渲染力十足！ #天赐的声音5 EP1 20240426 - YouTube
+https://www.youtube.com/watch?v=ULYksmjBwzY&list=RD8-PY_BRWHsk&index=3
+
+Commits · mozilla/gecko-dev
+https://github.com/mozilla/gecko-dev
+
+bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android
+https://github.com/bluesky-social/social-app
+
+Following — Bluesky
+https://bsky.app/
+
+Pull requests · linebender/parley
+https://github.com/linebender/parley/pulls
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1917602 - CSS zoom property is animatable contrary to what spec says
+https://bugzilla.mozilla.org/show_bug.cgi?id=1917602
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Paths For Growth — Web Platform Contribution Guide documentation
+https://wpc.guide/paths-for-growth/#become-a-browser-implementer
+
+Demystifying Browsers – text/plain
+https://textslashplain.com/2020/02/09/demystifying-browsers/
+
+quick fix for category rendering (#18669) · oven-sh/bun@adab0f6
+https://github.com/oven-sh/bun/pull/18668/files
+
+tannal (tannal)
+https://github.com/tannal/
+
+Add a test for redefining variables in chapter 3 by tannal · Pull Request #146 · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/pull/146
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1953192 - Remove JSMSG_TEMPORAL_DURATION_COMBINE_INVALID_SIGN error message.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1953192
+
+YouTube
+https://www.youtube.com/
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Element * | TC39 Test262 Maintainers
+https://app.element.io/#/room/#test262-maintainers:matrix.org
+
+Meng Tan - YouTube
+https://www.youtube.com/@MengTan-b6h
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+two-heart (Liam)
+https://github.com/two-heart
+
+mozilla repositories
+https://github.com/orgs/mozilla/repositories
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Beauty And A Beat - Justin Bieber | Alex Goot, Chrissy Costanza, KHS - YouTube
+https://www.youtube.com/watch?v=9wqpfFI3EVE&list=RDVT1-sitWRtY&index=7
+
 # 2025-03-31
 
 
