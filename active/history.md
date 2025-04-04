@@ -1,4 +1,120 @@
 
+# 2025-04-04
+
+RafaelGSS - Twitch
+https://www.twitch.tv/rafaelgss
+
+* jsc (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CTV4FGWF4?cdn_fallback=1
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+CodeGenerator-shared.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/2a69486ab1df00b1ea8ecd14027e2cc6c0415ed0/js/src/jit/shared/CodeGenerator-shared.cpp#951
+
+2302.05543v3.pdf
+https://arxiv.org/pdf/2302.05543
+
+Following — Bluesky
+https://bsky.app/
+
+Crafting Strong DX With Astro Components and TypeScript | CSS-Tricks
+https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+N2K Networks - YouTube
+https://www.youtube.com/@n2kcyber/videos
+
+tannal (tannal) / March 2025
+https://github.com/tannal/
+
+andy pavlo mongodb - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=andy+pavlo+mongodb
+
+There was a hilarious blog post on here a few months ago from some guy who colle... | Hacker News
+https://news.ycombinator.com/item?id=39125157
+
+andy pavlo - Google 搜索
+https://www.google.com.hk/search?q=andy+pavlo&newwindow=1&client=ubuntu-sn&hs=mZt&sca_esv=ce172ddad5a54d82&channel=fs&biw=1850&bih=968&ei=BbDsZ_WiKp6wkPIPuMa_oQo&gs_ssp=eJzj4tVP1zc0TMsyNTTLLi8xYPTiSsxLqVQoSCzLyQcAbdMIdA&oq=andy+p&gs_lp=Egxnd3Mtd2l6LXNlcnAiBmFuZHkgcCoCCAAyBRAuGIAEMgUQLhiABDIHEC4YgAQYCjIHEC4YgAQYCjIHEAAYgAQYCjIHEC4YgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYCjIHEAAYgAQYDDIUEC4YgAQYlwUY3AQY3gQY3wTYAQFI3iFQrQZYxBpwAngBkAEAmAHiAqAB7xCqAQUyLTMuNLgBA8gBAPgBAZgCCaACzRHCAgoQABiwAxjWBBhHwgILEC4YgAQY0QMYxwHCAgUQABiABMICGhAuGIAEGNEDGMcBGJcFGNwEGN4EGOAE2AEBwgIKEAAYgAQYQxiKBcICChAuGIAEGEMYigXCAhkQLhiABBhDGIoFGJcFGNwEGN4EGN8E2AEBwgIQEC4YgAQY0QMYQxjHARiKBcICHxAuGIAEGNEDGEMYxwEYigUYlwUY3AQY3gQY4ATYAQGYAwDiAwUSATEgQIgGAZAGCroGBggBEAEYFJIHBzIuMC4yLjWgB67hAQ&sclient=gws-wiz-serp
+
+Andy Pavlo - Carnegie Mellon University
+https://www.cs.cmu.edu/~pavlo/
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Database Storage II - 04-storage2.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/04-storage2.pdf
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Database Storage I - 03-storage1.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/03-storage1.pdf
+
+CMU 15-445/645 Database Systems (Fall 2024) :: Relational Model & Algebra - 01-relationalmodel.pdf
+https://15445.courses.cs.cmu.edu/fall2024/slides/01-relationalmodel.pdf
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+CMU 15-445/645 Database Systems (Fall 2023) :: Database Storage I - 03-storage1.pdf
+https://15445.courses.cs.cmu.edu/fall2023/slides/03-storage1.pdf
+
+Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html
+
+tannal (tannal) / March 2025
+https://github.com/tannal?tab=overview&from=2025-03-01&to=2025-03-31
+
+周杰倫 Jay Chou【千山萬水 Thousands of miles】(2008年北京奧運會徵集歌曲) - YouTube
+https://www.youtube.com/watch?v=ngDadzs4Q1w
+
+Chris Donahue
+https://chrisdonahue.com/
+
+Add a test for redefining variables in chapter 3 by tannal · Pull Request #146 · SeaOfNodes/Simple
+https://github.com/SeaOfNodes/Simple/pull/146
+
+Repo Issues
+https://github.com/nodejs/node/issues
+
+Igalia - Open Source Consultancy and Development
+https://www.igalia.com/
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Lecture 11: Digital Geometry Processing (CMU 15-462/662) - YouTube
+https://www.youtube.com/watch?v=BwpEoZYcrwY&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E&index=13
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+two-heart (two-heart) / Repositories
+https://github.com/two-heart?tab=repositories
+
+mozilla repositories
+https://github.com/orgs/mozilla/repositories
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/playlists
+
+惊人唱功感动全场！邓紫棋动情唱《泡沫》&《新的心跳》不愧是巨肺小天后！#春满东方 Clip - YouTube
+https://www.youtube.com/watch?v=dvTAOpUB2hA&list=RD8-PY_BRWHsk&index=23
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 # 2025-04-02
 
 
