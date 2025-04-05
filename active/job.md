@@ -541,7 +541,7 @@ igalia申请出通知，google开源之夏deadline
 
 # 2025-3-31 - 2025-4-7 春 Socialization
 
-igalia申请 deadline
+[x] igalia申请 deadline
 
 # 2025-3-24 - 2025-3-31 春 Socialization
 
