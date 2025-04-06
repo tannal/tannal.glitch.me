@@ -565,9 +565,7 @@ igalia申请出通知，google开源之夏deadline
 
 ## Sunday
 ## Saturday
-
 ## Friday
-
 ## Thursday
 
 √ Valorant
