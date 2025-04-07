@@ -40,10 +40,10 @@ Casual conversation - Being able to make your point quickly in meetings or infor
 
 "You should study your successes. You don't study your failures, study successes.
 Because when your time comes, you will know how to succeed. If you study failures, you'll know how to fail."
+Study your successes, not your failures
 
 You have one life to lead - make it significant by your own definition
 
-Study your successes, not your failures
 
 Bug 1951737 - Reword JSMSG_TEMPORAL_DURATION_INVALID_NORMALIZED_TIME error message; r=dminor!
 
