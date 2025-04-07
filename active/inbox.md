@@ -1,6 +1,7 @@
 
 # 2025-04-05
 
+Bug 1037319 - Fix excessive NOP padding on ARM/ARM64 in ensureOsiSpace; r=nbp!
 
 # 2025-04-04
 
