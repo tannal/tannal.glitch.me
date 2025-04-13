@@ -7,7 +7,7 @@ Bug 1037319 - Fix excessive NOP padding on ARM/ARM64 in ensureOsiSpace; r=nbp!
 
 Bug 1953192 - Remove JSMSG_TEMPORAL_DURATION_COMBINE_INVALID_SIGN error message; r=dminor!
 
-# 2025-04-026-
+# 2025-04-03
 
 Mego Tan
 
