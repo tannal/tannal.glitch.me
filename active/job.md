@@ -3,7 +3,7 @@
 
 # 2034-7-3 - 2034-7-10
 
-身份证过期
+
 
 # 2034-6-26 - 2034-7-3
 # 2034-6-19 - 2034-6-26
@@ -535,12 +535,19 @@ igalia申请出通知，google开源之夏deadline
 
 # 2025-4-21 - 2025-4-28 春 Socialization
 
+Yes
+
 # 2025-4-14 - 2025-4-21 春 Socialization
+
+xx
 
 # 2025-4-7 - 2025-4-14 春 enconomy data week Socialization
 
+xx
+
 # 2025-3-31 - 2025-4-7 春 Socialization
 
+xx
 [x] igalia申请 deadline
 
 ## Sunday
