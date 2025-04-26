@@ -524,9 +524,10 @@ zhongqidabian
 
 ## Sunday
 
-
-
 ## Saturday
+
+[] 2 commits gecko
+
 ## Friday
 ## Thursday
 ## Wednesday
@@ -534,8 +535,6 @@ zhongqidabian
 ## Monday
 
 # 2025-5-12 - 2025-5-19 春 Socialization
-
-igalia申请出通知，google开源之夏deadline
 
 # 2025-5-5 - 2025-5-12 春 Socialization
 
