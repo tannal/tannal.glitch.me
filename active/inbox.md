@@ -1,6 +1,8 @@
 
 # 2025-04-27
 
+Bug 1953196 - Remove JSMSG_TEMPORAL_CALENDAR_DUPLICATE_FIELD error message. r=dminor!
+
 浏览器/前端引擎开发工程师
 系统/基础设施开发工程师
 开源项目维护者/贡献者
