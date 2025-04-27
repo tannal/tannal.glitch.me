@@ -1,6 +1,92 @@
 
 # 2025-04-27
 
+⚙ D246558 Bug 1953204 - Reword JSMSG_TEMPORAL_PLAIN_MONTH_DAY_INVALID error message. r=dminor!
+https://phabricator.services.mozilla.com/D246558
+
+Temp Mail - Disposable Temporary Email
+https://temp-mail.org/en/
+
+node/lib/fs.js at main · nodejs/node
+https://github.com/nodejs/node/blob/main/lib/fs.js
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+CodeGenerator.cpp - mozsearch
+https://searchfox.org/mozilla-central/rev/04a2c5317c0af560ed1689304498416c9c6c485a/js/src/jit/CodeGenerator.cpp#8109
+
+⚙ D246815 Bug 1953198 - Remove JSMSG_TEMPORAL_CALENDAR_INCOMPATIBLE_ERAYEAR error message. r=dminor!
+https://phabricator.services.mozilla.com/D246815
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/?responsiblePHIDs%5B0%5D=PHID-USER-hel2y63k4uqwe6ucmmhs&statuses%5B0%5D=open()&order=newest&bucket=action
+
+music transformer - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=music+transformer
+
+1809.04281v3.pdf
+https://arxiv.org/pdf/1809.04281
+
+An Improved Relative Self-Attention Mechanism for Transformer with Application to Music Generation
+https://storage.googleapis.com/music-transformer/index.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+anthropic - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=anthropic
+
+Google DeepMind - YouTube
+https://www.youtube.com/@googledeepmind/courses
+
+Rob Palmer: "I'm optimistic that the next 12 months is going to a very special time for JS performance ⚡ (This applies to developer workflows & end-users.) Several large-scale independent multi-year language, runtime, tooling, & library investments are approaching the payback stage all around the same time." — Bluesky
+https://bsky.app/profile/robpalmer.bsky.social/post/3lnphqwcjwk2v
+
+graphite gsoc - Google 搜索
+https://www.google.com.hk/search?q=graphite+gsoc&client=ubuntu-sn&hs=E2L&sca_esv=cf8f2fd86c54593d&channel=fs&sxsrf=AHTn8zoMUS479gZjar65ULz9ry5sbhw9NQ%3A1741052675881&ei=A1vGZ6qvNa_W4-EPtZ66yQ4&ved=0ahUKEwjqvJ_Spu-LAxUv6zgGHTWPLukQ4dUDCBA&uact=5&oq=graphite+gsoc&gs_lp=Egxnd3Mtd2l6LXNlcnAiDWdyYXBoaXRlIGdzb2MyCBAAGIAEGMsBMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBUigDVDmAlipDHABeAGQAQCYAZ0BoAG2BKoBAzAuNLgBA8gBAPgBAZgCBaAC3ATCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAjGIAEGCcYigXCAgQQABgewgIGEAAYCBgewgIGEAAYBRgemAMAiAYBkAYKkgcDMS40oAeREA&sclient=gws-wiz-serp
+
+Graphite | Free online vector editor & procedural design tool
+https://graphite.rs/
+
+Discover — Bluesky
+https://bsky.app/
+
+Home / X
+https://x.com/home
+
+rui314/mold at v2.38.0
+https://github.com/rui314/mold/tree/v2.38.0
+
+Coffee Compiler Club, 2025_25_04 - YouTube
+https://www.youtube.com/watch?v=LlaGHhsF-Zs
+
+Graphite
+http://localhost:8080/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Home / X
+https://x.com/home
+
+Ecma TC39
+https://github.com/tc39
+
+tc39/tc39.github.io: Get involved in specifying JavaScript
+https://github.com/tc39/tc39.github.io
+
+TC39 - Specifying JavaScript.
+https://tc39.es/
+
+tc39/proposal-defer-import-eval: A proposal for introducing a way to defer evaluate of a module
+https://github.com/tc39/proposal-defer-import-eval
+
+and why stop there? Introduce lazy evaluation, type classes, custom operator ove... | Hacker News
+https://news.ycombinator.com/item?id=28531545
+
+Avoiding Skill Atrophy in the Age of AI - by Addy Osmani
+https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age
 
 # 2025-04-25
 
