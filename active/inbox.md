@@ -1,4 +1,16 @@
 
+# 2025-04-27
+
+浏览器/前端引擎开发工程师
+系统/基础设施开发工程师
+开源项目维护者/贡献者
+前端/全栈开发工程师
+
+Senior Engineer
+Staff/Expert/Lead Engineer
+Research Engineer
+Open Source Maintainer/Advocate
+
 # 2025-04-25
 
 HAHA
