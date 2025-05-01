@@ -1,6 +1,92 @@
 
 # 2025-05-01
 
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+nodejs/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/nodejs/node
+
+nodejs/unofficial-builds: Unofficial binaries for Node.js
+https://github.com/nodejs/unofficial-builds/
+
+⚙ D246864 Bug 1953196 - Remove JSMSG_TEMPORAL_CALENDAR_DUPLICATE_FIELD error message. r=dminor!
+https://phabricator.services.mozilla.com/D246864
+
+Browse
+https://bugzilla.mozilla.org/describecomponents.cgi
+
+electron/electron: :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+https://github.com/electron/electron
+
+hikogui/hikogui: Modern accelerated GUI
+https://github.com/hikogui/hikogui
+
+周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV - YouTube
+https://www.youtube.com/watch?v=duZDsG3tvoA&list=RDngDadzs4Q1w&index=27
+
+chinese-poetry/chinese-poetry: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+https://github.com/chinese-poetry/chinese-poetry
+
+Issues · tc39/test262
+https://github.com/tc39/test262/issues
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Following — Bluesky
+https://bsky.app/
+
+src,lib,test: unflag --experimental-webstorage by default by danielmbrasil · Pull Request #57666 · nodejs/node
+https://github.com/nodejs/node/pull/57666/files
+
+megotannal - Twitch
+https://www.twitch.tv/megotannal
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Office Hours 2025-05-01 - Google 文档
+https://docs.google.com/document/d/1cg8-e06s6qvgQukwMnrDXo1AYFthczmhXQE701JWc6k/edit?tab=t.0#heading=h.evjimzdnrevx
+
+linebender repositories
+https://github.com/orgs/linebender/repositories
+
+color/color/src/dynamic.rs at main · linebender/color
+https://github.com/linebender/color/blob/main/color/src/dynamic.rs
+
+Implement `font-feature-settings` and `font-variation-settings` properties · Issue #184 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/184
+
+limetext/lime: Open source API-compatible alternative to the text editor Sublime Text
+https://github.com/limetext/lime
+
+LimeText
+https://github.com/limetext
+
+Issues · rust-windowing/winit
+https://github.com/rust-windowing/winit/issues
+
+tannal (tannal)
+https://github.com/tannal
+
+林俊傑 JJ Lin / G.E.M. 鄧紫棋 - 《手心的薔薇》 Beautiful - JJ20 現場版 Live in Beijing - YouTube
+https://www.youtube.com/watch?v=eQQJDuOIQHE&list=RDI53vTEeBhxY&index=14
+
+Curve curve intersection tylers by tylers-epilog · Pull Request #219 · linebender/kurbo
+https://github.com/linebender/kurbo/pull/219
+
+tannal (tannal)
+https://github.com/tannal?tab=repositories
 
 # 2025-04-28
 
