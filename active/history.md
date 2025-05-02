@@ -1,6 +1,81 @@
 
 # 2025-05-02
 
+megotannal - Twitch
+https://www.twitch.tv/megotannal
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+two-heart (two-heart) / Repositories
+https://github.com/two-heart?tab=repositories
+
+Enabling JavaScript Expressions for Debugging WebAssembly - Google 文档
+https://docs.google.com/document/d/1VZOJrU2VsqOZe3IUzbwQWQQSZwgGySsm5119Ust1gUA/edit?tab=t.0#heading=h.7nki9mck5t64
+
+ANGLE Development
+https://chromium.googlesource.com/angle/angle/+/HEAD/doc/DevSetup.md
+
+Sparkplug - Google 文档
+https://docs.google.com/document/d/13c-xXmFOMcpUQNqo66XWQt3u46TsBjXrHrh4c045l-A/edit?tab=t.0#heading=h.9ox6fl2vbsow
+
+gfx-rs/wgpu: A cross-platform, safe, pure-Rust graphics API.
+https://github.com/gfx-rs/wgpu
+
+xorgy/ui-events
+https://github.com/xorgy/ui-events
+
+tannal (tannal)
+https://github.com/tannal
+
+Module Pattern - A Tour of JavaScript & React Patterns | Frontend Masters
+https://frontendmasters.com/courses/tour-js-patterns/module-pattern/
+
+frontendmasters student - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=frontendmasters+student
+
+Server & Client Components - Intermediate React, v6 | Frontend Masters
+https://frontendmasters.com/courses/intermediate-react-v6/server-client-components/
+
+btholt (Brian Holt)
+https://github.com/btholt
+
+Following — Bluesky
+https://bsky.app/
+
+Client-Side React – Intermediate React v6
+https://intermediate-react-v6.holt.courses/lessons/react-render-modes/client-side-react
+
+tannal (tannal)
+https://github.com/tannal
+
+Owl City & Carly Rae Jepsen - Good Time (Official Video) - YouTube
+https://www.youtube.com/watch?v=H7HmzwI67ec&list=RDVT1-sitWRtY&index=21
+
+SGI nvidia - Google 搜索
+https://www.google.com.hk/search?q=SGI+nvidia&newwindow=1&client=ubuntu-sn&hs=yfW&sca_esv=3f7130ea1a77a2bb&channel=fs&ei=yo4UaO-oAfn_1e8PsNbx6AM&ved=0ahUKEwjvtaj-uoSNAxX5f_UHHTBrHD0Q4dUDCBA&uact=5&oq=SGI+nvidia&gs_lp=Egxnd3Mtd2l6LXNlcnAiClNHSSBudmlkaWEyCRAAGIAEGBMYDTIIEAAYExgIGB4yCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyCBAAGBMYChgeSPupAlDnmwJYxKgCcAF4ApABAJgBkQSgAdQRqgEFNC00LjG4AQPIAQD4AQGYAgegAowSwgIEEAAYR8ICChAAGLADGNYEGEfCAgUQABiABMICChAAGIAEGEMYigXCAgcQABiABBgTwgIIEAAYExgMGB6YAwCIBgGQBgqSBwUyLjQtNaAH5QuyBwM0LTW4B4QS&sclient=gws-wiz-serp
+
+Silicon Graphics - Wikipedia
+https://en.wikipedia.org/wiki/Silicon_Graphics
+
+I believe nVidia was started with a lot of SGI's core technology ; not "I have a... | Hacker News
+https://news.ycombinator.com/item?id=39945487
+
+Chris Donahue
+https://chrisdonahue.com/
+
+Wu2025CodecLMCodesign.pdf
+https://chrisdonahue.com/Wu2025CodecLMCodesign.pdf
+
+chrisdonahue (Chris Donahue)
+https://github.com/chrisdonahue
+
+Following — Bluesky
+https://bsky.app/
+
+YouTube
+https://www.youtube.com/
+
 Google Meet
 https://meet.google.com/landing
 
