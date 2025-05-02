@@ -1,6 +1,13 @@
 
 # 2025-05-02
 
+学术界看大学开什么专业，老师开什么课，发什么论文
+工业界看公司出什么产品，招什么人
+其他看社交媒体就行
+想看的远一点看看资本家投资方向
+理解世界如此简单
+
+
 研究 工程 商业化
 
 Salary is viewed as a retention tool from the company's perspective
