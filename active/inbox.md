@@ -1,6 +1,13 @@
 
 # 2025-05-02
 
+有人认为 Nvidia 的创始技术很大程度上来自 SGI，甚至有“技术转移”的嫌疑，SGI 曾起诉但未深究。
+SGI 在 90 年代有两大图形架构（RealityEngine 和 InfiniteReality），之后创新乏力，最终在 2000 年代初破产。
+SGI 曾有革命性的“Bali”项目（下一代高端图形架构），但因资金问题被砍，团队成员后来去了 Nvidia、ATI 等公司。
+SGI 在好莱坞特效、NUMA 架构、多处理器服务器等领域有重大贡献，还捐赠了 XFS 文件系统给 Linux。
+讨论还涉及 Cisco 的起源（据说直接“拿”了斯坦福大学的计算机技术），以及 SGI、Nvidia 之间的诉讼。
+有人提到 Nvidia 名字中的 N 和 V 代表“New Version” of SGI firmware（未经证实的说法）。
+
 curl -fsSL https://fnm.vercel.app/install | bash
 
 Andrew Viterbi
