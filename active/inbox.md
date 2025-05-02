@@ -1,6 +1,8 @@
 
 # 2025-05-02
 
+curl -fsSL https://fnm.vercel.app/install | bash
+
 Andrew Viterbi
 
 学术界看大学开什么专业，老师开什么课，发什么论文

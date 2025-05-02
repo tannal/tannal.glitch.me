@@ -1,6 +1,150 @@
 
 # 2025-05-02
 
+Google Meet
+https://meet.google.com/landing
+
+tannal (tannal)
+https://github.com/tannal
+
+joyeecheung (joyeecheung) / Repositories
+https://github.com/joyeecheung?tab=repositories
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+The cite element: HeydonWorks
+https://heydonworks.com/article/the-cite-element/
+
+Andrej Karpathy on X: "I attended a vibe coding hackathon recently and used the chance to build a web app (with auth, payments, deploy, etc.). I tinker but I am not a web dev by background, so besides the app, I was very interested in what it's like to vibe code a full web app today. As such, I wrote https://t.co/Y7F2N2PDp6" / X
+https://x.com/karpathy/status/1917961248031080455
+
+MenuGen - AI Menu Image Generator
+https://www.menugen.app/
+
+Computer History Museum - YouTube
+https://www.youtube.com/@ComputerHistory/videos
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Kayvon Fatahalian - YouTube
+https://www.youtube.com/@kayvonfatahalian8424
+
+YouTube
+https://www.youtube.com/
+
+Chuck Geschke - Google 搜索
+https://www.google.com.hk/search?q=Chuck+Geschke&oq=Chuck+Geschke&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Chuck Geschke: The Adobe Story - YouTube
+https://www.youtube.com/watch?v=apHqb0V3VAM
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Advice from a Netscape Lottery Winner - Claude
+https://claude.ai/chat/5fb49d2a-4762-418a-9712-33ee4fa231ee
+
+YouTube
+https://www.youtube.com/
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues
+
+Office Hours 2025-05-01 - Google 文档
+https://docs.google.com/document/d/1cg8-e06s6qvgQukwMnrDXo1AYFthczmhXQE701JWc6k/edit?tab=t.0
+
+hi, I'm newer for xilem, when I run example rs file, error occur · Issue #934 · linebender/xilem
+https://github.com/linebender/xilem/issues/934
+
+Office Hours 2025-05-01 - Google 文档
+https://docs.google.com/document/d/1cg8-e06s6qvgQukwMnrDXo1AYFthczmhXQE701JWc6k/edit?tab=t.0
+
+rustdesk (RustDesk)
+https://github.com/rustdesk
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+Issues · DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus/issues
+
+Repo Issues
+https://github.com/typst/typst/issues?page=3
+
+Typst (@typst.app) — Bluesky
+https://bsky.app/profile/typst.app
+
+Work at Typst
+https://typst.app/jobs/
+
+mediar-ai/ui-events: Library to stream operating system events to AI
+https://github.com/mediar-ai/ui-events
+
+compose region android - Google 搜索
+https://www.google.com.hk/search?q=compose+region+android&oq=compose+region+android&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgFGB4yCAgCEAAYBRgeMggIAxAAGAUYHjIICAQQABgFGB4yCggFEAAYCBgKGB4yCAgGEAAYCBgeMgoIBxAAGAgYChgeMgoICBAAGAgYChgeMggICRAAGAgYHtIBCDQ5MjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+linebender week - Google 搜索
+https://www.google.com.hk/search?q=linebender+week&oq=linebender+week&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQzNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+flutter github - Google 搜索
+https://www.google.com.hk/search?q=flutter+github&oq=flutter+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDc4MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+https://github.com/flutter/flutter
+
+dart github - Google 搜索
+https://www.google.com.hk/search?q=dart+github&oq=dart+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDE1OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+dart-lang/sdk: The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+https://github.com/dart-lang/sdk
+
+linebender day - Google 搜索
+https://www.google.com.hk/search?q=linebender+day&oq=linebender+day&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+| Homepage for the Linebender organization
+https://linebender.org/
+
+dfrg/swash: Font introspection, complex text shaping and glyph rendering.
+https://github.com/dfrg/swash
+
+tannal (tannal)
+https://github.com/tannal/
+
+小微企业 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E5%B0%8F%E5%BE%AE%E4%BC%81%E4%B8%9A+bbc&newwindow=1&sca_esv=219e40ae4658da95&ei=PwMUaKHAMoOOvr0PqeaTmQE&ved=0ahUKEwjh29L0tYONAxUDh68BHSnzJBMQ4dUDCBA&uact=5&oq=%E5%B0%8F%E5%BE%AE%E4%BC%81%E4%B8%9A+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOWwj-W-ruS8geS4miBiYmNIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcA&sclient=gws-wiz-serp
+
+996 bbc - Google 搜索
+https://www.google.com.hk/search?q=996+bbc&oq=996+bbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQgyNzAzajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+Home / X
+https://x.com/home
+
+Claude
+https://claude.ai/new
+
+上海市委书记 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0&newwindow=1&sca_esv=9df43f45575a1278&ei=Ji4UaPD1MI3-1e8Pl_nrYQ&oq=%E4%B8%8A%E6%B5%B7%E5%B8%82wei&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOS4iua1t-W4gndlaSoCCAAyDBAAGIAEGAwYRhj7ATIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDINEC4YgAQYxwEYDBivATIHEAAYgAQYDDIYEAAYgAQYDBhGGPsBGJcFGIwFGN0E2AEBSLtXUOMMWLZWcAN4AZABAJgB7gOgAegKqgEDNC0zuAEByAEA-AEBmAIIoAKZhwHCAgoQABiwAxjWBBhHwgIKEAAYgAQYRhj7AcICBRAAGIAEwgILEC4YgAQYxwEYrwHCAhYQABiABBhGGPsBGJcFGIwFGN0E2AEBmAMAiAYBkAYKugYGCAEQARgTkgcJMy40LTMuOS0yoAf5FrIHBzQtMy45LTK4B4GHAQ&sclient=gws-wiz-serp
+
+腾讯棋士 - Google 搜索
+https://www.google.com.hk/search?q=%E8%85%BE%E8%AE%AF%E6%A3%8B%E5%A3%AB&oq=%E8%85%BE%E8%AE%AF%E6%A3%8B%E5%A3%AB&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgoIAhAAGKIEGIkFMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIE0gEIMjk1M2owajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+(1 封私信) 马斯克参加任内最后一场内阁会议，向特朗普内阁告别，马斯克的离开对特朗普内阁意味着什么？有何影响？ - 知乎
+https://www.zhihu.com/question/1901313518239705073/answer/1901440121099781452
+
+(2 封私信) 棋士 - 知乎
+https://www.zhihu.com/topic/29977024/top-answers
+
+(2 封私信) 如何评价电视剧《棋士》大结局？ - 知乎
+https://www.zhihu.com/question/1890905459835256917/answers/updated
+
+东北师范大学 腾继波_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E4%B8%9C%E5%8C%97%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%20%E8%85%BE%E7%BB%A7%E6%B3%A2&fenlei=256&rsv_pq=0xe357b50800126455&rsv_t=b801H9Q%2FigZlLXR5rQ8lWc7BYkUyF%2FX4NKFVfvXb0ht1OnhAA7crwQENvHXz&rqlang=en&rsv_dl=tb&rsv_enter=1&rsv_n=2&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&rsv_btype=i&prefixsug=%25E4%25B8%259C%25E5%258C%2597%25E5%25B8%2588%25E8%258C%2583%25E5%25A4%25A7%25E5%25AD%25A6%2520%25E8%2585%25BE%25E7%25BB%25A7%25E6%25B3%25A2&rsp=0&inputT=528&rsv_sug4=528
+
+党委介绍-东北师范大学信息科学与技术学院
+https://ist.nenu.edu.cn/dqgz/dwjs.htm
+
 megotannal - Twitch
 https://www.twitch.tv/megotannal
 
