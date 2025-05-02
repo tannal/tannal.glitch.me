@@ -1,4 +1,84 @@
 
+# 2025-05-02
+
+megotannal - Twitch
+https://www.twitch.tv/megotannal
+
+Timothy Gowers: "Today I have received by email: one disproof of the Riemann hypothesis, one proof that P =/= NP, one proof of the Riemann hypothesis, and one proof that Peano arithmetic is inconsistent (which follows from the two Riemann hypothesis papers, but this was an independent discovery)." — Bluesky
+https://bsky.app/profile/wtgowers.bsky.social/post/3lo5awnsoqc2r
+
+我落泪 情绪零碎 | 周杰伦 嘉年华 世界巡回演唱会 马来西亚站 | 2023 - YouTube
+https://www.youtube.com/watch?v=XFLyMsEzakU&list=RDI53vTEeBhxY&index=22
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Following — Bluesky
+https://bsky.app/
+
+Simon Willison’s Weblog
+https://simonwillison.net/
+
+Making PyPI's test suite 81% faster - The Trail of Bits Blog
+https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/
+
+Pull requests · mwcampbell/android-view
+https://github.com/mwcampbell/android-view/pulls
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Dev47Apps
+https://github.com/dev47apps
+
+Andrej Karpathy - YouTube
+https://www.youtube.com/@AndrejKarpathy/featured
+
+Renderer office hours - 2025/04/30 12:59 PDT - Transcript - Google 文档
+https://docs.google.com/document/d/1sVi078s-02AXVtJs89mqYFi-rExhdlrAN94Py51hMJo/edit?tab=t.0
+
+xkcd: Code Lifespan
+https://xkcd.com/2730/
+
+rpg maker github - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=rpg+maker+github
+
+Jobs \ Anthropic
+https://www.anthropic.com/jobs
+
+Job Application for Research Engineer, Pre-training at Anthropic
+https://job-boards.greenhouse.io/anthropic/jobs/4074964008
+
+A robust initialization scheme for the Remez exchange algorithm | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/document/1172817
+
+Repo Issues
+https://github.com/zulip/zulip/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22
+
+Home / X
+https://x.com/home
+
+Claude
+https://claude.ai/share/273dadf7-b060-422d-b2b6-4f436d537136
+
+MCP - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=MCP+
+
+提示库 - Anthropic
+https://docs.anthropic.com/zh-CN/prompt-library/library
+
+NHK for School
+https://www.nhk.or.jp/school/
+
+ChatGGG
+http://192.168.43.1:8080/
+
+AI Engineer Worlds Fair 2025 - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=AI+Engineer+Worlds+Fair+2025
+
+AI Engineer World's Fair
+https://www.ai.engineer/
+
 # 2025-05-01
 
 收件箱 - tannal2409@gmail.com - Gmail
