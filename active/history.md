@@ -1,4 +1,75 @@
 
+# 2025-05-03
+
+megotannal's Videos - Twitch
+https://www.twitch.tv/megotannal/videos
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Avril Lavigne - Wish You Were Here (Official Video) - YouTube
+https://www.youtube.com/watch?v=VT1-sitWRtY
+
+sphaerophoria - YouTube
+https://www.youtube.com/@sphaerophoria/featured
+
+Home / X
+https://x.com/home
+
+Node.js Core Mentoring 2.3! - YouTube
+https://www.youtube.com/watch?v=Se9ulGkCcAg
+
+Notifications — Bluesky
+https://bsky.app/notifications
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+LLVM
+https://github.com/llvm
+
+Hide channel name in topic header bars when it appears in the navbar · Issue #34480 · zulip/zulip
+https://github.com/zulip/zulip/issues/34480
+
+Anysphere
+https://anysphere.inc/careers/researcher
+
+Home / X
+https://x.com/home
+
+Documentation for Visual Studio Code
+https://code.visualstudio.com/docs/?dv=linux64_deb
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+Node.js Core Mentoring 2.3! - YouTube
+https://www.youtube.com/watch?v=Se9ulGkCcAg&t=1103s
+
+GitHub
+https://github.com/
+
+Introduction - My Dev Setup Is Better Than Yours | Frontend Masters
+https://frontendmasters.com/courses/developer-productivity-v2/introduction/
+
+sgi是什么 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&client=ubuntu-sn&hs=mrj&sca_esv=032488618a09524f&channel=fs&q=sgi%E6%98%AF%E4%BB%80%E4%B9%88&sa=X&ved=2ahUKEwjvpJHw94WNAxXOcfUHHT7XGNIQ1QJ6BAhHEAE&biw=1850&bih=968
+
+宝玉的分享
+https://baoyu.io/
+
+Abort Retry Fail | Bradford Morgan White | Substack
+https://www.abortretry.fail/
+
+Home / X
+https://x.com/home
+
+coollabsio/coolify: An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+https://github.com/coollabsio/coolify
+
+The YC Startup Directory | Y Combinator
+https://www.ycombinator.com/companies?batch=X25
+
 # 2025-05-02
 
 Google Meet
