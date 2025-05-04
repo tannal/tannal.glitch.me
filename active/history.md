@@ -1,4 +1,75 @@
 
+# 2025-05-04
+
+Twitch
+https://www.twitch.tv/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Node.js Core Mentoring 2.3! - YouTube
+https://www.youtube.com/watch?v=Se9ulGkCcAg&t=1122s
+
+Catch My Breath - Kelly Clarkson | Alex Goot & Against The Current - YouTube
+https://www.youtube.com/watch?v=cnGMG798SCI
+
+ungoogled-chromium - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=ungoogled-chromium
+
+ungoogled-software
+https://github.com/ungoogled-software
+
+周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=DYptgVvkVLQ&list=RDGMEMPdLDZ-FVVWuzckFEguTm5Q&index=3
+
+Igalia Coding Experience | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/coding-experience/
+
+Installing a Screen Reader - Website Accessibility, v3 | Frontend Masters
+https://frontendmasters.com/courses/accessibility-v3/introduction/
+
+jkup/learn-a11y: A web app for learning web accessibility
+https://github.com/jkup/learn-a11y
+
+Introduction to Accessibility
+https://learn-a11y-v2.netlify.app/
+
+Browser Choice Must Matter - Infrequently Noted
+https://infrequently.org/series/browser-choice-must-matter/
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+agendas/2025/02.md at main · tc39/agendas
+https://github.com/tc39/agendas/blob/main/2025/02.md
+
+GSOC - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=GSOC
+
+virgiling/NENU-Thesis-Typst: NENU-Thesis Template Written by Typst
+https://github.com/virgiling/NENU-Thesis-Typst
+
+Following — Bluesky
+https://bsky.app/
+
+tannal (tannal)
+https://github.com/tannal/
+
+NonVisual Desktop Access github - Google 搜索
+https://www.google.com.hk/search?q=NonVisual+Desktop+Access+github&newwindow=1&client=ubuntu-sn&hs=N95&sca_esv=5e8b7f57e4422f6f&channel=fs&ei=dKMWaPuaKdOHxc8PwtbP0AY&ved=0ahUKEwj7pIz9toiNAxXTQ_EDHULrE2oQ4dUDCBA&uact=5&oq=NonVisual+Desktop+Access+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiH05vblZpc3VhbCBEZXNrdG9wIEFjY2VzcyBnaXRodWIyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSKgOUNYGWPUMcAF4AZABAJgB7QOgAZULqgEDNC0zuAEDyAEA-AEBmAIEoAK6C8ICChAAGLADGNYEGEfCAgcQABiABBgTwgIGEAAYExgewgIIEAAYgAQYogTCAgUQABjvBcICChAAGBMYBRgKGB7CAggQABgTGAUYHpgDAIgGAZAGA5IHBTEuNC0zoAecCrIHAzQtM7gHtAs&sclient=gws-wiz-serp
+
+nvaccess/nvda: NVDA, the free and open source Screen Reader for Microsoft Windows
+https://github.com/nvaccess/nvda
+
+accesskit - Google 搜索
+https://www.google.com.hk/search?client=ubuntu-sn&channel=fs&q=accesskit
+
+accesskit/common/src/lib.rs at main · AccessKit/accesskit
+https://github.com/AccessKit/accesskit/blob/main/common/src/lib.rs
+
+Mego Tan (@megotannal) / X
+https://x.com/megotannal
+
 # 2025-05-03
 
 megotannal's Videos - Twitch
