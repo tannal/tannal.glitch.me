@@ -1,5 +1,12 @@
 
+# 2025-05-16
+
+adb -s device1 pull $(adb -s device1 shell pm path com.android.vending | cut -d ":" -f2) ./GooglePlayStore.apk
+
+adb pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk ./GooglePlayStore.apk
+
 # 2025-05-04
+
 
 小公司/简单架构：主要靠日志、监控、人工经验。
 大公司/复杂架构：全链路追踪、集中日志、自动化监控告警、应急预案、混沌工程等多手段结合。
