@@ -1,6 +1,11 @@
 
 # 2025-05-16
 
+20-30 AI
+30-40 company
+40-50
+50-60
+
 https://github.com/NatronGitHub/Natron
 
 adb -s device1 pull $(adb -s device1 shell pm path com.android.vending | cut -d ":" -f2) ./GooglePlayStore.apk

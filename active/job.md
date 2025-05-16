@@ -542,11 +542,7 @@ zhongqidabian
 # 2025-5-19 - 2025-5-26 春 Socialization
 
 ## Sunday
-
 ## Saturday
-
-[] 2 commits gecko
-
 ## Friday
 ## Thursday
 ## Wednesday
@@ -554,6 +550,14 @@ zhongqidabian
 ## Monday
 
 # 2025-5-12 - 2025-5-19 春 Socialization
+
+## Sunday
+## Saturday
+## Friday
+## Thursday
+## Wednesday
+## Tuesday
+## Monday
 
 # 2025-5-5 - 2025-5-12 春 Socialization
 
@@ -580,16 +584,15 @@ Yes
 
 # 2025-4-14 - 2025-4-21 春 Socialization
 
+
+# 2025-4-7 - 2025-4-14 春 enconomy data week AI self Socialization
+
+[x] wei chi li lv bu bian
+
+# 2025-3-31 - 2025-4-7 春 AI self Socialization
+
 xx
-
-# 2025-4-7 - 2025-4-14 春 enconomy data week Socialization
-
-xx
-
-# 2025-3-31 - 2025-4-7 春 Socialization
-
-xx
-[x] igalia申请 deadline
+[x] igalia申请 deadline no reply
 
 ## Sunday
 ## Saturday

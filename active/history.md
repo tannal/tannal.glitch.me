@@ -1,6 +1,137 @@
 
 # 2025-05-16
 
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+React Native Project Setup - React Native, v3 | Frontend Masters
+https://frontendmasters.com/courses/react-native-v3/react-native-project-setup/
+
+twitter.com
+https://twitter.com/
+
+字节 前端-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%AD%97%E8%8A%82%20%E5%89%8D%E7%AB%AF&type=all&searchType=%E5%8E%86%E5%8F%B2%E6%90%9C%E7%B4%A2
+
+2025春招-字节-前端一、二面_牛客网
+https://www.nowcoder.com/feed/main/detail/b68a6de8c6aa4283bf155d7407b82989?sourceSSR=search
+
+字节-本地服务-前端 面经_牛客网
+https://www.nowcoder.com/discuss/745084418779287552?sourceSSR=dynamic
+
+字节 前端-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%AD%97%E8%8A%82%20%E5%89%8D%E7%AB%AF&type=all&searchType=%E5%8E%86%E5%8F%B2%E6%90%9C%E7%B4%A2
+
+让我们恭喜京东喜得人才_牛客网
+https://www.nowcoder.com/feed/main/detail/7ca91f8889b6453ba86108f2ff305d0e?sourceSSR=search
+
+字节前端日常面经_牛客网
+https://www.nowcoder.com/feed/main/detail/35e2be6f690b450eb8d02ec0ef434509?sourceSSR=search
+
+docs.google.com
+https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit?tab=t.0#heading=h.xzptrog8pyxf
+
+www.google.com
+https://www.google.com/search?q=%E7%8E%8B%E5%9D%9A%E9%99%A2%E5%A3%AB&oq=%E7%8E%8B%E5%9D%9A&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDzSAQg2NDIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Lynx on X: "🚀 Lynx 3.2 is here! This is our first stable release since going open source. It brings: ✅ ReactLynx Testing Library ✅ New features in CSS Grid, list, text ✅ Microtask, console, Rspeedy, DevTool, llms.txt A Thread: https://t.co/i7b9kUwRAj" / X
+https://x.com/LynxJS_org/status/1923102029947289733
+
+V8 Sandbox - High-Level Design Doc - Google 文档
+https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit?tab=t.0#heading=h.xzptrog8pyxf
+
+もらい泣き - Google 搜索
+https://www.google.com/search?q=%E3%82%82%E3%82%89%E3%81%84%E6%B3%A3%E3%81%8D+&sca_esv=9a5e0d52e8e6d667&sxsrf=AHTn8zr6KuTuBt5eCvzLGmFTtPBaNtGkLQ%3A1747400587565&ei=izcnaI-oIvTX1e8Psaq-kAU&ved=0ahUKEwjPmbW6hqiNAxX0a_UHHTGVD1IQ4dUDCBI&uact=5&oq=%E3%82%82%E3%82%89%E3%81%84%E6%B3%A3%E3%81%8D+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOOCguOCieOBhOazo-OBjSAyBBAjGCcyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSPMjUJEBWKIicAN4AZABAJgBugWgAfMMqgEHMy0xLjAuMrgBA8gBAPgBAZgCBaACzwfCAgoQABiwAxjWBBhHwgIIEAAYgAQYogTCAgUQABjvBZgDAIgGAZAGB5IHBzMuMy0xLjGgB_UKsgcFMy0xLjG4B8MH&sclient=gws-wiz-serp
+
+Introducing the Model Context Protocol \ Anthropic
+https://www.anthropic.com/news/model-context-protocol
+
+openai chrome - Google 搜索
+https://www.google.com/search?q=openai+chrome&oq=openai+chrome&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIyOTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+OpenAI wants to buy Chrome and make it an "AI-first" experience | Hacker News
+https://news.ycombinator.com/item?id=43770312
+
+Matt Pocock on X: "I wrote a book on TypeScript. It took 9 months of my life. And I gave it away for free. https://t.co/BQFemeqRT8" / X
+https://x.com/mattpocockuk/status/1922996477254582304
+
+IDE Superpowers | Total TypeScript
+https://www.totaltypescript.com/books/total-typescript-essentials/ide-superpowers
+
+国务院 - Google 搜索
+https://www.google.com/search?sca_esv=9a5e0d52e8e6d667&sxsrf=AHTn8zreAsCCOcDOjy4VYF_uJtaUYd0T4g:1747401728208&q=%E5%9B%BD%E5%8A%A1%E9%99%A2&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwjVu6jaiqiNAxWqhlYBHYuEMTUQt8YBKAF6BAhoEAM&biw=1536&bih=695&dpr=1.25
+
+国务院办公厅关于印发《国务院2025年度立法工作计划》的通知
+https://www.mee.gov.cn/zcwj/gwywj/202505/t20250516_1119545.shtml
+
+李强在做强国内大循环工作推进会上强调 把做强国内大循环作为推动经济行稳致远的战略之举 丁薛祥主持会议__中国政府网
+https://www.gov.cn/yaowen/liebiao/202505/content_7023898.htm
+
+丁薛祥 - Google 搜索
+https://www.google.com/search?q=%E4%B8%81%E8%96%9B%E7%A5%A5&oq=%E4%B8%81%E8%96%9B%E7%A5%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+中纪委 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E7%BA%AA%E5%A7%94&oq=%E4%B8%AD%E7%BA%AA%E5%A7%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExNjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中华人民共和国国家发展和改革委员会
+https://www.ndrc.gov.cn/
+
+ACEStep
+https://github.com/ace-step
+
+ACE-Step: A Step Towards Music Generation Foundation Model
+https://ace-step.github.io/
+
+红米笔记本按一下黑一次屏幕 - Google 搜索
+https://www.google.com/search?q=%E7%BA%A2%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%8C%89%E4%B8%80%E4%B8%8B%E9%BB%91%E4%B8%80%E6%AC%A1%E5%B1%8F%E5%B9%95&oq=%E7%BA%A2%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC%E6%8C%89%E4%B8%80%E4%B8%8B%E9%BB%91%E4%B8%80%E6%AC%A1%E5%B1%8F%E5%B9%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDg3ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+NatronGitHub/Natron: Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
+https://github.com/NatronGitHub/Natron
+
+YouTube
+https://www.youtube.com/
+
+2024 年全球十大视觉效果 (VFX) 公司
+https://www.globalgrowthinsights.com/zh/blog/visual-effects-vfx-companies-207
+
+StageCraft - Google 搜索
+https://www.google.com/search?q=StageCraft&oq=StageCraft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Industrial Light - Google 搜索
+https://www.google.com/search?q=Industrial+Light&oq=Industrial+Light&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzExNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Visual Effects + | Wētā FX
+https://www.wetafx.co.nz/
+
+Maya - Google 搜索
+https://www.google.com/search?q=Maya&oq=Maya&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMTcyajBqOagCALACAQ&sourceid=chrome&ie=UTF-8
+
+Kitsu - Google 搜索
+https://www.google.com/search?q=Kitsu&oq=Kitsu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+PlayCanvas WebGL Game Engine
+https://playcanvas.com/
+
+ComfyUI | 用AI生成视频、图像、音频
+https://www.comfy.org/zh-cn/
+
+comfyanonymous/ComfyUI: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+https://github.com/comfyanonymous/ComfyUI
+
+AnimateDiff
+https://animatediff.github.io/
+
+guoyww/AnimateDiff: Official implementation of AnimateDiff.
+https://github.com/guoyww/animatediff/
+
+王坚（中国工程院院士，云计算技术专家，之江实验室主任，阿里巴巴集团技术委员会主席）_百度百科
+https://baike.baidu.com/item/%E7%8E%8B%E5%9D%9A/8451588
 
 # 2025-05-04
 
