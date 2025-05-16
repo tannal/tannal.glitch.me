@@ -1,6 +1,8 @@
 
 # 2025-05-16
 
+https://github.com/NatronGitHub/Natron
+
 adb -s device1 pull $(adb -s device1 shell pm path com.android.vending | cut -d ":" -f2) ./GooglePlayStore.apk
 
 adb pull /data/app/~~sLD0iaM6AGhtXJVVZ8qY9Q==/com.android.vending-gMMx523zKFMc2O50KsVZew==/base.apk ./GooglePlayStore.apk
