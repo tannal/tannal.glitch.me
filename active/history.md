@@ -1,6 +1,132 @@
 
 # 2025-05-17
 
+V8 Sandbox - High-Level Design Doc - Google 文档
+https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit?pli=1&tab=t.0#heading=h.xzptrog8pyxf
+
+收件箱 - 19196015861edge@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+r7 6800h vs i7 1165g7 - Google 搜索
+https://www.google.com.hk/search?q=r7+6800h+vs+i7+1165g7&sca_esv=df2587edbf333377&biw=1454&bih=786&sxsrf=AHTn8zqnHAywK2-GRHuDMzcqtuKSU7F_lQ%3A1747408515268&ei=g1YnaP6KEM6pvr0P0PmswQM&ved=0ahUKEwi-2NH-o6iNAxXOlK8BHdA8KzgQ4dUDCBA&uact=5&oq=r7+6800h+vs+i7+1165g7&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXI3IDY4MDBoIHZzIGk3IDExNjVnNzIGEAAYCBgeMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wVIh0pQ4QNY-EdwAXgBkAEBmAGADKABiE2qAQ8yLTIuMC40LjIuMy4yLjG4AQPIAQD4AQGYAg6gAqVCwgIKEAAYsAMY1gQYR8ICChAjGIAEGCcYigXCAggQABiABBjLAcICChAAGIAEGEMYigXCAgUQABiABMICBBAAGB7CAgYQABgFGB6YAwCIBgGQBgqSBw8xLjAuMi4wLjUuMi4zLjGgB_cpsgcNMi0yLjAuNS4yLjMuMbgHoUI&sclient=gws-wiz-serp
+
+UserBenchmark: AMD Ryzen 7 6800H vs Intel Core i7-1165G7
+https://cpu.userbenchmark.com/Compare/Intel-Core-i7-1165G7-vs-AMD-Ryzen-7-6800H/m1195374vsm1786492
+
+收件箱 - 19196015861edge@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+大环境不好 - Google 搜索
+https://www.google.com.hk/search?q=%E5%A4%A7%E7%8E%AF%E5%A2%83%E4%B8%8D%E5%A5%BD&newwindow=1&sca_esv=e34318f18f884edb&ei=CdInaP2XA6XgkPIP7LWD0AI&ved=0ahUKEwi9wIrlmamNAxUlMEQIHezaACoQ4dUDCBA&uact=5&oq=%E5%A4%A7%E7%8E%AF%E5%A2%83%E4%B8%8D%E5%A5%BD&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIg_lpKfnjq_looPkuI3lpb0yCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMgUQABjvBUipG1CsBFiuGXADeAGQAQGYAdgEoAGMGKoBCTItMy40LjEuMbgBA8gBAPgBAZgCC6ACxRWoAgrCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIFEC4YgATCAg4QLhiABBikAxioAxiLA8ICERAuGIAEGNQCGKgDGIsDGJwDwgIIEAAYgAQYiwPCAh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAcICGhAAGIAEGLQCGOUCGLcDGIoFGOoCGIoD2AEBwgILEC4YgAQY0QMYxwHCAhoQLhiABBjRAxjSAximAxjHARj4BRioAxiLA8ICDhAAGIAEGKYDGKgDGIsDwgIIEC4YgAQY1ALCAikQLhiABBjRAxjSAximAxjHARj4BRioAxiLAxiXBRjcBBjeBBjgBNgBAsICFBAuGIAEGJcFGNwEGN4EGOAE2AECmAMI8QWObyB2ekuxTIgGAZAGCroGBAgBGAe6BgYIAhABGBSSBwszLjAuMi41LjAuMaAHr0yyBwkyLTIuNS4wLjG4B6wV&sclient=gws-wiz-serp
+
+创下多个"第一次"的民营经济促进法,有这些重要信息!_政策解读_中国政府网
+https://www.gov.cn/zhengce/202505/content_7022952.htm
+
+中国政府网_中央人民政府门户网站
+https://www.gov.cn/
+
+2025 反腐 维基百科 - Google 搜索
+https://www.google.com.hk/search?q=2025+%E5%8F%8D%E8%85%90+%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91&newwindow=1&sca_esv=e34318f18f884edb&ei=ZNInaKX0ApnLkPIPuM8U&ved=0ahUKEwiltryQmqmNAxWZJUQIHbgnBQAQ4dUDCBA&uact=5&oq=2025+%E5%8F%8D%E8%85%90+%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiGDIwMjUg5Y-N6IWQIOe7tOWfuueZvuenkTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSKEbULEEWIcacAF4AJABAJgB1wKgAcsWqgEFMi02LjS4AQPIAQD4AQGYAgqgAuoWwgIEEAAYHsICBhAAGAoYHsICBhAAGAgYHpgDAIgGAZIHBTItNi40oAf5D7IHBTItNi40uAfqFg&sclient=gws-wiz-serp
+
+zulip/zulip-flutter: Upcoming Zulip mobile apps for Android and iOS, using Flutter
+https://github.com/zulip/zulip-flutter
+
+zulip/zulip-flutter: Upcoming Zulip mobile apps for Android and iOS, using Flutter
+https://github.com/zulip/zulip-flutter
+
+V2EX
+https://global.v2ex.com/
+
+今天更新到了 cursor 0.5，前段时间天刚买的 1 年订阅后悔了 - V2EX
+https://global.v2ex.com/t/1131847#reply87
+
+抖音-记录美好生活
+https://www.douyin.com/?enter_recommend_method=item_non_existent_recommend_auto&page_url=https%3A%2F%2Fwww.douyin.com%2Fvideo%2F7414729538988526863&vid=7493107996038417673&recommend=1
+
+已经不在某公司不当移动端开发了，能不能开源整个项目的代码 - V2EX
+https://global.v2ex.com/t/1132264#reply18
+
+微软输入法 简体繁体 - Google 搜索
+https://www.google.com.hk/search?q=%E5%BE%AE%E8%BD%AF%E8%BE%93%E5%85%A5%E6%B3%95+%E7%AE%80%E4%BD%93%E7%B9%81%E4%BD%93&newwindow=1&sca_esv=fbea46e08ac0bf74&ei=sd0naMvCM5nfkPIP7J6r8Qc&ved=0ahUKEwiL36v0pKmNAxWZL0QIHWzPKn4Q4dUDCBA&uact=5&oq=%E5%BE%AE%E8%BD%AF%E8%BE%93%E5%85%A5%E6%B3%95+%E7%AE%80%E4%BD%93%E7%B9%81%E4%BD%93&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhzlvq7ova_ovpPlhaXms5Ug566A5L2T57mB5L2TSOIuUABY2y1wAHgBkAEAmAGEA6ABoECqAQcyLTE0LjEzuAEDyAEA-AEBmAIPoALtI8ICBxAAGIAEGAzCAgUQABiABMICCxAuGIAEGNEDGMcBwgIIEAAYgAQYiwPCAhoQLhiABBjRAxjHARiXBRjcBBjeBBjgBNgBAcICChAAGIAEGEMYigXCAg0QABiABBhDGIoFGIsDwgIKEAAYgAQYiwMYDMICCBAAGIAEGKIEwgIFEAAY7wWYAwC6BgYIARABGBSSBwUyLTYuOaAH1kmyBwUyLTYuObgH7SM&sclient=gws-wiz-serp
+
+Free users can only use GPT 4.1 or Auto as premium models cursor - Google 搜索
+https://www.google.com.hk/search?q=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models+cursor&newwindow=1&sca_esv=fbea46e08ac0bf74&ei=Q98naPOXJ8n0kPIPpqLokAw&ved=0ahUKEwizxfezpqmNAxVJOkQIHSYRGsIQ4dUDCBA&uact=5&oq=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models+cursor&gs_lp=Egxnd3Mtd2l6LXNlcnAiQEZyZWUgdXNlcnMgY2FuIG9ubHkgdXNlIEdQVCA0LjEgb3IgQXV0byBhcyBwcmVtaXVtIG1vZGVscyBjdXJzb3JI2BlQjQhY7xdwA3gAkAEAmAGDA6AB7w2qAQMzLTW4AQPIAQD4AQGYAgOgAqoFwgIFECEYoAGYAwCIBgGSBwUxLjMtMqAHhQeyBwMzLTK4B6cF&sclient=gws-wiz-serp
+
+[Bug]: Usage premium models bug (Premium models & gpt-4o-mini or cursor-small) · Issue #504 · yeongpin/cursor-free-vip
+https://github.com/yeongpin/cursor-free-vip/issues/504
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/ja/settings
+
+Free users can only use GPT 4.1 or Auto as premium models - Google 搜索
+https://www.google.com.hk/search?q=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models&newwindow=1&sca_esv=7ab5b845bcb4ae81&ei=yt8naP3wLcXckPIPjPOt0AU&ved=0ahUKEwj9_a30pqmNAxVFLkQIHYx5C1oQ4dUDCBA&uact=5&oq=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models&gs_lp=Egxnd3Mtd2l6LXNlcnAiOUZyZWUgdXNlcnMgY2FuIG9ubHkgdXNlIEdQVCA0LjEgb3IgQXV0byBhcyBwcmVtaXVtIG1vZGVsc0i9A1AAWABwAHgAkAEAmAHgAqAB4AKqAQMzLTG4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgB3OyBwC4BwA&sclient=gws-wiz-serp
+
+中国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+bbc&newwindow=1&sca_esv=7ab5b845bcb4ae81&ei=OOInaLCFD8ylkPIP4Ji0oA0&ved=0ahUKEwiwgducqamNAxXMEkQIHWAMDdQQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgDIgrkuK3lm70gYmJjMgcQABiABBgMMgoQABiABBiLAxgMMgcQABiABBgMMgoQABiABBiLAxgMMgcQLhiABBgMMgcQABiABBgMMhYQLhiABBjRAxjSAxjHARioAxiLAxgMMgoQABiABBiLAxgMMg0QLhiABBjRAxjHARgMMgoQABiABBiLAxgMSNUSUPEDWMcRcAF4AJABAJgB-wOgAd4XqgEHMy0yLjQuMbgBA8gBAPgBAZgCBKACgA7CAhAQLhiABBjRAxhDGMcBGIoFwgIKEAAYgAQYQxiKBcICBRAAGIAEwgIFEC4YgATCAgsQLhiABBjRAxjHAcICCBAAGIAEGIsDwgINEAAYgAQYQxiKBRiLA8ICERAuGIAEGJgDGKgDGJoDGIsDwgIREC4YgAQYqAMYmAMYmgMYiwPCAh8QLhiABBjRAxhDGMcBGIoFGJcFGNwEGN4EGOAE2AEBwgIZEC4YgAQY0QMY0gMYQxjHARioAxiKBRiLA5gDAIgGAboGBggBEAEYFJIHBTMtMS4zoAePXLIHBTMtMS4zuAeADg&sclient=gws-wiz-serp
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+贸易战停火90天 - Google 搜索
+https://www.google.com.hk/search?q=%E8%B4%B8%E6%98%93%E6%88%98%E5%81%9C%E7%81%AB90%E5%A4%A9&oq=%E8%B4%B8%E6%98%93%E6%88%98%E5%81%9C%E7%81%AB90%E5%A4%A9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDQyNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+Bluesky
+https://bsky.app/
+
+cursor claude 3.7 sonnet - Google 搜索
+https://www.google.com.hk/search?q=cursor+claude+3.7+sonnet&oq=cursor+claude+3.7+sonnet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgkIAhAAGA0YgAQyCQgDEAAYDRiABDIJCAQQABgNGIAEMgkIBRAAGA0YgAQyCQgGEAAYDRiABDIJCAcQABgNGIAEMgkICBAAGA0YgAQyCAgJEAAYDRge0gEJMTM2OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+休战90天 - Google 搜索
+https://www.google.com.hk/search?q=%E4%BC%91%E6%88%9890%E5%A4%A9&oq=%E4%BC%91%E6%88%9890%E5%A4%A9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQLhjUAhiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQRRg90gEINDMxMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+nvidia nasdaq - Google 搜索
+https://www.google.com.hk/search?q=nvidia+nasdaq&oq=nvidia+nasdaq&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB7SAQgzNjIwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+chinese-poetry
+https://github.com/chinese-poetry
+
+Joyee Cheung (@joyeecheung.bsky.social) — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social
+
+joyeecheung (joyeecheung) / Repositories
+https://github.com/joyeecheung?tab=repositories
+
+tannal (tannal)
+https://github.com/tannal
+
+flutter/packages/flutter/lib/src/rendering/object.dart at master · flutter/flutter
+https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/rendering/object.dart
+
+flutter/packages/flutter_tools/lib/src/android/android_device.dart at a682cf27b2372e1e8f82792316b05b3f6869c81a · flutter/flutter
+https://github.com/flutter/flutter/blob/a682cf27b2372e1e8f82792316b05b3f6869c81a/packages/flutter_tools/lib/src/android/android_device.dart
+
+127.0.0.1:9102/home
+http://127.0.0.1:9102/home
+
+dl.todesk.com
+https://dl.todesk.com/windows/ToDesk_Setup.exe
+
+中国个人所得税数据 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%95%B0%E6%8D%AE&sca_esv=5ea039d3f5929d6f&sxsrf=AHTn8zpn0rYKKxkU3r6KBA6pqk00IwRPFA%3A1747480704827&ei=gHAoaL2jMqu2vr0P6ZyF8AI&ved=0ahUKEwi946b1sKqNAxUrm68BHWlOAS4Q4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%95%B0%E6%8D%AE&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-S4reWbveS4quS6uuaJgOW-l-eojuaVsOaNrjIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIIEAAYgAQYogQyBRAAGO8FSPgIUIkDWIQIcAF4AZABAJgBhgOgAfEJqgEFMi0yLjK4AQPIAQD4AQGYAgSgAtkHwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBzEuMC4xLjKgB8YJsgcFMi0xLjK4B9MH&sclient=gws-wiz-serp
+
+中国中产返贫 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%A7%E8%BF%94%E8%B4%AB&oq=%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%A7%E8%BF%94%E8%B4%AB&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDk0NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Install ToDesk with winget - winstall
+https://winstall.app/apps/Youqu.ToDesk
+
+Export Tabs URLs - Chrome 应用商店
+https://chromewebstore.google.com/detail/export-tabs-urls/jfcmbgcnangoalgpopaakignejjfpcmo
+
 Vanessa Carlton - A Thousand Miles - YouTube
 https://www.youtube.com/watch?v=Cwkej79U3ek
 
