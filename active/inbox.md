@@ -1,6 +1,10 @@
 
 # 2025-05-17
 
+C:\Users\tj\scoop\apps\flutter
+
+https://soft-dev.org/
+
 https://www.unitree.com/cn
 https://www.brainco.cn/#/recruit
 
