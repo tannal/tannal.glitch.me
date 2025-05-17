@@ -1,6 +1,128 @@
 
 # 2025-05-17
 
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Your First View Component with Styles - React Native, v3 | Frontend Masters
+https://frontendmasters.com/courses/react-native-v3/your-first-view-component-with-styles/
+
+linebender/vello: A GPU compute-centric 2D renderer.
+https://github.com/linebender/vello
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+gfxcourses.stanford.edu/cs348k/spring24
+https://gfxcourses.stanford.edu/cs348k/spring24
+
+Visual Computing Systems Course at Stanford - Claude
+https://claude.ai/chat/4cfc6e51-38c0-4c56-a02c-9e33494b5e10
+
+Free users can only use GPT 4.1 or Auto as premium models - Google 搜索
+https://www.google.com.hk/search?q=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models&oq=Free+users+can+only+use+GPT+4.1+or+Auto+as+premium+models&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+trae - Google 搜索
+https://www.google.com.hk/search?q=trae&oq=trae&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGD3SAQgxNjI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+cursor architecture - Google 搜索
+https://www.google.com.hk/search?q=cursor+architecture&newwindow=1&sca_esv=33c4d8605a0bf807&ei=v_gnaMK9FPrHkPIPg_S-2AM&oq=cursor+archi&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGN1cnNvciBhcmNoaSoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgYQABgFGB4yBhAAGAUYHjIGEAAYBRgeMgYQABgIGB4yBhAAGAgYHkjQLVDpAljyJXABeAGQAQCYAeMNoAHLHKoBCTMtNC4xLjgtMbgBA8gBAPgBAZgCB6AC8RzCAgoQABiwAxjWBBhHwgIKEAAYgAQYQxiKBcICBxAAGIAEGAzCAgYQABgKGB7CAggQABgFGAoYHpgDAIgGAZAGCpIHCzEuMy0yLjMuNy0xoAfwELIHCTMtMi4zLjctMbgH7BzCBwUwLjEuNsgHHw&sclient=gws-wiz-serp
+
+Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447 : r/lexfridman
+https://www.reddit.com/r/lexfridman/comments/1fxorlk/cursor_team_future_of_programming_with_ai_lex/
+
+Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447 - YouTube
+https://www.youtube.com/watch?v=oFfVt3S51T4
+
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+Home / X
+https://x.com/home
+
+Coffee Compiler Club, 2025_05_16 - YouTube
+https://www.youtube.com/watch?v=LKJTuMMiEbE
+
+CCC 16/May/2025 - Google 文档
+https://docs.google.com/document/d/1HH0wUtuOSOqDuSSiymvTKqEr58Ox0NSO3sBa-FAYnTo/edit?pli=1&tab=t.0
+
+YouTube
+https://www.youtube.com/
+
+Issues · karpathy/llm.c
+https://github.com/karpathy/llm.c/issues
+
+Poe
+https://poe.com/
+
+ACTIVISION - Google 搜索
+https://www.google.com.hk/search?q=ACTIVISION&oq=ACTIVISION&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译] | 宝玉的分享
+https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics
+
+Home / X
+https://x.com/home
+
+Node.js Core Mentoring - YouTube
+https://www.youtube.com/watch?v=mpJzP4ja05U
+
+中国 人工智能 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&oq=%E4%B8%AD%E5%9B%BD+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU4NTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+cursor - Google 搜索
+https://www.google.com/search?q=cursor&oq=cursor+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgwIAhAjGCcYgAQYigUyBggDECMYJzIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjg5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm?tab=readme-ov-file
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+Settings | Cursor - The AI Code Editor
+https://www.cursor.com/ja/settings
+
+Auth | Cursor - The AI Code Editor
+https://www.cursor.com/ja/loginDeepPage
+
+adobe illustrator 破解 - Google 搜索
+https://www.google.com/search?q=adobe+illustrator+%E7%A0%B4%E8%A7%A3&oq=adobe+illustrator+%E7%A0%B4%E8%A7%A3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDUxNDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+多协议接入框架 xRPC 细节前瞻 | Apache APISIX® -- Cloud-Native API Gateway and AI Gateway
+https://apisix.apache.org/zh/blog/2022/01/21/apisix-xrpc-details-and-miltilingual/
+
+bluesky-social/atproto: Social networking technology created by Bluesky
+https://github.com/bluesky-social/atproto
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm?tab=readme-ov-file
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+Infilling by Language Modeling
+https://chrisdonahue.com/ilm/
+
+ILM Demo Server.ipynb - Colab
+https://colab.research.google.com/drive/1xamszyr-hpEZ-0wvkgcaUF9y_jY38J--#forceEdit=true&sandboxMode=true
+
+Account security
+https://github.com/settings/security?type=app#two-factor-summary
+
+react-native/packages/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManager.java at ba092bfaba9f9e1079cba2be74083972195d44aa · facebook/react-native
+https://github.com/facebook/react-native/blob/ba092bfaba9f9e1079cba2be74083972195d44aa/packages/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManager.java#L45
 
 
 # 2025-05-16
