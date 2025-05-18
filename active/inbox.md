@@ -1,4 +1,9 @@
 
+# 2025-05-18
+
+Compare-Object -ReferenceObject (Get-Content -Path reports\weekly\2024\2024-05-18.typ) -DifferenceObject (Get-Content -Path reports\weekly\2024\2024-04-26.typ)
+Compare-Object -ReferenceObject (Get-Content -Path reports\weekly\2024\2024-05-18.typ) -DifferenceObject (Get-Content -Path reports\weekly\2024\2024-04-26.typ) -IncludeEqual -PassThru
+
 # 2025-05-17
 
 Bug 1951706 - Add JSMSG_TEMPORAL_TIMEZONE_INSTANT_AMBIGUOUS_DATE_SKIPPED error message; r=dminor!
