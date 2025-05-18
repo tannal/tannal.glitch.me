@@ -1,6 +1,227 @@
 
 # 2025-05-18
 
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+UCB CS294-113: Virtual Machines and Managed Runtimes
+https://www.wolczko.com/CS294/index.html
+
+Ben Titzer - Software and Societal Systems Department - School of Computer Science - Carnegie Mellon University
+https://s3d.cmu.edu/people/core-faculty/titzer-ben.html
+
+OOVM 2002
+https://web.archive.org/web/20080305035237/http://www.daimi.au.dk/~ups/OOVM/
+
+Wayback Machine
+https://web.archive.org/web/20061221205632/http://www.daimi.au.dk/~ups/OOVM/slides/14-2-2002.pdf
+
+Wayback Machine
+https://web.archive.org/web/20061221205501/http://www.daimi.au.dk/~ups/OOVM/slides/7-2-2002.pdf
+
+Ben Titzer - Software and Societal Systems Department - School of Computer Science - Carnegie Mellon University
+https://s3d.cmu.edu/people/core-faculty/titzer-ben.html
+
+Maxine: An approachable virtual machine for, and in, java: ACM Transactions on Architecture and Code Optimization: Vol 9, No 4
+https://dl.acm.org/doi/10.1145/2400682.2400689
+
+icommons.harvard.edu
+https://isites.harvard.edu/icb/icb.do?keyword=k105703
+
+Software Development Team: Talks
+https://soft-dev.org/talks/
+
+Software Development Team: Publications
+https://soft-dev.org/pubs/
+
+Garbage Collection for Rust: The Finalizer Frontier
+https://arxiv.org/pdf/2504.01841
+
+How Can An Existing Language Implementation Be (semi-)Automatically Sped Up?
+https://soft-dev.org/talks/2022/shopify.pdf
+
+Software Development Team: Welcome
+https://soft-dev.org/
+
+Gregor Richards
+https://the.gregor.institute/#two
+
+Phil McGachey (@PhilMcGachey) / X
+https://x.com/PhilMcGachey
+
+SPEC - Standard Performance Evaluation Corporation
+https://www.spec.org/
+
+Home / X
+https://x.com/home
+
+. GUTS - YouTube
+https://www.youtube.com/@sysprog/videos
+
+bjorn3
+https://github.com/bjorn3
+
+bjorn3
+https://bjorn3.github.io/
+
+Claude
+https://claude.ai/new
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+维克多·弗兰克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BB%B4%E5%85%8B%E5%A4%9A%C2%B7%E5%BC%97%E5%85%B0%E5%85%8B
+
+活出意义来 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B4%BB%E5%87%BA%E6%84%8F%E7%BE%A9%E4%BE%86
+
+弗里德里希·尼采 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87
+
+维克多·弗兰克 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BB%B4%E5%85%8B%E5%A4%9A%C2%B7%E5%BC%97%E5%85%B0%E5%85%8B
+
+Edward Deci - Google 搜索
+https://www.google.com/search?q=Edward+Deci&oq=Edward+Deci&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Richard M. Ryan - Wikipedia
+https://en.wikipedia.org/wiki/Richard_M._Ryan
+
+high layer structure decided by base - Google 搜索
+https://www.google.com/search?q=high+layer+structure+decided+by+base&oq=high+layer+structure+decided+by+base&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTEzMjA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+山东大学学伴制度争议 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%BC%B4%E5%88%B6%E5%BA%A6%E4%BA%89%E8%AE%AE
+
+中华人民共和国外国留学生特权问题 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%89%B9%E6%9D%83%E9%97%AE%E9%A2%98
+
+学阀 - Google 搜索
+https://www.google.com/search?q=%E5%AD%A6%E9%98%80&oq=%E5%AD%A6%E9%98%80&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yCAgHEAAYBRgeMggICBAAGAUYHjIICAkQABgFGB7SAQgyMTM5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+教育改革2025 - Google 搜索
+https://www.google.com/search?q=%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A92025&oq=%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABjvBdIBCDMzNDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+机构设置-东北师范大学信息科学与技术学院
+https://ist.nenu.edu.cn/dqgz/jgsz.htm
+
+学院领导-东北师范大学信息科学与技术学院
+https://ist.nenu.edu.cn/xygk/xyld.htm
+
+机构设置-东北师范大学信息科学与技术学院
+https://ist.nenu.edu.cn/dqgz/jgsz.htm
+
+印度人 - Google 搜索
+https://www.google.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA&oq=%E5%8D%B0%E5%BA%A6%E4%BA%BA&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中华人民共和国外国留学生特权问题 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%89%B9%E6%9D%83%E9%97%AE%E9%A2%98
+
+Google
+https://www.google.com/webhp?hl=zh-CN&sa=X&ved=0ahUKEwi9npaigqqNAxXodfUHHccbHcsQPAgI
+
+部门简介-东北师范大学后勤保障部
+https://hqc.nenu.edu.cn/bmgk1/bmjj.htm
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=documentry%20&sort=byPopularity&type=story
+
+母权 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%AF%8D%E6%AC%8A
+
+yangxx0405 (Xiongxin Yang)
+https://github.com/yangxx0405
+
+toitlang/toit: Program your microcontrollers in a fast and robust high-level language.
+https://github.com/toitlang/toit
+
+归因理论 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BD%92%E5%9B%A0%E7%90%86%E8%AE%BA
+
+Implementing Dynamic Height Virtual List - Claude
+https://claude.ai/chat/7d59d129-101b-4866-94a0-82af85bd9d2a
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm?tab=readme-ov-file
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+1901.00158
+https://arxiv.org/pdf/1901.00158
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+cublas - Google 搜索
+https://www.google.com/search?q=cublas&oq=cubals&gs_lcrp=EgZjaHJvbWUqCQgBEAAYChiABDIGCAAQRRg5MgkIARAAGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEJMTM0NzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+chinese-poetry/chinese-poetry: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+https://github.com/chinese-poetry/chinese-poetry
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+中国 经济 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+%E7%BB%8F%E6%B5%8E&sca_esv=42202b41fe90460a&sxsrf=AHTn8zpv36zJRUMRMdQXbF1XmdavhS2oNg%3A1747549134246&ei=znspaKjGDufk2roPw_qb2AU&ved=0ahUKEwio5f7qr6yNAxVnslYBHUP9BlsQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+%E7%BB%8F%E6%B5%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiDeS4reWbvSDnu4_mtY4yBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAxIqRZQrQdYgRVwAXgBkAEAmAHIAqABoxWqAQUyLTUuNLgBA8gBAPgBAZgCCaACtxPCAgoQABiwAxjWBBhHwgIEECMYJ8ICBBAAGB7CAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAg0QLhiABBjRAxjHARgMwgIHEC4YgAQYDJgDAIgGAZAGCpIHBzEuMC4yLjagB9otsgcFMi0yLja4B7AT&sclient=gws-wiz-serp
+
+朝阳市 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%98%B3%E5%B8%82
+
+民营经济促进法 - Google 搜索
+https://www.google.com/search?q=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E4%BF%83%E8%BF%9B%E6%B3%95&oq=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgYIBhBFGD0yBggHEEUYPdIBCDI2NzdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ggml
+https://github.com/ggml-org
+
+ggerganov (Georgi Gerganov)
+https://github.com/ggerganov
+
+Urs Hölzle - Google 搜索
+https://www.google.com/search?q=Urs+H%C3%B6lzle&oq=Urs+H%C3%B6lzle&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Craig Chambers - Google 搜索
+https://www.google.com/search?q=Craig+Chambers&oq=Craig+Chambers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+David Ungar - Wikipedia
+https://en.wikipedia.org/wiki/David_Ungar
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+404 - siden ikke fundet / page not found
+https://cs.au.dk/~ups/
+
+figma plugin sandbox - Google 搜索
+https://www.google.com/search?sca_esv=19c6d868d61db842&sxsrf=AHTn8zpEq7iB8N4736ctYmh90QOMBtYdRQ:1747553199277&q=figma+plugin+sandbox&udm=2&fbs=ABzOT_AGBMogrnfXHu6GxeqSvos9XSASLdCNmBvs6Xj8xORx7OLI8Qw2o0eaitm-Nl0CS9YHMdIIm2ZulJHJVJH3ML4KiSEfu0gRfuPF1PecT3fTpv_5ON2aiP5J3KEJXhPqP1-Jz-b3pXFoE9vbSYQ0x6AUl7t9gUOeOPCnvDrjQbw6q6zoOmhtv33QfgPnOxZVlTPpp6HCPPiljjgjex1zM0WGZa8JOA&sa=X&ved=2ahUKEwif46z9vqyNAxWMmlYBHbHpGJYQtKgLegQIFhAB&biw=1536&bih=695&dpr=1.25
+
+CS842: Automatic Memory Management
+https://web.archive.org/web/20170629200244/http://the.gregor.institute/t/5n/842/
+
+GregorR / ggggc — Bitbucket
+https://web.archive.org/web/20170222020440/https://bitbucket.org/GregorR/ggggc/
+
+Gregor Richards
+https://web.archive.org/web/20170711104317/http://the.gregor.institute/
+
+Wayback Machine
+https://web.archive.org/web/*/http://the.gregor.institute/t/5n/842/slides/1.pdf*
+
+本人学生，一直认为能力比道德重要，这样的观念思想正确嘛？ - 知乎
+https://www.zhihu.com/question/642797407
+
+chinese-poetry/论语 at master · chinese-poetry/chinese-poetry
+https://github.com/chinese-poetry/chinese-poetry/tree/master/%E8%AE%BA%E8%AF%AD
 
 # 2025-05-17
 
