@@ -532,6 +532,9 @@ zhongqidabian
 
 ## Sunday
 
+√ weekly report
+√
+
 ## Saturday
 ## Friday
 ## Thursday
