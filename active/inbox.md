@@ -1,4 +1,7 @@
 
+# 2025-05-19
+
+
 # 2025-05-18
 
 Compare-Object -ReferenceObject (Get-Content -Path reports\weekly\2024\2024-05-18.typ) -DifferenceObject (Get-Content -Path reports\weekly\2024\2024-04-26.typ)

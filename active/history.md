@@ -1,4 +1,156 @@
 
+# 2025-05-19
+
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+Facebook
+https://www.facebook.com/
+
+(1) Home / X
+https://x.com/home
+
+UI, Part 1: The Interaction Medium - by Ryan Fleury
+https://www.rfleury.com/p/ui-part-1-the-interaction-medium
+
+Mistral Medium 3 - Google 搜索
+https://www.google.com.hk/search?q=Mistral+Medium+3&oq=Mistral+Medium+3&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjU1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Medium is the new large. | Mistral AI
+https://mistral.ai/news/mistral-medium-3
+
+Test cases `image_with_transform_rotate` fail on Windows CI · Issue #932 · linebender/vello
+https://github.com/linebender/vello/issues/932
+
+bun tsx render - Google 搜索
+https://www.google.com.hk/search?q=bun+tsx+render&oq=bun+tsx+render&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE4NzZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Server-side render (SSR) a React component | Bun Examples
+https://bun.sh/guides/ecosystem/ssr-react
+
+localhost:3000
+http://localhost:3000/
+
+YouTube
+https://www.youtube.com/
+
+Virtual List SSR & Hydration
+http://localhost:3000/
+
+bun build utf8 - Google 搜索
+https://www.google.com.hk/search?q=bun+build+utf8&newwindow=1&sca_esv=f6f8f3c1cd116740&ei=c6opaN2RJO6uur8P186giA4&ved=0ahUKEwidl4mp3KyNAxVul-4BHVcnCOEQ4dUDCBA&uact=5&oq=bun+build+utf8&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmJ1biBidWlsZCB1dGY4MgUQIRigAUixClAlWPsIcAF4AZABAJgB7AGgAewBqgEDMi0xuAEDyAEA-AEBmAICoAL5AcICChAAGLADGNYEGEeYAwCIBgGQBgqSBwUxLjAuMaAHigGyBwMyLTG4B_EBwgcFMC4xLjHIBwg&sclient=gws-wiz-serp
+
+oven-sh/bun: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+https://github.com/oven-sh/bun
+
+王儒林 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sa=X&sca_esv=c1b30e012c2543d0&biw=1536&bih=695&q=%E7%8E%8B%E5%84%92%E6%9E%97&stick=H4sIAAAAAAAAAONgFuLUz9U3MC4orzRT4gIxi4zLLczStYRC8zLLUouKM0sqQ_Idc0pz8zIXsXI-7-t-2jLp2bzpO1gZJ7AxAgAJYH1rPwAAAA&ved=2ahUKEwiOwqL1966NAxVDyzQHHahsOegQ-BZ6BAhCEC4&stq=1&cs=0&lei=I9QqaPz_Kfed0-kPx9uS0QE
+
+聂长久-吉林大学马克思主义学院
+https://marx.jlu.edu.cn/info/1218/8624.htm
+
+仲海涛 - Google 搜索
+https://www.google.com.hk/search?q=%E4%BB%B2%E6%B5%B7%E6%B6%9B&oq=%E4%BB%B2%E6%B5%B7%E6%B6%9B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDg5NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/
+
+Kayvon Fatahalian - Stanford University
+https://graphics.stanford.edu/~kayvonf/
+
+cleartalktips.pdf
+https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf
+
+gfxcourses.stanford.edu/cs348b/spring22
+https://gfxcourses.stanford.edu/cs348b/spring22
+
+Image Synthesis - Google 搜索
+https://www.google.com.hk/search?q=Image+Synthesis&oq=Image+Synthesis&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Performance API - Web Performance Fundamentals, v2 | Frontend Masters
+https://frontendmasters.com/courses/web-perf-v2/performance-api/
+
+中国bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BDbbc&oq=%E4%B8%AD%E5%9B%BDbbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE5MDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+toddhgardner/fundametals-of-web-performance: Example website used in Frontend Masters course "Fundamentals of Web Performance"
+https://github.com/toddhgardner/fundametals-of-web-performance
+
+react-native-macos - Google 搜索
+https://www.google.com.hk/search?q=react-native-macos&oq=react-native-macos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+microsoft/react-native-macos: A framework for building native macOS apps with React.
+https://github.com/microsoft/react-native-macos
+
+中国人等级制度 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AD%89%E7%BA%A7%E5%88%B6%E5%BA%A6&oq=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%AD%89%E7%BA%A7&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgoIAhAAGKIEGIkFMgoIAxAAGKIEGIkFMgcIBBAAGO8FMgoIBRAAGIAEGKIE0gEINTc1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(4 条消息) 首页 - 知乎
+https://www.zhihu.com/
+
+五四运动 2025 - Google 搜索
+https://www.google.com.hk/search?q=%E4%BA%94%E5%9B%9B%E8%BF%90%E5%8A%A8+2025&newwindow=1&sca_esv=89461e27617d4d4b&ei=QWsqaJnzGoHBkPIPqsOF8As&ved=0ahUKEwjZl92YlK6NAxWBIEQIHaphAb4Q4dUDCBA&uact=5&oq=%E4%BA%94%E5%9B%9B%E8%BF%90%E5%8A%A8+2025&gs_lp=Egxnd3Mtd2l6LXNlcnAiEeS6lOWbm-i_kOWKqCAyMDI1MgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGKIEGIkFMggQABiABBiiBDIFEAAY7wVIjA1Q_QFYhgxwAXgBkAEAmAGhAqAB_AeqAQMyLTS4AQPIAQD4AQGYAgWgApgIwgIKEAAYsAMY1gQYR8ICChAuGIAEGNQCGAzCAgcQABiABBgMwgIGEAAYCBgemAMAiAYBkAYKkgcFMS4wLjSgB5cNsgcDMi00uAeSCMIHBTAuMS40yAcZ&sclient=gws-wiz-serp
+
+法广 - 时事与新闻直播 - RFI - 法国国际广播电台
+https://www.rfi.fr/cn/
+
+独立的人格不是大喊一声"我反对"
+https://zqb.cyol.com/content/2010-01/26/content_3058316.htm
+
+中国人 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA&newwindow=1&sca_esv=d631dcfb1451b593&ei=g2sqaM3WAozpkPIPzbX9sAY&ved=0ahUKEwiNpIG4lK6NAxWMNEQIHc1aH2YQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E4%BA%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiCeS4reWbveS6ujIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyHRAAGIAEGLQCGNQDGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBATIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQEyGhAAGIAEGLQCGOUCGLcDGIoFGOoCGIoD2AEBMh0QABiABBi0AhjUAxjlAhi3AxiKBRjqAhiKA9gBAUjpH1CdBViiHnADeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgOgAiCoAgnCAgoQABiwAxjWBBhHmAMM8QXj3z_lTskb9YgGAZAGCroGBAgBGAeSBwEzoAcAsgcAuAcAwgcFMi0xLjLIBxo&sclient=gws-wiz-serp
+
+Influential Scholars of Chinese Society and Culture - Claude
+https://claude.ai/chat/9154a97d-1c9f-40f3-8547-73b511d6d07e
+
+Implementing Dynamic Height Virtual List - Claude
+https://claude.ai/chat/7d59d129-101b-4866-94a0-82af85bd9d2a
+
+言论管控 - Google 搜索
+https://www.google.com.hk/search?q=%E8%A8%80%E8%AE%BA%E7%AE%A1%E6%8E%A7&newwindow=1&sca_esv=d631dcfb1451b593&biw=1536&bih=695&ei=Um4qaI3HDumfkPIPsoDIiAw&ved=0ahUKEwiNuPmOl66NAxXpD0QIHTIAEsE4ChDh1QMIEA&uact=5&oq=%E8%A8%80%E8%AE%BA%E7%AE%A1%E6%8E%A7&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOiogOiuuueuoeaOpzIFEAAYgAQyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyBRAAGO8FSP80UP0GWNYzcAJ4AJABAZgB2gegAbQwqgELMi0yLjkuMC4xLjK4AQPIAQD4AQGYAgqgAuQXqAIKwgIdEAAYgAQYtAIY1AMY5QIYtwMYigUY6gIYigPYAQHCAgUQLhiABMICCxAuGIAEGNEDGMcBwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQLCAggQABiiBBiJBZgDEfEFrOgHtBBDZ1-IBgG6BgQIARgHugYGCAIQARgUkgcHMS4wLjIuN6AHjsQBsgcFMi0yLje4B9MXwgcHMC4xLjUuNMgHSw&sclient=gws-wiz-serp
+
+中国文化的深层结构 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%B1%82%E7%BB%93%E6%9E%84&oq=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%B1%82%E7%BB%93%E6%9E%84&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPdIBBzE4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+中国文化的深层结构epub - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%B1%82%E7%BB%93%E6%9E%84epub&newwindow=1&sca_esv=411b2f71c33f1a2e&ei=XnUqaLyXJ4LUkPIP9Lr86AY&oq=%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%B1%82%E7%BB%93%E6%9E%84&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-S4reWbveaWh-WMlueahOa3seWxgue7k-aehCoCCAEyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIvhFQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAJgCAaACCZgDAIgGAZAGBJIHATGgBwCyBwC4BwDCBwMyLTHIBwY&sclient=gws-wiz-serp
+
+books/中国文化的深层结构 孙隆基著.pdf at main · Maysjtu/books
+https://github.com/Maysjtu/books/blob/main/%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%B1%82%E7%BB%93%E6%9E%84%20%E5%AD%99%E9%9A%86%E5%9F%BA%E8%91%97.pdf
+
+𝗛𝗮𝗽𝗽𝘆𝗤𝗤 on X: "我预测一下，这可能又有一波裁员了…… 不要问我为什么，我掐指一算都很准的。 https://t.co/5WAlWWHa6Y" / X
+https://x.com/HappyQQ_CN/status/1924014703430324581
+
+Ilya 30u30
+https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+
+The Annotated Transformer
+https://nlp.seas.harvard.edu/annotated-transformer/
+
+美联储 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg7MgYIBBBFGD0yBggFEEUYPTIGCAYQRRg90gEIMTIzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Hono - Web framework built on Web Standards
+https://hono.dev/docs/
+
+Elysia - Ergonomic Framework for Humans | ElysiaJS
+https://elysiajs.com/
+
+elysiajs/elysia: Ergonomic Framework for Humans
+https://github.com/elysiajs/elysia
+
+Document
+http://localhost:5173/
+
 # 2025-05-18
 
 Vanessa Carlton - A Thousand Miles - YouTube
