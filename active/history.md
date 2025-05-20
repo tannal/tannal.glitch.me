@@ -1,4 +1,184 @@
 
+# 2025-05-20
+
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal (tannal)
+https://github.com/tannal/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+two-heart/v8-design-docs: collection of V8 design documents
+https://github.com/two-heart/v8-design-docs
+
+Discover — Bluesky
+https://bsky.app/
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+中国经济 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E&sca_esv=982eb7504844ff8c&biw=1536&bih=695&sxsrf=AHTn8zrZBjeAensyGSbKwVwrUce39HPFuw%3A1747641824869&ei=4OUqaLrYNNSE2roPpJ72qQw&ved=0ahUKEwi6yKmRia-NAxVUglYBHSSPPcUQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOS4reWbvee7j-a1jjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImRlQxglY7RdwAXgAkAEAmAHuAqAB8hSqAQUyLTYuM7gBA8gBAPgBAZgCCaACshPCAgsQABiwAxiiBBiJBcICCBAAGLADGO8FwgILEAAYgAQYsAMYogTCAgoQIxiABBgnGIoFwgIEECMYJ8ICCxAuGIAEGNEDGMcBwgIKEC4YgAQYQxiKBcICDBAuGIAEGEMYigUYCsICBRAuGIAEwgIZEC4YgAQYQxiKBRiXBRjcBBjeBBjgBNgBAcICDhAuGIAEGEMYigUYChgqwgIMEAAYgAQYQxiKBRgKwgIdEC4YgAQYQxiKBRgKGCoYlwUY3AQY3gQY3wTYAQHCAhQQLhiABBiXBRjcBBjeBBjgBNgBAcICCBAuGIAEGMsBwgIKEAAYgAQYQxiKBZgDAIgGAZAGBboGBggBEAEYFJIHBzEuMC4zLjWgB8ZcsgcFMi0zLjW4B6gT&sclient=gws-wiz-serp
+
+Layers All the Way Down: The Untold Story of Shader Compilation | Hacker News
+https://news.ycombinator.com/item?id=44026170
+
+Google
+https://www.google.com/webhp?hl=zh-CN&sa=X&ved=0ahUKEwjv4qT0ka-NAxUPaPUHHVMFGJI4KBA8CAg
+
+美国经济一季度收缩0.3% 特朗普称“都怪拜登” - BBC News 中文
+https://www.bbc.com/zhongwen/articles/c62x494x8j5o/simp
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+中国 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD&oq=%E4%B8%AD%E5%9B%BD&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYOzIGCAQQRRg7MgYIBRBFGDsyBggGEEUYPDIGCAcQRRg80gEIMzUyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+苏格兰启蒙运动 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%90%AF%E8%92%99%E8%BF%90%E5%8A%A8
+
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+何立峰 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%BD%95%E7%AB%8B%E5%B3%B0
+
+特朗普关税战2.0时间线梳理 – DW – 2025年5月14日
+https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%9820%E6%97%B6%E9%97%B4%E7%BA%BF%E6%A2%B3%E7%90%86/g-72539910
+
+暂停90天 - Google 搜索
+https://www.google.com/search?q=%E6%9A%82%E5%81%9C90%E5%A4%A9&oq=%E6%9A%82%E5%81%9C90%E5%A4%A9&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIHCAYQABjvBTIKCAcQABiABBiiBDIHCAgQABjvBTIHCAkQABjvBdIBCDM1MzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Unravel - (TK from 凛として時雨)- (Official Anime Opening) | [FHD] - YouTube
+https://www.youtube.com/watch?v=nAKtAE_cJGU
+
+世界国家离婚率 - Google 搜索
+https://www.google.com/search?sca_esv=956c91c6efbdf948&sxsrf=AHTn8zrnrYyY4ICZWbPWUEgkq1LuZKpNDg:1747696478834&q=%E4%B8%96%E7%95%8C%E5%9B%BD%E5%AE%B6%E7%A6%BB%E5%A9%9A%E7%8E%87&sa=X&ved=2ahUKEwi9hK_e1LCNAxWbQfUHHaLsGVUQ7xYoAHoECA0QAQ&biw=1536&bih=695&dpr=1.25
+
+沉默的大多数 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B2%89%E9%BB%98%E7%9A%84%E5%A4%A7%E5%A4%9A%E6%95%B0
+
+多数决原则 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%95%B8%E6%B1%BA%E5%8E%9F%E5%89%87
+
+10 后 - Google 搜索
+https://www.google.com/search?q=10+%E5%90%8E&sca_esv=b3e0f23ec436779b&sxsrf=AHTn8zp_22leZH7-RlLAie9O6pKClUJELw:1747700858865&ei=eswraIPINPWL2roP_d206Ac&start=20&sa=N&sstk=Af40H4X4hndiS0mR-2ayocsmg4E1vEEXoMpXxCWHNNULfu1-srbg4cOU1__of3xwtJHWt-qU3TSO3YrfG0MTBX3v264WJ0k-PivSNUbU0q-Ed59QHLCqa5wzGnHFiF2iLZQi&ved=2ahUKEwiD7faG5bCNAxX1hVYBHf0uDX04ChDy0wN6BAgHEAc&biw=1536&bih=695&dpr=1.25
+
+问了15个「10后」爱听什么歌，有人告诉我《孤勇者》太俗-36氪
+https://36kr.com/p/1869719221047816
+
+蔡崇信 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E8%94%A1%E5%B4%87%E4%BF%A1
+
+阿里巴巴创始人马云现身杭州阿里总部，鼓励员工坚持创业精神 中国基金报
+https://www.chnfund.com/article/AR0029e517-d139-7a10-5dcd-3a19cbf712d8
+
+百度智能云-云智一体深入产业
+https://cloud.baidu.com/
+
+Igalia 2025 Coding Experience Open for Applications | Igalia
+https://www.igalia.com/2025/02/21/Igalia-2025-Coding-Experience-Open-for-Applications.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+WESL Documentation
+https://wesl-lang.dev/
+
+(2 封私信) 首页 - 知乎
+https://www.zhihu.com/
+
+知乎直答
+https://zhida.zhihu.com/search/3665202238639693489
+
+00后集体炮轰大学水课-虎嗅网
+https://m.huxiu.com/article/4229269.html
+
+周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV - YouTube
+https://www.youtube.com/watch?v=UBySINroNkw&list=RDngDadzs4Q1w&index=27
+
+神经敏感 - Google 搜索
+https://www.google.com/search?q=%E7%A5%9E%E7%BB%8F%E6%95%8F%E6%84%9F&sca_esv=f4c613a4c5268c4f&sxsrf=AHTn8zqz8FSlc7tzcX2Bobb1xyiVTyC-Yg:1747704198718&ei=htkraPjJK_DM2roPmLTB-Ac&start=10&sa=N&sstk=Af40H4WHM-rYyBGAKP32uLhmSZQRdV2j5LrO3QmGZWhVlZGU2IU9_52f-z8T4tNBKfyCqj9VGtyFqnpTYD3_VPmPYMSNpEtuTuIP2g&ved=2ahUKEwj4pL-_8bCNAxVwplYBHRhaEH8Q8tMDegQIJxAE&biw=1536&bih=695&dpr=1.25
+
+自利性偏差 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%87%AA%E5%88%A9%E6%80%A7%E5%81%8F%E5%B7%AE
+
+颜色革命 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD
+
+勒伊岑·布劳威尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8B%92%E4%BC%8A%E5%B2%91%C2%B7%E5%B8%83%E5%8A%B3%E5%A8%81%E5%B0%94
+
+中美贸易战 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98#%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F
+
+讨论精选（豆瓣）
+https://www.douban.com/group/explore?start=30
+
+棋士结局分析
+https://www.douban.com/group/topic/323134954/?_spm_id=MTQyNDUwOTgy&_i=7708398im3Vgk5,7718973im3Vgk5
+
+棋士 剧本 - Google 搜索
+https://www.google.com/search?q=%E6%A3%8B%E5%A3%AB+%E5%89%A7%E6%9C%AC&oq=%E6%A3%8B%E5%A3%AB+%E5%89%A7%E6%9C%AC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgcIBBAAGO8FMgcIBRAAGO8FMgcIBhAAGO8F0gEIMzU4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+知乎直答
+https://zhida.zhihu.com/search/3665210817132372781
+
+(1 封私信) 为什么那么多人骂电视剧棋士？什么心理？ - 知乎
+https://www.zhihu.com/question/1891687855547475639
+
+如何评价王宝强、陈明昊主演的电视剧《棋士》？ - 知乎
+https://www.zhihu.com/question/8787200820/answer/131086134992
+
+棋士 剧本 - Google 搜索
+https://www.google.com/search?q=%E6%A3%8B%E5%A3%AB+%E5%89%A7%E6%9C%AC&sca_esv=cd383671cf86e696&sxsrf=AHTn8zoFmE4IpUlM0YC1qol6-Wn9VzIg9Q:1747708885688&ei=1esraJbeKY7O1e8Pv8L-kAI&start=10&sa=N&sstk=Af40H4XJwiubUklqVx_BsVcJ8V-dPWPiT-lKgLDuOZDyWCKck2sJoY-fnWwdKTw20JOy2zg3Q2Gy1Da3_rMjdXL7rkqYc36g6hl7LA&ved=2ahUKEwjWnLX6grGNAxUOZ_UHHT-hHyIQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+房远 - Google 搜索
+https://www.google.com/search?q=%E6%88%BF%E8%BF%9C&oq=%E6%88%BF%E8%BF%9C&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg70gEHMTg4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+戴岳（编剧）_百度百科
+https://baike.baidu.com/item/%E6%88%B4%E5%B2%B3/64183213
+
+腾讯视频
+https://v.qq.com/x/search/?q=%E3%80%8A%E6%A3%8B%E5%A3%AB%E3%80%8B%E6%A1%88%E4%BB%B6%E5%8E%9F%E5%9E%8B%E8%A7%A3%E8%AF%BB&queryFrom=2
+
+腾讯视频
+https://v.qq.com/x/search/?q=%E6%A3%8B%E5%A3%AB&queryFrom=0
+
+棋士结局分析（棋士）剧评
+https://movie.douban.com/review/16642095/
+
+中美贸易战 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98#%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F
+
+(1 封私信) 首页 - 知乎
+https://www.zhihu.com/
+
+3月25日 棋士 - Google 搜索
+https://www.google.com/search?q=3%E6%9C%8825%E6%97%A5+%E6%A3%8B%E5%A3%AB&sca_esv=43d6fbff167b2fcd&sxsrf=AHTn8zpTZmC9drlae2MFrLH4XnpCLMrIoQ:1747712882471&ei=cvsraJqsHP7k2roPs56c6As&start=20&sa=N&sstk=Af40H4Vp6g6-ftfoPcU62mjhbAcQvCN6Syyz_B6nby0jjTFUW_kyU0IFbL2tInPLuq313YIuIVcpKMNKMhWEpq-Q2txMltTaQ4OEN9QNdF7dU9W5unnp6-0FS0ym0nRqCLp7&ved=2ahUKEwiarZ3skbGNAxV-slYBHTMPB704ChDy0wN6BAgEEAc&biw=1536&bih=695&dpr=1.25
+
+2025年中华人民共和国腐败案件 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6
+
+棋士大结局 - Google 搜索
+https://www.google.com/search?q=%E6%A3%8B%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80&oq=%E6%A3%8B%E5%A3%AB%E5%A4%A7%E7%BB%93%E5%B1%80&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyBwgIEAAY7wUyBwgJEAAY7wXSAQg1MTY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+美国签证 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81&sca_esv=43d6fbff167b2fcd&sxsrf=AHTn8zq7iSJnMZkfziKSUsmgOOg56Gddtw%3A1747713871353&ei=T_8raLuXFbjg2roPu5Wi0A4&ved=0ahUKEwj7-uHDlbGNAxU4sFYBHbuKCOoQ4dUDCBA&uact=5&oq=%E7%BE%8E%E5%9B%BD%E7%AD%BE%E8%AF%81&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOe-juWbveetvuivgUilDFAAWMALcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAKACAJgDAJIHAKAHALIHALgHAA&sclient=gws-wiz-serp
+
+tannal (tannal)
+https://github.com/tannal
+
+tannal (tannal)
+https://github.com/tannal/
+
+(2 封私信) 00 后炮轰大学水课，专业课 PPT 多年没变，课堂成双向表演，反映了哪些问题？大学课程要定期更新吗？ - 知乎
+https://www.zhihu.com/question/1894872206225404089
+
+
 # 2025-05-19
 
 whatwg - Google 搜索
