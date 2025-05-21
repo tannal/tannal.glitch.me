@@ -1,7 +1,157 @@
 
 # 2025-05-21
 
+https://www.jl.gov.cn/yaowen/202504/t20250428_3452057.html
 
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Introduction - Fullstack TypeScript, v2 (feat. Zod) | Frontend Masters
+https://frontendmasters.com/courses/fullstack-typescript-v2/introduction/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+2025年中华人民共和国腐败案件 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6
+
+About us - Team | Igalia - Open Source Consultancy and Development
+https://www.igalia.com/team/
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+gst-dots-viewer: A New Tool for GStreamer Pipeline Visualization | Thibault Saunier's blog
+https://blogs.gnome.org/tsaunier/2025/05/16/gst-dots-viewer-a-new-tool-for-gstreamer-pipeline-visualization/
+
+Issues · dart-lang/sdk
+https://github.com/dart-lang/sdk/issues
+
+中国 新冠 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD+%E6%96%B0%E5%86%A0&sca_esv=58e4cc442e33908f&sxsrf=AHTn8zobut5kd7I0DY_pKC7MoaBVgma-yQ:1747735264048&source=lnms&sa=X&ved=2ahUKEwiBw8yc5bGNAxUecPUHHaISIZgQ0pQJegQIBBAD&biw=1536&bih=695&dpr=1.25
+
+Avril Lavigne - What The Hell (Official Video) - YouTube
+https://www.youtube.com/watch?v=tQmEd_UeeIk&list=RDMMngDadzs4Q1w&index=15
+
+geometry - Retrieve the initial cubic Bézier curve subdivided in two Bézier curves - Mathematics Stack Exchange
+https://math.stackexchange.com/questions/877725/retrieve-the-initial-cubic-b%c3%a9zier-curve-subdivided-in-two-b%c3%a9zier-curves/879213#879213
+
+Ms2ger (Ms2ger) / Repositories
+https://github.com/Ms2ger?tab=repositories
+
+菲律宾海和美国湾 - Google 搜索
+https://www.google.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E5%92%8C%E7%BE%8E%E5%9B%BD%E6%B9%BE&sca_esv=f37af7071d948b3e&biw=1536&bih=695&sxsrf=AHTn8zqw8gKAxm1g0xOMOPIsRKrdRHY3Cw%3A1747750386678&ei=8o0saI2aKYiivr0PpcTKkQk&ved=0ahUKEwiN29DHnbKNAxUIka8BHSWiMpI4ChDh1QMIEA&uact=5&oq=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E5%92%8C%E7%BE%8E%E5%9B%BD%E6%B9%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOiPsuW-i-Wuvua1t-WSjOe-juWbvea5vjIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jyAlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIHmAMAiAYBkAYCkgcBMaAHALIHALgHAA&sclient=gws-wiz-serp
+
+2023-eoss-cross-platform-ui-slides.pdf
+https://wingolog.org/pub/2023-eoss-cross-platform-ui-slides.pdf
+
+tannal (tannal)
+https://github.com/tannal/
+
+llvm/llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+https://github.com/llvm/llvm-project/tree/main
+
+X
+https://x.com/home
+
+Mehryar Mohri -- Foundations of Machine Learning - Book
+https://cs.nyu.edu/~mohri/mlbook/
+
+Home / X
+https://x.com/home
+
+腾讯党委 - Google 搜索
+https://www.google.com/search?q=%E8%85%BE%E8%AE%AF%E5%85%9A%E5%A7%94&oq=%E8%85%BE%E8%AE%AF%E5%85%9A%E5%A7%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDI0NTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+【关于学习宣传和贯彻实施《中华人民共和国民营经济促进法》的通知】-国家发展和改革委员会
+https://www.ndrc.gov.cn/xwdt/tzgg/202505/t20250520_1397833.html
+
+GrSQRZHWIAAP54f (680×584)
+https://pbs.twimg.com/media/GrSQRZHWIAAP54f?format=png&name=small
+
+About Me | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/about/
+
+joyeecheung (Joyee Cheung)
+https://github.com/joyeecheung
+
+Home / X
+https://x.com/home
+
+Some Projects – FigJam
+https://www.figma.com/board/Z92gyaDZFVr40J8JENnBBf/Some-Projects?node-id=0-1&p=f
+
+www.google.com
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9%E9%98%B5%E5%9B%BE&sca_esv=6ed71d0ec5a9b883&biw=1536&bih=695&sxsrf=AHTn8zpXTCP2AtgQTkXpPCqD6_x6hzGrug%3A1747786577309&ei=URstaLLPEra02roPr6m0sAg&ved=0ahUKEwjyu9WwpLONAxU2mlYBHa8UDYYQ4dUDCBA&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9%E9%98%B5%E5%9B%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-e-juiBlOWCqCDngrnpmLXlm74yBxAjGLADGCcyBxAjGLADGCcyBxAjGLADGCcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIhwxQEFigC3ABeACQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgGgAgiYAwCIBgGQBgqSBwExoAcAsgcAuAcA&sclient=gws-wiz-serp
+
+wallstreetcn.com
+https://wallstreetcn.com/articles/3747425
+
+Discover — Bluesky
+https://bsky.app/
+
+YouTube
+https://www.youtube.com/
+
+周杰倫---稻香＋陽光宅男＋龍卷風＋說好的幸福呢＋淘汰＋青花瓷 - YouTube
+https://www.youtube.com/watch?v=eJLqHg7dOkM&list=RDJ-Fi4s7IQO8&index=27
+
+www.nowcoder.com
+https://www.nowcoder.com/users/notice/system?entranceType=%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B6%88%E6%81%AF
+
+字节前端日常面经_牛客网
+https://www.nowcoder.com/feed/main/detail/35e2be6f690b450eb8d02ec0ef434509?sourceSSR=search
+
+内推丨字节跳动-组内直推-前端开发实习生（北京/深圳）_牛客网
+https://www.nowcoder.com/discuss/754449773838479360?sourceSSR=search
+
+前端开发工程师-业务中台 - 字节跳动
+https://jobs.bytedance.com/referral/pc/position/detail/?token=MTsxNzQ3NzQ2NzYyOTAzOzczODcyMTc1OTIwNjA2NDI4NTM7NzQ4MzgxNDQ4NzE5MjAxMzA2Mzsx
+
+Gemini Diffusion: Google DeepMind’s experimental research model
+https://blog.google/technology/google-deepmind/gemini-diffusion/
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+中国纪念反法 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BF%B5%E5%8F%8D%E6%B3%95&oq=%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BF%B5%E5%8F%8D%E6%B3%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIHCAMQABjvBTIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDY5MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+alibaba/weex: A framework for building Mobile cross-platform UI
+https://github.com/alibaba/weex
+
+SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译] | 宝玉的分享
+https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics
+
+2305.10855
+https://arxiv.org/pdf/2305.10855
+
+tannal (tannal)
+https://github.com/tannal/
+
+www.google.com
+https://www.google.com/search?q=elon+musk&oq=elon+musk&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+解读阿斯伯格：天赋的另一面 - 知乎
+https://zhuanlan.zhihu.com/p/461143839
+
+美媒：比尔·盖茨女儿透露其父亲患有“阿斯伯格综合征”|比尔·盖茨_新浪财经_新浪网
+https://finance.sina.com.cn/jjxw/2025-05-02/doc-inevekkw4835512.shtml
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+泰德·卡辛斯基 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E6%B3%B0%E5%BE%B7%C2%B7%E5%8D%A1%E8%BE%9B%E6%96%AF%E5%9F%BA
+
+勒伊岑·布劳威尔 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%8B%92%E4%BC%8A%E5%B2%91%C2%B7%E5%B8%83%E5%8A%B3%E5%A8%81%E5%B0%94
+
+google i/o - Google 搜索
+https://www.google.com/search?q=google+i%2Fo&oq=google+i%2Fo&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQLhjHARjRAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM0NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+蔡依林 Jolin Tsai《說愛你》(feat.G.E.M.鄧紫棋) Official Live Music Video - YouTube
+https://www.youtube.com/watch?v=Aq6KNRyvm-Y&list=RDAq6KNRyvm-Y&start_radio=1
 
 # 2025-05-20
 
