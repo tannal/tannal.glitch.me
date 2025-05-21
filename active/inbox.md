@@ -5,7 +5,7 @@ ICE GSOC
 
 Frontend + Open Source + AI + money
 
-
+https://jobs.bytedance.com/referral/pc/position/detail/?token=MTsxNzQ3NzQ2NzYyOTAzOzczODcyMTc1OTIwNjA2NDI4NTM7NzQ4MzgxNDQ4NzE5MjAxMzA2Mzsx
 
 # 2025-05-20
 
