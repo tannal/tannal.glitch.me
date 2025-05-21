@@ -1,6 +1,11 @@
 
 # 2025-05-21
 
+ICE GSOC
+
+Frontend + Open Source + AI + money
+
+
 
 # 2025-05-20
 
