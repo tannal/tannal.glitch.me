@@ -7,6 +7,174 @@ https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUY
 Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
 https://frontendmasters.com/courses/
 
+diffusion text - Google 搜索
+https://www.google.com.hk/search?q=diffusion+text&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=f5ouaJzlGqfCkPIP3NCLkA4&ved=0ahUKEwjcoMznkbaNAxUnIUQIHVzoAuIQ4dUDCBA&uact=5&oq=diffusion+text&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmRpZmZ1c2lvbiB0ZXh0MgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeSOUJUHxYsQdwAXgBkAEAmAH3AaABggmqAQMyLTW4AQPIAQD4AQGYAgWgAqwHwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigWYAwCIBgGQBgqSBwUxLjAuNKAH-BGyBwMyLTS4B6QHwgcFMi00LjHIBxs&sclient=gws-wiz-serp
+
+Diffusion models in text generation: a survey [PeerJ]
+https://peerj.com/articles/cs-1905/
+
+Georg von Manstein on X: "I’m a 19 y/o founder from Germany, and I cracked how Google’s Text Diffusion model works! There are three main approaches on this topic: https://t.co/oGDG8vxhOm" / X
+https://x.com/MansteinGeorg/status/1925232606838239450
+
+Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution
+https://arxiv.org/pdf/2310.16834
+
+2205.14217
+https://arxiv.org/pdf/2205.14217
+
+2503.09573
+https://arxiv.org/pdf/2503.09573
+
+Large Language Diffusion Models
+https://arxiv.org/pdf/2502.09992
+
+你行你上 姜文 - Google 搜索
+https://www.google.com.hk/search?q=%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A+%E5%A7%9C%E6%96%87&oq=%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A+%E5%A7%9C%E6%96%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIGCAUQRRg8MgYIBhBFGDzSAQg4NzQxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+姜文新片《你行你上》来袭，少年追梦音乐舞台的励志传奇_cnu_影片_梦想
+https://www.sohu.com/a/896972272_121850782
+
+姜文新片《你行你上》：音乐梦想背后的青春叛逆与成长_影片_观众_票房
+https://www.sohu.com/a/896957469_122066681
+
+豆瓣电影
+https://movie.douban.com/
+
+民营经济促进法 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E4%BF%83%E8%BF%9B%E6%B3%95&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=NJwuaLGkOYPDkPIP8sbYMA&ved=0ahUKEwixjpu4k7aNAxWDIUQIHXIjFgYQ4dUDCBA&uact=5&oq=%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E4%BF%83%E8%BF%9B%E6%B3%95&gs_lp=Egxnd3Mtd2l6LXNlcnAiFeawkeiQpee7j-a1juS_g-i_m-azlTIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEiqE1AAWPgRcAB4AZABAJgB-QOgAbAWqgEJMi00LjQuMC4xuAEDyAEA-AEBmAIIoALkFMICBRAAGIAEwgILEC4YgAQY0QMYxwHCAggQLhiABBjUAsICBRAuGIAEwgIaEC4YgAQY0QMYxwEYlwUY3AQY3gQY4ATYAQGYAwC6BgYIARABGBSSBwcyLTMuNC4xoAeIObIHBzItMy40LjG4B-QUwgcHMC4xLjQuM8gHPQ&sclient=gws-wiz-serp
+
+中国 失去的十年 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%8D%81%E5%B9%B4&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=Z5wuaN6bM5_0kPIP-42FsQQ&ved=0ahUKEwie673Qk7aNAxUfOkQIHftGIUYQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%8D%81%E5%B9%B4&gs_lp=Egxnd3Mtd2l6LXNlcnAiFuS4reWbvSDlpLHljrvnmoTljYHlubQyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIiw1QkwVY7AtwAXgBkAEAmAHSAqABuhCqAQUyLTMuNLgBA8gBAPgBAZgCAaACCJgDAIgGAZAGCpIHATGgB4wNsgcAuAcAwgcDMi0xyAcG&sclient=gws-wiz-serp
+
+德语媒体：中国正在步入“失去的十年”吗？ – DW – 2023年6月29日
+https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E6%AD%A5%E5%85%A5%E5%A4%B1%E5%8E%BB%E7%9A%84%E5%8D%81%E5%B9%B4%E5%90%97/a-66071490
+
+中国房地产：迎来复苏信号但是…… – DW – 2023年4月30日
+https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%BF%8E%E6%9D%A5%E5%A4%8D%E8%8B%8F%E4%BF%A1%E5%8F%B7%E4%BD%86%E6%98%AF/a-65420163
+
+德语媒体：中国地方政府陷入债务危机 – DW – 2022年10月4日
+https://www.dw.com/zh/%E5%BE%B7%E8%AF%AD%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E9%99%B7%E5%85%A5%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/a-63331534
+
+What is now proved was once only imagined. - Google 搜索
+https://www.google.com.hk/search?q=What+is+now+proved+was+once+only+imagined.&oq=What+is+now+proved+was+once+only+imagined.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+剧本梗概 - Google 搜索
+https://www.google.com.hk/search?q=%E5%89%A7%E6%9C%AC%E6%A2%97%E6%A6%82&oq=%E5%89%A7%E6%9C%AC%E6%A2%97%E6%A6%82&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjkyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+电影剧本（梗概）备案、电影片管理规定_国家电影局_中国政府网
+https://www.gov.cn/zhengce/2021-12/14/content_5711916.htm
+
+中国各省市gdp排名 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%B8%82gdp%E6%8E%92%E5%90%8D&oq=%E4%B8%AD%E5%9B%BD%E5%90%84%E7%9C%81%E5%B8%82&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDc0MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+31省份2024年GDP排名出炉！
+https://xinwen.bjd.com.cn/content/s679c4396e4b068c68f0f398c.html
+
+Large Language Diffusion Models
+https://ml-gsai.github.io/LLaDA-demo/
+
+Claude 4 - Google 搜索
+https://www.google.com.hk/search?q=Claude+4&oq=Claude+4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Claude
+https://claude.ai/new
+
+cursor 订阅价格 - Google 搜索
+https://www.google.com.hk/search?q=cursor+%E8%AE%A2%E9%98%85%E4%BB%B7%E6%A0%BC&oq=cursor+%E8%AE%A2%E9%98%85%E4%BB%B7%E6%A0%BC&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgcIBBAAGO8F0gEINDcyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Cursor - The AI Code Editor
+https://www.cursor.com/ja
+
+中国 经济 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+%E7%BB%8F%E6%B5%8E+bbc&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=NKcuaMmcGZGxur8P19aTsA0&ved=0ahUKEwjJht72nbaNAxWRmO4BHVfrBNYQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+%E7%BB%8F%E6%B5%8E+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiEeS4reWbvSDnu4_mtY4gYmJjMgcQABiABBgMMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUjpEFDZBlilD3ABeAGQAQCYAeoBoAGgBaoBAzItM7gBA8gBAPgBAZgCA6ACxwPCAgoQABiwAxjWBBhHwgIKEAAYBxgKGCoYHsICBhAAGAcYHpgDAIgGAZAGCpIHBTEuMC4yoAe6BbIHAzItMrgHwgPCBwcwLjEuMS4xyAcP&sclient=gws-wiz-serp
+
+CIA情报 - Google 搜索
+https://www.google.com.hk/search?q=CIA%E6%83%85%E6%8A%A5&oq=CIA%E6%83%85%E6%8A%A5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBNIBCDQyNTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+YouTube
+https://www.youtube.com/
+
+Vanessa Carlton - A Thousand Miles - YouTube
+https://www.youtube.com/watch?v=Cwkej79U3ek
+
+4月18日 黄仁勋 - Google 搜索
+https://www.google.com.hk/search?q=4%E6%9C%8818%E6%97%A5+%E9%BB%84%E4%BB%81%E5%8B%8B&oq=4%E6%9C%8818%E6%97%A5+%E9%BB%84%E4%BB%81%E5%8B%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiABBiiBNIBCDgwMjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+龚正会见英伟达总裁兼首席执行官黄仁勋_外事活动
+https://wsb.sh.gov.cn/ywdt/wshd/20250421/6472b493a8de4045b42e7ac213d96c10.html
+
+何立峰会见美国英伟达公司总裁兼首席执行官黄仁勋时指出 中国始终是外资企业投资和贸易的沃土 欢迎美资企业深化互利合作 --新闻报道-中国共产党新闻网
+http://cpc.people.com.cn/n1/2025/0418/c64094-40462790.html
+
+YouTube
+https://www.youtube.com/
+
+YouTube
+https://www.youtube.com/
+
+不能说的秘密 2007 演唱会 最好听的版本 - YouTube
+https://www.youtube.com/watch?v=P_vIzKfq5q4
+
+江泽民派系 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B1%9F%E6%B3%BD%E6%B0%91%E6%B4%BE%E7%B3%BB&newwindow=1&sca_esv=c50634253d32a848&ei=LsAuaN6dM8u9kPIP6sS7mA0&start=10&sa=N&sstk=Af40H4V956mLRt7vWS1aPEnK61nG9W9L3ijanAur75lr8UwKp2pTZ_jQybIpfcWJWuUeu7Nn9skQ4c2yLtAuXWde-2QaIvWEGmHwCA&ved=2ahUKEwje7OrftbaNAxXLHkQIHWriDtMQ8tMDegQIChAE&biw=1536&bih=695&dpr=1.25
+
+韩正 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%AD%A3
+
+中国的“政敌团队”
+https://www.brookings.edu/zh/articles/%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%95%8C%E5%9B%A2%E9%98%9F/
+
+Hima on X: "马云所有的问题就是因为被孙力军案牵扯，但是马云只能说孙力军、说孟建柱——他不可能说到王岐山，也不可能说到江志成】 #江家 #孙力军 #马云 #赵薇 #郭宝昌 #恒大 #江志成 #科兴疫苗 #百度 #抖音 #滴滴打车 #Zoom #王岐山 #朱镕基 #习近平 #江绵恒换肾和心脏 #总参三部江绵康 #王野 #王冶平亲侄女 #" / X
+https://x.com/himalaya2025fly/status/1800551612454412333
+
+#江绵恒换肾和心脏 - Search / X
+https://x.com/hashtag/%E6%B1%9F%E7%BB%B5%E6%81%92%E6%8D%A2%E8%82%BE%E5%92%8C%E5%BF%83%E8%84%8F?src=hashtag_click
+
+武汉P4实验室 - Google 搜索
+https://www.google.com.hk/search?q=%E6%AD%A6%E6%B1%89P4%E5%AE%9E%E9%AA%8C%E5%AE%A4&newwindow=1&sca_esv=c50634253d32a848&ei=2K8uaOuwHt7IkPIPn8DkgAY&start=10&sa=N&sstk=Af40H4UC2zMZOrl4e0VDAatOtbejeoAtgwYfd9tBlBZOWFQuHNKlllS5xjfSxg1KH_oZ4gRyipDk6no5rUYGIbdlHq5KK236r1Ax0w&ved=2ahUKEwjr_MSVpraNAxVeJEQIHR8gGWAQ8tMDegQIBxAE&biw=1536&bih=695&dpr=1.25
+
+新冠病毒溯源：顶级中国科学家称不该排除实验室泄露 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-65752700
+
+天才基因：阿斯伯格征天才如何改变世界 - Google 搜索
+https://www.google.com.hk/search?q=%E5%A4%A9%E6%89%8D%E5%9F%BA%E5%9B%A0%EF%BC%9A%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E5%BE%81%E5%A4%A9%E6%89%8D%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C&newwindow=1&sca_esv=c50634253d32a848&biw=1536&bih=695&ei=1LguaJqUNK3YkPIP55nkqAE&ved=0ahUKEwiazrferraNAxUtLEQIHecMGRU4HhDh1QMIEA&uact=5&oq=%E5%A4%A9%E6%89%8D%E5%9F%BA%E5%9B%A0%EF%BC%9A%E9%98%BF%E6%96%AF%E4%BC%AF%E6%A0%BC%E5%BE%81%E5%A4%A9%E6%89%8D%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C&gs_lp=Egxnd3Mtd2l6LXNlcnAiNuWkqeaJjeWfuuWboO-8mumYv-aWr-S8r-agvOW-geWkqeaJjeWmguS9leaUueWPmOS4lueVjEhXUABYAHAAeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwA&sclient=gws-wiz-serp
+
+把天才视为阿斯伯格（Asperger） - 知乎
+https://zhuanlan.zhihu.com/p/599379155
+
+首页 - 知乎
+https://www.zhihu.com/
+
+内容管理 - 创作中心 - 知乎
+https://www.zhihu.com/creator/manage/creation/draft?type=answer
+
+解读阿斯伯格：天赋的另一面 - 知乎
+https://zhuanlan.zhihu.com/p/461143839
+
+青年就业率 - Google 搜索
+https://www.google.com/search?q=%E9%9D%92%E5%B9%B4%E5%B0%B1%E4%B8%9A%E7%8E%87&sca_esv=be6ccb80d54ac7a6&sxsrf=AHTn8zqlURE3AhavBHIt0mmFsbvkdfT5oA%3A1747893500823&ei=_LwuaPKAMrre4-EPk_DV8A0&ved=0ahUKEwjy7uLZsraNAxU67zgGHRN4Fd4Q4dUDCBA&uact=5&oq=%E9%9D%92%E5%B9%B4%E5%B0%B1%E4%B8%9A%E7%8E%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-mdkuW5tOWwseS4mueOhzIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDDIHEAAYgAQYDEjjFFAAWOATcAB4AZABAJgB5gKgAZkoqgEGMi0yLjE0uAEDyAEA-AEBmAINoALqIcICChAjGIAEGCcYigXCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxjRAxiDARjHAcICBRAAGIAEwgILEC4YgAQYsQMYgwHCAggQLhiABBixA8ICCBAAGIAEGLEDwgILEC4YgAQYxwEYrwHCAgUQLhiABMICBxAAGIAEGArCAhQQLhiABBiXBRjcBBjeBBjfBNgBAZgDALoGBggBEAEYFJIHBDMtMTOgB7ChAbIHBDMtMTO4B-oh&sclient=gws-wiz-serp
+
+中国大陆失业率 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E5%A4%B1%E4%B8%9A%E7%8E%87#%E6%94%BF%E5%BA%9C%E6%87%89%E5%B0%8D%E6%8E%AA%E6%96%BD
+
+www.google.com
+https://www.google.com/search?q=%E7%A8%B3%E5%B0%B1%E4%B8%9A&sca_esv=be6ccb80d54ac7a6&sxsrf=AHTn8zpmPPLSnVBidRLl1zagCvnZzfE2Gg:1747893550065&ei=Lr0uaM_YA-GY4-EPi5qiqQs&start=10&sa=N&sstk=Af40H4W4F36nPXf_ltkXlylOVbim5hfNCSgJSPPSDmy7KMiMTfcKJVTjDVTUdsZezSMYmwlLS14EGM-WWwN9bxl6OyJlI3caPHZkxQ&ved=2ahUKEwjPp6DxsraNAxVhzDgGHQuNKLUQ8tMDegQIChAE&biw=1536&bih=695&dpr=1.25
+
+稳就业稳经济，五方面若干举措将出台_政策解读_中国政府网
+https://www.gov.cn/zhengce/202504/content_7021610.htm
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+家丑不可外扬 - Google 搜索
+https://www.google.com/search?q=%E5%AE%B6%E4%B8%91%E4%B8%8D%E5%8F%AF%E5%A4%96%E6%89%AC&oq=%E5%AE%B6%E4%B8%91%E4%B8%8D%E5%8F%AF%E5%A4%96%E6%89%AC&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM3NzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
 解读阿斯伯格：天赋的另一面 - 知乎
 https://zhuanlan.zhihu.com/p/461143839
 
