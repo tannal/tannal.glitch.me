@@ -570,15 +570,10 @@ zhongqidabian
 
 ## Sunday
 ## Saturday
-
 ## Friday
-
 ## Thursday
-
 ## Wednesday
-
 ## Tuesday
-
 ## Monday
 
 # 2025-4-21 - 2025-4-28 春 Socialization
@@ -594,20 +589,13 @@ Yes
 
 # 2025-3-31 - 2025-4-7 春 AI self Socialization
 
-xx
 [x] igalia申请 deadline no reply
-
 ## Sunday
 ## Saturday
-
 ## Friday
-
 ## Thursday
-
 ## Wednesday
-
 ## Tuesday
-
 ## Monday
 
 # 2025-3-24 - 2025-3-31 春 Socialization
@@ -644,9 +632,6 @@ xx
 
 
 ## Sunday
-
-
-
 ## Saturday
 
 √ Connect to a17 and a13 again
