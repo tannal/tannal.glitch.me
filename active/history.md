@@ -1,6 +1,206 @@
 
 # 2025-05-22
 
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+解读阿斯伯格：天赋的另一面 - 知乎
+https://zhuanlan.zhihu.com/p/461143839
+
+黄强在省委理论学习中心组集体学习会上强调 以更大力度全方位推进数字吉林建设 胡玉亭朱国贤出席
+https://www.jl.gov.cn/yaowen/202504/t20250428_3452057.html
+
+湖南科技大学计算机科学与工程学院
+https://computer.hnust.edu.cn/xsgz/kcsz/ITxygsh/a69caa885c4b4b15930453caed00f515.htm
+
+王坚 黄强 - Google 搜索
+https://www.google.com/search?q=%E7%8E%8B%E5%9D%9A+%E9%BB%84%E5%BC%BA&sca_esv=fee75db914028769&sxsrf=AHTn8zrx6IlmQQ0M5BtzmfjGRTKKsDhbvA%3A1747833805284&ei=zdMtaPONEaqc4-EPq42zgAc&ved=0ahUKEwizqNyo1LSNAxUqzjgGHavGDHAQ4dUDCBA&uact=5&oq=%E7%8E%8B%E5%9D%9A+%E9%BB%84%E5%BC%BA&gs_lp=Egxnd3Mtd2l6LXNlcnAiDeeOi-WdmiDpu4TlvLoyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEj8JVDPCFi1JHABeAGQAQCYAfQCoAHJHaoBBTItNi42uAEDyAEA-AEBmAIMoALCG8ICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAAGIAEGEMYigXCAgcQLhiABBgMwgIHEAAYgAQYDMICBRAAGIAEwgIHECMYsAIYJ8ICCBAAGKIEGIkFmAMAiAYBkAYJkgcHMS4wLjUuNqAHxCKyBwUyLTUuNrgHlBs&sclient=gws-wiz-serp
+
+王坚 (信息技术专家) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%9D%9A_(%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6)
+
+长春市 4月份 马拉松 - Google 搜索
+https://www.google.com/search?q=%E9%95%BF%E6%98%A5%E5%B8%82+4%E6%9C%88%E4%BB%BD+%E9%A9%AC%E6%8B%89%E6%9D%BE&sca_esv=fee75db914028769&sxsrf=AHTn8zpAU52vPebs7De7yFdDebWC6L1jNQ%3A1747834109171&ei=_dQtaNSdCryX4-EP_o_uqAw&ved=0ahUKEwiUkNC51bSNAxW8yzgGHf6HG8UQ4dUDCBA&uact=5&oq=%E9%95%BF%E6%98%A5%E5%B8%82+4%E6%9C%88%E4%BB%BD+%E9%A9%AC%E6%8B%89%E6%9D%BE&gs_lp=Egxnd3Mtd2l6LXNlcnAiG-mVv-aYpeW4giA05pyI5Lu9IOmprOaLieadvjIIECEYoAEYwwQyCBAhGKABGMMEMggQIRigARjDBEjZEVAwWPEQcAF4AJABAJgB9QKgAd0aqgEEMy0xMLgBA8gBAPgBAZgCBKAChwjCAgoQABiwAxjWBBhHwgIEECMYJ8ICCBAAGIAEGKIEwgIFEAAY7wWYAwCIBgGQBgqSBwUxLjMtM6AH2R2yBwMzLTO4B4MI&sclient=gws-wiz-serp
+
+6月21日云栖精选夜读：国内首位！Node.js社区将阿里云工程师张秋怡吸纳为CTC成员-阿里云开发者社区
+https://developer.aliyun.com/article/108198
+
+国内首位！Node.js社区将阿里云工程师张秋怡吸纳为CTC成员-阿里云开发者社区
+https://developer.aliyun.com/article/107163
+
+长光卫星技术股份有限公司
+https://www.jl1.cn/
+
+王坚 知乎 - Google 搜索
+https://www.google.com/search?q=%E7%8E%8B%E5%9D%9A+%E7%9F%A5%E4%B9%8E&sca_esv=fee75db914028769&sxsrf=AHTn8zru8F8i1Zud13wMjXHIKjWfhe9hIA:1747835329804&ei=wdktaPHfMI674-EPvuu_iQs&start=20&sa=N&sstk=Af40H4XFSfO2HyeHhJbL5Pt2ld-PxXCciW0EtDiRiRbvtaYTwAGgHUj4rbBDmN2ZUvUji9PC9n8T7s25lJm6gj2-HV1Xt4mYTdiTR_yb58baVSn5GZuUIvBaqqcSy37hTw3q&ved=2ahUKEwixxNX_2bSNAxWO3TgGHb71L7E4ChDy0wN6BAgIEAc&biw=1536&bih=695&dpr=1.25
+
+李强曾经为阿里CTO王坚的书《在线》作序，马云和王坚都是李强喜欢的聊天对象。跟马云聊天的收获是“原来可以这样看问题”，跟王坚聊天的收获是“未来可能真的会这样”。 : r/China_irl
+https://www.reddit.com/r/China_irl/comments/124e6fo/%E6%9D%8E%E5%BC%BA%E6%9B%BE%E7%BB%8F%E4%B8%BA%E9%98%BF%E9%87%8Ccto%E7%8E%8B%E5%9D%9A%E7%9A%84%E4%B9%A6%E5%9C%A8%E7%BA%BF%E4%BD%9C%E5%BA%8F%E9%A9%AC%E4%BA%91%E5%92%8C%E7%8E%8B%E5%9D%9A%E9%83%BD%E6%98%AF%E6%9D%8E%E5%BC%BA%E5%96%9C%E6%AC%A2%E7%9A%84%E8%81%8A%E5%A4%A9%E5%AF%B9%E8%B1%A1%E8%B7%9F%E9%A9%AC%E4%BA%91%E8%81%8A%E5%A4%A9%E7%9A%84%E6%94%B6%E8%8E%B7%E6%98%AF%E5%8E%9F%E6%9D%A5%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%9C%8B/
+
+李开复 - Google 搜索
+https://www.google.com/search?q=%E6%9D%8E%E5%BC%80%E5%A4%8D&oq=%E6%9D%8E%E5%BC%80%E5%A4%8D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+李开复 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BC%80%E5%A4%8D
+
+杭州 云溪小镇 - Google 搜索
+https://www.google.com/search?q=%E6%9D%AD%E5%B7%9E+%E4%BA%91%E6%BA%AA%E5%B0%8F%E9%95%87&sca_esv=fee75db914028769&sxsrf=AHTn8zqpDALqyDgQHPfgEsz9S064ZX8ypQ%3A1747836411640&ei=-90taNvjJpHf4-EP8bvy-AY&ved=0ahUKEwibzcOD3rSNAxWR7zgGHfGdHG8Q4dUDCBA&uact=5&oq=%E6%9D%AD%E5%B7%9E+%E4%BA%91%E6%BA%AA%E5%B0%8F%E9%95%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-adreW3niDkupHmuqrlsI_plYcyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSMw7ULsHWLM6cAR4AJABAZgBnQWgAaFJqgEKMi0zLjIzLjEuMbgBA8gBAPgBAZgCFqACiC6oAgrCAgoQABiABBiwAxgMwgILEAAYsAMYogQYiQXCAggQABiwAxjvBcICCxAAGIAEGLADGKIEwgIEECMYJ8ICChAjGIAEGCcYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIKEAAYgAQYQxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjRAxjHAcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAg0QABiABBixAxhDGIoFwgIEEAAYA8ICEBAAGIAEGLEDGEMYgwEYigXCAggQABiABBixA8ICBRAAGIAEwgIOEAAYgAQYsQMYgwEYigXCAiUQLhiABBixAxjRAxhDGIMBGMcBGIoFGJcFGNwEGN4EGOAE2AEBwgIHECMYJxjqAsICDBAjGIAEGBMYJxiKBcICCxAuGIAEGNEDGMcBwgILEC4YgAQYsQMY1ALCAggQLhiABBixA8ICBRAuGIAEwgIIEC4YgAQYywHCAggQABiABBjLAcICDhAuGIAEGMcBGMsBGK8BwgIXEC4YgAQYywEYlwUY3AQY3gQY4ATYAQHCAhAQLhiABBhDGMcBGIoFGK8BwgIKEC4YgAQYQxiKBcICCxAuGIAEGMcBGK8BwgINEAAYgAQYsQMYgwEYDMICBxAAGIAEGAzCAgcQLhiABBgMwgINEC4YgAQYxwEYDBivAcICHxAuGIAEGEMYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQHCAg0QLhiABBjRAxjHARgMwgIWEC4YgAQYxwEYmAUYmQUYDBieBRivAcICHBAuGIAEGNEDGMcBGAwYlwUY3AQY3gQY4ATYAQHCAggQABiABBiiBJgDBfEFGQqTqisVdXeIBgGQBgW6BgYIARABGBSSBwo0LjAuMS4xNi4xoAeE4wGyBwgyLTEuMTYuMbgH9i0&sclient=gws-wiz-serp
+
+2025 杭州 会议 - Google 搜索
+https://www.google.com/search?q=2025+%E6%9D%AD%E5%B7%9E+%E4%BC%9A%E8%AE%AE&oq=2025+%E6%9D%AD%E5%B7%9E+%E4%BC%9A%E8%AE%AE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgMGIAEMgkIAhAAGAwYgAQyCQgDEAAYDBiABDIJCAQQABgMGIAEMgkIBRAAGAwYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyCQgJEAAYDBiABNIBCDkxMTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2050恳谈会
+https://2050.org/#/talk
+
+[新闻周刊]本周人物 王坚：来自民企的院士
+https://tv.cctv.com/2025/05/17/VIDEhXm0SLKdIxxlJw573sQd250517.shtml
+
+王坚 - Google 搜索
+https://www.google.com/search?q=%E7%8E%8B%E5%9D%9A&sca_esv=49f8345e411de2b2&sxsrf=AHTn8zqfXk0hlZ_Ke4pC7rPYvUkHHjUrQA%3A1747837352335&ei=qOEtaJubFN7C4-EPmOLSwAM&ved=0ahUKEwibj4vE4bSNAxVe4TgGHRixFDgQ4dUDCBA&uact=5&oq=%E7%8E%8B%E5%9D%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiBueOi-WdmjILEAAYgAQYsQMYgwEyBRAAGIAEMgsQLhiABBixAxiDATIEEAAYAzIFEAAYgAQyBRAuGIAEMgUQLhiABDIFEC4YgAQyBRAAGIAEMgUQABiABEjZDlAAWOsNcAB4AJABAJgB0gOgAdIYqgEHMi0xLjYuMrgBA8gBAPgBAZgCCaACxRnCAgoQIxiABBgnGIoFwgIMECMYgAQYExgnGIoFwgIKEC4YgAQYQxiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEAAYgAQYsQMYgwEYigXCAggQABiABBixA8ICCBAuGIAEGLEDwgIOEC4YgAQYsQMYgwEYigXCAgQQIxgnwgIXEC4YgAQYsQMYlwUY3AQY3gQY3wTYAQGYAwC6BgYIARABGBSSBwUzLTcuMqAH6qoCsgcFMy03LjK4B8UZ&sclient=gws-wiz-serp
+
+湖南科技大学计算机科学与工程学院
+https://computer.hnust.edu.cn/xsgz/kcsz/ITxygsh/a69caa885c4b4b15930453caed00f515.htm
+
+在线 (豆瓣)
+https://book.douban.com/subject/26885117/
+
+黄强省委理论学习 - Google 搜索
+https://www.google.com/search?q=%E9%BB%84%E5%BC%BA%E7%9C%81%E5%A7%94%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0&oq=%E9%BB%84%E5%BC%BA%E7%9C%81%E5%A7%94%E7%90%86%E8%AE%BA%E5%AD%A6%E4%B9%A0&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiABBiiBNIBCTExMTExajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+地方动态 | 吉林省委书记黄强主持召开省委理论学习中心组集体学习会-国家数据局
+https://www.nda.gov.cn/sjj/swdt/dfdt/0507/20250507204405005407715_pc.html
+
+会上，中国工程院院士、阿里云创始人王坚 - Google 搜索
+https://www.google.com/search?q=%E4%BC%9A%E4%B8%8A%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB%E3%80%81%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%8E%8B%E5%9D%9A&oq=%E4%BC%9A%E4%B8%8A%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E9%99%A2%E5%A3%AB%E3%80%81%E9%98%BF%E9%87%8C%E4%BA%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%8E%8B%E5%9D%9A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+王坚-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=80418425&keyword=%E7%8E%8B%E5%9D%9A&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+AI的前世今生 ｜ 阿里王坚院士《财经》演讲全_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV11KA2eKE4i/?spm_id_from=333.337.search-card.all.click
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+王坚-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%9D%9A&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+湖南科技大学计算机科学与工程学院
+https://computer.hnust.edu.cn/xsgz/kcsz/ITxygsh/a69caa885c4b4b15930453caed00f515.htm
+
+王坚（中国工程院院士，云计算技术专家，之江实验室主任，阿里巴巴集团技术委员会主席）_百度百科
+https://baike.baidu.com/item/%E7%8E%8B%E5%9D%9A/8451588
+
+SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译] | 宝玉的分享
+https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics
+
+省委理论学习中心组集体学习会召开
+https://www.jl.gov.cn/szyw/jlyw/sp/202505/t20250506_3453220.html
+
+王坚 - Google 搜索
+https://www.google.com.hk/search?q=%E7%8E%8B%E5%9D%9A&sca_esv=f24ca8b027933cc4&sxsrf=AHTn8zoXFlnQUqsOnL3bVPOXP6XSDBFMgw:1747881406562&ei=vo0uaLqHIsPc2roP-6aD2Ag&start=20&sa=N&sstk=Af40H4WoIXUjDUZ1f9NSyejAfTTStp-3bCy8LFRvGvmFq_Dsgwq88dX891nO-Suh1WqfFnYvsgIhKklWOtqtOzXhL-ot76mhYk4NY--EsNmIg3ch8f1evOiebXHyiLsiStzJ&ved=2ahUKEwi63uPShbaNAxVDrlYBHXvTAIs4ChDy0wN6BAgIEAc&biw=1536&bih=695&dpr=1.25
+
+阿里云创始人王坚谈DeepSeek：一个不被看好的小企业却成功了|阿里云|王坚|AI_新浪科技_新浪网
+https://finance.sina.com.cn/tech/roll/2025-05-22/doc-inexkzvk7236416.shtml
+
+人工智能、“人工智能+”与新质生产力——王坚院士在《共富善治大讲堂》上的精彩观点
+https://www.cae.cn/cae/html/main/col35/2025-01/21/20250121111620447217562_1.html
+
+阿里云之父王坚：忽悠了马云的男人 - OFweek云计算网
+https://cloud.ofweek.com/news/2023-11/ART-178800-8110-30616657.html
+
+李开复 - Google 搜索
+https://www.google.com.hk/search?q=%E6%9D%8E%E5%BC%80%E5%A4%8D&sca_esv=f24ca8b027933cc4&sxsrf=AHTn8zoyDmF5FbP0OGi8oN94c5XYy4GCcw:1747881664348&ei=wI4uaP7xFLzh2roP2biGsA4&start=10&sa=N&sstk=Af40H4VDA9q1m-WctFt0bdy_qfpOzieeJ5CXVvBH6BP5T-4cEDHzJaBPq_aucE1iITmKnCm6vbAzKftWMlZllByV_rweP_wVsLbkWw&ved=2ahUKEwj-0dnNhraNAxW8sFYBHVmcAeYQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+零一万物的高管为何总是离职？|潘欣|李开复|首席技术官_网易订阅
+https://www.163.com/dy/article/K03RU0DF05118O92.html
+
+零一万物确认公司联合创始人谷雪梅已在数月前离职 曾负责模型预训练|万智|李开复_网易订阅
+https://www.163.com/dy/article/JVUQGJOH0512B07B.html
+
+林妙可 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%9E%97%E5%A6%99%E5%8F%AF
+
+零一万物-AI2.0大模型技术和应用的全球公司
+https://www.lingyiwanwu.com/
+
+加入零一万物AGI
+https://01ai.jobs.feishu.cn/index/position/list?keywords=&category=&location=&project=&type=&job_hot_flag=&current=2&limit=10&functionCategory=&tag=
+
+AI应用全栈工程师 - 加入零一万物AGI
+https://01ai.jobs.feishu.cn/index/position/7488677869231065382/detail
+
+LLM 大模型开发工程师-海外项目 - 加入零一万物AGI
+https://01ai.jobs.feishu.cn/index/
+
+登录 - 加入零一万物AGI
+https://01ai.jobs.feishu.cn/index/login?redirect_path=%2Fresume%2F7488676235900799259%2Fapply
+
+创新工场
+https://www.chuangxin.com/
+
+王坚 - Google 搜索
+https://www.google.com.hk/search?q=%E7%8E%8B%E5%9D%9A&oq=%E7%8E%8B%E5%9D%9A&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MgYIAhBFGDsyCAgDEEUYJxg7MgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINDU3MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+王坚 (信息技术专家) - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%9D%9A_(%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6)
+
+YouTube
+https://www.youtube.com/
+
+Avril Lavigne - Wish You Were Here (Official Video) - YouTube
+https://www.youtube.com/watch?v=VT1-sitWRtY
+
+google ceo - Google 搜索
+https://www.google.com.hk/search?q=google+ceo&oq=google+ceo&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI1MjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+英雄出少年 姜文 - Google 搜索
+https://www.google.com.hk/search?q=%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4+%E5%A7%9C%E6%96%87&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=-pUuaIT-OemhkPIPpu644Qc&oq=%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEOiLsembhOWHuuWwkeW5tCAqAggAMgUQABiABDIHEAAYgAQYDDIFEAAYgAQyBxAAGIAEGAwyBxAAGIAEGAwyBxAAGIAEGAwyBRAAGIAEMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMSLULUF5YXnABeAGQAQCYAeYBoAHmAaoBAzItMbgBAcgBAPgBAZgCAqAC9AHCAgoQABiwAxjWBBhHmAMAiAYBkAYKkgcFMS4wLjGgB8IDsgcDMi0xuAftAcIHAzItMsgHDA&sclient=gws-wiz-serp
+
+你行你上 (豆瓣)
+https://movie.douban.com/subject/36767956/
+
+你行你上 姜文 - Google 搜索
+https://www.google.com.hk/search?q=%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A+%E5%A7%9C%E6%96%87&newwindow=1&sca_esv=edb63bcffe9bdd76&ei=pZYuaLicB972kPIPv5aeiQg&ved=0ahUKEwj4gqSRjraNAxVeO0QIHT-LJ4EQ4dUDCBA&uact=5&oq=%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A+%E5%A7%9C%E6%96%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-S9oOihjOS9oOS4iiDlp5zmlocyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSMcNUABYkQxwAHgBkAEAmAHDA6ABmxSqAQM0LTa4AQPIAQD4AQGYAgagArgUwgIHEAAYgAQYDMICBRAAGIAEwgIHEC4YgAQYDJgDAJIHAzQtNqAH0BCyBwM0LTa4B7gUwgcDMi02yAcZ&sclient=gws-wiz-serp
+
+你行你上（中国2025年姜文执导的喜剧电影）_百度百科
+https://baike.baidu.com/item/%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A/65704237?noadapt=1
+
+数字吉林 - Google 搜索
+https://www.google.com.hk/search?q=%E6%95%B0%E5%AD%97%E5%90%89%E6%9E%97&oq=%E6%95%B0%E5%AD%97%E5%90%89%E6%9E%97&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD3SAQgyOTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+数字吉林
+https://www.jl.gov.cn/szfzt/szjl/index.html
+
+数字吉林
+https://www.jl.gov.cn/szfzt/szjl/yw_69468/202504/t20250417_3448180.html
+
+数字吉林
+https://www.jl.gov.cn/szfzt/szjl/yw_69468/202504/t20250425_3451109.html
+
+王坚-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=83980526&keyword=%E7%8E%8B%E5%9D%9A&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+王坚院士：算力革命会带来哪些改变_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1xc98YAEwk/?spm_id_from=333.337.search-card.all.click
+
+方大同-爱爱爱 - YouTube
+https://www.youtube.com/watch?v=kBd3PMbllyk
+
+ChatGPT转型计划曝光！不再只是回答问题，而是通过穿插使用工具变身行动助手 - Google 搜索
+https://www.google.com.hk/search?q=ChatGPT%E8%BD%AC%E5%9E%8B%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%EF%BC%81%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98%EF%BC%8C%E8%80%8C%E6%98%AF%E9%80%9A%E8%BF%87%E7%A9%BF%E6%8F%92%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E5%8F%98%E8%BA%AB%E8%A1%8C%E5%8A%A8%E5%8A%A9%E6%89%8B&oq=ChatGPT%E8%BD%AC%E5%9E%8B%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%EF%BC%81%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98%EF%BC%8C%E8%80%8C%E6%98%AF%E9%80%9A%E8%BF%87%E7%A9%BF%E6%8F%92%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E5%8F%98%E8%BA%AB%E8%A1%8C%E5%8A%A8%E5%8A%A9%E6%89%8B&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ChatGPT转型计划曝光！不再只是回答问题，而是通过穿插使用工具变身行动助手 | 量子位
+https://www.qbitai.com/2025/05/285804.html
 
 # 2025-05-21
 
