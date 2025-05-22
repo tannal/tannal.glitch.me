@@ -4,6 +4,132 @@
 whatwg - Google 搜索
 https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
+Document
+http://localhost:5173/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+王坚 bilibili - Google 搜索
+https://www.google.com.hk/search?q=%E7%8E%8B%E5%9D%9A+bilibili&oq=%E7%8E%8B%E5%9D%9A&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIOCAAQRRgnGDsYgAQYigUyBggBEEUYOzIGCAIQRRg7MggIAxBFGCcYOzIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDQ4NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+王坚-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=97836422&keyword=%E7%8E%8B%E5%9D%9A
+
+王坚院士：算力革命会带来哪些改变_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1xc98YAEwk/?spm_id_from=333.337.search-card.all.click
+
+王坚 黄强 - Google 搜索
+https://www.google.com.hk/search?q=%E7%8E%8B%E5%9D%9A+%E9%BB%84%E5%BC%BA&oq=%E7%8E%8B%E5%9D%9A+%E9%BB%84&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgcIAhAAGO8FMgcIAxAAGO8FMgcIBBAAGO8FMgcIBRAAGO8FMgcIBhAAGO8F0gEIMzk1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+黄强在省委理论学习中心组集体学习会上强调 以更大力度全方位推进数字吉林建设 胡玉亭朱国贤出席
+https://www.jl.gov.cn/szyw/jlyw/tp/202504/t20250428_3452057.html
+
+openstack - Google 搜索
+https://www.google.com.hk/search?q=openstack&oq=openstack&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTM5M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+探索 - OpenDev: Free Software Needs Free Tools
+https://opendev.org/explore/repos
+
+世界工厂中国 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82%E4%B8%AD%E5%9B%BD&newwindow=1&sca_esv=6fec179e4fda7293&ei=x84uaLWpHtC0i-gP6sT0kA8&start=10&sa=N&sstk=Af40H4XP5pzQCXE7sepy-qNBczqAUyekQGzishHyV-qwRBhRNsOj9Wg9IQSEI5f8SqtYhqUjsxUkBk392xw7vZXYuvqnbTS4Bh_npg&ved=2ahUKEwj1qM7Vw7aNAxVQ2gIHHWoiHfIQ8tMDegQIChAE&biw=1536&bih=695&dpr=1.25
+
+近日，中国国家主席习近平宣布"中国成为世界第一制造业国家"。 虽然早已成为世界工厂,但破例通过自己的嘴表现出了自豪感。他的发言意味着中国是驱动世界制造业的中枢国家,同时这个突然宣布的场所也引人注目。 .. - MK
+https://www.mk.co.kr/cn/world/11322686
+
+中国出口商谈美中贸易战：“看到特朗普拿出展板，我当时还挺高兴的” - BBC News 中文
+https://www.bbc.com/zhongwen/articles/c4g66peerywo/simp
+
+中国：从“世界工厂”迈向“智造强国”（国际论道）
+https://paper.people.com.cn/rmrbhwb/html/2023-06/26/content_26000570.htm
+
+人民网_网上的人民日报
+http://www.people.com.cn/
+
+中国发展服务业 - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95%E6%9C%8D%E5%8A%A1%E4%B8%9A&newwindow=1&sca_esv=6fec179e4fda7293&ei=BM8uaK_MOuvYi-gP0fOd-A4&start=10&sa=N&sstk=Af40H4X_b7k3xfx411o7mVyAZAjwUOiLbWYjARBU-YxitKyzDVpURqlBvF1T9JE_ZVuwizrVRlE2WUaLGo85617OweFojnLWKVpDiw&ved=2ahUKEwiv3vXyw7aNAxVr7AIHHdF5B-8Q8tMDegQIBxAE&biw=1536&bih=695&dpr=1.25
+
+周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=DYptgVvkVLQ&list=RDMMJ-Fi4s7IQO8&index=8
+
+Lucas Beyer (bl16) on X: "OK, ByteDance Seed is now firmly a top tier lab in my mind. Congrats on many solid works recently, continuously publishing and even releasing models. A shame that I am really really bad at remembering individual Chinese names though :-/ https://t.co/3DGfNSFEVW" / X
+https://x.com/giffmana/status/1925194650266354108
+
+BAGEL: The Open-Source Unified Multimodal Model
+https://bagel-ai.org/
+
+bytedance/UI-TARS
+https://github.com/bytedance/UI-TARS
+
+3 Years of Extremely Remote Work
+https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html
+
+字节裁员 - Google 搜索
+https://www.google.com.hk/search?q=%E5%AD%97%E8%8A%82%E8%A3%81%E5%91%98&newwindow=1&sca_esv=3035b77ba2076880&ei=btsuaK6qAqLPkPIPyJOWkAM&start=10&sa=N&sstk=Af40H4VeEk2ZVQHg8vRcT_Y4z2l_HeyCtiebgoeX0m-IMTv97qVR3UQOPMvpMk8uhGFQ_VX8KSaITRqBh5v9qIPG6wTSV08-pgUZ0Q&ved=2ahUKEwiume_dz7aNAxWiJ0QIHciJBTIQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+Facebook
+https://www.facebook.com/
+
+大學念理工才吃香？失業率Top10科系揭曉：物理、電腦工程、商設⋯為何比文組還慘？|數位時代 BusinessNext
+https://www.bnext.com.tw/article/83306/major-ai-unemployment?
+
+Facebook
+https://www.facebook.com/
+
+AI 一鍵生成行動 App！Bolt.new x Expo 超簡化 React Native 開發流程全解析 - Calpa 的煉金工房
+https://calpa.me/blog/bolt-new-expo-react-native-mvp-guide/
+
+gfxcourses.stanford.edu/cs248a/winter25
+https://gfxcourses.stanford.edu/cs248a/winter25
+
+project/README.md at master · stanford-cs248/project
+https://github.com/stanford-cs248/project/blob/master/README.md
+
+written-asst1.pdf
+https://gfxcourses.stanford.edu/cs248a/winter25content/static/pdfs/written-asst1.pdf
+
+stanford-cs248/draw-svg: Stanford CS248 Assignment 1: Implement a simple SVG renderer
+https://github.com/stanford-cs248/draw-svg?tab=readme-ov-file
+
+光栅化规则 - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/zh-cn/windows/win32/direct3d11/d3d10-graphics-programming-guide-rasterizer-stage-rules?redirectedfrom=MSDN
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+Google
+https://www.google.com.hk/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Ravid Shwartz Ziv on X: "Where can I start if I want to read more on diffusion models for LLMs?" / X
+https://x.com/ziv_ravid/status/1925329790531211605
+
+2410.17891
+https://arxiv.org/pdf/2410.17891
+
+hanyang1999/discrete-diffusion-papers: A collection of papers on discrete diffusion models
+https://github.com/hanyang1999/discrete-diffusion-papers
+
+[2406.07524] Simple and Effective Masked Diffusion Language Models
+https://arxiv.org/abs/2406.07524
+
+Mureka - Google 搜索
+https://www.google.com.hk/search?q=Mureka&oq=Mureka&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Mureka
+https://www.mureka.ai/
+
+YouTube
+https://www.youtube.com/
+
+南小北 (@nanxiaobei) / X
+https://x.com/nanxiaobei
+
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
 https://frontendmasters.com/courses/
 

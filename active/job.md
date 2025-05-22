@@ -532,8 +532,7 @@ zhongqidabian
 
 ## Sunday
 
-√ weekly report
-√
+
 
 ## Saturday
 ## Friday
@@ -545,6 +544,9 @@ zhongqidabian
 # 2025-5-19 - 2025-5-26 春 Socialization
 
 ## Sunday
+
+√
+
 ## Saturday
 ## Friday
 ## Thursday
@@ -555,6 +557,9 @@ zhongqidabian
 # 2025-5-12 - 2025-5-19 春 Socialization
 
 ## Sunday
+
+√ weekly report
+
 ## Saturday
 ## Friday
 ## Thursday
