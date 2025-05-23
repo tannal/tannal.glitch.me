@@ -524,11 +524,11 @@ zhongqidabian
 
 # 2025-6-16 - 2025-6-23 夏
 
-# 2025-6-9 - 2025-6-16 春 Socialization
+# 2025-6-9 - 2025-6-16 夏 Socialization
 
-# 2025-6-2 - 2025-6-9 春 Socialization
+# 2025-6-2 - 2025-6-9 夏 Socialization
 
-# 2025-5-26 - 2025-6-2 春 Socialization
+# 2025-5-26 - 2025-6-2 夏 Socialization
 
 ## Sunday
 
