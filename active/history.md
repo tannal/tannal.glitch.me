@@ -1,6 +1,147 @@
 
 # 2025-05-23
 
+whatwg/html: HTML Standard
+https://github.com/whatwg/html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Office Hours 2025-05-01 - Google 文档
+https://docs.google.com/document/d/1cg8-e06s6qvgQukwMnrDXo1AYFthczmhXQE701JWc6k/edit?tab=t.0
+
+周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=uIWypArI73w&list=RD5Ggnzs2hP3s&index=4
+
+周杰倫 Jay Chou【千里之外 Far Away (feat.費玉清 Fei Yu-ching)】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=ocDo3ySyHSI&list=RD8-PY_BRWHsk&index=2
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Kanban · Userland Migrations Board
+https://github.com/orgs/nodejs/projects/13/views/1
+
+汉斯·亚斯伯格 - Google 搜索
+https://www.google.com.hk/search?newwindow=1&sca_esv=3fa5b1ccc587d0e5&q=%E6%B1%89%E6%96%AF%C2%B7%E4%BA%9A%E6%96%AF%E4%BC%AF%E6%A0%BC&si=APYL9bvfhD-4vX4G6pNx53eLk1MnDHj0cxY7wP3HgguYF82ytw3aK0FrkaJ7wR_fXOQ7PsDV2vfM6Azvichmy7cXAJsKanLtOMzOavPWI88h5CiPWrDPH-jltlcxbBegOLqNvljhZHARCDUomr1nhxNTWOtLras9qCcJWvFq4xxtvz3lo8fjwow%3D&sa=X&ved=2ahUKEwi66uTXiLmNAxXaLUQIHe5bDIUQ3LoBegQIDhAB&biw=1536&bih=695&dpr=1.25
+
+汉斯·阿斯伯格本人是阿斯伯格吗？ - 知乎
+https://zhuanlan.zhihu.com/p/525082107
+
+汉斯·亚斯伯格 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%BC%A2%E6%96%AF%C2%B7%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC
+
+Asperger syndrome - Wikipedia
+https://en.wikipedia.org/wiki/Asperger_syndrome
+
+比尔盖茨 艾兹伯格 - Google 搜索
+https://www.google.com.hk/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8+%E8%89%BE%E5%85%B9%E4%BC%AF%E6%A0%BC&oq=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8+&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgkIAhAAGAwYgAQyCQgDEAAYDBiABDIPCAQQLhgMGMcBGNEDGIAEMgkIBRAuGAwYgAQyCQgGEAAYDBiABDIGCAcQRRg90gEIMzUzN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Code with Claude Opening Keynote - YouTube
+https://www.youtube.com/watch?v=EvtPBaaykdo
+
+把天才视为阿斯伯格（Asperger） - 知乎
+https://zhuanlan.zhihu.com/p/599379155
+
+解读阿斯伯格：天赋的另一面 - 知乎
+https://zhuanlan.zhihu.com/p/461143839
+
+(1 封私信 / 2 条消息) OrbiumCoelestium - 知乎
+https://www.zhihu.com/people/hq.yang/posts
+
+(1 封私信 / 2 条消息) OrbiumCoelestium - 知乎
+https://www.zhihu.com/people/hq.yang/posts
+
+精选特惠 拼团嗨购_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/featured-202504?from=26900
+
+Daniel Lemire's blog – Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2024) and is one of GitHub's top 1000 most followed developers.
+https://lemire.me/blog/
+
+扬州 - Google 搜索
+https://www.google.com.hk/search?q=%E6%89%AC%E5%B7%9E&oq=%E6%89%AC%E5%B7%9E&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIzMDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Adele - Someone Like You (Official Music Video) - YouTube
+https://www.youtube.com/watch?v=hLQl3WQQoQ0&list=RDAq6KNRyvm-Y&index=18
+
+Canonical lint set for Linebender projects - Linebender
+https://linebender.org/wiki/canonical-lints/
+
+Daniel Lemire's blog – Daniel Lemire is a software performance expert. He ranks among the top 2% of scientists globally (Stanford/Elsevier 2024) and is one of GitHub's top 1000 most followed developers.
+https://lemire.me/blog/
+
+Robert Clausecker - Google 搜索
+https://www.google.com.hk/search?q=Robert+Clausecker&oq=Robert+Clausecker&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+clausecker (Robert Clausecker)
+https://github.com/clausecker
+
+clausecker (clausecker) / Repositories
+https://github.com/clausecker?tab=repositories
+
+linebender/parley: Rich text layout library
+https://github.com/linebender/parley
+
+远交近攻 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E9%81%A0%E4%BA%A4%E8%BF%91%E6%94%BB
+
+Mozilla Firefox - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/Mozilla_Firefox
+
+淘宝网 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E6%B7%98%E5%AE%9D%E7%BD%91
+
+linebender/velato: An integration to parse and render Lottie with Vello.
+https://github.com/linebender/velato
+
+Velato Web Demo
+https://linebender.org/velato/
+
+Issues · gfx-rs/wgpu
+https://github.com/gfx-rs/wgpu/issues
+
+webgpu - Google 搜索
+https://www.google.com/search?q=webgpu&oq=webgpu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDExNjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Lottie spec - Google 搜索
+https://www.google.com/search?q=Lottie+spec&oq=Lottie+spec&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjg2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Home - Lottie Specs
+https://lottie.github.io/lottie-spec/1.0.1/
+
+Lottie
+https://github.com/lottie
+
+Home - Lottie Specs
+https://lottie.github.io/lottie-spec/latest/
+
+adobe Lottie - Google 搜索
+https://www.google.com/search?q=adobe+Lottie&oq=adobe+Lottie&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYCBgeMggIBBAAGAgYHjIICAUQABgIGB4yCAgGEAAYCBgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEIMzE0M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Home / X
+https://x.com/home
+
+Airbnb - Google 搜索
+https://www.google.com/search?q=Airbnb&oq=Airbnb&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBjQxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+你就偷着乐吧 - Google 搜索
+https://www.google.com/search?q=%E4%BD%A0%E5%B0%B1%E5%81%B7%E7%9D%80%E4%B9%90%E5%90%A7&oq=%E4%BD%A0%E5%B0%B1%E5%81%B7%E7%9D%80&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCDc1NTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Lottie - Google 搜索
+https://www.google.com/search?q=Lottie&oq=Lottie&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEHMTY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+周杰倫 Jay Chou【最長的電影 The Longest Movie】-Official Music Video - YouTube
+https://www.youtube.com/watch?v=2zxc27bvrO8&list=RDngDadzs4Q1w&index=3
+
+猴子石缴枪事件 - Google 搜索
+https://www.google.com/search?q=%E7%8C%B4%E5%AD%90%E7%9F%B3%E7%BC%B4%E6%9E%AA%E4%BA%8B%E4%BB%B6&sca_esv=642680827a50424a&sxsrf=AHTn8zrPK5Rd9wW0BQtqxRY81WCbjxTPdA:1748004010595&ei=qmwwaNeLJJPAvr0PuKPy2A8&start=10&sa=N&sstk=Af40H4VNNCLPxqzbvgmbPwMT-QBEcaiRA4I_6_C5vjbqySMs_od3MtKHNE0T2GXHIN2VfpAPMbndnL0ty-XIJVwiOJ46_OVmpbrTIg&ved=2ahUKEwjXiPiwzrmNAxUToK8BHbiRHPsQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+恰同学少年：毛泽东和他的同学们-中央纪委网站
+https://m.ccdi.gov.cn/content/13/85/48118.html
+
 whatwg - Google 搜索
 https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
