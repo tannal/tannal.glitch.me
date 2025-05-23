@@ -1,6 +1,185 @@
 
 # 2025-05-23
 
+whatwg - Google 搜索
+https://www.google.com.hk/search?q=whatwg&oq=whatwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+YouTube
+https://www.youtube.com/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal/
+
+YouTube
+https://www.youtube.com/
+
+YouTube
+https://www.youtube.com/
+
+2025年中华人民共和国腐败案件 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6
+
+棋士2025 - Google 搜索
+https://www.google.com.hk/search?q=%E6%A3%8B%E5%A3%AB2025&newwindow=1&sca_esv=3f7494e869ebe89e&ei=ZRcvaKm6Huzf2roP5MGPiAQ&start=10&sa=N&sstk=Af40H4UhuD0EsZ2m6noHx-5jjCYbEXDOSeYjHoXrPEX4T-egrKJd-Gj1Re3-MUuLx1m6hpU5UitCP8LCw4Yjz540v7s9Z-IYyXmB_A&ved=2ahUKEwjpgIL2iLeNAxXsr1YBHeTgA0EQ8tMDegQIIBAE&biw=1536&bih=695&dpr=1.25
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+特朗普关税：印度制造业受冲击，掀起反中国倾销行动 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/cm24lgrz10ko/simp
+
+周末双休日：中国教育部“双休”令为何遭遇重重阻力？ - BBC News 中文
+https://www.bbc.com/zhongwen/articles/c0kx6k5djlko/simp
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+www.epochtimes.com
+https://www.epochtimes.com/gb/
+
+大陆政治 | 大纪元
+https://www.epochtimes.com/gb/ncid277.htm
+
+中共二十一大 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7&oq=%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ2NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中共建政75周年：2027、2035、2049三个年份为何对中国有特殊意义 - BBC News 中文
+https://www.bbc.com/zhongwen/simp/world-69379223
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+邓小平120周年纪念日：中国高调回顾邓的执政遗产，习近平的改革开放能否比肩？ - BBC News 中文
+https://www.bbc.com/zhongwen/simp/chinese-news-69287787
+
+从窑洞到巅峰 习近平思想的发展历程 - BBC News 中文
+https://www.bbc.com/zhongwen/resources/idt-sh/Thoughts_Chairman_Xi_chinese
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Google
+https://www.google.com/
+
+Linux 核心設計 (2025): 第十四週課程 - YouTube
+https://www.youtube.com/watch?v=du2i9K9WcpI
+
+Release Xilem 0.1.0 · linebender/xilem : r/rust
+https://www.reddit.com/r/rust/comments/1cmo1pt/release_xilem_010_linebenderxilem/
+
+周杰伦演唱会 - Google 搜索
+https://www.google.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&oq=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMzNzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+周杰倫 Jay Chou【千山萬水 Thousands of miles】(2008年北京奧運會徵集歌曲) - YouTube
+https://www.youtube.com/watch?v=ngDadzs4Q1w&list=RDngDadzs4Q1w&start_radio=1
+
+殷明浩 - Google 搜索
+https://www.google.com/search?q=%E6%AE%B7%E6%98%8E%E6%B5%A9&sca_esv=f541b066ec008dfb&biw=1536&bih=695&sxsrf=AHTn8zrmL0ldHyapj8m2baoqAVPj-lx53Q%3A1747923102958&ei=njAvaMyYOuq-1e8PpoWIsAM&ved=0ahUKEwjM35X9oLeNAxVqX_UHHaYCAjYQ4dUDCBA&uact=5&oq=%E6%AE%B7%E6%98%8E%E6%B5%A9&gs_lp=Egxnd3Mtd2l6LXNlcnAiCeaut-aYjua1qTIFEAAYgAQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEjhN1CYBFibNHABeACQAQCYAf0CoAHuIKoBBTItNy43uAEDyAEA-AEBmAIOoALCH8ICBxAjGLADGCfCAgoQABiwAxjWBBhHwgIMECMYgAQYExgnGIoFwgIKECMYgAQYJxiKBcICChAuGIAEGEMYigXCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIUEC4YgAQYlwUY3AQY3gQY4ATYAQHCAgsQLhiABBjHARivAcICBxAAGIAEGAqYAwCIBgGQBgO6BgYIARABGBSSBwcxLjAuNS44oAfwbrIHBTItNS44uAe8Hw&sclient=gws-wiz-serp
+
+Using the Network Tab - Mastering Chrome Developer Tools, v4 | Frontend Masters
+https://frontendmasters.com/courses/dev-tools-v4/using-the-network-tab/
+
+jkup/mastering-devtools-static: The static site behind my Frontend Masters workshop
+https://github.com/jkup/mastering-devtools-static
+
+Mastering Chrome DevTools 2024, Final - Google 幻灯片
+https://docs.google.com/presentation/d/1-rBm6q3vRsI3aEbGoRKP3COedeTW05P-7v_ehRo9R1w/edit?slide=id.g3194c7616d9_2_10#slide=id.g3194c7616d9_2_10
+
+Building a C++/JS Browser for the Financial Markets - Paul Williams - YouTube
+https://www.youtube.com/watch?v=ElUM28ECjy8
+
+Mastering Chrome DevTools
+https://masteringdevtools.com/
+
+openai buy chrome - Google 搜索
+https://www.google.com/search?q=openai+buy+chrome&sca_esv=ad43a62fd8d4007c&sxsrf=AHTn8zrN4fa8FqA2I6vSIyubA4sLhXWzMA%3A1747924388757&ei=pDUvaNiHLrPg2roPxv6BoAo&ved=0ahUKEwjY6aTipbeNAxUzsFYBHUZ_AKQQ4dUDCBA&uact=5&oq=openai+buy+chrome&gs_lp=Egxnd3Mtd2l6LXNlcnAiEW9wZW5haSBidXkgY2hyb21lMggQABiABBjLATIEEAAYHjIEEAAYHjIEEAAYHjIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIGEAAYBRgeMgYQABgFGB4yBhAAGAgYHkjrMVAAWLgwcAV4AZABAJgBngSgAcw5qgELMi0xMC4xMS4xLjG4AQPIAQD4AQGYAhqgAtU1qAILwgIEECMYJ8ICChAjGIAEGCcYigXCAgoQABiABBhDGIoFwgIFEAAYgATCAgsQLhiABBjRAxjHAcICBxAjGCcY6gLCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICDRAuGIAEGEMY1AIYigXCAhAQLhiABBjRAxhDGMcBGIoFwgIFECEYoAHCAgcQIRigARgKmAMM8QXBfHpVU0FlN7oGBggBEAEYAZIHCjUuMC43LjEyLjKgB_dpsgcIMi03LjEyLjK4B7Q1&sclient=gws-wiz-serp
+
+paul williams bloomberg - Google 搜索
+https://www.google.com.hk/search?q=paul+williams+bloomberg&oq=Paul+Williams+bloo&gs_lcrp=EgZjaHJvbWUqBggDEAAYHjIGCAAQRRg5MgYIARAAGB4yBggCEAAYHjIGCAMQABgeMgoIBBAAGIAEGKIEMgcIBRAAGO8FMgcIBhAAGO8FMgcIBxAAGO8FMgoICBAAGIAEGKIE0gEINDQ4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+DevTools Deep Dive | Jack Franklin | performance.now() 2024 - YouTube
+https://www.youtube.com/watch?v=Di_B1eUo0pM
+
+web perf working group - Google 搜索
+https://www.google.com.hk/search?q=web+perf+working+group&oq=web+perf+working+group&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDQzNjVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+WebPerf WG Agenda - Google 文档
+https://docs.google.com/document/d/10dz_7QM5XCNsGeI63R864lF9gFqlqQD37B4q8Q46LMM/edit?tab=t.0#heading=h.47h6tzdi5d55
+
+webperfwg - Google 搜索
+https://www.google.com.hk/search?q=webperfwg&oq=webperfwg&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIJCAUQABgKGIAEMgcIBhAAGIAEMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMjAyOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Home / X
+https://x.com/home
+
+Is this book for beginners? - Claude
+https://claude.ai/chat/bf7b4bad-b31b-4e77-b3d5-2149418d290a
+
+「鋼琴教學」如果可以 (唯美抒情版)－韋禮安 WeiBird | 電影「月老」主題曲 | Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=aQUAwBby1RE
+
+newandroidbook - Google 搜索
+https://www.google.com.hk/search?q=newandroidbook&oq=newandroidbook&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMjgwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The long awaited index of Android Internals
+https://newandroidbook.com/index/index.php?q=
+
+Android Internals::TOC
+https://newandroidbook.com/TOC.html
+
+Android Internals::TOC
+https://newandroidbook.com/TOC.html
+
+Treble HAL - Google 搜索
+https://www.google.com.hk/search?q=Treble+HAL&oq=Treble+HAL&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Carriers & OTT
+https://events19.linuxfoundation.org/wp-content/uploads/2017/11/Project-Treble.-What-Makes-Android-8-Different_-Fedor-Tcymbal-Mera-Software-Services.pdf
+
+Android 12 Internals Update - YouTube
+https://www.youtube.com/watch?v=yT-bysbEWUg
+
+Discover — Bluesky
+https://bsky.app/
+
+opersys - Google 搜索
+https://www.google.com.hk/search?q=opersys&oq=opersys&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgxMTI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Opersys - Embedded Training and Development
+https://www.opersys.com/
+
+after effects 破解 - Google 搜索
+https://www.google.com.hk/search?q=after+effects+%E7%A0%B4%E8%A7%A3&oq=after+effects+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEINzE2M2owajeoAgiwAgHxBdYRLAf5impY&sourceid=chrome&ie=UTF-8
+
+Adobe After Effects 2025 (25.2.2) 特别版 - 果核剥壳
+https://www.ghxi.com/aftereffects2025.html
+
+Androidisms - Google 搜索
+https://www.google.com.hk/search?q=Androidisms&oq=Androidisms&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzEzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CodingWithMitch.com
+https://codingwithmitch.com/blog/understanding-the-internals-of-android-stack-architecture-and-how-it-relates-to-linux/
+
+王坚 - Google 搜索
+https://www.google.com.hk/search?q=%E7%8E%8B%E5%9D%9A&oq=%E7%8E%8B%E5%9D%9A&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg7MggIAhBFGCcYOzIGCAMQRRg7MgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjE5N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+王坚（中国工程院院士，云计算技术专家，之江实验室主任，阿里巴巴集团技术委员会主席）_百度百科
+https://baike.baidu.com/item/%E7%8E%8B%E5%9D%9A/8451588
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+tilde typst - Google 搜索
+https://www.google.com.hk/search?q=tilde+typst&oq=tilde+typst&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogTSAQgyMjY4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Accent Function – Typst Documentation
+https://typst.app/docs/reference/math/accent/
+
+typst/typst: A new markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
 
 # 2025-05-22
 

@@ -1,8 +1,6 @@
 
 # 2025-05-23
 
-
-
 Adobe After Effects
 
 # 2025-05-22
