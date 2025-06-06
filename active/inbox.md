@@ -1,6 +1,18 @@
 
 # 2025-06-06
 
+Bug 1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option
+
+快手圈
+中学圈
+大学圈
+
+Linebender圈
+tc39圈
+node圈
+igalia圈
+AI圈
+
 toudaishi erji
 
 
