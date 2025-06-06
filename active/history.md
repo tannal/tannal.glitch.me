@@ -1,6 +1,93 @@
 
 # 2025-06-06
 
+Google
+https://www.google.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Home / X
+https://x.com/home
+
+2025 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2025
+
+Check your email
+https://authenticator.cursor.sh/magic-code?email=2296746947%40qq.com&authentication_challenge_id=auth_challenge_01JWZN2R0G3G88HC26CRPX6JCK&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fja%252FloginDeepControl%253Fchallenge%253DydJGRv0aYogygMvG4ZjIwpC8cWposZrUGfoKcLP8BYU%2526uuid%253D2e4200fb-2a2c-41b3-8912-3d846e86f92e%2526mode%253Dlogin%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JWZMGY5JBN5HSY5HASZTZKVY&radar_auth_attempt_id=01JWZN2QY02D5XNG07M7Q844AC&radar_auth_attempt_created_at=2025-06-05T08%3A59%3A47.007Z
+
+scoop doubao - Google 搜索
+https://www.google.com/search?q=scoop+doubao&oq=scoop+doubao&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI4NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+豆包 - 字节跳动旗下 AI 智能助手
+https://www.doubao.com/chat/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Discover — Bluesky
+https://bsky.app/
+
+CSS Day 2025 - Ultimate Scroller - a Collection by Adam Argyle on CodePen
+https://codepen.io/collection/JYdmwr?grid_type=GRID
+
+Nintendo Switch - ✨ Nice Scroller
+https://codepen.io/argyleink/pen/KwweyEa
+
+Nice ✨ content scroller
+https://codepen.io/argyleink/pen/WbbMKvo
+
+百度一下，你就知道
+https://www.baidu.com/
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm?tab=readme-ov-file
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+特朗普 - Google 搜索
+https://www.google.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE&sca_esv=9f05e2405697a5fa&sxsrf=AE3TifM1_UicWfMf6mrW36kPqavO7ZR2CQ%3A1749127499899&ei=S5FBaPrWNp2Mvr0PyJjrCA&ved=0ahUKEwi6qLHap9qNAxUdhq8BHUjMGgEQ4dUDCBA&uact=5&oq=%E7%89%B9%E6%9C%97%E6%99%AE&gs_lp=Egxnd3Mtd2l6LXNlcnAiCeeJueacl-aZrjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARItxhQ6QZY4hZwA3gAkAEAmAHiAqAB3QyqAQMzLTW4AQPIAQD4AQGYAgagArMKwgIHECMY8AUYJ8ICBBAjGCfCAgoQIxiABBgnGIoFwgIQEC4YgAQY0QMYQxjHARiKBcICChAAGIAEGEMYigWYAwCIBgGSBwUyLjMtNKAHrx2yBwMzLTS4B6oKwgcFMi01LjHIByA&sclient=gws-wiz-serp
+
+特朗普与马斯克的争执升级：发生了什么？接下来会怎样？ | 政治 | 半岛电视台
+https://chinese.aljazeera.net/news/political/2025/6/6/%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%89%E6%89%A7%E5%8D%87%E7%BA%A7%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E6%8E%A5%E4%B8%8B%E6%9D%A5
+
+特朗普发动关税战后首次与习近平通话：谈判模式、互访可能、风格错配 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/cgr5pepp9veo/simp
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+正在重定向… | Slack
+https://openjs-foundation.slack.com/team
+
+美国否决加沙决议原因 - Claude
+https://claude.ai/chat/aec8e369-59c2-4e9f-adb6-8044296e992a
+
+Home / X
+https://x.com/home
+
+Discover — Bluesky
+https://bsky.app/
+
+特朗普态度又变了：让俄乌“先打一会儿” - 新华网客户端
+https://app.xinhuanet.com/news/article.html?articleId=584ce57d353e1578adde55ca15192bd5
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+脱口秀-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=81197742&keyword=%E8%84%B1%E5%8F%A3%E7%A7%80&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+【五灯脱口秀段子合集】全季封神场面，看完直接笑到起飞！｜脱口秀大会S5 ROCK&ROAST_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1oM4y117FX/?vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
 
 # 2025-06-05
 
