@@ -1,6 +1,10 @@
 
 # 2025-06-07
 
+PS C:\Users\tannal\tannalwork\projects\parley> git reset --hard HEAD
+HEAD is now at e1bf8e1 Correctly calculate trailing whitespace for all lines (#256)
+PS C:\Users\tannal\tannalwork\projects\parley> git clean -fd
+
 Gamma.app (被多次提及为“游戏规则改变者”)
 使用 Claude 结合 Google Apps Script 来生成幻灯片
 Slidev (以及如何将其与 Cursor 结合使用)

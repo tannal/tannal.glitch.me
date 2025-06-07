@@ -1,6 +1,114 @@
 
 # 2025-06-07
 
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Gryffindor's Magical Sword - Claude
+https://claude.ai/chat/83a51833-ecd5-4482-8a2d-78d48075c664
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+雷神之锤 - Google 搜索
+https://www.google.com/search?q=%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4&oq=%E9%9B%B7%E7%A5%9E%E4%B9%8B%E9%94%A4&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMjEyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+618大促_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/warmup202506?page=featured-202504&s_source=%2F%2Fcloud.tencent.com%2Fact%2Fpro%2FFeatured
+
+云产品免费体验馆_云产品免费试用_个人云产品试用-腾讯云
+https://cloud.tencent.com/act/pro/free
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+阿里巴巴 hkg - Google 搜索
+https://www.google.com/search?q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+hkg&oq=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+hkg&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMTczMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+HMCL-dev/HMCL: A Minecraft Launcher which is multi-functional, cross-platform and popular
+https://github.com/HMCL-dev/HMCL
+
+How Rust won - Google 幻灯片
+https://docs.google.com/presentation/d/1SoDsm_m_pb_gS6Y98HghhzBviYZxp3F2XawhIppJQQo/edit?slide=id.g35f4830bc17_0_5#slide=id.g35f4830bc17_0_5
+
+HMCL-dev/HMCL: A Minecraft Launcher which is multi-functional, cross-platform and popular
+https://github.com/HMCL-dev/HMCL
+
+intro-talk-2.pdf
+http://venge.net/graydon/talks/intro-talk-2.pdf
+
+aturon (Aaron Turon)
+https://github.com/aturon
+
+【Piano Cover】周杰倫51首歌曲大串燒 / JayChouMedley｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=DjvGNVadEcI
+
+中美贸易战 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98#%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F
+
+约翰·冯·诺伊曼 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC
+
+AI Safety and Training Risks - Claude
+https://claude.ai/chat/5fee73a0-c41e-4f66-aff8-9239f78612db
+
+百度一下，你就知道
+https://www.baidu.com/
+
+小调 - Google 搜索
+https://www.google.com/search?q=%E5%B0%8F%E8%B0%83&oq=%E5%B0%8F%E8%B0%83&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=bhECdWpGquetxM&vssid=_baBDaI3bNpGN2roP4cvLCA_76
+
+1901.00158
+https://arxiv.org/pdf/1901.00158
+
+Large Language Diffusion Models
+https://arxiv.org/pdf/2502.09992
+
+【论文解读】LLaDA：用扩散模型改变 LLM 的「自回归」范式 - 知乎
+https://zhuanlan.zhihu.com/p/24738741479
+
+(4 封私信 / 4 条消息) tomsheep - 知乎
+https://www.zhihu.com/people/tomsheep
+
+chrisdonahue (chrisdonahue) / Repositories
+https://github.com/chrisdonahue?tab=repositories
+
+llaDa - Google 搜索
+https://www.google.com/search?q=llaDa&oq=llaDa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIGCAcQRRg90gEIMTk0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Computer and the Brain - Google 搜索
+https://www.google.com/search?q=The+Computer+and+the+Brain&oq=The+Computer+and+the+Brain&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+The Computer And The Brain
+https://complexityexplorer.s3.amazonaws.com/supplemental_materials/5.6+Artificial+Life/The+Computer+and+The+Brain_text.pdf
+
+(1) Home / X
+https://x.com/home
+
+使用 AI | Gamma 创作即时演示文稿、网站和更多内容
+https://gamma.app/zh-cn
+
+bio-digital human - Google 搜索
+https://www.google.com/search?q=bio-digital+human&sca_esv=9436697198651bfc&sxsrf=AE3TifPB5nKFIUU2K-kjcRYc_x6IFyBufQ%3A1749267299714&ei=Y7NDaNqzK9CM2roP-qv0OQ&ved=0ahUKEwia8ZDAsN6NAxVQhlYBHfoVPQcQ4dUDCBA&uact=5&oq=bio-digital+human&gs_lp=Egxnd3Mtd2l6LXNlcnAiEWJpby1kaWdpdGFsIGh1bWFuMgUQABiABDIEEAAYHjIIEAAYgAQYogQyBhAAGAUYHkj1ClAAWMEJcAB4AZABAJgBnwOgAbEMqgEFMy0xLjO4AQPIAQD4AQGYAgSgAsAMwgIIEAAYgAQYywHCAgYQABgIGB7CAggQABgIGAoYHpgDAJIHBTMtMS4zoAfjC7IHBTMtMS4zuAfADMIHBTAuMi4yyAcN&sclient=gws-wiz-serp
+
+Large Language Diffusion Models
+https://ml-gsai.github.io/LLaDA-demo/
+
+ML-GSAI/LLaDA: Official PyTorch implementation for "Large Language Diffusion Models"
+https://github.com/ML-GSAI/LLaDA
+
+Luma AI | AI Video Generation with Ray2 & Dream Machine | Luma AI
+https://lumalabs.ai/
+
+Facebook
+https://www.facebook.com/ccckmit
+
+中国 - 纽约时报中文网
+https://m.cn.nytimes.com/china
+
 
 # 2025-06-06
 
