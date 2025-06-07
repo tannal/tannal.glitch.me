@@ -1,4 +1,15 @@
 
+# 2025-06-07
+
+Gamma.app (被多次提及为“游戏规则改变者”)
+使用 Claude 结合 Google Apps Script 来生成幻灯片
+Slidev (以及如何将其与 Cursor 结合使用)
+Manus AI (声称可以根据一个提示瞬间生成幻灯片)
+Gemini (用于创建 HTML 格式的幻灯片)
+Replit (用于快速构建此类工具)
+
+https://www.zhihu.com/people/tomsheep
+
 # 2025-06-06
 
 Bug 1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option
