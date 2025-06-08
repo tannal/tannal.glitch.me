@@ -1,7 +1,9 @@
 
 # 2025-06-08
 
+C:\Users\tannal\go\bin\hugo.exe。
 
+go install github.com/gohugoio/hugo-extended@latest
 
 # 2025-06-07
 
