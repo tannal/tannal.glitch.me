@@ -1,6 +1,8 @@
 
 # 2025-06-08
 
+https://www.cairographics.org/releases/
+
 涌现（Emergence）：文章以椋鸟群舞、市场价格形成和语言演变为例，解释了“涌现”这一概念，即复杂行为并非来自中心控制，而是自发地产生于个体之间的简单互动
 
 C:\Users\tannal\go\bin\hugo.exe。

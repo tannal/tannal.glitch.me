@@ -1,6 +1,140 @@
 
 # 2025-06-08
 
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+React Fast Refresh: Component Updates - Claude
+https://claude.ai/chat/5e937f66-4920-470e-b4b6-acfe41e66512
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+大脑：纠缠不清的互联体
+https://mp.weixin.qq.com/s?__biz=MzkxNzg2MzkxNg==&mid=2247542762&idx=1&sn=132227888d626caa4e9f94912d3733fb&chksm=c0d4ecabd874fbbbb6f538710dc293f8650c9c63b187934edf5948143dbdcfdca7728507011d&mpshare=1&scene=1&srcid=0607g4v3XPh8wmtHsLNnI64T&sharer_shareinfo=f5bc8cc0ce5c5873b46c96a0234f5ace&sharer_shareinfo_first=f5bc8cc0ce5c5873b46c96a0234f5ace#rd
+
+Home / X
+https://x.com/home
+
+Excalidraw
+https://excalidraw.com/
+
+mask predictor - Google 搜索
+https://www.google.com/search?q=mask+predictor&oq=mask+predictor&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgcIBRAAGO8FMggIBhAAGAUYHjIICAcQABgFGB4yCAgIEAAYCBgeMggICRAAGAgYHtIBCDI4NjhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+【论文解读】LLaDA：用扩散模型改变 LLM 的「自回归」范式 - 知乎
+https://zhuanlan.zhihu.com/p/24738741479
+
+Large Language Diffusion Models
+https://arxiv.org/pdf/2502.09992
+
+黄之锋被香港国安警察起诉“勾结外国势力”罪 可能面临终身监禁 - BBC News 中文
+https://www.bbc.com/zhongwen/articles/c787ydn2wexo/simp
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+how is cursor working - Google 搜索
+https://www.google.com/search?q=how+is+cursor+working&sca_esv=4cade36f34450002&sxsrf=AE3TifOok2Z770NCEdBZcyGTJnv250GMQA%3A1749288990473&ei=HghEaO_QHK_j2roP0K2-mA8&ved=0ahUKEwjv14ungd-NAxWvsVYBHdCWD_MQ4dUDCBA&uact=5&oq=how+is+cursor+working&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWhvdyBpcyBjdXJzb3Igd29ya2luZzIFECEYoAEyBRAhGKABSJ1BUL0RWJZAcAJ4AZABAZgBhwOgAZc7qgEEMy0yMrgBA8gBAPgBAZgCFqACjzbCAgoQABiwAxjWBBhHwgIEECMYJ8ICChAjGIAEGCcYigXCAgoQABiABBhDGIoFwgIHEAAYgAQYDMICBRAAGIAEwgIIEAAYgAQYywHCAgsQLhiABBjRAxjHAcICBRAuGIAEwgIIEC4YgAQY1ALCAggQLhiABBjLAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBwgIEEAAYHsICBhAAGAgYHsICBRAAGO8FwgIIEAAYgAQYogSYAwCIBgGQBgq6BgYIARABGBSSBwYyLjMtMjCgB5Z3sgcEMy0yMLgHizbCBwYxLjkuMTLIB0s&sclient=gws-wiz-serp
+
+【Piano Cover】周杰倫51首歌曲大串燒 / JayChouMedley｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=DjvGNVadEcI
+
+chengazhen/cursor-auto-free: auto sign cursor
+https://github.com/chengazhen/cursor-auto-free
+
+99.3 The Peach - Radiocast
+https://radiocast.co/
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIGCAMQRRg70gEHOTM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+美联储维持联邦基金利率目标区间不变-新华网
+http://www.news.cn/20250508/52e7bc0baa5f4431ba879b23d565d6ae/c.html
+
+中国 cpi - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+cpi&newwindow=1&sca_esv=176d6bad4133e5b3&ei=5iJEaNu2MYm8kPIPzPuggQ4&ved=0ahUKEwjbwbnsmt-NAxUJHkQIHcw9KOAQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD+cpi&gs_lp=Egxnd3Mtd2l6LXNlcnAiCuS4reWbvSBjcGkyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdIoRhQvRFYxBVwAXgBkAEAmAGfA6ABxAmqAQM0LTO4AQPIAQD4AQGYAgGgAgyYAwCIBgGQBgeSBwExoAfhA7IHALgHAMIHAzMtMcgHCA&sclient=gws-wiz-serp
+
+财经数据 _ 居民消费价格指数(CPI) _ 数据中心 _ 东方财富网
+https://data.eastmoney.com/cjsj/cpi.html
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/users/notice/privateChat?entranceType=%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B6%88%E6%81%AF
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/
+
+tannal/tannal.github.io: Yet another blog.
+https://github.com/tannal/tannal.github.io
+
+AI-2025-06-08-14:28
+https://tannal.github.io/zh-cn/p/ai-2025-06-08-1428/#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMg0IARAuGMcBGNEDGIAEMgwIAhAjGCcYgAQYigUyBggDEEUYOzIHCAQQABiABDIGCAUQRRg9MgYIBhBFGD0yBggHEEUYPNIBCDE2MzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+特朗普 - Google 搜索
+https://www.google.com.hk/search?q=%E7%89%B9%E6%9C%97%E6%99%AE&oq=%E7%89%B9%E6%9C%97%E6%99%AE&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgYIAhBFGDsyBwgDEAAYgAQyBggEEEUYPTIGCAUQBRhAMgYIBhBFGD0yBggHEEUYPNIBCDExMTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+excalidraw github - Google 搜索
+https://www.google.com.hk/search?q=excalidraw+github&oq=excalidraw+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI5ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+selection cursor doesn't show on hover for other elements if linear element selected · Issue #9628 · excalidraw/excalidraw
+https://github.com/excalidraw/excalidraw/issues/9628
+
+Excalidraw
+https://excalidraw.com/
+
+Excalidraw
+https://excalidraw.com/
+
+tannal (tannal)
+https://github.com/tannal
+
+AI-2025-06-08-14:28
+https://tannal.github.io/zh-cn/p/ai-2025-06-08-1428/#%E5%B8%B8%E7%94%A8%E9%80%89%E9%A1%B9
+
+Facebook
+https://www.facebook.com/
+
+All | Search powered by Algolia
+https://hn.algolia.com/
+
+devbox - Google 搜索
+https://www.google.com.hk/search?q=devbox&oq=devbox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE1NjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal
+http://localhost:1313/
+
+谭盟
+http://localhost:1313/zh-cn/
+
+(1079) #parley > Parley 0.5 release - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/channel/205635-parley/topic/Parley.200.2E5.20release/with/521537263
+
+Prepare for 0.5.0 release of Parley by nicoburns · Pull Request #374 · linebender/parley
+https://github.com/linebender/parley/pull/374
+
+Office Hours 2025-06-05 - Google 文档
+https://docs.google.com/document/d/14pwx05Pu1oJ_5ikachCkN88H9uDaby9CDh9iIzCbp_w/edit?tab=t.0#heading=h.evjimzdnrevx
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Luiz Pessoa - Google 搜索
+https://www.google.com.hk/search?q=Luiz+Pessoa&oq=Luiz+Pessoa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Keynote #2 - Luiz Pessoa - The entangled brain: integrating perception, cognition, and emotion - YouTube
+https://www.youtube.com/watch?v=SR7z-pKZM-I
 
 # 2025-06-07
 
