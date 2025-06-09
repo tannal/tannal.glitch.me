@@ -1,6 +1,9 @@
 
 # 2025-06-09
 
+scoop bucket add extras # 如果你还没有添加 extras bucket
+scoop install btop
+
 微信送饭
 
 https://fontdrop.info/
