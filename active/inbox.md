@@ -1,6 +1,10 @@
 
 # 2025-06-09
 
+movie-full-stack
+https://frontendmasters.com/courses/vanilla-js-go/create-database-model-interface/
+https://github.com/firtman/go-vanillajs/
+
 scoop bucket add extras # 如果你还没有添加 extras bucket
 scoop install btop
 
