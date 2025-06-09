@@ -1,4 +1,126 @@
 
+# 2025-06-09
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+美国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E5%9B%BD+bbc&oq=%E7%BE%8E%E5%9B%BD+bbc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDINCAMQLhjHARjRAxiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDgxNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+阿里巴巴 hkg - Google 搜索
+https://www.google.com.hk/search?q=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+hkg&oq=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+hkg&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg70gEIMzk3MWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
+
+A plan for SIMD - Google 文档
+https://docs.google.com/document/d/1iIjpWNv_96qpVTOmhF_Ly3lCAM8Md11p8LZrC5yf2I0/edit?tab=t.0#heading=h.2qfbzrl3ndea
+
+firefoxgraphics.github.io
+https://firefoxgraphics.github.io/
+
+Towards fearless SIMD, 7 years later - Linebender
+https://linebender.org/blog/towards-fearless-simd/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=firefoxgraphics&sort=byPopularity&type=story
+
+MEGAPULSA88 - Tempat Bermain Slot Online
+https://hackermusings.com/
+
+Graphics API Design
+https://robert.ocallahan.org/2011/09/graphics-api-design.html
+
+Cairo github - Google 搜索
+https://www.google.com.hk/search?q=Cairo+github&oq=Cairo+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+msteinert/cairo: A 2D graphics library with support for multiple output devices
+https://github.com/msteinert/cairo
+
+Issues · starkware-libs/cairo
+https://github.com/starkware-libs/cairo/issues
+
+Index of /releases
+https://www.cairographics.org/releases/
+
+Home / X
+https://x.com/home
+
+build cairo from source on windows - Google 搜索
+https://www.google.com.hk/search?q=build+cairo+from+source+on+windows&oq=build+cairo+from+source+on+windows&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTEwNzk1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+cairo-windows/build-cairo-windows.sh at master · preshing/cairo-windows
+https://github.com/preshing/cairo-windows/blob/master/build-cairo-windows.sh
+
+YouTube
+https://www.youtube.com/
+
+Quartz 2D - Google 搜索
+https://www.google.com.hk/search?q=Quartz+2D&oq=Quartz+2D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Azure graphics firefox - Google 搜索
+https://www.google.com.hk/search?q=Azure+graphics+firefox&newwindow=1&sca_esv=7e79f815d1da761a&ei=By1GaKL6EJ7LkPIP-9zu2Qg&ved=0ahUKEwjimdHkjOONAxWeJUQIHXuuO4sQ4dUDCBA&uact=5&oq=Azure+graphics+firefox&gs_lp=Egxnd3Mtd2l6LXNlcnAiFkF6dXJlIGdyYXBoaWNzIGZpcmVmb3gyBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgQQABgeMggQABiABBiiBDIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHkjPIVDEAViGH3ABeAGQAQCYAdIJoAHzDKoBBzQtMS43LTG4AQPIAQD4AQGYAgKgAtsJwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuNy0xoAfABbIHAzctMbgH1QnCBwMyLTLIBwc&sclient=gws-wiz-serp
+
+Azure - Mozilla Azure
+https://www.azure.lu.rs/mozilla-azure/
+
+Direct2D Azure hits Firefox 7 - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2011/09/direct2d-azure-hits-firefox-7/
+
+Home / X
+https://x.com/home
+
+LLM Systems | Large Language Model Systems
+https://llmsystem.github.io/llmsystem2025spring/
+
+Main
+https://rush-nlp.com/
+
+Sasha Rush - YouTube
+https://www.youtube.com/@srush_nlp/videos
+
+洛杉矶 - Google 搜索
+https://www.google.com.hk/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6&oq=%E6%B4%9B%E6%9D%89%E7%9F%B6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABDIHCAgQABiABDINCAkQLhivARjHARiABNIBCDUzNTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+SGI（美国硅图公司）的兴衰史 —— 一位叛逆的年轻人如何短暂地征服世界的故事 [译] | 宝玉的分享
+https://baoyu.io/translations/story/the-rise-and-fall-of-silicon-graphics
+
+The Rise and Fall of Silicon Graphics
+https://www.abortretry.fail/p/the-rise-and-fall-of-silicon-graphics
+
+blog - Residual Vector Quantization
+https://drscotthawley.github.io/blog/posts/2023-06-12-RVQ.html
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+美国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E5%9B%BD+bbc&newwindow=1&sca_esv=a129b0ffc02c93c9&ei=yThGaLXjKMOikPIP3crKoQM&ved=0ahUKEwj164yAmOONAxVDEUQIHV2lMjQQ4dUDCBA&uact=5&oq=%E7%BE%8E%E5%9B%BD+bbc&gs_lp=Egxnd3Mtd2l6LXNlcnAiCue-juWbvSBiYmMyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEdI6p8CUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgiYAwCIBgGQBgqSBwExoAcAsgcAuAcAwgcDMi0xyAcG&sclient=gws-wiz-serp
+
+cursor import chat - Google 搜索
+https://www.google.com.hk/search?q=cursor+import+chat&oq=cursor+import+chat&gs_lcrp=EgZjaHJvbWUyCwgAEEUYChg5GIAEMgoIARAAGIAEGKIEMgoIAhAAGIAEGKIEMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIE0gEINDIxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · getcursor/cursor
+https://github.com/getcursor/cursor/issues?q=is%3Aissue%20state%3Aopen%20import%20a%20chat
+
+Claude
+https://claude.ai/new
+
+Discover — Bluesky
+https://bsky.app/
+
+微博 – 随时随地发现新鲜事
+https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F
+
+tannal (tannal)
+https://github.com/tannal/
+
+AI-2025-06-08-14:28
+https://tannal.github.io/zh-cn/p/ai-2025-06-08-1428/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
 # 2025-06-08
 
 Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
