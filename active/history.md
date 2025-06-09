@@ -1,6 +1,81 @@
 
 # 2025-06-09
 
+Ryan Dahl on X: "AI is real and bitcoin is worth $100k. We are literally living in the cyberpunk future. Complete with a maximally dystopian US government. Why is no one freaking out about this? It’s like we hit the singularity and everyone just kept scrolling." / X
+https://x.com/rough__sea/status/1931930359824048603
+
+Discover — Bluesky
+https://bsky.app/
+
+Label-Only Dataset Inference - Google 搜索
+https://www.google.com.hk/search?q=Label-Only+Dataset+Inference&oq=Label-Only+Dataset+Inference&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBBzc4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Project Architecture - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/project-architecture/
+
+【Piano Cover】周杰倫51首歌曲大串燒 / JayChouMedley｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=DjvGNVadEcI&t=1529s
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+Your Stars
+https://github.com/tannal?tab=stars
+
+virgiling/NENU-Thesis-Typst: NENU-Thesis Template Written by Typst
+https://github.com/virgiling/NENU-Thesis-Typst
+
+deno github - Google 搜索
+https://www.google.com.hk/search?q=deno+github&oq=deno+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIICAgQABgFGB4yCAgJEAAYBRge0gEINjU2NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+codehz (Neko Hz)
+https://github.com/codehz
+
+WIP: Fontations glyph rasterization backend by nicoburns · Pull Request #4869 · servo/webrender
+https://github.com/servo/webrender/pull/4869/files
+
+fonts: Start using `fontations` to read font tables by mrobinson · Pull Request #37287 · servo/servo
+https://github.com/servo/servo/pull/37287
+
+linebender/xilem: An experimental Rust native UI framework
+https://github.com/linebender/xilem
+
+Images · Issue #1 · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/issues/1
+
+2025-06-09
+https://tannal.github.io/zh-cn/p/2025-06-09/#%E5%A6%82%E4%BD%95%E5%88%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E6%8C%89%E9%92%AE%E7%9A%84%E7%BB%98%E5%9B%BE%E6%8C%87%E4%BB%A4
+
+FontDrop!
+https://fontdrop.info/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+steve jobs youtube - Google 搜索
+https://www.google.com.hk/search?q=steve+jobs+youtube&oq=steve+jobs+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQwNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+谭盟
+http://localhost:1313/zh-cn/
+
+masonry linebender github - Google 搜索
+https://www.google.com.hk/search?q=masonry+linebender+github&newwindow=1&sca_esv=3865a5c24f38e491&ei=aKFGaOPMJNzykPIP2s-AyAY&ved=0ahUKEwjjoJnj--ONAxVcOUQIHdonAGkQ4dUDCBA&uact=5&oq=masonry+linebender+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGW1hc29ucnkgbGluZWJlbmRlciBnaXRodWIyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwQyCBAhGKABGMMESNAeUNcLWLsdcAF4AZABAJgBmwOgAaYcqgEFMy05LjG4AQPIAQD4AQGYAgKgAuACwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHBTEuMy0xoAelILIHAzMtMbgH3QLCBwMwLjLIBwM&sclient=gws-wiz-serp
+
+xilem/masonry at main · linebender/xilem
+https://github.com/linebender/xilem/tree/main/masonry
+
+Document
+http://localhost:8080/
+
+微软拼音中英文输入状态乱跳 - Google 搜索
+https://www.google.com.hk/search?q=%E5%BE%AE%E8%BD%AF%E6%8B%BC%E9%9F%B3%E4%B8%AD%E8%8B%B1%E6%96%87%E8%BE%93%E5%85%A5%E7%8A%B6%E6%80%81%E4%B9%B1%E8%B7%B3%0D%0A&newwindow=1&sca_esv=3865a5c24f38e491&ei=ia9GaK-eGozAkPIPqcCp6QQ&ved=0ahUKEwjvhuufieSNAxUMIEQIHSlgKk0Q4dUDCBA&uact=5&oq=%E5%BE%AE%E8%BD%AF%E6%8B%BC%E9%9F%B3%E4%B8%AD%E8%8B%B1%E6%96%87%E8%BE%93%E5%85%A5%E7%8A%B6%E6%80%81%E4%B9%B1%E8%B7%B3%0D%0A&gs_lp=Egxnd3Mtd2l6LXNlcnAiKOW-rui9r-aLvOmfs-S4reiLseaWh-i-k-WFpeeKtuaAgeS5sei3swpIAFAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA&sclient=gws-wiz-serp
+
+【解决办法】微软输入法总是随光标移动而变换中英文输入状态 - 知乎
+https://zhuanlan.zhihu.com/p/336652103
+
 Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
 https://frontendmasters.com/courses/
 
