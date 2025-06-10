@@ -1,6 +1,71 @@
 
 # 2025-06-10
 
+Home / X
+https://x.com/home
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Movie Details Component - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+Full Course: Advanced Vanilla JS with Go with Passkeys, PWAs, & SSR with Max Firtman - YouTube
+https://www.youtube.com/watch?v=qn8isz7keLc
+
+Movie
+http://localhost:8080/
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Excalidraw
+https://excalidraw.com/
+
+力扣 (LeetCode) 全球极客挚爱的技术成长平台
+https://leetcode.cn/
+
+3442. 奇偶频次间的最大差值 I - 力扣（LeetCode）
+https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10
+
+前端 面经-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E5%89%8D%E7%AB%AF%20%E9%9D%A2%E7%BB%8F&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+补一些前端实习面经_牛客网
+https://www.nowcoder.com/discuss/759826683523239936?sourceSSR=search
+
+牛客网公司真题_免费模拟题库_企业面试|笔试真题
+https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page
+
+字节前端面经_牛客网
+https://www.nowcoder.com/feed/main/detail/c88a44862d6243cebea4ab7fd203a61c?sourceSSR=search
+
+顺时针打印矩阵 - Google 搜索
+https://www.google.com.hk/search?q=%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5&oq=%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzk3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+LCR 146. 螺旋遍历二维数组 - 力扣（LeetCode）
+https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/submissions/635826473/
+
+tannal
+https://tannal.github.io/
+
+analogy hinton youtube - Google 搜索
+https://www.google.com.hk/search?q=analogy+hinton++youtube&newwindow=1&sca_esv=813765718ccf2407&ei=kxBIaIbJBqjEkPIP8YmM0Qc&ved=0ahUKEwjG3qL32eaNAxUoIkQIHfEEI3oQ4dUDCBA&uact=5&oq=analogy+hinton++youtube&gs_lp=Egxnd3Mtd2l6LXNlcnAiF2FuYWxvZ3kgaGludG9uICB5b3V0dWJlMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogRIj5gDUHVYwpMDcAJ4AJABApgBwA2gAawkqgEPMi0xLjAuMS4xLjIuMC4xuAEDyAEA-AEBmAIGoAL4D8ICCRAAGLADGAgYHsICCxAAGIAEGLADGKIEwgIIEAAYsAMY7wXCAgYQABgIGB7CAgUQIRigAcICBxAhGKABGAqYAwCIBgGQBgaSBwsyLjAuMS4wLjIuMaAH6QiyBwkyLTEuMC4yLjG4B-wPwgcFMC4zLjPIBxU&sclient=gws-wiz-serp
+
+Geoffrey Hinton says we are more AI like than we think: analogy machines instead of rational beings - YouTube
+https://www.youtube.com/watch?v=DDAoEDdw4Y8
+
+ColorZilla - Google 搜索
+https://www.google.com.hk/search?q=ColorZilla&oq=ColorZilla&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzMxNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ColorZilla - Chrome 应用商店
+https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?pli=1
+
+SVG Architecture Diagram Redesign - Claude
+https://claude.ai/chat/b86bbd70-e3dc-449d-864b-5a05e80d1c4e
 
 # 2025-06-09
 
