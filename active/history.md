@@ -1,4 +1,7 @@
 
+# 2025-06-10
+
+
 # 2025-06-09
 
 Ryan Dahl on X: "AI is real and bitcoin is worth $100k. We are literally living in the cyberpunk future. Complete with a maximally dystopian US government. Why is no one freaking out about this? It’s like we hit the singularity and everyone just kept scrolling." / X
