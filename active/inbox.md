@@ -1,4 +1,8 @@
 
+# 2025-06-11
+
+http://localhost:8080/movies/?q=man
+
 # 2025-06-10
 
 https://www.colorzilla.com/chrome/
