@@ -1,6 +1,8 @@
 
 # 2025-06-11
 
+https://github.com/jellyfin
+
 http://localhost:8080/movies/?q=man
 
 # 2025-06-10
