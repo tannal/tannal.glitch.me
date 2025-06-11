@@ -1,4 +1,48 @@
 
+# 2025-06-11
+
+Home / X
+https://x.com/home
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Full Course: Advanced Vanilla JS with Go with Passkeys, PWAs, & SSR with Max Firtman - YouTube
+https://www.youtube.com/watch?v=qn8isz7keLc
+
+Dynamic Router & Links - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/dynamic-router-links/
+
+Movie
+http://localhost:8080/
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=pastMonth&page=0&prefix=true&query=documentry&sort=byPopularity&type=story
+
+localhost:8080/api/movies/14
+http://localhost:8080/api/movies/14
+
+谭盟
+http://localhost:1313/zh-cn/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(1) 【Piano Cover】鄧紫棋41首歌曲大串燒 / G.E.M medley｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=_BkjZsO8Eu4&t=8s
+
+Movie
+http://localhost:8080/movies/90
+
 # 2025-06-10
 
 Home / X
