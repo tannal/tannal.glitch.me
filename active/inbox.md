@@ -1,6 +1,8 @@
 
 # 2025-06-12
 
+https://issues.chromium.org/issues?q=status:open
+
 curl "https://api.github.com/search/repositories?q=language:typst" \
 -H "Accept: application/vnd.github.v3+json"
 
