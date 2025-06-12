@@ -1,6 +1,126 @@
 
 # 2025-06-12
 
+User Account Repository - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/user-account-repository/
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(4) 「鋼琴教學」Flower Dance (初階版)－DJ Okawari | 這首神曲, 給你一天時間練習也能彈到! | Piano Cover 琴譜 - YouTube
+https://www.youtube.com/watch?v=jrKD2MSpaBA&list=RD5Ggnzs2hP3s&index=15
+
+chromium bug - Google 搜索
+https://www.google.com.hk/search?q=chromium+bug&oq=chromium+bug&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRg8MgYIBxBFGDzSAQg0ODg5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+status:open - Chromium
+https://issues.chromium.org/issues?q=status:open
+
+hotlistid:5483263 status:new - Chromium
+https://issues.chromium.org/issues?q=hotlistid:5483263%20status:new
+
+dynamic import do not set referer header [409959472] - Chromium
+https://issues.chromium.org/issues/409959472
+
+Propagate fetch referrer in dynamic imports by nicolo-ribaudo · Pull Request #9407 · whatwg/html
+https://github.com/whatwg/html/pull/9407
+
+Use the URL of the importer module as the HTTP referrer for dynamic import requests [40274684] - Chromium
+https://issues.chromium.org/issues/40274684
+
+import() should use referring script's base URL as the referrer · Issue #3744 · whatwg/html
+https://github.com/whatwg/html/issues/3744
+
+openai buy chrome - Google 搜索
+https://www.google.com.hk/search?q=openai+buy+chrome&oq=openai+buy+chrome&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM4MTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Following — Bluesky
+https://bsky.app/
+
+The impact of AI on the technical interview process | Hacker News
+https://news.ycombinator.com/item?id=42977039
+
+tannal (tannal)
+https://github.com/tannal/
+
+Home / X
+https://x.com/home
+
+Google 翻译
+https://translate.google.com/?sl=ja&tl=zh-CN&text=Mac%20%E3%81%AE%20Retina%20%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E3%81%8C%20OpenGL%20%E3%81%A7%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%9E%E3%82%A6%E3%82%B9%E3%81%AE%E4%BD%8D%E7%BD%AE%E3%81%AE%E5%8D%98%E4%BD%8D%E3%81%A8%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%93%E3%83%A5%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E5%8D%98%E4%BD%8D%E3%81%8C%E4%B8%80%E8%87%B4%E3%81%97%E3%81%A6%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%81%AB%E6%AF%8E%E5%BA%A6%E6%82%A9%E3%81%BE%E3%81%95%E3%82%8C%E3%82%8B%E3%80%82%0A%0A%E3%81%82%E3%81%A8%20GLM%20%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%20(0.9.5)%20%E3%81%AB%E3%81%AF%20%22angleAngle%20expressed%20in%20radians%20if%20GLM_FORCE_RADIANS%20is%20define%20or%20degrees%20otherwise.%22%20%E3%81%A3%E3%81%A6%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B%E3%81%AE%E3%81%AB%E3%80%811.0.1%20%E3%81%AE%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AF%20%22%2F%2F%2F%20%0A%40param%0A%20angle%20Angle%20expressed%20in%20radians.%22%20%E3%81%A8%E3%81%97%E3%81%8B%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%AA%E3%81%8F%E3%81%A6%E3%83%8F%E3%83%9E%E3%82%8B%E3%80%82%0A&op=translate
+
+coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+https://github.com/coqui-ai/TTS
+
+jaywalnut310/vits: VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+https://github.com/jaywalnut310/vits
+
+neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality
+https://github.com/neonbjb/tortoise-tts
+
+suno-ai/bark: 🔊 Text-Prompted Generative Audio Model
+https://github.com/suno-ai/bark
+
+llama.cpp github - Google 搜索
+https://www.google.com.hk/search?q=llama.cpp+github&oq=llama.cpp+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINjUzOGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ggml-org/llama.cpp: LLM inference in C/C++
+https://github.com/ggml-org/llama.cpp
+
+llada - Google 搜索
+https://www.google.com.hk/search?q=llada&oq=lla&gs_lcrp=EgZjaHJvbWUqDggCEEUYJxg7GIAEGIoFMgYIABBFGDkyBggBEEUYOzIOCAIQRRgnGDsYgAQYigUyBggDEEUYOzIMCAQQIxgnGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjg1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ML-GSAI/LLaDA: Official PyTorch implementation for "Large Language Diffusion Models"
+https://github.com/ML-GSAI/LLaDA?tab=readme-ov-file
+
+Gradio
+https://www.gradio.app/
+
+EleutherAI/lm-evaluation-harness: A framework for few-shot evaluation of language models.
+https://github.com/EleutherAI/lm-evaluation-harness
+
+Movie
+http://localhost:8080/movies/784
+
+dbeaver太卡了，有没有高性能数据库连接替代品？最好式r... - Claude
+https://claude.ai/chat/fbecfb33-b3b8-4406-8e1e-93c136fcecbc
+
+kgpu/wgpu-java: Native WebGPU bindings for java, based on wgpu
+https://github.com/kgpu/wgpu-java
+
+gobang github - Google 搜索
+https://www.google.com.hk/search?q=gobang+github&oq=gobang+github&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDBg5GIAEMgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDMwNTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+TaKO8Ki/gobang: A cross-platform TUI database management tool written in Rust
+https://github.com/TaKO8Ki/gobang
+
+HeidiSQL - Google 搜索
+https://www.google.com.hk/search?q=HeidiSQL&oq=HeidiSQL&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+HeidiSQL - Google 搜索
+https://www.google.com.hk/search?q=HeidiSQL&oq=HeidiSQL&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPNIBBzIxM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+HeidiSQL/HeidiSQL: A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi
+https://github.com/HeidiSQL/HeidiSQL
+
+HeidiSQL - Google 搜索
+https://www.google.com.hk/search?q=HeidiSQL&oq=HeidiSQL&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTI1NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+HeidiSQL - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/HeidiSQL
+
+HeidiSQL/HeidiSQL: A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi
+https://github.com/HeidiSQL/HeidiSQL
+
+tauri-apps/tauri: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+https://github.com/tauri-apps/tauri/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 Filtering Movies by Genre - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
 https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
 

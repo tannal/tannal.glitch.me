@@ -1,6 +1,8 @@
 
 # 2025-06-12
 
+https://sms-activate.io/cn/buy
+
 HeidiSQL
 
 https://issues.chromium.org/issues?q=status:open
