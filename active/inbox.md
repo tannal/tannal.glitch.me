@@ -1,6 +1,8 @@
 
 # 2025-06-12
 
+HeidiSQL
+
 https://issues.chromium.org/issues?q=status:open
 
 curl "https://api.github.com/search/repositories?q=language:typst" \
