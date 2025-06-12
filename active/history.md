@@ -1,6 +1,149 @@
 
 # 2025-06-12
 
+Filtering Movies by Genre - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+go-vanillajs/README.md at main · firtman/go-vanillajs
+https://github.com/firtman/go-vanillajs/blob/main/README.md#f1---the-moviespage
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+思考时，大脑仅多消耗5%的能量？
+https://mp.weixin.qq.com/s?__biz=MzkxNzg2MzkxNg==&mid=2247542783&idx=1&sn=54622aad2653cda6df20b626f5a1d384&chksm=c0c6c6ec9266a72d84bb3f032d50b532733062bac3185ecc79b473f69747efd78200cbe36465&mpshare=1&scene=1&srcid=0611ZEuQFO67Ay77TiWbEZ0N&sharer_shareinfo=6d3923faf31deac8555e4bb188420952&sharer_shareinfo_first=d4e0522e56466536feed5d5ef5386e56#rd
+
+Movie
+http://localhost:8080/movies/90
+
+Server Side Rendering – Intermediate React v6
+https://intermediate-react-v6.holt.courses/lessons/react-render-modes/server-side-rendering
+
+Server-Side Generation from Scratch - Intermediate React, v6 | Frontend Masters
+https://frontendmasters.com/courses/intermediate-react-v6/server-side-generation-from-scratch/
+
+btholt/intermediate-react-v6: Intermediate React, as taught for Frontend Masters. The sixth iteration of the course
+https://github.com/btholt/intermediate-react-v6/
+
+Client-Side React – Intermediate React v6
+https://intermediate-react-v6.holt.courses/lessons/react-render-modes/client-side-react
+
+Home / X
+https://x.com/home
+
+The #1 skill future developers need - Google 搜索
+https://www.google.com.hk/search?q=The+%231+skill+future+developers+need&oq=The+%231+skill+future+developers+need&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI4MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SVG Musical Score Design - Claude
+https://claude.ai/chat/cc1161fa-3fa0-4050-b158-ebde4279cace
+
+美联储 点阵图 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9%E9%98%B5%E5%9B%BE&newwindow=1&sca_esv=f1ea2f922214231a&ei=B-ZIaMbBE7vzkPIPt8CJoQ4&oq=%E7%BE%8E%E8%81%94%E5%82%A8+%E7%82%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiDee-juiBlOWCqCDngrkqAggAMgoQABiABBhDGIoFMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgcQABiABBgMMgQQABgeMgQQABgeSP8rUMQMWPoXcAF4AZABAJgBhgSgAfMWqgEFNC00LjK4AQPIAQD4AQGYAgegApQXwgIKEAAYsAMY1gQYR8ICBRAAGIAEwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCpIHBTEuNC02oAfoFLIHAzQtNrgHjxfCBwUwLjEuNsgHHA&sclient=gws-wiz-serp
+
+央行专区 | MacroMicro 财经M平方
+https://sc.macromicro.me/central_bank/us
+
+tannal/go-vanillajs at tannal
+https://github.com/tannal/go-vanillajs/tree/tannal
+
+temp sms - Google 搜索
+https://www.google.com.hk/search?q=temp+sms&oq=temp+sms&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIMCAEQIxgnGIAEGIoFMgcIAhAAGIAEMgkIAxAAGAwYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyNjI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Excalidraw
+https://excalidraw.com/
+
+(2) 周杰倫Jay Chou X aMEI【不該 Shouldn't Be】Official MV - YouTube
+https://www.youtube.com/watch?v=_VxLOj3TB5k&list=RDngDadzs4Q1w&index=17
+
+react or not - Google 搜索
+https://www.google.com.hk/search?q=react+or+not&oq=react+or+not&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgMGB4yCAgCEAAYDBgeMggIAxAAGAgYHjIKCAQQABiABBiiBDIHCAUQABjvBTIKCAYQABiABBiiBDIHCAcQABjvBTIHCAgQABjvBTIKCAkQABgFGAwYHtIBCDQ1MDJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+If not React, then what? | Hacker News
+https://news.ycombinator.com/item?id=42279172
+
+if not react then what - Google 搜索
+https://www.google.com.hk/search?q=if+not+react+then+what&oq=if+not+react+then&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBTIHCAYQABjvBTIGCAcQRRg90gEINTI5MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+If Not React, Then What? - Infrequently Noted
+https://infrequently.org/2024/11/if-not-react-then-what/
+
+Discover — Bluesky
+https://bsky.app/
+
+MSEdgeExplainers/DelayedMessages/explainer.md at main · MicrosoftEdge/MSEdgeExplainers
+https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/DelayedMessages/explainer.md
+
+面试经典 150 题 - 学习计划 - 力扣（LeetCode）全球极客挚爱的技术成长平台
+https://leetcode.cn/studyplan/top-interview-150/
+
+3445. 奇偶频次间的最大差值 II - 力扣（LeetCode）
+https://leetcode.cn/problems/maximum-difference-between-even-and-odd-frequency-ii/?envType=daily-question&envId=2025-06-11
+
+牛客网 - 找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网
+https://www.nowcoder.com/
+
+2025年6月11日
+https://tannal.github.io/zh-cn/p/2025%E5%B9%B46%E6%9C%8811%E6%97%A5/#3-%E4%BC%A0%E7%BB%9F%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F%E7%9A%84%E5%B1%80%E9%99%90%E6%80%A7fiber-%E6%97%A8%E5%9C%A8%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98
+
+2025年6月11日
+http://localhost:1313/zh-cn/p/2025%E5%B9%B46%E6%9C%8811%E6%97%A5/
+
+Alpha should apply to layer as a whole, not every element in layer · Issue #37 · linebender/velato
+https://github.com/linebender/velato/issues/37
+
+Velato Web Demo
+https://linebender.org/velato/
+
+Facebook
+https://www.facebook.com/
+
+Jellyfin github - Google 搜索
+https://www.google.com.hk/search?q=Jellyfin+github&oq=Jellyfin+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+jellyfin repositories
+https://github.com/jellyfin
+
+The Free Software Media System | Jellyfin
+https://jellyfin.org/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+HarfBuzz Study: Introducing HarfRust - Google 文档
+https://docs.google.com/document/d/1aH_waagdEM5UhslQxCeFEb82ECBhPlZjy5_MwLNLBYo/preview?tab=t.0#heading=h.s0tnj23yq2er
+
+中国 bbc - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+bbc&oq=%E4%B8%AD%E5%9B%BD+bbc&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPDIGCAMQRRg80gEIMjEzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+主页 - BBC News 中文
+https://www.bbc.com/zhongwen/simp
+
+百度一下，你就知道
+https://www.baidu.com/
+
+(4) Taylor Swift - The Last Time ft. Gary Lightbody - YouTube
+https://www.youtube.com/watch?v=QuijXg8wm28&list=PL2kCRyVYYM7b5sQ52c7vfPWgsH5hX1Uo7&index=11
+
+(4) Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy) - YouTube
+https://www.youtube.com/watch?v=Hd_ptbiPoXM
+
+Repository search results
+https://github.com/search?q=language%3Atypst&type=repositories
+
+Intermediate React v6
+http://localhost:3000/
+
+Personal Access Tokens (Classic)
+https://github.com/settings/tokens
+
+OrangeX4/typst-tablem: Write markdown-like tables easily.
+https://github.com/OrangeX4/typst-tablem
+
+Minimum viable package manager · Issue #1554 · typst/typst
+https://github.com/typst/typst/issues/1554
+
+GitHub Code Search - Google 搜索
+https://www.google.com.hk/search?q=GitHub+Code+Search&oq=GitHub+Code+Search&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBBzIzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 # 2025-06-11
 
