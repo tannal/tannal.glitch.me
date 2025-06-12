@@ -1,6 +1,123 @@
 
 # 2025-06-12
 
+Testing Authentication with Postman - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+【Piano Cover】鄧紫棋41首歌曲大串燒 / G.E.M medley｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=_BkjZsO8Eu4
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm
+
+Formatter: Lexing, Parsing & Output - Write a Compiler That Understands Types | Frontend Masters
+https://frontendmasters.com/courses/type-compiler/introduction/
+
+Zero-Overhead Programming | Learn C on Frontend Masters | Frontend Masters
+https://frontendmasters.com/courses/c-fundamentals/
+
+rtfeldman/compiler-workshop-v1
+https://github.com/rtfeldman/compiler-workshop-v1
+
+rtfeldman/compiler-workshop-v1
+https://github.com/rtfeldman/compiler-workshop-v1
+
+Frontend Masters: Building a Static Type-Inferring Compiler
+https://static.frontendmasters.com/assets/courses/2025-06-10-type-compiler/type-compiler-slides.pdf
+
+Richard Feldman - Google 搜索
+https://www.google.com.hk/search?q=Richard+Feldman&oq=Richard+Feldman&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE1MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Richard Feldman (@rtfeldman) / X
+https://x.com/rtfeldman
+
+Home / X
+https://x.com/home
+
+Release Notes - Longbridge Desktop
+https://longbridge.com/desktop/release-notes/
+
+Phoronix: "Platform Profile Power/Performance Impact For ThinkPad T14s G6 + AMD Ryzen AI 7 PRO 360 - https://www.phoronix.com/news/Platform-Profile-T14s-Gen-6" — Bluesky
+https://bsky.app/profile/phoronix-poster.bsky.social/post/3lrfhyanyhk2u
+
+中国 5月份cpi - Google 搜索
+https://www.google.com.hk/search?q=%E4%B8%AD%E5%9B%BD+5%E6%9C%88%E4%BB%BDcpi&oq=%E4%B8%AD%E5%9B%BD+5%E6%9C%88%E4%BB%BDcpi&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDUzOTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+localhost:8080/api/movies/266
+http://localhost:8080/api/movies/266
+
+Employment across the UK by Industry
+https://www.mattzeunert.com/uk-employment/#north-west/activities-of-head-offices-management
+
+newosbook - Google 搜索
+https://www.google.com.hk/search?q=newosbook&oq=newosbook&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGAoYgAQyDwgCEC4YChjHARjRAxiABDIPCAMQLhgKGMcBGNEDGIAEMgkIBBAAGAoYgAQyDwgFEC4YChivARjHARiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEIMjU2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+*OS Internals: - Welcome!
+https://newosxbook.com/home.html
+
+*OS Internals::Volume I - User Mode
+https://newosxbook.com/toc1.html
+
+newandroidbook - Google 搜索
+https://www.google.com.hk/search?q=newandroidbook&oq=newandroidbook&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgkIARAAGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgkIBxAAGA0YgAQyCQgIEAAYDRiABDIICAkQABgNGB7SAQgzODQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Android Internals::TOC
+https://newandroidbook.com/TOC.html
+
+DisARMing code - Systems Programming, Reverse Engineering and Debugging in Linux, Android and Darwin - Jonathan Levin
+https://newdebuggingbook.com/
+
+Disarming Code: System Programming, Debugging & Reverse Engineering in Linux, Android, Darwin: Jonathan Levin: 9780991055500: Amazon.com: Books
+https://www.amazon.com/dp/0991055500?&linkCode=sl1&tag=newosxbookcom-20&linkId=c2eab6f962b04a47e5574ea137fd5bb8&language=en_US&ref_=as_li_ss_tl
+
+Android Internals:Developer's View: Jonathan Levin: 9780991055548: Amazon.com: Books
+https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543/130-6970597-7767953?pd_rd_w=Ooqo5&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=N3FWZ4EM3K698W91PZA2&pd_rd_wg=kHMoc&pd_rd_r=95171623-d04d-48fe-9e52-34c4044b3711&pd_rd_i=0991055543&psc=1
+
+Apple OS Internals: User Mode Architecture - Claude
+https://claude.ai/chat/d0db8ef1-925e-46c1-a4c1-4feb3aa1792c
+
+Jonathan Levin « HITBSecConf2018 – Amsterdam
+https://archive.conference.hitb.org/hitbsecconf2018ams/speakers/jonathan-levin/
+
+android internals::developer's view - Google 搜索
+https://www.google.com.hk/search?q=android+internals::developer%27s+view&newwindow=1&sca_esv=21add0260304d420&ei=UqVKaOPiL8qZkPIPvp6nuA8&start=10&sa=N&sstk=Ac65TH5J-OwcQduhm0DEXn7rraihuV9UcNQPBB4qYIZsBJ9C1WOmbN4pOknxXyQyoyblj4t8-9TSL8Ty22zsydbXcyVq7s7hTGnAvQ&ved=2ahUKEwjj04mJ0OuNAxXKDEQIHT7PCfcQ8tMDegQICRAE&biw=1536&bih=695&dpr=1.25
+
+Akipe/awesome-android-aosp: A collection of Android AOSP and ROM development related resources
+https://github.com/Akipe/awesome-android-aosp
+
+HITB 安全会议 - Google 搜索
+https://www.google.com.hk/search?q=HITB+%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE&oq=HITB+%E5%AE%89%E5%85%A8%E4%BC%9A%E8%AE%AE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDMyMTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Hack In The Box Security Conference
+https://conference.hitb.org/
+
+HITB安全峰会之旅.md | 小生很忙
+https://chaoge123456.github.io/HITB%E5%AE%89%E5%85%A8%E5%B3%B0%E4%BC%9A%E4%B9%8B%E6%97%85.html/
+
+Hack In The Box youtube - Google 搜索
+https://www.google.com.hk/search?q=Hack+In+The+Box+youtube&oq=Hack+In+The+Box+youtube&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIJCAQQABgTGIAEMgkIBRAAGBMYgAQyCwgGEAAYChgTGIAEMgsIBxAAGAoYExiABDILCAgQABgKGBMYgAQyCwgJEAAYChgTGIAE0gEIMjYxMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(4) #HITB2024BKK #COMMSEC D2: BadUSB Attacks on MacOS: Beyond Using the Terminal and Shell Commands - YouTube
+https://www.youtube.com/watch?v=ir7fw8U0qT0
+
+(4) steve jobs most innovative speech - YouTube
+https://www.youtube.com/watch?v=YM4If6YHN3s
+
+2025年6月12日
+https://tannal.github.io/zh-cn/p/2025%E5%B9%B46%E6%9C%8812%E6%97%A5/#1-%E4%BB%8E%E4%B8%80%E6%AE%B5%E5%BC%8F%E7%9D%A1%E7%9C%A0%E5%88%B0%E4%B8%A4%E6%AE%B5%E5%BC%8F%E7%9D%A1%E7%9C%A0%E6%B7%BB%E5%8A%A0%E5%8D%88%E7%9D%A1
+
+2025年6月12日
+http://localhost:1313/zh-cn/p/2025%E5%B9%B46%E6%9C%8812%E6%97%A5/
+
 User Account Repository - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
 https://frontendmasters.com/courses/vanilla-js-go/user-account-repository/
 
