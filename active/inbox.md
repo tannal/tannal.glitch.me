@@ -1,4 +1,10 @@
 
+# 2025-06-12
+
+yarn config set httpProxy http://localhost:7897
+yarn config set httpsProxy http://localhost:7897
+yarn config set proxy http://localhost:7897 # 这是一个旧的/通用代理设置，通常httpProxy和httpsProxy更精确
+
 # 2025-06-11
 
 https://github.com/jellyfin
