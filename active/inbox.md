@@ -1,6 +1,12 @@
 
 # 2025-06-13
 
+
+
+Bug 1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option; r=bthrall
+
+http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion
+
 电影与娱乐：
 政治与社会讨论：
 技术/编程领域：
