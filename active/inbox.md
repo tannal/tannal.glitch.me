@@ -1,5 +1,14 @@
 
+# 2025-06-13
+
+TPM
+
+scoop install tor-browser
+
+Developer Relations (开发者关系)，简称 DevRel，是一个在科技公司中越来越重要的岗位。它的核心职责是建立、维护和培养公司与外部开发者社区之间的关系。
+
 # 2025-06-12
+
 
 https://sms-activate.io/cn/buy
 
