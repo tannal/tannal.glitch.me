@@ -1,7 +1,9 @@
 
+# 2025-06-14
+
+https://open.kattis.com/problems/rectanglesurrounding
+
 # 2025-06-13
-
-
 
 Bug 1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option; r=bthrall
 
