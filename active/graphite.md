@@ -1,4 +1,10 @@
 
+
+
+
+
+```bash
 cargo install cargo-watch
 cargo install wasm-pack
-cargo install -f wasm-bindgen-cli@0.2.99
+cargo install -f wasm-bindgen-cli@0.2.100
+```
