@@ -1,6 +1,113 @@
 
 # 2025-06-13
 
+Calling the Authentication APIs - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+谭盟
+http://localhost:1313/zh-cn/
+
+Introduction - Blazingly Fast JavaScript | Frontend Masters
+https://frontendmasters.com/courses/blazingly-fast-js/introduction/
+
+2025年6月12日
+http://localhost:1313/zh-cn/p/2025%E5%B9%B46%E6%9C%8812%E6%97%A5/#%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E6%A0%88
+
+Formatter: Lexing, Parsing & Output - Write a Compiler That Understands Types | Frontend Masters
+https://frontendmasters.com/courses/type-compiler/formatter-lexing-parsing-output/
+
+rtfeldman/compiler-workshop-v1
+https://github.com/rtfeldman/compiler-workshop-v1?tab=readme-ov-file
+
+Frontend Masters: Building a Static Type-Inferring Compiler
+https://static.frontendmasters.com/assets/courses/2025-06-10-type-compiler/type-compiler-slides.pdf
+
+Movie
+http://localhost:8080/account/login
+
+【Piano Cover】周杰倫51首歌曲大串燒 / JayChouMedley｜高還原純鋼琴版｜高音質/附譜/附歌詞 - YouTube
+https://www.youtube.com/watch?v=DjvGNVadEcI&t=1060s
+
+Home / X
+https://x.com/home
+
+MoonRay github - Google 搜索
+https://www.google.com.hk/search?q=MoonRay+github&oq=MoonRay+github&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIGCAgQABgeMgYICRAAGB7SAQgyNDI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+dreamworksanimation/openmoonray: MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+https://github.com/dreamworksanimation/openmoonray
+
+All | Search powered by Algolia
+https://hn.algolia.com/?dateRange=last24h&page=0&prefix=false&query=&sort=byPopularity&type=story
+
+技术产品-搜索结果-牛客网
+https://www.nowcoder.com/search/all?query=%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81&type=all&searchType=%E9%A1%B6%E9%83%A8%E5%AF%BC%E8%88%AA%E6%A0%8F
+
+Flutter Overview - Cross-Platform Mobile Apps with Flutter | Frontend Masters
+https://frontendmasters.com/courses/flutter/introduction/
+
+Introduction to Flutter Workshop
+https://firtman.github.io/intro-flutter/
+
+Our First Widget – Introduction to Flutter Workshop
+https://firtman.github.io/intro-flutter/lessons/flutter-basics/our-first-widget
+
+Fluent UI - Google 搜索
+https://www.google.com.hk/search?q=Fluent+UI&oq=Fluent+UI&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzMDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+microsoft/fluentui: Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+https://github.com/microsoft/fluentui
+
+Steve Schoger - Google 搜索
+https://www.google.com.hk/search?q=Steve+Schoger&oq=Steve+Schoger&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+X
+https://x.com/megotannal
+
+Refactoring UI
+https://www.refactoringui.com/
+
+tor zlib link onion - Google 搜索
+https://www.google.com.hk/search?q=tor+zlib+link+ouion&newwindow=1&sca_esv=4e55f75f497bcb4a&ei=anxLaKvUL4TPkPIP0ce4kQ4&ved=0ahUKEwirsdGZne2NAxWEJ0QIHdEjLuIQ4dUDCBA&uact=5&oq=tor+zlib+link+ouion&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3RvciB6bGliIGxpbmsgb3Vpb24yBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSO8MUIUDWNoLcAF4AZABAJgBpAOgAbUJqgEFMy0yLjG4AQPIAQD4AQGYAgOgApsGwgIKEAAYsAMY1gQYR8ICBBAAGB7CAggQABiABBiiBMICBRAAGO8FwgIGEAAYCBgemAMAiAYBkAYKkgcFMS4zLTKgB-YEsgcDMy0yuAeWBsIHBTAuMi4xyAcH&sclient=gws-wiz-serp
+
+Intermediate React v6
+http://localhost:3000/
+
+Facebook
+https://www.facebook.com/
+
+2025年6月12日
+https://tannal.github.io/zh-cn/p/2025%E5%B9%B46%E6%9C%8812%E6%97%A5/#%E7%9B%B4%E6%8E%A5%E4%BB%8E-curl-%E5%91%BD%E4%BB%A4%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%E5%B9%B6%E7%AE%A1%E9%81%93%E5%88%B0-jq
+
+High Performance Browser Networking (O'Reilly)
+https://hpbn.co/
+
+Movie
+http://localhost:8080/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+The Illusion of Thinking paper - Google 搜索
+https://www.google.com.hk/search?q=The+Illusion+of+Thinking+paper&oq=The+Illusion+of+Thinking+paper&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTIxNDlqMGoxNagCCLACAfEFoOYjDTrCsdc&sourceid=chrome&ie=UTF-8
+
+The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
+https://www.arxiv.org/pdf/2506.06941
+
+tannal/ohmywork
+https://github.com/tannal/ohmywork
+
+twitter background - Google 搜索
+https://www.google.com.hk/search?q=twitter+background&oq=twitter+background&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQBRgsMgYIAxAFGCzSAQg1NjgwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+美しい無料画像と写真の数々 | Unsplash
+https://unsplash.com/ja
+
+下载您的文件 — Convertio
+https://convertio.co/zh/download/3787aa178f39d3ee1511bb15fa14705fdbed80/
 
 # 2025-06-12
 
