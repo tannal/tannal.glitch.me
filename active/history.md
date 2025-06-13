@@ -7,6 +7,111 @@ https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
 微信文件传输助手网页版
 https://szfilehelper.weixin.qq.com/
 
+High Performance Browser Networking (O'Reilly)
+https://hpbn.co/
+
+Movie
+http://localhost:8080/
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+Home / X
+https://x.com/home
+
+Mego Tan (@megotannal) / X
+https://x.com/home
+
+Learn JavaScript, React, and TypeScript to Node.js, Fullstack, and Backend | Frontend Masters
+https://frontendmasters.com/?q=react&c=courses
+
+React Components - React Native, v3 | Frontend Masters
+https://frontendmasters.com/courses/react-native-v3/your-first-view-component-with-styles/
+
+谭盟
+http://localhost:1313/zh-cn/
+
+hugo stack theme - Google 搜索
+https://www.google.com.hk/search?q=hugo+stack+theme&oq=hugo+stack+the&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABiABBiiBDIHCAMQABjvBTIKCAQQABiABBiiBDIHCAUQABjvBTIKCAYQABiABBiiBNIBCDc1OTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Mainroad
+https://themes.gohugo.io/themes/mainroad/
+
+Movie
+http://localhost:8080/account/login
+
+Graphite | Codebase overview
+https://graphite.rs/volunteer/guide/codebase-overview/
+
+Graphite | Project setup
+https://graphite.rs/volunteer/guide/project-setup/
+
+hugo github - Google 搜索
+https://www.google.com.hk/search?q=hugo+github&oq=hugo+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgxODM0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+gohugoio/hugo: The world’s fastest framework for building websites.
+https://github.com/gohugoio/hugo
+
+CaiJimmy/hugo-theme-stack: Card-style Hugo theme designed for bloggers
+https://github.com/CaiJimmy/hugo-theme-stack
+
+CaiJimmy/hugo-theme-stack-starter: A quickstart template to create a Hugo blog using hugo-theme-stack
+https://github.com/CaiJimmy/hugo-theme-stack-starter
+
+Markdown Syntax Guide
+https://dev.stack.jimmycai.com/p/markdown-syntax-guide/
+
+Getting Started | Stack
+https://stack.jimmycai.com/guide/getting-started
+
+Thomas A. Wehr - Google 搜索
+https://www.google.com.hk/search?q=Thomas+A.+Wehr&oq=Thomas+A.+Wehr&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgoIAhAAGIAEGKIEMgcIAxAAGO8FMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgcIBhAAGO8F0gEHMjcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Thomas Wehr - Wikipedia
+https://en.wikipedia.org/wiki/Thomas_Wehr
+
+javascript.options.experimental.json_parse_with_source (StaticPrefList.yaml - mozsearch)
+https://searchfox.org/mozilla-central/source/modules/libpref/init/StaticPrefList.yaml#8801
+
+mozilla-firefox/firefox: The official repository of Mozilla's Firefox web browser.
+https://github.com/mozilla-firefox/firefox?tab=readme-ov-file
+
+Firefox Contributors’ Quick Reference — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Cursor - The AI Code Editor
+https://www.cursor.com/ja/dashboard
+
+zlib onion link - Google 搜索
+https://www.google.com.hk/search?q=zlib+onion+link&oq=zlib+union+lik&gs_lcrp=EgZjaHJvbWUqCwgBEAAYDRgTGIAEMgYIABBFGDkyCwgBEAAYDRgTGIAEMgsIAhAAGA0YExiABDIKCAMQABgNGBMYHjIHCAQQABjvBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIHCAcQABjvBdIBCDY1ODNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+tannal
+https://tannal.github.io/
+
+Mozilla Firefox – Official GitHub repo | Hacker News
+https://news.ycombinator.com/item?id=43969827
+
+firefox move to github - Google 搜索
+https://www.google.com.hk/search?q=firefox+move+to+github&oq=firefox+move+to+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCAgDEAAYExgeMggIBBAAGBMYHjIICAUQABgTGB4yCAgGEAAYExgeMgYIBxBFGD3SAQg0MTE1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+cranelift: Use `DominatorTreePreorder` in more places · Issue #7954 · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/issues/7954
+
+rust-gpu - Google 搜索
+https://www.google.com.hk/search?q=rust-gpu&oq=rust-gpu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yCAgDEAAYChgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEIMjIxM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+EmbarkStudios/rust-gpu: 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+https://github.com/EmbarkStudios/rust-gpu
+
+Calling the Authentication APIs - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 谭盟
 http://localhost:1313/zh-cn/
 

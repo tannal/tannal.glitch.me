@@ -1,4 +1,4 @@
-
+moz-phab submit --no-wip --upstream branches/default/tip
 
 Bug 1947949 - Remove unused NS_ERROR_HTMLPARSER_* codes. r?hsivonen
 
