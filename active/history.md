@@ -1,6 +1,51 @@
 
 # 2025-06-14
 
+(873) Discord | #📄development | Graphite
+https://discord.com/channels/731730685944922173/731738914812854303
+
+Implement `size-adjust` property · Issue #324 · linebender/parley
+https://github.com/linebender/parley/issues/324
+
+valadaptive (valadaptive) / Repositories
+https://github.com/valadaptive?tab=repositories
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Codetribute
+https://codetribute.mozilla.org/projects/webplatform
+
+1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913086
+
+1869995 - Addons and console ignore HTTPS-only exceptions
+https://bugzilla.mozilla.org/show_bug.cgi?id=1869995
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+1898383 - Confusing error message on incompatible reciever for RegExp[@@split]
+https://bugzilla.mozilla.org/show_bug.cgi?id=1898383
+
+1913086 - Remove `javascript.options.experimental.json_parse_with_source` pref and JS shell option
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913086
+
+Codetribute
+https://codetribute.mozilla.org/projects/jseng
+
+Account Verification
+https://bugzilla.mozilla.org/show_bug.cgi?id=1913086
+
+Codetribute
+https://codetribute.mozilla.org/
+
+Graphite
+http://localhost:8080/
+
+Element [21] | SpiderMonkey
+https://chat.mozilla.org/#/room/#spidermonkey:mozilla.org
+
 Calling the Authentication APIs - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
 https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
 
