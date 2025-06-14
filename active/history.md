@@ -1,6 +1,129 @@
 
 # 2025-06-14
 
+Searching & Displaying Results - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+HeidiSQL/HeidiSQL: A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi
+https://github.com/HeidiSQL/HeidiSQL
+
+tannal
+https://tannal.github.io/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+moz-phab - Google 搜索
+https://www.google.com.hk/search?q=moz-phab&oq=moz-phab&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzY1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+tannal/go-vanillajs
+https://github.com/tannal/go-vanillajs
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+永度 用心 哨剑-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E6%B0%B8%E5%BA%A6+%E7%94%A8%E5%BF%83+%E5%93%A8%E5%89%91&from_source=webtop_search&spm_id_from=333.1007&search_source=5
+
+我不是用脑袋控制箭的，是用心_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1AP411Y7bv/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
+
+EECS 498 Advanced Embedded Systems
+https://www.eecs.umich.edu/courses/eecs473/Lec/473L05F24.pdf
+
+Tannal
+https://tannall.deno.dev/posts/cs-foundation
+
+Brown CS: Computer Science Courses
+https://cs.brown.edu/courses/
+
+Schedule | CSCI 1600, Fall 2024
+https://brown-cs1600.github.io/schedule/
+
+09_06 - Google 幻灯片
+https://docs.google.com/presentation/d/1RjXQD1NG62h_PekX6UX91IDGN1fh_uvu09hVycAWb6c/edit?slide=id.gcb1b6dd188_0_302#slide=id.gcb1b6dd188_0_302
+
+CS2040_S2_AY2425 – Kattis, National University of Singapore
+https://nus.kattis.com/courses/CS2040/CS2040_S2_AY2425
+
+Pea Soup and Pancakes – Kattis, National University of Singapore
+https://nus.kattis.com/courses/CS2040/CS2040_S2_AY2425/assignments/xtr3hk/problems/peasoup
+
+Apaxiaaaaaaaaaaaans! – Kattis, National University of Singapore
+https://nus.kattis.com/courses/CS2040/CS2040_S2_AY2425/assignments/jgt5yk/problems/apaxiaaans
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+Pea Soup and Pancakes – Kattis, Kattis
+https://open.kattis.com/problems/peasoup
+
+Intermediate React v6
+http://localhost:3000/
+
+Movie
+http://localhost:8080/movies/784
+
+Structured Variables - Professional CSS: Build a Website from Scratch | Frontend Masters
+https://frontendmasters.com/courses/pro-css/structured-variables/
+
+Document
+http://127.0.0.1:5500/static/femr.html
+
+Figma for Developers: Using Constraints, Auto Layout, Components & CSS Variables Generation | Frontend Masters
+https://frontendmasters.com/courses/figma-v2/
+
+Typography – Build a website from scratch
+https://website-from-scratch-1.netlify.app/lessons/setting-the-stage/typography
+
+kevin-powell/fem-website-from-scratch-progress
+https://github.com/kevin-powell/fem-website-from-scratch-progress
+
+FungiFinders – Figma
+https://www.figma.com/design/XV3mC19r1ih4SymTnKQu4f/FungiFinders?node-id=215-1087&t=FnDNWsrWYV70DhDW-0
+
+FungiFinders
+https://fungi-finders-example.netlify.app/
+
+Resetting our CSS – Build a website from scratch
+https://website-from-scratch-1.netlify.app/lessons/setting-the-stage/resetting-our-css
+
+Build a website from scratch
+https://website-from-scratch-2.netlify.app/
+
+Intro / Overview
+https://functional-first-steps.netlify.app/1-intro/1-overview/
+
+observablehq.com/embed/@anjana/what-is-functional-programming
+https://observablehq.com/embed/@anjana/what-is-functional-programming
+
+Document
+http://localhost:1313/femr.html
+
+Document
+http://127.0.0.1:5500/static/femr.html
+
+搜索 - 高德地图
+https://www.amap.com/search?id=BZ7QPB01ES&city=441900&geoobj=113.649967%7C23.113252%7C113.658397%7C23.117107&query_type=IDQ&query=%E7%9F%B3%E5%8D%95%E5%8D%97%E8%B7%AF&zoom=17.43
+
+2025 年系統軟體系列課程討論區 | Facebook
+https://www.facebook.com/groups/system.software2025
+
+Gediminas/1brc: C (SIMD/AVX/io_uring) Implementation of "The One Billion Row Challenge"
+https://github.com/Gediminas/1brc
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+jensen huang - Google 搜索
+https://www.google.com.hk/search?gs_ssp=eJzj4tTP1TcwyzM3NzFg9OLJSs0rTs1TyChNzEsHAFgxB5I&q=jensen+huang&oq=jesen+huang&gs_lcrp=EgZjaHJvbWUqCQgBEC4YChiABDIGCAAQRRg7MgkIARAuGAoYgAQyCQgCEAAYChiABDIJCAMQABgKGIAEMgkIBBAAGAoYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABNIBCDY3NjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 (873) Discord | #📄development | Graphite
 https://discord.com/channels/731730685944922173/731738914812854303
 

@@ -1,6 +1,13 @@
 
 # 2025-06-14
 
+1. make money
+2. health and fit
+3. emotion & relaxing creativity
+4. knowledge & skills
+5. Resilience
+6. people
+
 https://www.bilibili.com/video/BV1AP411Y7bv/?spm_id_from=333.337.search-card.all.click&vd_source=7cd8ff38af0673e57d422f9be15e8d0e
 
 新项目较少：近年来新开发的大型 Windows 桌面软件用 Delphi 的已经很少见，主流新项目多转向 C#（.NET）、C++、Electron、Qt、JavaFX、WPF、UWP、Flutter、甚至 Web 技术。
