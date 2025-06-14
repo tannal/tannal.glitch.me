@@ -1,6 +1,119 @@
 
 # 2025-06-14
 
+Calling the Authentication APIs - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/movie-repository/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Tannal
+https://tannall.deno.dev/posts/cs-foundation
+
+Introduction to Competitive Programming
+https://www.cs.purdue.edu/homes/ninghui/courses/390_Spring20/20_cp2_lectures.html
+
+Introduction to Competitive Programming
+https://www.cs.purdue.edu/homes/ninghui/courses/390_Fall19/lectures.html
+
+Nifty Assignments
+http://nifty.stanford.edu/
+
+100 | uDebug
+https://www.udebug.com/UVa/100
+
+World of Seven - Steven Halim's Personal Website
+https://www.comp.nus.edu.sg/~stevenha/
+
+2025-Spring – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring
+
+Baloni – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/baloni
+
+Princeton Competitive Programming
+https://competitive-programming.cs.princeton.edu/resources
+
+Kattis, Kattis
+https://open.kattis.com/
+
+All Problems · USACO Guide
+https://usaco.guide/problems/
+
+Z Algorithm
+https://judge.yosupo.jp/problem/zalgorithm
+
+295
+https://contest.cs.cmu.edu/295/s25/
+
+Competition Programming and Problem Solving Seminar, Fall 2019
+https://www.cs.cornell.edu/courses/cs5199/2019fa/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The Rectangles Are Surrounding Us! – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/rectanglesurrounding?tab=submissions
+
+competitive programming ai - Google 搜索
+https://www.google.com.hk/search?q=competitive+programming+ai&oq=competitive+programming+ai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgTGB4yCAgCEAAYExgeMgoIAxAAGAgYExgeMgoIBBAAGIAEGKIEMgcIBRAAGO8FMgoIBhAAGAUYExgeMgoIBxAAGAUYExgeMgoICBAAGAgYExgeMgoICRAAGAgYExge0gEIODU4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+AI is likely to beat humans in Competitive Coding soon—How Much of Real-World Programming Is Next? : r/singularity
+https://www.reddit.com/r/singularity/comments/1je66b0/ai_is_likely_to_beat_humans_in_competitive_coding/
+
+kattis image decoding - Google 搜索
+https://www.google.com.hk/search?q=kattis+image+decoding&oq=kattis+image+decoding&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgcIAhAAGO8FMgoIAxAAGIAEGKIEMgoIBBAAGIAEGKIEMggIBRAAGAgYHjIHCAYQABjvBTIGCAcQRRg80gEINDU3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Learning Through Analogy - Claude
+https://claude.ai/chat/59b61412-eb5f-4f2a-8d77-609e94295db4
+
+我们不是推理机器，我们是类比机器。
+https://tannal.github.io/zh-cn/p/%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%8E%A8%E7%90%86%E6%9C%BA%E5%99%A8%E6%88%91%E4%BB%AC%E6%98%AF%E7%B1%BB%E6%AF%94%E6%9C%BA%E5%99%A8/
+
+Geoffrey Hinton says we are more AI like than we think: analogy machines instead of rational beings - YouTube
+https://www.youtube.com/watch?v=DDAoEDdw4Y8
+
+What Leaders Need to Understand About AI with Nobel Laureate Geoffrey Hinton - YouTube
+https://www.youtube.com/watch?v=32f9MgnLSn4
+
+2025年6月13日
+http://localhost:1313/zh-cn/p/2025%E5%B9%B46%E6%9C%8813%E6%97%A5/#1-inotify-watches-%E8%B6%85%E9%99%90%E7%B3%BB%E7%BB%9F%E7%BA%A7-watchman-%E6%8A%A5%E9%94%99
+
+rectanglesurrounding kattis - Google 搜索
+https://www.google.com.hk/search?q=rectanglesurrounding+kattis&oq=rectanglesurrounding+kattis&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgyMTA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Cursor - The AI Code Editor
+https://www.cursor.com/ja/dashboard
+
+Check your email
+https://authenticator.cursor.sh/magic-code?email=tannal2409%40gmail.com&authentication_challenge_id=auth_challenge_01JXNVEY1NKDDAKR89FHSBBJJJ&state=%257B%2522returnTo%2522%253A%2522https%253A%252F%252Fwww.cursor.com%252Fja%252FloginDeepControl%253Fchallenge%253DGoIVv3b5LrVENUcNKRC4pohghTedhKfNmhecntWvIwE%2526uuid%253Dc96cf196-4238-4f95-955f-6463fd295c39%2526mode%253Dlogin%2522%257D&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&authorization_session_id=01JXNVEBMNAXSM6FGC8P7A5ZGN&radar_auth_attempt_id=01JXNVEXZH9F874HWTNNJP34KG&radar_auth_attempt_created_at=2025-06-13T23%3A54%3A35.376Z
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+competitive programming seminar site:edu - Google 搜索
+https://www.google.com.hk/search?q=competitive+programming+seminar+site%3Aedu&oq=competitive+programming+seminar+site%3Aedu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyMTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Week 7: Data Representation 1 - Spring 2020 - Google 幻灯片
+https://docs.google.com/presentation/d/177RaElHaqwJGebUWypPcOQtDXTQx2KxseJf-xEe6gPE/edit?slide=id.g6e782c4488_0_12#slide=id.g6e782c4488_0_12
+
+CS390-CP2 - Google 搜索
+https://www.google.com.hk/search?q=CS390-CP2&oq=CS390-CP2&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+CS(i+1)90-CPi
+https://www.cs.purdue.edu/homes/ninghui/courses/cpx_index.html
+
+nus competitive programming - Google 搜索
+https://www.google.com.hk/search?q=nus+competitive+programming&oq=nus+competive&gs_lcrp=EgZjaHJvbWUqCwgBEAAYDRgTGIAEMgYIABBFGDkyCwgBEAAYDRgTGIAEMgoIAhAAGA0YExgeMgoIAxAAGA0YExgeMgwIBBAAGAgYDRgTGB4yDAgFEAAYCBgNGBMYHjIMCAYQABgIGA0YExgeMgoIBxAAGIAEGKIEMgoICBAAGIAEGKIEMgoICRAAGIAEGKIE0gEINzI4NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+World of Seven - CS3233 - Competitive Programming
+https://www.comp.nus.edu.sg/~stevenha/cs3233.html#lessonplan
+
+jeff edmonds how to think about algorithms 2th - Google 搜索
+https://www.google.com.hk/search?q=jeff+edmonds+how+to+think+about+algorithms+2th&newwindow=1&sca_esv=3035149b170ff626&ei=pMZMaK475d-Q8g_119qIDA&ved=0ahUKEwiunZCQ2O-NAxXlL0QIHfWrFsEQ4dUDCBA&uact=5&oq=jeff+edmonds+how+to+think+about+algorithms+2th&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmplZmYgZWRtb25kcyBob3cgdG8gdGhpbmsgYWJvdXQgYWxnb3JpdGhtcyAydGgyBRAhGKABMgUQIRigATIFECEYoAFIxhJQY1imCnABeAGQAQGYAf8HoAGVE6oBDTItMS4wLjEuMS4wLjG4AQPIAQD4AQGYAgOgAu4KwgIKEAAYsAMY1gQYR5gDAIgGAZAGAZIHCTEuMy0xLjYtMaAH3AuyBwczLTEuNi0xuAfRCsIHBTMtMi4xyAc1&sclient=gws-wiz-serp
+
+Welcome to our server
+https://stevenhalim.com/
 
 # 2025-06-13
 
