@@ -1,6 +1,8 @@
 
 # 2025-06-14
 
+新项目较少：近年来新开发的大型 Windows 桌面软件用 Delphi 的已经很少见，主流新项目多转向 C#（.NET）、C++、Electron、Qt、JavaFX、WPF、UWP、Flutter、甚至 Web 技术。
+
 https://open.kattis.com/problems/rectanglesurrounding
 
 # 2025-06-13
