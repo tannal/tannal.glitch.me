@@ -1,6 +1,10 @@
 
 # 2025-06-14
 
+set environment NODE_OPTIONS "--max-heap-size=750"
+
+NODE_OPTIONS='--max-heap-size=750' node
+
 1. make money
 2. health and fit
 3. emotion & relaxing creativity
