@@ -1,6 +1,125 @@
 
 # 2025-06-15
 
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+Allow setting `--max-heap-size` in `NODE_OPTIONS` · Issue #58686 · nodejs/node
+https://github.com/nodejs/node/issues/58686
+
+tannal/node: Node.js JavaScript runtime ✨🐢🚀✨
+https://github.com/tannal/node/tree/main
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Add --max-heap-size option by tannal · Pull Request #58708 · nodejs/node
+https://github.com/nodejs/node/pull/58708
+
+Issues · nodejs/node
+https://github.com/nodejs/node/issues
+
+ibmi: investigate test timeouts / flaky test · Issue #58582 · nodejs/node
+https://github.com/nodejs/node/issues/58582
+
+node-test-commit-ibmi #1945 - Jenkins
+https://ci.nodejs.org/job/node-test-commit-ibmi/1945/
+
+【Piano Cover】林俊傑36首歌曲大串燒 / JJ Lin Medley｜高還原純鋼琴版｜高音質/附譜/歌詞 - YouTube
+https://www.youtube.com/watch?v=RXZ8cTZcbmQ
+
+Node.js Core Mentoring - YouTube
+https://www.youtube.com/watch?v=6ffedilTfYc&t=1102s
+
+周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV - YouTube
+https://www.youtube.com/watch?v=n_KlMpP0vdw&list=RDGMEMPdLDZ-FVVWuzckFEguTm5Q&index=23
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+超越系统
+https://tannal.github.io/zh-cn/p/%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F/#%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F--%E9%9D%9E%E7%BB%8F%E5%85%B8%E6%A6%82%E7%8E%87%E5%A6%82%E6%A8%A1%E7%B3%8A%E6%A6%82%E7%8E%87%E9%87%8F%E5%AD%90%E6%A6%82%E7%8E%87
+
+超越系统
+http://localhost:1313/zh-cn/p/%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F/#%E4%BD%A0%E8%AF%B4%E7%9A%84%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F%E4%B8%8D%E5%B0%B1%E6%98%AF%E9%9B%86%E5%90%88%E8%AE%BA%E5%8A%A0%E6%A6%82%E7%8E%87%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB
+
+Logical Probability - Google 搜索
+https://www.google.com.hk/search?q=Logical+Probability&oq=Logical+Probability&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI3N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+量子概率 - Google 搜索
+https://www.google.com.hk/search?q=%E9%87%8F%E5%AD%90%E6%A6%82%E7%8E%87&oq=%E9%87%8F%E5%AD%90%E6%A6%82%E7%8E%87&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE1MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+(7 封私信) 量子力学第一假定：波函数及其概率解释 - 知乎
+https://zhuanlan.zhihu.com/p/647747216
+
+超越系统
+https://tannal.github.io/zh-cn/p/%E8%B6%85%E8%B6%8A%E7%B3%BB%E7%BB%9F/
+
+Following — Bluesky
+https://bsky.app/
+
+2025-Spring – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring
+
+Postal Delivery – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/delivery
+
+Zagrade – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/zagrade
+
+Postal Delivery – Kattis, Kattis
+https://open.kattis.com/problems/delivery
+
+World of Seven - Steven Halim's Personal Website
+https://www.comp.nus.edu.sg/~stevenha/
+
+SWERC Porto Programming Challenge - Claude
+https://claude.ai/chat/589d118f-876a-4395-a55d-ea637e1218ab
+
+windterm - Google 搜索
+https://www.google.com.hk/search?q=windterm&oq=windterm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE1MDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+kingToolbox/WindTerm: A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+https://github.com/kingToolbox/WindTerm
+
+text infilling - Google 搜索
+https://www.google.com.hk/search?q=text+infilling&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBwgCEAAYgAQyBwgDEAAYgAQyDQgEEC4YxwEY0QMYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGD3SAQgyNTg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+[1901.00158] Text Infilling
+https://arxiv.org/abs/1901.00158
+
+Text Infilling | Papers With Code
+https://paperswithcode.com/task/text-infilling
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm
+
+Enabling Language Models to Fill in the Blanks (ACL 2020)
+https://worksheets.codalab.org/worksheets/0x9987b5d9cce74cf4b2a5f84b54ee447b
+
+ILM Demo Server.ipynb - Colab
+https://colab.research.google.com/drive/1xamszyr-hpEZ-0wvkgcaUF9y_jY38J--#forceEdit=true&sandboxMode=true
+
+(5 封私信 / 1 条消息) 【论文解读】LLaDA：用扩散模型改变 LLM 的「自回归」范式 - 知乎
+https://zhuanlan.zhihu.com/p/24738741479
+
+Diffusion music model - Google 搜索
+https://www.google.com.hk/search?q=Diffusion+music+model&oq=Diffusion+music+model&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgIGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIICAQQABgIGB4yCAgFEAAYCBgeMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIE0gEINzAyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+cghawthorne (Curtis "Fjord" Hawthorne)
+https://github.com/cghawthorne
+
+Ardour github - Google 搜索
+https://www.google.com.hk/search?q=Ardour+github&newwindow=1&sca_esv=3f3288520dd60126&ei=GmZOaKrdKZXQkPIP1frG-Ao&ved=0ahUKEwiq0vKr5PKNAxUVKEQIHVW9Ea8Q4dUDCBA&uact=5&oq=Ardour+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUFyZG91ciBnaXRodWIyBRAAGIAEMgYQABgIGB4yCBAAGIAEGKIEMgUQABjvBTIFEAAY7wUyBRAAGO8FSKMMUMoCWPwJcAF4AZABAJgBiQKgAc8LqgEFMC4xLja4AQPIAQD4AQGYAgegArkKwgIKEAAYsAMY1gQYR8ICChAAGIAEGEMYigXCAhEQLhiABBjHARiYBRiZBRivAcICBBAAGB6YAwCIBgGQBgqSBwUxLjAuNqAHmxKyBwMyLTa4B7MKwgcJMC4zLjMuMC4xyAcm&sclient=gws-wiz-serp
+
+Ardour/ardour: Mirror of Ardour Source Code
+https://github.com/Ardour/ardour
 
 # 2025-06-14
 
