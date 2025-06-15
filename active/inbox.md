@@ -1,4 +1,12 @@
 
+# 2025-06-16
+
+uv pip install huggingface-hub
+
+huggingface-cli download runwayml/stable-diffusion-v1-5 --local-dir ./models/sd-v1-5
+
+huggingface-cli download runwayml/stable-diffusion-v1-5 unet/diffusion_pytorch_model.safetensors
+
 # 2025-06-15
 
 
