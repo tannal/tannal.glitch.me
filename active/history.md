@@ -1,6 +1,137 @@
 
 # 2025-06-16
 
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+ILM Demo Server.ipynb - Colab
+https://colab.research.google.com/drive/1xamszyr-hpEZ-0wvkgcaUF9y_jY38J--#forceEdit=true&sandboxMode=true
+
+text infilling - Google 搜索
+https://www.google.com.hk/search?q=text+infilling&newwindow=1&sca_esv=3f3288520dd60126&ei=vWdOaPbLLODJkPIPx-L-kA4&oq=text+inf&gs_lp=Egxnd3Mtd2l6LXNlcnAiCHRleHQgaW5mKgIIAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBhAAGAwYHjIGEAAYDBgeMgYQABgMGB5ItTxQ6wxY9xtwAXgBkAECmAH6B6AB3BeqAQ0yLTEuMi4xLjAuMS4xuAEDyAEA-AEBmAIFoAKGCsICChAAGLADGNYEGEfCAgwQABiABBhDGIoFGArCAgoQABiABBhDGIoFwgILEC4YgAQY0QMYxwGYAwCIBgGQBgqSBwkxLjAuMS4yLjGgB-gVsgcHMi0xLjIuMbgHgQrCBwUwLjIuM8gHEA&sclient=gws-wiz-serp
+
+PowerPoint 演示文稿
+https://52paper.github.io/slides/20200827-weiwang-infilling.pdf
+
+A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model
+https://aclanthology.org/2022.coling-1.511.pdf
+
+A-TIP: Attribute-aware Text Infilling via Pre-trained Language Model - ACL Anthology
+https://aclanthology.org/2022.coling-1.511/
+
+lmstudio-ai/lmstudio-js: LM Studio TypeScript SDK
+https://github.com/lmstudio-ai/lmstudio-js
+
+林俊傑 JJ Lin / G.E.M. 鄧紫棋 - 《手心的薔薇》 Beautiful - JJ20 現場版 Live in Beijing - YouTube
+https://www.youtube.com/watch?v=eQQJDuOIQHE&list=RDeQQJDuOIQHE&start_radio=1&rv=_BkjZsO8Eu4
+
+Guideline: | 52paper.github.io
+https://52paper.github.io/
+
+Add --max-heap-size option by tannal · Pull Request #58708 · nodejs/node
+https://github.com/nodejs/node/pull/58708
+
+Full interview: "Godfather of AI" shares prediction for future of AI, issues warnings - YouTube
+https://www.youtube.com/watch?v=qyH3NxFz3Aw&t=1191s
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=sentient&op=translate
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+卡钦斯基：论工业社会及其未来 | 素生
+https://z.arlmy.me/Wiki/library/Original_Kaczynski_IndustrialSocietyAndItsFuture.html
+
+stablediffusion.cpp github - Google 搜索
+https://www.google.com.hk/search?q=stablediffusion.cpp+github&newwindow=1&sca_esv=b441b7926a47fbaa&ei=4kpPaOOKNoHHkPIPnNifuAc&ved=0ahUKEwjjg7LDvvSNAxWBI0QIHRzsB3cQ4dUDCBA&uact=5&oq=stablediffusion.cpp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnN0YWJsZWRpZmZ1c2lvbi5jcHAgZ2l0aHViMgYQABgNGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUiAE1DaCljKEHABeAGQAQCYAeQBoAHwBqoBAzItNLgBA8gBAPgBAZgCBKACpQXCAgoQABiwAxjWBBhHwgIIEAAYBxgKGB7CAgYQABgKGB7CAggQABgKGA0YHsICCBAAGAcYCBgewgIKEAAYBxgIGAoYHpgDAIgGAZAGCpIHBTEuMC4zoAf_EbIHAzItM7gHoQXCBwUwLjIuMsgHDg&sclient=gws-wiz-serp
+
+leejet/stable-diffusion.cpp: Stable Diffusion and Flux in pure C/C++
+https://github.com/leejet/stable-diffusion.cpp
+
+PyTorch Stable Diffusion Implementation - Claude
+https://claude.ai/chat/97362ccd-1e25-4d64-bcb9-da17a6fc1ad1
+
+stablediffusion github - Google 搜索
+https://www.google.com.hk/search?q=stablediffusion+github&oq=stablediffusion+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgKGIAEMgkIAhAAGAoYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyBggGEEUYPDIGCAcQRRg80gEINTc4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Stability-AI/stablediffusion: High-Resolution Image Synthesis with Latent Diffusion Models
+https://github.com/Stability-AI/stablediffusion
+
+CompVis/latent-diffusion - Google 搜索
+https://www.google.com.hk/search?q=CompVis%2Flatent-diffusion&oq=CompVis%2Flatent-diffusion&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEHNTg1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+CompVis/latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models
+https://github.com/CompVis/latent-diffusion?tab=readme-ov-file
+
+2204.11824
+https://arxiv.org/pdf/2204.11824
+
+Hello World in C - C Fundamentals | Frontend Masters
+https://frontendmasters.com/courses/c-fundamentals/hello-world-in-c/
+
+Denoising Diffusion Probabilistic Models - Google 搜索
+https://www.google.com.hk/search?q=Denoising+Diffusion+Probabilistic+Models&oq=Denoising+Diffusion+Probabilistic+Models&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzU1OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2006.11239
+https://arxiv.org/pdf/2006.11239
+
+Denoising Diffusion Probabilistic Models · Issue #116 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/116
+
+Score-Based Generative Modeling through Stochastic Differential Equations - Google 搜索
+https://www.google.com.hk/search?q=Score-Based+Generative+Modeling+through+Stochastic+Differential+Equations&oq=Score-Based+Generative+Modeling+through+Stochastic+Differential+Equations&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBBzI3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+[2011.13456] Score-Based Generative Modeling through Stochastic Differential Equations
+https://arxiv.org/abs/2011.13456
+
+diffusers/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py at main · huggingface/diffusers
+https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py
+
+CompVis/latent-diffusion: High-Resolution Image Synthesis with Latent Diffusion Models
+https://github.com/CompVis/latent-diffusion
+
+hojonathanho/diffusion: Denoising Diffusion Probabilistic Models
+https://github.com/hojonathanho/diffusion
+
+lucidrains/denoising-diffusion-pytorch: Implementation of Denoising Diffusion Probabilistic Model in Pytorch
+https://github.com/lucidrains/denoising-diffusion-pytorch
+
+Score-Based Generative Modeling through Stochastic Differential Equations · Issue #117 · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues/117
+
+Classifier-Free Diffusion Guidance - Google 搜索
+https://www.google.com.hk/search?q=Classifier-Free+Diffusion+Guidance&oq=Classifier-Free+Diffusion+Guidance&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Issues · tannal/ohmywork
+https://github.com/tannal/ohmywork/issues
+
+High-Resolution Image Synthesis with Latent Diffusion Models - Google 搜索
+https://www.google.com.hk/search?q=High-Resolution+Image+Synthesis+with+Latent+Diffusion+Models&oq=High-Resolution+Image+Synthesis+with+Latent+Diffusion+Models&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPdIBBzQ3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(5 封私信 / 2 条消息) 【论文解读】LLaDA：用扩散模型改变 LLM 的「自回归」范式 - 知乎
+https://zhuanlan.zhihu.com/p/24738741479
+
+LLaDA - Google 搜索
+https://www.google.com.hk/search?q=LLaDA&oq=LLaDA&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGD0yBggCEEUYOzIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPNIBBzMxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Large Language Diffusion Models
+https://ml-gsai.github.io/LLaDA-demo/
+
+GSAI-ML (GSAI-ML)
+https://huggingface.co/GSAI-ML
+
+ML-GSAI/LLaDA: Official PyTorch implementation for "Large Language Diffusion Models"
+https://github.com/ML-GSAI/LLaDA
+
+ML Group @ RUC
+https://github.com/ML-GSAI
+
+apolinario (apolinário)
+https://github.com/apolinario
 
 # 2025-06-15
 
