@@ -1,6 +1,126 @@
 
 # 2025-06-16
 
+Searching & Displaying Results - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/searching-displaying-results/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+两元店
+https://xn--5hqx9equq.com/#/dashboard
+
+FSCloud
+https://web.fscloud.cc/#/plan
+
+aosp close - Google 搜索
+https://www.google.com.hk/search?q=aosp+close&newwindow=1&sca_esv=6a556eb1ed9640cc&ei=9XRPaL-cHvKlkPIP0JeJiAk&ved=0ahUKEwj_6pvT5vSNAxXyEkQIHdBLApEQ4dUDCBA&uact=5&oq=aosp+close&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmFvc3AgY2xvc2UyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIGEAAYBRgeSKYUUNgEWNwQcAF4AJABAJgB6wGgAeINqgEDMi04uAEDyAEA-AEBmAIHoALfCsICCBAAGIAEGLADwgILEAAYgAQYsAMYogTCAggQABiwAxjvBcICCxAAGLADGKIEGIkFwgIKEAAYgAQYQxiKBcICBxAAGIAEGAzCAgQQABgemAMAiAYBkAYHkgcFMS4wLjagB88TsgcDMi02uAfWCsIHBTItNS4yyAct&sclient=gws-wiz-serp
+
+Android Authority: Tech Reviews, News, Buyer's Guides, Deals, How-To
+https://www.androidauthority.com/
+
+火山引擎 - Google 搜索
+https://www.google.com.hk/search?q=%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E&oq=huo&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDINCAQQLhjHARjRAxiABDIHCAUQABiABDIHCAYQLhiABDIGCAcQRRg80gEIMjY2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+火山引擎-云上增长新动力
+https://www.volcengine.com/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/index?rid=1
+
+Falsehoods programmers believe about color - Google 文档
+https://docs.google.com/document/d/1Ci8Ko_qbOthj2i7TIKoqDqJ8E2ibitR9h748HcTrZ2U/edit?tab=t.0
+
+tencent cloud lighthouse - Google 搜索
+https://www.google.com.hk/search?q=tencent+cloud+lighthouse&oq=tencent+cloud+lighthouse&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIHCAMQABjvBTIKCAQQABiABBiiBDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDM2OTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+轻量应用服务器Lighthouse_香港轻量服务器_海外轻量服务器-腾讯云
+https://cloud.tencent.com/product/lighthouse
+
+618大促_腾讯云优惠活动
+https://cloud.tencent.com/act/pro/warmup202506
+
+吉鸿昌 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%90%89%E9%B8%BF%E6%98%8C
+
+周杰倫 Jay Chou【 軌跡 Tracks】Official MV - YouTube
+https://www.youtube.com/watch?v=SdBwt6pyNwE&list=RD5Ggnzs2hP3s&index=20
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Distributing Ballot Boxes – Kattis, Kattis
+https://open.kattis.com/problems/ballotboxes
+
+Problems – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems
+
+Distributing Ballot Boxes – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/ballotboxes
+
+Postal Delivery – Kattis, Purdue University
+https://purdue.kattis.com/courses/CS211-CP1/2025-Spring/assignments/rqvtx6/problems/delivery
+
+Kattis, National University of Singapore
+https://nus.kattis.com/courses
+
+alibaba hkg - Google 搜索
+https://www.google.com.hk/search?q=alibaba+hkg&oq=alibaba+hkg&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDwyBggCEEUYPNIBCDIwNThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Push Notifications - React Native, v3 | Frontend Masters
+https://frontendmasters.com/courses/react-native-v3/react-components/
+
+Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
+https://frontendmasters.com/courses/?q=Jetpack+compose&c=courses&dg=1
+
+Create a Project in Android Studio - Introduction to Kotlin and Android Development | Frontend Masters
+https://frontendmasters.com/courses/android-kotlin/introduction/
+
+Widget Styles - Cross-Platform Mobile Apps with Flutter | Frontend Masters
+https://frontendmasters.com/courses/flutter/flutter-overview/
+
+Metal Shading Language Specification
+https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf
+
+Rafael Gonzaga - YouTube
+https://www.youtube.com/@_rafaelgss/streams
+
+About
+https://pika.art/about
+
+glama.ai
+https://glama.ai/
+
+glama mcp github - Google 搜索
+https://www.google.com.hk/search?q=glama+mcp+github&newwindow=1&sca_esv=d216e087885b8f2a&ei=hONPaMqcGZ-XkPIPw_q6EA&ved=0ahUKEwjK7oyL0PWNAxWfC0QIHUO9DgIQ4dUDCBA&uact=5&oq=glama+mcp+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGdsYW1hIG1jcCBnaXRodWIyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEi_DlDUBljyCnABeACQAQCYAdsBoAHLBqoBAzItNLgBA8gBAPgBAZgCAqACzwHCAggQABiABBiwA8ICCxAAGIAEGLADGKIEmAMAiAYBkAYEkgcFMS4wLjGgB70IsgcDMi0xuAfNAcIHBTAuMS4xyAcF&sclient=gws-wiz-serp
+
+punkpeye/awesome-mcp-servers: A collection of MCP servers.
+https://github.com/punkpeye/awesome-mcp-servers
+
+GitHub MCP Server | Glama
+https://glama.ai/mcp/servers/@asbloom-py/mcp-servers
+
+Issues · flutter/flutter
+https://github.com/flutter/flutter/issues
+
+Home / X
+https://x.com/home
+
+JPush - Google 搜索
+https://www.google.com.hk/search?q=JPush&oq=JPush&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ViroCore ViroCorereact - Google 搜索
+https://www.google.com.hk/search?q=ViroCore+ViroCorereact&oq=ViroCore+ViroCorereact&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigAdIBCDIzNTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ReactVision/virocore: ViroCore: A cross-platform AR/VR renderer 🧩💙💛🤍💚
+https://github.com/ReactVision/virocore
+
+GIFLIB download | SourceForge.net
+https://sourceforge.net/projects/giflib/
+
+GIFLIB github - Google 搜索
+https://www.google.com.hk/search?q=GIFLIB+github&oq=GIFLIB+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBNIBCDE2ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
 Learn JavaScript and Front-End Web Development to Backend and Full-Stack Development | Frontend Masters
 https://frontendmasters.com/courses/
 
