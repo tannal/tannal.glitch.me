@@ -1,5 +1,125 @@
 
+# 2025-06-18
+
+
 # 2025-06-17
+
+Adding Authentication Storage - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/searching-displaying-results/
+
+Movie
+http://localhost:8080/movies?q=postman
+
+Folk RNN – Generate folk tunes with a recurrent neural network
+https://folkrnn.org/
+
+How to understand abc … the basics « abc notation blog
+https://abcnotation.com/blog/2010/01/31/how-to-understand-abc-the-basics/
+
+tannal (tannal)
+https://github.com/tannal/
+
+尤雨溪 (@yuxiyou) / X
+https://x.com/yuxiyou
+
+Transparent peer review to be extended to all of Nature’s research papers
+https://www.nature.com/articles/d41586-025-01880-9
+
+Call of Silence (Ymir's theme) - Attack on Titan S2 OST [Piano] / Hiroyuki Sawano - YouTube
+https://www.youtube.com/watch?v=5Ggnzs2hP3s&list=RDMM&index=22
+
+美联储 - Google 搜索
+https://www.google.com.hk/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&newwindow=1&sca_esv=12e31e5ec8c98cce&ei=4xRRaPwqzMqQ8g_V78ehBA&ved=0ahUKEwi8qNOn8_eNAxVMJUQIHdX3MUQQ4dUDCBA&uact=5&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqEiXElCdBFi3EHACeACQAQKYAeUHoAGeEqoBBzQtMS4wLjK4AQPIAQD4AQGYAgGgAgmoAgDCAgoQABiwAxjWBBhHmAMB8QV6yMwZcY6CNogGAZAGCpIHATGgB8MpsgcAuAcAwgcDMi0xyAcF&sclient=gws-wiz-serp
+
+蔡崇信 - Google 搜索
+https://www.google.com.hk/search?q=%E8%94%A1%E5%B4%87%E4%BF%A1&oq=%E8%94%A1&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzIGCAMQRRg9MgYIBBBFGD0yBggFEEUYPdIBCDMyMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+蔡崇信：亚洲企业可在美国以外寻求增长 | 联合早报
+https://www.zaobao.com.sg/realtime/china/story20250525-6465437
+
+winit github - Google 搜索
+https://www.google.com.hk/search?q=winit+github&oq=winit+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBDIKCAUQABiABBiiBDIGCAYQRRg80gEINTAzMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+winit/winit-win32/src/ime.rs at master · rust-windowing/winit
+https://github.com/rust-windowing/winit/blob/master/winit-win32/src/ime.rs
+
+Windows IMM - Google 搜索
+https://www.google.com.hk/search?q=Windows+IMM&oq=Windows+IMM&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQzNmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+输入法管理器（IMM）函数大全（Windows CE 5.0）
+http://wowoboke.com/54.html
+
+Editor: password input mode · Issue #327 · linebender/parley
+https://github.com/linebender/parley/issues/327
+
+tannal (tannal)
+https://github.com/tannal/
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+mit 6.S184 - Google 搜索
+https://www.google.com.hk/search?q=mit+6.S184&oq=mit+6.S184&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgIGB4yCggEEAAYgAQYogQyCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCggIEAAYgAQYogTSAQg4NTU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Flow Matching and Diffusion Models
+https://diffusion.csail.mit.edu/
+
+20250121_Lecture_1
+https://diffusion.csail.mit.edu/docs/slides_lecture_1.pdf
+
+lab_one.ipynb - Google 云端硬盘
+https://drive.google.com/file/d/1hLFyy0PpUcFxCBKQ8MRNoHGgcgOjWpH0/view?pli=1
+
+lab_one.ipynb - Colab
+https://colab.research.google.com/drive/1hLFyy0PpUcFxCBKQ8MRNoHGgcgOjWpH0#scrollTo=738edb40-d990-4ba6-8749-261c66ebe51e
+
+20250121_Lecture_1
+https://diffusion.csail.mit.edu/docs/slides_lecture_1.pdf
+
+gradio - Google 搜索
+https://www.google.com.hk/search?q=gradio&oq=gradio&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMTYwN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+stable diffusion online - Google 搜索
+https://www.google.com.hk/search?q=stable+diffusion+online&oq=stable+diffusion+online&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIKCAkQABiABBiiBNIBCDQxMDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Diffusion music model - Google 搜索
+https://www.google.com.hk/search?q=Diffusion+music+model&oq=diffusion+m&gs_lcrp=EgZjaHJvbWUqBggCEEUYOzIGCAAQRRg5MgcIARAAGIAEMgYIAhBFGDsyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg1NTc1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+🎶 OpenMusic: Diffusion That Plays Music : r/StableDiffusion
+https://www.reddit.com/r/StableDiffusion/comments/1fo1ek6/openmusic_diffusion_that_plays_music/
+
+What type of model architecture is best suited for generative music? [D] : r/MachineLearning
+https://www.reddit.com/r/MachineLearning/comments/1eqyz02/what_type_of_model_architecture_is_best_suited/
+
+Noise2Music - Google 搜索
+https://www.google.com.hk/search?q=Noise2Music&oq=Noise2Music&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2NjVqMGo3qAIIsAIB8QUwl816BCzueg&sourceid=chrome&ie=UTF-8
+
+Noise2Music
+https://google-research.github.io/noise2music/
+
+2302.03917
+https://arxiv.org/pdf/2302.03917
+
+OpenMusic - Google 搜索
+https://www.google.com.hk/search?q=OpenMusic&oq=OpenMusic&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEHMzgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Pure Data — Pd Community Site
+https://puredata.info/
+
+index | SuperCollider
+https://supercollider.github.io/
+
+NodeBox | NodeBox
+https://www.nodebox.net/
+
+User’s Guide, Chapter 2: Notes — music21 Documentation
+https://www.music21.org/music21docs/usersGuide/usersGuide_02_notes.html
+
+hundredrabbits/Orca: Esoteric Programming Language
+https://github.com/hundredrabbits/Orca
 
 
 # 2025-06-16
