@@ -1,6 +1,8 @@
 
 # 2025-06-19
 
+winget configure .\.configurations\configuration.dsc.yaml
+
 "C:\Program Files\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
 
 
