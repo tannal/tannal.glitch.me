@@ -1,5 +1,12 @@
 
+# 2025-06-19
+
+"C:\Program Files\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
+
+
 # 2025-06-18
+
+"C:\Program Files\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvarsall.bat"
 
 https://github.com/Natooz/MidiTok
 
