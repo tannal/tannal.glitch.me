@@ -1,6 +1,8 @@
 
 # 2025-06-19
 
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\\Auxiliary\Build\vcvarsall.bat" amd64
+
 winget configure .\.configurations\configuration.dsc.yaml
 
 "C:\Program Files\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\vcvars64.bat"
