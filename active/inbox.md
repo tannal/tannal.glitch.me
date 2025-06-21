@@ -1,6 +1,10 @@
 
 # 2025-06-21
 
+
+johannestan
+eas build -p android --profile production
+
 C:\Users\tj\AppData\Local\Android\Sdk\emulator
 
 # 2025-06-20
