@@ -1,6 +1,110 @@
 
 # 2025-06-21
 
+Fetch Authenticated Data on the Client - Go & Vanilla JS: Fullstack Without Frameworks | Frontend Masters
+https://frontendmasters.com/courses/vanilla-js-go/creating-favorites-watchlist-pages/
+
+Movie
+http://localhost:8080/movies/784
+
+What type of model architecture is best suited for generative music? [D] : r/MachineLearning
+https://www.reddit.com/r/MachineLearning/comments/1eqyz02/what_type_of_model_architecture_is_best_suited/
+
+Natooz/MidiTok: MIDI / symbolic music tokenizers for Deep Learning models 🎶
+https://github.com/Natooz/MidiTok
+
+MidiTok - Google 搜索
+https://www.google.com.hk/search?q=MidiTok&oq=MidiTok&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Natooz/MidiTok: MIDI / symbolic music tokenizers for Deep Learning models 🎶
+https://github.com/Natooz/MidiTok
+
+Jamba - Google 搜索
+https://www.google.com.hk/search?q=Jamba&oq=Jamba&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDINCAEQLhjHARjRAxiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzk3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2403.19887
+https://arxiv.org/pdf/2403.19887
+
+Formatter Exercise - Write a Compiler That Understands Types | Frontend Masters
+https://frontendmasters.com/courses/type-compiler/formatter-lexing-parsing-output/
+
+compiler-workshop-v1/exercises/1/formatter.js at main · rtfeldman/compiler-workshop-v1
+https://github.com/rtfeldman/compiler-workshop-v1/blob/main/exercises/1/formatter.js
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=obedient&op=translate
+
+Postgres Database Docker Container - Complete Go for Professional Developers | Frontend Masters
+https://frontendmasters.com/courses/complete-go/introduction/
+
+Movie
+http://localhost:8080/
+
+Home / X
+https://x.com/home
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+chrisdonahue/ilm: Easily fine tune GPT-2 to fill in missing text
+https://github.com/chrisdonahue/ilm?tab=readme-ov-file
+
+2005.05339
+https://arxiv.org/pdf/2005.05339
+
+Cloze test - Google 搜索
+https://www.google.com.hk/search?q=Cloze+test&oq=Cloze+test&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDc4MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Typst
+https://github.com/typst
+
+Typst
+https://github.com/typst
+
+Reference – Typst Documentation
+https://typst.app/docs/reference/
+
+收件箱 (4) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Repo Issues
+https://github.com/nodejs/node/issues
+
+ilm/ilm/mask/hierarchical_test.py at 68637cb77c9189d28a21afef413cf193f71411f9 · chrisdonahue/ilm
+https://github.com/chrisdonahue/ilm/blob/68637cb77c9189d28a21afef413cf193f71411f9/ilm/mask/hierarchical_test.py
+
+404 – Hugging Face
+https://huggingface.co/datasets/roc_stories
+
+ROCStories and the Story Cloze Test
+https://cs.rochester.edu/nlp/rocstories/
+
+Full Text via S3 - arXiv info
+https://info.arxiv.org/help/bulk_data_s3.html
+
+song LYRICS - Google 搜索
+https://www.google.com.hk/search?q=song+LYRICS&oq=song+LYRICS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+登录QQ邮箱
+https://mail.qq.com/?cancel_login=true&from=ajax_proxy_retry
+
+谭盟
+https://tannal.github.io/zh-cn/
+
+Course Project Setup - Next.js Fundamentals, v4 | Frontend Masters
+https://frontendmasters.com/courses/next-js-v4/introduction/
+
+Doublezero
+https://www.doublezero.tech/
+
+next.js-fundamentals/lessons/03-project-structure-and-configuration.md at main · Hendrixer/next.js-fundamentals
+https://github.com/Hendrixer/next.js-fundamentals/blob/main/lessons/03-project-structure-and-configuration.md
 
 # 2025-06-20
 
