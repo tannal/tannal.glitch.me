@@ -1,4 +1,6 @@
 
+gn gen out/Default --export-compile-commands
+
 https://dawn.googlesource.com/dawn
 
 https://issues.chromium.org/issues?q=hotlistid:5483263%20status:new
