@@ -1,4 +1,15 @@
 
+
+Running hooks: 100% (116/116), done.
+
+
+Warnings:
+git update is recommended.
+Installed git version is 2.34.1;
+depot_tools recommends version 2.46.0 or later.
+Disable this warning by setting the GCLIENT_SUPPRESS_GIT_VERSION_WARNING
+environment variable to 1.
+
 gn gen out/Default --export-compile-commands
 
 https://dawn.googlesource.com/dawn
