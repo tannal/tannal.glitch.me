@@ -1,4 +1,68 @@
 
+# 2026-05-18
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Chrome Platform Status
+https://chromestatus.com/features?q=shipping_year:2026
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+casting.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/platform/wtf/casting.h?q=DynamicTo&ss=chromium%2Fchromium%2Fsrc
+
+html_anchor_element.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/html_anchor_element.cc
+
+svg_a_element.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/svg/svg_a_element.cc
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+MathML in WebGL
+https://fred-wang.github.io/TeXZilla/examples/toImageWebGL.html
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:feature/mathml-anchor-element?expand=1
+
+tannal/tjplot: A Lightweight C Scientific Plotting Library
+https://github.com/tannal/tjplot
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Dashboard - Sub2API
+https://dragoncode.codes/dashboard
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+MathML Core
+https://w3c.github.io/mathml-core/#global-attributes
+
+HTML Standard
+https://html.spec.whatwg.org/#the-a-element
+
+…/css_font_feature_values_rule.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/11/third_party/blink/renderer/core/css/css_font_feature_values_rule.idl
+
+MathML Core
+https://w3c.github.io/mathml-core/
+
+TeXZilla
+https://fred-wang.github.io/TeXZilla/
+
+Chrome Platform Status
+https://chromestatus.com/features?error=403
+
+
+
 # 2025-06-22
 
 
