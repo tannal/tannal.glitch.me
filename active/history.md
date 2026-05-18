@@ -4,6 +4,75 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893
 
+Frédéric Wang Nélar · Yet another non-exponentially growing weblog
+https://frederic-wang.fr/page3/
+
+Proving the Pythagorean theorem - MathML | MDN
+https://developer.mozilla.org/en-US/docs/Web/MathML/Guides/Proving_the_Pythagorean_theorem
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+Embedded Content — SVG 2
+https://w3c.github.io/svgwg/svg2-draft/embedded.html#ForeignObjectElement
+
+Add more tests · chromium/chromium@d3c92d5
+https://github.com/chromium/chromium/commit/d3c92d524c508694cee2774a70fe1b8a1767bda7
+
+2026-06-01-igalia-coding-experience-meeting - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+…/TestExpectations · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/2670609/6/third_party/blink/web_tests/TestExpectations
+
+chrome-remote-index/docs/index.md at main · clangd/chrome-remote-index
+https://github.com/clangd/chrome-remote-index/blob/main/docs/index.md
+
+My internship with Igalia | /diːˈlaːn(.)ˌʕaːzəbaːniː/
+https://www.azabani.com/2020/09/27/my-internship-with-igalia.html
+
+Remove Non-ASCII Case-insensitive equivalents for ASCII keywords - Chrome Platform Status
+https://chromestatus.com/feature/5734362161086464
+
+Funding MathML Developments in Gecko and WebKit - Blog de Frédéric
+https://web.archive.org/web/20141214030114/http://www.maths-informatique-jeux.com/blog/frederic/?post%2F2013%2F10%2F12%2FFunding-MathML-Developments-in-Gecko-and-WebKit
+
+Post-Summit Thoughts on the MathML Project - Blog de Frédéric
+https://web.archive.org/web/20141219023526/http://www.maths-informatique-jeux.com/blog/frederic/?post/2013/10/07/Post-Summit-Thoughts-on-the-MathML-Project
+
+Frédéric WANG - Computer Engineer
+https://web.archive.org/web/20150420173205/http://www.maths-informatique-jeux.com/cv/frederic.wang.en.html
+
+Issue 152430 - chromium - Enabling support for MathML - An open-source project to help move the web forward. - Google Project Hosting
+https://web.archive.org/web/20141219074042/https://code.google.com/p/chromium/issues/detail?id=152430#c32
+
+Mozilla MathML Project
+https://web.archive.org/web/20141214083907/http://fred-wang.github.io/MozSummitMathML/index.html
+
+web.archive.org/web/20141214083907im_/http://fred-wang.github.io/MozSummitMathML/mathzilla.svg
+https://web.archive.org/web/20141214105157im_/http://fred-wang.github.io/MozSummitMathML/mathzilla.svg
+
+…/css_font_feature_values_rule.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/11/third_party/blink/renderer/core/css/css_font_feature_values_rule.idl
+
+MathML Core
+https://www.w3.org/TR/mathml-core/
+
+MathMLElement.webidl - mozsearch
+https://searchfox.org/firefox-main/search?q=MathMLElement.webidl&path=&case=false&regexp=false
+
+Implement MathML a tag in blink/chromium.
+http://localhost:1313/p/implement-mathml-a-tag-in-blink/chromium./
+
+Dragon - 企业级中转 - Sub2API
+https://dragoncode.codes/
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
 Chrome Platform Status
 https://chromestatus.com/features?q=shipping_year:2026
 
