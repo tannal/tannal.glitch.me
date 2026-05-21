@@ -1,4 +1,78 @@
 
+# 2026-05-20
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
+Implement MathML a tag in blink/chromium.
+https://tannal.github.io/p/implement-mathml-a-tag-in-blink/chromium./
+
+Implement MathML anchor tag in blink/chromium.
+http://localhost:1313/p/implement-mathml-anchor-tag-in-blink/chromium./
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Igalia 2026 Coding Experience Open for Applications | Igalia
+https://www.igalia.com/2026/02/27/Igalia-2026-Coding-Experience-Open-for-Applications.html
+
+wpt/mathml/presentation-markup at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/tree/master/mathml/presentation-markup
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:feature/mathml-anchor-element?expand=1
+
+2026-06-01-igalia-coding-experience-meeting - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0
+
+Excalidraw Whiteboard
+https://excalidraw.com/
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697?pli=1
+
+Igalia 2026 Coding Experience Open for Applications | Igalia
+https://www.igalia.com/2026/02/27/Igalia-2026-Coding-Experience-Open-for-Applications.html
+
+How Node.js and V8 keep each other working - workflows, challenges and tips | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2026/05/18/how-nodejs-and-v8-keep-each-other-working/
+
+build: downgrade armv7 support to experimental by targos · Pull Request #58071 · nodejs/node
+https://github.com/nodejs/node/pull/58071/changes
+
+Post by @joyeecheung.bsky.social — Bluesky
+https://bsky.app/profile/joyeecheung.bsky.social/post/3lo7gdvvbo22a
+
+src: only block on user blocking worker tasks by joyeecheung · Pull Request #58047 · nodejs/node
+https://github.com/nodejs/node/pull/58047
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+邮编查询入口_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%82%AE%E7%BC%96%E6%9F%A5%E8%AF%A2%E5%85%A5%E5%8F%A3&fenlei=256&rsv_pq=0xcabaa2fe02bd48e8&rsv_t=e0a5DuvhvHF6CNVUxVRY14xvkR4BnfOAsT8DqwbfWKLuCPDVBYtDMhF945at&rqlang=en&rsv_dl=is_2&rsv_enter=1&rsv_sug3=8&rsv_sug1=7&rsv_sug7=100&rsv_btype=i&prefixsug=youbian&rsp=2&inputT=2971&rsv_sug4=2972
+
+搜索结果 邮政编码查询 - 邮编库 ✉️
+https://www.youbianku.com/baidu_search_results?address=%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%9F%B3%E7%A2%A3%E9%95%87%E6%A1%94%E6%B4%B2%E6%97%A7%E5%9B%B4%E4%BA%8C%E5%B7%B71%E5%8F%B7201%E6%88%BF&loc=&city=
+
+typst/typst: A markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+Table Function – Typst Documentation
+https://typst.app/docs/reference/model/table/#definitions-header
+
+vat number in china - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=vat+number+in+china
+
 # 2026-05-18
 
 2026-05-08起 - Google Gemini
