@@ -1,4 +1,60 @@
 
+# 2026-05-22
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Documentation for Igalia (Meng, CE 2026) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLrxTpvFmsJCwKnJbdLRJbqSF
+
+aisuneko's 2025 Recap / Reminiscence - aisuneko/blog
+https://aisuneko.moe/posts/2025-recap-reminiscence/
+
+Joyee Cheung | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/qzhang
+
+Gavin Guo | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/gavinguo
+
+tannal (tannal)
+https://github.com/tannal
+
+自然人电子税务局
+https://etax.chinatax.gov.cn/webstatic/tax-residency-status/detail?dmnHafHu=0rttNVGlqWoWofG6gl7R5JDpFOzS3bl4EqqzOYUmaxc34IMqXix45fQbVJuq2TOiN9lV0g0pfClqv2ku2xi95IdWGP8xH7t9AvritMymo3BdMjjWs34T6baKb0vRRjeh9rGDxG1ttAQvGoLVqrrdSMM7_T82IyjfX
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=euro+to+chinese+yuan
+
+Renderer Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1r28-uhSl3w9-MhPIfgt7uQXDxPBBVzkw25tlS3b6VMM/edit?tab=t.ihhvxr7gzo9h
+
+双倍多多冰 (@icenowy@nightcord.de) - Nightcord
+https://nightcord.de/@icenowy
+
+fossjobs/fossjobs: fossjobs.net based on jobberbase
+https://github.com/fossjobs/fossjobs
+
+Graphics Developer | Igalia - Open Source Consulting and Development
+https://www.igalia.com/jobs/graphics_developer
+
+Season of KDE - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=Season+of+KDE
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=euro+to+chinese+yuan
+
+邮编_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E9%82%AE%E7%BC%96&fenlei=256&rsv_pq=0xa014e2570012f436&rsv_t=dfa2F69mddFzh%2Ba7h0ag0KoE6Js%2BZr5WVfQdqYUV5QwWZHBYv6nPf32Y5h3j&rqlang=en&rsv_enter=1&rsv_dl=ib_enter&rsv_n=2&rsv_sug3=1&rsv_sug1=1&rsv_sug7=100&rsv_btype=i&inputT=637&rsv_sug4=637&rsv_sug=1
+
+中国邮政集团有限公司 - 中国邮政集团有限公司
+https://www.chinapost.com.cn/
+
+寄送包裹
+https://dey.11185.cn/web/#/idtoolkitAddress
+
 # 2026-05-20
 
 2026-05-08起 - Google Gemini
