@@ -1,4 +1,117 @@
 
+# 2026-05-27
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
+tannal (tannal)
+https://github.com/tannal
+
+Problem loading page
+https://szfilehelper.weixin.qq.com/
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+tannal (tannal)
+https://github.com/tannal
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+custom_element_test_helpers.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/custom/custom_element_test_helpers.h?q=CreateElement&ss=chromium%2Fchromium%2Fsrc
+
+Docusign
+https://eu.docusign.net/Member/404Error.aspx?aspxerrorpath=/SessionTimeout.aspx
+
+Docusign
+https://eu.docusign.net/Member/404Error.aspx?aspxerrorpath=/SessionTimeout.aspx
+
+自然人电子税务局
+https://etax.chinatax.gov.cn/webstatic/tax-residency-status/detail?dmnHafHu=0bVDfRqlqWEMglTS8K7fT_mdN89H0tliWi4kVXujiZwJRd0Ny4FIjDU43rmoVm3Tsr4k1PP3nd9kjjCH5G6oTuT68yUQviErWTwGFvBAbKo1lF9SHA79fgBAxTb64I8yQp3Q9_pEifbnyFwX5mK2xcFUq2JjbP4Nf
+
+TM Docs
+http://124.221.12.178:8080/
+
+https://annas-archive.gl/slow_download/6af7720f6819df1efc73b9c641320024/0/0
+https://annas-archive.gl/slow_download/6af7720f6819df1efc73b9c641320024/0/0
+
+current time in spain - Google 搜索
+https://www.google.com/search?q=current+time+in+spain&client=ubuntu-sn&sca_esv=6edb749f8041621c&channel=fs&biw=1850&bih=968&sxsrf=ANbL-n7U5nUxO_xLc-Ngs36Zmh8IMPBNHg%3A1779459310390&ei=7mQQaqG_F92t0PEPo_vToQk&ved=0ahUKEwih7tnAis2UAxXdFjQIHaP9NJQQ4dUDCBA&uact=5&oq=current+time+in+spain&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWN1cnJlbnQgdGltZSBpbiBzcGFpbjIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwAzIKEAAYRxjWBBiwA0iZClAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIGmAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHBIAIAQ&sclient=gws-wiz-serp
+
+2026-06-05-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0#heading=h.6wiuyw2209ch
+
+2026-06-12-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1Uw2ccwbwOoNuSP7WfTOb_Zl0Wd7yKxNaNYH1uDZkfkQ/edit?tab=t.0
+
+two-heart/v8-design-docs: collection of V8 design documents
+https://github.com/two-heart/v8-design-docs
+
+Ignition Design Doc - Google 文档
+https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?tab=t.0
+
+自然人电子税务局
+https://etax.chinatax.gov.cn/webstatic/tax-residency-status/list?dmnHafHu=0hYTSRGlqWJzLI8uYS7wn5n58pohXRisTD2tDS9CJmOdvqPu_VNqHyHsTHPCzEToKzZq.9_u56PrriQhDg0Wj9LepTWF1l5AQ5vsZi73byibxzXc3qJR_Na
+
+Code search results
+https://github.com/search?q=org%3AWebKit%20CMAKE_CXX_STANDARD&type=code
+
+Align MathML nonce implementation with SVG/HTML. (7827786) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7827786
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+Rename HTMLOrSVGElement mixin to HTMLOrSVGOrMathMLElement by lukewarlow · Pull Request #12416 · whatwg/html
+https://github.com/whatwg/html/pull/12416
+
+chrome-remote-index/docs/index.md at main · clangd/chrome-remote-index
+https://github.com/clangd/chrome-remote-index/blob/main/docs/index.md
+
+Releases · clangd/clangd
+https://github.com/clangd/clangd/releases
+
+Code search results
+https://github.com/search?q=repo%3Allvm%2Fllvm-project%20CLANGD_ENABLE_REMOTE&type=code
+
+external/github.com/llvm/llvm-project - Git at Google
+https://chromium.googlesource.com/external/github.com/llvm/llvm-project
+
+Issues · llvm/llvm-project
+https://github.com/llvm/llvm-project/issues?q=is%3Aissue%20state%3Aopen%20SelectionTree
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+microsoft/pylance-release: Documentation and issues for Pylance
+https://github.com/microsoft/pylance-release
+
+Fraction Function – Typst Documentation
+https://typst.app/docs/reference/math/frac/
+
+Dashboard - Dragon Code
+https://dragoncode.codes/dashboard
+
+MathML Core
+https://w3c.github.io/mathml-core/#reinitialise-url
+
+自然人电子税务局
+https://etax.chinatax.gov.cn/webstatic/tax-residency-status/list?dmnHafHu=0nldIxAlqWJ9Nwwyy6zCkxSWM7F9C8Bl.hddnLUgrE5.ZiygkbEk4R4G2Tm3JouaQH59IfFtM71ru7et464_sd.MNPIJB2W3BcEO.AWTjYzsstOiW6m4oYA
+
+current us time - Google 搜索
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=current+us+time
+
+current time in spain - Google 搜索
+https://www.google.com/search?q=current+time+in+spain&client=ubuntu-sn&hs=O8W&sca_esv=c0a979c20fc01ddf&channel=fs&sxsrf=ANbL-n6kwz4jnN0vxVoecjnn9El6iDHymQ%3A1779703180975&ei=jB0UasCeO_iMvr0P8sbvoAU&biw=1850&bih=968&ved=0ahUKEwjAlKH_ltSUAxV4hq8BHXLjG1QQ4dUDCBA&oq=current+time+in+spain&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWN1cnJlbnQgdGltZSBpbiBzcGFpbkgAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQzIAQCYAgCgAgCYAwCSBwCgBwCyBwC4BwDCBwDIBwCACAE&sclient=gws-wiz-serp
+
+why docusign must use sms - Google 搜索
+https://www.google.com/search?q=why+docusign+must+use+sms&client=ubuntu-sn&sca_esv=c968c4e410faa55c&channel=fs&sxsrf=ANbL-n6F9Fke2vm1PVA_3VXKABVGTV21Nw%3A1779787734361&ei=1mcVavTkFeKji-gP3bzmoAc&biw=1850&bih=968&ved=0ahUKEwj0p7r90daUAxXi0QIHHV2eGXQQ4dUDCBA&uact=5&oq=why+docusign+must+use+sms&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXdoeSBkb2N1c2lnbiBtdXN0IHVzZSBzbXMyBRAhGKABMgUQIRigATIFECEYoAFIgApQ6wZYyghwAXgBkAEAmAHIAqAByAKqAQMzLTG4AQPIAQD4AQGYAgKgAuQCwgIKEAAYRxjWBBiwA5gDAIgGAZAGCpIHBTEuMy0xoAe5ArIHAzMtMbgH2gLCBwMyLTLIBwqACAE&sclient=gws-wiz-serp
+
+Signature Generator – Free Online Digital Signature Maker | Docusign
+https://www.docusign.com/signature-generator
+
 # 2026-05-22
 
 2026-05-08起 - Google Gemini
