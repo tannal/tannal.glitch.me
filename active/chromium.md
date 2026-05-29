@@ -1,6 +1,111 @@
 
 ## MathMLAnchorElement
 
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+third_party/blink/web_tests/external/wpt/common/security-features/resources/common.sub.js
+
+```js
+// third_party/blink/web_tests/external/wpt/common/security-features/resources/common.sub.js
+/**
+ * Creates a MathML element with an href attribute, appends it to
+ * {@code document.body} and performs the navigation.
+ * @param {string} url The URL to navigate to.
+ * @return {Promise} The promise for success/error events.
+ */
+function requestViaMathMLAnchor(url, additionalAttributes) {
+  const name = guid();
+
+  // 1. 创建一个隐藏的 iframe 作为跳转目标 (Target Window)
+  const iframe =
+    createElement("iframe", { "name": name, "id": name }, document.body, false);
+
+  // 2. 创建 MathML 的根节点 <math>，必须带上 MathML 的命名空间
+  const math = document.createElementNS("http://www.w3.org/1998/Math/MathML", "math");
+
+  // 3. 创建带有超链接属性的 MathML 内部节点（这里以 <mtext> 为例，也可以换成 <maction> 或 <mi> 等）
+  //    因为按照 MathML 规范，任意 MathML 节点加上 href 都可以作为锚点跳转
+  const mathmlAnchor = document.createElementNS("http://www.w3.org/1998/Math/MathML", "mtext");
+
+  // 4. 拼装跳转属性和附加属性
+  const link_attributes = Object.assign({ "href": url, "target": name }, additionalAttributes);
+  setAttributes(mathmlAnchor, link_attributes);
+
+  // 5. 填充文本内容，让这个节点在 DOM 树里充实起来
+  mathmlAnchor.textContent = "MathML Link to resource";
+
+  // 6. 组装 DOM 树并挂载到 body
+  math.appendChild(mathmlAnchor);
+  document.body.appendChild(math);
+
+  // 7. 绑定跨域/异步消息监听，用于捕获来自 iframe 的结果
+  const promise =
+    bindEvents2(window, "message", iframe, "error", window, "error")
+      .then(event => {
+        if (event.source !== iframe.contentWindow)
+          return Promise.reject(new Error('Unexpected event.source'));
+        return event.data;
+      });
+
+  // 8. 核心大招：模拟鼠标点击事件，狠狠地戳在这个 MathML 锚点上！
+  const event = new MouseEvent('click', {
+    view: window,
+    bubbles: true,
+    cancelable: true
+  });
+  mathmlAnchor.dispatchEvent(event);
+
+  return promise;
+}
+
+```
+
+```js
+"mathml-a-tag": {
+  path: "/common/security-features/subresource/document.py",
+  invoker: requestViaMathMLAnchor,
+},
+```
+
+```python
+third_party/blink/web_tests/external/wpt/common/security-features/tools/spec_validator.py
+
+valid_subresource_names
+
+"mathml-a-tag"
+
+```
+
+```python
+# third_party/blink/web_tests/external/wpt/common/security-features/tools/spec_validator.py
+def assert_contains(obj, field):
+    # 🤝 咱们加一行条件判断打印：如果缺少了字段，先大声喊出来当前 obj 的特征
+    if field not in obj:
+        print("\n" + "="*50)
+        print(f"💥 [DEBUG ERROR] 捕捉到缺少字段: {field}")
+
+        # 尝试打印这个对象的特征，比如它可能包含 "name", "subresource", "sourceContextType" 等字段
+        if isinstance(obj, dict):
+            print(f"👉 当前对象的键值(Keys): {list(obj.keys())}")
+            # 如果对象有名字或标识，重点打印
+            for guess_key in ["name", "subresource", "sourceContextType", "deliveryType"]:
+                if guess_key in obj:
+                    print(f"👉 它的 {guess_key} 是: {obj[guess_key]}")
+
+        print(f"👉 完整对象数据如下:")
+        import json
+        print(json.dumps(obj, indent=4))
+        print("="*50 + "\n")
+
+    # 保留原本的断言，不破坏工具本身的退出机制
+    assert field in obj, 'Must contain field "%s"' % field
+```
+
+PYTHONPATH=$PYTHONPATH:$(pwd)/third_party/pyjson5/src python3 third_party/blink/web_tests/external/wpt/common/security-features/tools/generate.py --spec third_party/blink/web_tests/external/wpt/referrer-policy/
+
+# 在 src 根目录下运行，直接过滤出所有包含 mathml-a-tag 的测试
+third_party/blink/tools/run_wpt_tests.py -t Default external/wpt/referrer-policy/gen/*mathml-a-tag*
+
 headless_shell
 
 Feat: Support MathML anchor element
