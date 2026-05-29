@@ -4,6 +4,7 @@
 Feat: Support MathML anchor element
 This pr support a element in the MathML namespace.
 
+git rebase -i origin/main
 
 https://github.com/chromium/chromium/compare/main...tannal:feature/mathml-anchor-element?expand=1
 
