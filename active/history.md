@@ -1,4 +1,168 @@
 
+# 2026-05-30
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+V8 Community Contributors Meeting Notes - Google 文档
+https://docs.google.com/document/d/1S4_XXTYEc1SJjgQmYOTwj7J3mgoz6kcFze2RlMUtw7o/edit?tab=t.0#heading=h.6ew6m1k1nvbp
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Deploy in progress
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/issues?sort=created_date&state=all&first_page_size=20&show=eyJpaWQiOiIzMyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjoyODMyMX0%3D
+
+401 Unauthorized
+https://intranet.igalia.com/wiki/bin/register?action=verify;code=MengTan.11869651
+
+Not found
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/issues?sort=created_date&state=closed&last_page_size=20&page_before=eyJjcmVhdGVkX2F0IjoiMjAyMy0wMS0zMSAxMjo0Mzo0MC41Mzk1MTgwMDAgKzAwMDAiLCJpZCI6IjE1MjUxIn0&show=eyJpaWQiOiIzMiIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjoyODMyMH0%3D
+
+Change your password
+https://tools.igalia.com/tools/chpasswd
+
+401 Unauthorized
+https://accounts.igalia.com/accounts/smtp/mx1-smtp/generate_newpassword
+
+401 Unauthorized
+https://intranet.igalia.com/
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=experimental&label=master&aligned
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=experimental&label=master&aligned
+
+Testing in Chromium - web-platform-tests
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_platform_tests.md
+
+Add `<a>` to MathML, deprecate global `href` · mdn/content@6df275f
+https://github.com/mdn/content/commit/6df275f4d0e8267bb50ffd6a313b4117a61942c6#r3267409017
+
+Igalia Chat | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+401 Unauthorized
+https://accounts.igalia.com/accounts/smtp/mx1-smtp/generate_newpassword
+
+401 Unauthorized
+https://intranet.igalia.com/
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+Vaultwarden Web
+https://vault.igalia.com/#/send/asDHD8E6TZGEDPzFtWWzsQ/npqcOANjoVjzE9UFKQDsoQ
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+2026-06-05-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+
+Viktor Selbst - Search - Anna’s Archive
+https://annas-archive.gl/search?index=&page=1&sort=&display=&q=Viktor+Selbst
+
+cxx - Google 群组
+https://groups.google.com/a/chromium.org/g/cxx
+
+C++
+https://www.reddit.com/r/cpp/
+
+HTML Standard
+https://html.spec.whatwg.org/#api-for-hyperlink-elements
+
+Graphics-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/graphics-dev
+
+Intent to Ship: named-feature() function for CSS @supports
+https://groups.google.com/a/chromium.org/g/blink-dev/c/jRufi9adKY0
+
+mozilla/standards-positions
+https://github.com/mozilla/standards-positions
+
+us time now - Google 搜索
+https://www.google.com/search?q=us+time+now&client=ubuntu-sn&hs=51v&sca_esv=5e32a1a574b06e28&channel=fs&sxsrf=ANbL-n6xWkO7j5gFRJC569mbk1k5jkQtLg%3A1780037208611&ei=WDYZap2NJY_pmLQP3KTT2Qs&biw=1850&bih=968&ved=0ahUKEwidmYas892UAxWPNIYAHVzSNLsQ4dUDCBA&uact=5&oq=us+time+now&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3VzIHRpbWUgbm93MgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSIcHUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgSYAwCIBgGQBgqSBwExoAcAsgcAuAcAwgcDMi0xyAcDgAgB&sclient=gws-wiz-serp
+
+Mego Tan (@tannal.github.io) — Bluesky
+https://bsky.app/profile/tannal.github.io
+
+TM Docs
+http://124.221.12.178:8080/
+
+…/css_font_feature_values_rule.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469/11/third_party/blink/renderer/core/css/css_font_feature_values_rule.idl
+
+Undefined references - Google 表格
+https://docs.google.com/spreadsheets/d/1UYY-GIIMhsP9r2EZRAyo2NVKxftdoJsnPxiZL6nbnE8/edit?gid=1347538020#gid=1347538020
+
+Office Hours 2026-05-29 - Google 文档
+https://docs.google.com/document/d/1uLl1NEnxYnBqZtT2M3x-W5gRIenbWHJByTCO_XmOLBQ/edit?tab=t.0#heading=h.evjimzdnrevx
+
+Cliff Click - YouTube
+https://www.youtube.com/@compilers/videos
+
+Referrer Policy
+https://www.w3.org/TR/referrer-policy/
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+Support ping, hreflang, type and referrerPolicy for SVGAElement - Chrome Platform Status
+https://chromestatus.com/feature/5140707648077824
+
+siso command - go.chromium.org/build/siso - Go Packages
+https://pkg.go.dev/go.chromium.org/build/siso#section-readme
+
+funding mathml - Google 搜索
+https://www.google.com/search?q=funding+mathml&client=ubuntu-sn&hs=nVH&sca_esv=8de72729b5786757&channel=fs&sxsrf=ANbL-n7nI2QYrcP-oQ5_X7WXujftEnUBng:1780040328415&ei=iEIZaoSQGZCaruEPrOGusA0&start=10&sa=N&sstk=AU9db-CItgiMibHdVhWPydcCvaODSQ-5_yC_cDY2kFa1Asj9s2xdB4mC5IgmsiFSCvWmKIqnolnjEyJ7XPdtYQ1ULAeWK80TjQKfIQ&ved=2ahUKEwiE9Nf7_t2UAxUQjSsGHaywC9YQ8tMDegQIKxAE&biw=1850&bih=927&dpr=1
+
+GMT+8 cest - Google 搜索
+https://www.google.com.hk/search?q=GMT%2B8+cest&newwindow=1&client=ubuntu-sn&sca_esv=3d5f9eb754eb159c&channel=fs&ei=AVYaaq3mOo_a2roPh7uSkA8&biw=1850&bih=968&ved=0ahUKEwjt6v3WheCUAxUPrVYBHYedBPIQ4dUDCBA&uact=5&oq=GMT%2B8+cest&gs_lp=Egxnd3Mtd2l6LXNlcnAiCkdNVCs4IGNlc3QyBxAAGIAEGA0yBBAAGB4yChAAGAgYHhgMGAoyBhAAGAgYHjIGEAAYCBgeMgoQABgIGB4YDRgKMgoQABgIGB4YDRgKMggQABgIGB4YDTIIEAAYCBgeGA0yCBAAGAgYHhgNSMUSUKUEWPgOcAF4AZABAJgB3AKgAZMNqgEDMy01uAEDyAEA-AEBmAIGoALIDcICChAAGEcY1gQYsAPCAgUQABiABMICCBAAGAgYHhgKwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCpIHBTEuMy01oAf7C7IHAzMtNbgHvg3CBwcwLjIuMS4zyAcngAgB&sclient=gws-wiz-serp
+
+Ho Chi Minh City: 14:40
+https://whattime.is/en/
+
+http://127.0.0.1:9090/proxies
+http://127.0.0.1:9090/proxies
+
+sosukesuzuki (SUZUKI Sosuke)
+https://github.com/sosukesuzuki
+
+[MathML] Layout invalid markup as an <mrow> https://bugs.webkit.org/show_bug.cgi?id=123348 by icesfont · Pull Request #30705 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/30705/changes#diff-aef2f1002359e08737bcb4827a9ce0496f4a10ce693d4052dca05e9d9e32a228
+
+testharness.js API — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness-api.html
+
+icesfont / Repositories
+https://github.com/icesfont?tab=repositories
+
+Your profile
+https://github.com/settings/profile
+
 # 2026-05-27
 
 2026-05-08起 - Google Gemini
