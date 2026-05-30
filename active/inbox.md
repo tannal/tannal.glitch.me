@@ -1,43 +1,37 @@
 
 # 2026-05-30
 
+② 如果发现不是浅克隆，怎么在原地“瘦身”？
+
+如果你检查后发现不小心弄成了完整克隆，硬盘快爆了，你不需要删掉重新下载。你可以直接在 chromium/src 目录下运行以下命令，强行把当前仓库变成深度为 100 的浅克隆：
+
+```bash
+# 强行截断历史，只保留最近 100 个 commit
+git fetch --depth=100
+
+# 清理本地无用的历史缓存（释放硬盘空间）
+git gc --prune=now
+```
+
 [Weekly report 1]
-Worked hours: 29:15 (+4:30 from last Thu/Fri)
+Worked hours: 30:00 (+2:33 from last Sat/Sun)
 Tasks:
 
-Read documentation for and built Firefox [1]
-Read documentation for and built WebKit [2]
-Opened a WIP PR for a WebKit bug relating to mrow fallback behaviour [3][4]
-Read documentation for test harness and contributing WPTs [5][6]
-Opened a (really tiny) PR to revert padding in a WPT, so that WebKit doesn't erroneously fail it (merged) [7]
-Opened a (really tiny) PR to reparent invalid MathML markup under a math tag [8]
-Opened a PR to add a new WPT that checks that the preferred logical widths for invalid MathML markup is computed like an mrow [9]
+Read documentation for and built chromium [1]
+Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
+Read documentation for testdriver in wpt tests [3]
 
 Next:
 
-Resolve issues with PRs [4], [8] and [9]
-Finish PR for [4] -- check that inheriting from RenderMathRowElement does not change the behaviour of elements when not invalid, and make sure other mrow behaviours are matched e.g. check that baseline is computed correctly
-Write new WPTs for all of the other behaviours too (+copy over new expected.txt for WPTs)
+Resolve issues with PRs [2]
 
 Links:
 
-[1] https://firefox-source-docs.mozilla.org/setup/windows_build.html
+[1] https://www.chromium.org/developers/how-tos/get-the-code
 
-[2] https://docs.webkit.org/Ports/WindowsPort.html#building
+[2] https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
 
-[3] https://bugs.webkit.org/show_bug.cgi?id=123348
-
-[4] https://github.com/WebKit/WebKit/pull/30705
-
-[5] https://web-platform-tests.org/writing-tests/testharness-api.html
-
-[6] https://github.com/web-platform-tests/wpt?tab=readme-ov-file#contributing
-
-[7] https://github.com/web-platform-tests/wpt/pull/47078
-
-[8] https://github.com/web-platform-tests/wpt/pull/47094
-
-[9] https://github.com/web-platform-tests/wpt/pull/47096
+[3] https://web-platform-tests.org/writing-tests/testdriver.html
 
 [] onboarding
 [Weekly report #1] <Subject>
