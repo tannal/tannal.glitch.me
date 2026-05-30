@@ -14,7 +14,7 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+2:33 from last Sat/Sun)
+Worked hours: 30:00 (+3:53 from last Sat/Sun)
 Tasks:
 
 Read documentation for and built chromium [1]
