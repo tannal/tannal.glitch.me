@@ -1,6 +1,44 @@
 
 # 2026-05-30
 
+[Weekly report 1]
+Worked hours: 29:15 (+4:30 from last Thu/Fri)
+Tasks:
+
+Read documentation for and built Firefox [1]
+Read documentation for and built WebKit [2]
+Opened a WIP PR for a WebKit bug relating to mrow fallback behaviour [3][4]
+Read documentation for test harness and contributing WPTs [5][6]
+Opened a (really tiny) PR to revert padding in a WPT, so that WebKit doesn't erroneously fail it (merged) [7]
+Opened a (really tiny) PR to reparent invalid MathML markup under a math tag [8]
+Opened a PR to add a new WPT that checks that the preferred logical widths for invalid MathML markup is computed like an mrow [9]
+
+Next:
+
+Resolve issues with PRs [4], [8] and [9]
+Finish PR for [4] -- check that inheriting from RenderMathRowElement does not change the behaviour of elements when not invalid, and make sure other mrow behaviours are matched e.g. check that baseline is computed correctly
+Write new WPTs for all of the other behaviours too (+copy over new expected.txt for WPTs)
+
+Links:
+
+[1] https://firefox-source-docs.mozilla.org/setup/windows_build.html
+
+[2] https://docs.webkit.org/Ports/WindowsPort.html#building
+
+[3] https://bugs.webkit.org/show_bug.cgi?id=123348
+
+[4] https://github.com/WebKit/WebKit/pull/30705
+
+[5] https://web-platform-tests.org/writing-tests/testharness-api.html
+
+[6] https://github.com/web-platform-tests/wpt?tab=readme-ov-file#contributing
+
+[7] https://github.com/web-platform-tests/wpt/pull/47078
+
+[8] https://github.com/web-platform-tests/wpt/pull/47094
+
+[9] https://github.com/web-platform-tests/wpt/pull/47096
+
 [] onboarding
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
