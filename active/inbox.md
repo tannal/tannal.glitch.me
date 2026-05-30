@@ -1,6 +1,7 @@
 
 # 2026-05-30
 
+[] onboarding
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
 [Weekly report #3] <Subject>
