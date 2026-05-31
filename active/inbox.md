@@ -1,4 +1,8 @@
 
+# 2026-05-31
+
+third_party/blink/renderer/modules/accessibility/ax_node_object.cc:2416
+
 # 2026-05-30
 
 ② 如果发现不是浅克隆，怎么在原地“瘦身”？
@@ -15,15 +19,18 @@ git gc --prune=now
 
 [Weekly report 1]
 Worked hours: 30:00 (+3:53 from last Sat/Sun)
+
 Tasks:
 
 Read documentation for and built chromium [1]
 Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
 Read documentation for testdriver in wpt tests [3]
+Read past chromium review for mathml a11y mapping [4]
 
 Next:
 
 Resolve issues with PRs [2]
+Working on the a11y mapping for mathml a element
 
 Links:
 
