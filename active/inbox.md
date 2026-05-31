@@ -18,14 +18,14 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+3:53 from last Sat/Sun)
+Worked hours: 30:00 (+5:09 from last Sat/Sun)
 
 Tasks:
 
 Read documentation for and built chromium [1]
 Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
 Read documentation for testdriver in wpt tests [3]
-Read past chromium review for mathml a11y mapping [4]
+Read past chromium review for mathml a11y mapping [4] [5]
 
 Next:
 
@@ -40,7 +40,10 @@ Links:
 
 [3] https://web-platform-tests.org/writing-tests/testdriver.html
 
-[] onboarding
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/3207929
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/3222742
+
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
 [Weekly report #3] <Subject>
