@@ -20,7 +20,7 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+6:02 from last Sat/Sun)
+Worked hours: 30:00 (+6:44 from last Sat/Sun)
 
 Tasks:
 
