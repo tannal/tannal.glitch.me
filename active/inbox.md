@@ -1,6 +1,8 @@
 
 # 2026-05-31
 
+./scrcpy --v4l2-sink=/dev/video9 --video-source=camera --camera-facing=back --camera-size=1920x1080 --no-playback -e
+
 third_party/blink/renderer/modules/accessibility/ax_node_object.cc:2416
 
 # 2026-05-30
@@ -18,7 +20,7 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+5:09 from last Sat/Sun)
+Worked hours: 30:00 (+6:02 from last Sat/Sun)
 
 Tasks:
 
