@@ -1,5 +1,222 @@
 
+# 2026-06-01
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
+tannal/copy-tabs
+https://github.com/tannal/copy-tabs
+
+TM Docs
+http://124.221.12.178:8080/
+
+Luke Warlow's Portfolio
+https://lukewarlow.dev/
+
+Web Witch 🔮 Stephanie Stimac (@seaotta.dev) — Bluesky
+https://bsky.app/profile/seaotta.dev
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+
+2026-06-01-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0#heading=h.m5qhtaeybg33
+
+RFC 4647: Matching of Language Tags | RFC Editor
+https://www.rfc-editor.org/info/rfc4647/
+
+Gmail：AI 加持、人人可享的安全邮件服务 | Google Workspace
+https://workspace.google.com/intl/zh-CN/gmail/#inbox
+
+AXSubrole of <ms> · Issue #13 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/13
+
+Map MathML elements to specific roles · blueboxd/chromium-legacy@d6d648b
+https://github.com/blueboxd/chromium-legacy/commit/d6d648b6dc54c1c78936dc506e5ccebe23cee7a3#diff-72c42289d678e6085dd8ca272d47603a4102a2744d9dd44bbd08b1d0975bda5f
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+eerii/tofu: tiny opengl renderer
+https://github.com/eerii/tofu
+
+MathML Core · Issue #79 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/79
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-a74c2adfc49d9f30122d84d5ed959b051507a13f2ca7036af99d2556d02be9bd
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-a74c2adfc49d9f30122d84d5ed959b051507a13f2ca7036af99d2556d02be9bd
+
+MathML Core · Issue #79 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/79
+
+MathML Core · Issue #79 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/79
+
+Align semantics and maction with MathML Core by eerii · Pull Request #51387 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/51387/changes#diff-4e085f6004b0787aaf0075ab0869f5c34af5d6b49a61a105e0d3225557ebeb36
+
+Align semantics and maction with MathML Core by eerii · Pull Request #51387 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/51387/changes#diff-4e085f6004b0787aaf0075ab0869f5c34af5d6b49a61a105e0d3225557ebeb36
+
+⚙ D49285 Bug 1588733 - Make maction/semantics elements behave as an mrow with the first child. r=emilio
+https://phabricator.services.mozilla.com/D49285
+
+⚙ D49285 Bug 1588733 - Make maction/semantics elements behave as an mrow with the first child. r=emilio
+https://phabricator.services.mozilla.com/D49285
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#c_source-code
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-e2fd8d40b3af0c64185df37714ae0e8889633db2cb8f18e6f86a15ca96b5895aR6
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-e2fd8d40b3af0c64185df37714ae0e8889633db2cb8f18e6f86a15ca96b5895aR6
+
+MathML `<a>` should use a separate interface · Issue #325 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/325
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+MathML `<a>` should use a separate interface · Issue #325 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/325
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-a800f352ae257f734b958312eedfc8fd15d26d50574ecc4c4e639b9a1d825df3R3791-R3795
+
+Testing in Chromium - Web Test Expectations and Baselines
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_test_expectations.md
+
+third_party/blink/web_tests/TestExpectations - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/web_tests/TestExpectations#2837
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree/tabindex-001.html?label=experimental&label=master&aligned
+
+wpt/accessibility at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/tree/master/accessibility
+
+wpt/accessibility at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/tree/master/accessibility
+
+2026 Web Engines Hackfest
+https://webengineshackfest.org/
+
+登录 | Slack
+https://app.slack.com/get-started?redir=%2Fgantry%2Fauth%3Fapp%3Dclient%26lc%3D1780295032%26return_to%3D%252Fclient%252FT06G50708%252FC06G51GEN%26teams%3D#/find
+
+输入你的验证码 | Slack
+https://chromium.slack.com/?no_sso=1
+
+Chrome Platform Status
+https://chromestatus.com/features
+
+Mirroring of RTL MathML operators - Chrome Platform Status
+https://chromestatus.com/feature/6317308531965952
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+Chrome Platform Status
+https://chromestatus.com/features?q=mathml
+
+Chrome Platform Status
+https://chromestatus.com/features?q=mathml
+
+Testing in Chromium - Running web tests using the content shell
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_tests_in_content_shell.md#using
+
+Testing in Chromium - web-platform-tests
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_platform_tests.md
+
+Testing in Chromium - web-platform-tests
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_platform_tests.md#running-tests
+
+Stretchy in inferred mrows
+https://wpt.live/mathml/presentation-markup/mrow/inferred-mrow-stretchy.html
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/presentation-markup/mrow/inferred-mrow-stretchy.html?label=experimental&label=master&aligned
+
+element.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/dom/element.cc;drc=5acb55861d6ffcd18e43831faccba49abbfef0b7;l=4220
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view#Web-rendering-engine
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element#diff-e2fd8d40b3af0c64185df37714ae0e8889633db2cb8f18e6f86a15ca96b5895aR6
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+
+Comparing chromium:main...tannal:feature/mathml-anchor-element · chromium/chromium
+https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Faster-builds
+
+登录 - Google 账号
+https://accounts.google.com/v3/signin/identifier?opparams=%253Fcred_ref%253Dtrue%2526hd%253Dgoogle.com&dsh=S-1741957784%3A1780293247439234&client_id=761377308534.apps.googleusercontent.com&hd=google.com&o2v=1&redirect_uri=https%3A%2F%2Flogin.corp.google.com%2Foauth&response_type=code&scope=openid+email&service=lso&state=c%3D1%26s%3Dgoto2.corp.google.com%3A443%2Fuberproxy%2F%26d%3Dhttps%3A%2F%2Fgoto2.corp.google.com%2Fchrome-linux-build%3Fupxsrf%253DAM2vRLlM9gF60WC3U8anSseG4ij7Jw2xmK5MNu3Jq4C1pbOymA%25253A1780293244502%26authLevel%3D1500%26maxAge%3D1200%26ssoformat%3DCORP_SSO%26x%3DAJKvJB0IB6fF2xFssv7K6nQz4Ckml-NY58sMJzrM0RbfTR78sg%3A1780293247154&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPeKjYtW_DnSz-KKADsH5-V4HJRTyMXFmVdMwuG0sqrvTePjzbIjEpxYIIb8t1TPGWk7zXnjd5r8-npk3tRMGU2rqoyPwEK2ZqNVBVo-afHkFe4Nl5uPCZDhQhqsr9xiM4q7h7jRgtV8R5uQlCSeFdSbz1oQboDW5CMDfQTdSGTdawd6mopLqZZcSteoynpimRIFYhVPTmVS28UZhToRq4DBBX3Jh8R-9UIEwXY1KElrdfMT_ZcoaAJMHoqwfQvPRJFLPkucttuyKOskZb35sf2HiAA3l319EL8zD7gL-MM-40vhWZiIm0nadItMTtqyGq80i19mbRTT_UFn2aAW_2k5ytjgaSLlHZho-UTFoHdK640uTftc4V9nCkLT-Oi5DYqxm1ndYgwUA5WWrjWk6Mm7kI12mg6SahuS4ThuZD64zAJ3VU%26flowName%3DGeneralOAuthFlow%26as%3DS-1741957784%253A1780293247439234%26client_id%3D761377308534.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Flogin.corp.google.com&rart=ANgoxcclmn6g6ht2k6_dmhKafy_FtvyLGvn8bD55lfTntTXgiTwtfjVaEXwNJEN848nrYUBuxHzJ_-NCpcrayWVPWkT2MvE2evMKkyDCAO-fU5188NMaHe0#set-up-remote-execution
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?edit
+
+PhpReport - Tasks
+https://phpreport.igalia.com/web/tasks.php
+
+README.md · main · Shared Resources / Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/blob/main/README.md#creating-a-comment-per-week
+
+Meng Tan - Web Platform (#37) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/37
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/signin?redirect=%2Ftime%2Fday
+
+2026-06-01-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1gxgRsfyeSjyLx1s2hKeV3op6wkRe3wdLx7_-7wRsTvk/edit?tab=t.0
+
+2026-06-08-ICE-agenda - Google 文档
+https://docs.google.com/document/d/1Uw2ccwbwOoNuSP7WfTOb_Zl0Wd7yKxNaNYH1uDZkfkQ/edit?tab=t.0
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+MathML tabIndex attribute
+https://wpt.live/mathml/relations/html5-tree/tabindex-001.html
+
+HTML Standard
+https://html.spec.whatwg.org/#api-for-hyperlink-elements
+
+MathML tabIndex attribute
+https://wpt.live/mathml/relations/html5-tree/tabindex-001.html
+
+Directory listing for /mathml/relations/html5-tree/
+https://wpt.live/mathml/relations/html5-tree/
+
 # 2026-05-31
+
+
 
 # 2026-05-30
 
