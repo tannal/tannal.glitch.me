@@ -4,6 +4,93 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893?pli=1
 
+Create your Google Account
+https://accounts.google.com/lifecycle/steps/signup/name?continue=https://accounts.google.com/ManageAccount?nc%3D1&dsh=S893217366:1780313484848739&flowEntry=SignUp&flowName=GlifWebSignIn&hl=en-US&TL=APouJz4zj6OiIZbo2F2GKOatD0jhhOeIsJGh-kWiWKklp_nlf6mAQUsLlnjC0xpR
+
+Igalia Chat | Pablo Abelenda
+https://chat.igalia.com/#/room/!XvmeCVcbpgUqXNNQRM:igalia.com
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+Home · Wiki · Shared Resources / Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/wikis/Home
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+Home · Wiki · Shared Resources / Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/wikis/Home
+
+Home · Wiki · Shared Resources / Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/wikis/Home
+
+Meng Tan - Web Platform (#37) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/37
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/issues/512726601
+
+web-platform-tests dashboard
+https://wpt.fyi/results/core-aam/aamtests?label=master&label=experimental&product=chrome&product=firefox
+
+Drawing to the Screen | Web Browser Engineering
+https://browser.engineering/graphics.html
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view#Questions
+
+CSS Layout API Level 1
+https://drafts.css-houdini.org/css-layout-api/
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Meng Tan - Web Platform (#37) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/37
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+TM Docs
+http://124.221.12.178:8080/
+
+(2466) tannal - Linebender - Rust UI - Zulip
+https://xi.zulipchat.com/#narrow/dm/706766-tannal
+
+谷歌账号验证 - Google 搜索
+https://www.google.com/search?q=%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7%E9%AA%8C%E8%AF%81&oq=%E8%B0%B7%E6%AD%8C%E8%B4%A6%E5%8F%B7+yanz&gs_lcrp=EgZjaHJvbWUqCQgBEAAYDBiABDIGCAAQRRg5MgkIARAAGAwYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyCQgIEAAYDBiABDIJCAkQABgMGIAE0gEINjkxMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+（2026年最新）解决谷歌账号注册设备扫码短信发送失败无法验证难题（100%通过无需扫码验证）谷歌邮箱作为打开谷歌旗下全 - 掘金
+https://juejin.cn/post/7626005571404120118
+
+CE - Getting Started! - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMCbhVrlhxnNBQvwTHmvCptdF
+
+challenging - Google 搜索
+https://www.google.com/search?q=challenging&sca_esv=3bd1b57b106fee9e&sxsrf=ANbL-n5vvTE1ioK6dGqbE5GzrCFjL-UEyg%3A1780310343497&ei=R2EdaoKBHov97_UP8-3O8QY&biw=1850&bih=932&ved=0ahUKEwjCwPTs7OWUAxWL_rsIHfO2M24Q4dUDCBA&uact=5&oq=challenging&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2NoYWxsZW5naW5nMgoQIxiABBiKBRgnMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEC4YgAQYywEyCBAAGIAEGMsBSIwNUNUFWPgLcAF4AZABAJgB3QagAd0GqgEDNi0xuAEDyAEA-AEBmAICoALqBsICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwUxLjYtMaAH5gqyBwM2LTG4B-IGwgcDMi0yyAcKgAgB&sclient=gws-wiz-serp
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+创建您的 Google 账号
+https://accounts.google.com/lifecycle/steps/signup/name?dsh=S-1406173325:1780313499632502&flowEntry=SignUp&flowName=GlifWebSignIn&TL=APouJz7phac2-5s24OsdV2ooeOVseHsWa-5iw29DhPD7OOVLKGDdyMv0A6iaLzd1&continue=https://accounts.google.com/ManageAccount?nc%3D1
+
+Olmo - Time tracking application
+https://hours.igalia.com/auth/error?error=NoRoles&message=You+have+not+been+assigned+any+roles+in+the+application.+Please+contact+your+sysadmin.
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893?pli=1
+
 tannal/copy-tabs
 https://github.com/tannal/copy-tabs
 
