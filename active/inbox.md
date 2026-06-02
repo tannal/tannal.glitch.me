@@ -33,6 +33,8 @@ Next:
 
 Resolve issues with PRs [2]
 Working on the a11y mapping for mathml a element
+Reading how to write amm tests for mathml a element [6]
+
 
 Links:
 
@@ -45,6 +47,8 @@ Links:
 [4] https://chromium-review.googlesource.com/c/chromium/src/+/3207929
 
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/3222742
+
+[6] https://web-platform-tests.org/writing-tests/aamtest.html
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
