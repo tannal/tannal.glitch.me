@@ -4,6 +4,84 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893
 
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+third_party/blink/web_tests/TestExpectations - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/web_tests/TestExpectations#2837
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/issues/512726601
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+aamtest tests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/aamtest.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?edit
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+Time tracking (Jun 02, 2026)
+https://hours.igalia.com/time/day
+
+Chromium Docs - Gerrit ReAuth
+https://chromium.googlesource.com/chromium/src.git/+/HEAD/docs/gerrit_reauth.md?pli=1#
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/issues/512726601
+
+[WPT Import] Tracking bug for untriaged failures in automatically-imported W3C tests. [40475877] - Chromium
+https://issues.chromium.org/issues/40475877?pli=1
+
+Embellished operators
+https://wpt.live/mathml/presentation-markup/operators/embellished-operator-001.html
+
+[WPT Import] Tracking bug for untriaged failures in automatically-imported W3C tests. [40475877] - Chromium
+https://issues.chromium.org/issues/40475877
+
+[WPT Import] Tracking bug for untriaged failures in automatically-imported W3C tests. [40475877] - Chromium
+https://issues.chromium.org/issues/40475877
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+[475126745] - Chromium
+https://issues.chromium.org/u/1/issues/475126745?pli=1
+
+Horizontal stretchy operator, embellished with an munderover
+https://wpt.live/mathml/presentation-markup/scripts/underover-stretchy-003.html
+
+Horizontal stretchy operator, embellished with an munderover
+https://wpt.live/mathml/presentation-markup/scripts/underover-stretchy-003.html
+
+<semantics> - mozilla bug 21479
+https://wpt.live/mathml/presentation-markup/mrow/semantics-005.html
+
+<semantics> - mozilla bug 21479
+https://wpt.live/mathml/presentation-markup/mrow/semantics-005.html
+
+MathML tabIndex attribute
+https://wpt.live/mathml/relations/html5-tree/tabindex-001.html
+
+Invalid tabindex
+https://wpt.live/mathml/relations/html5-tree/tabindex-focus-001.html
+
+Horizontal stretchy operator, embellished with an munderover
+https://wpt.live/mathml/presentation-markup/scripts/underover-stretchy-003.html
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
 YouTube
 https://www.youtube.com/
 
