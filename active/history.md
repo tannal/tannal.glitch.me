@@ -3,6 +3,132 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893
 
+Account request | Get an account | W3C
+https://www.w3.org/account/request/
+
+MathML Core
+https://w3c.github.io/mathml-core/#embellished-operators
+
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+Formatting Text | Web Browser Engineering
+https://browser.engineering/text.html
+
+HelsinkiTypeStudio/valley-sans
+https://github.com/HelsinkiTypeStudio/valley-sans
+
+Canonical takes over Flutter desktop maintenance & roadmap
+https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Time tracking (week of Jun 01, 2026)
+https://hours.igalia.com/time/week
+
+MathML 垂直拉伸算法可视化 (MathRowLayoutAlgorithm)
+file:///home/tannal/tannalwork/documents/mathml_stretchy_demo.html
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+fred-wang (Frédéric Wang Nélar) / Repositories
+https://github.com/fred-wang?tab=repositories
+
+Fizz Studio
+https://github.com/fizzstudio
+
+About Fizz Studio - Creators of ParaCharts
+https://fizz.studio/about.html
+
+Meng Tan - Web Platform (#37) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/37
+
+eri / gstreamer · GitLab
+https://gitlab.freedesktop.org/eerii/gstreamer/-/tree/static
+
+Songlin Jiang
+https://hollowman6.github.io/resume/
+
+My-LZU-CS-UG-Dissertation/paper.pdf at main · HollowMan6/My-LZU-CS-UG-Dissertation
+https://github.com/HollowMan6/My-LZU-CS-UG-Dissertation/blob/main/paper.pdf
+
+MathML: Bad size of integral with Cambria Math on Windows [40253348] - Chromium
+https://issues.chromium.org/issues/40253348
+
+eerii (eri)
+https://github.com/eerii
+
+⚙ D230738 Bug 1924672 - Add WPT tests and support for more CSS units in MathML. r?fredw
+https://phabricator.services.mozilla.com/D230738
+
+icesfont.github.io/misc/0001-chromium-rtl-wip.patch at main · icesfont/icesfont.github.io
+https://github.com/icesfont/icesfont.github.io/blob/main/misc/0001-chromium-rtl-wip.patch
+
+…/math_operator_layout_algorithm.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6420323/6/third_party/blink/renderer/core/layout/mathml/math_operator_layout_algorithm.cc
+
+Content has wrong vertical alignment (XITS fonts) [40889877] - Chromium
+https://issues.chromium.org/issues/40889877
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+Vertical alignment of large operators · Issue #250 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/250/
+
+Mirror RTL MathML operators (6714505) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6714505
+
+Google 账号
+https://myaccount.google.com/
+
+Google 账号
+https://myaccount.google.com/u/1/?tab=kk
+
+Make hb_ot_math_get_constant work around Cambria Math's bug for displayOperatorMinHeight/delimitedSubFormulaMinHeight · Issue #4653 · harfbuzz/harfbuzz
+https://github.com/harfbuzz/harfbuzz/issues/4653
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+The `<a>` element should be a grouping element · Issue #329 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/329
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-unknown-mathml-element
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-grouping-elements
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-grouping-elements
+
+MathML Core
+http://0.0.0.0:8081/spec.html
+
+MathML Core
+http://localhost:8081/spec.html#dfn-a
+
+Add <a> element into the grouping elements by tannal · Pull Request #330 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/330
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+W3C Authentication Platform | W3C
+https://auth.w3.org/login
+
+Edit emails (This page is restricted to you) | Meng Tan | Users | W3C
+https://www.w3.org/users/177315/edit/emails/
+
+Current Members & Testimonials
+https://www.w3.org/membership/list/?initial=&countries%5B%5D=ES&ecosystem=
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
 Home - Google CLA
 https://cla.developers.google.com/clas
 

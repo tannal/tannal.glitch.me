@@ -33,6 +33,7 @@ Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
 Read documentation for testdriver in wpt tests [3]
 Read past chromium review for mathml a11y mapping [4] [5]
 Opened a PR for a MathML core spec change. [6]
+Reading the RFC 204 of web platform tests.[8]
 
 Next:
 
@@ -56,6 +57,8 @@ Links:
 [6] https://web-platform-tests.org/writing-tests/aamtest.html
 
 [7] https://github.com/w3c/mathml-core/pull/330
+
+[8] https://github.com/web-platform-tests/rfcs/pull/204#issuecomment-3655616580
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
