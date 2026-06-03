@@ -40,7 +40,7 @@ Next:
 Resolve issues with PRs [2]
 Working on the a11y mapping for mathml a element
 Reading how to write amm tests for mathml a element [7]
-
+Follow the discussion about MathML a element aam a11y mapping [9]
 
 Links:
 
@@ -59,6 +59,8 @@ Links:
 [7] https://github.com/w3c/mathml-core/pull/330
 
 [8] https://github.com/web-platform-tests/rfcs/pull/204#issuecomment-3655616580
+
+[9] http://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
