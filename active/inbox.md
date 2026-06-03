@@ -32,12 +32,13 @@ Read documentation for and built chromium [1]
 Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
 Read documentation for testdriver in wpt tests [3]
 Read past chromium review for mathml a11y mapping [4] [5]
+Opened a PR for a MathML core spec change. [6]
 
 Next:
 
 Resolve issues with PRs [2]
 Working on the a11y mapping for mathml a element
-Reading how to write amm tests for mathml a element [6]
+Reading how to write amm tests for mathml a element [7]
 
 
 Links:
@@ -53,6 +54,8 @@ Links:
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/3222742
 
 [6] https://web-platform-tests.org/writing-tests/aamtest.html
+
+[7] https://github.com/w3c/mathml-core/pull/330
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
