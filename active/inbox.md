@@ -1,4 +1,8 @@
 
+# 2026-06-03
+
+gdb -x tools/gdb/gdbinit --args out/Default/content_shell --single-process http://web-platform.test:8000/mathml/relations/html5-tree/anchor/anchor-ping.html
+
 # 2026-05-31
 
 ./scrcpy --v4l2-sink=/dev/video9 --video-source=camera --camera-facing=back --camera-size=1920x1080 --no-playback -e

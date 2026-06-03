@@ -1,6 +1,24 @@
 
 ## MathMLAnchorElement
 
+MathML: Support MathMLAnchorElement with extended attributes under MathML namespace
+
+Introduce the MathMLAnchorElement behind a new runtime feature flag
+'MathMLAnchorElement'. When enabled, this exposes the standard <a>
+element within the MathML namespace (http://www.w3.org/1998/Math/MathML)
+to the window object and layout engine.
+
+This implementation includes full support for the following hyperlink
+attributes on the MathML anchor element.
+
+Additionally, this CL adds a comprehensive suite of Web Platform Tests (WPT)
+covering namespace verification, click dispatching, IDL reflections, and others.
+
+See https://w3c.github.io/mathml-core/#the-a-element
+
+Bug: 510487697
+
+
 https://chromium-review.googlesource.com/c/chromium/src/+/7008071
 
 third_party/blink/web_tests/external/wpt/common/security-features/resources/common.sub.js
