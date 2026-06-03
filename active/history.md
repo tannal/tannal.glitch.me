@@ -1,3 +1,116 @@
+# 2026-06-03
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Home - Google CLA
+https://cla.developers.google.com/clas
+
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+MathML Core
+https://w3c.github.io/mathml-core/#layout-of-mrow
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-algorithm-for-stretching-operators-along-the-block-axis
+
+MathML Core
+https://w3c.github.io/mathml-core/#algorithm-for-stretching-operators-along-the-inline-axis
+
+MathML Core
+https://w3c.github.io/mathml-core/#layout-of-mrow
+
+The `<a>` element should be a grouping element · Issue #329 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/329
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-grouping-elements
+
+Embellished operators
+https://wpt.live/mathml/presentation-markup/operators/embellished-operator-001.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#embellished-operators
+
+math_layout_utils.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/layout/mathml/math_layout_utils.cc;l=337;drc=6977efa0c1fe30e0dc2c44e4beccd8376340d3f6
+
+MathML Core
+https://w3c.github.io/mathml-core/#embellished-operators
+
+Embellished operators
+https://wpt.live/mathml/presentation-markup/operators/embellished-operator-001.html
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?edit
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?both
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+MathML tabIndex attribute
+https://wpt.live/mathml/relations/html5-tree/tabindex-001.html
+
+Time tracking (Jun 03, 2026)
+https://hours.igalia.com/time/day
+
+mrow-like elements and space-like / embellished operator / core operator · Issue #183 · w3c/mathml
+https://github.com/w3c/mathml/issues/183
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#embellished-operators
+
+[mathml] Refine definition of embellished operators (3059456) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3059456
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+MathML anchor ping attribute functionality
+http://web-platform.test:8000/mathml/relations/html5-tree/anchor/anchor-ping.html
+
+MathML anchor ping attribute functionality
+http://web-platform.test:8000/mathml/relations/html5-tree/anchor/anchor-ping.html
+
+Align MathML nonce implementation with SVG/HTML. (7827786) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7827786
+
+Lint Tool — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/lint-tool.html
+
+Command line application login
+https://ci.chromium.org/cli/confirm?state=AYtxz8i1nU5LR3qkQV1mt5oiPEApUoPnvTFu0gVjgtOfuJRrNHcUlRMUDzC9LbvJO_3cB19rrLAtL2WCeMs-qIyjfwaCDrRI54AajVr1tMtiHKdrH762Ko3cyli3CXee1g&iss=https://accounts.google.com&code=4/0AeoWuM9VlNTxHZ6FHlP43aFZ5nNIWLgYqdcwQ_V61kZ3VeoEg5VdRga3VsAz5eNywncjDg&scope=email%20https://www.googleapis.com/auth/accounts.reauth%20https://www.googleapis.com/auth/gerritcodereview%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=1&prompt=consent
+
+Chromium Docs - Gerrit ReAuth
+https://chromium.googlesource.com/chromium/src.git/+/HEAD/docs/gerrit_reauth.md
+
+MathML Core
+https://w3c.github.io/mathml-core/#layout-of-mrow
+
+[mathml] Embellished operators and stretch properties (3121110) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3121110
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+MathML 垂直拉伸算法可视化 (MathRowLayoutAlgorithm)
+file:///home/tannal/tannalwork/documents/mathml_stretchy_demo.html
+
 
 # 2026-06-02
 
