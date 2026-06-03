@@ -24,7 +24,7 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+6:44 from last Sat/Sun)
+Worked hours: 30:00 (+6:44 from last Sat/Sun) =
 
 Tasks:
 
@@ -44,7 +44,7 @@ Links:
 
 [1] https://www.chromium.org/developers/how-tos/get-the-code
 
-[2] https://github.com/chromium/chromium/compare/main...tannal:chromium:feature/mathml-anchor-element
+[2] https://chromium-review.googlesource.com/c/chromium/src/+/7896057
 
 [3] https://web-platform-tests.org/writing-tests/testdriver.html
 
