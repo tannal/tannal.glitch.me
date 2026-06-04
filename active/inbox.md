@@ -1,6 +1,18 @@
 
 # 2026-06-04
 
+```
+# 1. 切回第一个分支，修改代码并人肉覆盖更新
+git checkout feature-wip-1
+# ... 修改代码 ...
+git commit --amend
+git cl upload   # 重新上传 CL-1 的 Patchset
+
+# 2. 切换到第二个分支，使用 rebase 同步刚才的修改
+git checkout feature-new-2
+git rebase feature-wip-1
+```
+
 tannal@desktop:~/tannalwork/projects/chromium/src$ siso auth-check -project="rbe-chromium-untrusted" -reapi_instance="default_instance"
 Logged in by google-application-default
 use RBE instance "projects/rbe-chromium-untrusted/instances/default_instance"
