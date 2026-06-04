@@ -1,4 +1,22 @@
 
+# 2026-06-04
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ siso auth-check -project="rbe-chromium-untrusted" -reapi_instance="default_instance"
+Logged in by google-application-default
+use RBE instance "projects/rbe-chromium-untrusted/instances/default_instance"
+access error: failed to get capabilities: rpc error: code = PermissionDenied desc = Permission "remotebuildexecution.blobs.get" denied on resource "projects/rbe-chromium-untrusted/instances/default_instance" (or it may not exist)
+tannal@desktop:~/tannalwork/projects/chromium/src$
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ export SISO_CREDENTIAL_HELPER=google-application-default
+tannal@desktop:~/tannalwork/projects/chromium/src$ siso auth-check
+Logged in by google-application-default
+use RBE instance "projects/rbe-chrome-untrusted/instances/default_instance"
+access error: failed to get capabilities: rpc error: code = PermissionDenied desc = Permission "remotebuildexecution.blobs.get" denied on resource "projects/rbe-chrome-untrusted/instances/default_instance" (or it may not exist)
+
+base 1 dbe2e3c0064fca8b5cf1bb57a61fe7cf5e91e7b4
+
+gclient sync --force
+
 # 2026-06-03
 
 gdb -x tools/gdb/gdbinit --args out/Default/content_shell --single-process http://web-platform.test:8000/mathml/relations/html5-tree/anchor/anchor-ping.html
