@@ -1,3 +1,146 @@
+# 2026-06-04
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Building Firefox On Linux — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/setup/linux_build.html
+
+Chrome Platform Status
+https://chromestatus.com/metrics/webfeature/popularity
+
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/issues/512726601
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+aamtest tests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/aamtest.html
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+(4) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/issues/512726601
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+Issues · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues
+
+Add <a> element into the grouping elements · tannal/mathml-core@421086e
+https://github.com/tannal/mathml-core/commit/421086e0bb5c3d4f00ce59d05c3717708717caf8
+
+MathML Core
+http://localhost:8081/spec.html#dfn-grouping-elements
+
+Time tracking (week of Jun 01, 2026)
+https://hours.igalia.com/time/week
+
+MathML Core
+https://w3c.github.io/mathml-core/#mathml-fundamentals
+
+The smooth resize test | Raph Levien’s blog
+https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html
+
+layout: Root unbound nodes until next reflow is finished. by alice · Pull Request #44949 · servo/servo
+https://github.com/servo/servo/pull/44949
+
+Alice Boxhall | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/alice
+
+收件箱 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+MathML Core should mention ElementCSSInlineStyle for the IDL style attribute · Issue #327 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/327
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+1993462 - ADD shallow clone in bootstrap
+https://bugzilla.mozilla.org/show_bug.cgi?id=1993462#c1
+
+⚙ D290362 Bug 2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters. r=emilio,eri,flod
+https://phabricator.services.mozilla.com/D290362
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/3?checksRunsSelected=ClangTidy,linux-rel&tab=checks
+
+failed - android-x64-rel b8679955185715325489
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/b8679955185715325489/test-results?q=ExactID%3A%3A%2F%2Fandroid_webview%2Ftest%5C%3Awebview_instrumentation_test_apk%21junit%3Aorg.chromium.android_webview.test%3AWebExposedTest%23testGlobalInterfaceListingUnstable+VHash%3Ae4689073584f83ad&clean=
+
+Chrome Public Gold Digest Search
+https://chrome-public-gold.skia.org/search?issue=7896057&crs=gerrit&patchsets=2&corpus=gtest-pixeltests
+
+Chrome Public Gold Diff Page
+https://chrome-public-gold.skia.org/diff?grouping=name%3DNetworkFeatureTilePixelTest.Ethernet.check_tile_view.rev_3.ash%26source_type%3Dgtest-pixeltests&left=62f13b98779e570df73fe7c89fb56420&right=df92f8465a3852d267f9de2857818287&changelist_id=7896057&crs=gerrit
+
+Chrome Public Gold Details Page
+https://chrome-public-gold.skia.org/detail?grouping=name%3DNetworkFeatureTilePixelTest.Ethernet.check_tile_view.rev_3.ash%26source_type%3Dgtest-pixeltests&digest=62f13b98779e570df73fe7c89fb56420&changelist_id=7896057&crs=gerrit
+
+failed - linux-rel 2725041
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/2725041/test-results
+
+failed - mac-rel b8679955185715325201
+https://ci.chromium.org/ui/p/chromium/builders/try/mac-rel/b8679955185715325201/test-results?q=ExactID%3A%3A%2F%2F%5C%3Aheadless_shell_wpt%21webtest%3A%3Aexternal%2Fwpt%2Fmathml%2Frelations%2Fhtml5-tree%23a-hreflang-getter.html+VHash%3Accdd26e08b392b3a&clean=
+
+failed - mac-rel b8679955185715325201
+https://ci.chromium.org/ui/p/chromium/builders/try/mac-rel/b8679955185715325201/test-results?q=ExactID%3A%3A%2F%2F%5C%3Ablink_web_tests%21webtest%3A%3Awebexposed%23global-interface-listing.html+VHash%3Ae5ceb6ad8779f6ec&clean=
+
+failed - mac-rel b8679955185715325201
+https://ci.chromium.org/ui/p/chromium/builders/try/mac-rel/b8679955185715325201/test-results?q=ExactID%3A%3A%2F%2F%5C%3Ablink_web_tests%21webtest%3A%3Awebexposed%23global-interface-listing.html+VHash%3Ae5ceb6ad8779f6ec&clean=
+
+tannal/chromium at feature/mathml-anchor-element
+https://github.com/tannal/chromium/tree/feature/mathml-anchor-element
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Build-Chromium
+
+这个应用试图访问你 Google 账号里的敏感信息。为了保护你的账号安全，Google 阻止了这次访问。 : r/api_connector
+https://www.reddit.com/r/api_connector/comments/1mepbpb/this_app_tried_to_access_sensitive_info_in_your/?tl=zh-hans
+
+Siso docs - Siso authentication
+https://chromium.googlesource.com/build/+/refs/heads/main/siso/docs/auth.md#this-app-is-blocked
+
+Expose CSSFontFeatureValuesRule to window scope (6110469) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6110469
+
+Testing in Chromium - Writing Web Tests
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/writing_web_tests.md#Text-Test-Baselines
+
+Renderer office hours - 2026/06/04 07:02 AEST - Transcript - Google 文档
+https://docs.google.com/document/d/1Bl9M_WLdYc0uJHQ12751TA-woU7q_Kd4qUrJHM35Z58/edit?tab=t.0#heading=h.mlze24ifplc1
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/browsers.html#dom-document-domain
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+Pull requests · mozilla-firefox/firefox
+https://github.com/mozilla-firefox/firefox/pulls
+
+Code search results
+https://github.com/search?q=repo%3Amozilla-firefox%2Ffirefox%20leave%20empty%20to%20use%20default%20destination&type=code
+
 # 2026-06-03
 
 2026-05-08起 - Google Gemini
