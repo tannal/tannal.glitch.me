@@ -1,6 +1,8 @@
 
 # 2026-06-04
 
+git checkout -b html-idl-refactor origin/main
+
 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
 https://phabricator.services.mozilla.com/D304947
 

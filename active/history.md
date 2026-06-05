@@ -1,3 +1,242 @@
+# 2026-06-05
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Home
+https://phabricator.services.mozilla.com/
+
+How to submit a patch — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/how_to_submit_a_patch.html
+
+Create a new Gist
+https://gist.github.com/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Time tracking (week of Jun 01, 2026)
+https://hours.igalia.com/time/week
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?edit
+
+Introducing the WebKit Container SDK | TingPing’s blog
+https://blog.tingping.se/2024/05/23/Introducing-WebKit-Container-SDK.html
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+html.css - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/resources/html.css;l=1684?q=html.css
+
+html_tag_names.json5 - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/html_tag_names.json5;l=221;drc=324b78a40fc8706da500c7b31451b9ce221138a0
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#idl-files
+
+html.css - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/resources/html.css;l=254;drc=60daac6587ff2def8bdfc68cafc3fb1bc1de3a91
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+html.css - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/resources/html.css;l=254;drc=60daac6587ff2def8bdfc68cafc3fb1bc1de3a91
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#idl-files
+
+html_tag_names.json5 - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/html_tag_names.json5;l=221;drc=324b78a40fc8706da500c7b31451b9ce221138a0
+
+(10) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+⚙ D304947 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
+Add hreflang and type IDL tests for area and mathml a element by lukewarlow · Pull Request #59847 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/59847/changes#diff-3e2590cf1810e16f223ba29436a47b07fb4ee1e962087b60cdfac311510bd693R1-R20
+
+Profile | Gravatar
+https://gravatar.com/profile
+
+⚙ D303789 Bug 2043988 - Add parsing mode flag for disallowing unitless zero lengths; r=emilio
+https://phabricator.services.mozilla.com/D303789
+
+765453 - MathML rendering bug with <mtext> and <mrow>
+https://bugzilla.mozilla.org/show_bug.cgi?id=765453
+
+Configuration
+https://clangd.llvm.org/config#if
+
+Brendan Humphreys cto canva - Google 搜索
+https://www.google.com/search?q=Brendan+Humphreys+cto+canva&oq=Brendan+Humphreys+cto+canva&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgcIBRAhGI8C0gEINDA2M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Igalia Chat | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+Changing How We Develop Ladybird - Ladybird
+https://ladybird.org/posts/changing-how-we-develop-ladybird/
+
+Pixel manipulation with canvas - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas#getting_the_pixel_data_for_a_context
+
+Playground | MDN
+https://developer.mozilla.org/en-US/play?uuid=faa82e9b556f4362326dc1562ad72eba467d9ed8&state=pVNNj5swEP0rI59AIsCmqiolkENXe1ipVQ%2B9tJIvXjwBr7AdYWcXusp%2Fr2w%2BAlGyrdrbmDfz3vBm5o1UVtZkQzLLnmrcUQWQ2QoZ96F7NEPkgd13fWwKzBJbLT9LrW0lVAmoHBGHHGxz%2FLvEPavNPDNLBlH3bWwls0%2Bad1e74lMMkBVMvTADgueU9DEl8Cq4rXJKPqQpJVChKCubU7Jef6JklyV93pkxmVG%2BQ2%2F8vyCfCawvBNzz3wUOosWa2f9TmLs5WJgl47RJRApjyIY4BN5c2l4ru9ozKepuA1IrbQ6swC1VJ5%2F%2B7LILrYwFIUvIQeErPEpWYhBuqRKyjItGG%2FOtEaVQkAMlTGnVSX00lAwZpik8kpiKNchXzBi0JhGOxiTYMnmo0SRNJZSOnw%2FlVKhVrZnbmSCEfNc3zBv2GghZOvnTliqq9kdVWKHVCLESwz63b3zwOAeui6NEZeMS7UONLvzcPfLgvDqOdCqzLeRDsau418piawNK1nzKtG3sVHtHvHQEaQRp6DsbqfrVufeEt5s4L1h4S28iir3WdF4PizNcaE9b9Sf52frd1J%2BT3WzBH%2Fiih19aSzfFwrYRtBF053FeejiudO97ND6%2FMlvFUqigD1gbpBG0sIKPYQS%2BkdifDKzgLg3fL%2BsWZf1tXdTdpdfCa9E6vRb3bp1GE%2FodYpw%2FvKCyX4SxqLAJKHFnglK%2FICURBOjQhTXePTc2D8U167D5sZ2D3RL8OYDO8WDalsH0OTaf5Bw%2BhdPt2wolkg2pnUHk9Bs%3D&srcPrefix=%2Fen-US%2Fdocs%2FWeb%2FAPI%2FCanvas_API%2FTutorial%2FPixel_manipulation_with_canvas%2F
+
+MathML - Chrome Platform Status
+https://chromestatus.com/feature/5240822173794304
+
+Mirroring of RTL MathML operators - Chrome Platform Status
+https://chromestatus.com/feature/6317308531965952
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601?pli=1
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Complex MathML Anchor Reference Test: Stirling's Approximation
+http://web-platform.test:8000/mathml/presentation-markup/anchor/anchor-005.html
+
+tannal/firefox: The official repository of Mozilla's Firefox web browser.
+https://github.com/tannal/firefox/tree/main
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601?pli=1
+
+Implement `parley_core` (analysis, shaping, reshaping breaks, vertical text, inline objects) by tomcur · Pull Request #634 · linebender/parley
+https://github.com/linebender/parley/pull/634
+
+Basic Data Types and Interfaces — SVG 2
+https://svgwg.org/svg2-draft/types.html#InterfaceSVGURIReference
+
+Align anchor IDL across the platform? · Issue #12063 · whatwg/html
+https://github.com/whatwg/html/issues/12063
+
+Editorial: Refactor HTMLHyperlinkElementUtils by lukewarlow · Pull Request #12066 · whatwg/html
+https://github.com/whatwg/html/pull/12066/changes/BASE..dd609d2936df108ac88631929a6282a5fa6a9e9a
+
+html/.github/CONTRIBUTING.md at main · whatwg/html
+https://github.com/whatwg/html/blob/main/.github/CONTRIBUTING.md
+
+HTML Standard
+https://html.spec.whatwg.org/
+
+HTMLAreaElement: refactor to use shared HTMLHyperlinkElementUtils · HtmlUnit/htmlunit@a493d00
+https://github.com/HtmlUnit/htmlunit/actions/runs/23091056550
+
+⚙ D298582 Bug 2037148 - Refactor HTMLHyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D298582
+
+whatwg/html-build: Build scripts for https://github.com/whatwg/html
+https://github.com/whatwg/html-build
+
+Basic Data Types and Interfaces — SVG 2
+https://svgwg.org/svg2-draft/types.html#InterfaceSVGURIReference
+
+2037148 - Refactor HTMLHyperlinkElementUtils
+https://bugzilla.mozilla.org/show_bug.cgi?id=2037148
+
+Enter A Bug
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox&component=Untriaged
+
+2039500 - Move hreflang and type to HyperlinkElementUtils
+https://bugzilla.mozilla.org/show_bug.cgi?id=2039500
+
+1451823 - Support ping, rel, referrerPolicy, relList, hreflang, type and text properties on SVG <a> elements
+https://bugzilla.mozilla.org/show_bug.cgi?id=1451823
+
+Intent to implement and ship: ping, rel, referrerPolicy, relList, hreflang, type and text properties on SVG <a> elements
+https://groups.google.com/g/mozilla.dev.platform/c/LXzY4gwaZFU
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+Grant Account Access
+https://phabricator.services.mozilla.com/conduit/login/
+
+⚙ D304947 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
+HTML Link inside SVG to Canvas Test
+file:///home/tannal/tannalwork/documents/test3.html
+
+Accurate Pixel Detection Test
+file:///home/tannal/tannalwork/documents/test5.html
+
+…/anchor-004.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/3/third_party/blink/web_tests/external/wpt/mathml/presentation-markup/anchor/anchor-004.html#19
+
+The Ahem Font — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/ahem.html
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#idl-files
+
+svg_tspan_element.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/svg/svg_tspan_element.cc;l=40?q=is%20SVGAElement%20filepath:renderer&ss=chromium%2Fchromium%2Fsrc&start=11
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#idl-files
+
+html.css - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/resources/html.css;l=1684?q=html.css
+
+MathML Core
+http://localhost:8081/spec.html
+
+href click
+http://web-platform.test:8000/mathml/relations/html5-tree/href-click-001.html#badTarget
+
+⚙ D290361 Bug 2026848 - Update MathML href tests to reflect links are only on <a> tags. r=emilio,eri
+https://phabricator.services.mozilla.com/D290361
+
+MathML 'a' element inside SVG to Canvas: :visited pixel leak enforcement
+http://web-platform.test:8000/mathml/presentation-markup/anchor/canvas-visited-privacy%20copy.html
+
+[WPT] New failures introduced in external by import https://crrev.com/c/7868384 [515679398] - Chromium
+https://issues.chromium.org/issues/515679398
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Re: [w3c/mathml-core] User Agent style for href hyperlinks and focusable elements (#128) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMLxHgFlbtqHxmqpCfncDpQCP
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Lint Tool — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/lint-tool.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
 # 2026-06-04
 
 2026-05-08起 - Google Gemini
