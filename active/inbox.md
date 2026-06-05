@@ -1,6 +1,9 @@
 
 # 2026-06-04
 
+Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
 ```
 # 1. 切回第一个分支，修改代码并人肉覆盖更新
 git checkout feature-wip-1
