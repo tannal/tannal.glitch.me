@@ -65,6 +65,7 @@ Read past chromium review for mathml a11y mapping [4] [5]
 Opened a PR for a MathML core spec change. [6]
 Reading the RFC 204 of web platform tests.[8]
 Reading documentation and build firefox localy[10]
+
 Next:
 
 Resolve issues with PRs [2]
