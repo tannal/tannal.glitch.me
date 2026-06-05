@@ -64,7 +64,7 @@ Read documentation for testdriver in wpt tests [3]
 Read past chromium review for mathml a11y mapping [4] [5]
 Opened a PR for a MathML core spec change. [6]
 Reading the RFC 204 of web platform tests.[8]
-
+Reading documentation and build firefox localy[10]
 Next:
 
 Resolve issues with PRs [2]
@@ -91,6 +91,8 @@ Links:
 [8] https://github.com/web-platform-tests/rfcs/pull/204#issuecomment-3655616580
 
 [9] http://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+[10] https://firefox-source-docs.mozilla.org/setup/linux_build.html
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
