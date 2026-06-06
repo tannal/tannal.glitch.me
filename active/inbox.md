@@ -1,4 +1,62 @@
 
+# 2026-06-06
+
+[Weekly report 2]
+
+Worked hours: 42h:47min
+
+Tasks:
+
+Read documentation for and built chromium [1]
+
+Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
+
+Read documentation for testdriver in wpt tests, learning how to write good wpt tests [3]
+
+Read past chromium review for mathml a11y mapping [4] [5]
+
+Opened a PR for a MathML core spec change. [6]
+
+Reading the RFC 204 of web platform tests.[8]
+
+Reading documentation and build firefox localy [10]
+
+Opened a PR for a firefox bug which is some refactoring tasks [11]
+
+Next:
+
+Resolve issues with PRs [2], and break down the CL into multiple small CL to review and land
+
+Working on the a11y mapping for mathml a element
+
+Reading how to write amm tests for mathml a element [7]
+
+Follow the discussion about MathML a element aam a11y mapping [9]
+
+Links:
+
+[1] https://www.chromium.org/developers/how-tos/get-the-code
+
+[2] https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+[3] https://web-platform-tests.org/writing-tests/testdriver.html
+
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/3207929
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/3222742
+
+[6] https://web-platform-tests.org/writing-tests/aamtest.html
+
+[7] https://github.com/w3c/mathml-core/pull/330
+
+[8] https://github.com/web-platform-tests/rfcs/pull/204#issuecomment-3655616580
+
+[9] http://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+[10] https://firefox-source-docs.mozilla.org/setup/linux_build.html
+
+[11] https://phabricator.services.mozilla.com/D304947
+
 # 2026-06-04
 
 ./mach wpt testing/web-platform/tests/html/dom/reflection-text.html --log-raw wpt.log
@@ -61,23 +119,35 @@ git gc --prune=now
 ```
 
 [Weekly report 1]
-Worked hours: 30:00 (+6:44 from last Sat/Sun) =
+
+Worked hours: 42h:47min
 
 Tasks:
 
 Read documentation for and built chromium [1]
+
 Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
-Read documentation for testdriver in wpt tests [3]
+
+Read documentation for testdriver in wpt tests, learning how to write good wpt tests [3]
+
 Read past chromium review for mathml a11y mapping [4] [5]
+
 Opened a PR for a MathML core spec change. [6]
+
 Reading the RFC 204 of web platform tests.[8]
-Reading documentation and build firefox localy[10]
+
+Reading documentation and build firefox localy [10]
+
+Opened a PR for a firefox bug which is some refactoring tasks [11]
 
 Next:
 
-Resolve issues with PRs [2]
+Resolve issues with PRs [2], and break down the CL into multiple small CL to review and land
+
 Working on the a11y mapping for mathml a element
+
 Reading how to write amm tests for mathml a element [7]
+
 Follow the discussion about MathML a element aam a11y mapping [9]
 
 Links:
@@ -101,6 +171,8 @@ Links:
 [9] http://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
 
 [10] https://firefox-source-docs.mozilla.org/setup/linux_build.html
+
+[11] https://phabricator.services.mozilla.com/D304947
 
 [Weekly report #1] <Subject>
 [Weekly report #2] <Subject>
