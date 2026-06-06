@@ -1,6 +1,8 @@
 
 # 2026-06-04
 
+./mach wpt testing/web-platform/tests/html/dom/reflection-text.html --log-raw wpt.log
+
 git checkout -b html-idl-refactor origin/main
 
 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
