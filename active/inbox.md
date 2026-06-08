@@ -7,7 +7,7 @@ Worked hours: 42h:47min
 
 Tasks:
 
-Read documentation for and built chromium [1]
+Opened a issue related to hyperlink like elements in firefox [1]
 
 Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
 
@@ -35,7 +35,7 @@ Follow the discussion about MathML a element aam a11y mapping [9]
 
 Links:
 
-[1] https://www.chromium.org/developers/how-tos/get-the-code
+[1] https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
 
 [2] https://chromium-review.googlesource.com/c/chromium/src/+/7896057
 
