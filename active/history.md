@@ -1,3 +1,269 @@
+# 2026-06-08
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Igalia Chat | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Register a new account | Slack
+https://chromium.slack.com/signup#/domain-signup
+
+Slack
+https://www.chromium.org/developers/slack/#yay-how-do-i-join
+
+AUTHORS - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:AUTHORS;l=1885?q=AUTHORS&ss=chromium%2Fchromium%2Fsrc
+
+MathML Core
+https://webengineshackfest-2026-mathml-core-065775.pages.igalia.com/#/2
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+element-request-fullscreen-cross-origin-multi-steps.sub.html - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/mozilla/tests/fullscreen/api/element-request-fullscreen-cross-origin-multi-steps.sub.html
+
+testharness.js API — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness-api.html#promise_setup
+
+fonts.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/fonts.js
+
+testharness.js API — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness-api.html#promise_setup
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+Stretchy in inferred mrows
+https://wpt.live/mathml/presentation-markup/mrow/inferred-mrow-stretchy.html
+
+How to make a C++ class cycle collected — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/xpcom/cc-macros.html
+
+xpcAccTextSelectionChangeEvent::cycleCollection (nsCycleCollectionNoteChild.h - mozsearch)
+https://searchfox.org/firefox-main/source/xpcom/base/nsCycleCollectionNoteChild.h#35
+
+NS_IMPL_CYCLE_COLLECTION_CLASS (nsCycleCollectionParticipant.h - mozsearch)
+https://searchfox.org/firefox-main/source/xpcom/base/nsCycleCollectionParticipant.h#1048
+
+NS_IMPL_CYCLE_COLLECTION_INHERITED (nsCycleCollectionParticipant.h - mozsearch)
+https://searchfox.org/firefox-main/source/xpcom/base/nsCycleCollectionParticipant.h#1081
+
+fonts.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/fonts.js
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-user-agent-stylesheet
+
+testing/web-platform/tests/mathml/support - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support
+
+The Ahem Font — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/ahem.html#usage
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+搜索
+https://groups.google.com/u/1/search?q=blink-dev
+
+Launching Features
+https://www.chromium.org/blink/launching-features/#launch-process
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Chrome Platform Status
+https://chromestatus.com/myfeatures/starred
+
+Chrome Platform Status
+https://chromestatus.com/features
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+Ladybird
+https://ladybird.org/
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+⚙ D230738 Bug 1924672 - Add WPT tests and support for more CSS units in MathML. r?fredw
+https://phabricator.services.mozilla.com/D230738
+
+Home · Igalia/webengineshackfest Wiki
+https://github.com/Igalia/webengineshackfest/wiki
+
+MathML Core
+https://webengineshackfest-2026-mathml-core-065775.pages.igalia.com/#/7
+
+MathML Core · Issue #79 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/79
+
+…/mathml.css · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/4/third_party/blink/renderer/core/css/mathml.css
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+AI’s environmental costs threaten water, land and climate | UN News
+https://news.un.org/en/story/2026/06/1167658
+
+Testing in Chromium - Web Test Expectations and Baselines
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/web_test_expectations.md#Updating-the-expectations-files
+
+2039500 - Move hreflang and type to HyperlinkElementUtils
+https://bugzilla.mozilla.org/show_bug.cgi?id=2039500
+
+Normative: Add hreflang and type to area, SVG a, and MathML a by lukewarlow · Pull Request #12446 · whatwg/html
+https://github.com/whatwg/html/pull/12446/changes
+
+Working Mode — WHATWG
+https://whatwg.org/working-mode#changes
+
+Add hreflang and type IDL tests for area and mathml a element by lukewarlow · Pull Request #59847 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/59847/changes#diff-534b9305afc9b7e7eabb228c515254d94fac0f111fe991697b065ec14f15fd59
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+Align anchor IDL across the platform? · Issue #12063 · whatwg/html
+https://github.com/whatwg/html/issues/12063
+
+Igalia Webmail :: Compose
+https://webmail.igalia.com/?_task=mail&_action=compose&_id=9533376746a2684132b754
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+2039500 - Move hreflang and type to HyperlinkElementUtils
+https://bugzilla.mozilla.org/show_bug.cgi?id=2039500
+
+[Gecko Bug 2039500] Move hreflang and type to HyperlinkElementUtils by moz-wptsync-bot · Pull Request #60441 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60441/commits
+
+100% - [1] try: Fuzzy (preset: layout-linux-opt) query=!asan !tsan !jsreftest !ship...
+https://treeherder.mozilla.org/jobs?repo=try&revision=fef1df04e9ee0d3cb452afeca951117c251e7d6e&selectedTaskRun=VAAJEK5_RlmIkFnQfEgDBQ.0
+
+Remove the HTMLAreaElement.hreflang and type IDL attributes · whatwg/html@790479a
+https://github.com/whatwg/html/commit/790479ab1ba143efc27d1f92cd0465627df48fb0
+
+2045388 - Move target attribute to HTMLHyperlinkElementUtils IDL file
+https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
+
+Normative: Add hreflang and type to area, SVG a, and MathML a by lukewarlow · Pull Request #12446 · whatwg/html
+https://github.com/whatwg/html/pull/12446
+
+origin on HTMLHyperlinkElementUtils/Location is readonly · whatwg/html@2c97ff8
+https://github.com/whatwg/html/commit/2c97ff8e46a86911f621ee4303d0fc18ddcb9b2b
+
+♻ Build 1082767
+https://phabricator.services.mozilla.com/harbormaster/build/1082767/
+
+⚙ D304947 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
+Remove HTMLAreaElement.hreflang and .type · Issue #232 · whatwg/html
+https://github.com/whatwg/html/issues/232
+
+100% - [0] try: Fuzzy (preset: layout-linux-opt) query=!asan !tsan !jsreftest !ship...
+https://treeherder.mozilla.org/jobs?repo=try&revision=76e7aadee8f6611c313ab6375c4ac9f62f1ef343
+
+Time tracking (Jun 08, 2026)
+https://hours.igalia.com/time/day/
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+HTML Standard
+https://html.spec.whatwg.org/#htmlhyperlinkelementutils
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?edit
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+[Gecko Bug 2039500] Move hreflang and type to HyperlinkElementUtils by moz-wptsync-bot · Pull Request #60441 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60441
+
+failed - linux-rel b8679773097040271969
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/b8679773097040271969/test-results?q=ExactID%3A%3A%2F%2F%5C%3Ablink_web_tests%21webtest%3A%3Awebexposed%23element-instance-property-listing.html+VHash%3A32f081785efe9631&clean=
+
+Move hreflang and type to HyperlinkElementUtils mixin [512880068] - Chromium
+https://issues.chromium.org/u/1/issues/512880068
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/semantics.html#the-link-element
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+HTMLAnchorElement: hash property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAnchorElement/hash
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Add <a> element into the grouping elements by tannal · Pull Request #330 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/330
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+Basic Data Types and Interfaces – SVG 1.1 (Second Edition)
+https://www.w3.org/TR/SVG11/types.html#InterfaceSVGURIReference
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Historical text-level element features should not be supported
+http://localhost:8081/html/semantics/text-level-semantics/historical.html
+
+YouTube
+https://www.youtube.com/
+
+Chrome Platform Status
+https://chromestatus.com/roadmap
+
+Code of Conduct ⚡ Zig Programming Language
+https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy
+
+[w3c/mathml-core] The `<a>` element should be a grouping element (Issue #329) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMChSZzKczXhgvTsWtrgKvhJM
+
+The `<a>` element should be a grouping element · Issue #329 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/329#issuecomment-4645791478
+
+密码重置 | Slack
+https://chromium.slack.com/forgot
+
+欢迎回来 | Slack，主页
+https://slack.com/intl/zh-cn/
+
+收件箱 (4) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
 # 2026-06-05
 
 2026-05-08起 - Google Gemini

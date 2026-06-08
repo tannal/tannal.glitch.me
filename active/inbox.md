@@ -9,7 +9,9 @@ Tasks:
 
 Opened a issue related to hyperlink like elements in firefox [1]
 
-Opened a WIP PR for a chromium bug relating to MathMLAnchorElement [2]
+Did a workaround for HTMLAreaElement hreflang and type attributes [2]
+
+Address issues and feedbacks of the idl refactoring CL[2]
 
 Read documentation for testdriver in wpt tests, learning how to write good wpt tests [3]
 
@@ -37,7 +39,7 @@ Links:
 
 [1] https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
 
-[2] https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+[2] https://chromium-review.googlesource.com/c/chromium/src/+/7899676
 
 [3] https://web-platform-tests.org/writing-tests/testdriver.html
 
