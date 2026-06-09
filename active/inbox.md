@@ -13,9 +13,9 @@ Did a workaround for HTMLAreaElement hreflang and type attributes [2]
 
 Address issues and feedbacks of the idl refactoring CL[2]
 
-Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface [3]
+Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is closed on Thuesday [3]
 
-Read a issue about hyperlinks User Agent styles [4] [5]
+Opened a small pr in core-aam test for html anchor element [4]
 
 Opened a PR for a MathML core spec change. [6]
 
@@ -43,7 +43,7 @@ Links:
 
 [3] https://github.com/w3c/mathml-core/issues/331
 
-[4] https://github.com/w3c/mathml-core/issues/128
+[4] https://github.com/web-platform-tests/wpt/pull/60490
 
 # 2026-06-04
 
