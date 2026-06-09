@@ -1,6 +1,14 @@
 
 
-## Refactor
+
+## A11y tests writing
+
+```
+# 可以在 WPT 的虚拟环境 Python 里运行
+python3 -c "from gi.repository import Atspi; print([r for r in dir(Atspi.Role) if not r.startswith('_')])"
+```
+
+## Refactor idl to reuse
 
 https://github.com/whatwg/html/issues/12063
 
