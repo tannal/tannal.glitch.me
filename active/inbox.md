@@ -13,9 +13,9 @@ Did a workaround for HTMLAreaElement hreflang and type attributes [2]
 
 Address issues and feedbacks of the idl refactoring CL[2]
 
-Read documentation for testdriver in wpt tests, learning how to write good wpt tests [3]
+Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface [3]
 
-Read past chromium review for mathml a11y mapping [4] [5]
+Read a issue about hyperlinks User Agent styles [4] [5]
 
 Opened a PR for a MathML core spec change. [6]
 
@@ -41,23 +41,9 @@ Links:
 
 [2] https://chromium-review.googlesource.com/c/chromium/src/+/7899676
 
-[3] https://web-platform-tests.org/writing-tests/testdriver.html
+[3] https://github.com/w3c/mathml-core/issues/331
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/3207929
-
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/3222742
-
-[6] https://web-platform-tests.org/writing-tests/aamtest.html
-
-[7] https://github.com/w3c/mathml-core/pull/330
-
-[8] https://github.com/web-platform-tests/rfcs/pull/204#issuecomment-3655616580
-
-[9] http://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
-
-[10] https://firefox-source-docs.mozilla.org/setup/linux_build.html
-
-[11] https://phabricator.services.mozilla.com/D304947
+[4] https://github.com/w3c/mathml-core/issues/128
 
 # 2026-06-04
 
