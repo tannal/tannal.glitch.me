@@ -17,11 +17,11 @@ Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface
 
 Opened a small pr in core-aam test for html anchor element [4]
 
-Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev  [6]
+Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [6]
 
-Reading the RFC 204 of web platform tests.[8]
+Opened a small chromium issues of some change of binding generation script.[7]
 
-Reading documentation and build firefox localy [10]
+Sent a CL for the binding generation script change [8]
 
 Opened a PR for a firefox bug which is some refactoring tasks [11]
 
@@ -46,6 +46,12 @@ Links:
 [4] https://github.com/web-platform-tests/wpt/pull/60490
 
 [5] https://chromestatus.com/feature/5070356302921728
+
+[6] The intent to ship link
+
+[7] https://issues.chromium.org/u/1/issues/522454845
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/7922427
 
 # 2026-06-04
 
