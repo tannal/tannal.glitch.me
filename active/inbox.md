@@ -3,21 +3,21 @@
 
 [Weekly report 2]
 
-Worked hours: 42h:47min
+Worked hours: 14h:45min
 
 Tasks:
 
 Opened a issue related to hyperlink like elements in firefox [1]
 
-Did a workaround for HTMLAreaElement hreflang and type attributes [2]
+Did a workaround for HTMLAreaElement hreflang and type attributes behavior change [2]
 
-Address issues and feedbacks of the idl refactoring CL[2]
+Address issues and feedbacks of the idl refactoring CL [2]
 
 Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is closed on Thuesday [3]
 
 Opened a small pr in core-aam test for html anchor element [4]
 
-Created chromestatus feature[5] on [2] and sent a intent to ship to blink-dev  [6]
+Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev  [6]
 
 Reading the RFC 204 of web platform tests.[8]
 
