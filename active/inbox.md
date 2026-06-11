@@ -17,7 +17,7 @@ Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface
 
 Opened a small pr in core-aam test for html anchor element [4]
 
-Opened a PR for a MathML core spec change. [6]
+Created chromestatus feature[5] on [2] and sent a intent to ship to blink-dev  [6]
 
 Reading the RFC 204 of web platform tests.[8]
 
@@ -44,6 +44,8 @@ Links:
 [3] https://github.com/w3c/mathml-core/issues/331
 
 [4] https://github.com/web-platform-tests/wpt/pull/60490
+
+[5] https://chromestatus.com/feature/5070356302921728
 
 # 2026-06-04
 
