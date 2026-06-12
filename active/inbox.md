@@ -19,9 +19,9 @@ Opened a small pr in core-aam test for html anchor element [4]
 
 Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [6]
 
-Opened a small chromium issues of some change of binding generation script.[7]
+Opened a small chromium issue of some change of binding generation script.[7]
 
-Sent a CL for the binding generation script change [8]
+Sent a CL for the binding generation script change which is merged on Thursday [8]
 
 Opened a PR for a firefox bug which is some refactoring tasks [11]
 
@@ -47,7 +47,7 @@ Links:
 
 [5] https://chromestatus.com/feature/5070356302921728
 
-[6] The intent to ship link
+[6] https://groups.google.com/a/chromium.org/g/blink-dev/c/FEeoLfm2yg4
 
 [7] https://issues.chromium.org/u/1/issues/522454845
 
