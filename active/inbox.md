@@ -13,7 +13,7 @@ Did a workaround for HTMLAreaElement hreflang and type attributes behavior chang
 
 Address issues and feedbacks of the idl refactoring CL [2]
 
-Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is closed on Thuesday [3]
+Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is resolved on Thuesday [3]
 
 Opened a small pr in core-aam test for html anchor element [4]
 
@@ -29,7 +29,7 @@ Next:
 
 Resolve issues with PRs [2], and break down the CL into multiple small CL to review and land
 
-Working on the a11y mapping for mathml a element
+Working on the a11y mapping for core-aam, html-aam and mathml a element
 
 Reading how to write amm tests for mathml a element [7]
 
