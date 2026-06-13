@@ -1,13 +1,19 @@
 
 # 2026-06-06
 
+https://searchfox.org/firefox-main/source/accessible/base/ARIAMap.cpp#853
+
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/aria_properties.json5;l=241?q=third_party%2Fblink%2Frenderer%2Fcore%2Fhtml%2Faria_properties.json5
+
+https://searchfox.org/wubkat/source/Source/WebCore/accessibility/AccessibilityObject.cpp#3601
+
 [Weekly report 2]
 
 Worked hours: 14h:45min
 
 Tasks:
 
-Opened a issue related to hyperlink like elements in firefox [1]
+Opened an issue related to hyperlink like elements idl refactoring in firefox [1]
 
 Did a workaround for HTMLAreaElement hreflang and type attributes behavior change [2]
 
@@ -15,23 +21,23 @@ Address issues and feedbacks of the idl refactoring CL [2]
 
 Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is resolved on Thuesday [3]
 
-Opened a small pr in core-aam test for html anchor element [4]
+Opened a small pr in core-aam test for html anchor element and it will be merge next week [4]
 
 Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [6]
 
-Opened a small chromium issue of some change of binding generation script.[7]
+Opened a small chromium issue of some change of binding generation script [7]
 
-Sent a CL for the binding generation script change which is merged on Thursday [8]
-
-Opened a PR for a firefox bug which is some refactoring tasks [11]
+Sent a CL for the binding generation script change which is merged on Thursday which is merged on Friday [8]
 
 Next:
 
-Resolve issues with PRs [2], and break down the CL into multiple small CL to review and land
+Break down my first mathml a CL in chromium into mathml anchor element without idl stuff first
 
-Working on the a11y mapping for core-aam, html-aam and mathml a element
+Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
-Reading how to write amm tests for mathml a element [7]
+Try to solve Aham font loading issue in the test of mathml anchor element CL
+
+Working on MathMLAnchorElement idl support in firefox
 
 Follow the discussion about MathML a element aam a11y mapping [9]
 
