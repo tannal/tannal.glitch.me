@@ -1,3 +1,386 @@
+# 2026-06-14
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+MathML Core
+https://www.w3.org/TR/mathml-core/#user-agent-stylesheet
+
+Igalia Chat [1] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+fonts.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/fonts.js
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057?tab=comments
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/firefox-main/rev/13c921de977264c9684ce23b0bfc46578babda18/modules/libpref/init/StaticPrefList.yaml#11811
+
+…/element_factory.cc.tmpl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/4/third_party/blink/renderer/build/scripts/templates/element_factory.cc.tmpl#17
+
+MathML Core
+https://webengineshackfest-2026-mathml-core-065775.pages.igalia.com/#/2
+
+W3C Technical Architecture Group
+https://github.com/w3ctag
+
+Support ping, hreflang, type and referrerPolicy for SVGAElement - Chrome Platform Status
+https://chromestatus.com/feature/5140707648077824
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676?tab=checks
+
+StaticPrefList.yaml - mozsearch
+https://searchfox.org/firefox-main/rev/13c921de977264c9684ce23b0bfc46578babda18/modules/libpref/init/StaticPrefList.yaml#11811
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Chromium-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/chromium-dev
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/checks?check_run_id=80757257018
+
+aamtest tests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/aamtest.html
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+aamtest tests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/aamtest.html
+
+Self-hosting email the hard way from your own routable IPv4 block up | Anil Madhavapeddy
+https://anil.recoil.org/notes/recoil-self-hosting-2026
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+(1) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+[WPT] New failures introduced in external/wpt/html by import https://crrev.com/c/7868384 [515776377] - Chromium
+https://issues.chromium.org/issues/515776377
+
+Time tracking (week of Jun 08, 2026)
+https://hours.igalia.com/time/week
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+script: Properly unregister moved elements from `name` and `id` maps during moveBefore by mrobinson · Pull Request #45433 · servo/servo
+https://github.com/servo/servo/pull/45433
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+w3c/mathml-aam: Accessibility API Mappings for MathML
+https://github.com/w3c/mathml-aam
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+World Wide Web Consortium
+https://github.com/w3c
+
+Reusing HyperlinkElementUtils for HTMLAreaElement when the feature HTMLAreaHreflangType is enabled by default [521551791] - Chromium
+https://issues.chromium.org/u/1/issues/521551791
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+test3.html
+file:///home/tannal/tannalwork/projects/tannal.github.io/test3.html
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.3
+https://w3c.github.io/aria/#link
+
+收件箱 (20) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Issues · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/checks?check_run_id=80757257018
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/checks?check_run_id=80757257018
+
+w3c/mathml-core: MathML Core draft
+https://github.com/w3c/mathml-core
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#htmlhyperlinkelementutils
+
+Linking — SVG 2
+https://w3c.github.io/svgwg/svg2-draft/linking.html
+
+Editorial: Refactor HTMLHyperlinkElementUtils by lukewarlow · Pull Request #12066 · whatwg/html
+https://github.com/whatwg/html/pull/12066
+
+Running Tests from the Local System — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/from-local-system.html#system-setup
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/changes#diff-a7c93dcc2fb35862986a2ffc6b5ca9339381ec69cb54b5ef67f133f06a98f030
+
+wpt/core-aam/aamtests/support/ia2_wrapper.py at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/core-aam/aamtests/support/ia2_wrapper.py#L104
+
+HTML Accessibility API Mappings 1.0
+https://w3c.github.io/html-aam/#el-a
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt
+
+w3c/mathml-core: MathML Core draft
+https://github.com/w3c/mathml-core
+
+begining - Google 搜索
+https://www.google.com/search?q=begining&oq=begining&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTILCAEQABgKGAsYgAQyCwgCEAAYChgLGIAEMgsIAxAAGAoYCxiABDILCAQQABgKGAsYgAQyCwgFEC4YChgLGIAEMgsIBhAAGAoYCxiABDILCAcQABgKGAsYgAQyCwgIEAAYChgLGIAEMgsICRAuGAoYCxiABNIBCDE0ODhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/core-aam/#role-map-link
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+nsDOMTokenList - mozsearch
+https://searchfox.org/firefox-main/search?q=nsDOMTokenList&path=&case=false&regexp=false
+
+Intent to unship: Adjustment of default MathML operator lspace/rspace when math-depth > 0
+https://groups.google.com/a/mozilla.org/g/dev-platform/c/4jCrlRGxIIM
+
+我的群组
+https://groups.google.com/u/1/
+
+nsMathMLmoFrame.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/35009c6b3c3a10d189dd24790b5aaa6a27b6058f/layout/mathml/nsMathMLmoFrame.cpp#380
+
+⚙ D256978 Bug 1788937 - Implement font-family: math. r?fredw,jfkthame
+https://phabricator.services.mozilla.com/D256978
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=6068579079421952
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728/gate/6068579079421952/intent
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Issues · web-platform-dx/web-features
+https://github.com/web-platform-dx/web-features/issues
+
+Normative: Add hreflang and type to area, SVG a, and MathML a by lukewarlow · Pull Request #12446 · whatwg/html
+https://github.com/whatwg/html/pull/12446
+
+choose的过去式 - Google 搜索
+https://www.google.com/search?q=choose%E7%9A%84%E8%BF%87%E5%8E%BB%E5%BC%8F&oq=chosed&gs_lcrp=EgZjaHJvbWUqCwgBEAAYChgLGIAEMgYIABBFGDkyCwgBEAAYChgLGIAEMgsIAhAAGAoYCxiABDILCAMQABgKGAsYgAQyCwgEEAAYChgLGIAEMgcIBRAAGIAEMgkIBhAAGAoYgAQyCQgHEAAYChiABDILCAgQABgKGAsYgAQyCwgJEAAYChgLGIAE0gEIMzMwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/u/1/issues/510487697
+
+Move hreflang and type to HyperlinkElementUtils mixin [512880068] - Chromium
+https://issues.chromium.org/u/1/issues/512880068
+
+Normative: Add hreflang and type to area, SVG a, and MathML a by lukewarlow · Pull Request #12446 · whatwg/html
+https://github.com/whatwg/html/pull/12446
+
+⚙ D304947 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+⚙ D304947 Bug 2039500 - Move hreflang and type to HyperlinkElementUtils r=emilio
+https://phabricator.services.mozilla.com/D304947
+
+idlharness.https.html - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/html/dom/idlharness.https.html?q=idlharness.https.html
+
+HTML IDL tests
+https://wpt.live/html/dom/idlharness.https.html?q=idlharness.https.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+HTML5 reflection tests: embedded elements
+https://wpt.live/html/dom/reflection-embedded.html
+
+MathML Core · Issue #79 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/79
+
+historical.html - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/html/semantics/text-level-semantics/historical.html?q=third_party%2Fblink%2Fweb_tests%2Fexternal%2Fwpt%2Fhtml%2Fsemantics%2Ftext-level-semantics%2Fhistorical.html
+
+eliheuer/runebender-comfy: ComfyUI custom nodes: Runebender glyph editor (Vello+Kurbo WASM, Vue) and DrawBot Skia scripting node.
+https://github.com/eliheuer/runebender-comfy
+
+Index of /core-aam/aamtests/support/
+http://192.168.100.102:8081/core-aam/aamtests/support/
+
+fonts.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/fonts.js
+
+Web Engines Hackfest 2026 - Data
+https://docs.google.com/forms/d/e/1FAIpQLSdn-28pGFdF47Q0GP_cmzmPdeplZbE2-LNNhsnUrwt-No-WXg/closedform
+
+Missing #include statement for a function call in element_factory.cc.tmpl [522454845] - Chromium
+https://issues.chromium.org/u/1/issues/522454845
+
+element_factory.cc.tmpl - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/build/scripts/templates/element_factory.cc.tmpl;l=34?q=third_party%2Fblink%2Frenderer%2Fbuild%2Fscripts%2Ftemplates%2Felement_factory.cc.tmpl
+
+Add a #include statement for document.GetExecutionContext (7922427) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7922427?tab=comments
+
+Enter A Bug
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox&component=Untriaged
+
+⚙ D290362 Bug 2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters. r=emilio,eri,flod
+https://phabricator.services.mozilla.com/D290362
+
+⚙ D298477 Bug 2036778 - Set default tabIndex on MathML's a to 0. r=emilio
+https://phabricator.services.mozilla.com/D298477
+
+Rename HTMLOrSVGElement mixin to HTMLOrSVGOrMathMLElement by lukewarlow · Pull Request #12416 · whatwg/html
+https://github.com/whatwg/html/pull/12416/changes#diff-41cf6794ba4200b839c53531555f0f3998df4cbb01a4d5cb0b94e3ca5e23947d
+
+HTML Standard
+https://html.spec.whatwg.org/#focusoptions
+
+⚙ D298271 Bug 2036778 - Rename HTMLOrForeignElement to HTMLOrSVGOrMathMLElement. r=emilio
+https://phabricator.services.mozilla.com/D298271
+
+2036778 - Rename HTMLOrForeignElement to HTMLOrSVGOrMathMLElement
+https://bugzilla.mozilla.org/show_bug.cgi?id=2036778
+
+⚙ D45034 Bug 1571487 - Implement MathML DOM
+https://phabricator.services.mozilla.com/D45034
+
+Ship {Blob|Request|Response}.textStream (7919487) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7919487
+
+html - Is aria-expanded only for "click" interaction, or can it be used for "focus" as well? - Stack Overflow
+https://stackoverflow.com/questions/59207174/is-aria-expanded-only-for-click-interaction-or-can-it-be-used-for-focus-as
+
+Remove aria-expanded from listbox by smhigley · Pull Request #1862 · w3c/aria
+https://github.com/w3c/aria/pull/1862
+
+273333 – AX: ARIA: remove aria-expanded from supported attributes from role listbox
+https://bugs.webkit.org/show_bug.cgi?id=273333
+
+⚙ D285822 Bug 1893707 - ARIA: remove aria-expanded from supported attributes from role listbox r?Jamie!
+https://phabricator.services.mozilla.com/D285822
+
+ARIA: remove aria-expanded from supported attributes from role listbox [337191303] - Chromium
+https://issues.chromium.org/issues/337191303
+
+W:AccessibilityObject::supportsExpanded (AccessibilityObject.cpp - mozsearch)
+https://searchfox.org/wubkat/source/Source/WebCore/accessibility/AccessibilityObject.cpp#3601
+
+sWAIRoleMaps (ARIAMap.cpp - mozsearch)
+https://searchfox.org/firefox-main/source/accessible/base/ARIAMap.cpp#853
+
+aria_properties.json5 - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/aria_properties.json5;l=241?q=third_party%2Fblink%2Frenderer%2Fcore%2Fhtml%2Faria_properties.json5
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/index?rid=1
+
+2045388 - Move target attribute to HTMLHyperlinkElementUtils IDL file
+https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-a
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+underline mathml a element - Google 搜索
+https://www.google.com/search?q=underline+mathml+a+element&oq=underline+mathml+a+element&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgcIBRAhGI8C0gEIODYwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+⚙ D290361 Bug 2026848 - Update MathML href tests to reflect links are only on <a> tags. r=emilio,eri
+https://phabricator.services.mozilla.com/D290361
+
+Chrome Platform Status
+https://chromestatus.com/guide/new
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Faster-builds
+
+g3doc.corp.google.com - Google Single Sign On: Sign into corp
+https://login.corp.google.com/request?authLevel=2000000&c=1&d=https%3A%2F%2Fg3doc.corp.google.com%2Fcompany%2Fteams%2Fchrome%2Flinux_build_instructions.md%3Fcl%3Dhead%26upxsrf%3DAM2vRLnJbXQfx9dcyXvybHJaKAnh_drQjAAbmEZzokgKaoMOnQ%253A1781424954329&maxAge=1200&s=g3doc.corp.google.com%3A443%2Fuberproxy%2F#reclient-non-corp-personal-machine
+
+g3doc.corp.google.com - Google Single Sign On: Sign into corp
+https://login.corp.google.com/request?authLevel=2000000&c=1&d=https%3A%2F%2Fg3doc.corp.google.com%2Fcompany%2Fteams%2Fchrome%2Flinux_build_instructions.md%3Fcl%3Dhead%26upxsrf%3DAM2vRLlr_oc-V21AIb0F43PO8vhlQLQExLaxf4Gld_64-jvXyA%253A1781424958359&maxAge=1200&s=g3doc.corp.google.com%3A443%2Fuberproxy%2F#reclient-non-corp-personal-machine
+
+g3doc.corp.google.com - Google Single Sign On: Sign into corp
+https://login.corp.google.com/request?authLevel=2000000&c=1&d=https%3A%2F%2Fg3doc.corp.google.com%2Fcompany%2Fteams%2Fchrome%2Flinux_build_instructions.md%3Fcl%3Dhead%26upxsrf%3DAM2vRLnB6IEzTrteNiV7iL3-WdSLp4RuN3i1MRkJ47oc_-XQyw%253A1781424961379&maxAge=1200&s=g3doc.corp.google.com%3A443%2Fuberproxy%2F#reclient-non-corp-personal-machine
+
+(1) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Permission denied for RBE despite several re-logins and checking configuration [325928330] - Chromium
+https://issues.chromium.org/issues/325928330
+
+Google NotebookLM | AI 研究工具与思考伙伴
+https://notebooklm.google/
+
+NotebookLM
+https://notebooklm.google.com/notebook/1a816fd4-8085-4ed9-a916-af989fb12ade
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
 # 2026-06-08
 
 2026-05-08起 - Google Gemini

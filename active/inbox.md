@@ -1,6 +1,60 @@
 
 # 2026-06-14
 
+[Weekly report 3]
+
+Worked hours: 24h:45min
+
+Tasks:
+
+Opened an issue related to hyperlink like elements idl refactoring in firefox [1]
+
+Did a workaround for HTMLAreaElement hreflang and type attributes behavior change [2]
+
+Address issues and feedbacks of the idl refactoring CL [2]
+
+Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is resolved on Thuesday [3]
+
+Opened a small pr in core-aam test for html anchor element and it will be merge next week [4]
+
+Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [6]
+
+Opened a small chromium issue of some change of binding generation script [7]
+
+Sent a CL for the binding generation script change which is merged on Friday [8]
+
+Next:
+
+Working on my mathml anchor element CL for chromium, send a intent to ship to blink-dev
+
+Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
+
+Try to solve Aham font loading issue in the test of mathml anchor element CL
+
+Working on MathMLAnchorElement idl support in firefox
+
+Follow the discussion about MathML a element aam a11y mapping [9]
+
+Links:
+
+[1] https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
+
+[2] https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+[3] https://github.com/w3c/mathml-core/issues/331
+
+[4] https://github.com/web-platform-tests/wpt/pull/60490
+
+[5] https://chromestatus.com/feature/5070356302921728
+
+[6] https://groups.google.com/a/chromium.org/g/blink-dev/c/FEeoLfm2yg4
+
+[7] https://issues.chromium.org/u/1/issues/522454845
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/7922427
+
+[9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
 tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
 Skipping layout-table: No upstream specified
 Skipping css-font-feature: No upstream specified
@@ -55,7 +109,7 @@ Sent a CL for the binding generation script change which is merged on Friday [8]
 
 Next:
 
-Working on my mathml anchor element CL for chromium
+Working on my mathml anchor element CL for chromium, send a intent to ship to blink-dev
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
