@@ -9,7 +9,7 @@ https://searchfox.org/wubkat/source/Source/WebCore/accessibility/AccessibilityOb
 
 [Weekly report 2]
 
-Worked hours: 14h:45min
+Worked hours: 23h:00min
 
 Tasks:
 
@@ -27,7 +27,7 @@ Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [
 
 Opened a small chromium issue of some change of binding generation script [7]
 
-Sent a CL for the binding generation script change which is merged on Thursday which is merged on Friday [8]
+Sent a CL for the binding generation script change which is merged on Friday [8]
 
 Next:
 
@@ -58,6 +58,8 @@ Links:
 [7] https://issues.chromium.org/u/1/issues/522454845
 
 [8] https://chromium-review.googlesource.com/c/chromium/src/+/7922427
+
+[9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
 
 # 2026-06-04
 
