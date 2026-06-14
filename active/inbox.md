@@ -55,7 +55,7 @@ Sent a CL for the binding generation script change which is merged on Friday [8]
 
 Next:
 
-Break down my first mathml a CL in chromium into mathml anchor element without idl stuff first
+Working on my mathml anchor element CL for chromium
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
