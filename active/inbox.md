@@ -1,6 +1,8 @@
 
 # 2026-06-14
 
+https://chromestatus.com/feature/5196074156032000
+
 [Weekly report 3]
 
 Worked hours: 24h:45min
@@ -87,7 +89,7 @@ https://searchfox.org/wubkat/source/Source/WebCore/accessibility/AccessibilityOb
 
 [Weekly report 2]
 
-Worked hours: 25h:45min
+Worked hours: 26h:15min
 
 Tasks:
 
@@ -111,7 +113,7 @@ Next:
 
 Working on my mathml anchor element CL for chromium, send a intent to ship to blink-dev
 
-Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
+Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup prs of [4]
 
 Try to solve Aham font loading issue in the test of mathml anchor element CL
 
