@@ -1,4 +1,28 @@
 
+# 2026-06-14
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
+Skipping layout-table: No upstream specified
+Skipping css-font-feature: No upstream specified
+Fetching origin
+remote: Counting objects: 1409, done
+remote: Finding sources: 100% (649/649)
+remote: Total 649 (delta 203), reused 635 (delta 203)
+Receiving objects: 100% (649/649), 1.25 MiB | 300.00 KiB/s, done.
+Resolving deltas: 100% (203/203), completed with 42 local objects.
+From https://chromium.googlesource.com/chromium/src
+   2013304155383..e32418f5632b1  lkgr       -> origin/lkgr
+   b9a7cc5bde906..bdf9bb0e2b2b5  main       -> origin/main
+Rebasing: html-idl-refactor
+Rebasing: main
+Rebasing: element-factory-template
+Rebasing: feature/mathml-anchor-element
+Rebasing: mathml-a-element-without-idl
+Deleted branch element-factory-template (was 015c3fdbf37d6).
+Deleted branch main (was bdf9bb0e2b2b5).
+
+Running `git gc --auto` - Ctrl-C to abort is OK.
+
 # 2026-06-06
 
 https://searchfox.org/firefox-main/source/accessible/base/ARIAMap.cpp#853
