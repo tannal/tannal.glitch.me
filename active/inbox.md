@@ -1,6 +1,8 @@
 
 # 2026-06-14
 
+Make MathML links draggable
+
 https://chromestatus.com/feature/5196074156032000
 
 [Weekly report 3]
