@@ -11,7 +11,7 @@ Worked hours: 24h:45min
 
 Tasks:
 
-Opened an issue related to hyperlink like elements idl refactoring in firefox [1]
+Created a chromestatus feature for mathml anchor element [1]
 
 Did a workaround for HTMLAreaElement hreflang and type attributes behavior change [2]
 
@@ -41,7 +41,7 @@ Follow the discussion about MathML a element aam a11y mapping [9]
 
 Links:
 
-[1] https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
+[1] https://chromestatus.com/guide/editall/6543819626643456
 
 [2] https://chromium-review.googlesource.com/c/chromium/src/+/7899676
 
