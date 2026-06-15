@@ -1,4 +1,10 @@
 
+# 2026-06-15
+
+export SISO_CREDENTIAL_HELPER=google-application-default
+
+gcloud auth application-default login
+
 # 2026-06-14
 
 Make MathML links draggable
@@ -13,7 +19,7 @@ Tasks:
 
 Created a chromestatus feature for mathml anchor element [1]
 
-Did a workaround for HTMLAreaElement hreflang and type attributes behavior change [2]
+Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
 
 Address issues and feedbacks of the idl refactoring CL [2]
 
