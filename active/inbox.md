@@ -35,7 +35,7 @@ Sent a CL for the binding generation script change which is merged on Friday [8]
 
 Next:
 
-Working on my mathml anchor element CL for chromium, send a intent to ship to blink-dev
+Adding more tests for attributeStyleMap in wpt tests.
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
