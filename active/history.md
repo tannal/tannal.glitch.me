@@ -1,3 +1,242 @@
+# 2026-06-15
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+CanvasRenderingContext2D: getImageData() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/getImageData#exceptions
+
+HTML Standard
+https://html.spec.whatwg.org/#linkTypes
+
+Support MathMLAnchorElement in the DOM and WebIDL for hyperlinks in MathML - Chrome Platform Status
+https://chromestatus.com/guide/editall/6543819626643456
+
+Support MathMLAnchorElement in the DOM and WebIDL for hyperlinks in MathML - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456/gate/6269974827106304/intent
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Igalia Chat [1] | developers
+https://chat.igalia.com/#/room/#developers:mozilla.org
+
+Chromium code coverage in Gerrit - YouTube
+https://www.youtube.com/watch?v=cxXlYcSgIPE
+
+Testing in Chromium - Code Coverage in Chromium
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/code_coverage.md#gerrit-coverage-view
+
+CSS Object Model (CSSOM) Module Level 1
+https://drafts.csswg.org/cssom-1/#elementcssinlinestyle
+
+HTMLElement: attributeStyleMap property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/attributeStyleMap
+
+MathMLElement: attributeStyleMap property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLElement/attributeStyleMap
+
+MathML Core
+https://webengineshackfest-2026-mathml-core-065775.pages.igalia.com/#/3
+
+Testing in Chromium - Code Coverage in Chromium
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/code_coverage.md#gerrit-coverage-view
+
+Testing in Chromium - Code Coverage in Chromium
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/code_coverage.md
+
+Coverage Summary for chromium/src - 242a04c - //third_party/blink/renderer/core/mathml/
+https://analysis.chromium.org/coverage/p/chromium/dir?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=242a04c867e0486e1f26f0f3bc0c42f23b9da347&path=//third_party/blink/renderer/core/mathml/&platform=linux&test_suite_type=any&modifier_id=0
+
+Testing in Chromium - Life of Increasing Code Coverage
+https://chromium.googlesource.com/chromium/src/+/refs/heads/master/docs/testing/life_of_increasing_code_coverage.md
+
+Testing in Chromium - Code Coverage in Gerrit
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/code_coverage_in_gerrit.md
+
+Coverage for chromium/src - //third_party/blink/renderer/core/layout/mathml/math_fraction_layout_algorithm.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=242a04c867e0486e1f26f0f3bc0c42f23b9da347&path=//third_party/blink/renderer/core/layout/mathml/math_fraction_layout_algorithm.cc&platform=linux&test_suite_type=any&modifier_id=0#147
+
+MathML Core
+https://webengineshackfest-2026-mathml-core-065775.pages.igalia.com/#/4
+
+Browsers and Client-side Web Technologies | Igalia - Open Source Consulting and Development
+https://www.igalia.com/technology/browsers
+
+Is This the Web? | Igalia
+https://www.igalia.com/chats/isthistheweb
+
+File Name Flags — web-platform-tests documentation
+https://jgraham.github.io/web-platform-tests/writing-tests/file-names.html#test-features
+
+idlharness.https_exclude=(Document_Window_HTML.+)-expected.txt - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/html/dom/idlharness.https_exclude%3D%28Document_Window_HTML.+%29-expected.txt
+
+Support ping, hreflang, type and referrerPolicy for SVGAElement - Chrome Platform Status
+https://chromestatus.com/feature/5140707648077824?gate=5189563773485056
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree/href-click-001.html?label=experimental&label=master&aligned
+
+951104 - Enable <a ping> by default
+https://bugzilla.mozilla.org/show_bug.cgi?id=951104
+
+Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVG <a> element · Issue #566 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/566
+
+Flock to Fedora 2026 :: pretalx
+https://cfp.fedoraproject.org/flock-to-fedora-2026/
+
+NotebookLM
+https://notebooklm.google.com/notebook/1a816fd4-8085-4ed9-a916-af989fb12ade
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+FSCloud
+https://web.fscloud.cc/#/landing
+
+Implement `step_wait_promise` method · Issue #59024 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/59024
+
+Time tracking (week of Jun 15, 2026)
+https://hours.igalia.com/time/week
+
+MathML 'a' element inside SVG to Canvas: :visited pixel leak enforcement
+http://web-platform.test:8001/mathml/relations/html5-tree/canvas-visited-privacy.html
+
+javascript - Canvas tainted by cross-origin data - Stack Overflow
+https://stackoverflow.com/questions/13674835/canvas-tainted-by-cross-origin-data
+
+html - Drawing an image from a data URL to a canvas - Stack Overflow
+https://stackoverflow.com/questions/4773966/drawing-an-image-from-a-data-url-to-a-canvas
+
+svg foreignobject canvas - Google 搜索
+https://www.google.com/search?q=svg+foreignobject+canvas&oq=svg+foreignobject+canvas+&gs_lcrp=EgZjaHJvbWUyCAgAEEUYHhg5MgcIARAAGO8FMgcIAhAAGO8FMgoIAxAAGIAEGKIE0gEIODM0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+SVG foreignObject does not taint the canvas for blob URLs - Chrome Platform Status
+https://chromestatus.com/feature/5196074156032000
+
+Intent to Ship: SVG foreignObject does not taint the canvas for blob URLs
+https://groups.google.com/a/chromium.org/g/blink-dev/c/JpA2vmA9XT8/m/ewOcNxv6BQAJ
+
+Canvas is tainted after drawing SVG including <foreignObject> [41054640] - Chromium
+https://issues.chromium.org/issues/41054640
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[mathml] Support MathMLAnchorElement with extended attributes under MathML namespace (7896057) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057
+
+…/mathml.css · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/6/third_party/blink/renderer/core/css/mathml.css
+
+Should all MathML elements really be potential hyperlinks / match :visited? · Issue #142 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/142
+
+add a element to mathml-core #142 by davidcarlisle · Pull Request #307 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/307
+
+test_visited_reftests.html - mozsearch
+https://searchfox.org/firefox-main/source/layout/style/test/test_visited_reftests.html
+
+Bug List
+https://bugs.webkit.org/buglist.cgi?query_format=specific&order=Importance&no_redirect=1&bug_status=__open__&product=WebKit&content=mathml
+
+164280 – Make MathML links draggable
+https://bugs.webkit.org/show_bug.cgi?id=164280
+
+MathML-Core Release | Igalia - Open Source Consulting and Development
+https://www.igalia.com/chats/mathml-release
+
+MathMLElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLElement
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+MathML colspan attribute for the `<mtd>` element · Issue #126 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/126
+
+Support for font-family: math · Issue #564 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/564
+
+…/style_adjuster.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188/3/third_party/blink/renderer/core/css/resolver/style_adjuster.cc
+
+Add canvas tainting tests for patterns (7880261) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7880261
+
+Test history
+https://ci.chromium.org/ui/test/chromium/:%2F%2F%5C:chrome_wpt_tests%21webtest::external%2Fwpt%2Fhtml%2Fdom%23idlharness.https.html%3Finclude=HTML.+?q=VHash%3A6129bda16b001a29
+
+Bisection
+https://ci.chromium.org/ui/p/chromium/bisection/test-analysis/b/5205535692423168
+
+收件箱 (4) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=experimental&label=master&aligned
+
+[WPT Import] Tracking bug for untriaged failures in automatically-imported W3C tests. [40475877] - Chromium
+https://issues.chromium.org/issues/40475877
+
+1128054 - invalid tabindex value makes element focusable
+https://bugzilla.mozilla.org/show_bug.cgi?id=1128054
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+MathMLAnchorELement - Google 文档
+https://docs.google.com/document/d/1dKxzECFJlTivPP7sSmEevsk8zjw-umAIAmwR1rmDeTM/edit?tab=t.0#heading=h.w2ihpnr9yk3q
+
+Chrome design doc template - Google 文档
+https://docs.google.com/document/d/14YBYKgk-uSfjfwpKFlp_omgUq5hwMVazy_M965s_1KA/edit?tab=t.0
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+SVG foreignObject does not taint the canvas for blob URLs - Chrome Platform Status
+https://chromestatus.com/feature/5196074156032000
+
+⚙ D45034 Bug 1571487 - Implement MathML DOM
+https://phabricator.services.mozilla.com/D45034
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188/3
+
+jasonmccreary/git-trim
+https://github.com/jasonmccreary/git-trim
+
+Building Servo DevTools · Issue #84 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/84
+
+Web Engines Hackfest 2026 - YouTube
+https://www.youtube.com/watch?v=EFp-A7T4c0U
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=6350054056132608
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+Home
+https://phabricator.services.mozilla.com/
+
+svg.css - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/css/svg.css;l=69?q=svg.css
+
+tests - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/web/tests/
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
 # 2026-06-14
 
 2026-05-08起 - Google Gemini
