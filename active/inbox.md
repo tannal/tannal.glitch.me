@@ -39,6 +39,8 @@ Adding more tests for attributeStyleMap in wpt tests.
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
+Working on include HyperlinkElementUtils mixin in SVGAElement [3]
+
 Try to solve Aham font loading issue in the test of mathml anchor element CL
 
 Working on MathMLAnchorElement idl support in firefox
@@ -49,9 +51,9 @@ Links:
 
 [1] https://chromestatus.com/guide/editall/6543819626643456
 
-[2] https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+[2] https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
 
-[3] https://github.com/w3c/mathml-core/issues/331
+[3] https://issues.chromium.org/u/1/issues/512726601
 
 [4] https://github.com/web-platform-tests/wpt/pull/60490
 
