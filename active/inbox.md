@@ -21,7 +21,7 @@ Created a chromestatus feature for mathml anchor element [1]
 
 Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
 
-Address issues and feedbacks of the idl refactoring CL [2]
+Working on MathML anchor element origin API support [2]
 
 Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is resolved on Thuesday [3]
 
