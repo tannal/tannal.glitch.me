@@ -21,9 +21,9 @@ Created a chromestatus feature for mathml anchor element [1]
 
 Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
 
-Working on MathML anchor element origin API support [2]
+Working on MathML anchor element origin API support [3]
 
-Filed an issue of reusing HTMLHyperlinkElementUtils for MathML <a> idl interface which is resolved on Thuesday [3]
+Address feedback and comments from Fredrik Söderquist for my first mathml CL [4]
 
 Opened a small pr in core-aam test for html anchor element and it will be merge next week [4]
 
@@ -39,7 +39,7 @@ Adding more tests for attributeStyleMap in wpt tests.
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
-Working on include HyperlinkElementUtils mixin in SVGAElement [3]
+Working on include HyperlinkElementUtils mixin in SVGAElement [5]
 
 Try to solve Aham font loading issue in the test of mathml anchor element CL
 
@@ -53,11 +53,11 @@ Links:
 
 [2] https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
 
-[3] https://issues.chromium.org/u/1/issues/512726601
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/7956538
 
-[4] https://github.com/web-platform-tests/wpt/pull/60490
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/7940188?tab=comments
 
-[5] https://chromestatus.com/feature/5070356302921728
+[5] https://issues.chromium.org/u/1/issues/512726601
 
 [6] https://groups.google.com/a/chromium.org/g/blink-dev/c/FEeoLfm2yg4
 
