@@ -1,6 +1,10 @@
 
 # 2026-06-15
 
+adb shell pm disable-user com.android.updater
+adb shell pm uninstall -k --user 0 com.android.updater
+adb shell pm enable com.android.updater
+
 export SISO_CREDENTIAL_HELPER=google-application-default
 
 gcloud auth application-default login
