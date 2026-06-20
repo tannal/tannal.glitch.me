@@ -1,4 +1,87 @@
 
+# 2026-06-20
+
+adb shell cmd package install-existing
+
+CPU (大脑)	AMD Ryzen 9 7950X (散片)	2300 - 2500	【绝对核心】 16大核32线程 + 64MB巨量三级缓存。全核并发编译时完全不缩水，比带小核的 Intel 13/14代更稳定、速度更快。
+主板 (骨架)	微星 (MSI) MAG B650M MORTAR WIFI (迫击炮)	950 - 1050	12+2+1 相供电，带 7950X 毫无压力。支持双 PCIe 4.0 M.2 固态，拓展性极佳，自带高带宽无线网卡。
+内存 (血条)	宏碁掠夺者 / 芝奇 DDR5 6000MHz 64GB (32GB × 2) 套装	1300 - 1500	【编译死命令】 32G 内存链接 Chromium 时极易爆 OOM 错误。必须 64G 起步！选 6000MHz 是因为这是 Zen 4 的最佳内存甜点频率。
+固态硬盘 (仓库)	致态 (ZhiTai) TiPro7000 2TB 或 三星 990 PRO 2TB	900 - 1100	【不能省钱】 必须带有**独立物理缓存（DRAM）**的旗舰 PCIe 4.0 固态。Chromium 编译有海量碎文件读写，无缓盘写到后面会严重掉速至狗屎级。
+散热器 (降温)	瓦尔基里 (Valkyrie) A360 或 九州风神 冰魔方 360	400 - 500	7950X 全核编译时发热量极大，必须上 360mm 一体式水冷。这两个型号能轻松将其压制在安全温度内，拒绝编译中途降频。
+电源 (动力)	航嘉 / 海韵 / 长城 850W ATX 3.0 金牌全模组	500 - 650	为 CPU 持续 230W+ 的极限压榨提供稳定供电。预留了 ATX 3.0 标准和足够功率，方便你以后随时加装高性能显卡。
+机箱 (外壳)	长城 / 先马 / 联力 (选能装下 360 水冷的侧透/网面机箱)	200 - 300	选前置或顶置支持 360 水冷、前置面板通风良好的“高风道”机箱，散热好不好直接决定了你的编译速度。
+显卡 (亮机/游戏)
+若纯编译：使用 7950X 自带的核心显卡
+
+
+若兼顾游戏/AI：加装 RTX 4060Ti 16G 或 RTX 4070 Super
+
+0
+
+
+(加卡 3000-4500)
+
+7950X 自带亮机核显。如果你的工作完全是 C++ 编译、Linux 服务器调试，不需要买显卡！如果你要兼顾大模型 AI 调试或打 3A 游戏，再根据预算加卡。
+总计
+纯编译生产力（不加独显）：约 6500 - 7100 元
+
+
+全能游戏/AI生产力（加独显）：约 9800 - 11500 元
+
+[Weekly report 4]
+
+Worked hours: 28h:30min
+
+Tasks:
+
+Created a chromestatus feature for mathml anchor element [1]
+
+Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
+
+Working on MathML anchor element origin API support [3]
+
+Address feedback and comments from Fredrik Söderquist for my first mathml CL [4]
+
+Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt tests for them [6]
+
+Next:
+
+Adding more tests for attributeStyleMap in wpt tests.
+
+Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
+
+Working on include HyperlinkElementUtils mixin in SVGAElement [5]
+
+Try to solve Aham font loading issue in the test of mathml anchor element CL
+
+Working on MathMLAnchorElement idl support in firefox
+
+Follow the discussion about MathML a element aam a11y mapping [9]
+
+Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
+
+Links:
+
+[1] https://chromestatus.com/guide/editall/6543819626643456
+
+[2] https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/7956538
+
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/7940188?tab=comments
+
+[5] https://issues.chromium.org/u/1/issues/512726601
+
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+[7] https://github.com/WebKit/standards-positions
+
+[8] https://github.com/mozilla/standards-positions
+
+[9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+拿到一加 Ace 5 Pro 后，你的标准操作流应该是这样的：申请深度测试：开机进系统后，去一加社区或指定入口下载“深度测试 App”，提交解锁申请。下载固件提取 Boot 镜像：在等待解锁期间，去 GitHub 或酷安一加专区，根据你的当前系统版本，直接提取 init_boot.img。注入 KernelSU / Apatch：用官方工具或面具将 KernelSU 注入到镜像中，等手机解开 BL 锁后，通过电脑一行命令 fastboot flash init_boot 刷入。尽情自动化：安装 LSPosed 框架和 Tasker，直接去停用你不需要的系统广告。如果你预算在 $3000 - 4000\text{ 元}$ 之间，想要一台能够被你完全掌控、打游戏到飞起、且充满折腾乐趣的性能怪兽，一加 Ace 5 Pro 是目前全行业绝无仅有的最优解，可以直接无脑冲。
+
 # 2026-06-15
 
 adb shell pm disable-user com.android.updater
@@ -17,7 +100,7 @@ https://chromestatus.com/feature/5196074156032000
 
 [Weekly report 3]
 
-Worked hours: 27h:30min
+Worked hours: 28h:30min
 
 Tasks:
 
@@ -29,13 +112,7 @@ Working on MathML anchor element origin API support [3]
 
 Address feedback and comments from Fredrik Söderquist for my first mathml CL [4]
 
-Opened a small pr in core-aam test for html anchor element and it will be merge next week [4]
-
-Created chromestatus feature [5] on [2] and sent a intent to ship to blink-dev [6]
-
-Opened a small chromium issue of some change of binding generation script [7]
-
-Sent a CL for the binding generation script change which is merged on Friday [8]
+Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt tests for them [6]
 
 Next:
 
@@ -51,6 +128,8 @@ Working on MathMLAnchorElement idl support in firefox
 
 Follow the discussion about MathML a element aam a11y mapping [9]
 
+Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
+
 Links:
 
 [1] https://chromestatus.com/guide/editall/6543819626643456
@@ -63,11 +142,11 @@ Links:
 
 [5] https://issues.chromium.org/u/1/issues/512726601
 
-[6] https://groups.google.com/a/chromium.org/g/blink-dev/c/FEeoLfm2yg4
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/7970997
 
-[7] https://issues.chromium.org/u/1/issues/522454845
+[7] https://github.com/WebKit/standards-positions
 
-[8] https://chromium-review.googlesource.com/c/chromium/src/+/7922427
+[8] https://github.com/mozilla/standards-positions
 
 [9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
 
