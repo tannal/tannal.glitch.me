@@ -1,6 +1,8 @@
 
 # 2026-06-20
 
+./out/Default/content_browsertests --gtest_filter=DownloadContentTest.SVGAnchorDownloadAttribute --no-headless
+
 adb shell cmd package install-existing
 
 CPU (大脑)	AMD Ryzen 9 7950X (散片)	2300 - 2500	【绝对核心】 16大核32线程 + 64MB巨量三级缓存。全核并发编译时完全不缩水，比带小核的 Intel 13/14代更稳定、速度更快。
@@ -114,13 +116,19 @@ Address feedback and comments from Fredrik Söderquist for my first mathml CL [4
 
 Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt tests for them [6]
 
+Adds download attribute to mathml a element and add tests for it
+
 Next:
 
 Adding more tests for attributeStyleMap in wpt tests.
 
+Adds rel / relList attributes support for mathml a element, see svg[9]
+
+Adds ping and referrerpolicy attributes and tests them in mathml a element, see svg[10]
+
 Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
 
-Working on include HyperlinkElementUtils mixin in SVGAElement [5]
+Working on include HyperlinkElementUtils and Origin API mixin in SVGAElement [5]
 
 Try to solve Aham font loading issue in the test of mathml anchor element CL
 
@@ -148,7 +156,9 @@ Links:
 
 [8] https://github.com/mozilla/standards-positions
 
-[9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+[9] https://chromium-review.googlesource.com/c/chromium/src/+/6274068
+
+[10] https://chromium-review.googlesource.com/c/chromium/src/+/7008071
 
 tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
 Skipping layout-table: No upstream specified
