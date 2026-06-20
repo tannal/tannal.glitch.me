@@ -1,6 +1,19 @@
 
 # 2026-06-20
 
+```
+# 1. 切换到你最顶层的这个 WIP 分支（或者直接在当前分支）
+# 确保本地代码处于 Commit C 上
+
+# 2. 强行把本地的提交树和远端的最新的分支进行变基拉平
+# 这个命令会自动帮你识别 Change-Id，把本地的所有 Commit 顺着最新的依赖关系重新洗一遍
+git cl rebase
+
+# 3. 重新上传最顶层的 Commit C
+# 这会告诉 Gerrit：“我已经把最新的 A 和 B 作为我的基底了，请刷新依赖树！”
+git cl upload
+```
+
 ./out/Default/content_browsertests --gtest_filter=DownloadContentTest.SVGAnchorDownloadAttribute --no-headless
 
 adb shell cmd package install-existing
@@ -32,7 +45,7 @@ CPU (大脑)	AMD Ryzen 9 7950X (散片)	2300 - 2500	【绝对核心】 16大核3
 
 [Weekly report 4]
 
-Worked hours: 28h:30min
+Worked hours: 30h:30min
 
 Tasks:
 
@@ -112,15 +125,17 @@ Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
 
 Working on MathML anchor element origin API support [3]
 
-Address feedback and comments from Fredrik Söderquist for my first mathml CL [4]
+Address feedback and comments from Fredrik Söderquist for my initial support for mathml CL [4]
 
 Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt tests for them [6]
 
-Adds download attribute to mathml a element and add tests for it
+Adds download attribute to mathml a element and add tests for it [11]
 
 Next:
 
 Adding more tests for attributeStyleMap in wpt tests.
+
+Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
 
 Adds rel / relList attributes support for mathml a element, see svg[9]
 
@@ -136,7 +151,6 @@ Working on MathMLAnchorElement idl support in firefox
 
 Follow the discussion about MathML a element aam a11y mapping [9]
 
-Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
 
 Links:
 
@@ -159,6 +173,8 @@ Links:
 [9] https://chromium-review.googlesource.com/c/chromium/src/+/6274068
 
 [10] https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+[11] https://chromium-review.googlesource.com/c/chromium/src/+/7969459
 
 tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
 Skipping layout-table: No upstream specified
