@@ -1,6 +1,19 @@
 
 # 2026-06-20
 
+配件类型,推荐型号,闲鱼/电商真实行情价 (元),🛠️ 硬核改动原因与极客调校建议（必读）
+CPU（大脑）,选项①：AMD Ryzen 9 7950X选项②：AMD Ryzen 9 9950X,7950X：1700 - 1900 9950X：2500 - 2900,
+【纠结决断指南】：两颗都是16大核32线程。如果你追求【1快钱买最多纯算力】，闭眼选 7950X；如果你写代码【对主机风扇噪音敏感，且希望风冷更冰凉】，多花1000元买 9950X 绝对不后悔，
+它的 4nm 工艺能效无敌。
+
+主板（骨架）,微星 (MSI) MAG B650M MORTAR WIFI (迫击炮),900 - 1000,【
+完美承载】：12+2+1相（80A）暴徒级供电，哪怕16核全开满载跑几个小时编译，主板供电也稳如磐石。如果是搭配 9950X，装机前记得用它后置的 Flash BIOS 按钮无CPU把BIOS刷到最新。
+内存（血条）,宏碁掠夺者 / 芝奇 DDR5 6000MHz 64GB (32GB × 2) 套装,1300 - 1500,【物理铁律】：必须只买两根！ 誓死不插满4根内存。收到货后，死死插在主板的第 2 槽和第 4 槽（A2/B2 黄金位）。开机进微星BIOS，一键点亮 EXPO 图标，在 Ubuntu 下直接享受 6000MHz 满血双通道带宽，彻底拒绝 Chromium 编译爆 OOM 错误。
+固态（仓库）,致态 (ZhiTai) TiPro7000 2TB 或 三星 990 PRO 2TB,950 - 1150,【绝不妥协】：这两款都带有独立的物理高速缓存（DRAM）。Chromium 编译有成百上千个 .cc 和 .h 碎文件疯狂写入，如果贪便宜买了无缓存（DRAM-less）固态，写到后面速度会暴跌。这两款旗舰盘能确保全程高速，不掉速。
+散热器（核心）,利民 (Thermalright) 索林 Thor X77 或猫头鹰 (Noctua) NH-D15 G2,索林: 350 - 450猫头鹰: 900 - 1100,【重磅改动：淘汰水冷！】：彻底砍掉水冷，换上风冷界天花板。利民索林是全铜回流焊的性能怪兽，热容量极大；猫头鹰 D15 G2 带有 AMD 物理偏置（Offset）扣具，能让铜底正对 9950X 偏下的发热核心。【装机调校】：进BIOS将 CPU 的 Thermal Limit (温度墙) 手动锁死在 85°C，风冷风扇会非常安静，且编译算力几乎零损失。
+电源（动力）,海韵 / 长城 / 航嘉 750W 或 850W ATX 3.0 金牌全模组,500 - 650,【风冷红利】：因为你不用水冷，且使用 7950X/9950X 自带的核显亮机（不加独立显卡），整机满载编译功耗只有 260W 左右！其实 650W 都绰绰有余。推荐 850W ATX 3.0 是为你以后万一想加装 RTX 4080/5080 等高阶显卡跑本地 AI 大模型预留充足动力。
+机箱（外壳）,先马 (Sama) 邻家大院 / 联力 216 / 分形工艺 (Fractal Design) 流行风,250 - 450,【风冷命门】：风冷机箱的命根子在**“前进后出”的物理风道**。必须选前置面板全网眼（Mesh）透风、且前置自带 2 个 14cm 大风扇的机箱。把 16 核爆发出的 230W 热量一秒钟都不要滞留，直接抽出机箱。
+
 ```
 # 1. 切换到你最顶层的这个 WIP 分支（或者直接在当前分支）
 # 确保本地代码处于 Commit C 上
@@ -137,7 +150,7 @@ Adding more tests for attributeStyleMap in wpt tests.
 
 Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
 
-Adds rel / relList attributes support for mathml a element, see svg[9]
+Adds rel / relList attributes support for mathml a element and tests them, see svg[9]
 
 Adds ping and referrerpolicy attributes and tests them in mathml a element, see svg[10]
 
