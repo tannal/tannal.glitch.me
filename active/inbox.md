@@ -164,6 +164,10 @@ Working on MathMLAnchorElement idl support in firefox
 
 Follow the discussion about MathML a element aam a11y mapping [9]
 
+I'm quite interesting in html in canvas api, maybe ask Stephen Chenney about it in the future. [12]
+It's just like the spirit of Houdini project
+
+Currently focus on the mathml stuff first.
 
 Links:
 
@@ -188,6 +192,8 @@ Links:
 [10] https://chromium-review.googlesource.com/c/chromium/src/+/7008071
 
 [11] https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+[12] https://html-in-canvas.dev/docs/overview/
 
 tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
 Skipping layout-table: No upstream specified
