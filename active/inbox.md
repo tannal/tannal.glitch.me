@@ -144,6 +144,8 @@ Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt test
 
 Adds download attribute to mathml a element and add tests for it [11]
 
+illed on Friday, recovered on late sunday :-)
+
 Next:
 
 Adding more tests for attributeStyleMap in wpt tests.
@@ -167,7 +169,7 @@ Follow the discussion about MathML a element aam a11y mapping [9]
 I'm quite interesting in html in canvas api, maybe ask Stephen Chenney about it in the future. [12]
 It's just like the spirit of Houdini project
 
-Currently focus on the mathml stuff first.
+Currently focus on the mathml stuff first. :-)
 
 Links:
 
