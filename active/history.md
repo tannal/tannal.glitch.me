@@ -1,3 +1,305 @@
+# 2026-06-20
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Clash Meta for Android (github version) 2.11.30.Alpha (arm64-v8a) APK Download by MetaCubeX - APKMirror
+https://www.apkmirror.com/apk/metacubex/clashmetaforandroid-github-version/clash-meta-for-android-github-version-2-11-30-alpha-release/clash-meta-for-android-github-version-2-11-30-alpha-android-apk-download/download/?key=cfc69934e5372a21472f6cc135349add808d5709
+
+Sky: An Experimental Engine for Applications - Dart Developer Summit 2015 - YouTube
+https://www.youtube.com/results?search_query=Sky%3A+An+Experimental+Engine+for+Applications+-+Dart+Developer+Summit+2015
+
+Extensible Web Summit
+https://www.merrickchristensen.com/articles/extensible-web-summit
+
+""Flutter: How we're building a UI framework for tomorrow at Google" by Eric Seidel - YouTube
+https://www.youtube.com/watch?v=VUiVkDpikDI
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/interaction.html#dom-tabindex
+
+The HTTP Archive
+https://httparchive.org/
+
+Igalia Chat [3] | Cafe < Social
+https://chat.igalia.com/#/room/#social-cafe:igalia.com
+
+"TODO(bug" - Search
+https://source.chromium.org/search?q=%22TODO(bug%22&ss=chromium%2Fchromium%2Fsrc
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188?tab=comments
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188?checksRunsSelected=%F0%9F%9F%AA%E2%80%85%E2%80%85linux-code-coverage&tab=comments
+
+File Name Flags — web-platform-tests documentation
+https://jgraham.github.io/web-platform-tests/writing-tests/file-names.html#test-features
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+invoice (1).pdf
+file:///home/tannal/Downloads/invoice%20(1).pdf
+
+1278697 - (css-typed-om) [META] Implement CSS Houdini Typed OM Level 1 specification
+https://bugzilla.mozilla.org/show_bug.cgi?id=1278697#c8
+
+⚙ D303789 Bug 2043988 - Add parsing mode flag for disallowing unitless zero lengths; r=emilio
+https://phabricator.services.mozilla.com/D303789
+
+CSS Object Model (CSSOM) Module Level 1
+https://drafts.csswg.org/cssom-1/#elementcssinlinestyle
+
+Time tracking (week of Jun 15, 2026)
+https://hours.igalia.com/time/week
+
+⚙ D265637 Bug 1989925 - Return CSSStyleProperties from getComputedStyle and .style r=emilio
+https://phabricator.services.mozilla.com/D265637
+
+[css-typed-om] Replace Element.styleMap with Element.attributeStyleMap (765553) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/765553
+
+[css-typed-om] Replace Element.styleMap with Element.attributeStyleMap by chromium-wpt-export-bot · Pull Request #8161 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/8161/changes
+
+SVGElement: attributeStyleMap property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/SVGElement/attributeStyleMap
+
+…/mathml_anchor_element.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7896057/6/third_party/blink/renderer/core/mathml/mathml_anchor_element.idl#11
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+[mathml] Support Origin API for MathMLAnchorElement (7956538) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7956538
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Implement MathML <a> element - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456
+
+Implement MathML <a> element - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456/gate/6269974827106304/intent
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt
+
+build error when using union type which have set of typedef value. [40574512] - Chromium
+https://issues.chromium.org/issues/40574512
+
+…/css_variable_reference_value.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/1034618/7..10/third_party/blink/renderer/core/css/cssom/css_variable_reference_value.idl#b8
+
+build error when using union type which have set of typedef value. [40574512] - Chromium
+https://issues.chromium.org/issues/40574512
+
+⚙ D290362 Bug 2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters. r=emilio,eri,flod
+https://phabricator.services.mozilla.com/D290362
+
+2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters
+https://bugzilla.mozilla.org/show_bug.cgi?id=2026848
+
+(2) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[WPT] New failures introduced in external/wpt/html by import https://crrev.com/c/7868384 [515776377] - Chromium
+https://issues.chromium.org/issues/515776377
+
+[WPT] New failures introduced in external/wpt/html by import https://crrev.com/c/7868384 [515776377] - Chromium
+https://issues.chromium.org/issues/515776377
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=4942679172579328
+
+New issue - Issue Tracker
+https://issuetracker.google.com/issues/new?component=2087577&template=2299295
+
+MathML `<a>` should use a separate interface · Issue #325 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/325
+
+HTMLAreaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAreaElement
+
+Issues · mdn/content
+https://github.com/mdn/content/issues
+
+…/anchor_element_utils.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6507410/29/third_party/blink/renderer/core/html/anchor_element_utils.h
+
+…/anchor_element_utils.h · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6995578/24/third_party/blink/renderer/core/html/anchor_element_utils.h
+
+…/html_anchor_element.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071/26/third_party/blink/renderer/core/html/html_anchor_element.cc
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=euro+to&gs_lcrp=EgZjaHJvbWUqDggBECMYExgnGIAEGIoFMgYIABBFGDkyDggBECMYExgnGIAEGIoFMgsIAhAAGAoYCxiABDILCAMQABgKGAsYgAQyCwgEEAAYChgLGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgsIBxAAGAoYCxiABDILCAgQABgKGAsYgAQyCwgJEAAYChgLGIAE0gEIMzQxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=5787104102711296
+
+Testing in Chromium - Code Coverage in Gerrit
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/testing/code_coverage_in_gerrit.md
+
+HTMLAnchorElement: hreflang property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAnchorElement/hreflang
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/semantics.html#dom-link-hreflang
+
+User Agent style for href hyperlinks and focusable elements · Issue #128 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/128
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+Chrome Platform Status
+https://chromestatus.com/feature/5173317243895808/activity
+
+…/audit_non_blink_usage.py · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7875805/7/third_party/blink/tools/blinkpy/presubmit/audit_non_blink_usage.py
+
+Use Event& instead of Event* as a parameter of DefaultEventHandler (1175753) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/1175753?tab=comments
+
+owner:dmangal@microsoft.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:dmangal@microsoft.com
+
+Chrome Platform Status
+https://chromestatus.com/metrics/feature/popularity
+
+Getting started | har.fyi
+https://har.fyi/guides/getting-started/
+
+Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVG <a> element · Issue #566 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/566
+
+Normative: Add hreflang and type to area, SVG a, and MathML a by lukewarlow · Pull Request #12446 · whatwg/html
+https://github.com/whatwg/html/pull/12446
+
+Remove hreflang and type IDL from SVGAElement by lukewarlow · Pull Request #1108 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1108
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+Add Origin.from tests for SVG and MathML `<a>` by lukewarlow · Pull Request #59852 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/59852
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+Support ping, hreflang, type and referrerPolicy for SVGAElement - Chrome Platform Status
+https://chromestatus.com/feature/5140707648077824
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/browsers/origin/api/origin-from-hyperlinkelementutils.window.html?label=experimental&label=master&aligned
+
+…/origin-from-htmlhyperlinkelementutils.window.js · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7002661/5/third_party/blink/web_tests/external/wpt/html/browsers/origin/tentative/api/origin-from-htmlhyperlinkelementutils.window.js
+
+`Origin.from(HyperlinkElementUtils)`
+http://127.0.0.1:8001/html/browsers/origin/api/origin-from-hyperlinkelementutils.window.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+…/dom_origin.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7036191/6/third_party/blink/renderer/core/url/dom_origin.cc
+
+[OriginAPI] Delegate origin extraction for `ExtendableMessageEvent`. (7074832) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7074832
+
+[OriginAPI] Implement `Origin.from()`. (7002661) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7002661
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/browsers.html#the-origin-interface
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+[mathml] Support Origin API for MathMLAnchorElement (7956538) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7956538
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+html_anchor_element.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/html/html_anchor_element.cc;l=344?q=third_party%2Fblink%2Frenderer%2Fcore%2Fhtml%2Fhtml_anchor_element.cc
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490
+
+mathml-core/spec.html at bd3764c5faf4fa2d7b0a91204d475a8455c300c3 · w3c/mathml-core
+https://github.com/w3c/mathml-core/blob/bd3764c5faf4fa2d7b0a91204d475a8455c300c3/spec.html#L377
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-tabindex
+
+Rename HTMLOrSVGElement mixin to HTMLOrSVGOrMathMLElement by lukewarlow · Pull Request #12416 · whatwg/html
+https://github.com/whatwg/html/pull/12416/changes#diff-41cf6794ba4200b839c53531555f0f3998df4cbb01a4d5cb0b94e3ca5e23947dL4534-R86584
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Intent to Prototype: Implement MathML <a> element
+https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
+
+GSDragoon/RadeonSoftwareSlimmer: Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows.
+https://github.com/GSDragoon/RadeonSoftwareSlimmer
+
+收件箱 (5) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+MathMLAnchorElement href navigation test
+http://web-platform.test:8081/mathml/relations/html5-tree/href-navigation.html
+
+Window: open() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Window/open
+
+tannal.github.io/static at main · tannal/tannal.github.io
+https://github.com/tannal/tannal.github.io/tree/main/static
+
+MlgmXyysd (Jaida Wu)
+https://github.com/MlgmXyysd
+
+46,XY-DSD - Endo-ERN
+https://endo-ern.eu/rare-sex-development-maturation-conditions/46xy-dsd/
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+WebKit/standards-positions: WebKit's positions on emerging web specifications
+https://github.com/WebKit/standards-positions
+
+mozilla/standards-positions
+https://github.com/mozilla/standards-positions
+
+Google Play Store 51.8.10-24 [0] [PR] 927639301 (arm64-v8a) (nodpi) (Android 12+) APK Download by Google LLC - APKMirror
+https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-51-8-10-release/google-play-store-51-8-10-24-0-pr-927639301-4-android-apk-download/download/?key=61f0b9bb2ec79c49421cfbc1103a005c7a1e19f6
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+MetaCubeX/ClashMetaForAndroid: A rule-based tunnel for Android.
+https://github.com/MetaCubeX/ClashMetaForAndroid
+
 # 2026-06-15
 
 2026-05-08起 - Google Gemini
