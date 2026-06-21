@@ -1,3 +1,293 @@
+# 2026-06-21
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Do LLMs Actually Understand Code? The Evidence | Thomas Wiegold Blog
+https://thomas-wiegold.com/blog/do-llms-actually-understand-code/
+
+Our investment in Zed
+https://www.matchstick.vc/companies/zed
+
+Zed Raises $32M in Series B, Pivots to DeltaDB, a GitHub Competitor | Hypeburner
+https://hypeburner.com/blog/news/zed-deltadb
+
+jakearchibald/idb: IndexedDB, but with promises
+https://github.com/jakearchibald/idb
+
+Browser session history magic trick - splitting documents - YouTube
+https://www.youtube.com/watch?v=CY-Zv0bmmRk
+
+Open Questions | HTML-in-Canvas
+https://html-in-canvas.dev/docs/open-questions/
+
+jakearchibald (Jake Archibald)
+https://github.com/jakearchibald
+
+WICG/html-in-canvas
+https://github.com/WICG/html-in-canvas
+
+Google Introduces HTML-in-Canvas API: Accessible UI Meets WebGL / WebGPU | WebGL / WebGPU Community — Showcase, Tutorials, Examples & More
+https://www.webgpu.com/news/google-html-in-canvas-webgl-webgpu/
+
+Igalia Chat [2] | Cafe < Social
+https://chat.igalia.com/#/room/#social-cafe:igalia.com
+
+ProtonDB | Explore | Most Steam Followers
+https://www.protondb.com/explore
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+收件箱 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+script: Run insert validations steps separately when inserting from the parser by mrobinson · Pull Request #45765 · servo/servo
+https://github.com/servo/servo/pull/45765/changes
+
+Additional spec work for links · Issue #312 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/312
+
+Linking — SVG 2
+https://w3c.github.io/svgwg/svg2-draft/linking.html#AElement
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592/changes
+
+…/context_menu_controller.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6507410/29/third_party/blink/renderer/core/page/context_menu_controller.cc#822
+
+(2) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+…/svg_a_element.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7027352/3/third_party/blink/renderer/core/svg/svg_a_element.cc#178
+
+[SVG] Add support for SVGAElement's rel / relList attributes (6274068) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6274068
+
+SVGAElement "parity" with HTMLAnchorElement [40589293] - Chromium
+https://issues.chromium.org/issues/40589293
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997/1
+
+Time tracking (week of Jun 15, 2026)
+https://hours.igalia.com/time/week
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+9950X runs over 95C using default values for PPT, TDC, and EDC : r/ryzen
+https://www.reddit.com/r/ryzen/comments/1hk7xkd/9950x_runs_over_95c_using_default_values_for_ppt/
+
+双塔风冷 - Google 搜索
+https://www.google.com/search?q=%E5%8F%8C%E5%A1%94%E9%A3%8E%E5%86%B7&oq=%E5%8F%8C%E5%A1%94%E9%A3%8E%E5%86%B7&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEHMjU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+About Me
+https://educatedguesswork.org/about/
+
+googlechromelabs.github.io/houdini-samples/layout-worklet/masonry/
+https://googlechromelabs.github.io/houdini-samples/layout-worklet/masonry/
+
+CSS Layout API Level 1
+https://drafts.css-houdini.org/css-layout-api/
+
+Houdini APIs - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Houdini_APIs
+
+CSS Layout API (Houdini) - Chrome Platform Status
+https://chromestatus.com/feature/5673954630959104
+
+登录至桌面应用 | Zulip
+https://auth.zulipchat.com/complete/github/?code=fd2d73e826284e340a3d&state=IdpipBJ8T8FEGEQey5Zs1RizQCeTkut4
+
+Eric Seidel servo project - Google 搜索
+https://www.google.com/search?q=Eric+Seidel+servo+project&sca_esv=cfa1734cbc4e78a4&sxsrf=APpeQnvZHBb2AwBPqPna7mg_pFQTZJdJPg%3A1781961755678&ei=G5Q2aqv7KIStxc8PuO6U8A8&biw=1850&bih=932&ved=0ahUKEwjr9Mzr9JWVAxWEVvEDHTg3Bf4Q4dUDCBA&uact=5&oq=Eric+Seidel+servo+project&gs_lp=Egxnd3Mtd2l6LXNlcnAiGUVyaWMgU2VpZGVsIHNlcnZvIHByb2plY3QyBxAhGAoYoAEyBxAhGAoYoAEyBxAhGAoYoAFIoSVQvhtYqyRwAXgBkAEAmAHiAqABrhGqAQUyLTMuNLgBA8gBAPgBAZgCCKAC4hHCAgoQABhHGNYEGLADwgIFECEYoAGYAwCIBgGQBgKSBwcxLjAuMS42oAeuEbIHBTItMS42uAfgEcIHBTAuMi42yAcdgAgB&sclient=gws-wiz-serp
+
+Impeller webgpu - Google 搜索
+https://www.google.com/search?q=Impeller+webgpu&oq=Impeller+webgpu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCDE0MjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Jesse Ezell on X: "Impeller on web is getting closer. Thanks @euxx for the heads up. As I’ve always said, I’m actually interested to see the bundle size here. Web is the one platform that bundle size is consistently mentioned as an issue. Ironically, the supposed benefits of Impeller like AOT" / X
+https://x.com/jezell/status/1999875039613821205
+
+[wimp] Initial Impeller on Web implementation. by eyebrowsoffire · Pull Request #175442 · flutter/flutter
+https://github.com/flutter/flutter/pull/175442/changes
+
+Support for WASM/WASI + non-browser, non-JS, non-emscripten environments · gfx-rs/wgpu · Discussion #4201
+https://github.com/gfx-rs/wgpu/discussions/4201
+
+test6.html
+file:///home/tannal/tannalwork/projects/tannal.github.io/test6.html
+
+temu - Google 搜索
+https://www.google.com/search?q=temu&oq=temu&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAtIBBzgwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Google 文档
+https://docs.google.com/document/u/0/
+
+The Anatomy of a Frame Jake Archibald - Google 搜索
+https://www.google.com/search?q=The+Anatomy+of+a+Frame+Jake+Archibald&sca_esv=b6875f533da1df49&sxsrf=APpeQnsCUn1TnF3Bq5-Znm5UBXBcb3uuVQ%3A1781967413302&ei=Nao2aqD6EaSLxc8Pv4XwqAE&biw=1850&bih=932&ved=0ahUKEwjg6K71iZaVAxWkRfEDHb8CHBUQ4dUDCBA&uact=5&oq=The+Anatomy+of+a+Frame+Jake+Archibald&gs_lp=Egxnd3Mtd2l6LXNlcnAiJVRoZSBBbmF0b215IG9mIGEgRnJhbWUgSmFrZSBBcmNoaWJhbGQyBxAAGB4YsAMyCRAAGAgYHhiwAzIJEAAYCBgeGLADMgkQABgIGB4YsAMyCRAAGAgYHhiwAzIJEAAYCBgeGLADMgkQABgIGB4YsAMyCBAAGO8FGLADMgsQABiABBiiBBiwAzIIEAAY7wUYsANI1QVQiAFYkgRwAXgAkAEAmAEAoAEAqgEAuAEDyAEA-AEB-AECmAIBoAIJmAMAiAYBkAYKkgcBMaAHALIHALgHAMIHAzItMcgHBoAIAQ&sclient=gws-wiz-serp
+
+Releases · CalcProgrammer1/OpenRGB
+https://github.com/CalcProgrammer1/OpenRGB/releases
+
+OpenRGB Release Candidate 1.0rc2 - OpenRGB/OpenRGB - Codeberg.org
+https://codeberg.org/OpenRGB/OpenRGB/releases/tag/release_candidate_1.0rc2
+
+[dart2wasm] Support non-JS wasm runtimes · Issue #53884 · dart-lang/sdk
+https://github.com/dart-lang/sdk/issues/53884
+
+Issues · zulip/zulip-flutter
+https://github.com/zulip/zulip-flutter/issues
+
+flutter/docs/roadmap/Roadmap.md at master · flutter/flutter
+https://github.com/flutter/flutter/blob/master/docs/roadmap/Roadmap.md
+
+flutter/CONTRIBUTING.md at master · flutter/flutter
+https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md
+
+flutter/docs/contributing/Design-Documents.md at master · flutter/flutter
+https://github.com/flutter/flutter/blob/master/docs/contributing/Design-Documents.md
+
+Discord
+https://discord.com/login
+
+invoiceninja/flutter: Invoice Ninja: Desktop/mobile admin portal built with Flutter
+https://github.com/invoiceninja/flutter
+
+Issues · AppFlowy-IO/AppFlowy
+https://github.com/AppFlowy-IO/AppFlowy/issues
+
+Zed's DeltaDB idea - real problem or overkill? : r/programming
+https://www.reddit.com/r/programming/comments/1o4h34t/zeds_deltadb_idea_real_problem_or_overkill/
+
+Releases · zed-industries/zed
+https://github.com/zed-industries/zed/releases?page=3
+
+Since recent commits the GitHub copilot button is back · Issue #11537 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/11537#issuecomment-2100495170
+
+Zed editor switching graphics lib from blade to wgpu | Hacker News
+https://news.ycombinator.com/item?id=47002825
+
+Join the Zed Team
+https://zed.dev/jobs
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+zed/docs/src/development/linux.md at main · zed-industries/zed
+https://github.com/zed-industries/zed/blob/main/docs/src/development/linux.md
+
+Upgrade async-tungstenite to tokio by ConradIrwin · Pull Request #26193 · zed-industries/zed
+https://github.com/zed-industries/zed/pull/26193
+
+sdroege/async-tungstenite: Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation
+https://github.com/sdroege/async-tungstenite
+
+(panic) when clicking `<input type="radio">` without `name` · Issue #473 · DioxusLabs/blitz
+https://github.com/DioxusLabs/blitz/issues/473
+
+Support for Flutter extension · Issue #247 · zed-industries/extensions
+https://github.com/zed-industries/extensions/issues/247
+
+Collab session should not require a voice call · Issue #9233 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/9233
+
+rlch/katex_flutter: Implementation of KaTeX in Flutter
+https://github.com/rlch/katex_flutter
+
+Math2SVG - Flutter TeX
+https://flutter-tex.readthedocs.io/en/latest/math-2-svg/
+
+Flutter Installation & Setup Without Android Studio | Run on Real Device - YouTube
+https://www.youtube.com/watch?v=4GVg62WRa5g&t=18s
+
+Scoop - Apps (sdk manager)
+https://scoop.sh/#/apps?q=sdk+manager&p=1
+
+oae/gnome-shell-pano: Next-gen Clipboard Manager for Gnome Shell
+https://github.com/oae/gnome-shell-pano
+
+amazingpaddy/ai-chat-exporter
+https://github.com/amazingpaddy/ai-chat-exporter
+
+How to download your full Gemini chat history (Workaround for the missing sidebar bug) : r/GeminiAI
+https://www.reddit.com/r/GeminiAI/comments/1r92ehg/how_to_download_your_full_gemini_chat_history/
+
+Google 导出
+https://takeout.google.com/
+
+收件箱 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Google 导出
+https://takeout.google.com/manage/archive/9018fe67-2f67-4033-a029-7f7f6c76f415?user=102525101387730776385&rapt=AEjHL4PZwU51fDv2UIfXyaXic5f6XWDhTxMGW3qrvm6xJWb6SEzfezjkDin4SK8_JBkuiMXPsGDjv-LK5-qd7R8MEQuLR5JU6vvvjw74LeuT-q8-BXbEp6s
+
+AI Policy Update Proposal · servo/servo · Discussion #36379
+https://github.com/servo/servo/discussions/36379
+
+我的活动记录
+file:///home/tannal/Downloads/takeout-20260621T045815Z-3-001%20(1)/Takeout/%E6%88%91%E7%9A%84%E6%B4%BB%E5%8A%A8/Gemini%20Apps/%E6%88%91%E7%9A%84%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95.html
+
+NotebookLM
+https://notebooklm.google.com/
+
+gemini app chat how much token can input and output - Google 搜索
+https://www.google.com/search?q=gemini+app+chat+how+much+token+can+input+and+output&sca_esv=584c16bc445885c5&sxsrf=APpeQnuNJFl-pYtHwJP1U6Je9qmYcn-y8Q%3A1782020820770&ei=1Ho3apvSLpqL7NYPzLCf-AM&ved=0ahUKEwibjITw0JeVAxWaBdsEHUzYBz8Q4dUDCBI&uact=5&oq=gemini+app+chat+how+much+token+can+input+and+output&gs_lp=Egxnd3Mtd2l6LXNlcnAiM2dlbWluaSBhcHAgY2hhdCBob3cgbXVjaCB0b2tlbiBjYW4gaW5wdXQgYW5kIG91dHB1dDIFECEYoAEyBRAhGKABMgUQIRigAUiLiAFQmQhYg4cBcAV4AJABAJgBvgOgAeeFAaoBCTItMjMuMzAuMbgBA8gBAPgBAZgCOKACooABwgIKEAAYRxjWBBiwA8ICBBAjGCfCAggQABiABBjLAcICBRAAGIAEwgIEEAAYHsICBhAAGAgYHsICCBAAGAgYHhgKwgIIEAAYgAQYogTCAgUQABjvBcICChAjGIAEGIoFGCfCAgwQIxiABBiKBRgTGCfCAgoQABiABBiKBRhDwgIGEAAYBRgewgIGEAAYHhgNwgIIEAAYCBgeGA3CAggQABgFGB4YDcICBxAhGAoYoAGYAwCIBgGQBgqSBws1LjAuMTQuMzYuMaAHxqcBsgcJMi0xNC4zNi4xuAeCgAHCBwc3LjE5LjMwyAerAYAIAQ&sclient=gws-wiz-serp
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+I really want to use Rustdesk... but latency : r/rustdesk
+https://www.reddit.com/r/rustdesk/comments/1qtk9is/i_really_want_to_use_rustdesk_but_latency/
+
+Jump Desktop github - Google 搜索
+https://www.google.com/search?q=Jump+Desktop+github&sca_esv=584c16bc445885c5&sxsrf=APpeQns6dbaMc1sLK7I9EiBKFFHqfyPEiA%3A1782021491740&ei=c303aoLkLKGXxc8PtZWk4Q8&biw=1850&bih=932&ved=0ahUKEwjC6fyv05eVAxWhS_EDHbUKKfwQ4dUDCBI&uact=5&oq=Jump+Desktop+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiE0p1bXAgRGVza3RvcCBnaXRodWIyBRAAGIAEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIGEAAYCBgeSNkNUP0FWNMMcAF4AZABAJgBpQOgAdkPqgEFMy0zLjK4AQPIAQD4AQGYAgagAvYPwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBRAAGO8FmAMAiAYBkAYKkgcHMS4zLTEuNKAHqguyBwUzLTEuNLgH8g_CBwUxLjEuNMgHFIAIAQ&sclient=gws-wiz-serp
+
+flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+https://github.com/flutter/flutter/tree/master
+
+flutter/docs/contributing/Design-Documents.md at master · flutter/flutter
+https://github.com/flutter/flutter/blob/master/docs/contributing/Design-Documents.md
+
+zulip/zulip-flutter: Zulip mobile apps for Android and iOS, using Flutter.
+https://github.com/zulip/zulip-flutter/
+
+Contributing guide — Zulip 12.0-dev+git documentation
+https://zulip.readthedocs.io/en/latest/contributing/contributing.html#ai-use-policy-and-guidelines
+
+zulip/zulip: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+https://github.com/zulip/zulip
+
+Is flutter still growing? : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1nmhdk4/is_flutter_still_growing/
+
+Canonical takes over Flutter desktop maintenance & roadmap : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1trwvcz/canonical_takes_over_flutter_desktop_maintenance/
+
+收件箱 (7) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+(2524) Discord | #state-and-architecture | Flutter Dev
+https://discord.com/channels/420324994703163402/421445334716121091
+
+Discord
+https://discord.com/login
+
 # 2026-06-20
 
 2026-05-08起 - Google Gemini
