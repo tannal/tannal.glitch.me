@@ -237,7 +237,7 @@ Adds rel / relList attributes support for mathml a element and tests them, see s
 
 Adds ping and referrerpolicy attributes and tests them in mathml a element, see svg[10]
 
-Working on the a11y mapping for core-aam, html-aam and mathml a element, doing followup pr of
+Working on the a11y mapping for core-aam, html-aam and mathml a element, doing followup pr of the core-aam link role mapping pr
 
 Working on include HyperlinkElementUtils and Origin API mixin for SVGAElement [5]
 
