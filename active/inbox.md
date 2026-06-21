@@ -1,7 +1,62 @@
 
 # 2026-06-21
 
+If your Gemini sidebar is empty/missing and you urgently need to access your chats, don't panic! Your conversations haven't been deleted. They are still safely stored on Google's servers.
 
+You can download everything using Google Takeout, but warning: the most obvious option there doesn't actually download your chat text.
+
+Here is how to do it the right way:
+
+Step 1: Access and clear selection
+
+Go totakeout.google.com.
+
+Right at the top of the list, click "Deselect all" (so you don't end up downloading gigabytes of unnecessary data from your Google account).
+
+Step 2: Find the right spot (The Trick)
+
+Scroll down and DO NOT check the "Gemini" box (this option only downloads your custom "Gems" settings, not your chat history).
+
+Instead, look for the "My Activity" option.
+
+Check the box next to "My Activity".
+
+Right below that, click the button that says "All activity data included".
+
+In the pop-up window, click "Deselect all" and then check ONLY the "Gemini Apps" option. Click OK.
+
+Step 3: Export
+
+Scroll all the way to the bottom of the page and click "Next step".
+
+Keep the default settings (Export once, .zip file) and click "Create export".
+
+Wait for Google to email you saying your file is ready, then download it.
+
+Step 4: Where is the actual text?
+
+Extract the .zip file on your computer.
+
+Open the folder path: Takeout > My Activity > Gemini Apps.
+
+Ignore the folders/files with weird names or hashes. These loose files are just the images, PDFs, videos, or code snippets you attached or generated during your chats.
+
+Look for the main file named My Activity.html.
+
+Double-click it! It will open in your web browser as a giant, single webpage containing your entire chat history in plain text. Just use Ctrl+F to search for the specific conversations or keywords you need.
+
+Hope this helps anyone who is locked out of their work right now!
+
+https://www.reddit.com/r/GeminiAI/comments/1r92ehg/how_to_download_your_full_gemini_chat_history/
+export gemini chat history
+
+gemini chat exporter
+
+https://github.com/amazingpaddy/ai-chat-exporter
+
+install flutter on windows without Android Studio
+
+https://www.youtube.com/watch?v=4GVg62WRa5g&t=18s
 
 # 2026-06-20
 
