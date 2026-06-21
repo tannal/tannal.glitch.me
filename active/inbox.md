@@ -1,6 +1,8 @@
 
 # 2026-06-21
 
+在 BIOS 里稍微拉低一点电压（UnderVolt，降压不降频），让它稳稳地在 $5.0\text{ GHz} \sim 5.1\text{ GHz}$ 长期不降频全速冲刺，这才是性价比和效率最高的“编译神机”状态！
+
 sdkmanager --install "platform-tools" "platforms;android-36" "build-tools;36.0.0"
 
 按照你目前的代码密度和书写习惯，100 M Token 的超长上下文，可以装下整整 920.8 万行 代码！
