@@ -1,6 +1,26 @@
 
 # 2026-06-21
 
+sdkmanager --install "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+
+按照你目前的代码密度和书写习惯，100 M Token 的超长上下文，可以装下整整 920.8 万行 代码！
+
+包含媒体文件的真实数据:
+
+376MB/年
+
+20年 7.34GB
+40年 14.69GB
+
+20 年能产生多少聊天记录？
+2.89GB
+
+40 年能产生多少聊天记录？
+
+5.78GB
+
+bunx turndown-cli 我的活动记录.html > output.md
+
 If your Gemini sidebar is empty/missing and you urgently need to access your chats, don't panic! Your conversations haven't been deleted. They are still safely stored on Google's servers.
 
 You can download everything using Google Takeout, but warning: the most obvious option there doesn't actually download your chat text.
