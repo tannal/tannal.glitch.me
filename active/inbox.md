@@ -209,7 +209,7 @@ https://chromestatus.com/feature/5196074156032000
 
 [Weekly report 3]
 
-Worked hours: 28h:30min
+Worked hours: 30h:30min
 
 Tasks:
 
@@ -229,6 +229,8 @@ illed on Friday, recovered on late sunday :-)
 
 Next:
 
+Working on include HyperlinkElementUtils and Origin API mixin for SVGAElement [5]
+
 Adding more tests for attributeStyleMap in wpt tests.
 
 Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
@@ -239,13 +241,9 @@ Adds ping and referrerpolicy attributes and tests them in mathml a element, see 
 
 Working on the a11y mapping for core-aam, html-aam and mathml a element, doing followup pr of the core-aam link role mapping pr
 
-Working on include HyperlinkElementUtils and Origin API mixin for SVGAElement [5]
-
 Try to solve Aham font loading issue in the test of mathml anchor element CL
 
 Working on MathMLAnchorElement idl support in firefox
-
-Follow the discussion about MathML a element aam a11y mapping [9]
 
 I'm quite interesting in html in canvas api, maybe ask Stephen Chenney about it in the future. [12]
 It's just like the spirit of Houdini project
