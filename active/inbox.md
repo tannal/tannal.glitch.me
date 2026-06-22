@@ -1,4 +1,10 @@
 
+# 2026-06-22
+
+PS C:\Users\tannal> # 找到你的安装路径，执行启动参数
+PS C:\Users\tannal> & "C:\Users\tannal\scoop\apps\lenovolegiontoolkit\current\Lenovo Legion Toolkit.exe" --skip-compat-check
+PS C:\Users\tannal>
+
 # 2026-06-21
 
 在 BIOS 里稍微拉低一点电压（UnderVolt，降压不降频），让它稳稳地在 $5.0\text{ GHz} \sim 5.1\text{ GHz}$ 长期不降频全速冲刺，这才是性价比和效率最高的“编译神机”状态！
