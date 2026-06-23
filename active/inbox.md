@@ -1,4 +1,75 @@
 
+# 2026-06-23
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update -n
+Skipping layout-table: No upstream specified
+Skipping css-font-feature: No upstream specified
+mathml-a-element-without-idl up-to-date
+feature/mathml-anchor-element up-to-date
+Rebasing: mathml-a-origin
+Failed! Attempting to squash mathml-a-origin ... Failed!
+
+Here's what git-rebase (squashed) had to say:
+
+Auto-merging third_party/blink/renderer/bindings/generated_in_core.gni
+Auto-merging third_party/blink/renderer/bindings/idl_in_core.gni
+Auto-merging third_party/blink/renderer/core/css/mathml.css
+CONFLICT (content): Merge conflict in third_party/blink/renderer/core/css/mathml.css
+Auto-merging third_party/blink/renderer/core/dom/element.cc
+Auto-merging third_party/blink/renderer/core/dom/visited_link_state.cc
+Auto-merging third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+CONFLICT (add/add): Merge conflict in third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+Auto-merging third_party/blink/renderer/core/mathml/mathml_anchor_element.h
+CONFLICT (add/add): Merge conflict in third_party/blink/renderer/core/mathml/mathml_anchor_element.h
+Auto-merging third_party/blink/renderer/core/mathml/mathml_anchor_element.idl
+CONFLICT (add/add): Merge conflict in third_party/blink/renderer/core/mathml/mathml_anchor_element.idl
+Auto-merging third_party/blink/renderer/platform/runtime_enabled_features.json5
+Auto-merging third_party/blink/web_tests/TestExpectations
+
+error: could not apply ba7c9b859f177... git squash commit for mathml-a-origin_squash_attempt.
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+hint: Disable this message with "git config set advice.mergeConflict false"
+Could not apply ba7c9b859f177... # git squash commit for mathml-a-origin_squash_attempt.
+
+Squashing failed. You probably have a real merge conflict.
+
+Your working copy is in mid-rebase. Either:
+ * completely resolve like a normal git-rebase; OR
+ * abort the rebase and mark this branch as dormant:
+       git rebase --abort && \
+       git config branch.mathml-a-origin.dormant true
+
+And then run `git rebase-update -n` to resume.
+
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update
+Skipping css-font-feature: No upstream specified
+Skipping layout-table: No upstream specified
+Fetching origin
+remote: Counting objects: 9604, done
+remote: Finding sources: 100% (58776/58776)
+remote: Total 58776 (delta 31121), reused 57052 (delta 31121)
+Receiving objects: 100% (58776/58776), 135.15 MiB | 10.49 MiB/s, done.
+Resolving deltas: 100% (31121/31121), completed with 7463 local objects.
+From https://chromium.googlesource.com/chromium/src
+   27a3ab53b7101..f19054bdb3d2a  lkgr       -> origin/lkgr
+   c5ef57dc23150..706c4634a560d  main       -> origin/main
+Rebasing: mathml-a-element-without-idl
+Rebasing: feature/mathml-anchor-element
+Your working copy is in mid-rebase. Either:
+ * completely resolve like a normal git-rebase; OR
+ * abort the rebase and mark this branch as dormant:
+       git rebase --abort && \
+       git config branch.feature/mathml-anchor-element.dormant true
+
+And then run `git rebase-update -n` to resume.
+
+
+I rebased the CL to resolve merge conflicts with main. No functional changes were made.
+
 # 2026-06-22
 
 PS C:\Users\tannal> # 找到你的安装路径，执行启动参数
