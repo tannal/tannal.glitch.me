@@ -1,6 +1,20 @@
 
 # 2026-06-23
 
+Notes
+-----
+To set profile 'Scoop' as *DEFAULT*, or profiles/settings was lost after update:
+- Run 'Firefox Profile Manager', choose 'Scoop' then click 'Start Firefox'.
+- Visit 'about:profiles' page in Firefox to check *DEFAULT* profile.
+For details: https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles
+
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+
+echo "performance" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+echo "powersave" | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor
+
+./wpt run chrome mathml-aam/aamtests/mathml-a-element.py --binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chrome --binary-arg="--enable-blink-features=MathMLAnchorElement"
+
 git branch --set-upstream-to=mathml-a-element-without-idl
 
 remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7940188 [mathml] Initial Support for MathMLAnchorElement under MathML namespace
