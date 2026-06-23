@@ -1,3 +1,135 @@
+
+# 2026-06-23
+
+Commits · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/commits/master/?author=tannal
+
+Running Tests from the Local System — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/from-local-system.html#system-setup
+
+GitHub - web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others · GitHub
+https://github.com/web-platform-tests/wpt/
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Releases · adobe-fonts/source-han-sans
+https://github.com/adobe-fonts/source-han-sans/releases
+
+Releases · adobe-fonts/source-han-serif
+https://github.com/adobe-fonts/source-han-serif/releases
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+Writing Tests — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/index.html
+
+GitHub - BartoszCichecki/LenovoLegionToolkit: Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops. · GitHub
+https://github.com/BartoszCichecki/LenovoLegionToolkit
+
+Scoop - Apps (webkit)
+https://scoop.sh/#/apps?q=webkit&p=1
+
+驱动列表
+https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=yx08xfz8
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+complicated-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=16453883&keyword=complicated&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+【4K60FPS】艾薇儿《When You're Gone》神级现场！一开口就泪目！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1h3411879L?spm_id_from=333.788.videopod.sections
+
+Nightly builds for Windows · zed-industries/zed · Discussion #15159 · GitHub
+https://github.com/zed-industries/zed/discussions/15159
+
+Windows Portable Elevation – RustDesk Documentation
+https://rustdesk.com/docs/en/client/windows/windows-portable-elevation/
+
+192.168.100.111:8083/links.txt
+http://192.168.100.111:8083/links.txt
+
+Wise - 创建账户
+https://wise.com/register?_gl=1*4qxdme*_up*MQ..&gclid=CjwKCAjwuuPRBhAnEiwA2Ji8eguS02EVOHog6udanbzKgt1SxHoInOAJS1YL6fX2i03xD0ywFwRjohoCtksQAvD_BwE&gbraid=0AAAAADqE2bCETtvKvJogatLl7VoQfpzAN#/email
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Wise - 重置密码
+https://wise.com/reset-password#code=73455d98-2eb1-4ae7-994e-591295b9fb1e
+
+Wise - 登录
+https://wise.com/login?autoLogout=true
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+wise 中国大陆 地址 - Google 搜索
+https://www.google.com/search?q=wise+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86+%E5%9C%B0%E5%9D%80&oq=wise+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86+%E5%9C%B0%E5%9D%80&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDU1OTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Index of /
+http://192.168.100.111:8082/
+
+诺鸭船长3 on X: "Wise 里的钱怎么提现篇 很多人把钱打进 Wise 却不知道怎么出来。提现路径有三条，费率和速度差距很大 👇 【路径一：直接汇款到支付宝 / 微信（最快） Wise 支持直接汇款到对方的支付宝或微信钱包，约 60% 即时到账，80% 在 24 小时内完成。手续费约 1% 左右，没有隐藏加价，全程透明。 操作路径：Wise" / X
+https://x.com/noahduck283/status/2063983483903689128
+
+tannal/NENU-Thesis-Typst at tm-2024
+https://github.com/tannal/NENU-Thesis-Typst/tree/tm-2024
+
+typst github - Google 搜索
+https://www.google.com/search?q=typst+github&oq=typst&gs_lcrp=EgZjaHJvbWUqDAgBECMYJxiABBiKBTIGCAAQRRg5MgwIARAjGCcYgAQYigUyDggCECMYExgnGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGDzSAQgyMjEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+NENU-Thesis-Typst/README_zh.md at master · virgiling/NENU-Thesis-Typst · GitHub
+https://github.com/virgiling/NENU-Thesis-Typst/blob/master/README_zh.md
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+TM Docs
+http://124.221.12.178:8080/
+
+Improved TYPST_FONT_PATHS documentation · Issue #1708 · typst/typst
+https://github.com/typst/typst/issues/1708
+
+tplink路由器登录入口 - Google 搜索
+https://www.google.com/search?q=tplink%E8%B7%AF%E7%94%B1%E5%99%A8%E7%99%BB%E5%BD%95%E5%85%A5%E5%8F%A3&oq=tplink%E8%B7%AF%E7%94%B1%E5%99%A8&gs_lcrp=EgZjaHJvbWUqCQgFEAAYDBiABDIGCAAQRRg5MgcIARAAGIAEMgkIAhAAGAwYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCQgFEAAYDBiABDIJCAYQABgMGIAEMgkIBxAAGAwYgAQyBwgIEAAYgAQyCQgJEAAYDBiABNIBCDY2MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Index of /
+http://192.168.100.111:8082/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+最后的战役-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=98071373&keyword=%E6%9C%80%E5%90%8E%E7%9A%84%E6%88%98%E5%BD%B9&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+【4K60FPS】周杰伦《忘词的战役》超经典忘词现场 简直笑抽了_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1VB4y1K7i1?spm_id_from=333.788.player.player_end_recommend_autoplay&trackid=web_related_0.router-related-2589621-dpmnd.1782198070575.521
+
+Index of /
+http://192.168.100.100:8081/
+
+tannal/tannalwork: workspace
+https://github.com/tannal/tannalwork
+
+Mc-Zen/slides-typst-meetup-24-lilaq: Talk slides from the Typst Meetup 2024
+https://github.com/Mc-Zen/slides-typst-meetup-24-lilaq
+
+Running the Latest Safari WebKit on Windows - DEV Community
+https://dev.to/dustinbrett/running-the-latest-safari-webkit-on-windows-33pb
+
+Running WebKit on Windows | fujii.github.io
+https://fujii.github.io/2019/07/05/webkit-on-windows/
+
+tannal/copy-tabs
+https://github.com/tannal/copy-tabs
+
 # 2026-06-21
 
 2026-05-08起 - Google Gemini
