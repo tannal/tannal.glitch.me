@@ -1,6 +1,8 @@
 
 # 2026-06-23
 
+git branch --set-upstream-to=mathml-a-element-without-idl
+
 remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7940188 [mathml] Initial Support for MathMLAnchorElement under MathML namespace
 remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7956538 [mathml] Support Origin API for MathMLAnchorElement
 remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7970997 [mathml] Implement target and hyperlinkutils for MathML a element [WIP]
