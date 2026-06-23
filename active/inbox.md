@@ -1,6 +1,32 @@
 
 # 2026-06-23
 
+In linux, firefox
+
+
+In linux, chrome without mathml anchor element patch:
+HTML <a href>	ATSPI_ROLE_LINK	是	只有标准的 HTML 链接被正确识别为 LINK。
+HTML <a> (无 href)	ATSPI_ROLE_SECTION	否	被识别为通用容器。
+MathML <a href>	ATSPI_ROLE_SECTION	否	关键点：Chrome 不将 MathML 链接提升为 LINK 角色。
+MathML <a> (无 href)	ATSPI_ROLE_SECTION	否	被识别为通用容器。
+
+元素状态,实际角色 (Role),是否存在 Hyperlink 接口,说明
+"<a href=""..."">",IA2_ROLE_TEXT_FRAME,是,Firefox 将 MathML 链接视为文本框架而非顶级链接对象。
+<a> (无 href),IA2_ROLE_TEXT_FRAME (推测),是,Firefox 意外地为无 href 的 MathML 链接也挂载了链接接口。
+
+In windows:
+mathml a element in firefox
+1. with href mapped to IA2_ROLE_TEXT_FRAME with Hyperlink 接口
+2. without href mapped to IA2_ROLE_TEXT_FRAME with Hyperlink 接口
+3. mrow mapped to IA2_ROLE_UNKNOWNN
+
+in chrome without mathml anchor element patch
+1. with href mapped to IA2_ROLE_SECTION without Hyperlink 接口
+2. without href mapped to IA2_ROLE_SECTION without Hyperlink 接口
+3. mrow mapped to ROLE_SYSTEM_GROUPING without Hyperlink 接口
+
+python ./wpt run firefox --binary "$env:USERPROFILE\scoop\apps\firefox\current\firefox.exe" --no-headless .\core-aam\aamtests\role\mathml-link.py
+
 Notes
 -----
 To set profile 'Scoop' as *DEFAULT*, or profiles/settings was lost after update:
