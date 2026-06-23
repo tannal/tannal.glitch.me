@@ -1,6 +1,11 @@
 
 # 2026-06-23
 
+remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7940188 [mathml] Initial Support for MathMLAnchorElement under MathML namespace
+remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7956538 [mathml] Support Origin API for MathMLAnchorElement
+remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7970997 [mathml] Implement target and hyperlinkutils for MathML a element [WIP]
+remote:   https://chromium-review.googlesource.com/c/chromium/src/+/7969459 [mathml] Implement download attribute for MathML a element [WIP]
+
 tannal@desktop:~/tannalwork/projects/chromium/src$ git rebase-update -n
 Skipping layout-table: No upstream specified
 Skipping css-font-feature: No upstream specified
