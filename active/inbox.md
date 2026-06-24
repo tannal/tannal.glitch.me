@@ -1,4 +1,13 @@
 
+
+# 2026-06-24
+
+hyperlink = atspi.Accessible.get_hyperlink(node)
+assert hyperlink is not None, "hyperlink interface should be present for link role"
+
+link = hyperlink.get_uri(0)
+assert link == "https://example.com/"
+
 # 2026-06-23
 
 In linux, firefox
