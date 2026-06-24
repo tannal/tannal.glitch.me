@@ -2,6 +2,8 @@
 
 # 2026-06-24
 
+99.5
+
 hyperlink = atspi.Accessible.get_hyperlink(node)
 assert hyperlink is not None, "hyperlink interface should be present for link role"
 
