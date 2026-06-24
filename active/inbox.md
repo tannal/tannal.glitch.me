@@ -276,15 +276,15 @@ Worked hours: 30h:30min
 
 Tasks:
 
-Created a chromestatus feature for mathml anchor element [1]
+The pr for core-aam link element role mapping wpt tests merged [1]
 
-Sent a intent to prototype to blink-dev for mathml anchor element feature [2]
+Working on mathml-aam for mathml a element, add role mapping tests [2]
 
-Working on MathML anchor element origin API support [3]
+Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [3]
 
-Address feedback and comments from Fredrik Söderquist for my first mathml CL [4]
+Reading project houdini and typed-cssom mdn pages, adding more tests for attributeStyleMap in wpt tests.
 
-Adds href, target, hyperlinkElement mixin to mathml anchor element, add wpt tests for them [6]
+Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
 Next:
 
@@ -304,7 +304,7 @@ Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox s
 
 Links:
 
-[1] https://chromestatus.com/guide/editall/6543819626643456
+[1] https://github.com/web-platform-tests/wpt/pull/60490
 
 [2] https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
 
