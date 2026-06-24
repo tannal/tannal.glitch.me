@@ -280,7 +280,9 @@ Tasks:
 
 The pr for core-aam link element role mapping wpt tests merged [1]
 
-Working on mathml-aam for mathml a element, add role mapping tests [2]
+Created an issue about javascript: url navigation and execution in mathml anchor element [2]
+
+Created a CL for dropping the javascript: url handler support in chromium [3]
 
 Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [3]
 
@@ -308,9 +310,9 @@ Links:
 
 [1] https://github.com/web-platform-tests/wpt/pull/60490
 
-[2] https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE
+[2] https://github.com/w3c/mathml-core/issues/333
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/7956538
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
 [4] https://chromium-review.googlesource.com/c/chromium/src/+/7940188?tab=comments
 
