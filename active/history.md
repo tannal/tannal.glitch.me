@@ -1,4 +1,294 @@
 
+# 2026-06-25
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Participants | Chinese Web | Interest Groups | Discover W3C groups | W3C
+https://www.w3.org/groups/ig/chinese-web/participants/
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Google is rewriting HarfBuzz and FreeType in Rust : r/rust
+https://www.reddit.com/r/rust/comments/1e0dfj6/google_is_rewriting_harfbuzz_and_freetype_in_rust/
+
+Secure Rust Font Stack - Chrome Platform Status
+https://chromestatus.com/feature/5717358869217280
+
+Re: [w3c/mathml-core] Should <a> element navigate to javascript:-URLs when clicking ? (Issue #333) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVlhzRFprTNJLFHvsMXQDcJM
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333#issuecomment-4788560900
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4767755320
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490#event-27059755971
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/changes
+
+Windows 11 企业版 | Microsoft 评估中心
+https://www.microsoft.com/zh-cn/evalcenter/download-windows-11-enterprise
+
+Igalia Chat [3] | Cafe < Social
+https://chat.igalia.com/#/room/#social-cafe:igalia.com
+
+Browsers and Client-side Web Technologies | Igalia - Open Source Consulting and Development
+https://www.igalia.com/technology/browsers
+
+MathMLElement: attributeStyleMap property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLElement/attributeStyleMap
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188
+
+Igalia Meetings
+https://meetings.igalia.com/?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJqaXRzaS13ZWIiLCJpc3MiOiJqaXRzaS13ZWIiLCJzdWIiOiJtZWV0aW5ncy5pZ2FsaWEuY29tIiwicm9vbSI6InRlc3QiLCJpYXQiOjE3ODIwOTY3NDMsIm5iZiI6MTc4MjA5Njc0MywiZXhwIjoxNzgyMTA3NTQzLCJjb250ZXh0Ijp7InVzZXIiOnsiaWQiOiJhYTFlYzM5Yy1lZGQxLTQwYTktODk3Zi1mNjMwYmNhZDdhYTciLCJuYW1lIjoiTWVuZyBUYW4iLCJlbWFpbCI6Im10YW5AaWdhbGlhLmNvbSIsImxvYmJ5X2J5cGFzcyI6dHJ1ZSwic2VjdXJpdHlfYnlwYXNzIjp0cnVlfX19.6OIicQbu74a-x-UiMTFrbdnm7MOjlaJQhs2zosgXMAY#adapter=true&config.prejoinConfig.enabled=false&config.startWithVideoMuted=true
+
+收件箱 (6) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333#issuecomment-4787796248
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490#pullrequestreview-4543638438
+
+Windows 11 LTSC 2024 长期服务版本官方镜像下载：选择 IoT 物联网版还是企业版？ - 知乎
+https://zhuanlan.zhihu.com/p/17959311756
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+fix: USB portal support fixes and test coverage by Malika7188 · Pull Request #880 · tchx84/Flatseal
+https://github.com/tchx84/Flatseal/pull/880/changes
+
+Time tracking (week of Jun 22, 2026)
+https://hours.igalia.com/time/week/2026-06-28
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+(1) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=5224154149289984
+
+Chromium DevTools support checklist - Chromium DevTools support checklist (for Blink Intents)
+https://chromium.googlesource.com/devtools/devtools-frontend/+/main/docs/checklist/README.md
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188/10
+
+驱动列表
+https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=yx08xfz8
+
+Test | Igalia Meetings
+https://meetings.igalia.com/test
+
+阿诚｜AI实战 on X: "8/8 📉 最后帮你对比一下：Wise vs 真港卡 Wise 优势： ✅0 开户成本，人在内地就能办 ✅汇率好、费用透明 ✅多币种合一账户，适合自由职业者 / 出海收入 Wise 劣势： ⚠️底层是托管通道，不是你在香港线下开的独立户 ⚠️有些场景（如部分电商、签证存款证明）依然需要真港卡 我的建议： 先花 3 https://t.co/7LhHmed05X" / X
+https://x.com/byCanen/status/1996847294956949548
+
+Wise - 登录
+https://wise.com/login?autoLogout=true
+
+Guide on obtaining tax records (in English)
+https://wise.com/public-resources/assets/asia/cny/verification/tax_income_instructions.pdf
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071?tab=comments
+
+[mathml] Support Origin API for MathMLAnchorElement (7956538) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7956538/4
+
+[mathml] Support Origin API for MathMLAnchorElement (7956538) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7956538/3
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997/3
+
+[SVG] Remove SvgAnchorElementAttributes and SvgAnchorElementDownloadAttribute flags (7961182) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7961182
+
+Cherry-pick via Gerrit UI fails due to conflict, but local git-cherry-pick works.
+https://groups.google.com/g/repo-discuss/c/pnCoZziSVQ4
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188
+
+[OriginAPI] Delegate origin extraction. (7036191) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7036191
+
+[OriginAPI] Delegate origin extraction. (7036191) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7036191
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+Working with Branches
+https://www.chromium.org/developers/how-tos/get-the-code/working-with-branches/
+
+webextension: Replace EphyWebExtension with WebKitWebExtension (!1987) · Merge requests · GNOME / Epiphany · GitLab
+https://gitlab.gnome.org/GNOME/epiphany/-/merge_requests/1987
+
+igalia week 2026 - Google 搜索
+https://www.google.com/search?q=igalia+week+2026&oq=igalia+week+2026&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDM1NDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+MathML A11y Test Suite
+file:///home/tannal/tannalwork/projects/wpt/test.html
+
+Atspi.Hyperlink.get_uri
+https://docs.gtk.org/atspi2/method.Hyperlink.get_uri.html
+
+…/ax_object.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3207929/20/third_party/blink/renderer/modules/accessibility/ax_object.cc#5534
+
+…/ax_role_properties.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3207929/20/ui/accessibility/ax_role_properties.cc
+
+Fix incorrect HTML-to-ATK role mappings and create expectations files (1177398) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/1177398
+
+Tast/Tauto Ownership Report for chromium-accessibility@chromium.org - Q1 2025
+https://groups.google.com/a/chromium.org/g/chromium-accessibility/c/rUNBdgFP_aM
+
+Core Accessibility API Mappings 1.2
+https://www.w3.org/TR/core-aam-1.2/#role-map-link
+
+CSS Typed OM Level 1
+https://www.w3.org/TR/css-typed-om-1/
+
+project Houdini chrome - Google 搜索
+https://www.google.com/search?q=project+Houdini+chrome&sca_esv=f528c0fe227ae87c&sxsrf=APpeQnsm-hvbnYrKNPIfc42ojQJWrIu6rg%3A1782267635866&ei=8z47ape9NKCGxc8PzbDhiAI&biw=1850&bih=932&ved=0ahUKEwjXgtKq6J6VAxUgQ_EDHU1YGCEQ4dUDCBI&uact=5&oq=project+Houdini+chrome&gs_lp=Egxnd3Mtd2l6LXNlcnAiFnByb2plY3QgSG91ZGluaSBjaHJvbWUyBBAjGCcyBRAAGO8FMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBUjqEFDIA1jfD3ABeAGQAQCYAYwCoAGuCqoBAzItNbgBA8gBAPgBAZgCBqAC0grCAgcQIxiwAxgnwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIFEAAYgATCAgQQABgewgIGEAAYBRgewgIGEAAYCBgewgIIEAAYCBgeGAqYAwCIBgGQBgWSBwUxLjAuNaAH-xCyBwMyLTW4B8kKwgcHMC4zLjIuMcgHGoAIAQ&sclient=gws-wiz-serp
+
+Houdini - Glossary | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Houdini
+
+A Practical Overview Of CSS Houdini — Smashing Magazine
+https://www.smashingmagazine.com/2020/03/practical-overview-css-houdini/
+
+Renderer Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1r28-uhSl3w9-MhPIfgt7uQXDxPBBVzkw25tlS3b6VMM/edit?tab=t.x43hjpt0vmss#heading=h.gsd3qibwjgrp
+
+Office Hours 2026-06-05 - Google 文档
+https://docs.google.com/document/d/1uLl1NEnxYnBqZtT2M3x-W5gRIenbWHJByTCO_XmOLBQ/edit?tab=t.0
+
+SVG 1.1 Full Static Support
+https://linebender.org/resvg-test-suite/svg-support-table.html
+
+Support parsing `@font-face` (#39) · linebender/simplecss@8a29c42
+https://github.com/linebender/simplecss/commit/8a29c421a838b937db847a86b50650900658cb8c
+
+夜神月 on X: "那些中转站真能忍住不卖吗 换我来估计忍不住 每天几十个B的token消耗数得买多少钱 https://t.co/VB6kFd5glq" / X
+https://x.com/Yeeshenyuee/status/2069363543351382335
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+…/TestExpectations · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7920328/5/third_party/blink/web_tests/TestExpectations
+
+LibreOffice
+https://github.com/libreoffice
+
+cui a11y: Set a11y names for icons in HangulHanjaConversionDialog (207097) · Gerrit Code Review
+https://gerrit.libreoffice.org/c/core/+/207097
+
+math_fraction_layout_algorithm.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/layout/mathml/math_fraction_layout_algorithm.cc;l=1?q=third_party%2Fblink%2Frenderer%2Fcore%2Flayout%2Fmathml%2Fmath_fraction_layout_algorithm.cc&sq=
+
+…/editing_utilities.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7617189/7/third_party/blink/renderer/core/editing/editing_utilities.cc
+
+⚙ D216670 Bug 1908069 - Add border/padding/margin support to <mfrac>. r=emilio
+https://phabricator.services.mozilla.com/D216670
+
+Ink ascent/descent · Issue #78 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/78
+
+ink-metrics/index.tex at master · mathml-refresh/ink-metrics
+https://github.com/mathml-refresh/ink-metrics/blob/master/index.tex#L53
+
+Plunker - MathML Font Test
+https://plnkr.co/edit/gKxHewLI31EXYg7l?preview
+
+Native MathML rendering problems · Issue #229 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/229
+
+MicrosoftDocs/typography-issues
+https://github.com/MicrosoftDocs/typography-issues/
+
+UnicodeMathML Playground
+https://murrayiii.github.io/UnicodeMathML/playground/
+
+⚙ D216684 Bug 1908069 - Extend and tweak MathML padding/border/margin tests. r=emilio
+https://phabricator.services.mozilla.com/D216684
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+Join the Zed Team
+https://zed.dev/jobs
+
+tc39 joyee cheung - Google 搜索
+https://www.google.com/search?q=tc39+joyee+cheung&oq=tc39+joyee+cheung&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQ4MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Joyee Cheung - Igalia | LinkedIn
+https://es.linkedin.com/in/joyeecheungzqy
+
+JoyeeCheung-EvolvingTheNodejsModuleLoader.pdf
+https://www.igalia.com/downloads/slides/JoyeeCheung-EvolvingTheNodejsModuleLoader.pdf
+
+Announcing the 2019 second cycle Google Open Source Peer Bonus winners | Google Open Source Blog
+https://opensource.googleblog.com/2020/01/announcing-2019-second-cycle-google.html
+
+Google Open Source Blog: 2026
+https://opensource.googleblog.com/2026/
+
+Spec Overview | HTML-in-Canvas
+https://html-in-canvas.dev/docs/overview/
+
+(1) X
+https://x.com/victorhan2012/article/2063173655258165355
+
+梭哈.AI on X: "X创作者收益提现—Wise出金实测 Wise开户门槛低，大部分朋友都是用Wise收老马的创作者工资的吧？还可以直接提到支付宝/银行卡 下面先上最简单步骤： 1. Wise到账后，首页直接点【汇款】 2. 添加收款人： • 货币选 CNY • 收款人类型：我自己 • 接收方式：支付宝 3. https://t.co/09h1HY6GMQ" / X
+https://x.com/SUOHA_AI/status/2069263839099498836
+
+cathiechen
+https://github.com/cathiechen
+
+cathiechen - Google 搜索
+https://www.google.com/search?q=cathiechen&oq=cathiechen&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPdIBBzg2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tinkering with Node.js Core on ARM64 Windows | Joyee Cheung's Blog
+https://joyeecheung.github.io/blog/2026/01/31/tinkering-with-nodejs-core-on-arm64-windows/
+
+uv installs x86_64 Python on arm64 Windows · Issue #12906 · astral-sh/uv
+https://github.com/astral-sh/uv/issues/12906
+
 # 2026-06-23
 
 Commits · web-platform-tests/wpt
