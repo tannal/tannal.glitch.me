@@ -1,6 +1,15 @@
 # 2026-06-25
 
 
+Unix / Bell Labs（贝尔实验室）流派
+Self / Smalltalk / HotSpot JVM / V8 / Dart 流派
+LuaJIT 流派
+Lisp / Scheme / Earth 流派
+GCC / Open64 流派
+UIUC / LLVM 流派
+PyPy / RPython 流派
+Microsoft .NET / CLR 流派
+
 Graphics 团队
 Multimedia 团队
 Embedded / WPE WebKit 团队
