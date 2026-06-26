@@ -1,3 +1,15 @@
+# 2026-06-25
+
+
+Graphics 团队
+Multimedia 团队
+Embedded / WPE WebKit 团队
+
+CE project = Compilers & Engines 团队承接的（商业）项目。
+
+Web project = Web 平台/渲染引擎团队（负责 Blink/WebKit 布局、MathML、CSS 等）承接的项目。
+
+Graphics project = 图形学团队（负责 Mesa、Vulkan、GPU 驱动等）承接的项目。
 
 # 2026-06-24
 
@@ -8,12 +20,22 @@ web platform team 37
 
 JavaScriptCore team 28
 Multimedia team
+https://blogs.igalia.com/vjaquez/igalia-multimedia-achievements-2024/
+
 a11y tools team
 compiler and PL team
+https://blogs.igalia.com/compilers/2026/02/06/igalia-s-compilers-team-a-2025-retrospective/
+
 virtualization and cloud team
 embedded linux and device driver team
+
+webkit team
+https://planet.igalia.com/webkit/
+
 graphics team
-linux kernel team
+https://blogs.igalia.com/javed/igalia-s-latest-contributions-to-graphics/
+linux kernel team 
+https://www.igalia.com/2026/01/30/Igalia-Kernel-Team-2025-Achievements-A-Retrospective.html
 
 All team 180
 
