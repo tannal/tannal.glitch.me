@@ -4,6 +4,290 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893
 
+Igalia Chat [3] | Igalia WebAssembly
+https://chat.igalia.com/#/room/#webassembly:igalia.com
+
+WebAssembly Team Organization 2022 - HedgeDoc
+https://notes.igalia.com/7nYBzQ7JTRmSoc8iyKj2TQ?view
+
+Shopify Project Workspace - HedgeDoc
+https://notes.igalia.com/xQ5H5RmLQzy2VMIY53yIkw#1-July-Update
+
+WebAssembly Subteam Weekly – 2024-04-18 - HedgeDoc
+https://notes.igalia.com/yjO_AjiGQSiOFk0KuBINig?view
+
+dy/jz: Plain JS to WASM compiler
+https://github.com/dy/jz
+
+401 Unauthorized
+https://intranet.igalia.com/wiki/bin/view/Employee/JavaScriptCoreRoadMap
+
+Browsers and Client-side Web Technologies | Igalia - Open Source Consulting and Development
+https://www.igalia.com/technology/browsers
+
+Maíra Canal | January Update: Finishing my Igalia CE
+https://mairacanal.github.io/january-update-finishing-my-igalia-ce/
+
+Fine. What Is the Web?
+https://bkardell.com/blog/FWIW.html
+
+The Day I Learned That “Remove” Doesn’t Mean Remove – Malika's Blog
+https://blogs.gnome.org/malika/2026/06/25/when-remove-doesnt-mean-remove-lessons-from-contributing-to-flatseal/
+
+[css-color] updated computed value tests by romainmenke · Pull Request #60620 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60620
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188/10
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-msqrt
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+Ink ascent/descent · Issue #78 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/78#issuecomment-524317070
+
+mathml-refresh/ink-metrics: Test for ink metrics
+https://github.com/mathml-refresh/ink-metrics
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-line-ascent
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-math-script-level-property
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+Ink ascent/descent · Issue #78 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/78
+
+Padding/border/margin on mfrac
+http://wpt.live/mathml/relations/css-styling/padding-border-margin/padding-border-margin-007.html
+
+⚙ D216684 Bug 1908069 - Extend and tweak MathML padding/border/margin tests. r=emilio
+https://phabricator.services.mozilla.com/D216684
+
+rELM4131f523d2e3
+https://phabricator.services.mozilla.com/rELM4131f523d2e3027720b2b3bfe3688ffbb35edf85#change-NsC5eLFCDOt6
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=all&first_page_size=50&show=eyJpaWQiOiIxOSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjoxODA5NH0%3D
+
+IGT - Patchwork
+https://patchwork.freedesktop.org/series/112805/
+
+⚙ D193220 Bug 1863986 - wasm32 codegen 2: introduce basic wasm32 codegen support. r=jandem
+https://phabricator.services.mozilla.com/D193220
+
+Ink ascent/descent · Issue #78 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/78
+
+<semantics> - MathML | MDN
+https://developer.mozilla.org/en-US/docs/Web/MathML/Reference/Element/semantics
+
+Igalia Webmail :: Contacts
+https://webmail.igalia.com/?_task=addressbook&_source=Igalia
+
+401 Unauthorized
+https://intranet.igalia.com/wiki/bin/view/Main/MengTan
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997/8
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/5
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+…/context_menu_controller.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/3..4/third_party/blink/renderer/core/page/context_menu_controller.cc
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+[mathml] Drop javascript: link navigation for mathml anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255?tab=comments
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997?tab=checks
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+
+[mathml] Implement target and hyperlinkutils for MathML a element by chromium-wpt-export-bot · Pull Request #60892 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60892/changes
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459?tab=comments
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/3
+
+[mathml] Implement target and hyperlinkutils for MathML a element (7970997) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7970997/5
+
+texbook.pdf
+https://web.math.ucsb.edu/~bigelow/books/texbook.pdf
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Fredrik%0AFr%C3%A9d%C3%A9ric&op=translate
+
+Padding/border/margin on mfrac
+http://wpt.live/mathml/relations/css-styling/padding-border-margin/padding-border-margin-007.html
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+Document: getElementById() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+
+Time tracking (week of Jun 22, 2026)
+https://hours.igalia.com/time/week
+
+Fine. What Is the Web?
+https://bkardell.com/blog/FWIW.html
+
+AtkTable - Google 搜索
+https://www.google.com/search?q=AtkTable&oq=AtkTable&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Atspi.Accessible.get_table_iface
+https://gnome.pages.gitlab.gnome.org/at-spi2-core/libatspi/method.Accessible.get_table_iface.html
+
+Office Hours 2024-05-23 - Google 文档
+https://docs.google.com/document/d/1pepGgvIzV5qI-puXydg6hqYlFQIZj1R6i_J1GQwANx8/edit?tab=t.0
+
+lapce/lapce: Lightning-fast and Powerful Code Editor written in Rust
+https://github.com/lapce/lapce
+
+spiderman beyond the spider verse - Google 搜索
+https://www.google.com/search?q=spiderman+beyond+the+spider+verse&sca_esv=1a28dc1a6e7e6465&sxsrf=APpeQnuzwtnfRD4siESzxY-KXoG0nOvDaw%3A1782385624324&ei=2As9avqhE-OJ7NYP0fGM0Aw&biw=1850&bih=932&gs_ssp=eJzj4tVP1zc0LExKTinLsjQyYPRSLC7ITEktyk3MU0hKrczPS1EoyUhVgAgqlKUWFacCAKTJEXE&oq=spiderman+be&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHNwaWRlcm1hbiBiZSoCCAAyCBAuGMsBGIAEMggQABiABBjLATIKEAAYgAQYywEYCjIKEAAYgAQYywEYCjIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIKEC4YywEYgAQYCjIKEC4YgAQYywEYCjIKEAAYgAQYywEYCjIXEC4YywEYgAQYlwUY3AQY3gQY4ATYAQFIkShQ8w9Y7xpwAngBkAEAmAHMAqAB9Q2qAQUyLTIuNLgBA8gBAPgBAZgCB6ACzRbCAgoQABhHGNYEGLADwgIKEC4YgAQYigUYJ8ICFxAuGIAEGIoFGJcFGNwEGN4EGOAE2AEBwgIIEC4YgAQYywGYAwCIBgGQBgq6BgYIARABGBSSBwsyLjAuMS4zLjctMaAHgFGyBwUyLTEuM7gH2wnCBwcwLjIuNC4xyAchgAgB&sclient=gws-wiz-serp
+
+CSS Typed OM Level 1
+https://www.w3.org/TR/css-typed-om-1/#dom-elementcssinlinestyle-attributestylemap
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+news.ycombinator.com/item?id=23825851
+https://news.ycombinator.com/item?id=23825851
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333#issuecomment-4791897454
+
+HTML Standard
+https://html.spec.whatwg.org/#dom-navigation-navigate
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#following-hyperlinks
+
+v3dv: drop legacy CPU queue fallback paths (!42087) · Merge requests · Mesa / mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/42087/diffs
+
+Work items · mesa · GitLab
+https://gitlab.freedesktop.org/mesa/mesa/-/work_items
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+sanitizer/explainer.md at master · otherdaniel/sanitizer
+https://github.com/otherdaniel/sanitizer/blob/master/explainer.md
+
+xanlpz (Xan López)
+https://github.com/xanlpz
+
+Alex Bradbury - Google 搜索
+https://www.google.com/search?q=Alex+Bradbury&oq=Alex+Bradbury&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBBzMxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+JavaScriptCore, the WebKit JS implementation — wingolog
+https://wingolog.org/archives/2011/10/28/javascriptcore-the-webkit-js-implementation
+
+Home / X
+https://x.com/home
+
+The art of writing interpreters in Wasm | Dmitry Bezhetskov
+https://dbezhetskov.dev/the-art-of-wasm-interpreters/
+
+People you know following Ioanna M. Dimitriou H. (@ioa_27) / X
+https://x.com/ioa_27/followers_you_follow
+
+Five years of JavaScript on WebAssembly
+https://blogs.igalia.com/compilers/2026/05/25/five-years-of-javascript-on-webassembly/
+
+bytecodealliance/javy: JS to WebAssembly toolchain
+https://github.com/bytecodealliance/javy
+
+Tracking issue: custom CA certificate support · Issue #58990 · nodejs/node
+https://github.com/nodejs/node/issues/58990
+
+Planet Igalia WebKit
+https://planet.igalia.com/webkit/
+
+Automated accessibility testing. I think it’s fair to say that every… | by Alexander Surkov | Medium
+https://alexsurkov.medium.com/automated-accessibility-testing-fbb902a3ec5e
+
+Igalia Kernel Team 2025 Achievements: A Retrospective | Igalia
+https://www.igalia.com/2026/01/30/Igalia-Kernel-Team-2025-Achievements-A-Retrospective.html
+
+zsun – Ziran Sun’s blog
+https://blogs.igalia.com/zsun/author/zsun/
+
+Igalia Multimedia achievements (2024)
+https://blogs.igalia.com/vjaquez/igalia-multimedia-achievements-2024/
+
+Igalia’s Compilers Team - A 2025 Retrospective
+https://blogs.igalia.com/compilers/2026/02/06/igalia-s-compilers-team-a-2025-retrospective/
+
+jessealama/thales: TypeScript compiler and JavaScript engine in Lean
+https://github.com/jessealama/thales
+
+Planet Igalia
+https://planet.igalia.com/
+
+Jigsaw github - Google 搜索
+https://www.google.com/search?q=Jigsaw+github&sca_esv=d7408f7a5cac542e&sxsrf=APpeQnsxJJ83jj1bP-DdNnfqsrW5sn5lXA%3A1782443950998&ei=ru89aoPBPOHri-gPoLvrqQ0&biw=1850&bih=932&ved=0ahUKEwiD0J-U-aOVAxXh9QIHHaDdOtUQ4dUDCBA&uact=5&oq=Jigsaw+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUppZ3NhdyBnaXRodWIyCBAAGIAEGMsBMgQQABgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYBRgeMgYQABgFGB4yCBAAGAUYHhgKSLATUNEFWLIScAJ4AZABAJgBvgKgAfgNqgEFMi00LjK4AQPIAQD4AQGYAgigArkOwgIKEAAYRxjWBBiwA8ICCBAuGIAEGMsBwgIIEC4YywEYgATCAg4QLhiABBjLARjHARivAZgDAIgGAZAGCpIHBzIuMC4zLjOgB_wbsgcFMi0zLjO4B6YOwgcHMC4xLjUuMsgHMoAIAQ&sclient=gws-wiz-serp
+
+Igalia
+https://github.com/igalia
+
+Home / X
+https://x.com/home
+
+Coffee Compiler Club, 2026_06_19 - YouTube
+https://www.youtube.com/watch?v=I8bk2mYWhSo
+
+WebAssembly (Wasm) compilation
+https://dart.dev/web/wasm
+
+Lars Bak 2026 - Google 搜索
+https://www.google.com/search?q=Lars+Bak+2026&sca_esv=bbe4f23c1aa5532d&sxsrf=APpeQnuon_ckcMRFrC_cFig_I1fg-fFs-A:1782449693593&ei=HQY-aqnqI-GNxc8PntrIcQ&start=10&sa=N&sstk=AU9db-A_ERbxzf0iisLdTttt8gTUxdqJFCaIg-InfXCCrtqpoc4Xv37El0FT90hOZZtpSKsVkqHW1ofSPXEVuU5zWSMPSd1TCX_F0w&ved=2ahUKEwjp7MPGjqSVAxXhRvEDHR4tMg4Q8tMDegQIJhAG&biw=1850&bih=932&dpr=1
+
+Home / X
+https://x.com/home
+
+# 2026-06-25
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
 Participants | Chinese Web | Interest Groups | Discover W3C groups | W3C
 https://www.w3.org/groups/ig/chinese-web/participants/
 
