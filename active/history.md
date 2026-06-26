@@ -4,6 +4,132 @@
 2026-05-08起 - Google Gemini
 https://gemini.google.com/app/080bc184f6bfd893
 
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+《2026年马克思主义原理及新中特期末考试复习深度报告》 - Google 文档
+https://docs.google.com/document/d/19bVczyytMxrSZWH-yICLfMCMheHaYvfnyrrTZ2dNbh0/edit?tab=t.0#heading=h.nh4d2nsa4kbf
+
+exam - NotebookLM
+https://notebooklm.google.com/notebook/1a816fd4-8085-4ed9-a916-af989fb12ade?pli=1
+
+2026年马克思主义原理及新中特期末考试深度复习全指南 - Google 文档
+https://docs.google.com/document/d/1ORt65Pi5iTNKihsulF34dIlDFVaRJ78wturLtGg1zMg/edit?tab=t.0#heading=h.6rjhp18em43j
+
+2026年马克思主义原理及新中特期末考试深度复习全指南
+file:///C:/Users/tannal/Downloads/2026%E5%B9%B4%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86%E5%8F%8A%E6%96%B0%E4%B8%AD%E7%89%B9%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%B7%B1%E5%BA%A6%E5%A4%8D%E4%B9%A0%E5%85%A8%E6%8C%87%E5%8D%97.pdf
+
+Index of /
+http://192.168.100.100:8082/
+
+sou1118/typdiff: A diff tool for Typst documents, similar to latexdiff for LaTeX
+https://github.com/sou1118/typdiff
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+Commit search results
+https://github.com/search?q=repo%3Alilaq-project%2Flilaq+0c39c82a376f80c1352b0f9442415114c6b80b41&type=commits
+
+codly – Typst Universe
+https://typst.app/universe/package/codly/
+
+Path - Typst Documentation
+https://typst.app/docs/reference/foundations/path/#constructor-path
+
+pillar – Typst Universe
+https://typst.app/universe/package/pillar/
+
+tiptoe – Typst Universe
+https://typst.app/universe/package/tiptoe/
+
+typst slides github - Google 搜索
+https://www.google.com/search?q=typst+slides+github&sca_esv=efe3fea331ef71db&sxsrf=APpeQntO8HSHBc8bDfs18Rl4MikzvwrCmA%3A1782273227697&ei=y1Q7arKJKtqD0PEP0p2F4AE&ved=0ahUKEwjymoSV_Z6VAxXaATQIHdJOARwQ4dUDCBI&uact=5&oq=typst+slides+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3R5cHN0IHNsaWRlcyBnaXRodWIyBxAhGAoYoAFIqQtQ9AJY_glwAXgAkAEAmAHuA6AB8w6qAQkwLjIuMy4xLjG4AQPIAQD4AQGYAgegAr4NwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAgYHsICCBAAGIAEGKIEwgIFEAAY7wXCAgUQIRigAZgDAIgGAZAGCpIHCTEuMS4zLjEuMaAHgQ2yBwkwLjEuMy4xLjG4B7oNwgcFNC4xLjLIBwyACAE&sclient=gws-wiz-serp
+
+How can I set the font properties of text within a table? - Questions - Typst Forum
+https://forum.typst.app/t/how-can-i-set-the-font-properties-of-text-within-a-table/4703/6
+
+Claude
+https://claude.ai/restricted
+
+2026 中转站 测评 - Google 搜索
+https://www.google.com/search?q=2026+%E4%B8%AD%E8%BD%AC%E7%AB%99+%E6%B5%8B%E8%AF%84&sca_esv=e56c24e2dda41652&sxsrf=APpeQnvTylKObpL2mecSSogUGbuGFDgd5g%3A1782276260956&source=hp&ei=pGA7avOyON_BkPIPjt7w8Q0&iflsig=ABILxe8AAAAAajtutErx77u15zBk8SPc6djF29qAJ9KD&ved=0ahUKEwjzlLK7iJ-VAxXfIEQIHQ4vPN4Q4dUDCDc&uact=5&oq=2026+%E4%B8%AD%E8%BD%AC%E7%AB%99+%E6%B5%8B%E8%AF%84&gs_lp=Egdnd3Mtd2l6IhUyMDI2IOS4rei9rOermSDmtYvor4QyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wUyCBAAGIAEGKIESIctUP8IWOQrcAF4AJABAJgBmAOgAbceqgEIMi0xNi4wLjG4AQPIAQD4AQGYAhKgAu4eqAIKwgIHECMY6gIYJ8ICBBAjGCfCAgUQABiABMICBRAuGIAEwgIKEC4YgAQYigUYQ8ICChAAGIAEGIoFGEPCAggQABiABBjLAcICBxAAGIAEGAzCAgcQIRgKGKABwgIFECEYoAGYAwXiAwUSATEgQPEFSHFsXYwtJwmSBwoxLjAuMTYuMC4xoAfCOLIHCDItMTYuMC4xuAfpHsIHBjUuMTEuMsgHHoAIAQ&sclient=gws-wiz
+
+Code search results
+https://github.com/search?q=repo%3AAccessKit%2Faccesskit%20hypertext&type=code
+
+硕士马原政治理论期末备考资料概述
+http://192.168.100.100:8083/test.html
+
+硕士马原政治理论期末备考资料概述
+file:///C:/Users/tannal/Downloads/%E7%A1%95%E5%A3%AB%E9%A9%AC%E5%8E%9F%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E6%9C%9F%E6%9C%AB%E5%A4%87%E8%80%83%E8%B5%84%E6%96%99%E6%A6%82%E8%BF%B0.pdf
+
+Wise如何汇款到银联，微信和支付宝 - 知乎
+https://zhuanlan.zhihu.com/p/680335496
+
+海外汇款回中国：六大渠道横评，选对工具每次多到账几百块 - 知乎
+https://zhuanlan.zhihu.com/p/2008494516982785253
+
+您的汇款金额是多少？｜汇款｜Wise：在线汇款｜国际银行功能
+https://wise.com/send#/calculator?contact=7bbbace8-62d6-4ae1-0009-025cd479702e&recentContact=true
+
+wise 万里汇 对比 - Google 搜索
+https://www.google.com/search?q=wise+%E4%B8%87%E9%87%8C%E6%B1%87+%E5%AF%B9%E6%AF%94&sca_esv=77ebc296dfa2e1d1&sxsrf=APpeQnslG-7DiRkTYkGpRyl3kBpra1O0yQ%3A1782287925928&ei=NY47at6eON6_0PEP6MK_8QU&ved=0ahUKEwiejdn1s5-VAxXeHzQIHWjhL14Q4dUDCBI&uact=5&oq=wise+%E4%B8%87%E9%87%8C%E6%B1%87+%E5%AF%B9%E6%AF%94&gs_lp=Egxnd3Mtd2l6LXNlcnAiFXdpc2Ug5LiH6YeM5rGHIOWvueavlDIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBTIFEAAY7wVIyQ1QpgVYmAxwAXgAkAEAmAH5A6ABuw-qAQkyLTMuMi4wLjG4AQPIAQD4AQGYAgagAtkNwgIKEAAYRxjWBBiwA8ICBRAhGKABmAMAiAYBkAYKkgcJMS4wLjIuMi4xoAedDLIHBzItMi4yLjG4B9UNwgcDMC42yAcKgAgB&sclient=gws-wiz-serp
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+最后的战役-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=94533692&keyword=%E6%9C%80%E5%90%8E%E7%9A%84%E6%88%98%E5%BD%B9&from_source=webhistory_search&spm_id_from=333.1007&search_source=3
+
+【4K修复】周杰伦《暗号》！神曲必须得到修复！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1um4y197SY?spm_id_from=333.788.player.player_end_recommend_autoplay&trackid=web_related_0.router-related-2589621-btjjl.1782294533494.597
+
+Example code for rendering Metal graphics inside Flutter Texture Widget (macOS & iOS, Swift) : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/10yqpgj/example_code_for_rendering_metal_graphics_inside/
+
+Sakari369/FlutterMetalCubeTextureWidget
+https://github.com/Sakari369/FlutterMetalCubeTextureWidget
+
+‪@Tsoding‬ on how to survive as a programmer in the age of AI - YouTube
+https://www.youtube.com/watch?v=U9dKu7bi9Ik
+
+hectorbennett/rust-wasm-image-editor: Browser based pixel editor
+https://github.com/hectorbennett/rust-wasm-image-editor
+
+orca-app/orca: A Wasm environment for cross-platform, sandboxed graphical applications.
+https://github.com/orca-app/orca
+
+news.ycombinator.com/item?id=48456659
+https://news.ycombinator.com/item?id=48456659
+
+chinese-buy-us-stock-guide/06-美股指南（六）加密入金.md at main · zgwl/chinese-buy-us-stock-guide
+https://github.com/zgwl/chinese-buy-us-stock-guide/blob/main/06-%E7%BE%8E%E8%82%A1%E6%8C%87%E5%8D%97%EF%BC%88%E5%85%AD%EF%BC%89%E5%8A%A0%E5%AF%86%E5%85%A5%E9%87%91.md
+
+海外收入 wise 支付宝 - Google 搜索
+https://www.google.com/search?q=%E6%B5%B7%E5%A4%96%E6%94%B6%E5%85%A5+wise+%E6%94%AF%E4%BB%98%E5%AE%9D&oq=%E6%B5%B7%E5%A4%96%E6%94%B6%E5%85%A5+wise+%E6%94%AF%E4%BB%98%E5%AE%9D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCDc1ODRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+X - 包罗万象的应用 / X
+https://x.com/i/jf/onboarding/web/sso?mode=sso&input_flow_data=eyJpZF90b2tlbiI6ImV5SmhiR2NpT2lKU1V6STFOaUlzSW10cFpDSTZJbVF4TWprM09HSmhOR015T1dWbU1URTFOR0V6TkdVME9EY3dZemRoTTJFMU1XUXlObVJtTVRBaUxDSjBlWEFpT2lKS1YxUWlmUS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyRmpZMjkxYm5SekxtZHZiMmRzWlM1amIyMGlMQ0poZW5BaU9pSTBPVFl5TlRBMU1qQTBNUzFyWjNRd2FHZG9aalEwTld4dFkyMW9hV3AyTkRaaU56RTFiVEp0Y0dKamRDNWhjSEJ6TG1kdmIyZHNaWFZ6WlhKamIyNTBaVzUwTG1OdmJTSXNJbUYxWkNJNklqUTVOakkxTURVeU1EUXhMV3RuZERCb1oyaG1ORFExYkcxamJXaHBhblkwTm1JM01UVnRNbTF3WW1OMExtRndjSE11WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dElpd2ljM1ZpSWpvaU1UQXlOVEkxTVRBeE16ZzNOek13TnpjMk16ZzFJaXdpWlcxaGFXd2lPaUowWVc1dVlXd3lOREE1UUdkdFlXbHNMbU52YlNJc0ltVnRZV2xzWDNabGNtbG1hV1ZrSWpwMGNuVmxMQ0p1YjI1alpTSTZJbTV2ZEY5d2NtOTJhV1JsWkNJc0ltNWlaaUk2TVRjNE1qTXdPVFl3TXl3aWJtRnRaU0k2SWsxbGJtY2dWR0Z1SWl3aWNHbGpkSFZ5WlNJNkltaDBkSEJ6T2k4dmJHZ3pMbWR2YjJkc1pYVnpaWEpqYjI1MFpXNTBMbU52YlM5aEwwRkRaemh2WTB0d1dqQktSbG81YlZSVk4zWkhUbGxCTjJwSFpuSlpXRUZLWWtVNU5HOVphV1EzVDBabmFVSjRSMk0yYjNSVVdXODljemsyTFdNaUxDSm5hWFpsYmw5dVlXMWxJam9pVFdWdVp5SXNJbVpoYldsc2VWOXVZVzFsSWpvaVZHRnVJaXdpYVdGMElqb3hOemd5TXpBNU9UQXpMQ0psZUhBaU9qRTNPREl6TVRNMU1ETXNJbXAwYVNJNklqTTNaRGd4TUdRd1pUazVZekkwWmpNMk1UQmtNekE0WVRrNE1EVmtaVGhqT1dJNE1tWTRZMklpZlEuTi1WTEhuMU05OFdqZDBMeDNneGYwYmlqZ2dmVERUWEluVGZEOTRxcTNib2FXU3ZTa1M1UklvNUZBcEFqcEUtZ0Y3TnpwdFdYRGQtRHc4QlN2UWlwSlJXWWxTdUpBdTE3RVhUNGdER3htblg5bDIyOEZQVmE3U0xnRjZmT2hJbm0yTkhwenQxdFNwQ1MwM2tHMkZIaFl5UFA1Q1RkMHdPU2lLMUVRYzZYVVZVNVFoU1A2cEtFNW1FaG1RYW5jaEpULTJSNmdnX0lNYV8zS3ljWk9HdmhXV3pYcW15enlaN25tQWRId1ltajg0UWkzRGFNaEM5X0txSnZ2YUp2UTVvMnhTR0x0TnBFOGJZOU9nTW5KbmwwZEVqS0k0cFRFd1l0Vk5nNTlOZ0NOZGFBaF9va2I2RGFTbUlIYi1aYWJSamJxR0tySHdJemt6NzBCU240VjJtanBBIiwicHJvdmlkZXIiOiJnb29nbGUiLCJzdGF0ZSI6IjFFZnZrLWx1bnRnQlFyNkd0ZUhOUEsxalN4N0lnMlc2VE9EZkl2WVFNbG4ifQ
+
+Mu nicallen on X: "支付宝与 Wise 的结合是 2026 年最丝滑的“资金双向通道” 在 2026 年，支付宝（国际版/TourCard）与 Wise 的配合已不再是单纯的支付手段，它构成了一个Global Mobility（全球流动性）的微型闭环。无论是将海外资金通过 Wise 汇入国内支付宝，还是将 Wise" / X
+https://x.com/Municalleneae/status/2055034569309741124
+
+Mu nicallen on X: "2026年 5 月，Wise（前 TransferWise）迎来历史性巨变。官方已正式、全面放开中国大陆用户使用“居民身份证”进行合规验证与开户，且开立美元账户时**无需像以前一样死死卡在“地址证明”**上。 这标志着 Wise 彻底告别了过去大陆用户必须依赖护照、甚至被迫去拼凑虚假境外地址的“高危草莽时代”。 https://t.co/pGnSII7FpJ" / X
+https://x.com/Municalleneae/status/2056514402866839956
+
+X. It’s what’s happening / X
+https://x.com/
+
+Scoop - Apps (tencent)
+https://scoop.sh/#/apps?p=1&q=tencent
+
+ScoopBucket/bucket/Tencent-Meeting.json at master · BrokeThink/ScoopBucket
+https://github.com/BrokeThink/ScoopBucket/blob/master/bucket/Tencent-Meeting.json
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
 Igalia Chat [3] | Igalia WebAssembly
 https://chat.igalia.com/#/room/#webassembly:igalia.com
 
