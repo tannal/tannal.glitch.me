@@ -2,7 +2,18 @@
 # 2026-06-24
 
 web platform team 37
+3 - woilic
+7 - servo
 
+
+JavaScriptCore team 28
+Multimedia team
+a11y tools team
+compiler and PL team
+virtualization and cloud team
+embedded linux and device driver team
+graphics team
+linux kernel team
 
 All team 180
 
