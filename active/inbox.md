@@ -1,6 +1,58 @@
 
 # 2026-06-27
 
+[Weekly report 5]
+
+Worked hours: 26h:30min
+
+Tasks:
+
+The pr for core-aam link element role mapping wpt tests merged [1]
+
+Created an issue about javascript: url navigation and execution in mathml anchor element [2]
+
+Created a CL for dropping the javascript: url handler support in chromium [3]
+
+Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
+
+Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
+
+Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
+
+Raised disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7]
+
+Next:
+
+Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
+
+Working on include HyperlinkElementUtils mixin in SVGAElement [9]
+
+Working on MathMLAnchorElement idl support in firefox
+
+Follow the discussion about MathML a element aam a11y mapping [10]
+
+Links:
+
+[1] https://github.com/web-platform-tests/wpt/pull/60490
+
+[2] https://github.com/w3c/mathml-core/issues/333
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
+
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
+
+[7] 
+
+[8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+
+[9] https://issues.chromium.org/u/1/issues/512726601
+
+[10] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
 ```
 # 1. 物理抹除真机注册表里唯一的腾讯牛皮癣痕迹
 Remove-Item -Path "HKCU:\Software\Tencent" -Recurse -Force -ErrorAction SilentlyContinue
@@ -341,7 +393,7 @@ CPU (大脑)	AMD Ryzen 9 7950X (散片)	2300 - 2500【绝对核心】 16大核32
 
 [Weekly report 4]
 
-Worked hours: 22h:30min
+Worked hours: 26h:30min
 
 Tasks:
 
@@ -351,27 +403,23 @@ Created an issue about javascript: url navigation and execution in mathml anchor
 
 Created a CL for dropping the javascript: url handler support in chromium [3]
 
-Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [3]
+Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
 
-Reading project houdini and typed-cssom mdn pages, adding more tests for attributeStyleMap in wpt tests.
+Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
+Raised disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7]
+
 Next:
 
-Adding more tests for attributeStyleMap in wpt tests.
+Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
 
-Working on the a11y mapping for core-aam, html-aam and mathml a element, maybe doing followup pr of [4]
-
-Working on include HyperlinkElementUtils mixin in SVGAElement [5]
-
-Try to solve Aham font loading issue in the test of mathml anchor element CL
+Working on include HyperlinkElementUtils mixin in SVGAElement [9]
 
 Working on MathMLAnchorElement idl support in firefox
 
-Follow the discussion about MathML a element aam a11y mapping [9]
-
-Raising disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7] [8]
+Follow the discussion about MathML a element aam a11y mapping [10]
 
 Links:
 
@@ -381,17 +429,19 @@ Links:
 
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/7940188?tab=comments
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8011647
 
-[5] https://issues.chromium.org/u/1/issues/512726601
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
 
-[6] https://chromium-review.googlesource.com/c/chromium/src/+/7970997
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
 
-[7] https://github.com/WebKit/standards-positions
+[7] 
 
-[8] https://github.com/mozilla/standards-positions
+[8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
 
-[9] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+[9] https://issues.chromium.org/u/1/issues/512726601
+
+[10] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
 
 拿到一加 Ace 5 Pro 后，你的标准操作流应该是这样的：申请深度测试：开机进系统后，去一加社区或指定入口下载“深度测试 App”，提交解锁申请。下载固件提取 Boot 镜像：在等待解锁期间，去 GitHub 或酷安一加专区，根据你的当前系统版本，直接提取 init_boot.img。注入 KernelSU / Apatch：用官方工具或面具将 KernelSU 注入到镜像中，等手机解开 BL 锁后，通过电脑一行命令 fastboot flash init_boot 刷入。尽情自动化：安装 LSPosed 框架和 Tasker，直接去停用你不需要的系统广告。如果你预算在 $3000 - 4000\text{ 元}$ 之间，想要一台能够被你完全掌控、打游戏到飞起、且充满折腾乐趣的性能怪兽，一加 Ace 5 Pro 是目前全行业绝无仅有的最优解，可以直接无脑冲。
 
