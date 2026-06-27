@@ -1,3 +1,13 @@
+
+# 2026-06-27
+
+```
+# 1. 物理抹除真机注册表里唯一的腾讯牛皮癣痕迹
+Remove-Item -Path "HKCU:\Software\Tencent" -Recurse -Force -ErrorAction SilentlyContinue
+
+# 2. 删掉真机的 Prefetch 运行缓存（可选，洁癖党必做）
+Remove-Item -Path "C:\Windows\Prefetch\WEMEET*.pf" -Force -ErrorAction SilentlyContinue
+```
 # 2026-06-25
 
 https://hours.igalia.com/reports/time
