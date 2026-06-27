@@ -397,7 +397,7 @@ Worked hours: 26h:30min
 
 Tasks:
 
-The pr for core-aam link element role mapping wpt tests merged [1]
+The pr for core-aam link element role mapping wpt tests has been merged [1]
 
 Created an issue about javascript: url navigation and execution in mathml anchor element [2]
 
