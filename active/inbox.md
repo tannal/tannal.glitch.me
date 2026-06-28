@@ -393,7 +393,7 @@ CPU (大脑)	AMD Ryzen 9 7950X (散片)	2300 - 2500【绝对核心】 16大核32
 
 [Weekly report 4]
 
-Worked hours: 26h:30min
+Worked hours: 27h:30min
 
 Tasks:
 
@@ -409,9 +409,13 @@ Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/do
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
-Raised disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7]
+Submitted a WIP CL for swapping hyperlinkElementUtils mixin in SVGAElement [7]
 
 Next:
+
+Add origin API support for svg a element
+
+Raise disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo
 
 Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
 
@@ -435,7 +439,7 @@ Links:
 
 [6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
 
-[7] 
+[7] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
 
 [8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
 
