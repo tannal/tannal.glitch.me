@@ -1,4 +1,213 @@
 
+# 2026-06-29
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element
+
+10 Years of Dart
+https://mrale.ph/talks/vmil2020/#/7
+
+Igalia Chat [4] | Mozilla MathML
+https://chat.igalia.com/#/room/#mathml:mozilla.org
+
+The Ahem Font — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/ahem.html#usage
+
+File Name Flags — web-platform-tests documentation
+https://jgraham.github.io/web-platform-tests/writing-tests/file-names.html#test-features
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#mathml-element-mappings
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Time tracking (week of Jun 22, 2026)
+https://hours.igalia.com/time/week
+
+Explain how significant or insignificant is Flutter web on WasmGC : r/FlutterDev
+https://www.reddit.com/r/FlutterDev/comments/1duygxu/explain_how_significant_or_insignificant_is/
+
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web · Issue #145954 · flutter/flutter
+https://github.com/flutter/flutter/issues/145954
+
+Comparing web-platform-tests:master...tannal:mathml-aam · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam?expand=1
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+MathMLElement: attributeStyleMap property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/MathMLElement/attributeStyleMap
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Igalia 2026 Coding Experience Open for Applications | Igalia
+https://www.igalia.com/2026/02/27/Igalia-2026-Coding-Experience-Open-for-Applications.html
+
+Rego’s Everyday Life
+https://blogs.igalia.com/mrego/page-2/
+
+Testing OS-specific accessibility APIs in WPT - can it be done?? · Issue #30 · Igalia/webengineshackfest
+https://github.com/Igalia/webengineshackfest/issues/30
+
+Servo布局系统深入解析 – GOSIM 杭州 2025
+https://hangzhou2025.gosim.org/zh/schedule/a-dive-into-the-servo-layout-system/
+
+Extraordinary WHATNOT meeting on 2026-06-17 · Issue #12441 · whatwg/html
+https://github.com/whatwg/html/issues/12441
+
+igalians.jpg (750×308)
+https://blogs.igalia.com/mrego/files/2022/10/igalians.jpg
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/
+
+web-platform-team.jpg (750×500)
+https://blogs.igalia.com/mrego/files/2022/10/web-platform-team.jpg
+
+web-platform-team.jpg (750×500)
+https://blogs.igalia.com/mrego/files/2022/10/web-platform-team.jpg
+
+Frédéric Wang Nélar · Yet another non-exponentially growing weblog
+https://frederic-wang.fr/page2/
+
+kernel/git/torvalds/linux.git - Linux kernel source tree
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Ehrenberg
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728?gate=4942679172579328
+
+[Doc Request] Add new attributes (type and hreflang) to HTMLAreaElement [528501123] - Issue Tracker
+https://issuetracker.google.com/u/1/issues/528501123
+
+2025-09-13-a-dive-into-the-servo-layout-system.pdf
+https://servo.org/files/2025-09-13-a-dive-into-the-servo-layout-system.pdf
+
+konippi/servo-fetch: A self-contained browser engine that fetches, renders, and extracts web content as Markdown, JSON, or screenshots — no Chromium, no API key, no setup.
+https://github.com/konippi/servo-fetch
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiIzNiIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyMn0%3D
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-06-28&user=344
+
+New issue - Chromium
+https://issues.chromium.org/u/1/issues/new?component=1456998&template=0
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+[mathml] Add WPT tests for attributeStyleMap on MathMLElement (8010506) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8010506
+
+SVG Accessibility API Mappings
+https://www.w3.org/TR/svg-aam-1.0/#role-map-a
+
+HTML Accessibility API Mappings 1.0
+https://www.w3.org/TR/html-aam-1.0/#html-element-role-mappings
+
+localhost:8444/mathml/relations/html5-tree/canvas-visited-privacy.https.html
+https://localhost:8444/mathml/relations/html5-tree/canvas-visited-privacy.https.html
+
+ERR_CERT_AUTHORITY_INVALID wpt test - Google 搜索
+https://www.google.com/search?q=ERR_CERT_AUTHORITY_INVALID+wpt+test&sca_esv=77a202326047b3b8&sxsrf=APpeQnsHqN0hLaRqXSFrmm8kCkBbrazbUQ%3A1782463251614&ei=Ezs-asiCJeCFxc8P9_3G-A0&biw=1850&bih=932&ved=0ahUKEwiI2L-HwaSVAxXgQvEDHfe-Ed8Q4dUDCBI&uact=5&oq=ERR_CERT_AUTHORITY_INVALID+wpt+test&gs_lp=Egxnd3Mtd2l6LXNlcnAiI0VSUl9DRVJUX0FVVEhPUklUWV9JTlZBTElEIHdwdCB0ZXN0MgUQIRigATIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI4hdQpQhY9hVwAngBkAEAmAHsAqABzxGqAQMzLTe4AQPIAQD4AQGYAgmgAogSwgIKEAAYRxjWBBiwA8ICCBAAGIAEGMsBwgIEEAAYHsICBhAAGAUYHsICCBAAGIkFGKIEwgIIEAAYgAQYogTCAgUQABjvBZgDAIgGAZAGCpIHBTIuMy03oAeAFrIHAzMtN7gH_BHCBwUwLjQuNcgHIIAIAQ&sclient=gws-wiz-serp
+
+wpt tests https - Google 搜索
+https://www.google.com/search?q=wpt+tests+https&oq=wpt+tests+https&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiiBBiJBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDYzNjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+WPT Test Certificates — web-platform-tests documentation
+https://web-platform-tests.org/tools/certs/README.html
+
+owner:abotella@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:abotella@igalia.com,25
+
+Line break opportunity override by taj-p · Pull Request #640 · linebender/parley
+https://github.com/linebender/parley/pull/640
+
+…/mathml_anchor_element.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/5/third_party/blink/renderer/core/mathml/mathml_anchor_element.idl#10
+
+Raumplanung | Configura
+https://www.configura.com/de/
+
+Issues · GraphiteEditor/Graphite
+https://github.com/GraphiteEditor/Graphite/issues
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#hyperlinkelementutils
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Vello Sparse Strips Roadmap - Google 文档
+https://docs.google.com/document/d/1ZquH-53j2OedTbgEKCJBKTh4WLE11UveM10mNdnVARY/edit?tab=t.4sx34zd77931#heading=h.cp9nhpx0158u
+
+计算机科学探索指南
+https://tannal.github.io/zh-cn/p/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%8E%A2%E7%B4%A2%E6%8C%87%E5%8D%97/
+
+DioxusLabs/dioxus: Fullstack app framework for web, desktop, and mobile.
+https://github.com/dioxuslabs/dioxus
+
+project/governance/tsc/tsc-2026-05-25.md at main · servo/project
+https://github.com/servo/project/blob/main/governance/tsc/tsc-2026-05-25.md
+
+Tweak `Spinner` by BrianCraig · Pull Request #1825 · linebender/xilem
+https://github.com/linebender/xilem/pull/1825
+
+Add privacy enforcement tests for mathml anchor element (8010987) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8010987
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601
+
+Comparing web-platform-tests:master...tannal:mathml-aam · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+
+SVG Path Expand
+https://svg-expand.vercel.app/
+
+border_shape_painter.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/paint/border_shape_painter.cc;l=181-198?q=border_shape_painter&ss=chromium
+
+Office Hours 2026-06-26 - Google 文档
+https://docs.google.com/document/d/16d9hzNdxCFQIk3B6AvYnmPjeTkKksEi8WCKlH8gwh-A/edit?tab=t.0
+
+box_tree: add per-node hit slop by waywardmonkeys · Pull Request #206 · forest-rs/understory
+https://github.com/forest-rs/understory/pull/206/changes#diff-e346736feefb2cbd52642abbdc68f1747bdaeb298fc89ff7c77f22035176c9be
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+Index of /
+http://192.168.100.104:8081/
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+MathML Core
+http://localhost:8000/spec.html#dom-mathmlanchorelement-href
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#api-for-a-and-area-elements
+
+RenderMan - Google 搜索
+https://www.google.com/search?q=RenderMan&oq=RenderMan&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 # 2026-06-25
 
 2026-05-08起 - Google Gemini
