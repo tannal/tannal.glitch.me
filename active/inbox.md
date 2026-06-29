@@ -1,4 +1,10 @@
 
+# 2026-06-29
+
+ssh buildbox4
+
+ssh mtan@macpro-intel-01.local.igalia.com -J igalia.com
+
 # 2026-06-27
 
 ```
