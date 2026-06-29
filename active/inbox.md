@@ -1,6 +1,26 @@
 
 # 2026-06-27
 
+```
+tannal@desktop:~/tannalwork/projects/chromium/src$ git map-branches --show-subject
+{NO_UPSTREAM}                         
+  css-font-feature                    Expose CSSFontFeatureValuesRule to window scope
+  layout-table                        update
+  svg-a-element-hyperlinkutils *      [svg] Swap SVGAElement to the new HyperlinkElementUtils
+origin/main                           Roll Perfetto Trace Processor Win from 372ddfb8c188 to 7f813cb4e929
+  main                                Roll Perfetto Trace Processor Win from 372ddfb8c188 to 7f813cb4e929
+  mathml-a-element-without-idl        [mathml] Initial Support for MathMLAnchorElement under MathML namespace
+    feature/mathml-anchor-element     [mathml] Support MathMLAnchorElement with extended attributes under MathML namespace
+    mathml-a-accessibility            [mathml] Map mathml a element to role link when href is specified
+    mathml-a-js-handler               [mathml] drop javascript: link navigation for mathml anchor element
+    mathml-a-origin                   [mathml] Support Origin API for MathMLAnchorElement
+      mathml-a-target                 [mathml] Implement target and hyperlinkutils for MathML a element
+        mathml-a-download             [mathml] Implement download attribute for MathML a element
+    mathml-attributeStyleMap-tests    [mathml] Add WPT tests for attributeStyleMap on MathMLElement
+    mathml-privacy                    Add privacy enforcement tests for mathml anchor element
+tannal@desktop:~/tannalwork/projects/chromium/src$ 
+```
+
 [Weekly report 5]
 
 Worked hours: 26h:30min
