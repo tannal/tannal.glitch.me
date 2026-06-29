@@ -33,7 +33,7 @@ Worked hours: 26h:30min
 
 Tasks:
 
-The pr for core-aam link element role mapping wpt tests merged [1]
+Setup and running linux build box and mac box for testing and developing [1]
 
 Created an issue about javascript: url navigation and execution in mathml anchor element [2]
 
@@ -50,6 +50,8 @@ Raised disscussions of MathMLAnchorElement and it's api in webkit and firefox st
 Next:
 
 Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
+
+Working on Origin API for firefox/webkit
 
 Working on include HyperlinkElementUtils mixin in SVGAElement [9]
 
