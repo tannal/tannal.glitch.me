@@ -1,3 +1,100 @@
+# 2026-06-30
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/slides-typst-meetup-24-lilaq/talk.pdf
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+The engineer who built Swift and LLVM sold his AI startup to Qualcomm for $4B — TFN
+https://techfundingnews.com/the-engineer-who-built-swift-and-llvm-sold-his-ai-startup-to-qualcomm-for-4b/
+
+Qualcomm is reportedly considering a Tenstorrent acquisition for up to 10 billion dollars: Jim Keller’s AI and RISC-V company in focus
+https://www.design-reuse.com/news/202530698-qualcomm-is-reportedly-considering-a-tenstorrent-acquisition-for-up-to-10-billion-dollars-jim-keller-s-ai-and-risc-v-company-in-focus/
+
+Jim Keller Says Cerebras IPO Was Helpful As Tenstorrent Set To "Beat Them on Everything", Confirms Meeting With Intel & Qualcomm CEOs "Hoping To Get A Big Deal"
+https://wccftech.com/jim-keller-cerebras-ipo-was-helpful-tenstorrent-to-beat-them-on-everything/
+
+Tenstorrent Enables AI at Scale with Industry-Leading Performance | Tenstorrent
+https://tenstorrent.com/newsroom/tenstorrent-enables-ai-at-scale-with-industry-leading-performance
+
+Tenstorrent Enables AI at Scale with Industry-Leading Performance | Tenstorrent
+https://tenstorrent.com/newsroom/tenstorrent-enables-ai-at-scale-with-industry-leading-performance
+
+TT-Deploy | Tenstorrent
+https://tenstorrent.com/newsroom/tt-deploy
+
+Tenstorrent Enables AI at Scale with Industry-Leading Performance | Tenstorrent
+https://tenstorrent.com/newsroom/tenstorrent-enables-ai-at-scale-with-industry-leading-performance
+
+Use and configure Windows Sandbox | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-configure-using-wsb-file
+
+jat001 (Jat)
+https://github.com/jat001
+
+Release Wemeet portable 2026-06-27 · tannal/wemeet-portable
+https://github.com/tannal/wemeet-portable/releases/tag/v3.43.21.403
+
+Your Repositories
+https://github.com/tannal?tab=repositories
+
+Releases · tannal/wemeet-portable
+https://github.com/tannal/wemeet-portable/releases/
+
+John Carmack on X: "I mentioned this in the Lex interview, but it is official now: Keen Technologies, my new AGI company, has raised a $20M round, led by @natfriedman and @danielgross, with @patrickc, @tobi, @sequoia, @CapitalFactory, and Jim Keller participating." / X
+https://x.com/ID_AA_Carmack/status/1560728042959507457
+
+Scoop - Apps (pixar)
+https://scoop.sh/#/apps?q=pixar&p=1
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+山风吹耳过-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=49497307&keyword=%E5%B1%B1%E9%A3%8E%E5%90%B9%E8%80%B3%E8%BF%87&from_source=websuggest_search&spm_id_from=333.1007&search_source=2
+
+《熊出没之过年》片尾曲《终会与你同行》_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1KW411t7KH/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-bzdpg.1782649496346.968
+
+《我乘着风飞过来》熊出没百人大合唱！！！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1djPzeuEyw/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2589621-48s8n.1782651474404.634
+
+超越新宇宙-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=51859318&keyword=%E8%B6%85%E8%B6%8A%E6%96%B0%E5%AE%87%E5%AE%99&from_source=web_search&spm_id_from=333.788&search_source=5
+
+《蜘蛛侠：超越宇宙》：两个迈尔斯天台对峙，身份发音一招破局！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV17fR5BrEsT/?spm_id_from=333.337.search-card.all.click
+
+我不在迷茫思念是唯一的行囊-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E6%88%91%E4%B8%8D%E5%9C%A8%E8%BF%B7%E8%8C%AB%E6%80%9D%E5%BF%B5%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E8%A1%8C%E5%9B%8A&from_source=websuggest_search&spm_id_from=333.1007&search_source=2
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+熊出没-视频-哔哩哔哩视频
+https://search.bilibili.com/all?vt=15618315&keyword=%E7%86%8A%E5%87%BA%E6%B2%A1&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+【熊出没-秋季】一小时超长连播，正好睡前看个爽_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1SaAuzAEjT/?spm_id_from=333.337.search-card.all.click
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+WSNet_Figure1_overall.svg
+file:///C:/Users/tannal/Downloads/WSNet_Figure1_overall.svg
+
+Graphite
+https://editor.graphite.art/
+
+Method Draw Vector Editor
+https://editor.method.ac/
+
+WSNet_Figure1_overall.svg [已编辑] - Boxy SVG 编辑器
+https://boxy-svg.com/app/disk:WYUd2S2ozr
 
 # 2026-06-29
 
