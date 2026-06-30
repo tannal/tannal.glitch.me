@@ -1,4 +1,10 @@
 
+# 2026-06-30
+
+https://github.com/w3c/mathml-core/issues/142
+
+--ignore-certificate-errors
+
 # 2026-06-29
 
 ssh buildbox4
