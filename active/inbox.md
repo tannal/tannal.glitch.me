@@ -1,6 +1,8 @@
 
 # 2026-06-30
 
+git config --global http.postBuffer 157286400
+
 https://github.com/w3c/mathml-core/issues/142
 
 --ignore-certificate-errors
@@ -41,7 +43,7 @@ Tasks:
 
 Setup and running linux build box and mac box for testing and developing [1]
 
-Created an issue about javascript: url navigation and execution in mathml anchor element [2]
+Raised issues for firefox and webkit about the new MathMLElement element and idl api [2] [3]
 
 Created a CL for dropping the javascript: url handler support in chromium [3]
 
@@ -69,9 +71,9 @@ Links:
 
 [1] https://github.com/web-platform-tests/wpt/pull/60490
 
-[2] https://github.com/w3c/mathml-core/issues/333
+[2] https://github.com/mozilla/standards-positions/issues/1429
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+[3] https://github.com/WebKit/standards-positions/issues/691
 
 [4] https://chromium-review.googlesource.com/c/chromium/src/+/8011647
 
