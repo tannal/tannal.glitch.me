@@ -1,6 +1,8 @@
 
 # 2026-07-01
 
+auto* union_value = MakeGarbageCollected<V8UnionStringOrTrustedScriptURL>(new_url);
+
 ./wpt run chrome mathml-aam/aamtests/role/link.py --no-headless --pause-after-test
 
 siso auth-check
