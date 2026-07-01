@@ -1,6 +1,8 @@
 
 # 2026-07-01
 
+./wpt run chrome mathml-aam/aamtests/role/link.py --no-headless --pause-after-test
+
 siso auth-check
 
 export SISO_CREDENTIAL_HELPER=gcloud
@@ -74,7 +76,7 @@ Working on include HyperlinkElementUtils mixin in SVGAElement [9]
 
 Working on MathMLAnchorElement idl support in firefox
 
-Follow the discussion about MathML a element aam a11y mapping [10]
+Fix code converge for mathml_anchor_element to at least 90% [10]
 
 Links:
 
@@ -96,7 +98,7 @@ Links:
 
 [9] https://issues.chromium.org/u/1/issues/512726601
 
-[10] https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
 
 ```
 # 1. 物理抹除真机注册表里唯一的腾讯牛皮癣痕迹
