@@ -56,7 +56,7 @@ Setup and running linux build box and mac box for testing and developing [1]
 
 Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
 
-Created a CL for dropping the javascript: url handler support in chromium [3]
+Created a draft pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
 
 Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
 
@@ -86,7 +86,7 @@ Links:
 
 [3] https://github.com/WebKit/standards-positions/issues/691
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+[4] https://github.com/web-platform-tests/wpt/pull/61018
 
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
 
