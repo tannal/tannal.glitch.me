@@ -1,3 +1,342 @@
+
+# 2026-07-01
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+mathml.css/mathml.css at gh-pages · fred-wang/mathml.css
+https://github.com/fred-wang/mathml.css/blob/gh-pages/mathml.css
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/core-aam/#role-map-math
+
+Igalia Chat [3] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+features.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/public/common/features.h;l=18;drc=da164683ced9bd6080ec24ecd05702bfae073216
+
+features.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/public/common/features.h;l=18;drc=da164683ced9bd6080ec24ecd05702bfae073216
+
+Sign in · GitLab
+https://gitlab.gnome.org/users/sign_in
+
+src/orca/ax_utilities_role.py · 440cd580b1c2ddbf140b34d68a9e5dddb6444de6 · GNOME / orca · GitLab
+https://gitlab.gnome.org/GNOME/orca/-/blob/440cd580b1c2ddbf140b34d68a9e5dddb6444de6/src/orca/ax_utilities_role.py#L1975
+
+src/orca/ax_utilities_role.py · 440cd580b1c2ddbf140b34d68a9e5dddb6444de6 · GNOME / orca · GitLab
+https://gitlab.gnome.org/GNOME/orca/-/blob/440cd580b1c2ddbf140b34d68a9e5dddb6444de6/src/orca/ax_utilities_role.py#L1975
+
+src/orca/ax_utilities_role.py · 440cd580b1c2ddbf140b34d68a9e5dddb6444de6 · GNOME / orca · GitLab
+https://gitlab.gnome.org/GNOME/orca/-/blob/440cd580b1c2ddbf140b34d68a9e5dddb6444de6/src/orca/ax_utilities_role.py#L1951
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-mroot
+
+Coverage Summary for chromium/src - 8c60b7b - //third_party/blink/renderer/core/mathml/
+https://analysis.chromium.org/coverage/p/chromium/dir?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/&platform=linux&test_suite_type=any
+
+logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8677685053681070545/+/u/clang-tidy/generate-warnings/tricium_clang_tidy_script.py/stdout?format=raw
+https://logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8677685053681070545/+/u/clang-tidy/generate-warnings/tricium_clang_tidy_script.py/stdout?format=raw
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459?tab=checks
+
+Builder search
+https://ci.chromium.org/ui/builder-search
+
+succeeded - linux-clang-tidy-rel 2221650
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-clang-tidy-rel/2221650/overview
+
+chromium | buildbucket/cr-buildbucket/8677685053681070545/+/u/clang-tidy/generate-warnings/read_tidy_output/l_debug | LogDog
+https://logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8677685053681070545/+/u/clang-tidy/generate-warnings/read_tidy_output/l_debug
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=checks
+
+succeeded - linux-clang-tidy-rel 2226798
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-clang-tidy-rel/2226798/overview
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=checks
+
+succeeded - linux-clang-tidy-rel 2221650
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-clang-tidy-rel/2221650/overview
+
+git push - How to fix Git Error "RPC failed; HTTP 400 curl 22" permanently? - Stack Overflow
+https://stackoverflow.com/questions/78866739/how-to-fix-git-error-rpc-failed-http-400-curl-22-permanently?__cf_chl_f_tk=kF.NxH2uOMfkeZT58SVpdigukRErVt1M4n4Ix4sbbQo-1782812888-1.0.1.1-rdl7r1IbJFM1m2wRuiCSGozUOEADTVUvXbfxlUN_pMU
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt/
+
+math_radical_layout_algorithm.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/layout/mathml/math_radical_layout_algorithm.cc;l=125;drc=bee8234d5637b0a1f350b68fbeb714ca47721397
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188
+
+Comparing web-platform-tests:master...tannal:mathml-aam · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Comparing web-platform-tests:master...tannal:mathml-aam · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+
+Add aam tests for link elements in core-aam by tannal · Pull Request #60490 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/60490/changes
+
+Time tracking (week of Jun 29, 2026)
+https://hours.igalia.com/time/week/2026-07-05
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+[mathml] Support Origin API for MathMLAnchorElement (7956538) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7956538
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/browsers.html#the-origin-interface
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+…/download_browsertest.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/6/content/browser/download/download_browsertest.cc
+
+features.h - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/public/common/features.h;l=18;drc=da164683ced9bd6080ec24ecd05702bfae073216
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/6
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+tannal · Gerrit Code Review
+https://chromium-review.googlesource.com/q/tannal
+
+tannal · Gerrit Code Review
+https://chromium-review.googlesource.com/q/tannal
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+<ms> - MathML | MDN
+https://developer.mozilla.org/en-US/docs/Web/MathML/Reference/Element/ms
+
+visibility CSS property - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/visibility
+
+Bug List: Origin api
+https://bugzilla.mozilla.org/buglist.cgi?quicksearch=Origin+api
+
+Introduce MathMLAnchorElement interface by lukewarlow · Pull Request #326 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/326
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Introducing the Origin API - Chrome Platform Status
+https://chromestatus.com/feature/5095541277065216
+
+RFC 6454 - The Web Origin Concept
+https://datatracker.ietf.org/doc/rfc6454/?__cf_chl_f_tk=MHwVk0PiVolPvajSpPqvhI4xWesJuDt0ddXd62bkQB0-1782812019-1.0.1.1-zLrNAtEtH5qcQV226xQz4aEgfdkwGb1XEM1ZhC1CiVs
+
+An `Origin` Object · Issue #1280 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1280
+
+lukewarlow (Luke Warlow)
+https://github.com/lukewarlow
+
+The Origin API
+https://mikewest.github.io/origin-api/#extraction-Origin
+
+Parser motivation · Issue #8 · mikewest/origin-api
+https://github.com/mikewest/origin-api/issues/8
+
+Consider some more narrow _origin_ matching mechanism? · Issue #275 · whatwg/urlpattern
+https://github.com/whatwg/urlpattern/issues/275
+
+⚙ D287026 Bug 2001139 - Implement the Origin interface, r=nika
+https://phabricator.services.mozilla.com/D287026#change-vsZZzEtFtiYl
+
+[OriginAPI] Delegate origin extraction. (7036191) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7036191
+
+Consider building an `Origin` API. [434131026] - Chromium
+https://issues.chromium.org/issues/434131026
+
+…/origin.tentative.any.js · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6786055/7/third_party/blink/web_tests/external/wpt/html/browsers/origin/origin.tentative.any.js
+
+[OriginAPI] Prototyping an `Origin` object. (6786055) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6786055
+
+WPT Test Certificates — web-platform-tests documentation
+https://web-platform-tests.org/tools/certs/README.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/2
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+Permission denied for RBE despite several re-logins and checking configuration [325928330] - Chromium
+https://issues.chromium.org/issues/325928330
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-annotation
+
+SVGAElement implements two conflicting interfaces · Issue #312 · w3c/svgwg
+https://github.com/w3c/svgwg/issues/312
+
+Linking — SVG 2
+https://svgwg.org/svg2-draft/linking.html#InterfaceSVGAElement
+
+…/runtime_enabled_features.json5 · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/2/third_party/blink/renderer/platform/runtime_enabled_features.json5
+
+Support hreflang and type for HTMLAreaElement - Chrome Platform Status
+https://chromestatus.com/feature/5070356302921728
+
+Add Julius Tens as bronze sponsor by mrego · Pull Request #323 · servo/servo.org
+https://github.com/servo/servo.org/pull/323/changes#diff-b1dfd79165a8f686f602bf901be090b72ffc479b8f12b4d58669e8869f00bd01
+
+IDL compiler: Supports [LegacyWindowAlias] in the new Web IDL database (2129786) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/2129786
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[SVG] Remove flag SvgAnchorElementRelAttributes (7027352) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7027352
+
+[SVG] Remove flag SvgAnchorElementRelAttributes (7027352) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7027352
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+Transform SVGURIReference::LegacyHrefURL() into SVGAElement::Url() (7828357) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7828357
+
+[SVG] Enforce blob URL noopener on SVG <a> navigations (7875805) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7875805?tab=comments
+
+Linking <a> · Issue #1429 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1429
+
+Issue search results
+https://github.com/search?q=involves%3Aemilio+link+repo%3Aw3c%2Fmathml-core&type=issues
+
+New MathMLAnchorElement interface for linking in MathML · Issue #691 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/691
+
+tannal (tannal)
+https://github.com/tannal
+
+收件箱 (6) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4818440802
+
+wpt/core-aam/aamtests/role/button.py at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/core-aam/aamtests/role/button.py
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-07-01&user=344
+
+tannal/tannalwork: workspace
+https://github.com/tannal/tannalwork
+
+tannal/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/tannal/wpt
+
+Pull requests · linebender/parley
+https://github.com/linebender/parley/pulls
+
+Text Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1AyWvB5LIWVCzMQMWXfhMFX7RNh5jWebvZiVMModbMiU/edit?tab=t.x43hjpt0vmss
+
+Implement `baseline` field on inline boxes by nicoburns · Pull Request #639 · linebender/parley
+https://github.com/linebender/parley/pull/639
+
+parley/fontique/src/script.rs at 8294d3e50d48e14dbd8be7982d8d4548996ef561 · linebender/parley
+https://github.com/linebender/parley/blob/8294d3e50d48e14dbd8be7982d8d4548996ef561/fontique/src/script.rs#L112
+
+LiveSplit/livesplit-core: livesplit-core is a library that provides a lot of functionality for creating a speedrun timer.
+https://github.com/LiveSplit/livesplit-core
+
+Chromium Docs - Checking out and building Chromium on Linux
+https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#Build-Chromium
+
+chromium remote build execution - Google 搜索
+https://www.google.com/search?q=chromium+remote+build+execution&sca_esv=12c5d7b316a6f56c&sxsrf=APpeQnvp369pNqOGwElY9d9Y6AT_t5K4kg:1782876014972&ei=bodEar73OuCIxc8P9a6DoAs&start=20&sa=N&sstk=AU9db-DnuRyzacD9JJckZMTLUXPWjMLPD12SePeTRLpo-WdjbCU-ctFvNj8WcEtJ360ne-ulF236fSiY1bUWAwk7m5cqMVI5fPgUuICYRQv_Ost_cqIs0rSuJozo2NTpAJ3O&ved=2ahUKEwi-5rPcwrCVAxVgRPEDHXXXALQ4ChDy0wN6BAgmEAc&biw=1850&bih=932&dpr=1
+
+Modern UI Patterns - Una Kravets - CSS Day 2026 - YouTube
+https://www.youtube.com/watch?v=8FSLsVAJj2w
+
+Testing in Chromium - Code Coverage in Chromium
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/code_coverage.md
+
+Coverage for chromium/src - //third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
+
+…/content_test_bundle_data.filelist · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6507410/29/content/test/content_test_bundle_data.filelist
+
+wpt send_keys - Google 搜索
+https://www.google.com/search?q=wpt+send_keys&oq=wpt+send_keys&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQgxMTU3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+web-platform-tests dashboard
+https://wpt.fyi/results/core-aam/aamtests/role?label=experimental&label=master&aligned
+
+Add ATK and AX API mapping for <mphantom> by fred-wang · Pull Request #20 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/pull/20
+
+Atspi.Accessible.get_table_iface
+https://gnome.pages.gitlab.gnome.org/at-spi2-core/libatspi/method.Accessible.get_table_iface.html
+
+test7.html
+file:///home/tannal/tannalwork/documents/test7.html
+
+standardized - Google 搜索
+https://www.google.com/search?q=standardized&oq=standardized&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDIxMDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459?tab=comments
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/5..6
+
 # 2026-06-30
 
 2026-05-08起 - Google Gemini
