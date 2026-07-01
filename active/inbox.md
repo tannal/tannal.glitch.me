@@ -52,7 +52,7 @@ Tasks:
 
 Setup and running linux build box and mac box for testing and developing [1]
 
-Raised issues for firefox and webkit about the new MathMLElement element and idl api [2] [3]
+Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
 
 Created a CL for dropping the javascript: url handler support in chromium [3]
 
