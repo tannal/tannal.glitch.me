@@ -66,15 +66,11 @@ Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/do
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
-Raised disscussions of MathMLAnchorElement and it's api in webkit and firefox standard positions repo [7]
+Working on include HyperlinkElementUtils mixin in SVGAElement
 
 Next:
 
 Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
-
-Working on Origin API for firefox/webkit
-
-Working on include HyperlinkElementUtils mixin in SVGAElement [9]
 
 Working on MathMLAnchorElement idl support in firefox
 
