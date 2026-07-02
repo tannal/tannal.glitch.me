@@ -1,4 +1,19 @@
 
+# 2026-07-02
+
+tannal@desktop:~/Downloads/scrcpy-linux-x86_64-v4.0$ ssh-copy-id -i ~/.ssh/id_ed25519.pub macpro
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/tannal/.ssh/id_ed25519.pub"
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+(mtan@macpro-intel-01.local.igalia.com) Password:
+
+Number of key(s) added: 1
+
+Now try logging into the machine, with:   "ssh 'macpro'"
+and check to make sure that only the key(s) you wanted were added.
+
+tannal@desktop:~/Downloads/scrcpy-linux-x86_64-v4.0$ 
+
 # 2026-07-01
 
 auto* union_value = MakeGarbageCollected<V8UnionStringOrTrustedScriptURL>(new_url);
