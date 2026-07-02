@@ -1,6 +1,9 @@
 
 # 2026-07-02
 
+./wpt run chrome mathml-aam/aamtests/attribute/mmultiscripts.py --no-headless --pause-after-test
+
+
 tannal@desktop:~/Downloads/scrcpy-linux-x86_64-v4.0$ ssh-copy-id -i ~/.ssh/id_ed25519.pub macpro
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/tannal/.ssh/id_ed25519.pub"
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
