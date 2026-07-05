@@ -1,3 +1,54 @@
+# 2026-07-05
+
+[Weekly report 6]
+
+Worked hours: 26h:30min
+
+Tasks:
+
+Setup and running linux build box and mac box for testing and developing [1]
+
+Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
+
+Created a draft pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
+
+Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
+
+Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
+
+Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
+
+Working on include HyperlinkElementUtils mixin in SVGAElement
+
+Next:
+
+Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
+
+Working on MathMLAnchorElement idl support in firefox
+
+Fix code converge for mathml_anchor_element to at least 90% [10]
+
+Links:
+
+[1] https://github.com/web-platform-tests/wpt/pull/60490
+
+[2] https://github.com/mozilla/standards-positions/issues/1429
+
+[3] https://github.com/WebKit/standards-positions/issues/691
+
+[4] https://github.com/web-platform-tests/wpt/pull/61018
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
+
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
+
+[7] 
+
+[8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+
+[9] https://issues.chromium.org/u/1/issues/512726601
+
+[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
 
 # 2026-07-02
 
@@ -68,7 +119,7 @@ tannal@desktop:~/tannalwork/projects/chromium/src$
 
 [Weekly report 5]
 
-Worked hours: 26h:30min
+Worked hours: 27h:30min
 
 Tasks:
 
@@ -76,19 +127,15 @@ Setup and running linux build box and mac box for testing and developing [1]
 
 Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
 
-Created a draft pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
-
-Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
-
-Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
-
-Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
-
-Working on include HyperlinkElementUtils mixin in SVGAElement
+Created a pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
 
 Next:
 
-Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
+Continue to working on mathml-aam web platform tests, address feedback and comments [4]
+
+Raising mathml-aam spec issues, TBD entry and nil mapping, maybe send pr to solve some of them 
+
+Working on HyperlinkElementUtils for svg a element CL, two wpt CLs, MathMLAnchorElement role mapping CL in chromium
 
 Working on MathMLAnchorElement idl support in firefox
 
@@ -108,7 +155,7 @@ Links:
 
 [6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
 
-[7] 
+[7] https://github.com/w3c/mathml-aam/issues/
 
 [8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
 
