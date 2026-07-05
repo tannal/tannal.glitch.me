@@ -119,7 +119,7 @@ tannal@desktop:~/tannalwork/projects/chromium/src$
 
 [Weekly report 5]
 
-Worked hours: 27h:30min
+Worked hours: 28h:30min
 
 Tasks:
 
@@ -129,13 +129,15 @@ Raised issues for firefox and webkit about the new MathMLAnchorElement element a
 
 Created a pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
 
+The CL for MathMLAnchorElement privacy enforcement in canvas/dom should be ready to land [5]
+
 Next:
 
 Continue to working on mathml-aam web platform tests, address feedback and comments [4]
 
 Raising mathml-aam spec issues, TBD entry and nil mapping, maybe send pr to solve some of them 
 
-Working on HyperlinkElementUtils for svg a element CL, two wpt CLs, MathMLAnchorElement role mapping CL in chromium
+Working on attributeStyleMap CL[6], HyperlinkElementUtils for svg a element CL[8], and MathMLAnchorElement role mapping CL in chromium
 
 Working on MathMLAnchorElement idl support in firefox
 
@@ -157,7 +159,7 @@ Links:
 
 [7] https://github.com/w3c/mathml-aam/issues/
 
-[8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+[8] https://issues.chromium.org/u/1/issues/512726601
 
 [9] https://issues.chromium.org/u/1/issues/512726601
 
