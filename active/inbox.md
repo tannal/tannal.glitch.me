@@ -123,7 +123,7 @@ Worked hours: 28h:30min
 
 Tasks:
 
-Setup and running linux build box and mac box for testing and developing [1]
+Setup and running linux build box and mac box for testing and developing
 
 Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
 
