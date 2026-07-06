@@ -135,13 +135,13 @@ Next:
 
 Continue to working on mathml-aam web platform tests, address feedback and comments [4]
 
-Raising mathml-aam spec issues, TBD entry and nil mapping, maybe send pr to solve some of them 
+Raising mathml-aam spec issues, TBD entries and nil mapping, maybe send pr to solve some of them (like mapping of a element)
 
 Working on attributeStyleMap CL[6], HyperlinkElementUtils for svg a element CL[8], and MathMLAnchorElement role mapping CL in chromium
 
 Working on MathMLAnchorElement idl support in firefox
 
-Fix code converge for mathml_anchor_element to at least 90% [10]
+Fix code converge for mathml_anchor_element to at least 90% [9]
 
 Links:
 
@@ -161,9 +161,7 @@ Links:
 
 [8] https://issues.chromium.org/u/1/issues/512726601
 
-[9] https://issues.chromium.org/u/1/issues/512726601
-
-[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
+[9] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
 
 ```
 # 1. 物理抹除真机注册表里唯一的腾讯牛皮癣痕迹
