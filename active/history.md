@@ -1,3 +1,211 @@
+# 2026-07-13
+
+gemini.google.com
+https://gemini.google.com/app/080bc184f6bfd893
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+伴你成长-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=21525318&keyword=%E4%BC%B4%E4%BD%A0%E6%88%90%E9%95%BF&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+“光年十余载，从未离去，伴你同行”_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1gsKKekEgv?spm_id_from=333.788.player.switch
+
+《熊出没》系列电影歌曲回顾之《伴你成长》_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16C4y1A7ar/?spm_id_from=333.337.search-card.all.click
+
+光头强顶级智斗-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=22561311&keyword=%E5%85%89%E5%A4%B4%E5%BC%BA%E9%A1%B6%E7%BA%A7%E6%99%BA%E6%96%97&from_source=websuggest_search&spm_id_from=333.788&search_source=5
+
+“盘点光头强封神名场面”我不信你一个都没看过_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1W1z6BHEja/?spm_id_from=333.337.search-card.all.click
+
+顶级智斗 光头强-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E9%A1%B6%E7%BA%A7%E6%99%BA%E6%96%97+%E5%85%89%E5%A4%B4%E5%BC%BA&from_source=web_search&spm_id_from=333.788&search_source=5
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+你叫你吗-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=66125006&keyword=%E4%BD%A0%E5%8F%AB%E4%BD%A0%E5%90%97&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+“小鸟欢乐的在树上叽叽喳喳 你叫你吗”_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1UcjX6gEaK/?spm_id_from=333.337.search-card.all.click
+
+光头强名场面-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=24016324&keyword=%E5%85%89%E5%A4%B4%E5%BC%BA%E5%90%8D%E5%9C%BA%E9%9D%A2&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+你曾是少年-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=06982195&keyword=%E4%BD%A0%E6%9B%BE%E6%98%AF%E5%B0%91%E5%B9%B4&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+www.bilibili.com
+https://www.bilibili.com/video/BV1Bu4y1d7KJ/?spm_id_from=333.337.search-card.all.click
+
+伴你成长-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=59446346&keyword=%E4%BC%B4%E4%BD%A0%E6%88%90%E9%95%BF&from_source=websuggest_search&spm_id_from=333.1007&search_source=2
+
+《熊出没》系列电影歌曲回顾之《伴你成长》_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16C4y1A7ar/?spm_id_from=333.337.search-card.all.click
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+小鸟欢乐的在树上叽叽喳喳-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=89122188&keyword=%E5%B0%8F%E9%B8%9F%E6%AC%A2%E4%B9%90%E7%9A%84%E5%9C%A8%E6%A0%91%E4%B8%8A%E5%8F%BD%E5%8F%BD%E5%96%B3%E5%96%B3&from_source=webhistory_search&spm_id_from=333.1007&search_source=3
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+周星驰名场面-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E5%91%A8%E6%98%9F%E9%A9%B0%E5%90%8D%E5%9C%BA%E9%9D%A2&from_source=web_search&spm_id_from=333.1007&search_source=3
+
+周星驰电影中的搞笑场景（1）_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Hp4y1a7Py/?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2589621-n4rxt.1783692507760.493
+
+谢尔顿中文-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=93099198&keyword=%E8%B0%A2%E5%B0%94%E9%A1%BF%E4%B8%AD%E6%96%87&from_source=web_search&spm_id_from=333.788&search_source=5
+
+生活大爆炸主角说中文片段合集，艾米的中文最尴尬_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1d4411872Y/?spm_id_from=333.337.search-card.all.click
+
+《熊出没》系列电影歌曲回顾之《伴你成长》_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16C4y1A7ar/?spm_id_from=333.337.search-card.all.click
+
+hong kong - Google 搜索
+https://www.google.com/search?q=hong+kong&oq=hong+kong&gs_lcrp=EgZjaHJvbWUqDwgAEAAYQxjjAhiABBiKBTIPCAAQABhDGOMCGIAEGIoFMgwIARAuGEMYgAQYigUyBwgCEC4YgAQyBwgDEC4YgAQyBwgEEC4YgAQyBwgFEC4YgAQyBwgGEAAYgAQyBwgHEAAYgAQyDQgIEC4YxwEY0QMYgAQyDQgJEC4YrwEYxwEYgATSAQk5MTE5MWowajeoAgiwAgHxBV2MQvqR6_KO&sourceid=chrome&ie=UTF-8
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+Move shared `aamtest` and `wdspec` infrastructure to shared directory in `tools` · Issue #59157 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/issues/59157
+
+东北师范大学
+https://www.nenu.edu.cn/
+
+融合门户
+https://m.nenu.edu.cn/index.jsp?null
+
+东北师范大学校园网络提示
+https://xxhb.nenu.edu.cn/waf/offCampus.html#/main/workflow/req?requestid=558992
+
+东北师范大学 WebVPN
+https://webvpn.nenu.edu.cn/
+
+凭证预览 - 东北师范大学可信电子凭证服务平台
+https://kxdzpz-443.webvpn.nenu.edu.cn/apply/preview?contractId=3510529493512016551
+
+shallow clone chromium - Google 搜索
+https://www.google.com/search?q=shallow+clone+chromium&oq=shallow+clone+chromium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDgzMzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Chromium Docs - Checking out and Building Chromium for Windows
+https://chromium.googlesource.com/chromium/src/+/main/docs/windows_build_instructions.md
+
+mail.google.com
+https://mail.google.com/mail/u/0/#inbox
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/attribute/mathml-attributes.py?label=pr_head&max-count=1&pr=61018
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+国家税务总局电子税务局
+https://etax.guangdong.chinatax.gov.cn:8443/loginb/
+
+社保费管理
+https://sbwb.guangdong.chinatax.gov.cn/sbf/wsh/dwjfdjJs
+
+社保费管理
+https://sbwb.guangdong.chinatax.gov.cn/sbf/wsh/dwjfdjJs
+
+办税进度详情
+https://etax.guangdong.chinatax.gov.cn:8443/sqsp/view/dksq/processDetail?sxuuid=80f6907b0c0c4a899441ed59960ac4d4&djxh=10214419010001787962&sqlczlDm=04&sxbt=%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A2%9D%E6%88%B7%E6%A0%B8%E5%AE%9A%E5%8F%8A%E8%B0%83%E6%95%B4%E5%AE%9A%E9%A2%9D&czqx=0
+
+定期定额户申请核定及调整定额
+https://etax.guangdong.chinatax.gov.cn:8443/ssjg/view/zhssjg/#/hdgl/dqdehsqhdjtzde?Sxuuid=80f6907b0c0c4a899441ed59960ac4d4
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=e&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIGCAAQRRg5MgYIARAjGCcyBggCECMYJzIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQg1MzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+美联储 利率 - Google 搜索
+https://www.google.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8+%E5%88%A9%E7%8E%87&sca_esv=2d80dc64812aa762&biw=1440&bih=731&sxsrf=APpeQnsqt2NMum35tGflzru_GNzxvNHExA%3A1783599904351&ei=IJNPapqQFdqMur8PqragyAI&oq=%E7%BE%8E%E8%81%94%E5%82%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiCee-juiBlOWCqCoCCAAyBxAjGLADGCcyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIiglQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACA5gDAIgGAZAGCpIHATGgBwCyBwC4BwDCBwMwLjHIBwKACAE&sclient=gws-wiz-serp
+
+YouTube
+https://www.youtube.com/
+
+digital nomad visa - Google 搜索
+https://www.google.com/search?q=digital+nomad+visa&oq=digital+nomad+visa&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDg4OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+d3.js - How do I setup a local HTTP server using Python - Stack Overflow
+https://stackoverflow.com/questions/27977972/how-do-i-setup-a-local-http-server-using-python
+
+localhost
+http://localhost:8000/mathml-aam/#el-mo
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.1
+https://www.w3.org/TR/wai-aria-1.1/
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4599880496
+
+HTMLMarkupMap.inc - mozsearch
+https://searchfox.org/firefox-main/rev/2ea9edf52aa84c859a979fc0d73773ab06b6137e/accessible/base/HTMLMarkupMap.inc#7
+
+AX: An anchor element that has a click handler but no href should still be considered a link by twilco · Pull Request #67035 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/67035/changes#diff-40a4ad2d523997035cea27b6ed2894cc2594390ca152772a1b0e9dd0bdf29ee7L77-R3533
+
+ia2 state linked - Google 搜索
+https://www.google.com/search?q=ia2+state+linked&sca_esv=408a1f4615fc204a&biw=1440&bih=731&sxsrf=APpeQnsOcEMqCRsbfMkLoPdLxJVLjlX5HQ%3A1783677544960&ei=aMJQaqWbOr7J0PEPnozuuAs&ved=0ahUKEwil79fT7MeVAxW-JDQIHR6GG7cQ4dUDCBA&uact=5&oq=ia2+state+linked&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGlhMiBzdGF0ZSBsaW5rZWQyBRAhGKABMgUQIRigAUi3I1D0BljBInABeACQAQCYAb8FoAGNHqoBDTAuMS4zLjUuMS4wLjG4AQPIAQD4AQGYAgygArgewgIIEAAY7wUYsAPCAgsQABiABBiiBBiwA8ICBBAjGCfCAgUQABiABMICCxAuGIAEGMcBGNEDwgIEEAAYHsICCBAAGIAEGMsBwgIKEAAYgAQYywEYCsICBhAAGB4YDMICBhAAGAUYHsICBhAAGAgYHpgDAIgGAZAGA5IHCzEuMC4yLjcuMS4xoAfLILIHCTItMi43LjEuMbgHtR7CBwUyLjcuM8gHGYAIAQ&sclient=gws-wiz-serp
+
+Issues · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+analysis.chromium.org
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes
+
+w3c.github.io
+https://w3c.github.io/core-aam/#role-map-checkbox
+
+github.com
+https://github.com/web-platform-tests/wpt/pull/61018/changes#r3521416463
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-573219d57f686da037d48ac92e1556c7aa6c64cd8c7f3a2d8256ab1f834384fbR3-R5
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+chromium-review.googlesource.com
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+chromium-review.googlesource.com
+https://chromium-review.googlesource.com/c/chromium/src/+/6274068
+
+google.com
+https://google.com/
 
 # 2026-07-01
 
