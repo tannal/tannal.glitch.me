@@ -1,6 +1,9 @@
 
 # 2026-07-13
 
+git branch --set-upstream-to=mathml-a-download
+
+
 [Weekly report 7]
 
 Worked hours: 26h:30min
@@ -13,7 +16,7 @@ Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h i
 
 Filed a role mapping issues for some of the mathml elements [3]
 
-Created a draft pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
+Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [4]
 
 Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
 
@@ -25,7 +28,9 @@ Working on include HyperlinkElementUtils mixin in SVGAElement
 
 Next:
 
-Write mathml-aam web platform tests in pytest for mac ax api, the linux part is done [8]
+Adds ping and referrerpolicy attributes and tests them in mathml a element
+
+Adds rel / relList attributes support for mathml a element and tests them, see svg[9]
 
 Working on MathMLAnchorElement idl support in firefox
 
@@ -39,7 +44,7 @@ Links:
 
 [3] https://github.com/w3c/mathml-aam/issues/41
 
-[4] https://github.com/web-platform-tests/wpt/pull/61018
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
 
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
 
