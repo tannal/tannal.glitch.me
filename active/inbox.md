@@ -28,7 +28,7 @@ Working on include HyperlinkElementUtils mixin in SVGAElement
 
 Next:
 
-Adds ping and referrerpolicy attributes and tests them in mathml a element
+Adds referrerpolicy attribute and tests them for mathml anchor element
 
 Adds rel / relList attributes support for mathml a element and tests them, see svg[9]
 
