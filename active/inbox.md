@@ -102,6 +102,8 @@ export SISO_CREDENTIAL_HELPER=gcloud
 
 # 2026-06-30
 
+./wpt run firefox mathml-aam/aamtests/attribute/mathml-attributes.py --no-headless --pause-after-test
+
 ./wpt run chrome mathml-aam/aamtests/role/mathml-role.py --no-headless --pause-after-test
 ./wpt run chrome mathml-aam/aamtests/attribute/mathml-attributes.py --no-headless --pause-after-test
 
