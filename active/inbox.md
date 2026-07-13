@@ -11,7 +11,7 @@ Open a issue for attributes mapping of <msqrt> and <mn>, will open a PR to fix t
 
 Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [2]
 
-Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
+Filed a role mapping issues for some of the mathml elements [3]
 
 Created a draft pr for mathml-aam tests, added 31 mathml elements plus one new MathMLAnchorElement [4]
 
@@ -37,7 +37,7 @@ Links:
 
 [2] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
 
-[3] https://github.com/WebKit/standards-positions/issues/691
+[3] https://github.com/w3c/mathml-aam/issues/41
 
 [4] https://github.com/web-platform-tests/wpt/pull/61018
 
