@@ -1,12 +1,15 @@
-# 2026-07-05
 
-[Weekly report 6]
+# 2026-07-13
+
+[Weekly report 7]
 
 Worked hours: 26h:30min
 
 Tasks:
 
-Setup and running linux build box and mac box for testing and developing [1]
+Open a issue for attributes mapping of <msqrt> and <mn>, will open a PR to fix the spec [1]
+
+Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [2]
 
 Raised issues for firefox and webkit about the new MathMLAnchorElement element and idl api [2] [3]
 
@@ -30,9 +33,9 @@ Fix code converge for mathml_anchor_element to at least 90% [10]
 
 Links:
 
-[1] https://github.com/web-platform-tests/wpt/pull/60490
+[1] https://github.com/w3c/mathml-aam/issues/40
 
-[2] https://github.com/mozilla/standards-positions/issues/1429
+[2] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
 
 [3] https://github.com/WebKit/standards-positions/issues/691
 
@@ -49,6 +52,25 @@ Links:
 [9] https://issues.chromium.org/u/1/issues/512726601
 
 [10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
+
+
+# 2026-07-05
+
+[Weekly report 6]
+
+Worked hours: 0h:30min
+
+Tasks:
+
+Meet with Fred on Monday
+
+Vacation on week 6, so no work this week
+
+Next:
+
+The same TODO as week 5
+
+Links:
 
 # 2026-07-02
 
