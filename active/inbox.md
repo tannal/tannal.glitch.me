@@ -22,17 +22,19 @@ Worked hours: 26h:30min
 
 Tasks:
 
-Open a issue for attributes mapping of <msqrt> and <mn>, and opened a PR to fix the spec [1][5]
+Open a issue for attributes mapping of <msqrt> and <mn>, and opened a PR to fix the spec [1][2]
 
-Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [2]
+Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [3]
 
-Filed a role mapping issues for some of the mathml elements [3]
+Filed a role mapping issue for some of the mathml elements [4]
 
-Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [4]
+Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [5]
 
 Filed an issue about mathml a element a11y mapping in firefox [6]
 
-Working on the aria spec change of mathml a element [7]
+Implement StylePropertyMap.clear in CSS Typed OM in firefox [7]
+
+Working on the aria spec change of mathml a element [8]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
@@ -55,19 +57,19 @@ Links:
 
 [1] https://github.com/w3c/mathml-aam/issues/40
 
-[2] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+[2] https://github.com/w3c/aria/pull/2843
 
-[3] https://github.com/w3c/mathml-aam/issues/41
+[3] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
+[4] https://github.com/w3c/mathml-aam/issues/41
 
-[5] https://github.com/w3c/aria/pull/2843
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
 
 [6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
 
-[7] https://github.com/w3c/aria/pull/2844
+[7] https://phabricator.services.mozilla.com/D312027
 
-[8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
+[8] https://github.com/w3c/aria/pull/2844
 
 [9] https://issues.chromium.org/u/1/issues/512726601
 
