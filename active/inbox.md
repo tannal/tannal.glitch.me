@@ -1,6 +1,14 @@
 
 # 2026-07-13
 
+bunx playwright open --browser=webkit
+
+自动下载最新 WebKit 浏览器内核及其 Ubuntu 依赖
+
+bunx playwright install webkit --with-deps
+
+# 2026-07-13
+
 git branch --set-upstream-to=mathml-a-download
 
 
@@ -19,6 +27,8 @@ Filed a role mapping issues for some of the mathml elements [3]
 Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [4]
 
 Filed an issue about mathml a element a11y mapping in firefox [6]
+
+Working on the aria spec change of mathml a element [7]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
@@ -48,7 +58,7 @@ Links:
 
 [6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
 
-[7] 
+[7] https://github.com/w3c/aria/pull/2844
 
 [8] https://github.com/web-platform-tests/wpt/compare/master...tannal:wpt:mathml-aam
 
