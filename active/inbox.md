@@ -10,7 +10,7 @@ Worked hours: 26h:30min
 
 Tasks:
 
-Open a issue for attributes mapping of <msqrt> and <mn>, will open a PR to fix the spec [1]
+Open a issue for attributes mapping of <msqrt> and <mn>, and opened a PR to fix the spec [1][5]
 
 Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [2]
 
@@ -18,9 +18,7 @@ Filed a role mapping issues for some of the mathml elements [3]
 
 Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [4]
 
-Made a pr which correcting the tag atttribute for <mn> and <msqrt> [5]
-
-Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
+Filed an issue about mathml a element a11y mapping in firefox [6]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
@@ -48,7 +46,7 @@ Links:
 
 [5] https://github.com/w3c/aria/pull/2843
 
-[6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
+[6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
 
 [7] 
 
