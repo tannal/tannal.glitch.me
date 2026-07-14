@@ -1,6 +1,10 @@
 
 # 2026-07-13
 
+testing/web-platform/tests/css/css-typed-om/the-stylepropertymap/
+
+
+
 bunx playwright open --browser=webkit
 
 自动下载最新 WebKit 浏览器内核及其 Ubuntu 依赖
@@ -43,6 +47,9 @@ Adds rel / relList attributes support for mathml a element and tests them, see s
 Working on MathMLAnchorElement idl support in firefox
 
 Fix code converge for mathml_anchor_element to at least 90% [10]
+
+StylePropertyMap support in firefox is missing clear/delete method implementations
+Maybe we can implement them in firefox if we have more time
 
 Links:
 
