@@ -18,7 +18,7 @@ Filed a role mapping issues for some of the mathml elements [3]
 
 Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [4]
 
-Submit a WIP CL and a draft pr for mathml anchor element aam tests and role mapping ability in chromium [4]
+Made a pr which correcting the tag atttribute for <mn> and <msqrt> [5]
 
 Submitted a WIP CL for privacy enforcement of mathml anchor element in canvas/dom [5]
 
@@ -46,7 +46,7 @@ Links:
 
 [4] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
 
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/8010987
+[5] https://github.com/w3c/aria/pull/2843
 
 [6] https://chromium-review.googlesource.com/c/chromium/src/+/8010506
 
