@@ -1,3 +1,198 @@
+
+# 2026-07-15
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+中华人民共和国网络审查 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/w/index.php?title=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5&oldformat=true#2026%E5%B9%B4
+
+河北程序员被控翻墙 没收105万人民币 - 维基新闻，自由的新闻源
+https://zh.wikinews.org/wiki/%E6%B2%B3%E5%8C%97%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A2%AB%E6%8E%A7%E7%BF%BB%E5%A2%99_%E6%B2%A1%E6%94%B6105%E4%B8%87%E4%BA%BA%E6%B0%91%E5%B8%81
+
+罚款 200 元，没收 100 多万 - OSCHINA - 开源 × AI · 开发者生态社区
+https://www.oschina.net/news/259325
+
+archive.ph
+https://archive.ph/
+
+maliming (Ma Liming)
+https://github.com/maliming
+
+网传中国一名程序员“翻墙”工作被政府没收百万元人民币所得 | 联合早报
+https://www.zaobao.com.sg/realtime/china/story20230926-1436856
+
+国家税务总局_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%9B%BD%E5%AE%B6%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80&fenlei=256&rsv_pq=0x92c003930010796c&rsv_t=c116tOzR5NgI5McN3QNYNqn5V6QYy0seMfX5HkcfNuOLzzcO5He0OyaxABi2&rqlang=en&rsv_enter=1&rsv_dl=tb_enter&rsv_sug3=24&rsv_sug1=25&rsv_sug7=100&rsv_btype=i&inputT=5542&rsv_sug4=5542
+
+国家税务总局
+https://www.chinatax.gov.cn/
+
+国家税务总局
+https://www.chinatax.gov.cn/search5/html/searchResult.html?siteCode=bm29000002&searchWord=%E4%B8%AA%E4%BD%93%E5%B7%A5%E5%95%86%E6%88%B7&left_right_index=0&searchSource=0
+
+国家税务总局政策法规库
+https://fgk.chinatax.gov.cn/zcfgk/c100022/c5218824/content.html
+
+BAGntJST.pdf
+https://fgk.chinatax.gov.cn/zcfgk/c100022/c5218824/5218824/files/BAGntJST.pdf
+
+跨境应税行为零税率或免税政策热点问答
+https://shanghai.chinatax.gov.cn/zcfw/rdwd/202201/t461701.html
+
+跨境应税行为零税率或免税政策热点问答
+https://shanghai.chinatax.gov.cn/zcfw/rdwd/202201/t461701.html
+
+额度提高 利率降低 国家助学贷款政策有新调整
+https://gaokao.chsi.com.cn/gkxx/zc/moe/202411/20241105/2293345012.html
+
+中国货币网-中国外汇交易中心主办
+https://www.chinamoney.com.cn/chinese/index.html
+
+7722.doc
+file:///C:/Users/tannal/Downloads/contract.pdf
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#link-type-opener
+
+在百万豪装录音棚大声听 S.H.E《你曾是少年》【Hi-res】_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Bu4y1d7KJ/?spm_id_from=333.337.search-card.all.click
+
+rel HTML attribute - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel
+
+ax_node_object.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/accessibility/ax_node_object.cc;l=2424;drc=3b89dc24341a8731729ed33e18258b525d15a189
+
+…/ax_node_object.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647/1/third_party/blink/renderer/modules/accessibility/ax_node_object.cc
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-4955592032
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+Map link with direct click listener to link · Issue #608 · w3c/html-aam
+https://github.com/w3c/html-aam/issues/608
+
+What does 'valid' mean in 'link role if the element has a valid href or xlink:href attribute' · Issue #47 · w3c/svg-aam
+https://github.com/w3c/svg-aam/issues/47#issuecomment-4082725504
+
+Tag attributes exposed by <msqrt> and <mn> seem wrong · Issue #40 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/40
+
+MathML Accessibility API Mappings 1.0
+http://localhost:8000/mathml-aam/#el-a
+
+503 Service Temporarily Unavailable
+https://bugs.webkit.org/show_bug.cgi?id=319107
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Airbyte - Google 搜索
+https://www.google.com/search?q=Airbyte&oq=Airbyte&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDINCAEQLhjHARjRAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBBzU4NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+airbytehq/airbyte: Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
+https://github.com/airbytehq/airbyte
+
+Airbyte | Log in
+https://cloud.airbyte.com/login
+
+elt pipeline amazon - Google 搜索
+https://www.google.com/search?q=elt+pipeline+amazon&oq=elt+pipeline+ama&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDY2ODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Apache Superset - Google 搜索
+https://www.google.com/search?q=Apache+Superset&oq=Apache+Superset&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Connector Development | Airbyte Docs
+https://docs.airbyte.com/platform/connector-development/
+
+Welcome to API References
+https://developer-docs.amazon/sp-api/reference/welcome-to-api-references
+
+云产品特惠专区
+https://cloud.tencent.com/act/pro/cps_3?fromSource=gwzcw.6688284.6688284.6688284&utm_medium=cps&utm_id=gwzcw.6688284.6688284.6688284&cps_key=9ab85bbaa74141dac2b807bc154d9bff&gad_source=1&gad_campaignid=23784316219&gbraid=0AAAABDDWXi5eId3Y8uzemiFeBve3ago4X&gclid=CjwKCAjwmdLSBhANEiwAkREMN5sB-KLTiFkBQY9rSKdklXudeVwoRKtXHrglMXtORpI6FAoST3eEwRoCurUQAvD_BwE
+
+sandbox.selling partner api - Google 搜索
+https://www.google.com/search?q=sandbox.selling+partner+api&oq=sandbox+selling&gs_lcrp=EgZjaHJvbWUqCAgBEAAYChgeMgYIABBFGDkyCAgBEAAYChgeMgcIAhAAGO8FMgcIAxAAGO8FMgcIBBAAGO8FMgcIBRAAGO8FMggIBhAAGAgYHjIICAcQABgIGB7SAQg0NTY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+airbyte install - Google 搜索
+https://www.google.com/search?q=airbyte+install&oq=airbyte+install&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTISCAEQLhhDGMcBGNEDGIAEGIoFMgkIAhAAGAwYgAQyBwgDEAAYgAQyBwgEEAAYgAQyDAgFEAAYQxiABBiKBTIJCAYQABgMGIAEMgcIBxAAGIAEMgwICBAAGEMYgAQYigUyBwgJEAAYgATSAQgxMzY0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-33cce6193d9f08e4e7602419a8bea00a753abfa84b6d95d89b6730e9bc1faabe
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role/link.py?label=pr_head&max-count=1&pr=61018
+
+Coverage for chromium/src - //third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=91ef1dea7970d14c62342e3e62708bd0f9fb46ee&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+
+生源地助学贷款官网登录入口_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E7%94%9F%E6%BA%90%E5%9C%B0%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E5%AE%98%E7%BD%91%E7%99%BB%E5%BD%95%E5%85%A5%E5%8F%A3&fenlei=256&rsv_pq=0xb0361fe1000760e9&rsv_t=8ef9yIJAz7n5Rkln69wfPXG%2B5qeAMkFrljM1pCsWHP6x7R%2FuxA8mevh89cXX&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=15&rsv_sug1=14&rsv_sug7=100&rsv_btype=i&prefixsug=%25E7%2594%259F%25E6%25BA%2590%25E5%259C%25B0&rsp=0&inputT=4762&rsv_sug4=4762
+
+国家开发银行助学贷款学生在线系统
+https://www.csls.cdb.com.cn/#/my-loan
+
+15674.doc
+file:///C:/Users/tannal/Downloads/contract%20(3).pdf
+
+1655.doc
+file:///C:/Users/tannal/Downloads/contract%20(2).pdf
+
+7722.doc
+file:///C:/Users/tannal/Downloads/contract.pdf
+
+12274.doc
+file:///C:/Users/tannal/AppData/Local/Temp/52c13b44-ad28-4aa9-baa1-9973f7c4b683_contract.zip.683/contract_43042201H20230001157.pdf
+
+32141.doc
+file:///C:/Users/tannal/AppData/Local/Temp/52403119-7061-4294-9562-ad48d1b6c7cd_contract%20(1).zip.contract%20(1).zip/contract_43042201H20240000222.pdf
+
+22182.doc
+file:///C:/Users/tannal/Downloads/contract%20(1).pdf
+
+完税凭证 中国大陆 - Google 搜索
+https://www.google.com/search?q=%E5%AE%8C%E7%A8%8E%E5%87%AD%E8%AF%81+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&oq=%E5%AE%8C%E7%A8%8E%E5%87%AD%E8%AF%81+%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCDY5MDVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBwgCEAAYgAQyDQgDEC4YxwEY0QMYgAQyBwgEEC4YgAQyBwgFEAAYgAQyDQgGEC4YxwEY0QMYgAQyBggHEEUYPNIBCDIwMDFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+中华人民共和国财政部
+https://www.mof.gov.cn/index.htm
+
+中华人民共和国财政部_全文检索
+https://search.mof.gov.cn/was5/web/search
+
+P020231221329434414403.pdf
+https://szs.mof.gov.cn/zhengcefabu/202312/P020231221329434414403.pdf
+
+一图速览关于调整完善国家助学贷款有关政策的通知
+https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202411/t20241114_3947485.htm
+
+一图速览《关于做好2025年国家助学贷款免息及本金延期偿还工作的通知》问答
+https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202504/t20250415_3961960.htm
+
+核定征收 - Google 搜索
+https://www.google.com/search?q=%E6%A0%B8%E5%AE%9A%E5%BE%81%E6%94%B6&oq=%E6%A0%B8%E5%AE%9A&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE3MjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=eur&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIGCAAQRRg5MgYIARAjGCcyCAgCEEUYJxg7MgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMg0IBhAuGMcBGNEDGIAEMgYIBxBFGDzSAQgxNDA1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+volosoft - Google 搜索
+https://www.google.com/search?q=volosoft&oq=volosoft&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQc5NThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+maliming (Ma Liming)
+https://github.com/maliming
+
 # 2026-07-13
 
 gemini.google.com
