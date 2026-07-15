@@ -1,9 +1,12 @@
+# 2026-07-15
+
+
 
 # 2026-07-13
 
 testing/web-platform/tests/css/css-typed-om/the-stylepropertymap/
 
-
+https://webflow.com/company/careers/roles
 
 bunx playwright open --browser=webkit
 
@@ -22,36 +25,35 @@ Worked hours: 26h:30min
 
 Tasks:
 
-Open a issue for attributes mapping of <msqrt> and <mn>, and opened a PR to fix the spec [1][2]
+Open a issue for attributes mapping of <msqrt> and <mn>, and submitted a spec-fix PR [1][2]
 
-Code converge for mathml_anchor_element.cc is 87%, and mathml_anchor_element.h is 83% [3]
+Achieved 87% code coverage for mathml_anchor_element.cc is 87%, and 83% for mathml_anchor_element.h [3]
 
-Filed a role mapping issue for some of the mathml elements [4]
+Filed a role mapping issue for some mathml elements [4]
 
 Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [5]
 
-Filed an issue about mathml a element a11y mapping in firefox [6]
+Filed a Firefox issue regarding mathml `<a>` element a11y mapping [6]
 
-Implement StylePropertyMap.clear in CSS Typed OM in firefox [7]
+Implement StylePropertyMap.clear for Firefox CSS Typed OM [7] 
 
-Working on the aria spec change of mathml a element [8]
+Working on the aria spec changes of mathml `<a>` element [8]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
-Working on include HyperlinkElementUtils mixin in SVGAElement
+Working on incorporating HyperlinkElementUtils mixin in SVGAElement
 
 Next:
 
-Adds referrerpolicy attribute and tests them for mathml anchor element
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
-Adds rel / relList attributes support for mathml a element and tests them, see svg[9]
+Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
 
-Working on MathMLAnchorElement idl support in firefox
+Implement MathMLAnchorElement idl support in firefox
 
-Fix code converge for mathml_anchor_element to at least 90% [10]
+Raise mathml_anchor_element code converge to at least 90% [10]
 
-StylePropertyMap support in firefox is missing clear/delete method implementations
-Maybe we can implement them in firefox if we have more time
+Implement StylePropertyMap.delete in Firefox (as a follow-up to .clear)
 
 Links:
 
