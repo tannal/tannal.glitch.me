@@ -1,5 +1,7 @@
 # 2026-07-15
 
+
+
 kill %1
 
 # 2026-07-13
@@ -55,6 +57,8 @@ Raise mathml_anchor_element code converge to at least 90% [10]
 
 Implement StylePropertyMap.delete in Firefox (as a follow-up to .clear)
 
+Fix ATK prefix of mathml aam spec as Valerie said [11]
+
 Links:
 
 [1] https://github.com/w3c/mathml-aam/issues/40
@@ -77,6 +81,7 @@ Links:
 
 [10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
 
+[11] https://github.com/web-platform-tests/wpt/pull/61018#discussion_r3521449838
 
 # 2026-07-05
 
