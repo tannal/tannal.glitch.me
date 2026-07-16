@@ -1,4 +1,5 @@
 
+# 2026-07-16
 
 Hello,
 
@@ -95,6 +96,8 @@ Raise mathml_anchor_element code converge to at least 90% [10]
 Implement StylePropertyMap.delete in Firefox (as a follow-up to .clear)
 
 Fix ATK prefix of mathml aam spec as Valerie said [11]
+
+MathMLAnchorElement in Firefox and Webkit don't support target attribute 
 
 Links:
 
