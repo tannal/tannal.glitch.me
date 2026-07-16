@@ -1,3 +1,34 @@
+
+
+Hello,
+
+I'm wondering if you have more tasks that I can work on?
+
+I'm currently have some bandwidth to work on something else since most of my active work is waiting for spec change/review.
+
+A little bit of my status
+
+1. The mathml-aam tests pr is mostly done and needs to be reviewed again
+
+2. The attributeStyleMap tests should be ready to land, or need 2 code review + 1 to land
+
+3. Swapping SVGAElement to the new HyperlinkElementUtils need to wait for the spec change merged, also one of the reviewer Fredrik is OoO this week
+
+4. Two mathml-aam spec change pr is waiting for review
+
+5. Bug 2054878 - Implement StylePropertyMap.clear in CSS Typed OM r=emilio, This bug was found when checking attributeStyleMap tests in firefox.
+
+Firefox currently doesn't have the clear method implemented, so I submitted a patch and it's reviewed and ready to land yestoday.
+
+6. [mathml] Drop javascript: link navigation for mathml anchor element, I personally tend to drop the javascript link navigation
+
+Do you have any suggestions on what to work on next? Or should I continue to work on the existing patch to make sure they get landed before pick something else on?
+
+Some ideas that come to mind are working on `rel/reList` and `referrerpolicy` attribute support for mathml anchor element, and improving code coverge for mathml anchor element in chromium
+
+
+
+
 # 2026-07-15
 
 https://shanghai.chinatax.gov.cn/zcfw/rdwd/202201/t461701.html
