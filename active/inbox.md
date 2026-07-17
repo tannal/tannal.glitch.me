@@ -1,6 +1,18 @@
 
 # 2026-07-17
 
+2026年 7月17日了，这些重量级软件
+
+当我们回顾（代码编辑器、关系型数据库、虚拟机运行时、SGI、操作系统、办公套件、浏览器、游戏引擎、编译器、CAD、EDA、跨平台 GUI、三维渲染器，音视频多媒体编解码，地理信息系统，大型企业资源计划（ERP），专业非线性视频剪辑与调色，时，还有哪些没有被提到的重要软件帝国有这源远流长的血脉与血统？
+
+有限元分析与多物理场仿真,大型机操作系统与核心银行系统（Core Banking Systems）：支撑全球金融的“隐形骨骼”
+
+还有哪些仍处于多派格局百家争鸣就像跨平台GUI框架一样的软件，
+
+现在是2026年 7月17日了，这些重量级软件都需要ai tool call 化 agent化以便更强的自动化，有哪些人已经开始做这个事情了，请搜索
+
+autoninja -C out/Default blink_tests
+
 python3 /home/tannal/tannalwork/projects/chromium/src/build/ios/update_bundle_filelist.py /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.filelist /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.globlist /home/tannal/tannalwork/projects/chromium/src/content/test/.
 
 # 2026-07-16
