@@ -1,4 +1,8 @@
 
+# 2026-07-17
+
+python3 /home/tannal/tannalwork/projects/chromium/src/build/ios/update_bundle_filelist.py /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.filelist /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.globlist /home/tannal/tannalwork/projects/chromium/src/content/test/.
+
 # 2026-07-16
 
 out/Default/content_browsertests \
