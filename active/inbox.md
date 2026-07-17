@@ -1,6 +1,8 @@
 
 # 2026-07-16
 
+--user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX)
+
 Hello,
 
 I'm wondering if you have more tasks that I can work on?
