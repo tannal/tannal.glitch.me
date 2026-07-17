@@ -1,6 +1,11 @@
 
 # 2026-07-16
 
+out/Default/content_browsertests \
+  --gtest_filter="*MathMLAnchor*" \
+  --enable-blink-features=MathMLAnchorElement \
+  --generate-accessibility-test-expectations
+
 --user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX)
 
 Hello,
