@@ -1,6 +1,20 @@
 
 # 2026-07-19
 
+https://www.v2ex.com/go/jobs?p=2
+
+https://mtop.damai.cn/gw/mtop.common.getTimestamp/
+
+🧢Software Engineer
+PayPal，2023.3 ~2025.6
+AIML平台，商户入驻，支付
+
+🐎Software Engineer
+Airwallex，2025.6 ~
+支付，DevX
+
+https://www.heysifei.com/archives/20240901-gong-zuo-yi-nian-ban-hou-de-yi-xie-gan-xiang-ji-lu
+
 问题 1：Bug 已经被 Bot 自动关闭了（RESOLVED FIXED），怎么办？
 在 Mozilla 的流程里，当包含 Bug 2054878 关键字的第一个 Patch 进入 main (mozilla-central) 后，Bugzilla 的 Bot 探测到合入就会自动将该 Bug 标记为 RESOLVED FIXED。
 
