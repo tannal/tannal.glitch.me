@@ -1,7 +1,24 @@
 
 # 2026-07-19
 
-[Weekly report 7]
+问题 1：Bug 已经被 Bot 自动关闭了（RESOLVED FIXED），怎么办？
+在 Mozilla 的流程里，当包含 Bug 2054878 关键字的第一个 Patch 进入 main (mozilla-central) 后，Bugzilla 的 Bot 探测到合入就会自动将该 Bug 标记为 RESOLVED FIXED。
+
+处理办法：
+你不需要去重新打开（Reopen）这个 Bug。在 Mozilla 社区里，更规范、更常用的标准做法是：为 delete 方法专门开一个“随从 Bug”（Follow-up Bug）。
+
+去 Bugzilla 页面上方点击 New Bug。
+
+标题写：Follow-up to Bug 2054878: Implement StylePropertyMap.delete in CSS Typed OM。
+
+在描述或者 Blocks 字段里，关联上原来的 Bug 2054878。
+
+拿到新 Bug 号（假设是 Bug XXXXXXX）后，用这个新 Bug 号来写你接下来的 delete 提交说明。
+
+./mach wpt testing/web-platform/tests/css/css-typed-om/the-stylepropertymap/inline/delete.html --log-raw wpt.log
+./mach wpt-update wpt.log
+
+[Weekly report 8]
 
 Worked hours: 30h:15min
 
