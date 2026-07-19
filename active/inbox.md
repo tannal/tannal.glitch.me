@@ -1,6 +1,24 @@
 
 # 2026-07-17
 
+## All my active work
+- [ ] **[mathml] Fix the target navigation test for mathml a element**
+  - **Status**: Waiting for tryjobs to re-run / responding to reviewers (Frédéric, Stephen...), updated today at 2:13 PM.
+- [ ] **[mathml] Add the `ping` attribute of the mathml a element**
+  - **Status**: Has draft comments to publish / needs action. Reviewers: Rob Buis, Sergio, etc.
+- [ ] **[svg] Swap SVGAElement to the new HyperlinkElementUtils**
+  - **Status**: Reviewer turn (updated 2 days ago). Reviewers: OoO until..., tkent, etc.
+- [ ] **[mathml] Add WPT tests for attributeStyleMap on MathMLElement**
+  - **Status**: Has active +1 from reviewers (updated 3 days ago). Reviewers: Frédéric, Stephen..., etc.
+- [ ] **[mathml] Drop javascript: link navigation for mathml anchor element**
+  - **Status**: Needs action (updated on Jul 02).
+- [ ] **[svg] Support Origin API for svg a element**
+  - **Status**: Currently in Work in Progress (WIP) / Your Turn status (updated on Jul 01). Needs verification to flip to active review.
+- [ ] **[mathml] Map mathml a element to link role when href is specified**
+  - **Status**: Pending external review from Nektarios, Tom Sepez (updated on Jul 17).
+
+# 2026-07-17
+
 人类： “帮我看一下最近有哪些商品的库存低于安全警戒线了。”
 机器人（Gemini）：(后台自动通过本地 SQLite MCP 执行查询：SELECT * FROM inventory WHERE stock < safety_limit)
 "为您找到了 3 件库存告急的商品，我为您生成了紧急采购面板，您可以在此直接调整采购量并确认下单："
