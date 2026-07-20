@@ -1,4 +1,53 @@
 
+# 2026-07-20
+
+1. 跨境金融与跨境支付类（Fintech 顶流）
+除了你提到的 PayPal 和 Airwallex（空中云汇），程序员简历和博客里经常出现的同赛道外企还有：
+
+Stripe：全球顶级支付独角兽，在中国招募全远程（Remote）工程师或特定技术支持。
+
+Adyen：荷兰的支付巨头（极客浓度极高），在上海有核心技术团队，技术栈非常新，面试全英文。
+
+eBay（亿贝）：虽然是老牌电商，但它的上海研发中心（CDC）实力极强，不仅负责全球的支付、搜索算法，福利待遇也是典型的外企天花板（955、超多假）。
+
+WorldFirst（万里汇） / Payoneer（派安盈）：这两家跨境支付巨头在深圳和上海有很大的技术与服务落地团队。
+
+2. 硅谷硬核基础软件与 SaaS（简历含金量极高）
+这些公司在程序员简历里被视为“技术镀金池”，国内基本不宣传，但技术圈无人不知：
+
+Citrix（思杰） / Cloud Software Group：在南京有极大的研发中心，主做虚拟化和云计算，是南京程序员最向往的神仙外企之一。
+
+Trend Micro（趋势科技）：在南京设有独立的网络安全软件所有权研究所，研发地位很高，薪资福利对标国内头部大厂。
+
+Autodesk（欧特克）：做 AutoCAD 的巨头，其上海研发中心规模庞大，工作极其 WLB（平衡生活），是博客里经常被推荐的“养老/技术兼顾”神仙公司。
+
+Adobe：虽然缩减了中国区业务，但其在中国的研发和技术支持团队依然在北京等地低调招人。
+
+Splunk：顶级的日志分析、大数据外企，在上海有非常核心的研发团队。
+
+Zoom：虽然是视频会议软件，但它的核心研发团队大量在杭州、苏州、合肥。很多从大厂跳槽去 Zoom 的人都在博客里分享过“不加班、写纯正硅谷代码”的体验。
+
+3. 物流、供应链与新兴独角兽
+Flexport（飞协博）：硅谷货运科技独角兽。在深圳和上海的 Tech 团队名气很大，薪资极高，直接负责全球物流链的数据化和算法研发。
+
+Booking.com（缤客） / Agoda（安可达）：全球最大的在线旅游巨头。Booking 在上海有研发中心，Agoda 在上海和曼谷（支持帮中国工程师办签证搬迁）疯狂招中国研发，面试流程非常硅谷化。
+
+Canva（可画）：在线设计独角兽，在北京有本地化研发团队，企业文化非常开放。
+
+4. 智能硬件、嵌入式与芯片（深港/华南区主力）
+如果你关注深圳、广州等华南地区，程序员简历里最常出现的高薪低调外企有：
+
+DJI 大疆（虽然是中资但走全球化路线） 的主要外资对手或供应链外企，比如 Apple（苹果中国研发），在上海和深圳有极大的硬件和底层固件工程团队。
+
+Amazon（亚马逊中国）：虽然电商退出了中国，但亚马逊的 AWS（云计算）团队、Kindle/Echo 智能硬件研发团队在深圳和北京依然非常活跃。
+
+Qualcomm（高通） / Intel（英特尔） / NVIDIA（英伟达）：芯片三巨头，在上海、深圳、北京都有极大的中国研发中心，常年低调招募固件、驱动、深度学习（AI）工程师。
+
+5. 汽车科技与自动驾驶
+Tesla（特斯拉）：特斯拉除了超级工厂，其上海研发创新中心正在疯狂招募软件、算法、车辆工程工程师。
+
+Aptiv（安波福） / Continental（大陆）：老牌汽车零部件巨头转型软件，在上海、苏州有极大的自动驾驶软件研发中心。
+
 # 2026-07-19
 
 https://www.flexport.com/careers/jobs/?location=Shenzhen
@@ -222,7 +271,7 @@ git branch --set-upstream-to=mathml-a-download
 
 [Weekly report 7]
 
-Worked hours: 30h:15min
+Worked hours: 30h:45min
 
 Tasks:
 
@@ -242,7 +291,7 @@ Working on the aria spec changes of mathml `<a>` element [8]
 
 Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
 
-Working on incorporating HyperlinkElementUtils mixin in SVGAElement
+Working on incorporating HyperlinkElementUtils mixin in SVGAElement, pending on review
 
 Next:
 
