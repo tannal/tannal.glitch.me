@@ -1,6 +1,35 @@
 
 # 2026-07-20
 
+以你在 Igalia 的开源/WebKit/C++ 经验，去投递像 Flexport (SE I)、Adyen (Implementation Engineer)、Canonical (Junior)、Temporal、Neo4j 或 Snyk 这种潜伏在官网的岗位，你的简历不仅不会被埋没，反而会因为技术底子扎实、不跟风、有独立思考能力，而极易获得面试机会！
+
+100% 使用 Greenhouse 或 Lever 作为招聘系统
+
+site:boards.greenhouse.io OR site:jobs.lever.co "Software Engineer" AND ("Shenzhen" OR "Shanghai") AND ("Junior" OR "I" OR "Early Career")
+
+CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --release
+
+https://www.schrodinger.com/company/careers/#open-positions
+Have junior software roles
+
+https://www.collabora.com/careers.html
+
+```
+# 1. 切换到宿主机的 WebKit 代码目录
+cd "${HOST_HOME}/tannalwork/projects/WebKit"
+
+# 2. 限制编译核心数防止内存溢出 (假设设为 8 线程，根据你的实际内存调节)
+export NUMBER_OF_PROCESSORS=8
+
+# 3. 开始编译 WebKitGTK (Release 模式)
+./Tools/Scripts/build-webkit --gtk --release
+```
+
+https://canonical.com/careers/7957239/application
+
+https://job-boards.greenhouse.io/brave/jobs/7636723
+Rmote chromium based role
+
 https://jobs.dolby.com/careers?start=0&location=china&pid=40531403&sort_by=distance&filter_include_remote=1
 QA engineer
 
