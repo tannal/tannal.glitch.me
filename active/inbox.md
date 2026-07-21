@@ -1,4 +1,9 @@
 
+# 2026-07-21
+
+I removed the `ATK_` prefix but preserved the `ROLE_` since it accurately reflects what the spec says.
+
+
 # 2026-07-20
 
 复制 Anker 的“品牌独立站 + 自动化履约”路径（最推荐）：
