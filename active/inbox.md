@@ -1,6 +1,32 @@
 
 # 2026-07-20
 
+https://jobs.dolby.com/careers?start=0&location=china&pid=40531403&sort_by=distance&filter_include_remote=1
+QA engineer
+
+https://www.lifeatcanva.com/en/jobs/6000000001058191/effects-tool-engineer/
+Effects Tool Engineer
+
+https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/details/Senior-Software-Development-Engineer_R2391?locations=f4abac2e193c0178b61fe5837c1b0783&locations=58852068b6ad01ed54600d159d1d5776&locations=58852068b6ad01b0a8d60e159d1d5c76
+Embedded Linux/System engineer
+
+https://www.optiver.com/join-us/jobs/?location=shanghai
+Only senior
+
+https://careers.duolingo.com/?location=Beijing%2C+China#careers
+Software Engineer I
+
+https://apply.workable.com/smartnews/?_gl=1*fxi1rl*_ga*NTY2NjQ3NzU4LjE3ODQ2MTY0MDU.*_ga_GVS4HXE992*czE3ODQ2MTY0MDQkbzEkZzEkdDE3ODQ2MTY0MjckajM3JGwwJGgw
+Only Japan
+
+https://tower-research.com/roles/
+
+sudo apt -o Acquire::http::Proxy="http://127.0.0.1:7890" \
+         -o Acquire::https::Proxy="http://127.0.0.1:7890" \
+         install -y podman
+
+# 2026-07-20
+
 Need to be tentative third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/href-lick-js-handler.html
 
 1. 跨境金融与跨境支付类（Fintech 顶流）
