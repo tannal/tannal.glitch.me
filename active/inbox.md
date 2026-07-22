@@ -1,6 +1,10 @@
 
 # 2026-07-22
 
+python .\wpt run firefox ./mathml-aam/aamtests/role/link.py --binary "C:\Users\tannal\scoop\apps\googlechrome\current\chrome.exe" --no-headless
+
+python .\wpt run chrome ./mathml-aam/aamtests/role/link.py --binary "C:\Users\tannal\scoop\apps\googlechrome\current\chrome.exe" --no-headless
+
 | curl --data-binary @- https://paste.rs
 
 ./wpt run firefox mathml-aam/aamtests/role/mathml-role.py --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
