@@ -1,6 +1,10 @@
 
 # 2026-07-22
 
+| curl --data-binary @- https://paste.rs
+
+./wpt run firefox mathml-aam/aamtests/role/mathml-role.py --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
+
 2>&1 | tee log.txt
 
 ./wpt run firefox mathml-aam/aamtests/attribute/mathml-attributes.py --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
