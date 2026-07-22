@@ -1,8 +1,19 @@
 
+# 2026-07-22
+
+2>&1 | tee log.txt
+
+./wpt run firefox mathml-aam/aamtests/attribute/mathml-attributes.py --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
+
+./wpt run webkit mathml-aam/aamtests/attribute/mathml-attributes.py   --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk
+
+wkdev-enter
+
 # 2026-07-21
 
 I removed the `ATK_` prefix but preserved the `ROLE_` since it accurately reflects what the spec says.
 
+./wpt run epiphany mathml-aam/aamtests/attribute/mathml-attributes.py   --binary /home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver
 
 # 2026-07-20
 
