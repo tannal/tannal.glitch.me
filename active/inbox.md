@@ -1,6 +1,21 @@
 
 # 2026-07-23
 
+```
+[WebChromeClient::createWindow] ===== ENTERED =====
+[WebChromeClient::createWindow] Opened Frame Name: ''
+[WebChromeClient::createWindow] Request URL: 'http://web-platform.test:8081/mathml/relations/html5-tree/support/target.html?success'
+[WebChromeClient::createWindow] Has UserGestureToken: YES
+1   0x781192602ace WebKit::WebChromeClient::createWindow(WebCore::LocalFrame&, WTF::String const&, WebCore::WindowFeatures const&, WebCore::NavigationAction const&)
+2   0x78119534e807 WebCore::Chrome::createWindow(WebCore::LocalFrame&, WTF::String const&, WebCore::WindowFeatures const&, WebCore::NavigationAction const&)
+3   0x781193b89c66 WebKit::WebLocalFrameLoaderClient::dispatchCreatePage(WebCore::NavigationAction const&, WebCore::NewFrameOpenerPolicy, WTF::String const&)
+4   0x7811952e0f5d WebCore::FrameLoader::continueLoadAfterNewWindowPolicy(WebCore::ResourceRequest&&, WTF::RefPtr<WebCore::FormSubmission const, WTF::RawPtrTraits<WebCore::FormSubmission const>, WTF::DefaultRefDerefTraits<WebCore::FormSubmission const> >&&, WTF::AtomString const&, WebCore::NavigationAction const&, WebCore::ShouldContinuePolicyCheck, WebCore::AllowNavigationToInvalidURL, WebCore::NewFrameOpenerPolicy)
+5   0x781192e08008 WTF::Detail::CallableWrapper<WebCore::FrameLoader::loadURL(WebCore::FrameLoadRequest&&, WTF::String const&, WebCore::FrameLoadType, WebCore::Event*, WTF::RefPtr<WebCore::FormSubmission const, WTF::RawPtrTraits<WebCore::FormSubmission const>, WTF::DefaultRefDerefTraits<WebCore::FormSubmission const> >&&, std::optional<WebCore::PrivateClickMeasurement>&&, WTF::CompletionHandler<void ()>&&)::$_0, void, WebCore::ResourceRequest&&, WTF::WeakPtr<WebCore::FormSubmission const, WTF::DefaultWeakPtrImpl, WTF::RawPtrTraits<WTF::DefaultWeakPtrImpl> >&&, WTF::AtomString const&, WebCore::NavigationAction const&, WebCore::ShouldContinuePolicyCheck>::call(WebCore::ResourceRequest&&, WTF::WeakPtr<WebCore::FormSubmission const, WTF::DefaultWeakPtrImpl, WTF::RawPtrTraits<WTF::DefaultWeakPtrImpl> >&&, WTF::AtomString const&, WebCore::NavigationAction const&, WebCore::ShouldContinuePolicyCheck)
+6   0x781192e2623b WTF::Detail::CallableWrapper<WebCore::PolicyChecker::checkNewWindowPolicy(WebCore::NavigationAction&&, WebCore::ResourceRequest&&, WTF::RefPtr<WebCore::FormSubmission const, WTF::RawPtrTraits<WebCore::FormSubmission const>, WTF::DefaultRefDerefTraits<WebCore::FormSubmission const> >&&, WTF::AtomString const&, WTF::CompletionHandler<void (WebCore::ResourceRequest&&, WTF::WeakPtr<WebCore::FormSubmission const, WTF::DefaultWeakPtrImpl, WTF::RawPtrTraits<WTF::DefaultWeakPtrImpl> >&&, WTF::AtomString const&, WebCore::NavigationAction const&, WebCore::ShouldContinuePolicyCheck)>&&)::$_0, void, WebCore::PolicyAction>::call(WebCore::PolicyAction) [clone .cold.1]
+7   0x781195303c9e WTF::Detail::CallableWrapper<WebCore::PolicyChecker::checkNewWindowPolicy(WebCore::NavigationAction&&, WebCore::ResourceRequest&&, WTF::RefPtr<WebCore::FormSubmission const, WTF::RawPtrTraits<WebCore::FormSubmission const>, WTF::DefaultRefDerefTraits<WebCore::FormSubmission const> >&&, WTF::AtomString const&, WTF::CompletionHandler<void (WebCore::ResourceRequest&&, WTF::WeakPtr<WebCore::FormSubmission const, WTF::DefaultWeakPtrImpl, WTF::RawPtrTraits<WTF::DefaultWeakPtrImpl> >&&, WTF::AtomString const&, WebCore::NavigationAction const&, WebCore::ShouldContinuePolicyCheck)>&&)::$_0, void, WebCore::PolicyAction>::call(WebCore::PolicyAction)
+8   0x78119262b018 WebKit::WebFrame::didReceivePolicyDecision(unsigned long, WebKit::PolicyDecision&&)
+```
+
 sed -i 's|/home/tannal/tannalwork/projects/WebKit|/sdk/webkit|g' \
   /home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/compile_commands.json
 
