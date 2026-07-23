@@ -1,6 +1,12 @@
 
 # 2026-07-23
 
+sed -i 's|/home/tannal/tannalwork/projects/WebKit|/sdk/webkit|g' \
+  /home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/compile_commands.json
+
+sed -i 's|/sdk/webkit|/home/tannal/tannalwork/projects/WebKit|g' \
+  /home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/compile_commands.json
+
 a-node-expected-uia-win.txt
 
 python3 /home/tannal/tannalwork/projects/chromium/src/build/ios/update_bundle_filelist.py /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.filelist /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.globlist /home/tannal/tannalwork/projects/chromium/src/content/test/
