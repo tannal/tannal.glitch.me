@@ -1,4 +1,7 @@
 
+
+python3 /home/tannal/tannalwork/projects/chromium/src/build/ios/update_bundle_filelist.py /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.filelist /home/tannal/tannalwork/projects/chromium/src/content/test/content_test_bundle_data.globlist /home/tannal/tannalwork/projects/chromium/src/content/test/
+
 # 2026-07-22
 
 python .\wpt run firefox ./mathml-aam/aamtests/role/link.py --binary "C:\Users\tannal\scoop\apps\googlechrome\current\chrome.exe" --no-headless
