@@ -205,7 +205,7 @@ Worked hours: 30h:15min
 
 Tasks:
 
-Open a issue for attributes mapping of <msqrt> and <mn>, and submitted a spec-fix PR [1][2]
+Build/Run and setup clangd for webkit project on my Linux desktop [1][2]
 
 Achieved 87% code coverage for mathml_anchor_element.cc is 87%, and 83% for mathml_anchor_element.h [3]
 
