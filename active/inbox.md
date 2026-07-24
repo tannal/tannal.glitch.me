@@ -1,6 +1,58 @@
 
 # 2026-07-23
 
+[Weekly report 9]
+
+Worked hours: 30h:15min
+
+Tasks:
+
+Build/Run and setup clangd for WebKit project on my Linux desktop [1][2]
+
+Implement StylePropertyMap.delete in Firefox CSS Typed OM (as a follow-up to .clear) [3]
+
+Commited to role mapping for MathML a element in chromium and the spec change [4]
+
+Sent a pr to fix `ATK_` prefix in the mathml-aam spec.
+
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement
+
+Next:
+
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
+
+Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
+
+Implement MathMLAnchorElement idl support in Firefox/Webkit
+
+Raise mathml_anchor_element code converge to at least 90% [10]
+
+Links:
+
+[1] https://github.com/w3c/mathml-aam/issues/40
+
+[2] https://github.com/w3c/aria/pull/2843
+
+[3] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+
+[4] https://github.com/w3c/mathml-aam/issues/41
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
+
+[6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
+
+[7] https://phabricator.services.mozilla.com/D312027
+
+[8] https://github.com/w3c/aria/pull/2844
+
+[9] https://issues.chromium.org/u/1/issues/512726601
+
+[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
+
+[11] https://github.com/web-platform-tests/wpt/pull/61018#discussion_r3521449838
+
+third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/href-navigation.html
+
 ```
 [WebChromeClient::createWindow] ===== ENTERED =====
 [WebChromeClient::createWindow] Opened Frame Name: ''
@@ -205,23 +257,15 @@ Worked hours: 30h:15min
 
 Tasks:
 
-Build/Run and setup clangd for webkit project on my Linux desktop [1][2]
+Build/Run and setup clangd for WebKit project on my Linux desktop [1][2]
 
-Achieved 87% code coverage for mathml_anchor_element.cc is 87%, and 83% for mathml_anchor_element.h [3]
+Implement StylePropertyMap.delete in Firefox CSS Typed OM (as a follow-up to .clear) [3]
 
-Filed a role mapping issue for some mathml elements [4]
+Commited to role mapping for MathML a element in chromium and the spec change [4]
 
-Submitted a WIP CL for adding `ping` attribute to MathMLAnchorElement in chromium [5]
+Sent a pr to fix `ATK_` prefix in the mathml-aam spec.
 
-Filed a Firefox issue regarding mathml `<a>` element a11y mapping [6]
-
-Implement StylePropertyMap.clear for Firefox CSS Typed OM [7]
-
-Working on the aria spec changes of mathml `<a>` element [8]
-
-Adds two tests for MathMLElement attributeStyleMap in wpt tests [6]
-
-Working on incorporating HyperlinkElementUtils mixin in SVGAElement
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement
 
 Next:
 
@@ -229,15 +273,9 @@ Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
 Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
 
-Implement MathMLAnchorElement idl support in firefox
+Implement MathMLAnchorElement idl support in Firefox/Webkit
 
 Raise mathml_anchor_element code converge to at least 90% [10]
-
-Implement StylePropertyMap.delete in Firefox (as a follow-up to .clear)
-
-Fix ATK prefix of mathml aam spec as Valerie said [11]
-
-MathMLAnchorElement in Firefox and Webkit don't support target attribute 
 
 Links:
 
@@ -325,7 +363,7 @@ out/Default/content_browsertests \
   --enable-blink-features=MathMLAnchorElement \
   --generate-accessibility-test-expectations
 
---user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX)
+./out/Default/chrome --user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX)
 
 Hello,
 
