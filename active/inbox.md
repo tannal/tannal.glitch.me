@@ -265,7 +265,9 @@ Commited to role mapping for MathML a element in chromium and the spec change [4
 
 Sent a pr to fix `ATK_` prefix in the mathml-aam spec.
 
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement.
+
+4/10 of my active work are merged this week [6]
 
 Next:
 
@@ -273,23 +275,23 @@ Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
 Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
 
-Implement MathMLAnchorElement idl support in Firefox/Webkit
+Implement MathMLAnchorElement idl support and other attributes in Firefox/Webkit
 
 Raise mathml_anchor_element code converge to at least 90% [10]
 
 Links:
 
-[1] https://github.com/w3c/mathml-aam/issues/40
+[1] https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view#WebKit-build
 
-[2] https://github.com/w3c/aria/pull/2843
+[2] https://blogs.igalia.com/vwatermeier/how-i-set-up-my-ide-for-the-webkit-container-sdk/
 
-[3] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+[3] https://phabricator.services.mozilla.com/D313936
 
 [4] https://github.com/w3c/mathml-aam/issues/41
 
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
 
-[6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
+[6] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#All-my-active-work
 
 [7] https://phabricator.services.mozilla.com/D312027
 
