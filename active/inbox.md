@@ -1,7 +1,7 @@
 
 # 2026-07-23
 
-
+python/mach/mach/site.py
 
 We might want to deprecate the `RemovePropertyInternal(NonCustomCSSPropertyId aPropId, ErrorResult& aRv)` and `RemovePropertyInternal(const nsACString& aPropertyName, ErrorResult& aRv)` to infavor of the new `void nsDOMCSSDeclaration::RemoveProperty(const CSSPropertyId& aPropertyId,
                                          mozilla::ErrorResult& aRv)`
