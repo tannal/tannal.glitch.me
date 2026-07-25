@@ -1,3 +1,223 @@
+# 2026-07-25
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+https://v2ex.com/go/jobs - Google 搜索
+https://www.google.com/search?q=https%3A%2F%2Fv2ex.com%2Fgo%2Fjobs
+
+CLI Overview - Cline
+https://docs.cline.bot/usage/cli-overview
+
+Open Account Intro | Charles Schwab
+https://www.schwab.com.hk/open-account-intro
+
+罚款 200 元，没收 100 多万 - OSCHINA - 开源 × AI · 开发者生态社区
+https://www.oschina.net/news/259325
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+如何看中国程序员在国内为海外软件公司工作，被没收违法所得100多万？ - 知乎
+https://zhuanlan.zhihu.com/p/658488108
+
+胡锡进 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/zh-cn/%E8%83%A1%E9%94%A1%E8%BF%9B
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+游戏人格-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E4%BA%BA%E6%A0%BC&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+在百万豪装录音棚大声听 S.H.E《你曾是少年》【Hi-res】_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Bu4y1d7KJ/?spm_id_from=333.337.search-card.all.click
+
+32141.doc
+file:///C:/Users/tannal/AppData/Local/Temp/74826444-b217-47e5-baf6-b4a114a48dc4_contract%20(1).zip.contract%20(1).zip/contract_43042201H20240000222.pdf
+
+一图速览关于调整完善国家助学贷款有关政策的通知
+https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202411/t20241114_3947485.htm
+
+国家开发银行助学贷款学生在线系统
+https://www.csls.cdb.com.cn/#/my-loan
+
+认识 Wise 收益功能 - Wise
+https://wise.com/us/interest/
+
+申请
+https://ndcdyn.interactivebrokers.com/Universal/Application
+
+Charles Simonyi - Google 搜索
+https://www.google.com/search?q=Charles+Simonyi&oq=Charles+Simonyi&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBBzI4M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+rustdesk - Google 搜索
+https://www.google.com/search?q=rustdesk&sca_esv=6b29d58effbbb846&sxsrf=APpeQnuM0UGtD5Lx__XHuAAcWCSWcWFuKA:1784290245154&ei=xRtaasKLCe6vur8PtYGHoQg&start=10&sa=N&sstk=AU9db-DpRo_Fvx3wW0U8urn8aA7hZsvJzI74OoyIE3nyvv_iTopT4ND9epNbywjh1fsHQeuYJgjb5E9IwjE4r7bCVhrZXBtrtJRZ0Q&ved=2ahUKEwiCgvSR19mVAxXul-4BHbXAIYQQ8tMDegQILhAE&biw=1440&bih=731&dpr=2
+
+headless erp - Google 搜索
+https://www.google.com/search?q=headless+erp&oq=headless+erp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yCAgJEAAYBRge0gEINTM3NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Examples | CopilotKit
+https://www.copilotkit.ai/examples
+
+CopilotKit Intelligence — Operations
+https://dashboard.operations.copilotkit.ai/sign-in?utm_source=corp&utm_medium=intelligence&utm_campaign=corp
+
+Log in | DBOS Cloud Console
+https://login.dbos.dev/u/login/identifier?state=hKFo2SBLT1F6aWRTSmg2c0tCVkdjQS1GcTdBcmR0QXpjd1F5d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFdOb1JmT0E0QUZueW9XUmMwcDB0dkk0OG1iN2RpN3F4o2NpZNkgY0haaFUxWG9YdktnaUk4RVhINjExM2lTQTE0dXNIZHo
+
+(5) Getting started with GenUI - YouTube
+https://www.youtube.com/watch?v=nWr6eZKM6no
+
+Apple sues OpenAI, alleging artificial intelligence company stole trade secrets | Apple | The Guardian
+https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets
+
+CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+https://github.com/copilotkit/copilotkit
+
+CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+https://github.com/copilotkit/copilotkit
+
+(5) OpenAI's New Phone Details Leaked... Agentic OS Disaster... - YouTube
+https://www.youtube.com/watch?v=jvaTZJKQvqo
+
+openai ai phone - Google 搜索
+https://www.google.com/search?q=openai+ai+phone&oq=openai+ai+phone&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgIGB4yCAgDEAAYCBgeMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgYIBhBFGDwyBggHEEUYPdIBCDMxMTJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2312.11805
+https://arxiv.org/pdf/2312.11805
+
+Patrick Naughton
+https://gwern.net/doc/rotten.com/library/bio/crime/criminals/patrick-naughton/index.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=relieved&op=translate
+
+人民币升值 - Google 搜索
+https://www.google.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC&sca_esv=813e191b57523132&biw=1440&bih=731&sxsrf=APpeQnutp8EBvQc0arqLy7PZuarhngx3ag%3A1784463058517&ei=0r5caqaZH63KkPIPlbiu-Qg&ved=0ahUKEwimyt712t6VAxUtJUQIHRWcK48Q4dUDCBA&uact=5&oq=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E5%80%BC&gs_lp=Egxnd3Mtd2l6LXNlcnAiD-S6uuawkeW4geWNh-WAvDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARImxVQAFisEnAAeAGQAQCYAZ8DoAGfFaoBBzItOS4xLjG4AQPIAQD4AQGYAgugAs8VwgIEECMYJ8ICChAAGIAEGIoFGEPCAgsQLhiABBjHARjRA8ICBxAAGIAEGAyYAwCSBwcyLTkuMS4xoAe9KbIHBzItOS4xLjG4B88VwgcFMC41LjbIByOACAE&sclient=gws-wiz-serp
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=eu&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIGCAAQRRg5MgYIARAjGCcyBggCECMYJzIHCAMQLhiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIMTQyNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+AutoX.js github - Google 搜索
+https://www.google.com/search?q=AutoX.js+github&sca_esv=ba36a18872e2e28d&sxsrf=APpeQnvbfBTK4B3OYE5OBBDIs0MRqqeyuA%3A1784466354522&ei=sstcap_DH5q8kPIPrOyGgAw&biw=1440&bih=731&ved=0ahUKEwif5LKZ596VAxUaHkQIHSy2AcAQ4dUDCBA&uact=5&oq=AutoX.js+github&gs_lp=Egxnd3Mtd2l6LXNlcnAiD0F1dG9YLmpzIGdpdGh1YjIFEAAYgAQyCBAAGIAEGMsBMgYQABgIGB4yBhAAGAgYHjIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIIEAAYiQUYogRIuRJQqwNYhw1wAXgBkAEBmAGZBaABhRiqAQkyLTEuMi4yLjK4AQPIAQD4AQGYAgagApgQwgIKEAAYRxjWBBiwA8ICBhAAGB4YCsICBBAAGB6YAwCIBgGQBgqSBwkxLjAuMS4xLjOgB_UOsgcHMi0xLjEuM7gHlBDCBwUwLjUuMcgHDoAIAQ&sclient=gws-wiz-serp
+
+automan-bot/AutoX: 最新文档：
+https://github.com/automan-bot/AutoX
+
+autox-community/AutoX: AutoX.js
+https://github.com/autox-community/AutoX
+
+localhost:8000/damai.js
+http://localhost:8000/damai.js
+
+Scoop - Apps (bun)
+https://scoop.sh/#/apps?q=bun
+
+关于我
+https://www.heysifei.com/s/about
+
+mtop.damai.cn/gw/mtop.common.getTimestamp/
+https://mtop.damai.cn/gw/mtop.common.getTimestamp/
+
+poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process
+https://github.com/poteto/hiring-without-whiteboards
+
+Open positions | CI&T
+https://ciandt.com/us/en-us/careers/open-positions
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=trivia%20&op=translate
+
+MathML Accessibility API Mappings 1.0
+http://localhost:8000/mathml-aam/#el-annotation
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+MathML Core
+https://w3c.github.io/mathml-core/#string-literal-ms
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/core-aam/#role-map-checkbox
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role/mathml-role.py?label=pr_head&max-count=1&pr=61018
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=braces&op=translate
+
+Comparing w3c:main...tannal:mathml-rename · w3c/aria
+https://github.com/w3c/aria/compare/main...tannal:aria:mathml-rename?expand=1
+
+Remove ATK prefix from ATK/AT-SPI role names of mathml-aam · Issue #42 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/42
+
+Core Accessibility API Mappings 1.2
+http://localhost:8000/core-aam/
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-annotation
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844
+
+MathML Accessibility API Mappings 1.0
+https://deploy-preview-2851--wai-aria.netlify.app/mathml-aam/#el-annotation
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844
+
+MathML Accessibility API Mappings 1.0
+https://deploy-preview-2844--wai-aria.netlify.app/mathml-aam/#el-a
+
+2054819 - Accessibility mapping of mathml <a> element
+https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
+
+MathML Accessibility API Mappings 1.0
+https://deploy-preview-2844--wai-aria.netlify.app/mathml-aam/#el-a
+
+HTML Accessibility API Mappings 1.0
+https://w3c.github.io/html-aam/#el-a
+
+Editorial: Remove ATK prefix from role names for ATK/AT-SPI by tannal · Pull Request #2851 · w3c/aria
+https://github.com/w3c/aria/pull/2851/changes
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+爱情公寓-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=37105693&keyword=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+爱情公寓第三季24 最终幻想3_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1Tm421u7xW?spm_id_from=333.788.videopod.sections
+
+芙蓉王源vs尼古丁真-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E8%8A%99%E8%93%89%E7%8E%8B%E6%BA%90vs%E5%B0%BC%E5%8F%A4%E4%B8%81%E7%9C%9F&from_source=websuggest_search&spm_id_from=333.788&search_source=5
+
+爱情公寓4-6c_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1pCyPYKE5C?spm_id_from=333.788.videopod.sections
+
+MathML Accessibility API Mappings 1.0
+http://localhost:8000/mathml-aam/#el-mspace
+
+HTML Accessibility API Mappings 1.0
+http://localhost:8000/html-aam/#el-a
+
+SVG Accessibility API Mappings
+http://localhost:8000/svg-aam/#role-map-a
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/core-aam/#role-map-link
+
+Luanti - Google 搜索
+https://www.google.com/search?q=Luanti&oq=Luanti&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDzSAQc4NThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+XProger/OpenLara: Classic Tomb Raider open-source engine
+https://github.com/XProger/OpenLara
+
+OpenLara
+http://xproger.info/projects/OpenLara/
 
 # 2026-07-21
 
