@@ -261,7 +261,7 @@ https://www.heysifei.com/archives/20240901-gong-zuo-yi-nian-ban-hou-de-yi-xie-ga
 
 [Weekly report 8]
 
-Worked hours: 30h:15min
+Worked hours: 31h:45min
 
 Tasks:
 
@@ -273,11 +273,11 @@ Commited to role mapping for MathML a element in chromium and the spec change [4
 
 Sent a pr to fix `ATK_` prefix in the mathml-aam spec.
 
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement.
-
 4/10 of my active work are merged this week [6]
 
 Next:
+
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement.
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
