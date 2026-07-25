@@ -1,4 +1,20 @@
 
+# 2026-07-25
+
+第三代：Agentic Dynamic UI / HITL（Human-In-The-Loop） (2025 - 2026 现状)
+
+形态：就是你描述的这种形态！
+
+工作流：
+
+读操作（Read）：用户说“帮我分析一下上个月退款率异常的订单”。Agent 自己写 SQL 查 DB，生成图表和分析报告。
+
+写操作评估（Write Assessment）：Agent 发现有 5 个订单符合批量补偿标准。因为涉及数据写操作/资金扣减，Agent 不能擅自执行。
+
+UI 动态合成（UI Generation）：Agent 实时生成一个包含这 5 笔订单明细、可勾选、带危险警告按钮的 “确认补偿卡片（Action Card）”。
+
+人类确认（Human UX Operation）：人类用户点选审查，点击“批准执行”，Agent 拿到人类授权的 Token 后再去触发后端 Write API。
+
 # 2026-07-23
 
 python/mach/mach/site.py
