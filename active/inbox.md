@@ -1,6 +1,10 @@
 
 # 2026-07-25
 
+Error Summary
+-------------
+/css/css-typed-om/the-stylepropertymap/inline/attribute-changed-callback.html
+  UNEXPECTED-PASS attributeStyleMap.clear() triggers attributeChangedCallback
 
 ```
 # 1. 避免历史记录覆盖：改成追加模式
