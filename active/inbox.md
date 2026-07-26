@@ -1,6 +1,25 @@
 
 # 2026-07-25
 
+
+```
+# 1. 避免历史记录覆盖：改成追加模式
+shopt -s histappend
+
+# 2. 设置超大历史记录容量（默认只有1000条，很容易满了自动清空）
+HISTSIZE=50000
+HISTFILESIZE=100000
+
+# 3. 忽略重复命令和以空格开头的敏感命令
+HISTCONTROL=ignoreboth
+
+# 4. 记录命令执行的时间戳（强烈推荐，查找命令时带时间）
+HISTTIMEFORMAT="%Y-%m-%d %H:%M:%S "
+
+# 5. 【最关键的一步】：每执行完一条命令，立即将历史写入磁盘文件并刷新内存
+PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
+```
+
 https://issues.chromium.org/issues/40208899
 
 ```
