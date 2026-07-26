@@ -1,6 +1,14 @@
 
 # 2026-07-25
 
+Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+
+Differential Revision: https://phabricator.services.mozilla.com/D313936
+
+git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
+
+git fetch origin && git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
+
 第三代：Agentic Dynamic UI / HITL（Human-In-The-Loop） (2025 - 2026 现状)
 
 形态：就是你描述的这种形态！
