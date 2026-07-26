@@ -1,6 +1,29 @@
 
 # 2026-07-25
 
+https://issues.chromium.org/issues/40208899
+
+```
+# 将 mold 注册为系统的 ld 备选路径之一，优先级设为 100
+sudo update-alternatives --install /usr/bin/ld ld /usr/local/bin/mold 100
+
+# 如果以后想切回原生的 ld.bfd 或 ld.lld，运行这行即可图形化切换：
+# sudo update-alternatives --config ld
+```
+
+```
+# 1. 创建临时目录并下载最新的 Linux x86_64 静态包
+cd /tmp
+MOLD_LATEST=$(curl -s https://api.github.com/repos/rui314/mold/releases/latest | grep "browser_download_url.*x86_64-linux.tar.gz" | cut -d '"' -f 4)
+wget -O mold-latest.tar.gz "$MOLD_LATEST"
+
+# 2. 解压并优雅地覆盖到 /usr/local（标准的第三方本地软件安装路径）
+sudo tar -C /usr/local --strip-components=1 -xzf mold-latest.tar.gz
+
+# 3. 清理临时文件
+rm mold-latest.tar.gz
+```
+
 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
 
 Differential Revision: https://phabricator.services.mozilla.com/D313936
