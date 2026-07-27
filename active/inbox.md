@@ -1,6 +1,8 @@
 
 # 2026-07-25
 
+git reset --hard origin/main
+
 Error Summary
 -------------
 /css/css-typed-om/the-stylepropertymap/inline/attribute-changed-callback.html
