@@ -331,7 +331,7 @@ https://www.heysifei.com/archives/20240901-gong-zuo-yi-nian-ban-hou-de-yi-xie-ga
 
 [Weekly report 8]
 
-Worked hours: 31h:45min
+Worked hours: 33h:45min
 
 Tasks:
 
@@ -339,11 +339,11 @@ Build/Run and setup clangd for WebKit project on my Linux desktop [1][2]
 
 Implement StylePropertyMap.delete in Firefox CSS Typed OM (as a follow-up to .clear) [3]
 
-Commited to role mapping for MathML a element in chromium and the spec change [4]
+Commited to role mapping for MathML a element in chromium [4], the spec change [5] and the wpt tests [6]
 
-Sent a pr to fix `ATK_` prefix in the mathml-aam spec.
+Sent a pr to fix `ATK_` prefix in the mathml-aam spec. [7]
 
-4/10 of my active work are merged this week [6]
+3/10 of my active work are merged last week, 2/10 ready to land this week [8]
 
 Next:
 
@@ -351,11 +351,11 @@ Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement.
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
-Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
+Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg
 
 Implement MathMLAnchorElement idl support and other attributes in Firefox/Webkit
 
-Raise mathml_anchor_element code converge to at least 90% [10]
+Raise mathml_anchor_element code converge to at least 90%
 
 Links:
 
@@ -365,21 +365,15 @@ Links:
 
 [3] https://phabricator.services.mozilla.com/D313936
 
-[4] https://github.com/w3c/mathml-aam/issues/41
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8011647
 
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
+[5] https://github.com/w3c/aria/pull/2844
 
-[6] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#All-my-active-work
+[6] https://github.com/web-platform-tests/wpt/pull/61018
 
-[7] https://phabricator.services.mozilla.com/D312027
+[7] https://github.com/w3c/aria/pull/2851
 
-[8] https://github.com/w3c/aria/pull/2844
-
-[9] https://issues.chromium.org/u/1/issues/512726601
-
-[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
-
-[11] https://github.com/web-platform-tests/wpt/pull/61018#discussion_r3521449838
+[8] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#All-my-active-work
 
 # 2026-07-17
 

@@ -1,3 +1,351 @@
+
+# 2026-07-27
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Flexport System Design Interview: The Complete Guide
+https://www.systemdesignhandbook.com/guides/flexport-system-design-interview/#:~:text=Common%20Flexport%20System%20Design%20interview%20questions%20%2D,%2D%20Design%20a%20logistics%20ETL%20data%20pipeline.
+
+Flexport Interview Questions | Interview Solver | AI Copilot for coding interviews
+https://interviewsolver.com/interview-questions/flexport
+
+Igalia Chat [3] | CE Students 2026 < Igalia
+https://chat.igalia.com/#/room/!bivFuvgpFRxBFsqxpO:igalia.com
+
+Final whistle during World Cup triggered seismic tremors in Spain
+https://www.brusselstimes.com/2238946/final-whistle-during-world-cup-triggered-seismic-tremors-in-spain
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role/mathml-role.py?label=pr_head&max-count=1&pr=61018
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-33cce6193d9f08e4e7602419a8bea00a753abfa84b6d95d89b6730e9bc1faabe
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647/15?tab=checks
+
+running - android-x86-rel b8675577814667789521
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x86-rel/b8675577814667789521/test-results?q=ExactID%3A%3A%2F%2Fcontent%2Ftest%5C%3Acontent_browsertests%21gtest%3A%3ADumpAccessibilityTreeTest%23MathMLAnchor%2FAll.android+VHash%3A32316f6899274cc2&clean=
+
+Task Page - Swarming
+https://chromium-swarm.appspot.com/task?id=79a25cf221d72311
+
+CAS Viewer
+https://cas-viewer.appspot.com/projects/chromium-swarm/instances/default_instance/blobs/be91f497f386ee6f11584dbc0833834b2e7ceadf73eb63842486f763832601b6/170/tree
+
+canceled - win-rel 1598219
+https://ci.chromium.org/ui/p/chromium/builders/try/win-rel/1598219/overview
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-07-24&user=344
+
+Time tracking (week of Jul 20, 2026)
+https://hours.igalia.com/time/week/2026-07-26
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view#WebKit-build
+
+Introducing the WebKit Container SDK | TingPing’s blog
+https://blog.tingping.se/2024/05/23/Introducing-WebKit-Container-SDK.html
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+⚙ D313936 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+https://phabricator.services.mozilla.com/D313936
+
+⚙ D313936 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+https://phabricator.services.mozilla.com/D313936
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647?tab=checks
+
+⚙ D313936 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+https://phabricator.services.mozilla.com/D313936#10900896
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+Move hreflang and type to HyperlinkElementUtils mixin [512880068] - Chromium
+https://issues.chromium.org/issues/512880068
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+• Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+…/svg_a_element.idl · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/8/third_party/blink/renderer/core/svg/svg_a_element.idl#40
+
+HTML Accessibility API Mappings 1.0
+https://w3c.github.io/html-aam/#el-a
+
+319107 – AX: WebKit should only expose href-less SVG anchors as links if they have a click handler (matching HTML anchors)
+https://bugs.webkit.org/show_bug.cgi?id=319107
+
+Igalia/webkit-container-sdk: The all-in-one SDK for WebKit GTK/WPE port development.
+https://github.com/Igalia/webkit-container-sdk
+
+Careers | Sourcegraph
+https://sourcegraph.com/jobs#job-list
+
+Job Application for Software Engineer Ⅰ at Flexport
+https://job-boards.greenhouse.io/flexport/jobs/7978696
+
+Careers at Flexport | Open Positions
+https://www.flexport.com/careers/jobs/?department=&location=Shenzhen
+
+Job Application for Software Engineer Ⅰ at Flexport
+https://job-boards.greenhouse.io/flexport/jobs/7978696
+
+Interview Prep - Interview Logistics
+https://interviewing.flexport.com/interview-logistics
+
+Senior Software Engineer, Infrastructure & Productivity - Airwallex Careers
+https://careers.airwallex.com/job/1b9a80ed-c6fa-4e84-a9ca-2bf8d62a7d7b/senior-software-engineer-infrastructure-productivity/
+
+注册 | 领英
+https://www.linkedin.com/signup/cold-join
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+收件箱 (15) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+2056273 - New wpt crashes in /mathml/relations/html5-tree/href-navigation.html
+https://bugzilla.mozilla.org/show_bug.cgi?id=2056273
+
+Job Application for Software Engineer Ⅰ at Flexport
+https://job-boards.greenhouse.io/flexport/jobs/7978696
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128?gate=6408874992205824
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128/gate/6408874992205824/intent
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-annotation
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=unilateral&op=translate
+
+paste.rs/dGFlk
+https://paste.rs/dGFlk
+
+paste.rs/SwK9M
+https://paste.rs/SwK9M
+
+MathMLMarkupMap.inc - mozsearch
+https://searchfox.org/firefox-main/source/accessible/base/MathMLMarkupMap.inc
+
+Map MathML elements to specific roles (3207929) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3207929
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/mathml-aam/#el-annotation
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/core-aam/#role-map-link
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role/mathml-role.py?label=pr_head&max-count=1&pr=61018
+
+wpt/core-aam/aamtests/role/link.py at 82c2a43fce2041ef49937b8651b9093a60012751 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/82c2a43fce/core-aam/aamtests/role/link.py
+
+Atspi.Accessible - Classes - Atspi 2.0
+https://lazka.github.io/pgi-docs/Atspi-2.0/classes/Accessible.html#Atspi.Accessible.get_hypertext_iface
+
+HTML Accessibility API Mappings 1.0
+https://w3c.github.io/html-aam/#el-a
+
+SVG Accessibility API Mappings
+https://w3c.github.io/svg-aam/#role-map-a
+
+Map MathML elements to specific roles (3207929) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3207929/4
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+rendering-utils.js - mozsearch
+https://searchfox.org/firefox-main/rev/9a8a80db6ce10ffc2fc91a1e25685eed59ce3501/testing/web-platform/tests/common/rendering-utils.js#8
+
+Deprecate href on all MathML elements except `<a>` by eerii · Pull Request #61628 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/61628
+
+Configuration
+https://clangd.llvm.org/config.html#compileflags
+
+webkit clangd set up - Google 搜索
+https://www.google.com/search?q=webkit+clangd+set+up&oq=webkit+clangd+set+up&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQzMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+How I set up my IDE for the WebKit container SDK
+https://blogs.igalia.com/vwatermeier/how-i-set-up-my-ide-for-the-webkit-container-sdk/
+
+Setting up VisualStudio code to work with WebKitGTK using clangd – Alicia's blog
+https://blogs.igalia.com/aboya/2021/10/02/setting-up-visualstudio-code-to-work-with-webkitgtk-using-clangd/
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+MathML Core
+https://w3c.github.io/mathml-core/#string-literal-ms
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items
+
+MathMLAnchorElement javascript: URL navigation test
+http://web-platform.test:8081/mathml/relations/html5-tree/href-lick-js-handler.tentative.html
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+HTML Standard
+https://html.spec.whatwg.org/#dom-navigation-navigate
+
+Navigation API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Navigation_API
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/nav-history-apis.html#navigation-api
+
+precedent set navigation api - Google 搜索
+https://www.google.com/search?q=precedent+set+navigation+api&oq=precedent+set+navigation+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgTGIAEMgkIAhAAGBMYgAQyCQgDEAAYExiABDIJCAQQABgTGIAEMgkIBRAAGBMYgAQyCQgGEAAYExiABDIICAcQABgTGB4yCAgIEAAYExgeMggICRAAGBMYHtIBCDY4OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2057406 - Implement delete method for StylePropertyMap
+https://bugzilla.mozilla.org/show_bug.cgi?id=2057406
+
+⚙ D312027 Bug 2054878 - Implement StylePropertyMap.clear in CSS Typed OM r=emilio
+https://phabricator.services.mozilla.com/D312027
+
+Jan Varga - Google 搜索
+https://www.google.com/search?q=Jan+Varga&oq=Jan+Varga&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARBFGCcYOzIJCAIQABgTGIAEMgkIAxAAGBMYgAQyCQgEEAAYExiABDIJCAUQABgTGIAEMggIBhAAGBMYHjIGCAcQRRg90gEIMTIyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+安全验证 | 领英
+https://www.linkedin.com/checkpoint/challenge/AgFS8JsUEXEIUAAAAZ-SxCmcSZ6RHhkb5VIGv7FbwfhCmSsD7faIf7bbYLX7bS92O-Y4jEQa7ZSPoQJsB8c50lJ0s_qzzA?ut=2gELz6G62TWIk1
+
+⚙ D313936 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+https://phabricator.services.mozilla.com/D313936
+
+MathML A11y Test Suite
+http://localhost:8080/test.html
+
+Accessibility Inspector — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/
+
+test_MathMLSpec.html - mozsearch
+https://searchfox.org/firefox-main/rev/91d6cd2d1476bca635bb96f82ca34eda283b5460/accessible/tests/mochitest/elm/test_MathMLSpec.html#458
+
+mathml-multiscript.html - mozsearch
+https://searchfox.org/wubkat/rev/d221d71a6a560cb45bb3e9b23e526b6bcfa9e4b3/LayoutTests/accessibility/mac/mathml-multiscript.html
+
+Presentation Markup
+https://www.w3.org/TR/MathML3/chapter3.html#presm.mmultiscripts
+
+content/browser/accessibility/browser_accessibility_win.cc - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/0eebf0cd114b70337c0ae3562786e538bd6aac9d/content/browser/accessibility/browser_accessibility_win.cc
+
+2005254 - Stylo fails to compile if any crate in the tree enables the "debug" feature of the derive_more crate
+https://bugzilla.mozilla.org/show_bug.cgi?id=2005254
+
+…/a.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647/15..16/content/test/data/accessibility/mathml/a.html
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+Element: computedStyleMap() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/computedStyleMap
+
+⚙ D256956 Bug 1976443 - Add stub implementation for StylePropertyMap; r=emilio
+https://phabricator.services.mozilla.com/D256956
+
+signature function c++ - Google 搜索
+https://www.google.com/search?q=signature+function+c%2B%2B&oq=signature+function&gs_lcrp=EgZjaHJvbWUqBggDEAAYHjIGCAAQRRg5MgYIARAAGB4yBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAUYHjIICAgQABgFGB4yCAgJEAAYBRge0gEJMTU4ODBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Searchfox
+https://searchfox.org/
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om/#dom-stylepropertymap-set
+
+CSSStyleDeclaration: removeProperty() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/removeProperty
+
+CSS Object Model (CSSOM) Module Level 1
+https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-removeproperty
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844/changes
+
+MaybeCreateSVGAccessible (nsAccessibilityService.cpp - mozsearch)
+https://searchfox.org/firefox-main/rev/0f16fef034090c1c63f6e80e048eea32faad2ea3/accessible/base/nsAccessibilityService.cpp#338
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Re: [WebKit/standards-positions] New MathMLAnchorElement interface for linking in MathML (Issue #691) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQhVXCvFQtRkWLsjHbPNTVKmWxK
+
+New MathMLAnchorElement interface for linking in MathML · Issue #691 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/691#issuecomment-5081377767
+
+Linking <a> · Issue #1429 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1429
+
+Explainer for the MathML <a> element
+https://people.igalia.com/fwang/mathml-a-href/
+
+rui314/mold: mold: A Modern Linker 🦠
+https://github.com/rui314/mold
+
+Using mold for Chromium discussion. · Issue #336 · rui314/mold
+https://github.com/rui314/mold/issues/336
+
+Use mold / wild linker for faster debug builds [40208899] - Chromium
+https://issues.chromium.org/issues/40208899
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+Editorial: Remove ATK prefix from role names for ATK/AT-SPI by tannal · Pull Request #2851 · w3c/aria
+https://github.com/w3c/aria/pull/2851
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#All-my-active-work
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=comments
+
+Chromium
+https://issues.chromium.org/issues
+
 # 2026-07-25
 
 2026-05-08起 - Google Gemini
