@@ -1,4 +1,13 @@
 
+# 2026-07-28
+
+
+./wpt run safari mathml/relations/html5-tree/href-navigation.html
+
+
+./wpt run safari mathml/relations/html5-tree/href-navigation.html --no-headless --pause-after-test
+
+
 # 2026-07-25
 
 git reset --hard origin/main
