@@ -605,9 +605,9 @@ auto* union_value = MakeGarbageCollected<V8UnionStringOrTrustedScriptURL>(new_ur
 
 ./wpt run chrome mathml-aam/aamtests/role/link.py --no-headless --pause-after-test
 
-siso auth-check
-
 export SISO_CREDENTIAL_HELPER=gcloud
+
+siso auth-check
 
 # 2026-06-30
 
