@@ -96,21 +96,17 @@ Worked hours: 30h:15min
 
 Tasks:
 
-Build/Run and setup clangd for WebKit project on my Linux desktop [1][2]
+Implement MathMLAnchorElement idl support and target attribute in Firefox [1][2]
 
-Implement StylePropertyMap.delete in Firefox CSS Typed OM (as a follow-up to .clear) [3]
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement
 
-Commited to role mapping for MathML a element in chromium and the spec change [4]
-
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` SVGAElement
-
-Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg[9]
 
 Next:
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
-Implement MathMLAnchorElement idl support in Firefox/Webkit
+Implement MathMLAnchorElement idl support in Webkit
 
 Raise mathml_anchor_element code converge to at least 90% [10]
 
