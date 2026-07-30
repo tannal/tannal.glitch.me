@@ -1,6 +1,9 @@
 
 # 2026-07-28
 
+I think we can safely delete `href-navigation.html.ini` but this is what `./mach wpt-update wpt.log` gave.
+So I'm unsure about this now.
+
 https://www.v2ex.com/t/1230794#reply72
 
 ```
