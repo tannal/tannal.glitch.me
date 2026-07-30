@@ -2,6 +2,17 @@
 # 2026-07-28
 
 
+```
+# 1. 将当前用户加入 kvm 组
+sudo usermod -aG kvm $USER
+
+# 2. 赋予 /dev/kvm 正确权限（即时生效辅助）
+sudo chown root:kvm /dev/kvm
+```
+proxychains
+
+href, target, download, ping, rel, hreflang, type and referrerpolicy.
+
 ./wpt run safari mathml/relations/html5-tree/href-navigation.html
 
 
