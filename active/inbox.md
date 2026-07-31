@@ -113,11 +113,15 @@ Tasks:
 
 Implement MathMLAnchorElement idl support and target attribute in Firefox [1][2]
 
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [3]
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg[9]
+Implement SVG `HyperlinkElementUtils` mixin is ready to land [4]
 
 Next:
+
+MathML/SVG anchor element don't respect to base element in the document
+
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg[9]
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
