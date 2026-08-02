@@ -1,6 +1,9 @@
 
 # 2026-07-28
 
+remote: Processing changes: refs: 1, new: 1, done    
+remote: WARNING: commit a91f28d: subject longer than 72 characters; use shorter first paragraph
+
 I think we can safely delete `href-navigation.html.ini` but this is what `./mach wpt-update wpt.log` gave.
 So I'm unsure about this now.
 
@@ -107,11 +110,11 @@ git cl patch 8011647
 
 [Weekly report 9]
 
-Worked hours: 30h:15min
+Worked hours: 23h:45min
 
 Tasks:
 
-Implement MathMLAnchorElement idl support and target attribute in Firefox [1][2]
+Implement MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1][2]
 
 Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [3]
 
@@ -119,15 +122,15 @@ Implement SVG `HyperlinkElementUtils` mixin is ready to land [4]
 
 Next:
 
-MathML/SVG anchor element don't respect to base element in the document
+MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg[9]
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
 Implement MathMLAnchorElement idl support in Webkit
 
-Raise mathml_anchor_element code converge to at least 90% [10]
+Raise mathml_anchor_element code converge to at least 90%
 
 Links:
 
