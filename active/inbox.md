@@ -1,4 +1,41 @@
 
+# 2026-08-02
+
+
+[Weekly report 9]
+
+Worked hours: 23h:45min
+
+Tasks:
+
+Implement MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
+
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [2]
+
+Write WPT for CSP style policy checking for all MathMLElement and a WPT for attributeStyleMap for SVG elements [3]
+
+The CL that Implements SVG `HyperlinkElementUtils` mixin is ready to land
+
+Next:
+
+MathML/SVG anchor element don't respect to base element in the document in Chromium
+
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg
+
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
+
+Implement MathMLAnchorElement idl support in Webkit
+
+Raise mathml_anchor_element code converge to at least 90%
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D315266
+
+[2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
 # 2026-07-28
 
 remote: Processing changes: refs: 1, new: 1, done    
@@ -114,11 +151,13 @@ Worked hours: 23h:45min
 
 Tasks:
 
-Implement MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1][2]
+Implement MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
 
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [3]
+Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [2]
 
-Implement SVG `HyperlinkElementUtils` mixin is ready to land [4]
+Write WPT for CSP style policy checking for all MathMLElement and a WPT for attributeStyleMap for SVG elements [3]
+
+The CL that Implements SVG `HyperlinkElementUtils` mixin is ready to land
 
 Next:
 
@@ -134,27 +173,12 @@ Raise mathml_anchor_element code converge to at least 90%
 
 Links:
 
-[1] https://github.com/w3c/mathml-aam/issues/40
+[1] https://phabricator.services.mozilla.com/D315266
 
-[2] https://github.com/w3c/aria/pull/2843
+[2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
 
-[3] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=92424768f2a112a29b1d09630cf7e2cd590b168a&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
 
-[4] https://github.com/w3c/mathml-aam/issues/41
-
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/8084280
-
-[6] https://bugzilla.mozilla.org/show_bug.cgi?id=2054819
-
-[7] https://phabricator.services.mozilla.com/D312027
-
-[8] https://github.com/w3c/aria/pull/2844
-
-[9] https://issues.chromium.org/u/1/issues/512726601
-
-[10] https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=8c60b7b2fa32a106b4bc98666bec25dd3e237de2&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#51
-
-[11] https://github.com/web-platform-tests/wpt/pull/61018#discussion_r3521449838
 
 third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/href-navigation.html
 
