@@ -2,6 +2,47 @@
 # 2026-08-02
 
 To: dev-platform@mozilla.org
+Subject: Intent to prototype: MathML <a> element
+
+Summary:
+Introduces the <a> element within the MathML namespace exposed via the new MathMLAnchorElement WebIDL interface (which inherits from MathMLElement and includes HyperlinkElementUtils). This feature aligns MathML hyperlink capabilities with HTMLAnchorElement and SVGAElement to ensure consistent link handling, styling, and privacy mitigation across HTML, SVG, and MathML. Linking in mathematical expressions allows authors to link specific terms, variables, or formulas to external references or definitions.
+
+Bug:
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+Specification:
+https://w3c.github.io/mathml-core/#the-a-element
+
+Standards Body:
+W3C (MathML Working Group / MathML Core)
+
+Platform Coverage:
+All platforms (Desktop, Android).
+
+Preference:
+mathml.a.element.enabled (Boolean, disabled by default for prototyping)
+
+DevTools Bug:
+N/A (Uses standard DOM element inspection via existing Inspector infrastructure)
+
+Extensions Bug:
+N/A
+
+Use Counter:
+Not yet implemented (Will track usage via Telemetry/UseCounter if needed during implementation).
+
+Standards-Positions Discussion:
+https://github.com/mozilla/standards-positions/issues/1429
+
+Other Browsers:
+- Blink: Intent to Prototype emailed (https://groups.google.com/a/chromium.org/d/msgid/blink-dev/398b6ab3-d82d-4600-ab3d-cdc98761c39en%40chromium.org) / Chrome Status: https://chromestatus.com/feature/6543819626643456
+- WebKit: Proposed / Under discussion in W3C MathML WG (https://github.com/w3c/mathml-core/pull/307)
+
+web-platform-tests:
+- Spec/Explainer: https://people.igalia.com/fwang/mathml-a-href
+- WPT tests will be located under `/mathml/` (e.g. `/mathml/presentation-markup/links/`).
+
+To: dev-platform@mozilla.org
 Subject: Intent to prototype: 
 
 Summary:
