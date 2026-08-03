@@ -2,7 +2,7 @@
 # 2026-08-02
 
 To: dev-platform@mozilla.org
-Subject: Intent to prototype: <your feature goes here>
+Subject: Intent to prototype: 
 
 Summary:
 Elevator pitch for the new functionality including benefits to users and web developers.
