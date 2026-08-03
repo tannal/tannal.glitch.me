@@ -1,6 +1,48 @@
 
 # 2026-08-02
 
+To: dev-platform@mozilla.org
+Subject: Intent to prototype: <your feature goes here>
+
+Summary:
+Elevator pitch for the new functionality including benefits to users and web developers.
+
+Bug:
+Link to Bugzilla (tracking) bug.
+
+Specification:
+Link to the specification (see details above).
+
+Standards Body:
+Identify the standards body responsible for standardizing this feature if that is not obvious from the specification; if the specification is not already adopted by a standards body, link to the issue or a discussion about adoption of the work (if no discussion exists, please start that process before filing this intent).
+
+Platform Coverage:
+Where will this be available? Android, Desktop, only exposed to privileged apps (certified app-only functionality does not require an email), etc.
+
+Preference:
+How can interested parties test this before it ships pref'd on by default?
+
+DevTools Bug:
+Link to a Developer Tools bug coordinating work with the DevTools team to build tools for this feature.
+
+Extensions Bug:
+Link to a WebExtension bug coordinating work with the WebExtension team to build tools for this feature.
+
+Use Counter:
+Name of the use counter used for this feature, or explain why one is not feasible.
+
+Standards-Positions Discussion:
+Link to an issue in mozilla/standards-positions about what we think about the specification.
+
+Other Browsers:
+- Blink: address with "shipped" (since version X, behind what flags if any), "intent emailed" (mailing list URL), or "considering" (citation).
+- WebKit: address with "shipped" (since version X, behind what flags if any), "intent emailed" (mailing list URL), or "considering" (citation).
+
+web-platform-tests:
+Link to the test suite. If any part of the feature is not tested by web-platform-tests, or if you had to write gecko-only tests for parts of the feature, please include links to one or more of:
+- A web-platform-tests issue explaining why a certain thing cannot be tested (example).
+- A spec issue for some change that would make it possible to test (example).
+- A Bugzilla bug for the creation of web-platform-tests.
 
 [Weekly report 10]
 
