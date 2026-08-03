@@ -2,7 +2,7 @@
 # 2026-08-02
 
 
-[Weekly report 9]
+[Weekly report 10]
 
 Worked hours: 23h:45min
 
@@ -14,7 +14,7 @@ Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElem
 
 Write WPT for CSP style policy checking for all MathMLElement and a WPT for attributeStyleMap for SVG elements [3]
 
-The CL that Implements SVG `HyperlinkElementUtils` mixin is ready to land
+Implement StylePropertyMap.append in Firefox CSS Typed OM (as a follow-up to .delete, not published yet) [4]
 
 Next:
 
@@ -35,6 +35,8 @@ Links:
 [2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
 
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
 
 # 2026-07-28
 
@@ -157,7 +159,7 @@ Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElem
 
 Write WPT for CSP style policy checking for all MathMLElement and a WPT for attributeStyleMap for SVG elements [3]
 
-The CL that Implements SVG `HyperlinkElementUtils` mixin is ready to land
+Working on StylePropertyMap.append in Firefox CSS Typed OM (as a follow-up to .delete, not published yet) [4]
 
 Next:
 
@@ -178,6 +180,8 @@ Links:
 [2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
 
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
 
 
 third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/href-navigation.html
@@ -576,7 +580,7 @@ Next:
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
-Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg[9]
+Add `rel` / `relList` attributes support for mathml `<a>` element and tests them, see svg [9]
 
 Implement MathMLAnchorElement idl support in firefox
 
