@@ -1,4 +1,333 @@
 
+# 2026-08-03
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Home
+https://phabricator.services.mozilla.com/
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+Editorial: Remove ATK prefix from role names for ATK/AT-SPI by tannal · Pull Request #2851 · w3c/aria
+https://github.com/w3c/aria/pull/2851
+
+AX: WebKit should only expose href-less SVG anchors as links if they have a click handler (matching HTML anchors) by AndrewJMart · Pull Request #70287 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/70287/changes
+
+paste.rs/dGFlk
+https://paste.rs/dGFlk
+
+Igalia Chat [4] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+…/svg-element-attributeStyleMap.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8173850/1/third_party/blink/web_tests/external/wpt/svg/styling/svg-element-attributeStyleMap.html
+
+Clipping of violation’s sample to the 40 first characters · Issue #704 · w3c/webappsec-csp
+https://github.com/w3c/webappsec-csp/issues/704
+
+Clipping of violation’s sample to the 40 first characters · Issue #704 · w3c/webappsec-csp
+https://github.com/w3c/webappsec-csp/issues/704
+
+w3c/svgwg: SVG Working Group specifications
+https://github.com/w3c/svgwg
+
+HedgeDoc - Collaborative markdown notes
+https://notes.igalia.com/EZqWXCa2Q6u4OhIjHGm_gw?view
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255?tab=comments
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#effective-directive-for-inline-check
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/dom.html#the-style-attribute
+
+HTMLIFrameElement: contentWindow property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLIFrameElement/contentWindow
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#should-block-inline
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#effective-directive-for-inline-check
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/dom.html#the-style-attribute
+
+CSPViolationReport - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/CSPViolationReport
+
+Content-Security-Policy: style-src directive - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy/style-src
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?show=eyJpaWQiOiI0MCIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQ0Mn0%3D
+
+⚙ D313936 Bug 2057406 - Implement StylePropertyMap.delete in CSS Typed OM r=janv
+https://phabricator.services.mozilla.com/D313936#change-GCCBcyOmuU7B
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-02&user=344
+
+paste.rs/SwK9M
+https://paste.rs/SwK9M
+
+TestOptions.cpp - mozsearch
+https://searchfox.org/wubkat/rev/d221d71a6a560cb45bb3e9b23e526b6bcfa9e4b3/Tools/WebKitTestRunner/TestOptions.cpp#119
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree/href-navigation.html?label=experimental&label=master&aligned
+
+MathMLAnchorElement href target navigation test
+http://wpt.live/mathml/relations/html5-tree/href-navigation.html
+
+Accessibility mapping of <a> element by tannal · Pull Request #2844 · w3c/aria
+https://github.com/w3c/aria/pull/2844
+
+Core Accessibility API Mappings 1.2
+https://deploy-preview-2844--wai-aria.netlify.app/core-aam/#role-map-link
+
+(3) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+2057406 - Implement delete method for StylePropertyMap
+https://bugzilla.mozilla.org/show_bug.cgi?id=2057406
+
+Firefox Release Notes Nomination - MozillaWiki
+https://wiki.mozilla.org/Release_Management/Release_Notes_Nomination
+
+…/a-hyperlinkutils-getter.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/13/third_party/blink/web_tests/external/wpt/svg/linking/scripted/a-hyperlinkutils-getter.html
+
+⚙ D315266 Bug 2059312 - Part 1: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+…/a-hyperlinkutils-getter-setter.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/10/third_party/blink/web_tests/external/wpt/svg/linking/scripted/a-hyperlinkutils-getter-setter.html
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+收件箱 (3) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41#issuecomment-5133997497
+
+MathML-Core Agenda July 27, 2026 · Issue #336 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/336
+
+owner:mtan@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:mtan@igalia.com
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-0d8511365d14a3b25f01befb51ef851cf4ef725e3270a8f91ca7c60cf8b7a846
+
+⚙ D256956 Bug 1976443 - Add stub implementation for StylePropertyMap; r=emilio
+https://phabricator.services.mozilla.com/D256956
+
+Time tracking (week of Jul 27, 2026)
+https://hours.igalia.com/time/week
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#list-valued-properties
+
+m:d:StylePropertyMap::WrapObject (StylePropertyMap.cpp - mozsearch)
+https://searchfox.org/firefox-main/source/layout/style/typedom/StylePropertyMap.cpp
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#append-to-a-stylepropertymap
+
+Secure Contexts
+https://www.w3.org/TR/secure-contexts/#localhost
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#grammardef-serialized-source-list
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=why%20is%20this%20notable&op=translate
+
+wpt/fetch/compression-dictionary/dictionary-fetch-with-link-connect-src.tentative.https.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/fetch/compression-dictionary/dictionary-fetch-with-link-connect-src.tentative.https.html
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128?gate=6408874992205824
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128/gate/6408874992205824/intent
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+Intent to Prototype: Swap SVGAElement to the new HyperlinkElementUtils
+https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+
+explainers/blob-url-opaque-origin at main · Igalia/explainers
+https://github.com/Igalia/explainers/tree/main/blob-url-opaque-origin
+
+Byungwoo Lee | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/blee
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188
+
+登录至桌面应用 | Zulip
+https://auth.zulipchat.com/complete/github/?code=569b8aa655c1ed4359d4&state=GxN0WzrUiGeXExP8ZdC0OldAOnisIBDt
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592
+
+1451823 - Support ping, rel, referrerPolicy, relList, hreflang, type and text properties on SVG <a> elements
+https://bugzilla.mozilla.org/show_bug.cgi?id=1451823
+
+Claude Desktop on Linux (beta) - Claude Code Docs
+https://code.claude.com/docs/en/desktop-linux
+
+codex read only mode - Google 搜索
+https://www.google.com/search?q=codex+read+only+mode&oq=codex+read+only+mode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgFGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIHCAQQABjvBTIKCAUQABiABBiiBDIKCAYQABiABBiiBDIHCAcQABjvBTIICAgQABgIGB4yBwgJEAAY7wXSAQg0MzE5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+User Profile: mtan@igalia.com
+https://bugzilla.mozilla.org/user_profile?user_id=790688
+
+2056273 - New wpt crashes in /mathml/relations/html5-tree/href-navigation.html
+https://bugzilla.mozilla.org/show_bug.cgi?id=2056273
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree/href-navigation.html?label=experimental&label=master&aligned
+
+2056273 - New wpt crashes in /mathml/relations/html5-tree/href-navigation.html
+https://bugzilla.mozilla.org/show_bug.cgi?id=2056273
+
+User Profile: mtan@igalia.com
+https://bugzilla.mozilla.org/user_profile?user_id=790688
+
+2045388 - Move target attribute to HTMLHyperlinkElementUtils IDL file
+https://bugzilla.mozilla.org/show_bug.cgi?id=2045388
+
+⚙ Query: Advanced Search
+https://phabricator.services.mozilla.com/differential/query/WczoK3MxoTNj/#R
+
+claude cowork read only mode - Google 搜索
+https://www.google.com/search?q=claude+cowork+read+only+mode&oq=claude+cowork+read+only+mode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIKCAQQABiABBiiBDIHCAUQABjvBdIBCDc3MTlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Login - Sub2API
+https://dragoncode.codes/login
+
+Login - Dragon Code
+https://dragoncode.codes/login
+
+Login - Sub2API
+https://dragoncode.codes/login
+
+New MathMLAnchorElement interface for linking in MathML · Issue #691 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/691
+
+Getting reviews — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/contributing/reviews.html
+
+Intent to prototype: Implement the MathMLElement interface and the corresponding content attributes
+https://groups.google.com/g/mozilla.dev.platform/c/ssTytf-pT7k
+
+[mathml] Initial Support for MathMLAnchorElement under MathML namespace (7940188) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7940188
+
+⚙ D315266 Bug 2059312 - Part 1: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+Query: Advanced Search
+https://phabricator.services.mozilla.com/search/query/vwe4K9zoD1A6/#R
+
+⚙ D314710 Bug 2058578 - Add HyperlinkElementUtils interface to SVGAElement r=emilio
+https://phabricator.services.mozilla.com/D314710#change-KyPQDLgIHior
+
+m:d:Element::SanitizeLinkOrFormTarget (Element.cpp - mozsearch)
+https://searchfox.org/firefox-main/rev/878b64a4c024f657de81fb66a1e7de1aaad9109c/dom/base/Element.cpp#4744
+
+searchfox code coverage - Google 搜索
+https://www.google.com/search?q=searchfox+code+coverage&oq=searchfox+code+coverage&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCDcxMzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+wpt/docs/running-tests/safari.md at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/docs/running-tests/safari.md
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+
+⚙ D290362 Bug 2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters. r=emilio,eri,flod
+https://phabricator.services.mozilla.com/D290362
+
+2026848 - Add preference to disable MathML href on all but `<a>` elements, with deprecation and use counters
+https://bugzilla.mozilla.org/show_bug.cgi?id=2026848
+
+1586011 - Factor out IsFocusableInternal
+https://bugzilla.mozilla.org/show_bug.cgi?id=1586011
+
+Document：write() 方法 - Web API | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/API/Document/write
+
+MathML Core
+https://w3c.github.io/mathml-core/#dom-mathmlanchorelement
+
+MathML CSP: style-src-attr and style-src syntax enforcement
+http://localhost:8001/mathml/relations/html5-tree/style-src-attr-meta.html
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#directive-style-src
+
+[mathml] Add WPT tests for attributeStyleMap on MathMLElement (8010506) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8010506
+
+Add Web Platform Tests for CSP style policy checking on all MathML elements. [541711729] - Chromium
+https://issues.chromium.org/u/1/issues/541711729?pli=1
+
+[HiC] Re-enable painting of search-text markers (7533939) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7533939
+
+[wpt] Web Platform Tests for CSP and AttributeStyleMap on MathML and SVG elements (8173850) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+Include HyperlinkElementUtils mixin in SVGAElement [512726601] - Chromium
+https://issues.chromium.org/u/1/issues/512726601
+
+Intent to prototype: Implement the MathMLElement interface and the corresponding content attributes
+https://groups.google.com/g/mozilla.dev.platform/c/ssTytf-pT7k
+
+245927 – font-size treats <number> as pixels in standard mode when previously specified on SVG/MathML
+https://bugs.webkit.org/show_bug.cgi?id=245927
+
+WICG/html-in-canvas
+https://github.com/WICG/html-in-canvas
+
+Coverage for chromium/src - //third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=b1bdb6033525ef1a6eedf61330aef30f62a1cd48&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0
+
+隆重推出 HTML-in-Canvas API 源试用  |  Blog  |  Chrome for Developers
+https://developer.chrome.com/blog/html-in-canvas-origin-trial?hl=zh-cn
+
+Home · Wiki · Shared Resources / Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/wikis/Home
+
 # 2026-07-27
 
 2026-05-08起 - Google Gemini
