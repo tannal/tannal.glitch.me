@@ -1,4 +1,46 @@
 
+
+```
+void GetHref(nsAString& aHref, ErrorResult& aRv) const {
+  // 1. 获取 raw href 属性值
+  const nsAttrValue* attr = mAttrs.GetAttr(nsGkAtoms::href);
+  if (!attr) {
+    // 属性不存在，清空返回值并直接返回
+    aHref.Truncate();
+    return;
+  }
+
+  // 2. 获取文档的基准 URI (Base URI)
+  nsCOMPtr<nsIURI> baseURI = GetBaseURI();
+
+  // 3. 尝试将 href 解析为绝对 URI (nsIURI)
+  nsCOMPtr<nsIURI> uri;
+  nsresult rv = nsContentUtils::NewURIWithDocumentCharset(
+      getter_AddRefs(uri), nsAttrValueOrString(attr).String(), OwnerDoc(), baseURI);
+
+  // 4. 判断 URI 是否解析成功
+  if (NS_FAILED(rv) || !uri) {
+    // 失败/无法解析（例如 href 是 "javascript:..." 或非法 URL）：
+    // 回退处理：直接返回未经解析的原始属性字符串
+    attr->ToString(aHref);
+    return;
+  }
+
+  // 5. 成功解析：获取规范化的绝对 URI 字符串 (UTF-8)
+  nsAutoCString spec;
+  rv = uri->GetSpec(spec);
+  if (NS_FAILED(rv)) {
+    // 极罕见的获取失败回退
+    attr->ToString(aHref);
+    return;
+  }
+
+  // 6. 将 UTF-8 的 URI spec 转换为 DOM 要求的 UTF-16 nsAString
+  CopyUTF8toUTF16(spec, aHref);
+}
+```
+
+
 CSP diff
 
 ```diff
