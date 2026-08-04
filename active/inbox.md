@@ -1,4 +1,33 @@
 
+
+# 2026-08-03
+
+› kan qilai servo de document components/script/dom/document/document.rs he script de ouhe youdian yanzhong
+ 
+  womeng de rengwu shi zhaodao yige heshi de difang lai jing xing coverage based fuzzy
+ 
+  womeng yijing youle shili daima @fuzz/fuzz_targets/html_parser_target.rs danshi zhege daima mock le yige jiandan de NopSink
+ 
+  meiyou banfa zhengshi de ceshi dao servo de daima, erqie yezhishi fuzz le yige lib, wo meng xuyao bimian zhege qingkuang.
+ 
+  qing ni zhaochu yige heshi de qiepian he mozu keyi yonglai fuzzy tests
+ 
+  zai @fuzz mulu xia yijing chuangjian haole yige jiyu libfuzzer cargo fuzz xiangmu de wenjian, ni keneng xuyao xiugai servo de daima
+ 
+  zhaodao yixie zuiheshi fuzz de mozu bing patch shangguan de rust daima dedao wanzhengde duixiang canshu setup huanjing dengdeng
+ 
+  jiezhe bianxie yixie target laijing xing you corpus de fuzzceshi wo zhiqian yunxing guo cargo fuzz cmin html_parser_target corpus/html_parser -- -o corpus/
+  html_parser_min
+ 
+  xianyou de infrastucuture haimeiyou banfa jingxing gao jingzhundu de fuzzy ceshi, nixuyao xiugai yixie daima chuangjian yixie mock object/class, ranhou setup
+  huanjing xuanze yixie heshi de module bianxie yixie target ranhou yunxing ceshi
+
+ › qing jixu wancheng fuzz de patch rengwu zhaodao he shi de module, xie yixie helper class lai setup zhexie module ranhou liyong libfuzzer womengyijing you de yixie
+   fuzz/ muluxiade infra xie yixie target laijingxing fuzz, yinggai haisheji dao yilai de yinru he setup
+ 
+   qing zhijie yong zhongwen laihuida wo shiyong pingying shiyingwei wo meiyou zhongwen shurufa
+   yong zhongwen huida
+
 # 2026-08-02
 
 To: dev-platform@mozilla.org
@@ -6,6 +35,9 @@ Subject: Intent to prototype: MathML <a> element
 
 Summary:
 Introduces the <a> element within the MathML namespace exposed via the new MathMLAnchorElement WebIDL interface (which inherits from MathMLElement and includes HyperlinkElementUtils). This feature aligns MathML hyperlink capabilities with HTMLAnchorElement and SVGAElement to ensure consistent link handling, styling, and privacy mitigation across HTML, SVG, and MathML. Linking in mathematical expressions allows authors to link specific terms, variables, or formulas to external references or definitions.
+
+Explainer:
+https://people.igalia.com/fwang/mathml-a-href/
 
 Bug:
 https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
@@ -29,7 +61,7 @@ Extensions Bug:
 N/A
 
 Use Counter:
-Not yet implemented (Will track usage via Telemetry/UseCounter if needed during implementation).
+N/A
 
 Standards-Positions Discussion:
 https://github.com/mozilla/standards-positions/issues/1429
@@ -39,16 +71,43 @@ Other Browsers:
 - WebKit: Proposed / Under discussion in [Standards-Positions Discussion](https://github.com/WebKit/standards-positions/issues/691)
 
 web-platform-tests:
-- Spec/Explainer: https://people.igalia.com/fwang/mathml-a-href
-- WPT tests will be located under `/mathml/` (e.g. `/mathml/presentation-markup/links/`).
+- WPT tests will be located under `/mathml/` (e.g. `/mathml/relations/html5-tree/`).
 
-mathml/relations/html5-tree/dynamic-href-002-expected.txt 
-mathml/relations/html5-tree/href-click-003-expected.txt 
-mathml/relations/html5-tree/html-or-svg-or-mathml-element-interfaces-expected.txt 
-mathml/relations/html5-tree/tabindex-001-expected.txt 
-mathml/relations/html5-tree/tabindex-focus-001-expected.txt 
+https://wpt.live/mathml/relations/html5-tree/a-hreflang-getter.html
+https://wpt.live/mathml/relations/html5-tree/a-hreflang-setter.html
+https://wpt.live/mathml/relations/html5-tree/a-type-getter-001.html
+https://wpt.live/mathml/relations/html5-tree/a-type-getter-002.html
+https://wpt.live/mathml/relations/html5-tree/a-type-setter.html
+https://wpt.live/mathml/relations/html5-tree/anchor-hyperlinkutils-getter.html
+https://wpt.live/mathml/relations/html5-tree/anchor-hyperlinkutils-getter-setter.html
+https://wpt.live/mathml/relations/html5-tree/href-navigation.html
+https://wpt.live/mathml/relations/html5-tree/a-ping.html
+https://wpt.live/mathml/relations/html5-tree/dynamic-href-002.html
+https://wpt.live/mathml/relations/html5-tree/href-click-003.html
+https://wpt.live/mathml/relations/html5-tree/html-or-svg-or-mathml-element-interfaces.html
+https://wpt.live/mathml/relations/html5-tree/tabindex-001.html
+https://wpt.live/mathml/relations/html5-tree/tabindex-focus-001.html
+
+Security & Privacy Tests:
+
+https://wpt.live/mathml/relations/html5-tree/anchor-visited-privacy.html
+https://wpt.live/mathml/relations/html5-tree/canvas-visited-privacy.html
 
 A11y Mapping tests: https://github.com/web-platform-tests/wpt/pull/61018
+
+Security & Privacy Concerns:
+
+Disabling javascript: URL navigation is discussed in https://github.com/w3c/mathml-core/issues/333
+
+There is a section in the explainer talking about `:visited` selector matching. And we have tests for them.
+
+This feature also needs to update sanitizer spec and the default configurations in the sanitizer api.
+
+Web Designer / Developer Use-Cases:
+
+See the explainer: https://people.igalia.com/fwang/mathml-a-href/
+
+
 
 To: dev-platform@mozilla.org
 Subject: Intent to prototype: 
