@@ -36,11 +36,19 @@ https://github.com/mozilla/standards-positions/issues/1429
 
 Other Browsers:
 - Blink: Intent to Prototype emailed (https://groups.google.com/a/chromium.org/d/msgid/blink-dev/398b6ab3-d82d-4600-ab3d-cdc98761c39en%40chromium.org) / Chrome Status: https://chromestatus.com/feature/6543819626643456
-- WebKit: Proposed / Under discussion in W3C MathML WG (https://github.com/w3c/mathml-core/pull/307)
+- WebKit: Proposed / Under discussion in [Standards-Positions Discussion](https://github.com/WebKit/standards-positions/issues/691)
 
 web-platform-tests:
 - Spec/Explainer: https://people.igalia.com/fwang/mathml-a-href
 - WPT tests will be located under `/mathml/` (e.g. `/mathml/presentation-markup/links/`).
+
+mathml/relations/html5-tree/dynamic-href-002-expected.txt 
+mathml/relations/html5-tree/href-click-003-expected.txt 
+mathml/relations/html5-tree/html-or-svg-or-mathml-element-interfaces-expected.txt 
+mathml/relations/html5-tree/tabindex-001-expected.txt 
+mathml/relations/html5-tree/tabindex-focus-001-expected.txt 
+
+A11y Mapping tests: https://github.com/web-platform-tests/wpt/pull/61018
 
 To: dev-platform@mozilla.org
 Subject: Intent to prototype: 
