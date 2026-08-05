@@ -1,9 +1,15 @@
 
 # 2026-08-05
 
-./wpt run webkit mathml-aam/aamtests/attribute/mathml-attributes.py   --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk --log-mach - --log-mach-level debug --pytest-arg="-s" \
-  --pytest-arg="--tb=short" \
-  --pytest-arg="--showlocals" 2>&1 | tee log.txt
+
+
+./wpt run webkit mathml/relations/html5-tree/href-navigation.html --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk
+
+tannal@wkdev:/host/home/tannal/tannalwork/projects/wpt$ sudo mkdir -p /usr/local/libexec/webkitgtk-6.0/
+tannal@wkdev:/host/home/tannal/tannalwork/projects/wpt$ sudo ln -s /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser /usr/local/libexec/webkitgtk-6.0/MiniBrowser
+tannal@wkdev:/host/home/tannal/tannalwork/projects/wpt$ 
+
+./wpt run webkit mathml-aam/aamtests/attribute/mathml-attributes.py   --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk --log-mach - --log-mach-level debug 2>&1 | tee log.txt
 
 
 ./wpt run webkit \
