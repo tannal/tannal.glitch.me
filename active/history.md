@@ -1,4 +1,351 @@
 
+# 2026-08-05
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+dev-platform@mozilla.org - Google 群组
+https://groups.google.com/a/mozilla.org/g/dev-platform
+
+dev-platform@mozilla.org - Google 群组
+https://groups.google.com/u/1/a/mozilla.org/g/dev-platform
+
+Basic Data Types and Interfaces — SVG 2
+https://www.w3.org/TR/SVG/types.html#InterfaceSVGURIReference
+
+Igalia Chat [4] | Frédéric
+https://chat.igalia.com/#/room/!IfqjrlZNmEHmgtoXAN:igalia.com
+
+paste.rs/SwK9M
+https://paste.rs/SwK9M
+
+wpt/docs/running-tests/safari.md at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/docs/running-tests/safari.md#safari
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592/changes
+
+HTML Standard
+https://whatpr.org/html/12592/dynamic-markup-insertion.html
+
+HTML Standard
+https://whatpr.org/html/12592/infrastructure.html
+
+HTML Standard
+https://html.spec.whatwg.org/#inner-sanitize-steps
+
+HTML Standard
+https://html.spec.whatwg.org/#sanitizer-configuration
+
+Running Tests from the Local System — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/from-local-system.html#hosts-file-setup
+
+Running Tests from the Local System — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/from-local-system.html#macos-setup
+
+Running Tests from the Local System — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/from-local-system.html#macos-setup
+
+Safari — web-platform-tests documentation
+https://web-platform-tests.org/running-tests/safari.html
+
+canvas_fuzzer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/canvas_fuzzer.cc?q=canvas_fuzzer.cc&ss=chromium%2Fchromium%2Fsrc
+
+third_party/blink/web_tests/external/wpt/trusted-types/eval-function-constructor-expected.txt - chromium/src - Git at Google
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/third_party/blink/web_tests/external/wpt/trusted-types/eval-function-constructor-expected.txt
+
+[Gecko Bug 2046119] Part 2: Update WPT trusted-types tests for Dynamic Code Brand Checks. by moz-wptsync-bot · Pull Request #61338 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61338/changes
+
+servo/components/script/dom/servoparser/mod.rs at 40dba3dd1f4cef8b442d5768b8cd4861dfc792da · servo/servo
+https://github.com/servo/servo/blob/40dba3dd1f4cef8b442d5768b8cd4861dfc792da/components/script/dom/servoparser/mod.rs#L186
+
+canvas_fuzzer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/canvas_fuzzer.cc?q=canvas_fuzzer.cc&ss=chromium%2Fchromium%2Fsrc
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate
+
+BUILD.gn - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/BUILD.gn;l=68?q=canvas_fuzzer.cc&ss=chromium%2Fchromium%2Fsrc
+
+canvas_fuzzer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/canvas_fuzzer.cc
+
+BUILD.gn - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/BUILD.gn;l=68?q=canvas_fuzzer.cc&ss=chromium%2Fchromium%2Fsrc
+
+canvas_fuzzer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/modules/canvas/canvas_fuzzer.cc?q=canvas_fuzzer.cc&ss=chromium%2Fchromium%2Fsrc
+
+Fuzzing Interface — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/fuzzing/fuzzing_interface.html
+
+css_parser_fuzzer.cc - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/css/parser/css_parser_fuzzer.cc?q=FUZZ_TEST%7CLLVMFuzzer%20filepath:third_party%2Fblink&ss=chromium%2Fchromium%2Fsrc&start=1
+
+[WebGPU] Add the ability to fuzz wgslc · WebKit/WebKit@751a8c0
+https://github.com/WebKit/WebKit/commit/751a8c03a46a2b18f88e4385e7c15a2dd49cbddf
+
+FUZZ_TEST|LLVMFuzzer filepath:third_party/blink - Search
+https://source.chromium.org/search?q=FUZZ_TEST%7CLLVMFuzzer%20filepath:third_party%2Fblink&ss=chromium%2Fchromium%2Fsrc
+
+ClusterFuzz | Documentation for ClusterFuzz
+https://google.github.io/clusterfuzz/
+
+libfuzzer/src/lib.rs at main · rust-fuzz/libfuzzer
+https://github.com/rust-fuzz/libfuzzer/blob/main/src/lib.rs
+
+Getting started with fuzzing in Chromium
+https://chromium.googlesource.com/chromium/src/+/main/testing/libfuzzer/getting_started.md#run-the-fuzztest-locally
+
+Getting started with fuzzing in Chromium
+https://chromium.googlesource.com/chromium/src/+/main/testing/libfuzzer/getting_started.md
+
+…/mathml_operator_dictionary_fuzzer.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3734887/3/third_party/blink/renderer/platform/text/mathml_operator_dictionary_fuzzer.cc
+
+…/mathml_operator_dictionary_fuzzer.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3734887/3/third_party/blink/renderer/platform/text/mathml_operator_dictionary_fuzzer.cc
+
+[mathml] Add the `ping` attribute of the mathml a element (8084280) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8084280
+
+Improve MathML fuzzing [40230485] - Chromium
+https://issues.chromium.org/issues/40230485
+
+Getting started with fuzzing in Chromium
+https://chromium.googlesource.com/chromium/src/+/main/testing/libfuzzer/getting_started.md
+
+Coverage guided vs blackbox fuzzing | ClusterFuzz
+https://google.github.io/clusterfuzz/reference/coverage-guided-vs-blackbox/#blackbox-fuzzing
+
+rust-fuzz/afl.rs: 🐇 Fuzzing Rust code with American Fuzzy Lop
+https://github.com/rust-fuzz/afl.rs
+
+Rust Fuzzing Authority
+https://github.com/rust-fuzz
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate
+
+googleprojectzero/domato: DOM fuzzer
+https://github.com/googleprojectzero/domato
+
+Commits · fred-wang/servo-fuzzing
+https://github.com/fred-wang/servo-fuzzing/commit/b7d8c9d91ee9a24d93cf5592d0deab83f3c01c99
+
+honggfuzz-rs 0.5.7 - asciinema.org
+https://asciinema.org/a/165181
+
+google/honggfuzz: Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
+https://github.com/google/honggfuzz
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing#generating-test-cases
+
+ExposureGuidelines - MozillaWiki
+https://wiki.mozilla.org/ExposureGuidelines
+
+[wpt] Web Platform Tests for CSP and AttributeStyleMap on MathML and SVG elements (8173850) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=50&show=eyJpaWQiOiIzOCIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNn0%3D
+
+LayoutTests: Update Dynamic Code Brand Checks WPT tests by Lochipi · Pull Request #69861 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/69861/changes#diff-28b62b26bf1a9937d9056431d2083c5491c236ccc14543201a876e80aba34286
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+Intent to Prototype: Implement MathML <a> element
+https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE/m/Fx-bMNyREAAJ
+
+Google 翻译
+https://translate.google.com/
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-03&user=344
+
+Time tracking (week of Aug 03, 2026)
+https://hours.igalia.com/time/week
+
+Intent to prototype: Implement the MathMLElement interface and the corresponding content attributes
+https://groups.google.com/g/mozilla.dev.platform/c/ssTytf-pT7k
+
+Pull requests · servo/servo
+https://github.com/servo/servo/pulls
+
+servo-fuzzing/download-latest-nightly.sh at main · fred-wang/servo-fuzzing
+https://github.com/fred-wang/servo-fuzzing/blob/main/download-latest-nightly.sh
+
+Issues · servo/servo
+https://github.com/servo/servo/issues
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo/
+
+ClusterFuzz - Chromium
+https://issues.chromium.org/hotlists/5432475
+
+internal error: entered unreachable code (thread Script#1, at components/script/dom/node/node.rs:788) · Issue #45795 · servo/servo
+https://github.com/servo/servo/issues/45795
+
+Implement MathML <a> element - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456?gate=6269974827106304
+
+Implement MathML <a> element - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456/gate/6269974827106304/intent
+
+rust-fuzz/cargo-fuzz: Command line helpers for fuzzing
+https://github.com/rust-fuzz/cargo-fuzz
+
+⚙ D315266 Bug 2059312 - Part 1: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/dom.html#elements-in-the-dom:attr-hyperlink-href
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+⚙ D315266 Bug 2059312 - Part 1: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#concept-hyperlink-url
+
+Web Platform Design Principles
+https://w3ctag.github.io/design-principles/#example-fe96b598
+
+⚙ D315266 Bug 2059312 - Part 1: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266#10966676
+
+Internet Speed Test - Measure Network Performance | Cloudflare
+https://speed.cloudflare.com/
+
+subconverter github - Google 搜索
+https://www.google.com/search?q=subconverter+github&oq=subconverter+github&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE0NzlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Add privacy enforcement tests for mathml anchor element (8010987) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8010987
+
+[TypedOM] WPT on attributeStyleMap for SVG elements [542025183] - Chromium
+https://issues.chromium.org/issues/542025183
+
+CSS Typed OM Level 1
+https://drafts.css-houdini.org/css-typed-om-1/#declared-stylepropertymap-objects
+
+Add Web Platform Tests for CSP style policy checking on all MathML elements. [541711729] - Chromium
+https://issues.chromium.org/issues/541711729
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+
+URL Standard
+https://url.spec.whatwg.org/#concept-url-serializer
+
+provide clearer advice about USVString vs. DOMString · Issue #84 · whatwg/webidl
+https://github.com/whatwg/webidl/issues/84
+
+html5ever/markup5ever/lib.rs at main · servo/html5ever
+https://github.com/servo/html5ever/blob/main/markup5ever/lib.rs
+
+localhost:8000/mathml/relations/html5-tree/href-getter-setter.html
+http://localhost:8000/mathml/relations/html5-tree/href-getter-setter.html
+
+SVGAElement: ping property - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/SVGAElement/ping
+
+Linking — SVG 2
+https://w3c.github.io/svgwg/svg2-draft/linking.html#InterfaceSVGAElement
+
+servo/components/script/dom/servoparser/mod.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/servoparser/mod.rs#L186
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#dom-hyperlink-href
+
+Web Platform Design Principles
+https://w3ctag.github.io/design-principles/#example-fe96b598
+
+SVGAElement::ping (SVGAElement.webidl - mozsearch)
+https://searchfox.org/firefox-main/rev/45135a4adb3c83c65c090e9c613775a5e193aba5/dom/webidl/SVGAElement.webidl#19
+
+[wpt] Add attributeStyleMap Typed OM tests for SVG elements (8173850) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+Intent to Prototype: Implement MathML <a> element
+https://groups.google.com/a/chromium.org/g/blink-dev/c/kmtYoVZjtZE/m/VK7ps7U3AAAJ
+
+Implement MathML <a> element - Chrome Platform Status
+https://chromestatus.com/feature/6543819626643456
+
+New MathMLAnchorElement interface for linking in MathML · Issue #691 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/691
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+MathML 'HTMLOrSVGOrMathMLElement` Mixin Tests
+https://wpt.live/mathml/relations/html5-tree/html-or-svg-or-mathml-element-interfaces.html
+
+Implement Document.parseHTMLUnsafe by lukewarlow · Pull Request #40246 · servo/servo
+https://github.com/servo/servo/pull/40246/changes#diff-b6bdaf97b920500ab94dea9827cda04ff8136b0f23bd0c515d9195c6be31a820
+
+what's the newest chatgpt model - Google 搜索
+https://www.google.com/search?q=what%27s+the+newest+chatgpt+model&oq=what+newest+model+&gs_lcrp=EgZjaHJvbWUqCAgDEAAYCBgeMgYIABBFGDkyCAgBEAAYCBgeMggIAhAAGAgYHjIICAMQABgIGB4yCAgEEAAYCBgeMggIBRAAGAgYHjIICAYQABgIGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQg2MjgyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+API 密钥 - Dragon Code
+https://dragoncode.codes/keys
+
+bun install claude code - Google 搜索
+https://www.google.com/search?q=bun+install+claude+code&oq=bun+install+claude+code&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBCDMxNDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+mariopalomo329/ChatGPT: 使用国内信用卡在 Google Play 上订阅 ChatGPT Plus
+https://github.com/mariopalomo329/ChatGPT
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+Document fuzzing setups · Issue #97 · servo/book
+https://github.com/servo/book/issues/97
+
+Document fuzzing setups · Issue #97 · servo/book
+https://github.com/servo/book/issues/97
+
+servo-js-fuzz/src/lib.rs at main · m0rt1c/servo-js-fuzz
+https://github.com/m0rt1c/servo-js-fuzz/blob/main/src/lib.rs
+
+Sanitizer API: MathML a element attributes testing
+http://web-platform.test:8001/sanitizer-api/mathml-a-sanitizer.html
+
+servo-js-fuzz/src/lib.rs at main · m0rt1c/servo-js-fuzz
+https://github.com/m0rt1c/servo-js-fuzz/blob/main/src/lib.rs
+
+Issues · servo/servo
+https://github.com/servo/servo
+
+builtins_default_config.json - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/sanitizer/builtins_default_config.json?q=third_party%2Fblink%2Frenderer%2Fcore%2Fsanitizer%2Fbuiltins_default_config.json
+
 # 2026-08-03
 
 2026-05-08起 - Google Gemini
