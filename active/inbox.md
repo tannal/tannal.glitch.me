@@ -1,4 +1,23 @@
 
+# 2026-08-05
+
+./wpt run webkit mathml-aam/aamtests/attribute/mathml-attributes.py   --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk --log-mach - --log-mach-level debug --pytest-arg="-s" \
+  --pytest-arg="--tb=short" \
+  --pytest-arg="--showlocals" 2>&1 | tee log.txt
+
+
+./wpt run webkit \
+  mathml-aam/aamtests/attribute/mathml-attributes.py \
+  --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser \
+  --webdriver-host 127.0.0.1 \
+  --webdriver-port 8888 \
+  --webkit-port gtk \
+  --no-headless
+
+http://localhost:8001/mathml/relations/html5-tree/style-src-attr-meta.html
+http://localhost:8001/svg/styling/svg-element-attributeStyleMap.html
+http://localhost:8001/mathml/relations/html5-tree/href-navigation.html
+http://web-platform.test:8001/sanitizer-api/mathml-a-sanitizer.html
 
 # 2026-08-03
 
