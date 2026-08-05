@@ -1,6 +1,97 @@
 
 
 ```
+diff --git a/core-aam/aamtests/support/atspi_wrapper.py b/core-aam/aamtests/support/atspi_wrapper.py
+index 958b1ea163..512c4b62b3 100644
+--- a/core-aam/aamtests/support/atspi_wrapper.py
++++ b/core-aam/aamtests/support/atspi_wrapper.py
+@@ -28,7 +28,6 @@ class AtspiWrapper(ApiWrapper[Atspi.Accessible]):
+             self.document = self._poll_for(
+                 self._find_fully_loaded_tab, f"Timeout looking for url: {self.test_url}"
+             )
+-
+         test_node = self._find_node_by_id(self.document, dom_id);
+         if not test_node:
+             raise Exception(f"Did not find node with id '{dom_id}' in accessibility API ATSPI.")
+@@ -120,30 +119,21 @@ class AtspiWrapper(ApiWrapper[Atspi.Accessible]):
+         return None
+ 
+     def _find_fully_loaded_tab(self) -> Optional[Atspi.Accessible]:
+-        """Find the tab with the test url. Only returns the tab when the tab is ready.
++            """Find the document web node in MiniBrowser."""
++            stack = [self.root]
++            while stack:
++                node = stack.pop()
++                if not node:
++                    continue
+ 
+-        :param url: The url of the test.
+-        :return: Atspi.Accessible representing test document or None.
+-        """
+-        stack = [self.root]
+-        while stack:
+-            node = stack.pop()
+-            if Atspi.Accessible.get_role_name(node) == "frame":
+-                relationset = Atspi.Accessible.get_relation_set(node)
+-                for relation in relationset:
+-                    if relation.get_relation_type() == Atspi.RelationType.EMBEDS:
+-                        tab = relation.get_target(0)
+-                        if self._is_ready(tab, self.test_url):
+-                            return tab
+-                        else:
+-                            return None
+-                continue
++                if Atspi.Accessible.get_role_name(node) == "document web":
++                    if self._is_ready(node, self.test_url):
++                        return node
+ 
+-            for i in range(Atspi.Accessible.get_child_count(node)):
+-                child = Atspi.Accessible.get_child_at_index(node, i)
+-                stack.append(child)
++                for i in range(Atspi.Accessible.get_child_count(node)):
++                    stack.append(Atspi.Accessible.get_child_at_index(node, i))
+ 
+-        return None
++            return None
+ 
+     def _is_ready(self, tab: Atspi.Accessible, url: str) -> bool:
+         """Test whether tab is fully loaded.
+diff --git a/core-aam/aamtests/support/fixtures_a11y_api.py b/core-aam/aamtests/support/fixtures_a11y_api.py
+index 4cf85804e8..b753af5aaa 100644
+--- a/core-aam/aamtests/support/fixtures_a11y_api.py
++++ b/core-aam/aamtests/support/fixtures_a11y_api.py
+@@ -12,6 +12,8 @@ def pid_from(capabilities):
+         return capabilities["safari:processID"], capabilities["browserName"]
+     if capabilities["browserName"] == "MicrosoftEdge":
+         return capabilities["goog:processID"], "edge"
++    if capabilities["browserName"] == "MiniBrowser":
++        return capabilities["webkit:processID"], "webkit"
+     return 0, capabilities["browserName"]
+ 
+ 
+diff --git a/tools/wptrunner/wptrunner/browsers/webkit.py b/tools/wptrunner/wptrunner/browsers/webkit.py
+index 66c675188f..7b5a7e7af5 100644
+--- a/tools/wptrunner/wptrunner/browsers/webkit.py
++++ b/tools/wptrunner/wptrunner/browsers/webkit.py
+@@ -41,12 +41,13 @@ def browser_kwargs(logger, test_type, run_info_data, config, **kwargs):
+ def capabilities_for_port(server_config, **kwargs):
+     port_name = kwargs["webkit_port"]
+     if port_name in ["gtk", "wpe"]:
+-        port_key_map = {"gtk": "webkitgtk"}
++        port_key_map = {"gtk": "webkit"}
+         browser_options_port = port_key_map.get(port_name, port_name)
+         browser_options_key = "%s:browserOptions" % browser_options_port
+ 
+         return {
+             "browserName": "MiniBrowser",
++            "acceptInsecureCerts": True,
+             "browserVersion": "2.20",
+             "platformName": "ANY",
+             browser_options_key: {
+
+```
+
+```
 void GetHref(nsAString& aHref, ErrorResult& aRv) const {
   // 1. 获取 raw href 属性值
   const nsAttrValue* attr = mAttrs.GetAttr(nsGkAtoms::href);
