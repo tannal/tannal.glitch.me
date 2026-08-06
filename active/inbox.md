@@ -1,6 +1,10 @@
 
 # 2026-08-06
 
+ASAN_OPTIONS=detect_leaks=0 ./mach exec cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser -- -workers=8 -jobs=8
+
+ssh mtan@buildbox4.local.igalia.com -J igalia.com
+
 ASAN_OPTIONS=detect_leaks=0 ./mach exec cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser
 
 # 2026-08-05
