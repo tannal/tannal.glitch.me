@@ -1,5 +1,7 @@
 
-cargo +nightly fuzz run servo_parse_html
+# 2026-08-06
+
+ASAN_OPTIONS=detect_leaks=0 ./mach exec cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser
 
 # 2026-08-05
 
