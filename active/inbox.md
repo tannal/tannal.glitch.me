@@ -1,4 +1,6 @@
 
+cargo +nightly fuzz run servo_parse_html
+
 # 2026-08-05
 
 file:///host/home/tannal/tannalwork/projects/wpt/test.html
