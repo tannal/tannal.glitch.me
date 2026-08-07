@@ -2,6 +2,16 @@
 
 # 2026-08-07
 
+git range-diff mathml-a-element@{2}^! mathml-a-element@{1}^!
+
+git relog mathml-a-element
+
+git diff mathml-a-element@{3} mathml-a-element@{1}
+
+git branch --merged origin/main | grep -v "^\*" | grep -v "main" | xargs git branch -d
+
+git clone https://github.com/googleprojectzero/domato.git
+
 ./mach mochitest dom/tests/mochitest/general/test_interfaces.html --log-raw wpt.log
 ./mach wpt-update wpt.log
 
