@@ -2,6 +2,12 @@
 
 # 2026-08-07
 
+nohup ./long-fuzz.sh > fuzz.out 2>&1 &
+
+./run-testcases.sh testcases/ ./servo/servoshell --headless --enable-experimental-web-platform-features
+
+python3 domato/generator.py -o testcases/ -n 100
+
 git range-diff mathml-a-element@{2}^! mathml-a-element@{1}^!
 
 git relog mathml-a-element
