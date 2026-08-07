@@ -1,5 +1,9 @@
 
 
+# 2026-08-08
+
+https://proxy-tz.gitbook.io/tools/di-jia-bei-yong-ji-chang
+
 # 2026-08-07
 
 (echo "=== DIRECTORY TREE ==="; tree -I ".git|crashes_*|testcases|servo" || find . -maxdepth 2 -not -path '*/.*'; echo -e "\n=== FILE CONTENTS ==="; for f in $(find . -maxdepth 2 -type f -not -path '*/.*' -not -name "*.log" -not -name "*.out"); do echo -e "\n--- FILE: $f ---"; cat "$f"; done) | wl-copy
