@@ -1,5 +1,18 @@
 
+
+# 2026-08-07
+
+./mach mochitest dom/tests/mochitest/general/test_interfaces.html --log-raw wpt.log
+./mach wpt-update wpt.log
+
+while true; do
+ASAN_OPTIONS=detect_leaks=0 cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser -- -runs=50000 -rss_
+limit_mb=4096 -max_len=4096
+done
+
 # 2026-08-06
+
+ASAN_OPTIONS=detect_leaks=0 cargo +nightly fuzz run servo_parse_html -- -runs=50000 -rss_limit_mb=4096
 
 moz-phab submit --single --no-wip
 
@@ -200,19 +213,21 @@ Worked hours: 23h:45min
 
 Tasks:
 
-Implement MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
+Continue to working on MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
 
-Sent a intent to prototype for Implementing `HyperlinkElementUtils` for SVGAElement [2]
+Prototype a WIP fuzzing infrastructure and a basic html fuzzer target for servo [2]
 
-Write WPT for CSP style policy checking for all MathMLElement and a WPT for attributeStyleMap for SVG elements [3]
+Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
 
-Implement StylePropertyMap.append in Firefox CSS Typed OM (as a follow-up to .delete, not published yet) [4]
+Wrote a WPT tests in sanitizer API for MathML a element [4]
+
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them (not published yet) [5]
 
 Next:
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them, see svg
+Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
