@@ -2,6 +2,14 @@
 
 # 2026-08-07
 
+(echo "=== DIRECTORY TREE ==="; tree -I ".git|crashes_*|testcases|servo" || find . -maxdepth 2 -not -path '*/.*'; echo -e "\n=== FILE CONTENTS ==="; for f in $(find . -maxdepth 2 -type f -not -path '*/.*' -not -name "*.log" -not -name "*.out"); do echo -e "\n--- FILE: $f ---"; cat "$f"; done) | wl-copy
+
+sudo apt update
+sudo apt install -y \
+  mosh \
+  htop \
+  btop
+
 nohup ./long-fuzz.sh > fuzz.out 2>&1 &
 
 ./run-testcases.sh testcases/ ./servo/servoshell --headless --enable-experimental-web-platform-features
