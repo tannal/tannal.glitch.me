@@ -1,4 +1,237 @@
 
+# 2026-08-08
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Intent to Ship: MathML
+https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ
+
+Set the LayoutNGPrinting feature to "stable". (3925546) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3925546
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+CSSOM View Module Level 1
+https://drafts.csswg.org/cssom-view/#propdef-scroll-behavior
+
+中国经济如何转向消费拉动型增长
+https://www.imf.org/zh/news/articles/2026/02/18/cf-how-chinas-economy-can-pivot-to-consumption-led-growth
+
+zh.wikipedia.org
+https://zh.wikipedia.org/zh-cn/%E5%B9%BF%E5%9C%BA%E5%8D%8F%E8%AE%AE#:~:text=%E5%9B%A0%E4%B8%BA%E6%9C%9F%E9%97%B4%E7%BE%8E%E5%85%83%E5%B7%B2%E4%B8%8B%E8%B7%8C%E4%B8%8D%E5%B0%91%EF%BC%8C%E7%BE%8E%E5%9B%BD%E9%81%82%E4%B8%8E%E6%9C%89%E5%85%B3%E5%9B%BD%E5%AE%B6%E5%86%8D%E4%BA%8E1987%E5%B9%B42%E6%9C%88%E7%AD%BE%E5%AE%9A%E3%80%8A%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8D%8F%E8%AE%AE%E3%80%8B%E4%BB%A5%E9%98%BB%E6%AD%A2%E7%BE%8E%E5%85%83%E8%B7%8C%E5%8A%BF%E5%8F%8A%E7%A8%B3%E5%AE%9A%E4%B8%8E%E5%90%84%E5%9B%BD%E6%B1%87%E7%8E%87%E3%80%82%20%E4%BD%86%E7%BE%8E%E5%85%83%E8%B7%8C%E5%8A%BF%E6%8C%81%E7%BB%AD%E3%80%82%20%E6%97%A5%E5%85%83%E7%94%B11985%E5%B9%B42%E6%9C%88%E7%9A%841%E7%BE%8E%E5%85%83%E5%85%91260.7%E6%97%A5%E5%85%83%E5%8D%87%E4%BA%86116%25%20%E8%87%B31988%E5%B9%B411%E6%9C%88%E7%9A%84121%E6%97%A5%E5%85%83%E3%80%82
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+othertales.itch.io
+https://othertales.itch.io/tick-tock-a-tale-for-two
+
+锈湖游玩顺序 - Google 搜索
+https://www.google.com/search?q=%E9%94%88%E6%B9%96%E6%B8%B8%E7%8E%A9%E9%A1%BA%E5%BA%8F&oq=%E7%BB%A3%E6%B9%96&gs_lcrp=EgZjaHJvbWUqCwgCEAAYChgLGIAEMgYIABBFGDkyCwgBEAAYChgLGIAEMgsIAhAAGAoYCxiABDILCAMQABgKGAsYgAQyCwgEEAAYChgLGIAEMgsIBRAAGAoYCxiABDILCAYQLhgKGAsYgAQyCwgHEC4YChgLGIAEMgsICBAAGAoYCxiABDILCAkQABgKGAsYgATSAQgyNDU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+We Were Here Too 中文 - Google 搜索
+https://www.google.com.hk/search?q=We+Were+Here+Too+%E4%B8%AD%E6%96%87&sca_esv=3cb7b19012468b2b&biw=1440&bih=731&sxsrf=APpeQnuita-mCqqS4mBqfMUAkft3Jux4kg%3A1784958917616&ei=xU9kavKfJbOI7NYPkdr6oAg&ved=0ahUKEwiyluSRku2VAxUzBNsEHRGtHoQQ4dUDCBA&uact=5&oq=We+Were+Here+Too+%E4%B8%AD%E6%96%87&gs_lp=Egxnd3Mtd2l6LXNlcnAiF1dlIFdlcmUgSGVyZSBUb28g5Lit5paHMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FMgUQABjvBUiVI1AAWIIgcAh4AZABAJgBygOgAdIYqgEFMy00LjS4AQPIAQD4AQL4AQGYAg-gArIVwgIIEC4YywEYgATCAggQABiABBjLAcICFxAuGMsBGIAEGJcFGNwEGN4EGOAE2AEBwgIFEAAYgATCAgQQABgemAMAugYGCAEQARgUkgcHOC4zLTQuM6AHtxayBwUzLTQuM7gHnRXCBwYwLjEzLjLIBx-ACAE&sclient=gws-wiz-serp
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.337.0.0
+
+【东倾】《低智商犯罪》解说第一期：全员发癫，爆笑不断，全剧没一个正常人！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1zwNi6LENs/?spm_id_from=333.1007.tianma.1-2-2.click
+
+贤者z 游戏下载-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=60294525&keyword=%E8%B4%A4%E8%80%85z%20%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD&from_source=web_search&spm_id_from=333.1007&search_source=5
+
+Z贤者投稿视频-Z贤者视频分享-哔哩哔哩视频
+https://space.bilibili.com/499951416/upload/video
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+CS RIN - Steam Underground • View forum - Standalones
+https://cs.rin.ru/forum/viewforum.php?f=32
+
+euro to chinese yuan - Google 搜索
+https://www.google.com/search?q=euro+to+chinese+yuan&oq=eur&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDsyBggCEEUYOzIGCAMQIxgnMgYIBBAjGCcyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCDU3NjJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+www.google.com
+https://www.google.com/search?q=%E6%B6%88%E8%B4%B9+%E5%86%85%E9%9C%80+&sca_esv=a2a4950f58f762f6&biw=1440&bih=731&sxsrf=APpeQnu1uutkVvVX9ljWU5mq0Hml_953QA%3A1785329434449&ei=Gvdpavz_GoqUxc8PnMO50QU&ved=0ahUKEwj89Py19veVAxUKSvEDHZxhLloQ4dUDCBA&uact=5&oq=%E6%B6%88%E8%B4%B9+%E5%86%85%E9%9C%80+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDua2iOi0uSDlhoXpnIAgMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSLkLUIMJWIMJcAF4AZABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACApgDAIgGAZAGCpIHATGgBwCyBwC4BwDCBwMwLjHIBwKACAE&sclient=gws-wiz-serp
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+给我翅膀让我可以翱翔-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=%E7%BB%99%E6%88%91%E7%BF%85%E8%86%80%E8%AE%A9%E6%88%91%E5%8F%AF%E4%BB%A5%E7%BF%B1%E7%BF%94&from_source=websuggest_search&spm_id_from=333.1007&search_source=5
+
+八万歌迷点亮鸟巢！张杰-《最美的太阳》最强现场！_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1694y1S7tA/?spm_id_from=333.337.search-card.all.click
+
+My Thoughts on the Bun Rust Rewrite - Andrew Kelley
+https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
+
+www.google.com
+https://www.google.com/search?q=Agentic+Dynamic+UI&oq=Agentic+Dynamic+UI&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(6) Agentic UI in Angular: Build an AI Assistant for Your Frontend - YouTube
+https://www.youtube.com/watch?v=kQDNEXH0ohg
+
+ag-ui-protocol
+https://github.com/ag-ui-protocol
+
+x.com
+https://x.com/wquguru/status/1996979935437902300
+
+TL-WDR5620易展版
+http://192.168.100.1/
+
+Reddit - The heart of the internet
+https://www.reddit.com/
+
+根据对家里人的观察，简单总结了一下中国不同年龄段的人是怎样的。 : r/China_irl
+https://www.reddit.com/r/China_irl/comments/1i9ry1f/comment/m956w5u/?context=3
+
+蜘蛛侠：崭新之日 - 泥巴影院 - 海外华人在线影院
+https://www.nbyy.cc/detail/332353986.html#qiang_xian_ban
+
+Spider-Man: Brand New Day watch free | OnlyFlix
+https://onlyflix.to/spider-man-brand-new-day/
+
+Scoop - Apps (claude)
+https://scoop.sh/#/apps?q=claude&p=1
+
+API 密钥 - Dragon Code
+https://dragoncode.codes/keys
+
+老哥们，你们都是怎么开的 codex 的会员呢 - V2EX
+https://www.v2ex.com/t/1230794#reply72
+
+夸克网盘分享
+https://pan.quark.cn/s/bf51d06e217a#/list/share/e669dd19b39c4f319dce8faebcdc4409
+
+蜘丨Z侠丨战丨薪丨之丨R（2026）_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/s/1bmbz-GAzBQbLCASZNlPa-g?pwd=8888#list/path=%2Fsharelink1101349817150-1014474712656341%2F%E8%9C%98%E4%B8%A8Z%E4%BE%A0%E4%B8%A8%E6%88%98%E4%B8%A8%E8%96%AA%E4%B8%A8%E4%B9%8B%E4%B8%A8R%EF%BC%882026%EF%BC%89&parentPath=%2Fsharelink1101349817150-1014474712656341
+
+Spider-Man Brand New Day 2026 » CinemaCity.mp4_免费高速下载|百度网盘-分享无限制
+https://pan.baidu.com/s/1bmbz-GAzBQbLCASZNlPa-g?fid=1080141103781878&fpath=%2Fsharelink0-1014474712656341%2F%E8%9C%98%E4%B8%A8Z%E4%BE%A0%E4%B8%A8%E6%88%98%E4%B8%A8%E8%96%AA%E4%B8%A8%E4%B9%8B%E4%B8%A8R%EF%BC%882026%EF%BC%89%2FSpider-Man%20Brand%20New%20Day%202026%20%C2%BB%20CinemaCity.mp4
+
+中国体制内体制外 - Google 搜索
+https://www.google.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%93%E5%88%B6%E5%A4%96&sca_esv=2c719d755bc25006&biw=1440&bih=731&sxsrf=APpeQnvy10eMTPmNp6uS6pN5eIw1hUzM3Q%3A1785404440655&ei=GBxrav3IJ7f00PEPytrGgAw&ved=0ahUKEwj9tNzrjfqVAxU3OjQIHUqtEcAQ4dUDCBA&uact=5&oq=%E4%B8%AD%E5%9B%BD%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%93%E5%88%B6%E5%A4%96&gs_lp=Egxnd3Mtd2l6LXNlcnAiGOS4reWbveS9k-WItuWGheS9k-WItuWkljIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wVIsUFQiAxY-z9wA3gBkAEAmAHJBKABhzOqAQoyLTE0LjIuMi4zuAEDyAEA-AEBmAIXoALLL8ICChAAGEcY1gQYsAPCAgQQIxgnwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgILEC4YgAQYxwEY0QPCAgcQABiABBgMwgIIEAAYgAQYogSYAwCIBgGQBgqSBwozLjAuMTQuMi40oAevQLIHCDItMTQuMi40uAfBL8IHBjEuMTQuOMgHN4AIAQ&sclient=gws-wiz-serp
+
+跟跟国内做比较最好分清体制内和体制外，有背景还是没背景|一亩三分地中国版
+https://www.1point3acres.com/bbs/thread-959962-2-1.html
+
+《蜘蛛侠：崭新之日》全集在线观看 - 电影 - 努努影院
+https://nnyy.in/dianying/20269283.html
+
+低智商犯罪-23-免费在线观看-爱壹帆国际版
+https://www.yfsp.tv/play/XIyckYw4uyZ?id=w3gFGkCrmY7
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+Superhuman competitive programming AI is here : r/singularity
+https://www.reddit.com/r/singularity/comments/1urlaam/superhuman_competitive_programming_ai_is_here/
+
+Psyho on X: "Quick summary of what happened during AWTF in Japan: - OpenAI crushed humans in both Heuristic and Algorithm categories. Heuristic is the one where I won in 2025 and OpenAI placed 2nd - AWTF is pretty much the highest level competitive programming contest: invited finalists in" / X
+https://x.com/FakePsyho/status/2075291659814781370
+
+Why AI hasn't replaced software engineers, and won't | Hacker News
+https://news.ycombinator.com/item?id=48487540
+
+www.google.com
+https://www.google.com/search?q=mc+%E7%8E%A9%E6%B3%95&oq=mc+%E7%8E%A9%E6%B3%95&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDcxMjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+lmb是哪个键_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=lmb%E6%98%AF%E5%93%AA%E4%B8%AA%E9%94%AE&fenlei=256&rsv_pq=0xd27a8c410027543d&rsv_t=509bYPyjqr%2FRmoCEz5ASDT%2Fxwdrm1OoqeXm%2BIM8oIGxUiN%2Bo%2FJOj9GYlqbln&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=3&rsv_sug1=3&rsv_sug7=100&rsv_btype=i&prefixsug=LMB&rsp=0&inputT=2150&rsv_sug4=2150
+
+bing.com
+https://bing.com/
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+web.fscloud.cc
+https://web.fscloud.cc/#/store
+
+百度一下，你就知道
+https://www.baidu.com/
+
+158937 – Always add 1px space around fractions
+https://bugs.webkit.org/show_bug.cgi?id=158937
+
+[机场跑路/预警] 一元机场 · Issue #270 · limbopro/Paolujichang
+https://github.com/limbopro/Paolujichang/issues/270
+
+一元机场
+https://cloud.xn--4gq62f52gdss.asia/#/dashboard
+
+低价备用机场 | 精选稳定机场
+https://proxy-tz.gitbook.io/tools/di-jia-bei-yong-ji-chang
+
+Issues · limbopro/Paolujichang
+https://github.com/limbopro/Paolujichang/issues?q=is%3Aissue%20state%3Aopen%20%E4%B8%A4%E5%85%83%E5%BA%97
+
+mihomo linux - Google 搜索
+https://www.google.com.hk/search?q=mihomo+linux&oq=mihomo&gs_lcrp=EgZjaHJvbWUqBggBECMYJzIGCAAQRRg5MgYIARAjGCcyCQgCEAAYDBiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIJCAYQABgMGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINDU5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8&sei=qqZ2aoSqMYik2roP2ZCxKA
+
+161081 – Accessibility of MathML links
+https://bugs.webkit.org/show_bug.cgi?id=161081
+
+香草纪元 - Google 搜索
+https://www.google.com.hk/search?q=%E9%A6%99%E8%8D%89%E7%BA%AA%E5%85%83&newwindow=1&sca_esv=af88a0e320de74d3&ei=vbB2ap2sHtK1vr0PurXFsAg&biw=1440&bih=731&ved=0ahUKEwjd_t2SmZCWAxXSmq8BHbpaEYYQ4dUDCBA&uact=5&oq=%E9%A6%99%E8%8D%89%E7%BA%AA%E5%85%83&gs_lp=Egxnd3Mtd2l6LXNlcnAiDOmmmeiNiee6quWFgzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI6AhQrAFYugZwAXgBkAEAmAGRAaABpAWqAQMwLjW4AQPIAQD4AQGYAgSgApoDwgIKEAAYRxjWBBiwA8ICBxAAGIAEGAzCAgYQABgEGB6YAwCIBgGQBgmSBwMxLjOgB6QKsgcDMC4zuAeXA8IHBTAuMi4yyAcKgAgB&sclient=gws-wiz-serp
+
+[VEFC]香草纪元：食旅纪行 (VanillaEra: FaresChron) - MC百科|最大的Minecraft中文MOD百科
+https://www.mcmod.cn/modpack/1095.html
+
+mc 躲猫猫-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=mc+%E8%BA%B2%E7%8C%AB%E7%8C%AB&from_source=web_search&spm_id_from=333.788&search_source=5&order=pubdate
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+mc剧本杀-哔哩哔哩_bilibili
+https://search.bilibili.com/all?vt=64786748&keyword=mc%E5%89%A7%E6%9C%AC%E6%9D%80&from_source=websuggest_search&spm_id_from=333.1007&search_source=5&order=pubdate
+
+【沉默乐章：错位音】至少我们活了六个！MC高质量剧本杀 “一刀未剪” <顾安德>主视角_哔哩哔哩bilibili_我的世界_游戏实况
+https://www.bilibili.com/video/BV1A8uP6rEFd/?spm_id_from=333.337.search-card.all.click
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/?spm_id_from=333.788.0.0
+
+MC地图-哔哩哔哩_bilibili
+https://search.bilibili.com/all?keyword=MC%E5%9C%B0%E5%9B%BE&from_source=web_search&spm_id_from=333.1007&search_source=5&order=pubdate&page=2&o=30
+
+超级好玩的5张多人地图推荐！叫上好友一起来玩MC吧？_游戏热门视频
+https://www.bilibili.com/video/BV14nus6ME4S/?spm_id_from=333.337.search-card.all.click
+
+[汉化]重生之我在MC里博物馆奇妙夜？我的世界解密地图《完美》（Perfection）宣传片
+https://www.bilibili.com/video/BV1KmY5zWEeD/?spm_id_from=333.788.video.desc.click
+
+东北师范大学Mnenu组织 – MUA
+https://www.mualliance.cn/archives/3006
+
+夸克网盘分享
+https://pan.quark.cn/s/95275603415f#/list/share
+
+Scoop - Apps (openjdk)
+https://scoop.sh/#/apps?q=openjdk
+
+hmcl github - Google 搜索
+https://www.google.com.hk/search?q=hmcl+github&oq=hmcl+github&gs_lcrp=EgZjaHJvbWUyCAgAEEUYJxg5MgYIARAAGB4yCAgCEAAYCBgeMggIAxAAGAgYHjIKCAQQABiABBiiBDIKCAUQABiABBiiBDIKCAYQABiABBiiBDIHCAcQABjvBTIKCAgQABgIGAoYHtIBCDM4NzVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+HMCL-dev/HMCL: A Minecraft Launcher which is multi-functional, cross-platform and popular
+https://github.com/HMCL-dev/HMCL
+
 # 2026-08-05
 
 2026-05-08起 - Google Gemini
