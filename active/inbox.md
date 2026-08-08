@@ -2,6 +2,10 @@
 
 # 2026-08-08
 
+cd $env:USERPROFILE\Downloads; curl.exe -LO https://ghproxy.net/https://github.com/fatedier/frp/releases/download/v0.70.1/frp_0.70.1_windows_amd64.zip; Expand-Archive -Path .\frp_0.70.1_windows_amd64.zip -DestinationPath . -Force
+
+Add-MpPreference -ExclusionPath "$env:USERPROFILE\Downloads"
+
 tannal@desktop:~/Downloads$ curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
      -H "Content-Type: application/json" \
      -d '{"name": "🇯🇵日本 03 | 高级专线"}'
