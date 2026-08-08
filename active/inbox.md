@@ -2,6 +2,42 @@
 
 # 2026-08-08
 
+tannal@desktop:~/Downloads$ curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "🇯🇵日本 03 | 高级专线"}'
+HTTP/1.1 204 No Content
+Vary: Origin
+Date: Sat, 08 Aug 2026 04:18:07 GMT
+
+tannal@desktop:~/Downloads$ curl -s "http://127.0.0.1:9090/proxies/一元机场" | jq '{group: .name, current_node: .now}'
+{
+  "group": "一元机场",
+  "current_node": "🇯🇵日本 03 | 高级专线"
+}
+tannal@desktop:~/Downloads$ 
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "🇯🇵日本 03 | 高级专线"}'
+
+curl -s http://127.0.0.1:9090/proxies | jq -r '.proxies[] | select(.type=="Selector") | .name'
+
+curl -i -X PATCH "http://127.0.0.1:9090/configs" \
+     -H "Content-Type: application/json" \
+     -d '{"mode": "Rule"}'
+
+curl -s http://127.0.0.1:9090/configs | jq . | grep global
+
+- DOMAIN-SUFFIX,webkit.org,一元机场
+  - DOMAIN-KEYWORD,webkit,一元机场
+
+curl -X PATCH "http://127.0.0.1:9090/configs" \
+     -H "Content-Type: application/json" \
+     -d '{"mode": "global"}'
+
+https://bugs.webkit.org/show_bug.cgi?id=161081
+MathML links a11y
+
 https://proxy-tz.gitbook.io/tools/di-jia-bei-yong-ji-chang
 
 # 2026-08-07
