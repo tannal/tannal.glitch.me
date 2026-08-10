@@ -74,8 +74,7 @@ git clone https://github.com/googleprojectzero/domato.git
 ./mach wpt-update wpt.log
 
 while true; do
-ASAN_OPTIONS=detect_leaks=0 cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser -- -runs=50000 -rss_
-limit_mb=4096 -max_len=4096
+ASAN_OPTIONS=detect_leaks=0 cargo +nightly fuzz run servo_parse_html fuzz/corpus/html_parser -- -runs=50000 -rss_limit_mb=4096 -max_len=4096
 done
 
 # 2026-08-06

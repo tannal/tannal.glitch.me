@@ -1,3 +1,86 @@
+
+# Servo Fuzzing
+
+```
+tannal@desktop:~/Downloads$ mtr --report --report-cycles=100 meetings.igalia.com
+Start: 2026-08-09T17:10:44+0800
+HOST: desktop                     Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1.|-- 192.168.100.1              0.0%   100    1.4   1.5   0.7  11.7   1.7
+  2.|-- 192.168.10.1               0.0%   100    4.0   2.6   1.2  29.5   4.3
+  3.|-- 10.83.16.1                 0.0%   100    6.3   6.2   2.6  64.6   7.7
+  4.|-- 113.98.25.25               0.0%   100    2.8   4.3   2.4  57.2   6.3
+  5.|-- 219.132.200.241           91.0%   100    4.0   6.2   3.4  20.4   5.5
+  6.|-- 202.97.82.22              94.0%   100    6.1   5.0   4.4   6.1   0.6
+  7.|-- 202.97.91.190              0.0%   100    5.7   6.9   5.2  35.2   3.7
+  8.|-- 202.97.86.138             12.0%   100  164.5 171.7 163.0 295.5  23.3
+  9.|-- be-212-pe11.losangeles.ca  6.0%   100  168.7 168.0 157.4 191.1   3.5
+ 10.|-- 66.208.216.74              6.0%   100  166.4 167.6 162.4 208.5   7.4
+ 11.|-- vl221.lax-drt11-dist-1.cd  6.0%   100  167.9 176.2 167.0 215.2   6.6
+ 12.|-- 143-244-50-84.bunnyinfra. 13.0%   100  176.8 177.3 175.1 216.8   5.6
+tannal@desktop:~/Downloads$ ssh mtan@buildbox4.local.igalia.com -J igalia.com
+
+womuqian shi zai ssh tuneel dao igalia buildbox4 jiqi shangmian, xianzai ne servo-fuzzing shengchengle henduo crashing sihu zhiyou stacktrace meiyou crash de yuan wenjian
+
+No current global object (thread Script#1, at components/script/dom/window/window.rs:1596)
+   0: servoshell::backtrace::print
+   1: servoshell::panic_hook::panic_hook
+   2: std::panicking::panic_with_hook
+   3: std::panicking::panic_handler::{closure#0}
+   4: std::sys::backtrace::__rust_end_short_backtrace::<std::panicking::panic_handler::{closure#0}, !>
+   5: __rustc::rust_begin_unwind
+   6: core::panicking::panic_fmt
+   7: core::option::expect_failed
+   8: <script::dom::window::window::Window as script_bindings::codegen::GenericBindings::WindowBinding::Window_Binding::WindowMethods<script::dom::bindings::codegen::DomTypeHolder::DomTypeHolder>>::GetFrameElement
+   9: <script::dom::document::document::Document>::get_allow_fullscreen
+  10: <script::dom::element::element::Element>::fullscreen_element_ready_check
+  11: <script::dom::fullscreen::lib::ElementPerformFullscreenEnter as script::task::TaskBox>::run_box
+  12: <script::script_thread::ScriptThread>::handle_msgs::{closure#2}
+  13: <script::script_thread::ScriptThread>::handle_msgs
+  14: std::sys::backtrace::__rust_begin_short_backtrace::<<script::script_thread::ScriptThread as layout_api::ScriptThreadFactory>::create::{closure#0}, ()>
+  15: <std::thread::lifecycle::spawn_unchecked<<script::script_thread::ScriptThread as layout_api::ScriptThreadFactory>::create::{closure#0}, ()>::{closure#1} as core::ops::function::FnOnce<()>>::call_once::{shim:vtable#0}
+  16: <std::sys::thread::unix::Thread>::new::thread_start
+  17: <unknown>
+  18: <unknown>
+Segmentation fault
+
+ruhe zhaodao servo crash de html ceshi shifou neng wending fuxian
+
+#!/bin/bash
+
+LOG_FILE="fuzzing_results.log"
+echo "=== Fuzzing Started at $(date) ===" >> "$LOG_FILE"
+
+# 循�~N��~P�~L�~Z�~M�~V��~T~_�~H~P�~K�~U�~T��~K并�~K�~U
+while true; do
+    echo "[$(date)] Generating 100 new test cases..." >> "$LOG_FILE"
+
+    # 1. �~E�~P~F并�~T� Domato �~T~_�~H~P�~V��~Z~D 100 个�~K�~U�~T��~K
+    mkdir -p testcases
+    rm -f testcases/*
+    python3 domato/generator.py -o testcases/ -n 100 > /dev/null 2>&1
+
+    # 2. �~P�~L�~K�~U�~W件�~H�~E�~W��~N��~H��~T� run-testcases.sh �~F~E�~C��~D�~P~F�~I
+    ./run-testcases.sh testcases/ ./servo/servoshell --enable-experimental-web-platform-features >> "$LOG_FILE" 2>&1
+
+    # 3. �~@�~_��~X��~P��~\~I�~V��~Z~D�~\��~_� Panic�~L并记�~U�~S�~^~\
+    NEW_PANICS=$(./print-unknown-panic.sh testcases/*.txt 2>/dev/null)
+    if [ -n "$NEW_PANICS" ]; then
+        echo -e "\n�~_~T� [$(date)] FOUND UNKNOWN PANIC! �~_~T�" >> "$LOG_FILE"
+        echo "$NEW_PANICS" >> "$LOG_FILE"
+
+        # �~G份导�~G� Crash �~Z~D�~K�~U�~T��~K�~L�~X�止被�~K�~@轮�~E�~P~F�~F�~[~V
+        BACKUP_DIR="crashes_$(date +%Y%m%d_%H%M%S)"
+        mkdir -p "$BACKUP_DIR"
+        cp -r testcases/ "$BACKUP_DIR/"
+        echo "Crash testcases backed up to $BACKUP_DIR" >> "$LOG_FILE"
+    fi
+
+    # �~A��~E~M CPU �~Q�~W�~G�~C��~L�~O轮�~Q�~A� 2 �~R
+    sleep 2
+done
+```
+
+
 # dev
 
 ./mach test-wpt ./tests/wpt/tests/css/css-flexbox/flex-factor-less-than-one.html
