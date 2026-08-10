@@ -276,7 +276,7 @@ Link to the test suite. If any part of the feature is not tested by web-platform
 
 [Weekly report 10]
 
-Worked hours: 23h:45min
+Worked hours: 31h:30min
 
 Tasks:
 
