@@ -322,15 +322,15 @@ Worked hours: 31h:30min
 
 Tasks:
 
-Continue to working on MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
+Continue to work on MathMLAnchorElement idl support and target attribute for MathML anchor element in Firefox [1]
 
 Prototype a WIP fuzzing infrastructure and a basic html fuzzer target for servo [2]
 
-Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
+Sent a intent to prototype for MatMLAnchorElement in firefox [3]
 
-Wrote a WPT tests in sanitizer API for MathML a element [4]
+Wrote a WPT test in sanitizer API for MathML a element [4]
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them (not published yet) [5]
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them (just published) [5]
 
 Next:
 
@@ -340,7 +340,7 @@ Fix up the mathml-aam spec, make the tests/spec works in all three engines/platf
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
-Implement MathMLAnchorElement idl support in Webkit
+Implement MathMLAnchorElement idl support in Webkit, add other link attributes to firefox
 
 Raise mathml_anchor_element code converge to at least 90%
 
@@ -348,11 +348,13 @@ Links:
 
 [1] https://phabricator.services.mozilla.com/D315266
 
-[2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+[2] https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs#L104
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+[3] https://groups.google.com/u/1/a/mozilla.org/g/dev-platform/c/UHg0HwA_A6I
 
-[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
 
 # 2026-07-28
 
