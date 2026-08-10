@@ -1,6 +1,48 @@
 
+# 2026-08-10
+
+[Weekly report 11]
+
+Worked hours: 31h:30min
+
+Tasks:
+
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them [1]
+
+Working on support ping attribute for MathML anchor element in Firefox [2]
+
+Prototype a WIP fuzzing infrastructure and a basic html fuzzer target for servo [2]
+
+Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
+
+Wrote a WPT tests in sanitizer API for MathML a element [4]
+
+
+Next:
+
+MathML/SVG anchor element don't respect to base element in the document in Chromium
+
+Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
+
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
+
+Implement MathMLAnchorElement idl support in Webkit
+
+Raise mathml_anchor_element code converge to at least 90%
+
+Links:
+
+[1] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+
+[2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
 
 # 2026-08-08
+
+git diff --name-only | xargs sed -i 's/[ \t]*$//'
 
 cd $env:USERPROFILE\Downloads; curl.exe -LO https://ghproxy.net/https://github.com/fatedier/frp/releases/download/v0.70.1/frp_0.70.1_windows_amd64.zip; Expand-Archive -Path .\frp_0.70.1_windows_amd64.zip -DestinationPath . -Force
 
@@ -62,7 +104,7 @@ python3 domato/generator.py -o testcases/ -n 100
 
 git range-diff mathml-a-element@{2}^! mathml-a-element@{1}^!
 
-git relog mathml-a-element
+git reflog mathml-a-element
 
 git diff mathml-a-element@{3} mathml-a-element@{1}
 
