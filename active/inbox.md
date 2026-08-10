@@ -1,6 +1,18 @@
 
 # 2026-08-10
 
+git branch --set-upstream-to=mathml-a-rel
+
+./third_party/blink/tools/run_web_tests.py -t Default $(git status --porcelain | grep 'mathml-a-tag.http.html$' | awk '{print $2}')
+
+There is also a missing key when run the generate script, so I added it in third_party/blink/web_tests/external/wpt/referrer-policy/spec.src.json.
+
+```
+"iframe-data": [
+  "meta"
+],
+```
+
 [Weekly report 11]
 
 Worked hours: 31h:30min
