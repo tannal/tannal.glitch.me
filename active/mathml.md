@@ -1,4 +1,21 @@
 
+115 tests ran as expected, 15 didn't:
+    external/wpt/referrer-policy/gen/iframe-inherit.http-rp/no-referrer/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.http-rp/origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.http-rp/same-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.http-rp/strict-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.meta/never/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.meta/no-referrer/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.meta/origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.meta/same-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/iframe-inherit.meta/strict-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/no-referrer/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/origin-when-cross-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/same-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/strict-origin-when-cross-origin/mathml-a-tag.http.html
+    external/wpt/referrer-policy/gen/req.attr/strict-origin/mathml-a-tag.http.html
+
 
 ```
 diff --git a/core-aam/aamtests/support/atspi_wrapper.py b/core-aam/aamtests/support/atspi_wrapper.py
