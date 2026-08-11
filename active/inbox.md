@@ -1,6 +1,9 @@
 
 # 2026-08-11
 
+export ANTHROPIC_BASE_URL="https://dragoncode.codes"
+export ANTHROPIC_AUTH_TOKEN="YOUR_API_KEY"
+
 moz-phab submit origin/main
 moz-phab submit HEAD~2
 
