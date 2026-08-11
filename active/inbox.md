@@ -1,6 +1,12 @@
 
 # 2026-08-11
 
+美国-HY2-28
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "美国-HY2-28"}'
+
 export ANTHROPIC_BASE_URL="https://dragoncode.codes"
 export ANTHROPIC_AUTH_TOKEN="YOUR_API_KEY"
 
