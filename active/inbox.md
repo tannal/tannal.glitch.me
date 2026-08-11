@@ -1,6 +1,13 @@
 
 # 2026-08-11
 
+moz-phab submit origin/main
+moz-phab submit HEAD~2
+
+git add dom/base/Link.cpp
+git commit --fixup c09aa2c270ddca7768d6d4776008c94cb2c1f9ff
+git rebase -i --autosquash origin/main
+
 [x] Release Notes 文本准备（你贴的内容已经写好了）
 
 [ ] 代码合入（确保 Patch 成功 Land 入 trunk）
@@ -70,19 +77,19 @@ cd $env:USERPROFILE\Downloads; curl.exe -LO https://ghproxy.net/https://github.c
 
 Add-MpPreference -ExclusionPath "$env:USERPROFILE\Downloads"
 
-tannal@desktop:~/Downloads$ curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
+curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
      -H "Content-Type: application/json" \
      -d '{"name": "🇯🇵日本 03 | 高级专线"}'
 HTTP/1.1 204 No Content
 Vary: Origin
 Date: Sat, 08 Aug 2026 04:18:07 GMT
 
-tannal@desktop:~/Downloads$ curl -s "http://127.0.0.1:9090/proxies/一元机场" | jq '{group: .name, current_node: .now}'
+curl -s "http://127.0.0.1:9090/proxies/一元机场" | jq '{group: .name, current_node: .now}'
 {
   "group": "一元机场",
   "current_node": "🇯🇵日本 03 | 高级专线"
 }
-tannal@desktop:~/Downloads$ 
+
 
 curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
      -H "Content-Type: application/json" \
