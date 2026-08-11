@@ -1,4 +1,14 @@
 
+# 2026-08-11
+
+[x] Release Notes 文本准备（你贴的内容已经写好了）
+
+[ ] 代码合入（确保 Patch 成功 Land 入 trunk）
+
+[ ] MDN 提交 BCD 更新（加 MathMLAnchorElement 兼容性数据）
+
+[ ] MDN 提交 Experimental Features 页面更新
+
 # 2026-08-10
 
 git branch --set-upstream-to=mathml-a-rel

@@ -1,4 +1,390 @@
 
+# 2026-08-10
+
+2026-05-08起 - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+mdn/browser-compat-data: Browser compatibility data for Web technologies as displayed on MDN
+https://github.com/mdn/browser-compat-data/blob/bae3271ec133267dd13cf582b7a7ecf81fc829ad/mathml/elements/a.json#L4
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#opener-processing-model
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/document-sequences.html#noopener
+
+Typo `referrerpolicy` content attribute type definition · Issue #712 · w3c/svgwg
+https://github.com/w3c/svgwg/issues/712
+
+Date and Time
+https://phabricator.services.mozilla.com/settings/user/mtan/
+
+https://github.com/whatwg/html/issues/4017 - Google 搜索
+https://www.google.com/search?q=https://github.com/whatwg/html/issues/4017
+
+blink-dev - Google 群组
+https://groups.google.com/a/chromium.org/g/blink-dev
+
+Igalia Chat [3] | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+
+…/builtins_default_config.json · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/1/third_party/blink/renderer/core/sanitizer/builtins_default_config.json
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946#issuecomment-5128252346
+
+mathml-fragments.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/mathml-fragments.js
+
+…/sanitizer-mathml-a.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/1/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592#issuecomment-5203862957
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for · web-platform-tests/wpt@462307a
+https://github.com/web-platform-tests/wpt/commit/462307af0d6663f56b0e042fba65c9a10ea412bb#diff-7ddf84bec3d763895367cc3a97b307acefe5d323402be9961eaffc8d49b3b4f5
+
+wpt/sanitizer-api/sanitizer-javascript-url.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/sanitizer-api/sanitizer-javascript-url.html
+
+Dynamic Code Brand Checks: An implementation update for SpiderMonkey, WebKit, and V8 - HedgeDoc
+https://notes.igalia.com/s/8rz0Ybk3WJ
+
+tc39/proposal-dynamic-code-brand-checks: TC39 proposal that enables flexible brand checks before dynamic code loading
+https://github.com/tc39/proposal-dynamic-code-brand-checks
+
+servo/python/servo/platform/linux_packages/apt/apt_common.txt at main · servo/servo
+https://github.com/servo/servo/blob/main/python/servo/platform/linux_packages/apt/apt_common.txt
+
+servo/python/servo/platform/linux_packages/apt/apt_common.txt at main · servo/servo
+https://github.com/servo/servo/blob/main/python/servo/platform/linux_packages/apt/apt_common.txt
+
+…/sanitizer-mathml-a.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/1/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html
+
+[Sanitizer] Add mathml a element and its attributes to the default config (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592
+
+t:AxapiWrapper::find_node (axapi_wrapper.py - mozsearch)
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/core-aam/aamtests/support/axapi_wrapper.py#31
+
+t:AxapiWrapper::find_node (axapi_wrapper.py - mozsearch)
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/core-aam/aamtests/support/axapi_wrapper.py#31
+
+mathml-fragments.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/mathml-fragments.js
+
+View paste W3NQ
+https://paste.igalia.com/W3NQ
+
+View paste GTYQ
+https://paste.igalia.com/GTYQ
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+Chromium Docs - Gerrit ReAuth
+https://chromium.googlesource.com/chromium/src/+/main/docs/gerrit_reauth.md#background
+
+Time tracking (week of Aug 10, 2026)
+https://hours.igalia.com/time/week/2026-08-16
+
+Igalia/webkit-container-sdk: The all-in-one SDK for WebKit GTK/WPE port development.
+https://github.com/Igalia/webkit-container-sdk
+
+WebKit Container SDK - HedgeDoc
+https://notes.igalia.com/s/9LOf5le3Y
+
+Fix tag attributes for msqrt and mn by tannal · Pull Request #2843 · w3c/aria
+https://github.com/w3c/aria/pull/2843
+
+W:AccessibilityObjectAtspi::attributes (AccessibilityObjectAtspi.cpp - mozsearch)
+https://searchfox.org/wubkat/rev/d221d71a6a560cb45bb3e9b23e526b6bcfa9e4b3/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp#866
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070?tab=checks
+
+Linux plain build-linux64-non-unified/plain Bp-nu
+https://treeherder.mozilla.org/logviewer?job_id=583820485&repo=autoland&task=Kn3aUouiSVCSiM5M5otOQw.0&lineNumber=30201
+
+Treeherder Logviewer
+https://treeherder.mozilla.org/logviewer?job_id=5
+
+D315266- Lando - Mozilla
+https://lando.moz.tools/D315266/
+
+[Sanitizer] Add mathml a element and its attributes to the default config (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+⚙ D315266 Bug 2059312 - Part 2: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266?id=1341895
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776?tab=comments
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes
+
+MathML Core
+https://w3c.github.io/mathml-core/#space-mspace
+
+Ahmad igalia - Google 搜索
+https://www.google.com/search?q=Ahmad+igalia&oq=Ahmad+igalia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAjIHCAMQIRiPAtIBCDE5MjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+W:AccessibilityObject::accessibilityPlatformIncludesObject (AccessibilityObjectAtspi.cpp - mozsearch)
+https://searchfox.org/wubkat/rev/d221d71a6a560cb45bb3e9b23e526b6bcfa9e4b3/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp#1398
+
+test.html
+file:///home/tannal/tannalwork/projects/wpt/test.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Sanitizer API: MathML a element attributes testing
+http://web-platform.test:8001/sanitizer-api/sanitizer-mathml-a.html
+
+…/sanitizer-mathml-a.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/1/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html
+
+[Sanitizer API] Support removing of javascript: URLs. (6275931) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6275931
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-09&user=344
+
+servo-js-fuzz/run_fuzzer.sh at main · m0rt1c/servo-js-fuzz
+https://github.com/m0rt1c/servo-js-fuzz/blob/main/run_fuzzer.sh
+
+servo-js-fuzz/src/lib.rs at main · m0rt1c/servo-js-fuzz
+https://github.com/m0rt1c/servo-js-fuzz/blob/main/src/lib.rs
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+[Sanitizer] Update the built-in defaults. (7100560) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7100560
+
+servo/python/servo/platform/linux_packages/apt/apt_common.txt at main · servo/servo
+https://github.com/servo/servo/blob/main/python/servo/platform/linux_packages/apt/apt_common.txt
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs#L104
+
+Install Rust - Rust Programming Language
+https://rust-lang.org/tools/install/
+
+搜索会话
+https://groups.google.com/u/1/a/mozilla.org/g/dev-platform/search?q=Intent%20to%20prototype
+
+⚙ D205601 Bug 1887719 - More consistently use UTF8String/nsCString for URLs. r=#dom-core!,#necko-reviewers!
+https://phabricator.services.mozilla.com/D205601
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+Firefox 155 release notes for developers (Nightly) - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155
+
+D315266- Lando - Mozilla
+https://lando.moz.tools/D315266/
+
+Intent to Prototype: Swap SVGAElement to the new HyperlinkElementUtils
+https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+
+web-platform.test:8000/mathml/presentation-markup/anchor/anchor-005-ref.html
+http://web-platform.test:8000/mathml/presentation-markup/anchor/anchor-005-ref.html
+
+web-platform.test:8000/mathml/relations/html5-tree/href-getter-setter.html
+http://web-platform.test:8000/mathml/relations/html5-tree/href-getter-setter.html
+
+cargo-fuzz/src/options at main · rust-fuzz/cargo-fuzz
+https://github.com/rust-fuzz/cargo-fuzz/tree/main/src/options
+
+766694 - Add a test to check existence of each nsIDOM* interface in window scope
+https://bugzilla.mozilla.org/show_bug.cgi?id=766694
+
+Intent to prototype: MathML <a> element
+https://groups.google.com/u/1/a/mozilla.org/g/dev-platform/c/UHg0HwA_A6I
+
+⚙ D45034 Bug 1571487 - Implement MathML DOM
+https://phabricator.services.mozilla.com/D45034#change-stMGQPzQNngy
+
+mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/ey5sy4pjby6ufv27lkca/PHID-FILE-hjwqb7oi5ltx56dmz5ii/D45034.1786169621.diff
+https://mozphab-phabhost-cdn.devsvcprod.mozaws.net/file/data/ey5sy4pjby6ufv27lkca/PHID-FILE-hjwqb7oi5ltx56dmz5ii/D45034.1786169621.diff
+
+仪表盘 - Sub2API
+https://dragoncode.codes/dashboard
+
+Enter your password to log in | Lando Prod (mach)
+https://auth.mozilla.auth0.com/u/login/password?state=hKFo2SBwdnNHMGd3bm5UdUN1NGliTk5yaDMxX25Qc1V6ck1EbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHdZQ0NlZzZTVnBDaW9Pb3VaZFNZVW5jS1JkdDBYdTcxo2NpZNkgY2NwbVdiREFNejFweEhJV0Y0dnFrZHIwU2NkZ0R5eU0
+
+Vello CPU: Add public API to render with offset/stride by nicoburns · Pull Request #1597 · linebender/vello
+https://github.com/linebender/vello
+
+GStreamer/gst-plugins-ugly: 'Ugly' GStreamer plugins and helper libraries. This module has been merged into the main GStreamer repo for further development.
+https://github.com/GStreamer/gst-plugins-ugly
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=50&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+owner:dmangal@microsoft.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:dmangal@microsoft.com,100
+
+…/a.rel-noopener-policy.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6274068/33/third_party/blink/web_tests/external/wpt/svg/linking/scripted/a.rel-noopener-policy.html
+
+mobile-shell/mosh: Mobile Shell
+https://github.com/mobile-shell/mosh
+
+codex enable workspace tools - Google 搜索
+https://www.google.com/search?q=codex+enable+workspace+tools&sca_esv=4055421c27a6c95c&biw=1850&bih=932&sxsrf=APpeQnvyoGWGMgc-n85HyKjbEqyrRebyQg%3A1786093482906&ei=qp91as_xNqSZ0PEPveuO4Qs&ved=0ahUKEwjP7tXclI6WAxWkDDQIHb21I7wQ4dUDCBA&uact=5&oq=codex+enable+workspace+tools&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGNvZGV4IGVuYWJsZSB3b3Jrc3BhY2UgdG9vbHMyBRAhGKABMgUQIRigATIFECEYoAFIwlNQ4w1YnVJwAXgBkAEAmAHqA6ABwjSqAQgyLTIxLjEuM7gBA8gBAPgBAZgCGaAC3TPCAgoQABhHGNYEGLADwgIEECMYJ8ICBRAAGO8FwgIIEAAYgAQYogTCAggQABiABBjLAcICBRAAGIAEwgIEEAAYHsICBxAAGIAEGAzCAggQLhiABBjLAcICBhAAGAgYHsICBhAAGAUYHsICBxAhGAoYoAGYAwCIBgGQBgqSBwoxLjAuMjAuMS4zoAefSLIHCDItMjAuMS4zuAfUM8IHCDMuMTIuOS4xyAdKgAgB&sclient=gws-wiz-serp
+
+319107 – AX: WebKit should only expose href-less SVG anchors as links if they have a click handler (matching HTML anchors)
+https://bugs.webkit.org/show_bug.cgi?id=319107
+
+endoli
+https://github.com/endoli
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=all&last_page_size=20&page_before=eyJjcmVhdGVkX2F0IjoiMjAyMy0xMS0xMyAxNToyODozOC41NTU2ODgwMDAgKzAwMDAiLCJpZCI6IjE4OTIyIn0&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Speedtest by Ookla - The Global Broadband Speed Test
+https://www.speedtest.net/result/19536970496
+
+161081 – Accessibility of MathML links
+https://bugs.webkit.org/show_bug.cgi?id=161081
+
+mozjs/mozjs-sys/build.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs-sys/build.rs
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+mathml-fragments.js - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/mathml/support/mathml-fragments.js
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs#L104
+
+(17) Inside Igalia: Scaling a Co-Op Beyond 100 Members - YouTube
+https://www.youtube.com/watch?v=du7fC8VCbXg
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+View paste 4AIQ
+https://paste.igalia.com/4AIQ
+
+Igalia Webmail :: Search result
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Event Invitation: "CE mentoring meeting Meng Tan" - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#search/mentoring/FMfcgzQhVXGNvJzWxHXVsRzJXWnttsnB
+
+coverage guided fuzzer - Google 搜索
+https://www.google.com.hk/search?q=coverage+guided+fuzzer&newwindow=1&sca_esv=3e3b68071f77d2c4&ei=E215apf4JY7d1e8P4NOC2AM&biw=1850&bih=932&oq=fuzzer+coverage+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEGZ1enplciBjb3ZlcmFnZSAqAggFMgQQABgeMgYQABgIGB4yCBAAGIAEGKIEMgUQABjvBTIGEAAYCBgeMgYQABgIGB4yBRAAGO8FMggQABiABBiiBEi1mQFQzRBYiHdwAngBkAEAmAGjA6AB_hWqAQowLjEyLjMuMC4xuAEDyAEA-AEBmAISoALyFsICChAAGEcY1gQYsAPCAgoQABiABBiKBRhDwgIFEAAYgATCAgsQLhiABBjHARjRA8ICBRAuGIAEwgIHEAAYgAQYDMICBxAAGIAEGBPCAgYQABgeGBPCAggQABgFGB4YE8ICCBAAGAgYHhgTwgIGEAAYBRgewgIIEAAYCBgeGAqYAwCIBgGQBgqSBwoyLjExLjQuMC4xoAeXOrIHCjAuMTEuNC4wLjG4B-cWwgcGMC40LjE0yAdTgAgB&sclient=gws-wiz-serp
+
+LibFuzzer使用说明，一篇说完，不开连载 - 知乎
+https://zhuanlan.zhihu.com/p/676625284
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-referrerpolicy
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/document-sequences.html#noopener
+
+explainers-by-googlers/future-browsing-context-group-dependency-hint: A proposal to provide a hint to the browser that a page relies on being in the same browsing context group across navigations.
+https://github.com/explainers-by-googlers/future-browsing-context-group-dependency-hint
+
+Usage of conflicting rel types (rel="noopener opener") resolves in favour of noopener. - Google 搜索
+https://www.google.com.hk/search?q=Usage+of+conflicting+rel+types+(rel%3D%22noopener+opener%22)+resolves+in+favour+of+noopener.&oq=Usage+of+conflicting+rel+types+(rel%3D%22noopener+opener%22)+resolves+in+favour+of+noopener.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAjIHCAMQIRiPAtIBBzMwM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+rel="noopener" HTML attribute value - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/rel/noopener
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#link-type-noopener
+
+About rel=noopener
+https://mathiasbynens.github.io/rel-noopener/
+
+Implement rel="opener" as a proactive BrowsingInstance swap opt-out [333743493] - Chromium
+https://issues.chromium.org/issues/333743493
+
+Implement rel=opener as a proactive BrowsingInstance swap opt-out (5560607) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5560607
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/links.html#update-href
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+[SVG] Add support for SVGAElement's rel / relList attributes (6274068) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/6274068
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+mathml_anchor_element.idl - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/renderer/core/mathml/mathml_anchor_element.idl
+
+Issues · rui314/mold
+https://github.com/rui314/mold/issues?q=is%3Aissue%20state%3Aopen%20memory%20usage
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Comparing f19a3be4b...f2535c691 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/compare/f19a3be4b...f2535c691
+
+Blaming wpt/common/security-features/tools/generate.py at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blame/master/common/security-features/tools/generate.py
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+⚙ D315266 Bug 2059312 - Part 2: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+Linux plain build-linux64-non-unified/plain Bp-nu
+https://treeherder.mozilla.org/logviewer?job_id=583820485&repo=autoland&task=Kn3aUouiSVCSiM5M5otOQw.0&lineNumber=30197
+
+Experimental features in Firefox - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Experimental_features
+
+Firefox 155 release notes for developers (Nightly) - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/155
+
 # 2026-08-08
 
 2026-05-08起 - Google Gemini
