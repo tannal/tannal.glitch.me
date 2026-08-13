@@ -1,6 +1,10 @@
 
 # 2026-08-13
 
+./third_party/blink/tools/run_web_tests.py -t Default third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/a-keydown-enter.html --driver-logging
+
+./out/Default/chrome --user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX) --enable-blink-features=MathMLAnchorElement
+
 [Weekly report 12]
 
 Worked hours: 31h:30min
