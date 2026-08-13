@@ -1,5 +1,206 @@
 
-LOG
+# 2026-08-13
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+test.webrtc.org
+https://test.webrtc.org/
+
+https://news.ycombinator.com/submitted?id=igalia - Google 搜索
+https://www.google.com.hk/search?q=https://news.ycombinator.com/submitted%3Fid%3Digalia
+
+An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead) | Hacker News
+https://news.ycombinator.com/item?id=48906171
+
+Reducing layer overhead in LBSE | Nikolas Zimmermann
+https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/
+
+Introducing the layer based SVG engine | Nikolas Zimmermann
+https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/page/3/#key-concepts
+
+waydroid/waydroid: Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+https://github.com/waydroid/waydroid
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+超级好玩的5张多人地图推荐！叫上好友一起来玩MC吧？_游戏热门视频
+https://www.bilibili.com/video/BV14nus6ME4S/?spm_id_from=333.337.search-card.all.click
+
+夸克网盘
+https://pan.quark.cn/list#/list/recent/staticdir/ee89d477c0f6409d8f8d3663df5da1c2-26.2%20%E6%8B%8D%E4%B8%8B%E6%8C%89%E9%92%AE
+
+Push The Button | 拍下按钮 • 联壁计划
+https://barrierslink.cn/java/push-the-button/
+
+服务器 - 轻量云 - 控制台
+https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=4&id=lhins-6wrveixa
+
+Releases · fatedier/frp
+https://github.com/fatedier/frp/releases
+
+(16) Coffee Compiler Club, 2026_07_24 - YouTube
+https://www.youtube.com/watch?v=F6fKY9xDI7Q
+
+VulkanMod - Google 搜索
+https://www.google.com.hk/search?q=VulkanMod&oq=VulkanMod&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE2OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+VulkanMod - Minecraft Mod
+https://modrinth.com/mod/vulkanmod
+
+Stoat
+https://github.com/stoatchat
+
+YouTube
+https://www.youtube.com/
+
+Casey Muratori - Google 搜索
+https://www.google.com.hk/search?q=Casey+Muratori&oq=Casey+Muratori&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzM1MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(16) Even 0.1% P(Doom) Is UNACCEPTABLE — Casey Muratori, World-Class Coder - YouTube
+https://www.youtube.com/watch?v=bQ7Fo1KM-t8
+
+(16) What New Jobs? [Wading Through AI - Episode 8] - YouTube
+https://www.youtube.com/watch?v=loaKh75eXM8&list=PLEMXAbCVnmY6U_pA-7GKuP9xiv9utLaP4
+
+Fabien Sanglard - Google 搜索
+https://www.google.com.hk/search?q=Fabien+Sanglard&oq=Fabien+Sanglard&gs_lcrp=EgZjaHJvbWUyDggAEEUYExg5GOMCGIAEMgkIARAuGBMYgAQyCQgCEAAYExiABDIICAMQABgTGB4yCAgEEAAYExgeMggIBRAAGBMYHjIICAYQABgTGB4yCAgHEAAYExgeMggICBAAGBMYHjIICAkQABgTGB7SAQcyNDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Homepage
+https://fabiensanglard.net/
+
+Mikkel Gjoel - Google 搜索
+https://www.google.com.hk/search?q=Mikkel+Gjoel&oq=Mikkel+Gjoel&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIHCAQQABjvBTIKCAUQABiABBiiBNIBBzMzNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Tomasz Stachowiak - Google 搜索
+https://www.google.com.hk/search?q=Tomasz+Stachowiak&oq=Tomasz+Stachowiak&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABgeMgYICBAAGB4yBggJEAAYHtIBBzI4N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ESB 1013 - CPEN 211 101 - 2024W1 on 2024-11-19 (Tue)
+https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=880a1d92-30d7-4683-80e7-b1e000f501d3
+
+Erik Lindholm - Google 搜索
+https://www.google.com.hk/search?q=Erik+Lindholm&oq=Erik+Lindholm&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQcyODJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Erik Lindholm gives a history of the internals of graphics hardware from early SGI through Nvidia : r/GraphicsProgramming
+https://www.reddit.com/r/GraphicsProgramming/comments/1vhh0fd/erik_lindholm_gives_a_history_of_the_internals_of/
+
+(16) Programmable Graphics Pipelines - YouTube
+https://www.youtube.com/watch?v=rrjyNiZD3Rg&t=84s
+
+Healtheon - Google 搜索
+https://www.google.com.hk/search?q=Healtheon&oq=Healtheon&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORjjAhiABDINCAEQLhjHARjRAxiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yBggHEAAYHjIGCAgQABgeMgYICRAAGB7SAQczMTBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+My Thoughts on the Bun Rust Rewrite - Andrew Kelley
+https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
+
+国企改革 - Google 搜索
+https://www.google.com.hk/search?q=%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9&oq=%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPdIBCDIwMTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+出海 2026 内需 - Google 搜索
+https://www.google.com.hk/search?q=%E5%87%BA%E6%B5%B7+2026+%E5%86%85%E9%9C%80&newwindow=1&sca_esv=28e52844a684c3d0&ei=vAt4aobAK63ZkPIPtKPouQ0&biw=1440&bih=731&ved=0ahUKEwiGjuGI5JKWAxWtLEQIHbQROtcQ4dUDCBA&uact=5&oq=%E5%87%BA%E6%B5%B7+2026+%E5%86%85%E9%9C%80&gs_lp=Egxnd3Mtd2l6LXNlcnAiEuWHuua1tyAyMDI2IOWGhemcgDIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAFI1QtQqARYwwpwAXgBkAEAmAG6A6AB2QmqAQcyLTIuMS4xuAEDyAEA-AEBmAIFoALvCcICChAAGEcY1gQYsAPCAgYQABgFGB7CAgYQABgIGB7CAgUQABjvBZgDAIgGAZAGAZIHCTEuMC4yLjEuMaAHtgmyBwcyLTIuMS4xuAfuCcIHBTAuNC4xyAcMgAgB&sclient=gws-wiz-serp
+
+Math bigint v8 igalia - Google 搜索
+https://www.google.com.hk/search?q=Math+bigint+v8+igalia&newwindow=1&sca_esv=949c2399617feb1a&ei=qBd4araoDdPCkPIPxqKbkQM&biw=1440&bih=731&ved=0ahUKEwi2nOq375KWAxVTIUQIHUbRJjIQ4dUDCBA&uact=5&oq=Math+bigint+v8+igalia&gs_lp=Egxnd3Mtd2l6LXNlcnAiFU1hdGggYmlnaW50IHY4IGlnYWxpYTIFECEYoAEyBRAhGKABMgUQIRigAUj3F1DaAliCF3ABeAGQAQCYAcoFoAGdGqoBCTItNi41LTIuMbgBA8gBAPgBAZgCCqACuhrCAgoQABhHGNYEGLADwgIHEAAYgAQYDcICBBAAGB7CAgYQABgeGA3CAgYQABgFGB7CAgYQABgIGB6YAwCIBgGQBgeSBwsxLjAuNi4wLjEuMqAH5BOyBwkyLTYuMC4xLjK4B7YawgcDMi44yAcPgAgB&sclient=gws-wiz-serp
+
+Review of Igalia's Web Platform activities (H2 2018) · Frédéric Wang Nélar
+https://frederic-wang.fr/2019/02/27/review-of-igalia-s-web-platform-activities-H2-2018/
+
+xtuc (Sven Sauleau)
+https://github.com/xtuc
+
+Caio Lima igalia - Google 搜索
+https://www.google.com.hk/search?q=Caio+Lima+igalia&oq=Caio+Lima+igalia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE3MjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Caio Lima | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/caiolima
+
+Sven Sauleau (@svensauleau) / X
+https://x.com/svensauleau
+
+Evans & Sutherland - Google 搜索
+https://www.google.com.hk/search?q=Evans+%26+Sutherland&oq=Evans+%26+Sutherland&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Evans & Sutherland - Wikipedia
+https://en.wikipedia.org/wiki/Evans_%26_Sutherland
+
+Choose Your Parts - PCPartPicker
+https://pcpartpicker.com/list/
+
+servo rust mozilla - Google 搜索
+https://www.google.com.hk/search?q=servo+rust+mozilla+&newwindow=1&sca_esv=ec6e1bfe95bb0f57&ei=dy14arKwHqThkPIPhs3d8AI&biw=1440&bih=731&ved=0ahUKEwjyx5KehJOWAxWkMEQIHYZmFy4Q4dUDCBA&uact=5&oq=servo+rust+mozilla+&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3NlcnZvIHJ1c3QgbW96aWxsYSAyBBAAGB4yCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSMkrUOsDWL4gcAF4AZABAJgB8gigAYMTqgEHMi02LjctMbgBA8gBAPgBAZgCB6ACqArCAgoQABhHGNYEGLADwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIHEAAYgAQYDMICBxAAGIAEGBPCAgYQABgeGBPCAggQABgIGB4YE8ICCRAAGIAEGA0YE8ICChAAGAgYHhgNGBOYAwCIBgGQBgqSBwUxLjAuNqAHyRKyBwMyLTa4B6UKwgcFMC41LjLIBxCACAE&sclient=gws-wiz-serp
+
+I tried Servo, the undercover web browser engine made with Rust : r/opensource
+https://www.reddit.com/r/opensource/comments/1md8jxb/i_tried_servo_the_undercover_web_browser_engine/
+
+nlnet - Google 搜索
+https://www.google.com.hk/search?q=nlnet&oq=nlnet&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQLhiABDIHCAMQLhiABDIHCAQQLhiABDIHCAUQABiABDIHCAYQABiABDIHCAcQLhiABDIHCAgQABiABDIHCAkQABiABNIBCDE2NDlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+NLnet; Search NLnet: servo
+https://nlnet.nl/search/static.html?q=servo
+
+delan (shuppy)
+https://github.com/delan
+
+The History and Architecture of Windows NT - Google 搜索
+https://www.google.com.hk/search?q=The+History+and+Architecture+of+Windows+NT&oq=The+History+and+Architecture+of+Windows+NT&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIwOWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+(16) Windows NT Overview - NT Kernel & Executive Architecture - Dave Cutler - 1991/03 - YouTube
+https://www.youtube.com/watch?v=D_ulAJmYTUo
+
+Black Book of Graphics Programming - Google 搜索
+https://www.google.com.hk/search?q=Black+Book+of+Graphics+Programming&oq=Black+Book+of+Graphics+Programming&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzI1NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+收件箱 (18) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+layer based SVG engine vello - Google 搜索
+https://www.google.com.hk/search?q=layer+based+SVG+engine+vello&newwindow=1&sca_esv=54d2bee7e375ab07&ei=6EB4auqIMrzJkPIPzI6-0Qo&biw=1440&bih=731&ved=0ahUKEwjqnMLjlpOWAxW8JEQIHUyHL6oQ4dUDCBA&uact=5&oq=layer+based+SVG+engine+vello&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGxheWVyIGJhc2VkIFNWRyBlbmdpbmUgdmVsbG8yBRAhGKABMgUQIRigATIFECEYoAFIxA5Q_gVY_wxwAXgAkAEAmAGhAqAB_AmqAQMyLTW4AQPIAQD4AQGYAgagApAKwgILEAAYgAQYogQYsAPCAggQABjvBRiwA5gDAIgGAZAGBZIHBTEuMC41oAe3DLIHAzItNbgHjQrCBwMwLjbIBwmACAE&sclient=gws-wiz-serp
+
+An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead) | Hacker News
+https://news.ycombinator.com/item?id=48906171
+
+resvg/crates/resvg/examples at main · linebender/resvg
+https://github.com/linebender/resvg/tree/main/crates/resvg/examples
+
+android input event send touch 大麦 抢票 - Google 搜索
+https://www.google.com.hk/search?q=android+input+event+send+touch+%E5%A4%A7%E9%BA%A6+%E6%8A%A2%E7%A5%A8&newwindow=1&sca_esv=67b648e858f86603&ei=VlZ4artPyqK6vw_L6N2JCg&biw=1440&bih=731&ved=0ahUKEwi70oebq5OWAxVKke4BHUt0N6EQ4dUDCBA&uact=5&oq=android+input+event+send+touch+%E5%A4%A7%E9%BA%A6+%E6%8A%A2%E7%A5%A8&gs_lp=Egxnd3Mtd2l6LXNlcnAiLGFuZHJvaWQgaW5wdXQgZXZlbnQgc2VuZCB0b3VjaCDlpKfpuqYg5oqi56WoSMcPUMkCWLEOcAF4AJABAJgB9gKgAYgSqgEHMC4zLjYuMbgBA8gBAPgBAZgCCKACrw3CAggQABjvBRiwA8ICCxAAGIAEGKIEGLADwgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGBZIHBzEuMC42LjGgB5ARsgcFMi02LjG4B60NwgcDMC44yAcNgAgB&sclient=gws-wiz-serp
+
+Siq5005/Damai-grabber: 自动化大麦网抢票工具，为了自己抢音律联觉而萌生的想法
+https://github.com/Siq5005/Damai-grabber
+
+android-event-recorder - Google 搜索
+https://www.google.com.hk/search?q=android-event-recorder&oq=android-event-recorder&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBBzc0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+TUSSON/android-event-recorder: android input event record/replay tool
+https://github.com/TUSSON/android-event-recorder
+
+KEY_VOLUMEDOWN aosp - Google 搜索
+https://www.google.com.hk/search?q=KEY_VOLUMEDOWN+aosp&oq=KEY_VOLUMEDOWN+aosp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIHCAMQABjvBTIHCAQQABjvBTIHCAUQABjvBdIBCDQzMzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+设备专属代码  |  Android Open Source Project
+https://source.android.com/docs/core/ota/nonab/device_code?hl=zh-cn
+
+refs/heads/main - platform/system/core - Git at Google
+https://android.googlesource.com/platform/system/core/+/refs/heads/main
+
+mapper - Android Code Search
+https://cs.android.com/android/platform/superproject/+/android-latest-release:frameworks/native/services/inputflinger/reader/mapper/
+
+雷军 移动 资费 - Google 搜索
+https://www.google.com.hk/search?q=%E9%9B%B7%E5%86%9B+%E7%A7%BB%E5%8A%A8+%E8%B5%84%E8%B4%B9&newwindow=1&sca_esv=d99a864848ea4cca&biw=1440&bih=731&ei=F4N4at-SMOLJkPIPuuWDqA8&ved=0ahUKEwif-sby1ZOWAxXiJEQIHbryAPUQ4dUDCBA&uact=5&oq=%E9%9B%B7%E5%86%9B+%E7%A7%BB%E5%8A%A8+%E8%B5%84%E8%B4%B9&gs_lp=Egxnd3Mtd2l6LXNlcnAiFOmbt-WGmyDnp7vliqgg6LWE6LS5MgUQABjvBTIFEAAY7wUyBRAAGO8FMgUQABjvBTIIEAAYgAQYogRIiRdQxgdY_hRwAXgAkAEAmAH-A6ABxx6qAQoyLTEwLjMuMC4xuAEDyAEA-AEBmAIHoALwDcICBxAAGIAEGAzCAgUQABiABJgDAIgGAZIHBTItNi4xoAelFLIHBTItNi4xuAfwDcIHBTAuNi4xyAcOgAgB&sclient=gws-wiz-serp
+
+雷军早年怒斥移动资费。_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1xER5YbEe2/
+
+马云 - Google 搜索
+https://www.google.com.hk/search?q=%E9%A9%AC%E4%BA%91&newwindow=1&sca_esv=d99a864848ea4cca&biw=1440&bih=731&ei=eoV4apTsGdPRkPIPl5WWcQ&ved=0ahUKEwiUkd2V2JOWAxXTKEQIHZeKJQ4Q4dUDCBA&uact=5&oq=%E9%A9%AC%E4%BA%91&gs_lp=Egxnd3Mtd2l6LXNlcnAiBumprOS6kTIKEC4YgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIKEAAYgAQYigUYQzIFEAAYgAQyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyGRAuGIAEGIoFGEMYlwUY3AQY3gQY3wTYAQFI4wtQgQFYuAdwAXgBkAEAmAGKBKABuROqAQkyLTEuMS4zLjG4AQPIAQD4AQGYAgKgAuQDwgIKEAAYRxjWBBiwA5gDAIgGAZAGCroGBggBEAEYFJIHBTEuNC0xoAfQFrIHAzQtMbgH4QPCBwUwLjEuMcgHBoAIAQ&sclient=gws-wiz-serp
+
+开启了代理后Codex自带的工具不可用 · Issue #3487 · farion1231/cc-switch
+https://github.com/farion1231/cc-switch/issues/3487
+
+How do u export codex sessions to a file? : r/codex
+https://www.reddit.com/r/codex/comments/1v26irj/how_do_u_export_codex_sessions_to_a_file/
 
 # 2026-08-10
 
