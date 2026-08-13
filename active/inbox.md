@@ -1,6 +1,15 @@
 
 # 2026-08-13
 
+./mach wpt "testing/web-platform/tests/referrer-policy/gen/*/*/*a-tag*.http.html"
+
+SRC_GEN="/home/tannal/tannalwork/projects/chromium/src/third_party/blink/web_tests/external/wpt/referrer-policy/gen"
+DEST_GEN="/home/tannal/tannalwork/projects/firefox/testing/web-platform/tests/referrer-policy/gen"
+
+ln -s "$SRC_GEN" "$DEST_GEN"
+rm testing/web-platform/tests/referrer-policy/gen
+
+
 ./third_party/blink/tools/run_web_tests.py -t Default third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/a-keydown-enter.html --driver-logging
 
 ./out/Default/chrome --user-data-dir=$(mktemp -d -t chrome-profile.tannal.XXXXXX) --enable-blink-features=MathMLAnchorElement
