@@ -1,7 +1,50 @@
 
+# 2026-08-13
+
+[Weekly report 12]
+
+Worked hours: 31h:30min
+
+Tasks:
+
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them in Chromium [1]
+
+Support all 7 attributes for MathML anchor element in Firefox [2]
+
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
+
+Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
+
+Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
+
+Wrote a WPT tests in sanitizer API for MathML a element [4]
+
+Next:
+
+MathML/SVG anchor element don't respect to base element in the document in Chromium
+
+Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
+
+Implement MathMLAnchorElement idl support in Webkit
+
+Raise mathml_anchor_element code converge to at least 90%
+
+Links:
+
+[1] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+
+[2] https://phabricator.services.mozilla.com/D317723#11026461
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+
+[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+
+
 # 2026-08-12
 
 EARLYOOM_ARGS="-m 5 -s 10 --prefer '(clang|lld|ninja|content_shell)' --avoid '^(code|chrome|gnome-shell)$'"
+
+
 
 ./third_party/blink/tools/run_web_tests.py -t Default $(git show --pretty="" --name-only HEAD | grep 'mathml-a-tag.*\.html$')
 
@@ -53,24 +96,23 @@ Worked hours: 31h:30min
 
 Tasks:
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them [1]
+Add `rel` / `relList` attributes support for MathML `<a>` element and tests them in Chromium [1]
 
-Working on support ping attribute for MathML anchor element in Firefox [2]
+Support all 7 attributes for MathML anchor element in Firefox [2]
 
-Prototype a WIP fuzzing infrastructure and a basic html fuzzer target for servo [2]
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
+
+Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
 
 Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
 
 Wrote a WPT tests in sanitizer API for MathML a element [4]
-
 
 Next:
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
 Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
-
-Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement
 
 Implement MathMLAnchorElement idl support in Webkit
 
@@ -80,7 +122,7 @@ Links:
 
 [1] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
 
-[2] https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/QPP0wy0FhCY
+[2] https://phabricator.services.mozilla.com/D317723#11026461
 
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
 
