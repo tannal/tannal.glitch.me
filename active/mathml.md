@@ -1,4 +1,44 @@
 
+
+
+ 0:24.45 SUITE_END
+
+web-platform-test
+~~~~~~~~~~~~~~~~~
+Ran 422 checks (336 subtests, 86 tests)
+Expected results: 419
+Unexpected results: 3
+  subtest: 3 (3 fail)
+
+Error Summary
+-------------
+/referrer-policy/gen/srcdoc.meta/default/mathml-a-tag.http.html
+  FAIL Referrer Policy: Expects origin for mathml-a-tag to cross-http origin and no-redirect redirection from http context. - assert_in_array: document.referrer value "http://web-platform.test:8000/referrer-policy/gen/srcdoc.meta/default/mathml-a-tag.http.html" not in array ["http://web-platform.test:8000/", undefined]
+checkResult@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:83:18
+TestCase/runTest/</<@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:116:36
+  FAIL Referrer Policy: Expects origin for mathml-a-tag to cross-https origin and no-redirect redirection from http context. - assert_in_array: document.referrer value "http://web-platform.test:8000/referrer-policy/gen/srcdoc.meta/default/mathml-a-tag.http.html" not in array ["http://web-platform.test:8000/", undefined]
+checkResult@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:83:18
+TestCase/runTest/</<@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:116:36
+  FAIL Referrer Policy: Expects origin for mathml-a-tag to same-https origin and no-redirect redirection from http context. - assert_in_array: document.referrer value "http://web-platform.test:8000/referrer-policy/gen/srcdoc.meta/default/mathml-a-tag.http.html" not in array ["http://web-platform.test:8000/", undefined]
+checkResult@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:83:18
+TestCase/runTest/</<@http://web-platform.test:8000/referrer-policy/generic/test-case.sub.js:116:36
+ 0:24.45 INFO Got 1 unexpected results, with 0 unexpected passes
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8000
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8001
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8002
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8003
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8443
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8445
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8444
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:8446
+ 0:24.45 wptserve INFO Stopped http server on 127.0.0.1:9000
+ 0:24.45 wptserve INFO Stopped WebTransport over HTTP/3 server on 127.0.0.1:11000
+ 0:24.70 wptserve INFO Close on: (<AddressFamily.AF_INET: 2>, <SocketKind.SOCK_STREAM: 1>, 6, '', ('127.0.0.1', 8888))
+ 0:24.70 wptserve INFO Close on: (<AddressFamily.AF_INET: 2>, <SocketKind.SOCK_STREAM: 1>, 6, '', ('127.0.0.1', 8889))
+ 0:24.75 INFO Closing logging queue
+ 0:24.75 INFO queue closed
+
+
 115 tests ran as expected, 15 didn't:
     external/wpt/referrer-policy/gen/iframe-inherit.http-rp/no-referrer/mathml-a-tag.http.html
     external/wpt/referrer-policy/gen/iframe-inherit.http-rp/origin/mathml-a-tag.http.html

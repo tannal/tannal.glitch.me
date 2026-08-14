@@ -1,6 +1,11 @@
 
 # 2026-08-13
 
+git add -A
+git commit -m "TEMP: local working copy"
+
+moz-phab submit --single --no-wip HEAD~1
+
 ./mach wpt "testing/web-platform/tests/referrer-policy/gen/*/*/*a-tag*.http.html"
 
 SRC_GEN="/home/tannal/tannalwork/projects/chromium/src/third_party/blink/web_tests/external/wpt/referrer-policy/gen"
