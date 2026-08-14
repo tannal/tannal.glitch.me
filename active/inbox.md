@@ -1,6 +1,10 @@
 
 # 2026-08-13
 
+git diff --name-only origin/master..HEAD | xargs sed -i 's/[ \t]*$//'
+
+git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/master origin/master {}
+
 owner:mkwst@chromium.org
 
 git add -A
