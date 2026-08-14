@@ -1,6 +1,10 @@
 
 # 2026-08-13
 
+git branch --set-upstream-to=mathml-a-rel
+
+git checkout -b mathml-a-keydown mathml-a-rel
+
 ./wpt run chrome mathml-aam/ --no-headless
 ./wpt run firefox mathml-aam/ --no-headless
 ./wpt run safari mathml-aam/ --no-headless
