@@ -1,6 +1,10 @@
 
 # 2026-08-13
 
+./wpt run chrome mathml-aam/ --no-headless
+./wpt run firefox mathml-aam/ --no-headless
+./wpt run safari mathml-aam/ --no-headless
+
 git diff --name-only origin/master..HEAD | xargs sed -i 's/[ \t]*$//'
 
 git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/master origin/master {}
