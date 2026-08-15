@@ -1,5 +1,58 @@
 
+| MathML 元素 | 目前 Chromium 实际行为 | W3C 规范/Issue 状态 (Issue #41) | Firefox (Gecko) / WebKit 预期行为 | 是否容易达成 Consensus (共识) | 建议的标准映射方案 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `<mspace>` | `ROLE_SECTION` | 缺失 `ATKRole` 与 `ATKAttribute` | 倾向于视为空白组/忽略节点或 `ROLE_SECTION` | ⚠️ 中等 (有分歧) | `ROLE_SECTION`（或设置 `AXEmptyGroup` 对应的隐式映射） |
+| `<none>` | `ROLE_SECTION` | W3C 提议在 MathML-AAM 中移除此元素 spec [1] | 纯结构占位符，不应暴露给 Screen Reader | ✅ 极高 (易达成共识) | 从 Accessibility Tree 中移除（或映射为通用的无语义 group/section） |
+| `<annotation>` | `ROLE_STATIC` | 缺少明确子角色定义 | 视文本/代码类型暴露为 `ROLE_STATIC` 或 `ROLE_SECTION` | ✅ 较高 | `ROLE_STATIC` (当作为纯文本/公式文本时) |
+| `<annotation-xml>` | `ROLE_SECTION` | 缺少明确子角色定义 | 包裹复杂 markup，暴露为 `ROLE_SECTION` | ✅ 较高 | `ROLE_SECTION` |
+| `<maction>` | `ROLE_SECTION` | 缺少明确子角色定义 | 互动/切换容器，一般作为 `ROLE_SECTION` 或逻辑分组 | ✅ 较高 | `ROLE_SECTION` |
+| `<mpadded>` | `ROLE_SECTION` | 缺少明确子角色定义 | 仅调整排版间距，语义上为 Row/Group | ✅ 极高 | `ROLE_SECTION` |
+| `<mprescripts>` | `ROLE_SECTION` | 已有子 Issue #12 讨论中 | 标记前置上下标的分隔符，建议作为结构组 | ✅ 较高 | `ROLE_SECTION` |
+| `<ms>` | `ROLE_STATIC` | 已有子 Issue #13 讨论中 | 字符串字面量，应作为静态文本 | ✅ 极高 | `ROLE_STATIC` |
+| `<semantics>` | `ROLE_SECTION` | 缺少明确子角色定义 | 容器节点，包裹主要公式和注解 | ✅ 极高 | `ROLE_SECTION` |
+
+
 # 2026-08-13
+
+
+
+| MathML 元素 / 测试项 | ATSPI Role | 特殊接口 / 属性 (Interfaces / Attributes) | 状态 |
+| :--- | :--- | :--- | :--- |
+| `annotation` | `ROLE_STATIC` | `tag: annotation` | ✅ PASS |
+| `annotation-xml` | `ROLE_SECTION` | `tag: annotation-xml` | ✅ PASS |
+| `maction` | `ROLE_SECTION` | `tag: maction` | ✅ PASS |
+| `math` | `ROLE_MATH` | `tag: math` | ✅ PASS |
+| `merror` | `ROLE_SECTION` | `tag: merror` | ✅ PASS |
+| `mfrac` | `ROLE_MATH_FRACTION` | `tag: mfrac` | ✅ PASS |
+| `mi` | `ROLE_STATIC` | `tag: mi` | ✅ PASS |
+| `mmultiscripts` | `ROLE_SECTION` | `tag: mmultiscripts` | ✅ PASS |
+| `mn` | `ROLE_STATIC` | `tag: mn` | ✅ PASS |
+| `mo` | `ROLE_STATIC` | `tag: mo` | ✅ PASS |
+| `mover` | `ROLE_SECTION` | `tag: mover` | ✅ PASS |
+| `mpadded` | `ROLE_SECTION` | `tag: mpadded` | ✅ PASS |
+| `mphantom` | `ROLE_SECTION` | `tag: mphantom` | ✅ PASS |
+| `mprescripts` | `ROLE_SECTION` | `tag: mprescripts` | ✅ PASS |
+| `mroot` | `ROLE_MATH_ROOT` | `tag: mroot` | ✅ PASS |
+| `mrow` | `ROLE_SECTION` | `tag: mrow` | ✅ PASS |
+| `ms` | `ROLE_STATIC` | `tag: ms` | ✅ PASS |
+| `mspace` | `ROLE_SECTION` | `tag: mspace` | ✅ PASS |
+| `msqrt` | `ROLE_MATH_ROOT` | `tag: msqrt` | ✅ PASS |
+| `mstyle` | `ROLE_SECTION` | `tag: mstyle` | ✅ PASS |
+| `msub` | `ROLE_SECTION` | `tag: msub` | ✅ PASS |
+| `msubsup` | `ROLE_SECTION` | `tag: msubsup` | ✅ PASS |
+| `msup` | `ROLE_SECTION` | `tag: msup` | ✅ PASS |
+| `mtable` | `ROLE_TABLE` | 缺失 `AtkTable` 接口 | ❌ FAIL |
+| `mtd` | `ROLE_TABLE_CELL` | `tag: mtd` | ✅ PASS |
+| `mtext` | `ROLE_STATIC` | `tag: mtext` | ✅ PASS |
+| `mtr` | `ROLE_TABLE_ROW` | `tag: mtr` | ✅ PASS |
+| `munder` | `ROLE_SECTION` | `tag: munder` | ✅ PASS |
+| `munderover` | `ROLE_SECTION` | `tag: munderover` | ✅ PASS |
+| `none` | `ROLE_SECTION` | `tag: none` | ✅ PASS |
+| `semantics` | `ROLE_SECTION` | `tag: semantics` | ✅ PASS |
+| `<a>` (with `href`) | `ROLE_SECTION` (期望 `ROLE_LINK`) | 缺失 Hyperlink 接口 | ❌ FAIL |
+| `<a>` (with `onclick` only) | `ROLE_SECTION` (期望 `ROLE_LINK`) | - | ❌ FAIL |
+| `<a>` (without `href`) | `ROLE_SECTION` | `tag: a` | ✅ PASS |
+
 
 On Linux
 
@@ -126,7 +179,7 @@ There is also a missing key when run the generate script, so I added it in third
 
 [Weekly report 11]
 
-Worked hours: 31h:30min
+Worked hours: 34h:00min
 
 Tasks:
 
@@ -136,11 +189,11 @@ Support all 7 attributes for MathML anchor element in Firefox [2]
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
 
-Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
+Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [5]
 
-Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
+Create a chrome status feature for support Origin.from for SVG A element [6]
 
-Wrote a WPT tests in sanitizer API for MathML a element [4]
+Continue to working on WPT for CSP style policy checking, WPT for attributeStyleMap for SVG elements and WPT for sanitizer API handling of MathMLAnchorElement
 
 Next:
 
@@ -161,6 +214,10 @@ Links:
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
 
 [4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[6] https://chromestatus.com/feature/5110279095582720
 
 # 2026-08-08
 
