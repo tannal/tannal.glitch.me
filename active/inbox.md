@@ -1,4 +1,27 @@
 
+# 2026-08-15
+
+sed -i 's/[ \t]*$//' $(git diff --name-only --staged)
+
+# 1. 提交当前的修改为针对 Part 3 的临时 fixup commit
+git add .
+git commit --fixup cfd8d97f79294b27589ebf7c66d956d1d2b51ae0
+
+# 2. 自动把修改融合进目标 commit（无需手动修改文本文件）
+git rebase -i --autosquash 7fcb59da46f13b41f8150dcf2b6e2fce32d6214c~1
+
+They are in the spec (in the paragraph before the IDL) , but not in the IDL definition, here are some background:
+
+The `download`, `ping`, `rel`, `relList` and `referrerPolicy` attribute will be defined in the mixin `HyperlinkElementUtils` which will shared by HTML, SVG, and MathML anchor elements eventually. [1]
+
+It's not in the current spec and this patch because SVG a element is not ready for sharing `HyperlinkElementUtils` mixin. 
+There is a plan to support `HyperlinkElementUtils` for SVG a element.[2]
+
+For this file, most of the attributes is copied from `HTMLAnchorElement.webidl`.
+
+[1] https://github.com/w3c/mathml-core/pull/326
+[2] https://github.com/w3c/svgwg/pull/1052
+
 | MathML 元素 | 目前 Chromium 实际行为 | W3C 规范/Issue 状态 (Issue #41) | Firefox (Gecko) / WebKit 预期行为 | 是否容易达成 Consensus (共识) | 建议的标准映射方案 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `<mspace>` | `ROLE_SECTION` | 缺失 `ATKRole` 与 `ATKAttribute` | 倾向于视为空白组/忽略节点或 `ROLE_SECTION` | ⚠️ 中等 (有分歧) | `ROLE_SECTION`（或设置 `AXEmptyGroup` 对应的隐式映射） |
