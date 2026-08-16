@@ -1,5 +1,644 @@
 
 
+diff --git a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml b/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
+index 30e25f283d7d..eb416702ca22 100644
+--- a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
++++ b/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
+@@ -5369,7 +5369,7 @@ MathFontFamily:
+     WebCore:
+       default: '""_str'
+ 
+-MathMLAElementEnabled:
++MathMLAnchorElementEnabled:
+   type: bool
+   defaultValue:
+     WebKitLegacy:
+diff --git a/Source/WebCore/Headers.cmake b/Source/WebCore/Headers.cmake
+index f6d8e0a092d9..71738c666f85 100644
+--- a/Source/WebCore/Headers.cmake
++++ b/Source/WebCore/Headers.cmake
+@@ -1538,6 +1538,7 @@ set(WebCore_PRIVATE_FRAMEWORK_HEADERS
+     history/ProcessSwapDisposition.h
+ 
+     html/Allowlist.h
++    html/AnchorElementUtils.h
+     html/AttachmentAssociatedElement.h
+     html/Autocapitalize.h
+     html/AutocapitalizeTypes.h
+diff --git a/Source/WebCore/Sources.txt b/Source/WebCore/Sources.txt
+index 901b2067e172..980a96a30a2b 100644
+--- a/Source/WebCore/Sources.txt
++++ b/Source/WebCore/Sources.txt
+@@ -1567,6 +1567,7 @@ history/BackForwardController.cpp
+ history/CachedFrame.cpp @header:RenderStyleGetters
+ history/CachedPage.cpp
+ history/HistoryItem.cpp
++html/AnchorElementUtils.cpp
+ html/AttachmentAssociatedElement.cpp
+ html/Autocapitalize.cpp
+ html/Autofill.cpp
+diff --git a/Source/WebCore/accessibility/AXCoreObject.h b/Source/WebCore/accessibility/AXCoreObject.h
+index 74d2b4514be8..b42b11d6366e 100644
+--- a/Source/WebCore/accessibility/AXCoreObject.h
++++ b/Source/WebCore/accessibility/AXCoreObject.h
+@@ -1334,6 +1334,7 @@ public:
+ 
+     // All math elements return true for isMathElement().
+     virtual bool isMathElement() const = 0;
++    virtual bool isMathAnnotation() const = 0;
+     virtual bool isMathFraction() const = 0;
+     virtual bool isMathFenced() const = 0;
+     virtual bool isMathSubscriptSuperscript() const = 0;
+diff --git a/Source/WebCore/accessibility/AccessibilityMathMLElement.cpp b/Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
+index ff8614305874..a8577c397eda 100644
+--- a/Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
++++ b/Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
+@@ -122,12 +122,17 @@ bool AccessibilityMathMLElement::isIgnoredElementWithinMathTree() const
+     if (isMathFraction() || isMathFenced() || isMathSubscriptSuperscript() || isMathRow()
+         || isMathUnderOver() || isMathRoot() || isMathText() || isMathNumber()
+         || isMathOperator() || isMathFenceOperator() || isMathSeparatorOperator()
+-        || isMathIdentifier() || isMathTable() || isMathTableRow() || isMathTableCell() || isMathMultiscript())
++        || isMathIdentifier() || isMathTable() || isMathTableRow() || isMathTableCell() || isMathMultiscript() || isMathAnnotation())
+         return false;
+ 
+     return true;
+ }
+ 
++bool AccessibilityMathMLElement::isMathAnnotation() const
++{
++    return elementName() == ElementName::MathML_annotation;
++}
++
+ bool AccessibilityMathMLElement::isMathFraction() const
+ {
+     return m_renderer && m_renderer->isRenderMathMLFraction();
+diff --git a/Source/WebCore/accessibility/AccessibilityMathMLElement.h b/Source/WebCore/accessibility/AccessibilityMathMLElement.h
+index 1ed714805cd0..0c967ae6a6f9 100644
+--- a/Source/WebCore/accessibility/AccessibilityMathMLElement.h
++++ b/Source/WebCore/accessibility/AccessibilityMathMLElement.h
+@@ -55,6 +55,7 @@ private:
+ 
+     bool isMathElement() const final { return true; }
+ 
++    bool isMathAnnotation() const final;
+     bool isMathFraction() const final;
+     bool isMathFenced() const final;
+     bool isMathSubscriptSuperscript() const final;
+diff --git a/Source/WebCore/accessibility/AccessibilityObject.h b/Source/WebCore/accessibility/AccessibilityObject.h
+index fb11d87b25d4..b9fca2922f44 100644
+--- a/Source/WebCore/accessibility/AccessibilityObject.h
++++ b/Source/WebCore/accessibility/AccessibilityObject.h
+@@ -742,6 +742,7 @@ public:
+     void scrollToMakeVisible(const ScrollRectToVisibleOptions&) const;
+ 
+     // All math elements return true for isMathElement().
++    bool isMathAnnotation() const override { return false;};
+     bool isMathElement() const override { return false; }
+     bool isMathFraction() const override { return false; }
+     bool isMathFenced() const override { return false; }
+diff --git a/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp b/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp
+index 431f746e0906..6376d73918c7 100644
+--- a/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp
++++ b/Source/WebCore/accessibility/atspi/AccessibilityObjectAtspi.cpp
+@@ -1204,6 +1204,9 @@ std::optional<Atspi::Role> AccessibilityObjectAtspi::effectiveRole() const
+             return Atspi::Role::MathFraction;
+         if (m_coreObject->isMathSquareRoot() || m_coreObject->isMathRoot())
+             return Atspi::Role::MathRoot;
++        if (m_coreObject->isMathAnnotation()) {
++            // return Atspi::Role::Static;
++        }
+         if (liveObject && (liveObject->isMathScriptObject(AccessibilityMathScriptObjectType::Subscript)
+             || liveObject->isMathMultiscriptObject(AccessibilityMathMultiscriptObjectType::PreSubscript)
+             || liveObject->isMathMultiscriptObject(AccessibilityMathMultiscriptObjectType::PostSubscript)))
+@@ -1397,8 +1400,8 @@ AccessibilityObjectInclusion AccessibilityObject::accessibilityPlatformIncludesO
+ 
+     // Never expose an unknown object, since AT's won't know what to
+     // do with them. This is what is done on the Mac as well.
+-    if (role() == AccessibilityRole::Unknown)
+-        return AccessibilityObjectInclusion::IgnoreObject;
++    // if (role() == AccessibilityRole::Unknown)
++    //     return AccessibilityObjectInclusion::IgnoreObject;
+ 
+     // The object containing the text should implement org.a11y.atspi.Text itself.
+     if (role() == AccessibilityRole::StaticText)
+diff --git a/Source/WebCore/html/HTMLAnchorElement.cpp b/Source/WebCore/html/HTMLAnchorElement.cpp
+index e5289a52a1a6..1f2e4472f94b 100644
+--- a/Source/WebCore/html/HTMLAnchorElement.cpp
++++ b/Source/WebCore/html/HTMLAnchorElement.cpp
+@@ -25,6 +25,7 @@
+ #include "config.h"
+ #include "HTMLAnchorElement.h"
+ 
++#include "AnchorElementUtils.h"
+ #include "Chrome.h"
+ #include "ChromeClient.h"
+ #include "ContainerNodeInlines.h"
+@@ -241,18 +242,7 @@ void HTMLAnchorElement::attributeChanged(const QualifiedName& name, const AtomSt
+     if (name == hrefAttr)
+         setIsLink(!newValue.isNull() && !shouldProhibitLinks(this));
+     else if (name == relAttr) {
+-        // Update HTMLAnchorElement::relList() if more rel attributes values are supported.
+-        static MainThreadNeverDestroyed<const AtomString> noReferrer("noreferrer"_s);
+-        static MainThreadNeverDestroyed<const AtomString> noOpener("noopener"_s);
+-        static MainThreadNeverDestroyed<const AtomString> opener("opener"_s);
+-        m_linkRelations = { };
+-        SpaceSplitString relValue(newValue, SpaceSplitString::ShouldFoldCase::Yes);
+-        if (relValue.contains(noReferrer))
+-            m_linkRelations.add(Relation::NoReferrer);
+-        if (relValue.contains(noOpener))
+-            m_linkRelations.add(Relation::NoOpener);
+-        if (relValue.contains(opener))
+-            m_linkRelations.add(Relation::Opener);
++        m_linkRelations = AnchorElementUtils::relationsForRelAttribute(newValue);
+         if (m_relList)
+             m_relList->associatedAttributeValueChanged();
+     } else if (name == nameAttr)
+@@ -726,12 +716,12 @@ void HTMLAnchorElement::setRootEditableElementForSelectionOnMouseDown(Element* e
+ 
+ String HTMLAnchorElement::referrerPolicyForBindings() const
+ {
+-    return referrerPolicyToString(referrerPolicy());
++    return AnchorElementUtils::referrerPolicyForBindingsForHyperlinkElement(attributeWithoutSynchronization(referrerpolicyAttr));
+ }
+ 
+ ReferrerPolicy HTMLAnchorElement::referrerPolicy() const
+ {
+-    return parseReferrerPolicy(attributeWithoutSynchronization(referrerpolicyAttr), ReferrerPolicySource::ReferrerPolicyAttribute).value_or(ReferrerPolicy::EmptyString);
++    return AnchorElementUtils::referrerPolicyForHyperlinkElement(attributeWithoutSynchronization(referrerpolicyAttr));
+ }
+ 
+ Node::NeedsPostConnectionSteps HTMLAnchorElement::insertionSteps(InsertionType insertionType, ContainerNode& parentOfInsertedTree)
+diff --git a/Source/WebCore/html/HTMLAnchorElement.h b/Source/WebCore/html/HTMLAnchorElement.h
+index 2896c1267e86..94bbc92a0e6a 100644
+--- a/Source/WebCore/html/HTMLAnchorElement.h
++++ b/Source/WebCore/html/HTMLAnchorElement.h
+@@ -23,6 +23,7 @@
+ 
+ #pragma once
+ 
++#include "AnchorElementUtils.h"
+ #include <WebCore/Document.h>
+ #include <WebCore/HTMLElement.h>
+ #include <WebCore/HTMLNames.h>
+@@ -37,14 +38,6 @@ namespace WebCore {
+ class DOMTokenList;
+ 
+ enum class ReferrerPolicy : uint8_t;
+-
+-// Link relation bitmask values.
+-enum class Relation : uint8_t {
+-    NoReferrer = 1 << 0,
+-    NoOpener = 1 << 1,
+-    Opener = 1 << 2,
+-};
+-
+ class HTMLAnchorElement : public HTMLElement, public URLDecomposition {
+     WTF_MAKE_TZONE_ALLOCATED(HTMLAnchorElement);
+     WTF_OVERRIDE_DELETE_FOR_CHECKED_PTR(HTMLAnchorElement);
+diff --git a/Source/WebCore/loader/PingLoader.cpp b/Source/WebCore/loader/PingLoader.cpp
+index dffa219b2f75..b12550b9ffb2 100644
+--- a/Source/WebCore/loader/PingLoader.cpp
++++ b/Source/WebCore/loader/PingLoader.cpp
+@@ -265,6 +265,7 @@ void PingLoader::startPingLoad(LocalFrame& frame, ResourceRequest& request, HTTP
+     }
+ 
+     CachedResourceRequest cachedResourceRequest { ResourceRequest { request }, options };
++    cachedResourceRequest.setInitiatorType("ping"_s);
+     std::ignore = protect(protect(frame.document())->cachedResourceLoader())->requestPingResource(WTF::move(cachedResourceRequest));
+ }
+ 
+diff --git a/Source/WebCore/mathml/MathMLAnchorElement.cpp b/Source/WebCore/mathml/MathMLAnchorElement.cpp
+index 92582e4f586c..6c004d4598c8 100644
+--- a/Source/WebCore/mathml/MathMLAnchorElement.cpp
++++ b/Source/WebCore/mathml/MathMLAnchorElement.cpp
+@@ -1,16 +1,38 @@
++/*
++ * Copyright (C) 2026 Igalia S.L. All rights reserved.
++ *
++ * Redistribution and use in source and binary forms, with or without
++ * modification, are permitted provided that the following conditions
++ * are met:
++ * 1. Redistributions of source code must retain the above copyright
++ *    notice, this list of conditions and the following disclaimer.
++ * 2. Redistributions in binary form must reproduce the above copyright
++ *    notice, this list of conditions and the following disclaimer in the
++ *    documentation and/or other materials provided with the distribution.
++ *
++ * THIS SOFTWARE IS PROVIDED BY APPLE INC. ``AS IS'' AND ANY
++ * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
++ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
++ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL APPLE INC. OR
++ * CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
++ * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
++ * PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
++ * PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
++ * OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
++ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
++ * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
++ */
++
+ #include "config.h"
++#include "AnchorElementUtils.h"
++
+ #include "MathMLAnchorElement.h"
+ 
+ #include "DOMTokenList.h"
+-#include "Document.h"
+-#include "EventHandler.h"
+-#include "FrameLoader.h"
+-#include "LocalFrame.h"
+-#include "KeyboardEvent.h"
+-#include "MathMLNames.h"
+-#include "MouseEvent.h"
++#include "ElementInlines.h"
++#include "Event.h"
+ #include "EventNames.h"
+-#include "XLinkNames.h"
++#include "MathMLNames.h"
+ #include <wtf/TZoneMallocInlines.h>
+ 
+ namespace WebCore {
+@@ -30,14 +52,14 @@ Ref<MathMLAnchorElement> MathMLAnchorElement::create(const QualifiedName& tagNam
+     return adoptRef(*new MathMLAnchorElement(tagName, document));
+ }
+ 
++URL MathMLAnchorElement::href() const
++{
++    return protect(document())->encodingParseURL(attributeWithoutSynchronization(MathMLNames::hrefAttr));
++}
++
+ URL MathMLAnchorElement::hrefURL() const
+ {
+-    // MathML 支持 href 或 xlink:href
+-    const AtomString& hrefValue = attributeWithoutSynchronization(MathMLNames::hrefAttr);
+-    if (!hrefValue.isNull())
+-        return protect(document())->encodingParseURL(hrefValue);
+-
+-    return protect(document())->encodingParseURL(attributeWithoutSynchronization(XLinkNames::hrefAttr));
++    return href();
+ }
+ 
+ AtomString MathMLAnchorElement::target() const
+@@ -45,141 +67,64 @@ AtomString MathMLAnchorElement::target() const
+     return attributeWithoutSynchronization(MathMLNames::targetAttr);
+ }
+ 
+-void MathMLAnchorElement::attributeChanged(const QualifiedName& name, const AtomString& oldValue, const AtomString& newValue, AttributeModificationReason attributeModificationReason)
++void MathMLAnchorElement::setFullURL(const URL& fullURL)
+ {
+-    MathMLElement::attributeChanged(name, oldValue, newValue, attributeModificationReason);
+-
+-    if (name == MathMLNames::hrefAttr || name == XLinkNames::hrefAttr) {
+-        setIsLink(!newValue.isNull());
+-    } else if (name == MathMLNames::relAttr) {
+-        static MainThreadNeverDestroyed<const AtomString> noReferrer("noreferrer"_s);
+-        static MainThreadNeverDestroyed<const AtomString> noOpener("noopener"_s);
+-        static MainThreadNeverDestroyed<const AtomString> opener("opener"_s);
+-        
+-        m_linkRelations = { };
+-        SpaceSplitString relValue(newValue, SpaceSplitString::ShouldFoldCase::Yes);
+-        if (relValue.contains(noReferrer))
+-            m_linkRelations.add(Relation::NoReferrer);
+-        if (relValue.contains(noOpener))
+-            m_linkRelations.add(Relation::NoOpener);
+-        if (relValue.contains(opener))
+-            m_linkRelations.add(Relation::Opener);
+-            
+-        if (m_relList)
+-            m_relList->associatedAttributeValueChanged();
+-    }
++    setAttributeWithoutSynchronization(MathMLNames::hrefAttr, AtomString { fullURL.string() });
+ }
+ 
+-static bool isEnterKeyKeydownEvent(Event& event)
+-{
+-    if (event.type() != eventNames().keydownEvent)
+-        return false;
+-    auto* keyboardEvent = dynamicDowncast<KeyboardEvent>(event);
+-    return keyboardEvent && keyboardEvent->keyIdentifier() == "Enter"_s;
+-}
+-
+-#include <wtf/text/WTFString.h>
+ void MathMLAnchorElement::defaultEventHandler(Event& event)
+ {
+-    // 1. 打印每次进入 eventHandler 的事件类型
+-    WTFLogAlways("[MathMLAnchorElement] defaultEventHandler triggered! Event type: %s, isLink(): %d",
+-        event.type().string().utf8().data(), isLink());
++    if (isLink() && (event.type() == eventNames().clickEvent || event.type() == eventNames().DOMActivateEvent)) {
++        event.setDefaultHandled();
+ 
+-    if (isLink()) {
+-        if (focused() && isEnterKeyKeydownEvent(event)) {
+-            WTFLogAlways("[MathMLAnchorElement] Handled as Enter keypress -> dispatching simulated click");
+-            event.setDefaultHandled();
+-            dispatchSimulatedClick(&event);
++        URL completedURL = hrefURL();
++        if (completedURL.isEmpty())
+             return;
++
++        AtomString downloadAttr = AnchorElementUtils::downloadAttributeForHyperlinkElement(document(), completedURL, attributeWithoutSynchronization(MathMLNames::downloadAttr), hasAttributeWithoutSynchronization(MathMLNames::downloadAttr));
++
++        ReferrerPolicy policy = referrerPolicy();
++
++        if(m_linkRelations.contains(Relation::NoReferrer)) {
++            policy = ReferrerPolicy::NoReferrer;
+         }
+ 
+-        if (MouseEvent::canTriggerActivationBehavior(event)) {
+-            URL completedURL = hrefURL();
+-            WTFLogAlways("[MathMLAnchorElement] Computed hrefURL: '%s', isValid: %d",
+-                completedURL.string().utf8().data(), completedURL.isValid());
++        AnchorElementUtils::sendPingsForHyperlinkElement(document(), attributeWithoutSynchronization(MathMLNames::pingAttr), completedURL);
+ 
+-            if (completedURL.isValid()) {
+-                Ref document = this->document();
+-                auto target = this->target();
+-                
+-                WTFLogAlways("[MathMLAnchorElement] Target frame name: '%s'", target.string().utf8().data());
+-
+-                event.setDefaultHandled();
+-
+-                auto referrerPolicy = hasRel(Relation::NoReferrer) ? ReferrerPolicy::NoReferrer : ReferrerPolicy::EmptyString;
+-                NewFrameOpenerPolicy newFrameOpenerPolicy = NewFrameOpenerPolicy::Allow;
+-                if (hasRel(Relation::NoOpener) || hasRel(Relation::NoReferrer) || (!hasRel(Relation::Opener) && isBlankTargetFrameName(target) && !completedURL.protocolIsJavaScript()))
+-                    newFrameOpenerPolicy = NewFrameOpenerPolicy::Suppress;
+-
+-                if (RefPtr frame = document->frame()) {
+-                    WTFLogAlways("[MathMLAnchorElement] Calling frame->loader().changeLocation to: '%s'", completedURL.string().utf8().data());
+-                    UserGestureIndicator gestureIndicator(IsProcessingUserGesture::Yes);
+-                    frame->loader().changeLocation(completedURL, target, &event, referrerPolicy, document->shouldOpenExternalURLsPolicyToPropagate(), newFrameOpenerPolicy);
+-                } else {
+-                    WTFLogAlways("[MathMLAnchorElement] ERROR: document->frame() is NULL! Cannot navigate.");
+-                }
+-                return;
+-            } else {
+-                WTFLogAlways("[MathMLAnchorElement] URL is invalid, skipping navigation.");
+-            }
+-        }
+-    } else {
+-        WTFLogAlways("[MathMLAnchorElement] Element is NOT considered a link (isLink() == false).");
++        AnchorElementUtils::navigateHyperlink(
++            *this,
++            event,
++            completedURL,
++            effectiveTarget(),
++            m_linkRelations,
++            policy,
++            downloadAttr);
++        return;
+     }
+ 
+     MathMLElement::defaultEventHandler(event);
+ }
+ 
+-int MathMLAnchorElement::defaultTabIndex() const
++void MathMLAnchorElement::attributeChanged(const QualifiedName& name, const AtomString& oldValue, const AtomString& newValue, AttributeModificationReason attributeModificationReason)
+ {
+-    return 0;
++    MathMLElement::attributeChanged(name, oldValue, newValue, attributeModificationReason);
++
++    if (name == MathMLNames::relAttr) {
++        m_linkRelations = AnchorElementUtils::relationsForRelAttribute(newValue);
++        if (m_relList)
++            m_relList->associatedAttributeValueChanged();
++    }
+ }
+ 
+-bool MathMLAnchorElement::supportsFocus() const
++// Falls back to using <base> element's target if the anchor does not have one.
++AtomString MathMLAnchorElement::effectiveTarget() const
+ {
+-    if (hasEditableStyle())
+-        return MathMLElement::supportsFocus();
+-    return isLink() || MathMLElement::supportsFocus();
++    auto effectiveTarget = target();
++    if (effectiveTarget.isEmpty())
++        effectiveTarget = document().baseTarget();
++    return makeTargetBlankIfHasDanglingMarkup(effectiveTarget);
+ }
+ 
+-bool MathMLAnchorElement::isMouseFocusable() const
+-{
+-    if (isLink())
+-        return Element::supportsFocus();
+-    return MathMLElement::isMouseFocusable();
+-}
+-
+-bool MathMLAnchorElement::isKeyboardFocusable(const FocusEventData& focusEventData) const
+-{
+-    if (isFocusable() && Element::supportsFocus())
+-        return MathMLElement::isKeyboardFocusable(focusEventData);
+-
+-    RefPtr frame = document().frame();
+-    if (!frame)
+-        return false;
+-
+-    if (isLink() && !frame->eventHandler().tabsToLinks(focusEventData))
+-        return false;
+-
+-    return MathMLElement::isKeyboardFocusable(focusEventData);
+-}
+-
+-bool MathMLAnchorElement::isURLAttribute(const Attribute& attribute) const
+-{
+-    return attribute.name() == MathMLNames::hrefAttr || attribute.name() == XLinkNames::hrefAttr || MathMLElement::isURLAttribute(attribute);
+-}
+-
+-bool MathMLAnchorElement::canStartSelection() const
+-{
+-    if (!isLink())
+-        return MathMLElement::canStartSelection();
+-    return hasEditableStyle();
+-}
+-
+-bool MathMLAnchorElement::willRespondToMouseClickEventsWithEditability(Editability editability) const
+-{
+-    return isLink() || MathMLElement::willRespondToMouseClickEventsWithEditability(editability);
+-}
+ 
+ DOMTokenList& MathMLAnchorElement::relList()
+ {
+@@ -196,4 +141,14 @@ bool MathMLAnchorElement::hasRel(Relation relation) const
+     return m_linkRelations.contains(relation);
+ }
+ 
+-} // namespace WebCore
+\ No newline at end of file
++String MathMLAnchorElement::referrerPolicyForBindings() const
++{
++    return AnchorElementUtils::referrerPolicyForBindingsForHyperlinkElement(attributeWithoutSynchronization(MathMLNames::referrerpolicyAttr));
++}
++
++ReferrerPolicy MathMLAnchorElement::referrerPolicy() const
++{
++    return AnchorElementUtils::referrerPolicyForHyperlinkElement(attributeWithoutSynchronization(MathMLNames::referrerpolicyAttr));
++}
++
++} // namespace WebCore
+diff --git a/Source/WebCore/mathml/MathMLAnchorElement.h b/Source/WebCore/mathml/MathMLAnchorElement.h
+index 591d3b67e093..74b251fa8409 100644
+--- a/Source/WebCore/mathml/MathMLAnchorElement.h
++++ b/Source/WebCore/mathml/MathMLAnchorElement.h
+@@ -26,7 +26,7 @@
+ #pragma once
+ 
+ #include "MathMLElement.h"
+-#include "ReferrerPolicy.h"
++#include "URLDecomposition.h"
+ #include <wtf/OptionSet.h>
+ #include <wtf/TZoneMalloc.h>
+ 
+@@ -35,41 +35,38 @@ namespace WebCore {
+ class DOMTokenList;
+ 
+ enum class ReferrerPolicy : uint8_t;
++enum class Relation : uint8_t;
+ 
+-class MathMLAnchorElement final : public MathMLElement {
++class MathMLAnchorElement final : public MathMLElement, public URLDecomposition {
+     WTF_MAKE_TZONE_ALLOCATED(MathMLAnchorElement);
+     WTF_OVERRIDE_DELETE_FOR_CHECKED_PTR(MathMLAnchorElement);
+ 
+ public:
+-    // Link relation bitmask values.
+-    enum class Relation : uint8_t {
+-        NoReferrer = 1 << 0,
+-        NoOpener = 1 << 1,
+-        Opener = 1 << 2,
+-    };
+-
+     static Ref<MathMLAnchorElement> create(const QualifiedName&, Document&);
+     virtual ~MathMLAnchorElement();
+ 
++    WEBCORE_EXPORT URL href() const;
++
+     URL hrefURL() const;
+     AtomString target() const final;
+ 
++    URL fullURL() const final { return href(); }
++    void setFullURL(const URL&) final;
++
++    void defaultEventHandler(Event& event);
++
+     bool hasRel(Relation relation) const;
+     DOMTokenList& relList();
+ 
++    String referrerPolicyForBindings() const;
++    ReferrerPolicy referrerPolicy() const;
++
+ private:
+     MathMLAnchorElement(const QualifiedName&, Document&);
+ 
++    AtomString effectiveTarget() const;
++
+     void attributeChanged(const QualifiedName&, const AtomString& oldValue, const AtomString& newValue, AttributeModificationReason) final;
+-    
+-    void defaultEventHandler(Event&) final;
+-    bool supportsFocus() const final;
+-    bool isMouseFocusable() const final;
+-    bool isKeyboardFocusable(const FocusEventData&) const final;
+-    bool isURLAttribute(const Attribute&) const final;
+-    bool canStartSelection() const final;
+-    int defaultTabIndex() const final;
+-    bool willRespondToMouseClickEventsWithEditability(Editability) const final;
+ 
+     OptionSet<Relation> m_linkRelations;
+     const std::unique_ptr<DOMTokenList> m_relList;
+diff --git a/Source/WebCore/mathml/MathMLAnchorElement.idl b/Source/WebCore/mathml/MathMLAnchorElement.idl
+index 644b8a769fbd..daa5b64c1b29 100644
+--- a/Source/WebCore/mathml/MathMLAnchorElement.idl
++++ b/Source/WebCore/mathml/MathMLAnchorElement.idl
+@@ -24,11 +24,17 @@
+  */
+ 
+ [
+-    EnabledBySetting=MathMLAElementEnabled,
++    EnabledBySetting=MathMLAnchorElementEnabled,
+     Exposed=Window,
+ ] interface MathMLAnchorElement : MathMLElement {
+-    [Reflect] attribute DOMString href;
+-    [Reflect] attribute DOMString target;
+-    [Reflect] attribute DOMString rel;
++    [CEReactions=NotNeeded, ReflectURL] stringifier attribute USVString href;
++    [CEReactions=NotNeeded, Reflect] attribute DOMString target;
++
++    [CEReactions=NotNeeded, Reflect] attribute DOMString download;
++    [CEReactions=NotNeeded, Reflect] attribute USVString ping;
++    [CEReactions=NotNeeded, Reflect] attribute DOMString rel;
+     [SameObject, PutForwards=value] readonly attribute DOMTokenList relList;
+-};
+\ No newline at end of file
++    [CEReactions=NotNeeded, ImplementedAs=referrerPolicyForBindings, ReflectSetter] attribute [AtomString] DOMString referrerPolicy;
++};
++
++MathMLAnchorElement includes HyperlinkElementUtils;
+\ No newline at end of file
+diff --git a/Source/WebCore/mathml/mathattrs.in b/Source/WebCore/mathml/mathattrs.in
+index f9335cb6d096..6f3b4216516d 100644
+--- a/Source/WebCore/mathml/mathattrs.in
++++ b/Source/WebCore/mathml/mathattrs.in
+@@ -11,6 +11,7 @@ close
+ color
+ columnspan
+ definitionURL
++download
+ denomalign
+ depth
+ dir
+@@ -24,6 +25,7 @@ fontstyle
+ fontweight
+ form
+ height
++hreflang
+ href
+ largeop
+ linethickness
+@@ -38,6 +40,8 @@ movablelimits
+ notation
+ numalign
+ open
++ping
++referrerpolicy
+ rel
+ rowspan
+ rspace
+@@ -49,6 +53,7 @@ src
+ stretchy
+ symmetric
+ subscriptshift
++type
+ superscriptshift
+ target
+ voffset
+diff --git a/Source/WebCore/page/Performance.cpp b/Source/WebCore/page/Performance.cpp
+index a47043aeb28c..4e790e768a2f 100644
+--- a/Source/WebCore/page/Performance.cpp
++++ b/Source/WebCore/page/Performance.cpp
+@@ -432,7 +432,7 @@ void Performance::navigationFinished(MonotonicTime loadEventEnd)
+ void Performance::addResourceTiming(ResourceTiming&& resourceTiming)
+ {
+     ASSERT(scriptExecutionContext());
+-
++    WTFReportBacktrace();
+     auto entry = PerformanceResourceTiming::create(m_timeOrigin, WTF::move(resourceTiming));
+ 
+     if (m_waitingForBackupBufferToBeProcessed) {
+diff --git a/Source/WebCore/page/PerformanceResourceTiming.cpp b/Source/WebCore/page/PerformanceResourceTiming.cpp
+index 7476ec9af5b7..3e83077b9cbf 100644
+--- a/Source/WebCore/page/PerformanceResourceTiming.cpp
++++ b/Source/WebCore/page/PerformanceResourceTiming.cpp
+@@ -100,6 +100,9 @@ PerformanceResourceTiming::PerformanceResourceTiming(MonotonicTime timeOrigin, R
+     , m_resourceTiming(WTF::move(resourceTiming))
+     , m_serverTiming(m_resourceTiming.populateServerTiming())
+ {
++    WTFLogAlways("===> PerformanceResourceTiming created for URL: %s, initiatorType: %s", 
++        m_resourceTiming.url().string().utf8().data(), 
++        m_resourceTiming.initiatorType().utf8().data());
+ }
+ 
+ PerformanceResourceTiming::~PerformanceResourceTiming() = default;
+
+
 
  0:24.45 SUITE_END
 
