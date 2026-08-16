@@ -1,6 +1,12 @@
 
 # 2026-08-15
 
+// 3.4.18 mspace -> Spec 规定 ATK "Not mapped"，但在 Gecko 里若需暴露或忽略：
+// 如果规范要求映射，通常用 SECTION 或者直接忽略；若需挂载：
+MARKUPMAP(mspace, New_HyperText, roles::SECTION)
+
+moz-phab submit --single --no-wip HEAD~2
+
 ./wpt run firefox mathml-aam/ --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
 
 ./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk
@@ -12,8 +18,8 @@ Mac OS
 | MathML element | Chromium | Firefox | Safari/WebKit | Current Spec | Suggested |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `<mspace>` | `AXGroup`/`AXEmptyGroup` | Not mapped | `AXGroup`/`AXEmptyGroup` | `TBD`/`TBD` | `AXGroup` / `AXEmptyGroup` |
-| `<none>` | `AXGroup`/`AXMathRow` | `ROLE_SECTION` | `AXGroup`/`AXEmptyGroup` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
-| `<annotation>` | `ROLE_STATIC` | Not mapped | Not mapped | `AXGroup`/`TBD` | `AXGroup` / `AXStaticText` |
+| `<none>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXEmptyGroup` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
+| `<annotation>` | `AXGroup`/`AXMathText` | Not mapped | Not mapped | `AXGroup`/`TBD` | `AXGroup` / `AXStaticText` |
 | `<annotation-xml>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
 | `<maction>` | `AXGroup`/`AXMathRow` | `AXGroup`/`Unknown` | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
 | `<mpadded>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
