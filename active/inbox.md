@@ -1,6 +1,8 @@
 
 # 2026-08-15
 
+./wpt run firefox mathml-aam/ --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
+
 ./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk
 
 annotation, annotation-xml, mprescripts, mspace, none, html-link-without-href
@@ -9,31 +11,30 @@ Mac OS
 
 | MathML element | Chromium | Firefox | Safari/WebKit | Current Spec | Suggested |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `<mspace>` | `AXGroup`/`AXEmptyGroup` | Not mapped | `AXGroup/AXEmptyGroup` | `TBD`/`TBD` | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<none>` | `AXGroup`/`AXMathRow` | `ROLE_SECTION` | `AXGroup/AXEmptyGroup` | `AXGroup`/`TBD` | `ROLE_SECTION` |
-| `<annotation>` | `ROLE_STATIC` | Not mapped | Not mapped | `AXGroup`/`TBD` | `ROLE_STATIC`|
-| `<annotation-xml>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `ROLE_SECTION` |
-| `<maction>` | `AXGroup`/`AXMathRow` | `ROLE_SECTION` | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `ROLE_SECTION` |
-| `<mpadded>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `ROLE_SECTION` |
-| `<mprescripts>` | `AXGroup`/`AXMathRow` | `ROLE_SECTION` | `AXGroup`/`AXEmptyGroup` | `TBD`/`TBD` | `ROLE_SECTION` |
-| `<ms>` | `AXGroup`/`nil` | `ROLE_STATIC` | `AXGroup`/`AXMathText` | `AXGroup`/`nil` | `ROLE_STATIC` |
-| `<semantics>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `ROLE_SECTION` |
+| `<mspace>` | `AXGroup`/`AXEmptyGroup` | Not mapped | `AXGroup`/`AXEmptyGroup` | `TBD`/`TBD` | `AXGroup` / `AXEmptyGroup` |
+| `<none>` | `AXGroup`/`AXMathRow` | `ROLE_SECTION` | `AXGroup`/`AXEmptyGroup` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
+| `<annotation>` | `ROLE_STATIC` | Not mapped | Not mapped | `AXGroup`/`TBD` | `AXGroup` / `AXStaticText` |
+| `<annotation-xml>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
+| `<maction>` | `AXGroup`/`AXMathRow` | `AXGroup`/`Unknown` | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
+| `<mpadded>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
+| `<mprescripts>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXEmptyGroup` | `TBD`/`TBD` | `AXGroup` / `AXMathRow` or `AXEmptyGroup` |
+| `<ms>` | `AXGroup`/`nil` | `AXGroup`/`Uknown` | `AXGroup`/`AXMathText` | `AXGroup`/`nil` | `AXGroup` / `AXMathText` |
+| `<semantics>` | `AXGroup`/`AXMathRow` | Not mapped | `AXGroup`/`AXMathRow` | `AXGroup`/`TBD` | `AXGroup` / `AXMathRow` |
 
 Linux
 
-./wpt run firefox mathml-aam/ --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless 2>&1 | tee log.txt
 
 | MathML element | Chromium | Firefox | WebKit | Current Spec | Suggested |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `<mspace>` | `ROLE_SECTION` | Not mapped | 倾向于视为空白组/忽略节点或 `ROLE_SECTION` | Not mapped | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<none>` | `ROLE_SECTION` | `ROLE_SECTION` | 纯结构占位符，不应暴露给 Screen Reader | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<annotation>` | `ROLE_STATIC` | Not mapped | 视文本/代码类型暴露为 `ROLE_STATIC` 或 `ROLE_SECTION` | `ROLE_STATIC`| `ROLE_STATIC`|
-| `<annotation-xml>` | `ROLE_SECTION` | Not mapped | 包裹复杂 markup，暴露为 `ROLE_SECTION` | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<maction>` | `ROLE_SECTION` | `ROLE_SECTION` | 互动/切换容器，一般作为 `ROLE_SECTION` 或逻辑分组 | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<mpadded>` | `ROLE_SECTION` | Not mapped | 仅调整排版间距，语义上为 Row/Group | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<mprescripts>` | `ROLE_SECTION` | `ROLE_SECTION` | 标记前置上下标的分隔符，建议作为结构组 | `ROLE_SECTION` | `ROLE_SECTION` |
-| `<ms>` | `ROLE_STATIC` | `ROLE_STATIC` | 字符串字面量，应作为静态文本 | `ROLE_STATIC` | `ROLE_STATIC` |
-| `<semantics>` | `ROLE_SECTION` | Not mapped | 容器节点，包裹主要公式和注解 | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<mspace>` | `ROLE_SECTION` | Not mapped | Not mapped | Not mapped | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<none>` | `ROLE_SECTION` | `ROLE_SECTION` | `ROLE_PANEL` | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<annotation>` | `ROLE_STATIC` | Not mapped | Not mapped | `ROLE_STATIC`| `ROLE_STATIC`|
+| `<annotation-xml>` | `ROLE_SECTION` | Not mapped | Not mapped | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<maction>` | `ROLE_SECTION` | `ROLE_SECTION` | `ROLE_PANEL` | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<mpadded>` | `ROLE_SECTION` | Not mapped | `ROLE_PANEL` | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<mprescripts>` | `ROLE_SECTION` | `ROLE_SECTION` | `ROLE_PANEL` | `ROLE_SECTION` | `ROLE_SECTION` |
+| `<ms>` | `ROLE_STATIC` | `ROLE_STATIC` | `ROLE_STATIC` | `ROLE_STATIC` | `ROLE_STATIC` |
+| `<semantics>` | `ROLE_SECTION` | Not mapped | `ROLE_PANEL` | `ROLE_SECTION` | `ROLE_SECTION` |
 
 
 sed -i 's/[ \t]*$//' $(git diff --name-only --staged)
