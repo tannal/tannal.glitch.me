@@ -260,13 +260,13 @@ Summaried two tables for the missing mappings of MathML-aam [4]
 
 Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [5]
 
-Create a chrome status feature for support Origin.from for SVG A element [6]
+Created a chrome status feature for support Origin.from for SVG A element [6]
 
 Continue to working on WPT for CSP style policy checking, WPT for attributeStyleMap for SVG elements and WPT for sanitizer API handling of MathMLAnchorElement
 
 Next:
 
-Improve the servo fuzzing process see if it can find more bugs with coverage based fuzzing and other technique
+Improve the servo fuzzing process see if it can find more bugs with coverage based fuzzing and other techniques
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
