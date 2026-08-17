@@ -198,8 +198,6 @@ Links:
 
 EARLYOOM_ARGS="-m 5 -s 10 --prefer '(clang|lld|ninja|content_shell)' --avoid '^(code|chrome|gnome-shell)$'"
 
-
-
 ./third_party/blink/tools/run_web_tests.py -t Default $(git show --pretty="" --name-only HEAD | grep 'mathml-a-tag.*\.html$')
 
 WTFReportBacktrace();
