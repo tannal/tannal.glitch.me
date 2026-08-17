@@ -1,6 +1,402 @@
 
 # 2026-08-13
 
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+NSAccessibilityRole | Apple Developer Documentation
+https://developer.apple.com/documentation/appkit/nsaccessibility-swift.struct/role?language=objc
+
+Referrer Policy
+https://w3c.github.io/webappsec-referrer-policy/#default-referrer-policy
+
+Igalia Chat [1] | developers
+https://chat.igalia.com/#/room/#developers:mozilla.org
+
+waitForNewWindow (browser_bug676619.js - mozsearch)
+https://searchfox.org/firefox-main/rev/e84b2ed2b827f033a5933ec9e0892a0ac4db0ea1/browser/base/content/test/general/browser_bug676619.js
+
+Deprecate <none> element in Core · Issue #173 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/173#issuecomment-1329226279
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+[Sanitizer] Add mathml a element and its attributes to the default config (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070/3
+
+Support `rel` and `relList` IDL attributes for MathMLAnchorElement (8220070) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070?checksRunsSelected=linux-rel,mac-rel&tab=checks
+
+chromium | buildbucket/cr-buildbucket/8673842941565600065/+/u/compile__with_patch_/raw_io.output_text_failure_summary_ | LogDog
+https://logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8673842941565600065/+/u/compile__with_patch_/raw_io.output_text_failure_summary_
+
+[mathml] Cleanup related to HasTagName(const MathMLQualifiedName&) (3064202) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3064202
+
+1451823 - Support ping, rel, referrerPolicy, relList, hreflang, type and text properties on SVG <a> elements
+https://bugzilla.mozilla.org/show_bug.cgi?id=1451823
+
+mozilla-central: changeset 413366:a1d4a3e6c77a29e7e63d5e88f5b4859b113df943
+https://hg-edge.mozilla.org/mozilla-central/rev/a1d4a3e6c77a
+
+Time tracking (week of Aug 10, 2026)
+https://hours.igalia.com/time/week/2026-08-16
+
+⚙ D315266 Bug 2059312 - Part 2: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+⚙ D317723 Bug 2059312 - Part 3: Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw
+https://phabricator.services.mozilla.com/D317723
+
+仪表盘 - Sub2API
+https://dragoncode.codes/dashboard
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+⚙ D317723 Bug 2059312 - Part 3: Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw
+https://phabricator.services.mozilla.com/D317723?id=1348023#inline-1707654
+
+⚙ D317723 Bug 2059312 - Part 3: Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw
+https://phabricator.services.mozilla.com/D317723
+
+Bug List
+https://bugzilla.mozilla.org/buglist.cgi?keywords=leave-open&resolution=---&list_id=18079125
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+web-platform-tests dashboard
+https://wpt.fyi/results/navigation-api/ordering-and-transition/anchor-download-intercept.html%3Fcurrententrychange?label=master&label=experimental&aligned&q=anchor-download-intercept.html
+
+wpt/navigation-api/ordering-and-transition/anchor-download-aborts-previous-navigation.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/navigation-api/ordering-and-transition/anchor-download-aborts-previous-navigation.html
+
+…/download_browsertest.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459/9/content/browser/download/download_browsertest.cc
+
+…/a-keydown-enter.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253691/1/third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/a-keydown-enter.html#5
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#grammardef-hash-source
+
+Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141/1
+
+Coverage for chromium/src - //third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=51c6984b96109d1ec9d7d3815161c3ed5c6c42bc&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#98
+
+…/csp-test-helper.js · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776/1/third_party/blink/web_tests/external/wpt/mathml/support/csp-test-helper.js#10
+
+2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://bugzilla.mozilla.org/show_bug.cgi?id=2062929
+
+⚙ D317723 Bug 2059312 - Part 3: Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw
+https://phabricator.services.mozilla.com/D317723#11026461
+
+…/a-rel-getter-setter.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220070/3/third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/a-rel-getter-setter.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+214690 – Add support for SVGAElement's rel / relList attributes
+https://bugs.webkit.org/show_bug.cgi?id=214690
+
+bugs.webkit.org/attachment.cgi?id=405052&action=review
+https://bugs.webkit.org/attachment.cgi?id=405052&action=review
+
+Add support for @href attribute in MathML · WebKit/WebKit@f2ae2fc
+https://github.com/WebKit/WebKit/commit/f2ae2fc69823e3ec2316724f7155112ee6acc066#diff-90afd841d28fd9a1a3f03b8f1d21e9f3abdd9c8c10e2ce19c8f2171656291b13
+
+Tinymist Zed Support for Typst – Tinymist Docs
+https://myriad-dreamin.github.io/tinymist/frontend/zed.html
+
+september 2026 abbreviation - Google 搜索
+https://www.google.com/search?q=september+2026+abbveration&sca_esv=31c66b6b4f1be0ab&sxsrf=APpeQnv6QqPX2C-lRD-pz3_DP34vA0aijA%3A1786506536385&ei=KO17as73FsyD0PEP6cHjgAc&biw=1850&bih=932&ved=0ahUKEwjOq_W7l5qWAxXMATQIHengGHAQ4dUDCBA&uact=5&oq=september+2026+abbveration&gs_lp=Egxnd3Mtd2l6LXNlcnAiGnNlcHRlbWJlciAyMDI2IGFiYnZlcmF0aW9uMgUQIRigATIFECEYoAFI2BhQkgFYoBdwAngBkAEBmAH0B6AB-h-qAQsyLTguMS4yLjctMbgBA8gBAPgBAZgCDaACyhjCAgoQABhHGNYEGLADwgIIEAAYgAQYywHCAgQQABgewgIGEAAYBRgewgIGEAAYCBgewgIFEAAY7wXCAggQABiABBiiBJgDAIgGAZAGCZIHCTIuMC44LjEuMqAHuR2yBwcyLTguMS4yuAfCGMIHBTEuNS43yAcpgAgB&sclient=gws-wiz-serp
+
+Location - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Location
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#unsafe-hashes-usage
+
+Fetch Standard
+https://fetch.spec.whatwg.org/#concept-request-initiator
+
+Text Office Hours Agenda - Google 文档
+https://docs.google.com/document/d/1AyWvB5LIWVCzMQMWXfhMFX7RNh5jWebvZiVMModbMiU/edit?tab=t.v423ryj3emo0#heading=h.gsd3qibwjgrp
+
+docs: explain parley engine shaping pipeline by Soundcreates · Pull Request #739 · linebender/parley
+https://github.com/linebender/parley/pull/739/changes
+
+Create safe realm wrappers by sagudev · Pull Request #650 · servo/mozjs
+https://github.com/servo/mozjs/pull/650/changes#diff-b4e4a303049a9eb891c272a6d15bed0a2224d409cd00deeb0ab410eb26081a71
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-16&user=344
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Chromium Docs - Chrome LSC Workflow
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/process/lsc/lsc_workflow.md
+
+[mathml] Add the `ping` attribute of the mathml a element (8084280) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8084280
+
+Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141/1?tab=checks
+
+Coverage for chromium/src - //third_party/blink/renderer/core/mathml/mathml_anchor_element.cc
+https://analysis.chromium.org/coverage/p/chromium/file?host=chromium.googlesource.com&project=chromium/src&ref=refs/heads/main&revision=51c6984b96109d1ec9d7d3815161c3ed5c6c42bc&path=//third_party/blink/renderer/core/mathml/mathml_anchor_element.cc&platform=linux&test_suite_type=any&modifier_id=0#98
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Week-11
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/interaction.html#activation
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+[Sanitizer] Implement Builtins (like the default config(s)). (5993856) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/5993856
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[OriginAPI] Implement `Origin.from()`. (7002661) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7002661
+
+The Origin API
+https://mikewest.github.io/origin-api/#intro
+
+Parser motivation · Issue #8 · mikewest/origin-api
+https://github.com/mikewest/origin-api/issues/8
+
+Support creating an Origin object from SVG A element - Chrome Platform Status
+https://chromestatus.com/feature/5110279095582720
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+• Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-0d8511365d14a3b25f01befb51ef851cf4ef725e3270a8f91ca7c60cf8b7a846
+
+GraphiteEditor/Graphite: Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+https://github.com/GraphiteEditor/Graphite/
+
+Chrome Platform Status
+https://chromestatus.com/myfeatures/editable
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+The Origin API
+https://mikewest.github.io/origin-api/#extraction-Origin
+
+Issues · mikewest/origin-api
+https://github.com/mikewest/origin-api/issues/
+
+mikewest chromium review - Google 搜索
+https://www.google.com/search?q=mikewest+chromium+review&oq=mikewest+chromium+review&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIJCAQQIRgKGKABMgkIBRAhGAoYoAEyBwgGECEYjwLSAQg2NzQyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128
+
+Document the `Origin` API. · Issue #767 · mdn/mdn
+https://github.com/mdn/mdn/issues/767
+
+An `Origin` Object · Issue #538 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/538
+
+An `Origin` Object · Issue #1280 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1280
+
+MathML Core
+https://w3c.github.io/mathml-core/#space-mspace
+
+tannal/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/tannal/wpt/tree/master
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/attribute?label=pr_head&max-count=1&pr=61018
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-annotation
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+[mathml] Remove <none/> element (4061458) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/4061458
+
+SVG Accessibility API Mappings
+https://w3c.github.io/aria/svg-aam/#role-map-rect
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/aria/core-aam/#role-map-generic
+
+semantic meaning - Google 搜索
+https://www.google.com/search?q=semantic+meaning&sca_esv=3d787e1cd9d6f8f7&sxsrf=APpeQntXvEXOyfzBQ4n7fAFR4Pf0tT5OOQ%3A1786692319195&ei=38J-avfGC-3smLQP06my4AQ&biw=1850&bih=932&oq=semant&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnNlbWFudCoCCAUyBBAjGCcyBBAjGCcyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQLhiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUjEL1CyBVifDnABeAGQAQCYAeMBoAGaBaoBAzItM7gBA8gBAPgBAZgCBaACqkLCAgoQABhHGNYEGLADwgIOEAAY5AIY1gQYsAPYAQHCAhcQLhjcBhi4BhjaBhjYAhjIAxiwA9gBAcICFxAuGIAEGMsBGJcFGNwEGN4EGOAE2AEBmAMAiAYBkAYRugYGCAEQARgJkgcJMS4wLjIuOS0yoAfwFrIHAzItMrgHzAPCBwcwLjIuMS4yyAcfgAgB&sclient=gws-wiz-serp
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mprescripts
+
+MathML Core
+https://w3c.github.io/mathml-core/
+
+ax.dev
+https://ax.dev/docs/1.0.0/tutorials/getting_started/
+
+orca/src/orca/ax_utilities_math.py at main · GNOME/orca
+https://github.com/GNOME/orca/blob/main/src/orca/ax_utilities_math.py
+
+owner:fwang@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:fwang@igalia.com
+
+…/csp-test-helper.js · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776/3/third_party/blink/web_tests/external/wpt/mathml/support/csp-test-helper.js#34
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/interaction.html#activation
+
+Content-Security-Policy: style-src directive - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy/style-src
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#should-block-inline
+
+22382 – Middle click fires onclick event. Fire auxclick instead?
+https://bugs.webkit.org/show_bug.cgi?id=22382
+
+a11y documentation mac - Google 搜索
+https://www.google.com/search?q=a11y+documentation+mac&sca_esv=113f45d49e2c0707&biw=1850&bih=932&sxsrf=APpeQnsp48tDfT2e1s-dzsv0BgxVuSstLA%3A1786787974551&ei=hjiAaracIbfi0PEP8Jf6cA&ved=0ahUKEwi294v0r6KWAxU3MTQIHfCLHg4Q4dUDCBA&uact=5&oq=a11y+documentation+mac&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmExMXkgZG9jdW1lbnRhdGlvbiBtYWMyChAhGAoYoAEYwwQyChAhGAoYoAEYwwQyChAhGAoYoAEYwwRIgzxQ4CFYwDpwA3gBkAEBmAHZA6ABxxuqAQgyLTEzLjAuMbgBA8gBAPgBAZgCBaAC6wPCAgoQABhHGNYEGLADwgIIECEYoAEYwwSYAwCIBgGQBgqSBwUzLjAuMqAHpR-yBwMyLTK4B9gDwgcFMC4yLjPIBxGACAE&sclient=gws-wiz-serp
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#directive-fallback-list
+
+Content Security Policy Level 3
+https://w3c.github.io/webappsec-csp/#directive-fallback-list
+
+voiceover is open source or not - Google 搜索
+https://www.google.com/search?q=voiceover+is+open+source+or+not&oq=voiceover+is+open+source+or+not&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORigATIHCAEQIRigATIHCAIQIRiPAtIBCDcxMzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+nvda/source/oleacc.py at 4c2ce75b592fa78e0ddf786d31fa492202f31ff5 · nvaccess/nvda
+https://github.com/nvaccess/nvda/blob/4c2ce75b592fa78e0ddf786d31fa492202f31ff5/source/oleacc.py#L65
+
+orca/src/orca/ax_utilities_table.py at 8f8aecd64779b9896534f3aa6bdf98138ed6a93c · GNOME/orca
+https://github.com/GNOME/orca/blob/8f8aecd64779b9896534f3aa6bdf98138ed6a93c/src/orca/ax_utilities_table.py#L51
+
+Introduce MathMLAnchorElement interface by lukewarlow · Pull Request #326 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/326
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://bugzilla.mozilla.org/show_bug.cgi?id=2062929
+
+Sheriffing/How To/Beta simulations - MozillaWiki
+https://wiki.mozilla.org/Sheriffing/How_To/Beta_simulations#TRUNK_AS_EARLY_BETA
+
+100% - [27] try: staging release: 155.0b1
+https://treeherder.mozilla.org/jobs?repo=try&selectedTaskRun=OvWjHuJbTpKN5VRX-BlUEQ.0&resultStatus=testfailed%2Cbusted%2Cexception%2Crunnable&revision=adfb855cd1aaea1c519880e69f913a9e7d9eb826&searchStr=wpt
+
+FSCloud
+https://web.fscloud.cc/#/dashboard
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mstyle
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+2059312 - Implement new MathMLAnchorElement interface
+https://bugzilla.mozilla.org/show_bug.cgi?id=2059312
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+technique 中文 - Google 搜索
+https://www.google.com/search?q=technique+%E4%B8%AD%E6%96%87&oq=techique&gs_lcrp=EgZjaHJvbWUqCwgCEAAYChgLGIAEMgYIABBFGDkyCwgBEAAYChgLGIAEMgsIAhAAGAoYCxiABDILCAMQABgKGAsYgAQyCwgEEAAYChgLGIAEMgsIBRAAGAoYCxiABDILCAYQABgKGAsYgAQyCwgHEAAYChgLGIAEMgsICBAAGAoYCxiABDILCAkQABgKGAsYgATSAQkzMDk0OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141/1?tab=checks
+
+Sorted methods and switch cases in ax_role_properties in alphabetical order and added const to method arguments (1208450) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/1208450
+
+Sorted methods and switch cases in ax_role_properties in alphabetical order and added const to method arguments (1208450) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/1208450
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mrow
+
+
+# 2026-08-13
+
 2026-08-11起 - Google Gemini
 https://gemini.google.com/app/84958763323cf2e4
 
