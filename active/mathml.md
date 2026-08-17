@@ -1,5 +1,767 @@
 
 
+commit b63faceae00c3c0f1a1f183e63cb1be8a2da80e2
+Author: tannal <mtan@igalia.com>
+Date:   Mon Jul 27 13:13:27 2026 +0800
+
+    Implement MathMLAnchorElement Web IDL support.
+    
+    This align the MathMLAnchorElement with the HTMLAnchorElement and SVGAElement.
+    
+    Extracted common attributes handling code to a new class `AnchorElementUtils`.
+
+diff --git a/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation-expected.txt b/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation-expected.txt
+new file mode 100644
+index 000000000000..a7ff0da3d50b
+--- /dev/null
++++ b/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation-expected.txt
+@@ -0,0 +1,6 @@
++Click Me
++
++Harness Error (TIMEOUT), message = null
++
++TIMEOUT Test MathMLAnchorElement _blank navigation via BroadcastChannel Test timed out
++
+diff --git a/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation.html b/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation.html
+new file mode 100644
+index 000000000000..a0e87df13e4e
+--- /dev/null
++++ b/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/href-navigation.html
+@@ -0,0 +1,24 @@
++<!DOCTYPE html>
++<meta charset="utf-8">
++<title>MathMLAnchorElement href target navigation test</title>
++<script src="/resources/testharness.js"></script>
++<script src="/resources/testharnessreport.js"></script>
++<body>
++<math>
++    <a href="support/target.html?success" target="_blank">
++        <mtext>Click Me</mtext>
++    </a>
++</math>
++<script>
++promise_test(async t => {
++  const channel = new BroadcastChannel('mathml_nav_test');
++  const messageReceived = new Promise(resolve => { channel.onmessage = e => resolve(e) });
++  const a = document.querySelector('a')
++  a.dispatchEvent(new MouseEvent('click', {bubbles: true, cancelable: true}));
++  const message = await messageReceived;
++  channel.close();
++  const expected = new URL("support/target.html?success", window.location.href).href;
++  assert_equals(event.data, expected, "The new window should report the correct URL");
++}, "Test MathMLAnchorElement _blank navigation via BroadcastChannel");
++</script>
++</body>
+\ No newline at end of file
+diff --git a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml b/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
+index e068f0893e15..eb416702ca22 100644
+--- a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
++++ b/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
+@@ -5369,6 +5369,20 @@ MathFontFamily:
+     WebCore:
+       default: '""_str'
+ 
++MathMLAnchorElementEnabled:
++  type: bool
++  defaultValue:
++    WebKitLegacy:
++      default: false
++    WebKit:
++      default: false
++    WebCore:
++      default: false
++  status: internal
++  category: dom
++  humanReadableName: "MathML <a> element"
++  humanReadableDescription: "Enable support for the MathML <a> element and href attribute."
++
+ MathMLDisableHrefOnNonAnchorElement:
+   type: bool
+   status: testable
+diff --git a/Source/WebCore/CMakeLists.txt b/Source/WebCore/CMakeLists.txt
+index 02a0c65af34f..b17fe88c9584 100644
+--- a/Source/WebCore/CMakeLists.txt
++++ b/Source/WebCore/CMakeLists.txt
+@@ -1399,6 +1399,7 @@ set(WebCore_NON_SVG_IDL_FILES
+     loader/COEPInheritenceViolationReportBody.idl
+     loader/CORPViolationReportBody.idl
+ 
++    mathml/MathMLAnchorElement.idl
+     mathml/MathMLElement.idl
+     mathml/MathMLMathElement.idl
+ 
+diff --git a/Source/WebCore/Headers.cmake b/Source/WebCore/Headers.cmake
+index f6d8e0a092d9..71738c666f85 100644
+--- a/Source/WebCore/Headers.cmake
++++ b/Source/WebCore/Headers.cmake
+@@ -1538,6 +1538,7 @@ set(WebCore_PRIVATE_FRAMEWORK_HEADERS
+     history/ProcessSwapDisposition.h
+ 
+     html/Allowlist.h
++    html/AnchorElementUtils.h
+     html/AttachmentAssociatedElement.h
+     html/Autocapitalize.h
+     html/AutocapitalizeTypes.h
+diff --git a/Source/WebCore/Sources.txt b/Source/WebCore/Sources.txt
+index 1c429a8b7ace..980a96a30a2b 100644
+--- a/Source/WebCore/Sources.txt
++++ b/Source/WebCore/Sources.txt
+@@ -1567,6 +1567,7 @@ history/BackForwardController.cpp
+ history/CachedFrame.cpp @header:RenderStyleGetters
+ history/CachedPage.cpp
+ history/HistoryItem.cpp
++html/AnchorElementUtils.cpp
+ html/AttachmentAssociatedElement.cpp
+ html/Autocapitalize.cpp
+ html/Autofill.cpp
+@@ -2172,6 +2173,7 @@ loader/cache/KeepaliveRequestTracker.cpp
+ loader/cache/MemoryCache.cpp
+ loader/cache/TrustedFonts.cpp
+ loader/icon/IconLoader.cpp
++mathml/MathMLAnchorElement.cpp @header:RenderStyleGetters
+ mathml/MathMLAnnotationElement.cpp @header:RenderStyleGetters
+ mathml/MathMLElement.cpp @header:RenderStyleGetters
+ mathml/MathMLFractionElement.cpp @header:RenderStyleGetters
+diff --git a/Source/WebCore/bindings/js/WebCoreBuiltinNames.h b/Source/WebCore/bindings/js/WebCoreBuiltinNames.h
+index b0b38968d9cf..598fd9a5fa5e 100644
+--- a/Source/WebCore/bindings/js/WebCoreBuiltinNames.h
++++ b/Source/WebCore/bindings/js/WebCoreBuiltinNames.h
+@@ -305,6 +305,7 @@ namespace WebCore {
+     macro(LockManager) \
+     macro(ManagedMediaSource) \
+     macro(ManagedSourceBuffer) \
++    macro(MathMLAnchorElement) \
+     macro(MathMLElement) \
+     macro(MathMLMathElement) \
+     macro(MediaCapabilities) \
+diff --git a/Source/WebCore/dom/KeyboardEvent.cpp b/Source/WebCore/dom/KeyboardEvent.cpp
+index 5ec3994eb2df..e9c5ace66121 100644
+--- a/Source/WebCore/dom/KeyboardEvent.cpp
++++ b/Source/WebCore/dom/KeyboardEvent.cpp
+@@ -74,6 +74,14 @@ static inline int NODELETE windowsVirtualKeyCodeWithoutLocation(int keycode)
+     }
+ }
+ 
++bool KeyboardEvent::isEnterKeyKeydownEvent(Event& event)
++{
++    if (event.type() != eventNames().keydownEvent)
++        return false;
++    auto* keyboardEvent = dynamicDowncast<KeyboardEvent>(event);
++    return keyboardEvent && keyboardEvent->keyIdentifier() == "Enter"_s;
++}
++
+ static inline KeyboardEvent::KeyLocationCode NODELETE keyLocationCode(const PlatformKeyboardEvent& key)
+ {
+     if (key.isKeypad())
+diff --git a/Source/WebCore/dom/KeyboardEvent.h b/Source/WebCore/dom/KeyboardEvent.h
+index 3a9771c024ba..bbcc0dacb810 100644
+--- a/Source/WebCore/dom/KeyboardEvent.h
++++ b/Source/WebCore/dom/KeyboardEvent.h
+@@ -73,6 +73,8 @@ public:
+     WEBCORE_EXPORT void initKeyboardEvent(const AtomString& type, bool canBubble, bool cancelable, RefPtr<WindowProxy>&&,
+         const AtomString& keyIdentifier, unsigned location,
+         bool ctrlKey, bool altKey, bool shiftKey, bool metaKey);
++
++    static bool isEnterKeyKeydownEvent(Event& event);
+     
+     const String& key() const LIFETIME_BOUND { return m_key; }
+     const String& code() const LIFETIME_BOUND { return m_code; }
+diff --git a/Source/WebCore/html/AnchorElementUtils.cpp b/Source/WebCore/html/AnchorElementUtils.cpp
+new file mode 100644
+index 000000000000..b74ab4c0fa04
+--- /dev/null
++++ b/Source/WebCore/html/AnchorElementUtils.cpp
+@@ -0,0 +1,161 @@
++/*
++ * Copyright (C) 2026 Igalia S.L. All rights reserved.
++ *
++ * Redistribution and use in source and binary forms, with or without
++ * modification, are permitted provided that the following conditions
++ * are met:
++ * 1. Redistributions of source code must reproduce the above copyright
++ *    notice, this list of conditions and the following conditions
++ *    the following disclaimer.
++ * 2. Redistributions in binary form must reproduce the above copyright
++ *    notice, this list of conditions and the following conditions and the
++ *    following disclaimer in the documentation and/or other materials
++ *    provided with the distribution.
++ *
++ * THIS SOFTWARE IS PROVIDED BY APPLE INC. AND ITS CONTRIBUTORS ``AS IS''
++ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
++ * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
++ * PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE INC. OR ITS CONTRIBUTORS
++ * BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
++ * CONSEQUENTIAL DAMAGES SUBSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
++ * TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
++ * PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
++ * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
++ * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF LIABILITY, WHETHER
++ * IN OUT OF THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
++ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
++ * ASSOCIATED WITH THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
++ * POSSIBILITY OF SUCH DAMAGE.
++ */
++
++#include "config.h"
++#include "AnchorElementUtils.h"
++
++#include "Document.h"
++#include "Event.h"
++#include "FrameLoader.h"
++#include "LocalFrame.h"
++#include "FrameDestructionObserverInlines.h"
++#include "NodeInlines.h"
++#include "PingLoader.h"
++#include "ResourceResponse.h"
++#include "SecurityOrigin.h"
++#include "Settings.h"
++#include "SpaceSplitString.h"
++#include "OriginAccessPatterns.h"
++
++#include <JavaScriptCore/ConsoleTypes.h>
++
++namespace WebCore {
++
++OptionSet<Relation> AnchorElementUtils::relationsForRelAttribute(const AtomString& relValue)
++{
++    // Update AnchorElementUtils::isSupportedRelToken() if more rel attributes values are supported.
++    static MainThreadNeverDestroyed<const AtomString> noReferrer("noreferrer"_s);
++    static MainThreadNeverDestroyed<const AtomString> noOpener("noopener"_s);
++    static MainThreadNeverDestroyed<const AtomString> opener("opener"_s);
++
++    OptionSet<Relation> relations;
++    SpaceSplitString values(relValue, SpaceSplitString::ShouldFoldCase::Yes);
++    if (values.contains(noReferrer))
++        relations.add(Relation::NoReferrer);
++    if (values.contains(noOpener))
++        relations.add(Relation::NoOpener);
++    if (values.contains(opener))
++        relations.add(Relation::Opener);
++    return relations;
++}
++
++bool AnchorElementUtils::isSupportedRelToken(Document& document, StringView token)
++{
++#if USE(SYSTEM_PREVIEW)
++    if (equalLettersIgnoringASCIICase(token, "ar"_s))
++        return document.settings().systemPreviewEnabled();
++#else
++    UNUSED_PARAM(document);
++#endif
++    return equalLettersIgnoringASCIICase(token, "noreferrer"_s)
++        || equalLettersIgnoringASCIICase(token, "noopener"_s)
++        || equalLettersIgnoringASCIICase(token, "opener"_s);
++}
++
++bool AnchorElementUtils::hasRel(OptionSet<Relation> linkRelations, Relation relation)
++{
++    return linkRelations.contains(relation);
++}
++
++AtomString AnchorElementUtils::parseDownloadAttribute(const Element& element, const URL& completedURL, const QualifiedName& downloadAttr)
++{
++    Ref document = element.document();
++    if (!document->settings().downloadAttributeEnabled())
++        return nullAtom();
++
++    bool isSameOrigin = completedURL.protocolIsData() || protect(document->securityOrigin())->canRequest(completedURL, OriginAccessPatternsForWebProcess::singleton());
++    if (isSameOrigin)
++        return AtomString { ResourceResponse::sanitizeSuggestedFilename(element.attributeWithoutSynchronization(downloadAttr)) };
++
++    if (element.hasAttributeWithoutSynchronization(downloadAttr))
++        document->addConsoleMessage(MessageSource::Security, MessageLevel::Warning, "The download attribute on anchor was ignored because its href URL has a different security origin."_s);
++
++    return nullAtom();
++}
++
++void AnchorElementUtils::sendPings(const Element& element, const QualifiedName& pingAttr, const URL& destinationURL)
++{
++    const auto& pingValue = element.attributeWithoutSynchronization(pingAttr);
++    if (pingValue.isNull())
++        return;
++
++    Ref document = element.document();
++    RefPtr frame = document->frame();
++    if (!frame)
++        return;
++
++    SpaceSplitString pingURLs(pingValue, SpaceSplitString::ShouldFoldCase::No);
++    for (auto& pingURL : pingURLs)
++        PingLoader::sendPing(*frame, document->encodingParseURL(pingURL), destinationURL);
++}
++
++ReferrerPolicy AnchorElementUtils::effectiveReferrerPolicy(OptionSet<Relation> relations, ReferrerPolicy explicitPolicy)
++{
++    if (relations.contains(Relation::NoReferrer))
++        return ReferrerPolicy::NoReferrer;
++    return explicitPolicy;
++}
++
++void AnchorElementUtils::navigateHyperlink(
++    Element& sourceElement,
++    Event& event,
++    const URL& completedURL,
++    const AtomString& target,
++    OptionSet<Relation> relations,
++    ReferrerPolicy referrerPolicy,
++    const AtomString& downloadAttribute,
++    std::optional<PrivateClickMeasurement>&& privateClickMeasurement)
++{
++    Ref document = sourceElement.document();
++    RefPtr frame = document->frame();
++    if (!frame)
++        return;
++
++    NewFrameOpenerPolicy newFrameOpenerPolicy = NewFrameOpenerPolicy::Allow;
++    if (relations.contains(Relation::NoOpener)
++        || relations.contains(Relation::NoReferrer)
++        || (!relations.contains(Relation::Opener) && isBlankTargetFrameName(target) && !completedURL.protocolIsJavaScript())) {
++        newFrameOpenerPolicy = NewFrameOpenerPolicy::Suppress;
++    }
++
++    frame->loader().changeLocation(
++        completedURL,
++        target,
++        &event,
++        referrerPolicy,
++        document->shouldOpenExternalURLsPolicyToPropagate(),
++        newFrameOpenerPolicy,
++        downloadAttribute,
++        WTF::move(privateClickMeasurement),
++        NavigationHistoryBehavior::Auto,
++        &sourceElement);
++}
++
++} // namespace WebCore
+\ No newline at end of file
+diff --git a/Source/WebCore/html/AnchorElementUtils.h b/Source/WebCore/html/AnchorElementUtils.h
+new file mode 100644
+index 000000000000..dec3e299ead6
+--- /dev/null
++++ b/Source/WebCore/html/AnchorElementUtils.h
+@@ -0,0 +1,87 @@
++/*
++ * Copyright (C) 2026 Igalia S.L. All rights reserved.
++ *
++ * Redistribution and use in source and binary forms, with or without
++ * modification, are permitted provided that the following conditions
++ * are met:
++ * 1. Redistributions of source code must reproduce the above copyright
++ *    notice, this list of conditions and the following conditions
++ *    the following disclaimer.
++ * 2. Redistributions in binary form must reproduce the above copyright
++ *    notice, this list of conditions and the following conditions and the
++ *    following disclaimer in the documentation and/or other materials
++ *    provided with the distribution.
++ *
++ * THIS SOFTWARE IS PROVIDED BY APPLE INC. AND ITS CONTRIBUTORS ``AS IS''
++ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
++ * THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
++ * PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL APPLE INC. OR ITS CONTRIBUTORS
++ * BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
++ * CONSEQUENTIAL DAMAGES SUBSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
++ * TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
++ * PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
++ * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
++ * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF LIABILITY, WHETHER
++ * IN OUT OF THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
++ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
++ * ASSOCIATED WITH THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
++ * POSSIBILITY OF SUCH DAMAGE.
++ */
++
++#pragma once
++
++#include "PrivateClickMeasurement.h"
++#include "ReferrerPolicy.h"
++#include "QualifiedName.h"
++#include <wtf/OptionSet.h>
++#include <wtf/URL.h>
++#include <wtf/text/AtomString.h>
++#include <wtf/text/WTFString.h>
++
++namespace WebCore {
++
++class Document;
++class Element;
++class Event;
++
++// Link relation bitmask values.
++enum class Relation : uint8_t {
++    NoReferrer = 1 << 0,
++    NoOpener = 1 << 1,
++    Opener = 1 << 2,
++};
++
++// This class might migrate to what currently called `URLDecomposition`.
++// Since the goal of the recent HTML/SVG/MathML hyperlink elements alignment work is to move
++// most of the hyper links attributes (download, ping, rel, relList, referrerpolicy etc)
++// to new `HyperlinkElementUtils` which is implemented by `URLDecomposition` in WebKit.
++class AnchorElementUtils {
++    WTF_MAKE_NONCOPYABLE(AnchorElementUtils);
++
++public:
++    AnchorElementUtils() = delete;
++
++    static OptionSet<Relation> relationsForRelAttribute(const AtomString& relValue);
++    static bool isSupportedRelToken(Document&, StringView token);
++    static bool hasRel(OptionSet<Relation> linkRelations, Relation relation);
++
++    static AtomString effectiveTargetForHyperlinkElement(const Document&, const AtomString& explicitTarget);
++
++    static AtomString parseDownloadAttribute(const Element&, const URL& completedURL, const QualifiedName& downloadAttr);
++
++    static void sendPings(const Element&, const QualifiedName& pingAttr, const URL& destinationURL);
++
++    static ReferrerPolicy effectiveReferrerPolicy(OptionSet<Relation>, ReferrerPolicy explicitPolicy);
++
++    static void navigateHyperlink(
++        Element& sourceElement,
++        Event&,
++        const URL& completedURL,
++        const AtomString& target,
++        OptionSet<Relation> relations,
++        ReferrerPolicy,
++        const AtomString& downloadAttribute = {},
++        std::optional<PrivateClickMeasurement>&& = std::nullopt);
++};
++
++} // namespace WebCore
+\ No newline at end of file
+diff --git a/Source/WebCore/html/HTMLAnchorElement.cpp b/Source/WebCore/html/HTMLAnchorElement.cpp
+index e5289a52a1a6..41da9b888fd2 100644
+--- a/Source/WebCore/html/HTMLAnchorElement.cpp
++++ b/Source/WebCore/html/HTMLAnchorElement.cpp
+@@ -25,6 +25,7 @@
+ #include "config.h"
+ #include "HTMLAnchorElement.h"
+ 
++#include "AnchorElementUtils.h"
+ #include "Chrome.h"
+ #include "ChromeClient.h"
+ #include "ContainerNodeInlines.h"
+@@ -180,7 +181,7 @@ void HTMLAnchorElement::defaultEventHandler(Event& event)
+     }
+ 
+     if (isLink()) {
+-        if (focused() && isEnterKeyKeydownEvent(event) && treatLinkAsLiveForEventType(NonMouseEvent)) {
++        if (focused() && KeyboardEvent::isEnterKeyKeydownEvent(event) && treatLinkAsLiveForEventType(NonMouseEvent)) {
+             event.setDefaultHandled();
+             dispatchSimulatedClick(&event);
+             return;
+@@ -241,18 +242,7 @@ void HTMLAnchorElement::attributeChanged(const QualifiedName& name, const AtomSt
+     if (name == hrefAttr)
+         setIsLink(!newValue.isNull() && !shouldProhibitLinks(this));
+     else if (name == relAttr) {
+-        // Update HTMLAnchorElement::relList() if more rel attributes values are supported.
+-        static MainThreadNeverDestroyed<const AtomString> noReferrer("noreferrer"_s);
+-        static MainThreadNeverDestroyed<const AtomString> noOpener("noopener"_s);
+-        static MainThreadNeverDestroyed<const AtomString> opener("opener"_s);
+-        m_linkRelations = { };
+-        SpaceSplitString relValue(newValue, SpaceSplitString::ShouldFoldCase::Yes);
+-        if (relValue.contains(noReferrer))
+-            m_linkRelations.add(Relation::NoReferrer);
+-        if (relValue.contains(noOpener))
+-            m_linkRelations.add(Relation::NoOpener);
+-        if (relValue.contains(opener))
+-            m_linkRelations.add(Relation::Opener);
++        m_linkRelations = AnchorElementUtils::relationsForRelAttribute(newValue);
+         if (m_relList)
+             m_relList->associatedAttributeValueChanged();
+     } else if (name == nameAttr)
+@@ -299,15 +289,7 @@ bool HTMLAnchorElement::hasRel(Relation relation) const
+ DOMTokenList& HTMLAnchorElement::relList()
+ {
+     if (!m_relList) {
+-        lazyInitialize(m_relList, makeUniqueWithoutRefCountedCheck<DOMTokenList>(*this, HTMLNames::relAttr, [](Document& document, StringView token) {
+-#if USE(SYSTEM_PREVIEW)
+-            if (equalLettersIgnoringASCIICase(token, "ar"_s))
+-                return document.settings().systemPreviewEnabled();
+-#else
+-            UNUSED_PARAM(document);
+-#endif
+-            return equalLettersIgnoringASCIICase(token, "noreferrer"_s) || equalLettersIgnoringASCIICase(token, "noopener"_s) || equalLettersIgnoringASCIICase(token, "opener"_s);
+-        }));
++        lazyInitialize(m_relList, makeUniqueWithoutRefCountedCheck<DOMTokenList>(*this, HTMLNames::relAttr, AnchorElementUtils::isSupportedRelToken));
+     }
+     return *m_relList;
+ }
+@@ -357,21 +339,6 @@ bool HTMLAnchorElement::isLiveLink() const
+     return isLink() && treatLinkAsLiveForEventType(m_wasShiftKeyDownOnMouseDown ? MouseEventWithShiftKey : MouseEventWithoutShiftKey);
+ }
+ 
+-void HTMLAnchorElement::sendPings(const URL& destinationURL)
+-{
+-    if (!document().frame())
+-        return;
+-
+-    const auto& pingValue = attributeWithoutSynchronization(pingAttr);
+-    if (pingValue.isNull())
+-        return;
+-
+-    Ref document = this->document();
+-    SpaceSplitString pingURLs(pingValue, SpaceSplitString::ShouldFoldCase::No);
+-    for (auto& pingURL : pingURLs)
+-        PingLoader::sendPing(*protect(document->frame()), document->encodingParseURL(pingURL), destinationURL);
+-}
+-
+ #if USE(SYSTEM_PREVIEW)
+ bool HTMLAnchorElement::isSystemPreviewLink()
+ {
+@@ -511,7 +478,7 @@ std::optional<PrivateClickMeasurement> HTMLAnchorElement::parsePrivateClickMeasu
+         protect(document())->addConsoleMessage(MessageSource::Other, MessageLevel::Warning, "attributionsourceid is not a non-negative integer which is required for Private Click Measurement."_s);
+         return std::nullopt;
+     }
+-    
++
+     if (attributionSourceID.value() > std::numeric_limits<uint8_t>::max()) {
+         protect(document())->addConsoleMessage(MessageSource::Other, MessageLevel::Warning, makeString("attributionsourceid must have a non-negative value less than or equal to "_s, std::numeric_limits<uint8_t>::max(), " for Private Click Measurement."_s));
+         return std::nullopt;
+@@ -582,15 +549,7 @@ void HTMLAnchorElement::handleClick(Event& event)
+     }
+ #endif
+ 
+-    AtomString downloadAttribute;
+-    if (document->settings().downloadAttributeEnabled()) {
+-        // Ignore the download attribute completely if the href URL is cross origin.
+-        bool isSameOrigin = completedURL.protocolIsData() || protect(document->securityOrigin())->canRequest(completedURL, OriginAccessPatternsForWebProcess::singleton());
+-        if (isSameOrigin)
+-            downloadAttribute = AtomString { ResourceResponse::sanitizeSuggestedFilename(attributeWithoutSynchronization(downloadAttr)) };
+-        else if (hasAttributeWithoutSynchronization(downloadAttr))
+-            document->addConsoleMessage(MessageSource::Security, MessageLevel::Warning, "The download attribute on anchor was ignored because its href URL has a different security origin."_s);
+-    }
++    AtomString downloadAttribute = AnchorElementUtils::parseDownloadAttribute(*this, completedURL, downloadAttr);
+ 
+     SystemPreviewInfo systemPreviewInfo;
+ #if USE(SYSTEM_PREVIEW)
+@@ -609,21 +568,18 @@ void HTMLAnchorElement::handleClick(Event& event)
+     }
+ #endif
+ 
+-    auto referrerPolicy = hasRel(Relation::NoReferrer) ? ReferrerPolicy::NoReferrer : this->referrerPolicy();
++    auto referrerPolicy = AnchorElementUtils::effectiveReferrerPolicy(m_linkRelations, this->referrerPolicy());
+ 
+     auto effectiveTarget = this->effectiveTarget();
+-    NewFrameOpenerPolicy newFrameOpenerPolicy = NewFrameOpenerPolicy::Allow;
+-    if (hasRel(Relation::NoOpener) || hasRel(Relation::NoReferrer) || (!hasRel(Relation::Opener) && isBlankTargetFrameName(effectiveTarget) && !completedURL.protocolIsJavaScript()))
+-        newFrameOpenerPolicy = NewFrameOpenerPolicy::Suppress;
+ 
+     auto privateClickMeasurement = parsePrivateClickMeasurement(completedURL);
+     // A matching triggering event needs to happen before an attribution report can be sent.
+     // Thus, URLs should be empty for now.
+     ASSERT(!privateClickMeasurement || (privateClickMeasurement->attributionReportClickSourceURL().isNull() && privateClickMeasurement->attributionReportClickDestinationURL().isNull()));
+-    
+-    frame->loader().changeLocation(completedURL, effectiveTarget, &event, referrerPolicy, document->shouldOpenExternalURLsPolicyToPropagate(), newFrameOpenerPolicy, downloadAttribute, WTF::move(privateClickMeasurement), NavigationHistoryBehavior::Auto, this);
+ 
+-    sendPings(completedURL);
++    AnchorElementUtils::navigateHyperlink(*this, event, completedURL, effectiveTarget, m_linkRelations, referrerPolicy, downloadAttribute, WTF::move(privateClickMeasurement));
++
++    AnchorElementUtils::sendPings(*this, pingAttr, completedURL);
+ 
+     // Preconnect to the link's target for improved page load time.
+     if (completedURL.protocolIsInHTTPFamily() && document->settings().linkPreconnectEnabled() && ((frame->isMainFrame() && isSelfTargetFrameName(effectiveTarget)) || isBlankTargetFrameName(effectiveTarget))) {
+@@ -674,14 +630,6 @@ bool HTMLAnchorElement::treatLinkAsLiveForEventType(EventType eventType) const
+     return false;
+ }
+ 
+-bool isEnterKeyKeydownEvent(Event& event)
+-{
+-    if (event.type() != eventNames().keydownEvent)
+-        return false;
+-    auto* keyboardEvent = dynamicDowncast<KeyboardEvent>(event);
+-    return keyboardEvent && keyboardEvent->keyIdentifier() == "Enter"_s;
+-}
+-
+ bool shouldProhibitLinks(Element* element)
+ {
+     return isInSVGImage(element);
+diff --git a/Source/WebCore/html/HTMLAnchorElement.h b/Source/WebCore/html/HTMLAnchorElement.h
+index 2896c1267e86..1d7c991ed2fc 100644
+--- a/Source/WebCore/html/HTMLAnchorElement.h
++++ b/Source/WebCore/html/HTMLAnchorElement.h
+@@ -23,6 +23,7 @@
+ 
+ #pragma once
+ 
++#include "AnchorElementUtils.h"
+ #include <WebCore/Document.h>
+ #include <WebCore/HTMLElement.h>
+ #include <WebCore/HTMLNames.h>
+@@ -37,14 +38,6 @@ namespace WebCore {
+ class DOMTokenList;
+ 
+ enum class ReferrerPolicy : uint8_t;
+-
+-// Link relation bitmask values.
+-enum class Relation : uint8_t {
+-    NoReferrer = 1 << 0,
+-    NoOpener = 1 << 1,
+-    Opener = 1 << 2,
+-};
+-
+ class HTMLAnchorElement : public HTMLElement, public URLDecomposition {
+     WTF_MAKE_TZONE_ALLOCATED(HTMLAnchorElement);
+     WTF_OVERRIDE_DELETE_FOR_CHECKED_PTR(HTMLAnchorElement);
+@@ -110,8 +103,6 @@ private:
+ 
+     AtomString effectiveTarget() const;
+ 
+-    void sendPings(const URL& destinationURL);
+-
+     std::optional<URL> attributionDestinationURLForPCM() const;
+     std::optional<RegistrableDomain> mainDocumentRegistrableDomainForPCM() const;
+     std::optional<PCM::EphemeralNonce> attributionSourceNonceForPCM() const;
+diff --git a/Source/WebCore/loader/PingLoader.cpp b/Source/WebCore/loader/PingLoader.cpp
+index dffa219b2f75..b12550b9ffb2 100644
+--- a/Source/WebCore/loader/PingLoader.cpp
++++ b/Source/WebCore/loader/PingLoader.cpp
+@@ -265,6 +265,7 @@ void PingLoader::startPingLoad(LocalFrame& frame, ResourceRequest& request, HTTP
+     }
+ 
+     CachedResourceRequest cachedResourceRequest { ResourceRequest { request }, options };
++    cachedResourceRequest.setInitiatorType("ping"_s);
+     std::ignore = protect(protect(frame.document())->cachedResourceLoader())->requestPingResource(WTF::move(cachedResourceRequest));
+ }
+ 
+diff --git a/Source/WebCore/mathml/MathMLAnchorElement.cpp b/Source/WebCore/mathml/MathMLAnchorElement.cpp
+new file mode 100644
+index 000000000000..db30ae435a5e
+--- /dev/null
++++ b/Source/WebCore/mathml/MathMLAnchorElement.cpp
+@@ -0,0 +1,150 @@
++/*
++ * Copyright (C) 2026 Igalia S.L. All rights reserved.
++ *
++ * Redistribution and use in source and binary forms, with or without
++ * modification, are permitted provided that the following conditions
++ * are met:
++ * 1. Redistributions of source code must retain the above copyright
++ *    notice, this list of conditions and the following disclaimer.
++ * 2. Redistributions in binary form must reproduce the above copyright
++ *    notice, this list of conditions and the following disclaimer in the
++ *    documentation and/or other materials provided with the distribution.
++ *
++ * THIS SOFTWARE IS PROVIDED BY APPLE INC. ``AS IS'' AND ANY
++ * EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
++ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
++ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL APPLE INC. OR
++ * CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
++ * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
++ * PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
++ * PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
++ * OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
++ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
++ * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
++ */
++
++#include "config.h"
++#include "AnchorElementUtils.h"
++
++#include "MathMLAnchorElement.h"
++
++#include "DOMTokenList.h"
++#include "ElementInlines.h"
++#include "Event.h"
++#include "EventNames.h"
++#include "MathMLNames.h"
++#include "KeyboardEvent.h"
++#include "MouseEvent.h"
++#include <wtf/TZoneMallocInlines.h>
++
++namespace WebCore {
++
++WTF_MAKE_TZONE_ALLOCATED_IMPL(MathMLAnchorElement);
++
++MathMLAnchorElement::MathMLAnchorElement(const QualifiedName& tagName, Document& document)
++    : MathMLElement(tagName, document)
++{
++    ASSERT(hasTagName(MathMLNames::aTag));
++}
++
++MathMLAnchorElement::~MathMLAnchorElement() = default;
++
++Ref<MathMLAnchorElement> MathMLAnchorElement::create(const QualifiedName& tagName, Document& document)
++{
++    return adoptRef(*new MathMLAnchorElement(tagName, document));
++}
++
++URL MathMLAnchorElement::href() const
++{
++    return protect(document())->encodingParseURL(attributeWithoutSynchronization(MathMLNames::hrefAttr));
++}
++
++URL MathMLAnchorElement::hrefURL() const
++{
++    return href();
++}
++
++AtomString MathMLAnchorElement::target() const
++{
++    return attributeWithoutSynchronization(MathMLNames::targetAttr);
++}
++
++void MathMLAnchorElement::setFullURL(const URL& fullURL)
++{
++    setAttributeWithoutSynchronization(MathMLNames::hrefAttr, AtomString { fullURL.string() });
++}
++
++void MathMLAnchorElement::defaultEventHandler(Event& event)
++{
++    if (isLink()) {
++
++        if(focused() && KeyboardEvent::isEnterKeyKeydownEvent(event)) {
++            event.setDefaultHandled();
++            dispatchSimulatedClick(&event);
++            return;
++        }
++        
++        if(MouseEvent::canTriggerActivationBehavior(event)) {
++            event.setDefaultHandled();
++            URL completedURL = hrefURL();
++    
++            AtomString downloadAttr = AnchorElementUtils::parseDownloadAttribute(*this, completedURL, MathMLNames::downloadAttr);
++            auto referrerPolicy = AnchorElementUtils::effectiveReferrerPolicy(m_linkRelations, this->referrerPolicy());
++    
++            AnchorElementUtils::sendPings(*this, MathMLNames::pingAttr, completedURL);;
++    
++            AnchorElementUtils::navigateHyperlink(
++                *this,
++                event,
++                completedURL,
++                effectiveTarget(),
++                m_linkRelations,
++                referrerPolicy,
++                downloadAttr);
++            return;
++        }
++    }
++
++    MathMLElement::defaultEventHandler(event);
++}
++
++void MathMLAnchorElement::attributeChanged(const QualifiedName& name, const AtomString& oldValue, const AtomString& newValue, AttributeModificationReason attributeModificationReason)
++{
++    MathMLElement::attributeChanged(name, oldValue, newValue, attributeModificationReason);
++
++    if (name == MathMLNames::relAttr) {
++        m_linkRelations = AnchorElementUtils::relationsForRelAttribute(newValue);
++        if (m_relList)
++            m_relList->associatedAttributeValueChanged();
++    }
++}
++
++// Falls back to using <base> element's target if the anchor does not have one.
++AtomString MathMLAnchorElement::effectiveTarget() const
++{
++    auto effectiveTarget = target();
++    if (effectiveTarget.isEmpty())
++        effectiveTarget = document().baseTarget();
++    return makeTargetBlankIfHasDanglingMarkup(effectiveTarget);
++} 
++
++ kan yikan youmeiyou dijicuowu yiji
+
+
 diff --git a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml b/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
 index 30e25f283d7d..eb416702ca22 100644
 --- a/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml

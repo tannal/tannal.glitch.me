@@ -1,6 +1,12 @@
 
 # 2026-08-15
 
+Implement MathMLAnchorElement Web IDL support.
+
+This align the MathMLAnchorElement with the HTMLAnchorElement and SVGAElement.
+
+Extracted common attributes handling code to a new class `AnchorElementUtils`.
+
 // 3.4.18 mspace -> Spec 规定 ATK "Not mapped"，但在 Gecko 里若需暴露或忽略：
 // 如果规范要求映射，通常用 SECTION 或者直接忽略；若需挂载：
 MARKUPMAP(mspace, New_HyperText, roles::SECTION)
