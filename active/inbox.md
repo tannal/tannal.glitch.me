@@ -167,19 +167,21 @@ Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement i
 
 Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
 
-Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements [3]
+Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements
 
-Wrote a WPT tests in sanitizer API for MathML a element [4]
+Wrote a WPT tests in sanitizer API for MathML a element
 
 Next:
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
+Add missing mappings for MathML-aam in firefox, and missing `AtkTable` interface in Chromium
+
+Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
 
 Implement MathMLAnchorElement idl support in Webkit
 
-Raise mathml_anchor_element code converge to at least 90%
+See if need to rasing more coverage in mathml_anchor_element in Chromium
 
 Links:
 
@@ -244,7 +246,7 @@ There is also a missing key when run the generate script, so I added it in third
 
 [Weekly report 11]
 
-Worked hours: 34h:00min
+Worked hours: 36h:45min
 
 Tasks:
 
@@ -254,6 +256,8 @@ Support all 7 attributes for MathML anchor element in Firefox [2]
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
 
+Summaried two tables for the missing mappings of MathML-aam [4]
+
 Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [5]
 
 Create a chrome status feature for support Origin.from for SVG A element [6]
@@ -262,23 +266,27 @@ Continue to working on WPT for CSP style policy checking, WPT for attributeStyle
 
 Next:
 
+Improve the servo fuzzing process see if it can find more bugs with coverage based fuzzing and other technique
+
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Fix up the mathml-aam spec, make the tests/spec works in all three engines/platforms
+Add missing mappings for MathML-aam in firefox, and missing `AtkTable` interface in Chromium
 
-Implement MathMLAnchorElement idl support in Webkit
+Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines and different platforms
 
-Raise mathml_anchor_element code converge to at least 90%
+Implement MathMLAnchorElement IDL support in Webkit
+
+See if need to raise more coverage in mathml_anchor_element in Chromium and Firefox
 
 Links:
 
 [1] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
 
-[2] https://phabricator.services.mozilla.com/D317723#11026461
+[2] https://phabricator.services.mozilla.com/D317723
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8253141
 
-[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+[4] https://github.com/w3c/mathml-aam/issues/41#issuecomment-5307135001
 
 [5] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
 
