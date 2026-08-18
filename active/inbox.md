@@ -1,5 +1,25 @@
 # 2026-08-17
 
+Tools/Scripts/git-webkit pr
+
+Upstream commit: https://github.com/web-platform-tests/wpt/commit/4eeb06f9241da36ca3543dcbd25ce67727262238
+
+Tools/Scripts/check-webkit-style
+
+Resync `mathml` from WPT Upstream
+
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+Rebase WPT tests in the mathml/ directory.
+
+Upstream commit: https://github.com/web-platform-tests/wpt/commit/4eeb06f9241da36ca3543dcbd25ce67727262238
+
+
+MathML
+
+Resource-timing
+Upstream commit: https://github.com/web-platform-tests/wpt/commit/4eeb06f9241da36ca3543dcbd25ce67727262238
+
 git show --format="" --name-only | xargs sed -i 's/[ \t]*$//'
 
 git branch --set-upstream-to=mathml-a-referrerpolicy
