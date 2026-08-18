@@ -1,5 +1,7 @@
 # 2026-08-17
 
+git show --format="" --name-only | xargs sed -i 's/[ \t]*$//'
+
 git branch --set-upstream-to=mathml-a-referrerpolicy
 
 Tools/Scripts/import-w3c-tests web-platform-tests/mathml/relations/html5-tree/
