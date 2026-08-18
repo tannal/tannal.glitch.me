@@ -6,6 +6,8 @@ git branch --set-upstream-to=mathml-a-referrerpolicy
 
 Tools/Scripts/import-w3c-tests web-platform-tests/mathml/relations/html5-tree/
 
+Tools/Scripts/import-w3c-tests web-platform-tests/mathml/
+
 # 2026-08-15
 
 
