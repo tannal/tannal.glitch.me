@@ -1,6 +1,17 @@
 
 # 2026-08-19
 
+Tools/Scripts/run-webkit-tests \
+imported/w3c/web-platform-tests/resource-timing/nested-nav-fallback-timing.html \
+imported/w3c/web-platform-tests/resource-timing/response-status-code.html
+
+Tools/Scripts/run-webkit-tests \
+  imported/w3c/web-platform-tests/resource-timing/initiator-type/picture.html \
+  imported/w3c/web-platform-tests/resource-timing/initiator-type/style.html \
+  imported/w3c/web-platform-tests/resource-timing/initiator-type/video.html
+
+python import.py 2>&1 | tee log.txt 
+
 Add role for some MathML elements 
 
 Bug 2064615 - Add role for more MathML elements r=emilio, surkov, marcoz, fredw
