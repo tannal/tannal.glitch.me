@@ -1,4 +1,394 @@
 
+# 2026-08-19
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+Igalia Chat [1] | developers
+https://chat.igalia.com/#/room/#developers:mozilla.org
+
+browser_bug676619.js - mozsearch
+https://searchfox.org/firefox-main/rev/e84b2ed2b827f033a5933ec9e0892a0ac4db0ea1/browser/base/content/test/general/browser_bug676619.js
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-b051bcabe1d09bc58160d371b1b64788da420ea0b74fb8119e2314f8d4aa35a1
+
+Buildbot
+https://ews-build.webkit.org/#/builders/159/builds/55162
+
+s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/3402935a-55162.txt
+https://s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/3402935a-55162.txt
+
+D319112- Lando - Mozilla
+https://lando.moz.tools/D319112/
+
+Release Management/Requesting an Uplift - MozillaWiki
+https://wiki.mozilla.org/Release_Management/Requesting_an_Uplift
+
+Becoming A Mozilla Committer — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/
+
+Mozilla Commit Access Policy — Mozilla
+https://www.mozilla.org/en-US/about/governance/policies/commit/access-policy/
+
+Release Management/Requesting an Uplift - MozillaWiki
+https://wiki.mozilla.org/Release_Management/Requesting_an_Uplift
+
+Conduit API Tokens
+https://phabricator.services.mozilla.com/settings/user/mtan/page/apitokens/
+
+Enter Bug: Firefox
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox
+
+⚙ D317723 Bug 2059312 - Part 3: Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw
+https://phabricator.services.mozilla.com/D317723#inline-1707787
+
+nsDocShell.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/5e465cbe324a291bb69aa85c5c4231e052cabe9a/docshell/base/nsDocShell.cpp
+
+Bug 2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://treeherder.mozilla.org/intermittent-failures/bugdetails?bug=2062929&startday=2026-08-10&endday=2026-08-16&tree=all
+
+Bug 2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://treeherder.mozilla.org/intermittent-failures/bugdetails?bug=2062929&startday=2026-08-10&endday=2026-08-16&tree=all
+
+Bug 2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://treeherder.mozilla.org/intermittent-failures/bugdetails?bug=2062929&startday=2026-08-10&endday=2026-08-16&tree=all
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Week-12
+
+321996 – Resync `mathml` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+321998 – Resync `resource-timing` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321998
+
+Buildbot
+https://ews-build.webkit.org/#/builders/38/builds/181248
+
+Additional spec work for links · Issue #312 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/312
+
+[Sanitizer] Add mathml a element and its attributes to the default config (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+sanitizer-svg-animate.html - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-svg-animate.html
+
+wpt/sanitizer-api/sanitizer-javascript-url.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/sanitizer-api/sanitizer-javascript-url.html
+
+sanitizer-svg-animate.html - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-svg-animate.html
+
+Implement MathML <a href> links [510487697] - Chromium
+https://issues.chromium.org/issues/510487697
+
+Enter Bug: Firefox
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox
+
+[mathml] Map MathML a element to link role when href is specified (8011647) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8011647
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Time tracking (week of Aug 17, 2026)
+https://hours.igalia.com/time/week
+
+2062929 - Perma /mathml/relations/html5-tree/a-hreflang-getter.html | Test anchor's hreflang getter - assert_equals: expected (string) "en" but got (undefined) undefined - when Gecko 155 merges to Beta on 2026-08-13
+https://bugzilla.mozilla.org/show_bug.cgi?id=2062929
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141/1
+
+Enter your password to log in | lando.services.mozilla.com
+https://auth.mozilla.auth0.com/u/login/password?state=hKFo2SBzZXVfZTRaRW1rWU96YTRIV2JUOUpNaXlGTFhFMU54NaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtvYjNUTEV4SzZZSUI2M242emloVHI2YTFPTlhhU3dHo2NpZNkgMFNRWkpLR0thajQ3NDNHNjdwSUsxaERhT1ZiZXBGU1Y
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=vouch&op=translate
+
+/ - mozsearch
+https://searchfox.org/firefox-main/source/
+
+delan (shuppy) / Repositories
+https://github.com/delan?tab=repositories
+
+MathML Core
+https://w3c.github.io/mathml-core/#dom-mathmlanchorelement
+
+WebKit/Source/WebCore/html/HTMLAnchorElement.cpp at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/WebCore/html/HTMLAnchorElement.cpp
+
+Support SVG `<a hreflang>` · WebKit/WebKit@bcc938d
+https://github.com/WebKit/WebKit/commit/bcc938dec3529291faca978f7a68b0de21978b0c#diff-d6b2e9874df8c3d983e87f911ff78e48c9a9c99986e27d8e7ebf42747af667fa
+
+Resync `svg` from WPT Upstream by Ahmad-S792 · Pull Request #70704 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/70704/changes
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Pushing to Try — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/tools/try/index.html
+
+Patch uplifting rules - MozillaWiki
+https://wiki.mozilla.org/Release_Management/Uplift_rules#Guidelines_on_approval_comments_for_Beta_and_Release
+
+(1) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Mozilla accounts
+https://accounts.firefox.com/settings
+
+收件箱 (9) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Buildbot
+https://ews-build.webkit.org/#/builders/8/builds/161872
+
+Layout Test Results from 09:30PM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Release-WK2-Stress-Tests-EWS/2696fa9b-161872-stress-mode/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/8/builds/161872
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/150832
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/98117
+
+Layout Test Results from 01:37AM on August 19, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/dc7e3a0a-98117/results.html
+
+Layout Test Results from 01:37AM on August 19, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/dc7e3a0a-98117/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/154/builds/43797
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/98117
+
+Layout Test Results from 01:37AM on August 19, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/dc7e3a0a-98117/results.html
+
+Layout Test Results from 01:37AM on August 19, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/dc7e3a0a-98117/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/169/builds/41729
+
+Buildbot
+https://ews-build.webkit.org/#/builders/165/builds/42072
+
+Buildbot
+https://ews-build.webkit.org/#/builders/18/builds/162202
+
+Buildbot
+https://ews-build.webkit.org/#/builders/162/builds/45116
+
+Layout Test Results from 01:07AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/dc7e3a0a-45116-stress-mode/results.html
+
+Layout Test Results from 01:07AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/dc7e3a0a-45116-stress-mode/results.html
+
+Layout Test Results from 01:07AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/dc7e3a0a-45116-stress-mode/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/161/builds/46327
+
+Buildbot
+https://ews-build.webkit.org/#/builders/8/builds/161710
+
+Buildbot
+https://ews-build.webkit.org/#/builders/185/builds/16720
+
+Buildbot
+https://ews-build.webkit.org/#/builders/170/builds/38364
+
+New MathMLAnchorElement interface for linking in MathML · Issue #691 · WebKit/standards-positions
+https://github.com/WebKit/standards-positions/issues/691
+
+Personal Access Tokens (Classic)
+https://github.com/settings/tokens
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-a-element
+
+Buildbot
+https://ews-build.webkit.org/#/builders/168/builds/48960
+
+s3-us-west-2.amazonaws.com/ews-archives.webkit.org/mac-sequoia-x86_64-arm64-release-compile-webkit/3402935a-48960.txt
+https://s3-us-west-2.amazonaws.com/ews-archives.webkit.org/mac-sequoia-x86_64-arm64-release-compile-webkit/3402935a-48960.txt
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-19&user=344
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-b97c7a1a29148ec75f5b2eb6c88b378f4bfa80b330de243b1bdd3670e8bb3484
+
+WebKit/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/a-ping.html at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/a-ping.html#L5
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt
+
+Resync `resource-timing` from WPT Upstream by tannal · Pull Request #71836 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71836/changes#diff-99101d4ddcd61aee9a8f23d1dbf725ac48ec1b354367053c3ed0b9e347fedaa4
+
+Buildbot
+https://ews-build.webkit.org/#/builders/154/builds/43817
+
+Buildbot
+https://ews-build.webkit.org/#/builders/162/builds/45139
+
+Layout Test Results from 03:21AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/c23db4db-45139-stress-mode/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/169/builds/41742
+
+Buildbot
+https://ews-build.webkit.org/#/builders/161/builds/46342
+
+Buildbot
+https://ews-build.webkit.org/#/builders/8/builds/161723
+
+Buildbot
+https://ews-build.webkit.org/#/builders/170/builds/38364
+
+Layout Test Results from 04:31AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-WK2-Intel-Tests-EWS/c23db4db-38364-rerun/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/185/builds/16739
+
+Layout Test Results from 03:42AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-Site-Isolation-Tests-EWS/c23db4db-16739/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/98130
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/150851
+
+Layout Test Results from 04:42AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/GTK-WK2-Tests-EWS/c23db4db-150851-repeat-failures/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/141459
+
+Layout Test Results from 04:20AM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/c23db4db-141459-repeat-failures/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/98130
+
+Layout Test Results from 03:16AM on August 19, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/c23db4db-98130/results.html
+
+321996 – Resync `mathml` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+Buildbot
+https://ews-build.webkit.org/#/builders/170/builds/38349
+
+321990 – Implement the new MathMLAnchorElement web IDL interface
+https://bugs.webkit.org/show_bug.cgi?id=321990
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+wpt/lint.ignore at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/lint.ignore
+
+Buildbot
+https://ews-build.webkit.org/#/builders/162/builds/45304
+
+ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/c23db4db-45139-stress-mode/imported/w3c/web-platform-tests/resource-timing/content-encoding.https-pretty-diff.html
+https://ews-build.s3-us-west-2.amazonaws.com/iOS-26-Simulator-WK2-Tests-EWS/c23db4db-45139-stress-mode/imported/w3c/web-platform-tests/resource-timing/content-encoding.https-pretty-diff.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/162/builds/45116
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=avenues&op=translate
+
+eerii (eri)
+https://github.com/eerii
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/151025
+
+Layout Test Results from 10:10PM on August 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/GTK-WK2-Tests-EWS/2696fa9b-151025-repeat-failures/results.html#
+
+MathML Download Test Page
+file:///home/tannal/tannalwork/projects/firefox/browser/base/content/test/mathml/download_page_mathml.html
+
+2064615 - Accessbility mappings of some MathML elements
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064615
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-ms
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#mathml-element-mappings
+
+MathMLMarkupMap.inc - mozsearch
+https://searchfox.org/firefox-main/source/accessible/base/MathMLMarkupMap.inc
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+nsAccessibilityService.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/0f16fef034090c1c63f6e80e048eea32faad2ea3/accessible/base/nsAccessibilityService.cpp#338
+
+nsAccessibilityService.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/0f16fef034090c1c63f6e80e048eea32faad2ea3/accessible/base/nsAccessibilityService.cpp#338
+
+Accessible Rich Internet Applications (WAI-ARIA) 1.3
+https://deploy-preview-2844--wai-aria.netlify.app/
+
+MathML Accessibility API Mappings 1.0
+https://deploy-preview-2844--wai-aria.netlify.app/mathml-aam/#el-a
+
+nsAccessibilityService.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/0f16fef034090c1c63f6e80e048eea32faad2ea3/accessible/base/nsAccessibilityService.cpp#338
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mtext
+
+User Profile: Jonathan Wei [:jwei] <jwei@jonathanwei.ca>
+https://bugzilla.mozilla.org/user_profile?user_id=494948
+
+in favor of - Google 搜索
+https://www.google.com/search?q=in+favor+of&oq=in+favor+of&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgxODY5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+2064615 - Accessbility mappings of some MathML elements
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064615
+
+Resync `mathml` from WPT Upstream by tannal · Pull Request #71837 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71837
+
+
 # 2026-08-13
 
 Igalia-work - Google Gemini

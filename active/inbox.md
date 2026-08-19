@@ -3,7 +3,23 @@
 
 Add role for some MathML elements 
 
-Bug 2064615 - Add role for more MathML elements r=surkov, marcoz, patch=jwei, surkov, fredw
+Bug 2064615 - Add role for more MathML elements r=emilio, surkov, marcoz, fredw
+
+This adds a11y role mappings of MathML a, ms, annotation, annotation-xml, mpadded, mphantom, mprescripts, mspace, none and semantics element.
+
+Remove MATHML_STRING_LITERAL in favor of MATHML_TEXT, and AXSubrole for MATHML_TEXT should be AXMathText instead of AXMathRoot.
+
+See https://github.com/w3c/mathml-aam/issues/41 for most of the added elements in details
+
+For MathML a element, the preview of the spec is here:
+https://deploy-preview-2844--wai-aria.netlify.app/mathml-aam/#el-a
+
+Updated the tests
+
+
+Note that annotation, annotation-xml, and mphantom not be exposed in a11y tree by default.
+
+Not sure whether this will
 
 ./wpt run firefox mathml-aam/ --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless
 
@@ -219,15 +235,17 @@ Worked hours: 31h:30min
 
 Tasks:
 
-Add `rel` / `relList` attributes support for MathML `<a>` element and tests them in Chromium [1]
+Add role mappings for MathML a, ms, annotation, annotation-xml, mpadded, mphantom, mprescripts, mspace, none and semantics element. [1]
 
-Support all 7 attributes for MathML anchor element in Firefox [2]
+Resync `resource-timing` and `mathml` from upstream WPT and fix the CI. [2] [3]
+
+Submitted a PR implementing MathMLAnchorElement IDL in WebKit [4]
+
+Investigate more on referrer-policy handling code in general in Firefox [2]
 
 Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
 
 Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
-
-Continue to working on WPT for CSP style policy checking and WPT for attributeStyleMap for SVG elements
 
 Wrote a WPT tests in sanitizer API for MathML a element
 
@@ -235,23 +253,23 @@ Next:
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Add missing mappings for MathML-aam in firefox, and missing `AtkTable` interface in Chromium
+Fix missing `AtkTable` interface in Chromium
 
 Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
 
-Implement MathMLAnchorElement idl support in Webkit
+Fix ATKTable not implemented in Chromium.
 
 See if need to rasing more coverage in mathml_anchor_element in Chromium
 
 Links:
 
-[1] https://chromium-review.googlesource.com/c/chromium/src/+/8220070
+[1] https://phabricator.services.mozilla.com/D319703
 
-[2] https://phabricator.services.mozilla.com/D317723#11026461
+[2] https://github.com/WebKit/WebKit/pull/71836
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/8173850
+[3] https://github.com/WebKit/WebKit/pull/71837
 
-[4] https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append
+[4] https://github.com/WebKit/WebKit/pull/71827
 
 
 # 2026-08-12
