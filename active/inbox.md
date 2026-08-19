@@ -1,6 +1,18 @@
 
 # 2026-08-19
 
+There are missing mappings on Linux and Mac for some MathML elements in firefox.
+
+See the tables and discussions in https://github.com/w3c/mathml-aam/issues/41
+
+The goal of this github issue is to fix all TBD entries in the mathml-aam spec on Linux and Mac (not windows).
+
+We probably want to implement the latest mappings once we reach consensus about them.
+
+Also note that we now have WPT for mathml-aam.
+
+See https://github.com/web-platform-tests/wpt/pull/61018
+
 rm -rf Tools/Scripts/libraries/autoinstalled/
 
 # 2026-08-17
