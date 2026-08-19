@@ -1,6 +1,13 @@
 
 # 2026-08-19
 
+Add role for some MathML elements 
+
+Bug 2064615 - Add basic MathML accessibility implementation, r=surkov, marcoz, patch=jwei, surkov
+
+./wpt run firefox mathml-aam/ --binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/bin/firefox --webdriver-binary /home/tannal/tannalwork/projects/firefox/obj-x86_64-pc-linux-gnu/dist/host/bin/geckodriver --no-headless
+
+
 There are missing mappings on Linux and Mac for some MathML elements in firefox.
 
 See the tables and discussions in https://github.com/w3c/mathml-aam/issues/41
