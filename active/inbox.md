@@ -1,3 +1,8 @@
+
+# 2026-08-19
+
+rm -rf Tools/Scripts/libraries/autoinstalled/
+
 # 2026-08-17
 
 Tools/Scripts/git-webkit pr
