@@ -1,5 +1,92 @@
 
 
+```py
+
+#!/usr/bin/env python3
+import os
+import shutil
+import tempfile
+import zipfile
+from pathlib import Path
+
+# 配置路径
+DOWNLOADS_DIR = Path.home() / "Downloads"
+WEBKIT_DIR = Path.home() / "tannalwork/projects/WebKit"
+TARGET_BASE_DIR = WEBKIT_DIR / "LayoutTests"
+
+def process_zip_file(zip_path):
+    print(f"\n📦 正在处理压缩包: {zip_path.name}")
+    updated_count = 0
+    skipped_count = 0
+    ignored_count = 0
+
+    with tempfile.TemporaryDirectory() as temp_dir:
+        temp_dir_path = Path(temp_dir)
+        
+        # 解压 zip 文件到临时目录
+        try:
+            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                zip_ref.extractall(temp_dir_path)
+        except zipfile.BadZipFile:
+            print(f"❌ 跳过无效的 zip 文件: {zip_path.name}")
+            return
+
+        # 递归扫描所有 -actual.* 文件 (包括 -actual.txt, -actual.png, -actual.wav 等)
+        for actual_file in temp_dir_path.rglob("*-actual.*"):
+            # 计算相对于解压根目录的相对路径
+            rel_path = actual_file.relative_to(temp_dir_path)
+            
+            # 过滤：仅处理 imported/ 目录下的测试文件，忽略 fast/、retries/ 等
+            if not rel_path.parts or rel_path.parts[0] != "imported":
+                ignored_count += 1
+                continue
+
+            # 构造在 WebKit LayoutTests 下的目标相对路径
+            # 将文件中的 '-actual.' 替换为 '-expected.'
+            new_file_name = actual_file.name.replace("-actual.", "-expected.")
+            target_rel_path = rel_path.parent / new_file_name
+            target_file_path = TARGET_BASE_DIR / target_rel_path
+
+            # 增量判断：如果目标文件已存在且内容完全一致，则自动跳过
+            if target_file_path.exists():
+                if target_file_path.read_bytes() == actual_file.read_bytes():
+                    skipped_count += 1
+                    continue
+
+            # 创建目标父目录
+            target_file_path.parent.mkdir(parents=True, exist_ok=True)
+            
+            # 复制并覆盖更新
+            shutil.copy2(actual_file, target_file_path)
+            print(f"  └─ 🚀 复制更新: {target_rel_path}")
+            updated_count += 1
+
+    print(f"  ✅ 完成 {zip_path.name}: 导入/更新 {updated_count} 个文件, 增量跳过 {skipped_count} 个相同文件, 忽略非 imported 文件 {ignored_count} 个")
+
+def main():
+    if not WEBKIT_DIR.exists():
+        print(f"❌ 找不到 WebKit 目录: {WEBKIT_DIR}")
+        return
+
+    # 检索 Downloads 下所有 EWS 相关的 zip 包
+    zip_files = list(DOWNLOADS_DIR.glob("*dc7e3a0a*.zip"))
+    
+    if not zip_files:
+        print("💡 ~/Downloads 目录下没有找到任何 .zip 文件")
+        return
+
+    print(f"🔍 在 ~/Downloads 下发现 {len(zip_files)} 个 zip 文件，开始扫描导入...")
+    
+    for zip_path in zip_files:
+        process_zip_file(zip_path)
+
+    print("\n🎉 所有压缩包处理完毕！你可以通过 'git status' 查看所有更新的 -expected 文件。")
+
+if __name__ == "__main__":
+    main()
+
+```
+
 commit b63faceae00c3c0f1a1f183e63cb1be8a2da80e2
 Author: tannal <mtan@igalia.com>
 Date:   Mon Jul 27 13:13:27 2026 +0800
