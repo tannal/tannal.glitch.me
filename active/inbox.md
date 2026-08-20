@@ -1,6 +1,8 @@
 
 # 2026-08-20
 
+./mach wpt referrer-policy/gen/ --include "*svg-a-tag*" --log-raw wpt.log
+
 ```diff
 tannal@desktop:~/tannalwork/projects/firefox$ git diff accessible/mac/mozAccessible.mm
 diff --git a/accessible/mac/mozAccessible.mm b/accessible/mac/mozAccessible.mm
