@@ -1,4 +1,30 @@
 
+# 2026-08-20
+
+```diff
+tannal@desktop:~/tannalwork/projects/firefox$ git diff accessible/mac/mozAccessible.mm
+diff --git a/accessible/mac/mozAccessible.mm b/accessible/mac/mozAccessible.mm
+index 5fd03dd68968..c2de271e6b32 100644
+--- a/accessible/mac/mozAccessible.mm
++++ b/accessible/mac/mozAccessible.mm
+@@ -391,6 +391,14 @@ static bool IsNonNativePopover(Accessible* aAccessible) {
+ - (NSString*)moxSubrole {
+   MOZ_ASSERT(mGeckoAccessible);
+ 
++  // For MathML a element, we always map the subrole to AXMathRow.
++  // The Link role has a nil Subrole by default, so override it here.
++  if (nsIContent* content = mGeckoAccessible->GetContent()) {
++    if (content->IsMathMLElement(nsGkAtoms::a)) {
++      return @"AXMathRow";
++    }
++  }
++
+   // Deal with landmarks first
+   // macOS groups the specific landmark types of DPub ARIA into two broad
+   // categories with corresponding subroles: Navigation and region/container.
+tannal@desktop:~/tannalwork/projects/firefox$ 
+```
+
 # 2026-08-19
 
 Tools/Scripts/run-webkit-tests \
