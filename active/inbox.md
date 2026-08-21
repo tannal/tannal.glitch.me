@@ -1,6 +1,10 @@
 
 # 2026-08-21
 
+./wpt run chrome mathml-aam/ --binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chrome --webdriver-binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chromedriver --no-headless --binary-arg="--enable-blink-features=MathMLAnchorElement"
+
+git push fork --force-with-lease
+
 git fetch origin refs/changes/41/8253141/5
 
 git show FETCH_HEAD:third_party/blink/web_tests/external/wpt/dom/lists/DOMTokenList-coverage-for-attributes.html
