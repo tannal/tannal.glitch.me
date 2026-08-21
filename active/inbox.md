@@ -1,4 +1,8 @@
 
+# 2026-08-21
+
+MozWalkTheStack(stderr, CallerPC(), 10);
+
 # 2026-08-20
 
 ./mach wpt referrer-policy/gen/ --include "*svg-a-tag*" --log-raw wpt.log
