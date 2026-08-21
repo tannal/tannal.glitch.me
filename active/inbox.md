@@ -1,6 +1,14 @@
 
 # 2026-08-21
 
+git fetch origin refs/changes/41/8253141/5
+
+git show FETCH_HEAD:third_party/blink/web_tests/external/wpt/dom/lists/DOMTokenList-coverage-for-attributes.html
+
+rm -rf ~/.config/chromium/Default/Sessions/
+
+./wpt run chrome mathml-aam/ --binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chrome --webdriver-binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chromedriver --no-headless
+
 git checkout -- agents/ docs/ net/ third_party/ v8/
 
 MozWalkTheStack(stderr, CallerPC(), 10);
@@ -246,6 +254,7 @@ git branch --set-upstream-to=mathml-a-rel
 
 git checkout -b mathml-a-keydown mathml-a-rel
 
+./wpt run chrome mathml-aam/ --no-headless
 ./wpt run chrome mathml/relations/html5-tree/href-navigation.html
 ./wpt run firefox mathml-aam/ --no-headless
 ./wpt run safari mathml-aam/ --no-headless
