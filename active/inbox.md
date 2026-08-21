@@ -1,6 +1,8 @@
 
 # 2026-08-21
 
+git checkout -- agents/ docs/ net/ third_party/ v8/
+
 MozWalkTheStack(stderr, CallerPC(), 10);
 
 # 2026-08-20
