@@ -1,17 +1,18 @@
 
 # 2026-08-21
 
+
+
 ```
 PS C:\Users\tannal\tannalwork\projects\wpt> python .\wpt run chrome ./mathml-aam/ --binary "C:\Users\tannal\scoop\apps\chromium-dev\current\chrome.exe" --no-headless --binary-arg="--enable-blink-features=MathMLAnchorElement"
-Download and install chromedriver [Y/n]? y
 Running 4 tests in web-platform-tests
 
   ▶ Unexpected subtest result in /mathml-aam/aamtests/role/link.py:
   │ FAIL [expected PASS] test_ia2[mathml-link-without-href]
-  │   → AssertionError: assert 'ROLE_SYSTEM_GROUPING' == 'IA2_ROLE_SECTION'
+  │   → assert <POINTER(IAccessibleHyperlink) ptr=0x1ccc0c33d28 at 1ccc3660370> is None
   │
-  │ self = <link.TestMathMLALink object at 0x0000021FDE153650>, ia2 = <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x0000021FDE4E5090>
-  │ session = <Session 33d2fe6c70aef29a80a10eade82621f4>, inline = <function inline.<locals>.inline at 0x0000021FDE364B40>, test_id = 'mathml-link-without-href'
+  │ self = <link.TestMathMLALink object at 0x000001CCC32C5350>, ia2 = <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x000001CCC3620B90>
+  │ session = <Session 0c80ef1836d1c4509242daf86f2b3a18>, inline = <function inline.<locals>.inline at 0x000001CCC34C4E00>, test_id = 'mathml-link-without-href'
   │ test_html = '<math><a id="test"><mtext>Link</mtext></a></math>'
   │
   │     def test_ia2(self, ia2, session, inline, test_id, test_html):
@@ -28,30 +29,24 @@ Running 4 tests in web-platform-tests
   │             assert ia2.get_role(node) == "ROLE_SYSTEM_LINK"
   │
   │         elif test_id == "mathml-link-without-href":
-  │             # Note: We use IA2_ROLE_SECTION here as a fallback because the strict
-  │             # mapping for an href-less mathml:a element is TBD in the IA2 section of MathML-AAM.
-  │             # See: https://w3c.github.io/mathml-aam/#el-a
-  │ >           assert ia2.get_role(node) == "IA2_ROLE_SECTION"
-  │ E           AssertionError: assert 'ROLE_SYSTEM_GROUPING' == 'IA2_ROLE_SECTION'
-  │ E
-  │ E             - IA2_ROLE_SECTION
-  │ E             + ROLE_SYSTEM_GROUPING
+  │             assert ia2.get_role(node) == "ROLE_SYSTEM_GROUPING"
+  │ >           assert ia2.get_hyperlink_interface(node) is None
+  │ E           assert <POINTER(IAccessibleHyperlink) ptr=0x1ccc0c33d28 at 1ccc3660370> is None
+  │ E            +  where <POINTER(IAccessibleHyperlink) ptr=0x1ccc0c33d28 at 1ccc3660370> = <bound method Ia2Wrapper.get_hyperlink_interface of <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x000001CCC3620B90>>(<POINTER(IAccessible2_2) ptr=0x1ccc0c331a8 at 1ccc36e5eb0>)
+  │ E            +    where <bound method Ia2Wrapper.get_hyperlink_interface of <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x000001CCC3620B90>> = <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x000001CCC3620B90>.get_hyperlink_interface
   │
-  │ ia2        = <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x0000021FDE4E5090>
-  │ inline     = <function inline.<locals>.inline at 0x0000021FDE364B40>
-  │ node       = <POINTER(IAccessible2_2) ptr=0x21fdba1af08 at 21fde5a1fd0>
-  │ self       = <link.TestMathMLALink object at 0x0000021FDE153650>
-  │ session    = <Session 33d2fe6c70aef29a80a10eade82621f4>
+  │ ia2        = <core-aam.aamtests.support.ia2_wrapper.Ia2Wrapper object at 0x000001CCC3620B90>
+  │ inline     = <function inline.<locals>.inline at 0x000001CCC34C4E00>
+  │ node       = <POINTER(IAccessible2_2) ptr=0x1ccc0c331a8 at 1ccc36e5eb0>
+  │ self       = <link.TestMathMLALink object at 0x000001CCC32C5350>
+  │ session    = <Session 0c80ef1836d1c4509242daf86f2b3a18>
   │ test_html  = '<math><a id="test"><mtext>Link</mtext></a></math>'
   │ test_id    = 'mathml-link-without-href'
   │
-  └ mathml-aam\aamtests\role\link.py:82: AssertionError
+  └ mathml-aam\aamtests\role\link.py:80: AssertionError
 
-  ▶ TIMEOUT [expected OK] /mathml-aam/aamtests/role/mathml-role.py
-
-Ran 4 tests finished in 99.7 seconds.
-  • 2 ran as expected. 0 tests skipped.
-  • 1 tests timed out unexpectedly
+Ran 4 tests finished in 10.1 seconds.
+  • 3 ran as expected. 0 tests skipped.
   • 1 tests had unexpected subtest results
 ```
 

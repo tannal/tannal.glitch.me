@@ -1,5 +1,31 @@
 
 
+```
+
+    # FIXME: The strict mapping for mathml:a element is TBD in the IA2/UIA section of MathML-AAM.
+    # See: https://github.com/w3c/mathml-aam/issues/39
+    def test_ia2(self, ia2, session, inline, test_id, test_html):
+        session.url = inline(test_html)
+        node = ia2.find_node("test", session.url)
+
+        if test_id == "mathml-link":
+            assert ia2.get_role(node) == "ROLE_SYSTEM_LINK"
+            assert ia2.get_hyperlink_interface(node) is not None
+            msaa_state = ia2.get_msaa_state_list(node)
+            assert "LINKED" in msaa_state
+
+        elif test_id == "mathml-link-with-onclick":
+            assert ia2.get_role(node) == "ROLE_SYSTEM_LINK"
+
+        elif test_id == "mathml-link-without-href":
+            assert ia2.get_role(node) == "ROLE_SYSTEM_GROUPING"
+            assert ia2.get_hyperlink_interface(node) is None
+
+        else:
+            raise ValueError(f"Unreachable code: missing IA2 assertions for {test_id}")
+            
+```
+
 ```py
 
 #!/usr/bin/env python3
