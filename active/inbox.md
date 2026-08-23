@@ -1,7 +1,21 @@
 
 # 2026-08-21
 
+pip3 install MozPhab --break-system-packages
 
+moz-phab patch D319703
+
+mkdir -p ~/homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip-components 1 -C ~/homebrew
+echo 'export PATH="$HOME/homebrew/bin:$PATH"' >> ~/.zshrc
+echo 'export HOMEBREW_PREFIX="$HOME/homebrew"' >> ~/.zshrc
+echo 'export HOMEBREW_CELLAR="$HOME/homebrew/Cellar"' >> ~/.zshrc
+echo 'export HOMEBREW_REPOSITORY="$HOME/homebrew"' >> ~/.zshrc
+
+./mach bootstrap --application-choice="Firefox for Desktop"
+
+sudo chown -R mtan /usr/local/Frameworks /usr/local/Homebrew /usr/local/bin /usr/local/etc /usr/local/etc/bash_completion.d /usr/local/include /usr/local/lib /usr/local/lib/pkgconfig /usr/local/opt /usr/local/sbin /usr/local/share /usr/local/share/aclocal /usr/local/share/doc /usr/local/share/info /usr/local/share/locale /usr/local/share/man /usr/local/share/man/man1 /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7 /usr/local/share/man/man8 /usr/local/share/zsh /usr/local/share/zsh/site-functions /usr/local/var/homebrew/linked /usr/local/var/homebrew/locks /usr/local/var/log
+
+sudo chmod -R u+w /usr/local/Homebrew /usr/local/bin /usr/local/share
 
 ```
 PS C:\Users\tannal\tannalwork\projects\wpt> python .\wpt run chrome ./mathml-aam/ --binary "C:\Users\tannal\scoop\apps\chromium-dev\current\chrome.exe" --no-headless --binary-arg="--enable-blink-features=MathMLAnchorElement"
