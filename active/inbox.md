@@ -1,6 +1,13 @@
 
 # 2026-08-21
 
+0:04.50     raise URLError(err)
+ 0:04.50 urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)>
+ 0:04.90 E ERROR: SDK version "26.2" is too old. Please upgrade to at least 26.5. Try updating your system Xcode.
+ 0:05.07 E *** Fix above errors and then restart with "./mach build"
+
+patch -p1 < D319703.diff
+
 pip3 install MozPhab --break-system-packages
 
 moz-phab patch D319703
