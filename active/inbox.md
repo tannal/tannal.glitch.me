@@ -1,3 +1,46 @@
+# 2026-08-24
+
+[Weekly report 13]
+
+Worked hours: 29h:15min
+
+Tasks:
+
+Add role mappings for MathML a, ms, annotation, annotation-xml, mpadded, mphantom, mprescripts, mspace, none and semantics element. [1]
+
+Resync `resource-timing` and `mathml` from upstream WPT and fix the CI. [2] [3]
+
+Submitted a PR implementing MathMLAnchorElement IDL in WebKit [4]
+
+Investigate more on referrer-policy handling code in general in Firefox [2]
+
+Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
+
+Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
+
+Wrote a WPT tests in sanitizer API for MathML a element
+
+Next:
+
+MathML/SVG anchor element don't respect to base element in the document in Chromium
+
+Split the WPT in sanitizer API for MathML a element to make the tests merge first
+
+Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
+
+Fix ATKTable not implemented in Chromium.
+
+See if need to rasing more coverage in mathml_anchor_element in Chromium
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D319703
+
+[2] https://github.com/WebKit/WebKit/pull/71836
+
+[3] https://github.com/WebKit/WebKit/pull/71837
+
+[4] https://github.com/WebKit/WebKit/pull/71827
 
 # 2026-08-21
 
@@ -363,29 +406,27 @@ rm testing/web-platform/tests/referrer-policy/gen
 
 [Weekly report 12]
 
-Worked hours: 31h:30min
+Worked hours: 29h:15min
 
 Tasks:
 
 Add role mappings for MathML a, ms, annotation, annotation-xml, mpadded, mphantom, mprescripts, mspace, none and semantics element. [1]
 
-Resync `resource-timing` and `mathml` from upstream WPT and fix the CI. [2] [3]
+The tricky part of this patch is mapping subrole of Link to AXMathRow while resuing the same accessible object from HTML anchor element.
+
+Resync `resource-timing` and `mathml` from upstream WPT and fix the CI in WebKit [2] [3]
 
 Submitted a PR implementing MathMLAnchorElement IDL in WebKit [4]
 
-Investigate more on referrer-policy handling code in general in Firefox [2]
+Investigate more on referrer-policy handling code in general in Firefox, resolving comments for the last MathMLAnchorElement patch in firefox.
 
-Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
-
-Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
-
-Wrote a WPT tests in sanitizer API for MathML a element
+Continue to work on `referrerpolicy` attribute and a keyboard activation test in Chromium
 
 Next:
 
 MathML/SVG anchor element don't respect to base element in the document in Chromium
 
-Fix missing `AtkTable` interface in Chromium
+Split the WPT in sanitizer API for MathML a element to make the tests merge first
 
 Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
 
