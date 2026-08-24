@@ -420,7 +420,9 @@ Submitted a PR implementing MathMLAnchorElement IDL in WebKit [4]
 
 Investigate more on referrer-policy handling code in general in Firefox, resolving comments for the last MathMLAnchorElement patch in firefox.
 
-Continue to work on `referrerpolicy` attribute and a keyboard activation test in Chromium
+Continue to work on `referrerpolicy` attribute and a keyboard activation test in Chromium [5] [6]
+
+Address comments from Fred in the WPT PR [7]
 
 Next:
 
@@ -444,6 +446,11 @@ Links:
 
 [4] https://github.com/WebKit/WebKit/pull/71827
 
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[7] https://github.com/web-platform-tests/wpt/pull/60490
 
 # 2026-08-12
 
