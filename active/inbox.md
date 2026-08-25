@@ -2,6 +2,10 @@
 # 2026-08-25
 
 
+await BrowserTestUtils.browserLoaded(gBrowser.selectedBrowser);
+
+const console = content.window.console;
+console.log("DEBUG contentTask String:\n", contentTask);
 
 git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
 
