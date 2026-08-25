@@ -1,6 +1,14 @@
 
 # 2026-08-25
 
+<!-- webkit-test-runner [ runSingly=true AccessibilityTextStitchingEnabled=false ] -->
+
+git show --format="" --name-only
+
+let doc = content.document;
+const console = content.window.console;
+console.log(doc.body.innerHTML);
+
 NS_ConvertUTF16toUTF8(content->AsElement()->NodeInfo()->NodeName().get()).get()
 
 await BrowserTestUtils.browserLoaded(gBrowser.selectedBrowser);
