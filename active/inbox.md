@@ -1,6 +1,7 @@
 
 # 2026-08-25
 
+NS_ConvertUTF16toUTF8(content->AsElement()->NodeInfo()->NodeName().get()).get()
 
 await BrowserTestUtils.browserLoaded(gBrowser.selectedBrowser);
 
