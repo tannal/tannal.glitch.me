@@ -1,3 +1,11 @@
+
+# 2026-08-25
+
+git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
+
+git stash push -u -m "backup-mathml-class-approach" -- accessible/mathml/ accessible/moz.build accessible/base/moz.build accessible/base/MathMLMarkupMap.inc
+
+
 # 2026-08-24
 
 
@@ -120,7 +128,11 @@ Ran 4 tests finished in 10.1 seconds.
 
 # 2026-08-21
 
+git stash push -u -m "backup-mathml-class-approach" -- accessible/mathml/
 
+git stash push -u -m "backup-mathml-class-approach" -p
+
+git stash -u -m "backup-mathml-class-approach"
 
 ./wpt run chrome mathml-aam/ --binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chrome --webdriver-binary /home/tannal/tannalwork/projects/chromium/src/out/Default/chromedriver --no-headless --binary-arg="--enable-blink-features=MathMLAnchorElement"
 
