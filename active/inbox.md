@@ -1,6 +1,8 @@
 
 # 2026-08-25
 
+cargo +nightly fuzz cmin servo_parse_html fuzz/corpus/servo_parse_html/
+
 ./mach wpt referrer-policy/gen/ --include "*svg-a-tag*"
 
 git diff HEAD origin/main -- dom/base/nsContentUtils.cpp
