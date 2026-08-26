@@ -1,6 +1,25 @@
 
 # 2026-08-25
 
+
+MathMLAnchorElement.h
+
+```
+FABE72EE1059C1EB00D889A1 /* MathMLAnchorElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MathMLAnchorElement.h; sourceTree = "<group>"; };
+		FABE72EE1059C1EB00D889A2 /* MathMLAnchorElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MathMLAnchorElement.cpp; sourceTree = "<group>"; };
+		
+```
+
+```
+FABE72F51059C1EB00D889A1 /* MathMLAnchorElement.h in Headers */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A1 /* MathMLAnchorElement.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		FABE72F51059C1EB00D889A2 /* MathMLAnchorElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A2 /* MathMLAnchorElement.cpp */; };
+		FABE72F51059C1EB00D889A3 /* JSMathMLAnchorElement.h in Headers */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A3 /* JSMathMLAnchorElement.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		FABE72F51059C1EB00D889A4 /* JSMathMLAnchorElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A4 /* JSMathMLAnchorElement.cpp */; };
+		FABE72F51059C1EB00D889A6 /* AnchorElementUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A6 /* AnchorElementUtils.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		FABE72F51059C1EB00D889A7 /* AnchorElementUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FABE72EE1059C1EB00D889A7 /* AnchorElementUtils.cpp */; };
+		
+```
+
 <!-- webkit-test-runner [ runSingly=true AccessibilityTextStitchingEnabled=false ] -->
 
 git show --format="" --name-only
