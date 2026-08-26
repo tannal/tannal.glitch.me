@@ -1,6 +1,8 @@
 
 # 2026-08-25
 
+Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/resource-timing/ping-rt-entries.html
+
 ./mach test accessible/tests/browser/mac/browser_mathml.js accessible/tests/browser/role/browser_link_roles.js accessible/tests/browser/role/browser_mathml_roles.js accessible/tests/mochitest/elm/test_MathMLSpec.html
 
 moz-phab patch D319703 --apply-to origin/main
