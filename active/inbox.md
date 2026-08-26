@@ -1,6 +1,58 @@
 
 # 2026-08-25
 
+
+```
+warning: `servo` (lib) generated 1 warning (run `cargo fix --lib -p servo` to apply 1 suggestion)
+    Finished `release` profile [optimized + debuginfo] target(s) in 0.87s
+     Running `target/x86_64-unknown-linux-gnu/release/servo_parse_html -artifact_prefix=/home/igalia/mtan/tannalwork/projects/servo/fuzz/artifacts/servo_parse_html/ -merge=1 /home/igalia/mtan/tannalwork/projects/servo/fuzz/.tmpg3oIpm/corpus fuzz/corpus/servo_parse_html/`
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 2650358976
+INFO: Loaded 1 modules   (4548551 inline 8-bit counters): 4548551 [0x56489fd7fcd0, 0x5648a01d6497), 
+INFO: Loaded 1 PC tables (4548551 PCs): 4548551 [0x5648a01d6498,0x5648a473e108), 
+MERGE-OUTER: 60539 files, 0 in the initial corpus, 0 processed earlier
+MERGE-OUTER: attempt 1
+INFO: Running with entropic power schedule (0xFF, 100).
+INFO: Seed: 3211495858
+INFO: Loaded 1 modules   (4548551 inline 8-bit counters): 4548551 [0x5621f3228cd0, 0x5621f367f497), 
+INFO: Loaded 1 PC tables (4548551 PCs): 4548551 [0x5621f367f498,0x5621f7be7108), 
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge2166114.txt'
+MERGE-INNER: 60539 total files; 0 processed earlier; will process 60539 files now
+#1	pulse  cov: 59635 ft: 59008 exec/s: 0 rss: 799Mb
+#2	pulse  cov: 60531 ft: 61740 exec/s: 0 rss: 828Mb
+#4	pulse  cov: 60532 ft: 61742 exec/s: 0 rss: 828Mb
+#8	pulse  cov: 60677 ft: 62768 exec/s: 0 rss: 846Mb
+#16	pulse  cov: 60766 ft: 63092 exec/s: 1 rss: 891Mb
+#32	pulse  cov: 60809 ft: 63558 exec/s: 2 rss: 978Mb
+#64	pulse  cov: 60912 ft: 63922 exec/s: 3 rss: 1091Mb
+#128	pulse  cov: 60974 ft: 64210 exec/s: 3 rss: 1109Mb
+#256	pulse  cov: 63843 ft: 71809 exec/s: 4 rss: 1139Mb
+#512	pulse  cov: 63957 ft: 72685 exec/s: 5 rss: 1150Mb
+#1024	pulse  cov: 64002 ft: 73181 exec/s: 5 rss: 1166Mb
+#2048	pulse  cov: 64115 ft: 73852 exec/s: 6 rss: 1181Mb
+#4096	pulse  cov: 64162 ft: 76022 exec/s: 6 rss: 1204Mb
+#8192	pulse  cov: 64240 ft: 79089 exec/s: 6 rss: 1246Mb
+#16384	pulse  cov: 66412 ft: 100805 exec/s: 6 rss: 1318Mb
+^C==2166128== libFuzzer: run interrupted; exiting
+
+```
+
+./Tools/Scripts/build-webkit --release 2>&1 | tee build.log
+
+./Tools/Scripts/build-webkit --release
+
+```
+# 将系统 Keychain 导出的证书合并/覆盖到 Homebrew OpenSSL 根证书位置
+security find-certificate -a -p /Library/Keychains/System.keychain > ~/homebrew/etc/openssl@3/cert.pem
+security find-certificate -a -p /System/Library/Keychains/SystemRootCertificates.keychain >> ~/homebrew/etc/openssl@3/cert.pem
+```
+
+
+./mach lint --warnings --outgoing
+
+export PIP_CERT="/etc/ssl/cert.pem"
+
 cargo +nightly fuzz cmin servo_parse_html fuzz/corpus/servo_parse_html/
 
 ./mach wpt referrer-policy/gen/ --include "*svg-a-tag*"
@@ -58,13 +110,7 @@ Tasks:
 
 Add role mappings for MathML a, ms, annotation, annotation-xml, mpadded, mphantom, mprescripts, mspace, none and semantics element. [1]
 
-Resync `resource-timing` and `mathml` from upstream WPT and fix the CI. [2] [3]
-
 Submitted a PR implementing MathMLAnchorElement IDL in WebKit [4]
-
-Investigate more on referrer-policy handling code in general in Firefox [2]
-
-Add `referrerpolicy` attribute and corresponding tests for MathMLAnchorElement in Chromium [3]
 
 Add a test to trigger click via tab and enter key, this will increase the code coverage in mathml_anchor_element.cc in Chromium [4]
 
