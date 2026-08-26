@@ -1,6 +1,21 @@
 
 # 2026-08-25
 
+./mach test accessible/tests/browser/mac/browser_mathml.js accessible/tests/browser/role/browser_link_roles.js accessible/tests/browser/role/browser_mathml_roles.js accessible/tests/mochitest/elm/test_MathMLSpec.html
+
+moz-phab patch D319703 --apply-to origin/main
+moz-phab patch D319703 --apply-to HEAD
+
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc
+
+xcodebuild -downloadComponent MetalToolchain
+
+cat build.log | grep -i "error:"
+
+git reset --hard HEAD
+git clean -fd
+
+git checkout -b mathml-aam-mappings
 
 ```
 warning: `servo` (lib) generated 1 warning (run `cargo fix --lib -p servo` to apply 1 suggestion)
