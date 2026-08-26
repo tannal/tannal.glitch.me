@@ -1,6 +1,10 @@
 
 # 2026-08-25
 
+./mach wpt referrer-policy/gen/ --include "*svg-a-tag*"
+
+git diff HEAD origin/main -- dom/base/nsContentUtils.cpp
+git diff origin/main -- dom/base/Element.cpp
 
 MathMLAnchorElement.h
 
