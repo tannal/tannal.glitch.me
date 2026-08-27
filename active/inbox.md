@@ -1,4 +1,9 @@
 
+
+# 2026-08-27
+
+git checkout -p HEAD~1 -- accessible/base/nsAccessibilityService.cpp
+
 # 2026-08-25
 
 Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/resource-timing/ping-rt-entries.html
