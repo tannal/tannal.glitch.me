@@ -2,6 +2,14 @@
 
 # 2026-08-27
 
+git diff mathml-a-element@{3} mathml-a-element@{0}
+
+./Tools/Scripts/build-webkit --gtk --release
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/servo_parse_html/ -- -jobs=4 -workers=4
+
+rm -rf Tools/Scripts/libraries/autoinstalled
+
 ./mach test accessible/tests/browser/mac/browser_mathml.js accessible/tests/browser/role/browser_mathml_roles.js
 
 moz-phab patch D319703 --apply-to HEAD --force
