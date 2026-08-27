@@ -2,6 +2,10 @@
 
 # 2026-08-27
 
+./mach test accessible/tests/browser/mac/browser_mathml.js accessible/tests/browser/role/browser_mathml_roles.js
+
+moz-phab patch D319703 --apply-to HEAD --force
+
 git checkout -p HEAD~1 -- accessible/base/nsAccessibilityService.cpp
 
 # 2026-08-25
