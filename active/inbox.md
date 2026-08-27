@@ -2,6 +2,45 @@
 
 # 2026-08-27
 
+<annotation id="test">
+
+<ms id="test">
+
+<mtext id="test">
+
+<a id="test"> (无 href)
+
+<a id="test" onclick="...">
+
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+[AX_DEBUG] IGNORED! ID: 'test-a-nohref', Tag: 'a', Role: 71, Reason: isIgnoredElementWithinMathTree == true
+
+[AX_DEBUG] IGNORED! ID: 'test-ms', Tag: 'ms', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-ms', Tag: 'ms', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-ms', Tag: 'ms', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-ms', Tag: 'ms', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-ms', Tag: 'ms', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+
+[AX_DEBUG] IGNORED! ID: 'test-mtext', Tag: 'mtext', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-mtext', Tag: 'mtext', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-mtext', Tag: 'mtext', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-mtext', Tag: 'mtext', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-mtext', Tag: 'mtext', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+
+
+[AX_DEBUG] IGNORED! ID: 'test-annotation', Tag: 'annotation', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-annotation', Tag: 'annotation', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+[AX_DEBUG] IGNORED! ID: 'test-annotation', Tag: 'annotation', Role: 104, Reason: defaultObjectInclusion::IgnoreObject
+
+./Tools/Scripts/run-minibrowser --gtk --release
+./Tools/Scripts/build-webkit --debug 2>&1 | tee build.log
+
+2>&1 | tee wpt.log
+
 git diff mathml-a-element@{3} mathml-a-element@{0}
 
 ./Tools/Scripts/build-webkit --gtk --release
