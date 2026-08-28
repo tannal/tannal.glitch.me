@@ -1,5 +1,16 @@
 
 
+# 2026-08-29
+
+[Sanitizer] A WPT to verify stripping of unsafe attributes for MathML a element
+
+Add a WPT test to verify sanitization of javascript: URLs, and stripping of restricted attributes like target, download, and referrerpolicy etc.
+
+Spec change: https://github.com/whatwg/html/pull/12592
+
+Bug: 510487697
+Change-Id: I1fddafd008713c454a0cb3c0061e817d5f42d338
+
 # 2026-08-28
 
 ./third_party/blink/tools/run_web_tests.py -t Default /home/tannal/tannalwork/projects/chromium/src/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-javascript-url.html third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html
