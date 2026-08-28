@@ -2,6 +2,8 @@
 
 # 2026-08-28
 
+./third_party/blink/tools/run_web_tests.py -t Default /home/tannal/tannalwork/projects/chromium/src/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-javascript-url.html third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html
+
 0:06.57 GECKO(31135) must wait for focus in content
 
 # 2026-08-27
