@@ -1,5 +1,9 @@
 
 
+# 2026-08-28
+
+0:06.57 GECKO(31135) must wait for focus in content
+
 # 2026-08-27
 
 Services.prompt.alert(null, "Debug", "Pausing test for debugging...");
