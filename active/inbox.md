@@ -2,6 +2,8 @@
 
 # 2026-08-27
 
+./mach test accessible/tests/browser/atk/browser_mathml.js --jsdebugger
+
 <annotation id="test">
 
 <ms id="test">
