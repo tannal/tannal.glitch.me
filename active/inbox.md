@@ -1,5 +1,7 @@
 # 2026-09-01
 
+./mach wpt-update wpt.log
+
 git diff --name-only HEAD~1
 
 git diff HEAD~1
