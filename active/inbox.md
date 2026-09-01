@@ -38,7 +38,7 @@ Add a test to trigger click via tab and enter key and clean up some old CLs in C
 
 Next:
 
-MathML and SVG anchor element don't respect to base element in the document in Chromium
+Fixing the aamtests runner in Firefox, Chromium and WebKit enabling them to run the new aam WPT.
 
 Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
 
