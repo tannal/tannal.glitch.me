@@ -1,4 +1,116 @@
+```
+/* virtual */
+void nsMathMLmpaddedFrame::Place(DrawTarget* aDrawTarget,
+                                 const PlaceFlags& aFlags,
+                                 ReflowOutput& aDesiredSize) {
+  PlaceFlags flags = aFlags + PlaceFlag::MeasureOnly +
+                     PlaceFlag::IgnoreBorderPadding +
+                     PlaceFlag::DoNotAdjustForWidthAndHeight;
+  nsMathMLContainerFrame::Place(aDrawTarget, flags, aDesiredSize);
 
+  nscoord height = aDesiredSize.BlockStartAscent();
+  nscoord depth = aDesiredSize.Height() - aDesiredSize.BlockStartAscent();
+  nscoord lspace = 0;
+  nscoord width = aDesiredSize.Width();
+  nscoord voffset = 0;
+
+  nscoord initialWidth = width;
+  float fontSizeInflation = nsLayoutUtils::FontSizeInflationFor(this);
+
+  // 1. Update Values
+  ParseAttribute(nsGkAtoms::width, mWidth);
+  UpdateValue(mWidth, Attribute::PseudoUnit::Width, aDesiredSize, width,
+              fontSizeInflation);
+  width = std::max(0, width);
+
+  ParseAttribute(nsGkAtoms::height, mHeight);
+  UpdateValue(mHeight, Attribute::PseudoUnit::Height, aDesiredSize, height,
+              fontSizeInflation);
+  height = std::max(0, height);
+
+  ParseAttribute(nsGkAtoms::depth, mDepth);
+  UpdateValue(mDepth, Attribute::PseudoUnit::Depth, aDesiredSize, depth,
+              fontSizeInflation);
+  depth = std::max(0, depth);
+
+  ParseAttribute(nsGkAtoms::lspace, mLeadingSpace);
+  if (mLeadingSpace.mPseudoUnit != Attribute::PseudoUnit::ItSelf) {
+    UpdateValue(mLeadingSpace, Attribute::PseudoUnit::Unspecified, aDesiredSize,
+                lspace, fontSizeInflation);
+  }
+
+  ParseAttribute(nsGkAtoms::voffset, mVerticalOffset);
+  if (mVerticalOffset.mPseudoUnit != Attribute::PseudoUnit::ItSelf) {
+    UpdateValue(mVerticalOffset, Attribute::PseudoUnit::Unspecified,
+                aDesiredSize, voffset, fontSizeInflation);
+  }
+
+  printf_stderr("\n=== [Place: After UpdateValue] ===\n");
+  printf_stderr("  width=%d, height=%d, depth=%d, lspace=%d, voffset=%d\n",
+                width, height, depth, lspace, voffset);
+
+  const bool isRTL = GetWritingMode().IsBidiRTL();
+  if (isRTL ? mWidth.IsValid() : mLeadingSpace.IsValid()) {
+    mBoundingMetrics.leftBearing = 0;
+  }
+
+  if (isRTL ? mLeadingSpace.IsValid() : mWidth.IsValid()) {
+    mBoundingMetrics.width = width;
+    mBoundingMetrics.rightBearing = mBoundingMetrics.width;
+  }
+
+  // 2. Compute dx (Check Point 2)
+  nscoord dx = (isRTL ? width - initialWidth - lspace : lspace);
+  printf_stderr("  [Point 2: dx computed] isRTL=%d, raw dx=%d %s\n", isRTL, dx,
+                (dx < 0 ? "<-- OVERFLOW/NEGATIVE!" : ""));
+
+  aDesiredSize.SetBlockStartAscent(height);
+  aDesiredSize.Width() = mBoundingMetrics.width;
+
+  // 3. Compute Desired Height (Check Point 1)
+  nscoord computedHeight = depth + aDesiredSize.BlockStartAscent();
+  aDesiredSize.Height() = computedHeight;
+  printf_stderr("  [Point 1: DesiredHeight] depth(%d) + ascent(%d) = %d %s\n",
+                depth, aDesiredSize.BlockStartAscent(), computedHeight,
+                (computedHeight < 0 ? "<-- OVERFLOW!" : ""));
+
+  mBoundingMetrics.ascent = height;
+  mBoundingMetrics.descent = depth;
+  aDesiredSize.mBoundingMetrics = mBoundingMetrics;
+
+  // 4. Adjustments (Check Point 3)
+  auto sizes = GetWidthAndHeightForPlaceAdjustment(aFlags);
+  nscoord adj = ApplyAdjustmentForWidthAndHeight(aFlags, sizes, aDesiredSize,
+                                                 mBoundingMetrics);
+  dx += adj;
+  printf_stderr("  [Point 3a: dx + adj] adj=%d, new dx=%d %s\n", adj, dx,
+                (dx < 0 ? "<-- OVERFLOW!" : ""));
+
+  auto borderPadding = GetBorderPaddingForPlace(aFlags);
+  InflateReflowAndBoundingMetrics(borderPadding, aDesiredSize,
+                                  mBoundingMetrics);
+  dx += borderPadding.left;
+  printf_stderr(
+      "  [Point 3b: dx + padding] borderPadding.left=%d, final dx=%d %s\n",
+      borderPadding.left, dx, (dx < 0 ? "<-- OVERFLOW!" : ""));
+
+  mReference.x = 0;
+  mReference.y = aDesiredSize.BlockStartAscent();
+
+  // 5. Position Row Child Frames (Check Point 4)
+  if (!aFlags.contains(PlaceFlag::MeasureOnly)) {
+    nscoord childY = NSCoordSaturatingSubtract(aDesiredSize.BlockStartAscent(), voffset, 0);
+    printf_stderr(
+        "  [Point 4: Child Positioning] ascent(%d) - voffset(%d) = childY(%d) "
+        "%s\n",
+        aDesiredSize.BlockStartAscent(), voffset, childY,
+        (childY < 0 ? "<-- OVERFLOW/NEGATIVE!" : ""));
+    printf_stderr("=== [Place End] ===\n\n");
+
+    PositionRowChildFrames(dx, childY);
+  }
+}
+```
 
 ```
 

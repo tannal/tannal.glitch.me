@@ -1,6 +1,10 @@
 
-# 2026-08-31
 
+
+# 2026-09-01
+
+nscoord childY = NSCoordSaturatingSubtract(aDesiredSize.BlockStartAscent(), voffset, 0);
+  PositionRowChildFrames(dx, childY);
 
 - nscoord dx = (isRTL ? width - initialWidth - lspace : lspace);
 + nscoord dx = lspace;
