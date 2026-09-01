@@ -1,6 +1,16 @@
 
 # 2026-08-31
 
+
+- nscoord dx = (isRTL ? width - initialWidth - lspace : lspace);
++ nscoord dx = lspace;
++ if (isRTL) {
++   nscoord widthDiff = NSCoordSaturatingSubtract(width, initialWidth, 0);
++   dx = NSCoordSaturatingSubtract(widthDiff, lspace, 0);
++ }
+
+# 2026-08-31
+
 [Weekly report 13]
 
 Worked hours: 25h:45min
