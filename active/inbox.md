@@ -1,5 +1,8 @@
+# 2026-09-01
 
+git diff --name-only HEAD~1
 
+git diff HEAD~1
 
 # 2026-09-01
 
