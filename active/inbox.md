@@ -1,5 +1,17 @@
 
+# 2026-09-03
+
+
+
+
 # 2026-09-02
+
+```
+// FIXME: This is different from the current MathML core spec.
+// We should move attributes below to HyperlinkElementUtils mixin
+// once we are ready to share the mixin with HTML and SVG anchor element.
+// We have these attributes temporarily in MathMLAnchorElement.idl for now.
+```
 
 ./Tools/Scripts/build-webkit --release 2>&1 | tee build.log
 ./Tools/Scripts/build-webkit --debug 2>&1 | tee build.log
