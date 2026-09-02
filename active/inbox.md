@@ -1,3 +1,13 @@
+
+# 2026-09-02
+
+git fetch origin
+git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
+
+./mach wpt testing/web-platform/tests/mathml/relations/html5-tree/ --log-raw wpt.log
+./mach wpt-update wpt.log
+
+
 # 2026-09-01
 
 ./mach wpt-update wpt.log

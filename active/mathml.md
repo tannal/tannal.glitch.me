@@ -1,3 +1,170 @@
+
+
+```
+nscoord childY =
+    NSCoordSaturatingSubtract(aDesiredSize.BlockStartAscent(), voffset, 0);
+PositionRowChildFrames(dx, childY);
+```
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>MathML mpadded and layout attributes numerical overflow tests</title>
+<link rel="help" href="https://bugzilla.mozilla.org/show_bug.cgi?id=2067526">
+<script src="/resources/testharness.js"></script>
+<script src="/resources/testharnessreport.js"></script>
+<style>
+  div.container {
+    font-size: 100px;
+    width: 500px;
+  }
+</style>
+</head>
+<body>
+<div id="log"></div>
+
+<!-- Proof 1: LTR lspace extreme positive overflow -->
+<div class="container" id="c-lspace">
+  <math display="block">
+    <mpadded id="mpadded-lspace" lspace="+50000000%width">
+      <mi id="child-lspace">X</mi>
+    </mpadded>
+  </math>
+</div>
+
+<!-- Proof 2: Positive voffset (upward movement) saturation truncation -->
+<div class="container" id="c-voffset">
+  <math display="block">
+    <mpadded id="mpadded-voffset" voffset="+50000000%height">
+      <mi id="child-voffset">Y</mi>
+    </mpadded>
+  </math>
+</div>
+
+<!-- Proof 3: Clamping consistency check across container sizes -->
+<div class="container" id="c-200" style="width: 200px;">
+  <math display="block">
+    <mpadded lspace="+50000000%width">
+      <mi id="child-200px">A</mi>
+    </mpadded>
+  </math>
+</div>
+<div class="container" id="c-800" style="width: 800px;">
+  <math display="block">
+    <mpadded lspace="+50000000%width">
+      <mi id="child-800px">B</mi>
+    </mpadded>
+  </math>
+</div>
+
+<!-- Proof 4: RTL mode subtraction underflow (dx = width - initialWidth - lspace) -->
+<div class="container" id="c-rtl" dir="rtl">
+  <math display="block">
+    <mpadded id="mpadded-rtl" lspace="+50000000%width">
+      <mi id="child-rtl">RTL</mi>
+    </mpadded>
+  </math>
+</div>
+
+<!-- Proof 5: RTL mode explicit width minus large lspace underflow -->
+<div class="container" id="c-rtl-sub" dir="rtl">
+  <math display="block">
+    <mpadded id="mpadded-rtl-sub" width="10px" lspace="+50000000%width">
+      <mi id="child-rtl-sub">RTL_SUB</mi>
+    </mpadded>
+  </math>
+</div>
+
+<!-- Proof 6: mtable rowspacing attribute percentage overflow -->
+<div class="container">
+  <math display="block">
+    <mtable rowspacing="99999999%">
+      <mtr><mtd id="cell1"><mi>1</mi></mtd></mtr>
+      <mtr><mtd id="cell2"><mi>2</mi></mtd></mtr>
+    </mtable>
+  </math>
+</div>
+
+<script>
+// Helper to calculate relative offset against container origin
+function getRelBox(childId, containerId) {
+  const c = document.getElementById(childId).getBoundingClientRect();
+  const p = document.getElementById(containerId).getBoundingClientRect();
+  return {
+    x: c.x - p.x,
+    y: c.y - p.y,
+    width: c.width,
+    height: c.height
+  };
+}
+
+test(() => {
+  const rel = getRelBox("child-lspace", "c-lspace");
+  // LTR positive lspace must move content RIGHT to maximum clamped extent.
+  // Unfixed bug flips sign to INT_MIN, pushing child far to the LEFT (negative relative X).
+  assert_greater_than_equal(
+    rel.x, 0,
+    "Positive LTR lspace overflow must not invert sign and push child to negative X position."
+  );
+}, "mpadded lspace positive overflow must not invert sign (LTR)");
+
+test(() => {
+  const rel = getRelBox("child-voffset", "c-voffset");
+  // Positive voffset moves child UPWARD (childY = ascent - voffset).
+  // Unfixed: ascent - INT_MIN yields massive negative Y (flying way above container top).
+  // Fixed: Saturating subtract clamps childY at 0 (top of the parent content box).
+  assert_greater_than_equal(
+    rel.y, 0,
+    "Upward voffset overflow must be saturated and not overflow to extreme negative Y."
+  );
+}, "mpadded voffset positive overflow must saturate at top boundary");
+
+test(() => {
+  const rel200 = getRelBox("child-200px", "c-200");
+  const rel800 = getRelBox("child-800px", "c-800");
+
+  assert_greater_than_equal(rel200.x, 0, "200px container child X must not invert sign");
+  assert_greater_than_equal(rel800.x, 0, "800px container child X must not invert sign");
+  // Clamped max value in larger container must produce greater or equal displacement.
+  assert_greater_than_equal(
+    rel800.x, rel200.x,
+    "Larger container width must yield greater or equal clamped positive displacement."
+  );
+}, "Consistency of clamped lspace across different container widths");
+
+test(() => {
+  const relRTL = getRelBox("child-rtl", "c-rtl");
+  const containerWidth = document.getElementById("c-rtl").getBoundingClientRect().width;
+
+  assert_between_inclusive(relRTL.x, 0, containerWidth * 2, "RTL layout must saturate safely within bounds.");
+}, "mpadded dx underflow under RTL directionality");
+
+test(() => {
+  const relRTLSub = getRelBox("child-rtl-sub", "c-rtl-sub");
+  const containerWidth = document.getElementById("c-rtl-sub").getBoundingClientRect().width;
+
+  assert_between_inclusive(relRTLSub.x, 0, containerWidth * 2, "RTL layout must saturate safely within bounds.");
+}, "mpadded explicit width minus lspace underflow in RTL mode");
+
+test(() => {
+  const cell1 = document.getElementById("cell1").getBoundingClientRect();
+  const cell2 = document.getElementById("cell2").getBoundingClientRect();
+  
+  // Cell 2 must be positioned strictly below Cell 1, even with extreme percentage rowspacing.
+  assert_greater_than(
+    cell2.y - cell1.y, 0,
+    "mtable rowspacing percentage overflow must saturate and maintain positive vertical distance."
+  );
+}, "mtable rowspacing attribute overflow protection");
+</script>
+</body>
+</html>
+```
+
+
+
 ```
 /* virtual */
 void nsMathMLmpaddedFrame::Place(DrawTarget* aDrawTarget,
