@@ -1,6 +1,11 @@
 
 # 2026-09-02
 
+./Tools/Scripts/build-webkit --release 2>&1 | tee build.log
+./Tools/Scripts/build-webkit --debug 2>&1 | tee build.log
+
+cat build.log | grep -i "error:"
+
 git fetch origin
 git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/main origin/main {}
 
