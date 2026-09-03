@@ -1,5 +1,8 @@
-
 # 2026-09-03
+
+Tools/Scripts/run-webkit-tests LayoutTests/imported/w3c/web-platform-tests/resource-timing/ping-rt-entries.html
+
+rm -rf Tools/Scripts/libraries/autoinstalled
 
 Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,layout-reviewers
 
