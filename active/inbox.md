@@ -1,6 +1,14 @@
 
 # 2026-09-03
 
+Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,layout-reviewers
+
+Proof 2 still pass without this patch, not sure it's because of UB or the value get clamped elsewhere.
+
+We should get more offset when the container is bigger when using the same percentage, this match Chrome and WebKit.
+
+But in Firefox, the offset is the same.
+
 [Point 4: Child Positioning] ascent(4860) - voffset(-2147483648)
 
 -2147478788
@@ -8,8 +16,8 @@
 -1073736963
 
 [Point 4: Child Positioning] ascent(4860) - voffset(1073741823)
-
-
+-1073736963
+-1073741823
 
 # 2026-09-02
 
