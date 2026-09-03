@@ -1,6 +1,13 @@
 
 # 2026-09-03
 
+[Point 4: Child Positioning] ascent(4860) - voffset(-2147483648)
+
+-2147478788
+
+-1073736963
+
+[Point 4: Child Positioning] ascent(4860) - voffset(1073741823)
 
 
 
