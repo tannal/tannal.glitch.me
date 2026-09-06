@@ -1,3 +1,10 @@
+
+
+# 2026-09-03
+
+scp -J igalia.com mtan@buildbox4.local.igalia.com:/home/igalia/mtan/tannalwork/projects/servo/fuzz/corpus.tar.gz /home/tannal/tannalwork/projects/servo/fuzz/
+
+
 # 2026-09-03
 
 Tools/Scripts/run-webkit-tests LayoutTests/imported/w3c/web-platform-tests/resource-timing/ping-rt-entries.html
