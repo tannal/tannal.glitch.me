@@ -1,6 +1,21 @@
 
 # 2026-09-07
 
+git rebase-update
+git rebase-update -n
+
+[meta] Implement atomic moveBefore() API
+
+  imported/w3c/web-platform-tests/dom/nodes/moveBefore/moveBefore-iframe-crash.html [ Timeout ]
+  imported/w3c/web-platform-tests/dom/nodes/moveBefore/moveBefore-legend-input-crash.html [ Timeout ]
+  imported/w3c/web-platform-tests/dom/nodes/moveBefore/moveBefore-range-iframe-crash.html [ Timeout ]
+  imported/w3c/web-platform-tests/dom/nodes/moveBefore/moveBefore-subframe-count-crash.html [ Timeout ]
+
+    - 'DOMAIN-SUFFIX,webkit.org,FSCloud'
+    - 'DOMAIN-KEYWORD,webkit,FSCloud'
+
+Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/dom
+
 [Weekly report 13]
 
 Worked hours: 25h:45min
