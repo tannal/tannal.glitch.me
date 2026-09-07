@@ -1,6 +1,14 @@
 
 # 2026-09-07
 
+LLVM_COV=~/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin/llvm-tools/llvm-cov
+
+~/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin/llvm-tools/llvm-cov show \
+  target/x86_64-unknown-linux-gnu/coverage/x86_64-unknown-linux-gnu/release/servo_parse_html \
+  -instr-profile=/home/a17/tannalwork/projects/servo/fuzz/coverage/servo_parse_html/coverage.profdata \
+  -format=html \
+  -output-dir=./fuzz_coverage_report
+
 ssh-keygen -t ed25519 -C "mtan@igalia.com" -f ~/.ssh/id_ed25519_igalia
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz coverage servo_parse_html fuzz/corpus/servo_parse_html/ 2>&1 | tee fuzz.log
