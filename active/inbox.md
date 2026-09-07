@@ -18,7 +18,7 @@ Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-plat
 
 [Weekly report 13]
 
-Worked hours: 25h:45min
+Worked hours: 15h:15min
 
 Tasks:
 
