@@ -1,6 +1,12 @@
 
 # 2026-09-07
 
+git checkout -p mathml-aam-mappings@{4} -- accessible/base/MathMLMarkupMap.inc
+
+git diff mathml-aam-mappings@{4} mathml-aam-mappings@{1}
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html   fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4 -dict=fuzz/dicts/mathml.dict
+
 LLVM_COV=~/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin/llvm-tools/llvm-cov
 
 ~/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin/llvm-tools/llvm-cov show \
