@@ -128,27 +128,27 @@ nscoord childY = NSCoordSaturatingSubtract(aDesiredSize.BlockStartAscent(), voff
 
 # 2026-08-31
 
-[Weekly report 13]
+[Weekly report 14]
 
-Worked hours: 25h:45min
+Worked hours: 15h:15min
 
 Tasks:
 
-Wrote browser a11y tests for the MathML role mapping patch in firefox [1]
+Investigate the mapping of mphantom with the reviewer in Firefox,
 
-Fixed the CI for mac and ios for the MathMLAnchorElement IDL PR in WebKit [2]
+We will map it like mrow when user make it visible for now in Firefox [1]
 
-Prototype a a11y mapping PR for WebKit, adding a11y role mapping for MathML a element and other elements in WebKit
+Created a new bug for referrerPolicy parsing in Firefox, we should parse the value on those elements support referrerpolicy
 
-The Linux part is mostly done, the next step is the mac part and adding tests for them
+not on all elements in the base class [2]
 
-Split the WPT in sanitizer API for MathML a element to make the tests merge first [3]
+Submit a patch to clamp user input in order to avoid integer overflow [3]
 
-Add a test to trigger click via tab and enter key and clean up some old CLs in Chromium [4] [5]
+Resync `dom` directory to get `dom/lists/DOMTokenList-coverage-for-attributes.html` in WebKit [4] [5]
 
 Next:
 
-Fixing the aamtests runner in Firefox, Chromium and WebKit enabling them to run the new aam WPT.
+Fixing the aamtests runner in Chromium and WebKit enabling them to run the new aam WPT
 
 Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
 
@@ -160,13 +160,13 @@ Links:
 
 [1] https://phabricator.services.mozilla.com/D319703
 
-[2] https://github.com/WebKit/WebKit/pull/71827
+[2] https://bugzilla.mozilla.org/show_bug.cgi?id=2068544
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+[3] https://phabricator.services.mozilla.com/D323149
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+[4] https://bugs.webkit.org/show_bug.cgi?id=323576
 
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+[5] https://github.com/WebKit/WebKit/pull/73383
 
 # 2026-08-29
 
