@@ -1,6 +1,10 @@
 
 # 2026-09-07
 
+ssh-keygen -t ed25519 -C "mtan@igalia.com" -f ~/.ssh/id_ed25519_igalia
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz coverage servo_parse_html fuzz/corpus/servo_parse_html/ 2>&1 | tee fuzz.log
+
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html \
   fuzz/corpus/servo_parse_html/ \
   -- -jobs=4 -workers=4 -dict=fuzz/mathml.dict
