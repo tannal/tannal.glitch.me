@@ -1,4 +1,45 @@
 
+# 2026-09-07
+
+[Weekly report 13]
+
+Worked hours: 25h:45min
+
+Tasks:
+
+Wrote browser a11y tests for the MathML role mapping patch in firefox [1]
+
+Fixed the CI for mac and ios for the MathMLAnchorElement IDL PR in WebKit [2]
+
+Prototype a a11y mapping PR for WebKit, adding a11y role mapping for MathML a element and other elements in WebKit
+
+The Linux part is mostly done, the next step is the mac part and adding tests for them
+
+Split the WPT in sanitizer API for MathML a element to make the tests merge first [3]
+
+Add a test to trigger click via tab and enter key and clean up some old CLs in Chromium [4] [5]
+
+Next:
+
+MathML and SVG anchor element don't respect to base element in the document in Chromium
+
+Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
+
+Fix ATKTable not implemented in Chromium on Linux
+
+See if need to rasing more coverage in mathml_anchor_element in Chromium
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D319703
+
+[2] https://github.com/WebKit/WebKit/pull/71827
+
+[3] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
 # 2026-09-03
 

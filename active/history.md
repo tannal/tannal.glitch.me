@@ -1,4 +1,550 @@
 
+# 2026-09-07
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+UI Events KeyboardEvent key Values
+https://w3c.github.io/uievents-key/#keys-browser
+
+Referrer Policy
+https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery
+
+Igalia Chat [3] | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+rust-fuzz/libfuzzer: Rust bindings and utilities for LLVM’s libFuzzer
+https://github.com/rust-fuzz/libfuzzer
+
+rust-fuzz/libfuzzer: Rust bindings and utilities for LLVM’s libFuzzer
+https://github.com/rust-fuzz/libfuzzer
+
+2067569 - NSToCoordRound without clamp in ParseAndCalcNumericValue causes UB on percentage MathML attributes
+https://bugzilla.mozilla.org/show_bug.cgi?id=2067569
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-3ffdcf7f84f1a2eb4838675ba0d307eda08735b8c0273a9ac35ad7ce363fed57
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141?tab=comments
+
+owner:mtan@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:mtan@igalia.com
+
+Blitz - Status: CSS
+https://blitz.is/status/css
+
+Mapping for math and mphantom tags are missing · Issue #9 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/9
+
+MathML Core
+https://w3c.github.io/mathml-core/#semantics-and-presentation
+
+⚙ D323149 Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,#layout-reviewers
+https://phabricator.services.mozilla.com/D323149
+
+PROOF|0/5|x1=246.1|x3a=208.7|x3b=208.0|y4=1.0|x5a=84.2|x5b=384.2
+https://bug2067526.bmoattachments.org/attachment.cgi?id=9632325
+
+2067569 - NSToCoordRound without clamp in ParseAndCalcNumericValue causes UB on percentage MathML attributes
+https://bugzilla.mozilla.org/show_bug.cgi?id=2067569
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-90afd841d28fd9a1a3f03b8f1d21e9f3abdd9c8c10e2ce19c8f2171656291b13
+
+MathML Core
+https://w3c.github.io/mathml-core/#semantics-and-presentation
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/css-styling/attribute-mapping-001.html?label=master&label=experimental&aligned&q=attribute-mapping-002.html
+
+Operator dictionary
+https://wpt.live/mathml/presentation-markup/operators/operator-dictionary-movablelimits-001.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#user-agent-stylesheet
+
+displaystyle
+https://wpt.live/mathml/relations/css-styling/displaystyle-011.html
+
+wpt/mathml/relations/css-styling/displaystyle-011.html at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/mathml/relations/css-styling/displaystyle-011.html
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/css-styling/attribute-mapping-002.html?label=master&label=experimental&aligned&q=attribute-mapping-002.html
+
+wpt/mathml/relations/css-styling/attribute-mapping-002.html at 5ce815a83b2601ce920e39f001cd7e77642ea860 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/5ce815a83b/mathml/relations/css-styling/attribute-mapping-002.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#the-displaystyle-and-scriptlevel-attributes
+
+⚙ D254511 Bug 1958853 - Render unknown MathML elements as an mrow. r?fredw
+https://phabricator.services.mozilla.com/D254511
+
+⚙ D254511 Bug 1958853 - Render unknown MathML elements as an mrow. r?fredw
+https://phabricator.services.mozilla.com/D254511
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+Implement math-depth. by eerii · Pull Request #52063 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/52063/changes
+
+Implement math-depth. by eerii · Pull Request #52063 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/52063/changes#diff-d19642aa2cd6485798fb24e4bd3889a42f42f9746484a35e42fd08fecf5254a3
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/checks?check_run_id=97009018831
+
+MathML Accessibility API Mappings 1.0
+https://deploy-preview-2844--wai-aria.netlify.app/mathml-aam/#el-annotation
+
+m:a:LocalAccessible::HandleAccEvent (LocalAccessible.cpp - mozsearch)
+https://searchfox.org/firefox-main/source/accessible/generic/LocalAccessible.cpp#916-927
+
+• Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-5ef92c288c3460fd449a39fa45f77477c92e367b08aba710a427ee6c700a0b83L25-R635
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-b5bf30a41d25dcb8316d34c4548321578df48e096a16e80550c11c68df3a1881
+
+1108378 - Do not expose the <mphantom> element to the accessible tree
+https://bugzilla.mozilla.org/show_bug.cgi?id=1108378
+
+Should all MathML elements really be potential hyperlinks / match :visited? · Issue #142 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/142#issuecomment-3510115903
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+Buildbot
+https://ews-build.webkit.org/#/builders/169/builds/43332
+
+/Volumes/Data/worker/Apple-iOS-26-Safer-CPP-Checks-EWS/build/Source/WebCore/html/HTMLFormElement.cpp
+https://ews-build.s3-us-west-2.amazonaws.com/Apple-iOS-26-Safer-CPP-Checks-EWS/4ff7586b-49832/scan-build-output/StaticAnalyzerRegressions/WebCore/StaticAnalyzerReports/report-HTMLFormElement.cpp-namedElements-9-5548f7.html#EndPath
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/152533
+
+Layout Test Results from 01:08AM on August 27, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/GTK-WK2-Tests-EWS/4ff7586b-152533-repeat-failures-without-change/results.html
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/152533
+
+Should all MathML elements really be potential hyperlinks / match :visited? · Issue #142 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/142#issuecomment-3510115903
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+Buildbot
+https://ews-build.webkit.org/#/builders/154/builds/45477
+
+browser_test_scroll_display_contents.js - mozsearch
+https://searchfox.org/firefox-main/source/accessible/tests/browser/bounds/browser_test_scroll_display_contents.js#17,42
+
+browser_selectables.js - mozsearch
+https://searchfox.org/firefox-main/source/accessible/tests/browser/mac/browser_selectables.js#23
+
+getSelectedIds (browser_selectables.js - mozsearch)
+https://searchfox.org/firefox-main/source/accessible/tests/browser/mac/browser_selectables.js#23
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-5403085372
+
+319107 – AX: WebKit should only expose href-less SVG anchors as links if they have a click handler (matching HTML anchors)
+https://bugs.webkit.org/show_bug.cgi?id=319107
+
+AX: WebKit should only expose href-less SVG anchors as links if they have a click handler (matching HTML anchors) by AndrewJMart · Pull Request #70287 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/70287
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-5403085372
+
+m:a:DocAccessible::UpdateAccessibleOnAttrChange (DocAccessible.cpp - mozsearch)
+https://searchfox.org/firefox-main/source/accessible/generic/DocAccessible.cpp#2183-2198
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/aria/core-aam/#role-map-link
+
+Core Accessibility API Mappings 1.2
+https://w3c.github.io/aria/core-aam/#role-map-link
+
+2047314 - Consider implementing `NSAccessibilityEmptyGroupSubrole` for AXGroups without children
+https://bugzilla.mozilla.org/show_bug.cgi?id=2047314
+
+browser_roles_elements.js - mozsearch
+https://searchfox.org/firefox-main/source/accessible/tests/browser/mac/browser_roles_elements.js
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Resync `resource-timing` from WPT Upstream by tannal · Pull Request #71836 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71836/changes#diff-d5a6f2d669c3f07b7f6add7a055aa20e0d3cedc596b6a1282f40dcf46729f7d7
+
+Time tracking (week of Aug 31, 2026)
+https://hours.igalia.com/time/week/2026-09-06
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-08-28&user=344
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-maction
+
+Accessibility - MozillaWiki
+https://wiki.mozilla.org/Accessibility
+
+atkrole.h - Google 搜索
+https://www.google.com/search?q=atkrole.h&oq=atkrole.h&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBDIHCAUQABjvBdIBCDI2MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+⚙ D317723 Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://phabricator.services.mozilla.com/D317723
+
+Element.cpp - mozsearch
+https://searchfox.org/firefox-main/rev/18b3e92af1f0ee311aa464a6e14bea1b5a97bb1e/content/base/src/Element.cpp#2293
+
+<frame> HTML frame element - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/frame
+
+⚙ D273393 Bug 1085214 - Implement location.ancestorOrigins r=smaug!
+https://phabricator.services.mozilla.com/D273393
+
+⚙ D220507 Bug 1915523 - Fix callback function for saving canvas as image r=niklas
+https://phabricator.services.mozilla.com/D220507
+
+[mathml] Implement download attribute for MathML a element (7969459) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7969459
+
+HTML Standard
+https://html.spec.whatwg.org/#shared-attribute-processing-steps-for-iframe-and-frame-elements
+
+Referrer Policy Cross-Engine Test
+http://localhost:8000/test.html
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592
+
+HTML Standard
+https://html.spec.whatwg.org/#built-in-navigating-url-attributes-list
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+[MathML] Add a test to trigger click from a keydown event (8253691) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[SVG] Support `ping`, `hreflang`, `type` and `referrerPolicy` for SVGAElement (7008071) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7008071
+
+Rename DOMURLUtils and DOMURLUtilsReadOnly (8220668) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8220668
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role?label=pr_head&max-count=1&pr=61018
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+Re: [whatwg/html] Add MathML `<a>` handling to sanitization algorithms (PR #12592) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVftzGzbdQsXNpSMCrnxMCXt
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39#issuecomment-5403085372
+
+(2) Igalia Webmail :: Search result
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX#
+
+⚙ D323149 Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,#layout-reviewers
+https://phabricator.services.mozilla.com/D323149#11226382
+
+⚙ D323149 Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,#layout-reviewers
+https://phabricator.services.mozilla.com/D323149#11226382
+
+2068544 - Simplify the code path for referrerpolicy parsing
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068544
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141?tab=comments
+
+⚙ D317723 Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://phabricator.services.mozilla.com/D317723#inline-1724160
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-annotation
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+Core Accessibility API Mappings 1.2
+https://www.w3.org/TR/core-aam-1.2/#role-map-link
+
+proper solutions zhongwen 中文 - Google 搜索
+https://www.google.com/search?q=proper+solutions+zhongwen+%E4%B8%AD%E6%96%87&sca_esv=b0ffd84ea5b64405&sxsrf=APpeQntRrWaGUY6MB9pOMxHjb0oSrthsLA%3A1787310287697&ei=zzCIaoeOKvPckPIP8Y3f2Q0&biw=1850&bih=932&oq=proper+solutions+zhongwen&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXByb3BlciBzb2x1dGlvbnMgemhvbmd3ZW4qAggAMgUQIRigAUiWMVCLAVjXKnABeAGQAQCYAY8DoAHAEaoBBTItNi4yuAEDyAEA-AEBmAIJoALrEcICChAAGLADGNYEGEfCAg4QABiwAxjkAhjWBNgBAcICFxAuGLADGLgGGNgCGMgDGNoGGNwG2AEBwgIOEC4YgAQYxwEYywEYrwHCAggQABiABBjLAcICBBAAGB7CAgYQABgKGB7CAgcQIRigARgKmAMAiAYBkAYQugYGCAEQARgJkgcJMS4wLjYuMS4xoAfdE7IHBzItNi4xLjG4B-YRwgcFMC42LjPIBxiACAA&sclient=gws-wiz-serp
+
+322327 – Some WPT tests for MathML a element timing out.
+https://bugs.webkit.org/show_bug.cgi?id=322327
+
+Buildbot
+https://ews-build.webkit.org/#/builders/159/builds/56900
+
+s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/3dcbe009-56900.txt
+https://s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/3dcbe009-56900.txt
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role?label=pr_head&max-count=1&pr=61018
+
+wpt/docs/running-tests/safari.md at master · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/blob/master/docs/running-tests/safari.md#safari
+
+european - Google 搜索
+https://www.google.com/search?gs_ssp=eJzj4tDP1TcwyrKsMmD04kgtLcovSE3MAwA7SQY_&q=european&oq=Europ&gs_lcrp=EgZjaHJvbWUqBwgBEC4YgAQyBggAEEUYOTIHCAEQLhiABDINCAIQLhjHARjRAxiABDINCAMQLhjHARjRAxiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEIODAzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+Buildbot
+https://ews-build.webkit.org/#/builders/159/builds/56907
+
+s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/ab2346a5-56907.txt
+https://s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/ab2346a5-56907.txt
+
+Buildbot
+https://ews-build.webkit.org/#/builders/159/builds/56906
+
+s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/41c77333-56906.txt
+https://s3-us-west-2.amazonaws.com/ews-archives.webkit.org/ios-26-arm64-release-compile-webkit/41c77333-56906.txt
+
+Promise() constructor - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise
+
+tannal/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/tannal/WebKit
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+Building Firefox On macOS — Firefox Source Docs documentation
+https://firefox-source-docs.mozilla.org/setup/macos_build.html
+
+Architecture - The Servo Book
+https://book.servo.org/design-documentation/architecture.html
+
+1422913 - Come up with a general rule when name change event should fire for cases where it is generated from subtree.
+https://bugzilla.mozilla.org/show_bug.cgi?id=1422913
+
+1723614 - Make name change events more reliable and use them in markup name tests
+https://bugzilla.mozilla.org/show_bug.cgi?id=1723614
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-mtable
+
+MathML Core
+https://w3c.github.io/mathml-core/#semantics-and-presentation
+
+⚙ D315266 Bug 2059312 - Part 2: Add MathMLAnchorElement class and WebIDL bindings r=emilio,fredw
+https://phabricator.services.mozilla.com/D315266
+
+typst/crates/typst-layout/src/math/fraction.rs at ce2cee5e39246dc70beac6e0ad58d9578c1c9233 · typst/typst
+https://github.com/typst/typst/blob/ce2cee5e39246dc70beac6e0ad58d9578c1c9233/crates/typst-layout/src/math/fraction.rs
+
+feat(vello_cpu): Image Filters (Filter Effects) implementation by grebmeg · Pull Request #1286 · linebender/vello
+https://github.com/linebender/vello/pull/1286
+
+[Sanitizer] Add WPT to verify stripping unsafe attributes for MathML a element (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[MathML] Add a test to trigger click from a keydown event (8253691) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253691?tab=comments
+
+Should <a> element navigate to javascript:-URLs when clicking ? · Issue #333 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/333
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=mphantom&op=translate
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703
+
+Igalia Meetings
+https://meetings.igalia.com/
+
+movable limits mathml core - Google 搜索
+https://www.google.com/search?q=movable+limits+mathml+core&oq=movable+limits+mathml+core&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRiPAjIHCAMQIRiPAjIHCAQQIRiPAtIBCDY3MjBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=emilio&op=translate
+
+MathML attributes percentage and numeric overflow handling
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+MathML mpadded and layout attributes overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+1935717 - vi and vb CSS units in MathML should depend on their element's inline and block axes/writing mode
+https://bugzilla.mozilla.org/show_bug.cgi?id=1935717
+
+MathML mpadded and layout attributes overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+MathML mpadded and layout attributes overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+2067526 - Integer overflow in nsMathMLmpaddedFrame::UpdateValue, NSToCoordRound used without bounds clamp
+https://bugzilla.mozilla.org/show_bug.cgi?id=2067526
+
+MathML mpadded and layout attributes numerical overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+test.html
+file:///home/tannal/tannalwork/projects/firefox/test.html
+
+w3c/mathml-aam: Accessibility API Mappings for MathML
+https://github.com/w3c/mathml-aam
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role/mathml-role.py?label=pr_head&max-count=1&pr=61018
+
+Mapping for math and mphantom tags are missing · Issue #9 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/9
+
+Mapping for math and mphantom tags are missing · Issue #9 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/9
+
+AXSubrole of <annotation> · Issue #14 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/14
+
+Mapping for math and mphantom tags are missing · Issue #9 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/9
+
+Map MathML elements to specific roles (3207929) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/3207929
+
+Meng Fred | Igalia Meetings
+https://meetings.igalia.com/meng-fred
+
+收件箱 (8) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340
+
+Enter Bug: Core
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Core&component=SVG
+
+2046608 - Run aamtests in treeherder
+https://bugzilla.mozilla.org/show_bug.cgi?id=2046608
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-573219d57f686da037d48ac92e1556c7aa6c64cd8c7f3a2d8256ab1f834384fb
+
+⚙ D73636 Bug 1635094 - Cleanup the ReferrerInfo code. r=ckerschb
+https://phabricator.services.mozilla.com/D73636
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+MathML mpadded and layout attributes numerical overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+upgrade xcode - Google 搜索
+https://www.google.com/search?q=upgrade+xcode&oq=upgrade+xcode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQRRgnGDsyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMgYIBxAAGB4yBggIEAAYHjIGCAkQABge0gEINjAxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+An update on our committer process
+https://groups.google.com/a/chromium.org/g/chromium-dev/c/w4p16_lr6QM/m/HwoNrVz3BwAJ
+
+Become a Committer
+https://www.chromium.org/getting-involved/become-a-committer/
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Week-14
+
+owner:mtan@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:mtan@igalia.com
+
+…/a-referrerpolicy-getter-setter.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141/5/third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/a-referrerpolicy-getter-setter.html#23
+
+Layout Tests
+file:///home/tannal/tannalwork/projects/chromium/src/out/Default/layout-test-results/results.html
+
+MathML Core
+https://w3c.github.io/mathml-core/#dfn-referrerpolicy
+
+Introduce MathMLAnchorElement interface by lukewarlow · Pull Request #326 · w3c/mathml-core
+https://github.com/w3c/mathml-core/pull/326/changes
+
+Linking — SVG 2
+https://svgwg.org/svg2-draft/linking.html#XLinkRefAttrs
+
+2068544 - Simplify the code path for referrerpolicy parsing
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068544
+
+<form> HTML form element - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/form
+
+PROOF|0/5|x1=246.1|x3a=208.7|x3b=208.0|y4=1.0|x5a=84.2|x5b=384.2
+https://bug2067526.bmoattachments.org/attachment.cgi?id=9632325
+
+layout reviewers firefox - Google 搜索
+https://www.google.com/search?q=layout+reviewers+firefox&oq=layout+reviewers+firefox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRiPAtIBCDU2NjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+⚙ D323149 Bug 2067526 - Avoid integer overflow when layouting mpadded using voffset or lspace. r=emilio,fredw,#layout-reviewers
+https://phabricator.services.mozilla.com/D323149
+
+New issue - Chromium
+https://issues.chromium.org/issues/wizard
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+Add fuzzer support in servo · servo/servo@4e16722
+https://github.com/servo/servo/commit/4e16722556ec10dd68cdf1cdb991b8c4ff6312b4#diff-b4c3d2ab5a66abf646ece500d1b83d1f561c7d68f2565ef3d8073f4abbdd7023
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing#generating-test-cases
+
+rust-fuzz/libfuzzer: Rust bindings and utilities for LLVM’s libFuzzer
+https://github.com/rust-fuzz/libfuzzer
+
+rust-fuzz/libfuzzer: Rust bindings and utilities for LLVM’s libFuzzer
+https://github.com/rust-fuzz/libfuzzer
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
+
+Resync `mathml` from WPT Upstream by tannal · Pull Request #71837 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71837
+
+321996 – Resync `mathml` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+WebKit Bugzilla
+https://bugs.webkit.org/
+
+321996 – Resync `mathml` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+
 # 2026-08-19
 
 Igalia-work - Google Gemini
