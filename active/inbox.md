@@ -1,6 +1,10 @@
 
 # 2026-09-07
 
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html \
+  fuzz/corpus/servo_parse_html/ \
+  -- -jobs=4 -workers=4 -dict=fuzz/mathml.dict
+
 git rebase-update
 git rebase-update -n
 
