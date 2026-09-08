@@ -772,7 +772,7 @@ git checkout -b mathml-a-keydown mathml-a-rel
 
 git diff --name-only origin/master..HEAD | xargs sed -i 's/[ \t]*$//'
 
-git branch --format="%(refname:short)" | grep -v "^main$" | xargs -I {} git rebase --onto origin/master origin/master {}
+git branch --format="%(refname:short)" | grep -v "^master$" | xargs -I {} git rebase --onto origin/master origin/master {}
 
 owner:mkwst@chromium.org
 
