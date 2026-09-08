@@ -1,6 +1,8 @@
 
 # 2026-09-07
 
+git branch --set-upstream-to=origin/main
+
 git checkout -p mathml-aam-mappings@{4} -- accessible/base/MathMLMarkupMap.inc
 
 git diff mathml-aam-mappings@{4} mathml-aam-mappings@{1}
