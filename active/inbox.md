@@ -1,4 +1,16 @@
 
+
+Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+
+When javascriptURLs is set to false, unsafe methods will remove javascript URLs from the input.
+
+In Safe methods javascript URLs always be removed regardless of config.
+
+Implements https://github.com/whatwg/html/pull/12898
+
+WPT: https://github.com/web-platform-tests/wpt/pull/62421
+
+
 # 2026-09-07
 
 git branch --set-upstream-to=origin/main
