@@ -1,5 +1,8 @@
 
 
+# 2026-09-08
+
+
 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
 
 When javascriptURLs is set to false, unsafe methods will remove javascript URLs from the input.

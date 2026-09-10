@@ -1,4 +1,360 @@
 
+# 2026-09-10
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+DOM Standard
+https://dom.spec.whatwg.org/#ref-for-eventtarget-activation-behavior%E2%91%A2
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/interaction.html#activation
+
+Igalia Chat [2] | CE Students 2026 < Igalia
+https://chat.igalia.com/#/room/!bivFuvgpFRxBFsqxpO:igalia.com
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577
+
+Test that javascriptURLs is in the sanitizer config by noamr · Pull Request #62421 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62421/changes#diff-7104e7a443bf2a556b799f288729b087e4e4729021e28ff4c06929e25098e390
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?checksRunsSelected=android-arm64-rel&tab=comments
+
+failed - android-x64-rel 1124901
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/1124901/overview
+
+chromium | buildbucket/cr-buildbucket/8671252556250887249/+/u/android_chrome_wpt_tests__with_patch__on_Ubuntu-22.04/stdout | LogDog
+https://logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8671252556250887249/+/u/android_chrome_wpt_tests__with_patch__on_Ubuntu-22.04/stdout
+
+succeeded - android-arm64-rel 1635226
+https://ci.chromium.org/ui/p/chromium/builders/try/android-arm64-rel/1635226/overview
+
+Task Page - Swarming
+https://chromium-swarm.appspot.com/task?id=7a986597ab8b0411&o=true&w=true
+
+owner:cemase@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:cemase@igalia.com
+
+invoice002 (2).pdf
+file:///home/tannal/Downloads/invoice002%20(2).pdf
+
+Become a Committer
+https://www.chromium.org/getting-involved/become-a-committer/
+
+2064084 - Commit Access (Level 1) for Javier Fernandez <jfernandez@igalia.com>
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064084
+
+servo/etc/devtools_parser.py at 3a35f8c5a2e84eadfd35ce99efd85c17991fe84f · servo/servo
+https://github.com/servo/servo/blob/3a35f8c5a2e84eadfd35ce99efd85c17991fe84f/etc/devtools_parser.py#L27
+
+rust-ammonia/rust-content-security-policy: Parse and validate Web Content-Security-Policy level 3
+https://github.com/rust-ammonia/rust-content-security-policy
+
+Fuzzing dictionary | Testing Handbook
+https://appsec.guide/docs/fuzzing/techniques/dictionary/#generating-a-dictionary
+
+lib.rs - source
+https://docs.rs/content-security-policy/latest/src/content_security_policy/lib.rs.html
+
+Chromium Code Search
+https://source.chromium.org/search?q=%22AFL%20dictionary%22&ss=chromium%2Fchromium%2Fsrc&start=1
+
+pdf_codec_gif.dict - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:pdf/pdfium/fuzzers/dicts/pdf_codec_gif.dict?q=dict&ss=chromium%2Fchromium%2Fsrc&start=51
+
+targets/common/seeds at master · rust-fuzz/targets
+https://github.com/rust-fuzz/targets/tree/master/common/seeds
+
+targets/fuzzer-libfuzzer at master · rust-fuzz/targets
+https://github.com/rust-fuzz/targets/tree/master/fuzzer-libfuzzer
+
+Structure-Aware Fuzzing - Rust Fuzz Book
+https://rust-fuzz.github.io/book/cargo-fuzz/structure-aware-fuzzing.html
+
+dictionaries/html_tags.dict at main · salmonx/dictionaries
+https://github.com/salmonx/dictionaries/blob/main/html_tags.dict
+
+dictionaries/html_tags.dict at main · salmonx/dictionaries
+https://github.com/salmonx/dictionaries/blob/main/html_tags.dict
+
+dictionaries/html_tags.dict at main · salmonx/dictionaries
+https://github.com/salmonx/dictionaries/blob/main/html_tags.dict
+
+2067526 - Integer overflow in nsMathMLmpaddedFrame::UpdateValue, NSToCoordRound used without bounds clamp
+https://bugzilla.mozilla.org/show_bug.cgi?id=2067526
+
+2067569 - NSToCoordRound without clamp in ParseAndCalcNumericValue causes UB on percentage MathML attributes
+https://bugzilla.mozilla.org/show_bug.cgi?id=2067569
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-09-08&user=344
+
+Time tracking (week of Sep 07, 2026)
+https://hours.igalia.com/time/week/2026-09-13
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+2064612 - Support download, ping, rel, relList and referrerPolicy attributes for MathMLAnchorElement
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064612
+
+Move attributes to shared HyperlinkElementUtils mixin [557983050] - Chromium
+https://issues.chromium.org/issues/557983050
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+321996 – Resync `mathml` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=321996
+
+323576 – Resync `dom` from WPT Upstream
+https://bugs.webkit.org/show_bug.cgi?id=323576
+
+webmail.igalia.com
+https://webmail.igalia.com/?_task=mail&_mbox=Spam
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577
+
+[Sanitizer] Add WPT to verify stripping unsafe attributes for MathML a element (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842?tab=comments
+
+2069821 - Commit Access (Level 1) for Meng Tan (mtan@igalia.com)
+https://bugzilla.mozilla.org/show_bug.cgi?id=2069821
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703#inline-1729438
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=checks
+
+Testing in Chromium - Running Web Platform Tests with run_wpt_tests.py
+https://chromium.googlesource.com/chromium/src/+/HEAD/docs/testing/run_web_platform_tests.md
+
+failed - android-x64-rel b8671252556250887249
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/b8671252556250887249/test-results?q=ExactID%3A%3A%2F%2Fchrome%2Fandroid%5C%3Achrome_public_wpt%21webtest%3A%3Aexternal%2Fwpt%2Fsvg%23idlharness.window.html+VHash%3Ae118560180b4bfe7&clean=
+
+failed - android-x64-rel 1123981
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/1123981/test-results
+
+failed - android-x64-rel b8671322507484857281
+https://ci.chromium.org/ui/p/chromium/builders/try/android-x64-rel/b8671322507484857281/test-results?q=ExactID%3A%3A%2F%2Fchrome%2Fandroid%5C%3Achrome_public_wpt%21webtest%3A%3Aexternal%2Fwpt%2Fsvg%23idlharness.window.html+VHash%3Ae118560180b4bfe7&clean=
+
+…/builtins_default_config.json · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/1/third_party/blink/renderer/core/sanitizer/builtins_default_config.json
+
+Test that javascriptURLs is in the sanitizer config by noamr · Pull Request #62421 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62421/changes#diff-7104e7a443bf2a556b799f288729b087e4e4729021e28ff4c06929e25098e390
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703#11224429
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+failed - mac-rel b8671328387648496641
+https://ci.chromium.org/ui/p/chromium/builders/try/mac-rel/b8671328387648496641/test-results?q=ExactID%3A%3A%2F%2F%5C%3Aheadless_shell_wpt%21webtest%3A%3Aexternal%2Fwpt%2Fsvg%23idlharness.window.html+VHash%3Ac8b1114aed73a6a8&clean=
+
+…/sanitizer-javascript-url.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/3/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-javascript-url.html
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement (8253141) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253141
+
+…/sanitizer-mathml-a.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842/3/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-mathml-a.html#64
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703#inline-1725536
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703#11224429
+
+Resync `mathml` from WPT Upstream by tannal · Pull Request #71837 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71837/changes#diff-0b438e462819a7b0d06250189152c7bcfb07b7c39acd73938bdfccc7b25b8058
+
+322327 – Some WPT tests for MathML a element timing out.
+https://bugs.webkit.org/show_bug.cgi?id=322327
+
+Enter Bug: WebKit
+https://bugs.webkit.org/enter_bug.cgi?product=WebKit&component=New+Bugs
+
+281223 – [meta] Implement atomic moveBefore() API
+https://bugs.webkit.org/show_bug.cgi?id=281223
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+Resync `dom` from WPT Upstream by tannal · Pull Request #73383 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73383/changes#diff-99101d4ddcd61aee9a8f23d1dbf725ac48ec1b354367053c3ed0b9e347fedaa4
+
+Buildbot
+https://ews-build.webkit.org/#/builders/170/builds/41575
+
+Buildbot
+https://ews-build.webkit.org/#/builders/1/builds/154308
+
+Layout Test Results from 09:44PM on September 06, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/GTK-WK2-Tests-EWS/a207840e-154308-repeat-failures/results.html
+
+Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+[Sanitizer] Add WPT to verify stripping unsafe attributes for MathML a element (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842?tab=comments
+
+HTML Standard
+https://html.spec.whatwg.org/#links-created-by-a-and-area-elements
+
+Resync `dom` from WPT Upstream by tannal · Pull Request #73383 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73383
+
+Buildbot
+https://ews-build.webkit.org/#/builders/161/builds/49788
+
+ews-build.s3-us-west-2.amazonaws.com/macOS-Tahoe-Debug-WK2-Tests-EWS/5b44f7db-49788-rerun/imported/w3c/web-platform-tests/dom/nodes/moveBefore/slotchange-events-crash-log.txt
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Tahoe-Debug-WK2-Tests-EWS/5b44f7db-49788-rerun/imported/w3c/web-platform-tests/dom/nodes/moveBefore/slotchange-events-crash-log.txt
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+2068544 - Simplify the code path for referrerpolicy parsing
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068544
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+googleprojectzero/domato: DOM fuzzer
+https://github.com/googleprojectzero/domato
+
+fuzzing/tutorial/libFuzzerTutorial.md at master · google/fuzzing
+https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md
+
+fuzzing/tutorial/libFuzzerTutorial.md at master · google/fuzzing
+https://github.com/google/fuzzing/blob/master/tutorial/libFuzzerTutorial.md
+
+Efficient Fuzzer Guide
+https://chromium.googlesource.com/chromium/src/+/70.0.3538.102/testing/libfuzzer/efficient_fuzzer.md#fuzzer-dictionary
+
+libFuzzer Dictionary Support · Issue #188 · CodeIntelligenceTesting/jazzer
+https://github.com/CodeIntelligenceTesting/jazzer/issues/188
+
+tannal/servo at fuzz
+https://github.com/tannal/servo/tree/fuzz
+
+2069821 - Commit Access (Level 1) for Meng Tan (mtan@igalia.com)
+https://bugzilla.mozilla.org/show_bug.cgi?id=2069821
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=accountant&op=translate
+
+Re: [whatwg/html] Add MathML `<a>` handling to sanitization algorithms (PR #12592) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMVftzGzbdQsXNpSMCrnxMCXt
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592#pullrequestreview-5130338985
+
+[dom] Introduce HyperlinkElementUtils for hyperlink elements (7899676) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7899676
+
+Chromium Blog: Intent to Explain: Demystifying the Blink Shipping Process
+https://blog.chromium.org/2019/11/intent-to-explain-demystifying-blink.html
+
+Running an Origin Trial
+https://www.chromium.org/blink/origin-trials/running-an-origin-trial/
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+HTML Standard
+https://html.spec.whatwg.org/#remove-unsafe
+
+sanitizer-javascript-url.html - mozsearch
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/sanitizer-api/sanitizer-javascript-url.html
+
+HTML Standard
+https://html.spec.whatwg.org/#canonicalize-the-configuration
+
+Sanitizer: add javascriptURLs option to SanitizerConfig and Sanitizer by noamr · Pull Request #12898 · whatwg/html
+https://github.com/whatwg/html/pull/12898
+
+Sanitizer: add javascriptURLs option to SanitizerConfig and Sanitizer by noamr · Pull Request #12898 · whatwg/html
+https://github.com/whatwg/html/pull/12898
+
+Test that javascriptURLs is in the sanitizer config by noamr · Pull Request #62421 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62421/changes#diff-a291a92ff6a7d804f8727ea3e51167886184beb8aaf3c7ae273c54360ca38733
+
+Sanitizer: add javascriptURLs option to SanitizerConfig and Sanitizer by noamr · Pull Request #12898 · whatwg/html
+https://github.com/whatwg/html/pull/12898
+
+2068934 - Sanitizer API: javascript URL handling should be part of the config
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068934
+
+User Profile: Tom Schuster <tschuster@mozilla.com>
+https://bugzilla.mozilla.org/user_profile?user_id=703078
+
+Sanitizer API: javascript URL handling should be part of the configuration [556269543] - Chromium
+https://issues.chromium.org/issues/556269543
+
+Test that javascriptURLs is in the sanitizer config by noamr · Pull Request #62421 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62421
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=striping%20out&op=translate
+
+Re: [w3c/svgwg] Swap SVGAElement to the new HyperlinkElementUtils (PR #1052) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWLRLGrVBwNMPxGVHJPxzJwQW
+
+Swap SVGAElement to the new HyperlinkElementUtils by lukewarlow · Pull Request #1052 · w3c/svgwg
+https://github.com/w3c/svgwg/pull/1052
+
+Test that javascriptURLs is in the sanitizer config by noamr · Pull Request #62421 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62421
+
+Sanitizer: fix the javascript: URL tests and cover the default configuration by annevk · Pull Request #62564 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62564/changes
+
+HTML Standard
+https://html.spec.whatwg.org/#dom-sanitizer-constructor
+
+HTML Sanitizer API
+https://pr-preview.s3.amazonaws.com/otherdaniel/purification/pull/254.html#sanitizerconfig-get-a-sanitizer-instance-from-options
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128
+
+Swap SVGAElement to the new HyperlinkElementUtils - Chrome Platform Status
+https://chromestatus.com/feature/5990570242736128/stage/5635603040436224/intent
+
+我的群组
+https://groups.google.com/
+
+Intent to Prototype: Trusted Types support in CSP Embedded Enforcement
+https://groups.google.com/u/1/a/chromium.org/g/blink-dev/c/H-i9_ZsT6CU
+
+CSP Embedded Enforcement (CSPEE) does not support Trusted Types CSP directives [40912894] - Chromium
+https://issues.chromium.org/issues/40912894
+
+CSP Embedded Enforcement (CSPEE) does not support Trusted Types CSP directives [40912894] - Chromium
+https://issues.chromium.org/issues/40912894
+
 # 2026-09-07
 
 Igalia-work - Google Gemini
