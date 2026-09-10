@@ -1,4 +1,17 @@
 
+# 2026-09-10
+
+Xcode 26.3
+Build version 17C529
+swift-driver version: 1.127.15 Apple Swift version 6.2.4 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+Target: x86_64-apple-macosx26.0
+/Applications/Xcode.app/Contents/Developer
+
+xcodebuild -version
+swift --version
+xcode-select -p
+
+sudo xcode-select -switch /Applications/Xcode.app
 
 # 2026-09-08
 
@@ -55,13 +68,13 @@ git rebase-update -n
 
 Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/dom
 
-[Weekly report 13]
+[Weekly report 14]
 
-Worked hours: 15h:15min
+Worked hours: 30h:15min
 
 Tasks:
 
-Wrote browser a11y tests for the MathML role mapping patch in firefox [1]
+Implemented javascriptUrls configuration in Firefox sanitizer api [1]
 
 Fixed the CI for mac and ios for the MathMLAnchorElement IDL PR in WebKit [2]
 
