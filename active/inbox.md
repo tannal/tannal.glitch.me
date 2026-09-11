@@ -1,5 +1,11 @@
 
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run html_parser_target   fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4
+
 # 2026-09-10
+
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run html_parser_target   fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4 -dict=fuzz/dicts/mathml.dict -use_value_profile=1
 
 Xcode 26.3
 Build version 17C529
