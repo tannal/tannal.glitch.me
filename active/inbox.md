@@ -1,4 +1,7 @@
 
+# 2026-09-11
+
+ServoParser::parse_html_document
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run html_parser_target   fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4
 
