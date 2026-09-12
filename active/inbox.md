@@ -1,5 +1,13 @@
 
 
+# 2026-09-13
+
+Sanitizer: Add javascript: URL tests for all MathML elements
+
+A minimal test for https://github.com/whatwg/html/pull/12592
+
+The end to end tests that verify the navigation can not happen will come with https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
 # 2026-09-12
 
 
