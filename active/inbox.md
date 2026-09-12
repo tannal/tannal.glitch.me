@@ -2,6 +2,13 @@
 
 # 2026-09-13
 
+./mach wpt testing/web-platform/tests/sanitizer-api/ --log-raw wpt.log
+./mach wpt-update wpt.log
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=2062652
+
+sanitize while parsing.
+
 rm -rf ~/.mozbuild/srcdirs/firefox-662736400416/_virtualenvs/
 
 git fetch origin
