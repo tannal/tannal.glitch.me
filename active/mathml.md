@@ -1156,7 +1156,7 @@ def main():
         return
 
     # 检索 Downloads 下所有 EWS 相关的 zip 包
-    zip_files = list(DOWNLOADS_DIR.glob("*.zip"))
+    zip_files = list(DOWNLOADS_DIR.glob("*a207840e*.zip"))
     
     if not zip_files:
         print("💡 ~/Downloads 目录下没有找到任何 .zip 文件")

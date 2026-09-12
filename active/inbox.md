@@ -2,6 +2,19 @@
 
 # 2026-09-13
 
+rm -rf ~/.mozbuild/srcdirs/firefox-662736400416/_virtualenvs/
+
+git fetch origin
+git branch --format="%(refname:short)" | xargs -I {} git rebase origin/main {}
+
+mv ~/.config/Code/User/globalStorage/state.vscdb.bak ~/.config/Code/User/globalStorage/state.vscdb
+
+mv ~/.config/Code/User/globalStorage/state.vscdb ~/.config/Code/User/globalStorage/state.vscdb.bak
+
+sudo fc-cache -r -v
+
+code firefox/ --verbose --disable-extensions 2>&1 | tee code.log
+
 code --disable-extensions --new-window
 
 Sanitizer: Add javascript: URL tests for all MathML elements
