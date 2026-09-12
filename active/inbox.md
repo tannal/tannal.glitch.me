@@ -2,6 +2,8 @@
 
 # 2026-09-13
 
+code --disable-extensions --new-window
+
 Sanitizer: Add javascript: URL tests for all MathML elements
 
 A minimal test for https://github.com/whatwg/html/pull/12592
@@ -182,7 +184,7 @@ Fix up the mathml-aam spec, make the tests/spec/implementations align on all thr
 
 Fix ATKTable not implemented in Chromium on Linux
 
-See if need to rasing more coverage in mathml_anchor_element in Chromium
+MoveBefore and Sanitizer API is not implemented in WebKit
 
 Links:
 
