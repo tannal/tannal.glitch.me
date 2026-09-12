@@ -1,4 +1,71 @@
 
+
+# 2026-09-12
+
+
+```json
+{
+  "name": "a",
+  "namespace": "http://www.w3.org/1998/Math/MathML",
+  "attributes": [
+    {
+      "name": "href",
+      "namespace": null
+    },
+    {
+      "name": "hreflang",
+      "namespace": null
+    },
+    {
+      "name": "type",
+      "namespace": null
+    }
+  ]
+},
+```
+
+```js
+const baseProbes = [
+    '<a href="javascript:alert(1)"></a>',
+    '<area href="javascript:alert(1)"></area>',
+    '<button formaction="javascript:alert(1)"></button>',
+    '<form action="javascript:alert(1)"></form>',
+    '<input formaction="javascript:alert(1)"></input>',
+    '<svg><a href="javascript:alert(1)"></a></svg>',
+    '<svg><a xlink:href="javascript:alert(1)"></a></svg>',
+    '<svg><animate attributeName="href"></svg>',
+    '<svg><animate attributeName="xlink:href"></svg>',
+    '<svg><animateMotion attributeName="href"></svg>',
+    '<svg><animateMotion attributeName="xlink:href"></svg>',
+    '<svg><animateTransform attributeName="href"></svg>',
+    '<svg><animateTransform attributeName="xlink:href"></svg>',
+    '<svg><set attributeName="href"></svg>',
+    '<svg><set attributeName="xlink:href"></svg>',
+    '<a href="JaVaScRiPt:alert(1)"></a>',
+    '<a href=" javascript:alert(1)"></a>',
+    '<a href="&#10;javascript:alert(1)"></a>',
+    '<a href="java&#9;script:alert(1)"></a>',
+    '<svg><a xlink:href="java&#9;script:alert(1)"></a></svg>',
+  ];
+
+const mathmlProbes = Object.keys(MathMLFragments).flatMap(tag => [
+    `<math><${tag} href="javascript:alert(1)"></${tag}></math>`,
+    `<math><${tag} xlink:href="javascript:alert(1)"></${tag}></math>`
+  ]);
+
+const probes = [...baseProbes, ...mathmlProbes];
+```
+
+```html
+<meta name="timeout" content="long">
+
+<meta name="variant" content="?target=html">
+<meta name="variant" content="?target=svg">
+<meta name="variant" content="?target=mathml">
+```
+
+
+
 # 2026-09-11
 
 ServoParser::parse_html_document
