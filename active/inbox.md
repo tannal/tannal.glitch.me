@@ -1,6 +1,10 @@
 
 # 2026-09-15
 
+git stash push -p
+
+./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver --no-headless --webkit-port gtk 2>&1 | tee log.txt
+
 CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --release
 
 git diff sanitizer-javascript-url@{3} sanitizer-javascript-url@{1}
