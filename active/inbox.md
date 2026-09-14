@@ -184,27 +184,21 @@ Worked hours: 30h:00min
 
 Tasks:
 
-Implemented javascriptUrls configuration in Firefox sanitizer api [1]
+Implemented javascriptUrls configuration in the sanitizer api in Firefox and Chromium [1]
 
 Fixed the CI for mac and ios for the MathMLAnchorElement IDL PR in WebKit [2]
 
-Prototype a a11y mapping PR for WebKit, adding a11y role mapping for MathML a element and other elements in WebKit
-
-The Linux part is mostly done, the next step is the mac part and adding tests for them
-
-Split the WPT in sanitizer API for MathML a element to make the tests merge first [3]
-
-Add a test to trigger click via tab and enter key and clean up some old CLs in Chromium [4] [5]
+Write a test for MathML A to verify the default configuration and a end to end test [3]
 
 Next:
 
-MathML and SVG anchor element don't respect to base element in the document in Chromium
+I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the left 30+ hours.
 
-Fix up the mathml-aam spec, make the tests/spec/implementations align on all three engines/platforms
+Some PRs still not merged, I will devote some time make sure they get reviewed, fixing the CI and merged.[4] [7] [8] [9] [10]
 
-Fix ATKTable not implemented in Chromium on Linux
+There are many TODOs can't be completed on time, so I keep them in the note, sorry! :-) [5]
 
-MoveBefore and Sanitizer API is not implemented in WebKit
+I also drafted a summary of the CE program in the same note [6]
 
 Links:
 
@@ -214,9 +208,19 @@ Links:
 
 [3] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
 
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+[5] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
+
+[6] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
+
+[7] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+
+[9] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[10] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
 # 2026-09-03
 
