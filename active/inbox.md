@@ -24,7 +24,7 @@ Worked hours: 31h:00min
 
 Tasks:
 
-Implemented javascriptUrls configuration in the sanitizer api in Firefox and Chromium [1]
+Create a  [1]
 
 The patch mapping all MathML elements to specific role on Mac and Linux landed [2]
 
