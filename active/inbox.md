@@ -1,5 +1,51 @@
 
 
+# 2026-09-14
+
+[Weekly report 15]
+
+Worked hours: 31h:00min
+
+Tasks:
+
+Implemented javascriptUrls configuration in the sanitizer api in Firefox and Chromium [1]
+
+The patch mapping all MathML elements to specific role on Mac and Linux landed [2]
+
+Write a test for MathML A to verify the default configuration and a end to end test [3]
+
+Next:
+
+I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the last 30+ hours.
+
+Some PRs still not merged, will devote some time make sure they get reviewed, fixing the CI and merged.[4] [5] [6] [7] [8]
+
+There are many TODOs can't be completed on time, so I keep them in the note, sorry! :-) [9]
+
+I also drafted a summary of the CE program in the same note [10]
+
+Links:
+
+[1] https://phabricator.services.mozilla.com/D324577
+
+[2] https://phabricator.services.mozilla.com/D319703
+
+[3] https://github.com/web-platform-tests/wpt/pull/62648
+
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+[7] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[9] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
+
+[10] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
+
 # 2026-09-13
 
 ./mach wpt testing/web-platform/tests/sanitizer-api/ --log-raw wpt.log
@@ -178,7 +224,7 @@ git rebase-update -n
 
 Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/dom
 
-[Weekly report 14]
+[Weekly report 15]
 
 Worked hours: 31h:00min
 
@@ -186,13 +232,13 @@ Tasks:
 
 Implemented javascriptUrls configuration in the sanitizer api in Firefox and Chromium [1]
 
-Fixed the CI for mac and ios for the MathMLAnchorElement IDL PR in WebKit [2]
+The patch mapping all MathML elements to specific role on Mac and Linux in Firefox landed [2]
 
 Write a test for MathML A to verify the default configuration and a end to end test [3]
 
 Next:
 
-I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the left 30+ hours.
+I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the last 30+ hours.
 
 Some PRs still not merged, will devote some time make sure they get reviewed, fixing the CI and merged.[4] [5] [6] [7] [8]
 
@@ -202,9 +248,9 @@ I also drafted a summary of the CE program in the same note [10]
 
 Links:
 
-[1] https://phabricator.services.mozilla.com/D319703
+[1] https://phabricator.services.mozilla.com/D324577
 
-[2] https://github.com/WebKit/WebKit/pull/71827
+[2] https://phabricator.services.mozilla.com/D319703
 
 [3] https://github.com/web-platform-tests/wpt/pull/62648
 
