@@ -1,6 +1,8 @@
 
 # 2026-09-15
 
+CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --release
+
 git diff sanitizer-javascript-url@{3} sanitizer-javascript-url@{1}
 
 if ((aSafe || !mJavascriptURLs) && !remove)
