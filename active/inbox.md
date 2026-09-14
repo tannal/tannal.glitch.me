@@ -180,7 +180,7 @@ Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-plat
 
 [Weekly report 14]
 
-Worked hours: 30h:00min
+Worked hours: 31h:00min
 
 Tasks:
 
@@ -194,11 +194,11 @@ Next:
 
 I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the left 30+ hours.
 
-Some PRs still not merged, I will devote some time make sure they get reviewed, fixing the CI and merged.[4] [7] [8] [9] [10]
+Some PRs still not merged, will devote some time make sure they get reviewed, fixing the CI and merged.[4] [5] [6] [7] [8]
 
-There are many TODOs can't be completed on time, so I keep them in the note, sorry! :-) [5]
+There are many TODOs can't be completed on time, so I keep them in the note, sorry! :-) [9]
 
-I also drafted a summary of the CE program in the same note [6]
+I also drafted a summary of the CE program in the same note [10]
 
 Links:
 
@@ -206,21 +206,21 @@ Links:
 
 [2] https://github.com/WebKit/WebKit/pull/71827
 
-[3] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+[3] https://github.com/web-platform-tests/wpt/pull/62648
 
 [4] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
 
-[5] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
 
-[6] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
 
-[7] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+[7] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
-[8] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
 
-[9] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+[9] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
 
-[10] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+[10] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
 
 # 2026-09-03
 
