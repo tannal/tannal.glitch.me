@@ -1,4 +1,56 @@
 
+
+```
+
+import os, re
+
+def resolve_test_path(test_path):
+    return os.path.join("LayoutTests/", test_path)
+
+tests = [
+    "http/tests/workers/location-readonly.html",
+    "ietestcenter/css3/grid/display-grid-001.htm",
+    "animations/steps-transform-rendering-updates.html",
+    "compositing/layer-creation/no-compositing-for-overlapping-negative-z-siblings.html",
+    "fast/canvas/webgl/composited-alpha-modes-match-drawImage.html",
+    "http/tests/resourceLoadStatistics/operating-dates-all-but-cookies-removed-short-frequency-with-user-interaction-7-days-ago.html",
+    "http/tests/resourceLoadStatistics/operating-dates-all-but-cookies-removed-with-user-interaction-30-days-ago.html",
+    "http/wpt/fetch/local-network-access/document-address-space.html",
+    "imported/w3c/web-platform-tests/cookies/attributes/expires.html",
+    "imported/w3c/web-platform-tests/cookies/attributes/httponly-overwrite.https.window.html",
+    "imported/w3c/web-platform-tests/cookies/path/match-percent-encoded.https.window.html",
+    "imported/w3c/web-platform-tests/cookies/prefix/__host.explicit-path.https.window.html",
+    "imported/w3c/web-platform-tests/css/css-borders/corner-shape/corner-shape-backdrop-filter-overflow.html",
+    "imported/w3c/web-platform-tests/css/css-borders/corner-shape/corner-shape-backdrop-filter.html"
+]
+
+found = False
+count = 0
+for raw_t in tests:
+    t = resolve_test_path(raw_t)
+    
+    if os.path.exists(t):
+        with open(t, "r", errors="ignore") as f:
+            content = f.read()
+            
+        dom_refs = re.findall(r'dom/', content, re.IGNORECASE)
+        count+=1
+        
+        if dom_refs:
+            found = True
+            print(f"❌ 【匹配】{raw_t} (文件: {t}):")
+            for ref in dom_refs:
+                print(f"   └── 引用了: {ref}")
+    else:
+        print(f"⚠️  文件不存在: {t}")
+
+if not found:
+    print("✅ 结果：上述测试用例中，没有任何文件引用了 dom/ 目录下的 JS 脚本！")
+
+print(count == len(tests))
+
+```
+
 ```html
 <!DOCTYPE html>
 <head>
