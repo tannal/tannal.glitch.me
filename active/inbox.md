@@ -1,4 +1,10 @@
 
+# 2026-09-15
+
+moz-phab submit --single --no-wip
+
+./Tools/Scripts/build-webkit --release 2>&1 | tee build.log
+./Tools/Scripts/build-webkit --debug 2>&1 | tee build.log
 
 # 2026-09-14
 
