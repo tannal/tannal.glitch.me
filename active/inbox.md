@@ -1,6 +1,10 @@
 
 # 2026-09-15
 
+git diff sanitizer-javascript-url@{3} sanitizer-javascript-url@{1}
+
+if ((aSafe || !mJavascriptURLs) && !remove)
+
 moz-phab submit --single --no-wip
 
 ./Tools/Scripts/build-webkit --release 2>&1 | tee build.log
