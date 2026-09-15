@@ -1,6 +1,10 @@
 
 # 2026-09-15
 
+git checkout -p main -- Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
+
+git show main:Source/WebCore/accessibility/AccessibilityMathMLElement.cpp | less
+
 git stash push -p
 
 ./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver --no-headless --webkit-port gtk 2>&1 | tee log.txt
