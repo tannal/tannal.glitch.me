@@ -1,6 +1,8 @@
 
 # 2026-09-15
 
+./wpt run chrome mathml-aam/ --no-headless
+
 git checkout -p main -- Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
 
 git show main:Source/WebCore/accessibility/AccessibilityMathMLElement.cpp | less
@@ -22,7 +24,7 @@ moz-phab submit --single --no-wip
 
 # 2026-09-14
 
-[Weekly report 15]
+[Weekly report 16]
 
 Worked hours: 31h:00min
 
