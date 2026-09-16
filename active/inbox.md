@@ -1,8 +1,17 @@
 
-
 # 2026-09-16
 
+curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "日本-HY2-47"}'
+
+日本
+
 288 72
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "美国-TROJAN-53"}'
 
 # 2026-09-15
 
