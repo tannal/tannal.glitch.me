@@ -1,5 +1,12 @@
 
+
+# 2026-09-16
+
+288 72
+
 # 2026-09-15
+
+add_completion_callback((tests, status) => console.log(tests)); 
 
 Reading a little bit of the `html5ever` readme and examples.
 For `html5ever` to work correctly, it requires a separate dom implementation along with the parser.
