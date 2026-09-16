@@ -1,6 +1,18 @@
 
 # 2026-09-15
 
+Reading a little bit of the `html5ever` readme and examples.
+For `html5ever` to work correctly, it requires a separate dom implementation along with the parser.
+Path 1 is providing a dom implementation and fuzzing the `html5ever` library.
+
+Path 2 is to fuzz the servo dom implementation and the integration of the html5ever library.
+This requires init JSContext, window, document correctly, then call `ServoParser::parse_html_document` or similar interface.
+Do you have tips on how to initialize those object when writing the fuzzing target?
+I was trying to find unitests in the servo codebase to get some idea, but it seems there are no such tests in the `components/script` directory.
+
+Also the fuzzing target is outside the `script` crate (even the `servo` crate), but the target code needs to access to types defined in `script` crate
+Is there a
+
 ./wpt run chrome mathml-aam/ --no-headless
 
 git checkout -p main -- Source/WebCore/accessibility/AccessibilityMathMLElement.cpp
@@ -36,6 +48,8 @@ The patch mapping all MathML elements to specific role on Mac and Linux landed [
 
 Write a test for MathML A to verify the default configuration and a end to end test [3]
 
+More things written in the summary of the CE and Future work [8]
+
 Next:
 
 I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the last 30+ hours.
@@ -62,7 +76,7 @@ Links:
 
 [7] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
-[8] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+[8] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
 
 [9] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
 
