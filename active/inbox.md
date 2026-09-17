@@ -1,7 +1,16 @@
 
 # 2026-09-17
 
+CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --debug
 
+Tools/Scripts/analyze-safer-cpp \
+  --clang $(which clang++) \
+  --compile-commands WebKitBuild/GTK/Debug/compile_commands.json \
+  Source/WebCore/html/HTMLFormElement.cpp
+
+UncountedCallArgsChecker
+
+Tools/Scripts/analyze-safer-cpp --compile-commands WebKitBuild/Debug/compile_commands.json Source/WebCore/html/HTMLFormElement.cpp --clang /usr/lib/ccache/clang++
 
 _venv3/
 
