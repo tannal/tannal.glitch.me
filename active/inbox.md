@@ -1,6 +1,15 @@
 
 # 2026-09-17
 
+Tools/Scripts/import-w3c-tests web-platform-tests/mathml-aam/
+
+git fetch origin
+git branch --format="%(refname:short)" | xargs -I {} git rebase --onto origin/master origin/master {}
+
+
+osascript -e 'tell application "Terminal" to do script "cd /Users/mtan/tannalwork/projects/wpt && ./wpt run firefox mathml-aam/ --no-headless"'
+osascript -e 'tell application "Terminal" to do script "cd /Users/mtan/tannalwork/projects/wpt && ./wpt run chrome mathml-aam/ --no-headless"'
+
 CC=clang CXX=clang++ ./Tools/Scripts/build-webkit --gtk --debug
 
 Tools/Scripts/analyze-safer-cpp \
