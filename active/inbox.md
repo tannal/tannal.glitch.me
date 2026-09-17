@@ -1,6 +1,17 @@
 
 # 2026-09-17
 
+cp third_party/blink/web_tests/platform/linux/external/wpt/sanitizer-api/sanitizer-*-expected.txt \
+   third_party/blink/web_tests/external/wpt/sanitizer-api/
+
+git rm -r third_party/blink/web_tests/platform/*/external/wpt/sanitizer-api/
+
+git add third_party/blink/web_tests/external/wpt/sanitizer-api/*-expected.txt
+
+tannal@desktop:~/tannalwork/projects/chromium/src$ third_party/blink/tools/blink_tool.py rebaseline-cl --no-trigger-jobs --builders "linux-rel,mac-rel,win-rel"
+
+third_party/blink/tools/blink_tool.py rebaseline-cl
+
 Tools/Scripts/import-w3c-tests web-platform-tests/mathml-aam/
 
 git fetch origin
