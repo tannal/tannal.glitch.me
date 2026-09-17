@@ -3,7 +3,7 @@
 
 curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
      -H "Content-Type: application/json" \
-     -d '{"name": "美国-TROJAN-54"}'
+     -d '{"name": "美国-HY2-32"}'
 
 curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
      -H "Content-Type: application/json" \
