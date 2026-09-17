@@ -1,6 +1,19 @@
 
 # 2026-09-16
 
+Tools/Scripts/build-webkit --debug --cmake \
+  --cmakeargs="-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"
+
+hdiutil attach /System/Library/AssetsV2/com_apple_MobileAsset_MetalToolchain/058e1b31129b642e40598a87b55aa54b2a29e538.asset/AssetData/Restore/022-21521-014.dmg
+
+mkdir -p ~/Library/Developer/Toolchains/
+
+cp -R /Volumes/Metal*/Metal.xctoolchain ~/Library/Developer/Toolchains/
+
+hdiutil detach /Volumes/Metal*
+
+Tools/Scripts/analyze-safer-cpp Source/WebCore/html/HTMLFormElement.cpp
+
 /Users/mtan/homebrew/bin/python3
 
 curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
