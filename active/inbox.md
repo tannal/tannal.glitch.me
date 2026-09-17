@@ -1,6 +1,8 @@
 
 # 2026-09-16
 
+/Users/mtan/homebrew/bin/python3
+
 curl -i -X PUT "http://127.0.0.1:9090/proxies/FSCloud" \
      -H "Content-Type: application/json" \
      -d '{"name": "美国-HY2-32"}'
