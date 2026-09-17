@@ -1,4 +1,12 @@
 
+# 2026-09-17
+
+
+
+_venv3/
+
+open -a Terminal
+
 # 2026-09-16
 
 Tools/Scripts/build-webkit --debug --cmake \
