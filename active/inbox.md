@@ -1,6 +1,8 @@
 
 # 2026-09-17
 
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/ -- -rss_limit_mb=16384 -reload=1 -jobs=1000 -workers=2 -dict=fuzz/html.dict -timeout=10 -ignore_timeouts=1
+
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus_min fuzz/corpus -- -max_len=8192 -merge=1
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/ -- -rss_limit_mb=16384 -reload=1 -jobs=4 -workers=4 -dict=html.dict
