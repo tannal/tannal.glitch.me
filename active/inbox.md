@@ -1,6 +1,20 @@
 
 # 2026-09-17
 
+cd fuzz
+cargo +nightly fuzz tmin html_serializer artifacts/html_serializer/crash-9630f9671d3649f0d691564a899081cb42617a66
+
+Q4_K_M.
+
+llama serve -hf unsloth/Qwen3.5-27B-GGUF:Q4_K_M
+
+curl -i -X PUT "http://127.0.0.1:9090/proxies/一元机场" \
+     -H "Content-Type: application/json" \
+     -d '{"name": "🇭🇰香港 03 | 高级专线"}'
+
+curl -s "http://127.0.0.1:9090/proxies/一元机场" | jq '{group: .name, current_node: .now}'
+
+
 tar -C fuzz/corpus/fuzz_document_parse -cf - . | tar -C fuzz/corpus/fuzz_parse_serilize -xf -
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run html_serializer fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4
