@@ -1,6 +1,23 @@
 
 # 2026-09-17
 
+llama serve -m Qwen3.5-27B-Q4_K_M.gguf -c 16384 -np 1 -fa on --ctx-size 46500
+
+llama serve \
+  -m Qwen3.5-27B-Q4_K_M.gguf \
+  -ngl 99 \
+  -fa on \
+  -c 16384 \
+  -np 2 \
+  -b 2048 \
+  -ub 1024 \
+  -ctk q8_0 \
+  -ctv q8_0 \
+
+llama serve -m Qwen3.5-27B-Q4_K_M.gguf -c 16384 -np 2 -fa --ctx-size 46500
+
+llama serve -m Qwen3.5-27B-Q4_K_M.gguf
+
 cd fuzz
 cargo +nightly fuzz tmin html_serializer artifacts/html_serializer/crash-9630f9671d3649f0d691564a899081cb42617a66
 
