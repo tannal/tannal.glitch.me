@@ -1,6 +1,11 @@
 
 # 2026-09-17
 
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus_min fuzz/corpus -- -max_len=8192 -merge=1
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/ -- -rss_limit_mb=16384 -reload=1 -jobs=4 -workers=4 -dict=html.dict
+
+
 for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done
 
 llama serve -m Qwen3.5-27B-Q4_K_M.gguf -c 16384 -np 1 -fa on --ctx-size 46500
