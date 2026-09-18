@@ -1,6 +1,11 @@
 
 # 2026-09-17
 
+tar -C fuzz/corpus/fuzz_document_parse -cf - . | tar -C fuzz/corpus/fuzz_parse_serilize -xf -
+
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run html_serializer fuzz/corpus/servo_parse_html/   -- -jobs=4 -workers=4
+
+
 cp third_party/blink/web_tests/platform/linux/external/wpt/sanitizer-api/sanitizer-*-expected.txt \
    third_party/blink/web_tests/external/wpt/sanitizer-api/
 
