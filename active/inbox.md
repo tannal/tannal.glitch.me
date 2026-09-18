@@ -1,6 +1,8 @@
 
 # 2026-09-17
 
+for f in *; do [ -f "$f" ] && echo -e "\n=== $f ===" && cat "$f"; done
+
 llama serve -m Qwen3.5-27B-Q4_K_M.gguf -c 16384 -np 1 -fa on --ctx-size 46500
 
 llama serve \
