@@ -1,6 +1,8 @@
 
 # 2026-09-17
 
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/ -- -rss_limit_mb=16384 -reload=10 -jobs=1000 -workers=2 -dict=fuzz/html.dict -timeout=10 -ignore_timeouts=1
+
 export RUST_LOG=servo::layout=debug,webrender=info
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run fuzz_parse_serilize /home/a17/tannalwork/projects/servo/fuzz/corpus/ -- -rss_limit_mb=16384 -reload=1 -jobs=1000 -workers=2 -dict=fuzz/html.dict -timeout=10 -ignore_timeouts=1
