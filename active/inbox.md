@@ -1,11 +1,14 @@
 
 # 2026-09-17
 
+mkdir fuzz/corpus_fast
+cargo +nightly fuzz run servo_parse_html fuzz/corpus_fast/ fuzz/corpus/ -- -merge=1 -max_len=65536
+
 bg
 
 disown -h %1
 
-ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html corpus/ -- -rss_limit_mb=24576 -reload=10 -jobs=1000 -workers=2 -dict=html.dict -timeout=10 -ignore_timeouts=1
+ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html corpus/ -- -rss_limit_mb=16384 -reload=10 -jobs=1000 -workers=2 -dict=html.dict -timeout=10 -ignore_timeouts=1 -fork=workers
 
 ASAN_OPTIONS="detect_leaks=0" cargo +nightly fuzz run servo_parse_html fuzz/corpus/ -- -rss_limit_mb=16384 -reload=10 -jobs=1000 -workers=2 -dict=fuzz/html.dict -timeout=10 -ignore_timeouts=1
 
