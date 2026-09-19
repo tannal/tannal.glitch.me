@@ -159,7 +159,7 @@ moz-phab submit --single --no-wip
 
 [Weekly report 16]
 
-Worked hours: 31h:00min
+Worked hours: 21h:45min
 
 Tasks:
 
