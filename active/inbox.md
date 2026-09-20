@@ -1,5 +1,17 @@
 
+
+# 2026-09-20
+
+git commit --amend --no-edit
+
+git rebase --onto refactor/extract-anchor-element-utils main mathml-a-element
+
+git rebase --abort
+git reset --hard origin/main
+
 # 2026-09-17
+
+git branch --format="%(refname:short)" | xargs -I {} git rebase --onto origin/main origin/main {}
 
 mkdir fuzz/corpus_fast
 cargo +nightly fuzz run servo_parse_html fuzz/corpus_fast/ fuzz/corpus/ -- -merge=1 -max_len=65536
