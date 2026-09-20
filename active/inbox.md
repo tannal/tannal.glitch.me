@@ -1,6 +1,47 @@
 
 
+# 2026-09-21
+
+#### **第 1 梯队：基础 & 根节点（优先引入）**
+
+* **math**：根节点，控制 display (block/inline) 属性。  
+* **mrow**：最基础的水平组容器（如同 MathML 里的 \<div\> / \<span\>）。  
+* **mstyle**：样式覆盖容器。  
+* **mphantom**：占位但不显示的容器（用于对齐）。
+
+#### **第 2 梯队：Token 元素（处理字符与符号）**
+
+* **mi**（Identifier）：变量（需实现单字母自动斜体）。  
+* **mn**（Number）：数字。  
+* **mo**（Operator）：算子（需要实现 stretchy 伸展、symmetric 对齐以及左右 padding/space）。  
+* **mtext**（Text）：纯文本。  
+* **ms**（String literal）：字符串字面量。  
+* **mspace**：空白节点（需要解析 width, height, depth 属性）。
+
+#### **第 3 梯队：脚本与上下标（Script Elements）**
+
+* **msub**（下标）、**msup**（上标）、**msubsup**（上下标组合）。  
+* **munder**（下附）、**mover**（上附）、**munderover**（上下附组合）。  
+* **mmultiscripts** / **mprescripts** / **none**：前置/多重上下标（如化学式 $^{12}\_{6}\\text{C}$）。
+
+#### **第 4 梯队：二维几何结构（Layout 核心重头戏）**
+
+* **mfrac**（分式）：垂直排列分子分母 \+ 分式线。  
+* **msqrt** / **mroot**（根号）：根号符号伸展与开方次数。  
+* **mtable** / **mtr** / **mtd**（矩阵与表格）：类似于 HTML 矩阵表格布局。  
+* **mpadded**：手动微调盒尺寸。  
+* **merror**：错误信息包裹。
+
+#### **第 5 梯队：语义、标注与交互（最后补充）**
+
+* **semantics** / **annotation** / **annotation-xml**：语义附带（如嵌入 LaTeX 原码/Content MathML）。  
+* **maction**：交互动作（如点击展开/折叠）。  
+* **a (mathml a element)**：超链接。
+
+
 # 2026-09-20
+
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/?fontFamily=FiraMath
 
 Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/
 

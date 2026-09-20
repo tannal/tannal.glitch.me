@@ -1,5 +1,176 @@
 
 
+
+```
+extract.py
+import os
+import re
+
+class CppSignatureParser:
+    def __init__(self, code, is_idl=False):
+        self.code = code
+        self.is_idl = is_idl
+        self.length = len(code)
+        self.pos = 0
+
+    def parse(self):
+        output = []
+        depth = 0
+        current_stmt = []
+        
+        in_string = False
+        string_char = ''
+        in_s_comment = False
+        in_m_comment = False
+        
+        while self.pos < self.length:
+            ch = self.code[self.pos]
+            nxt = self.code[self.pos + 1] if self.pos + 1 < self.length else ''
+
+            # 1. 处理注释和字符串字面量
+            if in_s_comment:
+                if ch == '\n':
+                    in_s_comment = False
+                self.pos += 1
+                continue
+
+            if in_m_comment:
+                if ch == '*' and nxt == '/':
+                    in_m_comment = False
+                    self.pos += 2
+                else:
+                    self.pos += 1
+                continue
+
+            if in_string:
+                if ch == '\\':
+                    self.pos += 2  # 跳过转义字符
+                    continue
+                if ch == string_char:
+                    in_string = False
+                self.pos += 1
+                continue
+
+            # 检测注释与字符串开始
+            if ch == '/' and nxt == '/':
+                in_s_comment = True
+                self.pos += 2
+                continue
+            if ch == '/' and nxt == '*':
+                in_m_comment = True
+                self.pos += 2
+                continue
+            if ch in ('"', "'"):
+                in_string = True
+                string_char = ch
+                self.pos += 1
+                continue
+
+            # 2. 状态机提取语法节点 (仅在类定义内 depth<=1 时生效)
+            if ch == '{':
+                stmt_str = "".join(current_stmt).strip()
+                current_stmt = []
+                
+                # 如果是类、结构体、命名空间、枚举声明，保留定义头
+                if any(k in stmt_str for k in ["class ", "struct ", "namespace ", "enum "]):
+                    output.append("  " * depth + stmt_str + " {")
+                # 如果是内联函数体 (e.g. void foo() { ... })，只保留函数签名，忽略内部实现
+                elif depth == 1 and stmt_str:
+                    # 规避纯访问修饰符或初始化列表带花括号的特殊情况
+                    clean_sig = re.sub(r'\s+', ' ', stmt_str)
+                    output.append("  " * depth + clean_sig + "; // [inline body omitted]")
+
+                depth += 1
+                self.pos += 1
+                continue
+
+            elif ch == '}':
+                depth = max(0, depth - 1)
+                stmt_str = "".join(current_stmt).strip()
+                current_stmt = []
+                if depth == 0:
+                    output.append("};\n")
+                self.pos += 1
+                continue
+
+            elif ch == ';':
+                stmt_str = "".join(current_stmt).strip()
+                current_stmt = []
+                
+                # 在 depth <= 1 (顶级或类内部) 收集声明语句
+                if depth <= 1 and stmt_str:
+                    # 清理多余空格与换行，格式化输出
+                    clean_stmt = " ".join(stmt_str.split())
+                    
+                    # 过滤宏与非声明语句
+                    if not clean_stmt.startswith("#"):
+                        output.append("  " * depth + clean_stmt + ";")
+
+                self.pos += 1
+                continue
+
+            # 3. 处理访问控制符 (public:, protected:, private:)
+            elif ch == ':' and depth == 1:
+                current_stmt.append(ch)
+                stmt_str = "".join(current_stmt).strip()
+                if stmt_str in ["public:", "protected:", "private:"]:
+                    output.append(stmt_str)
+                    current_stmt = []
+                self.pos += 1
+                continue
+
+            # 收集常规字符 (跳过 depth > 1 的函数体内部字符)
+            if depth <= 1:
+                # 忽略预处理指令 (#include, #define 等)
+                if ch == '#' and not current_stmt:
+                    while self.pos < self.length and self.code[self.pos] != '\n':
+                        self.pos += 1
+                    continue
+                current_stmt.append(ch)
+
+            self.pos += 1
+
+        return "\n".join(output)
+
+def process_file(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            code = f.read()
+        is_idl = file_path.endswith(".idl")
+        parser = CppSignatureParser(code, is_idl=is_idl)
+        extracted = parser.parse()
+        return extracted if extracted.strip() else "// No declarations found"
+    except Exception as e:
+        return f"// Error parsing file: {str(e)}"
+
+def process_directory(target_dir):
+    result = []
+    for root, _, files in os.walk(target_dir):
+        for file in sorted(files):
+            if file.endswith((".h", ".idl", ".cc")):
+                path = os.path.join(root, file)
+                result.append("=" * 60)
+                result.append(f"FILE: {path}")
+                result.append("=" * 60)
+                extracted = process_file(path)
+                result.append(extracted)
+                result.append("\n")
+    return "\n".join(result)
+
+if __name__ == "__main__":
+    target_path = "layout/mathml/"  # 替换为你的目标路径
+    
+    print(f"Parsing signatures with State-Machine Parser from {target_path}...")
+    content = process_directory(target_path)
+    
+    output_file = "sanitizer_full_api.txt"
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(content)
+        
+    print(f"Done! Clean AST-like signatures saved to {output_file}")
+
+```
+
 ```
 # check.py
 import os, re
