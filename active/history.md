@@ -1,4 +1,349 @@
 
+# 2026-09-20
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-09-18起 - Google Gemini
+https://gemini.google.com/app/623e938f2191daf7
+
+Igalia Chat [4] | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+dictionaries/html_tags.dict at main · salmonx/dictionaries
+https://github.com/salmonx/dictionaries/blob/main/html_tags.dict
+
+JavaScript Tests (testharness.js) — web-platform-tests documentation
+https://web-platform-tests.org/writing-tests/testharness.html#specifying-test-variants
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018/changes#diff-0d8511365d14a3b25f01befb51ef851cf4ef725e3270a8f91ca7c60cf8b7a846
+
+@sungkim.bsky.social 的帖文 — Bluesky
+https://bsky.app/profile/sungkim.bsky.social/post/3mssz4h25yk2f
+
+Cornelius Emase (@lochipi.bsky.social) — Bluesky
+https://bsky.app/profile/lochipi.bsky.social
+
+[MathML] Add a test to trigger click from a keydown event (8253691) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+
+Sanitizer: Add javascript: URL tests for all MathML elements by tannal · Pull Request #62648 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62648/changes
+
+WebKit/WebKit: Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
+https://github.com/WebKit/WebKit
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/100978
+
+Layout Test Results from 03:13PM on September 13, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/0cc66ee8-100978/results.html
+
+Sanitizer: fix the javascript: URL tests and cover the default configuration by annevk · Pull Request #62564 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62564
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+setLocationToJavaScriptURL (navigation-support.js - mozsearch)
+https://searchfox.org/firefox-main/source/testing/web-platform/tests/trusted-types/support/navigation-support.js#61
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577
+
+2071032 - [wpt-sync] Sync PR 62564 - Sanitizer: fix the javascript: URL tests and cover the default configuration
+https://bugzilla.mozilla.org/show_bug.cgi?id=2071032
+
+servo/html5ever: High-performance browser-grade HTML5 parser
+https://github.com/servo/html5ever
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+…/csp-test-helper.js · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776/5/third_party/blink/web_tests/external/wpt/mathml/support/csp-test-helper.js#20
+
+2068934 - Sanitizer API: javascript URL handling should be part of the config
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068934
+
+2068934 - Sanitizer API: javascript URL handling should be part of the config
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068934
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577#11317939
+
+2068934 - Sanitizer API: javascript URL handling should be part of the config
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068934
+
+⚙ D324577 Bug 2068934 - Support javascriptURLs in the configuration of sanitizer. r=tschuster,emilio
+https://phabricator.services.mozilla.com/D324577
+
+Web Sanitizer API · Issue #1336 · web-platform-tests/interop
+https://github.com/web-platform-tests/interop/issues/1336
+
+Issues · web-platform-dx/developer-signals
+https://github.com/web-platform-dx/developer-signals/issues
+
+web-platform-tests dashboard
+https://wpt.fyi/results/sanitizer-api?label=experimental&label=master&aligned&q=feature%3Asanitizer
+
+Web features explorer - Sanitizer API
+https://web-platform-dx.github.io/web-features-explorer/features/sanitizer/
+
+HTML Standard
+https://html.spec.whatwg.org/#remove-unsafe
+
+…/style-src-elem-meta.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776/4/third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/style-src-elem-meta.html
+
+failed - linux-rel 2884033
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/2884033/overview
+
+chromium | buildbucket/cr-buildbucket/8671313109542790001/+/u/test_new_tests_for_flakiness/headless_shell_wpt_tests__check_flakiness_shard__0__on_Ubuntu-22.04/stdout | LogDog
+https://logs.chromium.org/logs/chromium/buildbucket/cr-buildbucket/8671313109542790001/+/u/test_new_tests_for_flakiness/headless_shell_wpt_tests__check_flakiness_shard__0__on_Ubuntu-22.04/stdout
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703#inline-1731647
+
+Time tracking (week of Sep 14, 2026)
+https://hours.igalia.com/time/week/2026-09-20
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-09-18&user=344
+
+Launching Features
+https://www.chromium.org/blink/launching-features/
+
+Runtime Enabled Features
+https://chromium.googlesource.com/chromium/src/+/main/third_party/blink/renderer/platform/RuntimeEnabledFeatures.md#guidelines-for-setting-feature-status
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702/16
+
+Add MathML-AAM tests infrastructure and comprehensive mapping tests for mathml elements by tannal · Pull Request #61018 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/61018
+
+收件箱 (10) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+upgrade xcode mac - Google 搜索
+https://www.google.com/search?q=upgrade+xcode+mac&sca_esv=1f9121a7cdf920c7&biw=1850&bih=932&sxsrf=APpeQnuCddjhzYnGFtpIWQfnNhhS3uzdZw%3A1789029935794&ei=L26iarWIMLib0PEPpL2UiQo&ved=2ahUKEwj128Luz-OWAxW4DTQIHaQeJaEQ4dUDegQIBhAM&uact=5&oq=upgrade+xcode+mac&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXVwZ3JhZGUgeGNvZGUgbWFjMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSOoIUABYAHABeAGQAQCYAQCgAQCqAQC4AQPIAQCYAgGgAgKYAwCIBgGQBgqSBwExoAcAsgcAuAcAwgcDMC4xyAcCgAgB&sclient=gws-wiz-serp
+
+WebKit/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml at main · WebKit/WebKit
+https://github.com/WebKit/WebKit/blob/main/Source/WTF/Scripts/Preferences/UnifiedWebPreferences.yaml
+
+• Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Week-16
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+Fix out-of-bounds panic when a meta content value ends in a bare charset token by noahskelton · Pull Request #762 · servo/html5ever
+https://github.com/servo/html5ever/pull/762
+
+html5ever fuzz fuzzing fuzzer - Google 搜索
+https://www.google.com/search?q=html5ever+fuzz+fuzzing+fuzzer&sca_esv=795a99a58b19a3dd&sxsrf=APpeQnv3xthD3Wo2THm4s1P9IsUh_i_44Q%3A1789105112012&ei=15Ojatn5PMSVruEPmfuBsQM&biw=1850&bih=932&ved=2ahUKEwiZwar15-WWAxXEiisGHZl9IDYQ4dUDegQIBhAM&uact=5&oq=html5ever+fuzz+fuzzing+fuzzer&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWh0bWw1ZXZlciBmdXp6IGZ1enppbmcgZnV6emVyMgUQIRigATIFECEYoAEyBRAhGKABSNchUIIFWMsgcAF4AZABAJgB1ASgAboqqgEKMi0xMi4zLjIuMbgBA8gBAPgBAZgCE6AChSvCAgoQABhHGNYEGLADwgIEECMYJ8ICCBAAGIAEGMsBwgIEEAAYHsICCBAAGIAEGKIEwgIHECEYChigAZgDAIgGAZAGBpIHDDEuMC4xMi4zLjIuMaAHqCiyBwoyLTEyLjMuMi4xuAf_KsIHBjQuMTEuNMgHJoAIAQ&sclient=gws-wiz-serp
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+Repository search results
+https://github.com/search?q=html5ever&type=repositories
+
+Code search results
+https://github.com/search?q=repo%3Arust-fuzz%2Fcargo-fuzz+fuzzing&type=code
+
+Add greybox fuzz testing using cargo-fuzz · Issue #5391 · tokio-rs/tokio
+https://github.com/tokio-rs/tokio/issues/5391
+
+storage.googleapis.com/oss-fuzz-coverage/tokio/reports/20230212/linux/src/tokio/tokio/report.html
+https://storage.googleapis.com/oss-fuzz-coverage/tokio/reports/20230212/linux/src/tokio/tokio/report.html
+
+tokio: Initial integration by nathaniel-brough · Pull Request #9480 · google/oss-fuzz
+https://github.com/google/oss-fuzz/pull/9480/changes#diff-a93c209643ca74af7928a3e766c5ab5906e126ed9a7354d48d1c8e5a7e1e27f9
+
+github.com
+https://github.com/whatwg/html/pull/12898
+
+303808 – Implement Sanitizer API
+https://bugs.webkit.org/show_bug.cgi?id=303808
+
+status:open componentid:1456905 - Chromium
+https://issues.chromium.org/issues?q=status:open%20componentid:1456905&s=created_time:desc
+
+…/href-lick-js-handler.tentative.html · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255/6/third_party/blink/web_tests/external/wpt/mathml/relations/html5-tree/href-lick-js-handler.tentative.html#6
+
+标签 | 一亩三分地
+https://www.1point3acres.com/bbs/tag.html?category=3&order=&page=15
+
+公司:Legora | 一亩三分地
+https://www.1point3acres.com/bbs/tag-10359-1.html
+
+github.com
+https://github.com/WICG/sanitizer-api/pull/350
+
+pr-preview.s3.amazonaws.com
+https://pr-preview.s3.amazonaws.com/evilpie/sanitizer-api/pull/350.html#sanitization
+
+legora.com
+https://legora.com/careers#open-roles
+
+github.com
+https://github.com/search?q=repo%3AWebKit%2FWebKit+Sanitizer&type=commits
+
+Sanitizer: add javascriptURLs option to SanitizerConfig and Sanitizer by noamr · Pull Request #12898 · whatwg/html
+https://github.com/whatwg/html/pull/12898/changes#diff-41cf6794ba4200b839c53531555f0f3998df4cbb01a4d5cb0b94e3ca5e23947dL126678-R129059
+
+Element: moveBefore() method - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/moveBefore
+
+DOM Standard
+https://dom.spec.whatwg.org/#dom-parentnode-movebefore
+
+Code completion deletes the text after the cursor · Issue #64118 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/64118
+
+Sanitize while Parsing · Issue #1443 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1443
+
+Sanitize while parsing by noamr · Pull Request #12756 · whatwg/html
+https://github.com/whatwg/html/pull/12756
+
+[Sanitizer] Add WPT to verify stripping unsafe attributes for MathML a element (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842?tab=comments
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls?q=is%3Apr+author%3Atannal
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=zh-CN&text=materialize&op=translate
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+Accessibility mapping of `<a>` element · Issue #39 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/39
+
+Project
+https://mathml.igalia.com/project/#-width-of-stretchy-operators-blocked-on-chromiums-refactoring
+
+MathML Core
+https://w3c.github.io/mathml-core/
+
+/Volumes/Data/worker/Apple-iOS-26-Safer-CPP-Checks-EWS/build/Source/WebCore/html/HTMLFormElement.cpp
+https://ews-build.s3-us-west-2.amazonaws.com/Apple-iOS-26-Safer-CPP-Checks-EWS/960262f8-53571/scan-build-output/StaticAnalyzerRegressions/WebCore/StaticAnalyzerReports/report-HTMLFormElement.cpp-namedElements-9-401667.html#EndPath
+
+build - scan-build results
+https://ews-build.s3-us-west-2.amazonaws.com/Apple-iOS-26-Safer-CPP-Checks-EWS/960262f8-53571/scan-build-output/StaticAnalyzerRegressions/WebCore/index.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=pair%20with&op=translate
+
+[A11y] Add a11y role for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+gfx-rs/wgpu: A cross-platform, safe, pure-Rust graphics API.
+https://github.com/gfx-rs/wgpu
+
+failed - linux-rel b8670420988237063825
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/b8670420988237063825/test-results?q=ExactID%3A%3A%2F%2F%5C%3Aheadless_shell_wpt%21webtest%3A%3Aexternal%2Fwpt%2Fsanitizer-api%23sanitizer-a-navigation.html%3Ftarget%3Dmathml+VHash%3A100c17e713d67275&clean=
+
+[MathML] Support `referrerPolicy` IDL attribute for MathMLAnchorElement by chromium-wpt-export-bot · Pull Request #62504 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/62504/changes
+
+web-platform-tests dashboard
+https://wpt.fyi/results/referrer-policy/gen/req.attr/origin?label=pr_head&max-count=1&pr=62504
+
+A Structure-Aware Fuzzing Experiment
+https://fitzgen.com/2026/06/01/structure-aware-fuzzing-experiment.html
+
+Search Results for 'rcdom' - crates.io: Rust Package Registry
+https://crates.io/search?q=rcdom
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+servo/components/script/dom/security/sanitizer.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/security/sanitizer.rs
+
+Agentic Fuzzing: Opportunities and Challenges
+https://arxiv.org/pdf/2605.10074
+
+revsic/agent-fuzz: Python implementation of LLM Agent-based fuzz-driver generation
+https://github.com/revsic/agent-fuzz
+
+New to local llm, which model to use with a 4090? : r/LocalLLaMA
+https://www.reddit.com/r/LocalLLaMA/comments/1rixlj6/new_to_local_llm_which_model_to_use_with_a_4090/
+
+Qwen3.5 27b - Google 搜索
+https://www.google.com/search?q=Qwen3.5+27b&oq=Qwen3.5+27b&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE2MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Qwen3.5-27B-Q4_K_M.gguf · unsloth/Qwen3.5-27B-GGUF at main
+https://huggingface.co/unsloth/Qwen3.5-27B-GGUF/blob/main/Qwen3.5-27B-Q4_K_M.gguf
+
+HF-Mirror
+https://hf-mirror.com/
+
+Create new paste
+https://paste.igalia.com/
+
+Code search results
+https://github.com/search?q=repo%3Aggml-org%2Fllama.cpp+8192&type=code
+
+Download - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/download/
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fmozjs+Failed+to+link+pre-built&type=code
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946
+
+googleprojectzero/domato: DOM fuzzer
+https://github.com/googleprojectzero/domato
+
+mozjs/mozjs-sys/build.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs-sys/build.rs#L1248
+
+Releases · servo/mozjs
+https://github.com/servo/mozjs/releases
+
+libFuzzer continuous fuzzing/jobs · Issue #330 · trailofbits/deepstate
+https://github.com/trailofbits/deepstate/issues/330
+
+Profiling - The Servo Book
+https://book.servo.org/contributing/profiling.html
+
+Structure-Aware Fuzzing - Rust Fuzz Book
+https://rust-fuzz.github.io/book/cargo-fuzz/structure-aware-fuzzing.html
+
+A Structure-Aware Fuzzing Experiment
+https://fitzgen.com/2026/06/01/structure-aware-fuzzing-experiment.html
+
+Align Sanitizer API implementation with HTML specification · Issue #45852 · servo/servo
+https://github.com/servo/servo/issues/45852
+
+Buildbot
+https://ews-build.webkit.org/#/builders/60/builds/101240
+
+Layout Test Results from 06:29AM on September 18, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/Win-Tests-EWS/0743a1ec-101240/results.html
+
+
 # 2026-09-10
 
 Igalia-work - Google Gemini

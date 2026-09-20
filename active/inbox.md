@@ -2,6 +2,105 @@
 
 # 2026-09-20
 
+Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml/
+
+python3 -c '
+import os
+import re
+
+def clean_cpp_code(code):
+    """
+    1. Yichu suoyou C / C++ zhu shi (// he /* ... */).
+    2. Yichu C++ ziti chuan deng zigaidong.
+    """
+    # Yichu // danxing zhushi
+    code = re.sub(r'//.*', '', code)
+    # Yichu /* ... */ duoxing zhushi
+    code = re.sub(r'/\*.*?\*/', '', code, flags=re.DOTALL)
+    return code
+
+def extract_api_from_file(file_path):
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+        raw_code = f.read()
+
+    code = clean_cpp_code(raw_code)
+    
+    output_lines = []
+    brace_depth = 0
+    buffer = ""
+    
+    # Ci fa bianli C++ zi fu
+    for line in code.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+
+        # Zhui zong `{` he `}` de cengci (Brace Depth Tracking)
+        open_braces = stripped.count('{')
+        close_braces = stripped.count('}')
+
+        # Dang brace_depth == 0 shi, shuyu Class/Struct/Enum/Namespace dingyi huozhe Danxing qianming
+        if brace_depth == 0:
+            # Guolv diao buxiangguan de `#include` he `#pragma`
+            if stripped.startswith("#"):
+                continue
+
+            # Ruguo shi Class, Struct, Namespace, Enum de kaishi
+            if any(stripped.startswith(k) for k in ["class", "struct", "namespace", "enum", "using", "typedef"]):
+                output_lines.append(stripped)
+            # Ruguo shi Han shu qianming (Danxing jiezhi `;`)
+            elif stripped.endswith(";"):
+                output_lines.append("  " + stripped)
+            # Ruguo shi Duoxing hanshu qianming de yibu fen (zhi dao `{` huozhe `;`)
+            else:
+                buffer += " " + stripped
+                if ";" in stripped:
+                    output_lines.append("  " + buffer.strip())
+                    buffer = ""
+        
+        # Ruguo dao le Namespace/Class neibu (cengci == 1)
+        elif brace_depth == 1:
+            # Tiqu Class neibu de gongyou/siyou fangfa (Meiyou hanshu ti)
+            if stripped.endswith(";") and not ("=" in stripped and not "default" in stripped):
+                output_lines.append("    " + stripped)
+            elif stripped in ["public:", "protected:", "private:"]:
+                output_lines.append("  " + stripped)
+
+        # Gengxin da kuang hao cengci
+        brace_depth += open_braces - close_braces
+        if brace_depth < 0:
+            brace_depth = 0
+
+    return "\n".join(output_lines)
+
+
+def process_directory(target_dir):
+    result = []
+    for root, _, files in os.walk(target_dir):
+        for file in sorted(files):
+            if file.endswith((".h", ".cc", ".cpp")):
+                path = os.path.join(root, file)
+                result.append("=" * 60)
+                result.append(f"FILE: {path}")
+                result.append("=" * 60)
+                api = extract_api_from_file(path)
+                result.append(api if api.strip() else "// No public API declarations found")
+                result.append("\n")
+    return "\n".join(result)
+
+if __name__ == "__main__":
+    target_path = "third_party/blink/renderer/core/sanitizer"
+    output_file = "sanitizer_clean_api.txt"
+    
+    print(f"Extracting C++ APIs from {target_path}...")
+    clean_api_text = process_directory(target_path)
+    
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(clean_api_text)
+        
+    print(f"Done! Clean APIs saved to {output_file}")
+' > sanitizer_signatures.txt
+
 git commit --amend --no-edit
 
 git rebase --onto refactor/extract-anchor-element-utils main mathml-a-element
