@@ -2,7 +2,7 @@
 
 # 2026-09-20
 
-Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml/
+Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/
 
 python3 -c '
 import os
