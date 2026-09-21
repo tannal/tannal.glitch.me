@@ -166,6 +166,8 @@ git reset --hard origin/main
 
 # 2026-09-17
 
+git fetch origin
+
 git branch --format="%(refname:short)" | xargs -I {} git rebase --onto origin/main origin/main {}
 
 mkdir fuzz/corpus_fast
