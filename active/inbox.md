@@ -2,6 +2,16 @@
 
 # 2026-09-21
 
+components/layout/mathml/
+├── mod.rs                  // MathLevelBox 枚举定义 (仅需 Row, Token, Script, Fraction, Root, Table 6种类型)
+├── builder.rs              // DOM -> MathLevelBox 转换 (根据 DOM tag 映射到上述 6 种类型)
+├── row.rs                  // MathRowBlock (mrow, math, mstyle, mphantom, merror, semantics, a)
+├── token.rs                // MathTokenBlock (mi, mn, mo, mtext, ms, mspace)
+├── script.rs               // MathScriptBlock (msub, msup, msubsup, munder, mover, munderover, mmultiscripts)
+├── fraction.rs             // MathFractionBlock (mfrac)
+├── root.rs                 // MathRootBlock (msqrt, mroot)
+└── table.rs                // MathTableBlock (mtable, mtr, mtd)
+
 #### **第 1 梯队：基础 & 根节点（优先引入）**
 
 * **math**：根节点，控制 display (block/inline) 属性。  
