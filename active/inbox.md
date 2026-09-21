@@ -334,47 +334,51 @@ moz-phab submit --single --no-wip
 
 [Weekly report 16]
 
-Worked hours: 21h:45min
+Worked hours: 22h:45min
 
 Tasks:
 
-Create a  [1]
+Create a refactoring PR in preparing for MathMLAnchorElement in WebKit. [1]
 
- [2]
+Resolve mathml-aam issue in WebKit, creating a WIP PR, need to wait for the WPT [2] [3]
 
-Write a test for MathML A to verify the default configuration and a end to end test [3]
+Split the CSP tests into multiple variants, and finished the end to end navigation tests for sanitizer [4] [5]
 
-More things written in the summary of the CE and Future work [8]
+Fixing a memory leak issue in coveraged based servo fuzzing and run a two instance each for one day [9]
+
+More things written in the summary of the CE and Future work [10]
 
 Next:
 
-I will mostly working on MathMLAnchorElement and a11y mappings for MathML elements in the last 30+ hours.
+Will finish MathMLAnchorElement and a11y mappings for MathML elements in WebKit.
 
-Some PRs still not merged, will devote some time make sure they get reviewed, fixing the CI and merged.[4] [5] [6] [7] [8]
+Will finish open patches in Chromium. [5] [6] [7] [8]
 
-There are many TODOs can't be completed on time, so I keep them in the note, sorry! :-) [9]
+Start to implement MathML core in Servo, will support cotainer elements first (mrow, mpadded, mphatom etc)
 
-I also drafted a summary of the CE program in the same note [10]
+Read the rust fuzz book, experiment with Structure-Aware Fuzzing
 
 Links:
 
 [1] https://phabricator.services.mozilla.com/D324577
 
-[2] https://phabricator.services.mozilla.com/D319703
+[2] https://github.com/w3c/mathml-aam/issues/41
+
+[2] https://github.com/WebKit/WebKit/pull/73957
 
 [3] https://github.com/web-platform-tests/wpt/pull/62648
 
-[4] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+[4] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
 
-[5] https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+[5] https://chromium-review.googlesource.com/c/chromium/src/+/8212842
 
-[6] https://chromium-review.googlesource.com/c/chromium/src/+/8253691
+[6] https://chromium-review.googlesource.com/c/chromium/src/+/8015702
 
 [7] https://chromium-review.googlesource.com/c/chromium/src/+/7992255
 
-[8] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
+[8] https://chromium-review.googlesource.com/c/chromium/src/+/8011653
 
-[9] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Future-work
+[9] https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
 
 [10] https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
 
