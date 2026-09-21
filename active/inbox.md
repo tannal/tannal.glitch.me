@@ -2,6 +2,8 @@
 
 # 2026-09-21
 
+sudo apt install universal-ctags
+
 components/layout/mathml/
 ├── mod.rs                  // MathLevelBox 枚举定义 (仅需 Row, Token, Script, Fraction, Root, Table 6种类型)
 ├── builder.rs              // DOM -> MathLevelBox 转换 (根据 DOM tag 映射到上述 6 种类型)
