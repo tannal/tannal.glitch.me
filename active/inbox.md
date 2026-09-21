@@ -340,7 +340,7 @@ Tasks:
 
 Create a  [1]
 
-The patch mapping all MathML elements to specific role on Mac and Linux landed [2]
+ [2]
 
 Write a test for MathML A to verify the default configuration and a end to end test [3]
 
