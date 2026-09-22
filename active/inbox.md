@@ -1,6 +1,11 @@
 
 # 2026-09-21
 
+
+Bug 2068544 - Parsing referrerpolicy attribute on supported elements. r?emilio
+
+https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery
+
 file:///host/home/tannal/tannalwork/projects/WebKit/test.html
 
 Tools/Scripts/run-webkit-tests --internal-feature=MathMLAnchorElementEnabled LayoutTests/imported/w3c/web-platform-tests/mathml/relations/html5-tree/
