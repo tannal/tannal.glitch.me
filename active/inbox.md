@@ -1,6 +1,13 @@
 
-# 2026-09-21
+# 2026-09-22
 
+git checkout HEAD~1
+
+./mach try auto
+
+git checkout mathml-a-element
+
+# 2026-09-21
 
 Bug 2068544 - Parse referrerpolicy and rel on supported elements. r=emilio,smaug
 
