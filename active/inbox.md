@@ -2,9 +2,13 @@
 # 2026-09-21
 
 
-Bug 2068544 - Parsing referrerpolicy attribute on supported elements. r?emilio
+Bug 2068544 - Parse referrerpolicy and rel on supported elements. r=emilio,smaug
+
+I leave
 
 https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery
+
+https://html.spec.whatwg.org/multipage/links.html#attr-hyperlink-rel
 
 file:///host/home/tannal/tannalwork/projects/WebKit/test.html
 
