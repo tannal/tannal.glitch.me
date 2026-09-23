@@ -1,4 +1,16 @@
 
+# 2026-09-23
+
+Tools/Scripts/import-w3c-tests web-platform-tests/mathml-aam/
+
+Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml-aam/
+
+./Tools/Scripts/check-webkit-style
+
+Source/WebCore/accessibility/isolatedtree/AXIsolatedTree.cpp
+
+export CARGO_FEATURE_JIT=1
+
 # 2026-09-22
 
 ./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/WebKitWebDriver  --webkit-port gtk
