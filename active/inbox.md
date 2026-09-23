@@ -1,6 +1,8 @@
 
 # 2026-09-23
 
+git checkout -p HEAD~1 -- dom/html/nsGenericHTMLElement.cpp
+
 Tools/Scripts/import-w3c-tests web-platform-tests/mathml-aam/
 
 Tools/Scripts/run-webkit-tests --reset-results LayoutTests/imported/w3c/web-platform-tests/mathml-aam/
