@@ -1,6 +1,11 @@
 
 # 2026-09-22
 
+./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Debug/bin/WebKitWebDriver  --webkit-port gtk
+
+./wpt run webkit mathml-aam/ --binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/MiniBrowser   --webdriver-binary /host/home/tannal/tannalwork/projects/WebKit/WebKitBuild/GTK/Release/bin/WebKitWebDriver  --webkit-port gtk
+
+
 git checkout HEAD~1
 
 ./mach try auto
