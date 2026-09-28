@@ -1,6 +1,11 @@
 
-
 # 2026-09-28
+
+```
+echo -e "\033[33m[!] Fuzzing stopped due to crash. Inspect files in '$CRASH_DIR' or '$TEST_DIR'.\033[0m"
+exit 1  # <--- Halts the fuzzing loop immediately
+```
+
 
 [Weekly report 17]
 
