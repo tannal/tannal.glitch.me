@@ -1,4 +1,368 @@
 
+# 2026-09-28
+
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Speedometer 3
+https://browserbench.org/Speedometer3.0/?utm_source=gemini#running
+
+Firefox for Desktop
+https://dictionary.telemetry.mozilla.org/apps/firefox_desktop?page=1&search=fast
+
+HTML Standard
+https://html.spec.whatwg.org/multipage/indices.html#attributes-3:attr-hyperlink-rel
+
+Igalia Chat [5] | Web Platform All < Team
+https://chat.igalia.com/#/room/#team-webplatform-all:igalia.com
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+100% - [11] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7c5008f10bb39bd41e60ea4f9287ba8b6e66636d
+
+…/svg_a_element_test.cc · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8439036/4/third_party/blink/renderer/core/svg/svg_a_element_test.cc
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+My internship with Igalia | /diːˈlaːn(.)ˌʕaːzəbaːniː/
+https://www.azabani.com/2020/09/27/my-internship-with-igalia.html
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls
+
+owner:mtan@igalia.com · Gerrit Code Review
+https://chromium-review.googlesource.com/q/owner:mtan@igalia.com
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776?tab=comments
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957/changes
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+[AX] Add a11y roles for more MathML elements · tannal/WebKit@330dca6
+https://github.com/tannal/WebKit/commit/330dca62a76fc4475abfd1a3cbd758122ef2fc01
+
+Jitsi Meet
+https://meetings.igalia.com/meng-fred#config.startWithAudioMuted=false&config.startWithVideoMuted=true
+
+Meng Tan - Web Platform (#37) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/37
+
+Attribute mapping
+https://wpt.live/mathml/relations/css-styling/attribute-mapping-002.html
+
+100% - [11] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7c5008f10bb39bd41e60ea4f9287ba8b6e66636d
+
+[MathML] Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-1a492b2b56453bc41b83bf083c45f724a934a7c4581932a2924776d67888d451
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147433
+
+100% - [10] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=205c26d85e25567a233e2dfd33928f2c6dea7387
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Mathml-AAM tests on Firefox nightly on MacOS
+https://gist.github.com/spectranaut/4d10e241c590bc7e45f8434ad25c84c0
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/role?label=experimental&label=master&aligned
+
+web-platform-tests dashboard
+https://wpt.fyi/results/core-aam/aamtests/role?label=master&label=experimental&aligned
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml-aam/aamtests/attribute/mathml-attributes.py?label=experimental&label=master&aligned
+
+gist:379689fd046911f1771d7e25ba243175
+https://gist.github.com/spectranaut/379689fd046911f1771d7e25ba243175
+
+gist:379689fd046911f1771d7e25ba243175
+https://gist.github.com/spectranaut/379689fd046911f1771d7e25ba243175
+
+⚙ D317723 Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://phabricator.services.mozilla.com/D317723
+
+Igalia Celebrates 25 Years Of Advancing Linux & Open-Source - Phoronix
+https://www.phoronix.com/news/Igalia-Turns-25
+
+CSS Fonts Module Level 4
+https://drafts.csswg.org/css-fonts/#font-size-math
+
+MathML Core
+https://w3c.github.io/mathml-core/#fraction-with-nonzero-line-thickness
+
+CSS Layout API Level 1
+https://drafts.css-houdini.org/css-layout-api/
+
+CSS Fonts Module Level 4
+https://drafts.csswg.org/css-fonts/#font-size-math
+
+MathML Core
+https://w3c.github.io/mathml-core/#css-extensions-for-math-layout
+
+panic: Must always be active components/script/dom/window/windowproxy.rs:920/923 · Issue #47781 · servo/servo
+https://github.com/servo/servo/issues/47781#issuecomment-5529348944
+
+Automated Fuzzing · Issue #45946 · servo/servo
+https://github.com/servo/servo/issues/45946#issuecomment-5328394425
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+CSS Display Module Level 3
+https://drafts.csswg.org/css-display/#outer-role
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
+
+[Refactor] Extract common anchor element logic into AnchorElementFunctions by tannal · Pull Request #73952 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73952/changes#diff-3e3a5816f142302f49f4fa3e5cc9713e19c7957f33cf1ee0c3e37c05d9cd0d34
+
+Twenty-Five Years Upstream | Igalia
+https://www.igalia.com/2026/09/21/Twenty-Five-Years-Upstream.html
+
+Sanitize while parsing by noamr · Pull Request #12756 · whatwg/html
+https://github.com/whatwg/html/pull/12756
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-09-28&user=344
+
+Time tracking (week of Sep 28, 2026)
+https://hours.igalia.com/time/week/
+
+MathML, onde estamos?
+https://people.igalia.com/fwang/blink-on-15/#/17
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#mathml-element-mappings
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls?q=is%3Apr+author%3Atannal
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+Definition of MathML Length · Issue #63 · w3c/mathml
+https://github.com/w3c/mathml/issues/63
+
+stylo/style/properties/properties.mako.rs at bb8a1c140b5023087e7a8ab51deab7618c184d53 · servo/stylo
+https://github.com/servo/stylo/blob/bb8a1c140b5023087e7a8ab51deab7618c184d53/style/properties/properties.mako.rs
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Layout Test Results from 04:10AM on September 23, 2026
+https://ews-build.s3-us-west-2.amazonaws.com/macOS-Sequoia-Release-WK2-Tests-EWS/d5890755-47547-rerun/results.html#
+
+(2) Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+⚙ D328089 Bug 2068544 - Parse referrerpolicy on supported elements only. r=emilio,smaug
+https://phabricator.services.mozilla.com/D328089#11453833
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+CSS Display Module Level 3
+https://drafts.csswg.org/css-display/#list-items
+
+servo/components/script/dom/security/sanitizer.rs at main · servo/servo
+https://github.com/servo/servo/blob/main/components/script/dom/security/sanitizer.rs
+
+Missing role mappings for some mathml elements · Issue #41 · w3c/mathml-aam
+https://github.com/w3c/mathml-aam/issues/41
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiIzNyIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjozODQyNX0%3D
+
+Code search results
+https://github.com/search?q=repo%3Aservo%2Fstylo+DisplayInside&type=code
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+CSS Display Module Level 3
+https://drafts.csswg.org/css-display/#typedef-display-inside
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+servo/fuzz/fuzz_targets/servo_parse_html.rs at fuzz · tannal/servo
+https://github.com/tannal/servo/blob/fuzz/fuzz/fuzz_targets/servo_parse_html.rs
+
+Structure-Aware Fuzzing - Rust Fuzz Book
+https://rust-fuzz.github.io/book/cargo-fuzz/structure-aware-fuzzing.html
+
+[mathml] Drop javascript: link navigation for MathML anchor element (7992255) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/7992255
+
+rust-fuzz/honggfuzz-rs: Fuzz your Rust code with Google-developed Honggfuzz !
+https://github.com/rust-fuzz/honggfuzz-rs
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=instrument&op=translate
+
+fred-wang/servo-fuzzing: Helper scripts for Servo fuzzing
+https://github.com/fred-wang/servo-fuzzing
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+⚙ D317723 Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://phabricator.services.mozilla.com/D317723#change-ylOkZ9tdjsXC
+
+Login successful |
+https://auth.mozilla.auth0.com/device/success
+
+100% - [10] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=205c26d85e25567a233e2dfd33928f2c6dea7387
+
+try: diff dom/mathml/MathMLAnchorElement.cpp
+https://hg-edge.mozilla.org/try/diff/0d19b713cd7e7ba9e6e835ef8d283d5158759a7f/dom/mathml/MathMLAnchorElement.cpp
+
+Try: Bug 2064612 - Add download, ping, rel, relList and referrerPolicy attributes to MathMLAnchorElement r=emilio,fredw,smaug,sfarre
+https://tests.firefox.dev/try.html?rev=205c26d85e25567a233e2dfd33928f2c6dea7387
+
+100% - [11] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=549dcaaa78841498a86ab7d77d1bd92082e8066d
+
+⚙ D319703 Bug 2064615 - Add role for more MathML elements r=emilio,surkov,marcoz,fredw
+https://phabricator.services.mozilla.com/D319703
+
+2043161 - Optimize representation of common enum attributes in the parser
+https://bugzilla.mozilla.org/show_bug.cgi?id=2043161
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/
+
+Code search results
+https://github.com/search?q=repo%3AWebKit%2FWebKit+isMathText&type=code
+
+wpt.live/sanitizer-api/sanitizer-default-config.html
+https://wpt.live/sanitizer-api/sanitizer-default-config.html
+
+AX: An anchor element that has a click handler but no href should still be considered a link by twilco · Pull Request #67035 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/67035/changes#diff-42aca3f63fec39c596806d35d905f1850bf09a4331a00845d755a4eac3bfcb2a
+
+mozjs/mozjs-sys/build.rs at main · servo/mozjs
+https://github.com/servo/mozjs/blob/main/mozjs-sys/build.rs
+
+[MathML] Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-e073edc21cc4fcc8c962aa4caba4c1910b7503602987ec9d9a6735110c3be2ae
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mstyle
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Buildbot
+https://ews-build.webkit.org/#/builders/34/builds/147428
+
+ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428-repeat-failures/accessibility/math-fenced-diff.txt
+https://ews-build.s3-us-west-2.amazonaws.com/WPE-WK2-Tests-EWS/330dca62-147428-repeat-failures/accessibility/math-fenced-diff.txt
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+100% - [11] try: Tasks automatically selected
+https://treeherder.mozilla.org/jobs?repo=try&revision=7c5008f10bb39bd41e60ea4f9287ba8b6e66636d
+
+web-platform-tests dashboard
+https://wpt.fyi/results/mathml/relations/html5-tree?label=experimental&label=master&aligned
+
+github.com
+https://github.com/web-platform-tests/wpt/pull/61018
+
+[MathML] Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-91d6f6bb88d8102ec16aae48db734ba2f25ab6390c6cf16ed7c65074fd249da9
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776?tab=comments
+
+2064612 - Support download, ping, rel, relList and referrerPolicy attributes for MathMLAnchorElement
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064612
+
+[wpt] Add CSP style policy enforcement tests for MathML elements (8181776) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8181776
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view#Summary-of-the-CE-program
+
+tannal
+https://tannal.github.io/
+
+My Reviews · Gerrit Code Review
+https://chromium-review.googlesource.com/dashboard/self
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=comments
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#mathml-element-mappings
+
+[MathML] Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+收件箱 - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+CSS Display Module Level 3
+https://drafts.csswg.org/css-display-3/#layout-specific-display
+
+servo/stylo: CSS engine that powers Servo and Firefox
+https://github.com/servo/stylo
+
+MathML Core
+https://w3c.github.io/mathml-core/
+
+
 # 2026-09-20
 
 Igalia-work - Google Gemini

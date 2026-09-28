@@ -1,6 +1,14 @@
 
 # 2026-09-28
 
+use std::backtrace::Backtrace;
+let backtrace = Backtrace::capture();
+println!("Current stack trace:\n{}", backtrace);
+
+file:///home/tannal/tannalwork/projects/servo/test.html
+
+./mach build 2>&1 | tee log.txt
+
 ```
 echo -e "\033[33m[!] Fuzzing stopped due to crash. Inspect files in '$CRASH_DIR' or '$TEST_DIR'.\033[0m"
 exit 1  # <--- Halts the fuzzing loop immediately
