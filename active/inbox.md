@@ -6,7 +6,6 @@ echo -e "\033[33m[!] Fuzzing stopped due to crash. Inspect files in '$CRASH_DIR'
 exit 1  # <--- Halts the fuzzing loop immediately
 ```
 
-
 [Weekly report 17]
 
 Worked hours: 10h:30min
