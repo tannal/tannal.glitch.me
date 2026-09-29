@@ -1,6 +1,94 @@
 
 # 2026-09-28
 
+Disable MathML Core in servo
+
+Ran 610 tests finished in 288.5 seconds.
+  • 286 ran as expected.
+  • 6 tests had errors unexpectedly
+  • 123 tests failed unexpectedly
+  • 104 tests timed out unexpectedly
+  • 102 tests had unexpected subtest results
+
+
+
+With MathML Core enabled in servo
+Ran 610 tests finished in 251.2 seconds.
+  • 271 ran as expected.
+  • 6 tests had errors unexpectedly
+  • 135 tests failed unexpectedly
+  • 103 tests timed out unexpectedly
+  • 105 tests had unexpected subtest results
+
+Here is a comprehensive 5-stage implementation plan for all 32 MathML Core elements in Servo, organized logically by layout dependency and architectural complexity.
+
+---
+
+### Phase 1: Core Foundation & Basic Containers (The Root Tier)
+
+*Goal: Establish the base `MathContainer` tree hierarchy, inline/block formatting contexts, and box tree integration.*
+
+1. **`math`** (3.4.5) — Root element; manages outer block/inline box generation and establishes the top-level Math Formatting Context (`DisplayInside::Math`).
+2. **`mrow`** (3.4.17) — Fundamental horizontal layout box (`MathRowBlock`); handles child advance calculations, $x$-offsets, and baseline alignment.
+3. **`mstyle`** (3.4.21) — Style property pass-through container; inherits and overrides MathML layout properties (e.g., `math-style`, `math-depth`).
+4. **`mphantom`** (3.4.14) — Invisibility container; computes full bounding box dimensions of children without rendering visual fragments or borders.
+
+---
+
+### Phase 2: Token Elements (Character & Glyph Rendering)
+
+*Goal: Implement text and token layout nodes, font metrics querying, operator spacing, and baseline calculations.*
+
+5. **`mi`** (3.4.8) — Identifiers; handles single-char italicization logic according to MathML character rules.
+6. **`mn`** (3.4.10) — Numbers; standard inline token rendering.
+7. **`mo`** (3.4.11) — Operators; manages dictionary lookup for default spacing (`lspace`/`rspace`), symmetric alignment, and glyph shaping.
+8. **`mtext`** (3.4.27) — Text; standard text box parsing inside math contexts.
+9. **`ms`** (3.4.18) — String literals; automatically wraps text in local quote marks.
+10. **`mspace`** (3.4.19) — Explicit whitespace; creates empty fragments based on `width`, `height`, and `depth` attributes.
+
+---
+
+### Phase 3: Scripts & Indexing (1D Multi-Level Box Layouts)
+
+*Goal: Implement subscript/superscripts and limit attachments using OpenType `MATH` table constants (`SubscriptShiftDown`, `SuperscriptShiftUp`, etc.).*
+
+11. **`msub`** (3.4.22) — Subscripts; shifts child 1 down by baseline metrics.
+12. **`msup`** (3.4.24) — Superscripts; shifts child 1 up by baseline metrics.
+13. **`msubsup`** (3.4.23) — Subscript-superscript pairs; handles simultaneous upper/lower script positioning and kerning collision prevention.
+14. **`munder`** (3.4.29) — Under-scripts; places limits directly below base (e.g., $\lim_{x \to 0}$).
+15. **`mover`** (3.4.28) — Over-scripts; places accents/limits directly above base.
+16. **`munderover`** (3.4.30) — Over-under combination scripts.
+17. **`mmultiscripts`** (3.4.9) — Complex multi-script container for tensor notations.
+18. **`mprescripts`** (3.4.15) — Marker element separating post-scripts from pre-scripts inside `mmultiscripts`.
+19. **`none`** (3.4.31) — Empty placeholder for missing script positions inside `mmultiscripts` / `msubsup`.
+
+---
+
+### Phase 4: 2D Radical, Structural & Fractional Layouts
+
+*Goal: Construct complex two-dimensional layout algorithms, fractions, radical extensions, and tabular structures.*
+
+20. **`mfrac`** (3.4.7) — Fractions; stacks numerator and denominator vertically and draws the rule line.
+21. **`msqrt`** (3.4.20) — Square roots; draws the radical symbol, stretches the horizontal overbar, and positions the inner box.
+22. **`mroot`** (3.4.16) — $n$-th roots; renders radical symbol with root index positioned in the upper-left notch.
+23. **`mpadded`** (3.4.13) — Manual dimension modifier (`lspace`, `voffset`, `width`, `height`, `depth`).
+24. **`mtable`** (3.4.25) — Matrix/Table root container; integrates with Servo's table layout engine or custom MathML table grid.
+25. **`mtr`** (3.4.28) — Table row.
+26. **`mtd`** (3.4.26) — Table cell.
+27. **`merror`** (3.4.6) — Error wrapper; renders enclosed child contents with red fallback error styling.
+
+---
+
+### Phase 5: Hyperlinks, Interactivity & Semantic Annotations
+
+*Goal: Integrate HTML/DOM interactivity, link traversal, and semantic fallback mechanisms.*
+
+28. **`a`** (MathML `<a>` Element) — Hyperlink anchor; delegates layout to `MathRowBlock` while attaching link targets/events.
+29. **`semantics`** (3.4.32) — Container tying visual presentation to alternative representations.
+30. **`annotation`** (3.4.2) — Textual annotation child (e.g., raw LaTeX source) within `semantics`; typically non-rendering (`DisplayInside::None`).
+31. **`annotation-xml`** (3.4.3) — XML-structured annotation child (e.g., Content MathML); non-rendering in standard visual viewports.
+32. **`maction`** (3.4.4) — Interactive element; toggles active child views on event triggers (e.g., click/hover tooltips).
+
 use std::backtrace::Backtrace;
 let backtrace = Backtrace::capture();
 println!("Current stack trace:\n{}", backtrace);
