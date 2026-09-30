@@ -1,6 +1,11 @@
 
 # 2026-09-28
 
+```cpp
+if (m_renderer)
+    return m_renderer->isIgnoredElementForAccessibilityTree();
+```
+
 scp -J igalia.com macpro:/Users/mtan/tannalwork/projects/WebKit/build.log /home/tannal/tannalwork/projects/WebKit/build.log
 
 Disable MathML Core in servo
