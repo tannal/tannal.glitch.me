@@ -1,6 +1,8 @@
 
 # 2026-09-28
 
+scp -J igalia.com macpro:/Users/mtan/tannalwork/projects/WebKit/build.log /home/tannal/tannalwork/projects/WebKit/build.log
+
 Disable MathML Core in servo
 
 Ran 610 tests finished in 288.5 seconds.
