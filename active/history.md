@@ -1,4 +1,208 @@
 
+# 2026-10-01
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Igalia Chat [4] | web-platform-tests
+https://chat.igalia.com/#/room/#wpt:matrix.org
+
+Fix and extend cross-origin WebAssembly.Module sharing tests by annevk · Pull Request #63102 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/63102/changes
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+failed - linux-rel b8669351934797707153
+https://ci.chromium.org/ui/p/chromium/builders/try/linux-rel/b8669351934797707153/overview
+
+results.usercontent.luci.app/invocations/task-chromium-swarm.appspot.com-7b04870b347a4411/tests/:%2F%2F%5C:headless_shell_wpt%21webtest::external%2Fwpt%2Fhtml%2Fdom%23idlharness.https.html%3Fexclude=%28Document%7CWindow%7CHTML.+%29/results/6db2d810-00001/artifacts/expected_text?token=AXsiX2kiOiIxNzkwODI5NzY3NDEzIiwiX3giOiIzNjAwMDAwIn1mxg3YKAiKO6XfV7O5Y7jYqk5fRnjHgjQ9nA7OOigMJA
+https://results.usercontent.luci.app/invocations/task-chromium-swarm.appspot.com-7b04870b347a4411/tests/:%2F%2F%5C:headless_shell_wpt%21webtest::external%2Fwpt%2Fhtml%2Fdom%23idlharness.https.html%3Fexclude=%28Document%7CWindow%7CHTML.+%29/results/6db2d810-00001/artifacts/expected_text?token=AXsiX2kiOiIxNzkwODI5NzY3NDEzIiwiX3giOiIzNjAwMDAwIn1mxg3YKAiKO6XfV7O5Y7jYqk5fRnjHgjQ9nA7OOigMJA
+
+[MathML] Implement new MathMLAnchorElement Web IDL support. by tannal · Pull Request #71827 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/71827/changes#diff-59517d3d2b950f786c661a1c09a812e9d8020f2154618c6cb6f55a23ac183b61
+
+Pull requests · WebKit/WebKit
+https://github.com/WebKit/WebKit/pulls
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+2068544 - Simplify the code path for referrerpolicy parsing
+https://bugzilla.mozilla.org/show_bug.cgi?id=2068544
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702?tab=checks
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html%2Fdom%2Fidlharness.https.html%3Fexclude%3D%28Document%7CWindow%7CHTML.%2B%29?label=experimental&label=master&aligned
+
+Time tracking (week of Sep 28, 2026)
+https://hours.igalia.com/time/week
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-09-28&user=344
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&op=translate
+
+It's 23:00 on my local time - Google 搜索
+https://www.google.com/search?q=It%27s+23%3A00+on+my+local+time&oq=It%27s+23%3A00+on+my+local+time&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwOTA0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+MathML Core
+https://w3c.github.io/mathml-core/#semantics-and-presentation
+
+Getting started with layout · servo/servo Wiki
+https://github.com/servo/servo/wiki/Getting-started-with-layout
+
+MathML: mpadded + mrow Integration Layout Test
+file:///home/tannal/tannalwork/projects/servo/test2.html
+
+MathML Accessibility API Mappings 1.0
+https://w3c.github.io/aria/mathml-aam/#el-mmultiscripts
+
+WPT Pass Rates - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://servo.org/wpt/
+
+Clarify the language around deprecated features of MathML · Issue #279 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/279
+
+MathML Core
+https://w3c.github.io/mathml-core/#fractions-mfrac
+
+325760 – Set the correct initiatorType for PingLoader
+https://bugs.webkit.org/show_bug.cgi?id=325760
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?view
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+[AX] Add a11y roles for more MathML elements by tannal · Pull Request #73957 · WebKit/WebKit
+https://github.com/WebKit/WebKit/pull/73957
+
+Igalia’s Coding Experience Program - Participant Feedback
+https://surveys.igalia.com/index.php/886747?lang=en
+
+mathml: Add tests for MathML style attributes on the <a> element by eerii · Pull Request #63056 · web-platform-tests/wpt
+https://github.com/web-platform-tests/wpt/pull/63056
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/a_pO1vHnRmKYDxN-aUEIbQ?view
+
+Meng Tan Coding experience 2026 - HedgeDoc
+https://notes.igalia.com/j6F9bUW2Qd2kU7xTdppRIA?edit
+
+please take a look again in short - Google 搜索
+https://www.google.com/search?q=please+take+a+look+again+in+short&sca_esv=b17f2d6d3ac2c9bd&sxsrf=APpeQnvFrWVdVN3lCNbZQ-VPag50kI-lSg%3A1790740260601&ei=JIe8at-XJOfDkPIPoaHP8A0&biw=1850&bih=932&uact=5&oq=please+take+a+look+again+in+short&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXBsZWFzZSB0YWtlIGEgbG9vayBhZ2FpbiBpbiBzaG9ydDIHECEYChigATIHECEYChigATIHECEYChigAUjNSFD-CVjAR3AGeAGQAQCYAbgDoAHRG6oBCDItMTEuMS4xuAEDyAEA-AEBmAIMoALwE8ICChAAGEcY1gQYsAPCAgQQIxgnwgIEEAAYHsICCBAAGIAEGKIEwgIFEAAY7wXCAgUQIRigAZgDAIgGAZAGAZIHCTMuMC43LjEuMaAHhxuyBwcyLTcuMS4xuAfnE8IHBTEuNi41yAcfgAgB&sclient=gws-wiz-serp
+
+Reports - Time
+https://hours.igalia.com/reports/time?start=2026-01-01&end=2026-09-30&user=344
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+TODOs for MathML `<a>` element · Issue #340 · w3c/mathml-core
+https://github.com/w3c/mathml-core/issues/340#issuecomment-5905770011
+
+Buildbot
+https://ews-build.webkit.org/#/builders/120/builds/136410
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+webkit skip ci - Google 搜索
+https://www.google.com/search?q=webkit+skip+ci&oq=webkit+skip+ci&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAjIHCAMQIRiPAtIBCDI5OTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+Continuous Integration - WebKit Documentation
+https://docs.webkit.org/Deep%20Dive/Build/CI.html
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=just%20to%20find%20the%20flavour%20of%20the%20renderer.&op=translate
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+Error
+https://surveys.igalia.com/index.php/886747
+
+Work items · Coding Experience Weekly Reports · GitLab
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items?sort=created_date&state=opened&first_page_size=20&show=eyJpaWQiOiI0MSIsImZ1bGxfcGF0aCI6InNoYXJlZC1yZXNvdXJjZXMvY2Utd2Vla2x5cmVwb3J0cyIsImlkIjo0MzA3OH0%3D
+
+Igalia’s Coding Experience Program - Participant Feedback
+https://surveys.igalia.com/index.php/886747?lang=en
+
+Igalia polls
+https://surveys.igalia.com/index.php/admin/authentication/sa/login
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+JunkuiZhang (张小白) / August 2026
+https://github.com/JunkuiZhang?tab=overview&from=2026-08-01&to=2026-08-31
+
+MurmurHash：一种高性能哈希函数 - 张小白的小窝
+https://blog.xiaobaizhang.top/posts/murmur_hash/
+
+zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+https://github.com/zed-industries/zed
+
+Hired Through GitHub: Part 1 — Zed's Blog
+https://zed.dev/blog/hired-through-github-part-1
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+The Team - Zed — Your last next editor
+https://zed.dev/team
+
+Edgar - Google 搜索
+https://www.google.com/search?q=Edgar&oq=Edgar&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAjIGCAQQRRg90gEHMjI1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+sxyazi/yazi - 42.5k Stars · Global Rank #660
+https://www.star-history.com/sxyazi/yazi
+
+Create new paste
+https://paste.igalia.com/
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+Build WebKit on Igalia’s Mac pro - HedgeDoc
+https://notes.igalia.com/Vh1OJq4RRxaT3jfASnG0EQ
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+idlharness.https_exclude=(Document_Window_HTML.+)-expected.txt - Chromium Code Search
+https://source.chromium.org/chromium/chromium/src/+/main:third_party/blink/web_tests/external/wpt/html/dom/idlharness.https_exclude%3D%28Document_Window_HTML.+%29-expected.txt
+
+Servo MathML mfrac Test Suite
+file:///home/tannal/tannalwork/projects/servo/frac.html
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+https://github.com/flutter/flutter/tree/master
+
+CSS Box Sizing Module Level 3
+https://drafts.csswg.org/css-sizing-3/#preferred-size-properties
+
+
 # 2026-09-28
 
 
