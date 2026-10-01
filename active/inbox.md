@@ -1,5 +1,14 @@
 
+# 2026-10-01
+
+SERVO_DIAGNOSTICS=display-list ./mach run file:///home/tannal/tannalwork/projects/servo/frac.html
+
+SERVO_DIAGNOSTICS=flow-tree ./mach run file:///home/tannal/tannalwork/projects/servo/test4.html
+
+
 # 2026-09-28
+
+SERVO_DIAGNOSTICS=display-list ./mach run file:///home/tannal/tannalwork/projects/servo/frac.html
 
 gh gist create /home/tannal/tannalwork/projects/WebKit/build.log -d "Build Log for WebKit"
 
