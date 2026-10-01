@@ -1,6 +1,8 @@
 
 # 2026-10-01
 
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/?fontFamily=FiraMath
+
 SERVO_DIAGNOSTICS=display-list ./mach run file:///home/tannal/tannalwork/projects/servo/frac.html
 
 SERVO_DIAGNOSTICS=flow-tree ./mach run file:///home/tannal/tannalwork/projects/servo/test4.html
