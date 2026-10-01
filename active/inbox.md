@@ -1,6 +1,10 @@
 
 # 2026-09-28
 
+gh gist create /home/tannal/tannalwork/projects/WebKit/build.log -d "Build Log for WebKit"
+
+git show -- 
+
 file:///home/tannal/tannalwork/projects/servo/frac.html
 
 YII_CSRF_TOKEN
