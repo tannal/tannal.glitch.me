@@ -1,4 +1,10 @@
 
+# 2026-10-02
+
+076986633226
+
+"你好，我想办一张长城跨境通 Visa 借记卡（莫奈卡），顺便帮我把这张卡挂在我现有的这个多币种账户下面。"
+
 # 2026-10-01
 
 https://fred-wang.github.io/MathFonts/mozilla_mathml_test/?fontFamily=FiraMath
