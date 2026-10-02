@@ -1,6 +1,28 @@
 
 # 2026-10-02
 
+
+Mitchell Hashimoto
+Simon Willison
+Francois Chollet
+Andrej Karpathy
+
+https://arxiv.org/abs/1911.01547
+
+这种思想没有人讨论和发现吗？而且后训练的过程中刻意的优化agent的tool calling 长任务能力，出了精准的上下文管理，chat only - copy paste method能在一两次对话中判断出模型没有能力解决这个问题，而agent没有能力发现，靠自己不可能发现，
+
+而且后训练的过程中刻意的优化agent的tool calling 长任务能力，会让模型变得更蠢吗？
+
+AI的能力来自于数据，不来自于算法，Google在这边有天然优势，世界上没有任何组织像Google一样实时的拥有整个互联网的数据
+
+另外一个值得注意的地方是in context learning 模型必须能在对话中纠正错误或者修改部分权重来输入新知识，或者跟专家互动的时候学习，人类最宝贵的知识像冰山一样存在于人的大脑中trait knowledge
+
+这也是为什么我们推荐看访谈
+
+我准备把ai 定义为两级左右 最左边是chat only 最右边是自动化agent
+
+https://arxiv.org/pdf/2310.01798
+
 53353.50
 
 92441900MAKF3UHM30
