@@ -1,6 +1,9 @@
 
 # 2026-10-03
 
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
 ```
 # Configure TUN (Virtual Network Adapter)
 tun:
