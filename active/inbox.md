@@ -1,6 +1,8 @@
 
 # 2026-10-02
 
+diff -u <(pdftotext Documentation-Meng.pdf -) <(pdftotext "Documentation-Meng (2nd CE).pdf" -)
+
 方案二：从 Base Model（基座模型）分支重新后训练（最可能的行业走向）
 这也是为什么像 Google 这样的巨头拥有巨大的算力与数据优势：预训练阶段（Pre-training）耗费了 90% 的算力，存下了最纯粹的 Base Model。
 未来当行业普遍意识到“Agent 路线陷入死胡同”时，巨头们根本不需要重做预训练，他们只需要回到那个未经 Tool-Calling 污染的 Base Model 节点，重新设计一套专注于 “高密度思考链（Chain of Thought）、多模态精准理解与 In-Context Reasoning” 的全新后训练方案。
