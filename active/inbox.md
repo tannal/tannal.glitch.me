@@ -1,6 +1,9 @@
 
 # 2026-10-02
 
+SERVO_DIAGNOSTICS=flow-tree ./mach run file:///home/tannal/tannalwork/projects/servo/test4.html --devtools=6080
+SERVO_DIAGNOSTICS=display-list ./mach run file:///home/tannal/tannalwork/projects/servo/test4.html --devtools=6080
+
 diff -u <(pdftotext Documentation-Meng.pdf -) <(pdftotext "Documentation-Meng (2nd CE).pdf" -)
 
 方案二：从 Base Model（基座模型）分支重新后训练（最可能的行业走向）
