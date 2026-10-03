@@ -1,4 +1,27 @@
 
+# 2026-10-03
+
+```
+# Configure TUN (Virtual Network Adapter)
+tun:
+  enable: true
+  stack: system # Options: system / gvisor / lwip
+  dns-hijack:
+    - 'any:53'
+    - 'tcp://any:53'
+  auto-route: true
+  auto-detect-interface: true
+```
+
+sudo setcap cap_net_admin,cap_net_bind_service=+ep /home/tannal/Downloads/mihomo-linux-amd64-alpha-1af24e9/mihomo-linux-amd64
+
+https://policies.google.com/terms
+
+Santa Clara, California
+
+United States of America flag
+United States of America
+
 # 2026-10-02
 
 SERVO_DIAGNOSTICS=flow-tree ./mach run file:///home/tannal/tannalwork/projects/servo/test4.html --devtools=6080
