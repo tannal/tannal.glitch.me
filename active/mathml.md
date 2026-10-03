@@ -1,5 +1,222 @@
 
 
+```
+// mrow
+
+use app_units::Au;
+use malloc_size_of_derive::MallocSizeOf;
+use script::layout_dom::ServoLayoutNode;
+use servo_arc::Arc as ServoArc;
+use std::sync::Arc;
+use style::context::SharedStyleContext;
+use style::properties::ComputedValues;
+
+use super::MathLevelBox;
+use crate::cell::ArcRefCell;
+use crate::context::LayoutContext;
+use crate::dom::{BoxSlot, LayoutBox, WeakLayoutBox};
+use crate::dom_traversal::{BoxTreeString, Contents, NodeAndStyleInfo, TraversalHandler};
+use crate::formatting_contexts::Baselines;
+use crate::fragment_tree::{
+    BaseFragmentInfo, BoxFragment, Fragment, MathFragment, MathFragmentKind,
+};
+use crate::geom::{LogicalRect, LogicalVec2, PhysicalVec, ToLogicalWithContainingBlock};
+use crate::layout_box_base::LayoutBoxBase;
+use crate::mathml::{MathTraversalBuilder};
+use crate::positioned::PositioningContext;
+use crate::sizing::{ContentSizes, InlineContentSizesResult, SizeConstraint};
+use crate::style_ext::{DisplayGeneratingBox, LayoutStyle};
+use crate::{ConstraintSpace, ContainingBlock, ContainingBlockSize, PropagatedBoxTreeData};
+use style::Zero;
+
+/// 代表 MathML <mrow> 容器
+#[derive(Debug, MallocSizeOf)]
+pub(crate) struct MathRowBlock {
+    pub base: LayoutBoxBase,
+    pub children: Vec<ArcRefCell<MathLevelBox>>,
+}
+
+impl MathRowBlock {
+    pub(crate) fn construct(
+        node_and_style_info: &NodeAndStyleInfo,
+        children: Vec<ArcRefCell<MathLevelBox>>,
+    ) -> MathRowBlock {
+        let base_fragment_info: BaseFragmentInfo = node_and_style_info.into();
+        let base = LayoutBoxBase::new(base_fragment_info, node_and_style_info.style.clone());
+
+        // 计算包含全部子节点的 Layout Subtree Size
+        let subtree_size = children
+            .iter()
+            .map(|c| c.borrow().with_base(|base| base.subtree_size()))
+            .sum::<usize>()
+            + 1;
+
+        base.set_subtree_size(subtree_size);
+
+        MathRowBlock {
+            base,
+            children: children,
+        }
+    }
+
+    pub(crate) fn repair_style(
+        &mut self,
+        context: &SharedStyleContext,
+        node: &ServoLayoutNode,
+        new_style: &ServoArc<ComputedValues>,
+    ) {
+        self.base.repair_style(new_style);
+        for child in &self.children {
+            child.borrow_mut().repair_style(context, node, new_style);
+        }
+    }
+
+    pub(crate) fn attached_to_tree(&self, layout_box: WeakLayoutBox) {
+        for child in &self.children {
+            child.borrow().attached_to_tree(layout_box.clone());
+        }
+    }
+
+    pub(crate) fn inline_content_sizes(
+        &self,
+        layout_context: &LayoutContext,
+        constraint_space: &ConstraintSpace,
+    ) -> InlineContentSizesResult {
+        let mut min_content = Au::zero();
+        let mut max_content = Au::zero();
+        let mut depends_on_block_constraints = false;
+
+        for child in &self.children {
+            let child_sizes = child
+                .borrow()
+                .inline_content_sizes(layout_context, constraint_space);
+
+            min_content += child_sizes.sizes.min_content;
+            max_content += child_sizes.sizes.max_content;
+            depends_on_block_constraints |= child_sizes.depends_on_block_constraints;
+        }
+
+        InlineContentSizesResult {
+            sizes: ContentSizes {
+                min_content,
+                max_content,
+            },
+            depends_on_block_constraints,
+        }
+    }
+
+    pub(crate) fn layout(
+        &self,
+        layout_context: &LayoutContext,
+        positioning_context: &mut PositioningContext,
+        containing_block: &ContainingBlock,
+    ) -> Vec<Fragment> {
+        let style = &self.base.style;
+        let writing_mode = style.writing_mode;
+        let layout_style = LayoutStyle::Default(style);
+        let pbm = layout_style
+            .content_box_sizes_and_padding_border_margin(&containing_block.into())
+            .pbm;
+        let physical_padding = pbm.padding.to_physical(writing_mode);
+    
+        let mut row_max_ascent = Au::zero();
+        let mut row_max_descent = Au::zero();
+    
+        // 1. Single Pass: Layout children and store computed metrics alongside fragments
+        let mut measured_children = Vec::with_capacity(self.children.len());
+    
+        for child_cell in &self.children {
+            let child = child_cell.borrow();
+            let fragments = child.layout(layout_context, positioning_context, containing_block);
+    
+            let mut c_width = Au::zero();
+            let mut c_asc = Au::zero();
+            let mut c_desc = Au::zero();
+    
+            for frag in &fragments {
+                let (rect, first_baseline) = match frag {
+                    Fragment::Box(b) => (b.base.rect(), b.baselines(writing_mode).first),
+                    Fragment::Math(m) => (m.box_fragment.base.rect(), m.box_fragment.baselines(writing_mode).first),
+                    Fragment::Positioning(p) => (p.base.rect(), None),
+                    Fragment::Text(t) => (t.base.rect(), None),
+                    _ => continue,
+                };
+    
+                c_width = c_width.max(rect.origin.x + rect.size.width);
+                let asc = first_baseline.unwrap_or(rect.size.height);
+                c_asc = c_asc.max(asc);
+                c_desc = c_desc.max(rect.size.height - asc);
+            }
+    
+            // Only non-stretchy items establish the parent baseline/ascent row bounds
+            if !child.is_stretchy_operator() {
+                eprintln!("{}", child.is_stretchy_operator());
+                row_max_ascent = row_max_ascent.max(c_asc);
+                row_max_descent = row_max_descent.max(c_desc);
+            }
+    
+            measured_children.push((c_width, c_asc, fragments));
+        }
+    
+        // Fallback if mrow contains only stretchy operators
+        if row_max_ascent == Au::zero() && row_max_descent == Au::zero() {
+            for (_, c_asc, _) in &measured_children {
+                row_max_ascent = row_max_ascent.max(*c_asc);
+            }
+        }
+    
+        // 2. Position items on common alignment axis
+        let mut child_fragments = Vec::new();
+        let mut current_x = physical_padding.left;
+    
+        for (c_width, c_asc, mut fragments) in measured_children {
+            let y_offset = physical_padding.top + (row_max_ascent - c_asc);
+            let translation = PhysicalVec::new(current_x, y_offset);
+    
+            for fragment in &mut fragments {
+                if let Some(base) = fragment.base() {
+                    base.translate_rect(translation.into());
+                }
+            }
+    
+            current_x += c_width;
+            child_fragments.extend(fragments);
+        }
+    
+        let content_size = LogicalVec2 {
+            inline: current_x + physical_padding.right,
+            block: row_max_ascent + row_max_descent + physical_padding.top + physical_padding.bottom,
+        };
+    
+        let content_rect = LogicalRect {
+            start_corner: LogicalVec2::zero(),
+            size: content_size,
+        }
+        .as_physical(Some(containing_block));
+    
+        let baselines = Baselines {
+            first: Some(physical_padding.top + row_max_ascent),
+            last: Some(physical_padding.top + row_max_ascent),
+        };
+    
+        let box_fragment = BoxFragment::new(
+            self.base.base_fragment_info.clone(),
+            self.base.style.clone(),
+            child_fragments,
+            content_rect,
+            physical_padding,
+            pbm.border.to_physical(writing_mode),
+            pbm.margin.auto_is(Au::zero).to_physical(writing_mode),
+            None,
+        )
+        .with_baselines(baselines);
+    
+        vec![Fragment::Box(box_fragment.into())]
+    }
+}
+
+```
+
 
 ```
 extract.py
