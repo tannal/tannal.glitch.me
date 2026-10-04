@@ -1,4 +1,231 @@
 
+# 2026-10-04
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+盘点Minecraft里最大建筑，居然有人一比一复刻地球！_我的世界
+https://www.bilibili.com/video/BV1zCtq61Eoi/?spm_id_from=333.1007.tianma.2-3-6.click
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+教务管理系统首页
+https://dsyjs.nenu.edu.cn/new/welcome.page?ui=new
+
+MC 七段数码 逻辑表达式 - 搜索
+https://cn.bing.com/search?q=MC%20%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%20%E9%80%BB%E8%BE%91%E8%A1%A8%E8%BE%BE%E5%BC%8F&qs=n&form=QBRE&sp=-1&lq=0&pq=mc%20%E4%B8%83%E6%AE%B5%E6%95%B0%E7%A0%81%20%E9%80%BB%E8%BE%91biao%27da%27s&sc=8-19&sk=&cvid=7965660E18AC4A4C90586D3043CA70D6
+
+七段数码管逻辑表达式 - 搜索
+https://cn.bing.com/search?q=%e4%b8%83%e6%ae%b5%e6%95%b0%e7%a0%81%e7%ae%a1%e9%80%bb%e8%be%91%e8%a1%a8%e8%be%be%e5%bc%8f&FORM=QSRE1&dayref=1&ajf=10
+
+学完计组后，我马上在「我的世界」造了台显示器，你敢信？ - 知乎
+https://zhuanlan.zhihu.com/p/270003354
+
+Google
+https://www.google.com.hk/webhp?hl=zh-CN&sa=X&ved=2ahUKEwiIsLilkPOWAxXNSvEDHZbnL8YQPHoECAYQBA
+
+第17篇：七段数码管译码器 - 知乎
+https://zhuanlan.zhihu.com/p/689323385
+
+DeepSeek | 深度求索
+https://www.deepseek.com/
+
+咒术回战_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98&fenlei=256&rsv_pq=0xbda716de00462b07&rsv_t=3700Ak4lFo4CZLCJHa11y%2FZCmqaG3f0uJxxas3w1BfW3Xaa3rTQV18KGo%2BrN&rqlang=en&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=8&rsv_sug1=8&rsv_sug7=100&rsv_btype=i&prefixsug=%25E5%2592%2592%25E6%259C%25AF&rsp=0&inputT=2480&rsv_sug4=2480
+
+皮肤库 - LittleSkin
+https://littleskin.cn/skinlib?filter=skin&keyword=%E8%94%A1%E5%BE%90%E5%9D%A4&sort=time&page=1
+
+皮肤库 - LittleSkin
+https://littleskin.cn/skinlib?filter=skin&sort=time&page=1
+
+我的衣柜 - LittleSkin
+https://littleskin.cn/user/closet
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+信科学院学生实验室使用安全责任书-学生版 - Google 文档
+https://docs.google.com/document/d/1f40rHDrA8LcmyTzkS7WvIAw-jEWf7fO-dIrkmyef0kA/edit?tab=t.0
+
+高性能计算机工作站（438）使用情况备案表2026秋 - Google 文档
+https://docs.google.com/document/d/1YMmBPQW9PFk1MW3mtJSqxHC1ENH1RikqwfPNBUZPKaQ/edit?pli=1&tab=t.0#heading=h.rlumuhr02xp4
+
+mail qq_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=mail%20qq&fenlei=256&rsv_pq=0xeb6c913f00024c6b&rsv_t=2f9biE1eJOQSylLQnUe%2FA%2FHfHZCqepuEpxovDlUAL1XHwzPUbm8H7kRu21Fr&rqlang=en&rsv_enter=1&rsv_dl=tb_enter&rsv_sug3=7&rsv_sug1=5&rsv_sug7=100&rsv_btype=i&prefixsug=mail%2520qq&rsp=4&inputT=1026&rsv_sug4=1026&rsv_sug=1
+
+QQ邮箱
+https://wx.mail.qq.com/home/index?sid=zdVwQoykVHQu6DBjAK5CZgAA#/read/ZL0022_b7rNddGMdJwuxGoAGQaF210
+
+复仇者联盟5 - Google 搜索
+https://www.google.com/search?q=%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F5&sca_esv=4ebf505db5655575&sxsrf=APpeQntgqRXmzYgy7Rn1oyWUah1x4CTdcw:1790221128844&ei=SJu0auKKM4Xy0PEP-5nn4QU&sqi=2&start=10&sa=N&sstk=AS6-VmIB7LVS3LWPyy_v1wbogZHgcwFHcS3Y_SFIQ2j1qEsOk8rewG41YDguHfEi6qhMOwDhkhpxejRqFx_6ly5TTm16lq_4fcv-Uw&ved=2ahUKEwjiztCzpYaXAxUFOTQIHfvMOVwQ8tMDegQIZhAE&biw=1440&bih=731&dpr=2
+
+去了一趟山西。_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1xVY26dEbz/?trackid=web_pegasus_0.router-web-pegasus-2479516-gfll4.1790221168107.364&spm_id_from=333.1007.tianma.1-2-2.click
+
+2026-09-18起 - Google Gemini
+https://gemini.google.com/app/623e938f2191daf7
+
+The entire minecraft protocol in Rust using macro magic : r/rust
+https://www.reddit.com/r/rust/comments/jcbawo/the_entire_minecraft_protocol_in_rust_using_macro/
+
+哈利·波特与火焰杯 (豆瓣)
+https://movie.douban.com/subject/1309055/?from=top250
+
+★豆瓣高分电影榜★ （上）9.7-8.6分
+https://www.douban.com/doulist/240962/?start=50&sort=seq&playable=0&sub_type=
+
+西虹市首富1080p播放 - LIBVIO
+https://www.libvio.lat/play/581133-1-1.html
+
+[Release] QQ Speed (Client src, no server) | RaGEZONE - MMO Development Forums
+https://forum.ragezone.com/threads/release-qq-speed-client-src-no-server.1127868/
+
+GitHub - HxxPro/QQSpeedServer: This is the server framework for the game QQSpeed. · GitHub
+https://github.com/HxxPro/QQSpeedServer/tree/main
+
+multimodal-art-projection/YuE - Google 搜索
+https://www.google.com.hk/search?q=multimodal-art-projection%2FYuE&oq=multimodal-art-projection%2FYuE&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIGCAEQRRg60gELOTY0Mzc3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+GitHub - multimodal-art-projection/YuE: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. · GitHub
+https://github.com/multimodal-art-projection/YuE
+
+Music Arena — Listen & vote
+https://arena.3-148-255-99.sslip.io:8080/zh/arena
+
+YuE/docs/technical_report.pdf at main · multimodal-art-projection/YuE · GitHub
+https://github.com/multimodal-art-projection/YuE/blob/main/docs/technical_report.pdf
+
+technical_report.pdf
+file:///C:/Users/tannal/Downloads/technical_report.pdf
+
+DeepSeek - 探索未至之境
+https://chat.deepseek.com/
+
+windows screenshot file location - Google 搜索
+https://www.google.com/search?q=windows+screenshot+file+location&oq=windows+screenshot+file&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEAAYHjIGCAUQABgeMgYIBhAAGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgIGB7SAQg2OTI2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+德摩根定律 - 维基百科，自由的百科全书
+https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%91%A9%E6%A0%B9%E5%AE%9A%E5%BE%8B
+
+Hopper Clock - Google 搜索
+https://www.google.com/search?sca_esv=63d0b90eb6755b06&sxsrf=APpeQns_D1cKuPeCJoar7YSQzhA20y9o6A:1790756188572&udm=2&fbs=ABfTbFUhNGvvPEUFOvrsPMHwBXgOm668fbRC_a7Vhb8DCgbMq8eqV8bT1VY7Sa-SsVne4NkpLkz0HZk_YZmMHm1pm89LCRSdMAYFTXeLTYtVyQTqQ3KYDjG7YHzzhj9CJPqKuHb4o3uNISmB1V2kpj7OLUq-wkaCzLUg0LAc1OFhvMnBIB3kjVZ1Y19h2EGOyisgxkelYgxZCi0_VehrLP4kPdActaKoOQ&q=Hopper+Clock&sa=X&ved=2ahUKEwjFuP7T7pWXAxUsmysGHQdsLS8QtKgLegQIFhAB&biw=1440&bih=731&dpr=2
+
+KOOK
+https://www.kookapp.cn/app/channels/1877603694996840/3352331008375487
+
+flutter/engine/src/flutter/impeller/display_list/paint.cc at master · flutter/flutter · GitHub
+https://github.com/flutter/flutter/blob/master/engine/src/flutter/impeller/display_list/paint.cc
+
+(1) Minecraft Java - Monostable Circuits - Redstone Guide - YouTube
+https://www.youtube.com/watch?v=TDAHFmETmaA
+
+(1) Redstone Circuits 4: Flip-Flops (D, T, and JK) - YouTube
+https://www.youtube.com/watch?v=yEiFgfXWxUo
+
+【求助】学生可开的gpt可用招行信用卡 - 开发调优 - LINUX DO
+https://linux.do/t/topic/2895639
+
+大家都是怎付的 GPT Plus - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2671801
+
+GPT PLUS代充一般多少钱 - 搞七捻三 - LINUX DO
+https://linux.do/t/topic/2608961/32
+
+我想问一下用自己中国银行信用卡绑定 google play，让后订阅 ChatGPT Plus 。这种方法可行吗？ - V2EX
+https://www.v2ex.com/t/1066680
+
+2310.01798
+https://arxiv.org/pdf/2310.01798
+
+ARC Prize - What is ARC-AGI?
+https://arcprize.org/arc-agi
+
+1911.01547
+https://arxiv.org/pdf/1911.01547
+
+My AI Adoption Journey – Mitchell Hashimoto
+https://mitchellh.com/writing/my-ai-adoption-journey#step-1-drop-the-chatbot
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=excruciating&op=translate
+
+vello/fuzz/fuzz_targets/cpu_gpu_differential/harness.rs at 6d4add289e9aa5b6e6362ee3a377b7ac03ef2672 · linebender/vello
+https://github.com/linebender/vello/blob/6d4add289e9aa5b6e6362ee3a377b7ac03ef2672/fuzz/fuzz_targets/cpu_gpu_differential/harness.rs
+
+vello/vello_gpu/examples/render_to_file.rs at 6d4add289e9aa5b6e6362ee3a377b7ac03ef2672 · linebender/vello
+https://github.com/linebender/vello/blob/6d4add289e9aa5b6e6362ee3a377b7ac03ef2672/vello_gpu/examples/render_to_file.rs#L113
+
+哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+https://www.bilibili.com/
+
+小时候都看了些什么？【熊出没】居然有这么多逆天片段！春日对对碰大结局是什么？_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV1fDaR6BE6J/?trackid=web_pegasus_0.router-web-pegasus-2479516-sm4rx.1790947141452.969&spm_id_from=333.1007.tianma.3-4-10.click
+
+在国内稳定访问 Claude/ChatGPT/X，你需要这三样东西（详细省心步骤） | 奇思妙想CYC (@ChaoSpacecallum) on X
+https://x.com/ChaoSpacecallum/article/2021403973488607615
+
+FSCloud
+https://web.fscloud.cc/#/help-center
+
+‎Google Gemini
+https://gemini.google.com/
+
+Gemini 被送回来了？ - V2EX
+https://www.v2ex.com/t/1234278
+
+Gemini 目前 不 支持 你 所在 的 地区 2026 - Google 搜索
+https://www.google.com.hk/search?q=Gemini+%E7%9B%AE%E5%89%8D+%E4%B8%8D+%E6%94%AF%E6%8C%81+%E4%BD%A0+%E6%89%80%E5%9C%A8+%E7%9A%84+%E5%9C%B0%E5%8C%BA+2026&newwindow=1&sca_esv=59f40870b1987660&sxsrf=APpeQnteVXGV3QX3-O5-TwyIgcFqr4HnAQ:1791023695792&ei=T9rAarz3L5Smvr0P1OPk6QU&start=10&sa=N&sstk=AS6-VmLH0r_uFXEoPWBM5rRGC-kti9G4r_aOex7lnxoL9gwTdBvK2ygi_06aT_1rBglDFdkSa1pnrEhx-9tj7sCUbkzNx2TrtrKtQQ&ved=2ahUKEwj82q-Z052XAxUUk68BHdQxOV0Q8tMDegQINxAE&biw=1440&bih=731&dpr=2
+
+V2EX
+https://www.v2ex.com/
+
+site:v2ex.com/t 机场 gemini - Google 搜索
+https://www.google.com.hk/search?q=site%3Av2ex.com%2Ft+%E6%9C%BA%E5%9C%BA+gemini&newwindow=1&sca_esv=63d299c068466862&sxsrf=APpeQnvu3fvXWp7qJrsRHky1KWi-OWnU-w%3A1791024130124&ei=AtzAaqGSB4zh7_UP5KWZ8QM&biw=1440&bih=731&ved=2ahUKEwihm73o1J2XAxWM8LsIHeRSJj4Q4dUDegQIBhAM&uact=5&oq=site%3Av2ex.com%2Ft+%E6%9C%BA%E5%9C%BA+gemini&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXNpdGU6djJleC5jb20vdCDmnLrlnLogZ2VtaW5pSO0SUKgGWIMQcAF4AJABAJgB8gGgAewOqgEDMi04uAEDyAEA-AEBmAIAoAIAmAMAiAYBkgcAoAeIAbIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp
+
+V2EX
+https://us.v2ex.com/
+
+linux do 机场 gemini 稳定 - Google 搜索
+https://www.google.com.hk/search?q=linux+do+%E6%9C%BA%E5%9C%BA+gemini+%E7%A8%B3%E5%AE%9A&newwindow=1&sca_esv=63d299c068466862&sxsrf=APpeQnuECAJ3Hzrdth1WWgNjM5DhO2DlHA%3A1791025326912&ei=ruDAauShN7yTxc8PwZiuwAo&biw=1440&bih=731&ved=2ahUKEwjksJOj2Z2XAxW8SfEDHUGMC6gQ4dUDegQIBhAM&uact=5&oq=linux+do+%E6%9C%BA%E5%9C%BA+gemini+%E7%A8%B3%E5%AE%9A&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWxpbnV4IGRvIOacuuWcuiBnZW1pbmkg56iz5a6aMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMggQABiABBiiBEiKG1AAWIAXcAB4AJABAJgBhQOgAf0XqgEDMy04uAEDyAEA-AEBmAIFoAKbD5gDAJIHAzMtNaAH1AuyBwMzLTW4B5sPwgcDMC41yAcJgAgB&sclient=gws-wiz-serp
+
+不想折腾自建了，关于机场佬们有没有什么好方案 - 开发调优 - LINUX DO
+https://linux.do/t/topic/174923/57
+
+如何订阅 Gemini？用机场的节点过不去 - V2EX
+https://v2ex.com/t/1188826
+
+Telegram: View @fscloud1
+https://t.me/fscloud1/19
+
+[机场跑路/预警] FSCloud · Issue #129 · limbopro/Paolujichang
+https://github.com/limbopro/Paolujichang/issues/129
+
+飞鸟云机场怎么样 - Google 搜索
+https://www.google.com.hk/search?q=%E9%A3%9E%E9%B8%9F%E4%BA%91%E6%9C%BA%E5%9C%BA%E6%80%8E%E4%B9%88%E6%A0%B7&oq=%E9%A3%9E%E9%B8%9F%E4%BA%91&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg90gEIODkxN2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+feiniaoyun
+https://github.com/feiniaoyun
+
+WgetCloud-个人套餐
+https://katp7luhifu2zxnpy8cs.wgetcloud.org/user/shop
+
+QQ邮箱
+https://wx.mail.qq.com/home/index?sid=zdVzeIykWmsu6FpiAK5OTgAA#/list/1
+
+antigravity vscode 登录 没反应 - Google 搜索
+https://www.google.com.hk/search?q=antigravity+vscode+%E7%99%BB%E5%BD%95+%E6%B2%A1%E5%8F%8D%E5%BA%94&oq=antigravity+vscode+%E7%99%BB%E5%BD%95+%E6%B2%A1%E5%8F%8D%E5%BA%94&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIKCAIQABiABBiiBDIKCAMQABiABBiiBDIHCAQQABjvBTIHCAUQABjvBdIBCTE0MDUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Antigravity 官方已修复跨区登录漏洞，非合规地区账号已无法强制登录 · Issue #2081 · lbjlaq/Antigravity-Manager
+https://github.com/lbjlaq/Antigravity-Manager/issues/2081
+
+Scoop - Apps (antigra)
+https://scoop.sh/#/apps?q=antigra&p=1
+
 # 2026-10-01
 
 Igalia-work - Google Gemini
