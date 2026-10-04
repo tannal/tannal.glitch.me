@@ -2,7 +2,23 @@
 
 # 2026-10-04
 
-(1) script/dom: Implement basic MathML DOM interfaces
+Press Ctrl + K, then Ctrl + S (or go to File > Preferences > Keyboard Shortcuts).
+
+PS C:\WINDOWS\system32> (Get-CimInstance Win32_Service -Filter "Name='clash_verge_service'").PathName
+C:\Users\tannal\scoop\apps\clash-verge-rev\2.5.1\resources\clash-verge-service.exe
+PS C:\WINDOWS\system32> & "C:\Users\tannal\scoop\apps\clash-verge-rev\2.5.1\resources\clash-verge-service.exe"
+
+Category B: Layout Attributes (Parsed Directly in Layout)
+
+These attributes do not map to CSS longhands:
+
+lspace, rspace, stretchy, symmetric, largeop on <mo>
+linethickness, numalign, denomalign on <mfrac>
+width, height, depth on <mspace> or <mpadded>
+
+git add -N components/script/dom/mathml/mathmlelement.rs
+
+(1) script/dom: Implement basic MathML DOM interfaces and bindings
 (2) layout: Add MathML container infrastructure and <mrow> layout
 (3) layout: Add MathML text token layout for <mi>, <mn>, <mtext>
 (4) layout: Implement <mfrac> layout and fraction bar rendering
