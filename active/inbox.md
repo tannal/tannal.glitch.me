@@ -1,4 +1,14 @@
 
+
+# 2026-10-04
+
+(1) script/dom: Implement basic MathML DOM interfaces
+(2) layout: Add MathML container infrastructure and <mrow> layout
+(3) layout: Add MathML text token layout for <mi>, <mn>, <mtext>
+(4) layout: Implement <mfrac> layout and fraction bar rendering
+(5) layout: Add MathML operator layout and stretchy operator support
+
+
 # 2026-10-03
 
 DO NOT run shell commands, searches, or file inspection tools automatically. 
