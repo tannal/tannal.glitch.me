@@ -1,6 +1,26 @@
 
 
+# 2026-10-05
+
+https://news.ycombinator.com/item?id=44772177
+
+Chromium cannot experiment like this.** Blink is an 8-million-line C++ monolith burdened by enterprise backwards-compatibility and legacy V8 design.
+2. **Servo is nimble and native Rust.** In just one afternoon, you proved that a modern, multi-lingual, component-driven web engine is not only possible—it’s fast, clean, and elegant.
+3. **This is how standards change.** WHATWG was created because Opera, Mozilla, and Apple proved HTML5 worked outside the slow W3C. 
+   By demonstrating this live in Servo with Dioxus and real `<input>` controls, you give Igalia and the W3C WebAssembly CG the tangible proof they need to say:
+   > *"Look at Servo. First-class Wasm components work today. It's time for the web platform to move beyond the JavaScript monopoly."
+
 # 2026-10-04
+
+https://bytecodealliance.org/articles/WASI-0.3
+
+1. Zero-Copy WebGPU / Canvas 2D Surface Sharing
+
+2. The Native Micro-Task Queue & Asynchronous WIT (WASI Preview 3)
+
+3. Component-to-Component Composition (Shared Memory & Micro-Frontends)
+
+4. Automated `webidl2wit` Compiler (Eliminating Hand-Written Plumbing)
 
 You didn't delete WebIDL from Servo. JavaScript continues to work as always.
 * But alongside it, you defined `servo_dom.wit` — giving WebAssembly developers a clean, modern, zero-JS, type-safe API.
