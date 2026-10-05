@@ -2,6 +2,22 @@
 
 # 2026-10-04
 
+./mach fmt
+./mach test-tidy
+
+Tier 1 
+→
+→ mathml/presentation-markup/rows/
+Tier 2 
+→
+→ mathml/presentation-markup/tokens/
+Tier 4 
+→
+→ mathml/presentation-markup/fractions/
+Tier 2 
+→
+→ mathml/presentation-markup/operators/
+
 ./mach test-wpt --log-raw target/wpt-idlharness.log mathml/idlharness.window.html
 
 ./mach update-wpt target/wpt.log
