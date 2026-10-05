@@ -2,6 +2,18 @@
 
 # 2026-10-05
 
+git commit -m "script: add native WebAssembly Component Model execution and DOM WIT bindings
+
+- Embed Wasmtime 49 into ScriptThread supporting Wasm Component Model.
+- Define servo_dom.wit interface exposing Document, Element, and Console.
+- Support <script type=\"wasm-component\" src=\"...\"> in HTMLScriptElement.
+- Wire native EventTarget listeners directly to component on_event export.
+- Provide Dioxus RSX VirtualDom TodoMVC proof-of-concept without JS glue."
+
+"We didn't need to rebuild WebIDL, and we didn't need to force Wasm to adopt the JavaScript Garbage Collector.**
+> 
+> **By using the W3C Component Model and WIT resource handles in Servo, we unlocked direct DOM access and laid the foundation for Houdini 2.0 without a single line of JavaScript."
+
 https://news.ycombinator.com/item?id=44772177
 
 Chromium cannot experiment like this.** Blink is an 8-million-line C++ monolith burdened by enterprise backwards-compatibility and legacy V8 design.
