@@ -2,6 +2,26 @@
 
 # 2026-10-04
 
+https://github.com/WebAssembly/component-model/issues/371
+
+cargo component build --target wasm32-unknown-unknown --release
+
+The Architecture: Why this is so exciting for the Igalia team
+
+In a legacy browser, if you wanted an event listener in Wasm, you had to:
+`Wasm -> wasm-bindgen -> create JS Closure -> JS addEventListener -> JS event -> wasm-bindgen adapter -> Wasm`.
+
+In our architecture, **WebAssembly becomes a first-class citizen in Servo's `EventTarget`**:
+
+A WebAssembly component executing directly in a browser engine, manipulating the DOM via typed WIT interfaces, with zero JavaScript glue code.
+
+Phase 1 (Done):** Manual WIT contract (`servo_dom.wit`) proving the Component Model DOM bridge.
+- **Phase 2:** Event listeners and callbacks (Wasm components as reactive event handlers).
+- **Phase 3 (`webidl2wit`):** Modifying Servo's `script_codegen` to emit WIT interface files alongside WebIDL Rust traits, unlocking standard web APIs automatically.
+- **Phase 4 (Long-term vision):** Decoupling Servo's DOM tree memory from SpiderMonkey GC tracing, enabling fully JS-free lightweight Servo embeds!
+
+In the future, tools like `webidl2wit` will generate WIT interfaces directly from WebIDL without SpiderMonkey existing at all. Calling Servo's DOM traits (`DocumentMethods`, `NodeMethods`) directly from `wasm_host.rs` is exactly the right bridge!
+
 cargo component build --target wasm32-wasip1 --release
 
 I'm also interested in improving the antigravatity and other acp experience in zed.
