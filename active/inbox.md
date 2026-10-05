@@ -2,6 +2,10 @@
 
 # 2026-10-04
 
+./mach test-wpt --log-raw target/wpt-idlharness.log mathml/idlharness.window.html
+
+./mach update-wpt target/wpt.log
+
 Press Ctrl + K, then Ctrl + S (or go to File > Preferences > Keyboard Shortcuts).
 
 PS C:\WINDOWS\system32> (Get-CimInstance Win32_Service -Filter "Name='clash_verge_service'").PathName
