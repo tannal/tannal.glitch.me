@@ -2,6 +2,10 @@
 
 # 2026-10-04
 
+https://bugzilla.mozilla.org/show_bug.cgi?id=2025608
+
+cargo tree --target wasm32-unknown-unknown -i wasm-bindgen
+
 Stage 1 (Proven):** Native WIT direct DOM & EventTarget loop (the demo running right now).
    - **Stage 2 (Proven):** Reactive Rust UI frameworks (`dioxus-core`) compiling to pure components on top of this WIT interface.
    - **Stage 3 (Future Roadmap):** Automated `webidl2wit` generation and `componentize-js` compatibility for existing React/Vue web apps.
