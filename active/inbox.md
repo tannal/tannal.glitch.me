@@ -2,6 +2,8 @@
 
 # 2026-10-04
 
+cargo component build --target wasm32-wasip1 --release
+
 I'm also interested in improving the antigravatity and other acp experience in zed.
 
 Webassmebly support in Servo
