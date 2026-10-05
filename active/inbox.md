@@ -2,6 +2,15 @@
 
 # 2026-10-04
 
+You didn't delete WebIDL from Servo. JavaScript continues to work as always.
+* But alongside it, you defined `servo_dom.wit` — giving WebAssembly developers a clean, modern, zero-JS, type-safe API.
+
+No "Big Bang" Rewrites:** Developers don't have to throw away React or compile JS engines into Wasm.
+2. **Clear Boundaries:**
+   * **JavaScript / React:** Handles page routing, high-level business forms, and legacy UI.
+   * **Wasm (Rust/Zig/C++):** Handles graphics, complex canvas editors (Graphite, Figma), heavy data crunching, or snappy sub-widgets.
+3. **Unified by the DOM:** Both live in the same browser, share the same styling (CSS variables, flexbox), and communicate via standard DOM events and WIT interfaces.
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=2025608
 
 cargo tree --target wasm32-unknown-unknown -i wasm-bindgen

@@ -1,4 +1,61 @@
 
+
+# 2026-10-05
+
+MathML mpadded and layout attributes numerical overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+blink (Channel) - Chromium - Slack
+https://app.slack.com/client/T039UTRBS/CGJNSDHA7
+
+* reviews (Channel) - WebKit - Slack
+https://app.slack.com/client/T06G50708/CU81QR94P
+
+2064612 - Support download, ping, rel, relList and referrerPolicy attributes for MathMLAnchorElement
+https://bugzilla.mozilla.org/show_bug.cgi?id=2064612
+
+Enter Bug: Firefox
+https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox
+
+http://localhost:8000/test.html
+http://localhost:8000/test.html
+
+Sanitizer API: MathML a element attributes testing
+http://web-platform.test:8001/sanitizer-api/sanitizer-mathml-a.html
+
+PROOF|3/5|x1=5900245.0|x3a=251.0|x3b=-17895726.0|y4=-4999997.6|x5a=-17895726.0|x5b=-17895726.0
+https://bug2067526.bmoattachments.org/attachment.cgi?id=9632325
+
+MathML mpadded and layout attributes numerical overflow tests
+http://web-platform.test:8000/mathml/relations/html5-tree/attribute-overflow.html
+
+Testcases for handling javascript: URL attributes
+http://web-platform.test:8001/sanitizer-api/sanitizer-javascript-url.html
+
+Sanitizer API: Comprehensive MathML elements and attributes sanitization
+http://web-platform.test:8001/sanitizer-api/sanitizer-mathml-elements.html
+
+Testcases for handling javascript: URL attributes
+http://web-platform.test:8001/sanitizer-api/sanitizer-javascript-url.html
+
+http://web-platform.test:8000/sanitizer-api/sanitizer-config.html
+http://web-platform.test:8000/sanitizer-api/sanitizer-config.html
+
+http://web-platform.test:8000/sanitizer-api/sanitizer-modifiers.html
+http://web-platform.test:8000/sanitizer-api/sanitizer-modifiers.html
+
+Sanitizer API: Navigation and Evasion Security Test
+http://web-platform.test:8001/sanitizer-api/sanitizer-a-navigation.html
+
+The MathML Acid3 Test
+http://fred-wang.github.io/AcidTestsMathML/acid3/
+
+DevTools - The Servo Book
+https://book.servo.org/contributing/devtools.html?highlight=devtool#devtools
+
+
+
+
 # 2026-10-04
 
 2026-08-11起 - Google Gemini
