@@ -2,7 +2,9 @@
 
 # 2026-10-04
 
-Webassmebly support in 
+I'm also interested in improving the antigravatity and other acp experience in zed.
+
+Webassmebly support in Servo
 
 ./mach fmt
 ./mach test-tidy
@@ -49,6 +51,7 @@ git add -N components/script/dom/mathml/mathmlelement.rs
 
 # 2026-10-03
 
+In this session:
 DO NOT run shell commands, searches, or file inspection tools automatically. 
 Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
 
