@@ -2,6 +2,12 @@
 
 # 2026-10-04
 
+Stage 1 (Proven):** Native WIT direct DOM & EventTarget loop (the demo running right now).
+   - **Stage 2 (Proven):** Reactive Rust UI frameworks (`dioxus-core`) compiling to pure components on top of this WIT interface.
+   - **Stage 3 (Future Roadmap):** Automated `webidl2wit` generation and `componentize-js` compatibility for existing React/Vue web apps.
+
+A Proof-of-Concept exploring First-Class WebAssembly Components in Servo: Direct DOM manipulation and event dispatching via WIT interfaces with zero JavaScript glue.
+
 https://github.com/WebAssembly/component-model/issues/371
 
 cargo component build --target wasm32-unknown-unknown --release
