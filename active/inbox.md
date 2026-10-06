@@ -2,6 +2,10 @@
 
 # 2026-10-06
 
+Standardize the servo:dom WIT Interface: Stabilize core interfaces (dom-core, dom-events, dom-traversal) so guest frameworks can compile against standardized, semver-compatible WIT definitions.
+Lifecycle Management: Migrate the active Wasm component store from thread-local storage directly into the Document / GlobalScope lifecycle to guarantee automatic teardown on page navigation.
+Pass Native Event Coordinates: Expose native mouse cursor positions (client_x, client_y) from Servo's window hit-testing directly through CompiledEventListener::Wasm into ServoMouseData.
+
 Encapsulation: Instead of a global match handler_id string parser, each component simply declares its own closure in RSX:
 rust
 button {
