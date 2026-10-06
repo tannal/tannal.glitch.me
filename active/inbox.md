@@ -1,7 +1,16 @@
 
 # 2026-10-05
 
+autoninja -C out/Default
+
+git stash show stash@{1}
+
+./mihomo-linux-amd64 -f /home/tannal/.config/mihomo/config-fsc.yaml
+./mihomo-linux-amd64-alpha-fb4d3c4 -f /home/a17/.config/mihomo/config-fsc.yaml
+
 ./third_party/blink/tools/run_blink_wptserve.py
+
+git branch --format="%(refname:short)" | xargs -I {} git rebase origin/main {}
 
 # 2026-10-05
 
