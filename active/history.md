@@ -1,4 +1,228 @@
 
+# 2026-10-07
+
+Code search results
+https://github.com/search?q=repo%3Azed-industries%2Fzed+HTTPSConnectionPool&type=code
+
+antigravity acp HTTPSConnectionPool - Google 搜索
+https://www.google.com/search?q=antigravity+acp+HTTPSConnectionPool&oq=antigravity+acp+HTTPSConnectionPool&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQABgeMgYIBhAAGB4yCAgHEAAYCBgeMggICBAAGAgYHjIICAkQABgFGB7SAQgzNjAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google Antigravity - ACP Agent | Zed
+https://zed.dev/acp/agent/antigravity-acp
+
+IDE extensions | Google Antigravity Docs
+https://antigravity.google/docs/ide/extensions
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+Index of /net/fabricmc/fabric-loom/
+https://maven.fabricmc.net/net/fabricmc/fabric-loom/
+
+Webview via Extensions · Issue #21208 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/21208
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+Ability to export and modify system prompt · Issue #50 · google-antigravity/antigravity-cli
+https://github.com/google-antigravity/antigravity-cli/issues/50
+
+MCHPR/MCHPRS: A multithreaded Minecraft server built for redstone.
+https://github.com/MCHPR/MCHPRS
+
+shubzkothekar/antigravity-acp: An Agent Client Protocol (ACP) server for Google Antigravity's `agy` CLI, built on Bun. Connects ACP-compatible editors to drive `agy` with live streaming and history replay.
+https://github.com/shubzkothekar/antigravity-acp
+
+Python | Python
+https://zed.dev/docs/languages/python
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+FabricMC/fabric-example-mod at 1.20.1
+https://github.com/FabricMC/fabric-example-mod/tree/1.20.1
+
+Java — Zed Extension
+https://zed.dev/extensions/java
+
+Index of /net/fabricmc/fabric-loom/net.fabricmc.fabric-loom.gradle.plugin/
+https://maven.fabricmc.net/net/fabricmc/fabric-loom/net.fabricmc.fabric-loom.gradle.plugin/
+
+litematica/src/main/java/fi/dy/masa/litematica/schematic/verifier/VerifierResultSorter.java at pre-rewrite/fabric/1.20.1 · maruohon/litematica
+https://github.com/maruohon/litematica/blob/pre-rewrite/fabric/1.20.1/src/main/java/fi/dy/masa/litematica/schematic/verifier/VerifierResultSorter.java
+
+(3) Making A Register File - LRCWV Episode 3 - YouTube
+https://www.youtube.com/watch?v=JNuYK7Tzc_k
+
+litematica/src/main/java/litematica/scheduler at ornithe/1.12.2 · maruohon/litematica
+https://github.com/maruohon/litematica/tree/ornithe/1.12.2/src/main/java/litematica/scheduler
+
+minecraft vertical repeater - Google 搜索
+https://www.google.com/search?q=minecraft+vertical+repeater&oq=repeater+minecraft+ver&gs_lcrp=EgZjaHJvbWUqCAgBEAAYCBgeMgYIABBFGDkyCAgBEAAYCBgeMgoIAhAAGAgYChgeMggIAxAAGAgYHjIKCAQQABiABBiiBDIHCAUQABjvBTIHCAYQABjvBTIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDU3MThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+GEMINI.md / CLAUDE.md : r/google_antigravity
+https://www.reddit.com/r/google_antigravity/comments/1qn742a/geminimd_claudemd/
+
+2026-09-18起 - Google Gemini
+https://gemini.google.com/app/623e938f2191daf7
+
+Google Antigravity full system prompt as of 2025-12-20.
+https://gist.github.com/anthfgreco/87718fbbf313bcf7f5ca3f36fedb372a
+
+Google 翻译
+https://translate.google.com/?sl=zh-CN&tl=en&text=%E5%9B%B0%E6%83%91%E5%BA%A6&op=translate
+
+salu133445/muspy: A toolkit for symbolic music generation
+https://github.com/salu133445/muspy
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+karpathy/llm.c: LLM training in simple, raw C/CUDA
+https://github.com/karpathy/llm.c
+
+antigravity response copy to markdown - Google 搜索
+https://www.google.com/search?q=antigravity+response+copy+to+markdown&oq=antigravity+response+copy+to+markdown&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgHGB4yCAgCEAAYBxgeMggIAxAAGAcYHjIICAQQABgHGB4yCAgFEAAYBxgeMggIBhAAGAcYHjIICAcQABgHGB4yCAgIEAAYBxgeMggICRAAGAcYHtIBCTEwMDExajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%A4%9A%E6%80%81&op=translate
+
+llm.c/train_gpt2.cu at master · karpathy/llm.c
+https://github.com/karpathy/llm.c/blob/master/train_gpt2.cu
+
+recurrent-neural-net/src/lstm.c at master · Ricardicus/recurrent-neural-net
+https://github.com/Ricardicus/recurrent-neural-net/blob/master/src/lstm.c
+
+news.ycombinator.com/item?id=47710713
+https://news.ycombinator.com/item?id=47710713
+
+Ricardicus/recurrent-neural-net: A recurrent (LSTM) neural network in C
+https://github.com/Ricardicus/recurrent-neural-net
+
+Find reason behind CUBLAS_STATUS_INTERNAL_ERROR - Accelerated Computing / GPU-Accelerated Libraries - NVIDIA Developer Forums
+https://forums.developer.nvidia.com/t/find-reason-behind-cublas-status-internal-error/163930/2
+
+cublasDgemm is giving weird CUBLAS_STATUS_INTERNAL_ERROR - Accelerated Computing / GPU-Accelerated Libraries - NVIDIA Developer Forums
+https://forums.developer.nvidia.com/t/cublasdgemm-is-giving-weird-cublas-status-internal-error/77101
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+Prompting and interaction - Antigravity CLI | Google Antigravity Docs
+https://antigravity.google/docs/cli/prompting/
+
+abcjs: Quick Editor
+https://editor.drawthedots.com/
+
+technical_report.pdf
+file:///C:/Users/tannal/Downloads/technical_report.pdf
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+1909.05858
+https://arxiv.org/pdf/1909.05858
+
+salesforce/ctrl: Conditional Transformer Language Model for Controllable Generation
+https://github.com/salesforce/ctrl
+
+Angle - Typst Documentation
+https://typst.app/docs/reference/layout/angle/
+
+基于大语言模型的ABC音乐生成
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/template/thesis.pdf
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%B0%91%E8%B0%A3&op=translate
+
+2111.04093
+https://arxiv.org/pdf/2111.04093
+
+folk-rnn/data at master · IraKorshunova/folk-rnn
+https://github.com/IraKorshunova/folk-rnn/tree/master/data
+
+2026-10-07.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/2026-10-07.pdf
+
+fscloud 机场 - Google 搜索
+https://www.google.com/search?q=fscloud+%E6%9C%BA%E5%9C%BA&sca_esv=b44634d0b9d75b78&sxsrf=APpeQnsiKAx8osp1lTTI0ejACdEqJGWMLw:1791266478746&ei=ro7EaomHLcKTruEPu_PNsA8&start=20&sa=N&sstk=AS6-VmJliXkp1x2wgCSKbyJMVN-6cd8DS6B0Lyt1IUL8Dd3lm-shh9nMlXE5ImcEyxASkbdfvo8q6kcUdL8rsQzDPmCmrRv7G6l6uaJcj8N1b8EviB0xgifG4_yLSjDEtDXM&ved=2ahUKEwiJlqfR26SXAxXCiSsGHbt5E_Y4ChDy0wN6BAguEAc&biw=1440&bih=731&dpr=2
+
+登录页 | 烤肠
+https://kaochang.shop/#/login
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E7%BC%9D%E5%90%88&op=translate
+
+yizhilll/MERT: Official implementation of the paper "Acoustic Music Understanding Model with Large-Scale Self-supervised Training".
+https://github.com/yizhilll/MERT
+
+spotify/basic-pitch: A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+https://github.com/spotify/basic-pitch
+
+essentia/src/algorithms/extractor/keyextractor.cpp at b9fa6cb674ca43dfb94d28d293aeda441c6745db · MTG/essentia
+https://github.com/MTG/essentia/blob/v2.1_beta5-1445-gb9fa6cb6/src/algorithms/extractor/keyextractor.cpp
+
+typst/typst: A markup-based typesetting system that is powerful and easy to learn.
+https://github.com/typst/typst
+
+2026-10-07.pdf
+file:///C:/Users/tannal/tannalwork/projects/NENU-Thesis-Typst/reports/2026-10-07.pdf
+
+music-x-lab/POP909-Dataset: This is the dataset repository for the paper: POP909: A Pop-song Dataset for Music Arrangement Generation
+https://github.com/music-x-lab/POP909-Dataset
+
+未命名电子表格 - Google 表格
+https://docs.google.com/spreadsheets/d/1d-zMAa6GvD3ePFKbq56l4SH9a_rwIj8iT2NQ1MtSK7s/edit?gid=1529680267#gid=1529680267
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E5%B9%B3%E7%AD%89&op=translate
+
+tannal/abc-ai
+https://github.com/tannal/abc-ai
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+servo/servo: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+https://github.com/servo/servo
+
+dioxus - Google 搜索
+https://www.google.com.hk/search?q=dioxus&oq=dioxus+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyBwgDEAAYgAQyCQgEEAAYDBiABDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPdIBCDQwNjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+What's your take on Dioxus : r/rust
+https://www.reddit.com/r/rust/comments/1k41xkj/whats_your_take_on_dioxus/
+
+abc notation player - Google 搜索
+https://www.google.com.hk/search?q=abc+notation+player&oq=abc+not&gs_lcrp=EgZjaHJvbWUqBwgDEAAYgAQyBggAEEUYOTIGCAEQIxgnMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEINDcwNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+ABC Player and Editor 3.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+html-midi-player | Play and display MIDI files online
+https://cifkao.github.io/html-midi-player/
+
+ABC Player and Editor 3.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+Google 翻译
+https://translate.google.com/?sl=auto&tl=en&text=%E6%B4%97%E8%84%91&op=translate
+
+ABC Player and Editor 3.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+multimodal-art-projection/YuE: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+https://github.com/multimodal-art-projection/YuE
+
+ABC Player and Editor 3.0 - Rectangle Red, Stony Stratford, Milton Keynes
+https://abc.rectanglered.com/
+
+earworm - Google 搜索
+https://www.google.com/search?q=earworm&sca_esv=edd3672440a57cf7&sxsrf=APpeQnt_iRwkZcIs8pNo_aO7FnJ0LYPP8A%3A1791298711242&ei=lwzFarCpDqWe0PEP1bzw0As&biw=1440&bih=731&uact=5&oq=earworm&gs_lp=Egxnd3Mtd2l6LXNlcnAiB2Vhcndvcm1IhwFQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAvgBAZgCAKACAJgDAJIHAKAHALIHALgHAMIHAMgHAIAIAQ&sclient=gws-wiz-serp
+
 # 2026-10-06
 
 Igalia-work - Google Gemini
