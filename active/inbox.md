@@ -1,6 +1,10 @@
 
 
+# 2026-10-06
 
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
 
 # 2026-10-05
 

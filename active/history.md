@@ -1,4 +1,344 @@
 
+# 2026-10-06
+
+Igalia-work - Google Gemini
+https://gemini.google.com/app/080bc184f6bfd893
+
+2026-08-11起 - Google Gemini
+https://gemini.google.com/app/84958763323cf2e4
+
+[svg] Swap SVGAElement to the new HyperlinkElementUtils mixin. (8015702) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8015702
+
+Igalia Chat [3] | developers
+https://chat.igalia.com/#/room/#developers:mozilla.org
+
+WebAssembly/component-model: Repository for design and specification of the Component Model
+https://github.com/WebAssembly/component-model
+
+Minju-kim-igalia (Minju Kim)
+https://github.com/Minju-kim-igalia
+
+Introducing GNOME 51 - GNOME Release Notes
+https://release.gnome.org/51/
+
+WebAssembly: Component Model · Issue #1454 · mozilla/standards-positions
+https://github.com/mozilla/standards-positions/issues/1454
+
+The Netherlands is building its own Linux OS to break free from Microsoft | TechSpot
+https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html
+
+ntfargo/Relapse-Exploit: Exploit chain for PS5 7.00 - 13.60
+https://github.com/ntfargo/Relapse-Exploit
+
+Browse Free HD Images of Bet You Didn't Expect To See A Yak Being Shaved Today
+https://www.shopify.com/stock-photos/photos/bet-you-didnt-expect-to-see-a-yak-being-shaved-today
+
+Meng Tan Coding experience II 2026 - HedgeDoc
+https://notes.igalia.com/Jg9XkwG0TjqwU6d2tigy5Q?view
+
+Meng Tan - Web Platform (#41) · Issue · shared-resources/ce-weeklyreports
+https://gitlab.igalia.com/shared-resources/ce-weeklyreports/-/work_items/41
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/
+
+Buildbot
+https://ews-build.webkit.org/#/builders/120/builds/136410
+
+Mozilla MathML Test
+https://fred-wang.github.io/MathFonts/mozilla_mathml_test/?fontFamily=LucidaBright
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Verdict&op=translate
+
+MathML Core
+https://w3c.github.io/mathml-core/#fractions-mfrac
+
+test4.html
+file:///home/tannal/tannalwork/projects/servo/test4.html
+
+Servo MathML mfrac Test Suite
+file:///home/tannal/tannalwork/projects/servo/frac.html
+
+Minju Kim | Igalia - Open Source Consulting and Development
+https://www.igalia.com/team/mkim
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+DevTools - The Servo Book
+https://book.servo.org/contributing/devtools.html
+
+raw.githubusercontent.com/w3c/xml-entities/gh-pages/unicode.xml
+https://raw.githubusercontent.com/w3c/xml-entities/gh-pages/unicode.xml
+
+gemini chat paste long text slow - Google 搜索
+https://www.google.com/search?q=gemini+chat+paste+long+text+slow&sca_esv=91241afbd92acca7&sxsrf=APpeQnu-dTN_cl6D96oJUuVWXzylTdl4ZA%3A1791005587846&ei=k5PAaqr8MpvDkPIPwfWRgA0&uact=5&oq=gemini+chat+paste+long+text+slow&gs_lp=Egxnd3Mtd2l6LXNlcnAiIGdlbWluaSBjaGF0IHBhc3RlIGxvbmcgdGV4dCBzbG93MgsQABiABBiiBBiwAzILEAAYgAQYogQYsAMyCxAAGIAEGKIEGLADMggQABjvBRiwAzIIEAAY7wUYsANIvgtQ8gNYogpwAXgAkAEAmAHOA6AB8AiqAQcyLTMuMC4xuAEDyAEA-AEBmAIBoAIDmAMAiAYBkAYFkgcBMaAHmQ6yBwC4BwDCBwMwLjHIBwGACAE&sclient=gws-wiz-serp
+
+gemini chat vscode - Google 搜索
+https://www.google.com/search?q=gemini+chat+vscode&oq=gemini+chat+vscode&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgYIAhAjGCcyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgyNzY4ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8
+
+test4.html
+file:///home/tannal/tannalwork/projects/servo/test4.html
+
+Google Antigravity 登录不上？全网最全排查解决方案（亲测有效） - 知乎
+https://zhuanlan.zhihu.com/p/2004476069055600450
+
+policies.google.com/country-association-form
+https://policies.google.com/country-association-form
+
+Google 服务条款 – 隐私权和条款 – Google
+https://policies.google.com/terms
+
+What Is My IP Location? IP Address & Location Finder
+https://www.iplocation.net/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+use crate::context::LayoutContext; - Outside of Project - Antigravity
+http://localhost:35505/c/55569ef1-3029-4dc6-bebd-24de28f41509?section=outside-of-project
+
+微信文件传输助手网页版
+https://szfilehelper.weixin.qq.com/
+
+Is there a strict "Chat Only" mode? The agent is way too eager to write code. : r/google_antigravity
+https://www.reddit.com/r/google_antigravity/comments/1pv5ur7/is_there_a_strict_chat_only_mode_the_agent_is_way/
+
+Antigravity System Prompts : r/google_antigravity
+https://www.reddit.com/r/google_antigravity/comments/1pf98r0/antigravity_system_prompts/
+
+antigravity-trace/antigravity-trace.py at main · ljw1004/antigravity-trace
+https://github.com/ljw1004/antigravity-trace/blob/main/antigravity-trace.py
+
+External agent Antigravity (antigravity-acp) stuck at login — oauth-personal hangs 'Timed out waiting for authentication flow' (local, not SSH) · Issue #63464 · zed-industries/zed
+https://github.com/zed-industries/zed/issues/63464
+
+Zed - IDE Extensions | Google Antigravity Docs
+https://antigravity.google/docs/ide/extensions/zed/
+
+MathML Core
+https://w3c.github.io/mathml-core/#css-styling
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+web-platform.test:8000/mathml/idlharness.window.html
+http://web-platform.test:8000/mathml/idlharness.window.html
+
+web-platform-tests/wpt: Test suites for Web platform specs — including WHATWG, W3C, and others
+https://github.com/web-platform-tests/wpt/tree/master
+
+Support MathML and pass ACID MathML Test Suite · Issue #2165 · servo/servo
+https://github.com/servo/servo/issues/2165
+
+The MathML Acid1 Test
+https://fred-wang.github.io/AcidTestsMathML/acid1/
+
+Artifact review | Google Antigravity Docs
+https://antigravity.google/docs/artifact-review/
+
+The MathML Acid2 Test
+http://fred-wang.github.io/AcidTestsMathML/acid2/#top
+
+web-platform-tests dashboard
+https://wpt.fyi/results/html/syntax/parsing/html_content_in_foreign_context.html?label=experimental&label=master&aligned
+
+simonwuelker (Simon Wülker)
+https://github.com/simonwuelker?org=servo&year_list=1
+
+MathML Core
+https://w3c.github.io/mathml-core/#legacy-mathml-style-attributes
+
+how to emphasize text in markdown - Google 搜索
+https://www.google.com/search?q=how+to+emphasize+text+in+markdown&sca_esv=162034b9a39fa584&sxsrf=APpeQnuPEhPu554aJWE_muq-muDHEVTO6Q%3A1791171161802&ei=WRrDarLBML_TkPIPxJLBgQE&biw=1850&bih=932&oq=how+to+emp+text+in+markdown&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2hvdyB0byBlbXAgdGV4dCBpbiBtYXJrZG93bioGCAAYBxgeMgYQABgHGB4yBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIESOs9UJExWKM0cAJ4AZABAJgB9AGgAc8FqgEDMi0zuAEDyAEA-AEBmAIEoAL7A8ICChAAGEcY1gQYsAOYAwCIBgGQBgqSBwUyLjAuMqAHqwiyBwMyLTK4B-kDwgcDMi00yAcUgAgB&sclient=gws-wiz-serp
+
+12 oct 2026 - Google 搜索
+https://www.google.com/search?q=12+oct+2026&oq=12+Oct&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEINzg4MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+HTML Standard
+https://html.spec.whatwg.org/#the-css-user-agent-style-sheet-and-presentational-hints
+
+MathML Core
+https://w3c.github.io/mathml-core/#css-styling
+
+Support MathML and pass ACID MathML Test Suite · Issue #2165 · servo/servo
+https://github.com/servo/servo/issues/2165
+
+spidermonkey wasm in rust - Google 搜索
+https://www.google.com/search?q=spidermonkey+wasm+in+rust&oq=spidermonkey+wasm+in+rust&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABjvBTIHCAIQABjvBTIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDU2MzJqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+bytecodealliance/spidermonkey-wasm-rs
+https://github.com/bytecodealliance/spidermonkey-wasm-rs
+
+script/dom: Implement basic MathML DOM interfaces and bindings by tannal · Pull Request #48631 · servo/servo
+https://github.com/servo/servo/pull/48631
+
+Dartium - Google 搜索
+https://www.google.com/search?q=Dartium&oq=Dartium&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgTGB4yBwgCEAAY7wUyCggDEAAYgAQYogQyBwgEEAAY7wUyBwgFEAAY7wUyBwgGEAAY7wXSAQc1OThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+wasm webidl - Google 搜索
+https://www.google.com/search?q=wasm+webidl&sca_esv=6751182bca440bac&biw=1850&bih=932&sxsrf=APpeQnuZj4vAPapAW7KpksfsOB26XdV9FA%3A1791177579701&ei=azPDap-tKonqmLQPhKrToAo&uact=5&oq=wasm+webidl&gs_lp=Egxnd3Mtd2l6LXNlcnAiC3dhc20gd2ViaWRsMgQQABgeMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBUilGlDfBljYFnABeAGQAQCYAZgCoAG9DaoBAzItN7gBA8gBAPgBAZgCCKAC7A3CAgoQABhHGNYEGLADwgIEECMYJ8ICCBAAGIAEGMsBwgIHEAAYgAQYDMICBRAAGIAEwgIHEAAYgAQYDcICBhAAGB4YDZgDAIgGAZAGCpIHBTEuMC43oAeeE7IHAzItN7gH5Q3CBwUwLjIuNsgHHIAIAQ&sclient=gws-wiz-serp
+
+Making WebAssembly a first-class language on the Web | Hacker News
+https://news.ycombinator.com/item?id=47167944
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+3746174
+https://queue.acm.org/doi/pdf/10.1145/3746174
+
+Introduction - The WebAssembly Component Model
+https://component-model.bytecodealliance.org/
+
+Evaluate Wasm Component Model for the Web [474661098] - Chromium
+https://issues.chromium.org/issues/474661098
+
+wasmtime/crates/wasmtime/src/runtime/component/bindgen_examples at a01376fece7de0d91eb266427a56f946abb159fc · bytecodealliance/wasmtime
+https://github.com/bytecodealliance/wasmtime/tree/a01376fece7de0d91eb266427a56f946abb159fc/crates/wasmtime/src/runtime/component/bindgen_examples
+
+bytecodealliance/cargo-component: A Cargo subcommand for creating WebAssembly components based on the component model proposal.
+https://github.com/bytecodealliance/cargo-component
+
+WASIp2 - Wasmtime
+https://docs.wasmtime.dev/examples-wasip2.html?highlight=component%3A%3A#invoke-the-wasm-component
+
+bytecodealliance/javy: JS to WebAssembly toolchain
+https://github.com/bytecodealliance/javy
+
+wasm component model browser - Google 搜索
+https://www.google.com/search?q=wasm+component+model+browser+&sca_esv=bb28770a960d316c&sxsrf=APpeQnstAK2rg2OIzXB2qOaeHlDZb9vHOQ%3A1791185985301&ei=QVTDasyyEfm7ruEP_cH-kAg&uact=5&oq=wasm+component+model+browser+&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXdhc20gY29tcG9uZW50IG1vZGVsIGJyb3dzZXIgMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADMgoQABhHGNYEGLADSOYLUPoJWPoJcAN4AJABAJgBpwOgAacDqgEDNC0xuAEDyAEA-AEBmAIDoAIUmAMAiAYBkAYKkgcBM6AH5QSyBwC4BwDCBwMyLTPIBw2ACAE&sclient=gws-wiz-serp
+
+Issues · whatwg/html
+https://github.com/whatwg/html/issues?q=is%3Aissue+state%3Aopen+wasm+script
+
+[Question] Proposal for WebAPI calls without JS glue · Issue #371 · WebAssembly/component-model
+https://github.com/WebAssembly/component-model/issues/371
+
+Ryan Hunt's Blog
+https://eqrion.net/
+
+Query: Advanced Search
+https://phabricator.services.mozilla.com/search/query/onoUBjTj_lOL/#R
+
+Production uses of Dioxus : r/rust
+https://www.reddit.com/r/rust/comments/1nhzjlf/production_uses_of_dioxus/
+
+收件箱 (1) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+dioxus/Cargo.toml at f9519967a6fb3e85bf3c1a2e2bf816a85033f752 · DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus/blob/f9519967a6fb3e85bf3c1a2e2bf816a85033f752/Cargo.toml
+
+bytecodealliance/ComponentizeJS: JS -> WebAssembly Component
+https://github.com/bytecodealliance/ComponentizeJS
+
+dioxus/packages/html/Cargo.toml at main · DioxusLabs/dioxus
+https://github.com/DioxusLabs/dioxus/blob/main/packages/html/Cargo.toml
+
+dioxus-hooks - crates.io: Rust Package Registry
+https://crates.io/crates/dioxus-hooks/versions
+
+wasm component model firefox - Google 搜索
+https://www.google.com/search?q=wasm+component+model+firefox&oq=wasm+component+model+firefox&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMgcIAhAAGO8FMgoIAxAAGKIEGIkFMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGIAEGKIE0gEIMzU5OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+2025608 - (wasm-components) [meta] WebAssembly Components
+https://bugzilla.mozilla.org/show_bug.cgi?id=2025608
+
+vello/vello_gpu/examples at f3000c8d9e7a9c7e6abb09b9587238bf8b4860ff · linebender/vello
+https://github.com/linebender/vello/tree/f3000c8d9e7a9c7e6abb09b9587238bf8b4860ff/vello_gpu/examples
+
+GraphiteEditor/Graphite: Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+https://github.com/GraphiteEditor/Graphite
+
+bytecodealliance/jco: JavaScript toolchain for working with WebAssembly Components
+https://github.com/bytecodealliance/jco
+
+Issues · zed-industries/zed
+https://github.com/zed-industries/zed/issues?q=is%3Aissue+state%3Aclosed+compile+to+wasm
+
+Element: compositionstart event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Element/compositionstart_event
+
+Input Method Editor API
+https://www.w3.org/TR/ime-api/
+
+Towards a Modern Web Stack (Ian 'Hixie' Hickson) | Hacker News
+https://news.ycombinator.com/item?id=34612696
+
+EditContext API - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/EditContext_API
+
+component-model/design/mvp/WIT.md at main · WebAssembly/component-model
+https://github.com/WebAssembly/component-model/blob/main/design/mvp/WIT.md
+
+Igalia Webmail :: Inbox
+https://webmail.igalia.com/?_task=mail&_mbox=INBOX
+
+[Sanitizer] Add WPT coverage for all default safe MathML elements and attributes (8212842) · Gerrit Code Review
+https://chromium-review.googlesource.com/c/chromium/src/+/8212842?tab=comments
+
+Add MathML `<a>` handling to sanitization algorithms by lukewarlow · Pull Request #12592 · whatwg/html
+https://github.com/whatwg/html/pull/12592
+
+WebAssembly
+https://github.com/webassembly
+
+Hixie's Natural Log: Reflecting on 18 years at Google
+https://ln.hixie.ch/?start=1700627373&count=1
+
+Google 翻译
+https://translate.google.com/?sl=en&tl=zh-CN&text=Unilaterally&op=translate
+
+Bytecode Alliance — WASI 0.3 Launched
+https://bytecodealliance.org/articles/WASI-0.3
+
+Tauri + Servo = 💡? · tauri-apps · Discussion #15235
+https://github.com/orgs/tauri-apps/discussions/15235
+
+servo/ports at main · servo/servo
+https://github.com/servo/servo/tree/main/ports
+
+tauri-apps/wry: Cross-platform WebView library in Rust for Tauri.
+https://github.com/tauri-apps/wry
+
+Explain the conection of GC and DOM-Access in laymen's terms · Issue #1184 · WebAssembly/design
+https://github.com/WebAssembly/design/issues/1184
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655
+
+tannal/servo-wasm-demos: Run modern UI frameworks (like Dioxus RSX) inside Servo with zero JavaScript glue, zero `wasm-bindgen`.
+https://github.com/tannal/servo-wasm-demos
+
+Making WebAssembly a first-class language on the Web | Hacker News
+https://news.ycombinator.com/item?id=47167944
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Why is WebAssembly a second-class language on the web? - Mozilla Hacks - the Web developer blog
+https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+Re: [servo/servo] script: WebAssembly Component Model execution and direct DOM bindings via WIT (PR #48655) - tannal2409@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQhWnqrGLlNWRxrDsKgvZGNlMQX
+
+script: WebAssembly Component Model execution and direct DOM bindings via WIT by tannal · Pull Request #48655 · servo/servo
+https://github.com/servo/servo/pull/48655#issuecomment-6011676921
+
+web-platform.test
+http://web-platform.test:8000/mathml/
+
+localhost
+http://localhost:46305/auth/callback?state=6y4Qmx4FCk7wvY8sjr9A0w&iss=https://accounts.google.com&code=4/0AXlqoi61781IX48QXQ5RDj4jW42SlD9n5oiJJGWLs4X9kNvssAx48ajpqAsXUJOPvf4ENw&scope=email%20profile%20https://www.googleapis.com/auth/cloud-platform%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/cclog%20https://www.googleapis.com/auth/experimentsandconfigs%20https://www.googleapis.com/auth/aicode%20openid&authuser=0&prompt=consent
+
+localhost
+http://localhost:38011/auth/callback?state=UH5iISruI9qaJKyeDQqbiQ&iss=https://accounts.google.com&code=4/0AXlqoi7v0yxcpgHhWZeptyfSdXcV19nlu_sOeArrVeVW0PfvGtw2jR-4YhJP3rkgr93ysQ&scope=email%20profile%20https://www.googleapis.com/auth/cloud-platform%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/cclog%20https://www.googleapis.com/auth/experimentsandconfigs%20https://www.googleapis.com/auth/aicode%20openid&authuser=0&prompt=consent
+
+dioxus - Google 搜索
+https://www.google.com/search?q=dioxus&oq=dioxus&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYOzIHCAMQLhiABDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPTIGCAcQBRhA0gEIMzcxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
 # 2026-10-05
 
