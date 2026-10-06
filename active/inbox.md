@@ -2,6 +2,14 @@
 
 # 2026-10-06
 
+Encapsulation: Instead of a global match handler_id string parser, each component simply declares its own closure in RSX:
+rust
+button {
+onclick: move |_| todos.write().retain(|i| i.id != item.id),
+"🗑️ Delete"
+}
+Under the hood, Dioxus's create_event_listener("click", element_id) tells Servo elem.add_event_listener("click", element_id). When clicked, Servo calls vdom.handle_event("click", data, element_id), which executes that specific closure directly!
+
 In this session:
 DO NOT run shell commands, searches, or file inspection tools automatically. 
 Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
