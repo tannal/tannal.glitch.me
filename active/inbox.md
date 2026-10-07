@@ -1,5 +1,46 @@
 
 
+The original article: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+
+There is a working example bringing Wasm as a first-class language to Servo.
+https://github.com/servo/servo/pull/48655
+It can run a Todo app written in dioxus-core 0.6 with no wasm-bindgen.
+
+We can even hook up the layout engine and expose APIs to Wasm components that implement a layout algorithm in any language that compiles to Wasm (I have a WIP example implementing MathML fractions in Servo using Wasm).
+
+Not sure if Dioxus Labs is interested in this or not @**Nico Burns** :-)
+
+Framework responsibility: Stamping node IDs and dispatching closures (Dioxus already does this).
+WIT / Servo responsibility: Providing event.target in the on-event call so the guest knows which child element initiated the event.
+
+package servo:dom@0.1.0;
+
+record dom-event {
+    event-type: string,
+    // The inner element that triggered the event (event.target)
+    target-id: option<string>,
+    // Mouse / Keyboard metadata
+    client-x: f64,
+    client-y: f64,
+    button: u16,
+}
+
+world app {
+    export run: func();
+    // Passes rich event details across the Component Model boundary:
+    export on-event: func(handler-id: string, event: dom-event);
+}
+
+[Screencast from 2026年10月05日 22时15分12秒.webm](https://github.com/user-attachments/assets/c81c741a-38d5-4873-bb0c-457d4d622564)
+
+Pattern A: Host-Driven Live Component Swapping (<10ms)
+
+Pattern B: True HMR with State Preservation
+
+This is something Chromium and WebKit cannot do today. It is one of the most compelling paradigm shifts of bringing the WebAssembly Component Model directly into the browser engine.
+
+hot reloading
+
 # 1. Switch to mathml-wasm-layout
 git checkout mathml-wasm-layout
 # 2. Soft-reset directly onto first-class-wasm-poc
