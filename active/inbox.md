@@ -1,4 +1,13 @@
 
+
+# 2026-10-08
+
+I think you want doube check and redesign the whole architecture and API from what we have now
+
+And remember don't break dioxus app and other apps that already perflectly runs on the sevo
+
+Keep the whole vision of first class citenzen wasm and the future of the web in mind.
+
 # 2026-10-07
 
 cargo component build --release --target wasm32-unknown-unknown
