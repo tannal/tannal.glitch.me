@@ -1,5 +1,22 @@
 
 
+
+Milestone 1: "Offline Ebou" (Feed from Mock JSON) — Can be done in 1-2 days
+
+Milestone 2: Add fetch / wasi:http to servo-wasm
+
+Milestone 3: Input & Posting
+
+Gap 1: HTTP Networking (wasi:http or servo:net/fetch) — The Biggest Gap
+
+Gap 2: Event Pipeline Beyond "Click" (input, scroll, keydown)
+
+Gap 3: Async Task Spawning in Wasm (wasm_guest)
+
+Gap 4: Storage & Auth Persistence (localStorage / wasi:filesystem)
+
+Gap 5: Dioxus Version Migration (0.4 → 0.6)
+
 The original article: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
 
 There is a working example bringing Wasm as a first-class language to Servo.
