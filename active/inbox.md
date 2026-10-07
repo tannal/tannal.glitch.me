@@ -1,6 +1,14 @@
 
 
 
+./mach build --features canvas-vello
+
+./mach build --features vello
+
+In this session:
+DO NOT run shell commands, searches, or file inspection tools automatically. 
+Act strictly as a standard text-based conversational assistant. Provide answers directly in text without calling tools.
+
 Milestone 1: "Offline Ebou" (Feed from Mock JSON) — Can be done in 1-2 days
 
 Milestone 2: Add fetch / wasi:http to servo-wasm
