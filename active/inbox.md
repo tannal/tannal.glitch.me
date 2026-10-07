@@ -1,5 +1,7 @@
 
 
+git add -N wit/events.wit
+
 And remember don't break dioxus app and other apps that already perflectly runs on the sevo
 
 Keep the whole vision of first class citenzen wasm and the future of the web in mind.
